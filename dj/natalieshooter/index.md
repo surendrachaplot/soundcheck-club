@@ -1,6 +1,6 @@
 # Natalie Shooter
 
-Natalie Shooter is a Afrobeat and Funk / Soul artist with 2 upcoming club dates listed on soundcheck as of Sun, 19 Jul 2026, next at Point Ephémère, Paris on Fri, 24 Jul 2026.
+Natalie Shooter is a Afrobeat and Funk / Soul artist with 2 upcoming club dates listed on soundcheck as of Mon, 20 Jul 2026, next at Point Ephémère, Paris on Fri, 24 Jul 2026.
 
 Natalie Shooter is an afrobeat and funk / soul artist tracked on soundcheck, with 25 sets logged across Hamburg, London and Paris. Often billed alongside Ernesto Chahoud, Beirut Groove Collective and Hamish & Toby. Next up: Point Ephémère, Paris on Fri 24 Jul.
 
@@ -26,4 +26,4 @@ Natalie Shooter is an afrobeat and funk / soul artist tracked on soundcheck, wit
 
 Ernesto Chahoud, Beirut Groove Collective, Hamish & Toby
 
-*Updated Sun, 19 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/natalieshooter/)*
+*Updated Mon, 20 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/natalieshooter/)*

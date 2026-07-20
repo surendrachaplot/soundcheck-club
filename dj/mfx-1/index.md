@@ -1,6 +1,6 @@
 # MFX (1)
 
-MFX (1) is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Sun, 19 Jul 2026, next at arkaoda Berlin, Berlin on Fri, 24 Jul 2026.
+MFX (1) is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Mon, 20 Jul 2026, next at arkaoda Berlin, Berlin on Fri, 24 Jul 2026.
 
 MFX (1) is a house and techno artist based in Germany, tracked on soundcheck, with 22 sets logged across Berlin, Leipzig, Munich and Warsaw. Often billed alongside metaverde, theories and Menzel. Next up: arkaoda Berlin, Berlin on Fri 24 Jul.
 
@@ -27,4 +27,4 @@ MFX (1) is a house and techno artist based in Germany, tracked on soundcheck, wi
 
 metaverde, theories, Menzel
 
-*Updated Sun, 19 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/mfx-1/)*
+*Updated Mon, 20 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/mfx-1/)*

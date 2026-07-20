@@ -1,6 +1,6 @@
 # Andy Arts
 
-Andy Arts is a music venue in Detroit with 1 upcoming night listed on soundcheck as of Sun, 19 Jul 2026; the next is "Colin Self // Surgery Season" on Sat, 8 Aug 2026.
+Andy Arts is a music venue in Detroit with 1 upcoming night listed on soundcheck as of Mon, 20 Jul 2026; the next is "Colin Self // Surgery Season" on Sat, 8 Aug 2026.
 
 Andy Arts is a music venue in Detroit listed on soundcheck. 1 upcoming night, with line-ups including Colin Self. Browse upcoming dates, start times and who's playing. 3000 Fenkell Ave, Detroit, MI 48238, USA.
 
@@ -14,4 +14,4 @@ Andy Arts is a music venue in Detroit listed on soundcheck. 1 upcoming night, wi
 
 3000 Fenkell Ave, Detroit, MI 48238, USA, Detroit
 
-*Updated Sun, 19 Jul 2026 · source: [soundcheck](https://soundcheck.club/detroit/club/andy-arts/)*
+*Updated Mon, 20 Jul 2026 · source: [soundcheck](https://soundcheck.club/detroit/club/andy-arts/)*

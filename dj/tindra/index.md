@@ -1,6 +1,6 @@
 # TINDRA
 
-TINDRA is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Sun, 19 Jul 2026, next at Hangaren, Copenhagen on Sat, 8 Aug 2026.
+TINDRA is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Mon, 20 Jul 2026, next at Hangaren, Copenhagen on Sat, 8 Aug 2026.
 
 TINDRA is a house and techno artist based in Sweden, tracked on soundcheck, with 24 sets logged across Barcelona, Berlin, Copenhagen and Stockholm and 1 more. Often billed alongside Pentti Igor, Fynutzu and Kawun. Next up: Hangaren, Copenhagen on Sat 8 Aug.
 
@@ -26,4 +26,4 @@ TINDRA is a house and techno artist based in Sweden, tracked on soundcheck, with
 
 Pentti Igor, Fynutzu, Kawun
 
-*Updated Sun, 19 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/tindra/)*
+*Updated Mon, 20 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/tindra/)*

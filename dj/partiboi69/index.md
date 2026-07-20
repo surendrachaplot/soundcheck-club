@@ -1,6 +1,6 @@
 # Partiboi69
 
-Partiboi69 is a Techno and House artist with 6 upcoming club dates listed on soundcheck as of Sun, 19 Jul 2026, next at Amnesia Ibiza, Ibiza on Mon, 20 Jul 2026.
+Partiboi69 is a Techno and House artist with 6 upcoming club dates listed on soundcheck as of Mon, 20 Jul 2026, next at Amnesia Ibiza, Ibiza on Mon, 20 Jul 2026.
 
 Partiboi69 is a techno and house artist based in Australia, tracked on soundcheck, with 185 sets logged across Aberdeen, Amsterdam, Antwerp and Austin and 64 more. Often billed alongside KETTAMA, Juicy Romance and DJ Heartstring. Next up: Amnesia Ibiza, Ibiza on Mon 20 Jul.
 
@@ -30,4 +30,4 @@ Partiboi69 is a techno and house artist based in Australia, tracked on soundchec
 
 KETTAMA, Juicy Romance, DJ Heartstring
 
-*Updated Sun, 19 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/partiboi69/)*
+*Updated Mon, 20 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/partiboi69/)*

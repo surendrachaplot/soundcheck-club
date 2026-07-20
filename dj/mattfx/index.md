@@ -1,6 +1,6 @@
 # Matt FX
 
-Matt FX is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Sun, 19 Jul 2026, next at Museum of Sex - NYC, New York City on Fri, 24 Jul 2026.
+Matt FX is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Mon, 20 Jul 2026, next at Museum of Sex - NYC, New York City on Fri, 24 Jul 2026.
 
 Matt FX is a house and techno artist based in United States of America, tracked on soundcheck, with 55 sets logged across Mexicocity, Newyorkcity, Seoul and Tokyo. Often billed alongside Mona Matsuoka, Tim Lucent and Vibeiana. Next up: Museum of Sex - NYC, Newyorkcity on Fri 24 Jul.
 
@@ -26,4 +26,4 @@ Matt FX is a house and techno artist based in United States of America, tracked 
 
 Mona Matsuoka, Tim Lucent, Vibeiana
 
-*Updated Sun, 19 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/mattfx/)*
+*Updated Mon, 20 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/mattfx/)*

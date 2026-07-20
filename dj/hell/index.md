@@ -1,6 +1,6 @@
 # DJ Hell
 
-DJ Hell is a Techno and House artist with 4 upcoming club dates listed on soundcheck as of Sun, 19 Jul 2026, next at The Golden Lion, Manchester on Fri, 24 Jul 2026.
+DJ Hell is a Techno and House artist with 4 upcoming club dates listed on soundcheck as of Mon, 20 Jul 2026, next at The Golden Lion, Manchester on Fri, 24 Jul 2026.
 
 DJ Hell is a techno and house artist tracked on soundcheck, with 118 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 35 more. Often billed alongside Binh, Helena Hauff and Paty Vapor. Next up: The Golden Lion, Manchester on Fri 24 Jul.
 
@@ -28,4 +28,4 @@ DJ Hell is a techno and house artist tracked on soundcheck, with 118 sets logged
 
 Binh, Helena Hauff, Paty Vapor
 
-*Updated Sun, 19 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/hell/)*
+*Updated Mon, 20 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/hell/)*

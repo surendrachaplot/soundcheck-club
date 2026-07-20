@@ -1,6 +1,6 @@
 # Cube
 
-Cube is a music venue in Tokyo with 3 upcoming nights listed on soundcheck as of Sun, 19 Jul 2026; the next is "Ableton Meetup Tokyo Vol.66 How Do You Make Melodies" on Fri, 31 Jul 2026.
+Cube is a music venue in Tokyo with 3 upcoming nights listed on soundcheck as of Mon, 20 Jul 2026; the next is "Ableton Meetup Tokyo Vol.66 How Do You Make Melodies" on Fri, 31 Jul 2026.
 
 Cube is a music venue in Tokyo listed on soundcheck. 3 upcoming nights, with line-ups including CD HATA, DOLPHIN, Koyas and Miyuki Omura and 2 more. Browse upcoming dates, start times and who's playing. 3-4-11 B1 Chuoiikurabil, Azabudai, Minato-ku, Tokyo.
 
@@ -16,4 +16,4 @@ Cube is a music venue in Tokyo listed on soundcheck. 3 upcoming nights, with lin
 
 3-4-11 B1 Chuoiikurabil, Azabudai, Minato-ku, Tokyo, Tokyo
 
-*Updated Sun, 19 Jul 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/cube/)*
+*Updated Mon, 20 Jul 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/cube/)*

@@ -1,6 +1,6 @@
 # Point Ephémère
 
-Point Ephémère is a music venue in Paris with 6 upcoming nights listed on soundcheck as of Sun, 19 Jul 2026; the next is "Flux Tendu x Radio Alhara" on Tue, 21 Jul 2026.
+Point Ephémère is a music venue in Paris with 6 upcoming nights listed on soundcheck as of Mon, 20 Jul 2026; the next is "Flux Tendu x Radio Alhara" on Tue, 21 Jul 2026.
 
 Point Ephémère is a music venue in Paris listed on soundcheck. 6 upcoming nights, with line-ups including Beirut Groove Collective, Calling Marian, Ernesto Chahoud and Glisten and 2 more. Browse upcoming dates, start times and who's playing. 200 quai de Valmy; 75010; Paris; France.
 
@@ -19,4 +19,4 @@ Point Ephémère is a music venue in Paris listed on soundcheck. 6 upcoming nigh
 
 200 quai de Valmy; 75010; Paris; France, Paris
 
-*Updated Sun, 19 Jul 2026 · source: [soundcheck](https://soundcheck.club/paris/club/point-eph-m-re/)*
+*Updated Mon, 20 Jul 2026 · source: [soundcheck](https://soundcheck.club/paris/club/point-eph-m-re/)*

@@ -1,6 +1,6 @@
 # TASSERY
 
-TASSERY is a Techno and Trance artist with 3 upcoming club dates listed on soundcheck as of Sun, 19 Jul 2026, next at Beton-T, Utrecht on Sat, 1 Aug 2026.
+TASSERY is a Techno and Trance artist with 3 upcoming club dates listed on soundcheck as of Mon, 20 Jul 2026, next at Beton-T, Utrecht on Sat, 1 Aug 2026.
 
 TASSERY is a techno and trance artist based in France, tracked on soundcheck, with 50 sets logged across Amsterdam, Berlin, Geneva and Krakow and 15 more. Often billed alongside 6EJOU, Aphøtic and Carla Schmitt. Next up: Beton-T, Utrecht on Sat 1 Aug.
 
@@ -27,4 +27,4 @@ TASSERY is a techno and trance artist based in France, tracked on soundcheck, wi
 
 6EJOU, Aphøtic, Carla Schmitt
 
-*Updated Sun, 19 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/tassery/)*
+*Updated Mon, 20 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/tassery/)*

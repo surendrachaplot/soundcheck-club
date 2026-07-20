@@ -1,6 +1,6 @@
 # Standard Time
 
-Standard Time is a music venue in Toronto with 15 upcoming nights listed on soundcheck as of Sun, 19 Jul 2026; the next is "Piss Press and Standard Time present: PISS PRESS Launch Party " on Wed, 22 Jul 2026.
+Standard Time is a music venue in Toronto with 15 upcoming nights listed on soundcheck as of Mon, 20 Jul 2026; the next is "Piss Press and Standard Time present: PISS PRESS Launch Party " on Wed, 22 Jul 2026.
 
 Standard Time is a music venue in Toronto listed on soundcheck. 15 upcoming nights, with line-ups including A$H BANKS, Benski, Benski (CA) and Choirboi and 2 more. Browse upcoming dates, start times and who's playing. 165 Geary Ave Toronto, ON M6H 2B8, Canada.
 
@@ -23,4 +23,4 @@ Standard Time is a music venue in Toronto listed on soundcheck. 15 upcoming nigh
 
 165 Geary Ave Toronto, ON M6H 2B8, Canada, Toronto
 
-*Updated Sun, 19 Jul 2026 · source: [soundcheck](https://soundcheck.club/toronto/club/standard-time/)*
+*Updated Mon, 20 Jul 2026 · source: [soundcheck](https://soundcheck.club/toronto/club/standard-time/)*

@@ -1,14 +1,13 @@
 # Culture Cafe
 
-Culture Cafe is a music venue in Bangkok with 24 upcoming nights listed on soundcheck as of Sun, 19 Jul 2026; the next is "G2G House'n'Techno Music Collective presents; Giantsiam" on Sun, 19 Jul 2026.
+Culture Cafe is a music venue in Bangkok with 23 upcoming nights listed on soundcheck as of Mon, 20 Jul 2026; the next is "Monday Night: Minimal&Techno Vinyl Sessions by plazdj" on Mon, 20 Jul 2026.
 
-Culture Cafe is a music venue in Bangkok listed on soundcheck. 24 upcoming nights, with line-ups including Adam Dado, Damon Rider, DJ Krit Morton and djmoca and 2 more. Browse upcoming dates, start times and who's playing. 249 Thanon Samsen, Wat Sam Phraya, Phra Nakorn, Bangkok, Thailand, Bangkok.
+Culture Cafe is a music venue in Bangkok listed on soundcheck. 23 upcoming nights, with line-ups including Adam Dado, Damon Rider, DJ Krit Morton and djmoca and 2 more. Browse upcoming dates, start times and who's playing. 249 Thanon Samsen, Wat Sam Phraya, Phra Nakorn, Bangkok, Thailand, Bangkok.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Sun, 19 Jul 2026 | G2G House'n'Techno Music Collective presents; Giantsiam | Giantsiam |
 | Mon, 20 Jul 2026 | Monday Night: Minimal&Techno Vinyl Sessions by plazdj | plazdj |
 | Tue, 21 Jul 2026 | Bangkok Vinyl Minimal&Techno Sessions with MOODYBOOM feat Adam Dado | Adam Dado, MOODYBOOM |
 | Wed, 22 Jul 2026 | WEDNESDAY MINIMAL HOUSE'n'TECHNO 'VINYL SESSIONS' presents; plazdj (Strictly Vi‬‬‬‬‬‬‬‬‬nyl) | plazdj |
@@ -18,9 +17,10 @@ Culture Cafe is a music venue in Bangkok listed on soundcheck. 24 upcoming night
 | Sun, 26 Jul 2026 | G2G House'n'Techno Music Collective presents; Giantsiam | Giantsiam |
 | Mon, 27 Jul 2026 | Monday Night: Minimal&Techno Vinyl Sessions by plazdj | plazdj |
 | Tue, 28 Jul 2026 | Bangkok Vinyl Minimal&Techno Sessions with MOODYBOOM / Highwire crew | MOODYBOOM |
+| Wed, 29 Jul 2026 | Sorry! We're closed for major buddhist day |  |
 
 ## Address
 
 249 Thanon Samsen, Wat Sam Phraya, Phra Nakorn, Bangkok, Thailand, Bangkok, Bangkok
 
-*Updated Sun, 19 Jul 2026 · source: [soundcheck](https://soundcheck.club/bangkok/club/culture-cafe/)*
+*Updated Mon, 20 Jul 2026 · source: [soundcheck](https://soundcheck.club/bangkok/club/culture-cafe/)*

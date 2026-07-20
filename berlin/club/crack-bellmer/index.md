@@ -1,6 +1,6 @@
 # Crack Bellmer
 
-Crack Bellmer is a music venue in Berlin with 14 upcoming nights listed on soundcheck as of Sun, 19 Jul 2026; the next is "OPEN DECKS FOR FLINTA* PING PONG FOR ALL" on Wed, 22 Jul 2026.
+Crack Bellmer is a music venue in Berlin with 14 upcoming nights listed on soundcheck as of Mon, 20 Jul 2026; the next is "OPEN DECKS FOR FLINTA* PING PONG FOR ALL" on Wed, 22 Jul 2026.
 
 Crack Bellmer is a music venue in Berlin listed on soundcheck. 14 upcoming nights, with line-ups including Ale Hope, Anjawah, anna G and Candice Blonde and 2 more. Browse upcoming dates, start times and who's playing. Revaler Strasse 99; 10245 Berlin-Friedrichshain; Berlin; Germany.
 
@@ -23,4 +23,4 @@ Crack Bellmer is a music venue in Berlin listed on soundcheck. 14 upcoming night
 
 Revaler Strasse 99; 10245 Berlin-Friedrichshain; Berlin; Germany, Berlin
 
-*Updated Sun, 19 Jul 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/crack-bellmer/)*
+*Updated Mon, 20 Jul 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/crack-bellmer/)*

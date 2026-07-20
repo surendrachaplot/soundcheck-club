@@ -1,6 +1,6 @@
 # SKNHDZ
 
-SKNHDZ is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Sun, 19 Jul 2026, next at Azumaya, Tokyo on Tue, 21 Jul 2026.
+SKNHDZ is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Mon, 20 Jul 2026, next at Azumaya, Tokyo on Tue, 21 Jul 2026.
 
 SKNHDZ is a house and techno artist tracked on soundcheck, with 40 sets logged across Tokyo. Often billed alongside DJ246, CALPISS and KZA. Next up: Azumaya, Tokyo on Tue 21 Jul.
 
@@ -26,4 +26,4 @@ SKNHDZ is a house and techno artist tracked on soundcheck, with 40 sets logged a
 
 DJ246, CALPISS, KZA
 
-*Updated Sun, 19 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/sknhdz/)*
+*Updated Mon, 20 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/sknhdz/)*

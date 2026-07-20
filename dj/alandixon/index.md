@@ -1,6 +1,6 @@
 # Alan Dixon
 
-Alan Dixon is a House and Afro House artist with 2 upcoming club dates listed on soundcheck as of Sun, 19 Jul 2026, next at TBA - Avenida Infante Sagres 22, 4405-565 Valadares, Portugal, Porto on Sat, 15 Aug 2026.
+Alan Dixon is a House and Afro House artist with 2 upcoming club dates listed on soundcheck as of Mon, 20 Jul 2026, next at TBA - Avenida Infante Sagres 22, 4405-565 Valadares, Portugal, Porto on Sat, 15 Aug 2026.
 
 Alan Dixon is a house and afro house artist tracked on soundcheck, with 82 sets logged across Amsterdam, Austin, Bali and Barcelona and 31 more. Often billed alongside Melvo Baptiste, Dave Lee and Kiddy Smile. Next up: TBA - Avenida Infante Sagres 22, 4405-565 Valadares, Portugal, Porto on Sat 15 Aug.
 
@@ -26,4 +26,4 @@ Alan Dixon is a house and afro house artist tracked on soundcheck, with 82 sets 
 
 Melvo Baptiste, Dave Lee, Kiddy Smile
 
-*Updated Sun, 19 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/alandixon/)*
+*Updated Mon, 20 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/alandixon/)*

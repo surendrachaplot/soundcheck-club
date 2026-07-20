@@ -1,19 +1,19 @@
 # Flash Gea
 
-Flash Gea is a Techno and Trance artist with 3 upcoming club dates listed on soundcheck as of Sun, 19 Jul 2026, next at Ping Tom Memorial Park, Chicago on Sun, 19 Jul 2026.
+Flash Gea is a Techno and Trance artist with 2 upcoming club dates listed on soundcheck as of Mon, 20 Jul 2026, next at The Ground at Club Space, Miami on Sat, 15 Aug 2026.
 
-Flash Gea is a techno and trance artist based in United States of America, tracked on soundcheck, with 24 sets logged across Chicago, Miami, Newyorkcity and Philadelphia and 3 more. Often billed alongside Conrad Taylor, girl_irl and AMAYAH. Next up: Ping Tom Memorial Park, Chicago on Sun 19 Jul.
+Flash Gea is a techno and trance artist based in United States of America, tracked on soundcheck, with 24 sets logged across Chicago, Miami, Newyorkcity and Philadelphia and 3 more. Often billed alongside Conrad Taylor, girl_irl and AMAYAH. Next up: The Ground at Club Space, Miami on Sat 15 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sun, 19 Jul 2026 | Ping Tom Memorial Park | Chicago |
 | Sat, 15 Aug 2026 | The Ground at Club Space | Miami |
 | Sat, 5 Sept 2026 | Industry City | New York City |
 
 ## Recently played
 
+- Ping Tom Memorial Park, Chicago — Sun, 19 Jul 2026
 - Kremwerk-Timbre Room-Cherry Complex, Seattle — Sat, 18 Jul 2026
 - EQ San Diego, San Diego — Fri, 10 Jul 2026
 - Superior Ingredients, New York City — Thu, 2 Jul 2026
@@ -21,10 +21,9 @@ Flash Gea is a techno and trance artist based in United States of America, track
 - The Comfort Zone, Toronto — Fri, 19 Jun 2026
 - Eden, New York City — Sat, 16 May 2026
 - TBA - DM @fenderbenderphl for Address, Philadelphia — Sat, 11 Apr 2026
-- Club M2 Miami, Miami — Sat, 4 Apr 2026
 
 ## Shares bills with
 
 Conrad Taylor, girl_irl, AMAYAH
 
-*Updated Sun, 19 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/flashgea/)*
+*Updated Mon, 20 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/flashgea/)*

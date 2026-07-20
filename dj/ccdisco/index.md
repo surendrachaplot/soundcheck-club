@@ -1,6 +1,6 @@
 # CC:DISCO!
 
-CC:DISCO! is a House and Disco artist with 5 upcoming club dates listed on soundcheck as of Sun, 19 Jul 2026, next at PIP Den Haag, The Hague on Sat, 25 Jul 2026.
+CC:DISCO! is a House and Disco artist with 5 upcoming club dates listed on soundcheck as of Mon, 20 Jul 2026, next at PIP Den Haag, The Hague on Sat, 25 Jul 2026.
 
 CC:DISCO! is a house and disco artist tracked on soundcheck, with 139 sets logged across Amsterdam, Antwerp, Athens and Bali and 38 more. Often billed alongside Chima Isaaro, Erol Alkan and Jennifer Loveless. Next up: PIP Den Haag, Thehague on Sat 25 Jul.
 
@@ -29,4 +29,4 @@ CC:DISCO! is a house and disco artist tracked on soundcheck, with 139 sets logge
 
 Chima Isaaro, Erol Alkan, Jennifer Loveless
 
-*Updated Sun, 19 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/ccdisco/)*
+*Updated Mon, 20 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/ccdisco/)*

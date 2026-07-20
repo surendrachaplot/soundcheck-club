@@ -1,6 +1,6 @@
 # Ministry Of Sound
 
-Ministry Of Sound is a music venue in London with 26 upcoming nights listed on soundcheck as of Sun, 19 Jul 2026; the next is "Milkshake, Ministry Of Sound - London's Biggest Student Night" on Tue, 21 Jul 2026.
+Ministry Of Sound is a music venue in London with 26 upcoming nights listed on soundcheck as of Mon, 20 Jul 2026; the next is "Milkshake, Ministry Of Sound - London's Biggest Student Night" on Tue, 21 Jul 2026.
 
 Ministry Of Sound is a music venue in London listed on soundcheck. 26 upcoming nights, with line-ups including Ale De Tuglie, Ayce, Barbara Tucker and Beezo and 2 more. Browse upcoming dates, start times and who's playing. 103 Gaunt St, London SE1 6DP.
 
@@ -23,4 +23,4 @@ Ministry Of Sound is a music venue in London listed on soundcheck. 26 upcoming n
 
 103 Gaunt St, London SE1 6DP, London
 
-*Updated Sun, 19 Jul 2026 · source: [soundcheck](https://soundcheck.club/london/club/ministry-of-sound/)*
+*Updated Mon, 20 Jul 2026 · source: [soundcheck](https://soundcheck.club/london/club/ministry-of-sound/)*

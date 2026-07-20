@@ -1,6 +1,6 @@
 # Spacer Woman
 
-Spacer Woman is a Techno and Trance artist with 4 upcoming club dates listed on soundcheck as of Sun, 19 Jul 2026, next at Oven Club, Valencia on Fri, 24 Jul 2026.
+Spacer Woman is a Techno and Trance artist with 4 upcoming club dates listed on soundcheck as of Mon, 20 Jul 2026, next at Oven Club, Valencia on Fri, 24 Jul 2026.
 
 Spacer Woman is a techno and trance artist tracked on soundcheck, with 129 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 25 more. Often billed alongside MALUGI, Justin Tinderdate and Marlon Hoffstadt. Next up: Oven Club, Valencia on Fri 24 Jul.
 
@@ -28,4 +28,4 @@ Spacer Woman is a techno and trance artist tracked on soundcheck, with 129 sets 
 
 MALUGI, Justin Tinderdate, Marlon Hoffstadt
 
-*Updated Sun, 19 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/spacerwoman/)*
+*Updated Mon, 20 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/spacerwoman/)*

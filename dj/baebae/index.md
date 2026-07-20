@@ -1,6 +1,6 @@
 # BAE BAE
 
-BAE BAE is a Club and Techno artist with 5 upcoming club dates listed on soundcheck as of Sun, 19 Jul 2026, next at The Melrose House, Los Angeles on Sat, 25 Jul 2026.
+BAE BAE is a Club and Techno artist with 5 upcoming club dates listed on soundcheck as of Mon, 20 Jul 2026, next at The Melrose House, Los Angeles on Sat, 25 Jul 2026.
 
 BAE BAE is a club and techno artist tracked on soundcheck, with 108 sets logged across Amsterdam, Antwerp, Barcelona and Brussels and 14 more. Often billed alongside DJ Kita, Colored Craig and Cquestt. Next up: The Melrose House, Losangeles on Sat 25 Jul.
 
@@ -29,4 +29,4 @@ BAE BAE is a club and techno artist tracked on soundcheck, with 108 sets logged 
 
 DJ Kita, Colored Craig, Cquestt
 
-*Updated Sun, 19 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/baebae/)*
+*Updated Mon, 20 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/baebae/)*

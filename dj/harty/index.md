@@ -1,6 +1,6 @@
 # HARTY
 
-HARTY is a House and Tech House artist with 2 upcoming club dates listed on soundcheck as of Sun, 19 Jul 2026, next at The Cause, London on Sat, 8 Aug 2026.
+HARTY is a House and Tech House artist with 2 upcoming club dates listed on soundcheck as of Mon, 20 Jul 2026, next at The Cause, London on Sat, 8 Aug 2026.
 
 HARTY is a house and tech house artist based in United Kingdom, tracked on soundcheck, with 44 sets logged across Ibiza, Leeds, London and Malta and 1 more. Often billed alongside Jerome Six, Brian Smith and JAYDAA. Next up: The Cause, London on Sat 8 Aug.
 
@@ -26,4 +26,4 @@ HARTY is a house and tech house artist based in United Kingdom, tracked on sound
 
 Jerome Six, Brian Smith, JAYDAA
 
-*Updated Sun, 19 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/harty/)*
+*Updated Mon, 20 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/harty/)*

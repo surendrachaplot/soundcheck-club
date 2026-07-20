@@ -1,6 +1,6 @@
 # Boltcore
 
-Boltcore is a Trance and Techno artist with 2 upcoming club dates listed on soundcheck as of Sun, 19 Jul 2026, next at Lokschuppen Berlin, Berlin on Fri, 28 Aug 2026.
+Boltcore is a Trance and Techno artist with 2 upcoming club dates listed on soundcheck as of Mon, 20 Jul 2026, next at Lokschuppen Berlin, Berlin on Fri, 28 Aug 2026.
 
 Boltcore is a trance and techno artist based in Luxembourg, tracked on soundcheck, with 29 sets logged across Barcelona, Berlin, Cologne and Frankfurt and 2 more. Often billed alongside Amøn, DETOXX and NIKUSH. Next up: Lokschuppen Berlin, Berlin on Fri 28 Aug.
 
@@ -26,4 +26,4 @@ Boltcore is a trance and techno artist based in Luxembourg, tracked on soundchec
 
 Amøn, DETOXX, NIKUSH
 
-*Updated Sun, 19 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/boltcore/)*
+*Updated Mon, 20 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/boltcore/)*

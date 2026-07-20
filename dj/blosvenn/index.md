@@ -1,6 +1,6 @@
 # Blosvenn
 
-Blosvenn is a Techno and Trance artist with 3 upcoming club dates listed on soundcheck as of Sun, 19 Jul 2026, next at KitKatClub, Berlin on Mon, 20 Jul 2026.
+Blosvenn is a Techno and Trance artist with 3 upcoming club dates listed on soundcheck as of Mon, 20 Jul 2026, next at KitKatClub, Berlin on Mon, 20 Jul 2026.
 
 Blosvenn is a techno and trance artist based in Germany, tracked on soundcheck, with 9 sets logged across Berlin. Often billed alongside BAHAA AL DEEN, NYCTO and Varia Aves. Next up: KitKatClub, Berlin on Mon 20 Jul.
 
@@ -25,4 +25,4 @@ Blosvenn is a techno and trance artist based in Germany, tracked on soundcheck, 
 
 BAHAA AL DEEN, NYCTO, Varia Aves
 
-*Updated Sun, 19 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/blosvenn/)*
+*Updated Mon, 20 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/blosvenn/)*

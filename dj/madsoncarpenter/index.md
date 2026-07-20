@@ -1,6 +1,6 @@
 # Madson Carpenter
 
-Madson Carpenter is a Techno and Industrial artist with 2 upcoming club dates listed on soundcheck as of Sun, 19 Jul 2026, next at Ministerium Club, Lisbon on Thu, 30 Jul 2026.
+Madson Carpenter is a Techno and Industrial artist with 2 upcoming club dates listed on soundcheck as of Mon, 20 Jul 2026, next at Ministerium Club, Lisbon on Thu, 30 Jul 2026.
 
 Madson Carpenter is a techno and industrial artist tracked on soundcheck, with 115 sets logged across Amsterdam, Barcelona, Basel and Berlin and 10 more. Often billed alongside Stëh, Max Deme and Taxsh. Next up: Ministerium Club, Lisbon on Thu 30 Jul.
 
@@ -26,4 +26,4 @@ Madson Carpenter is a techno and industrial artist tracked on soundcheck, with 1
 
 Stëh, Max Deme, Taxsh
 
-*Updated Sun, 19 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/madsoncarpenter/)*
+*Updated Mon, 20 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/madsoncarpenter/)*

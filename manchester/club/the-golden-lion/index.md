@@ -1,6 +1,6 @@
 # The Golden Lion
 
-The Golden Lion is a music venue in Manchester with 7 upcoming nights listed on soundcheck as of Sun, 19 Jul 2026; the next is "Infrared Beam x Golden Lion present Dj Hell" on Fri, 24 Jul 2026.
+The Golden Lion is a music venue in Manchester with 7 upcoming nights listed on soundcheck as of Mon, 20 Jul 2026; the next is "Infrared Beam x Golden Lion present Dj Hell" on Fri, 24 Jul 2026.
 
 The Golden Lion is a music venue in Manchester listed on soundcheck. 7 upcoming nights, with line-ups including Fancy Shews, Goldie, DJ Hell and Henzo and 2 more. Browse upcoming dates, start times and who's playing. Fielden Square, Todmorden, OL14 6LZ, United Kingdom.
 
@@ -20,4 +20,4 @@ The Golden Lion is a music venue in Manchester listed on soundcheck. 7 upcoming 
 
 Fielden Square, Todmorden, OL14 6LZ, United Kingdom, Manchester
 
-*Updated Sun, 19 Jul 2026 · source: [soundcheck](https://soundcheck.club/manchester/club/the-golden-lion/)*
+*Updated Mon, 20 Jul 2026 · source: [soundcheck](https://soundcheck.club/manchester/club/the-golden-lion/)*

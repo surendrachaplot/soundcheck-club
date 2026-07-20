@@ -1,6 +1,6 @@
 # Cezaire
 
-Cezaire is a House and Disco artist with 3 upcoming club dates listed on soundcheck as of Sun, 19 Jul 2026, next at Kilomètre25, Paris on Fri, 7 Aug 2026.
+Cezaire is a House and Disco artist with 3 upcoming club dates listed on soundcheck as of Mon, 20 Jul 2026, next at Kilomètre25, Paris on Fri, 7 Aug 2026.
 
 Cezaire is a house and disco artist tracked on soundcheck, with 44 sets logged across Amsterdam, Austin, Barcelona and Brussels and 10 more. Often billed alongside Darius (FR), Kartell and Didi Han. Next up: Kilomètre25, Paris on Fri 7 Aug.
 
@@ -27,4 +27,4 @@ Cezaire is a house and disco artist tracked on soundcheck, with 44 sets logged a
 
 Darius (FR), Kartell, Didi Han
 
-*Updated Sun, 19 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/cezaire/)*
+*Updated Mon, 20 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/cezaire/)*

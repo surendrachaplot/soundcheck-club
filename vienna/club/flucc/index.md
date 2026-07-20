@@ -1,6 +1,6 @@
 # FLUCC
 
-FLUCC is a music venue in Vienna with 4 upcoming nights listed on soundcheck as of Sun, 19 Jul 2026; the next is "CIVIC: Body Control Pt. I (Anniversary)" on Fri, 31 Jul 2026.
+FLUCC is a music venue in Vienna with 4 upcoming nights listed on soundcheck as of Mon, 20 Jul 2026; the next is "CIVIC: Body Control Pt. I (Anniversary)" on Fri, 31 Jul 2026.
 
 FLUCC is a music venue in Vienna listed on soundcheck. 4 upcoming nights, with line-ups including ADIRA, ARMANA KHAN, DJ SO and Hassandra and 2 more. Browse upcoming dates, start times and who's playing. Praterstern 5; Vienna 1020; Austria.
 
@@ -17,4 +17,4 @@ FLUCC is a music venue in Vienna listed on soundcheck. 4 upcoming nights, with l
 
 Praterstern 5; Vienna 1020; Austria, Vienna
 
-*Updated Sun, 19 Jul 2026 · source: [soundcheck](https://soundcheck.club/vienna/club/flucc/)*
+*Updated Mon, 20 Jul 2026 · source: [soundcheck](https://soundcheck.club/vienna/club/flucc/)*

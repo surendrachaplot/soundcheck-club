@@ -1,6 +1,6 @@
 # Rill
 
-Rill is a Techno and Breakbeat artist with 2 upcoming club dates listed on soundcheck as of Sun, 19 Jul 2026, next at TBA - Klingemühle, Berlin on Fri, 14 Aug 2026.
+Rill is a Techno and Breakbeat artist with 2 upcoming club dates listed on soundcheck as of Mon, 20 Jul 2026, next at TBA - Klingemühle, Berlin on Fri, 14 Aug 2026.
 
 Rill is a techno and breakbeat artist based in Germany, tracked on soundcheck, with 58 sets logged across Berlin, Dusseldorf, Edinburgh and Hamburg and 8 more. Often billed alongside Hang Aoki, Hanna Baertig and Reka Zalan. Next up: TBA - Klingemühle, Berlin on Fri 14 Aug.
 
@@ -26,4 +26,4 @@ Rill is a techno and breakbeat artist based in Germany, tracked on soundcheck, w
 
 Hang Aoki, Hanna Baertig, Reka Zalan
 
-*Updated Sun, 19 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/rill/)*
+*Updated Mon, 20 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/rill/)*

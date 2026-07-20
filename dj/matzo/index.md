@@ -1,13 +1,14 @@
 # Mat Zo
 
-Mat Zo is a Progressive House and Trance artist with 2 upcoming club dates listed on soundcheck as of Sun, 19 Jul 2026, next at Elsewhere, New York City on Fri, 14 Aug 2026.
+Mat Zo is a Progressive House and Trance artist with 3 upcoming club dates listed on soundcheck as of Mon, 20 Jul 2026, next at Halcyon, San Francisco/Oakland on Fri, 7 Aug 2026.
 
-Mat Zo is a progressive house and trance artist based in United Kingdom, tracked on soundcheck, with 29 sets logged across Austin, Bangkok, Bristol and Chicago and 11 more. Often billed alongside Leena Punks, Amy Wiles and Oliver Smith. Next up: Elsewhere, Newyorkcity on Fri 14 Aug.
+Mat Zo is a progressive house and trance artist based in United Kingdom, tracked on soundcheck, with 30 sets logged across Austin, Bangkok, Bristol and Chicago and 11 more. Often billed alongside Leena Punks, Amy Wiles and Oliver Smith. Next up: Halcyon, Sanfrancisco on Fri 7 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 7 Aug 2026 | Halcyon | San Francisco/Oakland |
 | Fri, 14 Aug 2026 | Elsewhere | New York City |
 | Sat, 15 Aug 2026 | Club Vinyl | Denver |
 
@@ -26,4 +27,4 @@ Mat Zo is a progressive house and trance artist based in United Kingdom, tracked
 
 Leena Punks, Amy Wiles, Oliver Smith
 
-*Updated Sun, 19 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/matzo/)*
+*Updated Mon, 20 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/matzo/)*

@@ -1,6 +1,6 @@
 # Luke Slater
 
-Luke Slater is a Techno and House artist with 5 upcoming club dates listed on soundcheck as of Sun, 19 Jul 2026, next at Boomtown (Kouter), Ghent on Thu, 23 Jul 2026.
+Luke Slater is a Techno and House artist with 5 upcoming club dates listed on soundcheck as of Mon, 20 Jul 2026, next at Boomtown (Kouter), Ghent on Thu, 23 Jul 2026.
 
 Luke Slater is a techno and house artist based in United Kingdom, tracked on soundcheck, with 113 sets logged across Amsterdam, Athens, Barcelona and Belgrade and 40 more. Often billed alongside Steffi, Fadi Mohem and JakoJako. Next up: Boomtown (Kouter), Ghent on Thu 23 Jul.
 
@@ -29,4 +29,4 @@ Luke Slater is a techno and house artist based in United Kingdom, tracked on sou
 
 Steffi, Fadi Mohem, JakoJako
 
-*Updated Sun, 19 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/lukeslater/)*
+*Updated Mon, 20 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/lukeslater/)*

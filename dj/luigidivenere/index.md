@@ -1,6 +1,6 @@
 # Luigi Di Venere
 
-Luigi Di Venere is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Sun, 19 Jul 2026, next at Trädgården, Stockholm on Fri, 31 Jul 2026.
+Luigi Di Venere is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Mon, 20 Jul 2026, next at Trädgården, Stockholm on Fri, 31 Jul 2026.
 
 Luigi Di Venere is a house and techno artist tracked on soundcheck, with 103 sets logged across Amsterdam, Athens, Bali and Barcelona and 24 more. Often billed alongside Stathis (GR), Massimiliano Pagliara and Chris Cruse. Next up: Trädgården, Stockholm on Fri 31 Jul.
 
@@ -26,4 +26,4 @@ Luigi Di Venere is a house and techno artist tracked on soundcheck, with 103 set
 
 Stathis (GR), Massimiliano Pagliara, Chris Cruse
 
-*Updated Sun, 19 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/luigidivenere/)*
+*Updated Mon, 20 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/luigidivenere/)*

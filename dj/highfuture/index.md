@@ -1,6 +1,6 @@
 # High Future
 
-High Future is a Techno and Trance artist with 3 upcoming club dates listed on soundcheck as of Sun, 19 Jul 2026, next at RSO.BERLIN, Berlin on Fri, 24 Jul 2026.
+High Future is a Techno and Trance artist with 3 upcoming club dates listed on soundcheck as of Mon, 20 Jul 2026, next at RSO.BERLIN, Berlin on Fri, 24 Jul 2026.
 
 High Future is a techno and trance artist based in Germany, tracked on soundcheck, with 34 sets logged across Amsterdam, Barcelona, Berlin and Cologne and 8 more. Often billed alongside Neri J, An Yunbi and CLITS. Next up: RSO.BERLIN, Berlin on Fri 24 Jul.
 
@@ -27,4 +27,4 @@ High Future is a techno and trance artist based in Germany, tracked on soundchec
 
 Neri J, An Yunbi, CLITS
 
-*Updated Sun, 19 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/highfuture/)*
+*Updated Mon, 20 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/highfuture/)*

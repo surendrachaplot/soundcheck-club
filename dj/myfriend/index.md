@@ -1,6 +1,6 @@
 # My Friend
 
-My Friend is a House and Progressive House artist with 2 upcoming club dates listed on soundcheck as of Sun, 19 Jul 2026, next at HWK, London on Sat, 15 Aug 2026.
+My Friend is a House and Progressive House artist with 2 upcoming club dates listed on soundcheck as of Mon, 20 Jul 2026, next at HWK, London on Sat, 15 Aug 2026.
 
 My Friend is a house and progressive house artist based in United Kingdom, tracked on soundcheck, with 27 sets logged across Austin, Belfast, Berlin and Dublin and 9 more. Often billed alongside Braxton, Because of Art and Daniel Curpen. Next up: HWK, London on Sat 15 Aug.
 
@@ -26,4 +26,4 @@ My Friend is a house and progressive house artist based in United Kingdom, track
 
 Braxton, Because of Art, Daniel Curpen
 
-*Updated Sun, 19 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/myfriend/)*
+*Updated Mon, 20 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/myfriend/)*

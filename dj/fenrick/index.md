@@ -1,14 +1,13 @@
 # Fenrick
 
-Fenrick is a Techno and Trance artist with 10 upcoming club dates listed on soundcheck as of Sun, 19 Jul 2026, next at Radius, Chicago on Sun, 19 Jul 2026.
+Fenrick is a Techno and Trance artist with 9 upcoming club dates listed on soundcheck as of Mon, 20 Jul 2026, next at TBA - Kleindokkaai, Ghent on Fri, 24 Jul 2026.
 
-Fenrick is a techno and trance artist tracked on soundcheck, with 123 sets logged across Amsterdam, Antwerp, Barcelona and Belfast and 36 more. Often billed alongside EMILIJA, Odymel and Adrian Mills. Next up: Radius, Chicago on Sun 19 Jul.
+Fenrick is a techno and trance artist tracked on soundcheck, with 123 sets logged across Amsterdam, Antwerp, Barcelona and Belfast and 36 more. Often billed alongside EMILIJA, Odymel and Adrian Mills. Next up: TBA - Kleindokkaai, Ghent on Fri 24 Jul.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sun, 19 Jul 2026 | Radius | Chicago |
 | Fri, 24 Jul 2026 | TBA - Kleindokkaai | Ghent |
 | Sat, 1 Aug 2026 | Bowlers Exhibition Centre | Manchester |
 | Sat, 1 Aug 2026 | Burgess Park | London |
@@ -21,6 +20,7 @@ Fenrick is a techno and trance artist tracked on soundcheck, with 123 sets logge
 
 ## Recently played
 
+- Radius, Chicago — Sun, 19 Jul 2026
 - TBA - Los Angeles, Los Angeles — Fri, 17 Jul 2026
 - Plage Privée Parc de Miribel, Lyon — Sat, 27 Jun 2026
 - OLT Rivierenhof, Antwerp — Fri, 19 Jun 2026
@@ -28,10 +28,9 @@ Fenrick is a techno and trance artist tracked on soundcheck, with 123 sets logge
 - 131 Mccormack St, Toronto — Fri, 12 Jun 2026
 - La Terrrazza, Barcelona — Thu, 4 Jun 2026
 - Ruigenhoek, Utrecht — Sat, 30 May 2026
-- TBA - Autodromo de Buenos Aires, Villa Lugano, Buenos Aires — Sun, 24 May 2026
 
 ## Shares bills with
 
 EMILIJA, Odymel, Adrian Mills
 
-*Updated Sun, 19 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/fenrick/)*
+*Updated Mon, 20 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/fenrick/)*

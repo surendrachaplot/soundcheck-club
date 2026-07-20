@@ -1,6 +1,6 @@
 # Muli Bar
 
-Muli Bar is a music venue in Mexico City with 1 upcoming night listed on soundcheck as of Sun, 19 Jul 2026; the next is "BALANDRA x MuliBar" on Sat, 25 Jul 2026.
+Muli Bar is a music venue in Mexico City with 1 upcoming night listed on soundcheck as of Mon, 20 Jul 2026; the next is "BALANDRA x MuliBar" on Sat, 25 Jul 2026.
 
 Muli Bar is a music venue in Mexicocity listed on soundcheck. 1 upcoming night. Browse upcoming dates, start times and who's playing. QuerÃ©taro 225, Mercado Roma..
 
@@ -14,4 +14,4 @@ Muli Bar is a music venue in Mexicocity listed on soundcheck. 1 upcoming night. 
 
 QuerÃ©taro 225, Mercado Roma., Mexico City
 
-*Updated Sun, 19 Jul 2026 · source: [soundcheck](https://soundcheck.club/mexicocity/club/muli-bar/)*
+*Updated Mon, 20 Jul 2026 · source: [soundcheck](https://soundcheck.club/mexicocity/club/muli-bar/)*

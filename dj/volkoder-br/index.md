@@ -1,6 +1,6 @@
 # Volkoder
 
-Volkoder is a House and Tech House artist with 4 upcoming club dates listed on soundcheck as of Sun, 19 Jul 2026, next at [UNVRS], Ibiza on Tue, 28 Jul 2026.
+Volkoder is a House and Tech House artist with 4 upcoming club dates listed on soundcheck as of Mon, 20 Jul 2026, next at [UNVRS], Ibiza on Tue, 28 Jul 2026.
 
 Volkoder is a house and tech house artist tracked on soundcheck, with 13 sets logged across Budapest, Buenosaires, Ibiza and Saopaulo and 2 more. Often billed alongside Miss Monique, AJ Christou and AMÉMÉ. Next up: [UNVRS], Ibiza on Tue 28 Jul.
 
@@ -28,4 +28,4 @@ Volkoder is a house and tech house artist tracked on soundcheck, with 13 sets lo
 
 Miss Monique, AJ Christou, AMÉMÉ
 
-*Updated Sun, 19 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/volkoder-br/)*
+*Updated Mon, 20 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/volkoder-br/)*

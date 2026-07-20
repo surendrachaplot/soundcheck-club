@@ -1,6 +1,6 @@
 # Zero
 
-Zero is a Garage and Drum & Bass artist with 4 upcoming club dates listed on soundcheck as of Sun, 19 Jul 2026, next at The Racket Space, Dublin on Sat, 25 Jul 2026.
+Zero is a Garage and Drum & Bass artist with 4 upcoming club dates listed on soundcheck as of Mon, 20 Jul 2026, next at The Racket Space, Dublin on Sat, 25 Jul 2026.
 
 Zero is a garage and drum & bass artist tracked on soundcheck, with 39 sets logged across Austin, Barcelona, Bristol and Dublin and 16 more. Often billed alongside Skepsis, Window Kid and Charlie Tee. Next up: The Racket Space, Dublin on Sat 25 Jul.
 
@@ -28,4 +28,4 @@ Zero is a garage and drum & bass artist tracked on soundcheck, with 39 sets logg
 
 Skepsis, Window Kid, Charlie Tee
 
-*Updated Sun, 19 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/zero/)*
+*Updated Mon, 20 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/zero/)*

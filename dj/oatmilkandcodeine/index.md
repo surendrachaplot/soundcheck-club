@@ -1,6 +1,6 @@
 # Oatmilkandcodeine
 
-Oatmilkandcodeine is a Experimental and Hip-Hop artist with 2 upcoming club dates listed on soundcheck as of Sun, 19 Jul 2026, next at Vision Club Manchester, Manchester on Mon, 20 Jul 2026.
+Oatmilkandcodeine is a Experimental and Hip-Hop artist with 2 upcoming club dates listed on soundcheck as of Mon, 20 Jul 2026, next at Vision Club Manchester, Manchester on Mon, 20 Jul 2026.
 
 Oatmilkandcodeine is an experimental and hip-hop artist tracked on soundcheck, with 26 sets logged across Berlin, Denver, Dublin and Glasgow and 6 more. Often billed alongside Heartcoregirl, Gweilo Ghost and Harto Falión. Next up: Vision Club Manchester, Manchester on Mon 20 Jul.
 
@@ -26,4 +26,4 @@ Oatmilkandcodeine is an experimental and hip-hop artist tracked on soundcheck, w
 
 Heartcoregirl, Gweilo Ghost, Harto Falión
 
-*Updated Sun, 19 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/oatmilkandcodeine/)*
+*Updated Mon, 20 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/oatmilkandcodeine/)*

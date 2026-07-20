@@ -1,6 +1,6 @@
 # Maruwa
 
-Maruwa is a House and Trance artist with 2 upcoming club dates listed on soundcheck as of Sun, 19 Jul 2026, next at Rebstockpark, Frankfurt on Sat, 25 Jul 2026.
+Maruwa is a House and Trance artist with 2 upcoming club dates listed on soundcheck as of Mon, 20 Jul 2026, next at Rebstockpark, Frankfurt on Sat, 25 Jul 2026.
 
 Maruwa is a house and trance artist tracked on soundcheck, with 135 sets logged across Amsterdam, Barcelona, Basel and Belgrade and 36 more. Often billed alongside Younger Than Me, Surf 2 Glory and DJ Heartstring. Next up: Rebstockpark, Frankfurt on Sat 25 Jul.
 
@@ -26,4 +26,4 @@ Maruwa is a house and trance artist tracked on soundcheck, with 135 sets logged 
 
 Younger Than Me, Surf 2 Glory, DJ Heartstring
 
-*Updated Sun, 19 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/maruwa/)*
+*Updated Mon, 20 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/maruwa/)*

@@ -1,6 +1,6 @@
 # MIDNXGHT
 
-MIDNXGHT is a Trance and Techno artist with 2 upcoming club dates listed on soundcheck as of Sun, 19 Jul 2026, next at TBA - Klingemühle, Berlin on Fri, 14 Aug 2026.
+MIDNXGHT is a Trance and Techno artist with 2 upcoming club dates listed on soundcheck as of Mon, 20 Jul 2026, next at TBA - Klingemühle, Berlin on Fri, 14 Aug 2026.
 
 MIDNXGHT is a trance and techno artist tracked on soundcheck, with 23 sets logged across Berlin and Leipzig. Often billed alongside mp.ulle, DJ SOFTICE and marengo (2). Next up: TBA - Klingemühle, Berlin on Fri 14 Aug.
 
@@ -26,4 +26,4 @@ MIDNXGHT is a trance and techno artist tracked on soundcheck, with 23 sets logge
 
 mp.ulle, DJ SOFTICE, marengo (2)
 
-*Updated Sun, 19 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/midnxght/)*
+*Updated Mon, 20 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/midnxght/)*

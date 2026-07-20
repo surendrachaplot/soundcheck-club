@@ -1,6 +1,6 @@
 # Ryan Sadorus
 
-Ryan Sadorus is a House and Deep House artist with 2 upcoming club dates listed on soundcheck as of Sun, 19 Jul 2026, next at TV Lounge, Detroit on Thu, 13 Aug 2026.
+Ryan Sadorus is a House and Deep House artist with 2 upcoming club dates listed on soundcheck as of Mon, 20 Jul 2026, next at TV Lounge, Detroit on Thu, 13 Aug 2026.
 
 Ryan Sadorus is a house and deep house artist tracked on soundcheck, with 58 sets logged across Detroit. Often billed alongside Gregboi, Brian Kage and sillygirlcarmen. Next up: TV Lounge, Detroit on Thu 13 Aug.
 
@@ -26,4 +26,4 @@ Ryan Sadorus is a house and deep house artist tracked on soundcheck, with 58 set
 
 Gregboi, Brian Kage, sillygirlcarmen
 
-*Updated Sun, 19 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/ryansadorus/)*
+*Updated Mon, 20 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/ryansadorus/)*

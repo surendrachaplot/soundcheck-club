@@ -1,6 +1,6 @@
 # Somewhen
 
-Somewhen is a Techno and Trance artist with 10 upcoming club dates listed on soundcheck as of Sun, 19 Jul 2026, next at Rebstockpark, Frankfurt on Sat, 25 Jul 2026.
+Somewhen is a Techno and Trance artist with 10 upcoming club dates listed on soundcheck as of Mon, 20 Jul 2026, next at Rebstockpark, Frankfurt on Sat, 25 Jul 2026.
 
 Somewhen is a techno and trance artist tracked on soundcheck, with 202 sets logged across Amsterdam, Antwerp, Austin and Barcelona and 56 more. Often billed alongside Kobosil, Clara Cuvé and In Verruf. Next up: Rebstockpark, Frankfurt on Sat 25 Jul.
 
@@ -34,4 +34,4 @@ Somewhen is a techno and trance artist tracked on soundcheck, with 202 sets logg
 
 Kobosil, Clara Cuvé, In Verruf
 
-*Updated Sun, 19 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/somewhen/)*
+*Updated Mon, 20 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/somewhen/)*

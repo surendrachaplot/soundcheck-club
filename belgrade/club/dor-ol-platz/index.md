@@ -1,6 +1,6 @@
 # Dorćol Platz
 
-Dorćol Platz is a music venue in Belgrade with 1 upcoming night listed on soundcheck as of Sun, 19 Jul 2026; the next is "BORIS" on Thu, 8 Oct 2026.
+Dorćol Platz is a music venue in Belgrade with 1 upcoming night listed on soundcheck as of Mon, 20 Jul 2026; the next is "BORIS" on Thu, 8 Oct 2026.
 
 Dorćol Platz is a music venue in Belgrade listed on soundcheck. 1 upcoming night. Browse upcoming dates, start times and who's playing. Dobračina 59b, Stari Grad, 11000 Beograd, Srbija.
 
@@ -14,4 +14,4 @@ Dorćol Platz is a music venue in Belgrade listed on soundcheck. 1 upcoming nigh
 
 Dobračina 59b, Stari Grad, 11000 Beograd, Srbija, Belgrade
 
-*Updated Sun, 19 Jul 2026 · source: [soundcheck](https://soundcheck.club/belgrade/club/dor-ol-platz/)*
+*Updated Mon, 20 Jul 2026 · source: [soundcheck](https://soundcheck.club/belgrade/club/dor-ol-platz/)*

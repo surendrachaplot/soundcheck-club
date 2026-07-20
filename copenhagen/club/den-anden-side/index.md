@@ -1,6 +1,6 @@
 # Den Anden Side
 
-Den Anden Side is a music venue in Copenhagen with 8 upcoming nights listed on soundcheck as of Sun, 19 Jul 2026; the next is "Order of Magnitude with Derango & Mussy Moody" on Fri, 24 Jul 2026.
+Den Anden Side is a music venue in Copenhagen with 8 upcoming nights listed on soundcheck as of Mon, 20 Jul 2026; the next is "Order of Magnitude with Derango & Mussy Moody" on Fri, 24 Jul 2026.
 
 Den Anden Side is a music venue in Copenhagen listed on soundcheck. 8 upcoming nights, with line-ups including Adexia, Alegrando, Ani Kvirkvelia and Anna Logic and 2 more. Browse upcoming dates, start times and who's playing. Axeltorv 5 1609 Copenhagen, Denmark.
 
@@ -21,4 +21,4 @@ Den Anden Side is a music venue in Copenhagen listed on soundcheck. 8 upcoming n
 
 Axeltorv 5 1609 Copenhagen, Denmark, Copenhagen
 
-*Updated Sun, 19 Jul 2026 · source: [soundcheck](https://soundcheck.club/copenhagen/club/den-anden-side/)*
+*Updated Mon, 20 Jul 2026 · source: [soundcheck](https://soundcheck.club/copenhagen/club/den-anden-side/)*

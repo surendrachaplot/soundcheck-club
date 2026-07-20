@@ -1,6 +1,6 @@
 # Amsterdam Central Station
 
-Amsterdam Central Station is a music venue in Amsterdam with 1 upcoming night listed on soundcheck as of Sun, 19 Jul 2026; the next is "Tomorrowland Boat Pre Party Weekend 2" on Wed, 22 Jul 2026.
+Amsterdam Central Station is a music venue in Amsterdam with 1 upcoming night listed on soundcheck as of Mon, 20 Jul 2026; the next is "Tomorrowland Boat Pre Party Weekend 2" on Wed, 22 Jul 2026.
 
 Amsterdam Central Station is a music venue in Amsterdam listed on soundcheck. 1 upcoming night. Browse upcoming dates, start times and who's playing. Stationsplein, 1012 AB Amsterdam, Netherlands.
 
@@ -14,4 +14,4 @@ Amsterdam Central Station is a music venue in Amsterdam listed on soundcheck. 1 
 
 Stationsplein, 1012 AB Amsterdam, Netherlands, Amsterdam
 
-*Updated Sun, 19 Jul 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/amsterdam-central-station/)*
+*Updated Mon, 20 Jul 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/amsterdam-central-station/)*

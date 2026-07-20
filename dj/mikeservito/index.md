@@ -1,6 +1,6 @@
 # Mike Servito
 
-Mike Servito is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Sun, 19 Jul 2026, next at Tresor / Globus, Berlin on Sat, 25 Jul 2026.
+Mike Servito is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Mon, 20 Jul 2026, next at Tresor / Globus, Berlin on Sat, 25 Jul 2026.
 
 Mike Servito is a house and techno artist tracked on soundcheck, with 271 sets logged across Amsterdam, Austin, Berlin and Boston and 25 more. Often billed alongside Shaun J. Wright, Erika and Bryan Kasenic. Next up: Tresor / Globus, Berlin on Sat 25 Jul.
 
@@ -27,4 +27,4 @@ Mike Servito is a house and techno artist tracked on soundcheck, with 271 sets l
 
 Shaun J. Wright, Erika, Bryan Kasenic
 
-*Updated Sun, 19 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/mikeservito/)*
+*Updated Mon, 20 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/mikeservito/)*

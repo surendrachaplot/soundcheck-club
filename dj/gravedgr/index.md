@@ -1,6 +1,6 @@
 # GRAVEDGR
 
-GRAVEDGR is a Techno and Hardcore artist with 4 upcoming club dates listed on soundcheck as of Sun, 19 Jul 2026, next at Level 1 @ Cannonball Arts, Seattle on Sat, 29 Aug 2026.
+GRAVEDGR is a Techno and Hardcore artist with 4 upcoming club dates listed on soundcheck as of Mon, 20 Jul 2026, next at Level 1 @ Cannonball Arts, Seattle on Sat, 29 Aug 2026.
 
 GRAVEDGR is a techno and hardcore artist tracked on soundcheck, with 51 sets logged across Amsterdam, Barcelona, Berlin and Cologne and 25 more. Often billed alongside CARV, NOVAH and Basswell. Next up: Level 1 @ Cannonball Arts, Seattle on Sat 29 Aug.
 
@@ -28,4 +28,4 @@ GRAVEDGR is a techno and hardcore artist tracked on soundcheck, with 51 sets log
 
 CARV, NOVAH, Basswell
 
-*Updated Sun, 19 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/gravedgr/)*
+*Updated Mon, 20 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/gravedgr/)*

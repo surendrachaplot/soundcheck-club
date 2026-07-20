@@ -1,6 +1,6 @@
 # SHINZEE
 
-SHINZEE is a UK Funky and Afro House artist with 2 upcoming club dates listed on soundcheck as of Sun, 19 Jul 2026, next at Nico's Bar at Hackney Bridge, London on Fri, 31 Jul 2026.
+SHINZEE is a UK Funky and Afro House artist with 2 upcoming club dates listed on soundcheck as of Mon, 20 Jul 2026, next at Nico's Bar at Hackney Bridge, London on Fri, 31 Jul 2026.
 
 SHINZEE is an uk funky and afro house artist based in United Kingdom, tracked on soundcheck, with 23 sets logged across London. Often billed alongside Signorina, leverson and Sndyvibes. Next up: Nico's Bar at Hackney Bridge, London on Fri 31 Jul.
 
@@ -26,4 +26,4 @@ SHINZEE is an uk funky and afro house artist based in United Kingdom, tracked on
 
 Signorina, leverson, Sndyvibes
 
-*Updated Sun, 19 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/shinzee/)*
+*Updated Mon, 20 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/shinzee/)*

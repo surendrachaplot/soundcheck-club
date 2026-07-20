@@ -1,6 +1,6 @@
 # pretzelz
 
-pretzelz is a Techno and Industrial artist with 2 upcoming club dates listed on soundcheck as of Sun, 19 Jul 2026, next at The Flinders, Sydney on Fri, 24 Jul 2026.
+pretzelz is a Techno and Industrial artist with 2 upcoming club dates listed on soundcheck as of Mon, 20 Jul 2026, next at The Flinders, Sydney on Fri, 24 Jul 2026.
 
 pretzelz is a techno and industrial artist based in Australia, tracked on soundcheck, with 24 sets logged across Sydney. Often billed alongside ARTISAH, I-SO and Kvrt. Next up: The Flinders, Sydney on Fri 24 Jul.
 
@@ -26,4 +26,4 @@ pretzelz is a techno and industrial artist based in Australia, tracked on soundc
 
 ARTISAH, I-SO, Kvrt
 
-*Updated Sun, 19 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/pretzelz/)*
+*Updated Mon, 20 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/pretzelz/)*

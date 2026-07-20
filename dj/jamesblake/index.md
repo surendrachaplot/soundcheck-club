@@ -1,6 +1,6 @@
 # James Blake
 
-James Blake is a Electro and Experimental artist with 2 upcoming club dates listed on soundcheck as of Sun, 19 Jul 2026, next at Camp and Furnace, Liverpool on Thu, 30 Jul 2026.
+James Blake is a Electro and Experimental artist with 2 upcoming club dates listed on soundcheck as of Mon, 20 Jul 2026, next at Camp and Furnace, Liverpool on Thu, 30 Jul 2026.
 
 James Blake is an electro and experimental artist tracked on soundcheck, with 31 sets logged across Bali, Barcelona, Bristol and Chicago and 14 more. Often billed alongside Airhead, DJ Holographic and Floating Points. Next up: Camp and Furnace, Liverpool on Thu 30 Jul.
 
@@ -26,4 +26,4 @@ James Blake is an electro and experimental artist tracked on soundcheck, with 31
 
 Airhead, DJ Holographic, Floating Points
 
-*Updated Sun, 19 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/jamesblake/)*
+*Updated Mon, 20 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/jamesblake/)*

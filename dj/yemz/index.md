@@ -1,6 +1,6 @@
 # Yemz
 
-Yemz is a Garage and Bass artist with 2 upcoming club dates listed on soundcheck as of Sun, 19 Jul 2026, next at Quarters, Brighton on Fri, 24 Jul 2026.
+Yemz is a Garage and Bass artist with 2 upcoming club dates listed on soundcheck as of Mon, 20 Jul 2026, next at Quarters, Brighton on Fri, 24 Jul 2026.
 
 Yemz is a garage and bass artist tracked on soundcheck, with 94 sets logged across Amsterdam, Barcelona, Berlin and Brighton and 20 more. Often billed alongside Dr Dubplate, Bakey and A For Alpha. Next up: Quarters, Brighton on Fri 24 Jul.
 
@@ -26,4 +26,4 @@ Yemz is a garage and bass artist tracked on soundcheck, with 94 sets logged acro
 
 Dr Dubplate, Bakey, A For Alpha
 
-*Updated Sun, 19 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/yemz/)*
+*Updated Mon, 20 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/yemz/)*

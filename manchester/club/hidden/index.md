@@ -1,8 +1,8 @@
 # Hidden
 
-Hidden is a music venue in Manchester with 10 upcoming nights listed on soundcheck as of Sun, 19 Jul 2026; the next is "Aiden Francis All Night Long" on Fri, 24 Jul 2026.
+Hidden is a music venue in Manchester with 11 upcoming nights listed on soundcheck as of Mon, 20 Jul 2026; the next is "Aiden Francis All Night Long" on Fri, 24 Jul 2026.
 
-Hidden is a music venue in Manchester listed on soundcheck. 10 upcoming nights, with line-ups including Aiden Francis, Chimpo, Christian AB and DJANGO (NL) and 2 more. Browse upcoming dates, start times and who's playing. 17 DownTex Mill, Mary Street, Manchester, M3 1DZ, United Kingdom.
+Hidden is a music venue in Manchester listed on soundcheck. 11 upcoming nights, with line-ups including Aiden Francis, Charlie Shell, Chimpo and Christian AB and 2 more. Browse upcoming dates, start times and who's playing. 17 DownTex Mill, Mary Street, Manchester, M3 1DZ, United Kingdom.
 
 ## What's on
 
@@ -17,10 +17,10 @@ Hidden is a music venue in Manchester listed on soundcheck. 10 upcoming nights, 
 | Thu, 17 Sept 2026 | Freshers Warehouse Rave: Joe Hunt, Leah Davies, DJANGO  | DJANGO (NL), Reimond |
 | Fri, 18 Sept 2026 | Teletech: Manchester Mandidextrous | Dj Schnake, Ephy Pinkman, Gullyteen, Laze, Mandidextrous, Mollie Rush, Princess Elf Bar |
 | Sat, 19 Sept 2026 | Scrambled Network presents: Pure Science (live) | Pure Science |
-| Thu, 24 Sept 2026 | Jungle & DnB Rave: Fixate b2b Fracture, VXRGO, Tailor Jae, Trends  | Fixate, Fracture, Hanz, Sir Spyro, Tailor Jae, Trends, VXRGO |
+| Mon, 21 Sept 2026 | Ghosts of Garage: A FRESH START | Charlie Shell, LARISHKA (UK), Rich Reason, T-Man (UK) |
 
 ## Address
 
 17 DownTex Mill, Mary Street, Manchester, M3 1DZ, United Kingdom, Manchester
 
-*Updated Sun, 19 Jul 2026 · source: [soundcheck](https://soundcheck.club/manchester/club/hidden/)*
+*Updated Mon, 20 Jul 2026 · source: [soundcheck](https://soundcheck.club/manchester/club/hidden/)*

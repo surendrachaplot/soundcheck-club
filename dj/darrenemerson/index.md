@@ -1,6 +1,6 @@
 # Darren Emerson
 
-Darren Emerson is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Sun, 19 Jul 2026, next at Superordinary, Brisbane on Fri, 24 Jul 2026.
+Darren Emerson is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Mon, 20 Jul 2026, next at Superordinary, Brisbane on Fri, 24 Jul 2026.
 
 Darren Emerson is a house and techno artist tracked on soundcheck, with 29 sets logged across Amsterdam, Auckland, Berlin and Brighton and 18 more. Often billed alongside Brandon Block, Danny Tenaglia and John Course. Next up: Superordinary, Brisbane on Fri 24 Jul.
 
@@ -27,4 +27,4 @@ Darren Emerson is a house and techno artist tracked on soundcheck, with 29 sets 
 
 Brandon Block, Danny Tenaglia, John Course
 
-*Updated Sun, 19 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/darrenemerson/)*
+*Updated Mon, 20 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/darrenemerson/)*

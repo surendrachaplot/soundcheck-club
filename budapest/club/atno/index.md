@@ -1,6 +1,6 @@
 # Atno
 
-Atno is a music venue in Budapest with 4 upcoming nights listed on soundcheck as of Sun, 19 Jul 2026; the next is "FREE SEQUENCE LABEL NIGHT #02" on Fri, 24 Jul 2026.
+Atno is a music venue in Budapest with 4 upcoming nights listed on soundcheck as of Mon, 20 Jul 2026; the next is "FREE SEQUENCE LABEL NIGHT #02" on Fri, 24 Jul 2026.
 
 Atno is a music venue in Budapest listed on soundcheck. 4 upcoming nights, with line-ups including 96zen, Breakforce One, Disandat and Helena Lua and 2 more. Browse upcoming dates, start times and who's playing. 1044, Zsilip utca 17..
 
@@ -17,4 +17,4 @@ Atno is a music venue in Budapest listed on soundcheck. 4 upcoming nights, with 
 
 1044, Zsilip utca 17., Budapest
 
-*Updated Sun, 19 Jul 2026 · source: [soundcheck](https://soundcheck.club/budapest/club/atno/)*
+*Updated Mon, 20 Jul 2026 · source: [soundcheck](https://soundcheck.club/budapest/club/atno/)*

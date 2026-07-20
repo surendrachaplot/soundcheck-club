@@ -1,14 +1,13 @@
 # Joëlla Jackson
 
-Joëlla Jackson is a House and Tech House artist with 7 upcoming club dates listed on soundcheck as of Sun, 19 Jul 2026, next at Thuishaven, Amsterdam on Sun, 19 Jul 2026.
+Joëlla Jackson is a House and Tech House artist with 6 upcoming club dates listed on soundcheck as of Mon, 20 Jul 2026, next at Hï Ibiza, Ibiza on Tue, 21 Jul 2026.
 
-Joëlla Jackson is a house and tech house artist tracked on soundcheck, with 111 sets logged across Amsterdam, Barcelona, Basel and Berlin and 16 more. Often billed alongside Benny Rodrigues, Franky Rizardo and Joey Daniel. Next up: Thuishaven, Amsterdam on Sun 19 Jul.
+Joëlla Jackson is a house and tech house artist tracked on soundcheck, with 111 sets logged across Amsterdam, Barcelona, Basel and Berlin and 16 more. Often billed alongside Benny Rodrigues, Franky Rizardo and Joey Daniel. Next up: Hï Ibiza, Ibiza on Tue 21 Jul.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sun, 19 Jul 2026 | Thuishaven | Amsterdam |
 | Tue, 21 Jul 2026 | Hï Ibiza | Ibiza |
 | Sat, 15 Aug 2026 | [UNVRS] | Ibiza |
 | Sat, 29 Aug 2026 | Van Nelle Fabriek | Rotterdam |
@@ -18,6 +17,7 @@ Joëlla Jackson is a house and tech house artist tracked on soundcheck, with 111
 
 ## Recently played
 
+- Thuishaven, Amsterdam — Sun, 19 Jul 2026
 - fabric, London — Sat, 18 Jul 2026
 - BRET, Amsterdam — Sun, 12 Jul 2026
 - Hembrugterrein, Amsterdam — Sat, 11 Jul 2026
@@ -25,10 +25,9 @@ Joëlla Jackson is a house and tech house artist tracked on soundcheck, with 111
 - [UNVRS], Ibiza — Wed, 24 Jun 2026
 - Bikini Club, Barcelona — Fri, 19 Jun 2026
 - BORIS CLUB, Barcelona — Wed, 17 Jun 2026
-- Ku Barcelona, Barcelona — Tue, 16 Jun 2026
 
 ## Shares bills with
 
 Benny Rodrigues, Franky Rizardo, Joey Daniel
 
-*Updated Sun, 19 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/joellajackson/)*
+*Updated Mon, 20 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/joellajackson/)*

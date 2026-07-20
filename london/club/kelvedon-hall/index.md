@@ -1,6 +1,6 @@
 # Kelvedon Hall
 
-Kelvedon Hall is a music venue in London with 2 upcoming nights listed on soundcheck as of Sun, 19 Jul 2026; the next is "[CANCELLED] Back of House Festival 2026" on Fri, 14 Aug 2026.
+Kelvedon Hall is a music venue in London with 2 upcoming nights listed on soundcheck as of Mon, 20 Jul 2026; the next is "[CANCELLED] Back of House Festival 2026" on Fri, 14 Aug 2026.
 
 Kelvedon Hall is a music venue in London listed on soundcheck. 2 upcoming nights, with line-ups including 2fox, FLETCH, ADMNTi and Alexandria and 2 more. Browse upcoming dates, start times and who's playing. Kelvedon Hall, Brentwood, CM14 5TN.
 
@@ -15,4 +15,4 @@ Kelvedon Hall is a music venue in London listed on soundcheck. 2 upcoming nights
 
 Kelvedon Hall, Brentwood, CM14 5TN, London
 
-*Updated Sun, 19 Jul 2026 · source: [soundcheck](https://soundcheck.club/london/club/kelvedon-hall/)*
+*Updated Mon, 20 Jul 2026 · source: [soundcheck](https://soundcheck.club/london/club/kelvedon-hall/)*

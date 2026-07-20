@@ -1,6 +1,6 @@
 # Korra the Kid
 
-Korra the Kid is a Bass and Techno artist with 2 upcoming club dates listed on soundcheck as of Sun, 19 Jul 2026, next at TBA, Seattle on Sat, 8 Aug 2026.
+Korra the Kid is a Bass and Techno artist with 2 upcoming club dates listed on soundcheck as of Mon, 20 Jul 2026, next at TBA, Seattle on Sat, 8 Aug 2026.
 
 Korra the Kid is a bass and techno artist based in United States of America, tracked on soundcheck, with 23 sets logged across Portland, Sanfrancisco and Seattle. Often billed alongside Mirin Doja, Succubass and DJ WIFI. Next up: TBA, Seattle on Sat 8 Aug.
 
@@ -26,4 +26,4 @@ Korra the Kid is a bass and techno artist based in United States of America, tra
 
 Mirin Doja, Succubass, DJ WIFI
 
-*Updated Sun, 19 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/korrathekid/)*
+*Updated Mon, 20 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/korrathekid/)*

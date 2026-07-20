@@ -1,6 +1,6 @@
 # Upstairs at the 700
 
-Upstairs at the 700 is a music venue in Philadelphia with 8 upcoming nights listed on soundcheck as of Sun, 19 Jul 2026; the next is "blend" on Thu, 23 Jul 2026.
+Upstairs at the 700 is a music venue in Philadelphia with 8 upcoming nights listed on soundcheck as of Mon, 20 Jul 2026; the next is "blend" on Thu, 23 Jul 2026.
 
 Upstairs at the 700 is a music venue in Philadelphia listed on soundcheck. 8 upcoming nights, with line-ups including Brad Scott, DJ Baby Berlin, El-D (USA) and Firestone and 2 more. Browse upcoming dates, start times and who's playing. 700 N 2nd St, Philadelphia, PA 19123, United States.
 
@@ -21,4 +21,4 @@ Upstairs at the 700 is a music venue in Philadelphia listed on soundcheck. 8 upc
 
 700 N 2nd St, Philadelphia, PA 19123, United States, Philadelphia
 
-*Updated Sun, 19 Jul 2026 · source: [soundcheck](https://soundcheck.club/philadelphia/club/upstairs-at-the-700/)*
+*Updated Mon, 20 Jul 2026 · source: [soundcheck](https://soundcheck.club/philadelphia/club/upstairs-at-the-700/)*

@@ -1,6 +1,6 @@
 # saparilla
 
-saparilla is a Footwork and Gqom artist with 3 upcoming club dates listed on soundcheck as of Sun, 19 Jul 2026, next at Stereo, Glasgow on Fri, 31 Jul 2026.
+saparilla is a Footwork and Gqom artist with 3 upcoming club dates listed on soundcheck as of Mon, 20 Jul 2026, next at Stereo, Glasgow on Fri, 31 Jul 2026.
 
 saparilla is a footwork and gqom artist tracked on soundcheck, with 23 sets logged across Edinburgh, Glasgow and London. Often billed alongside Kinz Luiz, makaya and spxo. Next up: Stereo, Glasgow on Fri 31 Jul.
 
@@ -27,4 +27,4 @@ saparilla is a footwork and gqom artist tracked on soundcheck, with 23 sets logg
 
 Kinz Luiz, makaya, spxo
 
-*Updated Sun, 19 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/saparilla/)*
+*Updated Mon, 20 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/saparilla/)*

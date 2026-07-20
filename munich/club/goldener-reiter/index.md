@@ -1,6 +1,6 @@
 # Goldener Reiter
 
-Goldener Reiter is a music venue in Munich with 4 upcoming nights listed on soundcheck as of Sun, 19 Jul 2026; the next is "Back on Track! - House of Lolo" on Fri, 24 Jul 2026.
+Goldener Reiter is a music venue in Munich with 4 upcoming nights listed on soundcheck as of Mon, 20 Jul 2026; the next is "Back on Track! - House of Lolo" on Fri, 24 Jul 2026.
 
 Goldener Reiter is a music venue in Munich listed on soundcheck. 4 upcoming nights, with line-ups including 600-cell, SRCS, DJLolo and Julie Fleischer and 2 more. Browse upcoming dates, start times and who's playing. Theklastraße 1 Munich, Germany 80469.
 
@@ -17,4 +17,4 @@ Goldener Reiter is a music venue in Munich listed on soundcheck. 4 upcoming nigh
 
 Theklastraße 1 Munich, Germany 80469, Munich
 
-*Updated Sun, 19 Jul 2026 · source: [soundcheck](https://soundcheck.club/munich/club/goldener-reiter/)*
+*Updated Mon, 20 Jul 2026 · source: [soundcheck](https://soundcheck.club/munich/club/goldener-reiter/)*

@@ -1,6 +1,6 @@
 # Vinyl
 
-Vinyl is a music venue in Philadelphia with 2 upcoming nights listed on soundcheck as of Sun, 19 Jul 2026; the next is "Sound Society" on Wed, 22 Jul 2026.
+Vinyl is a music venue in Philadelphia with 2 upcoming nights listed on soundcheck as of Mon, 20 Jul 2026; the next is "Sound Society" on Wed, 22 Jul 2026.
 
 Vinyl is a music venue in Philadelphia listed on soundcheck. 2 upcoming nights. Browse upcoming dates, start times and who's playing. 215 S 15th St, Philadelphia, PA 19102.
 
@@ -15,4 +15,4 @@ Vinyl is a music venue in Philadelphia listed on soundcheck. 2 upcoming nights. 
 
 215 S 15th St, Philadelphia, PA 19102, Philadelphia
 
-*Updated Sun, 19 Jul 2026 · source: [soundcheck](https://soundcheck.club/philadelphia/club/vinyl/)*
+*Updated Mon, 20 Jul 2026 · source: [soundcheck](https://soundcheck.club/philadelphia/club/vinyl/)*

@@ -1,6 +1,6 @@
 # The Lower Level
 
-The Lower Level is a music venue in Boston with 1 upcoming night listed on soundcheck as of Sun, 19 Jul 2026; the next is "Infra presents: DJ Nobu & Profiler" on Sat, 19 Sept 2026.
+The Lower Level is a music venue in Boston with 1 upcoming night listed on soundcheck as of Mon, 20 Jul 2026; the next is "Infra presents: DJ Nobu & Profiler" on Sat, 19 Sept 2026.
 
 The Lower Level is a music venue in Boston listed on soundcheck. 1 upcoming night, with line-ups including DJ Nobu. Browse upcoming dates, start times and who's playing. 55 Bishop Allen Dr, Cambridge, MA 02139, USA.
 
@@ -14,4 +14,4 @@ The Lower Level is a music venue in Boston listed on soundcheck. 1 upcoming nigh
 
 55 Bishop Allen Dr, Cambridge, MA 02139, USA, Boston
 
-*Updated Sun, 19 Jul 2026 · source: [soundcheck](https://soundcheck.club/boston/club/the-lower-level/)*
+*Updated Mon, 20 Jul 2026 · source: [soundcheck](https://soundcheck.club/boston/club/the-lower-level/)*

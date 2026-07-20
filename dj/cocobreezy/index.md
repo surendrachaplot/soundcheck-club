@@ -1,6 +1,6 @@
 # Coco & Breezy
 
-Coco & Breezy is a House and Techno artist with 7 upcoming club dates listed on soundcheck as of Sun, 19 Jul 2026, next at Celebrities Night Club, Vancouver on Fri, 31 Jul 2026.
+Coco & Breezy is a House and Techno artist with 7 upcoming club dates listed on soundcheck as of Mon, 20 Jul 2026, next at Celebrities Night Club, Vancouver on Fri, 31 Jul 2026.
 
 Coco & Breezy are a house and techno duo tracked on soundcheck, with 84 sets logged across Austin, Boston, Chicago and Copenhagen and 19 more. Often billed alongside Aluna, Breezy and Eric Prydz. Next up: Celebrities Night Club, Vancouver on Fri 31 Jul.
 
@@ -31,4 +31,4 @@ Coco & Breezy are a house and techno duo tracked on soundcheck, with 84 sets log
 
 Aluna, Breezy, Eric Prydz
 
-*Updated Sun, 19 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/cocobreezy/)*
+*Updated Mon, 20 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/cocobreezy/)*

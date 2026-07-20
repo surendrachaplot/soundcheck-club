@@ -1,6 +1,6 @@
 # Moaad BKR
 
-Moaad BKR is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Sun, 19 Jul 2026, next at Mansions, New York City on Sat, 25 Jul 2026.
+Moaad BKR is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Mon, 20 Jul 2026, next at Mansions, New York City on Sat, 25 Jul 2026.
 
 Moaad BKR is a house and techno artist tracked on soundcheck, with 62 sets logged across Barcelona, Berlin, Boston and Leeds and 10 more. Often billed alongside CPR Annie, Daura and Matt Brancatella. Next up: Mansions, Newyorkcity on Sat 25 Jul.
 
@@ -26,4 +26,4 @@ Moaad BKR is a house and techno artist tracked on soundcheck, with 62 sets logge
 
 CPR Annie, Daura, Matt Brancatella
 
-*Updated Sun, 19 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/moaadbkr/)*
+*Updated Mon, 20 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/moaadbkr/)*

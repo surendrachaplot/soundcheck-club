@@ -1,6 +1,6 @@
 # Village au Pied-du-Courant
 
-Village au Pied-du-Courant is a music venue in Montreal with 10 upcoming nights listed on soundcheck as of Sun, 19 Jul 2026; the next is "Village au Pied-du-Courant - Queen & Queer" on Thu, 23 Jul 2026.
+Village au Pied-du-Courant is a music venue in Montreal with 10 upcoming nights listed on soundcheck as of Mon, 20 Jul 2026; the next is "Village au Pied-du-Courant - Queen & Queer" on Thu, 23 Jul 2026.
 
 Village au Pied-du-Courant is a music venue in Montreal listed on soundcheck. 10 upcoming nights, with line-ups including ADEOLA, Awwful, Cal C (Modern Art) and DJ Hidi and 2 more. Browse upcoming dates, start times and who's playing. 2100 rue Notre-Dame Est, Montréal H2K 4K3.
 
@@ -23,4 +23,4 @@ Village au Pied-du-Courant is a music venue in Montreal listed on soundcheck. 10
 
 2100 rue Notre-Dame Est, Montréal H2K 4K3, Montreal
 
-*Updated Sun, 19 Jul 2026 · source: [soundcheck](https://soundcheck.club/montreal/club/village-au-pied-du-courant/)*
+*Updated Mon, 20 Jul 2026 · source: [soundcheck](https://soundcheck.club/montreal/club/village-au-pied-du-courant/)*

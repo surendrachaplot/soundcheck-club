@@ -1,6 +1,6 @@
 # Mathame
 
-Mathame is a Techno and House artist with 7 upcoming club dates listed on soundcheck as of Sun, 19 Jul 2026, next at LDN East, London on Thu, 23 Jul 2026.
+Mathame is a Techno and House artist with 7 upcoming club dates listed on soundcheck as of Mon, 20 Jul 2026, next at LDN East, London on Thu, 23 Jul 2026.
 
 Mathame is a techno and house artist tracked on soundcheck, with 155 sets logged across Amsterdam, Antwerp, Athens and Austin and 41 more. Often billed alongside Lyke, Olympe and Brina Knauss. Next up: LDN East, London on Thu 23 Jul.
 
@@ -31,4 +31,4 @@ Mathame is a techno and house artist tracked on soundcheck, with 155 sets logged
 
 Lyke, Olympe, Brina Knauss
 
-*Updated Sun, 19 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/mathame/)*
+*Updated Mon, 20 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/mathame/)*

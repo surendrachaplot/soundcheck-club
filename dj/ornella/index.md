@@ -1,6 +1,6 @@
 # Ornella
 
-Ornella is a Techno and Hardcore artist with 4 upcoming club dates listed on soundcheck as of Sun, 19 Jul 2026, next at Rebstockpark, Frankfurt on Sat, 25 Jul 2026.
+Ornella is a Techno and Hardcore artist with 4 upcoming club dates listed on soundcheck as of Mon, 20 Jul 2026, next at Rebstockpark, Frankfurt on Sat, 25 Jul 2026.
 
 Ornella is a techno and hardcore artist based in Portugal, tracked on soundcheck, with 113 sets logged across Amsterdam, Antwerp, Barcelona and Berlin and 19 more. Often billed alongside Madson Carpenter, Stëh and Kobosil. Next up: Rebstockpark, Frankfurt on Sat 25 Jul.
 
@@ -28,4 +28,4 @@ Ornella is a techno and hardcore artist based in Portugal, tracked on soundcheck
 
 Madson Carpenter, Stëh, Kobosil
 
-*Updated Sun, 19 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/ornella/)*
+*Updated Mon, 20 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/ornella/)*

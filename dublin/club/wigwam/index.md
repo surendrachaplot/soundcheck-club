@@ -1,6 +1,6 @@
 # Wigwam
 
-Wigwam is a music venue in Dublin with 21 upcoming nights listed on soundcheck as of Sun, 19 Jul 2026; the next is "RESO: Terrace Takeover" on Sat, 25 Jul 2026.
+Wigwam is a music venue in Dublin with 21 upcoming nights listed on soundcheck as of Mon, 20 Jul 2026; the next is "RESO: Terrace Takeover" on Sat, 25 Jul 2026.
 
 Wigwam is a music venue in Dublin listed on soundcheck. 21 upcoming nights, with line-ups including Altern-8, Baron Von Trax, Bláthnaid and Cáit and 2 more. Browse upcoming dates, start times and who's playing. 54 Abbey Street Middle, North City, Dublin, Ireland.
 
@@ -23,4 +23,4 @@ Wigwam is a music venue in Dublin listed on soundcheck. 21 upcoming nights, with
 
 54 Abbey Street Middle, North City, Dublin, Ireland, Dublin
 
-*Updated Sun, 19 Jul 2026 · source: [soundcheck](https://soundcheck.club/dublin/club/wigwam/)*
+*Updated Mon, 20 Jul 2026 · source: [soundcheck](https://soundcheck.club/dublin/club/wigwam/)*

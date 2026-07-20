@@ -1,6 +1,6 @@
 # Rafael
 
-Rafael is a House and Tech House artist with 4 upcoming club dates listed on soundcheck as of Sun, 19 Jul 2026, next at TBA - Secret Location, Berlin on Sun, 26 Jul 2026.
+Rafael is a House and Tech House artist with 4 upcoming club dates listed on soundcheck as of Mon, 20 Jul 2026, next at TBA - Secret Location, Berlin on Sun, 26 Jul 2026.
 
 Rafael is a house and tech house artist tracked on soundcheck, with 32 sets logged across Austin, Berlin, Chicago and Dublin and 10 more. Often billed alongside Flor Coto, Jamie Jones and Miluhska. Next up: TBA - Secret Location, Berlin on Sun 26 Jul.
 
@@ -28,4 +28,4 @@ Rafael is a house and tech house artist tracked on soundcheck, with 32 sets logg
 
 Flor Coto, Jamie Jones, Miluhska
 
-*Updated Sun, 19 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/rafael/)*
+*Updated Mon, 20 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/rafael/)*

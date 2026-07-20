@@ -1,6 +1,6 @@
 # Club Rawhide
 
-Club Rawhide is a music venue in New York City with 3 upcoming nights listed on soundcheck as of Sun, 19 Jul 2026; the next is "CODED Thursday with Boomer Banks" on Thu, 23 Jul 2026.
+Club Rawhide is a music venue in New York City with 3 upcoming nights listed on soundcheck as of Mon, 20 Jul 2026; the next is "CODED Thursday with Boomer Banks" on Thu, 23 Jul 2026.
 
 Club Rawhide is a music venue in Newyorkcity listed on soundcheck. 3 upcoming nights, with line-ups including MORENXXX, Boomer Banks, Junior M (US) and Sevyn Love. Browse upcoming dates, start times and who's playing. 250 W 26TH ST.
 
@@ -16,4 +16,4 @@ Club Rawhide is a music venue in Newyorkcity listed on soundcheck. 3 upcoming ni
 
 250 W 26TH ST, New York City
 
-*Updated Sun, 19 Jul 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/club-rawhide/)*
+*Updated Mon, 20 Jul 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/club-rawhide/)*

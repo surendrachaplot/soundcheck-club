@@ -1,6 +1,6 @@
 # Europa Boat
 
-Europa Boat is a music venue in Budapest with 3 upcoming nights listed on soundcheck as of Sun, 19 Jul 2026; the next is "Cruisin Boat Party x SANTSAT: River Ride" on Sat, 25 Jul 2026.
+Europa Boat is a music venue in Budapest with 3 upcoming nights listed on soundcheck as of Mon, 20 Jul 2026; the next is "Cruisin Boat Party x SANTSAT: River Ride" on Sat, 25 Jul 2026.
 
 Europa Boat is a music venue in Budapest listed on soundcheck. 3 upcoming nights, with line-ups including 1Night Only, Adis Is OK, Arapu and Evil Nine and 2 more. Browse upcoming dates, start times and who's playing. Szilágyi Dezső tér, 1011 Budapest.
 
@@ -16,4 +16,4 @@ Europa Boat is a music venue in Budapest listed on soundcheck. 3 upcoming nights
 
 Szilágyi Dezső tér, 1011 Budapest, Budapest
 
-*Updated Sun, 19 Jul 2026 · source: [soundcheck](https://soundcheck.club/budapest/club/europa-boat/)*
+*Updated Mon, 20 Jul 2026 · source: [soundcheck](https://soundcheck.club/budapest/club/europa-boat/)*

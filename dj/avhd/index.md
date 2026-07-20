@@ -1,6 +1,6 @@
 # AVHD
 
-AVHD is a Techno and Trance artist with 3 upcoming club dates listed on soundcheck as of Sun, 19 Jul 2026, next at Bike Jesus, Prague on Fri, 24 Jul 2026.
+AVHD is a Techno and Trance artist with 3 upcoming club dates listed on soundcheck as of Mon, 20 Jul 2026, next at Bike Jesus, Prague on Fri, 24 Jul 2026.
 
 AVHD is a techno and trance artist based in India, tracked on soundcheck, with 56 sets logged across Berlin and Prague. Often billed alongside ishka machina, Takē and Big Lil. Next up: Bike Jesus, Prague on Fri 24 Jul.
 
@@ -27,4 +27,4 @@ AVHD is a techno and trance artist based in India, tracked on soundcheck, with 5
 
 ishka machina, Takē, Big Lil
 
-*Updated Sun, 19 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/avhd/)*
+*Updated Mon, 20 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/avhd/)*

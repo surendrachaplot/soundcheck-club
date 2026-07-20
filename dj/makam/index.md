@@ -1,6 +1,6 @@
 # Makam
 
-Makam is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Sun, 19 Jul 2026, next at Amsterdamse Bos, Amsterdam on Wed, 29 Jul 2026.
+Makam is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Mon, 20 Jul 2026, next at Amsterdamse Bos, Amsterdam on Wed, 29 Jul 2026.
 
 Makam is a techno and house artist based in Netherlands, tracked on soundcheck, with 22 sets logged across Amsterdam, Antwerp, Berlin and Madrid and 3 more. Often billed alongside Talismann, AMORAL and I-F. Next up: Amsterdamse Bos, Amsterdam on Wed 29 Jul.
 
@@ -26,4 +26,4 @@ Makam is a techno and house artist based in Netherlands, tracked on soundcheck, 
 
 Talismann, AMORAL, I-F
 
-*Updated Sun, 19 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/makam/)*
+*Updated Mon, 20 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/makam/)*

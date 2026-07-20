@@ -1,6 +1,6 @@
 # 303 Audiophile Bar
 
-303 Audiophile Bar is a music venue in Barcelona with 5 upcoming nights listed on soundcheck as of Sun, 19 Jul 2026; the next is "303 pres. Ladies on Decks. Galu Bla / PILAR MOLINERO / Liquid Sunshine" on Thu, 23 Jul 2026.
+303 Audiophile Bar is a music venue in Barcelona with 5 upcoming nights listed on soundcheck as of Mon, 20 Jul 2026; the next is "303 pres. Ladies on Decks. Galu Bla / PILAR MOLINERO / Liquid Sunshine" on Thu, 23 Jul 2026.
 
 303 Audiophile Bar is a music venue in Barcelona listed on soundcheck. 5 upcoming nights, with line-ups including Alen Aladin, Dave Rose, Fedo and Galu Bla and 2 more. Browse upcoming dates, start times and who's playing. C/ de Casp, 33B, L'Eixample, 08010 Barcelona.
 
@@ -18,4 +18,4 @@
 
 C/ de Casp, 33B, L'Eixample, 08010 Barcelona, Barcelona
 
-*Updated Sun, 19 Jul 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/303-audiophile-bar/)*
+*Updated Mon, 20 Jul 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/303-audiophile-bar/)*

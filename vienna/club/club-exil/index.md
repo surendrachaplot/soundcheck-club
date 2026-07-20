@@ -1,6 +1,6 @@
 # Club Exil
 
-Club Exil is a music venue in Vienna with 1 upcoming night listed on soundcheck as of Sun, 19 Jul 2026; the next is "Liquicity Vienna 2026" on Sat, 3 Oct 2026.
+Club Exil is a music venue in Vienna with 1 upcoming night listed on soundcheck as of Mon, 20 Jul 2026; the next is "Liquicity Vienna 2026" on Sat, 3 Oct 2026.
 
 Club Exil is a music venue in Vienna listed on soundcheck. 1 upcoming night, with line-ups including Anaïs, ESKEI83, Maduk and Paul SG and 2 more. Browse upcoming dates, start times and who's playing. Marktstrasse 13A 2331 Vösendorf.
 
@@ -14,4 +14,4 @@ Club Exil is a music venue in Vienna listed on soundcheck. 1 upcoming night, wit
 
 Marktstrasse 13A 2331 Vösendorf, Vienna
 
-*Updated Sun, 19 Jul 2026 · source: [soundcheck](https://soundcheck.club/vienna/club/club-exil/)*
+*Updated Mon, 20 Jul 2026 · source: [soundcheck](https://soundcheck.club/vienna/club/club-exil/)*

@@ -1,6 +1,6 @@
 # Nastia
 
-Nastia is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Sun, 19 Jul 2026, next at Studio Club Malaga, Malaga on Fri, 24 Jul 2026.
+Nastia is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Mon, 20 Jul 2026, next at Studio Club Malaga, Malaga on Fri, 24 Jul 2026.
 
 Nastia is a techno and house artist tracked on soundcheck, with 155 sets logged across Amsterdam, Athens, Austin and Barcelona and 55 more. Often billed alongside Stef Mendesidis, DJ Bone and The Advent. Next up: Studio Club Malaga, Malaga on Fri 24 Jul.
 
@@ -27,4 +27,4 @@ Nastia is a techno and house artist tracked on soundcheck, with 155 sets logged 
 
 Stef Mendesidis, DJ Bone, The Advent
 
-*Updated Sun, 19 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/nastia/)*
+*Updated Mon, 20 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/nastia/)*

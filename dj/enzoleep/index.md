@@ -1,6 +1,6 @@
 # Enzo Leep
 
-Enzo Leep is a House and Electronica artist with 2 upcoming club dates listed on soundcheck as of Sun, 19 Jul 2026, next at Sophie Festival, Malaga on Sat, 25 Jul 2026.
+Enzo Leep is a House and Electronica artist with 2 upcoming club dates listed on soundcheck as of Mon, 20 Jul 2026, next at Sophie Festival, Malaga on Sat, 25 Jul 2026.
 
 Enzo Leep is a house and electronica artist based in Spain, tracked on soundcheck, with 59 sets logged across Amsterdam, Barcelona, Belgrade and Berlin and 11 more. Often billed alongside ELVI (SE), Ion Pananides and Alvaro Medina. Next up: Sophie Festival, Malaga on Sat 25 Jul.
 
@@ -26,4 +26,4 @@ Enzo Leep is a house and electronica artist based in Spain, tracked on soundchec
 
 ELVI (SE), Ion Pananides, Alvaro Medina
 
-*Updated Sun, 19 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/enzoleep/)*
+*Updated Mon, 20 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/enzoleep/)*

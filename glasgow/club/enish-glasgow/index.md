@@ -1,6 +1,6 @@
 # Enish Glasgow
 
-Enish Glasgow is a music venue in Glasgow with 3 upcoming nights listed on soundcheck as of Sun, 19 Jul 2026; the next is "JOEBOY LIVE IN CONCERT" on Sat, 25 Jul 2026.
+Enish Glasgow is a music venue in Glasgow with 3 upcoming nights listed on soundcheck as of Mon, 20 Jul 2026; the next is "JOEBOY LIVE IN CONCERT" on Sat, 25 Jul 2026.
 
 Enish Glasgow is a music venue in Glasgow listed on soundcheck. 3 upcoming nights. Browse upcoming dates, start times and who's playing. 186 Bath St, Glasgow G2 4HG.
 
@@ -16,4 +16,4 @@ Enish Glasgow is a music venue in Glasgow listed on soundcheck. 3 upcoming night
 
 186 Bath St, Glasgow G2 4HG, Glasgow
 
-*Updated Sun, 19 Jul 2026 · source: [soundcheck](https://soundcheck.club/glasgow/club/enish-glasgow/)*
+*Updated Mon, 20 Jul 2026 · source: [soundcheck](https://soundcheck.club/glasgow/club/enish-glasgow/)*

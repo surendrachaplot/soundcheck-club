@@ -1,6 +1,6 @@
 # Mark Blair
 
-Mark Blair is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Sun, 19 Jul 2026, next at Superordinary, Brisbane on Fri, 18 Sept 2026.
+Mark Blair is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Mon, 20 Jul 2026, next at Superordinary, Brisbane on Fri, 18 Sept 2026.
 
 Mark Blair is a techno and house artist based in United Kingdom, tracked on soundcheck, with 60 sets logged across Aberdeen, Auckland, Belfast and Brisbane and 17 more. Often billed alongside Yasmin Gardezi, blk. and 999999999. Next up: Superordinary, Brisbane on Fri 18 Sept.
 
@@ -27,4 +27,4 @@ Mark Blair is a techno and house artist based in United Kingdom, tracked on soun
 
 Yasmin Gardezi, blk., 999999999
 
-*Updated Sun, 19 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/markblair/)*
+*Updated Mon, 20 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/markblair/)*

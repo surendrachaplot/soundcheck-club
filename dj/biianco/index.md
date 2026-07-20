@@ -1,14 +1,13 @@
 # BIIANCO
 
-BIIANCO is a Techno and House artist with 9 upcoming club dates listed on soundcheck as of Sun, 19 Jul 2026, next at Radius, Chicago on Sun, 19 Jul 2026.
+BIIANCO is a Techno and House artist with 8 upcoming club dates listed on soundcheck as of Mon, 20 Jul 2026, next at KALT, Strasbourg on Sat, 25 Jul 2026.
 
-BIIANCO is a techno and house artist based in United States of America, tracked on soundcheck, with 86 sets logged across Amsterdam, Antwerp, Basel and Berlin and 30 more. Often billed alongside Fenrick, Adrian Mills and EMILIJA. Next up: Radius, Chicago on Sun 19 Jul.
+BIIANCO is a techno and house artist based in United States of America, tracked on soundcheck, with 86 sets logged across Amsterdam, Antwerp, Basel and Berlin and 30 more. Often billed alongside Fenrick, Adrian Mills and EMILIJA. Next up: KALT, Strasbourg on Sat 25 Jul.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sun, 19 Jul 2026 | Radius | Chicago |
 | Sat, 25 Jul 2026 | KALT | Strasbourg |
 | Sat, 1 Aug 2026 | Burgess Park | London |
 | Fri, 7 Aug 2026 | Lofi | Amsterdam |
@@ -20,6 +19,7 @@ BIIANCO is a techno and house artist based in United States of America, tracked 
 
 ## Recently played
 
+- Radius, Chicago — Sun, 19 Jul 2026
 - TBA - Los Angeles, Los Angeles — Fri, 17 Jul 2026
 - Under the K Bridge, New York City — Sat, 11 Jul 2026
 - 1015 Folsom, San Francisco/Oakland — Thu, 9 Jul 2026
@@ -27,10 +27,9 @@ BIIANCO is a techno and house artist based in United States of America, tracked 
 - Spook Club, Valencia — Sat, 6 Jun 2026
 - UNO MALTA, Malta — Thu, 21 May 2026
 - Spaarnwoude (Deelplan Houtrak), Amsterdam — Sat, 16 May 2026
-- 8 Marvila, Lisbon — Sat, 16 May 2026
 
 ## Shares bills with
 
 Fenrick, Adrian Mills, EMILIJA
 
-*Updated Sun, 19 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/biianco/)*
+*Updated Mon, 20 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/biianco/)*

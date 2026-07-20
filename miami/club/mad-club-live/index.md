@@ -1,6 +1,6 @@
 # MAD Club Live
 
-MAD Club Live is a music venue in Miami with 2 upcoming nights listed on soundcheck as of Sun, 19 Jul 2026; the next is "Midnight Service" on Sat, 22 Aug 2026.
+MAD Club Live is a music venue in Miami with 2 upcoming nights listed on soundcheck as of Mon, 20 Jul 2026; the next is "Midnight Service" on Sat, 22 Aug 2026.
 
 MAD Club Live is a music venue in Miami listed on soundcheck. 2 upcoming nights, with line-ups including Miguel Clark, Naim Zarzour and Partok. Browse upcoming dates, start times and who's playing. 55 NE 24th St, Miami, FL 33137.
 
@@ -15,4 +15,4 @@ MAD Club Live is a music venue in Miami listed on soundcheck. 2 upcoming nights,
 
 55 NE 24th St, Miami, FL 33137, Miami
 
-*Updated Sun, 19 Jul 2026 · source: [soundcheck](https://soundcheck.club/miami/club/mad-club-live/)*
+*Updated Mon, 20 Jul 2026 · source: [soundcheck](https://soundcheck.club/miami/club/mad-club-live/)*

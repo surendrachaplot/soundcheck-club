@@ -1,14 +1,15 @@
 # pavvvvvvlo
 
-pavvvvvvlo is a Techno and Trance artist with 2 upcoming club dates listed on soundcheck as of Sun, 19 Jul 2026, next at Ministerium Club, Lisbon on Thu, 23 Jul 2026.
+pavvvvvvlo is a Techno and Trance artist with 3 upcoming club dates listed on soundcheck as of Mon, 20 Jul 2026, next at Ministerium Club, Lisbon on Thu, 23 Jul 2026.
 
-pavvvvvvlo is a techno and trance artist tracked on soundcheck, with 49 sets logged across Berlin, Brussels, Lisbon and Madrid and 1 more. Often billed alongside Alba Franch, Gerardo Niva and Cobb Douglas. Next up: Ministerium Club, Lisbon on Thu 23 Jul.
+pavvvvvvlo is a techno and trance artist tracked on soundcheck, with 50 sets logged across Berlin, Brussels, Lisbon and Madrid and 1 more. Often billed alongside Alba Franch, Gerardo Niva and Cobb Douglas. Next up: Ministerium Club, Lisbon on Thu 23 Jul.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Thu, 23 Jul 2026 | Ministerium Club | Lisbon |
+| Thu, 23 Jul 2026 | Jardim do Èden | Lisbon |
 | Fri, 7 Aug 2026 | Barrio Cafe | Brussels |
 
 ## Recently played
@@ -26,4 +27,4 @@ pavvvvvvlo is a techno and trance artist tracked on soundcheck, with 49 sets log
 
 Alba Franch, Gerardo Niva, Cobb Douglas
 
-*Updated Sun, 19 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/pavvvvvvlo/)*
+*Updated Mon, 20 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/pavvvvvvlo/)*

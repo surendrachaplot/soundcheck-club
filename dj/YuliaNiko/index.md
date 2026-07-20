@@ -1,6 +1,6 @@
 # Yulia Niko
 
-Yulia Niko is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Sun, 19 Jul 2026, next at Village du Soir, Geneva on Fri, 31 Jul 2026.
+Yulia Niko is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Mon, 20 Jul 2026, next at Village du Soir, Geneva on Fri, 31 Jul 2026.
 
 Yulia Niko is a house and techno artist tracked on soundcheck, with 110 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 37 more. Often billed alongside ARODES, Damian Lazarus and Ida Engberg. Next up: Village du Soir, Geneva on Fri 31 Jul.
 
@@ -27,4 +27,4 @@ Yulia Niko is a house and techno artist tracked on soundcheck, with 110 sets log
 
 ARODES, Damian Lazarus, Ida Engberg
 
-*Updated Sun, 19 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/YuliaNiko/)*
+*Updated Mon, 20 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/YuliaNiko/)*

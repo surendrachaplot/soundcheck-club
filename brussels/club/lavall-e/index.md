@@ -1,6 +1,6 @@
 # Lavallée
 
-Lavallée is a music venue in Brussels with 5 upcoming nights listed on soundcheck as of Sun, 19 Jul 2026; the next is "PLATINE's National Holiday" on Tue, 21 Jul 2026.
+Lavallée is a music venue in Brussels with 5 upcoming nights listed on soundcheck as of Mon, 20 Jul 2026; the next is "PLATINE's National Holiday" on Tue, 21 Jul 2026.
 
 Lavallée is a music venue in Brussels listed on soundcheck. 5 upcoming nights, with line-ups including Ben Kamal, Caillou (DE), cyvira and Erykah and 2 more. Browse upcoming dates, start times and who's playing. 39 rue Adolphe Lavallée, 1080 Molenbeek-Saint-Jean.
 
@@ -18,4 +18,4 @@ Lavallée is a music venue in Brussels listed on soundcheck. 5 upcoming nights, 
 
 39 rue Adolphe Lavallée, 1080 Molenbeek-Saint-Jean, Brussels
 
-*Updated Sun, 19 Jul 2026 · source: [soundcheck](https://soundcheck.club/brussels/club/lavall-e/)*
+*Updated Mon, 20 Jul 2026 · source: [soundcheck](https://soundcheck.club/brussels/club/lavall-e/)*

@@ -1,6 +1,6 @@
 # Toffler
 
-Toffler is a music venue in Rotterdam with 20 upcoming nights listed on soundcheck as of Sun, 19 Jul 2026; the next is "TOFFLER presents Najel Monteiro and friends" on Fri, 24 Jul 2026.
+Toffler is a music venue in Rotterdam with 20 upcoming nights listed on soundcheck as of Mon, 20 Jul 2026; the next is "TOFFLER presents Najel Monteiro and friends" on Fri, 24 Jul 2026.
 
 Toffler is a music venue in Rotterdam listed on soundcheck. 20 upcoming nights, with line-ups including Ammé, Anderdox, Ben Horton and BISOUX and 2 more. Browse upcoming dates, start times and who's playing. Weena-Zuid 33, 3012 NH, Rotterdam, Netherlands.
 
@@ -23,4 +23,4 @@ Toffler is a music venue in Rotterdam listed on soundcheck. 20 upcoming nights, 
 
 Weena-Zuid 33, 3012 NH, Rotterdam, Netherlands, Rotterdam
 
-*Updated Sun, 19 Jul 2026 · source: [soundcheck](https://soundcheck.club/rotterdam/club/toffler/)*
+*Updated Mon, 20 Jul 2026 · source: [soundcheck](https://soundcheck.club/rotterdam/club/toffler/)*

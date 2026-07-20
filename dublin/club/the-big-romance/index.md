@@ -1,14 +1,13 @@
 # The Big Romance
 
-The Big Romance is a music venue in Dublin with 9 upcoming nights listed on soundcheck as of Sun, 19 Jul 2026; the next is "Organ Freeman (Live Jazz) + Brian Gallagher (DJ)" on Sun, 19 Jul 2026.
+The Big Romance is a music venue in Dublin with 8 upcoming nights listed on soundcheck as of Mon, 20 Jul 2026; the next is "Fran Ortu" on Thu, 23 Jul 2026.
 
-The Big Romance is a music venue in Dublin listed on soundcheck. 9 upcoming nights, with line-ups including Ricky Chong. Browse upcoming dates, start times and who's playing. 98 Parnell St, Rotunda, Dublin, D01 T2T3, Ireland.
+The Big Romance is a music venue in Dublin listed on soundcheck. 8 upcoming nights, with line-ups including Ricky Chong. Browse upcoming dates, start times and who's playing. 98 Parnell St, Rotunda, Dublin, D01 T2T3, Ireland.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Sun, 19 Jul 2026 | Organ Freeman (Live Jazz) + Brian Gallagher (DJ) |  |
 | Thu, 23 Jul 2026 | Fran Ortu |  |
 | Fri, 24 Jul 2026 | Andrew Kearney & Toby Hatchett |  |
 | Sat, 25 Jul 2026 | Ricky Chong | Ricky Chong |
@@ -22,4 +21,4 @@ The Big Romance is a music venue in Dublin listed on soundcheck. 9 upcoming nigh
 
 98 Parnell St, Rotunda, Dublin, D01 T2T3, Ireland, Dublin
 
-*Updated Sun, 19 Jul 2026 · source: [soundcheck](https://soundcheck.club/dublin/club/the-big-romance/)*
+*Updated Mon, 20 Jul 2026 · source: [soundcheck](https://soundcheck.club/dublin/club/the-big-romance/)*

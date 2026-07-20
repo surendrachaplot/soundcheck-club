@@ -1,6 +1,6 @@
 # jeanska
 
-jeanska is a Trance and Techno artist with 7 upcoming club dates listed on soundcheck as of Sun, 19 Jul 2026, next at Lokschuppen Berlin, Berlin on Sun, 26 Jul 2026.
+jeanska is a Trance and Techno artist with 7 upcoming club dates listed on soundcheck as of Mon, 20 Jul 2026, next at Lokschuppen Berlin, Berlin on Sun, 26 Jul 2026.
 
 jeanska is a trance and techno artist tracked on soundcheck, with 51 sets logged across Berlin. Often billed alongside bbymeister, August Kind and Deltapeak. Next up: Lokschuppen Berlin, Berlin on Sun 26 Jul.
 
@@ -31,4 +31,4 @@ jeanska is a trance and techno artist tracked on soundcheck, with 51 sets logged
 
 bbymeister, August Kind, Deltapeak
 
-*Updated Sun, 19 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/jeanska/)*
+*Updated Mon, 20 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/jeanska/)*

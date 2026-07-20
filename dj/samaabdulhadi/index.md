@@ -1,6 +1,6 @@
 # Sama' Abdulhadi
 
-Sama' Abdulhadi is a Techno and House artist with 5 upcoming club dates listed on soundcheck as of Sun, 19 Jul 2026, next at Lofi, Amsterdam on Fri, 24 Jul 2026.
+Sama' Abdulhadi is a Techno and House artist with 5 upcoming club dates listed on soundcheck as of Mon, 20 Jul 2026, next at Lofi, Amsterdam on Fri, 24 Jul 2026.
 
 Sama' Abdulhadi is a techno and house artist tracked on soundcheck, with 136 sets logged across Amsterdam, Athens, Barcelona and Belgrade and 46 more. Often billed alongside Richie Hawtin, Adam Beyer and Anfisa Letyago. Next up: Lofi, Amsterdam on Fri 24 Jul.
 
@@ -29,4 +29,4 @@ Sama' Abdulhadi is a techno and house artist tracked on soundcheck, with 136 set
 
 Richie Hawtin, Adam Beyer, Anfisa Letyago
 
-*Updated Sun, 19 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/samaabdulhadi/)*
+*Updated Mon, 20 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/samaabdulhadi/)*

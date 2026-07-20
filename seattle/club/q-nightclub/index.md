@@ -1,6 +1,6 @@
 # Q Nightclub
 
-Q Nightclub is a music venue in Seattle with 20 upcoming nights listed on soundcheck as of Sun, 19 Jul 2026; the next is "Omnya" on Fri, 24 Jul 2026.
+Q Nightclub is a music venue in Seattle with 20 upcoming nights listed on soundcheck as of Mon, 20 Jul 2026; the next is "Omnya" on Fri, 24 Jul 2026.
 
 Q Nightclub is a music venue in Seattle listed on soundcheck. 20 upcoming nights, with line-ups including Arlo, Biscits, BL3SS and camoufly and 2 more. Browse upcoming dates, start times and who's playing. 1426 Broadway, Seattle, WA..
 
@@ -23,4 +23,4 @@ Q Nightclub is a music venue in Seattle listed on soundcheck. 20 upcoming nights
 
 1426 Broadway, Seattle, WA., Seattle
 
-*Updated Sun, 19 Jul 2026 · source: [soundcheck](https://soundcheck.club/seattle/club/q-nightclub/)*
+*Updated Mon, 20 Jul 2026 · source: [soundcheck](https://soundcheck.club/seattle/club/q-nightclub/)*

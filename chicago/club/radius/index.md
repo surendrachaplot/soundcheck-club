@@ -1,14 +1,13 @@
 # Radius
 
-Radius is a music venue in Chicago with 21 upcoming nights listed on soundcheck as of Sun, 19 Jul 2026; the next is "boost+++ xxl - day two" on Sun, 19 Jul 2026.
+Radius is a music venue in Chicago with 20 upcoming nights listed on soundcheck as of Mon, 20 Jul 2026; the next is "Lollapalooza After: Boris Brejcha" on Wed, 29 Jul 2026.
 
-Radius is a music venue in Chicago listed on soundcheck. 21 upcoming nights, with line-ups including 1tbsp, Afrojack, Alarico and AMAYAH and 2 more. Browse upcoming dates, start times and who's playing. 640 West Cermak Road Chicago, Illinois 60616, USA.
+Radius is a music venue in Chicago listed on soundcheck. 20 upcoming nights, with line-ups including 1tbsp, Afrojack, AMAYAH and Boris Brejcha and 2 more. Browse upcoming dates, start times and who's playing. 640 West Cermak Road Chicago, Illinois 60616, USA.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Sun, 19 Jul 2026 | boost+++ xxl - day two | Alarico, Ariel Zetina, BIIANCO, Beau Didier, DJ Nobu, DVS1, Fenrick, Freeman 713, Gabber Eleganza, LSDXOXO, Miss Twink USA, Prosperity Room, Vendex, Vladimir Dubyshkin, Yanamaste, hhunter |
 | Wed, 29 Jul 2026 | Lollapalooza After: Boris Brejcha | Boris Brejcha |
 | Thu, 30 Jul 2026 | Lollapalooza After: boost+++ at Cermak Hall | 1tbsp, DJ Planet Express, David Löhlein, HOTPRETTY |
 | Fri, 31 Jul 2026 | Lollapalooza After: horsegiirL | horsegiirL |
@@ -18,9 +17,10 @@ Radius is a music venue in Chicago listed on soundcheck. 21 upcoming nights, wit
 | Sat, 15 Aug 2026 | Wooden Wisdom (Elijah Wood x Zach Cowie): Fantasy Party & Vinyl DJ Set |  |
 | Sat, 15 Aug 2026 | Ranger Trucco presents range | Ranger Trucco |
 | Sun, 16 Aug 2026 | ChaseWest presents chaste | ChaseWest |
+| Sat, 12 Sept 2026 | oskar med k | oskar med k |
 
 ## Address
 
 640 West Cermak Road Chicago, Illinois 60616, USA, Chicago
 
-*Updated Sun, 19 Jul 2026 · source: [soundcheck](https://soundcheck.club/chicago/club/radius/)*
+*Updated Mon, 20 Jul 2026 · source: [soundcheck](https://soundcheck.club/chicago/club/radius/)*

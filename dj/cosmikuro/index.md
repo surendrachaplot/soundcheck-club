@@ -1,6 +1,6 @@
 # Cosmikuro
 
-Cosmikuro is a Downtempo and Techno artist with 2 upcoming club dates listed on soundcheck as of Sun, 19 Jul 2026, next at Headrow House, Leeds on Fri, 24 Jul 2026.
+Cosmikuro is a Downtempo and Techno artist with 2 upcoming club dates listed on soundcheck as of Mon, 20 Jul 2026, next at Headrow House, Leeds on Fri, 24 Jul 2026.
 
 Cosmikuro is a downtempo and techno artist based in United Kingdom, tracked on soundcheck, with 34 sets logged across Leeds and Manchester. Often billed alongside Simon Scott, Elliot Holt and John Paynter. Next up: Headrow House, Leeds on Fri 24 Jul.
 
@@ -26,4 +26,4 @@ Cosmikuro is a downtempo and techno artist based in United Kingdom, tracked on s
 
 Simon Scott, Elliot Holt, John Paynter
 
-*Updated Sun, 19 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/cosmikuro/)*
+*Updated Mon, 20 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/cosmikuro/)*

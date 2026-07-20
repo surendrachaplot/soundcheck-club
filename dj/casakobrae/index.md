@@ -1,6 +1,6 @@
 # Casa Kobrae
 
-Casa Kobrae is a Techno and Ghetto Tech artist with 2 upcoming club dates listed on soundcheck as of Sun, 19 Jul 2026, next at Bain Mathieu, Montreal on Fri, 24 Jul 2026.
+Casa Kobrae is a Techno and Ghetto Tech artist with 2 upcoming club dates listed on soundcheck as of Mon, 20 Jul 2026, next at Bain Mathieu, Montreal on Fri, 24 Jul 2026.
 
 Casa Kobrae is a techno and ghetto tech artist tracked on soundcheck, with 54 sets logged across Montreal and Toronto. Often billed alongside JASHIM, Katamina and nastygloss. Next up: Bain Mathieu, Montreal on Fri 24 Jul.
 
@@ -26,4 +26,4 @@ Casa Kobrae is a techno and ghetto tech artist tracked on soundcheck, with 54 se
 
 JASHIM, Katamina, nastygloss
 
-*Updated Sun, 19 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/casakobrae/)*
+*Updated Mon, 20 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/casakobrae/)*

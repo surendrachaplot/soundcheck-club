@@ -1,14 +1,15 @@
 # Critter
 
-Critter is a House and Bass artist with 2 upcoming club dates listed on soundcheck as of Sun, 19 Jul 2026, next at Bambi's, Toronto on Sat, 25 Jul 2026.
+Critter is a House and Bass artist with 3 upcoming club dates listed on soundcheck as of Mon, 20 Jul 2026, next at Bambi's, Toronto on Sat, 25 Jul 2026.
 
-Critter is a house and bass artist tracked on soundcheck, with 42 sets logged across Toronto. Often billed alongside Kai (TO), moody.cn.man and DJ CISWOMAN. Next up: Bambi's, Toronto on Sat 25 Jul.
+Critter is a house and bass artist tracked on soundcheck, with 43 sets logged across Toronto. Often billed alongside Kai (TO), moody.cn.man and DJ CISWOMAN. Next up: Bambi's, Toronto on Sat 25 Jul.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 25 Jul 2026 | Bambi's | Toronto |
+| Sat, 1 Aug 2026 | The Jama | Toronto |
 | Sat, 8 Aug 2026 | The Jama | Toronto |
 
 ## Recently played
@@ -26,4 +27,4 @@ Critter is a house and bass artist tracked on soundcheck, with 42 sets logged ac
 
 Kai (TO), moody.cn.man, DJ CISWOMAN
 
-*Updated Sun, 19 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/critter/)*
+*Updated Mon, 20 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/critter/)*

@@ -1,6 +1,6 @@
 # Easttown
 
-Easttown is a House and Tech House artist with 8 upcoming club dates listed on soundcheck as of Sun, 19 Jul 2026, next at [UNVRS], Ibiza on Sat, 8 Aug 2026.
+Easttown is a House and Tech House artist with 8 upcoming club dates listed on soundcheck as of Mon, 20 Jul 2026, next at [UNVRS], Ibiza on Sat, 8 Aug 2026.
 
 Easttown is a house and tech house artist tracked on soundcheck, with 90 sets logged across Amsterdam, Barcelona, Basel and Ibiza and 12 more. Often billed alongside Rooléh, AAT (NL) and Joëlla Jackson. Next up: [UNVRS], Ibiza on Sat 8 Aug.
 
@@ -32,4 +32,4 @@ Easttown is a house and tech house artist tracked on soundcheck, with 90 sets lo
 
 Rooléh, AAT (NL), Joëlla Jackson
 
-*Updated Sun, 19 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/easttown/)*
+*Updated Mon, 20 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/easttown/)*

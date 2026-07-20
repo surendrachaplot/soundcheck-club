@@ -1,6 +1,6 @@
 # Marcellus Pittman
 
-Marcellus Pittman is a House and Techno artist with 6 upcoming club dates listed on soundcheck as of Sun, 19 Jul 2026, next at 528 Ibiza, Ibiza on Thu, 23 Jul 2026.
+Marcellus Pittman is a House and Techno artist with 6 upcoming club dates listed on soundcheck as of Mon, 20 Jul 2026, next at 528 Ibiza, Ibiza on Thu, 23 Jul 2026.
 
 Marcellus Pittman is a house and techno artist tracked on soundcheck, with 146 sets logged across Amsterdam, Antwerp, Athens and Auckland and 45 more. Often billed alongside Ash Lauryn, Antal and Dee Diggs. Next up: 528 Ibiza, Ibiza on Thu 23 Jul.
 
@@ -30,4 +30,4 @@ Marcellus Pittman is a house and techno artist tracked on soundcheck, with 146 s
 
 Ash Lauryn, Antal, Dee Diggs
 
-*Updated Sun, 19 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/marcelluspittman/)*
+*Updated Mon, 20 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/marcelluspittman/)*

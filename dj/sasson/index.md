@@ -1,6 +1,6 @@
 # Sasson
 
-Sasson is a House and Deep House artist with 3 upcoming club dates listed on soundcheck as of Sun, 19 Jul 2026, next at Hï Ibiza, Ibiza on Wed, 19 Aug 2026.
+Sasson is a House and Deep House artist with 3 upcoming club dates listed on soundcheck as of Mon, 20 Jul 2026, next at Hï Ibiza, Ibiza on Wed, 19 Aug 2026.
 
 Sasson is a house and deep house artist tracked on soundcheck, with 77 sets logged across Barcelona, Ibiza, Lisbon and London and 7 more. Often billed alongside Mont Rouge, Notre Dame and Amour Propre. Next up: Hï Ibiza, Ibiza on Wed 19 Aug.
 
@@ -27,4 +27,4 @@ Sasson is a house and deep house artist tracked on soundcheck, with 77 sets logg
 
 Mont Rouge, Notre Dame, Amour Propre
 
-*Updated Sun, 19 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/sasson/)*
+*Updated Mon, 20 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/sasson/)*

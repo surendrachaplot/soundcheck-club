@@ -1,6 +1,6 @@
 # Richard Akingbehin
 
-Richard Akingbehin is a Techno and Dub Techno artist with 9 upcoming club dates listed on soundcheck as of Sun, 19 Jul 2026, next at BLITZ, Munich on Fri, 24 Jul 2026.
+Richard Akingbehin is a Techno and Dub Techno artist with 9 upcoming club dates listed on soundcheck as of Mon, 20 Jul 2026, next at BLITZ, Munich on Fri, 24 Jul 2026.
 
 Richard Akingbehin is a techno and dub techno artist tracked on soundcheck, with 126 sets logged across Amsterdam, Barcelona, Berlin and Brussels and 27 more. Often billed alongside Tikiman, Fadi Mohem and Gabrielle Kwarteng. Next up: BLITZ, Munich on Fri 24 Jul.
 
@@ -33,4 +33,4 @@ Richard Akingbehin is a techno and dub techno artist tracked on soundcheck, with
 
 Tikiman, Fadi Mohem, Gabrielle Kwarteng
 
-*Updated Sun, 19 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/richardakingbehin/)*
+*Updated Mon, 20 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/richardakingbehin/)*

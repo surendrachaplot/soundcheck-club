@@ -1,6 +1,6 @@
 # Sound Machine
 
-Sound Machine is a music venue in Toronto with 3 upcoming nights listed on soundcheck as of Sun, 19 Jul 2026; the next is "Selecta 026" on Thu, 23 Jul 2026.
+Sound Machine is a music venue in Toronto with 3 upcoming nights listed on soundcheck as of Mon, 20 Jul 2026; the next is "Selecta 026" on Thu, 23 Jul 2026.
 
 Sound Machine is a music venue in Toronto listed on soundcheck. 3 upcoming nights, with line-ups including Abacus, Mike Dunn and Yogi. Browse upcoming dates, start times and who's playing. 178 Bathurst Street.
 
@@ -16,4 +16,4 @@ Sound Machine is a music venue in Toronto listed on soundcheck. 3 upcoming night
 
 178 Bathurst Street, Toronto
 
-*Updated Sun, 19 Jul 2026 · source: [soundcheck](https://soundcheck.club/toronto/club/sound-machine/)*
+*Updated Mon, 20 Jul 2026 · source: [soundcheck](https://soundcheck.club/toronto/club/sound-machine/)*

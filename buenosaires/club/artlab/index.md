@@ -1,6 +1,6 @@
 # Artlab
 
-Artlab is a music venue in Buenos Aires with 2 upcoming nights listed on soundcheck as of Sun, 19 Jul 2026; the next is "Artlab - Circulo de Sonido - Victoria Arena + Carlos Alfonsin" on Fri, 31 Jul 2026.
+Artlab is a music venue in Buenos Aires with 2 upcoming nights listed on soundcheck as of Mon, 20 Jul 2026; the next is "Artlab - Circulo de Sonido - Victoria Arena + Carlos Alfonsin" on Fri, 31 Jul 2026.
 
 Artlab is a music venue in Buenosaires listed on soundcheck. 2 upcoming nights, with line-ups including Lepablot, Patrice Scott and Victoria Arena. Browse upcoming dates, start times and who's playing. Roseti 93.
 
@@ -15,4 +15,4 @@ Artlab is a music venue in Buenosaires listed on soundcheck. 2 upcoming nights, 
 
 Roseti 93, Buenos Aires
 
-*Updated Sun, 19 Jul 2026 · source: [soundcheck](https://soundcheck.club/buenosaires/club/artlab/)*
+*Updated Mon, 20 Jul 2026 · source: [soundcheck](https://soundcheck.club/buenosaires/club/artlab/)*

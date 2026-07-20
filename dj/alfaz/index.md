@@ -1,6 +1,6 @@
 # Alfaz
 
-Alfaz is a House and Afro House artist with 2 upcoming club dates listed on soundcheck as of Sun, 19 Jul 2026, next at Bricks, London on Fri, 31 Jul 2026.
+Alfaz is a House and Afro House artist with 2 upcoming club dates listed on soundcheck as of Mon, 20 Jul 2026, next at Bricks, London on Fri, 31 Jul 2026.
 
 Alfaz is a house and afro house artist tracked on soundcheck, with 22 sets logged across London. Often billed alongside Ize (1), Zak Miller and ARLYSS. Next up: Bricks, London on Fri 31 Jul.
 
@@ -26,4 +26,4 @@ Alfaz is a house and afro house artist tracked on soundcheck, with 22 sets logge
 
 Ize (1), Zak Miller, ARLYSS
 
-*Updated Sun, 19 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/alfaz/)*
+*Updated Mon, 20 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/alfaz/)*

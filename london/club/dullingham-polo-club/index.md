@@ -1,6 +1,6 @@
 # Dullingham Polo Club
 
-Dullingham Polo Club is a music venue in London with 1 upcoming night listed on soundcheck as of Sun, 19 Jul 2026; the next is "Hifields 2026" on Sat, 22 Aug 2026.
+Dullingham Polo Club is a music venue in London with 1 upcoming night listed on soundcheck as of Mon, 20 Jul 2026; the next is "Hifields 2026" on Sat, 22 Aug 2026.
 
 Dullingham Polo Club is a music venue in London listed on soundcheck. 1 upcoming night, with line-ups including Kepler, A.L.F, Blackromeo and Burnski and 2 more. Browse upcoming dates, start times and who's playing. Station Road, Dullingham, Cambridge, CB8 9UT.
 
@@ -14,4 +14,4 @@ Dullingham Polo Club is a music venue in London listed on soundcheck. 1 upcoming
 
 Station Road, Dullingham, Cambridge, CB8 9UT, London
 
-*Updated Sun, 19 Jul 2026 · source: [soundcheck](https://soundcheck.club/london/club/dullingham-polo-club/)*
+*Updated Mon, 20 Jul 2026 · source: [soundcheck](https://soundcheck.club/london/club/dullingham-polo-club/)*

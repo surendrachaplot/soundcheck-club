@@ -1,6 +1,6 @@
 # Alex Chapman
 
-Alex Chapman is a Club and Pop artist with 2 upcoming club dates listed on soundcheck as of Sun, 19 Jul 2026, next at Nocturna, Ibiza on Wed, 22 Jul 2026.
+Alex Chapman is a Club and Pop artist with 2 upcoming club dates listed on soundcheck as of Mon, 20 Jul 2026, next at Nocturna, Ibiza on Wed, 22 Jul 2026.
 
 Alex Chapman is a club and pop artist based in United States of America, tracked on soundcheck, with 25 sets logged across Chicago, Ibiza, London and Losangeles and 5 more. Often billed alongside Zoe Gitter, VTSS and flirty800. Next up: Nocturna, Ibiza on Wed 22 Jul.
 
@@ -26,4 +26,4 @@ Alex Chapman is a club and pop artist based in United States of America, tracked
 
 Zoe Gitter, VTSS, flirty800
 
-*Updated Sun, 19 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/alexchapman/)*
+*Updated Mon, 20 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/alexchapman/)*

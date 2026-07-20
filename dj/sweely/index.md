@@ -1,6 +1,6 @@
 # Sweely
 
-Sweely is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Sun, 19 Jul 2026, next at La Cité des Arts de la Rue, Marseille on Sat, 25 Jul 2026.
+Sweely is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Mon, 20 Jul 2026, next at La Cité des Arts de la Rue, Marseille on Sat, 25 Jul 2026.
 
 Sweely is a house and techno artist tracked on soundcheck, with 167 sets logged across Amsterdam, Athens, Barcelona and Belgrade and 45 more. Often billed alongside Enzo Siragusa, Dr Banana and The Ghost. Next up: La Cité des Arts de la Rue, Marseille on Sat 25 Jul.
 
@@ -27,4 +27,4 @@ Sweely is a house and techno artist tracked on soundcheck, with 167 sets logged 
 
 Enzo Siragusa, Dr Banana, The Ghost
 
-*Updated Sun, 19 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/sweely/)*
+*Updated Mon, 20 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/sweely/)*

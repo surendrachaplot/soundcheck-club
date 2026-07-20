@@ -1,6 +1,6 @@
 # Tresor / Globus
 
-Tresor / Globus is a music venue in Berlin with 28 upcoming nights listed on soundcheck as of Sun, 19 Jul 2026; the next is "◥◣SINGULARITY◥◣" on Mon, 20 Jul 2026.
+Tresor / Globus is a music venue in Berlin with 28 upcoming nights listed on soundcheck as of Mon, 20 Jul 2026; the next is "◥◣SINGULARITY◥◣" on Mon, 20 Jul 2026.
 
 Tresor / Globus is a music venue in Berlin listed on soundcheck. 28 upcoming nights, with line-ups including Agua con gas, Akua, ALIBIR and ALP (DE) and 2 more. Browse upcoming dates, start times and who's playing. Köpenickerstrasse 70; Mitte; 10179 Berlin; Germany.
 
@@ -23,4 +23,4 @@ Tresor / Globus is a music venue in Berlin listed on soundcheck. 28 upcoming nig
 
 Köpenickerstrasse 70; Mitte; 10179 Berlin; Germany, Berlin
 
-*Updated Sun, 19 Jul 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/tresor-globus/)*
+*Updated Mon, 20 Jul 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/tresor-globus/)*

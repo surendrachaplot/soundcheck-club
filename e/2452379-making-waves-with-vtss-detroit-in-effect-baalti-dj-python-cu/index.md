@@ -1,6 +1,6 @@
-# Making Waves with VTSS, Detroit In Effect, Baalti, DJ Python, Curses & MORE at New York Avenue Beach
+# Making Waves with VTSS, Detroit In Effect, Baalti, DJ Python, Curses, Dave P & MORE at New York Avenue Beach
 
-Making Waves with VTSS, Detroit In Effect, Baalti, DJ Python, Curses & MORE at New York Avenue Beach on Sat 25 Jul, Philadelphia. 12 acts on the bill: ADAB, Baalti, Curses and DJ Python and 8 more. Trance and Techno. Preview the line-up and save it on soundcheck.
+Making Waves with VTSS, Detroit In Effect, Baalti, DJ Python, Curses, Dave P & MORE at New York Avenue Beach on Sat 25 Jul, Philadelphia. 12 acts on the bill: ADAB, Baalti, Curses and DJ Python and 8 more. Trance and Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

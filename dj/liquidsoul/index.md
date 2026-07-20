@@ -1,6 +1,6 @@
 # Liquid Soul
 
-Liquid Soul is a Psytrance and Techno artist with 4 upcoming club dates listed on soundcheck as of Sun, 19 Jul 2026, next at Dürener Badesee, Cologne on Fri, 28 Aug 2026.
+Liquid Soul is a Psytrance and Techno artist with 4 upcoming club dates listed on soundcheck as of Mon, 20 Jul 2026, next at Dürener Badesee, Cologne on Fri, 28 Aug 2026.
 
 Liquid Soul is a psytrance and techno artist based in Switzerland, tracked on soundcheck, with 29 sets logged across Berlin, Budapest, Cologne and Losangeles and 7 more. Often billed alongside Ambient Pino, Animato and Astrix. Next up: Dürener Badesee, Cologne on Fri 28 Aug.
 
@@ -28,4 +28,4 @@ Liquid Soul is a psytrance and techno artist based in Switzerland, tracked on so
 
 Ambient Pino, Animato, Astrix
 
-*Updated Sun, 19 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/liquidsoul/)*
+*Updated Mon, 20 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/liquidsoul/)*

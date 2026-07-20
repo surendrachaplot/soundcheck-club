@@ -1,6 +1,6 @@
 # 999ADJ
 
-999ADJ is a Techno and Club artist with 3 upcoming club dates listed on soundcheck as of Sun, 19 Jul 2026, next at Rhythm, Toronto on Fri, 24 Jul 2026.
+999ADJ is a Techno and Club artist with 3 upcoming club dates listed on soundcheck as of Mon, 20 Jul 2026, next at Rhythm, Toronto on Fri, 24 Jul 2026.
 
 999ADJ is a techno and club artist tracked on soundcheck, with 108 sets logged across Chicago, Detroit, Montreal and Newyorkcity and 2 more. Often billed alongside SEXMP3, JIYNX and Young Teesh. Next up: Rhythm, Toronto on Fri 24 Jul.
 
@@ -27,4 +27,4 @@
 
 SEXMP3, JIYNX, Young Teesh
 
-*Updated Sun, 19 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/999adj/)*
+*Updated Mon, 20 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/999adj/)*

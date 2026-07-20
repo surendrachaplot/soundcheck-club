@@ -1,6 +1,6 @@
 # Esbirra Ibiza
 
-Esbirra Ibiza is a music venue in Ibiza with 2 upcoming nights listed on soundcheck as of Sun, 19 Jul 2026; the next is "MAGMA TECHNO KULTURE PRESENTS ¨MATERIA¨" on Fri, 24 Jul 2026.
+Esbirra Ibiza is a music venue in Ibiza with 2 upcoming nights listed on soundcheck as of Mon, 20 Jul 2026; the next is "MAGMA TECHNO KULTURE PRESENTS ¨MATERIA¨" on Fri, 24 Jul 2026.
 
 Esbirra Ibiza is a music venue in Ibiza listed on soundcheck. 2 upcoming nights, with line-ups including E.LINA, Greick Jhøzsu, Hugo Martinez and Jesus Riaño and 2 more. Browse upcoming dates, start times and who's playing. Avinguda Punta Arabí, 228, 07849 es Canar, Illes Balears.
 
@@ -15,4 +15,4 @@ Esbirra Ibiza is a music venue in Ibiza listed on soundcheck. 2 upcoming nights,
 
 Avinguda Punta Arabí, 228, 07849 es Canar, Illes Balears, Ibiza
 
-*Updated Sun, 19 Jul 2026 · source: [soundcheck](https://soundcheck.club/ibiza/club/esbirra-ibiza/)*
+*Updated Mon, 20 Jul 2026 · source: [soundcheck](https://soundcheck.club/ibiza/club/esbirra-ibiza/)*

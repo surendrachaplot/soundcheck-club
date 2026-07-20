@@ -1,6 +1,6 @@
 # Sarah Wild
 
-Sarah Wild is a House and Techno artist with 5 upcoming club dates listed on soundcheck as of Sun, 19 Jul 2026, next at Neulich am Flughafen, Berlin on Sun, 26 Jul 2026.
+Sarah Wild is a House and Techno artist with 5 upcoming club dates listed on soundcheck as of Mon, 20 Jul 2026, next at Neulich am Flughafen, Berlin on Sun, 26 Jul 2026.
 
 Sarah Wild is a house and techno artist tracked on soundcheck, with 100 sets logged across Amsterdam, Berlin, Cologne and Copenhagen and 11 more. Often billed alongside Kotoe, Chris Schwarzwälder and Daniel Cowel. Next up: Neulich am Flughafen, Berlin on Sun 26 Jul.
 
@@ -29,4 +29,4 @@ Sarah Wild is a house and techno artist tracked on soundcheck, with 100 sets log
 
 Kotoe, Chris Schwarzwälder, Daniel Cowel
 
-*Updated Sun, 19 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/sarahwild/)*
+*Updated Mon, 20 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/sarahwild/)*

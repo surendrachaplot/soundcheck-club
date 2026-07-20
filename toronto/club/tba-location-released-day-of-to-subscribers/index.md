@@ -1,6 +1,6 @@
 # TBA - location released day of to subscribers 
 
-TBA - location released day of to subscribers  is a music venue in Toronto with 1 upcoming night listed on soundcheck as of Sun, 19 Jul 2026; the next is "Moonlight Ascension - Outdoor rave" on Sat, 1 Aug 2026.
+TBA - location released day of to subscribers  is a music venue in Toronto with 1 upcoming night listed on soundcheck as of Mon, 20 Jul 2026; the next is "Moonlight Ascension - Outdoor rave" on Sat, 1 Aug 2026.
 
 TBA - location released day of to subscribers  is a music venue in Toronto listed on soundcheck. 1 upcoming night, with line-ups including 25ohms, Audi Étoffe, dyspony and moodyjooly and 2 more. Browse upcoming dates, start times and who's playing.
 
@@ -10,4 +10,4 @@ TBA - location released day of to subscribers  is a music venue in Toronto liste
 | --- | --- | --- |
 | Sat, 1 Aug 2026 | Moonlight Ascension - Outdoor rave | 25ohms, Audi Étoffe, Niikkii.Tee, XD3SIGN, dyspony, moodyjooly |
 
-*Updated Sun, 19 Jul 2026 · source: [soundcheck](https://soundcheck.club/toronto/club/tba-location-released-day-of-to-subscribers/)*
+*Updated Mon, 20 Jul 2026 · source: [soundcheck](https://soundcheck.club/toronto/club/tba-location-released-day-of-to-subscribers/)*

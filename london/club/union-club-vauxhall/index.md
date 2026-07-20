@@ -1,15 +1,15 @@
 # Union Club, Vauxhall
 
-Union Club, Vauxhall is a music venue in London with 11 upcoming nights listed on soundcheck as of Sun, 19 Jul 2026; the next is "Orbit Sunday night / Monday morning after party" on Sun, 19 Jul 2026.
+Union Club, Vauxhall is a music venue in London with 11 upcoming nights listed on soundcheck as of Mon, 20 Jul 2026; the next is "DESIRE - Weekly Thursday After Party - TOM OAKMAN" on Thu, 23 Jul 2026.
 
-Union Club, Vauxhall is a music venue in London listed on soundcheck. 11 upcoming nights, with line-ups including 8108STN, Dhez, Duwat? and Enrico Chirchiello and 2 more. Browse upcoming dates, start times and who's playing. 66 Albert Embankment, Lambeth, London SE1 7TW.
+Union Club, Vauxhall is a music venue in London listed on soundcheck. 11 upcoming nights, with line-ups including 8108STN, Cristian Ebasta, Dhez and Duwat? and 2 more. Browse upcoming dates, start times and who's playing. 66 Albert Embankment, Lambeth, London SE1 7TW.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Sun, 19 Jul 2026 | Orbit Sunday night / Monday morning after party | Dhez, Thomas Galbardi, Vortex (BR), Yukari |
 | Thu, 23 Jul 2026 | DESIRE - Weekly Thursday After Party - TOM OAKMAN | Dhez, Duwat?, Simone Sim |
+| Fri, 24 Jul 2026 | FOX IN THE BOX AFTER PARTY (Open Until 10am) | Cristian Ebasta, Enrico Chirchiello, MacToMac |
 | Sun, 26 Jul 2026 | Orbit Sunday night / Monday morning after party | Dhez, Loora, Thomas Galbardi, Wellzee |
 | Thu, 30 Jul 2026 | DESIRE - Weekly Thursday After Party - 8108STN | 8108STN, Dhez, Duwat?, Simone Sim |
 | Sat, 1 Aug 2026 | TROUGH LONDON |  |
@@ -23,4 +23,4 @@ Union Club, Vauxhall is a music venue in London listed on soundcheck. 11 upcomin
 
 66 Albert Embankment, Lambeth, London SE1 7TW, London
 
-*Updated Sun, 19 Jul 2026 · source: [soundcheck](https://soundcheck.club/london/club/union-club-vauxhall/)*
+*Updated Mon, 20 Jul 2026 · source: [soundcheck](https://soundcheck.club/london/club/union-club-vauxhall/)*

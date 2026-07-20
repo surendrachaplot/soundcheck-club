@@ -1,6 +1,6 @@
 # Eschschloraque
 
-Eschschloraque is a music venue in Berlin with 8 upcoming nights listed on soundcheck as of Sun, 19 Jul 2026; the next is "MissVergnügen o.h.o" on Wed, 22 Jul 2026.
+Eschschloraque is a music venue in Berlin with 8 upcoming nights listed on soundcheck as of Mon, 20 Jul 2026; the next is "MissVergnügen o.h.o" on Wed, 22 Jul 2026.
 
 Eschschloraque is a music venue in Berlin listed on soundcheck. 8 upcoming nights, with line-ups including MissVergnügen. Browse upcoming dates, start times and who's playing. Rosenthaler Str. 39, 10178 Berlin, Germany.
 
@@ -21,4 +21,4 @@ Eschschloraque is a music venue in Berlin listed on soundcheck. 8 upcoming night
 
 Rosenthaler Str. 39, 10178 Berlin, Germany, Berlin
 
-*Updated Sun, 19 Jul 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/eschschloraque/)*
+*Updated Mon, 20 Jul 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/eschschloraque/)*

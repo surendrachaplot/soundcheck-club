@@ -1,6 +1,6 @@
 # C.Love (2)
 
-C.Love (2) is a Afro House and Afro Tech artist with 3 upcoming club dates listed on soundcheck as of Sun, 19 Jul 2026, next at SASS Music Club, Vienna on Sat, 25 Jul 2026.
+C.Love (2) is a Afro House and Afro Tech artist with 3 upcoming club dates listed on soundcheck as of Mon, 20 Jul 2026, next at SASS Music Club, Vienna on Sat, 25 Jul 2026.
 
 C.Love (2) is an afro house and afro tech artist tracked on soundcheck, with 4 sets logged across Vienna. Often billed alongside Frau Hofmann, MJULA and Travmkind. Next up: SASS Music Club, Vienna on Sat 25 Jul.
 
@@ -20,4 +20,4 @@ C.Love (2) is an afro house and afro tech artist tracked on soundcheck, with 4 s
 
 Frau Hofmann, MJULA, Travmkind
 
-*Updated Sun, 19 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/c.love-2/)*
+*Updated Mon, 20 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/c.love-2/)*

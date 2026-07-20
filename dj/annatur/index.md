@@ -1,6 +1,6 @@
 # Anna Tur
 
-Anna Tur is a Techno and House artist with 4 upcoming club dates listed on soundcheck as of Sun, 19 Jul 2026, next at Kowalski, Stuttgart on Sat, 1 Aug 2026.
+Anna Tur is a Techno and House artist with 4 upcoming club dates listed on soundcheck as of Mon, 20 Jul 2026, next at Kowalski, Stuttgart on Sat, 1 Aug 2026.
 
 Anna Tur is a techno and house artist based in Spain, tracked on soundcheck, with 71 sets logged across Amsterdam, Antwerp, Barcelona and Berlin and 18 more. Often billed alongside STELLA BOSSI, ASK:ME and Carl Cox. Next up: Kowalski, Stuttgart on Sat 1 Aug.
 
@@ -28,4 +28,4 @@ Anna Tur is a techno and house artist based in Spain, tracked on soundcheck, wit
 
 STELLA BOSSI, ASK:ME, Carl Cox
 
-*Updated Sun, 19 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/annatur/)*
+*Updated Mon, 20 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/annatur/)*

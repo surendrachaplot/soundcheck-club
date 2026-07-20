@@ -1,6 +1,6 @@
 # Area_osaka
 
-Area_osaka is a music venue in Osaka with 6 upcoming nights listed on soundcheck as of Sun, 19 Jul 2026; the next is "水曜日のハラの会" on Wed, 22 Jul 2026.
+Area_osaka is a music venue in Osaka with 6 upcoming nights listed on soundcheck as of Mon, 20 Jul 2026; the next is "水曜日のハラの会" on Wed, 22 Jul 2026.
 
 Area_osaka is a music venue in Osaka listed on soundcheck. 6 upcoming nights, with line-ups including Akie, Ascalypso, CHISE and DJ Morita and 1 more. Browse upcoming dates, start times and who's playing. 3F Nakanishi Building, 1-8-16 Nishi-Shinsaibashi, Chuo-ku, Osaka-shi, Osaka 542-0086.
 
@@ -19,4 +19,4 @@ Area_osaka is a music venue in Osaka listed on soundcheck. 6 upcoming nights, wi
 
 3F Nakanishi Building, 1-8-16 Nishi-Shinsaibashi, Chuo-ku, Osaka-shi, Osaka 542-0086, Osaka
 
-*Updated Sun, 19 Jul 2026 · source: [soundcheck](https://soundcheck.club/osaka/club/area-osaka/)*
+*Updated Mon, 20 Jul 2026 · source: [soundcheck](https://soundcheck.club/osaka/club/area-osaka/)*

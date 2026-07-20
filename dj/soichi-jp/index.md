@@ -1,6 +1,6 @@
 # SOICHI
 
-SOICHI is a House and Minimal artist with 3 upcoming club dates listed on soundcheck as of Sun, 19 Jul 2026, next at Club Metro, Kyoto on Sat, 25 Jul 2026.
+SOICHI is a House and Minimal artist with 3 upcoming club dates listed on soundcheck as of Mon, 20 Jul 2026, next at Club Metro, Kyoto on Sat, 25 Jul 2026.
 
 SOICHI is a house and minimal artist based in Japan, tracked on soundcheck, with 17 sets logged across Kyoto, Osaka and Tokyo. Often billed alongside Akemi Hino, Ebo and Kensuke Fukushima. Next up: Club Metro, Kyoto on Sat 25 Jul.
 
@@ -27,4 +27,4 @@ SOICHI is a house and minimal artist based in Japan, tracked on soundcheck, with
 
 Akemi Hino, Ebo, Kensuke Fukushima
 
-*Updated Sun, 19 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/soichi-jp/)*
+*Updated Mon, 20 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/soichi-jp/)*

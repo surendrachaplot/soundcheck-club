@@ -1,6 +1,6 @@
 # Oxford Art Factory
 
-Oxford Art Factory is a music venue in Sydney with 5 upcoming nights listed on soundcheck as of Sun, 19 Jul 2026; the next is "Maxi Meraki (BE) - Sydney - Oxford Arts Factory" on Sat, 1 Aug 2026.
+Oxford Art Factory is a music venue in Sydney with 5 upcoming nights listed on soundcheck as of Mon, 20 Jul 2026; the next is "Maxi Meraki (BE) - Sydney - Oxford Arts Factory" on Sat, 1 Aug 2026.
 
 Oxford Art Factory is a music venue in Sydney listed on soundcheck. 5 upcoming nights, with line-ups including Alan Fitzpatrick, Maison Ware, Maxi Meraki and Octave One and 2 more. Browse upcoming dates, start times and who's playing. 38-46 Oxford St; Darlinghurst NSW 2010.
 
@@ -18,4 +18,4 @@ Oxford Art Factory is a music venue in Sydney listed on soundcheck. 5 upcoming n
 
 38-46 Oxford St; Darlinghurst NSW 2010, Sydney
 
-*Updated Sun, 19 Jul 2026 · source: [soundcheck](https://soundcheck.club/sydney/club/oxford-art-factory/)*
+*Updated Mon, 20 Jul 2026 · source: [soundcheck](https://soundcheck.club/sydney/club/oxford-art-factory/)*

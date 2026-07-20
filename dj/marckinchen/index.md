@@ -1,6 +1,6 @@
 # Marc Kinchen
 
-Marc Kinchen is a House and Progressive House artist with 11 upcoming club dates listed on soundcheck as of Sun, 19 Jul 2026, next at Ushuaïa Ibiza, Ibiza on Fri, 24 Jul 2026.
+Marc Kinchen is a House and Progressive House artist with 11 upcoming club dates listed on soundcheck as of Mon, 20 Jul 2026, next at Ushuaïa Ibiza, Ibiza on Fri, 24 Jul 2026.
 
 Marc Kinchen is a house and progressive house artist tracked on soundcheck, with 102 sets logged across Antwerp, Austin, Bali and Barcelona and 25 more. Often billed alongside Calvin Harris, Sonny Fodera and Green Velvet. Next up: Ushuaïa Ibiza, Ibiza on Fri 24 Jul.
 
@@ -35,4 +35,4 @@ Marc Kinchen is a house and progressive house artist tracked on soundcheck, with
 
 Calvin Harris, Sonny Fodera, Green Velvet
 
-*Updated Sun, 19 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/marckinchen/)*
+*Updated Mon, 20 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/marckinchen/)*

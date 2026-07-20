@@ -1,6 +1,6 @@
 # Seb (Tropical Waste)
 
-Seb (Tropical Waste) is a Club and Footwork artist with 2 upcoming club dates listed on soundcheck as of Sun, 19 Jul 2026, next at Stereo, Glasgow on Fri, 31 Jul 2026.
+Seb (Tropical Waste) is a Club and Footwork artist with 2 upcoming club dates listed on soundcheck as of Mon, 20 Jul 2026, next at Stereo, Glasgow on Fri, 31 Jul 2026.
 
 Seb (Tropical Waste) is a club and footwork artist tracked on soundcheck, with 22 sets logged across Glasgow and London. Often billed alongside Big Dope P, CRAIC DAVID and sohotsospicy. Next up: Stereo, Glasgow on Fri 31 Jul.
 
@@ -26,4 +26,4 @@ Seb (Tropical Waste) is a club and footwork artist tracked on soundcheck, with 2
 
 Big Dope P, CRAIC DAVID, sohotsospicy
 
-*Updated Sun, 19 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/sebtropicalwaste/)*
+*Updated Mon, 20 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/sebtropicalwaste/)*

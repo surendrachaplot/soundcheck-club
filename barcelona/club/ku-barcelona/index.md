@@ -1,15 +1,13 @@
 # Ku Barcelona
 
-Ku Barcelona is a music venue in Barcelona with 8 upcoming nights listed on soundcheck as of Sun, 19 Jul 2026; the next is "KU pres. Levi, Saldivar, Luca, CVALM" on Sun, 19 Jul 2026.
+Ku Barcelona is a music venue in Barcelona with 6 upcoming nights listed on soundcheck as of Mon, 20 Jul 2026; the next is "SIGHT pres. Oden & Fatzo, KOKO B2B BizZa, Jan, Caste" on Sun, 26 Jul 2026.
 
-Ku Barcelona is a music venue in Barcelona listed on soundcheck. 8 upcoming nights, with line-ups including Alex Now, BizZa, Caste and Claptone and 2 more. Browse upcoming dates, start times and who's playing. Passeig Marítim de la Barceloneta 38, 08003, Barcelona, Spain.
+Ku Barcelona is a music venue in Barcelona listed on soundcheck. 6 upcoming nights, with line-ups including Alex Now, BizZa, Caste and Claptone and 2 more. Browse upcoming dates, start times and who's playing. Passeig Marítim de la Barceloneta 38, 08003, Barcelona, Spain.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Sun, 19 Jul 2026 | KU pres. Levi, Saldivar, Luca, CVALM | Caste, Luca (4), Saldivar |
-| Sun, 19 Jul 2026 | Ku presents LEVI | Levi (AU) |
 | Sun, 26 Jul 2026 | SIGHT pres. Oden & Fatzo, KOKO B2B BizZa, Jan, Caste | BizZa, Caste, Fatzo, Jan, KOKO (IT), Oden, Tommy Phillips |
 | Sun, 2 Aug 2026 | SIGHT & Sinner pres. Claptone, Alexander Som, Luka Kuhnow, VITE b2b MIGANOVA | Claptone, MIGANOVA, VITE |
 | Sun, 9 Aug 2026 | SIGHT pres. James Hype, Alex Now, LA CINTIA, Pau Guilera | Alex Now, James Hype (UK), Pau Guilera |
@@ -21,4 +19,4 @@ Ku Barcelona is a music venue in Barcelona listed on soundcheck. 8 upcoming nigh
 
 Passeig Marítim de la Barceloneta 38, 08003, Barcelona, Spain, Barcelona
 
-*Updated Sun, 19 Jul 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/ku-barcelona/)*
+*Updated Mon, 20 Jul 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/ku-barcelona/)*

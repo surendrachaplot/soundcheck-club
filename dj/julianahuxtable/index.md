@@ -1,6 +1,6 @@
 # Juliana Huxtable
 
-Juliana Huxtable is a Techno and House artist with 7 upcoming club dates listed on soundcheck as of Sun, 19 Jul 2026, next at OHM, Berlin on Thu, 23 Jul 2026.
+Juliana Huxtable is a Techno and House artist with 7 upcoming club dates listed on soundcheck as of Mon, 20 Jul 2026, next at OHM, Berlin on Thu, 23 Jul 2026.
 
 Juliana Huxtable is a techno and house artist tracked on soundcheck, with 189 sets logged across Amsterdam, Antwerp, Athens and Austin and 33 more. Often billed alongside JASSS, Shyboi and BASHKKA. Next up: OHM, Berlin on Thu 23 Jul.
 
@@ -31,4 +31,4 @@ Juliana Huxtable is a techno and house artist tracked on soundcheck, with 189 se
 
 JASSS, Shyboi, BASHKKA
 
-*Updated Sun, 19 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/julianahuxtable/)*
+*Updated Mon, 20 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/julianahuxtable/)*

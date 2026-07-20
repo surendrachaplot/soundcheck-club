@@ -1,6 +1,6 @@
 # Marble Bar
 
-Marble Bar is a music venue in Detroit with 6 upcoming nights listed on soundcheck as of Sun, 19 Jul 2026; the next is "(X) POSTPONED - (X) Techno Thursday - Signal Authority Jam Session [FREE]" on Thu, 23 Jul 2026.
+Marble Bar is a music venue in Detroit with 6 upcoming nights listed on soundcheck as of Mon, 20 Jul 2026; the next is "(X) POSTPONED - (X) Techno Thursday - Signal Authority Jam Session [FREE]" on Thu, 23 Jul 2026.
 
 Marble Bar is a music venue in Detroit listed on soundcheck. 6 upcoming nights, with line-ups including The AM/AMX, ALEX PAN, Andrés and Ashton Swinton and 2 more. Browse upcoming dates, start times and who's playing. 1501 Holden St, Detroit, MI 48208, USA.
 
@@ -19,4 +19,4 @@ Marble Bar is a music venue in Detroit listed on soundcheck. 6 upcoming nights, 
 
 1501 Holden St, Detroit, MI 48208, USA, Detroit
 
-*Updated Sun, 19 Jul 2026 · source: [soundcheck](https://soundcheck.club/detroit/club/marble-bar/)*
+*Updated Mon, 20 Jul 2026 · source: [soundcheck](https://soundcheck.club/detroit/club/marble-bar/)*

@@ -1,6 +1,6 @@
 # DJ KAZUMA
 
-DJ KAZUMA is a Techno and Minimal artist with 2 upcoming club dates listed on soundcheck as of Sun, 19 Jul 2026, next at BAR Inc, Osaka on Sat, 25 Jul 2026.
+DJ KAZUMA is a Techno and Minimal artist with 2 upcoming club dates listed on soundcheck as of Mon, 20 Jul 2026, next at BAR Inc, Osaka on Sat, 25 Jul 2026.
 
 DJ KAZUMA is a techno and minimal artist tracked on soundcheck, with 28 sets logged across Kyoto, Osaka and Tokyo. Often billed alongside AOKI takamasa, YAMA(JP/OSK) and Endurance. Next up: BAR Inc, Osaka on Sat 25 Jul.
 
@@ -26,4 +26,4 @@ DJ KAZUMA is a techno and minimal artist tracked on soundcheck, with 28 sets log
 
 AOKI takamasa, YAMA(JP/OSK), Endurance
 
-*Updated Sun, 19 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/djkazuma/)*
+*Updated Mon, 20 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/djkazuma/)*

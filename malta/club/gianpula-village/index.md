@@ -1,6 +1,6 @@
 # Gianpula Village
 
-Gianpula Village is a music venue in Malta with 3 upcoming nights listed on soundcheck as of Sun, 19 Jul 2026; the next is "Spiral Festival Day 1 - Friday" on Fri, 31 Jul 2026.
+Gianpula Village is a music venue in Malta with 3 upcoming nights listed on soundcheck as of Mon, 20 Jul 2026; the next is "Spiral Festival Day 1 - Friday" on Fri, 31 Jul 2026.
 
 Gianpula Village is a music venue in Malta listed on soundcheck. 3 upcoming nights, with line-ups including Adrian Mills, Alarico, Amelie Lens and AMORAL and 2 more. Browse upcoming dates, start times and who's playing. Gianpula Village, Gianpula Road, Rabat, MALTA.
 
@@ -16,4 +16,4 @@ Gianpula Village is a music venue in Malta listed on soundcheck. 3 upcoming nigh
 
 Gianpula Village, Gianpula Road, Rabat, MALTA, Malta
 
-*Updated Sun, 19 Jul 2026 · source: [soundcheck](https://soundcheck.club/malta/club/gianpula-village/)*
+*Updated Mon, 20 Jul 2026 · source: [soundcheck](https://soundcheck.club/malta/club/gianpula-village/)*

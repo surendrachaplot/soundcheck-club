@@ -1,6 +1,6 @@
 # Sonnenraum
 
-Sonnenraum is a music venue in Berlin with 1 upcoming night listed on soundcheck as of Sun, 19 Jul 2026; the next is "GROOVE x Studio Liberté" on Sun, 16 Aug 2026.
+Sonnenraum is a music venue in Berlin with 1 upcoming night listed on soundcheck as of Mon, 20 Jul 2026; the next is "GROOVE x Studio Liberté" on Sun, 16 Aug 2026.
 
 Sonnenraum is a music venue in Berlin listed on soundcheck. 1 upcoming night, with line-ups including Danny Daze, Detroit In Effect, DJ Assault and DJ Godfather and 2 more. Browse upcoming dates, start times and who's playing. Eichenstraße 4A, 12435 Berlin, Germany.
 
@@ -14,4 +14,4 @@ Sonnenraum is a music venue in Berlin listed on soundcheck. 1 upcoming night, wi
 
 Eichenstraße 4A, 12435 Berlin, Germany, Berlin
 
-*Updated Sun, 19 Jul 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/sonnenraum/)*
+*Updated Mon, 20 Jul 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/sonnenraum/)*

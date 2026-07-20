@@ -1,6 +1,6 @@
 # Nazira
 
-Nazira is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Sun, 19 Jul 2026, next at RSO.BERLIN, Berlin on Fri, 24 Jul 2026.
+Nazira is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Mon, 20 Jul 2026, next at RSO.BERLIN, Berlin on Fri, 24 Jul 2026.
 
 Nazira is a techno and house artist based in Kazakhstan, tracked on soundcheck, with 27 sets logged across Amsterdam, Bali, Barcelona and Berlin and 10 more. Often billed alongside BASHKKA, Byron Yeates and Cora (CN). Next up: RSO.BERLIN, Berlin on Fri 24 Jul.
 
@@ -26,4 +26,4 @@ Nazira is a techno and house artist based in Kazakhstan, tracked on soundcheck, 
 
 BASHKKA, Byron Yeates, Cora (CN)
 
-*Updated Sun, 19 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/nazira/)*
+*Updated Mon, 20 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/nazira/)*

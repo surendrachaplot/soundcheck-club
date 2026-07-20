@@ -1,6 +1,6 @@
 # Diffrent
 
-Diffrent is a Garage and House artist with 5 upcoming club dates listed on soundcheck as of Sun, 19 Jul 2026, next at Paléo Festival, Geneva on Tue, 21 Jul 2026.
+Diffrent is a Garage and House artist with 5 upcoming club dates listed on soundcheck as of Mon, 20 Jul 2026, next at Paléo Festival, Geneva on Tue, 21 Jul 2026.
 
 Diffrent is a garage and house artist tracked on soundcheck, with 121 sets logged across Aberdeen, Amsterdam, Antwerp and Barcelona and 38 more. Often billed alongside Kyle Starkey, SAIDAH and Faster Horses. Next up: Paléo Festival, Geneva on Tue 21 Jul.
 
@@ -29,4 +29,4 @@ Diffrent is a garage and house artist tracked on soundcheck, with 121 sets logge
 
 Kyle Starkey, SAIDAH, Faster Horses
 
-*Updated Sun, 19 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/diffrent/)*
+*Updated Mon, 20 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/diffrent/)*

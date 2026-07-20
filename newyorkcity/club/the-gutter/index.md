@@ -1,6 +1,6 @@
 # The Gutter
 
-The Gutter is a music venue in New York City with 1 upcoming night listed on soundcheck as of Sun, 19 Jul 2026; the next is "BUSH DÜF Live" on Sat, 29 Aug 2026.
+The Gutter is a music venue in New York City with 1 upcoming night listed on soundcheck as of Mon, 20 Jul 2026; the next is "BUSH DÜF Live" on Sat, 29 Aug 2026.
 
 The Gutter is a music venue in Newyorkcity listed on soundcheck. 1 upcoming night, with line-ups including Ben Zo, danny lynch, Rainbow Light Body and SEV1 and 1 more. Browse upcoming dates, start times and who's playing. 200 N 14th St, Brooklyn, NY, 11211.
 
@@ -14,4 +14,4 @@ The Gutter is a music venue in Newyorkcity listed on soundcheck. 1 upcoming nigh
 
 200 N 14th St, Brooklyn, NY, 11211, New York City
 
-*Updated Sun, 19 Jul 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/the-gutter/)*
+*Updated Mon, 20 Jul 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/the-gutter/)*

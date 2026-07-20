@@ -1,6 +1,6 @@
 # Jacques Greene
 
-Jacques Greene is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Sun, 19 Jul 2026, next at TBA - Koreatown, Los Angeles, Los Angeles on Fri, 31 Jul 2026.
+Jacques Greene is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Mon, 20 Jul 2026, next at TBA - Koreatown, Los Angeles, Los Angeles on Fri, 31 Jul 2026.
 
 Jacques Greene is a house and techno artist tracked on soundcheck, with 100 sets logged across Amsterdam, Athens, Austin and Berlin and 30 more. Often billed alongside Nosaj Thing, Jubilee and Bonobo. Next up: TBA - Koreatown, Los Angeles, Losangeles on Fri 31 Jul.
 
@@ -26,4 +26,4 @@ Jacques Greene is a house and techno artist tracked on soundcheck, with 100 sets
 
 Nosaj Thing, Jubilee, Bonobo
 
-*Updated Sun, 19 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/jacquesgreene/)*
+*Updated Mon, 20 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/jacquesgreene/)*

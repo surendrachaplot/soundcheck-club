@@ -1,6 +1,6 @@
 # Wookie
 
-Wookie is a Garage and House artist with 2 upcoming club dates listed on soundcheck as of Sun, 19 Jul 2026, next at Hackney Wick Multiple Venues, London on Sat, 1 Aug 2026.
+Wookie is a Garage and House artist with 2 upcoming club dates listed on soundcheck as of Mon, 20 Jul 2026, next at Hackney Wick Multiple Venues, London on Sat, 1 Aug 2026.
 
 Wookie is a garage and house artist tracked on soundcheck, with 35 sets logged across Birmingham, Edinburgh, Liverpool and London and 3 more. Often billed alongside Matt Jam Lamont, DJ Spoony and Mark Radford. Next up: Hackney Wick Multiple Venues, London on Sat 1 Aug.
 
@@ -26,4 +26,4 @@ Wookie is a garage and house artist tracked on soundcheck, with 35 sets logged a
 
 Matt Jam Lamont, DJ Spoony, Mark Radford
 
-*Updated Sun, 19 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/wookiedj/)*
+*Updated Mon, 20 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/wookiedj/)*

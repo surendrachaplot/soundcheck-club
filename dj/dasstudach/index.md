@@ -1,6 +1,6 @@
 # dasstudach
 
-dasstudach is a Techno and Trance artist with 3 upcoming club dates listed on soundcheck as of Sun, 19 Jul 2026, next at TBA - // HALLE622, Zurich on Sat, 8 Aug 2026.
+dasstudach is a Techno and Trance artist with 3 upcoming club dates listed on soundcheck as of Mon, 20 Jul 2026, next at TBA - // HALLE622, Zurich on Sat, 8 Aug 2026.
 
 dasstudach is a techno and trance artist tracked on soundcheck, with 119 sets logged across Amsterdam, Basel, Berlin and Bucharest and 19 more. Often billed alongside Megix, Adrian Mills and PRADA2000. Next up: TBA - // HALLE622, Zurich on Sat 8 Aug.
 
@@ -27,4 +27,4 @@ dasstudach is a techno and trance artist tracked on soundcheck, with 119 sets lo
 
 Megix, Adrian Mills, PRADA2000
 
-*Updated Sun, 19 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/dasstudach/)*
+*Updated Mon, 20 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/dasstudach/)*

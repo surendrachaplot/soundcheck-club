@@ -1,6 +1,6 @@
 # Cami Layé Okún
 
-Cami Layé Okún is a Disco and Funk / Soul artist with 2 upcoming club dates listed on soundcheck as of Sun, 19 Jul 2026, next at The Bath House, London on Fri, 24 Jul 2026.
+Cami Layé Okún is a Disco and Funk / Soul artist with 2 upcoming club dates listed on soundcheck as of Mon, 20 Jul 2026, next at The Bath House, London on Fri, 24 Jul 2026.
 
 Cami Layé Okún is a disco and funk / soul artist tracked on soundcheck, with 49 sets logged across Barcelona, Berlin, Bristol and Brussels and 19 more. Often billed alongside Coco Maria, Hagop Tchaparian and Job Jobse. Next up: The Bath House, London on Fri 24 Jul.
 
@@ -26,4 +26,4 @@ Cami Layé Okún is a disco and funk / soul artist tracked on soundcheck, with 4
 
 Coco Maria, Hagop Tchaparian, Job Jobse
 
-*Updated Sun, 19 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/camilayeokún/)*
+*Updated Mon, 20 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/camilayeokún/)*

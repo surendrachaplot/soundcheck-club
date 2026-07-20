@@ -1,6 +1,6 @@
 # DJ Koolt
 
-DJ Koolt is a House and Techno artist with 5 upcoming club dates listed on soundcheck as of Sun, 19 Jul 2026, next at Amsterdamse Bos, Amsterdam on Wed, 29 Jul 2026.
+DJ Koolt is a House and Techno artist with 5 upcoming club dates listed on soundcheck as of Mon, 20 Jul 2026, next at Amsterdamse Bos, Amsterdam on Wed, 29 Jul 2026.
 
 DJ Koolt is a house and techno artist tracked on soundcheck, with 89 sets logged across Amsterdam, Bali, Barcelona and Belgrade and 26 more. Often billed alongside ASIA (DE), Christian AB and Ogazón. Next up: Amsterdamse Bos, Amsterdam on Wed 29 Jul.
 
@@ -29,4 +29,4 @@ DJ Koolt is a house and techno artist tracked on soundcheck, with 89 sets logged
 
 ASIA (DE), Christian AB, Ogazón
 
-*Updated Sun, 19 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/djkoolt/)*
+*Updated Mon, 20 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/djkoolt/)*

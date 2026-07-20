@@ -1,6 +1,6 @@
 # PASSA
 
-PASSA is a Trance and Techno artist with 2 upcoming club dates listed on soundcheck as of Sun, 19 Jul 2026, next at Haus73, Hamburg on Sat, 1 Aug 2026.
+PASSA is a Trance and Techno artist with 2 upcoming club dates listed on soundcheck as of Mon, 20 Jul 2026, next at Haus73, Hamburg on Sat, 1 Aug 2026.
 
 PASSA is a trance and techno artist based in Germany, tracked on soundcheck, with 31 sets logged across Berlin, Cologne, Hamburg and Stuttgart and 1 more. Often billed alongside brvder jakob, DJ Blockflöte 2000 and VIVUS. Next up: Haus73, Hamburg on Sat 1 Aug.
 
@@ -26,4 +26,4 @@ PASSA is a trance and techno artist based in Germany, tracked on soundcheck, wit
 
 brvder jakob, DJ Blockflöte 2000, VIVUS
 
-*Updated Sun, 19 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/passa/)*
+*Updated Mon, 20 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/passa/)*

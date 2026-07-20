@@ -1,6 +1,6 @@
 # WILDERÍCH
 
-WILDERÍCH is a Techno and Trance artist with 7 upcoming club dates listed on soundcheck as of Sun, 19 Jul 2026, next at Uebel & Gefährlich, Hamburg on Sat, 25 Jul 2026.
+WILDERÍCH is a Techno and Trance artist with 7 upcoming club dates listed on soundcheck as of Mon, 20 Jul 2026, next at Uebel & Gefährlich, Hamburg on Sat, 25 Jul 2026.
 
 WILDERÍCH is a techno and trance artist tracked on soundcheck, with 84 sets logged across Barcelona, Basel, Berlin and Cologne and 20 more. Often billed alongside zwilling., Serafina and Adrian Mills. Next up: Uebel & Gefährlich, Hamburg on Sat 25 Jul.
 
@@ -31,4 +31,4 @@ WILDERÍCH is a techno and trance artist tracked on soundcheck, with 84 sets log
 
 zwilling., Serafina, Adrian Mills
 
-*Updated Sun, 19 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/wilderich/)*
+*Updated Mon, 20 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/wilderich/)*

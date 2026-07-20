@@ -1,6 +1,6 @@
 # Kvarteret
 
-Kvarteret is a music venue in Stockholm with 2 upcoming nights listed on soundcheck as of Sun, 19 Jul 2026; the next is "SUMMER YARD - TECHNO STOCKHOLM" on Fri, 24 Jul 2026.
+Kvarteret is a music venue in Stockholm with 2 upcoming nights listed on soundcheck as of Mon, 20 Jul 2026; the next is "SUMMER YARD - TECHNO STOCKHOLM" on Fri, 24 Jul 2026.
 
 Kvarteret is a music venue in Stockholm listed on soundcheck. 2 upcoming nights, with line-ups including ābnamā, Andemon, Bella Sarris and D. Tiffany and 2 more. Browse upcoming dates, start times and who's playing. Styckmästargatan 10, 121 62 Johanneshov.
 
@@ -15,4 +15,4 @@ Kvarteret is a music venue in Stockholm listed on soundcheck. 2 upcoming nights,
 
 Styckmästargatan 10, 121 62 Johanneshov, Stockholm
 
-*Updated Sun, 19 Jul 2026 · source: [soundcheck](https://soundcheck.club/stockholm/club/kvarteret/)*
+*Updated Mon, 20 Jul 2026 · source: [soundcheck](https://soundcheck.club/stockholm/club/kvarteret/)*

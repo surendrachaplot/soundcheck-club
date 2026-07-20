@@ -1,6 +1,6 @@
 # Ina Kaysen
 
-Ina Kaysen is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Sun, 19 Jul 2026, next at Place Poelaertplein, Brussels on Sat, 25 Jul 2026.
+Ina Kaysen is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Mon, 20 Jul 2026, next at Place Poelaertplein, Brussels on Sat, 25 Jul 2026.
 
 Ina Kaysen is a techno and house artist based in Belgium, tracked on soundcheck, with 10 sets logged across Brussels and Ghent. Often billed alongside Ampe, Bobbi Watson and Fais Le Beau. Next up: Place Poelaertplein, Brussels on Sat 25 Jul.
 
@@ -26,4 +26,4 @@ Ina Kaysen is a techno and house artist based in Belgium, tracked on soundcheck,
 
 Ampe, Bobbi Watson, Fais Le Beau
 
-*Updated Sun, 19 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/inakaysen/)*
+*Updated Mon, 20 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/inakaysen/)*

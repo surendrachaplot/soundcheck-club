@@ -1,6 +1,6 @@
 # Venus de Milo
 
-Venus de Milo is a Techno and Trance artist with 2 upcoming club dates listed on soundcheck as of Sun, 19 Jul 2026, next at Sala Cocó, Madrid on Sat, 25 Jul 2026.
+Venus de Milo is a Techno and Trance artist with 2 upcoming club dates listed on soundcheck as of Mon, 20 Jul 2026, next at Sala Cocó, Madrid on Sat, 25 Jul 2026.
 
 Venus de Milo is a techno and trance artist based in Spain, tracked on soundcheck, with 28 sets logged across Madrid and Newcastle. Often billed alongside Miguel Rivas, JRG and RODS (ES). Next up: Sala Cocó, Madrid on Sat 25 Jul.
 
@@ -26,4 +26,4 @@ Venus de Milo is a techno and trance artist based in Spain, tracked on soundchec
 
 Miguel Rivas, JRG, RODS (ES)
 
-*Updated Sun, 19 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/venusdemilo/)*
+*Updated Mon, 20 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/venusdemilo/)*

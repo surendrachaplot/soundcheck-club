@@ -1,6 +1,6 @@
 # Soup
 
-Soup is a music venue in Manchester with 10 upcoming nights listed on soundcheck as of Sun, 19 Jul 2026; the next is "INFOLINE with Franck, THELMA and Princess Elf Bar" on Fri, 24 Jul 2026.
+Soup is a music venue in Manchester with 10 upcoming nights listed on soundcheck as of Mon, 20 Jul 2026; the next is "INFOLINE with Franck, THELMA and Princess Elf Bar" on Fri, 24 Jul 2026.
 
 Soup is a music venue in Manchester listed on soundcheck. 10 upcoming nights, with line-ups including A.Morgan, Big Dope P, DJ Spinn and Etienne Groh and 2 more. Browse upcoming dates, start times and who's playing. 31-33 Spear Street, Manchester, M1 1DF, United Kingdom.
 
@@ -23,4 +23,4 @@ Soup is a music venue in Manchester listed on soundcheck. 10 upcoming nights, wi
 
 31-33 Spear Street, Manchester, M1 1DF, United Kingdom, Manchester
 
-*Updated Sun, 19 Jul 2026 · source: [soundcheck](https://soundcheck.club/manchester/club/soup/)*
+*Updated Mon, 20 Jul 2026 · source: [soundcheck](https://soundcheck.club/manchester/club/soup/)*

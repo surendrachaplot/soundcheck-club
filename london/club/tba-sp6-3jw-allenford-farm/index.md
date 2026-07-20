@@ -1,6 +1,6 @@
 # TBA - SP6 3JW / Allenford Farm
 
-TBA - SP6 3JW / Allenford Farm is a music venue in London with 2 upcoming nights listed on soundcheck as of Sun, 19 Jul 2026; the next is "Pharmacy Project Festival" on Fri, 4 Sept 2026.
+TBA - SP6 3JW / Allenford Farm is a music venue in London with 2 upcoming nights listed on soundcheck as of Mon, 20 Jul 2026; the next is "Pharmacy Project Festival" on Fri, 4 Sept 2026.
 
 TBA - SP6 3JW / Allenford Farm is a music venue in London listed on soundcheck. 2 upcoming nights, with line-ups including Lysander. Browse upcoming dates, start times and who's playing.
 
@@ -11,4 +11,4 @@ TBA - SP6 3JW / Allenford Farm is a music venue in London listed on soundcheck. 
 | Fri, 4 Sept 2026 | Pharmacy Project Festival | Lysander |
 | Fri, 4 Sept 2026 | Pharmacy Project Festival |  |
 
-*Updated Sun, 19 Jul 2026 · source: [soundcheck](https://soundcheck.club/london/club/tba-sp6-3jw-allenford-farm/)*
+*Updated Mon, 20 Jul 2026 · source: [soundcheck](https://soundcheck.club/london/club/tba-sp6-3jw-allenford-farm/)*

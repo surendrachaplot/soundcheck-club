@@ -1,6 +1,6 @@
 # Donae'o
 
-Donae'o is a UK Funky and Dancehall artist with 2 upcoming club dates listed on soundcheck as of Sun, 19 Jul 2026, next at The Steel Yard, London on Sat, 8 Aug 2026.
+Donae'o is a UK Funky and Dancehall artist with 2 upcoming club dates listed on soundcheck as of Mon, 20 Jul 2026, next at The Steel Yard, London on Sat, 8 Aug 2026.
 
 Donae'o is an uk funky and dancehall artist based in United Kingdom, tracked on soundcheck, with 24 sets logged across Brighton, Bristol, London and Manchester and 2 more. Often billed alongside Crazy Cousinz, Jojo Deevoy and Rampage Sound. Next up: The Steel Yard, London on Sat 8 Aug.
 
@@ -26,4 +26,4 @@ Donae'o is an uk funky and dancehall artist based in United Kingdom, tracked on 
 
 Crazy Cousinz, Jojo Deevoy, Rampage Sound
 
-*Updated Sun, 19 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/donaeo/)*
+*Updated Mon, 20 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/donaeo/)*

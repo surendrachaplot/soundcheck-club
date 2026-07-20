@@ -1,6 +1,6 @@
 # Ena Cosovic
 
-Ena Cosovic is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Sun, 19 Jul 2026, next at Hangaren, Copenhagen on Sat, 1 Aug 2026.
+Ena Cosovic is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Mon, 20 Jul 2026, next at Hangaren, Copenhagen on Sat, 1 Aug 2026.
 
 Ena Cosovic is a house and techno artist based in Denmark, tracked on soundcheck, with 42 sets logged across Copenhagen. Often billed alongside NILU, Bokéh and Kirakingkong. Next up: Hangaren, Copenhagen on Sat 1 Aug.
 
@@ -26,4 +26,4 @@ Ena Cosovic is a house and techno artist based in Denmark, tracked on soundcheck
 
 NILU, Bokéh, Kirakingkong
 
-*Updated Sun, 19 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/enacosovic/)*
+*Updated Mon, 20 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/enacosovic/)*

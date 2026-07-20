@@ -1,6 +1,6 @@
 # Drastic Shuffle
 
-Drastic Shuffle is a House and Electro artist with 2 upcoming club dates listed on soundcheck as of Sun, 19 Jul 2026, next at Signature Brew Blackhorse Road, London on Sat, 1 Aug 2026.
+Drastic Shuffle is a House and Electro artist with 2 upcoming club dates listed on soundcheck as of Mon, 20 Jul 2026, next at Signature Brew Blackhorse Road, London on Sat, 1 Aug 2026.
 
 Drastic Shuffle is a house and electro artist tracked on soundcheck, with 22 sets logged across London. Often billed alongside Benebe, MAÏS and Make Money Mafia. Next up: Signature Brew Blackhorse Road, London on Sat 1 Aug.
 
@@ -26,4 +26,4 @@ Drastic Shuffle is a house and electro artist tracked on soundcheck, with 22 set
 
 Benebe, MAÏS, Make Money Mafia
 
-*Updated Sun, 19 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/drasticshuffle/)*
+*Updated Mon, 20 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/drasticshuffle/)*

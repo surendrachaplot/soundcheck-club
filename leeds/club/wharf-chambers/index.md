@@ -1,6 +1,6 @@
 # Wharf Chambers
 
-Wharf Chambers is a music venue in Leeds with 4 upcoming nights listed on soundcheck as of Sun, 19 Jul 2026; the next is "GIRLCORE HARDCORE" on Fri, 24 Jul 2026.
+Wharf Chambers is a music venue in Leeds with 4 upcoming nights listed on soundcheck as of Mon, 20 Jul 2026; the next is "GIRLCORE HARDCORE" on Fri, 24 Jul 2026.
 
 Wharf Chambers is a music venue in Leeds listed on soundcheck. 4 upcoming nights, with line-ups including chlo333e, Hollyamorous, LEWCIFER and Lucky Bunny and 2 more. Browse upcoming dates, start times and who's playing. 23-25 Wharf Street, Leeds, LS2 7EQ, United Kingdom.
 
@@ -17,4 +17,4 @@ Wharf Chambers is a music venue in Leeds listed on soundcheck. 4 upcoming nights
 
 23-25 Wharf Street, Leeds, LS2 7EQ, United Kingdom, Leeds
 
-*Updated Sun, 19 Jul 2026 · source: [soundcheck](https://soundcheck.club/leeds/club/wharf-chambers/)*
+*Updated Mon, 20 Jul 2026 · source: [soundcheck](https://soundcheck.club/leeds/club/wharf-chambers/)*

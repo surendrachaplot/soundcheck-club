@@ -1,6 +1,6 @@
 # ishka machina
 
-ishka machina is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Sun, 19 Jul 2026, next at Bike Jesus, Prague on Fri, 24 Jul 2026.
+ishka machina is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Mon, 20 Jul 2026, next at Bike Jesus, Prague on Fri, 24 Jul 2026.
 
 ishka machina is a techno and house artist based in India, tracked on soundcheck, with 62 sets logged across Berlin, Munich, Prague and Vienna. Often billed alongside Takē, AVHD and jardabpm. Next up: Bike Jesus, Prague on Fri 24 Jul.
 
@@ -27,4 +27,4 @@ ishka machina is a techno and house artist based in India, tracked on soundcheck
 
 Takē, AVHD, jardabpm
 
-*Updated Sun, 19 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/ishkamachina/)*
+*Updated Mon, 20 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/ishkamachina/)*

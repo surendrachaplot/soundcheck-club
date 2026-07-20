@@ -1,6 +1,6 @@
 # Nina Michelle
 
-Nina Michelle is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Sun, 19 Jul 2026, next at House of Q, Stockholm on Sat, 25 Jul 2026.
+Nina Michelle is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Mon, 20 Jul 2026, next at House of Q, Stockholm on Sat, 25 Jul 2026.
 
 Nina Michelle is a techno and house artist tracked on soundcheck, with 25 sets logged across Berlin, Copenhagen and Stockholm. Often billed alongside DJ KILLING, Delavas and Greta Westling. Next up: House of Q, Stockholm on Sat 25 Jul.
 
@@ -26,4 +26,4 @@ Nina Michelle is a techno and house artist tracked on soundcheck, with 25 sets l
 
 DJ KILLING, Delavas, Greta Westling
 
-*Updated Sun, 19 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/ninamichelle/)*
+*Updated Mon, 20 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/ninamichelle/)*

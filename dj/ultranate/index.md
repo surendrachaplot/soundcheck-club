@@ -1,6 +1,6 @@
 # Ultra Naté
 
-Ultra Naté is a House and Disco artist with 3 upcoming club dates listed on soundcheck as of Sun, 19 Jul 2026, next at 528 Ibiza, Ibiza on Thu, 30 Jul 2026.
+Ultra Naté is a House and Disco artist with 3 upcoming club dates listed on soundcheck as of Mon, 20 Jul 2026, next at 528 Ibiza, Ibiza on Thu, 30 Jul 2026.
 
 Ultra Naté is a house and disco artist based in United States of America, tracked on soundcheck, with 35 sets logged across Amsterdam, Barcelona, Berlin and Denver and 12 more. Often billed alongside DJ Spen, Derrick Carter and Rissa Garcia. Next up: 528 Ibiza, Ibiza on Thu 30 Jul.
 
@@ -27,4 +27,4 @@ Ultra Naté is a house and disco artist based in United States of America, track
 
 DJ Spen, Derrick Carter, Rissa Garcia
 
-*Updated Sun, 19 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/ultranate/)*
+*Updated Mon, 20 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/ultranate/)*

@@ -1,6 +1,6 @@
 # JUSTDYL
 
-JUSTDYL is a House and Tech House artist with 2 upcoming club dates listed on soundcheck as of Sun, 19 Jul 2026, next at Yamamori Tengu, Dublin on Fri, 24 Jul 2026.
+JUSTDYL is a House and Tech House artist with 2 upcoming club dates listed on soundcheck as of Mon, 20 Jul 2026, next at Yamamori Tengu, Dublin on Fri, 24 Jul 2026.
 
 JUSTDYL is a house and tech house artist based in Ireland, tracked on soundcheck, with 31 sets logged across Dublin and Galway. Often billed alongside Oscide, Surka (1) and ACKERMAN. Next up: Yamamori Tengu, Dublin on Fri 24 Jul.
 
@@ -26,4 +26,4 @@ JUSTDYL is a house and tech house artist based in Ireland, tracked on soundcheck
 
 Oscide, Surka (1), ACKERMAN
 
-*Updated Sun, 19 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/justdyl/)*
+*Updated Mon, 20 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/justdyl/)*

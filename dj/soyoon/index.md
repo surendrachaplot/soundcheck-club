@@ -1,6 +1,6 @@
 # Soyoon
 
-Soyoon is a Techno and Trance artist with 3 upcoming club dates listed on soundcheck as of Sun, 19 Jul 2026, next at La Station - Gare des Mines, Paris on Fri, 24 Jul 2026.
+Soyoon is a Techno and Trance artist with 3 upcoming club dates listed on soundcheck as of Mon, 20 Jul 2026, next at La Station - Gare des Mines, Paris on Fri, 24 Jul 2026.
 
 Soyoon is a techno and trance artist tracked on soundcheck, with 97 sets logged across Amsterdam, Belgrade, Berlin and Cardiff and 12 more. Often billed alongside Maï-Linh, GTI and Youl. Next up: La Station - Gare des Mines, Paris on Fri 24 Jul.
 
@@ -27,4 +27,4 @@ Soyoon is a techno and trance artist tracked on soundcheck, with 97 sets logged 
 
 Maï-Linh, GTI, Youl
 
-*Updated Sun, 19 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/soyoon/)*
+*Updated Mon, 20 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/soyoon/)*

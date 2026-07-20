@@ -1,6 +1,6 @@
 # Harold
 
-Harold is a Techno and IDM artist with 2 upcoming club dates listed on soundcheck as of Sun, 19 Jul 2026, next at Solace, Melbourne on Fri, 24 Jul 2026.
+Harold is a Techno and IDM artist with 2 upcoming club dates listed on soundcheck as of Mon, 20 Jul 2026, next at Solace, Melbourne on Fri, 24 Jul 2026.
 
 Harold is a techno and idm artist based in Australia, tracked on soundcheck, with 28 sets logged across Amsterdam, Hobart, London and Melbourne and 2 more. Often billed alongside Tangerine, Emelyne and Hylke. Next up: Solace, Melbourne on Fri 24 Jul.
 
@@ -26,4 +26,4 @@ Harold is a techno and idm artist based in Australia, tracked on soundcheck, wit
 
 Tangerine, Emelyne, Hylke
 
-*Updated Sun, 19 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/harold/)*
+*Updated Mon, 20 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/harold/)*

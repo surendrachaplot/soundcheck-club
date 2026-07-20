@@ -1,6 +1,6 @@
 # pìccolo
 
-pìccolo is a Techno and Club artist with 2 upcoming club dates listed on soundcheck as of Sun, 19 Jul 2026, next at Forestlimit, Tokyo on Sat, 1 Aug 2026.
+pìccolo is a Techno and Club artist with 2 upcoming club dates listed on soundcheck as of Mon, 20 Jul 2026, next at Forestlimit, Tokyo on Sat, 1 Aug 2026.
 
 pìccolo is a techno and club artist based in Japan, tracked on soundcheck, with 25 sets logged across Seoul, Shanghai and Tokyo. Often billed alongside MUNÉO, mionn and MELEETIME. Next up: Forestlimit, Tokyo on Sat 1 Aug.
 
@@ -26,4 +26,4 @@ pìccolo is a techno and club artist based in Japan, tracked on soundcheck, with
 
 MUNÉO, mionn, MELEETIME
 
-*Updated Sun, 19 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/pìccolo/)*
+*Updated Mon, 20 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/pìccolo/)*

@@ -1,6 +1,6 @@
 # Cakeshop
 
-Cakeshop is a music venue in Seoul with 3 upcoming nights listed on soundcheck as of Sun, 19 Jul 2026; the next is "More Breaks with Grow The Culture" on Sat, 25 Jul 2026.
+Cakeshop is a music venue in Seoul with 3 upcoming nights listed on soundcheck as of Mon, 20 Jul 2026; the next is "More Breaks with Grow The Culture" on Sat, 25 Jul 2026.
 
 Cakeshop is a music venue in Seoul listed on soundcheck. 3 upcoming nights, with line-ups including Citi Jeong, CLAIR (BAI), Dan Dara and HASHTAGPOPE and 2 more. Browse upcoming dates, start times and who's playing. 34-16 Itaewon-dong (134 Itaewon-ro), Yongsan-gu, Seoul, South Korea ‎.
 
@@ -16,4 +16,4 @@ Cakeshop is a music venue in Seoul listed on soundcheck. 3 upcoming nights, with
 
 34-16 Itaewon-dong (134 Itaewon-ro), Yongsan-gu, Seoul, South Korea ‎, Seoul
 
-*Updated Sun, 19 Jul 2026 · source: [soundcheck](https://soundcheck.club/seoul/club/cakeshop/)*
+*Updated Mon, 20 Jul 2026 · source: [soundcheck](https://soundcheck.club/seoul/club/cakeshop/)*

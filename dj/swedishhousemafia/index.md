@@ -1,14 +1,13 @@
 # Swedish House Mafia
 
-Swedish House Mafia is a House and Progressive House artist with 10 upcoming club dates listed on soundcheck as of Sun, 19 Jul 2026, next at Ushuaïa Ibiza, Ibiza on Sun, 19 Jul 2026.
+Swedish House Mafia is a House and Progressive House artist with 9 upcoming club dates listed on soundcheck as of Mon, 20 Jul 2026, next at Ushuaïa Ibiza, Ibiza on Sun, 26 Jul 2026.
 
-Swedish House Mafia is a house and progressive house artist tracked on soundcheck, with 28 sets logged across Buenosaires, Ibiza, London and Madrid and 3 more. Often billed alongside AMÉMÉ, Arielle Free and Boys Noize. Next up: Ushuaïa Ibiza, Ibiza on Sun 19 Jul.
+Swedish House Mafia is a house and progressive house artist tracked on soundcheck, with 28 sets logged across Buenosaires, Ibiza, London and Madrid and 3 more. Often billed alongside AMÉMÉ, Arielle Free and Boys Noize. Next up: Ushuaïa Ibiza, Ibiza on Sun 26 Jul.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sun, 19 Jul 2026 | Ushuaïa Ibiza | Ibiza |
 | Sun, 26 Jul 2026 | Ushuaïa Ibiza | Ibiza |
 | Sun, 2 Aug 2026 | Ushuaïa Ibiza | Ibiza |
 | Sun, 9 Aug 2026 | Ushuaïa Ibiza | Ibiza |
@@ -21,6 +20,7 @@ Swedish House Mafia is a house and progressive house artist tracked on soundchec
 
 ## Recently played
 
+- Ushuaïa Ibiza, Ibiza — Sun, 19 Jul 2026
 - Ushuaïa Ibiza, Ibiza — Sun, 12 Jul 2026
 - Ushuaïa Ibiza, Ibiza — Sun, 5 Jul 2026
 - Ushuaïa Ibiza, Ibiza — Sun, 28 Jun 2026
@@ -28,10 +28,9 @@ Swedish House Mafia is a house and progressive house artist tracked on soundchec
 - TBA, Madrid — Sat, 2 May 2026
 - Pier 80 Warehouse, San Francisco/Oakland — Wed, 31 Dec 2025
 - Pier 80 Warehouse, San Francisco/Oakland — Mon, 29 Dec 2025
-- Plaza de Toros, Mexico City — Fri, 31 Oct 2025
 
 ## Shares bills with
 
 AMÉMÉ, Arielle Free, Boys Noize
 
-*Updated Sun, 19 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/swedishhousemafia/)*
+*Updated Mon, 20 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/swedishhousemafia/)*

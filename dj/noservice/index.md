@@ -1,6 +1,6 @@
 # no service
 
-no service is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Sun, 19 Jul 2026, next at Doka, Amsterdam on Fri, 24 Jul 2026.
+no service is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Mon, 20 Jul 2026, next at Doka, Amsterdam on Fri, 24 Jul 2026.
 
 no service is a techno and house artist based in Netherlands, tracked on soundcheck, with 29 sets logged across Amsterdam, Berlin, Cologne and Dublin and 6 more. Often billed alongside Ogazón, Fadi Mohem and Victor (DE). Next up: Doka, Amsterdam on Fri 24 Jul.
 
@@ -27,4 +27,4 @@ no service is a techno and house artist based in Netherlands, tracked on soundch
 
 Ogazón, Fadi Mohem, Victor (DE)
 
-*Updated Sun, 19 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/noservice/)*
+*Updated Mon, 20 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/noservice/)*

@@ -1,6 +1,6 @@
 # Dunmore Brothers
 
-Dunmore Brothers is a House and Tech House artist with 3 upcoming club dates listed on soundcheck as of Sun, 19 Jul 2026, next at CÉ LA VI, London on Sat, 25 Jul 2026.
+Dunmore Brothers is a House and Tech House artist with 3 upcoming club dates listed on soundcheck as of Mon, 20 Jul 2026, next at CÉ LA VI, London on Sat, 25 Jul 2026.
 
 Dunmore Brothers is a house and tech house artist tracked on soundcheck, with 55 sets logged across Amsterdam, Bristol, Ibiza and Kualalumpur and 4 more. Often billed alongside Darius Syrossian, Sam Divine and Melé. Next up: CÉ LA VI, London on Sat 25 Jul.
 
@@ -27,4 +27,4 @@ Dunmore Brothers is a house and tech house artist tracked on soundcheck, with 55
 
 Darius Syrossian, Sam Divine, Melé
 
-*Updated Sun, 19 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/dunmorebrothers/)*
+*Updated Mon, 20 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/dunmorebrothers/)*

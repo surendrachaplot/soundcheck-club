@@ -1,6 +1,6 @@
 # Walrus
 
-Walrus is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Sun, 19 Jul 2026, next at Boat - MS Rhein, Berlin on Sun, 9 Aug 2026.
+Walrus is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Mon, 20 Jul 2026, next at Boat - MS Rhein, Berlin on Sun, 9 Aug 2026.
 
 Walrus is a house and techno artist tracked on soundcheck, with 93 sets logged across Amsterdam, Antwerp, Bangkok and Barcelona and 18 more. Often billed alongside DJ Rino, Penelope (2) and Boudewijn Ericx. Next up: Boat - MS Rhein, Berlin on Sun 9 Aug.
 
@@ -26,4 +26,4 @@ Walrus is a house and techno artist tracked on soundcheck, with 93 sets logged a
 
 DJ Rino, Penelope (2), Boudewijn Ericx
 
-*Updated Sun, 19 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/walrus/)*
+*Updated Mon, 20 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/walrus/)*

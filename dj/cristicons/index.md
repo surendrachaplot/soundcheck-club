@@ -1,6 +1,6 @@
 # Cristi Cons
 
-Cristi Cons is a House and Minimal artist with 2 upcoming club dates listed on soundcheck as of Sun, 19 Jul 2026, next at Playa Soleil Ibiza, Ibiza on Wed, 22 Jul 2026.
+Cristi Cons is a House and Minimal artist with 2 upcoming club dates listed on soundcheck as of Mon, 20 Jul 2026, next at Playa Soleil Ibiza, Ibiza on Wed, 22 Jul 2026.
 
 Cristi Cons is a house and minimal artist tracked on soundcheck, with 106 sets logged across Amsterdam, Antwerp, Austin and Barcelona and 31 more. Often billed alongside Vlad Caia, SIT Amphia and Sublee. Next up: Playa Soleil Ibiza, Ibiza on Wed 22 Jul.
 
@@ -26,4 +26,4 @@ Cristi Cons is a house and minimal artist tracked on soundcheck, with 106 sets l
 
 Vlad Caia, SIT Amphia, Sublee
 
-*Updated Sun, 19 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/cristicons/)*
+*Updated Mon, 20 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/cristicons/)*

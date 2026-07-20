@@ -1,6 +1,6 @@
 # Charlie Vaux
 
-Charlie Vaux is a Italo Disco and Techno artist with 2 upcoming club dates listed on soundcheck as of Sun, 19 Jul 2026, next at Südpol, Hamburg on Sat, 1 Aug 2026.
+Charlie Vaux is a Italo Disco and Techno artist with 2 upcoming club dates listed on soundcheck as of Mon, 20 Jul 2026, next at Südpol, Hamburg on Sat, 1 Aug 2026.
 
 Charlie Vaux is an italo disco and techno artist tracked on soundcheck, with 34 sets logged across Berlin, Hamburg, Rome and Warsaw. Often billed alongside Desolate Discotheque, Electric Visionary and Lush Lab. Next up: Südpol, Hamburg on Sat 1 Aug.
 
@@ -26,4 +26,4 @@ Charlie Vaux is an italo disco and techno artist tracked on soundcheck, with 34 
 
 Desolate Discotheque, Electric Visionary, Lush Lab
 
-*Updated Sun, 19 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/charlievaux/)*
+*Updated Mon, 20 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/charlievaux/)*

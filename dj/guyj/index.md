@@ -1,6 +1,6 @@
 # Guy J
 
-Guy J is a Progressive House and House artist with 5 upcoming club dates listed on soundcheck as of Sun, 19 Jul 2026, next at Sloterpark, Amsterdam on Sat, 8 Aug 2026.
+Guy J is a Progressive House and House artist with 5 upcoming club dates listed on soundcheck as of Mon, 20 Jul 2026, next at Sloterpark, Amsterdam on Sat, 8 Aug 2026.
 
 Guy J is a progressive house and house artist tracked on soundcheck, with 121 sets logged across Amsterdam, Antwerp, Athens and Auckland and 33 more. Often billed alongside Guy Mantzur, Sahar Z and Khen. Next up: Sloterpark, Amsterdam on Sat 8 Aug.
 
@@ -29,4 +29,4 @@ Guy J is a progressive house and house artist tracked on soundcheck, with 121 se
 
 Guy Mantzur, Sahar Z, Khen
 
-*Updated Sun, 19 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/guyj/)*
+*Updated Mon, 20 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/guyj/)*

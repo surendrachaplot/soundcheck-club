@@ -1,6 +1,6 @@
 # Sibel
 
-Sibel is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Sun, 19 Jul 2026, next at TBA - Secret Location: Adress on Ticket , Stuttgart on Sat, 25 Jul 2026.
+Sibel is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Mon, 20 Jul 2026, next at TBA - Secret Location: Adress on Ticket , Stuttgart on Sat, 25 Jul 2026.
 
 Sibel is a techno and house artist tracked on soundcheck, with 64 sets logged across Lyon, Munich, Stuttgart and Tokyo. Often billed alongside Marco Bastone, Raphael Dincsoy and Alexander Maier. Next up: TBA - Secret Location: Adress on Ticket , Stuttgart on Sat 25 Jul.
 
@@ -26,4 +26,4 @@ Sibel is a techno and house artist tracked on soundcheck, with 64 sets logged ac
 
 Marco Bastone, Raphael Dincsoy, Alexander Maier
 
-*Updated Sun, 19 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/sibel/)*
+*Updated Mon, 20 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/sibel/)*

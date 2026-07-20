@@ -1,6 +1,6 @@
 # Arts Club
 
-Arts Club is a music venue in Liverpool with 7 upcoming nights listed on soundcheck as of Sun, 19 Jul 2026; the next is "DARK MATTER X SICKEAU" on Sat, 25 Jul 2026.
+Arts Club is a music venue in Liverpool with 7 upcoming nights listed on soundcheck as of Mon, 20 Jul 2026; the next is "DARK MATTER X SICKEAU" on Sat, 25 Jul 2026.
 
 Arts Club is a music venue in Liverpool listed on soundcheck. 7 upcoming nights, with line-ups including 1-800 GIRLS, OMAKS and TAFT BROTHERS. Browse upcoming dates, start times and who's playing. 90 Seel Street; Liverpool; L1 4BH; United Kingdom.
 
@@ -20,4 +20,4 @@ Arts Club is a music venue in Liverpool listed on soundcheck. 7 upcoming nights,
 
 90 Seel Street; Liverpool; L1 4BH; United Kingdom, Liverpool
 
-*Updated Sun, 19 Jul 2026 · source: [soundcheck](https://soundcheck.club/liverpool/club/arts-club/)*
+*Updated Mon, 20 Jul 2026 · source: [soundcheck](https://soundcheck.club/liverpool/club/arts-club/)*

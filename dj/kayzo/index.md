@@ -1,6 +1,6 @@
 # Kayzo
 
-Kayzo is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Sun, 19 Jul 2026, next at BERHTA, Washington DC on Fri, 24 Jul 2026.
+Kayzo is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Mon, 20 Jul 2026, next at BERHTA, Washington DC on Fri, 24 Jul 2026.
 
 Kayzo is a techno and house artist based in United States of America, tracked on soundcheck, with 22 sets logged across Amsterdam, Austin, Boston and Denver and 12 more. Often billed alongside Luude, hhunter and Alesso. Next up: BERHTA, Washingtondc on Fri 24 Jul.
 
@@ -26,4 +26,4 @@ Kayzo is a techno and house artist based in United States of America, tracked on
 
 Luude, hhunter, Alesso
 
-*Updated Sun, 19 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/kayzo/)*
+*Updated Mon, 20 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/kayzo/)*

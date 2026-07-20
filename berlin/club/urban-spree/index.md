@@ -1,14 +1,13 @@
 # Urban Spree
 
-Urban Spree is a music venue in Berlin with 6 upcoming nights listed on soundcheck as of Sun, 19 Jul 2026; the next is "Libertine Sunday Open Air" on Sun, 19 Jul 2026.
+Urban Spree is a music venue in Berlin with 5 upcoming nights listed on soundcheck as of Mon, 20 Jul 2026; the next is "VMO Violent Magic Orchestra + PΞB" on Wed, 29 Jul 2026.
 
-Urban Spree is a music venue in Berlin listed on soundcheck. 6 upcoming nights, with line-ups including Adriano, Yoshi (DE), Blush Response and Brasi and 2 more. Browse upcoming dates, start times and who's playing. Revaler Str. 99, 10245 Berlin, Germany.
+Urban Spree is a music venue in Berlin listed on soundcheck. 5 upcoming nights, with line-ups including Blush Response, GB (2), Philipp Strobel and Rhys Fulber and 1 more. Browse upcoming dates, start times and who's playing. Revaler Str. 99, 10245 Berlin, Germany.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Sun, 19 Jul 2026 | Libertine Sunday Open Air | Adriano, Brasi, Carlos GrabStein, Ed Warner, Kidcat, Niff, Paty Vapor, Yoshi (DE), ilbroccolovolante |
 | Wed, 29 Jul 2026 | VMO Violent Magic Orchestra + PΞB | Violent Magic Orchestra |
 | Sat, 29 Aug 2026 | aufnahme + wiedergabe: Fünfzehn Jahre // Zweiter Akt | Blush Response, Philipp Strobel, Rhys Fulber |
 | Mon, 31 Aug 2026 | New Candys (Fuzz Club) – Live |  |
@@ -19,4 +18,4 @@ Urban Spree is a music venue in Berlin listed on soundcheck. 6 upcoming nights, 
 
 Revaler Str. 99, 10245 Berlin, Germany, Berlin
 
-*Updated Sun, 19 Jul 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/urban-spree/)*
+*Updated Mon, 20 Jul 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/urban-spree/)*

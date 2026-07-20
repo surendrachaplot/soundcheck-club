@@ -1,6 +1,6 @@
 # Gore Lounge Club
 
-Gore Lounge Club is a music venue in Belgrade with 1 upcoming night listed on soundcheck as of Sun, 19 Jul 2026; the next is "SGAMO @GORE" on Fri, 24 Jul 2026.
+Gore Lounge Club is a music venue in Belgrade with 1 upcoming night listed on soundcheck as of Mon, 20 Jul 2026; the next is "SGAMO @GORE" on Fri, 24 Jul 2026.
 
 Gore Lounge Club is a music venue in Belgrade listed on soundcheck. 1 upcoming night. Browse upcoming dates, start times and who's playing.
 
@@ -10,4 +10,4 @@ Gore Lounge Club is a music venue in Belgrade listed on soundcheck. 1 upcoming n
 | --- | --- | --- |
 | Fri, 24 Jul 2026 | SGAMO @GORE |  |
 
-*Updated Sun, 19 Jul 2026 · source: [soundcheck](https://soundcheck.club/belgrade/club/gore-lounge-club/)*
+*Updated Mon, 20 Jul 2026 · source: [soundcheck](https://soundcheck.club/belgrade/club/gore-lounge-club/)*

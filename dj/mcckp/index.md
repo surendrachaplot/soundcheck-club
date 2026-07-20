@@ -1,6 +1,6 @@
 # MC CKP
 
-MC CKP is a Garage and House artist with 2 upcoming club dates listed on soundcheck as of Sun, 19 Jul 2026, next at The Lower Third, London on Sat, 15 Aug 2026.
+MC CKP is a Garage and House artist with 2 upcoming club dates listed on soundcheck as of Mon, 20 Jul 2026, next at The Lower Third, London on Sat, 15 Aug 2026.
 
 MC CKP is a garage and house artist based in United Kingdom, tracked on soundcheck, with 22 sets logged across London. Often billed alongside MC Creed, MC DT and MC PSG. Next up: The Lower Third, London on Sat 15 Aug.
 
@@ -26,4 +26,4 @@ MC CKP is a garage and house artist based in United Kingdom, tracked on soundche
 
 MC Creed, MC DT, MC PSG
 
-*Updated Sun, 19 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/mcckp/)*
+*Updated Mon, 20 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/mcckp/)*

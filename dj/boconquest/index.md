@@ -1,6 +1,6 @@
 # Bo Conquest
 
-Bo Conquest is a House and Tech House artist with 2 upcoming club dates listed on soundcheck as of Sun, 19 Jul 2026, next at O Beach, Ibiza on Thu, 23 Jul 2026.
+Bo Conquest is a House and Tech House artist with 2 upcoming club dates listed on soundcheck as of Mon, 20 Jul 2026, next at O Beach, Ibiza on Thu, 23 Jul 2026.
 
 Bo Conquest is a house and tech house artist tracked on soundcheck, with 26 sets logged across Ibiza, London and Malta. Often billed alongside Beyond Chicago, Sammy Porter and Tilli Murphy. Next up: O Beach, Ibiza on Thu 23 Jul.
 
@@ -26,4 +26,4 @@ Bo Conquest is a house and tech house artist tracked on soundcheck, with 26 sets
 
 Beyond Chicago, Sammy Porter, Tilli Murphy
 
-*Updated Sun, 19 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/boconquest/)*
+*Updated Mon, 20 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/boconquest/)*

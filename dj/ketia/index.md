@@ -1,6 +1,6 @@
 # ketia
 
-ketia is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Sun, 19 Jul 2026, next at Milandia, Zurich on Sat, 25 Jul 2026.
+ketia is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Mon, 20 Jul 2026, next at Milandia, Zurich on Sat, 25 Jul 2026.
 
 ketia is a techno and house artist based in Portugal, tracked on soundcheck, with 133 sets logged across Amsterdam, Antwerp, Barcelona and Berlin and 29 more. Often billed alongside Angel D'lite, ADAM MUNNINGS and DJ Petite. Next up: Milandia, Zurich on Sat 25 Jul.
 
@@ -26,4 +26,4 @@ ketia is a techno and house artist based in Portugal, tracked on soundcheck, wit
 
 Angel D'lite, ADAM MUNNINGS, DJ Petite
 
-*Updated Sun, 19 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/ketia/)*
+*Updated Mon, 20 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/ketia/)*

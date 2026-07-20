@@ -1,6 +1,6 @@
 # Ned Bennett
 
-Ned Bennett is a Techno and House artist with 4 upcoming club dates listed on soundcheck as of Sun, 19 Jul 2026, next at Colorado Charlie, The Hague on Fri, 24 Jul 2026.
+Ned Bennett is a Techno and House artist with 4 upcoming club dates listed on soundcheck as of Mon, 20 Jul 2026, next at Colorado Charlie, The Hague on Fri, 24 Jul 2026.
 
 Ned Bennett is a techno and house artist tracked on soundcheck, with 58 sets logged across Amsterdam, Antwerp, Berlin and Brisbane and 8 more. Often billed alongside KSMBA, 6 SENSE and Prizefight. Next up: Colorado Charlie, Thehague on Fri 24 Jul.
 
@@ -28,4 +28,4 @@ Ned Bennett is a techno and house artist tracked on soundcheck, with 58 sets log
 
 KSMBA, 6 SENSE, Prizefight
 
-*Updated Sun, 19 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/nedbennett/)*
+*Updated Mon, 20 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/nedbennett/)*

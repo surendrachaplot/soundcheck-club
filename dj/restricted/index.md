@@ -1,6 +1,6 @@
 # Restricted
 
-Restricted is a Techno and Hardcore artist with 9 upcoming club dates listed on soundcheck as of Sun, 19 Jul 2026, next at Downsview Park, Toronto on Fri, 31 Jul 2026.
+Restricted is a Techno and Hardcore artist with 9 upcoming club dates listed on soundcheck as of Mon, 20 Jul 2026, next at Downsview Park, Toronto on Fri, 31 Jul 2026.
 
 Restricted is a techno and hardcore artist tracked on soundcheck, with 65 sets logged across Amsterdam, Antwerp, Athens and Austin and 38 more. Often billed alongside Azyr, JAZZY (2) and Vieze Asbak. Next up: Downsview Park, Toronto on Fri 31 Jul.
 
@@ -33,4 +33,4 @@ Restricted is a techno and hardcore artist tracked on soundcheck, with 65 sets l
 
 Azyr, JAZZY (2), Vieze Asbak
 
-*Updated Sun, 19 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/restricted/)*
+*Updated Mon, 20 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/restricted/)*

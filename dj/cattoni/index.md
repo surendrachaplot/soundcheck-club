@@ -1,6 +1,6 @@
 # Cattoni
 
-Cattoni is a Techno and Acid artist with 2 upcoming club dates listed on soundcheck as of Sun, 19 Jul 2026, next at Kilomètre25, Paris on Thu, 23 Jul 2026.
+Cattoni is a Techno and Acid artist with 2 upcoming club dates listed on soundcheck as of Mon, 20 Jul 2026, next at Kilomètre25, Paris on Thu, 23 Jul 2026.
 
 Cattoni is a techno and acid artist based in France, tracked on soundcheck, with 23 sets logged across Berlin, Lyon and Paris. Often billed alongside In-Tan, Kelbail and Artifak. Next up: Kilomètre25, Paris on Thu 23 Jul.
 
@@ -26,4 +26,4 @@ Cattoni is a techno and acid artist based in France, tracked on soundcheck, with
 
 In-Tan, Kelbail, Artifak
 
-*Updated Sun, 19 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/cattoni/)*
+*Updated Mon, 20 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/cattoni/)*

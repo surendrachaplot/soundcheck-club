@@ -1,6 +1,6 @@
 # Krystal Klear
 
-Krystal Klear is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Sun, 19 Jul 2026, next at fi, Cologne on Sat, 8 Aug 2026.
+Krystal Klear is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Mon, 20 Jul 2026, next at fi, Cologne on Sat, 8 Aug 2026.
 
 Krystal Klear is a house and techno artist tracked on soundcheck, with 111 sets logged across Amsterdam, Antwerp, Bali and Barcelona and 38 more. Often billed alongside Gerd Janson, Seth Troxler and Chloé Caillet. Next up: fi, Cologne on Sat 8 Aug.
 
@@ -26,4 +26,4 @@ Krystal Klear is a house and techno artist tracked on soundcheck, with 111 sets 
 
 Gerd Janson, Seth Troxler, Chloé Caillet
 
-*Updated Sun, 19 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/krystalklear/)*
+*Updated Mon, 20 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/krystalklear/)*

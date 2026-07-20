@@ -1,6 +1,6 @@
 # Forbrændingen
 
-Forbrændingen is a music venue in Copenhagen with 1 upcoming night listed on soundcheck as of Sun, 19 Jul 2026; the next is "HVAD + support: sigo" on Sat, 5 Sept 2026.
+Forbrændingen is a music venue in Copenhagen with 1 upcoming night listed on soundcheck as of Mon, 20 Jul 2026; the next is "HVAD + support: sigo" on Sat, 5 Sept 2026.
 
 Forbrændingen is a music venue in Copenhagen listed on soundcheck. 1 upcoming night, with line-ups including HVAD. Browse upcoming dates, start times and who's playing. Vognporten 11, 2620 Albertslund.
 
@@ -14,4 +14,4 @@ Forbrændingen is a music venue in Copenhagen listed on soundcheck. 1 upcoming n
 
 Vognporten 11, 2620 Albertslund, Copenhagen
 
-*Updated Sun, 19 Jul 2026 · source: [soundcheck](https://soundcheck.club/copenhagen/club/forbr-ndingen/)*
+*Updated Mon, 20 Jul 2026 · source: [soundcheck](https://soundcheck.club/copenhagen/club/forbr-ndingen/)*

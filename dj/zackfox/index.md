@@ -1,6 +1,6 @@
 # Zack Fox
 
-Zack Fox is a Ghetto Tech and House artist with 5 upcoming club dates listed on soundcheck as of Sun, 19 Jul 2026, next at Encore Event Center, San Diego on Fri, 31 Jul 2026.
+Zack Fox is a Ghetto Tech and House artist with 5 upcoming club dates listed on soundcheck as of Mon, 20 Jul 2026, next at Encore Event Center, San Diego on Fri, 31 Jul 2026.
 
 Zack Fox is a ghetto tech and house artist based in United States of America, tracked on soundcheck, with 75 sets logged across Amsterdam, Antwerp, Austin and Berlin and 20 more. Often billed alongside DJ Bone, JEWELSSEA and BAE BAE. Next up: Encore Event Center, Sandiego on Fri 31 Jul.
 
@@ -29,4 +29,4 @@ Zack Fox is a ghetto tech and house artist based in United States of America, tr
 
 DJ Bone, JEWELSSEA, BAE BAE
 
-*Updated Sun, 19 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/zackfox/)*
+*Updated Mon, 20 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/zackfox/)*

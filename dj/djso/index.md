@@ -1,6 +1,6 @@
 # DJ SO
 
-DJ SO is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Sun, 19 Jul 2026, next at The Mint Ginza | Rooftop Cafe & Bar, Tokyo on Mon, 20 Jul 2026.
+DJ SO is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Mon, 20 Jul 2026, next at The Mint Ginza | Rooftop Cafe & Bar, Tokyo on Mon, 20 Jul 2026.
 
 DJ SO is a techno and house artist tracked on soundcheck, with 80 sets logged across Amsterdam, Barcelona, Berlin and Kyoto and 12 more. Often billed alongside Yo Nishijima, Cityboy from Seoul and DJ Sodeyama. Next up: The Mint Ginza | Rooftop Cafe & Bar, Tokyo on Mon 20 Jul.
 
@@ -27,4 +27,4 @@ DJ SO is a techno and house artist tracked on soundcheck, with 80 sets logged ac
 
 Yo Nishijima, Cityboy from Seoul, DJ Sodeyama
 
-*Updated Sun, 19 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/djso/)*
+*Updated Mon, 20 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/djso/)*

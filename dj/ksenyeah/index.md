@@ -1,6 +1,6 @@
 # Ksenyeah
 
-Ksenyeah is a House and Deep House artist with 5 upcoming club dates listed on soundcheck as of Sun, 19 Jul 2026, next at Bogart House, New York City on Sat, 25 Jul 2026.
+Ksenyeah is a House and Deep House artist with 5 upcoming club dates listed on soundcheck as of Mon, 20 Jul 2026, next at Bogart House, New York City on Sat, 25 Jul 2026.
 
 Ksenyeah is a house and deep house artist based in Ukraine, tracked on soundcheck, with 38 sets logged across Newyorkcity. Often billed alongside Manguito, Van Der Laan and OBA+FLIP. Next up: Bogart House, Newyorkcity on Sat 25 Jul.
 
@@ -29,4 +29,4 @@ Ksenyeah is a house and deep house artist based in Ukraine, tracked on soundchec
 
 Manguito, Van Der Laan, OBA+FLIP
 
-*Updated Sun, 19 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/ksenyeah/)*
+*Updated Mon, 20 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/ksenyeah/)*

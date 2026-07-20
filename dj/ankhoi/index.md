@@ -1,6 +1,6 @@
 # Ankhoï
 
-Ankhoï is a Afro House and House artist with 2 upcoming club dates listed on soundcheck as of Sun, 19 Jul 2026, next at Praterinsel, Munich on Sat, 25 Jul 2026.
+Ankhoï is a Afro House and House artist with 2 upcoming club dates listed on soundcheck as of Mon, 20 Jul 2026, next at Praterinsel, Munich on Sat, 25 Jul 2026.
 
 Ankhoï is an afro house and house artist tracked on soundcheck, with 34 sets logged across Amsterdam, Barcelona, Houston and Ibiza and 12 more. Often billed alongside Adam Ten, JAMIIE and Kitty Amor. Next up: Praterinsel, Munich on Sat 25 Jul.
 
@@ -26,4 +26,4 @@ Ankhoï is an afro house and house artist tracked on soundcheck, with 34 sets lo
 
 Adam Ten, JAMIIE, Kitty Amor
 
-*Updated Sun, 19 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/ankhoi/)*
+*Updated Mon, 20 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/ankhoi/)*

@@ -1,6 +1,6 @@
 # The Dominion Centre
 
-The Dominion Centre is a music venue in London with 1 upcoming night listed on soundcheck as of Sun, 19 Jul 2026; the next is "West London Dub Club - Ital Power meets Entebbe" on Sat, 15 Aug 2026.
+The Dominion Centre is a music venue in London with 1 upcoming night listed on soundcheck as of Mon, 20 Jul 2026; the next is "West London Dub Club - Ital Power meets Entebbe" on Sat, 15 Aug 2026.
 
 The Dominion Centre is a music venue in London listed on soundcheck. 1 upcoming night, with line-ups including Ital Power. Browse upcoming dates, start times and who's playing. The Dominion Centre, 112 The Green, Southall UB2 4BQ.
 
@@ -14,4 +14,4 @@ The Dominion Centre is a music venue in London listed on soundcheck. 1 upcoming 
 
 The Dominion Centre, 112 The Green, Southall UB2 4BQ, London
 
-*Updated Sun, 19 Jul 2026 · source: [soundcheck](https://soundcheck.club/london/club/the-dominion-centre/)*
+*Updated Mon, 20 Jul 2026 · source: [soundcheck](https://soundcheck.club/london/club/the-dominion-centre/)*

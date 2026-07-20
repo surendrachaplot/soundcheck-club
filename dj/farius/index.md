@@ -1,6 +1,6 @@
 # Farius
 
-Farius is a Trance and Progressive House artist with 2 upcoming club dates listed on soundcheck as of Sun, 19 Jul 2026, next at Supperclub Cruise, Amsterdam on Sat, 1 Aug 2026.
+Farius is a Trance and Progressive House artist with 2 upcoming club dates listed on soundcheck as of Mon, 20 Jul 2026, next at Supperclub Cruise, Amsterdam on Sat, 1 Aug 2026.
 
 Farius is a trance and progressive house artist based in United Kingdom, tracked on soundcheck, with 22 sets logged across Amsterdam, Chicago, Cologne and Denver and 9 more. Often billed alongside Estiva, Cosmic Gate and Tritonal. Next up: Supperclub Cruise, Amsterdam on Sat 1 Aug.
 
@@ -26,4 +26,4 @@ Farius is a trance and progressive house artist based in United Kingdom, tracked
 
 Estiva, Cosmic Gate, Tritonal
 
-*Updated Sun, 19 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/farius/)*
+*Updated Mon, 20 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/farius/)*

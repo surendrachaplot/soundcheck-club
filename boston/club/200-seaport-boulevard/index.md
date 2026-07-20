@@ -1,6 +1,6 @@
 # 200 Seaport Boulevard
 
-200 Seaport Boulevard is a music venue in Boston with 5 upcoming nights listed on soundcheck as of Sun, 19 Jul 2026; the next is "The Monochrome Takeover: Zazu on Deck 07/24" on Fri, 24 Jul 2026.
+200 Seaport Boulevard is a music venue in Boston with 5 upcoming nights listed on soundcheck as of Mon, 20 Jul 2026; the next is "The Monochrome Takeover: Zazu on Deck 07/24" on Fri, 24 Jul 2026.
 
 200 Seaport Boulevard is a music venue in Boston listed on soundcheck. 5 upcoming nights. Browse upcoming dates, start times and who's playing. 200 Seaport BlvdBoston, MA 02210, USA.
 
@@ -18,4 +18,4 @@
 
 200 Seaport BlvdBoston, MA 02210, USA, Boston
 
-*Updated Sun, 19 Jul 2026 · source: [soundcheck](https://soundcheck.club/boston/club/200-seaport-boulevard/)*
+*Updated Mon, 20 Jul 2026 · source: [soundcheck](https://soundcheck.club/boston/club/200-seaport-boulevard/)*

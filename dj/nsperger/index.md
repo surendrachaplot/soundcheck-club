@@ -1,6 +1,6 @@
 # NSPERGER
 
-NSPERGER is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Sun, 19 Jul 2026, next at Crack Bellmer, Berlin on Thu, 23 Jul 2026.
+NSPERGER is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Mon, 20 Jul 2026, next at Crack Bellmer, Berlin on Thu, 23 Jul 2026.
 
 NSPERGER is a techno and house artist tracked on soundcheck, with 13 sets logged across Amsterdam, Barcelona, Berlin and Buenosaires and 4 more. Often billed alongside Katalina Schwarz, Aaron Blau and Daniela Fuzz. Next up: Crack Bellmer, Berlin on Thu 23 Jul.
 
@@ -27,4 +27,4 @@ NSPERGER is a techno and house artist tracked on soundcheck, with 13 sets logged
 
 Katalina Schwarz, Aaron Blau, Daniela Fuzz
 
-*Updated Sun, 19 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/nsperger/)*
+*Updated Mon, 20 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/nsperger/)*

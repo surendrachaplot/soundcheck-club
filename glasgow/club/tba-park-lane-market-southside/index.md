@@ -1,6 +1,6 @@
 # TBA - Park Lane Market, Southside
 
-TBA - Park Lane Market, Southside is a music venue in Glasgow with 1 upcoming night listed on soundcheck as of Sun, 19 Jul 2026; the next is "baile/baile x Kin-Tu presents Dannsa na Grèine" on Sat, 25 Jul 2026.
+TBA - Park Lane Market, Southside is a music venue in Glasgow with 1 upcoming night listed on soundcheck as of Mon, 20 Jul 2026; the next is "baile/baile x Kin-Tu presents Dannsa na Grèine" on Sat, 25 Jul 2026.
 
 TBA - Park Lane Market, Southside is a music venue in Glasgow listed on soundcheck. 1 upcoming night, with line-ups including DJ CABLECAR, Jemima from the Bible, Junglehussi and Maveen and 2 more. Browse upcoming dates, start times and who's playing.
 
@@ -10,4 +10,4 @@ TBA - Park Lane Market, Southside is a music venue in Glasgow listed on soundche
 | --- | --- | --- |
 | Sat, 25 Jul 2026 | baile/baile x Kin-Tu presents Dannsa na Grèine | DJ CABLECAR, Jemima from the Bible, Junglehussi, Maveen, Rosehips, Salam Kitty |
 
-*Updated Sun, 19 Jul 2026 · source: [soundcheck](https://soundcheck.club/glasgow/club/tba-park-lane-market-southside/)*
+*Updated Mon, 20 Jul 2026 · source: [soundcheck](https://soundcheck.club/glasgow/club/tba-park-lane-market-southside/)*

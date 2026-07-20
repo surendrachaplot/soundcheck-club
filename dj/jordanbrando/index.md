@@ -1,6 +1,6 @@
 # Jordan Brando
 
-Jordan Brando is a House and Tech House artist with 5 upcoming club dates listed on soundcheck as of Sun, 19 Jul 2026, next at Floyd, Miami on Fri, 24 Jul 2026.
+Jordan Brando is a House and Tech House artist with 5 upcoming club dates listed on soundcheck as of Mon, 20 Jul 2026, next at Floyd, Miami on Fri, 24 Jul 2026.
 
 Jordan Brando is a house and tech house artist tracked on soundcheck, with 36 sets logged across Amsterdam, Auckland, Australiancapitalterritory and Brisbane and 10 more. Often billed alongside Luke Alessi, William Kiss and Luuk van Dijk. Next up: Floyd, Miami on Fri 24 Jul.
 
@@ -29,4 +29,4 @@ Jordan Brando is a house and tech house artist tracked on soundcheck, with 36 se
 
 Luke Alessi, William Kiss, Luuk van Dijk
 
-*Updated Sun, 19 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/jordanbrando/)*
+*Updated Mon, 20 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/jordanbrando/)*

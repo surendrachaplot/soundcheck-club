@@ -1,14 +1,13 @@
 # Alarico
 
-Alarico is a Techno and House artist with 25 upcoming club dates listed on soundcheck as of Sun, 19 Jul 2026, next at Radius, Chicago on Sun, 19 Jul 2026.
+Alarico is a Techno and House artist with 24 upcoming club dates listed on soundcheck as of Mon, 20 Jul 2026, next at Amnesia Ibiza, Ibiza on Tue, 21 Jul 2026.
 
-Alarico is a techno and house artist tracked on soundcheck, with 258 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 68 more. Often billed alongside Chlär, Funk Assault and Yanamaste. Next up: Radius, Chicago on Sun 19 Jul.
+Alarico is a techno and house artist tracked on soundcheck, with 258 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 68 more. Often billed alongside Chlär, Funk Assault and Yanamaste. Next up: Amnesia Ibiza, Ibiza on Tue 21 Jul.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sun, 19 Jul 2026 | Radius | Chicago |
 | Tue, 21 Jul 2026 | Amnesia Ibiza | Ibiza |
 | Fri, 24 Jul 2026 | Grelle Forelle | Vienna |
 | Thu, 30 Jul 2026 | TRANSMISSION DC | Washington DC |
@@ -20,9 +19,11 @@ Alarico is a techno and house artist tracked on soundcheck, with 258 sets logged
 | Fri, 14 Aug 2026 | Parc des Etangs/Vijverspark | Brussels |
 | Tue, 18 Aug 2026 | Amnesia Ibiza | Ibiza |
 | Sun, 23 Aug 2026 | FOLD | London |
+| Tue, 25 Aug 2026 | Amnesia Ibiza | Ibiza |
 
 ## Recently played
 
+- Radius, Chicago — Sun, 19 Jul 2026
 - MS Artville, Hamburg — Sat, 18 Jul 2026
 - Amnesia Ibiza, Ibiza — Sun, 12 Jul 2026
 - Fvtvr, Paris — Sat, 4 Jul 2026
@@ -30,10 +31,9 @@ Alarico is a techno and house artist tracked on soundcheck, with 258 sets logged
 - RADION, Amsterdam — Sat, 27 Jun 2026
 - Forte Antenne, Rome — Fri, 26 Jun 2026
 - Barraca, Valencia — Tue, 23 Jun 2026
-- The Bassement, Madrid — Sat, 20 Jun 2026
 
 ## Shares bills with
 
 Chlär, Funk Assault, Yanamaste
 
-*Updated Sun, 19 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/alarico/)*
+*Updated Mon, 20 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/alarico/)*

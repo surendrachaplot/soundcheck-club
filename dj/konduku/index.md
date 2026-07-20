@@ -1,6 +1,6 @@
 # Konduku
 
-Konduku is a Techno and House artist with 6 upcoming club dates listed on soundcheck as of Sun, 19 Jul 2026, next at Amsterdamse Bos, Amsterdam on Wed, 29 Jul 2026.
+Konduku is a Techno and House artist with 6 upcoming club dates listed on soundcheck as of Mon, 20 Jul 2026, next at Amsterdamse Bos, Amsterdam on Wed, 29 Jul 2026.
 
 Konduku is a techno and house artist tracked on soundcheck, with 161 sets logged across Amsterdam, Antwerp, Athens and Bangkok and 37 more. Often billed alongside Kia (AU), Woody92 and DJ Nobu. Next up: Amsterdamse Bos, Amsterdam on Wed 29 Jul.
 
@@ -30,4 +30,4 @@ Konduku is a techno and house artist tracked on soundcheck, with 161 sets logged
 
 Kia (AU), Woody92, DJ Nobu
 
-*Updated Sun, 19 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/konduku/)*
+*Updated Mon, 20 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/konduku/)*

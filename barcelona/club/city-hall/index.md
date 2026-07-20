@@ -1,6 +1,6 @@
 # City Hall
 
-City Hall is a music venue in Barcelona with 17 upcoming nights listed on soundcheck as of Sun, 19 Jul 2026; the next is "City Hall pres. MONDAY SHOT || REGGAETON OLD SCHOOL l Guest List" on Mon, 20 Jul 2026.
+City Hall is a music venue in Barcelona with 17 upcoming nights listed on soundcheck as of Mon, 20 Jul 2026; the next is "City Hall pres. MONDAY SHOT || REGGAETON OLD SCHOOL l Guest List" on Mon, 20 Jul 2026.
 
 City Hall is a music venue in Barcelona listed on soundcheck. 17 upcoming nights, with line-ups including Agustina Aliaga, ALMOST HUMAN, Benja Millan and BRU ON and 2 more. Browse upcoming dates, start times and who's playing. Rambla de Catalunya, 4; 08007 Barcelona; Spain.
 
@@ -23,4 +23,4 @@ City Hall is a music venue in Barcelona listed on soundcheck. 17 upcoming nights
 
 Rambla de Catalunya, 4; 08007 Barcelona; Spain, Barcelona
 
-*Updated Sun, 19 Jul 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/city-hall/)*
+*Updated Mon, 20 Jul 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/city-hall/)*

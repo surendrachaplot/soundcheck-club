@@ -1,6 +1,6 @@
 # Lady Vusumzi
 
-Lady Vusumzi is a Acid and Techno artist with 4 upcoming club dates listed on soundcheck as of Sun, 19 Jul 2026, next at TBA - Club 1847 1 Edward Anseeleplein 9000 Gent, Ghent on Tue, 21 Jul 2026.
+Lady Vusumzi is a Acid and Techno artist with 4 upcoming club dates listed on soundcheck as of Mon, 20 Jul 2026, next at TBA - Club 1847 1 Edward Anseeleplein 9000 Gent, Ghent on Tue, 21 Jul 2026.
 
 Lady Vusumzi is an acid and techno artist based in South Africa, tracked on soundcheck, with 13 sets logged across Bangkok, Cologne, Frankfurt and Ghent and 4 more. Often billed alongside Raketka, Bolster and Egebamyasi. Next up: TBA - Club 1847 1 Edward Anseeleplein 9000 Gent, Ghent on Tue 21 Jul.
 
@@ -28,4 +28,4 @@ Lady Vusumzi is an acid and techno artist based in South Africa, tracked on soun
 
 Raketka, Bolster, Egebamyasi
 
-*Updated Sun, 19 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/ladyvusumzi/)*
+*Updated Mon, 20 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/ladyvusumzi/)*

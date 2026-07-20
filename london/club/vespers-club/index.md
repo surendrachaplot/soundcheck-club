@@ -1,6 +1,6 @@
 # Vespers Club
 
-Vespers Club is a music venue in London with 12 upcoming nights listed on soundcheck as of Sun, 19 Jul 2026; the next is "Funky Adjacent 4th Birthday: Nadī, KTM, sonny makepeace" on Fri, 24 Jul 2026.
+Vespers Club is a music venue in London with 12 upcoming nights listed on soundcheck as of Mon, 20 Jul 2026; the next is "Funky Adjacent 4th Birthday: Nadī, KTM, sonny makepeace" on Fri, 24 Jul 2026.
 
 Vespers Club is a music venue in London listed on soundcheck. 12 upcoming nights, with line-ups including AAKAARA, Asphodèle, Bby Eco and Berwick (Live) and 2 more. Browse upcoming dates, start times and who's playing. 133A Rye Lane, London, SE15 4BQ, UK.
 
@@ -23,4 +23,4 @@ Vespers Club is a music venue in London listed on soundcheck. 12 upcoming nights
 
 133A Rye Lane, London, SE15 4BQ, UK, London
 
-*Updated Sun, 19 Jul 2026 · source: [soundcheck](https://soundcheck.club/london/club/vespers-club/)*
+*Updated Mon, 20 Jul 2026 · source: [soundcheck](https://soundcheck.club/london/club/vespers-club/)*

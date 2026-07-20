@@ -1,6 +1,6 @@
 # BIXBITA
 
-BIXBITA is a Techno and Trance artist with 2 upcoming club dates listed on soundcheck as of Sun, 19 Jul 2026, next at RSO.BERLIN, Berlin on Sat, 1 Aug 2026.
+BIXBITA is a Techno and Trance artist with 2 upcoming club dates listed on soundcheck as of Mon, 20 Jul 2026, next at RSO.BERLIN, Berlin on Sat, 1 Aug 2026.
 
 BIXBITA is a techno and trance artist tracked on soundcheck, with 70 sets logged across Barcelona, Berlin, Budapest and Cologne and 11 more. Often billed alongside Zomkrad, Juan Cernadas and Krash Cora. Next up: RSO.BERLIN, Berlin on Sat 1 Aug.
 
@@ -26,4 +26,4 @@ BIXBITA is a techno and trance artist tracked on soundcheck, with 70 sets logged
 
 Zomkrad, Juan Cernadas, Krash Cora
 
-*Updated Sun, 19 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/bixbita/)*
+*Updated Mon, 20 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/bixbita/)*

@@ -1,6 +1,6 @@
 # Bruna N.
 
-Bruna N. is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Sun, 19 Jul 2026, next at Café Schöne Aussichten (CSA), Hamburg on Sat, 25 Jul 2026.
+Bruna N. is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Mon, 20 Jul 2026, next at Café Schöne Aussichten (CSA), Hamburg on Sat, 25 Jul 2026.
 
 Bruna N. is a house and techno artist based in Germany, tracked on soundcheck, with 27 sets logged across Berlin, Hamburg and Leipzig. Often billed alongside Daisy Weweh, Anton Jonathan and Jean Mauj. Next up: Café Schöne Aussichten (CSA), Hamburg on Sat 25 Jul.
 
@@ -26,4 +26,4 @@ Bruna N. is a house and techno artist based in Germany, tracked on soundcheck, w
 
 Daisy Weweh, Anton Jonathan, Jean Mauj
 
-*Updated Sun, 19 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/brunan/)*
+*Updated Mon, 20 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/brunan/)*

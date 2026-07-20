@@ -1,6 +1,6 @@
 # Jeremy Reinhard
 
-Jeremy Reinhard is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Sun, 19 Jul 2026, next at Neulich am Flughafen, Berlin on Sun, 26 Jul 2026.
+Jeremy Reinhard is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Mon, 20 Jul 2026, next at Neulich am Flughafen, Berlin on Sun, 26 Jul 2026.
 
 Jeremy Reinhard is a house and techno artist based in Germany, tracked on soundcheck, with 31 sets logged across Barcelona, Berlin, Cologne and Dusseldorf and 2 more. Often billed alongside Eszter, Marc Brauner and Freydel. Next up: Neulich am Flughafen, Berlin on Sun 26 Jul.
 
@@ -26,4 +26,4 @@ Jeremy Reinhard is a house and techno artist based in Germany, tracked on soundc
 
 Eszter, Marc Brauner, Freydel
 
-*Updated Sun, 19 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/jeremyreinhard/)*
+*Updated Mon, 20 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/jeremyreinhard/)*

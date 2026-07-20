@@ -1,6 +1,6 @@
 # Rossi
 
-Rossi is a House and Tech House artist with 14 upcoming club dates listed on soundcheck as of Sun, 19 Jul 2026, next at Flevopark, Amsterdam on Sat, 25 Jul 2026.
+Rossi is a House and Tech House artist with 14 upcoming club dates listed on soundcheck as of Mon, 20 Jul 2026, next at Flevopark, Amsterdam on Sat, 25 Jul 2026.
 
 Rossi is a house and tech house artist tracked on soundcheck, with 224 sets logged across Amsterdam, Auckland, Austin and Barcelona and 48 more. Often billed alongside Josh Baker, Enzo Siragusa and Jamie Jones. Next up: Flevopark, Amsterdam on Sat 25 Jul.
 
@@ -36,4 +36,4 @@ Rossi is a house and tech house artist tracked on soundcheck, with 224 sets logg
 
 Josh Baker, Enzo Siragusa, Jamie Jones
 
-*Updated Sun, 19 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/rossi/)*
+*Updated Mon, 20 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/rossi/)*

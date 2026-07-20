@@ -1,6 +1,6 @@
 # La Nau
 
-La Nau is a music venue in Barcelona with 4 upcoming nights listed on soundcheck as of Sun, 19 Jul 2026; the next is "Organikka SPECIALS: SYSTEMA SOLAR" on Sun, 9 Aug 2026.
+La Nau is a music venue in Barcelona with 4 upcoming nights listed on soundcheck as of Mon, 20 Jul 2026; the next is "Organikka SPECIALS: SYSTEMA SOLAR" on Sun, 9 Aug 2026.
 
 La Nau is a music venue in Barcelona listed on soundcheck. 4 upcoming nights, with line-ups including Marika. Browse upcoming dates, start times and who's playing. Carrer d'Àlaba, 30, 08005 Barcelona.
 
@@ -17,4 +17,4 @@ La Nau is a music venue in Barcelona listed on soundcheck. 4 upcoming nights, wi
 
 Carrer d'Àlaba, 30, 08005 Barcelona, Barcelona
 
-*Updated Sun, 19 Jul 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/la-nau/)*
+*Updated Mon, 20 Jul 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/la-nau/)*

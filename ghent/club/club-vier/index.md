@@ -1,6 +1,6 @@
 # Club Vier
 
-Club Vier is a music venue in Ghent with 1 upcoming night listed on soundcheck as of Sun, 19 Jul 2026; the next is "RADIATION: Gentse Feesten" on Sun, 26 Jul 2026.
+Club Vier is a music venue in Ghent with 1 upcoming night listed on soundcheck as of Mon, 20 Jul 2026; the next is "RADIATION: Gentse Feesten" on Sun, 26 Jul 2026.
 
 Club Vier is a music venue in Ghent listed on soundcheck. 1 upcoming night. Browse upcoming dates, start times and who's playing. Oude Beestenmarkt 4b, 9000 Gent, Belgique.
 
@@ -14,4 +14,4 @@ Club Vier is a music venue in Ghent listed on soundcheck. 1 upcoming night. Brow
 
 Oude Beestenmarkt 4b, 9000 Gent, Belgique, Ghent
 
-*Updated Sun, 19 Jul 2026 · source: [soundcheck](https://soundcheck.club/ghent/club/club-vier/)*
+*Updated Mon, 20 Jul 2026 · source: [soundcheck](https://soundcheck.club/ghent/club/club-vier/)*

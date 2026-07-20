@@ -1,6 +1,6 @@
 # Nandu
 
-Nandu is a Deep House and House artist with 4 upcoming club dates listed on soundcheck as of Sun, 19 Jul 2026, next at Fridas Pier, Stuttgart on Sun, 26 Jul 2026.
+Nandu is a Deep House and House artist with 4 upcoming club dates listed on soundcheck as of Mon, 20 Jul 2026, next at Fridas Pier, Stuttgart on Sun, 26 Jul 2026.
 
 Nandu is a deep house and house artist based in Denmark, tracked on soundcheck, with 97 sets logged across Amsterdam, Athens, Barcelona and Brussels and 33 more. Often billed alongside Ivory, Yet More and Bedouin. Next up: Fridas Pier, Stuttgart on Sun 26 Jul.
 
@@ -28,4 +28,4 @@ Nandu is a deep house and house artist based in Denmark, tracked on soundcheck, 
 
 Ivory, Yet More, Bedouin
 
-*Updated Sun, 19 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/nandu/)*
+*Updated Mon, 20 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/nandu/)*

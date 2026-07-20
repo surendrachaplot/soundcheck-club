@@ -1,17 +1,18 @@
 # Hackney Downs Studios
 
-Hackney Downs Studios is a music venue in London with 1 upcoming night listed on soundcheck as of Sun, 19 Jul 2026; the next is "Subtle Futures DJ Workshop" on Wed, 22 Jul 2026.
+Hackney Downs Studios is a music venue in London with 2 upcoming nights listed on soundcheck as of Mon, 20 Jul 2026; the next is "Subtle Futures DJ Workshop" on Wed, 22 Jul 2026.
 
-Hackney Downs Studios is a music venue in London listed on soundcheck. 1 upcoming night. Browse upcoming dates, start times and who's playing. 17 Amhurst Terrace, Lower Clapton, London E8 2BT.
+Hackney Downs Studios is a music venue in London listed on soundcheck. 2 upcoming nights. Browse upcoming dates, start times and who's playing. 17 Amhurst Terrace, Lower Clapton, London E8 2BT.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
 | Wed, 22 Jul 2026 | Subtle Futures DJ Workshop |  |
+| Sat, 1 Aug 2026 | 10 years of Subtle Radio: HDS Courtyard Takeover |  |
 
 ## Address
 
 17 Amhurst Terrace, Lower Clapton, London E8 2BT, London
 
-*Updated Sun, 19 Jul 2026 · source: [soundcheck](https://soundcheck.club/london/club/hackney-downs-studios/)*
+*Updated Mon, 20 Jul 2026 · source: [soundcheck](https://soundcheck.club/london/club/hackney-downs-studios/)*

@@ -1,6 +1,6 @@
 # Phonox
 
-Phonox is a music venue in London with 28 upcoming nights listed on soundcheck as of Sun, 19 Jul 2026; the next is "Wiley (In The Round)" on Thu, 23 Jul 2026.
+Phonox is a music venue in London with 28 upcoming nights listed on soundcheck as of Mon, 20 Jul 2026; the next is "Wiley (In The Round)" on Thu, 23 Jul 2026.
 
 Phonox is a music venue in London listed on soundcheck. 28 upcoming nights, with line-ups including Abby Daze, Alan Fitzpatrick, Alba Heidari and A LOVE FROM OUTER SPACE and 2 more. Browse upcoming dates, start times and who's playing. 418 Brixton Road Brixton London SW9 7AY.
 
@@ -23,4 +23,4 @@ Phonox is a music venue in London listed on soundcheck. 28 upcoming nights, with
 
 418 Brixton Road Brixton London SW9 7AY, London
 
-*Updated Sun, 19 Jul 2026 · source: [soundcheck](https://soundcheck.club/london/club/phonox/)*
+*Updated Mon, 20 Jul 2026 · source: [soundcheck](https://soundcheck.club/london/club/phonox/)*

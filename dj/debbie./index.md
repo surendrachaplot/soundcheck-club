@@ -1,6 +1,6 @@
 # Debbie.
 
-Debbie. is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Sun, 19 Jul 2026, next at Distillery N17, London on Fri, 31 Jul 2026.
+Debbie. is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Mon, 20 Jul 2026, next at Distillery N17, London on Fri, 31 Jul 2026.
 
 Debbie. is a techno and house artist based in United Kingdom, tracked on soundcheck, with 23 sets logged across Amsterdam, Berlin and London. Often billed alongside Bessie-Mae, DJ OT and Mosai. Next up: Distillery N17, London on Fri 31 Jul.
 
@@ -26,4 +26,4 @@ Debbie. is a techno and house artist based in United Kingdom, tracked on soundch
 
 Bessie-Mae, DJ OT, Mosai
 
-*Updated Sun, 19 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/debbie./)*
+*Updated Mon, 20 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/debbie./)*

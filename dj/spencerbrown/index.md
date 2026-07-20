@@ -1,6 +1,6 @@
 # Spencer Brown
 
-Spencer Brown is a Progressive House and House artist with 3 upcoming club dates listed on soundcheck as of Sun, 19 Jul 2026, next at Stereo, Montreal on Sat, 25 Jul 2026.
+Spencer Brown is a Progressive House and House artist with 3 upcoming club dates listed on soundcheck as of Mon, 20 Jul 2026, next at Stereo, Montreal on Sat, 25 Jul 2026.
 
 Spencer Brown is a progressive house and house artist tracked on soundcheck, with 81 sets logged across Austin, Berlin, Boston and Brighton and 24 more. Often billed alongside Qrion, John Digweed and Late Night Shri. Next up: Stereo, Montreal on Sat 25 Jul.
 
@@ -27,4 +27,4 @@ Spencer Brown is a progressive house and house artist tracked on soundcheck, wit
 
 Qrion, John Digweed, Late Night Shri
 
-*Updated Sun, 19 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/spencerbrown/)*
+*Updated Mon, 20 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/spencerbrown/)*

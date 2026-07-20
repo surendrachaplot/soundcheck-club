@@ -1,6 +1,6 @@
 # Low Steppa
 
-Low Steppa is a House and Tech House artist with 3 upcoming club dates listed on soundcheck as of Sun, 19 Jul 2026, next at Savaya Bali, Bali on Fri, 21 Aug 2026.
+Low Steppa is a House and Tech House artist with 3 upcoming club dates listed on soundcheck as of Mon, 20 Jul 2026, next at Savaya Bali, Bali on Fri, 21 Aug 2026.
 
 Low Steppa is a house and tech house artist based in United Kingdom, tracked on soundcheck, with 77 sets logged across Amsterdam, Bali, Brisbane and Bristol and 22 more. Often billed alongside Sam Divine, Arielle Free and Hannah Wants. Next up: Savaya Bali, Bali on Fri 21 Aug.
 
@@ -27,4 +27,4 @@ Low Steppa is a house and tech house artist based in United Kingdom, tracked on 
 
 Sam Divine, Arielle Free, Hannah Wants
 
-*Updated Sun, 19 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/lowsteppa-uk/)*
+*Updated Mon, 20 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/lowsteppa-uk/)*

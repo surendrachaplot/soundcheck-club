@@ -1,6 +1,6 @@
 # Harry Shotta
 
-Harry Shotta is a Drum & Bass and Jungle artist with 3 upcoming club dates listed on soundcheck as of Sun, 19 Jul 2026, next at Brixton Jamm, London on Sat, 1 Aug 2026.
+Harry Shotta is a Drum & Bass and Jungle artist with 3 upcoming club dates listed on soundcheck as of Mon, 20 Jul 2026, next at Brixton Jamm, London on Sat, 1 Aug 2026.
 
 Harry Shotta is a drum & bass and jungle artist tracked on soundcheck, with 47 sets logged across Amsterdam, Birmingham, Brighton and Bristol and 4 more. Often billed alongside IC3, Eksman and Logan D. Next up: Brixton Jamm, London on Sat 1 Aug.
 
@@ -27,4 +27,4 @@ Harry Shotta is a drum & bass and jungle artist tracked on soundcheck, with 47 s
 
 IC3, Eksman, Logan D
 
-*Updated Sun, 19 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/harryshotta/)*
+*Updated Mon, 20 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/harryshotta/)*

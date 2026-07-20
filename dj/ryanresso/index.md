@@ -1,6 +1,6 @@
 # Ryan Resso
 
-Ryan Resso is a House and Tech House artist with 3 upcoming club dates listed on soundcheck as of Sun, 19 Jul 2026, next at Hï Ibiza, Ibiza on Tue, 28 Jul 2026.
+Ryan Resso is a House and Tech House artist with 3 upcoming club dates listed on soundcheck as of Mon, 20 Jul 2026, next at Hï Ibiza, Ibiza on Tue, 28 Jul 2026.
 
 Ryan Resso is a house and tech house artist tracked on soundcheck, with 92 sets logged across Amsterdam, Barcelona, Birmingham and Brighton and 13 more. Often billed alongside Chopper (UK), Stef Davidse and FINKY. Next up: Hï Ibiza, Ibiza on Tue 28 Jul.
 
@@ -27,4 +27,4 @@ Ryan Resso is a house and tech house artist tracked on soundcheck, with 92 sets 
 
 Chopper (UK), Stef Davidse, FINKY
 
-*Updated Sun, 19 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/ryanresso/)*
+*Updated Mon, 20 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/ryanresso/)*

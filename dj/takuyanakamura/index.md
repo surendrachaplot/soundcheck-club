@@ -1,6 +1,6 @@
 # Takuya Nakamura
 
-Takuya Nakamura is a Jungle and Jazz artist with 10 upcoming club dates listed on soundcheck as of Sun, 19 Jul 2026, next at Tresor / Globus, Berlin on Wed, 29 Jul 2026.
+Takuya Nakamura is a Jungle and Jazz artist with 10 upcoming club dates listed on soundcheck as of Mon, 20 Jul 2026, next at Tresor / Globus, Berlin on Wed, 29 Jul 2026.
 
 Takuya Nakamura is a jungle and jazz artist tracked on soundcheck, with 98 sets logged across Amsterdam, Austin, Bangkok and Barcelona and 38 more. Often billed alongside rmzi, Doc Scott and Doula. Next up: Tresor / Globus, Berlin on Wed 29 Jul.
 
@@ -34,4 +34,4 @@ Takuya Nakamura is a jungle and jazz artist tracked on soundcheck, with 98 sets 
 
 rmzi, Doc Scott, Doula
 
-*Updated Sun, 19 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/takuyanakamura/)*
+*Updated Mon, 20 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/takuyanakamura/)*

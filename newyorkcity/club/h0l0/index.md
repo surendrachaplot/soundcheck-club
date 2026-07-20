@@ -1,6 +1,6 @@
 # H0L0
 
-H0L0 is a music venue in New York City with 8 upcoming nights listed on soundcheck as of Sun, 19 Jul 2026; the next is "Binary Shift" on Thu, 23 Jul 2026.
+H0L0 is a music venue in New York City with 8 upcoming nights listed on soundcheck as of Mon, 20 Jul 2026; the next is "Binary Shift" on Thu, 23 Jul 2026.
 
 H0L0 is a music venue in Newyorkcity listed on soundcheck. 8 upcoming nights, with line-ups including Adam R, AG (1), Amelia Holt and BABEITSPURR and 2 more. Browse upcoming dates, start times and who's playing. 1090 Wyckoff Ave, Queens, NY 11385, United States.
 
@@ -21,4 +21,4 @@ H0L0 is a music venue in Newyorkcity listed on soundcheck. 8 upcoming nights, wi
 
 1090 Wyckoff Ave, Queens, NY 11385, United States, New York City
 
-*Updated Sun, 19 Jul 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/h0l0/)*
+*Updated Mon, 20 Jul 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/h0l0/)*

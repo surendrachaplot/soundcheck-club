@@ -1,6 +1,6 @@
 # Gerardo Niva
 
-Gerardo Niva is a electronic artist with 15 upcoming club dates listed on soundcheck as of Sun, 19 Jul 2026, next at Mondo, Madrid on Thu, 23 Jul 2026.
+Gerardo Niva is a electronic artist with 15 upcoming club dates listed on soundcheck as of Mon, 20 Jul 2026, next at Mondo, Madrid on Thu, 23 Jul 2026.
 
 Gerardo Niva is an electronic artist tracked on soundcheck, with 225 sets logged across Madrid. Often billed alongside Alba Franch, doccudder and Bad Boombox. Next up: Mondo, Madrid on Thu 23 Jul.
 
@@ -36,4 +36,4 @@ Gerardo Niva is an electronic artist tracked on soundcheck, with 225 sets logged
 
 Alba Franch, doccudder, Bad Boombox
 
-*Updated Sun, 19 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/gerardoniva/)*
+*Updated Mon, 20 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/gerardoniva/)*

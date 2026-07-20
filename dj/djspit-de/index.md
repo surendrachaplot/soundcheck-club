@@ -1,6 +1,6 @@
 # DJ Spit
 
-DJ Spit is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Sun, 19 Jul 2026, next at Fort Vechten, Utrecht on Sat, 25 Jul 2026.
+DJ Spit is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Mon, 20 Jul 2026, next at Fort Vechten, Utrecht on Sat, 25 Jul 2026.
 
 DJ Spit is a techno and house artist tracked on soundcheck, with 142 sets logged across Amsterdam, Athens, Barcelona and Basel and 34 more. Often billed alongside DJ MELL G, DJ Babyblade and EliaHaze. Next up: Fort Vechten, Utrecht on Sat 25 Jul.
 
@@ -27,4 +27,4 @@ DJ Spit is a techno and house artist tracked on soundcheck, with 142 sets logged
 
 DJ MELL G, DJ Babyblade, EliaHaze
 
-*Updated Sun, 19 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/djspit-de/)*
+*Updated Mon, 20 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/djspit-de/)*

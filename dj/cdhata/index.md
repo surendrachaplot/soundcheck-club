@@ -1,6 +1,6 @@
 # CD HATA
 
-CD HATA is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Sun, 19 Jul 2026, next at MEIMEI, Tokyo on Sat, 25 Jul 2026.
+CD HATA is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Mon, 20 Jul 2026, next at MEIMEI, Tokyo on Sat, 25 Jul 2026.
 
 CD HATA is a techno and house artist tracked on soundcheck, with 29 sets logged across Tokyo. Often billed alongside Koyas, Hackmarkt and SAKURA TSURUTA. Next up: MEIMEI, Tokyo on Sat 25 Jul.
 
@@ -26,4 +26,4 @@ CD HATA is a techno and house artist tracked on soundcheck, with 29 sets logged 
 
 Koyas, Hackmarkt, SAKURA TSURUTA
 
-*Updated Sun, 19 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/cdhata/)*
+*Updated Mon, 20 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/cdhata/)*

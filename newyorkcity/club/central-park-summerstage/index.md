@@ -1,6 +1,6 @@
 # Central Park SummerStage
 
-Central Park SummerStage is a music venue in New York City with 1 upcoming night listed on soundcheck as of Sun, 19 Jul 2026; the next is "Maccabi House New York - Central Park" on Sat, 25 Jul 2026.
+Central Park SummerStage is a music venue in New York City with 1 upcoming night listed on soundcheck as of Mon, 20 Jul 2026; the next is "Maccabi House New York - Central Park" on Sat, 25 Jul 2026.
 
 Central Park SummerStage is a music venue in Newyorkcity listed on soundcheck. 1 upcoming night, with line-ups including Adam Ten, Malive and Mita Gami. Browse upcoming dates, start times and who's playing. 830 Fifth Avenue; New York, NY 10065; United States.
 
@@ -14,4 +14,4 @@ Central Park SummerStage is a music venue in Newyorkcity listed on soundcheck. 1
 
 830 Fifth Avenue; New York, NY 10065; United States, New York City
 
-*Updated Sun, 19 Jul 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/central-park-summerstage/)*
+*Updated Mon, 20 Jul 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/central-park-summerstage/)*

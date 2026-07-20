@@ -1,6 +1,6 @@
 # ESTRELLA
 
-ESTRELLA is a House and Tech House artist with 2 upcoming club dates listed on soundcheck as of Sun, 19 Jul 2026, next at Café Katoen, Amsterdam on Thu, 23 Jul 2026.
+ESTRELLA is a House and Tech House artist with 2 upcoming club dates listed on soundcheck as of Mon, 20 Jul 2026, next at Café Katoen, Amsterdam on Thu, 23 Jul 2026.
 
 ESTRELLA is a house and tech house artist tracked on soundcheck, with 31 sets logged across Amsterdam, Berlin, Rotterdam and Sanfrancisco and 1 more. Often billed alongside Merel Helderman, Portente and nik-ey. Next up: Café Katoen, Amsterdam on Thu 23 Jul.
 
@@ -26,4 +26,4 @@ ESTRELLA is a house and tech house artist tracked on soundcheck, with 31 sets lo
 
 Merel Helderman, Portente, nik-ey
 
-*Updated Sun, 19 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/estrella-2/)*
+*Updated Mon, 20 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/estrella-2/)*

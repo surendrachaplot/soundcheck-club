@@ -1,6 +1,6 @@
 # Schlachthof Wiesbaden
 
-Schlachthof Wiesbaden is a music venue in Frankfurt with 2 upcoming nights listed on soundcheck as of Sun, 19 Jul 2026; the next is "OVERPOWERED FESTIVAL" on Sat, 29 Aug 2026.
+Schlachthof Wiesbaden is a music venue in Frankfurt with 2 upcoming nights listed on soundcheck as of Mon, 20 Jul 2026; the next is "OVERPOWERED FESTIVAL" on Sat, 29 Aug 2026.
 
 Schlachthof Wiesbaden is a music venue in Frankfurt listed on soundcheck. 2 upcoming nights, with line-ups including Anuuk, DJ Achim Feuervogel, DJ DRECKISCH and DJ SPORTSCHUH and 2 more. Browse upcoming dates, start times and who's playing. Murnaustraße 1, 65189 Wiesbaden.
 
@@ -15,4 +15,4 @@ Schlachthof Wiesbaden is a music venue in Frankfurt listed on soundcheck. 2 upco
 
 Murnaustraße 1, 65189 Wiesbaden, Frankfurt
 
-*Updated Sun, 19 Jul 2026 · source: [soundcheck](https://soundcheck.club/frankfurt/club/schlachthof-wiesbaden/)*
+*Updated Mon, 20 Jul 2026 · source: [soundcheck](https://soundcheck.club/frankfurt/club/schlachthof-wiesbaden/)*

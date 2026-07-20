@@ -1,14 +1,13 @@
 # Holocene
 
-Holocene is a music venue in Portland with 5 upcoming nights listed on soundcheck as of Sun, 19 Jul 2026; the next is "Chai & Roses Pride Party" on Sun, 19 Jul 2026.
+Holocene is a music venue in Portland with 4 upcoming nights listed on soundcheck as of Mon, 20 Jul 2026; the next is "POP OFF! - LGBTQ+ POP & EDM THROWBACKS PARTY" on Fri, 24 Jul 2026.
 
-Holocene is a music venue in Portland listed on soundcheck. 5 upcoming nights, with line-ups including Ben Tactic, Degs, Black Daria and Hommes and 2 more. Browse upcoming dates, start times and who's playing. 1001 SE Morrison; Portland, OR 97214; United States.
+Holocene is a music venue in Portland listed on soundcheck. 4 upcoming nights, with line-ups including Ben Tactic, Degs, Hommes and Jon AD and 2 more. Browse upcoming dates, start times and who's playing. 1001 SE Morrison; Portland, OR 97214; United States.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Sun, 19 Jul 2026 | Chai & Roses Pride Party | Black Daria |
 | Fri, 24 Jul 2026 | POP OFF! - LGBTQ+ POP & EDM THROWBACKS PARTY |  |
 | Sat, 1 Aug 2026 | Global Based PRESENTS: MCR-T (Berlin) | Hommes, MCR-T |
 | Sat, 8 Aug 2026 | Portland Loves UK Garage | Ben Tactic, Jon AD |
@@ -18,4 +17,4 @@ Holocene is a music venue in Portland listed on soundcheck. 5 upcoming nights, w
 
 1001 SE Morrison; Portland, OR 97214; United States, Portland
 
-*Updated Sun, 19 Jul 2026 · source: [soundcheck](https://soundcheck.club/portland/club/holocene/)*
+*Updated Mon, 20 Jul 2026 · source: [soundcheck](https://soundcheck.club/portland/club/holocene/)*

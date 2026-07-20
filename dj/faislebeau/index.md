@@ -1,6 +1,6 @@
 # Fais Le Beau
 
-Fais Le Beau is a House and Techno artist with 5 upcoming club dates listed on soundcheck as of Sun, 19 Jul 2026, next at La Station - Gare des Mines, Paris on Fri, 24 Jul 2026.
+Fais Le Beau is a House and Techno artist with 5 upcoming club dates listed on soundcheck as of Mon, 20 Jul 2026, next at La Station - Gare des Mines, Paris on Fri, 24 Jul 2026.
 
 Fais Le Beau is a house and techno artist tracked on soundcheck, with 133 sets logged across Amsterdam, Antwerp, Berlin and Brussels and 15 more. Often billed alongside Sixsixsixties, Dana Kuehr and Melissa Juice. Next up: La Station - Gare des Mines, Paris on Fri 24 Jul.
 
@@ -29,4 +29,4 @@ Fais Le Beau is a house and techno artist tracked on soundcheck, with 133 sets l
 
 Sixsixsixties, Dana Kuehr, Melissa Juice
 
-*Updated Sun, 19 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/faislebeau/)*
+*Updated Mon, 20 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/faislebeau/)*

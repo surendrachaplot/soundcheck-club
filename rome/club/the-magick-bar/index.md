@@ -1,6 +1,6 @@
 # THE MAGICK BAR
 
-THE MAGICK BAR is a music venue in Rome with 12 upcoming nights listed on soundcheck as of Sun, 19 Jul 2026; the next is "Jungle at Magick Bar w/ Mirko Felicioli" on Tue, 21 Jul 2026.
+THE MAGICK BAR is a music venue in Rome with 12 upcoming nights listed on soundcheck as of Mon, 20 Jul 2026; the next is "Jungle at Magick Bar w/ Mirko Felicioli" on Tue, 21 Jul 2026.
 
 THE MAGICK BAR is a music venue in Rome listed on soundcheck. 12 upcoming nights, with line-ups including Binh, DJ Red, Donato Dozzy and Franzoh and 2 more. Browse upcoming dates, start times and who's playing. Via Lungotevere Oberdan, 2 Rome, Italy 00195.
 
@@ -23,4 +23,4 @@ THE MAGICK BAR is a music venue in Rome listed on soundcheck. 12 upcoming nights
 
 Via Lungotevere Oberdan, 2 Rome, Italy 00195, Rome
 
-*Updated Sun, 19 Jul 2026 · source: [soundcheck](https://soundcheck.club/rome/club/the-magick-bar/)*
+*Updated Mon, 20 Jul 2026 · source: [soundcheck](https://soundcheck.club/rome/club/the-magick-bar/)*

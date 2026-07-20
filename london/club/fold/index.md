@@ -1,14 +1,13 @@
 # FOLD
 
-FOLD is a music venue in London with 26 upcoming nights listed on soundcheck as of Sun, 19 Jul 2026; the next is "UNFOLD CXXVII" on Sun, 19 Jul 2026.
+FOLD is a music venue in London with 25 upcoming nights listed on soundcheck as of Mon, 20 Jul 2026; the next is "Origins: MARRØN, Prance & Gloria Rose" on Sat, 25 Jul 2026.
 
-FOLD is a music venue in London listed on soundcheck. 26 upcoming nights, with line-ups including Alarico, Alba Heidari, Alien Communications and Andrew James Gustav and 2 more. Browse upcoming dates, start times and who's playing. Gillian House, Stephenson St, London E16 4SA, UK.
+FOLD is a music venue in London listed on soundcheck. 25 upcoming nights, with line-ups including Alarico, Alba Heidari, Alien Communications and Andrew James Gustav and 2 more. Browse upcoming dates, start times and who's playing. Gillian House, Stephenson St, London E16 4SA, UK.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Sun, 19 Jul 2026 | UNFOLD CXXVII |  |
 | Sat, 25 Jul 2026 | Origins: MARRØN, Prance & Gloria Rose | Gloria Rose, MARRØN, Prance |
 | Fri, 31 Jul 2026 | Origins: Ignez, STERAC, Wala & Desireè [Somov Showcase] | Desiree', Ignez, STERAC, Wala |
 | Sun, 2 Aug 2026 | UNFOLD CXXVIII |  |
@@ -18,9 +17,10 @@ FOLD is a music venue in London listed on soundcheck. 26 upcoming nights, with l
 | Fri, 14 Aug 2026 | Origins: Pangaea, Or:la & Pariah  | Or:la, Pangaea, Pariah |
 | Sat, 15 Aug 2026 | Art Of Dark - Summer Heights | Colin Chiddle, DJ Masda, Detroit In Effect, Katya, Matthias (1), Samuel Jabba, mad miran |
 | Sat, 15 Aug 2026 | Probe. Rebloom. Revival. with Peter Van Hoesen, Lynne & JJ b2b Jay Galligan | JJ (Rebloom), Jay Galligan, Lynne, Peter Van Hoesen |
+| Fri, 21 Aug 2026 | Voigtmann + Z@p at FOLD | Voigtmann, Z@p |
 
 ## Address
 
 Gillian House, Stephenson St, London E16 4SA, UK, London
 
-*Updated Sun, 19 Jul 2026 · source: [soundcheck](https://soundcheck.club/london/club/fold/)*
+*Updated Mon, 20 Jul 2026 · source: [soundcheck](https://soundcheck.club/london/club/fold/)*

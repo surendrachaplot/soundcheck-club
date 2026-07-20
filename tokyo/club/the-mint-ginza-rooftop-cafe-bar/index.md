@@ -1,6 +1,6 @@
 # The Mint Ginza | Rooftop Cafe & Bar
 
-The Mint Ginza | Rooftop Cafe & Bar is a music venue in Tokyo with 1 upcoming night listed on soundcheck as of Sun, 19 Jul 2026; the next is "PRDX -Paradox #02-" on Mon, 20 Jul 2026.
+The Mint Ginza | Rooftop Cafe & Bar is a music venue in Tokyo with 1 upcoming night listed on soundcheck as of Mon, 20 Jul 2026; the next is "PRDX -Paradox #02-" on Mon, 20 Jul 2026.
 
 The Mint Ginza | Rooftop Cafe & Bar is a music venue in Tokyo listed on soundcheck. 1 upcoming night, with line-ups including DJ SO, Sapphire Slows and Yo Nishijima. Browse upcoming dates, start times and who's playing. TOKYU PLAZA GINZA Roof Floor 5—2—1. Ginza Chuo-ku Tokyo.
 
@@ -14,4 +14,4 @@ The Mint Ginza | Rooftop Cafe & Bar is a music venue in Tokyo listed on soundche
 
 TOKYU PLAZA GINZA Roof Floor 5—2—1. Ginza Chuo-ku Tokyo, Tokyo
 
-*Updated Sun, 19 Jul 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/the-mint-ginza-rooftop-cafe-bar/)*
+*Updated Mon, 20 Jul 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/the-mint-ginza-rooftop-cafe-bar/)*

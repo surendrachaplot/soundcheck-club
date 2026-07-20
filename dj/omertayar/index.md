@@ -1,6 +1,6 @@
 # Omer Tayar
 
-Omer Tayar is a House and Deep House artist with 3 upcoming club dates listed on soundcheck as of Sun, 19 Jul 2026, next at Akasha Las Dalias Club - Ibiza, Ibiza on Fri, 31 Jul 2026.
+Omer Tayar is a House and Deep House artist with 3 upcoming club dates listed on soundcheck as of Mon, 20 Jul 2026, next at Akasha Las Dalias Club - Ibiza, Ibiza on Fri, 31 Jul 2026.
 
 Omer Tayar is a house and deep house artist tracked on soundcheck, with 43 sets logged across Amsterdam, Barcelona, Berlin and Ibiza and 8 more. Often billed alongside Beard2Beard, Landikhan and Words of Niō. Next up: Akasha Las Dalias Club - Ibiza, Ibiza on Fri 31 Jul.
 
@@ -27,4 +27,4 @@ Omer Tayar is a house and deep house artist tracked on soundcheck, with 43 sets 
 
 Beard2Beard, Landikhan, Words of Niō
 
-*Updated Sun, 19 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/omertayar/)*
+*Updated Mon, 20 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/omertayar/)*

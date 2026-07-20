@@ -1,6 +1,6 @@
 # JVINCENT
 
-JVINCENT is a Baile Funk and Club artist with 2 upcoming club dates listed on soundcheck as of Sun, 19 Jul 2026, next at The Haggerston, London on Fri, 24 Jul 2026.
+JVINCENT is a Baile Funk and Club artist with 2 upcoming club dates listed on soundcheck as of Mon, 20 Jul 2026, next at The Haggerston, London on Fri, 24 Jul 2026.
 
 JVINCENT is a baile funk and club artist tracked on soundcheck, with 29 sets logged across Copenhagen, Hongkong, London and Paris. Often billed alongside ZEE-2, HARUNA (2) and Tsunamy. Next up: The Haggerston, London on Fri 24 Jul.
 
@@ -26,4 +26,4 @@ JVINCENT is a baile funk and club artist tracked on soundcheck, with 29 sets log
 
 ZEE-2, HARUNA (2), Tsunamy
 
-*Updated Sun, 19 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/jvincent/)*
+*Updated Mon, 20 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/jvincent/)*

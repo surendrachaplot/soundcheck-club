@@ -1,6 +1,6 @@
 # Charleen Herzig
 
-Charleen Herzig is a Trance and Techno artist with 7 upcoming club dates listed on soundcheck as of Sun, 19 Jul 2026, next at Bootshaus, Cologne on Fri, 24 Jul 2026.
+Charleen Herzig is a Trance and Techno artist with 7 upcoming club dates listed on soundcheck as of Mon, 20 Jul 2026, next at Bootshaus, Cologne on Fri, 24 Jul 2026.
 
 Charleen Herzig is a trance and techno artist tracked on soundcheck, with 32 sets logged across Berlin, Cologne, Hamburg and Leipzig and 1 more. Often billed alongside Katy Rough, Limoncello and DETOXX. Next up: Bootshaus, Cologne on Fri 24 Jul.
 
@@ -31,4 +31,4 @@ Charleen Herzig is a trance and techno artist tracked on soundcheck, with 32 set
 
 Katy Rough, Limoncello, DETOXX
 
-*Updated Sun, 19 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/charleenherzig/)*
+*Updated Mon, 20 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/charleenherzig/)*

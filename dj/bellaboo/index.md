@@ -1,6 +1,6 @@
 # Bella Boo
 
-Bella Boo is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Sun, 19 Jul 2026, next at Meraki, Liverpool on Sat, 1 Aug 2026.
+Bella Boo is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Mon, 20 Jul 2026, next at Meraki, Liverpool on Sat, 1 Aug 2026.
 
 Bella Boo is a house and techno artist tracked on soundcheck, with 41 sets logged across Amsterdam, Berlin, Budapest and Cologne and 10 more. Often billed alongside Art Alfie, Axel Boman and Kornél Kovács. Next up: Meraki, Liverpool on Sat 1 Aug.
 
@@ -26,4 +26,4 @@ Bella Boo is a house and techno artist tracked on soundcheck, with 41 sets logge
 
 Art Alfie, Axel Boman, Kornél Kovács
 
-*Updated Sun, 19 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/bellaboo/)*
+*Updated Mon, 20 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/bellaboo/)*

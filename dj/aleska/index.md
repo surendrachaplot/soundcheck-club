@@ -1,8 +1,8 @@
 # Aleska
 
-Aleska is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Sun, 19 Jul 2026, next at Bossa Nova Civic Club, New York City on Mon, 27 Jul 2026.
+Aleska is a Techno and House artist with 4 upcoming club dates listed on soundcheck as of Mon, 20 Jul 2026, next at Bossa Nova Civic Club, New York City on Mon, 27 Jul 2026.
 
-Aleska is a techno and house artist based in United States of America, tracked on soundcheck, with 20 sets logged across Austin, Berlin, Madrid and Newyorkcity. Often billed alongside Sam Valle, elle xxo and Fattie Bee. Next up: Bossa Nova Civic Club, Newyorkcity on Mon 27 Jul.
+Aleska is a techno and house artist based in United States of America, tracked on soundcheck, with 21 sets logged across Austin, Berlin, Madrid and Newyorkcity. Often billed alongside Sam Valle, elle xxo and Fattie Bee. Next up: Bossa Nova Civic Club, Newyorkcity on Mon 27 Jul.
 
 ## Upcoming shows
 
@@ -11,6 +11,7 @@ Aleska is a techno and house artist based in United States of America, tracked o
 | Mon, 27 Jul 2026 | Bossa Nova Civic Club | New York City |
 | Wed, 12 Aug 2026 | The Sultan Room | New York City |
 | Fri, 21 Aug 2026 | Newtown Radio | New York City |
+| Sun, 30 Aug 2026 | Bossa Nova Civic Club | New York City |
 
 ## Recently played
 
@@ -27,4 +28,4 @@ Aleska is a techno and house artist based in United States of America, tracked o
 
 Sam Valle, elle xxo, Fattie Bee
 
-*Updated Sun, 19 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/aleska/)*
+*Updated Mon, 20 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/aleska/)*

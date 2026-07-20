@@ -1,6 +1,6 @@
 # Sandra Gold
 
-Sandra Gold is a Techno and Tech House artist with 2 upcoming club dates listed on soundcheck as of Sun, 19 Jul 2026, next at Palais, Munich on Sat, 25 Jul 2026.
+Sandra Gold is a Techno and Tech House artist with 2 upcoming club dates listed on soundcheck as of Mon, 20 Jul 2026, next at Palais, Munich on Sat, 25 Jul 2026.
 
 Sandra Gold is a techno and tech house artist based in Germany, tracked on soundcheck, with 34 sets logged across Munich. Often billed alongside Dj Sonic, George Bleicher and Steffen Lengler. Next up: Palais, Munich on Sat 25 Jul.
 
@@ -26,4 +26,4 @@ Sandra Gold is a techno and tech house artist based in Germany, tracked on sound
 
 Dj Sonic, George Bleicher, Steffen Lengler
 
-*Updated Sun, 19 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/sandragold/)*
+*Updated Mon, 20 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/sandragold/)*

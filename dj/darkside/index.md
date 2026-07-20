@@ -1,6 +1,6 @@
 # DARKSIDE
 
-DARKSIDE is a Electronica and Experimental artist with 2 upcoming club dates listed on soundcheck as of Sun, 19 Jul 2026, next at Amsterdamse Bos, Amsterdam on Wed, 29 Jul 2026.
+DARKSIDE is a Electronica and Experimental artist with 2 upcoming club dates listed on soundcheck as of Mon, 20 Jul 2026, next at Amsterdamse Bos, Amsterdam on Wed, 29 Jul 2026.
 
 DARKSIDE is an electronica and experimental artist based in United States of America, tracked on soundcheck, with 29 sets logged across Amsterdam, Chicago, Dublin and Edinburgh and 10 more. Often billed alongside Adam Ten, Beltran and Blawan. Next up: Amsterdamse Bos, Amsterdam on Wed 29 Jul.
 
@@ -26,4 +26,4 @@ DARKSIDE is an electronica and experimental artist based in United States of Ame
 
 Adam Ten, Beltran, Blawan
 
-*Updated Sun, 19 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/darkside/)*
+*Updated Mon, 20 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/darkside/)*

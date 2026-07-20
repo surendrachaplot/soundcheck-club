@@ -1,6 +1,6 @@
 # Fumiya Tanaka
 
-Fumiya Tanaka is a House and Techno artist with 7 upcoming club dates listed on soundcheck as of Sun, 19 Jul 2026, next at Amsterdamse Bos, Amsterdam on Wed, 29 Jul 2026.
+Fumiya Tanaka is a House and Techno artist with 7 upcoming club dates listed on soundcheck as of Mon, 20 Jul 2026, next at Amsterdamse Bos, Amsterdam on Wed, 29 Jul 2026.
 
 Fumiya Tanaka is a house and techno artist tracked on soundcheck, with 122 sets logged across Amsterdam, Barcelona, Berlin and Brussels and 29 more. Often billed alongside Samuel Deep, Laidlaw and Doudou MD. Next up: Amsterdamse Bos, Amsterdam on Wed 29 Jul.
 
@@ -31,4 +31,4 @@ Fumiya Tanaka is a house and techno artist tracked on soundcheck, with 122 sets 
 
 Samuel Deep, Laidlaw, Doudou MD
 
-*Updated Sun, 19 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/fumiyatanaka/)*
+*Updated Mon, 20 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/fumiyatanaka/)*

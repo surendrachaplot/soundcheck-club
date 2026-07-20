@@ -1,6 +1,6 @@
 # Armin van Buuren
 
-Armin van Buuren is a Trance and Techno artist with 9 upcoming club dates listed on soundcheck as of Sun, 19 Jul 2026, next at Downsview Park, Toronto on Fri, 31 Jul 2026.
+Armin van Buuren is a Trance and Techno artist with 9 upcoming club dates listed on soundcheck as of Mon, 20 Jul 2026, next at Downsview Park, Toronto on Fri, 31 Jul 2026.
 
 Armin van Buuren is a trance and techno artist tracked on soundcheck, with 66 sets logged across Amsterdam, Austin, Barcelona and Bristol and 23 more. Often billed alongside Miss Monique, Maddix and Amy Wiles. Next up: Downsview Park, Toronto on Fri 31 Jul.
 
@@ -33,4 +33,4 @@ Armin van Buuren is a trance and techno artist tracked on soundcheck, with 66 se
 
 Miss Monique, Maddix, Amy Wiles
 
-*Updated Sun, 19 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/arminvanbuuren/)*
+*Updated Mon, 20 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/arminvanbuuren/)*

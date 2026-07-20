@@ -1,6 +1,6 @@
 # CHAMOS
 
-CHAMOS is a Club and House artist with 2 upcoming club dates listed on soundcheck as of Sun, 19 Jul 2026, next at Burgess Park, London on Sun, 2 Aug 2026.
+CHAMOS is a Club and House artist with 2 upcoming club dates listed on soundcheck as of Mon, 20 Jul 2026, next at Burgess Park, London on Sun, 2 Aug 2026.
 
 CHAMOS is a club and house artist based in Netherlands, tracked on soundcheck, with 22 sets logged across Amsterdam, Bali, Barcelona and Berlin and 11 more. Often billed alongside SANJARI, Seba Kayan and Sham Steele. Next up: Burgess Park, London on Sun 2 Aug.
 
@@ -26,4 +26,4 @@ CHAMOS is a club and house artist based in Netherlands, tracked on soundcheck, w
 
 SANJARI, Seba Kayan, Sham Steele
 
-*Updated Sun, 19 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/chamos/)*
+*Updated Mon, 20 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/chamos/)*

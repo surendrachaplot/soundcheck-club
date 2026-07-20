@@ -1,6 +1,6 @@
 # Alice DiMar
 
-Alice DiMar is a House and Tech House artist with 2 upcoming club dates listed on soundcheck as of Sun, 19 Jul 2026, next at TBA, Cologne on Sat, 15 Aug 2026.
+Alice DiMar is a House and Tech House artist with 2 upcoming club dates listed on soundcheck as of Mon, 20 Jul 2026, next at TBA, Cologne on Sat, 15 Aug 2026.
 
 Alice DiMar is a house and tech house artist based in Germany, tracked on soundcheck, with 71 sets logged across Cologne, Frankfurt, Hamburg and Munich. Often billed alongside Michael Nowak, Tofu&Acid and JSavant. Next up: TBA, Cologne on Sat 15 Aug.
 
@@ -26,4 +26,4 @@ Alice DiMar is a house and tech house artist based in Germany, tracked on soundc
 
 Michael Nowak, Tofu&Acid, JSavant
 
-*Updated Sun, 19 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/alicedimar/)*
+*Updated Mon, 20 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/alicedimar/)*

@@ -1,6 +1,6 @@
 # Reka Zalan
 
-Reka Zalan is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Sun, 19 Jul 2026, next at Tresor / Globus, Berlin on Sat, 8 Aug 2026.
+Reka Zalan is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Mon, 20 Jul 2026, next at Tresor / Globus, Berlin on Sat, 8 Aug 2026.
 
 Reka Zalan is a techno and house artist based in Germany, tracked on soundcheck, with 103 sets logged across Amsterdam, Barcelona, Belgrade and Berlin and 17 more. Often billed alongside THNTS, Rill and Rodmin. Next up: Tresor / Globus, Berlin on Sat 8 Aug.
 
@@ -27,4 +27,4 @@ Reka Zalan is a techno and house artist based in Germany, tracked on soundcheck,
 
 THNTS, Rill, Rodmin
 
-*Updated Sun, 19 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/rekazalan-de/)*
+*Updated Mon, 20 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/rekazalan-de/)*

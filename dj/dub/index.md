@@ -1,6 +1,6 @@
 # dUb
 
-dUb is a Dub and Funk / Soul artist with 2 upcoming club dates listed on soundcheck as of Sun, 19 Jul 2026, next at Marula Cafe, Barcelona on Mon, 27 Jul 2026.
+dUb is a Dub and Funk / Soul artist with 2 upcoming club dates listed on soundcheck as of Mon, 20 Jul 2026, next at Marula Cafe, Barcelona on Mon, 27 Jul 2026.
 
 dUb is a dub and funk / soul artist based in Greece, tracked on soundcheck, with 24 sets logged across Bali, Bangkok, Barcelona and Bristol and 10 more. Often billed alongside Bass, Jungle (UK) and AM (8). Next up: Marula Cafe, Barcelona on Mon 27 Jul.
 
@@ -26,4 +26,4 @@ dUb is a dub and funk / soul artist based in Greece, tracked on soundcheck, with
 
 Bass, Jungle (UK), AM (8)
 
-*Updated Sun, 19 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/dub/)*
+*Updated Mon, 20 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/dub/)*

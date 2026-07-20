@@ -1,6 +1,6 @@
 # Edward
 
-Edward is a House and Minimal artist with 5 upcoming club dates listed on soundcheck as of Sun, 19 Jul 2026, next at Postkantine, Basel on Sat, 25 Jul 2026.
+Edward is a House and Minimal artist with 5 upcoming club dates listed on soundcheck as of Mon, 20 Jul 2026, next at Postkantine, Basel on Sat, 25 Jul 2026.
 
 Edward is a house and minimal artist tracked on soundcheck, with 126 sets logged across Amsterdam, Antwerp, Barcelona and Basel and 26 more. Often billed alongside Konstantin, Leafar Legov and Yamour. Next up: Postkantine, Basel on Sat 25 Jul.
 
@@ -29,4 +29,4 @@ Edward is a house and minimal artist tracked on soundcheck, with 126 sets logged
 
 Konstantin, Leafar Legov, Yamour
 
-*Updated Sun, 19 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/edward/)*
+*Updated Mon, 20 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/edward/)*

@@ -1,6 +1,6 @@
 # 1morning
 
-1morning is a Techno and House artist with 5 upcoming club dates listed on soundcheck as of Sun, 19 Jul 2026, next at Signal, New York City on Sat, 25 Jul 2026.
+1morning is a Techno and House artist with 5 upcoming club dates listed on soundcheck as of Mon, 20 Jul 2026, next at Signal, New York City on Sat, 25 Jul 2026.
 
 1morning is a techno and house artist tracked on soundcheck, with 119 sets logged across Amsterdam, Austin, Barcelona and Berlin and 26 more. Often billed alongside Akua, DJ Stingray 313 and Regal86. Next up: Signal, Newyorkcity on Sat 25 Jul.
 
@@ -29,4 +29,4 @@
 
 Akua, DJ Stingray 313, Regal86
 
-*Updated Sun, 19 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/1morning/)*
+*Updated Mon, 20 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/1morning/)*

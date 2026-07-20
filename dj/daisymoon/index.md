@@ -1,6 +1,6 @@
 # Daisy Moon
 
-Daisy Moon is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Sun, 19 Jul 2026, next at The Love Inn, Bristol on Sun, 26 Jul 2026.
+Daisy Moon is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Mon, 20 Jul 2026, next at The Love Inn, Bristol on Sun, 26 Jul 2026.
 
 Daisy Moon is a house and techno artist based in United Kingdom, tracked on soundcheck, with 63 sets logged across Berlin, Bristol, Brussels and London and 5 more. Often billed alongside Shanti Celeste, Golesworthy and Jorg Kuning. Next up: The Love Inn, Bristol on Sun 26 Jul.
 
@@ -26,4 +26,4 @@ Daisy Moon is a house and techno artist based in United Kingdom, tracked on soun
 
 Shanti Celeste, Golesworthy, Jorg Kuning
 
-*Updated Sun, 19 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/daisymoon/)*
+*Updated Mon, 20 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/daisymoon/)*

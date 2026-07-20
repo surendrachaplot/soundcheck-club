@@ -1,6 +1,6 @@
 # Viadukt Bar
 
-Viadukt Bar is a music venue in Budapest with 5 upcoming nights listed on soundcheck as of Sun, 19 Jul 2026; the next is "ECHO PUEBLO x HabooDubz's Birthday Bash" on Mon, 20 Jul 2026.
+Viadukt Bar is a music venue in Budapest with 5 upcoming nights listed on soundcheck as of Mon, 20 Jul 2026; the next is "ECHO PUEBLO x HabooDubz's Birthday Bash" on Mon, 20 Jul 2026.
 
 Viadukt Bar is a music venue in Budapest listed on soundcheck. 5 upcoming nights, with line-ups including Alex Albrecht, Ben Dover, bxrnadetth and Krics and 1 more. Browse upcoming dates, start times and who's playing. 1053 Budapest, Jane Haning rakpart.
 
@@ -18,4 +18,4 @@ Viadukt Bar is a music venue in Budapest listed on soundcheck. 5 upcoming nights
 
 1053 Budapest, Jane Haning rakpart, Budapest
 
-*Updated Sun, 19 Jul 2026 · source: [soundcheck](https://soundcheck.club/budapest/club/viadukt-bar/)*
+*Updated Mon, 20 Jul 2026 · source: [soundcheck](https://soundcheck.club/budapest/club/viadukt-bar/)*

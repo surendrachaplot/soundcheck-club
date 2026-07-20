@@ -1,6 +1,6 @@
 # Wolkezwei
 
-Wolkezwei is a music venue in Leipzig with 2 upcoming nights listed on soundcheck as of Sun, 19 Jul 2026; the next is "Kling Klang auf Wolkezwei mit Einmusik" on Sat, 1 Aug 2026.
+Wolkezwei is a music venue in Leipzig with 2 upcoming nights listed on soundcheck as of Mon, 20 Jul 2026; the next is "Kling Klang auf Wolkezwei mit Einmusik" on Sat, 1 Aug 2026.
 
 Wolkezwei is a music venue in Leipzig listed on soundcheck. 2 upcoming nights, with line-ups including Cosmic Gate, Einmusik, Pretty Pink and Sandar Sánchez. Browse upcoming dates, start times and who's playing. Volbedingstrasse 2, 04357 Leipzig.
 
@@ -15,4 +15,4 @@ Wolkezwei is a music venue in Leipzig listed on soundcheck. 2 upcoming nights, w
 
 Volbedingstrasse 2, 04357 Leipzig, Leipzig
 
-*Updated Sun, 19 Jul 2026 · source: [soundcheck](https://soundcheck.club/leipzig/club/wolkezwei/)*
+*Updated Mon, 20 Jul 2026 · source: [soundcheck](https://soundcheck.club/leipzig/club/wolkezwei/)*

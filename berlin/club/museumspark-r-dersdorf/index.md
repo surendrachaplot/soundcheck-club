@@ -1,6 +1,6 @@
 # Museumspark Rüdersdorf
 
-Museumspark Rüdersdorf is a music venue in Berlin with 1 upcoming night listed on soundcheck as of Sun, 19 Jul 2026; the next is "OPEN TEKK IM EXIL ZENSERY • EASTSIDEBOYS • EYCER • CRACKY KOKSBERG • MORBID • ENTZUGSKLINIQUE " on Sat, 1 Aug 2026.
+Museumspark Rüdersdorf is a music venue in Berlin with 1 upcoming night listed on soundcheck as of Mon, 20 Jul 2026; the next is "OPEN TEKK IM EXIL ZENSERY • EASTSIDEBOYS • EYCER • CRACKY KOKSBERG • MORBID • ENTZUGSKLINIQUE " on Sat, 1 Aug 2026.
 
 Museumspark Rüdersdorf is a music venue in Berlin listed on soundcheck. 1 upcoming night, with line-ups including Bass, Hårt, Techno Frühstück and Tekk. Browse upcoming dates, start times and who's playing. Heinitzstr. 41, 15562, Rüdersdorf bei Berlin.
 
@@ -14,4 +14,4 @@ Museumspark Rüdersdorf is a music venue in Berlin listed on soundcheck. 1 upcom
 
 Heinitzstr. 41, 15562, Rüdersdorf bei Berlin, Berlin
 
-*Updated Sun, 19 Jul 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/museumspark-r-dersdorf/)*
+*Updated Mon, 20 Jul 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/museumspark-r-dersdorf/)*

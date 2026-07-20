@@ -1,6 +1,6 @@
 # Playlove
 
-Playlove is a Electronica and Tech House artist with 2 upcoming club dates listed on soundcheck as of Sun, 19 Jul 2026, next at Kauz, Zurich on Fri, 24 Jul 2026.
+Playlove is a Electronica and Tech House artist with 2 upcoming club dates listed on soundcheck as of Mon, 20 Jul 2026, next at Kauz, Zurich on Fri, 24 Jul 2026.
 
 Playlove is an electronica and tech house artist based in Switzerland, tracked on soundcheck, with 29 sets logged across Berlin, Leipzig, Munich and Stuttgart and 1 more. Often billed alongside Styro 2000, fabulus and Juli Lee. Next up: Kauz, Zurich on Fri 24 Jul.
 
@@ -26,4 +26,4 @@ Playlove is an electronica and tech house artist based in Switzerland, tracked o
 
 Styro 2000, fabulus, Juli Lee
 
-*Updated Sun, 19 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/playlove/)*
+*Updated Mon, 20 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/playlove/)*

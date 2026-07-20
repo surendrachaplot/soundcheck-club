@@ -1,6 +1,6 @@
 # Jeremy Olander
 
-Jeremy Olander is a Progressive House and Techno artist with 2 upcoming club dates listed on soundcheck as of Sun, 19 Jul 2026, next at Crobar - Buenos Aires, Buenos Aires on Sat, 25 Jul 2026.
+Jeremy Olander is a Progressive House and Techno artist with 2 upcoming club dates listed on soundcheck as of Mon, 20 Jul 2026, next at Crobar - Buenos Aires, Buenos Aires on Sat, 25 Jul 2026.
 
 Jeremy Olander is a progressive house and techno artist tracked on soundcheck, with 83 sets logged across Amsterdam, Austin, Bali and Bangkok and 32 more. Often billed alongside Cristoph, Nick Warren and Argy. Next up: Crobar - Buenos Aires, Buenosaires on Sat 25 Jul.
 
@@ -26,4 +26,4 @@ Jeremy Olander is a progressive house and techno artist tracked on soundcheck, w
 
 Cristoph, Nick Warren, Argy
 
-*Updated Sun, 19 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/jeremyolander/)*
+*Updated Mon, 20 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/jeremyolander/)*

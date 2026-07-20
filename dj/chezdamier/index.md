@@ -1,6 +1,6 @@
 # Chez Damier
 
-Chez Damier is a House and Deep House artist with 10 upcoming club dates listed on soundcheck as of Sun, 19 Jul 2026, next at Salon Daomé, Montreal on Fri, 24 Jul 2026.
+Chez Damier is a House and Deep House artist with 10 upcoming club dates listed on soundcheck as of Mon, 20 Jul 2026, next at Salon Daomé, Montreal on Fri, 24 Jul 2026.
 
 Chez Damier is a house and deep house artist tracked on soundcheck, with 144 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 41 more. Often billed alongside Eddie Leader, DJ Deep and Dennis Ferrer. Next up: Salon Daomé, Montreal on Fri 24 Jul.
 
@@ -34,4 +34,4 @@ Chez Damier is a house and deep house artist tracked on soundcheck, with 144 set
 
 Eddie Leader, DJ Deep, Dennis Ferrer
 
-*Updated Sun, 19 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/chezdamier/)*
+*Updated Mon, 20 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/chezdamier/)*

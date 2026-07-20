@@ -1,6 +1,6 @@
 # Dual Damage
 
-Dual Damage is a Hardcore and Techno artist with 2 upcoming club dates listed on soundcheck as of Sun, 19 Jul 2026, next at TBA - XOX Arena, ARCH GALERIES, Kuala Lumpur on Sat, 22 Aug 2026.
+Dual Damage is a Hardcore and Techno artist with 2 upcoming club dates listed on soundcheck as of Mon, 20 Jul 2026, next at TBA - XOX Arena, ARCH GALERIES, Kuala Lumpur on Sat, 22 Aug 2026.
 
 Dual Damage is a hardcore and techno artist based in Netherlands, tracked on soundcheck, with 27 sets logged across Antwerp, Cologne, Dusseldorf and Frankfurt and 12 more. Often billed alongside Angerfist, Paul Elstak and Coone. Next up: TBA - XOX Arena, ARCH GALERIES, Kualalumpur on Sat 22 Aug.
 
@@ -26,4 +26,4 @@ Dual Damage is a hardcore and techno artist based in Netherlands, tracked on sou
 
 Angerfist, Paul Elstak, Coone
 
-*Updated Sun, 19 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/dualdamage/)*
+*Updated Mon, 20 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/dualdamage/)*

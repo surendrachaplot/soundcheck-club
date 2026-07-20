@@ -1,6 +1,6 @@
 # Shir Miya
 
-Shir Miya is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Sun, 19 Jul 2026, next at Jolene Downtown Miami, Miami on Thu, 23 Jul 2026.
+Shir Miya is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Mon, 20 Jul 2026, next at Jolene Downtown Miami, Miami on Thu, 23 Jul 2026.
 
 Shir Miya is a house and techno artist tracked on soundcheck, with 24 sets logged across Miami and Newyorkcity. Often billed alongside True Vine, grant sabadash and Armii1n. Next up: Jolene Downtown Miami, Miami on Thu 23 Jul.
 
@@ -26,4 +26,4 @@ Shir Miya is a house and techno artist tracked on soundcheck, with 24 sets logge
 
 True Vine, grant sabadash, Armii1n
 
-*Updated Sun, 19 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/shirmiya/)*
+*Updated Mon, 20 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/shirmiya/)*

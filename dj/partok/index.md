@@ -1,6 +1,6 @@
 # Partok
 
-Partok is a House and Techno artist with 4 upcoming club dates listed on soundcheck as of Sun, 19 Jul 2026, next at BLITZ, Munich on Fri, 31 Jul 2026.
+Partok is a House and Techno artist with 4 upcoming club dates listed on soundcheck as of Mon, 20 Jul 2026, next at BLITZ, Munich on Fri, 31 Jul 2026.
 
 Partok is a house and techno artist tracked on soundcheck, with 104 sets logged across Amsterdam, Antwerp, Athens and Bali and 28 more. Often billed alongside Roi Perez, David Elimelech and BASHKKA. Next up: BLITZ, Munich on Fri 31 Jul.
 
@@ -28,4 +28,4 @@ Partok is a house and techno artist tracked on soundcheck, with 104 sets logged 
 
 Roi Perez, David Elimelech, BASHKKA
 
-*Updated Sun, 19 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/partok/)*
+*Updated Mon, 20 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/partok/)*

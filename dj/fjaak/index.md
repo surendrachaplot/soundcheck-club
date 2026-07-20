@@ -1,6 +1,6 @@
 # FJAAK
 
-FJAAK is a Techno and House artist with 7 upcoming club dates listed on soundcheck as of Sun, 19 Jul 2026, next at Amsterdamse Bos, Amsterdam on Wed, 29 Jul 2026.
+FJAAK is a Techno and House artist with 7 upcoming club dates listed on soundcheck as of Mon, 20 Jul 2026, next at Amsterdamse Bos, Amsterdam on Wed, 29 Jul 2026.
 
 FJAAK is a techno and house artist tracked on soundcheck, with 246 sets logged across Aberdeen, Amsterdam, Antwerp and Athens and 70 more. Often billed alongside Elli Acula, Anna Z. and Daria Kolosova. Next up: Amsterdamse Bos, Amsterdam on Wed 29 Jul.
 
@@ -31,4 +31,4 @@ FJAAK is a techno and house artist tracked on soundcheck, with 246 sets logged a
 
 Elli Acula, Anna Z., Daria Kolosova
 
-*Updated Sun, 19 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/fjaak/)*
+*Updated Mon, 20 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/fjaak/)*

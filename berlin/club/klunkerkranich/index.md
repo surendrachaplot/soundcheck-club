@@ -1,14 +1,13 @@
 # Klunkerkranich
 
-Klunkerkranich is a music venue in Berlin with 10 upcoming nights listed on soundcheck as of Sun, 19 Jul 2026; the next is "AMSELCOM x Klunkerkranich w. Solatic + Friends" on Sun, 19 Jul 2026.
+Klunkerkranich is a music venue in Berlin with 9 upcoming nights listed on soundcheck as of Mon, 20 Jul 2026; the next is "BLAUES STÜNDCHEN w. Vlad Yaki" on Tue, 21 Jul 2026.
 
-Klunkerkranich is a music venue in Berlin listed on soundcheck. 10 upcoming nights, with line-ups including Adron (DE), Balthazar Martinez, Ben Pavlidis and DANNSEN and 2 more. Browse upcoming dates, start times and who's playing. Karl-Marx-Straße 66, 12043 Berlin.
+Klunkerkranich is a music venue in Berlin listed on soundcheck. 9 upcoming nights, with line-ups including Adron (DE), Balthazar Martinez, Ben Pavlidis and DANNSEN and 2 more. Browse upcoming dates, start times and who's playing. Karl-Marx-Straße 66, 12043 Berlin.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Sun, 19 Jul 2026 | AMSELCOM x Klunkerkranich w. Solatic + Friends | Solatic |
 | Tue, 21 Jul 2026 | BLAUES STÜNDCHEN w. Vlad Yaki | Vlad Yaki |
 | Wed, 22 Jul 2026 | WOCHENMITTE w. Krokant | Krokant |
 | Thu, 23 Jul 2026 | HINTER DEN ALPEN w. DJ HOUSEUM, Balthazar Martinez, Amann & Italo | Balthazar Martinez, DJ Houseum |
@@ -23,4 +22,4 @@ Klunkerkranich is a music venue in Berlin listed on soundcheck. 10 upcoming nigh
 
 Karl-Marx-Straße 66, 12043 Berlin, Berlin
 
-*Updated Sun, 19 Jul 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/klunkerkranich/)*
+*Updated Mon, 20 Jul 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/klunkerkranich/)*

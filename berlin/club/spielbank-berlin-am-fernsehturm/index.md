@@ -1,6 +1,6 @@
 # Spielbank Berlin am Fernsehturm
 
-Spielbank Berlin am Fernsehturm is a music venue in Berlin with 1 upcoming night listed on soundcheck as of Sun, 19 Jul 2026; the next is "Music Lounge mit Safe in Sound" on Thu, 30 Jul 2026.
+Spielbank Berlin am Fernsehturm is a music venue in Berlin with 1 upcoming night listed on soundcheck as of Mon, 20 Jul 2026; the next is "Music Lounge mit Safe in Sound" on Thu, 30 Jul 2026.
 
 Spielbank Berlin am Fernsehturm is a music venue in Berlin listed on soundcheck. 1 upcoming night. Browse upcoming dates, start times and who's playing.
 
@@ -10,4 +10,4 @@ Spielbank Berlin am Fernsehturm is a music venue in Berlin listed on soundcheck.
 | --- | --- | --- |
 | Thu, 30 Jul 2026 | Music Lounge mit Safe in Sound |  |
 
-*Updated Sun, 19 Jul 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/spielbank-berlin-am-fernsehturm/)*
+*Updated Mon, 20 Jul 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/spielbank-berlin-am-fernsehturm/)*

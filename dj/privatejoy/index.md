@@ -1,6 +1,6 @@
 # Private Joy
 
-Private Joy is a Dancehall and Deep House artist with 2 upcoming club dates listed on soundcheck as of Sun, 19 Jul 2026, next at Queen Elizabeth Olympic Park, London on Sat, 22 Aug 2026.
+Private Joy is a Dancehall and Deep House artist with 2 upcoming club dates listed on soundcheck as of Mon, 20 Jul 2026, next at Queen Elizabeth Olympic Park, London on Sat, 22 Aug 2026.
 
 Private Joy is a dancehall and deep house artist based in United Kingdom, tracked on soundcheck, with 28 sets logged across Amsterdam, London and Manchester. Often billed alongside Lenzman, MC Fox and Rhod Parry. Next up: Queen Elizabeth Olympic Park, London on Sat 22 Aug.
 
@@ -26,4 +26,4 @@ Private Joy is a dancehall and deep house artist based in United Kingdom, tracke
 
 Lenzman, MC Fox, Rhod Parry
 
-*Updated Sun, 19 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/privatejoy/)*
+*Updated Mon, 20 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/privatejoy/)*

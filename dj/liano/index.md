@@ -1,6 +1,6 @@
 # Liano
 
-Liano is a Techno and Club artist with 2 upcoming club dates listed on soundcheck as of Sun, 19 Jul 2026, next at Homage Brewing, Los Angeles on Fri, 24 Jul 2026.
+Liano is a Techno and Club artist with 2 upcoming club dates listed on soundcheck as of Mon, 20 Jul 2026, next at Homage Brewing, Los Angeles on Fri, 24 Jul 2026.
 
 Liano is a techno and club artist based in United States of America, tracked on soundcheck, with 26 sets logged across Losangeles, Mexicocity, Newyorkcity and Sanfrancisco. Often billed alongside Avi Loud, Daddy Kev and Oak City Slums. Next up: Homage Brewing, Losangeles on Fri 24 Jul.
 
@@ -26,4 +26,4 @@ Liano is a techno and club artist based in United States of America, tracked on 
 
 Avi Loud, Daddy Kev, Oak City Slums
 
-*Updated Sun, 19 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/liano/)*
+*Updated Mon, 20 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/liano/)*

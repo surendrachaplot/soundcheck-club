@@ -1,6 +1,6 @@
 # Per Pleks
 
-Per Pleks is a Techno and Industrial artist with 2 upcoming club dates listed on soundcheck as of Sun, 19 Jul 2026, next at INPUT High Fidelity Dance Club, Barcelona on Thu, 13 Aug 2026.
+Per Pleks is a Techno and Industrial artist with 2 upcoming club dates listed on soundcheck as of Mon, 20 Jul 2026, next at INPUT High Fidelity Dance Club, Barcelona on Thu, 13 Aug 2026.
 
 Per Pleks is a techno and industrial artist tracked on soundcheck, with 89 sets logged across Amsterdam, Antwerp, Barcelona and Belfast and 33 more. Often billed alongside Luciid, Aphøtic and Alignment. Next up: INPUT High Fidelity Dance Club, Barcelona on Thu 13 Aug.
 
@@ -26,4 +26,4 @@ Per Pleks is a techno and industrial artist tracked on soundcheck, with 89 sets 
 
 Luciid, Aphøtic, Alignment
 
-*Updated Sun, 19 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/perpleks/)*
+*Updated Mon, 20 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/perpleks/)*

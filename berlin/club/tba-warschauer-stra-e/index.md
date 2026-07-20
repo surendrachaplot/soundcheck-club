@@ -1,6 +1,6 @@
 # TBA - Warschauer Straße
 
-TBA - Warschauer Straße is a music venue in Berlin with 1 upcoming night listed on soundcheck as of Sun, 19 Jul 2026; the next is "0G SPÄTI RAVE with Secret Act, OnlyWithYou, Sandwicho, Cobb Douglas, mølly (on molly), etc" on Fri, 24 Jul 2026.
+TBA - Warschauer Straße is a music venue in Berlin with 1 upcoming night listed on soundcheck as of Mon, 20 Jul 2026; the next is "0G SPÄTI RAVE with Secret Act, OnlyWithYou, Sandwicho, Cobb Douglas, mølly (on molly), etc" on Fri, 24 Jul 2026.
 
 TBA - Warschauer Straße is a music venue in Berlin listed on soundcheck. 1 upcoming night, with line-ups including ALYOSHA, Cobb Douglas, FKNSIL and JRG and 2 more. Browse upcoming dates, start times and who's playing.
 
@@ -10,4 +10,4 @@ TBA - Warschauer Straße is a music venue in Berlin listed on soundcheck. 1 upco
 | --- | --- | --- |
 | Fri, 24 Jul 2026 | 0G SPÄTI RAVE with Secret Act, OnlyWithYou, Sandwicho, Cobb Douglas, mølly (on molly), etc | ALYOSHA, Cobb Douglas, FKNSIL, JRG, MIMI404, Nettta, OnlyWithYou, SALCHIKILLER, Sandwicho, Tasuik, mølly (on molly) |
 
-*Updated Sun, 19 Jul 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/tba-warschauer-stra-e/)*
+*Updated Mon, 20 Jul 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/tba-warschauer-stra-e/)*

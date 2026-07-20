@@ -1,6 +1,6 @@
 # Bread & Butter Arch
 
-Bread & Butter Arch is a music venue in London with 2 upcoming nights listed on soundcheck as of Sun, 19 Jul 2026; the next is "Los Primos III - Day Party - AUKA, Immigrant Party, BIGSPIN, Kombat, K-SLICE, Flores" on Sat, 25 Jul 2026.
+Bread & Butter Arch is a music venue in London with 2 upcoming nights listed on soundcheck as of Mon, 20 Jul 2026; the next is "Los Primos III - Day Party - AUKA, Immigrant Party, BIGSPIN, Kombat, K-SLICE, Flores" on Sat, 25 Jul 2026.
 
 Bread & Butter Arch is a music venue in London listed on soundcheck. 2 upcoming nights, with line-ups including AUKA, DUO (UK), Flores (2) and K-SLICE. Browse upcoming dates, start times and who's playing. 3 Bohemia Place, Hackney Central, E8 1DU.
 
@@ -15,4 +15,4 @@ Bread & Butter Arch is a music venue in London listed on soundcheck. 2 upcoming 
 
 3 Bohemia Place, Hackney Central, E8 1DU, London
 
-*Updated Sun, 19 Jul 2026 · source: [soundcheck](https://soundcheck.club/london/club/bread-butter-arch/)*
+*Updated Mon, 20 Jul 2026 · source: [soundcheck](https://soundcheck.club/london/club/bread-butter-arch/)*

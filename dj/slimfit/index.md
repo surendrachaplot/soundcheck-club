@@ -1,6 +1,6 @@
 # Slimfit
 
-Slimfit is a Techno and House artist with 6 upcoming club dates listed on soundcheck as of Sun, 19 Jul 2026, next at Fort Vechten, Utrecht on Sat, 25 Jul 2026.
+Slimfit is a Techno and House artist with 6 upcoming club dates listed on soundcheck as of Mon, 20 Jul 2026, next at Fort Vechten, Utrecht on Sat, 25 Jul 2026.
 
 Slimfit is a techno and house artist tracked on soundcheck, with 117 sets logged across Amsterdam, Berlin, Lisbon and London and 4 more. Often billed alongside angelboy, DIORA and YoungWoman. Next up: Fort Vechten, Utrecht on Sat 25 Jul.
 
@@ -30,4 +30,4 @@ Slimfit is a techno and house artist tracked on soundcheck, with 117 sets logged
 
 angelboy, DIORA, YoungWoman
 
-*Updated Sun, 19 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/slimfit/)*
+*Updated Mon, 20 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/slimfit/)*

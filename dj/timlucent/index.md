@@ -1,6 +1,6 @@
 # Tim Lucent
 
-Tim Lucent is a House and Disco artist with 3 upcoming club dates listed on soundcheck as of Sun, 19 Jul 2026, next at Outer Heaven, New York City on Thu, 30 Jul 2026.
+Tim Lucent is a House and Disco artist with 3 upcoming club dates listed on soundcheck as of Mon, 20 Jul 2026, next at Outer Heaven, New York City on Thu, 30 Jul 2026.
 
 Tim Lucent is a house and disco artist based in United States of America, tracked on soundcheck, with 59 sets logged across Losangeles and Newyorkcity. Often billed alongside Laila Amira, Choukroun and Armii1n. Next up: Outer Heaven, Newyorkcity on Thu 30 Jul.
 
@@ -27,4 +27,4 @@ Tim Lucent is a house and disco artist based in United States of America, tracke
 
 Laila Amira, Choukroun, Armii1n
 
-*Updated Sun, 19 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/timlucent/)*
+*Updated Mon, 20 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/timlucent/)*

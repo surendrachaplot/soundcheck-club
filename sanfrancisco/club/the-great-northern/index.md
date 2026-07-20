@@ -1,6 +1,6 @@
 # The Great Northern
 
-The Great Northern is a music venue in San Francisco/Oakland with 7 upcoming nights listed on soundcheck as of Sun, 19 Jul 2026; the next is "SQUISH [REDACTED] YEAR ANNIVERSARY" on Fri, 24 Jul 2026.
+The Great Northern is a music venue in San Francisco/Oakland with 7 upcoming nights listed on soundcheck as of Mon, 20 Jul 2026; the next is "SQUISH [REDACTED] YEAR ANNIVERSARY" on Fri, 24 Jul 2026.
 
 The Great Northern is a music venue in Sanfrancisco listed on soundcheck. 7 upcoming nights, with line-ups including 1tbsp, ANDYLAND, BADSISTA and BAE BAE and 2 more. Browse upcoming dates, start times and who's playing. 119 Utah St, San Francisco, CA 94103.
 
@@ -20,4 +20,4 @@ The Great Northern is a music venue in Sanfrancisco listed on soundcheck. 7 upco
 
 119 Utah St, San Francisco, CA 94103, San Francisco/Oakland
 
-*Updated Sun, 19 Jul 2026 · source: [soundcheck](https://soundcheck.club/sanfrancisco/club/the-great-northern/)*
+*Updated Mon, 20 Jul 2026 · source: [soundcheck](https://soundcheck.club/sanfrancisco/club/the-great-northern/)*

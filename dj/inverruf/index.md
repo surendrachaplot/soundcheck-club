@@ -1,6 +1,6 @@
 # In Verruf
 
-In Verruf is a Techno and Industrial artist with 7 upcoming club dates listed on soundcheck as of Sun, 19 Jul 2026, next at Rebstockpark, Frankfurt on Sat, 25 Jul 2026.
+In Verruf is a Techno and Industrial artist with 7 upcoming club dates listed on soundcheck as of Mon, 20 Jul 2026, next at Rebstockpark, Frankfurt on Sat, 25 Jul 2026.
 
 In Verruf is a techno and industrial artist tracked on soundcheck, with 130 sets logged across Amsterdam, Barcelona, Basel and Belgrade and 36 more. Often billed alongside Kobosil, Somewhen and Afem Syko. Next up: Rebstockpark, Frankfurt on Sat 25 Jul.
 
@@ -31,4 +31,4 @@ In Verruf is a techno and industrial artist tracked on soundcheck, with 130 sets
 
 Kobosil, Somewhen, Afem Syko
 
-*Updated Sun, 19 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/inverruf/)*
+*Updated Mon, 20 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/inverruf/)*

@@ -1,6 +1,6 @@
 # mafiii
 
-mafiii is a Tech House artist with 5 upcoming club dates listed on soundcheck as of Sun, 19 Jul 2026, next at Madam, Amsterdam on Sat, 25 Jul 2026.
+mafiii is a Tech House artist with 5 upcoming club dates listed on soundcheck as of Mon, 20 Jul 2026, next at Madam, Amsterdam on Sat, 25 Jul 2026.
 
 mafiii is a tech house artist based in Venezuela, tracked on soundcheck, with 10 sets logged across Amsterdam, Berlin, Madrid and Munich. Often billed alongside groovian peruvian, Katopodis and Anthony Godfather (2). Next up: Madam, Amsterdam on Sat 25 Jul.
 
@@ -26,4 +26,4 @@ mafiii is a tech house artist based in Venezuela, tracked on soundcheck, with 10
 
 groovian peruvian, Katopodis, Anthony Godfather (2)
 
-*Updated Sun, 19 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/mafiii/)*
+*Updated Mon, 20 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/mafiii/)*

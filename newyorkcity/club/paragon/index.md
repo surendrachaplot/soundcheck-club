@@ -1,6 +1,6 @@
 # Paragon
 
-Paragon is a music venue in New York City with 15 upcoming nights listed on soundcheck as of Sun, 19 Jul 2026; the next is "Toss Your Body" on Thu, 23 Jul 2026.
+Paragon is a music venue in New York City with 15 upcoming nights listed on soundcheck as of Mon, 20 Jul 2026; the next is "Toss Your Body" on Thu, 23 Jul 2026.
 
 Paragon is a music venue in Newyorkcity listed on soundcheck. 15 upcoming nights, with line-ups including 550am, MORENXXX, Adred and ALEXIS DE LA ROSA and 2 more. Browse upcoming dates, start times and who's playing. 990 Broadway Brooklyn, NY.
 
@@ -23,4 +23,4 @@ Paragon is a music venue in Newyorkcity listed on soundcheck. 15 upcoming nights
 
 990 Broadway Brooklyn, NY, New York City
 
-*Updated Sun, 19 Jul 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/paragon/)*
+*Updated Mon, 20 Jul 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/paragon/)*

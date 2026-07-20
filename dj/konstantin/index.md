@@ -1,6 +1,6 @@
 # Konstantin
 
-Konstantin is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Sun, 19 Jul 2026, next at DC-10, Ibiza on Mon, 20 Jul 2026.
+Konstantin is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Mon, 20 Jul 2026, next at DC-10, Ibiza on Mon, 20 Jul 2026.
 
 Konstantin is a house and techno artist tracked on soundcheck, with 164 sets logged across Amsterdam, Antwerp, Bali and Barcelona and 32 more. Often billed alongside Leafar Legov, Map.ache and Edward. Next up: DC-10, Ibiza on Mon 20 Jul.
 
@@ -27,4 +27,4 @@ Konstantin is a house and techno artist tracked on soundcheck, with 164 sets log
 
 Leafar Legov, Map.ache, Edward
 
-*Updated Sun, 19 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/konstantin/)*
+*Updated Mon, 20 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/konstantin/)*

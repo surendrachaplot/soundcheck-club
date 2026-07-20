@@ -1,6 +1,6 @@
 # Joséphine de Retour
 
-Joséphine de Retour is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Sun, 19 Jul 2026, next at Kaschemme Basel, Basel on Sat, 25 Jul 2026.
+Joséphine de Retour is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Mon, 20 Jul 2026, next at Kaschemme Basel, Basel on Sat, 25 Jul 2026.
 
 Joséphine de Retour is a techno and house artist tracked on soundcheck, with 25 sets logged across Barcelona, Basel, Berlin and Istanbul and 1 more. Often billed alongside Britta Arnold, Chris Schwarzwälder and Peter Schumann. Next up: Kaschemme Basel, Basel on Sat 25 Jul.
 
@@ -26,4 +26,4 @@ Joséphine de Retour is a techno and house artist tracked on soundcheck, with 25
 
 Britta Arnold, Chris Schwarzwälder, Peter Schumann
 
-*Updated Sun, 19 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/josephinederetour/)*
+*Updated Mon, 20 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/josephinederetour/)*

@@ -1,6 +1,6 @@
 # Private Hire at fabric
 
-Private Hire at fabric is a music venue in London with 4 upcoming nights listed on soundcheck as of Sun, 19 Jul 2026; the next is "A-Level Results Night 2026" on Thu, 13 Aug 2026.
+Private Hire at fabric is a music venue in London with 4 upcoming nights listed on soundcheck as of Mon, 20 Jul 2026; the next is "A-Level Results Night 2026" on Thu, 13 Aug 2026.
 
 Private Hire at fabric is a music venue in London listed on soundcheck. 4 upcoming nights. Browse upcoming dates, start times and who's playing.
 
@@ -13,4 +13,4 @@ Private Hire at fabric is a music venue in London listed on soundcheck. 4 upcomi
 | Tue, 22 Sept 2026 | The Freshers Rave |  |
 | Wed, 23 Sept 2026 | THE FRESHERS RAVE at FABRIC! - LONDON FRESHERS WEEK 2026 |  |
 
-*Updated Sun, 19 Jul 2026 · source: [soundcheck](https://soundcheck.club/london/club/private-hire-at-fabric/)*
+*Updated Mon, 20 Jul 2026 · source: [soundcheck](https://soundcheck.club/london/club/private-hire-at-fabric/)*

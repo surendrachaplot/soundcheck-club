@@ -1,6 +1,6 @@
 # ONLYLU
 
-ONLYLU is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Sun, 19 Jul 2026, next at Golden Pudel Club, Hamburg on Thu, 23 Jul 2026.
+ONLYLU is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Mon, 20 Jul 2026, next at Golden Pudel Club, Hamburg on Thu, 23 Jul 2026.
 
 ONLYLU is a techno and house artist based in Germany, tracked on soundcheck, with 62 sets logged across Hamburg and Leipzig. Often billed alongside DJ SOURCE, Roses OD and dj fako. Next up: Golden Pudel Club, Hamburg on Thu 23 Jul.
 
@@ -27,4 +27,4 @@ ONLYLU is a techno and house artist based in Germany, tracked on soundcheck, wit
 
 DJ SOURCE, Roses OD, dj fako
 
-*Updated Sun, 19 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/onlylu/)*
+*Updated Mon, 20 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/onlylu/)*

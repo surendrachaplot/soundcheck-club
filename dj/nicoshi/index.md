@@ -1,6 +1,6 @@
 # Nicoshi
 
-Nicoshi is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Sun, 19 Jul 2026, next at Palihotel Hollywood, Los Angeles on Sun, 2 Aug 2026.
+Nicoshi is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Mon, 20 Jul 2026, next at Palihotel Hollywood, Los Angeles on Sun, 2 Aug 2026.
 
 Nicoshi is a house and techno artist tracked on soundcheck, with 24 sets logged across Losangeles, Mexicocity, Sandiego and Sanfrancisco and 1 more. Often billed alongside Capes, COLOURS 87 and Club Tularosa. Next up: Palihotel Hollywood, Losangeles on Sun 2 Aug.
 
@@ -26,4 +26,4 @@ Nicoshi is a house and techno artist tracked on soundcheck, with 24 sets logged 
 
 Capes, COLOURS 87, Club Tularosa
 
-*Updated Sun, 19 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/nicoshi/)*
+*Updated Mon, 20 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/nicoshi/)*

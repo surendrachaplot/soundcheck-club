@@ -1,6 +1,6 @@
 # DJ Babyblade
 
-DJ Babyblade is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Sun, 19 Jul 2026, next at Golden Pudel Club, Hamburg on Thu, 23 Jul 2026.
+DJ Babyblade is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Mon, 20 Jul 2026, next at Golden Pudel Club, Hamburg on Thu, 23 Jul 2026.
 
 DJ Babyblade is a techno and house artist tracked on soundcheck, with 111 sets logged across Berlin, Frankfurt, Hamburg and Munich and 1 more. Often billed alongside EliaHaze, DJ SOURCE and Anton Jonathan. Next up: Golden Pudel Club, Hamburg on Thu 23 Jul.
 
@@ -27,4 +27,4 @@ DJ Babyblade is a techno and house artist tracked on soundcheck, with 111 sets l
 
 EliaHaze, DJ SOURCE, Anton Jonathan
 
-*Updated Sun, 19 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/djbabyblade/)*
+*Updated Mon, 20 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/djbabyblade/)*

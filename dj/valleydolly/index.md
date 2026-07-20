@@ -1,6 +1,6 @@
 # Valley Dolly
 
-Valley Dolly is a House and Techno artist with 4 upcoming club dates listed on soundcheck as of Sun, 19 Jul 2026, next at Berghain | Panorama Bar | Säule, Berlin on Sat, 25 Jul 2026.
+Valley Dolly is a House and Techno artist with 4 upcoming club dates listed on soundcheck as of Mon, 20 Jul 2026, next at Berghain | Panorama Bar | Säule, Berlin on Sat, 25 Jul 2026.
 
 Valley Dolly is a house and techno artist tracked on soundcheck, with 61 sets logged across Berlin, Brussels, Lisbon and Munich and 3 more. Often billed alongside Kvanchi, Sophie Phare and Hamatsuki. Next up: Berghain | Panorama Bar | Säule, Berlin on Sat 25 Jul.
 
@@ -28,4 +28,4 @@ Valley Dolly is a house and techno artist tracked on soundcheck, with 61 sets lo
 
 Kvanchi, Sophie Phare, Hamatsuki
 
-*Updated Sun, 19 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/valleydolly/)*
+*Updated Mon, 20 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/valleydolly/)*

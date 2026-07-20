@@ -1,6 +1,6 @@
 # Tivoli
 
-Tivoli is a music venue in Brisbane with 1 upcoming night listed on soundcheck as of Sun, 19 Jul 2026; the next is "Club Angel - BRISBANE" on Sat, 5 Sept 2026.
+Tivoli is a music venue in Brisbane with 1 upcoming night listed on soundcheck as of Mon, 20 Jul 2026; the next is "Club Angel - BRISBANE" on Sat, 5 Sept 2026.
 
 Tivoli is a music venue in Brisbane listed on soundcheck. 1 upcoming night, with line-ups including Club Angel. Browse upcoming dates, start times and who's playing. 52 Costin St; Fortitude Valley, QLD 4006; Australia.
 
@@ -14,4 +14,4 @@ Tivoli is a music venue in Brisbane listed on soundcheck. 1 upcoming night, with
 
 52 Costin St; Fortitude Valley, QLD 4006; Australia, Brisbane
 
-*Updated Sun, 19 Jul 2026 · source: [soundcheck](https://soundcheck.club/brisbane/club/tivoli/)*
+*Updated Mon, 20 Jul 2026 · source: [soundcheck](https://soundcheck.club/brisbane/club/tivoli/)*

@@ -1,6 +1,6 @@
 # AUX Club
 
-AUX Club is a music venue in Athens with 3 upcoming nights listed on soundcheck as of Sun, 19 Jul 2026; the next is "GEGEN ATHENS" on Sat, 19 Sept 2026.
+AUX Club is a music venue in Athens with 3 upcoming nights listed on soundcheck as of Mon, 20 Jul 2026; the next is "GEGEN ATHENS" on Sat, 19 Sept 2026.
 
 AUX Club is a music venue in Athens listed on soundcheck. 3 upcoming nights, with line-ups including Até., Boris, Cirkle and ClubKid and 2 more. Browse upcoming dates, start times and who's playing. Agiou Orous 15, Athina 104 47, Greece.
 
@@ -16,4 +16,4 @@ AUX Club is a music venue in Athens listed on soundcheck. 3 upcoming nights, wit
 
 Agiou Orous 15, Athina 104 47, Greece, Athens
 
-*Updated Sun, 19 Jul 2026 · source: [soundcheck](https://soundcheck.club/athens/club/aux-club/)*
+*Updated Mon, 20 Jul 2026 · source: [soundcheck](https://soundcheck.club/athens/club/aux-club/)*

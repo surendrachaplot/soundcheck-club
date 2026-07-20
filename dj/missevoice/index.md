@@ -1,6 +1,6 @@
 # Miss Evoice
 
-Miss Evoice is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Sun, 19 Jul 2026, next at Fridas Pier, Stuttgart on Sat, 8 Aug 2026.
+Miss Evoice is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Mon, 20 Jul 2026, next at Fridas Pier, Stuttgart on Sat, 8 Aug 2026.
 
 Miss Evoice is a house and techno artist tracked on soundcheck, with 22 sets logged across Munich and Stuttgart. Often billed alongside Dejago, Jakob Mäder and Marius Lehnert. Next up: Fridas Pier, Stuttgart on Sat 8 Aug.
 
@@ -26,4 +26,4 @@ Miss Evoice is a house and techno artist tracked on soundcheck, with 22 sets log
 
 Dejago, Jakob Mäder, Marius Lehnert
 
-*Updated Sun, 19 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/missevoice/)*
+*Updated Mon, 20 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/missevoice/)*

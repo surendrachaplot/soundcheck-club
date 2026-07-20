@@ -1,6 +1,6 @@
 # Void Club
 
-Void Club is a music venue in Berlin with 10 upcoming nights listed on soundcheck as of Sun, 19 Jul 2026; the next is "11 Years VOID Anniversary with Senchai b2b Initia, Dirty Plates, Lay.Dee Strange b2b Mr. Lafont" on Fri, 24 Jul 2026.
+Void Club is a music venue in Berlin with 10 upcoming nights listed on soundcheck as of Mon, 20 Jul 2026; the next is "11 Years VOID Anniversary with Senchai b2b Initia, Dirty Plates, Lay.Dee Strange b2b Mr. Lafont" on Fri, 24 Jul 2026.
 
 Void Club is a music venue in Berlin listed on soundcheck. 10 upcoming nights, with line-ups including ADOBE, Agem, Andi Beat and Antiquis Anima and 2 more. Browse upcoming dates, start times and who's playing. Wiesenweg 5-9, 10365.
 
@@ -23,4 +23,4 @@ Void Club is a music venue in Berlin listed on soundcheck. 10 upcoming nights, w
 
 Wiesenweg 5-9, 10365, Berlin
 
-*Updated Sun, 19 Jul 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/void-club/)*
+*Updated Mon, 20 Jul 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/void-club/)*

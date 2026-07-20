@@ -1,6 +1,6 @@
 # Trädgården
 
-Trädgården is a music venue in Stockholm with 15 upcoming nights listed on soundcheck as of Sun, 19 Jul 2026; the next is "Whitearmor, Eurohead, Necrotic Noise (LIVE), Femi" on Thu, 23 Jul 2026.
+Trädgården is a music venue in Stockholm with 15 upcoming nights listed on soundcheck as of Mon, 20 Jul 2026; the next is "Whitearmor, Eurohead, Necrotic Noise (LIVE), Femi" on Thu, 23 Jul 2026.
 
 Trädgården is a music venue in Stockholm listed on soundcheck. 15 upcoming nights, with line-ups including ALCATRAZ, Amaliah, Anthony Linell and Chloé Caillet and 2 more. Browse upcoming dates, start times and who's playing. Hammarby Slussväg 2, 118 60 Stockholm, Sweden.
 
@@ -23,4 +23,4 @@ Trädgården is a music venue in Stockholm listed on soundcheck. 15 upcoming nig
 
 Hammarby Slussväg 2, 118 60 Stockholm, Sweden, Stockholm
 
-*Updated Sun, 19 Jul 2026 · source: [soundcheck](https://soundcheck.club/stockholm/club/tr-dg-rden/)*
+*Updated Mon, 20 Jul 2026 · source: [soundcheck](https://soundcheck.club/stockholm/club/tr-dg-rden/)*

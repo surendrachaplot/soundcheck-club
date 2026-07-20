@@ -1,6 +1,6 @@
 # UNOS
 
-UNOS is a House and Disco artist with 4 upcoming club dates listed on soundcheck as of Sun, 19 Jul 2026, next at Boomtown (Kouter), Ghent on Thu, 23 Jul 2026.
+UNOS is a House and Disco artist with 4 upcoming club dates listed on soundcheck as of Mon, 20 Jul 2026, next at Boomtown (Kouter), Ghent on Thu, 23 Jul 2026.
 
 UNOS is a house and disco artist tracked on soundcheck, with 57 sets logged across Amsterdam, Antwerp, Brussels and Cologne and 2 more. Often billed alongside Fais Le Beau, Zouzibabe and Azo. Next up: Boomtown (Kouter), Ghent on Thu 23 Jul.
 
@@ -28,4 +28,4 @@ UNOS is a house and disco artist tracked on soundcheck, with 57 sets logged acro
 
 Fais Le Beau, Zouzibabe, Azo
 
-*Updated Sun, 19 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/unos/)*
+*Updated Mon, 20 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/unos/)*

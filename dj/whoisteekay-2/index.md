@@ -1,6 +1,6 @@
 # Who Is TeeKay?
 
-Who Is TeeKay? is a Bass and Jungle artist with 3 upcoming club dates listed on soundcheck as of Sun, 19 Jul 2026, next at Munster Munch, London on Sat, 1 Aug 2026.
+Who Is TeeKay? is a Bass and Jungle artist with 3 upcoming club dates listed on soundcheck as of Mon, 20 Jul 2026, next at Munster Munch, London on Sat, 1 Aug 2026.
 
 Who Is TeeKay? is a bass and jungle artist based in Netherlands, tracked on soundcheck, with 9 sets logged across London and Nottingham. Often billed alongside johan2k, Adela and Carien. Next up: Munster Munch, London on Sat 1 Aug.
 
@@ -25,4 +25,4 @@ Who Is TeeKay? is a bass and jungle artist based in Netherlands, tracked on soun
 
 johan2k, Adela, Carien
 
-*Updated Sun, 19 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/whoisteekay-2/)*
+*Updated Mon, 20 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/whoisteekay-2/)*

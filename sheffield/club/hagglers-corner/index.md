@@ -1,6 +1,6 @@
 # Hagglers Corner
 
-Hagglers Corner is a music venue in Sheffield with 1 upcoming night listed on soundcheck as of Sun, 19 Jul 2026; the next is "Grounded X Auditory: Sam Bangura" on Sat, 29 Aug 2026.
+Hagglers Corner is a music venue in Sheffield with 1 upcoming night listed on soundcheck as of Mon, 20 Jul 2026; the next is "Grounded X Auditory: Sam Bangura" on Sat, 29 Aug 2026.
 
 Hagglers Corner is a music venue in Sheffield listed on soundcheck. 1 upcoming night, with line-ups including Creola, Rhys Dyer, Sam Bangura and The Doobskins. Browse upcoming dates, start times and who's playing. Queens Road, Sheffield, S2 4DU.
 
@@ -14,4 +14,4 @@ Hagglers Corner is a music venue in Sheffield listed on soundcheck. 1 upcoming n
 
 Queens Road, Sheffield, S2 4DU, Sheffield
 
-*Updated Sun, 19 Jul 2026 · source: [soundcheck](https://soundcheck.club/sheffield/club/hagglers-corner/)*
+*Updated Mon, 20 Jul 2026 · source: [soundcheck](https://soundcheck.club/sheffield/club/hagglers-corner/)*

@@ -1,6 +1,6 @@
 # The Black-E
 
-The Black-E is a music venue in Liverpool with 1 upcoming night listed on soundcheck as of Sun, 19 Jul 2026; the next is "Hibakusha" on Thu, 6 Aug 2026.
+The Black-E is a music venue in Liverpool with 1 upcoming night listed on soundcheck as of Mon, 20 Jul 2026; the next is "Hibakusha" on Thu, 6 Aug 2026.
 
 The Black-E is a music venue in Liverpool listed on soundcheck. 1 upcoming night, with line-ups including Beau Beaumont. Browse upcoming dates, start times and who's playing. 1 Great George St, Liverpool L1 5EW.
 
@@ -14,4 +14,4 @@ The Black-E is a music venue in Liverpool listed on soundcheck. 1 upcoming night
 
 1 Great George St, Liverpool L1 5EW, Liverpool
 
-*Updated Sun, 19 Jul 2026 · source: [soundcheck](https://soundcheck.club/liverpool/club/the-black-e/)*
+*Updated Mon, 20 Jul 2026 · source: [soundcheck](https://soundcheck.club/liverpool/club/the-black-e/)*

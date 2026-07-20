@@ -1,6 +1,6 @@
 # The Back Room Leeds
 
-The Back Room Leeds is a music venue in Leeds with 1 upcoming night listed on soundcheck as of Sun, 19 Jul 2026; the next is "REVISITED: Graeme Park / Dave Haslam" on Sat, 25 Jul 2026.
+The Back Room Leeds is a music venue in Leeds with 1 upcoming night listed on soundcheck as of Mon, 20 Jul 2026; the next is "REVISITED: Graeme Park / Dave Haslam" on Sat, 25 Jul 2026.
 
 The Back Room Leeds is a music venue in Leeds listed on soundcheck. 1 upcoming night, with line-ups including Dave Haslam and Graeme Park. Browse upcoming dates, start times and who's playing. 50a Call Ln, Leeds, West Yorkshire, LS1 6DT.
 
@@ -14,4 +14,4 @@ The Back Room Leeds is a music venue in Leeds listed on soundcheck. 1 upcoming n
 
 50a Call Ln, Leeds, West Yorkshire, LS1 6DT, Leeds
 
-*Updated Sun, 19 Jul 2026 · source: [soundcheck](https://soundcheck.club/leeds/club/the-back-room-leeds/)*
+*Updated Mon, 20 Jul 2026 · source: [soundcheck](https://soundcheck.club/leeds/club/the-back-room-leeds/)*

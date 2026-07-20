@@ -1,6 +1,6 @@
 # Lux Fragil
 
-Lux Fragil is a music venue in Lisbon with 7 upcoming nights listed on soundcheck as of Sun, 19 Jul 2026; the next is "ILEKTRONIK SANGEET" on Thu, 23 Jul 2026.
+Lux Fragil is a music venue in Lisbon with 7 upcoming nights listed on soundcheck as of Mon, 20 Jul 2026; the next is "ILEKTRONIK SANGEET" on Thu, 23 Jul 2026.
 
 Lux Fragil is a music venue in Lisbon listed on soundcheck. 7 upcoming nights, with line-ups including Analodjica, Armanda, Corrina and Dexter Lux and 2 more. Browse upcoming dates, start times and who's playing. Av. Infante D. Henrique, armazém A, Cais da Pedra a Sta. Apolónia, 1950-376 Lisboa, Portugal.
 
@@ -20,4 +20,4 @@ Lux Fragil is a music venue in Lisbon listed on soundcheck. 7 upcoming nights, w
 
 Av. Infante D. Henrique, armazém A, Cais da Pedra a Sta. Apolónia, 1950-376 Lisboa, Portugal, Lisbon
 
-*Updated Sun, 19 Jul 2026 · source: [soundcheck](https://soundcheck.club/lisbon/club/lux-fragil/)*
+*Updated Mon, 20 Jul 2026 · source: [soundcheck](https://soundcheck.club/lisbon/club/lux-fragil/)*

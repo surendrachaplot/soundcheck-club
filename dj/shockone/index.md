@@ -1,6 +1,6 @@
 # Shockone
 
-Shockone is a Drum & Bass and Bass artist with 2 upcoming club dates listed on soundcheck as of Sun, 19 Jul 2026, next at MÄX, Zurich on Sat, 8 Aug 2026.
+Shockone is a Drum & Bass and Bass artist with 2 upcoming club dates listed on soundcheck as of Mon, 20 Jul 2026, next at MÄX, Zurich on Sat, 8 Aug 2026.
 
 Shockone is a drum & bass and bass artist tracked on soundcheck, with 26 sets logged across Amsterdam, Auckland, Brighton and Brisbane and 9 more. Often billed alongside Pendulum, Koven and 1991 (UK). Next up: MÄX, Zurich on Sat 8 Aug.
 
@@ -26,4 +26,4 @@ Shockone is a drum & bass and bass artist tracked on soundcheck, with 26 sets lo
 
 Pendulum, Koven, 1991 (UK)
 
-*Updated Sun, 19 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/shockone/)*
+*Updated Mon, 20 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/shockone/)*

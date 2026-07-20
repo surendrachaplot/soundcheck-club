@@ -1,6 +1,6 @@
 # Solid-Funk
 
-Solid-Funk is a Techno and Electronica artist with 4 upcoming club dates listed on soundcheck as of Sun, 19 Jul 2026, next at TBA - Alfagar Prestige - Estrada de Santa Eulalia - Albufeira, Lisbon on Thu, 30 Jul 2026.
+Solid-Funk is a Techno and Electronica artist with 4 upcoming club dates listed on soundcheck as of Mon, 20 Jul 2026, next at TBA - Alfagar Prestige - Estrada de Santa Eulalia - Albufeira, Lisbon on Thu, 30 Jul 2026.
 
 Solid-Funk is a techno and electronica artist tracked on soundcheck, with 55 sets logged across Berlin, Lisbon and Porto. Often billed alongside Mary B (2), Ze Salvador and Schlingen. Next up: TBA - Alfagar Prestige - Estrada de Santa Eulalia - Albufeira, Lisbon on Thu 30 Jul.
 
@@ -28,4 +28,4 @@ Solid-Funk is a techno and electronica artist tracked on soundcheck, with 55 set
 
 Mary B (2), Ze Salvador, Schlingen
 
-*Updated Sun, 19 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/solid-funk/)*
+*Updated Mon, 20 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/solid-funk/)*

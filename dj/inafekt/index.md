@@ -1,6 +1,6 @@
 # Inafekt
 
-Inafekt is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Sun, 19 Jul 2026, next at Colorado Charlie, The Hague on Fri, 24 Jul 2026.
+Inafekt is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Mon, 20 Jul 2026, next at Colorado Charlie, The Hague on Fri, 24 Jul 2026.
 
 Inafekt is a techno and house artist based in United Kingdom, tracked on soundcheck, with 51 sets logged across Aberdeen, Amsterdam, Antwerp and Bali and 14 more. Often billed alongside Kyle Starkey, Entasia and DART. Next up: Colorado Charlie, Thehague on Fri 24 Jul.
 
@@ -26,4 +26,4 @@ Inafekt is a techno and house artist based in United Kingdom, tracked on soundch
 
 Kyle Starkey, Entasia, DART
 
-*Updated Sun, 19 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/inafekt/)*
+*Updated Mon, 20 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/inafekt/)*

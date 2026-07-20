@@ -1,6 +1,6 @@
 # Madarae San Francisco
 
-Madarae San Francisco is a music venue in San Francisco/Oakland with 4 upcoming nights listed on soundcheck as of Sun, 19 Jul 2026; the next is "Amal Nemer (Nervous Records - Hurry Up Slowly - Mood Child) at MadaRae" on Fri, 24 Jul 2026.
+Madarae San Francisco is a music venue in San Francisco/Oakland with 4 upcoming nights listed on soundcheck as of Mon, 20 Jul 2026; the next is "Amal Nemer (Nervous Records - Hurry Up Slowly - Mood Child) at MadaRae" on Fri, 24 Jul 2026.
 
 Madarae San Francisco is a music venue in Sanfrancisco listed on soundcheck. 4 upcoming nights, with line-ups including Amal Nemer, Kino Todo, MAGA and yanzy. Browse upcoming dates, start times and who's playing. 46 Minna St, San Francisco, CA 94105, United States.
 
@@ -17,4 +17,4 @@ Madarae San Francisco is a music venue in Sanfrancisco listed on soundcheck. 4 u
 
 46 Minna St, San Francisco, CA 94105, United States, San Francisco/Oakland
 
-*Updated Sun, 19 Jul 2026 · source: [soundcheck](https://soundcheck.club/sanfrancisco/club/madarae-san-francisco/)*
+*Updated Mon, 20 Jul 2026 · source: [soundcheck](https://soundcheck.club/sanfrancisco/club/madarae-san-francisco/)*

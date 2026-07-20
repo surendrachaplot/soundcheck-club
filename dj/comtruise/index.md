@@ -1,6 +1,6 @@
 # Com Truise
 
-Com Truise is a Electronica and Vaporwave artist with 2 upcoming club dates listed on soundcheck as of Sun, 19 Jul 2026, next at Night We Met, Nashville on Thu, 30 Jul 2026.
+Com Truise is a Electronica and Vaporwave artist with 2 upcoming club dates listed on soundcheck as of Mon, 20 Jul 2026, next at Night We Met, Nashville on Thu, 30 Jul 2026.
 
 Com Truise is an electronica and vaporwave artist based in United States of America, tracked on soundcheck, with 25 sets logged across Austin, Chicago, Detroit and Losangeles and 10 more. Often billed alongside Amourette, Arht and Dapapa. Next up: Night We Met, Nashville on Thu 30 Jul.
 
@@ -26,4 +26,4 @@ Com Truise is an electronica and vaporwave artist based in United States of Amer
 
 Amourette, Arht, Dapapa
 
-*Updated Sun, 19 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/comtruise/)*
+*Updated Mon, 20 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/comtruise/)*

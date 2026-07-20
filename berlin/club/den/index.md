@@ -1,6 +1,6 @@
 # ÆDEN
 
-ÆDEN is a music venue in Berlin with 25 upcoming nights listed on soundcheck as of Sun, 19 Jul 2026; the next is "Lilith" on Wed, 22 Jul 2026.
+ÆDEN is a music venue in Berlin with 25 upcoming nights listed on soundcheck as of Mon, 20 Jul 2026; the next is "Lilith" on Wed, 22 Jul 2026.
 
 ÆDEN is a music venue in Berlin listed on soundcheck. 25 upcoming nights, with line-ups including 7CIRCLE, Alexa Fluor, Alex Pastore and Alfa Cornae and 2 more. Browse upcoming dates, start times and who's playing. Schleusenufer 2, 10997 Berlin.
 
@@ -23,4 +23,4 @@
 
 Schleusenufer 2, 10997 Berlin, Berlin
 
-*Updated Sun, 19 Jul 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/den/)*
+*Updated Mon, 20 Jul 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/den/)*

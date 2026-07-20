@@ -1,14 +1,13 @@
 # TBA - Los Angeles
 
-TBA - Los Angeles is a music venue in Los Angeles with 11 upcoming nights listed on soundcheck as of Sun, 19 Jul 2026; the next is "HOOD RAVE x KITA'S WORLD: SUMMER JAM '26" on Sun, 19 Jul 2026.
+TBA - Los Angeles is a music venue in Los Angeles with 10 upcoming nights listed on soundcheck as of Mon, 20 Jul 2026; the next is "Capsule Effect" on Fri, 31 Jul 2026.
 
-TBA - Los Angeles is a music venue in Losangeles listed on soundcheck. 11 upcoming nights, with line-ups including AC13, Adam X, Alan Fitzpatrick and Amir Javasoul and 2 more. Browse upcoming dates, start times and who's playing.
+TBA - Los Angeles is a music venue in Losangeles listed on soundcheck. 10 upcoming nights, with line-ups including AC13, Adam X, Alan Fitzpatrick and Amir Javasoul and 2 more. Browse upcoming dates, start times and who's playing.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Sun, 19 Jul 2026 | HOOD RAVE x KITA'S WORLD: SUMMER JAM '26 | DJ Kita, RoseGawd |
 | Fri, 31 Jul 2026 | Capsule Effect | Amir Javasoul, Chemtrail Johnny, Mikeb, Sece |
 | Sat, 1 Aug 2026 | WORK x TSSRCT present: Civic Instruction [LIVE], Hadone, UFO95 [LIVE] & GiGi | Hadone, UFO95 |
 | Fri, 14 Aug 2026 | WORK x SKULLDUGGERY present: Alan Fitzpatrick, Anastasia Giovani, & Greg Downey | Alan Fitzpatrick, Anastasia Giovani, Greg Downey |
@@ -18,5 +17,6 @@ TBA - Los Angeles is a music venue in Losangeles listed on soundcheck. 11 upcomi
 | Fri, 28 Aug 2026 | WORK Harder presents: RIKHTER [4 HR Set] & EMILIANA | EMILIANA, RIKHTER |
 | Sat, 29 Aug 2026 | WORK presents: Adam X, Setaoc Mass, & Marie Nyx | Adam X, Marie Nyx, Setaoc Mass |
 | Sun, 6 Sept 2026 | Intercell LA: Annika Wolfe, DAX J, Grace Dahl, Max Gardner b2b Lorely Mur, & Stef Mendesidis | Annika Wolfe, DAX J, Grace Dahl, Lorely Mur, Max Gardner, Stef Mendesidis |
+| Fri, 25 Sept 2026 | WORK OVER/TIME: Blasha & Allatt, JIA, MARRØN, NEKTER, Rene Wise, Rrose, & Wata Igarashi | Blasha & Allatt, JIA, MARRØN, NEKTER, Rene Wise, Rrose, Wata Igarashi |
 
-*Updated Sun, 19 Jul 2026 · source: [soundcheck](https://soundcheck.club/losangeles/club/tba-los-angeles/)*
+*Updated Mon, 20 Jul 2026 · source: [soundcheck](https://soundcheck.club/losangeles/club/tba-los-angeles/)*

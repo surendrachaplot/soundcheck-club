@@ -1,6 +1,6 @@
 # R1pq
 
-R1pq is a Bass and Dubstep artist with 2 upcoming club dates listed on soundcheck as of Sun, 19 Jul 2026, next at Circus Tokyo, Tokyo on Mon, 20 Jul 2026.
+R1pq is a Bass and Dubstep artist with 2 upcoming club dates listed on soundcheck as of Mon, 20 Jul 2026, next at Circus Tokyo, Tokyo on Mon, 20 Jul 2026.
 
 R1pq is a bass and dubstep artist based in Japan, tracked on soundcheck, with 28 sets logged across Tokyo. Often billed alongside CRAZYHYUGA, Altemica and SAKO. Next up: Circus Tokyo, Tokyo on Mon 20 Jul.
 
@@ -26,4 +26,4 @@ R1pq is a bass and dubstep artist based in Japan, tracked on soundcheck, with 28
 
 CRAZYHYUGA, Altemica, SAKO
 
-*Updated Sun, 19 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/r1pq/)*
+*Updated Mon, 20 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/r1pq/)*

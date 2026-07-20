@@ -1,6 +1,6 @@
 # Nora En Pure
 
-Nora En Pure is a Deep House and House artist with 6 upcoming club dates listed on soundcheck as of Sun, 19 Jul 2026, next at Hï Ibiza, Ibiza on Thu, 6 Aug 2026.
+Nora En Pure is a Deep House and House artist with 6 upcoming club dates listed on soundcheck as of Mon, 20 Jul 2026, next at Hï Ibiza, Ibiza on Thu, 6 Aug 2026.
 
 Nora En Pure is a deep house and house artist tracked on soundcheck, with 133 sets logged across Amsterdam, Austin, Bali and Barcelona and 31 more. Often billed alongside Paradoks, Claptone and Corren Cavini. Next up: Hï Ibiza, Ibiza on Thu 6 Aug.
 
@@ -30,4 +30,4 @@ Nora En Pure is a deep house and house artist tracked on soundcheck, with 133 se
 
 Paradoks, Claptone, Corren Cavini
 
-*Updated Sun, 19 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/noraenpure/)*
+*Updated Mon, 20 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/noraenpure/)*

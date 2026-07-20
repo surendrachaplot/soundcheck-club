@@ -1,6 +1,6 @@
 # Sinners and Saints
 
-Sinners and Saints is a music venue in Washington DC with 3 upcoming nights listed on soundcheck as of Sun, 19 Jul 2026; the next is "Just Clowning Around" on Thu, 23 Jul 2026.
+Sinners and Saints is a music venue in Washington DC with 3 upcoming nights listed on soundcheck as of Mon, 20 Jul 2026; the next is "Just Clowning Around" on Thu, 23 Jul 2026.
 
 Sinners and Saints is a music venue in Washingtondc listed on soundcheck. 3 upcoming nights, with line-ups including dicqbeats, dj unt.il, Harley (US) and JACKIECHANSDOG and 2 more. Browse upcoming dates, start times and who's playing. 2309 18th St NW, Washington, DC 20009, USA.
 
@@ -16,4 +16,4 @@ Sinners and Saints is a music venue in Washingtondc listed on soundcheck. 3 upco
 
 2309 18th St NW, Washington, DC 20009, USA, Washington DC
 
-*Updated Sun, 19 Jul 2026 · source: [soundcheck](https://soundcheck.club/washingtondc/club/sinners-and-saints/)*
+*Updated Mon, 20 Jul 2026 · source: [soundcheck](https://soundcheck.club/washingtondc/club/sinners-and-saints/)*

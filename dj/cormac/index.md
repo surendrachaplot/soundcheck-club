@@ -1,6 +1,6 @@
 # Cormac
 
-Cormac is a House and Disco artist with 3 upcoming club dates listed on soundcheck as of Sun, 19 Jul 2026, next at Hive Club, Zurich on Fri, 24 Jul 2026.
+Cormac is a House and Disco artist with 3 upcoming club dates listed on soundcheck as of Mon, 20 Jul 2026, next at Hive Club, Zurich on Fri, 24 Jul 2026.
 
 Cormac is a house and disco artist tracked on soundcheck, with 168 sets logged across Amsterdam, Antwerp, Athens and Bali and 49 more. Often billed alongside BASHKKA, Massimiliano Pagliara and Roi Perez. Next up: Hive Club, Zurich on Fri 24 Jul.
 
@@ -27,4 +27,4 @@ Cormac is a house and disco artist tracked on soundcheck, with 168 sets logged a
 
 BASHKKA, Massimiliano Pagliara, Roi Perez
 
-*Updated Sun, 19 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/cormac/)*
+*Updated Mon, 20 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/cormac/)*

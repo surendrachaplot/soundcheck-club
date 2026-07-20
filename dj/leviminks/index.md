@@ -1,6 +1,6 @@
 # Leviminks
 
-Leviminks is a Techno and EBM artist with 2 upcoming club dates listed on soundcheck as of Sun, 19 Jul 2026, next at The Old Church, London on Sat, 25 Jul 2026.
+Leviminks is a Techno and EBM artist with 2 upcoming club dates listed on soundcheck as of Mon, 20 Jul 2026, next at The Old Church, London on Sat, 25 Jul 2026.
 
 Leviminks is a techno and ebm artist based in United Kingdom, tracked on soundcheck, with 24 sets logged across Birmingham, Istanbul and London. Often billed alongside Arrosa, LIZAZA and Daria Vanilla. Next up: The Old Church, London on Sat 25 Jul.
 
@@ -26,4 +26,4 @@ Leviminks is a techno and ebm artist based in United Kingdom, tracked on soundch
 
 Arrosa, LIZAZA, Daria Vanilla
 
-*Updated Sun, 19 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/leviminks/)*
+*Updated Mon, 20 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/leviminks/)*

@@ -1,6 +1,6 @@
 # PANICWORKS
 
-PANICWORKS is a Techno and Bass artist with 2 upcoming club dates listed on soundcheck as of Sun, 19 Jul 2026, next at Forestlimit, Tokyo on Wed, 22 Jul 2026.
+PANICWORKS is a Techno and Bass artist with 2 upcoming club dates listed on soundcheck as of Mon, 20 Jul 2026, next at Forestlimit, Tokyo on Wed, 22 Jul 2026.
 
 PANICWORKS is a techno and bass artist based in Japan, tracked on soundcheck, with 30 sets logged across Tokyo. Often billed alongside Seimei, ifuckedyourmum and roomquake. Next up: Forestlimit, Tokyo on Wed 22 Jul.
 
@@ -26,4 +26,4 @@ PANICWORKS is a techno and bass artist based in Japan, tracked on soundcheck, wi
 
 Seimei, ifuckedyourmum, roomquake
 
-*Updated Sun, 19 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/panicworks/)*
+*Updated Mon, 20 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/panicworks/)*

@@ -1,6 +1,6 @@
 # Omi on Acid
 
-Omi on Acid is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Sun, 19 Jul 2026, next at Insomnia, Berlin on Sat, 25 Jul 2026.
+Omi on Acid is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Mon, 20 Jul 2026, next at Insomnia, Berlin on Sat, 25 Jul 2026.
 
 Omi on Acid is a techno and house artist based in Germany, tracked on soundcheck, with 26 sets logged across Berlin, Munich and Vienna. Often billed alongside Rhast, Jose Puerto and Gino Kampari. Next up: Insomnia, Berlin on Sat 25 Jul.
 
@@ -26,4 +26,4 @@ Omi on Acid is a techno and house artist based in Germany, tracked on soundcheck
 
 Rhast, Jose Puerto, Gino Kampari
 
-*Updated Sun, 19 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/omionacid/)*
+*Updated Mon, 20 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/omionacid/)*

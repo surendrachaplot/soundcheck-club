@@ -1,6 +1,6 @@
 # VOID (KR)
 
-VOID (KR) is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Sun, 19 Jul 2026, next at Akasha Las Dalias Club - Ibiza, Ibiza on Wed, 29 Jul 2026.
+VOID (KR) is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Mon, 20 Jul 2026, next at Akasha Las Dalias Club - Ibiza, Ibiza on Wed, 29 Jul 2026.
 
 VOID (KR) is a techno and house artist based in South Korea, tracked on soundcheck, with 40 sets logged across Berlin, Ibiza, Seoul and Tokyo. Often billed alongside HASLA, R.I.M and Kim.Qna. Next up: Akasha Las Dalias Club - Ibiza, Ibiza on Wed 29 Jul.
 
@@ -26,4 +26,4 @@ VOID (KR) is a techno and house artist based in South Korea, tracked on soundche
 
 HASLA, R.I.M, Kim.Qna
 
-*Updated Sun, 19 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/voidkr/)*
+*Updated Mon, 20 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/voidkr/)*

@@ -1,6 +1,6 @@
 # TBA - XOX Arena, ARCH GALERIES
 
-TBA - XOX Arena, ARCH GALERIES is a music venue in Kuala Lumpur with 1 upcoming night listed on soundcheck as of Sun, 19 Jul 2026; the next is "KODEX: TERMINAL" on Sat, 22 Aug 2026.
+TBA - XOX Arena, ARCH GALERIES is a music venue in Kuala Lumpur with 1 upcoming night listed on soundcheck as of Mon, 20 Jul 2026; the next is "KODEX: TERMINAL" on Sat, 22 Aug 2026.
 
 TBA - XOX Arena, ARCH GALERIES is a music venue in Kualalumpur listed on soundcheck. 1 upcoming night, with line-ups including Dimitri K, Dual Damage and Yoshiko. Browse upcoming dates, start times and who's playing.
 
@@ -10,4 +10,4 @@ TBA - XOX Arena, ARCH GALERIES is a music venue in Kualalumpur listed on soundch
 | --- | --- | --- |
 | Sat, 22 Aug 2026 | KODEX: TERMINAL | Dimitri K, Dual Damage, Yoshiko |
 
-*Updated Sun, 19 Jul 2026 · source: [soundcheck](https://soundcheck.club/kualalumpur/club/tba-xox-arena-arch-galeries/)*
+*Updated Mon, 20 Jul 2026 · source: [soundcheck](https://soundcheck.club/kualalumpur/club/tba-xox-arena-arch-galeries/)*

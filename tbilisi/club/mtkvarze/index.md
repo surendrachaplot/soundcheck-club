@@ -1,6 +1,6 @@
 # Mtkvarze
 
-Mtkvarze is a music venue in Tbilisi with 3 upcoming nights listed on soundcheck as of Sun, 19 Jul 2026; the next is "Rydeen • VFY • Vas • Tomma B2B Nika J • Keto" on Fri, 24 Jul 2026.
+Mtkvarze is a music venue in Tbilisi with 3 upcoming nights listed on soundcheck as of Mon, 20 Jul 2026; the next is "Rydeen • VFY • Vas • Tomma B2B Nika J • Keto" on Fri, 24 Jul 2026.
 
 Mtkvarze is a music venue in Tbilisi listed on soundcheck. 3 upcoming nights, with line-ups including DJ Delorean, DJ Sense, Gio Shengelia and Hatsvali and 2 more. Browse upcoming dates, start times and who's playing. Left riverbank of Mtkvari (Kura) river, Agladze str.2.
 
@@ -16,4 +16,4 @@ Mtkvarze is a music venue in Tbilisi listed on soundcheck. 3 upcoming nights, wi
 
 Left riverbank of Mtkvari (Kura) river, Agladze str.2, Tbilisi
 
-*Updated Sun, 19 Jul 2026 · source: [soundcheck](https://soundcheck.club/tbilisi/club/mtkvarze/)*
+*Updated Mon, 20 Jul 2026 · source: [soundcheck](https://soundcheck.club/tbilisi/club/mtkvarze/)*

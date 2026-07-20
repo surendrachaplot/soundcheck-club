@@ -1,6 +1,6 @@
 # Edifício Martinelli
 
-Edifício Martinelli is a music venue in Sao Paulo with 4 upcoming nights listed on soundcheck as of Sun, 19 Jul 2026; the next is "From House to Disco Club presents Secret Guest" on Sat, 8 Aug 2026.
+Edifício Martinelli is a music venue in Sao Paulo with 4 upcoming nights listed on soundcheck as of Mon, 20 Jul 2026; the next is "From House to Disco Club presents Secret Guest" on Sat, 8 Aug 2026.
 
 Edifício Martinelli is a music venue in Saopaulo listed on soundcheck. 4 upcoming nights, with line-ups including From House to Disco, Gop Tun DJs, Tessuto and Renato Cohen. Browse upcoming dates, start times and who's playing. R. São Bento, 405 - Centro Histórico de São Paulo, São Paulo - SP, 01011-100.
 
@@ -17,4 +17,4 @@ Edifício Martinelli is a music venue in Saopaulo listed on soundcheck. 4 upcomi
 
 R. São Bento, 405 - Centro Histórico de São Paulo, São Paulo - SP, 01011-100, Sao Paulo
 
-*Updated Sun, 19 Jul 2026 · source: [soundcheck](https://soundcheck.club/saopaulo/club/edif-cio-martinelli/)*
+*Updated Mon, 20 Jul 2026 · source: [soundcheck](https://soundcheck.club/saopaulo/club/edif-cio-martinelli/)*

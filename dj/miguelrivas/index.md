@@ -1,6 +1,6 @@
 # Miguel Rivas
 
-Miguel Rivas is a Techno and Trance artist with 2 upcoming club dates listed on soundcheck as of Sun, 19 Jul 2026, next at Sala Pirandello, Madrid on Sat, 25 Jul 2026.
+Miguel Rivas is a Techno and Trance artist with 2 upcoming club dates listed on soundcheck as of Mon, 20 Jul 2026, next at Sala Pirandello, Madrid on Sat, 25 Jul 2026.
 
 Miguel Rivas is a techno and trance artist tracked on soundcheck, with 48 sets logged across Madrid. Often billed alongside P1P3, NVMB and Dyans. Next up: Sala Pirandello, Madrid on Sat 25 Jul.
 
@@ -26,4 +26,4 @@ Miguel Rivas is a techno and trance artist tracked on soundcheck, with 48 sets l
 
 P1P3, NVMB, Dyans
 
-*Updated Sun, 19 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/miguelrivas/)*
+*Updated Mon, 20 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/miguelrivas/)*

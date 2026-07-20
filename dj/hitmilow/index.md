@@ -1,6 +1,6 @@
 # HiTMiLØW
 
-HiTMiLØW is a Techno and Trance artist with 7 upcoming club dates listed on soundcheck as of Sun, 19 Jul 2026, next at Westhafen, Leipzig on Sat, 25 Jul 2026.
+HiTMiLØW is a Techno and Trance artist with 7 upcoming club dates listed on soundcheck as of Mon, 20 Jul 2026, next at Westhafen, Leipzig on Sat, 25 Jul 2026.
 
 HiTMiLØW is a techno and trance artist tracked on soundcheck, with 77 sets logged across Barcelona, Berlin, Budapest and Cologne and 14 more. Often billed alongside Cleopard2000, Justin Tinderdate and Mika Heggemann. Next up: Westhafen, Leipzig on Sat 25 Jul.
 
@@ -31,4 +31,4 @@ HiTMiLØW is a techno and trance artist tracked on soundcheck, with 77 sets logg
 
 Cleopard2000, Justin Tinderdate, Mika Heggemann
 
-*Updated Sun, 19 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/hitmilow/)*
+*Updated Mon, 20 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/hitmilow/)*

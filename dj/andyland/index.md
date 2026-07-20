@@ -1,6 +1,6 @@
 # ANDYLAND
 
-ANDYLAND is a Techno and Club artist with 4 upcoming club dates listed on soundcheck as of Sun, 19 Jul 2026, next at The Stud, San Francisco/Oakland on Thu, 30 Jul 2026.
+ANDYLAND is a Techno and Club artist with 4 upcoming club dates listed on soundcheck as of Mon, 20 Jul 2026, next at The Stud, San Francisco/Oakland on Thu, 30 Jul 2026.
 
 ANDYLAND is a techno and club artist based in United States of America, tracked on soundcheck, with 7 sets logged across Sanfrancisco. Often billed alongside MALICIEL, QUEENIE (US) and arktoi. Next up: The Stud, Sanfrancisco on Thu 30 Jul.
 
@@ -23,4 +23,4 @@ ANDYLAND is a techno and club artist based in United States of America, tracked 
 
 MALICIEL, QUEENIE (US), arktoi
 
-*Updated Sun, 19 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/andyland/)*
+*Updated Mon, 20 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/andyland/)*

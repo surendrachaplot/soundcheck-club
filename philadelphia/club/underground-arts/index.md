@@ -1,6 +1,6 @@
 # Underground Arts
 
-Underground Arts is a music venue in Philadelphia with 2 upcoming nights listed on soundcheck as of Sun, 19 Jul 2026; the next is "Off Campus Dance Party" on Thu, 30 Jul 2026.
+Underground Arts is a music venue in Philadelphia with 2 upcoming nights listed on soundcheck as of Mon, 20 Jul 2026; the next is "Off Campus Dance Party" on Thu, 30 Jul 2026.
 
 Underground Arts is a music venue in Philadelphia listed on soundcheck. 2 upcoming nights. Browse upcoming dates, start times and who's playing. 1200 Callowhill Street, Philadelphia, PA 19108.
 
@@ -15,4 +15,4 @@ Underground Arts is a music venue in Philadelphia listed on soundcheck. 2 upcomi
 
 1200 Callowhill Street, Philadelphia, PA 19108, Philadelphia
 
-*Updated Sun, 19 Jul 2026 · source: [soundcheck](https://soundcheck.club/philadelphia/club/underground-arts/)*
+*Updated Mon, 20 Jul 2026 · source: [soundcheck](https://soundcheck.club/philadelphia/club/underground-arts/)*

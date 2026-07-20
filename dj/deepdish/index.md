@@ -1,6 +1,6 @@
 # Deep Dish
 
-Deep Dish is a House and Progressive House artist with 8 upcoming club dates listed on soundcheck as of Sun, 19 Jul 2026, next at Substation, Seattle on Fri, 24 Jul 2026.
+Deep Dish is a House and Progressive House artist with 8 upcoming club dates listed on soundcheck as of Mon, 20 Jul 2026, next at Substation, Seattle on Fri, 24 Jul 2026.
 
 Deep Dish is a house and progressive house artist tracked on soundcheck, with 62 sets logged across Amsterdam, Athens, Austin and Barcelona and 26 more. Often billed alongside Dubfire, Sharam and Eynka. Next up: Substation, Seattle on Fri 24 Jul.
 
@@ -32,4 +32,4 @@ Deep Dish is a house and progressive house artist tracked on soundcheck, with 62
 
 Dubfire, Sharam, Eynka
 
-*Updated Sun, 19 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/deepdish/)*
+*Updated Mon, 20 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/deepdish/)*

@@ -1,6 +1,6 @@
 # The Fox & Newt Pub
 
-The Fox & Newt Pub is a music venue in Leeds with 1 upcoming night listed on soundcheck as of Sun, 19 Jul 2026; the next is "Ambient Leeds: The Midsommars // Ben McElroy // Black Brunswicker" on Sun, 9 Aug 2026.
+The Fox & Newt Pub is a music venue in Leeds with 1 upcoming night listed on soundcheck as of Mon, 20 Jul 2026; the next is "Ambient Leeds: The Midsommars // Ben McElroy // Black Brunswicker" on Sun, 9 Aug 2026.
 
 The Fox & Newt Pub is a music venue in Leeds listed on soundcheck. 1 upcoming night. Browse upcoming dates, start times and who's playing. 9 Burley Street, Leeds, West Yorkshire, LS3 1LD.
 
@@ -14,4 +14,4 @@ The Fox & Newt Pub is a music venue in Leeds listed on soundcheck. 1 upcoming ni
 
 9 Burley Street, Leeds, West Yorkshire, LS3 1LD, Leeds
 
-*Updated Sun, 19 Jul 2026 · source: [soundcheck](https://soundcheck.club/leeds/club/the-fox-newt-pub/)*
+*Updated Mon, 20 Jul 2026 · source: [soundcheck](https://soundcheck.club/leeds/club/the-fox-newt-pub/)*

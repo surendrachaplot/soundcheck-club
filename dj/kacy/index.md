@@ -1,6 +1,6 @@
 # Kacy
 
-Kacy is a Techno and Trance artist with 4 upcoming club dates listed on soundcheck as of Sun, 19 Jul 2026, next at Airport Würzburg, Nürnberg on Fri, 24 Jul 2026.
+Kacy is a Techno and Trance artist with 4 upcoming club dates listed on soundcheck as of Mon, 20 Jul 2026, next at Airport Würzburg, Nürnberg on Fri, 24 Jul 2026.
 
 Kacy is a techno and trance artist tracked on soundcheck, with 75 sets logged across Berlin, Frankfurt, Hamburg and Leipzig and 3 more. Often billed alongside Polytoxic, CiKi and DeGuzman. Next up: Airport Würzburg, Nurnberg on Fri 24 Jul.
 
@@ -28,4 +28,4 @@ Kacy is a techno and trance artist tracked on soundcheck, with 75 sets logged ac
 
 Polytoxic, CiKi, DeGuzman
 
-*Updated Sun, 19 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/kacy/)*
+*Updated Mon, 20 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/kacy/)*

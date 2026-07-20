@@ -1,6 +1,6 @@
 # Decabar Super
 
-Decabar Super is a music venue in Tokyo with 4 upcoming nights listed on soundcheck as of Sun, 19 Jul 2026; the next is "Adrien 綾瀬凛 Birthday" on Thu, 23 Jul 2026.
+Decabar Super is a music venue in Tokyo with 4 upcoming nights listed on soundcheck as of Mon, 20 Jul 2026; the next is "Adrien 綾瀬凛 Birthday" on Thu, 23 Jul 2026.
 
 Decabar Super is a music venue in Tokyo listed on soundcheck. 4 upcoming nights, with line-ups including mionn and Mutron. Browse upcoming dates, start times and who's playing. Tokyo, Shinjuku City, Kabukicho, 1 Chome−9−8 ASAHI Blg. B1.
 
@@ -17,4 +17,4 @@ Decabar Super is a music venue in Tokyo listed on soundcheck. 4 upcoming nights,
 
 Tokyo, Shinjuku City, Kabukicho, 1 Chome−9−8 ASAHI Blg. B1, Tokyo
 
-*Updated Sun, 19 Jul 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/decabar-super/)*
+*Updated Mon, 20 Jul 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/decabar-super/)*

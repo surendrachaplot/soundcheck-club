@@ -1,6 +1,6 @@
 # SISSI'S Amsterdam
 
-SISSI'S Amsterdam is a music venue in Amsterdam with 5 upcoming nights listed on soundcheck as of Sun, 19 Jul 2026; the next is "Sissi's Friday with Pirate Radio, Leroy Rey, Emma Champagne Queen" on Fri, 24 Jul 2026.
+SISSI'S Amsterdam is a music venue in Amsterdam with 5 upcoming nights listed on soundcheck as of Mon, 20 Jul 2026; the next is "Sissi's Friday with Pirate Radio, Leroy Rey, Emma Champagne Queen" on Fri, 24 Jul 2026.
 
 SISSI'S Amsterdam is a music venue in Amsterdam listed on soundcheck. 5 upcoming nights, with line-ups including Abiba Sokoto, CHEM:EX, Cromby and David Vunk and 2 more. Browse upcoming dates, start times and who's playing. Anthony Fokkerweg 3, 1059 CM Amsterdam.
 
@@ -18,4 +18,4 @@ SISSI'S Amsterdam is a music venue in Amsterdam listed on soundcheck. 5 upcoming
 
 Anthony Fokkerweg 3, 1059 CM Amsterdam, Amsterdam
 
-*Updated Sun, 19 Jul 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/sissi-s-amsterdam/)*
+*Updated Mon, 20 Jul 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/sissi-s-amsterdam/)*

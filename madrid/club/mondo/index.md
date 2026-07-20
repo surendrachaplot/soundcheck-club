@@ -1,6 +1,6 @@
 # Mondo
 
-Mondo is a music venue in Madrid with 11 upcoming nights listed on soundcheck as of Sun, 19 Jul 2026; the next is "William Kiss / Gerardo Niva B2B S3PPA / doccudder" on Thu, 23 Jul 2026.
+Mondo is a music venue in Madrid with 11 upcoming nights listed on soundcheck as of Mon, 20 Jul 2026; the next is "William Kiss / Gerardo Niva B2B S3PPA / doccudder" on Thu, 23 Jul 2026.
 
 Mondo is a music venue in Madrid listed on soundcheck. 11 upcoming nights, with line-ups including Alba Franch, DART, DJ SWISHERMAN and doccudder and 2 more. Browse upcoming dates, start times and who's playing. Sala But, C. de Barceló, 11, Local B, Centro, 28004 Madrid.
 
@@ -23,4 +23,4 @@ Mondo is a music venue in Madrid listed on soundcheck. 11 upcoming nights, with 
 
 Sala But, C. de Barceló, 11, Local B, Centro, 28004 Madrid, Madrid
 
-*Updated Sun, 19 Jul 2026 · source: [soundcheck](https://soundcheck.club/madrid/club/mondo/)*
+*Updated Mon, 20 Jul 2026 · source: [soundcheck](https://soundcheck.club/madrid/club/mondo/)*

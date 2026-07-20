@@ -1,6 +1,6 @@
 # Tendency
 
-Tendency is a Techno and Experimental artist with 2 upcoming club dates listed on soundcheck as of Sun, 19 Jul 2026, next at TBA - ARM5A, Porto on Thu, 23 Jul 2026.
+Tendency is a Techno and Experimental artist with 2 upcoming club dates listed on soundcheck as of Mon, 20 Jul 2026, next at TBA - ARM5A, Porto on Thu, 23 Jul 2026.
 
 Tendency is a techno and experimental artist tracked on soundcheck, with 22 sets logged across Berlin, Lisbon and Porto. Often billed alongside Ana Pacheco, Dj Saliva and Hiroma Keo. Next up: TBA - ARM5A, Porto on Thu 23 Jul.
 
@@ -26,4 +26,4 @@ Tendency is a techno and experimental artist tracked on soundcheck, with 22 sets
 
 Ana Pacheco, Dj Saliva, Hiroma Keo
 
-*Updated Sun, 19 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/tendency-pt/)*
+*Updated Mon, 20 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/tendency-pt/)*

@@ -1,6 +1,6 @@
 # Laurent Garnier
 
-Laurent Garnier is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Sun, 19 Jul 2026, next at TBA - address sent to all ticket holders , London on Thu, 23 Jul 2026.
+Laurent Garnier is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Mon, 20 Jul 2026, next at TBA - address sent to all ticket holders , London on Thu, 23 Jul 2026.
 
 Laurent Garnier is a house and techno artist tracked on soundcheck, with 99 sets logged across Amsterdam, Barcelona, Basel and Belgrade and 31 more. Often billed alongside Anetha, DJ Deep and DJ Gigola. Next up: TBA - address sent to all ticket holders , London on Thu 23 Jul.
 
@@ -26,4 +26,4 @@ Laurent Garnier is a house and techno artist tracked on soundcheck, with 99 sets
 
 Anetha, DJ Deep, DJ Gigola
 
-*Updated Sun, 19 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/laurentgarnier/)*
+*Updated Mon, 20 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/laurentgarnier/)*

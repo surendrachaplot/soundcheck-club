@@ -1,6 +1,6 @@
 # PRST
 
-PRST is a music venue in Vienna with 6 upcoming nights listed on soundcheck as of Sun, 19 Jul 2026; the next is "Amore AG x REDIVIDER pres. D.TIFFANY" on Fri, 24 Jul 2026.
+PRST is a music venue in Vienna with 6 upcoming nights listed on soundcheck as of Mon, 20 Jul 2026; the next is "Amore AG x REDIVIDER pres. D.TIFFANY" on Fri, 24 Jul 2026.
 
 PRST is a music venue in Vienna listed on soundcheck. 6 upcoming nights, with line-ups including BAUGRUPPE90, C.Love (2), D. Tiffany and Dj Babatr and 2 more. Browse upcoming dates, start times and who's playing. Praterstraße 18, 1020 Wien, Austria.
 
@@ -19,4 +19,4 @@ PRST is a music venue in Vienna listed on soundcheck. 6 upcoming nights, with li
 
 Praterstraße 18, 1020 Wien, Austria, Vienna
 
-*Updated Sun, 19 Jul 2026 · source: [soundcheck](https://soundcheck.club/vienna/club/prst/)*
+*Updated Mon, 20 Jul 2026 · source: [soundcheck](https://soundcheck.club/vienna/club/prst/)*

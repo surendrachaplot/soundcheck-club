@@ -1,6 +1,6 @@
 # Deutsche Oper Berlin
 
-Deutsche Oper Berlin is a music venue in Berlin with 1 upcoming night listed on soundcheck as of Sun, 19 Jul 2026; the next is "Late Night: operative image - on the Main Stage of Deutsche Oper" on Sat, 29 Aug 2026.
+Deutsche Oper Berlin is a music venue in Berlin with 1 upcoming night listed on soundcheck as of Mon, 20 Jul 2026; the next is "Late Night: operative image - on the Main Stage of Deutsche Oper" on Sat, 29 Aug 2026.
 
 Deutsche Oper Berlin is a music venue in Berlin listed on soundcheck. 1 upcoming night, with line-ups including Alif Hilal, mi-el and Why Be. Browse upcoming dates, start times and who's playing. Bismarckstraße 35, 10627 Berlin, Germany.
 
@@ -14,4 +14,4 @@ Deutsche Oper Berlin is a music venue in Berlin listed on soundcheck. 1 upcoming
 
 Bismarckstraße 35, 10627 Berlin, Germany, Berlin
 
-*Updated Sun, 19 Jul 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/deutsche-oper-berlin/)*
+*Updated Mon, 20 Jul 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/deutsche-oper-berlin/)*

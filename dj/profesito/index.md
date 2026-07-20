@@ -1,6 +1,6 @@
 # Profesito
 
-Profesito is a Club and Reggaeton artist with 3 upcoming club dates listed on soundcheck as of Sun, 19 Jul 2026, next at F8 1192 Folsom, San Francisco/Oakland on Fri, 31 Jul 2026.
+Profesito is a Club and Reggaeton artist with 3 upcoming club dates listed on soundcheck as of Mon, 20 Jul 2026, next at F8 1192 Folsom, San Francisco/Oakland on Fri, 31 Jul 2026.
 
 Profesito is a club and reggaeton artist based in United States of America, tracked on soundcheck, with 59 sets logged across Losangeles and Sanfrancisco. Often billed alongside Louie El Ser, DJ Saratonin and QUEENIE (US). Next up: F8 1192 Folsom, Sanfrancisco on Fri 31 Jul.
 
@@ -27,4 +27,4 @@ Profesito is a club and reggaeton artist based in United States of America, trac
 
 Louie El Ser, DJ Saratonin, QUEENIE (US)
 
-*Updated Sun, 19 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/profesito/)*
+*Updated Mon, 20 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/profesito/)*

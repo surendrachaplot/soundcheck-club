@@ -1,6 +1,6 @@
 # KASTILO
 
-KASTILO is a Techno and Industrial artist with 2 upcoming club dates listed on soundcheck as of Sun, 19 Jul 2026, next at E1, London on Fri, 4 Sept 2026.
+KASTILO is a Techno and Industrial artist with 2 upcoming club dates listed on soundcheck as of Mon, 20 Jul 2026, next at E1, London on Fri, 4 Sept 2026.
 
 KASTILO is a techno and industrial artist based in Spain, tracked on soundcheck, with 23 sets logged across Birmingham, Cardiff, London and Madrid and 1 more. Often billed alongside Dres Codex, Lau.tastic and Baptist (UK). Next up: E1, London on Fri 4 Sept.
 
@@ -26,4 +26,4 @@ KASTILO is a techno and industrial artist based in Spain, tracked on soundcheck,
 
 Dres Codex, Lau.tastic, Baptist (UK)
 
-*Updated Sun, 19 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/kastilo/)*
+*Updated Mon, 20 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/kastilo/)*

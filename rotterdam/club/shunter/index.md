@@ -1,6 +1,6 @@
 # Shunter
 
-Shunter is a music venue in Rotterdam with 1 upcoming night listed on soundcheck as of Sun, 19 Jul 2026; the next is "POING FESTIVAL" on Sat, 22 Aug 2026.
+Shunter is a music venue in Rotterdam with 1 upcoming night listed on soundcheck as of Mon, 20 Jul 2026; the next is "POING FESTIVAL" on Sat, 22 Aug 2026.
 
 Shunter is a music venue in Rotterdam listed on soundcheck. 1 upcoming night, with line-ups including Ambu Bambu, AMORAL, Candy Coup and Chippy Nonstop and 2 more. Browse upcoming dates, start times and who's playing. 2e Rosestraat 10, Rotterdam, Netherlands 3074JK.
 
@@ -14,4 +14,4 @@ Shunter is a music venue in Rotterdam listed on soundcheck. 1 upcoming night, wi
 
 2e Rosestraat 10, Rotterdam, Netherlands 3074JK, Rotterdam
 
-*Updated Sun, 19 Jul 2026 · source: [soundcheck](https://soundcheck.club/rotterdam/club/shunter/)*
+*Updated Mon, 20 Jul 2026 · source: [soundcheck](https://soundcheck.club/rotterdam/club/shunter/)*

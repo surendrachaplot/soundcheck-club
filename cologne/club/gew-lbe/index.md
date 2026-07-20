@@ -1,6 +1,6 @@
 # Gewölbe
 
-Gewölbe is a music venue in Cologne with 5 upcoming nights listed on soundcheck as of Sun, 19 Jul 2026; the next is "Toy Tonics with Arpy Brown, Delfonic, Lingy" on Sat, 25 Jul 2026.
+Gewölbe is a music venue in Cologne with 5 upcoming nights listed on soundcheck as of Mon, 20 Jul 2026; the next is "Toy Tonics with Arpy Brown, Delfonic, Lingy" on Sat, 25 Jul 2026.
 
 Gewölbe is a music venue in Cologne listed on soundcheck. 5 upcoming nights, with line-ups including Arpy Brown, Carl Craig, Delfonic and Elli Acula and 2 more. Browse upcoming dates, start times and who's playing. Hans-Böckler Platz 2, 50672; Cologne; Germany.
 
@@ -18,4 +18,4 @@ Gewölbe is a music venue in Cologne listed on soundcheck. 5 upcoming nights, wi
 
 Hans-Böckler Platz 2, 50672; Cologne; Germany, Cologne
 
-*Updated Sun, 19 Jul 2026 · source: [soundcheck](https://soundcheck.club/cologne/club/gew-lbe/)*
+*Updated Mon, 20 Jul 2026 · source: [soundcheck](https://soundcheck.club/cologne/club/gew-lbe/)*

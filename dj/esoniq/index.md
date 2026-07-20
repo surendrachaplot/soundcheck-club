@@ -1,6 +1,6 @@
 # Esoniq
 
-Esoniq is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Sun, 19 Jul 2026, next at TBA - @ Zefīrs by day, @ SPĒLĒT by night, Riga on Fri, 24 Jul 2026.
+Esoniq is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Mon, 20 Jul 2026, next at TBA - @ Zefīrs by day, @ SPĒLĒT by night, Riga on Fri, 24 Jul 2026.
 
 Esoniq is a house and techno artist tracked on soundcheck, with 46 sets logged across Riga. Often billed alongside Ksenia Kamikaza, Waxid and HP-82. Next up: TBA - @ Zefīrs by day, @ SPĒLĒT by night, Riga on Fri 24 Jul.
 
@@ -26,4 +26,4 @@ Esoniq is a house and techno artist tracked on soundcheck, with 46 sets logged a
 
 Ksenia Kamikaza, Waxid, HP-82
 
-*Updated Sun, 19 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/esoniq/)*
+*Updated Mon, 20 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/esoniq/)*

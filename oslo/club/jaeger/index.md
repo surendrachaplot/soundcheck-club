@@ -1,6 +1,6 @@
 # Jaeger
 
-Jaeger is a music venue in Oslo with 16 upcoming nights listed on soundcheck as of Sun, 19 Jul 2026; the next is "Frædag x URO: Rigoplar + G-HA + Don Quan + Fabian Berg" on Fri, 24 Jul 2026.
+Jaeger is a music venue in Oslo with 16 upcoming nights listed on soundcheck as of Mon, 20 Jul 2026; the next is "Frædag x URO: Rigoplar + G-HA + Don Quan + Fabian Berg" on Fri, 24 Jul 2026.
 
 Jaeger is a music venue in Oslo listed on soundcheck. 16 upcoming nights, with line-ups including Alexander Skancke, Alix Perez, blichfeldt and Cody Currie and 2 more. Browse upcoming dates, start times and who's playing. Grensen 9; 0159 Oslo; Norway,.
 
@@ -23,4 +23,4 @@ Jaeger is a music venue in Oslo listed on soundcheck. 16 upcoming nights, with l
 
 Grensen 9; 0159 Oslo; Norway,, Oslo
 
-*Updated Sun, 19 Jul 2026 · source: [soundcheck](https://soundcheck.club/oslo/club/jaeger/)*
+*Updated Mon, 20 Jul 2026 · source: [soundcheck](https://soundcheck.club/oslo/club/jaeger/)*

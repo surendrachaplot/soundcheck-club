@@ -1,6 +1,6 @@
 # Bella Veranda
 
-Bella Veranda is a music venue in Zurich with 4 upcoming nights listed on soundcheck as of Sun, 19 Jul 2026; the next is "OFF:GRID - AFTERWORK SESSION" on Fri, 24 Jul 2026.
+Bella Veranda is a music venue in Zurich with 4 upcoming nights listed on soundcheck as of Mon, 20 Jul 2026; the next is "OFF:GRID - AFTERWORK SESSION" on Fri, 24 Jul 2026.
 
 Bella Veranda is a music venue in Zurich listed on soundcheck. 4 upcoming nights, with line-ups including Anthik and fraumuhlin. Browse upcoming dates, start times and who's playing.
 
@@ -13,4 +13,4 @@ Bella Veranda is a music venue in Zurich listed on soundcheck. 4 upcoming nights
 | Sat, 15 Aug 2026 | Bella Veranda - NOCTURNA |  |
 | Sat, 26 Sept 2026 | Bella Veranda - ME•PATE |  |
 
-*Updated Sun, 19 Jul 2026 · source: [soundcheck](https://soundcheck.club/zurich/club/bella-veranda/)*
+*Updated Mon, 20 Jul 2026 · source: [soundcheck](https://soundcheck.club/zurich/club/bella-veranda/)*

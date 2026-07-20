@@ -1,6 +1,6 @@
 # The Bridge
 
-The Bridge is a music venue in Los Angeles with 8 upcoming nights listed on soundcheck as of Sun, 19 Jul 2026; the next is "STRANGER THAN presents: Stavroz (Live)" on Fri, 24 Jul 2026.
+The Bridge is a music venue in Los Angeles with 8 upcoming nights listed on soundcheck as of Mon, 20 Jul 2026; the next is "STRANGER THAN presents: Stavroz (Live)" on Fri, 24 Jul 2026.
 
 The Bridge is a music venue in Losangeles listed on soundcheck. 8 upcoming nights, with line-ups including Afriqua, Axel Boman, Azzecca and Dick Ensalada and 2 more. Browse upcoming dates, start times and who's playing. 630 S Anderson St, Los Angeles, CA 90023.
 
@@ -21,4 +21,4 @@ The Bridge is a music venue in Losangeles listed on soundcheck. 8 upcoming night
 
 630 S Anderson St, Los Angeles, CA 90023, Los Angeles
 
-*Updated Sun, 19 Jul 2026 · source: [soundcheck](https://soundcheck.club/losangeles/club/the-bridge/)*
+*Updated Mon, 20 Jul 2026 · source: [soundcheck](https://soundcheck.club/losangeles/club/the-bridge/)*

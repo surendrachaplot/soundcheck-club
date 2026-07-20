@@ -1,6 +1,6 @@
 # Picasso
 
-Picasso is a House and Minimal artist with 2 upcoming club dates listed on soundcheck as of Sun, 19 Jul 2026, next at Palais, London on Sat, 25 Jul 2026.
+Picasso is a House and Minimal artist with 2 upcoming club dates listed on soundcheck as of Mon, 20 Jul 2026, next at Palais, London on Sat, 25 Jul 2026.
 
 Picasso is a house and minimal artist tracked on soundcheck, with 36 sets logged across Amsterdam, Berlin, Brussels and Ghent and 8 more. Often billed alongside Bowyer, Duowe and Kian OK. Next up: Palais, London on Sat 25 Jul.
 
@@ -26,4 +26,4 @@ Picasso is a house and minimal artist tracked on soundcheck, with 36 sets logged
 
 Bowyer, Duowe, Kian OK
 
-*Updated Sun, 19 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/picasso/)*
+*Updated Mon, 20 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/picasso/)*

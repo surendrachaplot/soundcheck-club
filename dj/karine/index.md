@@ -1,6 +1,6 @@
 # Karine
 
-Karine is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Sun, 19 Jul 2026, next at gART.n, Berlin on Sat, 15 Aug 2026.
+Karine is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Mon, 20 Jul 2026, next at gART.n, Berlin on Sat, 15 Aug 2026.
 
 Karine is a house and techno artist based in Ukraine, tracked on soundcheck, with 101 sets logged across Amsterdam, Barcelona, Berlin and Brussels and 29 more. Often billed alongside Shakolin, Noizar and Timur Basha. Next up: gART.n, Berlin on Sat 15 Aug.
 
@@ -26,4 +26,4 @@ Karine is a house and techno artist based in Ukraine, tracked on soundcheck, wit
 
 Shakolin, Noizar, Timur Basha
 
-*Updated Sun, 19 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/karine/)*
+*Updated Mon, 20 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/karine/)*

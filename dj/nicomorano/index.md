@@ -1,6 +1,6 @@
 # Nico Morano
 
-Nico Morano is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Sun, 19 Jul 2026, next at Ritter Butzke, Berlin on Fri, 4 Sept 2026.
+Nico Morano is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Mon, 20 Jul 2026, next at Ritter Butzke, Berlin on Fri, 4 Sept 2026.
 
 Nico Morano is a techno and house artist based in Belgium, tracked on soundcheck, with 66 sets logged across Amsterdam, Antwerp, Barcelona and Berlin and 19 more. Often billed alongside EMJIE, Bibi Seck and NTO. Next up: Ritter Butzke, Berlin on Fri 4 Sept.
 
@@ -26,4 +26,4 @@ Nico Morano is a techno and house artist based in Belgium, tracked on soundcheck
 
 EMJIE, Bibi Seck, NTO
 
-*Updated Sun, 19 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/nicomorano/)*
+*Updated Mon, 20 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/nicomorano/)*

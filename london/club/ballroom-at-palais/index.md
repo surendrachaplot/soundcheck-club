@@ -1,6 +1,6 @@
 # Ballroom at Palais
 
-Ballroom at Palais is a music venue in London with 4 upcoming nights listed on soundcheck as of Sun, 19 Jul 2026; the next is "Ballroom at Palais: Ella Fayden & MAXIBON" on Fri, 24 Jul 2026.
+Ballroom at Palais is a music venue in London with 4 upcoming nights listed on soundcheck as of Mon, 20 Jul 2026; the next is "Ballroom at Palais: Ella Fayden & MAXIBON" on Fri, 24 Jul 2026.
 
 Ballroom at Palais is a music venue in London listed on soundcheck. 4 upcoming nights, with line-ups including Ella Fayden, floor length skirts, Glade Marie and Mahnoor and 2 more. Browse upcoming dates, start times and who's playing. 1a Rye Ln, London SE15 5EW.
 
@@ -17,4 +17,4 @@ Ballroom at Palais is a music venue in London listed on soundcheck. 4 upcoming n
 
 1a Rye Ln, London SE15 5EW, London
 
-*Updated Sun, 19 Jul 2026 · source: [soundcheck](https://soundcheck.club/london/club/ballroom-at-palais/)*
+*Updated Mon, 20 Jul 2026 · source: [soundcheck](https://soundcheck.club/london/club/ballroom-at-palais/)*

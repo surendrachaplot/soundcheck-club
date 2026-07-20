@@ -1,6 +1,6 @@
 # ALI3N
 
-ALI3N is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Sun, 19 Jul 2026, next at It's a Bar, Berlin on Tue, 21 Jul 2026.
+ALI3N is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Mon, 20 Jul 2026, next at It's a Bar, Berlin on Tue, 21 Jul 2026.
 
 ALI3N is a techno and house artist based in Germany, tracked on soundcheck, with 50 sets logged across Athens, Bangkok, Basel and Belgrade and 16 more. Often billed alongside Nina Farrina, Carmen Electro and MCR-T. Next up: It's a Bar, Berlin on Tue 21 Jul.
 
@@ -26,4 +26,4 @@ ALI3N is a techno and house artist based in Germany, tracked on soundcheck, with
 
 Nina Farrina, Carmen Electro, MCR-T
 
-*Updated Sun, 19 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/ali3n/)*
+*Updated Mon, 20 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/ali3n/)*

@@ -1,14 +1,13 @@
 # Société des arts technologiques
 
-Société des arts technologiques is a music venue in Montreal with 18 upcoming nights listed on soundcheck as of Sun, 19 Jul 2026; the next is "SUNSAT" on Sun, 19 Jul 2026.
+Société des arts technologiques is a music venue in Montreal with 17 upcoming nights listed on soundcheck as of Mon, 20 Jul 2026; the next is "Dômesicle — Lars Huismann (DE) • Esther Côté b2b newfriend" on Fri, 24 Jul 2026.
 
-Société des arts technologiques is a music venue in Montreal listed on soundcheck. 18 upcoming nights, with line-ups including AceMo, A Guy Called Gerald, Alan Harman and Alina (MTL) and 2 more. Browse upcoming dates, start times and who's playing. 1201 Boulevard Saint-Laurent; Montréal, QC H2X 2S6; Canada.
+Société des arts technologiques is a music venue in Montreal listed on soundcheck. 17 upcoming nights, with line-ups including AceMo, A Guy Called Gerald, Alan Harman and Alina (MTL) and 2 more. Browse upcoming dates, start times and who's playing. 1201 Boulevard Saint-Laurent; Montréal, QC H2X 2S6; Canada.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Sun, 19 Jul 2026 | SUNSAT | Laurence Matte, Liv K |
 | Fri, 24 Jul 2026 | Dômesicle — Lars Huismann (DE) • Esther Côté b2b newfriend | Esther Côté, Lars Huismann, newfriend |
 | Fri, 31 Jul 2026 | Dômesicle x HomeBy6 — AceMo (US) • Casa Kobrae b2b Felix Patry | AceMo, Casa Kobrae, Felix Patry |
 | Fri, 31 Jul 2026 | sl*tty & solidaire | Jasleen, San Farafina, venus in bed |
@@ -18,9 +17,10 @@ Société des arts technologiques is a music venue in Montreal listed on soundch
 | Sat, 8 Aug 2026 | DISCOÑO Orgullo Pride | ARMANA KHAN, Byrell The Great, Cakes Da Killa, Clementaum, DJ Punani, Ekitwanda, La Niña Kiwi, Ms Nina (ES), Rosa Pistola, Syana, UNiiQU3, mCherry |
 | Fri, 14 Aug 2026 | Dômesicle x Ether — Sister Zo (US) • somebody3lse • MIASALAV b2b Runa | MIASALAV, Runa, Sister Zo, somebody3lse |
 | Fri, 21 Aug 2026 | Dômesicle x Homegrown Harvest — DJ Nobu (JP) • dileta | DJ Nobu, dileta |
+| Wed, 26 Aug 2026 | Matthew Herbert, Barker, Debit, Marc-Antoine Barbier - MUTEK 27 | Barker, Debit, France Jobin, Matthew Herbert, Mesocosm |
 
 ## Address
 
 1201 Boulevard Saint-Laurent; Montréal, QC H2X 2S6; Canada, Montreal
 
-*Updated Sun, 19 Jul 2026 · source: [soundcheck](https://soundcheck.club/montreal/club/soci-t-des-arts-technologiques/)*
+*Updated Mon, 20 Jul 2026 · source: [soundcheck](https://soundcheck.club/montreal/club/soci-t-des-arts-technologiques/)*

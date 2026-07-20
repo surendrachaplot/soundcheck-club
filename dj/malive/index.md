@@ -1,6 +1,6 @@
 # Malive
 
-Malive is a House and Deep House artist with 4 upcoming club dates listed on soundcheck as of Sun, 19 Jul 2026, next at Central Park SummerStage, New York City on Sat, 25 Jul 2026.
+Malive is a House and Deep House artist with 4 upcoming club dates listed on soundcheck as of Mon, 20 Jul 2026, next at Central Park SummerStage, New York City on Sat, 25 Jul 2026.
 
 Malive is a house and deep house artist tracked on soundcheck, with 28 sets logged across Athens, Barcelona, Budapest and Ibiza and 11 more. Often billed alongside Jonas Blue, Korolova and Maz (BR). Next up: Central Park SummerStage, Newyorkcity on Sat 25 Jul.
 
@@ -28,4 +28,4 @@ Malive is a house and deep house artist tracked on soundcheck, with 28 sets logg
 
 Jonas Blue, Korolova, Maz (BR)
 
-*Updated Sun, 19 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/malive/)*
+*Updated Mon, 20 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/malive/)*

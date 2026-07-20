@@ -1,6 +1,6 @@
 # Villa Viva
 
-Villa Viva is a music venue in Hamburg with 1 upcoming night listed on soundcheck as of Sun, 19 Jul 2026; the next is "TOHHNHOUSE" on Sat, 8 Aug 2026.
+Villa Viva is a music venue in Hamburg with 1 upcoming night listed on soundcheck as of Mon, 20 Jul 2026; the next is "TOHHNHOUSE" on Sat, 8 Aug 2026.
 
 Villa Viva is a music venue in Hamburg listed on soundcheck. 1 upcoming night, with line-ups including Bailey Brown and Ssero. Browse upcoming dates, start times and who's playing. Schultzweg 4, 20097 Hamburg, Germany.
 
@@ -14,4 +14,4 @@ Villa Viva is a music venue in Hamburg listed on soundcheck. 1 upcoming night, w
 
 Schultzweg 4, 20097 Hamburg, Germany, Hamburg
 
-*Updated Sun, 19 Jul 2026 · source: [soundcheck](https://soundcheck.club/hamburg/club/villa-viva/)*
+*Updated Mon, 20 Jul 2026 · source: [soundcheck](https://soundcheck.club/hamburg/club/villa-viva/)*

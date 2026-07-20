@@ -1,6 +1,6 @@
 # VÏVÏ
 
-VÏVÏ is a Techno and Breakbeat artist with 2 upcoming club dates listed on soundcheck as of Sun, 19 Jul 2026, next at T2 Shinjuku, Tokyo on Mon, 20 Jul 2026.
+VÏVÏ is a Techno and Breakbeat artist with 2 upcoming club dates listed on soundcheck as of Mon, 20 Jul 2026, next at T2 Shinjuku, Tokyo on Mon, 20 Jul 2026.
 
 VÏVÏ is a techno and breakbeat artist based in Japan, tracked on soundcheck, with 26 sets logged across Tokyo. Often billed alongside DØLLHAUS, FrEaKyNoRiKy and AYANA KOSHIBA. Next up: T2 Shinjuku, Tokyo on Mon 20 Jul.
 
@@ -26,4 +26,4 @@ VÏVÏ is a techno and breakbeat artist based in Japan, tracked on soundcheck, w
 
 DØLLHAUS, FrEaKyNoRiKy, AYANA KOSHIBA
 
-*Updated Sun, 19 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/vïvï/)*
+*Updated Mon, 20 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/vïvï/)*

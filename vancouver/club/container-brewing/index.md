@@ -1,6 +1,6 @@
 # Container Brewing
 
-Container Brewing is a music venue in Vancouver with 1 upcoming night listed on soundcheck as of Sun, 19 Jul 2026; the next is "Step Out: Chez Damier & Eddie Leader [Hudd Traxx 20 Year Anniversary]" on Sat, 29 Aug 2026.
+Container Brewing is a music venue in Vancouver with 1 upcoming night listed on soundcheck as of Mon, 20 Jul 2026; the next is "Step Out: Chez Damier & Eddie Leader [Hudd Traxx 20 Year Anniversary]" on Sat, 29 Aug 2026.
 
 Container Brewing is a music venue in Vancouver listed on soundcheck. 1 upcoming night, with line-ups including Beiti, Chez Damier, Eddie Leader and Limbowalk and 1 more. Browse upcoming dates, start times and who's playing. 1216 Franklin Street, Vancouver, BC V6A 1K1, Canada.
 
@@ -14,4 +14,4 @@ Container Brewing is a music venue in Vancouver listed on soundcheck. 1 upcoming
 
 1216 Franklin Street, Vancouver, BC V6A 1K1, Canada, Vancouver
 
-*Updated Sun, 19 Jul 2026 · source: [soundcheck](https://soundcheck.club/vancouver/club/container-brewing/)*
+*Updated Mon, 20 Jul 2026 · source: [soundcheck](https://soundcheck.club/vancouver/club/container-brewing/)*

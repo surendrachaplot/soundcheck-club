@@ -1,6 +1,6 @@
 # Almedina (2)
 
-Almedina (2) is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Sun, 19 Jul 2026, next at BLITZ, Munich on Fri, 31 Jul 2026.
+Almedina (2) is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Mon, 20 Jul 2026, next at BLITZ, Munich on Fri, 31 Jul 2026.
 
 Almedina (2) is a house and techno artist tracked on soundcheck, with 28 sets logged across Barcelona, Munich, Stuttgart and Vienna. Often billed alongside Olli Rubber, A-DEE and Alles Andere. Next up: BLITZ, Munich on Fri 31 Jul.
 
@@ -26,4 +26,4 @@ Almedina (2) is a house and techno artist tracked on soundcheck, with 28 sets lo
 
 Olli Rubber, A-DEE, Alles Andere
 
-*Updated Sun, 19 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/almedina-2/)*
+*Updated Mon, 20 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/almedina-2/)*

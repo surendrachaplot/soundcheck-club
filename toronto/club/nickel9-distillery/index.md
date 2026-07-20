@@ -1,6 +1,6 @@
 # Nickel9 Distillery
 
-Nickel9 Distillery is a music venue in Toronto with 1 upcoming night listed on soundcheck as of Sun, 19 Jul 2026; the next is "Princess Connection" on Fri, 24 Jul 2026.
+Nickel9 Distillery is a music venue in Toronto with 1 upcoming night listed on soundcheck as of Mon, 20 Jul 2026; the next is "Princess Connection" on Fri, 24 Jul 2026.
 
 Nickel9 Distillery is a music venue in Toronto listed on soundcheck. 1 upcoming night, with line-ups including CZY4N, denden, Hanson w/o H and L!ght and 2 more. Browse upcoming dates, start times and who's playing. 90 Cawthra Ave #100, Toronto, ON M6N 3C2.
 
@@ -14,4 +14,4 @@ Nickel9 Distillery is a music venue in Toronto listed on soundcheck. 1 upcoming 
 
 90 Cawthra Ave #100, Toronto, ON M6N 3C2, Toronto
 
-*Updated Sun, 19 Jul 2026 · source: [soundcheck](https://soundcheck.club/toronto/club/nickel9-distillery/)*
+*Updated Mon, 20 Jul 2026 · source: [soundcheck](https://soundcheck.club/toronto/club/nickel9-distillery/)*

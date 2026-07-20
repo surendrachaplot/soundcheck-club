@@ -1,6 +1,6 @@
 # DNNS
 
-DNNS is a Techno and Hardcore artist with 2 upcoming club dates listed on soundcheck as of Sun, 19 Jul 2026, next at Le Kilowatt, Paris on Sat, 8 Aug 2026.
+DNNS is a Techno and Hardcore artist with 2 upcoming club dates listed on soundcheck as of Mon, 20 Jul 2026, next at Le Kilowatt, Paris on Sat, 8 Aug 2026.
 
 DNNS is a techno and hardcore artist based in Belgium, tracked on soundcheck, with 29 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 10 more. Often billed alongside Zorza, NTBR and AA/XX. Next up: Le Kilowatt, Paris on Sat 8 Aug.
 
@@ -26,4 +26,4 @@ DNNS is a techno and hardcore artist based in Belgium, tracked on soundcheck, wi
 
 Zorza, NTBR, AA/XX
 
-*Updated Sun, 19 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/dnns-2/)*
+*Updated Mon, 20 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/dnns-2/)*

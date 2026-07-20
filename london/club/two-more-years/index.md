@@ -1,6 +1,6 @@
 # Two More Years
 
-Two More Years is a music venue in London with 4 upcoming nights listed on soundcheck as of Sun, 19 Jul 2026; the next is "Catch The Groove" on Fri, 24 Jul 2026.
+Two More Years is a music venue in London with 4 upcoming nights listed on soundcheck as of Mon, 20 Jul 2026; the next is "Catch The Groove" on Fri, 24 Jul 2026.
 
 Two More Years is a music venue in London listed on soundcheck. 4 upcoming nights, with line-ups including Another George, BRUIN (UK), Dan Howell and Franklin DJ and 2 more. Browse upcoming dates, start times and who's playing. 7 Roach Road, Hackney Wick, E3 2PA.
 
@@ -17,4 +17,4 @@ Two More Years is a music venue in London listed on soundcheck. 4 upcoming night
 
 7 Roach Road, Hackney Wick, E3 2PA, London
 
-*Updated Sun, 19 Jul 2026 · source: [soundcheck](https://soundcheck.club/london/club/two-more-years/)*
+*Updated Mon, 20 Jul 2026 · source: [soundcheck](https://soundcheck.club/london/club/two-more-years/)*

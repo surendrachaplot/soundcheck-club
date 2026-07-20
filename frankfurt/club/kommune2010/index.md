@@ -1,6 +1,6 @@
 # Kommune2010
 
-Kommune2010 is a music venue in Frankfurt with 2 upcoming nights listed on soundcheck as of Sun, 19 Jul 2026; the next is "Rummelfest" on Sat, 1 Aug 2026.
+Kommune2010 is a music venue in Frankfurt with 2 upcoming nights listed on soundcheck as of Mon, 20 Jul 2026; the next is "Rummelfest" on Sat, 1 Aug 2026.
 
 Kommune2010 is a music venue in Frankfurt listed on soundcheck. 2 upcoming nights. Browse upcoming dates, start times and who's playing. Sprendlingerlandstr.181.
 
@@ -15,4 +15,4 @@ Kommune2010 is a music venue in Frankfurt listed on soundcheck. 2 upcoming night
 
 Sprendlingerlandstr.181, Frankfurt
 
-*Updated Sun, 19 Jul 2026 · source: [soundcheck](https://soundcheck.club/frankfurt/club/kommune2010/)*
+*Updated Mon, 20 Jul 2026 · source: [soundcheck](https://soundcheck.club/frankfurt/club/kommune2010/)*

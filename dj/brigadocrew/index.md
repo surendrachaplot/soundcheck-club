@@ -1,6 +1,6 @@
 # Brigado Crew
 
-Brigado Crew is a Techno and Progressive House artist with 2 upcoming club dates listed on soundcheck as of Sun, 19 Jul 2026, next at TBA, Buenos Aires on Sat, 8 Aug 2026.
+Brigado Crew is a Techno and Progressive House artist with 2 upcoming club dates listed on soundcheck as of Mon, 20 Jul 2026, next at TBA, Buenos Aires on Sat, 8 Aug 2026.
 
 Brigado Crew is a techno and progressive house artist tracked on soundcheck, with 50 sets logged across Antwerp, Barcelona, Berlin and Buenosaires and 13 more. Often billed alongside Konstantin Sibold, VMM DJ For Fun and ACCARD. Next up: TBA, Buenosaires on Sat 8 Aug.
 
@@ -26,4 +26,4 @@ Brigado Crew is a techno and progressive house artist tracked on soundcheck, wit
 
 Konstantin Sibold, VMM DJ For Fun, ACCARD
 
-*Updated Sun, 19 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/brigadocrew/)*
+*Updated Mon, 20 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/brigadocrew/)*

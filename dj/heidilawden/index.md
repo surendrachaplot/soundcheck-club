@@ -1,6 +1,6 @@
 # Heidi Lawden
 
-Heidi Lawden is a House and Disco artist with 8 upcoming club dates listed on soundcheck as of Sun, 19 Jul 2026, next at TBA - address sent to all ticket holders , London on Thu, 23 Jul 2026.
+Heidi Lawden is a House and Disco artist with 8 upcoming club dates listed on soundcheck as of Mon, 20 Jul 2026, next at TBA - address sent to all ticket holders , London on Thu, 23 Jul 2026.
 
 Heidi Lawden is a house and disco artist tracked on soundcheck, with 164 sets logged across Athens, Bali, Barcelona and Belfast and 19 more. Often billed alongside Masha Mar, Lovefingers and Masha. Next up: TBA - address sent to all ticket holders , London on Thu 23 Jul.
 
@@ -32,4 +32,4 @@ Heidi Lawden is a house and disco artist tracked on soundcheck, with 164 sets lo
 
 Masha Mar, Lovefingers, Masha
 
-*Updated Sun, 19 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/heidilawden/)*
+*Updated Mon, 20 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/heidilawden/)*

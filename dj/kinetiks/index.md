@@ -1,6 +1,6 @@
 # KINETIKS
 
-KINETIKS is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Sun, 19 Jul 2026, next at Roel Langerakpark, Rotterdam on Sat, 8 Aug 2026.
+KINETIKS is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Mon, 20 Jul 2026, next at Roel Langerakpark, Rotterdam on Sat, 8 Aug 2026.
 
 KINETIKS is a house and techno artist based in Netherlands, tracked on soundcheck, with 17 sets logged across Amsterdam, Rotterdam, Thehague and Utrecht and 1 more. Often billed alongside Lucky Done Gone, AUTOFLOWER and Kara Okay. Next up: Roel Langerakpark, Rotterdam on Sat 8 Aug.
 
@@ -27,4 +27,4 @@ KINETIKS is a house and techno artist based in Netherlands, tracked on soundchec
 
 Lucky Done Gone, AUTOFLOWER, Kara Okay
 
-*Updated Sun, 19 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/kinetiks/)*
+*Updated Mon, 20 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/kinetiks/)*

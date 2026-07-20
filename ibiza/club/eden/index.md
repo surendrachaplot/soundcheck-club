@@ -1,6 +1,6 @@
 # Eden
 
-Eden is a music venue in Ibiza with 9 upcoming nights listed on soundcheck as of Sun, 19 Jul 2026; the next is "Galactica Ibiza with Winson, KLOFAMA, Daisy, SANEM" on Tue, 21 Jul 2026.
+Eden is a music venue in Ibiza with 9 upcoming nights listed on soundcheck as of Mon, 20 Jul 2026; the next is "Galactica Ibiza with Winson, KLOFAMA, Daisy, SANEM" on Tue, 21 Jul 2026.
 
 Eden is a music venue in Ibiza listed on soundcheck. 9 upcoming nights, with line-ups including 6EJOU, Andres Campo, Angerfist and ANKKH and 2 more. Browse upcoming dates, start times and who's playing. Carrer Salvador Espriu,  07820 San Antonio, Ibiza, Spain.
 
@@ -22,4 +22,4 @@ Eden is a music venue in Ibiza listed on soundcheck. 9 upcoming nights, with lin
 
 Carrer Salvador Espriu,  07820 San Antonio, Ibiza, Spain, Ibiza
 
-*Updated Sun, 19 Jul 2026 · source: [soundcheck](https://soundcheck.club/ibiza/club/eden/)*
+*Updated Mon, 20 Jul 2026 · source: [soundcheck](https://soundcheck.club/ibiza/club/eden/)*

@@ -1,6 +1,6 @@
 # Meyhartt
 
-Meyhartt is a Techno and Trance artist with 4 upcoming club dates listed on soundcheck as of Sun, 19 Jul 2026, next at elipamanoke, Leipzig on Wed, 22 Jul 2026.
+Meyhartt is a Techno and Trance artist with 4 upcoming club dates listed on soundcheck as of Mon, 20 Jul 2026, next at elipamanoke, Leipzig on Wed, 22 Jul 2026.
 
 Meyhartt is a techno and trance artist based in Germany, tracked on soundcheck, with 22 sets logged across Berlin, Leipzig and Prague. Often billed alongside Jaszaloth, VLUNA and CAVVØ. Next up: elipamanoke, Leipzig on Wed 22 Jul.
 
@@ -28,4 +28,4 @@ Meyhartt is a techno and trance artist based in Germany, tracked on soundcheck, 
 
 Jaszaloth, VLUNA, CAVVØ
 
-*Updated Sun, 19 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/meyhartt/)*
+*Updated Mon, 20 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/meyhartt/)*

@@ -1,6 +1,6 @@
 # Honey Dijon
 
-Honey Dijon is a House and Techno artist with 8 upcoming club dates listed on soundcheck as of Sun, 19 Jul 2026, next at Komplexo Tempo, Sao Paulo on Fri, 24 Jul 2026.
+Honey Dijon is a House and Techno artist with 8 upcoming club dates listed on soundcheck as of Mon, 20 Jul 2026, next at Komplexo Tempo, Sao Paulo on Fri, 24 Jul 2026.
 
 Honey Dijon is a house and techno artist tracked on soundcheck, with 195 sets logged across Amsterdam, Barcelona, Belfast and Berlin and 42 more. Often billed alongside Chloé Caillet, Mochakk and TSHA. Next up: Komplexo Tempo, Saopaulo on Fri 24 Jul.
 
@@ -32,4 +32,4 @@ Honey Dijon is a house and techno artist tracked on soundcheck, with 195 sets lo
 
 Chloé Caillet, Mochakk, TSHA
 
-*Updated Sun, 19 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/misshoneydijon/)*
+*Updated Mon, 20 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/misshoneydijon/)*

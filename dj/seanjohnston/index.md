@@ -1,6 +1,6 @@
 # Sean Johnston
 
-Sean Johnston is a Acid and Electronica artist with 2 upcoming club dates listed on soundcheck as of Sun, 19 Jul 2026, next at TBA - address sent to all ticket holders , London on Thu, 23 Jul 2026.
+Sean Johnston is a Acid and Electronica artist with 2 upcoming club dates listed on soundcheck as of Mon, 20 Jul 2026, next at TBA - address sent to all ticket holders , London on Thu, 23 Jul 2026.
 
 Sean Johnston is an acid and electronica artist tracked on soundcheck, with 70 sets logged across Amsterdam, Athens, Barcelona and Belfast and 12 more. Often billed alongside A LOVE FROM OUTER SPACE, Chris Massey and David Holmes. Next up: TBA - address sent to all ticket holders , London on Thu 23 Jul.
 
@@ -26,4 +26,4 @@ Sean Johnston is an acid and electronica artist tracked on soundcheck, with 70 s
 
 A LOVE FROM OUTER SPACE, Chris Massey, David Holmes
 
-*Updated Sun, 19 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/seanjohnston/)*
+*Updated Mon, 20 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/seanjohnston/)*

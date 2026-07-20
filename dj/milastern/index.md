@@ -1,6 +1,6 @@
 # Mila Stern
 
-Mila Stern is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Sun, 19 Jul 2026, next at AMT, Berlin on Fri, 7 Aug 2026.
+Mila Stern is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Mon, 20 Jul 2026, next at AMT, Berlin on Fri, 7 Aug 2026.
 
 Mila Stern is a house and techno artist tracked on soundcheck, with 88 sets logged across Amsterdam, Berlin, Cologne and Copenhagen and 10 more. Often billed alongside Mira, Britta Arnold and Chris Schwarzwälder. Next up: AMT, Berlin on Fri 7 Aug.
 
@@ -26,4 +26,4 @@ Mila Stern is a house and techno artist tracked on soundcheck, with 88 sets logg
 
 Mira, Britta Arnold, Chris Schwarzwälder
 
-*Updated Sun, 19 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/milastern/)*
+*Updated Mon, 20 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/milastern/)*

@@ -1,6 +1,6 @@
 # moody.cn.man
 
-moody.cn.man is a Club and Bass artist with 3 upcoming club dates listed on soundcheck as of Sun, 19 Jul 2026, next at Standard Time, Toronto on Fri, 24 Jul 2026.
+moody.cn.man is a Club and Bass artist with 3 upcoming club dates listed on soundcheck as of Mon, 20 Jul 2026, next at Standard Time, Toronto on Fri, 24 Jul 2026.
 
 moody.cn.man is a club and bass artist based in Canada, tracked on soundcheck, with 17 sets logged across Toronto. Often billed alongside Kai (TO), Critter and Love Letters. Next up: Standard Time, Toronto on Fri 24 Jul.
 
@@ -27,4 +27,4 @@ moody.cn.man is a club and bass artist based in Canada, tracked on soundcheck, w
 
 Kai (TO), Critter, Love Letters
 
-*Updated Sun, 19 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/moody.cn.man/)*
+*Updated Mon, 20 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/moody.cn.man/)*

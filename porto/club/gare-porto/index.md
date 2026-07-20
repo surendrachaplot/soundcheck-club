@@ -1,6 +1,6 @@
 # Gare Porto
 
-Gare Porto is a music venue in Porto with 3 upcoming nights listed on soundcheck as of Sun, 19 Jul 2026; the next is "DANA NADA, DANDAN, Gusta-vo" on Fri, 24 Jul 2026.
+Gare Porto is a music venue in Porto with 3 upcoming nights listed on soundcheck as of Mon, 20 Jul 2026; the next is "DANA NADA, DANDAN, Gusta-vo" on Fri, 24 Jul 2026.
 
 Gare Porto is a music venue in Porto listed on soundcheck. 3 upcoming nights, with line-ups including DANA NADA, DANDAN, Kohra and Marco Yanes and 2 more. Browse upcoming dates, start times and who's playing. Rua da Madeira 182, 4000 Porto, Portugal.
 
@@ -16,4 +16,4 @@ Gare Porto is a music venue in Porto listed on soundcheck. 3 upcoming nights, wi
 
 Rua da Madeira 182, 4000 Porto, Portugal, Porto
 
-*Updated Sun, 19 Jul 2026 · source: [soundcheck](https://soundcheck.club/porto/club/gare-porto/)*
+*Updated Mon, 20 Jul 2026 · source: [soundcheck](https://soundcheck.club/porto/club/gare-porto/)*

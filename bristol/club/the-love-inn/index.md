@@ -1,6 +1,6 @@
 # The Love Inn
 
-The Love Inn is a music venue in Bristol with 9 upcoming nights listed on soundcheck as of Sun, 19 Jul 2026; the next is "Trust Exercises" on Thu, 23 Jul 2026.
+The Love Inn is a music venue in Bristol with 9 upcoming nights listed on soundcheck as of Mon, 20 Jul 2026; the next is "Trust Exercises" on Thu, 23 Jul 2026.
 
 The Love Inn is a music venue in Bristol listed on soundcheck. 9 upcoming nights, with line-ups including Charlie Dark, CHIDA, Cowper and Daisy Moon and 2 more. Browse upcoming dates, start times and who's playing. 84 Stokes Croft, Stokes Croft, Bristol, BS1 3QY, United Kingdom.
 
@@ -22,4 +22,4 @@ The Love Inn is a music venue in Bristol listed on soundcheck. 9 upcoming nights
 
 84 Stokes Croft, Stokes Croft, Bristol, BS1 3QY, United Kingdom, Bristol
 
-*Updated Sun, 19 Jul 2026 · source: [soundcheck](https://soundcheck.club/bristol/club/the-love-inn/)*
+*Updated Mon, 20 Jul 2026 · source: [soundcheck](https://soundcheck.club/bristol/club/the-love-inn/)*

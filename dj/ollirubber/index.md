@@ -1,6 +1,6 @@
 # Olli Rubber
 
-Olli Rubber is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Sun, 19 Jul 2026, next at BLITZ, Munich on Fri, 31 Jul 2026.
+Olli Rubber is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Mon, 20 Jul 2026, next at BLITZ, Munich on Fri, 31 Jul 2026.
 
 Olli Rubber is a house and techno artist tracked on soundcheck, with 29 sets logged across Barcelona, Berlin, Munich and Stuttgart. Often billed alongside Almedina (2), Tuff Monty and Alles Andere. Next up: BLITZ, Munich on Fri 31 Jul.
 
@@ -26,4 +26,4 @@ Olli Rubber is a house and techno artist tracked on soundcheck, with 29 sets log
 
 Almedina (2), Tuff Monty, Alles Andere
 
-*Updated Sun, 19 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/ollirubber/)*
+*Updated Mon, 20 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/ollirubber/)*

@@ -1,6 +1,6 @@
 # Katia Curie
 
-Katia Curie is a House and Techno artist with 5 upcoming club dates listed on soundcheck as of Sun, 19 Jul 2026, next at TBA - Paradies Garten Festival - Schloß Prugg 2, 2460 Gemeinde Bruck an der Leitha, Vienna on Fri, 31 Jul 2026.
+Katia Curie is a House and Techno artist with 5 upcoming club dates listed on soundcheck as of Mon, 20 Jul 2026, next at TBA - Paradies Garten Festival - Schloß Prugg 2, 2460 Gemeinde Bruck an der Leitha, Vienna on Fri, 31 Jul 2026.
 
 Katia Curie is a house and techno artist tracked on soundcheck, with 109 sets logged across Amsterdam, Barcelona, Berlin and Brussels and 16 more. Often billed alongside Nizar Sarakbi, KATIA and Felix Rupprecht. Next up: TBA - Paradies Garten Festival - Schloß Prugg 2, 2460 Gemeinde Bruck an der Leitha, Vienna on Fri 31 Jul.
 
@@ -29,4 +29,4 @@ Katia Curie is a house and techno artist tracked on soundcheck, with 109 sets lo
 
 Nizar Sarakbi, KATIA, Felix Rupprecht
 
-*Updated Sun, 19 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/katiacurie/)*
+*Updated Mon, 20 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/katiacurie/)*

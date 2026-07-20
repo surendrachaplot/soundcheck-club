@@ -1,6 +1,6 @@
 # Durante
 
-Durante is a House and Progressive House artist with 2 upcoming club dates listed on soundcheck as of Sun, 19 Jul 2026, next at TBA - La Biblioteca, San Telmo, Buenos Aires on Fri, 7 Aug 2026.
+Durante is a House and Progressive House artist with 2 upcoming club dates listed on soundcheck as of Mon, 20 Jul 2026, next at TBA - La Biblioteca, San Telmo, Buenos Aires on Fri, 7 Aug 2026.
 
 Durante is a house and progressive house artist tracked on soundcheck, with 54 sets logged across Austin, Brighton, Bristol and Buenosaires and 18 more. Often billed alongside Marsh, Braxton and Hana. Next up: TBA - La Biblioteca, San Telmo, Buenosaires on Fri 7 Aug.
 
@@ -26,4 +26,4 @@ Durante is a house and progressive house artist tracked on soundcheck, with 54 s
 
 Marsh, Braxton, Hana
 
-*Updated Sun, 19 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/durante/)*
+*Updated Mon, 20 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/durante/)*

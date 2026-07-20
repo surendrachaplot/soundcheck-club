@@ -1,6 +1,6 @@
 # Vilchezz
 
-Vilchezz is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Sun, 19 Jul 2026, next at De Fik Garden, Amsterdam on Sat, 25 Jul 2026.
+Vilchezz is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Mon, 20 Jul 2026, next at De Fik Garden, Amsterdam on Sat, 25 Jul 2026.
 
 Vilchezz is a techno and house artist tracked on soundcheck, with 38 sets logged across Amsterdam, Antwerp, Barcelona and Berlin and 9 more. Often billed alongside BENZA, NDSTPS and Yeiks. Next up: De Fik Garden, Amsterdam on Sat 25 Jul.
 
@@ -26,4 +26,4 @@ Vilchezz is a techno and house artist tracked on soundcheck, with 38 sets logged
 
 BENZA, NDSTPS, Yeiks
 
-*Updated Sun, 19 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/vilchezz/)*
+*Updated Mon, 20 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/vilchezz/)*

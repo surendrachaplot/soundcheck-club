@@ -1,6 +1,6 @@
 # ZUNDOKO DISCO
 
-ZUNDOKO DISCO is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Sun, 19 Jul 2026, next at Mitsuki, Tokyo on Fri, 24 Jul 2026.
+ZUNDOKO DISCO is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Mon, 20 Jul 2026, next at Mitsuki, Tokyo on Fri, 24 Jul 2026.
 
 ZUNDOKO DISCO is a techno and house artist based in Japan, tracked on soundcheck, with 25 sets logged across Osaka, Seoul and Tokyo. Often billed alongside YAMARCHY, teppei and DJ Krush. Next up: Mitsuki, Tokyo on Fri 24 Jul.
 
@@ -26,4 +26,4 @@ ZUNDOKO DISCO is a techno and house artist based in Japan, tracked on soundcheck
 
 YAMARCHY, teppei, DJ Krush
 
-*Updated Sun, 19 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/zundokodisco/)*
+*Updated Mon, 20 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/zundokodisco/)*

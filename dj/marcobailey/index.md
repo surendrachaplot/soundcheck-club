@@ -1,6 +1,6 @@
 # Marco Bailey
 
-Marco Bailey is a Techno and Tech House artist with 2 upcoming club dates listed on soundcheck as of Sun, 19 Jul 2026, next at Esbirra Ibiza, Ibiza on Fri, 24 Jul 2026.
+Marco Bailey is a Techno and Tech House artist with 2 upcoming club dates listed on soundcheck as of Mon, 20 Jul 2026, next at Esbirra Ibiza, Ibiza on Fri, 24 Jul 2026.
 
 Marco Bailey is a techno and tech house artist tracked on soundcheck, with 88 sets logged across Amsterdam, Antwerp, Athens and Bangkok and 32 more. Often billed alongside Dave Clarke, Kobosil and Lino Fuso. Next up: Esbirra Ibiza, Ibiza on Fri 24 Jul.
 
@@ -26,4 +26,4 @@ Marco Bailey is a techno and tech house artist tracked on soundcheck, with 88 se
 
 Dave Clarke, Kobosil, Lino Fuso
 
-*Updated Sun, 19 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/marcobailey/)*
+*Updated Mon, 20 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/marcobailey/)*

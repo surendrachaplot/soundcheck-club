@@ -1,14 +1,13 @@
 # CamelPhat
 
-CamelPhat is a Techno and House artist with 20 upcoming club dates listed on soundcheck as of Sun, 19 Jul 2026, next at Hï Ibiza, Ibiza on Sun, 19 Jul 2026.
+CamelPhat is a Techno and House artist with 19 upcoming club dates listed on soundcheck as of Mon, 20 Jul 2026, next at Bolivar Beach Bar, Athens on Sat, 25 Jul 2026.
 
-CamelPhat is a techno and house artist tracked on soundcheck, with 200 sets logged across Amsterdam, Athens, Austin and Bali and 37 more. Often billed alongside Layla Benitez, Massano and Hot Since 82. Next up: Hï Ibiza, Ibiza on Sun 19 Jul.
+CamelPhat is a techno and house artist tracked on soundcheck, with 200 sets logged across Amsterdam, Athens, Austin and Bali and 37 more. Often billed alongside Layla Benitez, Massano and Hot Since 82. Next up: Bolivar Beach Bar, Athens on Sat 25 Jul.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sun, 19 Jul 2026 | Hï Ibiza | Ibiza |
 | Sat, 25 Jul 2026 | Bolivar Beach Bar | Athens |
 | Sun, 26 Jul 2026 | Hï Ibiza | Ibiza |
 | Sat, 1 Aug 2026 | Donauinsel | Vienna |
@@ -20,9 +19,11 @@ CamelPhat is a techno and house artist tracked on soundcheck, with 200 sets logg
 | Wed, 19 Aug 2026 | Amnesia Ibiza | Ibiza |
 | Sun, 23 Aug 2026 | Hï Ibiza | Ibiza |
 | Tue, 25 Aug 2026 | [UNVRS] | Ibiza |
+| Sun, 30 Aug 2026 | Hï Ibiza | Ibiza |
 
 ## Recently played
 
+- Hï Ibiza, Ibiza — Sun, 19 Jul 2026
 - Hï Ibiza, Ibiza — Sun, 12 Jul 2026
 - BCM, Mallorca — Sat, 11 Jul 2026
 - Hï Ibiza, Ibiza — Sun, 5 Jul 2026
@@ -30,10 +31,9 @@ CamelPhat is a techno and house artist tracked on soundcheck, with 200 sets logg
 - [UNVRS], Ibiza — Tue, 30 Jun 2026
 - Horse Park Zürich, Zurich — Fri, 26 Jun 2026
 - Hï Ibiza, Ibiza — Sat, 20 Jun 2026
-- Bosc Tancat / Diverbosc, Barcelona — Fri, 19 Jun 2026
 
 ## Shares bills with
 
 Layla Benitez, Massano, Hot Since 82
 
-*Updated Sun, 19 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/camelphat/)*
+*Updated Mon, 20 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/camelphat/)*

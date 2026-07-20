@@ -1,6 +1,6 @@
 # Olympe
 
-Olympe is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Sun, 19 Jul 2026, next at Village du Soir, Geneva on Fri, 31 Jul 2026.
+Olympe is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Mon, 20 Jul 2026, next at Village du Soir, Geneva on Fri, 31 Jul 2026.
 
 Olympe is a techno and house artist tracked on soundcheck, with 111 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 29 more. Often billed alongside Massano, Colyn and Kevin de Vries. Next up: Village du Soir, Geneva on Fri 31 Jul.
 
@@ -27,4 +27,4 @@ Olympe is a techno and house artist tracked on soundcheck, with 111 sets logged 
 
 Massano, Colyn, Kevin de Vries
 
-*Updated Sun, 19 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/olympe/)*
+*Updated Mon, 20 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/olympe/)*

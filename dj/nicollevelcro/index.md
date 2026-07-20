@@ -1,6 +1,6 @@
 # Nicolle Velcro
 
-Nicolle Velcro is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Sun, 19 Jul 2026, next at Village Underground Lisboa, Lisbon on Fri, 24 Jul 2026.
+Nicolle Velcro is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Mon, 20 Jul 2026, next at Village Underground Lisboa, Lisbon on Fri, 24 Jul 2026.
 
 Nicolle Velcro is a house and techno artist based in Brazil, tracked on soundcheck, with 28 sets logged across Lisbon. Often billed alongside Adam Purnell, Kemetic and AZM (1). Next up: Village Underground Lisboa, Lisbon on Fri 24 Jul.
 
@@ -27,4 +27,4 @@ Nicolle Velcro is a house and techno artist based in Brazil, tracked on soundche
 
 Adam Purnell, Kemetic, AZM (1)
 
-*Updated Sun, 19 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/nicollevelcro/)*
+*Updated Mon, 20 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/nicollevelcro/)*

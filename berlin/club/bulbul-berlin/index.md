@@ -1,6 +1,6 @@
 # Bulbul Berlin
 
-Bulbul Berlin is a music venue in Berlin with 5 upcoming nights listed on soundcheck as of Sun, 19 Jul 2026; the next is "House of Others (Vol.10) - CSD edition: Dgeral, Alma Negrot, materia hache" on Thu, 23 Jul 2026.
+Bulbul Berlin is a music venue in Berlin with 5 upcoming nights listed on soundcheck as of Mon, 20 Jul 2026; the next is "House of Others (Vol.10) - CSD edition: Dgeral, Alma Negrot, materia hache" on Thu, 23 Jul 2026.
 
 Bulbul Berlin is a music venue in Berlin listed on soundcheck. 5 upcoming nights, with line-ups including Alma Negrot, Anestis, BECKSHAM and Better Call Paul and 2 more. Browse upcoming dates, start times and who's playing. Skalitzer str. 114, 10999 Berlin, Germany.
 
@@ -18,4 +18,4 @@ Bulbul Berlin is a music venue in Berlin listed on soundcheck. 5 upcoming nights
 
 Skalitzer str. 114, 10999 Berlin, Germany, Berlin
 
-*Updated Sun, 19 Jul 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/bulbul-berlin/)*
+*Updated Mon, 20 Jul 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/bulbul-berlin/)*

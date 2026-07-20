@@ -1,6 +1,6 @@
 # elipamanoke
 
-elipamanoke is a music venue in Leipzig with 8 upcoming nights listed on soundcheck as of Sun, 19 Jul 2026; the next is "between x Jurassic Heart" on Wed, 22 Jul 2026.
+elipamanoke is a music venue in Leipzig with 8 upcoming nights listed on soundcheck as of Mon, 20 Jul 2026; the next is "between x Jurassic Heart" on Wed, 22 Jul 2026.
 
 elipamanoke is a music venue in Leipzig listed on soundcheck. 8 upcoming nights, with line-ups including .koshka., CAVVØ, Cyan85 and Desperate House Guy and 2 more. Browse upcoming dates, start times and who's playing. Markranstädter Straße 4, 04229 Leipzig.
 
@@ -21,4 +21,4 @@ elipamanoke is a music venue in Leipzig listed on soundcheck. 8 upcoming nights,
 
 Markranstädter Straße 4, 04229 Leipzig, Leipzig
 
-*Updated Sun, 19 Jul 2026 · source: [soundcheck](https://soundcheck.club/leipzig/club/elipamanoke/)*
+*Updated Mon, 20 Jul 2026 · source: [soundcheck](https://soundcheck.club/leipzig/club/elipamanoke/)*

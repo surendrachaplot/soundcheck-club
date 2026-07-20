@@ -1,6 +1,6 @@
 # Máthair
 
-Máthair is a Ghetto Tech and Baile Funk artist with 2 upcoming club dates listed on soundcheck as of Sun, 19 Jul 2026, next at Wigwam, Dublin on Sat, 25 Jul 2026.
+Máthair is a Ghetto Tech and Baile Funk artist with 2 upcoming club dates listed on soundcheck as of Mon, 20 Jul 2026, next at Wigwam, Dublin on Sat, 25 Jul 2026.
 
 Máthair is a ghetto tech and baile funk artist based in Ireland, tracked on soundcheck, with 24 sets logged across Berlin and Dublin. Often billed alongside charlois, High Fidelity and JWY (1). Next up: Wigwam, Dublin on Sat 25 Jul.
 
@@ -26,4 +26,4 @@ Máthair is a ghetto tech and baile funk artist based in Ireland, tracked on sou
 
 charlois, High Fidelity, JWY (1)
 
-*Updated Sun, 19 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/mathair/)*
+*Updated Mon, 20 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/mathair/)*

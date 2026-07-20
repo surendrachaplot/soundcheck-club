@@ -1,6 +1,6 @@
 # Loxy
 
-Loxy is a Drum & Bass and Jungle artist with 2 upcoming club dates listed on soundcheck as of Sun, 19 Jul 2026, next at Kapsule, Liverpool on Sat, 15 Aug 2026.
+Loxy is a Drum & Bass and Jungle artist with 2 upcoming club dates listed on soundcheck as of Mon, 20 Jul 2026, next at Kapsule, Liverpool on Sat, 15 Aug 2026.
 
 Loxy is a drum & bass and jungle artist tracked on soundcheck, with 58 sets logged across Amsterdam, Antwerp, Berlin and Birmingham and 17 more. Often billed alongside Doc Scott, Blackeye MC and DJ Ink. Next up: Kapsule, Liverpool on Sat 15 Aug.
 
@@ -26,4 +26,4 @@ Loxy is a drum & bass and jungle artist tracked on soundcheck, with 58 sets logg
 
 Doc Scott, Blackeye MC, DJ Ink
 
-*Updated Sun, 19 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/loxy/)*
+*Updated Mon, 20 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/loxy/)*

@@ -1,6 +1,6 @@
 # La Terrrazza
 
-La Terrrazza is a music venue in Barcelona with 32 upcoming nights listed on soundcheck as of Sun, 19 Jul 2026; the next is "Soundset Sessions with AUTOFLOWER & THELMA" on Thu, 23 Jul 2026.
+La Terrrazza is a music venue in Barcelona with 32 upcoming nights listed on soundcheck as of Mon, 20 Jul 2026; the next is "Soundset Sessions with AUTOFLOWER & THELMA" on Thu, 23 Jul 2026.
 
 La Terrrazza is a music venue in Barcelona listed on soundcheck. 32 upcoming nights, with line-ups including Acidnena, AUTOFLOWER, Belu Rodriguez and Bennet and 2 more. Browse upcoming dates, start times and who's playing. Avinguda Francesc Ferrer i Guardia, 13, 08038.
 
@@ -23,4 +23,4 @@ La Terrrazza is a music venue in Barcelona listed on soundcheck. 32 upcoming nig
 
 Avinguda Francesc Ferrer i Guardia, 13, 08038, Barcelona
 
-*Updated Sun, 19 Jul 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/la-terrrazza/)*
+*Updated Mon, 20 Jul 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/la-terrrazza/)*

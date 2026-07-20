@@ -1,14 +1,13 @@
 # Bangkok Island
 
-Bangkok Island is a music venue in Bangkok with 8 upcoming nights listed on soundcheck as of Sun, 19 Jul 2026; the next is "KruTum's Dancing Football World" on Sun, 19 Jul 2026.
+Bangkok Island is a music venue in Bangkok with 7 upcoming nights listed on soundcheck as of Mon, 20 Jul 2026; the next is "DJ COMMUNITY & PRODUCERS WORKSHOP - 22/07" on Wed, 22 Jul 2026.
 
-Bangkok Island is a music venue in Bangkok listed on soundcheck. 8 upcoming nights, with line-ups including Jack the Jackal and Puffer P. Browse upcoming dates, start times and who's playing. 499/1 Talat Chong Nonsi Alley, Chong Nonsi, Yan Nawa, Bangkok 10120.
+Bangkok Island is a music venue in Bangkok listed on soundcheck. 7 upcoming nights, with line-ups including Jack the Jackal and Puffer P. Browse upcoming dates, start times and who's playing. 499/1 Talat Chong Nonsi Alley, Chong Nonsi, Yan Nawa, Bangkok 10120.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Sun, 19 Jul 2026 | KruTum's Dancing Football World |  |
 | Wed, 22 Jul 2026 | DJ COMMUNITY & PRODUCERS WORKSHOP - 22/07 |  |
 | Fri, 24 Jul 2026 | RUDE MELANCHOLIC |  |
 | Fri, 24 Jul 2026 | Sonic Dreams Psytrance Bangkok Island | Jack the Jackal, Puffer P |
@@ -21,4 +20,4 @@ Bangkok Island is a music venue in Bangkok listed on soundcheck. 8 upcoming nigh
 
 499/1 Talat Chong Nonsi Alley, Chong Nonsi, Yan Nawa, Bangkok 10120, Bangkok
 
-*Updated Sun, 19 Jul 2026 · source: [soundcheck](https://soundcheck.club/bangkok/club/bangkok-island/)*
+*Updated Mon, 20 Jul 2026 · source: [soundcheck](https://soundcheck.club/bangkok/club/bangkok-island/)*

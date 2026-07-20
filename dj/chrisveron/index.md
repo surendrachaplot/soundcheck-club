@@ -1,6 +1,6 @@
 # Chris Veron
 
-Chris Veron is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Sun, 19 Jul 2026, next at Village Underground Lisboa, Lisbon on Fri, 7 Aug 2026.
+Chris Veron is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Mon, 20 Jul 2026, next at Village Underground Lisboa, Lisbon on Fri, 7 Aug 2026.
 
 Chris Veron is a techno and house artist based in Germany, tracked on soundcheck, with 30 sets logged across Berlin, Cologne, Lisbon and Stuttgart. Often billed alongside Kos:mo, Disturbed Berlin and Emanuel Eisbrenner. Next up: Village Underground Lisboa, Lisbon on Fri 7 Aug.
 
@@ -26,4 +26,4 @@ Chris Veron is a techno and house artist based in Germany, tracked on soundcheck
 
 Kos:mo, Disturbed Berlin, Emanuel Eisbrenner
 
-*Updated Sun, 19 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/chrisveron/)*
+*Updated Mon, 20 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/chrisveron/)*

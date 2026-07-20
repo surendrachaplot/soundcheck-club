@@ -1,6 +1,6 @@
 # DAGZZ
 
-DAGZZ is a Tech House and House artist with 2 upcoming club dates listed on soundcheck as of Sun, 19 Jul 2026, next at BUS Hexperience, Barcelona on Sun, 26 Jul 2026.
+DAGZZ is a Tech House and House artist with 2 upcoming club dates listed on soundcheck as of Mon, 20 Jul 2026, next at BUS Hexperience, Barcelona on Sun, 26 Jul 2026.
 
 DAGZZ is a tech house and house artist based in Spain, tracked on soundcheck, with 31 sets logged across Barcelona and Stuttgart. Often billed alongside Marco G (3), SALVIIIA and Juannce. Next up: BUS Hexperience, Barcelona on Sun 26 Jul.
 
@@ -26,4 +26,4 @@ DAGZZ is a tech house and house artist based in Spain, tracked on soundcheck, wi
 
 Marco G (3), SALVIIIA, Juannce
 
-*Updated Sun, 19 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/dagzz/)*
+*Updated Mon, 20 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/dagzz/)*

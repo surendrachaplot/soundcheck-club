@@ -1,6 +1,6 @@
 # Gabbs
 
-Gabbs is a House and Techno artist with 5 upcoming club dates listed on soundcheck as of Sun, 19 Jul 2026, next at Tokonoma Club, Frankfurt on Sat, 25 Jul 2026.
+Gabbs is a House and Techno artist with 5 upcoming club dates listed on soundcheck as of Mon, 20 Jul 2026, next at Tokonoma Club, Frankfurt on Sat, 25 Jul 2026.
 
 Gabbs is a house and techno artist tracked on soundcheck, with 177 sets logged across Amsterdam, Antwerp, Austin and Barcelona and 37 more. Often billed alongside Alexia Glensy, Christian AB and DJ Senc. Next up: Tokonoma Club, Frankfurt on Sat 25 Jul.
 
@@ -29,4 +29,4 @@ Gabbs is a house and techno artist tracked on soundcheck, with 177 sets logged a
 
 Alexia Glensy, Christian AB, DJ Senc
 
-*Updated Sun, 19 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/gabbs/)*
+*Updated Mon, 20 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/gabbs/)*

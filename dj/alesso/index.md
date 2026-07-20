@@ -1,6 +1,6 @@
 # Alesso
 
-Alesso is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Sun, 19 Jul 2026, next at Cavo Paradiso, Mykonos on Wed, 22 Jul 2026.
+Alesso is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Mon, 20 Jul 2026, next at Cavo Paradiso, Mykonos on Wed, 22 Jul 2026.
 
 Alesso is a house and techno artist tracked on soundcheck, with 29 sets logged across Amsterdam, Bangkok, Brisbane and Buenosaires and 13 more. Often billed alongside The Chainsmokers, Gryffin and Steve Aoki. Next up: Cavo Paradiso, Mykonos on Wed 22 Jul.
 
@@ -27,4 +27,4 @@ Alesso is a house and techno artist tracked on soundcheck, with 29 sets logged a
 
 The Chainsmokers, Gryffin, Steve Aoki
 
-*Updated Sun, 19 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/alesso/)*
+*Updated Mon, 20 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/alesso/)*

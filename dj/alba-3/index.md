@@ -1,6 +1,6 @@
 # ALBA (3)
 
-ALBA (3) is a House and Club artist with 2 upcoming club dates listed on soundcheck as of Sun, 19 Jul 2026, next at Ilses Erika, Leipzig on Sat, 1 Aug 2026.
+ALBA (3) is a House and Club artist with 2 upcoming club dates listed on soundcheck as of Mon, 20 Jul 2026, next at Ilses Erika, Leipzig on Sat, 1 Aug 2026.
 
 ALBA (3) is a house and club artist based in Germany, tracked on soundcheck, with 24 sets logged across Berlin, Leipzig, Munich and Nurnberg. Often billed alongside Helina, Anton Gerden and DJ HOT. Next up: Ilses Erika, Leipzig on Sat 1 Aug.
 
@@ -26,4 +26,4 @@ ALBA (3) is a house and club artist based in Germany, tracked on soundcheck, wit
 
 Helina, Anton Gerden, DJ HOT
 
-*Updated Sun, 19 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/alba-3/)*
+*Updated Mon, 20 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/alba-3/)*

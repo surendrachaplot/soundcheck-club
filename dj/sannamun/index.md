@@ -1,6 +1,6 @@
 # Sanna Mun
 
-Sanna Mun is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Sun, 19 Jul 2026, next at Spreefeld Bootshaus, Berlin on Wed, 29 Jul 2026.
+Sanna Mun is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Mon, 20 Jul 2026, next at Spreefeld Bootshaus, Berlin on Wed, 29 Jul 2026.
 
 Sanna Mun is a techno and house artist tracked on soundcheck, with 38 sets logged across Amsterdam, Berlin, Birmingham and Brussels and 12 more. Often billed alongside Amanda Mussi, CONCEPTUAL and Function. Next up: Spreefeld Bootshaus, Berlin on Wed 29 Jul.
 
@@ -27,4 +27,4 @@ Sanna Mun is a techno and house artist tracked on soundcheck, with 38 sets logge
 
 Amanda Mussi, CONCEPTUAL, Function
 
-*Updated Sun, 19 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/sannamun/)*
+*Updated Mon, 20 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/sannamun/)*

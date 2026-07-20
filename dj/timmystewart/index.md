@@ -1,6 +1,6 @@
 # Timmy Stewart
 
-Timmy Stewart is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Sun, 19 Jul 2026, next at C.S. Lewis Square, London on Sat, 25 Jul 2026.
+Timmy Stewart is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Mon, 20 Jul 2026, next at C.S. Lewis Square, London on Sat, 25 Jul 2026.
 
 Timmy Stewart is a house and techno artist tracked on soundcheck, with 35 sets logged across Belfast, Cork, Liverpool and London and 1 more. Often billed alongside Jordan Nocturne, Marion Hawkes and Danse Intermission. Next up: C.S. Lewis Square, London on Sat 25 Jul.
 
@@ -27,4 +27,4 @@ Timmy Stewart is a house and techno artist tracked on soundcheck, with 35 sets l
 
 Jordan Nocturne, Marion Hawkes, Danse Intermission
 
-*Updated Sun, 19 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/timmystewart/)*
+*Updated Mon, 20 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/timmystewart/)*

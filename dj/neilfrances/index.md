@@ -1,6 +1,6 @@
 # Neil Frances
 
-Neil Frances is a House and Disco artist with 2 upcoming club dates listed on soundcheck as of Sun, 19 Jul 2026, next at Hotel Cecil, Copenhagen on Thu, 6 Aug 2026.
+Neil Frances is a House and Disco artist with 2 upcoming club dates listed on soundcheck as of Mon, 20 Jul 2026, next at Hotel Cecil, Copenhagen on Thu, 6 Aug 2026.
 
 Neil Frances is a house and disco artist based in United States of America, tracked on soundcheck, with 24 sets logged across Amsterdam, Austin, Barcelona and Brussels and 14 more. Often billed alongside KI/KI, Octo Octa and 999999999. Next up: Hotel Cecil, Copenhagen on Thu 6 Aug.
 
@@ -26,4 +26,4 @@ Neil Frances is a house and disco artist based in United States of America, trac
 
 KI/KI, Octo Octa, 999999999
 
-*Updated Sun, 19 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/neilfrances/)*
+*Updated Mon, 20 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/neilfrances/)*

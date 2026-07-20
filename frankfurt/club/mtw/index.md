@@ -1,6 +1,6 @@
 # MTW
 
-MTW is a music venue in Frankfurt with 2 upcoming nights listed on soundcheck as of Sun, 19 Jul 2026; the next is "WE ARE ONE x MTW – Saisonauftakt" on Sat, 15 Aug 2026.
+MTW is a music venue in Frankfurt with 2 upcoming nights listed on soundcheck as of Mon, 20 Jul 2026; the next is "WE ARE ONE x MTW – Saisonauftakt" on Sat, 15 Aug 2026.
 
 MTW is a music venue in Frankfurt listed on soundcheck. 2 upcoming nights. Browse upcoming dates, start times and who's playing. Nordring 131, 63067 Offenbach, Germany.
 
@@ -15,4 +15,4 @@ MTW is a music venue in Frankfurt listed on soundcheck. 2 upcoming nights. Brows
 
 Nordring 131, 63067 Offenbach, Germany, Frankfurt
 
-*Updated Sun, 19 Jul 2026 · source: [soundcheck](https://soundcheck.club/frankfurt/club/mtw/)*
+*Updated Mon, 20 Jul 2026 · source: [soundcheck](https://soundcheck.club/frankfurt/club/mtw/)*

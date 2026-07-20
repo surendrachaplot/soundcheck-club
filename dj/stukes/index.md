@@ -1,6 +1,6 @@
 # STUKES
 
-STUKES is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Sun, 19 Jul 2026, next at La Fabrica, Washington DC on Sat, 25 Jul 2026.
+STUKES is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Mon, 20 Jul 2026, next at La Fabrica, Washington DC on Sat, 25 Jul 2026.
 
 STUKES is a techno and house artist based in United States of America, tracked on soundcheck, with 34 sets logged across Detroit, Losangeles, Newyorkcity and Sanfrancisco and 1 more. Often billed alongside B_X_R_N_X_R_D, Xav (US) and DAIYAH. Next up: La Fabrica, Washingtondc on Sat 25 Jul.
 
@@ -26,4 +26,4 @@ STUKES is a techno and house artist based in United States of America, tracked o
 
 B_X_R_N_X_R_D, Xav (US), DAIYAH
 
-*Updated Sun, 19 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/stukes/)*
+*Updated Mon, 20 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/stukes/)*

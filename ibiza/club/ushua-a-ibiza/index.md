@@ -1,14 +1,13 @@
 # Ushuaïa Ibiza
 
-Ushuaïa Ibiza is a music venue in Ibiza with 71 upcoming nights listed on soundcheck as of Sun, 19 Jul 2026; the next is "Swedish House Mafia" on Sun, 19 Jul 2026.
+Ushuaïa Ibiza is a music venue in Ibiza with 70 upcoming nights listed on soundcheck as of Mon, 20 Jul 2026; the next is "F*** ME I'M FAMOUS! by David Guetta" on Mon, 20 Jul 2026.
 
-Ushuaïa Ibiza is a music venue in Ibiza listed on soundcheck. 71 upcoming nights, with line-ups including Afrojack, Airwolf Paradise, Alesso and Alok and 2 more. Browse upcoming dates, start times and who's playing. Playa d'en Bossa 10, Sat Jordi de Ses Salines, 07817 Ibiza, Spain.
+Ushuaïa Ibiza is a music venue in Ibiza listed on soundcheck. 70 upcoming nights, with line-ups including Afrojack, Airwolf Paradise, Alesso and Alok and 2 more. Browse upcoming dates, start times and who's playing. Playa d'en Bossa 10, Sat Jordi de Ses Salines, 07817 Ibiza, Spain.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Sun, 19 Jul 2026 | Swedish House Mafia | Swedish House Mafia |
 | Mon, 20 Jul 2026 | F*** ME I'M FAMOUS! by David Guetta | David Guetta, Ian Asher, Paul Reynolds |
 | Tue, 21 Jul 2026 | Calvin Harris | Calvin Harris, Disciples |
 | Wed, 22 Jul 2026 | elrow |  |
@@ -18,9 +17,10 @@ Ushuaïa Ibiza is a music venue in Ibiza listed on soundcheck. 71 upcoming night
 | Sun, 26 Jul 2026 | Swedish House Mafia | Swedish House Mafia |
 | Mon, 27 Jul 2026 | F*** ME I'M FAMOUS! by David Guetta | Cedric Gervais, David Guetta, Marten Hørger, Paul Reynolds |
 | Tue, 28 Jul 2026 | Calvin Harris | Calvin Harris, Pete Tong |
+| Wed, 29 Jul 2026 | Tomorrowland and Dimitri Vegas & Like Mike | Brina Knauss, Dimitri Vegas & Like Mike, Steve Aoki |
 
 ## Address
 
 Playa d'en Bossa 10, Sat Jordi de Ses Salines, 07817 Ibiza, Spain, Ibiza
 
-*Updated Sun, 19 Jul 2026 · source: [soundcheck](https://soundcheck.club/ibiza/club/ushua-a-ibiza/)*
+*Updated Mon, 20 Jul 2026 · source: [soundcheck](https://soundcheck.club/ibiza/club/ushua-a-ibiza/)*

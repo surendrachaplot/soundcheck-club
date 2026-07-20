@@ -1,6 +1,6 @@
 # Stage and Radio
 
-Stage and Radio is a music venue in Manchester with 22 upcoming nights listed on soundcheck as of Sun, 19 Jul 2026; the next is "Blue Star presents: Complextro" on Wed, 22 Jul 2026.
+Stage and Radio is a music venue in Manchester with 22 upcoming nights listed on soundcheck as of Mon, 20 Jul 2026; the next is "Blue Star presents: Complextro" on Wed, 22 Jul 2026.
 
 Stage and Radio is a music venue in Manchester listed on soundcheck. 22 upcoming nights, with line-ups including AJ Jonesy, ArceX, Baba Sketch and Berwick and 2 more. Browse upcoming dates, start times and who's playing. 43 Port St, Manchester M1 2EQ.
 
@@ -23,4 +23,4 @@ Stage and Radio is a music venue in Manchester listed on soundcheck. 22 upcoming
 
 43 Port St, Manchester M1 2EQ, Manchester
 
-*Updated Sun, 19 Jul 2026 · source: [soundcheck](https://soundcheck.club/manchester/club/stage-and-radio/)*
+*Updated Mon, 20 Jul 2026 · source: [soundcheck](https://soundcheck.club/manchester/club/stage-and-radio/)*

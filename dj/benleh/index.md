@@ -1,6 +1,6 @@
 # Benleh
 
-Benleh is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Sun, 19 Jul 2026, next at Lokschuppen Berlin, Berlin on Fri, 7 Aug 2026.
+Benleh is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Mon, 20 Jul 2026, next at Lokschuppen Berlin, Berlin on Fri, 7 Aug 2026.
 
 Benleh is a techno and house artist tracked on soundcheck, with 32 sets logged across Antwerp, Berlin, Hamburg and Leipzig and 1 more. Often billed alongside DJ Sweedee, Sober At The Disco and Lisek. Next up: Lokschuppen Berlin, Berlin on Fri 7 Aug.
 
@@ -26,4 +26,4 @@ Benleh is a techno and house artist tracked on soundcheck, with 32 sets logged a
 
 DJ Sweedee, Sober At The Disco, Lisek
 
-*Updated Sun, 19 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/benleh/)*
+*Updated Mon, 20 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/benleh/)*

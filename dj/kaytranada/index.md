@@ -1,6 +1,6 @@
 # Kaytranada
 
-Kaytranada is a House and Hip-Hop artist with 3 upcoming club dates listed on soundcheck as of Sun, 19 Jul 2026, next at Parc del Fòrum, Barcelona on Fri, 7 Aug 2026.
+Kaytranada is a House and Hip-Hop artist with 3 upcoming club dates listed on soundcheck as of Mon, 20 Jul 2026, next at Parc del Fòrum, Barcelona on Fri, 7 Aug 2026.
 
 Kaytranada is a house and hip-hop artist tracked on soundcheck, with 60 sets logged across Amsterdam, Barcelona, Berlin and Brisbane and 24 more. Often billed alongside Justice, Channel Tres and Dom Dolla. Next up: Parc del Fòrum, Barcelona on Fri 7 Aug.
 
@@ -27,4 +27,4 @@ Kaytranada is a house and hip-hop artist tracked on soundcheck, with 60 sets log
 
 Justice, Channel Tres, Dom Dolla
 
-*Updated Sun, 19 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/kaytranada/)*
+*Updated Mon, 20 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/kaytranada/)*

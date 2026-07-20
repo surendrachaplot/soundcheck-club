@@ -1,6 +1,6 @@
 # JADE SOUL
 
-JADE SOUL is a Hip-Hop and House artist with 2 upcoming club dates listed on soundcheck as of Sun, 19 Jul 2026, next at Mono, Rotterdam on Sat, 25 Jul 2026.
+JADE SOUL is a Hip-Hop and House artist with 2 upcoming club dates listed on soundcheck as of Mon, 20 Jul 2026, next at Mono, Rotterdam on Sat, 25 Jul 2026.
 
 JADE SOUL is a hip-hop and house artist tracked on soundcheck, with 24 sets logged across Amsterdam, London, Newyorkcity and Paris and 2 more. Often billed alongside Eileen (NL), Moody Mehran and NIVEK. Next up: Mono, Rotterdam on Sat 25 Jul.
 
@@ -26,4 +26,4 @@ JADE SOUL is a hip-hop and house artist tracked on soundcheck, with 24 sets logg
 
 Eileen (NL), Moody Mehran, NIVEK
 
-*Updated Sun, 19 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/jadesoul/)*
+*Updated Mon, 20 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/jadesoul/)*

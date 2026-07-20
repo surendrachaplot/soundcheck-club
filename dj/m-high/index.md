@@ -1,6 +1,6 @@
 # M-High
 
-M-High is a House and Tech House artist with 7 upcoming club dates listed on soundcheck as of Sun, 19 Jul 2026, next at Cova Santa, Ibiza on Tue, 21 Jul 2026.
+M-High is a House and Tech House artist with 7 upcoming club dates listed on soundcheck as of Mon, 20 Jul 2026, next at Cova Santa, Ibiza on Tue, 21 Jul 2026.
 
 M-High is a house and tech house artist tracked on soundcheck, with 167 sets logged across Amsterdam, Austin, Bangkok and Barcelona and 32 more. Often billed alongside Prunk, Job de Jong and Dennis Quin. Next up: Cova Santa, Ibiza on Tue 21 Jul.
 
@@ -31,4 +31,4 @@ M-High is a house and tech house artist tracked on soundcheck, with 167 sets log
 
 Prunk, Job de Jong, Dennis Quin
 
-*Updated Sun, 19 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/m-high/)*
+*Updated Mon, 20 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/m-high/)*

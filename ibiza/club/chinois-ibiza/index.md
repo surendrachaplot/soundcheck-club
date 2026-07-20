@@ -1,14 +1,13 @@
 # Chinois Ibiza
 
-Chinois Ibiza is a music venue in Ibiza with 71 upcoming nights listed on soundcheck as of Sun, 19 Jul 2026; the next is "Bedouin presents SAGA: Bedouin, Tripolism, DIASS" on Sun, 19 Jul 2026.
+Chinois Ibiza is a music venue in Ibiza with 70 upcoming nights listed on soundcheck as of Mon, 20 Jul 2026; the next is "La Troya: MELANIE, C Jodie Harsh, ANDREA LANE, Oscar Colorado" on Mon, 20 Jul 2026.
 
-Chinois Ibiza is a music venue in Ibiza listed on soundcheck. 71 upcoming nights, with line-ups including 2lovers, Ace Brothers, Acid Pauli and Alaia & Gallo and 2 more. Browse upcoming dates, start times and who's playing. Passeig Joan Carles I, 17, 07800 Eivissa, Illes Balears, Spain.
+Chinois Ibiza is a music venue in Ibiza listed on soundcheck. 70 upcoming nights, with line-ups including 2lovers, Ace Brothers, Acid Pauli and Alaia & Gallo and 2 more. Browse upcoming dates, start times and who's playing. Passeig Joan Carles I, 17, 07800 Eivissa, Illes Balears, Spain.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Sun, 19 Jul 2026 | Bedouin presents SAGA: Bedouin, Tripolism, DIASS | Bedouin, Diass, Dj Diass, Tripolism |
 | Mon, 20 Jul 2026 | La Troya: MELANIE, C Jodie Harsh, ANDREA LANE, Oscar Colorado | Jodie Harsh, Oscar Colorado |
 | Tue, 21 Jul 2026 | Appetite: Elliot Schooling & Liam Palmer, Skream, LUKE DEAN, L.P.RHYTHM | Elliot Schooling, Liam Palmer, Luke Dean_, Skream |
 | Wed, 22 Jul 2026 | Mahmut Orhan: Mahmut Orhan, Sam Shure, ZHU, Ace Brothers | Ace Brothers, Mahmut Orhan, Sam Shure, ZHU |
@@ -18,9 +17,10 @@ Chinois Ibiza is a music venue in Ibiza listed on soundcheck. 71 upcoming nights
 | Sun, 26 Jul 2026 | Bedouin presents SAGA: Bedouin, DJ Tennis, UVITA & OSFUR | Bedouin, DJ Tennis, OSFUR, UVITA |
 | Mon, 27 Jul 2026 | La Troya: MOUSSE T, FAT TONY, Oscar Colorado, MARIO SANXEZ | Fattony, Mousse T., Oscar Colorado |
 | Tue, 28 Jul 2026 | Appetite | Elliot Schooling, Liam Palmer |
+| Wed, 29 Jul 2026 | Mahmut Orhan: PEOPLE LIKE US, Peace Control, FOSTER THE PEOPLE (DJ SET), Mahmut Orhan | Foster The People, Mahmut Orhan, Peace Control, People Like Us (3) |
 
 ## Address
 
 Passeig Joan Carles I, 17, 07800 Eivissa, Illes Balears, Spain, Ibiza
 
-*Updated Sun, 19 Jul 2026 · source: [soundcheck](https://soundcheck.club/ibiza/club/chinois-ibiza/)*
+*Updated Mon, 20 Jul 2026 · source: [soundcheck](https://soundcheck.club/ibiza/club/chinois-ibiza/)*

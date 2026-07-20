@@ -1,6 +1,6 @@
 # Kallax
 
-Kallax is a Techno and Grime artist with 2 upcoming club dates listed on soundcheck as of Sun, 19 Jul 2026, next at Den Anden Side, Copenhagen on Sat, 25 Jul 2026.
+Kallax is a Techno and Grime artist with 2 upcoming club dates listed on soundcheck as of Mon, 20 Jul 2026, next at Den Anden Side, Copenhagen on Sat, 25 Jul 2026.
 
 Kallax is a techno and grime artist based in Italy, tracked on soundcheck, with 28 sets logged across Amsterdam, Berlin, Copenhagen and Vienna. Often billed alongside Baby Kallax, Holtz (2) and Kardinal Bertram. Next up: Den Anden Side, Copenhagen on Sat 25 Jul.
 
@@ -26,4 +26,4 @@ Kallax is a techno and grime artist based in Italy, tracked on soundcheck, with 
 
 Baby Kallax, Holtz (2), Kardinal Bertram
 
-*Updated Sun, 19 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/kallax/)*
+*Updated Mon, 20 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/kallax/)*

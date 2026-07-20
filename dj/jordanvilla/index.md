@@ -1,6 +1,6 @@
 # Jordan Villa
 
-Jordan Villa is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Sun, 19 Jul 2026, next at Stage and Radio, Manchester on Sat, 25 Jul 2026.
+Jordan Villa is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Mon, 20 Jul 2026, next at Stage and Radio, Manchester on Sat, 25 Jul 2026.
 
 Jordan Villa is a house and techno artist based in United Kingdom, tracked on soundcheck, with 22 sets logged across Belfast, Manchester and Rotterdam. Often billed alongside Aletha, Joe Motion and Joe Roche. Next up: Stage and Radio, Manchester on Sat 25 Jul.
 
@@ -26,4 +26,4 @@ Jordan Villa is a house and techno artist based in United Kingdom, tracked on so
 
 Aletha, Joe Motion, Joe Roche
 
-*Updated Sun, 19 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/jordanvilla/)*
+*Updated Mon, 20 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/jordanvilla/)*

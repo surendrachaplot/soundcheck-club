@@ -1,6 +1,6 @@
 # Ophelia's Electric Soapbox
 
-Ophelia's Electric Soapbox is a music venue in Denver with 1 upcoming night listed on soundcheck as of Sun, 19 Jul 2026; the next is "Hotstuhf & Bunny's Studio 50" on Sat, 1 Aug 2026.
+Ophelia's Electric Soapbox is a music venue in Denver with 1 upcoming night listed on soundcheck as of Mon, 20 Jul 2026; the next is "Hotstuhf & Bunny's Studio 50" on Sat, 1 Aug 2026.
 
 Ophelia's Electric Soapbox is a music venue in Denver listed on soundcheck. 1 upcoming night. Browse upcoming dates, start times and who's playing. 1215 20th St, Denver, CO 80202, USA.
 
@@ -14,4 +14,4 @@ Ophelia's Electric Soapbox is a music venue in Denver listed on soundcheck. 1 up
 
 1215 20th St, Denver, CO 80202, USA, Denver
 
-*Updated Sun, 19 Jul 2026 · source: [soundcheck](https://soundcheck.club/denver/club/ophelia-s-electric-soapbox/)*
+*Updated Mon, 20 Jul 2026 · source: [soundcheck](https://soundcheck.club/denver/club/ophelia-s-electric-soapbox/)*

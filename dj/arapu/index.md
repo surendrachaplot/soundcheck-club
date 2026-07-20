@@ -1,6 +1,6 @@
 # Arapu
 
-Arapu is a House and Minimal artist with 7 upcoming club dates listed on soundcheck as of Sun, 19 Jul 2026, next at DC-10, Ibiza on Mon, 20 Jul 2026.
+Arapu is a House and Minimal artist with 7 upcoming club dates listed on soundcheck as of Mon, 20 Jul 2026, next at DC-10, Ibiza on Mon, 20 Jul 2026.
 
 Arapu is a house and minimal artist tracked on soundcheck, with 145 sets logged across Amsterdam, Athens, Barcelona and Basel and 29 more. Often billed alongside Priku, Seth Troxler and Sossa. Next up: DC-10, Ibiza on Mon 20 Jul.
 
@@ -31,4 +31,4 @@ Arapu is a house and minimal artist tracked on soundcheck, with 145 sets logged 
 
 Priku, Seth Troxler, Sossa
 
-*Updated Sun, 19 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/arapu/)*
+*Updated Mon, 20 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/arapu/)*

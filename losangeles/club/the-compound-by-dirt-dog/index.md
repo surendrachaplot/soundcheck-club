@@ -1,6 +1,6 @@
 # The Compound by Dirt Dog
 
-The Compound by Dirt Dog is a music venue in Los Angeles with 2 upcoming nights listed on soundcheck as of Sun, 19 Jul 2026; the next is "KATAMARAVE" on Sat, 8 Aug 2026.
+The Compound by Dirt Dog is a music venue in Los Angeles with 2 upcoming nights listed on soundcheck as of Mon, 20 Jul 2026; the next is "KATAMARAVE" on Sat, 8 Aug 2026.
 
 The Compound by Dirt Dog is a music venue in Losangeles listed on soundcheck. 2 upcoming nights, with line-ups including Ava Blank, Contra and Mala. Browse upcoming dates, start times and who's playing. 2909 Supply Ave, Commerce, CA 90040, USA.
 
@@ -15,4 +15,4 @@ The Compound by Dirt Dog is a music venue in Losangeles listed on soundcheck. 2 
 
 2909 Supply Ave, Commerce, CA 90040, USA, Los Angeles
 
-*Updated Sun, 19 Jul 2026 · source: [soundcheck](https://soundcheck.club/losangeles/club/the-compound-by-dirt-dog/)*
+*Updated Mon, 20 Jul 2026 · source: [soundcheck](https://soundcheck.club/losangeles/club/the-compound-by-dirt-dog/)*

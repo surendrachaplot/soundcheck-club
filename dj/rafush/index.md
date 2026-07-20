@@ -1,6 +1,6 @@
 # Rafush
 
-Rafush is a House and Bass artist with 2 upcoming club dates listed on soundcheck as of Sun, 19 Jul 2026, next at ÆDEN x MARMORBAR: Fields & Spaces, Berlin on Sat, 25 Jul 2026.
+Rafush is a House and Bass artist with 2 upcoming club dates listed on soundcheck as of Mon, 20 Jul 2026, next at ÆDEN x MARMORBAR: Fields & Spaces, Berlin on Sat, 25 Jul 2026.
 
 Rafush is a house and bass artist tracked on soundcheck, with 122 sets logged across Berlin, Cologne, Hamburg and Leipzig and 3 more. Often billed alongside Dj Goodboy, ADAM MUNNINGS and Punani. Next up: ÆDEN x MARMORBAR: Fields & Spaces, Berlin on Sat 25 Jul.
 
@@ -26,4 +26,4 @@ Rafush is a house and bass artist tracked on soundcheck, with 122 sets logged ac
 
 Dj Goodboy, ADAM MUNNINGS, Punani
 
-*Updated Sun, 19 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/rafush/)*
+*Updated Mon, 20 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/rafush/)*

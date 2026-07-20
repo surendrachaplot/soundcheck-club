@@ -1,6 +1,6 @@
 # Aahhh Rooftop
 
-Aahhh Rooftop is a music venue in Munich with 2 upcoming nights listed on soundcheck as of Sun, 19 Jul 2026; the next is "papi at aahhh" on Sat, 1 Aug 2026.
+Aahhh Rooftop is a music venue in Munich with 2 upcoming nights listed on soundcheck as of Mon, 20 Jul 2026; the next is "papi at aahhh" on Sat, 1 Aug 2026.
 
 Aahhh Rooftop is a music venue in Munich listed on soundcheck. 2 upcoming nights, with line-ups including e.leptic, groovian peruvian, Jan Minnerup and L.zwo and 2 more. Browse upcoming dates, start times and who's playing. Speicherstraße 20, 81671 München.
 
@@ -15,4 +15,4 @@ Aahhh Rooftop is a music venue in Munich listed on soundcheck. 2 upcoming nights
 
 Speicherstraße 20, 81671 München, Munich
 
-*Updated Sun, 19 Jul 2026 · source: [soundcheck](https://soundcheck.club/munich/club/aahhh-rooftop/)*
+*Updated Mon, 20 Jul 2026 · source: [soundcheck](https://soundcheck.club/munich/club/aahhh-rooftop/)*

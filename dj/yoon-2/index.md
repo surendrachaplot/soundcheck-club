@@ -1,6 +1,6 @@
 # YOON
 
-YOON is a House and Progressive House artist with 3 upcoming club dates listed on soundcheck as of Sun, 19 Jul 2026, next at Mimersparken, Copenhagen on Sat, 25 Jul 2026.
+YOON is a House and Progressive House artist with 3 upcoming club dates listed on soundcheck as of Mon, 20 Jul 2026, next at Mimersparken, Copenhagen on Sat, 25 Jul 2026.
 
 YOON is a house and progressive house artist based in Denmark, tracked on soundcheck, with 31 sets logged across Copenhagen. Often billed alongside NAT(SK), Tilde Dyrnes and Pelzman. Next up: Mimersparken, Copenhagen on Sat 25 Jul.
 
@@ -27,4 +27,4 @@ YOON is a house and progressive house artist based in Denmark, tracked on soundc
 
 NAT(SK), Tilde Dyrnes, Pelzman
 
-*Updated Sun, 19 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/yoon-2/)*
+*Updated Mon, 20 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/yoon-2/)*

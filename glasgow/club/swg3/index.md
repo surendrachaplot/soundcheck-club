@@ -1,6 +1,6 @@
 # SWG3
 
-SWG3 is a music venue in Glasgow with 12 upcoming nights listed on soundcheck as of Sun, 19 Jul 2026; the next is "OPTIKA" on Sat, 25 Jul 2026.
+SWG3 is a music venue in Glasgow with 12 upcoming nights listed on soundcheck as of Mon, 20 Jul 2026; the next is "OPTIKA" on Sat, 25 Jul 2026.
 
 SWG3 is a music venue in Glasgow listed on soundcheck. 12 upcoming nights, with line-ups including An Dannsa Dub, Auntie Flo, Benwal and Chris Stussy and 2 more. Browse upcoming dates, start times and who's playing. 100 Eastvale Place, Glasgow, G3 8QG.
 
@@ -23,4 +23,4 @@ SWG3 is a music venue in Glasgow listed on soundcheck. 12 upcoming nights, with 
 
 100 Eastvale Place, Glasgow, G3 8QG, Glasgow
 
-*Updated Sun, 19 Jul 2026 · source: [soundcheck](https://soundcheck.club/glasgow/club/swg3/)*
+*Updated Mon, 20 Jul 2026 · source: [soundcheck](https://soundcheck.club/glasgow/club/swg3/)*

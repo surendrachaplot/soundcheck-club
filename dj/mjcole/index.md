@@ -1,6 +1,6 @@
 # MJ Cole
 
-MJ Cole is a Garage and Bass artist with 4 upcoming club dates listed on soundcheck as of Sun, 19 Jul 2026, next at Eden, Ibiza on Wed, 22 Jul 2026.
+MJ Cole is a Garage and Bass artist with 4 upcoming club dates listed on soundcheck as of Mon, 20 Jul 2026, next at Eden, Ibiza on Wed, 22 Jul 2026.
 
 MJ Cole is a garage and bass artist tracked on soundcheck, with 26 sets logged across Barcelona, Brighton, Dublin and Ibiza and 4 more. Often billed alongside Chunky, Kirollus and LARISHKA (UK). Next up: Eden, Ibiza on Wed 22 Jul.
 
@@ -28,4 +28,4 @@ MJ Cole is a garage and bass artist tracked on soundcheck, with 26 sets logged a
 
 Chunky, Kirollus, LARISHKA (UK)
 
-*Updated Sun, 19 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/mjcole/)*
+*Updated Mon, 20 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/mjcole/)*

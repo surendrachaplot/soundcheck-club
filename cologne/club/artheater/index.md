@@ -1,8 +1,8 @@
 # Artheater
 
-Artheater is a music venue in Cologne with 8 upcoming nights listed on soundcheck as of Sun, 19 Jul 2026; the next is "N8SCHICHT SUMMER SPECIAL" on Sat, 25 Jul 2026.
+Artheater is a music venue in Cologne with 9 upcoming nights listed on soundcheck as of Mon, 20 Jul 2026; the next is "N8SCHICHT SUMMER SPECIAL" on Sat, 25 Jul 2026.
 
-Artheater is a music venue in Cologne listed on soundcheck. 8 upcoming nights, with line-ups including 3LEEZA, alleira, Annemalie and Arninho and 2 more. Browse upcoming dates, start times and who's playing. Ehrenfeldgürtel 127; 50823 Cologne; Germany.
+Artheater is a music venue in Cologne listed on soundcheck. 9 upcoming nights, with line-ups including 3LEEZA, alleira, Annemalie and Arninho and 2 more. Browse upcoming dates, start times and who's playing. Ehrenfeldgürtel 127; 50823 Cologne; Germany.
 
 ## What's on
 
@@ -14,6 +14,7 @@ Artheater is a music venue in Cologne listed on soundcheck. 8 upcoming nights, w
 | Fri, 14 Aug 2026 | SCHRANZ is BACK Köln with Felix Kröcher & Neon Graveyard | Felix Kröcher, Neon Graveyard |
 | Sat, 22 Aug 2026 | jedermensch. x PhonoVision | Annemalie, Arninho, HiHat, Schuhmacher (3), alleira, lollo |
 | Fri, 28 Aug 2026 | Aura Extra with slin & Tarkno all night long on vinyl | Tarkno, slin |
+| Fri, 11 Sept 2026 | rau.ton x Toolboxxx PRESENTS | Cinthie, Efdemin, HWRD, Lea Occhi, Sandilé, Shrff, Virginia, pik (1) |
 | Sat, 19 Sept 2026 | Kluengel Klubnacht | Cara Elizabeth, HUELLE, Prossowski, RCGT, Sneaky Pete |
 | Sat, 19 Sept 2026 | 303 presents Cynthia Spiering, Danilo Filipe, In Furcht, TINKERHELL u. v. m. | Cynthia Spiering, Danilo Filipe, In Furcht, TINKERHELL |
 
@@ -21,4 +22,4 @@ Artheater is a music venue in Cologne listed on soundcheck. 8 upcoming nights, w
 
 Ehrenfeldgürtel 127; 50823 Cologne; Germany, Cologne
 
-*Updated Sun, 19 Jul 2026 · source: [soundcheck](https://soundcheck.club/cologne/club/artheater/)*
+*Updated Mon, 20 Jul 2026 · source: [soundcheck](https://soundcheck.club/cologne/club/artheater/)*

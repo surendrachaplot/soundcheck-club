@@ -1,6 +1,6 @@
 # Slipmatt
 
-Slipmatt is a House and Hardcore artist with 4 upcoming club dates listed on soundcheck as of Sun, 19 Jul 2026, next at Wigwam, Dublin on Thu, 20 Aug 2026.
+Slipmatt is a House and Hardcore artist with 4 upcoming club dates listed on soundcheck as of Mon, 20 Jul 2026, next at Wigwam, Dublin on Thu, 20 Aug 2026.
 
 Slipmatt is a house and hardcore artist tracked on soundcheck, with 59 sets logged across Amsterdam, Berlin, Birmingham and Brighton and 9 more. Often billed alongside Ratpack, Grooverider and Nicky Blackmarket. Next up: Wigwam, Dublin on Thu 20 Aug.
 
@@ -28,4 +28,4 @@ Slipmatt is a house and hardcore artist tracked on soundcheck, with 59 sets logg
 
 Ratpack, Grooverider, Nicky Blackmarket
 
-*Updated Sun, 19 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/slipmatt/)*
+*Updated Mon, 20 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/slipmatt/)*

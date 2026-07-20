@@ -1,6 +1,6 @@
 # Moritz
 
-Moritz is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Sun, 19 Jul 2026, next at WaV, Liverpool on Sat, 25 Jul 2026.
+Moritz is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Mon, 20 Jul 2026, next at WaV, Liverpool on Sat, 25 Jul 2026.
 
 Moritz is a house and techno artist tracked on soundcheck, with 23 sets logged across Budapest, Buenosaires, Leipzig and Liverpool and 2 more. Often billed alongside Fidge, Gyusco and Ivan Daza. Next up: WaV, Liverpool on Sat 25 Jul.
 
@@ -26,4 +26,4 @@ Moritz is a house and techno artist tracked on soundcheck, with 23 sets logged a
 
 Fidge, Gyusco, Ivan Daza
 
-*Updated Sun, 19 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/moritz/)*
+*Updated Mon, 20 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/moritz/)*

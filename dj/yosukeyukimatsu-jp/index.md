@@ -1,6 +1,6 @@
 # ¥ØU$UK€ ¥UK1MAT$U
 
-¥ØU$UK€ ¥UK1MAT$U is a Techno and Experimental artist with 6 upcoming club dates listed on soundcheck as of Sun, 19 Jul 2026, next at Downsview Park, Toronto on Fri, 31 Jul 2026.
+¥ØU$UK€ ¥UK1MAT$U is a Techno and Experimental artist with 6 upcoming club dates listed on soundcheck as of Mon, 20 Jul 2026, next at Downsview Park, Toronto on Fri, 31 Jul 2026.
 
 ¥ØU$UK€ ¥UK1MAT$U is a techno and experimental artist tracked on soundcheck, with 165 sets logged across Amsterdam, Athens, Bali and Bangkok and 49 more. Often billed alongside Blawan, DJ Gigola and Interplanetary Criminal. Next up: Downsview Park, Toronto on Fri 31 Jul.
 
@@ -30,4 +30,4 @@
 
 Blawan, DJ Gigola, Interplanetary Criminal
 
-*Updated Sun, 19 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/yosukeyukimatsu-jp/)*
+*Updated Mon, 20 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/yosukeyukimatsu-jp/)*

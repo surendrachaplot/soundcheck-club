@@ -1,6 +1,6 @@
 # Yaeji
 
-Yaeji is a House and Techno artist with 5 upcoming club dates listed on soundcheck as of Sun, 19 Jul 2026, next at 99 Scott Ave, New York City on Fri, 24 Jul 2026.
+Yaeji is a House and Techno artist with 5 upcoming club dates listed on soundcheck as of Mon, 20 Jul 2026, next at 99 Scott Ave, New York City on Fri, 24 Jul 2026.
 
 Yaeji is a house and techno artist based in United States of America, tracked on soundcheck, with 42 sets logged across Amsterdam, Austin, Barcelona and Berlin and 18 more. Often billed alongside Bambii, HiTech and Young Marco. Next up: 99 Scott Ave, Newyorkcity on Fri 24 Jul.
 
@@ -29,4 +29,4 @@ Yaeji is a house and techno artist based in United States of America, tracked on
 
 Bambii, HiTech, Young Marco
 
-*Updated Sun, 19 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/yaeji/)*
+*Updated Mon, 20 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/yaeji/)*

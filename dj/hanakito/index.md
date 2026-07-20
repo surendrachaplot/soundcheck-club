@@ -1,6 +1,6 @@
 # Hanakito
 
-Hanakito is a House and Disco artist with 2 upcoming club dates listed on soundcheck as of Sun, 19 Jul 2026, next at Almar Beach Club, Barcelona on Sun, 2 Aug 2026.
+Hanakito is a House and Disco artist with 2 upcoming club dates listed on soundcheck as of Mon, 20 Jul 2026, next at Almar Beach Club, Barcelona on Sun, 2 Aug 2026.
 
 Hanakito is a house and disco artist based in Japan, tracked on soundcheck, with 80 sets logged across Barcelona, Copenhagen, Milan and Tokyo. Often billed alongside Better Late, HannahLuyah and Dr Humedo. Next up: Almar Beach Club, Barcelona on Sun 2 Aug.
 
@@ -26,4 +26,4 @@ Hanakito is a house and disco artist based in Japan, tracked on soundcheck, with
 
 Better Late, HannahLuyah, Dr Humedo
 
-*Updated Sun, 19 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/hanakito/)*
+*Updated Mon, 20 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/hanakito/)*

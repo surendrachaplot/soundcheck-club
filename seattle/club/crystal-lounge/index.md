@@ -1,6 +1,6 @@
 # Crystal Lounge
 
-Crystal Lounge is a music venue in Seattle with 6 upcoming nights listed on soundcheck as of Sun, 19 Jul 2026; the next is "8/7 Otoconia House Music Social Ft. LGSP, Samadhi Flow, & Jon Lemmon" on Fri, 7 Aug 2026.
+Crystal Lounge is a music venue in Seattle with 6 upcoming nights listed on soundcheck as of Mon, 20 Jul 2026; the next is "8/7 Otoconia House Music Social Ft. LGSP, Samadhi Flow, & Jon Lemmon" on Fri, 7 Aug 2026.
 
 Crystal Lounge is a music venue in Seattle listed on soundcheck. 6 upcoming nights, with line-ups including Julie Herrera, Leira, LGSP and Trinitron. Browse upcoming dates, start times and who's playing. 2008 1st Ave.
 
@@ -19,4 +19,4 @@ Crystal Lounge is a music venue in Seattle listed on soundcheck. 6 upcoming nigh
 
 2008 1st Ave, Seattle
 
-*Updated Sun, 19 Jul 2026 · source: [soundcheck](https://soundcheck.club/seattle/club/crystal-lounge/)*
+*Updated Mon, 20 Jul 2026 · source: [soundcheck](https://soundcheck.club/seattle/club/crystal-lounge/)*

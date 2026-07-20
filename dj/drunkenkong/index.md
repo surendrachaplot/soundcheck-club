@@ -1,6 +1,6 @@
 # Drunken Kong
 
-Drunken Kong is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Sun, 19 Jul 2026, next at Yodo Groove (Yodobashi Ikebukuro), Tokyo on Sun, 26 Jul 2026.
+Drunken Kong is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Mon, 20 Jul 2026, next at Yodo Groove (Yodobashi Ikebukuro), Tokyo on Sun, 26 Jul 2026.
 
 Drunken Kong is a techno and house artist tracked on soundcheck, with 136 sets logged across Amsterdam, Bali, Bangkok and Berlin and 18 more. Often billed alongside RINALUCKY, Shogo Ito and U:ICHI. Next up: Yodo Groove (Yodobashi Ikebukuro), Tokyo on Sun 26 Jul.
 
@@ -26,4 +26,4 @@ Drunken Kong is a techno and house artist tracked on soundcheck, with 136 sets l
 
 RINALUCKY, Shogo Ito, U:ICHI
 
-*Updated Sun, 19 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/drunkenkong/)*
+*Updated Mon, 20 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/drunkenkong/)*

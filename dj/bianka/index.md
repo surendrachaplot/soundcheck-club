@@ -1,6 +1,6 @@
 # BIANKA
 
-BIANKA is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Sun, 19 Jul 2026, next at De Fik Garden, Amsterdam on Sat, 25 Jul 2026.
+BIANKA is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Mon, 20 Jul 2026, next at De Fik Garden, Amsterdam on Sat, 25 Jul 2026.
 
 BIANKA is a techno and house artist tracked on soundcheck, with 35 sets logged across Amsterdam, Berlin, Bucharest and Cologne and 6 more. Often billed alongside Hashashin, DAX J and Maria Cue. Next up: De Fik Garden, Amsterdam on Sat 25 Jul.
 
@@ -26,4 +26,4 @@ BIANKA is a techno and house artist tracked on soundcheck, with 35 sets logged a
 
 Hashashin, DAX J, Maria Cue
 
-*Updated Sun, 19 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/bianka/)*
+*Updated Mon, 20 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/bianka/)*

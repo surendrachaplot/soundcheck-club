@@ -1,6 +1,6 @@
 # Wiersma
 
-Wiersma is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Sun, 19 Jul 2026, next at Middlesex, Boston on Thu, 23 Jul 2026.
+Wiersma is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Mon, 20 Jul 2026, next at Middlesex, Boston on Thu, 23 Jul 2026.
 
 Wiersma is a house and techno artist based in United States of America, tracked on soundcheck, with 25 sets logged across Boston. Often billed alongside Brianna Paon, cutwoes and Alex Slater. Next up: Middlesex, Boston on Thu 23 Jul.
 
@@ -26,4 +26,4 @@ Wiersma is a house and techno artist based in United States of America, tracked 
 
 Brianna Paon, cutwoes, Alex Slater
 
-*Updated Sun, 19 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/wiersma/)*
+*Updated Mon, 20 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/wiersma/)*

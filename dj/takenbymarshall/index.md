@@ -1,14 +1,15 @@
 # Takenbymarshall
 
-Takenbymarshall is a Breakcore and Dubstep artist with 2 upcoming club dates listed on soundcheck as of Sun, 19 Jul 2026, next at M.O.T, London on Fri, 24 Jul 2026.
+Takenbymarshall is a Breakcore and Electro artist with 3 upcoming club dates listed on soundcheck as of Mon, 20 Jul 2026, next at M.O.T, London on Fri, 24 Jul 2026.
 
-Takenbymarshall is a breakcore and dubstep artist tracked on soundcheck, with 39 sets logged across Glasgow, London and Manchester. Often billed alongside Compulsive Leia, alterum and it_dont_Matt.er. Next up: M.O.T, London on Fri 24 Jul.
+Takenbymarshall is a breakcore and electro artist tracked on soundcheck, with 40 sets logged across Glasgow, London and Manchester. Often billed alongside Compulsive Leia, alterum and it_dont_Matt.er. Next up: M.O.T, London on Fri 24 Jul.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 24 Jul 2026 | M.O.T | London |
+| Fri, 24 Jul 2026 | Dalston Den | London |
 | Fri, 31 Jul 2026 | Vauxhall Arches | London |
 
 ## Recently played
@@ -26,4 +27,4 @@ Takenbymarshall is a breakcore and dubstep artist tracked on soundcheck, with 39
 
 Compulsive Leia, alterum, it_dont_Matt.er
 
-*Updated Sun, 19 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/takenbymarshall/)*
+*Updated Mon, 20 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/takenbymarshall/)*

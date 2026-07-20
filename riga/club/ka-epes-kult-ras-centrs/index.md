@@ -1,6 +1,6 @@
 # Kaņepes Kultūras Centrs
 
-Kaņepes Kultūras Centrs is a music venue in Riga with 5 upcoming nights listed on soundcheck as of Sun, 19 Jul 2026; the next is "WANDER WITH Mushrooms Project" on Fri, 24 Jul 2026.
+Kaņepes Kultūras Centrs is a music venue in Riga with 5 upcoming nights listed on soundcheck as of Mon, 20 Jul 2026; the next is "WANDER WITH Mushrooms Project" on Fri, 24 Jul 2026.
 
 Kaņepes Kultūras Centrs is a music venue in Riga listed on soundcheck. 5 upcoming nights, with line-ups including Aldee, DEEP DISTRICT, D I N and Forest On Stasys and 2 more. Browse upcoming dates, start times and who's playing. Skolas iela 15, Riga, Latvia-LV 1010.
 
@@ -18,4 +18,4 @@ Kaņepes Kultūras Centrs is a music venue in Riga listed on soundcheck. 5 upcom
 
 Skolas iela 15, Riga, Latvia-LV 1010, Riga
 
-*Updated Sun, 19 Jul 2026 · source: [soundcheck](https://soundcheck.club/riga/club/ka-epes-kult-ras-centrs/)*
+*Updated Mon, 20 Jul 2026 · source: [soundcheck](https://soundcheck.club/riga/club/ka-epes-kult-ras-centrs/)*

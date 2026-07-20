@@ -1,14 +1,13 @@
 # Arok Shiva
 
-Arok Shiva is a Acid and Techno artist with 7 upcoming club dates listed on soundcheck as of Sun, 19 Jul 2026, next at EL SÓTANO, Madrid on Sun, 19 Jul 2026.
+Arok Shiva is a Acid and Techno artist with 6 upcoming club dates listed on soundcheck as of Mon, 20 Jul 2026, next at EL SÓTANO, Madrid on Sun, 26 Jul 2026.
 
-Arok Shiva is an acid and techno artist tracked on soundcheck, with 62 sets logged across Madrid. Often billed alongside Epileptik, DAVID MENA and Mako. Next up: EL SÓTANO, Madrid on Sun 19 Jul.
+Arok Shiva is an acid and techno artist tracked on soundcheck, with 62 sets logged across Madrid. Often billed alongside Epileptik, DAVID MENA and Mako. Next up: EL SÓTANO, Madrid on Sun 26 Jul.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sun, 19 Jul 2026 | EL SÓTANO | Madrid |
 | Sun, 26 Jul 2026 | EL SÓTANO | Madrid |
 | Sun, 2 Aug 2026 | EL SÓTANO | Madrid |
 | Sun, 9 Aug 2026 | EL SÓTANO | Madrid |
@@ -18,6 +17,7 @@ Arok Shiva is an acid and techno artist tracked on soundcheck, with 62 sets logg
 
 ## Recently played
 
+- EL SÓTANO, Madrid — Sun, 19 Jul 2026
 - EL SÓTANO, Madrid — Sun, 12 Jul 2026
 - EL SÓTANO, Madrid — Sun, 5 Jul 2026
 - EL SÓTANO, Madrid — Sun, 28 Jun 2026
@@ -25,10 +25,9 @@ Arok Shiva is an acid and techno artist tracked on soundcheck, with 62 sets logg
 - EL SÓTANO, Madrid — Sun, 14 Jun 2026
 - EL SÓTANO, Madrid — Sun, 7 Jun 2026
 - EL SÓTANO, Madrid — Sun, 31 May 2026
-- EL SÓTANO, Madrid — Sun, 24 May 2026
 
 ## Shares bills with
 
 Epileptik, DAVID MENA, Mako
 
-*Updated Sun, 19 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/arokshiva/)*
+*Updated Mon, 20 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/arokshiva/)*

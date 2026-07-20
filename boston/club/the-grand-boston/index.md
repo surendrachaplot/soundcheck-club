@@ -1,6 +1,6 @@
 # The Grand Boston
 
-The Grand Boston is a music venue in Boston with 2 upcoming nights listed on soundcheck as of Sun, 19 Jul 2026; the next is "Noizu" on Fri, 14 Aug 2026.
+The Grand Boston is a music venue in Boston with 2 upcoming nights listed on soundcheck as of Mon, 20 Jul 2026; the next is "Noizu" on Fri, 14 Aug 2026.
 
 The Grand Boston is a music venue in Boston listed on soundcheck. 2 upcoming nights, with line-ups including Dombresky. Browse upcoming dates, start times and who's playing. 58 Seaport Blvd Suite 300, Boston, MA 02210.
 
@@ -15,4 +15,4 @@ The Grand Boston is a music venue in Boston listed on soundcheck. 2 upcoming nig
 
 58 Seaport Blvd Suite 300, Boston, MA 02210, Boston
 
-*Updated Sun, 19 Jul 2026 · source: [soundcheck](https://soundcheck.club/boston/club/the-grand-boston/)*
+*Updated Mon, 20 Jul 2026 · source: [soundcheck](https://soundcheck.club/boston/club/the-grand-boston/)*

@@ -1,6 +1,6 @@
 # Yoshihiro Okino
 
-Yoshihiro Okino is a Jazz and Club artist with 3 upcoming club dates listed on soundcheck as of Sun, 19 Jul 2026, next at Noon + Cafe, Osaka on Sat, 25 Jul 2026.
+Yoshihiro Okino is a Jazz and Club artist with 3 upcoming club dates listed on soundcheck as of Mon, 20 Jul 2026, next at Noon + Cafe, Osaka on Sat, 25 Jul 2026.
 
 Yoshihiro Okino is a jazz and club artist based in Japan, tracked on soundcheck, with 70 sets logged across Kyoto, Osaka and Tokyo. Often billed alongside Kyoto Jazz Massive, Shuya Okino and Masaki Tamura. Next up: Noon + Cafe, Osaka on Sat 25 Jul.
 
@@ -27,4 +27,4 @@ Yoshihiro Okino is a jazz and club artist based in Japan, tracked on soundcheck,
 
 Kyoto Jazz Massive, Shuya Okino, Masaki Tamura
 
-*Updated Sun, 19 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/yoshihirookino/)*
+*Updated Mon, 20 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/yoshihirookino/)*

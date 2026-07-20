@@ -1,6 +1,6 @@
 # Jelsen
 
-Jelsen is a Garage and House artist with 2 upcoming club dates listed on soundcheck as of Sun, 19 Jul 2026, next at Vittoria Wharf Studio, London on Sat, 25 Jul 2026.
+Jelsen is a Garage and House artist with 2 upcoming club dates listed on soundcheck as of Mon, 20 Jul 2026, next at Vittoria Wharf Studio, London on Sat, 25 Jul 2026.
 
 Jelsen is a garage and house artist tracked on soundcheck, with 32 sets logged across Leeds, Liverpool, London and Manchester. Often billed alongside simmo, Josh Baker and L.P. Rhythm. Next up: Vittoria Wharf Studio, London on Sat 25 Jul.
 
@@ -26,4 +26,4 @@ Jelsen is a garage and house artist tracked on soundcheck, with 32 sets logged a
 
 simmo, Josh Baker, L.P. Rhythm
 
-*Updated Sun, 19 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/jelsen/)*
+*Updated Mon, 20 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/jelsen/)*

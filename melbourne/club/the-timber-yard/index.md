@@ -1,6 +1,6 @@
 # The Timber Yard
 
-The Timber Yard is a music venue in Melbourne with 3 upcoming nights listed on soundcheck as of Sun, 19 Jul 2026; the next is "Ministry of Sound Testament Melbourne 90s" on Sat, 25 Jul 2026.
+The Timber Yard is a music venue in Melbourne with 3 upcoming nights listed on soundcheck as of Mon, 20 Jul 2026; the next is "Ministry of Sound Testament Melbourne 90s" on Sat, 25 Jul 2026.
 
 The Timber Yard is a music venue in Melbourne listed on soundcheck. 3 upcoming nights, with line-ups including Altern-8, Brandon Block, Danny Tenaglia and Darren Emerson and 2 more. Browse upcoming dates, start times and who's playing. 351 Plummer Street, Port Melbourne, Victoria 3207.
 
@@ -16,4 +16,4 @@ The Timber Yard is a music venue in Melbourne listed on soundcheck. 3 upcoming n
 
 351 Plummer Street, Port Melbourne, Victoria 3207, Melbourne
 
-*Updated Sun, 19 Jul 2026 · source: [soundcheck](https://soundcheck.club/melbourne/club/the-timber-yard/)*
+*Updated Mon, 20 Jul 2026 · source: [soundcheck](https://soundcheck.club/melbourne/club/the-timber-yard/)*

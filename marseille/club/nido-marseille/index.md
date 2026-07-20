@@ -1,6 +1,6 @@
 # Nido Marseille
 
-Nido Marseille is a music venue in Marseille with 2 upcoming nights listed on soundcheck as of Sun, 19 Jul 2026; the next is "nido local session - Braga" on Fri, 24 Jul 2026.
+Nido Marseille is a music venue in Marseille with 2 upcoming nights listed on soundcheck as of Mon, 20 Jul 2026; the next is "nido local session - Braga" on Fri, 24 Jul 2026.
 
 Nido Marseille is a music venue in Marseille listed on soundcheck. 2 upcoming nights, with line-ups including Man/Ipulate. Browse upcoming dates, start times and who's playing. 20 boulevard fifi turin.
 
@@ -15,4 +15,4 @@ Nido Marseille is a music venue in Marseille listed on soundcheck. 2 upcoming ni
 
 20 boulevard fifi turin, Marseille
 
-*Updated Sun, 19 Jul 2026 · source: [soundcheck](https://soundcheck.club/marseille/club/nido-marseille/)*
+*Updated Mon, 20 Jul 2026 · source: [soundcheck](https://soundcheck.club/marseille/club/nido-marseille/)*

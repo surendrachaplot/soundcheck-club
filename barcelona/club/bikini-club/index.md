@@ -1,6 +1,6 @@
 # Bikini Club
 
-Bikini Club is a music venue in Barcelona with 3 upcoming nights listed on soundcheck as of Sun, 19 Jul 2026; the next is "Tunnel presents: Carlo Rewer, Rim, Moray" on Fri, 24 Jul 2026.
+Bikini Club is a music venue in Barcelona with 3 upcoming nights listed on soundcheck as of Mon, 20 Jul 2026; the next is "Tunnel presents: Carlo Rewer, Rim, Moray" on Fri, 24 Jul 2026.
 
 Bikini Club is a music venue in Barcelona listed on soundcheck. 3 upcoming nights, with line-ups including Amadori, Carlo Rewer, Djolee and Galu Bla and 2 more. Browse upcoming dates, start times and who's playing. L'Illia, Avinguda Diagonal, 547, 08029 Barcelona.
 
@@ -16,4 +16,4 @@ Bikini Club is a music venue in Barcelona listed on soundcheck. 3 upcoming night
 
 L'Illia, Avinguda Diagonal, 547, 08029 Barcelona, Barcelona
 
-*Updated Sun, 19 Jul 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/bikini-club/)*
+*Updated Mon, 20 Jul 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/bikini-club/)*

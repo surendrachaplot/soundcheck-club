@@ -1,14 +1,13 @@
 # Fitzroy
 
-Fitzroy is a music venue in Berlin with 8 upcoming nights listed on soundcheck as of Sun, 19 Jul 2026; the next is "Royal Highness invites Halal Club (free entry / donation based)" on Sun, 19 Jul 2026.
+Fitzroy is a music venue in Berlin with 7 upcoming nights listed on soundcheck as of Mon, 20 Jul 2026; the next is "Hüft & Beinbruch" on Thu, 23 Jul 2026.
 
-Fitzroy is a music venue in Berlin listed on soundcheck. 8 upcoming nights, with line-ups including Javier Anxiety, Asha (4), Bouch and cun_t and 2 more. Browse upcoming dates, start times and who's playing. Holzmarktstraße 15, 10179 Berlin, Germany.
+Fitzroy is a music venue in Berlin listed on soundcheck. 7 upcoming nights, with line-ups including Javier Anxiety, Bouch, cun_t and Dorian Fecht and 2 more. Browse upcoming dates, start times and who's playing. Holzmarktstraße 15, 10179 Berlin, Germany.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Sun, 19 Jul 2026 | Royal Highness invites Halal Club (free entry / donation based) | Asha (4), EgorVasilev, KAPP, Katja Adrikova, Labrighli, Nikita T, SOCIAL VLAD, Stamina (DE), TIKOA, Zorz, travaspango |
 | Thu, 23 Jul 2026 | Hüft & Beinbruch | LASC11, Phil Phaze, cun_t |
 | Fri, 24 Jul 2026 | Paper-Cuts present mad miran, Mike Midnight (Live), Miscmeg, Paper-Cuts, Pridi - Fitzroy Berlin | Mike Midnight, Miscmeg, Paper-Cuts, Pridi, mad miran |
 | Sat, 25 Jul 2026 | UNORDNUNGSAMT - CSD AFTERPARTY | Bouch, Flor Coto, Guile, Javier Anxiety, Jogo, Juan Neira, Lenut, Mara Vilu, Szew |
@@ -21,4 +20,4 @@ Fitzroy is a music venue in Berlin listed on soundcheck. 8 upcoming nights, with
 
 Holzmarktstraße 15, 10179 Berlin, Germany, Berlin
 
-*Updated Sun, 19 Jul 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/fitzroy/)*
+*Updated Mon, 20 Jul 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/fitzroy/)*

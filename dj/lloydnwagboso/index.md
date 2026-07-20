@@ -1,6 +1,6 @@
 # Lloyd Nwagboso
 
-Lloyd Nwagboso is a House and Tech House artist with 2 upcoming club dates listed on soundcheck as of Sun, 19 Jul 2026, next at Chinois Ibiza, Ibiza on Thu, 20 Aug 2026.
+Lloyd Nwagboso is a House and Tech House artist with 2 upcoming club dates listed on soundcheck as of Mon, 20 Jul 2026, next at Chinois Ibiza, Ibiza on Thu, 20 Aug 2026.
 
 Lloyd Nwagboso is a house and tech house artist based in United Kingdom, tracked on soundcheck, with 24 sets logged across Ibiza and London. Often billed alongside Alex Mills, Beyond Chicago and Melvo Baptiste. Next up: Chinois Ibiza, Ibiza on Thu 20 Aug.
 
@@ -26,4 +26,4 @@ Lloyd Nwagboso is a house and tech house artist based in United Kingdom, tracked
 
 Alex Mills, Beyond Chicago, Melvo Baptiste
 
-*Updated Sun, 19 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/lloydnwagboso/)*
+*Updated Mon, 20 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/lloydnwagboso/)*

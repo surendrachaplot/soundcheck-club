@@ -1,6 +1,6 @@
 # The Chocolate Factory
 
-The Chocolate Factory is a music venue in New York City with 3 upcoming nights listed on soundcheck as of Sun, 19 Jul 2026; the next is "cruush presents: Thotography 101 - warehouse rave for queer cruisers" on Fri, 31 Jul 2026.
+The Chocolate Factory is a music venue in New York City with 3 upcoming nights listed on soundcheck as of Mon, 20 Jul 2026; the next is "cruush presents: Thotography 101 - warehouse rave for queer cruisers" on Fri, 31 Jul 2026.
 
 The Chocolate Factory is a music venue in Newyorkcity listed on soundcheck. 3 upcoming nights, with line-ups including Katie Rex, Natasha Diggs, Sailor Malice and SENGA and 2 more. Browse upcoming dates, start times and who's playing. 70 Scott Ave Brooklyn, NY 11237.
 
@@ -16,4 +16,4 @@ The Chocolate Factory is a music venue in Newyorkcity listed on soundcheck. 3 up
 
 70 Scott Ave Brooklyn, NY 11237, New York City
 
-*Updated Sun, 19 Jul 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/the-chocolate-factory/)*
+*Updated Mon, 20 Jul 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/the-chocolate-factory/)*

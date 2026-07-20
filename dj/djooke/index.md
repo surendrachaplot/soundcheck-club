@@ -1,6 +1,6 @@
 # Djooke
 
-Djooke is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Sun, 19 Jul 2026, next at TILLATEC, Amsterdam on Sun, 2 Aug 2026.
+Djooke is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Mon, 20 Jul 2026, next at TILLATEC, Amsterdam on Sun, 2 Aug 2026.
 
 Djooke is a techno and house artist based in Portugal, tracked on soundcheck, with 23 sets logged across Amsterdam, Barcelona, Berlin and Lisbon and 1 more. Often billed alongside ANÍBAL, Dimitri Tenot and ENGALANAN. Next up: TILLATEC, Amsterdam on Sun 2 Aug.
 
@@ -26,4 +26,4 @@ Djooke is a techno and house artist based in Portugal, tracked on soundcheck, wi
 
 ANÍBAL, Dimitri Tenot, ENGALANAN
 
-*Updated Sun, 19 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/djooke/)*
+*Updated Mon, 20 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/djooke/)*

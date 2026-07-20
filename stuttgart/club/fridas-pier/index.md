@@ -1,14 +1,13 @@
 # Fridas Pier
 
-Fridas Pier is a music venue in Stuttgart with 18 upcoming nights listed on soundcheck as of Sun, 19 Jul 2026; the next is "STAMMTISCH EVENTS PRES. STAMMTISCH OPEN AIR" on Sun, 19 Jul 2026.
+Fridas Pier is a music venue in Stuttgart with 17 upcoming nights listed on soundcheck as of Mon, 20 Jul 2026; the next is "HOUSE QUEENS" on Sat, 25 Jul 2026.
 
-Fridas Pier is a music venue in Stuttgart listed on soundcheck. 18 upcoming nights, with line-ups including Acid Pauli, A.D.H.S., Alex Kassian and Analog Crystal and 2 more. Browse upcoming dates, start times and who's playing. Uferstraße 107, 70188 Stuttgart, Germany.
+Fridas Pier is a music venue in Stuttgart listed on soundcheck. 17 upcoming nights, with line-ups including Acid Pauli, A.D.H.S., Alex Kassian and Analog Crystal and 2 more. Browse upcoming dates, start times and who's playing. Uferstraße 107, 70188 Stuttgart, Germany.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Sun, 19 Jul 2026 | STAMMTISCH EVENTS PRES. STAMMTISCH OPEN AIR | SILAS (DE) |
 | Sat, 25 Jul 2026 | HOUSE QUEENS | Annina, LIZZN, Sabrina Hawk |
 | Sat, 25 Jul 2026 | AURORA pres. Samm | Samm (BE) |
 | Sun, 26 Jul 2026 | Re.YouNION | Nandu, Navid (2), Re.You |
@@ -18,9 +17,10 @@ Fridas Pier is a music venue in Stuttgart listed on soundcheck. 18 upcoming nigh
 | Sun, 9 Aug 2026 | HERZ & SEELE OPEN AIR · Fridas Pier OBERDECK | HOVR, Molekularmusik, Wanda Wild, tim/bre |
 | Fri, 14 Aug 2026 | shockwerk summer edition outdoor + indoor |  |
 | Sat, 15 Aug 2026 | FAME – OPEN AIR & INDOOR | DJ Luc |
+| Fri, 21 Aug 2026 | Mindshift pres. Cirkle -live-, Phil Berg & SHDW [Open Air & Club] | Cirkle, Phil Berg, SHDW, Townes |
 
 ## Address
 
 Uferstraße 107, 70188 Stuttgart, Germany, Stuttgart
 
-*Updated Sun, 19 Jul 2026 · source: [soundcheck](https://soundcheck.club/stuttgart/club/fridas-pier/)*
+*Updated Mon, 20 Jul 2026 · source: [soundcheck](https://soundcheck.club/stuttgart/club/fridas-pier/)*

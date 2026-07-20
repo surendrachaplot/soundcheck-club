@@ -1,6 +1,6 @@
 # Sala Siroco
 
-Sala Siroco is a music venue in Madrid with 4 upcoming nights listed on soundcheck as of Sun, 19 Jul 2026; the next is "RAW#14 - season closing" on Thu, 23 Jul 2026.
+Sala Siroco is a music venue in Madrid with 4 upcoming nights listed on soundcheck as of Mon, 20 Jul 2026; the next is "RAW#14 - season closing" on Thu, 23 Jul 2026.
 
 Sala Siroco is a music venue in Madrid listed on soundcheck. 4 upcoming nights, with line-ups including Fer Xplosion, Julia Pé, Luska and Oxbin. Browse upcoming dates, start times and who's playing. Calle San Dimas, 3, 28015 Madrid, Spain.
 
@@ -17,4 +17,4 @@ Sala Siroco is a music venue in Madrid listed on soundcheck. 4 upcoming nights, 
 
 Calle San Dimas, 3, 28015 Madrid, Spain, Madrid
 
-*Updated Sun, 19 Jul 2026 · source: [soundcheck](https://soundcheck.club/madrid/club/sala-siroco/)*
+*Updated Mon, 20 Jul 2026 · source: [soundcheck](https://soundcheck.club/madrid/club/sala-siroco/)*

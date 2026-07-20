@@ -1,6 +1,6 @@
 # Ether Pleaser
 
-Ether Pleaser is a Techno and Club artist with 3 upcoming club dates listed on soundcheck as of Sun, 19 Jul 2026, next at TRANSMISSION DC, Washington DC on Sat, 1 Aug 2026.
+Ether Pleaser is a Techno and Club artist with 3 upcoming club dates listed on soundcheck as of Mon, 20 Jul 2026, next at TRANSMISSION DC, Washington DC on Sat, 1 Aug 2026.
 
 Ether Pleaser is a techno and club artist based in United States of America, tracked on soundcheck, with 46 sets logged across Newyorkcity, Philadelphia and Washingtondc. Often billed alongside Franxx, znorthy and CYB3R T0NIN. Next up: TRANSMISSION DC, Washingtondc on Sat 1 Aug.
 
@@ -27,4 +27,4 @@ Ether Pleaser is a techno and club artist based in United States of America, tra
 
 Franxx, znorthy, CYB3R T0NIN
 
-*Updated Sun, 19 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/etherpleaser/)*
+*Updated Mon, 20 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/etherpleaser/)*

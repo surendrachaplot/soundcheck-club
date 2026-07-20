@@ -1,6 +1,6 @@
 # Pracht
 
-Pracht is a music venue in Frankfurt with 5 upcoming nights listed on soundcheck as of Sun, 19 Jul 2026; the next is "KLUBNACHT x ON THE GROUND with Monsieur Vide & Shahab" on Thu, 23 Jul 2026.
+Pracht is a music venue in Frankfurt with 5 upcoming nights listed on soundcheck as of Mon, 20 Jul 2026; the next is "KLUBNACHT x ON THE GROUND with Monsieur Vide & Shahab" on Thu, 23 Jul 2026.
 
 Pracht is a music venue in Frankfurt listed on soundcheck. 5 upcoming nights, with line-ups including Benja Asima, Biagio Sibilla, Dario Milkovic and Federico Guglielmi and 2 more. Browse upcoming dates, start times and who's playing. Niddastr. 54, 60327 Frankfurt am Main, Germany.
 
@@ -18,4 +18,4 @@ Pracht is a music venue in Frankfurt listed on soundcheck. 5 upcoming nights, wi
 
 Niddastr. 54, 60327 Frankfurt am Main, Germany, Frankfurt
 
-*Updated Sun, 19 Jul 2026 · source: [soundcheck](https://soundcheck.club/frankfurt/club/pracht/)*
+*Updated Mon, 20 Jul 2026 · source: [soundcheck](https://soundcheck.club/frankfurt/club/pracht/)*

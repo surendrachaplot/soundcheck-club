@@ -1,6 +1,6 @@
 # Refracta
 
-Refracta is a Drum & Bass and Bass artist with 2 upcoming club dates listed on soundcheck as of Sun, 19 Jul 2026, next at The Mash House, Edinburgh on Sat, 1 Aug 2026.
+Refracta is a Drum & Bass and Bass artist with 2 upcoming club dates listed on soundcheck as of Mon, 20 Jul 2026, next at The Mash House, Edinburgh on Sat, 1 Aug 2026.
 
 Refracta is a drum & bass and bass artist based in United Kingdom, tracked on soundcheck, with 42 sets logged across Birmingham, Bristol, Edinburgh and Glasgow and 5 more. Often billed alongside George IV, Coben and M.O.B. Next up: The Mash House, Edinburgh on Sat 1 Aug.
 
@@ -26,4 +26,4 @@ Refracta is a drum & bass and bass artist based in United Kingdom, tracked on so
 
 George IV, Coben, M.O.B
 
-*Updated Sun, 19 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/refracta/)*
+*Updated Mon, 20 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/refracta/)*

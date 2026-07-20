@@ -1,6 +1,6 @@
 # RAAUL
 
-RAAUL is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Sun, 19 Jul 2026, next at Outer Heaven, New York City on Wed, 29 Jul 2026.
+RAAUL is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Mon, 20 Jul 2026, next at Outer Heaven, New York City on Wed, 29 Jul 2026.
 
 RAAUL is a house and techno artist based in United States of America, tracked on soundcheck, with 34 sets logged across Miami and Newyorkcity. Often billed alongside Miguel Gallardo, Raw Phonics and Sasta. Next up: Outer Heaven, Newyorkcity on Wed 29 Jul.
 
@@ -26,4 +26,4 @@ RAAUL is a house and techno artist based in United States of America, tracked on
 
 Miguel Gallardo, Raw Phonics, Sasta
 
-*Updated Sun, 19 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/raaul/)*
+*Updated Mon, 20 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/raaul/)*

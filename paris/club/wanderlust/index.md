@@ -1,6 +1,6 @@
 # Wanderlust
 
-Wanderlust is a music venue in Paris with 4 upcoming nights listed on soundcheck as of Sun, 19 Jul 2026; the next is "Jeudi OK : Lolita + Less Drama More Techno" on Thu, 23 Jul 2026.
+Wanderlust is a music venue in Paris with 4 upcoming nights listed on soundcheck as of Mon, 20 Jul 2026; the next is "Jeudi OK : Lolita + Less Drama More Techno" on Thu, 23 Jul 2026.
 
 Wanderlust is a music venue in Paris listed on soundcheck. 4 upcoming nights, with line-ups including 1NSONGE, A-440, BABY-B and Ben Manson and 2 more. Browse upcoming dates, start times and who's playing. 32 quai d'Austerlitz, 75013 Paris.
 
@@ -17,4 +17,4 @@ Wanderlust is a music venue in Paris listed on soundcheck. 4 upcoming nights, wi
 
 32 quai d'Austerlitz, 75013 Paris, Paris
 
-*Updated Sun, 19 Jul 2026 · source: [soundcheck](https://soundcheck.club/paris/club/wanderlust/)*
+*Updated Mon, 20 Jul 2026 · source: [soundcheck](https://soundcheck.club/paris/club/wanderlust/)*

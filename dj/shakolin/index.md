@@ -1,6 +1,6 @@
 # Shakolin
 
-Shakolin is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Sun, 19 Jul 2026, next at gART.n, Berlin on Sat, 15 Aug 2026.
+Shakolin is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Mon, 20 Jul 2026, next at gART.n, Berlin on Sat, 15 Aug 2026.
 
 Shakolin is a house and techno artist based in Ukraine, tracked on soundcheck, with 103 sets logged across Amsterdam, Austin, Barcelona and Berlin and 27 more. Often billed alongside Karine, Timur Basha and Noizar. Next up: gART.n, Berlin on Sat 15 Aug.
 
@@ -26,4 +26,4 @@ Shakolin is a house and techno artist based in Ukraine, tracked on soundcheck, w
 
 Karine, Timur Basha, Noizar
 
-*Updated Sun, 19 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/shakolin/)*
+*Updated Mon, 20 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/shakolin/)*

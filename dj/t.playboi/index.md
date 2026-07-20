@@ -1,6 +1,6 @@
 # T.PLAYBOI
 
-T.PLAYBOI is a Techno and Breakbeat artist with 3 upcoming club dates listed on soundcheck as of Sun, 19 Jul 2026, next at BRET, Amsterdam on Sun, 16 Aug 2026.
+T.PLAYBOI is a Techno and Breakbeat artist with 3 upcoming club dates listed on soundcheck as of Mon, 20 Jul 2026, next at BRET, Amsterdam on Sun, 16 Aug 2026.
 
 T.PLAYBOI is a techno and breakbeat artist tracked on soundcheck, with 24 sets logged across Amsterdam, Berlin and Hamburg. Often billed alongside EliaHaze, DJ Babyblade and Anton Jonathan. Next up: BRET, Amsterdam on Sun 16 Aug.
 
@@ -27,4 +27,4 @@ T.PLAYBOI is a techno and breakbeat artist tracked on soundcheck, with 24 sets l
 
 EliaHaze, DJ Babyblade, Anton Jonathan
 
-*Updated Sun, 19 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/t.playboi/)*
+*Updated Mon, 20 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/t.playboi/)*

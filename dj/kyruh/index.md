@@ -1,6 +1,6 @@
 # KYRUH
 
-KYRUH is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Sun, 19 Jul 2026, next at TBA - Brooklyn, New York City on Sat, 25 Jul 2026.
+KYRUH is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Mon, 20 Jul 2026, next at TBA - Brooklyn, New York City on Sat, 25 Jul 2026.
 
 KYRUH is a techno and house artist tracked on soundcheck, with 146 sets logged across Amsterdam, Austin, Barcelona and Berlin and 14 more. Often billed alongside WTCHCRFT, Katie Rex and KXAH. Next up: TBA - Brooklyn, Newyorkcity on Sat 25 Jul.
 
@@ -27,4 +27,4 @@ KYRUH is a techno and house artist tracked on soundcheck, with 146 sets logged a
 
 WTCHCRFT, Katie Rex, KXAH
 
-*Updated Sun, 19 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/kyruh/)*
+*Updated Mon, 20 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/kyruh/)*

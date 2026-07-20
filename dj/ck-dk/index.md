@@ -1,6 +1,6 @@
 # C.K
 
-C.K is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Sun, 19 Jul 2026, next at Kulturcampus Frankfurt, Frankfurt on Thu, 13 Aug 2026.
+C.K is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Mon, 20 Jul 2026, next at Kulturcampus Frankfurt, Frankfurt on Thu, 13 Aug 2026.
 
 C.K is a house and techno artist based in Denmark, tracked on soundcheck, with 32 sets logged across Amsterdam, Berlin, Bristol and Brussels and 11 more. Often billed alongside dj sweet6teen, CCL and Cirkeline. Next up: Kulturcampus Frankfurt, Frankfurt on Thu 13 Aug.
 
@@ -26,4 +26,4 @@ C.K is a house and techno artist based in Denmark, tracked on soundcheck, with 3
 
 dj sweet6teen, CCL, Cirkeline
 
-*Updated Sun, 19 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/ck-dk/)*
+*Updated Mon, 20 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/ck-dk/)*

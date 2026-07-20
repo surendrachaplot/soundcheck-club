@@ -1,6 +1,6 @@
 # Kilomètre25
 
-Kilomètre25 is a music venue in Paris with 16 upcoming nights listed on soundcheck as of Sun, 19 Jul 2026; the next is "ØXYL: ADB, ARGOT, Cattoni, ETERA, Grand V & Varya Karpova" on Thu, 23 Jul 2026.
+Kilomètre25 is a music venue in Paris with 16 upcoming nights listed on soundcheck as of Mon, 20 Jul 2026; the next is "ØXYL: ADB, ARGOT, Cattoni, ETERA, Grand V & Varya Karpova" on Thu, 23 Jul 2026.
 
 Kilomètre25 is a music venue in Paris listed on soundcheck. 16 upcoming nights, with line-ups including ADB (FR), Airod, ALT8 and Antonym and 2 more. Browse upcoming dates, start times and who's playing. 8 Boulevard MacDonald 75019 Paris.
 
@@ -23,4 +23,4 @@ Kilomètre25 is a music venue in Paris listed on soundcheck. 16 upcoming nights,
 
 8 Boulevard MacDonald 75019 Paris, Paris
 
-*Updated Sun, 19 Jul 2026 · source: [soundcheck](https://soundcheck.club/paris/club/kilom-tre25/)*
+*Updated Mon, 20 Jul 2026 · source: [soundcheck](https://soundcheck.club/paris/club/kilom-tre25/)*

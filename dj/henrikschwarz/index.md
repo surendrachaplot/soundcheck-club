@@ -1,6 +1,6 @@
 # Henrik Schwarz
 
-Henrik Schwarz is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Sun, 19 Jul 2026, next at Hï Ibiza, Ibiza on Mon, 27 Jul 2026.
+Henrik Schwarz is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Mon, 20 Jul 2026, next at Hï Ibiza, Ibiza on Mon, 27 Jul 2026.
 
 Henrik Schwarz is a house and techno artist tracked on soundcheck, with 105 sets logged across Amsterdam, Bali, Barcelona and Berlin and 28 more. Often billed alongside Mano Le Tough, Âme and Black Coffee. Next up: Hï Ibiza, Ibiza on Mon 27 Jul.
 
@@ -27,4 +27,4 @@ Henrik Schwarz is a house and techno artist tracked on soundcheck, with 105 sets
 
 Mano Le Tough, Âme, Black Coffee
 
-*Updated Sun, 19 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/henrikschwarz/)*
+*Updated Mon, 20 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/henrikschwarz/)*

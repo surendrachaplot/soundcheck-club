@@ -1,10 +1,10 @@
 # THE CLIMAX: A GHETTOTECH PARTY (FULLBODYDURAG, BLACKMOONCHILD, DEITY) at Big Pink
 
-THE CLIMAX: A GHETTOTECH PARTY (FULLBODYDURAG, BLACKMOONCHILD, DEITY) at Big Pink on Sat 8 Aug, Detroit. Preview the line-up and save it on soundcheck.
+THE CLIMAX: A GHETTOTECH PARTY (FULLBODYDURAG, BLACKMOONCHILD, DEITY) at Big Pink on Fri 7 Aug, Detroit. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
-| Date | Sat, 8 Aug 2026 |
+| Date | Fri, 7 Aug 2026 |
 | Venue | Big Pink |
 | City | Detroit |
 

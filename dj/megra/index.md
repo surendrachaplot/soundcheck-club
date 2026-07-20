@@ -1,6 +1,6 @@
 # Megra
 
-Megra is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Sun, 19 Jul 2026, next at Colour Factory, London on Sat, 25 Jul 2026.
+Megra is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Mon, 20 Jul 2026, next at Colour Factory, London on Sat, 25 Jul 2026.
 
 Megra is a techno and house artist based in Sweden, tracked on soundcheck, with 24 sets logged across Amsterdam, Antwerp, Belfast and Brighton and 7 more. Often billed alongside Sam Alfred, Duskus and Faster Horses. Next up: Colour Factory, London on Sat 25 Jul.
 
@@ -26,4 +26,4 @@ Megra is a techno and house artist based in Sweden, tracked on soundcheck, with 
 
 Sam Alfred, Duskus, Faster Horses
 
-*Updated Sun, 19 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/megra/)*
+*Updated Mon, 20 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/megra/)*

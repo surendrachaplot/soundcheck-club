@@ -1,6 +1,6 @@
 # Ella Fayden
 
-Ella Fayden is a House and Deep House artist with 4 upcoming club dates listed on soundcheck as of Sun, 19 Jul 2026, next at Ballroom at Palais, London on Fri, 24 Jul 2026.
+Ella Fayden is a House and Deep House artist with 4 upcoming club dates listed on soundcheck as of Mon, 20 Jul 2026, next at Ballroom at Palais, London on Fri, 24 Jul 2026.
 
 Ella Fayden is a house and deep house artist based in United Kingdom, tracked on soundcheck, with 26 sets logged across Berlin, London and Manchester. Often billed alongside Duowe, Maxibon (2) and Picasso. Next up: Ballroom at Palais, London on Fri 24 Jul.
 
@@ -28,4 +28,4 @@ Ella Fayden is a house and deep house artist based in United Kingdom, tracked on
 
 Duowe, Maxibon (2), Picasso
 
-*Updated Sun, 19 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/ellafayden/)*
+*Updated Mon, 20 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/ellafayden/)*

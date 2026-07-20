@@ -1,8 +1,8 @@
 # Boris
 
-Boris is a Techno and House artist with 7 upcoming club dates listed on soundcheck as of Sun, 19 Jul 2026, next at Berghain | Panorama Bar | Säule, Berlin on Sat, 25 Jul 2026.
+Boris is a Techno and House artist with 8 upcoming club dates listed on soundcheck as of Mon, 20 Jul 2026, next at Berghain | Panorama Bar | Säule, Berlin on Sat, 25 Jul 2026.
 
-Boris is a techno and house artist tracked on soundcheck, with 211 sets logged across Amsterdam, Athens, Auckland and Austin and 49 more. Often billed alongside BASHKKA, Massimiliano Pagliara and Roi Perez. Next up: Berghain | Panorama Bar | Säule, Berlin on Sat 25 Jul.
+Boris is a techno and house artist tracked on soundcheck, with 212 sets logged across Amsterdam, Athens, Auckland and Austin and 49 more. Often billed alongside BASHKKA, Massimiliano Pagliara and Roi Perez. Next up: Berghain | Panorama Bar | Säule, Berlin on Sat 25 Jul.
 
 ## Upcoming shows
 
@@ -13,6 +13,7 @@ Boris is a techno and house artist tracked on soundcheck, with 211 sets logged a
 | Sat, 1 Aug 2026 | Der Weiße Hase | Berlin |
 | Sat, 8 Aug 2026 | RADION | Amsterdam |
 | Sun, 9 Aug 2026 | Knockdown Center | New York City |
+| Sat, 15 Aug 2026 | Ministerium Club | Lisbon |
 | Sat, 22 Aug 2026 | TBA - Los Angeles (Warehouse) | Los Angeles |
 | Sat, 19 Sept 2026 | AUX Club | Athens |
 
@@ -31,4 +32,4 @@ Boris is a techno and house artist tracked on soundcheck, with 211 sets logged a
 
 BASHKKA, Massimiliano Pagliara, Roi Perez
 
-*Updated Sun, 19 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/borisdj/)*
+*Updated Mon, 20 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/borisdj/)*

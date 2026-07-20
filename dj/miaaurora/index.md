@@ -1,6 +1,6 @@
 # Mia Aurora
 
-Mia Aurora is a Progressive House and House artist with 2 upcoming club dates listed on soundcheck as of Sun, 19 Jul 2026, next at Boston Manor Park, London on Sun, 26 Jul 2026.
+Mia Aurora is a Progressive House and House artist with 2 upcoming club dates listed on soundcheck as of Mon, 20 Jul 2026, next at Boston Manor Park, London on Sun, 26 Jul 2026.
 
 Mia Aurora is a progressive house and house artist based in United Kingdom, tracked on soundcheck, with 31 sets logged across Berlin, Brighton, Bristol and Budapest and 7 more. Often billed alongside Jody Wisternoff, Because of Art and Romain Garcia. Next up: Boston Manor Park, London on Sun 26 Jul.
 
@@ -26,4 +26,4 @@ Mia Aurora is a progressive house and house artist based in United Kingdom, trac
 
 Jody Wisternoff, Because of Art, Romain Garcia
 
-*Updated Sun, 19 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/miaaurora/)*
+*Updated Mon, 20 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/miaaurora/)*

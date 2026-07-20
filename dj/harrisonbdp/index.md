@@ -1,6 +1,6 @@
 # Harrison BDP
 
-Harrison BDP is a House and Tech House artist with 3 upcoming club dates listed on soundcheck as of Sun, 19 Jul 2026, next at 3oz Dive Club, San Diego on Sat, 1 Aug 2026.
+Harrison BDP is a House and Tech House artist with 3 upcoming club dates listed on soundcheck as of Mon, 20 Jul 2026, next at 3oz Dive Club, San Diego on Sat, 1 Aug 2026.
 
 Harrison BDP is a house and tech house artist tracked on soundcheck, with 135 sets logged across Amsterdam, Auckland, Bali and Barcelona and 37 more. Often billed alongside Black Loops, Kolter and Alien Communications. Next up: 3oz Dive Club, Sandiego on Sat 1 Aug.
 
@@ -27,4 +27,4 @@ Harrison BDP is a house and tech house artist tracked on soundcheck, with 135 se
 
 Black Loops, Kolter, Alien Communications
 
-*Updated Sun, 19 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/harrisonbdp/)*
+*Updated Mon, 20 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/harrisonbdp/)*

@@ -1,6 +1,6 @@
 # Serenda
 
-Serenda is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Sun, 19 Jul 2026, next at DC-10, Ibiza on Mon, 20 Jul 2026.
+Serenda is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Mon, 20 Jul 2026, next at DC-10, Ibiza on Mon, 20 Jul 2026.
 
 Serenda is a house and techno artist based in United Kingdom, tracked on soundcheck, with 47 sets logged across Barcelona, Berlin, Bristol and Ibiza and 5 more. Often billed alongside &ME, Bradley Zero and Rampa. Next up: DC-10, Ibiza on Mon 20 Jul.
 
@@ -26,4 +26,4 @@ Serenda is a house and techno artist based in United Kingdom, tracked on soundch
 
 &ME, Bradley Zero, Rampa
 
-*Updated Sun, 19 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/serenda/)*
+*Updated Mon, 20 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/serenda/)*

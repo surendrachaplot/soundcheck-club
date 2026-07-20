@@ -1,6 +1,6 @@
 # Nikki Lopez
 
-Nikki Lopez is a music venue in Philadelphia with 1 upcoming night listed on soundcheck as of Sun, 19 Jul 2026; the next is "Club Action - Club vs Techno" on Sat, 25 Jul 2026.
+Nikki Lopez is a music venue in Philadelphia with 1 upcoming night listed on soundcheck as of Mon, 20 Jul 2026; the next is "Club Action - Club vs Techno" on Sat, 25 Jul 2026.
 
 Nikki Lopez is a music venue in Philadelphia listed on soundcheck. 1 upcoming night, with line-ups including DJ Reezey, Gravers Lane and Traps N Trees. Browse upcoming dates, start times and who's playing. 304 South St, Philadelphia, PA 19147.
 
@@ -14,4 +14,4 @@ Nikki Lopez is a music venue in Philadelphia listed on soundcheck. 1 upcoming ni
 
 304 South St, Philadelphia, PA 19147, Philadelphia
 
-*Updated Sun, 19 Jul 2026 · source: [soundcheck](https://soundcheck.club/philadelphia/club/nikki-lopez/)*
+*Updated Mon, 20 Jul 2026 · source: [soundcheck](https://soundcheck.club/philadelphia/club/nikki-lopez/)*

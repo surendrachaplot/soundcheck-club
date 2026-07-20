@@ -1,6 +1,6 @@
 # Mexican Jihad
 
-Mexican Jihad is a Techno and Latin Bass artist with 2 upcoming club dates listed on soundcheck as of Sun, 19 Jul 2026, next at TBA, Mexico City on Sat, 25 Jul 2026.
+Mexican Jihad is a Techno and Latin Bass artist with 2 upcoming club dates listed on soundcheck as of Mon, 20 Jul 2026, next at TBA, Mexico City on Sat, 25 Jul 2026.
 
 Mexican Jihad is a techno and latin bass artist based in Mexico, tracked on soundcheck, with 23 sets logged across Mexicocity, Newyorkcity, Prague and Sanfrancisco. Often billed alongside Dj Fucci, Lao (MX) and Shy Margiela. Next up: TBA, Mexicocity on Sat 25 Jul.
 
@@ -26,4 +26,4 @@ Mexican Jihad is a techno and latin bass artist based in Mexico, tracked on soun
 
 Dj Fucci, Lao (MX), Shy Margiela
 
-*Updated Sun, 19 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/mexicanjihad/)*
+*Updated Mon, 20 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/mexicanjihad/)*

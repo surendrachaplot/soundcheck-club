@@ -1,6 +1,6 @@
 # Le Kilowatt
 
-Le Kilowatt is a music venue in Paris with 3 upcoming nights listed on soundcheck as of Sun, 19 Jul 2026; the next is "Undercore x LNR: OPEN AIR XXL" on Sat, 25 Jul 2026.
+Le Kilowatt is a music venue in Paris with 3 upcoming nights listed on soundcheck as of Mon, 20 Jul 2026; the next is "Undercore x LNR: OPEN AIR XXL" on Sat, 25 Jul 2026.
 
 Le Kilowatt is a music venue in Paris listed on soundcheck. 3 upcoming nights, with line-ups including Andromedik, DNNS, ENFAN and Evil Grimace and 2 more. Browse upcoming dates, start times and who's playing. 18 rue des Fusillés 94400 Vitry-sur-Seine.
 
@@ -16,4 +16,4 @@ Le Kilowatt is a music venue in Paris listed on soundcheck. 3 upcoming nights, w
 
 18 rue des Fusillés 94400 Vitry-sur-Seine, Paris
 
-*Updated Sun, 19 Jul 2026 · source: [soundcheck](https://soundcheck.club/paris/club/le-kilowatt/)*
+*Updated Mon, 20 Jul 2026 · source: [soundcheck](https://soundcheck.club/paris/club/le-kilowatt/)*

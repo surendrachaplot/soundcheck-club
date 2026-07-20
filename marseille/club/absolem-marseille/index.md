@@ -1,6 +1,6 @@
 # Absolem Marseille
 
-Absolem Marseille is a music venue in Marseille with 1 upcoming night listed on soundcheck as of Sun, 19 Jul 2026; the next is "CELLULE POCKET Marseille – Chtak & FRANKIEE " on Sat, 15 Aug 2026.
+Absolem Marseille is a music venue in Marseille with 1 upcoming night listed on soundcheck as of Mon, 20 Jul 2026; the next is "CELLULE POCKET Marseille – Chtak & FRANKIEE " on Sat, 15 Aug 2026.
 
 Absolem Marseille is a music venue in Marseille listed on soundcheck. 1 upcoming night, with line-ups including Chtak. and FRANKIEE. Browse upcoming dates, start times and who's playing. 40 Boulevard Jacques Saadé, 13002 Marseille, France.
 
@@ -14,4 +14,4 @@ Absolem Marseille is a music venue in Marseille listed on soundcheck. 1 upcoming
 
 40 Boulevard Jacques Saadé, 13002 Marseille, France, Marseille
 
-*Updated Sun, 19 Jul 2026 · source: [soundcheck](https://soundcheck.club/marseille/club/absolem-marseille/)*
+*Updated Mon, 20 Jul 2026 · source: [soundcheck](https://soundcheck.club/marseille/club/absolem-marseille/)*

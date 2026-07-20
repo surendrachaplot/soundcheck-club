@@ -1,6 +1,6 @@
 # Reflex Blue
 
-Reflex Blue is a House and Progressive House artist with 2 upcoming club dates listed on soundcheck as of Sun, 19 Jul 2026, next at Kater, Berlin on Sat, 5 Sept 2026.
+Reflex Blue is a House and Progressive House artist with 2 upcoming club dates listed on soundcheck as of Mon, 20 Jul 2026, next at Kater, Berlin on Sat, 5 Sept 2026.
 
 Reflex Blue is a house and progressive house artist tracked on soundcheck, with 102 sets logged across Amsterdam, Auckland, Bangkok and Barcelona and 33 more. Often billed alongside Voigtmann, Cap and Doudou MD. Next up: Kater, Berlin on Sat 5 Sept.
 
@@ -26,4 +26,4 @@ Reflex Blue is a house and progressive house artist tracked on soundcheck, with 
 
 Voigtmann, Cap, Doudou MD
 
-*Updated Sun, 19 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/reflexblue/)*
+*Updated Mon, 20 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/reflexblue/)*

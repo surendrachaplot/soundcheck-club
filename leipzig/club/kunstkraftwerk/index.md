@@ -1,6 +1,6 @@
 # Kunstkraftwerk
 
-Kunstkraftwerk is a music venue in Leipzig with 1 upcoming night listed on soundcheck as of Sun, 19 Jul 2026; the next is "GROOVERS X IT´S ALL ABOUT HOUSE - FREE OPEN AIR - Kunstkraftwerk LEIPZIG" on Sat, 12 Sept 2026.
+Kunstkraftwerk is a music venue in Leipzig with 1 upcoming night listed on soundcheck as of Mon, 20 Jul 2026; the next is "GROOVERS X IT´S ALL ABOUT HOUSE - FREE OPEN AIR - Kunstkraftwerk LEIPZIG" on Sat, 12 Sept 2026.
 
 Kunstkraftwerk is a music venue in Leipzig listed on soundcheck. 1 upcoming night, with line-ups including Filburt, Padsingers, Sam Gittis and Saunaclub. Browse upcoming dates, start times and who's playing. Saalfelder Straße 8b, 04179 Leipzig.
 
@@ -14,4 +14,4 @@ Kunstkraftwerk is a music venue in Leipzig listed on soundcheck. 1 upcoming nigh
 
 Saalfelder Straße 8b, 04179 Leipzig, Leipzig
 
-*Updated Sun, 19 Jul 2026 · source: [soundcheck](https://soundcheck.club/leipzig/club/kunstkraftwerk/)*
+*Updated Mon, 20 Jul 2026 · source: [soundcheck](https://soundcheck.club/leipzig/club/kunstkraftwerk/)*

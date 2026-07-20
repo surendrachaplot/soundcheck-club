@@ -1,6 +1,6 @@
 # Unglued
 
-Unglued is a Drum & Bass and Jungle artist with 2 upcoming club dates listed on soundcheck as of Sun, 19 Jul 2026, next at Chinastraat, Ghent on Sat, 8 Aug 2026.
+Unglued is a Drum & Bass and Jungle artist with 2 upcoming club dates listed on soundcheck as of Mon, 20 Jul 2026, next at Chinastraat, Ghent on Sat, 8 Aug 2026.
 
 Unglued is a drum & bass and jungle artist based in United Kingdom, tracked on soundcheck, with 49 sets logged across Amsterdam, Auckland, Berlin and Boston and 20 more. Often billed alongside Degs, Whiney and Metrik. Next up: Chinastraat, Ghent on Sat 8 Aug.
 
@@ -26,4 +26,4 @@ Unglued is a drum & bass and jungle artist based in United Kingdom, tracked on s
 
 Degs, Whiney, Metrik
 
-*Updated Sun, 19 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/unglued/)*
+*Updated Mon, 20 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/unglued/)*

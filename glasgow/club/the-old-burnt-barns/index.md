@@ -1,6 +1,6 @@
 # The Old Burnt Barns
 
-The Old Burnt Barns is a music venue in Glasgow with 1 upcoming night listed on soundcheck as of Sun, 19 Jul 2026; the next is "2 GOOD FOR YOU" on Sat, 12 Sept 2026.
+The Old Burnt Barns is a music venue in Glasgow with 1 upcoming night listed on soundcheck as of Mon, 20 Jul 2026; the next is "2 GOOD FOR YOU" on Sat, 12 Sept 2026.
 
 The Old Burnt Barns is a music venue in Glasgow listed on soundcheck. 1 upcoming night. Browse upcoming dates, start times and who's playing. 179 London Rd, Glasgow G40 1PA.
 
@@ -14,4 +14,4 @@ The Old Burnt Barns is a music venue in Glasgow listed on soundcheck. 1 upcoming
 
 179 London Rd, Glasgow G40 1PA, Glasgow
 
-*Updated Sun, 19 Jul 2026 · source: [soundcheck](https://soundcheck.club/glasgow/club/the-old-burnt-barns/)*
+*Updated Mon, 20 Jul 2026 · source: [soundcheck](https://soundcheck.club/glasgow/club/the-old-burnt-barns/)*

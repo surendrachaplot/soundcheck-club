@@ -1,6 +1,6 @@
 # Südbrücke
 
-Südbrücke is a music venue in Cologne with 4 upcoming nights listed on soundcheck as of Sun, 19 Jul 2026; the next is "Zwischenmiete Open Air w/Township Rebellion, EIK & youlaike" on Sun, 26 Jul 2026.
+Südbrücke is a music venue in Cologne with 4 upcoming nights listed on soundcheck as of Mon, 20 Jul 2026; the next is "Zwischenmiete Open Air w/Township Rebellion, EIK & youlaike" on Sun, 26 Jul 2026.
 
 Südbrücke is a music venue in Cologne listed on soundcheck. 4 upcoming nights, with line-ups including Annemalie, Cera Khin, Christian Löffler and EMILIJA and 2 more. Browse upcoming dates, start times and who's playing. Alfred-Schütte-Allee 34, 51105 Köln.
 
@@ -17,4 +17,4 @@ Südbrücke is a music venue in Cologne listed on soundcheck. 4 upcoming nights,
 
 Alfred-Schütte-Allee 34, 51105 Köln, Cologne
 
-*Updated Sun, 19 Jul 2026 · source: [soundcheck](https://soundcheck.club/cologne/club/s-dbr-cke/)*
+*Updated Mon, 20 Jul 2026 · source: [soundcheck](https://soundcheck.club/cologne/club/s-dbr-cke/)*

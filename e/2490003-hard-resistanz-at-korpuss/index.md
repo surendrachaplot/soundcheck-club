@@ -1,6 +1,6 @@
 # HARD RESISTANZ at Korpuss
 
-HARD RESISTANZ at Korpuss on Fri 24 Jul, Riga. 1 act on the bill: XSYNC19. Techno and Hardcore. Preview the line-up and save it on soundcheck.
+HARD RESISTANZ at Korpuss on Fri 24 Jul, Riga. 2 acts on the bill: DEX.NØ and XSYNC19. Techno and Hardcore. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,6 +10,7 @@ HARD RESISTANZ at Korpuss on Fri 24 Jul, Riga. 1 act on the bill: XSYNC19. Techn
 
 ## Line-up
 
+- DEX.NØ
 - XSYNC19
 
 *Source: [soundcheck](https://soundcheck.club/e/2490003-hard-resistanz-at-korpuss/)*

@@ -1,6 +1,6 @@
 # Maï-Linh
 
-Maï-Linh is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Sun, 19 Jul 2026, next at La Prairie du Canal, Paris on Sat, 1 Aug 2026.
+Maï-Linh is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Mon, 20 Jul 2026, next at La Prairie du Canal, Paris on Sat, 1 Aug 2026.
 
 Maï-Linh is a house and techno artist tracked on soundcheck, with 83 sets logged across Amsterdam, Berlin, Budapest and Cologne and 15 more. Often billed alongside Soyoon, GTI and Youl. Next up: La Prairie du Canal, Paris on Sat 1 Aug.
 
@@ -26,4 +26,4 @@ Maï-Linh is a house and techno artist tracked on soundcheck, with 83 sets logge
 
 Soyoon, GTI, Youl
 
-*Updated Sun, 19 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/mai-linh/)*
+*Updated Mon, 20 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/mai-linh/)*

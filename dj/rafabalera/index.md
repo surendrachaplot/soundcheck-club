@@ -1,6 +1,6 @@
 # Rafa Balera
 
-Rafa Balera is a House and Disco artist with 2 upcoming club dates listed on soundcheck as of Sun, 19 Jul 2026, next at Crack Bellmer, Berlin on Sun, 26 Jul 2026.
+Rafa Balera is a House and Disco artist with 2 upcoming club dates listed on soundcheck as of Mon, 20 Jul 2026, next at Crack Bellmer, Berlin on Sun, 26 Jul 2026.
 
 Rafa Balera is a house and disco artist tracked on soundcheck, with 31 sets logged across Berlin, Lisbon and Saopaulo. Often billed alongside Mirands, Paulete Lindacelva and Aerobica. Next up: Crack Bellmer, Berlin on Sun 26 Jul.
 
@@ -26,4 +26,4 @@ Rafa Balera is a house and disco artist tracked on soundcheck, with 31 sets logg
 
 Mirands, Paulete Lindacelva, Aerobica
 
-*Updated Sun, 19 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/rafabalera/)*
+*Updated Mon, 20 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/rafabalera/)*

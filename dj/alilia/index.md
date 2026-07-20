@@ -1,6 +1,6 @@
 # Alilia
 
-Alilia is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Sun, 19 Jul 2026, next at TBA - INNER WEST, Sydney on Sat, 8 Aug 2026.
+Alilia is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Mon, 20 Jul 2026, next at TBA - INNER WEST, Sydney on Sat, 8 Aug 2026.
 
 Alilia is a techno and house artist based in Australia, tracked on soundcheck, with 26 sets logged across Melbourne and Sydney. Often billed alongside anusha, Caucasian Opportunities and Ciara. Next up: TBA - INNER WEST, Sydney on Sat 8 Aug.
 
@@ -26,4 +26,4 @@ Alilia is a techno and house artist based in Australia, tracked on soundcheck, w
 
 anusha, Caucasian Opportunities, Ciara
 
-*Updated Sun, 19 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/alilia/)*
+*Updated Mon, 20 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/alilia/)*

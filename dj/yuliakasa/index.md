@@ -1,6 +1,6 @@
 # Yulia Kasa
 
-Yulia Kasa is a Techno and Trance artist with 2 upcoming club dates listed on soundcheck as of Sun, 19 Jul 2026, next at ://about blank, Berlin on Thu, 23 Jul 2026.
+Yulia Kasa is a Techno and Trance artist with 2 upcoming club dates listed on soundcheck as of Mon, 20 Jul 2026, next at ://about blank, Berlin on Thu, 23 Jul 2026.
 
 Yulia Kasa is a techno and trance artist based in Australia, tracked on soundcheck, with 25 sets logged across Berlin and Melbourne. Often billed alongside ALIEN-A, CAITY WATSON and WISER. Next up: ://about blank, Berlin on Thu 23 Jul.
 
@@ -26,4 +26,4 @@ Yulia Kasa is a techno and trance artist based in Australia, tracked on soundche
 
 ALIEN-A, CAITY WATSON, WISER
 
-*Updated Sun, 19 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/yuliakasa/)*
+*Updated Mon, 20 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/yuliakasa/)*

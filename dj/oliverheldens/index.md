@@ -1,6 +1,6 @@
 # Oliver Heldens
 
-Oliver Heldens is a House and Electronica artist with 4 upcoming club dates listed on soundcheck as of Sun, 19 Jul 2026, next at KOKO, London on Fri, 24 Jul 2026.
+Oliver Heldens is a House and Electronica artist with 4 upcoming club dates listed on soundcheck as of Mon, 20 Jul 2026, next at KOKO, London on Fri, 24 Jul 2026.
 
 Oliver Heldens is a house and electronica artist tracked on soundcheck, with 50 sets logged across Amsterdam, Austin, Boston and Buenosaires and 20 more. Often billed alongside Kaskade, Tiesto and Adam Beyer. Next up: KOKO, London on Fri 24 Jul.
 
@@ -28,4 +28,4 @@ Oliver Heldens is a house and electronica artist tracked on soundcheck, with 50 
 
 Kaskade, Tiesto, Adam Beyer
 
-*Updated Sun, 19 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/oliverheldens/)*
+*Updated Mon, 20 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/oliverheldens/)*

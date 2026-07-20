@@ -1,6 +1,6 @@
 # Cowper
 
-Cowper is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Sun, 19 Jul 2026, next at The Love Inn, Bristol on Fri, 24 Jul 2026.
+Cowper is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Mon, 20 Jul 2026, next at The Love Inn, Bristol on Fri, 24 Jul 2026.
 
 Cowper is a house and techno artist based in United Kingdom, tracked on soundcheck, with 26 sets logged across Amsterdam, Berlin, Bristol and London and 3 more. Often billed alongside Lupini, Il Bosco and Kickin Pigeon. Next up: The Love Inn, Bristol on Fri 24 Jul.
 
@@ -26,4 +26,4 @@ Cowper is a house and techno artist based in United Kingdom, tracked on soundche
 
 Lupini, Il Bosco, Kickin Pigeon
 
-*Updated Sun, 19 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/cowper/)*
+*Updated Mon, 20 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/cowper/)*

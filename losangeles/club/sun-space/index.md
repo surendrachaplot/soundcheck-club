@@ -1,6 +1,6 @@
 # Sun Space
 
-Sun Space is a music venue in Los Angeles with 1 upcoming night listed on soundcheck as of Sun, 19 Jul 2026; the next is "11ai leap year register compact disc release dance party" on Sat, 15 Aug 2026.
+Sun Space is a music venue in Los Angeles with 1 upcoming night listed on soundcheck as of Mon, 20 Jul 2026; the next is "11ai leap year register compact disc release dance party" on Sat, 15 Aug 2026.
 
 Sun Space is a music venue in Losangeles listed on soundcheck. 1 upcoming night, with line-ups including 11ai, Ava Blank and SFV Acid. Browse upcoming dates, start times and who's playing. 9683 Sunland blvd, Shadow Hills, 91040.
 
@@ -14,4 +14,4 @@ Sun Space is a music venue in Losangeles listed on soundcheck. 1 upcoming night,
 
 9683 Sunland blvd, Shadow Hills, 91040, Los Angeles
 
-*Updated Sun, 19 Jul 2026 · source: [soundcheck](https://soundcheck.club/losangeles/club/sun-space/)*
+*Updated Mon, 20 Jul 2026 · source: [soundcheck](https://soundcheck.club/losangeles/club/sun-space/)*

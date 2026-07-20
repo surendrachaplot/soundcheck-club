@@ -1,6 +1,6 @@
 # 2Shy MC
 
-2Shy MC is a Drum & Bass and Jungle artist with 2 upcoming club dates listed on soundcheck as of Sun, 19 Jul 2026, next at Hootananny, London on Fri, 24 Jul 2026.
+2Shy MC is a Drum & Bass and Jungle artist with 2 upcoming club dates listed on soundcheck as of Mon, 20 Jul 2026, next at Hootananny, London on Fri, 24 Jul 2026.
 
 2Shy MC is a drum & bass and jungle artist tracked on soundcheck, with 23 sets logged across Antwerp, Birmingham, Brighton and Bristol and 2 more. Often billed alongside Jumping Jack Frost, IC3 and Kanine. Next up: Hootananny, London on Fri 24 Jul.
 
@@ -26,4 +26,4 @@
 
 Jumping Jack Frost, IC3, Kanine
 
-*Updated Sun, 19 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/2shymc/)*
+*Updated Mon, 20 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/2shymc/)*

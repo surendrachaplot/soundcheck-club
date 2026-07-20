@@ -1,6 +1,6 @@
 # Poolen
 
-Poolen is a music venue in Copenhagen with 1 upcoming night listed on soundcheck as of Sun, 19 Jul 2026; the next is "Postyr presents FENIMORE (Poolen Outside)" on Sat, 8 Aug 2026.
+Poolen is a music venue in Copenhagen with 1 upcoming night listed on soundcheck as of Mon, 20 Jul 2026; the next is "Postyr presents FENIMORE (Poolen Outside)" on Sat, 8 Aug 2026.
 
 Poolen is a music venue in Copenhagen listed on soundcheck. 1 upcoming night, with line-ups including Elliott Taguchi, FENIM0RE, Johannes Astrup and Milo Makua and 2 more. Browse upcoming dates, start times and who's playing. Refshalevej 189, 1432 Copenhagen, Denmark.
 
@@ -14,4 +14,4 @@ Poolen is a music venue in Copenhagen listed on soundcheck. 1 upcoming night, wi
 
 Refshalevej 189, 1432 Copenhagen, Denmark, Copenhagen
 
-*Updated Sun, 19 Jul 2026 · source: [soundcheck](https://soundcheck.club/copenhagen/club/poolen/)*
+*Updated Mon, 20 Jul 2026 · source: [soundcheck](https://soundcheck.club/copenhagen/club/poolen/)*

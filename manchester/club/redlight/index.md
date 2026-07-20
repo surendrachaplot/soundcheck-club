@@ -1,6 +1,6 @@
 # Redlight
 
-Redlight is a music venue in Manchester with 2 upcoming nights listed on soundcheck as of Sun, 19 Jul 2026; the next is "House Rules x Redlight" on Thu, 30 Jul 2026.
+Redlight is a music venue in Manchester with 2 upcoming nights listed on soundcheck as of Mon, 20 Jul 2026; the next is "House Rules x Redlight" on Thu, 30 Jul 2026.
 
 Redlight is a music venue in Manchester listed on soundcheck. 2 upcoming nights, with line-ups including D-LIA, Hello From Ben and HSTN. Browse upcoming dates, start times and who's playing. 4-2 Little David St, Manchester M1 3GL.
 
@@ -15,4 +15,4 @@ Redlight is a music venue in Manchester listed on soundcheck. 2 upcoming nights,
 
 4-2 Little David St, Manchester M1 3GL, Manchester
 
-*Updated Sun, 19 Jul 2026 · source: [soundcheck](https://soundcheck.club/manchester/club/redlight/)*
+*Updated Mon, 20 Jul 2026 · source: [soundcheck](https://soundcheck.club/manchester/club/redlight/)*

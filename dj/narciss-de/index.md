@@ -1,6 +1,6 @@
 # Narciss
 
-Narciss is a Techno and House artist with 4 upcoming club dates listed on soundcheck as of Sun, 19 Jul 2026, next at ÆDEN x MARMORBAR: Fields & Spaces, Berlin on Sat, 25 Jul 2026.
+Narciss is a Techno and House artist with 4 upcoming club dates listed on soundcheck as of Mon, 20 Jul 2026, next at ÆDEN x MARMORBAR: Fields & Spaces, Berlin on Sat, 25 Jul 2026.
 
 Narciss is a techno and house artist tracked on soundcheck, with 187 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 51 more. Often billed alongside MALUGI, DJ Gigola and Morphena. Next up: ÆDEN x MARMORBAR: Fields & Spaces, Berlin on Sat 25 Jul.
 
@@ -28,4 +28,4 @@ Narciss is a techno and house artist tracked on soundcheck, with 187 sets logged
 
 MALUGI, DJ Gigola, Morphena
 
-*Updated Sun, 19 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/narciss-de/)*
+*Updated Mon, 20 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/narciss-de/)*

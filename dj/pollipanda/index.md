@@ -1,6 +1,6 @@
 # Polli Panda
 
-Polli Panda is a House and Electro artist with 2 upcoming club dates listed on soundcheck as of Sun, 19 Jul 2026, next at SISSI'S Amsterdam, Amsterdam on Fri, 31 Jul 2026.
+Polli Panda is a House and Electro artist with 2 upcoming club dates listed on soundcheck as of Mon, 20 Jul 2026, next at SISSI'S Amsterdam, Amsterdam on Fri, 31 Jul 2026.
 
 Polli Panda is a house and electro artist based in Czech Republic, tracked on soundcheck, with 25 sets logged across Amsterdam, Prague and Rotterdam. Often billed alongside DAMN DANIEL, Figlio Böler and Floris Fahrenheit. Next up: SISSI'S Amsterdam, Amsterdam on Fri 31 Jul.
 
@@ -26,4 +26,4 @@ Polli Panda is a house and electro artist based in Czech Republic, tracked on so
 
 DAMN DANIEL, Figlio Böler, Floris Fahrenheit
 
-*Updated Sun, 19 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/pollipanda/)*
+*Updated Mon, 20 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/pollipanda/)*

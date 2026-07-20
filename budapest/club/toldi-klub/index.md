@@ -1,6 +1,6 @@
 # Toldi Klub
 
-Toldi Klub is a music venue in Budapest with 2 upcoming nights listed on soundcheck as of Sun, 19 Jul 2026; the next is "Nesztech XXX Toldi" on Fri, 24 Jul 2026.
+Toldi Klub is a music venue in Budapest with 2 upcoming nights listed on soundcheck as of Mon, 20 Jul 2026; the next is "Nesztech XXX Toldi" on Fri, 24 Jul 2026.
 
 Toldi Klub is a music venue in Budapest listed on soundcheck. 2 upcoming nights, with line-ups including baeker, CRB and Maresz. Browse upcoming dates, start times and who's playing. Bajcsy-Zsilinszky út 36-38, 1054 Budapest.
 
@@ -15,4 +15,4 @@ Toldi Klub is a music venue in Budapest listed on soundcheck. 2 upcoming nights,
 
 Bajcsy-Zsilinszky út 36-38, 1054 Budapest, Budapest
 
-*Updated Sun, 19 Jul 2026 · source: [soundcheck](https://soundcheck.club/budapest/club/toldi-klub/)*
+*Updated Mon, 20 Jul 2026 · source: [soundcheck](https://soundcheck.club/budapest/club/toldi-klub/)*

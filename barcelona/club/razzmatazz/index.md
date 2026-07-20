@@ -1,6 +1,6 @@
 # Razzmatazz
 
-Razzmatazz is a music venue in Barcelona with 14 upcoming nights listed on soundcheck as of Sun, 19 Jul 2026; the next is "RAZZCLUBS:  Anita B Queen + Disobey Soundsystem Closing: El WiWi + Virtual Flavor + 666ata " on Fri, 24 Jul 2026.
+Razzmatazz is a music venue in Barcelona with 14 upcoming nights listed on soundcheck as of Mon, 20 Jul 2026; the next is "RAZZCLUBS:  Anita B Queen + Disobey Soundsystem Closing: El WiWi + Virtual Flavor + 666ata " on Fri, 24 Jul 2026.
 
 Razzmatazz is a music venue in Barcelona listed on soundcheck. 14 upcoming nights, with line-ups including Alírio, Amaliah, Anita B Queen and Bloody Mary and 2 more. Browse upcoming dates, start times and who's playing. C Almogavers 122 - C Pamplona 88; Barcelona; Spain.
 
@@ -23,4 +23,4 @@ Razzmatazz is a music venue in Barcelona listed on soundcheck. 14 upcoming night
 
 C Almogavers 122 - C Pamplona 88; Barcelona; Spain, Barcelona
 
-*Updated Sun, 19 Jul 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/razzmatazz/)*
+*Updated Mon, 20 Jul 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/razzmatazz/)*

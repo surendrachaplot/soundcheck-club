@@ -1,6 +1,6 @@
 # Mars O10C
 
-Mars O10C is a Trance and Progressive House artist with 3 upcoming club dates listed on soundcheck as of Sun, 19 Jul 2026, next at La Station - Gare des Mines, Paris on Sat, 25 Jul 2026.
+Mars O10C is a Trance and Progressive House artist with 3 upcoming club dates listed on soundcheck as of Mon, 20 Jul 2026, next at La Station - Gare des Mines, Paris on Sat, 25 Jul 2026.
 
 Mars O10C is a trance and progressive house artist tracked on soundcheck, with 50 sets logged across Berlin, Brussels, Leipzig and London and 4 more. Often billed alongside Julie Desire, Jolly (FR) and A-440. Next up: La Station - Gare des Mines, Paris on Sat 25 Jul.
 
@@ -27,4 +27,4 @@ Mars O10C is a trance and progressive house artist tracked on soundcheck, with 5
 
 Julie Desire, Jolly (FR), A-440
 
-*Updated Sun, 19 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/marso10c/)*
+*Updated Mon, 20 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/marso10c/)*

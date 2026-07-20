@@ -1,6 +1,6 @@
 # Matias Aguayo
 
-Matias Aguayo is a House and Electronica artist with 2 upcoming club dates listed on soundcheck as of Sun, 19 Jul 2026, next at Silencio, Paris on Sat, 25 Jul 2026.
+Matias Aguayo is a House and Electronica artist with 2 upcoming club dates listed on soundcheck as of Mon, 20 Jul 2026, next at Silencio, Paris on Sat, 25 Jul 2026.
 
 Matias Aguayo is a house and electronica artist tracked on soundcheck, with 76 sets logged across Austin, Barcelona, Basel and Belgrade and 25 more. Often billed alongside PAURRO, Justin Strauss and Magda. Next up: Silencio, Paris on Sat 25 Jul.
 
@@ -26,4 +26,4 @@ Matias Aguayo is a house and electronica artist tracked on soundcheck, with 76 s
 
 PAURRO, Justin Strauss, Magda
 
-*Updated Sun, 19 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/matiasaguayo/)*
+*Updated Mon, 20 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/matiasaguayo/)*

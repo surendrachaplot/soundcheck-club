@@ -1,6 +1,6 @@
 # The Barbary
 
-The Barbary is a music venue in Philadelphia with 3 upcoming nights listed on soundcheck as of Sun, 19 Jul 2026; the next is "Eli & Fur x SOLAR SOUNDS" on Sat, 25 Jul 2026.
+The Barbary is a music venue in Philadelphia with 3 upcoming nights listed on soundcheck as of Mon, 20 Jul 2026; the next is "Eli & Fur x SOLAR SOUNDS" on Sat, 25 Jul 2026.
 
 The Barbary is a music venue in Philadelphia listed on soundcheck. 3 upcoming nights, with line-ups including Eli & Fur, Joshwa, JULS (US) and Mayank. Browse upcoming dates, start times and who's playing. 951 Frankford Avenue; Philadelphia, PA 19125; United States.
 
@@ -16,4 +16,4 @@ The Barbary is a music venue in Philadelphia listed on soundcheck. 3 upcoming ni
 
 951 Frankford Avenue; Philadelphia, PA 19125; United States, Philadelphia
 
-*Updated Sun, 19 Jul 2026 · source: [soundcheck](https://soundcheck.club/philadelphia/club/the-barbary/)*
+*Updated Mon, 20 Jul 2026 · source: [soundcheck](https://soundcheck.club/philadelphia/club/the-barbary/)*

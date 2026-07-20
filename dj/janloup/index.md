@@ -1,6 +1,6 @@
 # Jan Loup
 
-Jan Loup is a Bass and Techno artist with 4 upcoming club dates listed on soundcheck as of Sun, 19 Jul 2026, next at Else, Berlin on Fri, 24 Jul 2026.
+Jan Loup is a Bass and Techno artist with 4 upcoming club dates listed on soundcheck as of Mon, 20 Jul 2026, next at Else, Berlin on Fri, 24 Jul 2026.
 
 Jan Loup is a bass and techno artist based in France, tracked on soundcheck, with 57 sets logged across Amsterdam, Berlin, Brussels and Budapest and 19 more. Often billed alongside Maquis Son Sistèm, A Strange Wedding and Woody92. Next up: Else, Berlin on Fri 24 Jul.
 
@@ -28,4 +28,4 @@ Jan Loup is a bass and techno artist based in France, tracked on soundcheck, wit
 
 Maquis Son Sistèm, A Strange Wedding, Woody92
 
-*Updated Sun, 19 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/janloup/)*
+*Updated Mon, 20 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/janloup/)*

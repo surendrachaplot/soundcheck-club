@@ -1,6 +1,6 @@
 # Diceman
 
-Diceman is a Dub and Bass artist with 2 upcoming club dates listed on soundcheck as of Sun, 19 Jul 2026, next at DJ Bar Bridge Shinjuku, Tokyo on Mon, 20 Jul 2026.
+Diceman is a Dub and Bass artist with 2 upcoming club dates listed on soundcheck as of Mon, 20 Jul 2026, next at DJ Bar Bridge Shinjuku, Tokyo on Mon, 20 Jul 2026.
 
 Diceman is a dub and bass artist based in Japan, tracked on soundcheck, with 24 sets logged across Tokyo. Often billed alongside Kodai, Ozwick and 7e. Next up: DJ Bar Bridge Shinjuku, Tokyo on Mon 20 Jul.
 
@@ -26,4 +26,4 @@ Diceman is a dub and bass artist based in Japan, tracked on soundcheck, with 24 
 
 Kodai, Ozwick, 7e
 
-*Updated Sun, 19 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/diceman/)*
+*Updated Mon, 20 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/diceman/)*

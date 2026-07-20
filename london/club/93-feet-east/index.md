@@ -1,6 +1,6 @@
 # 93 Feet East
 
-93 Feet East is a music venue in London with 8 upcoming nights listed on soundcheck as of Sun, 19 Jul 2026; the next is "SWARAJ RETURNS" on Fri, 24 Jul 2026.
+93 Feet East is a music venue in London with 8 upcoming nights listed on soundcheck as of Mon, 20 Jul 2026; the next is "SWARAJ RETURNS" on Fri, 24 Jul 2026.
 
 93 Feet East is a music venue in London listed on soundcheck. 8 upcoming nights, with line-ups including KT, ADR (UK), Braxton and Cam Stockman and 2 more. Browse upcoming dates, start times and who's playing. The Old Truman Brewery, 150 Brick Lane; Shoreditch; London E1 6RU; United Kingdom.
 
@@ -21,4 +21,4 @@
 
 The Old Truman Brewery, 150 Brick Lane; Shoreditch; London E1 6RU; United Kingdom, London
 
-*Updated Sun, 19 Jul 2026 · source: [soundcheck](https://soundcheck.club/london/club/93-feet-east/)*
+*Updated Mon, 20 Jul 2026 · source: [soundcheck](https://soundcheck.club/london/club/93-feet-east/)*

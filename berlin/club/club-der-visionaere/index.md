@@ -1,14 +1,13 @@
 # Club der Visionaere
 
-Club der Visionaere is a music venue in Berlin with 16 upcoming nights listed on soundcheck as of Sun, 19 Jul 2026; the next is "Noisy Glance Sunday / Visionquest Afterparty" on Sun, 19 Jul 2026.
+Club der Visionaere is a music venue in Berlin with 15 upcoming nights listed on soundcheck as of Mon, 20 Jul 2026; the next is "Traveling Without Moving" on Mon, 20 Jul 2026.
 
-Club der Visionaere is a music venue in Berlin listed on soundcheck. 16 upcoming nights, with line-ups including Akaj, Alex Picone, Aline Umber and Alys and 2 more. Browse upcoming dates, start times and who's playing. Am Flutgraben 1, 12435 Berlin, Germany.
+Club der Visionaere is a music venue in Berlin listed on soundcheck. 15 upcoming nights, with line-ups including Akaj, Alex Picone, Alys and Ancut and 2 more. Browse upcoming dates, start times and who's playing. Am Flutgraben 1, 12435 Berlin, Germany.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Sun, 19 Jul 2026 | Noisy Glance Sunday / Visionquest Afterparty | Aline Umber, Daniele Papini, Topper, Triptease |
 | Mon, 20 Jul 2026 | Traveling Without Moving | Kenji Tazaki, Lilin, Spacetravel, Yoshitaca |
 | Tue, 21 Jul 2026 | Axis of People | Andy Hart, Courtney Bailey, Fantastic Man, Huerta |
 | Wed, 22 Jul 2026 | Meltdown | Annina, DJ W!ld, David Delgado, Q'uwa |
@@ -18,9 +17,10 @@ Club der Visionaere is a music venue in Berlin listed on soundcheck. 16 upcoming
 | Tue, 28 Jul 2026 | Chez Doc | Akaj, Dana Kuehr, Keras, VIKk |
 | Thu, 30 Jul 2026 | Electric Marmalade Shake | Andrea Fiorito, Daraio, Hreno, J Gabriel, Mike Shannon, Ohm Hourani |
 | Fri, 31 Jul 2026 | Wordless | Lobanov K., Masayuki Tomita, Serenne, Timur Basha, Yone-Ko |
+| Wed, 5 Aug 2026 | Novaturient | Alex Picone, Ancut, Andrew James Gustav, Ranerro |
 
 ## Address
 
 Am Flutgraben 1, 12435 Berlin, Germany, Berlin
 
-*Updated Sun, 19 Jul 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/club-der-visionaere/)*
+*Updated Mon, 20 Jul 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/club-der-visionaere/)*

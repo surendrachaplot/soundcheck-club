@@ -1,6 +1,6 @@
 # The Limelight
 
-The Limelight is a music venue in Belfast with 4 upcoming nights listed on soundcheck as of Sun, 19 Jul 2026; the next is "Lush! Classical Afterparty — Judge Jules & Seb Fontaine" on Sat, 8 Aug 2026.
+The Limelight is a music venue in Belfast with 4 upcoming nights listed on soundcheck as of Mon, 20 Jul 2026; the next is "Lush! Classical Afterparty — Judge Jules & Seb Fontaine" on Sat, 8 Aug 2026.
 
 The Limelight is a music venue in Belfast listed on soundcheck. 4 upcoming nights, with line-ups including CIAN__, Judge Jules, Locklead and Pegassi and 2 more. Browse upcoming dates, start times and who's playing. 17 Ormeau Avenue; Belfast BT2 8HD; United Kingdom.
 
@@ -17,4 +17,4 @@ The Limelight is a music venue in Belfast listed on soundcheck. 4 upcoming night
 
 17 Ormeau Avenue; Belfast BT2 8HD; United Kingdom, Belfast
 
-*Updated Sun, 19 Jul 2026 · source: [soundcheck](https://soundcheck.club/belfast/club/the-limelight/)*
+*Updated Mon, 20 Jul 2026 · source: [soundcheck](https://soundcheck.club/belfast/club/the-limelight/)*

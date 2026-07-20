@@ -1,6 +1,6 @@
 # RICHE
 
-RICHE is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Sun, 19 Jul 2026, next at TBA, Brussels on Fri, 11 Sept 2026.
+RICHE is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Mon, 20 Jul 2026, next at TBA, Brussels on Fri, 11 Sept 2026.
 
 RICHE is a house and techno artist based in United States of America, tracked on soundcheck, with 23 sets logged across Amsterdam, Berlin, Brussels and Copenhagen and 8 more. Often billed alongside ELIF, OMRI. and Samm (BE). Next up: TBA, Brussels on Fri 11 Sept.
 
@@ -26,4 +26,4 @@ RICHE is a house and techno artist based in United States of America, tracked on
 
 ELIF, OMRI., Samm (BE)
 
-*Updated Sun, 19 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/riche/)*
+*Updated Mon, 20 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/riche/)*

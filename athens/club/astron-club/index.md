@@ -1,14 +1,13 @@
 # Astron Club
 
-Astron Club is a music venue in Athens with 3 upcoming nights listed on soundcheck as of Sun, 19 Jul 2026; the next is "Astron x Sunday with ClubKid / Fro / Piece of Kate" on Sun, 19 Jul 2026.
+Astron Club is a music venue in Athens with 2 upcoming nights listed on soundcheck as of Mon, 20 Jul 2026; the next is "ACN with 3.14 // Katra" on Fri, 24 Jul 2026.
 
-Astron Club is a music venue in Athens listed on soundcheck. 3 upcoming nights, with line-ups including .Fro., 3.14, ClubKid and Katra and 2 more. Browse upcoming dates, start times and who's playing. 121 Konstantinoupoleos St., Athens 104 47, Greece.
+Astron Club is a music venue in Athens listed on soundcheck. 2 upcoming nights, with line-ups including 3.14, Katra, Mavridis and Re/Act. Browse upcoming dates, start times and who's playing. 121 Konstantinoupoleos St., Athens 104 47, Greece.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Sun, 19 Jul 2026 | Astron x Sunday with ClubKid / Fro / Piece of Kate | .Fro., ClubKid, Piece of Kate |
 | Fri, 24 Jul 2026 | ACN with 3.14 // Katra | 3.14, Katra |
 | Sat, 25 Jul 2026 | ACN with Mavridis // Re/Act | Mavridis, Re/Act |
 
@@ -16,4 +15,4 @@ Astron Club is a music venue in Athens listed on soundcheck. 3 upcoming nights, 
 
 121 Konstantinoupoleos St., Athens 104 47, Greece, Athens
 
-*Updated Sun, 19 Jul 2026 · source: [soundcheck](https://soundcheck.club/athens/club/astron-club/)*
+*Updated Mon, 20 Jul 2026 · source: [soundcheck](https://soundcheck.club/athens/club/astron-club/)*

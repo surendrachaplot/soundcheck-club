@@ -1,6 +1,6 @@
 # Sector 57
 
-Sector 57 is a music venue in Birmingham with 1 upcoming night listed on soundcheck as of Sun, 19 Jul 2026; the next is "The Foundation - Open Air Day Party - Birmingham" on Sat, 29 Aug 2026.
+Sector 57 is a music venue in Birmingham with 1 upcoming night listed on soundcheck as of Mon, 20 Jul 2026; the next is "The Foundation - Open Air Day Party - Birmingham" on Sat, 29 Aug 2026.
 
 Sector 57 is a music venue in Birmingham listed on soundcheck. 1 upcoming night, with line-ups including B3, Dominique Danielle, Lance Morgan and Mark Radford and 1 more. Browse upcoming dates, start times and who's playing. 21 Milk St, Deritend, Birmingham B5 5TR.
 
@@ -14,4 +14,4 @@ Sector 57 is a music venue in Birmingham listed on soundcheck. 1 upcoming night,
 
 21 Milk St, Deritend, Birmingham B5 5TR, Birmingham
 
-*Updated Sun, 19 Jul 2026 · source: [soundcheck](https://soundcheck.club/birmingham/club/sector-57/)*
+*Updated Mon, 20 Jul 2026 · source: [soundcheck](https://soundcheck.club/birmingham/club/sector-57/)*

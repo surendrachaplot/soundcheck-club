@@ -1,6 +1,6 @@
 # Amina
 
-Amina is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Sun, 19 Jul 2026, next at La Station - Gare des Mines, Paris on Fri, 24 Jul 2026.
+Amina is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Mon, 20 Jul 2026, next at La Station - Gare des Mines, Paris on Fri, 24 Jul 2026.
 
 Amina is a house and techno artist based in France, tracked on soundcheck, with 61 sets logged across Berlin, Munich, Nantes and Newyorkcity and 3 more. Often billed alongside Babybear, Sofia (2) and Lucifer. Next up: La Station - Gare des Mines, Paris on Fri 24 Jul.
 
@@ -26,4 +26,4 @@ Amina is a house and techno artist based in France, tracked on soundcheck, with 
 
 Babybear, Sofia (2), Lucifer
 
-*Updated Sun, 19 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/amina/)*
+*Updated Mon, 20 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/amina/)*

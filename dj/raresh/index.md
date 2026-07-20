@@ -1,6 +1,6 @@
 # Raresh
 
-Raresh is a House and Minimal artist with 11 upcoming club dates listed on soundcheck as of Sun, 19 Jul 2026, next at Playa Soleil Ibiza, Ibiza on Wed, 22 Jul 2026.
+Raresh is a House and Minimal artist with 11 upcoming club dates listed on soundcheck as of Mon, 20 Jul 2026, next at Playa Soleil Ibiza, Ibiza on Wed, 22 Jul 2026.
 
 Raresh is a house and minimal artist tracked on soundcheck, with 187 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 42 more. Often billed alongside Petre Inspirescu, Rhadoo and Ricardo Villalobos. Next up: Playa Soleil Ibiza, Ibiza on Wed 22 Jul.
 
@@ -35,4 +35,4 @@ Raresh is a house and minimal artist tracked on soundcheck, with 187 sets logged
 
 Petre Inspirescu, Rhadoo, Ricardo Villalobos
 
-*Updated Sun, 19 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/raresh/)*
+*Updated Mon, 20 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/raresh/)*

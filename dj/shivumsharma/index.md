@@ -1,6 +1,6 @@
 # Shivum Sharma
 
-Shivum Sharma is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Sun, 19 Jul 2026, next at Sui Generis, London on Fri, 31 Jul 2026.
+Shivum Sharma is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Mon, 20 Jul 2026, next at Sui Generis, London on Fri, 31 Jul 2026.
 
 Shivum Sharma is a house and techno artist based in United Kingdom, tracked on soundcheck, with 26 sets logged across London and Manchester. Often billed alongside Goh Well, Shannen SP and Tash LC. Next up: Sui Generis, London on Fri 31 Jul.
 
@@ -26,4 +26,4 @@ Shivum Sharma is a house and techno artist based in United Kingdom, tracked on s
 
 Goh Well, Shannen SP, Tash LC
 
-*Updated Sun, 19 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/shivumsharma/)*
+*Updated Mon, 20 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/shivumsharma/)*

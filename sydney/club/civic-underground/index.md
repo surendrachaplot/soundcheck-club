@@ -1,6 +1,6 @@
 # Civic Underground
 
-Civic Underground is a music venue in Sydney with 4 upcoming nights listed on soundcheck as of Sun, 19 Jul 2026; the next is "Shook Presents: Riot" on Sat, 25 Jul 2026.
+Civic Underground is a music venue in Sydney with 4 upcoming nights listed on soundcheck as of Mon, 20 Jul 2026; the next is "Shook Presents: Riot" on Sat, 25 Jul 2026.
 
 Civic Underground is a music venue in Sydney listed on soundcheck. 4 upcoming nights, with line-ups including Cece, Eddy Wells, Ekko and Flowidus and 2 more. Browse upcoming dates, start times and who's playing. 388 Pitt St; Sydney, NSW 2000; Australia.
 
@@ -17,4 +17,4 @@ Civic Underground is a music venue in Sydney listed on soundcheck. 4 upcoming ni
 
 388 Pitt St; Sydney, NSW 2000; Australia, Sydney
 
-*Updated Sun, 19 Jul 2026 · source: [soundcheck](https://soundcheck.club/sydney/club/civic-underground/)*
+*Updated Mon, 20 Jul 2026 · source: [soundcheck](https://soundcheck.club/sydney/club/civic-underground/)*

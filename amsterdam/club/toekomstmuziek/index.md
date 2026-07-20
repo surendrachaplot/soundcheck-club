@@ -1,6 +1,6 @@
 # Toekomstmuziek
 
-Toekomstmuziek is a music venue in Amsterdam with 3 upcoming nights listed on soundcheck as of Sun, 19 Jul 2026; the next is "Eye-Ris x Gloeilamp - The Yard" on Sat, 25 Jul 2026.
+Toekomstmuziek is a music venue in Amsterdam with 3 upcoming nights listed on soundcheck as of Mon, 20 Jul 2026; the next is "Eye-Ris x Gloeilamp - The Yard" on Sat, 25 Jul 2026.
 
 Toekomstmuziek is a music venue in Amsterdam listed on soundcheck. 3 upcoming nights, with line-ups including iMarly, N00M1, Pedro da Mata and URI (NL). Browse upcoming dates, start times and who's playing. Danzigerbocht 29, 1013 AM Amsterdam.
 
@@ -16,4 +16,4 @@ Toekomstmuziek is a music venue in Amsterdam listed on soundcheck. 3 upcoming ni
 
 Danzigerbocht 29, 1013 AM Amsterdam, Amsterdam
 
-*Updated Sun, 19 Jul 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/toekomstmuziek/)*
+*Updated Mon, 20 Jul 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/toekomstmuziek/)*

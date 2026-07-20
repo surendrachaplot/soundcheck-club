@@ -1,6 +1,6 @@
 # OOZE
 
-OOZE is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Sun, 19 Jul 2026, next at Tangent Gallery, Detroit on Fri, 21 Aug 2026.
+OOZE is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Mon, 20 Jul 2026, next at Tangent Gallery, Detroit on Fri, 21 Aug 2026.
 
 OOZE is a house and techno artist based in United States of America, tracked on soundcheck, with 31 sets logged across Berlin, Detroit, London and Lyon and 2 more. Often billed alongside ojoo, Cortex of Light and DJ Hyaluron. Next up: Tangent Gallery, Detroit on Fri 21 Aug.
 
@@ -26,4 +26,4 @@ OOZE is a house and techno artist based in United States of America, tracked on 
 
 ojoo, Cortex of Light, DJ Hyaluron
 
-*Updated Sun, 19 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/ooze/)*
+*Updated Mon, 20 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/ooze/)*

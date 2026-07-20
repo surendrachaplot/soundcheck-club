@@ -1,6 +1,6 @@
 # Jake Muir
 
-Jake Muir is a Ambient and Techno artist with 2 upcoming club dates listed on soundcheck as of Sun, 19 Jul 2026, next at TBA - Laytonville, CA, San Francisco/Oakland on Fri, 11 Sept 2026.
+Jake Muir is a Ambient and Techno artist with 2 upcoming club dates listed on soundcheck as of Mon, 20 Jul 2026, next at TBA - Laytonville, CA, San Francisco/Oakland on Fri, 11 Sept 2026.
 
 Jake Muir is an ambient and techno artist based in United States of America, tracked on soundcheck, with 34 sets logged across Austin, Berlin, Brussels and Chicago and 13 more. Often billed alongside Kiernan Laveaux, agraybé and 1morning. Next up: TBA - Laytonville, CA, Sanfrancisco on Fri 11 Sept.
 
@@ -26,4 +26,4 @@ Jake Muir is an ambient and techno artist based in United States of America, tra
 
 Kiernan Laveaux, agraybé, 1morning
 
-*Updated Sun, 19 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/jakemuir/)*
+*Updated Mon, 20 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/jakemuir/)*

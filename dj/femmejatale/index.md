@@ -1,6 +1,6 @@
 # Femme Jatale
 
-Femme Jatale is a Techno and Club artist with 2 upcoming club dates listed on soundcheck as of Sun, 19 Jul 2026, next at F8 1192 Folsom, San Francisco/Oakland on Thu, 6 Aug 2026.
+Femme Jatale is a Techno and Club artist with 2 upcoming club dates listed on soundcheck as of Mon, 20 Jul 2026, next at F8 1192 Folsom, San Francisco/Oakland on Thu, 6 Aug 2026.
 
 Femme Jatale is a techno and club artist based in United States of America, tracked on soundcheck, with 31 sets logged across Sanfrancisco. Often billed alongside Profesito, QUEENIE (US) and LILRAV4. Next up: F8 1192 Folsom, Sanfrancisco on Thu 6 Aug.
 
@@ -26,4 +26,4 @@ Femme Jatale is a techno and club artist based in United States of America, trac
 
 Profesito, QUEENIE (US), LILRAV4
 
-*Updated Sun, 19 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/femmejatale/)*
+*Updated Mon, 20 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/femmejatale/)*

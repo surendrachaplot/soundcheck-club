@@ -1,6 +1,6 @@
 # The Mash House
 
-The Mash House is a music venue in Edinburgh with 3 upcoming nights listed on soundcheck as of Sun, 19 Jul 2026; the next is "Alien Disko x CandyFlip: Sin & Brook (Extended Set)" on Fri, 31 Jul 2026.
+The Mash House is a music venue in Edinburgh with 3 upcoming nights listed on soundcheck as of Mon, 20 Jul 2026; the next is "Alien Disko x CandyFlip: Sin & Brook (Extended Set)" on Fri, 31 Jul 2026.
 
 The Mash House is a music venue in Edinburgh listed on soundcheck. 3 upcoming nights, with line-ups including Chris Astrojazz, FOLIE (UK), ITEM9 and Lara Sinclair and 2 more. Browse upcoming dates, start times and who's playing. 37 Guthrie Street, Edinburgh, EH1 1JQ, Scotland, United Kingdom.
 
@@ -16,4 +16,4 @@ The Mash House is a music venue in Edinburgh listed on soundcheck. 3 upcoming ni
 
 37 Guthrie Street, Edinburgh, EH1 1JQ, Scotland, United Kingdom, Edinburgh
 
-*Updated Sun, 19 Jul 2026 · source: [soundcheck](https://soundcheck.club/edinburgh/club/the-mash-house/)*
+*Updated Mon, 20 Jul 2026 · source: [soundcheck](https://soundcheck.club/edinburgh/club/the-mash-house/)*

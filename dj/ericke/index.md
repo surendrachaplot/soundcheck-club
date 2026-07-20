@@ -1,6 +1,6 @@
 # Erick E
 
-Erick E is a House and Techno artist with 4 upcoming club dates listed on soundcheck as of Sun, 19 Jul 2026, next at Thuishaven, Amsterdam on Sat, 1 Aug 2026.
+Erick E is a House and Techno artist with 4 upcoming club dates listed on soundcheck as of Mon, 20 Jul 2026, next at Thuishaven, Amsterdam on Sat, 1 Aug 2026.
 
 Erick E is a house and techno artist based in Netherlands, tracked on soundcheck, with 53 sets logged across Amsterdam, Rotterdam, Thehague and Utrecht. Often billed alongside ROOG, Alexander Koning and Lucien Foort. Next up: Thuishaven, Amsterdam on Sat 1 Aug.
 
@@ -28,4 +28,4 @@ Erick E is a house and techno artist based in Netherlands, tracked on soundcheck
 
 ROOG, Alexander Koning, Lucien Foort
 
-*Updated Sun, 19 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/ericke/)*
+*Updated Mon, 20 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/ericke/)*

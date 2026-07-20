@@ -1,6 +1,6 @@
 # Mizuki
 
-Mizuki is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Sun, 19 Jul 2026, next at VENT, Tokyo on Sat, 25 Jul 2026.
+Mizuki is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Mon, 20 Jul 2026, next at VENT, Tokyo on Sat, 25 Jul 2026.
 
 Mizuki is a house and techno artist based in United Kingdom, tracked on soundcheck, with 22 sets logged across Mexicocity, Newyorkcity and Tokyo. Often billed alongside DJ Sodeyama, Leo Gabriel and Andre McLeod. Next up: VENT, Tokyo on Sat 25 Jul.
 
@@ -26,4 +26,4 @@ Mizuki is a house and techno artist based in United Kingdom, tracked on soundche
 
 DJ Sodeyama, Leo Gabriel, Andre McLeod
 
-*Updated Sun, 19 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/mizuki/)*
+*Updated Mon, 20 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/mizuki/)*

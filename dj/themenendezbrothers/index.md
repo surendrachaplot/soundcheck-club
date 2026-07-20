@@ -1,6 +1,6 @@
 # The Menendez Brothers
 
-The Menendez Brothers is a House and Tech House artist with 5 upcoming club dates listed on soundcheck as of Sun, 19 Jul 2026, next at E1, London on Fri, 24 Jul 2026.
+The Menendez Brothers is a House and Tech House artist with 5 upcoming club dates listed on soundcheck as of Mon, 20 Jul 2026, next at E1, London on Fri, 24 Jul 2026.
 
 The Menendez Brothers is a house and tech house artist based in United Kingdom, tracked on soundcheck, with 67 sets logged across Berlin, Bristol, Ibiza and London. Often billed alongside Andrea Oliva, Raul Rodriguez and SYREETA. Next up: E1, London on Fri 24 Jul.
 
@@ -29,4 +29,4 @@ The Menendez Brothers is a house and tech house artist based in United Kingdom, 
 
 Andrea Oliva, Raul Rodriguez, SYREETA
 
-*Updated Sun, 19 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/themenendezbrothers/)*
+*Updated Mon, 20 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/themenendezbrothers/)*

@@ -1,6 +1,6 @@
 # Kichta
 
-Kichta is a Techno and Trance artist with 3 upcoming club dates listed on soundcheck as of Sun, 19 Jul 2026, next at Helios37, Cologne on Fri, 7 Aug 2026.
+Kichta is a Techno and Trance artist with 3 upcoming club dates listed on soundcheck as of Mon, 20 Jul 2026, next at Helios37, Cologne on Fri, 7 Aug 2026.
 
 Kichta is a techno and trance artist tracked on soundcheck, with 40 sets logged across Amsterdam, Berlin, Brussels and Cologne and 8 more. Often billed alongside Amøn, KLING&KLANG and Cobb Douglas. Next up: Helios37, Cologne on Fri 7 Aug.
 
@@ -27,4 +27,4 @@ Kichta is a techno and trance artist tracked on soundcheck, with 40 sets logged 
 
 Amøn, KLING&KLANG, Cobb Douglas
 
-*Updated Sun, 19 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/kichta/)*
+*Updated Mon, 20 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/kichta/)*

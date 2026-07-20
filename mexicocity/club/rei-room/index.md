@@ -1,6 +1,6 @@
 # Rei Room
 
-Rei Room is a music venue in Mexico City with 1 upcoming night listed on soundcheck as of Sun, 19 Jul 2026; the next is "CLUB TSR x Rei Room" on Fri, 24 Jul 2026.
+Rei Room is a music venue in Mexico City with 1 upcoming night listed on soundcheck as of Mon, 20 Jul 2026; the next is "CLUB TSR x Rei Room" on Fri, 24 Jul 2026.
 
 Rei Room is a music venue in Mexicocity listed on soundcheck. 1 upcoming night, with line-ups including GEO LINN. Browse upcoming dates, start times and who's playing. Monterrey 189, 2Â° Floor Roma Norte, CDMX 06700.
 
@@ -14,4 +14,4 @@ Rei Room is a music venue in Mexicocity listed on soundcheck. 1 upcoming night, 
 
 Monterrey 189, 2Â° Floor Roma Norte, CDMX 06700, Mexico City
 
-*Updated Sun, 19 Jul 2026 · source: [soundcheck](https://soundcheck.club/mexicocity/club/rei-room/)*
+*Updated Mon, 20 Jul 2026 · source: [soundcheck](https://soundcheck.club/mexicocity/club/rei-room/)*

@@ -1,6 +1,6 @@
 # Echofaze
 
-Echofaze is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Sun, 19 Jul 2026, next at The ORB, Malta on Sat, 25 Jul 2026.
+Echofaze is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Mon, 20 Jul 2026, next at The ORB, Malta on Sat, 25 Jul 2026.
 
 Echofaze is a techno and house artist based in Malta, tracked on soundcheck, with 22 sets logged across Berlin and Malta. Often billed alongside INVERTED (MT), YAZMIN (MT) and STK (MT). Next up: The ORB, Malta on Sat 25 Jul.
 
@@ -26,4 +26,4 @@ Echofaze is a techno and house artist based in Malta, tracked on soundcheck, wit
 
 INVERTED (MT), YAZMIN (MT), STK (MT)
 
-*Updated Sun, 19 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/echofaze/)*
+*Updated Mon, 20 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/echofaze/)*

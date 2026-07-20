@@ -1,6 +1,6 @@
 # People's Leisure Club
 
-People's Leisure Club is a music venue in Edinburgh with 12 upcoming nights listed on soundcheck as of Sun, 19 Jul 2026; the next is "Live the Dream" on Thu, 23 Jul 2026.
+People's Leisure Club is a music venue in Edinburgh with 12 upcoming nights listed on soundcheck as of Mon, 20 Jul 2026; the next is "Live the Dream" on Thu, 23 Jul 2026.
 
 People's Leisure Club is a music venue in Edinburgh listed on soundcheck. 12 upcoming nights, with line-ups including Ann Tweak, Big Dope P, DJ Shannon and DMG Music and 2 more. Browse upcoming dates, start times and who's playing. 45 Lothian Street, Edinburgh, EH1 1HB.
 
@@ -23,4 +23,4 @@ People's Leisure Club is a music venue in Edinburgh listed on soundcheck. 12 upc
 
 45 Lothian Street, Edinburgh, EH1 1HB, Edinburgh
 
-*Updated Sun, 19 Jul 2026 · source: [soundcheck](https://soundcheck.club/edinburgh/club/people-s-leisure-club/)*
+*Updated Mon, 20 Jul 2026 · source: [soundcheck](https://soundcheck.club/edinburgh/club/people-s-leisure-club/)*

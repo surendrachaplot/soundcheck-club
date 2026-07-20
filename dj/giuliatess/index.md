@@ -1,6 +1,6 @@
 # Giulia Tess
 
-Giulia Tess is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Sun, 19 Jul 2026, next at Dream Bags Jaguar Shoes, London on Fri, 31 Jul 2026.
+Giulia Tess is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Mon, 20 Jul 2026, next at Dream Bags Jaguar Shoes, London on Fri, 31 Jul 2026.
 
 Giulia Tess is a house and techno artist based in Italy, tracked on soundcheck, with 46 sets logged across Amsterdam, Bristol, Ibiza and Leeds and 6 more. Often billed alongside Lawrence Hart, 1-800 GIRLS and Cameo Blush. Next up: Dream Bags Jaguar Shoes, London on Fri 31 Jul.
 
@@ -26,4 +26,4 @@ Giulia Tess is a house and techno artist based in Italy, tracked on soundcheck, 
 
 Lawrence Hart, 1-800 GIRLS, Cameo Blush
 
-*Updated Sun, 19 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/giuliatess/)*
+*Updated Mon, 20 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/giuliatess/)*

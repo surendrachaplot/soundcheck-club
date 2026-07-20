@@ -1,6 +1,6 @@
 # Benga
 
-Benga is a Dubstep and Techno artist with 2 upcoming club dates listed on soundcheck as of Sun, 19 Jul 2026, next at Boston Manor Park, London on Fri, 31 Jul 2026.
+Benga is a Dubstep and Techno artist with 2 upcoming club dates listed on soundcheck as of Mon, 20 Jul 2026, next at Boston Manor Park, London on Fri, 31 Jul 2026.
 
 Benga is a dubstep and techno artist tracked on soundcheck, with 23 sets logged across Amsterdam, Brisbane, Bristol and Brussels and 11 more. Often billed alongside Skream, Bakey and Girls Don't Sync. Next up: Boston Manor Park, London on Fri 31 Jul.
 
@@ -26,4 +26,4 @@ Benga is a dubstep and techno artist tracked on soundcheck, with 23 sets logged 
 
 Skream, Bakey, Girls Don't Sync
 
-*Updated Sun, 19 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/benga/)*
+*Updated Mon, 20 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/benga/)*

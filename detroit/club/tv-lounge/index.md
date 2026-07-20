@@ -1,6 +1,6 @@
 # TV Lounge
 
-TV Lounge is a music venue in Detroit with 10 upcoming nights listed on soundcheck as of Sun, 19 Jul 2026; the next is "13th Annual Raise the Flag Fest • PreParty Celebration" on Thu, 23 Jul 2026.
+TV Lounge is a music venue in Detroit with 10 upcoming nights listed on soundcheck as of Mon, 20 Jul 2026; the next is "13th Annual Raise the Flag Fest • PreParty Celebration" on Thu, 23 Jul 2026.
 
 TV Lounge is a music venue in Detroit listed on soundcheck. 10 upcoming nights, with line-ups including Ameera, britty., Bruce Bailey and Carl Craig and 2 more. Browse upcoming dates, start times and who's playing. 2548 Grand River Avenue; Detroit, MI; United States.
 
@@ -23,4 +23,4 @@ TV Lounge is a music venue in Detroit listed on soundcheck. 10 upcoming nights, 
 
 2548 Grand River Avenue; Detroit, MI; United States, Detroit
 
-*Updated Sun, 19 Jul 2026 · source: [soundcheck](https://soundcheck.club/detroit/club/tv-lounge/)*
+*Updated Mon, 20 Jul 2026 · source: [soundcheck](https://soundcheck.club/detroit/club/tv-lounge/)*

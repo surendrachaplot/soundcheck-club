@@ -1,6 +1,6 @@
 # SKIY
 
-SKIY is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Sun, 19 Jul 2026, next at Straße des 17. Juni, Berlin on Sat, 15 Aug 2026.
+SKIY is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Mon, 20 Jul 2026, next at Straße des 17. Juni, Berlin on Sat, 15 Aug 2026.
 
 SKIY is a techno and house artist based in Germany, tracked on soundcheck, with 23 sets logged across Berlin, Dusseldorf, Hamburg and Ibiza and 7 more. Often billed alongside Umek, Bianka Banks and Klangphonics. Next up: Straße des 17. Juni, Berlin on Sat 15 Aug.
 
@@ -26,4 +26,4 @@ SKIY is a techno and house artist based in Germany, tracked on soundcheck, with 
 
 Umek, Bianka Banks, Klangphonics
 
-*Updated Sun, 19 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/skiy/)*
+*Updated Mon, 20 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/skiy/)*

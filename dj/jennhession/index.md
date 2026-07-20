@@ -1,6 +1,6 @@
 # Jenn Hession
 
-Jenn Hession is a Progressive House and House artist with 3 upcoming club dates listed on soundcheck as of Sun, 19 Jul 2026, next at Wigwam, Dublin on Sat, 8 Aug 2026.
+Jenn Hession is a Progressive House and House artist with 3 upcoming club dates listed on soundcheck as of Mon, 20 Jul 2026, next at Wigwam, Dublin on Sat, 8 Aug 2026.
 
 Jenn Hession is a progressive house and house artist based in Ireland, tracked on soundcheck, with 30 sets logged across Dublin and London. Often billed alongside Culchee, Surferboy and eskay. Next up: Wigwam, Dublin on Sat 8 Aug.
 
@@ -27,4 +27,4 @@ Jenn Hession is a progressive house and house artist based in Ireland, tracked o
 
 Culchee, Surferboy, eskay
 
-*Updated Sun, 19 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/jennhession/)*
+*Updated Mon, 20 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/jennhession/)*

@@ -1,6 +1,6 @@
 # THF Tower
 
-THF Tower is a music venue in Berlin with 1 upcoming night listed on soundcheck as of Sun, 19 Jul 2026; the next is "Menace x THF Radio" on Sat, 8 Aug 2026.
+THF Tower is a music venue in Berlin with 1 upcoming night listed on soundcheck as of Mon, 20 Jul 2026; the next is "Menace x THF Radio" on Sat, 8 Aug 2026.
 
 THF Tower is a music venue in Berlin listed on soundcheck. 1 upcoming night, with line-ups including Carl Luis, Formella and Rolex3k. Browse upcoming dates, start times and who's playing.
 
@@ -10,4 +10,4 @@ THF Tower is a music venue in Berlin listed on soundcheck. 1 upcoming night, wit
 | --- | --- | --- |
 | Sat, 8 Aug 2026 | Menace x THF Radio | Carl Luis, Formella, Rolex3k |
 
-*Updated Sun, 19 Jul 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/thf-tower/)*
+*Updated Mon, 20 Jul 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/thf-tower/)*

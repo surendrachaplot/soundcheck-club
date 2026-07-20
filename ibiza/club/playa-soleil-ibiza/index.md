@@ -1,6 +1,6 @@
 # Playa Soleil Ibiza
 
-Playa Soleil Ibiza is a music venue in Ibiza with 21 upcoming nights listed on soundcheck as of Sun, 19 Jul 2026; the next is "REDROOM" on Tue, 21 Jul 2026.
+Playa Soleil Ibiza is a music venue in Ibiza with 21 upcoming nights listed on soundcheck as of Mon, 20 Jul 2026; the next is "REDROOM" on Tue, 21 Jul 2026.
 
 Playa Soleil Ibiza is a music venue in Ibiza listed on soundcheck. 21 upcoming nights, with line-ups including Cezar Vizan, Cristi Cons, EMJIE and EVGHENIIA and 2 more. Browse upcoming dates, start times and who's playing. Sant Josep de sa Talaia, Islas Baleares, 07817, Spain.
 
@@ -23,4 +23,4 @@ Playa Soleil Ibiza is a music venue in Ibiza listed on soundcheck. 21 upcoming n
 
 Sant Josep de sa Talaia, Islas Baleares, 07817, Spain, Ibiza
 
-*Updated Sun, 19 Jul 2026 · source: [soundcheck](https://soundcheck.club/ibiza/club/playa-soleil-ibiza/)*
+*Updated Mon, 20 Jul 2026 · source: [soundcheck](https://soundcheck.club/ibiza/club/playa-soleil-ibiza/)*

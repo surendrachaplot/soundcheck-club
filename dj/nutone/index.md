@@ -1,6 +1,6 @@
 # Nu:Tone
 
-Nu:Tone is a Drum & Bass and Jungle artist with 2 upcoming club dates listed on soundcheck as of Sun, 19 Jul 2026, next at Bristol Amphitheatre & Waterfront Square, Bristol on Sat, 25 Jul 2026.
+Nu:Tone is a Drum & Bass and Jungle artist with 2 upcoming club dates listed on soundcheck as of Mon, 20 Jul 2026, next at Bristol Amphitheatre & Waterfront Square, Bristol on Sat, 25 Jul 2026.
 
 Nu:Tone is a drum & bass and jungle artist based in United Kingdom, tracked on soundcheck, with 27 sets logged across Amsterdam, Berlin, Bristol and Ibiza and 7 more. Often billed alongside Fred V, Unglued and Whiney. Next up: Bristol Amphitheatre & Waterfront Square, Bristol on Sat 25 Jul.
 
@@ -26,4 +26,4 @@ Nu:Tone is a drum & bass and jungle artist based in United Kingdom, tracked on s
 
 Fred V, Unglued, Whiney
 
-*Updated Sun, 19 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/nutone/)*
+*Updated Mon, 20 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/nutone/)*

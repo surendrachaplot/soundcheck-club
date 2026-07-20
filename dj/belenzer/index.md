@@ -1,6 +1,6 @@
 # Belen Zer
 
-Belen Zer is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Sun, 19 Jul 2026, next at ://about blank, Berlin on Wed, 22 Jul 2026.
+Belen Zer is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Mon, 20 Jul 2026, next at ://about blank, Berlin on Wed, 22 Jul 2026.
 
 Belen Zer is a techno and house artist tracked on soundcheck, with 26 sets logged across Berlin, Madrid and Stuttgart. Often billed alongside KH38, Zomkrad and cristian zanotti. Next up: ://about blank, Berlin on Wed 22 Jul.
 
@@ -26,4 +26,4 @@ Belen Zer is a techno and house artist tracked on soundcheck, with 26 sets logge
 
 KH38, Zomkrad, cristian zanotti
 
-*Updated Sun, 19 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/belenzer/)*
+*Updated Mon, 20 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/belenzer/)*

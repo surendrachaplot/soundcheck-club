@@ -1,6 +1,6 @@
 # Noon + Cafe
 
-Noon + Cafe is a music venue in Osaka with 4 upcoming nights listed on soundcheck as of Sun, 19 Jul 2026; the next is "FREEDOM TIME 30th Anniversary Special" on Sat, 25 Jul 2026.
+Noon + Cafe is a music venue in Osaka with 4 upcoming nights listed on soundcheck as of Mon, 20 Jul 2026; the next is "FREEDOM TIME 30th Anniversary Special" on Sat, 25 Jul 2026.
 
 Noon + Cafe is a music venue in Osaka listed on soundcheck. 4 upcoming nights, with line-ups including KA4U, Kyoto Jazz Massive, Lemi and Masaki Tamura and 2 more. Browse upcoming dates, start times and who's playing. 3-3-8 Nakazakinishi, Kita-ku, Osaka-shi, Osaka, 530-0015 Japan.
 
@@ -17,4 +17,4 @@ Noon + Cafe is a music venue in Osaka listed on soundcheck. 4 upcoming nights, w
 
 3-3-8 Nakazakinishi, Kita-ku, Osaka-shi, Osaka, 530-0015 Japan, Osaka
 
-*Updated Sun, 19 Jul 2026 · source: [soundcheck](https://soundcheck.club/osaka/club/noon-cafe/)*
+*Updated Mon, 20 Jul 2026 · source: [soundcheck](https://soundcheck.club/osaka/club/noon-cafe/)*

@@ -1,6 +1,6 @@
 # Praun
 
-Praun is a Techno and Trance artist with 2 upcoming club dates listed on soundcheck as of Sun, 19 Jul 2026, next at Rote Sonne, Munich on Sat, 25 Jul 2026.
+Praun is a Techno and Trance artist with 2 upcoming club dates listed on soundcheck as of Mon, 20 Jul 2026, next at Rote Sonne, Munich on Sat, 25 Jul 2026.
 
 Praun is a techno and trance artist based in Germany, tracked on soundcheck, with 23 sets logged across Berlin, Leipzig and Munich. Often billed alongside NAGINI, 9LALEY and Vaneska. Next up: Rote Sonne, Munich on Sat 25 Jul.
 
@@ -26,4 +26,4 @@ Praun is a techno and trance artist based in Germany, tracked on soundcheck, wit
 
 NAGINI, 9LALEY, Vaneska
 
-*Updated Sun, 19 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/praun/)*
+*Updated Mon, 20 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/praun/)*

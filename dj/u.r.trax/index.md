@@ -1,6 +1,6 @@
 # u.r.trax
 
-u.r.trax is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Sun, 19 Jul 2026, next at RSO.BERLIN, Berlin on Fri, 24 Jul 2026.
+u.r.trax is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Mon, 20 Jul 2026, next at RSO.BERLIN, Berlin on Fri, 24 Jul 2026.
 
 u.r.trax is a techno and house artist tracked on soundcheck, with 140 sets logged across Amsterdam, Bangkok, Barcelona and Basel and 48 more. Often billed alongside Nina Kraviz, Héctor Oaks and SALOME. Next up: RSO.BERLIN, Berlin on Fri 24 Jul.
 
@@ -26,4 +26,4 @@ u.r.trax is a techno and house artist tracked on soundcheck, with 140 sets logge
 
 Nina Kraviz, Héctor Oaks, SALOME
 
-*Updated Sun, 19 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/u.r.trax/)*
+*Updated Mon, 20 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/u.r.trax/)*

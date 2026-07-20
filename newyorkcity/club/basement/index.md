@@ -1,6 +1,6 @@
 # BASEMENT
 
-BASEMENT is a music venue in New York City with 9 upcoming nights listed on soundcheck as of Sun, 19 Jul 2026; the next is "Philippa Pacho / Newa / Holden Federico / The Spectrum" on Fri, 24 Jul 2026.
+BASEMENT is a music venue in New York City with 9 upcoming nights listed on soundcheck as of Mon, 20 Jul 2026; the next is "Philippa Pacho / Newa / Holden Federico / The Spectrum" on Fri, 24 Jul 2026.
 
 BASEMENT is a music venue in Newyorkcity listed on soundcheck. 9 upcoming nights, with line-ups including Altinbas, Analog Soul, Annie Lew and Auspex and 2 more. Browse upcoming dates, start times and who's playing. 52-19 Flushing Ave., Maspeth, NY 11378 USA.
 
@@ -22,4 +22,4 @@ BASEMENT is a music venue in Newyorkcity listed on soundcheck. 9 upcoming nights
 
 52-19 Flushing Ave., Maspeth, NY 11378 USA, New York City
 
-*Updated Sun, 19 Jul 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/basement/)*
+*Updated Mon, 20 Jul 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/basement/)*

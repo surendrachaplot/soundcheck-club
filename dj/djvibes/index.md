@@ -1,6 +1,6 @@
 # DJ Vibes
 
-DJ Vibes is a Hardcore and Trance artist with 2 upcoming club dates listed on soundcheck as of Sun, 19 Jul 2026, next at Ministry Of Sound, London on Sat, 15 Aug 2026.
+DJ Vibes is a Hardcore and Trance artist with 2 upcoming club dates listed on soundcheck as of Mon, 20 Jul 2026, next at Ministry Of Sound, London on Sat, 15 Aug 2026.
 
 DJ Vibes is a hardcore and trance artist tracked on soundcheck, with 28 sets logged across Amsterdam, Bristol, Leeds and Liverpool and 3 more. Often billed alongside Billy Daniel Bunter, Jay Cunning and Arkyn. Next up: Ministry Of Sound, London on Sat 15 Aug.
 
@@ -26,4 +26,4 @@ DJ Vibes is a hardcore and trance artist tracked on soundcheck, with 28 sets log
 
 Billy Daniel Bunter, Jay Cunning, Arkyn
 
-*Updated Sun, 19 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/djvibes/)*
+*Updated Mon, 20 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/djvibes/)*

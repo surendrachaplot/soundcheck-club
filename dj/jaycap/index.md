@@ -1,6 +1,6 @@
 # Jaycap
 
-Jaycap is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Sun, 19 Jul 2026, next at OST, Berlin on Fri, 24 Jul 2026.
+Jaycap is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Mon, 20 Jul 2026, next at OST, Berlin on Fri, 24 Jul 2026.
 
 Jaycap is a techno and house artist based in Germany, tracked on soundcheck, with 35 sets logged across Berlin. Often billed alongside Feel .MA, Darren Black and Yannick Weineck. Next up: OST, Berlin on Fri 24 Jul.
 
@@ -26,4 +26,4 @@ Jaycap is a techno and house artist based in Germany, tracked on soundcheck, wit
 
 Feel .MA, Darren Black, Yannick Weineck
 
-*Updated Sun, 19 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/jaycap/)*
+*Updated Mon, 20 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/jaycap/)*

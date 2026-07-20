@@ -1,6 +1,6 @@
 # Tommy Four Seven
 
-Tommy Four Seven is a Techno and Industrial artist with 7 upcoming club dates listed on soundcheck as of Sun, 19 Jul 2026, next at Signal, New York City on Fri, 24 Jul 2026.
+Tommy Four Seven is a Techno and Industrial artist with 7 upcoming club dates listed on soundcheck as of Mon, 20 Jul 2026, next at Signal, New York City on Fri, 24 Jul 2026.
 
 Tommy Four Seven is a techno and industrial artist tracked on soundcheck, with 130 sets logged across Amsterdam, Athens, Austin and Bali and 48 more. Often billed alongside Tauceti (FR), CESAR ALMENA and Dasha Rush. Next up: Signal, Newyorkcity on Fri 24 Jul.
 
@@ -31,4 +31,4 @@ Tommy Four Seven is a techno and industrial artist tracked on soundcheck, with 1
 
 Tauceti (FR), CESAR ALMENA, Dasha Rush
 
-*Updated Sun, 19 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/tommyfourseven/)*
+*Updated Mon, 20 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/tommyfourseven/)*

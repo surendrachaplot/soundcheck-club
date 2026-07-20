@@ -1,6 +1,6 @@
 # Tausend
 
-Tausend is a music venue in Berlin with 1 upcoming night listed on soundcheck as of Sun, 19 Jul 2026; the next is "Tausend House: Lucas Vazz" on Sat, 25 Jul 2026.
+Tausend is a music venue in Berlin with 1 upcoming night listed on soundcheck as of Mon, 20 Jul 2026; the next is "Tausend House: Lucas Vazz" on Sat, 25 Jul 2026.
 
 Tausend is a music venue in Berlin listed on soundcheck. 1 upcoming night, with line-ups including Lucas Vazz. Browse upcoming dates, start times and who's playing. Schiffbauerdamm 11; Mitte; 10117 Berlin; Germany.
 
@@ -14,4 +14,4 @@ Tausend is a music venue in Berlin listed on soundcheck. 1 upcoming night, with 
 
 Schiffbauerdamm 11; Mitte; 10117 Berlin; Germany, Berlin
 
-*Updated Sun, 19 Jul 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/tausend/)*
+*Updated Mon, 20 Jul 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/tausend/)*

@@ -1,6 +1,6 @@
 # Room 2 Glasgow
 
-Room 2 Glasgow is a music venue in Glasgow with 4 upcoming nights listed on soundcheck as of Sun, 19 Jul 2026; the next is "Obscura X Unbound presents: Incult, Ngl and N|E|O" on Fri, 24 Jul 2026.
+Room 2 Glasgow is a music venue in Glasgow with 4 upcoming nights listed on soundcheck as of Mon, 20 Jul 2026; the next is "Obscura X Unbound presents: Incult, Ngl and N|E|O" on Fri, 24 Jul 2026.
 
 Room 2 Glasgow is a music venue in Glasgow listed on soundcheck. 4 upcoming nights, with line-ups including LESSSS and NGL (NL). Browse upcoming dates, start times and who's playing. 69 Nelson Mandela Pl, Glasgow G2 1QY, United Kingdom.
 
@@ -17,4 +17,4 @@ Room 2 Glasgow is a music venue in Glasgow listed on soundcheck. 4 upcoming nigh
 
 69 Nelson Mandela Pl, Glasgow G2 1QY, United Kingdom, Glasgow
 
-*Updated Sun, 19 Jul 2026 · source: [soundcheck](https://soundcheck.club/glasgow/club/room-2-glasgow/)*
+*Updated Mon, 20 Jul 2026 · source: [soundcheck](https://soundcheck.club/glasgow/club/room-2-glasgow/)*

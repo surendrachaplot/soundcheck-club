@@ -1,6 +1,6 @@
 # Oven Club
 
-Oven Club is a music venue in Valencia with 7 upcoming nights listed on soundcheck as of Sun, 19 Jul 2026; the next is "Soumz + Special Guest" on Wed, 22 Jul 2026.
+Oven Club is a music venue in Valencia with 7 upcoming nights listed on soundcheck as of Mon, 20 Jul 2026; the next is "Soumz + Special Guest" on Wed, 22 Jul 2026.
 
 Oven Club is a music venue in Valencia listed on soundcheck. 7 upcoming nights, with line-ups including Ariezzz, Blanch, Camiel Daamen and Dubbyman and 2 more. Browse upcoming dates, start times and who's playing. Gran Vía Germanías 31 Valencia.
 
@@ -20,4 +20,4 @@ Oven Club is a music venue in Valencia listed on soundcheck. 7 upcoming nights, 
 
 Gran Vía Germanías 31 Valencia, Valencia
 
-*Updated Sun, 19 Jul 2026 · source: [soundcheck](https://soundcheck.club/valencia/club/oven-club/)*
+*Updated Mon, 20 Jul 2026 · source: [soundcheck](https://soundcheck.club/valencia/club/oven-club/)*

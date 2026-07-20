@@ -1,6 +1,6 @@
 # Roi Perez
 
-Roi Perez is a House and Techno artist with 6 upcoming club dates listed on soundcheck as of Sun, 19 Jul 2026, next at Berghain | Panorama Bar | Säule, Berlin on Sat, 25 Jul 2026.
+Roi Perez is a House and Techno artist with 6 upcoming club dates listed on soundcheck as of Mon, 20 Jul 2026, next at Berghain | Panorama Bar | Säule, Berlin on Sat, 25 Jul 2026.
 
 Roi Perez is a house and techno artist tracked on soundcheck, with 214 sets logged across Amsterdam, Antwerp, Athens and Bali and 47 more. Often billed alongside Partok, BASHKKA and David Elimelech. Next up: Berghain | Panorama Bar | Säule, Berlin on Sat 25 Jul.
 
@@ -30,4 +30,4 @@ Roi Perez is a house and techno artist tracked on soundcheck, with 214 sets logg
 
 Partok, BASHKKA, David Elimelech
 
-*Updated Sun, 19 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/roiperez/)*
+*Updated Mon, 20 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/roiperez/)*

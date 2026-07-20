@@ -1,6 +1,6 @@
 # Upper90
 
-Upper90 is a Techno and Trance artist with 4 upcoming club dates listed on soundcheck as of Sun, 19 Jul 2026, next at Wigwam, Dublin on Sat, 25 Jul 2026.
+Upper90 is a Techno and Trance artist with 4 upcoming club dates listed on soundcheck as of Mon, 20 Jul 2026, next at Wigwam, Dublin on Sat, 25 Jul 2026.
 
 Upper90 is a techno and trance artist tracked on soundcheck, with 121 sets logged across Aberdeen, Amsterdam, Antwerp and Barcelona and 31 more. Often billed alongside Janis Zielinski, Butschi and Funk Tribu. Next up: Wigwam, Dublin on Sat 25 Jul.
 
@@ -28,4 +28,4 @@ Upper90 is a techno and trance artist tracked on soundcheck, with 121 sets logge
 
 Janis Zielinski, Butschi, Funk Tribu
 
-*Updated Sun, 19 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/upper90/)*
+*Updated Mon, 20 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/upper90/)*

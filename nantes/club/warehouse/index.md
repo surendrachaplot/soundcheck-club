@@ -1,6 +1,6 @@
 # Warehouse
 
-Warehouse is a music venue in Nantes with 6 upcoming nights listed on soundcheck as of Sun, 19 Jul 2026; the next is "TRACKNIGHT x VIVALLURE x NO LIMIT EVENT présentent Hard Legacy with Tatanka, Sakyra" on Fri, 31 Jul 2026.
+Warehouse is a music venue in Nantes with 6 upcoming nights listed on soundcheck as of Mon, 20 Jul 2026; the next is "TRACKNIGHT x VIVALLURE x NO LIMIT EVENT présentent Hard Legacy with Tatanka, Sakyra" on Fri, 31 Jul 2026.
 
 Warehouse is a music venue in Nantes listed on soundcheck. 6 upcoming nights, with line-ups including 25EMEHEURE, Dr Donk, Evil Grimace and EVN (2) and 2 more. Browse upcoming dates, start times and who's playing. 21 quai des Antilles 44200 Nantes.
 
@@ -19,4 +19,4 @@ Warehouse is a music venue in Nantes listed on soundcheck. 6 upcoming nights, wi
 
 21 quai des Antilles 44200 Nantes, Nantes
 
-*Updated Sun, 19 Jul 2026 · source: [soundcheck](https://soundcheck.club/nantes/club/warehouse/)*
+*Updated Mon, 20 Jul 2026 · source: [soundcheck](https://soundcheck.club/nantes/club/warehouse/)*

@@ -1,6 +1,6 @@
 # Kozue
 
-Kozue is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Sun, 19 Jul 2026, next at Sans Soleil, Montreal on Fri, 31 Jul 2026.
+Kozue is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Mon, 20 Jul 2026, next at Sans Soleil, Montreal on Fri, 31 Jul 2026.
 
 Kozue is a house and techno artist tracked on soundcheck, with 46 sets logged across Montreal, Tokyo and Vancouver. Often billed alongside Dane, Beiti and Body Double. Next up: Sans Soleil, Montreal on Fri 31 Jul.
 
@@ -26,4 +26,4 @@ Kozue is a house and techno artist tracked on soundcheck, with 46 sets logged ac
 
 Dane, Beiti, Body Double
 
-*Updated Sun, 19 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/kozue/)*
+*Updated Mon, 20 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/kozue/)*

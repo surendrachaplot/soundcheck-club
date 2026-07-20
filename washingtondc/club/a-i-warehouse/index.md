@@ -1,6 +1,6 @@
 # A.i Warehouse
 
-A.i Warehouse is a music venue in Washington DC with 5 upcoming nights listed on soundcheck as of Sun, 19 Jul 2026; the next is "diffuse: Josh Baker" on Sat, 5 Sept 2026.
+A.i Warehouse is a music venue in Washington DC with 5 upcoming nights listed on soundcheck as of Mon, 20 Jul 2026; the next is "diffuse: Josh Baker" on Sat, 5 Sept 2026.
 
 A.i Warehouse is a music venue in Washingtondc listed on soundcheck. 5 upcoming nights, with line-ups including Josh Baker, Kahani, Kunal Merchant and Tommy Phillips. Browse upcoming dates, start times and who's playing. 530 Penn St NE Washington DC 20002.
 
@@ -18,4 +18,4 @@ A.i Warehouse is a music venue in Washingtondc listed on soundcheck. 5 upcoming 
 
 530 Penn St NE Washington DC 20002, Washington DC
 
-*Updated Sun, 19 Jul 2026 · source: [soundcheck](https://soundcheck.club/washingtondc/club/a-i-warehouse/)*
+*Updated Mon, 20 Jul 2026 · source: [soundcheck](https://soundcheck.club/washingtondc/club/a-i-warehouse/)*

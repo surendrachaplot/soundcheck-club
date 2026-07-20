@@ -1,6 +1,6 @@
 # BRU ON
 
-BRU ON is a Tech House and House artist with 3 upcoming club dates listed on soundcheck as of Sun, 19 Jul 2026, next at City Hall, Barcelona on Tue, 21 Jul 2026.
+BRU ON is a Tech House and House artist with 3 upcoming club dates listed on soundcheck as of Mon, 20 Jul 2026, next at City Hall, Barcelona on Tue, 21 Jul 2026.
 
 BRU ON is a tech house and house artist tracked on soundcheck, with 27 sets logged across Barcelona. Often billed alongside Babo, KBTO and juliboe. Next up: City Hall, Barcelona on Tue 21 Jul.
 
@@ -27,4 +27,4 @@ BRU ON is a tech house and house artist tracked on soundcheck, with 27 sets logg
 
 Babo, KBTO, juliboe
 
-*Updated Sun, 19 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/bruon/)*
+*Updated Mon, 20 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/bruon/)*

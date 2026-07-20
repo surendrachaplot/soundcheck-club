@@ -1,6 +1,6 @@
 # babxi
 
-babxi is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Sun, 19 Jul 2026, next at Neulich am Flughafen, Berlin on Sun, 26 Jul 2026.
+babxi is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Mon, 20 Jul 2026, next at Neulich am Flughafen, Berlin on Sun, 26 Jul 2026.
 
 babxi is a house and techno artist based in Canada, tracked on soundcheck, with 101 sets logged across Berlin, Cologne, Hamburg and Newyorkcity. Often billed alongside Seemless, Don Andres and Martin Meyer. Next up: Neulich am Flughafen, Berlin on Sun 26 Jul.
 
@@ -26,4 +26,4 @@ babxi is a house and techno artist based in Canada, tracked on soundcheck, with 
 
 Seemless, Don Andres, Martin Meyer
 
-*Updated Sun, 19 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/babxi/)*
+*Updated Mon, 20 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/babxi/)*

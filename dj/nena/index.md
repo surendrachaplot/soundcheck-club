@@ -1,6 +1,6 @@
 # Nèna
 
-Nèna is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Sun, 19 Jul 2026, next at ISOamsterdam, Amsterdam on Sat, 25 Jul 2026.
+Nèna is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Mon, 20 Jul 2026, next at ISOamsterdam, Amsterdam on Sat, 25 Jul 2026.
 
 Nèna is a techno and house artist based in Netherlands, tracked on soundcheck, with 62 sets logged across Amsterdam, Berlin, Cologne and Rotterdam and 2 more. Often billed alongside Jasmín, Cinnaman and Fafi Abdel Nour. Next up: ISOamsterdam, Amsterdam on Sat 25 Jul.
 
@@ -26,4 +26,4 @@ Nèna is a techno and house artist based in Netherlands, tracked on soundcheck, 
 
 Jasmín, Cinnaman, Fafi Abdel Nour
 
-*Updated Sun, 19 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/nena/)*
+*Updated Mon, 20 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/nena/)*

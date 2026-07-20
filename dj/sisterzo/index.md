@@ -1,6 +1,6 @@
 # Sister Zo
 
-Sister Zo is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Sun, 19 Jul 2026, next at Bossa Nova Civic Club, New York City on Wed, 29 Jul 2026.
+Sister Zo is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Mon, 20 Jul 2026, next at Bossa Nova Civic Club, New York City on Wed, 29 Jul 2026.
 
 Sister Zo is a techno and house artist based in United States of America, tracked on soundcheck, with 119 sets logged across Amsterdam, Barcelona, Berlin and Boston and 21 more. Often billed alongside Bryan Kasenic, Mike Servito and Patrick Russell. Next up: Bossa Nova Civic Club, Newyorkcity on Wed 29 Jul.
 
@@ -26,4 +26,4 @@ Sister Zo is a techno and house artist based in United States of America, tracke
 
 Bryan Kasenic, Mike Servito, Patrick Russell
 
-*Updated Sun, 19 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/sisterzo/)*
+*Updated Mon, 20 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/sisterzo/)*

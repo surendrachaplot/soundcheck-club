@@ -1,6 +1,6 @@
 # Alex Wilcox
 
-Alex Wilcox is a Techno and Trance artist with 2 upcoming club dates listed on soundcheck as of Sun, 19 Jul 2026, next at Amsterdamse Bos, Amsterdam on Wed, 29 Jul 2026.
+Alex Wilcox is a Techno and Trance artist with 2 upcoming club dates listed on soundcheck as of Mon, 20 Jul 2026, next at Amsterdamse Bos, Amsterdam on Wed, 29 Jul 2026.
 
 Alex Wilcox is a techno and trance artist based in United States of America, tracked on soundcheck, with 66 sets logged across Amsterdam, Austin, Bangkok and Belgrade and 32 more. Often billed alongside Ben UFO, DJ Nobu and DVS1. Next up: Amsterdamse Bos, Amsterdam on Wed 29 Jul.
 
@@ -26,4 +26,4 @@ Alex Wilcox is a techno and trance artist based in United States of America, tra
 
 Ben UFO, DJ Nobu, DVS1
 
-*Updated Sun, 19 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/alexwilcox/)*
+*Updated Mon, 20 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/alexwilcox/)*

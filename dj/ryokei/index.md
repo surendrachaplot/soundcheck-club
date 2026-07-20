@@ -1,6 +1,6 @@
 # RYOKEI
 
-RYOKEI is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Sun, 19 Jul 2026, next at Red Bar, Tokyo on Mon, 10 Aug 2026.
+RYOKEI is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Mon, 20 Jul 2026, next at Red Bar, Tokyo on Mon, 10 Aug 2026.
 
 RYOKEI is a techno and house artist based in Japan, tracked on soundcheck, with 52 sets logged across Bangkok, Hongkong, Seoul and Tokyo. Often billed alongside P-YAN, Satoshi Otsuki and KABUTO. Next up: Red Bar, Tokyo on Mon 10 Aug.
 
@@ -26,4 +26,4 @@ RYOKEI is a techno and house artist based in Japan, tracked on soundcheck, with 
 
 P-YAN, Satoshi Otsuki, KABUTO
 
-*Updated Sun, 19 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/ryokei/)*
+*Updated Mon, 20 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/ryokei/)*

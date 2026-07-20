@@ -1,13 +1,14 @@
 # Bass
 
-Bass is a Drum & Bass and Jazz artist with 5 upcoming club dates listed on soundcheck as of Sun, 19 Jul 2026, next at Museumspark Rüdersdorf, Berlin on Sat, 1 Aug 2026.
+Bass is a Drum & Bass and Jazz artist with 6 upcoming club dates listed on soundcheck as of Mon, 20 Jul 2026, next at Panke Social, Sheffield on Fri, 24 Jul 2026.
 
-Bass is a drum & bass and jazz artist tracked on soundcheck, with 106 sets logged across Bali, Bangkok, Barcelona and Basel and 35 more. Often billed alongside Jungle (UK), Tekk and A². Next up: Museumspark Rüdersdorf, Berlin on Sat 1 Aug.
+Bass is a drum & bass and jazz artist tracked on soundcheck, with 107 sets logged across Bali, Bangkok, Barcelona and Basel and 35 more. Often billed alongside Jungle (UK), Tekk and A². Next up: Panke Social, Sheffield on Fri 24 Jul.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 24 Jul 2026 | Panke Social | Sheffield |
 | Sat, 1 Aug 2026 | Museumspark Rüdersdorf | Berlin |
 | Fri, 7 Aug 2026 | Odonien | Cologne |
 | Fri, 7 Aug 2026 | M-BIA | Berlin |
@@ -29,4 +30,4 @@ Bass is a drum & bass and jazz artist tracked on soundcheck, with 106 sets logge
 
 Jungle (UK), Tekk, A²
 
-*Updated Sun, 19 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/bass/)*
+*Updated Mon, 20 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/bass/)*

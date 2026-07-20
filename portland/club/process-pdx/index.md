@@ -1,14 +1,13 @@
 # Process PDX
 
-Process PDX is a music venue in Portland with 6 upcoming nights listed on soundcheck as of Sun, 19 Jul 2026; the next is "Club Liminal feat. Ben Bondy, Special Guest DJ, August V.M, Keeks" on Sun, 19 Jul 2026.
+Process PDX is a music venue in Portland with 5 upcoming nights listed on soundcheck as of Mon, 20 Jul 2026; the next is "Triple Threat - A Queer & Trans Strip Night" on Wed, 29 Jul 2026.
 
-Process PDX is a music venue in Portland listed on soundcheck. 6 upcoming nights, with line-ups including Alec Fursman, August V. M., Ben Bondy and Claudia LB and 2 more. Browse upcoming dates, start times and who's playing. 5040 SE Milwaukie Ave. Portland, OR, 97202.
+Process PDX is a music venue in Portland listed on soundcheck. 5 upcoming nights, with line-ups including Alec Fursman, Claudia LB, C Powers and N SO and 2 more. Browse upcoming dates, start times and who's playing. 5040 SE Milwaukie Ave. Portland, OR, 97202.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Sun, 19 Jul 2026 | Club Liminal feat. Ben Bondy, Special Guest DJ, August V.M, Keeks | August V. M., Ben Bondy, Keeks, Special Guest DJ |
 | Wed, 29 Jul 2026 | Triple Threat - A Queer & Trans Strip Night |  |
 | Thu, 30 Jul 2026 | USBCHECK x FRICKTION | Alec Fursman, Claudia LB, N SO |
 | Fri, 31 Jul 2026 | Dark Arts Collective presents... Two Swords | Stutter, Two Swords |
@@ -19,4 +18,4 @@ Process PDX is a music venue in Portland listed on soundcheck. 6 upcoming nights
 
 5040 SE Milwaukie Ave. Portland, OR, 97202, Portland
 
-*Updated Sun, 19 Jul 2026 · source: [soundcheck](https://soundcheck.club/portland/club/process-pdx/)*
+*Updated Mon, 20 Jul 2026 · source: [soundcheck](https://soundcheck.club/portland/club/process-pdx/)*

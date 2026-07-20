@@ -1,6 +1,6 @@
 # DJ Yazi
 
-DJ Yazi is a Techno and House artist with 5 upcoming club dates listed on soundcheck as of Sun, 19 Jul 2026, next at Secret Venue in Minatoku-Nishiazabu, Tokyo on Fri, 31 Jul 2026.
+DJ Yazi is a Techno and House artist with 5 upcoming club dates listed on soundcheck as of Mon, 20 Jul 2026, next at Secret Venue in Minatoku-Nishiazabu, Tokyo on Fri, 31 Jul 2026.
 
 DJ Yazi is a techno and house artist based in Japan, tracked on soundcheck, with 87 sets logged across Amsterdam, Athens, Berlin and Hongkong and 9 more. Often billed alongside Mari Sakurai, DJ MARIA. and DJ Nobu. Next up: Secret Venue in Minatoku-Nishiazabu, Tokyo on Fri 31 Jul.
 
@@ -29,4 +29,4 @@ DJ Yazi is a techno and house artist based in Japan, tracked on soundcheck, with
 
 Mari Sakurai, DJ MARIA., DJ Nobu
 
-*Updated Sun, 19 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/djyazi/)*
+*Updated Mon, 20 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/djyazi/)*

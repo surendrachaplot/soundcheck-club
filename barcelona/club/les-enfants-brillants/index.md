@@ -1,6 +1,6 @@
 # Les Enfants Brillants
 
-Les Enfants Brillants is a music venue in Barcelona with 15 upcoming nights listed on soundcheck as of Sun, 19 Jul 2026; the next is "Noizer pres. Linkan Ray + Juan Evangelista" on Thu, 23 Jul 2026.
+Les Enfants Brillants is a music venue in Barcelona with 15 upcoming nights listed on soundcheck as of Mon, 20 Jul 2026; the next is "Noizer pres. Linkan Ray + Juan Evangelista" on Thu, 23 Jul 2026.
 
 Les Enfants Brillants is a music venue in Barcelona listed on soundcheck. 15 upcoming nights, with line-ups including Mariiin, Aleja Sanchez, Andrew Azara and Armela and 2 more. Browse upcoming dates, start times and who's playing. Carrer de Guàrdia, 3, 08001 Barcelona.
 
@@ -23,4 +23,4 @@ Les Enfants Brillants is a music venue in Barcelona listed on soundcheck. 15 upc
 
 Carrer de Guàrdia, 3, 08001 Barcelona, Barcelona
 
-*Updated Sun, 19 Jul 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/les-enfants-brillants/)*
+*Updated Mon, 20 Jul 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/les-enfants-brillants/)*

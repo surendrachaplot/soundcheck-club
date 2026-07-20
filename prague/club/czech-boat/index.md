@@ -1,6 +1,6 @@
 # Czech Boat
 
-Czech Boat is a music venue in Prague with 4 upcoming nights listed on soundcheck as of Sun, 19 Jul 2026; the next is "Generate Boat" on Sat, 1 Aug 2026.
+Czech Boat is a music venue in Prague with 4 upcoming nights listed on soundcheck as of Mon, 20 Jul 2026; the next is "Generate Boat" on Sat, 1 Aug 2026.
 
 Czech Boat is a music venue in Prague listed on soundcheck. 4 upcoming nights, with line-ups including Adam Cloud, Coco, Danilo Kupfernagel and Hugorieri and 2 more. Browse upcoming dates, start times and who's playing. Nábřeží na Františku. Dvořákovo nábřeží (pod Štefánikovým mostem).
 
@@ -17,4 +17,4 @@ Czech Boat is a music venue in Prague listed on soundcheck. 4 upcoming nights, w
 
 Nábřeží na Františku. Dvořákovo nábřeží (pod Štefánikovým mostem), Prague
 
-*Updated Sun, 19 Jul 2026 · source: [soundcheck](https://soundcheck.club/prague/club/czech-boat/)*
+*Updated Mon, 20 Jul 2026 · source: [soundcheck](https://soundcheck.club/prague/club/czech-boat/)*

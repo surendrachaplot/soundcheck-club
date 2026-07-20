@@ -1,6 +1,6 @@
 # teppei
 
-teppei is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Sun, 19 Jul 2026, next at Mitsuki, Tokyo on Thu, 23 Jul 2026.
+teppei is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Mon, 20 Jul 2026, next at Mitsuki, Tokyo on Thu, 23 Jul 2026.
 
 teppei is a techno and house artist based in Japan, tracked on soundcheck, with 112 sets logged across Bangkok, Seoul and Tokyo. Often billed alongside SIGNAL (JP), ARUTA and AKIRAM EN. Next up: Mitsuki, Tokyo on Thu 23 Jul.
 
@@ -27,4 +27,4 @@ teppei is a techno and house artist based in Japan, tracked on soundcheck, with 
 
 SIGNAL (JP), ARUTA, AKIRAM EN
 
-*Updated Sun, 19 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/teppei/)*
+*Updated Mon, 20 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/teppei/)*

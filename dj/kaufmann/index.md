@@ -1,6 +1,6 @@
 # Kaufmann
 
-Kaufmann is a Techno and House artist with 5 upcoming club dates listed on soundcheck as of Sun, 19 Jul 2026, next at Amnesia Ibiza, Ibiza on Wed, 22 Jul 2026.
+Kaufmann is a Techno and House artist with 5 upcoming club dates listed on soundcheck as of Mon, 20 Jul 2026, next at Amnesia Ibiza, Ibiza on Wed, 22 Jul 2026.
 
 Kaufmann is a techno and house artist tracked on soundcheck, with 135 sets logged across Amsterdam, Barcelona, Basel and Berlin and 18 more. Often billed alongside Leon Licht, Memo. and ADAMN. Next up: Amnesia Ibiza, Ibiza on Wed 22 Jul.
 
@@ -29,4 +29,4 @@ Kaufmann is a techno and house artist tracked on soundcheck, with 135 sets logge
 
 Leon Licht, Memo., ADAMN
 
-*Updated Sun, 19 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/kaufmann/)*
+*Updated Mon, 20 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/kaufmann/)*

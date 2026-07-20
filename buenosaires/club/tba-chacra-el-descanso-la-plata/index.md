@@ -1,6 +1,6 @@
 # TBA - Chacra El Descanso, La Plata
 
-TBA - Chacra El Descanso, La Plata is a music venue in Buenos Aires with 1 upcoming night listed on soundcheck as of Sun, 19 Jul 2026; the next is "Stephan Bodzin + EMILIANO DEMARCO - by CIRCUS, LA PLATA" on Sun, 16 Aug 2026.
+TBA - Chacra El Descanso, La Plata is a music venue in Buenos Aires with 1 upcoming night listed on soundcheck as of Mon, 20 Jul 2026; the next is "Stephan Bodzin + EMILIANO DEMARCO - by CIRCUS, LA PLATA" on Sun, 16 Aug 2026.
 
 TBA - Chacra El Descanso, La Plata is a music venue in Buenosaires listed on soundcheck. 1 upcoming night, with line-ups including Stephan Bodzin. Browse upcoming dates, start times and who's playing.
 
@@ -10,4 +10,4 @@ TBA - Chacra El Descanso, La Plata is a music venue in Buenosaires listed on sou
 | --- | --- | --- |
 | Sun, 16 Aug 2026 | Stephan Bodzin + EMILIANO DEMARCO - by CIRCUS, LA PLATA | Stephan Bodzin |
 
-*Updated Sun, 19 Jul 2026 · source: [soundcheck](https://soundcheck.club/buenosaires/club/tba-chacra-el-descanso-la-plata/)*
+*Updated Mon, 20 Jul 2026 · source: [soundcheck](https://soundcheck.club/buenosaires/club/tba-chacra-el-descanso-la-plata/)*

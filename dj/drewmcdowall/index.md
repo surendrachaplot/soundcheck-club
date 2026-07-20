@@ -1,6 +1,6 @@
 # Drew McDowall
 
-Drew McDowall is a Experimental and Industrial artist with 2 upcoming club dates listed on soundcheck as of Sun, 19 Jul 2026, next at TBA - Secret Location near Jannowitzbrücke, Berlin on Thu, 17 Sept 2026.
+Drew McDowall is a Experimental and Industrial artist with 2 upcoming club dates listed on soundcheck as of Mon, 20 Jul 2026, next at TBA - Secret Location near Jannowitzbrücke, Berlin on Thu, 17 Sept 2026.
 
 Drew McDowall is an experimental and industrial artist based in United Kingdom, tracked on soundcheck, with 30 sets logged across Antwerp, Barcelona, Berlin and Chicago and 13 more. Often billed alongside Pedro Maia, Aaron Dilloway and Kujo. Next up: TBA - Secret Location near Jannowitzbrücke, Berlin on Thu 17 Sept.
 
@@ -26,4 +26,4 @@ Drew McDowall is an experimental and industrial artist based in United Kingdom, 
 
 Pedro Maia, Aaron Dilloway, Kujo
 
-*Updated Sun, 19 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/drewmcdowall/)*
+*Updated Mon, 20 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/drewmcdowall/)*

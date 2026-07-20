@@ -1,8 +1,8 @@
 # 10cust
 
-10cust is a Club and Techno artist with 2 upcoming club dates listed on soundcheck as of Sun, 19 Jul 2026, next at ESC, Montreal on Sat, 25 Jul 2026.
+10cust is a Club and Techno artist with 3 upcoming club dates listed on soundcheck as of Mon, 20 Jul 2026, next at ESC, Montreal on Sat, 25 Jul 2026.
 
-10cust is a club and techno artist tracked on soundcheck, with 23 sets logged across Barcelona, Berlin, Boston and London and 6 more. Often billed alongside Ali RQ, Frost Children and MCR-T. Next up: ESC, Montreal on Sat 25 Jul.
+10cust is a club and techno artist tracked on soundcheck, with 24 sets logged across Barcelona, Berlin, Boston and London and 7 more. Often billed alongside Ali RQ, Frost Children and MCR-T. Next up: ESC, Montreal on Sat 25 Jul.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@
 | --- | --- | --- |
 | Sat, 25 Jul 2026 | ESC | Montreal |
 | Sat, 1 Aug 2026 | TBA - Hollywood Park adjacent to SoFi Stadium | Los Angeles |
+| Fri, 21 Aug 2026 | Cafeteria | Toronto |
 
 ## Recently played
 
@@ -26,4 +27,4 @@
 
 Ali RQ, Frost Children, MCR-T
 
-*Updated Sun, 19 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/10cust/)*
+*Updated Mon, 20 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/10cust/)*

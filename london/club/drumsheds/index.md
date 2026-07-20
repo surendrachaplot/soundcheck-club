@@ -1,6 +1,6 @@
 # DRUMSHEDS
 
-DRUMSHEDS is a music venue in London with 5 upcoming nights listed on soundcheck as of Sun, 19 Jul 2026; the next is "Defected London w/ Armand Van Helden, Basement Jaxx, Groove Armada" on Sat, 19 Sept 2026.
+DRUMSHEDS is a music venue in London with 5 upcoming nights listed on soundcheck as of Mon, 20 Jul 2026; the next is "Defected London w/ Armand Van Helden, Basement Jaxx, Groove Armada" on Sat, 19 Sept 2026.
 
 DRUMSHEDS is a music venue in London listed on soundcheck. 5 upcoming nights, with line-ups including 2ManyDJs, Alan Braxe, Alexis Taylor and Ammo Avenue and 2 more. Browse upcoming dates, start times and who's playing. 6 Glover Drive, Edmonton, London, N18 3HF.
 
@@ -18,4 +18,4 @@ DRUMSHEDS is a music venue in London listed on soundcheck. 5 upcoming nights, wi
 
 6 Glover Drive, Edmonton, London, N18 3HF, London
 
-*Updated Sun, 19 Jul 2026 · source: [soundcheck](https://soundcheck.club/london/club/drumsheds/)*
+*Updated Mon, 20 Jul 2026 · source: [soundcheck](https://soundcheck.club/london/club/drumsheds/)*

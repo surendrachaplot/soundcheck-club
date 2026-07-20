@@ -1,6 +1,6 @@
 # Grandmixxer
 
-Grandmixxer is a Grime and Dub artist with 2 upcoming club dates listed on soundcheck as of Sun, 19 Jul 2026, next at Ormside Projects, London on Fri, 24 Jul 2026.
+Grandmixxer is a Grime and Dub artist with 2 upcoming club dates listed on soundcheck as of Mon, 20 Jul 2026, next at Ormside Projects, London on Fri, 24 Jul 2026.
 
 Grandmixxer is a grime and dub artist based in United Kingdom, tracked on soundcheck, with 23 sets logged across Amsterdam, Barcelona, Berlin and Bristol and 4 more. Often billed alongside Manga Saint Hilare, Flowdan and Mantra. Next up: Ormside Projects, London on Fri 24 Jul.
 
@@ -26,4 +26,4 @@ Grandmixxer is a grime and dub artist based in United Kingdom, tracked on soundc
 
 Manga Saint Hilare, Flowdan, Mantra
 
-*Updated Sun, 19 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/grandmixxer/)*
+*Updated Mon, 20 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/grandmixxer/)*

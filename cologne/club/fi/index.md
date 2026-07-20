@@ -1,6 +1,6 @@
 # fi
 
-fi is a music venue in Cologne with 6 upcoming nights listed on soundcheck as of Sun, 19 Jul 2026; the next is "fi x NUOBN x Iptamenos Discos x Local Suicide" on Fri, 24 Jul 2026.
+fi is a music venue in Cologne with 6 upcoming nights listed on soundcheck as of Mon, 20 Jul 2026; the next is "fi x NUOBN x Iptamenos Discos x Local Suicide" on Fri, 24 Jul 2026.
 
 fi is a music venue in Cologne listed on soundcheck. 6 upcoming nights, with line-ups including Aino DJ, Cecilia Tosh, Chlär and clara luise and 2 more. Browse upcoming dates, start times and who's playing. Widdersdorfer Straße 246, 50825 Köln, Deutschland.
 
@@ -19,4 +19,4 @@ fi is a music venue in Cologne listed on soundcheck. 6 upcoming nights, with lin
 
 Widdersdorfer Straße 246, 50825 Köln, Deutschland, Cologne
 
-*Updated Sun, 19 Jul 2026 · source: [soundcheck](https://soundcheck.club/cologne/club/fi/)*
+*Updated Mon, 20 Jul 2026 · source: [soundcheck](https://soundcheck.club/cologne/club/fi/)*

@@ -1,6 +1,6 @@
 # Humboldt Forum
 
-Humboldt Forum is a music venue in Berlin with 11 upcoming nights listed on soundcheck as of Sun, 19 Jul 2026; the next is "Pęki Momés. DURCHLÜFTEN – 2026 Live Concerts & DJ Acts" on Thu, 23 Jul 2026.
+Humboldt Forum is a music venue in Berlin with 11 upcoming nights listed on soundcheck as of Mon, 20 Jul 2026; the next is "Pęki Momés. DURCHLÜFTEN – 2026 Live Concerts & DJ Acts" on Thu, 23 Jul 2026.
 
 Humboldt Forum is a music venue in Berlin listed on soundcheck. 11 upcoming nights, with line-ups including Gebrüder Teichmann. Browse upcoming dates, start times and who's playing. Schlossplatz 10178 Berlin.
 
@@ -23,4 +23,4 @@ Humboldt Forum is a music venue in Berlin listed on soundcheck. 11 upcoming nigh
 
 Schlossplatz 10178 Berlin, Berlin
 
-*Updated Sun, 19 Jul 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/humboldt-forum/)*
+*Updated Mon, 20 Jul 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/humboldt-forum/)*

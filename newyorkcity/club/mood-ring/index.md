@@ -1,6 +1,6 @@
 # Mood Ring
 
-Mood Ring is a music venue in New York City with 12 upcoming nights listed on soundcheck as of Sun, 19 Jul 2026; the next is "2 Mello, Dazegxd, DV-i, TV-MA" on Wed, 22 Jul 2026.
+Mood Ring is a music venue in New York City with 12 upcoming nights listed on soundcheck as of Mon, 20 Jul 2026; the next is "2 Mello, Dazegxd, DV-i, TV-MA" on Wed, 22 Jul 2026.
 
 Mood Ring is a music venue in Newyorkcity listed on soundcheck. 12 upcoming nights, with line-ups including ASTER (DJ), Bodegaparty, BUNZ and Cirque Cosmic and 2 more. Browse upcoming dates, start times and who's playing. 1260 Myrtle Ave, Brooklyn, NY 11221, USA.
 
@@ -23,4 +23,4 @@ Mood Ring is a music venue in Newyorkcity listed on soundcheck. 12 upcoming nigh
 
 1260 Myrtle Ave, Brooklyn, NY 11221, USA, New York City
 
-*Updated Sun, 19 Jul 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/mood-ring/)*
+*Updated Mon, 20 Jul 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/mood-ring/)*

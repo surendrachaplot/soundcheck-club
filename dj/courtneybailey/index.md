@@ -1,6 +1,6 @@
 # Courtney Bailey
 
-Courtney Bailey is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Sun, 19 Jul 2026, next at Club der Visionaere, Berlin on Tue, 21 Jul 2026.
+Courtney Bailey is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Mon, 20 Jul 2026, next at Club der Visionaere, Berlin on Tue, 21 Jul 2026.
 
 Courtney Bailey is a house and techno artist tracked on soundcheck, with 73 sets logged across Amsterdam, Bali, Berlin and Bucharest and 14 more. Often billed alongside Tornado Wallace, FFAN and Alicia Carrera. Next up: Club der Visionaere, Berlin on Tue 21 Jul.
 
@@ -26,4 +26,4 @@ Courtney Bailey is a house and techno artist tracked on soundcheck, with 73 sets
 
 Tornado Wallace, FFAN, Alicia Carrera
 
-*Updated Sun, 19 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/courtneybailey/)*
+*Updated Mon, 20 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/courtneybailey/)*

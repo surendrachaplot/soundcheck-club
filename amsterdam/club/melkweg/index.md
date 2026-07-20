@@ -1,8 +1,8 @@
 # Melkweg
 
-Melkweg is a music venue in Amsterdam with 24 upcoming nights listed on soundcheck as of Sun, 19 Jul 2026; the next is "Cheeky Monday: Jade Venom (15 Years of Eatbrain)" on Mon, 20 Jul 2026.
+Melkweg is a music venue in Amsterdam with 26 upcoming nights listed on soundcheck as of Mon, 20 Jul 2026; the next is "Cheeky Monday: Jade Venom (15 Years of Eatbrain)" on Mon, 20 Jul 2026.
 
-Melkweg is a music venue in Amsterdam listed on soundcheck. 24 upcoming nights, with line-ups including Alexa Strange, Alma Negrot, Alírio and A.R.T. and 2 more. Browse upcoming dates, start times and who's playing. Lijnbaansgracht 234/a, 1017 Binnenstad, Amsterdam.
+Melkweg is a music venue in Amsterdam listed on soundcheck. 26 upcoming nights, with line-ups including Alexa Strange, Alma Negrot, Alírio and A.R.T. and 2 more. Browse upcoming dates, start times and who's playing. Lijnbaansgracht 234/a, 1017 Binnenstad, Amsterdam.
 
 ## What's on
 
@@ -23,4 +23,4 @@ Melkweg is a music venue in Amsterdam listed on soundcheck. 24 upcoming nights, 
 
 Lijnbaansgracht 234/a, 1017 Binnenstad, Amsterdam, Amsterdam
 
-*Updated Sun, 19 Jul 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/melkweg/)*
+*Updated Mon, 20 Jul 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/melkweg/)*

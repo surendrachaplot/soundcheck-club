@@ -1,6 +1,6 @@
 # Loora
 
-Loora is a Techno and Tech House artist with 2 upcoming club dates listed on soundcheck as of Sun, 19 Jul 2026, next at Union Club, Vauxhall, London on Sun, 26 Jul 2026.
+Loora is a Techno and Tech House artist with 2 upcoming club dates listed on soundcheck as of Mon, 20 Jul 2026, next at Union Club, Vauxhall, London on Sun, 26 Jul 2026.
 
 Loora is a techno and tech house artist tracked on soundcheck, with 22 sets logged across London. Often billed alongside Thomas Galbardi, Dhez and Diana Loredana. Next up: Union Club, Vauxhall, London on Sun 26 Jul.
 
@@ -26,4 +26,4 @@ Loora is a techno and tech house artist tracked on soundcheck, with 22 sets logg
 
 Thomas Galbardi, Dhez, Diana Loredana
 
-*Updated Sun, 19 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/loora/)*
+*Updated Mon, 20 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/loora/)*

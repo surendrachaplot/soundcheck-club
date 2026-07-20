@@ -1,6 +1,6 @@
 # Lauren Lo Sung
 
-Lauren Lo Sung is a House and Tech House artist with 7 upcoming club dates listed on soundcheck as of Sun, 19 Jul 2026, next at Shelter Amsterdam, Amsterdam on Sat, 8 Aug 2026.
+Lauren Lo Sung is a House and Tech House artist with 7 upcoming club dates listed on soundcheck as of Mon, 20 Jul 2026, next at Shelter Amsterdam, Amsterdam on Sat, 8 Aug 2026.
 
 Lauren Lo Sung is a house and tech house artist tracked on soundcheck, with 100 sets logged across Amsterdam, Barcelona, Berlin and Birmingham and 24 more. Often billed alongside Fabe, Luuk van Dijk and Prunk. Next up: Shelter Amsterdam, Amsterdam on Sat 8 Aug.
 
@@ -31,4 +31,4 @@ Lauren Lo Sung is a house and tech house artist tracked on soundcheck, with 100 
 
 Fabe, Luuk van Dijk, Prunk
 
-*Updated Sun, 19 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/laurenlosung/)*
+*Updated Mon, 20 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/laurenlosung/)*

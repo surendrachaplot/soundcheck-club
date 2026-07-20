@@ -1,6 +1,6 @@
 # imo-Lu
 
-imo-Lu is a Drum & Bass and Jungle artist with 2 upcoming club dates listed on soundcheck as of Sun, 19 Jul 2026, next at Hackney Wick Multiple Venues, London on Sat, 1 Aug 2026.
+imo-Lu is a Drum & Bass and Jungle artist with 2 upcoming club dates listed on soundcheck as of Mon, 20 Jul 2026, next at Hackney Wick Multiple Venues, London on Sat, 1 Aug 2026.
 
 imo-Lu is a drum & bass and jungle artist based in United Kingdom, tracked on soundcheck, with 24 sets logged across Amsterdam, Berlin, Bristol and Edinburgh and 3 more. Often billed alongside Winslow, Corran and Hex (UK). Next up: Hackney Wick Multiple Venues, London on Sat 1 Aug.
 
@@ -26,4 +26,4 @@ imo-Lu is a drum & bass and jungle artist based in United Kingdom, tracked on so
 
 Winslow, Corran, Hex (UK)
 
-*Updated Sun, 19 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/imo-lu/)*
+*Updated Mon, 20 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/imo-lu/)*

@@ -1,6 +1,6 @@
 # DJ Marcelle
 
-DJ Marcelle is a Experimental and Electronica artist with 4 upcoming club dates listed on soundcheck as of Sun, 19 Jul 2026, next at Ormside Projects, London on Sat, 22 Aug 2026.
+DJ Marcelle is a Experimental and Electronica artist with 4 upcoming club dates listed on soundcheck as of Mon, 20 Jul 2026, next at Ormside Projects, London on Sat, 22 Aug 2026.
 
 DJ Marcelle is an experimental and electronica artist based in Netherlands, tracked on soundcheck, with 106 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 33 more. Often billed alongside DjRUM, ojoo and Mala. Next up: Ormside Projects, London on Sat 22 Aug.
 
@@ -28,4 +28,4 @@ DJ Marcelle is an experimental and electronica artist based in Netherlands, trac
 
 DjRUM, ojoo, Mala
 
-*Updated Sun, 19 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/djmarcelle/)*
+*Updated Mon, 20 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/djmarcelle/)*

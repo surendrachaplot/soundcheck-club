@@ -1,19 +1,19 @@
 # Hector Romero
 
-Hector Romero is a House and Deep House artist with 3 upcoming club dates listed on soundcheck as of Sun, 19 Jul 2026, next at The Crown, New York City on Sun, 19 Jul 2026.
+Hector Romero is a House and Deep House artist with 2 upcoming club dates listed on soundcheck as of Mon, 20 Jul 2026, next at La Terrrazza, Barcelona on Sat, 8 Aug 2026.
 
-Hector Romero is a house and deep house artist tracked on soundcheck, with 33 sets logged across Barcelona, Detroit, Frankfurt and Miami and 4 more. Often billed alongside Mr. V, Piem and Anna Tur. Next up: The Crown, Newyorkcity on Sun 19 Jul.
+Hector Romero is a house and deep house artist tracked on soundcheck, with 33 sets logged across Barcelona, Detroit, Frankfurt and Miami and 4 more. Often billed alongside Mr. V, Piem and Anna Tur. Next up: La Terrrazza, Barcelona on Sat 8 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sun, 19 Jul 2026 | The Crown | New York City |
 | Sat, 8 Aug 2026 | La Terrrazza | Barcelona |
 | Fri, 25 Sept 2026 | TV Lounge | Detroit |
 
 ## Recently played
 
+- The Crown, New York City — Sun, 19 Jul 2026
 - Superior Ingredients, New York City — Sat, 6 Jun 2026
 - Deutsche Bank Park, Frankfurt — Fri, 5 Jun 2026
 - Mad Radio Miami, Miami — Fri, 15 May 2026
@@ -21,10 +21,9 @@ Hector Romero is a house and deep house artist tracked on soundcheck, with 33 se
 - Outer Heaven, New York City — Wed, 8 Apr 2026
 - Astra Miami, Miami — Thu, 26 Mar 2026
 - Jean’s, New York City — Sun, 22 Feb 2026
-- Wiggle Room, Toronto — Sat, 31 Jan 2026
 
 ## Shares bills with
 
 Mr. V, Piem, Anna Tur
 
-*Updated Sun, 19 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/hectorromero/)*
+*Updated Mon, 20 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/hectorromero/)*

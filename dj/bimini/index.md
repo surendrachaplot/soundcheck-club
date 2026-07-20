@@ -1,6 +1,6 @@
 # Bimini
 
-Bimini is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Sun, 19 Jul 2026, next at TBA - M&S Bank Arena, Liverpool on Fri, 24 Jul 2026.
+Bimini is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Mon, 20 Jul 2026, next at TBA - M&S Bank Arena, Liverpool on Fri, 24 Jul 2026.
 
 Bimini is a techno and house artist tracked on soundcheck, with 43 sets logged across Amsterdam, Antwerp, Berlin and Brisbane and 16 more. Often billed alongside ABSOLUTE., Hannah Holland and Horse Meat Disco. Next up: TBA - M&S Bank Arena, Liverpool on Fri 24 Jul.
 
@@ -27,4 +27,4 @@ Bimini is a techno and house artist tracked on soundcheck, with 43 sets logged a
 
 ABSOLUTE., Hannah Holland, Horse Meat Disco
 
-*Updated Sun, 19 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/bimini/)*
+*Updated Mon, 20 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/bimini/)*

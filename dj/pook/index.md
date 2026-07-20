@@ -1,6 +1,6 @@
 # POoK
 
-POoK is a Techno and Progressive House artist with 2 upcoming club dates listed on soundcheck as of Sun, 19 Jul 2026, next at TBA - Various Venues, Brighton on Sat, 1 Aug 2026.
+POoK is a Techno and Progressive House artist with 2 upcoming club dates listed on soundcheck as of Mon, 20 Jul 2026, next at TBA - Various Venues, Brighton on Sat, 1 Aug 2026.
 
 POoK is a techno and progressive house artist based in United Kingdom, tracked on soundcheck, with 23 sets logged across Brighton and Leeds. Often billed alongside Lola (UK), Koipinoxia and Markus Saarländer. Next up: TBA - Various Venues, Brighton on Sat 1 Aug.
 
@@ -26,4 +26,4 @@ POoK is a techno and progressive house artist based in United Kingdom, tracked o
 
 Lola (UK), Koipinoxia, Markus Saarländer
 
-*Updated Sun, 19 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/pook/)*
+*Updated Mon, 20 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/pook/)*

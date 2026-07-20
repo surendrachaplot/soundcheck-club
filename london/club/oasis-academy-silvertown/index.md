@@ -1,6 +1,6 @@
 # Oasis Academy Silvertown
 
-Oasis Academy Silvertown is a music venue in London with 1 upcoming night listed on soundcheck as of Sun, 19 Jul 2026; the next is "London Ragas: Breath into Sound - Pandit Ajay Prasanna" on Thu, 20 Aug 2026.
+Oasis Academy Silvertown is a music venue in London with 1 upcoming night listed on soundcheck as of Mon, 20 Jul 2026; the next is "London Ragas: Breath into Sound - Pandit Ajay Prasanna" on Thu, 20 Aug 2026.
 
 Oasis Academy Silvertown is a music venue in London listed on soundcheck. 1 upcoming night. Browse upcoming dates, start times and who's playing.
 
@@ -10,4 +10,4 @@ Oasis Academy Silvertown is a music venue in London listed on soundcheck. 1 upco
 | --- | --- | --- |
 | Thu, 20 Aug 2026 | London Ragas: Breath into Sound - Pandit Ajay Prasanna |  |
 
-*Updated Sun, 19 Jul 2026 · source: [soundcheck](https://soundcheck.club/london/club/oasis-academy-silvertown/)*
+*Updated Mon, 20 Jul 2026 · source: [soundcheck](https://soundcheck.club/london/club/oasis-academy-silvertown/)*

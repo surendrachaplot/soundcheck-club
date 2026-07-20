@@ -1,6 +1,6 @@
 # Kruder & Dorfmeister
 
-Kruder & Dorfmeister is a Techno and Breakbeat artist with 2 upcoming club dates listed on soundcheck as of Sun, 19 Jul 2026, next at 528 Ibiza, Ibiza on Sat, 12 Sept 2026.
+Kruder & Dorfmeister is a Techno and Breakbeat artist with 2 upcoming club dates listed on soundcheck as of Mon, 20 Jul 2026, next at 528 Ibiza, Ibiza on Sat, 12 Sept 2026.
 
 Kruder & Dorfmeister are a techno and breakbeat duo based in Austria, tracked on soundcheck, with 32 sets logged across Amsterdam, Athens, Basel and Berlin and 17 more. Often billed alongside Carl Craig, Bonobo and Dixon. Next up: 528 Ibiza, Ibiza on Sat 12 Sept.
 
@@ -26,4 +26,4 @@ Kruder & Dorfmeister are a techno and breakbeat duo based in Austria, tracked on
 
 Carl Craig, Bonobo, Dixon
 
-*Updated Sun, 19 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/kruder-dorfmeister/)*
+*Updated Mon, 20 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/kruder-dorfmeister/)*

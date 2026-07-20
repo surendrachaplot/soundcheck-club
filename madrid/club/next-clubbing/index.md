@@ -1,6 +1,6 @@
 # Next Clubbing
 
-Next Clubbing is a music venue in Madrid with 6 upcoming nights listed on soundcheck as of Sun, 19 Jul 2026; the next is "Martes Locos by MAD RAVE" on Tue, 21 Jul 2026.
+Next Clubbing is a music venue in Madrid with 6 upcoming nights listed on soundcheck as of Mon, 20 Jul 2026; the next is "Martes Locos by MAD RAVE" on Tue, 21 Jul 2026.
 
 Next Clubbing is a music venue in Madrid listed on soundcheck. 6 upcoming nights, with line-ups including Larouge and Nigabba. Browse upcoming dates, start times and who's playing. C. del Poeta Joan Maragall, 19, Tetuán, 28020 Madrid.
 
@@ -19,4 +19,4 @@ Next Clubbing is a music venue in Madrid listed on soundcheck. 6 upcoming nights
 
 C. del Poeta Joan Maragall, 19, Tetuán, 28020 Madrid, Madrid
 
-*Updated Sun, 19 Jul 2026 · source: [soundcheck](https://soundcheck.club/madrid/club/next-clubbing/)*
+*Updated Mon, 20 Jul 2026 · source: [soundcheck](https://soundcheck.club/madrid/club/next-clubbing/)*

@@ -1,6 +1,6 @@
 # Stanton Warriors
 
-Stanton Warriors is a Breakbeat and Bass artist with 2 upcoming club dates listed on soundcheck as of Sun, 19 Jul 2026, next at Europa Boat, Budapest on Sat, 22 Aug 2026.
+Stanton Warriors is a Breakbeat and Bass artist with 2 upcoming club dates listed on soundcheck as of Mon, 20 Jul 2026, next at Europa Boat, Budapest on Sat, 22 Aug 2026.
 
 Stanton Warriors is a breakbeat and bass artist based in United Kingdom, tracked on soundcheck, with 36 sets logged across Berlin, Birmingham, Brighton and Brisbane and 9 more. Often billed alongside Krafty Kuts, Plump DJs and Evil Nine. Next up: Europa Boat, Budapest on Sat 22 Aug.
 
@@ -26,4 +26,4 @@ Stanton Warriors is a breakbeat and bass artist based in United Kingdom, tracked
 
 Krafty Kuts, Plump DJs, Evil Nine
 
-*Updated Sun, 19 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/stantonwarriors/)*
+*Updated Mon, 20 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/stantonwarriors/)*

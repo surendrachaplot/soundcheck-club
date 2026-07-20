@@ -1,6 +1,6 @@
 # DJ Fitness
 
-DJ Fitness is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Sun, 19 Jul 2026, next at Panke, Berlin on Sat, 25 Jul 2026.
+DJ Fitness is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Mon, 20 Jul 2026, next at Panke, Berlin on Sat, 25 Jul 2026.
 
 DJ Fitness is a house and techno artist based in Mexico, tracked on soundcheck, with 24 sets logged across Berlin, Denver, Miami and Newyorkcity. Often billed alongside Brother Dan, EZ Dee and Jonny From Space. Next up: Panke, Berlin on Sat 25 Jul.
 
@@ -26,4 +26,4 @@ DJ Fitness is a house and techno artist based in Mexico, tracked on soundcheck, 
 
 Brother Dan, EZ Dee, Jonny From Space
 
-*Updated Sun, 19 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/djfitness/)*
+*Updated Mon, 20 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/djfitness/)*

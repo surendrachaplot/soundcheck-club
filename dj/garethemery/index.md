@@ -1,6 +1,6 @@
 # Gareth Emery
 
-Gareth Emery is a Trance and Progressive House artist with 3 upcoming club dates listed on soundcheck as of Sun, 19 Jul 2026, next at The Concourse Project, Austin on Sat, 12 Sept 2026.
+Gareth Emery is a Trance and Progressive House artist with 3 upcoming club dates listed on soundcheck as of Mon, 20 Jul 2026, next at The Concourse Project, Austin on Sat, 12 Sept 2026.
 
 Gareth Emery is a trance and progressive house artist tracked on soundcheck, with 35 sets logged across Austin, Boston, Chicago and London and 11 more. Often billed alongside Ferry Corsten, Billy Gillies and Cosmic Gate. Next up: The Concourse Project, Austin on Sat 12 Sept.
 
@@ -27,4 +27,4 @@ Gareth Emery is a trance and progressive house artist tracked on soundcheck, wit
 
 Ferry Corsten, Billy Gillies, Cosmic Gate
 
-*Updated Sun, 19 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/garethemery/)*
+*Updated Mon, 20 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/garethemery/)*

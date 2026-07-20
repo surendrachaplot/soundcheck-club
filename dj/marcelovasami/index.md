@@ -1,6 +1,6 @@
 # Marcelo Vasami
 
-Marcelo Vasami is a Progressive House and Techno artist with 2 upcoming club dates listed on soundcheck as of Sun, 19 Jul 2026, next at Akvárium Klub, Budapest on Fri, 24 Jul 2026.
+Marcelo Vasami is a Progressive House and Techno artist with 2 upcoming club dates listed on soundcheck as of Mon, 20 Jul 2026, next at Akvárium Klub, Budapest on Fri, 24 Jul 2026.
 
 Marcelo Vasami is a progressive house and techno artist tracked on soundcheck, with 35 sets logged across Amsterdam, Barcelona, Belgrade and Budapest and 8 more. Often billed alongside Nicolas Rada, Antrim and Agustin Ficarra. Next up: Akvárium Klub, Budapest on Fri 24 Jul.
 
@@ -26,4 +26,4 @@ Marcelo Vasami is a progressive house and techno artist tracked on soundcheck, w
 
 Nicolas Rada, Antrim, Agustin Ficarra
 
-*Updated Sun, 19 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/marcelovasami/)*
+*Updated Mon, 20 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/marcelovasami/)*

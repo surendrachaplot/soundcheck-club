@@ -1,6 +1,6 @@
 # Matthew Dear
 
-Matthew Dear is a Techno and House artist with 4 upcoming club dates listed on soundcheck as of Sun, 19 Jul 2026, next at American Legion Marsh Post #442, Boston on Sat, 25 Jul 2026.
+Matthew Dear is a Techno and House artist with 4 upcoming club dates listed on soundcheck as of Mon, 20 Jul 2026, next at American Legion Marsh Post #442, Boston on Sat, 25 Jul 2026.
 
 Matthew Dear is a techno and house artist tracked on soundcheck, with 48 sets logged across Barcelona, Berlin, Boston and Chicago and 12 more. Often billed alongside Juan Maclean, Carl Craig and Trip Report. Next up: American Legion Marsh Post #442, Boston on Sat 25 Jul.
 
@@ -28,4 +28,4 @@ Matthew Dear is a techno and house artist tracked on soundcheck, with 48 sets lo
 
 Juan Maclean, Carl Craig, Trip Report
 
-*Updated Sun, 19 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/matthewdear/)*
+*Updated Mon, 20 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/matthewdear/)*

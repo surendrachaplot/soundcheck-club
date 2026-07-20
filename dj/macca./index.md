@@ -1,6 +1,6 @@
 # Macca.
 
-Macca. is a House and Disco artist with 2 upcoming club dates listed on soundcheck as of Sun, 19 Jul 2026, next at Freight Island Newcastle, Newcastle on Sun, 2 Aug 2026.
+Macca. is a House and Disco artist with 2 upcoming club dates listed on soundcheck as of Mon, 20 Jul 2026, next at Freight Island Newcastle, Newcastle on Sun, 2 Aug 2026.
 
 Macca. is a house and disco artist tracked on soundcheck, with 48 sets logged across Dublin, Edinburgh, Ibiza and Leeds and 5 more. Often billed alongside Sofie K, Secretsundaze and Cosmo Sofi. Next up: Freight Island Newcastle, Newcastle on Sun 2 Aug.
 
@@ -26,4 +26,4 @@ Macca. is a house and disco artist tracked on soundcheck, with 48 sets logged ac
 
 Sofie K, Secretsundaze, Cosmo Sofi
 
-*Updated Sun, 19 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/macca./)*
+*Updated Mon, 20 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/macca./)*

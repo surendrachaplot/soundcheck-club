@@ -1,6 +1,6 @@
 # NDSTPS
 
-NDSTPS is a Techno and Minimal artist with 2 upcoming club dates listed on soundcheck as of Sun, 19 Jul 2026, next at RADION, Amsterdam on Sat, 25 Jul 2026.
+NDSTPS is a Techno and Minimal artist with 2 upcoming club dates listed on soundcheck as of Mon, 20 Jul 2026, next at RADION, Amsterdam on Sat, 25 Jul 2026.
 
 NDSTPS is a techno and minimal artist based in Spain, tracked on soundcheck, with 26 sets logged across Amsterdam, Berlin and Madrid. Often billed alongside Yeiks, BENZA and Reptile (ES). Next up: RADION, Amsterdam on Sat 25 Jul.
 
@@ -26,4 +26,4 @@ NDSTPS is a techno and minimal artist based in Spain, tracked on soundcheck, wit
 
 Yeiks, BENZA, Reptile (ES)
 
-*Updated Sun, 19 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/ndstps/)*
+*Updated Mon, 20 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/ndstps/)*
