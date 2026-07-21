@@ -1,6 +1,6 @@
 # Yes
 
-Yes is a music venue in Manchester with 5 upcoming nights listed on soundcheck as of Mon, 20 Jul 2026; the next is "SHELLING.IT 006" on Sun, 30 Aug 2026.
+Yes is a music venue in Manchester with 5 upcoming nights listed on soundcheck as of Tue, 21 Jul 2026; the next is "SHELLING.IT 006" on Sun, 30 Aug 2026.
 
 Yes is a music venue in Manchester listed on soundcheck. 5 upcoming nights, with line-ups including 1-800 GIRLS and Digitalism. Browse upcoming dates, start times and who's playing. 38 Charles Street Manchester, M1 7BD, United Kingdom.
 
@@ -18,4 +18,4 @@ Yes is a music venue in Manchester listed on soundcheck. 5 upcoming nights, with
 
 38 Charles Street Manchester, M1 7BD, United Kingdom, Manchester
 
-*Updated Mon, 20 Jul 2026 · source: [soundcheck](https://soundcheck.club/manchester/club/yes/)*
+*Updated Tue, 21 Jul 2026 · source: [soundcheck](https://soundcheck.club/manchester/club/yes/)*

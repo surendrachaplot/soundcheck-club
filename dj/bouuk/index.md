@@ -1,6 +1,6 @@
 # Bou (UK)
 
-Bou (UK) is a Drum & Bass and Jungle artist with 3 upcoming club dates listed on soundcheck as of Mon, 20 Jul 2026, next at Sawmills, Bristol on Sat, 12 Sept 2026.
+Bou (UK) is a Drum & Bass and Jungle artist with 3 upcoming club dates listed on soundcheck as of Tue, 21 Jul 2026, next at Sawmills, Bristol on Sat, 12 Sept 2026.
 
 Bou (UK) is a drum & bass and jungle artist tracked on soundcheck, with 84 sets logged across Amsterdam, Auckland, Austin and Bali and 34 more. Often billed alongside Andy C, Kanine and Turno. Next up: Sawmills, Bristol on Sat 12 Sept.
 
@@ -27,4 +27,4 @@ Bou (UK) is a drum & bass and jungle artist tracked on soundcheck, with 84 sets 
 
 Andy C, Kanine, Turno
 
-*Updated Mon, 20 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/bouuk/)*
+*Updated Tue, 21 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/bouuk/)*

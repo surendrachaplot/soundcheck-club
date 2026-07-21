@@ -1,6 +1,6 @@
 # TBA - Lulú Club, Palermo
 
-TBA - Lulú Club, Palermo is a music venue in Buenos Aires with 1 upcoming night listed on soundcheck as of Mon, 20 Jul 2026; the next is "Hunter/Game & MORE ARTISTS - by LULÚ, PALERMO" on Sat, 25 Jul 2026.
+TBA - Lulú Club, Palermo is a music venue in Buenos Aires with 1 upcoming night listed on soundcheck as of Tue, 21 Jul 2026; the next is "Hunter/Game & MORE ARTISTS - by LULÚ, PALERMO" on Sat, 25 Jul 2026.
 
 TBA - Lulú Club, Palermo is a music venue in Buenosaires listed on soundcheck. 1 upcoming night, with line-ups including Hunter/Game. Browse upcoming dates, start times and who's playing.
 
@@ -10,4 +10,4 @@ TBA - Lulú Club, Palermo is a music venue in Buenosaires listed on soundcheck. 
 | --- | --- | --- |
 | Sat, 25 Jul 2026 | Hunter/Game & MORE ARTISTS - by LULÚ, PALERMO | Hunter/Game |
 
-*Updated Mon, 20 Jul 2026 · source: [soundcheck](https://soundcheck.club/buenosaires/club/tba-lul-club-palermo/)*
+*Updated Tue, 21 Jul 2026 · source: [soundcheck](https://soundcheck.club/buenosaires/club/tba-lul-club-palermo/)*

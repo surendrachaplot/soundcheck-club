@@ -1,6 +1,6 @@
 # Plex
 
-Plex is a music venue in Athens with 1 upcoming night listed on soundcheck as of Mon, 20 Jul 2026; the next is "SIRNXX presents: Erotic Discount Club" on Sat, 1 Aug 2026.
+Plex is a music venue in Athens with 1 upcoming night listed on soundcheck as of Tue, 21 Jul 2026; the next is "SIRNXX presents: Erotic Discount Club" on Sat, 1 Aug 2026.
 
 Plex is a music venue in Athens listed on soundcheck. 1 upcoming night, with line-ups including Evita Manji, Joseph Mouzakitis, Porschelane and TERPSICHORREE and 1 more. Browse upcoming dates, start times and who's playing. Keramikou 28, 104 36, Athens, Greece.
 
@@ -14,4 +14,4 @@ Plex is a music venue in Athens listed on soundcheck. 1 upcoming night, with lin
 
 Keramikou 28, 104 36, Athens, Greece, Athens
 
-*Updated Mon, 20 Jul 2026 · source: [soundcheck](https://soundcheck.club/athens/club/plex/)*
+*Updated Tue, 21 Jul 2026 · source: [soundcheck](https://soundcheck.club/athens/club/plex/)*

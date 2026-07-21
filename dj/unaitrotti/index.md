@@ -1,14 +1,15 @@
 # Unai Trotti
 
-Unai Trotti is a Techno and House artist with 5 upcoming club dates listed on soundcheck as of Mon, 20 Jul 2026, next at Palais, London on Fri, 14 Aug 2026.
+Unai Trotti is a Techno and House artist with 6 upcoming club dates listed on soundcheck as of Tue, 21 Jul 2026, next at Palais, London on Fri, 14 Aug 2026.
 
-Unai Trotti is a techno and house artist tracked on soundcheck, with 156 sets logged across Amsterdam, Antwerp, Austin and Bali and 44 more. Often billed alongside Z@p, Vass and Junki Inoue. Next up: Palais, London on Fri 14 Aug.
+Unai Trotti is a techno and house artist tracked on soundcheck, with 157 sets logged across Amsterdam, Antwerp, Austin and Bali and 45 more. Often billed alongside Z@p, Vass and Junki Inoue. Next up: Palais, London on Fri 14 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 14 Aug 2026 | Palais | London |
+| Fri, 14 Aug 2026 | Hall | Tallinn |
 | Sat, 5 Sept 2026 | TBA - Naples | Naples |
 | Sat, 12 Sept 2026 | Bunker | Turin |
 | Fri, 18 Sept 2026 | Fort Mifflin | Philadelphia |
@@ -29,4 +30,4 @@ Unai Trotti is a techno and house artist tracked on soundcheck, with 156 sets lo
 
 Z@p, Vass, Junki Inoue
 
-*Updated Mon, 20 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/unaitrotti/)*
+*Updated Tue, 21 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/unaitrotti/)*

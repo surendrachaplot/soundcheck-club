@@ -1,6 +1,6 @@
 # ANOTR
 
-ANOTR is a House and Tech House artist with 8 upcoming club dates listed on soundcheck as of Mon, 20 Jul 2026, next at Flevopark, Amsterdam on Sat, 25 Jul 2026.
+ANOTR is a House and Tech House artist with 8 upcoming club dates listed on soundcheck as of Tue, 21 Jul 2026, next at Flevopark, Amsterdam on Sat, 25 Jul 2026.
 
 ANOTR is a house and tech house artist tracked on soundcheck, with 149 sets logged across Amsterdam, Antwerp, Bali and Barcelona and 32 more. Often billed alongside Seth Troxler, Dennis Cruz and Toman. Next up: Flevopark, Amsterdam on Sat 25 Jul.
 
@@ -32,4 +32,4 @@ ANOTR is a house and tech house artist tracked on soundcheck, with 149 sets logg
 
 Seth Troxler, Dennis Cruz, Toman
 
-*Updated Mon, 20 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/anotr/)*
+*Updated Tue, 21 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/anotr/)*

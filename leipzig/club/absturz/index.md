@@ -1,6 +1,6 @@
 # Absturz
 
-Absturz is a music venue in Leipzig with 5 upcoming nights listed on soundcheck as of Mon, 20 Jul 2026; the next is "Kolibri Kollektiv x Absturz" on Fri, 24 Jul 2026.
+Absturz is a music venue in Leipzig with 5 upcoming nights listed on soundcheck as of Tue, 21 Jul 2026; the next is "Kolibri Kollektiv x Absturz" on Fri, 24 Jul 2026.
 
 Absturz is a music venue in Leipzig listed on soundcheck. 5 upcoming nights, with line-ups including CAVVØ, KETA PERRY, Meyhartt and ZeroSound. Browse upcoming dates, start times and who's playing. Karl-Liebknecht-Str. 36, 04107 Leipzig.
 
@@ -18,4 +18,4 @@ Absturz is a music venue in Leipzig listed on soundcheck. 5 upcoming nights, wit
 
 Karl-Liebknecht-Str. 36, 04107 Leipzig, Leipzig
 
-*Updated Mon, 20 Jul 2026 · source: [soundcheck](https://soundcheck.club/leipzig/club/absturz/)*
+*Updated Tue, 21 Jul 2026 · source: [soundcheck](https://soundcheck.club/leipzig/club/absturz/)*

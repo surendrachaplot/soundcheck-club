@@ -1,6 +1,6 @@
 # Jana Rush
 
-Jana Rush is a Footwork and House artist with 4 upcoming club dates listed on soundcheck as of Mon, 20 Jul 2026, next at smartbar, Chicago on Fri, 24 Jul 2026.
+Jana Rush is a Footwork and House artist with 4 upcoming club dates listed on soundcheck as of Tue, 21 Jul 2026, next at smartbar, Chicago on Fri, 24 Jul 2026.
 
 Jana Rush is a footwork and house artist based in United States of America, tracked on soundcheck, with 45 sets logged across Berlin, Brussels, Chicago and Copenhagen and 6 more. Often billed alongside Traxman, DJ Hank (US) and DJ Spinn. Next up: smartbar, Chicago on Fri 24 Jul.
 
@@ -28,4 +28,4 @@ Jana Rush is a footwork and house artist based in United States of America, trac
 
 Traxman, DJ Hank (US), DJ Spinn
 
-*Updated Mon, 20 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/janarush/)*
+*Updated Tue, 21 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/janarush/)*

@@ -1,6 +1,6 @@
 # Vice Experience
 
-Vice Experience is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Mon, 20 Jul 2026, next at Radio Campus Paris, Paris on Thu, 6 Aug 2026.
+Vice Experience is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Tue, 21 Jul 2026, next at Radio Campus Paris, Paris on Thu, 6 Aug 2026.
 
 Vice Experience is a techno and house artist tracked on soundcheck, with 133 sets logged across Brussels, Buenosaires, Lisbon and Lyon and 2 more. Often billed alongside euler, French Phil and GLAD. Next up: Radio Campus Paris, Paris on Thu 6 Aug.
 
@@ -26,4 +26,4 @@ Vice Experience is a techno and house artist tracked on soundcheck, with 133 set
 
 euler, French Phil, GLAD
 
-*Updated Mon, 20 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/viceexperience/)*
+*Updated Tue, 21 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/viceexperience/)*

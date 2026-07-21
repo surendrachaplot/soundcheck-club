@@ -1,6 +1,6 @@
 # komunal
 
-komunal is a music venue in Birmingham with 4 upcoming nights listed on soundcheck as of Mon, 20 Jul 2026; the next is "Dubøka with Mark Birch, Josh Birch, Cue Trax + Josh Gregg" on Fri, 24 Jul 2026.
+komunal is a music venue in Birmingham with 4 upcoming nights listed on soundcheck as of Tue, 21 Jul 2026; the next is "Dubøka with Mark Birch, Josh Birch, Cue Trax + Josh Gregg" on Fri, 24 Jul 2026.
 
 komunal is a music venue in Birmingham listed on soundcheck. 4 upcoming nights, with line-ups including Josh Gregg. Browse upcoming dates, start times and who's playing. 11 Shaw's Passage, Digbeth, B5 5JG.
 
@@ -17,4 +17,4 @@ komunal is a music venue in Birmingham listed on soundcheck. 4 upcoming nights, 
 
 11 Shaw's Passage, Digbeth, B5 5JG, Birmingham
 
-*Updated Mon, 20 Jul 2026 · source: [soundcheck](https://soundcheck.club/birmingham/club/komunal/)*
+*Updated Tue, 21 Jul 2026 · source: [soundcheck](https://soundcheck.club/birmingham/club/komunal/)*

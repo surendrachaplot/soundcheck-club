@@ -1,6 +1,6 @@
 # Stanislav Tolkachev
 
-Stanislav Tolkachev is a Techno and Electro artist with 2 upcoming club dates listed on soundcheck as of Mon, 20 Jul 2026, next at Spreefeld Bootshaus, Berlin on Wed, 29 Jul 2026.
+Stanislav Tolkachev is a Techno and Electro artist with 2 upcoming club dates listed on soundcheck as of Tue, 21 Jul 2026, next at Spreefeld Bootshaus, Berlin on Wed, 29 Jul 2026.
 
 Stanislav Tolkachev is a techno and electro artist tracked on soundcheck, with 66 sets logged across Amsterdam, Barcelona, Berlin and Brussels and 14 more. Often billed alongside Katya Milch, Nastia and Louwave. Next up: Spreefeld Bootshaus, Berlin on Wed 29 Jul.
 
@@ -26,4 +26,4 @@ Stanislav Tolkachev is a techno and electro artist tracked on soundcheck, with 6
 
 Katya Milch, Nastia, Louwave
 
-*Updated Mon, 20 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/stanislavtolkachev/)*
+*Updated Tue, 21 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/stanislavtolkachev/)*

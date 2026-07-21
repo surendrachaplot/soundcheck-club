@@ -1,16 +1,16 @@
 # Starlane Pizza Bar
 
-Starlane Pizza Bar is a music venue in London with 22 upcoming nights listed on soundcheck as of Mon, 20 Jul 2026; the next is "INTO THE WOODS 10TH ANNIVERSARY PART 2 - OCTAVE (RO), LA CASSETTE, FLORA THA EXPLORA (12 HOUR)" on Fri, 24 Jul 2026.
+Starlane Pizza Bar is a music venue in London with 25 upcoming nights listed on soundcheck as of Tue, 21 Jul 2026; the next is "INTO THE WOODS 10TH ANNIVERSARY PART 2 - OCTAVE (RO), LA CASSETTE, FLORA THA EXPLORA (12 HOUR)" on Fri, 24 Jul 2026.
 
-Starlane Pizza Bar is a music venue in London listed on soundcheck. 22 upcoming nights, with line-ups including TommyGDJ, Aniaef, Brands and Cardinal Sound and 2 more. Browse upcoming dates, start times and who's playing. 12 Cody Road, E16 4SR London, United Kingdom.
+Starlane Pizza Bar is a music venue in London listed on soundcheck. 25 upcoming nights, with line-ups including TommyGDJ, Aniaef, Brands and Cardinal Sound and 2 more. Browse upcoming dates, start times and who's playing. 12 Cody Road, E16 4SR London, United Kingdom.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Fri, 24 Jul 2026 | INTO THE WOODS 10TH ANNIVERSARY PART 2 - OCTAVE (RO), LA CASSETTE, FLORA THA EXPLORA (12 HOUR) | Cristi Klebleev, FLORA THA EXPLORA, Guillaume Cartier, Mano Andrei, Octave Ian, krif |
+| Fri, 24 Jul 2026 | INTO THE WOODS 10TH ANNIVERSARY PART 2 - OCTAVE (RO), LA CASSETTE, FLORA THA EXPLORA (12 HOUR) | Cristi Klebleev, FLORA THA EXPLORA, Guillaume Cartier, La.Cassette, Mano Andrei, Octave Ian, krif |
 | Sat, 25 Jul 2026 | Starlane presents: Praslea, Timoti, Nate Oldfield | Oldfield, Praslea, Timoti |
-| Sat, 25 Jul 2026 | Sweet Greens: Vol. 2 - DAY & NIGHT | Dolce Verde |
+| Sat, 25 Jul 2026 | Sweet Greens: Vol. 2 - DAY & NIGHT | Dolce Verde, Scrapbook |
 | Fri, 31 Jul 2026 | JFF invites StandUP - Just For Fun 4 | Monterosso, Oren (IT), Oren., Save P, Ughe, Vlad Ioachimescu, Yuma (UK) |
 | Sat, 1 Aug 2026 | Nitty Gritty presents: Moon Till Noon |  |
 | Sat, 1 Aug 2026 | Brady and Friends | Brands, Diego Gee, K.Wilson, Matt Arnold, Olly Brady, SMOKEYY |
@@ -23,4 +23,4 @@ Starlane Pizza Bar is a music venue in London listed on soundcheck. 22 upcoming 
 
 12 Cody Road, E16 4SR London, United Kingdom, London
 
-*Updated Mon, 20 Jul 2026 · source: [soundcheck](https://soundcheck.club/london/club/starlane-pizza-bar/)*
+*Updated Tue, 21 Jul 2026 · source: [soundcheck](https://soundcheck.club/london/club/starlane-pizza-bar/)*

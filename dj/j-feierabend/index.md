@@ -1,6 +1,6 @@
 # Julian Feierabend
 
-Julian Feierabend is a House and Club artist with 2 upcoming club dates listed on soundcheck as of Mon, 20 Jul 2026, next at TBA - Secret Open Air, Berlin on Sat, 1 Aug 2026.
+Julian Feierabend is a House and Club artist with 2 upcoming club dates listed on soundcheck as of Tue, 21 Jul 2026, next at TBA - Secret Open Air, Berlin on Sat, 1 Aug 2026.
 
 Julian Feierabend is a house and club artist based in Germany, tracked on soundcheck, with 42 sets logged across Amsterdam, Barcelona, Berlin and Cologne and 3 more. Often billed alongside Ramî, Paul Kine and Thalo Santana. Next up: TBA - Secret Open Air, Berlin on Sat 1 Aug.
 
@@ -26,4 +26,4 @@ Julian Feierabend is a house and club artist based in Germany, tracked on soundc
 
 Ramî, Paul Kine, Thalo Santana
 
-*Updated Mon, 20 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/j-feierabend/)*
+*Updated Tue, 21 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/j-feierabend/)*

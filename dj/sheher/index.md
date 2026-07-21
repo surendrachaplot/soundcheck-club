@@ -1,6 +1,6 @@
 # SHE/HER
 
-SHE/HER is a Techno and House artist with 4 upcoming club dates listed on soundcheck as of Mon, 20 Jul 2026, next at RADION, Amsterdam on Sat, 25 Jul 2026.
+SHE/HER is a Techno and House artist with 4 upcoming club dates listed on soundcheck as of Tue, 21 Jul 2026, next at RADION, Amsterdam on Sat, 25 Jul 2026.
 
 SHE/HER is a techno and house artist tracked on soundcheck, with 59 sets logged across Amsterdam, Berlin, Prague and Rotterdam and 1 more. Often billed alongside Flits, Lasse and Isaiah (NL). Next up: RADION, Amsterdam on Sat 25 Jul.
 
@@ -28,4 +28,4 @@ SHE/HER is a techno and house artist tracked on soundcheck, with 59 sets logged 
 
 Flits, Lasse, Isaiah (NL)
 
-*Updated Mon, 20 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/sheher/)*
+*Updated Tue, 21 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/sheher/)*

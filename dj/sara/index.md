@@ -1,6 +1,6 @@
 # SARA
 
-SARA is a House and Hip-Hop artist with 2 upcoming club dates listed on soundcheck as of Mon, 20 Jul 2026, next at Crack Bellmer, Berlin on Thu, 23 Jul 2026.
+SARA is a House and Hip-Hop artist with 2 upcoming club dates listed on soundcheck as of Tue, 21 Jul 2026, next at Crack Bellmer, Berlin on Thu, 23 Jul 2026.
 
 SARA is a house and hip-hop artist based in Colombia, tracked on soundcheck, with 37 sets logged across Amsterdam, Barcelona, Berlin and Frankfurt and 4 more. Often billed alongside MAO, PUNK N MATRIX and Roy (PT). Next up: Crack Bellmer, Berlin on Thu 23 Jul.
 
@@ -26,4 +26,4 @@ SARA is a house and hip-hop artist based in Colombia, tracked on soundcheck, wit
 
 MAO, PUNK N MATRIX, Roy (PT)
 
-*Updated Mon, 20 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/sara/)*
+*Updated Tue, 21 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/sara/)*

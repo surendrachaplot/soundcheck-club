@@ -1,6 +1,6 @@
 # AWSM
 
-AWSM is a House and Tech House artist with 2 upcoming club dates listed on soundcheck as of Mon, 20 Jul 2026, next at Süss War Gestern, Berlin on Sat, 25 Jul 2026.
+AWSM is a House and Tech House artist with 2 upcoming club dates listed on soundcheck as of Tue, 21 Jul 2026, next at Süss War Gestern, Berlin on Sat, 25 Jul 2026.
 
 AWSM is a house and tech house artist based in Germany, tracked on soundcheck, with 26 sets logged across Berlin. Often billed alongside Thomas Haak, Alex Gallus and BUTTCHIN. Next up: Süss War Gestern, Berlin on Sat 25 Jul.
 
@@ -26,4 +26,4 @@ AWSM is a house and tech house artist based in Germany, tracked on soundcheck, w
 
 Thomas Haak, Alex Gallus, BUTTCHIN
 
-*Updated Mon, 20 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/awsm/)*
+*Updated Tue, 21 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/awsm/)*

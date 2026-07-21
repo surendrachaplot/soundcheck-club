@@ -1,8 +1,8 @@
 # R Lounge
 
-R Lounge is a music venue in Tokyo with 14 upcoming nights listed on soundcheck as of Mon, 20 Jul 2026; the next is "on" on Thu, 23 Jul 2026.
+R Lounge is a music venue in Tokyo with 16 upcoming nights listed on soundcheck as of Tue, 21 Jul 2026; the next is "on" on Thu, 23 Jul 2026.
 
-R Lounge is a music venue in Tokyo listed on soundcheck. 14 upcoming nights, with line-ups including AOI BLOOM, Ayana Pattra, Conures (DJ Tokunaga) and DJ endorphin and 2 more. Browse upcoming dates, start times and who's playing. Tosen Udagawa Bld. 6F/7F, 4-7, Udagawa, Shibuya, Tokyo, 150-0042, JPN.
+R Lounge is a music venue in Tokyo listed on soundcheck. 16 upcoming nights, with line-ups including AOI BLOOM, Ayana Pattra, Conures (DJ Tokunaga) and DJ endorphin and 2 more. Browse upcoming dates, start times and who's playing. Tosen Udagawa Bld. 6F/7F, 4-7, Udagawa, Shibuya, Tokyo, 150-0042, JPN.
 
 ## What's on
 
@@ -14,13 +14,13 @@ R Lounge is a music venue in Tokyo listed on soundcheck. 14 upcoming nights, wit
 | Sat, 25 Jul 2026 | AI FUSION FES |  |
 | Sat, 25 Jul 2026 | HAPPY JACK | Maozon |
 | Sun, 26 Jul 2026 | Live＆Dj Factory |  |
+| Sun, 26 Jul 2026 | THE TEMPLE OF DANCE - CHAPTER ∞ | WATARU |
 | Fri, 31 Jul 2026 | EP 'PRISM' Elena Berry × SKYTOPIA Release Party | MOOTOE, VECSILLE |
 | Fri, 7 Aug 2026 | Peeps | JUN INAGAWA, ecec |
 | Sat, 8 Aug 2026 | PsynOpticz Records - Label Party |  |
-| Mon, 10 Aug 2026 | AXIS |  |
 
 ## Address
 
 Tosen Udagawa Bld. 6F/7F, 4-7, Udagawa, Shibuya, Tokyo, 150-0042, JPN, Tokyo
 
-*Updated Mon, 20 Jul 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/r-lounge/)*
+*Updated Tue, 21 Jul 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/r-lounge/)*

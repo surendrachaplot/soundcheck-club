@@ -1,6 +1,6 @@
 # Les Enfants pres. Red Axes at Les Enfants Brillants
 
-Les Enfants pres. Red Axes at Les Enfants Brillants on Sat 29 Aug, Barcelona. 1 act on the bill: Red Axes. Preview the line-up and save it on soundcheck.
+Les Enfants pres. Red Axes at Les Enfants Brillants on Sat 29 Aug, Barcelona. 2 acts on the bill: Lis Sarroca and Red Axes. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,6 +10,7 @@ Les Enfants pres. Red Axes at Les Enfants Brillants on Sat 29 Aug, Barcelona. 1 
 
 ## Line-up
 
+- Lis Sarroca
 - Red Axes
 
 *Source: [soundcheck](https://soundcheck.club/e/2423776-les-enfants-pres-red-axes-at-les-enfants-brillants/)*

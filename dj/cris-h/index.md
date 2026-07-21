@@ -1,6 +1,6 @@
 # Cris-H
 
-Cris-H is a Progressive House and Deep House artist with 4 upcoming club dates listed on soundcheck as of Mon, 20 Jul 2026, next at Supperclub Cruise, Amsterdam on Sat, 1 Aug 2026.
+Cris-H is a Progressive House and Deep House artist with 4 upcoming club dates listed on soundcheck as of Tue, 21 Jul 2026, next at Supperclub Cruise, Amsterdam on Sat, 1 Aug 2026.
 
 Cris-H is a progressive house and deep house artist tracked on soundcheck, with 51 sets logged across Amsterdam, Barcelona, Berlin and Ibiza and 2 more. Often billed alongside Paul Sparkes, Prismode and Solvane. Next up: Supperclub Cruise, Amsterdam on Sat 1 Aug.
 
@@ -28,4 +28,4 @@ Cris-H is a progressive house and deep house artist tracked on soundcheck, with 
 
 Paul Sparkes, Prismode, Solvane
 
-*Updated Mon, 20 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/cris-h/)*
+*Updated Tue, 21 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/cris-h/)*

@@ -1,6 +1,6 @@
 # Prozak 2.0
 
-Prozak 2.0 is a music venue in Krakow with 6 upcoming nights listed on soundcheck as of Mon, 20 Jul 2026; the next is "90s RAVE" on Thu, 23 Jul 2026.
+Prozak 2.0 is a music venue in Krakow with 6 upcoming nights listed on soundcheck as of Tue, 21 Jul 2026; the next is "90s RAVE" on Thu, 23 Jul 2026.
 
 Prozak 2.0 is a music venue in Krakow listed on soundcheck. 6 upcoming nights, with line-ups including Kara Okay, Kuriozum and Meg (PL). Browse upcoming dates, start times and who's playing. plac Dominikański 6, 33-332 Kraków, Poland.
 
@@ -19,4 +19,4 @@ Prozak 2.0 is a music venue in Krakow listed on soundcheck. 6 upcoming nights, w
 
 plac Dominikański 6, 33-332 Kraków, Poland, Krakow
 
-*Updated Mon, 20 Jul 2026 · source: [soundcheck](https://soundcheck.club/krakow/club/prozak-2-0/)*
+*Updated Tue, 21 Jul 2026 · source: [soundcheck](https://soundcheck.club/krakow/club/prozak-2-0/)*

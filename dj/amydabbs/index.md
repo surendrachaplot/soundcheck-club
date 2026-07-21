@@ -1,6 +1,6 @@
 # Amy Dabbs
 
-Amy Dabbs is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Mon, 20 Jul 2026, next at TBA - Seestraße 1, 13353 Berlin, Berlin on Fri, 24 Jul 2026.
+Amy Dabbs is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Tue, 21 Jul 2026, next at TBA - Seestraße 1, 13353 Berlin, Berlin on Fri, 24 Jul 2026.
 
 Amy Dabbs is a house and techno artist based in United Kingdom, tracked on soundcheck, with 78 sets logged across Amsterdam, Berlin, Bristol and Copenhagen and 7 more. Often billed alongside Ady Toledano, Juan Ramos and Vio PRG. Next up: TBA - Seestraße 1, 13353 Berlin, Berlin on Fri 24 Jul.
 
@@ -26,4 +26,4 @@ Amy Dabbs is a house and techno artist based in United Kingdom, tracked on sound
 
 Ady Toledano, Juan Ramos, Vio PRG
 
-*Updated Mon, 20 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/amydabbs/)*
+*Updated Tue, 21 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/amydabbs/)*

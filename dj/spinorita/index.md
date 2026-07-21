@@ -1,6 +1,6 @@
 # Spiñorita
 
-Spiñorita is a House and Disco artist with 2 upcoming club dates listed on soundcheck as of Mon, 20 Jul 2026, next at Jupiter Disco, New York City on Fri, 7 Aug 2026.
+Spiñorita is a House and Disco artist with 2 upcoming club dates listed on soundcheck as of Tue, 21 Jul 2026, next at Jupiter Disco, New York City on Fri, 7 Aug 2026.
 
 Spiñorita is a house and disco artist based in United States of America, tracked on soundcheck, with 51 sets logged across Chicago, Detroit, Losangeles and Mexicocity and 2 more. Often billed alongside Daddy Kev, BAE BAE and Big Happy. Next up: Jupiter Disco, Newyorkcity on Fri 7 Aug.
 
@@ -26,4 +26,4 @@ Spiñorita is a house and disco artist based in United States of America, tracke
 
 Daddy Kev, BAE BAE, Big Happy
 
-*Updated Mon, 20 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/spinorita/)*
+*Updated Tue, 21 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/spinorita/)*

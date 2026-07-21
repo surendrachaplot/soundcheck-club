@@ -1,6 +1,6 @@
 # Luz De Gas
 
-Luz De Gas is a music venue in Barcelona with 4 upcoming nights listed on soundcheck as of Mon, 20 Jul 2026; the next is "Locked 10 years pres. Michael Mayer" on Fri, 24 Jul 2026.
+Luz De Gas is a music venue in Barcelona with 4 upcoming nights listed on soundcheck as of Tue, 21 Jul 2026; the next is "Locked 10 years pres. Michael Mayer" on Fri, 24 Jul 2026.
 
 Luz De Gas is a music venue in Barcelona listed on soundcheck. 4 upcoming nights, with line-ups including Gerard Bauza, Kev Williams, Marvio and Michael Mayer and 2 more. Browse upcoming dates, start times and who's playing. Carrer de Muntaner, 246, 08021 Barcelona.
 
@@ -17,4 +17,4 @@ Luz De Gas is a music venue in Barcelona listed on soundcheck. 4 upcoming nights
 
 Carrer de Muntaner, 246, 08021 Barcelona, Barcelona
 
-*Updated Mon, 20 Jul 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/luz-de-gas/)*
+*Updated Tue, 21 Jul 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/luz-de-gas/)*

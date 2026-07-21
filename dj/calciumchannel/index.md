@@ -1,6 +1,6 @@
 # Calcium Channel
 
-Calcium Channel is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Mon, 20 Jul 2026, next at Monarch, Berlin on Fri, 24 Jul 2026.
+Calcium Channel is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Tue, 21 Jul 2026, next at Monarch, Berlin on Fri, 24 Jul 2026.
 
 Calcium Channel is a techno and house artist based in Australia, tracked on soundcheck, with 27 sets logged across Berlin. Often billed alongside Mister Willis, selo and Clarisse. Next up: Monarch, Berlin on Fri 24 Jul.
 
@@ -26,4 +26,4 @@ Calcium Channel is a techno and house artist based in Australia, tracked on soun
 
 Mister Willis, selo, Clarisse
 
-*Updated Mon, 20 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/calciumchannel/)*
+*Updated Tue, 21 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/calciumchannel/)*

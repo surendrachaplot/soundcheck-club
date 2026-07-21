@@ -1,6 +1,6 @@
 # Todd Edwards
 
-Todd Edwards is a House and Garage artist with 6 upcoming club dates listed on soundcheck as of Mon, 20 Jul 2026, next at Chinois Ibiza, Ibiza on Thu, 6 Aug 2026.
+Todd Edwards is a House and Garage artist with 6 upcoming club dates listed on soundcheck as of Tue, 21 Jul 2026, next at Chinois Ibiza, Ibiza on Thu, 6 Aug 2026.
 
 Todd Edwards is a house and garage artist tracked on soundcheck, with 118 sets logged across Amsterdam, Austin, Barcelona and Berlin and 30 more. Often billed alongside Conducta, Sam Divine and Rio Tashan. Next up: Chinois Ibiza, Ibiza on Thu 6 Aug.
 
@@ -30,4 +30,4 @@ Todd Edwards is a house and garage artist tracked on soundcheck, with 118 sets l
 
 Conducta, Sam Divine, Rio Tashan
 
-*Updated Mon, 20 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/toddedwards/)*
+*Updated Tue, 21 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/toddedwards/)*

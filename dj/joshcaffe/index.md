@@ -1,6 +1,6 @@
 # Josh Caffé
 
-Josh Caffé is a House and Techno artist with 4 upcoming club dates listed on soundcheck as of Mon, 20 Jul 2026, next at Berghain | Panorama Bar | Säule, Berlin on Fri, 24 Jul 2026.
+Josh Caffé is a House and Techno artist with 4 upcoming club dates listed on soundcheck as of Tue, 21 Jul 2026, next at Berghain | Panorama Bar | Säule, Berlin on Fri, 24 Jul 2026.
 
 Josh Caffé is a house and techno artist tracked on soundcheck, with 143 sets logged across Amsterdam, Antwerp, Bali and Bangkok and 37 more. Often billed alongside Hannah Holland, NIKS and BASHKKA. Next up: Berghain | Panorama Bar | Säule, Berlin on Fri 24 Jul.
 
@@ -28,4 +28,4 @@ Josh Caffé is a house and techno artist tracked on soundcheck, with 143 sets lo
 
 Hannah Holland, NIKS, BASHKKA
 
-*Updated Mon, 20 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/joshcaffe/)*
+*Updated Tue, 21 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/joshcaffe/)*

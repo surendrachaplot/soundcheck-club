@@ -1,6 +1,6 @@
 # Hanz
 
-Hanz is a Bass and UK Funky artist with 3 upcoming club dates listed on soundcheck as of Mon, 20 Jul 2026, next at Eastern Bloc Records, Manchester on Thu, 30 Jul 2026.
+Hanz is a Bass and UK Funky artist with 3 upcoming club dates listed on soundcheck as of Tue, 21 Jul 2026, next at Eastern Bloc Records, Manchester on Thu, 30 Jul 2026.
 
 Hanz is a bass and uk funky artist based in United Kingdom, tracked on soundcheck, with 85 sets logged across Belfast, Glasgow, Losangeles and Manchester. Often billed alongside Syntax (2), aalice and Charlie Boy Manson. Next up: Eastern Bloc Records, Manchester on Thu 30 Jul.
 
@@ -27,4 +27,4 @@ Hanz is a bass and uk funky artist based in United Kingdom, tracked on soundchec
 
 Syntax (2), aalice, Charlie Boy Manson
 
-*Updated Mon, 20 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/hanz/)*
+*Updated Tue, 21 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/hanz/)*

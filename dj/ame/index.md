@@ -1,6 +1,6 @@
 # Âme
 
-Âme is a Techno and House artist with 13 upcoming club dates listed on soundcheck as of Mon, 20 Jul 2026, next at Lofi, Amsterdam on Fri, 24 Jul 2026.
+Âme is a Techno and House artist with 13 upcoming club dates listed on soundcheck as of Tue, 21 Jul 2026, next at Lofi, Amsterdam on Fri, 24 Jul 2026.
 
 Âme is a techno and house artist tracked on soundcheck, with 341 sets logged across Amsterdam, Antwerp, Athens and Bali and 59 more. Often billed alongside Trikk, Jimi Jules and Dixon. Next up: Lofi, Amsterdam on Fri 24 Jul.
 
@@ -36,4 +36,4 @@
 
 Trikk, Jimi Jules, Dixon
 
-*Updated Mon, 20 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/ame/)*
+*Updated Tue, 21 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/ame/)*

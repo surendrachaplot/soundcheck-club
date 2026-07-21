@@ -1,8 +1,8 @@
 # DJ Fart in the Club
 
-DJ Fart in the Club is a Techno and House artist with 4 upcoming club dates listed on soundcheck as of Mon, 20 Jul 2026, next at The Villa, Oslo on Sat, 15 Aug 2026.
+DJ Fart in the Club is a Techno and House artist with 5 upcoming club dates listed on soundcheck as of Tue, 21 Jul 2026, next at The Villa, Oslo on Sat, 15 Aug 2026.
 
-DJ Fart in the Club is a techno and house artist tracked on soundcheck, with 112 sets logged across Amsterdam, Barcelona, Berlin and Brisbane and 36 more. Often billed alongside Kia (AU), deep creep and Anz. Next up: The Villa, Oslo on Sat 15 Aug.
+DJ Fart in the Club is a techno and house artist tracked on soundcheck, with 113 sets logged across Amsterdam, Barcelona, Berlin and Brisbane and 36 more. Often billed alongside Kia (AU), deep creep and Anz. Next up: The Villa, Oslo on Sat 15 Aug.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ DJ Fart in the Club is a techno and house artist tracked on soundcheck, with 112
 | --- | --- | --- |
 | Sat, 15 Aug 2026 | The Villa | Oslo |
 | Sat, 5 Sept 2026 | Gaffe | London |
+| Fri, 11 Sept 2026 | Haus der Visionäre | Berlin |
 | Thu, 24 Sept 2026 | TBA - Out ‘n’ About Treesort | Portland |
 | Fri, 16 Oct 2026 | ZENNER | Berlin |
 
@@ -28,4 +29,4 @@ DJ Fart in the Club is a techno and house artist tracked on soundcheck, with 112
 
 Kia (AU), deep creep, Anz
 
-*Updated Mon, 20 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/djfartintheclub/)*
+*Updated Tue, 21 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/djfartintheclub/)*

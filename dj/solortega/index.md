@@ -1,6 +1,6 @@
 # Sol Ortega
 
-Sol Ortega is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Mon, 20 Jul 2026, next at Deseo BS AS, Buenos Aires on Sat, 1 Aug 2026.
+Sol Ortega is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Tue, 21 Jul 2026, next at Deseo BS AS, Buenos Aires on Sat, 1 Aug 2026.
 
 Sol Ortega is a techno and house artist tracked on soundcheck, with 81 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 29 more. Often billed alongside ANNĒ, KiNK and LOLSNAKE. Next up: Deseo BS AS, Buenosaires on Sat 1 Aug.
 
@@ -26,4 +26,4 @@ Sol Ortega is a techno and house artist tracked on soundcheck, with 81 sets logg
 
 ANNĒ, KiNK, LOLSNAKE
 
-*Updated Mon, 20 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/solortega/)*
+*Updated Tue, 21 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/solortega/)*

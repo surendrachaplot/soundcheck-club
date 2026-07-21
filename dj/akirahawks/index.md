@@ -1,6 +1,6 @@
 # Akirahawks
 
-Akirahawks is a House and Disco artist with 2 upcoming club dates listed on soundcheck as of Mon, 20 Jul 2026, next at Kater, Berlin on Sat, 25 Jul 2026.
+Akirahawks is a House and Disco artist with 2 upcoming club dates listed on soundcheck as of Tue, 21 Jul 2026, next at Kater, Berlin on Sat, 25 Jul 2026.
 
 Akirahawks is a house and disco artist based in Germany, tracked on soundcheck, with 40 sets logged across Berlin, Leipzig, Paris and Seoul and 1 more. Often billed alongside Hideto Omura, Sciarada and Jacob Meehan. Next up: Kater, Berlin on Sat 25 Jul.
 
@@ -26,4 +26,4 @@ Akirahawks is a house and disco artist based in Germany, tracked on soundcheck, 
 
 Hideto Omura, Sciarada, Jacob Meehan
 
-*Updated Mon, 20 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/akirahawks/)*
+*Updated Tue, 21 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/akirahawks/)*

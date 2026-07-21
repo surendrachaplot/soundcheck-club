@@ -1,6 +1,6 @@
 # Traumer
 
-Traumer is a House and Techno artist with 20 upcoming club dates listed on soundcheck as of Mon, 20 Jul 2026, next at Sophie Festival, Malaga on Sat, 25 Jul 2026.
+Traumer is a House and Techno artist with 20 upcoming club dates listed on soundcheck as of Tue, 21 Jul 2026, next at Sophie Festival, Malaga on Sat, 25 Jul 2026.
 
 Traumer is a house and techno artist tracked on soundcheck, with 298 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 65 more. Often billed alongside Enzo Siragusa, Shonky and Apollonia. Next up: Sophie Festival, Malaga on Sat 25 Jul.
 
@@ -36,4 +36,4 @@ Traumer is a house and techno artist tracked on soundcheck, with 298 sets logged
 
 Enzo Siragusa, Shonky, Apollonia
 
-*Updated Mon, 20 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/traumer/)*
+*Updated Tue, 21 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/traumer/)*

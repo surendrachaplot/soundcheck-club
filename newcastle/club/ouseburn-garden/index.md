@@ -1,8 +1,8 @@
 # Ouseburn Garden
 
-Ouseburn Garden is a music venue in Newcastle with 7 upcoming nights listed on soundcheck as of Mon, 20 Jul 2026; the next is "Special Delivery X DBT: Ouseburn Special #2" on Sat, 25 Jul 2026.
+Ouseburn Garden is a music venue in Newcastle with 9 upcoming nights listed on soundcheck as of Tue, 21 Jul 2026; the next is "Special Delivery X DBT: Ouseburn Special #2" on Sat, 25 Jul 2026.
 
-Ouseburn Garden is a music venue in Newcastle listed on soundcheck. 7 upcoming nights, with line-ups including Adam Lance, Bobby O'Donnell, DJ Bz and Doogi and 2 more. Browse upcoming dates, start times and who's playing. Unit 12, 1 Stepney Rd, Newcastle upon Tyne NE1 2PZ.
+Ouseburn Garden is a music venue in Newcastle listed on soundcheck. 9 upcoming nights, with line-ups including Adam Lance, Bobby O'Donnell, Captain Wallop and Dan Ghenacia and 2 more. Browse upcoming dates, start times and who's playing. Unit 12, 1 Stepney Rd, Newcastle upon Tyne NE1 2PZ.
 
 ## What's on
 
@@ -14,10 +14,12 @@ Ouseburn Garden is a music venue in Newcastle listed on soundcheck. 7 upcoming n
 | Sat, 15 Aug 2026 | DIGITAL presents: Joss Dean | Emma 2000, Joss Dean |
 | Fri, 21 Aug 2026 | Reggaeton Summer Terrace Party |  |
 | Sat, 5 Sept 2026 | SYNRG presents: Laidlaw, Special Guest | Laidlaw |
+| Sat, 12 Sept 2026 | HED x Top Floor (Day + Night)  |  |
 | Sat, 19 Sept 2026 | Tania Vulcano, Inland Knights, Bobby ODonnell B2B Foz | Adam Lance, Bobby O'Donnell, Foz, Inland Knights, Tania Vulcano, Wakka |
+| Sat, 26 Sept 2026 | Dan Ghenacia, Captain Wallop + Special Guest | Adam Lance, Captain Wallop, Dan Ghenacia, Wakka |
 
 ## Address
 
 Unit 12, 1 Stepney Rd, Newcastle upon Tyne NE1 2PZ, Newcastle
 
-*Updated Mon, 20 Jul 2026 · source: [soundcheck](https://soundcheck.club/newcastle/club/ouseburn-garden/)*
+*Updated Tue, 21 Jul 2026 · source: [soundcheck](https://soundcheck.club/newcastle/club/ouseburn-garden/)*

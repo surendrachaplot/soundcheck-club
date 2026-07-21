@@ -1,6 +1,6 @@
 # New Wave Ramen
 
-New Wave Ramen is a music venue in Manchester with 3 upcoming nights listed on soundcheck as of Mon, 20 Jul 2026; the next is "NWR: Javan" on Fri, 24 Jul 2026.
+New Wave Ramen is a music venue in Manchester with 3 upcoming nights listed on soundcheck as of Tue, 21 Jul 2026; the next is "NWR: Javan" on Fri, 24 Jul 2026.
 
 New Wave Ramen is a music venue in Manchester listed on soundcheck. 3 upcoming nights, with line-ups including Javan. Browse upcoming dates, start times and who's playing. 16 Tib Ln, M2 4JB.
 
@@ -16,4 +16,4 @@ New Wave Ramen is a music venue in Manchester listed on soundcheck. 3 upcoming n
 
 16 Tib Ln, M2 4JB, Manchester
 
-*Updated Mon, 20 Jul 2026 · source: [soundcheck](https://soundcheck.club/manchester/club/new-wave-ramen/)*
+*Updated Tue, 21 Jul 2026 · source: [soundcheck](https://soundcheck.club/manchester/club/new-wave-ramen/)*

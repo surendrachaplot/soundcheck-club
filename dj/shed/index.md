@@ -1,6 +1,6 @@
 # Shed
 
-Shed is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Mon, 20 Jul 2026, next at Port del Comte, Barcelona on Fri, 24 Jul 2026.
+Shed is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Tue, 21 Jul 2026, next at Port del Comte, Barcelona on Fri, 24 Jul 2026.
 
 Shed is a techno and house artist based in Germany, tracked on soundcheck, with 36 sets logged across Amsterdam, Barcelona, Berlin and Brussels and 13 more. Often billed alongside Head High, Skee Mask and CCL. Next up: Port del Comte, Barcelona on Fri 24 Jul.
 
@@ -27,4 +27,4 @@ Shed is a techno and house artist based in Germany, tracked on soundcheck, with 
 
 Head High, Skee Mask, CCL
 
-*Updated Mon, 20 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/shed/)*
+*Updated Tue, 21 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/shed/)*

@@ -1,6 +1,6 @@
 # Radius
 
-Radius is a music venue in Chicago with 20 upcoming nights listed on soundcheck as of Mon, 20 Jul 2026; the next is "Lollapalooza After: Boris Brejcha" on Wed, 29 Jul 2026.
+Radius is a music venue in Chicago with 20 upcoming nights listed on soundcheck as of Tue, 21 Jul 2026; the next is "Lollapalooza After: Boris Brejcha" on Wed, 29 Jul 2026.
 
 Radius is a music venue in Chicago listed on soundcheck. 20 upcoming nights, with line-ups including 1tbsp, Afrojack, AMAYAH and Boris Brejcha and 2 more. Browse upcoming dates, start times and who's playing. 640 West Cermak Road Chicago, Illinois 60616, USA.
 
@@ -23,4 +23,4 @@ Radius is a music venue in Chicago listed on soundcheck. 20 upcoming nights, wit
 
 640 West Cermak Road Chicago, Illinois 60616, USA, Chicago
 
-*Updated Mon, 20 Jul 2026 · source: [soundcheck](https://soundcheck.club/chicago/club/radius/)*
+*Updated Tue, 21 Jul 2026 · source: [soundcheck](https://soundcheck.club/chicago/club/radius/)*

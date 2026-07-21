@@ -1,6 +1,6 @@
 # Dave Clarke: Free Time at Sneaky Pete's
 
-Dave Clarke: Free Time at Sneaky Pete's on Sun 26 Jul, Edinburgh. 1 act on the bill: Dave Clarke. Techno. Preview the line-up and save it on soundcheck.
+Dave Clarke: Free Time at Sneaky Pete's on Sun 26 Jul, Edinburgh. 2 acts on the bill: Dave Clarke and ona:v. Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -11,5 +11,6 @@ Dave Clarke: Free Time at Sneaky Pete's on Sun 26 Jul, Edinburgh. 1 act on the b
 ## Line-up
 
 - Dave Clarke
+- ona:v
 
 *Source: [soundcheck](https://soundcheck.club/e/2397306-dave-clarke-free-time-at-sneaky-pete-s/)*

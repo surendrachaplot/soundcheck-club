@@ -1,6 +1,6 @@
 # EOS Lounge
 
-EOS Lounge is a music venue in Los Angeles with 2 upcoming nights listed on soundcheck as of Mon, 20 Jul 2026; the next is "LITTLE BAR, MASSIVE PRESSURE" on Wed, 22 Jul 2026.
+EOS Lounge is a music venue in Los Angeles with 2 upcoming nights listed on soundcheck as of Tue, 21 Jul 2026; the next is "LITTLE BAR, MASSIVE PRESSURE" on Wed, 22 Jul 2026.
 
 EOS Lounge is a music venue in Losangeles listed on soundcheck. 2 upcoming nights, with line-ups including ERS-ONE, Rezident and TVLI. Browse upcoming dates, start times and who's playing. 500 Anacapa St, Santa Barbara, CA 93101.
 
@@ -15,4 +15,4 @@ EOS Lounge is a music venue in Losangeles listed on soundcheck. 2 upcoming night
 
 500 Anacapa St, Santa Barbara, CA 93101, Los Angeles
 
-*Updated Mon, 20 Jul 2026 · source: [soundcheck](https://soundcheck.club/losangeles/club/eos-lounge/)*
+*Updated Tue, 21 Jul 2026 · source: [soundcheck](https://soundcheck.club/losangeles/club/eos-lounge/)*

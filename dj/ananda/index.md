@@ -1,6 +1,6 @@
 # Ananda (BR)
 
-Ananda (BR) is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Mon, 20 Jul 2026, next at Distillery N17, London on Fri, 31 Jul 2026.
+Ananda (BR) is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Tue, 21 Jul 2026, next at Distillery N17, London on Fri, 31 Jul 2026.
 
 Ananda (BR) is a techno and house artist tracked on soundcheck, with 49 sets logged across Berlin, Brussels, Lisbon and London and 3 more. Often billed alongside Kontronatura, Alírio and Cashu. Next up: Distillery N17, London on Fri 31 Jul.
 
@@ -27,4 +27,4 @@ Ananda (BR) is a techno and house artist tracked on soundcheck, with 49 sets log
 
 Kontronatura, Alírio, Cashu
 
-*Updated Mon, 20 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/ananda/)*
+*Updated Tue, 21 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/ananda/)*

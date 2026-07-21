@@ -1,6 +1,6 @@
 # mitokon
 
-mitokon is a Amapiano and House artist with 2 upcoming club dates listed on soundcheck as of Mon, 20 Jul 2026, next at Solfa, Tokyo on Thu, 23 Jul 2026.
+mitokon is a Amapiano and House artist with 2 upcoming club dates listed on soundcheck as of Tue, 21 Jul 2026, next at Solfa, Tokyo on Thu, 23 Jul 2026.
 
 mitokon is an amapiano and house artist based in Japan, tracked on soundcheck, with 85 sets logged across Kyoto and Tokyo. Often billed alongside MICO, mionn and HW BINGO. Next up: Solfa, Tokyo on Thu 23 Jul.
 
@@ -26,4 +26,4 @@ mitokon is an amapiano and house artist based in Japan, tracked on soundcheck, w
 
 MICO, mionn, HW BINGO
 
-*Updated Mon, 20 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/mitokon/)*
+*Updated Tue, 21 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/mitokon/)*

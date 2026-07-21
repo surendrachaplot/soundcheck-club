@@ -1,6 +1,6 @@
 # Fuse
 
-Fuse is a music venue in Brussels with 5 upcoming nights listed on soundcheck as of Mon, 20 Jul 2026; the next is "Fuse presents: Amotik & Olivia Mendez" on Sat, 25 Jul 2026.
+Fuse is a music venue in Brussels with 5 upcoming nights listed on soundcheck as of Tue, 21 Jul 2026; the next is "Fuse presents: Amotik & Olivia Mendez" on Sat, 25 Jul 2026.
 
 Fuse is a music venue in Brussels listed on soundcheck. 5 upcoming nights, with line-ups including Aiden (DE), Amotik, Arter and Askkin and 2 more. Browse upcoming dates, start times and who's playing. Blaesstraat 208, 1000 Brussel, Belgium.
 
@@ -18,4 +18,4 @@ Fuse is a music venue in Brussels listed on soundcheck. 5 upcoming nights, with 
 
 Blaesstraat 208, 1000 Brussel, Belgium, Brussels
 
-*Updated Mon, 20 Jul 2026 · source: [soundcheck](https://soundcheck.club/brussels/club/fuse/)*
+*Updated Tue, 21 Jul 2026 · source: [soundcheck](https://soundcheck.club/brussels/club/fuse/)*

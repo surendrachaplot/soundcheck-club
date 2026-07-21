@@ -1,6 +1,6 @@
 # Hotel Via
 
-Hotel Via is a music venue in San Francisco/Oakland with 3 upcoming nights listed on soundcheck as of Mon, 20 Jul 2026; the next is "BEACHCRIMES - Day Party at Hotel Via Rooftop" on Sun, 2 Aug 2026.
+Hotel Via is a music venue in San Francisco/Oakland with 3 upcoming nights listed on soundcheck as of Tue, 21 Jul 2026; the next is "BEACHCRIMES - Day Party at Hotel Via Rooftop" on Sun, 2 Aug 2026.
 
 Hotel Via is a music venue in Sanfrancisco listed on soundcheck. 3 upcoming nights, with line-ups including Luttrell and Sainte Vie. Browse upcoming dates, start times and who's playing. 138 King St. San Francisco, CA 94107.
 
@@ -16,4 +16,4 @@ Hotel Via is a music venue in Sanfrancisco listed on soundcheck. 3 upcoming nigh
 
 138 King St. San Francisco, CA 94107, San Francisco/Oakland
 
-*Updated Mon, 20 Jul 2026 · source: [soundcheck](https://soundcheck.club/sanfrancisco/club/hotel-via/)*
+*Updated Tue, 21 Jul 2026 · source: [soundcheck](https://soundcheck.club/sanfrancisco/club/hotel-via/)*

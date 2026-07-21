@@ -1,8 +1,8 @@
 # Blu9
 
-Blu9 is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Mon, 20 Jul 2026, next at Podlasie Club, Chicago on Thu, 23 Jul 2026.
+Blu9 is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Tue, 21 Jul 2026, next at Podlasie Club, Chicago on Thu, 23 Jul 2026.
 
-Blu9 is a techno and house artist based in United States of America, tracked on soundcheck, with 42 sets logged across Chicago, Detroit, Newyorkcity and Washingtondc. Often billed alongside Microdot, Aaron Chase and Dela (3). Next up: Podlasie Club, Chicago on Thu 23 Jul.
+Blu9 is a techno and house artist based in United States of America, tracked on soundcheck, with 43 sets logged across Chicago, Detroit, Newyorkcity and Washingtondc. Often billed alongside Microdot, Aaron Chase and Dela (3). Next up: Podlasie Club, Chicago on Thu 23 Jul.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Blu9 is a techno and house artist based in United States of America, tracked on 
 | --- | --- | --- |
 | Thu, 23 Jul 2026 | Podlasie Club | Chicago |
 | Sat, 25 Jul 2026 | smartbar | Chicago |
+| Fri, 14 Aug 2026 | TBA - Wicker Park | Chicago |
 
 ## Recently played
 
@@ -26,4 +27,4 @@ Blu9 is a techno and house artist based in United States of America, tracked on 
 
 Microdot, Aaron Chase, Dela (3)
 
-*Updated Mon, 20 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/blu9-us/)*
+*Updated Tue, 21 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/blu9-us/)*

@@ -1,6 +1,6 @@
 # Casita Hollywood
 
-Casita Hollywood is a music venue in Los Angeles with 1 upcoming night listed on soundcheck as of Mon, 20 Jul 2026; the next is "Galactic Glow" on Sat, 25 Jul 2026.
+Casita Hollywood is a music venue in Los Angeles with 1 upcoming night listed on soundcheck as of Tue, 21 Jul 2026; the next is "Galactic Glow" on Sat, 25 Jul 2026.
 
 Casita Hollywood is a music venue in Losangeles listed on soundcheck. 1 upcoming night, with line-ups including divaDanielle, Kitch n Sync and Loomer. Browse upcoming dates, start times and who's playing. 1323 Highland Ave, Los Angeles, CA 90028.
 
@@ -14,4 +14,4 @@ Casita Hollywood is a music venue in Losangeles listed on soundcheck. 1 upcoming
 
 1323 Highland Ave, Los Angeles, CA 90028, Los Angeles
 
-*Updated Mon, 20 Jul 2026 · source: [soundcheck](https://soundcheck.club/losangeles/club/casita-hollywood/)*
+*Updated Tue, 21 Jul 2026 · source: [soundcheck](https://soundcheck.club/losangeles/club/casita-hollywood/)*

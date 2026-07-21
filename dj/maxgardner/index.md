@@ -1,6 +1,6 @@
 # Max Gardner
 
-Max Gardner is a Techno and Dub Techno artist with 2 upcoming club dates listed on soundcheck as of Mon, 20 Jul 2026, next at Halcyon, San Francisco/Oakland on Fri, 28 Aug 2026.
+Max Gardner is a Techno and Dub Techno artist with 2 upcoming club dates listed on soundcheck as of Tue, 21 Jul 2026, next at Halcyon, San Francisco/Oakland on Fri, 28 Aug 2026.
 
 Max Gardner is a techno and dub techno artist tracked on soundcheck, with 81 sets logged across Amsterdam, Barcelona, Berlin and Boston and 9 more. Often billed alongside Adra, Lindsey Herbert and 9-System. Next up: Halcyon, Sanfrancisco on Fri 28 Aug.
 
@@ -26,4 +26,4 @@ Max Gardner is a techno and dub techno artist tracked on soundcheck, with 81 set
 
 Adra, Lindsey Herbert, 9-System
 
-*Updated Mon, 20 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/maxgardner/)*
+*Updated Tue, 21 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/maxgardner/)*

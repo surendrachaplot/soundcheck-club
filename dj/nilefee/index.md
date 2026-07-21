@@ -1,6 +1,6 @@
 # Nile Fee
 
-Nile Fee is a Electronica and House artist with 2 upcoming club dates listed on soundcheck as of Mon, 20 Jul 2026, next at La Terrrazza, Barcelona on Sat, 1 Aug 2026.
+Nile Fee is a Electronica and House artist with 2 upcoming club dates listed on soundcheck as of Tue, 21 Jul 2026, next at La Terrrazza, Barcelona on Sat, 1 Aug 2026.
 
 Nile Fee is an electronica and house artist tracked on soundcheck, with 46 sets logged across Barcelona, Berlin and Madrid. Often billed alongside John Heaven, Daniel 2000 and Marcelo Pantani. Next up: La Terrrazza, Barcelona on Sat 1 Aug.
 
@@ -26,4 +26,4 @@ Nile Fee is an electronica and house artist tracked on soundcheck, with 46 sets 
 
 John Heaven, Daniel 2000, Marcelo Pantani
 
-*Updated Mon, 20 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/nilefee/)*
+*Updated Tue, 21 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/nilefee/)*

@@ -1,6 +1,6 @@
 # Tarkno
 
-Tarkno is a Techno and House artist with 5 upcoming club dates listed on soundcheck as of Mon, 20 Jul 2026, next at Abercrombie Hotel, Sydney on Fri, 31 Jul 2026.
+Tarkno is a Techno and House artist with 5 upcoming club dates listed on soundcheck as of Tue, 21 Jul 2026, next at Abercrombie Hotel, Sydney on Fri, 31 Jul 2026.
 
 Tarkno is a techno and house artist tracked on soundcheck, with 103 sets logged across Amsterdam, Barcelona, Berlin and Budapest and 30 more. Often billed alongside slin, Carmen Electro and RUIZ OSC1. Next up: Abercrombie Hotel, Sydney on Fri 31 Jul.
 
@@ -29,4 +29,4 @@ Tarkno is a techno and house artist tracked on soundcheck, with 103 sets logged 
 
 slin, Carmen Electro, RUIZ OSC1
 
-*Updated Mon, 20 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/tarkno/)*
+*Updated Tue, 21 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/tarkno/)*

@@ -1,6 +1,6 @@
 # Garden Zona Rosa
 
-Garden Zona Rosa is a music venue in Mexico City with 1 upcoming night listed on soundcheck as of Mon, 20 Jul 2026; the next is "CONFESSIONS II: Pop Royalty Edition" on Sat, 25 Jul 2026.
+Garden Zona Rosa is a music venue in Mexico City with 1 upcoming night listed on soundcheck as of Tue, 21 Jul 2026; the next is "CONFESSIONS II: Pop Royalty Edition" on Sat, 25 Jul 2026.
 
 Garden Zona Rosa is a music venue in Mexicocity listed on soundcheck. 1 upcoming night. Browse upcoming dates, start times and who's playing. Amberes 21, Juárez, Cuauhtémoc, 06600, Ciudad de México.
 
@@ -14,4 +14,4 @@ Garden Zona Rosa is a music venue in Mexicocity listed on soundcheck. 1 upcoming
 
 Amberes 21, Juárez, Cuauhtémoc, 06600, Ciudad de México, Mexico City
 
-*Updated Mon, 20 Jul 2026 · source: [soundcheck](https://soundcheck.club/mexicocity/club/garden-zona-rosa/)*
+*Updated Tue, 21 Jul 2026 · source: [soundcheck](https://soundcheck.club/mexicocity/club/garden-zona-rosa/)*

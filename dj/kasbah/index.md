@@ -1,6 +1,6 @@
 # KasbaH
 
-KasbaH is a Techno and Electro artist with 2 upcoming club dates listed on soundcheck as of Mon, 20 Jul 2026, next at TBA - La Citadelle de Marseille , Marseille on Thu, 30 Jul 2026.
+KasbaH is a Techno and Electro artist with 2 upcoming club dates listed on soundcheck as of Tue, 21 Jul 2026, next at TBA - La Citadelle de Marseille , Marseille on Thu, 30 Jul 2026.
 
 KasbaH is a techno and electro artist based in France, tracked on soundcheck, with 33 sets logged across Amsterdam, Berlin, Cologne and Lyon and 4 more. Often billed alongside BAB MUSIQUE, Tales and Ahlam and ATARAX. Next up: TBA - La Citadelle de Marseille , Marseille on Thu 30 Jul.
 
@@ -26,4 +26,4 @@ KasbaH is a techno and electro artist based in France, tracked on soundcheck, wi
 
 BAB MUSIQUE, Tales and Ahlam, ATARAX
 
-*Updated Mon, 20 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/kasbah/)*
+*Updated Tue, 21 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/kasbah/)*

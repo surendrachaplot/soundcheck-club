@@ -1,6 +1,6 @@
 # Jares
 
-Jares is a Progressive House and Techno artist with 2 upcoming club dates listed on soundcheck as of Mon, 20 Jul 2026, next at Blue Room, Montreal on Sat, 25 Jul 2026.
+Jares is a Progressive House and Techno artist with 2 upcoming club dates listed on soundcheck as of Tue, 21 Jul 2026, next at Blue Room, Montreal on Sat, 25 Jul 2026.
 
 Jares is a progressive house and techno artist tracked on soundcheck, with 27 sets logged across Amsterdam, Berlin, Montreal and Toronto. Often billed alongside Alex Generis, Simon Sizer and Soul Of Zoo. Next up: Blue Room, Montreal on Sat 25 Jul.
 
@@ -26,4 +26,4 @@ Jares is a progressive house and techno artist tracked on soundcheck, with 27 se
 
 Alex Generis, Simon Sizer, Soul Of Zoo
 
-*Updated Mon, 20 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/jares/)*
+*Updated Tue, 21 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/jares/)*

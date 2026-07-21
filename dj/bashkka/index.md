@@ -1,6 +1,6 @@
 # BASHKKA
 
-BASHKKA is a Techno and House artist with 11 upcoming club dates listed on soundcheck as of Mon, 20 Jul 2026, next at Fort Vechten, Utrecht on Sat, 25 Jul 2026.
+BASHKKA is a Techno and House artist with 11 upcoming club dates listed on soundcheck as of Tue, 21 Jul 2026, next at Fort Vechten, Utrecht on Sat, 25 Jul 2026.
 
 BASHKKA is a techno and house artist tracked on soundcheck, with 292 sets logged across Amsterdam, Antwerp, Athens and Bali and 54 more. Often billed alongside Sedef Adasï, Gabrielle Kwarteng and ISAbella. Next up: Fort Vechten, Utrecht on Sat 25 Jul.
 
@@ -35,4 +35,4 @@ BASHKKA is a techno and house artist tracked on soundcheck, with 292 sets logged
 
 Sedef Adasï, Gabrielle Kwarteng, ISAbella
 
-*Updated Mon, 20 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/bashkka/)*
+*Updated Tue, 21 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/bashkka/)*

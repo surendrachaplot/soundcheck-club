@@ -1,6 +1,6 @@
 # Vacuum
 
-Vacuum is a music venue in Milan with 1 upcoming night listed on soundcheck as of Mon, 20 Jul 2026; the next is "PARALLEL 'ATLANTIS' CLOSING SZN Φ HARD MUSIC EVENT" on Thu, 23 Jul 2026.
+Vacuum is a music venue in Milan with 1 upcoming night listed on soundcheck as of Tue, 21 Jul 2026; the next is "PARALLEL 'ATLANTIS' CLOSING SZN Φ HARD MUSIC EVENT" on Thu, 23 Jul 2026.
 
 Vacuum is a music venue in Milan listed on soundcheck. 1 upcoming night, with line-ups including Flaiv Đarkø. Browse upcoming dates, start times and who's playing. Corso di Porta Ticinese, 32, 20123, Milano.
 
@@ -14,4 +14,4 @@ Vacuum is a music venue in Milan listed on soundcheck. 1 upcoming night, with li
 
 Corso di Porta Ticinese, 32, 20123, Milano, Milan
 
-*Updated Mon, 20 Jul 2026 · source: [soundcheck](https://soundcheck.club/milan/club/vacuum/)*
+*Updated Tue, 21 Jul 2026 · source: [soundcheck](https://soundcheck.club/milan/club/vacuum/)*

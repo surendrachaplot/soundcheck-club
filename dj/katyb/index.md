@@ -1,6 +1,6 @@
 # Katy B
 
-Katy B is a Garage and Afrobeats artist with 2 upcoming club dates listed on soundcheck as of Mon, 20 Jul 2026, next at Times Square, Newcastle, Newcastle on Sat, 25 Jul 2026.
+Katy B is a Garage and Afrobeats artist with 2 upcoming club dates listed on soundcheck as of Tue, 21 Jul 2026, next at Times Square, Newcastle, Newcastle on Sat, 25 Jul 2026.
 
 Katy B is a garage and afrobeats artist based in United Kingdom, tracked on soundcheck, with 26 sets logged across Brighton, Bristol, Ibiza and London and 1 more. Often billed alongside Arthi, Geeneus and Slimzee. Next up: Times Square, Newcastle, Newcastle on Sat 25 Jul.
 
@@ -26,4 +26,4 @@ Katy B is a garage and afrobeats artist based in United Kingdom, tracked on soun
 
 Arthi, Geeneus, Slimzee
 
-*Updated Mon, 20 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/katyb/)*
+*Updated Tue, 21 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/katyb/)*

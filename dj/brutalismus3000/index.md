@@ -1,6 +1,6 @@
 # Brutalismus 3000
 
-Brutalismus 3000 is a Techno and House artist with 4 upcoming club dates listed on soundcheck as of Mon, 20 Jul 2026, next at Parc Jean-Drapeau, Montreal on Fri, 31 Jul 2026.
+Brutalismus 3000 is a Techno and House artist with 4 upcoming club dates listed on soundcheck as of Tue, 21 Jul 2026, next at Parc Jean-Drapeau, Montreal on Fri, 31 Jul 2026.
 
 Brutalismus 3000 is a techno and house artist tracked on soundcheck, with 67 sets logged across Amsterdam, Antwerp, Austin and Barcelona and 32 more. Often billed alongside DJ Gigola, MCR-T and 999999999. Next up: Parc Jean-Drapeau, Montreal on Fri 31 Jul.
 
@@ -28,4 +28,4 @@ Brutalismus 3000 is a techno and house artist tracked on soundcheck, with 67 set
 
 DJ Gigola, MCR-T, 999999999
 
-*Updated Mon, 20 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/brutalismus3000/)*
+*Updated Tue, 21 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/brutalismus3000/)*

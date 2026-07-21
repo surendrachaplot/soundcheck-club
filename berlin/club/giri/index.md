@@ -1,6 +1,6 @@
 # Giri
 
-Giri is a music venue in Berlin with 9 upcoming nights listed on soundcheck as of Mon, 20 Jul 2026; the next is "Giri x Mashinka: Buttafuori EP Release Party" on Thu, 23 Jul 2026.
+Giri is a music venue in Berlin with 9 upcoming nights listed on soundcheck as of Tue, 21 Jul 2026; the next is "Giri x Mashinka: Buttafuori EP Release Party" on Thu, 23 Jul 2026.
 
 Giri is a music venue in Berlin listed on soundcheck. 9 upcoming nights, with line-ups including Alys, A Strange Wedding, Bloomfeld and Carmen Electro and 2 more. Browse upcoming dates, start times and who's playing. Hermannstrasse 14, 12049 Berlin.
 
@@ -22,4 +22,4 @@ Giri is a music venue in Berlin listed on soundcheck. 9 upcoming nights, with li
 
 Hermannstrasse 14, 12049 Berlin, Berlin
 
-*Updated Mon, 20 Jul 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/giri/)*
+*Updated Tue, 21 Jul 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/giri/)*

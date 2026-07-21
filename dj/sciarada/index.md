@@ -1,6 +1,6 @@
 # Sciarada
 
-Sciarada is a Disco and House artist with 4 upcoming club dates listed on soundcheck as of Mon, 20 Jul 2026, next at Rosie's Bar, Berlin on Fri, 24 Jul 2026.
+Sciarada is a Disco and House artist with 4 upcoming club dates listed on soundcheck as of Tue, 21 Jul 2026, next at Rosie's Bar, Berlin on Fri, 24 Jul 2026.
 
 Sciarada is a disco and house artist tracked on soundcheck, with 72 sets logged across Berlin. Often billed alongside maniac&me, Matteo Gamba and Solco privato. Next up: Rosie's Bar, Berlin on Fri 24 Jul.
 
@@ -28,4 +28,4 @@ Sciarada is a disco and house artist tracked on soundcheck, with 72 sets logged 
 
 maniac&me, Matteo Gamba, Solco privato
 
-*Updated Mon, 20 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/sciarada/)*
+*Updated Tue, 21 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/sciarada/)*

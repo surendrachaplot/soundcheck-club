@@ -1,6 +1,6 @@
 # Mieko Suzuki
 
-Mieko Suzuki is a Experimental and Techno artist with 3 upcoming club dates listed on soundcheck as of Mon, 20 Jul 2026, next at OHM, Berlin on Fri, 4 Sept 2026.
+Mieko Suzuki is a Experimental and Techno artist with 3 upcoming club dates listed on soundcheck as of Tue, 21 Jul 2026, next at OHM, Berlin on Fri, 4 Sept 2026.
 
 Mieko Suzuki is an experimental and techno artist based in Germany, tracked on soundcheck, with 52 sets logged across Barcelona, Berlin, Glasgow and Istanbul and 3 more. Often billed alongside Electric Indigo, Ale Hop and Jasmine Guffond. Next up: OHM, Berlin on Fri 4 Sept.
 
@@ -27,4 +27,4 @@ Mieko Suzuki is an experimental and techno artist based in Germany, tracked on s
 
 Electric Indigo, Ale Hop, Jasmine Guffond
 
-*Updated Mon, 20 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/miekosuzuki/)*
+*Updated Tue, 21 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/miekosuzuki/)*

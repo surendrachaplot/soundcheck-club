@@ -1,13 +1,14 @@
 # sfcowboy
 
-sfcowboy is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Mon, 20 Jul 2026, next at TBA, San Francisco/Oakland on Fri, 18 Sept 2026.
+sfcowboy is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Tue, 21 Jul 2026, next at F8 1192 Folsom, San Francisco/Oakland on Fri, 14 Aug 2026.
 
-sfcowboy is a techno and house artist based in United States of America, tracked on soundcheck, with 71 sets logged across Chicago, Losangeles, Newyorkcity and Sanfrancisco. Often billed alongside erika (SF), moth (US) and Lethargy. Next up: TBA, Sanfrancisco on Fri 18 Sept.
+sfcowboy is a techno and house artist based in United States of America, tracked on soundcheck, with 72 sets logged across Chicago, Losangeles, Newyorkcity and Sanfrancisco. Often billed alongside erika (SF), moth (US) and Lethargy. Next up: F8 1192 Folsom, Sanfrancisco on Fri 14 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 14 Aug 2026 | F8 1192 Folsom | San Francisco/Oakland |
 | Fri, 18 Sept 2026 | TBA | San Francisco/Oakland |
 | Sat, 26 Sept 2026 | TBA - Pier 80 | San Francisco/Oakland |
 
@@ -26,4 +27,4 @@ sfcowboy is a techno and house artist based in United States of America, tracked
 
 erika (SF), moth (US), Lethargy
 
-*Updated Mon, 20 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/sfcowboy/)*
+*Updated Tue, 21 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/sfcowboy/)*

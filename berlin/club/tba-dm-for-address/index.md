@@ -1,6 +1,6 @@
 # TBA - DM for address
 
-TBA - DM for address is a music venue in Berlin with 2 upcoming nights listed on soundcheck as of Mon, 20 Jul 2026; the next is "New Moon Party" on Tue, 11 Aug 2026.
+TBA - DM for address is a music venue in Berlin with 2 upcoming nights listed on soundcheck as of Tue, 21 Jul 2026; the next is "New Moon Party" on Tue, 11 Aug 2026.
 
 TBA - DM for address is a music venue in Berlin listed on soundcheck. 2 upcoming nights. Browse upcoming dates, start times and who's playing.
 
@@ -11,4 +11,4 @@ TBA - DM for address is a music venue in Berlin listed on soundcheck. 2 upcoming
 | Tue, 11 Aug 2026 | New Moon Party |  |
 | Tue, 11 Aug 2026 | New Moon Party |  |
 
-*Updated Mon, 20 Jul 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/tba-dm-for-address/)*
+*Updated Tue, 21 Jul 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/tba-dm-for-address/)*

@@ -1,6 +1,6 @@
 # Saytek
 
-Saytek is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Mon, 20 Jul 2026, next at TBA - Straße des 17. Juni & Großer Stern, Berlin on Sat, 15 Aug 2026.
+Saytek is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Tue, 21 Jul 2026, next at TBA - Straße des 17. Juni & Großer Stern, Berlin on Sat, 15 Aug 2026.
 
 Saytek is a techno and house artist based in United Kingdom, tracked on soundcheck, with 41 sets logged across Amsterdam, Berlin, Birmingham and Brighton and 11 more. Often billed alongside Dr. Motte, Milk N Coffee and Rene Oldenburg. Next up: TBA - Straße des 17. Juni & Großer Stern, Berlin on Sat 15 Aug.
 
@@ -26,4 +26,4 @@ Saytek is a techno and house artist based in United Kingdom, tracked on soundche
 
 Dr. Motte, Milk N Coffee, Rene Oldenburg
 
-*Updated Mon, 20 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/saytek/)*
+*Updated Tue, 21 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/saytek/)*

@@ -1,6 +1,6 @@
 # Main Phase
 
-Main Phase is a Garage and Bass artist with 7 upcoming club dates listed on soundcheck as of Mon, 20 Jul 2026, next at Knockdown Center, New York City on Fri, 31 Jul 2026.
+Main Phase is a Garage and Bass artist with 7 upcoming club dates listed on soundcheck as of Tue, 21 Jul 2026, next at Knockdown Center, New York City on Fri, 31 Jul 2026.
 
 Main Phase is a garage and bass artist tracked on soundcheck, with 194 sets logged across Aberdeen, Amsterdam, Antwerp and Auckland and 54 more. Often billed alongside Interplanetary Criminal, Silva Bumpa and Dr Dubplate. Next up: Knockdown Center, Newyorkcity on Fri 31 Jul.
 
@@ -31,4 +31,4 @@ Main Phase is a garage and bass artist tracked on soundcheck, with 194 sets logg
 
 Interplanetary Criminal, Silva Bumpa, Dr Dubplate
 
-*Updated Mon, 20 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/mainphase/)*
+*Updated Tue, 21 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/mainphase/)*

@@ -1,6 +1,6 @@
 # Justin Strauss
 
-Justin Strauss is a House and Electro artist with 2 upcoming club dates listed on soundcheck as of Mon, 20 Jul 2026, next at Gabriela, New York City on Fri, 31 Jul 2026.
+Justin Strauss is a House and Electro artist with 2 upcoming club dates listed on soundcheck as of Tue, 21 Jul 2026, next at Gabriela, New York City on Fri, 31 Jul 2026.
 
 Justin Strauss is a house and electro artist tracked on soundcheck, with 169 sets logged across Belfast, Berlin, Boston and Chicago and 11 more. Often billed alongside Andi, Max Pask and Eli Escobar. Next up: Gabriela, Newyorkcity on Fri 31 Jul.
 
@@ -26,4 +26,4 @@ Justin Strauss is a house and electro artist tracked on soundcheck, with 169 set
 
 Andi, Max Pask, Eli Escobar
 
-*Updated Mon, 20 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/justinstrauss/)*
+*Updated Tue, 21 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/justinstrauss/)*

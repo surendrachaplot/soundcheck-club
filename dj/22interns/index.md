@@ -1,6 +1,6 @@
 # 22 Interns
 
-22 Interns is a House and Trance artist with 2 upcoming club dates listed on soundcheck as of Mon, 20 Jul 2026, next at Manii Beach, Amsterdam on Sat, 25 Jul 2026.
+22 Interns is a House and Trance artist with 2 upcoming club dates listed on soundcheck as of Tue, 21 Jul 2026, next at Manii Beach, Amsterdam on Sat, 25 Jul 2026.
 
 22 Interns is a house and trance artist based in Netherlands, tracked on soundcheck, with 40 sets logged across Amsterdam, Antwerp, Berlin and Brussels and 8 more. Often billed alongside AUTOFLOWER, Rozie and Benny Rodrigues. Next up: Manii Beach, Amsterdam on Sat 25 Jul.
 
@@ -26,4 +26,4 @@
 
 AUTOFLOWER, Rozie, Benny Rodrigues
 
-*Updated Mon, 20 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/22interns/)*
+*Updated Tue, 21 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/22interns/)*

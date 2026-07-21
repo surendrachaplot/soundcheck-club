@@ -1,13 +1,14 @@
 # Gretchen
 
-Gretchen is a music venue in Berlin with 21 upcoming nights listed on soundcheck as of Mon, 20 Jul 2026; the next is "CELE ARRABAL at BERLIN - INTERLUDE X LA TRIBU" on Fri, 31 Jul 2026.
+Gretchen is a music venue in Berlin with 23 upcoming nights listed on soundcheck as of Tue, 21 Jul 2026; the next is "Venezuela Tattoo & Music Fundraiser Event" on Thu, 23 Jul 2026.
 
-Gretchen is a music venue in Berlin listed on soundcheck. 21 upcoming nights, with line-ups including Acid Arab, Allynx, DRS and Genoe and 2 more. Browse upcoming dates, start times and who's playing. Obentrautstr.19-21; 10963 Kreuzberg; Berlin; Germany.
+Gretchen is a music venue in Berlin listed on soundcheck. 23 upcoming nights, with line-ups including Acid Arab, Allynx, Dj Quien and DRS and 2 more. Browse upcoming dates, start times and who's playing. Obentrautstr.19-21; 10963 Kreuzberg; Berlin; Germany.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
+| Thu, 23 Jul 2026 | Venezuela Tattoo & Music Fundraiser Event | Dj Quien, Lady J (Berlin), Polli ji, Suzanne |
 | Fri, 31 Jul 2026 | CELE ARRABAL at BERLIN - INTERLUDE X LA TRIBU |  |
 | Tue, 4 Aug 2026 | SYSTEMA SOLAR *live |  |
 | Thu, 6 Aug 2026 | EV |  |
@@ -17,10 +18,9 @@ Gretchen is a music venue in Berlin listed on soundcheck. 21 upcoming nights, wi
 | Sat, 12 Sept 2026 | BALKANBEATS - Robert Soko DJ-Set |  |
 | Sat, 19 Sept 2026 | DOV'È LIANA *live |  |
 | Sat, 19 Sept 2026 | Recycle: LSB & DRS present Space Age | DRS, Hawt Coco, Jimi Handtrix, LSB, Ladybird, Mc Jamie White, Tommy Lexxus, Workforce |
-| Wed, 23 Sept 2026 | MAYA ONGAKU *live |  |
 
 ## Address
 
 Obentrautstr.19-21; 10963 Kreuzberg; Berlin; Germany, Berlin
 
-*Updated Mon, 20 Jul 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/gretchen/)*
+*Updated Tue, 21 Jul 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/gretchen/)*

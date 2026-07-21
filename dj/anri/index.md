@@ -1,6 +1,6 @@
 # Anri
 
-Anri is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Mon, 20 Jul 2026, next at Aoyama Hachi, Tokyo on Sun, 26 Jul 2026.
+Anri is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Tue, 21 Jul 2026, next at Aoyama Hachi, Tokyo on Sun, 26 Jul 2026.
 
 Anri is a house and techno artist based in Japan, tracked on soundcheck, with 36 sets logged across Barcelona, Berlin, Kualalumpur and Tbilisi and 1 more. Often billed alongside Yamariki, PUNK N MATRIX and Squaric. Next up: Aoyama Hachi, Tokyo on Sun 26 Jul.
 
@@ -26,4 +26,4 @@ Anri is a house and techno artist based in Japan, tracked on soundcheck, with 36
 
 Yamariki, PUNK N MATRIX, Squaric
 
-*Updated Mon, 20 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/anri/)*
+*Updated Tue, 21 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/anri/)*

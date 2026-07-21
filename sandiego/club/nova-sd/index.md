@@ -1,6 +1,6 @@
 # Nova SD
 
-Nova SD is a music venue in San Diego with 1 upcoming night listed on soundcheck as of Mon, 20 Jul 2026; the next is "Habstrakt" on Fri, 21 Aug 2026.
+Nova SD is a music venue in San Diego with 1 upcoming night listed on soundcheck as of Tue, 21 Jul 2026; the next is "Habstrakt" on Fri, 21 Aug 2026.
 
 Nova SD is a music venue in Sandiego listed on soundcheck. 1 upcoming night. Browse upcoming dates, start times and who's playing. 454 Sixth Ave, San Diego, CA 92101.
 
@@ -14,4 +14,4 @@ Nova SD is a music venue in Sandiego listed on soundcheck. 1 upcoming night. Bro
 
 454 Sixth Ave, San Diego, CA 92101, San Diego
 
-*Updated Mon, 20 Jul 2026 · source: [soundcheck](https://soundcheck.club/sandiego/club/nova-sd/)*
+*Updated Tue, 21 Jul 2026 · source: [soundcheck](https://soundcheck.club/sandiego/club/nova-sd/)*

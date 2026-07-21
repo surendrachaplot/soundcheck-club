@@ -1,6 +1,6 @@
 # Colored Craig
 
-Colored Craig is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Mon, 20 Jul 2026, next at BASEMENT, New York City on Sat, 25 Jul 2026.
+Colored Craig is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Tue, 21 Jul 2026, next at BASEMENT, New York City on Sat, 25 Jul 2026.
 
 Colored Craig is a house and techno artist based in United States of America, tracked on soundcheck, with 90 sets logged across Barcelona, Berlin, Chicago and Detroit and 11 more. Often billed alongside Kilopatrah Jones, Ashley Younniä and BAE BAE. Next up: BASEMENT, Newyorkcity on Sat 25 Jul.
 
@@ -27,4 +27,4 @@ Colored Craig is a house and techno artist based in United States of America, tr
 
 Kilopatrah Jones, Ashley Younniä, BAE BAE
 
-*Updated Mon, 20 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/coloredcraig/)*
+*Updated Tue, 21 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/coloredcraig/)*

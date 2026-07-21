@@ -1,6 +1,6 @@
 # Krankent
 
-Krankent is a Techno and House artist with 4 upcoming club dates listed on soundcheck as of Mon, 20 Jul 2026, next at UTOPIA / DYSTOPIA, Tokyo on Thu, 23 Jul 2026.
+Krankent is a Techno and House artist with 4 upcoming club dates listed on soundcheck as of Tue, 21 Jul 2026, next at UTOPIA / DYSTOPIA, Tokyo on Thu, 23 Jul 2026.
 
 Krankent is a techno and house artist tracked on soundcheck, with 94 sets logged across Tokyo. Often billed alongside KASHIWAGI, SIGNAL (JP) and t.t.. Next up: UTOPIA / DYSTOPIA, Tokyo on Thu 23 Jul.
 
@@ -28,4 +28,4 @@ Krankent is a techno and house artist tracked on soundcheck, with 94 sets logged
 
 KASHIWAGI, SIGNAL (JP), t.t.
 
-*Updated Mon, 20 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/krankent/)*
+*Updated Tue, 21 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/krankent/)*

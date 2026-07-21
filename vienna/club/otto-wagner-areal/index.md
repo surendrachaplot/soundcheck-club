@@ -1,6 +1,6 @@
 # Otto Wagner Areal
 
-Otto Wagner Areal is a music venue in Vienna with 3 upcoming nights listed on soundcheck as of Mon, 20 Jul 2026; the next is "Common Ground Vol.2" on Sat, 25 Jul 2026.
+Otto Wagner Areal is a music venue in Vienna with 3 upcoming nights listed on soundcheck as of Tue, 21 Jul 2026; the next is "Common Ground Vol.2" on Sat, 25 Jul 2026.
 
 Otto Wagner Areal is a music venue in Vienna listed on soundcheck. 3 upcoming nights, with line-ups including anxxxious_t, isocialbutterflyy, Mursal and Tuxe. Browse upcoming dates, start times and who's playing. Baumgartner Höhe 1, 1140 Wien.
 
@@ -16,4 +16,4 @@ Otto Wagner Areal is a music venue in Vienna listed on soundcheck. 3 upcoming ni
 
 Baumgartner Höhe 1, 1140 Wien, Vienna
 
-*Updated Mon, 20 Jul 2026 · source: [soundcheck](https://soundcheck.club/vienna/club/otto-wagner-areal/)*
+*Updated Tue, 21 Jul 2026 · source: [soundcheck](https://soundcheck.club/vienna/club/otto-wagner-areal/)*

@@ -1,8 +1,8 @@
 # La Station - Gare des Mines
 
-La Station - Gare des Mines is a music venue in Paris with 14 upcoming nights listed on soundcheck as of Mon, 20 Jul 2026; the next is "la Culottée (Nord + Sud)" on Fri, 24 Jul 2026.
+La Station - Gare des Mines is a music venue in Paris with 15 upcoming nights listed on soundcheck as of Tue, 21 Jul 2026; the next is "la Culottée (Nord + Sud)" on Fri, 24 Jul 2026.
 
-La Station - Gare des Mines is a music venue in Paris listed on soundcheck. 14 upcoming nights, with line-ups including Amina, Andy4000, Aria Seashell and audio primitive and 2 more. Browse upcoming dates, start times and who's playing. 29 avenue de la Porte d’Aubervilliers Paris.
+La Station - Gare des Mines is a music venue in Paris listed on soundcheck. 15 upcoming nights, with line-ups including Amina, Andy4000, Aria Seashell and audio primitive and 2 more. Browse upcoming dates, start times and who's playing. 29 avenue de la Porte d’Aubervilliers Paris.
 
 ## What's on
 
@@ -23,4 +23,4 @@ La Station - Gare des Mines is a music venue in Paris listed on soundcheck. 14 u
 
 29 avenue de la Porte d’Aubervilliers Paris, Paris
 
-*Updated Mon, 20 Jul 2026 · source: [soundcheck](https://soundcheck.club/paris/club/la-station-gare-des-mines/)*
+*Updated Tue, 21 Jul 2026 · source: [soundcheck](https://soundcheck.club/paris/club/la-station-gare-des-mines/)*

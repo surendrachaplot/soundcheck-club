@@ -1,6 +1,6 @@
 # Scott Zacharias
 
-Scott Zacharias is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Mon, 20 Jul 2026, next at Bambi's, Toronto on Fri, 24 Jul 2026.
+Scott Zacharias is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Tue, 21 Jul 2026, next at Bambi's, Toronto on Fri, 24 Jul 2026.
 
 Scott Zacharias is a house and techno artist based in United States of America, tracked on soundcheck, with 139 sets logged across Austin, Chicago, Detroit and Losangeles and 10 more. Often billed alongside Ryan Spencer, Father Dukes and Ladylike. Next up: Bambi's, Toronto on Fri 24 Jul.
 
@@ -27,4 +27,4 @@ Scott Zacharias is a house and techno artist based in United States of America, 
 
 Ryan Spencer, Father Dukes, Ladylike
 
-*Updated Mon, 20 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/scottzacharias/)*
+*Updated Tue, 21 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/scottzacharias/)*

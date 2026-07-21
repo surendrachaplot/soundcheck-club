@@ -1,6 +1,6 @@
 # FS Green
 
-FS Green is a Hip-Hop and Amapiano artist with 2 upcoming club dates listed on soundcheck as of Mon, 20 Jul 2026, next at Space for Skate, Munich on Fri, 24 Jul 2026.
+FS Green is a Hip-Hop and Amapiano artist with 2 upcoming club dates listed on soundcheck as of Tue, 21 Jul 2026, next at Space for Skate, Munich on Fri, 24 Jul 2026.
 
 FS Green is a hip-hop and amapiano artist based in Netherlands, tracked on soundcheck, with 48 sets logged across Amsterdam, Bangkok, Berlin and Chicago and 13 more. Often billed alongside Jarreau Vandal, Arthi and Yosef (ES). Next up: Space for Skate, Munich on Fri 24 Jul.
 
@@ -26,4 +26,4 @@ FS Green is a hip-hop and amapiano artist based in Netherlands, tracked on sound
 
 Jarreau Vandal, Arthi, Yosef (ES)
 
-*Updated Mon, 20 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/fsgreen/)*
+*Updated Tue, 21 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/fsgreen/)*

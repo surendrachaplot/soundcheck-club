@@ -1,6 +1,6 @@
 # Jumbi
 
-Jumbi is a music venue in London with 7 upcoming nights listed on soundcheck as of Mon, 20 Jul 2026; the next is "Jumbi 4th Birthday Warehouse Bash (Jumbi and Unit 08)" on Sat, 25 Jul 2026.
+Jumbi is a music venue in London with 7 upcoming nights listed on soundcheck as of Tue, 21 Jul 2026; the next is "Jumbi 4th Birthday Warehouse Bash (Jumbi and Unit 08)" on Sat, 25 Jul 2026.
 
 Jumbi is a music venue in London listed on soundcheck. 7 upcoming nights, with line-ups including dare balogun, Derrick Carter, Glade Marie and Jitwam and 2 more. Browse upcoming dates, start times and who's playing. Unit 4.1, Copeland Park, 133 Copeland Rd, London SE15 3SN.
 
@@ -20,4 +20,4 @@ Jumbi is a music venue in London listed on soundcheck. 7 upcoming nights, with l
 
 Unit 4.1, Copeland Park, 133 Copeland Rd, London SE15 3SN, London
 
-*Updated Mon, 20 Jul 2026 · source: [soundcheck](https://soundcheck.club/london/club/jumbi/)*
+*Updated Tue, 21 Jul 2026 · source: [soundcheck](https://soundcheck.club/london/club/jumbi/)*

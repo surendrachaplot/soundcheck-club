@@ -1,6 +1,6 @@
 # Pumpehuset
 
-Pumpehuset is a music venue in Copenhagen with 4 upcoming nights listed on soundcheck as of Mon, 20 Jul 2026; the next is "GAGxDAS: PRIDE" on Sat, 15 Aug 2026.
+Pumpehuset is a music venue in Copenhagen with 4 upcoming nights listed on soundcheck as of Tue, 21 Jul 2026; the next is "GAGxDAS: PRIDE" on Sat, 15 Aug 2026.
 
 Pumpehuset is a music venue in Copenhagen listed on soundcheck. 4 upcoming nights, with line-ups including dj Joe, DRAHO, Lisa Fosmark and Metaraph and 2 more. Browse upcoming dates, start times and who's playing. Studiestræde 52, 1554 Copenhagen V, Denmark.
 
@@ -17,4 +17,4 @@ Pumpehuset is a music venue in Copenhagen listed on soundcheck. 4 upcoming night
 
 Studiestræde 52, 1554 Copenhagen V, Denmark, Copenhagen
 
-*Updated Mon, 20 Jul 2026 · source: [soundcheck](https://soundcheck.club/copenhagen/club/pumpehuset/)*
+*Updated Tue, 21 Jul 2026 · source: [soundcheck](https://soundcheck.club/copenhagen/club/pumpehuset/)*

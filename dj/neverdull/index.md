@@ -1,6 +1,6 @@
 # Never Dull
 
-Never Dull is a House and Disco artist with 2 upcoming club dates listed on soundcheck as of Mon, 20 Jul 2026, next at Elsewhere, New York City on Sat, 22 Aug 2026.
+Never Dull is a House and Disco artist with 2 upcoming club dates listed on soundcheck as of Tue, 21 Jul 2026, next at Elsewhere, New York City on Sat, 22 Aug 2026.
 
 Never Dull is a house and disco artist based in United States of America, tracked on soundcheck, with 64 sets logged across Amsterdam, Austin, Boston and Chicago and 16 more. Often billed alongside Rich Reason, Eliangel and James Juke. Next up: Elsewhere, Newyorkcity on Sat 22 Aug.
 
@@ -26,4 +26,4 @@ Never Dull is a house and disco artist based in United States of America, tracke
 
 Rich Reason, Eliangel, James Juke
 
-*Updated Mon, 20 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/neverdull/)*
+*Updated Tue, 21 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/neverdull/)*

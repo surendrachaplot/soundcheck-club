@@ -1,6 +1,6 @@
 # Marhu
 
-Marhu is a Techno and Trance artist with 2 upcoming club dates listed on soundcheck as of Mon, 20 Jul 2026, next at Circle Park, Brussels on Sat, 1 Aug 2026.
+Marhu is a Techno and Trance artist with 2 upcoming club dates listed on soundcheck as of Tue, 21 Jul 2026, next at Circle Park, Brussels on Sat, 1 Aug 2026.
 
 Marhu is a techno and trance artist tracked on soundcheck, with 46 sets logged across Amsterdam, Antwerp, Bali and Barcelona and 20 more. Often billed alongside Indira Paganotto, BIIA and Die Klar. Next up: Circle Park, Brussels on Sat 1 Aug.
 
@@ -26,4 +26,4 @@ Marhu is a techno and trance artist tracked on soundcheck, with 46 sets logged a
 
 Indira Paganotto, BIIA, Die Klar
 
-*Updated Mon, 20 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/marhu/)*
+*Updated Tue, 21 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/marhu/)*

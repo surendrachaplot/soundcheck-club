@@ -1,14 +1,14 @@
 # Leon Licht
 
-Leon Licht is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Mon, 20 Jul 2026, next at TBA - PARKHAUS IHZ (MITTE), Berlin on Fri, 31 Jul 2026.
+Leon Licht is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Tue, 21 Jul 2026, next at Hinterhof Mitte, Berlin on Fri, 31 Jul 2026.
 
-Leon Licht is a techno and house artist tracked on soundcheck, with 206 sets logged across Berlin, Cologne, Copenhagen and Frankfurt and 4 more. Often billed alongside Kaufmann, ADAMN and Memo.. Next up: TBA - PARKHAUS IHZ (MITTE), Berlin on Fri 31 Jul.
+Leon Licht is a techno and house artist tracked on soundcheck, with 206 sets logged across Berlin, Cologne, Copenhagen and Frankfurt and 4 more. Often billed alongside Kaufmann, ADAMN and Memo.. Next up: Hinterhof Mitte, Berlin on Fri 31 Jul.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 31 Jul 2026 | TBA - PARKHAUS IHZ (MITTE) | Berlin |
+| Fri, 31 Jul 2026 | Hinterhof Mitte | Berlin |
 | Sat, 1 Aug 2026 | Tanzhaus West | Frankfurt |
 
 ## Recently played
@@ -26,4 +26,4 @@ Leon Licht is a techno and house artist tracked on soundcheck, with 206 sets log
 
 Kaufmann, ADAMN, Memo.
 
-*Updated Mon, 20 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/leonlicht/)*
+*Updated Tue, 21 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/leonlicht/)*

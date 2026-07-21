@@ -1,8 +1,8 @@
 # LO-LOW
 
-LO-LOW is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Mon, 20 Jul 2026, next at Boston Manor Park, London on Fri, 31 Jul 2026.
+LO-LOW is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Tue, 21 Jul 2026, next at Boston Manor Park, London on Fri, 31 Jul 2026.
 
-LO-LOW is a techno and house artist tracked on soundcheck, with 78 sets logged across Amsterdam, Berlin, London and Manchester and 2 more. Often billed alongside Samantha Togni, Someone Sunny and ASHTREY. Next up: Boston Manor Park, London on Fri 31 Jul.
+LO-LOW is a techno and house artist tracked on soundcheck, with 79 sets logged across Amsterdam, Berlin, London and Manchester and 2 more. Often billed alongside David Ramsay, Samantha Togni and Someone Sunny. Next up: Boston Manor Park, London on Fri 31 Jul.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ LO-LOW is a techno and house artist tracked on soundcheck, with 78 sets logged a
 | --- | --- | --- |
 | Fri, 31 Jul 2026 | Boston Manor Park | London |
 | Sat, 1 Aug 2026 | Distillery N17 | London |
+| Sun, 27 Sept 2026 | Starlane Pizza Bar | London |
 
 ## Recently played
 
@@ -24,6 +25,6 @@ LO-LOW is a techno and house artist tracked on soundcheck, with 78 sets logged a
 
 ## Shares bills with
 
-Samantha Togni, Someone Sunny, ASHTREY
+David Ramsay, Samantha Togni, Someone Sunny
 
-*Updated Mon, 20 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/lo-low/)*
+*Updated Tue, 21 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/lo-low/)*

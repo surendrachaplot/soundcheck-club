@@ -1,8 +1,8 @@
 # Enrica Falqui
 
-Enrica Falqui is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Mon, 20 Jul 2026, next at House of Q, Stockholm on Sat, 25 Jul 2026.
+Enrica Falqui is a Techno and House artist with 4 upcoming club dates listed on soundcheck as of Tue, 21 Jul 2026, next at House of Q, Stockholm on Sat, 25 Jul 2026.
 
-Enrica Falqui is a techno and house artist tracked on soundcheck, with 109 sets logged across Amsterdam, Antwerp, Athens and Bali and 33 more. Often billed alongside Dea (6), ERIS and Alexia Glensy. Next up: House of Q, Stockholm on Sat 25 Jul.
+Enrica Falqui is a techno and house artist tracked on soundcheck, with 110 sets logged across Amsterdam, Antwerp, Athens and Bali and 33 more. Often billed alongside Dea (6), ERIS and Alexia Glensy. Next up: House of Q, Stockholm on Sat 25 Jul.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Enrica Falqui is a techno and house artist tracked on soundcheck, with 109 sets 
 | --- | --- | --- |
 | Sat, 25 Jul 2026 | House of Q | Stockholm |
 | Fri, 14 Aug 2026 | TBA - Klingemühle | Berlin |
+| Fri, 14 Aug 2026 | Club der Visionaere | Berlin |
 | Sun, 30 Aug 2026 | Gaffe | London |
 
 ## Recently played
@@ -27,4 +28,4 @@ Enrica Falqui is a techno and house artist tracked on soundcheck, with 109 sets 
 
 Dea (6), ERIS, Alexia Glensy
 
-*Updated Mon, 20 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/enricafalqui/)*
+*Updated Tue, 21 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/enricafalqui/)*

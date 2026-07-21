@@ -1,6 +1,6 @@
 # Adam Dado
 
-Adam Dado is a Minimal and House artist with 2 upcoming club dates listed on soundcheck as of Mon, 20 Jul 2026, next at Culture Cafe, Bangkok on Tue, 21 Jul 2026.
+Adam Dado is a Minimal and House artist with 2 upcoming club dates listed on soundcheck as of Tue, 21 Jul 2026, next at Culture Cafe, Bangkok on Tue, 21 Jul 2026.
 
 Adam Dado is a minimal and house artist based in Indonesia, tracked on soundcheck, with 37 sets logged across Bali and Bangkok. Often billed alongside Ryan Rayana, Lijero and Montella G. Next up: Culture Cafe, Bangkok on Tue 21 Jul.
 
@@ -26,4 +26,4 @@ Adam Dado is a minimal and house artist based in Indonesia, tracked on soundchec
 
 Ryan Rayana, Lijero, Montella G
 
-*Updated Mon, 20 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/adamdado/)*
+*Updated Tue, 21 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/adamdado/)*

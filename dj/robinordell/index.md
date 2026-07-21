@@ -1,6 +1,6 @@
 # Robin Ordell
 
-Robin Ordell is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Mon, 20 Jul 2026, next at teller, Seoul on Sat, 25 Jul 2026.
+Robin Ordell is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Tue, 21 Jul 2026, next at teller, Seoul on Sat, 25 Jul 2026.
 
 Robin Ordell is a house and techno artist based in France, tracked on soundcheck, with 43 sets logged across Bangkok, Barcelona, Berlin and Brussels and 11 more. Often billed alongside Olita (UK), Sam Bangura and Greg Brockmann. Next up: teller, Seoul on Sat 25 Jul.
 
@@ -26,4 +26,4 @@ Robin Ordell is a house and techno artist based in France, tracked on soundcheck
 
 Olita (UK), Sam Bangura, Greg Brockmann
 
-*Updated Mon, 20 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/robinordell/)*
+*Updated Tue, 21 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/robinordell/)*

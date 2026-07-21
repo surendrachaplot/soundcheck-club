@@ -1,6 +1,6 @@
 # Britta Arnold
 
-Britta Arnold is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Mon, 20 Jul 2026, next at Doma Portugal, Lisbon on Fri, 24 Jul 2026.
+Britta Arnold is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Tue, 21 Jul 2026, next at Doma Portugal, Lisbon on Fri, 24 Jul 2026.
 
 Britta Arnold is a techno and house artist tracked on soundcheck, with 122 sets logged across Amsterdam, Athens, Barcelona and Basel and 25 more. Often billed alongside Mira, Chris Schwarzwälder and Franca. Next up: Doma Portugal, Lisbon on Fri 24 Jul.
 
@@ -27,4 +27,4 @@ Britta Arnold is a techno and house artist tracked on soundcheck, with 122 sets 
 
 Mira, Chris Schwarzwälder, Franca
 
-*Updated Mon, 20 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/brittaarnold/)*
+*Updated Tue, 21 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/brittaarnold/)*

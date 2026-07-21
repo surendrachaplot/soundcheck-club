@@ -1,6 +1,6 @@
 # Masalo
 
-Masalo is a House and Disco artist with 4 upcoming club dates listed on soundcheck as of Mon, 20 Jul 2026, next at Hal25, Amsterdam on Sat, 8 Aug 2026.
+Masalo is a House and Disco artist with 4 upcoming club dates listed on soundcheck as of Tue, 21 Jul 2026, next at Hal25, Amsterdam on Sat, 8 Aug 2026.
 
 Masalo is a house and disco artist tracked on soundcheck, with 123 sets logged across Amsterdam, Antwerp, Athens and Bali and 34 more. Often billed alongside Kamma, Antal and Budino. Next up: Hal25, Amsterdam on Sat 8 Aug.
 
@@ -28,4 +28,4 @@ Masalo is a house and disco artist tracked on soundcheck, with 123 sets logged a
 
 Kamma, Antal, Budino
 
-*Updated Mon, 20 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/masalo/)*
+*Updated Tue, 21 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/masalo/)*

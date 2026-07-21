@@ -1,6 +1,6 @@
 # KONZ
 
-KONZ is a Techno and House artist with 4 upcoming club dates listed on soundcheck as of Mon, 20 Jul 2026, next at Komplex Berlin, Berlin on Sat, 25 Jul 2026.
+KONZ is a Techno and House artist with 4 upcoming club dates listed on soundcheck as of Tue, 21 Jul 2026, next at Komplex Berlin, Berlin on Sat, 25 Jul 2026.
 
 KONZ is a techno and house artist tracked on soundcheck, with 35 sets logged across Berlin, Hamburg, London and Mexicocity and 1 more. Often billed alongside djslut, Amphia and DJ Putilla. Next up: Komplex Berlin, Berlin on Sat 25 Jul.
 
@@ -28,4 +28,4 @@ KONZ is a techno and house artist tracked on soundcheck, with 35 sets logged acr
 
 djslut, Amphia, DJ Putilla
 
-*Updated Mon, 20 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/konz/)*
+*Updated Tue, 21 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/konz/)*

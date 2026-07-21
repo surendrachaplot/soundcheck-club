@@ -1,6 +1,6 @@
 # m4tsch1
 
-m4tsch1 is a Hardcore and Techno artist with 2 upcoming club dates listed on soundcheck as of Mon, 20 Jul 2026, next at OXI, Berlin on Sat, 8 Aug 2026.
+m4tsch1 is a Hardcore and Techno artist with 2 upcoming club dates listed on soundcheck as of Tue, 21 Jul 2026, next at OXI, Berlin on Sat, 8 Aug 2026.
 
 m4tsch1 is a hardcore and techno artist tracked on soundcheck, with 40 sets logged across Berlin, Leipzig and Zurich. Often billed alongside FLUCC, Osiris (2) and LØUS. Next up: OXI, Berlin on Sat 8 Aug.
 
@@ -26,4 +26,4 @@ m4tsch1 is a hardcore and techno artist tracked on soundcheck, with 40 sets logg
 
 FLUCC, Osiris (2), LØUS
 
-*Updated Mon, 20 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/m4tsch1/)*
+*Updated Tue, 21 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/m4tsch1/)*

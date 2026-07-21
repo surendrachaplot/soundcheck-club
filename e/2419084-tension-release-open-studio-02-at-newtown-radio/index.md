@@ -1,6 +1,6 @@
 # tension/release — open studio 02 at Newtown Radio
 
-tension/release — open studio 02 at Newtown Radio on Fri 21 Aug, Newyorkcity. 6 acts on the bill: Aleska, BOB1, Bella Mode and Elladotnet and 2 more. Techno and Experimental. Preview the line-up and save it on soundcheck.
+tension/release — open studio 02 at Newtown Radio on Fri 21 Aug, Newyorkcity. 7 acts on the bill: Aleska, BOB1, Bella Mode and Elladotnet and 3 more. Techno and Experimental. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -14,6 +14,7 @@ tension/release — open studio 02 at Newtown Radio on Fri 21 Aug, Newyorkcity. 
 - BOB1
 - Bella Mode
 - Elladotnet
+- HEYFAYBAE
 - LTE (1)
 - R-DNA
 

@@ -1,8 +1,8 @@
 # Bukanyr Boat
 
-Bukanyr Boat is a music venue in Prague with 3 upcoming nights listed on soundcheck as of Mon, 20 Jul 2026; the next is "Vlny „23rd Anniversary - The Final Voyage'" on Fri, 24 Jul 2026.
+Bukanyr Boat is a music venue in Prague with 4 upcoming nights listed on soundcheck as of Tue, 21 Jul 2026; the next is "Vlny „23rd Anniversary - The Final Voyage'" on Fri, 24 Jul 2026.
 
-Bukanyr Boat is a music venue in Prague listed on soundcheck. 3 upcoming nights, with line-ups including aros, Biodan, PhanFive and Sonority and 2 more. Browse upcoming dates, start times and who's playing. Nábřeží Ludvíka Svobody 1, 110 00 Prague, Czech Republic.
+Bukanyr Boat is a music venue in Prague listed on soundcheck. 4 upcoming nights, with line-ups including aros, Biodan, PhanFive and Sonority and 2 more. Browse upcoming dates, start times and who's playing. Nábřeží Ludvíka Svobody 1, 110 00 Prague, Czech Republic.
 
 ## What's on
 
@@ -11,9 +11,10 @@ Bukanyr Boat is a music venue in Prague listed on soundcheck. 3 upcoming nights,
 | Fri, 24 Jul 2026 | Vlny „23rd Anniversary - The Final Voyage' | Biodan, PhanFive, Zissou |
 | Sat, 25 Jul 2026 | Sonority LIVE + DJ Set (Manual Music), aros, Michael S Rossignol | Sonority, aros |
 | Fri, 31 Jul 2026 | wnchnz & PHILLZ (all night long) | wnchnz |
+| Sat, 1 Aug 2026 | VIIITO, Wolf, Stormzi |  |
 
 ## Address
 
 Nábřeží Ludvíka Svobody 1, 110 00 Prague, Czech Republic, Prague
 
-*Updated Mon, 20 Jul 2026 · source: [soundcheck](https://soundcheck.club/prague/club/bukanyr-boat/)*
+*Updated Tue, 21 Jul 2026 · source: [soundcheck](https://soundcheck.club/prague/club/bukanyr-boat/)*

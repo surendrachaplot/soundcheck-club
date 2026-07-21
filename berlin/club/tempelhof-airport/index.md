@@ -1,6 +1,6 @@
 # Tempelhof Airport
 
-Tempelhof Airport is a music venue in Berlin with 2 upcoming nights listed on soundcheck as of Mon, 20 Jul 2026; the next is "THF Radio x Black Mirror Park invites - Rooftop Open Air & Stream at THF Tower" on Sat, 1 Aug 2026.
+Tempelhof Airport is a music venue in Berlin with 2 upcoming nights listed on soundcheck as of Tue, 21 Jul 2026; the next is "THF Radio x Black Mirror Park invites - Rooftop Open Air & Stream at THF Tower" on Sat, 1 Aug 2026.
 
 Tempelhof Airport is a music venue in Berlin listed on soundcheck. 2 upcoming nights, with line-ups including Bae Blade, BIIANCO, Black Mirror Park and CEREN and 2 more. Browse upcoming dates, start times and who's playing. Flughafen Tempelhof; Tempelhof; 12101 Berlin; Germany.
 
@@ -15,4 +15,4 @@ Tempelhof Airport is a music venue in Berlin listed on soundcheck. 2 upcoming ni
 
 Flughafen Tempelhof; Tempelhof; 12101 Berlin; Germany, Berlin
 
-*Updated Mon, 20 Jul 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/tempelhof-airport/)*
+*Updated Tue, 21 Jul 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/tempelhof-airport/)*

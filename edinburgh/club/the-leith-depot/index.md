@@ -1,6 +1,6 @@
 # The Leith Depot
 
-The Leith Depot is a music venue in Edinburgh with 1 upcoming night listed on soundcheck as of Mon, 20 Jul 2026; the next is "Box Energy // Jacksonville" on Fri, 24 Jul 2026.
+The Leith Depot is a music venue in Edinburgh with 1 upcoming night listed on soundcheck as of Tue, 21 Jul 2026; the next is "Box Energy // Jacksonville" on Fri, 24 Jul 2026.
 
 The Leith Depot is a music venue in Edinburgh listed on soundcheck. 1 upcoming night, with line-ups including Jacksonville. Browse upcoming dates, start times and who's playing. 138-140 Leith Walk, Midlothian, Edinburgh, EH6 5DT, United Kingdom.
 
@@ -14,4 +14,4 @@ The Leith Depot is a music venue in Edinburgh listed on soundcheck. 1 upcoming n
 
 138-140 Leith Walk, Midlothian, Edinburgh, EH6 5DT, United Kingdom, Edinburgh
 
-*Updated Mon, 20 Jul 2026 · source: [soundcheck](https://soundcheck.club/edinburgh/club/the-leith-depot/)*
+*Updated Tue, 21 Jul 2026 · source: [soundcheck](https://soundcheck.club/edinburgh/club/the-leith-depot/)*

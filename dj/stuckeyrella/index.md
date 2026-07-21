@@ -1,6 +1,6 @@
 # Stuckeyrella
 
-Stuckeyrella is a Techno and Industrial artist with 2 upcoming club dates listed on soundcheck as of Mon, 20 Jul 2026, next at TBA, Hamburg on Sat, 1 Aug 2026.
+Stuckeyrella is a Techno and Industrial artist with 2 upcoming club dates listed on soundcheck as of Tue, 21 Jul 2026, next at TBA, Hamburg on Sat, 1 Aug 2026.
 
 Stuckeyrella is a techno and industrial artist based in Germany, tracked on soundcheck, with 31 sets logged across Berlin, Hamburg, Leipzig and Nurnberg and 1 more. Often billed alongside DJ Jordan, Grace Thompson and maniaclina. Next up: TBA, Hamburg on Sat 1 Aug.
 
@@ -26,4 +26,4 @@ Stuckeyrella is a techno and industrial artist based in Germany, tracked on soun
 
 DJ Jordan, Grace Thompson, maniaclina
 
-*Updated Mon, 20 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/stuckeyrella/)*
+*Updated Tue, 21 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/stuckeyrella/)*

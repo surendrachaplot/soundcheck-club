@@ -1,6 +1,6 @@
 # Gordo
 
-Gordo is a House and Tech House artist with 10 upcoming club dates listed on soundcheck as of Mon, 20 Jul 2026, next at Café del Mar Malta, Malta on Sat, 25 Jul 2026.
+Gordo is a House and Tech House artist with 10 upcoming club dates listed on soundcheck as of Tue, 21 Jul 2026, next at Café del Mar Malta, Malta on Sat, 25 Jul 2026.
 
 Gordo is a house and tech house artist tracked on soundcheck, with 104 sets logged across Amsterdam, Austin, Bali and Barcelona and 28 more. Often billed alongside Marco Carola, Wade and Andrea Oliva. Next up: Café del Mar Malta, Malta on Sat 25 Jul.
 
@@ -34,4 +34,4 @@ Gordo is a house and tech house artist tracked on soundcheck, with 104 sets logg
 
 Marco Carola, Wade, Andrea Oliva
 
-*Updated Mon, 20 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/gordo/)*
+*Updated Tue, 21 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/gordo/)*

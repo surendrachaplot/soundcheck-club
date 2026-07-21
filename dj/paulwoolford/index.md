@@ -1,6 +1,6 @@
 # Paul Woolford
 
-Paul Woolford is a House and Tech House artist with 2 upcoming club dates listed on soundcheck as of Mon, 20 Jul 2026, next at TBA - THE STRAY, HARROGATE, Leeds on Sat, 5 Sept 2026.
+Paul Woolford is a House and Tech House artist with 2 upcoming club dates listed on soundcheck as of Tue, 21 Jul 2026, next at TBA - THE STRAY, HARROGATE, Leeds on Sat, 5 Sept 2026.
 
 Paul Woolford is a house and tech house artist based in United Kingdom, tracked on soundcheck, with 40 sets logged across Cardiff, Chicago, Dublin and Edinburgh and 12 more. Often billed alongside Claptone, Hannah Wants and Patrick Topping. Next up: TBA - THE STRAY, HARROGATE, Leeds on Sat 5 Sept.
 
@@ -26,4 +26,4 @@ Paul Woolford is a house and tech house artist based in United Kingdom, tracked 
 
 Claptone, Hannah Wants, Patrick Topping
 
-*Updated Mon, 20 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/paulwoolford/)*
+*Updated Tue, 21 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/paulwoolford/)*

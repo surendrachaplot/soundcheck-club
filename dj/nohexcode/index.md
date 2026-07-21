@@ -1,6 +1,6 @@
 # nohexcode
 
-nohexcode is a Techno and Acid artist with 3 upcoming club dates listed on soundcheck as of Mon, 20 Jul 2026, next at Dalston Den, London on Sat, 25 Jul 2026.
+nohexcode is a Techno and Acid artist with 3 upcoming club dates listed on soundcheck as of Tue, 21 Jul 2026, next at Dalston Den, London on Sat, 25 Jul 2026.
 
 nohexcode is a techno and acid artist tracked on soundcheck, with 27 sets logged across Berlin, Brighton and London. Often billed alongside CITYTRONIX, Noah Tauber and Modlar. Next up: Dalston Den, London on Sat 25 Jul.
 
@@ -27,4 +27,4 @@ nohexcode is a techno and acid artist tracked on soundcheck, with 27 sets logged
 
 CITYTRONIX, Noah Tauber, Modlar
 
-*Updated Mon, 20 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/nohexcode/)*
+*Updated Tue, 21 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/nohexcode/)*

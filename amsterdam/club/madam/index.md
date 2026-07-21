@@ -1,6 +1,6 @@
 # Madam
 
-Madam is a music venue in Amsterdam with 14 upcoming nights listed on soundcheck as of Mon, 20 Jul 2026; the next is "Madam by Night invites: DJ Tracksuit, Abiba Sokoto, Monrow" on Fri, 24 Jul 2026.
+Madam is a music venue in Amsterdam with 14 upcoming nights listed on soundcheck as of Tue, 21 Jul 2026; the next is "Madam by Night invites: DJ Tracksuit, Abiba Sokoto, Monrow" on Fri, 24 Jul 2026.
 
 Madam is a music venue in Amsterdam listed on soundcheck. 14 upcoming nights, with line-ups including Abiba Sokoto, Denoir, Dirk Schot and Divine Kaos and 2 more. Browse upcoming dates, start times and who's playing. Overhoeksplein 3, 1031 KS Amsterdam, Netherlands.
 
@@ -23,4 +23,4 @@ Madam is a music venue in Amsterdam listed on soundcheck. 14 upcoming nights, wi
 
 Overhoeksplein 3, 1031 KS Amsterdam, Netherlands, Amsterdam
 
-*Updated Mon, 20 Jul 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/madam/)*
+*Updated Tue, 21 Jul 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/madam/)*

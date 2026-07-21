@@ -1,6 +1,6 @@
 # Taylah Elaine
 
-Taylah Elaine is a Hip-Hop and House artist with 3 upcoming club dates listed on soundcheck as of Mon, 20 Jul 2026, next at Night Tales, London on Thu, 23 Jul 2026.
+Taylah Elaine is a Hip-Hop and House artist with 3 upcoming club dates listed on soundcheck as of Tue, 21 Jul 2026, next at Night Tales, London on Thu, 23 Jul 2026.
 
 Taylah Elaine is a hip-hop and house artist based in United Kingdom, tracked on soundcheck, with 74 sets logged across Amsterdam, Auckland, Bali and Barcelona and 28 more. Often billed alongside Donnie Sunshine, Eliza Rose and Joy Orbison. Next up: Night Tales, London on Thu 23 Jul.
 
@@ -27,4 +27,4 @@ Taylah Elaine is a hip-hop and house artist based in United Kingdom, tracked on 
 
 Donnie Sunshine, Eliza Rose, Joy Orbison
 
-*Updated Mon, 20 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/taylahelaine/)*
+*Updated Tue, 21 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/taylahelaine/)*

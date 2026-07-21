@@ -1,6 +1,6 @@
 # Skylark Roof Garden
 
-Skylark Roof Garden is a music venue in London with 1 upcoming night listed on soundcheck as of Mon, 20 Jul 2026; the next is "[CANCELLED] SUMMER RITE (Rooftop Party)" on Sat, 15 Aug 2026.
+Skylark Roof Garden is a music venue in London with 1 upcoming night listed on soundcheck as of Tue, 21 Jul 2026; the next is "[CANCELLED] SUMMER RITE (Rooftop Party)" on Sat, 15 Aug 2026.
 
 Skylark Roof Garden is a music venue in London listed on soundcheck. 1 upcoming night. Browse upcoming dates, start times and who's playing. 10th Floor, 4 Kingdom Street, Paddington Central, London W2 6BD.
 
@@ -14,4 +14,4 @@ Skylark Roof Garden is a music venue in London listed on soundcheck. 1 upcoming 
 
 10th Floor, 4 Kingdom Street, Paddington Central, London W2 6BD, London
 
-*Updated Mon, 20 Jul 2026 · source: [soundcheck](https://soundcheck.club/london/club/skylark-roof-garden/)*
+*Updated Tue, 21 Jul 2026 · source: [soundcheck](https://soundcheck.club/london/club/skylark-roof-garden/)*

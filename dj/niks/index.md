@@ -1,6 +1,6 @@
 # NIKS
 
-NIKS is a House and Techno artist with 5 upcoming club dates listed on soundcheck as of Mon, 20 Jul 2026, next at Berghain | Panorama Bar | Säule, Berlin on Fri, 24 Jul 2026.
+NIKS is a House and Techno artist with 5 upcoming club dates listed on soundcheck as of Tue, 21 Jul 2026, next at Berghain | Panorama Bar | Säule, Berlin on Fri, 24 Jul 2026.
 
 NIKS is a house and techno artist tracked on soundcheck, with 155 sets logged across Amsterdam, Antwerp, Barcelona and Berlin and 35 more. Often billed alongside Amaliah, Josh Caffé and Moxie. Next up: Berghain | Panorama Bar | Säule, Berlin on Fri 24 Jul.
 
@@ -29,4 +29,4 @@ NIKS is a house and techno artist tracked on soundcheck, with 155 sets logged ac
 
 Amaliah, Josh Caffé, Moxie
 
-*Updated Mon, 20 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/niks/)*
+*Updated Tue, 21 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/niks/)*

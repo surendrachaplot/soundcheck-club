@@ -1,6 +1,6 @@
 # Crossy
 
-Crossy is a Drum & Bass and Jungle artist with 7 upcoming club dates listed on soundcheck as of Mon, 20 Jul 2026, next at Boston Manor Park, London on Fri, 24 Jul 2026.
+Crossy is a Drum & Bass and Jungle artist with 7 upcoming club dates listed on soundcheck as of Tue, 21 Jul 2026, next at Boston Manor Park, London on Fri, 24 Jul 2026.
 
 Crossy is a drum & bass and jungle artist tracked on soundcheck, with 59 sets logged across Amsterdam, Auckland, Birmingham and Brighton and 14 more. Often billed alongside Carasel, Kelvin 373 and Benny L. Next up: Boston Manor Park, London on Fri 24 Jul.
 
@@ -31,4 +31,4 @@ Crossy is a drum & bass and jungle artist tracked on soundcheck, with 59 sets lo
 
 Carasel, Kelvin 373, Benny L
 
-*Updated Mon, 20 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/crossy/)*
+*Updated Tue, 21 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/crossy/)*

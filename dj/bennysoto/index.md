@@ -1,6 +1,6 @@
 # Benny Soto
 
-Benny Soto is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Mon, 20 Jul 2026, next at House of Yes, New York City on Fri, 24 Jul 2026.
+Benny Soto is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Tue, 21 Jul 2026, next at House of Yes, New York City on Fri, 24 Jul 2026.
 
 Benny Soto is a house and techno artist based in United States of America, tracked on soundcheck, with 33 sets logged across Newyorkcity. Often billed alongside Mike Nervous, Danny Krivit and AG (NYC). Next up: House of Yes, Newyorkcity on Fri 24 Jul.
 
@@ -26,4 +26,4 @@ Benny Soto is a house and techno artist based in United States of America, track
 
 Mike Nervous, Danny Krivit, AG (NYC)
 
-*Updated Mon, 20 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/bennysoto/)*
+*Updated Tue, 21 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/bennysoto/)*

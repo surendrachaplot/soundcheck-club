@@ -1,6 +1,6 @@
 # Arter
 
-Arter is a Garage and House artist with 2 upcoming club dates listed on soundcheck as of Mon, 20 Jul 2026, next at Zeescouts Aan De Stroom, Antwerp on Sat, 25 Jul 2026.
+Arter is a Garage and House artist with 2 upcoming club dates listed on soundcheck as of Tue, 21 Jul 2026, next at Zeescouts Aan De Stroom, Antwerp on Sat, 25 Jul 2026.
 
 Arter is a garage and house artist based in Belgium, tracked on soundcheck, with 43 sets logged across Antwerp, Brussels and Ghent. Often billed alongside DC Noises, BAVR and Helena Lauwaert. Next up: Zeescouts Aan De Stroom, Antwerp on Sat 25 Jul.
 
@@ -26,4 +26,4 @@ Arter is a garage and house artist based in Belgium, tracked on soundcheck, with
 
 DC Noises, BAVR, Helena Lauwaert
 
-*Updated Mon, 20 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/arter/)*
+*Updated Tue, 21 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/arter/)*

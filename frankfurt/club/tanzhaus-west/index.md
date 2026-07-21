@@ -1,6 +1,6 @@
 # Tanzhaus West
 
-Tanzhaus West is a music venue in Frankfurt with 8 upcoming nights listed on soundcheck as of Mon, 20 Jul 2026; the next is "TAG AM POOL with: AKA AKA, Nusha, Joris Turenhout, Steven Shade, uvm (2 DAYS INDOOR + OUTDOOR)" on Fri, 24 Jul 2026.
+Tanzhaus West is a music venue in Frankfurt with 8 upcoming nights listed on soundcheck as of Tue, 21 Jul 2026; the next is "TAG AM POOL with: AKA AKA, Nusha, Joris Turenhout, Steven Shade, uvm (2 DAYS INDOOR + OUTDOOR)" on Fri, 24 Jul 2026.
 
 Tanzhaus West is a music venue in Frankfurt listed on soundcheck. 8 upcoming nights, with line-ups including AKA AKA, Alina Viktoria, Andrale and Andy Düx and 2 more. Browse upcoming dates, start times and who's playing. Gutleutstrasse 294; 60327 Frankfurt; Germany.
 
@@ -21,4 +21,4 @@ Tanzhaus West is a music venue in Frankfurt listed on soundcheck. 8 upcoming nig
 
 Gutleutstrasse 294; 60327 Frankfurt; Germany, Frankfurt
 
-*Updated Mon, 20 Jul 2026 · source: [soundcheck](https://soundcheck.club/frankfurt/club/tanzhaus-west/)*
+*Updated Tue, 21 Jul 2026 · source: [soundcheck](https://soundcheck.club/frankfurt/club/tanzhaus-west/)*

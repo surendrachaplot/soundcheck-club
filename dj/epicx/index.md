@@ -1,8 +1,8 @@
 # Epicx
 
-Epicx is a Techno and Trance artist with 3 upcoming club dates listed on soundcheck as of Mon, 20 Jul 2026, next at Der Weiße Hase, Berlin on Sat, 25 Jul 2026.
+Epicx is a Techno and Trance artist with 5 upcoming club dates listed on soundcheck as of Tue, 21 Jul 2026, next at Der Weiße Hase, Berlin on Sat, 25 Jul 2026.
 
-Epicx is a techno and trance artist tracked on soundcheck, with 112 sets logged across Berlin and Warsaw. Often billed alongside Anubix, Emma (8) and DJ Jordan. Next up: Der Weiße Hase, Berlin on Sat 25 Jul.
+Epicx is a techno and trance artist tracked on soundcheck, with 114 sets logged across Berlin and Warsaw. Often billed alongside Anubix, Emma (8) and DJ Jordan. Next up: Der Weiße Hase, Berlin on Sat 25 Jul.
 
 ## Upcoming shows
 
@@ -10,6 +10,8 @@ Epicx is a techno and trance artist tracked on soundcheck, with 112 sets logged 
 | --- | --- | --- |
 | Sat, 25 Jul 2026 | Der Weiße Hase | Berlin |
 | Sat, 8 Aug 2026 | Insomnia | Berlin |
+| Sat, 8 Aug 2026 | Der Weiße Hase | Berlin |
+| Thu, 20 Aug 2026 | Der Weiße Hase | Berlin |
 | Sat, 29 Aug 2026 | Insomnia | Berlin |
 
 ## Recently played
@@ -27,4 +29,4 @@ Epicx is a techno and trance artist tracked on soundcheck, with 112 sets logged 
 
 Anubix, Emma (8), DJ Jordan
 
-*Updated Mon, 20 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/epicx/)*
+*Updated Tue, 21 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/epicx/)*

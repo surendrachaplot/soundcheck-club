@@ -1,6 +1,6 @@
 # Syd Woz
 
-Syd Woz is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Mon, 20 Jul 2026, next at Bar Datcha, Montreal on Sat, 25 Jul 2026.
+Syd Woz is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Tue, 21 Jul 2026, next at Bar Datcha, Montreal on Sat, 25 Jul 2026.
 
 Syd Woz is a techno and house artist based in Canada, tracked on soundcheck, with 36 sets logged across Berlin, Montreal, Newyorkcity and Portland and 1 more. Often billed alongside ZDBT, DJ dood and Frankie Teardrop. Next up: Bar Datcha, Montreal on Sat 25 Jul.
 
@@ -26,4 +26,4 @@ Syd Woz is a techno and house artist based in Canada, tracked on soundcheck, wit
 
 ZDBT, DJ dood, Frankie Teardrop
 
-*Updated Mon, 20 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/sydwoz/)*
+*Updated Tue, 21 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/sydwoz/)*

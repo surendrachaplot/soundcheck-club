@@ -1,13 +1,14 @@
 # DjRUM
 
-DjRUM is a Techno and Bass artist with 2 upcoming club dates listed on soundcheck as of Mon, 20 Jul 2026, next at The Cause, London on Sat, 12 Sept 2026.
+DjRUM is a Techno and Bass artist with 3 upcoming club dates listed on soundcheck as of Tue, 21 Jul 2026, next at Gare Porto, Porto on Sat, 25 Jul 2026.
 
-DjRUM is a techno and bass artist tracked on soundcheck, with 131 sets logged across Amsterdam, Barcelona, Berlin and Brighton and 45 more. Often billed alongside Skee Mask, Kia (AU) and Mia Koden. Next up: The Cause, London on Sat 12 Sept.
+DjRUM is a techno and bass artist tracked on soundcheck, with 132 sets logged across Amsterdam, Barcelona, Berlin and Brighton and 45 more. Often billed alongside Skee Mask, Kia (AU) and Mia Koden. Next up: Gare Porto, Porto on Sat 25 Jul.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 25 Jul 2026 | Gare Porto | Porto |
 | Sat, 12 Sept 2026 | The Cause | London |
 | Fri, 2 Oct 2026 | The Loom | San Francisco/Oakland |
 
@@ -26,4 +27,4 @@ DjRUM is a techno and bass artist tracked on soundcheck, with 131 sets logged ac
 
 Skee Mask, Kia (AU), Mia Koden
 
-*Updated Mon, 20 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/djrum/)*
+*Updated Tue, 21 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/djrum/)*

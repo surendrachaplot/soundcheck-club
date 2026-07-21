@@ -1,6 +1,6 @@
 # Thomas Read Pub
 
-Thomas Read Pub is a music venue in Hamburg with 1 upcoming night listed on soundcheck as of Mon, 20 Jul 2026; the next is "VAYVE:Air" on Sat, 12 Sept 2026.
+Thomas Read Pub is a music venue in Hamburg with 1 upcoming night listed on soundcheck as of Tue, 21 Jul 2026; the next is "VAYVE:Air" on Sat, 12 Sept 2026.
 
 Thomas Read Pub is a music venue in Hamburg listed on soundcheck. 1 upcoming night, with line-ups including REILIX, TWOFACEDKIMMY and Unromantic. Browse upcoming dates, start times and who's playing. Nobistor 10, 22767 Hamburg, Germany.
 
@@ -14,4 +14,4 @@ Thomas Read Pub is a music venue in Hamburg listed on soundcheck. 1 upcoming nig
 
 Nobistor 10, 22767 Hamburg, Germany, Hamburg
 
-*Updated Mon, 20 Jul 2026 · source: [soundcheck](https://soundcheck.club/hamburg/club/thomas-read-pub/)*
+*Updated Tue, 21 Jul 2026 · source: [soundcheck](https://soundcheck.club/hamburg/club/thomas-read-pub/)*

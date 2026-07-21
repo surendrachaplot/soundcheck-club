@@ -1,6 +1,6 @@
 # Jetti
 
-Jetti is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Mon, 20 Jul 2026, next at PIP Den Haag, The Hague on Sat, 25 Jul 2026.
+Jetti is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Tue, 21 Jul 2026, next at PIP Den Haag, The Hague on Sat, 25 Jul 2026.
 
 Jetti is a techno and house artist tracked on soundcheck, with 56 sets logged across Amsterdam, Berlin, Cologne and Rotterdam and 2 more. Often billed alongside Post, Jeans (NL) and David Vunk. Next up: PIP Den Haag, Thehague on Sat 25 Jul.
 
@@ -27,4 +27,4 @@ Jetti is a techno and house artist tracked on soundcheck, with 56 sets logged ac
 
 Post, Jeans (NL), David Vunk
 
-*Updated Mon, 20 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/jetti/)*
+*Updated Tue, 21 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/jetti/)*

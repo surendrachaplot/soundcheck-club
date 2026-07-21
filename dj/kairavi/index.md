@@ -1,6 +1,6 @@
 # kairavi
 
-kairavi is a House and Club artist with 3 upcoming club dates listed on soundcheck as of Mon, 20 Jul 2026, next at Crack Bellmer, Berlin on Thu, 30 Jul 2026.
+kairavi is a House and Club artist with 3 upcoming club dates listed on soundcheck as of Tue, 21 Jul 2026, next at Crack Bellmer, Berlin on Thu, 30 Jul 2026.
 
 kairavi is a house and club artist based in India, tracked on soundcheck, with 12 sets logged across Berlin. Often billed alongside Mati Amoretti, oulcan and Flor Coto. Next up: Crack Bellmer, Berlin on Thu 30 Jul.
 
@@ -27,4 +27,4 @@ kairavi is a house and club artist based in India, tracked on soundcheck, with 1
 
 Mati Amoretti, oulcan, Flor Coto
 
-*Updated Mon, 20 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/kairavi/)*
+*Updated Tue, 21 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/kairavi/)*

@@ -1,6 +1,6 @@
 # Oscar Osorio
 
-Oscar Osorio is a Hip-Hop and R&B artist with 18 upcoming club dates listed on soundcheck as of Mon, 20 Jul 2026, next at Homage Brewing, Los Angeles on Fri, 24 Jul 2026.
+Oscar Osorio is a Hip-Hop and R&B artist with 18 upcoming club dates listed on soundcheck as of Tue, 21 Jul 2026, next at Homage Brewing, Los Angeles on Fri, 24 Jul 2026.
 
 Oscar Osorio is a hip-hop and r&b artist tracked on soundcheck, with 47 sets logged across Amsterdam, Losangeles and Sandiego. Often billed alongside Rishi Romero, DJ LIGMA and Adrian Reyes. Next up: Homage Brewing, Losangeles on Fri 24 Jul.
 
@@ -36,4 +36,4 @@ Oscar Osorio is a hip-hop and r&b artist tracked on soundcheck, with 47 sets log
 
 Rishi Romero, DJ LIGMA, Adrian Reyes
 
-*Updated Mon, 20 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/oscarosorio/)*
+*Updated Tue, 21 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/oscarosorio/)*

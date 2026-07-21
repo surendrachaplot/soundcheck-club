@@ -1,6 +1,6 @@
 # Yucky
 
-Yucky is a Dubstep and House artist with 2 upcoming club dates listed on soundcheck as of Mon, 20 Jul 2026, next at Mono, Rotterdam on Sat, 25 Jul 2026.
+Yucky is a Dubstep and House artist with 2 upcoming club dates listed on soundcheck as of Tue, 21 Jul 2026, next at Mono, Rotterdam on Sat, 25 Jul 2026.
 
 Yucky is a dubstep and house artist based in Netherlands, tracked on soundcheck, with 36 sets logged across Amsterdam, Rotterdam, Sanfrancisco and Sydney and 1 more. Often billed alongside A For Alpha, Shinshan Salazar and Styn. Next up: Mono, Rotterdam on Sat 25 Jul.
 
@@ -26,4 +26,4 @@ Yucky is a dubstep and house artist based in Netherlands, tracked on soundcheck,
 
 A For Alpha, Shinshan Salazar, Styn
 
-*Updated Mon, 20 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/yucky/)*
+*Updated Tue, 21 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/yucky/)*

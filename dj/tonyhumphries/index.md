@@ -1,6 +1,6 @@
 # Tony Humphries
 
-Tony Humphries is a House and Disco artist with 3 upcoming club dates listed on soundcheck as of Mon, 20 Jul 2026, next at Le Bain, New York City on Sat, 1 Aug 2026.
+Tony Humphries is a House and Disco artist with 3 upcoming club dates listed on soundcheck as of Tue, 21 Jul 2026, next at Le Bain, New York City on Sat, 1 Aug 2026.
 
 Tony Humphries is a house and disco artist based in United States of America, tracked on soundcheck, with 91 sets logged across Berlin, Chicago, Detroit and Liverpool and 12 more. Often billed alongside G-HA, Olanskii and DJ Heather. Next up: Le Bain, Newyorkcity on Sat 1 Aug.
 
@@ -27,4 +27,4 @@ Tony Humphries is a house and disco artist based in United States of America, tr
 
 G-HA, Olanskii, DJ Heather
 
-*Updated Mon, 20 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/tonyhumphries/)*
+*Updated Tue, 21 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/tonyhumphries/)*

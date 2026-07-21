@@ -1,6 +1,6 @@
 # HOVR
 
-HOVR is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Mon, 20 Jul 2026, next at Kater, Berlin on Fri, 24 Jul 2026.
+HOVR is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Tue, 21 Jul 2026, next at Kater, Berlin on Fri, 24 Jul 2026.
 
 HOVR is a house and techno artist tracked on soundcheck, with 59 sets logged across Auckland, Bali, Barcelona and Berlin and 15 more. Often billed alongside Oliver Koletzki, Hidden Empire and tim|bre. Next up: Kater, Berlin on Fri 24 Jul.
 
@@ -27,4 +27,4 @@ HOVR is a house and techno artist tracked on soundcheck, with 59 sets logged acr
 
 Oliver Koletzki, Hidden Empire, tim|bre
 
-*Updated Mon, 20 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/hovr/)*
+*Updated Tue, 21 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/hovr/)*

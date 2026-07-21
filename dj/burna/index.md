@@ -1,6 +1,6 @@
 # Burna
 
-Burna is a Techno and Bass artist with 2 upcoming club dates listed on soundcheck as of Mon, 20 Jul 2026, next at Whammy Bar/Double Whammy/Public Bar, Auckland on Fri, 7 Aug 2026.
+Burna is a Techno and Bass artist with 2 upcoming club dates listed on soundcheck as of Tue, 21 Jul 2026, next at Whammy Bar/Double Whammy/Public Bar, Auckland on Fri, 7 Aug 2026.
 
 Burna is a techno and bass artist based in Australia, tracked on soundcheck, with 30 sets logged across Auckland, Belgrade, Bristol and Brussels and 14 more. Often billed alongside Hally, Girl Tool and Azu Tiwaline. Next up: Whammy Bar/Double Whammy/Public Bar, Auckland on Fri 7 Aug.
 
@@ -26,4 +26,4 @@ Burna is a techno and bass artist based in Australia, tracked on soundcheck, wit
 
 Hally, Girl Tool, Azu Tiwaline
 
-*Updated Mon, 20 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/burna/)*
+*Updated Tue, 21 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/burna/)*

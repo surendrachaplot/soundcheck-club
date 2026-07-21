@@ -1,6 +1,6 @@
 # Rakans
 
-Rakans is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Mon, 20 Jul 2026, next at Studio1111, Berlin on Fri, 24 Jul 2026.
+Rakans is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Tue, 21 Jul 2026, next at Studio1111, Berlin on Fri, 24 Jul 2026.
 
 Rakans is a techno and house artist tracked on soundcheck, with 99 sets logged across Amsterdam, Athens, Barcelona and Berlin and 16 more. Often billed alongside VINVAR, Deepneue and Rachel Noon. Next up: Studio1111, Berlin on Fri 24 Jul.
 
@@ -26,4 +26,4 @@ Rakans is a techno and house artist tracked on soundcheck, with 99 sets logged a
 
 VINVAR, Deepneue, Rachel Noon
 
-*Updated Mon, 20 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/rakans/)*
+*Updated Tue, 21 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/rakans/)*

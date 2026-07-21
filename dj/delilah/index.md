@@ -1,6 +1,6 @@
 # Delilah
 
-Delilah is a House and Tech House artist with 7 upcoming club dates listed on soundcheck as of Mon, 20 Jul 2026, next at Night Tales Loft, London on Sat, 25 Jul 2026.
+Delilah is a House and Tech House artist with 7 upcoming club dates listed on soundcheck as of Tue, 21 Jul 2026, next at Night Tales Loft, London on Sat, 25 Jul 2026.
 
 Delilah is a house and tech house artist tracked on soundcheck, with 34 sets logged across Berlin, Bristol, Brussels and Dublin and 6 more. Often billed alongside Rossi, Sidney Charles and Eliza Rose. Next up: Night Tales Loft, London on Sat 25 Jul.
 
@@ -31,4 +31,4 @@ Delilah is a house and tech house artist tracked on soundcheck, with 34 sets log
 
 Rossi, Sidney Charles, Eliza Rose
 
-*Updated Mon, 20 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/delilah/)*
+*Updated Tue, 21 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/delilah/)*

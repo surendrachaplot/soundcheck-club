@@ -1,6 +1,6 @@
 # Pawn Shop
 
-Pawn Shop is a music venue in Dublin with 2 upcoming nights listed on soundcheck as of Mon, 20 Jul 2026; the next is "SCART records presents GOTD Live + guests" on Fri, 31 Jul 2026.
+Pawn Shop is a music venue in Dublin with 2 upcoming nights listed on soundcheck as of Tue, 21 Jul 2026; the next is "SCART records presents GOTD Live + guests" on Fri, 31 Jul 2026.
 
 Pawn Shop is a music venue in Dublin listed on soundcheck. 2 upcoming nights, with line-ups including BAYNES, Havik, Jon Hussey and JWY (1) and 2 more. Browse upcoming dates, start times and who's playing. 15 Dame St, Dublin 2, D02 KD74.
 
@@ -15,4 +15,4 @@ Pawn Shop is a music venue in Dublin listed on soundcheck. 2 upcoming nights, wi
 
 15 Dame St, Dublin 2, D02 KD74, Dublin
 
-*Updated Mon, 20 Jul 2026 · source: [soundcheck](https://soundcheck.club/dublin/club/pawn-shop/)*
+*Updated Tue, 21 Jul 2026 · source: [soundcheck](https://soundcheck.club/dublin/club/pawn-shop/)*

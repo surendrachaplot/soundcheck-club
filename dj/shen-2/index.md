@@ -1,6 +1,6 @@
 # Shen (2)
 
-Shen (2) is a Deep House and House artist with 2 upcoming club dates listed on soundcheck as of Mon, 20 Jul 2026, next at Cafeteria, Toronto on Fri, 31 Jul 2026.
+Shen (2) is a Deep House and House artist with 2 upcoming club dates listed on soundcheck as of Tue, 21 Jul 2026, next at Cafeteria, Toronto on Fri, 31 Jul 2026.
 
 Shen (2) is a deep house and house artist tracked on soundcheck, with 48 sets logged across Amsterdam, Cologne, London and Toronto. Often billed alongside SAWIFROMSPACE, Rami Nassif and Theysiii. Next up: Cafeteria, Toronto on Fri 31 Jul.
 
@@ -26,4 +26,4 @@ Shen (2) is a deep house and house artist tracked on soundcheck, with 48 sets lo
 
 SAWIFROMSPACE, Rami Nassif, Theysiii
 
-*Updated Mon, 20 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/shen-2/)*
+*Updated Tue, 21 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/shen-2/)*

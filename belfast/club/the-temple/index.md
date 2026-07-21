@@ -1,6 +1,6 @@
 # The Temple
 
-The Temple is a music venue in Belfast with 1 upcoming night listed on soundcheck as of Mon, 20 Jul 2026; the next is "RECKLESS RAVES: The Temple 007 [ONE YEAR ANNIVERSARY]" on Sat, 19 Sept 2026.
+The Temple is a music venue in Belfast with 1 upcoming night listed on soundcheck as of Tue, 21 Jul 2026; the next is "RECKLESS RAVES: The Temple 007 [ONE YEAR ANNIVERSARY]" on Sat, 19 Sept 2026.
 
 The Temple is a music venue in Belfast listed on soundcheck. 1 upcoming night. Browse upcoming dates, start times and who's playing.
 
@@ -10,4 +10,4 @@ The Temple is a music venue in Belfast listed on soundcheck. 1 upcoming night. B
 | --- | --- | --- |
 | Sat, 19 Sept 2026 | RECKLESS RAVES: The Temple 007 [ONE YEAR ANNIVERSARY] |  |
 
-*Updated Mon, 20 Jul 2026 · source: [soundcheck](https://soundcheck.club/belfast/club/the-temple/)*
+*Updated Tue, 21 Jul 2026 · source: [soundcheck](https://soundcheck.club/belfast/club/the-temple/)*

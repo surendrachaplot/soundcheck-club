@@ -1,6 +1,6 @@
 # Pickle Factory
 
-Pickle Factory is a music venue in Liverpool with 1 upcoming night listed on soundcheck as of Mon, 20 Jul 2026; the next is "Bentley x Pickle Factory Liverpool: Second Serving" on Sat, 1 Aug 2026.
+Pickle Factory is a music venue in Liverpool with 1 upcoming night listed on soundcheck as of Tue, 21 Jul 2026; the next is "Bentley x Pickle Factory Liverpool: Second Serving" on Sat, 1 Aug 2026.
 
 Pickle Factory is a music venue in Liverpool listed on soundcheck. 1 upcoming night. Browse upcoming dates, start times and who's playing. 25 Carlton St, Liverpool L3 7ED.
 
@@ -14,4 +14,4 @@ Pickle Factory is a music venue in Liverpool listed on soundcheck. 1 upcoming ni
 
 25 Carlton St, Liverpool L3 7ED, Liverpool
 
-*Updated Mon, 20 Jul 2026 · source: [soundcheck](https://soundcheck.club/liverpool/club/pickle-factory/)*
+*Updated Tue, 21 Jul 2026 · source: [soundcheck](https://soundcheck.club/liverpool/club/pickle-factory/)*

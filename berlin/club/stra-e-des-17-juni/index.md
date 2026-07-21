@@ -1,8 +1,8 @@
 # Straße des 17. Juni
 
-Straße des 17. Juni is a music venue in Berlin with 9 upcoming nights listed on soundcheck as of Mon, 20 Jul 2026; the next is "OST Rave The Planet Truck" on Sat, 15 Aug 2026.
+Straße des 17. Juni is a music venue in Berlin with 11 upcoming nights listed on soundcheck as of Tue, 21 Jul 2026; the next is "OST Rave The Planet Truck" on Sat, 15 Aug 2026.
 
-Straße des 17. Juni is a music venue in Berlin listed on soundcheck. 9 upcoming nights, with line-ups including 2HOT2PLAY, Acid Asian, A.D.H.S. and Amber Broos and 2 more. Browse upcoming dates, start times and who's playing. Straße des 17. Juni, Berlin.
+Straße des 17. Juni is a music venue in Berlin listed on soundcheck. 11 upcoming nights, with line-ups including 2HOT2PLAY, Acid Asian, A.D.H.S. and Amber Broos and 2 more. Browse upcoming dates, start times and who's playing. Straße des 17. Juni, Berlin.
 
 ## What's on
 
@@ -17,9 +17,10 @@ Straße des 17. Juni is a music venue in Berlin listed on soundcheck. 9 upcoming
 | Sat, 15 Aug 2026 | Naughty Vibes Float at Rave the Planet Parade 2026 | MILAN MILANO, Maurice Mino, Sin:port, Sophie van Hayden, Torsten Kanzler |
 | Sat, 15 Aug 2026 | MLK Float at Rave the Planet Parade | Dr. Spree, Dshanna, Gray Contrast, Hendrik Nitsche, Julez (live), Sarah Sommers |
 | Sat, 15 Aug 2026 | Rave The Planet Culturama Bus | Bianka Banks, C'mon, Danito San, Mixed Methods, Niklas Becher, SKIY |
+| Sat, 15 Aug 2026 | N8KLANG meets Akustikkuss - Rave the Planet / Float 33 | Kollektiv KlangGut, MARCEL db, RHAPSODIE, Vero_ |
 
 ## Address
 
 Straße des 17. Juni, Berlin, Berlin
 
-*Updated Mon, 20 Jul 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/stra-e-des-17-juni/)*
+*Updated Tue, 21 Jul 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/stra-e-des-17-juni/)*

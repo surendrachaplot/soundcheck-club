@@ -1,6 +1,6 @@
 # DOCK B
 
-DOCK B is a music venue in Paris with 2 upcoming nights listed on soundcheck as of Mon, 20 Jul 2026; the next is "La Meute 10 Ans - Part 2: Peaktime - Night" on Sat, 25 Jul 2026.
+DOCK B is a music venue in Paris with 2 upcoming nights listed on soundcheck as of Tue, 21 Jul 2026; the next is "La Meute 10 Ans - Part 2: Peaktime - Night" on Sat, 25 Jul 2026.
 
 DOCK B is a music venue in Paris listed on soundcheck. 2 upcoming nights, with line-ups including Alich (1), Kasper Marott, Marabou (2) and Ploum and 2 more. Browse upcoming dates, start times and who's playing. 1 Place de la Pointe, 93500 Pantin, France.
 
@@ -15,4 +15,4 @@ DOCK B is a music venue in Paris listed on soundcheck. 2 upcoming nights, with l
 
 1 Place de la Pointe, 93500 Pantin, France, Paris
 
-*Updated Mon, 20 Jul 2026 · source: [soundcheck](https://soundcheck.club/paris/club/dock-b/)*
+*Updated Tue, 21 Jul 2026 · source: [soundcheck](https://soundcheck.club/paris/club/dock-b/)*

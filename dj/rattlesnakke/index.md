@@ -1,6 +1,6 @@
 # Rattlesnakke
 
-Rattlesnakke is a Techno and Club artist with 3 upcoming club dates listed on soundcheck as of Mon, 20 Jul 2026, next at TBA - secret location, Barcelona on Fri, 31 Jul 2026.
+Rattlesnakke is a Techno and Club artist with 3 upcoming club dates listed on soundcheck as of Tue, 21 Jul 2026, next at TBA - secret location, Barcelona on Fri, 31 Jul 2026.
 
 Rattlesnakke is a techno and club artist based in Argentina, tracked on soundcheck, with 55 sets logged across Amsterdam, Barcelona, Berlin and Brussels and 18 more. Often billed alongside Sushinigami, BZZHOUND and CRRDR. Next up: TBA - secret location, Barcelona on Fri 31 Jul.
 
@@ -27,4 +27,4 @@ Rattlesnakke is a techno and club artist based in Argentina, tracked on soundche
 
 Sushinigami, BZZHOUND, CRRDR
 
-*Updated Mon, 20 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/rattlesnakke/)*
+*Updated Tue, 21 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/rattlesnakke/)*

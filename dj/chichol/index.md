@@ -1,6 +1,6 @@
 # Chichöl
 
-Chichöl is a House and Electronica artist with 2 upcoming club dates listed on soundcheck as of Mon, 20 Jul 2026, next at berlinClub, Madrid on Fri, 24 Jul 2026.
+Chichöl is a House and Electronica artist with 2 upcoming club dates listed on soundcheck as of Tue, 21 Jul 2026, next at berlinClub, Madrid on Fri, 24 Jul 2026.
 
 Chichöl is a house and electronica artist based in Spain, tracked on soundcheck, with 28 sets logged across Barcelona, Berlin and Madrid. Often billed alongside Mhauro, Misla and Angel Mellado. Next up: berlinClub, Madrid on Fri 24 Jul.
 
@@ -26,4 +26,4 @@ Chichöl is a house and electronica artist based in Spain, tracked on soundcheck
 
 Mhauro, Misla, Angel Mellado
 
-*Updated Mon, 20 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/chichol/)*
+*Updated Tue, 21 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/chichol/)*

@@ -1,6 +1,6 @@
 # Lars Huismann
 
-Lars Huismann is a Techno and House artist with 4 upcoming club dates listed on soundcheck as of Mon, 20 Jul 2026, next at Société des arts technologiques, Montreal on Fri, 24 Jul 2026.
+Lars Huismann is a Techno and House artist with 4 upcoming club dates listed on soundcheck as of Tue, 21 Jul 2026, next at Société des arts technologiques, Montreal on Fri, 24 Jul 2026.
 
 Lars Huismann is a techno and house artist tracked on soundcheck, with 93 sets logged across Amsterdam, Antwerp, Austin and Belgrade and 40 more. Often billed alongside SHDW, Chontane and ANNĒ. Next up: Société des arts technologiques, Montreal on Fri 24 Jul.
 
@@ -28,4 +28,4 @@ Lars Huismann is a techno and house artist tracked on soundcheck, with 93 sets l
 
 SHDW, Chontane, ANNĒ
 
-*Updated Mon, 20 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/larshuismann/)*
+*Updated Tue, 21 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/larshuismann/)*

@@ -1,6 +1,6 @@
 # Piezo
 
-Piezo is a Techno and Bass artist with 3 upcoming club dates listed on soundcheck as of Mon, 20 Jul 2026, next at Amsterdamse Bos, Amsterdam on Wed, 29 Jul 2026.
+Piezo is a Techno and Bass artist with 3 upcoming club dates listed on soundcheck as of Tue, 21 Jul 2026, next at Amsterdamse Bos, Amsterdam on Wed, 29 Jul 2026.
 
 Piezo is a techno and bass artist tracked on soundcheck, with 108 sets logged across Amsterdam, Austin, Barcelona and Basel and 41 more. Often billed alongside upsammy, mad miran and Aitch (2). Next up: Amsterdamse Bos, Amsterdam on Wed 29 Jul.
 
@@ -27,4 +27,4 @@ Piezo is a techno and bass artist tracked on soundcheck, with 108 sets logged ac
 
 upsammy, mad miran, Aitch (2)
 
-*Updated Mon, 20 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/piezo/)*
+*Updated Tue, 21 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/piezo/)*

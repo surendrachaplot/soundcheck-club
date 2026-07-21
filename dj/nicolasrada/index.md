@@ -1,6 +1,6 @@
 # Nicolas Rada
 
-Nicolas Rada is a Progressive House and Techno artist with 2 upcoming club dates listed on soundcheck as of Mon, 20 Jul 2026, next at Paal69, Amsterdam on Sat, 15 Aug 2026.
+Nicolas Rada is a Progressive House and Techno artist with 2 upcoming club dates listed on soundcheck as of Tue, 21 Jul 2026, next at Paal69, Amsterdam on Sat, 15 Aug 2026.
 
 Nicolas Rada is a progressive house and techno artist tracked on soundcheck, with 58 sets logged across Amsterdam, Barcelona, Bristol and Budapest and 10 more. Often billed alongside Marcelo Vasami, Antrim and Nick Warren. Next up: Paal69, Amsterdam on Sat 15 Aug.
 
@@ -26,4 +26,4 @@ Nicolas Rada is a progressive house and techno artist tracked on soundcheck, wit
 
 Marcelo Vasami, Antrim, Nick Warren
 
-*Updated Mon, 20 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/nicolasrada/)*
+*Updated Tue, 21 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/nicolasrada/)*

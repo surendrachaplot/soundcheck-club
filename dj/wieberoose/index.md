@@ -1,6 +1,6 @@
 # Wiebe Roose
 
-Wiebe Roose is a Techno and Tech House artist with 4 upcoming club dates listed on soundcheck as of Mon, 20 Jul 2026, next at TBA - Cologne ( New Sports BAR ), Cologne on Wed, 22 Jul 2026.
+Wiebe Roose is a Techno and Tech House artist with 4 upcoming club dates listed on soundcheck as of Tue, 21 Jul 2026, next at TBA - Cologne ( New Sports BAR ), Cologne on Wed, 22 Jul 2026.
 
 Wiebe Roose is a techno and tech house artist based in Belgium, tracked on soundcheck, with 135 sets logged across Bangkok, Barcelona, Berlin and Cologne and 4 more. Often billed alongside DAV3, Monty and Bisk. Next up: TBA - Cologne ( New Sports BAR ), Cologne on Wed 22 Jul.
 
@@ -28,4 +28,4 @@ Wiebe Roose is a techno and tech house artist based in Belgium, tracked on sound
 
 DAV3, Monty, Bisk
 
-*Updated Mon, 20 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/wieberoose/)*
+*Updated Tue, 21 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/wieberoose/)*

@@ -1,14 +1,15 @@
 # Camille Doe
 
-Camille Doe is a House and Garage artist with 3 upcoming club dates listed on soundcheck as of Mon, 20 Jul 2026, next at Zeescouts Aan De Stroom, Antwerp on Sat, 25 Jul 2026.
+Camille Doe is a House and Garage artist with 4 upcoming club dates listed on soundcheck as of Tue, 21 Jul 2026, next at Zeescouts Aan De Stroom, Antwerp on Sat, 25 Jul 2026.
 
-Camille Doe is a house and garage artist tracked on soundcheck, with 73 sets logged across Amsterdam, Antwerp, Berlin and Copenhagen and 7 more. Often billed alongside Lefblom, GOGO GREEN and Ams (FR). Next up: Zeescouts Aan De Stroom, Antwerp on Sat 25 Jul.
+Camille Doe is a house and garage artist tracked on soundcheck, with 74 sets logged across Amsterdam, Antwerp, Berlin and Copenhagen and 7 more. Often billed alongside Lefblom, GOGO GREEN and Ams (FR). Next up: Zeescouts Aan De Stroom, Antwerp on Sat 25 Jul.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 25 Jul 2026 | Zeescouts Aan De Stroom | Antwerp |
+| Sat, 22 Aug 2026 | Mia Mao | Paris |
 | Sat, 10 Oct 2026 | Depot Mayfield | Manchester |
 | Sat, 10 Oct 2026 | Mint XL | Leeds |
 
@@ -27,4 +28,4 @@ Camille Doe is a house and garage artist tracked on soundcheck, with 73 sets log
 
 Lefblom, GOGO GREEN, Ams (FR)
 
-*Updated Mon, 20 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/camilledoe/)*
+*Updated Tue, 21 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/camilledoe/)*

@@ -1,6 +1,6 @@
 # Aho Ssan
 
-Aho Ssan is a Experimental and Ambient artist with 2 upcoming club dates listed on soundcheck as of Mon, 20 Jul 2026, next at TBA - Waidmarkt, Cologne on Sat, 25 Jul 2026.
+Aho Ssan is a Experimental and Ambient artist with 2 upcoming club dates listed on soundcheck as of Tue, 21 Jul 2026, next at TBA - Waidmarkt, Cologne on Sat, 25 Jul 2026.
 
 Aho Ssan is an experimental and ambient artist based in France, tracked on soundcheck, with 31 sets logged across Berlin, Brussels, Cologne and London and 9 more. Often billed alongside Caterina Barbieri, KMRU and Nkisi. Next up: TBA - Waidmarkt, Cologne on Sat 25 Jul.
 
@@ -26,4 +26,4 @@ Aho Ssan is an experimental and ambient artist based in France, tracked on sound
 
 Caterina Barbieri, KMRU, Nkisi
 
-*Updated Mon, 20 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/ahossan/)*
+*Updated Tue, 21 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/ahossan/)*

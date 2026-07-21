@@ -1,6 +1,6 @@
 # Byron Yeates
 
-Byron Yeates is a House and Techno artist with 8 upcoming club dates listed on soundcheck as of Mon, 20 Jul 2026, next at Berghain | Panorama Bar | Säule, Berlin on Fri, 24 Jul 2026.
+Byron Yeates is a House and Techno artist with 8 upcoming club dates listed on soundcheck as of Tue, 21 Jul 2026, next at Berghain | Panorama Bar | Säule, Berlin on Fri, 24 Jul 2026.
 
 Byron Yeates is a house and techno artist tracked on soundcheck, with 182 sets logged across Amsterdam, Athens, Bali and Barcelona and 45 more. Often billed alongside THC, DHC and Angel D'lite. Next up: Berghain | Panorama Bar | Säule, Berlin on Fri 24 Jul.
 
@@ -12,7 +12,7 @@ Byron Yeates is a house and techno artist tracked on soundcheck, with 182 sets l
 | Sat, 25 Jul 2026 | Shelter Amsterdam | Amsterdam |
 | Wed, 29 Jul 2026 | Nocturna | Ibiza |
 | Mon, 10 Aug 2026 | DC-10 | Ibiza |
-| Thu, 27 Aug 2026 | TBA - Schwing und Stampf Festival Site | Zurich |
+| Thu, 27 Aug 2026 | TBA - Schwing und Stampf Festival | Zurich |
 | Sat, 29 Aug 2026 | Gut Level | Sheffield |
 | Sun, 30 Aug 2026 | Southwark Park | London |
 | Sun, 6 Sept 2026 | Else | Berlin |
@@ -32,4 +32,4 @@ Byron Yeates is a house and techno artist tracked on soundcheck, with 182 sets l
 
 THC, DHC, Angel D'lite
 
-*Updated Mon, 20 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/byronyeates/)*
+*Updated Tue, 21 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/byronyeates/)*

@@ -1,6 +1,6 @@
 # Xica Soul
 
-Xica Soul is a House and Disco artist with 4 upcoming club dates listed on soundcheck as of Mon, 20 Jul 2026, next at TBA - DoubleTree DTLA - Kyoto Garden, Los Angeles on Sun, 26 Jul 2026.
+Xica Soul is a House and Disco artist with 4 upcoming club dates listed on soundcheck as of Tue, 21 Jul 2026, next at TBA - DoubleTree DTLA - Kyoto Garden, Los Angeles on Sun, 26 Jul 2026.
 
 Xica Soul is a house and disco artist based in United States of America, tracked on soundcheck, with 85 sets logged across Amsterdam, Barcelona, Berlin and Chicago and 10 more. Often billed alongside Masha Mar, Marco Weibel and Tottie. Next up: TBA - DoubleTree DTLA - Kyoto Garden, Losangeles on Sun 26 Jul.
 
@@ -28,4 +28,4 @@ Xica Soul is a house and disco artist based in United States of America, tracked
 
 Masha Mar, Marco Weibel, Tottie
 
-*Updated Mon, 20 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/xicasoul/)*
+*Updated Tue, 21 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/xicasoul/)*

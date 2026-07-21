@@ -1,6 +1,6 @@
 # The Groovejet
 
-The Groovejet is a Pop and House artist with 3 upcoming club dates listed on soundcheck as of Mon, 20 Jul 2026, next at Club NYX, Amsterdam on Wed, 29 Jul 2026.
+The Groovejet is a Pop and House artist with 3 upcoming club dates listed on soundcheck as of Tue, 21 Jul 2026, next at Club NYX, Amsterdam on Wed, 29 Jul 2026.
 
 The Groovejet is a pop and house artist based in Netherlands, tracked on soundcheck, with 4 sets logged across Amsterdam. Often billed alongside Emma Champagne Queen, Divine and Heritage Listed. Next up: Club NYX, Amsterdam on Wed 29 Jul.
 
@@ -20,4 +20,4 @@ The Groovejet is a pop and house artist based in Netherlands, tracked on soundch
 
 Emma Champagne Queen, Divine, Heritage Listed
 
-*Updated Mon, 20 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/thegroovejet/)*
+*Updated Tue, 21 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/thegroovejet/)*

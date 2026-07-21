@@ -1,6 +1,6 @@
 # DJ Assault
 
-DJ Assault is a Ghetto Tech and Techno artist with 3 upcoming club dates listed on soundcheck as of Mon, 20 Jul 2026, next at TBA - The Vault 313, Detroit on Sat, 25 Jul 2026.
+DJ Assault is a Ghetto Tech and Techno artist with 3 upcoming club dates listed on soundcheck as of Tue, 21 Jul 2026, next at TBA - The Vault 313, Detroit on Sat, 25 Jul 2026.
 
 DJ Assault is a ghetto tech and techno artist tracked on soundcheck, with 161 sets logged across Amsterdam, Antwerp, Barcelona and Belfast and 43 more. Often billed alongside Fullbodydurag, Sheefy McFly and DJ AYA. Next up: TBA - The Vault 313, Detroit on Sat 25 Jul.
 
@@ -27,4 +27,4 @@ DJ Assault is a ghetto tech and techno artist tracked on soundcheck, with 161 se
 
 Fullbodydurag, Sheefy McFly, DJ AYA
 
-*Updated Mon, 20 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/djassault/)*
+*Updated Tue, 21 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/djassault/)*

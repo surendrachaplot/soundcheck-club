@@ -1,6 +1,6 @@
 # Gravagerz
 
-Gravagerz is a Electro and House artist with 3 upcoming club dates listed on soundcheck as of Mon, 20 Jul 2026, next at Boat Cruise Summer Series, Boston on Sat, 29 Aug 2026.
+Gravagerz is a Electro and House artist with 3 upcoming club dates listed on soundcheck as of Tue, 21 Jul 2026, next at Boat Cruise Summer Series, Boston on Sat, 29 Aug 2026.
 
 Gravagerz is an electro and house artist based in Italy, tracked on soundcheck, with 7 sets logged across Amsterdam, Boston, Copenhagen and London and 3 more. Often billed alongside Alle Farben, B From E and DJ Nap. Next up: Boat Cruise Summer Series, Boston on Sat 29 Aug.
 
@@ -23,4 +23,4 @@ Gravagerz is an electro and house artist based in Italy, tracked on soundcheck, 
 
 Alle Farben, B From E, DJ Nap
 
-*Updated Mon, 20 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/gravagerz/)*
+*Updated Tue, 21 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/gravagerz/)*

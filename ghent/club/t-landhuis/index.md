@@ -1,6 +1,6 @@
 # 't Landhuis
 
-'t Landhuis is a music venue in Ghent with 2 upcoming nights listed on soundcheck as of Mon, 20 Jul 2026; the next is "BREAKCORE GIVES MONKEY BUSINESS WOOD II" on Wed, 22 Jul 2026.
+'t Landhuis is a music venue in Ghent with 2 upcoming nights listed on soundcheck as of Tue, 21 Jul 2026; the next is "BREAKCORE GIVES MONKEY BUSINESS WOOD II" on Wed, 22 Jul 2026.
 
 't Landhuis is a music venue in Ghent listed on soundcheck. 2 upcoming nights, with line-ups including Audiotist, Droon and Headkick. Browse upcoming dates, start times and who's playing. Warmoezeniersweg 10, 9000 Gent, België.
 
@@ -15,4 +15,4 @@
 
 Warmoezeniersweg 10, 9000 Gent, België, Ghent
 
-*Updated Mon, 20 Jul 2026 · source: [soundcheck](https://soundcheck.club/ghent/club/t-landhuis/)*
+*Updated Tue, 21 Jul 2026 · source: [soundcheck](https://soundcheck.club/ghent/club/t-landhuis/)*

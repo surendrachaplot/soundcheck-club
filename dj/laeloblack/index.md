@@ -1,6 +1,6 @@
 # Laelo Black
 
-Laelo Black is a Amapiano and Garage artist with 2 upcoming club dates listed on soundcheck as of Mon, 20 Jul 2026, next at LDN East, London on Sat, 25 Jul 2026.
+Laelo Black is a Amapiano and Garage artist with 2 upcoming club dates listed on soundcheck as of Tue, 21 Jul 2026, next at LDN East, London on Sat, 25 Jul 2026.
 
 Laelo Black is an amapiano and garage artist based in United Kingdom, tracked on soundcheck, with 48 sets logged across Belfast, Brighton, Bristol and Hamburg and 6 more. Often billed alongside p-rallel, Casnova and Arthi. Next up: LDN East, London on Sat 25 Jul.
 
@@ -26,4 +26,4 @@ Laelo Black is an amapiano and garage artist based in United Kingdom, tracked on
 
 p-rallel, Casnova, Arthi
 
-*Updated Mon, 20 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/laeloblack/)*
+*Updated Tue, 21 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/laeloblack/)*

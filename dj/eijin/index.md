@@ -1,6 +1,6 @@
 # eijin
 
-eijin is a Techno and Hip-Hop artist with 2 upcoming club dates listed on soundcheck as of Mon, 20 Jul 2026, next at clubasia, Tokyo on Fri, 24 Jul 2026.
+eijin is a Techno and Hip-Hop artist with 2 upcoming club dates listed on soundcheck as of Tue, 21 Jul 2026, next at clubasia, Tokyo on Fri, 24 Jul 2026.
 
 eijin is a techno and hip-hop artist based in Japan, tracked on soundcheck, with 47 sets logged across Kyoto, Osaka and Tokyo. Often billed alongside E.O.U, ast midori and Whatman. Next up: clubasia, Tokyo on Fri 24 Jul.
 
@@ -26,4 +26,4 @@ eijin is a techno and hip-hop artist based in Japan, tracked on soundcheck, with
 
 E.O.U, ast midori, Whatman
 
-*Updated Mon, 20 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/eijin/)*
+*Updated Tue, 21 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/eijin/)*

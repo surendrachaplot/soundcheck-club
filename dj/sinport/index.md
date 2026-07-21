@@ -1,14 +1,14 @@
 # Sin:port
 
-Sin:port is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Mon, 20 Jul 2026, next at TBA - PARKHAUS IHZ (MITTE), Berlin on Fri, 31 Jul 2026.
+Sin:port is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Tue, 21 Jul 2026, next at Hinterhof Mitte, Berlin on Fri, 31 Jul 2026.
 
-Sin:port is a techno and house artist tracked on soundcheck, with 123 sets logged across Berlin, Budapest, Cologne and Frankfurt and 7 more. Often billed alongside Maurice Mino, Leon Licht and Sabura. Next up: TBA - PARKHAUS IHZ (MITTE), Berlin on Fri 31 Jul.
+Sin:port is a techno and house artist tracked on soundcheck, with 123 sets logged across Berlin, Budapest, Cologne and Frankfurt and 7 more. Often billed alongside Maurice Mino, Leon Licht and Sabura. Next up: Hinterhof Mitte, Berlin on Fri 31 Jul.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 31 Jul 2026 | TBA - PARKHAUS IHZ (MITTE) | Berlin |
+| Fri, 31 Jul 2026 | Hinterhof Mitte | Berlin |
 | Sat, 15 Aug 2026 | Straße des 17. Juni | Berlin |
 
 ## Recently played
@@ -26,4 +26,4 @@ Sin:port is a techno and house artist tracked on soundcheck, with 123 sets logge
 
 Maurice Mino, Leon Licht, Sabura
 
-*Updated Mon, 20 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/sinport/)*
+*Updated Tue, 21 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/sinport/)*

@@ -1,6 +1,6 @@
 # Bowlers Exhibition Centre
 
-Bowlers Exhibition Centre is a music venue in Manchester with 1 upcoming night listed on soundcheck as of Mon, 20 Jul 2026; the next is "Teletech FESTIVAL 2026" on Sat, 1 Aug 2026.
+Bowlers Exhibition Centre is a music venue in Manchester with 1 upcoming night listed on soundcheck as of Tue, 21 Jul 2026; the next is "Teletech FESTIVAL 2026" on Sat, 1 Aug 2026.
 
 Bowlers Exhibition Centre is a music venue in Manchester listed on soundcheck. 1 upcoming night, with line-ups including Aiden (DE), Alba Franch, Alex Farell and A.N.I. and 2 more. Browse upcoming dates, start times and who's playing. Longbridge Rd, Trafford Park, Stretford, Manchester M17 1EH.
 
@@ -14,4 +14,4 @@ Bowlers Exhibition Centre is a music venue in Manchester listed on soundcheck. 1
 
 Longbridge Rd, Trafford Park, Stretford, Manchester M17 1EH, Manchester
 
-*Updated Mon, 20 Jul 2026 · source: [soundcheck](https://soundcheck.club/manchester/club/bowlers-exhibition-centre/)*
+*Updated Tue, 21 Jul 2026 · source: [soundcheck](https://soundcheck.club/manchester/club/bowlers-exhibition-centre/)*

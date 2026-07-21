@@ -1,6 +1,6 @@
 # Jorkes
 
-Jorkes is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Mon, 20 Jul 2026, next at Romantica, Stuttgart on Sat, 25 Jul 2026.
+Jorkes is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Tue, 21 Jul 2026, next at Romantica, Stuttgart on Sat, 25 Jul 2026.
 
 Jorkes is a house and techno artist tracked on soundcheck, with 133 sets logged across Amsterdam, Athens, Berlin and Bucharest and 9 more. Often billed alongside TiZiAN (DE), Massimiliano Pagliara and Rumi de Baires. Next up: Romantica, Stuttgart on Sat 25 Jul.
 
@@ -27,4 +27,4 @@ Jorkes is a house and techno artist tracked on soundcheck, with 133 sets logged 
 
 TiZiAN (DE), Massimiliano Pagliara, Rumi de Baires
 
-*Updated Mon, 20 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/jorkes/)*
+*Updated Tue, 21 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/jorkes/)*

@@ -1,14 +1,15 @@
 # Dru Ruiz
 
-Dru Ruiz is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Mon, 20 Jul 2026, next at TBA - The Vault 313, Detroit on Sat, 25 Jul 2026.
+Dru Ruiz is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Tue, 21 Jul 2026, next at TBA - The Vault 313, Detroit on Sat, 25 Jul 2026.
 
-Dru Ruiz is a techno and house artist tracked on soundcheck, with 137 sets logged across Chicago, Detroit and Newyorkcity. Often billed alongside DJ Hyperactive, Garrison XR and LATEX GIRL. Next up: TBA - The Vault 313, Detroit on Sat 25 Jul.
+Dru Ruiz is a techno and house artist tracked on soundcheck, with 138 sets logged across Chicago, Detroit and Newyorkcity. Often billed alongside DJ Hyperactive, Garrison XR and LATEX GIRL. Next up: TBA - The Vault 313, Detroit on Sat 25 Jul.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 25 Jul 2026 | TBA - The Vault 313 | Detroit |
+| Sun, 26 Jul 2026 | Spkrbox | Detroit |
 | Sat, 12 Sept 2026 | Northern Lights Lounge | Detroit |
 
 ## Recently played
@@ -26,4 +27,4 @@ Dru Ruiz is a techno and house artist tracked on soundcheck, with 137 sets logge
 
 DJ Hyperactive, Garrison XR, LATEX GIRL
 
-*Updated Mon, 20 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/druruiz/)*
+*Updated Tue, 21 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/druruiz/)*

@@ -1,6 +1,6 @@
 # Fritz Kalkbrenner
 
-Fritz Kalkbrenner is a House and Techno artist with 8 upcoming club dates listed on soundcheck as of Mon, 20 Jul 2026, next at Circolo Magnolia, Milan on Fri, 24 Jul 2026.
+Fritz Kalkbrenner is a House and Techno artist with 8 upcoming club dates listed on soundcheck as of Tue, 21 Jul 2026, next at Circolo Magnolia, Milan on Fri, 24 Jul 2026.
 
 Fritz Kalkbrenner is a house and techno artist tracked on soundcheck, with 39 sets logged across Amsterdam, Barcelona, Basel and Berlin and 12 more. Often billed alongside Agatha Pher, Einmusik and Floyd Lavine. Next up: Circolo Magnolia, Milan on Fri 24 Jul.
 
@@ -32,4 +32,4 @@ Fritz Kalkbrenner is a house and techno artist tracked on soundcheck, with 39 se
 
 Agatha Pher, Einmusik, Floyd Lavine
 
-*Updated Mon, 20 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/fritzkalkbrenner/)*
+*Updated Tue, 21 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/fritzkalkbrenner/)*

@@ -1,6 +1,6 @@
 # I. JORDAN
 
-I. JORDAN is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Mon, 20 Jul 2026, next at Milandia, Zurich on Sat, 25 Jul 2026.
+I. JORDAN is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Tue, 21 Jul 2026, next at Milandia, Zurich on Sat, 25 Jul 2026.
 
 I. JORDAN is a techno and house artist based in United Kingdom, tracked on soundcheck, with 116 sets logged across Amsterdam, Antwerp, Athens and Austin and 44 more. Often billed alongside SHERELLE, KETTAMA and Honey Dijon. Next up: Milandia, Zurich on Sat 25 Jul.
 
@@ -27,4 +27,4 @@ I. JORDAN is a techno and house artist based in United Kingdom, tracked on sound
 
 SHERELLE, KETTAMA, Honey Dijon
 
-*Updated Mon, 20 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/ijordan/)*
+*Updated Tue, 21 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/ijordan/)*

@@ -1,6 +1,6 @@
 # Nabihah Iqbal
 
-Nabihah Iqbal is a House and Funk / Soul artist with 3 upcoming club dates listed on soundcheck as of Mon, 20 Jul 2026, next at Le Bain, New York City on Fri, 31 Jul 2026.
+Nabihah Iqbal is a House and Funk / Soul artist with 3 upcoming club dates listed on soundcheck as of Tue, 21 Jul 2026, next at Le Bain, New York City on Fri, 31 Jul 2026.
 
 Nabihah Iqbal is a house and funk / soul artist tracked on soundcheck, with 83 sets logged across Amsterdam, Auckland, Bangkok and Barcelona and 26 more. Often billed alongside Habibi Funk, Budino and CARISTA. Next up: Le Bain, Newyorkcity on Fri 31 Jul.
 
@@ -27,4 +27,4 @@ Nabihah Iqbal is a house and funk / soul artist tracked on soundcheck, with 83 s
 
 Habibi Funk, Budino, CARISTA
 
-*Updated Mon, 20 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/nabihahiqbal/)*
+*Updated Tue, 21 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/nabihahiqbal/)*

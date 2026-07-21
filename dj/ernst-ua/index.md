@@ -1,6 +1,6 @@
 # ERNST (UA)
 
-ERNST (UA) is a Techno and Trance artist with 2 upcoming club dates listed on soundcheck as of Mon, 20 Jul 2026, next at Przyjaźń, Warsaw on Sat, 8 Aug 2026.
+ERNST (UA) is a Techno and Trance artist with 2 upcoming club dates listed on soundcheck as of Tue, 21 Jul 2026, next at Przyjaźń, Warsaw on Sat, 8 Aug 2026.
 
 ERNST (UA) is a techno and trance artist tracked on soundcheck, with 39 sets logged across Krakow and Warsaw. Often billed alongside Józef Keuner, VRAXX and SCHELLT. Next up: Przyjaźń, Warsaw on Sat 8 Aug.
 
@@ -26,4 +26,4 @@ ERNST (UA) is a techno and trance artist tracked on soundcheck, with 39 sets log
 
 Józef Keuner, VRAXX, SCHELLT
 
-*Updated Mon, 20 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/ernst-ua/)*
+*Updated Tue, 21 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/ernst-ua/)*

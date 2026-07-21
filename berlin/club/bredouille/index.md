@@ -1,6 +1,6 @@
 # Bredouille
 
-Bredouille is a music venue in Berlin with 3 upcoming nights listed on soundcheck as of Mon, 20 Jul 2026; the next is "GROOVE DISTRICT OPEN AIR & INDOOR" on Sat, 25 Jul 2026.
+Bredouille is a music venue in Berlin with 3 upcoming nights listed on soundcheck as of Tue, 21 Jul 2026; the next is "GROOVE DISTRICT OPEN AIR & INDOOR" on Sat, 25 Jul 2026.
 
 Bredouille is a music venue in Berlin listed on soundcheck. 3 upcoming nights, with line-ups including Culo Sucio, Daniel Jaramillo, Dave and DAZA and 2 more. Browse upcoming dates, start times and who's playing. S-Bahnbogen 199, Georgenstraße, 10117 Berlin, Germany.
 
@@ -16,4 +16,4 @@ Bredouille is a music venue in Berlin listed on soundcheck. 3 upcoming nights, w
 
 S-Bahnbogen 199, Georgenstraße, 10117 Berlin, Germany, Berlin
 
-*Updated Mon, 20 Jul 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/bredouille/)*
+*Updated Tue, 21 Jul 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/bredouille/)*

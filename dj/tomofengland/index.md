@@ -1,6 +1,6 @@
 # Tom of England
 
-Tom of England is a House and Disco artist with 2 upcoming club dates listed on soundcheck as of Mon, 20 Jul 2026, next at Locust Grove, New York City on Fri, 31 Jul 2026.
+Tom of England is a House and Disco artist with 2 upcoming club dates listed on soundcheck as of Tue, 21 Jul 2026, next at Locust Grove, New York City on Fri, 31 Jul 2026.
 
 Tom of England is a house and disco artist based in United Kingdom, tracked on soundcheck, with 33 sets logged across Athens, Bali, Berlin and Bristol and 9 more. Often billed alongside Paul Nickerson, Capablanca and DJ M3. Next up: Locust Grove, Newyorkcity on Fri 31 Jul.
 
@@ -26,4 +26,4 @@ Tom of England is a house and disco artist based in United Kingdom, tracked on s
 
 Paul Nickerson, Capablanca, DJ M3
 
-*Updated Mon, 20 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/tomofengland/)*
+*Updated Tue, 21 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/tomofengland/)*

@@ -1,6 +1,6 @@
 # Sedef Adasï
 
-Sedef Adasï is a Techno and House artist with 5 upcoming club dates listed on soundcheck as of Mon, 20 Jul 2026, next at Bassiani, Tbilisi on Fri, 31 Jul 2026.
+Sedef Adasï is a Techno and House artist with 5 upcoming club dates listed on soundcheck as of Tue, 21 Jul 2026, next at Bassiani, Tbilisi on Fri, 31 Jul 2026.
 
 Sedef Adasï is a techno and house artist tracked on soundcheck, with 264 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 54 more. Often billed alongside BASHKKA, Gabrielle Kwarteng and Job Jobse. Next up: Bassiani, Tbilisi on Fri 31 Jul.
 
@@ -29,4 +29,4 @@ Sedef Adasï is a techno and house artist tracked on soundcheck, with 264 sets l
 
 BASHKKA, Gabrielle Kwarteng, Job Jobse
 
-*Updated Mon, 20 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/sedefadasi/)*
+*Updated Tue, 21 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/sedefadasi/)*

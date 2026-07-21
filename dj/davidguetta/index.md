@@ -1,14 +1,13 @@
 # David Guetta
 
-David Guetta is a House and Progressive House artist with 24 upcoming club dates listed on soundcheck as of Mon, 20 Jul 2026, next at Ushuaïa Ibiza, Ibiza on Mon, 20 Jul 2026.
+David Guetta is a House and Progressive House artist with 23 upcoming club dates listed on soundcheck as of Tue, 21 Jul 2026, next at [UNVRS], Ibiza on Fri, 24 Jul 2026.
 
-David Guetta is a house and progressive house artist tracked on soundcheck, with 151 sets logged across Frankfurt, Geneva, Ibiza and Miami and 2 more. Often billed alongside Paul Reynolds, Meduza and James Hype (UK). Next up: Ushuaïa Ibiza, Ibiza on Mon 20 Jul.
+David Guetta is a house and progressive house artist tracked on soundcheck, with 151 sets logged across Frankfurt, Geneva, Ibiza and Miami and 2 more. Often billed alongside Paul Reynolds, Meduza and James Hype (UK). Next up: [UNVRS], Ibiza on Fri 24 Jul.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Mon, 20 Jul 2026 | Ushuaïa Ibiza | Ibiza |
 | Fri, 24 Jul 2026 | [UNVRS] | Ibiza |
 | Sun, 26 Jul 2026 | [UNVRS] | Ibiza |
 | Mon, 27 Jul 2026 | Ushuaïa Ibiza | Ibiza |
@@ -20,9 +19,11 @@ David Guetta is a house and progressive house artist tracked on soundcheck, with
 | Mon, 17 Aug 2026 | Ushuaïa Ibiza | Ibiza |
 | Fri, 21 Aug 2026 | [UNVRS] | Ibiza |
 | Mon, 24 Aug 2026 | Ushuaïa Ibiza | Ibiza |
+| Fri, 28 Aug 2026 | [UNVRS] | Ibiza |
 
 ## Recently played
 
+- Ushuaïa Ibiza, Ibiza — Mon, 20 Jul 2026
 - [UNVRS], Ibiza — Fri, 17 Jul 2026
 - Ushuaïa Ibiza, Ibiza — Mon, 13 Jul 2026
 - [UNVRS], Ibiza — Fri, 10 Jul 2026
@@ -30,10 +31,9 @@ David Guetta is a house and progressive house artist tracked on soundcheck, with
 - [UNVRS], Ibiza — Fri, 3 Jul 2026
 - Ushuaïa Ibiza, Ibiza — Mon, 29 Jun 2026
 - [UNVRS], Ibiza — Fri, 26 Jun 2026
-- Ushuaïa Ibiza, Ibiza — Mon, 22 Jun 2026
 
 ## Shares bills with
 
 Paul Reynolds, Meduza, James Hype (UK)
 
-*Updated Mon, 20 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/davidguetta/)*
+*Updated Tue, 21 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/davidguetta/)*

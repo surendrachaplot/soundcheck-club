@@ -1,13 +1,14 @@
 # THIBO VERKEBE
 
-THIBO VERKEBE is a Techno and Trance artist with 3 upcoming club dates listed on soundcheck as of Mon, 20 Jul 2026, next at Passion Club, Malta on Sat, 25 Jul 2026.
+THIBO VERKEBE is a Techno and Trance artist with 4 upcoming club dates listed on soundcheck as of Tue, 21 Jul 2026, next at Liquid Club, Malta on Wed, 22 Jul 2026.
 
-THIBO VERKEBE is a techno and trance artist based in Belgium, tracked on soundcheck, with 5 sets logged across Malta. Often billed alongside Naomi Baldacchino, Billy Hills and CHVZ. Next up: Passion Club, Malta on Sat 25 Jul.
+THIBO VERKEBE is a techno and trance artist based in Belgium, tracked on soundcheck, with 6 sets logged across Malta. Often billed alongside MAMO (2), Naomi Baldacchino and Billy Hills. Next up: Liquid Club, Malta on Wed 22 Jul.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Wed, 22 Jul 2026 | Liquid Club | Malta |
 | Sat, 25 Jul 2026 | Passion Club | Malta |
 | Sun, 26 Jul 2026 | Passion Club | Malta |
 | Tue, 11 Aug 2026 | Liquid Club | Malta |
@@ -19,6 +20,6 @@ THIBO VERKEBE is a techno and trance artist based in Belgium, tracked on soundch
 
 ## Shares bills with
 
-Naomi Baldacchino, Billy Hills, CHVZ
+MAMO (2), Naomi Baldacchino, Billy Hills
 
-*Updated Mon, 20 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/thiboverkebe/)*
+*Updated Tue, 21 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/thiboverkebe/)*

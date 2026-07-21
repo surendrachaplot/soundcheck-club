@@ -1,6 +1,6 @@
 # The Eagle Inn
 
-The Eagle Inn is a music venue in Manchester with 1 upcoming night listed on soundcheck as of Mon, 20 Jul 2026; the next is "MISTRUST + Special Guests" on Wed, 12 Aug 2026.
+The Eagle Inn is a music venue in Manchester with 1 upcoming night listed on soundcheck as of Tue, 21 Jul 2026; the next is "MISTRUST + Special Guests" on Wed, 12 Aug 2026.
 
 The Eagle Inn is a music venue in Manchester listed on soundcheck. 1 upcoming night. Browse upcoming dates, start times and who's playing. 19 Collier St, Salford M3 7DW.
 
@@ -14,4 +14,4 @@ The Eagle Inn is a music venue in Manchester listed on soundcheck. 1 upcoming ni
 
 19 Collier St, Salford M3 7DW, Manchester
 
-*Updated Mon, 20 Jul 2026 · source: [soundcheck](https://soundcheck.club/manchester/club/the-eagle-inn/)*
+*Updated Tue, 21 Jul 2026 · source: [soundcheck](https://soundcheck.club/manchester/club/the-eagle-inn/)*

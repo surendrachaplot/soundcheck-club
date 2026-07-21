@@ -1,6 +1,6 @@
 # EMJIE
 
-EMJIE is a House and Techno artist with 4 upcoming club dates listed on soundcheck as of Mon, 20 Jul 2026, next at Playa Soleil Ibiza, Ibiza on Tue, 21 Jul 2026.
+EMJIE is a House and Techno artist with 4 upcoming club dates listed on soundcheck as of Tue, 21 Jul 2026, next at Playa Soleil Ibiza, Ibiza on Tue, 21 Jul 2026.
 
 EMJIE is a house and techno artist based in Belgium, tracked on soundcheck, with 51 sets logged across Amsterdam, Antwerp, Barcelona and Berlin and 9 more. Often billed alongside Nico Morano, Belben and LP Giobbi. Next up: Playa Soleil Ibiza, Ibiza on Tue 21 Jul.
 
@@ -28,4 +28,4 @@ EMJIE is a house and techno artist based in Belgium, tracked on soundcheck, with
 
 Nico Morano, Belben, LP Giobbi
 
-*Updated Mon, 20 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/emjie/)*
+*Updated Tue, 21 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/emjie/)*

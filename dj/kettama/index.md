@@ -1,14 +1,13 @@
 # KETTAMA
 
-KETTAMA is a Techno and House artist with 11 upcoming club dates listed on soundcheck as of Mon, 20 Jul 2026, next at Amnesia Ibiza, Ibiza on Mon, 20 Jul 2026.
+KETTAMA is a Techno and House artist with 10 upcoming club dates listed on soundcheck as of Tue, 21 Jul 2026, next at Amnesia Ibiza, Ibiza on Mon, 27 Jul 2026.
 
-KETTAMA is a techno and house artist tracked on soundcheck, with 242 sets logged across Aberdeen, Amsterdam, Antwerp and Austin and 64 more. Often billed alongside Partiboi69, Ben Hemsley and Mall Grab. Next up: Amnesia Ibiza, Ibiza on Mon 20 Jul.
+KETTAMA is a techno and house artist tracked on soundcheck, with 242 sets logged across Aberdeen, Amsterdam, Antwerp and Austin and 64 more. Often billed alongside Partiboi69, Ben Hemsley and Mall Grab. Next up: Amnesia Ibiza, Ibiza on Mon 27 Jul.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Mon, 20 Jul 2026 | Amnesia Ibiza | Ibiza |
 | Mon, 27 Jul 2026 | Amnesia Ibiza | Ibiza |
 | Fri, 31 Jul 2026 | The Pinnacle | Nashville |
 | Fri, 31 Jul 2026 | Parc Jean-Drapeau | Montreal |
@@ -22,6 +21,7 @@ KETTAMA is a techno and house artist tracked on soundcheck, with 242 sets logged
 
 ## Recently played
 
+- Amnesia Ibiza, Ibiza — Mon, 20 Jul 2026
 - Amnesia Ibiza, Ibiza — Mon, 13 Jul 2026
 - Amnesia Ibiza, Ibiza — Mon, 6 Jul 2026
 - Amnesia Ibiza, Ibiza — Mon, 29 Jun 2026
@@ -29,10 +29,9 @@ KETTAMA is a techno and house artist tracked on soundcheck, with 242 sets logged
 - BCM, Mallorca — Fri, 26 Jun 2026
 - Amnesia Ibiza, Ibiza — Mon, 22 Jun 2026
 - Heaton Park, Manchester — Sat, 20 Jun 2026
-- Amnesia Ibiza, Ibiza — Mon, 15 Jun 2026
 
 ## Shares bills with
 
 Partiboi69, Ben Hemsley, Mall Grab
 
-*Updated Mon, 20 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/kettama/)*
+*Updated Tue, 21 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/kettama/)*

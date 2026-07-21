@@ -1,6 +1,6 @@
 # Dual
 
-Dual is a music venue in Bangkok with 5 upcoming nights listed on soundcheck as of Mon, 20 Jul 2026; the next is "DUAL Creature" on Thu, 23 Jul 2026.
+Dual is a music venue in Bangkok with 5 upcoming nights listed on soundcheck as of Tue, 21 Jul 2026; the next is "DUAL Creature" on Thu, 23 Jul 2026.
 
 Dual is a music venue in Bangkok listed on soundcheck. 5 upcoming nights, with line-ups including Adam Dado, DukeDumb, Elaheh and Gishiyama and 2 more. Browse upcoming dates, start times and who's playing. Soi Naradhiwas Rajanagarindra 3, Si Lom, Bang Rak, Bangkok 10500.
 
@@ -18,4 +18,4 @@ Dual is a music venue in Bangkok listed on soundcheck. 5 upcoming nights, with l
 
 Soi Naradhiwas Rajanagarindra 3, Si Lom, Bang Rak, Bangkok 10500, Bangkok
 
-*Updated Mon, 20 Jul 2026 · source: [soundcheck](https://soundcheck.club/bangkok/club/dual/)*
+*Updated Tue, 21 Jul 2026 · source: [soundcheck](https://soundcheck.club/bangkok/club/dual/)*

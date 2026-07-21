@@ -1,6 +1,6 @@
 # Pipi De Frèche
 
-Pipi De Frèche is a Electro and Techno artist with 2 upcoming club dates listed on soundcheck as of Mon, 20 Jul 2026, next at Virage, Paris on Sat, 25 Jul 2026.
+Pipi De Frèche is a Electro and Techno artist with 2 upcoming club dates listed on soundcheck as of Tue, 21 Jul 2026, next at Virage, Paris on Sat, 25 Jul 2026.
 
 Pipi De Frèche is an electro and techno artist based in France, tracked on soundcheck, with 32 sets logged across Paris. Often billed alongside Dactylo, LYDO and Aubry. Next up: Virage, Paris on Sat 25 Jul.
 
@@ -26,4 +26,4 @@ Pipi De Frèche is an electro and techno artist based in France, tracked on soun
 
 Dactylo, LYDO, Aubry
 
-*Updated Mon, 20 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/pipidefreche/)*
+*Updated Tue, 21 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/pipidefreche/)*

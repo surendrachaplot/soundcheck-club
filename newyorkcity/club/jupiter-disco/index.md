@@ -1,8 +1,8 @@
 # Jupiter Disco
 
-Jupiter Disco is a music venue in New York City with 29 upcoming nights listed on soundcheck as of Mon, 20 Jul 2026; the next is "Soundbites: NURAKAI, e_on, NAYSAY, Sona, EVOLEYELOVE" on Wed, 22 Jul 2026.
+Jupiter Disco is a music venue in New York City with 30 upcoming nights listed on soundcheck as of Tue, 21 Jul 2026; the next is "Soundbites: NURAKAI, e_on, NAYSAY, Sona, EVOLEYELOVE" on Wed, 22 Jul 2026.
 
-Jupiter Disco is a music venue in Newyorkcity listed on soundcheck. 29 upcoming nights, with line-ups including 5LAPHOUSE, Alcantara, B Hills and Busy Body and 2 more. Browse upcoming dates, start times and who's playing. 1237 Flushing Avenue, Brooklyn, NY 11237, USA.
+Jupiter Disco is a music venue in Newyorkcity listed on soundcheck. 30 upcoming nights, with line-ups including 5LAPHOUSE, Alcantara, B Hills and Busy Body and 2 more. Browse upcoming dates, start times and who's playing. 1237 Flushing Avenue, Brooklyn, NY 11237, USA.
 
 ## What's on
 
@@ -23,4 +23,4 @@ Jupiter Disco is a music venue in Newyorkcity listed on soundcheck. 29 upcoming 
 
 1237 Flushing Avenue, Brooklyn, NY 11237, USA, New York City
 
-*Updated Mon, 20 Jul 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/jupiter-disco/)*
+*Updated Tue, 21 Jul 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/jupiter-disco/)*

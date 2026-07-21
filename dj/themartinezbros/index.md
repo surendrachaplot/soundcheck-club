@@ -1,6 +1,6 @@
 # The Martinez Brothers
 
-The Martinez Brothers is a Tech House and House artist with 8 upcoming club dates listed on soundcheck as of Mon, 20 Jul 2026, next at Santanna Mykonos, Mykonos on Fri, 24 Jul 2026.
+The Martinez Brothers is a Tech House and House artist with 8 upcoming club dates listed on soundcheck as of Tue, 21 Jul 2026, next at Santanna Mykonos, Mykonos on Fri, 24 Jul 2026.
 
 The Martinez Brothers is a tech house and house artist tracked on soundcheck, with 177 sets logged across Amsterdam, Austin, Bali and Barcelona and 33 more. Often billed alongside Paco Osuna, Seth Troxler and Jamie Jones. Next up: Santanna Mykonos, Mykonos on Fri 24 Jul.
 
@@ -32,4 +32,4 @@ The Martinez Brothers is a tech house and house artist tracked on soundcheck, wi
 
 Paco Osuna, Seth Troxler, Jamie Jones
 
-*Updated Mon, 20 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/themartinezbros/)*
+*Updated Tue, 21 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/themartinezbros/)*

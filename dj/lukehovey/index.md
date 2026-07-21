@@ -1,6 +1,6 @@
 # Luke Hovey
 
-Luke Hovey is a Techno and Trance artist with 2 upcoming club dates listed on soundcheck as of Mon, 20 Jul 2026, next at Thuishaven, Amsterdam on Sun, 26 Jul 2026.
+Luke Hovey is a Techno and Trance artist with 2 upcoming club dates listed on soundcheck as of Tue, 21 Jul 2026, next at Thuishaven, Amsterdam on Sun, 26 Jul 2026.
 
 Luke Hovey is a techno and trance artist tracked on soundcheck, with 35 sets logged across Amsterdam, Berlin, Hobart and Melbourne and 2 more. Often billed alongside Black Dave, franck and Emma Moon. Next up: Thuishaven, Amsterdam on Sun 26 Jul.
 
@@ -26,4 +26,4 @@ Luke Hovey is a techno and trance artist tracked on soundcheck, with 35 sets log
 
 Black Dave, franck, Emma Moon
 
-*Updated Mon, 20 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/lukehovey/)*
+*Updated Tue, 21 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/lukehovey/)*

@@ -1,6 +1,6 @@
 # Andrew Azara
 
-Andrew Azara is a House and Tech House artist with 4 upcoming club dates listed on soundcheck as of Mon, 20 Jul 2026, next at Floyd, Miami on Fri, 31 Jul 2026.
+Andrew Azara is a House and Tech House artist with 4 upcoming club dates listed on soundcheck as of Tue, 21 Jul 2026, next at Floyd, Miami on Fri, 31 Jul 2026.
 
 Andrew Azara is a house and tech house artist tracked on soundcheck, with 35 sets logged across Amsterdam, Barcelona, Dublin and Ibiza and 7 more. Often billed alongside Nick Curly, Max Haas and Kid Moss. Next up: Floyd, Miami on Fri 31 Jul.
 
@@ -28,4 +28,4 @@ Andrew Azara is a house and tech house artist tracked on soundcheck, with 35 set
 
 Nick Curly, Max Haas, Kid Moss
 
-*Updated Mon, 20 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/andrewazara/)*
+*Updated Tue, 21 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/andrewazara/)*

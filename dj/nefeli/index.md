@@ -1,6 +1,6 @@
 # Nefeli
 
-Nefeli is a Trance and Techno artist with 3 upcoming club dates listed on soundcheck as of Mon, 20 Jul 2026, next at Funke, Ghent on Wed, 22 Jul 2026.
+Nefeli is a Trance and Techno artist with 3 upcoming club dates listed on soundcheck as of Tue, 21 Jul 2026, next at Funke, Ghent on Wed, 22 Jul 2026.
 
 Nefeli is a trance and techno artist based in Belgium, tracked on soundcheck, with 27 sets logged across Antwerp, Athens, Brussels and Ghent and 2 more. Often billed alongside STDJ, DJ Rino and Emma Caers. Next up: Funke, Ghent on Wed 22 Jul.
 
@@ -9,7 +9,7 @@ Nefeli is a trance and techno artist based in Belgium, tracked on soundcheck, wi
 | Date | Venue | City |
 | --- | --- | --- |
 | Wed, 22 Jul 2026 | Funke | Ghent |
-| Thu, 27 Aug 2026 | TBA - Schwing und Stampf Festival Site | Zurich |
+| Thu, 27 Aug 2026 | TBA - Schwing und Stampf Festival | Zurich |
 | Fri, 18 Sept 2026 | TBA - Paris | Paris |
 
 ## Recently played
@@ -27,4 +27,4 @@ Nefeli is a trance and techno artist based in Belgium, tracked on soundcheck, wi
 
 STDJ, DJ Rino, Emma Caers
 
-*Updated Mon, 20 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/nefeli/)*
+*Updated Tue, 21 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/nefeli/)*

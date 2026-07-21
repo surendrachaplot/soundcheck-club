@@ -1,6 +1,6 @@
 # Whitehouse Scheveningen
 
-Whitehouse Scheveningen is a music venue in The Hague with 1 upcoming night listed on soundcheck as of Mon, 20 Jul 2026; the next is "TABOO AT THE BEACH" on Fri, 31 Jul 2026.
+Whitehouse Scheveningen is a music venue in The Hague with 1 upcoming night listed on soundcheck as of Tue, 21 Jul 2026; the next is "TABOO AT THE BEACH" on Fri, 31 Jul 2026.
 
 Whitehouse Scheveningen is a music venue in Thehague listed on soundcheck. 1 upcoming night. Browse upcoming dates, start times and who's playing.
 
@@ -10,4 +10,4 @@ Whitehouse Scheveningen is a music venue in Thehague listed on soundcheck. 1 upc
 | --- | --- | --- |
 | Fri, 31 Jul 2026 | TABOO AT THE BEACH |  |
 
-*Updated Mon, 20 Jul 2026 · source: [soundcheck](https://soundcheck.club/thehague/club/whitehouse-scheveningen/)*
+*Updated Tue, 21 Jul 2026 · source: [soundcheck](https://soundcheck.club/thehague/club/whitehouse-scheveningen/)*

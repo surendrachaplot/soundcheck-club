@@ -1,6 +1,6 @@
 # Ellie Cocks
 
-Ellie Cocks is a House and Tech House artist with 2 upcoming club dates listed on soundcheck as of Mon, 20 Jul 2026, next at The North London Tavern, London on Mon, 31 Aug 2026.
+Ellie Cocks is a House and Tech House artist with 2 upcoming club dates listed on soundcheck as of Tue, 21 Jul 2026, next at The North London Tavern, London on Mon, 31 Aug 2026.
 
 Ellie Cocks is a house and tech house artist tracked on soundcheck, with 40 sets logged across Brighton, Bristol, Ibiza and Leeds and 2 more. Often billed alongside GW Harrison, Will Taylor and Billy Cocks. Next up: The North London Tavern, London on Mon 31 Aug.
 
@@ -26,4 +26,4 @@ Ellie Cocks is a house and tech house artist tracked on soundcheck, with 40 sets
 
 GW Harrison, Will Taylor, Billy Cocks
 
-*Updated Mon, 20 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/elliecocks/)*
+*Updated Tue, 21 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/elliecocks/)*

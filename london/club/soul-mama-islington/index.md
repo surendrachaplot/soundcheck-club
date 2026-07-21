@@ -1,6 +1,6 @@
 # Soul Mama Islington
 
-Soul Mama Islington is a music venue in London with 1 upcoming night listed on soundcheck as of Mon, 20 Jul 2026; the next is "British Reggae legend Dennis Bovell - DJ & PA Set" on Sun, 23 Aug 2026.
+Soul Mama Islington is a music venue in London with 1 upcoming night listed on soundcheck as of Tue, 21 Jul 2026; the next is "British Reggae legend Dennis Bovell - DJ & PA Set" on Sun, 23 Aug 2026.
 
 Soul Mama Islington is a music venue in London listed on soundcheck. 1 upcoming night, with line-ups including Dennis Bovell. Browse upcoming dates, start times and who's playing. Angel Central, 21 Parkfield Street, London N1 0PS.
 
@@ -14,4 +14,4 @@ Soul Mama Islington is a music venue in London listed on soundcheck. 1 upcoming 
 
 Angel Central, 21 Parkfield Street, London N1 0PS, London
 
-*Updated Mon, 20 Jul 2026 · source: [soundcheck](https://soundcheck.club/london/club/soul-mama-islington/)*
+*Updated Tue, 21 Jul 2026 · source: [soundcheck](https://soundcheck.club/london/club/soul-mama-islington/)*

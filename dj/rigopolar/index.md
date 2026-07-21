@@ -1,6 +1,6 @@
 # Rigopolar
 
-Rigopolar is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Mon, 20 Jul 2026, next at Jaeger, Oslo on Fri, 24 Jul 2026.
+Rigopolar is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Tue, 21 Jul 2026, next at Jaeger, Oslo on Fri, 24 Jul 2026.
 
 Rigopolar is a house and techno artist tracked on soundcheck, with 25 sets logged across Berlin, Hamburg, London and Losangeles and 6 more. Often billed alongside Discolypso Crew, Isaac Ferry and Ark3r. Next up: Jaeger, Oslo on Fri 24 Jul.
 
@@ -26,4 +26,4 @@ Rigopolar is a house and techno artist tracked on soundcheck, with 25 sets logge
 
 Discolypso Crew, Isaac Ferry, Ark3r
 
-*Updated Mon, 20 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/rigopolar/)*
+*Updated Tue, 21 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/rigopolar/)*

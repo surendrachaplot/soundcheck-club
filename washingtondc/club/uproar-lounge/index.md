@@ -1,6 +1,6 @@
 # Uproar Lounge
 
-Uproar Lounge is a music venue in Washington DC with 1 upcoming night listed on soundcheck as of Mon, 20 Jul 2026; the next is "THICKSET- TECHNO ALL NIGHT" on Fri, 24 Jul 2026.
+Uproar Lounge is a music venue in Washington DC with 1 upcoming night listed on soundcheck as of Tue, 21 Jul 2026; the next is "THICKSET- TECHNO ALL NIGHT" on Fri, 24 Jul 2026.
 
 Uproar Lounge is a music venue in Washingtondc listed on soundcheck. 1 upcoming night, with line-ups including Casa Nova, has.san and Room 12. Browse upcoming dates, start times and who's playing. 639 Florida Ave NW, Washington, DC 20001.
 
@@ -14,4 +14,4 @@ Uproar Lounge is a music venue in Washingtondc listed on soundcheck. 1 upcoming 
 
 639 Florida Ave NW, Washington, DC 20001, Washington DC
 
-*Updated Mon, 20 Jul 2026 · source: [soundcheck](https://soundcheck.club/washingtondc/club/uproar-lounge/)*
+*Updated Tue, 21 Jul 2026 · source: [soundcheck](https://soundcheck.club/washingtondc/club/uproar-lounge/)*

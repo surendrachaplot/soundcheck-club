@@ -1,6 +1,6 @@
 # In Ray
 
-In Ray is a Techno and Experimental artist with 2 upcoming club dates listed on soundcheck as of Mon, 20 Jul 2026, next at KGR(n), Tokyo on Mon, 10 Aug 2026.
+In Ray is a Techno and Experimental artist with 2 upcoming club dates listed on soundcheck as of Tue, 21 Jul 2026, next at KGR(n), Tokyo on Mon, 10 Aug 2026.
 
 In Ray is a techno and experimental artist based in Japan, tracked on soundcheck, with 33 sets logged across Seoul and Tokyo. Often billed alongside C-KAY, karanaki and KotaNakano. Next up: KGR(n), Tokyo on Mon 10 Aug.
 
@@ -26,4 +26,4 @@ In Ray is a techno and experimental artist based in Japan, tracked on soundcheck
 
 C-KAY, karanaki, KotaNakano
 
-*Updated Mon, 20 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/inray/)*
+*Updated Tue, 21 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/inray/)*

@@ -1,6 +1,6 @@
 # Veleiro Principe Perfeito
 
-Veleiro Principe Perfeito is a music venue in Lisbon with 1 upcoming night listed on soundcheck as of Mon, 20 Jul 2026; the next is "AMEN BOAT PARTY" on Sat, 5 Sept 2026.
+Veleiro Principe Perfeito is a music venue in Lisbon with 1 upcoming night listed on soundcheck as of Tue, 21 Jul 2026; the next is "AMEN BOAT PARTY" on Sat, 5 Sept 2026.
 
 Veleiro Principe Perfeito is a music venue in Lisbon listed on soundcheck. 1 upcoming night, with line-ups including Lemon & Mint, Pizza Hotline and YLS. Browse upcoming dates, start times and who's playing. Doca de Alcântara, Cais da Rocha Conde de Óbidos, Norte 1350-150 Lisbon, Portugal.
 
@@ -14,4 +14,4 @@ Veleiro Principe Perfeito is a music venue in Lisbon listed on soundcheck. 1 upc
 
 Doca de Alcântara, Cais da Rocha Conde de Óbidos, Norte 1350-150 Lisbon, Portugal, Lisbon
 
-*Updated Mon, 20 Jul 2026 · source: [soundcheck](https://soundcheck.club/lisbon/club/veleiro-principe-perfeito/)*
+*Updated Tue, 21 Jul 2026 · source: [soundcheck](https://soundcheck.club/lisbon/club/veleiro-principe-perfeito/)*

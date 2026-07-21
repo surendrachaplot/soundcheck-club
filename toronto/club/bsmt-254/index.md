@@ -1,6 +1,6 @@
 # Bsmt 254
 
-Bsmt 254 is a music venue in Toronto with 6 upcoming nights listed on soundcheck as of Mon, 20 Jul 2026; the next is "MORE NOISE PLEASE PRESENTS: CATERWAULING CLAMOUR & CONTORTION" on Thu, 23 Jul 2026.
+Bsmt 254 is a music venue in Toronto with 6 upcoming nights listed on soundcheck as of Tue, 21 Jul 2026; the next is "MORE NOISE PLEASE PRESENTS: CATERWAULING CLAMOUR & CONTORTION" on Thu, 23 Jul 2026.
 
 Bsmt 254 is a music venue in Toronto listed on soundcheck. 6 upcoming nights, with line-ups including Brash-B, Dan Medland, Gremlinz and Jesta and 2 more. Browse upcoming dates, start times and who's playing. 254 Lansdowne Ave, Toronto, ON M6H 3X9.
 
@@ -19,4 +19,4 @@ Bsmt 254 is a music venue in Toronto listed on soundcheck. 6 upcoming nights, wi
 
 254 Lansdowne Ave, Toronto, ON M6H 3X9, Toronto
 
-*Updated Mon, 20 Jul 2026 · source: [soundcheck](https://soundcheck.club/toronto/club/bsmt-254/)*
+*Updated Tue, 21 Jul 2026 · source: [soundcheck](https://soundcheck.club/toronto/club/bsmt-254/)*

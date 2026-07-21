@@ -1,6 +1,6 @@
 # ELAYN
 
-ELAYN is a Acid and Techno artist with 2 upcoming club dates listed on soundcheck as of Mon, 20 Jul 2026, next at AMT, Berlin on Sat, 25 Jul 2026.
+ELAYN is a Acid and Techno artist with 2 upcoming club dates listed on soundcheck as of Tue, 21 Jul 2026, next at AMT, Berlin on Sat, 25 Jul 2026.
 
 ELAYN is an acid and techno artist based in Syria, tracked on soundcheck, with 25 sets logged across Athens, Berlin, Chicago and London and 1 more. Often billed alongside Milad Samara, Achilles and Kasja. Next up: AMT, Berlin on Sat 25 Jul.
 
@@ -26,4 +26,4 @@ ELAYN is an acid and techno artist based in Syria, tracked on soundcheck, with 2
 
 Milad Samara, Achilles, Kasja
 
-*Updated Mon, 20 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/elayn/)*
+*Updated Tue, 21 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/elayn/)*

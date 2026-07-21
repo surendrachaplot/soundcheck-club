@@ -1,13 +1,14 @@
 # Livid (UK)
 
-Livid (UK) is a Techno and Electro artist with 4 upcoming club dates listed on soundcheck as of Mon, 20 Jul 2026, next at Tresor / Globus, Berlin on Wed, 29 Jul 2026.
+Livid (UK) is a Techno and Electro artist with 5 upcoming club dates listed on soundcheck as of Tue, 21 Jul 2026, next at The Crypt Gallery London, London on Sat, 25 Jul 2026.
 
-Livid (UK) is a techno and electro artist tracked on soundcheck, with 35 sets logged across Berlin, Bristol, Edinburgh and Glasgow and 3 more. Often billed alongside Slumber, Sofi. and Desiree'. Next up: Tresor / Globus, Berlin on Wed 29 Jul.
+Livid (UK) is a techno and electro artist tracked on soundcheck, with 36 sets logged across Berlin, Bristol, Edinburgh and Glasgow and 3 more. Often billed alongside Slumber, Sofi. and Desiree'. Next up: The Crypt Gallery London, London on Sat 25 Jul.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 25 Jul 2026 | The Crypt Gallery London | London |
 | Wed, 29 Jul 2026 | Tresor / Globus | Berlin |
 | Sat, 1 Aug 2026 | Palais | London |
 | Sat, 15 Aug 2026 | Gaffe | London |
@@ -28,4 +29,4 @@ Livid (UK) is a techno and electro artist tracked on soundcheck, with 35 sets lo
 
 Slumber, Sofi., Desiree'
 
-*Updated Mon, 20 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/livid-uk/)*
+*Updated Tue, 21 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/livid-uk/)*

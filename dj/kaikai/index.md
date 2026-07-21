@@ -1,6 +1,6 @@
 # KAIKAI
 
-KAIKAI is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Mon, 20 Jul 2026, next at UTOPIA / DYSTOPIA, Tokyo on Thu, 23 Jul 2026.
+KAIKAI is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Tue, 21 Jul 2026, next at UTOPIA / DYSTOPIA, Tokyo on Thu, 23 Jul 2026.
 
 KAIKAI is a house and techno artist based in Japan, tracked on soundcheck, with 25 sets logged across Bali, Sanfrancisco, Sydney and Tokyo. Often billed alongside ALEXANDER M, DJ Yogurt and EIGHT. Next up: UTOPIA / DYSTOPIA, Tokyo on Thu 23 Jul.
 
@@ -26,4 +26,4 @@ KAIKAI is a house and techno artist based in Japan, tracked on soundcheck, with 
 
 ALEXANDER M, DJ Yogurt, EIGHT
 
-*Updated Mon, 20 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/kaikai/)*
+*Updated Tue, 21 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/kaikai/)*

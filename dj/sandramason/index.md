@@ -1,6 +1,6 @@
 # Sandra Mason
 
-Sandra Mason is a Experimental and Techno artist with 2 upcoming club dates listed on soundcheck as of Mon, 20 Jul 2026, next at TBA, Rome on Tue, 21 Jul 2026.
+Sandra Mason is a Experimental and Techno artist with 2 upcoming club dates listed on soundcheck as of Tue, 21 Jul 2026, next at TBA, Rome on Tue, 21 Jul 2026.
 
 Sandra Mason is an experimental and techno artist tracked on soundcheck, with 32 sets logged across Berlin, Milan, Naples and Rome and 1 more. Often billed alongside Cosimo Damiano, Gattonero and Andrea Saba. Next up: TBA, Rome on Tue 21 Jul.
 
@@ -26,4 +26,4 @@ Sandra Mason is an experimental and techno artist tracked on soundcheck, with 32
 
 Cosimo Damiano, Gattonero, Andrea Saba
 
-*Updated Mon, 20 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/sandramason/)*
+*Updated Tue, 21 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/sandramason/)*

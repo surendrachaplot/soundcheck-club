@@ -1,6 +1,6 @@
 # Bear Winder
 
-Bear Winder is a House and Garage artist with 3 upcoming club dates listed on soundcheck as of Mon, 20 Jul 2026, next at Two Tribes CAMPFIRE, London on Fri, 24 Jul 2026.
+Bear Winder is a House and Garage artist with 3 upcoming club dates listed on soundcheck as of Tue, 21 Jul 2026, next at Two Tribes CAMPFIRE, London on Fri, 24 Jul 2026.
 
 Bear Winder is a house and garage artist tracked on soundcheck, with 37 sets logged across London, Manchester and Melbourne. Often billed alongside Jeremy Sylvester, Tiffany Quinn and Zak Miller. Next up: Two Tribes CAMPFIRE, London on Fri 24 Jul.
 
@@ -27,4 +27,4 @@ Bear Winder is a house and garage artist tracked on soundcheck, with 37 sets log
 
 Jeremy Sylvester, Tiffany Quinn, Zak Miller
 
-*Updated Mon, 20 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/bearwinder/)*
+*Updated Tue, 21 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/bearwinder/)*

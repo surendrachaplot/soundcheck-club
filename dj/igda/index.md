@@ -1,8 +1,8 @@
 # IGDA
 
-IGDA is a Techno and Trance artist with 4 upcoming club dates listed on soundcheck as of Mon, 20 Jul 2026, next at TBA - Near Berlin (Secret Forest), Berlin on Thu, 6 Aug 2026.
+IGDA is a Techno and Trance artist with 5 upcoming club dates listed on soundcheck as of Tue, 21 Jul 2026, next at TBA - Near Berlin (Secret Forest), Berlin on Thu, 6 Aug 2026.
 
-IGDA is a techno and trance artist tracked on soundcheck, with 83 sets logged across Amsterdam, Barcelona, Basel and Belgrade and 16 more. Often billed alongside NOTMYTYPE (2), A.N.I. and Nicolas Julian. Next up: TBA - Near Berlin (Secret Forest), Berlin on Thu 6 Aug.
+IGDA is a techno and trance artist tracked on soundcheck, with 84 sets logged across Amsterdam, Barcelona, Basel and Belgrade and 16 more. Often billed alongside NOTMYTYPE (2), A.N.I. and Kø:lab. Next up: TBA - Near Berlin (Secret Forest), Berlin on Thu 6 Aug.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ IGDA is a techno and trance artist tracked on soundcheck, with 83 sets logged ac
 | --- | --- | --- |
 | Thu, 6 Aug 2026 | TBA - Near Berlin (Secret Forest) | Berlin |
 | Fri, 7 Aug 2026 | Waschhaus | Berlin |
+| Sat, 15 Aug 2026 | Straße des 17. Juni | Berlin |
 | Sat, 29 Aug 2026 | DSTRKT Club Berlin | Berlin |
 | Sat, 19 Sept 2026 | OST | Berlin |
 
@@ -26,6 +27,6 @@ IGDA is a techno and trance artist tracked on soundcheck, with 83 sets logged ac
 
 ## Shares bills with
 
-NOTMYTYPE (2), A.N.I., Nicolas Julian
+NOTMYTYPE (2), A.N.I., Kø:lab
 
-*Updated Mon, 20 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/igda/)*
+*Updated Tue, 21 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/igda/)*

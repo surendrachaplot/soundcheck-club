@@ -1,6 +1,6 @@
 # STE-VÍ
 
-STE-VÍ is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Mon, 20 Jul 2026, next at Bossa Nova Civic Club, New York City on Sat, 25 Jul 2026.
+STE-VÍ is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Tue, 21 Jul 2026, next at Bossa Nova Civic Club, New York City on Sat, 25 Jul 2026.
 
 STE-VÍ is a techno and house artist tracked on soundcheck, with 64 sets logged across Berlin, Boston, Cork and Newyorkcity and 2 more. Often billed alongside Secret Raver, Adrian Hex and Junkfile. Next up: Bossa Nova Civic Club, Newyorkcity on Sat 25 Jul.
 
@@ -26,4 +26,4 @@ STE-VÍ is a techno and house artist tracked on soundcheck, with 64 sets logged 
 
 Secret Raver, Adrian Hex, Junkfile
 
-*Updated Mon, 20 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/ste-ví/)*
+*Updated Tue, 21 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/ste-ví/)*

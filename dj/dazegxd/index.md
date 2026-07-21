@@ -1,6 +1,6 @@
 # Dazegxd
 
-Dazegxd is a Jungle and House artist with 5 upcoming club dates listed on soundcheck as of Mon, 20 Jul 2026, next at Mood Ring, New York City on Wed, 22 Jul 2026.
+Dazegxd is a Jungle and House artist with 5 upcoming club dates listed on soundcheck as of Tue, 21 Jul 2026, next at Mood Ring, New York City on Wed, 22 Jul 2026.
 
 Dazegxd is a jungle and house artist tracked on soundcheck, with 94 sets logged across Austin, Boston, Bristol and Chicago and 14 more. Often billed alongside Yesterdayneverhappened, gum.mp3 and Swami Sound. Next up: Mood Ring, Newyorkcity on Wed 22 Jul.
 
@@ -29,4 +29,4 @@ Dazegxd is a jungle and house artist tracked on soundcheck, with 94 sets logged 
 
 Yesterdayneverhappened, gum.mp3, Swami Sound
 
-*Updated Mon, 20 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/dazegxd/)*
+*Updated Tue, 21 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/dazegxd/)*

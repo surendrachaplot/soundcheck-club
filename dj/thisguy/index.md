@@ -1,6 +1,6 @@
 # This Guy
 
-This Guy is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Mon, 20 Jul 2026, next at The DBA, Manchester on Fri, 31 Jul 2026.
+This Guy is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Tue, 21 Jul 2026, next at The DBA, Manchester on Fri, 31 Jul 2026.
 
 This Guy is a techno and house artist tracked on soundcheck, with 26 sets logged across Manchester. Often billed alongside Deventi, Ally Shone and Jess Rose. Next up: The DBA, Manchester on Fri 31 Jul.
 
@@ -26,4 +26,4 @@ This Guy is a techno and house artist tracked on soundcheck, with 26 sets logged
 
 Deventi, Ally Shone, Jess Rose
 
-*Updated Mon, 20 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/thisguy/)*
+*Updated Tue, 21 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/thisguy/)*

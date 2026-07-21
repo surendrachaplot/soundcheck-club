@@ -1,6 +1,6 @@
 # Strange Brew
 
-Strange Brew is a music venue in Bristol with 11 upcoming nights listed on soundcheck as of Mon, 20 Jul 2026; the next is "Baile do Futuro with BADSISTA, holandês & Mica" on Fri, 24 Jul 2026.
+Strange Brew is a music venue in Bristol with 11 upcoming nights listed on soundcheck as of Tue, 21 Jul 2026; the next is "Baile do Futuro with BADSISTA, holandês & Mica" on Fri, 24 Jul 2026.
 
 Strange Brew is a music venue in Bristol listed on soundcheck. 11 upcoming nights, with line-ups including Alicia Carrera, ALYA L, Andy Blake and Andy Mac and 2 more. Browse upcoming dates, start times and who's playing. 10-12 Fairfax Street, Bristol, BS1 3DB.
 
@@ -23,4 +23,4 @@ Strange Brew is a music venue in Bristol listed on soundcheck. 11 upcoming night
 
 10-12 Fairfax Street, Bristol, BS1 3DB, Bristol
 
-*Updated Mon, 20 Jul 2026 · source: [soundcheck](https://soundcheck.club/bristol/club/strange-brew/)*
+*Updated Tue, 21 Jul 2026 · source: [soundcheck](https://soundcheck.club/bristol/club/strange-brew/)*

@@ -1,6 +1,6 @@
 # TBA - La Biblioteca, San Telmo
 
-TBA - La Biblioteca, San Telmo is a music venue in Buenos Aires with 7 upcoming nights listed on soundcheck as of Mon, 20 Jul 2026; the next is "Chicola & MORE ARTISTS - by PROGRESSIVE AR, LA BIBLIOTECA" on Fri, 24 Jul 2026.
+TBA - La Biblioteca, San Telmo is a music venue in Buenos Aires with 7 upcoming nights listed on soundcheck as of Tue, 21 Jul 2026; the next is "Chicola & MORE ARTISTS - by PROGRESSIVE AR, LA BIBLIOTECA" on Fri, 24 Jul 2026.
 
 TBA - La Biblioteca, San Telmo is a music venue in Buenosaires listed on soundcheck. 7 upcoming nights, with line-ups including Chicola, Durante, Jody Wisternoff and Martin Garcia and 2 more. Browse upcoming dates, start times and who's playing.
 
@@ -16,4 +16,4 @@ TBA - La Biblioteca, San Telmo is a music venue in Buenosaires listed on soundch
 | Sat, 15 Aug 2026 | Jody Wisternoff + PEREZ RUSSO - by SOMOS PRODUCE, LA BIBLIOTECA | Jody Wisternoff |
 | Sat, 22 Aug 2026 | Maxi Degrassi + JAZMIN - by SOMOS PRODUCE, LA BIBLIOTECA | Maxi Degrassi |
 
-*Updated Mon, 20 Jul 2026 · source: [soundcheck](https://soundcheck.club/buenosaires/club/tba-la-biblioteca-san-telmo/)*
+*Updated Tue, 21 Jul 2026 · source: [soundcheck](https://soundcheck.club/buenosaires/club/tba-la-biblioteca-san-telmo/)*

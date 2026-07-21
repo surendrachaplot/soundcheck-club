@@ -1,8 +1,8 @@
 # Setlist @ Somerset House
 
-Setlist @ Somerset House is a music venue in London with 16 upcoming nights listed on soundcheck as of Mon, 20 Jul 2026; the next is "R&B AND FUNKY HOUSE NIGHT presents CRAZY COUSINS" on Fri, 31 Jul 2026.
+Setlist @ Somerset House is a music venue in London with 17 upcoming nights listed on soundcheck as of Tue, 21 Jul 2026; the next is "R&B AND FUNKY HOUSE NIGHT presents CRAZY COUSINS" on Fri, 31 Jul 2026.
 
-Setlist @ Somerset House is a music venue in London listed on soundcheck. 16 upcoming nights, with line-ups including Crazy Cousinz, European 305, Jacinta and Jamesey and 2 more. Browse upcoming dates, start times and who's playing. SOMERSET HOUSE, STRAND LONDON, WC2R 1LA.
+Setlist @ Somerset House is a music venue in London listed on soundcheck. 17 upcoming nights, with line-ups including Crazy Cousinz, European 305, Jacinta and Jamesey and 2 more. Browse upcoming dates, start times and who's playing. SOMERSET HOUSE, STRAND LONDON, WC2R 1LA.
 
 ## What's on
 
@@ -23,4 +23,4 @@ Setlist @ Somerset House is a music venue in London listed on soundcheck. 16 upc
 
 SOMERSET HOUSE, STRAND LONDON, WC2R 1LA, London
 
-*Updated Mon, 20 Jul 2026 · source: [soundcheck](https://soundcheck.club/london/club/setlist-somerset-house/)*
+*Updated Tue, 21 Jul 2026 · source: [soundcheck](https://soundcheck.club/london/club/setlist-somerset-house/)*

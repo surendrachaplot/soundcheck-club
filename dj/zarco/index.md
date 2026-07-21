@@ -1,6 +1,6 @@
 # Zarco
 
-Zarco is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Mon, 20 Jul 2026, next at IFEMA, Madrid on Fri, 18 Sept 2026.
+Zarco is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Tue, 21 Jul 2026, next at IFEMA, Madrid on Fri, 18 Sept 2026.
 
 Zarco is a techno and house artist tracked on soundcheck, with 48 sets logged across Barcelona, Berlin, Madrid and Valencia. Often billed alongside Andrea Zarco, Reptile (ES) and Karretero. Next up: IFEMA, Madrid on Fri 18 Sept.
 
@@ -26,4 +26,4 @@ Zarco is a techno and house artist tracked on soundcheck, with 48 sets logged ac
 
 Andrea Zarco, Reptile (ES), Karretero
 
-*Updated Mon, 20 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/zarco/)*
+*Updated Tue, 21 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/zarco/)*

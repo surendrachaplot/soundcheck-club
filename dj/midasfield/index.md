@@ -1,6 +1,6 @@
 # Midas Field
 
-Midas Field is a House and Garage artist with 5 upcoming club dates listed on soundcheck as of Mon, 20 Jul 2026, next at Shelter Amsterdam, Amsterdam on Fri, 31 Jul 2026.
+Midas Field is a House and Garage artist with 5 upcoming club dates listed on soundcheck as of Tue, 21 Jul 2026, next at Shelter Amsterdam, Amsterdam on Fri, 31 Jul 2026.
 
 Midas Field is a house and garage artist based in Netherlands, tracked on soundcheck, with 20 sets logged across Amsterdam, Dublin, Ibiza and Melbourne and 3 more. Often billed alongside Dam Swindle, Kellie Allen and Merel Helderman. Next up: Shelter Amsterdam, Amsterdam on Fri 31 Jul.
 
@@ -29,4 +29,4 @@ Midas Field is a house and garage artist based in Netherlands, tracked on soundc
 
 Dam Swindle, Kellie Allen, Merel Helderman
 
-*Updated Mon, 20 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/midasfield/)*
+*Updated Tue, 21 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/midasfield/)*

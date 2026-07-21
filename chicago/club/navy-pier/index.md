@@ -1,6 +1,6 @@
 # Navy Pier
 
-Navy Pier is a music venue in Chicago with 4 upcoming nights listed on soundcheck as of Mon, 20 Jul 2026; the next is "ZHU at Navy Pier Open Air" on Sat, 15 Aug 2026.
+Navy Pier is a music venue in Chicago with 4 upcoming nights listed on soundcheck as of Tue, 21 Jul 2026; the next is "ZHU at Navy Pier Open Air" on Sat, 15 Aug 2026.
 
 Navy Pier is a music venue in Chicago listed on soundcheck. 4 upcoming nights, with line-ups including Charlotte de Witte, Deadmau5, Hugel and ZHU. Browse upcoming dates, start times and who's playing. 600 E Grand Ave; Chicago; IL 60611.
 
@@ -17,4 +17,4 @@ Navy Pier is a music venue in Chicago listed on soundcheck. 4 upcoming nights, w
 
 600 E Grand Ave; Chicago; IL 60611, Chicago
 
-*Updated Mon, 20 Jul 2026 · source: [soundcheck](https://soundcheck.club/chicago/club/navy-pier/)*
+*Updated Tue, 21 Jul 2026 · source: [soundcheck](https://soundcheck.club/chicago/club/navy-pier/)*

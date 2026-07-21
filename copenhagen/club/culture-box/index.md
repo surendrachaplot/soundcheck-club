@@ -1,6 +1,6 @@
 # Culture Box
 
-Culture Box is a music venue in Copenhagen with 15 upcoming nights listed on soundcheck as of Mon, 20 Jul 2026; the next is "SOL:LUNA: Denize / Aviaja / Don Serb" on Fri, 24 Jul 2026.
+Culture Box is a music venue in Copenhagen with 15 upcoming nights listed on soundcheck as of Tue, 21 Jul 2026; the next is "SOL:LUNA: Denize / Aviaja / Don Serb" on Fri, 24 Jul 2026.
 
 Culture Box is a music venue in Copenhagen listed on soundcheck. 15 upcoming nights, with line-ups including AELVA K, Ama Lien, AMITTET and Ana Karla and 2 more. Browse upcoming dates, start times and who's playing. Kronprinsessegade 54; Copenhagen K. 1306; Denmark.
 
@@ -23,4 +23,4 @@ Culture Box is a music venue in Copenhagen listed on soundcheck. 15 upcoming nig
 
 Kronprinsessegade 54; Copenhagen K. 1306; Denmark, Copenhagen
 
-*Updated Mon, 20 Jul 2026 · source: [soundcheck](https://soundcheck.club/copenhagen/club/culture-box/)*
+*Updated Tue, 21 Jul 2026 · source: [soundcheck](https://soundcheck.club/copenhagen/club/culture-box/)*

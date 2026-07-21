@@ -1,13 +1,14 @@
 # Climax-Institutes
 
-Climax-Institutes is a music venue in Stuttgart with 9 upcoming nights listed on soundcheck as of Mon, 20 Jul 2026; the next is "Cathedral of Sin - CSD Pre Party" on Fri, 24 Jul 2026.
+Climax-Institutes is a music venue in Stuttgart with 10 upcoming nights listed on soundcheck as of Tue, 21 Jul 2026; the next is "THURSDAZE w/Vikamin, Astana, Carlo Carlucci" on Thu, 23 Jul 2026.
 
-Climax-Institutes is a music venue in Stuttgart listed on soundcheck. 9 upcoming nights, with line-ups including Adi Dassler, Aniza (DE), CALiACRA and crystal crimez (2) and 2 more. Browse upcoming dates, start times and who's playing. Calwer Str. 25, 70173 Stuttgart.
+Climax-Institutes is a music venue in Stuttgart listed on soundcheck. 10 upcoming nights, with line-ups including Adi Dassler, Aniza (DE), CALiACRA and crystal crimez (2) and 2 more. Browse upcoming dates, start times and who's playing. Calwer Str. 25, 70173 Stuttgart.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
+| Thu, 23 Jul 2026 | THURSDAZE w/Vikamin, Astana, Carlo Carlucci |  |
 | Fri, 24 Jul 2026 | Cathedral of Sin - CSD Pre Party |  |
 | Sat, 25 Jul 2026 | Mit dem Climax Truck auf der Stuttgart Pride 2026 | Michael Clash Gottschalk |
 | Sat, 25 Jul 2026 | PRIDE TRUCK AFTERPARTY | Michael Clash Gottschalk |
@@ -22,4 +23,4 @@ Climax-Institutes is a music venue in Stuttgart listed on soundcheck. 9 upcoming
 
 Calwer Str. 25, 70173 Stuttgart, Stuttgart
 
-*Updated Mon, 20 Jul 2026 · source: [soundcheck](https://soundcheck.club/stuttgart/club/climax-institutes/)*
+*Updated Tue, 21 Jul 2026 · source: [soundcheck](https://soundcheck.club/stuttgart/club/climax-institutes/)*

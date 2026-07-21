@@ -1,6 +1,6 @@
 # Palais Theatre
 
-Palais Theatre is a music venue in Melbourne with 1 upcoming night listed on soundcheck as of Mon, 20 Jul 2026; the next is "Tia Ray Once Upon A Moon World Tour - Melbourne" on Thu, 20 Aug 2026.
+Palais Theatre is a music venue in Melbourne with 1 upcoming night listed on soundcheck as of Tue, 21 Jul 2026; the next is "Tia Ray Once Upon A Moon World Tour - Melbourne" on Thu, 20 Aug 2026.
 
 Palais Theatre is a music venue in Melbourne listed on soundcheck. 1 upcoming night. Browse upcoming dates, start times and who's playing. Lower Esplanade, St Kilda VIC 3182, Australia.
 
@@ -14,4 +14,4 @@ Palais Theatre is a music venue in Melbourne listed on soundcheck. 1 upcoming ni
 
 Lower Esplanade, St Kilda VIC 3182, Australia, Melbourne
 
-*Updated Mon, 20 Jul 2026 · source: [soundcheck](https://soundcheck.club/melbourne/club/palais-theatre/)*
+*Updated Tue, 21 Jul 2026 · source: [soundcheck](https://soundcheck.club/melbourne/club/palais-theatre/)*

@@ -1,6 +1,6 @@
 # LOVEFOXY
 
-LOVEFOXY is a House and Techno artist with 8 upcoming club dates listed on soundcheck as of Mon, 20 Jul 2026, next at Komplex Berlin, Berlin on Sat, 25 Jul 2026.
+LOVEFOXY is a House and Techno artist with 8 upcoming club dates listed on soundcheck as of Tue, 21 Jul 2026, next at Komplex Berlin, Berlin on Sat, 25 Jul 2026.
 
 LOVEFOXY is a house and techno artist tracked on soundcheck, with 159 sets logged across Aberdeen, Amsterdam, Barcelona and Basel and 42 more. Often billed alongside DJ Heartstring, Elli Acula and BELLA (NL). Next up: Komplex Berlin, Berlin on Sat 25 Jul.
 
@@ -32,4 +32,4 @@ LOVEFOXY is a house and techno artist tracked on soundcheck, with 159 sets logge
 
 DJ Heartstring, Elli Acula, BELLA (NL)
 
-*Updated Mon, 20 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/lovefoxy/)*
+*Updated Tue, 21 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/lovefoxy/)*

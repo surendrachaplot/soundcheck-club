@@ -1,6 +1,6 @@
 # Club Bebé PRESENTS: Ms. Nina at Village Studios
 
-Club Bebé PRESENTS: Ms. Nina at Village Studios on Sun 2 Aug, Vancouver. 2 acts on the bill: BINKY and Brendocha. Club and Reggaeton. Preview the line-up and save it on soundcheck.
+Club Bebé PRESENTS: Ms. Nina at Village Studios on Sun 2 Aug, Vancouver. 4 acts on the bill: BINKY, Brendocha, Ms Nina (ES) and abers. Club and Reggaeton. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -12,5 +12,7 @@ Club Bebé PRESENTS: Ms. Nina at Village Studios on Sun 2 Aug, Vancouver. 2 acts
 
 - BINKY
 - Brendocha
+- Ms Nina (ES)
+- abers
 
 *Source: [soundcheck](https://soundcheck.club/e/2469043-club-beb-presents-ms-nina-at-village-studios/)*

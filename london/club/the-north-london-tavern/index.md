@@ -1,6 +1,6 @@
 # The North London Tavern
 
-The North London Tavern is a music venue in London with 2 upcoming nights listed on soundcheck as of Mon, 20 Jul 2026; the next is "North Fest 10 Carnival Special" on Sun, 30 Aug 2026.
+The North London Tavern is a music venue in London with 2 upcoming nights listed on soundcheck as of Tue, 21 Jul 2026; the next is "North Fest 10 Carnival Special" on Sun, 30 Aug 2026.
 
 The North London Tavern is a music venue in London listed on soundcheck. 2 upcoming nights, with line-ups including Chloe K, Doc Martin, Ellie Cocks and Junior Richards and 2 more. Browse upcoming dates, start times and who's playing. 375 Kilburn High Road, London, NW6 7QB.
 
@@ -15,4 +15,4 @@ The North London Tavern is a music venue in London listed on soundcheck. 2 upcom
 
 375 Kilburn High Road, London, NW6 7QB, London
 
-*Updated Mon, 20 Jul 2026 · source: [soundcheck](https://soundcheck.club/london/club/the-north-london-tavern/)*
+*Updated Tue, 21 Jul 2026 · source: [soundcheck](https://soundcheck.club/london/club/the-north-london-tavern/)*

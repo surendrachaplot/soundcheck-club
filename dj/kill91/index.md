@@ -1,8 +1,8 @@
 # KILL 9 1
 
-KILL 9 1 is a Techno and Bass artist with 3 upcoming club dates listed on soundcheck as of Mon, 20 Jul 2026, next at Geary Avenue Warehouse Project, Toronto on Sat, 25 Jul 2026.
+KILL 9 1 is a Techno and Bass artist with 4 upcoming club dates listed on soundcheck as of Tue, 21 Jul 2026, next at Geary Avenue Warehouse Project, Toronto on Sat, 25 Jul 2026.
 
-KILL 9 1 is a techno and bass artist based in Canada, tracked on soundcheck, with 29 sets logged across Toronto. Often billed alongside R4TS, MVCHE and Mand0. Next up: Geary Avenue Warehouse Project, Toronto on Sat 25 Jul.
+KILL 9 1 is a techno and bass artist based in Canada, tracked on soundcheck, with 30 sets logged across Toronto. Often billed alongside R4TS, MVCHE and A_C_E.. Next up: Geary Avenue Warehouse Project, Toronto on Sat 25 Jul.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ KILL 9 1 is a techno and bass artist based in Canada, tracked on soundcheck, wit
 | --- | --- | --- |
 | Sat, 25 Jul 2026 | Geary Avenue Warehouse Project | Toronto |
 | Fri, 31 Jul 2026 | The Comfort Zone | Toronto |
+| Fri, 7 Aug 2026 | The Comfort Zone | Toronto |
 | Fri, 28 Aug 2026 | The Comfort Zone | Toronto |
 
 ## Recently played
@@ -25,6 +26,6 @@ KILL 9 1 is a techno and bass artist based in Canada, tracked on soundcheck, wit
 
 ## Shares bills with
 
-R4TS, MVCHE, Mand0
+R4TS, MVCHE, A_C_E.
 
-*Updated Mon, 20 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/kill91/)*
+*Updated Tue, 21 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/kill91/)*

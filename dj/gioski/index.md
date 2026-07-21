@@ -1,6 +1,6 @@
 # Gioski
 
-Gioski is a Techno and Acid artist with 3 upcoming club dates listed on soundcheck as of Mon, 20 Jul 2026, next at La Gravière, Geneva on Fri, 31 Jul 2026.
+Gioski is a Techno and Acid artist with 3 upcoming club dates listed on soundcheck as of Tue, 21 Jul 2026, next at La Gravière, Geneva on Fri, 31 Jul 2026.
 
 Gioski is a techno and acid artist tracked on soundcheck, with 57 sets logged across Basel, Berlin, Geneva and Zurich. Often billed alongside Pooja B, Alex Nantaya and Frankie Flowerz. Next up: La Gravière, Geneva on Fri 31 Jul.
 
@@ -27,4 +27,4 @@ Gioski is a techno and acid artist tracked on soundcheck, with 57 sets logged ac
 
 Pooja B, Alex Nantaya, Frankie Flowerz
 
-*Updated Mon, 20 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/gioski/)*
+*Updated Tue, 21 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/gioski/)*

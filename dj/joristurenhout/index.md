@@ -1,6 +1,6 @@
 # Joris Turenhout
 
-Joris Turenhout is a Techno and Tech House artist with 4 upcoming club dates listed on soundcheck as of Mon, 20 Jul 2026, next at Tanzhaus West, Frankfurt on Fri, 24 Jul 2026.
+Joris Turenhout is a Techno and Tech House artist with 4 upcoming club dates listed on soundcheck as of Tue, 21 Jul 2026, next at Tanzhaus West, Frankfurt on Fri, 24 Jul 2026.
 
 Joris Turenhout is a techno and tech house artist based in Netherlands, tracked on soundcheck, with 76 sets logged across Amsterdam, Antwerp, Athens and Berlin and 16 more. Often billed alongside Albin Brezlan, Azzurro and David Maters. Next up: Tanzhaus West, Frankfurt on Fri 24 Jul.
 
@@ -28,4 +28,4 @@ Joris Turenhout is a techno and tech house artist based in Netherlands, tracked 
 
 Albin Brezlan, Azzurro, David Maters
 
-*Updated Mon, 20 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/joristurenhout/)*
+*Updated Tue, 21 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/joristurenhout/)*

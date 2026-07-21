@@ -1,6 +1,6 @@
 # Special Guest DJ
 
-Special Guest DJ is a Techno and Ambient artist with 2 upcoming club dates listed on soundcheck as of Mon, 20 Jul 2026, next at Fort Mifflin, Philadelphia on Fri, 18 Sept 2026.
+Special Guest DJ is a Techno and Ambient artist with 2 upcoming club dates listed on soundcheck as of Tue, 21 Jul 2026, next at Fort Mifflin, Philadelphia on Fri, 18 Sept 2026.
 
 Special Guest DJ is a techno and ambient artist based in United States of America, tracked on soundcheck, with 68 sets logged across Amsterdam, Bali, Barcelona and Berlin and 19 more. Often billed alongside Ben Bondy, Ayesha and CCL. Next up: Fort Mifflin, Philadelphia on Fri 18 Sept.
 
@@ -26,4 +26,4 @@ Special Guest DJ is a techno and ambient artist based in United States of Americ
 
 Ben Bondy, Ayesha, CCL
 
-*Updated Mon, 20 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/specialguestdj/)*
+*Updated Tue, 21 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/specialguestdj/)*

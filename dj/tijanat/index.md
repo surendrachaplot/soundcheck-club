@@ -1,6 +1,6 @@
 # Tijana T
 
-Tijana T is a Techno and House artist with 5 upcoming club dates listed on soundcheck as of Mon, 20 Jul 2026, next at RSO.BERLIN, Berlin on Fri, 24 Jul 2026.
+Tijana T is a Techno and House artist with 5 upcoming club dates listed on soundcheck as of Tue, 21 Jul 2026, next at RSO.BERLIN, Berlin on Fri, 24 Jul 2026.
 
 Tijana T is a techno and house artist tracked on soundcheck, with 109 sets logged across Amsterdam, Antwerp, Bali and Bangkok and 35 more. Often billed alongside Marcel Dettmann, Sedef Adasï and Adiel. Next up: RSO.BERLIN, Berlin on Fri 24 Jul.
 
@@ -29,4 +29,4 @@ Tijana T is a techno and house artist tracked on soundcheck, with 109 sets logge
 
 Marcel Dettmann, Sedef Adasï, Adiel
 
-*Updated Mon, 20 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/tijanat/)*
+*Updated Tue, 21 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/tijanat/)*

@@ -1,6 +1,6 @@
 # Lakota
 
-Lakota is a music venue in Bristol with 13 upcoming nights listed on soundcheck as of Mon, 20 Jul 2026; the next is "Trendkill Audio presents" on Fri, 24 Jul 2026.
+Lakota is a music venue in Bristol with 13 upcoming nights listed on soundcheck as of Tue, 21 Jul 2026; the next is "Trendkill Audio presents" on Fri, 24 Jul 2026.
 
 Lakota is a music venue in Bristol listed on soundcheck. 13 upcoming nights, with line-ups including Akira (Buntai), Betsy Mae, camukg and Janaway and 2 more. Browse upcoming dates, start times and who's playing. 6 Upper York Street; Bristol, BS2 8QN, United Kingdom.
 
@@ -23,4 +23,4 @@ Lakota is a music venue in Bristol listed on soundcheck. 13 upcoming nights, wit
 
 6 Upper York Street; Bristol, BS2 8QN, United Kingdom, Bristol
 
-*Updated Mon, 20 Jul 2026 · source: [soundcheck](https://soundcheck.club/bristol/club/lakota/)*
+*Updated Tue, 21 Jul 2026 · source: [soundcheck](https://soundcheck.club/bristol/club/lakota/)*

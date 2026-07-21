@@ -1,6 +1,6 @@
 # Archive
 
-Archive is a music venue in Leeds with 1 upcoming night listed on soundcheck as of Mon, 20 Jul 2026; the next is "OSCURA presents Mariano Mellino, GMJ and Matter B2B" on Fri, 16 Oct 2026.
+Archive is a music venue in Leeds with 1 upcoming night listed on soundcheck as of Tue, 21 Jul 2026; the next is "OSCURA presents Mariano Mellino, GMJ and Matter B2B" on Fri, 16 Oct 2026.
 
 Archive is a music venue in Leeds listed on soundcheck. 1 upcoming night, with line-ups including Easby, Mariano Mellino and SOBAH. Browse upcoming dates, start times and who's playing. 94 Kirkstall Road, Leeds LS3 1HD.
 
@@ -14,4 +14,4 @@ Archive is a music venue in Leeds listed on soundcheck. 1 upcoming night, with l
 
 94 Kirkstall Road, Leeds LS3 1HD, Leeds
 
-*Updated Mon, 20 Jul 2026 · source: [soundcheck](https://soundcheck.club/leeds/club/archive/)*
+*Updated Tue, 21 Jul 2026 · source: [soundcheck](https://soundcheck.club/leeds/club/archive/)*

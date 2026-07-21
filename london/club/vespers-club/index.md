@@ -1,6 +1,6 @@
 # Vespers Club
 
-Vespers Club is a music venue in London with 12 upcoming nights listed on soundcheck as of Mon, 20 Jul 2026; the next is "Funky Adjacent 4th Birthday: Nadī, KTM, sonny makepeace" on Fri, 24 Jul 2026.
+Vespers Club is a music venue in London with 12 upcoming nights listed on soundcheck as of Tue, 21 Jul 2026; the next is "Funky Adjacent 4th Birthday: Nadī, KTM, sonny makepeace" on Fri, 24 Jul 2026.
 
 Vespers Club is a music venue in London listed on soundcheck. 12 upcoming nights, with line-ups including AAKAARA, Asphodèle, Bby Eco and Berwick (Live) and 2 more. Browse upcoming dates, start times and who's playing. 133A Rye Lane, London, SE15 4BQ, UK.
 
@@ -9,9 +9,9 @@ Vespers Club is a music venue in London listed on soundcheck. 12 upcoming nights
 | Date | Night | Line-up |
 | --- | --- | --- |
 | Fri, 24 Jul 2026 | Funky Adjacent 4th Birthday: Nadī, KTM, sonny makepeace | Calm Stiege, Latec0mer, Nadi, sonny makepeace |
-| Thu, 30 Jul 2026 | SoftTrend | Bby Eco, DuoduoIsShine, Space Candy, TUNA DISPLAY, YUNA阿尘 |
+| Thu, 30 Jul 2026 | Soft Trend | Bby Eco, DuoduoIsShine, Space Candy, TUNA DISPLAY, YUNA阿尘 |
 | Fri, 31 Jul 2026 | five in a bed at Vespers | Dexter Dooley, Redman |
-| Sat, 1 Aug 2026 | Vespers presents with Asphodèle, JUPiTA, Blue Ringed Baby & Kamī | Asphodèle, Blue Ringed Baby, JUPiTA |
+| Sat, 1 Aug 2026 | Vespers presents with Asphodèle, JUPiTA, Suki Quasimodo, Blue Ringed Baby & Kamī | Asphodèle, Blue Ringed Baby, JUPiTA, Suki Quasimodo |
 | Fri, 7 Aug 2026 | Fruit on the Dancefloor |  |
 | Sat, 8 Aug 2026 | PRIVATELIFE010 | Evanora Unlimited, Helen Sun, Madjestic Kasual |
 | Sun, 16 Aug 2026 | Industrial Dirt | Dhangsha, Kelan, Richard Fearless, Samson A.K, Wes Baggaley |
@@ -23,4 +23,4 @@ Vespers Club is a music venue in London listed on soundcheck. 12 upcoming nights
 
 133A Rye Lane, London, SE15 4BQ, UK, London
 
-*Updated Mon, 20 Jul 2026 · source: [soundcheck](https://soundcheck.club/london/club/vespers-club/)*
+*Updated Tue, 21 Jul 2026 · source: [soundcheck](https://soundcheck.club/london/club/vespers-club/)*

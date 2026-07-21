@@ -1,6 +1,6 @@
 # Nusha
 
-Nusha is a Techno and Tech House artist with 2 upcoming club dates listed on soundcheck as of Mon, 20 Jul 2026, next at Tanzhaus West, Frankfurt on Fri, 24 Jul 2026.
+Nusha is a Techno and Tech House artist with 2 upcoming club dates listed on soundcheck as of Tue, 21 Jul 2026, next at Tanzhaus West, Frankfurt on Fri, 24 Jul 2026.
 
 Nusha is a techno and tech house artist tracked on soundcheck, with 53 sets logged across Amsterdam, Athens, Barcelona and Berlin and 21 more. Often billed alongside Simina Grigoriu, Alfred Heinrichs and Anna Tur. Next up: Tanzhaus West, Frankfurt on Fri 24 Jul.
 
@@ -26,4 +26,4 @@ Nusha is a techno and tech house artist tracked on soundcheck, with 53 sets logg
 
 Simina Grigoriu, Alfred Heinrichs, Anna Tur
 
-*Updated Mon, 20 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/nusha/)*
+*Updated Tue, 21 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/nusha/)*

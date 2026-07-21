@@ -1,8 +1,8 @@
 # Steffi
 
-Steffi is a Techno and House artist with 8 upcoming club dates listed on soundcheck as of Mon, 20 Jul 2026, next at Boomtown (Kouter), Ghent on Thu, 23 Jul 2026.
+Steffi is a Techno and House artist with 9 upcoming club dates listed on soundcheck as of Tue, 21 Jul 2026, next at Boomtown (Kouter), Ghent on Thu, 23 Jul 2026.
 
-Steffi is a techno and house artist tracked on soundcheck, with 140 sets logged across Amsterdam, Athens, Barcelona and Belfast and 24 more. Often billed alongside Virginia, Blasha & Allatt and Tasha. Next up: Boomtown (Kouter), Ghent on Thu 23 Jul.
+Steffi is a techno and house artist tracked on soundcheck, with 141 sets logged across Amsterdam, Athens, Barcelona and Belfast and 25 more. Often billed alongside Virginia, Blasha & Allatt and Tasha. Next up: Boomtown (Kouter), Ghent on Thu 23 Jul.
 
 ## Upcoming shows
 
@@ -15,6 +15,7 @@ Steffi is a techno and house artist tracked on soundcheck, with 140 sets logged 
 | Sat, 1 Aug 2026 | Amsterdamse Bos | Amsterdam |
 | Sat, 1 Aug 2026 | RADION | Amsterdam |
 | Sat, 8 Aug 2026 | Berghain / Panorama Bar / Säule | Berlin |
+| Fri, 14 Aug 2026 | Hall | Tallinn |
 | Fri, 4 Sept 2026 | The Steel Yard | London |
 
 ## Recently played
@@ -32,4 +33,4 @@ Steffi is a techno and house artist tracked on soundcheck, with 140 sets logged 
 
 Virginia, Blasha & Allatt, Tasha
 
-*Updated Mon, 20 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/steffi/)*
+*Updated Tue, 21 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/steffi/)*

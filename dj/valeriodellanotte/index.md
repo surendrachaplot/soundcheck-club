@@ -1,6 +1,6 @@
 # Valerio Della Notte
 
-Valerio Della Notte is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Mon, 20 Jul 2026, next at TBA - Naples, Naples on Sat, 5 Sept 2026.
+Valerio Della Notte is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Tue, 21 Jul 2026, next at TBA - Naples, Naples on Sat, 5 Sept 2026.
 
 Valerio Della Notte is a techno and house artist based in Italy, tracked on soundcheck, with 36 sets logged across Barcelona, Milan, Naples and Paris and 2 more. Often billed alongside ANDREA SALVAGGIO, Pabie and Uabos. Next up: TBA - Naples, Naples on Sat 5 Sept.
 
@@ -26,4 +26,4 @@ Valerio Della Notte is a techno and house artist based in Italy, tracked on soun
 
 ANDREA SALVAGGIO, Pabie, Uabos
 
-*Updated Mon, 20 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/valeriodellanotte/)*
+*Updated Tue, 21 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/valeriodellanotte/)*

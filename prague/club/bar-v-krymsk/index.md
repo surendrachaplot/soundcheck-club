@@ -1,6 +1,6 @@
 # Bar v Krymský
 
-Bar v Krymský is a music venue in Prague with 5 upcoming nights listed on soundcheck as of Mon, 20 Jul 2026; the next is "Lillou's Naughty B–day Bash" on Fri, 24 Jul 2026.
+Bar v Krymský is a music venue in Prague with 5 upcoming nights listed on soundcheck as of Tue, 21 Jul 2026; the next is "Lillou's Naughty B–day Bash" on Fri, 24 Jul 2026.
 
 Bar v Krymský is a music venue in Prague listed on soundcheck. 5 upcoming nights, with line-ups including Daniel Neighbour, Lillou, Nicco Lupen and Raphael Kosmos and 1 more. Browse upcoming dates, start times and who's playing. Krymská 21, Praha.
 
@@ -18,4 +18,4 @@ Bar v Krymský is a music venue in Prague listed on soundcheck. 5 upcoming night
 
 Krymská 21, Praha, Prague
 
-*Updated Mon, 20 Jul 2026 · source: [soundcheck](https://soundcheck.club/prague/club/bar-v-krymsk/)*
+*Updated Tue, 21 Jul 2026 · source: [soundcheck](https://soundcheck.club/prague/club/bar-v-krymsk/)*

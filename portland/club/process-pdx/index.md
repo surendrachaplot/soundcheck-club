@@ -1,6 +1,6 @@
 # Process PDX
 
-Process PDX is a music venue in Portland with 5 upcoming nights listed on soundcheck as of Mon, 20 Jul 2026; the next is "Triple Threat - A Queer & Trans Strip Night" on Wed, 29 Jul 2026.
+Process PDX is a music venue in Portland with 5 upcoming nights listed on soundcheck as of Tue, 21 Jul 2026; the next is "Triple Threat - A Queer & Trans Strip Night" on Wed, 29 Jul 2026.
 
 Process PDX is a music venue in Portland listed on soundcheck. 5 upcoming nights, with line-ups including Alec Fursman, Claudia LB, C Powers and N SO and 2 more. Browse upcoming dates, start times and who's playing. 5040 SE Milwaukie Ave. Portland, OR, 97202.
 
@@ -18,4 +18,4 @@ Process PDX is a music venue in Portland listed on soundcheck. 5 upcoming nights
 
 5040 SE Milwaukie Ave. Portland, OR, 97202, Portland
 
-*Updated Mon, 20 Jul 2026 · source: [soundcheck](https://soundcheck.club/portland/club/process-pdx/)*
+*Updated Tue, 21 Jul 2026 · source: [soundcheck](https://soundcheck.club/portland/club/process-pdx/)*

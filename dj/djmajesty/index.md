@@ -1,8 +1,8 @@
 # DJ Majesty
 
-DJ Majesty is a Tech House and Afro House artist with 3 upcoming club dates listed on soundcheck as of Mon, 20 Jul 2026, next at E1, London on Sat, 25 Jul 2026.
+DJ Majesty is a Tech House and Afro House artist with 4 upcoming club dates listed on soundcheck as of Tue, 21 Jul 2026, next at E1, London on Sat, 25 Jul 2026.
 
-DJ Majesty is a tech house and afro house artist tracked on soundcheck, with 74 sets logged across London. Often billed alongside JAYDAA, Jerome Six and Steven Cee. Next up: E1, London on Sat 25 Jul.
+DJ Majesty is a tech house and afro house artist tracked on soundcheck, with 75 sets logged across London. Often billed alongside JAYDAA, Jerome Six and Steven Cee. Next up: E1, London on Sat 25 Jul.
 
 ## Upcoming shows
 
@@ -11,6 +11,7 @@ DJ Majesty is a tech house and afro house artist tracked on soundcheck, with 74 
 | Sat, 25 Jul 2026 | E1 | London |
 | Sat, 15 Aug 2026 | Ministry Of Sound | London |
 | Sat, 22 Aug 2026 | XOYO | London |
+| Sat, 12 Sept 2026 | XOYO | London |
 
 ## Recently played
 
@@ -27,4 +28,4 @@ DJ Majesty is a tech house and afro house artist tracked on soundcheck, with 74 
 
 JAYDAA, Jerome Six, Steven Cee
 
-*Updated Mon, 20 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/djmajesty/)*
+*Updated Tue, 21 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/djmajesty/)*

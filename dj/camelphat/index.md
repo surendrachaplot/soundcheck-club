@@ -1,6 +1,6 @@
 # CamelPhat
 
-CamelPhat is a Techno and House artist with 19 upcoming club dates listed on soundcheck as of Mon, 20 Jul 2026, next at Bolivar Beach Bar, Athens on Sat, 25 Jul 2026.
+CamelPhat is a Techno and House artist with 19 upcoming club dates listed on soundcheck as of Tue, 21 Jul 2026, next at Bolivar Beach Bar, Athens on Sat, 25 Jul 2026.
 
 CamelPhat is a techno and house artist tracked on soundcheck, with 200 sets logged across Amsterdam, Athens, Austin and Bali and 37 more. Often billed alongside Layla Benitez, Massano and Hot Since 82. Next up: Bolivar Beach Bar, Athens on Sat 25 Jul.
 
@@ -36,4 +36,4 @@ CamelPhat is a techno and house artist tracked on soundcheck, with 200 sets logg
 
 Layla Benitez, Massano, Hot Since 82
 
-*Updated Mon, 20 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/camelphat/)*
+*Updated Tue, 21 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/camelphat/)*

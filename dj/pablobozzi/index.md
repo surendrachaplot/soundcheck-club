@@ -1,6 +1,6 @@
 # Pablo Bozzi
 
-Pablo Bozzi is a Techno and House artist with 5 upcoming club dates listed on soundcheck as of Mon, 20 Jul 2026, next at TILLATEC, Amsterdam on Sun, 2 Aug 2026.
+Pablo Bozzi is a Techno and House artist with 5 upcoming club dates listed on soundcheck as of Tue, 21 Jul 2026, next at TILLATEC, Amsterdam on Sun, 2 Aug 2026.
 
 Pablo Bozzi is a techno and house artist tracked on soundcheck, with 203 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 51 more. Often billed alongside Phase Fatale, Jen Cardini and Soft Crash. Next up: TILLATEC, Amsterdam on Sun 2 Aug.
 
@@ -29,4 +29,4 @@ Pablo Bozzi is a techno and house artist tracked on soundcheck, with 203 sets lo
 
 Phase Fatale, Jen Cardini, Soft Crash
 
-*Updated Mon, 20 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/pablobozzi/)*
+*Updated Tue, 21 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/pablobozzi/)*

@@ -1,6 +1,6 @@
 # Salzbauer
 
-Salzbauer is a Trance and Techno artist with 2 upcoming club dates listed on soundcheck as of Mon, 20 Jul 2026, next at Wilhelm-Külz Park, Leipzig on Sat, 1 Aug 2026.
+Salzbauer is a Trance and Techno artist with 2 upcoming club dates listed on soundcheck as of Tue, 21 Jul 2026, next at Wilhelm-Külz Park, Leipzig on Sat, 1 Aug 2026.
 
 Salzbauer is a trance and techno artist based in Germany, tracked on soundcheck, with 44 sets logged across Antwerp, Berlin, Cologne and Hamburg and 5 more. Often billed alongside SOHOE, Stinny Stone and futurristic. Next up: Wilhelm-Külz Park, Leipzig on Sat 1 Aug.
 
@@ -26,4 +26,4 @@ Salzbauer is a trance and techno artist based in Germany, tracked on soundcheck,
 
 SOHOE, Stinny Stone, futurristic
 
-*Updated Mon, 20 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/salzbauer/)*
+*Updated Tue, 21 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/salzbauer/)*

@@ -1,6 +1,6 @@
 # Supermarket
 
-Supermarket is a music venue in Zurich with 8 upcoming nights listed on soundcheck as of Mon, 20 Jul 2026; the next is "Eifach Schön" on Fri, 24 Jul 2026.
+Supermarket is a music venue in Zurich with 8 upcoming nights listed on soundcheck as of Tue, 21 Jul 2026; the next is "Eifach Schön" on Fri, 24 Jul 2026.
 
 Supermarket is a music venue in Zurich listed on soundcheck. 8 upcoming nights, with line-ups including CEZAR, Aline (CH), And Hazel and Arapu and 2 more. Browse upcoming dates, start times and who's playing. Geroldstrasse 17; 8005, Zürich; Switzerland.
 
@@ -21,4 +21,4 @@ Supermarket is a music venue in Zurich listed on soundcheck. 8 upcoming nights, 
 
 Geroldstrasse 17; 8005, Zürich; Switzerland, Zurich
 
-*Updated Mon, 20 Jul 2026 · source: [soundcheck](https://soundcheck.club/zurich/club/supermarket/)*
+*Updated Tue, 21 Jul 2026 · source: [soundcheck](https://soundcheck.club/zurich/club/supermarket/)*

@@ -1,6 +1,6 @@
 # Mina Mills
 
-Mina Mills is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Mon, 20 Jul 2026, next at Tamarack, San Francisco/Oakland on Fri, 24 Jul 2026.
+Mina Mills is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Tue, 21 Jul 2026, next at Tamarack, San Francisco/Oakland on Fri, 24 Jul 2026.
 
 Mina Mills is a techno and house artist based in United States of America, tracked on soundcheck, with 59 sets logged across Chicago, Detroit, Losangeles and Newyorkcity and 2 more. Often billed alongside easygoingtech, D. Strange and Drumset. Next up: Tamarack, Sanfrancisco on Fri 24 Jul.
 
@@ -26,4 +26,4 @@ Mina Mills is a techno and house artist based in United States of America, track
 
 easygoingtech, D. Strange, Drumset
 
-*Updated Mon, 20 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/minamills/)*
+*Updated Tue, 21 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/minamills/)*

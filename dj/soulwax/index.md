@@ -1,6 +1,6 @@
 # Soulwax
 
-Soulwax is a Electro and House artist with 2 upcoming club dates listed on soundcheck as of Mon, 20 Jul 2026, next at Fonda Theatre, Los Angeles on Thu, 17 Sept 2026.
+Soulwax is a Electro and House artist with 2 upcoming club dates listed on soundcheck as of Tue, 21 Jul 2026, next at Fonda Theatre, Los Angeles on Thu, 17 Sept 2026.
 
 Soulwax is an electro and house artist tracked on soundcheck, with 27 sets logged across Amsterdam, Barcelona, Berlin and Brussels and 11 more. Often billed alongside 2ManyDJs, Azzecca and 999999999. Next up: Fonda Theatre, Losangeles on Thu 17 Sept.
 
@@ -26,4 +26,4 @@ Soulwax is an electro and house artist tracked on soundcheck, with 27 sets logge
 
 2ManyDJs, Azzecca, 999999999
 
-*Updated Mon, 20 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/soulwax/)*
+*Updated Tue, 21 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/soulwax/)*

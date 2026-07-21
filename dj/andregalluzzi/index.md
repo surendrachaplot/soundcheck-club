@@ -1,6 +1,6 @@
 # André Galluzzi
 
-André Galluzzi is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Mon, 20 Jul 2026, next at ://about blank, Berlin on Sat, 1 Aug 2026.
+André Galluzzi is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Tue, 21 Jul 2026, next at ://about blank, Berlin on Sat, 1 Aug 2026.
 
 André Galluzzi is a house and techno artist tracked on soundcheck, with 69 sets logged across Barcelona, Berlin, Cologne and Copenhagen and 8 more. Often billed alongside Sven Vath, Maurizio Schmitz and Dana Ruh. Next up: ://about blank, Berlin on Sat 1 Aug.
 
@@ -27,4 +27,4 @@ André Galluzzi is a house and techno artist tracked on soundcheck, with 69 sets
 
 Sven Vath, Maurizio Schmitz, Dana Ruh
 
-*Updated Mon, 20 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/andregalluzzi/)*
+*Updated Tue, 21 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/andregalluzzi/)*

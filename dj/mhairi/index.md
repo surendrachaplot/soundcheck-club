@@ -1,6 +1,6 @@
 # Mha iri
 
-Mha iri is a Techno and Tech House artist with 3 upcoming club dates listed on soundcheck as of Mon, 20 Jul 2026, next at Fridas Pier, Stuttgart on Sat, 1 Aug 2026.
+Mha iri is a Techno and Tech House artist with 3 upcoming club dates listed on soundcheck as of Tue, 21 Jul 2026, next at Fridas Pier, Stuttgart on Sat, 1 Aug 2026.
 
 Mha iri is a techno and tech house artist tracked on soundcheck, with 99 sets logged across Amsterdam, Athens, Barcelona and Berlin and 33 more. Often billed alongside Eli Brown, Lilly Palmer and Adam Beyer. Next up: Fridas Pier, Stuttgart on Sat 1 Aug.
 
@@ -27,4 +27,4 @@ Mha iri is a techno and tech house artist tracked on soundcheck, with 99 sets lo
 
 Eli Brown, Lilly Palmer, Adam Beyer
 
-*Updated Mon, 20 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/mhairi/)*
+*Updated Tue, 21 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/mhairi/)*

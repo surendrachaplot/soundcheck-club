@@ -1,6 +1,6 @@
 # Artful Dodger
 
-Artful Dodger is a Garage and Club artist with 2 upcoming club dates listed on soundcheck as of Mon, 20 Jul 2026, next at Studio 338, London on Sat, 22 Aug 2026.
+Artful Dodger is a Garage and Club artist with 2 upcoming club dates listed on soundcheck as of Tue, 21 Jul 2026, next at Studio 338, London on Sat, 22 Aug 2026.
 
 Artful Dodger is a garage and club artist based in United Kingdom, tracked on soundcheck, with 36 sets logged across Birmingham, Brighton, Brisbane and Bristol and 4 more. Often billed alongside DJ Luck & MC Neat, Lisa Maffia and MC Kie. Next up: Studio 338, London on Sat 22 Aug.
 
@@ -26,4 +26,4 @@ Artful Dodger is a garage and club artist based in United Kingdom, tracked on so
 
 DJ Luck & MC Neat, Lisa Maffia, MC Kie
 
-*Updated Mon, 20 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/artfuldodger/)*
+*Updated Tue, 21 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/artfuldodger/)*

@@ -1,6 +1,6 @@
-# Gloria Slip Extended with Grace Open Air · Sansibar ~ Caim ~ Taylor Shockley ~ Bambi ~ GTI at Macadam
+# Gloria Slip Extended with Grace Open Air · Sansibar ~ Caim ~ Taylor Shockley ~ GTI ~ Aasana at Macadam
 
-Gloria Slip Extended with Grace Open Air · Sansibar ~ Caim ~ Taylor Shockley ~ Bambi ~ GTI at Macadam on Sun 26 Jul, Nantes. 6 acts on the bill: Bambi (FR), Caim, GTI and Princ3kx and 2 more. Techno and House. Preview the line-up and save it on soundcheck.
+Gloria Slip Extended with Grace Open Air · Sansibar ~ Caim ~ Taylor Shockley ~ GTI ~ Aasana at Macadam on Sun 26 Jul, Nantes. 6 acts on the bill: Bambi (FR), Caim, GTI and Princ3kx and 2 more. Techno and House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

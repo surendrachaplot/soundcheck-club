@@ -1,6 +1,6 @@
 # Spilve Airport
 
-Spilve Airport is a music venue in Riga with 1 upcoming night listed on soundcheck as of Mon, 20 Jul 2026; the next is "SPILVE RAVE" on Fri, 2 Oct 2026.
+Spilve Airport is a music venue in Riga with 1 upcoming night listed on soundcheck as of Tue, 21 Jul 2026; the next is "SPILVE RAVE" on Fri, 2 Oct 2026.
 
 Spilve Airport is a music venue in Riga listed on soundcheck. 1 upcoming night. Browse upcoming dates, start times and who's playing. Daugavgrīvas iela 140, Kurzemes rajons, Rīga, LV-1007, Latvia.
 
@@ -14,4 +14,4 @@ Spilve Airport is a music venue in Riga listed on soundcheck. 1 upcoming night. 
 
 Daugavgrīvas iela 140, Kurzemes rajons, Rīga, LV-1007, Latvia, Riga
 
-*Updated Mon, 20 Jul 2026 · source: [soundcheck](https://soundcheck.club/riga/club/spilve-airport/)*
+*Updated Tue, 21 Jul 2026 · source: [soundcheck](https://soundcheck.club/riga/club/spilve-airport/)*

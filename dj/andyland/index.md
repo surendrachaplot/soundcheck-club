@@ -1,13 +1,14 @@
 # ANDYLAND
 
-ANDYLAND is a Techno and Club artist with 4 upcoming club dates listed on soundcheck as of Mon, 20 Jul 2026, next at The Stud, San Francisco/Oakland on Thu, 30 Jul 2026.
+ANDYLAND is a Techno and Club artist with 5 upcoming club dates listed on soundcheck as of Tue, 21 Jul 2026, next at The San Francisco Mint, San Francisco/Oakland on Sun, 26 Jul 2026.
 
-ANDYLAND is a techno and club artist based in United States of America, tracked on soundcheck, with 7 sets logged across Sanfrancisco. Often billed alongside MALICIEL, QUEENIE (US) and arktoi. Next up: The Stud, Sanfrancisco on Thu 30 Jul.
+ANDYLAND is a techno and club artist based in United States of America, tracked on soundcheck, with 8 sets logged across Sanfrancisco. Often billed alongside MALICIEL, felipe d and QUEENIE (US). Next up: The San Francisco Mint, Sanfrancisco on Sun 26 Jul.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sun, 26 Jul 2026 | The San Francisco Mint | San Francisco/Oakland |
 | Thu, 30 Jul 2026 | The Stud | San Francisco/Oakland |
 | Fri, 7 Aug 2026 | The Great Northern | San Francisco/Oakland |
 | Sat, 15 Aug 2026 | The Great Northern | San Francisco/Oakland |
@@ -21,6 +22,6 @@ ANDYLAND is a techno and club artist based in United States of America, tracked 
 
 ## Shares bills with
 
-MALICIEL, QUEENIE (US), arktoi
+MALICIEL, felipe d, QUEENIE (US)
 
-*Updated Mon, 20 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/andyland/)*
+*Updated Tue, 21 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/andyland/)*

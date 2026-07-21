@@ -1,6 +1,6 @@
 # Pawlowski
 
-Pawlowski is a Techno and Trance artist with 5 upcoming club dates listed on soundcheck as of Mon, 20 Jul 2026, next at UNO MALTA, Malta on Sat, 8 Aug 2026.
+Pawlowski is a Techno and Trance artist with 5 upcoming club dates listed on soundcheck as of Tue, 21 Jul 2026, next at UNO MALTA, Malta on Sat, 8 Aug 2026.
 
 Pawlowski is a techno and trance artist tracked on soundcheck, with 112 sets logged across Amsterdam, Antwerp, Barcelona and Belfast and 45 more. Often billed alongside Nico Moreno, Azyr and DYEN. Next up: UNO MALTA, Malta on Sat 8 Aug.
 
@@ -29,4 +29,4 @@ Pawlowski is a techno and trance artist tracked on soundcheck, with 112 sets log
 
 Nico Moreno, Azyr, DYEN
 
-*Updated Mon, 20 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/pawlowski/)*
+*Updated Tue, 21 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/pawlowski/)*

@@ -1,6 +1,6 @@
 # Natasha Diggs
 
-Natasha Diggs is a House and Funk / Soul artist with 8 upcoming club dates listed on soundcheck as of Mon, 20 Jul 2026, next at Amnesia Ibiza, Ibiza on Fri, 24 Jul 2026.
+Natasha Diggs is a House and Funk / Soul artist with 8 upcoming club dates listed on soundcheck as of Tue, 21 Jul 2026, next at Amnesia Ibiza, Ibiza on Fri, 24 Jul 2026.
 
 Natasha Diggs is a house and funk / soul artist tracked on soundcheck, with 115 sets logged across Amsterdam, Auckland, Bali and Barcelona and 20 more. Often billed alongside Melvo Baptiste, The Shapeshifters and L3Ni. Next up: Amnesia Ibiza, Ibiza on Fri 24 Jul.
 
@@ -32,4 +32,4 @@ Natasha Diggs is a house and funk / soul artist tracked on soundcheck, with 115 
 
 Melvo Baptiste, The Shapeshifters, L3Ni
 
-*Updated Mon, 20 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/natashadiggs/)*
+*Updated Tue, 21 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/natashadiggs/)*

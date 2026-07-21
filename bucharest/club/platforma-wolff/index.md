@@ -1,13 +1,14 @@
 # Platforma Wolff
 
-Platforma Wolff is a music venue in Bucharest with 8 upcoming nights listed on soundcheck as of Mon, 20 Jul 2026; the next is "PW • Misbits x Omana • Cassy, LAMALICE, oddist" on Fri, 24 Jul 2026.
+Platforma Wolff is a music venue in Bucharest with 9 upcoming nights listed on soundcheck as of Tue, 21 Jul 2026; the next is "PW x Intuit FM • Plevna (live), Dragoș Ilici" on Thu, 23 Jul 2026.
 
-Platforma Wolff is a music venue in Bucharest listed on soundcheck. 8 upcoming nights, with line-ups including CEZAR, Ancut, Avram and BILA and 2 more. Browse upcoming dates, start times and who's playing. 1, Doctor Constantin Istrati Street, Sector 4, 040542, Bucharest.
+Platforma Wolff is a music venue in Bucharest listed on soundcheck. 9 upcoming nights, with line-ups including CEZAR, Ancut, Avram and BILA and 2 more. Browse upcoming dates, start times and who's playing. 1, Doctor Constantin Istrati Street, Sector 4, 040542, Bucharest.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
+| Thu, 23 Jul 2026 | PW x Intuit FM • Plevna (live), Dragoș Ilici | Dragos Ilici |
 | Fri, 24 Jul 2026 | PW • Misbits x Omana • Cassy, LAMALICE, oddist | Cassy, LAMALICE, oddist |
 | Sat, 25 Jul 2026 | PW x OFF THE GRID • Mr. Ho, Onirik, Obre | Mr. Ho, Obre, Onirik |
 | Fri, 31 Jul 2026 | PW • Danilo Plessow (MCDE), Romansoff | Danilo Plessow, Romansoff |
@@ -21,4 +22,4 @@ Platforma Wolff is a music venue in Bucharest listed on soundcheck. 8 upcoming n
 
 1, Doctor Constantin Istrati Street, Sector 4, 040542, Bucharest, Bucharest
 
-*Updated Mon, 20 Jul 2026 · source: [soundcheck](https://soundcheck.club/bucharest/club/platforma-wolff/)*
+*Updated Tue, 21 Jul 2026 · source: [soundcheck](https://soundcheck.club/bucharest/club/platforma-wolff/)*

@@ -1,6 +1,6 @@
 # CHB - Collegium Hungaricum Berlin
 
-CHB - Collegium Hungaricum Berlin is a music venue in Berlin with 1 upcoming night listed on soundcheck as of Mon, 20 Jul 2026; the next is "Kiezsalon with Dal:um, Mariam Gviniashvili and Juli Deák" on Wed, 30 Sept 2026.
+CHB - Collegium Hungaricum Berlin is a music venue in Berlin with 1 upcoming night listed on soundcheck as of Tue, 21 Jul 2026; the next is "Kiezsalon with Dal:um, Mariam Gviniashvili and Juli Deák" on Wed, 30 Sept 2026.
 
 CHB - Collegium Hungaricum Berlin is a music venue in Berlin listed on soundcheck. 1 upcoming night. Browse upcoming dates, start times and who's playing. Dorotheenstraße 12, 10117 Berlin.
 
@@ -14,4 +14,4 @@ CHB - Collegium Hungaricum Berlin is a music venue in Berlin listed on soundchec
 
 Dorotheenstraße 12, 10117 Berlin, Berlin
 
-*Updated Mon, 20 Jul 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/chb-collegium-hungaricum-berlin/)*
+*Updated Tue, 21 Jul 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/chb-collegium-hungaricum-berlin/)*

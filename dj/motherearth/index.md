@@ -1,6 +1,6 @@
 # Mother Earth
 
-Mother Earth is a House and Tech House artist with 4 upcoming club dates listed on soundcheck as of Mon, 20 Jul 2026, next at Distrikt, Leeds on Fri, 14 Aug 2026.
+Mother Earth is a House and Tech House artist with 4 upcoming club dates listed on soundcheck as of Tue, 21 Jul 2026, next at Distrikt, Leeds on Fri, 14 Aug 2026.
 
 Mother Earth is a house and tech house artist based in United Kingdom, tracked on soundcheck, with 53 sets logged across Amsterdam, Berlin, Bristol and Frankfurt and 9 more. Often billed alongside Dr Banana, Laidlaw and B.Love. Next up: Distrikt, Leeds on Fri 14 Aug.
 
@@ -28,4 +28,4 @@ Mother Earth is a house and tech house artist based in United Kingdom, tracked o
 
 Dr Banana, Laidlaw, B.Love
 
-*Updated Mon, 20 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/motherearth/)*
+*Updated Tue, 21 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/motherearth/)*

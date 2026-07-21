@@ -1,6 +1,6 @@
 # Fabiola
 
-Fabiola is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Mon, 20 Jul 2026, next at Good Room, New York City on Sat, 1 Aug 2026.
+Fabiola is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Tue, 21 Jul 2026, next at Good Room, New York City on Sat, 1 Aug 2026.
 
 Fabiola is a techno and house artist tracked on soundcheck, with 65 sets logged across Berlin, Buenosaires, Chicago and Detroit and 4 more. Often billed alongside Alexx in Chainss, Carozilla and Tammy Lakkis. Next up: Good Room, Newyorkcity on Sat 1 Aug.
 
@@ -26,4 +26,4 @@ Fabiola is a techno and house artist tracked on soundcheck, with 65 sets logged 
 
 Alexx in Chainss, Carozilla, Tammy Lakkis
 
-*Updated Mon, 20 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/fabiola/)*
+*Updated Tue, 21 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/fabiola/)*

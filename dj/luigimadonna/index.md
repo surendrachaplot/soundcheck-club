@@ -1,6 +1,6 @@
 # Luigi Madonna
 
-Luigi Madonna is a Techno and House artist with 4 upcoming club dates listed on soundcheck as of Mon, 20 Jul 2026, next at TBA - RSVP, Rotterdam on Sat, 25 Jul 2026.
+Luigi Madonna is a Techno and House artist with 4 upcoming club dates listed on soundcheck as of Tue, 21 Jul 2026, next at TBA - RSVP, Rotterdam on Sat, 25 Jul 2026.
 
 Luigi Madonna is a techno and house artist tracked on soundcheck, with 56 sets logged across Amsterdam, Athens, Austin and Barcelona and 23 more. Often billed alongside Indira Paganotto, Markantonio and Joseph Capriati. Next up: TBA - RSVP, Rotterdam on Sat 25 Jul.
 
@@ -28,4 +28,4 @@ Luigi Madonna is a techno and house artist tracked on soundcheck, with 56 sets l
 
 Indira Paganotto, Markantonio, Joseph Capriati
 
-*Updated Mon, 20 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/luigimadonna/)*
+*Updated Tue, 21 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/luigimadonna/)*

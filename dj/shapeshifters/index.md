@@ -1,6 +1,6 @@
 # The Shapeshifters
 
-The Shapeshifters is a House and Disco artist with 5 upcoming club dates listed on soundcheck as of Mon, 20 Jul 2026, next at Amnesia Ibiza, Ibiza on Fri, 24 Jul 2026.
+The Shapeshifters is a House and Disco artist with 5 upcoming club dates listed on soundcheck as of Tue, 21 Jul 2026, next at Amnesia Ibiza, Ibiza on Fri, 24 Jul 2026.
 
 The Shapeshifters is a house and disco artist tracked on soundcheck, with 119 sets logged across Amsterdam, Barcelona, Birmingham and Brighton and 30 more. Often billed alongside Melvo Baptiste, Natasha Diggs and Aline Rocha. Next up: Amnesia Ibiza, Ibiza on Fri 24 Jul.
 
@@ -29,4 +29,4 @@ The Shapeshifters is a house and disco artist tracked on soundcheck, with 119 se
 
 Melvo Baptiste, Natasha Diggs, Aline Rocha
 
-*Updated Mon, 20 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/shapeshifters/)*
+*Updated Tue, 21 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/shapeshifters/)*

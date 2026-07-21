@@ -1,6 +1,6 @@
 # Momem - Museum of Modern Electronic Music
 
-Momem - Museum of Modern Electronic Music is a music venue in Frankfurt with 1 upcoming night listed on soundcheck as of Mon, 20 Jul 2026; the next is "RAWAX 15 YEARS at Museum of Modern Electronic Music (Part 1)" on Sat, 26 Sept 2026.
+Momem - Museum of Modern Electronic Music is a music venue in Frankfurt with 1 upcoming night listed on soundcheck as of Tue, 21 Jul 2026; the next is "RAWAX 15 YEARS at Museum of Modern Electronic Music (Part 1)" on Sat, 26 Sept 2026.
 
 Momem - Museum of Modern Electronic Music is a music venue in Frankfurt listed on soundcheck. 1 upcoming night, with line-ups including Funk D'Void, Matt Star, Move D and Robert Drewek. Browse upcoming dates, start times and who's playing. An der Hauptwache 15, 60313 Frankfurt am Main.
 
@@ -14,4 +14,4 @@ Momem - Museum of Modern Electronic Music is a music venue in Frankfurt listed o
 
 An der Hauptwache 15, 60313 Frankfurt am Main, Frankfurt
 
-*Updated Mon, 20 Jul 2026 · source: [soundcheck](https://soundcheck.club/frankfurt/club/momem-museum-of-modern-electronic-music/)*
+*Updated Tue, 21 Jul 2026 · source: [soundcheck](https://soundcheck.club/frankfurt/club/momem-museum-of-modern-electronic-music/)*

@@ -1,6 +1,6 @@
 # salute
 
-salute is a House and Garage artist with 5 upcoming club dates listed on soundcheck as of Mon, 20 Jul 2026, next at The Concourse Project, Austin on Fri, 31 Jul 2026.
+salute is a House and Garage artist with 5 upcoming club dates listed on soundcheck as of Tue, 21 Jul 2026, next at The Concourse Project, Austin on Fri, 31 Jul 2026.
 
 salute is a house and garage artist tracked on soundcheck, with 177 sets logged across Amsterdam, Antwerp, Auckland and Austin and 54 more. Often billed alongside DJ BORING, Eliza Rose and HAAi. Next up: The Concourse Project, Austin on Fri 31 Jul.
 
@@ -29,4 +29,4 @@ salute is a house and garage artist tracked on soundcheck, with 177 sets logged 
 
 DJ BORING, Eliza Rose, HAAi
 
-*Updated Mon, 20 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/salute/)*
+*Updated Tue, 21 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/salute/)*

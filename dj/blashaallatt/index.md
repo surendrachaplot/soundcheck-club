@@ -1,8 +1,8 @@
 # Blasha & Allatt
 
-Blasha & Allatt is a Techno and House artist with 14 upcoming club dates listed on soundcheck as of Mon, 20 Jul 2026, next at The Yard, Manchester on Sat, 25 Jul 2026.
+Blasha & Allatt is a Techno and House artist with 15 upcoming club dates listed on soundcheck as of Tue, 21 Jul 2026, next at The Yard, Manchester on Sat, 25 Jul 2026.
 
-Blasha & Allatt are a techno and house duo tracked on soundcheck, with 268 sets logged across Amsterdam, Athens, Barcelona and Basel and 50 more. Often billed alongside aalice, Steffi and Freddy K. Next up: The Yard, Manchester on Sat 25 Jul.
+Blasha & Allatt are a techno and house duo tracked on soundcheck, with 269 sets logged across Amsterdam, Athens, Barcelona and Basel and 51 more. Often billed alongside aalice, Steffi and Freddy K. Next up: The Yard, Manchester on Sat 25 Jul.
 
 ## Upcoming shows
 
@@ -14,12 +14,12 @@ Blasha & Allatt are a techno and house duo tracked on soundcheck, with 268 sets 
 | Fri, 31 Jul 2026 | Amsterdamse Bos | Amsterdam |
 | Fri, 31 Jul 2026 | RADION | Amsterdam |
 | Thu, 6 Aug 2026 | Klangtherapie | Nürnberg |
+| Fri, 14 Aug 2026 | Hall | Tallinn |
 | Sat, 22 Aug 2026 | Phoxxi Green Area | Hamburg |
 | Sat, 29 Aug 2026 | Macadam | Nantes |
 | Sun, 30 Aug 2026 | Southwark Park | London |
 | Fri, 11 Sept 2026 | TBA | Brussels |
 | Fri, 11 Sept 2026 | CLUB RAUM | Amsterdam |
-| Sat, 19 Sept 2026 | WaV | Liverpool |
 
 ## Recently played
 
@@ -36,4 +36,4 @@ Blasha & Allatt are a techno and house duo tracked on soundcheck, with 268 sets 
 
 aalice, Steffi, Freddy K
 
-*Updated Mon, 20 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/blashaallatt/)*
+*Updated Tue, 21 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/blashaallatt/)*

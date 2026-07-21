@@ -1,6 +1,6 @@
 # TBA - Neue Messe 
 
-TBA - Neue Messe  is a music venue in Leipzig with 1 upcoming night listed on soundcheck as of Mon, 20 Jul 2026; the next is "Soft Violence" on Sat, 25 Jul 2026.
+TBA - Neue Messe  is a music venue in Leipzig with 1 upcoming night listed on soundcheck as of Tue, 21 Jul 2026; the next is "Soft Violence" on Sat, 25 Jul 2026.
 
 TBA - Neue Messe  is a music venue in Leipzig listed on soundcheck. 1 upcoming night, with line-ups including DJ.PRO.PHET, JUNiQUE, Mariposa x Lyra and Richie Rollin and 1 more. Browse upcoming dates, start times and who's playing.
 
@@ -10,4 +10,4 @@ TBA - Neue Messe  is a music venue in Leipzig listed on soundcheck. 1 upcoming n
 | --- | --- | --- |
 | Sat, 25 Jul 2026 | Soft Violence | DJ.PRO.PHET, JUNiQUE, Mariposa x Lyra, Richie Rollin, Tomko |
 
-*Updated Mon, 20 Jul 2026 · source: [soundcheck](https://soundcheck.club/leipzig/club/tba-neue-messe/)*
+*Updated Tue, 21 Jul 2026 · source: [soundcheck](https://soundcheck.club/leipzig/club/tba-neue-messe/)*

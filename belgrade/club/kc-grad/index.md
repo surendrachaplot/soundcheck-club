@@ -1,6 +1,6 @@
 # KC Grad
 
-KC Grad is a music venue in Belgrade with 1 upcoming night listed on soundcheck as of Mon, 20 Jul 2026; the next is "Sina Bathaie White Lotus World Tour - Live in Belgrade" on Thu, 23 Jul 2026.
+KC Grad is a music venue in Belgrade with 1 upcoming night listed on soundcheck as of Tue, 21 Jul 2026; the next is "Sina Bathaie White Lotus World Tour - Live in Belgrade" on Thu, 23 Jul 2026.
 
 KC Grad is a music venue in Belgrade listed on soundcheck. 1 upcoming night, with line-ups including Sina Bathaie. Browse upcoming dates, start times and who's playing. Belgrade, 11000, Serbia.
 
@@ -14,4 +14,4 @@ KC Grad is a music venue in Belgrade listed on soundcheck. 1 upcoming night, wit
 
 Belgrade, 11000, Serbia, Belgrade
 
-*Updated Mon, 20 Jul 2026 · source: [soundcheck](https://soundcheck.club/belgrade/club/kc-grad/)*
+*Updated Tue, 21 Jul 2026 · source: [soundcheck](https://soundcheck.club/belgrade/club/kc-grad/)*

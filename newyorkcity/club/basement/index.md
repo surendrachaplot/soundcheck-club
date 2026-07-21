@@ -1,6 +1,6 @@
 # BASEMENT
 
-BASEMENT is a music venue in New York City with 9 upcoming nights listed on soundcheck as of Mon, 20 Jul 2026; the next is "Philippa Pacho / Newa / Holden Federico / The Spectrum" on Fri, 24 Jul 2026.
+BASEMENT is a music venue in New York City with 9 upcoming nights listed on soundcheck as of Tue, 21 Jul 2026; the next is "Philippa Pacho /Newa /Holden Federico /TheSpectrum:Miss Twink USA /Michael Magnan/Danny Clobber" on Fri, 24 Jul 2026.
 
 BASEMENT is a music venue in Newyorkcity listed on soundcheck. 9 upcoming nights, with line-ups including Altinbas, Analog Soul, Annie Lew and Auspex and 2 more. Browse upcoming dates, start times and who's playing. 52-19 Flushing Ave., Maspeth, NY 11378 USA.
 
@@ -8,7 +8,7 @@ BASEMENT is a music venue in Newyorkcity listed on soundcheck. 9 upcoming nights
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Fri, 24 Jul 2026 | Philippa Pacho / Newa / Holden Federico / The Spectrum | Holden Federico, Newa, Philippa Pacho |
+| Fri, 24 Jul 2026 | Philippa Pacho /Newa /Holden Federico /TheSpectrum:Miss Twink USA /Michael Magnan/Danny Clobber | Holden Federico, Michael Magnan, Miss Twink USA, Newa, Philippa Pacho |
 | Sat, 25 Jul 2026 | UFO95 live / Altinbas / cotton / Shaun J. Wright / Colored Craig / Nat Wendell | Altinbas, Colored Craig, Nat Wendell, Shaun J. Wright, UFO95, cotton |
 | Fri, 31 Jul 2026 | Altær: Lars Huismann / Lindsey Herbert / Auspex /Jason Kendig /Will Automagic /Cosmo /Ryan Farr | Auspex, Cosmo (NY), Jason Kendig, Lars Huismann, Lindsey Herbert, Ryan Farr, Will Automagic |
 | Sat, 1 Aug 2026 | Locals Night | Analog Soul, Concrete Husband, Holden Federico, Justin Cudmore, Katie Rex, Kim Anh, Manu Miran, Mos (NYC), Ne/Re/A |
@@ -22,4 +22,4 @@ BASEMENT is a music venue in Newyorkcity listed on soundcheck. 9 upcoming nights
 
 52-19 Flushing Ave., Maspeth, NY 11378 USA, New York City
 
-*Updated Mon, 20 Jul 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/basement/)*
+*Updated Tue, 21 Jul 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/basement/)*

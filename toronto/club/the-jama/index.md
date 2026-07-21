@@ -1,6 +1,6 @@
 # The Jama
 
-The Jama is a music venue in Toronto with 3 upcoming nights listed on soundcheck as of Mon, 20 Jul 2026; the next is "Date with Destiny" on Sun, 26 Jul 2026.
+The Jama is a music venue in Toronto with 3 upcoming nights listed on soundcheck as of Tue, 21 Jul 2026; the next is "Date with Destiny" on Sun, 26 Jul 2026.
 
 The Jama is a music venue in Toronto listed on soundcheck. 3 upcoming nights, with line-ups including Critter, Destiny (CA), Dj Hermano and dj miss and 2 more. Browse upcoming dates, start times and who's playing. 961 College Street.
 
@@ -16,4 +16,4 @@ The Jama is a music venue in Toronto listed on soundcheck. 3 upcoming nights, wi
 
 961 College Street, Toronto
 
-*Updated Mon, 20 Jul 2026 · source: [soundcheck](https://soundcheck.club/toronto/club/the-jama/)*
+*Updated Tue, 21 Jul 2026 · source: [soundcheck](https://soundcheck.club/toronto/club/the-jama/)*

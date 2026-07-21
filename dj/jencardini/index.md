@@ -1,8 +1,8 @@
 # Jen Cardini
 
-Jen Cardini is a Techno and House artist with 9 upcoming club dates listed on soundcheck as of Mon, 20 Jul 2026, next at Paléo Festival, Geneva on Tue, 21 Jul 2026.
+Jen Cardini is a Techno and House artist with 10 upcoming club dates listed on soundcheck as of Tue, 21 Jul 2026, next at Paléo Festival, Geneva on Tue, 21 Jul 2026.
 
-Jen Cardini is a techno and house artist tracked on soundcheck, with 241 sets logged across Amsterdam, Antwerp, Athens and Auckland and 55 more. Often billed alongside Pablo Bozzi, BASHKKA and KI/KI. Next up: Paléo Festival, Geneva on Tue 21 Jul.
+Jen Cardini is a techno and house artist tracked on soundcheck, with 242 sets logged across Amsterdam, Antwerp, Athens and Auckland and 56 more. Often billed alongside Pablo Bozzi, BASHKKA and KI/KI. Next up: Paléo Festival, Geneva on Tue 21 Jul.
 
 ## Upcoming shows
 
@@ -14,6 +14,7 @@ Jen Cardini is a techno and house artist tracked on soundcheck, with 241 sets lo
 | Sat, 1 Aug 2026 | Kvarteret | Stockholm |
 | Fri, 7 Aug 2026 | Parc del Fòrum | Barcelona |
 | Mon, 10 Aug 2026 | La Pinilla Ski Resort | Madrid |
+| Sat, 15 Aug 2026 | Smoke & Mirrors | Chicago |
 | Sun, 16 Aug 2026 | Signal | New York City |
 | Wed, 19 Aug 2026 | Nocturna | Ibiza |
 | Sat, 5 Sept 2026 | Escala25 | Lisbon |
@@ -33,4 +34,4 @@ Jen Cardini is a techno and house artist tracked on soundcheck, with 241 sets lo
 
 Pablo Bozzi, BASHKKA, KI/KI
 
-*Updated Mon, 20 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/jencardini/)*
+*Updated Tue, 21 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/jencardini/)*

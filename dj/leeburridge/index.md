@@ -1,6 +1,6 @@
 # Lee Burridge
 
-Lee Burridge is a Deep House and House artist with 3 upcoming club dates listed on soundcheck as of Mon, 20 Jul 2026, next at Hï Ibiza, Ibiza on Mon, 17 Aug 2026.
+Lee Burridge is a Deep House and House artist with 3 upcoming club dates listed on soundcheck as of Tue, 21 Jul 2026, next at Hï Ibiza, Ibiza on Mon, 17 Aug 2026.
 
 Lee Burridge is a deep house and house artist tracked on soundcheck, with 134 sets logged across Austin, Bali, Barcelona and Belgrade and 30 more. Often billed alongside Jim Rider, Tim Green and Double Touch. Next up: Hï Ibiza, Ibiza on Mon 17 Aug.
 
@@ -27,4 +27,4 @@ Lee Burridge is a deep house and house artist tracked on soundcheck, with 134 se
 
 Jim Rider, Tim Green, Double Touch
 
-*Updated Mon, 20 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/leeburridge/)*
+*Updated Tue, 21 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/leeburridge/)*

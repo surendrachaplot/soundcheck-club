@@ -1,6 +1,6 @@
 # Thabo
 
-Thabo is a House and Techno artist with 4 upcoming club dates listed on soundcheck as of Mon, 20 Jul 2026, next at La Terrrazza, Barcelona on Sat, 25 Jul 2026.
+Thabo is a House and Techno artist with 4 upcoming club dates listed on soundcheck as of Tue, 21 Jul 2026, next at La Terrrazza, Barcelona on Sat, 25 Jul 2026.
 
 Thabo is a house and techno artist tracked on soundcheck, with 77 sets logged across Amsterdam, Athens, Bali and Barcelona and 15 more. Often billed alongside Thalo Santana, Blame Anthony and DJ Butterhands. Next up: La Terrrazza, Barcelona on Sat 25 Jul.
 
@@ -28,4 +28,4 @@ Thabo is a house and techno artist tracked on soundcheck, with 77 sets logged ac
 
 Thalo Santana, Blame Anthony, DJ Butterhands
 
-*Updated Mon, 20 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/thabogetsome/)*
+*Updated Tue, 21 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/thabogetsome/)*

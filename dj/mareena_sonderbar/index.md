@@ -1,6 +1,6 @@
 # Mareena
 
-Mareena is a Techno and House artist with 5 upcoming club dates listed on soundcheck as of Mon, 20 Jul 2026, next at Fuchs2, Prague on Fri, 24 Jul 2026.
+Mareena is a Techno and House artist with 5 upcoming club dates listed on soundcheck as of Tue, 21 Jul 2026, next at Fuchs2, Prague on Fri, 24 Jul 2026.
 
 Mareena is a techno and house artist based in Germany, tracked on soundcheck, with 105 sets logged across Amsterdam, Athens, Barcelona and Basel and 29 more. Often billed alongside Kerrie, JakoJako and Steve Bicknell. Next up: Fuchs2, Prague on Fri 24 Jul.
 
@@ -29,4 +29,4 @@ Mareena is a techno and house artist based in Germany, tracked on soundcheck, wi
 
 Kerrie, JakoJako, Steve Bicknell
 
-*Updated Mon, 20 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/mareena_sonderbar/)*
+*Updated Tue, 21 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/mareena_sonderbar/)*

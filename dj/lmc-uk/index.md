@@ -1,6 +1,6 @@
 # LMCUK
 
-LMCUK is a electronic artist with 8 upcoming club dates listed on soundcheck as of Mon, 20 Jul 2026, next at Test venue (amsterdam), Amsterdam on Tue, 21 Jul 2026.
+LMCUK is a electronic artist with 8 upcoming club dates listed on soundcheck as of Tue, 21 Jul 2026, next at Test venue (amsterdam), Amsterdam on Tue, 21 Jul 2026.
 
 LMCUK is an electronic artist based in United Kingdom, tracked on soundcheck, with 13 sets logged across Amsterdam and London. Next up: Test venue (amsterdam), Amsterdam on Tue 21 Jul.
 
@@ -25,4 +25,4 @@ LMCUK is an electronic artist based in United Kingdom, tracked on soundcheck, wi
 - TBA, London — Sat, 27 Jun 2026
 - TBA, London — Sat, 27 Jun 2026
 
-*Updated Mon, 20 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/lmc-uk/)*
+*Updated Tue, 21 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/lmc-uk/)*

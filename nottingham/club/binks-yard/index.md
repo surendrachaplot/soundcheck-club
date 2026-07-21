@@ -1,6 +1,6 @@
 # Binks Yard
 
-Binks Yard is a music venue in Nottingham with 3 upcoming nights listed on soundcheck as of Mon, 20 Jul 2026; the next is "TEEDEE - Groovebox at Binks Yard" on Sat, 25 Jul 2026.
+Binks Yard is a music venue in Nottingham with 3 upcoming nights listed on soundcheck as of Tue, 21 Jul 2026; the next is "TEEDEE - Groovebox at Binks Yard" on Sat, 25 Jul 2026.
 
 Binks Yard is a music venue in Nottingham listed on soundcheck. 3 upcoming nights, with line-ups including Aly & Fila, Ciaran McAuley, Cosmic Gate and Joe Rolét and 2 more. Browse upcoming dates, start times and who's playing. The Island Quarter, 1 The Great Northern Cl, Nottingham NG2 3JL.
 
@@ -16,4 +16,4 @@ Binks Yard is a music venue in Nottingham listed on soundcheck. 3 upcoming night
 
 The Island Quarter, 1 The Great Northern Cl, Nottingham NG2 3JL, Nottingham
 
-*Updated Mon, 20 Jul 2026 · source: [soundcheck](https://soundcheck.club/nottingham/club/binks-yard/)*
+*Updated Tue, 21 Jul 2026 · source: [soundcheck](https://soundcheck.club/nottingham/club/binks-yard/)*

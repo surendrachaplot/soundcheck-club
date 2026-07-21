@@ -1,6 +1,6 @@
 # Drummer B
 
-Drummer B is a Techno and Ghetto Tech artist with 3 upcoming club dates listed on soundcheck as of Mon, 20 Jul 2026, next at TV Lounge, Detroit on Thu, 23 Jul 2026.
+Drummer B is a Techno and Ghetto Tech artist with 3 upcoming club dates listed on soundcheck as of Tue, 21 Jul 2026, next at TV Lounge, Detroit on Thu, 23 Jul 2026.
 
 Drummer B is a techno and ghetto tech artist based in United States of America, tracked on soundcheck, with 25 sets logged across Detroit. Often billed alongside Nick Speed, Sheefy McFly and Ashton Swinton. Next up: TV Lounge, Detroit on Thu 23 Jul.
 
@@ -27,4 +27,4 @@ Drummer B is a techno and ghetto tech artist based in United States of America, 
 
 Nick Speed, Sheefy McFly, Ashton Swinton
 
-*Updated Mon, 20 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/drummerb/)*
+*Updated Tue, 21 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/drummerb/)*

@@ -1,14 +1,15 @@
 # SURCO
 
-SURCO is a Techno and Drone artist with 2 upcoming club dates listed on soundcheck as of Mon, 20 Jul 2026, next at ://about blank, Berlin on Thu, 20 Aug 2026.
+SURCO is a Techno and Drone artist with 3 upcoming club dates listed on soundcheck as of Tue, 21 Jul 2026, next at ://about blank, Berlin on Thu, 20 Aug 2026.
 
-SURCO is a techno and drone artist based in United States of America, tracked on soundcheck, with 21 sets logged across Amsterdam, Berlin, Chicago and Denver and 3 more. Often billed alongside ALX-106, Analog Kitchen and Julia Bondar. Next up: ://about blank, Berlin on Thu 20 Aug.
+SURCO is a techno and drone artist based in United States of America, tracked on soundcheck, with 22 sets logged across Amsterdam, Berlin, Chicago and Denver and 4 more. Often billed alongside ALX-106, Analog Kitchen and Julia Bondar. Next up: ://about blank, Berlin on Thu 20 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Thu, 20 Aug 2026 | ://about blank | Berlin |
+| Fri, 21 Aug 2026 | Altenburg 1964 | Prague |
 | Sat, 29 Aug 2026 | Kabelfabriek | The Hague |
 
 ## Recently played
@@ -26,4 +27,4 @@ SURCO is a techno and drone artist based in United States of America, tracked on
 
 ALX-106, Analog Kitchen, Julia Bondar
 
-*Updated Mon, 20 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/surco/)*
+*Updated Tue, 21 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/surco/)*

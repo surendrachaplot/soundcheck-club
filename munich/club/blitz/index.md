@@ -1,6 +1,6 @@
 # BLITZ
 
-BLITZ is a music venue in Munich with 6 upcoming nights listed on soundcheck as of Mon, 20 Jul 2026; the next is "Live : CoreChaos with Brnjsmin, Hyperfocus, Liturgy [19:30 - 23:00]" on Tue, 21 Jul 2026.
+BLITZ is a music venue in Munich with 6 upcoming nights listed on soundcheck as of Tue, 21 Jul 2026; the next is "Live : CoreChaos with Brnjsmin, Hyperfocus, Liturgy [19:30 - 23:00]" on Tue, 21 Jul 2026.
 
 BLITZ is a music venue in Munich listed on soundcheck. 6 upcoming nights, with line-ups including 600-cell, Akua, Alessio Barletta and Alles Andere and 2 more. Browse upcoming dates, start times and who's playing. Museumsinsel 1, 80538 München, Germany.
 
@@ -19,4 +19,4 @@ BLITZ is a music venue in Munich listed on soundcheck. 6 upcoming nights, with l
 
 Museumsinsel 1, 80538 München, Germany, Munich
 
-*Updated Mon, 20 Jul 2026 · source: [soundcheck](https://soundcheck.club/munich/club/blitz/)*
+*Updated Tue, 21 Jul 2026 · source: [soundcheck](https://soundcheck.club/munich/club/blitz/)*

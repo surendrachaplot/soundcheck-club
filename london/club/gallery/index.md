@@ -1,6 +1,6 @@
 # Gallery
 
-Gallery is a music venue in London with 11 upcoming nights listed on soundcheck as of Mon, 20 Jul 2026; the next is "Paradox Nexus: Reelow - Thursdays at Gallery" on Thu, 23 Jul 2026.
+Gallery is a music venue in London with 11 upcoming nights listed on soundcheck as of Tue, 21 Jul 2026; the next is "Paradox Nexus: Reelow - Thursdays at Gallery" on Thu, 23 Jul 2026.
 
 Gallery is a music venue in London listed on soundcheck. 11 upcoming nights, with line-ups including Ashibah, Greggio, Grittrip and Jaden Thompson and 2 more. Browse upcoming dates, start times and who's playing. 2A Kensington High Street, London, W8 4PT.
 
@@ -23,4 +23,4 @@ Gallery is a music venue in London listed on soundcheck. 11 upcoming nights, wit
 
 2A Kensington High Street, London, W8 4PT, London
 
-*Updated Mon, 20 Jul 2026 · source: [soundcheck](https://soundcheck.club/london/club/gallery/)*
+*Updated Tue, 21 Jul 2026 · source: [soundcheck](https://soundcheck.club/london/club/gallery/)*

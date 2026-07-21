@@ -1,6 +1,6 @@
 # Playa Soleil & Bora Bora
 
-Playa Soleil & Bora Bora is a music venue in Ibiza with 2 upcoming nights listed on soundcheck as of Mon, 20 Jul 2026; the next is "Cécille" on Fri, 14 Aug 2026.
+Playa Soleil & Bora Bora is a music venue in Ibiza with 2 upcoming nights listed on soundcheck as of Tue, 21 Jul 2026; the next is "Cécille" on Fri, 14 Aug 2026.
 
 Playa Soleil & Bora Bora is a music venue in Ibiza listed on soundcheck. 2 upcoming nights. Browse upcoming dates, start times and who's playing.
 
@@ -11,4 +11,4 @@ Playa Soleil & Bora Bora is a music venue in Ibiza listed on soundcheck. 2 upcom
 | Fri, 14 Aug 2026 | Cécille |  |
 | Fri, 21 Aug 2026 | Cécille |  |
 
-*Updated Mon, 20 Jul 2026 · source: [soundcheck](https://soundcheck.club/ibiza/club/playa-soleil-bora-bora/)*
+*Updated Tue, 21 Jul 2026 · source: [soundcheck](https://soundcheck.club/ibiza/club/playa-soleil-bora-bora/)*

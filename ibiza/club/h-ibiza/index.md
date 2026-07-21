@@ -1,15 +1,13 @@
 # Hï Ibiza
 
-Hï Ibiza is a music venue in Ibiza with 80 upcoming nights listed on soundcheck as of Mon, 20 Jul 2026; the next is "Francis Mercier presents Solèy" on Mon, 20 Jul 2026.
+Hï Ibiza is a music venue in Ibiza with 78 upcoming nights listed on soundcheck as of Tue, 21 Jul 2026; the next is "East End Dubs presents Eastenderz" on Tue, 21 Jul 2026.
 
-Hï Ibiza is a music venue in Ibiza listed on soundcheck. 80 upcoming nights, with line-ups including 8KAYS, Paolo Ferrara, AARON SEVILLA and Adam Beyer and 2 more. Browse upcoming dates, start times and who's playing. Platja d''en Bossa s/n, 07817 Sant Josep de sa Talaia, Balearic Islands, Spain.
+Hï Ibiza is a music venue in Ibiza listed on soundcheck. 78 upcoming nights, with line-ups including 8KAYS, Paolo Ferrara, AARON SEVILLA and Adam Beyer and 2 more. Browse upcoming dates, start times and who's playing. Platja d''en Bossa s/n, 07817 Sant Josep de sa Talaia, Balearic Islands, Spain.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Mon, 20 Jul 2026 | Francis Mercier presents Solèy | Alex Wann, Andrea Oliva, Francis Mercier, Kasango, Mambo Brothers, Marten Lou, Moeaike |
-| Mon, 20 Jul 2026 | Hi Ibiza | Alex Wann |
 | Tue, 21 Jul 2026 | East End Dubs presents Eastenderz | Ben Sterling, Di Chiara Brothers, East End Dubs, Jay de Lys, Joëlla Jackson, Paco Osuna, Toman, Tomi & Kesh, YOUniverse |
 | Wed, 22 Jul 2026 | MEDUZA & James Hype present OUR HOUSE | James Hype (UK), Meduza, SYREETA, The Blessed Madonna |
 | Thu, 23 Jul 2026 | Hugel presents Make The Girls Dance | Baset, Hugel, Kurd Maverick, Miss Monique, MoBlack, NODUS, Pete Tong |
@@ -18,9 +16,11 @@ Hï Ibiza is a music venue in Ibiza listed on soundcheck. 80 upcoming nights, wi
 | Sun, 26 Jul 2026 | CamelPhat present Summer of Love | CamelPhat, Indira Paganotto |
 | Mon, 27 Jul 2026 | Francis Mercier presents Solèy | Alex Wann, Andrea Oliva, Argia, Francis Mercier, Henrik Schwarz |
 | Mon, 27 Jul 2026 | Hi Ibiza | Alex Wann |
+| Tue, 28 Jul 2026 | East End Dubs presents Eastenderz | Davide T, De La Swing, East End Dubs, Paco Osuna, Ryan Resso, Skream, TSHA |
+| Wed, 29 Jul 2026 | MEDUZA & James Hype present OUR HOUSE | James Hype (UK), Meduza, Miane |
 
 ## Address
 
 Platja d''en Bossa s/n, 07817 Sant Josep de sa Talaia, Balearic Islands, Spain, Ibiza
 
-*Updated Mon, 20 Jul 2026 · source: [soundcheck](https://soundcheck.club/ibiza/club/h-ibiza/)*
+*Updated Tue, 21 Jul 2026 · source: [soundcheck](https://soundcheck.club/ibiza/club/h-ibiza/)*

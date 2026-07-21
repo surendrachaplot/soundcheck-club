@@ -1,6 +1,6 @@
 # 600-cell
 
-600-cell is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Mon, 20 Jul 2026, next at Goldener Reiter, Munich on Sat, 25 Jul 2026.
+600-cell is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Tue, 21 Jul 2026, next at Goldener Reiter, Munich on Sat, 25 Jul 2026.
 
 600-cell is a house and techno artist based in Germany, tracked on soundcheck, with 38 sets logged across Munich and Vienna. Often billed alongside Bogus Trumper, Muallem and BASHKKA. Next up: Goldener Reiter, Munich on Sat 25 Jul.
 
@@ -26,4 +26,4 @@
 
 Bogus Trumper, Muallem, BASHKKA
 
-*Updated Mon, 20 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/600-cell/)*
+*Updated Tue, 21 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/600-cell/)*

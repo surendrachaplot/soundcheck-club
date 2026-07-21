@@ -1,6 +1,6 @@
 # it_dont_Matt.er
 
-it_dont_Matt.er is a Breakcore and Club artist with 2 upcoming club dates listed on soundcheck as of Mon, 20 Jul 2026, next at Vauxhall Arches, London on Fri, 31 Jul 2026.
+it_dont_Matt.er is a Breakcore and Club artist with 2 upcoming club dates listed on soundcheck as of Tue, 21 Jul 2026, next at Vauxhall Arches, London on Fri, 31 Jul 2026.
 
 it_dont_Matt.er is a breakcore and club artist based in United Kingdom, tracked on soundcheck, with 33 sets logged across Cardiff and London. Often billed alongside AC (dot robot), Takenbymarshall and alterum. Next up: Vauxhall Arches, London on Fri 31 Jul.
 
@@ -26,4 +26,4 @@ it_dont_Matt.er is a breakcore and club artist based in United Kingdom, tracked 
 
 AC (dot robot), Takenbymarshall, alterum
 
-*Updated Mon, 20 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/it_dont_matt.er/)*
+*Updated Tue, 21 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/it_dont_matt.er/)*

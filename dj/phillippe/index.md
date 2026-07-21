@@ -1,6 +1,6 @@
 # Phillippe
 
-Phillippe is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Mon, 20 Jul 2026, next at Spa Excess, Toronto on Fri, 24 Jul 2026.
+Phillippe is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Tue, 21 Jul 2026, next at Spa Excess, Toronto on Fri, 24 Jul 2026.
 
 Phillippe is a house and techno artist tracked on soundcheck, with 70 sets logged across Mexicocity, Toronto and Vancouver. Often billed alongside Karim Olen Ash, Jaw Jones and Jeremy Glenn. Next up: Spa Excess, Toronto on Fri 24 Jul.
 
@@ -27,4 +27,4 @@ Phillippe is a house and techno artist tracked on soundcheck, with 70 sets logge
 
 Karim Olen Ash, Jaw Jones, Jeremy Glenn
 
-*Updated Mon, 20 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/phillippe/)*
+*Updated Tue, 21 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/phillippe/)*

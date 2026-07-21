@@ -1,6 +1,6 @@
 # The Supermercat Raval
 
-The Supermercat Raval is a music venue in Barcelona with 1 upcoming night listed on soundcheck as of Mon, 20 Jul 2026; the next is "Resonance" on Fri, 24 Jul 2026.
+The Supermercat Raval is a music venue in Barcelona with 1 upcoming night listed on soundcheck as of Tue, 21 Jul 2026; the next is "Resonance" on Fri, 24 Jul 2026.
 
 The Supermercat Raval is a music venue in Barcelona listed on soundcheck. 1 upcoming night, with line-ups including Fer Canezza. Browse upcoming dates, start times and who's playing. Carrer de JoaquÃ­n Costa, 12, Ciutat Vella, 08001.
 
@@ -14,4 +14,4 @@ The Supermercat Raval is a music venue in Barcelona listed on soundcheck. 1 upco
 
 Carrer de JoaquÃ­n Costa, 12, Ciutat Vella, 08001, Barcelona
 
-*Updated Mon, 20 Jul 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/the-supermercat-raval/)*
+*Updated Tue, 21 Jul 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/the-supermercat-raval/)*

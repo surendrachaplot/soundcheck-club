@@ -1,14 +1,13 @@
 # Sonny Fodera
 
-Sonny Fodera is a House and Tech House artist with 18 upcoming club dates listed on soundcheck as of Mon, 20 Jul 2026, next at Pacha Ibiza, Ibiza on Mon, 20 Jul 2026.
+Sonny Fodera is a House and Tech House artist with 17 upcoming club dates listed on soundcheck as of Tue, 21 Jul 2026, next at BCM, Mallorca on Tue, 21 Jul 2026.
 
-Sonny Fodera is a house and tech house artist tracked on soundcheck, with 174 sets logged across Amsterdam, Austin, Bali and Barcelona and 37 more. Often billed alongside Danny Howard, Gorgon City and Greta Levska. Next up: Pacha Ibiza, Ibiza on Mon 20 Jul.
+Sonny Fodera is a house and tech house artist tracked on soundcheck, with 174 sets logged across Amsterdam, Austin, Bali and Barcelona and 37 more. Often billed alongside Danny Howard, Gorgon City and Greta Levska. Next up: BCM, Mallorca on Tue 21 Jul.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Mon, 20 Jul 2026 | Pacha Ibiza | Ibiza |
 | Tue, 21 Jul 2026 | BCM | Mallorca |
 | Mon, 27 Jul 2026 | Pacha Ibiza | Ibiza |
 | Mon, 3 Aug 2026 | Pacha Ibiza | Ibiza |
@@ -20,9 +19,11 @@ Sonny Fodera is a house and tech house artist tracked on soundcheck, with 174 se
 | Mon, 24 Aug 2026 | Pacha Ibiza | Ibiza |
 | Mon, 31 Aug 2026 | Pacha Ibiza | Ibiza |
 | Mon, 7 Sept 2026 | Pacha Ibiza | Ibiza |
+| Mon, 14 Sept 2026 | Pacha Ibiza | Ibiza |
 
 ## Recently played
 
+- Pacha Ibiza, Ibiza — Mon, 20 Jul 2026
 - Pacha Ibiza, Ibiza — Mon, 13 Jul 2026
 - Cavo Paradiso, Mykonos — Sat, 11 Jul 2026
 - Pacha Ibiza, Ibiza — Mon, 6 Jul 2026
@@ -30,10 +31,9 @@ Sonny Fodera is a house and tech house artist tracked on soundcheck, with 174 se
 - Ormeau Park, Belfast — Sat, 27 Jun 2026
 - Pacha Ibiza, Ibiza — Mon, 22 Jun 2026
 - Pacha Ibiza, Ibiza — Mon, 15 Jun 2026
-- Pacha Ibiza, Ibiza — Mon, 8 Jun 2026
 
 ## Shares bills with
 
 Danny Howard, Gorgon City, Greta Levska
 
-*Updated Mon, 20 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/sonnyfodera/)*
+*Updated Tue, 21 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/sonnyfodera/)*

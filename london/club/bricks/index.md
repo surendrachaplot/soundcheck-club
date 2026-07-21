@@ -1,6 +1,6 @@
 # Bricks
 
-Bricks is a music venue in London with 9 upcoming nights listed on soundcheck as of Mon, 20 Jul 2026; the next is "Discotheque Tropicale x Heaven on Hertz present... Love Connection" on Fri, 24 Jul 2026.
+Bricks is a music venue in London with 9 upcoming nights listed on soundcheck as of Tue, 21 Jul 2026; the next is "Discotheque Tropicale x Heaven on Hertz present... Love Connection" on Fri, 24 Jul 2026.
 
 Bricks is a music venue in London listed on soundcheck. 9 upcoming nights, with line-ups including Alfaz, BIDOIS, DJ Leeloo and Henson and 2 more. Browse upcoming dates, start times and who's playing. 414 Coldharbour Lane, London, United Kingdom SW9 8LF.
 
@@ -22,4 +22,4 @@ Bricks is a music venue in London listed on soundcheck. 9 upcoming nights, with 
 
 414 Coldharbour Lane, London, United Kingdom SW9 8LF, London
 
-*Updated Mon, 20 Jul 2026 · source: [soundcheck](https://soundcheck.club/london/club/bricks/)*
+*Updated Tue, 21 Jul 2026 · source: [soundcheck](https://soundcheck.club/london/club/bricks/)*

@@ -1,14 +1,13 @@
 # Socore Factory
 
-Socore Factory is a music venue in Osaka with 17 upcoming nights listed on soundcheck as of Mon, 20 Jul 2026; the next is "blondy × WÖNDER GIRL pre. Pure Movement" on Mon, 20 Jul 2026.
+Socore Factory is a music venue in Osaka with 16 upcoming nights listed on soundcheck as of Tue, 21 Jul 2026; the next is "KASAGO BAR" on Wed, 22 Jul 2026.
 
-Socore Factory is a music venue in Osaka listed on soundcheck. 17 upcoming nights, with line-ups including Akira Saotome, Ane, Bass and Century and 2 more. Browse upcoming dates, start times and who's playing. 2-13-26 Minamihorie, Nishi-ku, Osaka-shi, Osaka, 550-0015 Japan.
+Socore Factory is a music venue in Osaka listed on soundcheck. 16 upcoming nights, with line-ups including Akira Saotome, Ane, Bass and Century and 2 more. Browse upcoming dates, start times and who's playing. 2-13-26 Minamihorie, Nishi-ku, Osaka-shi, Osaka, 550-0015 Japan.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Mon, 20 Jul 2026 | blondy × WÖNDER GIRL pre. Pure Movement | Lhinen, WÖNDER GIRL |
 | Wed, 22 Jul 2026 | KASAGO BAR |  |
 | Sat, 25 Jul 2026 | CANAL | SAKI, kafuka, metome |
 | Mon, 27 Jul 2026 | Takuto&NEKKOYA BAND TOUR 'UKAGE'」 〜ウカゲだりょっどー〜 | Takaya, Takuto |
@@ -18,9 +17,10 @@ Socore Factory is a music venue in Osaka listed on soundcheck. 17 upcoming night
 | Fri, 7 Aug 2026 | WORM OSAKA 5th Anniversary Party | Yukari BB |
 | Mon, 10 Aug 2026 | POUND | Itou, ONO (3), Yudai Sugiyama |
 | Tue, 11 Aug 2026 | スーパーオギャー夏祭り！ |  |
+| Sat, 15 Aug 2026 | PRAY | Akira Saotome, SPOT (JPN) |
 
 ## Address
 
 2-13-26 Minamihorie, Nishi-ku, Osaka-shi, Osaka, 550-0015 Japan, Osaka
 
-*Updated Mon, 20 Jul 2026 · source: [soundcheck](https://soundcheck.club/osaka/club/socore-factory/)*
+*Updated Tue, 21 Jul 2026 · source: [soundcheck](https://soundcheck.club/osaka/club/socore-factory/)*

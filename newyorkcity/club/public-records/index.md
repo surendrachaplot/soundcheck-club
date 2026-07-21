@@ -1,14 +1,14 @@
 # public records
 
-public records is a music venue in New York City with 31 upcoming nights listed on soundcheck as of Mon, 20 Jul 2026; the next is "Claudio PRC, Secret Raver / Tauceti, JUDY / Aaron Paar" on Fri, 24 Jul 2026.
+public records is a music venue in New York City with 32 upcoming nights listed on soundcheck as of Tue, 21 Jul 2026; the next is "Claudio PRC, Secret Raver / Tauceti, Judy / Aaron Paar" on Fri, 24 Jul 2026.
 
-public records is a music venue in Newyorkcity listed on soundcheck. 31 upcoming nights, with line-ups including 30000AD, 320 (1), Aaron Paar and A lana and 2 more. Browse upcoming dates, start times and who's playing. 233 Butler St, Brooklyn, NY 11217, USA.
+public records is a music venue in Newyorkcity listed on soundcheck. 32 upcoming nights, with line-ups including 30000AD, 320 (1), Aaron Paar and A lana and 2 more. Browse upcoming dates, start times and who's playing. 233 Butler St, Brooklyn, NY 11217, USA.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Fri, 24 Jul 2026 | Claudio PRC, Secret Raver / Tauceti, JUDY / Aaron Paar | Aaron Paar, Claudio PRC, Judy (ES), Secret Raver, Tauceti (FR) |
+| Fri, 24 Jul 2026 | Claudio PRC, Secret Raver / Tauceti, Judy / Aaron Paar | Aaron Paar, Claudio PRC, Judy (ES), Secret Raver, Tauceti (FR) |
 | Sat, 25 Jul 2026 | Ali Berger [Live], Ciel / Shawn Dub, Jerome Derradji / A lana | A lana, Ali Berger, Ciel, Jerome Derradji, Shawn Dub |
 | Sun, 26 Jul 2026 | The Nursery: Patrice Bäumel All Day Long | Patrice Bäumel |
 | Sun, 26 Jul 2026 | Shelter: Timmy Regisford Open To Close | Timmy Regisford |
@@ -23,4 +23,4 @@ public records is a music venue in Newyorkcity listed on soundcheck. 31 upcoming
 
 233 Butler St, Brooklyn, NY 11217, USA, New York City
 
-*Updated Mon, 20 Jul 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/public-records/)*
+*Updated Tue, 21 Jul 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/public-records/)*

@@ -1,6 +1,6 @@
 # Nesta
 
-Nesta is a House and Minimal artist with 2 upcoming club dates listed on soundcheck as of Mon, 20 Jul 2026, next at Akasha Las Dalias Club - Ibiza, Ibiza on Fri, 24 Jul 2026.
+Nesta is a House and Minimal artist with 2 upcoming club dates listed on soundcheck as of Tue, 21 Jul 2026, next at Akasha Las Dalias Club - Ibiza, Ibiza on Fri, 24 Jul 2026.
 
 Nesta is a house and minimal artist tracked on soundcheck, with 30 sets logged across Amsterdam, Athens, Barcelona and Berlin and 7 more. Often billed alongside Andrea Fiorito, Hugo Martinez and Mathew Jonson. Next up: Akasha Las Dalias Club - Ibiza, Ibiza on Fri 24 Jul.
 
@@ -26,4 +26,4 @@ Nesta is a house and minimal artist tracked on soundcheck, with 30 sets logged a
 
 Andrea Fiorito, Hugo Martinez, Mathew Jonson
 
-*Updated Mon, 20 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/nesta/)*
+*Updated Tue, 21 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/nesta/)*

@@ -1,6 +1,6 @@
 # O.B.I. (DE)
 
-O.B.I. (DE) is a Techno and Industrial artist with 4 upcoming club dates listed on soundcheck as of Mon, 20 Jul 2026, next at RSO.BERLIN, Berlin on Sat, 1 Aug 2026.
+O.B.I. (DE) is a Techno and Industrial artist with 4 upcoming club dates listed on soundcheck as of Tue, 21 Jul 2026, next at RSO.BERLIN, Berlin on Sat, 1 Aug 2026.
 
 O.B.I. (DE) is a techno and industrial artist tracked on soundcheck, with 68 sets logged across Amsterdam, Barcelona, Berlin and Brisbane and 26 more. Often billed alongside Svetec, Johannes Schuster and TANJA MIJU. Next up: RSO.BERLIN, Berlin on Sat 1 Aug.
 
@@ -28,4 +28,4 @@ O.B.I. (DE) is a techno and industrial artist tracked on soundcheck, with 68 set
 
 Svetec, Johannes Schuster, TANJA MIJU
 
-*Updated Mon, 20 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/o.b.i.-de/)*
+*Updated Tue, 21 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/o.b.i.-de/)*

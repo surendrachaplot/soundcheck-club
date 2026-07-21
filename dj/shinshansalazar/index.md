@@ -1,6 +1,6 @@
 # Shinshan Salazar
 
-Shinshan Salazar is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Mon, 20 Jul 2026, next at Mono, Rotterdam on Sat, 25 Jul 2026.
+Shinshan Salazar is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Tue, 21 Jul 2026, next at Mono, Rotterdam on Sat, 25 Jul 2026.
 
 Shinshan Salazar is a house and techno artist tracked on soundcheck, with 25 sets logged across Amsterdam, Berlin, London and Madrid and 2 more. Often billed alongside T.NO, Franky Sticks and Galecta (2). Next up: Mono, Rotterdam on Sat 25 Jul.
 
@@ -26,4 +26,4 @@ Shinshan Salazar is a house and techno artist tracked on soundcheck, with 25 set
 
 T.NO, Franky Sticks, Galecta (2)
 
-*Updated Mon, 20 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/shinshansalazar/)*
+*Updated Tue, 21 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/shinshansalazar/)*

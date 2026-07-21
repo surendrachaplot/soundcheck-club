@@ -1,13 +1,14 @@
 # Francois K
 
-Francois K is a House and Disco artist with 3 upcoming club dates listed on soundcheck as of Mon, 20 Jul 2026, next at Amsterdamse Bos, Amsterdam on Wed, 29 Jul 2026.
+Francois K is a House and Disco artist with 4 upcoming club dates listed on soundcheck as of Tue, 21 Jul 2026, next at Le Bain, New York City on Sun, 26 Jul 2026.
 
-Francois K is a house and disco artist based in United States of America, tracked on soundcheck, with 106 sets logged across Amsterdam, Bali, Barcelona and Berlin and 24 more. Often billed alongside Joe Claussell, Danny Krivit and Body & Soul. Next up: Amsterdamse Bos, Amsterdam on Wed 29 Jul.
+Francois K is a house and disco artist based in United States of America, tracked on soundcheck, with 107 sets logged across Amsterdam, Bali, Barcelona and Berlin and 24 more. Often billed alongside Joe Claussell, Danny Krivit and Body & Soul. Next up: Le Bain, Newyorkcity on Sun 26 Jul.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sun, 26 Jul 2026 | Le Bain | New York City |
 | Wed, 29 Jul 2026 | Amsterdamse Bos | Amsterdam |
 | Fri, 31 Jul 2026 | Amsterdamse Bos | Amsterdam |
 | Sat, 5 Sept 2026 | Locust Grove | New York City |
@@ -27,4 +28,4 @@ Francois K is a house and disco artist based in United States of America, tracke
 
 Joe Claussell, Danny Krivit, Body & Soul
 
-*Updated Mon, 20 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/francoisk/)*
+*Updated Tue, 21 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/francoisk/)*

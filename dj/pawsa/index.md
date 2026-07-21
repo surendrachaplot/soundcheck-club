@@ -1,6 +1,6 @@
 # PAWSA
 
-PAWSA is a House and Tech House artist with 6 upcoming club dates listed on soundcheck as of Mon, 20 Jul 2026, next at Pacha Ibiza, Ibiza on Fri, 24 Jul 2026.
+PAWSA is a House and Tech House artist with 6 upcoming club dates listed on soundcheck as of Tue, 21 Jul 2026, next at Pacha Ibiza, Ibiza on Fri, 24 Jul 2026.
 
 PAWSA is a house and tech house artist tracked on soundcheck, with 139 sets logged across Amsterdam, Athens, Austin and Barcelona and 40 more. Often billed alongside Dennis Cruz, ANOTR and Chris Stussy. Next up: Pacha Ibiza, Ibiza on Fri 24 Jul.
 
@@ -30,4 +30,4 @@ PAWSA is a house and tech house artist tracked on soundcheck, with 139 sets logg
 
 Dennis Cruz, ANOTR, Chris Stussy
 
-*Updated Mon, 20 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/pawsa/)*
+*Updated Tue, 21 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/pawsa/)*

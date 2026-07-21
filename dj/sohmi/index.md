@@ -1,6 +1,6 @@
 # SOHMI
 
-SOHMI is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Mon, 20 Jul 2026, next at Ora, Seattle on Sat, 25 Jul 2026.
+SOHMI is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Tue, 21 Jul 2026, next at Ora, Seattle on Sat, 25 Jul 2026.
 
 SOHMI is a house and techno artist based in South Korea, tracked on soundcheck, with 34 sets logged across Amsterdam, Austin, Chicago and Denver and 9 more. Often billed alongside Yotto, Cristoph and Eli & Fur. Next up: Ora, Seattle on Sat 25 Jul.
 
@@ -26,4 +26,4 @@ SOHMI is a house and techno artist based in South Korea, tracked on soundcheck, 
 
 Yotto, Cristoph, Eli & Fur
 
-*Updated Mon, 20 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/sohmi/)*
+*Updated Tue, 21 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/sohmi/)*

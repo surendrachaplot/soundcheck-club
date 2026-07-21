@@ -1,6 +1,6 @@
 # Brasi
 
-Brasi is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Mon, 20 Jul 2026, next at Sunseabar Beach Club, Barcelona on Sun, 26 Jul 2026.
+Brasi is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Tue, 21 Jul 2026, next at Sunseabar Beach Club, Barcelona on Sun, 26 Jul 2026.
 
 Brasi is a techno and house artist tracked on soundcheck, with 126 sets logged across Amsterdam, Antwerp, Bali and Bangkok and 31 more. Often billed alongside Niff, Alexia Glensy and Jane Fitz. Next up: Sunseabar Beach Club, Barcelona on Sun 26 Jul.
 
@@ -26,4 +26,4 @@ Brasi is a techno and house artist tracked on soundcheck, with 126 sets logged a
 
 Niff, Alexia Glensy, Jane Fitz
 
-*Updated Mon, 20 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/brasi/)*
+*Updated Tue, 21 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/brasi/)*

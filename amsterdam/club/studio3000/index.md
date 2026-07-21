@@ -1,8 +1,8 @@
 # Studio3000
 
-Studio3000 is a music venue in Amsterdam with 1 upcoming night listed on soundcheck as of Mon, 20 Jul 2026; the next is "Zalando and adidas present The Corner" on Thu, 23 Jul 2026.
+Studio3000 is a music venue in Amsterdam with 1 upcoming night listed on soundcheck as of Tue, 21 Jul 2026; the next is "Zalando and adidas present The Corner" on Thu, 23 Jul 2026.
 
-Studio3000 is a music venue in Amsterdam listed on soundcheck. 1 upcoming night, with line-ups including MALLAURY and rriddim. Browse upcoming dates, start times and who's playing.
+Studio3000 is a music venue in Amsterdam listed on soundcheck. 1 upcoming night, with line-ups including MALLAURY and rriddim. Browse upcoming dates, start times and who's playing. Ketelstraat 3 1021 JX Amsterdam.
 
 ## What's on
 
@@ -10,4 +10,8 @@ Studio3000 is a music venue in Amsterdam listed on soundcheck. 1 upcoming night,
 | --- | --- | --- |
 | Thu, 23 Jul 2026 | Zalando and adidas present The Corner | MALLAURY, rriddim |
 
-*Updated Mon, 20 Jul 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/studio3000/)*
+## Address
+
+Ketelstraat 3 1021 JX Amsterdam, Amsterdam
+
+*Updated Tue, 21 Jul 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/studio3000/)*

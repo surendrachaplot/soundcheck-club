@@ -1,6 +1,6 @@
 # Marcus L
 
-Marcus L is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Mon, 20 Jul 2026, next at TBA - @ Zefīrs by day, @ SPĒLĒT by night, Riga on Fri, 24 Jul 2026.
+Marcus L is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Tue, 21 Jul 2026, next at TBA - @ Zefīrs by day, @ SPĒLĒT by night, Riga on Fri, 24 Jul 2026.
 
 Marcus L is a techno and house artist tracked on soundcheck, with 152 sets logged across Amsterdam, Bangkok, Berlin and Cologne and 12 more. Often billed alongside Suman, Stann Lumo and Mars Parck. Next up: TBA - @ Zefīrs by day, @ SPĒLĒT by night, Riga on Fri 24 Jul.
 
@@ -26,4 +26,4 @@ Marcus L is a techno and house artist tracked on soundcheck, with 152 sets logge
 
 Suman, Stann Lumo, Mars Parck
 
-*Updated Mon, 20 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/marcusl/)*
+*Updated Tue, 21 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/marcusl/)*

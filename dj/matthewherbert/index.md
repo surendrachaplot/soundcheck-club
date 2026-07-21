@@ -1,8 +1,8 @@
 # Matthew Herbert
 
-Matthew Herbert is a Experimental and Electronica artist with 3 upcoming club dates listed on soundcheck as of Mon, 20 Jul 2026, next at Quartier Des Spectacles, Montreal on Tue, 25 Aug 2026.
+Matthew Herbert is a Experimental and Electronica artist with 4 upcoming club dates listed on soundcheck as of Tue, 21 Jul 2026, next at Quartier Des Spectacles, Montreal on Tue, 25 Aug 2026.
 
-Matthew Herbert is an experimental and electronica artist based in United Kingdom, tracked on soundcheck, with 32 sets logged across Amsterdam, Barcelona, Berlin and Cologne and 14 more. Often billed alongside Jeff Mills, Polygonia and 5ive. Next up: Quartier Des Spectacles, Montreal on Tue 25 Aug.
+Matthew Herbert is an experimental and electronica artist based in United Kingdom, tracked on soundcheck, with 33 sets logged across Amsterdam, Barcelona, Berlin and Brighton and 15 more. Often billed alongside Jeff Mills, Polygonia and 5ive. Next up: Quartier Des Spectacles, Montreal on Tue 25 Aug.
 
 ## Upcoming shows
 
@@ -11,6 +11,7 @@ Matthew Herbert is an experimental and electronica artist based in United Kingdo
 | Tue, 25 Aug 2026 | Quartier Des Spectacles | Montreal |
 | Wed, 26 Aug 2026 | Société des arts technologiques | Montreal |
 | Sun, 30 Aug 2026 | Société des arts technologiques | Montreal |
+| Sun, 6 Sept 2026 | Patterns | Brighton |
 
 ## Recently played
 
@@ -27,4 +28,4 @@ Matthew Herbert is an experimental and electronica artist based in United Kingdo
 
 Jeff Mills, Polygonia, 5ive
 
-*Updated Mon, 20 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/matthewherbert/)*
+*Updated Tue, 21 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/matthewherbert/)*

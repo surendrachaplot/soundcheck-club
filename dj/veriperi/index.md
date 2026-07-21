@@ -1,6 +1,6 @@
 # Veri Peri
 
-Veri Peri is a Techno and Club artist with 2 upcoming club dates listed on soundcheck as of Mon, 20 Jul 2026, next at Hollywood Beach, Chicago on Sun, 26 Jul 2026.
+Veri Peri is a Techno and Club artist with 2 upcoming club dates listed on soundcheck as of Tue, 21 Jul 2026, next at Hollywood Beach, Chicago on Sun, 26 Jul 2026.
 
 Veri Peri is a techno and club artist tracked on soundcheck, with 30 sets logged across Chicago. Often billed alongside Flores Negras, JULLS and Jon McCray. Next up: Hollywood Beach, Chicago on Sun 26 Jul.
 
@@ -26,4 +26,4 @@ Veri Peri is a techno and club artist tracked on soundcheck, with 30 sets logged
 
 Flores Negras, JULLS, Jon McCray
 
-*Updated Mon, 20 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/veriperi/)*
+*Updated Tue, 21 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/veriperi/)*

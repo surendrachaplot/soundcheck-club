@@ -1,6 +1,6 @@
 # YAZMIN (MT)
 
-YAZMIN (MT) is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Mon, 20 Jul 2026, next at Gianpula Village, Malta on Wed, 12 Aug 2026.
+YAZMIN (MT) is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Tue, 21 Jul 2026, next at Gianpula Village, Malta on Wed, 12 Aug 2026.
 
 YAZMIN (MT) is a techno and house artist tracked on soundcheck, with 32 sets logged across Berlin, Malta, Manchester and Milan and 3 more. Often billed alongside Echofaze, Kyle Cortis and Human Safari. Next up: Gianpula Village, Malta on Wed 12 Aug.
 
@@ -26,4 +26,4 @@ YAZMIN (MT) is a techno and house artist tracked on soundcheck, with 32 sets log
 
 Echofaze, Kyle Cortis, Human Safari
 
-*Updated Mon, 20 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/yazmin-mt/)*
+*Updated Tue, 21 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/yazmin-mt/)*

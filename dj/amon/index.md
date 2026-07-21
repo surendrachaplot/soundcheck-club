@@ -1,6 +1,6 @@
 # Amøn
 
-Amøn is a Techno and Trance artist with 5 upcoming club dates listed on soundcheck as of Mon, 20 Jul 2026, next at Lokschuppen Berlin, Berlin on Sun, 2 Aug 2026.
+Amøn is a Techno and Trance artist with 5 upcoming club dates listed on soundcheck as of Tue, 21 Jul 2026, next at Lokschuppen Berlin, Berlin on Sun, 2 Aug 2026.
 
 Amøn is a techno and trance artist based in Germany, tracked on soundcheck, with 96 sets logged across Amsterdam, Barcelona, Berlin and Budapest and 5 more. Often billed alongside KLING&KLANG, DETOXX and Cobb Douglas. Next up: Lokschuppen Berlin, Berlin on Sun 2 Aug.
 
@@ -29,4 +29,4 @@ Amøn is a techno and trance artist based in Germany, tracked on soundcheck, wit
 
 KLING&KLANG, DETOXX, Cobb Douglas
 
-*Updated Mon, 20 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/amon/)*
+*Updated Tue, 21 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/amon/)*

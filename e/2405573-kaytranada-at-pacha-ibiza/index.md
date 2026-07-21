@@ -1,6 +1,6 @@
 # Kaytranada at Pacha Ibiza
 
-Kaytranada at Pacha Ibiza on Tue 11 Aug, Ibiza. 1 act on the bill: Kaytranada. House and Hip-Hop. Preview the line-up and save it on soundcheck.
+Kaytranada at Pacha Ibiza on Tue 11 Aug, Ibiza. 2 acts on the bill: Kaytranada and Skream. House and Hip-Hop. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -11,5 +11,6 @@ Kaytranada at Pacha Ibiza on Tue 11 Aug, Ibiza. 1 act on the bill: Kaytranada. H
 ## Line-up
 
 - Kaytranada
+- Skream
 
 *Source: [soundcheck](https://soundcheck.club/e/2405573-kaytranada-at-pacha-ibiza/)*

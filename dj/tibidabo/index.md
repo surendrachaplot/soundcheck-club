@@ -1,8 +1,8 @@
 # Tibi Dabo
 
-Tibi Dabo is a House and Deep House artist with 3 upcoming club dates listed on soundcheck as of Mon, 20 Jul 2026, next at Playa Soleil Ibiza, Ibiza on Fri, 31 Jul 2026.
+Tibi Dabo is a House and Deep House artist with 4 upcoming club dates listed on soundcheck as of Tue, 21 Jul 2026, next at Playa Soleil Ibiza, Ibiza on Fri, 31 Jul 2026.
 
-Tibi Dabo is a house and deep house artist based in Spain, tracked on soundcheck, with 41 sets logged across Amsterdam, Barcelona, Berlin and Ibiza and 8 more. Often billed alongside Damian Lazarus, Bass Playah and Chloé Caillet. Next up: Playa Soleil Ibiza, Ibiza on Fri 31 Jul.
+Tibi Dabo is a house and deep house artist based in Spain, tracked on soundcheck, with 42 sets logged across Amsterdam, Barcelona, Berlin and Ibiza and 8 more. Often billed alongside Damian Lazarus, Bass Playah and Chloé Caillet. Next up: Playa Soleil Ibiza, Ibiza on Fri 31 Jul.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Tibi Dabo is a house and deep house artist based in Spain, tracked on soundcheck
 | --- | --- | --- |
 | Fri, 31 Jul 2026 | Playa Soleil Ibiza | Ibiza |
 | Sun, 16 Aug 2026 | Audiodise Park Montjuic | Barcelona |
+| Fri, 11 Sept 2026 | Haus der Visionäre | Berlin |
 | Fri, 16 Oct 2026 | ZENNER | Berlin |
 
 ## Recently played
@@ -27,4 +28,4 @@ Tibi Dabo is a house and deep house artist based in Spain, tracked on soundcheck
 
 Damian Lazarus, Bass Playah, Chloé Caillet
 
-*Updated Mon, 20 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/tibidabo/)*
+*Updated Tue, 21 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/tibidabo/)*

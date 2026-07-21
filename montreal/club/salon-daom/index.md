@@ -1,6 +1,6 @@
 # Salon Daomé
 
-Salon Daomé is a music venue in Montreal with 7 upcoming nights listed on soundcheck as of Mon, 20 Jul 2026; the next is "Salon D'Illusion - Husa Sounds" on Thu, 23 Jul 2026.
+Salon Daomé is a music venue in Montreal with 7 upcoming nights listed on soundcheck as of Tue, 21 Jul 2026; the next is "Salon D'Illusion - Husa Sounds" on Thu, 23 Jul 2026.
 
 Salon Daomé is a music venue in Montreal listed on soundcheck. 7 upcoming nights, with line-ups including Akpossoul, Chez Damier, DJ Perception and Don Barbarino and 2 more. Browse upcoming dates, start times and who's playing. 4465 St Laurent Blvd, Montreal, Quebec H2W 1Z8.
 
@@ -20,4 +20,4 @@ Salon Daomé is a music venue in Montreal listed on soundcheck. 7 upcoming night
 
 4465 St Laurent Blvd, Montreal, Quebec H2W 1Z8, Montreal
 
-*Updated Mon, 20 Jul 2026 · source: [soundcheck](https://soundcheck.club/montreal/club/salon-daom/)*
+*Updated Tue, 21 Jul 2026 · source: [soundcheck](https://soundcheck.club/montreal/club/salon-daom/)*

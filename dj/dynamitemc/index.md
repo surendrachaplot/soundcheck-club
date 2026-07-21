@@ -1,6 +1,6 @@
 # Dynamite MC
 
-Dynamite MC is a Drum & Bass and Jungle artist with 3 upcoming club dates listed on soundcheck as of Mon, 20 Jul 2026, next at Hackney Wick Multiple Venues, London on Sat, 1 Aug 2026.
+Dynamite MC is a Drum & Bass and Jungle artist with 3 upcoming club dates listed on soundcheck as of Tue, 21 Jul 2026, next at Hackney Wick Multiple Venues, London on Sat, 1 Aug 2026.
 
 Dynamite MC is a drum & bass and jungle artist based in United Kingdom, tracked on soundcheck, with 29 sets logged across Amsterdam, Bali, Bangkok and Berlin and 8 more. Often billed alongside Degs, Fred V and Makoto. Next up: Hackney Wick Multiple Venues, London on Sat 1 Aug.
 
@@ -27,4 +27,4 @@ Dynamite MC is a drum & bass and jungle artist based in United Kingdom, tracked 
 
 Degs, Fred V, Makoto
 
-*Updated Mon, 20 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/dynamitemc/)*
+*Updated Tue, 21 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/dynamitemc/)*

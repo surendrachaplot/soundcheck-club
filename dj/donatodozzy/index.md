@@ -1,6 +1,6 @@
 # Donato Dozzy
 
-Donato Dozzy is a Techno and House artist with 5 upcoming club dates listed on soundcheck as of Mon, 20 Jul 2026, next at TBA, Rome on Fri, 31 Jul 2026.
+Donato Dozzy is a Techno and House artist with 5 upcoming club dates listed on soundcheck as of Tue, 21 Jul 2026, next at TBA, Rome on Fri, 31 Jul 2026.
 
 Donato Dozzy is a techno and house artist tracked on soundcheck, with 94 sets logged across Amsterdam, Athens, Barcelona and Basel and 30 more. Often billed alongside Voices From The Lake, Spekki Webu and Batu. Next up: TBA, Rome on Fri 31 Jul.
 
@@ -29,4 +29,4 @@ Donato Dozzy is a techno and house artist tracked on soundcheck, with 94 sets lo
 
 Voices From The Lake, Spekki Webu, Batu
 
-*Updated Mon, 20 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/donatodozzy/)*
+*Updated Tue, 21 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/donatodozzy/)*

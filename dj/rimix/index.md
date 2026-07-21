@@ -1,6 +1,6 @@
 # RIMIX
 
-RIMIX is a Club and Broken Beat artist with 3 upcoming club dates listed on soundcheck as of Mon, 20 Jul 2026, next at Orange Room, London on Fri, 24 Jul 2026.
+RIMIX is a Club and Broken Beat artist with 3 upcoming club dates listed on soundcheck as of Tue, 21 Jul 2026, next at Orange Room, London on Fri, 24 Jul 2026.
 
 RIMIX is a club and broken beat artist based in United Kingdom, tracked on soundcheck, with 3 sets logged across London. Often billed alongside Bindās, Faye Frazer and ISHU. Next up: Orange Room, London on Fri 24 Jul.
 
@@ -16,4 +16,4 @@ RIMIX is a club and broken beat artist based in United Kingdom, tracked on sound
 
 Bindās, Faye Frazer, ISHU
 
-*Updated Mon, 20 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/rimix/)*
+*Updated Tue, 21 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/rimix/)*

@@ -1,6 +1,6 @@
 # George Smeddles
 
-George Smeddles is a House and Tech House artist with 2 upcoming club dates listed on soundcheck as of Mon, 20 Jul 2026, next at Cova Santa, Ibiza on Tue, 28 Jul 2026.
+George Smeddles is a House and Tech House artist with 2 upcoming club dates listed on soundcheck as of Tue, 21 Jul 2026, next at Cova Santa, Ibiza on Tue, 28 Jul 2026.
 
 George Smeddles is a house and tech house artist tracked on soundcheck, with 70 sets logged across Amsterdam, Austin, Bangkok and Brighton and 21 more. Often billed alongside Darius Syrossian, GW Harrison and Prunk. Next up: Cova Santa, Ibiza on Tue 28 Jul.
 
@@ -26,4 +26,4 @@ George Smeddles is a house and tech house artist tracked on soundcheck, with 70 
 
 Darius Syrossian, GW Harrison, Prunk
 
-*Updated Mon, 20 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/georgesmeddles/)*
+*Updated Tue, 21 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/georgesmeddles/)*

@@ -1,14 +1,14 @@
 # OXI
 
-OXI is a music venue in Berlin with 23 upcoming nights listed on soundcheck as of Mon, 20 Jul 2026; the next is "✦encore.une.fois✦ / INDOOR RAVE + OPEN AIR CHILL GARDEN" on Tue, 21 Jul 2026.
+OXI is a music venue in Berlin with 24 upcoming nights listed on soundcheck as of Tue, 21 Jul 2026; the next is "✦ ✦ encore.une.fois ✦ ✦ / INDOOR RAVE + OPEN AIR CHILL GARDEN" on Tue, 21 Jul 2026.
 
-OXI is a music venue in Berlin listed on soundcheck. 23 upcoming nights, with line-ups including ābnamā, acidheaven, Alada and ALAN JOE and 2 more. Browse upcoming dates, start times and who's playing. Wiesenweg 1-4, 10365 Berlin.
+OXI is a music venue in Berlin listed on soundcheck. 24 upcoming nights, with line-ups including ābnamā, acidheaven, Alada and ALAN JOE and 2 more. Browse upcoming dates, start times and who's playing. Wiesenweg 1-4, 10365 Berlin.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Tue, 21 Jul 2026 | ✦encore.une.fois✦ / INDOOR RAVE + OPEN AIR CHILL GARDEN | Encanto, Inverse Element, Ruslan Mays, Stephanie Sykes |
+| Tue, 21 Jul 2026 | ✦ ✦ encore.une.fois ✦ ✦ / INDOOR RAVE + OPEN AIR CHILL GARDEN | Encanto, Inverse Element, Ruslan Mays, Stephanie Sykes |
 | Fri, 24 Jul 2026 | MARICAS CSD [23 HOURS - OPEN AIR + INDOOR]  | Alírio, Bella Sarris, Berenice, CCL, Cashu, D. Tiffany, ISAbella, Introspekt, Jennifer Loveless, Miss Parker, Roza Terenzi, Verushka, acidheaven, ābnamā |
 | Sat, 25 Jul 2026 | CLASH CSD SPECIAL | ALAN JOE, Bill Sanders, Caleb ESC, Danny Roach, Rubberax, jardabpm |
 | Sun, 26 Jul 2026 | Hoe__mies PRIDE | Anita B Queen, Ase Manual, Asphodèle, BADSISTA, C.FRIM, Haus of Ralph, Kontronatura, Litney, MIRASIA, Nanoos, TEDESCO, Trigger T |
@@ -23,4 +23,4 @@ OXI is a music venue in Berlin listed on soundcheck. 23 upcoming nights, with li
 
 Wiesenweg 1-4, 10365 Berlin, Berlin
 
-*Updated Mon, 20 Jul 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/oxi/)*
+*Updated Tue, 21 Jul 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/oxi/)*

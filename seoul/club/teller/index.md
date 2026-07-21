@@ -1,6 +1,6 @@
 # teller
 
-teller is a music venue in Seoul with 3 upcoming nights listed on soundcheck as of Mon, 20 Jul 2026; the next is "Subtrance" on Fri, 24 Jul 2026.
+teller is a music venue in Seoul with 3 upcoming nights listed on soundcheck as of Tue, 21 Jul 2026; the next is "Subtrance" on Fri, 24 Jul 2026.
 
 teller is a music venue in Seoul listed on soundcheck. 3 upcoming nights, with line-ups including Jucid, Kibum, Krijka and Lyumin and 2 more. Browse upcoming dates, start times and who's playing. B1, 39, Usadan-ro, Yongsan-gu, Seoul.
 
@@ -16,4 +16,4 @@ teller is a music venue in Seoul listed on soundcheck. 3 upcoming nights, with l
 
 B1, 39, Usadan-ro, Yongsan-gu, Seoul, Seoul
 
-*Updated Mon, 20 Jul 2026 · source: [soundcheck](https://soundcheck.club/seoul/club/teller/)*
+*Updated Tue, 21 Jul 2026 · source: [soundcheck](https://soundcheck.club/seoul/club/teller/)*

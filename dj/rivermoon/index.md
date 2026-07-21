@@ -1,14 +1,15 @@
 # River Moon
 
-River Moon is a Techno and Club artist with 2 upcoming club dates listed on soundcheck as of Mon, 20 Jul 2026, next at TBA - Silverlake, Los Angeles on Fri, 24 Jul 2026.
+River Moon is a Techno and Club artist with 3 upcoming club dates listed on soundcheck as of Tue, 21 Jul 2026, next at TBA - Silverlake, Los Angeles on Fri, 24 Jul 2026.
 
-River Moon is a techno and club artist based in United States of America, tracked on soundcheck, with 87 sets logged across Amsterdam, Antwerp, Auckland and Barcelona and 19 more. Often billed alongside Only Fire, Goth Jafar and Memphy. Next up: TBA - Silverlake, Losangeles on Fri 24 Jul.
+River Moon is a techno and club artist based in United States of America, tracked on soundcheck, with 88 sets logged across Amsterdam, Antwerp, Auckland and Barcelona and 19 more. Often billed alongside Only Fire, Goth Jafar and Memphy. Next up: TBA - Silverlake, Losangeles on Fri 24 Jul.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 24 Jul 2026 | TBA - Silverlake | Los Angeles |
+| Sun, 26 Jul 2026 | The San Francisco Mint | San Francisco/Oakland |
 | Fri, 31 Jul 2026 | Concord Music Hall | Chicago |
 
 ## Recently played
@@ -26,4 +27,4 @@ River Moon is a techno and club artist based in United States of America, tracke
 
 Only Fire, Goth Jafar, Memphy
 
-*Updated Mon, 20 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/rivermoon/)*
+*Updated Tue, 21 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/rivermoon/)*

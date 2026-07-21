@@ -1,6 +1,6 @@
 # Vís (1)
 
-Vís (1) is a Techno and Dub artist with 2 upcoming club dates listed on soundcheck as of Mon, 20 Jul 2026, next at Club Daphnia, Osaka on Sat, 25 Jul 2026.
+Vís (1) is a Techno and Dub artist with 2 upcoming club dates listed on soundcheck as of Tue, 21 Jul 2026, next at Club Daphnia, Osaka on Sat, 25 Jul 2026.
 
 Vís (1) is a techno and dub artist tracked on soundcheck, with 122 sets logged across Kyoto, Osaka and Tokyo. Often billed alongside Ryogo, Chanaz and E.O.U. Next up: Club Daphnia, Osaka on Sat 25 Jul.
 
@@ -26,4 +26,4 @@ Vís (1) is a techno and dub artist tracked on soundcheck, with 122 sets logged 
 
 Ryogo, Chanaz, E.O.U
 
-*Updated Mon, 20 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/vís-1/)*
+*Updated Tue, 21 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/vís-1/)*

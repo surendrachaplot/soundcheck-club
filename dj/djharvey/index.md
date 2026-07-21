@@ -1,6 +1,6 @@
 # DJ Harvey
 
-DJ Harvey is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Mon, 20 Jul 2026, next at 528 Ibiza, Ibiza on Wed, 12 Aug 2026.
+DJ Harvey is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Tue, 21 Jul 2026, next at 528 Ibiza, Ibiza on Wed, 12 Aug 2026.
 
 DJ Harvey is a house and techno artist tracked on soundcheck, with 56 sets logged across Amsterdam, Austin, Bali and Chicago and 13 more. Often billed alongside Heidi Lawden, Natasha Diggs and Arianna Danae. Next up: 528 Ibiza, Ibiza on Wed 12 Aug.
 
@@ -26,4 +26,4 @@ DJ Harvey is a house and techno artist tracked on soundcheck, with 56 sets logge
 
 Heidi Lawden, Natasha Diggs, Arianna Danae
 
-*Updated Mon, 20 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/djharvey/)*
+*Updated Tue, 21 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/djharvey/)*

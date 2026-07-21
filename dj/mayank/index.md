@@ -1,6 +1,6 @@
 # Mayank
 
-Mayank is a Progressive House and Trance artist with 2 upcoming club dates listed on soundcheck as of Mon, 20 Jul 2026, next at The Barbary, Philadelphia on Sat, 25 Jul 2026.
+Mayank is a Progressive House and Trance artist with 2 upcoming club dates listed on soundcheck as of Tue, 21 Jul 2026, next at The Barbary, Philadelphia on Sat, 25 Jul 2026.
 
 Mayank is a progressive house and trance artist based in United States of America, tracked on soundcheck, with 36 sets logged across Philadelphia and Sanfrancisco. Often billed alongside Staysis, Maddalena and Miles Alexander. Next up: The Barbary, Philadelphia on Sat 25 Jul.
 
@@ -26,4 +26,4 @@ Mayank is a progressive house and trance artist based in United States of Americ
 
 Staysis, Maddalena, Miles Alexander
 
-*Updated Mon, 20 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/mayank/)*
+*Updated Tue, 21 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/mayank/)*

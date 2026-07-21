@@ -1,6 +1,6 @@
 # Serenne
 
-Serenne is a House and Minimal artist with 2 upcoming club dates listed on soundcheck as of Mon, 20 Jul 2026, next at Club der Visionaere, Berlin on Fri, 31 Jul 2026.
+Serenne is a House and Minimal artist with 2 upcoming club dates listed on soundcheck as of Tue, 21 Jul 2026, next at Club der Visionaere, Berlin on Fri, 31 Jul 2026.
 
 Serenne is a house and minimal artist based in Switzerland, tracked on soundcheck, with 37 sets logged across Amsterdam, Bangkok, Barcelona and Berlin and 14 more. Often billed alongside Konstantin, Edward and Leafar Legov. Next up: Club der Visionaere, Berlin on Fri 31 Jul.
 
@@ -26,4 +26,4 @@ Serenne is a house and minimal artist based in Switzerland, tracked on soundchec
 
 Konstantin, Edward, Leafar Legov
 
-*Updated Mon, 20 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/serenne/)*
+*Updated Tue, 21 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/serenne/)*

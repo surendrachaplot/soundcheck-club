@@ -1,8 +1,8 @@
 # Kyle Walker
 
-Kyle Walker is a House and Tech House artist with 2 upcoming club dates listed on soundcheck as of Mon, 20 Jul 2026, next at Halcyon, San Francisco/Oakland on Sat, 25 Jul 2026.
+Kyle Walker is a House and Tech House artist with 3 upcoming club dates listed on soundcheck as of Tue, 21 Jul 2026, next at Halcyon, San Francisco/Oakland on Sat, 25 Jul 2026.
 
-Kyle Walker is a house and tech house artist tracked on soundcheck, with 49 sets logged across Amsterdam, Austin, Chicago and Denver and 11 more. Often billed alongside Carlita, Chesster and Eli Brown. Next up: Halcyon, Sanfrancisco on Sat 25 Jul.
+Kyle Walker is a house and tech house artist tracked on soundcheck, with 50 sets logged across Amsterdam, Austin, Chicago and Denver and 11 more. Often billed alongside Carlita, Chesster and Eli Brown. Next up: Halcyon, Sanfrancisco on Sat 25 Jul.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Kyle Walker is a house and tech house artist tracked on soundcheck, with 49 sets
 | --- | --- | --- |
 | Sat, 25 Jul 2026 | Halcyon | San Francisco/Oakland |
 | Sat, 15 Aug 2026 | Elsewhere | New York City |
+| Sun, 16 Aug 2026 | Floyd | Miami |
 
 ## Recently played
 
@@ -26,4 +27,4 @@ Kyle Walker is a house and tech house artist tracked on soundcheck, with 49 sets
 
 Carlita, Chesster, Eli Brown
 
-*Updated Mon, 20 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/kylewalker/)*
+*Updated Tue, 21 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/kylewalker/)*

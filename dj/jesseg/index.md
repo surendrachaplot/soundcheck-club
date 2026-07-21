@@ -1,6 +1,6 @@
 # Jesse G
 
-Jesse G is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Mon, 20 Jul 2026, next at Else, Berlin on Sat, 25 Jul 2026.
+Jesse G is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Tue, 21 Jul 2026, next at Else, Berlin on Sat, 25 Jul 2026.
 
 Jesse G is a techno and house artist tracked on soundcheck, with 97 sets logged across Amsterdam, Bangkok, Berlin and Brussels and 15 more. Often billed alongside Blasha & Allatt, Jasmín and Katy De Jesus. Next up: Else, Berlin on Sat 25 Jul.
 
@@ -27,4 +27,4 @@ Jesse G is a techno and house artist tracked on soundcheck, with 97 sets logged 
 
 Blasha & Allatt, Jasmín, Katy De Jesus
 
-*Updated Mon, 20 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/jesseg/)*
+*Updated Tue, 21 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/jesseg/)*

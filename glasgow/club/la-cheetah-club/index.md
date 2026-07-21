@@ -1,8 +1,8 @@
 # La Cheetah Club
 
-La Cheetah Club is a music venue in Glasgow with 14 upcoming nights listed on soundcheck as of Mon, 20 Jul 2026; the next is "One Under presents: Dec Duffy" on Thu, 23 Jul 2026.
+La Cheetah Club is a music venue in Glasgow with 15 upcoming nights listed on soundcheck as of Tue, 21 Jul 2026; the next is "One Under presents: Dec Duffy" on Thu, 23 Jul 2026.
 
-La Cheetah Club is a music venue in Glasgow listed on soundcheck. 14 upcoming nights, with line-ups including Boss Priester, Bristol Luke, Co-Accused and Corran and 2 more. Browse upcoming dates, start times and who's playing. Basement, 73 Queen Street; Glasgow, G1 3BZ; Scotland; United Kingdom.
+La Cheetah Club is a music venue in Glasgow listed on soundcheck. 15 upcoming nights, with line-ups including Boss Priester, Bristol Luke, Co-Accused and Corran and 2 more. Browse upcoming dates, start times and who's playing. Basement, 73 Queen Street; Glasgow, G1 3BZ; Scotland; United Kingdom.
 
 ## What's on
 
@@ -23,4 +23,4 @@ La Cheetah Club is a music venue in Glasgow listed on soundcheck. 14 upcoming ni
 
 Basement, 73 Queen Street; Glasgow, G1 3BZ; Scotland; United Kingdom, Glasgow
 
-*Updated Mon, 20 Jul 2026 · source: [soundcheck](https://soundcheck.club/glasgow/club/la-cheetah-club/)*
+*Updated Tue, 21 Jul 2026 · source: [soundcheck](https://soundcheck.club/glasgow/club/la-cheetah-club/)*

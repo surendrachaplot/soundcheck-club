@@ -1,6 +1,6 @@
 # The Biscuit Factory
 
-The Biscuit Factory is a music venue in Edinburgh with 1 upcoming night listed on soundcheck as of Mon, 20 Jul 2026; the next is "Femmergy Fringe" on Fri, 21 Aug 2026.
+The Biscuit Factory is a music venue in Edinburgh with 1 upcoming night listed on soundcheck as of Tue, 21 Jul 2026; the next is "Femmergy Fringe" on Fri, 21 Aug 2026.
 
 The Biscuit Factory is a music venue in Edinburgh listed on soundcheck. 1 upcoming night. Browse upcoming dates, start times and who's playing. 4-6 Anderson Place, Edinburgh, EH6 5NP.
 
@@ -14,4 +14,4 @@ The Biscuit Factory is a music venue in Edinburgh listed on soundcheck. 1 upcomi
 
 4-6 Anderson Place, Edinburgh, EH6 5NP, Edinburgh
 
-*Updated Mon, 20 Jul 2026 · source: [soundcheck](https://soundcheck.club/edinburgh/club/the-biscuit-factory/)*
+*Updated Tue, 21 Jul 2026 · source: [soundcheck](https://soundcheck.club/edinburgh/club/the-biscuit-factory/)*

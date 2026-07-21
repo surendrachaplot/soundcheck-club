@@ -1,8 +1,8 @@
 # Cinetol
 
-Cinetol is a music venue in Amsterdam with 8 upcoming nights listed on soundcheck as of Mon, 20 Jul 2026; the next is "TEXTURES | dj serko + lance laoyan (live) + knee deep in custard" on Fri, 24 Jul 2026.
+Cinetol is a music venue in Amsterdam with 9 upcoming nights listed on soundcheck as of Tue, 21 Jul 2026; the next is "TEXTURES | dj serko + lance laoyan (live) + knee deep in custard" on Fri, 24 Jul 2026.
 
-Cinetol is a music venue in Amsterdam listed on soundcheck. 8 upcoming nights, with line-ups including Camy Huot, Deep Forest, Dj Serko and Entrp and 2 more. Browse upcoming dates, start times and who's playing. Tolstraat 182, 1074VM Amsterdam.
+Cinetol is a music venue in Amsterdam listed on soundcheck. 9 upcoming nights, with line-ups including Camy Huot, Deep Forest, Dj Serko and Entrp and 2 more. Browse upcoming dates, start times and who's playing. Tolstraat 182, 1074VM Amsterdam.
 
 ## What's on
 
@@ -16,9 +16,10 @@ Cinetol is a music venue in Amsterdam listed on soundcheck. 8 upcoming nights, w
 | Sat, 26 Sept 2026 | Shadowfall Festival 2026 | Camy Huot, Entrp |
 | Tue, 6 Oct 2026 | Deep Forest | Deep Forest |
 | Sat, 17 Oct 2026 | Sergeant |  |
+| Sun, 18 Oct 2026 | Born at Midnite |  |
 
 ## Address
 
 Tolstraat 182, 1074VM Amsterdam, Amsterdam
 
-*Updated Mon, 20 Jul 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/cinetol/)*
+*Updated Tue, 21 Jul 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/cinetol/)*

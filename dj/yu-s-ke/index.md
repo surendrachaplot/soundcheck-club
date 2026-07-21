@@ -1,6 +1,6 @@
 # YU-S-KE
 
-YU-S-KE is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Mon, 20 Jul 2026, next at BRAND SHIBUYA, Tokyo on Thu, 23 Jul 2026.
+YU-S-KE is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Tue, 21 Jul 2026, next at BRAND SHIBUYA, Tokyo on Thu, 23 Jul 2026.
 
 YU-S-KE is a techno and house artist tracked on soundcheck, with 56 sets logged across Tokyo. Often billed alongside Q'hey, Takami and ni-21. Next up: BRAND SHIBUYA, Tokyo on Thu 23 Jul.
 
@@ -26,4 +26,4 @@ YU-S-KE is a techno and house artist tracked on soundcheck, with 56 sets logged 
 
 Q'hey, Takami, ni-21
 
-*Updated Mon, 20 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/yu-s-ke/)*
+*Updated Tue, 21 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/yu-s-ke/)*

@@ -1,6 +1,6 @@
 # Juana
 
-Juana is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Mon, 20 Jul 2026, next at Nowadays, New York City on Sat, 25 Jul 2026.
+Juana is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Tue, 21 Jul 2026, next at Nowadays, New York City on Sat, 25 Jul 2026.
 
 Juana is a techno and house artist tracked on soundcheck, with 116 sets logged across Austin, Berlin, Chicago and Denver and 11 more. Often billed alongside Ne/Re/A, Concrete Husband and Volvox. Next up: Nowadays, Newyorkcity on Sat 25 Jul.
 
@@ -26,4 +26,4 @@ Juana is a techno and house artist tracked on soundcheck, with 116 sets logged a
 
 Ne/Re/A, Concrete Husband, Volvox
 
-*Updated Mon, 20 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/juana/)*
+*Updated Tue, 21 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/juana/)*

@@ -1,8 +1,8 @@
 # Mark Farina
 
-Mark Farina is a House and Deep House artist with 2 upcoming club dates listed on soundcheck as of Mon, 20 Jul 2026, next at Flash, Washington DC on Fri, 14 Aug 2026.
+Mark Farina is a House and Deep House artist with 3 upcoming club dates listed on soundcheck as of Tue, 21 Jul 2026, next at Flash, Washington DC on Fri, 14 Aug 2026.
 
-Mark Farina is a house and deep house artist tracked on soundcheck, with 116 sets logged across Antwerp, Auckland, Chicago and Denver and 20 more. Often billed alongside DJ Heather, Derrick Carter and Doc Martin. Next up: Flash, Washingtondc on Fri 14 Aug.
+Mark Farina is a house and deep house artist tracked on soundcheck, with 117 sets logged across Antwerp, Auckland, Chicago and Denver and 20 more. Often billed alongside DJ Heather, Derrick Carter and Doc Martin. Next up: Flash, Washingtondc on Fri 14 Aug.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Mark Farina is a house and deep house artist tracked on soundcheck, with 116 set
 | --- | --- | --- |
 | Fri, 14 Aug 2026 | Flash | Washington DC |
 | Sun, 6 Sept 2026 | Catalina Classic Cruises | Los Angeles |
+| Fri, 11 Sept 2026 | The Pearl | Vancouver |
 
 ## Recently played
 
@@ -26,4 +27,4 @@ Mark Farina is a house and deep house artist tracked on soundcheck, with 116 set
 
 DJ Heather, Derrick Carter, Doc Martin
 
-*Updated Mon, 20 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/markfarina/)*
+*Updated Tue, 21 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/markfarina/)*

@@ -1,6 +1,6 @@
 # Skeptical
 
-Skeptical is a Drum & Bass and Jungle artist with 2 upcoming club dates listed on soundcheck as of Mon, 20 Jul 2026, next at The Cause, London on Sat, 22 Aug 2026.
+Skeptical is a Drum & Bass and Jungle artist with 2 upcoming club dates listed on soundcheck as of Tue, 21 Jul 2026, next at The Cause, London on Sat, 22 Aug 2026.
 
 Skeptical is a drum & bass and jungle artist tracked on soundcheck, with 67 sets logged across Amsterdam, Antwerp, Auckland and Basel and 24 more. Often billed alongside SP:MC, MC GQ and Break. Next up: The Cause, London on Sat 22 Aug.
 
@@ -26,4 +26,4 @@ Skeptical is a drum & bass and jungle artist tracked on soundcheck, with 67 sets
 
 SP:MC, MC GQ, Break
 
-*Updated Mon, 20 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/skeptical/)*
+*Updated Tue, 21 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/skeptical/)*

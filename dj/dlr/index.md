@@ -1,6 +1,6 @@
 # DLR
 
-DLR is a Drum & Bass and Jungle artist with 2 upcoming club dates listed on soundcheck as of Mon, 20 Jul 2026, next at Chinastraat, Ghent on Sat, 8 Aug 2026.
+DLR is a Drum & Bass and Jungle artist with 2 upcoming club dates listed on soundcheck as of Tue, 21 Jul 2026, next at Chinastraat, Ghent on Sat, 8 Aug 2026.
 
 DLR is a drum & bass and jungle artist based in United Kingdom, tracked on soundcheck, with 64 sets logged across Amsterdam, Auckland, Berlin and Birmingham and 21 more. Often billed alongside MC Gusto, Gusto and Break. Next up: Chinastraat, Ghent on Sat 8 Aug.
 
@@ -26,4 +26,4 @@ DLR is a drum & bass and jungle artist based in United Kingdom, tracked on sound
 
 MC Gusto, Gusto, Break
 
-*Updated Mon, 20 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/dlr/)*
+*Updated Tue, 21 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/dlr/)*

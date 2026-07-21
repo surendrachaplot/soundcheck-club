@@ -1,6 +1,6 @@
 # Francesco Carvetta
 
-Francesco Carvetta is a Electronica and House artist with 2 upcoming club dates listed on soundcheck as of Mon, 20 Jul 2026, next at Les Enfants Brillants, Barcelona on Fri, 24 Jul 2026.
+Francesco Carvetta is a Electronica and House artist with 2 upcoming club dates listed on soundcheck as of Tue, 21 Jul 2026, next at Les Enfants Brillants, Barcelona on Fri, 24 Jul 2026.
 
 Francesco Carvetta is an electronica and house artist tracked on soundcheck, with 30 sets logged across Barcelona, Berlin, Ibiza and London and 4 more. Often billed alongside Hitch, Jorge Escribano and Avo (ES). Next up: Les Enfants Brillants, Barcelona on Fri 24 Jul.
 
@@ -26,4 +26,4 @@ Francesco Carvetta is an electronica and house artist tracked on soundcheck, wit
 
 Hitch, Jorge Escribano, Avo (ES)
 
-*Updated Mon, 20 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/francescocarvetta/)*
+*Updated Tue, 21 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/francescocarvetta/)*

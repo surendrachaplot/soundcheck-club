@@ -1,6 +1,6 @@
 # EL SÓTANO
 
-EL SÓTANO is a music venue in Madrid with 27 upcoming nights listed on soundcheck as of Mon, 20 Jul 2026; the next is "DANZE AFRIKA: DJ Mois, DJ MBA" on Thu, 23 Jul 2026.
+EL SÓTANO is a music venue in Madrid with 27 upcoming nights listed on soundcheck as of Tue, 21 Jul 2026; the next is "DANZE AFRIKA: DJ Mois, DJ MBA" on Thu, 23 Jul 2026.
 
 EL SÓTANO is a music venue in Madrid listed on soundcheck. 27 upcoming nights, with line-ups including Adrian Mart, Alejandro Fernandez, Alvaro Cabana and Arok Shiva and 2 more. Browse upcoming dates, start times and who's playing. Calle de las Maldonadas, 6, 28005 Madrid, España.
 
@@ -23,4 +23,4 @@ EL SÓTANO is a music venue in Madrid listed on soundcheck. 27 upcoming nights, 
 
 Calle de las Maldonadas, 6, 28005 Madrid, España, Madrid
 
-*Updated Mon, 20 Jul 2026 · source: [soundcheck](https://soundcheck.club/madrid/club/el-s-tano/)*
+*Updated Tue, 21 Jul 2026 · source: [soundcheck](https://soundcheck.club/madrid/club/el-s-tano/)*

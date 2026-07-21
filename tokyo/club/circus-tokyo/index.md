@@ -1,14 +1,13 @@
 # Circus Tokyo
 
-Circus Tokyo is a music venue in Tokyo with 10 upcoming nights listed on soundcheck as of Mon, 20 Jul 2026; the next is "beastboi. Tokyo show by Beginning" on Mon, 20 Jul 2026.
+Circus Tokyo is a music venue in Tokyo with 9 upcoming nights listed on soundcheck as of Tue, 21 Jul 2026; the next is "Onra LIVE IN TOKYO Supported by EPICK" on Tue, 21 Jul 2026.
 
-Circus Tokyo is a music venue in Tokyo listed on soundcheck. 10 upcoming nights, with line-ups including Acidclank, ACKERMAN, ACKERMAN (2) and AKARI and 2 more. Browse upcoming dates, start times and who's playing. 3-26-16 Shibuya, Shibuya-ku, Tokyo, Japan, 150-0002.
+Circus Tokyo is a music venue in Tokyo listed on soundcheck. 9 upcoming nights, with line-ups including Acidclank, ACKERMAN, ACKERMAN (2) and AKARI and 2 more. Browse upcoming dates, start times and who's playing. 3-26-16 Shibuya, Shibuya-ku, Tokyo, Japan, 150-0002.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Mon, 20 Jul 2026 | beastboi. Tokyo show by Beginning | Aura, R1pq, RED-S, SAKO, Tekkempop!!!, Watei |
 | Tue, 21 Jul 2026 | Onra LIVE IN TOKYO Supported by EPICK | Onra |
 | Sat, 25 Jul 2026 | tofubeats - Angels On The Dancefloor Release party -TOKYO- | Guchon, Shinichiro Yokota |
 | Fri, 31 Jul 2026 | Universal Music Box 3rd Anniversary | E.O.U, HAYATE, Merco Ben, Nikki Nair |
@@ -23,4 +22,4 @@ Circus Tokyo is a music venue in Tokyo listed on soundcheck. 10 upcoming nights,
 
 3-26-16 Shibuya, Shibuya-ku, Tokyo, Japan, 150-0002, Tokyo
 
-*Updated Mon, 20 Jul 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/circus-tokyo/)*
+*Updated Tue, 21 Jul 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/circus-tokyo/)*

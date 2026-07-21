@@ -1,6 +1,6 @@
 # Ace Hotel Toronto
 
-Ace Hotel Toronto is a music venue in Toronto with 1 upcoming night listed on soundcheck as of Mon, 20 Jul 2026; the next is "Sunday Live" on Sun, 26 Jul 2026.
+Ace Hotel Toronto is a music venue in Toronto with 1 upcoming night listed on soundcheck as of Tue, 21 Jul 2026; the next is "Sunday Live" on Sun, 26 Jul 2026.
 
 Ace Hotel Toronto is a music venue in Toronto listed on soundcheck. 1 upcoming night. Browse upcoming dates, start times and who's playing. 51 Camden St, Toronto, ON M5V 1V2.
 
@@ -14,4 +14,4 @@ Ace Hotel Toronto is a music venue in Toronto listed on soundcheck. 1 upcoming n
 
 51 Camden St, Toronto, ON M5V 1V2, Toronto
 
-*Updated Mon, 20 Jul 2026 · source: [soundcheck](https://soundcheck.club/toronto/club/ace-hotel-toronto/)*
+*Updated Tue, 21 Jul 2026 · source: [soundcheck](https://soundcheck.club/toronto/club/ace-hotel-toronto/)*

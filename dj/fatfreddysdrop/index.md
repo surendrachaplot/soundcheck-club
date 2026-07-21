@@ -1,6 +1,6 @@
 # Fat Freddys Drop
 
-Fat Freddys Drop is a Dub and Funk / Soul artist with 3 upcoming club dates listed on soundcheck as of Mon, 20 Jul 2026, next at La Riviera, Madrid on Thu, 24 Sept 2026.
+Fat Freddys Drop is a Dub and Funk / Soul artist with 3 upcoming club dates listed on soundcheck as of Tue, 21 Jul 2026, next at La Riviera, Madrid on Thu, 24 Sept 2026.
 
 Fat Freddys Drop is a dub and funk / soul artist tracked on soundcheck, with 9 sets logged across Barcelona, Birmingham, Budapest and London and 4 more. Often billed alongside Norman Jay, Crazy P and Emma-Jean Thackray. Next up: La Riviera, Madrid on Thu 24 Sept.
 
@@ -25,4 +25,4 @@ Fat Freddys Drop is a dub and funk / soul artist tracked on soundcheck, with 9 s
 
 Norman Jay, Crazy P, Emma-Jean Thackray
 
-*Updated Mon, 20 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/fatfreddysdrop/)*
+*Updated Tue, 21 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/fatfreddysdrop/)*

@@ -1,6 +1,6 @@
 # DJ S (UK)
 
-DJ S (UK) is a House and Tech House artist with 3 upcoming club dates listed on soundcheck as of Mon, 20 Jul 2026, next at Ijland, Amsterdam on Thu, 23 Jul 2026.
+DJ S (UK) is a House and Tech House artist with 3 upcoming club dates listed on soundcheck as of Tue, 21 Jul 2026, next at Ijland, Amsterdam on Thu, 23 Jul 2026.
 
 DJ S (UK) is a house and tech house artist tracked on soundcheck, with 160 sets logged across Amsterdam, Athens, Bangkok and Belfast and 27 more. Often billed alongside Shenin Amara, Jerome Six and JAYDAA. Next up: Ijland, Amsterdam on Thu 23 Jul.
 
@@ -27,4 +27,4 @@ DJ S (UK) is a house and tech house artist tracked on soundcheck, with 160 sets 
 
 Shenin Amara, Jerome Six, JAYDAA
 
-*Updated Mon, 20 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/djs-uk/)*
+*Updated Tue, 21 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/djs-uk/)*

@@ -1,6 +1,6 @@
 # Wilhelm-Külz Park
 
-Wilhelm-Külz Park is a music venue in Leipzig with 1 upcoming night listed on soundcheck as of Mon, 20 Jul 2026; the next is "Rave For Peace Open Air 2026" on Sat, 1 Aug 2026.
+Wilhelm-Külz Park is a music venue in Leipzig with 1 upcoming night listed on soundcheck as of Tue, 21 Jul 2026; the next is "Rave For Peace Open Air 2026" on Sat, 1 Aug 2026.
 
 Wilhelm-Külz Park is a music venue in Leipzig listed on soundcheck. 1 upcoming night, with line-ups including DJ STIMULA, ELOISA, Salzbauer and two girls one mom. Browse upcoming dates, start times and who's playing. Wilhelm Külz Park, 04103 Leipzig, Deutschland.
 
@@ -14,4 +14,4 @@ Wilhelm-Külz Park is a music venue in Leipzig listed on soundcheck. 1 upcoming 
 
 Wilhelm Külz Park, 04103 Leipzig, Deutschland, Leipzig
 
-*Updated Mon, 20 Jul 2026 · source: [soundcheck](https://soundcheck.club/leipzig/club/wilhelm-k-lz-park/)*
+*Updated Tue, 21 Jul 2026 · source: [soundcheck](https://soundcheck.club/leipzig/club/wilhelm-k-lz-park/)*

@@ -1,6 +1,6 @@
 # Grooverider
 
-Grooverider is a Drum & Bass and Jungle artist with 7 upcoming club dates listed on soundcheck as of Mon, 20 Jul 2026, next at fabric, London on Fri, 24 Jul 2026.
+Grooverider is a Drum & Bass and Jungle artist with 7 upcoming club dates listed on soundcheck as of Tue, 21 Jul 2026, next at fabric, London on Fri, 24 Jul 2026.
 
 Grooverider is a drum & bass and jungle artist tracked on soundcheck, with 120 sets logged across Amsterdam, Bali, Bangkok and Berlin and 18 more. Often billed alongside Fabio, Ray Keith and Nicky Blackmarket. Next up: fabric, London on Fri 24 Jul.
 
@@ -31,4 +31,4 @@ Grooverider is a drum & bass and jungle artist tracked on soundcheck, with 120 s
 
 Fabio, Ray Keith, Nicky Blackmarket
 
-*Updated Mon, 20 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/grooverider/)*
+*Updated Tue, 21 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/grooverider/)*

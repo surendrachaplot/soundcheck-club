@@ -1,6 +1,6 @@
 # Nina Yamada
 
-Nina Yamada is a House and Jazz artist with 3 upcoming club dates listed on soundcheck as of Mon, 20 Jul 2026, next at Tola, London on Fri, 24 Jul 2026.
+Nina Yamada is a House and Jazz artist with 3 upcoming club dates listed on soundcheck as of Tue, 21 Jul 2026, next at Tola, London on Fri, 24 Jul 2026.
 
 Nina Yamada is a house and jazz artist tracked on soundcheck, with 56 sets logged across Bangkok, Berlin, Birmingham and Brighton and 7 more. Often billed alongside Tonydot, Ozwick and Joi La Frique. Next up: Tola, London on Fri 24 Jul.
 
@@ -27,4 +27,4 @@ Nina Yamada is a house and jazz artist tracked on soundcheck, with 56 sets logge
 
 Tonydot, Ozwick, Joi La Frique
 
-*Updated Mon, 20 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/ninayamada/)*
+*Updated Tue, 21 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/ninayamada/)*

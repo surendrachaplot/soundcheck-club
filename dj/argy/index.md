@@ -1,6 +1,6 @@
 # Argy
 
-Argy is a Techno and House artist with 4 upcoming club dates listed on soundcheck as of Mon, 20 Jul 2026, next at [UNVRS], Ibiza on Tue, 21 Jul 2026.
+Argy is a Techno and House artist with 4 upcoming club dates listed on soundcheck as of Tue, 21 Jul 2026, next at [UNVRS], Ibiza on Tue, 21 Jul 2026.
 
 Argy is a techno and house artist tracked on soundcheck, with 112 sets logged across Amsterdam, Athens, Austin and Bali and 38 more. Often billed alongside Tale Of Us, Artbat and Chris Avantgarde. Next up: [UNVRS], Ibiza on Tue 21 Jul.
 
@@ -28,4 +28,4 @@ Argy is a techno and house artist tracked on soundcheck, with 112 sets logged ac
 
 Tale Of Us, Artbat, Chris Avantgarde
 
-*Updated Mon, 20 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/argy/)*
+*Updated Tue, 21 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/argy/)*

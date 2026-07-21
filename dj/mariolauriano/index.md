@@ -1,6 +1,6 @@
 # Mario Lauriano
 
-Mario Lauriano is a electronic artist with 2 upcoming club dates listed on soundcheck as of Mon, 20 Jul 2026, next at Minimal Bar, Berlin on Sat, 1 Aug 2026.
+Mario Lauriano is a electronic artist with 2 upcoming club dates listed on soundcheck as of Tue, 21 Jul 2026, next at Minimal Bar, Berlin on Sat, 1 Aug 2026.
 
 Mario Lauriano is an electronic artist based in Italy, tracked on soundcheck, with 26 sets logged across Berlin. Often billed alongside DJ Haribo, Latnam and Viktor Kampf. Next up: Minimal Bar, Berlin on Sat 1 Aug.
 
@@ -26,4 +26,4 @@ Mario Lauriano is an electronic artist based in Italy, tracked on soundcheck, wi
 
 DJ Haribo, Latnam, Viktor Kampf
 
-*Updated Mon, 20 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/mariolauriano/)*
+*Updated Tue, 21 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/mariolauriano/)*

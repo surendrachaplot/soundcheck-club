@@ -1,6 +1,6 @@
 # The Chemist
 
-The Chemist is a music venue in Boston with 2 upcoming nights listed on soundcheck as of Mon, 20 Jul 2026; the next is "Stereo33: Fairteh, Camila, Raya, Crown Vic" on Fri, 24 Jul 2026.
+The Chemist is a music venue in Boston with 2 upcoming nights listed on soundcheck as of Tue, 21 Jul 2026; the next is "Stereo33: Fairteh, Camila, Raya, Crown Vic" on Fri, 24 Jul 2026.
 
 The Chemist is a music venue in Boston listed on soundcheck. 2 upcoming nights, with line-ups including Camila (2) and RAYA (3). Browse upcoming dates, start times and who's playing. 109 High St, Boston, MA, 02110.
 
@@ -15,4 +15,4 @@ The Chemist is a music venue in Boston listed on soundcheck. 2 upcoming nights, 
 
 109 High St, Boston, MA, 02110, Boston
 
-*Updated Mon, 20 Jul 2026 · source: [soundcheck](https://soundcheck.club/boston/club/the-chemist/)*
+*Updated Tue, 21 Jul 2026 · source: [soundcheck](https://soundcheck.club/boston/club/the-chemist/)*

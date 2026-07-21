@@ -1,6 +1,6 @@
 # Damian Lazarus
 
-Damian Lazarus is a House and Techno artist with 6 upcoming club dates listed on soundcheck as of Mon, 20 Jul 2026, next at Club Space Miami, Miami on Sat, 25 Jul 2026.
+Damian Lazarus is a House and Techno artist with 6 upcoming club dates listed on soundcheck as of Tue, 21 Jul 2026, next at Club Space Miami, Miami on Sat, 25 Jul 2026.
 
 Damian Lazarus is a house and techno artist tracked on soundcheck, with 199 sets logged across Amsterdam, Antwerp, Athens and Bali and 32 more. Often billed alongside Black Coffee, Paul Reynolds and Cameron Jack. Next up: Club Space Miami, Miami on Sat 25 Jul.
 
@@ -30,4 +30,4 @@ Damian Lazarus is a house and techno artist tracked on soundcheck, with 199 sets
 
 Black Coffee, Paul Reynolds, Cameron Jack
 
-*Updated Mon, 20 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/damianlazarus/)*
+*Updated Tue, 21 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/damianlazarus/)*

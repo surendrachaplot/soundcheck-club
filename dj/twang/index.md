@@ -1,6 +1,6 @@
 # Twang
 
-Twang is a Techno and Trance artist with 4 upcoming club dates listed on soundcheck as of Mon, 20 Jul 2026, next at Distillery N17, London on Fri, 31 Jul 2026.
+Twang is a Techno and Trance artist with 4 upcoming club dates listed on soundcheck as of Tue, 21 Jul 2026, next at Distillery N17, London on Fri, 31 Jul 2026.
 
 Twang is a techno and trance artist tracked on soundcheck, with 36 sets logged across Athens, Leipzig, London and Madrid. Often billed alongside TEDESCO, THEMPRESS and ASHTREY. Next up: Distillery N17, London on Fri 31 Jul.
 
@@ -28,4 +28,4 @@ Twang is a techno and trance artist tracked on soundcheck, with 36 sets logged a
 
 TEDESCO, THEMPRESS, ASHTREY
 
-*Updated Mon, 20 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/twang/)*
+*Updated Tue, 21 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/twang/)*

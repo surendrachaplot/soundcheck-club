@@ -1,6 +1,6 @@
 # Bull Horris
 
-Bull Horris is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Mon, 20 Jul 2026, next at The Oh Yeah Centre, Belfast on Sat, 25 Jul 2026.
+Bull Horris is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Tue, 21 Jul 2026, next at The Oh Yeah Centre, Belfast on Sat, 25 Jul 2026.
 
 Bull Horris is a techno and house artist tracked on soundcheck, with 34 sets logged across Belfast, Berlin, Dublin and London and 1 more. Often billed alongside Mercorn, Tadhg K and Cáit. Next up: The Oh Yeah Centre, Belfast on Sat 25 Jul.
 
@@ -26,4 +26,4 @@ Bull Horris is a techno and house artist tracked on soundcheck, with 34 sets log
 
 Mercorn, Tadhg K, Cáit
 
-*Updated Mon, 20 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/bullhorris/)*
+*Updated Tue, 21 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/bullhorris/)*

@@ -1,14 +1,13 @@
 # Club Metro
 
-Club Metro is a music venue in Kyoto with 26 upcoming nights listed on soundcheck as of Mon, 20 Jul 2026; the next is "「概念」" on Mon, 20 Jul 2026.
+Club Metro is a music venue in Kyoto with 25 upcoming nights listed on soundcheck as of Tue, 21 Jul 2026; the next is "【536420】 -5364 20周年記念特別興行-" on Wed, 22 Jul 2026.
 
-Club Metro is a music venue in Kyoto listed on soundcheck. 26 upcoming nights, with line-ups including DJ KAZUMA, DJ Kensei, Doltz and imus and 2 more. Browse upcoming dates, start times and who's playing. 82 Simodutsumicho, Kawabata Marutamachi, Sakyo-ku, Kyoto-shi, 606-8396 Japan.
+Club Metro is a music venue in Kyoto listed on soundcheck. 25 upcoming nights, with line-ups including DJ KAZUMA, DJ Kensei, Doltz and imus and 2 more. Browse upcoming dates, start times and who's playing. 82 Simodutsumicho, Kawabata Marutamachi, Sakyo-ku, Kyoto-shi, 606-8396 Japan.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Mon, 20 Jul 2026 | 「概念」 |  |
 | Wed, 22 Jul 2026 | 【536420】 -5364 20周年記念特別興行- |  |
 | Thu, 23 Jul 2026 | SOUND BAR METRO |  |
 | Fri, 24 Jul 2026 | Sound Bath | DJ Kensei, Natsuki |
@@ -18,9 +17,10 @@ Club Metro is a music venue in Kyoto listed on soundcheck. 26 upcoming nights, w
 | Thu, 30 Jul 2026 | Takashi Mori electric drum solo performance 'PROTOTYPES' | Takashi Mori |
 | Fri, 31 Jul 2026 | ギターウルフ７年ぶりのニューアルバム'MORE JET'リリース記念 『シーラカンスギャラクシーツアー！』京都編 |  |
 | Fri, 31 Jul 2026 | DIAMONDS ARE FOREVER presents MIDNIGHT MADNESS |  |
+| Sat, 1 Aug 2026 | 躍動は聴こえないvol.3 presented by 京都I博 |  |
 
 ## Address
 
 82 Simodutsumicho, Kawabata Marutamachi, Sakyo-ku, Kyoto-shi, 606-8396 Japan, Kyoto
 
-*Updated Mon, 20 Jul 2026 · source: [soundcheck](https://soundcheck.club/kyoto/club/club-metro/)*
+*Updated Tue, 21 Jul 2026 · source: [soundcheck](https://soundcheck.club/kyoto/club/club-metro/)*

@@ -1,6 +1,6 @@
 # mu”he
 
-mu”he is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Mon, 20 Jul 2026, next at Tempio del Futuro Perduto, Milan on Fri, 31 Jul 2026.
+mu”he is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Tue, 21 Jul 2026, next at Tempio del Futuro Perduto, Milan on Fri, 31 Jul 2026.
 
 mu”he is a techno and house artist tracked on soundcheck, with 44 sets logged across Bangkok, Berlin, Leipzig and Milan and 5 more. Often billed alongside Mark Shephard, DJ TOOL and Satomicus. Next up: Tempio del Futuro Perduto, Milan on Fri 31 Jul.
 
@@ -26,4 +26,4 @@ mu”he is a techno and house artist tracked on soundcheck, with 44 sets logged 
 
 Mark Shephard, DJ TOOL, Satomicus
 
-*Updated Mon, 20 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/muhe/)*
+*Updated Tue, 21 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/muhe/)*

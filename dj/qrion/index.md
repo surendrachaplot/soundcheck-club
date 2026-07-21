@@ -1,6 +1,6 @@
 # Qrion
 
-Qrion is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Mon, 20 Jul 2026, next at Waterfront Park in San Diego, San Diego on Sun, 9 Aug 2026.
+Qrion is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Tue, 21 Jul 2026, next at Waterfront Park in San Diego, San Diego on Sun, 9 Aug 2026.
 
 Qrion is a house and techno artist based in Japan, tracked on soundcheck, with 67 sets logged across Amsterdam, Austin, Bali and Chicago and 25 more. Often billed alongside Nicky Elisabeth, Rezident and Romain Garcia. Next up: Waterfront Park in San Diego, Sandiego on Sun 9 Aug.
 
@@ -26,4 +26,4 @@ Qrion is a house and techno artist based in Japan, tracked on soundcheck, with 6
 
 Nicky Elisabeth, Rezident, Romain Garcia
 
-*Updated Mon, 20 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/qrion/)*
+*Updated Tue, 21 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/qrion/)*

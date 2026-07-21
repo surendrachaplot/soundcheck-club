@@ -1,10 +1,10 @@
 # Summer Sunsets with Goldcap & Lohrasp Kansara at Public Roof
 
-Summer Sunsets with Goldcap & Lohrasp Kansara at Public Roof on Sat 18 Jul, Newyorkcity. 1 act on the bill: Goldcap. House and Afro House. Preview the line-up and save it on soundcheck.
+Summer Sunsets with Goldcap & Lohrasp Kansara at Public Roof on Fri 14 Aug, Newyorkcity. 1 act on the bill: Goldcap. House and Afro House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
-| Date | Sat, 18 Jul 2026 |
+| Date | Fri, 14 Aug 2026 |
 | Venue | Public Roof |
 | City | New York City |
 

@@ -1,6 +1,6 @@
 # Wildealer
 
-Wildealer is a House and Tech House artist with 2 upcoming club dates listed on soundcheck as of Mon, 20 Jul 2026, next at DC-10, Ibiza on Mon, 3 Aug 2026.
+Wildealer is a House and Tech House artist with 2 upcoming club dates listed on soundcheck as of Tue, 21 Jul 2026, next at DC-10, Ibiza on Mon, 3 Aug 2026.
 
 Wildealer is a house and tech house artist based in Thailand, tracked on soundcheck, with 41 sets logged across Amsterdam, Bangkok, Ibiza and Kualalumpur and 3 more. Often billed alongside IYY (TH), PunTue and Meltmode (2). Next up: DC-10, Ibiza on Mon 3 Aug.
 
@@ -26,4 +26,4 @@ Wildealer is a house and tech house artist based in Thailand, tracked on soundch
 
 IYY (TH), PunTue, Meltmode (2)
 
-*Updated Mon, 20 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/wildealer/)*
+*Updated Tue, 21 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/wildealer/)*

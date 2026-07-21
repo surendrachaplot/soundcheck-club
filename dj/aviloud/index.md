@@ -1,6 +1,6 @@
 # Avi Loud
 
-Avi Loud is a House and Club artist with 2 upcoming club dates listed on soundcheck as of Mon, 20 Jul 2026, next at Homage Brewing, Los Angeles on Fri, 24 Jul 2026.
+Avi Loud is a House and Club artist with 2 upcoming club dates listed on soundcheck as of Tue, 21 Jul 2026, next at Homage Brewing, Los Angeles on Fri, 24 Jul 2026.
 
 Avi Loud is a house and club artist based in United States of America, tracked on soundcheck, with 45 sets logged across Chicago, Losangeles, Newyorkcity and Sandiego and 2 more. Often billed alongside Liano, Oak City Slums and Andy Oro. Next up: Homage Brewing, Losangeles on Fri 24 Jul.
 
@@ -26,4 +26,4 @@ Avi Loud is a house and club artist based in United States of America, tracked o
 
 Liano, Oak City Slums, Andy Oro
 
-*Updated Mon, 20 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/aviloud/)*
+*Updated Tue, 21 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/aviloud/)*

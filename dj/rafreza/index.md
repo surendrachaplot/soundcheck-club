@@ -1,14 +1,15 @@
 # Raf Reza
 
-Raf Reza is a House and Dub artist with 2 upcoming club dates listed on soundcheck as of Mon, 20 Jul 2026, next at Trillium Park, Toronto on Sat, 25 Jul 2026.
+Raf Reza is a House and Dub artist with 3 upcoming club dates listed on soundcheck as of Tue, 21 Jul 2026, next at Trillium Park, Toronto on Sat, 25 Jul 2026.
 
-Raf Reza is a house and dub artist tracked on soundcheck, with 82 sets logged across Bristol, Glasgow, London and Manchester and 2 more. Often billed alongside Kaspr, DJ Trustfall and Ragz. Next up: Trillium Park, Toronto on Sat 25 Jul.
+Raf Reza is a house and dub artist tracked on soundcheck, with 83 sets logged across Bristol, Glasgow, London and Manchester and 2 more. Often billed alongside Kaspr, DJ Trustfall and Ragz. Next up: Trillium Park, Toronto on Sat 25 Jul.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 25 Jul 2026 | Trillium Park | Toronto |
+| Thu, 13 Aug 2026 | Standard Time | Toronto |
 | Sun, 6 Sept 2026 | Piknic Électronik / Parc Jean Drapeau | Montreal |
 
 ## Recently played
@@ -26,4 +27,4 @@ Raf Reza is a house and dub artist tracked on soundcheck, with 82 sets logged ac
 
 Kaspr, DJ Trustfall, Ragz
 
-*Updated Mon, 20 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/rafreza/)*
+*Updated Tue, 21 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/rafreza/)*

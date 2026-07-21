@@ -1,6 +1,6 @@
 # SAVEMEKILLY
 
-SAVEMEKILLY is a Techno and Electro artist with 2 upcoming club dates listed on soundcheck as of Mon, 20 Jul 2026, next at Dual, Bangkok on Fri, 24 Jul 2026.
+SAVEMEKILLY is a Techno and Electro artist with 2 upcoming club dates listed on soundcheck as of Tue, 21 Jul 2026, next at Dual, Bangkok on Fri, 24 Jul 2026.
 
 SAVEMEKILLY is a techno and electro artist based in Russia, tracked on soundcheck, with 33 sets logged across Bangkok. Often billed alongside Online Lipnem, Pokpong and ALI THE LOVER. Next up: Dual, Bangkok on Fri 24 Jul.
 
@@ -26,4 +26,4 @@ SAVEMEKILLY is a techno and electro artist based in Russia, tracked on soundchec
 
 Online Lipnem, Pokpong, ALI THE LOVER
 
-*Updated Mon, 20 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/savemekilly/)*
+*Updated Tue, 21 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/savemekilly/)*

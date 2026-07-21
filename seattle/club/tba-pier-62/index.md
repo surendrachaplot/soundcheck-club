@@ -1,6 +1,6 @@
 # TBA - Pier 62
 
-TBA - Pier 62 is a music venue in Seattle with 1 upcoming night listed on soundcheck as of Mon, 20 Jul 2026; the next is "The Pink Party: A queer-powered dance event on Seattle's Pier 62" on Mon, 7 Sept 2026.
+TBA - Pier 62 is a music venue in Seattle with 1 upcoming night listed on soundcheck as of Tue, 21 Jul 2026; the next is "The Pink Party: A queer-powered dance event on Seattle's Pier 62" on Mon, 7 Sept 2026.
 
 TBA - Pier 62 is a music venue in Seattle listed on soundcheck. 1 upcoming night, with line-ups including Qrion, Sharlese and Spencer Brown. Browse upcoming dates, start times and who's playing.
 
@@ -10,4 +10,4 @@ TBA - Pier 62 is a music venue in Seattle listed on soundcheck. 1 upcoming night
 | --- | --- | --- |
 | Mon, 7 Sept 2026 | The Pink Party: A queer-powered dance event on Seattle's Pier 62 | Qrion, Sharlese, Spencer Brown |
 
-*Updated Mon, 20 Jul 2026 · source: [soundcheck](https://soundcheck.club/seattle/club/tba-pier-62/)*
+*Updated Tue, 21 Jul 2026 · source: [soundcheck](https://soundcheck.club/seattle/club/tba-pier-62/)*

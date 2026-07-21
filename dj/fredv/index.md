@@ -1,6 +1,6 @@
 # Fred V
 
-Fred V is a Drum & Bass and Jungle artist with 4 upcoming club dates listed on soundcheck as of Mon, 20 Jul 2026, next at Bristol Amphitheatre & Waterfront Square, Bristol on Sat, 25 Jul 2026.
+Fred V is a Drum & Bass and Jungle artist with 4 upcoming club dates listed on soundcheck as of Tue, 21 Jul 2026, next at Bristol Amphitheatre & Waterfront Square, Bristol on Sat, 25 Jul 2026.
 
 Fred V is a drum & bass and jungle artist tracked on soundcheck, with 39 sets logged across Amsterdam, Antwerp, Berlin and Brisbane and 14 more. Often billed alongside Flava D, Whiney and Metrik. Next up: Bristol Amphitheatre & Waterfront Square, Bristol on Sat 25 Jul.
 
@@ -28,4 +28,4 @@ Fred V is a drum & bass and jungle artist tracked on soundcheck, with 39 sets lo
 
 Flava D, Whiney, Metrik
 
-*Updated Mon, 20 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/fredv/)*
+*Updated Tue, 21 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/fredv/)*

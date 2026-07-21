@@ -1,6 +1,6 @@
 # Wheats
 
-Wheats is a Tech House and House artist with 4 upcoming club dates listed on soundcheck as of Mon, 20 Jul 2026, next at Jolene Downtown Miami, Miami on Fri, 24 Jul 2026.
+Wheats is a Tech House and House artist with 4 upcoming club dates listed on soundcheck as of Tue, 21 Jul 2026, next at Jolene Downtown Miami, Miami on Fri, 24 Jul 2026.
 
 Wheats is a tech house and house artist tracked on soundcheck, with 124 sets logged across Amsterdam, Austin, Barcelona and Birmingham and 24 more. Often billed alongside ALISHA, East End Dubs and wAFF. Next up: Jolene Downtown Miami, Miami on Fri 24 Jul.
 
@@ -28,4 +28,4 @@ Wheats is a tech house and house artist tracked on soundcheck, with 124 sets log
 
 ALISHA, East End Dubs, wAFF
 
-*Updated Mon, 20 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/wheats/)*
+*Updated Tue, 21 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/wheats/)*

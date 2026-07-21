@@ -1,6 +1,6 @@
 # Flores Negras
 
-Flores Negras is a Techno and Acid artist with 3 upcoming club dates listed on soundcheck as of Mon, 20 Jul 2026, next at EQ San Diego, San Diego on Fri, 31 Jul 2026.
+Flores Negras is a Techno and Acid artist with 3 upcoming club dates listed on soundcheck as of Tue, 21 Jul 2026, next at EQ San Diego, San Diego on Fri, 31 Jul 2026.
 
 Flores Negras is a techno and acid artist based in United States of America, tracked on soundcheck, with 107 sets logged across Chicago, Detroit, Losangeles and Newyorkcity and 3 more. Often billed alongside Miss Twink USA, Elock and Loqum. Next up: EQ San Diego, Sandiego on Fri 31 Jul.
 
@@ -27,4 +27,4 @@ Flores Negras is a techno and acid artist based in United States of America, tra
 
 Miss Twink USA, Elock, Loqum
 
-*Updated Mon, 20 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/floresnegras/)*
+*Updated Tue, 21 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/floresnegras/)*

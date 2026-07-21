@@ -1,6 +1,6 @@
 # Hector Romero
 
-Hector Romero is a House and Deep House artist with 2 upcoming club dates listed on soundcheck as of Mon, 20 Jul 2026, next at La Terrrazza, Barcelona on Sat, 8 Aug 2026.
+Hector Romero is a House and Deep House artist with 2 upcoming club dates listed on soundcheck as of Tue, 21 Jul 2026, next at La Terrrazza, Barcelona on Sat, 8 Aug 2026.
 
 Hector Romero is a house and deep house artist tracked on soundcheck, with 33 sets logged across Barcelona, Detroit, Frankfurt and Miami and 4 more. Often billed alongside Mr. V, Piem and Anna Tur. Next up: La Terrrazza, Barcelona on Sat 8 Aug.
 
@@ -26,4 +26,4 @@ Hector Romero is a house and deep house artist tracked on soundcheck, with 33 se
 
 Mr. V, Piem, Anna Tur
 
-*Updated Mon, 20 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/hectorromero/)*
+*Updated Tue, 21 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/hectorromero/)*

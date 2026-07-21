@@ -1,6 +1,6 @@
 # Downsview Park
 
-Downsview Park is a music venue in Toronto with 2 upcoming nights listed on soundcheck as of Mon, 20 Jul 2026; the next is "VELD 2026" on Fri, 31 Jul 2026.
+Downsview Park is a music venue in Toronto with 2 upcoming nights listed on soundcheck as of Tue, 21 Jul 2026; the next is "VELD 2026" on Fri, 31 Jul 2026.
 
 Downsview Park is a music venue in Toronto listed on soundcheck. 2 upcoming nights, with line-ups including Artbat, Above & Beyond, Armin van Buuren and Black Tiger Sex Machine and 2 more. Browse upcoming dates, start times and who's playing. 35 Carl Hall Road, Toronto.
 
@@ -15,4 +15,4 @@ Downsview Park is a music venue in Toronto listed on soundcheck. 2 upcoming nigh
 
 35 Carl Hall Road, Toronto, Toronto
 
-*Updated Mon, 20 Jul 2026 · source: [soundcheck](https://soundcheck.club/toronto/club/downsview-park/)*
+*Updated Tue, 21 Jul 2026 · source: [soundcheck](https://soundcheck.club/toronto/club/downsview-park/)*

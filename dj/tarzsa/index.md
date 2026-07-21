@@ -1,6 +1,6 @@
 # Tarzsa
 
-Tarzsa is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Mon, 20 Jul 2026, next at Hï Ibiza, Ibiza on Fri, 24 Jul 2026.
+Tarzsa is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Tue, 21 Jul 2026, next at Hï Ibiza, Ibiza on Fri, 24 Jul 2026.
 
 Tarzsa is a house and techno artist based in United Kingdom, tracked on soundcheck, with 82 sets logged across Amsterdam, Antwerp, Barcelona and Belfast and 19 more. Often billed alongside Bradley Zero, Joy Orbison and NIKS. Next up: Hï Ibiza, Ibiza on Fri 24 Jul.
 
@@ -26,4 +26,4 @@ Tarzsa is a house and techno artist based in United Kingdom, tracked on soundche
 
 Bradley Zero, Joy Orbison, NIKS
 
-*Updated Mon, 20 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/tarzsa/)*
+*Updated Tue, 21 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/tarzsa/)*

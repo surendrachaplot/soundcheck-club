@@ -1,6 +1,6 @@
 # EXIL
 
-EXIL is a music venue in Zurich with 3 upcoming nights listed on soundcheck as of Mon, 20 Jul 2026; the next is "Choke mit Mac Declos & KUSS" on Fri, 31 Jul 2026.
+EXIL is a music venue in Zurich with 3 upcoming nights listed on soundcheck as of Tue, 21 Jul 2026; the next is "Choke mit Mac Declos & KUSS" on Fri, 31 Jul 2026.
 
 EXIL is a music venue in Zurich listed on soundcheck. 3 upcoming nights, with line-ups including Alarico, AMORAL, KUSS and KYLIE and 2 more. Browse upcoming dates, start times and who's playing. Hardstrasse 245; 8005, Zürich; Switzerland.
 
@@ -16,4 +16,4 @@ EXIL is a music venue in Zurich listed on soundcheck. 3 upcoming nights, with li
 
 Hardstrasse 245; 8005, Zürich; Switzerland, Zurich
 
-*Updated Mon, 20 Jul 2026 · source: [soundcheck](https://soundcheck.club/zurich/club/exil/)*
+*Updated Tue, 21 Jul 2026 · source: [soundcheck](https://soundcheck.club/zurich/club/exil/)*

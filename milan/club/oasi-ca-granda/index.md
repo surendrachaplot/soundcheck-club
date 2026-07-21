@@ -1,6 +1,6 @@
 # Oasi Ca' Granda
 
-Oasi Ca' Granda is a music venue in Milan with 1 upcoming night listed on soundcheck as of Mon, 20 Jul 2026; the next is "Pastorale - concerto e picnic nell'oasi naturale" on Sun, 6 Sept 2026.
+Oasi Ca' Granda is a music venue in Milan with 1 upcoming night listed on soundcheck as of Tue, 21 Jul 2026; the next is "Pastorale - concerto e picnic nell'oasi naturale" on Sun, 6 Sept 2026.
 
 Oasi Ca' Granda is a music venue in Milan listed on soundcheck. 1 upcoming night. Browse upcoming dates, start times and who's playing. Via Giuseppe Ripamonti, 428, 20141 Milano MI.
 
@@ -14,4 +14,4 @@ Oasi Ca' Granda is a music venue in Milan listed on soundcheck. 1 upcoming night
 
 Via Giuseppe Ripamonti, 428, 20141 Milano MI, Milan
 
-*Updated Mon, 20 Jul 2026 · source: [soundcheck](https://soundcheck.club/milan/club/oasi-ca-granda/)*
+*Updated Tue, 21 Jul 2026 · source: [soundcheck](https://soundcheck.club/milan/club/oasi-ca-granda/)*

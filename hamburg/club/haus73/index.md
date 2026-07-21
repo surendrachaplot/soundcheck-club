@@ -1,6 +1,6 @@
 # Haus73
 
-Haus73 is a music venue in Hamburg with 7 upcoming nights listed on soundcheck as of Mon, 20 Jul 2026; the next is "FLINTA*STICA" on Fri, 24 Jul 2026.
+Haus73 is a music venue in Hamburg with 7 upcoming nights listed on soundcheck as of Tue, 21 Jul 2026; the next is "FLINTA*STICA" on Fri, 24 Jul 2026.
 
 Haus73 is a music venue in Hamburg listed on soundcheck. 7 upcoming nights, with line-ups including G-Lamour, LAURIX (DE), MANTIS and Maria and 2 more. Browse upcoming dates, start times and who's playing. Schulterblatt 73, 20357 Hamburg, Germany.
 
@@ -20,4 +20,4 @@ Haus73 is a music venue in Hamburg listed on soundcheck. 7 upcoming nights, with
 
 Schulterblatt 73, 20357 Hamburg, Germany, Hamburg
 
-*Updated Mon, 20 Jul 2026 · source: [soundcheck](https://soundcheck.club/hamburg/club/haus73/)*
+*Updated Tue, 21 Jul 2026 · source: [soundcheck](https://soundcheck.club/hamburg/club/haus73/)*

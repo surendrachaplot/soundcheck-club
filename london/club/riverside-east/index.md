@@ -1,6 +1,6 @@
 # Riverside East
 
-Riverside East is a music venue in London with 3 upcoming nights listed on soundcheck as of Mon, 20 Jul 2026; the next is "London Reggae & Food Festival: Jamaican Independence Special" on Sat, 8 Aug 2026.
+Riverside East is a music venue in London with 3 upcoming nights listed on soundcheck as of Tue, 21 Jul 2026; the next is "London Reggae & Food Festival: Jamaican Independence Special" on Sat, 8 Aug 2026.
 
 Riverside East is a music venue in London listed on soundcheck. 3 upcoming nights, with line-ups including Flux, IC3, Jesabel and Kenny Ken and 2 more. Browse upcoming dates, start times and who's playing. 5 Thornton Street, London, E20 2AD, england.
 
@@ -16,4 +16,4 @@ Riverside East is a music venue in London listed on soundcheck. 3 upcoming night
 
 5 Thornton Street, London, E20 2AD, england, London
 
-*Updated Mon, 20 Jul 2026 · source: [soundcheck](https://soundcheck.club/london/club/riverside-east/)*
+*Updated Tue, 21 Jul 2026 · source: [soundcheck](https://soundcheck.club/london/club/riverside-east/)*

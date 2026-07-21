@@ -1,6 +1,6 @@
 # Kim Ann Foxman
 
-Kim Ann Foxman is a House and Techno artist with 5 upcoming club dates listed on soundcheck as of Mon, 20 Jul 2026, next at The Cause, London on Sat, 25 Jul 2026.
+Kim Ann Foxman is a House and Techno artist with 5 upcoming club dates listed on soundcheck as of Tue, 21 Jul 2026, next at The Cause, London on Sat, 25 Jul 2026.
 
 Kim Ann Foxman is a house and techno artist tracked on soundcheck, with 130 sets logged across Amsterdam, Auckland, Bali and Bangkok and 32 more. Often billed alongside Cora (CN), DJ TOOL and Shaun J. Wright. Next up: The Cause, London on Sat 25 Jul.
 
@@ -29,4 +29,4 @@ Kim Ann Foxman is a house and techno artist tracked on soundcheck, with 130 sets
 
 Cora (CN), DJ TOOL, Shaun J. Wright
 
-*Updated Mon, 20 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/kimannfoxman/)*
+*Updated Tue, 21 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/kimannfoxman/)*

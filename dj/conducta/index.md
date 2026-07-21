@@ -1,6 +1,6 @@
 # Conducta
 
-Conducta is a Garage and House artist with 3 upcoming club dates listed on soundcheck as of Mon, 20 Jul 2026, next at YuYu Cine Club, Mexico City on Sat, 1 Aug 2026.
+Conducta is a Garage and House artist with 3 upcoming club dates listed on soundcheck as of Tue, 21 Jul 2026, next at YuYu Cine Club, Mexico City on Sat, 1 Aug 2026.
 
 Conducta is a garage and house artist tracked on soundcheck, with 177 sets logged across Aberdeen, Amsterdam, Auckland and Bangkok and 50 more. Often billed alongside Oppidan, Tim Reaper and Bakey. Next up: YuYu Cine Club, Mexicocity on Sat 1 Aug.
 
@@ -27,4 +27,4 @@ Conducta is a garage and house artist tracked on soundcheck, with 177 sets logge
 
 Oppidan, Tim Reaper, Bakey
 
-*Updated Mon, 20 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/conducta/)*
+*Updated Tue, 21 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/conducta/)*

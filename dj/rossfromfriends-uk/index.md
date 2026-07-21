@@ -1,6 +1,6 @@
 # Ross From Friends
 
-Ross From Friends is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Mon, 20 Jul 2026, next at Boston Manor Park, London on Fri, 31 Jul 2026.
+Ross From Friends is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Tue, 21 Jul 2026, next at Boston Manor Park, London on Fri, 31 Jul 2026.
 
 Ross From Friends is a house and techno artist tracked on soundcheck, with 146 sets logged across Amsterdam, Antwerp, Athens and Auckland and 47 more. Often billed alongside Bicep, Logic1000 and Underworld. Next up: Boston Manor Park, London on Fri 31 Jul.
 
@@ -27,4 +27,4 @@ Ross From Friends is a house and techno artist tracked on soundcheck, with 146 s
 
 Bicep, Logic1000, Underworld
 
-*Updated Mon, 20 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/rossfromfriends-uk/)*
+*Updated Tue, 21 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/rossfromfriends-uk/)*

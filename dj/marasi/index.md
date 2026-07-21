@@ -1,6 +1,6 @@
 # Marasi
 
-Marasi is a Afro House and Tech House artist with 3 upcoming club dates listed on soundcheck as of Mon, 20 Jul 2026, next at Poppenhofer Weiher, Nürnberg on Sat, 25 Jul 2026.
+Marasi is a Afro House and Tech House artist with 3 upcoming club dates listed on soundcheck as of Tue, 21 Jul 2026, next at Poppenhofer Weiher, Nürnberg on Sat, 25 Jul 2026.
 
 Marasi is an afro house and tech house artist tracked on soundcheck, with 41 sets logged across Amsterdam, Athens, Bali and Bangkok and 18 more. Often billed alongside Pablo Fierro, AERES (1) and ANTO ZAGU. Next up: Poppenhofer Weiher, Nurnberg on Sat 25 Jul.
 
@@ -27,4 +27,4 @@ Marasi is an afro house and tech house artist tracked on soundcheck, with 41 set
 
 Pablo Fierro, AERES (1), ANTO ZAGU
 
-*Updated Mon, 20 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/marasi/)*
+*Updated Tue, 21 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/marasi/)*

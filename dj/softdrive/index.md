@@ -1,6 +1,6 @@
 # Softdrive
 
-Softdrive is a Trance and Techno artist with 3 upcoming club dates listed on soundcheck as of Mon, 20 Jul 2026, next at Uebel & Gefährlich, Hamburg on Sat, 25 Jul 2026.
+Softdrive is a Trance and Techno artist with 3 upcoming club dates listed on soundcheck as of Tue, 21 Jul 2026, next at Uebel & Gefährlich, Hamburg on Sat, 25 Jul 2026.
 
 Softdrive is a trance and techno artist based in Germany, tracked on soundcheck, with 19 sets logged across Berlin, Cologne and Hamburg. Often billed alongside Antonym, BNZN and DJ Pinky Promise. Next up: Uebel & Gefährlich, Hamburg on Sat 25 Jul.
 
@@ -27,4 +27,4 @@ Softdrive is a trance and techno artist based in Germany, tracked on soundcheck,
 
 Antonym, BNZN, DJ Pinky Promise
 
-*Updated Mon, 20 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/softdrive/)*
+*Updated Tue, 21 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/softdrive/)*

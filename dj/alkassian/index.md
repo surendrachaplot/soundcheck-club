@@ -1,6 +1,6 @@
 # Alex Kassian
 
-Alex Kassian is a House and Techno artist with 7 upcoming club dates listed on soundcheck as of Mon, 20 Jul 2026, next at Fidelity Studio, Dublin on Fri, 24 Jul 2026.
+Alex Kassian is a House and Techno artist with 7 upcoming club dates listed on soundcheck as of Tue, 21 Jul 2026, next at Fidelity Studio, Dublin on Fri, 24 Jul 2026.
 
 Alex Kassian is a house and techno artist tracked on soundcheck, with 168 sets logged across Amsterdam, Antwerp, Athens and Bali and 51 more. Often billed alongside PARAMIDA, Job Jobse and Running Hot. Next up: Fidelity Studio, Dublin on Fri 24 Jul.
 
@@ -31,4 +31,4 @@ Alex Kassian is a house and techno artist tracked on soundcheck, with 168 sets l
 
 PARAMIDA, Job Jobse, Running Hot
 
-*Updated Mon, 20 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/alkassian/)*
+*Updated Tue, 21 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/alkassian/)*

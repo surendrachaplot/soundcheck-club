@@ -1,6 +1,6 @@
 # Destro187
 
-Destro187 is a Techno and Acid artist with 2 upcoming club dates listed on soundcheck as of Mon, 20 Jul 2026, next at The Sultan Room, New York City on Sat, 1 Aug 2026.
+Destro187 is a Techno and Acid artist with 2 upcoming club dates listed on soundcheck as of Tue, 21 Jul 2026, next at The Sultan Room, New York City on Sat, 1 Aug 2026.
 
 Destro187 is a techno and acid artist based in United States of America, tracked on soundcheck, with 41 sets logged across Chicago, Detroit, Newyorkcity and Washingtondc. Often billed alongside SPEEDŸ, Alexander Technique and Frankie Bones. Next up: The Sultan Room, Newyorkcity on Sat 1 Aug.
 
@@ -26,4 +26,4 @@ Destro187 is a techno and acid artist based in United States of America, tracked
 
 SPEEDŸ, Alexander Technique, Frankie Bones
 
-*Updated Mon, 20 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/destro187/)*
+*Updated Tue, 21 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/destro187/)*

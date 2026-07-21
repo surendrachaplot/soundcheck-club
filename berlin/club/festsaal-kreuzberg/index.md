@@ -1,6 +1,6 @@
 # Festsaal Kreuzberg
 
-Festsaal Kreuzberg is a music venue in Berlin with 2 upcoming nights listed on soundcheck as of Mon, 20 Jul 2026; the next is "Festa Junina - Arraiá da Bossa" on Sat, 1 Aug 2026.
+Festsaal Kreuzberg is a music venue in Berlin with 2 upcoming nights listed on soundcheck as of Tue, 21 Jul 2026; the next is "Festa Junina - Arraiá da Bossa" on Sat, 1 Aug 2026.
 
 Festsaal Kreuzberg is a music venue in Berlin listed on soundcheck. 2 upcoming nights. Browse upcoming dates, start times and who's playing. Am Flutgraben 2, 12435 Berlin.
 
@@ -15,4 +15,4 @@ Festsaal Kreuzberg is a music venue in Berlin listed on soundcheck. 2 upcoming n
 
 Am Flutgraben 2, 12435 Berlin, Berlin
 
-*Updated Mon, 20 Jul 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/festsaal-kreuzberg/)*
+*Updated Tue, 21 Jul 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/festsaal-kreuzberg/)*

@@ -1,6 +1,6 @@
 # Loo Loo
 
-Loo Loo is a music venue in Mexico City with 1 upcoming night listed on soundcheck as of Mon, 20 Jul 2026; the next is "Elderbrook" on Fri, 14 Aug 2026.
+Loo Loo is a music venue in Mexico City with 1 upcoming night listed on soundcheck as of Tue, 21 Jul 2026; the next is "Elderbrook" on Fri, 14 Aug 2026.
 
 Loo Loo is a music venue in Mexicocity listed on soundcheck. 1 upcoming night, with line-ups including Elderbrook. Browse upcoming dates, start times and who's playing. Londres 195 Cuauhtemoc Mexico City, Mexico.
 
@@ -14,4 +14,4 @@ Loo Loo is a music venue in Mexicocity listed on soundcheck. 1 upcoming night, w
 
 Londres 195 Cuauhtemoc Mexico City, Mexico, Mexico City
 
-*Updated Mon, 20 Jul 2026 · source: [soundcheck](https://soundcheck.club/mexicocity/club/loo-loo/)*
+*Updated Tue, 21 Jul 2026 · source: [soundcheck](https://soundcheck.club/mexicocity/club/loo-loo/)*

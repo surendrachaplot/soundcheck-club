@@ -1,6 +1,6 @@
 # SUCHI
 
-SUCHI is a House and Electronica artist with 2 upcoming club dates listed on soundcheck as of Mon, 20 Jul 2026, next at Night Tales, London on Sat, 25 Jul 2026.
+SUCHI is a House and Electronica artist with 2 upcoming club dates listed on soundcheck as of Tue, 21 Jul 2026, next at Night Tales, London on Sat, 25 Jul 2026.
 
 SUCHI is a house and electronica artist tracked on soundcheck, with 61 sets logged across Amsterdam, Antwerp, Berlin and Bristol and 16 more. Often billed alongside Amaliah, Anz and Heléna Star. Next up: Night Tales, London on Sat 25 Jul.
 
@@ -26,4 +26,4 @@ SUCHI is a house and electronica artist tracked on soundcheck, with 61 sets logg
 
 Amaliah, Anz, Heléna Star
 
-*Updated Mon, 20 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/suchi/)*
+*Updated Tue, 21 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/suchi/)*

@@ -1,6 +1,6 @@
 # yungfya
 
-yungfya is a Bass and House artist with 5 upcoming club dates listed on soundcheck as of Mon, 20 Jul 2026, next at RSO.BERLIN, Berlin on Sat, 8 Aug 2026.
+yungfya is a Bass and House artist with 5 upcoming club dates listed on soundcheck as of Tue, 21 Jul 2026, next at RSO.BERLIN, Berlin on Sat, 8 Aug 2026.
 
 yungfya is a bass and house artist tracked on soundcheck, with 85 sets logged across Barcelona, Berlin, Brighton and Cologne and 8 more. Often billed alongside Dangermami, Punani and Carl Hang. Next up: RSO.BERLIN, Berlin on Sat 8 Aug.
 
@@ -29,4 +29,4 @@ yungfya is a bass and house artist tracked on soundcheck, with 85 sets logged ac
 
 Dangermami, Punani, Carl Hang
 
-*Updated Mon, 20 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/yungfya/)*
+*Updated Tue, 21 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/yungfya/)*

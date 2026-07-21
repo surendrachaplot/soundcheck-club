@@ -1,6 +1,6 @@
 # Van Nelle Fabriek
 
-Van Nelle Fabriek is a music venue in Rotterdam with 2 upcoming nights listed on soundcheck as of Mon, 20 Jul 2026; the next is "Audio Obscura Festival" on Sat, 29 Aug 2026.
+Van Nelle Fabriek is a music venue in Rotterdam with 2 upcoming nights listed on soundcheck as of Tue, 21 Jul 2026; the next is "Audio Obscura Festival" on Sat, 29 Aug 2026.
 
 Van Nelle Fabriek is a music venue in Rotterdam listed on soundcheck. 2 upcoming nights, with line-ups including AAT (NL), Chloé Caillet, Chris Stussy and DJ Gigola and 2 more. Browse upcoming dates, start times and who's playing. Van Nelleweg 1, 3044 BC Rotterdam.
 
@@ -15,4 +15,4 @@ Van Nelle Fabriek is a music venue in Rotterdam listed on soundcheck. 2 upcoming
 
 Van Nelleweg 1, 3044 BC Rotterdam, Rotterdam
 
-*Updated Mon, 20 Jul 2026 · source: [soundcheck](https://soundcheck.club/rotterdam/club/van-nelle-fabriek/)*
+*Updated Tue, 21 Jul 2026 · source: [soundcheck](https://soundcheck.club/rotterdam/club/van-nelle-fabriek/)*

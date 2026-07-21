@@ -1,6 +1,6 @@
 # Spybar
 
-Spybar is a music venue in Chicago with 11 upcoming nights listed on soundcheck as of Mon, 20 Jul 2026; the next is "Thursday Social: Open Decks + Night Market" on Thu, 23 Jul 2026.
+Spybar is a music venue in Chicago with 11 upcoming nights listed on soundcheck as of Tue, 21 Jul 2026; the next is "Thursday Social: Open Decks + Night Market" on Thu, 23 Jul 2026.
 
 Spybar is a music venue in Chicago listed on soundcheck. 11 upcoming nights, with line-ups including Dean Turnley, Deeper Purpose, Fleur Shore and Jazzy (IRL) and 2 more. Browse upcoming dates, start times and who's playing. 646 N Franklin St; Chicago, IL 60654; United States.
 
@@ -23,4 +23,4 @@ Spybar is a music venue in Chicago listed on soundcheck. 11 upcoming nights, wit
 
 646 N Franklin St; Chicago, IL 60654; United States, Chicago
 
-*Updated Mon, 20 Jul 2026 · source: [soundcheck](https://soundcheck.club/chicago/club/spybar/)*
+*Updated Tue, 21 Jul 2026 · source: [soundcheck](https://soundcheck.club/chicago/club/spybar/)*

@@ -1,6 +1,6 @@
 # Royce Larøca
 
-Royce Larøca is a House and Minimal artist with 3 upcoming club dates listed on soundcheck as of Mon, 20 Jul 2026, next at Wax Bar, Paris on Fri, 24 Jul 2026.
+Royce Larøca is a House and Minimal artist with 3 upcoming club dates listed on soundcheck as of Tue, 21 Jul 2026, next at Wax Bar, Paris on Fri, 24 Jul 2026.
 
 Royce Larøca is a house and minimal artist tracked on soundcheck, with 67 sets logged across Dublin, Lisbon, London and Paris and 1 more. Often billed alongside Waximum, Hera (IE) and RealTalks Soundsystem. Next up: Wax Bar, Paris on Fri 24 Jul.
 
@@ -27,4 +27,4 @@ Royce Larøca is a house and minimal artist tracked on soundcheck, with 67 sets 
 
 Waximum, Hera (IE), RealTalks Soundsystem
 
-*Updated Mon, 20 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/roycelaroca/)*
+*Updated Tue, 21 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/roycelaroca/)*

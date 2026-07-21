@@ -1,6 +1,6 @@
 # imazutsubasa
 
-imazutsubasa is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Mon, 20 Jul 2026, next at West Harlem, Kyoto on Fri, 31 Jul 2026.
+imazutsubasa is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Tue, 21 Jul 2026, next at West Harlem, Kyoto on Fri, 31 Jul 2026.
 
 imazutsubasa is a techno and house artist tracked on soundcheck, with 59 sets logged across Kyoto and Osaka. Often billed alongside Ryogo, Sou Kitahara and Aspara. Next up: West Harlem, Kyoto on Fri 31 Jul.
 
@@ -26,4 +26,4 @@ imazutsubasa is a techno and house artist tracked on soundcheck, with 59 sets lo
 
 Ryogo, Sou Kitahara, Aspara
 
-*Updated Mon, 20 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/imazutsubasa/)*
+*Updated Tue, 21 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/imazutsubasa/)*

@@ -1,6 +1,6 @@
 # TBA - San Francisco - Open Air
 
-TBA - San Francisco - Open Air is a music venue in San Francisco/Oakland with 1 upcoming night listed on soundcheck as of Mon, 20 Jul 2026; the next is "Until We Meet Again l 969 Techno (Open Air)" on Sun, 26 Jul 2026.
+TBA - San Francisco - Open Air is a music venue in San Francisco/Oakland with 1 upcoming night listed on soundcheck as of Tue, 21 Jul 2026; the next is "Until We Meet Again l 969 Techno (Open Air)" on Sun, 26 Jul 2026.
 
 TBA - San Francisco - Open Air is a music venue in Sanfrancisco listed on soundcheck. 1 upcoming night, with line-ups including Black Plastica, CASPII and Suanni. Browse upcoming dates, start times and who's playing.
 
@@ -10,4 +10,4 @@ TBA - San Francisco - Open Air is a music venue in Sanfrancisco listed on soundc
 | --- | --- | --- |
 | Sun, 26 Jul 2026 | Until We Meet Again l 969 Techno (Open Air) | Black Plastica, CASPII, Suanni |
 
-*Updated Mon, 20 Jul 2026 · source: [soundcheck](https://soundcheck.club/sanfrancisco/club/tba-san-francisco-open-air/)*
+*Updated Tue, 21 Jul 2026 · source: [soundcheck](https://soundcheck.club/sanfrancisco/club/tba-san-francisco-open-air/)*

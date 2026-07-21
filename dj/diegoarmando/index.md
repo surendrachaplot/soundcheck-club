@@ -1,6 +1,6 @@
 # Diego Armando
 
-Diego Armando is a Baile Funk and Electronica artist with 2 upcoming club dates listed on soundcheck as of Mon, 20 Jul 2026, next at Razzmatazz, Barcelona on Fri, 31 Jul 2026.
+Diego Armando is a Baile Funk and Electronica artist with 2 upcoming club dates listed on soundcheck as of Tue, 21 Jul 2026, next at Razzmatazz, Barcelona on Fri, 31 Jul 2026.
 
 Diego Armando is a baile funk and electronica artist tracked on soundcheck, with 132 sets logged across Amsterdam, Barcelona, Copenhagen and London and 4 more. Often billed alongside Maxvll, Yosef (ES) and Yosef. Next up: Razzmatazz, Barcelona on Fri 31 Jul.
 
@@ -26,4 +26,4 @@ Diego Armando is a baile funk and electronica artist tracked on soundcheck, with
 
 Maxvll, Yosef (ES), Yosef
 
-*Updated Mon, 20 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/diegoarmando/)*
+*Updated Tue, 21 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/diegoarmando/)*

@@ -1,6 +1,6 @@
 # AB Club (Ancienne Belgique)
 
-AB Club (Ancienne Belgique) is a music venue in Brussels with 2 upcoming nights listed on soundcheck as of Mon, 20 Jul 2026; the next is "The Whitest Boy Alive Celebrating 20 years of their album Dreams" on Sun, 30 Aug 2026.
+AB Club (Ancienne Belgique) is a music venue in Brussels with 2 upcoming nights listed on soundcheck as of Tue, 21 Jul 2026; the next is "The Whitest Boy Alive Celebrating 20 years of their album Dreams" on Sun, 30 Aug 2026.
 
 AB Club (Ancienne Belgique) is a music venue in Brussels listed on soundcheck. 2 upcoming nights, with line-ups including The Whitest Boy Alive. Browse upcoming dates, start times and who's playing. Anspachlaan 110, 1000 Brussel.
 
@@ -15,4 +15,4 @@ AB Club (Ancienne Belgique) is a music venue in Brussels listed on soundcheck. 2
 
 Anspachlaan 110, 1000 Brussel, Brussels
 
-*Updated Mon, 20 Jul 2026 · source: [soundcheck](https://soundcheck.club/brussels/club/ab-club-ancienne-belgique/)*
+*Updated Tue, 21 Jul 2026 · source: [soundcheck](https://soundcheck.club/brussels/club/ab-club-ancienne-belgique/)*

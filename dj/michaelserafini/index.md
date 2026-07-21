@@ -1,6 +1,6 @@
 # Michael Serafini
 
-Michael Serafini is a House and Disco artist with 6 upcoming club dates listed on soundcheck as of Mon, 20 Jul 2026, next at smartbar, Chicago on Sun, 26 Jul 2026.
+Michael Serafini is a House and Disco artist with 6 upcoming club dates listed on soundcheck as of Tue, 21 Jul 2026, next at smartbar, Chicago on Sun, 26 Jul 2026.
 
 Michael Serafini is a house and disco artist tracked on soundcheck, with 225 sets logged across Chicago, Detroit, Newyorkcity and Sanfrancisco. Often billed alongside Derrick Carter, Garrett David and Shaun J. Wright. Next up: smartbar, Chicago on Sun 26 Jul.
 
@@ -30,4 +30,4 @@ Michael Serafini is a house and disco artist tracked on soundcheck, with 225 set
 
 Derrick Carter, Garrett David, Shaun J. Wright
 
-*Updated Mon, 20 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/michaelserafini/)*
+*Updated Tue, 21 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/michaelserafini/)*

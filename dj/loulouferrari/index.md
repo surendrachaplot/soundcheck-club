@@ -1,6 +1,6 @@
 # Loulou Ferrari
 
-Loulou Ferrari is a House and Deep House artist with 3 upcoming club dates listed on soundcheck as of Mon, 20 Jul 2026, next at La Gare / Le Gore, Paris on Fri, 24 Jul 2026.
+Loulou Ferrari is a House and Deep House artist with 3 upcoming club dates listed on soundcheck as of Tue, 21 Jul 2026, next at La Gare / Le Gore, Paris on Fri, 24 Jul 2026.
 
 Loulou Ferrari is a house and deep house artist tracked on soundcheck, with 59 sets logged across Berlin, Geneva, Istanbul and Lisbon and 4 more. Often billed alongside EG (1), Emma B and Ams (FR). Next up: La Gare / Le Gore, Paris on Fri 24 Jul.
 
@@ -27,4 +27,4 @@ Loulou Ferrari is a house and deep house artist tracked on soundcheck, with 59 s
 
 EG (1), Emma B, Ams (FR)
 
-*Updated Mon, 20 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/loulouferrari/)*
+*Updated Tue, 21 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/loulouferrari/)*

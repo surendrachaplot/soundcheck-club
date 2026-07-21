@@ -1,6 +1,6 @@
 # Parkcafe
 
-Parkcafe is a music venue in Cologne with 2 upcoming nights listed on soundcheck as of Mon, 20 Jul 2026; the next is "HOOVE Rooftop Open Air" on Sat, 15 Aug 2026.
+Parkcafe is a music venue in Cologne with 2 upcoming nights listed on soundcheck as of Tue, 21 Jul 2026; the next is "HOOVE Rooftop Open Air" on Sat, 15 Aug 2026.
 
 Parkcafe is a music venue in Cologne listed on soundcheck. 2 upcoming nights, with line-ups including Julian Feierabend, Thalo Santana and Vera. Browse upcoming dates, start times and who's playing. Jugendpark.
 
@@ -15,4 +15,4 @@ Parkcafe is a music venue in Cologne listed on soundcheck. 2 upcoming nights, wi
 
 Jugendpark, Cologne
 
-*Updated Mon, 20 Jul 2026 · source: [soundcheck](https://soundcheck.club/cologne/club/parkcafe/)*
+*Updated Tue, 21 Jul 2026 · source: [soundcheck](https://soundcheck.club/cologne/club/parkcafe/)*

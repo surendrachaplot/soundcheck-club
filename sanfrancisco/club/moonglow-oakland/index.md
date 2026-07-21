@@ -1,6 +1,6 @@
 # Moonglow Oakland
 
-Moonglow Oakland is a music venue in San Francisco/Oakland with 3 upcoming nights listed on soundcheck as of Mon, 20 Jul 2026; the next is "J Boogie at Moonglow" on Thu, 23 Jul 2026.
+Moonglow Oakland is a music venue in San Francisco/Oakland with 3 upcoming nights listed on soundcheck as of Tue, 21 Jul 2026; the next is "J Boogie at Moonglow" on Thu, 23 Jul 2026.
 
 Moonglow Oakland is a music venue in Sanfrancisco listed on soundcheck. 3 upcoming nights, with line-ups including Gahr. Browse upcoming dates, start times and who's playing. 1900 Telegraph Ave, Oakland, CA 94612, USA.
 
@@ -16,4 +16,4 @@ Moonglow Oakland is a music venue in Sanfrancisco listed on soundcheck. 3 upcomi
 
 1900 Telegraph Ave, Oakland, CA 94612, USA, San Francisco/Oakland
 
-*Updated Mon, 20 Jul 2026 · source: [soundcheck](https://soundcheck.club/sanfrancisco/club/moonglow-oakland/)*
+*Updated Tue, 21 Jul 2026 · source: [soundcheck](https://soundcheck.club/sanfrancisco/club/moonglow-oakland/)*

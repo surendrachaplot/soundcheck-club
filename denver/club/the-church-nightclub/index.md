@@ -1,6 +1,6 @@
 # The Church Nightclub
 
-The Church Nightclub is a music venue in Denver with 5 upcoming nights listed on soundcheck as of Mon, 20 Jul 2026; the next is "Emmit Fenn" on Sat, 1 Aug 2026.
+The Church Nightclub is a music venue in Denver with 5 upcoming nights listed on soundcheck as of Tue, 21 Jul 2026; the next is "Emmit Fenn" on Sat, 1 Aug 2026.
 
 The Church Nightclub is a music venue in Denver listed on soundcheck. 5 upcoming nights, with line-ups including Carlita and HNTR. Browse upcoming dates, start times and who's playing. 1160 Lincoln St, Denver, CO 80203.
 
@@ -18,4 +18,4 @@ The Church Nightclub is a music venue in Denver listed on soundcheck. 5 upcoming
 
 1160 Lincoln St, Denver, CO 80203, Denver
 
-*Updated Mon, 20 Jul 2026 · source: [soundcheck](https://soundcheck.club/denver/club/the-church-nightclub/)*
+*Updated Tue, 21 Jul 2026 · source: [soundcheck](https://soundcheck.club/denver/club/the-church-nightclub/)*

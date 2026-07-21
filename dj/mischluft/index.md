@@ -1,6 +1,6 @@
 # Mischluft
 
-Mischluft is a Techno and Trance artist with 13 upcoming club dates listed on soundcheck as of Mon, 20 Jul 2026, next at Rebstockpark, Frankfurt on Sat, 25 Jul 2026.
+Mischluft is a Techno and Trance artist with 13 upcoming club dates listed on soundcheck as of Tue, 21 Jul 2026, next at Rebstockpark, Frankfurt on Sat, 25 Jul 2026.
 
 Mischluft is a techno and trance artist tracked on soundcheck, with 182 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 49 more. Often billed alongside Bad Boombox, Janis Zielinski and Ollie Lishman. Next up: Rebstockpark, Frankfurt on Sat 25 Jul.
 
@@ -36,4 +36,4 @@ Mischluft is a techno and trance artist tracked on soundcheck, with 182 sets log
 
 Bad Boombox, Janis Zielinski, Ollie Lishman
 
-*Updated Mon, 20 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/mischluft/)*
+*Updated Tue, 21 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/mischluft/)*

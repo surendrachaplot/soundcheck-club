@@ -1,6 +1,6 @@
 # Parník Tyrš
 
-Parník Tyrš is a music venue in Prague with 2 upcoming nights listed on soundcheck as of Mon, 20 Jul 2026; the next is "RAVE ↯ BOAT by Cube Events" on Sat, 8 Aug 2026.
+Parník Tyrš is a music venue in Prague with 2 upcoming nights listed on soundcheck as of Tue, 21 Jul 2026; the next is "RAVE ↯ BOAT by Cube Events" on Sat, 8 Aug 2026.
 
 Parník Tyrš is a music venue in Prague listed on soundcheck. 2 upcoming nights, with line-ups including ASCENDER, DJ Ruby, Eichenbaum and NEUWERTH and 2 more. Browse upcoming dates, start times and who's playing. Rašínovo nábřeží 120 00 Prague, Czech Republic.
 
@@ -15,4 +15,4 @@ Parník Tyrš is a music venue in Prague listed on soundcheck. 2 upcoming nights
 
 Rašínovo nábřeží 120 00 Prague, Czech Republic, Prague
 
-*Updated Mon, 20 Jul 2026 · source: [soundcheck](https://soundcheck.club/prague/club/parn-k-tyr/)*
+*Updated Tue, 21 Jul 2026 · source: [soundcheck](https://soundcheck.club/prague/club/parn-k-tyr/)*

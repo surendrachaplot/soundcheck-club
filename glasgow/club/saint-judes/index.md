@@ -1,6 +1,6 @@
 # Saint Judes
 
-Saint Judes is a music venue in Glasgow with 2 upcoming nights listed on soundcheck as of Mon, 20 Jul 2026; the next is "It's Never Too Late presents: Kyau & Albert" on Sat, 22 Aug 2026.
+Saint Judes is a music venue in Glasgow with 2 upcoming nights listed on soundcheck as of Tue, 21 Jul 2026; the next is "It's Never Too Late presents: Kyau & Albert" on Sat, 22 Aug 2026.
 
 Saint Judes is a music venue in Glasgow listed on soundcheck. 2 upcoming nights, with line-ups including DJ Zitkus, Kyau & Albert, Stephen Adamson and Stephen Kirkwood and 1 more. Browse upcoming dates, start times and who's playing. 190 Bath Street; Glasgow, G2 4HG; Scotland.
 
@@ -15,4 +15,4 @@ Saint Judes is a music venue in Glasgow listed on soundcheck. 2 upcoming nights,
 
 190 Bath Street; Glasgow, G2 4HG; Scotland, Glasgow
 
-*Updated Mon, 20 Jul 2026 · source: [soundcheck](https://soundcheck.club/glasgow/club/saint-judes/)*
+*Updated Tue, 21 Jul 2026 · source: [soundcheck](https://soundcheck.club/glasgow/club/saint-judes/)*

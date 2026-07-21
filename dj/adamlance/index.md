@@ -1,8 +1,8 @@
 # Adam Lance
 
-Adam Lance is a Tech House and Minimal artist with 3 upcoming club dates listed on soundcheck as of Mon, 20 Jul 2026, next at Ouseburn Garden, Newcastle on Sat, 25 Jul 2026.
+Adam Lance is a Tech House and Minimal artist with 4 upcoming club dates listed on soundcheck as of Tue, 21 Jul 2026, next at Ouseburn Garden, Newcastle on Sat, 25 Jul 2026.
 
-Adam Lance is a tech house and minimal artist tracked on soundcheck, with 31 sets logged across Barcelona, Dublin, Edinburgh and Ibiza and 4 more. Often billed alongside Wakka, Nooney and DJ Bz. Next up: Ouseburn Garden, Newcastle on Sat 25 Jul.
+Adam Lance is a tech house and minimal artist tracked on soundcheck, with 32 sets logged across Barcelona, Dublin, Edinburgh and Ibiza and 4 more. Often billed alongside Wakka, Nooney and DJ Bz. Next up: Ouseburn Garden, Newcastle on Sat 25 Jul.
 
 ## Upcoming shows
 
@@ -11,6 +11,7 @@ Adam Lance is a tech house and minimal artist tracked on soundcheck, with 31 set
 | Sat, 25 Jul 2026 | Ouseburn Garden | Newcastle |
 | Sat, 15 Aug 2026 | Distrikt | Leeds |
 | Sat, 19 Sept 2026 | Ouseburn Garden | Newcastle |
+| Sat, 26 Sept 2026 | Ouseburn Garden | Newcastle |
 
 ## Recently played
 
@@ -27,4 +28,4 @@ Adam Lance is a tech house and minimal artist tracked on soundcheck, with 31 set
 
 Wakka, Nooney, DJ Bz
 
-*Updated Mon, 20 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/adamlance/)*
+*Updated Tue, 21 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/adamlance/)*

@@ -1,6 +1,6 @@
 # Stonie Blue
 
-Stonie Blue is a House and Deep House artist with 2 upcoming club dates listed on soundcheck as of Mon, 20 Jul 2026, next at Bastet, Philadelphia on Fri, 24 Jul 2026.
+Stonie Blue is a House and Deep House artist with 2 upcoming club dates listed on soundcheck as of Tue, 21 Jul 2026, next at Bastet, Philadelphia on Fri, 24 Jul 2026.
 
 Stonie Blue is a house and deep house artist based in United States of America, tracked on soundcheck, with 96 sets logged across Chicago, Detroit, Losangeles and Mexicocity and 3 more. Often billed alongside Ben Hixon, Honey Bun and Mo Yasin. Next up: Bastet, Philadelphia on Fri 24 Jul.
 
@@ -26,4 +26,4 @@ Stonie Blue is a house and deep house artist based in United States of America, 
 
 Ben Hixon, Honey Bun, Mo Yasin
 
-*Updated Mon, 20 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/stonieblue/)*
+*Updated Tue, 21 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/stonieblue/)*

@@ -1,6 +1,6 @@
 # Freddy K
 
-Freddy K is a Techno and House artist with 13 upcoming club dates listed on soundcheck as of Mon, 20 Jul 2026, next at Forte Antenne, Rome on Fri, 24 Jul 2026.
+Freddy K is a Techno and House artist with 13 upcoming club dates listed on soundcheck as of Tue, 21 Jul 2026, next at Forte Antenne, Rome on Fri, 24 Jul 2026.
 
 Freddy K is a techno and house artist tracked on soundcheck, with 266 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 63 more. Often billed alongside Blasha & Allatt, Chlär and Alarico. Next up: Forte Antenne, Rome on Fri 24 Jul.
 
@@ -36,4 +36,4 @@ Freddy K is a techno and house artist tracked on soundcheck, with 266 sets logge
 
 Blasha & Allatt, Chlär, Alarico
 
-*Updated Mon, 20 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/freddyk/)*
+*Updated Tue, 21 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/freddyk/)*

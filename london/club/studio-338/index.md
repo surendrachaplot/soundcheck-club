@@ -1,6 +1,6 @@
 # Studio 338
 
-Studio 338 is a music venue in London with 13 upcoming nights listed on soundcheck as of Mon, 20 Jul 2026; the next is "Indigenous: Garden x Terrace" on Sat, 25 Jul 2026.
+Studio 338 is a music venue in London with 13 upcoming nights listed on soundcheck as of Tue, 21 Jul 2026; the next is "Indigenous: Garden x Terrace" on Sat, 25 Jul 2026.
 
 Studio 338 is a music venue in London listed on soundcheck. 13 upcoming nights, with line-ups including CLEIDO, Anthony James, Artful Dodger and BARTELLA and 2 more. Browse upcoming dates, start times and who's playing. 338 Boord Street; Greenwich; London SE10 0PF; United Kingdom.
 
@@ -23,4 +23,4 @@ Studio 338 is a music venue in London listed on soundcheck. 13 upcoming nights, 
 
 338 Boord Street; Greenwich; London SE10 0PF; United Kingdom, London
 
-*Updated Mon, 20 Jul 2026 · source: [soundcheck](https://soundcheck.club/london/club/studio-338/)*
+*Updated Tue, 21 Jul 2026 · source: [soundcheck](https://soundcheck.club/london/club/studio-338/)*

@@ -1,6 +1,6 @@
 # TBA - Sankt Hedwigs-Kathedrale, Bebelplatz Berl
 
-TBA - Sankt Hedwigs-Kathedrale, Bebelplatz Berl is a music venue in Berlin with 1 upcoming night listed on soundcheck as of Mon, 20 Jul 2026; the next is "AGGREGATE Festival Berlin - new music for pipe organs" on Thu, 1 Oct 2026.
+TBA - Sankt Hedwigs-Kathedrale, Bebelplatz Berl is a music venue in Berlin with 1 upcoming night listed on soundcheck as of Tue, 21 Jul 2026; the next is "AGGREGATE Festival Berlin - new music for pipe organs" on Thu, 1 Oct 2026.
 
 TBA - Sankt Hedwigs-Kathedrale, Bebelplatz Berl is a music venue in Berlin listed on soundcheck. 1 upcoming night. Browse upcoming dates, start times and who's playing.
 
@@ -10,4 +10,4 @@ TBA - Sankt Hedwigs-Kathedrale, Bebelplatz Berl is a music venue in Berlin liste
 | --- | --- | --- |
 | Thu, 1 Oct 2026 | AGGREGATE Festival Berlin - new music for pipe organs |  |
 
-*Updated Mon, 20 Jul 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/tba-sankt-hedwigs-kathedrale-bebelplatz-berl/)*
+*Updated Tue, 21 Jul 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/tba-sankt-hedwigs-kathedrale-bebelplatz-berl/)*

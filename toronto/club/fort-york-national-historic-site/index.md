@@ -1,6 +1,6 @@
 # Fort York National Historic Site
 
-Fort York National Historic Site is a music venue in Toronto with 1 upcoming night listed on soundcheck as of Mon, 20 Jul 2026; the next is "Rosé Disco" on Sat, 15 Aug 2026.
+Fort York National Historic Site is a music venue in Toronto with 1 upcoming night listed on soundcheck as of Tue, 21 Jul 2026; the next is "Rosé Disco" on Sat, 15 Aug 2026.
 
 Fort York National Historic Site is a music venue in Toronto listed on soundcheck. 1 upcoming night. Browse upcoming dates, start times and who's playing. 250 Fort York Blvd, ON M5V 3K9, Canada.
 
@@ -14,4 +14,4 @@ Fort York National Historic Site is a music venue in Toronto listed on soundchec
 
 250 Fort York Blvd, ON M5V 3K9, Canada, Toronto
 
-*Updated Mon, 20 Jul 2026 · source: [soundcheck](https://soundcheck.club/toronto/club/fort-york-national-historic-site/)*
+*Updated Tue, 21 Jul 2026 · source: [soundcheck](https://soundcheck.club/toronto/club/fort-york-national-historic-site/)*

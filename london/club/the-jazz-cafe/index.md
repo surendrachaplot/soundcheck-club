@@ -1,6 +1,6 @@
 # The Jazz Cafe
 
-The Jazz Cafe is a music venue in London with 52 upcoming nights listed on soundcheck as of Mon, 20 Jul 2026; the next is "Lalalar" on Tue, 21 Jul 2026.
+The Jazz Cafe is a music venue in London with 52 upcoming nights listed on soundcheck as of Tue, 21 Jul 2026; the next is "Lalalar" on Tue, 21 Jul 2026.
 
 The Jazz Cafe is a music venue in London listed on soundcheck. 52 upcoming nights, with line-ups including Adam F, AMANDA SZE, AMARI and ASIAN BRAT and 2 more. Browse upcoming dates, start times and who's playing. 5 Parkway; Camden Town; London NW1 7PG; United Kingdom.
 
@@ -23,4 +23,4 @@ The Jazz Cafe is a music venue in London listed on soundcheck. 52 upcoming night
 
 5 Parkway; Camden Town; London NW1 7PG; United Kingdom, London
 
-*Updated Mon, 20 Jul 2026 · source: [soundcheck](https://soundcheck.club/london/club/the-jazz-cafe/)*
+*Updated Tue, 21 Jul 2026 · source: [soundcheck](https://soundcheck.club/london/club/the-jazz-cafe/)*

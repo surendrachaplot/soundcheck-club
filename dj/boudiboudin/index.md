@@ -1,6 +1,6 @@
 # Boudi Boudin
 
-Boudi Boudin is a Techno and Drum & Bass artist with 2 upcoming club dates listed on soundcheck as of Mon, 20 Jul 2026, next at Void Club, Berlin on Fri, 24 Jul 2026.
+Boudi Boudin is a Techno and Drum & Bass artist with 2 upcoming club dates listed on soundcheck as of Tue, 21 Jul 2026, next at Void Club, Berlin on Fri, 24 Jul 2026.
 
 Boudi Boudin is a techno and drum & bass artist based in Germany, tracked on soundcheck, with 39 sets logged across Berlin. Often billed alongside Upzet, Crashkitt and Boudi Boudin & Salomé. Next up: Void Club, Berlin on Fri 24 Jul.
 
@@ -26,4 +26,4 @@ Boudi Boudin is a techno and drum & bass artist based in Germany, tracked on sou
 
 Upzet, Crashkitt, Boudi Boudin & Salomé
 
-*Updated Mon, 20 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/boudiboudin/)*
+*Updated Tue, 21 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/boudiboudin/)*

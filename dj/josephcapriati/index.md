@@ -1,6 +1,6 @@
 # Joseph Capriati
 
-Joseph Capriati is a Techno and House artist with 20 upcoming club dates listed on soundcheck as of Mon, 20 Jul 2026, next at Amnesia Ibiza, Ibiza on Tue, 21 Jul 2026.
+Joseph Capriati is a Techno and House artist with 20 upcoming club dates listed on soundcheck as of Tue, 21 Jul 2026, next at Amnesia Ibiza, Ibiza on Tue, 21 Jul 2026.
 
 Joseph Capriati is a techno and house artist tracked on soundcheck, with 212 sets logged across Amsterdam, Athens, Austin and Bali and 43 more. Often billed alongside Jamie Jones, Indira Paganotto and Dennis Cruz. Next up: Amnesia Ibiza, Ibiza on Tue 21 Jul.
 
@@ -36,4 +36,4 @@ Joseph Capriati is a techno and house artist tracked on soundcheck, with 212 set
 
 Jamie Jones, Indira Paganotto, Dennis Cruz
 
-*Updated Mon, 20 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/josephcapriati/)*
+*Updated Tue, 21 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/josephcapriati/)*

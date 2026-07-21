@@ -1,6 +1,6 @@
 # Komplex Berlin
 
-Komplex Berlin is a music venue in Berlin with 2 upcoming nights listed on soundcheck as of Mon, 20 Jul 2026; the next is "GEGEN X PRNCPTL - CSD" on Sat, 25 Jul 2026.
+Komplex Berlin is a music venue in Berlin with 2 upcoming nights listed on soundcheck as of Tue, 21 Jul 2026; the next is "GEGEN X PRNCPTL - CSD" on Sat, 25 Jul 2026.
 
 Komplex Berlin is a music venue in Berlin listed on soundcheck. 2 upcoming nights, with line-ups including Alírio, BOYCA, Chami and Cristian Marras and 2 more. Browse upcoming dates, start times and who's playing. Modersohnstraße 34-45, 10245 Berlin.
 
@@ -15,4 +15,4 @@ Komplex Berlin is a music venue in Berlin listed on soundcheck. 2 upcoming night
 
 Modersohnstraße 34-45, 10245 Berlin, Berlin
 
-*Updated Mon, 20 Jul 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/komplex-berlin/)*
+*Updated Tue, 21 Jul 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/komplex-berlin/)*

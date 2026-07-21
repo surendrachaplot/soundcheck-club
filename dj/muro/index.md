@@ -1,6 +1,6 @@
 # Muro
 
-Muro is a House and Hip-Hop artist with 2 upcoming club dates listed on soundcheck as of Mon, 20 Jul 2026, next at BAR Inc, Osaka on Mon, 10 Aug 2026.
+Muro is a House and Hip-Hop artist with 2 upcoming club dates listed on soundcheck as of Tue, 21 Jul 2026, next at BAR Inc, Osaka on Mon, 10 Aug 2026.
 
 Muro is a house and hip-hop artist based in Japan, tracked on soundcheck, with 48 sets logged across Kyoto, Osaka, Tokyo and Zurich. Often billed alongside DJ Nori, NORTHXSOUTH and Danny Krivit. Next up: BAR Inc, Osaka on Mon 10 Aug.
 
@@ -26,4 +26,4 @@ Muro is a house and hip-hop artist based in Japan, tracked on soundcheck, with 4
 
 DJ Nori, NORTHXSOUTH, Danny Krivit
 
-*Updated Mon, 20 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/muro/)*
+*Updated Tue, 21 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/muro/)*

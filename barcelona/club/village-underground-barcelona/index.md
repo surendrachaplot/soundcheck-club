@@ -1,6 +1,6 @@
 # Village Underground Barcelona
 
-Village Underground Barcelona is a music venue in Barcelona with 3 upcoming nights listed on soundcheck as of Mon, 20 Jul 2026; the next is "UFO" on Fri, 31 Jul 2026.
+Village Underground Barcelona is a music venue in Barcelona with 3 upcoming nights listed on soundcheck as of Tue, 21 Jul 2026; the next is "UFO" on Fri, 31 Jul 2026.
 
 Village Underground Barcelona is a music venue in Barcelona listed on soundcheck. 3 upcoming nights, with line-ups including Deckard, Ed Warner, EMilio (2) and Josi Devil and 2 more. Browse upcoming dates, start times and who's playing. Carrer Cobalt 12, 08907 L'Hospitalet de Llobregat.
 
@@ -16,4 +16,4 @@ Village Underground Barcelona is a music venue in Barcelona listed on soundcheck
 
 Carrer Cobalt 12, 08907 L'Hospitalet de Llobregat, Barcelona
 
-*Updated Mon, 20 Jul 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/village-underground-barcelona/)*
+*Updated Tue, 21 Jul 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/village-underground-barcelona/)*

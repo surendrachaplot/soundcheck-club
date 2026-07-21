@@ -1,6 +1,6 @@
 # Purelink
 
-Purelink is a Ambient and Experimental artist with 2 upcoming club dates listed on soundcheck as of Mon, 20 Jul 2026, next at MoMA PS1, New York City on Fri, 21 Aug 2026.
+Purelink is a Ambient and Experimental artist with 2 upcoming club dates listed on soundcheck as of Tue, 21 Jul 2026, next at MoMA PS1, New York City on Fri, 21 Aug 2026.
 
 Purelink is an ambient and experimental artist tracked on soundcheck, with 60 sets logged across Barcelona, Bristol, Chicago and Copenhagen and 24 more. Often billed alongside mad miran, DjRUM and Eiko Ishibashi. Next up: MoMA PS1, Newyorkcity on Fri 21 Aug.
 
@@ -26,4 +26,4 @@ Purelink is an ambient and experimental artist tracked on soundcheck, with 60 se
 
 mad miran, DjRUM, Eiko Ishibashi
 
-*Updated Mon, 20 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/purelink/)*
+*Updated Tue, 21 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/purelink/)*

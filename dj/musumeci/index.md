@@ -1,6 +1,6 @@
 # Musumeci
 
-Musumeci is a House and Deep House artist with 2 upcoming club dates listed on soundcheck as of Mon, 20 Jul 2026, next at Do Not Sit On The Furniture, Miami on Sat, 1 Aug 2026.
+Musumeci is a House and Deep House artist with 2 upcoming club dates listed on soundcheck as of Tue, 21 Jul 2026, next at Do Not Sit On The Furniture, Miami on Sat, 1 Aug 2026.
 
 Musumeci is a house and deep house artist tracked on soundcheck, with 81 sets logged across Amsterdam, Antwerp, Bali and Barcelona and 27 more. Often billed alongside Lehar, Phunkadelica and Frankey & Sandrino. Next up: Do Not Sit On The Furniture, Miami on Sat 1 Aug.
 
@@ -26,4 +26,4 @@ Musumeci is a house and deep house artist tracked on soundcheck, with 81 sets lo
 
 Lehar, Phunkadelica, Frankey & Sandrino
 
-*Updated Mon, 20 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/musumeci/)*
+*Updated Tue, 21 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/musumeci/)*

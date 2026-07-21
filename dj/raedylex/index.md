@@ -1,6 +1,6 @@
 # RAEDY LEX
 
-RAEDY LEX is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Mon, 20 Jul 2026, next at Magic Stick, Detroit on Sat, 25 Jul 2026.
+RAEDY LEX is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Tue, 21 Jul 2026, next at Magic Stick, Detroit on Sat, 25 Jul 2026.
 
 RAEDY LEX is a house and techno artist tracked on soundcheck, with 48 sets logged across Detroit and Sanfrancisco. Often billed alongside Disc Jockey George, The Saunderson Brothers and Dantiez. Next up: Magic Stick, Detroit on Sat 25 Jul.
 
@@ -27,4 +27,4 @@ RAEDY LEX is a house and techno artist tracked on soundcheck, with 48 sets logge
 
 Disc Jockey George, The Saunderson Brothers, Dantiez
 
-*Updated Mon, 20 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/raedylex/)*
+*Updated Tue, 21 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/raedylex/)*

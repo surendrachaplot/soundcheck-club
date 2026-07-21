@@ -1,6 +1,6 @@
 # Stones Taro
 
-Stones Taro is a House and Bass artist with 2 upcoming club dates listed on soundcheck as of Mon, 20 Jul 2026, next at TBA - Secret Location (near Frankfurter Allee), Berlin on Wed, 29 Jul 2026.
+Stones Taro is a House and Bass artist with 2 upcoming club dates listed on soundcheck as of Tue, 21 Jul 2026, next at TBA - Secret Location (near Frankfurter Allee), Berlin on Wed, 29 Jul 2026.
 
 Stones Taro is a house and bass artist tracked on soundcheck, with 112 sets logged across Amsterdam, Barcelona, Berlin and Bristol and 15 more. Often billed alongside Lomax, KOTSU and Paperkraft. Next up: TBA - Secret Location (near Frankfurter Allee), Berlin on Wed 29 Jul.
 
@@ -26,4 +26,4 @@ Stones Taro is a house and bass artist tracked on soundcheck, with 112 sets logg
 
 Lomax, KOTSU, Paperkraft
 
-*Updated Mon, 20 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/stonestaro/)*
+*Updated Tue, 21 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/stonestaro/)*

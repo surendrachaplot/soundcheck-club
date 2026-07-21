@@ -1,6 +1,6 @@
 # Bois de la Cambre / Ter Kameren
 
-Bois de la Cambre / Ter Kameren is a music venue in Brussels with 2 upcoming nights listed on soundcheck as of Mon, 20 Jul 2026; the next is "Piknik Elektronik - Bois de la Cambre" on Sun, 26 Jul 2026.
+Bois de la Cambre / Ter Kameren is a music venue in Brussels with 2 upcoming nights listed on soundcheck as of Tue, 21 Jul 2026; the next is "Piknik Elektronik - Bois de la Cambre" on Sun, 26 Jul 2026.
 
 Bois de la Cambre / Ter Kameren is a music venue in Brussels listed on soundcheck. 2 upcoming nights. Browse upcoming dates, start times and who's playing. Avenue de Boisfort, Ter Kamerenbos, Brussel, België.
 
@@ -15,4 +15,4 @@ Bois de la Cambre / Ter Kameren is a music venue in Brussels listed on soundchec
 
 Avenue de Boisfort, Ter Kamerenbos, Brussel, België, Brussels
 
-*Updated Mon, 20 Jul 2026 · source: [soundcheck](https://soundcheck.club/brussels/club/bois-de-la-cambre-ter-kameren/)*
+*Updated Tue, 21 Jul 2026 · source: [soundcheck](https://soundcheck.club/brussels/club/bois-de-la-cambre-ter-kameren/)*

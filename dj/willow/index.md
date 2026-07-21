@@ -1,8 +1,8 @@
 # Willow
 
-Willow is a House and Techno artist with 4 upcoming club dates listed on soundcheck as of Mon, 20 Jul 2026, next at BLITZ, Munich on Fri, 24 Jul 2026.
+Willow is a House and Techno artist with 5 upcoming club dates listed on soundcheck as of Tue, 21 Jul 2026, next at BLITZ, Munich on Fri, 24 Jul 2026.
 
-Willow is a house and techno artist tracked on soundcheck, with 123 sets logged across Amsterdam, Barcelona, Berlin and Birmingham and 27 more. Often billed alongside Lukas Wigflex, Dr Banana and Bobby.. Next up: BLITZ, Munich on Fri 24 Jul.
+Willow is a house and techno artist tracked on soundcheck, with 124 sets logged across Amsterdam, Barcelona, Berlin and Birmingham and 27 more. Often billed alongside Lukas Wigflex, Dr Banana and Bobby.. Next up: BLITZ, Munich on Fri 24 Jul.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Willow is a house and techno artist tracked on soundcheck, with 123 sets logged 
 | --- | --- | --- |
 | Fri, 24 Jul 2026 | BLITZ | Munich |
 | Sat, 8 Aug 2026 | FOLD | London |
+| Sat, 5 Sept 2026 | TBA | Liverpool |
 | Fri, 18 Sept 2026 | UNO MALTA | Malta |
 | Sat, 10 Oct 2026 | Lx Factory | Lisbon |
 
@@ -28,4 +29,4 @@ Willow is a house and techno artist tracked on soundcheck, with 123 sets logged 
 
 Lukas Wigflex, Dr Banana, Bobby.
 
-*Updated Mon, 20 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/willow/)*
+*Updated Tue, 21 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/willow/)*

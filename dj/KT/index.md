@@ -1,6 +1,6 @@
 # KT
 
-KT is a House and Techno artist with 6 upcoming club dates listed on soundcheck as of Mon, 20 Jul 2026, next at Sophie Festival, Malaga on Sat, 25 Jul 2026.
+KT is a House and Techno artist with 6 upcoming club dates listed on soundcheck as of Tue, 21 Jul 2026, next at Sophie Festival, Malaga on Sat, 25 Jul 2026.
 
 KT is a house and techno artist tracked on soundcheck, with 123 sets logged across Barcelona, Berlin, Brighton and Bristol and 22 more. Often billed alongside Papa Nugs, Darush and Alien Communications. Next up: Sophie Festival, Malaga on Sat 25 Jul.
 
@@ -30,4 +30,4 @@ KT is a house and techno artist tracked on soundcheck, with 123 sets logged acro
 
 Papa Nugs, Darush, Alien Communications
 
-*Updated Mon, 20 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/KT/)*
+*Updated Tue, 21 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/KT/)*

@@ -1,6 +1,6 @@
 # Vikki
 
-Vikki is a House and Tech House artist with 3 upcoming club dates listed on soundcheck as of Mon, 20 Jul 2026, next at Noxe Barcelona, Barcelona on Tue, 21 Jul 2026.
+Vikki is a House and Tech House artist with 3 upcoming club dates listed on soundcheck as of Tue, 21 Jul 2026, next at Noxe Barcelona, Barcelona on Tue, 21 Jul 2026.
 
 Vikki is a house and tech house artist tracked on soundcheck, with 35 sets logged across Barcelona. Often billed alongside Sarah Andersson, Alex Silva and Yossi Gomez. Next up: Noxe Barcelona, Barcelona on Tue 21 Jul.
 
@@ -27,4 +27,4 @@ Vikki is a house and tech house artist tracked on soundcheck, with 35 sets logge
 
 Sarah Andersson, Alex Silva, Yossi Gomez
 
-*Updated Mon, 20 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/vikki/)*
+*Updated Tue, 21 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/vikki/)*

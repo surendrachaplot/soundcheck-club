@@ -1,6 +1,6 @@
 # 7CIRCLE
 
-7CIRCLE is a Techno and Industrial artist with 3 upcoming club dates listed on soundcheck as of Mon, 20 Jul 2026, next at Pisco Bar, Kuala Lumpur on Fri, 31 Jul 2026.
+7CIRCLE is a Techno and Industrial artist with 3 upcoming club dates listed on soundcheck as of Tue, 21 Jul 2026, next at Pisco Bar, Kuala Lumpur on Fri, 31 Jul 2026.
 
 7CIRCLE is a techno and industrial artist tracked on soundcheck, with 94 sets logged across Amsterdam, Antwerp, Athens and Bali and 33 more. Often billed alongside Don Woezik, Inverse Element and BLACK ANTHEM RESTORE. Next up: Pisco Bar, Kualalumpur on Fri 31 Jul.
 
@@ -27,4 +27,4 @@
 
 Don Woezik, Inverse Element, BLACK ANTHEM RESTORE
 
-*Updated Mon, 20 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/7circle/)*
+*Updated Tue, 21 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/7circle/)*

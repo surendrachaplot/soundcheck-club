@@ -1,6 +1,6 @@
 # Hydrozagadka
 
-Hydrozagadka is a music venue in Warsaw with 2 upcoming nights listed on soundcheck as of Mon, 20 Jul 2026; the next is "Plush presents: meat computer Ostrichmilk (Live in Warsaw)" on Wed, 22 Jul 2026.
+Hydrozagadka is a music venue in Warsaw with 2 upcoming nights listed on soundcheck as of Tue, 21 Jul 2026; the next is "Plush presents: meat computer Ostrichmilk (Live in Warsaw)" on Wed, 22 Jul 2026.
 
 Hydrozagadka is a music venue in Warsaw listed on soundcheck. 2 upcoming nights, with line-ups including meat computer, Nosgov, Oatmilkandcodeine and Yungster Jack. Browse upcoming dates, start times and who's playing. 11 Listopada 22, 03-436 Warszawa.
 
@@ -15,4 +15,4 @@ Hydrozagadka is a music venue in Warsaw listed on soundcheck. 2 upcoming nights,
 
 11 Listopada 22, 03-436 Warszawa, Warsaw
 
-*Updated Mon, 20 Jul 2026 · source: [soundcheck](https://soundcheck.club/warsaw/club/hydrozagadka/)*
+*Updated Tue, 21 Jul 2026 · source: [soundcheck](https://soundcheck.club/warsaw/club/hydrozagadka/)*

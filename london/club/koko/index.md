@@ -1,6 +1,6 @@
 # KOKO
 
-KOKO is a music venue in London with 19 upcoming nights listed on soundcheck as of Mon, 20 Jul 2026; the next is "KOKO Electronic: Mid-Summer Party - House & Disco" on Fri, 24 Jul 2026.
+KOKO is a music venue in London with 19 upcoming nights listed on soundcheck as of Tue, 21 Jul 2026; the next is "KOKO Electronic: Mid-Summer Party - House & Disco" on Fri, 24 Jul 2026.
 
 KOKO is a music venue in London listed on soundcheck. 19 upcoming nights, with line-ups including Ally Tropical, Anane, babyschön and Bradley Zero and 2 more. Browse upcoming dates, start times and who's playing. 1a Camden High Street; Camden Town; London NW1 7JE; United Kingdom.
 
@@ -23,4 +23,4 @@ KOKO is a music venue in London listed on soundcheck. 19 upcoming nights, with l
 
 1a Camden High Street; Camden Town; London NW1 7JE; United Kingdom, London
 
-*Updated Mon, 20 Jul 2026 · source: [soundcheck](https://soundcheck.club/london/club/koko/)*
+*Updated Tue, 21 Jul 2026 · source: [soundcheck](https://soundcheck.club/london/club/koko/)*

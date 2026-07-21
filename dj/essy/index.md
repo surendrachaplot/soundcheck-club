@@ -1,6 +1,6 @@
 # Essy
 
-Essy is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Mon, 20 Jul 2026, next at Lofi, Amsterdam on Sat, 1 Aug 2026.
+Essy is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Tue, 21 Jul 2026, next at Lofi, Amsterdam on Sat, 1 Aug 2026.
 
 Essy is a house and techno artist tracked on soundcheck, with 66 sets logged across Amsterdam, Madrid, Malta and Rotterdam and 2 more. Often billed alongside Lucky Done Gone, Moody Mehran and Kyle Starkey. Next up: Lofi, Amsterdam on Sat 1 Aug.
 
@@ -27,4 +27,4 @@ Essy is a house and techno artist tracked on soundcheck, with 66 sets logged acr
 
 Lucky Done Gone, Moody Mehran, Kyle Starkey
 
-*Updated Mon, 20 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/essy/)*
+*Updated Tue, 21 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/essy/)*

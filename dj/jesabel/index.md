@@ -1,6 +1,6 @@
 # Jesabel
 
-Jesabel is a Techno and Trance artist with 2 upcoming club dates listed on soundcheck as of Mon, 20 Jul 2026, next at Supperclub Cruise, Amsterdam on Sat, 1 Aug 2026.
+Jesabel is a Techno and Trance artist with 2 upcoming club dates listed on soundcheck as of Tue, 21 Jul 2026, next at Supperclub Cruise, Amsterdam on Sat, 1 Aug 2026.
 
 Jesabel is a techno and trance artist tracked on soundcheck, with 34 sets logged across Amsterdam, Budapest, London and Manchester and 2 more. Often billed alongside Carina Lawrence, Armin van Buuren and AVANTIME. Next up: Supperclub Cruise, Amsterdam on Sat 1 Aug.
 
@@ -26,4 +26,4 @@ Jesabel is a techno and trance artist tracked on soundcheck, with 34 sets logged
 
 Carina Lawrence, Armin van Buuren, AVANTIME
 
-*Updated Mon, 20 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/jesabel/)*
+*Updated Tue, 21 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/jesabel/)*

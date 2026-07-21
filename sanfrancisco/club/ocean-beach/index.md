@@ -1,6 +1,6 @@
 # Ocean Beach
 
-Ocean Beach is a music venue in San Francisco/Oakland with 1 upcoming night listed on soundcheck as of Mon, 20 Jul 2026; the next is "sunset dance party" on Sat, 25 Jul 2026.
+Ocean Beach is a music venue in San Francisco/Oakland with 1 upcoming night listed on soundcheck as of Tue, 21 Jul 2026; the next is "sunset dance party" on Sat, 25 Jul 2026.
 
 Ocean Beach is a music venue in Sanfrancisco listed on soundcheck. 1 upcoming night. Browse upcoming dates, start times and who's playing. 700 Great Highway, San Francisco, CA 94122, USA.
 
@@ -14,4 +14,4 @@ Ocean Beach is a music venue in Sanfrancisco listed on soundcheck. 1 upcoming ni
 
 700 Great Highway, San Francisco, CA 94122, USA, San Francisco/Oakland
 
-*Updated Mon, 20 Jul 2026 · source: [soundcheck](https://soundcheck.club/sanfrancisco/club/ocean-beach/)*
+*Updated Tue, 21 Jul 2026 · source: [soundcheck](https://soundcheck.club/sanfrancisco/club/ocean-beach/)*

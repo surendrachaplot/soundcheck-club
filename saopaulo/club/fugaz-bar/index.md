@@ -1,6 +1,6 @@
 # Fugaz Bar
 
-Fugaz Bar is a music venue in Sao Paulo with 7 upcoming nights listed on soundcheck as of Mon, 20 Jul 2026; the next is "Fugaz recebe Swings & Batidas" on Wed, 22 Jul 2026.
+Fugaz Bar is a music venue in Sao Paulo with 7 upcoming nights listed on soundcheck as of Tue, 21 Jul 2026; the next is "Fugaz recebe Swings & Batidas" on Wed, 22 Jul 2026.
 
 Fugaz Bar is a music venue in Saopaulo listed on soundcheck. 7 upcoming nights. Browse upcoming dates, start times and who's playing. Rua Cardeal Arcoverde, 1479.
 
@@ -20,4 +20,4 @@ Fugaz Bar is a music venue in Saopaulo listed on soundcheck. 7 upcoming nights. 
 
 Rua Cardeal Arcoverde, 1479, Sao Paulo
 
-*Updated Mon, 20 Jul 2026 · source: [soundcheck](https://soundcheck.club/saopaulo/club/fugaz-bar/)*
+*Updated Tue, 21 Jul 2026 · source: [soundcheck](https://soundcheck.club/saopaulo/club/fugaz-bar/)*

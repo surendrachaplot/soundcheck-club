@@ -1,6 +1,6 @@
 # Channel One Sound
 
-Channel One Sound is a Dub and Bass artist with 2 upcoming club dates listed on soundcheck as of Mon, 20 Jul 2026, next at Village Underground, London on Fri, 28 Aug 2026.
+Channel One Sound is a Dub and Bass artist with 2 upcoming club dates listed on soundcheck as of Tue, 21 Jul 2026, next at Village Underground, London on Fri, 28 Aug 2026.
 
 Channel One Sound is a dub and bass artist tracked on soundcheck, with 56 sets logged across Amsterdam, Berlin, Birmingham and Brighton and 14 more. Often billed alongside Kahn, Breakfake and Iration Steppas. Next up: Village Underground, London on Fri 28 Aug.
 
@@ -26,4 +26,4 @@ Channel One Sound is a dub and bass artist tracked on soundcheck, with 56 sets l
 
 Kahn, Breakfake, Iration Steppas
 
-*Updated Mon, 20 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/channelonesound/)*
+*Updated Tue, 21 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/channelonesound/)*

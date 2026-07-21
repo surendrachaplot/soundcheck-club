@@ -1,6 +1,6 @@
 # La Gare / Le Gore
 
-La Gare / Le Gore is a music venue in Paris with 5 upcoming nights listed on soundcheck as of Mon, 20 Jul 2026; the next is "JAM DU BPM CONTEST" on Tue, 21 Jul 2026.
+La Gare / Le Gore is a music venue in Paris with 5 upcoming nights listed on soundcheck as of Tue, 21 Jul 2026; the next is "JAM DU BPM CONTEST" on Tue, 21 Jul 2026.
 
 La Gare / Le Gore is a music venue in Paris listed on soundcheck. 5 upcoming nights, with line-ups including BAB MUSIQUE, Ian Maur, In-Tan and Kelbail and 1 more. Browse upcoming dates, start times and who's playing. 1 Av. Corentin Cariou, 75019 Paris.
 
@@ -18,4 +18,4 @@ La Gare / Le Gore is a music venue in Paris listed on soundcheck. 5 upcoming nig
 
 1 Av. Corentin Cariou, 75019 Paris, Paris
 
-*Updated Mon, 20 Jul 2026 · source: [soundcheck](https://soundcheck.club/paris/club/la-gare-le-gore/)*
+*Updated Tue, 21 Jul 2026 · source: [soundcheck](https://soundcheck.club/paris/club/la-gare-le-gore/)*

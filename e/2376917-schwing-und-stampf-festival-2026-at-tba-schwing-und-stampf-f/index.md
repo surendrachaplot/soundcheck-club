@@ -1,15 +1,16 @@
-# Schwing und Stampf Festival 2026 at TBA - Schwing und Stampf Festival Site
+# Schwing und Stampf Festival 2026 at TBA - Schwing und Stampf Festival
 
-Schwing und Stampf Festival 2026 at TBA - Schwing und Stampf Festival Site on Thu 27 Aug, Zurich. 64 acts on the bill: Add FM, Ado, Aldonna and Atrice and 60 more. Preview the line-up and save it on soundcheck.
+Schwing und Stampf Festival 2026 at TBA - Schwing und Stampf Festival on Thu 27 Aug, Zurich. 65 acts on the bill: ADO (DE), Add FM, Ado and Aldonna and 61 more. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
 | Date | Thu, 27 Aug 2026 |
-| Venue | TBA - Schwing und Stampf Festival Site |
+| Venue | TBA - Schwing und Stampf Festival |
 | City | Zurich |
 
 ## Line-up
 
+- ADO (DE)
 - Add FM
 - Ado
 - Aldonna

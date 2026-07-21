@@ -1,6 +1,6 @@
 # Schlüterhof - Humboldt Forum
 
-Schlüterhof - Humboldt Forum is a music venue in Berlin with 1 upcoming night listed on soundcheck as of Mon, 20 Jul 2026; the next is "DJ KILLA" on Sat, 25 Jul 2026.
+Schlüterhof - Humboldt Forum is a music venue in Berlin with 1 upcoming night listed on soundcheck as of Tue, 21 Jul 2026; the next is "DJ KILLA" on Sat, 25 Jul 2026.
 
 Schlüterhof - Humboldt Forum is a music venue in Berlin listed on soundcheck. 1 upcoming night. Browse upcoming dates, start times and who's playing. Museumsinsel, 10178 Berlin, Germany.
 
@@ -14,4 +14,4 @@ Schlüterhof - Humboldt Forum is a music venue in Berlin listed on soundcheck. 1
 
 Museumsinsel, 10178 Berlin, Germany, Berlin
 
-*Updated Mon, 20 Jul 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/schl-terhof-humboldt-forum/)*
+*Updated Tue, 21 Jul 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/schl-terhof-humboldt-forum/)*

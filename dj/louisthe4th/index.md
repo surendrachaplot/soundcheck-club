@@ -1,6 +1,6 @@
 # Louis The 4th
 
-Louis The 4th is a Techno artist with 2 upcoming club dates listed on soundcheck as of Mon, 20 Jul 2026, next at La Station - Gare des Mines, Paris on Fri, 14 Aug 2026.
+Louis The 4th is a Techno artist with 2 upcoming club dates listed on soundcheck as of Tue, 21 Jul 2026, next at La Station - Gare des Mines, Paris on Fri, 14 Aug 2026.
 
 Louis The 4th is a techno artist based in France, tracked on soundcheck, with 38 sets logged across Amsterdam, Berlin, Brussels and Lisbon and 6 more. Often billed alongside Bliss (1), Camion Bazar and Chami. Next up: La Station - Gare des Mines, Paris on Fri 14 Aug.
 
@@ -26,4 +26,4 @@ Louis The 4th is a techno artist based in France, tracked on soundcheck, with 38
 
 Bliss (1), Camion Bazar, Chami
 
-*Updated Mon, 20 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/louisthe4th/)*
+*Updated Tue, 21 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/louisthe4th/)*

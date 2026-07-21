@@ -1,6 +1,6 @@
 # Joshua Brooks
 
-Joshua Brooks is a music venue in Manchester with 6 upcoming nights listed on soundcheck as of Mon, 20 Jul 2026; the next is "Rebekah All Night Long" on Sat, 25 Jul 2026.
+Joshua Brooks is a music venue in Manchester with 6 upcoming nights listed on soundcheck as of Tue, 21 Jul 2026; the next is "Rebekah All Night Long" on Sat, 25 Jul 2026.
 
 Joshua Brooks is a music venue in Manchester listed on soundcheck. 6 upcoming nights, with line-ups including Because of Art, Doc Scott, Goldie and James Greenwood and 2 more. Browse upcoming dates, start times and who's playing. 106 Princess Street; Manchester; M1 6NG, United Kingdom.
 
@@ -19,4 +19,4 @@ Joshua Brooks is a music venue in Manchester listed on soundcheck. 6 upcoming ni
 
 106 Princess Street; Manchester; M1 6NG, United Kingdom, Manchester
 
-*Updated Mon, 20 Jul 2026 · source: [soundcheck](https://soundcheck.club/manchester/club/joshua-brooks/)*
+*Updated Tue, 21 Jul 2026 · source: [soundcheck](https://soundcheck.club/manchester/club/joshua-brooks/)*

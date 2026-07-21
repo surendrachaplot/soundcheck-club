@@ -1,6 +1,6 @@
 # LI-YU
 
-LI-YU is a Deep House and Minimal artist with 2 upcoming club dates listed on soundcheck as of Mon, 20 Jul 2026, next at TBA - Secret Location, London on Sat, 25 Jul 2026.
+LI-YU is a Deep House and Minimal artist with 2 upcoming club dates listed on soundcheck as of Tue, 21 Jul 2026, next at TBA - Secret Location, London on Sat, 25 Jul 2026.
 
 LI-YU is a deep house and minimal artist tracked on soundcheck, with 26 sets logged across Amsterdam, Ibiza, London and Rotterdam. Often billed alongside Ben Diggins, LIMA (NL) and select motion. Next up: TBA - Secret Location, London on Sat 25 Jul.
 
@@ -26,4 +26,4 @@ LI-YU is a deep house and minimal artist tracked on soundcheck, with 26 sets log
 
 Ben Diggins, LIMA (NL), select motion
 
-*Updated Mon, 20 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/li-yu/)*
+*Updated Tue, 21 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/li-yu/)*

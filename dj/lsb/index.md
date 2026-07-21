@@ -1,6 +1,6 @@
 # LSB
 
-LSB is a Drum & Bass and Jungle artist with 5 upcoming club dates listed on soundcheck as of Mon, 20 Jul 2026, next at The Black Box, Denver on Sat, 25 Jul 2026.
+LSB is a Drum & Bass and Jungle artist with 5 upcoming club dates listed on soundcheck as of Tue, 21 Jul 2026, next at The Black Box, Denver on Sat, 25 Jul 2026.
 
 LSB is a drum & bass and jungle artist based in United Kingdom, tracked on soundcheck, with 59 sets logged across Amsterdam, Auckland, Berlin and Birmingham and 23 more. Often billed alongside DRS, Workforce and MC Fox. Next up: The Black Box, Denver on Sat 25 Jul.
 
@@ -29,4 +29,4 @@ LSB is a drum & bass and jungle artist based in United Kingdom, tracked on sound
 
 DRS, Workforce, MC Fox
 
-*Updated Mon, 20 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/lsb/)*
+*Updated Tue, 21 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/lsb/)*

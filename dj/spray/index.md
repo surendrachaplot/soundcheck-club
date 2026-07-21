@@ -1,6 +1,6 @@
 # Spray
 
-Spray is a Techno and House artist with 5 upcoming club dates listed on soundcheck as of Mon, 20 Jul 2026, next at The White Hotel, Manchester on Fri, 31 Jul 2026.
+Spray is a Techno and House artist with 5 upcoming club dates listed on soundcheck as of Tue, 21 Jul 2026, next at The White Hotel, Manchester on Fri, 31 Jul 2026.
 
 Spray is a techno and house artist tracked on soundcheck, with 193 sets logged across Amsterdam, Antwerp, Austin and Barcelona and 53 more. Often billed alongside Sally C, Job Jobse and Spriitzz. Next up: The White Hotel, Manchester on Fri 31 Jul.
 
@@ -29,4 +29,4 @@ Spray is a techno and house artist tracked on soundcheck, with 193 sets logged a
 
 Sally C, Job Jobse, Spriitzz
 
-*Updated Mon, 20 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/spray/)*
+*Updated Tue, 21 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/spray/)*

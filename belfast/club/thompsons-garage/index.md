@@ -1,6 +1,6 @@
 # Thompsons Garage
 
-Thompsons Garage is a music venue in Belfast with 5 upcoming nights listed on soundcheck as of Mon, 20 Jul 2026; the next is "Stereo Sessions" on Sat, 25 Jul 2026.
+Thompsons Garage is a music venue in Belfast with 5 upcoming nights listed on soundcheck as of Tue, 21 Jul 2026; the next is "Stereo Sessions" on Sat, 25 Jul 2026.
 
 Thompsons Garage is a music venue in Belfast listed on soundcheck. 5 upcoming nights, with line-ups including Diffrent and Hijaxx. Browse upcoming dates, start times and who's playing. 3 Patterson’s Place; Belfast BT1 4HW; United Kingdom.
 
@@ -18,4 +18,4 @@ Thompsons Garage is a music venue in Belfast listed on soundcheck. 5 upcoming ni
 
 3 Patterson’s Place; Belfast BT1 4HW; United Kingdom, Belfast
 
-*Updated Mon, 20 Jul 2026 · source: [soundcheck](https://soundcheck.club/belfast/club/thompsons-garage/)*
+*Updated Tue, 21 Jul 2026 · source: [soundcheck](https://soundcheck.club/belfast/club/thompsons-garage/)*

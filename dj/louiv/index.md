@@ -1,6 +1,6 @@
 # Louiv
 
-Louiv is a House and Tech House artist with 3 upcoming club dates listed on soundcheck as of Mon, 20 Jul 2026, next at Arcana, San Francisco/Oakland on Fri, 31 Jul 2026.
+Louiv is a House and Tech House artist with 3 upcoming club dates listed on soundcheck as of Tue, 21 Jul 2026, next at Arcana, San Francisco/Oakland on Fri, 31 Jul 2026.
 
 Louiv is a house and tech house artist tracked on soundcheck, with 69 sets logged across Austin, Boston, Chicago and Losangeles and 3 more. Often billed alongside Combover, Philco and zacky. Next up: Arcana, Sanfrancisco on Fri 31 Jul.
 
@@ -27,4 +27,4 @@ Louiv is a house and tech house artist tracked on soundcheck, with 69 sets logge
 
 Combover, Philco, zacky
 
-*Updated Mon, 20 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/louiv/)*
+*Updated Tue, 21 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/louiv/)*

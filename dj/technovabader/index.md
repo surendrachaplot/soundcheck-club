@@ -1,8 +1,8 @@
 # TechNovaBader
 
-TechNovaBader is a Techno and Trance artist with 4 upcoming club dates listed on soundcheck as of Mon, 20 Jul 2026, next at Der Weiße Hase, Berlin on Thu, 23 Jul 2026.
+TechNovaBader is a Techno and Trance artist with 6 upcoming club dates listed on soundcheck as of Tue, 21 Jul 2026, next at Der Weiße Hase, Berlin on Thu, 23 Jul 2026.
 
-TechNovaBader is a techno and trance artist tracked on soundcheck, with 40 sets logged across Berlin. Often billed alongside Cat Vermillion, Emma (8) and Felix Reichelt. Next up: Der Weiße Hase, Berlin on Thu 23 Jul.
+TechNovaBader is a techno and trance artist tracked on soundcheck, with 42 sets logged across Berlin. Often billed alongside Cat Vermillion, Emma (8) and Felix Reichelt. Next up: Der Weiße Hase, Berlin on Thu 23 Jul.
 
 ## Upcoming shows
 
@@ -10,7 +10,9 @@ TechNovaBader is a techno and trance artist tracked on soundcheck, with 40 sets 
 | --- | --- | --- |
 | Thu, 23 Jul 2026 | Der Weiße Hase | Berlin |
 | Sat, 1 Aug 2026 | Silver Event Location | Berlin |
+| Fri, 7 Aug 2026 | Der Weiße Hase | Berlin |
 | Tue, 11 Aug 2026 | Der Weiße Hase | Berlin |
+| Thu, 27 Aug 2026 | Der Weiße Hase | Berlin |
 | Fri, 4 Sept 2026 | Der Weiße Hase | Berlin |
 
 ## Recently played
@@ -28,4 +30,4 @@ TechNovaBader is a techno and trance artist tracked on soundcheck, with 40 sets 
 
 Cat Vermillion, Emma (8), Felix Reichelt
 
-*Updated Mon, 20 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/technovabader/)*
+*Updated Tue, 21 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/technovabader/)*

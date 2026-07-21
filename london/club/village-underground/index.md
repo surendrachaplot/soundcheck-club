@@ -1,6 +1,6 @@
 # Village Underground
 
-Village Underground is a music venue in London with 14 upcoming nights listed on soundcheck as of Mon, 20 Jul 2026; the next is "Murda Beatz No Phones Tour" on Fri, 24 Jul 2026.
+Village Underground is a music venue in London with 14 upcoming nights listed on soundcheck as of Tue, 21 Jul 2026; the next is "Murda Beatz No Phones Tour" on Fri, 24 Jul 2026.
 
 Village Underground is a music venue in London listed on soundcheck. 14 upcoming nights, with line-ups including 1-800 GIRLS, Adam Chapman, Amy Wiles and Bushbaby and 2 more. Browse upcoming dates, start times and who's playing. 54 Holywell Lane; Shoreditch; London EC2A 3PQ; United Kingdom.
 
@@ -23,4 +23,4 @@ Village Underground is a music venue in London listed on soundcheck. 14 upcoming
 
 54 Holywell Lane; Shoreditch; London EC2A 3PQ; United Kingdom, London
 
-*Updated Mon, 20 Jul 2026 · source: [soundcheck](https://soundcheck.club/london/club/village-underground/)*
+*Updated Tue, 21 Jul 2026 · source: [soundcheck](https://soundcheck.club/london/club/village-underground/)*

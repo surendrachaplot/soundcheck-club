@@ -1,6 +1,6 @@
 # fabric
 
-fabric is a music venue in London with 24 upcoming nights listed on soundcheck as of Mon, 20 Jul 2026; the next is "FABRICLIVE: Fabio & Grooverider, Djinn, Diagnostix, dogger, Gaia, MC GQ + more" on Fri, 24 Jul 2026.
+fabric is a music venue in London with 24 upcoming nights listed on soundcheck as of Tue, 21 Jul 2026; the next is "FABRICLIVE: Fabio & Grooverider, Djinn, Diagnostix, dogger, Gaia, MC GQ + more" on Fri, 24 Jul 2026.
 
 fabric is a music venue in London listed on soundcheck. 24 upcoming nights, with line-ups including Adriatique, A For Alpha, Agoria and A Hard Day's Dance and 2 more. Browse upcoming dates, start times and who's playing. 77a Charterhouse St; Clerkenwell; London EC1M 6HJ; United Kingdom.
 
@@ -23,4 +23,4 @@ fabric is a music venue in London listed on soundcheck. 24 upcoming nights, with
 
 77a Charterhouse St; Clerkenwell; London EC1M 6HJ; United Kingdom, London
 
-*Updated Mon, 20 Jul 2026 · source: [soundcheck](https://soundcheck.club/london/club/fabric/)*
+*Updated Tue, 21 Jul 2026 · source: [soundcheck](https://soundcheck.club/london/club/fabric/)*

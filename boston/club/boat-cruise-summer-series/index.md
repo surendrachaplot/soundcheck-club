@@ -1,6 +1,6 @@
 # Boat Cruise Summer Series
 
-Boat Cruise Summer Series is a music venue in Boston with 8 upcoming nights listed on soundcheck as of Mon, 20 Jul 2026; the next is "Westend Boat Cruise" on Fri, 31 Jul 2026.
+Boat Cruise Summer Series is a music venue in Boston with 8 upcoming nights listed on soundcheck as of Tue, 21 Jul 2026; the next is "Westend Boat Cruise" on Fri, 31 Jul 2026.
 
 Boat Cruise Summer Series is a music venue in Boston listed on soundcheck. 8 upcoming nights, with line-ups including Dombresky, Goldfish, Gravagerz and Levi (AU) and 2 more. Browse upcoming dates, start times and who's playing. 200 Seaport Blvd Boston, MA 02210 USA.
 
@@ -21,4 +21,4 @@ Boat Cruise Summer Series is a music venue in Boston listed on soundcheck. 8 upc
 
 200 Seaport Blvd Boston, MA 02210 USA, Boston
 
-*Updated Mon, 20 Jul 2026 · source: [soundcheck](https://soundcheck.club/boston/club/boat-cruise-summer-series/)*
+*Updated Tue, 21 Jul 2026 · source: [soundcheck](https://soundcheck.club/boston/club/boat-cruise-summer-series/)*

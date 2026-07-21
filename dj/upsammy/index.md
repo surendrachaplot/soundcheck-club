@@ -1,8 +1,8 @@
 # upsammy
 
-upsammy is a Techno and Experimental artist with 12 upcoming club dates listed on soundcheck as of Mon, 20 Jul 2026, next at The Cause, London on Sat, 25 Jul 2026.
+upsammy is a Techno and Experimental artist with 13 upcoming club dates listed on soundcheck as of Tue, 21 Jul 2026, next at The Cause, London on Sat, 25 Jul 2026.
 
-upsammy is a techno and experimental artist tracked on soundcheck, with 179 sets logged across Amsterdam, Athens, Barcelona and Berlin and 47 more. Often billed alongside Valentina Magaletti, CCL and Skee Mask. Next up: The Cause, London on Sat 25 Jul.
+upsammy is a techno and experimental artist tracked on soundcheck, with 180 sets logged across Amsterdam, Athens, Barcelona and Berlin and 47 more. Often billed alongside Valentina Magaletti, CCL and Skee Mask. Next up: The Cause, London on Sat 25 Jul.
 
 ## Upcoming shows
 
@@ -14,12 +14,12 @@ upsammy is a techno and experimental artist tracked on soundcheck, with 179 sets
 | Fri, 31 Jul 2026 | Berghain / Panorama Bar / Säule | Berlin |
 | Sat, 1 Aug 2026 | Amsterdamse Bos | Amsterdam |
 | Fri, 7 Aug 2026 | TBA - Deventer Outdoor / Molbergsweg 3c  | Amsterdam |
+| Wed, 12 Aug 2026 | Neue Nationalgalerie | Berlin |
 | Thu, 13 Aug 2026 | Kulturcampus Frankfurt | Frankfurt |
 | Sat, 29 Aug 2026 | Palais de Tokyo | Paris |
 | Fri, 18 Sept 2026 | Fort Mifflin | Philadelphia |
 | Sat, 19 Sept 2026 | public records | New York City |
 | Thu, 24 Sept 2026 | National Gallery Prague | Prague |
-| Fri, 2 Oct 2026 | Gessnerallee | Zurich |
 
 ## Recently played
 
@@ -36,4 +36,4 @@ upsammy is a techno and experimental artist tracked on soundcheck, with 179 sets
 
 Valentina Magaletti, CCL, Skee Mask
 
-*Updated Mon, 20 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/upsammy/)*
+*Updated Tue, 21 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/upsammy/)*

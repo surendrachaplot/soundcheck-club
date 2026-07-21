@@ -1,6 +1,6 @@
 # Barry Can't Swim
 
-Barry Can't Swim is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Mon, 20 Jul 2026, next at Pacha Ibiza, Ibiza on Sun, 30 Aug 2026.
+Barry Can't Swim is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Tue, 21 Jul 2026, next at Pacha Ibiza, Ibiza on Sun, 30 Aug 2026.
 
 Barry Can't Swim is a house and techno artist based in United Kingdom, tracked on soundcheck, with 77 sets logged across Amsterdam, Auckland, Barcelona and Belfast and 33 more. Often billed alongside salute, Jayda G and Avalon Emerson. Next up: Pacha Ibiza, Ibiza on Sun 30 Aug.
 
@@ -27,4 +27,4 @@ Barry Can't Swim is a house and techno artist based in United Kingdom, tracked o
 
 salute, Jayda G, Avalon Emerson
 
-*Updated Mon, 20 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/barrycantswim/)*
+*Updated Tue, 21 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/barrycantswim/)*

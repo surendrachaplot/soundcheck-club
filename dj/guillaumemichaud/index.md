@@ -1,6 +1,6 @@
 # Guillaume Michaud
 
-Guillaume Michaud is a House and Deep House artist with 2 upcoming club dates listed on soundcheck as of Mon, 20 Jul 2026, next at Entrepôts Dominion, Les, Montreal on Fri, 24 Jul 2026.
+Guillaume Michaud is a House and Deep House artist with 2 upcoming club dates listed on soundcheck as of Tue, 21 Jul 2026, next at Entrepôts Dominion, Les, Montreal on Fri, 24 Jul 2026.
 
 Guillaume Michaud is a house and deep house artist tracked on soundcheck, with 32 sets logged across Montreal and Toronto. Often billed alongside Shirlee, Nathan Burns and A$H BANKS. Next up: Entrepôts Dominion, Les, Montreal on Fri 24 Jul.
 
@@ -26,4 +26,4 @@ Guillaume Michaud is a house and deep house artist tracked on soundcheck, with 3
 
 Shirlee, Nathan Burns, A$H BANKS
 
-*Updated Mon, 20 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/guillaumemichaud/)*
+*Updated Tue, 21 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/guillaumemichaud/)*

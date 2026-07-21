@@ -1,6 +1,6 @@
 # Candidate
 
-Candidate is a Tech House and House artist with 2 upcoming club dates listed on soundcheck as of Mon, 20 Jul 2026, next at Cova Santa, Ibiza on Tue, 28 Jul 2026.
+Candidate is a Tech House and House artist with 2 upcoming club dates listed on soundcheck as of Tue, 21 Jul 2026, next at Cova Santa, Ibiza on Tue, 28 Jul 2026.
 
 Candidate is a tech house and house artist based in United Kingdom, tracked on soundcheck, with 34 sets logged across Amsterdam, Glasgow, Ibiza and Leeds and 7 more. Often billed alongside Max Dean, Chopper (UK) and DXNBY. Next up: Cova Santa, Ibiza on Tue 28 Jul.
 
@@ -26,4 +26,4 @@ Candidate is a tech house and house artist based in United Kingdom, tracked on s
 
 Max Dean, Chopper (UK), DXNBY
 
-*Updated Mon, 20 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/candidate/)*
+*Updated Tue, 21 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/candidate/)*

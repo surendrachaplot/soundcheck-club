@@ -1,6 +1,6 @@
 # Garage Noord
 
-Garage Noord is a music venue in Amsterdam with 6 upcoming nights listed on soundcheck as of Mon, 20 Jul 2026; the next is "Lola Haro, Tammo Hesselink, DJ Rhubarb + bar40 hosted by Club Cohesie" on Fri, 24 Jul 2026.
+Garage Noord is a music venue in Amsterdam with 6 upcoming nights listed on soundcheck as of Tue, 21 Jul 2026; the next is "Lola Haro, Tammo Hesselink, DJ Rhubarb + bar40 hosted by Club Cohesie" on Fri, 24 Jul 2026.
 
 Garage Noord is a music venue in Amsterdam listed on soundcheck. 6 upcoming nights, with line-ups including Amz, CCL, Cio D'Or and Cobahn and 2 more. Browse upcoming dates, start times and who's playing. Gedempt Hamerkanaal 40, 1012 KM Amsterdam.
 
@@ -19,4 +19,4 @@ Garage Noord is a music venue in Amsterdam listed on soundcheck. 6 upcoming nigh
 
 Gedempt Hamerkanaal 40, 1012 KM Amsterdam, Amsterdam
 
-*Updated Mon, 20 Jul 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/garage-noord/)*
+*Updated Tue, 21 Jul 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/garage-noord/)*

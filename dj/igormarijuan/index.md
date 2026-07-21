@@ -1,6 +1,6 @@
 # Igor Marijuan
 
-Igor Marijuan is a House and Deep House artist with 5 upcoming club dates listed on soundcheck as of Mon, 20 Jul 2026, next at BORIS CLUB, Barcelona on Fri, 24 Jul 2026.
+Igor Marijuan is a House and Deep House artist with 5 upcoming club dates listed on soundcheck as of Tue, 21 Jul 2026, next at BORIS CLUB, Barcelona on Fri, 24 Jul 2026.
 
 Igor Marijuan is a house and deep house artist based in Spain, tracked on soundcheck, with 66 sets logged across Amsterdam, Barcelona, Berlin and Ibiza and 3 more. Often billed alongside unders, BOHEM and Lee Burridge. Next up: BORIS CLUB, Barcelona on Fri 24 Jul.
 
@@ -29,4 +29,4 @@ Igor Marijuan is a house and deep house artist based in Spain, tracked on soundc
 
 unders, BOHEM, Lee Burridge
 
-*Updated Mon, 20 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/igormarijuan/)*
+*Updated Tue, 21 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/igormarijuan/)*

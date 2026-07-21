@@ -1,8 +1,8 @@
 # ALYOSHA
 
-ALYOSHA is a Techno and Trance artist with 2 upcoming club dates listed on soundcheck as of Mon, 20 Jul 2026, next at TBA - Warschauer Straße, Berlin on Fri, 24 Jul 2026.
+ALYOSHA is a Techno and Trance artist with 3 upcoming club dates listed on soundcheck as of Tue, 21 Jul 2026, next at TBA - Warschauer Straße, Berlin on Fri, 24 Jul 2026.
 
-ALYOSHA is a techno and trance artist tracked on soundcheck, with 25 sets logged across Berlin, Buenosaires, Copenhagen and Madrid and 2 more. Often billed alongside Kessler (AR), Anabel and Cobb Douglas. Next up: TBA - Warschauer Straße, Berlin on Fri 24 Jul.
+ALYOSHA is a techno and trance artist tracked on soundcheck, with 26 sets logged across Berlin, Buenosaires, Copenhagen and Madrid and 2 more. Often billed alongside Kessler (AR), Anabel and Cobb Douglas. Next up: TBA - Warschauer Straße, Berlin on Fri 24 Jul.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ ALYOSHA is a techno and trance artist tracked on soundcheck, with 25 sets logged
 | --- | --- | --- |
 | Fri, 24 Jul 2026 | TBA - Warschauer Straße | Berlin |
 | Sat, 25 Jul 2026 | Lokschuppen Berlin | Berlin |
+| Fri, 31 Jul 2026 | La Rotonde Stalingrad | Paris |
 
 ## Recently played
 
@@ -26,4 +27,4 @@ ALYOSHA is a techno and trance artist tracked on soundcheck, with 25 sets logged
 
 Kessler (AR), Anabel, Cobb Douglas
 
-*Updated Mon, 20 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/alyosha/)*
+*Updated Tue, 21 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/alyosha/)*

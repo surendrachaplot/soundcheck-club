@@ -1,6 +1,6 @@
 # Azzecca
 
-Azzecca is a House and Techno artist with 5 upcoming club dates listed on soundcheck as of Mon, 20 Jul 2026, next at The Concourse Project, Austin on Fri, 21 Aug 2026.
+Azzecca is a House and Techno artist with 5 upcoming club dates listed on soundcheck as of Tue, 21 Jul 2026, next at The Concourse Project, Austin on Fri, 21 Aug 2026.
 
 Azzecca is a house and techno artist tracked on soundcheck, with 77 sets logged across Amsterdam, Austin, Berlin and Boston and 19 more. Often billed alongside Gorgon City, Chris Lake and Dom Dolla. Next up: The Concourse Project, Austin on Fri 21 Aug.
 
@@ -29,4 +29,4 @@ Azzecca is a house and techno artist tracked on soundcheck, with 77 sets logged 
 
 Gorgon City, Chris Lake, Dom Dolla
 
-*Updated Mon, 20 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/azzecca/)*
+*Updated Tue, 21 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/azzecca/)*

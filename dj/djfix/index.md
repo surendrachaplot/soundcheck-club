@@ -1,6 +1,6 @@
 # djfix
 
-djfix is a Techno and Tech House artist with 4 upcoming club dates listed on soundcheck as of Mon, 20 Jul 2026, next at Hotel Butterfly, Rome on Thu, 23 Jul 2026.
+djfix is a Techno and Tech House artist with 4 upcoming club dates listed on soundcheck as of Tue, 21 Jul 2026, next at Hotel Butterfly, Rome on Thu, 23 Jul 2026.
 
 djfix is a techno and tech house artist tracked on soundcheck, with 25 sets logged across Berlin, Copenhagen, Dublin and London and 7 more. Often billed alongside Jek (US), adobeprincess and Ekkel. Next up: Hotel Butterfly, Rome on Thu 23 Jul.
 
@@ -11,7 +11,7 @@ djfix is a techno and tech house artist tracked on soundcheck, with 25 sets logg
 | Thu, 23 Jul 2026 | Hotel Butterfly | Rome |
 | Sat, 25 Jul 2026 | Jolene | Copenhagen |
 | Fri, 14 Aug 2026 | F8 1192 Folsom | San Francisco/Oakland |
-| Thu, 27 Aug 2026 | TBA - Schwing und Stampf Festival Site | Zurich |
+| Thu, 27 Aug 2026 | TBA - Schwing und Stampf Festival | Zurich |
 
 ## Recently played
 
@@ -28,4 +28,4 @@ djfix is a techno and tech house artist tracked on soundcheck, with 25 sets logg
 
 Jek (US), adobeprincess, Ekkel
 
-*Updated Mon, 20 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/djfix/)*
+*Updated Tue, 21 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/djfix/)*

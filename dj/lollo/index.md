@@ -1,6 +1,6 @@
 # lollo
 
-lollo is a Techno and Trance artist with 2 upcoming club dates listed on soundcheck as of Mon, 20 Jul 2026, next at Gewölbe, Cologne on Sat, 8 Aug 2026.
+lollo is a Techno and Trance artist with 2 upcoming club dates listed on soundcheck as of Tue, 21 Jul 2026, next at Gewölbe, Cologne on Sat, 8 Aug 2026.
 
 lollo is a techno and trance artist based in Germany, tracked on soundcheck, with 30 sets logged across Cologne, Dusseldorf and Milan. Often billed alongside Annemalie, KUKO and Isabelle Beaucamp. Next up: Gewölbe, Cologne on Sat 8 Aug.
 
@@ -26,4 +26,4 @@ lollo is a techno and trance artist based in Germany, tracked on soundcheck, wit
 
 Annemalie, KUKO, Isabelle Beaucamp
 
-*Updated Mon, 20 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/lollo/)*
+*Updated Tue, 21 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/lollo/)*

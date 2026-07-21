@@ -1,6 +1,6 @@
 # jmo corleone
 
-jmo corleone is a Club and Techno artist with 2 upcoming club dates listed on soundcheck as of Mon, 20 Jul 2026, next at Underground SF, San Francisco/Oakland on Sat, 8 Aug 2026.
+jmo corleone is a Club and Techno artist with 2 upcoming club dates listed on soundcheck as of Tue, 21 Jul 2026, next at Underground SF, San Francisco/Oakland on Sat, 8 Aug 2026.
 
 jmo corleone is a club and techno artist based in United States of America, tracked on soundcheck, with 36 sets logged across Newyorkcity and Sanfrancisco. Often billed alongside ZZ (4), 40split and RITCHRD. Next up: Underground SF, Sanfrancisco on Sat 8 Aug.
 
@@ -26,4 +26,4 @@ jmo corleone is a club and techno artist based in United States of America, trac
 
 ZZ (4), 40split, RITCHRD
 
-*Updated Mon, 20 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/jmocorleone/)*
+*Updated Tue, 21 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/jmocorleone/)*

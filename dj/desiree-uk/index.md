@@ -1,6 +1,6 @@
 # Desiree'
 
-Desiree' is a Techno and Electro artist with 2 upcoming club dates listed on soundcheck as of Mon, 20 Jul 2026, next at Autumn Three, London on Thu, 23 Jul 2026.
+Desiree' is a Techno and Electro artist with 2 upcoming club dates listed on soundcheck as of Tue, 21 Jul 2026, next at Autumn Three, London on Thu, 23 Jul 2026.
 
 Desiree' is a techno and electro artist tracked on soundcheck, with 45 sets logged across Berlin, Bristol, London and Madrid and 3 more. Often billed alongside Gianmarco Gazzillo, Manlio and Ordep (UK). Next up: Autumn Three, London on Thu 23 Jul.
 
@@ -26,4 +26,4 @@ Desiree' is a techno and electro artist tracked on soundcheck, with 45 sets logg
 
 Gianmarco Gazzillo, Manlio, Ordep (UK)
 
-*Updated Mon, 20 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/desiree-uk/)*
+*Updated Tue, 21 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/desiree-uk/)*

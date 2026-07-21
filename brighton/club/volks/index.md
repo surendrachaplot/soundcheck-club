@@ -1,6 +1,6 @@
 # Volks
 
-Volks is a music venue in Brighton with 8 upcoming nights listed on soundcheck as of Mon, 20 Jul 2026; the next is "On The Beach Official After Party: Beatles Dub Club & Flakes" on Thu, 23 Jul 2026.
+Volks is a music venue in Brighton with 8 upcoming nights listed on soundcheck as of Tue, 21 Jul 2026; the next is "On The Beach Official After Party: Beatles Dub Club & Flakes" on Thu, 23 Jul 2026.
 
 Volks is a music venue in Brighton listed on soundcheck. 8 upcoming nights, with line-ups including arawzi, Atoxyl, AUDIO DUNE and Benny Page and 2 more. Browse upcoming dates, start times and who's playing. 3 Madeira Drive; Brighton; BN2 1PS; United Kingdom.
 
@@ -21,4 +21,4 @@ Volks is a music venue in Brighton listed on soundcheck. 8 upcoming nights, with
 
 3 Madeira Drive; Brighton; BN2 1PS; United Kingdom, Brighton
 
-*Updated Mon, 20 Jul 2026 · source: [soundcheck](https://soundcheck.club/brighton/club/volks/)*
+*Updated Tue, 21 Jul 2026 · source: [soundcheck](https://soundcheck.club/brighton/club/volks/)*

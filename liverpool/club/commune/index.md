@@ -1,6 +1,6 @@
 # Commune
 
-Commune is a music venue in Liverpool with 4 upcoming nights listed on soundcheck as of Mon, 20 Jul 2026; the next is "The During feat. Lazzzywax" on Fri, 24 Jul 2026.
+Commune is a music venue in Liverpool with 4 upcoming nights listed on soundcheck as of Tue, 21 Jul 2026; the next is "The During feat. Lazzzywax" on Fri, 24 Jul 2026.
 
 Commune is a music venue in Liverpool listed on soundcheck. 4 upcoming nights, with line-ups including 4D (UK), Aly P, Fenn Piper and Kathryn and 2 more. Browse upcoming dates, start times and who's playing. Constance St, Liverpool L3 8HB.
 
@@ -17,4 +17,4 @@ Commune is a music venue in Liverpool listed on soundcheck. 4 upcoming nights, w
 
 Constance St, Liverpool L3 8HB, Liverpool
 
-*Updated Mon, 20 Jul 2026 · source: [soundcheck](https://soundcheck.club/liverpool/club/commune/)*
+*Updated Tue, 21 Jul 2026 · source: [soundcheck](https://soundcheck.club/liverpool/club/commune/)*

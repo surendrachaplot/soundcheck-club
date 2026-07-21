@@ -1,6 +1,6 @@
 # Kidcat
 
-Kidcat is a House and Techno artist with 4 upcoming club dates listed on soundcheck as of Mon, 20 Jul 2026, next at Crack Bellmer, Berlin on Sat, 25 Jul 2026.
+Kidcat is a House and Techno artist with 4 upcoming club dates listed on soundcheck as of Tue, 21 Jul 2026, next at Crack Bellmer, Berlin on Sat, 25 Jul 2026.
 
 Kidcat is a house and techno artist based in Germany, tracked on soundcheck, with 65 sets logged across Amsterdam, Berlin, Copenhagen and Hamburg and 3 more. Often billed alongside ilbroccolovolante, Jimmie and zikade. Next up: Crack Bellmer, Berlin on Sat 25 Jul.
 
@@ -28,4 +28,4 @@ Kidcat is a house and techno artist based in Germany, tracked on soundcheck, wit
 
 ilbroccolovolante, Jimmie, zikade
 
-*Updated Mon, 20 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/kidcat/)*
+*Updated Tue, 21 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/kidcat/)*

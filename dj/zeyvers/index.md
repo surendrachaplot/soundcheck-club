@@ -1,6 +1,6 @@
 # Zeyvers
 
-Zeyvers is a Techno and Industrial artist with 2 upcoming club dates listed on soundcheck as of Mon, 20 Jul 2026, next at Panama, Amsterdam on Fri, 24 Jul 2026.
+Zeyvers is a Techno and Industrial artist with 2 upcoming club dates listed on soundcheck as of Tue, 21 Jul 2026, next at Panama, Amsterdam on Fri, 24 Jul 2026.
 
 Zeyvers is a techno and industrial artist tracked on soundcheck, with 31 sets logged across Amsterdam, Malta and Paris. Often billed alongside Kuzio, SUKA and Doram. Next up: Panama, Amsterdam on Fri 24 Jul.
 
@@ -26,4 +26,4 @@ Zeyvers is a techno and industrial artist tracked on soundcheck, with 31 sets lo
 
 Kuzio, SUKA, Doram
 
-*Updated Mon, 20 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/zeyvers/)*
+*Updated Tue, 21 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/zeyvers/)*

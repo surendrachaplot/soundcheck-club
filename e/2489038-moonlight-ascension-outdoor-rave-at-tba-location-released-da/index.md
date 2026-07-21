@@ -1,6 +1,6 @@
 # Moonlight Ascension - Outdoor rave at TBA - location released day of to subscribers 
 
-Moonlight Ascension - Outdoor rave at TBA - location released day of to subscribers  on Sat 1 Aug, Toronto. 6 acts on the bill: 25ohms, Audi Étoffe, Niikkii.Tee and XD3SIGN and 2 more. Hardcore and Bass. Preview the line-up and save it on soundcheck.
+Moonlight Ascension - Outdoor rave at TBA - location released day of to subscribers  on Sat 1 Aug, Toronto. 7 acts on the bill: 25ohms, Audi Étoffe, Niikkii.Tee and Sixtroke and 3 more. Hardcore and Bass. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -13,6 +13,7 @@ Moonlight Ascension - Outdoor rave at TBA - location released day of to subscrib
 - 25ohms
 - Audi Étoffe
 - Niikkii.Tee
+- Sixtroke
 - XD3SIGN
 - dyspony
 - moodyjooly

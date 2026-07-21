@@ -1,6 +1,6 @@
 # The Jakob Sister
 
-The Jakob Sister is a Trance and Techno artist with 3 upcoming club dates listed on soundcheck as of Mon, 20 Jul 2026, next at Distillery, Leipzig on Sat, 8 Aug 2026.
+The Jakob Sister is a Trance and Techno artist with 3 upcoming club dates listed on soundcheck as of Tue, 21 Jul 2026, next at Distillery, Leipzig on Sat, 8 Aug 2026.
 
 The Jakob Sister is a trance and techno artist tracked on soundcheck, with 99 sets logged across Amsterdam, Antwerp, Berlin and Cologne and 17 more. Often billed alongside Sabu!, RaverPik and Blame the Booker. Next up: Distillery, Leipzig on Sat 8 Aug.
 
@@ -27,4 +27,4 @@ The Jakob Sister is a trance and techno artist tracked on soundcheck, with 99 se
 
 Sabu!, RaverPik, Blame the Booker
 
-*Updated Mon, 20 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/thejakobsister/)*
+*Updated Tue, 21 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/thejakobsister/)*

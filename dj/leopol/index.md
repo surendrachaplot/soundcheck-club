@@ -1,6 +1,6 @@
 # Leo Pol
 
-Leo Pol is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Mon, 20 Jul 2026, next at Boston Manor Park, London on Sun, 2 Aug 2026.
+Leo Pol is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Tue, 21 Jul 2026, next at Boston Manor Park, London on Sun, 2 Aug 2026.
 
 Leo Pol is a house and techno artist tracked on soundcheck, with 78 sets logged across Amsterdam, Antwerp, Barcelona and Basel and 25 more. Often billed alongside Julie Desire, Benwal and Jersey. Next up: Boston Manor Park, London on Sun 2 Aug.
 
@@ -26,4 +26,4 @@ Leo Pol is a house and techno artist tracked on soundcheck, with 78 sets logged 
 
 Julie Desire, Benwal, Jersey
 
-*Updated Mon, 20 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/leopol/)*
+*Updated Tue, 21 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/leopol/)*

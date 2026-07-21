@@ -1,6 +1,6 @@
 # GYS (TT)
 
-GYS (TT) is a Progressive House and Deep House artist with 3 upcoming club dates listed on soundcheck as of Mon, 20 Jul 2026, next at Munster Munch, London on Sat, 25 Jul 2026.
+GYS (TT) is a Progressive House and Deep House artist with 3 upcoming club dates listed on soundcheck as of Tue, 21 Jul 2026, next at Munster Munch, London on Sat, 25 Jul 2026.
 
 GYS (TT) is a progressive house and deep house artist tracked on soundcheck, with 16 sets logged across London and Nottingham. Often billed alongside Tris (UK), Adela and Nour (UK). Next up: Munster Munch, London on Sat 25 Jul.
 
@@ -27,4 +27,4 @@ GYS (TT) is a progressive house and deep house artist tracked on soundcheck, wit
 
 Tris (UK), Adela, Nour (UK)
 
-*Updated Mon, 20 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/gys-tt/)*
+*Updated Tue, 21 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/gys-tt/)*

@@ -1,6 +1,6 @@
 # Lauren Flax
 
-Lauren Flax is a Techno and House artist with 4 upcoming club dates listed on soundcheck as of Mon, 20 Jul 2026, next at Museum of Sex - NYC, New York City on Fri, 24 Jul 2026.
+Lauren Flax is a Techno and House artist with 4 upcoming club dates listed on soundcheck as of Tue, 21 Jul 2026, next at Museum of Sex - NYC, New York City on Fri, 24 Jul 2026.
 
 Lauren Flax is a techno and house artist based in United States of America, tracked on soundcheck, with 152 sets logged across Amsterdam, Birmingham, Boston and Chicago and 15 more. Often billed alongside Mike Servito, Shaun J. Wright and Justin Cudmore. Next up: Museum of Sex - NYC, Newyorkcity on Fri 24 Jul.
 
@@ -28,4 +28,4 @@ Lauren Flax is a techno and house artist based in United States of America, trac
 
 Mike Servito, Shaun J. Wright, Justin Cudmore
 
-*Updated Mon, 20 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/laurenflax/)*
+*Updated Tue, 21 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/laurenflax/)*

@@ -1,6 +1,6 @@
 # MALUGI
 
-MALUGI is a Techno and House artist with 8 upcoming club dates listed on soundcheck as of Mon, 20 Jul 2026, next at Flevopark, Amsterdam on Sat, 25 Jul 2026.
+MALUGI is a Techno and House artist with 8 upcoming club dates listed on soundcheck as of Tue, 21 Jul 2026, next at Flevopark, Amsterdam on Sat, 25 Jul 2026.
 
 MALUGI is a techno and house artist tracked on soundcheck, with 217 sets logged across Amsterdam, Antwerp, Barcelona and Basel and 53 more. Often billed alongside Marlon Hoffstadt, Surf 2 Glory and DJ Heartstring. Next up: Flevopark, Amsterdam on Sat 25 Jul.
 
@@ -32,4 +32,4 @@ MALUGI is a techno and house artist tracked on soundcheck, with 217 sets logged 
 
 Marlon Hoffstadt, Surf 2 Glory, DJ Heartstring
 
-*Updated Mon, 20 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/malugi/)*
+*Updated Tue, 21 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/malugi/)*

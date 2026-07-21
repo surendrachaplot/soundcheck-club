@@ -1,6 +1,6 @@
 # BOYCA
 
-BOYCA is a Techno and Acid artist with 3 upcoming club dates listed on soundcheck as of Mon, 20 Jul 2026, next at Komplex Berlin, Berlin on Sat, 25 Jul 2026.
+BOYCA is a Techno and Acid artist with 3 upcoming club dates listed on soundcheck as of Tue, 21 Jul 2026, next at Komplex Berlin, Berlin on Sat, 25 Jul 2026.
 
 BOYCA is a techno and acid artist tracked on soundcheck, with 33 sets logged across Amsterdam, Bangkok, Berlin and Brussels and 9 more. Often billed alongside Mar/us, Shadysnack and Cristian Marras. Next up: Komplex Berlin, Berlin on Sat 25 Jul.
 
@@ -27,4 +27,4 @@ BOYCA is a techno and acid artist tracked on soundcheck, with 33 sets logged acr
 
 Mar/us, Shadysnack, Cristian Marras
 
-*Updated Mon, 20 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/boyca/)*
+*Updated Tue, 21 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/boyca/)*

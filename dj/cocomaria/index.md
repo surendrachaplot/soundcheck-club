@@ -1,6 +1,6 @@
 # Coco Maria
 
-Coco Maria is a House and Jazz artist with 4 upcoming club dates listed on soundcheck as of Mon, 20 Jul 2026, next at The Bath House, London on Sun, 26 Jul 2026.
+Coco Maria is a House and Jazz artist with 4 upcoming club dates listed on soundcheck as of Tue, 21 Jul 2026, next at The Bath House, London on Sun, 26 Jul 2026.
 
 Coco Maria is a house and jazz artist tracked on soundcheck, with 117 sets logged across Amsterdam, Antwerp, Athens and Bali and 36 more. Often billed alongside Antal, Palo Santo Discos and Cosmo Sofi. Next up: The Bath House, London on Sun 26 Jul.
 
@@ -28,4 +28,4 @@ Coco Maria is a house and jazz artist tracked on soundcheck, with 117 sets logge
 
 Antal, Palo Santo Discos, Cosmo Sofi
 
-*Updated Mon, 20 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/cocomaria/)*
+*Updated Tue, 21 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/cocomaria/)*

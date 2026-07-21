@@ -1,14 +1,13 @@
 # Call Super
 
-Call Super is a Techno and House artist with 13 upcoming club dates listed on soundcheck as of Mon, 20 Jul 2026, next at DC-10, Ibiza on Mon, 20 Jul 2026.
+Call Super is a Techno and House artist with 12 upcoming club dates listed on soundcheck as of Tue, 21 Jul 2026, next at Sophie Festival, Malaga on Sat, 25 Jul 2026.
 
-Call Super is a techno and house artist tracked on soundcheck, with 204 sets logged across Amsterdam, Antwerp, Bali and Barcelona and 61 more. Often billed alongside Anz, Shanti Celeste and Objekt. Next up: DC-10, Ibiza on Mon 20 Jul.
+Call Super is a techno and house artist tracked on soundcheck, with 204 sets logged across Amsterdam, Antwerp, Bali and Barcelona and 61 more. Often billed alongside Anz, Shanti Celeste and Objekt. Next up: Sophie Festival, Malaga on Sat 25 Jul.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Mon, 20 Jul 2026 | DC-10 | Ibiza |
 | Sat, 25 Jul 2026 | Sophie Festival | Malaga |
 | Wed, 29 Jul 2026 | Amsterdamse Bos | Amsterdam |
 | Sun, 2 Aug 2026 | Amsterdamse Bos | Amsterdam |
@@ -20,9 +19,11 @@ Call Super is a techno and house artist tracked on soundcheck, with 204 sets log
 | Fri, 18 Sept 2026 | UNO MALTA | Malta |
 | Sat, 26 Sept 2026 | The White Hotel | Manchester |
 | Sat, 3 Oct 2026 | Sidney Myer Music Bowl | Melbourne |
+| Sun, 4 Oct 2026 | Cockatoo Island | Sydney |
 
 ## Recently played
 
+- DC-10, Ibiza — Mon, 20 Jul 2026
 - Umoya, Naples — Sun, 12 Jul 2026
 - DC-10, Ibiza — Mon, 29 Jun 2026
 - Sawmills, Bristol — Sat, 13 Jun 2026
@@ -30,10 +31,9 @@ Call Super is a techno and house artist tracked on soundcheck, with 204 sets log
 - Het Twiske, Amsterdam — Sat, 23 May 2026
 - Peckham Rye Park, London — Fri, 22 May 2026
 - ASIAT Park, Brussels — Thu, 14 May 2026
-- The Villa, Oslo — Sat, 9 May 2026
 
 ## Shares bills with
 
 Anz, Shanti Celeste, Objekt
 
-*Updated Mon, 20 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/callsuper/)*
+*Updated Tue, 21 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/callsuper/)*

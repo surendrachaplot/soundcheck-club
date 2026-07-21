@@ -1,6 +1,6 @@
 # DJ Rush
 
-DJ Rush is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Mon, 20 Jul 2026, next at Columbiahalle, Berlin on Sat, 15 Aug 2026.
+DJ Rush is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Tue, 21 Jul 2026, next at Columbiahalle, Berlin on Sat, 15 Aug 2026.
 
 DJ Rush is a techno and house artist tracked on soundcheck, with 84 sets logged across Amsterdam, Barcelona, Basel and Berlin and 29 more. Often billed alongside J.Fernandes, Alignment and Kobosil. Next up: Columbiahalle, Berlin on Sat 15 Aug.
 
@@ -26,4 +26,4 @@ DJ Rush is a techno and house artist tracked on soundcheck, with 84 sets logged 
 
 J.Fernandes, Alignment, Kobosil
 
-*Updated Mon, 20 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/djrush/)*
+*Updated Tue, 21 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/djrush/)*

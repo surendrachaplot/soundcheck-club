@@ -1,6 +1,6 @@
 # Kobosil
 
-Kobosil is a Techno and House artist with 13 upcoming club dates listed on soundcheck as of Mon, 20 Jul 2026, next at Rebstockpark, Frankfurt on Sat, 25 Jul 2026.
+Kobosil is a Techno and House artist with 13 upcoming club dates listed on soundcheck as of Tue, 21 Jul 2026, next at Rebstockpark, Frankfurt on Sat, 25 Jul 2026.
 
 Kobosil is a techno and house artist tracked on soundcheck, with 222 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 59 more. Often billed alongside Somewhen, Clara Cuvé and I Hate Models. Next up: Rebstockpark, Frankfurt on Sat 25 Jul.
 
@@ -36,4 +36,4 @@ Kobosil is a techno and house artist tracked on soundcheck, with 222 sets logged
 
 Somewhen, Clara Cuvé, I Hate Models
 
-*Updated Mon, 20 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/kobosil/)*
+*Updated Tue, 21 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/kobosil/)*

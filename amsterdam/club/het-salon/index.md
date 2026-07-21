@@ -1,6 +1,6 @@
 # Het Salon
 
-Het Salon is a music venue in Amsterdam with 2 upcoming nights listed on soundcheck as of Mon, 20 Jul 2026; the next is "Tobana" on Fri, 24 Jul 2026.
+Het Salon is a music venue in Amsterdam with 2 upcoming nights listed on soundcheck as of Tue, 21 Jul 2026; the next is "Tobana" on Fri, 24 Jul 2026.
 
 Het Salon is a music venue in Amsterdam listed on soundcheck. 2 upcoming nights, with line-ups including Daan Donk, Hannecart, Idilay and Kuba'97 and 2 more. Browse upcoming dates, start times and who's playing. Condensatorweg 36, 1014 AX Amsterdam.
 
@@ -15,4 +15,4 @@ Het Salon is a music venue in Amsterdam listed on soundcheck. 2 upcoming nights,
 
 Condensatorweg 36, 1014 AX Amsterdam, Amsterdam
 
-*Updated Mon, 20 Jul 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/het-salon/)*
+*Updated Tue, 21 Jul 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/het-salon/)*

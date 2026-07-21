@@ -1,6 +1,6 @@
 # AliA
 
-AliA is a House and Techno artist with 4 upcoming club dates listed on soundcheck as of Mon, 20 Jul 2026, next at Das Werk, Vienna on Fri, 24 Jul 2026.
+AliA is a House and Techno artist with 4 upcoming club dates listed on soundcheck as of Tue, 21 Jul 2026, next at Das Werk, Vienna on Fri, 24 Jul 2026.
 
 AliA is a house and techno artist tracked on soundcheck, with 107 sets logged across Amsterdam, Antwerp, Berlin and Bristol and 16 more. Often billed alongside Lefto Early Bird, Mankiyan and Zenker Brothers. Next up: Das Werk, Vienna on Fri 24 Jul.
 
@@ -28,4 +28,4 @@ AliA is a house and techno artist tracked on soundcheck, with 107 sets logged ac
 
 Lefto Early Bird, Mankiyan, Zenker Brothers
 
-*Updated Mon, 20 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/alia/)*
+*Updated Tue, 21 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/alia/)*

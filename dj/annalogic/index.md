@@ -1,6 +1,6 @@
 # Anna Logic
 
-Anna Logic is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Mon, 20 Jul 2026, next at Hangaren, Copenhagen on Fri, 31 Jul 2026.
+Anna Logic is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Tue, 21 Jul 2026, next at Hangaren, Copenhagen on Fri, 31 Jul 2026.
 
 Anna Logic is a techno and house artist tracked on soundcheck, with 116 sets logged across Barcelona, Berlin, Buenosaires and Copenhagen and 2 more. Often billed alongside Kardinal Bertram, Morten Talking and DJ 2LATE. Next up: Hangaren, Copenhagen on Fri 31 Jul.
 
@@ -26,4 +26,4 @@ Anna Logic is a techno and house artist tracked on soundcheck, with 116 sets log
 
 Kardinal Bertram, Morten Talking, DJ 2LATE
 
-*Updated Mon, 20 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/annalogic/)*
+*Updated Tue, 21 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/annalogic/)*

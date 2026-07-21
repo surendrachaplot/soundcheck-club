@@ -1,8 +1,8 @@
 # Michael Bibi
 
-Michael Bibi is a Tech House and House artist with 7 upcoming club dates listed on soundcheck as of Mon, 20 Jul 2026, next at Hardturm Areal, Zurich on Sat, 1 Aug 2026.
+Michael Bibi is a Tech House and House artist with 8 upcoming club dates listed on soundcheck as of Tue, 21 Jul 2026, next at Hardturm Areal, Zurich on Sat, 1 Aug 2026.
 
-Michael Bibi is a tech house and house artist based in United Kingdom, tracked on soundcheck, with 49 sets logged across Amsterdam, Bali, Barcelona and Buenosaires and 19 more. Often billed alongside Dennis Cruz, Chris Stussy and PAWSA. Next up: Hardturm Areal, Zurich on Sat 1 Aug.
+Michael Bibi is a tech house and house artist based in United Kingdom, tracked on soundcheck, with 50 sets logged across Amsterdam, Bali, Barcelona and Buenosaires and 19 more. Often billed alongside Dennis Cruz, Chris Stussy and PAWSA. Next up: Hardturm Areal, Zurich on Sat 1 Aug.
 
 ## Upcoming shows
 
@@ -12,6 +12,7 @@ Michael Bibi is a tech house and house artist based in United Kingdom, tracked o
 | Sun, 16 Aug 2026 | Old Royal Naval College | London |
 | Fri, 4 Sept 2026 | Union Park | Chicago |
 | Sat, 5 Sept 2026 | Fulton Fish Market - Hunts Point | New York City |
+| Fri, 11 Sept 2026 | TBA - Secret location announced only to ticket holders | Ibiza |
 | Thu, 24 Sept 2026 | Ex Macello | Milan |
 | Sun, 4 Oct 2026 | TBA - Secret location announced only to ticket holders | Ibiza |
 | Thu, 8 Oct 2026 | Pacha Ibiza | Ibiza |
@@ -31,4 +32,4 @@ Michael Bibi is a tech house and house artist based in United Kingdom, tracked o
 
 Dennis Cruz, Chris Stussy, PAWSA
 
-*Updated Mon, 20 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/michaelbibi/)*
+*Updated Tue, 21 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/michaelbibi/)*

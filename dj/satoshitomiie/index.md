@@ -1,6 +1,6 @@
 # Satoshi Tomiie
 
-Satoshi Tomiie is a House and Techno artist with 9 upcoming club dates listed on soundcheck as of Mon, 20 Jul 2026, next at Fünk, Mexico City on Fri, 24 Jul 2026.
+Satoshi Tomiie is a House and Techno artist with 9 upcoming club dates listed on soundcheck as of Tue, 21 Jul 2026, next at Fünk, Mexico City on Fri, 24 Jul 2026.
 
 Satoshi Tomiie is a house and techno artist tracked on soundcheck, with 118 sets logged across Amsterdam, Austin, Barcelona and Belgrade and 36 more. Often billed alongside Doudou MD, Cabanne and Kuniyuki. Next up: Fünk, Mexicocity on Fri 24 Jul.
 
@@ -33,4 +33,4 @@ Satoshi Tomiie is a house and techno artist tracked on soundcheck, with 118 sets
 
 Doudou MD, Cabanne, Kuniyuki
 
-*Updated Mon, 20 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/satoshitomiie/)*
+*Updated Tue, 21 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/satoshitomiie/)*

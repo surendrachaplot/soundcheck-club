@@ -1,6 +1,6 @@
 # DJ Possum
 
-DJ Possum is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Mon, 20 Jul 2026, next at TBA - CY VENUE (Collingwood Yards), Melbourne on Thu, 23 Jul 2026.
+DJ Possum is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Tue, 21 Jul 2026, next at TBA - CY VENUE (Collingwood Yards), Melbourne on Thu, 23 Jul 2026.
 
 DJ Possum is a house and techno artist tracked on soundcheck, with 80 sets logged across Berlin, Copenhagen, London and Losangeles and 4 more. Often billed alongside Myles Mac, Bex and Terri (2). Next up: TBA - CY VENUE (Collingwood Yards), Melbourne on Thu 23 Jul.
 
@@ -26,4 +26,4 @@ DJ Possum is a house and techno artist tracked on soundcheck, with 80 sets logge
 
 Myles Mac, Bex, Terri (2)
 
-*Updated Mon, 20 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/djpossum/)*
+*Updated Tue, 21 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/djpossum/)*

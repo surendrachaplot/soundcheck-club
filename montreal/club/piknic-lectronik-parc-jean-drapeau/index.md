@@ -1,8 +1,8 @@
 # Piknic Électronik / Parc Jean Drapeau
 
-Piknic Électronik / Parc Jean Drapeau is a music venue in Montreal with 16 upcoming nights listed on soundcheck as of Mon, 20 Jul 2026; the next is "[SOLD OUT] Francis Mercier présente Solèy au Parc Jean-Drapeau" on Sat, 25 Jul 2026.
+Piknic Électronik / Parc Jean Drapeau is a music venue in Montreal with 17 upcoming nights listed on soundcheck as of Tue, 21 Jul 2026; the next is "[SOLD OUT] Francis Mercier présente Solèy au Parc Jean-Drapeau" on Sat, 25 Jul 2026.
 
-Piknic Électronik / Parc Jean Drapeau is a music venue in Montreal listed on soundcheck. 16 upcoming nights, with line-ups including Adriatique, Anaïs Ley, Asha and Baby Bimbo and 2 more. Browse upcoming dates, start times and who's playing. Jardin le Petit Prince, Montréal, QC H3C 4G8.
+Piknic Électronik / Parc Jean Drapeau is a music venue in Montreal listed on soundcheck. 17 upcoming nights, with line-ups including Adriatique, Anaïs Ley, Asha and Baby Bimbo and 2 more. Browse upcoming dates, start times and who's playing. Jardin le Petit Prince, Montréal, QC H3C 4G8.
 
 ## What's on
 
@@ -23,4 +23,4 @@ Piknic Électronik / Parc Jean Drapeau is a music venue in Montreal listed on so
 
 Jardin le Petit Prince, Montréal, QC H3C 4G8, Montreal
 
-*Updated Mon, 20 Jul 2026 · source: [soundcheck](https://soundcheck.club/montreal/club/piknic-lectronik-parc-jean-drapeau/)*
+*Updated Tue, 21 Jul 2026 · source: [soundcheck](https://soundcheck.club/montreal/club/piknic-lectronik-parc-jean-drapeau/)*

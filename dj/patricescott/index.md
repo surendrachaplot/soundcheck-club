@@ -1,6 +1,6 @@
 # Patrice Scott
 
-Patrice Scott is a House and Deep House artist with 2 upcoming club dates listed on soundcheck as of Mon, 20 Jul 2026, next at Mad Radio Miami, Miami on Fri, 24 Jul 2026.
+Patrice Scott is a House and Deep House artist with 2 upcoming club dates listed on soundcheck as of Tue, 21 Jul 2026, next at Mad Radio Miami, Miami on Fri, 24 Jul 2026.
 
 Patrice Scott is a house and deep house artist based in United States of America, tracked on soundcheck, with 28 sets logged across Buenosaires, Chicago, Detroit and Manchester and 8 more. Often billed alongside Isaac Prieto, Cordell Johnson and DJ Etta (US). Next up: Mad Radio Miami, Miami on Fri 24 Jul.
 
@@ -26,4 +26,4 @@ Patrice Scott is a house and deep house artist based in United States of America
 
 Isaac Prieto, Cordell Johnson, DJ Etta (US)
 
-*Updated Mon, 20 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/patricescott/)*
+*Updated Tue, 21 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/patricescott/)*

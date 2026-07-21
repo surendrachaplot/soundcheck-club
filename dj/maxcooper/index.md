@@ -1,6 +1,6 @@
 # Max Cooper
 
-Max Cooper is a Techno and Electronica artist with 3 upcoming club dates listed on soundcheck as of Mon, 20 Jul 2026, next at Haus der Visionäre, Berlin on Fri, 24 Jul 2026.
+Max Cooper is a Techno and Electronica artist with 3 upcoming club dates listed on soundcheck as of Tue, 21 Jul 2026, next at Haus der Visionäre, Berlin on Fri, 24 Jul 2026.
 
 Max Cooper is a techno and electronica artist tracked on soundcheck, with 118 sets logged across Amsterdam, Athens, Austin and Barcelona and 47 more. Often billed alongside Actress, Logic1000 and Or:la. Next up: Haus der Visionäre, Berlin on Fri 24 Jul.
 
@@ -27,4 +27,4 @@ Max Cooper is a techno and electronica artist tracked on soundcheck, with 118 se
 
 Actress, Logic1000, Or:la
 
-*Updated Mon, 20 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/maxcooper/)*
+*Updated Tue, 21 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/maxcooper/)*

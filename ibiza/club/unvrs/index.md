@@ -1,14 +1,13 @@
 # [UNVRS]
 
-[UNVRS] is a music venue in Ibiza with 80 upcoming nights listed on soundcheck as of Mon, 20 Jul 2026; the next is "John Summit presents Experts Only" on Mon, 20 Jul 2026.
+[UNVRS] is a music venue in Ibiza with 79 upcoming nights listed on soundcheck as of Tue, 21 Jul 2026; the next is "Anyma presents ÆDEN" on Tue, 21 Jul 2026.
 
-[UNVRS] is a music venue in Ibiza listed on soundcheck. 80 upcoming nights, with line-ups including 19:26, Artbat, Adam Sellouk and Adriatique and 2 more. Browse upcoming dates, start times and who's playing. Urbanización San Rafael, s/n, 07816 Sant Antoni de Portmany, Balearic Islands.
+[UNVRS] is a music venue in Ibiza listed on soundcheck. 79 upcoming nights, with line-ups including 19:26, Artbat, Adriatique and Agents Of Time and 2 more. Browse upcoming dates, start times and who's playing. Urbanización San Rafael, s/n, 07816 Sant Antoni de Portmany, Balearic Islands.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Mon, 20 Jul 2026 | John Summit presents Experts Only | Adam Sellouk, Airrica, Bender, Cassian, John Summit, SCRIPT (2) |
 | Tue, 21 Jul 2026 | Anyma presents ÆDEN | 19:26, Anyma, Argy, Layla Benitez |
 | Wed, 22 Jul 2026 | Jamie Jones Paradise | ALISHA, Dimmish, Franky Rizardo, Jamie Jones, Job de Jong, Julian Fijma, Pirate Copy, Sosa, Vanee |
 | Thu, 23 Jul 2026 | FISHER | Chris Lorenzo, FISHER, Jason Bye |
@@ -18,9 +17,10 @@
 | Mon, 27 Jul 2026 | John Summit presents Experts Only - CLOSING PARTY | Bender, Gorgon City, John Summit |
 | Tue, 28 Jul 2026 | Anyma presents ÆDEN | Anyma, Chris Avantgarde, Miss Monique, Volkoder |
 | Wed, 29 Jul 2026 | Jamie Jones Paradise | Bedouin, Bontan, Jamie Jones, Laidlaw, M-High, Omar+, Salomé Le Chat |
+| Thu, 30 Jul 2026 | FISHER | EdiP, FISHER, Jason Bye, Paco Osuna |
 
 ## Address
 
 Urbanización San Rafael, s/n, 07816 Sant Antoni de Portmany, Balearic Islands, Ibiza
 
-*Updated Mon, 20 Jul 2026 · source: [soundcheck](https://soundcheck.club/ibiza/club/unvrs/)*
+*Updated Tue, 21 Jul 2026 · source: [soundcheck](https://soundcheck.club/ibiza/club/unvrs/)*

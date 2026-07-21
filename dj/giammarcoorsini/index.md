@@ -1,6 +1,6 @@
 # Giammarco Orsini
 
-Giammarco Orsini is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Mon, 20 Jul 2026, next at Boomerang Beach, The Hague on Sat, 8 Aug 2026.
+Giammarco Orsini is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Tue, 21 Jul 2026, next at Boomerang Beach, The Hague on Sat, 8 Aug 2026.
 
 Giammarco Orsini is a house and techno artist tracked on soundcheck, with 161 sets logged across Amsterdam, Austin, Bangkok and Barcelona and 37 more. Often billed alongside PARAMIDA, Marcolino and Anthea. Next up: Boomerang Beach, Thehague on Sat 8 Aug.
 
@@ -27,4 +27,4 @@ Giammarco Orsini is a house and techno artist tracked on soundcheck, with 161 se
 
 PARAMIDA, Marcolino, Anthea
 
-*Updated Mon, 20 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/giammarcoorsini/)*
+*Updated Tue, 21 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/giammarcoorsini/)*

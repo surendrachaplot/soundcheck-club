@@ -1,6 +1,6 @@
 # Kangding Ray
 
-Kangding Ray is a Techno and Experimental artist with 2 upcoming club dates listed on soundcheck as of Mon, 20 Jul 2026, next at Nowadays, New York City on Fri, 31 Jul 2026.
+Kangding Ray is a Techno and Experimental artist with 2 upcoming club dates listed on soundcheck as of Tue, 21 Jul 2026, next at Nowadays, New York City on Fri, 31 Jul 2026.
 
 Kangding Ray is a techno and experimental artist tracked on soundcheck, with 126 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 36 more. Often billed alongside Dasha Rush, DJ Nobu and Clarisa Kimskii. Next up: Nowadays, Newyorkcity on Fri 31 Jul.
 
@@ -26,4 +26,4 @@ Kangding Ray is a techno and experimental artist tracked on soundcheck, with 126
 
 Dasha Rush, DJ Nobu, Clarisa Kimskii
 
-*Updated Mon, 20 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/kangdingray/)*
+*Updated Tue, 21 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/kangdingray/)*

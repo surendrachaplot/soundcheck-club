@@ -1,6 +1,6 @@
 # Sub Club
 
-Sub Club is a music venue in Glasgow with 18 upcoming nights listed on soundcheck as of Mon, 20 Jul 2026; the next is "SENSU • Shanti Celeste • Junor & Iggie • Sub Club" on Fri, 24 Jul 2026.
+Sub Club is a music venue in Glasgow with 18 upcoming nights listed on soundcheck as of Tue, 21 Jul 2026; the next is "SENSU • Shanti Celeste • Junor & Iggie • Sub Club" on Fri, 24 Jul 2026.
 
 Sub Club is a music venue in Glasgow listed on soundcheck. 18 upcoming nights, with line-ups including Acido Cielo, Dean Turnley, DJ Seinfeld and FJAAK and 2 more. Browse upcoming dates, start times and who's playing. 22 Jamaica St; Glasgow, G1 4QD; Scotland; United Kingdom.
 
@@ -23,4 +23,4 @@ Sub Club is a music venue in Glasgow listed on soundcheck. 18 upcoming nights, w
 
 22 Jamaica St; Glasgow, G1 4QD; Scotland; United Kingdom, Glasgow
 
-*Updated Mon, 20 Jul 2026 · source: [soundcheck](https://soundcheck.club/glasgow/club/sub-club/)*
+*Updated Tue, 21 Jul 2026 · source: [soundcheck](https://soundcheck.club/glasgow/club/sub-club/)*

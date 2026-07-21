@@ -1,6 +1,6 @@
 # Tuxe
 
-Tuxe is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Mon, 20 Jul 2026, next at Otto Wagner Areal, Vienna on Sun, 26 Jul 2026.
+Tuxe is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Tue, 21 Jul 2026, next at Otto Wagner Areal, Vienna on Sun, 26 Jul 2026.
 
 Tuxe is a house and techno artist based in Brazil, tracked on soundcheck, with 29 sets logged across Amsterdam, Berlin, Brussels and Copenhagen and 4 more. Often billed alongside Alírio, Ananda (BR) and Guza. Next up: Otto Wagner Areal, Vienna on Sun 26 Jul.
 
@@ -26,4 +26,4 @@ Tuxe is a house and techno artist based in Brazil, tracked on soundcheck, with 2
 
 Alírio, Ananda (BR), Guza
 
-*Updated Mon, 20 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/tuxe/)*
+*Updated Tue, 21 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/tuxe/)*

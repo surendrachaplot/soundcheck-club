@@ -1,6 +1,6 @@
 # TBA - NYHAVN 71
 
-TBA - NYHAVN 71 is a music venue in Copenhagen with 1 upcoming night listed on soundcheck as of Mon, 20 Jul 2026; the next is "Summer Boat Party" on Sat, 29 Aug 2026.
+TBA - NYHAVN 71 is a music venue in Copenhagen with 1 upcoming night listed on soundcheck as of Tue, 21 Jul 2026; the next is "Sounds Good - Summer Boat Party" on Sat, 29 Aug 2026.
 
 TBA - NYHAVN 71 is a music venue in Copenhagen listed on soundcheck. 1 upcoming night. Browse upcoming dates, start times and who's playing.
 
@@ -8,6 +8,6 @@ TBA - NYHAVN 71 is a music venue in Copenhagen listed on soundcheck. 1 upcoming 
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Sat, 29 Aug 2026 | Summer Boat Party |  |
+| Sat, 29 Aug 2026 | Sounds Good - Summer Boat Party |  |
 
-*Updated Mon, 20 Jul 2026 · source: [soundcheck](https://soundcheck.club/copenhagen/club/tba-nyhavn-71/)*
+*Updated Tue, 21 Jul 2026 · source: [soundcheck](https://soundcheck.club/copenhagen/club/tba-nyhavn-71/)*

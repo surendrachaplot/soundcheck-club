@@ -1,6 +1,6 @@
 # Duke Of Tokyo
 
-Duke Of Tokyo is a music venue in Amsterdam with 1 upcoming night listed on soundcheck as of Mon, 20 Jul 2026; the next is "Sake to Me" on Fri, 24 Jul 2026.
+Duke Of Tokyo is a music venue in Amsterdam with 1 upcoming night listed on soundcheck as of Tue, 21 Jul 2026; the next is "Sake to Me" on Fri, 24 Jul 2026.
 
 Duke Of Tokyo is a music venue in Amsterdam listed on soundcheck. 1 upcoming night. Browse upcoming dates, start times and who's playing. Reguliersdwarsstraat 37, 1017 BK Amsterdam, Netherlands.
 
@@ -14,4 +14,4 @@ Duke Of Tokyo is a music venue in Amsterdam listed on soundcheck. 1 upcoming nig
 
 Reguliersdwarsstraat 37, 1017 BK Amsterdam, Netherlands, Amsterdam
 
-*Updated Mon, 20 Jul 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/duke-of-tokyo/)*
+*Updated Tue, 21 Jul 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/duke-of-tokyo/)*

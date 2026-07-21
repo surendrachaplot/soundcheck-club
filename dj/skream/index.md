@@ -1,8 +1,8 @@
 # Skream
 
-Skream is a House and Techno artist with 11 upcoming club dates listed on soundcheck as of Mon, 20 Jul 2026, next at Chinois Ibiza, Ibiza on Tue, 21 Jul 2026.
+Skream is a House and Techno artist with 12 upcoming club dates listed on soundcheck as of Tue, 21 Jul 2026, next at Chinois Ibiza, Ibiza on Tue, 21 Jul 2026.
 
-Skream is a house and techno artist tracked on soundcheck, with 206 sets logged across Amsterdam, Antwerp, Bali and Bangkok and 57 more. Often billed alongside Seth Troxler, Benga and DJ Tennis. Next up: Chinois Ibiza, Ibiza on Tue 21 Jul.
+Skream is a house and techno artist tracked on soundcheck, with 207 sets logged across Amsterdam, Antwerp, Bali and Bangkok and 57 more. Often billed alongside Seth Troxler, Benga and DJ Tennis. Next up: Chinois Ibiza, Ibiza on Tue 21 Jul.
 
 ## Upcoming shows
 
@@ -12,6 +12,7 @@ Skream is a house and techno artist tracked on soundcheck, with 206 sets logged 
 | Tue, 28 Jul 2026 | Hï Ibiza | Ibiza |
 | Sat, 8 Aug 2026 | Studio Club Malaga | Malaga |
 | Sun, 9 Aug 2026 | Burgess Park | London |
+| Tue, 11 Aug 2026 | Pacha Ibiza | Ibiza |
 | Mon, 17 Aug 2026 | DC-10 | Ibiza |
 | Sat, 22 Aug 2026 | Dullingham Polo Club | London |
 | Sat, 29 Aug 2026 | Kelvedon Hall | London |
@@ -35,4 +36,4 @@ Skream is a house and techno artist tracked on soundcheck, with 206 sets logged 
 
 Seth Troxler, Benga, DJ Tennis
 
-*Updated Mon, 20 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/skream/)*
+*Updated Tue, 21 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/skream/)*

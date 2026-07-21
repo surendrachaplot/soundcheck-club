@@ -1,6 +1,6 @@
 # Salitre
 
-Salitre is a electronic artist with 2 upcoming club dates listed on soundcheck as of Mon, 20 Jul 2026, next at Círculo, Barcelona on Sat, 25 Jul 2026.
+Salitre is a electronic artist with 2 upcoming club dates listed on soundcheck as of Tue, 21 Jul 2026, next at Círculo, Barcelona on Sat, 25 Jul 2026.
 
 Salitre is an electronic artist based in Venezuela, tracked on soundcheck, with 33 sets logged across Barcelona and Mexicocity. Often billed alongside Vegan Cannibal. Next up: Círculo, Barcelona on Sat 25 Jul.
 
@@ -26,4 +26,4 @@ Salitre is an electronic artist based in Venezuela, tracked on soundcheck, with 
 
 Vegan Cannibal
 
-*Updated Mon, 20 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/salitre/)*
+*Updated Tue, 21 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/salitre/)*

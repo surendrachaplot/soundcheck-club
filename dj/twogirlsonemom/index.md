@@ -1,6 +1,6 @@
 # two girls one mom
 
-two girls one mom is a Trance and Techno artist with 8 upcoming club dates listed on soundcheck as of Mon, 20 Jul 2026, next at Südpol, Hamburg on Fri, 24 Jul 2026.
+two girls one mom is a Trance and Techno artist with 8 upcoming club dates listed on soundcheck as of Tue, 21 Jul 2026, next at Südpol, Hamburg on Fri, 24 Jul 2026.
 
 two girls one mom is a trance and techno artist tracked on soundcheck, with 82 sets logged across Berlin, Frankfurt, Hamburg and Leipzig and 4 more. Often billed alongside bbymeister, August Kind and Deltapeak. Next up: Südpol, Hamburg on Fri 24 Jul.
 
@@ -32,4 +32,4 @@ two girls one mom is a trance and techno artist tracked on soundcheck, with 82 s
 
 bbymeister, August Kind, Deltapeak
 
-*Updated Mon, 20 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/twogirlsonemom/)*
+*Updated Tue, 21 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/twogirlsonemom/)*

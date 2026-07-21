@@ -1,6 +1,6 @@
 # zey
 
-zey is a Techno and Club artist with 2 upcoming club dates listed on soundcheck as of Mon, 20 Jul 2026, next at Ankali & Planeta Za, Prague on Sat, 29 Aug 2026.
+zey is a Techno and Club artist with 2 upcoming club dates listed on soundcheck as of Tue, 21 Jul 2026, next at Ankali & Planeta Za, Prague on Sat, 29 Aug 2026.
 
 zey is a techno and club artist tracked on soundcheck, with 37 sets logged across Amsterdam, Prague, Rotterdam and Sydney and 1 more. Often billed alongside মm., Gawdesque and Qamareen. Next up: Ankali & Planeta Za, Prague on Sat 29 Aug.
 
@@ -26,4 +26,4 @@ zey is a techno and club artist tracked on soundcheck, with 37 sets logged acros
 
 মm., Gawdesque, Qamareen
 
-*Updated Mon, 20 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/zey/)*
+*Updated Tue, 21 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/zey/)*

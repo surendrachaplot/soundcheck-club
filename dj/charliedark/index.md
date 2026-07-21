@@ -1,6 +1,6 @@
 # Charlie Dark
 
-Charlie Dark is a Disco and House artist with 2 upcoming club dates listed on soundcheck as of Mon, 20 Jul 2026, next at The Love Inn, Bristol on Sat, 1 Aug 2026.
+Charlie Dark is a Disco and House artist with 2 upcoming club dates listed on soundcheck as of Tue, 21 Jul 2026, next at The Love Inn, Bristol on Sat, 1 Aug 2026.
 
 Charlie Dark is a disco and house artist tracked on soundcheck, with 54 sets logged across Barcelona, Brighton, Bristol and Copenhagen and 7 more. Often billed alongside Dean Bryce, MiNNA and Tash LC. Next up: The Love Inn, Bristol on Sat 1 Aug.
 
@@ -26,4 +26,4 @@ Charlie Dark is a disco and house artist tracked on soundcheck, with 54 sets log
 
 Dean Bryce, MiNNA, Tash LC
 
-*Updated Mon, 20 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/charliedark/)*
+*Updated Tue, 21 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/charliedark/)*

@@ -1,6 +1,6 @@
 # You&Me at Amnesia Ibiza
 
-You&Me at Amnesia Ibiza on Thu 23 Jul, Ibiza. 4 acts on the bill: Josh Baker, Kolter, Sidney Charles and jWave. Tech House. Preview the line-up and save it on soundcheck.
+You&Me at Amnesia Ibiza on Thu 23 Jul, Ibiza. 6 acts on the bill: Cinthie, Josh Baker, Kolter and Luuk van Dijk and 2 more. Tech House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,8 +10,10 @@ You&Me at Amnesia Ibiza on Thu 23 Jul, Ibiza. 4 acts on the bill: Josh Baker, Ko
 
 ## Line-up
 
+- Cinthie
 - Josh Baker
 - Kolter
+- Luuk van Dijk
 - Sidney Charles
 - jWave
 

@@ -1,6 +1,6 @@
 # Subculture with Telford [All Night Long] at Sub Club
 
-Subculture with Telford [All Night Long] at Sub Club on Sat 25 Jul, Glasgow. 1 act on the bill: Telford. Preview the line-up and save it on soundcheck.
+Subculture with Telford [All Night Long] at Sub Club on Sat 25 Jul, Glasgow. 1 act on the bill: Telford. Techno and House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

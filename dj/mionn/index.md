@@ -1,6 +1,6 @@
 # mionn
 
-mionn is a Amapiano and Bass artist with 2 upcoming club dates listed on soundcheck as of Mon, 20 Jul 2026, next at Decabar Super, Tokyo on Sat, 25 Jul 2026.
+mionn is a Amapiano and Bass artist with 2 upcoming club dates listed on soundcheck as of Tue, 21 Jul 2026, next at Decabar Super, Tokyo on Sat, 25 Jul 2026.
 
 mionn is an amapiano and bass artist tracked on soundcheck, with 46 sets logged across Kyoto, Osaka and Tokyo. Often billed alongside mitokon, 35DH-1 and pìccolo. Next up: Decabar Super, Tokyo on Sat 25 Jul.
 
@@ -26,4 +26,4 @@ mionn is an amapiano and bass artist tracked on soundcheck, with 46 sets logged 
 
 mitokon, 35DH-1, pìccolo
 
-*Updated Mon, 20 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/mionn/)*
+*Updated Tue, 21 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/mionn/)*

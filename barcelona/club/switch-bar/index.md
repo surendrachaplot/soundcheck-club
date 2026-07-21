@@ -1,6 +1,6 @@
 # Switch Bar
 
-Switch Bar is a music venue in Barcelona with 9 upcoming nights listed on soundcheck as of Mon, 20 Jul 2026; the next is "María Cue, Vultur" on Wed, 22 Jul 2026.
+Switch Bar is a music venue in Barcelona with 9 upcoming nights listed on soundcheck as of Tue, 21 Jul 2026; the next is "María Cue, Vultur" on Wed, 22 Jul 2026.
 
 Switch Bar is a music venue in Barcelona listed on soundcheck. 9 upcoming nights, with line-ups including Alessa (ES), Dada Disco, Edu C and LeMichael and 2 more. Browse upcoming dates, start times and who's playing. Carrer Francisco Giner, 24, 08012 Barcelona, Spain.
 
@@ -22,4 +22,4 @@ Switch Bar is a music venue in Barcelona listed on soundcheck. 9 upcoming nights
 
 Carrer Francisco Giner, 24, 08012 Barcelona, Spain, Barcelona
 
-*Updated Mon, 20 Jul 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/switch-bar/)*
+*Updated Tue, 21 Jul 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/switch-bar/)*

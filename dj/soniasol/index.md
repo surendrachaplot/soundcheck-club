@@ -1,6 +1,6 @@
 # Sonia Sol
 
-Sonia Sol is a Afrobeat and Afrobeats artist with 2 upcoming club dates listed on soundcheck as of Mon, 20 Jul 2026, next at Sigurd CPH, Copenhagen on Sat, 25 Jul 2026.
+Sonia Sol is a Afrobeat and Afrobeats artist with 2 upcoming club dates listed on soundcheck as of Tue, 21 Jul 2026, next at Sigurd CPH, Copenhagen on Sat, 25 Jul 2026.
 
 Sonia Sol is an afrobeat and afrobeats artist based in United States of America, tracked on soundcheck, with 29 sets logged across Berlin, Copenhagen, London and Losangeles and 5 more. Often billed alongside AceMo, Cquestt and JVINCENT. Next up: Sigurd CPH, Copenhagen on Sat 25 Jul.
 
@@ -26,4 +26,4 @@ Sonia Sol is an afrobeat and afrobeats artist based in United States of America,
 
 AceMo, Cquestt, JVINCENT
 
-*Updated Mon, 20 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/soniasol/)*
+*Updated Tue, 21 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/soniasol/)*

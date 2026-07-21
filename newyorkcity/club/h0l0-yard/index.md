@@ -1,6 +1,6 @@
 # H0l0 Yard
 
-H0l0 Yard is a music venue in New York City with 5 upcoming nights listed on soundcheck as of Mon, 20 Jul 2026; the next is "Spinall Open-Air w. Vonnie Mack, WEMI, & More" on Sat, 25 Jul 2026.
+H0l0 Yard is a music venue in New York City with 5 upcoming nights listed on soundcheck as of Tue, 21 Jul 2026; the next is "Spinall Open-Air w. Vonnie Mack, WEMI, & More" on Sat, 25 Jul 2026.
 
 H0l0 Yard is a music venue in Newyorkcity listed on soundcheck. 5 upcoming nights, with line-ups including Andre Power, Bella Mutino, Classmatic and Enzo is Burning and 2 more. Browse upcoming dates, start times and who's playing. 1563 Decatur St., Ridgewood, NY 11385.
 
@@ -18,4 +18,4 @@ H0l0 Yard is a music venue in Newyorkcity listed on soundcheck. 5 upcoming night
 
 1563 Decatur St., Ridgewood, NY 11385, New York City
 
-*Updated Mon, 20 Jul 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/h0l0-yard/)*
+*Updated Tue, 21 Jul 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/h0l0-yard/)*

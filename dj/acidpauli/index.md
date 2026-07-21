@@ -1,6 +1,6 @@
 # Acid Pauli
 
-Acid Pauli is a House and Techno artist with 4 upcoming club dates listed on soundcheck as of Mon, 20 Jul 2026, next at Budapest Park, Budapest on Sat, 1 Aug 2026.
+Acid Pauli is a House and Techno artist with 4 upcoming club dates listed on soundcheck as of Tue, 21 Jul 2026, next at Budapest Park, Budapest on Sat, 1 Aug 2026.
 
 Acid Pauli is a house and techno artist tracked on soundcheck, with 95 sets logged across Amsterdam, Antwerp, Bali and Barcelona and 34 more. Often billed alongside Viken Arman, Damian Lazarus and Jonathan Kaspar. Next up: Budapest Park, Budapest on Sat 1 Aug.
 
@@ -28,4 +28,4 @@ Acid Pauli is a house and techno artist tracked on soundcheck, with 95 sets logg
 
 Viken Arman, Damian Lazarus, Jonathan Kaspar
 
-*Updated Mon, 20 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/acidpauli/)*
+*Updated Tue, 21 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/acidpauli/)*

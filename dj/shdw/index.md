@@ -1,6 +1,6 @@
 # SHDW
 
-SHDW is a Techno and House artist with 10 upcoming club dates listed on soundcheck as of Mon, 20 Jul 2026, next at Grelle Forelle, Vienna on Fri, 24 Jul 2026.
+SHDW is a Techno and House artist with 10 upcoming club dates listed on soundcheck as of Tue, 21 Jul 2026, next at Grelle Forelle, Vienna on Fri, 24 Jul 2026.
 
 SHDW is a techno and house artist tracked on soundcheck, with 190 sets logged across Amsterdam, Antwerp, Athens and Austin and 60 more. Often billed alongside ANNĒ, Alarico and Lars Huismann. Next up: Grelle Forelle, Vienna on Fri 24 Jul.
 
@@ -34,4 +34,4 @@ SHDW is a techno and house artist tracked on soundcheck, with 190 sets logged ac
 
 ANNĒ, Alarico, Lars Huismann
 
-*Updated Mon, 20 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/shdw/)*
+*Updated Tue, 21 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/shdw/)*

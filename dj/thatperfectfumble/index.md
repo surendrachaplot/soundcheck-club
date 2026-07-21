@@ -1,6 +1,6 @@
 # That Perfect Fumble
 
-That Perfect Fumble is a House and Hip-Hop artist with 4 upcoming club dates listed on soundcheck as of Mon, 20 Jul 2026, next at The Roxy, London on Sat, 5 Sept 2026.
+That Perfect Fumble is a House and Hip-Hop artist with 4 upcoming club dates listed on soundcheck as of Tue, 21 Jul 2026, next at The Roxy, London on Sat, 5 Sept 2026.
 
 That Perfect Fumble is a house and hip-hop artist based in United Kingdom, tracked on soundcheck, with 41 sets logged across London. Often billed alongside Gem Precious and Moses Jazz. Next up: The Roxy, London on Sat 5 Sept.
 
@@ -28,4 +28,4 @@ That Perfect Fumble is a house and hip-hop artist based in United Kingdom, track
 
 Gem Precious, Moses Jazz
 
-*Updated Mon, 20 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/thatperfectfumble/)*
+*Updated Tue, 21 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/thatperfectfumble/)*

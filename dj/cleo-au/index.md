@@ -1,6 +1,6 @@
 # Cleo (AU)
 
-Cleo (AU) is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Mon, 20 Jul 2026, next at ÆDEN, Berlin on Fri, 31 Jul 2026.
+Cleo (AU) is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Tue, 21 Jul 2026, next at ÆDEN, Berlin on Fri, 31 Jul 2026.
 
 Cleo (AU) is a house and techno artist based in Australia, tracked on soundcheck, with 25 sets logged across Berlin, Lyon, Paris and Sydney and 1 more. Often billed alongside Barry Can't Swim, CLEO and Jayda G. Next up: ÆDEN, Berlin on Fri 31 Jul.
 
@@ -26,4 +26,4 @@ Cleo (AU) is a house and techno artist based in Australia, tracked on soundcheck
 
 Barry Can't Swim, CLEO, Jayda G
 
-*Updated Mon, 20 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/cleo-au/)*
+*Updated Tue, 21 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/cleo-au/)*

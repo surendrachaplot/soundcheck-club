@@ -1,6 +1,6 @@
 # TBA - Treehouse NDSM
 
-TBA - Treehouse NDSM is a music venue in Amsterdam with 1 upcoming night listed on soundcheck as of Mon, 20 Jul 2026; the next is "Night At Our Place: Special Pride" on Fri, 31 Jul 2026.
+TBA - Treehouse NDSM is a music venue in Amsterdam with 1 upcoming night listed on soundcheck as of Tue, 21 Jul 2026; the next is "Night At Our Place: Special Pride" on Fri, 31 Jul 2026.
 
 TBA - Treehouse NDSM is a music venue in Amsterdam listed on soundcheck. 1 upcoming night. Browse upcoming dates, start times and who's playing.
 
@@ -10,4 +10,4 @@ TBA - Treehouse NDSM is a music venue in Amsterdam listed on soundcheck. 1 upcom
 | --- | --- | --- |
 | Fri, 31 Jul 2026 | Night At Our Place: Special Pride |  |
 
-*Updated Mon, 20 Jul 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/tba-treehouse-ndsm/)*
+*Updated Tue, 21 Jul 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/tba-treehouse-ndsm/)*

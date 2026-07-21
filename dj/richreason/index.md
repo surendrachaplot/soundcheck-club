@@ -1,6 +1,6 @@
 # Rich Reason
 
-Rich Reason is a Disco and Garage artist with 3 upcoming club dates listed on soundcheck as of Mon, 20 Jul 2026, next at Freight Island, Manchester on Sun, 2 Aug 2026.
+Rich Reason is a Disco and Garage artist with 3 upcoming club dates listed on soundcheck as of Tue, 21 Jul 2026, next at Freight Island, Manchester on Sun, 2 Aug 2026.
 
 Rich Reason is a disco and garage artist tracked on soundcheck, with 164 sets logged across Bristol, Leeds, London and Manchester and 2 more. Often billed alongside LARISHKA (UK), T-Man (UK) and Chunky. Next up: Freight Island, Manchester on Sun 2 Aug.
 
@@ -27,4 +27,4 @@ Rich Reason is a disco and garage artist tracked on soundcheck, with 164 sets lo
 
 LARISHKA (UK), T-Man (UK), Chunky
 
-*Updated Mon, 20 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/richreason/)*
+*Updated Tue, 21 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/richreason/)*

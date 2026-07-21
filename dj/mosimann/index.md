@@ -1,8 +1,8 @@
 # Mosimann
 
-Mosimann is a Techno and Electro artist with 3 upcoming club dates listed on soundcheck as of Mon, 20 Jul 2026, next at Paléo Festival, Geneva on Tue, 21 Jul 2026.
+Mosimann is a Electro and Techno artist with 4 upcoming club dates listed on soundcheck as of Tue, 21 Jul 2026, next at Paléo Festival, Geneva on Tue, 21 Jul 2026.
 
-Mosimann is a techno and electro artist tracked on soundcheck, with 18 sets logged across Amsterdam, Barcelona, Brussels and Geneva and 6 more. Often billed alongside Vladimir Cauchemar, Acid Arab and Agoria. Next up: Paléo Festival, Geneva on Tue 21 Jul.
+Mosimann is an electro and techno artist tracked on soundcheck, with 19 sets logged across Amsterdam, Barcelona, Brussels and Geneva and 6 more. Often billed alongside Vladimir Cauchemar, Acid Arab and Agoria. Next up: Paléo Festival, Geneva on Tue 21 Jul.
 
 ## Upcoming shows
 
@@ -11,6 +11,7 @@ Mosimann is a techno and electro artist tracked on soundcheck, with 18 sets logg
 | Tue, 21 Jul 2026 | Paléo Festival | Geneva |
 | Wed, 29 Jul 2026 | Amnesia Ibiza | Ibiza |
 | Sat, 12 Sept 2026 | Cova Santa | Ibiza |
+| Sun, 18 Oct 2026 | Zénith Paris - La Villette | Paris |
 
 ## Recently played
 
@@ -27,4 +28,4 @@ Mosimann is a techno and electro artist tracked on soundcheck, with 18 sets logg
 
 Vladimir Cauchemar, Acid Arab, Agoria
 
-*Updated Mon, 20 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/mosimann/)*
+*Updated Tue, 21 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/mosimann/)*

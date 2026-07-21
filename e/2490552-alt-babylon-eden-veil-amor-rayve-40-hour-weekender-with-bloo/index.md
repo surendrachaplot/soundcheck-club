@@ -1,6 +1,6 @@
 # ALT BABYLON: EDEN × VEIL AMOR × RAYVE - 40-Hour Weekender with Bloody Mary, Lars Huismann, Ly Sas at Altenburg 1964
 
-ALT BABYLON: EDEN × VEIL AMOR × RAYVE - 40-Hour Weekender with Bloody Mary, Lars Huismann, Ly Sas at Altenburg 1964 on Fri 21 Aug, Prague. 20 acts on the bill: 2NDRA, AVHD, Bloody Mary and Dash (CZ) and 16 more. Techno. Preview the line-up and save it on soundcheck.
+ALT BABYLON: EDEN × VEIL AMOR × RAYVE - 40-Hour Weekender with Bloody Mary, Lars Huismann, Ly Sas at Altenburg 1964 on Fri 21 Aug, Prague. 21 acts on the bill: 2NDRA, AVHD, Bloody Mary and Dash (CZ) and 17 more. Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -29,6 +29,7 @@ ALT BABYLON: EDEN × VEIL AMOR × RAYVE - 40-Hour Weekender with Bloody Mary, La
 - Riki Boro
 - S.N.R.I.
 - SJ Yellow
+- SURCO
 - Technadze
 
 *Source: [soundcheck](https://soundcheck.club/e/2490552-alt-babylon-eden-veil-amor-rayve-40-hour-weekender-with-bloo/)*

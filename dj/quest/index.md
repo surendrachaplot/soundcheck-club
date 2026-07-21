@@ -1,13 +1,14 @@
 # Quest
 
-Quest is a Techno and House artist with 7 upcoming club dates listed on soundcheck as of Mon, 20 Jul 2026, next at Amsterdamse Bos, Amsterdam on Wed, 29 Jul 2026.
+Quest is a Techno and House artist with 8 upcoming club dates listed on soundcheck as of Tue, 21 Jul 2026, next at Gorg-O-Mish, Vancouver on Sun, 26 Jul 2026.
 
-Quest is a techno and house artist based in United Kingdom, tracked on soundcheck, with 91 sets logged across Amsterdam, Barcelona, Basel and Belgrade and 29 more. Often billed alongside Christian AB, Adiel and Francesco Del Garda. Next up: Amsterdamse Bos, Amsterdam on Wed 29 Jul.
+Quest is a techno and house artist based in United Kingdom, tracked on soundcheck, with 92 sets logged across Amsterdam, Barcelona, Basel and Belgrade and 29 more. Often billed alongside Christian AB, Adiel and Francesco Del Garda. Next up: Gorg-O-Mish, Vancouver on Sun 26 Jul.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sun, 26 Jul 2026 | Gorg-O-Mish | Vancouver |
 | Wed, 29 Jul 2026 | Amsterdamse Bos | Amsterdam |
 | Fri, 31 Jul 2026 | Amsterdamse Bos | Amsterdam |
 | Sat, 1 Aug 2026 | TBA - Hollywood Park adjacent to SoFi Stadium | Los Angeles |
@@ -31,4 +32,4 @@ Quest is a techno and house artist based in United Kingdom, tracked on soundchec
 
 Christian AB, Adiel, Francesco Del Garda
 
-*Updated Mon, 20 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/quest/)*
+*Updated Tue, 21 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/quest/)*

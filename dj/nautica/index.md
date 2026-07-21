@@ -1,6 +1,6 @@
 # Nautica
 
-Nautica is a Tech House and House artist with 2 upcoming club dates listed on soundcheck as of Mon, 20 Jul 2026, next at Document, Bristol on Fri, 25 Sept 2026.
+Nautica is a Tech House and House artist with 2 upcoming club dates listed on soundcheck as of Tue, 21 Jul 2026, next at Document, Bristol on Fri, 25 Sept 2026.
 
 Nautica is a tech house and house artist tracked on soundcheck, with 35 sets logged across Amsterdam, Barcelona, Belfast and Bristol and 7 more. Often billed alongside Josh Baker, Max Dean and Rossi. Next up: Document, Bristol on Fri 25 Sept.
 
@@ -26,4 +26,4 @@ Nautica is a tech house and house artist tracked on soundcheck, with 35 sets log
 
 Josh Baker, Max Dean, Rossi
 
-*Updated Mon, 20 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/nautica/)*
+*Updated Tue, 21 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/nautica/)*

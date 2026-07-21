@@ -1,6 +1,6 @@
 # Yazzus
 
-Yazzus is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Mon, 20 Jul 2026, next at CLUB RAUM, Amsterdam on Fri, 31 Jul 2026.
+Yazzus is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Tue, 21 Jul 2026, next at CLUB RAUM, Amsterdam on Fri, 31 Jul 2026.
 
 Yazzus is a techno and house artist tracked on soundcheck, with 163 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 41 more. Often billed alongside DJ TOOL, Hyperaktivist and D.Dan. Next up: CLUB RAUM, Amsterdam on Fri 31 Jul.
 
@@ -27,4 +27,4 @@ Yazzus is a techno and house artist tracked on soundcheck, with 163 sets logged 
 
 DJ TOOL, Hyperaktivist, D.Dan
 
-*Updated Mon, 20 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/yazzus/)*
+*Updated Tue, 21 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/yazzus/)*

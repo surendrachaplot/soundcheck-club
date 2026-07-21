@@ -1,6 +1,6 @@
 # Michael Upson
 
-Michael Upson is a House and Disco artist with 4 upcoming club dates listed on soundcheck as of Mon, 20 Jul 2026, next at The Golden Lion, Manchester on Sat, 25 Jul 2026.
+Michael Upson is a House and Disco artist with 4 upcoming club dates listed on soundcheck as of Tue, 21 Jul 2026, next at The Golden Lion, Manchester on Sat, 25 Jul 2026.
 
 Michael Upson is a house and disco artist based in United Kingdom, tracked on soundcheck, with 39 sets logged across Bristol, Leeds, London and Manchester and 2 more. Often billed alongside DJ Subaru, Lucy Locket and Kessie. Next up: The Golden Lion, Manchester on Sat 25 Jul.
 
@@ -28,4 +28,4 @@ Michael Upson is a house and disco artist based in United Kingdom, tracked on so
 
 DJ Subaru, Lucy Locket, Kessie
 
-*Updated Mon, 20 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/michaelupson/)*
+*Updated Tue, 21 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/michaelupson/)*

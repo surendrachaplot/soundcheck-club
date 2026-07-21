@@ -1,6 +1,6 @@
 # Clarisa Kimskii
 
-Clarisa Kimskii is a Techno and House artist with 7 upcoming club dates listed on soundcheck as of Mon, 20 Jul 2026, next at TBA - 4211 Todd Ln Suite A, Austin on Fri, 24 Jul 2026.
+Clarisa Kimskii is a Techno and House artist with 7 upcoming club dates listed on soundcheck as of Tue, 21 Jul 2026, next at TBA - 4211 Todd Ln Suite A, Austin on Fri, 24 Jul 2026.
 
 Clarisa Kimskii is a techno and house artist tracked on soundcheck, with 156 sets logged across Amsterdam, Antwerp, Athens and Austin and 34 more. Often billed alongside Ne/Re/A, Mike Servito and Kiernan Laveaux. Next up: TBA - 4211 Todd Ln Suite A, Austin on Fri 24 Jul.
 
@@ -31,4 +31,4 @@ Clarisa Kimskii is a techno and house artist tracked on soundcheck, with 156 set
 
 Ne/Re/A, Mike Servito, Kiernan Laveaux
 
-*Updated Mon, 20 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/clarisakimskii/)*
+*Updated Tue, 21 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/clarisakimskii/)*

@@ -1,6 +1,6 @@
 # Choukroun
 
-Choukroun is a House and Techno artist with 5 upcoming club dates listed on soundcheck as of Mon, 20 Jul 2026, next at Signal, New York City on Thu, 23 Jul 2026.
+Choukroun is a House and Techno artist with 5 upcoming club dates listed on soundcheck as of Tue, 21 Jul 2026, next at Signal, New York City on Thu, 23 Jul 2026.
 
 Choukroun is a house and techno artist based in United States of America, tracked on soundcheck, with 103 sets logged across Miami and Newyorkcity. Often billed alongside Armii1n, Zayd and Monk (2). Next up: Signal, Newyorkcity on Thu 23 Jul.
 
@@ -29,4 +29,4 @@ Choukroun is a house and techno artist based in United States of America, tracke
 
 Armii1n, Zayd, Monk (2)
 
-*Updated Mon, 20 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/choukroun/)*
+*Updated Tue, 21 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/choukroun/)*

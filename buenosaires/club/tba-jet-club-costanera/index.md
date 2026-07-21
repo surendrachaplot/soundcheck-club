@@ -1,6 +1,6 @@
 # TBA - Jet Club, Costanera
 
-TBA - Jet Club, Costanera is a music venue in Buenos Aires with 1 upcoming night listed on soundcheck as of Mon, 20 Jul 2026; the next is "GUEVA & MORE ARTISTS [SUNSET EDITION] - by ELEMENTS, JET CLUB" on Sat, 1 Aug 2026.
+TBA - Jet Club, Costanera is a music venue in Buenos Aires with 1 upcoming night listed on soundcheck as of Tue, 21 Jul 2026; the next is "GUEVA & MORE ARTISTS [SUNSET EDITION] - by ELEMENTS, JET CLUB" on Sat, 1 Aug 2026.
 
 TBA - Jet Club, Costanera is a music venue in Buenosaires listed on soundcheck. 1 upcoming night, with line-ups including MAXIMILIANO (US). Browse upcoming dates, start times and who's playing.
 
@@ -10,4 +10,4 @@ TBA - Jet Club, Costanera is a music venue in Buenosaires listed on soundcheck. 
 | --- | --- | --- |
 | Sat, 1 Aug 2026 | GUEVA & MORE ARTISTS [SUNSET EDITION] - by ELEMENTS, JET CLUB | MAXIMILIANO (US) |
 
-*Updated Mon, 20 Jul 2026 · source: [soundcheck](https://soundcheck.club/buenosaires/club/tba-jet-club-costanera/)*
+*Updated Tue, 21 Jul 2026 · source: [soundcheck](https://soundcheck.club/buenosaires/club/tba-jet-club-costanera/)*

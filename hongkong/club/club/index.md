@@ -1,6 +1,6 @@
 # 宀 Club
 
-宀 Club is a music venue in Hong Kong with 18 upcoming nights listed on soundcheck as of Mon, 20 Jul 2026; the next is "宀 Invites levolant (Mitsuki, Tokyo) [All Night Long Vinyl Set]" on Fri, 24 Jul 2026.
+宀 Club is a music venue in Hong Kong with 18 upcoming nights listed on soundcheck as of Tue, 21 Jul 2026; the next is "宀 Invites levolant (Mitsuki, Tokyo) [All Night Long Vinyl Set]" on Fri, 24 Jul 2026.
 
 宀 Club is a music venue in Hongkong listed on soundcheck. 18 upcoming nights, with line-ups including 69DB, Albino Sound, A Strange Wedding and Charlieowo and 2 more. Browse upcoming dates, start times and who's playing. 4F, 279 Des Voeux Road Central, Sheung Wan, Hong Kong.
 
@@ -23,4 +23,4 @@
 
 4F, 279 Des Voeux Road Central, Sheung Wan, Hong Kong, Hong Kong
 
-*Updated Mon, 20 Jul 2026 · source: [soundcheck](https://soundcheck.club/hongkong/club/club/)*
+*Updated Tue, 21 Jul 2026 · source: [soundcheck](https://soundcheck.club/hongkong/club/club/)*

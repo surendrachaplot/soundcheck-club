@@ -1,6 +1,6 @@
 # DJ Nobu
 
-DJ Nobu is a Techno and House artist with 13 upcoming club dates listed on soundcheck as of Mon, 20 Jul 2026, next at Mitsuki, Tokyo on Sat, 25 Jul 2026.
+DJ Nobu is a Techno and House artist with 13 upcoming club dates listed on soundcheck as of Tue, 21 Jul 2026, next at Mitsuki, Tokyo on Sat, 25 Jul 2026.
 
 DJ Nobu is a techno and house artist tracked on soundcheck, with 217 sets logged across Amsterdam, Athens, Austin and Bali and 57 more. Often billed alongside Gabrielle Kwarteng, Wata Igarashi and DVS1. Next up: Mitsuki, Tokyo on Sat 25 Jul.
 
@@ -36,4 +36,4 @@ DJ Nobu is a techno and house artist tracked on soundcheck, with 217 sets logged
 
 Gabrielle Kwarteng, Wata Igarashi, DVS1
 
-*Updated Mon, 20 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/djnobu/)*
+*Updated Tue, 21 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/djnobu/)*

@@ -1,6 +1,6 @@
 # Timur Basha
 
-Timur Basha is a Minimal and Techno artist with 2 upcoming club dates listed on soundcheck as of Mon, 20 Jul 2026, next at Club der Visionaere, Berlin on Fri, 31 Jul 2026.
+Timur Basha is a Minimal and Techno artist with 2 upcoming club dates listed on soundcheck as of Tue, 21 Jul 2026, next at Club der Visionaere, Berlin on Fri, 31 Jul 2026.
 
 Timur Basha is a minimal and techno artist based in Ukraine, tracked on soundcheck, with 39 sets logged across Barcelona, Berlin, Hamburg and Lisbon and 6 more. Often billed alongside Shakolin, Karine and Yone-Ko. Next up: Club der Visionaere, Berlin on Fri 31 Jul.
 
@@ -26,4 +26,4 @@ Timur Basha is a minimal and techno artist based in Ukraine, tracked on soundche
 
 Shakolin, Karine, Yone-Ko
 
-*Updated Mon, 20 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/timurbasha/)*
+*Updated Tue, 21 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/timurbasha/)*

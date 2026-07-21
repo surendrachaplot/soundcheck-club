@@ -1,6 +1,6 @@
 # Benny Rodrigues
 
-Benny Rodrigues is a House and Techno artist with 12 upcoming club dates listed on soundcheck as of Mon, 20 Jul 2026, next at Oranjepark, Rotterdam on Sat, 25 Jul 2026.
+Benny Rodrigues is a House and Techno artist with 12 upcoming club dates listed on soundcheck as of Tue, 21 Jul 2026, next at Oranjepark, Rotterdam on Sat, 25 Jul 2026.
 
 Benny Rodrigues is a house and techno artist tracked on soundcheck, with 184 sets logged across Amsterdam, Antwerp, Berlin and Ibiza and 3 more. Often billed alongside Michel de Hey, Prunk and Joëlla Jackson. Next up: Oranjepark, Rotterdam on Sat 25 Jul.
 
@@ -36,4 +36,4 @@ Benny Rodrigues is a house and techno artist tracked on soundcheck, with 184 set
 
 Michel de Hey, Prunk, Joëlla Jackson
 
-*Updated Mon, 20 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/bennyrodrigues/)*
+*Updated Tue, 21 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/bennyrodrigues/)*

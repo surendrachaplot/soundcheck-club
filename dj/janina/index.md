@@ -1,6 +1,6 @@
 # Janina
 
-Janina is a Techno and Tech House artist with 3 upcoming club dates listed on soundcheck as of Mon, 20 Jul 2026, next at Tresor / Globus, Berlin on Sat, 1 Aug 2026.
+Janina is a Techno and Tech House artist with 3 upcoming club dates listed on soundcheck as of Tue, 21 Jul 2026, next at Tresor / Globus, Berlin on Sat, 1 Aug 2026.
 
 Janina is a techno and tech house artist tracked on soundcheck, with 67 sets logged across Barcelona, Berlin, Hamburg and Ibiza and 5 more. Often billed alongside Francesco Farfa, Luigi Rossi and Piticu. Next up: Tresor / Globus, Berlin on Sat 1 Aug.
 
@@ -27,4 +27,4 @@ Janina is a techno and tech house artist tracked on soundcheck, with 67 sets log
 
 Francesco Farfa, Luigi Rossi, Piticu
 
-*Updated Mon, 20 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/janina/)*
+*Updated Tue, 21 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/janina/)*

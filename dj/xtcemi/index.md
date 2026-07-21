@@ -1,6 +1,6 @@
 # xtcemi
 
-xtcemi is a Club and Latin Bass artist with 2 upcoming club dates listed on soundcheck as of Mon, 20 Jul 2026, next at 1015 Folsom, San Francisco/Oakland on Fri, 21 Aug 2026.
+xtcemi is a Club and Latin Bass artist with 2 upcoming club dates listed on soundcheck as of Tue, 21 Jul 2026, next at 1015 Folsom, San Francisco/Oakland on Fri, 21 Aug 2026.
 
 xtcemi is a club and latin bass artist based in United States of America, tracked on soundcheck, with 25 sets logged across Sanfrancisco. Often billed alongside @djlobottomy, DJ Saratonin and Just Another Bitch. Next up: 1015 Folsom, Sanfrancisco on Fri 21 Aug.
 
@@ -26,4 +26,4 @@ xtcemi is a club and latin bass artist based in United States of America, tracke
 
 @djlobottomy, DJ Saratonin, Just Another Bitch
 
-*Updated Mon, 20 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/xtcemi/)*
+*Updated Tue, 21 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/xtcemi/)*

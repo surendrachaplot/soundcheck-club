@@ -1,6 +1,6 @@
 # Eastside Jon
 
-Eastside Jon is a Funk / Soul and Disco artist with 5 upcoming club dates listed on soundcheck as of Mon, 20 Jul 2026, next at Spkrbox, Detroit on Tue, 21 Jul 2026.
+Eastside Jon is a Funk / Soul and Disco artist with 5 upcoming club dates listed on soundcheck as of Tue, 21 Jul 2026, next at Spkrbox, Detroit on Tue, 21 Jul 2026.
 
 Eastside Jon is a funk / soul and disco artist based in United States of America, tracked on soundcheck, with 154 sets logged across Detroit. Often billed alongside ERNO (US), John Collins (US) and dej.y. Next up: Spkrbox, Detroit on Tue 21 Jul.
 
@@ -29,4 +29,4 @@ Eastside Jon is a funk / soul and disco artist based in United States of America
 
 ERNO (US), John Collins (US), dej.y
 
-*Updated Mon, 20 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/eastsidejon/)*
+*Updated Tue, 21 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/eastsidejon/)*

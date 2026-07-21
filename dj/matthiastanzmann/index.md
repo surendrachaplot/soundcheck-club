@@ -1,6 +1,6 @@
 # Matthias Tanzmann
 
-Matthias Tanzmann is a Tech House and House artist with 3 upcoming club dates listed on soundcheck as of Mon, 20 Jul 2026, next at Cova Santa, Ibiza on Sun, 9 Aug 2026.
+Matthias Tanzmann is a Tech House and House artist with 3 upcoming club dates listed on soundcheck as of Tue, 21 Jul 2026, next at Cova Santa, Ibiza on Sun, 9 Aug 2026.
 
 Matthias Tanzmann is a tech house and house artist tracked on soundcheck, with 105 sets logged across Amsterdam, Bali, Bangkok and Barcelona and 27 more. Often billed alongside Domenic D'Agnelli, Chris Di Perri and Davide Squillace. Next up: Cova Santa, Ibiza on Sun 9 Aug.
 
@@ -27,4 +27,4 @@ Matthias Tanzmann is a tech house and house artist tracked on soundcheck, with 1
 
 Domenic D'Agnelli, Chris Di Perri, Davide Squillace
 
-*Updated Mon, 20 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/matthiastanzmann/)*
+*Updated Tue, 21 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/matthiastanzmann/)*

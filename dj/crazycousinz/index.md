@@ -1,6 +1,6 @@
 # Crazy Cousinz
 
-Crazy Cousinz is a Garage and Amapiano artist with 2 upcoming club dates listed on soundcheck as of Mon, 20 Jul 2026, next at Setlist @ Somerset House, London on Fri, 31 Jul 2026.
+Crazy Cousinz is a Garage and Amapiano artist with 2 upcoming club dates listed on soundcheck as of Tue, 21 Jul 2026, next at Setlist @ Somerset House, London on Fri, 31 Jul 2026.
 
 Crazy Cousinz is a garage and amapiano artist tracked on soundcheck, with 37 sets logged across Amsterdam, Ibiza, London and Manchester. Often billed alongside Donae'o, Pioneer and Jerome Six. Next up: Setlist @ Somerset House, London on Fri 31 Jul.
 
@@ -26,4 +26,4 @@ Crazy Cousinz is a garage and amapiano artist tracked on soundcheck, with 37 set
 
 Donae'o, Pioneer, Jerome Six
 
-*Updated Mon, 20 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/crazycousinz/)*
+*Updated Tue, 21 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/crazycousinz/)*

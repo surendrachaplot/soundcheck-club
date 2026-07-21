@@ -1,6 +1,6 @@
 # Tripolism
 
-Tripolism is a House and Techno artist with 5 upcoming club dates listed on soundcheck as of Mon, 20 Jul 2026, next at Boston Manor Park, London on Sun, 26 Jul 2026.
+Tripolism is a House and Techno artist with 5 upcoming club dates listed on soundcheck as of Tue, 21 Jul 2026, next at Boston Manor Park, London on Sun, 26 Jul 2026.
 
 Tripolism is a house and techno artist tracked on soundcheck, with 70 sets logged across Amsterdam, Athens, Barcelona and Berlin and 25 more. Often billed alongside Bedouin, WhoMadeWho and Franky Wah. Next up: Boston Manor Park, London on Sun 26 Jul.
 
@@ -29,4 +29,4 @@ Tripolism is a house and techno artist tracked on soundcheck, with 70 sets logge
 
 Bedouin, WhoMadeWho, Franky Wah
 
-*Updated Mon, 20 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/tripolism/)*
+*Updated Tue, 21 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/tripolism/)*

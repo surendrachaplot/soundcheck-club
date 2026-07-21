@@ -1,6 +1,6 @@
 # KI/KI
 
-KI/KI is a Techno and House artist with 7 upcoming club dates listed on soundcheck as of Mon, 20 Jul 2026, next at Gianpula Village, Malta on Wed, 12 Aug 2026.
+KI/KI is a Techno and House artist with 7 upcoming club dates listed on soundcheck as of Tue, 21 Jul 2026, next at Gianpula Village, Malta on Wed, 12 Aug 2026.
 
 KI/KI is a techno and house artist tracked on soundcheck, with 187 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 56 more. Often billed alongside DJ Gigola, DJ Heartstring and Héctor Oaks. Next up: Gianpula Village, Malta on Wed 12 Aug.
 
@@ -31,4 +31,4 @@ KI/KI is a techno and house artist tracked on soundcheck, with 187 sets logged a
 
 DJ Gigola, DJ Heartstring, Héctor Oaks
 
-*Updated Mon, 20 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/ki-ki/)*
+*Updated Tue, 21 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/ki-ki/)*

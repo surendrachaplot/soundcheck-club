@@ -1,6 +1,6 @@
 # The Timber Loft
 
-The Timber Loft is a music venue in London with 2 upcoming nights listed on soundcheck as of Mon, 20 Jul 2026; the next is "Smokin Sundays" on Sun, 20 Sept 2026.
+The Timber Loft is a music venue in London with 2 upcoming nights listed on soundcheck as of Tue, 21 Jul 2026; the next is "Smokin Sundays" on Sun, 20 Sept 2026.
 
 The Timber Loft is a music venue in London listed on soundcheck. 2 upcoming nights, with line-ups including Alexis Raphael, Chiara Kidd, Smokin Jo and Steve Bug. Browse upcoming dates, start times and who's playing. 233 Shoreditch High St, London E1 6PJ.
 
@@ -15,4 +15,4 @@ The Timber Loft is a music venue in London listed on soundcheck. 2 upcoming nigh
 
 233 Shoreditch High St, London E1 6PJ, London
 
-*Updated Mon, 20 Jul 2026 · source: [soundcheck](https://soundcheck.club/london/club/the-timber-loft/)*
+*Updated Tue, 21 Jul 2026 · source: [soundcheck](https://soundcheck.club/london/club/the-timber-loft/)*

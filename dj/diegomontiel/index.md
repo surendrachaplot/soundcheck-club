@@ -1,6 +1,6 @@
 # Diego Montiel
 
-Diego Montiel is a Techno and Electro artist with 2 upcoming club dates listed on soundcheck as of Mon, 20 Jul 2026, next at Imperial Private Club, Barcelona on Fri, 24 Jul 2026.
+Diego Montiel is a Techno and Electro artist with 2 upcoming club dates listed on soundcheck as of Tue, 21 Jul 2026, next at Imperial Private Club, Barcelona on Fri, 24 Jul 2026.
 
 Diego Montiel is a techno and electro artist tracked on soundcheck, with 82 sets logged across Amsterdam, Barcelona, Berlin and Madrid and 4 more. Often billed alongside Frankie Flowerz, Jessica Bellomo and Heinech. Next up: Imperial Private Club, Barcelona on Fri 24 Jul.
 
@@ -26,4 +26,4 @@ Diego Montiel is a techno and electro artist tracked on soundcheck, with 82 sets
 
 Frankie Flowerz, Jessica Bellomo, Heinech
 
-*Updated Mon, 20 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/diegomontiel/)*
+*Updated Tue, 21 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/diegomontiel/)*

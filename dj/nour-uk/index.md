@@ -1,6 +1,6 @@
 # Nour (UK)
 
-Nour (UK) is a Progressive House and Deep House artist with 2 upcoming club dates listed on soundcheck as of Mon, 20 Jul 2026, next at Munster Munch, London on Sat, 25 Jul 2026.
+Nour (UK) is a Progressive House and Deep House artist with 2 upcoming club dates listed on soundcheck as of Tue, 21 Jul 2026, next at Munster Munch, London on Sat, 25 Jul 2026.
 
 Nour (UK) is a progressive house and deep house artist tracked on soundcheck, with 32 sets logged across London, Malta, Manchester and Nottingham. Often billed alongside Tris (UK), MXV (UK) and Carina Lawrence. Next up: Munster Munch, London on Sat 25 Jul.
 
@@ -26,4 +26,4 @@ Nour (UK) is a progressive house and deep house artist tracked on soundcheck, wi
 
 Tris (UK), MXV (UK), Carina Lawrence
 
-*Updated Mon, 20 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/nour-uk/)*
+*Updated Tue, 21 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/nour-uk/)*

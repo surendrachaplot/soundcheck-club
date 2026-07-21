@@ -1,6 +1,6 @@
 # Braga Circuit
 
-Braga Circuit is a House and Club artist with 3 upcoming club dates listed on soundcheck as of Mon, 20 Jul 2026, next at Night Tales, London on Thu, 23 Jul 2026.
+Braga Circuit is a House and Club artist with 3 upcoming club dates listed on soundcheck as of Tue, 21 Jul 2026, next at Night Tales, London on Thu, 23 Jul 2026.
 
 Braga Circuit is a house and club artist based in United Kingdom, tracked on soundcheck, with 13 sets logged across Edinburgh, Glasgow, London and Lyon. Often billed alongside AZAAD, Anastazja and Brassica. Next up: Night Tales, London on Thu 23 Jul.
 
@@ -27,4 +27,4 @@ Braga Circuit is a house and club artist based in United Kingdom, tracked on sou
 
 AZAAD, Anastazja, Brassica
 
-*Updated Mon, 20 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/bragacircuit/)*
+*Updated Tue, 21 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/bragacircuit/)*

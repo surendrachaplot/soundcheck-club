@@ -1,6 +1,6 @@
 # Maco Maria
 
-Maco Maria is a Electro and Techno artist with 2 upcoming club dates listed on soundcheck as of Mon, 20 Jul 2026, next at La Prairie du Canal, Paris on Sat, 25 Jul 2026.
+Maco Maria is a Electro and Techno artist with 2 upcoming club dates listed on soundcheck as of Tue, 21 Jul 2026, next at La Prairie du Canal, Paris on Sat, 25 Jul 2026.
 
 Maco Maria is an electro and techno artist based in France, tracked on soundcheck, with 25 sets logged across Barcelona, Brussels, Nantes and Paris. Often billed alongside Louison, Domi (FR) and LAMALICE. Next up: La Prairie du Canal, Paris on Sat 25 Jul.
 
@@ -26,4 +26,4 @@ Maco Maria is an electro and techno artist based in France, tracked on soundchec
 
 Louison, Domi (FR), LAMALICE
 
-*Updated Mon, 20 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/macomaria/)*
+*Updated Tue, 21 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/macomaria/)*

@@ -1,6 +1,6 @@
 # S!RENE
 
-S!RENE is a Hip-Hop and House artist with 2 upcoming club dates listed on soundcheck as of Mon, 20 Jul 2026, next at Newspeak, Montreal on Sat, 25 Jul 2026.
+S!RENE is a Hip-Hop and House artist with 2 upcoming club dates listed on soundcheck as of Tue, 21 Jul 2026, next at Newspeak, Montreal on Sat, 25 Jul 2026.
 
 S!RENE is a hip-hop and house artist tracked on soundcheck, with 60 sets logged across Amsterdam, Antwerp, Bali and Bangkok and 21 more. Often billed alongside Cezaire, Helina and Eileen (NL). Next up: Newspeak, Montreal on Sat 25 Jul.
 
@@ -26,4 +26,4 @@ S!RENE is a hip-hop and house artist tracked on soundcheck, with 60 sets logged 
 
 Cezaire, Helina, Eileen (NL)
 
-*Updated Mon, 20 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/s!rene/)*
+*Updated Tue, 21 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/s!rene/)*

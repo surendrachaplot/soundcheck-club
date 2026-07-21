@@ -1,6 +1,6 @@
 # K-Bar Powiśle
 
-K-Bar Powiśle is a music venue in Warsaw with 1 upcoming night listed on soundcheck as of Mon, 20 Jul 2026; the next is "Blotski Beat x K-Bar" on Sat, 25 Jul 2026.
+K-Bar Powiśle is a music venue in Warsaw with 1 upcoming night listed on soundcheck as of Tue, 21 Jul 2026; the next is "Blotski Beat x K-Bar" on Sat, 25 Jul 2026.
 
 K-Bar Powiśle is a music venue in Warsaw listed on soundcheck. 1 upcoming night, with line-ups including dtekk, Pawel Blot and VOLPEVOLPE. Browse upcoming dates, start times and who's playing. aleja 3 maja i Leona Kruczkowskiego, 00-380 Warszawa.
 
@@ -14,4 +14,4 @@ K-Bar Powiśle is a music venue in Warsaw listed on soundcheck. 1 upcoming night
 
 aleja 3 maja i Leona Kruczkowskiego, 00-380 Warszawa, Warsaw
 
-*Updated Mon, 20 Jul 2026 · source: [soundcheck](https://soundcheck.club/warsaw/club/k-bar-powi-le/)*
+*Updated Tue, 21 Jul 2026 · source: [soundcheck](https://soundcheck.club/warsaw/club/k-bar-powi-le/)*

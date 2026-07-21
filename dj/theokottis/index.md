@@ -1,6 +1,6 @@
 # Theo Kottis
 
-Theo Kottis is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Mon, 20 Jul 2026, next at Shelter Amsterdam, Amsterdam on Sat, 8 Aug 2026.
+Theo Kottis is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Tue, 21 Jul 2026, next at Shelter Amsterdam, Amsterdam on Sat, 8 Aug 2026.
 
 Theo Kottis is a house and techno artist tracked on soundcheck, with 78 sets logged across Amsterdam, Antwerp, Belfast and Berlin and 16 more. Often billed alongside Alien Communications, BAYS and Jane Fitz. Next up: Shelter Amsterdam, Amsterdam on Sat 8 Aug.
 
@@ -26,4 +26,4 @@ Theo Kottis is a house and techno artist tracked on soundcheck, with 78 sets log
 
 Alien Communications, BAYS, Jane Fitz
 
-*Updated Mon, 20 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/theokottis/)*
+*Updated Tue, 21 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/theokottis/)*

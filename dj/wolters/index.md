@@ -1,6 +1,6 @@
 # WOLTERS
 
-WOLTERS is a Techno and House artist with 5 upcoming club dates listed on soundcheck as of Mon, 20 Jul 2026, next at Thuishaven, Amsterdam on Sat, 25 Jul 2026.
+WOLTERS is a Techno and House artist with 5 upcoming club dates listed on soundcheck as of Tue, 21 Jul 2026, next at Thuishaven, Amsterdam on Sat, 25 Jul 2026.
 
 WOLTERS is a techno and house artist based in Australia, tracked on soundcheck, with 48 sets logged across Amsterdam, Antwerp, Auckland and Cologne and 10 more. Often billed alongside Bella Claxton, Osmosis Jones and Prizefight. Next up: Thuishaven, Amsterdam on Sat 25 Jul.
 
@@ -29,4 +29,4 @@ WOLTERS is a techno and house artist based in Australia, tracked on soundcheck, 
 
 Bella Claxton, Osmosis Jones, Prizefight
 
-*Updated Mon, 20 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/wolters/)*
+*Updated Tue, 21 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/wolters/)*

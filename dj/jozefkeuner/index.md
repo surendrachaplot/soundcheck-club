@@ -1,6 +1,6 @@
 # Józef Keuner
 
-Józef Keuner is a Techno and Trance artist with 3 upcoming club dates listed on soundcheck as of Mon, 20 Jul 2026, next at Smolna, Warsaw on Fri, 24 Jul 2026.
+Józef Keuner is a Techno and Trance artist with 3 upcoming club dates listed on soundcheck as of Tue, 21 Jul 2026, next at Smolna, Warsaw on Fri, 24 Jul 2026.
 
 Józef Keuner is a techno and trance artist tracked on soundcheck, with 55 sets logged across Krakow and Warsaw. Often billed alongside VRAXX, ERNST (UA) and SCHELLT. Next up: Smolna, Warsaw on Fri 24 Jul.
 
@@ -27,4 +27,4 @@ Józef Keuner is a techno and trance artist tracked on soundcheck, with 55 sets 
 
 VRAXX, ERNST (UA), SCHELLT
 
-*Updated Mon, 20 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/jozefkeuner/)*
+*Updated Tue, 21 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/jozefkeuner/)*

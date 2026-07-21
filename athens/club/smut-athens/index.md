@@ -1,6 +1,6 @@
 # SMUT Athens
 
-SMUT Athens is a music venue in Athens with 10 upcoming nights listed on soundcheck as of Mon, 20 Jul 2026; the next is "Purple Night x SMUT" on Fri, 24 Jul 2026.
+SMUT Athens is a music venue in Athens with 10 upcoming nights listed on soundcheck as of Tue, 21 Jul 2026; the next is "Purple Night x SMUT" on Fri, 24 Jul 2026.
 
 SMUT Athens is a music venue in Athens listed on soundcheck. 10 upcoming nights, with line-ups including AgainstMe, Alírio, Boyd Schidt and Cherry Distress and 2 more. Browse upcoming dates, start times and who's playing. Vatsaxi 4, Athina 104 38, Greece.
 
@@ -10,7 +10,7 @@ SMUT Athens is a music venue in Athens listed on soundcheck. 10 upcoming nights,
 | --- | --- | --- |
 | Fri, 24 Jul 2026 | Purple Night x SMUT | Daddy Squad, The Dreamer, WrappeD In PlastiC |
 | Sat, 25 Jul 2026 | KHIDI x SMUT with Boyd Schidt,NEUX,Vulkanski | Boyd Schidt, NEUX, Vulkanski |
-| Sat, 1 Aug 2026 | SMUT x ClubKid x Dora Mask x Pètal | ClubKid, Dora Mask, Pètal |
+| Sat, 1 Aug 2026 | SMUT x ClubKid x Dora Mask x Pètal | ClubKid, Dora Mask, Petal |
 | Sat, 8 Aug 2026 | SEXTOU LONDON x SMUT Athens | Alírio, Cherry Distress, ENGALANAN, TEDESCO, Twang |
 | Sat, 22 Aug 2026 | AgainstMe x SMUT x ALL NIGHT LONG | AgainstMe |
 | Sat, 29 Aug 2026 | SMUT x Hyperaktivist x Nene H x IVRA  | Hyperaktivist, IVRA, Nene H |
@@ -23,4 +23,4 @@ SMUT Athens is a music venue in Athens listed on soundcheck. 10 upcoming nights,
 
 Vatsaxi 4, Athina 104 38, Greece, Athens
 
-*Updated Mon, 20 Jul 2026 · source: [soundcheck](https://soundcheck.club/athens/club/smut-athens/)*
+*Updated Tue, 21 Jul 2026 · source: [soundcheck](https://soundcheck.club/athens/club/smut-athens/)*

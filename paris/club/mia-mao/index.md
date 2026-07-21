@@ -1,8 +1,8 @@
 # Mia Mao
 
-Mia Mao is a music venue in Paris with 8 upcoming nights listed on soundcheck as of Mon, 20 Jul 2026; the next is "THUNDER: Luca Agnelli, PARACEK, EPHESIS, JOVYNN & MORE" on Fri, 24 Jul 2026.
+Mia Mao is a music venue in Paris with 9 upcoming nights listed on soundcheck as of Tue, 21 Jul 2026; the next is "THUNDER: Luca Agnelli, PARACEK, EPHESIS, JOVYNN & MORE" on Fri, 24 Jul 2026.
 
-Mia Mao is a music venue in Paris listed on soundcheck. 8 upcoming nights, with line-ups including Adam Beyer, BabaBass3000, Blaame and Hortense de Beauharnais and 2 more. Browse upcoming dates, start times and who's playing. 12a rue Ella Fitzgerald, 75019, Paris, FRANCE.
+Mia Mao is a music venue in Paris listed on soundcheck. 9 upcoming nights, with line-ups including Adam Beyer, BabaBass3000, Blaame and Camille Doe and 2 more. Browse upcoming dates, start times and who's playing. 12a rue Ella Fitzgerald, 75019, Paris, FRANCE.
 
 ## What's on
 
@@ -14,6 +14,7 @@ Mia Mao is a music venue in Paris listed on soundcheck. 8 upcoming nights, with 
 | Fri, 7 Aug 2026 | VICE CITY: Junkie Kid, Luciid, Julian Wild, La Louve, RAVN | Junkie Kid, La Louve, Luciid, RAVN (2) |
 | Sat, 8 Aug 2026 | Konstantin Sibold invites: TBA | Konstantin Sibold |
 | Fri, 21 Aug 2026 | Amnexia 10 ANS: TOXIC MACHINERY b2b USH, RAGETRAIN & MORE | Nightowl |
+| Sat, 22 Aug 2026 | CHECK THIS OUT X GUDU : Ewan McVicar, Lu.Re, Matrefakt & Camille Doe | Camille Doe, Ewan McVicar, Lu.Re, Matrefakt |
 | Sat, 29 Aug 2026 | Roar By Pisica: Jayron, Stan Christ, Rebekah & More | Radar (RU), Rebekah, Stan Christ |
 | Sat, 3 Oct 2026 | Ohlala presents UKF Paris |  |
 
@@ -21,4 +22,4 @@ Mia Mao is a music venue in Paris listed on soundcheck. 8 upcoming nights, with 
 
 12a rue Ella Fitzgerald, 75019, Paris, FRANCE, Paris
 
-*Updated Mon, 20 Jul 2026 · source: [soundcheck](https://soundcheck.club/paris/club/mia-mao/)*
+*Updated Tue, 21 Jul 2026 · source: [soundcheck](https://soundcheck.club/paris/club/mia-mao/)*

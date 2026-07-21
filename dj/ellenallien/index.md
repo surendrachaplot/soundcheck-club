@@ -1,6 +1,6 @@
 # Ellen Allien
 
-Ellen Allien is a Techno and House artist with 13 upcoming club dates listed on soundcheck as of Mon, 20 Jul 2026, next at Komplex Berlin, Berlin on Sat, 25 Jul 2026.
+Ellen Allien is a Techno and House artist with 13 upcoming club dates listed on soundcheck as of Tue, 21 Jul 2026, next at Komplex Berlin, Berlin on Sat, 25 Jul 2026.
 
 Ellen Allien is a techno and house artist tracked on soundcheck, with 241 sets logged across Amsterdam, Athens, Barcelona and Belgrade and 53 more. Often billed alongside Dr. Rubinstein, Shaleen and Metaraph. Next up: Komplex Berlin, Berlin on Sat 25 Jul.
 
@@ -36,4 +36,4 @@ Ellen Allien is a techno and house artist tracked on soundcheck, with 241 sets l
 
 Dr. Rubinstein, Shaleen, Metaraph
 
-*Updated Mon, 20 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/ellenallien/)*
+*Updated Tue, 21 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/ellenallien/)*

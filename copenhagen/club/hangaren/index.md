@@ -1,8 +1,8 @@
 # Hangaren
 
-Hangaren is a music venue in Copenhagen with 18 upcoming nights listed on soundcheck as of Mon, 20 Jul 2026; the next is "ANNĒ, Milo Makua, David Garset, Vika, Tania Just, Lucky Lube" on Fri, 24 Jul 2026.
+Hangaren is a music venue in Copenhagen with 19 upcoming nights listed on soundcheck as of Tue, 21 Jul 2026; the next is "ANNĒ, Milo Makua, David Garset, Vika, Tania Just, Lucky Lube" on Fri, 24 Jul 2026.
 
-Hangaren is a music venue in Copenhagen listed on soundcheck. 18 upcoming nights, with line-ups including Acid Pauli, Adam Eisert, Âme and Amelie Lens and 2 more. Browse upcoming dates, start times and who's playing. Refshalevej 185, 1432 København, Denmark.
+Hangaren is a music venue in Copenhagen listed on soundcheck. 19 upcoming nights, with line-ups including Acid Pauli, Adam Eisert, Âme and Amelie Lens and 2 more. Browse upcoming dates, start times and who's playing. Refshalevej 185, 1432 København, Denmark.
 
 ## What's on
 
@@ -23,4 +23,4 @@ Hangaren is a music venue in Copenhagen listed on soundcheck. 18 upcoming nights
 
 Refshalevej 185, 1432 København, Denmark, Copenhagen
 
-*Updated Mon, 20 Jul 2026 · source: [soundcheck](https://soundcheck.club/copenhagen/club/hangaren/)*
+*Updated Tue, 21 Jul 2026 · source: [soundcheck](https://soundcheck.club/copenhagen/club/hangaren/)*

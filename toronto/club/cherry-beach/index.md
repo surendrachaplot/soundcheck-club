@@ -1,6 +1,6 @@
 # Cherry Beach
 
-Cherry Beach is a music venue in Toronto with 7 upcoming nights listed on soundcheck as of Mon, 20 Jul 2026; the next is "Promise Cherry Beach: Ozmozis presents Dimuth K (Sri Lanka)" on Sun, 26 Jul 2026.
+Cherry Beach is a music venue in Toronto with 7 upcoming nights listed on soundcheck as of Tue, 21 Jul 2026; the next is "Promise Cherry Beach: Ozmozis presents Dimuth K (Sri Lanka)" on Sun, 26 Jul 2026.
 
 Cherry Beach is a music venue in Toronto listed on soundcheck. 7 upcoming nights, with line-ups including 1morning, ARK1TEK, AZA and Burnin' Vernon and 2 more. Browse upcoming dates, start times and who's playing. Toronto, ON; Canada.
 
@@ -20,4 +20,4 @@ Cherry Beach is a music venue in Toronto listed on soundcheck. 7 upcoming nights
 
 Toronto, ON; Canada, Toronto
 
-*Updated Mon, 20 Jul 2026 · source: [soundcheck](https://soundcheck.club/toronto/club/cherry-beach/)*
+*Updated Tue, 21 Jul 2026 · source: [soundcheck](https://soundcheck.club/toronto/club/cherry-beach/)*

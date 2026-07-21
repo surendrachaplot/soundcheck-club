@@ -1,8 +1,8 @@
 # Jasna 1
 
-Jasna 1 is a music venue in Warsaw with 4 upcoming nights listed on soundcheck as of Mon, 20 Jul 2026; the next is "J1 - ako, Contakt, Donnel Knox" on Fri, 24 Jul 2026.
+Jasna 1 is a music venue in Warsaw with 6 upcoming nights listed on soundcheck as of Tue, 21 Jul 2026; the next is "J1 - ako, Contakt, Donnel Knox" on Fri, 24 Jul 2026.
 
-Jasna 1 is a music venue in Warsaw listed on soundcheck. 4 upcoming nights, with line-ups including 2K88, Abuelita, ako and Anna Kost and 2 more. Browse upcoming dates, start times and who's playing. Jasna 1, 00-013 Warszawa.
+Jasna 1 is a music venue in Warsaw listed on soundcheck. 6 upcoming nights, with line-ups including 2K88, Abuelita, ako and Anna Kost and 2 more. Browse upcoming dates, start times and who's playing. Jasna 1, 00-013 Warszawa.
 
 ## What's on
 
@@ -12,9 +12,11 @@ Jasna 1 is a music venue in Warsaw listed on soundcheck. 4 upcoming nights, with
 | Sat, 25 Jul 2026 | J1 - SPLOT: Anna Kost, Glassz, Michał Macewicz | Anna Kost, Glassz, Michal Macewicz |
 | Fri, 31 Jul 2026 | J1 - 2K88, Abuelita, Bambi Uzi, domi d | 2K88, Abuelita, Bambi Uzi, domi d. |
 | Sat, 1 Aug 2026 | J1 - Tres Bienski: Frozilla, Kitty Sarcasm, lava404, nuarrrrr, Sava | Frozilla, Kitty Sarcasm, Sava (3), nuarrrrr |
+| Fri, 7 Aug 2026 | J1 - SWITCH: Salty DJ, DUK, holoe [LIVE], MATRIX3K | MATRIX3K, Salty DJ, holoe |
+| Sat, 8 Aug 2026 | J1 - 808 DAY: Memotech, DJ CIirce, daisy cutter, MIHVU | MIHVU, Memotech, daisy cutter |
 
 ## Address
 
 Jasna 1, 00-013 Warszawa, Warsaw
 
-*Updated Mon, 20 Jul 2026 · source: [soundcheck](https://soundcheck.club/warsaw/club/jasna-1/)*
+*Updated Tue, 21 Jul 2026 · source: [soundcheck](https://soundcheck.club/warsaw/club/jasna-1/)*

@@ -1,6 +1,6 @@
 # AJACENT
 
-AJACENT is a Techno and Baile Funk artist with 3 upcoming club dates listed on soundcheck as of Mon, 20 Jul 2026, next at The Rose, New York City on Mon, 3 Aug 2026.
+AJACENT is a Techno and Baile Funk artist with 3 upcoming club dates listed on soundcheck as of Tue, 21 Jul 2026, next at The Rose, New York City on Mon, 3 Aug 2026.
 
 AJACENT is a techno and baile funk artist based in United States of America, tracked on soundcheck, with 16 sets logged across Newyorkcity. Often billed alongside shirlz, ASTER (DJ) and Pablo Vitale. Next up: The Rose, Newyorkcity on Mon 3 Aug.
 
@@ -27,4 +27,4 @@ AJACENT is a techno and baile funk artist based in United States of America, tra
 
 shirlz, ASTER (DJ), Pablo Vitale
 
-*Updated Mon, 20 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/ajacent/)*
+*Updated Tue, 21 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/ajacent/)*

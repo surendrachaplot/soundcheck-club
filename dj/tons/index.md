@@ -1,6 +1,6 @@
 # TONS
 
-TONS is a Tech House and House artist with 5 upcoming club dates listed on soundcheck as of Mon, 20 Jul 2026, next at TBA - Hollywood Park adjacent to SoFi Stadium, Los Angeles on Sat, 1 Aug 2026.
+TONS is a Tech House and House artist with 5 upcoming club dates listed on soundcheck as of Tue, 21 Jul 2026, next at TBA - Hollywood Park adjacent to SoFi Stadium, Los Angeles on Sat, 1 Aug 2026.
 
 TONS is a tech house and house artist based in Venezuela, tracked on soundcheck, with 110 sets logged across Amsterdam, Austin, Barcelona and Boston and 15 more. Often billed alongside Miguelle, Ben Sterling and Marco Carola. Next up: TBA - Hollywood Park adjacent to SoFi Stadium, Losangeles on Sat 1 Aug.
 
@@ -29,4 +29,4 @@ TONS is a tech house and house artist based in Venezuela, tracked on soundcheck,
 
 Miguelle, Ben Sterling, Marco Carola
 
-*Updated Mon, 20 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/tons/)*
+*Updated Tue, 21 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/tons/)*

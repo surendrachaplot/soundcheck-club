@@ -1,6 +1,6 @@
 # Jimpster
 
-Jimpster is a House and Deep House artist with 4 upcoming club dates listed on soundcheck as of Mon, 20 Jul 2026, next at TBA - address sent to all ticket holders , London on Thu, 23 Jul 2026.
+Jimpster is a House and Deep House artist with 4 upcoming club dates listed on soundcheck as of Tue, 21 Jul 2026, next at TBA - address sent to all ticket holders , London on Thu, 23 Jul 2026.
 
 Jimpster is a house and deep house artist tracked on soundcheck, with 80 sets logged across Barcelona, Brighton, Budapest and Chicago and 29 more. Often billed alongside Neil Pierce, Sy Sez and Anton Tumas. Next up: TBA - address sent to all ticket holders , London on Thu 23 Jul.
 
@@ -28,4 +28,4 @@ Jimpster is a house and deep house artist tracked on soundcheck, with 80 sets lo
 
 Neil Pierce, Sy Sez, Anton Tumas
 
-*Updated Mon, 20 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/jimpster/)*
+*Updated Tue, 21 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/jimpster/)*

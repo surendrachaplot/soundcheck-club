@@ -1,8 +1,8 @@
 # Boris Brejcha
 
-Boris Brejcha is a Techno and Tech House artist with 10 upcoming club dates listed on soundcheck as of Mon, 20 Jul 2026, next at Amnesia Ibiza, Ibiza on Wed, 22 Jul 2026.
+Boris Brejcha is a Techno and Tech House artist with 11 upcoming club dates listed on soundcheck as of Tue, 21 Jul 2026, next at Amnesia Ibiza, Ibiza on Wed, 22 Jul 2026.
 
-Boris Brejcha is a techno and tech house artist tracked on soundcheck, with 108 sets logged across Athens, Austin, Bali and Barcelona and 43 more. Often billed alongside Moritz Hofbauer, Deniz Bul and Ann Clue. Next up: Amnesia Ibiza, Ibiza on Wed 22 Jul.
+Boris Brejcha is a techno and tech house artist tracked on soundcheck, with 109 sets logged across Athens, Austin, Bali and Barcelona and 43 more. Often billed alongside Moritz Hofbauer, Deniz Bul and Ann Clue. Next up: Amnesia Ibiza, Ibiza on Wed 22 Jul.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Boris Brejcha is a techno and tech house artist tracked on soundcheck, with 108 
 | --- | --- | --- |
 | Wed, 22 Jul 2026 | Amnesia Ibiza | Ibiza |
 | Fri, 24 Jul 2026 | Club Space Miami | Miami |
+| Sun, 26 Jul 2026 | Hollywood Bowl | Los Angeles |
 | Wed, 29 Jul 2026 | Radius | Chicago |
 | Wed, 12 Aug 2026 | Amnesia Ibiza | Ibiza |
 | Sat, 15 Aug 2026 | TBA | Brussels |
@@ -34,4 +35,4 @@ Boris Brejcha is a techno and tech house artist tracked on soundcheck, with 108 
 
 Moritz Hofbauer, Deniz Bul, Ann Clue
 
-*Updated Mon, 20 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/borisbrejcha/)*
+*Updated Tue, 21 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/borisbrejcha/)*

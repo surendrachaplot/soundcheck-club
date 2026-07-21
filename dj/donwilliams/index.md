@@ -1,6 +1,6 @@
 # Don Williams
 
-Don Williams is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Mon, 20 Jul 2026, next at BLITZ, Munich on Fri, 31 Jul 2026.
+Don Williams is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Tue, 21 Jul 2026, next at BLITZ, Munich on Fri, 31 Jul 2026.
 
 Don Williams is a techno and house artist based in Germany, tracked on soundcheck, with 30 sets logged across Berlin, Cologne, Leipzig and Madrid and 6 more. Often billed alongside Steffi, Virginia and XDB. Next up: BLITZ, Munich on Fri 31 Jul.
 
@@ -26,4 +26,4 @@ Don Williams is a techno and house artist based in Germany, tracked on soundchec
 
 Steffi, Virginia, XDB
 
-*Updated Mon, 20 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/donwilliams/)*
+*Updated Tue, 21 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/donwilliams/)*

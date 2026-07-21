@@ -1,6 +1,6 @@
 # Seb Fontaine
 
-Seb Fontaine is a House and Trance artist with 4 upcoming club dates listed on soundcheck as of Mon, 20 Jul 2026, next at 528 Ibiza, Ibiza on Sat, 8 Aug 2026.
+Seb Fontaine is a House and Trance artist with 4 upcoming club dates listed on soundcheck as of Tue, 21 Jul 2026, next at 528 Ibiza, Ibiza on Sat, 8 Aug 2026.
 
 Seb Fontaine is a house and trance artist tracked on soundcheck, with 46 sets logged across Aberdeen, Auckland, Belfast and Birmingham and 9 more. Often billed alongside Tall Paul, Judge Jules and Jason Bye. Next up: 528 Ibiza, Ibiza on Sat 8 Aug.
 
@@ -28,4 +28,4 @@ Seb Fontaine is a house and trance artist tracked on soundcheck, with 46 sets lo
 
 Tall Paul, Judge Jules, Jason Bye
 
-*Updated Mon, 20 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/sebfontaine/)*
+*Updated Tue, 21 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/sebfontaine/)*

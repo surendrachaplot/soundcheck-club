@@ -1,13 +1,14 @@
 # Nizar Sarakbi
 
-Nizar Sarakbi is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Mon, 20 Jul 2026, next at TBA - Paradies Garten Festival - Schloß Prugg 2, 2460 Gemeinde Bruck an der Leitha, Vienna on Fri, 31 Jul 2026.
+Nizar Sarakbi is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Tue, 21 Jul 2026, next at PRST, Vienna on Sat, 25 Jul 2026.
 
-Nizar Sarakbi is a house and techno artist tracked on soundcheck, with 70 sets logged across Amsterdam, Barcelona, Berlin and Brussels and 13 more. Often billed alongside Katia Curie, KATIA and vince. Next up: TBA - Paradies Garten Festival - Schloß Prugg 2, 2460 Gemeinde Bruck an der Leitha, Vienna on Fri 31 Jul.
+Nizar Sarakbi is a house and techno artist tracked on soundcheck, with 71 sets logged across Amsterdam, Barcelona, Berlin and Brussels and 13 more. Often billed alongside Katia Curie, KATIA and vince. Next up: PRST, Vienna on Sat 25 Jul.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 25 Jul 2026 | PRST | Vienna |
 | Fri, 31 Jul 2026 | TBA - Paradies Garten Festival - Schloß Prugg 2, 2460 Gemeinde Bruck an der Leitha | Vienna |
 | Sat, 26 Sept 2026 | Cadavra | Madrid |
 
@@ -26,4 +27,4 @@ Nizar Sarakbi is a house and techno artist tracked on soundcheck, with 70 sets l
 
 Katia Curie, KATIA, vince
 
-*Updated Mon, 20 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/nizarsarakbi/)*
+*Updated Tue, 21 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/nizarsarakbi/)*

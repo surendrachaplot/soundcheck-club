@@ -1,6 +1,6 @@
 # Billy Bootleggers
 
-Billy Bootleggers is a music venue in Nottingham with 1 upcoming night listed on soundcheck as of Mon, 20 Jul 2026; the next is "Rizolution x Licked presents BILLY BOOTSHELLERZ" on Sat, 22 Aug 2026.
+Billy Bootleggers is a music venue in Nottingham with 1 upcoming night listed on soundcheck as of Tue, 21 Jul 2026; the next is "Rizolution x Licked presents BILLY BOOTSHELLERZ" on Sat, 22 Aug 2026.
 
 Billy Bootleggers is a music venue in Nottingham listed on soundcheck. 1 upcoming night, with line-ups including AMNESIA and R2R (1). Browse upcoming dates, start times and who's playing. 13-15 Weekday Cross, Nottingham, NG1 2GB.
 
@@ -14,4 +14,4 @@ Billy Bootleggers is a music venue in Nottingham listed on soundcheck. 1 upcomin
 
 13-15 Weekday Cross, Nottingham, NG1 2GB, Nottingham
 
-*Updated Mon, 20 Jul 2026 · source: [soundcheck](https://soundcheck.club/nottingham/club/billy-bootleggers/)*
+*Updated Tue, 21 Jul 2026 · source: [soundcheck](https://soundcheck.club/nottingham/club/billy-bootleggers/)*

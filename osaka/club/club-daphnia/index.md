@@ -1,6 +1,6 @@
 # Club Daphnia
 
-Club Daphnia is a music venue in Osaka with 3 upcoming nights listed on soundcheck as of Mon, 20 Jul 2026; the next is "RS Tangent & Mackenzie from Bristol" on Sat, 25 Jul 2026.
+Club Daphnia is a music venue in Osaka with 3 upcoming nights listed on soundcheck as of Tue, 21 Jul 2026; the next is "RS Tangent & Mackenzie from Bristol" on Sat, 25 Jul 2026.
 
 Club Daphnia is a music venue in Osaka listed on soundcheck. 3 upcoming nights, with line-ups including Aspara, imazutsubasa, Mackenzie (UK) and Paul Leonard and 2 more. Browse upcoming dates, start times and who's playing. 5-5-1, Kitakagaya, Osaka Shi Suminoe Ku, Osaka Fu, 559-0011, Japan.
 
@@ -16,4 +16,4 @@ Club Daphnia is a music venue in Osaka listed on soundcheck. 3 upcoming nights, 
 
 5-5-1, Kitakagaya, Osaka Shi Suminoe Ku, Osaka Fu, 559-0011, Japan, Osaka
 
-*Updated Mon, 20 Jul 2026 · source: [soundcheck](https://soundcheck.club/osaka/club/club-daphnia/)*
+*Updated Tue, 21 Jul 2026 · source: [soundcheck](https://soundcheck.club/osaka/club/club-daphnia/)*

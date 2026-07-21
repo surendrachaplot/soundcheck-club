@@ -1,6 +1,6 @@
 # JKriv
 
-JKriv is a House and Disco artist with 3 upcoming club dates listed on soundcheck as of Mon, 20 Jul 2026, next at Podlasie Club, Chicago on Sat, 1 Aug 2026.
+JKriv is a House and Disco artist with 3 upcoming club dates listed on soundcheck as of Tue, 21 Jul 2026, next at Podlasie Club, Chicago on Sat, 1 Aug 2026.
 
 JKriv is a house and disco artist tracked on soundcheck, with 126 sets logged across Auckland, Barcelona, Bristol and Chicago and 21 more. Often billed alongside Aaron Dae, Disgonuts and Jason Lindner. Next up: Podlasie Club, Chicago on Sat 1 Aug.
 
@@ -27,4 +27,4 @@ JKriv is a house and disco artist tracked on soundcheck, with 126 sets logged ac
 
 Aaron Dae, Disgonuts, Jason Lindner
 
-*Updated Mon, 20 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/jkriv/)*
+*Updated Tue, 21 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/jkriv/)*

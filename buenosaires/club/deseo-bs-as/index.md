@@ -1,6 +1,6 @@
 # Deseo BS AS
 
-Deseo BS AS is a music venue in Buenos Aires with 6 upcoming nights listed on soundcheck as of Mon, 20 Jul 2026; the next is "DIETRICH (LIVE), Ana Hagen & MÁS" on Fri, 24 Jul 2026.
+Deseo BS AS is a music venue in Buenos Aires with 6 upcoming nights listed on soundcheck as of Tue, 21 Jul 2026; the next is "DIETRICH (LIVE), Ana Hagen & MÁS" on Fri, 24 Jul 2026.
 
 Deseo BS AS is a music venue in Buenosaires listed on soundcheck. 6 upcoming nights, with line-ups including Ana Hagen, ETTA!, Lulú Matheou and Manu Oubiña and 2 more. Browse upcoming dates, start times and who's playing. Av. Chorroarín 1040, C1427CXU, Buenos Aires.
 
@@ -19,4 +19,4 @@ Deseo BS AS is a music venue in Buenosaires listed on soundcheck. 6 upcoming nig
 
 Av. Chorroarín 1040, C1427CXU, Buenos Aires, Buenos Aires
 
-*Updated Mon, 20 Jul 2026 · source: [soundcheck](https://soundcheck.club/buenosaires/club/deseo-bs-as/)*
+*Updated Tue, 21 Jul 2026 · source: [soundcheck](https://soundcheck.club/buenosaires/club/deseo-bs-as/)*

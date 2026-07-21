@@ -1,6 +1,6 @@
 # Domicile
 
-Domicile is a music venue in Miami with 8 upcoming nights listed on soundcheck as of Mon, 20 Jul 2026; the next is "Dustin Zahn" on Fri, 31 Jul 2026.
+Domicile is a music venue in Miami with 8 upcoming nights listed on soundcheck as of Tue, 21 Jul 2026; the next is "Dustin Zahn" on Fri, 31 Jul 2026.
 
 Domicile is a music venue in Miami listed on soundcheck. 8 upcoming nights, with line-ups including ANTICHRIS, Diana Franco, Dustin Zahn and EMP and 2 more. Browse upcoming dates, start times and who's playing. 2900 NW Seventh Ave, Miami, FL  33127.
 
@@ -21,4 +21,4 @@ Domicile is a music venue in Miami listed on soundcheck. 8 upcoming nights, with
 
 2900 NW Seventh Ave, Miami, FL  33127, Miami
 
-*Updated Mon, 20 Jul 2026 · source: [soundcheck](https://soundcheck.club/miami/club/domicile/)*
+*Updated Tue, 21 Jul 2026 · source: [soundcheck](https://soundcheck.club/miami/club/domicile/)*

@@ -1,6 +1,6 @@
 # Neek
 
-Neek is a Techno and Dubstep artist with 2 upcoming club dates listed on soundcheck as of Mon, 20 Jul 2026, next at Schrotty, Cologne on Fri, 24 Jul 2026.
+Neek is a Techno and Dubstep artist with 2 upcoming club dates listed on soundcheck as of Tue, 21 Jul 2026, next at Schrotty, Cologne on Fri, 24 Jul 2026.
 
 Neek is a techno and dubstep artist based in United Kingdom, tracked on soundcheck, with 60 sets logged across Amsterdam, Athens, Barcelona and Basel and 29 more. Often billed alongside Kahn, Medis and SGT Pokes. Next up: Schrotty, Cologne on Fri 24 Jul.
 
@@ -26,4 +26,4 @@ Neek is a techno and dubstep artist based in United Kingdom, tracked on soundche
 
 Kahn, Medis, SGT Pokes
 
-*Updated Mon, 20 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/neek/)*
+*Updated Tue, 21 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/neek/)*

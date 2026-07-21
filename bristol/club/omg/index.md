@@ -1,6 +1,6 @@
 # OMG
 
-OMG is a music venue in Bristol with 1 upcoming night listed on soundcheck as of Mon, 20 Jul 2026; the next is "UWE Bristol Official Freshers - Disco Wonderland" on Sun, 13 Sept 2026.
+OMG is a music venue in Bristol with 1 upcoming night listed on soundcheck as of Tue, 21 Jul 2026; the next is "UWE Bristol Official Freshers - Disco Wonderland" on Sun, 13 Sept 2026.
 
 OMG is a music venue in Bristol listed on soundcheck. 1 upcoming night. Browse upcoming dates, start times and who's playing. 1-2 Frog Ln, Bristol, City of Bristol BS1 5NF, United Kingdom.
 
@@ -14,4 +14,4 @@ OMG is a music venue in Bristol listed on soundcheck. 1 upcoming night. Browse u
 
 1-2 Frog Ln, Bristol, City of Bristol BS1 5NF, United Kingdom, Bristol
 
-*Updated Mon, 20 Jul 2026 · source: [soundcheck](https://soundcheck.club/bristol/club/omg/)*
+*Updated Tue, 21 Jul 2026 · source: [soundcheck](https://soundcheck.club/bristol/club/omg/)*

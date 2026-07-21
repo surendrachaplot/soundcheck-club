@@ -1,6 +1,6 @@
 # Kirollus
 
-Kirollus is a House and Disco artist with 9 upcoming club dates listed on soundcheck as of Mon, 20 Jul 2026, next at 528 Ibiza, Ibiza on Thu, 23 Jul 2026.
+Kirollus is a House and Disco artist with 9 upcoming club dates listed on soundcheck as of Tue, 21 Jul 2026, next at 528 Ibiza, Ibiza on Thu, 23 Jul 2026.
 
 Kirollus is a house and disco artist tracked on soundcheck, with 138 sets logged across Amsterdam, Antwerp, Athens and Auckland and 34 more. Often billed alongside MiNNA, Tonno Disko and Dan Shake. Next up: 528 Ibiza, Ibiza on Thu 23 Jul.
 
@@ -33,4 +33,4 @@ Kirollus is a house and disco artist tracked on soundcheck, with 138 sets logged
 
 MiNNA, Tonno Disko, Dan Shake
 
-*Updated Mon, 20 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/kirollus/)*
+*Updated Tue, 21 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/kirollus/)*

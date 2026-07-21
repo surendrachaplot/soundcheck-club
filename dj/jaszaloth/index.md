@@ -1,6 +1,6 @@
 # Jaszaloth
 
-Jaszaloth is a Techno and Industrial artist with 2 upcoming club dates listed on soundcheck as of Mon, 20 Jul 2026, next at ://about blank, Berlin on Fri, 24 Jul 2026.
+Jaszaloth is a Techno and Industrial artist with 2 upcoming club dates listed on soundcheck as of Tue, 21 Jul 2026, next at ://about blank, Berlin on Fri, 24 Jul 2026.
 
 Jaszaloth is a techno and industrial artist based in Germany, tracked on soundcheck, with 29 sets logged across Berlin, Leipzig, Munich and Prague. Often billed alongside Meyhartt, TRITØNUS and Jatra. Next up: ://about blank, Berlin on Fri 24 Jul.
 
@@ -26,4 +26,4 @@ Jaszaloth is a techno and industrial artist based in Germany, tracked on soundch
 
 Meyhartt, TRITØNUS, Jatra
 
-*Updated Mon, 20 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/jaszaloth/)*
+*Updated Tue, 21 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/jaszaloth/)*

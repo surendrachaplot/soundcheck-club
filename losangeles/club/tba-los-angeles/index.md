@@ -1,6 +1,6 @@
 # TBA - Los Angeles
 
-TBA - Los Angeles is a music venue in Los Angeles with 10 upcoming nights listed on soundcheck as of Mon, 20 Jul 2026; the next is "Capsule Effect" on Fri, 31 Jul 2026.
+TBA - Los Angeles is a music venue in Los Angeles with 10 upcoming nights listed on soundcheck as of Tue, 21 Jul 2026; the next is "Capsule Effect" on Fri, 31 Jul 2026.
 
 TBA - Los Angeles is a music venue in Losangeles listed on soundcheck. 10 upcoming nights, with line-ups including AC13, Adam X, Alan Fitzpatrick and Amir Javasoul and 2 more. Browse upcoming dates, start times and who's playing.
 
@@ -19,4 +19,4 @@ TBA - Los Angeles is a music venue in Losangeles listed on soundcheck. 10 upcomi
 | Sun, 6 Sept 2026 | Intercell LA: Annika Wolfe, DAX J, Grace Dahl, Max Gardner b2b Lorely Mur, & Stef Mendesidis | Annika Wolfe, DAX J, Grace Dahl, Lorely Mur, Max Gardner, Stef Mendesidis |
 | Fri, 25 Sept 2026 | WORK OVER/TIME: Blasha & Allatt, JIA, MARRØN, NEKTER, Rene Wise, Rrose, & Wata Igarashi | Blasha & Allatt, JIA, MARRØN, NEKTER, Rene Wise, Rrose, Wata Igarashi |
 
-*Updated Mon, 20 Jul 2026 · source: [soundcheck](https://soundcheck.club/losangeles/club/tba-los-angeles/)*
+*Updated Tue, 21 Jul 2026 · source: [soundcheck](https://soundcheck.club/losangeles/club/tba-los-angeles/)*

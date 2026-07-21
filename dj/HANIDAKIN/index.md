@@ -1,6 +1,6 @@
 # HANI DAKIN
 
-HANI DAKIN is a Techno and Industrial artist with 2 upcoming club dates listed on soundcheck as of Mon, 20 Jul 2026, next at KitKatClub, Berlin on Mon, 27 Jul 2026.
+HANI DAKIN is a Techno and Industrial artist with 2 upcoming club dates listed on soundcheck as of Tue, 21 Jul 2026, next at KitKatClub, Berlin on Mon, 27 Jul 2026.
 
 HANI DAKIN is a techno and industrial artist based in Spain, tracked on soundcheck, with 28 sets logged across Amsterdam, Barcelona, Berlin and Budapest and 6 more. Often billed alongside Lilly Palmer, Gregor Tresher and Lorenzo Raganzini. Next up: KitKatClub, Berlin on Mon 27 Jul.
 
@@ -26,4 +26,4 @@ HANI DAKIN is a techno and industrial artist based in Spain, tracked on soundche
 
 Lilly Palmer, Gregor Tresher, Lorenzo Raganzini
 
-*Updated Mon, 20 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/HANIDAKIN/)*
+*Updated Tue, 21 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/HANIDAKIN/)*

@@ -1,6 +1,6 @@
 # Margolis Music Lounge
 
-Margolis Music Lounge is a music venue in Philadelphia with 1 upcoming night listed on soundcheck as of Mon, 20 Jul 2026; the next is "FNF: Soulful Club" on Sat, 8 Aug 2026.
+Margolis Music Lounge is a music venue in Philadelphia with 1 upcoming night listed on soundcheck as of Tue, 21 Jul 2026; the next is "FNF: Soulful Club" on Sat, 8 Aug 2026.
 
 Margolis Music Lounge is a music venue in Philadelphia listed on soundcheck. 1 upcoming night, with line-ups including Matthew Law. Browse upcoming dates, start times and who's playing. 9 West Wildey Street, Philadelphia, PA 19123, USA.
 
@@ -14,4 +14,4 @@ Margolis Music Lounge is a music venue in Philadelphia listed on soundcheck. 1 u
 
 9 West Wildey Street, Philadelphia, PA 19123, USA, Philadelphia
 
-*Updated Mon, 20 Jul 2026 · source: [soundcheck](https://soundcheck.club/philadelphia/club/margolis-music-lounge/)*
+*Updated Tue, 21 Jul 2026 · source: [soundcheck](https://soundcheck.club/philadelphia/club/margolis-music-lounge/)*

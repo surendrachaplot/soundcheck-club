@@ -1,6 +1,6 @@
 # Infected Mushroom
 
-Infected Mushroom is a Psytrance and Trance artist with 2 upcoming club dates listed on soundcheck as of Mon, 20 Jul 2026, next at The Den, Portland on Fri, 24 Jul 2026.
+Infected Mushroom is a Psytrance and Trance artist with 2 upcoming club dates listed on soundcheck as of Tue, 21 Jul 2026, next at The Den, Portland on Fri, 24 Jul 2026.
 
 Infected Mushroom is a psytrance and trance artist tracked on soundcheck, with 45 sets logged across Athens, Austin, Berlin and Boston and 21 more. Often billed alongside Angerfist, Fatima Hajji and Giorgia Angiuli. Next up: The Den, Portland on Fri 24 Jul.
 
@@ -26,4 +26,4 @@ Infected Mushroom is a psytrance and trance artist tracked on soundcheck, with 4
 
 Angerfist, Fatima Hajji, Giorgia Angiuli
 
-*Updated Mon, 20 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/infectedmushroom/)*
+*Updated Tue, 21 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/infectedmushroom/)*

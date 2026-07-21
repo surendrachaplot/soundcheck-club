@@ -1,8 +1,8 @@
 # OHM
 
-OHM is a music venue in Berlin with 16 upcoming nights listed on soundcheck as of Mon, 20 Jul 2026; the next is "TETAS LOCAS" on Thu, 23 Jul 2026.
+OHM is a music venue in Berlin with 17 upcoming nights listed on soundcheck as of Tue, 21 Jul 2026; the next is "TETAS LOCAS" on Thu, 23 Jul 2026.
 
-OHM is a music venue in Berlin listed on soundcheck. 16 upcoming nights, with line-ups including Alexy, Anja Schneider, Banu and Bloody Mary and 2 more. Browse upcoming dates, start times and who's playing. Köpenicker Str. 70, 10179 Berlin, Germany.
+OHM is a music venue in Berlin listed on soundcheck. 17 upcoming nights, with line-ups including Alexy, Anja Schneider, Banu and Bloody Mary and 2 more. Browse upcoming dates, start times and who's playing. Köpenicker Str. 70, 10179 Berlin, Germany.
 
 ## What's on
 
@@ -23,4 +23,4 @@ OHM is a music venue in Berlin listed on soundcheck. 16 upcoming nights, with li
 
 Köpenicker Str. 70, 10179 Berlin, Germany, Berlin
 
-*Updated Mon, 20 Jul 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/ohm/)*
+*Updated Tue, 21 Jul 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/ohm/)*

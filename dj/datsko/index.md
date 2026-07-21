@@ -1,6 +1,6 @@
 # DATSKO
 
-DATSKO is a Techno and Trance artist with 8 upcoming club dates listed on soundcheck as of Mon, 20 Jul 2026, next at Club Vaag, Antwerp on Sat, 25 Jul 2026.
+DATSKO is a Techno and Trance artist with 8 upcoming club dates listed on soundcheck as of Tue, 21 Jul 2026, next at Club Vaag, Antwerp on Sat, 25 Jul 2026.
 
 DATSKO is a techno and trance artist tracked on soundcheck, with 72 sets logged across Aberdeen, Amsterdam, Antwerp and Belfast and 23 more. Often billed alongside Black Traffic, blk. and Alex Farell. Next up: Club Vaag, Antwerp on Sat 25 Jul.
 
@@ -32,4 +32,4 @@ DATSKO is a techno and trance artist tracked on soundcheck, with 72 sets logged 
 
 Black Traffic, blk., Alex Farell
 
-*Updated Mon, 20 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/datsko/)*
+*Updated Tue, 21 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/datsko/)*

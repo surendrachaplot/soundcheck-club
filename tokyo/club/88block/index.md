@@ -1,6 +1,6 @@
 # 88block
 
-88block is a music venue in Tokyo with 6 upcoming nights listed on soundcheck as of Mon, 20 Jul 2026; the next is "Upper Cuts #112" on Wed, 22 Jul 2026.
+88block is a music venue in Tokyo with 6 upcoming nights listed on soundcheck as of Tue, 21 Jul 2026; the next is "Upper Cuts #112" on Wed, 22 Jul 2026.
 
 88block is a music venue in Tokyo listed on soundcheck. 6 upcoming nights, with line-ups including Anela, Coco, Daisuke Kazaoka and Diceman and 2 more. Browse upcoming dates, start times and who's playing. B1F, 2-14-7, Takadanobaba,Shinjuku-ku,Tokyo 169-0075.
 
@@ -19,4 +19,4 @@
 
 B1F, 2-14-7, Takadanobaba,Shinjuku-ku,Tokyo 169-0075, Tokyo
 
-*Updated Mon, 20 Jul 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/88block/)*
+*Updated Tue, 21 Jul 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/88block/)*

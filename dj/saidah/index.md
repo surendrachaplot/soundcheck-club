@@ -1,8 +1,8 @@
 # SAIDAH
 
-SAIDAH is a House and Garage artist with 4 upcoming club dates listed on soundcheck as of Mon, 20 Jul 2026, next at Gianpula Village, Malta on Wed, 12 Aug 2026.
+SAIDAH is a House and Garage artist with 5 upcoming club dates listed on soundcheck as of Tue, 21 Jul 2026, next at Gianpula Village, Malta on Wed, 12 Aug 2026.
 
-SAIDAH is a house and garage artist tracked on soundcheck, with 107 sets logged across Amsterdam, Antwerp, Barcelona and Bristol and 15 more. Often billed alongside Diffrent, Silva Bumpa and Benwal. Next up: Gianpula Village, Malta on Wed 12 Aug.
+SAIDAH is a house and garage artist tracked on soundcheck, with 108 sets logged across Amsterdam, Antwerp, Barcelona and Bristol and 15 more. Often billed alongside Diffrent, Silva Bumpa and Benwal. Next up: Gianpula Village, Malta on Wed 12 Aug.
 
 ## Upcoming shows
 
@@ -11,6 +11,7 @@ SAIDAH is a house and garage artist tracked on soundcheck, with 107 sets logged 
 | Wed, 12 Aug 2026 | Gianpula Village | Malta |
 | Sat, 29 Aug 2026 | Tuinen van West | Amsterdam |
 | Fri, 11 Sept 2026 | TBA | Brussels |
+| Sun, 13 Sept 2026 | Jardins de Joan Brossa | Barcelona |
 | Sat, 10 Oct 2026 | Escala25 | Lisbon |
 
 ## Recently played
@@ -28,4 +29,4 @@ SAIDAH is a house and garage artist tracked on soundcheck, with 107 sets logged 
 
 Diffrent, Silva Bumpa, Benwal
 
-*Updated Mon, 20 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/saidah/)*
+*Updated Tue, 21 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/saidah/)*

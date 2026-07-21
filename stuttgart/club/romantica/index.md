@@ -1,6 +1,6 @@
 # Romantica
 
-Romantica is a music venue in Stuttgart with 2 upcoming nights listed on soundcheck as of Mon, 20 Jul 2026; the next is "Freeride Millenium x Eau De Cologne PRIDE Edition" on Sat, 25 Jul 2026.
+Romantica is a music venue in Stuttgart with 2 upcoming nights listed on soundcheck as of Tue, 21 Jul 2026; the next is "Freeride Millenium x Eau De Cologne PRIDE Edition" on Sat, 25 Jul 2026.
 
 Romantica is a music venue in Stuttgart listed on soundcheck. 2 upcoming nights, with line-ups including Citizens Union, Jorkes and Natuta. Browse upcoming dates, start times and who's playing. Hauptstatter Str. 40, Stuttgart.
 
@@ -15,4 +15,4 @@ Romantica is a music venue in Stuttgart listed on soundcheck. 2 upcoming nights,
 
 Hauptstatter Str. 40, Stuttgart, Stuttgart
 
-*Updated Mon, 20 Jul 2026 · source: [soundcheck](https://soundcheck.club/stuttgart/club/romantica/)*
+*Updated Tue, 21 Jul 2026 · source: [soundcheck](https://soundcheck.club/stuttgart/club/romantica/)*

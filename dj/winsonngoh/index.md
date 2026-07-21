@@ -1,6 +1,6 @@
 # Winson Ngoh
 
-Winson Ngoh is a Techno and Industrial artist with 11 upcoming club dates listed on soundcheck as of Mon, 20 Jul 2026, next at Next Eden Ibiza, Ibiza on Tue, 21 Jul 2026.
+Winson Ngoh is a Techno and Industrial artist with 11 upcoming club dates listed on soundcheck as of Tue, 21 Jul 2026, next at Next Eden Ibiza, Ibiza on Tue, 21 Jul 2026.
 
 Winson Ngoh is a techno and industrial artist tracked on soundcheck, with 22 sets logged across Amsterdam, Antwerp, Barcelona and Belfast and 13 more. Often billed alongside Fantasm, KLOFAMA and I Hate Models. Next up: Next Eden Ibiza, Ibiza on Tue 21 Jul.
 
@@ -35,4 +35,4 @@ Winson Ngoh is a techno and industrial artist tracked on soundcheck, with 22 set
 
 Fantasm, KLOFAMA, I Hate Models
 
-*Updated Mon, 20 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/winsonngoh/)*
+*Updated Tue, 21 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/winsonngoh/)*

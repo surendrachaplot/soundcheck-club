@@ -1,6 +1,6 @@
 # INVT
 
-INVT is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Mon, 20 Jul 2026, next at F8 1192 Folsom, San Francisco/Oakland on Fri, 7 Aug 2026.
+INVT is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Tue, 21 Jul 2026, next at F8 1192 Folsom, San Francisco/Oakland on Fri, 7 Aug 2026.
 
 INVT is a house and techno artist tracked on soundcheck, with 120 sets logged across Barcelona, Berlin, Birmingham and Bristol and 30 more. Often billed alongside Danny Daze, Jonny From Space and Jubilee. Next up: F8 1192 Folsom, Sanfrancisco on Fri 7 Aug.
 
@@ -26,4 +26,4 @@ INVT is a house and techno artist tracked on soundcheck, with 120 sets logged ac
 
 Danny Daze, Jonny From Space, Jubilee
 
-*Updated Mon, 20 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/invt/)*
+*Updated Tue, 21 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/invt/)*

@@ -1,6 +1,6 @@
 # Alys
 
-Alys is a Experimental and Club artist with 3 upcoming club dates listed on soundcheck as of Mon, 20 Jul 2026, next at Giri, Berlin on Thu, 23 Jul 2026.
+Alys is a Experimental and Club artist with 3 upcoming club dates listed on soundcheck as of Tue, 21 Jul 2026, next at Giri, Berlin on Thu, 23 Jul 2026.
 
 Alys is an experimental and club artist based in Brazil, tracked on soundcheck, with 50 sets logged across Berlin, Bristol, Brussels and Leipzig and 7 more. Often billed alongside Bloomfeld, Monstera Black and Kontronatura. Next up: Giri, Berlin on Thu 23 Jul.
 
@@ -27,4 +27,4 @@ Alys is an experimental and club artist based in Brazil, tracked on soundcheck, 
 
 Bloomfeld, Monstera Black, Kontronatura
 
-*Updated Mon, 20 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/alys-br/)*
+*Updated Tue, 21 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/alys-br/)*

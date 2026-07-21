@@ -1,6 +1,6 @@
 # 142b Lounge
 
-142b Lounge is a music venue in Glasgow with 7 upcoming nights listed on soundcheck as of Mon, 20 Jul 2026; the next is "PCEE MUSICAL MANIA Live in Glasgow" on Fri, 24 Jul 2026.
+142b Lounge is a music venue in Glasgow with 7 upcoming nights listed on soundcheck as of Tue, 21 Jul 2026; the next is "PCEE MUSICAL MANIA Live in Glasgow" on Fri, 24 Jul 2026.
 
 142b Lounge is a music venue in Glasgow listed on soundcheck. 7 upcoming nights. Browse upcoming dates, start times and who's playing. 142b St Vincent St, Glasgow G2 5LA.
 
@@ -20,4 +20,4 @@
 
 142b St Vincent St, Glasgow G2 5LA, Glasgow
 
-*Updated Mon, 20 Jul 2026 · source: [soundcheck](https://soundcheck.club/glasgow/club/142b-lounge/)*
+*Updated Tue, 21 Jul 2026 · source: [soundcheck](https://soundcheck.club/glasgow/club/142b-lounge/)*

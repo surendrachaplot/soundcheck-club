@@ -1,6 +1,6 @@
 # Laylit at Elsewhere
 
-Laylit at Elsewhere on Sat 25 Jul, Newyorkcity. 7 acts on the bill: 444 (1), Fatin, La La and MNSA and 3 more. Preview the line-up and save it on soundcheck.
+Laylit at Elsewhere on Sat 25 Jul, Newyorkcity. 8 acts on the bill: 444 (1), Arianna Danae, Fatin and La La and 4 more. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -11,6 +11,7 @@ Laylit at Elsewhere on Sat 25 Jul, Newyorkcity. 7 acts on the bill: 444 (1), Fat
 ## Line-up
 
 - 444 (1)
+- Arianna Danae
 - Fatin
 - La La
 - MNSA

@@ -1,6 +1,6 @@
 # M7 Club
 
-M7 Club is a music venue in Barcelona with 10 upcoming nights listed on soundcheck as of Mon, 20 Jul 2026; the next is "HARD BOUNCE [Laura SN & Marc Fx]" on Thu, 23 Jul 2026.
+M7 Club is a music venue in Barcelona with 10 upcoming nights listed on soundcheck as of Tue, 21 Jul 2026; the next is "HARD BOUNCE [Laura SN & Marc Fx]" on Thu, 23 Jul 2026.
 
 M7 Club is a music venue in Barcelona listed on soundcheck. 10 upcoming nights, with line-ups including Adviro, Aleman Beatz, Beto Delgado and BreakStyle and 2 more. Browse upcoming dates, start times and who's playing. Carrer de Mèxic, 7, 08004 Barcelona, Spain.
 
@@ -9,7 +9,7 @@ M7 Club is a music venue in Barcelona listed on soundcheck. 10 upcoming nights, 
 | Date | Night | Line-up |
 | --- | --- | --- |
 | Thu, 23 Jul 2026 | HARD BOUNCE [Laura SN & Marc Fx] |  |
-| Fri, 24 Jul 2026 | M7 presenta [Main Room] PUSMUS, Annesha, Karel Blade B2B DIDIXX [Up Room] Fhiga, CCSC, Vixed | CCSC, DIDIXX, Fhiga, KARELBLADE, PUSMUS |
+| Fri, 24 Jul 2026 | M7 presenta  [Up Room] Fhiga, CCSC, Vixed [Main Room] PUSMUS, Annesha, Karel Blade B2B DIDIXX | CCSC, DIDIXX, Fhiga, KARELBLADE, PUSMUS |
 | Sat, 25 Jul 2026 | M7 presenta [Main Room] Rowsi, Aleman Beatz & Adviro [Up Room] T-TY & Kulleré, BreakStyle | Adviro, Aleman Beatz, BreakStyle, Rowsi |
 | Sun, 26 Jul 2026 | UNITY [Estrada & Sergi Bdv] |  |
 | Thu, 30 Jul 2026 | HARD BOUNCE [Lulo Obetko & Marc Fx] |  |
@@ -23,4 +23,4 @@ M7 Club is a music venue in Barcelona listed on soundcheck. 10 upcoming nights, 
 
 Carrer de Mèxic, 7, 08004 Barcelona, Spain, Barcelona
 
-*Updated Mon, 20 Jul 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/m7-club/)*
+*Updated Tue, 21 Jul 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/m7-club/)*

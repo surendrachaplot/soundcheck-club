@@ -1,6 +1,6 @@
 # Vladimir Cauchemar
 
-Vladimir Cauchemar is a Techno and Electro artist with 2 upcoming club dates listed on soundcheck as of Mon, 20 Jul 2026, next at Paléo Festival, Geneva on Tue, 21 Jul 2026.
+Vladimir Cauchemar is a Techno and Electro artist with 2 upcoming club dates listed on soundcheck as of Tue, 21 Jul 2026, next at Paléo Festival, Geneva on Tue, 21 Jul 2026.
 
 Vladimir Cauchemar is a techno and electro artist tracked on soundcheck, with 38 sets logged across Barcelona, Brussels, Geneva and Ghent and 8 more. Often billed alongside billx, LESSSS and Mandragora. Next up: Paléo Festival, Geneva on Tue 21 Jul.
 
@@ -26,4 +26,4 @@ Vladimir Cauchemar is a techno and electro artist tracked on soundcheck, with 38
 
 billx, LESSSS, Mandragora
 
-*Updated Mon, 20 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/vladimircauchemar/)*
+*Updated Tue, 21 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/vladimircauchemar/)*

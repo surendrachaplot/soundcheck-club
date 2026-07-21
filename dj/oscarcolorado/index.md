@@ -1,14 +1,13 @@
 # Oscar Colorado
 
-Oscar Colorado is a House and Deep House artist with 11 upcoming club dates listed on soundcheck as of Mon, 20 Jul 2026, next at Chinois Ibiza, Ibiza on Mon, 20 Jul 2026.
+Oscar Colorado is a House and Deep House artist with 10 upcoming club dates listed on soundcheck as of Tue, 21 Jul 2026, next at Chinois Ibiza, Ibiza on Mon, 27 Jul 2026.
 
-Oscar Colorado is a house and deep house artist tracked on soundcheck, with 54 sets logged across Ibiza. Often billed alongside Sebastian Gamboa, Felix Da Funk and Jodie Harsh. Next up: Chinois Ibiza, Ibiza on Mon 20 Jul.
+Oscar Colorado is a house and deep house artist tracked on soundcheck, with 54 sets logged across Ibiza. Often billed alongside Sebastian Gamboa, Felix Da Funk and Jodie Harsh. Next up: Chinois Ibiza, Ibiza on Mon 27 Jul.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Mon, 20 Jul 2026 | Chinois Ibiza | Ibiza |
 | Mon, 27 Jul 2026 | Chinois Ibiza | Ibiza |
 | Mon, 3 Aug 2026 | Chinois Ibiza | Ibiza |
 | Mon, 17 Aug 2026 | Chinois Ibiza | Ibiza |
@@ -22,6 +21,7 @@ Oscar Colorado is a house and deep house artist tracked on soundcheck, with 54 s
 
 ## Recently played
 
+- Chinois Ibiza, Ibiza — Mon, 20 Jul 2026
 - Chinois Ibiza, Ibiza — Mon, 13 Jul 2026
 - Chinois Ibiza, Ibiza — Mon, 6 Jul 2026
 - Chinois Ibiza, Ibiza — Mon, 29 Jun 2026
@@ -29,10 +29,9 @@ Oscar Colorado is a house and deep house artist tracked on soundcheck, with 54 s
 - Chinois Ibiza, Ibiza — Mon, 15 Jun 2026
 - Chinois Ibiza, Ibiza — Mon, 8 Jun 2026
 - Chinois Ibiza, Ibiza — Mon, 1 Jun 2026
-- Chinois Ibiza, Ibiza — Mon, 25 May 2026
 
 ## Shares bills with
 
 Sebastian Gamboa, Felix Da Funk, Jodie Harsh
 
-*Updated Mon, 20 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/oscarcolorado/)*
+*Updated Tue, 21 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/oscarcolorado/)*

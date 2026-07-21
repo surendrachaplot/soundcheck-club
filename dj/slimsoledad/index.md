@@ -1,6 +1,6 @@
 # Slim Soledad
 
-Slim Soledad is a Techno and House artist with 4 upcoming club dates listed on soundcheck as of Mon, 20 Jul 2026, next at TBA - Mystery Pirate Ship in Berlin Mitte, Berlin on Sat, 25 Jul 2026.
+Slim Soledad is a Techno and House artist with 4 upcoming club dates listed on soundcheck as of Tue, 21 Jul 2026, next at TBA - Mystery Pirate Ship in Berlin Mitte, Berlin on Sat, 25 Jul 2026.
 
 Slim Soledad is a techno and house artist tracked on soundcheck, with 126 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 32 more. Often billed alongside JASSS, MCMLXXXV and CEM. Next up: TBA - Mystery Pirate Ship in Berlin Mitte, Berlin on Sat 25 Jul.
 
@@ -28,4 +28,4 @@ Slim Soledad is a techno and house artist tracked on soundcheck, with 126 sets l
 
 JASSS, MCMLXXXV, CEM
 
-*Updated Mon, 20 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/slimsoledad/)*
+*Updated Tue, 21 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/slimsoledad/)*

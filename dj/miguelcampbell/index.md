@@ -1,6 +1,6 @@
 # Miguel Campbell
 
-Miguel Campbell is a House and Deep House artist with 2 upcoming club dates listed on soundcheck as of Mon, 20 Jul 2026, next at Joshua Brooks, Manchester on Fri, 31 Jul 2026.
+Miguel Campbell is a House and Deep House artist with 2 upcoming club dates listed on soundcheck as of Tue, 21 Jul 2026, next at Joshua Brooks, Manchester on Fri, 31 Jul 2026.
 
 Miguel Campbell is a house and deep house artist based in United Kingdom, tracked on soundcheck, with 31 sets logged across Amsterdam, Auckland, Birmingham and Edinburgh and 7 more. Often billed alongside Alexis Raphael, Steven Cee and Boon (UK). Next up: Joshua Brooks, Manchester on Fri 31 Jul.
 
@@ -26,4 +26,4 @@ Miguel Campbell is a house and deep house artist based in United Kingdom, tracke
 
 Alexis Raphael, Steven Cee, Boon (UK)
 
-*Updated Mon, 20 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/miguelcampbell/)*
+*Updated Tue, 21 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/miguelcampbell/)*

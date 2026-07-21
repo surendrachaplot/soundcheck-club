@@ -1,6 +1,6 @@
 # CESAR ALMENA
 
-CESAR ALMENA is a Techno and Industrial artist with 2 upcoming club dates listed on soundcheck as of Mon, 20 Jul 2026, next at Amnesia Ibiza, Ibiza on Tue, 21 Jul 2026.
+CESAR ALMENA is a Techno and Industrial artist with 2 upcoming club dates listed on soundcheck as of Tue, 21 Jul 2026, next at Amnesia Ibiza, Ibiza on Tue, 21 Jul 2026.
 
 CESAR ALMENA is a techno and industrial artist tracked on soundcheck, with 65 sets logged across Amsterdam, Barcelona, Ibiza and Lisbon and 4 more. Often billed alongside Nuke, Parsa Jafari and Raul Ortiz. Next up: Amnesia Ibiza, Ibiza on Tue 21 Jul.
 
@@ -26,4 +26,4 @@ CESAR ALMENA is a techno and industrial artist tracked on soundcheck, with 65 se
 
 Nuke, Parsa Jafari, Raul Ortiz
 
-*Updated Mon, 20 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/cesaralmena/)*
+*Updated Tue, 21 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/cesaralmena/)*

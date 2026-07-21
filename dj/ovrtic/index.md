@@ -1,14 +1,15 @@
 # Ovrtic
 
-Ovrtic is a Garage and Bass artist with 2 upcoming club dates listed on soundcheck as of Mon, 20 Jul 2026, next at Next Door Records Two, London on Sat, 1 Aug 2026.
+Ovrtic is a Garage and UK Funky artist with 3 upcoming club dates listed on soundcheck as of Tue, 21 Jul 2026, next at Next Door Records Two, London on Sat, 1 Aug 2026.
 
-Ovrtic is a garage and bass artist based in United Kingdom, tracked on soundcheck, with 20 sets logged across London. Often billed alongside Mo Dardouk, Belmar (UK) and Missy T. Next up: Next Door Records Two, London on Sat 1 Aug.
+Ovrtic is a garage and uk funky artist based in United Kingdom, tracked on soundcheck, with 21 sets logged across London. Often billed alongside Mo Dardouk, Missy T and Belmar (UK). Next up: Next Door Records Two, London on Sat 1 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 1 Aug 2026 | Next Door Records Two | London |
+| Sun, 9 Aug 2026 | The Jago | London |
 | Sat, 15 Aug 2026 | Brixton Radio | London |
 
 ## Recently played
@@ -24,6 +25,6 @@ Ovrtic is a garage and bass artist based in United Kingdom, tracked on soundchec
 
 ## Shares bills with
 
-Mo Dardouk, Belmar (UK), Missy T
+Mo Dardouk, Missy T, Belmar (UK)
 
-*Updated Mon, 20 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/ovrtic/)*
+*Updated Tue, 21 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/ovrtic/)*

@@ -1,14 +1,15 @@
 # Lavenge
 
-Lavenge is a House and Tech House artist with 2 upcoming club dates listed on soundcheck as of Mon, 20 Jul 2026, next at TBA - Location Link in Bio on Instagram @recollectunderground, Los Angeles on Thu, 23 Jul 2026.
+Lavenge is a House and Tech House artist with 3 upcoming club dates listed on soundcheck as of Tue, 21 Jul 2026, next at TBA - Location Link in Bio on Instagram @recollectunderground, Los Angeles on Thu, 23 Jul 2026.
 
-Lavenge is a house and tech house artist based in United States of America, tracked on soundcheck, with 120 sets logged across Losangeles and Mexicocity. Often billed alongside Max Rush, BLANC MAMBA and Tamara Lanza. Next up: TBA - Location Link in Bio on Instagram @recollectunderground, Losangeles on Thu 23 Jul.
+Lavenge is a house and tech house artist based in United States of America, tracked on soundcheck, with 121 sets logged across Losangeles and Mexicocity. Often billed alongside Max Rush, BLANC MAMBA and Tamara Lanza. Next up: TBA - Location Link in Bio on Instagram @recollectunderground, Losangeles on Thu 23 Jul.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Thu, 23 Jul 2026 | TBA - Location Link in Bio on Instagram @recollectunderground | Los Angeles |
+| Fri, 24 Jul 2026 | Level 8 DTLA | Los Angeles |
 | Fri, 24 Jul 2026 | Level 8 DTLA | Los Angeles |
 
 ## Recently played
@@ -26,4 +27,4 @@ Lavenge is a house and tech house artist based in United States of America, trac
 
 Max Rush, BLANC MAMBA, Tamara Lanza
 
-*Updated Mon, 20 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/lavenge/)*
+*Updated Tue, 21 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/lavenge/)*

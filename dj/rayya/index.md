@@ -1,6 +1,6 @@
 # Rayya
 
-Rayya is a House and Progressive House artist with 2 upcoming club dates listed on soundcheck as of Mon, 20 Jul 2026, next at PRST, Vienna on Fri, 24 Jul 2026.
+Rayya is a House and Progressive House artist with 2 upcoming club dates listed on soundcheck as of Tue, 21 Jul 2026, next at PRST, Vienna on Fri, 24 Jul 2026.
 
 Rayya is a house and progressive house artist based in Austria, tracked on soundcheck, with 36 sets logged across Frankfurt, Munich and Vienna. Often billed alongside Stipo, Apua and Reinhard Zach. Next up: PRST, Vienna on Fri 24 Jul.
 
@@ -26,4 +26,4 @@ Rayya is a house and progressive house artist based in Austria, tracked on sound
 
 Stipo, Apua, Reinhard Zach
 
-*Updated Mon, 20 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/rayya/)*
+*Updated Tue, 21 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/rayya/)*

@@ -1,6 +1,6 @@
 # The ORB
 
-The ORB is a music venue in Malta with 1 upcoming night listed on soundcheck as of Mon, 20 Jul 2026; the next is "POWERBASE EVENTS - West Code & Scheibenwischer" on Sat, 25 Jul 2026.
+The ORB is a music venue in Malta with 1 upcoming night listed on soundcheck as of Tue, 21 Jul 2026; the next is "POWERBASE EVENTS - West Code & Scheibenwischer" on Sat, 25 Jul 2026.
 
 The ORB is a music venue in Malta listed on soundcheck. 1 upcoming night, with line-ups including Echofaze, Georg MT, Scheibenwischer and West Code. Browse upcoming dates, start times and who's playing. Spinola Bay, St Julians.
 
@@ -14,4 +14,4 @@ The ORB is a music venue in Malta listed on soundcheck. 1 upcoming night, with l
 
 Spinola Bay, St Julians, Malta
 
-*Updated Mon, 20 Jul 2026 · source: [soundcheck](https://soundcheck.club/malta/club/the-orb/)*
+*Updated Tue, 21 Jul 2026 · source: [soundcheck](https://soundcheck.club/malta/club/the-orb/)*

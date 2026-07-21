@@ -1,6 +1,6 @@
 # Ana Rs
 
-Ana Rs is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Mon, 20 Jul 2026, next at public records, New York City on Fri, 31 Jul 2026.
+Ana Rs is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Tue, 21 Jul 2026, next at public records, New York City on Fri, 31 Jul 2026.
 
 Ana Rs is a techno and house artist tracked on soundcheck, with 34 sets logged across Amsterdam, Barcelona, Belgrade and Berlin and 15 more. Often billed alongside CONCEPTUAL, Hadone and NEUX. Next up: public records, Newyorkcity on Fri 31 Jul.
 
@@ -26,4 +26,4 @@ Ana Rs is a techno and house artist tracked on soundcheck, with 34 sets logged a
 
 CONCEPTUAL, Hadone, NEUX
 
-*Updated Mon, 20 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/anars/)*
+*Updated Tue, 21 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/anars/)*

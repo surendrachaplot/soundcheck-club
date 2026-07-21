@@ -1,6 +1,6 @@
 # Paolo Ferrara
 
-Paolo Ferrara is a Techno and Hardcore artist with 3 upcoming club dates listed on soundcheck as of Mon, 20 Jul 2026, next at Hï Ibiza, Ibiza on Sun, 2 Aug 2026.
+Paolo Ferrara is a Techno and Hardcore artist with 3 upcoming club dates listed on soundcheck as of Tue, 21 Jul 2026, next at Hï Ibiza, Ibiza on Sun, 2 Aug 2026.
 
 Paolo Ferrara is a techno and hardcore artist tracked on soundcheck, with 81 sets logged across Amsterdam, Athens, Barcelona and Basel and 39 more. Often billed alongside Lorenzo Raganzini, Alignment and BIIA. Next up: Hï Ibiza, Ibiza on Sun 2 Aug.
 
@@ -27,4 +27,4 @@ Paolo Ferrara is a techno and hardcore artist tracked on soundcheck, with 81 set
 
 Lorenzo Raganzini, Alignment, BIIA
 
-*Updated Mon, 20 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/PaoloFerrara/)*
+*Updated Tue, 21 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/PaoloFerrara/)*

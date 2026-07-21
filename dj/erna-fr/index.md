@@ -1,6 +1,6 @@
 # Erna (FR)
 
-Erna (FR) is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Mon, 20 Jul 2026, next at MAS - Museum aan de Stroom, Antwerp on Sat, 8 Aug 2026.
+Erna (FR) is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Tue, 21 Jul 2026, next at MAS - Museum aan de Stroom, Antwerp on Sat, 8 Aug 2026.
 
 Erna (FR) is a techno and house artist tracked on soundcheck, with 56 sets logged across Antwerp, Berlin, Brussels and Hamburg and 5 more. Often billed alongside Egna, Amor Satyr and Kanucia. Next up: MAS - Museum aan de Stroom, Antwerp on Sat 8 Aug.
 
@@ -26,4 +26,4 @@ Erna (FR) is a techno and house artist tracked on soundcheck, with 56 sets logge
 
 Egna, Amor Satyr, Kanucia
 
-*Updated Mon, 20 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/erna-fr/)*
+*Updated Tue, 21 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/erna-fr/)*

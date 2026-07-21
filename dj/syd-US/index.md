@@ -1,6 +1,6 @@
 # Syd (US)
 
-Syd (US) is a Club and Techno artist with 2 upcoming club dates listed on soundcheck as of Mon, 20 Jul 2026, next at Monarch, San Francisco/Oakland on Sat, 25 Jul 2026.
+Syd (US) is a Club and Techno artist with 2 upcoming club dates listed on soundcheck as of Tue, 21 Jul 2026, next at Monarch, San Francisco/Oakland on Sat, 25 Jul 2026.
 
 Syd (US) is a club and techno artist tracked on soundcheck, with 82 sets logged across Boston, Chicago, Detroit and Losangeles and 7 more. Often billed alongside NATALIA., Tromac and kabir.. Next up: Monarch, Sanfrancisco on Sat 25 Jul.
 
@@ -26,4 +26,4 @@ Syd (US) is a club and techno artist tracked on soundcheck, with 82 sets logged 
 
 NATALIA., Tromac, kabir.
 
-*Updated Mon, 20 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/syd-US/)*
+*Updated Tue, 21 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/syd-US/)*

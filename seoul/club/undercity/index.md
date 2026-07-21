@@ -1,6 +1,6 @@
 # UNDERCITY
 
-UNDERCITY is a music venue in Seoul with 2 upcoming nights listed on soundcheck as of Mon, 20 Jul 2026; the next is "PRECTXE Current: Kelly Lee Owens" on Fri, 24 Jul 2026.
+UNDERCITY is a music venue in Seoul with 2 upcoming nights listed on soundcheck as of Tue, 21 Jul 2026; the next is "PRECTXE Current: Kelly Lee Owens" on Fri, 24 Jul 2026.
 
 UNDERCITY is a music venue in Seoul listed on soundcheck. 2 upcoming nights, with line-ups including Ginchy, Kelly Lee Owens, Nathassia and Nosaj Thing and 1 more. Browse upcoming dates, start times and who's playing. Basement, 61 Seongsui-ro 22-gil, Seongdong-gu, Seoul.
 
@@ -15,4 +15,4 @@ UNDERCITY is a music venue in Seoul listed on soundcheck. 2 upcoming nights, wit
 
 Basement, 61 Seongsui-ro 22-gil, Seongdong-gu, Seoul, Seoul
 
-*Updated Mon, 20 Jul 2026 · source: [soundcheck](https://soundcheck.club/seoul/club/undercity/)*
+*Updated Tue, 21 Jul 2026 · source: [soundcheck](https://soundcheck.club/seoul/club/undercity/)*

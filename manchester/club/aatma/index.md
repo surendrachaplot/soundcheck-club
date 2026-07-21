@@ -1,6 +1,6 @@
 # Aatma
 
-Aatma is a music venue in Manchester with 3 upcoming nights listed on soundcheck as of Mon, 20 Jul 2026; the next is "Wuthering Nights: a Kate Bush & Friends Discotheque (Manchester)" on Sat, 25 Jul 2026.
+Aatma is a music venue in Manchester with 3 upcoming nights listed on soundcheck as of Tue, 21 Jul 2026; the next is "Wuthering Nights: a Kate Bush & Friends Discotheque (Manchester)" on Sat, 25 Jul 2026.
 
 Aatma is a music venue in Manchester listed on soundcheck. 3 upcoming nights. Browse upcoming dates, start times and who's playing. 1st Floor, 14-16 Faraday St, Manchester M1 1BE.
 
@@ -16,4 +16,4 @@ Aatma is a music venue in Manchester listed on soundcheck. 3 upcoming nights. Br
 
 1st Floor, 14-16 Faraday St, Manchester M1 1BE, Manchester
 
-*Updated Mon, 20 Jul 2026 · source: [soundcheck](https://soundcheck.club/manchester/club/aatma/)*
+*Updated Tue, 21 Jul 2026 · source: [soundcheck](https://soundcheck.club/manchester/club/aatma/)*

@@ -1,6 +1,6 @@
 # Sofiia Zoloto
 
-Sofiia Zoloto is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Mon, 20 Jul 2026, next at BLITZ, Munich on Fri, 31 Jul 2026.
+Sofiia Zoloto is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Tue, 21 Jul 2026, next at BLITZ, Munich on Fri, 31 Jul 2026.
 
 Sofiia Zoloto is a house and techno artist tracked on soundcheck, with 38 sets logged across Berlin, Munich, Nurnberg and Vienna. Often billed alongside 9LALEY, Miran N and Muallem. Next up: BLITZ, Munich on Fri 31 Jul.
 
@@ -26,4 +26,4 @@ Sofiia Zoloto is a house and techno artist tracked on soundcheck, with 38 sets l
 
 9LALEY, Miran N, Muallem
 
-*Updated Mon, 20 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/sofiiazoloto/)*
+*Updated Tue, 21 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/sofiiazoloto/)*

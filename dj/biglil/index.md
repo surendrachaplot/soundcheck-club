@@ -1,8 +1,8 @@
 # Big Lil
 
-Big Lil is a Techno and House artist with 5 upcoming club dates listed on soundcheck as of Mon, 20 Jul 2026, next at Ankali & Planeta Za, Prague on Fri, 31 Jul 2026.
+Big Lil is a Techno and House artist with 6 upcoming club dates listed on soundcheck as of Tue, 21 Jul 2026, next at Ankali & Planeta Za, Prague on Fri, 31 Jul 2026.
 
-Big Lil is a techno and house artist based in United States of America, tracked on soundcheck, with 52 sets logged across Prague. Often billed alongside Fembot, AVHD and Kaotic. Next up: Ankali & Planeta Za, Prague on Fri 31 Jul.
+Big Lil is a techno and house artist based in United States of America, tracked on soundcheck, with 53 sets logged across Prague. Often billed alongside Fembot, AVHD and Kaotic. Next up: Ankali & Planeta Za, Prague on Fri 31 Jul.
 
 ## Upcoming shows
 
@@ -11,6 +11,7 @@ Big Lil is a techno and house artist based in United States of America, tracked 
 | Fri, 31 Jul 2026 | Ankali & Planeta Za | Prague |
 | Sat, 1 Aug 2026 | Roxy | Prague |
 | Sat, 8 Aug 2026 | Altenburg 1964 | Prague |
+| Sat, 8 Aug 2026 | Czech Boat | Prague |
 | Sat, 29 Aug 2026 | Ankali & Planeta Za | Prague |
 | Sat, 29 Aug 2026 | Ankali & Planeta Za | Prague |
 
@@ -29,4 +30,4 @@ Big Lil is a techno and house artist based in United States of America, tracked 
 
 Fembot, AVHD, Kaotic
 
-*Updated Mon, 20 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/biglil/)*
+*Updated Tue, 21 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/biglil/)*

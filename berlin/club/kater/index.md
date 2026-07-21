@@ -1,6 +1,6 @@
 # Kater
 
-Kater is a music venue in Berlin with 18 upcoming nights listed on soundcheck as of Mon, 20 Jul 2026; the next is "The Funky Chicken Club" on Tue, 21 Jul 2026.
+Kater is a music venue in Berlin with 18 upcoming nights listed on soundcheck as of Tue, 21 Jul 2026; the next is "The Funky Chicken Club" on Tue, 21 Jul 2026.
 
 Kater is a music venue in Berlin listed on soundcheck. 18 upcoming nights, with line-ups including Javier Anxiety, Nadine Hennig, Adriana Ruas and Ahni and 2 more. Browse upcoming dates, start times and who's playing. Holzmarktstrasse 25, 10243 Berlin.
 
@@ -23,4 +23,4 @@ Kater is a music venue in Berlin listed on soundcheck. 18 upcoming nights, with 
 
 Holzmarktstrasse 25, 10243 Berlin, Berlin
 
-*Updated Mon, 20 Jul 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/kater/)*
+*Updated Tue, 21 Jul 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/kater/)*

@@ -1,6 +1,6 @@
 # Glazart
 
-Glazart is a music venue in Paris with 2 upcoming nights listed on soundcheck as of Mon, 20 Jul 2026; the next is "After O'Clock X La Plage Open Air: LEGA, CLAVD & More" on Sat, 25 Jul 2026.
+Glazart is a music venue in Paris with 2 upcoming nights listed on soundcheck as of Tue, 21 Jul 2026; the next is "After O'Clock X La Plage Open Air: LEGA, CLAVD & More" on Sat, 25 Jul 2026.
 
 Glazart is a music venue in Paris listed on soundcheck. 2 upcoming nights, with line-ups including A.L.A.E and CLAVD. Browse upcoming dates, start times and who's playing. 7-15 av de la Porte de la Villette; 75019; Paris; France.
 
@@ -15,4 +15,4 @@ Glazart is a music venue in Paris listed on soundcheck. 2 upcoming nights, with 
 
 7-15 av de la Porte de la Villette; 75019; Paris; France, Paris
 
-*Updated Mon, 20 Jul 2026 · source: [soundcheck](https://soundcheck.club/paris/club/glazart/)*
+*Updated Tue, 21 Jul 2026 · source: [soundcheck](https://soundcheck.club/paris/club/glazart/)*

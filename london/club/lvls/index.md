@@ -1,6 +1,6 @@
 # Lvls
 
-Lvls is a music venue in London with 2 upcoming nights listed on soundcheck as of Mon, 20 Jul 2026; the next is "Apes Cuttin Shapes X Aether Sound Summer Day Party" on Sat, 1 Aug 2026.
+Lvls is a music venue in London with 2 upcoming nights listed on soundcheck as of Tue, 21 Jul 2026; the next is "Apes Cuttin Shapes X Aether Sound Summer Day Party" on Sat, 1 Aug 2026.
 
 Lvls is a music venue in London listed on soundcheck. 2 upcoming nights, with line-ups including DJ Brockie, DJ Ital and Funsta. Browse upcoming dates, start times and who's playing. 3 Sucession Walk, Fish Island, London E3 2RX.
 
@@ -15,4 +15,4 @@ Lvls is a music venue in London listed on soundcheck. 2 upcoming nights, with li
 
 3 Sucession Walk, Fish Island, London E3 2RX, London
 
-*Updated Mon, 20 Jul 2026 · source: [soundcheck](https://soundcheck.club/london/club/lvls/)*
+*Updated Tue, 21 Jul 2026 · source: [soundcheck](https://soundcheck.club/london/club/lvls/)*

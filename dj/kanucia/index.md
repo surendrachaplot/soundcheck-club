@@ -1,6 +1,6 @@
 # Kanucia
 
-Kanucia is a Club and Bass artist with 2 upcoming club dates listed on soundcheck as of Mon, 20 Jul 2026, next at Kampnagel, Hamburg on Sat, 22 Aug 2026.
+Kanucia is a Club and Bass artist with 2 upcoming club dates listed on soundcheck as of Tue, 21 Jul 2026, next at Kampnagel, Hamburg on Sat, 22 Aug 2026.
 
 Kanucia is a club and bass artist tracked on soundcheck, with 27 sets logged across Amsterdam, Berlin, Hamburg and Ibiza and 6 more. Often billed alongside Nico Adomako, Mobilegirl and Low.Vision. Next up: Kampnagel, Hamburg on Sat 22 Aug.
 
@@ -26,4 +26,4 @@ Kanucia is a club and bass artist tracked on soundcheck, with 27 sets logged acr
 
 Nico Adomako, Mobilegirl, Low.Vision
 
-*Updated Mon, 20 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/kanucia/)*
+*Updated Tue, 21 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/kanucia/)*

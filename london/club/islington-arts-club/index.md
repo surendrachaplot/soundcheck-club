@@ -1,6 +1,6 @@
 # Islington Arts Club
 
-Islington Arts Club is a music venue in London with 2 upcoming nights listed on soundcheck as of Mon, 20 Jul 2026; the next is "KINETIC presents Fallow: Bassline & UKG shakers all night" on Fri, 24 Jul 2026.
+Islington Arts Club is a music venue in London with 2 upcoming nights listed on soundcheck as of Tue, 21 Jul 2026; the next is "KINETIC presents Fallow: Bassline & UKG shakers all night" on Fri, 24 Jul 2026.
 
 Islington Arts Club is a music venue in London listed on soundcheck. 2 upcoming nights, with line-ups including AGLAÉ, Fallow, Jirani (2) and SAVANNAH and 1 more. Browse upcoming dates, start times and who's playing. 235 Upper St, London N1 1RU.
 
@@ -15,4 +15,4 @@ Islington Arts Club is a music venue in London listed on soundcheck. 2 upcoming 
 
 235 Upper St, London N1 1RU, London
 
-*Updated Mon, 20 Jul 2026 · source: [soundcheck](https://soundcheck.club/london/club/islington-arts-club/)*
+*Updated Tue, 21 Jul 2026 · source: [soundcheck](https://soundcheck.club/london/club/islington-arts-club/)*

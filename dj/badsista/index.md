@@ -1,6 +1,6 @@
 # BADSISTA
 
-BADSISTA is a House and Baile Funk artist with 5 upcoming club dates listed on soundcheck as of Mon, 20 Jul 2026, next at Strange Brew, Bristol on Fri, 24 Jul 2026.
+BADSISTA is a House and Baile Funk artist with 5 upcoming club dates listed on soundcheck as of Tue, 21 Jul 2026, next at Strange Brew, Bristol on Fri, 24 Jul 2026.
 
 BADSISTA is a house and baile funk artist tracked on soundcheck, with 115 sets logged across Amsterdam, Barcelona, Berlin and Brisbane and 37 more. Often billed alongside Cashu, Paulete Lindacelva and EVEHIVE. Next up: Strange Brew, Bristol on Fri 24 Jul.
 
@@ -29,4 +29,4 @@ BADSISTA is a house and baile funk artist tracked on soundcheck, with 115 sets l
 
 Cashu, Paulete Lindacelva, EVEHIVE
 
-*Updated Mon, 20 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/badsista/)*
+*Updated Tue, 21 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/badsista/)*

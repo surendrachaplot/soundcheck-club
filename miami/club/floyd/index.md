@@ -1,8 +1,8 @@
 # Floyd
 
-Floyd is a music venue in Miami with 12 upcoming nights listed on soundcheck as of Mon, 20 Jul 2026; the next is "William Kiss + Jordan Brando" on Fri, 24 Jul 2026.
+Floyd is a music venue in Miami with 14 upcoming nights listed on soundcheck as of Tue, 21 Jul 2026; the next is "William Kiss + Jordan Brando" on Fri, 24 Jul 2026.
 
-Floyd is a music venue in Miami listed on soundcheck. 12 upcoming nights, with line-ups including Ale Acosta, Ammo Avenue, Andrew Azara and Aurora Halal and 2 more. Browse upcoming dates, start times and who's playing. 34 NE 11th Street Miami, FL 33132.
+Floyd is a music venue in Miami listed on soundcheck. 14 upcoming nights, with line-ups including Ale Acosta, Ammo Avenue, Andrew Azara and Aurora Halal and 2 more. Browse upcoming dates, start times and who's playing. 34 NE 11th Street Miami, FL 33132.
 
 ## What's on
 
@@ -17,10 +17,10 @@ Floyd is a music venue in Miami listed on soundcheck. 12 upcoming nights, with l
 | Sat, 8 Aug 2026 | 808 Life: Egyptian Lover | DB Cooper, Egyptian Lover, Roll-e, Sel.6 |
 | Sun, 9 Aug 2026 | Forest Fires Radio | Ale Acosta, Coffintexts, Doctor Jeep, HAZÓN, KUJO (US), Trippie Hippie (US), Violeta |
 | Fri, 14 Aug 2026 | Ammo Avenue | Ammo Avenue, Chris Clarke, Natalia Roth |
-| Fri, 21 Aug 2026 | Leon Vynehall Invites: Aurora Halal | Aurora Halal, Leon Vynehall |
+| Sat, 15 Aug 2026 | Save Our Souls: Voigtmann | Daizy, Mai iachetti, Voigtmann |
 
 ## Address
 
 34 NE 11th Street Miami, FL 33132, Miami
 
-*Updated Mon, 20 Jul 2026 · source: [soundcheck](https://soundcheck.club/miami/club/floyd/)*
+*Updated Tue, 21 Jul 2026 · source: [soundcheck](https://soundcheck.club/miami/club/floyd/)*

@@ -1,6 +1,6 @@
 # The Sultan Room
 
-The Sultan Room is a music venue in New York City with 9 upcoming nights listed on soundcheck as of Mon, 20 Jul 2026; the next is "GARAGE! (VOL3)" on Thu, 23 Jul 2026.
+The Sultan Room is a music venue in New York City with 9 upcoming nights listed on soundcheck as of Tue, 21 Jul 2026; the next is "GARAGE! (VOL3)" on Thu, 23 Jul 2026.
 
 The Sultan Room is a music venue in Newyorkcity listed on soundcheck. 9 upcoming nights, with line-ups including Aleska, Destro187, elle xxo and Feonix (2) and 2 more. Browse upcoming dates, start times and who's playing. 234 Starr St. Brooklyn, NY 11237.
 
@@ -22,4 +22,4 @@ The Sultan Room is a music venue in Newyorkcity listed on soundcheck. 9 upcoming
 
 234 Starr St. Brooklyn, NY 11237, New York City
 
-*Updated Mon, 20 Jul 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/the-sultan-room/)*
+*Updated Tue, 21 Jul 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/the-sultan-room/)*

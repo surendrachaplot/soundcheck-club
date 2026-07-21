@@ -1,6 +1,6 @@
 # JOVE
 
-JOVE is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Mon, 20 Jul 2026, next at TBA - Selfkant, Cologne on Sat, 25 Jul 2026.
+JOVE is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Tue, 21 Jul 2026, next at TBA - Selfkant, Cologne on Sat, 25 Jul 2026.
 
 JOVE is a house and techno artist tracked on soundcheck, with 84 sets logged across Cologne, Liverpool, Melbourne and Sydney. Often billed alongside HAUSWiFE, Casey Leaver and Mitch Tonta. Next up: TBA - Selfkant, Cologne on Sat 25 Jul.
 
@@ -26,4 +26,4 @@ JOVE is a house and techno artist tracked on soundcheck, with 84 sets logged acr
 
 HAUSWiFE, Casey Leaver, Mitch Tonta
 
-*Updated Mon, 20 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/jove/)*
+*Updated Tue, 21 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/jove/)*

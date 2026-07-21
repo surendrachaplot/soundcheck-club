@@ -1,6 +1,6 @@
 # Danny Daze
 
-Danny Daze is a House and Techno artist with 4 upcoming club dates listed on soundcheck as of Mon, 20 Jul 2026, next at Motel Campo, Geneva on Sat, 1 Aug 2026.
+Danny Daze is a House and Techno artist with 4 upcoming club dates listed on soundcheck as of Tue, 21 Jul 2026, next at Motel Campo, Geneva on Sat, 1 Aug 2026.
 
 Danny Daze is a house and techno artist tracked on soundcheck, with 151 sets logged across Amsterdam, Austin, Berlin and Bucharest and 26 more. Often billed alongside Jonny From Space, Nick León and Sister System. Next up: Motel Campo, Geneva on Sat 1 Aug.
 
@@ -10,7 +10,7 @@ Danny Daze is a house and techno artist tracked on soundcheck, with 151 sets log
 | --- | --- | --- |
 | Sat, 1 Aug 2026 | Motel Campo | Geneva |
 | Sun, 16 Aug 2026 | Sonnenraum | Berlin |
-| Thu, 27 Aug 2026 | TBA - Schwing und Stampf Festival Site | Zurich |
+| Thu, 27 Aug 2026 | TBA - Schwing und Stampf Festival | Zurich |
 | Sat, 12 Sept 2026 | Phono Lake | Amsterdam |
 
 ## Recently played
@@ -28,4 +28,4 @@ Danny Daze is a house and techno artist tracked on soundcheck, with 151 sets log
 
 Jonny From Space, Nick León, Sister System
 
-*Updated Mon, 20 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/dannydaze/)*
+*Updated Tue, 21 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/dannydaze/)*

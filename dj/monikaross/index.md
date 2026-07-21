@@ -1,6 +1,6 @@
 # Monika Ross
 
-Monika Ross is a House and Tech House artist with 2 upcoming club dates listed on soundcheck as of Mon, 20 Jul 2026, next at Slot, Hamburg on Sat, 1 Aug 2026.
+Monika Ross is a House and Tech House artist with 2 upcoming club dates listed on soundcheck as of Tue, 21 Jul 2026, next at Slot, Hamburg on Sat, 1 Aug 2026.
 
 Monika Ross is a house and tech house artist tracked on soundcheck, with 34 sets logged across Berlin, Hamburg, London and Melbourne and 3 more. Often billed alongside Nils Twachtmann, Alternate State and Dave Dinger. Next up: Slot, Hamburg on Sat 1 Aug.
 
@@ -26,4 +26,4 @@ Monika Ross is a house and tech house artist tracked on soundcheck, with 34 sets
 
 Nils Twachtmann, Alternate State, Dave Dinger
 
-*Updated Mon, 20 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/monikaross/)*
+*Updated Tue, 21 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/monikaross/)*

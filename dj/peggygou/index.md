@@ -1,6 +1,6 @@
 # Peggy Gou
 
-Peggy Gou is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Mon, 20 Jul 2026, next at Galopprennbahn, Munich on Sat, 1 Aug 2026.
+Peggy Gou is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Tue, 21 Jul 2026, next at Galopprennbahn, Munich on Sat, 1 Aug 2026.
 
 Peggy Gou is a house and techno artist tracked on soundcheck, with 95 sets logged across Amsterdam, Austin, Bali and Barcelona and 38 more. Often billed alongside ANOTR, Chloé Caillet and Skream. Next up: Galopprennbahn, Munich on Sat 1 Aug.
 
@@ -27,4 +27,4 @@ Peggy Gou is a house and techno artist tracked on soundcheck, with 95 sets logge
 
 ANOTR, Chloé Caillet, Skream
 
-*Updated Mon, 20 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/peggygou/)*
+*Updated Tue, 21 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/peggygou/)*

@@ -1,6 +1,6 @@
 # dreamcastmoe
 
-dreamcastmoe is a House and R&B artist with 2 upcoming club dates listed on soundcheck as of Mon, 20 Jul 2026, next at Strange Brew, Bristol on Sat, 25 Jul 2026.
+dreamcastmoe is a House and R&B artist with 2 upcoming club dates listed on soundcheck as of Tue, 21 Jul 2026, next at Strange Brew, Bristol on Sat, 25 Jul 2026.
 
 dreamcastmoe is a house and r&b artist based in United States of America, tracked on soundcheck, with 51 sets logged across Amsterdam, Austin, Berlin and Bristol and 17 more. Often billed alongside Bradley Zero, DJ Tennis and Jyoty. Next up: Strange Brew, Bristol on Sat 25 Jul.
 
@@ -26,4 +26,4 @@ dreamcastmoe is a house and r&b artist based in United States of America, tracke
 
 Bradley Zero, DJ Tennis, Jyoty
 
-*Updated Mon, 20 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/dreamcast/)*
+*Updated Tue, 21 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/dreamcast/)*

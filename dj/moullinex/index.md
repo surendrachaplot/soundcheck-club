@@ -1,6 +1,6 @@
 # Moullinex
 
-Moullinex is a House and Electronica artist with 2 upcoming club dates listed on soundcheck as of Mon, 20 Jul 2026, next at Tapada da Ajuda, Lisbon on Sat, 29 Aug 2026.
+Moullinex is a House and Electronica artist with 2 upcoming club dates listed on soundcheck as of Tue, 21 Jul 2026, next at Tapada da Ajuda, Lisbon on Sat, 29 Aug 2026.
 
 Moullinex is a house and electronica artist based in Portugal, tracked on soundcheck, with 37 sets logged across Amsterdam, Lisbon, London and Madrid and 2 more. Often billed alongside GPU Panic, Xinobi and MXGPU. Next up: Tapada da Ajuda, Lisbon on Sat 29 Aug.
 
@@ -26,4 +26,4 @@ Moullinex is a house and electronica artist based in Portugal, tracked on soundc
 
 GPU Panic, Xinobi, MXGPU
 
-*Updated Mon, 20 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/moullinex/)*
+*Updated Tue, 21 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/moullinex/)*

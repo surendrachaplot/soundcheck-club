@@ -1,6 +1,6 @@
 # Dimitri (1)
 
-Dimitri (1) is a Acid and Techno artist with 2 upcoming club dates listed on soundcheck as of Mon, 20 Jul 2026, next at Thuishaven, Amsterdam on Sat, 1 Aug 2026.
+Dimitri (1) is a Acid and Techno artist with 2 upcoming club dates listed on soundcheck as of Tue, 21 Jul 2026, next at Thuishaven, Amsterdam on Sat, 1 Aug 2026.
 
 Dimitri (1) is an acid and techno artist based in Switzerland, tracked on soundcheck, with 32 sets logged across Amsterdam, Berlin, Rotterdam and Zurich. Often billed alongside Alexander Koning, Erick E and Lucien Foort. Next up: Thuishaven, Amsterdam on Sat 1 Aug.
 
@@ -26,4 +26,4 @@ Dimitri (1) is an acid and techno artist based in Switzerland, tracked on soundc
 
 Alexander Koning, Erick E, Lucien Foort
 
-*Updated Mon, 20 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/dimitri-1/)*
+*Updated Tue, 21 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/dimitri-1/)*

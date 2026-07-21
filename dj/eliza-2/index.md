@@ -1,6 +1,6 @@
 # Eliza (2)
 
-Eliza (2) is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Mon, 20 Jul 2026, next at Renate, Berlin on Fri, 31 Jul 2026.
+Eliza (2) is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Tue, 21 Jul 2026, next at Renate, Berlin on Fri, 31 Jul 2026.
 
 Eliza (2) is a techno and house artist based in Germany, tracked on soundcheck, with 39 sets logged across Barcelona, Berlin, Brussels and Copenhagen and 9 more. Often billed alongside Miran N, Akaj and DRAMA SOURCE ARTIFACTS. Next up: Renate, Berlin on Fri 31 Jul.
 
@@ -26,4 +26,4 @@ Eliza (2) is a techno and house artist based in Germany, tracked on soundcheck, 
 
 Miran N, Akaj, DRAMA SOURCE ARTIFACTS
 
-*Updated Mon, 20 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/eliza-2/)*
+*Updated Tue, 21 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/eliza-2/)*

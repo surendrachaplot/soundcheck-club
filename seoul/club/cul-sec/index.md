@@ -1,6 +1,6 @@
 # Cul Sec
 
-Cul Sec is a music venue in Seoul with 3 upcoming nights listed on soundcheck as of Mon, 20 Jul 2026; the next is "CUL SEC" on Fri, 24 Jul 2026.
+Cul Sec is a music venue in Seoul with 3 upcoming nights listed on soundcheck as of Tue, 21 Jul 2026; the next is "CUL SEC" on Fri, 24 Jul 2026.
 
 Cul Sec is a music venue in Seoul listed on soundcheck. 3 upcoming nights, with line-ups including Kimgundi and Rob Goodspeed. Browse upcoming dates, start times and who's playing. 1F, 242, Noksapyeong-daero, Yongsan-gu,, Seoul, Korea 04343.
 
@@ -16,4 +16,4 @@ Cul Sec is a music venue in Seoul listed on soundcheck. 3 upcoming nights, with 
 
 1F, 242, Noksapyeong-daero, Yongsan-gu,, Seoul, Korea 04343, Seoul
 
-*Updated Mon, 20 Jul 2026 · source: [soundcheck](https://soundcheck.club/seoul/club/cul-sec/)*
+*Updated Tue, 21 Jul 2026 · source: [soundcheck](https://soundcheck.club/seoul/club/cul-sec/)*

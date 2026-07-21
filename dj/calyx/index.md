@@ -1,6 +1,6 @@
 # Calyx
 
-Calyx is a Drum & Bass and Jungle artist with 2 upcoming club dates listed on soundcheck as of Mon, 20 Jul 2026, next at Hackney Wick Multiple Venues, London on Sat, 1 Aug 2026.
+Calyx is a Drum & Bass and Jungle artist with 2 upcoming club dates listed on soundcheck as of Tue, 21 Jul 2026, next at Hackney Wick Multiple Venues, London on Sat, 1 Aug 2026.
 
 Calyx is a drum & bass and jungle artist based in United Kingdom, tracked on soundcheck, with 33 sets logged across Amsterdam, Auckland, Berlin and Brighton and 14 more. Often billed alongside Kasra, Enei and Jakes. Next up: Hackney Wick Multiple Venues, London on Sat 1 Aug.
 
@@ -26,4 +26,4 @@ Calyx is a drum & bass and jungle artist based in United Kingdom, tracked on sou
 
 Kasra, Enei, Jakes
 
-*Updated Mon, 20 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/calyx/)*
+*Updated Tue, 21 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/calyx/)*

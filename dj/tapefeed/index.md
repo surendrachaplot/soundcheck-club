@@ -1,6 +1,6 @@
 # Tapefeed
 
-Tapefeed is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Mon, 20 Jul 2026, next at Boston Manor Park, London on Sat, 25 Jul 2026.
+Tapefeed is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Tue, 21 Jul 2026, next at Boston Manor Park, London on Sat, 25 Jul 2026.
 
 Tapefeed is a techno and house artist tracked on soundcheck, with 66 sets logged across Amsterdam, Berlin, Boston and Budapest and 9 more. Often billed alongside Rene Wise, Anna Wall and Craig Richards. Next up: Boston Manor Park, London on Sat 25 Jul.
 
@@ -26,4 +26,4 @@ Tapefeed is a techno and house artist tracked on soundcheck, with 66 sets logged
 
 Rene Wise, Anna Wall, Craig Richards
 
-*Updated Mon, 20 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/tapefeed/)*
+*Updated Tue, 21 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/tapefeed/)*

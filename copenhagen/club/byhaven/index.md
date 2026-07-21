@@ -1,6 +1,6 @@
 # Byhaven
 
-Byhaven is a music venue in Copenhagen with 5 upcoming nights listed on soundcheck as of Mon, 20 Jul 2026; the next is "NATKAT + BIMS + DJ Whut! + B from E" on Thu, 23 Jul 2026.
+Byhaven is a music venue in Copenhagen with 5 upcoming nights listed on soundcheck as of Tue, 21 Jul 2026; the next is "NATKAT + BIMS + DJ Whut! + B from E" on Thu, 23 Jul 2026.
 
 Byhaven is a music venue in Copenhagen listed on soundcheck. 5 upcoming nights, with line-ups including B From E, Braver, Niko Nuevo and Samuel Rees. Browse upcoming dates, start times and who's playing. Studiestræde 52, 1554 København, Denmark.
 
@@ -18,4 +18,4 @@ Byhaven is a music venue in Copenhagen listed on soundcheck. 5 upcoming nights, 
 
 Studiestræde 52, 1554 København, Denmark, Copenhagen
 
-*Updated Mon, 20 Jul 2026 · source: [soundcheck](https://soundcheck.club/copenhagen/club/byhaven/)*
+*Updated Tue, 21 Jul 2026 · source: [soundcheck](https://soundcheck.club/copenhagen/club/byhaven/)*

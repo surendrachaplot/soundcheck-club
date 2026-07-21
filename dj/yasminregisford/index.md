@@ -1,6 +1,6 @@
 # Yasmin Regisford
 
-Yasmin Regisford is a Techno and Trance artist with 2 upcoming club dates listed on soundcheck as of Mon, 20 Jul 2026, next at Lehmann Club, Stuttgart on Fri, 24 Jul 2026.
+Yasmin Regisford is a Techno and Trance artist with 2 upcoming club dates listed on soundcheck as of Tue, 21 Jul 2026, next at Lehmann Club, Stuttgart on Fri, 24 Jul 2026.
 
 Yasmin Regisford is a techno and trance artist based in France, tracked on soundcheck, with 60 sets logged across Amsterdam, Bangkok, Berlin and Brussels and 18 more. Often billed alongside 25EMEHEURE, PRADA2000 and Vanille. Next up: Lehmann Club, Stuttgart on Fri 24 Jul.
 
@@ -26,4 +26,4 @@ Yasmin Regisford is a techno and trance artist based in France, tracked on sound
 
 25EMEHEURE, PRADA2000, Vanille
 
-*Updated Mon, 20 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/yasminregisford/)*
+*Updated Tue, 21 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/yasminregisford/)*

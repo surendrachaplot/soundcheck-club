@@ -1,6 +1,6 @@
 # DJ Senc
 
-DJ Senc is a House and Tech House artist with 3 upcoming club dates listed on soundcheck as of Mon, 20 Jul 2026, next at Haus der Visionäre, Berlin on Sat, 22 Aug 2026.
+DJ Senc is a House and Tech House artist with 3 upcoming club dates listed on soundcheck as of Tue, 21 Jul 2026, next at Haus der Visionäre, Berlin on Sat, 22 Aug 2026.
 
 DJ Senc is a house and tech house artist tracked on soundcheck, with 125 sets logged across Amsterdam, Bali, Barcelona and Berlin and 22 more. Often billed alongside Samuel Deep, Doudou MD and Dyed Soundorom. Next up: Haus der Visionäre, Berlin on Sat 22 Aug.
 
@@ -27,4 +27,4 @@ DJ Senc is a house and tech house artist tracked on soundcheck, with 125 sets lo
 
 Samuel Deep, Doudou MD, Dyed Soundorom
 
-*Updated Mon, 20 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/djsenc/)*
+*Updated Tue, 21 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/djsenc/)*

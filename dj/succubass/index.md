@@ -1,6 +1,6 @@
 # Succubass
 
-Succubass is a Techno and Bass artist with 2 upcoming club dates listed on soundcheck as of Mon, 20 Jul 2026, next at Biltmore Cabaret, Vancouver on Sun, 2 Aug 2026.
+Succubass is a Techno and Bass artist with 2 upcoming club dates listed on soundcheck as of Tue, 21 Jul 2026, next at Biltmore Cabaret, Vancouver on Sun, 2 Aug 2026.
 
 Succubass is a techno and bass artist tracked on soundcheck, with 85 sets logged across Berlin, Detroit, London and Losangeles and 7 more. Often billed alongside Sharlese, DJ DEADNAME and CCL. Next up: Biltmore Cabaret, Vancouver on Sun 2 Aug.
 
@@ -26,4 +26,4 @@ Succubass is a techno and bass artist tracked on soundcheck, with 85 sets logged
 
 Sharlese, DJ DEADNAME, CCL
 
-*Updated Mon, 20 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/succubass/)*
+*Updated Tue, 21 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/succubass/)*

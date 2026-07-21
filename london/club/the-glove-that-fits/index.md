@@ -1,8 +1,8 @@
 # The Glove That Fits
 
-The Glove That Fits is a music venue in London with 15 upcoming nights listed on soundcheck as of Mon, 20 Jul 2026; the next is "Face 2 Face: Braga Circuit, Karma Kid, Fliss Mayo, Moe" on Fri, 24 Jul 2026.
+The Glove That Fits is a music venue in London with 16 upcoming nights listed on soundcheck as of Tue, 21 Jul 2026; the next is "Face 2 Face: Braga Circuit, Karma Kid, Fliss Mayo, Moe" on Fri, 24 Jul 2026.
 
-The Glove That Fits is a music venue in London listed on soundcheck. 15 upcoming nights, with line-ups including Aero (1), AJ Manning, Alfaz and Balrog and 2 more. Browse upcoming dates, start times and who's playing. 179 Morning Lane, Hackney, E96LH, United Kingdom.
+The Glove That Fits is a music venue in London listed on soundcheck. 16 upcoming nights, with line-ups including 7005, Aero (1), AJ Manning and Alfaz and 2 more. Browse upcoming dates, start times and who's playing. 179 Morning Lane, Hackney, E96LH, United Kingdom.
 
 ## What's on
 
@@ -23,4 +23,4 @@ The Glove That Fits is a music venue in London listed on soundcheck. 15 upcoming
 
 179 Morning Lane, Hackney, E96LH, United Kingdom, London
 
-*Updated Mon, 20 Jul 2026 · source: [soundcheck](https://soundcheck.club/london/club/the-glove-that-fits/)*
+*Updated Tue, 21 Jul 2026 · source: [soundcheck](https://soundcheck.club/london/club/the-glove-that-fits/)*

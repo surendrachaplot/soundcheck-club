@@ -1,6 +1,6 @@
 # Ankali & Planeta Za
 
-Ankali & Planeta Za is a music venue in Prague with 7 upcoming nights listed on soundcheck as of Mon, 20 Jul 2026; the next is "Archiv Teknologi: Axis Alpha & Eva Falt, Decoder, Inger Illel" on Fri, 24 Jul 2026.
+Ankali & Planeta Za is a music venue in Prague with 7 upcoming nights listed on soundcheck as of Tue, 21 Jul 2026; the next is "Archiv Teknologi: Axis Alpha & Eva Falt, Decoder, Inger Illel" on Fri, 24 Jul 2026.
 
 Ankali & Planeta Za is a music venue in Prague listed on soundcheck. 7 upcoming nights, with line-ups including 3ever, Alfred Czital, AMB (6) and Atch22 and 2 more. Browse upcoming dates, start times and who's playing. Lopuchová 58/6, Prague, 101 00, Czechia.
 
@@ -20,4 +20,4 @@ Ankali & Planeta Za is a music venue in Prague listed on soundcheck. 7 upcoming 
 
 Lopuchová 58/6, Prague, 101 00, Czechia, Prague
 
-*Updated Mon, 20 Jul 2026 · source: [soundcheck](https://soundcheck.club/prague/club/ankali-planeta-za/)*
+*Updated Tue, 21 Jul 2026 · source: [soundcheck](https://soundcheck.club/prague/club/ankali-planeta-za/)*

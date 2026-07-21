@@ -1,6 +1,6 @@
 # KENTARO
 
-KENTARO is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Mon, 20 Jul 2026, next at V2 Tokyo, Tokyo on Thu, 23 Jul 2026.
+KENTARO is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Tue, 21 Jul 2026, next at V2 Tokyo, Tokyo on Thu, 23 Jul 2026.
 
 KENTARO is a house and techno artist based in Japan, tracked on soundcheck, with 95 sets logged across Bangkok, Barcelona, Berlin and Kyoto and 3 more. Often billed alongside Kentaro Takizawa, yu-more and EICHIMEN. Next up: V2 Tokyo, Tokyo on Thu 23 Jul.
 
@@ -26,4 +26,4 @@ KENTARO is a house and techno artist based in Japan, tracked on soundcheck, with
 
 Kentaro Takizawa, yu-more, EICHIMEN
 
-*Updated Mon, 20 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/kentaro/)*
+*Updated Tue, 21 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/kentaro/)*

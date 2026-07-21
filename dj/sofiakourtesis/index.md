@@ -1,6 +1,6 @@
 # Sofia Kourtesis
 
-Sofia Kourtesis is a House and Techno artist with 8 upcoming club dates listed on soundcheck as of Mon, 20 Jul 2026, next at Prince Charles, Berlin on Sun, 2 Aug 2026.
+Sofia Kourtesis is a House and Techno artist with 8 upcoming club dates listed on soundcheck as of Tue, 21 Jul 2026, next at Prince Charles, Berlin on Sun, 2 Aug 2026.
 
 Sofia Kourtesis is a house and techno artist tracked on soundcheck, with 136 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 43 more. Often billed alongside Bonobo, DJ Tennis and Paula Tape. Next up: Prince Charles, Berlin on Sun 2 Aug.
 
@@ -32,4 +32,4 @@ Sofia Kourtesis is a house and techno artist tracked on soundcheck, with 136 set
 
 Bonobo, DJ Tennis, Paula Tape
 
-*Updated Mon, 20 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/sofiakourtesis/)*
+*Updated Tue, 21 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/sofiakourtesis/)*

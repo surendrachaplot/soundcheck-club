@@ -1,6 +1,6 @@
 # Freight Island Newcastle
 
-Freight Island Newcastle is a music venue in Newcastle with 4 upcoming nights listed on soundcheck as of Mon, 20 Jul 2026; the next is "Steve Hildreth + DJ Surprise" on Fri, 24 Jul 2026.
+Freight Island Newcastle is a music venue in Newcastle with 4 upcoming nights listed on soundcheck as of Tue, 21 Jul 2026; the next is "Steve Hildreth + DJ Surprise" on Fri, 24 Jul 2026.
 
 Freight Island Newcastle is a music venue in Newcastle listed on soundcheck. 4 upcoming nights, with line-ups including Chunky, DJ Paulette, Emily Jacko and Gina Breeze and 2 more. Browse upcoming dates, start times and who's playing. 54 Newgate St, Newcastle upon Tyne NE1 5RQ.
 
@@ -17,4 +17,4 @@ Freight Island Newcastle is a music venue in Newcastle listed on soundcheck. 4 u
 
 54 Newgate St, Newcastle upon Tyne NE1 5RQ, Newcastle
 
-*Updated Mon, 20 Jul 2026 · source: [soundcheck](https://soundcheck.club/newcastle/club/freight-island-newcastle/)*
+*Updated Tue, 21 Jul 2026 · source: [soundcheck](https://soundcheck.club/newcastle/club/freight-island-newcastle/)*

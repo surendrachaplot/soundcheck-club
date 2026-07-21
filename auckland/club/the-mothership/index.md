@@ -1,6 +1,6 @@
 # The Mothership
 
-The Mothership is a music venue in Auckland with 6 upcoming nights listed on soundcheck as of Mon, 20 Jul 2026; the next is "FOVOS - Auckland" on Fri, 31 Jul 2026.
+The Mothership is a music venue in Auckland with 6 upcoming nights listed on soundcheck as of Tue, 21 Jul 2026; the next is "FOVOS - Auckland" on Fri, 31 Jul 2026.
 
 The Mothership is a music venue in Auckland listed on soundcheck. 6 upcoming nights, with line-ups including Aaiste, Greg Churchill, Mariano Mellino and NOIYSE PROJECT. Browse upcoming dates, start times and who's playing. 7 Shortland Street, Auckland CBD, Auckland 1010, New Zealand.
 
@@ -19,4 +19,4 @@ The Mothership is a music venue in Auckland listed on soundcheck. 6 upcoming nig
 
 7 Shortland Street, Auckland CBD, Auckland 1010, New Zealand, Auckland
 
-*Updated Mon, 20 Jul 2026 · source: [soundcheck](https://soundcheck.club/auckland/club/the-mothership/)*
+*Updated Tue, 21 Jul 2026 · source: [soundcheck](https://soundcheck.club/auckland/club/the-mothership/)*

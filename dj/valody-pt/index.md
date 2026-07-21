@@ -1,6 +1,6 @@
 # Valody
 
-Valody is a Techno and Dub Techno artist with 4 upcoming club dates listed on soundcheck as of Mon, 20 Jul 2026, next at nachbar, Amsterdam on Sat, 25 Jul 2026.
+Valody is a Techno and Dub Techno artist with 4 upcoming club dates listed on soundcheck as of Tue, 21 Jul 2026, next at nachbar, Amsterdam on Sat, 25 Jul 2026.
 
 Valody is a techno and dub techno artist tracked on soundcheck, with 72 sets logged across Amsterdam, Berlin, Lisbon and Paris and 4 more. Often billed alongside Maria Cue, Anika Kunst and Judy (ES). Next up: nachbar, Amsterdam on Sat 25 Jul.
 
@@ -28,4 +28,4 @@ Valody is a techno and dub techno artist tracked on soundcheck, with 72 sets log
 
 Maria Cue, Anika Kunst, Judy (ES)
 
-*Updated Mon, 20 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/valody-pt/)*
+*Updated Tue, 21 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/valody-pt/)*

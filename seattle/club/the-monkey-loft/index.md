@@ -1,6 +1,6 @@
 # The Monkey Loft
 
-The Monkey Loft is a music venue in Seattle with 10 upcoming nights listed on soundcheck as of Mon, 20 Jul 2026; the next is "Deck'd Out #6 with Sassmouth (CHI), Nark, Anvil & Haus Cats" on Thu, 23 Jul 2026.
+The Monkey Loft is a music venue in Seattle with 10 upcoming nights listed on soundcheck as of Tue, 21 Jul 2026; the next is "Deck'd Out #6 with Sassmouth (CHI), Nark, Anvil & Haus Cats" on Thu, 23 Jul 2026.
 
 The Monkey Loft is a music venue in Seattle listed on soundcheck. 10 upcoming nights, with line-ups including Aivilo, Cami Jones, Dane Garfield and DJ Garth and 2 more. Browse upcoming dates, start times and who's playing. 2917 1st Ave So. Seattle WA 98134.
 
@@ -23,4 +23,4 @@ The Monkey Loft is a music venue in Seattle listed on soundcheck. 10 upcoming ni
 
 2917 1st Ave So. Seattle WA 98134, Seattle
 
-*Updated Mon, 20 Jul 2026 · source: [soundcheck](https://soundcheck.club/seattle/club/the-monkey-loft/)*
+*Updated Tue, 21 Jul 2026 · source: [soundcheck](https://soundcheck.club/seattle/club/the-monkey-loft/)*

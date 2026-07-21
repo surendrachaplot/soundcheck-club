@@ -1,6 +1,6 @@
 # Berlin Bunny
 
-Berlin Bunny is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Mon, 20 Jul 2026, next at TBA - @ Zefīrs by day, @ SPĒLĒT by night, Riga on Fri, 24 Jul 2026.
+Berlin Bunny is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Tue, 21 Jul 2026, next at TBA - @ Zefīrs by day, @ SPĒLĒT by night, Riga on Fri, 24 Jul 2026.
 
 Berlin Bunny is a techno and house artist based in Poland, tracked on soundcheck, with 58 sets logged across Amsterdam, Barcelona, Berlin and Krakow and 9 more. Often billed alongside Eyesdice, Franz Scala and Paty Vapor. Next up: TBA - @ Zefīrs by day, @ SPĒLĒT by night, Riga on Fri 24 Jul.
 
@@ -27,4 +27,4 @@ Berlin Bunny is a techno and house artist based in Poland, tracked on soundcheck
 
 Eyesdice, Franz Scala, Paty Vapor
 
-*Updated Mon, 20 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/berlinbunny/)*
+*Updated Tue, 21 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/berlinbunny/)*

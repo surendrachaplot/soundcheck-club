@@ -1,6 +1,6 @@
 # BRISA Rooftop
 
-BRISA Rooftop is a music venue in Antwerp with 1 upcoming night listed on soundcheck as of Mon, 20 Jul 2026; the next is "ROOFTOP DAY PARTY" on Fri, 7 Aug 2026.
+BRISA Rooftop is a music venue in Antwerp with 1 upcoming night listed on soundcheck as of Tue, 21 Jul 2026; the next is "ROOFTOP DAY PARTY" on Fri, 7 Aug 2026.
 
 BRISA Rooftop is a music venue in Antwerp listed on soundcheck. 1 upcoming night. Browse upcoming dates, start times and who's playing. Straatsburgdok Noordkaai 3, Antwerpen.
 
@@ -14,4 +14,4 @@ BRISA Rooftop is a music venue in Antwerp listed on soundcheck. 1 upcoming night
 
 Straatsburgdok Noordkaai 3, Antwerpen, Antwerp
 
-*Updated Mon, 20 Jul 2026 · source: [soundcheck](https://soundcheck.club/antwerp/club/brisa-rooftop/)*
+*Updated Tue, 21 Jul 2026 · source: [soundcheck](https://soundcheck.club/antwerp/club/brisa-rooftop/)*

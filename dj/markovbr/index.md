@@ -1,6 +1,6 @@
 # Markov (cult)
 
-Markov (cult) is a Minimal Techno and Minimal artist with 2 upcoming club dates listed on soundcheck as of Mon, 20 Jul 2026, next at Myra Ostraria, Lisbon on Fri, 24 Jul 2026.
+Markov (cult) is a Minimal Techno and Minimal artist with 2 upcoming club dates listed on soundcheck as of Tue, 21 Jul 2026, next at Myra Ostraria, Lisbon on Fri, 24 Jul 2026.
 
 Markov (cult) is a minimal techno and minimal artist based in Portugal, tracked on soundcheck, with 27 sets logged across Budapest and Lisbon. Often billed alongside Eric Furtado, Kristina (2) and Alex Arnout. Next up: Myra Ostraria, Lisbon on Fri 24 Jul.
 
@@ -26,4 +26,4 @@ Markov (cult) is a minimal techno and minimal artist based in Portugal, tracked 
 
 Eric Furtado, Kristina (2), Alex Arnout
 
-*Updated Mon, 20 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/markovbr/)*
+*Updated Tue, 21 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/markovbr/)*

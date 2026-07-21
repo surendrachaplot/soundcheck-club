@@ -1,6 +1,6 @@
 # Room 22
 
-Room 22 is a music venue in Sydney with 2 upcoming nights listed on soundcheck as of Mon, 20 Jul 2026; the next is "Techno Mafia & Beyond" on Sat, 25 Jul 2026.
+Room 22 is a music venue in Sydney with 2 upcoming nights listed on soundcheck as of Tue, 21 Jul 2026; the next is "Techno Mafia & Beyond" on Sat, 25 Jul 2026.
 
 Room 22 is a music venue in Sydney listed on soundcheck. 2 upcoming nights, with line-ups including BASS SLVT, Izata, ONARSÉ and Shogun. Browse upcoming dates, start times and who's playing. 22 Bayswater Rd, Potts Point, NSW 2011.
 
@@ -15,4 +15,4 @@ Room 22 is a music venue in Sydney listed on soundcheck. 2 upcoming nights, with
 
 22 Bayswater Rd, Potts Point, NSW 2011, Sydney
 
-*Updated Mon, 20 Jul 2026 · source: [soundcheck](https://soundcheck.club/sydney/club/room-22/)*
+*Updated Tue, 21 Jul 2026 · source: [soundcheck](https://soundcheck.club/sydney/club/room-22/)*

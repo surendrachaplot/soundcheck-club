@@ -1,6 +1,6 @@
 # Superordinary
 
-Superordinary is a music venue in Brisbane with 3 upcoming nights listed on soundcheck as of Mon, 20 Jul 2026; the next is "Ministry of Sound Testament Brisbane 90s" on Fri, 24 Jul 2026.
+Superordinary is a music venue in Brisbane with 3 upcoming nights listed on soundcheck as of Tue, 21 Jul 2026; the next is "Ministry of Sound Testament Brisbane 90s" on Fri, 24 Jul 2026.
 
 Superordinary is a music venue in Brisbane listed on soundcheck. 3 upcoming nights, with line-ups including Altern-8, Brandon Block, Danny Tenaglia and Darren Emerson and 2 more. Browse upcoming dates, start times and who's playing. 175 MacArthur Ave, Hamilton QLD 4007.
 
@@ -16,4 +16,4 @@ Superordinary is a music venue in Brisbane listed on soundcheck. 3 upcoming nigh
 
 175 MacArthur Ave, Hamilton QLD 4007, Brisbane
 
-*Updated Mon, 20 Jul 2026 · source: [soundcheck](https://soundcheck.club/brisbane/club/superordinary/)*
+*Updated Tue, 21 Jul 2026 · source: [soundcheck](https://soundcheck.club/brisbane/club/superordinary/)*

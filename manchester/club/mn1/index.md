@@ -1,6 +1,6 @@
 # MN1
 
-MN1 is a music venue in Manchester with 1 upcoming night listed on soundcheck as of Mon, 20 Jul 2026; the next is "House all night" on Sat, 8 Aug 2026.
+MN1 is a music venue in Manchester with 1 upcoming night listed on soundcheck as of Tue, 21 Jul 2026; the next is "House all night" on Sat, 8 Aug 2026.
 
 MN1 is a music venue in Manchester listed on soundcheck. 1 upcoming night. Browse upcoming dates, start times and who's playing. 58 whitworth street.
 
@@ -14,4 +14,4 @@ MN1 is a music venue in Manchester listed on soundcheck. 1 upcoming night. Brows
 
 58 whitworth street, Manchester
 
-*Updated Mon, 20 Jul 2026 · source: [soundcheck](https://soundcheck.club/manchester/club/mn1/)*
+*Updated Tue, 21 Jul 2026 · source: [soundcheck](https://soundcheck.club/manchester/club/mn1/)*

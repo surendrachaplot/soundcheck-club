@@ -1,6 +1,6 @@
 # Rob Manga
 
-Rob Manga is a House and Disco artist with 3 upcoming club dates listed on soundcheck as of Mon, 20 Jul 2026, next at Clutch, Warehouse Bangkok, Bangkok on Fri, 24 Jul 2026.
+Rob Manga is a House and Disco artist with 3 upcoming club dates listed on soundcheck as of Tue, 21 Jul 2026, next at Clutch, Warehouse Bangkok, Bangkok on Fri, 24 Jul 2026.
 
 Rob Manga is a house and disco artist based in Netherlands, tracked on soundcheck, with 46 sets logged across Amsterdam, Bangkok, Berlin and Bucharest and 3 more. Often billed alongside Leroy Rey, some out of none and KC The Funkaholic. Next up: Clutch, Warehouse Bangkok, Bangkok on Fri 24 Jul.
 
@@ -27,4 +27,4 @@ Rob Manga is a house and disco artist based in Netherlands, tracked on soundchec
 
 Leroy Rey, some out of none, KC The Funkaholic
 
-*Updated Mon, 20 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/robmanga/)*
+*Updated Tue, 21 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/robmanga/)*

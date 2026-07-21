@@ -1,6 +1,6 @@
 # Ayana Pattra
 
-Ayana Pattra is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Mon, 20 Jul 2026, next at R Lounge, Tokyo on Sat, 25 Jul 2026.
+Ayana Pattra is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Tue, 21 Jul 2026, next at R Lounge, Tokyo on Sat, 25 Jul 2026.
 
 Ayana Pattra is a techno and house artist based in Japan, tracked on soundcheck, with 29 sets logged across Tokyo. Often billed alongside SIGNAL (JP), Shun Kurashima and MOTOKA. Next up: R Lounge, Tokyo on Sat 25 Jul.
 
@@ -26,4 +26,4 @@ Ayana Pattra is a techno and house artist based in Japan, tracked on soundcheck,
 
 SIGNAL (JP), Shun Kurashima, MOTOKA
 
-*Updated Mon, 20 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/ayanapattra/)*
+*Updated Tue, 21 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/ayanapattra/)*

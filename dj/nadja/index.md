@@ -1,6 +1,6 @@
 # Nadja
 
-Nadja is a Techno and Club artist with 2 upcoming club dates listed on soundcheck as of Mon, 20 Jul 2026, next at Beachouse, Ibiza on Wed, 12 Aug 2026.
+Nadja is a Techno and Club artist with 2 upcoming club dates listed on soundcheck as of Tue, 21 Jul 2026, next at Beachouse, Ibiza on Wed, 12 Aug 2026.
 
 Nadja is a techno and club artist based in Greece, tracked on soundcheck, with 47 sets logged across Amsterdam, Athens, Barcelona and Berlin and 2 more. Often billed alongside Camilo Franco, Ther3min and 118119. Next up: Beachouse, Ibiza on Wed 12 Aug.
 
@@ -26,4 +26,4 @@ Nadja is a techno and club artist based in Greece, tracked on soundcheck, with 4
 
 Camilo Franco, Ther3min, 118119
 
-*Updated Mon, 20 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/nadja/)*
+*Updated Tue, 21 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/nadja/)*

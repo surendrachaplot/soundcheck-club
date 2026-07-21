@@ -1,6 +1,6 @@
 # Robert Owens
 
-Robert Owens is a House and Techno artist with 4 upcoming club dates listed on soundcheck as of Mon, 20 Jul 2026, next at Lokschuppen Berlin, Berlin on Sun, 16 Aug 2026.
+Robert Owens is a House and Techno artist with 4 upcoming club dates listed on soundcheck as of Tue, 21 Jul 2026, next at Lokschuppen Berlin, Berlin on Sun, 16 Aug 2026.
 
 Robert Owens is a house and techno artist tracked on soundcheck, with 94 sets logged across Amsterdam, Barcelona, Berlin and Brussels and 16 more. Often billed alongside Frankie Flowerz, Mad Shivers and Philippe Autuori. Next up: Lokschuppen Berlin, Berlin on Sun 16 Aug.
 
@@ -28,4 +28,4 @@ Robert Owens is a house and techno artist tracked on soundcheck, with 94 sets lo
 
 Frankie Flowerz, Mad Shivers, Philippe Autuori
 
-*Updated Mon, 20 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/robertowens/)*
+*Updated Tue, 21 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/robertowens/)*

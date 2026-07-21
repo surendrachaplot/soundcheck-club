@@ -1,6 +1,6 @@
 # Natascha Polké
 
-Natascha Polké is a House and Electro artist with 7 upcoming club dates listed on soundcheck as of Mon, 20 Jul 2026, next at TBA - Toronto, Toronto on Fri, 24 Jul 2026.
+Natascha Polké is a House and Electro artist with 7 upcoming club dates listed on soundcheck as of Tue, 21 Jul 2026, next at TBA - Toronto, Toronto on Fri, 24 Jul 2026.
 
 Natascha Polké is a house and electro artist tracked on soundcheck, with 52 sets logged across Amsterdam, Athens, Basel and Berlin and 25 more. Often billed alongside Parra for Cuva, NTO and Nora En Pure. Next up: TBA - Toronto, Toronto on Fri 24 Jul.
 
@@ -31,4 +31,4 @@ Natascha Polké is a house and electro artist tracked on soundcheck, with 52 set
 
 Parra for Cuva, NTO, Nora En Pure
 
-*Updated Mon, 20 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/nataschapolke/)*
+*Updated Tue, 21 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/nataschapolke/)*

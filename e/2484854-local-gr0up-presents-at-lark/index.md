@@ -1,6 +1,6 @@
 # Local Gr0up presents at Lark
 
-Local Gr0up presents at Lark on Thu 23 Jul, Berlin. 5 acts on the bill: 300SkullsAndCounting, CÁRPATOS, Global and Valeria Litvakov and 1 more. Experimental and IDM. Preview the line-up and save it on soundcheck.
+Local Gr0up presents at Lark on Thu 23 Jul, Berlin. 6 acts on the bill: 300SkullsAndCounting, CÁRPATOS, Global and Helen Sun and 2 more. Experimental and IDM. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -13,6 +13,7 @@ Local Gr0up presents at Lark on Thu 23 Jul, Berlin. 5 acts on the bill: 300Skull
 - 300SkullsAndCounting
 - CÁRPATOS
 - Global
+- Helen Sun
 - Valeria Litvakov
 - julek ploski
 

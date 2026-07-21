@@ -1,6 +1,6 @@
 # Wata Igarashi
 
-Wata Igarashi is a Techno and House artist with 13 upcoming club dates listed on soundcheck as of Mon, 20 Jul 2026, next at Amsterdamse Bos, Amsterdam on Wed, 29 Jul 2026.
+Wata Igarashi is a Techno and House artist with 13 upcoming club dates listed on soundcheck as of Tue, 21 Jul 2026, next at Amsterdamse Bos, Amsterdam on Wed, 29 Jul 2026.
 
 Wata Igarashi is a techno and house artist tracked on soundcheck, with 199 sets logged across Amsterdam, Athens, Barcelona and Basel and 51 more. Often billed alongside DJ Nobu, CCL and Octo Octa. Next up: Amsterdamse Bos, Amsterdam on Wed 29 Jul.
 
@@ -36,4 +36,4 @@ Wata Igarashi is a techno and house artist tracked on soundcheck, with 199 sets 
 
 DJ Nobu, CCL, Octo Octa
 
-*Updated Mon, 20 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/wataigarashi/)*
+*Updated Tue, 21 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/wataigarashi/)*

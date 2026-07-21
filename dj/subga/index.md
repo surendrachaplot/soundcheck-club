@@ -1,16 +1,17 @@
 # subga
 
-subga is a Trance and Techno artist with 3 upcoming club dates listed on soundcheck as of Mon, 20 Jul 2026, next at TBA - Flakturm (Humbolthain), Berlin on Fri, 24 Jul 2026.
+subga is a Trance and Techno artist with 4 upcoming club dates listed on soundcheck as of Tue, 21 Jul 2026, next at TBA - Flakturm (Humbolthain), Berlin on Fri, 24 Jul 2026.
 
-subga is a trance and techno artist based in Germany, tracked on soundcheck, with 26 sets logged across Berlin. Often billed alongside bbymeister, jeanska and Blossmbae. Next up: TBA - Flakturm (Humbolthain), Berlin on Fri 24 Jul.
+subga is a trance and techno artist based in Germany, tracked on soundcheck, with 27 sets logged across Berlin. Often billed alongside bbymeister, jeanska and Blossmbae. Next up: TBA - Flakturm (Humbolthain), Berlin on Fri 24 Jul.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 24 Jul 2026 | TBA - Flakturm (Humbolthain) | Berlin |
-| Fri, 31 Jul 2026 | Void Club | Berlin |
+| Fri, 31 Jul 2026 | Void Hall | Berlin |
 | Sat, 15 Aug 2026 | Insomnia | Berlin |
+| Sat, 15 Aug 2026 | Humboldthain Club | Berlin |
 
 ## Recently played
 
@@ -27,4 +28,4 @@ subga is a trance and techno artist based in Germany, tracked on soundcheck, wit
 
 bbymeister, jeanska, Blossmbae
 
-*Updated Mon, 20 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/subga/)*
+*Updated Tue, 21 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/subga/)*

@@ -1,6 +1,6 @@
 # Baerbel
 
-Baerbel is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Mon, 20 Jul 2026, next at Klangtherapie, Nürnberg on Thu, 6 Aug 2026.
+Baerbel is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Tue, 21 Jul 2026, next at Klangtherapie, Nürnberg on Thu, 6 Aug 2026.
 
 Baerbel is a techno and house artist based in Germany, tracked on soundcheck, with 68 sets logged across Berlin, Cologne, Hamburg and Leipzig and 2 more. Often billed alongside JUSTICE (DE), Ciao 3lla and Ele Luz. Next up: Klangtherapie, Nurnberg on Thu 6 Aug.
 
@@ -26,4 +26,4 @@ Baerbel is a techno and house artist based in Germany, tracked on soundcheck, wi
 
 JUSTICE (DE), Ciao 3lla, Ele Luz
 
-*Updated Mon, 20 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/baerbel/)*
+*Updated Tue, 21 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/baerbel/)*

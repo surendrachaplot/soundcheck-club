@@ -1,6 +1,6 @@
 # Club Cheek
 
-Club Cheek is a music venue in London with 10 upcoming nights listed on soundcheck as of Mon, 20 Jul 2026; the next is "Liana Zhen-Ai & Astrid Sonne present Normal Dreams" on Wed, 22 Jul 2026.
+Club Cheek is a music venue in London with 10 upcoming nights listed on soundcheck as of Tue, 21 Jul 2026; the next is "Liana Zhen-Ai & Astrid Sonne present Normal Dreams" on Wed, 22 Jul 2026.
 
 Club Cheek is a music venue in London listed on soundcheck. 10 upcoming nights, with line-ups including Ali Velmi, Anahita Shamsaei, Astrid Sonne and Bailey Ibbs and 2 more. Browse upcoming dates, start times and who's playing. 302-304 Barrington Road, London, SW9 7JJ.
 
@@ -23,4 +23,4 @@ Club Cheek is a music venue in London listed on soundcheck. 10 upcoming nights, 
 
 302-304 Barrington Road, London, SW9 7JJ, London
 
-*Updated Mon, 20 Jul 2026 · source: [soundcheck](https://soundcheck.club/london/club/club-cheek/)*
+*Updated Tue, 21 Jul 2026 · source: [soundcheck](https://soundcheck.club/london/club/club-cheek/)*

@@ -1,6 +1,6 @@
 # Baldo
 
-Baldo is a House and Acid artist with 3 upcoming club dates listed on soundcheck as of Mon, 20 Jul 2026, next at Sophie Festival, Malaga on Sat, 25 Jul 2026.
+Baldo is a House and Acid artist with 3 upcoming club dates listed on soundcheck as of Tue, 21 Jul 2026, next at Sophie Festival, Malaga on Sat, 25 Jul 2026.
 
 Baldo is a house and acid artist tracked on soundcheck, with 77 sets logged across Bali, Bangkok, Barcelona and Belgrade and 19 more. Often billed alongside Benjamin Fröhlich, Carlo and DJ Gamba. Next up: Sophie Festival, Malaga on Sat 25 Jul.
 
@@ -27,4 +27,4 @@ Baldo is a house and acid artist tracked on soundcheck, with 77 sets logged acro
 
 Benjamin Fröhlich, Carlo, DJ Gamba
 
-*Updated Mon, 20 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/baldo/)*
+*Updated Tue, 21 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/baldo/)*

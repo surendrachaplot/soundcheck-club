@@ -1,6 +1,6 @@
 # Het Sieraad
 
-Het Sieraad is a music venue in Amsterdam with 5 upcoming nights listed on soundcheck as of Mon, 20 Jul 2026; the next is "Crits Agency w/ nik-ey b2b Ammé - Luis Ripa b2b Hidde van Wee - Julien Simmons b2b Mees Mattern" on Fri, 24 Jul 2026.
+Het Sieraad is a music venue in Amsterdam with 5 upcoming nights listed on soundcheck as of Tue, 21 Jul 2026; the next is "Crits Agency w/ nik-ey b2b Ammé - Luis Ripa b2b Hidde van Wee - Julien Simmons b2b Mees Mattern" on Fri, 24 Jul 2026.
 
 Het Sieraad is a music venue in Amsterdam listed on soundcheck. 5 upcoming nights, with line-ups including Ammé, Corren Cavini, Deeparture and Hidde van Wee and 2 more. Browse upcoming dates, start times and who's playing. Postjesweg 1, 1057 DT Amsterdam.
 
@@ -18,4 +18,4 @@ Het Sieraad is a music venue in Amsterdam listed on soundcheck. 5 upcoming night
 
 Postjesweg 1, 1057 DT Amsterdam, Amsterdam
 
-*Updated Mon, 20 Jul 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/het-sieraad/)*
+*Updated Tue, 21 Jul 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/het-sieraad/)*

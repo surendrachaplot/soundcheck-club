@@ -1,6 +1,6 @@
 # Slayphex Twins
 
-Slayphex Twins is a Hardcore and Club artist with 2 upcoming club dates listed on soundcheck as of Mon, 20 Jul 2026, next at Atno, Budapest on Fri, 31 Jul 2026.
+Slayphex Twins is a Hardcore and Club artist with 2 upcoming club dates listed on soundcheck as of Tue, 21 Jul 2026, next at Atno, Budapest on Fri, 31 Jul 2026.
 
 Slayphex Twins is a hardcore and club artist tracked on soundcheck, with 46 sets logged across Amsterdam, Budapest, Leeds and London and 1 more. Often billed alongside Peggy Viennetta, RQuality and Ushko. Next up: Atno, Budapest on Fri 31 Jul.
 
@@ -26,4 +26,4 @@ Slayphex Twins is a hardcore and club artist tracked on soundcheck, with 46 sets
 
 Peggy Viennetta, RQuality, Ushko
 
-*Updated Mon, 20 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/slayphextwins/)*
+*Updated Tue, 21 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/slayphextwins/)*

@@ -1,6 +1,6 @@
 # Spanners
 
-Spanners is a music venue in London with 9 upcoming nights listed on soundcheck as of Mon, 20 Jul 2026; the next is "Diversion with Material Things, Minus Kendal, Mag" on Sat, 25 Jul 2026.
+Spanners is a music venue in London with 9 upcoming nights listed on soundcheck as of Tue, 21 Jul 2026; the next is "Diversion with Material Things, Minus Kendal, Mag" on Sat, 25 Jul 2026.
 
 Spanners is a music venue in London listed on soundcheck. 9 upcoming nights, with line-ups including Angel D'lite, Ben Vince, Bethan and BJ Holy and 2 more. Browse upcoming dates, start times and who's playing. SPANNERS, arch 504, Loughborough Junction, SW9 7EX.
 
@@ -22,4 +22,4 @@ Spanners is a music venue in London listed on soundcheck. 9 upcoming nights, wit
 
 SPANNERS, arch 504, Loughborough Junction, SW9 7EX, London
 
-*Updated Mon, 20 Jul 2026 · source: [soundcheck](https://soundcheck.club/london/club/spanners/)*
+*Updated Tue, 21 Jul 2026 · source: [soundcheck](https://soundcheck.club/london/club/spanners/)*

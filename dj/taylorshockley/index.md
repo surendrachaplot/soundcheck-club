@@ -1,6 +1,6 @@
 # Taylor Shockley
 
-Taylor Shockley is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Mon, 20 Jul 2026, next at Macadam, Nantes on Sun, 26 Jul 2026.
+Taylor Shockley is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Tue, 21 Jul 2026, next at Macadam, Nantes on Sun, 26 Jul 2026.
 
 Taylor Shockley is a techno and house artist based in United States of America, tracked on soundcheck, with 33 sets logged across Amsterdam, Austin, Boston and Brussels and 8 more. Often billed alongside 98dots, Carl H and Aurora Halal. Next up: Macadam, Nantes on Sun 26 Jul.
 
@@ -26,4 +26,4 @@ Taylor Shockley is a techno and house artist based in United States of America, 
 
 98dots, Carl H, Aurora Halal
 
-*Updated Mon, 20 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/taylorshockley/)*
+*Updated Tue, 21 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/taylorshockley/)*

@@ -1,6 +1,6 @@
 # Lido Berlin
 
-Lido Berlin is a music venue in Berlin with 1 upcoming night listed on soundcheck as of Mon, 20 Jul 2026; the next is "Ana Frango Elétrico" on Thu, 6 Aug 2026.
+Lido Berlin is a music venue in Berlin with 1 upcoming night listed on soundcheck as of Tue, 21 Jul 2026; the next is "Ana Frango Elétrico" on Thu, 6 Aug 2026.
 
 Lido Berlin is a music venue in Berlin listed on soundcheck. 1 upcoming night. Browse upcoming dates, start times and who's playing. Cuvrystrasse 7; Kreuzberg; 10997 Berlin; Germany.
 
@@ -14,4 +14,4 @@ Lido Berlin is a music venue in Berlin listed on soundcheck. 1 upcoming night. B
 
 Cuvrystrasse 7; Kreuzberg; 10997 Berlin; Germany, Berlin
 
-*Updated Mon, 20 Jul 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/lido-berlin/)*
+*Updated Tue, 21 Jul 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/lido-berlin/)*

@@ -1,18 +1,18 @@
 # Blue Marlin Ibiza
 
-Blue Marlin Ibiza is a music venue in Ibiza with 2 upcoming nights listed on soundcheck as of Mon, 20 Jul 2026; the next is "Stardust" on Wed, 22 Jul 2026.
+Blue Marlin Ibiza is a music venue in Ibiza with 2 upcoming nights listed on soundcheck as of Tue, 21 Jul 2026; the next is "Stardust" on Wed, 22 Jul 2026.
 
-Blue Marlin Ibiza is a music venue in Ibiza listed on soundcheck. 2 upcoming nights. Browse upcoming dates, start times and who's playing. Cala Jondal, 07816, Balears Spain, Ibiza.
+Blue Marlin Ibiza is a music venue in Ibiza listed on soundcheck. 2 upcoming nights, with line-ups including Anane, Louie Vega, Saraga and Tuccillo. Browse upcoming dates, start times and who's playing. Cala Jondal, 07816, Balears Spain, Ibiza.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Wed, 22 Jul 2026 | Stardust |  |
+| Wed, 22 Jul 2026 | Stardust | Anane, Louie Vega, Saraga, Tuccillo |
 | Wed, 29 Jul 2026 | Stardust |  |
 
 ## Address
 
 Cala Jondal, 07816, Balears Spain, Ibiza, Ibiza
 
-*Updated Mon, 20 Jul 2026 · source: [soundcheck](https://soundcheck.club/ibiza/club/blue-marlin-ibiza/)*
+*Updated Tue, 21 Jul 2026 · source: [soundcheck](https://soundcheck.club/ibiza/club/blue-marlin-ibiza/)*

@@ -1,6 +1,6 @@
 # Palace of Fine Arts
 
-Palace of Fine Arts is a music venue in San Francisco/Oakland with 2 upcoming nights listed on soundcheck as of Mon, 20 Jul 2026; the next is "UNREAL NA TOUR: SAN FRANCISCO" on Sun, 6 Sept 2026.
+Palace of Fine Arts is a music venue in San Francisco/Oakland with 2 upcoming nights listed on soundcheck as of Tue, 21 Jul 2026; the next is "UNREAL NA TOUR: SAN FRANCISCO" on Sun, 6 Sept 2026.
 
 Palace of Fine Arts is a music venue in Sanfrancisco listed on soundcheck. 2 upcoming nights, with line-ups including Fantasm, GRAVEDGR, Johannes Schuster and Miss Crafty and 1 more. Browse upcoming dates, start times and who's playing. 3601 Lyon Street, San Francisco, CA 94123.
 
@@ -15,4 +15,4 @@ Palace of Fine Arts is a music venue in Sanfrancisco listed on soundcheck. 2 upc
 
 3601 Lyon Street, San Francisco, CA 94123, San Francisco/Oakland
 
-*Updated Mon, 20 Jul 2026 · source: [soundcheck](https://soundcheck.club/sanfrancisco/club/palace-of-fine-arts/)*
+*Updated Tue, 21 Jul 2026 · source: [soundcheck](https://soundcheck.club/sanfrancisco/club/palace-of-fine-arts/)*

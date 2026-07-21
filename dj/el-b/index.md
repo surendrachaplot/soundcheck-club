@@ -1,6 +1,6 @@
 # El-B
 
-El-B is a Garage and Dubstep artist with 3 upcoming club dates listed on soundcheck as of Mon, 20 Jul 2026, next at Freight Brixton, London on Sat, 22 Aug 2026.
+El-B is a Garage and Dubstep artist with 3 upcoming club dates listed on soundcheck as of Tue, 21 Jul 2026, next at Freight Brixton, London on Sat, 22 Aug 2026.
 
 El-B is a garage and dubstep artist tracked on soundcheck, with 44 sets logged across Amsterdam, Barcelona, Bristol and Copenhagen and 9 more. Often billed alongside Mantra, Plastician and Zed Bias. Next up: Freight Brixton, London on Sat 22 Aug.
 
@@ -27,4 +27,4 @@ El-B is a garage and dubstep artist tracked on soundcheck, with 44 sets logged a
 
 Mantra, Plastician, Zed Bias
 
-*Updated Mon, 20 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/el-b/)*
+*Updated Tue, 21 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/el-b/)*

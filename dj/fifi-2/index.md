@@ -1,8 +1,8 @@
 # FIFI (2)
 
-FIFI (2) is a Drum & Bass and House artist with 3 upcoming club dates listed on soundcheck as of Mon, 20 Jul 2026, next at TBA - Paradies Garten Festival - Schloß Prugg 2, 2460 Gemeinde Bruck an der Leitha, Vienna on Fri, 31 Jul 2026.
+FIFI (2) is a Drum & Bass and Jungle artist with 4 upcoming club dates listed on soundcheck as of Tue, 21 Jul 2026, next at TBA - Paradies Garten Festival - Schloß Prugg 2, 2460 Gemeinde Bruck an der Leitha, Vienna on Fri, 31 Jul 2026.
 
-FIFI (2) is a drum & bass and house artist based in United Kingdom, tracked on soundcheck, with 8 sets logged across Edinburgh, London, Losangeles and Miami and 1 more. Often billed alongside Benwal, Chloé Caillet and DJ Fuckoff. Next up: TBA - Paradies Garten Festival - Schloß Prugg 2, 2460 Gemeinde Bruck an der Leitha, Vienna on Fri 31 Jul.
+FIFI (2) is a drum & bass and jungle artist based in United Kingdom, tracked on soundcheck, with 9 sets logged across Edinburgh, London, Losangeles and Miami and 1 more. Often billed alongside Benwal, Chloé Caillet and DJ Fuckoff. Next up: TBA - Paradies Garten Festival - Schloß Prugg 2, 2460 Gemeinde Bruck an der Leitha, Vienna on Fri 31 Jul.
 
 ## Upcoming shows
 
@@ -11,6 +11,7 @@ FIFI (2) is a drum & bass and house artist based in United Kingdom, tracked on s
 | Fri, 31 Jul 2026 | TBA - Paradies Garten Festival - Schloß Prugg 2, 2460 Gemeinde Bruck an der Leitha | Vienna |
 | Sat, 1 Aug 2026 | TBA - Hollywood Park adjacent to SoFi Stadium | Los Angeles |
 | Sat, 1 Aug 2026 | Burgess Park | London |
+| Fri, 11 Sept 2026 | The Bongo Club | Edinburgh |
 
 ## Recently played
 
@@ -24,4 +25,4 @@ FIFI (2) is a drum & bass and house artist based in United Kingdom, tracked on s
 
 Benwal, Chloé Caillet, DJ Fuckoff
 
-*Updated Mon, 20 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/fifi-2/)*
+*Updated Tue, 21 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/fifi-2/)*

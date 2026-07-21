@@ -1,6 +1,6 @@
 # A.D.H.S.
 
-A.D.H.S. is a Techno and House artist with 5 upcoming club dates listed on soundcheck as of Mon, 20 Jul 2026, next at Bergson Kunstkraftwerk, Munich on Sat, 25 Jul 2026.
+A.D.H.S. is a Techno and House artist with 5 upcoming club dates listed on soundcheck as of Tue, 21 Jul 2026, next at Bergson Kunstkraftwerk, Munich on Sat, 25 Jul 2026.
 
 A.D.H.S. is a techno and house artist tracked on soundcheck, with 58 sets logged across Amsterdam, Barcelona, Berlin and Cologne and 9 more. Often billed alongside Maurice Mino, Thomas Schumacher and Sin:port. Next up: Bergson Kunstkraftwerk, Munich on Sat 25 Jul.
 
@@ -29,4 +29,4 @@ A.D.H.S. is a techno and house artist tracked on soundcheck, with 58 sets logged
 
 Maurice Mino, Thomas Schumacher, Sin:port
 
-*Updated Mon, 20 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/adhs/)*
+*Updated Tue, 21 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/adhs/)*

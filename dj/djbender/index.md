@@ -1,8 +1,8 @@
 # DJ BENDER
 
-DJ BENDER is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Mon, 20 Jul 2026, next at Den Anden Side, Copenhagen on Fri, 31 Jul 2026.
+DJ BENDER is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Tue, 21 Jul 2026, next at Den Anden Side, Copenhagen on Fri, 31 Jul 2026.
 
-DJ BENDER is a techno and house artist based in Poland, tracked on soundcheck, with 20 sets logged across Copenhagen and Stockholm. Often billed alongside babysquid, DJ Greatfruit Grapefruit and ASTA MARI. Next up: Den Anden Side, Copenhagen on Fri 31 Jul.
+DJ BENDER is a techno and house artist based in Poland, tracked on soundcheck, with 21 sets logged across Copenhagen and Stockholm. Often billed alongside babysquid, DJ Greatfruit Grapefruit and ASTA MARI. Next up: Den Anden Side, Copenhagen on Fri 31 Jul.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ DJ BENDER is a techno and house artist based in Poland, tracked on soundcheck, w
 | --- | --- | --- |
 | Fri, 31 Jul 2026 | Den Anden Side | Copenhagen |
 | Fri, 7 Aug 2026 | Culture Box | Copenhagen |
+| Sat, 22 Aug 2026 | Den Anden Side | Copenhagen |
 
 ## Recently played
 
@@ -26,4 +27,4 @@ DJ BENDER is a techno and house artist based in Poland, tracked on soundcheck, w
 
 babysquid, DJ Greatfruit Grapefruit, ASTA MARI
 
-*Updated Mon, 20 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/djbender/)*
+*Updated Tue, 21 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/djbender/)*

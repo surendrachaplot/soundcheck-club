@@ -1,6 +1,6 @@
 # TILLATEC
 
-TILLATEC is a music venue in Amsterdam with 11 upcoming nights listed on soundcheck as of Mon, 20 Jul 2026; the next is "TILLAVISION: Aquatec" on Fri, 24 Jul 2026.
+TILLATEC is a music venue in Amsterdam with 11 upcoming nights listed on soundcheck as of Tue, 21 Jul 2026; the next is "TILLAVISION: Aquatec" on Fri, 24 Jul 2026.
 
 TILLATEC is a music venue in Amsterdam listed on soundcheck. 11 upcoming nights, with line-ups including Amphia, angelboy, ANNĒ and ARCHANGEL (US) and 2 more. Browse upcoming dates, start times and who's playing. Doctor Jan van Breemenstraat 1; 1056 AB Amsterdam.
 
@@ -10,7 +10,7 @@ TILLATEC is a music venue in Amsterdam listed on soundcheck. 11 upcoming nights,
 | --- | --- | --- |
 | Fri, 24 Jul 2026 | TILLAVISION: Aquatec |  |
 | Fri, 24 Jul 2026 | TILLAVISION: Aquatec | DIORA, Juja, TEKNA, sausy |
-| Sat, 25 Jul 2026 | Orphic #21 Pride Takeover |  |
+| Sat, 25 Jul 2026 | Orphic #21 Pride Takeover | ISA W, Juliana X, MMIV, Mila Haj Kasem, Rosati, SERAFIM, Serti, Thoms Traxx, Vuur |
 | Fri, 31 Jul 2026 | Planet Angels | ARCHANGEL (US), Clementaum, DIORA, Mina Galán, Miss Jay (RO), NMSS, YoungWoman, angelboy, lis (5), smother |
 | Sat, 1 Aug 2026 | TILLATEC invites: Herrensauna + KNIT | CARISTA, CEM, Cormac, Emma Champagne Queen, Gian Battista, HAAi, Lara Renner, MCMLXXXV, Narciss, Slim Soledad, Tommy Hart, fka.m4a |
 | Sun, 2 Aug 2026 | TILLATEC invites: KNIT + VESELKA | Bjarki, Cybersex, Djooke, ISAbella, Jaspol, Kilopatrah Jones, Marie Malarie, Moody Mehran, Pablo Bozzi, Tweeman |
@@ -23,4 +23,4 @@ TILLATEC is a music venue in Amsterdam listed on soundcheck. 11 upcoming nights,
 
 Doctor Jan van Breemenstraat 1; 1056 AB Amsterdam, Amsterdam
 
-*Updated Mon, 20 Jul 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/tillatec/)*
+*Updated Tue, 21 Jul 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/tillatec/)*

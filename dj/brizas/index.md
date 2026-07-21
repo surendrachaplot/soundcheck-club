@@ -1,6 +1,6 @@
 # Brizas
 
-Brizas is a House and Deep House artist with 2 upcoming club dates listed on soundcheck as of Mon, 20 Jul 2026, next at La Terrrazza, Barcelona on Thu, 30 Jul 2026.
+Brizas is a House and Deep House artist with 2 upcoming club dates listed on soundcheck as of Tue, 21 Jul 2026, next at La Terrrazza, Barcelona on Thu, 30 Jul 2026.
 
 Brizas is a house and deep house artist based in Guatemala, tracked on soundcheck, with 55 sets logged across Barcelona and Berlin. Often billed alongside MAF, Derovio and Lupe Republic. Next up: La Terrrazza, Barcelona on Thu 30 Jul.
 
@@ -26,4 +26,4 @@ Brizas is a house and deep house artist based in Guatemala, tracked on soundchec
 
 MAF, Derovio, Lupe Republic
 
-*Updated Mon, 20 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/brizas/)*
+*Updated Tue, 21 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/brizas/)*

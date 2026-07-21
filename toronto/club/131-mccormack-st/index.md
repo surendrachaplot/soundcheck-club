@@ -1,6 +1,6 @@
 # 131 Mccormack St
 
-131 Mccormack St is a music venue in Toronto with 8 upcoming nights listed on soundcheck as of Mon, 20 Jul 2026; the next is "Zorza 4EVER" on Fri, 24 Jul 2026.
+131 Mccormack St is a music venue in Toronto with 8 upcoming nights listed on soundcheck as of Tue, 21 Jul 2026; the next is "Zorza 4EVER" on Fri, 24 Jul 2026.
 
 131 Mccormack St is a music venue in Toronto listed on soundcheck. 8 upcoming nights, with line-ups including 999ADJ, AADJA, AceMo and Ahadadream and 2 more. Browse upcoming dates, start times and who's playing. 131 McCormack St, York, ON M6N 1X8.
 
@@ -21,4 +21,4 @@
 
 131 McCormack St, York, ON M6N 1X8, Toronto
 
-*Updated Mon, 20 Jul 2026 · source: [soundcheck](https://soundcheck.club/toronto/club/131-mccormack-st/)*
+*Updated Tue, 21 Jul 2026 · source: [soundcheck](https://soundcheck.club/toronto/club/131-mccormack-st/)*

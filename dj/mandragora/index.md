@@ -1,6 +1,6 @@
 # Mandragora
 
-Mandragora is a Psytrance and Techno artist with 2 upcoming club dates listed on soundcheck as of Mon, 20 Jul 2026, next at Cult Nightclub, Sydney on Fri, 18 Sept 2026.
+Mandragora is a Psytrance and Techno artist with 2 upcoming club dates listed on soundcheck as of Tue, 21 Jul 2026, next at Cult Nightclub, Sydney on Fri, 18 Sept 2026.
 
 Mandragora is a psytrance and techno artist tracked on soundcheck, with 36 sets logged across Berlin, Brussels, Cologne and Istanbul and 12 more. Often billed alongside Vladimir Cauchemar, DYEN and Jacidorex. Next up: Cult Nightclub, Sydney on Fri 18 Sept.
 
@@ -26,4 +26,4 @@ Mandragora is a psytrance and techno artist tracked on soundcheck, with 36 sets 
 
 Vladimir Cauchemar, DYEN, Jacidorex
 
-*Updated Mon, 20 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/mandragora/)*
+*Updated Tue, 21 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/mandragora/)*

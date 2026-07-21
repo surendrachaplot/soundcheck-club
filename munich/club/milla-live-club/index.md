@@ -1,6 +1,6 @@
 # Milla - Live Club
 
-Milla - Live Club is a music venue in Munich with 3 upcoming nights listed on soundcheck as of Mon, 20 Jul 2026; the next is "bratty • with charli xcx & other brat coded artists • münchen" on Sat, 15 Aug 2026.
+Milla - Live Club is a music venue in Munich with 3 upcoming nights listed on soundcheck as of Tue, 21 Jul 2026; the next is "bratty • with charli xcx & other brat coded artists • münchen" on Sat, 15 Aug 2026.
 
 Milla - Live Club is a music venue in Munich listed on soundcheck. 3 upcoming nights. Browse upcoming dates, start times and who's playing. Holzstr. 28, 80469 München.
 
@@ -16,4 +16,4 @@ Milla - Live Club is a music venue in Munich listed on soundcheck. 3 upcoming ni
 
 Holzstr. 28, 80469 München, Munich
 
-*Updated Mon, 20 Jul 2026 · source: [soundcheck](https://soundcheck.club/munich/club/milla-live-club/)*
+*Updated Tue, 21 Jul 2026 · source: [soundcheck](https://soundcheck.club/munich/club/milla-live-club/)*

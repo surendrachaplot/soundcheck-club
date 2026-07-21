@@ -1,6 +1,6 @@
 # Port of Leith Distillery
 
-Port of Leith Distillery is a music venue in Edinburgh with 1 upcoming night listed on soundcheck as of Mon, 20 Jul 2026; the next is "Habitat " on Sat, 8 Aug 2026.
+Port of Leith Distillery is a music venue in Edinburgh with 1 upcoming night listed on soundcheck as of Tue, 21 Jul 2026; the next is "Habitat " on Sat, 8 Aug 2026.
 
 Port of Leith Distillery is a music venue in Edinburgh listed on soundcheck. 1 upcoming night. Browse upcoming dates, start times and who's playing. 11 Whisky Quay, Edinburgh, EH6 6FH.
 
@@ -14,4 +14,4 @@ Port of Leith Distillery is a music venue in Edinburgh listed on soundcheck. 1 u
 
 11 Whisky Quay, Edinburgh, EH6 6FH, Edinburgh
 
-*Updated Mon, 20 Jul 2026 · source: [soundcheck](https://soundcheck.club/edinburgh/club/port-of-leith-distillery/)*
+*Updated Tue, 21 Jul 2026 · source: [soundcheck](https://soundcheck.club/edinburgh/club/port-of-leith-distillery/)*

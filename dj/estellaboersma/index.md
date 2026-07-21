@@ -1,6 +1,6 @@
 # Estella Boersma
 
-Estella Boersma is a Techno and House artist with 5 upcoming club dates listed on soundcheck as of Mon, 20 Jul 2026, next at UNO MALTA, Malta on Sat, 8 Aug 2026.
+Estella Boersma is a Techno and House artist with 5 upcoming club dates listed on soundcheck as of Tue, 21 Jul 2026, next at UNO MALTA, Malta on Sat, 8 Aug 2026.
 
 Estella Boersma is a techno and house artist tracked on soundcheck, with 167 sets logged across Amsterdam, Antwerp, Athens and Austin and 56 more. Often billed alongside Patrick Mason, Daria Kolosova and Cera Khin. Next up: UNO MALTA, Malta on Sat 8 Aug.
 
@@ -29,4 +29,4 @@ Estella Boersma is a techno and house artist tracked on soundcheck, with 167 set
 
 Patrick Mason, Daria Kolosova, Cera Khin
 
-*Updated Mon, 20 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/estellaboersma/)*
+*Updated Tue, 21 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/estellaboersma/)*

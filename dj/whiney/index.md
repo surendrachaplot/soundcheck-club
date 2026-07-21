@@ -1,6 +1,6 @@
 # Whiney
 
-Whiney is a Drum & Bass and Jungle artist with 3 upcoming club dates listed on soundcheck as of Mon, 20 Jul 2026, next at Hackney Wick Multiple Venues, London on Sat, 1 Aug 2026.
+Whiney is a Drum & Bass and Jungle artist with 3 upcoming club dates listed on soundcheck as of Tue, 21 Jul 2026, next at Hackney Wick Multiple Venues, London on Sat, 1 Aug 2026.
 
 Whiney is a drum & bass and jungle artist tracked on soundcheck, with 58 sets logged across Amsterdam, Auckland, Berlin and Birmingham and 25 more. Often billed alongside P Money, Degs and Unglued. Next up: Hackney Wick Multiple Venues, London on Sat 1 Aug.
 
@@ -27,4 +27,4 @@ Whiney is a drum & bass and jungle artist tracked on soundcheck, with 58 sets lo
 
 P Money, Degs, Unglued
 
-*Updated Mon, 20 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/whiney/)*
+*Updated Tue, 21 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/whiney/)*

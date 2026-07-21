@@ -1,14 +1,15 @@
 # Mary Harp
 
-Mary Harp is a House and Jungle artist with 2 upcoming club dates listed on soundcheck as of Mon, 20 Jul 2026, next at Hangaren, Copenhagen on Sat, 25 Jul 2026.
+Mary Harp is a House and Garage artist with 3 upcoming club dates listed on soundcheck as of Tue, 21 Jul 2026, next at Hangaren, Copenhagen on Sat, 25 Jul 2026.
 
-Mary Harp is a house and jungle artist based in Denmark, tracked on soundcheck, with 21 sets logged across Copenhagen. Often billed alongside CAYOOTEE, parashoot and DJ Lukey. Next up: Hangaren, Copenhagen on Sat 25 Jul.
+Mary Harp is a house and garage artist based in Denmark, tracked on soundcheck, with 22 sets logged across Copenhagen. Often billed alongside CAYOOTEE, parashoot and DJ Lukey. Next up: Hangaren, Copenhagen on Sat 25 Jul.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 25 Jul 2026 | Hangaren | Copenhagen |
+| Sat, 25 Jul 2026 | H15 Scene & Studio | Copenhagen |
 | Thu, 27 Aug 2026 | Hangaren | Copenhagen |
 
 ## Recently played
@@ -26,4 +27,4 @@ Mary Harp is a house and jungle artist based in Denmark, tracked on soundcheck, 
 
 CAYOOTEE, parashoot, DJ Lukey
 
-*Updated Mon, 20 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/maryharp/)*
+*Updated Tue, 21 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/maryharp/)*

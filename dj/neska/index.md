@@ -1,6 +1,6 @@
 # Neska
 
-Neska is a Techno and Club artist with 2 upcoming club dates listed on soundcheck as of Mon, 20 Jul 2026, next at Amsterdamse Bos, Amsterdam on Wed, 29 Jul 2026.
+Neska is a Techno and Club artist with 2 upcoming club dates listed on soundcheck as of Tue, 21 Jul 2026, next at Amsterdamse Bos, Amsterdam on Wed, 29 Jul 2026.
 
 Neska is a techno and club artist tracked on soundcheck, with 72 sets logged across Amsterdam, Barcelona, Berlin and Lisbon and 7 more. Often billed alongside BERTON, Jasmín and Konduku. Next up: Amsterdamse Bos, Amsterdam on Wed 29 Jul.
 
@@ -26,4 +26,4 @@ Neska is a techno and club artist tracked on soundcheck, with 72 sets logged acr
 
 BERTON, Jasmín, Konduku
 
-*Updated Mon, 20 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/neska/)*
+*Updated Tue, 21 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/neska/)*

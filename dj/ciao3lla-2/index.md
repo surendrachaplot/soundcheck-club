@@ -1,6 +1,6 @@
 # Ciao 3lla
 
-Ciao 3lla is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Mon, 20 Jul 2026, next at Tanzhaus West, Frankfurt on Sat, 1 Aug 2026.
+Ciao 3lla is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Tue, 21 Jul 2026, next at Tanzhaus West, Frankfurt on Sat, 1 Aug 2026.
 
 Ciao 3lla is a techno and house artist based in Germany, tracked on soundcheck, with 60 sets logged across Berlin, Cologne, Frankfurt and Hamburg and 4 more. Often billed alongside Francis FF, lisa luka and Baerbel. Next up: Tanzhaus West, Frankfurt on Sat 1 Aug.
 
@@ -26,4 +26,4 @@ Ciao 3lla is a techno and house artist based in Germany, tracked on soundcheck, 
 
 Francis FF, lisa luka, Baerbel
 
-*Updated Mon, 20 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/ciao3lla-2/)*
+*Updated Tue, 21 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/ciao3lla-2/)*

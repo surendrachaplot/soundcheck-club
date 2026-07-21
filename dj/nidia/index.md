@@ -1,6 +1,6 @@
 # Nídia
 
-Nídia is a Kuduro and Techno artist with 3 upcoming club dates listed on soundcheck as of Mon, 20 Jul 2026, next at Amsterdamse Bos, Amsterdam on Wed, 29 Jul 2026.
+Nídia is a Kuduro and Techno artist with 3 upcoming club dates listed on soundcheck as of Tue, 21 Jul 2026, next at Amsterdamse Bos, Amsterdam on Wed, 29 Jul 2026.
 
 Nídia is a kuduro and techno artist tracked on soundcheck, with 58 sets logged across Amsterdam, Antwerp, Barcelona and Berlin and 17 more. Often billed alongside DJ Firmeza, Dj Danifox and DJ Marfox. Next up: Amsterdamse Bos, Amsterdam on Wed 29 Jul.
 
@@ -27,4 +27,4 @@ Nídia is a kuduro and techno artist tracked on soundcheck, with 58 sets logged 
 
 DJ Firmeza, Dj Danifox, DJ Marfox
 
-*Updated Mon, 20 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/nidia/)*
+*Updated Tue, 21 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/nidia/)*

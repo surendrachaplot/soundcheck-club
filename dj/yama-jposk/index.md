@@ -1,13 +1,14 @@
 # YAMA(JP/OSK)
 
-YAMA(JP/OSK) is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Mon, 20 Jul 2026, next at Dual, Bangkok on Sat, 25 Jul 2026.
+YAMA(JP/OSK) is a Techno and House artist with 4 upcoming club dates listed on soundcheck as of Tue, 21 Jul 2026, next at Elsewhere, Bangkok on Fri, 24 Jul 2026.
 
-YAMA(JP/OSK) is a techno and house artist tracked on soundcheck, with 86 sets logged across Bangkok, Berlin, Hongkong and Kyoto and 3 more. Often billed alongside imus, DANA NADA and DJ KAZUMA. Next up: Dual, Bangkok on Sat 25 Jul.
+YAMA(JP/OSK) is a techno and house artist tracked on soundcheck, with 87 sets logged across Bangkok, Berlin, Hongkong and Kyoto and 3 more. Often billed alongside imus, DANA NADA and DJ KAZUMA. Next up: Elsewhere, Bangkok on Fri 24 Jul.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 24 Jul 2026 | Elsewhere | Bangkok |
 | Sat, 25 Jul 2026 | Dual | Bangkok |
 | Sat, 1 Aug 2026 | WOMB | Tokyo |
 | Fri, 21 Aug 2026 | BAR Inc | Osaka |
@@ -27,4 +28,4 @@ YAMA(JP/OSK) is a techno and house artist tracked on soundcheck, with 86 sets lo
 
 imus, DANA NADA, DJ KAZUMA
 
-*Updated Mon, 20 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/yama-jposk/)*
+*Updated Tue, 21 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/yama-jposk/)*

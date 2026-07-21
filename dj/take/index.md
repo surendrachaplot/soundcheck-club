@@ -1,6 +1,6 @@
 # Takē
 
-Takē is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Mon, 20 Jul 2026, next at Bike Jesus, Prague on Fri, 24 Jul 2026.
+Takē is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Tue, 21 Jul 2026, next at Bike Jesus, Prague on Fri, 24 Jul 2026.
 
 Takē is a techno and house artist based in Czech Republic, tracked on soundcheck, with 39 sets logged across Berlin and Prague. Often billed alongside ishka machina, AVHD and zazitech. Next up: Bike Jesus, Prague on Fri 24 Jul.
 
@@ -26,4 +26,4 @@ Takē is a techno and house artist based in Czech Republic, tracked on soundchec
 
 ishka machina, AVHD, zazitech
 
-*Updated Mon, 20 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/take/)*
+*Updated Tue, 21 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/take/)*

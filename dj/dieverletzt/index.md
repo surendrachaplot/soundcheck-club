@@ -1,8 +1,8 @@
 # Die Verletzt
 
-Die Verletzt is a EBM and Techno artist with 3 upcoming club dates listed on soundcheck as of Mon, 20 Jul 2026, next at The Old Church, London on Sat, 25 Jul 2026.
+Die Verletzt is a EBM and Techno artist with 3 upcoming club dates listed on soundcheck as of Tue, 21 Jul 2026, next at The Old Church, London on Sat, 25 Jul 2026.
 
-Die Verletzt is an ebm and techno artist based in United Kingdom, tracked on soundcheck, with 3 sets logged across Liverpool and London. Often billed alongside Arrosa, DungeonMaster and Jezebel. Next up: The Old Church, London on Sat 25 Jul.
+Die Verletzt is an ebm and techno artist based in United Kingdom, tracked on soundcheck, with 3 sets logged across Liverpool and London. Often billed alongside Arrosa, Claudia Kane and DungeonMaster. Next up: The Old Church, London on Sat 25 Jul.
 
 ## Upcoming shows
 
@@ -14,6 +14,6 @@ Die Verletzt is an ebm and techno artist based in United Kingdom, tracked on sou
 
 ## Shares bills with
 
-Arrosa, DungeonMaster, Jezebel
+Arrosa, Claudia Kane, DungeonMaster
 
-*Updated Mon, 20 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/dieverletzt/)*
+*Updated Tue, 21 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/dieverletzt/)*

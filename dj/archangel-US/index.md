@@ -1,6 +1,6 @@
 # ARCHANGEL (US)
 
-ARCHANGEL (US) is a Club and Techno artist with 2 upcoming club dates listed on soundcheck as of Mon, 20 Jul 2026, next at Ormside Projects, London on Sat, 25 Jul 2026.
+ARCHANGEL (US) is a Club and Techno artist with 2 upcoming club dates listed on soundcheck as of Tue, 21 Jul 2026, next at Ormside Projects, London on Sat, 25 Jul 2026.
 
 ARCHANGEL (US) is a club and techno artist based in United States of America, tracked on soundcheck, with 83 sets logged across Amsterdam, Berlin, Chicago and Houston and 8 more. Often billed alongside Cisne, BLAIZE and Kilopatrah Jones. Next up: Ormside Projects, London on Sat 25 Jul.
 
@@ -26,4 +26,4 @@ ARCHANGEL (US) is a club and techno artist based in United States of America, tr
 
 Cisne, BLAIZE, Kilopatrah Jones
 
-*Updated Mon, 20 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/archangel-US/)*
+*Updated Tue, 21 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/archangel-US/)*

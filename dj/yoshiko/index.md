@@ -1,8 +1,8 @@
 # Yoshiko
 
-Yoshiko is a Techno and Hardcore artist with 7 upcoming club dates listed on soundcheck as of Mon, 20 Jul 2026, next at Le Kilowatt, Paris on Sat, 25 Jul 2026.
+Yoshiko is a Techno and Hardcore artist with 8 upcoming club dates listed on soundcheck as of Tue, 21 Jul 2026, next at Le Kilowatt, Paris on Sat, 25 Jul 2026.
 
-Yoshiko is a techno and hardcore artist tracked on soundcheck, with 29 sets logged across Amsterdam, Antwerp, Barcelona and Berlin and 17 more. Often billed alongside Dimitri K, Lola Cerise and Lolalita. Next up: Le Kilowatt, Paris on Sat 25 Jul.
+Yoshiko is a techno and hardcore artist tracked on soundcheck, with 30 sets logged across Amsterdam, Antwerp, Barcelona and Berlin and 18 more. Often billed alongside Dimitri K, Lola Cerise and Lolalita. Next up: Le Kilowatt, Paris on Sat 25 Jul.
 
 ## Upcoming shows
 
@@ -13,6 +13,7 @@ Yoshiko is a techno and hardcore artist tracked on soundcheck, with 29 sets logg
 | Sat, 22 Aug 2026 | TBA - XOX Arena, ARCH GALERIES | Kuala Lumpur |
 | Sat, 29 Aug 2026 | The Classic Grand | Glasgow |
 | Fri, 11 Sept 2026 | Bootshaus | Cologne |
+| Sat, 12 Sept 2026 | Hangar 34 | Liverpool |
 | Fri, 16 Oct 2026 | Airport Würzburg | Nürnberg |
 | Fri, 16 Oct 2026 | Airport Würzburg | Nürnberg |
 
@@ -31,4 +32,4 @@ Yoshiko is a techno and hardcore artist tracked on soundcheck, with 29 sets logg
 
 Dimitri K, Lola Cerise, Lolalita
 
-*Updated Mon, 20 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/yoshiko/)*
+*Updated Tue, 21 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/yoshiko/)*

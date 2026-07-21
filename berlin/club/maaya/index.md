@@ -1,23 +1,26 @@
 # Maaya
 
-Maaya is a music venue in Berlin with 7 upcoming nights listed on soundcheck as of Mon, 20 Jul 2026; the next is "Ripples - CSD SPECIAL" on Thu, 23 Jul 2026.
+Maaya is a music venue in Berlin with 16 upcoming nights listed on soundcheck as of Tue, 21 Jul 2026; the next is "LA ISLA MAAYA BONCHE LATINO COLUMBIAN SPECIAL" on Tue, 21 Jul 2026.
 
-Maaya is a music venue in Berlin listed on soundcheck. 7 upcoming nights, with line-ups including 0dysseus, AMBRA, danger soundsystem and dj latinchat and 2 more. Browse upcoming dates, start times and who's playing. Revalerstr. 99, 10245 Berlin.
+Maaya is a music venue in Berlin listed on soundcheck. 16 upcoming nights, with line-ups including 0dysseus, AMBRA, bee (2) and danger soundsystem and 2 more. Browse upcoming dates, start times and who's playing. Revalerstr. 99, 10245 Berlin.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
+| Tue, 21 Jul 2026 | LA ISLA MAAYA BONCHE LATINO COLUMBIAN SPECIAL |  |
+| Wed, 22 Jul 2026 | COMMON GRWND |  |
+| Wed, 22 Jul 2026 | Pink Mango - Afrobeats Afterwork Berlin |  |
 | Thu, 23 Jul 2026 | Ripples - CSD SPECIAL | Immy, MOE (LB) |
+| Thu, 23 Jul 2026 | POLYPHONIC - Community Gathering | Spin (Dynamics) |
+| Thu, 23 Jul 2026 | FITMITNOMI |  |
+| Thu, 23 Jul 2026 | Warm Up Pride Pré-Parada |  |
+| Fri, 24 Jul 2026 | Salsa Brava |  |
 | Sat, 25 Jul 2026 | VvoovV: 2nd Birthday Open Air Day Party // DJs & Drag show | 0dysseus, JA JA, Mila (4), danger soundsystem |
-| Sun, 26 Jul 2026 | Paradiso Pool Party | Feel .MA, Jaycap |
-| Sun, 26 Jul 2026 | Love & Devotion 5 | Eric D. Clark, Haider |
-| Sun, 2 Aug 2026 | WUB, Amour Africain & Delírio present: | DJ STRAIGHT GIRL, JCow, SXCL, dj latinchat, sin serif |
-| Sun, 23 Aug 2026 | PRNCPTL POOL PARTY - 13 Years Anniversary |  |
-| Sat, 29 Aug 2026 | AFTER FORTUNA x Maaya | AMBRA, Lady Goccia, Maddest, NOVZE, Ragliaz |
+| Sat, 25 Jul 2026 | BEATS N BITES I NIGERIA |  |
 
 ## Address
 
 Revalerstr. 99, 10245 Berlin, Berlin
 
-*Updated Mon, 20 Jul 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/maaya/)*
+*Updated Tue, 21 Jul 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/maaya/)*

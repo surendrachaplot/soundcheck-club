@@ -1,6 +1,6 @@
 # arkaoda Berlin
 
-arkaoda Berlin is a music venue in Berlin with 11 upcoming nights listed on soundcheck as of Mon, 20 Jul 2026; the next is "Seedj presents: A Day Behind the Scenes II" on Wed, 22 Jul 2026.
+arkaoda Berlin is a music venue in Berlin with 11 upcoming nights listed on soundcheck as of Tue, 21 Jul 2026; the next is "Seedj presents: A Day Behind the Scenes II" on Wed, 22 Jul 2026.
 
 arkaoda Berlin is a music venue in Berlin listed on soundcheck. 11 upcoming nights, with line-ups including A.Wild, Amperia, Barmus and Batukizer and 2 more. Browse upcoming dates, start times and who's playing. Karl-Marx Platz 16 12043 Berlin, Germany.
 
@@ -23,4 +23,4 @@ arkaoda Berlin is a music venue in Berlin listed on soundcheck. 11 upcoming nigh
 
 Karl-Marx Platz 16 12043 Berlin, Germany, Berlin
 
-*Updated Mon, 20 Jul 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/arkaoda-berlin/)*
+*Updated Tue, 21 Jul 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/arkaoda-berlin/)*

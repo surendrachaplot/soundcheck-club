@@ -1,6 +1,6 @@
 # bolo
 
-bolo is a Techno and Trance artist with 2 upcoming club dates listed on soundcheck as of Mon, 20 Jul 2026, next at Night We Met, Nashville on Fri, 24 Jul 2026.
+bolo is a Techno and Trance artist with 2 upcoming club dates listed on soundcheck as of Tue, 21 Jul 2026, next at Night We Met, Nashville on Fri, 24 Jul 2026.
 
 bolo is a techno and trance artist tracked on soundcheck, with 41 sets logged across Losangeles, Nashville, Newyorkcity and Warsaw. Often billed alongside Abrew, Kobayashkn and CRACKD. Next up: Night We Met, Nashville on Fri 24 Jul.
 
@@ -26,4 +26,4 @@ bolo is a techno and trance artist tracked on soundcheck, with 41 sets logged ac
 
 Abrew, Kobayashkn, CRACKD
 
-*Updated Mon, 20 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/bolo/)*
+*Updated Tue, 21 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/bolo/)*
