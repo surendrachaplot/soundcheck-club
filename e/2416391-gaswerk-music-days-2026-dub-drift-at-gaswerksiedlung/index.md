@@ -1,6 +1,6 @@
 # Gaswerk Music Days 2026 - DUB & DRIFT at Gaswerksiedlung
 
-Gaswerk Music Days 2026 - DUB & DRIFT at Gaswerksiedlung on Sun 2 Aug, Berlin. 1 act on the bill: Azu Tiwaline. Dub and Experimental. Preview the line-up and save it on soundcheck.
+Gaswerk Music Days 2026 - DUB & DRIFT at Gaswerksiedlung on Sun 2 Aug, Berlin. 2 acts on the bill: Azu Tiwaline and Reggie Watts. Dub and Experimental. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -11,5 +11,6 @@ Gaswerk Music Days 2026 - DUB & DRIFT at Gaswerksiedlung on Sun 2 Aug, Berlin. 1
 ## Line-up
 
 - Azu Tiwaline
+- Reggie Watts
 
 *Source: [soundcheck](https://soundcheck.club/e/2416391-gaswerk-music-days-2026-dub-drift-at-gaswerksiedlung/)*

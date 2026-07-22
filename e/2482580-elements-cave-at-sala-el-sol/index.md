@@ -1,6 +1,6 @@
 # Elements Cave at Sala El Sol
 
-Elements Cave at Sala El Sol on Wed 22 Jul, Madrid. 2 acts on the bill: Nigabba and Pulpix. Techno and Acid. Preview the line-up and save it on soundcheck.
+Elements Cave at Sala El Sol on Wed 22 Jul, Madrid. 3 acts on the bill: LeStrange, Nigabba and Pulpix. Techno and Acid. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,6 +10,7 @@ Elements Cave at Sala El Sol on Wed 22 Jul, Madrid. 2 acts on the bill: Nigabba 
 
 ## Line-up
 
+- LeStrange
 - Nigabba
 - Pulpix
 

@@ -1,6 +1,6 @@
 # ШЩЦ: Berlin at 20nine30
 
-ШЩЦ: Berlin at 20nine30 on Fri 31 Jul, Berlin. 2 acts on the bill: Andriy K. and Konakov. Ambient and Experimental. Preview the line-up and save it on soundcheck.
+ШЩЦ: Berlin at 20nine30 on Fri 31 Jul, Berlin. 3 acts on the bill: Andriy K., Konakov and Neue Medecina. Ambient and Experimental. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -12,5 +12,6 @@
 
 - Andriy K.
 - Konakov
+- Neue Medecina
 
 *Source: [soundcheck](https://soundcheck.club/e/2473839-berlin-at-20nine30/)*

@@ -1,6 +1,6 @@
 # Arya X NOKTURN at Mastak
 
-Arya X NOKTURN at Mastak on Sat 25 Jul, Warsaw. 4 acts on the bill: Adrian Skiba, Mateusz Grzybowski, Pean and sporra. Techno and Experimental. Preview the line-up and save it on soundcheck.
+Arya X NOKTURN at Mastak on Sat 25 Jul, Warsaw. 5 acts on the bill: Adrian Skiba, Mateusz Grzybowski, Pean and Subcode and 1 more. Techno and Experimental. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -13,6 +13,7 @@ Arya X NOKTURN at Mastak on Sat 25 Jul, Warsaw. 4 acts on the bill: Adrian Skiba
 - Adrian Skiba
 - Mateusz Grzybowski
 - Pean
+- Subcode
 - sporra
 
 *Source: [soundcheck](https://soundcheck.club/e/2478675-arya-x-nokturn-at-mastak/)*

@@ -1,11 +1,11 @@
-# GARDINER EXPRESS: SUMMER OPEN AIR SESSION - Daragma, DXA, MARY at TBA
+# GARDINER EXPRESS: SUMMER OPEN AIR SESSION - Daragma, DXA, MARY at 1196 Queen St W
 
-GARDINER EXPRESS: SUMMER OPEN AIR SESSION - Daragma, DXA, MARY at TBA on Sat 25 Jul, Toronto. 3 acts on the bill: DXA, Daragma and Mary (5). Techno and House. Preview the line-up and save it on soundcheck.
+GARDINER EXPRESS: SUMMER OPEN AIR SESSION - Daragma, DXA, MARY at 1196 Queen St W on Sat 25 Jul, Toronto. 3 acts on the bill: DXA, Daragma and Mary (5). Techno and House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
 | Date | Sat, 25 Jul 2026 |
-| Venue | TBA |
+| Venue | 1196 Queen St W |
 | City | Toronto |
 
 ## Line-up

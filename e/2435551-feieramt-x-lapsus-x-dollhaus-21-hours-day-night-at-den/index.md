@@ -1,6 +1,6 @@
 # FEIERAMT x LAPSUS x DOLLHAUS (21 HOURS DAY + NIGHT) at ÆDEN
 
-FEIERAMT x LAPSUS x DOLLHAUS (21 HOURS DAY + NIGHT) at ÆDEN on Sat 22 Aug, Berlin. 11 acts on the bill: Dylan Fogarty, EMIRA, Jessie Granqvist and Ksenia K and 7 more. Techno. Preview the line-up and save it on soundcheck.
+FEIERAMT x LAPSUS x DOLLHAUS (21 HOURS DAY + NIGHT) at ÆDEN on Sat 22 Aug, Berlin. 14 acts on the bill: Dylan Fogarty, EMIRA, Human Experiments and JenTen and 10 more. Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -12,6 +12,8 @@ FEIERAMT x LAPSUS x DOLLHAUS (21 HOURS DAY + NIGHT) at ÆDEN on Sat 22 Aug, Berl
 
 - Dylan Fogarty
 - EMIRA
+- Human Experiments
+- JenTen
 - Jessie Granqvist
 - Ksenia K
 - MAURER
@@ -19,6 +21,7 @@ FEIERAMT x LAPSUS x DOLLHAUS (21 HOURS DAY + NIGHT) at ÆDEN on Sat 22 Aug, Berl
 - Mython
 - PØVE
 - Santos.
+- TAUREAN (2)
 - Taurean
 - VOICEX
 

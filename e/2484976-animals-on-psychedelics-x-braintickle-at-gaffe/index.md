@@ -1,6 +1,6 @@
 # Animals on Psychedelics x Braintickle at Gaffe
 
-Animals on Psychedelics x Braintickle at Gaffe on Sun 6 Sept, London. 5 acts on the bill: Carl H, GNMR, Katya and Naone and 1 more. Preview the line-up and save it on soundcheck.
+Animals on Psychedelics x Braintickle at Gaffe on Sun 6 Sept, London. 5 acts on the bill: Carl H, GNMR, Katya and Naone and 1 more. Trance and Tech House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

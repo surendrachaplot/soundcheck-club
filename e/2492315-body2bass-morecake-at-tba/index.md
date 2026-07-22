@@ -1,10 +1,10 @@
 # BODY2BASS #MORECAKE at TBA
 
-BODY2BASS #MORECAKE at TBA on Sat 22 Aug, London. Baile Funk and Afro House. Preview the line-up and save it on soundcheck.
+BODY2BASS #MORECAKE at TBA on Fri 21 Aug, London. Baile Funk and Afro House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
-| Date | Sat, 22 Aug 2026 |
+| Date | Fri, 21 Aug 2026 |
 | Venue | TBA |
 | City | London |
 

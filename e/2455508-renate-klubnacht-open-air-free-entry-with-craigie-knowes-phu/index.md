@@ -1,6 +1,6 @@
 # Renate Klubnacht + Open Air (Free Entry) with Craigie Knowes & Phuong Dan at Renate
 
-Renate Klubnacht + Open Air (Free Entry) with Craigie Knowes & Phuong Dan on Fri 31 Jul, Berlin. 8 acts on the bill: Craigie Knowes, DJ Life, Dream_E and Eliza (2) and 4 more. Techno and House. Preview the line-up and save it on soundcheck.
+Renate Klubnacht + Open Air (Free Entry) with Craigie Knowes & Phuong Dan on Fri 31 Jul, Berlin. 9 acts on the bill: Craigie Knowes, DJ Life, Dream_E and Eliza (2) and 5 more. Techno and House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -14,6 +14,7 @@ Renate Klubnacht + Open Air (Free Entry) with Craigie Knowes & Phuong Dan on Fri
 - DJ Life
 - Dream_E
 - Eliza (2)
+- Lyla
 - Nimb
 - Phuong Dan
 - The Burrell Connection

@@ -1,6 +1,6 @@
 # SuperUnKnown at DJ Bar Bridge Shinjuku
 
-SuperUnKnown at DJ Bar Bridge Shinjuku on Mon 17 Aug, Tokyo. 2 acts on the bill: Dictionally and Kyohei Tanaka. House and Bass. Preview the line-up and save it on soundcheck.
+SuperUnKnown at DJ Bar Bridge Shinjuku on Mon 17 Aug, Tokyo. 3 acts on the bill: Dictionally, Hayato Iwaki and Kyohei Tanaka. House and Bass. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -11,6 +11,7 @@ SuperUnKnown at DJ Bar Bridge Shinjuku on Mon 17 Aug, Tokyo. 2 acts on the bill:
 ## Line-up
 
 - Dictionally
+- Hayato Iwaki
 - Kyohei Tanaka
 
 *Source: [soundcheck](https://soundcheck.club/e/2469200-superunknown-at-dj-bar-bridge-shinjuku/)*

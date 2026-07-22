@@ -1,0 +1,29 @@
+# malix
+
+malix is a House artist with 2 upcoming club dates listed on soundcheck as of Wed, 22 Jul 2026, next at Flevopark, Amsterdam on Sat, 25 Jul 2026.
+
+malix is a house artist based in United Kingdom, tracked on soundcheck, with 34 sets logged across Amsterdam, Ibiza, Lisbon and London and 1 more. Often billed alongside Kojay, Arthi and FS Green. Next up: Flevopark, Amsterdam on Sat 25 Jul.
+
+## Upcoming shows
+
+| Date | Venue | City |
+| --- | --- | --- |
+| Sat, 25 Jul 2026 | Flevopark | Amsterdam |
+| Fri, 7 Aug 2026 | fabric | London |
+
+## Recently played
+
+- Colour Factory, London — Sat, 18 Jul 2026
+- Various Venues, London — Sat, 30 May 2026
+- LDN East, London — Sat, 16 May 2026
+- Palais, London — Sun, 5 Apr 2026
+- M.O.T, London — Sat, 29 Nov 2025
+- KOKO, London — Fri, 17 Oct 2025
+- Plantroom, London — Fri, 10 Oct 2025
+- AURA, Lisbon — Sat, 13 Sept 2025
+
+## Shares bills with
+
+Kojay, Arthi, FS Green
+
+*Updated Wed, 22 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/malix/)*

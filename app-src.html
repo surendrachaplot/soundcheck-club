@@ -1563,6 +1563,18 @@
     .lg-chip.on { border-color:var(--accent); color:var(--accent-ink); background:var(--accent); }
     .lg-chip-all { border-style:dashed; color:var(--fg); }
     .lg-chip-all.on { border-style:solid; }
+    /* log-a-gig bill: artist photo tiles (Similar-rail card language); violet = selected */
+    .lg-lu-bar { display:flex; justify-content:flex-end; margin:0 0 10px; }
+    .lg-all { background:none; border:none; cursor:pointer; color:var(--muted); font:600 11px var(--font-mono); letter-spacing:.08em; text-transform:uppercase; padding:2px 0; -webkit-tap-highlight-color:transparent; }
+    .lg-all:hover, .lg-all.on { color:var(--sel-text); }
+    .lg-arts { display:grid; grid-template-columns:repeat(auto-fill,minmax(86px,1fr)); gap:12px 10px; }
+    .lg-art { position:relative; background:none; border:none; padding:0; text-align:left; cursor:pointer; min-width:0; font-family:inherit; -webkit-tap-highlight-color:transparent; }
+    .lg-art-ph { position:relative; display:block; aspect-ratio:1; border-radius:var(--radius-md); background-size:cover; background-position:center; background-color:var(--surface-3); border:1px solid var(--border); transition:box-shadow .12s, border-color .12s; }
+    .lg-art.on .lg-art-ph { border-color:transparent; box-shadow:0 0 0 2px var(--sel); }
+    .lg-art-tick { position:absolute; top:6px; right:6px; width:20px; height:20px; border-radius:50%; background:var(--sel); color:var(--sel-ink); display:none; align-items:center; justify-content:center; font-size:11px; }
+    .lg-art.on .lg-art-tick { display:flex; }
+    .lg-art-nm { display:block; font:700 12px var(--head); letter-spacing:-.01em; margin-top:7px; white-space:nowrap; overflow:hidden; text-overflow:ellipsis; color:var(--muted); }
+    .lg-art.on .lg-art-nm { color:var(--fg); }
     .lg-field label { display:block; font-size:var(--fs-xs); font-weight:700; letter-spacing:0.18em; text-transform:uppercase; color:var(--muted); margin-bottom:7px; }
     .lg-field input, .lg-field textarea { width:100%; background:var(--surface-2); border:1px solid var(--border); color:var(--fg); border-radius:var(--radius); padding:11px 13px; font:500 var(--fs-md) var(--body); outline:none; }
     .lg-field input:focus, .lg-field textarea:focus { border-color:var(--accent); }
@@ -3146,7 +3158,7 @@
     }
     @media (max-width:620px){ :root{ --gut:18px; } }
 </style>
-<meta name="sc-build" content="1784391733964">
+<meta name="sc-build" content="1784718094273">
 </head>
 <body>
   <main class="wrap">
@@ -3194,7 +3206,7 @@
     <div class="grid" id="grid"></div>
     <!-- Per-city "what's on this week" date links, injected by build-club (canonical
          /<city>/<date>/ pages). Empty in the source; hidden on client-side city switch. -->
-    <section id="home-seo-more" class="home-seo-more" data-city="london"><h2>What&rsquo;s on in London this week</h2><ul class="home-seo-dates"><li><a href="/london/2026-07-18/">Sat 18 Jul <span class="c">159 events</span></a></li><li><a href="/london/2026-07-19/">Sun 19 Jul <span class="c">24 events</span></a></li><li><a href="/london/2026-07-21/">Tue 21 Jul <span class="c">6 events</span></a></li><li><a href="/london/2026-07-22/">Wed 22 Jul <span class="c">11 events</span></a></li><li><a href="/london/2026-07-23/">Thu 23 Jul <span class="c">24 events</span></a></li><li><a href="/london/2026-07-24/">Fri 24 Jul <span class="c">77 events</span></a></li><li><a href="/london/2026-07-25/">Sat 25 Jul <span class="c">119 events</span></a></li></ul><nav class="home-seo-nav" aria-label="More on soundcheck"><a href="/london/this-weekend/">This weekend in London</a> <a href="/london/scene/">London scene guide</a> <a href="/cities/">All 104 cities</a></nav></section>
+    <section id="home-seo-more" class="home-seo-more" data-city="london"><h2>What&rsquo;s on in London this week</h2><ul class="home-seo-dates"><li><a href="/london/2026-07-22/">Wed 22 Jul <span class="c">12 events</span></a></li><li><a href="/london/2026-07-23/">Thu 23 Jul <span class="c">25 events</span></a></li><li><a href="/london/2026-07-24/">Fri 24 Jul <span class="c">83 events</span></a></li><li><a href="/london/2026-07-25/">Sat 25 Jul <span class="c">128 events</span></a></li><li><a href="/london/2026-07-26/">Sun 26 Jul <span class="c">19 events</span></a></li><li><a href="/london/2026-07-28/">Tue 28 Jul <span class="c">4 events</span></a></li><li><a href="/london/2026-07-29/">Wed 29 Jul <span class="c">12 events</span></a></li></ul><nav class="home-seo-nav" aria-label="More on soundcheck"><a href="/london/this-weekend/">This weekend in London</a> <a href="/london/scene/">London scene guide</a> <a href="/cities/">All 104 cities</a></nav></section>
 
     <!-- Crawlable home content (H1 + intro) — moved to the bottom of the page. Still a real
          <h1> in the DOM so it's the page heading for SEO regardless of visual position.
@@ -7658,7 +7670,7 @@
           '</div>'+
           '<div id="lg-extra" style="display:none">'+
             '<div class="pf-box" style="margin-top:16px">'+
-            '<div class="lg-field" id="lg-lineup-field"><label>Who did you see? <small class="lg-opt">tap the acts you caught</small></label><div class="lg-chips" id="lg-lineup"></div></div>'+
+            '<div class="lg-field" id="lg-lineup-field"><label>Who did you see? <small class="lg-opt">tap the acts you caught</small></label><div id="lg-lineup"></div></div>'+
             '<div class="lg-field" id="lg-vrev-field" style="display:none"><label>How was <span id="lg-vrev-nm">the venue</span>? <small class="lg-opt">optional — sharpens its Venue DNA</small></label><div id="lg-vrev"></div></div>'+
             '<div class="lg-field"><label>Note (optional)</label><textarea id="lg-note" placeholder="How was it?"></textarea></div>'+
             '<button id="lg-save" type="button" class="pf-btn primary block">Save to diary</button>'+
@@ -7694,7 +7706,15 @@
       if(!ln.length){ if(field) field.style.display='none'; el.innerHTML=''; return; }
       if(field) field.style.display='';
       var allOn=ln.length>0 && lgArtists.length>=ln.length;
-      var chips=ln.map(function(a){ return '<button type="button" class="lg-chip'+(lgArtistOn(a.slug)?' on':'')+'" data-aslug="'+esc(a.slug)+'" data-aname="'+esc(a.name||a.slug)+'">'+esc(a.name||a.slug)+'</button>'; }).join('');
+      // The bill as artist photo tiles (same squarish photo + name card as the
+      // Similar rail / profile shelves) — selected = violet ring + tick, per the DS.
+      var tiles=ln.map(function(a){
+        var on=lgArtistOn(a.slug);
+        var bg=a.image?("url('"+imgUrl(a.image,200)+"')"):avatarBg(a.slug,null);
+        return '<button type="button" class="lg-art'+(on?' on':'')+'" data-aslug="'+esc(a.slug)+'" data-aname="'+esc(a.name||a.slug)+'" aria-pressed="'+(on?'true':'false')+'">'+
+          '<span class="lg-art-ph" style="background-image:'+bg+'"><span class="lg-art-tick">&#10003;</span></span>'+
+          '<span class="lg-art-nm">'+esc(a.name||a.slug)+'</span></button>';
+      }).join('');
       // "Saw everyone" shortcut for a full bill — off by default, no acts pre-picked.
       // Selected acts each get an optional 1–5 star row (tap the same star to clear).
       var rate=lgArtists.length?'<div class="lg-rate"><div class="vrv-q" style="margin-top:12px">Rate them <span class="vrv-opt">optional</span></div>'+
@@ -7702,7 +7722,8 @@
           var stars=''; for(var s=1;s<=5;s++){ stars+='<button type="button" class="vrv-star'+(a.rating&&s<=a.rating?' on':'')+'" data-ri="'+i+'" data-rv="'+s+'" aria-label="Rate '+esc(a.name)+' '+s+' of 5">'+STAR_SVG+'</button>'; }
           return '<div class="lg-rate-row"><span class="lg-rate-nm">'+esc(a.name)+'</span><span class="vrv-stars">'+stars+'</span></div>';
         }).join('')+'</div>':'';
-      el.innerHTML=(ln.length>1?'<button type="button" class="lg-chip lg-chip-all'+(allOn?' on':'')+'" data-all="1">'+(allOn?'Clear':'Saw everyone')+'</button>':'')+chips+rate;
+      el.innerHTML=(ln.length>1?'<div class="lg-lu-bar"><button type="button" class="lg-all'+(allOn?' on':'')+'" data-all="1">'+(allOn?'Clear all':'Saw everyone')+'</button></div>':'')+
+        '<div class="lg-arts">'+tiles+'</div>'+rate;
     }
     function selectLgEvent(e){
       lgSel={ id:e.id, title:e.title, venue:e.venue, venue_slug:e.venue_slug||null, date:e.event_date?String(e.event_date).slice(0,10):null, lineup:e.lineup||[] };

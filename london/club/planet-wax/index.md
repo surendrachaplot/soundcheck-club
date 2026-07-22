@@ -1,0 +1,26 @@
+# Planet Wax
+
+Planet Wax is a music venue in London with 14 upcoming nights listed on soundcheck as of Wed, 22 Jul 2026; the next is "OPEN DECKS" on Wed, 22 Jul 2026.
+
+Planet Wax is a music venue in London listed on soundcheck. 14 upcoming nights, with line-ups including Abby Daze, Bear Winder, Booker T and CATLADY and 2 more. Browse upcoming dates, start times and who's playing. 318 NEW CROSS ROAD LONDON SE14 6AF.
+
+## What's on
+
+| Date | Night | Line-up |
+| --- | --- | --- |
+| Wed, 22 Jul 2026 | OPEN DECKS |  |
+| Thu, 23 Jul 2026 | IMMORTAL MUZIK TAKE OVER | DFUSE, Drime, ETHICS |
+| Fri, 24 Jul 2026 | PINKS PRESENTS: FERAL FREQUENCIES LAUNCH PARTY | JAY-MO, Tianna Franxx |
+| Fri, 24 Jul 2026 | HAPPY HOUR | Controlled Weirdness, Dexta, Uncle G |
+| Sat, 25 Jul 2026 | VIBES N CULTURE | Bear Winder, DJ SUPERIOR |
+| Sat, 25 Jul 2026 | Quiche Gang & Friends | DubFreq (2), MINTY, Muhla, N-Type, Skesa (CA) |
+| Sun, 26 Jul 2026 | SUNDAY SERVICE | Abby Daze, Uncle G, Yasmine (UK) |
+| Wed, 29 Jul 2026 | OPEN DECKS |  |
+| Thu, 30 Jul 2026 | Mercenary Kutz: Take Over Planet Wax | Rocket Dubz |
+| Sat, 1 Aug 2026 | 30 Years of Test Press | LMajor, Tim Reaper |
+
+## Address
+
+318 NEW CROSS ROAD LONDON SE14 6AF, London
+
+*Updated Wed, 22 Jul 2026 · source: [soundcheck](https://soundcheck.club/london/club/planet-wax/)*

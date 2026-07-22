@@ -1,6 +1,6 @@
 # UNORDNUNGSAMT - CSD AFTERPARTY at Fitzroy
 
-UNORDNUNGSAMT - CSD AFTERPARTY at Fitzroy on Sat 25 Jul, Berlin. 9 acts on the bill: Bouch, Flor Coto, Guile and Javier Anxiety and 5 more. Techno and Acid. Preview the line-up and save it on soundcheck.
+UNORDNUNGSAMT - CSD AFTERPARTY at Fitzroy on Sat 25 Jul, Berlin. 9 acts on the bill: Bouch, Flor Coto, Guile and Javier Anxiety and 5 more. House and Electro. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

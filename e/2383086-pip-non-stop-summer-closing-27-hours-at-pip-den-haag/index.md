@@ -1,6 +1,6 @@
 # PIP NON-STOP SUMMER CLOSING (27 HOURS) at PIP Den Haag
 
-PIP NON-STOP SUMMER CLOSING (27 HOURS) at PIP Den Haag on Sat 25 Jul, Thehague. 17 acts on the bill: Bouk Liúw, CC:DISCO!, DJ Tracksuit and De Schuurman and 13 more. Techno and House. Preview the line-up and save it on soundcheck.
+PIP NON-STOP SUMMER CLOSING (27 HOURS) at PIP Den Haag on Sat 25 Jul, Thehague. 20 acts on the bill: Ascha, Auryn, Bouk Liúw and CC:DISCO! and 16 more. Techno and House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,6 +10,8 @@ PIP NON-STOP SUMMER CLOSING (27 HOURS) at PIP Den Haag on Sat 25 Jul, Thehague. 
 
 ## Line-up
 
+- Ascha
+- Auryn
 - Bouk Liúw
 - CC:DISCO!
 - DJ Tracksuit
@@ -22,6 +24,7 @@ PIP NON-STOP SUMMER CLOSING (27 HOURS) at PIP Den Haag on Sat 25 Jul, Thehague. 
 - Jetti
 - Kevin Lo
 - Kikelomo
+- LIVI
 - OMOLOKO
 - Pelanoir
 - Post

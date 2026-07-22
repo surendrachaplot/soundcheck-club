@@ -1,6 +1,6 @@
 # shafak on the boat at TBA - Secret Location
 
-shafak on the boat at TBA - Secret Location on Sat 25 Jul, London. 2 acts on the bill: LI-YU and Owen PM. Deep House and Disco. Preview the line-up and save it on soundcheck.
+shafak on the boat at TBA - Secret Location on Sat 25 Jul, London. 3 acts on the bill: Kybris, LI-YU and Owen PM. Deep House and Disco. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,6 +10,7 @@ shafak on the boat at TBA - Secret Location on Sat 25 Jul, London. 2 acts on the
 
 ## Line-up
 
+- Kybris
 - LI-YU
 - Owen PM
 

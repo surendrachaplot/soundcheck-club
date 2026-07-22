@@ -1,6 +1,6 @@
 # PARADOX at XOYO
 
-PARADOX at XOYO on Wed 22 Jul, London. 1 act on the bill: D1 x Samir (DVS). Tech House and Deep House. Preview the line-up and save it on soundcheck.
+PARADOX at XOYO on Wed 22 Jul, London. 2 acts on the bill: D1 x Samir (DVS) and IZZY (UK). Tech House and Deep House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -11,5 +11,6 @@ PARADOX at XOYO on Wed 22 Jul, London. 1 act on the bill: D1 x Samir (DVS). Tech
 ## Line-up
 
 - D1 x Samir (DVS)
+- IZZY (UK)
 
 *Source: [soundcheck](https://soundcheck.club/e/2440350-paradox-at-xoyo/)*

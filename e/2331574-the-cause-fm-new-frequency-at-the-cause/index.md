@@ -1,6 +1,6 @@
 # The Cause FM: New Frequency at The Cause
 
-The Cause FM: New Frequency on Sat 25 Jul, London. 25 acts on the bill: 7ip7o3, Big Hands, Cousin and Didi Han and 21 more. Club. Preview the line-up and save it on soundcheck.
+The Cause FM: New Frequency on Sat 25 Jul, London. 26 acts on the bill: 7ip7o3, Big Hands, Cousin and Didi Han and 22 more. Club. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -23,6 +23,7 @@ The Cause FM: New Frequency on Sat 25 Jul, London. 25 acts on the bill: 7ip7o3, 
 - L-Vis 1990
 - Melati ESP
 - Nihal
+- Nihal El Aasar
 - No Plastic
 - Pouya Ehsaei
 - Sansibar

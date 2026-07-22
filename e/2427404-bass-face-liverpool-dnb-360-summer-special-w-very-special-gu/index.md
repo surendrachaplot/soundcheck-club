@@ -1,6 +1,6 @@
-# Bass Face // LIVERPOOL // DNB . 360° SUMMER SPECIAL w.*VERY SPECIAL GUESTS*! at Arts Club
+# Bass Face // LIVERPOOL // DNB . 360° SUMMER SPECIAL w.*VERY SPECIAL GUESTS*! LAST FREE TICKETS at Arts Club
 
-Bass Face // LIVERPOOL // DNB . 360° SUMMER SPECIAL w.*VERY SPECIAL GUESTS*! at Arts Club on Fri 31 Jul, Liverpool. Drum & Bass and Bass. Preview the line-up and save it on soundcheck.
+Bass Face // LIVERPOOL // DNB . 360° SUMMER SPECIAL w.*VERY SPECIAL GUESTS*! LAST FREE TICKETS at Arts Club on Fri 31 Jul, Liverpool. Drum & Bass and Bass. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

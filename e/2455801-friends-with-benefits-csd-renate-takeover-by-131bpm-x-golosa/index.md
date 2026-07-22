@@ -1,6 +1,6 @@
 # FRIENDS WITH BENEFITS (CSD Renate takeover by 131BPM x Golosa x Homodrop) at Renate
 
-FRIENDS WITH BENEFITS (CSD Renate takeover by 131BPM x Golosa x Homodrop) on Sat 25 Jul, Berlin. 17 acts on the bill: 131bpm, ALP (DE), Aaron Blau and Anna Almani and 13 more. Techno and House. Preview the line-up and save it on soundcheck.
+FRIENDS WITH BENEFITS (CSD Renate takeover by 131BPM x Golosa x Homodrop) on Sat 25 Jul, Berlin. 20 acts on the bill: 131bpm, ALP (DE), Aaron Blau and Anna Almani and 16 more. Techno and House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -15,10 +15,13 @@ FRIENDS WITH BENEFITS (CSD Renate takeover by 131BPM x Golosa x Homodrop) on Sat
 - Aaron Blau
 - Anna Almani
 - Cheriii
+- Cooper Cooper
 - Dgeral
 - Dj handbag
 - Electrosexual
 - Flemish.Fetish
+- HENNY (2)
+- JAM JAM
 - James Lotion
 - Mashyno
 - Posture
