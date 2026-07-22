@@ -10,7 +10,7 @@ The Elmhurst is a music venue in London listed on soundcheck. 3 upcoming nights,
 | --- | --- | --- |
 | Sat, 25 Jul 2026 | Summer Garden free Party with The Ukulele Ska Collective & Strictly Vinyl DJs | Neil Thornton |
 | Sat, 1 Aug 2026 | For The Time Being | Leopold, Ryan Taylor |
-| Sat, 15 Aug 2026 | The Elmurst free Garden Party' Streetsoul, Reggae and Roots special | Neil Thornton |
+| Sat, 15 Aug 2026 | The Elmhurst free Garden Party Streetsoul, Reggae and Roots special | Neil Thornton |
 
 ## Address
 

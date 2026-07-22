@@ -1,6 +1,6 @@
 # Rush Queer Party London at The Scala
 
-Rush Queer Party London at The Scala on Fri 25 Sept, London. Preview the line-up and save it on soundcheck.
+Rush Queer Party London at The Scala on Fri 25 Sept, London. Tech House and Pop. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

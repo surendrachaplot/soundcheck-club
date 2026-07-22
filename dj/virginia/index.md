@@ -1,8 +1,8 @@
 # Virginia
 
-Virginia is a House and Techno artist with 14 upcoming club dates listed on soundcheck as of Wed, 22 Jul 2026, next at The White Hotel, Manchester on Sat, 25 Jul 2026.
+Virginia is a House and Techno artist with 20 upcoming club dates listed on soundcheck as of Wed, 22 Jul 2026, next at The White Hotel, Manchester on Sat, 25 Jul 2026.
 
-Virginia is a house and techno artist tracked on soundcheck, with 129 sets logged across Amsterdam, Athens, Barcelona and Belfast and 37 more. Often billed alongside Steffi, BASHKKA and Blasha & Allatt. Next up: The White Hotel, Manchester on Sat 25 Jul.
+Virginia is a house and techno artist tracked on soundcheck, with 135 sets logged across Amsterdam, Athens, Barcelona and Belfast and 37 more. Often billed alongside Steffi, BASHKKA and Blasha & Allatt. Next up: The White Hotel, Manchester on Sat 25 Jul.
 
 ## Upcoming shows
 
@@ -11,15 +11,15 @@ Virginia is a house and techno artist tracked on soundcheck, with 129 sets logge
 | Sat, 25 Jul 2026 | The White Hotel | Manchester |
 | Sat, 25 Jul 2026 | Berghain / Panorama Bar / Säule | Berlin |
 | Sat, 25 Jul 2026 | Institut fuer Zukunft (IfZ) | Leipzig |
+| Sat, 25 Jul 2026 | B London | London |
 | Sat, 25 Jul 2026 | 516 S Anderson Street | Los Angeles |
 | Sat, 25 Jul 2026 | Under the K Bridge | New York City |
 | Sat, 25 Jul 2026 | Quantum | New York City |
 | Sat, 25 Jul 2026 | 45 East | Portland |
 | Sat, 25 Jul 2026 | 618 DC | Washington DC |
 | Sat, 25 Jul 2026 | 714 | Philadelphia |
-| Fri, 31 Jul 2026 | BLITZ | Munich |
-| Fri, 7 Aug 2026 | RADION | Amsterdam |
-| Sat, 8 Aug 2026 | RADION | Amsterdam |
+| Sat, 25 Jul 2026 | 17 Little Portland Street | London |
+| Sat, 25 Jul 2026 | Unit 58 | London |
 
 ## Recently played
 

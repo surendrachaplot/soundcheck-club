@@ -1,8 +1,8 @@
 # Starlane Pizza Bar
 
-Starlane Pizza Bar is a music venue in London with 25 upcoming nights listed on soundcheck as of Wed, 22 Jul 2026; the next is "INTO THE WOODS 10TH ANNIVERSARY PART 2 - OCTAVE (RO), LA CASSETTE, FLORA THA EXPLORA (12 HOURS)" on Fri, 24 Jul 2026.
+Starlane Pizza Bar is a music venue in London with 26 upcoming nights listed on soundcheck as of Wed, 22 Jul 2026; the next is "INTO THE WOODS 10TH ANNIVERSARY PART 2 - OCTAVE (RO), LA CASSETTE, FLORA THA EXPLORA (12 HOURS)" on Fri, 24 Jul 2026.
 
-Starlane Pizza Bar is a music venue in London listed on soundcheck. 25 upcoming nights, with line-ups including TommyGDJ, Aniaef, Brands and Cardinal Sound and 2 more. Browse upcoming dates, start times and who's playing. 12 Cody Road, E16 4SR London, United Kingdom.
+Starlane Pizza Bar is a music venue in London listed on soundcheck. 26 upcoming nights, with line-ups including TommyGDJ, Aniaef, Brands and Cardinal Sound and 2 more. Browse upcoming dates, start times and who's playing. 12 Cody Road, E16 4SR London, United Kingdom.
 
 ## What's on
 

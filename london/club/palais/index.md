@@ -1,8 +1,8 @@
 # Palais
 
-Palais is a music venue in London with 21 upcoming nights listed on soundcheck as of Wed, 22 Jul 2026; the next is "Origins: Gene On Earth (All Night Long)" on Fri, 24 Jul 2026.
+Palais is a music venue in London with 22 upcoming nights listed on soundcheck as of Wed, 22 Jul 2026; the next is "Origins: Gene On Earth (All Night Long)" on Fri, 24 Jul 2026.
 
-Palais is a music venue in London listed on soundcheck. 21 upcoming nights, with line-ups including A Guy Called Gerald, AMORAL, ANNĒ and Bill Brewster and 2 more. Browse upcoming dates, start times and who's playing. 1a Rye Ln, London SE15 5EW.
+Palais is a music venue in London listed on soundcheck. 22 upcoming nights, with line-ups including A Guy Called Gerald, AMORAL, ANNĒ and Bill Brewster and 2 more. Browse upcoming dates, start times and who's playing. 1a Rye Ln, London SE15 5EW.
 
 ## What's on
 

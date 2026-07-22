@@ -1,8 +1,8 @@
 # Eclair Fifi
 
-Eclair Fifi is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Wed, 22 Jul 2026, next at Hang Dai Chinese, Dublin on Sat, 25 Jul 2026.
+Eclair Fifi is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Wed, 22 Jul 2026, next at Hang Dai Chinese, Dublin on Sat, 25 Jul 2026.
 
-Eclair Fifi is a house and techno artist based in United Kingdom, tracked on soundcheck, with 103 sets logged across Amsterdam, Antwerp, Auckland and Barcelona and 24 more. Often billed alongside TSHA, Optimo (Espacio) and Slam. Next up: Hang Dai Chinese, Dublin on Sat 25 Jul.
+Eclair Fifi is a house and techno artist based in United Kingdom, tracked on soundcheck, with 104 sets logged across Amsterdam, Antwerp, Auckland and Barcelona and 24 more. Often billed alongside TSHA, Optimo (Espacio) and Slam. Next up: Hang Dai Chinese, Dublin on Sat 25 Jul.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Eclair Fifi is a house and techno artist based in United Kingdom, tracked on sou
 | --- | --- | --- |
 | Sat, 25 Jul 2026 | Hang Dai Chinese | Dublin |
 | Sat, 1 Aug 2026 | Queen's Park Arena | Glasgow |
+| Fri, 18 Sept 2026 | Palais | London |
 
 ## Recently played
 
