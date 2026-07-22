@@ -1,8 +1,8 @@
 # RayRay
 
-RayRay is a Techno and Bass artist with 3 upcoming club dates listed on soundcheck as of Wed, 22 Jul 2026, next at Distillery N17, London on Fri, 31 Jul 2026.
+RayRay is a Techno and House artist with 4 upcoming club dates listed on soundcheck as of Wed, 22 Jul 2026, next at Distillery N17, London on Fri, 31 Jul 2026.
 
-RayRay is a techno and bass artist tracked on soundcheck, with 33 sets logged across Berlin, Lisbon, London and Manchester and 2 more. Often billed alongside Varanasi, Gloria Rose and Nina Pixina. Next up: Distillery N17, London on Fri 31 Jul.
+RayRay is a techno and house artist tracked on soundcheck, with 34 sets logged across Amsterdam, Berlin, Lisbon and London and 3 more. Often billed alongside Varanasi, ASHTREY and Gloria Rose. Next up: Distillery N17, London on Fri 31 Jul.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ RayRay is a techno and bass artist tracked on soundcheck, with 33 sets logged ac
 | --- | --- | --- |
 | Fri, 31 Jul 2026 | Distillery N17 | London |
 | Fri, 7 Aug 2026 | SILO | New York City |
+| Sat, 8 Aug 2026 | TILLATEC | Amsterdam |
 | Sun, 16 Aug 2026 | Algha's Plantroom | London |
 
 ## Recently played
@@ -25,6 +26,6 @@ RayRay is a techno and bass artist tracked on soundcheck, with 33 sets logged ac
 
 ## Shares bills with
 
-Varanasi, Gloria Rose, Nina Pixina
+Varanasi, ASHTREY, Gloria Rose
 
 *Updated Wed, 22 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/rayray/)*

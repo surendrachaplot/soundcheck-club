@@ -1,14 +1,15 @@
 # Ayanna Heaven
 
-Ayanna Heaven is a Dancehall and House artist with 6 upcoming club dates listed on soundcheck as of Wed, 22 Jul 2026, next at Signal, New York City on Sun, 26 Jul 2026.
+Ayanna Heaven is a Dancehall and House artist with 7 upcoming club dates listed on soundcheck as of Wed, 22 Jul 2026, next at Signal, New York City on Sun, 26 Jul 2026.
 
-Ayanna Heaven is a dancehall and house artist based in United States of America, tracked on soundcheck, with 70 sets logged across Athens, London, Manchester and Newyorkcity and 2 more. Often billed alongside Honey Bun, Akanbi and Lovie. Next up: Signal, Newyorkcity on Sun 26 Jul.
+Ayanna Heaven is a dancehall and house artist based in United States of America, tracked on soundcheck, with 71 sets logged across Athens, London, Manchester and Newyorkcity and 2 more. Often billed alongside Honey Bun, Akanbi and Lovie. Next up: Signal, Newyorkcity on Sun 26 Jul.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sun, 26 Jul 2026 | Signal | New York City |
+| Wed, 29 Jul 2026 | Le Bain | New York City |
 | Fri, 31 Jul 2026 | Bossa Nova Civic Club | New York City |
 | Tue, 4 Aug 2026 | Silence Please | New York City |
 | Sat, 8 Aug 2026 | Night Tales Loft | London |

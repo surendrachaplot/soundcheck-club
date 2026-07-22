@@ -1,8 +1,8 @@
 # Enamour
 
-Enamour is a House and Progressive House artist with 3 upcoming club dates listed on soundcheck as of Wed, 22 Jul 2026, next at Sunset Park Rooftop, New York City on Fri, 24 Jul 2026.
+Enamour is a House and Progressive House artist with 4 upcoming club dates listed on soundcheck as of Wed, 22 Jul 2026, next at Sunset Park Rooftop, New York City on Fri, 24 Jul 2026.
 
-Enamour is a house and progressive house artist tracked on soundcheck, with 80 sets logged across Amsterdam, Berlin, Brisbane and Chicago and 18 more. Often billed alongside Lee Burridge, Cassian and Dastan. Next up: Sunset Park Rooftop, Newyorkcity on Fri 24 Jul.
+Enamour is a house and progressive house artist tracked on soundcheck, with 81 sets logged across Amsterdam, Berlin, Brisbane and Chicago and 19 more. Often billed alongside Lee Burridge, Cassian and Dastan. Next up: Sunset Park Rooftop, Newyorkcity on Fri 24 Jul.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Enamour is a house and progressive house artist tracked on soundcheck, with 80 s
 | --- | --- | --- |
 | Fri, 24 Jul 2026 | Sunset Park Rooftop | New York City |
 | Sat, 25 Jul 2026 | Club Space Miami | Miami |
+| Sat, 26 Sept 2026 | Akasha Las Dalias Club - Ibiza | Ibiza |
 | Mon, 12 Oct 2026 | Parc Jean-Drapeau | Montreal |
 
 ## Recently played

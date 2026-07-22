@@ -1,13 +1,14 @@
 # Bartek
 
-Bartek is a House and Garage artist with 2 upcoming club dates listed on soundcheck as of Wed, 22 Jul 2026, next at Uplands Roast, Edinburgh on Sat, 22 Aug 2026.
+Bartek is a House and Garage artist with 3 upcoming club dates listed on soundcheck as of Wed, 22 Jul 2026, next at Sneaky Pete's, Edinburgh on Mon, 3 Aug 2026.
 
-Bartek is a house and garage artist tracked on soundcheck, with 85 sets logged across Amsterdam, Edinburgh, Losangeles and Manchester and 2 more. Often billed alongside Bokonon, freddy haptic and Releaf. Next up: Uplands Roast, Edinburgh on Sat 22 Aug.
+Bartek is a house and garage artist tracked on soundcheck, with 86 sets logged across Amsterdam, Edinburgh, Losangeles and Manchester and 2 more. Often billed alongside Bokonon, freddy haptic and Releaf. Next up: Sneaky Pete's, Edinburgh on Mon 3 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Mon, 3 Aug 2026 | Sneaky Pete's | Edinburgh |
 | Sat, 22 Aug 2026 | Uplands Roast | Edinburgh |
 | Thu, 27 Aug 2026 | Sneaky Pete's | Edinburgh |
 

@@ -16,7 +16,7 @@ Karmen Camina is a music venue in Strasbourg listed on soundcheck. 10 upcoming n
 | Fri, 14 Aug 2026 | Freeday Camina - 31 Hertz [Alex Stingler, L'Ouïe, SYN, +TBA] |  |
 | Sat, 15 Aug 2026 | KLUB CAMINA [C.K, DJ Godfather, Kelly Placard, Lisa More, Timeless Rhythms] | C.K, DJ Godfather, Kelly Placard, Lisa More, Timeless Rhythms |
 | Fri, 21 Aug 2026 | SOUND OF KAMEN [Bambounou (3h30 set) + TBC] | Bambounou |
-| Fri, 4 Sept 2026 | SOUND OF KARMEN [Peach (3h30 set), Vio PRG (3h set)] | Peach, Vio PRG |
+| Fri, 4 Sept 2026 | SOUND OF KARMEN [Peach (3h set), Vio PRG (3h30 set)] | Peach, Vio PRG |
 | Fri, 18 Sept 2026 | SPECIAL GROOVE [Deadbeat & Tikiman (4Hs Set), Diane Moe] | Deadbeat, Paul St. Hilaire, Tikiman |
 
 ## Address

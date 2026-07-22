@@ -1,13 +1,14 @@
 # Neon Grotto
 
-Neon Grotto is a music venue in Austin with 1 upcoming night listed on soundcheck as of Wed, 22 Jul 2026; the next is "Where We Are" on Sun, 26 Jul 2026.
+Neon Grotto is a music venue in Austin with 2 upcoming nights listed on soundcheck as of Wed, 22 Jul 2026; the next is "All Things Deep (HouseMusicThurs)" on Thu, 23 Jul 2026.
 
-Neon Grotto is a music venue in Austin listed on soundcheck. 1 upcoming night, with line-ups including Feathervane. Browse upcoming dates, start times and who's playing. 318 Colorado St, Austin, TX 78701, United States.
+Neon Grotto is a music venue in Austin listed on soundcheck. 2 upcoming nights, with line-ups including Cuillere, Feathervane, Knos and Rambo. Browse upcoming dates, start times and who's playing. 318 Colorado St, Austin, TX 78701, United States.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
+| Thu, 23 Jul 2026 | All Things Deep (HouseMusicThurs) | Cuillere, Knos, Rambo |
 | Sun, 26 Jul 2026 | Where We Are | Feathervane |
 
 ## Address

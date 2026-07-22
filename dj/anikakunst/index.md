@@ -1,14 +1,15 @@
 # Anika Kunst
 
-Anika Kunst is a Techno and Acid artist with 2 upcoming club dates listed on soundcheck as of Wed, 22 Jul 2026, next at Berghain | Panorama Bar | Säule, Berlin on Sat, 1 Aug 2026.
+Anika Kunst is a Techno and Acid artist with 3 upcoming club dates listed on soundcheck as of Wed, 22 Jul 2026, next at Berghain | Panorama Bar | Säule, Berlin on Sat, 1 Aug 2026.
 
-Anika Kunst is a techno and acid artist tracked on soundcheck, with 125 sets logged across Amsterdam, Barcelona, Berlin and Boston and 21 more. Often billed alongside Stojche, Ben Sims and Montero. Next up: Berghain | Panorama Bar | Säule, Berlin on Sat 1 Aug.
+Anika Kunst is a techno and acid artist tracked on soundcheck, with 126 sets logged across Amsterdam, Barcelona, Berlin and Boston and 21 more. Often billed alongside Stojche, Ben Sims and Montero. Next up: Berghain | Panorama Bar | Säule, Berlin on Sat 1 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 1 Aug 2026 | Berghain / Panorama Bar / Säule | Berlin |
+| Sat, 29 Aug 2026 | Razzmatazz | Barcelona |
 | Thu, 10 Sept 2026 | Barragem da Queimadela | Porto |
 
 ## Recently played

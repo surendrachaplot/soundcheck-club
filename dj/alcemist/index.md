@@ -1,14 +1,14 @@
 # Alcemist
 
-Alcemist is a Drum & Bass and Bass artist with 2 upcoming club dates listed on soundcheck as of Wed, 22 Jul 2026, next at Coco Porto, Riga on Fri, 24 Jul 2026.
+Alcemist is a Drum & Bass and Bass artist with 2 upcoming club dates listed on soundcheck as of Wed, 22 Jul 2026, next at Medusa Club, Riga on Fri, 24 Jul 2026.
 
-Alcemist is a drum & bass and bass artist tracked on soundcheck, with 47 sets logged across Amsterdam, Auckland, Barcelona and Birmingham and 17 more. Often billed alongside K Motionz, Crossy and Culture Shock. Next up: Coco Porto, Riga on Fri 24 Jul.
+Alcemist is a drum & bass and bass artist tracked on soundcheck, with 47 sets logged across Amsterdam, Auckland, Barcelona and Birmingham and 17 more. Often billed alongside K Motionz, Crossy and Culture Shock. Next up: Medusa Club, Riga on Fri 24 Jul.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 24 Jul 2026 | Coco Porto | Riga |
+| Fri, 24 Jul 2026 | Medusa Club | Riga |
 | Sat, 15 Aug 2026 | Lofi | Amsterdam |
 
 ## Recently played

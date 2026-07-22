@@ -1,8 +1,8 @@
 # Dasha Rush
 
-Dasha Rush is a Techno and House artist with 5 upcoming club dates listed on soundcheck as of Wed, 22 Jul 2026, next at Port del Comte, Barcelona on Fri, 24 Jul 2026.
+Dasha Rush is a Techno and House artist with 6 upcoming club dates listed on soundcheck as of Wed, 22 Jul 2026, next at Port del Comte, Barcelona on Fri, 24 Jul 2026.
 
-Dasha Rush is a techno and house artist tracked on soundcheck, with 150 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 35 more. Often billed alongside DVS1, Adriana Lopez and JakoJako. Next up: Port del Comte, Barcelona on Fri 24 Jul.
+Dasha Rush is a techno and house artist tracked on soundcheck, with 151 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 35 more. Often billed alongside DVS1, Adriana Lopez and JakoJako. Next up: Port del Comte, Barcelona on Fri 24 Jul.
 
 ## Upcoming shows
 
@@ -11,6 +11,7 @@ Dasha Rush is a techno and house artist tracked on soundcheck, with 150 sets log
 | Fri, 24 Jul 2026 | Port del Comte | Barcelona |
 | Wed, 29 Jul 2026 | Amsterdamse Bos | Amsterdam |
 | Sat, 1 Aug 2026 | Amsterdamse Bos | Amsterdam |
+| Sat, 15 Aug 2026 | Razzmatazz | Barcelona |
 | Thu, 17 Sept 2026 | TBA - Several venues in Basel | Basel |
 | Sat, 3 Oct 2026 | fabric | London |
 

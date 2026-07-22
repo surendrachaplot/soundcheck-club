@@ -1,8 +1,8 @@
 # VITE
 
-VITE is a Afro House and House artist with 2 upcoming club dates listed on soundcheck as of Wed, 22 Jul 2026, next at Ku Barcelona, Barcelona on Sun, 2 Aug 2026.
+VITE is a Afro House and House artist with 3 upcoming club dates listed on soundcheck as of Wed, 22 Jul 2026, next at Ku Barcelona, Barcelona on Sun, 2 Aug 2026.
 
-VITE is an afro house and house artist tracked on soundcheck, with 40 sets logged across Amsterdam, Barcelona, Berlin and Budapest and 10 more. Often billed alongside MIGANOVA, Pole Position and Adi Dassler. Next up: Ku Barcelona, Barcelona on Sun 2 Aug.
+VITE is an afro house and house artist tracked on soundcheck, with 41 sets logged across Amsterdam, Barcelona, Berlin and Budapest and 10 more. Often billed alongside MIGANOVA, Pole Position and Adi Dassler. Next up: Ku Barcelona, Barcelona on Sun 2 Aug.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ VITE is an afro house and house artist tracked on soundcheck, with 40 sets logge
 | --- | --- | --- |
 | Sun, 2 Aug 2026 | Ku Barcelona | Barcelona |
 | Wed, 19 Aug 2026 | Chinois Ibiza | Ibiza |
+| Sun, 30 Aug 2026 | Akasha Las Dalias Club - Ibiza | Ibiza |
 
 ## Recently played
 

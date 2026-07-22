@@ -1,8 +1,8 @@
 # Bootshaus
 
-Bootshaus is a music venue in Cologne with 13 upcoming nights listed on soundcheck as of Wed, 22 Jul 2026; the next is "HÖR ON TOUR - Cologne" on Fri, 24 Jul 2026.
+Bootshaus is a music venue in Cologne with 14 upcoming nights listed on soundcheck as of Wed, 22 Jul 2026; the next is "HÖR ON TOUR - Cologne" on Fri, 24 Jul 2026.
 
-Bootshaus is a music venue in Cologne listed on soundcheck. 13 upcoming nights, with line-ups including Acid Asian, Afem Syko, Alba Franch and Amber Broos and 2 more. Browse upcoming dates, start times and who's playing. Auenweg 173; 51063 Cologne; Germany.
+Bootshaus is a music venue in Cologne listed on soundcheck. 14 upcoming nights, with line-ups including Acid Asian, Afem Syko, Alba Franch and Amber Broos and 2 more. Browse upcoming dates, start times and who's playing. Auenweg 173; 51063 Cologne; Germany.
 
 ## What's on
 
@@ -13,11 +13,11 @@ Bootshaus is a music venue in Cologne listed on soundcheck. 13 upcoming nights, 
 | Sat, 1 Aug 2026 | PLAY Open Air / Bootshaus | Badlokk, Blooom, Enaly, Gourski, Jaycut |
 | Fri, 7 Aug 2026 | R3hab pres. by Bootshaus | R3hab |
 | Fri, 7 Aug 2026 | LEVI presented by NIGHTS WITH US, Cologne | Levi (AU) |
+| Sat, 15 Aug 2026 | Into The Madness Pre-Party Weekender  w. RAN - D | Kili (3) |
 | Fri, 21 Aug 2026 | LOONYLAND pres. LUCA DANTE SPADAFORA & 2 ENGEL & Charlie | Charlie |
 | Thu, 27 Aug 2026 | ANIME SOUNDS by CrispyRob - The Last Chapter |  |
 | Fri, 11 Sept 2026 | Blacklist & Inurfase pres. ZAAGSTEP by Dr Donk | Dr Donk, Lekkerfaces, Yoshiko |
 | Fri, 18 Sept 2026 | Polyamor Bootshaus with davyboi, PRADA2000, Mika Heggemann & many more | Alba Franch, Cleopard2000, Elotrance, Mika Heggemann, PRADA2000, SATYS FYRE, Trancemaster Krause, davyboi, t e s t p r e s s |
-| Sun, 20 Sept 2026 | VERTILE pres. EVERYTHING CHANGES -LIVE- |  |
 
 ## Address
 

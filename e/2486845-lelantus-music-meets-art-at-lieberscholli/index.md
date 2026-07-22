@@ -1,6 +1,6 @@
 # Lelantus - Music Meets Art at Lieberscholli
 
-Lelantus - Music Meets Art at Lieberscholli on Sun 30 Aug, Munich. 4 acts on the bill: Black Box, Mina, Unseen. and Ëlorian. House and Tech House. Preview the line-up and save it on soundcheck.
+Lelantus - Music Meets Art at Lieberscholli on Sun 30 Aug, Munich. 4 acts on the bill: Black Box, MINÄ, Unseen. and Ëlorian. House and Tech House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -11,7 +11,7 @@ Lelantus - Music Meets Art at Lieberscholli on Sun 30 Aug, Munich. 4 acts on the
 ## Line-up
 
 - Black Box
-- Mina
+- MINÄ
 - Unseen.
 - Ëlorian
 

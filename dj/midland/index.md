@@ -1,14 +1,15 @@
 # Midland
 
-Midland is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Wed, 22 Jul 2026, next at Lux Fragil, Lisbon on Sat, 1 Aug 2026.
+Midland is a House and Techno artist with 4 upcoming club dates listed on soundcheck as of Wed, 22 Jul 2026, next at Lux Fragil, Lisbon on Sat, 1 Aug 2026.
 
-Midland is a house and techno artist based in United Kingdom, tracked on soundcheck, with 106 sets logged across Amsterdam, Athens, Barcelona and Belfast and 38 more. Often billed alongside NIKS, Peach and Job Jobse. Next up: Lux Fragil, Lisbon on Sat 1 Aug.
+Midland is a house and techno artist based in United Kingdom, tracked on soundcheck, with 107 sets logged across Amsterdam, Athens, Barcelona and Belfast and 38 more. Often billed alongside NIKS, Peach and Job Jobse. Next up: Lux Fragil, Lisbon on Sat 1 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 1 Aug 2026 | Lux Fragil | Lisbon |
+| Sat, 15 Aug 2026 | Den Anden Side | Copenhagen |
 | Sat, 12 Sept 2026 | The Cause | London |
 | Sat, 17 Oct 2026 | FOLD | London |
 

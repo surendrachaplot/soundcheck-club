@@ -1,8 +1,8 @@
 # Viikatory
 
-Viikatory is a Techno and Electro artist with 2 upcoming club dates listed on soundcheck as of Wed, 22 Jul 2026, next at Tresor / Globus, Berlin on Fri, 7 Aug 2026.
+Viikatory is a Techno and Electro artist with 3 upcoming club dates listed on soundcheck as of Wed, 22 Jul 2026, next at Tresor / Globus, Berlin on Fri, 7 Aug 2026.
 
-Viikatory is a techno and electro artist tracked on soundcheck, with 90 sets logged across Amsterdam, Athens, Barcelona and Basel and 21 more. Often billed alongside Verde, Salut 80 and DJ MELL G. Next up: Tresor / Globus, Berlin on Fri 7 Aug.
+Viikatory is a techno and electro artist tracked on soundcheck, with 91 sets logged across Amsterdam, Athens, Barcelona and Basel and 21 more. Often billed alongside Verde, Salut 80 and DJ MELL G. Next up: Tresor / Globus, Berlin on Fri 7 Aug.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Viikatory is a techno and electro artist tracked on soundcheck, with 90 sets log
 | --- | --- | --- |
 | Fri, 7 Aug 2026 | Tresor / Globus | Berlin |
 | Sun, 16 Aug 2026 | Sonnenraum | Berlin |
+| Sat, 5 Sept 2026 | Macadam | Nantes |
 
 ## Recently played
 

@@ -1,8 +1,8 @@
 # BCM
 
-BCM is a music venue in Mallorca with 32 upcoming nights listed on soundcheck as of Wed, 22 Jul 2026; the next is "ARTIE 5IVE DJ SET" on Wed, 22 Jul 2026.
+BCM is a music venue in Mallorca with 35 upcoming nights listed on soundcheck as of Wed, 22 Jul 2026; the next is "ARTIE 5IVE DJ SET" on Wed, 22 Jul 2026.
 
-BCM is a music venue in Mallorca listed on soundcheck. 32 upcoming nights, with line-ups including AARON SEVILLA, Antdot, Armand Van Helden and Bob Sinclar and 2 more. Browse upcoming dates, start times and who's playing. BCM Complex Avda, S'Olivera s/n Magalluf, Calvia, 07182 Palma de Mallorca, Spain.
+BCM is a music venue in Mallorca listed on soundcheck. 35 upcoming nights, with line-ups including AARON SEVILLA, Antdot, Armand Van Helden and Bob Sinclar and 2 more. Browse upcoming dates, start times and who's playing. BCM Complex Avda, S'Olivera s/n Magalluf, Calvia, 07182 Palma de Mallorca, Spain.
 
 ## What's on
 

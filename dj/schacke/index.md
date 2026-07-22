@@ -1,14 +1,15 @@
 # Schacke
 
-Schacke is a Techno and Trance artist with 3 upcoming club dates listed on soundcheck as of Wed, 22 Jul 2026, next at Komplex Berlin, Berlin on Sat, 25 Jul 2026.
+Schacke is a Techno and Trance artist with 4 upcoming club dates listed on soundcheck as of Wed, 22 Jul 2026, next at Komplex Berlin, Berlin on Sat, 25 Jul 2026.
 
-Schacke is a techno and trance artist tracked on soundcheck, with 182 sets logged across Amsterdam, Antwerp, Athens and Austin and 45 more. Often billed alongside Peachlyfe, Vixen and Mohajer. Next up: Komplex Berlin, Berlin on Sat 25 Jul.
+Schacke is a techno and trance artist tracked on soundcheck, with 183 sets logged across Amsterdam, Antwerp, Athens and Austin and 45 more. Often billed alongside Peachlyfe, Vixen and Mohajer. Next up: Komplex Berlin, Berlin on Sat 25 Jul.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 25 Jul 2026 | Komplex Berlin | Berlin |
+| Sat, 8 Aug 2026 | TILLATEC | Amsterdam |
 | Sat, 15 Aug 2026 | BASIS | Utrecht |
 | Sat, 5 Sept 2026 | TBA - Secret Warehouse | Paris |
 

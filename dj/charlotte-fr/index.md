@@ -1,13 +1,15 @@
 # Charlotte (FR)
 
-Charlotte (FR) is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Wed, 22 Jul 2026, next at Oval Space, London on Sat, 25 Jul 2026.
+Charlotte (FR) is a House and Techno artist with 4 upcoming club dates listed on soundcheck as of Wed, 22 Jul 2026, next at XOYO Birmingham, Birmingham on Sat, 25 Jul 2026.
 
-Charlotte (FR) is a house and techno artist tracked on soundcheck, with 90 sets logged across Amsterdam, Barcelona, Berlin and Brussels and 24 more. Often billed alongside tINI, ABI (FR) and Giammarco Orsini. Next up: Oval Space, London on Sat 25 Jul.
+Charlotte (FR) is a house and techno artist tracked on soundcheck, with 92 sets logged across Amsterdam, Barcelona, Berlin and Birmingham and 25 more. Often billed alongside tINI, ABI (FR) and Giammarco Orsini. Next up: XOYO Birmingham, Birmingham on Sat 25 Jul.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 25 Jul 2026 | XOYO Birmingham | Birmingham |
+| Sat, 25 Jul 2026 | Pier 83 | New York City |
 | Sat, 25 Jul 2026 | Oval Space | London |
 | Sat, 1 Aug 2026 | BRET | Amsterdam |
 

@@ -1,8 +1,8 @@
 # Donato Dozzy
 
-Donato Dozzy is a Techno and House artist with 5 upcoming club dates listed on soundcheck as of Wed, 22 Jul 2026, next at Spazio Cavea, Rome on Fri, 31 Jul 2026.
+Donato Dozzy is a Techno and House artist with 6 upcoming club dates listed on soundcheck as of Wed, 22 Jul 2026, next at Spazio Cavea, Rome on Fri, 31 Jul 2026.
 
-Donato Dozzy is a techno and house artist tracked on soundcheck, with 94 sets logged across Amsterdam, Athens, Barcelona and Basel and 30 more. Often billed alongside Voices From The Lake, Spekki Webu and Batu. Next up: Spazio Cavea, Rome on Fri 31 Jul.
+Donato Dozzy is a techno and house artist tracked on soundcheck, with 95 sets logged across Amsterdam, Athens, Barcelona and Basel and 31 more. Often billed alongside Voices From The Lake, Spekki Webu and Batu. Next up: Spazio Cavea, Rome on Fri 31 Jul.
 
 ## Upcoming shows
 
@@ -13,6 +13,7 @@ Donato Dozzy is a techno and house artist tracked on soundcheck, with 94 sets lo
 | Fri, 28 Aug 2026 | Maison Symphonique de Montréal | Montreal |
 | Wed, 9 Sept 2026 | THE MAGICK BAR | Rome |
 | Sat, 12 Sept 2026 | Auditorium Parco della Musica | Rome |
+| Fri, 2 Oct 2026 | Jasna 1 | Warsaw |
 
 ## Recently played
 

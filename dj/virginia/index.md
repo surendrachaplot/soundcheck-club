@@ -1,8 +1,8 @@
 # Virginia
 
-Virginia is a House and Techno artist with 23 upcoming club dates listed on soundcheck as of Wed, 22 Jul 2026, next at The White Hotel, Manchester on Sat, 25 Jul 2026.
+Virginia is a House and Techno artist with 78 upcoming club dates listed on soundcheck as of Wed, 22 Jul 2026, next at The White Hotel, Manchester on Sat, 25 Jul 2026.
 
-Virginia is a house and techno artist tracked on soundcheck, with 138 sets logged across Amsterdam, Athens, Barcelona and Belfast and 37 more. Often billed alongside Steffi, AMEX (UK) and APP. Next up: The White Hotel, Manchester on Sat 25 Jul.
+Virginia is a house and techno artist tracked on soundcheck, with 193 sets logged across Amsterdam, Athens, Bali and Barcelona and 54 more. Often billed alongside AMEX (UK), APP and Alaska (2). Next up: The White Hotel, Manchester on Sat 25 Jul.
 
 ## Upcoming shows
 
@@ -11,15 +11,15 @@ Virginia is a house and techno artist tracked on soundcheck, with 138 sets logge
 | Sat, 25 Jul 2026 | The White Hotel | Manchester |
 | Sat, 25 Jul 2026 | Berghain / Panorama Bar / Säule | Berlin |
 | Sat, 25 Jul 2026 | Institut fuer Zukunft (IfZ) | Leipzig |
+| Sat, 25 Jul 2026 | XOYO Birmingham | Birmingham |
+| Sat, 25 Jul 2026 | Volt Club Milano | Milan |
 | Sat, 25 Jul 2026 | B London | London |
+| Sat, 25 Jul 2026 | S-Factory Sector B | Seoul |
+| Sat, 25 Jul 2026 | NDSM Docklands | Amsterdam |
 | Sat, 25 Jul 2026 | 516 S Anderson Street | Los Angeles |
+| Sat, 25 Jul 2026 | Parc del Fòrum | Barcelona |
+| Sat, 25 Jul 2026 | F Lounge | Bali |
 | Sat, 25 Jul 2026 | Under the K Bridge | New York City |
-| Sat, 25 Jul 2026 | Quantum | New York City |
-| Sat, 25 Jul 2026 | Ziegrastraße 11 | Berlin |
-| Sat, 25 Jul 2026 | 45 East | Portland |
-| Sat, 25 Jul 2026 | 618 DC | Washington DC |
-| Sat, 25 Jul 2026 | 714 | Philadelphia |
-| Sat, 25 Jul 2026 | 17 Little Portland Street | London |
 
 ## Recently played
 
@@ -34,6 +34,6 @@ Virginia is a house and techno artist tracked on soundcheck, with 138 sets logge
 
 ## Shares bills with
 
-Steffi, AMEX (UK), APP
+AMEX (UK), APP, Alaska (2)
 
 *Updated Wed, 22 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/virginia/)*

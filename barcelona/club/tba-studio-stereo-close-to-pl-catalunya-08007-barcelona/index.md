@@ -1,8 +1,8 @@
 # TBA - Studio Stereo, close to pl. Catalunya, 08007, Barcelona
 
-TBA - Studio Stereo, close to pl. Catalunya, 08007, Barcelona is a music venue in Barcelona with 26 upcoming nights listed on soundcheck as of Wed, 22 Jul 2026; the next is "Studio Stereo x Bridge48 pres. IVAN POSEIDON (until 3am)" on Thu, 23 Jul 2026.
+TBA - Studio Stereo, close to pl. Catalunya, 08007, Barcelona is a music venue in Barcelona with 29 upcoming nights listed on soundcheck as of Wed, 22 Jul 2026; the next is "Studio Stereo x Bridge48 pres. IVAN POSEIDON (until 3am)" on Thu, 23 Jul 2026.
 
-TBA - Studio Stereo, close to pl. Catalunya, 08007, Barcelona is a music venue in Barcelona listed on soundcheck. 26 upcoming nights, with line-ups including .cosm, Adria (ES), Angel Sani and Bastard Love and 2 more. Browse upcoming dates, start times and who's playing.
+TBA - Studio Stereo, close to pl. Catalunya, 08007, Barcelona is a music venue in Barcelona listed on soundcheck. 29 upcoming nights, with line-ups including .cosm, Adria (ES), Angel Sani and Bastard Love and 2 more. Browse upcoming dates, start times and who's playing.
 
 ## What's on
 

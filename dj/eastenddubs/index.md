@@ -11,10 +11,10 @@ East End Dubs is a house and tech house artist tracked on soundcheck, with 268 s
 | Tue, 28 Jul 2026 | Hï Ibiza | Ibiza |
 | Wed, 29 Jul 2026 | Santanna Mykonos | Mykonos |
 | Sat, 1 Aug 2026 | Malta Fairs & Conventions Centre | Malta |
+| Sun, 2 Aug 2026 | Colorado Charlie | The Hague |
 | Tue, 4 Aug 2026 | Hï Ibiza | Ibiza |
 | Sat, 8 Aug 2026 | Sloterpark | Amsterdam |
 | Sun, 9 Aug 2026 | Burgess Park | London |
-| Sun, 9 Aug 2026 | Colorado Charlie | The Hague |
 | Tue, 11 Aug 2026 | Hï Ibiza | Ibiza |
 | Fri, 14 Aug 2026 | Pacha Ibiza | Ibiza |
 | Tue, 18 Aug 2026 | Hï Ibiza | Ibiza |

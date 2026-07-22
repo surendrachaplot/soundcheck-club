@@ -1,8 +1,8 @@
 # Kyle Starkey
 
-Kyle Starkey is a Techno and House artist with 16 upcoming club dates listed on soundcheck as of Wed, 22 Jul 2026, next at Lieberscholli, Munich on Sat, 25 Jul 2026.
+Kyle Starkey is a Techno and House artist with 17 upcoming club dates listed on soundcheck as of Wed, 22 Jul 2026, next at Lieberscholli, Munich on Sat, 25 Jul 2026.
 
-Kyle Starkey is a techno and house artist tracked on soundcheck, with 153 sets logged across Aberdeen, Amsterdam, Antwerp and Barcelona and 33 more. Often billed alongside DART, Benwal and Faster Horses. Next up: Lieberscholli, Munich on Sat 25 Jul.
+Kyle Starkey is a techno and house artist tracked on soundcheck, with 154 sets logged across Aberdeen, Amsterdam, Antwerp and Barcelona and 33 more. Often billed alongside DART, Benwal and Faster Horses. Next up: Lieberscholli, Munich on Sat 25 Jul.
 
 ## Upcoming shows
 

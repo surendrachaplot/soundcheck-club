@@ -1,8 +1,8 @@
 # MarcelDune
 
-MarcelDune is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Wed, 22 Jul 2026, next at Tresor / Globus, Berlin on Sat, 25 Jul 2026.
+MarcelDune is a Techno and House artist with 4 upcoming club dates listed on soundcheck as of Wed, 22 Jul 2026, next at Tresor / Globus, Berlin on Sat, 25 Jul 2026.
 
-MarcelDune is a techno and house artist tracked on soundcheck, with 59 sets logged across Amsterdam, Athens, Berlin and Brighton and 11 more. Often billed alongside Amphia, Gloria Rose and TEDESCO. Next up: Tresor / Globus, Berlin on Sat 25 Jul.
+MarcelDune is a techno and house artist tracked on soundcheck, with 60 sets logged across Amsterdam, Athens, Berlin and Brighton and 11 more. Often billed alongside Amphia, ASHTREY and Gloria Rose. Next up: Tresor / Globus, Berlin on Sat 25 Jul.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ MarcelDune is a techno and house artist tracked on soundcheck, with 59 sets logg
 | --- | --- | --- |
 | Sat, 25 Jul 2026 | Tresor / Globus | Berlin |
 | Sun, 2 Aug 2026 | Boston Manor Park | London |
+| Sat, 8 Aug 2026 | TILLATEC | Amsterdam |
 | Sat, 5 Sept 2026 | KREUZWERK | Berlin |
 
 ## Recently played
@@ -25,6 +26,6 @@ MarcelDune is a techno and house artist tracked on soundcheck, with 59 sets logg
 
 ## Shares bills with
 
-Amphia, Gloria Rose, TEDESCO
+Amphia, ASHTREY, Gloria Rose
 
 *Updated Wed, 22 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/marceldune/)*

@@ -13,7 +13,7 @@ Kilomètre25 is a music venue in Paris listed on soundcheck. 18 upcoming nights,
 | Sat, 25 Jul 2026 | Organïk: RAGETRAIN, BØERY, TITI, Ema Leo, Soraä & MORE | BØĘRY, Ema Leo, Omni, Soraä, Wolverave |
 | Thu, 30 Jul 2026 | TAKE HIT: Rian Wood, Zaphy, KD/MS, Mon.To | Mon.To, Rian Wood, Zaphy |
 | Fri, 31 Jul 2026 | ARCHANGEL: GIGI FM, Mama Snake B2B NENE H, kheli | GiGi FM, Mama Snake, Nene H, kheli |
-| Sat, 1 Aug 2026 | ORKA: T78, A*S*Y*S et Hortense de Beauharnais & MORE | A*S*Y*S (2), Hortense de Beauharnais, T78 |
+| Sat, 1 Aug 2026 | ORKA x SAKRAL : T78, A*S*Y*S, Hortense de Beauharnais & MORE | A*S*Y*S (2), Hortense de Beauharnais, T78 |
 | Thu, 6 Aug 2026 | 2222 /// UBERKIKZ, DJ ANGEL B2B Ketarina, PÔNKY | DJ ANGEL (fr), Ketarina, Pōnky, ÜBERKIKZ |
 | Fri, 7 Aug 2026 | House Of Groove: Black Loops, Cezaire, Matthieu Faubourg | Axelle Maga, Black Loops, Cezaire, Matthieu Faubourg |
 | Sat, 8 Aug 2026 | THUNDER: Cristobal Pesce, Cera Khin, NIVK, NYCO | BETÏSES, Cera Khin, Cristobal Pesce, Nyco (FR) |

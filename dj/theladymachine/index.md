@@ -1,8 +1,8 @@
 # The Lady Machine
 
-The Lady Machine is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Wed, 22 Jul 2026, next at Tresor / Globus, Berlin on Fri, 24 Jul 2026.
+The Lady Machine is a Techno and House artist with 4 upcoming club dates listed on soundcheck as of Wed, 22 Jul 2026, next at Tresor / Globus, Berlin on Fri, 24 Jul 2026.
 
-The Lady Machine is a techno and house artist tracked on soundcheck, with 170 sets logged across Amsterdam, Athens, Barcelona and Berlin and 40 more. Often billed alongside Freddy K, Blasha & Allatt and Rakans. Next up: Tresor / Globus, Berlin on Fri 24 Jul.
+The Lady Machine is a techno and house artist tracked on soundcheck, with 171 sets logged across Amsterdam, Athens, Barcelona and Berlin and 40 more. Often billed alongside Freddy K, Blasha & Allatt and Rakans. Next up: Tresor / Globus, Berlin on Fri 24 Jul.
 
 ## Upcoming shows
 
@@ -11,6 +11,7 @@ The Lady Machine is a techno and house artist tracked on soundcheck, with 170 se
 | Fri, 24 Jul 2026 | Tresor / Globus | Berlin |
 | Sat, 8 Aug 2026 | TBA - Seebruck - Chiemsee | Munich |
 | Fri, 14 Aug 2026 | TBA - Klingemühle | Berlin |
+| Fri, 4 Sept 2026 | TBA | Barcelona |
 
 ## Recently played
 

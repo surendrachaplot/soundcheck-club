@@ -2,13 +2,13 @@
 
 Prozak 2.0 is a music venue in Krakow with 8 upcoming nights listed on soundcheck as of Wed, 22 Jul 2026; the next is "NO SLEEP ROOM" on Wed, 22 Jul 2026.
 
-Prozak 2.0 is a music venue in Krakow listed on soundcheck. 8 upcoming nights, with line-ups including Kara Okay, KATZ (2), Kuriozum and Meg (PL). Browse upcoming dates, start times and who's playing. plac Dominikański 6, 33-332 Kraków, Poland.
+Prozak 2.0 is a music venue in Krakow listed on soundcheck. 8 upcoming nights, with line-ups including Kara Okay, KATZ (2), Kuriozum and Meg (PL) and 1 more. Browse upcoming dates, start times and who's playing. plac Dominikański 6, 33-332 Kraków, Poland.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Wed, 22 Jul 2026 | NO SLEEP ROOM | KATZ (2) |
+| Wed, 22 Jul 2026 | NO SLEEP ROOM | KATZ (2), Pablo Camposeco |
 | Thu, 23 Jul 2026 | 90s RAVE |  |
 | Sat, 25 Jul 2026 | PROZAK ON THE ROOF: TWOFACED | Kuriozum, Meg (PL) |
 | Sat, 25 Jul 2026 | Prozak on the Roof: AFTER HOURS | Kuriozum, Meg (PL) |

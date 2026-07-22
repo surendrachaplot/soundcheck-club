@@ -10,7 +10,7 @@ Blvck Water is a music venue in Osaka listed on soundcheck. 7 upcoming nights, w
 | --- | --- | --- |
 | Wed, 22 Jul 2026 | RHYTHM SHIFT Vol.9 // SPECIAL GUEST EDITION | Goodrug, WOLT |
 | Sat, 25 Jul 2026 | 'CRACKS' HARD TECHNO with YUVIE, FENGX2, LIZA, inudog system, shuk00 | FENGX2, LIZA (6), YUVIE, inudog system |
-| Sat, 25 Jul 2026 | HARD TECHNO 'CRACKS' with FENGX2, KIYO, LIZA | FENGX2, LIZA (6) |
+| Sat, 25 Jul 2026 | HARD TECHNO 'CRACKS' with FENGX2, KIYO, LIZA, 死者蘇生CH, ZAGUN | FENGX2, LIZA (6), ZAGUN, 死者蘇生CH |
 | Tue, 28 Jul 2026 | 'sutura' TECHNO ADDICT at Night Club Blvck Water with WOLT & OC | WOLT, ZAGUN, amor (JP) |
 | Fri, 31 Jul 2026 | HARD TECHNO 'CRACKS' woth Messiahwaits, FENGX2, 死者蘇生CH | FENGX2, Messiahwaits, 死者蘇生CH |
 | Sun, 2 Aug 2026 | NERD NODE.2 |  |
