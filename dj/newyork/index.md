@@ -1,8 +1,8 @@
 # NEW YORK
 
-NEW YORK is a Electro and Pop artist with 16 upcoming club dates listed on soundcheck as of Wed, 22 Jul 2026, next at Institut fuer Zukunft (IfZ), Leipzig on Sat, 25 Jul 2026.
+NEW YORK is a Electro and Pop artist with 19 upcoming club dates listed on soundcheck as of Wed, 22 Jul 2026, next at Institut fuer Zukunft (IfZ), Leipzig on Sat, 25 Jul 2026.
 
-NEW YORK is an electro and pop artist based in United Kingdom, tracked on soundcheck, with 52 sets logged across Amsterdam, Berlin, Brussels and Buenosaires and 18 more. Often billed alongside AMEX (UK), APP and Alaska (2). Next up: Institut fuer Zukunft (IfZ), Leipzig on Sat 25 Jul.
+NEW YORK is an electro and pop artist based in United Kingdom, tracked on soundcheck, with 55 sets logged across Amsterdam, Berlin, Brussels and Buenosaires and 18 more. Often billed alongside AMEX (UK), APP and Alaska (2). Next up: Institut fuer Zukunft (IfZ), Leipzig on Sat 25 Jul.
 
 ## Upcoming shows
 
@@ -13,13 +13,13 @@ NEW YORK is an electro and pop artist based in United Kingdom, tracked on soundc
 | Sat, 25 Jul 2026 | 516 S Anderson Street | Los Angeles |
 | Sat, 25 Jul 2026 | Under the K Bridge | New York City |
 | Sat, 25 Jul 2026 | Quantum | New York City |
+| Sat, 25 Jul 2026 | Ziegrastraße 11 | Berlin |
 | Sat, 25 Jul 2026 | 45 East | Portland |
 | Sat, 25 Jul 2026 | 618 DC | Washington DC |
 | Sat, 25 Jul 2026 | 714 | Philadelphia |
 | Sat, 25 Jul 2026 | 17 Little Portland Street | London |
+| Sat, 25 Jul 2026 | Raum 20 | Berlin |
 | Sat, 25 Jul 2026 | Unit 58 | London |
-| Sat, 25 Jul 2026 | Queen's Yard | London |
-| Sat, 25 Jul 2026 | Electrowerkz | London |
 
 ## Recently played
 

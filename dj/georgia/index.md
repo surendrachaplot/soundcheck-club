@@ -1,8 +1,8 @@
 # Georgia
 
-Georgia is a Drum & Bass and Dubstep artist with 13 upcoming club dates listed on soundcheck as of Wed, 22 Jul 2026, next at Institut fuer Zukunft (IfZ), Leipzig on Sat, 25 Jul 2026.
+Georgia is a Drum & Bass and Dubstep artist with 16 upcoming club dates listed on soundcheck as of Wed, 22 Jul 2026, next at Institut fuer Zukunft (IfZ), Leipzig on Sat, 25 Jul 2026.
 
-Georgia is a drum & bass and dubstep artist based in Indonesia, tracked on soundcheck, with 30 sets logged across Amsterdam, Bristol, Brussels and Ibiza and 9 more. Often billed alongside AMEX (UK), APP and Alaska (2). Next up: Institut fuer Zukunft (IfZ), Leipzig on Sat 25 Jul.
+Georgia is a drum & bass and dubstep artist based in Indonesia, tracked on soundcheck, with 33 sets logged across Amsterdam, Berlin, Bristol and Brussels and 10 more. Often billed alongside AMEX (UK), APP and Alaska (2). Next up: Institut fuer Zukunft (IfZ), Leipzig on Sat 25 Jul.
 
 ## Upcoming shows
 
@@ -13,13 +13,13 @@ Georgia is a drum & bass and dubstep artist based in Indonesia, tracked on sound
 | Sat, 25 Jul 2026 | 516 S Anderson Street | Los Angeles |
 | Sat, 25 Jul 2026 | Under the K Bridge | New York City |
 | Sat, 25 Jul 2026 | Quantum | New York City |
+| Sat, 25 Jul 2026 | Ziegrastraße 11 | Berlin |
 | Sat, 25 Jul 2026 | 45 East | Portland |
 | Sat, 25 Jul 2026 | 618 DC | Washington DC |
 | Sat, 25 Jul 2026 | 714 | Philadelphia |
 | Sat, 25 Jul 2026 | 17 Little Portland Street | London |
+| Sat, 25 Jul 2026 | Raum 20 | Berlin |
 | Sat, 25 Jul 2026 | Unit 58 | London |
-| Sat, 25 Jul 2026 | Queen's Yard | London |
-| Sat, 25 Jul 2026 | Electrowerkz | London |
 
 ## Recently played
 

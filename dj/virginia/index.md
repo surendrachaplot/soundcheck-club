@@ -1,8 +1,8 @@
 # Virginia
 
-Virginia is a House and Techno artist with 20 upcoming club dates listed on soundcheck as of Wed, 22 Jul 2026, next at The White Hotel, Manchester on Sat, 25 Jul 2026.
+Virginia is a House and Techno artist with 23 upcoming club dates listed on soundcheck as of Wed, 22 Jul 2026, next at The White Hotel, Manchester on Sat, 25 Jul 2026.
 
-Virginia is a house and techno artist tracked on soundcheck, with 135 sets logged across Amsterdam, Athens, Barcelona and Belfast and 37 more. Often billed alongside Steffi, BASHKKA and Blasha & Allatt. Next up: The White Hotel, Manchester on Sat 25 Jul.
+Virginia is a house and techno artist tracked on soundcheck, with 138 sets logged across Amsterdam, Athens, Barcelona and Belfast and 37 more. Often billed alongside Steffi, AMEX (UK) and APP. Next up: The White Hotel, Manchester on Sat 25 Jul.
 
 ## Upcoming shows
 
@@ -15,11 +15,11 @@ Virginia is a house and techno artist tracked on soundcheck, with 135 sets logge
 | Sat, 25 Jul 2026 | 516 S Anderson Street | Los Angeles |
 | Sat, 25 Jul 2026 | Under the K Bridge | New York City |
 | Sat, 25 Jul 2026 | Quantum | New York City |
+| Sat, 25 Jul 2026 | Ziegrastraße 11 | Berlin |
 | Sat, 25 Jul 2026 | 45 East | Portland |
 | Sat, 25 Jul 2026 | 618 DC | Washington DC |
 | Sat, 25 Jul 2026 | 714 | Philadelphia |
 | Sat, 25 Jul 2026 | 17 Little Portland Street | London |
-| Sat, 25 Jul 2026 | Unit 58 | London |
 
 ## Recently played
 
@@ -34,6 +34,6 @@ Virginia is a house and techno artist tracked on soundcheck, with 135 sets logge
 
 ## Shares bills with
 
-Steffi, BASHKKA, Blasha & Allatt
+Steffi, AMEX (UK), APP
 
 *Updated Wed, 22 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/virginia/)*

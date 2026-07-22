@@ -11,7 +11,7 @@ Ritter Butzke is a music venue in Berlin listed on soundcheck. 22 upcoming night
 | Fri, 24 Jul 2026 | SMUDGE Berlin - Flinta* Pride Opening | CHIEF QUEEF, DJ Eivissa, FRZNTE, Nissa Carrington, Slimgirl fat, yung_womb |
 | Sat, 25 Jul 2026 | House of Pride - Official Berlin Pride Main Party | Alma Negrot, BEC, Butchqueen.fm, DJ SEXSTASY, Darwin Stapel, EMI (6), Francis, GIO THELLO, KRISHAWN, Katy Bähm, LOVRA, Litney, Lixi, Nikita, Prismode, SCHAARUP, Solvane, VRTL, futurristic, hi.gay, mandhla |
 | Sat, 1 Aug 2026 | Super Flu (Open Air) - free entry until 7pm | Aaron Suiss, MUKKIMIAU, Max Joni, Super Flu |
-| Sat, 1 Aug 2026 | Foster The People presents FTP (DJ Set) - Ritter Butzke - 01.08.2026 | Foster The People |
+| Sat, 1 Aug 2026 | Foster The People presents FTP (DJ Set) - Ritter Butzke - 01.08.2026 | Foster The People, Manu Strasse, Svensøn |
 | Sat, 8 Aug 2026 | ZERB |  |
 | Sat, 8 Aug 2026 | Eli & Fur pres Dreams at Dusk (Open Air) | Eli & Fur |
 | Fri, 14 Aug 2026 | Keep My Letters | Hyunji-A, Max Hendricks, Rikken, Simon Vuarambon, Tantum |

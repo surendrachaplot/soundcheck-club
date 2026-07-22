@@ -1,8 +1,8 @@
 # LockOut
 
-LockOut is a Drum & Bass and Dubstep artist with 13 upcoming club dates listed on soundcheck as of Wed, 22 Jul 2026, next at Institut fuer Zukunft (IfZ), Leipzig on Sat, 25 Jul 2026.
+LockOut is a Drum & Bass and Dubstep artist with 16 upcoming club dates listed on soundcheck as of Wed, 22 Jul 2026, next at Institut fuer Zukunft (IfZ), Leipzig on Sat, 25 Jul 2026.
 
-LockOut is a drum & bass and dubstep artist based in Canada, tracked on soundcheck, with 16 sets logged across Leipzig, London, Losangeles and Montreal and 4 more. Often billed alongside AMEX (UK), APP and Alaska (2). Next up: Institut fuer Zukunft (IfZ), Leipzig on Sat 25 Jul.
+LockOut is a drum & bass and dubstep artist based in Canada, tracked on soundcheck, with 19 sets logged across Berlin, Leipzig, London and Losangeles and 5 more. Often billed alongside AMEX (UK), APP and Alaska (2). Next up: Institut fuer Zukunft (IfZ), Leipzig on Sat 25 Jul.
 
 ## Upcoming shows
 
@@ -13,13 +13,13 @@ LockOut is a drum & bass and dubstep artist based in Canada, tracked on soundche
 | Sat, 25 Jul 2026 | 516 S Anderson Street | Los Angeles |
 | Sat, 25 Jul 2026 | Under the K Bridge | New York City |
 | Sat, 25 Jul 2026 | Quantum | New York City |
+| Sat, 25 Jul 2026 | Ziegrastraße 11 | Berlin |
 | Sat, 25 Jul 2026 | 45 East | Portland |
 | Sat, 25 Jul 2026 | 618 DC | Washington DC |
 | Sat, 25 Jul 2026 | 714 | Philadelphia |
 | Sat, 25 Jul 2026 | 17 Little Portland Street | London |
+| Sat, 25 Jul 2026 | Raum 20 | Berlin |
 | Sat, 25 Jul 2026 | Unit 58 | London |
-| Sat, 25 Jul 2026 | Queen's Yard | London |
-| Sat, 25 Jul 2026 | Electrowerkz | London |
 
 ## Recently played
 

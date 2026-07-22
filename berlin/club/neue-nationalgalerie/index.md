@@ -9,9 +9,9 @@ Neue Nationalgalerie is a music venue in Berlin listed on soundcheck. 6 upcoming
 | Date | Night | Line-up |
 | --- | --- | --- |
 | Sat, 25 Jul 2026 | CSD Warm-Up at Neue Nationalgalerie | Roi Perez |
-| Wed, 12 Aug 2026 | Sound in the Garden, Wednesday (Gigi Masin, upsammy, Valentina Magaletti) | Gigi Masin, Valentina Magaletti, upsammy |
-| Thu, 13 Aug 2026 | Sound in the Garden 2026, Thursday (Dopplereffekt, Space Afrika) | Dopplereffekt, Space Afrika |
-| Fri, 14 Aug 2026 | Sound in the Garden 2026, Friday (Hildur Guðnadóttir & Sam Slater / Slauson Malone 1) | Hildur Guðnadóttir |
+| Wed, 12 Aug 2026 | Sound in the Garden 2026, Day 1 | Gigi Masin, Valentina Magaletti, upsammy |
+| Thu, 13 Aug 2026 | Sound in the Garden 2026, Day 2 | Dopplereffekt, Space Afrika |
+| Fri, 14 Aug 2026 | Sound in the Garden 2026, Day 3 | Hildur Guðnadóttir |
 | Sat, 15 Aug 2026 | Sound in the Garden 2026, Saturday (Michael Rother, NEU!, Harmonia) | Michael Rother |
 | Thu, 20 Aug 2026 | UNCLOUDED #3 | Sound Metaphors Djs |
 

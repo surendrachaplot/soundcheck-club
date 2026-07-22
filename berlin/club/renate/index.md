@@ -13,7 +13,7 @@ Renate is a music venue in Berlin listed on soundcheck. 19 upcoming nights, with
 | Sat, 25 Jul 2026 | FRIENDS WITH BENEFITS (CSD Renate takeover by 131BPM x Golosa x Homodrop) | 131bpm, ALP (DE), Aaron Blau, Anna Almani, Cheriii, Cooper Cooper, Dgeral, Dj handbag, Electrosexual, Flemish.Fetish, HENNY (2), JAM JAM, James Lotion, Mashyno, Posture, Sherø, Sub Sahara, ZANNT, angelboy, puppy |
 | Thu, 30 Jul 2026 | Renate x Dollhaus | Ayolxi, Gabrielle (DE), KLEA, Taurean |
 | Fri, 31 Jul 2026 | Renate Klubnacht + Open Air (Free Entry) with Craigie Knowes & Phuong Dan | Craigie Knowes, DJ Life, Dream_E, Eliza (2), Lyla, Nimb, Phuong Dan, The Burrell Connection, kairavi |
-| Sat, 1 Aug 2026 | Renate Klubnacht + Open Air (Free Entry) | Aidan, Clovis, Edgar Peng, Enzio Etchaberri, Harrison (2), Harrison (UK), João Comazzi, Lush Lab, Richii |
+| Sat, 1 Aug 2026 | Renate Klubnacht + Open Air (Free Entry) w/ FEIERAMT & Lush Lab | Aidan, CSILLA, Clovis, EMIRA, Edgar Peng, Enzio Etchaberri, Harrison (2), Harrison (UK), Heka, João Comazzi, Leo Roskovec, Lush Lab, Maris Shilton, Richii, Tristan Blach |
 | Thu, 6 Aug 2026 | Renate x Neer x Kollektiv Lost-In |  |
 | Fri, 7 Aug 2026 | Renate Klubnacht + Open Air (Free Entry) with Acid Reflux, Rings of Neptune & SERA | Cleymoore, Delta Division, Mruda, N ska, NOB (1), SERA (2), So-Fi |
 | Sat, 8 Aug 2026 | Renate Klubnacht + Open Air (Free Entry) w/ Flight Mode, CURA Berlin x Muster | Aceedo, Adis Is OK, Bon Public, Dan Harris, Iris Leidenschaft, Kat Davids, MASCHA, Manta, UMBRA, Ursula Prawn, Vio PRG, babxi |

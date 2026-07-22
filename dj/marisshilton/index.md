@@ -1,14 +1,15 @@
 # Maris Shilton
 
-Maris Shilton is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Wed, 22 Jul 2026, next at Le 211, Paris on Fri, 24 Jul 2026.
+Maris Shilton is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Wed, 22 Jul 2026, next at Le 211, Paris on Fri, 24 Jul 2026.
 
-Maris Shilton is a techno and house artist tracked on soundcheck, with 67 sets logged across Berlin, Frankfurt, Paris and Stockholm and 2 more. Often billed alongside Mara Menace, Jessie Granqvist and Sicion. Next up: Le 211, Paris on Fri 24 Jul.
+Maris Shilton is a techno and house artist tracked on soundcheck, with 68 sets logged across Berlin, Frankfurt, Paris and Stockholm and 2 more. Often billed alongside Mara Menace, Jessie Granqvist and Sicion. Next up: Le 211, Paris on Fri 24 Jul.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 24 Jul 2026 | Le 211 | Paris |
+| Sat, 1 Aug 2026 | Renate | Berlin |
 | Sat, 22 Aug 2026 | ÆDEN | Berlin |
 
 ## Recently played

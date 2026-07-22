@@ -3144,8 +3144,12 @@
       .pfh-ribbon{ background:var(--surface); padding:0 9px; }   /* cells pad 9px → numbers land on the 18px gutter */
       .pf-box{ padding:15px var(--gut); }
       .pf-suggest{ padding:16px var(--gut) 14px; }
-      /* home: the grid itself is the band; rows go flat with hairline separators */
-      #grid{ background:var(--surface); margin:6px calc(-1 * var(--gut)) 0;
+      /* home: the grid itself is the band; rows go flat with hairline separators.
+         The date strip gets the SAME breathing room above and below — the empty
+         .status placeholder (28px of nothing) collapses until it has a message. */
+      .status:empty{ display:none; }
+      .daterow{ margin:12px 0; }
+      #grid{ background:var(--surface); margin:0 calc(-1 * var(--gut));
         padding:4px calc(var(--gut) - 18px) 14px; gap:0; }
       .lvr, .gcard.evc.lvr{ background:none; border:0; border-radius:0; box-shadow:none; padding:10px 18px; }
       .lvr + .lvr, .gcard.evc.lvr + .gcard.evc.lvr{ border-top:1px solid var(--border); }
@@ -3164,7 +3168,7 @@
     }
     @media (max-width:620px){ :root{ --gut:18px; } }
 </style>
-<meta name="sc-build" content="1784718592648">
+<meta name="sc-build" content="1784718994666">
 </head>
 <body>
   <main class="wrap">

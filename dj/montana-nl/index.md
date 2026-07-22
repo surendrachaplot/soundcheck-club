@@ -1,8 +1,8 @@
 # Montana
 
-Montana is a Techno and House artist with 13 upcoming club dates listed on soundcheck as of Wed, 22 Jul 2026, next at Institut fuer Zukunft (IfZ), Leipzig on Sat, 25 Jul 2026.
+Montana is a Techno and House artist with 16 upcoming club dates listed on soundcheck as of Wed, 22 Jul 2026, next at Institut fuer Zukunft (IfZ), Leipzig on Sat, 25 Jul 2026.
 
-Montana is a techno and house artist tracked on soundcheck, with 96 sets logged across Amsterdam, Antwerp, Bali and Barcelona and 28 more. Often billed alongside Dana Montana, AMEX (UK) and APP. Next up: Institut fuer Zukunft (IfZ), Leipzig on Sat 25 Jul.
+Montana is a techno and house artist tracked on soundcheck, with 99 sets logged across Amsterdam, Antwerp, Bali and Barcelona and 28 more. Often billed alongside Dana Montana, AMEX (UK) and APP. Next up: Institut fuer Zukunft (IfZ), Leipzig on Sat 25 Jul.
 
 ## Upcoming shows
 
@@ -13,13 +13,13 @@ Montana is a techno and house artist tracked on soundcheck, with 96 sets logged 
 | Sat, 25 Jul 2026 | 516 S Anderson Street | Los Angeles |
 | Sat, 25 Jul 2026 | Under the K Bridge | New York City |
 | Sat, 25 Jul 2026 | Quantum | New York City |
+| Sat, 25 Jul 2026 | Ziegrastraße 11 | Berlin |
 | Sat, 25 Jul 2026 | 45 East | Portland |
 | Sat, 25 Jul 2026 | 618 DC | Washington DC |
 | Sat, 25 Jul 2026 | 714 | Philadelphia |
 | Sat, 25 Jul 2026 | 17 Little Portland Street | London |
+| Sat, 25 Jul 2026 | Raum 20 | Berlin |
 | Sat, 25 Jul 2026 | Unit 58 | London |
-| Sat, 25 Jul 2026 | Queen's Yard | London |
-| Sat, 25 Jul 2026 | Electrowerkz | London |
 
 ## Recently played
 
