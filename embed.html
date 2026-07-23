@@ -1,0 +1,84 @@
+<!doctype html>
+<html>
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">
+<title>soundcheck player</title>
+<!--
+  Same-origin YouTube host ("/embed proxy") for the native app.
+
+  WHY: in a WKWebView, YouTube's IFrame API can throw error 150/153 for an iframe
+  injected directly into the SPA (the WebView strips the Referer). Loading the player
+  from THIS self-hosted page gives YouTube a clean, same-origin referrer chain, which
+  is the community-proven fix. The native dock points an <iframe src="/embed.html?v=ID&t=SEC">
+  here and talks to it over postMessage.
+
+  Usage:  /embed.html?v=<videoId>&t=<startSeconds>&autoplay=1
+  Parent → this page (postMessage): {sc:'play'|'pause'|'toggle'} , {sc:'seek', t:<sec>}
+  This page → parent (postMessage): {sc:'ready', dur}, {sc:'state', playing}, {sc:'time', pos, dur}, {sc:'ended'}
+-->
+<style>
+  html,body{margin:0;height:100%;background:#000;overflow:hidden}
+  #p{position:absolute;inset:0;width:100%;height:100%;border:0}
+</style>
+</head>
+<body>
+<div id="p"></div>
+<script>
+  var q = new URLSearchParams(location.search);
+  var VIDEO = (q.get('v') || '').replace(/[^A-Za-z0-9_-]/g, '');
+  var START = Math.max(0, parseInt(q.get('t') || '0', 10) || 0);
+  var AUTOPLAY = q.get('autoplay') !== '0';
+  var player = null, ready = false, pollTimer = null;
+
+  function send(msg) { try { parent.postMessage(Object.assign({ from: 'sc-embed' }, msg), '*'); } catch (e) {} }
+
+  // load the IFrame API
+  var s = document.createElement('script');
+  s.src = 'https://www.youtube.com/iframe_api';
+  document.head.appendChild(s);
+
+  window.onYouTubeIframeAPIReady = function () {
+    player = new YT.Player('p', {
+      videoId: VIDEO,
+      playerVars: {
+        enablejsapi: 1, playsinline: 1, controls: 0, rel: 0, modestbranding: 1,
+        iv_load_policy: 3, cc_load_policy: 0, fs: 0, disablekb: 1,
+        autoplay: AUTOPLAY ? 1 : 0, start: START, origin: location.origin,
+      },
+      events: {
+        onReady: function (e) {
+          ready = true;
+          if (AUTOPLAY) { try { e.target.playVideo(); } catch (_) {} }
+          send({ sc: 'ready', dur: dur() });
+          startPoll();
+        },
+        onStateChange: function (e) {
+          var st = e.data;
+          if (st === YT.PlayerState.PLAYING || st === YT.PlayerState.BUFFERING) send({ sc: 'state', playing: true });
+          else if (st === YT.PlayerState.PAUSED || st === YT.PlayerState.CUED || st === YT.PlayerState.UNSTARTED) send({ sc: 'state', playing: false });
+          else if (st === YT.PlayerState.ENDED) send({ sc: 'ended' });
+        },
+        onError: function (e) { send({ sc: 'error', code: e.data }); },
+      },
+    });
+  };
+
+  function dur() { try { return player && player.getDuration ? (player.getDuration() || 0) : 0; } catch (_) { return 0; } }
+  function pos() { try { return player && player.getCurrentTime ? (player.getCurrentTime() || 0) : 0; } catch (_) { return 0; } }
+  function startPoll() { if (pollTimer) return; pollTimer = setInterval(function () { if (ready) send({ sc: 'time', pos: pos(), dur: dur() }); }, 500); }
+
+  // parent → this page: transport commands
+  window.addEventListener('message', function (e) {
+    var d = e.data; if (!d || !d.sc || !player) return;
+    try {
+      if (d.sc === 'play') player.playVideo();
+      else if (d.sc === 'pause') player.pauseVideo();
+      else if (d.sc === 'toggle') { (player.getPlayerState() === 1) ? player.pauseVideo() : player.playVideo(); }
+      else if (d.sc === 'seek' && d.t != null) player.seekTo(Math.max(0, +d.t), true);
+      else if (d.sc === 'load' && d.v) player.loadVideoById({ videoId: String(d.v).replace(/[^A-Za-z0-9_-]/g, ''), startSeconds: Math.max(0, +(d.t || 0)) });
+    } catch (_) {}
+  });
+</script>
+</body>
+</html>
