@@ -3175,7 +3175,7 @@
     }
     @media (max-width:620px){ :root{ --gut:18px; } }
 </style>
-<meta name="sc-build" content="1784832971633">
+<meta name="sc-build" content="1784833889583">
 </head>
 <body>
   <main class="wrap">
@@ -3781,7 +3781,7 @@
       if(typeof radio!=='undefined' && radio.on) radioStop();   // taking over from the radio
       // Clear the previously-playing button if we're switching tracks.
       if(active && active.button && active.button!==btn){ active.button.classList.remove('playing'); setState(active.button,'▶'); }
-      var start=Math.max(0,Math.floor(startSec||360)); // default 6:00 — a wink to "6 Minutes"
+      var start=Math.max(0,Math.floor(startSec==null?360:startSec)); // default 6:00 (a wink to "6 Minutes"); sec:0 = start at the top (tracks)
       var f=document.getElementById('yt-player');
       // REUSE the persistent player when it's alive & ready: loadVideoById runs
       // inside this tap, so mobile autoplay is allowed — no second press needed.
@@ -7071,7 +7071,7 @@
             ytBox.querySelectorAll('[data-shl]').forEach(function(b){ b.addEventListener('click',function(){ shelfClick(+b.dataset.shl,'listened'); }); });
           }).catch(function(){ _ytDone=true; ytBox.innerHTML=''; settleEmpty(); });
           // ── SoundCloud sets (the artist's long-form mixes) — appended below, played via the SC widget ──
-          fetch(API_BASE+'/api/soundcloud/sets?slug='+encodeURIComponent(slug)).then(function(r){ return r.ok?r.json():null; }).then(function(j){
+          fetch(API_BASE+'/api/soundcloud/sets?slug='+encodeURIComponent(slug)+'&name='+encodeURIComponent(a.name||slug)).then(function(r){ return r.ok?r.json():null; }).then(function(j){
             var scs=(j&&j.sets)||[]; _scDone=true;
             if(!scs.length){ settleEmpty(); return; }
             _scHas=true;
@@ -7122,7 +7122,15 @@
                 var qi=tkQ.findIndex(function(t){ return t.videoId===vid && String(t.sec)===sec; });
                 playYtList(tkQ, qi<0?0:qi);
               }
-              else { window.open('https://www.youtube.com/results?search_query='+encodeURIComponent(row.dataset.q),'_blank','noopener'); }
+              else {
+                // No timestamped drop → resolve the first YouTube result and play it in the dock (from the start).
+                var q=row.dataset.q; if(!q) return;
+                try{ loadYtApi(); }catch(_){}
+                fetch(API_BASE+'/api/youtube/track?q='+encodeURIComponent(q)).then(function(r){ return r.ok?r.json():null; }).then(function(j){
+                  if(j&&j.videoId){ scQ=null; handleYtClick(synthYtBtn({ slug:slug, name:q, videoId:j.videoId, sec:0, kind:'track', artist:(a.name||slug), poster:(a.image||'') })); }
+                  else { showToast('Couldn’t find “'+q+'” on YouTube.'); }
+                }).catch(function(){ showToast('Couldn’t load that track.'); });
+              }
             }); });
           }).catch(function(){ if(box) box.innerHTML='<div class="fp-sets-empty">Couldn’t load tracks.</div>'; });
         }
