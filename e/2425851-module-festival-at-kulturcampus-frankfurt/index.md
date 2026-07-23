@@ -1,6 +1,6 @@
 # Module Festival at Kulturcampus Frankfurt
 
-Module Festival at Kulturcampus Frankfurt on Thu 13 Aug, Frankfurt. 18 acts on the bill: Bambi (FR), C.K, Elvira and FAFF and 14 more. House and Electronica. Preview the line-up and save it on soundcheck.
+Module Festival at Kulturcampus Frankfurt on Thu 13 Aug, Frankfurt. 19 acts on the bill: Bambi (FR), Bibi Seck, C.K and Elvira and 15 more. House and Electronica. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -11,6 +11,7 @@ Module Festival at Kulturcampus Frankfurt on Thu 13 Aug, Frankfurt. 18 acts on t
 ## Line-up
 
 - Bambi (FR)
+- Bibi Seck
 - C.K
 - Elvira
 - FAFF

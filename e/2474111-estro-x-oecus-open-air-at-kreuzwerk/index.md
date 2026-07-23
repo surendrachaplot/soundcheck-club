@@ -1,6 +1,6 @@
 # ESTRO x OECUS Open Air at KREUZWERK
 
-ESTRO x OECUS Open Air at KREUZWERK on Sun 16 Aug, Berlin. 4 acts on the bill: GLIA, Maōh, Pink Concrete and Regent. Techno and House. Preview the line-up and save it on soundcheck.
+ESTRO x OECUS Open Air at KREUZWERK on Sun 16 Aug, Berlin. 5 acts on the bill: 18:18, GLIA, Maōh and Pink Concrete and 1 more. Techno and House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,6 +10,7 @@ ESTRO x OECUS Open Air at KREUZWERK on Sun 16 Aug, Berlin. 4 acts on the bill: G
 
 ## Line-up
 
+- 18:18
 - GLIA
 - Maōh
 - Pink Concrete

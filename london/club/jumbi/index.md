@@ -1,0 +1,24 @@
+# Jumbi
+
+Jumbi is a music venue in London with 8 upcoming nights listed on soundcheck as of Thu, 23 Jul 2026; the next is "Jumbi 4th Birthday Warehouse Bash (Jumbi and Unit 08)" on Sat, 25 Jul 2026.
+
+Jumbi is a music venue in London listed on soundcheck. 8 upcoming nights, with line-ups including dare balogun, Derrick Carter, Glade Marie and Jitwam and 2 more. Browse upcoming dates, start times and who's playing. Unit 4.1, Copeland Park, 133 Copeland Rd, London SE15 3SN.
+
+## What's on
+
+| Date | Night | Line-up |
+| --- | --- | --- |
+| Sat, 25 Jul 2026 | Jumbi 4th Birthday Warehouse Bash (Jumbi and Unit 08) | Glade Marie, Martelo, Maxwell Owin, Mia Koden, No Requests, Saige Sounds, Selassie TBC, Tiffany Calver, dare balogun |
+| Thu, 30 Jul 2026 | Jus Now presents - CouSouMay (A West Indian Celebration of Freedom) | Jus Now |
+| Fri, 31 Jul 2026 | Jumbi Friday Dance: LIZEY LUVZ |  |
+| Sat, 1 Aug 2026 | Daytime Dance: Katy B (DJ Set) | Jumping Jack Frost, Katy B, Lady Passion, Lily London |
+| Sun, 2 Aug 2026 | Daytime Dance: GAUCHOWORLD |  |
+| Sat, 8 Aug 2026 | Jumbi Day Party: CIRCULATE with Shy One, Jitwam + Afterparty at Phonox | Derrick Carter, Jitwam, Maria Hanlon, Shy One |
+| Fri, 21 Aug 2026 | Jumbi Friday Dance: Black Whine Dance |  |
+| Fri, 25 Sept 2026 | Jumbi Friday Dance: Black Whine Dance |  |
+
+## Address
+
+Unit 4.1, Copeland Park, 133 Copeland Rd, London SE15 3SN, London
+
+*Updated Thu, 23 Jul 2026 · source: [soundcheck](https://soundcheck.club/london/club/jumbi/)*

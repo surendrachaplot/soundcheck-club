@@ -1,6 +1,6 @@
 # Stacked x LOST: with Upper90 b2b Baron Von Trax & KAVARI at Wigwam
 
-Stacked x LOST: with Upper90 b2b Baron Von Trax & KAVARI at Wigwam on Sat 25 Jul, Dublin. 4 acts on the bill: Baron Von Trax, KAVARI, Máthair and Upper90. Trance and Bass. Preview the line-up and save it on soundcheck.
+Stacked x LOST: with Upper90 b2b Baron Von Trax & KAVARI at Wigwam on Sat 25 Jul, Dublin. 5 acts on the bill: Baron Von Trax, KAVARI, Máthair and Upper90 and 1 more. Trance and Bass. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -14,5 +14,6 @@ Stacked x LOST: with Upper90 b2b Baron Von Trax & KAVARI at Wigwam on Sat 25 Jul
 - KAVARI
 - Máthair
 - Upper90
+- charlois
 
 *Source: [soundcheck](https://soundcheck.club/e/2436349-stacked-x-lost-with-upper90-b2b-baron-von-trax-kavari-at-wig/)*

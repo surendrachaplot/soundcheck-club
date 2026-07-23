@@ -1,6 +1,6 @@
 # Bass Resistance. 3 Years w/ mi-el, Minor Science, Wordcolour at M01
 
-Bass Resistance. 3 Years w/ mi-el, Minor Science, Wordcolour at M01 on Sat 25 Jul, Berlin. 7 acts on the bill: Ann Mysochka, Habitat Shaking, Minor Science and Terikon and 3 more. Bass and Club. Preview the line-up and save it on soundcheck.
+Bass Resistance. 3 Years w/ mi-el, Minor Science, Wordcolour at M01 on Sat 25 Jul, Berlin. 8 acts on the bill: Ann Mysochka, Habitat Shaking, Konakov and Minor Science and 4 more. Bass and Club. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -12,6 +12,7 @@ Bass Resistance. 3 Years w/ mi-el, Minor Science, Wordcolour at M01 on Sat 25 Ju
 
 - Ann Mysochka
 - Habitat Shaking
+- Konakov
 - Minor Science
 - Terikon
 - Udda

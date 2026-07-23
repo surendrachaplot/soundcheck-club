@@ -1,0 +1,25 @@
+# The Social
+
+The Social is a music venue in London with 9 upcoming nights listed on soundcheck as of Thu, 23 Jul 2026; the next is "LOCALISM: Summer Forest" on Fri, 24 Jul 2026.
+
+The Social is a music venue in London listed on soundcheck. 9 upcoming nights, with line-ups including AUDIO DUNE, fAt-lÏP, Jason Regan and Jenny Twenty and 2 more. Browse upcoming dates, start times and who's playing. 5 Little Portland Street; Fitzrovia; London W1W 7JD; United Kingdom.
+
+## What's on
+
+| Date | Night | Line-up |
+| --- | --- | --- |
+| Fri, 24 Jul 2026 | LOCALISM: Summer Forest |  |
+| Fri, 31 Jul 2026 | LOCALISM: Boggy |  |
+| Thu, 6 Aug 2026 | Afters: Prinks Afterparty | AUDIO DUNE, fAt-lÏP |
+| Fri, 7 Aug 2026 | LOCALISM: Grizzle (Tom Caslin) |  |
+| Fri, 14 Aug 2026 | LOCALISM: Kate Hutchinson | Kate Hutchinson |
+| Fri, 21 Aug 2026 | LOCALISM: Jenny Twenty | Jenny Twenty |
+| Sat, 22 Aug 2026 | UNDR SOUNDS LONDON |  |
+| Fri, 28 Aug 2026 | LOCALISM: Toshiki Ohta | Toshiki Ohta |
+| Sat, 17 Oct 2026 | Lost In Disco | Jason Regan, The Sheen Resistance |
+
+## Address
+
+5 Little Portland Street; Fitzrovia; London W1W 7JD; United Kingdom, London
+
+*Updated Thu, 23 Jul 2026 · source: [soundcheck](https://soundcheck.club/london/club/the-social/)*

@@ -1,6 +1,6 @@
 # O Days 2026 at Sønder Hoved
 
-O Days 2026 at Sønder Hoved on Thu 30 Jul, Copenhagen. 20 acts on the bill: Astrid Engberg, Bambii, Buraka Som Sistema and Courtesy and 16 more. Preview the line-up and save it on soundcheck.
+O Days 2026 at Sønder Hoved on Thu 30 Jul, Copenhagen. 21 acts on the bill: Astrid Engberg, Bambii, Buraka Som Sistema and Chase & Status and 17 more. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -13,6 +13,7 @@ O Days 2026 at Sønder Hoved on Thu 30 Jul, Copenhagen. 20 acts on the bill: Ast
 - Astrid Engberg
 - Bambii
 - Buraka Som Sistema
+- Chase & Status
 - Courtesy
 - Disclosure
 - Elsked

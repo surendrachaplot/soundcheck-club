@@ -1,6 +1,6 @@
 # After the Parade by Weltenphase & Plan H:echt at TBA
 
-After the Parade by Weltenphase & Plan H:echt at TBA on Sat 15 Aug, Berlin. 13 acts on the bill: ASK:ME, Andree Wischnewski, EVE (1) and Haito and 9 more. Techno and Hardcore. Preview the line-up and save it on soundcheck.
+After the Parade by Weltenphase & Plan H:echt at TBA on Sat 15 Aug, Berlin. 14 acts on the bill: ASK:ME, Andree Wischnewski, EVE (1) and Haito and 10 more. Techno and Hardcore. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -14,6 +14,7 @@ After the Parade by Weltenphase & Plan H:echt at TBA on Sat 15 Aug, Berlin. 13 a
 - Andree Wischnewski
 - EVE (1)
 - Haito
+- Jil Tanner
 - Kaminka Merel
 - Kopflos
 - Königsmann

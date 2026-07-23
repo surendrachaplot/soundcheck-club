@@ -1,6 +1,6 @@
 # Take it Outside at The Bridge
 
-Take it Outside at The Bridge on Sat 8 Aug, Losangeles. 10 acts on the bill: Dick Ensalada, Dor Wand, Heidi Lawden and Lovefingers and 6 more. House and Balearic. Preview the line-up and save it on soundcheck.
+Take it Outside at The Bridge on Sat 8 Aug, Losangeles. 11 acts on the bill: Dick Ensalada, Dor Wand, Heidi Lawden and Juliet Mendoza and 7 more. House and Balearic. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -13,6 +13,7 @@ Take it Outside at The Bridge on Sat 8 Aug, Losangeles. 10 acts on the bill: Dic
 - Dick Ensalada
 - Dor Wand
 - Heidi Lawden
+- Juliet Mendoza
 - Lovefingers
 - Masha Mar
 - Natuta

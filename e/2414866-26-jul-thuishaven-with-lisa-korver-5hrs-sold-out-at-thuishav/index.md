@@ -1,6 +1,6 @@
 # 26 JUL - Thuishaven with Lisa Korver 5HRS SOLD OUT at Thuishaven
 
-26 JUL - Thuishaven with Lisa Korver 5HRS SOLD OUT on Sun 26 Jul, Amsterdam. 6 acts on the bill: DJ AYA, GMOZ, Lisa Korver and Luke Hovey and 2 more. Preview the line-up and save it on soundcheck.
+26 JUL - Thuishaven with Lisa Korver 5HRS SOLD OUT on Sun 26 Jul, Amsterdam. 8 acts on the bill: DJ AYA, GMOZ, LUMINE and Lisa Korver and 4 more. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -12,8 +12,10 @@
 
 - DJ AYA
 - GMOZ
+- LUMINE
 - Lisa Korver
 - Luke Hovey
+- Milow (2)
 - Schwesta P
 - Vie Aimee
 

@@ -1,6 +1,6 @@
 # Else x Hotlord Fest presented by LOVEFOXY at Else
 
-Else x Hotlord Fest presented by LOVEFOXY on Fri 14 Aug, Berlin. 3 acts on the bill: Bambounou, Kevin Saunderson and LOVEFOXY. Techno and House. Preview the line-up and save it on soundcheck.
+Else x Hotlord Fest presented by LOVEFOXY on Fri 14 Aug, Berlin. 4 acts on the bill: Bambounou, Kevin Saunderson, LACATY and LOVEFOXY. Techno and House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -12,6 +12,7 @@ Else x Hotlord Fest presented by LOVEFOXY on Fri 14 Aug, Berlin. 3 acts on the b
 
 - Bambounou
 - Kevin Saunderson
+- LACATY
 - LOVEFOXY
 
 *Source: [soundcheck](https://soundcheck.club/e/2489595-else-x-hotlord-fest-presented-by-lovefoxy-at-else/)*

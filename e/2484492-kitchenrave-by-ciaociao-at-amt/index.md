@@ -1,6 +1,6 @@
 # Kitchenrave by CiaoCiao at AMT
 
-Kitchenrave by CiaoCiao at AMT on Fri 7 Aug, Berlin. 9 acts on the bill: Annina, BAHAA AL DEEN, Blosvenn and Jana Falcon and 5 more. Techno and House. Preview the line-up and save it on soundcheck.
+Kitchenrave by CiaoCiao at AMT on Fri 7 Aug, Berlin. 10 acts on the bill: Annina, BAHAA AL DEEN, Blosvenn and Jana Falcon and 6 more. Techno and House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -18,6 +18,7 @@ Kitchenrave by CiaoCiao at AMT on Fri 7 Aug, Berlin. 9 acts on the bill: Annina,
 - Lobby (FR)
 - Mila Stern
 - Radio Marrakech
+- SURCO
 - Varia Aves
 
 *Source: [soundcheck](https://soundcheck.club/e/2484492-kitchenrave-by-ciaociao-at-amt/)*

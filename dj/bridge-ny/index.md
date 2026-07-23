@@ -1,0 +1,32 @@
+# Bridge (NY)
+
+Bridge (NY) is a House and Disco artist with 5 upcoming club dates listed on soundcheck as of Thu, 23 Jul 2026, next at Maria Hernandez Park, New York City on Sat, 25 Jul 2026.
+
+Bridge (NY) is a house and disco artist based in United States of America, tracked on soundcheck, with 43 sets logged across Boston, Newyorkcity, Paris and Seattle and 2 more. Often billed alongside CRVM, Wolf Spritzer and DJ Shannon. Next up: Maria Hernandez Park, Newyorkcity on Sat 25 Jul.
+
+## Upcoming shows
+
+| Date | Venue | City |
+| --- | --- | --- |
+| Sat, 25 Jul 2026 | Maria Hernandez Park | New York City |
+| Sun, 2 Aug 2026 | Nowadays | New York City |
+| Sat, 15 Aug 2026 | House of Yes | New York City |
+| Sat, 22 Aug 2026 | Elsewhere | New York City |
+| Sat, 26 Sept 2026 | Sacré | Paris |
+
+## Recently played
+
+- TBA - The Jack, 74 S Jackson St, Seattle, WA 98104, Seattle — Sat, 18 Jul 2026
+- Legacy, Boston — Sat, 11 Jul 2026
+- Vera Cocina & بار, Washington DC — Sun, 21 Jun 2026
+- 821 Runnymede Rd, Toronto — Sat, 13 Jun 2026
+- Knockdown Center, New York City — Sat, 6 Jun 2026
+- TBA - Conwell Hall, New York City — Sat, 30 May 2026
+- Eden NYC, New York City — Fri, 8 May 2026
+- Nowadays, New York City — Thu, 7 May 2026
+
+## Shares bills with
+
+CRVM, Wolf Spritzer, DJ Shannon
+
+*Updated Thu, 23 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/bridge-ny/)*

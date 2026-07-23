@@ -1,6 +1,6 @@
 # Forest Gathering at TBA
 
-Forest Gathering at TBA on Sat 1 Aug, London. 2 acts on the bill: Duat and Kling. Techno and Psytrance. Preview the line-up and save it on soundcheck.
+Forest Gathering at TBA on Sat 1 Aug, London. 3 acts on the bill: Duat, Duwat? and Kling. Techno and Psytrance. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -11,6 +11,7 @@ Forest Gathering at TBA on Sat 1 Aug, London. 2 acts on the bill: Duat and Kling
 ## Line-up
 
 - Duat
+- Duwat?
 - Kling
 
 *Source: [soundcheck](https://soundcheck.club/e/2493767-forest-gathering-at-tba/)*

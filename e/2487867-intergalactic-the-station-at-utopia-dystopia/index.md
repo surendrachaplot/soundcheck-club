@@ -1,6 +1,6 @@
 # INTERGALACTIC: THE STATION at UTOPIA / DYSTOPIA
 
-INTERGALACTIC: THE STATION at UTOPIA / DYSTOPIA on Fri 24 Jul, Tokyo. 9 acts on the bill: Anapol, Daniel Merlot, Drinkss and KanaK and 5 more. Techno and Tech House. Preview the line-up and save it on soundcheck.
+INTERGALACTIC: THE STATION at UTOPIA / DYSTOPIA on Fri 24 Jul, Tokyo. 10 acts on the bill: Anapol, Daniel Merlot, Drinkss and KanaK and 6 more. Techno and Tech House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -18,6 +18,7 @@ INTERGALACTIC: THE STATION at UTOPIA / DYSTOPIA on Fri 24 Jul, Tokyo. 9 acts on 
 - Santamaria
 - Sante Visioni
 - Sojourna
+- Takumi's Afterparty
 - avion__
 
 *Source: [soundcheck](https://soundcheck.club/e/2487867-intergalactic-the-station-at-utopia-dystopia/)*

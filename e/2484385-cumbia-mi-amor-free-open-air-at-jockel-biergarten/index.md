@@ -1,6 +1,6 @@
 # CUMBIA MI AMOR - FREE OPEN AIR at Jockel Biergarten
 
-CUMBIA MI AMOR - FREE OPEN AIR at Jockel Biergarten on Sat 1 Aug, Berlin. 1 act on the bill: ORIOL //. Preview the line-up and save it on soundcheck.
+CUMBIA MI AMOR - FREE OPEN AIR at Jockel Biergarten on Sat 1 Aug, Berlin. 1 act on the bill: ORIOL //. Disco and Reggaeton. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

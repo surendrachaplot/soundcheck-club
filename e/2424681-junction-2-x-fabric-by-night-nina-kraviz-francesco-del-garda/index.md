@@ -1,6 +1,6 @@
 # Junction 2 x fabric by Night: Nina Kraviz, Francesco Del Garda, Peach, Pearson Sound, Polygonia at fabric
 
-Junction 2 x fabric by Night: Nina Kraviz, Francesco Del Garda, Peach, Pearson Sound, Polygonia on Sat 25 Jul, London. 8 acts on the bill: Anna Wall, Francesco Del Garda, GiGi FM and Nina Kraviz and 4 more. Preview the line-up and save it on soundcheck.
+Junction 2 x fabric by Night: Nina Kraviz, Francesco Del Garda, Peach, Pearson Sound, Polygonia on Sat 25 Jul, London. 9 acts on the bill: Anna Wall, ELODIE, Francesco Del Garda and GiGi FM and 5 more. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -11,6 +11,7 @@ Junction 2 x fabric by Night: Nina Kraviz, Francesco Del Garda, Peach, Pearson S
 ## Line-up
 
 - Anna Wall
+- ELODIE
 - Francesco Del Garda
 - GiGi FM
 - Nina Kraviz

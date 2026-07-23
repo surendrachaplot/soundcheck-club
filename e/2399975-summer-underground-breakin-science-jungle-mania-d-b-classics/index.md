@@ -1,6 +1,6 @@
 # Summer Underground - Breakin Science - Jungle Mania - D&B Classics at Eutopia Whs
 
-Summer Underground - Breakin Science - Jungle Mania - D&B Classics at Eutopia Whs on Sat 5 Sept, London. 28 acts on the bill: Benny L, Bladerunner, DJ Hazard and DJ Rap and 24 more. Drum & Bass and Jungle. Preview the line-up and save it on soundcheck.
+Summer Underground - Breakin Science - Jungle Mania - D&B Classics at Eutopia Whs on Sat 5 Sept, London. 30 acts on the bill: BassLayerz, Benny L, Bladerunner and DJ Hazard and 26 more. Drum & Bass and Jungle. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,6 +10,7 @@ Summer Underground - Breakin Science - Jungle Mania - D&B Classics at Eutopia Wh
 
 ## Line-up
 
+- BassLayerz
 - Benny L
 - Bladerunner
 - DJ Hazard
@@ -36,6 +37,7 @@ Summer Underground - Breakin Science - Jungle Mania - D&B Classics at Eutopia Wh
 - Shimon
 - Sub Zero
 - Uncle Dugs
+- Voltage
 - b-line
 - tnt (1)
 

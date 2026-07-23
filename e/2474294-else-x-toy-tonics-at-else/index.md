@@ -1,6 +1,6 @@
 # Else x Toy Tonics at Else
 
-Else x Toy Tonics on Sat 15 Aug, Berlin. 5 acts on the bill: Aroop Roy, Barbara Boeing, Max NRG Supply and Natalie Robinson and 1 more. House and Disco. Preview the line-up and save it on soundcheck.
+Else x Toy Tonics on Sat 15 Aug, Berlin. 7 acts on the bill: Aroop Roy, Barbara Boeing, Emilia Callari and Laurence Guy and 3 more. House and Disco. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -12,6 +12,8 @@ Else x Toy Tonics on Sat 15 Aug, Berlin. 5 acts on the bill: Aroop Roy, Barbara 
 
 - Aroop Roy
 - Barbara Boeing
+- Emilia Callari
+- Laurence Guy
 - Max NRG Supply
 - Natalie Robinson
 - Stump Valley

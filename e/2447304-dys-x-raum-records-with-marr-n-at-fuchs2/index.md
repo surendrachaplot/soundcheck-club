@@ -1,6 +1,6 @@
 # DYS x RAUM Records with MARRØN at Fuchs2
 
-DYS x RAUM Records with MARRØN at Fuchs2 on Fri 4 Sept, Prague. 9 acts on the bill: Colum Urton, GEISTFREI, MARRØN and Melchiorr and 5 more. Techno and Ambient. Preview the line-up and save it on soundcheck.
+DYS x RAUM Records with MARRØN at Fuchs2 on Fri 4 Sept, Prague. 10 acts on the bill: Colum Urton, GEISTFREI, MARRØN and Melchiorr and 6 more. Techno and Ambient. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -15,6 +15,7 @@ DYS x RAUM Records with MARRØN at Fuchs2 on Fri 4 Sept, Prague. 9 acts on the b
 - MARRØN
 - Melchiorr
 - Nepomuk
+- Nepōmuk
 - Verhall
 - White Aura
 - aláya

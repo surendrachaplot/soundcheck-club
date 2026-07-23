@@ -1,6 +1,6 @@
 # Piknic Électronik MTL #11: Daphni / KARABA & friends at Piknic Électronik / Parc Jean Drapeau
 
-Piknic Électronik MTL #11: Daphni / KARABA & friends at Piknic Électronik / Parc Jean Drapeau on Sun 26 Jul, Montreal. 6 acts on the bill: Daphni, KARABA, KidCrayola and Mansa and 2 more. Preview the line-up and save it on soundcheck.
+Piknic Électronik MTL #11: Daphni / KARABA & friends at Piknic Électronik / Parc Jean Drapeau on Sun 26 Jul, Montreal. 7 acts on the bill: Daphni, KARABA, KidCrayola and Mansa and 3 more. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -16,5 +16,6 @@ Piknic Électronik MTL #11: Daphni / KARABA & friends at Piknic Électronik / Pa
 - Mansa
 - Pleurire
 - Raef
+- Raef (US)
 
 *Source: [soundcheck](https://soundcheck.club/e/2413772-piknic-lectronik-mtl-11-daphni-karaba-friends-at-piknic-lect/)*

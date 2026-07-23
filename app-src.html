@@ -2690,6 +2690,9 @@
     .fp-sets-all:active{ transform:translateY(1px); }
     .fp-sets-grid{ display:grid; grid-template-columns:repeat(auto-fill,minmax(190px,1fr)); gap:16px 14px; }
     @media(max-width:560px){ .fp-sets-grid{ grid-template-columns:1fr 1fr; gap:14px 10px; } }
+    /* SoundCloud sets subsection inside the Sets tab */
+    .fp-sets-sch{ display:flex; align-items:center; gap:8px; margin:20px 0 12px; font:600 11px var(--font-mono); letter-spacing:.12em; text-transform:uppercase; color:var(--accent); }
+    .fp-sets-sch::before,.fp-sets-sch::after{ content:""; height:1px; background:var(--border); flex:1; }
     /* Tracks tab — ranked "most played in their sets" list */
     .fp-tracks{ padding:6px 18px 12px; }   /* 18px h-padding aligns content with the .fp-sech heading */
     .tk-list{ list-style:none; margin:0; padding:0; }
@@ -2794,8 +2797,9 @@
     /* ARTIST */
     .fp-artist .fp-hero{ display:grid; grid-template-columns:300px minmax(0,1fr); border:1px solid var(--border); border-radius:var(--radius-lg); overflow:hidden; background:var(--surface); }
     @media(max-width:720px){ .fp-artist .fp-hero{ grid-template-columns:minmax(0,1fr); } }
-    .fp-photo{ position:relative; border-right:1px solid var(--border); aspect-ratio:1; overflow:hidden; background:var(--surface-3); }
-    @media(max-width:720px){ .fp-photo{ border-right:0; border-bottom:1px solid var(--border); aspect-ratio:16/9; } }
+    /* fill the whole hero box (cover) rather than a fixed square that leaves a gap below */
+    .fp-photo{ position:relative; border-right:1px solid var(--border); height:100%; min-height:300px; overflow:hidden; background:var(--surface-3); }
+    @media(max-width:720px){ .fp-photo{ border-right:0; border-bottom:1px solid var(--border); height:auto; min-height:0; aspect-ratio:16/9; } }
     .fp-photo img{ width:100%; height:100%; object-fit:cover; display:block; }
     .fp-press-gen{ position:absolute; inset:0; }
     .fp-origin{ position:absolute; left:12px; bottom:12px; background:var(--accent); color:var(--accent-ink); border-radius:var(--radius-pill); font:800 10px var(--body); letter-spacing:.08em; text-transform:uppercase; padding:5px 11px; }
@@ -2870,8 +2874,9 @@
     @media(max-width:720px){ .fp-event .fp-ev-hero{ grid-template-columns:minmax(0,1fr); } }
     .fp-ev-pcol{ border-right:1px solid var(--border); position:relative; background:var(--surface-3); }
     @media(max-width:720px){ .fp-ev-pcol{ border-right:0; border-bottom:1px solid var(--border); } }
-    .fp-ev-poster{ aspect-ratio:1; background-size:cover; background-position:center; position:relative; }
-    @media(max-width:720px){ .fp-ev-poster{ aspect-ratio:16/9; } }
+    /* web: poster fills the whole hero box (covers, edge-to-edge) rather than a fixed square */
+    .fp-ev-poster{ height:100%; min-height:300px; background-size:cover; background-position:center; position:relative; }
+    @media(max-width:720px){ .fp-ev-poster{ height:auto; min-height:0; aspect-ratio:16/9; } }
     .fp-ev-stamp{ position:absolute; top:12px; left:12px; background:var(--accent); color:var(--accent-ink); border-radius:var(--radius-pill); font:800 10px var(--body); text-transform:uppercase; letter-spacing:.08em; padding:5px 11px; }
     .fp-ev-price{ position:absolute; left:12px; bottom:12px; background:rgba(22,16,42,.72); color:var(--fg); border-radius:var(--radius-pill); font:700 13px var(--body); padding:6px 12px; backdrop-filter:blur(6px); }
     .fp-ev-main{ padding:22px 24px; min-width:0; }
@@ -3170,7 +3175,7 @@
     }
     @media (max-width:620px){ :root{ --gut:18px; } }
 </style>
-<meta name="sc-build" content="1784729856147">
+<meta name="sc-build" content="1784832971633">
 </head>
 <body>
   <main class="wrap">
@@ -3218,7 +3223,7 @@
     <div class="grid" id="grid"></div>
     <!-- Per-city "what's on this week" date links, injected by build-club (canonical
          /<city>/<date>/ pages). Empty in the source; hidden on client-side city switch. -->
-    <section id="home-seo-more" class="home-seo-more" data-city="london"><h2>What&rsquo;s on in London this week</h2><ul class="home-seo-dates"><li><a href="/london/2026-07-22/">Wed 22 Jul <span class="c">12 events</span></a></li><li><a href="/london/2026-07-23/">Thu 23 Jul <span class="c">25 events</span></a></li><li><a href="/london/2026-07-24/">Fri 24 Jul <span class="c">83 events</span></a></li><li><a href="/london/2026-07-25/">Sat 25 Jul <span class="c">134 events</span></a></li><li><a href="/london/2026-07-26/">Sun 26 Jul <span class="c">19 events</span></a></li><li><a href="/london/2026-07-28/">Tue 28 Jul <span class="c">4 events</span></a></li><li><a href="/london/2026-07-29/">Wed 29 Jul <span class="c">13 events</span></a></li></ul><nav class="home-seo-nav" aria-label="More on soundcheck"><a href="/london/this-weekend/">This weekend in London</a> <a href="/london/scene/">London scene guide</a> <a href="/cities/">All 104 cities</a></nav></section>
+    <section id="home-seo-more" class="home-seo-more" data-city="london"><h2>What&rsquo;s on in London this week</h2><ul class="home-seo-dates"><li><a href="/london/2026-07-23/">Thu 23 Jul <span class="c">29 events</span></a></li><li><a href="/london/2026-07-24/">Fri 24 Jul <span class="c">86 events</span></a></li><li><a href="/london/2026-07-25/">Sat 25 Jul <span class="c">144 events</span></a></li><li><a href="/london/2026-07-26/">Sun 26 Jul <span class="c">20 events</span></a></li><li><a href="/london/2026-07-28/">Tue 28 Jul <span class="c">4 events</span></a></li><li><a href="/london/2026-07-29/">Wed 29 Jul <span class="c">13 events</span></a></li><li><a href="/london/2026-07-30/">Thu 30 Jul <span class="c">27 events</span></a></li></ul><nav class="home-seo-nav" aria-label="More on soundcheck"><a href="/london/this-weekend/">This weekend in London</a> <a href="/london/scene/">London scene guide</a> <a href="/cities/">All 104 cities</a></nav></section>
 
     <!-- Crawlable home content (H1 + intro) — moved to the bottom of the page. Still a real
          <h1> in the DOM so it's the page heading for SEO regardless of visual position.
@@ -7028,22 +7033,28 @@
         function loadSetsTab(){
           if(_setsLoaded) return; _setsLoaded=true;
           var box=document.getElementById('fp-sets'); if(!box) return;
+          box.innerHTML='<div id="fp-sets-yt"><div class="fp-sets-load">Loading sets…</div></div><div id="fp-sets-sc"></div>';
+          var ytBox=box.querySelector('#fp-sets-yt'), scBox=box.querySelector('#fp-sets-sc');
           function fmtDur(s){ s=Math.round(s||0); var h=Math.floor(s/3600), m=Math.floor((s%3600)/60), ss=s%60, p=function(n){ return String(n).padStart(2,'0'); }; return h? h+':'+p(m)+':'+p(ss) : m+':'+p(ss); }
+          var _ytDone=false,_scDone=false,_ytHas=false,_scHas=false;
+          function settleEmpty(){ if(_ytDone&&_scDone&&!_ytHas&&!_scHas){ box.innerHTML='<div class="fp-sets-empty">No full sets found for '+esc(a.name||slug)+' yet.</div>'; } }
+          // ── YouTube sets ──
           fetch(API_BASE+'/api/youtube/sets?slug='+encodeURIComponent(slug)+'&name='+encodeURIComponent(a.name||slug)).then(function(r){ return r.ok?r.json():null; }).then(function(j){
-            var sets=(j&&j.sets)||[];
-            if(!sets.length){ box.innerHTML='<div class="fp-sets-empty">No full sets found for '+esc(a.name||slug)+' yet.</div>'; return; }
+            var sets=(j&&j.sets)||[]; _ytDone=true;
+            if(!sets.length){ ytBox.innerHTML=''; settleEmpty(); return; }
+            _ytHas=true;
             var items=sets.map(function(s){ return { slug:slug, name:a.name||slug, title:s.title||'', videoId:s.videoId, poster:(a.image||'') }; });
-            box.innerHTML='<div class="fp-sets-grid">'+sets.map(function(s,i){ var th='https://i.ytimg.com/vi/'+encodeURIComponent(s.videoId)+'/mqdefault.jpg'; var d=s.duration?fmtDur(s.duration):'';
+            ytBox.innerHTML='<div class="fp-sets-grid">'+sets.map(function(s,i){ var th='https://i.ytimg.com/vi/'+encodeURIComponent(s.videoId)+'/mqdefault.jpg'; var d=s.duration?fmtDur(s.duration):'';
                 return '<div class="fp-skw"><button class="fp-sk" type="button" data-i="'+i+'"><span class="fp-sk-th" style="background-image:url(\''+th+'\')">'+(d?'<span class="fp-sk-dur">'+esc(d)+'</span>':'')+'<span class="fp-sk-pl">'+PLAY_SVG+'</span></span><span class="fp-sk-ti">'+esc(s.title||'Set')+'</span>'+(s.channel?'<span class="fp-sk-ch">'+esc(s.channel)+'</span>':'')+'</button>'+
                   '<div class="fp-sk-acts"><button class="fp-sk-act" type="button" data-shq="'+i+'">+ Queue</button><button class="fp-sk-act" type="button" data-shl="'+i+'">Listened</button></div></div>';
               }).join('')+'</div>';
-            box.querySelectorAll('.fp-sk[data-i]').forEach(function(b){ b.addEventListener('click',function(){ playYtList(items, +b.dataset.i); }); });
+            ytBox.querySelectorAll('.fp-sk[data-i]').forEach(function(b){ b.addEventListener('click',function(){ playYtList(items, +b.dataset.i); }); });
             // queue / listened shelf toggles — Goodreads for sets
             function paintShelf(){
               var m=_setShelf||{};
               sets.forEach(function(s,i){
                 var st=(m[s.videoId]||{}).status;
-                var q=box.querySelector('[data-shq="'+i+'"]'), l=box.querySelector('[data-shl="'+i+'"]');
+                var q=ytBox.querySelector('[data-shq="'+i+'"]'), l=ytBox.querySelector('[data-shl="'+i+'"]');
                 if(q){ q.classList.toggle('on', st==='queue'); q.textContent=st==='queue'?'Queued ✓':'+ Queue'; }
                 if(l){ l.classList.toggle('on', st==='listened'); l.textContent=st==='listened'?'Listened ✓':'Listened'; }
               });
@@ -7056,9 +7067,19 @@
               setShelfSave(s.videoId, st===want?null:want, { artistSlug:slug, artistName:a.name||slug, title:s.title||'' });
               paintShelf();
             }
-            box.querySelectorAll('[data-shq]').forEach(function(b){ b.addEventListener('click',function(){ shelfClick(+b.dataset.shq,'queue'); }); });
-            box.querySelectorAll('[data-shl]').forEach(function(b){ b.addEventListener('click',function(){ shelfClick(+b.dataset.shl,'listened'); }); });
-          }).catch(function(){ if(box) box.innerHTML='<div class="fp-sets-empty">Couldn’t load sets.</div>'; });
+            ytBox.querySelectorAll('[data-shq]').forEach(function(b){ b.addEventListener('click',function(){ shelfClick(+b.dataset.shq,'queue'); }); });
+            ytBox.querySelectorAll('[data-shl]').forEach(function(b){ b.addEventListener('click',function(){ shelfClick(+b.dataset.shl,'listened'); }); });
+          }).catch(function(){ _ytDone=true; ytBox.innerHTML=''; settleEmpty(); });
+          // ── SoundCloud sets (the artist's long-form mixes) — appended below, played via the SC widget ──
+          fetch(API_BASE+'/api/soundcloud/sets?slug='+encodeURIComponent(slug)).then(function(r){ return r.ok?r.json():null; }).then(function(j){
+            var scs=(j&&j.sets)||[]; _scDone=true;
+            if(!scs.length){ settleEmpty(); return; }
+            _scHas=true;
+            scBox.innerHTML='<div class="fp-sets-sch">On SoundCloud</div><div class="fp-sets-grid">'+scs.map(function(s){ var art=s.artwork||''; var d=s.duration?fmtDur(s.duration):'';
+                return '<div class="fp-skw"><button class="fp-sk" type="button" data-scurl="'+esc(s.url)+'" data-title="'+esc(s.title||'Set')+'" data-art="'+esc(art)+'"><span class="fp-sk-th"'+(art?' style="background-image:url(\''+esc(art)+'\')"':'')+'>'+(d?'<span class="fp-sk-dur">'+esc(d)+'</span>':'')+'<span class="fp-sk-pl">'+PLAY_SVG+'</span></span><span class="fp-sk-ti">'+esc(s.title||'Set')+'</span><span class="fp-sk-ch">SoundCloud</span></button></div>';
+              }).join('')+'</div>';
+            scBox.querySelectorAll('.fp-sk[data-scurl]').forEach(function(b){ b.addEventListener('click',function(){ var el=document.createElement('button'); el.className='play sc'; el.dataset.sc=b.dataset.scurl; el.dataset.name=b.dataset.title; el.dataset.poster=b.dataset.art; el.dataset.venue='SoundCloud'; playSc(el); }); });
+          }).catch(function(){ _scDone=true; settleEmpty(); });
         }
         // Tracks tab — most-played tracks aggregated from their sets' parsed tracklists.
         // Tap a row to jump to that drop in the set (timestamped), else YouTube-search it.

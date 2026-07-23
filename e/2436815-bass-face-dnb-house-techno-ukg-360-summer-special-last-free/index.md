@@ -1,6 +1,6 @@
-# Bass Face // DNB, HOUSE:TECHNO, UKG // 360° SUMMER SPECIAL! LAST FREE TICKET & FREE DRINKS at Egg London
+# Bass Face // DNB, HOUSE:TECHNO, UKG // 360° SUMMER SPECIAL! LAST FREE TICKETS & FREE DRINKS at Egg London
 
-Bass Face // DNB, HOUSE:TECHNO, UKG // 360° SUMMER SPECIAL! LAST FREE TICKET & FREE DRINKS at Egg London on Sat 1 Aug, London. Drum & Bass and House. Preview the line-up and save it on soundcheck.
+Bass Face // DNB, HOUSE:TECHNO, UKG // 360° SUMMER SPECIAL! LAST FREE TICKETS & FREE DRINKS at Egg London on Sat 1 Aug, London. Drum & Bass and House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

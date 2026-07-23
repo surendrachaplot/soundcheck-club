@@ -1,10 +1,10 @@
 # OPEN AIR FREE BEACH PARTY - LOST AT PLATJA DEL FORUM at Sunseabar Beach Club
 
-OPEN AIR FREE BEACH PARTY - LOST AT PLATJA DEL FORUM at Sunseabar Beach Club on Sun 23 Aug, Barcelona. Techno and House. Preview the line-up and save it on soundcheck.
+OPEN AIR FREE BEACH PARTY - LOST AT PLATJA DEL FORUM at Sunseabar Beach Club on Fri 28 Aug, Barcelona. Techno and House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
-| Date | Sun, 23 Aug 2026 |
+| Date | Fri, 28 Aug 2026 |
 | Venue | Sunseabar Beach Club |
 | City | Barcelona |
 

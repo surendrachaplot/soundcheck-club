@@ -1,0 +1,13 @@
+# TBA - Dani's Queer Bar Boston
+
+TBA - Dani's Queer Bar Boston is a music venue in Boston with 1 upcoming night listed on soundcheck as of Thu, 23 Jul 2026; the next is "Blend Queer Collective: DJ Battle" on Thu, 23 Jul 2026.
+
+TBA - Dani's Queer Bar Boston is a music venue in Boston listed on soundcheck. 1 upcoming night. Browse upcoming dates, start times and who's playing.
+
+## What's on
+
+| Date | Night | Line-up |
+| --- | --- | --- |
+| Thu, 23 Jul 2026 | Blend Queer Collective: DJ Battle |  |
+
+*Updated Thu, 23 Jul 2026 · source: [soundcheck](https://soundcheck.club/boston/club/tba-dani-s-queer-bar-boston/)*

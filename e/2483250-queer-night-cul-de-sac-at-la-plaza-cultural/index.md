@@ -1,10 +1,10 @@
 # QUEER NIGHT @ CUL DE SAC at La Plaza Cultural
 
-QUEER NIGHT @ CUL DE SAC at La Plaza Cultural on Tue 21 Jul, Newyorkcity. Ambient and Downtempo. Preview the line-up and save it on soundcheck.
+QUEER NIGHT @ CUL DE SAC at La Plaza Cultural on Tue 28 Jul, Newyorkcity. Ambient and Downtempo. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
-| Date | Tue, 21 Jul 2026 |
+| Date | Tue, 28 Jul 2026 |
 | Venue | La Plaza Cultural |
 | City | New York City |
 

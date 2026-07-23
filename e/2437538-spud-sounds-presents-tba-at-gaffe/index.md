@@ -1,6 +1,6 @@
 # Spud Sounds presents: TBA at Gaffe
 
-Spud Sounds presents: TBA at Gaffe on Fri 2 Oct, London. House. Preview the line-up and save it on soundcheck.
+Spud Sounds presents: TBA at Gaffe on Fri 2 Oct, London. Techno and House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

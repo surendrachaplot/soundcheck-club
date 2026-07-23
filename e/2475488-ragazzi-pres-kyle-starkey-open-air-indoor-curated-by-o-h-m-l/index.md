@@ -1,6 +1,6 @@
-# RAGAZZI pres Kyle Starkey (OPEN AIR & INDOOR) curated by O/H/M (LAST 50 REGULAR TICKETS) at Lieberscholli
+# RAGAZZI pres Kyle Starkey (OPEN AIR & INDOOR) curated by O/H/M (LAST 20 REGULAR TICKETS) at Lieberscholli
 
-RAGAZZI pres Kyle Starkey (OPEN AIR & INDOOR) curated by O/H/M (LAST 50 REGULAR TICKETS) at Lieberscholli on Sat 25 Jul, Munich. 3 acts on the bill: Kyle Starkey, O/H/M and Sarica. Trance and House. Preview the line-up and save it on soundcheck.
+RAGAZZI pres Kyle Starkey (OPEN AIR & INDOOR) curated by O/H/M (LAST 20 REGULAR TICKETS) at Lieberscholli on Sat 25 Jul, Munich. 3 acts on the bill: Kyle Starkey, O/H/M and Sarica. Trance and House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

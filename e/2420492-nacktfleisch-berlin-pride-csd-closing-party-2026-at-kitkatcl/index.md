@@ -1,6 +1,6 @@
 # Nacktfleisch - Berlin Pride / CSD Closing Party 2026 at KitKatClub
 
-Nacktfleisch - Berlin Pride / CSD Closing Party 2026 at KitKatClub on Sun 26 Jul, Berlin. 3 acts on the bill: Cristian Marras, DJ PERIODT and K-H1. Techno and Tech House. Preview the line-up and save it on soundcheck.
+Nacktfleisch - Berlin Pride / CSD Closing Party 2026 at KitKatClub on Sun 26 Jul, Berlin. 4 acts on the bill: Cristian Marras, DJ PERIODT, K-H1 and SIMZ (DE). Techno and Tech House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -13,5 +13,6 @@ Nacktfleisch - Berlin Pride / CSD Closing Party 2026 at KitKatClub on Sun 26 Jul
 - Cristian Marras
 - DJ PERIODT
 - K-H1
+- SIMZ (DE)
 
 *Source: [soundcheck](https://soundcheck.club/e/2420492-nacktfleisch-berlin-pride-csd-closing-party-2026-at-kitkatcl/)*

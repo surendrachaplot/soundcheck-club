@@ -1,6 +1,6 @@
 # INDOOR HARDCORE VOL.V at Drugstore Beograd
 
-INDOOR HARDCORE VOL.V at Drugstore Beograd on Sat 19 Sept, Belgrade. 5 acts on the bill: D|K|OXY, SNTS, Suzana and cassandrah and 1 more. Techno and Industrial. Preview the line-up and save it on soundcheck.
+INDOOR HARDCORE VOL.V at Drugstore Beograd on Sat 19 Sept, Belgrade. 7 acts on the bill: Commissar  Lag, D|K|OXY, SNTS and Stashha and 3 more. Techno and Industrial. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,8 +10,10 @@ INDOOR HARDCORE VOL.V at Drugstore Beograd on Sat 19 Sept, Belgrade. 5 acts on t
 
 ## Line-up
 
+- Commissar  Lag
 - D|K|OXY
 - SNTS
+- Stashha
 - Suzana
 - cassandrah
 - laccotti

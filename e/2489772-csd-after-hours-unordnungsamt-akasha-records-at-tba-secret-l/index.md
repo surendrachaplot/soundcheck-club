@@ -1,6 +1,6 @@
 # CSD After Hours - UNORDNUNGSAMT & Akasha Records at TBA - Secret Location
 
-CSD After Hours - UNORDNUNGSAMT & Akasha Records at TBA - Secret Location on Sun 26 Jul, Berlin. 4 acts on the bill: Juan Neira, Rafael, Sancturu and Zarem. Techno and Acid. Preview the line-up and save it on soundcheck.
+CSD After Hours - UNORDNUNGSAMT & Akasha Records at TBA - Secret Location on Sun 26 Jul, Berlin. 4 acts on the bill: Juan Neira, Rafael, Sancturu and Zarem. Techno and Electro. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

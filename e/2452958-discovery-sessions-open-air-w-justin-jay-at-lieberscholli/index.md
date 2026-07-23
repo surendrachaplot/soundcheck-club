@@ -1,6 +1,6 @@
 # Discovery Sessions: Open Air w. Justin Jay at Lieberscholli
 
-Discovery Sessions: Open Air w. Justin Jay at Lieberscholli on Sun 23 Aug, Munich. 1 act on the bill: Justin Jay. Techno and House. Preview the line-up and save it on soundcheck.
+Discovery Sessions: Open Air w. Justin Jay at Lieberscholli on Sun 23 Aug, Munich. 3 acts on the bill: Human Rias, Jan Minnerup and Justin Jay. Techno and House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,6 +10,8 @@ Discovery Sessions: Open Air w. Justin Jay at Lieberscholli on Sun 23 Aug, Munic
 
 ## Line-up
 
+- Human Rias
+- Jan Minnerup
 - Justin Jay
 
 *Source: [soundcheck](https://soundcheck.club/e/2452958-discovery-sessions-open-air-w-justin-jay-at-lieberscholli/)*

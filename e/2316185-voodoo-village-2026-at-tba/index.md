@@ -1,6 +1,6 @@
 # Voodoo Village 2026 at TBA
 
-Voodoo Village 2026 at TBA on Fri 11 Sept, Brussels. 68 acts on the bill: &ME, 999999999, AJNA and AVAION and 64 more. Techno and House. Preview the line-up and save it on soundcheck.
+Voodoo Village 2026 at TBA on Fri 11 Sept, Brussels. 69 acts on the bill: &ME, 999999999, AJNA and AVAION and 65 more. Techno and House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -23,6 +23,7 @@ Voodoo Village 2026 at TBA on Fri 11 Sept, Brussels. 68 acts on the bill: &ME, 9
 - Blck Mamba
 - Camilo Franco
 - Carlita
+- Ce$ar
 - Cloudy
 - DJ Tennis
 - DVS1

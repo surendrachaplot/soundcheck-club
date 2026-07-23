@@ -1,6 +1,6 @@
 # program audio: innerspeak:r at F8 1192 Folsom
 
-program audio: innerspeak:r at F8 1192 Folsom on Fri 14 Aug, Sanfrancisco. 14 acts on the bill: Avi Loud, Chloe Battelle, Dance Maniacs and Just Another Bitch and 10 more. Techno and Club. Preview the line-up and save it on soundcheck.
+program audio: innerspeak:r at F8 1192 Folsom on Fri 14 Aug, Sanfrancisco. 27 acts on the bill: 2dahlia, Aepricity, Avi Loud and Chloe Battelle and 23 more. Techno and Club. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,19 +10,32 @@ program audio: innerspeak:r at F8 1192 Folsom on Fri 14 Aug, Sanfrancisco. 14 ac
 
 ## Line-up
 
+- 2dahlia
+- Aepricity
 - Avi Loud
 - Chloe Battelle
 - Dance Maniacs
+- FINISHHER
+- Javi (US)
 - Just Another Bitch
 - KIMOSABE
+- Lethargy
 - Liano
+- Lonald J. Bandz
+- M66 (1)
 - Moonpie
 - Oak City Slums
+- Oso Feo (2)
 - PSL
 - QRTR
+- Soulox
+- Taraneh
+- ZZ (4)
 - djfix
 - ek:)
 - erika (SF)
+- jcore
+- jmo corleone
 - sfcowboy
 
 *Source: [soundcheck](https://soundcheck.club/e/2474822-program-audio-innerspeak-r-at-f8-1192-folsom/)*

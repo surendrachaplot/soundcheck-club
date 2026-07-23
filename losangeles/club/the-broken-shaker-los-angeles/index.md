@@ -1,0 +1,17 @@
+# The Broken Shaker Los Angeles
+
+The Broken Shaker Los Angeles is a music venue in Los Angeles with 1 upcoming night listed on soundcheck as of Thu, 23 Jul 2026; the next is "CASUAL ~ A Queer Pool Party" on Sun, 2 Aug 2026.
+
+The Broken Shaker Los Angeles is a music venue in Losangeles listed on soundcheck. 1 upcoming night, with line-ups including BODII, Giselle Peppers and Terrell Brooke. Browse upcoming dates, start times and who's playing. 416 W 8th St., Los Angeles, CA 90014, USA.
+
+## What's on
+
+| Date | Night | Line-up |
+| --- | --- | --- |
+| Sun, 2 Aug 2026 | CASUAL ~ A Queer Pool Party | BODII, Giselle Peppers, Terrell Brooke |
+
+## Address
+
+416 W 8th St., Los Angeles, CA 90014, USA, Los Angeles
+
+*Updated Thu, 23 Jul 2026 · source: [soundcheck](https://soundcheck.club/losangeles/club/the-broken-shaker-los-angeles/)*
