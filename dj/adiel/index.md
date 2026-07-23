@@ -1,8 +1,8 @@
 # Adiel
 
-Adiel is a Techno and House artist with 6 upcoming club dates listed on soundcheck as of Thu, 23 Jul 2026, next at Amnesia Ibiza, Ibiza on Tue, 28 Jul 2026.
+Adiel is a Techno and House artist with 7 upcoming club dates listed on soundcheck as of Thu, 23 Jul 2026, next at Amnesia Ibiza, Ibiza on Tue, 28 Jul 2026.
 
-Adiel is a techno and house artist tracked on soundcheck, with 205 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 54 more. Often billed alongside Héctor Oaks, Nina Kraviz and Richie Hawtin. Next up: Amnesia Ibiza, Ibiza on Tue 28 Jul.
+Adiel is a techno and house artist tracked on soundcheck, with 206 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 54 more. Often billed alongside Héctor Oaks, Nina Kraviz and Richie Hawtin. Next up: Amnesia Ibiza, Ibiza on Tue 28 Jul.
 
 ## Upcoming shows
 
@@ -14,6 +14,7 @@ Adiel is a techno and house artist tracked on soundcheck, with 205 sets logged a
 | Tue, 15 Sept 2026 | Amnesia Ibiza | Ibiza |
 | Fri, 18 Sept 2026 | IFEMA | Madrid |
 | Fri, 18 Sept 2026 | IFEMA | Madrid |
+| Fri, 18 Sept 2026 | INPUT High Fidelity Dance Club | Barcelona |
 
 ## Recently played
 

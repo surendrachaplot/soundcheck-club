@@ -1,6 +1,6 @@
 # LAÍRE NIGHT X at Northern Lights Lounge
 
-LAÍRE NIGHT X at Northern Lights Lounge on Sat 12 Sept, Detroit. 13 acts on the bill: Brent Shay, DJ Candor, DJ IV and Dru Ruiz and 9 more. Techno and Electro. Preview the line-up and save it on soundcheck.
+LAÍRE NIGHT X at Northern Lights Lounge on Sat 12 Sept, Detroit. 14 acts on the bill: Brent Shay, DJ Candor, DJ I.V. and DJ IV and 10 more. Techno and Electro. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -12,6 +12,7 @@ LAÍRE NIGHT X at Northern Lights Lounge on Sat 12 Sept, Detroit. 13 acts on the
 
 - Brent Shay
 - DJ Candor
+- DJ I.V.
 - DJ IV
 - Dru Ruiz
 - Gregboi

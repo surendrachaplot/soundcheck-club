@@ -1,8 +1,8 @@
 # The Fox and Firkin
 
-The Fox and Firkin is a music venue in London with 18 upcoming nights listed on soundcheck as of Thu, 23 Jul 2026; the next is "Tokyo Riddim Sunday" on Sun, 26 Jul 2026.
+The Fox and Firkin is a music venue in London with 19 upcoming nights listed on soundcheck as of Thu, 23 Jul 2026; the next is "Tokyo Riddim Sunday" on Sun, 26 Jul 2026.
 
-The Fox and Firkin is a music venue in London listed on soundcheck. 18 upcoming nights, with line-ups including 3 Minds, a life in space, ARLYSS and Aroop Roy and 2 more. Browse upcoming dates, start times and who's playing. 316 Lewisham High Street London SE136JZ.
+The Fox and Firkin is a music venue in London listed on soundcheck. 19 upcoming nights, with line-ups including 3 Minds, a life in space, ARLYSS and Aroop Roy and 2 more. Browse upcoming dates, start times and who's playing. 316 Lewisham High Street London SE136JZ.
 
 ## What's on
 

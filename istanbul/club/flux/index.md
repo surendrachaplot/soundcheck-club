@@ -9,7 +9,7 @@ Flux is a music venue in Istanbul listed on soundcheck. 9 upcoming nights, with 
 | Date | Night | Line-up |
 | --- | --- | --- |
 | Fri, 24 Jul 2026 | RX Fridaze: Regal | Regal |
-| Sat, 25 Jul 2026 | RX SATURDAZE | Cenk Tripper |
+| Sat, 25 Jul 2026 | RX Saturdaze | Cenk Tripper |
 | Sat, 1 Aug 2026 | RX Saturdaze: Tommy Four Seven | Tommy Four Seven |
 | Fri, 7 Aug 2026 | Flux Fridays: Sandar Sanchez | Sandar Sánchez |
 | Sat, 8 Aug 2026 | RX Saturdaze: Adriana Lopez | Adriana Lopez |

@@ -12,7 +12,7 @@ The Love Inn is a music venue in Bristol listed on soundcheck. 10 upcoming night
 | Fri, 24 Jul 2026 | Lupini b2b Cowper [all night long] | Cowper, Lupini |
 | Sat, 25 Jul 2026 | The Hunz [all night long] |  |
 | Sun, 26 Jul 2026 | Gene On Earth + Daisy Moon + DASHY | DASHY, Daisy Moon, Gene On Earth |
-| Fri, 31 Jul 2026 | Public Affair: Mr. Ho & Monika Taneska |  |
+| Fri, 31 Jul 2026 | Public Affair: Mr. Ho & Monika Taneska | Monika Taneska, Mr. Ho |
 | Sat, 1 Aug 2026 | Ishmael Ensemble Residency #02 with Charlie Dark | Charlie Dark |
 | Fri, 7 Aug 2026 | Moopie | Moopie |
 | Sat, 8 Aug 2026 | Black Rave Culture [all night long] | Black Rave Culture |

@@ -1,6 +1,6 @@
 # ULTRA SOZIAL with Luciid, Obscure Shape, Tham at OST
 
-ULTRA SOZIAL with Luciid, Obscure Shape, Tham at OST on Fri 28 Aug, Berlin. 4 acts on the bill: Luciid, Obscure Shape, Tham and Viscerale. Techno. Preview the line-up and save it on soundcheck.
+ULTRA SOZIAL with Luciid, Obscure Shape, Tham at OST on Fri 28 Aug, Berlin. 5 acts on the bill: An Chen, Luciid, Obscure Shape and Tham and 1 more. Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,6 +10,7 @@ ULTRA SOZIAL with Luciid, Obscure Shape, Tham at OST on Fri 28 Aug, Berlin. 4 ac
 
 ## Line-up
 
+- An Chen
 - Luciid
 - Obscure Shape
 - Tham

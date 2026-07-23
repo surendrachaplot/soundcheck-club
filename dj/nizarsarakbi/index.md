@@ -1,8 +1,8 @@
 # Nizar Sarakbi
 
-Nizar Sarakbi is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Thu, 23 Jul 2026, next at PRST, Vienna on Sat, 25 Jul 2026.
+Nizar Sarakbi is a House and Techno artist with 4 upcoming club dates listed on soundcheck as of Thu, 23 Jul 2026, next at PRST, Vienna on Sat, 25 Jul 2026.
 
-Nizar Sarakbi is a house and techno artist tracked on soundcheck, with 71 sets logged across Amsterdam, Barcelona, Berlin and Brussels and 13 more. Often billed alongside Katia Curie, KATIA and vince. Next up: PRST, Vienna on Sat 25 Jul.
+Nizar Sarakbi is a house and techno artist tracked on soundcheck, with 72 sets logged across Amsterdam, Barcelona, Berlin and Brussels and 13 more. Often billed alongside Katia Curie, KATIA and vince. Next up: PRST, Vienna on Sat 25 Jul.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Nizar Sarakbi is a house and techno artist tracked on soundcheck, with 71 sets l
 | --- | --- | --- |
 | Sat, 25 Jul 2026 | PRST | Vienna |
 | Fri, 31 Jul 2026 | TBA - Paradies Garten Festival - Schloß Prugg 2, 2460 Gemeinde Bruck an der Leitha | Vienna |
+| Fri, 7 Aug 2026 | Ritter Butzke | Berlin |
 | Sat, 26 Sept 2026 | Cadavra | Madrid |
 
 ## Recently played

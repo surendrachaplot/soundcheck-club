@@ -1,6 +1,6 @@
 # ★ LOWKEY STARS ☆ CSD AFTERPARTY at ://about blank
 
-★ LOWKEY STARS ☆ CSD AFTERPARTY at ://about blank on Sat 25 Jul, Berlin. 25 acts on the bill: ACIDG, AGAINS7, ANASTASÍA and Anna Konda and 21 more. Trance and Techno. Preview the line-up and save it on soundcheck.
+★ LOWKEY STARS ☆ CSD AFTERPARTY at ://about blank on Sat 25 Jul, Berlin. 27 acts on the bill: ACIDG, AGAINS7, ANASTASÍA and Anna Konda and 23 more. Trance and Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -21,8 +21,10 @@
 - DJ Glitterelli
 - Dash (CZ)
 - Domovnika
+- Edgar Os
 - Eli Bot
 - GNEIXX
+- JUNO (3)
 - KAMA
 - KERT (DE)
 - Kalimanda

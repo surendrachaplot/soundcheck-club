@@ -1,8 +1,8 @@
 # Lincoln Factory
 
-Lincoln Factory is a music venue in Detroit with 8 upcoming nights listed on soundcheck as of Thu, 23 Jul 2026; the next is "small talk with britty., Lo Dazz, and Disc Jockey George" on Thu, 23 Jul 2026.
+Lincoln Factory is a music venue in Detroit with 9 upcoming nights listed on soundcheck as of Thu, 23 Jul 2026; the next is "small talk with britty., Lo Dazz, and Disc Jockey George" on Thu, 23 Jul 2026.
 
-Lincoln Factory is a music venue in Detroit listed on soundcheck. 8 upcoming nights, with line-ups including britty., Disc Jockey George, DJ Nobu and FENIK and 2 more. Browse upcoming dates, start times and who's playing. 1331 Holden Street, Detroit, MI 48202, USA.
+Lincoln Factory is a music venue in Detroit listed on soundcheck. 9 upcoming nights, with line-ups including AK (US), Augustus Williams, britty. and Disc Jockey George and 2 more. Browse upcoming dates, start times and who's playing. 1331 Holden Street, Detroit, MI 48202, USA.
 
 ## What's on
 
@@ -12,8 +12,9 @@ Lincoln Factory is a music venue in Detroit listed on soundcheck. 8 upcoming nig
 | Fri, 24 Jul 2026 | Friday Night [Official 2Chainz/Lil Wayne Afterparty] | Disc Jockey George |
 | Sat, 25 Jul 2026 | FIESTA HOUSE |  |
 | Sun, 26 Jul 2026 | SLOW JAMS ULTIMATE WHITE PARTY HOSTED BY TREY SONGZ |  |
-| Sat, 1 Aug 2026 | Madam X, Psy-Chick, R. Solomun | Madam X, Psy-Chick |
+| Sat, 1 Aug 2026 | Madam X, Psy-Chick, R. Solomon | Madam X, Psy-Chick, R. Solomon |
 | Fri, 7 Aug 2026 | EAZYBAKED x DISTINCT MOTIVE |  |
+| Fri, 14 Aug 2026 | DJ Stingray 313 | AK (US), Augustus Williams, DJ SPHiNX, DJ Seoul, DJ Stingray 313, Dru Ruiz, Fusegrade, Rebecca Goldberg, Rex Sepulveda, sts (US) |
 | Sat, 22 Aug 2026 | DJ Nobu - Lincoln Factory | DJ Nobu, Kyle Geiger, LOFILA |
 | Sat, 17 Oct 2026 | Walker & Royce | FENIK, Silverdome Boyz, Walker & Royce |
 

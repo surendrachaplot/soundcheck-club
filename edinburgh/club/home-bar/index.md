@@ -9,7 +9,7 @@ Home Bar is a music venue in Edinburgh listed on soundcheck. 2 upcoming nights. 
 | Date | Night | Line-up |
 | --- | --- | --- |
 | Sat, 25 Jul 2026 | DJSB (4 hour set) |  |
-| Fri, 7 Aug 2026 | >\init |  |
+| Fri, 7 Aug 2026 | >/init |  |
 
 ## Address
 

@@ -10,7 +10,7 @@ Amo (IT) is a trance and techno artist based in Italy, tracked on soundcheck, wi
 | --- | --- | --- |
 | Thu, 6 Aug 2026 | TBA - Near Berlin (Secret Forest) | Berlin |
 | Fri, 28 Aug 2026 | ÆDEN | Berlin |
-| Sat, 19 Sept 2026 | TBA | Berlin |
+| Sat, 19 Sept 2026 | TBA - Storkower Str. 121, 10407 Berlin | Berlin |
 
 ## Recently played
 

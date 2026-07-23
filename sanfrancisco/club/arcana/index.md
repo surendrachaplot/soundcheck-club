@@ -11,7 +11,7 @@ Arcana is a music venue in Sanfrancisco listed on soundcheck. 6 upcoming nights,
 | Fri, 24 Jul 2026 | LOUÏE CLUB |  |
 | Sat, 25 Jul 2026 | PIÑATA ! | Sánlo, TEGH (2) |
 | Fri, 31 Jul 2026 | Good Company | Beach Motors, Louiv |
-| Sat, 1 Aug 2026 | TOMU x Raven | Raven, Tomu DJ |
+| Sat, 1 Aug 2026 | TOMU DJ x Raven | Raven, Tomu DJ |
 | Fri, 7 Aug 2026 | MESTIZAS | DJ Patrick, Love Language, Tegh |
 | Sat, 15 Aug 2026 | STRAPT | DJ CARO, Discnogirl, IYKUK |
 

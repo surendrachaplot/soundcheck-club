@@ -1,8 +1,8 @@
 # Floyd
 
-Floyd is a music venue in Miami with 15 upcoming nights listed on soundcheck as of Thu, 23 Jul 2026; the next is "William Kiss + Jordan Brando" on Fri, 24 Jul 2026.
+Floyd is a music venue in Miami with 17 upcoming nights listed on soundcheck as of Thu, 23 Jul 2026; the next is "William Kiss + Jordan Brando" on Fri, 24 Jul 2026.
 
-Floyd is a music venue in Miami listed on soundcheck. 15 upcoming nights, with line-ups including Alci, Ale Acosta, Ammo Avenue and Andrew Azara and 2 more. Browse upcoming dates, start times and who's playing. 34 NE 11th Street Miami, FL 33132.
+Floyd is a music venue in Miami listed on soundcheck. 17 upcoming nights, with line-ups including Alci, Ale Acosta, Ammo Avenue and Andrew Azara and 2 more. Browse upcoming dates, start times and who's playing. 34 NE 11th Street Miami, FL 33132.
 
 ## What's on
 

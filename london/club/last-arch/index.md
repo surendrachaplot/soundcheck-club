@@ -1,8 +1,8 @@
 # Last Arch
 
-Last Arch is a music venue in London with 12 upcoming nights listed on soundcheck as of Thu, 23 Jul 2026; the next is "THE STINGING ROGER w// JENNY SPARKS" on Fri, 24 Jul 2026.
+Last Arch is a music venue in London with 13 upcoming nights listed on soundcheck as of Thu, 23 Jul 2026; the next is "THE STINGING ROGER w// JENNY SPARKS" on Fri, 24 Jul 2026.
 
-Last Arch is a music venue in London listed on soundcheck. 12 upcoming nights, with line-ups including Ale Grooves, Alythia Kwan, Archie Holmes and Arts of the Unknown and 2 more. Browse upcoming dates, start times and who's playing. 392 Wandsworth Road SW84PH (Through the black gates, last arch).
+Last Arch is a music venue in London listed on soundcheck. 13 upcoming nights, with line-ups including Ale Grooves, Alythia Kwan, Archie Holmes and Arts of the Unknown and 2 more. Browse upcoming dates, start times and who's playing. 392 Wandsworth Road SW84PH (Through the black gates, last arch).
 
 ## What's on
 

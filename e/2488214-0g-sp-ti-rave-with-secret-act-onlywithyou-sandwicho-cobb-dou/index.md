@@ -1,6 +1,6 @@
-# 0G SPÄTI RAVE with Secret Act, OnlyWithYou, Sandwicho, Cobb Douglas, mølly (on molly), etc at TBA - Warschauer Straße
+# 0G SPÄTI RAVE with Secret Act, OnlyWithYou, Sandwicho, Cobb Douglas, ALYOSHA, etc at TBA - Warschauer Straße
 
-0G SPÄTI RAVE with Secret Act, OnlyWithYou, Sandwicho, Cobb Douglas, mølly (on molly), etc at TBA - Warschauer Straße on Fri 24 Jul, Berlin. 11 acts on the bill: ALYOSHA, Cobb Douglas, FKNSIL and JRG and 7 more. Trance and Techno. Preview the line-up and save it on soundcheck.
+0G SPÄTI RAVE with Secret Act, OnlyWithYou, Sandwicho, Cobb Douglas, ALYOSHA, etc at TBA - Warschauer Straße on Fri 24 Jul, Berlin. 11 acts on the bill: ALYOSHA, Cobb Douglas, FKNSIL and JRG and 7 more. Trance and Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

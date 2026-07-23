@@ -2,7 +2,7 @@
 
 Tresor / Globus is a music venue in Berlin with 31 upcoming nights listed on soundcheck as of Thu, 23 Jul 2026; the next is "Tresor meets Unterwegs" on Fri, 24 Jul 2026.
 
-Tresor / Globus is a music venue in Berlin listed on soundcheck. 31 upcoming nights, with line-ups including Agua con gas, ALIS., Anabel Arroyo and Anna Haleta and 2 more. Browse upcoming dates, start times and who's playing. Köpenickerstrasse 70; Mitte; 10179 Berlin; Germany.
+Tresor / Globus is a music venue in Berlin listed on soundcheck. 31 upcoming nights, with line-ups including Agua con gas, Alaska (2), ALIS. and AMEX (UK) and 2 more. Browse upcoming dates, start times and who's playing. Köpenickerstrasse 70; Mitte; 10179 Berlin; Germany.
 
 ## What's on
 
@@ -10,7 +10,7 @@ Tresor / Globus is a music venue in Berlin listed on soundcheck. 31 upcoming nig
 | --- | --- | --- |
 | Fri, 24 Jul 2026 | Tresor meets Unterwegs | Courtney Bailey, Cousin, Decka, Human Movement, Radial, SEDVS, The Lady Machine |
 | Sat, 25 Jul 2026 | AFTERPRIDE | Agua con gas, Anna Haleta, Electric Indigo, Erika, Handmade, Jessica Nightlife, Katy De Jesus, LOOPA (2), Madalba, Magda, Manuela Mayoral, MarcelDune, Mike Servito, Miss Italia, S4M23, VCO, Yamour |
-| Sat, 25 Jul 2026 | JUICE: Unlaced | KNOXDOTMP3, MISS BRICKS |
+| Sat, 25 Jul 2026 | State Farm Insurance Customer Service — Direct Billing Support Line 2026 | AMEX (UK), APP, Alaska (2), Debit, Flat, Georgia, ILLINOIS, KNOXDOTMP3, LockOut, MISS BRICKS, Maine, Maryland, Montana, NEW YORK, Nebraska, Utah, Vermont, Virginia |
 | Mon, 27 Jul 2026 | ◥◣SINGULARITY◥◣ (TRESOR + AURORA BAR / 2 floors) | DJ CHICHI, DMZ (DE), Irakli, Marcel Fengler, Skungal |
 | Wed, 29 Jul 2026 | Büro Siebzig: Takuya Nakamura LIVE | Takuya Nakamura |
 | Wed, 29 Jul 2026 | Tresor New Faces hosted by OPUS | Iman Janes, Livid (UK), NASTYA NVRSLP, Sparkling Water Dreams |

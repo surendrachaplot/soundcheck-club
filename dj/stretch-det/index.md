@@ -1,8 +1,8 @@
 # Stretch (DET)
 
-Stretch (DET) is a House and Minimal artist with 3 upcoming club dates listed on soundcheck as of Thu, 23 Jul 2026, next at Myra, Lisbon on Fri, 31 Jul 2026.
+Stretch (DET) is a House and Minimal artist with 5 upcoming club dates listed on soundcheck as of Thu, 23 Jul 2026, next at Myra, Lisbon on Fri, 31 Jul 2026.
 
-Stretch (DET) is a house and minimal artist based in United States of America, tracked on soundcheck, with 33 sets logged across Berlin, Boston, Chicago and Detroit and 6 more. Often billed alongside Shaun Reeves, Cesar Merveille and Andrea Ghita. Next up: Myra, Lisbon on Fri 31 Jul.
+Stretch (DET) is a house and minimal artist based in United States of America, tracked on soundcheck, with 35 sets logged across Berlin, Boston, Chicago and Detroit and 6 more. Often billed alongside Shaun Reeves, Cesar Merveille and Andrea Ghita. Next up: Myra, Lisbon on Fri 31 Jul.
 
 ## Upcoming shows
 
@@ -10,6 +10,8 @@ Stretch (DET) is a house and minimal artist based in United States of America, t
 | --- | --- | --- |
 | Fri, 31 Jul 2026 | Myra | Lisbon |
 | Sat, 8 Aug 2026 | Flash | Washington DC |
+| Fri, 21 Aug 2026 | TBA | Montreal |
+| Sat, 22 Aug 2026 | TBA | Montreal |
 | Fri, 11 Sept 2026 | Haus der Visionäre | Berlin |
 
 ## Recently played

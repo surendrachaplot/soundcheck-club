@@ -1,8 +1,8 @@
 # Kevin Saunderson
 
-Kevin Saunderson is a Techno and House artist with 6 upcoming club dates listed on soundcheck as of Thu, 23 Jul 2026, next at La Pinilla Ski Resort, Madrid on Mon, 10 Aug 2026.
+Kevin Saunderson is a Techno and House artist with 7 upcoming club dates listed on soundcheck as of Thu, 23 Jul 2026, next at La Pinilla Ski Resort, Madrid on Mon, 10 Aug 2026.
 
-Kevin Saunderson is a techno and house artist tracked on soundcheck, with 107 sets logged across Amsterdam, Barcelona, Berlin and Buenosaires and 29 more. Often billed alongside The Saunderson Brothers, Carl Craig and Speedy J. Next up: La Pinilla Ski Resort, Madrid on Mon 10 Aug.
+Kevin Saunderson is a techno and house artist tracked on soundcheck, with 108 sets logged across Amsterdam, Barcelona, Berlin and Buenosaires and 30 more. Often billed alongside The Saunderson Brothers, Carl Craig and Speedy J. Next up: La Pinilla Ski Resort, Madrid on Mon 10 Aug.
 
 ## Upcoming shows
 
@@ -12,6 +12,7 @@ Kevin Saunderson is a techno and house artist tracked on soundcheck, with 107 se
 | Fri, 14 Aug 2026 | Else | Berlin |
 | Sat, 15 Aug 2026 | Paragon | New York City |
 | Fri, 21 Aug 2026 | The Den | Portland |
+| Sat, 22 Aug 2026 | TBA - Jonathan Rogers Park | Vancouver |
 | Thu, 1 Oct 2026 | TBA - Various Venues | Malta |
 | Thu, 1 Oct 2026 | UNO MALTA | Malta |
 

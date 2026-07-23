@@ -9,7 +9,7 @@ Het Salon is a music venue in Amsterdam listed on soundcheck. 2 upcoming nights,
 | Date | Night | Line-up |
 | --- | --- | --- |
 | Fri, 24 Jul 2026 | Tobana | Hannecart, Lazystep, Santiago Guilá |
-| Sun, 2 Aug 2026 | Tale of Bus afterhours | Daan Donk, Idilay, Kuba'97 |
+| Sun, 2 Aug 2026 | Tale of Bus afterhours w/ Kuba '97, Idilay & Daan Donk | Daan Donk, Idilay, Kuba'97 |
 
 ## Address
 

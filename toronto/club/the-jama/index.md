@@ -11,7 +11,7 @@ The Jama is a music venue in Toronto listed on soundcheck. 6 upcoming nights, wi
 | Sun, 26 Jul 2026 | Date with Destiny | DJ Trustfall, Destiny (CA), dj miss |
 | Fri, 31 Jul 2026 | PRE 002 - Trailcam + R-ODERICK + Blkvirgo + DJ CHRIS | Blkvirgo, DJ Chris (CA), R-ODERICK, Trailcam |
 | Sat, 1 Aug 2026 | After Hours w/ Shen, maxedvisa, Critter & Theysiii | Critter, Shen (2), Theysiii, maxedvisa |
-| Wed, 5 Aug 2026 | evidence #3 | KERUB |
+| Wed, 5 Aug 2026 | evidence #3 feat. Soga (CDMX), Xodkaar, Dermabrasion, KERUB, David Hodgson + TBA at JAMA | KERUB |
 | Sat, 8 Aug 2026 | PUCKER UP! 3 Year Anniversary w/ DJ Hermano, Marnigurl, musa, & Venus in Foil | Critter, Dj Hermano, Kai (TO), Marnigurl, Venus in Foil, moody.cn.man, musa |
 | Fri, 14 Aug 2026 | notabbq x Lucid: Conna Haraway, Kiju, anthéne, ghosttropics, Twice Cooked | Conna Haraway, Hemlock (CA), Kiju, Siren (4) |
 

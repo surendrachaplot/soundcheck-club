@@ -1,8 +1,8 @@
 # Toma Kami
 
-Toma Kami is a Techno and Bass artist with 2 upcoming club dates listed on soundcheck as of Thu, 23 Jul 2026, next at Kremwerk-Timbre Room-Cherry Complex, Seattle on Fri, 24 Jul 2026.
+Toma Kami is a Techno and Bass artist with 3 upcoming club dates listed on soundcheck as of Thu, 23 Jul 2026, next at Kremwerk-Timbre Room-Cherry Complex, Seattle on Fri, 24 Jul 2026.
 
-Toma Kami is a techno and bass artist based in France, tracked on soundcheck, with 81 sets logged across Amsterdam, Austin, Barcelona and Berlin and 29 more. Often billed alongside ojoo, Ehua and re:ni. Next up: Kremwerk-Timbre Room-Cherry Complex, Seattle on Fri 24 Jul.
+Toma Kami is a techno and bass artist based in France, tracked on soundcheck, with 82 sets logged across Amsterdam, Austin, Barcelona and Berlin and 29 more. Often billed alongside ojoo, Ehua and re:ni. Next up: Kremwerk-Timbre Room-Cherry Complex, Seattle on Fri 24 Jul.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Toma Kami is a techno and bass artist based in France, tracked on soundcheck, wi
 | --- | --- | --- |
 | Fri, 24 Jul 2026 | Kremwerk-Timbre Room-Cherry Complex | Seattle |
 | Fri, 31 Jul 2026 | TRANSMISSION DC | Washington DC |
+| Sat, 1 Aug 2026 | TBA - Ming Lounge | Portland |
 
 ## Recently played
 

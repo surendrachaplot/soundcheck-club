@@ -1,8 +1,8 @@
 # SOBs
 
-SOBs is a music venue in New York City with 13 upcoming nights listed on soundcheck as of Thu, 23 Jul 2026; the next is "B JACK$ & Friends" on Thu, 23 Jul 2026.
+SOBs is a music venue in New York City with 14 upcoming nights listed on soundcheck as of Thu, 23 Jul 2026; the next is "B JACK$ & Friends" on Thu, 23 Jul 2026.
 
-SOBs is a music venue in Newyorkcity listed on soundcheck. 13 upcoming nights, with line-ups including BlackDanielWhite and DJ Vega. Browse upcoming dates, start times and who's playing. 204 Varick Street, New York, NY 10014-4810, USA.
+SOBs is a music venue in Newyorkcity listed on soundcheck. 14 upcoming nights, with line-ups including BlackDanielWhite and DJ Vega. Browse upcoming dates, start times and who's playing. 204 Varick Street, New York, NY 10014-4810, USA.
 
 ## What's on
 
@@ -16,7 +16,7 @@ SOBs is a music venue in Newyorkcity listed on soundcheck. 13 upcoming nights, w
 | Sun, 26 Jul 2026 | Lisha G: Live in NYC |  |
 | Tue, 28 Jul 2026 | Música For Venezuela: Benefit Concert Supporting Venezuela |  |
 | Wed, 29 Jul 2026 | On the Floor: intimate R&B sets by Avara, Akshara, Aashika Reddy |  |
-| Fri, 31 Jul 2026 | M.E - NYC Debut |  |
+| Fri, 31 Jul 2026 | M.E - SOB's Top Pick for R&B Star of The Future |  |
 | Fri, 31 Jul 2026 | Sak Pasé: Haitian Fridays Debut |  |
 
 ## Address

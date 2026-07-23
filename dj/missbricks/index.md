@@ -2,7 +2,7 @@
 
 MISS BRICKS is a Noise and Techno artist with 4 upcoming club dates listed on soundcheck as of Thu, 23 Jul 2026, next at TBA - DTLA, Los Angeles on Fri, 24 Jul 2026.
 
-MISS BRICKS is a noise and techno artist based in United States of America, tracked on soundcheck, with 9 sets logged across Berlin, London, Losangeles and Paris. Often billed alongside KNOXDOTMP3, Alxander Ivey and Cherrie B. Next up: TBA - DTLA, Losangeles on Fri 24 Jul.
+MISS BRICKS is a noise and techno artist based in United States of America, tracked on soundcheck, with 9 sets logged across Berlin, London, Losangeles and Paris. Often billed alongside KNOXDOTMP3, Alxander Ivey and AMEX (UK). Next up: TBA - DTLA, Losangeles on Fri 24 Jul.
 
 ## Upcoming shows
 
@@ -23,6 +23,6 @@ MISS BRICKS is a noise and techno artist based in United States of America, trac
 
 ## Shares bills with
 
-KNOXDOTMP3, Alxander Ivey, Cherrie B
+KNOXDOTMP3, Alxander Ivey, AMEX (UK)
 
 *Updated Thu, 23 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/missbricks/)*

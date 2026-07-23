@@ -11,7 +11,7 @@ Northern Lights Lounge is a music venue in Detroit listed on soundcheck. 4 upcom
 | Fri, 24 Jul 2026 | XTREME | DJ Girl, Garrison XR, Human Robot, LATEX GIRL, Tylr, hypemelo |
 | Sat, 25 Jul 2026 | VINDICATE 004 | 88 MPH, Austin Buck, Instead of Seven, J Æ G Ü A R, JOTAAA, Valentina Cappellari |
 | Sat, 15 Aug 2026 | HOUSE IS HOME: BOO WILLIAMS/JADALAREIGN/ALTON MILLER/LADYMONIX | Alton Miller, Boo Williams, Dru Allan, JADALAREIGN, LADYMONIX, Medha Achar |
-| Sat, 12 Sept 2026 | LAÍRE NIGHT X | Brent Shay, DJ Candor, DJ IV, Dru Ruiz, Gregboi, Jah Knee, LAÍRE, Mira, Mr. Twista, Tormented, X(S)INA, madeera, moregasm |
+| Sat, 12 Sept 2026 | LAÍRE NIGHT X | Brent Shay, DJ Candor, DJ I.V., DJ IV, Dru Ruiz, Gregboi, Jah Knee, LAÍRE, Mira, Mr. Twista, Tormented, X(S)INA, madeera, moregasm |
 
 ## Address
 

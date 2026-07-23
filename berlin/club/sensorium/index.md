@@ -10,12 +10,12 @@ Sensorium is a music venue in Berlin listed on soundcheck. 27 upcoming nights, w
 | --- | --- | --- |
 | Fri, 24 Jul 2026 | ETHER | DaSoMaZo, SOCKET, Sonse, UniKhatu, pink-panther |
 | Sat, 25 Jul 2026 | SENSO NACHT | James Cherry, LynnMayya, UniKhatu, V (NYC), ZAKARE |
-| Sun, 26 Jul 2026 | TRIG: FROM 23:00 - XXX | EllA, Marsh Long, Viktor Kampf, Zokiren |
+| Sun, 26 Jul 2026 | TRIG: FROM : TAKE YOUR FREE TICKETS | EllA, Marsh Long, Viktor Kampf, Zokiren |
 | Wed, 29 Jul 2026 | TECHNO MITTWOCH: TAKE YOUR TICKETS | Darren Black, PETDuo, Viktor Kampf |
 | Fri, 31 Jul 2026 | ETHER | Bee Lincoln, KINTEL, ZELIA, nixmoon |
 | Sun, 2 Aug 2026 | TRIG: FROM 23:00 - XXX |  |
 | Wed, 5 Aug 2026 | TECHNO MITTWOCH: TAKE YOUR TICKETS | Gabrielle (DE), Niklas Delhey, Royyy, Slimegoat144 |
-| Sat, 8 Aug 2026 | SENSO NACHT | Blck-Swan, Monalisa Michaelis, Viktor Kampf |
+| Sat, 8 Aug 2026 | SENSO NACHT | Blck-Swan, Florens, Monalisa Michaelis, Viktor Kampf |
 | Sun, 9 Aug 2026 | TRIG: FROM 23:00 - XXX |  |
 | Wed, 12 Aug 2026 | TECHNO MITTWOCH: TAKE YOUR TICKETS | Eleonor Bianchi, UniKhatu, Zaphy |
 

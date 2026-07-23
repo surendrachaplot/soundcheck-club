@@ -1,8 +1,8 @@
 # Maryland
 
-Maryland is a electronic artist with 87 upcoming club dates listed on soundcheck as of Thu, 23 Jul 2026, next at Institut fuer Zukunft (IfZ), Leipzig on Sat, 25 Jul 2026.
+Maryland is a electronic artist with 111 upcoming club dates listed on soundcheck as of Thu, 23 Jul 2026, next at Institut fuer Zukunft (IfZ), Leipzig on Sat, 25 Jul 2026.
 
-Maryland is an electronic artist based in Czech Republic, tracked on soundcheck, with 89 sets logged across Amsterdam, Bali, Barcelona and Berlin and 36 more. Often billed alongside AMEX (UK), APP and Alaska (2). Next up: Institut fuer Zukunft (IfZ), Leipzig on Sat 25 Jul.
+Maryland is an electronic artist based in Czech Republic, tracked on soundcheck, with 113 sets logged across Amsterdam, Bali, Barcelona and Berlin and 41 more. Often billed alongside AMEX (UK), APP and Alaska (2). Next up: Institut fuer Zukunft (IfZ), Leipzig on Sat 25 Jul.
 
 ## Upcoming shows
 

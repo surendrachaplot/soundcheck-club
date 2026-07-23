@@ -17,7 +17,7 @@ ELOISA is a techno and trance artist tracked on soundcheck, with 76 sets logged 
 | Sun, 23 Aug 2026 | Edelfettwerk | Hamburg |
 | Fri, 28 Aug 2026 | ÆDEN | Berlin |
 | Fri, 4 Sept 2026 | Lokschuppen Berlin | Berlin |
-| Sat, 19 Sept 2026 | TBA | Berlin |
+| Sat, 19 Sept 2026 | TBA - Storkower Str. 121, 10407 Berlin | Berlin |
 
 ## Recently played
 

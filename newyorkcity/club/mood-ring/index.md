@@ -1,8 +1,8 @@
 # Mood Ring
 
-Mood Ring is a music venue in New York City with 18 upcoming nights listed on soundcheck as of Thu, 23 Jul 2026; the next is "The Spiral" on Thu, 23 Jul 2026.
+Mood Ring is a music venue in New York City with 19 upcoming nights listed on soundcheck as of Thu, 23 Jul 2026; the next is "The Spiral" on Thu, 23 Jul 2026.
 
-Mood Ring is a music venue in Newyorkcity listed on soundcheck. 18 upcoming nights, with line-ups including A. Sarr, ASTER (DJ), Atomheartmommy and Bodegaparty and 2 more. Browse upcoming dates, start times and who's playing. 1260 Myrtle Ave, Brooklyn, NY 11221, USA.
+Mood Ring is a music venue in Newyorkcity listed on soundcheck. 19 upcoming nights, with line-ups including A. Sarr, ASTER (DJ), Atomheartmommy and Bodegaparty and 2 more. Browse upcoming dates, start times and who's playing. 1260 Myrtle Ave, Brooklyn, NY 11221, USA.
 
 ## What's on
 

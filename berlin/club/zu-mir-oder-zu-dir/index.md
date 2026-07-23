@@ -2,13 +2,13 @@
 
 Zu Mir Oder Zu Dir is a music venue in Berlin with 2 upcoming nights listed on soundcheck as of Thu, 23 Jul 2026; the next is "LAB NIGHTS" on Thu, 30 Jul 2026.
 
-Zu Mir Oder Zu Dir is a music venue in Berlin listed on soundcheck. 2 upcoming nights. Browse upcoming dates, start times and who's playing. Lychener Str. 15, 10437 Berlin, Germany.
+Zu Mir Oder Zu Dir is a music venue in Berlin listed on soundcheck. 2 upcoming nights, with line-ups including Neksi. Browse upcoming dates, start times and who's playing. Lychener Str. 15, 10437 Berlin, Germany.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Thu, 30 Jul 2026 | LAB NIGHTS |  |
+| Thu, 30 Jul 2026 | LAB NIGHTS | Neksi |
 | Thu, 27 Aug 2026 | LAB NIGHTS |  |
 
 ## Address

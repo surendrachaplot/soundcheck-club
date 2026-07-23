@@ -1,6 +1,6 @@
 # Julian's Celebration Station at TBA
 
-Julian's Celebration Station at TBA on Sat 25 Jul, Losangeles. 7 acts on the bill: Capes, Hazy, Rodney (2) and Sky Rivers and 3 more. Tech House and Electro. Preview the line-up and save it on soundcheck.
+Julian's Celebration Station at TBA on Sat 25 Jul, Losangeles. 8 acts on the bill: Capes, Hazy, Rodney (2) and Sky Rivers and 4 more. Tech House and Electro. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -16,6 +16,7 @@ Julian's Celebration Station at TBA on Sat 25 Jul, Losangeles. 7 acts on the bil
 - Sky Rivers
 - WHOS DEREK
 - fun2bjane
+- mad gavs
 - tonytonytony
 
 *Source: [soundcheck](https://soundcheck.club/e/2491232-julian-s-celebration-station-at-tba/)*

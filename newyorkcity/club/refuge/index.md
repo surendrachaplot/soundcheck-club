@@ -11,7 +11,7 @@ Refuge is a music venue in Newyorkcity listed on soundcheck. 8 upcoming nights, 
 | Fri, 24 Jul 2026 | Refuge Friday: Tim Green + David Hohme + Nikki Sadeki | David Hohme, Lost Desert, Niki Sadeki, Tim Green |
 | Sat, 25 Jul 2026 | Refuge Saturday: Kepler, Jay Tripwire, Keen, Max Sprauer & Mario Polanco | Jay Tripwire, Keen, Kepler, Mario Polanco, Max Sprauer |
 | Sun, 26 Jul 2026 | Refuge Sunday: TEED DJ-Kicks Tour, Hot Honey Sundays, Manguito, Ksenyeah | Ksenyeah, Manguito, TEED |
-| Sun, 26 Jul 2026 | Refuge Saturday with Kepler and Jay Tripwire | Jay Tripwire, Kepler |
+| Sun, 26 Jul 2026 | Refuge Saturday with Kepler and Jay Tripwire | Jay Tripwire, Keen, Kepler, Mario Polanco, Max Sprauer |
 | Sat, 1 Aug 2026 | Refuge Saturday Daytime with Oliver Koletzki, Lauren Ritter | Lauren Ritter, Oliver Koletzki |
 | Sat, 5 Sept 2026 | David Morales | David Morales |
 | Sun, 6 Sept 2026 | David Morales | David Morales |

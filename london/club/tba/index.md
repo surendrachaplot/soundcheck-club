@@ -1,14 +1,14 @@
 # TBA
 
-TBA is a music venue in London with 256 upcoming nights listed on soundcheck as of Thu, 23 Jul 2026; the next is "TBA" on Thu, 23 Jul 2026.
+TBA is a music venue in London with 257 upcoming nights listed on soundcheck as of Thu, 23 Jul 2026; the next is "TBA" on Thu, 23 Jul 2026.
 
-TBA is a music venue in London listed on soundcheck. 256 upcoming nights, with line-ups including 18+, 2M (CH), $40 Lawn Chair and 619! and 2 more. Browse upcoming dates, start times and who's playing.
+TBA is a music venue in London listed on soundcheck. 257 upcoming nights, with line-ups including 18+, 2M (CH), $40 Lawn Chair and 619! and 2 more. Browse upcoming dates, start times and who's playing.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Thu, 23 Jul 2026 | TBA | Petal |
+| Thu, 23 Jul 2026 | TBA | Pètal |
 | Thu, 23 Jul 2026 | Botanical pres Alex The Bug |  |
 | Fri, 24 Jul 2026 | Raw Tribal session |  |
 | Fri, 24 Jul 2026 | SENSU • Sub Club Roof Party #8 • Shanti Celeste • Junior & Iggie | Shanti Celeste |

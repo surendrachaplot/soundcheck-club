@@ -1,8 +1,8 @@
 # Bossa Nova Civic Club
 
-Bossa Nova Civic Club is a music venue in New York City with 33 upcoming nights listed on soundcheck as of Thu, 23 Jul 2026; the next is "SKIN2SKIN" on Thu, 23 Jul 2026.
+Bossa Nova Civic Club is a music venue in New York City with 34 upcoming nights listed on soundcheck as of Thu, 23 Jul 2026; the next is "SKIN2SKIN" on Thu, 23 Jul 2026.
 
-Bossa Nova Civic Club is a music venue in Newyorkcity listed on soundcheck. 33 upcoming nights, with line-ups including The AM/AMX, a.gar, AK (US) and Aleska and 2 more. Browse upcoming dates, start times and who's playing. 1271 Myrtle Ave; Brooklyn, NY 11221; United States.
+Bossa Nova Civic Club is a music venue in Newyorkcity listed on soundcheck. 34 upcoming nights, with line-ups including The AM/AMX, a.gar, AK (US) and Aleska and 2 more. Browse upcoming dates, start times and who's playing. 1271 Myrtle Ave; Brooklyn, NY 11221; United States.
 
 ## What's on
 

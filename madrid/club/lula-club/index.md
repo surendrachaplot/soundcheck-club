@@ -9,7 +9,7 @@ Lula Club is a music venue in Madrid listed on soundcheck. 21 upcoming nights, w
 | Date | Night | Line-up |
 | --- | --- | --- |
 | Thu, 23 Jul 2026 | Torrione & FRIENDS | Torrione |
-| Fri, 24 Jul 2026 | FRIDAY NIGHT |  |
+| Fri, 24 Jul 2026 | Torrione, JP Candela, Emmerald | Emmerald, JP Candela, Torrione |
 | Sat, 25 Jul 2026 | Jorge Martin, Torrione, Body-O, Victor Carre | Body-O, CAMET, Torrione |
 | Thu, 30 Jul 2026 | CAMET & LUCHNO | CAMET, Torrione |
 | Fri, 31 Jul 2026 | CAMET, LUCHINO |  |

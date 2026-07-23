@@ -1,6 +1,6 @@
 # Trancecore Open Air with SZG, Riana Holley, Brent Honey, NORO$T, Glen West and many more at Lokschuppen Berlin
 
-Trancecore Open Air with SZG, Riana Holley, Brent Honey, NORO$T, Glen West and many more at Lokschuppen Berlin on Fri 24 Jul, Berlin. 11 acts on the bill: Amøn, August Kind, Brent Honey and FEROTONINO and 7 more. Trance and Techno. Preview the line-up and save it on soundcheck.
+Trancecore Open Air with SZG, Riana Holley, Brent Honey, NORO$T, Glen West and many more at Lokschuppen Berlin on Fri 24 Jul, Berlin. 12 acts on the bill: Amøn, August Kind, Brent Honey and FEROTONINO and 8 more. Trance and Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -14,6 +14,7 @@ Trancecore Open Air with SZG, Riana Holley, Brent Honey, NORO$T, Glen West and m
 - August Kind
 - Brent Honey
 - FEROTONINO
+- Fronsi
 - GMOZ
 - Glen West
 - Jesse Taylor

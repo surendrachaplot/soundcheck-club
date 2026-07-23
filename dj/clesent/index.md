@@ -1,8 +1,8 @@
 # CLESENT
 
-CLESENT is a Tech House and House artist with 2 upcoming club dates listed on soundcheck as of Thu, 23 Jul 2026, next at Azumaya, Tokyo on Fri, 24 Jul 2026.
+CLESENT is a Tech House and House artist with 3 upcoming club dates listed on soundcheck as of Thu, 23 Jul 2026, next at Azumaya, Tokyo on Fri, 24 Jul 2026.
 
-CLESENT is a tech house and house artist based in Japan, tracked on soundcheck, with 104 sets logged across Seoul and Tokyo. Often billed alongside Daitto, BNN WKND and IRODORI. Next up: Azumaya, Tokyo on Fri 24 Jul.
+CLESENT is a tech house and house artist based in Japan, tracked on soundcheck, with 105 sets logged across Seoul and Tokyo. Often billed alongside Daitto, BNN WKND and IRODORI. Next up: Azumaya, Tokyo on Fri 24 Jul.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ CLESENT is a tech house and house artist based in Japan, tracked on soundcheck, 
 | --- | --- | --- |
 | Fri, 24 Jul 2026 | Azumaya | Tokyo |
 | Fri, 7 Aug 2026 | WOMB | Tokyo |
+| Fri, 21 Aug 2026 | Z Maruyama | Tokyo |
 
 ## Recently played
 

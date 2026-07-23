@@ -1,8 +1,8 @@
 # AMEX (UK)
 
-AMEX (UK) is a electronic artist with 87 upcoming club dates listed on soundcheck as of Thu, 23 Jul 2026, next at Institut fuer Zukunft (IfZ), Leipzig on Sat, 25 Jul 2026.
+AMEX (UK) is a electronic artist with 111 upcoming club dates listed on soundcheck as of Thu, 23 Jul 2026, next at Institut fuer Zukunft (IfZ), Leipzig on Sat, 25 Jul 2026.
 
-AMEX (UK) is an electronic artist based in United Kingdom, tracked on soundcheck, with 97 sets logged across Amsterdam, Bali, Barcelona and Berlin and 37 more. Often billed alongside APP, Alaska (2) and Debit. Next up: Institut fuer Zukunft (IfZ), Leipzig on Sat 25 Jul.
+AMEX (UK) is an electronic artist based in United Kingdom, tracked on soundcheck, with 121 sets logged across Amsterdam, Bali, Barcelona and Berlin and 42 more. Often billed alongside APP, Alaska (2) and Debit. Next up: Institut fuer Zukunft (IfZ), Leipzig on Sat 25 Jul.
 
 ## Upcoming shows
 

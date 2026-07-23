@@ -1,8 +1,8 @@
 # Montana
 
-Montana is a Techno and House artist with 87 upcoming club dates listed on soundcheck as of Thu, 23 Jul 2026, next at Institut fuer Zukunft (IfZ), Leipzig on Sat, 25 Jul 2026.
+Montana is a Techno and House artist with 111 upcoming club dates listed on soundcheck as of Thu, 23 Jul 2026, next at Institut fuer Zukunft (IfZ), Leipzig on Sat, 25 Jul 2026.
 
-Montana is a techno and house artist tracked on soundcheck, with 170 sets logged across Amsterdam, Antwerp, Bali and Barcelona and 50 more. Often billed alongside AMEX (UK), APP and Alaska (2). Next up: Institut fuer Zukunft (IfZ), Leipzig on Sat 25 Jul.
+Montana is a techno and house artist tracked on soundcheck, with 194 sets logged across Amsterdam, Antwerp, Bali and Barcelona and 54 more. Often billed alongside AMEX (UK), APP and Alaska (2). Next up: Institut fuer Zukunft (IfZ), Leipzig on Sat 25 Jul.
 
 ## Upcoming shows
 

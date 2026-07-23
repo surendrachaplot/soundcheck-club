@@ -1,8 +1,8 @@
 # INPUT High Fidelity Dance Club
 
-INPUT High Fidelity Dance Club is a music venue in Barcelona with 20 upcoming nights listed on soundcheck as of Thu, 23 Jul 2026; the next is "PRISM Hard pres CHARLIE SPARKS" on Thu, 23 Jul 2026.
+INPUT High Fidelity Dance Club is a music venue in Barcelona with 21 upcoming nights listed on soundcheck as of Thu, 23 Jul 2026; the next is "PRISM Hard pres CHARLIE SPARKS" on Thu, 23 Jul 2026.
 
-INPUT High Fidelity Dance Club is a music venue in Barcelona listed on soundcheck. 20 upcoming nights, with line-ups including 753, Abstract Division, Aiden (DE) and AISHA and 2 more. Browse upcoming dates, start times and who's playing. Avenida de Francesc Ferrer i Guàrdia, 13-27; 08038 Barcelona; Spain.
+INPUT High Fidelity Dance Club is a music venue in Barcelona listed on soundcheck. 21 upcoming nights, with line-ups including 753, Abstract Division, Adiel and Aiden (DE) and 2 more. Browse upcoming dates, start times and who's playing. Avenida de Francesc Ferrer i Guàrdia, 13-27; 08038 Barcelona; Spain.
 
 ## What's on
 

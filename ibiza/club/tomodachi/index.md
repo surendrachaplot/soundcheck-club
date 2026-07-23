@@ -10,7 +10,7 @@ Tomodachi is a music venue in Ibiza listed on soundcheck. 36 upcoming nights. Br
 | --- | --- | --- |
 | Fri, 24 Jul 2026 | Tomodachi 1st Birthday Weekender with Gescu |  |
 | Sat, 25 Jul 2026 | Tomodachi 1st Birthday Weekender with Mella Dee |  |
-| Tue, 28 Jul 2026 | Real Gang |  |
+| Tue, 28 Jul 2026 | Real Gang presents... VOIGTMANN • ALL NIGHT LONG • |  |
 | Thu, 30 Jul 2026 | Chemarea x Ibiza Underground |  |
 | Fri, 31 Jul 2026 | Tomodachi |  |
 | Sat, 1 Aug 2026 | Tomodachi |  |

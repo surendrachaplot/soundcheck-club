@@ -1,8 +1,8 @@
 # BERHTA
 
-BERHTA is a music venue in Washington DC with 12 upcoming nights listed on soundcheck as of Thu, 23 Jul 2026; the next is "Kayzo presents THE CAGE" on Fri, 24 Jul 2026.
+BERHTA is a music venue in Washington DC with 13 upcoming nights listed on soundcheck as of Thu, 23 Jul 2026; the next is "Kayzo presents THE CAGE" on Fri, 24 Jul 2026.
 
-BERHTA is a music venue in Washingtondc listed on soundcheck. 12 upcoming nights, with line-ups including ALT8, Andy C, Cassian and Culture Shock and 2 more. Browse upcoming dates, start times and who's playing. 1237 W Place NE, Washington, D.C., 20018.
+BERHTA is a music venue in Washingtondc listed on soundcheck. 13 upcoming nights, with line-ups including ALT8, Andy C, Cassian and Culture Shock and 2 more. Browse upcoming dates, start times and who's playing. 1237 W Place NE, Washington, D.C., 20018.
 
 ## What's on
 
