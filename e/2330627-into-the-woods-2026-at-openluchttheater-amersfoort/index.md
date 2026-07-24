@@ -1,6 +1,6 @@
 # Into the Woods 2026 at Openluchttheater Amersfoort
 
-Into the Woods 2026 at Openluchttheater Amersfoort on Fri 18 Sept, Amsterdam. 38 acts on the bill: ALISHA, BLANKA, Bastienne and Benny2 and 34 more. Techno and House. Preview the line-up and save it on soundcheck.
+Into the Woods 2026 at Openluchttheater Amersfoort on Fri 18 Sept, Amsterdam. 40 acts on the bill: ALISHA, Ays (NL), BLANKA and Bastienne and 36 more. Techno and House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -11,6 +11,7 @@ Into the Woods 2026 at Openluchttheater Amersfoort on Fri 18 Sept, Amsterdam. 38
 ## Line-up
 
 - ALISHA
+- Ays (NL)
 - BLANKA
 - Bastienne
 - Benny2
@@ -33,6 +34,7 @@ Into the Woods 2026 at Openluchttheater Amersfoort on Fri 18 Sept, Amsterdam. 38
 - Kamma
 - Katia Curie
 - Kléo
+- Malou (NL)
 - Morgan Seatree
 - Nala
 - Nicky Elisabeth

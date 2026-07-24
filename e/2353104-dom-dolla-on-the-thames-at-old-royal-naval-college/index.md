@@ -1,6 +1,6 @@
 # Dom Dolla on the Thames at Old Royal Naval College
 
-Dom Dolla on the Thames at Old Royal Naval College on Sat 1 Aug, London. 1 act on the bill: Dom Dolla. Tech House and Electronica. Preview the line-up and save it on soundcheck.
+Dom Dolla on the Thames at Old Royal Naval College on Sat 1 Aug, London. 4 acts on the bill: Carla Martinez, Dom Dolla, Jordan Brando and SG Lewis. Tech House and Electronica. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,6 +10,9 @@ Dom Dolla on the Thames at Old Royal Naval College on Sat 1 Aug, London. 1 act o
 
 ## Line-up
 
+- Carla Martinez
 - Dom Dolla
+- Jordan Brando
+- SG Lewis
 
 *Source: [soundcheck](https://soundcheck.club/e/2353104-dom-dolla-on-the-thames-at-old-royal-naval-college/)*

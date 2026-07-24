@@ -1,6 +1,6 @@
 # HOUSE RULES PRESENTS: OCTAINE at The Bag Factory
 
-HOUSE RULES PRESENTS: OCTAINE at The Bag Factory on Fri 24 Jul, Manchester. 4 acts on the bill: BRNE, HSTN, RYLO (UK) and SDJ (1). Trance and House. Preview the line-up and save it on soundcheck.
+HOUSE RULES PRESENTS: OCTAINE at The Bag Factory on Fri 24 Jul, Manchester. 5 acts on the bill: ATTA., BRNE, HSTN and RYLO (UK) and 1 more. Trance and House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,6 +10,7 @@ HOUSE RULES PRESENTS: OCTAINE at The Bag Factory on Fri 24 Jul, Manchester. 4 ac
 
 ## Line-up
 
+- ATTA.
 - BRNE
 - HSTN
 - RYLO (UK)

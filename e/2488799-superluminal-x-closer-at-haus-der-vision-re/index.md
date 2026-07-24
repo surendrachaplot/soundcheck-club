@@ -1,6 +1,6 @@
 # Superluminal X Closer at Haus der Visionäre
 
-Superluminal X Closer at Haus der Visionäre on Sat 29 Aug, Berlin. Preview the line-up and save it on soundcheck.
+Superluminal X Closer at Haus der Visionäre on Sat 29 Aug, Berlin. Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

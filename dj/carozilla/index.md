@@ -1,0 +1,29 @@
+# Carozilla
+
+Carozilla is a Disco and House artist with 2 upcoming club dates listed on soundcheck as of Fri, 24 Jul 2026, next at MAD Radio NYC, New York City on Fri, 24 Jul 2026.
+
+Carozilla is a disco and house artist based in United States of America, tracked on soundcheck, with 115 sets logged across Limerick, Losangeles, Miami and Milan and 5 more. Often billed alongside DJ Ray (2), Jinks and Romulo Del Castillo. Next up: MAD Radio NYC, Newyorkcity on Fri 24 Jul.
+
+## Upcoming shows
+
+| Date | Venue | City |
+| --- | --- | --- |
+| Fri, 24 Jul 2026 | MAD Radio NYC | New York City |
+| Sat, 25 Jul 2026 | Dead Letter No. 9 | New York City |
+
+## Recently played
+
+- Good Room, New York City — Sat, 18 Jul 2026
+- Bossa Nova Civic Club, New York City — Thu, 2 Jul 2026
+- Elsewhere, New York City — Thu, 18 Jun 2026
+- Dead Letter No. 9, New York City — Sat, 13 Jun 2026
+- Dead Letter No. 9, New York City — Sat, 30 May 2026
+- public records, New York City — Sat, 16 May 2026
+- Good Room, New York City — Fri, 3 Apr 2026
+- Dead Letter No. 9, New York City — Sat, 21 Mar 2026
+
+## Shares bills with
+
+DJ Ray (2), Jinks, Romulo Del Castillo
+
+*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/carozilla/)*

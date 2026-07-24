@@ -1,0 +1,25 @@
+# Najka
+
+Najka is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Fri, 24 Jul 2026, next at ÆDEN, Berlin on Fri, 31 Jul 2026.
+
+Najka is a techno and house artist based in Germany, tracked on soundcheck, with 6 sets logged across Berlin. Often billed alongside Lisatrix, PyjamaMama and Ancient Alien. Next up: ÆDEN, Berlin on Fri 31 Jul.
+
+## Upcoming shows
+
+| Date | Venue | City |
+| --- | --- | --- |
+| Fri, 31 Jul 2026 | ÆDEN | Berlin |
+| Fri, 21 Aug 2026 | Golden Flamingo | Berlin |
+| Thu, 27 Aug 2026 | Prisma | Berlin |
+
+## Recently played
+
+- Humboldthain Club, Berlin — Fri, 17 Jul 2026
+- Prisma, Berlin — Thu, 21 May 2026
+- Mokka Mitte Bar / James Simon Park, Berlin — Fri, 6 Feb 2026
+
+## Shares bills with
+
+Lisatrix, PyjamaMama, Ancient Alien
+
+*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/najka/)*

@@ -1,6 +1,6 @@
 # Kik0 runway / rave at Distillery N17
 
-Kik0 runway / rave at Distillery N17 on Fri 7 Aug, London. 3 acts on the bill: DJ KIK0, flippedcrosses and shaiwarrior. Bass and Experimental. Preview the line-up and save it on soundcheck.
+Kik0 runway / rave at Distillery N17 on Fri 7 Aug, London. 4 acts on the bill: DJ KIK0, Synapsefirer, flippedcrosses and shaiwarrior. Bass and Experimental. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -11,6 +11,7 @@ Kik0 runway / rave at Distillery N17 on Fri 7 Aug, London. 3 acts on the bill: D
 ## Line-up
 
 - DJ KIK0
+- Synapsefirer
 - flippedcrosses
 - shaiwarrior
 

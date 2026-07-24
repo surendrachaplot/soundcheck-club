@@ -1,6 +1,6 @@
-# EAST Techno at Club Up
+# EAST - Techno at Club Up
 
-EAST Techno at Club Up on Sat 25 Jul, Amsterdam. 2 acts on the bill: Jayzo and Toxic. Techno. Preview the line-up and save it on soundcheck.
+EAST - Techno at Club Up on Sat 25 Jul, Amsterdam. 2 acts on the bill: Jayzo and Toxic. Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

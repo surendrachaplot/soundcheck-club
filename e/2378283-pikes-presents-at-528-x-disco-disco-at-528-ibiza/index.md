@@ -1,6 +1,6 @@
 # PIKES PRESENTS AT 528 X DISCO DISCO at 528 Ibiza
 
-PIKES PRESENTS AT 528 X DISCO DISCO at 528 Ibiza on Tue 18 Aug, Ibiza. 2 acts on the bill: Jayda G and Todd Terje. Preview the line-up and save it on soundcheck.
+PIKES PRESENTS AT 528 X DISCO DISCO at 528 Ibiza on Tue 18 Aug, Ibiza. 2 acts on the bill: Jayda G and Todd Terje. House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

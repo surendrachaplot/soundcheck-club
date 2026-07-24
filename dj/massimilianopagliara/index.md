@@ -1,0 +1,32 @@
+# Massimiliano Pagliara
+
+Massimiliano Pagliara is a House and Techno artist with 5 upcoming club dates listed on soundcheck as of Fri, 24 Jul 2026, next at Bassiani, Tbilisi on Fri, 24 Jul 2026.
+
+Massimiliano Pagliara is a house and techno artist tracked on soundcheck, with 230 sets logged across Amsterdam, Antwerp, Athens and Austin and 61 more. Often billed alongside Jorkes, Boris and Luigi Di Venere. Next up: Bassiani, Tbilisi on Fri 24 Jul.
+
+## Upcoming shows
+
+| Date | Venue | City |
+| --- | --- | --- |
+| Fri, 24 Jul 2026 | Bassiani | Tbilisi |
+| Sat, 25 Jul 2026 | Berghain / Panorama Bar / Säule | Berlin |
+| Sat, 1 Aug 2026 | Zwart Goud Record Store | Amsterdam |
+| Fri, 11 Sept 2026 | The Bridge | Los Angeles |
+| Sat, 26 Sept 2026 | KALT | Strasbourg |
+
+## Recently played
+
+- Ferropolis, Leipzig — Fri, 17 Jul 2026
+- BASEMENT, New York City — Sat, 27 Jun 2026
+- Triennale di Milano, Milan — Thu, 25 Jun 2026
+- Studio Zürich, Zurich — Sat, 20 Jun 2026
+- Audio Club, Geneva — Fri, 19 Jun 2026
+- Ndsm Wharf, Amsterdam — Sat, 13 Jun 2026
+- Nitsa Club, Barcelona — Fri, 12 Jun 2026
+- Blow, Buenos Aires — Sat, 6 Jun 2026
+
+## Shares bills with
+
+Jorkes, Boris, Luigi Di Venere
+
+*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/massimilianopagliara/)*

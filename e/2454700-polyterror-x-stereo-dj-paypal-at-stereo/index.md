@@ -1,6 +1,6 @@
 # polyterror x Stereo: DJ Paypal at Stereo
 
-polyterror x Stereo: DJ Paypal on Sat 22 Aug, Glasgow. 1 act on the bill: DJ Paypal. Footwork. Preview the line-up and save it on soundcheck.
+polyterror x Stereo: DJ Paypal on Sat 22 Aug, Glasgow. 2 acts on the bill: DJ Paypal and polyterror. Experimental and Footwork. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -11,5 +11,6 @@ polyterror x Stereo: DJ Paypal on Sat 22 Aug, Glasgow. 1 act on the bill: DJ Pay
 ## Line-up
 
 - DJ Paypal
+- polyterror
 
 *Source: [soundcheck](https://soundcheck.club/e/2454700-polyterror-x-stereo-dj-paypal-at-stereo/)*
