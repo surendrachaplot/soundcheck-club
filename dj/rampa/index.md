@@ -1,6 +1,6 @@
 # Rampa
 
-Rampa is a House and Techno artist with 5 upcoming club dates listed on soundcheck as of Thu, 23 Jul 2026, next at Zürichsee, Zurich on Sat, 8 Aug 2026.
+Rampa is a House and Techno artist with 5 upcoming club dates listed on soundcheck as of Fri, 24 Jul 2026, next at Zürichsee, Zurich on Sat, 8 Aug 2026.
 
 Rampa is a house and techno artist tracked on soundcheck, with 83 sets logged across Amsterdam, Antwerp, Athens and Bali and 21 more. Often billed alongside &ME, Adam Port and Seth Troxler. Next up: Zürichsee, Zurich on Sat 8 Aug.
 
@@ -29,4 +29,4 @@ Rampa is a house and techno artist tracked on soundcheck, with 83 sets logged ac
 
 &ME, Adam Port, Seth Troxler
 
-*Updated Thu, 23 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/rampa/)*
+*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/rampa/)*

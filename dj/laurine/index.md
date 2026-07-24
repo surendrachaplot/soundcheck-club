@@ -1,6 +1,6 @@
 # Laurine
 
-Laurine is a House and Techno artist with 4 upcoming club dates listed on soundcheck as of Thu, 23 Jul 2026, next at Hall, Tallinn on Fri, 14 Aug 2026.
+Laurine is a House and Techno artist with 4 upcoming club dates listed on soundcheck as of Fri, 24 Jul 2026, next at Hall, Tallinn on Fri, 14 Aug 2026.
 
 Laurine is a house and techno artist tracked on soundcheck, with 116 sets logged across Amsterdam, Barcelona, Berlin and Brussels and 25 more. Often billed alongside Cecilio, S.Moreira and Jorge Escribano. Next up: Hall, Tallinn on Fri 14 Aug.
 
@@ -28,4 +28,4 @@ Laurine is a house and techno artist tracked on soundcheck, with 116 sets logged
 
 Cecilio, S.Moreira, Jorge Escribano
 
-*Updated Thu, 23 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/laurine/)*
+*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/laurine/)*

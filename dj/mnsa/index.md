@@ -1,6 +1,6 @@
 # MNSA
 
-MNSA is a Electro and Pop artist with 2 upcoming club dates listed on soundcheck as of Thu, 23 Jul 2026, next at Elsewhere, New York City on Sat, 25 Jul 2026.
+MNSA is a Electro and Pop artist with 2 upcoming club dates listed on soundcheck as of Fri, 24 Jul 2026, next at Elsewhere, New York City on Sat, 25 Jul 2026.
 
 MNSA is an electro and pop artist based in Canada, tracked on soundcheck, with 52 sets logged across Chicago, Detroit, London and Montreal and 3 more. Often billed alongside Nadim Maghzal, Saphe and Arianna Danae. Next up: Elsewhere, Newyorkcity on Sat 25 Jul.
 
@@ -26,4 +26,4 @@ MNSA is an electro and pop artist based in Canada, tracked on soundcheck, with 5
 
 Nadim Maghzal, Saphe, Arianna Danae
 
-*Updated Thu, 23 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/mnsa/)*
+*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/mnsa/)*

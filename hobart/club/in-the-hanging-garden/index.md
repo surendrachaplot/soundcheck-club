@@ -1,6 +1,6 @@
 # In The Hanging Garden
 
-In The Hanging Garden is a music venue in Hobart with 3 upcoming nights listed on soundcheck as of Thu, 23 Jul 2026; the next is "MONNY - Resonance_01 Debut" on Sat, 15 Aug 2026.
+In The Hanging Garden is a music venue in Hobart with 3 upcoming nights listed on soundcheck as of Fri, 24 Jul 2026; the next is "MONNY - Resonance_01 Debut" on Sat, 15 Aug 2026.
 
 In The Hanging Garden is a music venue in Hobart listed on soundcheck. 3 upcoming nights, with line-ups including DJ Sveta and Loosie Grind. Browse upcoming dates, start times and who's playing. 112 Murray Street, Hobart Tasmania, Australia, 7000.
 
@@ -16,4 +16,4 @@ In The Hanging Garden is a music venue in Hobart listed on soundcheck. 3 upcomin
 
 112 Murray Street, Hobart Tasmania, Australia, 7000, Hobart
 
-*Updated Thu, 23 Jul 2026 · source: [soundcheck](https://soundcheck.club/hobart/club/in-the-hanging-garden/)*
+*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/hobart/club/in-the-hanging-garden/)*

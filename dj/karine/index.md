@@ -1,6 +1,6 @@
 # Karine
 
-Karine is a House and Techno artist with 4 upcoming club dates listed on soundcheck as of Thu, 23 Jul 2026, next at PRST, Vienna on Sat, 25 Jul 2026.
+Karine is a House and Techno artist with 4 upcoming club dates listed on soundcheck as of Fri, 24 Jul 2026, next at PRST, Vienna on Sat, 25 Jul 2026.
 
 Karine is a house and techno artist based in Ukraine, tracked on soundcheck, with 103 sets logged across Amsterdam, Barcelona, Berlin and Brussels and 30 more. Often billed alongside Shakolin, Noizar and Timur Basha. Next up: PRST, Vienna on Sat 25 Jul.
 
@@ -28,4 +28,4 @@ Karine is a house and techno artist based in Ukraine, tracked on soundcheck, wit
 
 Shakolin, Noizar, Timur Basha
 
-*Updated Thu, 23 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/karine/)*
+*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/karine/)*

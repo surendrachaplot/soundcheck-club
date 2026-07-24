@@ -1,6 +1,6 @@
 # BENZA
 
-BENZA is a Techno and House artist with 5 upcoming club dates listed on soundcheck as of Thu, 23 Jul 2026, next at De Fik Garden, Amsterdam on Sat, 25 Jul 2026.
+BENZA is a Techno and House artist with 5 upcoming club dates listed on soundcheck as of Fri, 24 Jul 2026, next at De Fik Garden, Amsterdam on Sat, 25 Jul 2026.
 
 BENZA is a techno and house artist tracked on soundcheck, with 58 sets logged across Amsterdam, Belgrade, Berlin and Ghent and 12 more. Often billed alongside Vilchezz, JKS and NDSTPS. Next up: De Fik Garden, Amsterdam on Sat 25 Jul.
 
@@ -29,4 +29,4 @@ BENZA is a techno and house artist tracked on soundcheck, with 58 sets logged ac
 
 Vilchezz, JKS, NDSTPS
 
-*Updated Thu, 23 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/benza/)*
+*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/benza/)*

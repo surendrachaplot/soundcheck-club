@@ -1,6 +1,6 @@
 # VINVAR
 
-VINVAR is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Thu, 23 Jul 2026, next at Komplex Berlin, Berlin on Sat, 25 Jul 2026.
+VINVAR is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Fri, 24 Jul 2026, next at Komplex Berlin, Berlin on Sat, 25 Jul 2026.
 
 VINVAR is a techno and house artist tracked on soundcheck, with 103 sets logged across Amsterdam, Athens, Barcelona and Berlin and 11 more. Often billed alongside Rakans, LOLSNAKE and Spikey Lee. Next up: Komplex Berlin, Berlin on Sat 25 Jul.
 
@@ -26,4 +26,4 @@ VINVAR is a techno and house artist tracked on soundcheck, with 103 sets logged 
 
 Rakans, LOLSNAKE, Spikey Lee
 
-*Updated Thu, 23 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/vinvar/)*
+*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/vinvar/)*

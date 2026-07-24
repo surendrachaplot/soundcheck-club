@@ -1,6 +1,6 @@
 # Aldonna
 
-Aldonna is a House and Techno artist with 5 upcoming club dates listed on soundcheck as of Thu, 23 Jul 2026, next at Gaffe, London on Sat, 25 Jul 2026.
+Aldonna is a House and Techno artist with 5 upcoming club dates listed on soundcheck as of Fri, 24 Jul 2026, next at Gaffe, London on Sat, 25 Jul 2026.
 
 Aldonna is a house and techno artist tracked on soundcheck, with 125 sets logged across Amsterdam, Bali, Berlin and Brisbane and 25 more. Often billed alongside Tjade, DAWS and D Stone. Next up: Gaffe, London on Sat 25 Jul.
 
@@ -29,4 +29,4 @@ Aldonna is a house and techno artist tracked on soundcheck, with 125 sets logged
 
 Tjade, DAWS, D Stone
 
-*Updated Thu, 23 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/aldonna/)*
+*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/aldonna/)*

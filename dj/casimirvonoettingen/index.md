@@ -1,14 +1,14 @@
 # Casimir von Oettingen
 
-Casimir von Oettingen is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Thu, 23 Jul 2026, next at Marble Bar, Detroit on Fri, 14 Aug 2026.
+Casimir von Oettingen is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Fri, 24 Jul 2026, next at Marble Bar, Detroit on Sat, 15 Aug 2026.
 
-Casimir von Oettingen is a house and techno artist based in Germany, tracked on soundcheck, with 41 sets logged across Berlin, Cologne, Detroit and Hamburg and 4 more. Often billed alongside Leon Licht, Electronic Elephant and Erhardt Schuster. Next up: Marble Bar, Detroit on Fri 14 Aug.
+Casimir von Oettingen is a house and techno artist based in Germany, tracked on soundcheck, with 41 sets logged across Berlin, Cologne, Detroit and Hamburg and 4 more. Often billed alongside Leon Licht, Electronic Elephant and Erhardt Schuster. Next up: Marble Bar, Detroit on Sat 15 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 14 Aug 2026 | Marble Bar | Detroit |
+| Sat, 15 Aug 2026 | Marble Bar | Detroit |
 | Fri, 11 Sept 2026 | Kater | Berlin |
 
 ## Recently played
@@ -26,4 +26,4 @@ Casimir von Oettingen is a house and techno artist based in Germany, tracked on 
 
 Leon Licht, Electronic Elephant, Erhardt Schuster
 
-*Updated Thu, 23 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/casimirvonoettingen/)*
+*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/casimirvonoettingen/)*

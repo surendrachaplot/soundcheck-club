@@ -1,6 +1,6 @@
 # Kameliia
 
-Kameliia is a Techno and House artist with 4 upcoming club dates listed on soundcheck as of Thu, 23 Jul 2026, next at Arzenal, Budapest on Fri, 31 Jul 2026.
+Kameliia is a Techno and House artist with 4 upcoming club dates listed on soundcheck as of Fri, 24 Jul 2026, next at Arzenal, Budapest on Fri, 31 Jul 2026.
 
 Kameliia is a techno and house artist tracked on soundcheck, with 73 sets logged across Amsterdam, Athens, Berlin and Brussels and 21 more. Often billed alongside Setaoc Mass, Ignez and Philippa Pacho. Next up: Arzenal, Budapest on Fri 31 Jul.
 
@@ -28,4 +28,4 @@ Kameliia is a techno and house artist tracked on soundcheck, with 73 sets logged
 
 Setaoc Mass, Ignez, Philippa Pacho
 
-*Updated Thu, 23 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/kameliia/)*
+*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/kameliia/)*

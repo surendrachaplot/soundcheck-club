@@ -1,6 +1,6 @@
 # UNLOCKED
 
-UNLOCKED is a music venue in London with 5 upcoming nights listed on soundcheck as of Thu, 23 Jul 2026; the next is "AEG presents: Kenny Mason" on Thu, 27 Aug 2026.
+UNLOCKED is a music venue in London with 5 upcoming nights listed on soundcheck as of Fri, 24 Jul 2026; the next is "AEG presents: Kenny Mason" on Thu, 27 Aug 2026.
 
 UNLOCKED is a music venue in London listed on soundcheck. 5 upcoming nights, with line-ups including Carina Lawrence, Eelke Kleijn, High Fade and KAS:ST and 2 more. Browse upcoming dates, start times and who's playing. 118, Curtain Road, London, EC2A 3AY.
 
@@ -18,4 +18,4 @@ UNLOCKED is a music venue in London listed on soundcheck. 5 upcoming nights, wit
 
 118, Curtain Road, London, EC2A 3AY, London
 
-*Updated Thu, 23 Jul 2026 · source: [soundcheck](https://soundcheck.club/london/club/unlocked/)*
+*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/london/club/unlocked/)*

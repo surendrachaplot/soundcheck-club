@@ -1,6 +1,6 @@
 # Heléna Star
 
-Heléna Star is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Thu, 23 Jul 2026, next at Two Tribes CAMPFIRE, London on Sat, 8 Aug 2026.
+Heléna Star is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Fri, 24 Jul 2026, next at Two Tribes CAMPFIRE, London on Sat, 8 Aug 2026.
 
 Heléna Star is a house and techno artist tracked on soundcheck, with 49 sets logged across Amsterdam, Berlin, Bristol and Brussels and 2 more. Often billed alongside Jaye Ward, Michelle Manetti and Louise Chen. Next up: Two Tribes CAMPFIRE, London on Sat 8 Aug.
 
@@ -26,4 +26,4 @@ Heléna Star is a house and techno artist tracked on soundcheck, with 49 sets lo
 
 Jaye Ward, Michelle Manetti, Louise Chen
 
-*Updated Thu, 23 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/helenastar/)*
+*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/helenastar/)*

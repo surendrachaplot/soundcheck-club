@@ -1,6 +1,6 @@
 # Lingy
 
-Lingy is a House and Club artist with 3 upcoming club dates listed on soundcheck as of Thu, 23 Jul 2026, next at Gewölbe, Cologne on Sat, 25 Jul 2026.
+Lingy is a House and Club artist with 3 upcoming club dates listed on soundcheck as of Fri, 24 Jul 2026, next at Gewölbe, Cologne on Sat, 25 Jul 2026.
 
 Lingy is a house and club artist based in United Kingdom, tracked on soundcheck, with 16 sets logged across Amsterdam, Cologne, Dusseldorf and London. Often billed alongside Cinthie, DJ Frank and GOME. Next up: Gewölbe, Cologne on Sat 25 Jul.
 
@@ -27,4 +27,4 @@ Lingy is a house and club artist based in United Kingdom, tracked on soundcheck,
 
 Cinthie, DJ Frank, GOME
 
-*Updated Thu, 23 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/lingy/)*
+*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/lingy/)*

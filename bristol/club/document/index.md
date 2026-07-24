@@ -1,6 +1,6 @@
 # Document
 
-Document is a music venue in Bristol with 4 upcoming nights listed on soundcheck as of Thu, 23 Jul 2026; the next is "Trancecoda: Ferry Corsten b2b Markus Schulz" on Sat, 25 Jul 2026.
+Document is a music venue in Bristol with 4 upcoming nights listed on soundcheck as of Fri, 24 Jul 2026; the next is "Trancecoda: Ferry Corsten b2b Markus Schulz" on Sat, 25 Jul 2026.
 
 Document is a music venue in Bristol listed on soundcheck. 4 upcoming nights, with line-ups including Kepler, Altern-8, Amy Wiles and Anil Aras and 2 more. Browse upcoming dates, start times and who's playing. 30 Pennywell Rd, St Jude's, Bristol, BS5 0TH.
 
@@ -17,4 +17,4 @@ Document is a music venue in Bristol listed on soundcheck. 4 upcoming nights, wi
 
 30 Pennywell Rd, St Jude's, Bristol, BS5 0TH, Bristol
 
-*Updated Thu, 23 Jul 2026 · source: [soundcheck](https://soundcheck.club/bristol/club/document/)*
+*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/bristol/club/document/)*

@@ -1,6 +1,6 @@
 # Just Cavalli Milano - Restaurant & Club
 
-Just Cavalli Milano - Restaurant & Club is a music venue in Milan with 1 upcoming night listed on soundcheck as of Thu, 23 Jul 2026; the next is "Sven Väth" on Fri, 11 Sept 2026.
+Just Cavalli Milano - Restaurant & Club is a music venue in Milan with 1 upcoming night listed on soundcheck as of Fri, 24 Jul 2026; the next is "Sven Väth" on Fri, 11 Sept 2026.
 
 Just Cavalli Milano - Restaurant & Club is a music venue in Milan listed on soundcheck. 1 upcoming night, with line-ups including Sven Vath. Browse upcoming dates, start times and who's playing. Torre Branca, Via Luigi Camoens, 20121 Milano MI, Italy.
 
@@ -14,4 +14,4 @@ Just Cavalli Milano - Restaurant & Club is a music venue in Milan listed on soun
 
 Torre Branca, Via Luigi Camoens, 20121 Milano MI, Italy, Milan
 
-*Updated Thu, 23 Jul 2026 · source: [soundcheck](https://soundcheck.club/milan/club/just-cavalli-milano-restaurant-club/)*
+*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/milan/club/just-cavalli-milano-restaurant-club/)*

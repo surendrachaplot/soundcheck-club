@@ -1,6 +1,6 @@
 # Parc Jean-Drapeau
 
-Parc Jean-Drapeau is a music venue in Montreal with 2 upcoming nights listed on soundcheck as of Thu, 23 Jul 2026; the next is "Osheaga 2026" on Fri, 31 Jul 2026.
+Parc Jean-Drapeau is a music venue in Montreal with 2 upcoming nights listed on soundcheck as of Fri, 24 Jul 2026; the next is "Osheaga 2026" on Fri, 31 Jul 2026.
 
 Parc Jean-Drapeau is a music venue in Montreal listed on soundcheck. 2 upcoming nights, with line-ups including Amelie Lens, Bambii, Bob Moses and Brutalismus 3000 and 2 more. Browse upcoming dates, start times and who's playing. 1 Circuit Gilles Villeneuve; Montreal, QC H3C 1A9; Canada.
 
@@ -15,4 +15,4 @@ Parc Jean-Drapeau is a music venue in Montreal listed on soundcheck. 2 upcoming 
 
 1 Circuit Gilles Villeneuve; Montreal, QC H3C 1A9; Canada, Montreal
 
-*Updated Thu, 23 Jul 2026 · source: [soundcheck](https://soundcheck.club/montreal/club/parc-jean-drapeau/)*
+*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/montreal/club/parc-jean-drapeau/)*

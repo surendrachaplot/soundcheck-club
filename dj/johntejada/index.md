@@ -1,6 +1,6 @@
 # John Tejada
 
-John Tejada is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Thu, 23 Jul 2026, next at public records, New York City on Fri, 31 Jul 2026.
+John Tejada is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Fri, 24 Jul 2026, next at public records, New York City on Fri, 31 Jul 2026.
 
 John Tejada is a house and techno artist tracked on soundcheck, with 29 sets logged across Berlin, Denver, London and Losangeles and 5 more. Often billed alongside Danny Goliger, Jacqueline and KiNK. Next up: public records, Newyorkcity on Fri 31 Jul.
 
@@ -27,4 +27,4 @@ John Tejada is a house and techno artist tracked on soundcheck, with 29 sets log
 
 Danny Goliger, Jacqueline, KiNK
 
-*Updated Thu, 23 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/johntejada/)*
+*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/johntejada/)*

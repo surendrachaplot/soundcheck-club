@@ -1,6 +1,6 @@
 # Ostrov Štvanice
 
-Ostrov Štvanice is a music venue in Prague with 1 upcoming night listed on soundcheck as of Thu, 23 Jul 2026; the next is "F2 DAY RAVE: Helena Hauff ★ Nina Farrina ★ Nastya Muravyova ★ Midirama" on Sat, 15 Aug 2026.
+Ostrov Štvanice is a music venue in Prague with 1 upcoming night listed on soundcheck as of Fri, 24 Jul 2026; the next is "F2 DAY RAVE: Helena Hauff ★ Nina Farrina ★ Nastya Muravyova ★ Midirama" on Sat, 15 Aug 2026.
 
 Ostrov Štvanice is a music venue in Prague listed on soundcheck. 1 upcoming night, with line-ups including Dash (CZ), DDK (1), divinity statue and Helena Hauff and 2 more. Browse upcoming dates, start times and who's playing. ostrov Štvanice, 170 00 Praha 7.
 
@@ -14,4 +14,4 @@ Ostrov Štvanice is a music venue in Prague listed on soundcheck. 1 upcoming nig
 
 ostrov Štvanice, 170 00 Praha 7, Prague
 
-*Updated Thu, 23 Jul 2026 · source: [soundcheck](https://soundcheck.club/prague/club/ostrov-tvanice/)*
+*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/prague/club/ostrov-tvanice/)*

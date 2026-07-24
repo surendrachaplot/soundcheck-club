@@ -1,14 +1,13 @@
 # Lincoln Factory
 
-Lincoln Factory is a music venue in Detroit with 9 upcoming nights listed on soundcheck as of Thu, 23 Jul 2026; the next is "small talk with britty., Lo Dazz, and Disc Jockey George" on Thu, 23 Jul 2026.
+Lincoln Factory is a music venue in Detroit with 8 upcoming nights listed on soundcheck as of Fri, 24 Jul 2026; the next is "Friday Night [Official 2Chainz/Lil Wayne Afterparty]" on Fri, 24 Jul 2026.
 
-Lincoln Factory is a music venue in Detroit listed on soundcheck. 9 upcoming nights, with line-ups including AK (US), Augustus Williams, britty. and Disc Jockey George and 2 more. Browse upcoming dates, start times and who's playing. 1331 Holden Street, Detroit, MI 48202, USA.
+Lincoln Factory is a music venue in Detroit listed on soundcheck. 8 upcoming nights, with line-ups including AK (US), Augustus Williams, Disc Jockey George and DJ Nobu and 2 more. Browse upcoming dates, start times and who's playing. 1331 Holden Street, Detroit, MI 48202, USA.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Thu, 23 Jul 2026 | small talk with britty., Lo Dazz, and Disc Jockey George | Disc Jockey George, Lo Dazz, britty. |
 | Fri, 24 Jul 2026 | Friday Night [Official 2Chainz/Lil Wayne Afterparty] | Disc Jockey George |
 | Sat, 25 Jul 2026 | FIESTA HOUSE |  |
 | Sun, 26 Jul 2026 | SLOW JAMS ULTIMATE WHITE PARTY HOSTED BY TREY SONGZ |  |
@@ -22,4 +21,4 @@ Lincoln Factory is a music venue in Detroit listed on soundcheck. 9 upcoming nig
 
 1331 Holden Street, Detroit, MI 48202, USA, Detroit
 
-*Updated Thu, 23 Jul 2026 · source: [soundcheck](https://soundcheck.club/detroit/club/lincoln-factory/)*
+*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/detroit/club/lincoln-factory/)*

@@ -1,6 +1,6 @@
 # Prince Charles
 
-Prince Charles is a music venue in Berlin with 4 upcoming nights listed on soundcheck as of Thu, 23 Jul 2026; the next is "Horse Meat Disco - CSD Party" on Sat, 25 Jul 2026.
+Prince Charles is a music venue in Berlin with 4 upcoming nights listed on soundcheck as of Fri, 24 Jul 2026; the next is "Horse Meat Disco - CSD Party" on Sat, 25 Jul 2026.
 
 Prince Charles is a music venue in Berlin listed on soundcheck. 4 upcoming nights, with line-ups including Alinka, CARISTA, Chlär and Cyan85 and 2 more. Browse upcoming dates, start times and who's playing. Prinzenstrasse 85; Friedrichshain-Kreuzberg; 10969 Berlin; Germany.
 
@@ -17,4 +17,4 @@ Prince Charles is a music venue in Berlin listed on soundcheck. 4 upcoming night
 
 Prinzenstrasse 85; Friedrichshain-Kreuzberg; 10969 Berlin; Germany, Berlin
 
-*Updated Thu, 23 Jul 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/prince-charles/)*
+*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/prince-charles/)*

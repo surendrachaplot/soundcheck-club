@@ -1,8 +1,8 @@
 # Liad Krispin
 
-Liad Krispin is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Thu, 23 Jul 2026, next at Südpol, Hamburg on Sat, 1 Aug 2026.
+Liad Krispin is a Techno and House artist with 4 upcoming club dates listed on soundcheck as of Fri, 24 Jul 2026, next at Südpol, Hamburg on Sat, 1 Aug 2026.
 
-Liad Krispin is a techno and house artist tracked on soundcheck, with 35 sets logged across Berlin, Brussels, Copenhagen and Hamburg and 6 more. Often billed alongside Luigi Di Venere, DSGNRPSSY and Giulia Gutterer. Next up: Südpol, Hamburg on Sat 1 Aug.
+Liad Krispin is a techno and house artist tracked on soundcheck, with 36 sets logged across Berlin, Brussels, Copenhagen and Hamburg and 6 more. Often billed alongside Luigi Di Venere, Budino and DSGNRPSSY. Next up: Südpol, Hamburg on Sat 1 Aug.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Liad Krispin is a techno and house artist tracked on soundcheck, with 35 sets lo
 | --- | --- | --- |
 | Sat, 1 Aug 2026 | Südpol | Hamburg |
 | Sat, 8 Aug 2026 | Kauz | Zurich |
+| Sun, 6 Sept 2026 | Good Room | New York City |
 | Fri, 25 Sept 2026 | Fitzroy | Berlin |
 
 ## Recently played
@@ -25,6 +26,6 @@ Liad Krispin is a techno and house artist tracked on soundcheck, with 35 sets lo
 
 ## Shares bills with
 
-Luigi Di Venere, DSGNRPSSY, Giulia Gutterer
+Luigi Di Venere, Budino, DSGNRPSSY
 
-*Updated Thu, 23 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/liadkrispin/)*
+*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/liadkrispin/)*

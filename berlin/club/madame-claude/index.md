@@ -1,6 +1,6 @@
 # Madame Claude
 
-Madame Claude is a music venue in Berlin with 6 upcoming nights listed on soundcheck as of Thu, 23 Jul 2026; the next is "DUNE: SCHILF + PLUM TEXES + BGTCB + Emmanuelle 5 (DJ-Set)" on Fri, 24 Jul 2026.
+Madame Claude is a music venue in Berlin with 6 upcoming nights listed on soundcheck as of Fri, 24 Jul 2026; the next is "DUNE: SCHILF + PLUM TEXES + BGTCB + Emmanuelle 5 (DJ-Set)" on Fri, 24 Jul 2026.
 
 Madame Claude is a music venue in Berlin listed on soundcheck. 6 upcoming nights, with line-ups including Emmanuelle 5 and Hye-Eun Kim. Browse upcoming dates, start times and who's playing. Lübbener Str. 19, 10997 Berlin, Germany.
 
@@ -19,4 +19,4 @@ Madame Claude is a music venue in Berlin listed on soundcheck. 6 upcoming nights
 
 Lübbener Str. 19, 10997 Berlin, Germany, Berlin
 
-*Updated Thu, 23 Jul 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/madame-claude/)*
+*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/madame-claude/)*

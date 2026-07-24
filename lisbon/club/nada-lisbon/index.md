@@ -1,6 +1,6 @@
 # NADA Lisbon
 
-NADA Lisbon is a music venue in Lisbon with 2 upcoming nights listed on soundcheck as of Thu, 23 Jul 2026; the next is "Pulso_Events X Amsterdam Techno Sessions with Vinicius Honorio (Blueprint - SK_Eleven - Figure) " on Fri, 24 Jul 2026.
+NADA Lisbon is a music venue in Lisbon with 2 upcoming nights listed on soundcheck as of Fri, 24 Jul 2026; the next is "Pulso_Events X Amsterdam Techno Sessions with Vinicius Honorio (Blueprint - SK_Eleven - Figure) " on Fri, 24 Jul 2026.
 
 NADA Lisbon is a music venue in Lisbon listed on soundcheck. 2 upcoming nights, with line-ups including A.Paul, Brusca, Cellow and DJ Link and 2 more. Browse upcoming dates, start times and who's playing. R. Ary dos Santos 3, Armazém 6, 2685-312 Prior Velho - lisbon portugal.
 
@@ -15,4 +15,4 @@ NADA Lisbon is a music venue in Lisbon listed on soundcheck. 2 upcoming nights, 
 
 R. Ary dos Santos 3, Armazém 6, 2685-312 Prior Velho - lisbon portugal, Lisbon
 
-*Updated Thu, 23 Jul 2026 · source: [soundcheck](https://soundcheck.club/lisbon/club/nada-lisbon/)*
+*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/lisbon/club/nada-lisbon/)*

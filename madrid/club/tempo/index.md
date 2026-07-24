@@ -1,6 +1,6 @@
 # Tempo
 
-Tempo is a music venue in Madrid with 1 upcoming night listed on soundcheck as of Thu, 23 Jul 2026; the next is "LAFRENCH" on Sat, 17 Oct 2026.
+Tempo is a music venue in Madrid with 1 upcoming night listed on soundcheck as of Fri, 24 Jul 2026; the next is "LAFRENCH" on Sat, 17 Oct 2026.
 
 Tempo is a music venue in Madrid listed on soundcheck. 1 upcoming night, with line-ups including Barletti and LORA.. Browse upcoming dates, start times and who's playing. Calle del Duque de Osuna, 8; 28015 Madrid; Spain.
 
@@ -14,4 +14,4 @@ Tempo is a music venue in Madrid listed on soundcheck. 1 upcoming night, with li
 
 Calle del Duque de Osuna, 8; 28015 Madrid; Spain, Madrid
 
-*Updated Thu, 23 Jul 2026 · source: [soundcheck](https://soundcheck.club/madrid/club/tempo/)*
+*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/madrid/club/tempo/)*

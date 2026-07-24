@@ -1,6 +1,6 @@
 # Entertainment Project
 
-Entertainment Project is a music venue in Bangkok with 4 upcoming nights listed on soundcheck as of Thu, 23 Jul 2026; the next is "Entertainment Project with Punn Jong" on Fri, 24 Jul 2026.
+Entertainment Project is a music venue in Bangkok with 4 upcoming nights listed on soundcheck as of Fri, 24 Jul 2026; the next is "Entertainment Project with Punn Jong" on Fri, 24 Jul 2026.
 
 Entertainment Project is a music venue in Bangkok listed on soundcheck. 4 upcoming nights. Browse upcoming dates, start times and who's playing. 1107, Khwaeng Si Phraya, Bang Rak, Bangkok 10500.
 
@@ -17,4 +17,4 @@ Entertainment Project is a music venue in Bangkok listed on soundcheck. 4 upcomi
 
 1107, Khwaeng Si Phraya, Bang Rak, Bangkok 10500, Bangkok
 
-*Updated Thu, 23 Jul 2026 · source: [soundcheck](https://soundcheck.club/bangkok/club/entertainment-project/)*
+*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/bangkok/club/entertainment-project/)*

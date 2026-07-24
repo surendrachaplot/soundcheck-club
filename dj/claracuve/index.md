@@ -1,6 +1,6 @@
 # Clara Cuvé
 
-Clara Cuvé is a Techno and House artist with 13 upcoming club dates listed on soundcheck as of Thu, 23 Jul 2026, next at Rebstockpark, Frankfurt on Sat, 25 Jul 2026.
+Clara Cuvé is a Techno and House artist with 13 upcoming club dates listed on soundcheck as of Fri, 24 Jul 2026, next at Rebstockpark, Frankfurt on Sat, 25 Jul 2026.
 
 Clara Cuvé is a techno and house artist tracked on soundcheck, with 223 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 63 more. Often billed alongside Kobosil, MCR-T and 999999999. Next up: Rebstockpark, Frankfurt on Sat 25 Jul.
 
@@ -36,4 +36,4 @@ Clara Cuvé is a techno and house artist tracked on soundcheck, with 223 sets lo
 
 Kobosil, MCR-T, 999999999
 
-*Updated Thu, 23 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/claracuve/)*
+*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/claracuve/)*

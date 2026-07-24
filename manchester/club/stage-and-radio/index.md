@@ -1,6 +1,6 @@
 # Stage and Radio
 
-Stage and Radio is a music venue in Manchester with 23 upcoming nights listed on soundcheck as of Thu, 23 Jul 2026; the next is "3:Step w/ Berwick" on Fri, 24 Jul 2026.
+Stage and Radio is a music venue in Manchester with 23 upcoming nights listed on soundcheck as of Fri, 24 Jul 2026; the next is "3:Step w/ Berwick" on Fri, 24 Jul 2026.
 
 Stage and Radio is a music venue in Manchester listed on soundcheck. 23 upcoming nights, with line-ups including adamine, AJ Jonesy, ArceX and Berwick and 2 more. Browse upcoming dates, start times and who's playing. 43 Port St, Manchester M1 2EQ.
 
@@ -23,4 +23,4 @@ Stage and Radio is a music venue in Manchester listed on soundcheck. 23 upcoming
 
 43 Port St, Manchester M1 2EQ, Manchester
 
-*Updated Thu, 23 Jul 2026 · source: [soundcheck](https://soundcheck.club/manchester/club/stage-and-radio/)*
+*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/manchester/club/stage-and-radio/)*

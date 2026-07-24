@@ -1,6 +1,6 @@
 # Electrowerkz
 
-Electrowerkz is a music venue in London with 14 upcoming nights listed on soundcheck as of Thu, 23 Jul 2026; the next is "Allstate Insurance Roadside Assistance — Coverage and Contact 2026" on Sat, 25 Jul 2026.
+Electrowerkz is a music venue in London with 14 upcoming nights listed on soundcheck as of Fri, 24 Jul 2026; the next is "Allstate Insurance Roadside Assistance — Coverage and Contact 2026" on Sat, 25 Jul 2026.
 
 Electrowerkz is a music venue in London listed on soundcheck. 14 upcoming nights, with line-ups including Alaska (2), AMEX (UK), APP and AyChibs and 2 more. Browse upcoming dates, start times and who's playing. 7 Torrens Street; Islington; London EC1V 1NQ; United Kingdom.
 
@@ -23,4 +23,4 @@ Electrowerkz is a music venue in London listed on soundcheck. 14 upcoming nights
 
 7 Torrens Street; Islington; London EC1V 1NQ; United Kingdom, London
 
-*Updated Thu, 23 Jul 2026 · source: [soundcheck](https://soundcheck.club/london/club/electrowerkz/)*
+*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/london/club/electrowerkz/)*

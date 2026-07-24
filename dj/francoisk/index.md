@@ -1,6 +1,6 @@
 # Francois K
 
-Francois K is a House and Disco artist with 7 upcoming club dates listed on soundcheck as of Thu, 23 Jul 2026, next at Mothership, San Francisco/Oakland on Sat, 25 Jul 2026.
+Francois K is a House and Disco artist with 7 upcoming club dates listed on soundcheck as of Fri, 24 Jul 2026, next at Mothership, San Francisco/Oakland on Sat, 25 Jul 2026.
 
 Francois K is a house and disco artist based in United States of America, tracked on soundcheck, with 110 sets logged across Amsterdam, Bali, Barcelona and Berlin and 24 more. Often billed alongside Joe Claussell, Danny Krivit and Body & Soul. Next up: Mothership, Sanfrancisco on Sat 25 Jul.
 
@@ -31,4 +31,4 @@ Francois K is a house and disco artist based in United States of America, tracke
 
 Joe Claussell, Danny Krivit, Body & Soul
 
-*Updated Thu, 23 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/francoisk/)*
+*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/francoisk/)*

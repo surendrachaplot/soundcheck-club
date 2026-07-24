@@ -1,6 +1,6 @@
 # Adrift
 
-Adrift is a music venue in Tokyo with 1 upcoming night listed on soundcheck as of Thu, 23 Jul 2026; the next is "Tokyo Morning Beats" on Sun, 26 Jul 2026.
+Adrift is a music venue in Tokyo with 1 upcoming night listed on soundcheck as of Fri, 24 Jul 2026; the next is "Tokyo Morning Beats" on Sun, 26 Jul 2026.
 
 Adrift is a music venue in Tokyo listed on soundcheck. 1 upcoming night, with line-ups including AXÖN, AY (10), Kijta and TAKUTO (2). Browse upcoming dates, start times and who's playing. 3-9-23 Kitazawa, Setagayaku, Tokyo.
 
@@ -14,4 +14,4 @@ Adrift is a music venue in Tokyo listed on soundcheck. 1 upcoming night, with li
 
 3-9-23 Kitazawa, Setagayaku, Tokyo, Tokyo
 
-*Updated Thu, 23 Jul 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/adrift/)*
+*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/adrift/)*

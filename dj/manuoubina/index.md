@@ -1,6 +1,6 @@
 # Manu Oubiña
 
-Manu Oubiña is a House and Electro artist with 3 upcoming club dates listed on soundcheck as of Thu, 23 Jul 2026, next at Deseo BS AS, Buenos Aires on Fri, 24 Jul 2026.
+Manu Oubiña is a House and Electro artist with 3 upcoming club dates listed on soundcheck as of Fri, 24 Jul 2026, next at Deseo BS AS, Buenos Aires on Fri, 24 Jul 2026.
 
 Manu Oubiña is a house and electro artist tracked on soundcheck, with 113 sets logged across Amsterdam, Barcelona, Berlin and Buenosaires and 6 more. Often billed alongside LUKAS (4), Guile and Medano. Next up: Deseo BS AS, Buenosaires on Fri 24 Jul.
 
@@ -27,4 +27,4 @@ Manu Oubiña is a house and electro artist tracked on soundcheck, with 113 sets 
 
 LUKAS (4), Guile, Medano
 
-*Updated Thu, 23 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/manuoubina/)*
+*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/manuoubina/)*

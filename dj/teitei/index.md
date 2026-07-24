@@ -1,6 +1,6 @@
 # TEI TEI
 
-TEI TEI is a Techno and Trance artist with 2 upcoming club dates listed on soundcheck as of Thu, 23 Jul 2026, next at Area_osaka, Osaka on Fri, 24 Jul 2026.
+TEI TEI is a Techno and Trance artist with 2 upcoming club dates listed on soundcheck as of Fri, 24 Jul 2026, next at Area_osaka, Osaka on Fri, 24 Jul 2026.
 
 TEI TEI is a techno and trance artist based in China, tracked on soundcheck, with 129 sets logged across Hongkong, Osaka, Shenzhen and Tokyo. Often billed alongside DANDAN, the2$ and MAYUDEPTH. Next up: Area_osaka, Osaka on Fri 24 Jul.
 
@@ -26,4 +26,4 @@ TEI TEI is a techno and trance artist based in China, tracked on soundcheck, wit
 
 DANDAN, the2$, MAYUDEPTH
 
-*Updated Thu, 23 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/teitei/)*
+*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/teitei/)*

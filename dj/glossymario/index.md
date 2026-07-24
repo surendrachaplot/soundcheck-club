@@ -1,6 +1,6 @@
 # Glossy Mario
 
-Glossy Mario is a House and Disco artist with 2 upcoming club dates listed on soundcheck as of Thu, 23 Jul 2026, next at Club Malasaña, Madrid on Fri, 24 Jul 2026.
+Glossy Mario is a House and Disco artist with 2 upcoming club dates listed on soundcheck as of Fri, 24 Jul 2026, next at Club Malasaña, Madrid on Fri, 24 Jul 2026.
 
 Glossy Mario is a house and disco artist based in Spain, tracked on soundcheck, with 54 sets logged across Amsterdam, Barcelona, Berlin and Lisbon and 8 more. Often billed alongside María Latina, Fuentes-Guerra and Anacalypto. Next up: Club Malasaña, Madrid on Fri 24 Jul.
 
@@ -26,4 +26,4 @@ Glossy Mario is a house and disco artist based in Spain, tracked on soundcheck, 
 
 María Latina, Fuentes-Guerra, Anacalypto
 
-*Updated Thu, 23 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/glossymario/)*
+*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/glossymario/)*

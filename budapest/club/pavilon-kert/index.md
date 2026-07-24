@@ -1,6 +1,6 @@
 # Pavilon Kert
 
-Pavilon Kert is a music venue in Budapest with 1 upcoming night listed on soundcheck as of Thu, 23 Jul 2026; the next is "nota bene at Pavilonkert with Reese (DE)" on Sat, 8 Aug 2026.
+Pavilon Kert is a music venue in Budapest with 1 upcoming night listed on soundcheck as of Fri, 24 Jul 2026; the next is "nota bene at Pavilonkert with Reese (DE)" on Sat, 8 Aug 2026.
 
 Pavilon Kert is a music venue in Budapest listed on soundcheck. 1 upcoming night, with line-ups including kD (HU) and Reese_0410. Browse upcoming dates, start times and who's playing. Budapest, Állatkerti krt. 3, 1146 Hungary.
 
@@ -14,4 +14,4 @@ Pavilon Kert is a music venue in Budapest listed on soundcheck. 1 upcoming night
 
 Budapest, Állatkerti krt. 3, 1146 Hungary, Budapest
 
-*Updated Thu, 23 Jul 2026 · source: [soundcheck](https://soundcheck.club/budapest/club/pavilon-kert/)*
+*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/budapest/club/pavilon-kert/)*

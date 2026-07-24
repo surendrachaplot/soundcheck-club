@@ -1,6 +1,6 @@
 # Grace Sands
 
-Grace Sands is a House and Deep House artist with 6 upcoming club dates listed on soundcheck as of Thu, 23 Jul 2026, next at CLUB RAUM, Amsterdam on Sat, 1 Aug 2026.
+Grace Sands is a House and Deep House artist with 6 upcoming club dates listed on soundcheck as of Fri, 24 Jul 2026, next at CLUB RAUM, Amsterdam on Sat, 1 Aug 2026.
 
 Grace Sands is a house and deep house artist tracked on soundcheck, with 135 sets logged across Amsterdam, Barcelona, Berlin and Brighton and 22 more. Often billed alongside Roi Perez, Hannah Holland and Josh Caffé. Next up: CLUB RAUM, Amsterdam on Sat 1 Aug.
 
@@ -30,4 +30,4 @@ Grace Sands is a house and deep house artist tracked on soundcheck, with 135 set
 
 Roi Perez, Hannah Holland, Josh Caffé
 
-*Updated Thu, 23 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/gracesands/)*
+*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/gracesands/)*

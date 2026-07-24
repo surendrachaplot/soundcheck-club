@@ -1,6 +1,6 @@
 # JenTen
 
-JenTen is a Techno and Ghetto Tech artist with 3 upcoming club dates listed on soundcheck as of Thu, 23 Jul 2026, next at OXI, Berlin on Tue, 4 Aug 2026.
+JenTen is a Techno and Ghetto Tech artist with 3 upcoming club dates listed on soundcheck as of Fri, 24 Jul 2026, next at OXI, Berlin on Tue, 4 Aug 2026.
 
 JenTen is a techno and ghetto tech artist tracked on soundcheck, with 37 sets logged across Berlin, Cologne and Dublin. Often billed alongside TAUREAN (2), Ayolxi and Offtrack. Next up: OXI, Berlin on Tue 4 Aug.
 
@@ -27,4 +27,4 @@ JenTen is a techno and ghetto tech artist tracked on soundcheck, with 37 sets lo
 
 TAUREAN (2), Ayolxi, Offtrack
 
-*Updated Thu, 23 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/jenten/)*
+*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/jenten/)*

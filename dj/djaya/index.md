@@ -1,6 +1,6 @@
 # DJ AYA
 
-DJ AYA is a Techno and House artist with 6 upcoming club dates listed on soundcheck as of Thu, 23 Jul 2026, next at Else, Berlin on Sat, 25 Jul 2026.
+DJ AYA is a Techno and House artist with 6 upcoming club dates listed on soundcheck as of Fri, 24 Jul 2026, next at Else, Berlin on Sat, 25 Jul 2026.
 
 DJ AYA is a techno and house artist tracked on soundcheck, with 164 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 37 more. Often billed alongside DJ Fuckoff, Aaron Blau and DJ Gigola. Next up: Else, Berlin on Sat 25 Jul.
 
@@ -30,4 +30,4 @@ DJ AYA is a techno and house artist tracked on soundcheck, with 164 sets logged 
 
 DJ Fuckoff, Aaron Blau, DJ Gigola
 
-*Updated Thu, 23 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/djaya/)*
+*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/djaya/)*

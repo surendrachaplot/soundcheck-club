@@ -1,6 +1,6 @@
 # Dub Athlete
 
-Dub Athlete is a Bass and Dubstep artist with 3 upcoming club dates listed on soundcheck as of Thu, 23 Jul 2026, next at Hackney Wick Multiple Venues, London on Sat, 1 Aug 2026.
+Dub Athlete is a Bass and Dubstep artist with 3 upcoming club dates listed on soundcheck as of Fri, 24 Jul 2026, next at Hackney Wick Multiple Venues, London on Sat, 1 Aug 2026.
 
 Dub Athlete is a bass and dubstep artist tracked on soundcheck, with 57 sets logged across Auckland, Berlin, Brighton and Bristol and 5 more. Often billed alongside DUKU, SGT Pokes and MC Toast. Next up: Hackney Wick Multiple Venues, London on Sat 1 Aug.
 
@@ -27,4 +27,4 @@ Dub Athlete is a bass and dubstep artist tracked on soundcheck, with 57 sets log
 
 DUKU, SGT Pokes, MC Toast
 
-*Updated Thu, 23 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/dubathlete/)*
+*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/dubathlete/)*

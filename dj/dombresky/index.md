@@ -1,6 +1,6 @@
 # Dombresky
 
-Dombresky is a House and Tech House artist with 7 upcoming club dates listed on soundcheck as of Thu, 23 Jul 2026, next at Savaya Bali, Bali on Sat, 25 Jul 2026.
+Dombresky is a House and Tech House artist with 7 upcoming club dates listed on soundcheck as of Fri, 24 Jul 2026, next at Savaya Bali, Bali on Sat, 25 Jul 2026.
 
 Dombresky is a house and tech house artist tracked on soundcheck, with 138 sets logged across Austin, Bali, Barcelona and Boston and 29 more. Often billed alongside Jaded (UK), Cassian and Eli Brown. Next up: Savaya Bali, Bali on Sat 25 Jul.
 
@@ -31,4 +31,4 @@ Dombresky is a house and tech house artist tracked on soundcheck, with 138 sets 
 
 Jaded (UK), Cassian, Eli Brown
 
-*Updated Thu, 23 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/dombresky/)*
+*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/dombresky/)*

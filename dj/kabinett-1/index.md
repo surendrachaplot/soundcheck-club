@@ -1,6 +1,6 @@
 # Kabinett
 
-Kabinett is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Thu, 23 Jul 2026, next at Floyd, Miami on Sat, 25 Jul 2026.
+Kabinett is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Fri, 24 Jul 2026, next at Floyd, Miami on Sat, 25 Jul 2026.
 
 Kabinett is a house and techno artist based in Colombia, tracked on soundcheck, with 19 sets logged across Barcelona, Berlin, Bucharest and London and 6 more. Often billed alongside Nuclear Digital Transistor, Intruso and Martin Noise. Next up: Floyd, Miami on Sat 25 Jul.
 
@@ -27,4 +27,4 @@ Kabinett is a house and techno artist based in Colombia, tracked on soundcheck, 
 
 Nuclear Digital Transistor, Intruso, Martin Noise
 
-*Updated Thu, 23 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/kabinett-1/)*
+*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/kabinett-1/)*

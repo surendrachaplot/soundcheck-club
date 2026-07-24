@@ -1,6 +1,6 @@
 # Nic Fanciulli
 
-Nic Fanciulli is a House and Tech House artist with 11 upcoming club dates listed on soundcheck as of Thu, 23 Jul 2026, next at Ushuaïa Ibiza, Ibiza on Sat, 25 Jul 2026.
+Nic Fanciulli is a House and Tech House artist with 11 upcoming club dates listed on soundcheck as of Fri, 24 Jul 2026, next at Ushuaïa Ibiza, Ibiza on Sat, 25 Jul 2026.
 
 Nic Fanciulli is a house and tech house artist tracked on soundcheck, with 195 sets logged across Amsterdam, Antwerp, Austin and Bali and 43 more. Often billed alongside Andrea Oliva, Raul Rodriguez and Chelina Manuhutu. Next up: Ushuaïa Ibiza, Ibiza on Sat 25 Jul.
 
@@ -35,4 +35,4 @@ Nic Fanciulli is a house and tech house artist tracked on soundcheck, with 195 s
 
 Andrea Oliva, Raul Rodriguez, Chelina Manuhutu
 
-*Updated Thu, 23 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/nicfanciulli/)*
+*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/nicfanciulli/)*

@@ -1,6 +1,6 @@
 # LSDXOXO
 
-LSDXOXO is a Techno and Club artist with 7 upcoming club dates listed on soundcheck as of Thu, 23 Jul 2026, next at RSO.BERLIN, Berlin on Fri, 24 Jul 2026.
+LSDXOXO is a Techno and Club artist with 7 upcoming club dates listed on soundcheck as of Fri, 24 Jul 2026, next at RSO.BERLIN, Berlin on Fri, 24 Jul 2026.
 
 LSDXOXO is a techno and club artist tracked on soundcheck, with 190 sets logged across Amsterdam, Antwerp, Austin and Barcelona and 56 more. Often billed alongside VTSS, Boys Noize and FJAAK. Next up: RSO.BERLIN, Berlin on Fri 24 Jul.
 
@@ -31,4 +31,4 @@ LSDXOXO is a techno and club artist tracked on soundcheck, with 190 sets logged 
 
 VTSS, Boys Noize, FJAAK
 
-*Updated Thu, 23 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/lsdxoxo/)*
+*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/lsdxoxo/)*

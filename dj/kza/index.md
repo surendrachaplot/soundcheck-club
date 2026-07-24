@@ -1,6 +1,6 @@
 # KZA
 
-KZA is a House and Techno artist with 5 upcoming club dates listed on soundcheck as of Thu, 23 Jul 2026, next at Mitsuki, Tokyo on Sat, 1 Aug 2026.
+KZA is a House and Techno artist with 5 upcoming club dates listed on soundcheck as of Fri, 24 Jul 2026, next at Mitsuki, Tokyo on Sat, 1 Aug 2026.
 
 KZA is a house and techno artist tracked on soundcheck, with 176 sets logged across Bali, Losangeles, Osaka and Portland and 4 more. Often billed alongside DJ Emma, Toshiyuki Goto and Kenji Takimi. Next up: Mitsuki, Tokyo on Sat 1 Aug.
 
@@ -29,4 +29,4 @@ KZA is a house and techno artist tracked on soundcheck, with 176 sets logged acr
 
 DJ Emma, Toshiyuki Goto, Kenji Takimi
 
-*Updated Thu, 23 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/kza/)*
+*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/kza/)*

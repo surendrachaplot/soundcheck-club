@@ -1,6 +1,6 @@
 # Yung Singh
 
-Yung Singh is a Garage and House artist with 5 upcoming club dates listed on soundcheck as of Thu, 23 Jul 2026, next at TRANSMISSION DC, Washington DC on Fri, 24 Jul 2026.
+Yung Singh is a Garage and House artist with 5 upcoming club dates listed on soundcheck as of Fri, 24 Jul 2026, next at TRANSMISSION DC, Washington DC on Fri, 24 Jul 2026.
 
 Yung Singh is a garage and house artist tracked on soundcheck, with 167 sets logged across Amsterdam, Antwerp, Auckland and Austin and 54 more. Often billed alongside Bakey, salute and Sally C. Next up: TRANSMISSION DC, Washingtondc on Fri 24 Jul.
 
@@ -29,4 +29,4 @@ Yung Singh is a garage and house artist tracked on soundcheck, with 167 sets log
 
 Bakey, salute, Sally C
 
-*Updated Thu, 23 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/yungsingh/)*
+*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/yungsingh/)*

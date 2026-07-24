@@ -1,6 +1,6 @@
 # Quinta Mira Rio
 
-Quinta Mira Rio is a music venue in Lisbon with 4 upcoming nights listed on soundcheck as of Thu, 23 Jul 2026; the next is "RITMO E FORNO - Pizza Pool Party - Vol. 2" on Fri, 24 Jul 2026.
+Quinta Mira Rio is a music venue in Lisbon with 4 upcoming nights listed on soundcheck as of Fri, 24 Jul 2026; the next is "RITMO E FORNO - Pizza Pool Party - Vol. 2" on Fri, 24 Jul 2026.
 
 Quinta Mira Rio is a music venue in Lisbon listed on soundcheck. 4 upcoming nights, with line-ups including GADDAM, GTH (FR), Luke Alessi and MAFAYA and 2 more. Browse upcoming dates, start times and who's playing. R. do Joinal 2825, Caparica.
 
@@ -17,4 +17,4 @@ Quinta Mira Rio is a music venue in Lisbon listed on soundcheck. 4 upcoming nigh
 
 R. do Joinal 2825, Caparica, Lisbon
 
-*Updated Thu, 23 Jul 2026 · source: [soundcheck](https://soundcheck.club/lisbon/club/quinta-mira-rio/)*
+*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/lisbon/club/quinta-mira-rio/)*

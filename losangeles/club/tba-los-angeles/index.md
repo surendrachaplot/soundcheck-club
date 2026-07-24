@@ -1,6 +1,6 @@
 # TBA - Los Angeles
 
-TBA - Los Angeles is a music venue in Los Angeles with 11 upcoming nights listed on soundcheck as of Thu, 23 Jul 2026; the next is "Amir Javasoul, Sece presented by Capsule Effect" on Fri, 31 Jul 2026.
+TBA - Los Angeles is a music venue in Los Angeles with 11 upcoming nights listed on soundcheck as of Fri, 24 Jul 2026; the next is "Amir Javasoul, Sece presented by Capsule Effect" on Fri, 31 Jul 2026.
 
 TBA - Los Angeles is a music venue in Losangeles listed on soundcheck. 11 upcoming nights, with line-ups including AC13, Adam X, Alan Fitzpatrick and Amir Javasoul and 2 more. Browse upcoming dates, start times and who's playing.
 
@@ -19,4 +19,4 @@ TBA - Los Angeles is a music venue in Losangeles listed on soundcheck. 11 upcomi
 | Sun, 6 Sept 2026 | Intercell LA: Annika Wolfe, DAX J, Grace Dahl, Max Gardner b2b Lorely Mur, & Stef Mendesidis | Annika Wolfe, DAX J, Grace Dahl, Lorely Mur, Max Gardner, Stef Mendesidis |
 | Fri, 11 Sept 2026 | WORK presents: D.Dan [All Night Long] | D.Dan |
 
-*Updated Thu, 23 Jul 2026 · source: [soundcheck](https://soundcheck.club/losangeles/club/tba-los-angeles/)*
+*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/losangeles/club/tba-los-angeles/)*

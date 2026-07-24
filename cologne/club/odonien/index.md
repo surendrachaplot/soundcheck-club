@@ -1,6 +1,6 @@
 # Odonien
 
-Odonien is a music venue in Cologne with 10 upcoming nights listed on soundcheck as of Thu, 23 Jul 2026; the next is "Aura with FUMI, MARRØN" on Fri, 24 Jul 2026.
+Odonien is a music venue in Cologne with 10 upcoming nights listed on soundcheck as of Fri, 24 Jul 2026; the next is "Aura with FUMI, MARRØN" on Fri, 24 Jul 2026.
 
 Odonien is a music venue in Cologne listed on soundcheck. 10 upcoming nights, with line-ups including Alarico, Angie (FR), Anja Schneider and Annemalie and 2 more. Browse upcoming dates, start times and who's playing. Hornstrasse 85; 50825 Cologne; Germany.
 
@@ -23,4 +23,4 @@ Odonien is a music venue in Cologne listed on soundcheck. 10 upcoming nights, wi
 
 Hornstrasse 85; 50825 Cologne; Germany, Cologne
 
-*Updated Thu, 23 Jul 2026 · source: [soundcheck](https://soundcheck.club/cologne/club/odonien/)*
+*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/cologne/club/odonien/)*

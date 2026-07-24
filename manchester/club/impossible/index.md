@@ -1,6 +1,6 @@
 # Impossible
 
-Impossible is a music venue in Manchester with 2 upcoming nights listed on soundcheck as of Thu, 23 Jul 2026; the next is "W&E & Lovebugs, Manchester: Premium vibes. Iconic DJs" on Sat, 25 Jul 2026.
+Impossible is a music venue in Manchester with 2 upcoming nights listed on soundcheck as of Fri, 24 Jul 2026; the next is "W&E & Lovebugs, Manchester: Premium vibes. Iconic DJs" on Sat, 25 Jul 2026.
 
 Impossible is a music venue in Manchester listed on soundcheck. 2 upcoming nights, with line-ups including DJ Chaise, Faro, Lil Meesh and Lipton and 2 more. Browse upcoming dates, start times and who's playing. The Pavilion at The Great Northern Warehouse, 36 Peter Street, Manchester M2 5QR.
 
@@ -15,4 +15,4 @@ Impossible is a music venue in Manchester listed on soundcheck. 2 upcoming night
 
 The Pavilion at The Great Northern Warehouse, 36 Peter Street, Manchester M2 5QR, Manchester
 
-*Updated Thu, 23 Jul 2026 · source: [soundcheck](https://soundcheck.club/manchester/club/impossible/)*
+*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/manchester/club/impossible/)*

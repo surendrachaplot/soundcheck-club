@@ -1,6 +1,6 @@
 # Kapote
 
-Kapote is a House and Disco artist with 4 upcoming club dates listed on soundcheck as of Thu, 23 Jul 2026, next at TBA - Paradies Garten Festival - Schloß Prugg 2, 2460 Gemeinde Bruck an der Leitha, Vienna on Fri, 31 Jul 2026.
+Kapote is a House and Disco artist with 4 upcoming club dates listed on soundcheck as of Fri, 24 Jul 2026, next at TBA - Paradies Garten Festival - Schloß Prugg 2, 2460 Gemeinde Bruck an der Leitha, Vienna on Fri, 31 Jul 2026.
 
 Kapote is a house and disco artist tracked on soundcheck, with 214 sets logged across Amsterdam, Barcelona, Berlin and Brighton and 34 more. Often billed alongside Sam Ruffillo, Gee Lane and Athlete Whippet. Next up: TBA - Paradies Garten Festival - Schloß Prugg 2, 2460 Gemeinde Bruck an der Leitha, Vienna on Fri 31 Jul.
 
@@ -28,4 +28,4 @@ Kapote is a house and disco artist tracked on soundcheck, with 214 sets logged a
 
 Sam Ruffillo, Gee Lane, Athlete Whippet
 
-*Updated Thu, 23 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/kapote/)*
+*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/kapote/)*

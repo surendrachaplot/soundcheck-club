@@ -1,6 +1,6 @@
 # Perc
 
-Perc is a Techno and Industrial artist with 5 upcoming club dates listed on soundcheck as of Thu, 23 Jul 2026, next at Tresor / Globus, Berlin on Fri, 31 Jul 2026.
+Perc is a Techno and Industrial artist with 5 upcoming club dates listed on soundcheck as of Fri, 24 Jul 2026, next at Tresor / Globus, Berlin on Fri, 31 Jul 2026.
 
 Perc is a techno and industrial artist tracked on soundcheck, with 152 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 52 more. Often billed alongside Somniac One, Ansome and DAX J. Next up: Tresor / Globus, Berlin on Fri 31 Jul.
 
@@ -29,4 +29,4 @@ Perc is a techno and industrial artist tracked on soundcheck, with 152 sets logg
 
 Somniac One, Ansome, DAX J
 
-*Updated Thu, 23 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/perc/)*
+*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/perc/)*

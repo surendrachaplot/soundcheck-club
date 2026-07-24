@@ -1,6 +1,6 @@
 # Neue Nationalgalerie
 
-Neue Nationalgalerie is a music venue in Berlin with 6 upcoming nights listed on soundcheck as of Thu, 23 Jul 2026; the next is "CSD Warm-Up at Neue Nationalgalerie" on Sat, 25 Jul 2026.
+Neue Nationalgalerie is a music venue in Berlin with 6 upcoming nights listed on soundcheck as of Fri, 24 Jul 2026; the next is "CSD Warm-Up at Neue Nationalgalerie" on Sat, 25 Jul 2026.
 
 Neue Nationalgalerie is a music venue in Berlin listed on soundcheck. 6 upcoming nights, with line-ups including Dopplereffekt, Gigi Masin, Hildur Guðnadóttir and Michael Rother and 2 more. Browse upcoming dates, start times and who's playing. Potsdamer Straße 50, 10785 Berlin, Germany.
 
@@ -19,4 +19,4 @@ Neue Nationalgalerie is a music venue in Berlin listed on soundcheck. 6 upcoming
 
 Potsdamer Straße 50, 10785 Berlin, Germany, Berlin
 
-*Updated Thu, 23 Jul 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/neue-nationalgalerie/)*
+*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/neue-nationalgalerie/)*

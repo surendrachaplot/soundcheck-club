@@ -1,6 +1,6 @@
 # Kazimier Garden
 
-Kazimier Garden is a music venue in Liverpool with 3 upcoming nights listed on soundcheck as of Thu, 23 Jul 2026; the next is "fruitwerk with special guest Elena P" on Fri, 24 Jul 2026.
+Kazimier Garden is a music venue in Liverpool with 3 upcoming nights listed on soundcheck as of Fri, 24 Jul 2026; the next is "fruitwerk with special guest Elena P" on Fri, 24 Jul 2026.
 
 Kazimier Garden is a music venue in Liverpool listed on soundcheck. 3 upcoming nights, with line-ups including aaypea, Jacinta, Love Machine and robbie vipera and 1 more. Browse upcoming dates, start times and who's playing. 32B Seel Street, Liverpool, United Kingdom.
 
@@ -16,4 +16,4 @@ Kazimier Garden is a music venue in Liverpool listed on soundcheck. 3 upcoming n
 
 32B Seel Street, Liverpool, United Kingdom, Liverpool
 
-*Updated Thu, 23 Jul 2026 · source: [soundcheck](https://soundcheck.club/liverpool/club/kazimier-garden/)*
+*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/liverpool/club/kazimier-garden/)*

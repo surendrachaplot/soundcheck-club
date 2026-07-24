@@ -1,6 +1,6 @@
 # Kancheli
 
-Kancheli is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Thu, 23 Jul 2026, next at Bassiani, Tbilisi on Sat, 25 Jul 2026.
+Kancheli is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Fri, 24 Jul 2026, next at Bassiani, Tbilisi on Sat, 25 Jul 2026.
 
 Kancheli is a techno and house artist tracked on soundcheck, with 98 sets logged across Amsterdam, Athens, Berlin and Brussels and 16 more. Often billed alongside Newa, Ndrx and Zitto. Next up: Bassiani, Tbilisi on Sat 25 Jul.
 
@@ -27,4 +27,4 @@ Kancheli is a techno and house artist tracked on soundcheck, with 98 sets logged
 
 Newa, Ndrx, Zitto
 
-*Updated Thu, 23 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/kancheli/)*
+*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/kancheli/)*

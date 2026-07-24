@@ -1,6 +1,6 @@
 # Joseph Capriati
 
-Joseph Capriati is a Techno and House artist with 20 upcoming club dates listed on soundcheck as of Thu, 23 Jul 2026, next at Rebstockpark, Frankfurt on Sat, 25 Jul 2026.
+Joseph Capriati is a Techno and House artist with 20 upcoming club dates listed on soundcheck as of Fri, 24 Jul 2026, next at Rebstockpark, Frankfurt on Sat, 25 Jul 2026.
 
 Joseph Capriati is a techno and house artist tracked on soundcheck, with 213 sets logged across Amsterdam, Athens, Austin and Bali and 43 more. Often billed alongside Jamie Jones, Indira Paganotto and Dennis Cruz. Next up: Rebstockpark, Frankfurt on Sat 25 Jul.
 
@@ -36,4 +36,4 @@ Joseph Capriati is a techno and house artist tracked on soundcheck, with 213 set
 
 Jamie Jones, Indira Paganotto, Dennis Cruz
 
-*Updated Thu, 23 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/josephcapriati/)*
+*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/josephcapriati/)*

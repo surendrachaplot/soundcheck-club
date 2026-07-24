@@ -1,6 +1,6 @@
 # Belgrave Music Hall
 
-Belgrave Music Hall is a music venue in Leeds with 9 upcoming nights listed on soundcheck as of Thu, 23 Jul 2026; the next is "Listening Group #83 - Thom Yorke / Radiohead Special" on Mon, 27 Jul 2026.
+Belgrave Music Hall is a music venue in Leeds with 9 upcoming nights listed on soundcheck as of Fri, 24 Jul 2026; the next is "Listening Group #83 - Thom Yorke / Radiohead Special" on Mon, 27 Jul 2026.
 
 Belgrave Music Hall is a music venue in Leeds listed on soundcheck. 9 upcoming nights, with line-ups including Bel Cobain, Frost Children and Takuya Nakamura. Browse upcoming dates, start times and who's playing. 1-1A Cross Belgrave Street, LS2 8JP Leeds.
 
@@ -22,4 +22,4 @@ Belgrave Music Hall is a music venue in Leeds listed on soundcheck. 9 upcoming n
 
 1-1A Cross Belgrave Street, LS2 8JP Leeds, Leeds
 
-*Updated Thu, 23 Jul 2026 · source: [soundcheck](https://soundcheck.club/leeds/club/belgrave-music-hall/)*
+*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/leeds/club/belgrave-music-hall/)*

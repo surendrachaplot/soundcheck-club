@@ -1,6 +1,6 @@
 # Watermark
 
-Watermark is a music venue in New York City with 6 upcoming nights listed on soundcheck as of Thu, 23 Jul 2026; the next is "Reggaeton Disco - Perreo Parrty Beach Pier 15" on Sat, 25 Jul 2026.
+Watermark is a music venue in New York City with 6 upcoming nights listed on soundcheck as of Fri, 24 Jul 2026; the next is "Reggaeton Disco - Perreo Parrty Beach Pier 15" on Sat, 25 Jul 2026.
 
 Watermark is a music venue in Newyorkcity listed on soundcheck. 6 upcoming nights. Browse upcoming dates, start times and who's playing. 78 South St., New York, NY 10002, USA.
 
@@ -19,4 +19,4 @@ Watermark is a music venue in Newyorkcity listed on soundcheck. 6 upcoming night
 
 78 South St., New York, NY 10002, USA, New York City
 
-*Updated Thu, 23 Jul 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/watermark/)*
+*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/watermark/)*

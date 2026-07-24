@@ -1,6 +1,6 @@
 # Kudeki
 
-Kudeki is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Thu, 23 Jul 2026, next at THE MAGICK BAR, Rome on Fri, 24 Jul 2026.
+Kudeki is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Fri, 24 Jul 2026, next at THE MAGICK BAR, Rome on Fri, 24 Jul 2026.
 
 Kudeki is a techno and house artist based in United States of America, tracked on soundcheck, with 64 sets logged across Berlin, Detroit, Leipzig and Losangeles and 5 more. Often billed alongside Torsion, Fawks and monosym. Next up: THE MAGICK BAR, Rome on Fri 24 Jul.
 
@@ -26,4 +26,4 @@ Kudeki is a techno and house artist based in United States of America, tracked o
 
 Torsion, Fawks, monosym
 
-*Updated Thu, 23 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/kudeki/)*
+*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/kudeki/)*

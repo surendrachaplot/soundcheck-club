@@ -1,6 +1,6 @@
 # Trancesetters of Westphalia
 
-Trancesetters of Westphalia is a Techno and Trance artist with 3 upcoming club dates listed on soundcheck as of Thu, 23 Jul 2026, next at Circle Park, Brussels on Sat, 8 Aug 2026.
+Trancesetters of Westphalia is a Techno and Trance artist with 3 upcoming club dates listed on soundcheck as of Fri, 24 Jul 2026, next at Circle Park, Brussels on Sat, 8 Aug 2026.
 
 Trancesetters of Westphalia is a techno and trance artist tracked on soundcheck, with 46 sets logged across Berlin, Brussels, Cologne and Copenhagen and 8 more. Often billed alongside GNMR, S.O.N.S and Bambi (FR). Next up: Circle Park, Brussels on Sat 8 Aug.
 
@@ -27,4 +27,4 @@ Trancesetters of Westphalia is a techno and trance artist tracked on soundcheck,
 
 GNMR, S.O.N.S, Bambi (FR)
 
-*Updated Thu, 23 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/trancesettersofwestphalia/)*
+*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/trancesettersofwestphalia/)*

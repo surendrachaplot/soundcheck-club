@@ -1,6 +1,6 @@
 # KOLLIN
 
-KOLLIN is a Club and Bass artist with 3 upcoming club dates listed on soundcheck as of Thu, 23 Jul 2026, next at Bolero, Seoul on Fri, 24 Jul 2026.
+KOLLIN is a Club and Bass artist with 3 upcoming club dates listed on soundcheck as of Fri, 24 Jul 2026, next at Bolero, Seoul on Fri, 24 Jul 2026.
 
 KOLLIN is a club and bass artist tracked on soundcheck, with 47 sets logged across Amsterdam, Berlin, London and Paris and 3 more. Often billed alongside Kitty, DJ Co.kr and KISEWA. Next up: Bolero, Seoul on Fri 24 Jul.
 
@@ -27,4 +27,4 @@ KOLLIN is a club and bass artist tracked on soundcheck, with 47 sets logged acro
 
 Kitty, DJ Co.kr, KISEWA
 
-*Updated Thu, 23 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/kollin/)*
+*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/kollin/)*

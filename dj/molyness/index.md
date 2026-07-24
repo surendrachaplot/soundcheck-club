@@ -1,6 +1,6 @@
 # Molyness
 
-Molyness is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Thu, 23 Jul 2026, next at Entrepôts Dominion, Les, Montreal on Fri, 24 Jul 2026.
+Molyness is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Fri, 24 Jul 2026, next at Entrepôts Dominion, Les, Montreal on Fri, 24 Jul 2026.
 
 Molyness is a house and techno artist tracked on soundcheck, with 52 sets logged across Amsterdam, Berlin, Lisbon and Montreal and 2 more. Often billed alongside Isa Boom, Pekodjinn and Wake Island. Next up: Entrepôts Dominion, Les, Montreal on Fri 24 Jul.
 
@@ -26,4 +26,4 @@ Molyness is a house and techno artist tracked on soundcheck, with 52 sets logged
 
 Isa Boom, Pekodjinn, Wake Island
 
-*Updated Thu, 23 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/molyness/)*
+*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/molyness/)*

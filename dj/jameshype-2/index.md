@@ -1,6 +1,6 @@
 # James Hype (UK)
 
-James Hype (UK) is a House and Tech House artist with 16 upcoming club dates listed on soundcheck as of Thu, 23 Jul 2026, next at Hï Ibiza, Ibiza on Wed, 29 Jul 2026.
+James Hype (UK) is a House and Tech House artist with 16 upcoming club dates listed on soundcheck as of Fri, 24 Jul 2026, next at Hï Ibiza, Ibiza on Wed, 29 Jul 2026.
 
 James Hype (UK) is a house and tech house artist tracked on soundcheck, with 171 sets logged across Amsterdam, Antwerp, Athens and Austin and 39 more. Often billed alongside Meduza, David Guetta and Hannah Laing. Next up: Hï Ibiza, Ibiza on Wed 29 Jul.
 
@@ -36,4 +36,4 @@ James Hype (UK) is a house and tech house artist tracked on soundcheck, with 171
 
 Meduza, David Guetta, Hannah Laing
 
-*Updated Thu, 23 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/jameshype-2/)*
+*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/jameshype-2/)*

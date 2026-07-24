@@ -1,6 +1,6 @@
 # S.Tian
 
-S.Tian is a Techno and House artist with 4 upcoming club dates listed on soundcheck as of Thu, 23 Jul 2026, next at Roxy, Prague on Fri, 24 Jul 2026.
+S.Tian is a Techno and House artist with 4 upcoming club dates listed on soundcheck as of Fri, 24 Jul 2026, next at Roxy, Prague on Fri, 24 Jul 2026.
 
 S.Tian is a techno and house artist tracked on soundcheck, with 57 sets logged across Prague. Often billed alongside Misha Jaru, Fatty M and Feenicks. Next up: Roxy, Prague on Fri 24 Jul.
 
@@ -28,4 +28,4 @@ S.Tian is a techno and house artist tracked on soundcheck, with 57 sets logged a
 
 Misha Jaru, Fatty M, Feenicks
 
-*Updated Thu, 23 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/s.tian/)*
+*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/s.tian/)*

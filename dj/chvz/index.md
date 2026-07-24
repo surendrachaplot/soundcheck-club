@@ -1,6 +1,6 @@
 # CHVZ
 
-CHVZ is a Techno and Trance artist with 3 upcoming club dates listed on soundcheck as of Thu, 23 Jul 2026, next at Stage and Radio, Manchester on Sat, 25 Jul 2026.
+CHVZ is a Techno and Trance artist with 3 upcoming club dates listed on soundcheck as of Fri, 24 Jul 2026, next at Stage and Radio, Manchester on Sat, 25 Jul 2026.
 
 CHVZ is a techno and trance artist tracked on soundcheck, with 10 sets logged across Berlin, Leeds, Liverpool and Malta and 1 more. Often billed alongside EDJM, Anuuk and ArceX. Next up: Stage and Radio, Manchester on Sat 25 Jul.
 
@@ -26,4 +26,4 @@ CHVZ is a techno and trance artist tracked on soundcheck, with 10 sets logged ac
 
 EDJM, Anuuk, ArceX
 
-*Updated Thu, 23 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/chvz/)*
+*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/chvz/)*

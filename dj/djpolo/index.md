@@ -1,6 +1,6 @@
 # DJ Polo
 
-DJ Polo is a Amapiano and UK Funky artist with 2 upcoming club dates listed on soundcheck as of Thu, 23 Jul 2026, next at Night Tales, London on Thu, 30 Jul 2026.
+DJ Polo is a Amapiano and UK Funky artist with 2 upcoming club dates listed on soundcheck as of Fri, 24 Jul 2026, next at Night Tales, London on Thu, 30 Jul 2026.
 
 DJ Polo is an amapiano and uk funky artist based in United Kingdom, tracked on soundcheck, with 43 sets logged across Amsterdam, Bristol, Brussels and Lisbon and 3 more. Often billed alongside DJ Stolen, Blck Mamba and Yemz. Next up: Night Tales, London on Thu 30 Jul.
 
@@ -26,4 +26,4 @@ DJ Polo is an amapiano and uk funky artist based in United Kingdom, tracked on s
 
 DJ Stolen, Blck Mamba, Yemz
 
-*Updated Thu, 23 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/djpolo/)*
+*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/djpolo/)*

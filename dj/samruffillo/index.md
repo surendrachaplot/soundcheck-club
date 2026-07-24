@@ -1,6 +1,6 @@
 # Sam Ruffillo
 
-Sam Ruffillo is a House and Disco artist with 2 upcoming club dates listed on soundcheck as of Thu, 23 Jul 2026, next at Café Schöne Aussichten (CSA), Hamburg on Sat, 25 Jul 2026.
+Sam Ruffillo is a House and Disco artist with 2 upcoming club dates listed on soundcheck as of Fri, 24 Jul 2026, next at Café Schöne Aussichten (CSA), Hamburg on Sat, 25 Jul 2026.
 
 Sam Ruffillo is a house and disco artist tracked on soundcheck, with 108 sets logged across Amsterdam, Auckland, Bali and Barcelona and 32 more. Often billed alongside Kapote, Gee Lane and Stump Valley. Next up: Café Schöne Aussichten (CSA), Hamburg on Sat 25 Jul.
 
@@ -26,4 +26,4 @@ Sam Ruffillo is a house and disco artist tracked on soundcheck, with 108 sets lo
 
 Kapote, Gee Lane, Stump Valley
 
-*Updated Thu, 23 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/samruffillo/)*
+*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/samruffillo/)*

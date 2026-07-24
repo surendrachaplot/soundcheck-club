@@ -1,6 +1,6 @@
 # Lu.Re
 
-Lu.Re is a Garage and House artist with 2 upcoming club dates listed on soundcheck as of Thu, 23 Jul 2026, next at Colour Factory, London on Sat, 15 Aug 2026.
+Lu.Re is a Garage and House artist with 2 upcoming club dates listed on soundcheck as of Fri, 24 Jul 2026, next at Colour Factory, London on Sat, 15 Aug 2026.
 
 Lu.Re is a garage and house artist based in United Kingdom, tracked on soundcheck, with 57 sets logged across Amsterdam, Brighton, Brisbane and Bristol and 9 more. Often billed alongside Oneman, Jaguar and Jossy Mitsu. Next up: Colour Factory, London on Sat 15 Aug.
 
@@ -26,4 +26,4 @@ Lu.Re is a garage and house artist based in United Kingdom, tracked on soundchec
 
 Oneman, Jaguar, Jossy Mitsu
 
-*Updated Thu, 23 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/lu.re/)*
+*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/lu.re/)*

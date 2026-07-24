@@ -1,6 +1,6 @@
 # LonSkii
 
-LonSkii is a Techno and Hardcore artist with 3 upcoming club dates listed on soundcheck as of Thu, 23 Jul 2026, next at Mixmixtv Seongsu, Seoul on Fri, 24 Jul 2026.
+LonSkii is a Techno and Hardcore artist with 3 upcoming club dates listed on soundcheck as of Fri, 24 Jul 2026, next at Mixmixtv Seongsu, Seoul on Fri, 24 Jul 2026.
 
 LonSkii is a techno and hardcore artist based in Thailand, tracked on soundcheck, with 59 sets logged across Bangkok, Osaka, Seoul and Shenzhen and 1 more. Often billed alongside Sam Laxton, André Pillar and The Rocketman. Next up: Mixmixtv Seongsu, Seoul on Fri 24 Jul.
 
@@ -27,4 +27,4 @@ LonSkii is a techno and hardcore artist based in Thailand, tracked on soundcheck
 
 Sam Laxton, André Pillar, The Rocketman
 
-*Updated Thu, 23 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/lonskii/)*
+*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/lonskii/)*

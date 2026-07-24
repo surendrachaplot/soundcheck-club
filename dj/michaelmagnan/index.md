@@ -1,6 +1,6 @@
 # Michael Magnan
 
-Michael Magnan is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Thu, 23 Jul 2026, next at BASEMENT, New York City on Fri, 24 Jul 2026.
+Michael Magnan is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Fri, 24 Jul 2026, next at BASEMENT, New York City on Fri, 24 Jul 2026.
 
 Michael Magnan is a house and techno artist based in United States of America, tracked on soundcheck, with 81 sets logged across Losangeles, Mexicocity, Newyorkcity and Sanfrancisco and 2 more. Often billed alongside Physical Therapy, Nita Aviance and Fatherhood. Next up: BASEMENT, Newyorkcity on Fri 24 Jul.
 
@@ -27,4 +27,4 @@ Michael Magnan is a house and techno artist based in United States of America, t
 
 Physical Therapy, Nita Aviance, Fatherhood
 
-*Updated Thu, 23 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/michaelmagnan/)*
+*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/michaelmagnan/)*

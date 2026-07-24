@@ -1,6 +1,6 @@
 # Richard Gregory
 
-Richard Gregory is a Trance and Techno artist with 2 upcoming club dates listed on soundcheck as of Thu, 23 Jul 2026, next at The Glove That Fits, London on Fri, 21 Aug 2026.
+Richard Gregory is a Trance and Techno artist with 2 upcoming club dates listed on soundcheck as of Fri, 24 Jul 2026, next at The Glove That Fits, London on Fri, 21 Aug 2026.
 
 Richard Gregory is a trance and techno artist based in United Kingdom, tracked on soundcheck, with 41 sets logged across Amsterdam, Berlin, Bristol and Ghent and 5 more. Often billed alongside Lora Mipsum, Carl H and FROND. Next up: The Glove That Fits, London on Fri 21 Aug.
 
@@ -26,4 +26,4 @@ Richard Gregory is a trance and techno artist based in United Kingdom, tracked o
 
 Lora Mipsum, Carl H, FROND
 
-*Updated Thu, 23 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/richardgregory/)*
+*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/richardgregory/)*

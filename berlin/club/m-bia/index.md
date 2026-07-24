@@ -1,6 +1,6 @@
 # M-BIA
 
-M-BIA is a music venue in Berlin with 15 upcoming nights listed on soundcheck as of Thu, 23 Jul 2026; the next is "Blaue Zebras küsst man nicht" on Fri, 24 Jul 2026.
+M-BIA is a music venue in Berlin with 15 upcoming nights listed on soundcheck as of Fri, 24 Jul 2026; the next is "Blaue Zebras küsst man nicht" on Fri, 24 Jul 2026.
 
 M-BIA is a music venue in Berlin listed on soundcheck. 15 upcoming nights, with line-ups including A², Bass, Basstronauten and Bisk and 2 more. Browse upcoming dates, start times and who's playing. Dircksenstr. 123, 10178 Berlin.
 
@@ -23,4 +23,4 @@ M-BIA is a music venue in Berlin listed on soundcheck. 15 upcoming nights, with 
 
 Dircksenstr. 123, 10178 Berlin, Berlin
 
-*Updated Thu, 23 Jul 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/m-bia/)*
+*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/m-bia/)*

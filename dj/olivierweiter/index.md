@@ -1,6 +1,6 @@
 # Olivier Weiter
 
-Olivier Weiter is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Thu, 23 Jul 2026, next at Sloterpark, Amsterdam on Sat, 8 Aug 2026.
+Olivier Weiter is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Fri, 24 Jul 2026, next at Sloterpark, Amsterdam on Sat, 8 Aug 2026.
 
 Olivier Weiter is a techno and house artist tracked on soundcheck, with 64 sets logged across Amsterdam, Berlin, Cologne and Rotterdam and 2 more. Often billed alongside Miss Melera, Huminal and Mees Salomé. Next up: Sloterpark, Amsterdam on Sat 8 Aug.
 
@@ -26,4 +26,4 @@ Olivier Weiter is a techno and house artist tracked on soundcheck, with 64 sets 
 
 Miss Melera, Huminal, Mees Salomé
 
-*Updated Thu, 23 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/olivierweiter/)*
+*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/olivierweiter/)*

@@ -1,6 +1,6 @@
 # World Headquarters
 
-World Headquarters is a music venue in Newcastle with 10 upcoming nights listed on soundcheck as of Thu, 23 Jul 2026; the next is "PropaStompaz - Sunset'2'Sunrise" on Fri, 24 Jul 2026.
+World Headquarters is a music venue in Newcastle with 10 upcoming nights listed on soundcheck as of Fri, 24 Jul 2026; the next is "PropaStompaz - Sunset'2'Sunrise" on Fri, 24 Jul 2026.
 
 World Headquarters is a music venue in Newcastle listed on soundcheck. 10 upcoming nights, with line-ups including CADZOW, Danny Snowden, Neil Bainbridge and Ranger Trucco and 2 more. Browse upcoming dates, start times and who's playing. Curtis Mayfield House, Carliol Square, East, Pilgrim St, Newcastle upon Tyne NE1 6UF.
 
@@ -23,4 +23,4 @@ World Headquarters is a music venue in Newcastle listed on soundcheck. 10 upcomi
 
 Curtis Mayfield House, Carliol Square, East, Pilgrim St, Newcastle upon Tyne NE1 6UF, Newcastle
 
-*Updated Thu, 23 Jul 2026 · source: [soundcheck](https://soundcheck.club/newcastle/club/world-headquarters/)*
+*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/newcastle/club/world-headquarters/)*

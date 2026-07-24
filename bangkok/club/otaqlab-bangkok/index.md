@@ -1,6 +1,6 @@
 # Otaqlab Bangkok
 
-Otaqlab Bangkok is a music venue in Bangkok with 1 upcoming night listed on soundcheck as of Thu, 23 Jul 2026; the next is "Derailed: Transmission Vol.2" on Sat, 1 Aug 2026.
+Otaqlab Bangkok is a music venue in Bangkok with 1 upcoming night listed on soundcheck as of Fri, 24 Jul 2026; the next is "Derailed: Transmission Vol.2" on Sat, 1 Aug 2026.
 
 Otaqlab Bangkok is a music venue in Bangkok listed on soundcheck. 1 upcoming night, with line-ups including Genji. Browse upcoming dates, start times and who's playing. 490/2 Phahoyothin Road Samsen Subdistrict Phaya Thai District, Bangkok 10400.
 
@@ -14,4 +14,4 @@ Otaqlab Bangkok is a music venue in Bangkok listed on soundcheck. 1 upcoming nig
 
 490/2 Phahoyothin Road Samsen Subdistrict Phaya Thai District, Bangkok 10400, Bangkok
 
-*Updated Thu, 23 Jul 2026 · source: [soundcheck](https://soundcheck.club/bangkok/club/otaqlab-bangkok/)*
+*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/bangkok/club/otaqlab-bangkok/)*

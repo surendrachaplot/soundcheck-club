@@ -1,6 +1,6 @@
 # Aimé You
 
-Aimé You is a House and Techno artist with 4 upcoming club dates listed on soundcheck as of Thu, 23 Jul 2026, next at ://about blank, Berlin on Sat, 1 Aug 2026.
+Aimé You is a House and Techno artist with 4 upcoming club dates listed on soundcheck as of Fri, 24 Jul 2026, next at ://about blank, Berlin on Sat, 1 Aug 2026.
 
 Aimé You is a house and techno artist tracked on soundcheck, with 58 sets logged across Berlin, Copenhagen, Hamburg and Munich. Often billed alongside _____.neo, Nikklaas and Seemless. Next up: ://about blank, Berlin on Sat 1 Aug.
 
@@ -28,4 +28,4 @@ Aimé You is a house and techno artist tracked on soundcheck, with 58 sets logge
 
 _____.neo, Nikklaas, Seemless
 
-*Updated Thu, 23 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/aimeyou/)*
+*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/aimeyou/)*

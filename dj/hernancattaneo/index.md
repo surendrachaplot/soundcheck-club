@@ -1,6 +1,6 @@
 # Hernan Cattaneo
 
-Hernan Cattaneo is a Progressive House and House artist with 7 upcoming club dates listed on soundcheck as of Thu, 23 Jul 2026, next at Óbuda Bay, Budapest on Sat, 1 Aug 2026.
+Hernan Cattaneo is a Progressive House and House artist with 7 upcoming club dates listed on soundcheck as of Fri, 24 Jul 2026, next at Óbuda Bay, Budapest on Sat, 1 Aug 2026.
 
 Hernan Cattaneo is a progressive house and house artist tracked on soundcheck, with 136 sets logged across Amsterdam, Antwerp, Auckland and Barcelona and 28 more. Often billed alongside Nick Warren, Graziano Raffa and Simply City. Next up: Óbuda Bay, Budapest on Sat 1 Aug.
 
@@ -31,4 +31,4 @@ Hernan Cattaneo is a progressive house and house artist tracked on soundcheck, w
 
 Nick Warren, Graziano Raffa, Simply City
 
-*Updated Thu, 23 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/hernancattaneo/)*
+*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/hernancattaneo/)*

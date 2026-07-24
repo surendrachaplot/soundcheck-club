@@ -1,6 +1,6 @@
 # KNOXDOTMP3
 
-KNOXDOTMP3 is a Club and Techno artist with 4 upcoming club dates listed on soundcheck as of Thu, 23 Jul 2026, next at TBA - DTLA, Los Angeles on Fri, 24 Jul 2026.
+KNOXDOTMP3 is a Club and Techno artist with 4 upcoming club dates listed on soundcheck as of Fri, 24 Jul 2026, next at TBA - DTLA, Los Angeles on Fri, 24 Jul 2026.
 
 KNOXDOTMP3 is a club and techno artist based in United States of America, tracked on soundcheck, with 14 sets logged across Berlin, Losangeles, Paris and Seattle. Often billed alongside Shane Thomas, Flabbergast (LA) and MISS BRICKS. Next up: TBA - DTLA, Losangeles on Fri 24 Jul.
 
@@ -28,4 +28,4 @@ KNOXDOTMP3 is a club and techno artist based in United States of America, tracke
 
 Shane Thomas, Flabbergast (LA), MISS BRICKS
 
-*Updated Thu, 23 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/knoxdotmp3/)*
+*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/knoxdotmp3/)*

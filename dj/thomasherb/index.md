@@ -1,6 +1,6 @@
 # Thomas Herb
 
-Thomas Herb is a House and Electro artist with 2 upcoming club dates listed on soundcheck as of Thu, 23 Jul 2026, next at Riviera Records Store, Munich on Sat, 25 Jul 2026.
+Thomas Herb is a House and Electro artist with 2 upcoming club dates listed on soundcheck as of Fri, 24 Jul 2026, next at Riviera Records Store, Munich on Sat, 25 Jul 2026.
 
 Thomas Herb is a house and electro artist based in Germany, tracked on soundcheck, with 90 sets logged across Munich. Often billed alongside Sonson, ROBOTIQ and Roberto Sotgia. Next up: Riviera Records Store, Munich on Sat 25 Jul.
 
@@ -26,4 +26,4 @@ Thomas Herb is a house and electro artist based in Germany, tracked on soundchec
 
 Sonson, ROBOTIQ, Roberto Sotgia
 
-*Updated Thu, 23 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/thomasherb/)*
+*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/thomasherb/)*

@@ -1,6 +1,6 @@
 # KlangKuenstler
 
-KlangKuenstler is a Techno and House artist with 5 upcoming club dates listed on soundcheck as of Thu, 23 Jul 2026, next at The Timber Yard, Melbourne on Fri, 21 Aug 2026.
+KlangKuenstler is a Techno and House artist with 5 upcoming club dates listed on soundcheck as of Fri, 24 Jul 2026, next at The Timber Yard, Melbourne on Fri, 21 Aug 2026.
 
 KlangKuenstler is a techno and house artist tracked on soundcheck, with 168 sets logged across Amsterdam, Antwerp, Athens and Austin and 58 more. Often billed alongside Daria Kolosova, Kobosil and I Hate Models. Next up: The Timber Yard, Melbourne on Fri 21 Aug.
 
@@ -29,4 +29,4 @@ KlangKuenstler is a techno and house artist tracked on soundcheck, with 168 sets
 
 Daria Kolosova, Kobosil, I Hate Models
 
-*Updated Thu, 23 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/klangkuenstler/)*
+*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/klangkuenstler/)*

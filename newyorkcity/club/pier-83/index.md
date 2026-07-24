@@ -1,6 +1,6 @@
 # Pier 83
 
-Pier 83 is a music venue in New York City with 1 upcoming night listed on soundcheck as of Thu, 23 Jul 2026; the next is "Allstate Insurance Near Me — Locations, Coverage, and Bill Pay 2026" on Sat, 25 Jul 2026.
+Pier 83 is a music venue in New York City with 1 upcoming night listed on soundcheck as of Fri, 24 Jul 2026; the next is "Allstate Insurance Near Me — Locations, Coverage, and Bill Pay 2026" on Sat, 25 Jul 2026.
 
 Pier 83 is a music venue in Newyorkcity listed on soundcheck. 1 upcoming night, with line-ups including Alaska (2), AMEX (UK), APP and Charlotte (FR) and 2 more. Browse upcoming dates, start times and who's playing. 42nd St. and 12th Ave.
 
@@ -14,4 +14,4 @@ Pier 83 is a music venue in Newyorkcity listed on soundcheck. 1 upcoming night, 
 
 42nd St. and 12th Ave, New York City
 
-*Updated Thu, 23 Jul 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/pier-83/)*
+*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/pier-83/)*

@@ -1,6 +1,6 @@
 # Lovefingers
 
-Lovefingers is a House and Disco artist with 2 upcoming club dates listed on soundcheck as of Thu, 23 Jul 2026, next at The Bridge, Los Angeles on Sat, 8 Aug 2026.
+Lovefingers is a House and Disco artist with 2 upcoming club dates listed on soundcheck as of Fri, 24 Jul 2026, next at The Bridge, Los Angeles on Sat, 8 Aug 2026.
 
 Lovefingers is a house and disco artist based in United States of America, tracked on soundcheck, with 91 sets logged across Amsterdam, Athens, Bali and Bangkok and 23 more. Often billed alongside Heidi Lawden, Bears In Space and Stacy Christine. Next up: The Bridge, Losangeles on Sat 8 Aug.
 
@@ -26,4 +26,4 @@ Lovefingers is a house and disco artist based in United States of America, track
 
 Heidi Lawden, Bears In Space, Stacy Christine
 
-*Updated Thu, 23 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/lovefingers/)*
+*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/lovefingers/)*

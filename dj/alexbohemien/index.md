@@ -1,6 +1,6 @@
 # Alex Bohemien
 
-Alex Bohemien is a Tech House and House artist with 2 upcoming club dates listed on soundcheck as of Thu, 23 Jul 2026, next at WOMB, Tokyo on Sat, 25 Jul 2026.
+Alex Bohemien is a Tech House and House artist with 2 upcoming club dates listed on soundcheck as of Fri, 24 Jul 2026, next at WOMB, Tokyo on Sat, 25 Jul 2026.
 
 Alex Bohemien is a tech house and house artist tracked on soundcheck, with 53 sets logged across Amsterdam, Barcelona, Ibiza and London and 2 more. Often billed alongside Key Eff, Broosk and Redical. Next up: WOMB, Tokyo on Sat 25 Jul.
 
@@ -26,4 +26,4 @@ Alex Bohemien is a tech house and house artist tracked on soundcheck, with 53 se
 
 Key Eff, Broosk, Redical
 
-*Updated Thu, 23 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/alexbohemien/)*
+*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/alexbohemien/)*

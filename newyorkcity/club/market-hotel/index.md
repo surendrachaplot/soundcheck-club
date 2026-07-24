@@ -1,6 +1,6 @@
 # Market Hotel
 
-Market Hotel is a music venue in New York City with 4 upcoming nights listed on soundcheck as of Thu, 23 Jul 2026; the next is "MUSIC, FASHION, FILM ALBUM RELEASE PARTY: A CHARLI XCX PARTY" on Fri, 24 Jul 2026.
+Market Hotel is a music venue in New York City with 4 upcoming nights listed on soundcheck as of Fri, 24 Jul 2026; the next is "MUSIC, FASHION, FILM ALBUM RELEASE PARTY: A CHARLI XCX PARTY" on Fri, 24 Jul 2026.
 
 Market Hotel is a music venue in Newyorkcity listed on soundcheck. 4 upcoming nights. Browse upcoming dates, start times and who's playing. 1140 Myrtle Avenue; Brooklyn, NY 11206; United States.
 
@@ -17,4 +17,4 @@ Market Hotel is a music venue in Newyorkcity listed on soundcheck. 4 upcoming ni
 
 1140 Myrtle Avenue; Brooklyn, NY 11206; United States, New York City
 
-*Updated Thu, 23 Jul 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/market-hotel/)*
+*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/market-hotel/)*

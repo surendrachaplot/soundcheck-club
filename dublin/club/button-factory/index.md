@@ -1,6 +1,6 @@
 # Button Factory
 
-Button Factory is a music venue in Dublin with 5 upcoming nights listed on soundcheck as of Thu, 23 Jul 2026; the next is "BassLine Dub: Wheats at The Button Factory" on Sat, 1 Aug 2026.
+Button Factory is a music venue in Dublin with 5 upcoming nights listed on soundcheck as of Fri, 24 Jul 2026; the next is "BassLine Dub: Wheats at The Button Factory" on Sat, 1 Aug 2026.
 
 Button Factory is a music venue in Dublin listed on soundcheck. 5 upcoming nights, with line-ups including Arrested Development, Cassius, Jake Fitz and Max Cooper and 2 more. Browse upcoming dates, start times and who's playing. 2 Curved Street; Dublin 2; Ireland.
 
@@ -18,4 +18,4 @@ Button Factory is a music venue in Dublin listed on soundcheck. 5 upcoming night
 
 2 Curved Street; Dublin 2; Ireland, Dublin
 
-*Updated Thu, 23 Jul 2026 · source: [soundcheck](https://soundcheck.club/dublin/club/button-factory/)*
+*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/dublin/club/button-factory/)*

@@ -1,8 +1,8 @@
 # Nico Moreno
 
-Nico Moreno is a Techno and House artist with 6 upcoming club dates listed on soundcheck as of Thu, 23 Jul 2026, next at Forte Antenne, Rome on Sat, 25 Jul 2026.
+Nico Moreno is a Techno and House artist with 7 upcoming club dates listed on soundcheck as of Fri, 24 Jul 2026, next at Forte Antenne, Rome on Sat, 25 Jul 2026.
 
-Nico Moreno is a techno and house artist tracked on soundcheck, with 187 sets logged across Amsterdam, Antwerp, Athens and Austin and 61 more. Often billed alongside DYEN, I Hate Models and Trym. Next up: Forte Antenne, Rome on Sat 25 Jul.
+Nico Moreno is a techno and house artist tracked on soundcheck, with 188 sets logged across Amsterdam, Antwerp, Athens and Austin and 61 more. Often billed alongside DYEN, I Hate Models and Trym. Next up: Forte Antenne, Rome on Sat 25 Jul.
 
 ## Upcoming shows
 
@@ -14,6 +14,7 @@ Nico Moreno is a techno and house artist tracked on soundcheck, with 187 sets lo
 | Fri, 11 Sept 2026 | Circuit de Barcelona - Catalunya | Barcelona |
 | Sat, 12 Sept 2026 | TBA - Grand Parc Miribel Jonage | Lyon |
 | Sat, 19 Sept 2026 | TBA - Pabellón Oeste del Palacio de los Deportes | Mexico City |
+| Thu, 22 Oct 2026 | GASHOUDER | Amsterdam |
 
 ## Recently played
 
@@ -30,4 +31,4 @@ Nico Moreno is a techno and house artist tracked on soundcheck, with 187 sets lo
 
 DYEN, I Hate Models, Trym
 
-*Updated Thu, 23 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/nicomoreno/)*
+*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/nicomoreno/)*

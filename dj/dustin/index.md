@@ -1,6 +1,6 @@
 # DJ Dustin
 
-DJ Dustin is a House and Techno artist with 4 upcoming club dates listed on soundcheck as of Thu, 23 Jul 2026, next at BLITZ, Munich on Fri, 24 Jul 2026.
+DJ Dustin is a House and Techno artist with 4 upcoming club dates listed on soundcheck as of Fri, 24 Jul 2026, next at BLITZ, Munich on Fri, 24 Jul 2026.
 
 DJ Dustin is a house and techno artist tracked on soundcheck, with 91 sets logged across Amsterdam, Auckland, Bali and Bangkok and 24 more. Often billed alongside Konstantin, Yamour and Map.ache. Next up: BLITZ, Munich on Fri 24 Jul.
 
@@ -28,4 +28,4 @@ DJ Dustin is a house and techno artist tracked on soundcheck, with 91 sets logge
 
 Konstantin, Yamour, Map.ache
 
-*Updated Thu, 23 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/dustin/)*
+*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/dustin/)*

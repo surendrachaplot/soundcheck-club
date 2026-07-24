@@ -1,6 +1,6 @@
 # Lance Morgan
 
-Lance Morgan is a Deep House and House artist with 3 upcoming club dates listed on soundcheck as of Thu, 23 Jul 2026, next at 93 Feet East, London on Sat, 1 Aug 2026.
+Lance Morgan is a Deep House and House artist with 3 upcoming club dates listed on soundcheck as of Fri, 24 Jul 2026, next at 93 Feet East, London on Sat, 1 Aug 2026.
 
 Lance Morgan is a deep house and house artist tracked on soundcheck, with 51 sets logged across Birmingham, Leeds and London. Often billed alongside Mark Radford, B3 and Dominique Danielle. Next up: 93 Feet East, London on Sat 1 Aug.
 
@@ -27,4 +27,4 @@ Lance Morgan is a deep house and house artist tracked on soundcheck, with 51 set
 
 Mark Radford, B3, Dominique Danielle
 
-*Updated Thu, 23 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/lancemorgan/)*
+*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/lancemorgan/)*

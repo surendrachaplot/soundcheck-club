@@ -1,6 +1,6 @@
 # DJ Gigola
 
-DJ Gigola is a Techno and House artist with 13 upcoming club dates listed on soundcheck as of Thu, 23 Jul 2026, next at Rebstockpark, Frankfurt on Sat, 25 Jul 2026.
+DJ Gigola is a Techno and House artist with 13 upcoming club dates listed on soundcheck as of Fri, 24 Jul 2026, next at Rebstockpark, Frankfurt on Sat, 25 Jul 2026.
 
 DJ Gigola is a techno and house artist tracked on soundcheck, with 237 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 62 more. Often billed alongside MCR-T, KI/KI and Anetha. Next up: Rebstockpark, Frankfurt on Sat 25 Jul.
 
@@ -36,4 +36,4 @@ DJ Gigola is a techno and house artist tracked on soundcheck, with 237 sets logg
 
 MCR-T, KI/KI, Anetha
 
-*Updated Thu, 23 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/djgigola/)*
+*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/djgigola/)*

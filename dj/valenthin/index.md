@@ -1,8 +1,8 @@
 # Valenthin
 
-Valenthin is a Techno and Trance artist with 2 upcoming club dates listed on soundcheck as of Thu, 23 Jul 2026, next at Aether Club Budapest, Budapest on Fri, 24 Jul 2026.
+Valenthin is a Techno and Trance artist with 2 upcoming club dates listed on soundcheck as of Fri, 24 Jul 2026, next at Aether Club Budapest, Budapest on Fri, 24 Jul 2026.
 
-Valenthin is a techno and trance artist based in Hungary, tracked on soundcheck, with 67 sets logged across Berlin, Budapest, Rotterdam and Vienna. Often billed alongside Paralich, THIRD 2HIFT and SABBER. Next up: Aether Club Budapest, Budapest on Fri 24 Jul.
+Valenthin is a techno and trance artist based in Hungary, tracked on soundcheck, with 67 sets logged across Berlin, Budapest, Rotterdam and Vienna. Often billed alongside Paralich, THIRD 2HIFT and schraeder. Next up: Aether Club Budapest, Budapest on Fri 24 Jul.
 
 ## Upcoming shows
 
@@ -24,6 +24,6 @@ Valenthin is a techno and trance artist based in Hungary, tracked on soundcheck,
 
 ## Shares bills with
 
-Paralich, THIRD 2HIFT, SABBER
+Paralich, THIRD 2HIFT, schraeder
 
-*Updated Thu, 23 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/valenthin/)*
+*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/valenthin/)*

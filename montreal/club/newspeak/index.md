@@ -1,6 +1,6 @@
 # Newspeak
 
-Newspeak is a music venue in Montreal with 7 upcoming nights listed on soundcheck as of Thu, 23 Jul 2026; the next is "THE SESSION & NEON PRESENT: JUSTIN HAWKES RAFIX @ NEWSPEAK" on Fri, 24 Jul 2026.
+Newspeak is a music venue in Montreal with 7 upcoming nights listed on soundcheck as of Fri, 24 Jul 2026; the next is "THE SESSION & NEON PRESENT: JUSTIN HAWKES RAFIX @ NEWSPEAK" on Fri, 24 Jul 2026.
 
 Newspeak is a music venue in Montreal listed on soundcheck. 7 upcoming nights, with line-ups including Dusky, Gabriel & Dresden, KLOUD and Linska and 1 more. Browse upcoming dates, start times and who's playing. 1403 Rue Sainte-Elisabeth, Montréal, QC H2X 3C5.
 
@@ -20,4 +20,4 @@ Newspeak is a music venue in Montreal listed on soundcheck. 7 upcoming nights, w
 
 1403 Rue Sainte-Elisabeth, Montréal, QC H2X 3C5, Montreal
 
-*Updated Thu, 23 Jul 2026 · source: [soundcheck](https://soundcheck.club/montreal/club/newspeak/)*
+*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/montreal/club/newspeak/)*

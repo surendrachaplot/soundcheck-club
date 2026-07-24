@@ -1,6 +1,6 @@
 # Bloody Mary
 
-Bloody Mary is a Techno and Acid artist with 4 upcoming club dates listed on soundcheck as of Thu, 23 Jul 2026, next at Razzmatazz, Barcelona on Sat, 25 Jul 2026.
+Bloody Mary is a Techno and Acid artist with 4 upcoming club dates listed on soundcheck as of Fri, 24 Jul 2026, next at Razzmatazz, Barcelona on Sat, 25 Jul 2026.
 
 Bloody Mary is a techno and acid artist tracked on soundcheck, with 139 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 38 more. Often billed alongside Alienata, Afra and Kris Baha. Next up: Razzmatazz, Barcelona on Sat 25 Jul.
 
@@ -28,4 +28,4 @@ Bloody Mary is a techno and acid artist tracked on soundcheck, with 139 sets log
 
 Alienata, Afra, Kris Baha
 
-*Updated Thu, 23 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/bloodymary/)*
+*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/bloodymary/)*

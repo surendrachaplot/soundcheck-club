@@ -1,6 +1,6 @@
 # Desolate Discotheque
 
-Desolate Discotheque is a EBM and Techno artist with 2 upcoming club dates listed on soundcheck as of Thu, 23 Jul 2026, next at ://about blank, Berlin on Fri, 7 Aug 2026.
+Desolate Discotheque is a EBM and Techno artist with 2 upcoming club dates listed on soundcheck as of Fri, 24 Jul 2026, next at ://about blank, Berlin on Fri, 7 Aug 2026.
 
 Desolate Discotheque is an ebm and techno artist tracked on soundcheck, with 57 sets logged across Athens, Berlin, Budapest and Frankfurt and 5 more. Often billed alongside Xpresso Martina, Unhealed and Electric Visionary. Next up: ://about blank, Berlin on Fri 7 Aug.
 
@@ -26,4 +26,4 @@ Desolate Discotheque is an ebm and techno artist tracked on soundcheck, with 57 
 
 Xpresso Martina, Unhealed, Electric Visionary
 
-*Updated Thu, 23 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/desolatediscotheque/)*
+*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/desolatediscotheque/)*

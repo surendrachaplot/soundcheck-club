@@ -1,6 +1,6 @@
 # Nassstya
 
-Nassstya is a Bass and Drum & Bass artist with 3 upcoming club dates listed on soundcheck as of Thu, 23 Jul 2026, next at Hafenklang, Hamburg on Sat, 25 Jul 2026.
+Nassstya is a Bass and Drum & Bass artist with 3 upcoming club dates listed on soundcheck as of Fri, 24 Jul 2026, next at Hafenklang, Hamburg on Sat, 25 Jul 2026.
 
 Nassstya is a bass and drum & bass artist based in Germany, tracked on soundcheck, with 14 sets logged across Berlin, Hamburg and Leipzig. Often billed alongside Sarah Q, Usus and Bandulera. Next up: Hafenklang, Hamburg on Sat 25 Jul.
 
@@ -27,4 +27,4 @@ Nassstya is a bass and drum & bass artist based in Germany, tracked on soundchec
 
 Sarah Q, Usus, Bandulera
 
-*Updated Thu, 23 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/nassstya/)*
+*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/nassstya/)*

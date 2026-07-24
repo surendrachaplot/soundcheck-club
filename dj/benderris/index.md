@@ -1,6 +1,6 @@
 # Ben Derris
 
-Ben Derris is a Trance and House artist with 2 upcoming club dates listed on soundcheck as of Thu, 23 Jul 2026, next at Karoline 45, Hamburg on Sat, 8 Aug 2026.
+Ben Derris is a Trance and House artist with 2 upcoming club dates listed on soundcheck as of Fri, 24 Jul 2026, next at Karoline 45, Hamburg on Sat, 8 Aug 2026.
 
 Ben Derris is a trance and house artist based in Germany, tracked on soundcheck, with 93 sets logged across Berlin, Cologne, Copenhagen and Frankfurt and 9 more. Often billed alongside Linus Villa, djvonnebenan and Sony2k. Next up: Karoline 45, Hamburg on Sat 8 Aug.
 
@@ -26,4 +26,4 @@ Ben Derris is a trance and house artist based in Germany, tracked on soundcheck,
 
 Linus Villa, djvonnebenan, Sony2k
 
-*Updated Thu, 23 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/benderris/)*
+*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/benderris/)*

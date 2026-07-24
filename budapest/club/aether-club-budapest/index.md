@@ -1,6 +1,6 @@
 # Aether Club Budapest
 
-Aether Club Budapest is a music venue in Budapest with 5 upcoming nights listed on soundcheck as of Thu, 23 Jul 2026; the next is "NO TOMORROW - CRB, Daddy D, Valenthin, SABBER" on Fri, 24 Jul 2026.
+Aether Club Budapest is a music venue in Budapest with 5 upcoming nights listed on soundcheck as of Fri, 24 Jul 2026; the next is "NO TOMORROW - PiNK HARMONY, schraeder, Valenthin, SABBER" on Fri, 24 Jul 2026.
 
 Aether Club Budapest is a music venue in Budapest listed on soundcheck. 5 upcoming nights, with line-ups including ädene, Akác, And/Or and Antique (HU) and 2 more. Browse upcoming dates, start times and who's playing. Király street 13, Budapest, 1075, Hungary.
 
@@ -8,7 +8,7 @@ Aether Club Budapest is a music venue in Budapest listed on soundcheck. 5 upcomi
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Fri, 24 Jul 2026 | NO TOMORROW - CRB, Daddy D, Valenthin, SABBER | CRB, Daddy D, SABBER, Valenthin |
+| Fri, 24 Jul 2026 | NO TOMORROW - PiNK HARMONY, schraeder, Valenthin, SABBER | CRB, Daddy D, PiNK HARMONY, SABBER, Valenthin, schraeder |
 | Sat, 25 Jul 2026 | AETHER HEROES: Sobek, Captain Knuckles, Antique, Daniel Moritz | Antique (HU), Captain Knuckles, Daniel Moritz, Sobek |
 | Fri, 31 Jul 2026 | AETHER NO TOMORROW: Ipar, And/Or, dtnb, Gingershot | Akác, And/Or, Gingershot, dtnb |
 | Fri, 7 Aug 2026 | SOAKIN' GROOVE: Daniel Moritz, Rovizz, Sonic Rain, THIRD 2HIFT | Daniel Moritz, Rovizz, Sonic Rain, THIRD 2HIFT |
@@ -18,4 +18,4 @@ Aether Club Budapest is a music venue in Budapest listed on soundcheck. 5 upcomi
 
 Király street 13, Budapest, 1075, Hungary, Budapest
 
-*Updated Thu, 23 Jul 2026 · source: [soundcheck](https://soundcheck.club/budapest/club/aether-club-budapest/)*
+*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/budapest/club/aether-club-budapest/)*

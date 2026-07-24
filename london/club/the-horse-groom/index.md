@@ -1,6 +1,6 @@
 # The Horse & Groom
 
-The Horse & Groom is a music venue in London with 9 upcoming nights listed on soundcheck as of Thu, 23 Jul 2026; the next is "Ed Vedra & friends free party" on Fri, 24 Jul 2026.
+The Horse & Groom is a music venue in London with 9 upcoming nights listed on soundcheck as of Fri, 24 Jul 2026; the next is "Ed Vedra & friends free party" on Fri, 24 Jul 2026.
 
 The Horse & Groom is a music venue in London listed on soundcheck. 9 upcoming nights, with line-ups including Aruna, Danny Howells, Farhannah and Grant McKay and 2 more. Browse upcoming dates, start times and who's playing. 28 Curtain Road; Shoreditch; London EC2A 3NZ; United Kingdom.
 
@@ -22,4 +22,4 @@ The Horse & Groom is a music venue in London listed on soundcheck. 9 upcoming ni
 
 28 Curtain Road; Shoreditch; London EC2A 3NZ; United Kingdom, London
 
-*Updated Thu, 23 Jul 2026 · source: [soundcheck](https://soundcheck.club/london/club/the-horse-groom/)*
+*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/london/club/the-horse-groom/)*

@@ -1,6 +1,6 @@
 # KENJI FURUYA
 
-KENJI FURUYA is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Thu, 23 Jul 2026, next at BRAND SHIBUYA, Tokyo on Sat, 25 Jul 2026.
+KENJI FURUYA is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Fri, 24 Jul 2026, next at BRAND SHIBUYA, Tokyo on Sat, 25 Jul 2026.
 
 KENJI FURUYA is a techno and house artist based in Japan, tracked on soundcheck, with 25 sets logged across Tokyo. Often billed alongside FUJIMON, uuu7 and Karinga. Next up: BRAND SHIBUYA, Tokyo on Sat 25 Jul.
 
@@ -27,4 +27,4 @@ KENJI FURUYA is a techno and house artist based in Japan, tracked on soundcheck,
 
 FUJIMON, uuu7, Karinga
 
-*Updated Thu, 23 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/kenjifuruya/)*
+*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/kenjifuruya/)*

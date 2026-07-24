@@ -1,6 +1,6 @@
 # Humboldthain Club
 
-Humboldthain Club is a music venue in Berlin with 24 upcoming nights listed on soundcheck as of Thu, 23 Jul 2026; the next is "Kunststaub FM Radiocast #86" on Fri, 24 Jul 2026.
+Humboldthain Club is a music venue in Berlin with 24 upcoming nights listed on soundcheck as of Fri, 24 Jul 2026; the next is "Kunststaub FM Radiocast #86" on Fri, 24 Jul 2026.
 
 Humboldthain Club is a music venue in Berlin listed on soundcheck. 24 upcoming nights, with line-ups including Amorelie, Armaville, DJ Buona Sara and DJ Spaßgetränk and 2 more. Browse upcoming dates, start times and who's playing. Hochstraße 46; 13357 Berlin; Germany.
 
@@ -23,4 +23,4 @@ Humboldthain Club is a music venue in Berlin listed on soundcheck. 24 upcoming n
 
 Hochstraße 46; 13357 Berlin; Germany, Berlin
 
-*Updated Thu, 23 Jul 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/humboldthain-club/)*
+*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/humboldthain-club/)*

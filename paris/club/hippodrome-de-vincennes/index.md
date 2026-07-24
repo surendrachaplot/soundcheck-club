@@ -1,6 +1,6 @@
 # Hippodrome de Vincennes
 
-Hippodrome de Vincennes is a music venue in Paris with 1 upcoming night listed on soundcheck as of Thu, 23 Jul 2026; the next is "Organïk Open Rave XXL" on Sat, 8 Aug 2026.
+Hippodrome de Vincennes is a music venue in Paris with 1 upcoming night listed on soundcheck as of Fri, 24 Jul 2026; the next is "Organïk Open Rave XXL" on Sat, 8 Aug 2026.
 
 Hippodrome de Vincennes is a music venue in Paris listed on soundcheck. 1 upcoming night, with line-ups including 6EJOU, Alycia Bezgo, Anime and blk.. Browse upcoming dates, start times and who's playing. 2 route de la ferme, 75012 Paris.
 
@@ -14,4 +14,4 @@ Hippodrome de Vincennes is a music venue in Paris listed on soundcheck. 1 upcomi
 
 2 route de la ferme, 75012 Paris, Paris
 
-*Updated Thu, 23 Jul 2026 · source: [soundcheck](https://soundcheck.club/paris/club/hippodrome-de-vincennes/)*
+*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/paris/club/hippodrome-de-vincennes/)*

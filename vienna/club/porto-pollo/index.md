@@ -1,6 +1,6 @@
 # Porto Pollo
 
-Porto Pollo is a music venue in Vienna with 4 upcoming nights listed on soundcheck as of Thu, 23 Jul 2026; the next is "Amore AG x REDIVIDER" on Fri, 24 Jul 2026.
+Porto Pollo is a music venue in Vienna with 4 upcoming nights listed on soundcheck as of Fri, 24 Jul 2026; the next is "Amore AG x REDIVIDER" on Fri, 24 Jul 2026.
 
 Porto Pollo is a music venue in Vienna listed on soundcheck. 4 upcoming nights, with line-ups including Aimé, Brennan, chris deeper and DELIVARY and 2 more. Browse upcoming dates, start times and who's playing. Donauinsel 19, Donau Ufer 500 von der reichsbrücke, Vienna, Austria.
 
@@ -17,4 +17,4 @@ Porto Pollo is a music venue in Vienna listed on soundcheck. 4 upcoming nights, 
 
 Donauinsel 19, Donau Ufer 500 von der reichsbrücke, Vienna, Austria, Vienna
 
-*Updated Thu, 23 Jul 2026 · source: [soundcheck](https://soundcheck.club/vienna/club/porto-pollo/)*
+*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/vienna/club/porto-pollo/)*

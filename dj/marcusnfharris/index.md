@@ -1,6 +1,6 @@
 # Marcus NF Harris
 
-Marcus NF Harris is a House and Deep House artist with 3 upcoming club dates listed on soundcheck as of Thu, 23 Jul 2026, next at Spkrbox, Detroit on Wed, 5 Aug 2026.
+Marcus NF Harris is a House and Deep House artist with 3 upcoming club dates listed on soundcheck as of Fri, 24 Jul 2026, next at Spkrbox, Detroit on Wed, 5 Aug 2026.
 
 Marcus NF Harris is a house and deep house artist based in United States of America, tracked on soundcheck, with 7 sets logged across Detroit. Often billed alongside Ryan Sadorus, Gregboi and Dj Ryte Nou. Next up: Spkrbox, Detroit on Wed 5 Aug.
 
@@ -23,4 +23,4 @@ Marcus NF Harris is a house and deep house artist based in United States of Amer
 
 Ryan Sadorus, Gregboi, Dj Ryte Nou
 
-*Updated Thu, 23 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/marcusnfharris/)*
+*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/marcusnfharris/)*

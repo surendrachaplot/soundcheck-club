@@ -1,6 +1,6 @@
 # Fibbers Basement
 
-Fibbers Basement is a music venue in Dublin with 1 upcoming night listed on soundcheck as of Thu, 23 Jul 2026; the next is "101 Depeche Mode Party Dublin" on Sat, 12 Sept 2026.
+Fibbers Basement is a music venue in Dublin with 1 upcoming night listed on soundcheck as of Fri, 24 Jul 2026; the next is "101 Depeche Mode Party Dublin" on Sat, 12 Sept 2026.
 
 Fibbers Basement is a music venue in Dublin listed on soundcheck. 1 upcoming night. Browse upcoming dates, start times and who's playing. 80-81 Parnell St, Rotunda, Dublin 1, D01 CK74, Ireland.
 
@@ -14,4 +14,4 @@ Fibbers Basement is a music venue in Dublin listed on soundcheck. 1 upcoming nig
 
 80-81 Parnell St, Rotunda, Dublin 1, D01 CK74, Ireland, Dublin
 
-*Updated Thu, 23 Jul 2026 · source: [soundcheck](https://soundcheck.club/dublin/club/fibbers-basement/)*
+*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/dublin/club/fibbers-basement/)*

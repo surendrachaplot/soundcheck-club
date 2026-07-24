@@ -1,6 +1,6 @@
 # Village Studios
 
-Village Studios is a music venue in Vancouver with 10 upcoming nights listed on soundcheck as of Thu, 23 Jul 2026; the next is "CUM TOGETHER pres. Roi Perez" on Sat, 1 Aug 2026.
+Village Studios is a music venue in Vancouver with 10 upcoming nights listed on soundcheck as of Fri, 24 Jul 2026; the next is "CUM TOGETHER pres. Roi Perez" on Sat, 1 Aug 2026.
 
 Village Studios is a music venue in Vancouver listed on soundcheck. 10 upcoming nights, with line-ups including abers, ATRIP, BINKY and Brendocha and 2 more. Browse upcoming dates, start times and who's playing. 1024 Davie Street, Vancouver, BC, V6E 1M, Canada.
 
@@ -23,4 +23,4 @@ Village Studios is a music venue in Vancouver listed on soundcheck. 10 upcoming 
 
 1024 Davie Street, Vancouver, BC, V6E 1M, Canada, Vancouver
 
-*Updated Thu, 23 Jul 2026 · source: [soundcheck](https://soundcheck.club/vancouver/club/village-studios/)*
+*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/vancouver/club/village-studios/)*

@@ -1,6 +1,6 @@
 # Zero T
 
-Zero T is a Drum & Bass and Jungle artist with 3 upcoming club dates listed on soundcheck as of Thu, 23 Jul 2026, next at The Prospect Building, Bristol on Sat, 8 Aug 2026.
+Zero T is a Drum & Bass and Jungle artist with 3 upcoming club dates listed on soundcheck as of Fri, 24 Jul 2026, next at The Prospect Building, Bristol on Sat, 8 Aug 2026.
 
 Zero T is a drum & bass and jungle artist tracked on soundcheck, with 69 sets logged across Amsterdam, Antwerp, Auckland and Brighton and 24 more. Often billed alongside Lenzman, MC Fox and Fabio. Next up: The Prospect Building, Bristol on Sat 8 Aug.
 
@@ -27,4 +27,4 @@ Zero T is a drum & bass and jungle artist tracked on soundcheck, with 69 sets lo
 
 Lenzman, MC Fox, Fabio
 
-*Updated Thu, 23 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/zerot/)*
+*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/zerot/)*

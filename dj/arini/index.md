@@ -1,6 +1,6 @@
 # ARINI
 
-ARINI is a House and Club artist with 3 upcoming club dates listed on soundcheck as of Thu, 23 Jul 2026, next at The Midway, San Francisco/Oakland on Fri, 31 Jul 2026.
+ARINI is a House and Club artist with 3 upcoming club dates listed on soundcheck as of Fri, 24 Jul 2026, next at The Midway, San Francisco/Oakland on Fri, 31 Jul 2026.
 
 ARINI is a house and club artist based in United States of America, tracked on soundcheck, with 25 sets logged across Austin, Losangeles, Newyorkcity and Sanfrancisco and 1 more. Often billed alongside DJ ing, Brant Wolff and Mozn. Next up: The Midway, Sanfrancisco on Fri 31 Jul.
 
@@ -27,4 +27,4 @@ ARINI is a house and club artist based in United States of America, tracked on s
 
 DJ ing, Brant Wolff, Mozn
 
-*Updated Thu, 23 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/arini/)*
+*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/arini/)*

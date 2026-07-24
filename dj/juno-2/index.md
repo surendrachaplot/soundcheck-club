@@ -1,6 +1,6 @@
 # Juno (NY)
 
-Juno (NY) is a Techno and House artist with 4 upcoming club dates listed on soundcheck as of Thu, 23 Jul 2026, next at Bootshaus, Cologne on Fri, 24 Jul 2026.
+Juno (NY) is a Techno and House artist with 4 upcoming club dates listed on soundcheck as of Fri, 24 Jul 2026, next at Bootshaus, Cologne on Fri, 24 Jul 2026.
 
 Juno (NY) is a techno and house artist tracked on soundcheck, with 31 sets logged across Amsterdam, Berlin, Cologne and Ibiza and 2 more. Often billed alongside LINDA (US), KYRUH and 1morning. Next up: Bootshaus, Cologne on Fri 24 Jul.
 
@@ -28,4 +28,4 @@ Juno (NY) is a techno and house artist tracked on soundcheck, with 31 sets logge
 
 LINDA (US), KYRUH, 1morning
 
-*Updated Thu, 23 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/juno-2/)*
+*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/juno-2/)*

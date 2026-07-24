@@ -1,6 +1,6 @@
 # Maara
 
-Maara is a Techno and House artist with 5 upcoming club dates listed on soundcheck as of Thu, 23 Jul 2026, next at CLUB RAUM, Amsterdam on Fri, 24 Jul 2026.
+Maara is a Techno and House artist with 5 upcoming club dates listed on soundcheck as of Fri, 24 Jul 2026, next at CLUB RAUM, Amsterdam on Fri, 24 Jul 2026.
 
 Maara is a techno and house artist tracked on soundcheck, with 149 sets logged across Amsterdam, Antwerp, Athens and Bangkok and 48 more. Often billed alongside Angel D'lite, Roza Terenzi and D. Tiffany. Next up: CLUB RAUM, Amsterdam on Fri 24 Jul.
 
@@ -29,4 +29,4 @@ Maara is a techno and house artist tracked on soundcheck, with 149 sets logged a
 
 Angel D'lite, Roza Terenzi, D. Tiffany
 
-*Updated Thu, 23 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/maara/)*
+*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/maara/)*

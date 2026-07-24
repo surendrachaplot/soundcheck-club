@@ -1,6 +1,6 @@
 # Granville Collective - 4th Birthday at Warehouse 34
 
-Granville Collective - 4th Birthday at Warehouse 34 on Fri 25 Sept, Newcastle. 3 acts on the bill: Ethan McNamara, JYE. and LEN.. Acid and Electro. Preview the line-up and save it on soundcheck.
+Granville Collective - 4th Birthday at Warehouse 34 on Fri 25 Sept, Newcastle. 3 acts on the bill: Ethan McNamara, JYE. and LEN.. Electro and Acid. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

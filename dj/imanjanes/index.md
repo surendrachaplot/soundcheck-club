@@ -1,6 +1,6 @@
 # Iman Janes
 
-Iman Janes is a Techno and Tech House artist with 3 upcoming club dates listed on soundcheck as of Thu, 23 Jul 2026, next at Liquid Club, Malta on Fri, 24 Jul 2026.
+Iman Janes is a Techno and Tech House artist with 3 upcoming club dates listed on soundcheck as of Fri, 24 Jul 2026, next at Liquid Club, Malta on Fri, 24 Jul 2026.
 
 Iman Janes is a techno and tech house artist based in France, tracked on soundcheck, with 20 sets logged across Berlin, Brussels, Frankfurt and Ibiza and 4 more. Often billed alongside KALTBLUME, AEREA and ALI3N. Next up: Liquid Club, Malta on Fri 24 Jul.
 
@@ -27,4 +27,4 @@ Iman Janes is a techno and tech house artist based in France, tracked on soundch
 
 KALTBLUME, AEREA, ALI3N
 
-*Updated Thu, 23 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/imanjanes/)*
+*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/imanjanes/)*

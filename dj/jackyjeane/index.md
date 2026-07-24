@@ -1,6 +1,6 @@
 # Jacky Jeane
 
-Jacky Jeane is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Thu, 23 Jul 2026, next at TBA - Follow @BerlinFloraFestival & @Ousiasound to know exact locations, Berlin on Sat, 25 Jul 2026.
+Jacky Jeane is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Fri, 24 Jul 2026, next at TBA - Follow @BerlinFloraFestival & @Ousiasound to know exact locations, Berlin on Sat, 25 Jul 2026.
 
 Jacky Jeane is a techno and house artist tracked on soundcheck, with 66 sets logged across Berlin, Brussels, Lyon and Marseille and 3 more. Often billed alongside Sarcus Soundsystem, Ubik (Fr) and OLGA B.. Next up: TBA - Follow @BerlinFloraFestival & @Ousiasound to know exact locations, Berlin on Sat 25 Jul.
 
@@ -26,4 +26,4 @@ Jacky Jeane is a techno and house artist tracked on soundcheck, with 66 sets log
 
 Sarcus Soundsystem, Ubik (Fr), OLGA B.
 
-*Updated Thu, 23 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/jackyjeane/)*
+*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/jackyjeane/)*

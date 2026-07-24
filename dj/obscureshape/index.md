@@ -1,6 +1,6 @@
 # Obscure Shape
 
-Obscure Shape is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Thu, 23 Jul 2026, next at OST, Berlin on Fri, 28 Aug 2026.
+Obscure Shape is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Fri, 24 Jul 2026, next at OST, Berlin on Fri, 28 Aug 2026.
 
 Obscure Shape is a techno and house artist tracked on soundcheck, with 82 sets logged across Amsterdam, Athens, Barcelona and Basel and 29 more. Often billed alongside SHDW, Isaiah (NL) and 999999999. Next up: OST, Berlin on Fri 28 Aug.
 
@@ -27,4 +27,4 @@ Obscure Shape is a techno and house artist tracked on soundcheck, with 82 sets l
 
 SHDW, Isaiah (NL), 999999999
 
-*Updated Thu, 23 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/obscureshape/)*
+*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/obscureshape/)*

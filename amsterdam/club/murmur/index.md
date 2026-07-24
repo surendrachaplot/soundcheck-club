@@ -1,6 +1,6 @@
 # murmur
 
-murmur is a music venue in Amsterdam with 4 upcoming nights listed on soundcheck as of Thu, 23 Jul 2026; the next is "grady steele b2b ex.sses" on Fri, 24 Jul 2026.
+murmur is a music venue in Amsterdam with 4 upcoming nights listed on soundcheck as of Fri, 24 Jul 2026; the next is "grady steele b2b ex.sses" on Fri, 24 Jul 2026.
 
 murmur is a music venue in Amsterdam listed on soundcheck. 4 upcoming nights, with line-ups including Ambu Bambu, Annebel, baby ganoush and Edgar Ramiro and 2 more. Browse upcoming dates, start times and who's playing. Johan van Hasseltweg 39 HS, 1021 KN Amsterdam.
 
@@ -17,4 +17,4 @@ murmur is a music venue in Amsterdam listed on soundcheck. 4 upcoming nights, wi
 
 Johan van Hasseltweg 39 HS, 1021 KN Amsterdam, Amsterdam
 
-*Updated Thu, 23 Jul 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/murmur/)*
+*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/murmur/)*

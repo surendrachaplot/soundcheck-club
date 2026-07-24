@@ -1,6 +1,6 @@
 # DJ Senc
 
-DJ Senc is a House and Tech House artist with 4 upcoming club dates listed on soundcheck as of Thu, 23 Jul 2026, next at La Terrrazza, Barcelona on Sat, 8 Aug 2026.
+DJ Senc is a House and Tech House artist with 4 upcoming club dates listed on soundcheck as of Fri, 24 Jul 2026, next at La Terrrazza, Barcelona on Sat, 8 Aug 2026.
 
 DJ Senc is a house and tech house artist tracked on soundcheck, with 126 sets logged across Amsterdam, Bali, Barcelona and Berlin and 22 more. Often billed alongside Samuel Deep, Doudou MD and Dyed Soundorom. Next up: La Terrrazza, Barcelona on Sat 8 Aug.
 
@@ -28,4 +28,4 @@ DJ Senc is a house and tech house artist tracked on soundcheck, with 126 sets lo
 
 Samuel Deep, Doudou MD, Dyed Soundorom
 
-*Updated Thu, 23 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/djsenc/)*
+*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/djsenc/)*

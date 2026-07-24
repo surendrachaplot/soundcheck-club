@@ -1,6 +1,6 @@
 # Club Silly (Bosi)
 
-Club Silly (Bosi) is a music venue in London with 3 upcoming nights listed on soundcheck as of Thu, 23 Jul 2026; the next is "EOW ENGLAND MC CHALLENGE 2026 - LONDON HEAT" on Sat, 25 Jul 2026.
+Club Silly (Bosi) is a music venue in London with 3 upcoming nights listed on soundcheck as of Fri, 24 Jul 2026; the next is "EOW ENGLAND MC CHALLENGE 2026 - LONDON HEAT" on Sat, 25 Jul 2026.
 
 Club Silly (Bosi) is a music venue in London listed on soundcheck. 3 upcoming nights, with line-ups including DJ Snuff and Slick N Bobby. Browse upcoming dates, start times and who's playing. Bureau Of Silly ideas, Arch 555, Valentia Place, London, SW9 8PJ.
 
@@ -16,4 +16,4 @@ Club Silly (Bosi) is a music venue in London listed on soundcheck. 3 upcoming ni
 
 Bureau Of Silly ideas, Arch 555, Valentia Place, London, SW9 8PJ, London
 
-*Updated Thu, 23 Jul 2026 · source: [soundcheck](https://soundcheck.club/london/club/club-silly-bosi/)*
+*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/london/club/club-silly-bosi/)*

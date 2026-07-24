@@ -1,6 +1,6 @@
 # Mr. Ho
 
-Mr. Ho is a House and Techno artist with 6 upcoming club dates listed on soundcheck as of Thu, 23 Jul 2026, next at Lux Fragil, Lisbon on Fri, 24 Jul 2026.
+Mr. Ho is a House and Techno artist with 6 upcoming club dates listed on soundcheck as of Fri, 24 Jul 2026, next at Lux Fragil, Lisbon on Fri, 24 Jul 2026.
 
 Mr. Ho is a house and techno artist tracked on soundcheck, with 117 sets logged across Amsterdam, Antwerp, Auckland and Bali and 35 more. Often billed alongside Luca Lozano, Wada Yosuke and Mogwaa. Next up: Lux Fragil, Lisbon on Fri 24 Jul.
 
@@ -30,4 +30,4 @@ Mr. Ho is a house and techno artist tracked on soundcheck, with 117 sets logged 
 
 Luca Lozano, Wada Yosuke, Mogwaa
 
-*Updated Thu, 23 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/mr.ho/)*
+*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/mr.ho/)*

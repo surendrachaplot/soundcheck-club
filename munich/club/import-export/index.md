@@ -1,6 +1,6 @@
 # Import Export
 
-Import Export is a music venue in Munich with 9 upcoming nights listed on soundcheck as of Thu, 23 Jul 2026; the next is "Atoll Amore x Folge der Wolke pres.: Cosey Müller + Hanging Lamp Trio + Henry Wagner" on Fri, 24 Jul 2026.
+Import Export is a music venue in Munich with 9 upcoming nights listed on soundcheck as of Fri, 24 Jul 2026; the next is "Atoll Amore x Folge der Wolke pres.: Cosey Müller + Hanging Lamp Trio + Henry Wagner" on Fri, 24 Jul 2026.
 
 Import Export is a music venue in Munich listed on soundcheck. 9 upcoming nights, with line-ups including Anna Lazer, CONTAGIOUS, DJ Ipek and DJ Nebelmaschine and 2 more. Browse upcoming dates, start times and who's playing. Schwere-Reiter-Str. 2h, 80636 Munich, Germany.
 
@@ -22,4 +22,4 @@ Import Export is a music venue in Munich listed on soundcheck. 9 upcoming nights
 
 Schwere-Reiter-Str. 2h, 80636 Munich, Germany, Munich
 
-*Updated Thu, 23 Jul 2026 · source: [soundcheck](https://soundcheck.club/munich/club/import-export/)*
+*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/munich/club/import-export/)*

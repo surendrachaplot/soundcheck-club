@@ -1,14 +1,13 @@
 # TBA - Studio Stereo, close to pl. Catalunya, 08007, Barcelona
 
-TBA - Studio Stereo, close to pl. Catalunya, 08007, Barcelona is a music venue in Barcelona with 29 upcoming nights listed on soundcheck as of Thu, 23 Jul 2026; the next is "Studio Stereo x Bridge48 pres. IVAN POSEIDON (until 3am)" on Thu, 23 Jul 2026.
+TBA - Studio Stereo, close to pl. Catalunya, 08007, Barcelona is a music venue in Barcelona with 28 upcoming nights listed on soundcheck as of Fri, 24 Jul 2026; the next is "Studio Stereo x Capricho pres. Ethel, Mikolai (until 4am)" on Fri, 24 Jul 2026.
 
-TBA - Studio Stereo, close to pl. Catalunya, 08007, Barcelona is a music venue in Barcelona listed on soundcheck. 29 upcoming nights, with line-ups including .cosm, Adria (ES), Angel Sani and Arista and 2 more. Browse upcoming dates, start times and who's playing.
+TBA - Studio Stereo, close to pl. Catalunya, 08007, Barcelona is a music venue in Barcelona listed on soundcheck. 28 upcoming nights, with line-ups including .cosm, Adria (ES), Angel Sani and Arista and 2 more. Browse upcoming dates, start times and who's playing.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Thu, 23 Jul 2026 | Studio Stereo x Bridge48 pres. IVAN POSEIDON (until 3am) | IVAN POSEIDON, JOCHI, Lowkey Loud, Miceli, Narima Satori, Pier Mood, Radio Vega |
 | Fri, 24 Jul 2026 | Studio Stereo x Capricho pres. Ethel, Mikolai (until 4am) | .cosm, Bastard Love, Ethel, Mikolai |
 | Sat, 25 Jul 2026 | Studio Stereo pres. DJ Serviced Records showcase | DJ Service |
 | Thu, 30 Jul 2026 | Studio Stereo pres. Liquid Palms x Human Behaviour | Breezy S, Mikaella, NOBODYISALICE, Nic David |
@@ -18,5 +17,6 @@ TBA - Studio Stereo, close to pl. Catalunya, 08007, Barcelona is a music venue i
 | Fri, 7 Aug 2026 | Studio Stereo x Kommuna pres. CMYK & pekkuliar (all night long) (until 4am) | Bumpy Jones, CMYK, pekkuliar |
 | Sat, 8 Aug 2026 | Studio Stereo pres. Campana showcase (until 4am) | Arista, Villaça |
 | Thu, 13 Aug 2026 | Studio Stereo pres. Sounds Of Barcy showcase (until 3am) | SILVIä |
+| Fri, 14 Aug 2026 | Studio Stereo pres. Grave x Vinya Group (until 4am) | Angel Sani, Diego Sarria, Lisandro Mustapic |
 
-*Updated Thu, 23 Jul 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/tba-studio-stereo-close-to-pl-catalunya-08007-barcelona/)*
+*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/tba-studio-stereo-close-to-pl-catalunya-08007-barcelona/)*

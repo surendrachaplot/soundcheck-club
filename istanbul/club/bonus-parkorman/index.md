@@ -1,6 +1,6 @@
 # Bonus Parkorman
 
-Bonus Parkorman is a music venue in Istanbul with 1 upcoming night listed on soundcheck as of Thu, 23 Jul 2026; the next is "UNFORBIDDEN FESTIVAL" on Sun, 16 Aug 2026.
+Bonus Parkorman is a music venue in Istanbul with 1 upcoming night listed on soundcheck as of Fri, 24 Jul 2026; the next is "UNFORBIDDEN FESTIVAL" on Sun, 16 Aug 2026.
 
 Bonus Parkorman is a music venue in Istanbul listed on soundcheck. 1 upcoming night, with line-ups including Charmeine. Browse upcoming dates, start times and who's playing. Maslak, Büyükdere Cd. No:263, 34398 Şişli/İstanbul.
 
@@ -14,4 +14,4 @@ Bonus Parkorman is a music venue in Istanbul listed on soundcheck. 1 upcoming ni
 
 Maslak, Büyükdere Cd. No:263, 34398 Şişli/İstanbul, Istanbul
 
-*Updated Thu, 23 Jul 2026 · source: [soundcheck](https://soundcheck.club/istanbul/club/bonus-parkorman/)*
+*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/istanbul/club/bonus-parkorman/)*

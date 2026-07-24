@@ -1,6 +1,6 @@
 # Karla Böhm
 
-Karla Böhm is a House and Tech House artist with 2 upcoming club dates listed on soundcheck as of Thu, 23 Jul 2026, next at The Rooftop Garden at The Standard, Brussels, Brussels on Sat, 29 Aug 2026.
+Karla Böhm is a House and Tech House artist with 2 upcoming club dates listed on soundcheck as of Fri, 24 Jul 2026, next at The Rooftop Garden at The Standard, Brussels, Brussels on Sat, 29 Aug 2026.
 
 Karla Böhm is a house and tech house artist based in Belgium, tracked on soundcheck, with 54 sets logged across Amsterdam, Antwerp, Berlin and Brussels and 12 more. Often billed alongside Dana Kuehr, Islas and Camiflage. Next up: The Rooftop Garden at The Standard, Brussels, Brussels on Sat 29 Aug.
 
@@ -26,4 +26,4 @@ Karla Böhm is a house and tech house artist based in Belgium, tracked on soundc
 
 Dana Kuehr, Islas, Camiflage
 
-*Updated Thu, 23 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/karlabohm/)*
+*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/karlabohm/)*

@@ -1,6 +1,6 @@
 # Te Motu - Vineyard Restaurant
 
-Te Motu - Vineyard Restaurant is a music venue in Auckland with 2 upcoming nights listed on soundcheck as of Thu, 23 Jul 2026; the next is "R-Friday - Oliver Huntemann" on Fri, 4 Sept 2026.
+Te Motu - Vineyard Restaurant is a music venue in Auckland with 2 upcoming nights listed on soundcheck as of Fri, 24 Jul 2026; the next is "R-Friday - Oliver Huntemann" on Fri, 4 Sept 2026.
 
 Te Motu - Vineyard Restaurant is a music venue in Auckland listed on soundcheck. 2 upcoming nights, with line-ups including Cam Harris and Oliver Huntemann. Browse upcoming dates, start times and who's playing. 76 Onetangi Road, Onetangi, Auckland, 1971, New Zealand.
 
@@ -15,4 +15,4 @@ Te Motu - Vineyard Restaurant is a music venue in Auckland listed on soundcheck.
 
 76 Onetangi Road, Onetangi, Auckland, 1971, New Zealand, Auckland
 
-*Updated Thu, 23 Jul 2026 · source: [soundcheck](https://soundcheck.club/auckland/club/te-motu-vineyard-restaurant/)*
+*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/auckland/club/te-motu-vineyard-restaurant/)*

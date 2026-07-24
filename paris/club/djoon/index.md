@@ -1,6 +1,6 @@
 # Djoon
 
-Djoon is a music venue in Paris with 3 upcoming nights listed on soundcheck as of Thu, 23 Jul 2026; the next is "Summer of Grooves #3 Nightchou / Honey Mel / Soulastico" on Fri, 24 Jul 2026.
+Djoon is a music venue in Paris with 3 upcoming nights listed on soundcheck as of Fri, 24 Jul 2026; the next is "Summer of Grooves #3 Nightchou / Honey Mel / Soulastico" on Fri, 24 Jul 2026.
 
 Djoon is a music venue in Paris listed on soundcheck. 3 upcoming nights, with line-ups including BOUKI (2), Chris Wheatley, Donna Gibson and Mark Grusane and 2 more. Browse upcoming dates, start times and who's playing. 22 boulevard Vincent Auriol; 75013; Paris; France.
 
@@ -16,4 +16,4 @@ Djoon is a music venue in Paris listed on soundcheck. 3 upcoming nights, with li
 
 22 boulevard Vincent Auriol; 75013; Paris; France, Paris
 
-*Updated Thu, 23 Jul 2026 · source: [soundcheck](https://soundcheck.club/paris/club/djoon/)*
+*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/paris/club/djoon/)*

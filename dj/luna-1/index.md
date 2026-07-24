@@ -1,6 +1,6 @@
 # Luna (1)
 
-Luna (1) is a House and Techno artist with 4 upcoming club dates listed on soundcheck as of Thu, 23 Jul 2026, next at Solace, Melbourne on Sat, 25 Jul 2026.
+Luna (1) is a House and Techno artist with 4 upcoming club dates listed on soundcheck as of Fri, 24 Jul 2026, next at Solace, Melbourne on Sat, 25 Jul 2026.
 
 Luna (1) is a house and techno artist tracked on soundcheck, with 33 sets logged across Amsterdam, Austin, Bangkok and Budapest and 12 more. Often billed alongside Pavo, Franky Jones and Alexander Koning. Next up: Solace, Melbourne on Sat 25 Jul.
 
@@ -28,4 +28,4 @@ Luna (1) is a house and techno artist tracked on soundcheck, with 33 sets logged
 
 Pavo, Franky Jones, Alexander Koning
 
-*Updated Thu, 23 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/luna-1/)*
+*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/luna-1/)*

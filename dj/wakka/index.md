@@ -1,6 +1,6 @@
 # Wakka
 
-Wakka is a Tech House and Minimal artist with 4 upcoming club dates listed on soundcheck as of Thu, 23 Jul 2026, next at Ouseburn Garden, Newcastle on Sat, 25 Jul 2026.
+Wakka is a Tech House and Minimal artist with 4 upcoming club dates listed on soundcheck as of Fri, 24 Jul 2026, next at Ouseburn Garden, Newcastle on Sat, 25 Jul 2026.
 
 Wakka is a tech house and minimal artist tracked on soundcheck, with 31 sets logged across Barcelona, Edinburgh, Leeds and London and 2 more. Often billed alongside Adam Lance, DJ Bz and Nooney. Next up: Ouseburn Garden, Newcastle on Sat 25 Jul.
 
@@ -28,4 +28,4 @@ Wakka is a tech house and minimal artist tracked on soundcheck, with 31 sets log
 
 Adam Lance, DJ Bz, Nooney
 
-*Updated Thu, 23 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/wakka/)*
+*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/wakka/)*

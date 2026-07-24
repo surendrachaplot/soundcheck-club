@@ -1,6 +1,6 @@
 # Emma Keks
 
-Emma Keks is a Tech House and House artist with 2 upcoming club dates listed on soundcheck as of Thu, 23 Jul 2026, next at Cassiopeia, Berlin on Sat, 25 Jul 2026.
+Emma Keks is a Tech House and House artist with 2 upcoming club dates listed on soundcheck as of Fri, 24 Jul 2026, next at Cassiopeia, Berlin on Sat, 25 Jul 2026.
 
 Emma Keks is a tech house and house artist based in Germany, tracked on soundcheck, with 59 sets logged across Berlin. Often billed alongside Stephan Licha, Licha and Cyranotaurus Cortex. Next up: Cassiopeia, Berlin on Sat 25 Jul.
 
@@ -26,4 +26,4 @@ Emma Keks is a tech house and house artist based in Germany, tracked on soundche
 
 Stephan Licha, Licha, Cyranotaurus Cortex
 
-*Updated Thu, 23 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/emmakeks/)*
+*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/emmakeks/)*

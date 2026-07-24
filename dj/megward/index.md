@@ -1,6 +1,6 @@
 # Meg Ward
 
-Meg Ward is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Thu, 23 Jul 2026, next at The Queen Adelaide, London on Fri, 24 Jul 2026.
+Meg Ward is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Fri, 24 Jul 2026, next at The Queen Adelaide, London on Fri, 24 Jul 2026.
 
 Meg Ward is a house and techno artist tracked on soundcheck, with 51 sets logged across Bristol, Edinburgh, Ibiza and Leeds and 4 more. Often billed alongside Harry Gay, Junior Simba and Jaguar. Next up: The Queen Adelaide, London on Fri 24 Jul.
 
@@ -27,4 +27,4 @@ Meg Ward is a house and techno artist tracked on soundcheck, with 51 sets logged
 
 Harry Gay, Junior Simba, Jaguar
 
-*Updated Thu, 23 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/megward/)*
+*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/megward/)*

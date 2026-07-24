@@ -1,6 +1,6 @@
 # Le Makeda
 
-Le Makeda is a music venue in Marseille with 2 upcoming nights listed on soundcheck as of Thu, 23 Jul 2026; the next is "Tumulte club with De Schuurman, Gombaxx, Neida" on Fri, 24 Jul 2026.
+Le Makeda is a music venue in Marseille with 2 upcoming nights listed on soundcheck as of Fri, 24 Jul 2026; the next is "Tumulte club with De Schuurman, Gombaxx, Neida" on Fri, 24 Jul 2026.
 
 Le Makeda is a music venue in Marseille listed on soundcheck. 2 upcoming nights, with line-ups including De Schuurman and Neida. Browse upcoming dates, start times and who's playing. 103, rue Ferrari 13005 Marseille.
 
@@ -15,4 +15,4 @@ Le Makeda is a music venue in Marseille listed on soundcheck. 2 upcoming nights,
 
 103, rue Ferrari 13005 Marseille, Marseille
 
-*Updated Thu, 23 Jul 2026 · source: [soundcheck](https://soundcheck.club/marseille/club/le-makeda/)*
+*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/marseille/club/le-makeda/)*

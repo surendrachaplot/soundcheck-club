@@ -1,6 +1,6 @@
 # Refuge
 
-Refuge is a music venue in New York City with 8 upcoming nights listed on soundcheck as of Thu, 23 Jul 2026; the next is "Refuge Friday: Tim Green + David Hohme + Nikki Sadeki" on Fri, 24 Jul 2026.
+Refuge is a music venue in New York City with 8 upcoming nights listed on soundcheck as of Fri, 24 Jul 2026; the next is "Refuge Friday: Tim Green + David Hohme + Nikki Sadeki" on Fri, 24 Jul 2026.
 
 Refuge is a music venue in Newyorkcity listed on soundcheck. 8 upcoming nights, with line-ups including Kepler, David Hohme, David Morales and Jay Tripwire and 2 more. Browse upcoming dates, start times and who's playing. 366 Ten Eyck St, Brooklyn, NY 11206.
 
@@ -21,4 +21,4 @@ Refuge is a music venue in Newyorkcity listed on soundcheck. 8 upcoming nights, 
 
 366 Ten Eyck St, Brooklyn, NY 11206, New York City
 
-*Updated Thu, 23 Jul 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/refuge/)*
+*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/refuge/)*

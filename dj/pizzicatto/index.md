@@ -1,6 +1,6 @@
 # Pizzicatto
 
-Pizzicatto is a House and Tech House artist with 4 upcoming club dates listed on soundcheck as of Thu, 23 Jul 2026, next at Macarena Club, Barcelona on Fri, 31 Jul 2026.
+Pizzicatto is a House and Tech House artist with 4 upcoming club dates listed on soundcheck as of Fri, 24 Jul 2026, next at Macarena Club, Barcelona on Fri, 31 Jul 2026.
 
 Pizzicatto is a house and tech house artist tracked on soundcheck, with 57 sets logged across Barcelona, Berlin, Ibiza and London and 3 more. Often billed alongside Varis, Pau Pérez and Caballeri. Next up: Macarena Club, Barcelona on Fri 31 Jul.
 
@@ -28,4 +28,4 @@ Pizzicatto is a house and tech house artist tracked on soundcheck, with 57 sets 
 
 Varis, Pau Pérez, Caballeri
 
-*Updated Thu, 23 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/pizzicatto/)*
+*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/pizzicatto/)*

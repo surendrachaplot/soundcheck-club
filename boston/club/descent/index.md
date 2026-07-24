@@ -1,6 +1,6 @@
 # Descent
 
-Descent is a music venue in Boston with 2 upcoming nights listed on soundcheck as of Thu, 23 Jul 2026; the next is "Club Culture: Quelza & Profiler" on Thu, 10 Sept 2026.
+Descent is a music venue in Boston with 2 upcoming nights listed on soundcheck as of Fri, 24 Jul 2026; the next is "Club Culture: Quelza & Profiler" on Thu, 10 Sept 2026.
 
 Descent is a music venue in Boston listed on soundcheck. 2 upcoming nights, with line-ups including Alejandro Franco, MARRØN and Quelza. Browse upcoming dates, start times and who's playing. 33 Dunster St, Camridge MA,02138.
 
@@ -15,4 +15,4 @@ Descent is a music venue in Boston listed on soundcheck. 2 upcoming nights, with
 
 33 Dunster St, Camridge MA,02138, Boston
 
-*Updated Thu, 23 Jul 2026 · source: [soundcheck](https://soundcheck.club/boston/club/descent/)*
+*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/boston/club/descent/)*

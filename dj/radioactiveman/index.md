@@ -1,6 +1,6 @@
 # Radioactive Man
 
-Radioactive Man is a Techno and Electro artist with 2 upcoming club dates listed on soundcheck as of Thu, 23 Jul 2026, next at Vittoria Wharf Studio, London on Fri, 31 Jul 2026.
+Radioactive Man is a Techno and Electro artist with 2 upcoming club dates listed on soundcheck as of Fri, 24 Jul 2026, next at Vittoria Wharf Studio, London on Fri, 31 Jul 2026.
 
 Radioactive Man is a techno and electro artist tracked on soundcheck, with 82 sets logged across Amsterdam, Barcelona, Belfast and Berlin and 19 more. Often billed alongside Unai Trotti, Craig Richards and Alien Communications. Next up: Vittoria Wharf Studio, London on Fri 31 Jul.
 
@@ -26,4 +26,4 @@ Radioactive Man is a techno and electro artist tracked on soundcheck, with 82 se
 
 Unai Trotti, Craig Richards, Alien Communications
 
-*Updated Thu, 23 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/radioactiveman/)*
+*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/radioactiveman/)*

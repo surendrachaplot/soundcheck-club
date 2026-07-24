@@ -1,6 +1,6 @@
 # KRN
 
-KRN is a House and Tech House artist with 2 upcoming club dates listed on soundcheck as of Thu, 23 Jul 2026, next at Boat - MS Rhein, Berlin on Sun, 26 Jul 2026.
+KRN is a House and Tech House artist with 2 upcoming club dates listed on soundcheck as of Fri, 24 Jul 2026, next at Boat - MS Rhein, Berlin on Sun, 26 Jul 2026.
 
 KRN is a house and tech house artist based in United Kingdom, tracked on soundcheck, with 53 sets logged across Amsterdam, Barcelona, Berlin and Birmingham and 15 more. Often billed alongside The Ghost, Sugar Free and DJ Pipe. Next up: Boat - MS Rhein, Berlin on Sun 26 Jul.
 
@@ -26,4 +26,4 @@ KRN is a house and tech house artist based in United Kingdom, tracked on soundch
 
 The Ghost, Sugar Free, DJ Pipe
 
-*Updated Thu, 23 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/krn/)*
+*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/krn/)*

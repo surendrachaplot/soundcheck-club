@@ -1,6 +1,6 @@
 # Jojo Lorenzo
 
-Jojo Lorenzo is a House and Disco artist with 3 upcoming club dates listed on soundcheck as of Thu, 23 Jul 2026, next at TBA - Brooklyn, New York City on Sat, 8 Aug 2026.
+Jojo Lorenzo is a House and Disco artist with 3 upcoming club dates listed on soundcheck as of Fri, 24 Jul 2026, next at TBA - Brooklyn, New York City on Sat, 8 Aug 2026.
 
 Jojo Lorenzo is a house and disco artist tracked on soundcheck, with 109 sets logged across Austin, Barcelona, Boston and Chicago and 17 more. Often billed alongside Tinzo, RaeCola and X & Ivy. Next up: TBA - Brooklyn, Newyorkcity on Sat 8 Aug.
 
@@ -27,4 +27,4 @@ Jojo Lorenzo is a house and disco artist tracked on soundcheck, with 109 sets lo
 
 Tinzo, RaeCola, X & Ivy
 
-*Updated Thu, 23 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/jojolorenzo/)*
+*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/jojolorenzo/)*

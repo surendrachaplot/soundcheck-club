@@ -1,6 +1,6 @@
 # Louise Chen
 
-Louise Chen is a House and Disco artist with 3 upcoming club dates listed on soundcheck as of Thu, 23 Jul 2026, next at TBA - Site Archéologique d'Olbia, Marseille on Fri, 24 Jul 2026.
+Louise Chen is a House and Disco artist with 3 upcoming club dates listed on soundcheck as of Fri, 24 Jul 2026, next at TBA - Site Archéologique d'Olbia, Marseille on Fri, 24 Jul 2026.
 
 Louise Chen is a house and disco artist based in Luxembourg, tracked on soundcheck, with 43 sets logged across Amsterdam, Antwerp, Barcelona and Berlin and 8 more. Often billed alongside Heléna Star, Bradley Zero and Tai Lokun. Next up: TBA - Site Archéologique d'Olbia, Marseille on Fri 24 Jul.
 
@@ -27,4 +27,4 @@ Louise Chen is a house and disco artist based in Luxembourg, tracked on soundche
 
 Heléna Star, Bradley Zero, Tai Lokun
 
-*Updated Thu, 23 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/louisechen/)*
+*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/louisechen/)*

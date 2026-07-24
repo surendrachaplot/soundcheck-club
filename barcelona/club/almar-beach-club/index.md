@@ -1,6 +1,6 @@
 # Almar Beach Club
 
-Almar Beach Club is a music venue in Barcelona with 9 upcoming nights listed on soundcheck as of Thu, 23 Jul 2026; the next is "Free Beach Party: EOK x ANK" on Fri, 24 Jul 2026.
+Almar Beach Club is a music venue in Barcelona with 9 upcoming nights listed on soundcheck as of Fri, 24 Jul 2026; the next is "Free Beach Party: EOK x ANK" on Fri, 24 Jul 2026.
 
 Almar Beach Club is a music venue in Barcelona listed on soundcheck. 9 upcoming nights, with line-ups including .cosm, Alexxx, Better Late and Camelia (IT) and 2 more. Browse upcoming dates, start times and who's playing. Carrer de Dolores Ibarruri Pasionaria, 08930 Sant Adrià de Besòs, Barcelona.
 
@@ -22,4 +22,4 @@ Almar Beach Club is a music venue in Barcelona listed on soundcheck. 9 upcoming 
 
 Carrer de Dolores Ibarruri Pasionaria, 08930 Sant Adrià de Besòs, Barcelona, Barcelona
 
-*Updated Thu, 23 Jul 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/almar-beach-club/)*
+*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/almar-beach-club/)*

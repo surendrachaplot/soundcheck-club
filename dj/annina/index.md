@@ -1,6 +1,6 @@
 # Annina
 
-Annina is a House and Techno artist with 4 upcoming club dates listed on soundcheck as of Thu, 23 Jul 2026, next at Fridas Pier, Stuttgart on Sat, 25 Jul 2026.
+Annina is a House and Techno artist with 4 upcoming club dates listed on soundcheck as of Fri, 24 Jul 2026, next at Fridas Pier, Stuttgart on Sat, 25 Jul 2026.
 
 Annina is a house and techno artist based in Germany, tracked on soundcheck, with 105 sets logged across Barcelona, Berlin, Brussels and Copenhagen and 7 more. Often billed alongside Scoopsi, Papa K and Jonaku (DE). Next up: Fridas Pier, Stuttgart on Sat 25 Jul.
 
@@ -28,4 +28,4 @@ Annina is a house and techno artist based in Germany, tracked on soundcheck, wit
 
 Scoopsi, Papa K, Jonaku (DE)
 
-*Updated Thu, 23 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/annina/)*
+*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/annina/)*

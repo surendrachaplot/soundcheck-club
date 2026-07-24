@@ -1,6 +1,6 @@
 # I-SO
 
-I-SO is a Techno and Industrial artist with 3 upcoming club dates listed on soundcheck as of Thu, 23 Jul 2026, next at TBA - Secret Warehouse , Auckland on Sat, 25 Jul 2026.
+I-SO is a Techno and Industrial artist with 3 upcoming club dates listed on soundcheck as of Fri, 24 Jul 2026, next at TBA - Secret Warehouse , Auckland on Sat, 25 Jul 2026.
 
 I-SO is a techno and industrial artist tracked on soundcheck, with 71 sets logged across Auckland, Melbourne, Milan and Osaka and 2 more. Often billed alongside LeStrange, Madsync and ART IS HARD. Next up: TBA - Secret Warehouse , Auckland on Sat 25 Jul.
 
@@ -27,4 +27,4 @@ I-SO is a techno and industrial artist tracked on soundcheck, with 71 sets logge
 
 LeStrange, Madsync, ART IS HARD
 
-*Updated Thu, 23 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/i-so/)*
+*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/i-so/)*

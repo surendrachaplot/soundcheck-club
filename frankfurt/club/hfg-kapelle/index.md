@@ -1,6 +1,6 @@
 # HfG Kapelle
 
-HfG Kapelle is a music venue in Frankfurt with 1 upcoming night listed on soundcheck as of Thu, 23 Jul 2026; the next is "Viva Alternativa" on Sat, 25 Jul 2026.
+HfG Kapelle is a music venue in Frankfurt with 1 upcoming night listed on soundcheck as of Fri, 24 Jul 2026; the next is "Viva Alternativa" on Sat, 25 Jul 2026.
 
 HfG Kapelle is a music venue in Frankfurt listed on soundcheck. 1 upcoming night. Browse upcoming dates, start times and who's playing. Schloßstraße 31, 63065 Offenbach am Main, Deutschland.
 
@@ -14,4 +14,4 @@ HfG Kapelle is a music venue in Frankfurt listed on soundcheck. 1 upcoming night
 
 Schloßstraße 31, 63065 Offenbach am Main, Deutschland, Frankfurt
 
-*Updated Thu, 23 Jul 2026 · source: [soundcheck](https://soundcheck.club/frankfurt/club/hfg-kapelle/)*
+*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/frankfurt/club/hfg-kapelle/)*

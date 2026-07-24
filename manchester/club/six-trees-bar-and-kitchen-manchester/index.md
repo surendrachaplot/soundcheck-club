@@ -1,6 +1,6 @@
 # Six Trees Bar And Kitchen Manchester
 
-Six Trees Bar And Kitchen Manchester is a music venue in Manchester with 8 upcoming nights listed on soundcheck as of Thu, 23 Jul 2026; the next is "RNBLAND - Manchester's Biggest RnB Summer Day Festival (1000 RNB LOVERS)" on Sun, 26 Jul 2026.
+Six Trees Bar And Kitchen Manchester is a music venue in Manchester with 8 upcoming nights listed on soundcheck as of Fri, 24 Jul 2026; the next is "RNBLAND - Manchester's Biggest RnB Summer Day Festival (1000 RNB LOVERS)" on Sun, 26 Jul 2026.
 
 Six Trees Bar And Kitchen Manchester is a music venue in Manchester listed on soundcheck. 8 upcoming nights, with line-ups including Adam Be (1), Electric Gigi, Grace Sands and Jamie Stevens and 2 more. Browse upcoming dates, start times and who's playing. Trafford Park Rd, Trafford Park, Stretford, Manchester M17 1BN.
 
@@ -21,4 +21,4 @@ Six Trees Bar And Kitchen Manchester is a music venue in Manchester listed on so
 
 Trafford Park Rd, Trafford Park, Stretford, Manchester M17 1BN, Manchester
 
-*Updated Thu, 23 Jul 2026 · source: [soundcheck](https://soundcheck.club/manchester/club/six-trees-bar-and-kitchen-manchester/)*
+*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/manchester/club/six-trees-bar-and-kitchen-manchester/)*

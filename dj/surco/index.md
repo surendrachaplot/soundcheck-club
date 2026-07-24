@@ -1,6 +1,6 @@
 # SURCO
 
-SURCO is a Techno and House artist with 4 upcoming club dates listed on soundcheck as of Thu, 23 Jul 2026, next at AMT, Berlin on Fri, 7 Aug 2026.
+SURCO is a Techno and House artist with 4 upcoming club dates listed on soundcheck as of Fri, 24 Jul 2026, next at AMT, Berlin on Fri, 7 Aug 2026.
 
 SURCO is a techno and house artist based in United States of America, tracked on soundcheck, with 23 sets logged across Amsterdam, Berlin, Chicago and Denver and 4 more. Often billed alongside ALX-106, Analog Kitchen and Julia Bondar. Next up: AMT, Berlin on Fri 7 Aug.
 
@@ -28,4 +28,4 @@ SURCO is a techno and house artist based in United States of America, tracked on
 
 ALX-106, Analog Kitchen, Julia Bondar
 
-*Updated Thu, 23 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/surco/)*
+*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/surco/)*

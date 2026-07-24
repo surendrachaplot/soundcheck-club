@@ -1,6 +1,6 @@
 # Terry Farley
 
-Terry Farley is a House and Disco artist with 4 upcoming club dates listed on soundcheck as of Thu, 23 Jul 2026, next at The North London Tavern, London on Sun, 30 Aug 2026.
+Terry Farley is a House and Disco artist with 4 upcoming club dates listed on soundcheck as of Fri, 24 Jul 2026, next at The North London Tavern, London on Sun, 30 Aug 2026.
 
 Terry Farley is a house and disco artist tracked on soundcheck, with 70 sets logged across Bali, Brighton, Cardiff and Glasgow and 6 more. Often billed alongside Stuart Patterson, JARVIS and Nancy Noise. Next up: The North London Tavern, London on Sun 30 Aug.
 
@@ -28,4 +28,4 @@ Terry Farley is a house and disco artist tracked on soundcheck, with 70 sets log
 
 Stuart Patterson, JARVIS, Nancy Noise
 
-*Updated Thu, 23 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/terryfarley/)*
+*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/terryfarley/)*

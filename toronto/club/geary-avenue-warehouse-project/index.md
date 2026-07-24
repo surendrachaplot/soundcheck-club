@@ -1,6 +1,6 @@
 # Geary Avenue Warehouse Project
 
-Geary Avenue Warehouse Project is a music venue in Toronto with 10 upcoming nights listed on soundcheck as of Thu, 23 Jul 2026; the next is "OVERLOAD" on Sat, 25 Jul 2026.
+Geary Avenue Warehouse Project is a music venue in Toronto with 10 upcoming nights listed on soundcheck as of Fri, 24 Jul 2026; the next is "OVERLOAD" on Sat, 25 Jul 2026.
 
 Geary Avenue Warehouse Project is a music venue in Toronto listed on soundcheck. 10 upcoming nights, with line-ups including Adam James, ANTON BASHKOV, CELESTAI and Chrissandro and 2 more. Browse upcoming dates, start times and who's playing. 209 Geary Ave, Toronto, ON, M6H2C1.
 
@@ -23,4 +23,4 @@ Geary Avenue Warehouse Project is a music venue in Toronto listed on soundcheck.
 
 209 Geary Ave, Toronto, ON, M6H2C1, Toronto
 
-*Updated Thu, 23 Jul 2026 · source: [soundcheck](https://soundcheck.club/toronto/club/geary-avenue-warehouse-project/)*
+*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/toronto/club/geary-avenue-warehouse-project/)*

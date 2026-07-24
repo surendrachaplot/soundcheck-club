@@ -1,6 +1,6 @@
 # Roosevelt Hotel
 
-Roosevelt Hotel is a music venue in Los Angeles with 2 upcoming nights listed on soundcheck as of Thu, 23 Jul 2026; the next is "Labor Day Weekend Pool Party 2026 - The Roosevelt Hotel" on Sun, 6 Sept 2026.
+Roosevelt Hotel is a music venue in Los Angeles with 2 upcoming nights listed on soundcheck as of Fri, 24 Jul 2026; the next is "Labor Day Weekend Pool Party 2026 - The Roosevelt Hotel" on Sun, 6 Sept 2026.
 
 Roosevelt Hotel is a music venue in Losangeles listed on soundcheck. 2 upcoming nights. Browse upcoming dates, start times and who's playing. 7000 Hollywood Blvd, Los Angeles, CA 90028.
 
@@ -15,4 +15,4 @@ Roosevelt Hotel is a music venue in Losangeles listed on soundcheck. 2 upcoming 
 
 7000 Hollywood Blvd, Los Angeles, CA 90028, Los Angeles
 
-*Updated Thu, 23 Jul 2026 · source: [soundcheck](https://soundcheck.club/losangeles/club/roosevelt-hotel/)*
+*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/losangeles/club/roosevelt-hotel/)*

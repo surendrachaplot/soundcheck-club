@@ -1,6 +1,6 @@
 # HARD Summer 2026 at TBA - Hollywood Park adjacent to SoFi Stadium
 
-HARD Summer 2026 at TBA - Hollywood Park adjacent to SoFi Stadium on Sat 1 Aug, Losangeles. 65 acts on the bill: 10cust, 1tbsp, ATRIP and Adiel and 61 more. Preview the line-up and save it on soundcheck.
+HARD Summer 2026 at TBA - Hollywood Park adjacent to SoFi Stadium on Sat 1 Aug, Losangeles. 78 acts on the bill: 10cust, 1tbsp, ATRIP and Adiel and 74 more. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -14,15 +14,18 @@ HARD Summer 2026 at TBA - Hollywood Park adjacent to SoFi Stadium on Sat 1 Aug, 
 - 1tbsp
 - ATRIP
 - Adiel
+- Adult Hits
 - Alarico
 - Alive
 - Amelie Lens
 - Andy C
 - Anetha
+- Bianca Oblivion
 - Boys Noize
 - Brunello
 - Brutalismus 3000
 - Bushbaby
+- Capes
 - Charlotte de Witte
 - Chris Lorenzo
 - Cole Terrazas
@@ -35,6 +38,7 @@ HARD Summer 2026 at TBA - Hollywood Park adjacent to SoFi Stadium on Sat 1 Aug, 
 - Etari
 - FIFI (2)
 - Frost Children
+- Gay Felony
 - Hannah Laing
 - Interplanetary Criminal
 - LOVEFOXY
@@ -47,11 +51,15 @@ HARD Summer 2026 at TBA - Hollywood Park adjacent to SoFi Stadium on Sat 1 Aug, 
 - Mary Droppinz
 - Matroda
 - Mau P
+- Mesmé
+- Mez Monty
 - Miguelle
 - Miluhska
+- Naomi Green
 - Nick León
 - Omar+
 - Oppidan
+- Oscar Osorio
 - Pegassi
 - Quest
 - Quinn Blake
@@ -59,10 +67,13 @@ HARD Summer 2026 at TBA - Hollywood Park adjacent to SoFi Stadium on Sat 1 Aug, 
 - Ranger Trucco
 - SHAKING
 - STRAWBRY
+- Sam Wise
 - Sammy Virji
+- Shane Thomas
 - Shygirl
 - Six Sex
 - Snow Strippers
+- Star Eyes
 - TONS
 - Tiga
 - Tokischa
@@ -72,7 +83,9 @@ HARD Summer 2026 at TBA - Hollywood Park adjacent to SoFi Stadium on Sat 1 Aug, 
 - Yanamaste
 - Zack Fox
 - Zedd
+- bahar khadem
 - canary yellow
+- fun2bjane
 - salute
 - ¥ØU$UK€ ¥UK1MAT$U
 

@@ -1,6 +1,6 @@
 # ATT
 
-ATT is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Thu, 23 Jul 2026, next at Aoyama Hachi, Tokyo on Sat, 8 Aug 2026.
+ATT is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Fri, 24 Jul 2026, next at Aoyama Hachi, Tokyo on Sat, 8 Aug 2026.
 
 ATT is a techno and house artist based in Japan, tracked on soundcheck, with 46 sets logged across Barcelona, Ibiza and Tokyo. Often billed alongside Takami, Remo-con and Shinkawa. Next up: Aoyama Hachi, Tokyo on Sat 8 Aug.
 
@@ -27,4 +27,4 @@ ATT is a techno and house artist based in Japan, tracked on soundcheck, with 46 
 
 Takami, Remo-con, Shinkawa
 
-*Updated Thu, 23 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/att/)*
+*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/att/)*

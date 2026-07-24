@@ -1,6 +1,6 @@
 # The Bedford
 
-The Bedford is a music venue in London with 2 upcoming nights listed on soundcheck as of Thu, 23 Jul 2026; the next is "SKA'D by CairoEast" on Thu, 13 Aug 2026.
+The Bedford is a music venue in London with 2 upcoming nights listed on soundcheck as of Fri, 24 Jul 2026; the next is "SKA'D by CairoEast" on Thu, 13 Aug 2026.
 
 The Bedford is a music venue in London listed on soundcheck. 2 upcoming nights, with line-ups including 2 Bad Mice. Browse upcoming dates, start times and who's playing. 77 Bedford Hill; Balham; London SW12 9HD; United Kingdom.
 
@@ -15,4 +15,4 @@ The Bedford is a music venue in London listed on soundcheck. 2 upcoming nights, 
 
 77 Bedford Hill; Balham; London SW12 9HD; United Kingdom, London
 
-*Updated Thu, 23 Jul 2026 · source: [soundcheck](https://soundcheck.club/london/club/the-bedford/)*
+*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/london/club/the-bedford/)*

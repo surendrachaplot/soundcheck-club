@@ -1,6 +1,6 @@
 # Stephan Bodzin
 
-Stephan Bodzin is a Techno and House artist with 6 upcoming club dates listed on soundcheck as of Thu, 23 Jul 2026, next at Sloterpark, Amsterdam on Sat, 8 Aug 2026.
+Stephan Bodzin is a Techno and House artist with 6 upcoming club dates listed on soundcheck as of Fri, 24 Jul 2026, next at Sloterpark, Amsterdam on Sat, 8 Aug 2026.
 
 Stephan Bodzin is a techno and house artist tracked on soundcheck, with 105 sets logged across Amsterdam, Austin, Bali and Barcelona and 37 more. Often billed alongside Luna Semara, Mind Against and Agents Of Time. Next up: Sloterpark, Amsterdam on Sat 8 Aug.
 
@@ -30,4 +30,4 @@ Stephan Bodzin is a techno and house artist tracked on soundcheck, with 105 sets
 
 Luna Semara, Mind Against, Agents Of Time
 
-*Updated Thu, 23 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/stephanbodzin/)*
+*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/stephanbodzin/)*

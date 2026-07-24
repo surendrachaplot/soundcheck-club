@@ -1,6 +1,6 @@
 # DJ Lycox
 
-DJ Lycox is a Club and Bass artist with 2 upcoming club dates listed on soundcheck as of Thu, 23 Jul 2026, next at Nowadays, New York City on Fri, 7 Aug 2026.
+DJ Lycox is a Club and Bass artist with 2 upcoming club dates listed on soundcheck as of Fri, 24 Jul 2026, next at Nowadays, New York City on Fri, 7 Aug 2026.
 
 DJ Lycox is a club and bass artist based in Portugal, tracked on soundcheck, with 48 sets logged across Amsterdam, Antwerp, Belgrade and Berlin and 17 more. Often billed alongside Dj Danifox, DJ Marfox and DJ Narciso. Next up: Nowadays, Newyorkcity on Fri 7 Aug.
 
@@ -26,4 +26,4 @@ DJ Lycox is a club and bass artist based in Portugal, tracked on soundcheck, wit
 
 Dj Danifox, DJ Marfox, DJ Narciso
 
-*Updated Thu, 23 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/djlycox/)*
+*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/djlycox/)*

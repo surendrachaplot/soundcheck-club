@@ -1,6 +1,6 @@
 # LAUT
 
-LAUT is a music venue in Barcelona with 14 upcoming nights listed on soundcheck as of Thu, 23 Jul 2026; the next is "Christian + Fabrega + Onoffon" on Fri, 24 Jul 2026.
+LAUT is a music venue in Barcelona with 14 upcoming nights listed on soundcheck as of Fri, 24 Jul 2026; the next is "Christian + Fabrega + Onoffon" on Fri, 24 Jul 2026.
 
 LAUT is a music venue in Barcelona listed on soundcheck. 14 upcoming nights, with line-ups including ABSIS, Alderaan, Aura Nox and Axis Mundi and 2 more. Browse upcoming dates, start times and who's playing. Carrer de Vila i Vilà, 63, 08004 Barcelona, Spain.
 
@@ -23,4 +23,4 @@ LAUT is a music venue in Barcelona listed on soundcheck. 14 upcoming nights, wit
 
 Carrer de Vila i Vilà, 63, 08004 Barcelona, Spain, Barcelona
 
-*Updated Thu, 23 Jul 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/laut/)*
+*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/laut/)*

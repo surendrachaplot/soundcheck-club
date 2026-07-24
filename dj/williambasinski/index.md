@@ -1,6 +1,6 @@
 # William Basinski
 
-William Basinski is a Ambient and Experimental artist with 3 upcoming club dates listed on soundcheck as of Thu, 23 Jul 2026, next at Royal Exhibition Building, Melbourne on Sat, 22 Aug 2026.
+William Basinski is a Ambient and Experimental artist with 3 upcoming club dates listed on soundcheck as of Fri, 24 Jul 2026, next at Royal Exhibition Building, Melbourne on Sat, 22 Aug 2026.
 
 William Basinski is an ambient and experimental artist based in United States of America, tracked on soundcheck, with 38 sets logged across Amsterdam, Basel, Belgrade and Berlin and 23 more. Often billed alongside Kelly Moran, Lena Willikens and Marina Herlop. Next up: Royal Exhibition Building, Melbourne on Sat 22 Aug.
 
@@ -27,4 +27,4 @@ William Basinski is an ambient and experimental artist based in United States of
 
 Kelly Moran, Lena Willikens, Marina Herlop
 
-*Updated Thu, 23 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/williambasinski/)*
+*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/williambasinski/)*

@@ -1,6 +1,6 @@
 # Demuir
 
-Demuir is a House and Deep House artist with 3 upcoming club dates listed on soundcheck as of Thu, 23 Jul 2026, next at Le Nocturne, Chicago on Sun, 26 Jul 2026.
+Demuir is a House and Deep House artist with 3 upcoming club dates listed on soundcheck as of Fri, 24 Jul 2026, next at Le Nocturne, Chicago on Sun, 26 Jul 2026.
 
 Demuir is a house and deep house artist tracked on soundcheck, with 43 sets logged across Auckland, Austin, Chicago and Denver and 9 more. Often billed alongside Boys Don't Disco, Paul Najera and CeaseDays. Next up: Le Nocturne, Chicago on Sun 26 Jul.
 
@@ -27,4 +27,4 @@ Demuir is a house and deep house artist tracked on soundcheck, with 43 sets logg
 
 Boys Don't Disco, Paul Najera, CeaseDays
 
-*Updated Thu, 23 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/demuir/)*
+*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/demuir/)*

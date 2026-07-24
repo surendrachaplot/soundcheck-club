@@ -1,6 +1,6 @@
 # MAEDON
 
-MAEDON is a Techno and EBM artist with 2 upcoming club dates listed on soundcheck as of Thu, 23 Jul 2026, next at Tresor / Globus, Berlin on Sat, 1 Aug 2026.
+MAEDON is a Techno and EBM artist with 2 upcoming club dates listed on soundcheck as of Fri, 24 Jul 2026, next at Tresor / Globus, Berlin on Sat, 1 Aug 2026.
 
 MAEDON is a techno and ebm artist tracked on soundcheck, with 65 sets logged across Amsterdam, Barcelona, Belgrade and Berlin and 14 more. Often billed alongside Adam X, Lady Starlight and David Castellani. Next up: Tresor / Globus, Berlin on Sat 1 Aug.
 
@@ -26,4 +26,4 @@ MAEDON is a techno and ebm artist tracked on soundcheck, with 65 sets logged acr
 
 Adam X, Lady Starlight, David Castellani
 
-*Updated Thu, 23 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/maedon/)*
+*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/maedon/)*

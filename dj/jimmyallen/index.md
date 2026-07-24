@@ -1,6 +1,6 @@
 # Jimmy Allen
 
-Jimmy Allen is a House and Disco artist with 3 upcoming club dates listed on soundcheck as of Thu, 23 Jul 2026, next at TBA - Gloria's Liverpool, Liverpool on Sun, 30 Aug 2026.
+Jimmy Allen is a House and Disco artist with 3 upcoming club dates listed on soundcheck as of Fri, 24 Jul 2026, next at TBA - Gloria's Liverpool, Liverpool on Sun, 30 Aug 2026.
 
 Jimmy Allen is a house and disco artist based in United Kingdom, tracked on soundcheck, with 20 sets logged across Lisbon, Liverpool, Manchester and Paris. Often billed alongside Craig Smith, DJ Spen and Ella Knight. Next up: TBA - Gloria's Liverpool, Liverpool on Sun 30 Aug.
 
@@ -27,4 +27,4 @@ Jimmy Allen is a house and disco artist based in United Kingdom, tracked on soun
 
 Craig Smith, DJ Spen, Ella Knight
 
-*Updated Thu, 23 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/jimmyallen/)*
+*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/jimmyallen/)*

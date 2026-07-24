@@ -1,6 +1,6 @@
 # Start.Bahn - Genezarethkirche
 
-Start.Bahn - Genezarethkirche is a music venue in Berlin with 2 upcoming nights listed on soundcheck as of Thu, 23 Jul 2026; the next is "TRILOKA - Immersive Live Ambient Sound Journey at the Genezarethkirche" on Tue, 28 Jul 2026.
+Start.Bahn - Genezarethkirche is a music venue in Berlin with 2 upcoming nights listed on soundcheck as of Fri, 24 Jul 2026; the next is "TRILOKA - Immersive Live Ambient Sound Journey at the Genezarethkirche" on Tue, 28 Jul 2026.
 
 Start.Bahn - Genezarethkirche is a music venue in Berlin listed on soundcheck. 2 upcoming nights, with line-ups including Jealous Orgasm. Browse upcoming dates, start times and who's playing. Herrfurthplatz 14, 12049 Berlin.
 
@@ -15,4 +15,4 @@ Start.Bahn - Genezarethkirche is a music venue in Berlin listed on soundcheck. 2
 
 Herrfurthplatz 14, 12049 Berlin, Berlin
 
-*Updated Thu, 23 Jul 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/start-bahn-genezarethkirche/)*
+*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/start-bahn-genezarethkirche/)*

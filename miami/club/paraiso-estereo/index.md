@@ -1,6 +1,6 @@
 # Paraiso Estereo
 
-Paraiso Estereo is a music venue in Miami with 1 upcoming night listed on soundcheck as of Thu, 23 Jul 2026; the next is "Planeta Rave Showcase" on Fri, 24 Jul 2026.
+Paraiso Estereo is a music venue in Miami with 1 upcoming night listed on soundcheck as of Fri, 24 Jul 2026; the next is "Planeta Rave Showcase" on Fri, 24 Jul 2026.
 
 Paraiso Estereo is a music venue in Miami listed on soundcheck. 1 upcoming night. Browse upcoming dates, start times and who's playing. 1306 North Miami Avenue, Miami, FL 33136 ,USA.
 
@@ -14,4 +14,4 @@ Paraiso Estereo is a music venue in Miami listed on soundcheck. 1 upcoming night
 
 1306 North Miami Avenue, Miami, FL 33136 ,USA, Miami
 
-*Updated Thu, 23 Jul 2026 · source: [soundcheck](https://soundcheck.club/miami/club/paraiso-estereo/)*
+*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/miami/club/paraiso-estereo/)*

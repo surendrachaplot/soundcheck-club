@@ -1,14 +1,13 @@
 # MARRØN
 
-MARRØN is a Techno and House artist with 17 upcoming club dates listed on soundcheck as of Thu, 23 Jul 2026, next at Hamburger Bahnhof - Museum für Gegenwart, Berlin on Thu, 23 Jul 2026.
+MARRØN is a Techno and House artist with 16 upcoming club dates listed on soundcheck as of Fri, 24 Jul 2026, next at Odonien, Cologne on Fri, 24 Jul 2026.
 
-MARRØN is a techno and house artist tracked on soundcheck, with 252 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 66 more. Often billed alongside Blasha & Allatt, Freddy K and Rene Wise. Next up: Hamburger Bahnhof - Museum für Gegenwart, Berlin on Thu 23 Jul.
+MARRØN is a techno and house artist tracked on soundcheck, with 252 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 66 more. Often billed alongside Blasha & Allatt, Freddy K and Rene Wise. Next up: Odonien, Cologne on Fri 24 Jul.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Thu, 23 Jul 2026 | Hamburger Bahnhof - Museum für Gegenwart | Berlin |
 | Fri, 24 Jul 2026 | Odonien | Cologne |
 | Sat, 25 Jul 2026 | FOLD | London |
 | Fri, 31 Jul 2026 | BLITZ | Munich |
@@ -20,9 +19,11 @@ MARRØN is a techno and house artist tracked on soundcheck, with 252 sets logged
 | Fri, 14 Aug 2026 | Tanzhaus West | Frankfurt |
 | Fri, 4 Sept 2026 | Fuchs2 | Prague |
 | Sat, 5 Sept 2026 | The Bassement | Madrid |
+| Fri, 11 Sept 2026 | TBA | Brussels |
 
 ## Recently played
 
+- Hamburger Bahnhof - Museum für Gegenwart, Berlin — Thu, 23 Jul 2026
 - Fabrik, Madrid — Sat, 11 Jul 2026
 - Lehmann Club, Stuttgart — Sat, 4 Jul 2026
 - Parque Eduardo VII, Lisbon — Fri, 3 Jul 2026
@@ -30,10 +31,9 @@ MARRØN is a techno and house artist tracked on soundcheck, with 252 sets logged
 - Grelle Forelle, Vienna — Fri, 19 Jun 2026
 - Berghain | Panorama Bar | Säule, Berlin — Sat, 13 Jun 2026
 - Circolo Amelia, Milan — Sat, 30 May 2026
-- Lincoln Factory, Detroit — Sun, 24 May 2026
 
 ## Shares bills with
 
 Blasha & Allatt, Freddy K, Rene Wise
 
-*Updated Thu, 23 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/marron/)*
+*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/marron/)*

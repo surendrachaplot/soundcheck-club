@@ -1,6 +1,6 @@
 # carlota.
 
-carlota. is a Techno and Electronica artist with 3 upcoming club dates listed on soundcheck as of Thu, 23 Jul 2026, next at Sunseabar Beach Club, Barcelona on Thu, 30 Jul 2026.
+carlota. is a Techno and Electronica artist with 3 upcoming club dates listed on soundcheck as of Fri, 24 Jul 2026, next at Sunseabar Beach Club, Barcelona on Thu, 30 Jul 2026.
 
 carlota. is a techno and electronica artist tracked on soundcheck, with 24 sets logged across Barcelona. Often billed alongside Brus Equation, Cora Novoa and Dasha Rush. Next up: Sunseabar Beach Club, Barcelona on Thu 30 Jul.
 
@@ -27,4 +27,4 @@ carlota. is a techno and electronica artist tracked on soundcheck, with 24 sets 
 
 Brus Equation, Cora Novoa, Dasha Rush
 
-*Updated Thu, 23 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/carlota1/)*
+*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/carlota1/)*

@@ -1,8 +1,8 @@
 # Mita Gami
 
-Mita Gami is a House and Techno artist with 9 upcoming club dates listed on soundcheck as of Thu, 23 Jul 2026, next at Central Park SummerStage, New York City on Sat, 25 Jul 2026.
+Mita Gami is a House and Techno artist with 10 upcoming club dates listed on soundcheck as of Fri, 24 Jul 2026, next at Central Park SummerStage, New York City on Sat, 25 Jul 2026.
 
-Mita Gami is a house and techno artist tracked on soundcheck, with 134 sets logged across Amsterdam, Athens, Barcelona and Berlin and 29 more. Often billed alongside Adam Ten, Damian Lazarus and Black Coffee. Next up: Central Park SummerStage, Newyorkcity on Sat 25 Jul.
+Mita Gami is a house and techno artist tracked on soundcheck, with 135 sets logged across Amsterdam, Athens, Barcelona and Berlin and 29 more. Often billed alongside Adam Ten, Damian Lazarus and Black Coffee. Next up: Central Park SummerStage, Newyorkcity on Sat 25 Jul.
 
 ## Upcoming shows
 
@@ -17,6 +17,7 @@ Mita Gami is a house and techno artist tracked on soundcheck, with 134 sets logg
 | Fri, 11 Sept 2026 | TBA | Brussels |
 | Sun, 20 Sept 2026 | [UNVRS] | Ibiza |
 | Fri, 2 Oct 2026 | Pacha Ibiza | Ibiza |
+| Thu, 22 Oct 2026 | Het Sieraad | Amsterdam |
 
 ## Recently played
 
@@ -33,4 +34,4 @@ Mita Gami is a house and techno artist tracked on soundcheck, with 134 sets logg
 
 Adam Ten, Damian Lazarus, Black Coffee
 
-*Updated Thu, 23 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/mitagami/)*
+*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/mitagami/)*

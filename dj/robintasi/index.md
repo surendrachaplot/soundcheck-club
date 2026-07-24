@@ -1,6 +1,6 @@
 # Robin Tasi
 
-Robin Tasi is a Techno and Trance artist with 2 upcoming club dates listed on soundcheck as of Thu, 23 Jul 2026, next at Westhafen, Leipzig on Sat, 25 Jul 2026.
+Robin Tasi is a Techno and Trance artist with 2 upcoming club dates listed on soundcheck as of Fri, 24 Jul 2026, next at Westhafen, Leipzig on Sat, 25 Jul 2026.
 
 Robin Tasi is a techno and trance artist based in Germany, tracked on soundcheck, with 44 sets logged across Amsterdam, Berlin, Budapest and Cologne and 7 more. Often billed alongside Krackk, Justin Tinderdate and ALIS.. Next up: Westhafen, Leipzig on Sat 25 Jul.
 
@@ -26,4 +26,4 @@ Robin Tasi is a techno and trance artist based in Germany, tracked on soundcheck
 
 Krackk, Justin Tinderdate, ALIS.
 
-*Updated Thu, 23 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/robintasi/)*
+*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/robintasi/)*

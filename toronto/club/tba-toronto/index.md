@@ -1,14 +1,13 @@
 # TBA - Toronto
 
-TBA - Toronto is a music venue in Toronto with 10 upcoming nights listed on soundcheck as of Thu, 23 Jul 2026; the next is "HØMME presents DSM—5" on Thu, 23 Jul 2026.
+TBA - Toronto is a music venue in Toronto with 9 upcoming nights listed on soundcheck as of Fri, 24 Jul 2026; the next is "[Redacted]: Cold Blooded feat. DJ Deseo (Rio De Janeiro) - til 7am" on Fri, 24 Jul 2026.
 
-TBA - Toronto is a music venue in Toronto listed on soundcheck. 10 upcoming nights, with line-ups including ALT8, A++, Barac and DJ Deseo and 2 more. Browse upcoming dates, start times and who's playing.
+TBA - Toronto is a music venue in Toronto listed on soundcheck. 9 upcoming nights, with line-ups including ALT8, A++, Barac and DJ Deseo and 2 more. Browse upcoming dates, start times and who's playing.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Thu, 23 Jul 2026 | HØMME presents DSM—5 |  |
 | Fri, 24 Jul 2026 | [Redacted]: Cold Blooded feat. DJ Deseo (Rio De Janeiro) - til 7am | DJ Deseo, Rose Hips (2), Valeroo, widdows95 |
 | Fri, 24 Jul 2026 | le Festif! de Baie-St-Paul | Natascha Polké |
 | Thu, 30 Jul 2026 | Camp Summerdaze | Barac, Joplyn, Nico Stojan, Oliver Koletzki, Rodrigo Gallardo, Traumer |
@@ -19,4 +18,4 @@ TBA - Toronto is a music venue in Toronto listed on soundcheck. 10 upcoming nigh
 | Sat, 12 Sept 2026 | ROTE8 EVENTS presents: TBA |  |
 | Sat, 12 Sept 2026 | Rhythmic Roots X Ritual Recall: Open Air Summer Closer |  |
 
-*Updated Thu, 23 Jul 2026 · source: [soundcheck](https://soundcheck.club/toronto/club/tba-toronto/)*
+*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/toronto/club/tba-toronto/)*

@@ -1,6 +1,6 @@
 # SBBS
 
-SBBS is a Techno and Deep House artist with 3 upcoming club dates listed on soundcheck as of Thu, 23 Jul 2026, next at Dalston Den, London on Sat, 25 Jul 2026.
+SBBS is a Techno and Deep House artist with 3 upcoming club dates listed on soundcheck as of Fri, 24 Jul 2026, next at Dalston Den, London on Sat, 25 Jul 2026.
 
 SBBS is a techno and deep house artist tracked on soundcheck, with 20 sets logged across Brighton, London and Mexicocity. Often billed alongside Varanasi, DELARA and Modlar. Next up: Dalston Den, London on Sat 25 Jul.
 
@@ -27,4 +27,4 @@ SBBS is a techno and deep house artist tracked on soundcheck, with 20 sets logge
 
 Varanasi, DELARA, Modlar
 
-*Updated Thu, 23 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/sbbs/)*
+*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/sbbs/)*

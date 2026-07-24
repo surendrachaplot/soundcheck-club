@@ -1,6 +1,6 @@
 # Jimi Jules
 
-Jimi Jules is a House and Techno artist with 9 upcoming club dates listed on soundcheck as of Thu, 23 Jul 2026, next at Scorpios, Mykonos on Thu, 30 Jul 2026.
+Jimi Jules is a House and Techno artist with 9 upcoming club dates listed on soundcheck as of Fri, 24 Jul 2026, next at Scorpios, Mykonos on Thu, 30 Jul 2026.
 
 Jimi Jules is a house and techno artist tracked on soundcheck, with 186 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 43 more. Often billed alongside Dixon, Âme and Trikk. Next up: Scorpios, Mykonos on Thu 30 Jul.
 
@@ -33,4 +33,4 @@ Jimi Jules is a house and techno artist tracked on soundcheck, with 186 sets log
 
 Dixon, Âme, Trikk
 
-*Updated Thu, 23 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/jimijules/)*
+*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/jimijules/)*

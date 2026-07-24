@@ -1,6 +1,6 @@
 # RTK Tarantino
 
-RTK Tarantino is a House and Tech House artist with 6 upcoming club dates listed on soundcheck as of Thu, 23 Jul 2026, next at Club Colette, Birmingham on Fri, 31 Jul 2026.
+RTK Tarantino is a House and Tech House artist with 6 upcoming club dates listed on soundcheck as of Fri, 24 Jul 2026, next at Club Colette, Birmingham on Fri, 31 Jul 2026.
 
 RTK Tarantino is a house and tech house artist tracked on soundcheck, with 25 sets logged across Amsterdam, Barcelona, Birmingham and Brighton and 9 more. Often billed alongside Captain Wallop, Rossi and Lady Passion. Next up: Club Colette, Birmingham on Fri 31 Jul.
 
@@ -30,4 +30,4 @@ RTK Tarantino is a house and tech house artist tracked on soundcheck, with 25 se
 
 Captain Wallop, Rossi, Lady Passion
 
-*Updated Thu, 23 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/rtktarantino/)*
+*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/rtktarantino/)*

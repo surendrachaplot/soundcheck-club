@@ -1,6 +1,6 @@
 # Attu
 
-Attu is a Bass and Club artist with 3 upcoming club dates listed on soundcheck as of Thu, 23 Jul 2026, next at Divine Playhouse, Sydney on Sat, 25 Jul 2026.
+Attu is a Bass and Club artist with 3 upcoming club dates listed on soundcheck as of Fri, 24 Jul 2026, next at Divine Playhouse, Sydney on Sat, 25 Jul 2026.
 
 Attu is a bass and club artist based in Australia, tracked on soundcheck, with 17 sets logged across Melbourne and Sydney. Often billed alongside ATARANGI, Ciara and Cristal No.5. Next up: Divine Playhouse, Sydney on Sat 25 Jul.
 
@@ -27,4 +27,4 @@ Attu is a bass and club artist based in Australia, tracked on soundcheck, with 1
 
 ATARANGI, Ciara, Cristal No.5
 
-*Updated Thu, 23 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/attu/)*
+*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/attu/)*

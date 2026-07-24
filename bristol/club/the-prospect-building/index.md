@@ -1,6 +1,6 @@
 # The Prospect Building
 
-The Prospect Building is a music venue in Bristol with 1 upcoming night listed on soundcheck as of Thu, 23 Jul 2026; the next is "10 Years of 1985 Music - Bristol Summer Day Party" on Sat, 8 Aug 2026.
+The Prospect Building is a music venue in Bristol with 1 upcoming night listed on soundcheck as of Fri, 24 Jul 2026; the next is "10 Years of 1985 Music - Bristol Summer Day Party" on Sat, 8 Aug 2026.
 
 The Prospect Building is a music venue in Bristol listed on soundcheck. 1 upcoming night, with line-ups including Alix Perez, Cesco, DJ Flight and Dub Athlete and 2 more. Browse upcoming dates, start times and who's playing. 45 Feeder Rd Bristol, BS2 0SE.
 
@@ -14,4 +14,4 @@ The Prospect Building is a music venue in Bristol listed on soundcheck. 1 upcomi
 
 45 Feeder Rd Bristol, BS2 0SE, Bristol
 
-*Updated Thu, 23 Jul 2026 · source: [soundcheck](https://soundcheck.club/bristol/club/the-prospect-building/)*
+*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/bristol/club/the-prospect-building/)*

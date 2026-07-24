@@ -1,6 +1,6 @@
 # The Ulster Sports Club
 
-The Ulster Sports Club is a music venue in Belfast with 9 upcoming nights listed on soundcheck as of Thu, 23 Jul 2026; the next is "POST WORK SOCIAL #005 - WEST CODE" on Fri, 24 Jul 2026.
+The Ulster Sports Club is a music venue in Belfast with 9 upcoming nights listed on soundcheck as of Fri, 24 Jul 2026; the next is "POST WORK SOCIAL #005 - WEST CODE" on Fri, 24 Jul 2026.
 
 The Ulster Sports Club is a music venue in Belfast listed on soundcheck. 9 upcoming nights, with line-ups including Adam Munn, Blark, ByPhil and Chris Flannigan and 2 more. Browse upcoming dates, start times and who's playing. The Ulster Sports Club 98 High St, Belfast BT1 2BE, Northern Ireland, United Kingdom.
 
@@ -22,4 +22,4 @@ The Ulster Sports Club is a music venue in Belfast listed on soundcheck. 9 upcom
 
 The Ulster Sports Club 98 High St, Belfast BT1 2BE, Northern Ireland, United Kingdom, Belfast
 
-*Updated Thu, 23 Jul 2026 · source: [soundcheck](https://soundcheck.club/belfast/club/the-ulster-sports-club/)*
+*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/belfast/club/the-ulster-sports-club/)*

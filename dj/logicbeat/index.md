@@ -1,6 +1,6 @@
 # LogicBeat
 
-LogicBeat is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Thu, 23 Jul 2026, next at Enter Shibuya, Tokyo on Sat, 1 Aug 2026.
+LogicBeat is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Fri, 24 Jul 2026, next at Enter Shibuya, Tokyo on Sat, 1 Aug 2026.
 
 LogicBeat is a techno and house artist based in Japan, tracked on soundcheck, with 49 sets logged across Tokyo. Often billed alongside SIGNAL (JP), THE RATA and Alex Ormond. Next up: Enter Shibuya, Tokyo on Sat 1 Aug.
 
@@ -26,4 +26,4 @@ LogicBeat is a techno and house artist based in Japan, tracked on soundcheck, wi
 
 SIGNAL (JP), THE RATA, Alex Ormond
 
-*Updated Thu, 23 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/logicbeat/)*
+*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/logicbeat/)*

@@ -1,6 +1,6 @@
 # Atish
 
-Atish is a House and Deep House artist with 2 upcoming club dates listed on soundcheck as of Thu, 23 Jul 2026, next at House of Yes, New York City on Sat, 1 Aug 2026.
+Atish is a House and Deep House artist with 2 upcoming club dates listed on soundcheck as of Fri, 24 Jul 2026, next at House of Yes, New York City on Sat, 1 Aug 2026.
 
 Atish is a house and deep house artist based in United States of America, tracked on soundcheck, with 40 sets logged across Berlin, Chicago, Denver and Losangeles and 8 more. Often billed alongside Kora (CA), Nikita and Catori. Next up: House of Yes, Newyorkcity on Sat 1 Aug.
 
@@ -26,4 +26,4 @@ Atish is a house and deep house artist based in United States of America, tracke
 
 Kora (CA), Nikita, Catori
 
-*Updated Thu, 23 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/atish/)*
+*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/atish/)*

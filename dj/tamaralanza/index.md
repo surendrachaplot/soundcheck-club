@@ -1,8 +1,8 @@
 # Tamara Lanza
 
-Tamara Lanza is a House and Disco artist with 2 upcoming club dates listed on soundcheck as of Thu, 23 Jul 2026, next at Level 8 DTLA, Los Angeles on Fri, 24 Jul 2026.
+Tamara Lanza is a House and Disco artist with 3 upcoming club dates listed on soundcheck as of Fri, 24 Jul 2026, next at Level 8 DTLA, Los Angeles on Fri, 24 Jul 2026.
 
-Tamara Lanza is a house and disco artist based in United States of America, tracked on soundcheck, with 126 sets logged across Losangeles and Sandiego. Often billed alongside Electric Field, ELECTRIC BLAQ and Lavenge. Next up: Level 8 DTLA, Losangeles on Fri 24 Jul.
+Tamara Lanza is a house and disco artist based in United States of America, tracked on soundcheck, with 127 sets logged across Losangeles and Sandiego. Often billed alongside Electric Field, ELECTRIC BLAQ and Lavenge. Next up: Level 8 DTLA, Losangeles on Fri 24 Jul.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Tamara Lanza is a house and disco artist based in United States of America, trac
 | --- | --- | --- |
 | Fri, 24 Jul 2026 | Level 8 DTLA | Los Angeles |
 | Fri, 24 Jul 2026 | Level 8 DTLA | Los Angeles |
+| Fri, 7 Aug 2026 | Level 8 DTLA | Los Angeles |
 
 ## Recently played
 
@@ -26,4 +27,4 @@ Tamara Lanza is a house and disco artist based in United States of America, trac
 
 Electric Field, ELECTRIC BLAQ, Lavenge
 
-*Updated Thu, 23 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/tamaralanza/)*
+*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/tamaralanza/)*

@@ -1,6 +1,6 @@
 # W Lounge Istanbul
 
-W Lounge Istanbul is a music venue in Istanbul with 1 upcoming night listed on soundcheck as of Thu, 23 Jul 2026; the next is "Allstate Insurance Sign In — Account Access Without Hassle 2026" on Sat, 25 Jul 2026.
+W Lounge Istanbul is a music venue in Istanbul with 1 upcoming night listed on soundcheck as of Fri, 24 Jul 2026; the next is "Allstate Insurance Sign In — Account Access Without Hassle 2026" on Sat, 25 Jul 2026.
 
 W Lounge Istanbul is a music venue in Istanbul listed on soundcheck. 1 upcoming night, with line-ups including Alaska (2), AMEX (UK), APP and Debit and 2 more. Browse upcoming dates, start times and who's playing. Suleyman Seba Cad. NO 22 Akaretler Besiktas Istanbul.
 
@@ -14,4 +14,4 @@ W Lounge Istanbul is a music venue in Istanbul listed on soundcheck. 1 upcoming 
 
 Suleyman Seba Cad. NO 22 Akaretler Besiktas Istanbul, Istanbul
 
-*Updated Thu, 23 Jul 2026 · source: [soundcheck](https://soundcheck.club/istanbul/club/w-lounge-istanbul/)*
+*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/istanbul/club/w-lounge-istanbul/)*

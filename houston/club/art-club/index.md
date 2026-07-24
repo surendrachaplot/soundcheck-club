@@ -1,6 +1,6 @@
 # Art Club
 
-Art Club is a music venue in Houston with 12 upcoming nights listed on soundcheck as of Thu, 23 Jul 2026; the next is "Omar+" on Fri, 24 Jul 2026.
+Art Club is a music venue in Houston with 12 upcoming nights listed on soundcheck as of Fri, 24 Jul 2026; the next is "Omar+" on Fri, 24 Jul 2026.
 
 Art Club is a music venue in Houston listed on soundcheck. 12 upcoming nights, with line-ups including Daria Kolosova, DJ SWISHA, IDKRYAN and Leonce and 2 more. Browse upcoming dates, start times and who's playing. 401 Franklin St, Houston, TX 77201, USA.
 
@@ -23,4 +23,4 @@ Art Club is a music venue in Houston listed on soundcheck. 12 upcoming nights, w
 
 401 Franklin St, Houston, TX 77201, USA, Houston
 
-*Updated Thu, 23 Jul 2026 · source: [soundcheck](https://soundcheck.club/houston/club/art-club/)*
+*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/houston/club/art-club/)*

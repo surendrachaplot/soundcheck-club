@@ -1,6 +1,6 @@
 # Sub Sahara
 
-Sub Sahara is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Thu, 23 Jul 2026, next at Renate, Berlin on Sat, 25 Jul 2026.
+Sub Sahara is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Fri, 24 Jul 2026, next at Renate, Berlin on Sat, 25 Jul 2026.
 
 Sub Sahara is a techno and house artist tracked on soundcheck, with 23 sets logged across Auckland, Berlin, London and Melbourne and 1 more. Often billed alongside Ojos de miel, Aunty Nora and Lixi. Next up: Renate, Berlin on Sat 25 Jul.
 
@@ -27,4 +27,4 @@ Sub Sahara is a techno and house artist tracked on soundcheck, with 23 sets logg
 
 Ojos de miel, Aunty Nora, Lixi
 
-*Updated Thu, 23 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/subsahara/)*
+*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/subsahara/)*

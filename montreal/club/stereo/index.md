@@ -1,8 +1,8 @@
 # Stereo
 
-Stereo is a music venue in Montreal with 13 upcoming nights listed on soundcheck as of Thu, 23 Jul 2026; the next is "Yamagucci - Forgivemetommy" on Fri, 24 Jul 2026.
+Stereo is a music venue in Montreal with 13 upcoming nights listed on soundcheck as of Fri, 24 Jul 2026; the next is "Yamagucci - Forgivemetommy" on Fri, 24 Jul 2026.
 
-Stereo is a music venue in Montreal listed on soundcheck. 13 upcoming nights, with line-ups including Abel Aguilera, Adiel, Avision and Chus & Ceballos and 2 more. Browse upcoming dates, start times and who's playing. 858 Saint-Catherine Street East; Montreal, QC H2L 2E3; Canada.
+Stereo is a music venue in Montreal listed on soundcheck. 13 upcoming nights, with line-ups including Abel Aguilera, Adiel, Avision and Bianca Badita and 2 more. Browse upcoming dates, start times and who's playing. 858 Saint-Catherine Street East; Montreal, QC H2L 2E3; Canada.
 
 ## What's on
 
@@ -10,7 +10,7 @@ Stereo is a music venue in Montreal listed on soundcheck. 13 upcoming nights, wi
 | --- | --- | --- |
 | Fri, 24 Jul 2026 | Yamagucci - Forgivemetommy | Yamagucci |
 | Sat, 25 Jul 2026 | Spencer Brown (All Night Long) | Spencer Brown |
-| Fri, 31 Jul 2026 | Hector Oaks - Adiel | Adiel, Héctor Oaks |
+| Fri, 31 Jul 2026 | Adiel - Bianca Badita | Adiel, Bianca Badita, Héctor Oaks |
 | Sat, 1 Aug 2026 | Avision (All Night Long) | Avision |
 | Fri, 7 Aug 2026 | Jares b2b Simon Sizer | Jares, Simon Sizer |
 | Sat, 8 Aug 2026 | Ostrich (All Night Long) | Ostrich |
@@ -23,4 +23,4 @@ Stereo is a music venue in Montreal listed on soundcheck. 13 upcoming nights, wi
 
 858 Saint-Catherine Street East; Montreal, QC H2L 2E3; Canada, Montreal
 
-*Updated Thu, 23 Jul 2026 · source: [soundcheck](https://soundcheck.club/montreal/club/stereo/)*
+*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/montreal/club/stereo/)*

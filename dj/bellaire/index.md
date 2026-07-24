@@ -1,8 +1,8 @@
 # Bellaire
 
-Bellaire is a House and Disco artist with 5 upcoming club dates listed on soundcheck as of Thu, 23 Jul 2026, next at Amnesia Ibiza, Ibiza on Fri, 24 Jul 2026.
+Bellaire is a House and Disco artist with 7 upcoming club dates listed on soundcheck as of Fri, 24 Jul 2026, next at Amnesia Ibiza, Ibiza on Fri, 24 Jul 2026.
 
-Bellaire is a house and disco artist based in France, tracked on soundcheck, with 49 sets logged across Amsterdam, Antwerp, Brighton and Bristol and 18 more. Often billed alongside Contrecoeur, Armand Van Helden and Breakbot. Next up: Amnesia Ibiza, Ibiza on Fri 24 Jul.
+Bellaire is a house and disco artist based in France, tracked on soundcheck, with 51 sets logged across Amsterdam, Antwerp, Brighton and Bristol and 18 more. Often billed alongside Contrecoeur, Armand Van Helden and Breakbot. Next up: Amnesia Ibiza, Ibiza on Fri 24 Jul.
 
 ## Upcoming shows
 
@@ -13,6 +13,8 @@ Bellaire is a house and disco artist based in France, tracked on soundcheck, wit
 | Sat, 19 Sept 2026 | Smelteverket | Oslo |
 | Thu, 8 Oct 2026 | La Cigale | Paris |
 | Fri, 16 Oct 2026 | Trix | Antwerp |
+| Thu, 22 Oct 2026 | KIT Royal Tropical Institute | Amsterdam |
+| Thu, 22 Oct 2026 | KIT Royal Tropical Institute | Amsterdam |
 
 ## Recently played
 
@@ -29,4 +31,4 @@ Bellaire is a house and disco artist based in France, tracked on soundcheck, wit
 
 Contrecoeur, Armand Van Helden, Breakbot
 
-*Updated Thu, 23 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/bellaire/)*
+*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/bellaire/)*

@@ -1,6 +1,6 @@
 # The Radio Room @ Stage & Radio
 
-The Radio Room @ Stage & Radio is a music venue in Manchester with 1 upcoming night listed on soundcheck as of Thu, 23 Jul 2026; the next is "Rave Princess - Another Year of Reign" on Sat, 10 Oct 2026.
+The Radio Room @ Stage & Radio is a music venue in Manchester with 1 upcoming night listed on soundcheck as of Fri, 24 Jul 2026; the next is "Rave Princess - Another Year of Reign" on Sat, 10 Oct 2026.
 
 The Radio Room @ Stage & Radio is a music venue in Manchester listed on soundcheck. 1 upcoming night. Browse upcoming dates, start times and who's playing. 43 Port St, Manchester M1 2EQ.
 
@@ -14,4 +14,4 @@ The Radio Room @ Stage & Radio is a music venue in Manchester listed on soundche
 
 43 Port St, Manchester M1 2EQ, Manchester
 
-*Updated Thu, 23 Jul 2026 · source: [soundcheck](https://soundcheck.club/manchester/club/the-radio-room-stage-radio/)*
+*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/manchester/club/the-radio-room-stage-radio/)*

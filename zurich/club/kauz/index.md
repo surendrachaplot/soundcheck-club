@@ -1,6 +1,6 @@
 # Kauz
 
-Kauz is a music venue in Zurich with 4 upcoming nights listed on soundcheck as of Thu, 23 Jul 2026; the next is "sommernacht × espresso space club" on Fri, 24 Jul 2026.
+Kauz is a music venue in Zurich with 4 upcoming nights listed on soundcheck as of Fri, 24 Jul 2026; the next is "sommernacht × espresso space club" on Fri, 24 Jul 2026.
 
 Kauz is a music venue in Zurich listed on soundcheck. 4 upcoming nights, with line-ups including Alex Kassian, Antja, fabulus and Liad Krispin and 2 more. Browse upcoming dates, start times and who's playing. Ausstellungsstrasse 21, Zurich, Switzerland.
 
@@ -17,4 +17,4 @@ Kauz is a music venue in Zurich listed on soundcheck. 4 upcoming nights, with li
 
 Ausstellungsstrasse 21, Zurich, Switzerland, Zurich
 
-*Updated Thu, 23 Jul 2026 · source: [soundcheck](https://soundcheck.club/zurich/club/kauz/)*
+*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/zurich/club/kauz/)*

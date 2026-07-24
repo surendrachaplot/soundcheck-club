@@ -1,6 +1,6 @@
 # Nacho Carbajal
 
-Nacho Carbajal is a House and Deep House artist with 3 upcoming club dates listed on soundcheck as of Thu, 23 Jul 2026, next at berlinClub, Madrid on Fri, 24 Jul 2026.
+Nacho Carbajal is a House and Deep House artist with 3 upcoming club dates listed on soundcheck as of Fri, 24 Jul 2026, next at berlinClub, Madrid on Fri, 24 Jul 2026.
 
 Nacho Carbajal is a house and deep house artist based in Argentina, tracked on soundcheck, with 18 sets logged across Barcelona, Berlin, Copenhagen and Hamburg and 1 more. Often billed alongside Chuki Juri, Mati Amoretti and No Silver Bullet. Next up: berlinClub, Madrid on Fri 24 Jul.
 
@@ -27,4 +27,4 @@ Nacho Carbajal is a house and deep house artist based in Argentina, tracked on s
 
 Chuki Juri, Mati Amoretti, No Silver Bullet
 
-*Updated Thu, 23 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/nachocarbajal/)*
+*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/nachocarbajal/)*

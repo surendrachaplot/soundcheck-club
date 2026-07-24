@@ -1,6 +1,6 @@
 # Pablo Romero
 
-Pablo Romero is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Thu, 23 Jul 2026, next at Green Room NYC, New York City on Fri, 24 Jul 2026.
+Pablo Romero is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Fri, 24 Jul 2026, next at Green Room NYC, New York City on Fri, 24 Jul 2026.
 
 Pablo Romero is a house and techno artist based in United States of America, tracked on soundcheck, with 116 sets logged across Amsterdam, Boston, Frankfurt and London and 6 more. Often billed alongside Daniel Dutts, Jean-Paul and mink. Next up: Green Room NYC, Newyorkcity on Fri 24 Jul.
 
@@ -26,4 +26,4 @@ Pablo Romero is a house and techno artist based in United States of America, tra
 
 Daniel Dutts, Jean-Paul, mink
 
-*Updated Thu, 23 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/pabloromero/)*
+*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/pabloromero/)*

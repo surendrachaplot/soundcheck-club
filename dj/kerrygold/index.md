@@ -1,6 +1,6 @@
 # Kerry Gold
 
-Kerry Gold is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Thu, 23 Jul 2026, next at Import Export, Munich on Fri, 24 Jul 2026.
+Kerry Gold is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Fri, 24 Jul 2026, next at Import Export, Munich on Fri, 24 Jul 2026.
 
 Kerry Gold is a techno and house artist based in Germany, tracked on soundcheck, with 12 sets logged across Berlin and Munich. Often billed alongside Louisianaha, Moritz Butschek and SILSAN. Next up: Import Export, Munich on Fri 24 Jul.
 
@@ -27,4 +27,4 @@ Kerry Gold is a techno and house artist based in Germany, tracked on soundcheck,
 
 Louisianaha, Moritz Butschek, SILSAN
 
-*Updated Thu, 23 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/kerrygold/)*
+*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/kerrygold/)*

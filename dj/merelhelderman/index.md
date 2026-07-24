@@ -1,6 +1,6 @@
 # Merel Helderman
 
-Merel Helderman is a House and Techno artist with 6 upcoming club dates listed on soundcheck as of Thu, 23 Jul 2026, next at Renate, Berlin on Fri, 24 Jul 2026.
+Merel Helderman is a House and Techno artist with 6 upcoming club dates listed on soundcheck as of Fri, 24 Jul 2026, next at Renate, Berlin on Fri, 24 Jul 2026.
 
 Merel Helderman is a house and techno artist tracked on soundcheck, with 62 sets logged across Amsterdam, Berlin, Thehague and Utrecht. Often billed alongside Benny Rodrigues, Moody Mehran and Boris Coelman. Next up: Renate, Berlin on Fri 24 Jul.
 
@@ -30,4 +30,4 @@ Merel Helderman is a house and techno artist tracked on soundcheck, with 62 sets
 
 Benny Rodrigues, Moody Mehran, Boris Coelman
 
-*Updated Thu, 23 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/merelhelderman/)*
+*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/merelhelderman/)*

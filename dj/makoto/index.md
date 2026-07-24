@@ -1,6 +1,6 @@
 # Makoto
 
-Makoto is a Drum & Bass and Jungle artist with 3 upcoming club dates listed on soundcheck as of Thu, 23 Jul 2026, next at Bristol Amphitheatre & Waterfront Square, Bristol on Sat, 25 Jul 2026.
+Makoto is a Drum & Bass and Jungle artist with 3 upcoming club dates listed on soundcheck as of Fri, 24 Jul 2026, next at Bristol Amphitheatre & Waterfront Square, Bristol on Sat, 25 Jul 2026.
 
 Makoto is a drum & bass and jungle artist tracked on soundcheck, with 81 sets logged across Amsterdam, Auckland, Austin and Belgrade and 27 more. Often billed alongside London Elektricity, DJ Marky and Fred V. Next up: Bristol Amphitheatre & Waterfront Square, Bristol on Sat 25 Jul.
 
@@ -27,4 +27,4 @@ Makoto is a drum & bass and jungle artist tracked on soundcheck, with 81 sets lo
 
 London Elektricity, DJ Marky, Fred V
 
-*Updated Thu, 23 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/makoto/)*
+*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/makoto/)*

@@ -1,6 +1,6 @@
 # Chapeau Rouge
 
-Chapeau Rouge is a music venue in Prague with 4 upcoming nights listed on soundcheck as of Thu, 23 Jul 2026; the next is "Adovany x Volterra" on Sat, 25 Jul 2026.
+Chapeau Rouge is a music venue in Prague with 4 upcoming nights listed on soundcheck as of Fri, 24 Jul 2026; the next is "Adovany x Volterra" on Sat, 25 Jul 2026.
 
 Chapeau Rouge is a music venue in Prague listed on soundcheck. 4 upcoming nights, with line-ups including Daniel Neighbour and DJ Lumiere. Browse upcoming dates, start times and who's playing. Jakubska 2, 110 00 Praha 1, Czech Republic.
 
@@ -17,4 +17,4 @@ Chapeau Rouge is a music venue in Prague listed on soundcheck. 4 upcoming nights
 
 Jakubska 2, 110 00 Praha 1, Czech Republic, Prague
 
-*Updated Thu, 23 Jul 2026 · source: [soundcheck](https://soundcheck.club/prague/club/chapeau-rouge/)*
+*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/prague/club/chapeau-rouge/)*

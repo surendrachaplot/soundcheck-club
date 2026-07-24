@@ -1,6 +1,6 @@
 # Gyusco
 
-Gyusco is a House and Disco artist with 3 upcoming club dates listed on soundcheck as of Thu, 23 Jul 2026, next at Rosso, Seoul on Sat, 25 Jul 2026.
+Gyusco is a House and Disco artist with 3 upcoming club dates listed on soundcheck as of Fri, 24 Jul 2026, next at Rosso, Seoul on Sat, 25 Jul 2026.
 
 Gyusco is a house and disco artist based in South Korea, tracked on soundcheck, with 297 sets logged across Seoul and Tokyo. Often billed alongside Youngseok, JNS and Airbear. Next up: Rosso, Seoul on Sat 25 Jul.
 
@@ -27,4 +27,4 @@ Gyusco is a house and disco artist based in South Korea, tracked on soundcheck, 
 
 Youngseok, JNS, Airbear
 
-*Updated Thu, 23 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/gyusco/)*
+*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/gyusco/)*

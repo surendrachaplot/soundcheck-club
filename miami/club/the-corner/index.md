@@ -1,6 +1,6 @@
 # The Corner
 
-The Corner is a music venue in Miami with 3 upcoming nights listed on soundcheck as of Thu, 23 Jul 2026; the next is "FREAKITONA" on Fri, 24 Jul 2026.
+The Corner is a music venue in Miami with 3 upcoming nights listed on soundcheck as of Fri, 24 Jul 2026; the next is "FREAKITONA" on Fri, 24 Jul 2026.
 
 The Corner is a music venue in Miami listed on soundcheck. 3 upcoming nights, with line-ups including ezmehfw, GVMNT, Jean Sean and p1no and 1 more. Browse upcoming dates, start times and who's playing. 1035 N Miami Ave, Miami, FL 33136, United States.
 
@@ -16,4 +16,4 @@ The Corner is a music venue in Miami listed on soundcheck. 3 upcoming nights, wi
 
 1035 N Miami Ave, Miami, FL 33136, United States, Miami
 
-*Updated Thu, 23 Jul 2026 · source: [soundcheck](https://soundcheck.club/miami/club/the-corner/)*
+*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/miami/club/the-corner/)*

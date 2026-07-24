@@ -1,6 +1,6 @@
 # Mark Oliver
 
-Mark Oliver is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Thu, 23 Jul 2026, next at Woodbine Park, Toronto on Fri, 24 Jul 2026.
+Mark Oliver is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Fri, 24 Jul 2026, next at Woodbine Park, Toronto on Fri, 24 Jul 2026.
 
 Mark Oliver is a house and techno artist tracked on soundcheck, with 20 sets logged across Toronto. Often billed alongside Jonathan Rosa, Kiki LeFreak and Milch (1). Next up: Woodbine Park, Toronto on Fri 24 Jul.
 
@@ -27,4 +27,4 @@ Mark Oliver is a house and techno artist tracked on soundcheck, with 20 sets log
 
 Jonathan Rosa, Kiki LeFreak, Milch (1)
 
-*Updated Thu, 23 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/markoliver/)*
+*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/markoliver/)*

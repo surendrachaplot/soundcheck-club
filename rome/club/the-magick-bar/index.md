@@ -1,6 +1,6 @@
 # THE MAGICK BAR
 
-THE MAGICK BAR is a music venue in Rome with 12 upcoming nights listed on soundcheck as of Thu, 23 Jul 2026; the next is "Neel invites Endzeit w/ RMNA, Kudeki, Torsion" on Fri, 24 Jul 2026.
+THE MAGICK BAR is a music venue in Rome with 12 upcoming nights listed on soundcheck as of Fri, 24 Jul 2026; the next is "Neel invites Endzeit w/ RMNA, Kudeki, Torsion" on Fri, 24 Jul 2026.
 
 THE MAGICK BAR is a music venue in Rome listed on soundcheck. 12 upcoming nights, with line-ups including bee.Z, Binh, Brasi and Collarbone and 2 more. Browse upcoming dates, start times and who's playing. Via Lungotevere Oberdan, 2 Rome, Italy 00195.
 
@@ -23,4 +23,4 @@ THE MAGICK BAR is a music venue in Rome listed on soundcheck. 12 upcoming nights
 
 Via Lungotevere Oberdan, 2 Rome, Italy 00195, Rome
 
-*Updated Thu, 23 Jul 2026 · source: [soundcheck](https://soundcheck.club/rome/club/the-magick-bar/)*
+*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/rome/club/the-magick-bar/)*

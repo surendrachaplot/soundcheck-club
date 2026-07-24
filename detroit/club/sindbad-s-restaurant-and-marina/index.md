@@ -1,6 +1,6 @@
 # Sindbad's Restaurant and Marina
 
-Sindbad's Restaurant and Marina is a music venue in Detroit with 1 upcoming night listed on soundcheck as of Thu, 23 Jul 2026; the next is "Sohar" on Fri, 21 Aug 2026.
+Sindbad's Restaurant and Marina is a music venue in Detroit with 1 upcoming night listed on soundcheck as of Fri, 24 Jul 2026; the next is "Sohar" on Fri, 21 Aug 2026.
 
 Sindbad's Restaurant and Marina is a music venue in Detroit listed on soundcheck. 1 upcoming night. Browse upcoming dates, start times and who's playing. 100 St Clair Street; Detroit; MI 48214.
 
@@ -14,4 +14,4 @@ Sindbad's Restaurant and Marina is a music venue in Detroit listed on soundcheck
 
 100 St Clair Street; Detroit; MI 48214, Detroit
 
-*Updated Thu, 23 Jul 2026 · source: [soundcheck](https://soundcheck.club/detroit/club/sindbad-s-restaurant-and-marina/)*
+*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/detroit/club/sindbad-s-restaurant-and-marina/)*

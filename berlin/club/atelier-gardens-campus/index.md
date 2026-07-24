@@ -1,6 +1,6 @@
 # Atelier Gardens Campus
 
-Atelier Gardens Campus is a music venue in Berlin with 1 upcoming night listed on soundcheck as of Thu, 23 Jul 2026; the next is "des fleurs (on the rooftop)" on Sat, 5 Sept 2026.
+Atelier Gardens Campus is a music venue in Berlin with 1 upcoming night listed on soundcheck as of Fri, 24 Jul 2026; the next is "des fleurs (on the rooftop)" on Sat, 5 Sept 2026.
 
 Atelier Gardens Campus is a music venue in Berlin listed on soundcheck. 1 upcoming night. Browse upcoming dates, start times and who's playing. Oberlandstraße 26-35, 12099 Berlin, Germany.
 
@@ -14,4 +14,4 @@ Atelier Gardens Campus is a music venue in Berlin listed on soundcheck. 1 upcomi
 
 Oberlandstraße 26-35, 12099 Berlin, Germany, Berlin
 
-*Updated Thu, 23 Jul 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/atelier-gardens-campus/)*
+*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/atelier-gardens-campus/)*

@@ -1,6 +1,6 @@
 # Lavallée
 
-Lavallée is a music venue in Brussels with 4 upcoming nights listed on soundcheck as of Thu, 23 Jul 2026; the next is "VICIOSA x PLATINE x XXXOUND" on Fri, 24 Jul 2026.
+Lavallée is a music venue in Brussels with 4 upcoming nights listed on soundcheck as of Fri, 24 Jul 2026; the next is "VICIOSA x PLATINE x XXXOUND" on Fri, 24 Jul 2026.
 
 Lavallée is a music venue in Brussels listed on soundcheck. 4 upcoming nights, with line-ups including Ben Kamal, Caillou (DE), Erykah and GRACIANO and 2 more. Browse upcoming dates, start times and who's playing. 39 rue Adolphe Lavallée, 1080 Molenbeek-Saint-Jean.
 
@@ -17,4 +17,4 @@ Lavallée is a music venue in Brussels listed on soundcheck. 4 upcoming nights, 
 
 39 rue Adolphe Lavallée, 1080 Molenbeek-Saint-Jean, Brussels
 
-*Updated Thu, 23 Jul 2026 · source: [soundcheck](https://soundcheck.club/brussels/club/lavall-e/)*
+*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/brussels/club/lavall-e/)*

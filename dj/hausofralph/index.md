@@ -1,6 +1,6 @@
 # Haus of Ralph
 
-Haus of Ralph is a Bass and Club artist with 2 upcoming club dates listed on soundcheck as of Thu, 23 Jul 2026, next at Cero' PJ, Kuala Lumpur on Fri, 24 Jul 2026.
+Haus of Ralph is a Bass and Club artist with 2 upcoming club dates listed on soundcheck as of Fri, 24 Jul 2026, next at Cero' PJ, Kuala Lumpur on Fri, 24 Jul 2026.
 
 Haus of Ralph is a bass and club artist tracked on soundcheck, with 63 sets logged across Auckland, Bangkok, Berlin and Brisbane and 3 more. Often billed alongside Cristal No.5, Zalina and House Mum. Next up: Cero' PJ, Kualalumpur on Fri 24 Jul.
 
@@ -26,4 +26,4 @@ Haus of Ralph is a bass and club artist tracked on soundcheck, with 63 sets logg
 
 Cristal No.5, Zalina, House Mum
 
-*Updated Thu, 23 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/hausofralph/)*
+*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/hausofralph/)*

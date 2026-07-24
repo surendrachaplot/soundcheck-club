@@ -1,6 +1,6 @@
 # Midline
 
-Midline is a music venue in Miami with 13 upcoming nights listed on soundcheck as of Thu, 23 Jul 2026; the next is "AEG & Rolling Loud presents: 2slimey USA Tour: NO BASS NO FUN" on Sat, 25 Jul 2026.
+Midline is a music venue in Miami with 13 upcoming nights listed on soundcheck as of Fri, 24 Jul 2026; the next is "AEG & Rolling Loud presents: 2slimey USA Tour: NO BASS NO FUN" on Sat, 25 Jul 2026.
 
 Midline is a music venue in Miami listed on soundcheck. 13 upcoming nights, with line-ups including Andre Power, Mose, Six Sex and TroyBoi. Browse upcoming dates, start times and who's playing.
 
@@ -19,4 +19,4 @@ Midline is a music venue in Miami listed on soundcheck. 13 upcoming nights, with
 | Fri, 25 Sept 2026 | Loe Shimmy – Pretty Girls Run The World Tour MIAMI |  |
 | Sat, 3 Oct 2026 | Akeem Ali: The Texture Tour |  |
 
-*Updated Thu, 23 Jul 2026 · source: [soundcheck](https://soundcheck.club/miami/club/midline/)*
+*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/miami/club/midline/)*

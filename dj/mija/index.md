@@ -1,8 +1,8 @@
 # Mija
 
-Mija is a Techno and House artist with 5 upcoming club dates listed on soundcheck as of Thu, 23 Jul 2026, next at Spook Club, Valencia on Sat, 25 Jul 2026.
+Mija is a Techno and House artist with 6 upcoming club dates listed on soundcheck as of Fri, 24 Jul 2026, next at Spook Club, Valencia on Sat, 25 Jul 2026.
 
-Mija is a techno and house artist tracked on soundcheck, with 119 sets logged across Amsterdam, Antwerp, Austin and Barcelona and 42 more. Often billed alongside Bad Boombox, Mischluft and Janis Zielinski. Next up: Spook Club, Valencia on Sat 25 Jul.
+Mija is a techno and house artist tracked on soundcheck, with 120 sets logged across Amsterdam, Antwerp, Austin and Barcelona and 42 more. Often billed alongside Bad Boombox, Mischluft and Janis Zielinski. Next up: Spook Club, Valencia on Sat 25 Jul.
 
 ## Upcoming shows
 
@@ -13,6 +13,7 @@ Mija is a techno and house artist tracked on soundcheck, with 119 sets logged ac
 | Fri, 31 Jul 2026 | TBA - Paradies Garten Festival - Schloß Prugg 2, 2460 Gemeinde Bruck an der Leitha | Vienna |
 | Fri, 4 Sept 2026 | Hall | Tallinn |
 | Fri, 11 Sept 2026 | Hangaren | Copenhagen |
+| Thu, 22 Oct 2026 | Lofi | Amsterdam |
 
 ## Recently played
 
@@ -29,4 +30,4 @@ Mija is a techno and house artist tracked on soundcheck, with 119 sets logged ac
 
 Bad Boombox, Mischluft, Janis Zielinski
 
-*Updated Thu, 23 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/mija/)*
+*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/mija/)*

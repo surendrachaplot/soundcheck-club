@@ -1,6 +1,6 @@
 # AREA ØNE
 
-AREA ØNE is a Techno and Trance artist with 3 upcoming club dates listed on soundcheck as of Thu, 23 Jul 2026, next at La Machine Du Moulin Rouge, Paris on Sat, 25 Jul 2026.
+AREA ØNE is a Techno and Trance artist with 3 upcoming club dates listed on soundcheck as of Fri, 24 Jul 2026, next at La Machine Du Moulin Rouge, Paris on Sat, 25 Jul 2026.
 
 AREA ØNE is a techno and trance artist tracked on soundcheck, with 50 sets logged across Amsterdam, Antwerp, Athens and Belgrade and 18 more. Often billed alongside Niotech, HANÀ and THISO. Next up: La Machine Du Moulin Rouge, Paris on Sat 25 Jul.
 
@@ -27,4 +27,4 @@ AREA ØNE is a techno and trance artist tracked on soundcheck, with 50 sets logg
 
 Niotech, HANÀ, THISO
 
-*Updated Thu, 23 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/areaone/)*
+*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/areaone/)*

@@ -1,6 +1,6 @@
 # karete bu
 
-karete bu is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Thu, 23 Jul 2026, next at ://about blank, Berlin on Fri, 24 Jul 2026.
+karete bu is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Fri, 24 Jul 2026, next at ://about blank, Berlin on Fri, 24 Jul 2026.
 
 karete bu is a house and techno artist tracked on soundcheck, with 83 sets logged across Amsterdam, Berlin, Brussels and Frankfurt and 5 more. Often billed alongside fr. JPLA, Jessamine and André Dancekowski. Next up: ://about blank, Berlin on Fri 24 Jul.
 
@@ -27,4 +27,4 @@ karete bu is a house and techno artist tracked on soundcheck, with 83 sets logge
 
 fr. JPLA, Jessamine, André Dancekowski
 
-*Updated Thu, 23 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/karetebu/)*
+*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/karetebu/)*

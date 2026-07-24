@@ -1,6 +1,6 @@
 # Madwave
 
-Madwave is a Trance and Techno artist with 3 upcoming club dates listed on soundcheck as of Thu, 23 Jul 2026, next at Zurich Lake, Zurich on Sat, 8 Aug 2026.
+Madwave is a Trance and Techno artist with 3 upcoming club dates listed on soundcheck as of Fri, 24 Jul 2026, next at Zurich Lake, Zurich on Sat, 8 Aug 2026.
 
 Madwave is a trance and techno artist tracked on soundcheck, with 33 sets logged across Frankfurt, Geneva, Hamburg and Ibiza and 5 more. Often billed alongside Daxson, Agnelli & Nelson and Markus Schulz. Next up: Zurich Lake, Zurich on Sat 8 Aug.
 
@@ -27,4 +27,4 @@ Madwave is a trance and techno artist tracked on soundcheck, with 33 sets logged
 
 Daxson, Agnelli & Nelson, Markus Schulz
 
-*Updated Thu, 23 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/madwave/)*
+*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/madwave/)*

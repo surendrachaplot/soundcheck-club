@@ -1,6 +1,6 @@
 # AMT
 
-AMT is a music venue in Berlin with 4 upcoming nights listed on soundcheck as of Thu, 23 Jul 2026; the next is "CSD STD - SUBSTATION Transmitted Disease" on Sat, 25 Jul 2026.
+AMT is a music venue in Berlin with 4 upcoming nights listed on soundcheck as of Fri, 24 Jul 2026; the next is "CSD STD - SUBSTATION Transmitted Disease" on Sat, 25 Jul 2026.
 
 AMT is a music venue in Berlin listed on soundcheck. 4 upcoming nights, with line-ups including Lobby (FR), ADHDaddy, ALVA (FR) and ANNARA and 2 more. Browse upcoming dates, start times and who's playing.
 
@@ -13,4 +13,4 @@ AMT is a music venue in Berlin listed on soundcheck. 4 upcoming nights, with lin
 | Sat, 15 Aug 2026 | AMT x Moritz Biebl invites: | ALVA (FR), BUTZ, Hontas, Jay Dee, Moritz Biebl, Soulcontrol, Tosha |
 | Sat, 12 Sept 2026 | CAGE: Techno / Hard Techno [Kinky] |  |
 
-*Updated Thu, 23 Jul 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/amt/)*
+*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/amt/)*

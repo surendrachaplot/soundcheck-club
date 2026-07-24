@@ -1,6 +1,6 @@
 # John Paynter
 
-John Paynter is a Acid and Downtempo artist with 2 upcoming club dates listed on soundcheck as of Thu, 23 Jul 2026, next at Headrow House, Leeds on Fri, 24 Jul 2026.
+John Paynter is a Acid and Downtempo artist with 2 upcoming club dates listed on soundcheck as of Fri, 24 Jul 2026, next at Headrow House, Leeds on Fri, 24 Jul 2026.
 
 John Paynter is an acid and downtempo artist based in United Kingdom, tracked on soundcheck, with 61 sets logged across Birmingham, Glasgow, Ibiza and Leeds and 3 more. Often billed alongside Roya Brehl, Electric Gigi and Andrew Devine. Next up: Headrow House, Leeds on Fri 24 Jul.
 
@@ -26,4 +26,4 @@ John Paynter is an acid and downtempo artist based in United Kingdom, tracked on
 
 Roya Brehl, Electric Gigi, Andrew Devine
 
-*Updated Thu, 23 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/johnpaynter/)*
+*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/johnpaynter/)*

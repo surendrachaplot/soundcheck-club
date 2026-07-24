@@ -1,6 +1,6 @@
 # Jonny Knüppel
 
-Jonny Knüppel is a music venue in Berlin with 6 upcoming nights listed on soundcheck as of Thu, 23 Jul 2026; the next is "Knüppel Kollektiv-Sommernacht mit Disco Futurismo, Diskolusion und Schmeckt Auf Eis" on Fri, 24 Jul 2026.
+Jonny Knüppel is a music venue in Berlin with 6 upcoming nights listed on soundcheck as of Fri, 24 Jul 2026; the next is "Knüppel Kollektiv-Sommernacht mit Disco Futurismo, Diskolusion und Schmeckt Auf Eis" on Fri, 24 Jul 2026.
 
 Jonny Knüppel is a music venue in Berlin listed on soundcheck. 6 upcoming nights, with line-ups including AAMIROO, Aber DJ, Allynx and Andriy K. and 2 more. Browse upcoming dates, start times and who's playing. Lilli-Henoch-Straße 10, 10405 Berlin.
 
@@ -19,4 +19,4 @@ Jonny Knüppel is a music venue in Berlin listed on soundcheck. 6 upcoming night
 
 Lilli-Henoch-Straße 10, 10405 Berlin, Berlin
 
-*Updated Thu, 23 Jul 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/jonny-kn-ppel/)*
+*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/jonny-kn-ppel/)*

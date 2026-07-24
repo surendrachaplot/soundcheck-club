@@ -1,6 +1,6 @@
 # KOOB
 
-KOOB is a Club and House artist with 3 upcoming club dates listed on soundcheck as of Thu, 23 Jul 2026, next at Institut fuer Zukunft (IfZ), Leipzig on Sat, 25 Jul 2026.
+KOOB is a Club and House artist with 3 upcoming club dates listed on soundcheck as of Fri, 24 Jul 2026, next at Institut fuer Zukunft (IfZ), Leipzig on Sat, 25 Jul 2026.
 
 KOOB is a club and house artist based in United States of America, tracked on soundcheck, with 9 sets logged across Berlin, Dublin, Frankfurt and Leipzig and 2 more. Often billed alongside NATALIA., AMEX (UK) and APP. Next up: Institut fuer Zukunft (IfZ), Leipzig on Sat 25 Jul.
 
@@ -25,4 +25,4 @@ KOOB is a club and house artist based in United States of America, tracked on so
 
 NATALIA., AMEX (UK), APP
 
-*Updated Thu, 23 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/koob/)*
+*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/koob/)*

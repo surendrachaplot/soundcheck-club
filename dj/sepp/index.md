@@ -1,6 +1,6 @@
 # Sepp
 
-Sepp is a Minimal and House artist with 3 upcoming club dates listed on soundcheck as of Thu, 23 Jul 2026, next at Expirat Halele Carol, Bucharest on Sat, 25 Jul 2026.
+Sepp is a Minimal and House artist with 3 upcoming club dates listed on soundcheck as of Fri, 24 Jul 2026, next at Expirat Halele Carol, Bucharest on Sat, 25 Jul 2026.
 
 Sepp is a minimal and house artist tracked on soundcheck, with 103 sets logged across Amsterdam, Antwerp, Auckland and Barcelona and 28 more. Often billed alongside Nu Zau, Alci and Gescu. Next up: Expirat Halele Carol, Bucharest on Sat 25 Jul.
 
@@ -27,4 +27,4 @@ Sepp is a minimal and house artist tracked on soundcheck, with 103 sets logged a
 
 Nu Zau, Alci, Gescu
 
-*Updated Thu, 23 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/sepp/)*
+*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/sepp/)*

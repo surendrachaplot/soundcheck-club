@@ -1,8 +1,8 @@
 # NEW YORK
 
-NEW YORK is a Electro and Pop artist with 114 upcoming club dates listed on soundcheck as of Thu, 23 Jul 2026, next at Institut fuer Zukunft (IfZ), Leipzig on Sat, 25 Jul 2026.
+NEW YORK is a Electro and Pop artist with 124 upcoming club dates listed on soundcheck as of Fri, 24 Jul 2026, next at Institut fuer Zukunft (IfZ), Leipzig on Sat, 25 Jul 2026.
 
-NEW YORK is an electro and pop artist based in United Kingdom, tracked on soundcheck, with 150 sets logged across Amsterdam, Bali, Barcelona and Berlin and 48 more. Often billed alongside AMEX (UK), APP and Alaska (2). Next up: Institut fuer Zukunft (IfZ), Leipzig on Sat 25 Jul.
+NEW YORK is an electro and pop artist based in United Kingdom, tracked on soundcheck, with 160 sets logged across Amsterdam, Bali, Barcelona and Berlin and 49 more. Often billed alongside AMEX (UK), APP and Alaska (2). Next up: Institut fuer Zukunft (IfZ), Leipzig on Sat 25 Jul.
 
 ## Upcoming shows
 
@@ -36,4 +36,4 @@ NEW YORK is an electro and pop artist based in United Kingdom, tracked on soundc
 
 AMEX (UK), APP, Alaska (2)
 
-*Updated Thu, 23 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/newyork/)*
+*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/newyork/)*

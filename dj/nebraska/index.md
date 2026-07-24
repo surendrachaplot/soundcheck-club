@@ -1,8 +1,8 @@
 # Nebraska
 
-Nebraska is a electronic artist with 111 upcoming club dates listed on soundcheck as of Thu, 23 Jul 2026, next at Institut fuer Zukunft (IfZ), Leipzig on Sat, 25 Jul 2026.
+Nebraska is a electronic artist with 121 upcoming club dates listed on soundcheck as of Fri, 24 Jul 2026, next at Institut fuer Zukunft (IfZ), Leipzig on Sat, 25 Jul 2026.
 
-Nebraska is an electronic artist based in United Kingdom, tracked on soundcheck, with 111 sets logged across Amsterdam, Bali, Barcelona and Berlin and 41 more. Often billed alongside AMEX (UK), APP and Alaska (2). Next up: Institut fuer Zukunft (IfZ), Leipzig on Sat 25 Jul.
+Nebraska is an electronic artist based in United Kingdom, tracked on soundcheck, with 121 sets logged across Amsterdam, Bali, Barcelona and Berlin and 42 more. Often billed alongside AMEX (UK), APP and Alaska (2). Next up: Institut fuer Zukunft (IfZ), Leipzig on Sat 25 Jul.
 
 ## Upcoming shows
 
@@ -25,4 +25,4 @@ Nebraska is an electronic artist based in United Kingdom, tracked on soundcheck,
 
 AMEX (UK), APP, Alaska (2)
 
-*Updated Thu, 23 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/nebraska/)*
+*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/nebraska/)*

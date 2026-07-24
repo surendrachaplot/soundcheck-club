@@ -1,6 +1,6 @@
 # audio primitive
 
-audio primitive is a Dub Techno and Ambient artist with 3 upcoming club dates listed on soundcheck as of Thu, 23 Jul 2026, next at La Station - Gare des Mines, Paris on Fri, 24 Jul 2026.
+audio primitive is a Dub Techno and Ambient artist with 3 upcoming club dates listed on soundcheck as of Fri, 24 Jul 2026, next at La Station - Gare des Mines, Paris on Fri, 24 Jul 2026.
 
 audio primitive is a dub techno and ambient artist based in France, tracked on soundcheck, with 7 sets logged across Brussels and Paris. Often billed alongside Soyoon, UNOS and ttyfal. Next up: La Station - Gare des Mines, Paris on Fri 24 Jul.
 
@@ -23,4 +23,4 @@ audio primitive is a dub techno and ambient artist based in France, tracked on s
 
 Soyoon, UNOS, ttyfal
 
-*Updated Thu, 23 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/audioprimitive/)*
+*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/audioprimitive/)*

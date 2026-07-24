@@ -1,6 +1,6 @@
 # Truncate
 
-Truncate is a Techno and House artist with 5 upcoming club dates listed on soundcheck as of Thu, 23 Jul 2026, next at 3oz Dive Club, San Diego on Fri, 31 Jul 2026.
+Truncate is a Techno and House artist with 5 upcoming club dates listed on soundcheck as of Fri, 24 Jul 2026, next at 3oz Dive Club, San Diego on Fri, 31 Jul 2026.
 
 Truncate is a techno and house artist tracked on soundcheck, with 141 sets logged across Amsterdam, Austin, Barcelona and Basel and 39 more. Often billed alongside Drumcell, DJ Hyperactive and Max Gardner. Next up: 3oz Dive Club, Sandiego on Fri 31 Jul.
 
@@ -29,4 +29,4 @@ Truncate is a techno and house artist tracked on soundcheck, with 141 sets logge
 
 Drumcell, DJ Hyperactive, Max Gardner
 
-*Updated Thu, 23 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/truncate/)*
+*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/truncate/)*

@@ -1,6 +1,6 @@
 # Mastak
 
-Mastak is a music venue in Warsaw with 6 upcoming nights listed on soundcheck as of Thu, 23 Jul 2026; the next is "addigted" on Fri, 24 Jul 2026.
+Mastak is a music venue in Warsaw with 6 upcoming nights listed on soundcheck as of Fri, 24 Jul 2026; the next is "addigted" on Fri, 24 Jul 2026.
 
 Mastak is a music venue in Warsaw listed on soundcheck. 6 upcoming nights, with line-ups including Adrian Skiba, anke schön, Be.roo and Gaamer and 2 more. Browse upcoming dates, start times and who's playing. Solec 81B, Wieżyca, 00-382 Warszawa.
 
@@ -19,4 +19,4 @@ Mastak is a music venue in Warsaw listed on soundcheck. 6 upcoming nights, with 
 
 Solec 81B, Wieżyca, 00-382 Warszawa, Warsaw
 
-*Updated Thu, 23 Jul 2026 · source: [soundcheck](https://soundcheck.club/warsaw/club/mastak/)*
+*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/warsaw/club/mastak/)*

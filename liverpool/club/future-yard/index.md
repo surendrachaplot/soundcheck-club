@@ -1,6 +1,6 @@
 # Future Yard
 
-Future Yard is a music venue in Liverpool with 13 upcoming nights listed on soundcheck as of Thu, 23 Jul 2026; the next is "Transmission Fest at Future Yard" on Sat, 25 Jul 2026.
+Future Yard is a music venue in Liverpool with 13 upcoming nights listed on soundcheck as of Fri, 24 Jul 2026; the next is "Transmission Fest at Future Yard" on Sat, 25 Jul 2026.
 
 Future Yard is a music venue in Liverpool listed on soundcheck. 13 upcoming nights, with line-ups including DJ Andy Smith, James Lavelle, Stealing Sheep and Traindeer and 2 more. Browse upcoming dates, start times and who's playing. 75 Argyle Street, Birkenhead, Merseyside, CH41 6AB.
 
@@ -23,4 +23,4 @@ Future Yard is a music venue in Liverpool listed on soundcheck. 13 upcoming nigh
 
 75 Argyle Street, Birkenhead, Merseyside, CH41 6AB, Liverpool
 
-*Updated Thu, 23 Jul 2026 · source: [soundcheck](https://soundcheck.club/liverpool/club/future-yard/)*
+*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/liverpool/club/future-yard/)*

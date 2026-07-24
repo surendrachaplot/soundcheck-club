@@ -1,6 +1,6 @@
 # Kirilski
 
-Kirilski is a House and Techno artist with 4 upcoming club dates listed on soundcheck as of Thu, 23 Jul 2026, next at TBA - DAM SQUARE / VONDELPARK after 14:00, Amsterdam on Sat, 25 Jul 2026.
+Kirilski is a House and Techno artist with 4 upcoming club dates listed on soundcheck as of Fri, 24 Jul 2026, next at TBA - DAM SQUARE / VONDELPARK after 14:00, Amsterdam on Sat, 25 Jul 2026.
 
 Kirilski is a house and techno artist based in Ukraine, tracked on soundcheck, with 80 sets logged across Amsterdam, Barcelona, London and Miami and 1 more. Often billed alongside Pura Pachanga, Snooz and Emma Champagne Queen. Next up: TBA - DAM SQUARE / VONDELPARK after 14:00, Amsterdam on Sat 25 Jul.
 
@@ -28,4 +28,4 @@ Kirilski is a house and techno artist based in Ukraine, tracked on soundcheck, w
 
 Pura Pachanga, Snooz, Emma Champagne Queen
 
-*Updated Thu, 23 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/kirilski/)*
+*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/kirilski/)*

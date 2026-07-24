@@ -1,6 +1,6 @@
 # Chris Schwarzwälder
 
-Chris Schwarzwälder is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Thu, 23 Jul 2026, next at Doma Portugal, Lisbon on Fri, 24 Jul 2026.
+Chris Schwarzwälder is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Fri, 24 Jul 2026, next at Doma Portugal, Lisbon on Fri, 24 Jul 2026.
 
 Chris Schwarzwälder is a house and techno artist based in Germany, tracked on soundcheck, with 90 sets logged across Amsterdam, Barcelona, Basel and Berlin and 20 more. Often billed alongside Mira, Britta Arnold and Sven Dohse. Next up: Doma Portugal, Lisbon on Fri 24 Jul.
 
@@ -27,4 +27,4 @@ Chris Schwarzwälder is a house and techno artist based in Germany, tracked on s
 
 Mira, Britta Arnold, Sven Dohse
 
-*Updated Thu, 23 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/chrisschwarzwalder/)*
+*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/chrisschwarzwalder/)*

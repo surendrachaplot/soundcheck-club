@@ -1,6 +1,6 @@
 # DJ Vibe
 
-DJ Vibe is a House and Tech House artist with 3 upcoming club dates listed on soundcheck as of Thu, 23 Jul 2026, next at Switch, Porto on Sat, 25 Jul 2026.
+DJ Vibe is a House and Tech House artist with 3 upcoming club dates listed on soundcheck as of Fri, 24 Jul 2026, next at Switch, Porto on Sat, 25 Jul 2026.
 
 DJ Vibe is a house and tech house artist tracked on soundcheck, with 40 sets logged across Lisbon, Montreal, Newyorkcity and Porto and 1 more. Often billed alongside Rui Vargas, Kaesar and Ze Salvador. Next up: Switch, Porto on Sat 25 Jul.
 
@@ -27,4 +27,4 @@ DJ Vibe is a house and tech house artist tracked on soundcheck, with 40 sets log
 
 Rui Vargas, Kaesar, Ze Salvador
 
-*Updated Thu, 23 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/djvibe/)*
+*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/djvibe/)*

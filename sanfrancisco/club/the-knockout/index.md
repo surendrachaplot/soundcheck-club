@@ -1,6 +1,6 @@
 # The Knockout
 
-The Knockout is a music venue in San Francisco/Oakland with 2 upcoming nights listed on soundcheck as of Thu, 23 Jul 2026; the next is "Reggae Sunday: Strictly Rockers Reggae Dance Party" on Sun, 26 Jul 2026.
+The Knockout is a music venue in San Francisco/Oakland with 2 upcoming nights listed on soundcheck as of Fri, 24 Jul 2026; the next is "Reggae Sunday: Strictly Rockers Reggae Dance Party" on Sun, 26 Jul 2026.
 
 The Knockout is a music venue in Sanfrancisco listed on soundcheck. 2 upcoming nights. Browse upcoming dates, start times and who's playing. 3223 Mission Street, San Francisco, CA 94110, United States.
 
@@ -15,4 +15,4 @@ The Knockout is a music venue in Sanfrancisco listed on soundcheck. 2 upcoming n
 
 3223 Mission Street, San Francisco, CA 94110, United States, San Francisco/Oakland
 
-*Updated Thu, 23 Jul 2026 · source: [soundcheck](https://soundcheck.club/sanfrancisco/club/the-knockout/)*
+*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/sanfrancisco/club/the-knockout/)*

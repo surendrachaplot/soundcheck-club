@@ -1,6 +1,6 @@
 # Mosher
 
-Mosher is a Techno and Acid artist with 4 upcoming club dates listed on soundcheck as of Thu, 23 Jul 2026, next at Birgit, Berlin on Sat, 8 Aug 2026.
+Mosher is a Techno and Acid artist with 4 upcoming club dates listed on soundcheck as of Fri, 24 Jul 2026, next at Birgit, Berlin on Sat, 8 Aug 2026.
 
 Mosher is a techno and acid artist based in Argentina, tracked on soundcheck, with 15 sets logged across Amsterdam, Berlin, Buenosaires and Mexicocity. Often billed alongside Sebastian Mora, Bekail and Astro. Next up: Birgit, Berlin on Sat 8 Aug.
 
@@ -28,4 +28,4 @@ Mosher is a techno and acid artist based in Argentina, tracked on soundcheck, wi
 
 Sebastian Mora, Bekail, Astro
 
-*Updated Thu, 23 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/mosher/)*
+*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/mosher/)*

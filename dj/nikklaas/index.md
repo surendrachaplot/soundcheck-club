@@ -1,6 +1,6 @@
 # Nikklaas
 
-Nikklaas is a House and Club artist with 4 upcoming club dates listed on soundcheck as of Thu, 23 Jul 2026, next at Süss War Gestern, Berlin on Sat, 1 Aug 2026.
+Nikklaas is a House and Club artist with 4 upcoming club dates listed on soundcheck as of Fri, 24 Jul 2026, next at Süss War Gestern, Berlin on Sat, 1 Aug 2026.
 
 Nikklaas is a house and club artist tracked on soundcheck, with 137 sets logged across Berlin and Dusseldorf. Often billed alongside Better Call Paul, Anne Hou and MagDita. Next up: Süss War Gestern, Berlin on Sat 1 Aug.
 
@@ -28,4 +28,4 @@ Nikklaas is a house and club artist tracked on soundcheck, with 137 sets logged 
 
 Better Call Paul, Anne Hou, MagDita
 
-*Updated Thu, 23 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/nikklaas/)*
+*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/nikklaas/)*

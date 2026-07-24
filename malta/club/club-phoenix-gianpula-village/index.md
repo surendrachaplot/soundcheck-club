@@ -1,6 +1,6 @@
 # Club Phoenix - Gianpula Village
 
-Club Phoenix - Gianpula Village is a music venue in Malta with 4 upcoming nights listed on soundcheck as of Thu, 23 Jul 2026; the next is "Glitch Club Series: OGUZ" on Sat, 25 Jul 2026.
+Club Phoenix - Gianpula Village is a music venue in Malta with 4 upcoming nights listed on soundcheck as of Fri, 24 Jul 2026; the next is "Glitch Club Series: OGUZ" on Sat, 25 Jul 2026.
 
 Club Phoenix - Gianpula Village is a music venue in Malta listed on soundcheck. 4 upcoming nights, with line-ups including Chontane, Clinical Hates, Dicentra and DYEN and 2 more. Browse upcoming dates, start times and who's playing. Gianpula Village, Rabat, RBT 5032, Malta.
 
@@ -17,4 +17,4 @@ Club Phoenix - Gianpula Village is a music venue in Malta listed on soundcheck. 
 
 Gianpula Village, Rabat, RBT 5032, Malta, Malta
 
-*Updated Thu, 23 Jul 2026 · source: [soundcheck](https://soundcheck.club/malta/club/club-phoenix-gianpula-village/)*
+*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/malta/club/club-phoenix-gianpula-village/)*

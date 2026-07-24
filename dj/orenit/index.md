@@ -1,6 +1,6 @@
 # Oren (IT)
 
-Oren (IT) is a Electro and House artist with 3 upcoming club dates listed on soundcheck as of Thu, 23 Jul 2026, next at Fortune of War, Brighton on Sat, 25 Jul 2026.
+Oren (IT) is a Electro and House artist with 3 upcoming club dates listed on soundcheck as of Fri, 24 Jul 2026, next at Fortune of War, Brighton on Sat, 25 Jul 2026.
 
 Oren (IT) is an electro and house artist tracked on soundcheck, with 38 sets logged across Brighton, London, Malaga and Naples and 2 more. Often billed alongside Peter Grand, Yuma (UK) and FeR (IT). Next up: Fortune of War, Brighton on Sat 25 Jul.
 
@@ -27,4 +27,4 @@ Oren (IT) is an electro and house artist tracked on soundcheck, with 38 sets log
 
 Peter Grand, Yuma (UK), FeR (IT)
 
-*Updated Thu, 23 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/orenit/)*
+*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/orenit/)*

@@ -1,6 +1,6 @@
 # PHJ.WAV
 
-PHJ.WAV is a Deep House and House artist with 3 upcoming club dates listed on soundcheck as of Thu, 23 Jul 2026, next at Last Arch, London on Fri, 24 Jul 2026.
+PHJ.WAV is a Deep House and House artist with 3 upcoming club dates listed on soundcheck as of Fri, 24 Jul 2026, next at Last Arch, London on Fri, 24 Jul 2026.
 
 PHJ.WAV is a deep house and house artist tracked on soundcheck, with 31 sets logged across Brighton, Edinburgh, London and Manchester and 2 more. Often billed alongside Josh Wuf, Inspector Neptune and James Worker. Next up: Last Arch, London on Fri 24 Jul.
 
@@ -27,4 +27,4 @@ PHJ.WAV is a deep house and house artist tracked on soundcheck, with 31 sets log
 
 Josh Wuf, Inspector Neptune, James Worker
 
-*Updated Thu, 23 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/phj.wav/)*
+*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/phj.wav/)*

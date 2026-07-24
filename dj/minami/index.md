@@ -1,6 +1,6 @@
 # MINAMI
 
-MINAMI is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Thu, 23 Jul 2026, next at Oath, Tokyo on Fri, 24 Jul 2026.
+MINAMI is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Fri, 24 Jul 2026, next at Oath, Tokyo on Fri, 24 Jul 2026.
 
 MINAMI is a house and techno artist based in Japan, tracked on soundcheck, with 204 sets logged across Osaka and Tokyo. Often billed alongside Dazzle Drums, HEAVEN and Kengo. Next up: Oath, Tokyo on Fri 24 Jul.
 
@@ -27,4 +27,4 @@ MINAMI is a house and techno artist based in Japan, tracked on soundcheck, with 
 
 Dazzle Drums, HEAVEN, Kengo
 
-*Updated Thu, 23 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/minami/)*
+*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/minami/)*

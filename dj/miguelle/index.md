@@ -1,6 +1,6 @@
 # Miguelle
 
-Miguelle is a Tech House and House artist with 6 upcoming club dates listed on soundcheck as of Thu, 23 Jul 2026, next at TBA - Hollywood Park adjacent to SoFi Stadium, Los Angeles on Sat, 1 Aug 2026.
+Miguelle is a Tech House and House artist with 6 upcoming club dates listed on soundcheck as of Fri, 24 Jul 2026, next at TBA - Hollywood Park adjacent to SoFi Stadium, Los Angeles on Sat, 1 Aug 2026.
 
 Miguelle is a tech house and house artist based in Venezuela, tracked on soundcheck, with 108 sets logged across Amsterdam, Austin, Barcelona and Boston and 15 more. Often billed alongside TONS, Ben Sterling and Marco Carola. Next up: TBA - Hollywood Park adjacent to SoFi Stadium, Losangeles on Sat 1 Aug.
 
@@ -30,4 +30,4 @@ Miguelle is a tech house and house artist based in Venezuela, tracked on soundch
 
 TONS, Ben Sterling, Marco Carola
 
-*Updated Thu, 23 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/miguelle/)*
+*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/miguelle/)*

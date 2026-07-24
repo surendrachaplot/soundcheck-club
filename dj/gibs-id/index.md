@@ -1,6 +1,6 @@
 # Gibs (ID)
 
-Gibs (ID) is a House and Electro artist with 3 upcoming club dates listed on soundcheck as of Thu, 23 Jul 2026, next at Optimist, Bali on Fri, 24 Jul 2026.
+Gibs (ID) is a House and Electro artist with 3 upcoming club dates listed on soundcheck as of Fri, 24 Jul 2026, next at Optimist, Bali on Fri, 24 Jul 2026.
 
 Gibs (ID) is a house and electro artist based in Indonesia, tracked on soundcheck, with 6 sets logged across Bali and Paris. Often billed alongside Zoot, Akaj and Alyhas. Next up: Optimist, Bali on Fri 24 Jul.
 
@@ -22,4 +22,4 @@ Gibs (ID) is a house and electro artist based in Indonesia, tracked on soundchec
 
 Zoot, Akaj, Alyhas
 
-*Updated Thu, 23 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/gibs-id/)*
+*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/gibs-id/)*

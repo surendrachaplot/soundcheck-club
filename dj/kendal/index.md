@@ -1,6 +1,6 @@
 # Kendal
 
-Kendal is a Italo Disco and Techno artist with 4 upcoming club dates listed on soundcheck as of Thu, 23 Jul 2026, next at Karmen Camina, Strasbourg on Sat, 25 Jul 2026.
+Kendal is a Italo Disco and Techno artist with 4 upcoming club dates listed on soundcheck as of Fri, 24 Jul 2026, next at Karmen Camina, Strasbourg on Sat, 25 Jul 2026.
 
 Kendal is an italo disco and techno artist tracked on soundcheck, with 102 sets logged across Amsterdam, Antwerp, Barcelona and Belgrade and 26 more. Often billed alongside Andi, Belaria and Miguel De Bois. Next up: Karmen Camina, Strasbourg on Sat 25 Jul.
 
@@ -28,4 +28,4 @@ Kendal is an italo disco and techno artist tracked on soundcheck, with 102 sets 
 
 Andi, Belaria, Miguel De Bois
 
-*Updated Thu, 23 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/kendal/)*
+*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/kendal/)*

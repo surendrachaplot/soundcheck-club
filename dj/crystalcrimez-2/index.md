@@ -1,6 +1,6 @@
 # crystal crimez (2)
 
-crystal crimez (2) is a Trance and Techno artist with 3 upcoming club dates listed on soundcheck as of Thu, 23 Jul 2026, next at Climax-Institutes, Stuttgart on Fri, 21 Aug 2026.
+crystal crimez (2) is a Trance and Techno artist with 3 upcoming club dates listed on soundcheck as of Fri, 24 Jul 2026, next at Climax-Institutes, Stuttgart on Fri, 21 Aug 2026.
 
 crystal crimez (2) is a trance and techno artist based in Germany, tracked on soundcheck, with 18 sets logged across Berlin, Munich and Stuttgart. Often billed alongside Aniza (DE), JANO (4) and CALiACRA. Next up: Climax-Institutes, Stuttgart on Fri 21 Aug.
 
@@ -27,4 +27,4 @@ crystal crimez (2) is a trance and techno artist based in Germany, tracked on so
 
 Aniza (DE), JANO (4), CALiACRA
 
-*Updated Thu, 23 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/crystalcrimez-2/)*
+*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/crystalcrimez-2/)*

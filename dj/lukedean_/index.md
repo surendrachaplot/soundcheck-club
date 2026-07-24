@@ -1,6 +1,6 @@
 # Luke Dean_
 
-Luke Dean_ is a House and Tech House artist with 8 upcoming club dates listed on soundcheck as of Thu, 23 Jul 2026, next at Brooklyn Storehouse, New York City on Fri, 24 Jul 2026.
+Luke Dean_ is a House and Tech House artist with 8 upcoming club dates listed on soundcheck as of Fri, 24 Jul 2026, next at Brooklyn Storehouse, New York City on Fri, 24 Jul 2026.
 
 Luke Dean_ is a house and tech house artist tracked on soundcheck, with 100 sets logged across Amsterdam, Barcelona, Belfast and Brighton and 25 more. Often billed alongside Max Dean, Locky and L.P. Rhythm. Next up: Brooklyn Storehouse, Newyorkcity on Fri 24 Jul.
 
@@ -32,4 +32,4 @@ Luke Dean_ is a house and tech house artist tracked on soundcheck, with 100 sets
 
 Max Dean, Locky, L.P. Rhythm
 
-*Updated Thu, 23 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/lukedean_/)*
+*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/lukedean_/)*

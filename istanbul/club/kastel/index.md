@@ -1,6 +1,6 @@
 # Kastel
 
-Kastel is a music venue in Istanbul with 4 upcoming nights listed on soundcheck as of Thu, 23 Jul 2026; the next is "Kastel #ROOFTOPSERIES: Batikan Tanrikulu + BATIKAN ABIZ + MELISSA DUST" on Fri, 24 Jul 2026.
+Kastel is a music venue in Istanbul with 4 upcoming nights listed on soundcheck as of Fri, 24 Jul 2026; the next is "Kastel #ROOFTOPSERIES: Batikan Tanrikulu + BATIKAN ABIZ + MELISSA DUST" on Fri, 24 Jul 2026.
 
 Kastel is a music venue in Istanbul listed on soundcheck. 4 upcoming nights, with line-ups including Atakan Uysal, Batıkan Abız, Batikan Tanrikulu and FAITH and 2 more. Browse upcoming dates, start times and who's playing. Huseyinaga, Kamer Hatun Cd. No:10, 34435 Beyoglu/Istanbul, Turkey.
 
@@ -17,4 +17,4 @@ Kastel is a music venue in Istanbul listed on soundcheck. 4 upcoming nights, wit
 
 Huseyinaga, Kamer Hatun Cd. No:10, 34435 Beyoglu/Istanbul, Turkey, Istanbul
 
-*Updated Thu, 23 Jul 2026 · source: [soundcheck](https://soundcheck.club/istanbul/club/kastel/)*
+*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/istanbul/club/kastel/)*

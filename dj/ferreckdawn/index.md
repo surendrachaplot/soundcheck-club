@@ -1,6 +1,6 @@
 # Ferreck Dawn
 
-Ferreck Dawn is a House and Tech House artist with 8 upcoming club dates listed on soundcheck as of Thu, 23 Jul 2026, next at La Pinilla Ski Resort, Madrid on Mon, 10 Aug 2026.
+Ferreck Dawn is a House and Tech House artist with 8 upcoming club dates listed on soundcheck as of Fri, 24 Jul 2026, next at La Pinilla Ski Resort, Madrid on Mon, 10 Aug 2026.
 
 Ferreck Dawn is a house and tech house artist tracked on soundcheck, with 88 sets logged across Amsterdam, Bali, Barcelona and Birmingham and 21 more. Often billed alongside Claptone, Sam Divine and Todd Terry. Next up: La Pinilla Ski Resort, Madrid on Mon 10 Aug.
 
@@ -32,4 +32,4 @@ Ferreck Dawn is a house and tech house artist tracked on soundcheck, with 88 set
 
 Claptone, Sam Divine, Todd Terry
 
-*Updated Thu, 23 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/ferreckdawn/)*
+*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/ferreckdawn/)*

@@ -1,8 +1,8 @@
 # S.I.M
 
-S.I.M is a Techno and Garage artist with 3 upcoming club dates listed on soundcheck as of Thu, 23 Jul 2026, next at TBA - Los Angeles, Los Angeles on Sat, 15 Aug 2026.
+S.I.M is a Techno and Garage artist with 4 upcoming club dates listed on soundcheck as of Fri, 24 Jul 2026, next at TBA - Los Angeles, Los Angeles on Sat, 15 Aug 2026.
 
-S.I.M is a techno and garage artist based in United States of America, tracked on soundcheck, with 8 sets logged across Losangeles, Sandiego and Sanfrancisco. Often billed alongside cstr, Bucky and Cheshirine. Next up: TBA - Los Angeles, Losangeles on Sat 15 Aug.
+S.I.M is a techno and garage artist based in United States of America, tracked on soundcheck, with 9 sets logged across Losangeles, Sandiego and Sanfrancisco. Often billed alongside cstr, Bucky and Cheshirine. Next up: TBA - Los Angeles, Losangeles on Sat 15 Aug.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ S.I.M is a techno and garage artist based in United States of America, tracked o
 | --- | --- | --- |
 | Sat, 15 Aug 2026 | TBA - Los Angeles | Los Angeles |
 | Fri, 21 Aug 2026 | 1015 Folsom | San Francisco/Oakland |
+| Sat, 5 Sept 2026 | Arcana | San Francisco/Oakland |
 | Fri, 11 Sept 2026 | Public Works | San Francisco/Oakland |
 
 ## Recently played
@@ -24,4 +25,4 @@ S.I.M is a techno and garage artist based in United States of America, tracked o
 
 cstr, Bucky, Cheshirine
 
-*Updated Thu, 23 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/sim.us/)*
+*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/sim.us/)*

@@ -1,6 +1,6 @@
 # Razzmatazz 3
 
-Razzmatazz 3 is a music venue in Barcelona with 3 upcoming nights listed on soundcheck as of Thu, 23 Jul 2026; the next is "Allstate Insurance Pay Bill Online vs Phone — Speed and Fee Comparison 2026" on Sat, 25 Jul 2026.
+Razzmatazz 3 is a music venue in Barcelona with 3 upcoming nights listed on soundcheck as of Fri, 24 Jul 2026; the next is "Allstate Insurance Pay Bill Online vs Phone — Speed and Fee Comparison 2026" on Sat, 25 Jul 2026.
 
 Razzmatazz 3 is a music venue in Barcelona listed on soundcheck. 3 upcoming nights, with line-ups including Alaska (2), AMEX (UK), APP and Blazej Malinowski and 2 more. Browse upcoming dates, start times and who's playing. Calle Pamplona 88 Barcelona.
 
@@ -16,4 +16,4 @@ Razzmatazz 3 is a music venue in Barcelona listed on soundcheck. 3 upcoming nigh
 
 Calle Pamplona 88 Barcelona, Barcelona
 
-*Updated Thu, 23 Jul 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/razzmatazz-3/)*
+*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/razzmatazz-3/)*

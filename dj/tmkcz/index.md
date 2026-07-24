@@ -1,6 +1,6 @@
 # tmk (CZ)
 
-tmk (CZ) is a Techno and Electro artist with 2 upcoming club dates listed on soundcheck as of Thu, 23 Jul 2026, next at Stalin, Prague on Sat, 25 Jul 2026.
+tmk (CZ) is a Techno and Electro artist with 2 upcoming club dates listed on soundcheck as of Fri, 24 Jul 2026, next at Stalin, Prague on Sat, 25 Jul 2026.
 
 tmk (CZ) is a techno and electro artist based in Czech Republic, tracked on soundcheck, with 54 sets logged across London and Prague. Often billed alongside SJ Yellow, Nina Farrina and yo haan. Next up: Stalin, Prague on Sat 25 Jul.
 
@@ -26,4 +26,4 @@ tmk (CZ) is a techno and electro artist based in Czech Republic, tracked on soun
 
 SJ Yellow, Nina Farrina, yo haan
 
-*Updated Thu, 23 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/tmkcz/)*
+*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/tmkcz/)*

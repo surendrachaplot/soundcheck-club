@@ -1,6 +1,6 @@
 # Lans Chicago
 
-Lans Chicago is a music venue in Chicago with 1 upcoming night listed on soundcheck as of Thu, 23 Jul 2026; the next is "Stuck In The Scene presents Goldcap" on Sat, 15 Aug 2026.
+Lans Chicago is a music venue in Chicago with 1 upcoming night listed on soundcheck as of Fri, 24 Jul 2026; the next is "Stuck In The Scene presents Goldcap" on Sat, 15 Aug 2026.
 
 Lans Chicago is a music venue in Chicago listed on soundcheck. 1 upcoming night, with line-ups including Goldcap. Browse upcoming dates, start times and who's playing. 1438 W Cortland St, Chicago 60642.
 
@@ -14,4 +14,4 @@ Lans Chicago is a music venue in Chicago listed on soundcheck. 1 upcoming night,
 
 1438 W Cortland St, Chicago 60642, Chicago
 
-*Updated Thu, 23 Jul 2026 · source: [soundcheck](https://soundcheck.club/chicago/club/lans-chicago/)*
+*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/chicago/club/lans-chicago/)*

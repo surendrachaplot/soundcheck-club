@@ -1,6 +1,6 @@
 # Next Door Records Two
 
-Next Door Records Two is a music venue in London with 7 upcoming nights listed on soundcheck as of Thu, 23 Jul 2026; the next is "Color One Tear Black x Soul Of Jamaica" on Sun, 26 Jul 2026.
+Next Door Records Two is a music venue in London with 7 upcoming nights listed on soundcheck as of Fri, 24 Jul 2026; the next is "Color One Tear Black x Soul Of Jamaica" on Sun, 26 Jul 2026.
 
 Next Door Records Two is a music venue in London listed on soundcheck. 7 upcoming nights, with line-ups including anti.Net, Debba, Drum & Lace and Giulia Tess and 2 more. Browse upcoming dates, start times and who's playing. 182 Stoke Newington Rd, London N16 7UY.
 
@@ -20,4 +20,4 @@ Next Door Records Two is a music venue in London listed on soundcheck. 7 upcomin
 
 182 Stoke Newington Rd, London N16 7UY, London
 
-*Updated Thu, 23 Jul 2026 · source: [soundcheck](https://soundcheck.club/london/club/next-door-records-two/)*
+*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/london/club/next-door-records-two/)*

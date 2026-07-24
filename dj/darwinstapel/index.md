@@ -1,6 +1,6 @@
 # Darwin Stapel
 
-Darwin Stapel is a Disco and House artist with 3 upcoming club dates listed on soundcheck as of Thu, 23 Jul 2026, next at Ritter Butzke, Berlin on Sat, 25 Jul 2026.
+Darwin Stapel is a Disco and House artist with 3 upcoming club dates listed on soundcheck as of Fri, 24 Jul 2026, next at Ritter Butzke, Berlin on Sat, 25 Jul 2026.
 
 Darwin Stapel is a disco and house artist based in Germany, tracked on soundcheck, with 20 sets logged across Berlin and London. Often billed alongside Eva Crystaltips, Luca Olivotto and Nephews. Next up: Ritter Butzke, Berlin on Sat 25 Jul.
 
@@ -27,4 +27,4 @@ Darwin Stapel is a disco and house artist based in Germany, tracked on soundchec
 
 Eva Crystaltips, Luca Olivotto, Nephews
 
-*Updated Thu, 23 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/darwinstapel/)*
+*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/darwinstapel/)*

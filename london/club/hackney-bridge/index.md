@@ -1,6 +1,6 @@
 # Hackney Bridge
 
-Hackney Bridge is a music venue in London with 4 upcoming nights listed on soundcheck as of Thu, 23 Jul 2026; the next is "Huns N' Roses: Summer Party (Raising Money for Refuge)" on Fri, 31 Jul 2026.
+Hackney Bridge is a music venue in London with 4 upcoming nights listed on soundcheck as of Fri, 24 Jul 2026; the next is "Huns N' Roses: Summer Party (Raising Money for Refuge)" on Fri, 31 Jul 2026.
 
 Hackney Bridge is a music venue in London listed on soundcheck. 4 upcoming nights, with line-ups including Chaos In The CBD, DAR DISKU, Habibi Funk and Huns N' Roses and 2 more. Browse upcoming dates, start times and who's playing. Units 1-28, Echo Building, E Bay Ln, London E15 2SJ.
 
@@ -17,4 +17,4 @@ Hackney Bridge is a music venue in London listed on soundcheck. 4 upcoming night
 
 Units 1-28, Echo Building, E Bay Ln, London E15 2SJ, London
 
-*Updated Thu, 23 Jul 2026 · source: [soundcheck](https://soundcheck.club/london/club/hackney-bridge/)*
+*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/london/club/hackney-bridge/)*

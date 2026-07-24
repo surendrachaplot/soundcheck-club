@@ -1,6 +1,6 @@
 # Interstellar Funk
 
-Interstellar Funk is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Thu, 23 Jul 2026, next at Amsterdamse Bos, Amsterdam on Wed, 29 Jul 2026.
+Interstellar Funk is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Fri, 24 Jul 2026, next at Amsterdamse Bos, Amsterdam on Wed, 29 Jul 2026.
 
 Interstellar Funk is a techno and house artist tracked on soundcheck, with 107 sets logged across Amsterdam, Bali, Bangkok and Barcelona and 32 more. Often billed alongside Marcel Dettmann, Loradeniz and Aurora Halal. Next up: Amsterdamse Bos, Amsterdam on Wed 29 Jul.
 
@@ -26,4 +26,4 @@ Interstellar Funk is a techno and house artist tracked on soundcheck, with 107 s
 
 Marcel Dettmann, Loradeniz, Aurora Halal
 
-*Updated Thu, 23 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/interstellarfunk/)*
+*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/interstellarfunk/)*

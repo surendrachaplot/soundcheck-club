@@ -1,8 +1,8 @@
 # Dan Shake
 
-Dan Shake is a House and Disco artist with 11 upcoming club dates listed on soundcheck as of Thu, 23 Jul 2026, next at Hï Ibiza, Ibiza on Fri, 24 Jul 2026.
+Dan Shake is a House and Disco artist with 12 upcoming club dates listed on soundcheck as of Fri, 24 Jul 2026, next at Hï Ibiza, Ibiza on Fri, 24 Jul 2026.
 
-Dan Shake is a house and disco artist tracked on soundcheck, with 184 sets logged across Amsterdam, Antwerp, Bali and Bangkok and 44 more. Often billed alongside Eliza Rose, Eats Everything and MiNNA. Next up: Hï Ibiza, Ibiza on Fri 24 Jul.
+Dan Shake is a house and disco artist tracked on soundcheck, with 185 sets logged across Amsterdam, Antwerp, Bali and Bangkok and 44 more. Often billed alongside Eliza Rose, Eats Everything and MiNNA. Next up: Hï Ibiza, Ibiza on Fri 24 Jul.
 
 ## Upcoming shows
 
@@ -19,6 +19,7 @@ Dan Shake is a house and disco artist tracked on soundcheck, with 184 sets logge
 | Thu, 1 Oct 2026 | TBA - Various Venues | Malta |
 | Thu, 1 Oct 2026 | UNO MALTA | Malta |
 | Fri, 9 Oct 2026 | Sala Villanos | Madrid |
+| Thu, 22 Oct 2026 | Madam | Amsterdam |
 
 ## Recently played
 
@@ -35,4 +36,4 @@ Dan Shake is a house and disco artist tracked on soundcheck, with 184 sets logge
 
 Eliza Rose, Eats Everything, MiNNA
 
-*Updated Thu, 23 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/danshake/)*
+*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/danshake/)*

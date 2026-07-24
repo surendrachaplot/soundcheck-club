@@ -1,8 +1,8 @@
 # Maine
 
-Maine is a electronic artist with 111 upcoming club dates listed on soundcheck as of Thu, 23 Jul 2026, next at Institut fuer Zukunft (IfZ), Leipzig on Sat, 25 Jul 2026.
+Maine is a electronic artist with 121 upcoming club dates listed on soundcheck as of Fri, 24 Jul 2026, next at Institut fuer Zukunft (IfZ), Leipzig on Sat, 25 Jul 2026.
 
-Maine is an electronic artist based in United Kingdom, tracked on soundcheck, with 112 sets logged across Amsterdam, Bali, Barcelona and Berlin and 41 more. Often billed alongside AMEX (UK), APP and Alaska (2). Next up: Institut fuer Zukunft (IfZ), Leipzig on Sat 25 Jul.
+Maine is an electronic artist based in United Kingdom, tracked on soundcheck, with 122 sets logged across Amsterdam, Bali, Barcelona and Berlin and 42 more. Often billed alongside AMEX (UK), APP and Alaska (2). Next up: Institut fuer Zukunft (IfZ), Leipzig on Sat 25 Jul.
 
 ## Upcoming shows
 
@@ -29,4 +29,4 @@ Maine is an electronic artist based in United Kingdom, tracked on soundcheck, wi
 
 AMEX (UK), APP, Alaska (2)
 
-*Updated Thu, 23 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/maine/)*
+*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/maine/)*

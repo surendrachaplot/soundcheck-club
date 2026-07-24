@@ -1,6 +1,6 @@
 # dbeater
 
-dbeater is a Electronica and Experimental artist with 3 upcoming club dates listed on soundcheck as of Thu, 23 Jul 2026, next at Club Makossa, London on Fri, 24 Jul 2026.
+dbeater is a Electronica and Experimental artist with 3 upcoming club dates listed on soundcheck as of Fri, 24 Jul 2026, next at Club Makossa, London on Fri, 24 Jul 2026.
 
 dbeater is an electronica and experimental artist based in United Kingdom, tracked on soundcheck, with 10 sets logged across London. Often billed alongside acidhousewife3000, Vlad Zinn and ttttttttt. Next up: Club Makossa, London on Fri 24 Jul.
 
@@ -26,4 +26,4 @@ dbeater is an electronica and experimental artist based in United Kingdom, track
 
 acidhousewife3000, Vlad Zinn, ttttttttt
 
-*Updated Thu, 23 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/dbeater/)*
+*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/dbeater/)*

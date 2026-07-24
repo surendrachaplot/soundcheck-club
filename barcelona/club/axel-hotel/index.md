@@ -1,6 +1,6 @@
 # Axel Hotel
 
-Axel Hotel is a music venue in Barcelona with 2 upcoming nights listed on soundcheck as of Thu, 23 Jul 2026; the next is "SOLSTICE - SUNSET RITUAL" on Sat, 25 Jul 2026.
+Axel Hotel is a music venue in Barcelona with 2 upcoming nights listed on soundcheck as of Fri, 24 Jul 2026; the next is "SOLSTICE - SUNSET RITUAL" on Sat, 25 Jul 2026.
 
 Axel Hotel is a music venue in Barcelona listed on soundcheck. 2 upcoming nights, with line-ups including Solstice. Browse upcoming dates, start times and who's playing. Aribau 33, 08011, Barcelona, Spain.
 
@@ -15,4 +15,4 @@ Axel Hotel is a music venue in Barcelona listed on soundcheck. 2 upcoming nights
 
 Aribau 33, 08011, Barcelona, Spain, Barcelona
 
-*Updated Thu, 23 Jul 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/axel-hotel/)*
+*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/axel-hotel/)*

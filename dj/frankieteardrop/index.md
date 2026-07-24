@@ -1,6 +1,6 @@
 # Frankie Teardrop
 
-Frankie Teardrop is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Thu, 23 Jul 2026, next at Bain Mathieu, Montreal on Fri, 24 Jul 2026.
+Frankie Teardrop is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Fri, 24 Jul 2026, next at Bain Mathieu, Montreal on Fri, 24 Jul 2026.
 
 Frankie Teardrop is a techno and house artist based in Canada, tracked on soundcheck, with 54 sets logged across Losangeles, Montreal, Newyorkcity and Toronto and 1 more. Often billed alongside Badgalquirit, Fisher Bryce and Kasey Riot. Next up: Bain Mathieu, Montreal on Fri 24 Jul.
 
@@ -27,4 +27,4 @@ Frankie Teardrop is a techno and house artist based in Canada, tracked on soundc
 
 Badgalquirit, Fisher Bryce, Kasey Riot
 
-*Updated Thu, 23 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/frankieteardrop/)*
+*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/frankieteardrop/)*

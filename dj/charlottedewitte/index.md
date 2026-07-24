@@ -1,6 +1,6 @@
 # Charlotte de Witte
 
-Charlotte de Witte is a Techno and House artist with 9 upcoming club dates listed on soundcheck as of Thu, 23 Jul 2026, next at Rebstockpark, Frankfurt on Sat, 25 Jul 2026.
+Charlotte de Witte is a Techno and House artist with 9 upcoming club dates listed on soundcheck as of Fri, 24 Jul 2026, next at Rebstockpark, Frankfurt on Sat, 25 Jul 2026.
 
 Charlotte de Witte is a techno and house artist tracked on soundcheck, with 135 sets logged across Amsterdam, Athens, Austin and Bali and 47 more. Often billed alongside Enrico Sangiuliano, Adiel and Joseph Capriati. Next up: Rebstockpark, Frankfurt on Sat 25 Jul.
 
@@ -33,4 +33,4 @@ Charlotte de Witte is a techno and house artist tracked on soundcheck, with 135 
 
 Enrico Sangiuliano, Adiel, Joseph Capriati
 
-*Updated Thu, 23 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/charlottedewitte/)*
+*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/charlottedewitte/)*

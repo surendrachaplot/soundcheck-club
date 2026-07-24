@@ -1,6 +1,6 @@
 # Momo Trosman
 
-Momo Trosman is a House and Tech House artist with 2 upcoming club dates listed on soundcheck as of Thu, 23 Jul 2026, next at Deseo BS AS, Buenos Aires on Fri, 7 Aug 2026.
+Momo Trosman is a House and Tech House artist with 2 upcoming club dates listed on soundcheck as of Fri, 24 Jul 2026, next at Deseo BS AS, Buenos Aires on Fri, 7 Aug 2026.
 
 Momo Trosman is a house and tech house artist tracked on soundcheck, with 94 sets logged across Amsterdam, Austin, Barcelona and Berlin and 23 more. Often billed alongside Franco Cinelli, Felipe Valenzuela and tINI. Next up: Deseo BS AS, Buenosaires on Fri 7 Aug.
 
@@ -26,4 +26,4 @@ Momo Trosman is a house and tech house artist tracked on soundcheck, with 94 set
 
 Franco Cinelli, Felipe Valenzuela, tINI
 
-*Updated Thu, 23 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/momotrosman/)*
+*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/momotrosman/)*

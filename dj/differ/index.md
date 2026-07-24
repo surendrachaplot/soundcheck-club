@@ -1,6 +1,6 @@
 # DIFFER
 
-DIFFER is a House and Tech House artist with 3 upcoming club dates listed on soundcheck as of Thu, 23 Jul 2026, next at Jolene Downtown Miami, Miami on Sat, 25 Jul 2026.
+DIFFER is a House and Tech House artist with 3 upcoming club dates listed on soundcheck as of Fri, 24 Jul 2026, next at Jolene Downtown Miami, Miami on Sat, 25 Jul 2026.
 
 DIFFER is a house and tech house artist based in Argentina, tracked on soundcheck, with 82 sets logged across Buenosaires, Miami and Newyorkcity. Often billed alongside Danyelino, Thunderpony and Bakke. Next up: Jolene Downtown Miami, Miami on Sat 25 Jul.
 
@@ -27,4 +27,4 @@ DIFFER is a house and tech house artist based in Argentina, tracked on soundchec
 
 Danyelino, Thunderpony, Bakke
 
-*Updated Thu, 23 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/differ/)*
+*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/differ/)*

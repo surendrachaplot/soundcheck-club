@@ -1,6 +1,6 @@
 # Entree
 
-Entree is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Thu, 23 Jul 2026, next at Den Anden Side, Copenhagen on Fri, 31 Jul 2026.
+Entree is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Fri, 24 Jul 2026, next at Den Anden Side, Copenhagen on Fri, 31 Jul 2026.
 
 Entree is a house and techno artist tracked on soundcheck, with 43 sets logged across Copenhagen and Stockholm. Often billed alongside Cockwhore & Macho, DJ Nah Care and Britney Speed. Next up: Den Anden Side, Copenhagen on Fri 31 Jul.
 
@@ -26,4 +26,4 @@ Entree is a house and techno artist tracked on soundcheck, with 43 sets logged a
 
 Cockwhore & Macho, DJ Nah Care, Britney Speed
 
-*Updated Thu, 23 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/entree/)*
+*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/entree/)*

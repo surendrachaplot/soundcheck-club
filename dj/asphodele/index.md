@@ -1,6 +1,6 @@
 # Asphodèle
 
-Asphodèle is a Club and Bass artist with 5 upcoming club dates listed on soundcheck as of Thu, 23 Jul 2026, next at OXI, Berlin on Sun, 26 Jul 2026.
+Asphodèle is a Club and Bass artist with 5 upcoming club dates listed on soundcheck as of Fri, 24 Jul 2026, next at OXI, Berlin on Sun, 26 Jul 2026.
 
 Asphodèle is a club and bass artist based in United States of America, tracked on soundcheck, with 56 sets logged across Amsterdam, Berlin, Dublin and Frankfurt and 8 more. Often billed alongside Daddy Kev, BAE BAE and Izella. Next up: OXI, Berlin on Sun 26 Jul.
 
@@ -29,4 +29,4 @@ Asphodèle is a club and bass artist based in United States of America, tracked 
 
 Daddy Kev, BAE BAE, Izella
 
-*Updated Thu, 23 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/asphodele/)*
+*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/asphodele/)*

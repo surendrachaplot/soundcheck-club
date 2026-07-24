@@ -1,8 +1,8 @@
 # Bibi Seck
 
-Bibi Seck is a House and Techno artist with 5 upcoming club dates listed on soundcheck as of Thu, 23 Jul 2026, next at Parc de la Trinitat, Barcelona on Sun, 26 Jul 2026.
+Bibi Seck is a House and Techno artist with 7 upcoming club dates listed on soundcheck as of Fri, 24 Jul 2026, next at Parc de la Trinitat, Barcelona on Sun, 26 Jul 2026.
 
-Bibi Seck is a house and techno artist tracked on soundcheck, with 112 sets logged across Amsterdam, Antwerp, Barcelona and Berlin and 17 more. Often billed alongside John Noseda, BAVR and Faisal. Next up: Parc de la Trinitat, Barcelona on Sun 26 Jul.
+Bibi Seck is a house and techno artist tracked on soundcheck, with 114 sets logged across Amsterdam, Antwerp, Barcelona and Berlin and 17 more. Often billed alongside John Noseda, BAVR and Faisal. Next up: Parc de la Trinitat, Barcelona on Sun 26 Jul.
 
 ## Upcoming shows
 
@@ -13,6 +13,8 @@ Bibi Seck is a house and techno artist tracked on soundcheck, with 112 sets logg
 | Sat, 12 Sept 2026 | Lofi | Amsterdam |
 | Fri, 18 Sept 2026 | BRET | Amsterdam |
 | Fri, 18 Sept 2026 | UMI | Brussels |
+| Thu, 22 Oct 2026 | KIT Royal Tropical Institute | Amsterdam |
+| Thu, 22 Oct 2026 | KIT Royal Tropical Institute | Amsterdam |
 
 ## Recently played
 
@@ -29,4 +31,4 @@ Bibi Seck is a house and techno artist tracked on soundcheck, with 112 sets logg
 
 John Noseda, BAVR, Faisal
 
-*Updated Thu, 23 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/bibiseck/)*
+*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/bibiseck/)*

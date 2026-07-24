@@ -1,6 +1,6 @@
 # Elisa Batti
 
-Elisa Batti is a Techno and Ambient artist with 2 upcoming club dates listed on soundcheck as of Thu, 23 Jul 2026, next at RADION, Amsterdam on Fri, 24 Jul 2026.
+Elisa Batti is a Techno and Ambient artist with 2 upcoming club dates listed on soundcheck as of Fri, 24 Jul 2026, next at RADION, Amsterdam on Fri, 24 Jul 2026.
 
 Elisa Batti is a techno and ambient artist based in Netherlands, tracked on soundcheck, with 44 sets logged across Amsterdam, Athens, Barcelona and Berlin and 6 more. Often billed alongside Laura van Hal, Argie and Carmen Lisa (2). Next up: RADION, Amsterdam on Fri 24 Jul.
 
@@ -26,4 +26,4 @@ Elisa Batti is a techno and ambient artist based in Netherlands, tracked on soun
 
 Laura van Hal, Argie, Carmen Lisa (2)
 
-*Updated Thu, 23 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/elisabatti/)*
+*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/elisabatti/)*

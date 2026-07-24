@@ -1,6 +1,6 @@
 # public records
 
-public records is a music venue in New York City with 33 upcoming nights listed on soundcheck as of Thu, 23 Jul 2026; the next is "Claudio PRC, Secret Raver / Tauceti, Judy / Aaron Paar" on Fri, 24 Jul 2026.
+public records is a music venue in New York City with 33 upcoming nights listed on soundcheck as of Fri, 24 Jul 2026; the next is "Claudio PRC, Secret Raver / Tauceti, Judy / Aaron Paar" on Fri, 24 Jul 2026.
 
 public records is a music venue in Newyorkcity listed on soundcheck. 33 upcoming nights, with line-ups including 30000AD, 320 (1), Aaron Paar and A lana and 2 more. Browse upcoming dates, start times and who's playing. 233 Butler St, Brooklyn, NY 11217, USA.
 
@@ -23,4 +23,4 @@ public records is a music venue in Newyorkcity listed on soundcheck. 33 upcoming
 
 233 Butler St, Brooklyn, NY 11217, USA, New York City
 
-*Updated Thu, 23 Jul 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/public-records/)*
+*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/public-records/)*

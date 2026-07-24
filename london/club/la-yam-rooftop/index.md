@@ -1,6 +1,6 @@
 # LA-YAM Rooftop
 
-LA-YAM Rooftop is a music venue in London with 5 upcoming nights listed on soundcheck as of Thu, 23 Jul 2026; the next is "Blanche on the Roof with Simone de Kunovich" on Sat, 25 Jul 2026.
+LA-YAM Rooftop is a music venue in London with 5 upcoming nights listed on soundcheck as of Fri, 24 Jul 2026; the next is "Blanche on the Roof with Simone de Kunovich" on Sat, 25 Jul 2026.
 
 LA-YAM Rooftop is a music venue in London listed on soundcheck. 5 upcoming nights, with line-ups including AMÉMÉ, Coco & Breezy, Liv Ravden and Nirvan and 2 more. Browse upcoming dates, start times and who's playing. Kingsbourne House, 229-231 High Holborn.
 
@@ -18,4 +18,4 @@ LA-YAM Rooftop is a music venue in London listed on soundcheck. 5 upcoming night
 
 Kingsbourne House, 229-231 High Holborn, London
 
-*Updated Thu, 23 Jul 2026 · source: [soundcheck](https://soundcheck.club/london/club/la-yam-rooftop/)*
+*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/london/club/la-yam-rooftop/)*

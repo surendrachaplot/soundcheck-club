@@ -1,6 +1,6 @@
 # DJ Nigga Fox
 
-DJ Nigga Fox is a Bass and Kuduro artist with 2 upcoming club dates listed on soundcheck as of Thu, 23 Jul 2026, next at Nowadays, New York City on Fri, 7 Aug 2026.
+DJ Nigga Fox is a Bass and Kuduro artist with 2 upcoming club dates listed on soundcheck as of Fri, 24 Jul 2026, next at Nowadays, New York City on Fri, 7 Aug 2026.
 
 DJ Nigga Fox is a bass and kuduro artist based in Portugal, tracked on soundcheck, with 68 sets logged across Amsterdam, Barcelona, Berlin and Brussels and 22 more. Often billed alongside Dj Danifox, DJ Firmeza and DJ Lycox. Next up: Nowadays, Newyorkcity on Fri 7 Aug.
 
@@ -26,4 +26,4 @@ DJ Nigga Fox is a bass and kuduro artist based in Portugal, tracked on soundchec
 
 Dj Danifox, DJ Firmeza, DJ Lycox
 
-*Updated Thu, 23 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/djniggafox/)*
+*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/djniggafox/)*

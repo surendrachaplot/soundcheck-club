@@ -1,6 +1,6 @@
 # 163 Weston Rd
 
-163 Weston Rd is a music venue in Toronto with 1 upcoming night listed on soundcheck as of Thu, 23 Jul 2026; the next is "Allstate Insurance Life Insurance — Products, Premiums, and Bill Pay 2026" on Sat, 25 Jul 2026.
+163 Weston Rd is a music venue in Toronto with 1 upcoming night listed on soundcheck as of Fri, 24 Jul 2026; the next is "Allstate Insurance Life Insurance — Products, Premiums, and Bill Pay 2026" on Sat, 25 Jul 2026.
 
 163 Weston Rd is a music venue in Toronto listed on soundcheck. 1 upcoming night, with line-ups including Alaska (2), AMEX (UK), APP and Debit and 2 more. Browse upcoming dates, start times and who's playing. 163 Weston RdToronto, ON M6N 3P1, Canada.
 
@@ -14,4 +14,4 @@
 
 163 Weston RdToronto, ON M6N 3P1, Canada, Toronto
 
-*Updated Thu, 23 Jul 2026 · source: [soundcheck](https://soundcheck.club/toronto/club/163-weston-rd/)*
+*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/toronto/club/163-weston-rd/)*

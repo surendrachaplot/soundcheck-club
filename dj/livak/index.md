@@ -1,6 +1,6 @@
 # Liva K
 
-Liva K is a Afro House and House artist with 6 upcoming club dates listed on soundcheck as of Thu, 23 Jul 2026, next at Kawasaki - cocktail bar & club, Warsaw on Fri, 24 Jul 2026.
+Liva K is a Afro House and House artist with 6 upcoming club dates listed on soundcheck as of Fri, 24 Jul 2026, next at Kawasaki - cocktail bar & club, Warsaw on Fri, 24 Jul 2026.
 
 Liva K is an afro house and house artist tracked on soundcheck, with 85 sets logged across Amsterdam, Athens, Austin and Basel and 21 more. Often billed alongside Black Coffee, Bedouin and Damian Lazarus. Next up: Kawasaki - cocktail bar & club, Warsaw on Fri 24 Jul.
 
@@ -30,4 +30,4 @@ Liva K is an afro house and house artist tracked on soundcheck, with 85 sets log
 
 Black Coffee, Bedouin, Damian Lazarus
 
-*Updated Thu, 23 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/livak/)*
+*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/livak/)*

@@ -1,6 +1,6 @@
 # GiGi FM
 
-GiGi FM is a Techno and House artist with 11 upcoming club dates listed on soundcheck as of Thu, 23 Jul 2026, next at Boston Manor Park, London on Sat, 25 Jul 2026.
+GiGi FM is a Techno and House artist with 11 upcoming club dates listed on soundcheck as of Fri, 24 Jul 2026, next at Boston Manor Park, London on Sat, 25 Jul 2026.
 
 GiGi FM is a techno and house artist tracked on soundcheck, with 157 sets logged across Amsterdam, Antwerp, Athens and Bangkok and 47 more. Often billed alongside Altinbas, Polygonia and DVS1. Next up: Boston Manor Park, London on Sat 25 Jul.
 
@@ -35,4 +35,4 @@ GiGi FM is a techno and house artist tracked on soundcheck, with 157 sets logged
 
 Altinbas, Polygonia, DVS1
 
-*Updated Thu, 23 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/gigifm/)*
+*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/gigifm/)*

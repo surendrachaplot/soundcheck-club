@@ -1,14 +1,13 @@
 # The Sultan Room
 
-The Sultan Room is a music venue in New York City with 10 upcoming nights listed on soundcheck as of Thu, 23 Jul 2026; the next is "GARAGE! (VOL3)" on Thu, 23 Jul 2026.
+The Sultan Room is a music venue in New York City with 9 upcoming nights listed on soundcheck as of Fri, 24 Jul 2026; the next is "ZABAAN" on Fri, 24 Jul 2026.
 
-The Sultan Room is a music venue in Newyorkcity listed on soundcheck. 10 upcoming nights, with line-ups including Aleska, Destro187, elle xxo and Feonix (2) and 2 more. Browse upcoming dates, start times and who's playing. 234 Starr St. Brooklyn, NY 11237.
+The Sultan Room is a music venue in Newyorkcity listed on soundcheck. 9 upcoming nights, with line-ups including Aleska, Destro187, elle xxo and Hope 808 and 2 more. Browse upcoming dates, start times and who's playing. 234 Starr St. Brooklyn, NY 11237.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Thu, 23 Jul 2026 | GARAGE! (VOL3) | Feonix (2), Franzini |
 | Fri, 24 Jul 2026 | ZABAAN |  |
 | Fri, 31 Jul 2026 | Afrobeat Nights NYC |  |
 | Sat, 1 Aug 2026 | Minimal Detroit presents: Liquid Todd, K2, Destro187, madeera | Destro187, Liquid Todd, madeera |
@@ -23,4 +22,4 @@ The Sultan Room is a music venue in Newyorkcity listed on soundcheck. 10 upcomin
 
 234 Starr St. Brooklyn, NY 11237, New York City
 
-*Updated Thu, 23 Jul 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/the-sultan-room/)*
+*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/the-sultan-room/)*

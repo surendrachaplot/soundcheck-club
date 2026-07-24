@@ -1,6 +1,6 @@
 # Coffintexts
 
-Coffintexts is a Techno and House artist with 4 upcoming club dates listed on soundcheck as of Thu, 23 Jul 2026, next at F8 1192 Folsom, San Francisco/Oakland on Fri, 7 Aug 2026.
+Coffintexts is a Techno and House artist with 4 upcoming club dates listed on soundcheck as of Fri, 24 Jul 2026, next at F8 1192 Folsom, San Francisco/Oakland on Fri, 7 Aug 2026.
 
 Coffintexts is a techno and house artist tracked on soundcheck, with 125 sets logged across Amsterdam, Austin, Barcelona and Berlin and 30 more. Often billed alongside Sister System, SATURNSARii and Jonny From Space. Next up: F8 1192 Folsom, Sanfrancisco on Fri 7 Aug.
 
@@ -28,4 +28,4 @@ Coffintexts is a techno and house artist tracked on soundcheck, with 125 sets lo
 
 Sister System, SATURNSARii, Jonny From Space
 
-*Updated Thu, 23 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/coffintexts/)*
+*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/coffintexts/)*

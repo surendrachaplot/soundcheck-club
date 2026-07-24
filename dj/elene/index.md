@@ -1,6 +1,6 @@
 # Elene
 
-Elene is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Thu, 23 Jul 2026, next at KitKatClub, Berlin on Mon, 10 Aug 2026.
+Elene is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Fri, 24 Jul 2026, next at KitKatClub, Berlin on Mon, 10 Aug 2026.
 
 Elene is a house and techno artist tracked on soundcheck, with 39 sets logged across Berlin, Tallinn and Tbilisi. Often billed alongside Obri, Bekuchi and Gio Shengelia. Next up: KitKatClub, Berlin on Mon 10 Aug.
 
@@ -26,4 +26,4 @@ Elene is a house and techno artist tracked on soundcheck, with 39 sets logged ac
 
 Obri, Bekuchi, Gio Shengelia
 
-*Updated Thu, 23 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/elene/)*
+*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/elene/)*

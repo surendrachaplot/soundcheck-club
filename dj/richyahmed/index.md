@@ -1,6 +1,6 @@
 # Richy Ahmed
 
-Richy Ahmed is a Tech House and House artist with 3 upcoming club dates listed on soundcheck as of Thu, 23 Jul 2026, next at 77, London on Fri, 24 Jul 2026.
+Richy Ahmed is a Tech House and House artist with 3 upcoming club dates listed on soundcheck as of Fri, 24 Jul 2026, next at 77, London on Fri, 24 Jul 2026.
 
 Richy Ahmed is a tech house and house artist tracked on soundcheck, with 138 sets logged across Amsterdam, Bali, Barcelona and Berlin and 33 more. Often billed alongside Jamie Jones, ALISHA and wAFF. Next up: 77, London on Fri 24 Jul.
 
@@ -27,4 +27,4 @@ Richy Ahmed is a tech house and house artist tracked on soundcheck, with 138 set
 
 Jamie Jones, ALISHA, wAFF
 
-*Updated Thu, 23 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/richyahmed/)*
+*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/richyahmed/)*

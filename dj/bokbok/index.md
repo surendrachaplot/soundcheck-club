@@ -1,6 +1,6 @@
 # Bok Bok
 
-Bok Bok is a Bass and Club artist with 2 upcoming club dates listed on soundcheck as of Thu, 23 Jul 2026, next at The Villa, Oslo on Fri, 7 Aug 2026.
+Bok Bok is a Bass and Club artist with 2 upcoming club dates listed on soundcheck as of Fri, 24 Jul 2026, next at The Villa, Oslo on Fri, 7 Aug 2026.
 
 Bok Bok is a bass and club artist tracked on soundcheck, with 74 sets logged across Amsterdam, Berlin, Bristol and Brussels and 20 more. Often billed alongside Ikonika, Girl Unit and Nico Adomako. Next up: The Villa, Oslo on Fri 7 Aug.
 
@@ -26,4 +26,4 @@ Bok Bok is a bass and club artist tracked on soundcheck, with 74 sets logged acr
 
 Ikonika, Girl Unit, Nico Adomako
 
-*Updated Thu, 23 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/bokbok/)*
+*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/bokbok/)*

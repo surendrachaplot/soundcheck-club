@@ -1,6 +1,6 @@
 # Manwell
 
-Manwell is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Thu, 23 Jul 2026, next at The Villa, Oslo on Sat, 25 Jul 2026.
+Manwell is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Fri, 24 Jul 2026, next at The Villa, Oslo on Sat, 25 Jul 2026.
 
 Manwell is a house and techno artist based in United States of America, tracked on soundcheck, with 48 sets logged across Oslo, Portland and Seattle. Often billed alongside Arel, Ctrl.mp3 and Tony H. Next up: The Villa, Oslo on Sat 25 Jul.
 
@@ -26,4 +26,4 @@ Manwell is a house and techno artist based in United States of America, tracked 
 
 Arel, Ctrl.mp3, Tony H
 
-*Updated Thu, 23 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/manwell/)*
+*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/manwell/)*

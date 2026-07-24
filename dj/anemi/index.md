@@ -1,6 +1,6 @@
 # Anémi
 
-Anémi is a Techno and Trance artist with 3 upcoming club dates listed on soundcheck as of Thu, 23 Jul 2026, next at Revier Oslo, Oslo on Sat, 8 Aug 2026.
+Anémi is a Techno and Trance artist with 3 upcoming club dates listed on soundcheck as of Fri, 24 Jul 2026, next at Revier Oslo, Oslo on Sat, 8 Aug 2026.
 
 Anémi is a techno and trance artist based in Norway, tracked on soundcheck, with 23 sets logged across Amsterdam, Barcelona, Copenhagen and Oslo. Often billed alongside Skodde, Guild Navigator and Komet99. Next up: Revier Oslo, Oslo on Sat 8 Aug.
 
@@ -27,4 +27,4 @@ Anémi is a techno and trance artist based in Norway, tracked on soundcheck, wit
 
 Skodde, Guild Navigator, Komet99
 
-*Updated Thu, 23 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/anemi/)*
+*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/anemi/)*

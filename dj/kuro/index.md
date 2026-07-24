@@ -1,6 +1,6 @@
 # Kuro
 
-Kuro is a Techno and Electro artist with 2 upcoming club dates listed on soundcheck as of Thu, 23 Jul 2026, next at Shelter, Seoul on Fri, 24 Jul 2026.
+Kuro is a Techno and Electro artist with 2 upcoming club dates listed on soundcheck as of Fri, 24 Jul 2026, next at Shelter, Seoul on Fri, 24 Jul 2026.
 
 Kuro is a techno and electro artist based in South Korea, tracked on soundcheck, with 86 sets logged across Hongkong, Seoul and Tokyo. Often billed alongside Soraere Brocken, Honn and Minehero. Next up: Shelter, Seoul on Fri 24 Jul.
 
@@ -26,4 +26,4 @@ Kuro is a techno and electro artist based in South Korea, tracked on soundcheck,
 
 Soraere Brocken, Honn, Minehero
 
-*Updated Thu, 23 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/kuro/)*
+*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/kuro/)*

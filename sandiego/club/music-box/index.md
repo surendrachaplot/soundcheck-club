@@ -1,6 +1,6 @@
 # Music Box
 
-Music Box is a music venue in San Diego with 4 upcoming nights listed on soundcheck as of Thu, 23 Jul 2026; the next is "FNGRS CRSSD presents Massane [Waterfront After Party]" on Sun, 9 Aug 2026.
+Music Box is a music venue in San Diego with 4 upcoming nights listed on soundcheck as of Fri, 24 Jul 2026; the next is "FNGRS CRSSD presents Massane [Waterfront After Party]" on Sun, 9 Aug 2026.
 
 Music Box is a music venue in Sandiego listed on soundcheck. 4 upcoming nights, with line-ups including Massane, Nitzer Ebb and Satin Jackets. Browse upcoming dates, start times and who's playing. 1337 India St, San Diego, CA 92101.
 
@@ -17,4 +17,4 @@ Music Box is a music venue in Sandiego listed on soundcheck. 4 upcoming nights, 
 
 1337 India St, San Diego, CA 92101, San Diego
 
-*Updated Thu, 23 Jul 2026 · source: [soundcheck](https://soundcheck.club/sandiego/club/music-box/)*
+*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/sandiego/club/music-box/)*

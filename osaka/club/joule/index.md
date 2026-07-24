@@ -1,6 +1,6 @@
 # Joule
 
-Joule is a music venue in Osaka with 6 upcoming nights listed on soundcheck as of Thu, 23 Jul 2026; the next is "SPECTACULAR feat Ezequiel Arias" on Fri, 24 Jul 2026.
+Joule is a music venue in Osaka with 6 upcoming nights listed on soundcheck as of Fri, 24 Jul 2026; the next is "SPECTACULAR feat Ezequiel Arias" on Fri, 24 Jul 2026.
 
 Joule is a music venue in Osaka listed on soundcheck. 6 upcoming nights, with line-ups including ALESSA(JP), Drunken Kong, Ezequiel Arias and Junichi and 2 more. Browse upcoming dates, start times and who's playing. 2-11-7 Nishi-Shinsaibashi, Chuo-Ku, Osaka-shi, 542-0086 Japan.
 
@@ -19,4 +19,4 @@ Joule is a music venue in Osaka listed on soundcheck. 6 upcoming nights, with li
 
 2-11-7 Nishi-Shinsaibashi, Chuo-Ku, Osaka-shi, 542-0086 Japan, Osaka
 
-*Updated Thu, 23 Jul 2026 · source: [soundcheck](https://soundcheck.club/osaka/club/joule/)*
+*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/osaka/club/joule/)*

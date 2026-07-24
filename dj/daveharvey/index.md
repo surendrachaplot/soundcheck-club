@@ -1,6 +1,6 @@
 # Dave Harvey
 
-Dave Harvey is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Thu, 23 Jul 2026, next at ISOamsterdam, Amsterdam on Sat, 1 Aug 2026.
+Dave Harvey is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Fri, 24 Jul 2026, next at ISOamsterdam, Amsterdam on Sat, 1 Aug 2026.
 
 Dave Harvey is a house and techno artist tracked on soundcheck, with 69 sets logged across Amsterdam, Belgrade, Bristol and Bucharest and 10 more. Often billed alongside Ellie Stokes, Chez de Milo and Felix Dickinson. Next up: ISOamsterdam, Amsterdam on Sat 1 Aug.
 
@@ -26,4 +26,4 @@ Dave Harvey is a house and techno artist tracked on soundcheck, with 69 sets log
 
 Ellie Stokes, Chez de Milo, Felix Dickinson
 
-*Updated Thu, 23 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/daveharvey/)*
+*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/daveharvey/)*

@@ -1,6 +1,6 @@
 # Ligrye
 
-Ligrye is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Thu, 23 Jul 2026, next at Grain Haus, Seoul on Sat, 25 Jul 2026.
+Ligrye is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Fri, 24 Jul 2026, next at Grain Haus, Seoul on Sat, 25 Jul 2026.
 
 Ligrye is a house and techno artist based in South Africa, tracked on soundcheck, with 130 sets logged across Bangkok, Hongkong, Seoul and Shenzhen and 1 more. Often billed alongside NET GALA, DJ Co.kr and KING SHE. Next up: Grain Haus, Seoul on Sat 25 Jul.
 
@@ -26,4 +26,4 @@ Ligrye is a house and techno artist based in South Africa, tracked on soundcheck
 
 NET GALA, DJ Co.kr, KING SHE
 
-*Updated Thu, 23 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/ligrye/)*
+*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/ligrye/)*

@@ -1,6 +1,6 @@
 # slugg
 
-slugg is a Tech House and House artist with 4 upcoming club dates listed on soundcheck as of Thu, 23 Jul 2026, next at Stratus Lounge, Philadelphia on Sun, 26 Jul 2026.
+slugg is a Tech House and House artist with 4 upcoming club dates listed on soundcheck as of Fri, 24 Jul 2026, next at Stratus Lounge, Philadelphia on Sun, 26 Jul 2026.
 
 slugg is a tech house and house artist tracked on soundcheck, with 81 sets logged across Austin, Boston, Chicago and Denver and 11 more. Often billed alongside Lousy Lover, Ms. Mada and ChaseWest. Next up: Stratus Lounge, Philadelphia on Sun 26 Jul.
 
@@ -28,4 +28,4 @@ slugg is a tech house and house artist tracked on soundcheck, with 81 sets logge
 
 Lousy Lover, Ms. Mada, ChaseWest
 
-*Updated Thu, 23 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/slugg/)*
+*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/slugg/)*

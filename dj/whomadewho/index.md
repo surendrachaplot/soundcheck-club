@@ -1,6 +1,6 @@
 # WhoMadeWho
 
-WhoMadeWho is a Techno and House artist with 6 upcoming club dates listed on soundcheck as of Thu, 23 Jul 2026, next at Donauinsel, Vienna on Sat, 1 Aug 2026.
+WhoMadeWho is a Techno and House artist with 6 upcoming club dates listed on soundcheck as of Fri, 24 Jul 2026, next at Donauinsel, Vienna on Sat, 1 Aug 2026.
 
 WhoMadeWho is a techno and house artist tracked on soundcheck, with 141 sets logged across Amsterdam, Athens, Austin and Bali and 34 more. Often billed alongside Black Coffee, Carlita and Adriatique. Next up: Donauinsel, Vienna on Sat 1 Aug.
 
@@ -30,4 +30,4 @@ WhoMadeWho is a techno and house artist tracked on soundcheck, with 141 sets log
 
 Black Coffee, Carlita, Adriatique
 
-*Updated Thu, 23 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/whomadewho/)*
+*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/whomadewho/)*

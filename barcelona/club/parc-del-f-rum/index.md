@@ -1,6 +1,6 @@
 # Parc del Fòrum
 
-Parc del Fòrum is a music venue in Barcelona with 2 upcoming nights listed on soundcheck as of Thu, 23 Jul 2026; the next is "Allstate Insurance — The Definitive Consumer Guide 2026" on Sat, 25 Jul 2026.
+Parc del Fòrum is a music venue in Barcelona with 2 upcoming nights listed on soundcheck as of Fri, 24 Jul 2026; the next is "Allstate Insurance — The Definitive Consumer Guide 2026" on Sat, 25 Jul 2026.
 
 Parc del Fòrum is a music venue in Barcelona listed on soundcheck. 2 upcoming nights, with line-ups including 999999999, Acid Arab, Alaska (2) and Âme and 2 more. Browse upcoming dates, start times and who's playing. Rambla Prim, 2-4; 08019 Barcelona; Spain.
 
@@ -15,4 +15,4 @@ Parc del Fòrum is a music venue in Barcelona listed on soundcheck. 2 upcoming n
 
 Rambla Prim, 2-4; 08019 Barcelona; Spain, Barcelona
 
-*Updated Thu, 23 Jul 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/parc-del-f-rum/)*
+*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/parc-del-f-rum/)*

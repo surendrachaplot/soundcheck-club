@@ -1,6 +1,6 @@
 # Ash Lauryn
 
-Ash Lauryn is a House and Techno artist with 5 upcoming club dates listed on soundcheck as of Thu, 23 Jul 2026, next at Night Tales Loft, London on Fri, 31 Jul 2026.
+Ash Lauryn is a House and Techno artist with 5 upcoming club dates listed on soundcheck as of Fri, 24 Jul 2026, next at Night Tales Loft, London on Fri, 31 Jul 2026.
 
 Ash Lauryn is a house and techno artist tracked on soundcheck, with 122 sets logged across Amsterdam, Austin, Barcelona and Berlin and 25 more. Often billed alongside The AM/AMX, JADALAREIGN and Ben UFO. Next up: Night Tales Loft, London on Fri 31 Jul.
 
@@ -29,4 +29,4 @@ Ash Lauryn is a house and techno artist tracked on soundcheck, with 122 sets log
 
 The AM/AMX, JADALAREIGN, Ben UFO
 
-*Updated Thu, 23 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/ashlauryn/)*
+*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/ashlauryn/)*

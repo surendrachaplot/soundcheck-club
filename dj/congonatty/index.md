@@ -1,6 +1,6 @@
 # Congo Natty
 
-Congo Natty is a Jungle and Drum & Bass artist with 5 upcoming club dates listed on soundcheck as of Thu, 23 Jul 2026, next at Joshua Brooks, Manchester on Fri, 24 Jul 2026.
+Congo Natty is a Jungle and Drum & Bass artist with 5 upcoming club dates listed on soundcheck as of Fri, 24 Jul 2026, next at Joshua Brooks, Manchester on Fri, 24 Jul 2026.
 
 Congo Natty is a jungle and drum & bass artist tracked on soundcheck, with 38 sets logged across Birmingham, Brighton, Bristol and Leeds and 7 more. Often billed alongside DJ Snuff, Killa P and Sexy Lady Massive. Next up: Joshua Brooks, Manchester on Fri 24 Jul.
 
@@ -29,4 +29,4 @@ Congo Natty is a jungle and drum & bass artist tracked on soundcheck, with 38 se
 
 DJ Snuff, Killa P, Sexy Lady Massive
 
-*Updated Thu, 23 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/congonatty/)*
+*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/congonatty/)*

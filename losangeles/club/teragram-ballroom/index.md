@@ -1,6 +1,6 @@
 # Teragram Ballroom
 
-Teragram Ballroom is a music venue in Los Angeles with 2 upcoming nights listed on soundcheck as of Thu, 23 Jul 2026; the next is "Deadhead Disco: Jerry's Birthday Celebration [Los Angeles]" on Sat, 1 Aug 2026.
+Teragram Ballroom is a music venue in Los Angeles with 2 upcoming nights listed on soundcheck as of Fri, 24 Jul 2026; the next is "Deadhead Disco: Jerry's Birthday Celebration [Los Angeles]" on Sat, 1 Aug 2026.
 
 Teragram Ballroom is a music venue in Losangeles listed on soundcheck. 2 upcoming nights. Browse upcoming dates, start times and who's playing. 1234 W 7th St, Los Angeles, CA 90017, United States.
 
@@ -15,4 +15,4 @@ Teragram Ballroom is a music venue in Losangeles listed on soundcheck. 2 upcomin
 
 1234 W 7th St, Los Angeles, CA 90017, United States, Los Angeles
 
-*Updated Thu, 23 Jul 2026 · source: [soundcheck](https://soundcheck.club/losangeles/club/teragram-ballroom/)*
+*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/losangeles/club/teragram-ballroom/)*

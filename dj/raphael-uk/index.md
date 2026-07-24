@@ -1,6 +1,6 @@
 # Raphael Carrau
 
-Raphael Carrau is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Thu, 23 Jul 2026, next at Night Tales, London on Fri, 31 Jul 2026.
+Raphael Carrau is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Fri, 24 Jul 2026, next at Night Tales, London on Fri, 31 Jul 2026.
 
 Raphael Carrau is a house and techno artist tracked on soundcheck, with 131 sets logged across Amsterdam, Austin, Bali and Bangkok and 37 more. Often billed alongside Unai Trotti, Colin Chiddle and Vass. Next up: Night Tales, London on Fri 31 Jul.
 
@@ -27,4 +27,4 @@ Raphael Carrau is a house and techno artist tracked on soundcheck, with 131 sets
 
 Unai Trotti, Colin Chiddle, Vass
 
-*Updated Thu, 23 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/raphael-uk/)*
+*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/raphael-uk/)*

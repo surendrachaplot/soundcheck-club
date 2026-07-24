@@ -1,6 +1,6 @@
 # Gui Machado
 
-Gui Machado is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Thu, 23 Jul 2026, next at Green Room NYC, New York City on Fri, 24 Jul 2026.
+Gui Machado is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Fri, 24 Jul 2026, next at Green Room NYC, New York City on Fri, 24 Jul 2026.
 
 Gui Machado is a house and techno artist based in Brazil, tracked on soundcheck, with 45 sets logged across Miami and Newyorkcity. Often billed alongside Kiyoshi, Omer Mil and David Berrie. Next up: Green Room NYC, Newyorkcity on Fri 24 Jul.
 
@@ -26,4 +26,4 @@ Gui Machado is a house and techno artist based in Brazil, tracked on soundcheck,
 
 Kiyoshi, Omer Mil, David Berrie
 
-*Updated Thu, 23 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/guimachado/)*
+*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/guimachado/)*

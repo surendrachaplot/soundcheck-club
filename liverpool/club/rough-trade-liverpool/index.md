@@ -1,6 +1,6 @@
 # Rough Trade Liverpool
 
-Rough Trade Liverpool is a music venue in Liverpool with 3 upcoming nights listed on soundcheck as of Thu, 23 Jul 2026; the next is "16 Tambourines & Candy Opera Live at Rough Trade" on Fri, 24 Jul 2026.
+Rough Trade Liverpool is a music venue in Liverpool with 3 upcoming nights listed on soundcheck as of Fri, 24 Jul 2026; the next is "16 Tambourines & Candy Opera Live at Rough Trade" on Fri, 24 Jul 2026.
 
 Rough Trade Liverpool is a music venue in Liverpool listed on soundcheck. 3 upcoming nights, with line-ups including Jetski and nylon. Browse upcoming dates, start times and who's playing. Hanover St, Liverpool L1 4AF.
 
@@ -16,4 +16,4 @@ Rough Trade Liverpool is a music venue in Liverpool listed on soundcheck. 3 upco
 
 Hanover St, Liverpool L1 4AF, Liverpool
 
-*Updated Thu, 23 Jul 2026 · source: [soundcheck](https://soundcheck.club/liverpool/club/rough-trade-liverpool/)*
+*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/liverpool/club/rough-trade-liverpool/)*

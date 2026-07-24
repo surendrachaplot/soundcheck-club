@@ -1,6 +1,6 @@
 # The Rum Shack
 
-The Rum Shack is a music venue in Glasgow with 5 upcoming nights listed on soundcheck as of Thu, 23 Jul 2026; the next is "Ten Years Lost x Jurnalist – Single release party" on Fri, 31 Jul 2026.
+The Rum Shack is a music venue in Glasgow with 5 upcoming nights listed on soundcheck as of Fri, 24 Jul 2026; the next is "Ten Years Lost x Jurnalist – Single release party" on Fri, 31 Jul 2026.
 
 The Rum Shack is a music venue in Glasgow listed on soundcheck. 5 upcoming nights, with line-ups including Big Miz, DAR DISKU, Jurnalist and m1 (1) and 2 more. Browse upcoming dates, start times and who's playing. 657-659 Pollokshaws Road, Glasgow, G41 2AB, Scotland, United Kingdom.
 
@@ -18,4 +18,4 @@ The Rum Shack is a music venue in Glasgow listed on soundcheck. 5 upcoming night
 
 657-659 Pollokshaws Road, Glasgow, G41 2AB, Scotland, United Kingdom, Glasgow
 
-*Updated Thu, 23 Jul 2026 · source: [soundcheck](https://soundcheck.club/glasgow/club/the-rum-shack/)*
+*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/glasgow/club/the-rum-shack/)*

@@ -1,6 +1,6 @@
 # Fabe
 
-Fabe is a House and Tech House artist with 2 upcoming club dates listed on soundcheck as of Thu, 23 Jul 2026, next at Vittoria Wharf Studio, London on Sat, 25 Jul 2026.
+Fabe is a House and Tech House artist with 2 upcoming club dates listed on soundcheck as of Fri, 24 Jul 2026, next at Vittoria Wharf Studio, London on Sat, 25 Jul 2026.
 
 Fabe is a house and tech house artist tracked on soundcheck, with 100 sets logged across Amsterdam, Bali, Barcelona and Berlin and 24 more. Often billed alongside Lauren Lo Sung, Rich NXT and Sidney Charles. Next up: Vittoria Wharf Studio, London on Sat 25 Jul.
 
@@ -26,4 +26,4 @@ Fabe is a house and tech house artist tracked on soundcheck, with 100 sets logge
 
 Lauren Lo Sung, Rich NXT, Sidney Charles
 
-*Updated Thu, 23 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/fabe/)*
+*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/fabe/)*

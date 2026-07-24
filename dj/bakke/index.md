@@ -1,6 +1,6 @@
 # Bakke
 
-Bakke is a House and Tech House artist with 2 upcoming club dates listed on soundcheck as of Thu, 23 Jul 2026, next at Floyd, Miami on Fri, 24 Jul 2026.
+Bakke is a House and Tech House artist with 2 upcoming club dates listed on soundcheck as of Fri, 24 Jul 2026, next at Floyd, Miami on Fri, 24 Jul 2026.
 
 Bakke is a house and tech house artist tracked on soundcheck, with 149 sets logged across Losangeles, Mexicocity, Miami and Newyorkcity and 1 more. Often billed alongside Danyelino, Thunderpony and Ms. Mada. Next up: Floyd, Miami on Fri 24 Jul.
 
@@ -26,4 +26,4 @@ Bakke is a house and tech house artist tracked on soundcheck, with 149 sets logg
 
 Danyelino, Thunderpony, Ms. Mada
 
-*Updated Thu, 23 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/bakke/)*
+*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/bakke/)*

@@ -1,6 +1,6 @@
 # Volvox
 
-Volvox is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Thu, 23 Jul 2026, next at Berghain | Panorama Bar | Säule, Berlin on Fri, 14 Aug 2026.
+Volvox is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Fri, 24 Jul 2026, next at Berghain | Panorama Bar | Säule, Berlin on Fri, 14 Aug 2026.
 
 Volvox is a techno and house artist tracked on soundcheck, with 146 sets logged across Amsterdam, Athens, Austin and Bali and 41 more. Often billed alongside Boris, Ellen Allien and Elli Acula. Next up: Berghain | Panorama Bar | Säule, Berlin on Fri 14 Aug.
 
@@ -27,4 +27,4 @@ Volvox is a techno and house artist tracked on soundcheck, with 146 sets logged 
 
 Boris, Ellen Allien, Elli Acula
 
-*Updated Thu, 23 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/volvox/)*
+*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/volvox/)*

@@ -1,6 +1,6 @@
 # Rabent
 
-Rabent is a Techno and Electronica artist with 2 upcoming club dates listed on soundcheck as of Thu, 23 Jul 2026, next at M7 Club, Barcelona on Fri, 7 Aug 2026.
+Rabent is a Techno and Electronica artist with 2 upcoming club dates listed on soundcheck as of Fri, 24 Jul 2026, next at M7 Club, Barcelona on Fri, 7 Aug 2026.
 
 Rabent is a techno and electronica artist based in Spain, tracked on soundcheck, with 48 sets logged across Barcelona. Often billed alongside KARELBLADE, NAUAL and Eybel. Next up: M7 Club, Barcelona on Fri 7 Aug.
 
@@ -26,4 +26,4 @@ Rabent is a techno and electronica artist based in Spain, tracked on soundcheck,
 
 KARELBLADE, NAUAL, Eybel
 
-*Updated Thu, 23 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/rabent/)*
+*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/rabent/)*

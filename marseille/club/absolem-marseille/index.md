@@ -1,6 +1,6 @@
 # Absolem Marseille
 
-Absolem Marseille is a music venue in Marseille with 2 upcoming nights listed on soundcheck as of Thu, 23 Jul 2026; the next is "[AFTER] THAT TRIP w. JONAS (Berlin), LEUPÉ, Remain" on Sun, 9 Aug 2026.
+Absolem Marseille is a music venue in Marseille with 2 upcoming nights listed on soundcheck as of Fri, 24 Jul 2026; the next is "[AFTER] THAT TRIP w. JONAS (Berlin), LEUPÉ, Remain" on Sun, 9 Aug 2026.
 
 Absolem Marseille is a music venue in Marseille listed on soundcheck. 2 upcoming nights, with line-ups including Chtak., FRANKIEE, Jonas Blanquiere and Remain. Browse upcoming dates, start times and who's playing. 40 Boulevard Jacques Saadé, 13002 Marseille, France.
 
@@ -15,4 +15,4 @@ Absolem Marseille is a music venue in Marseille listed on soundcheck. 2 upcoming
 
 40 Boulevard Jacques Saadé, 13002 Marseille, France, Marseille
 
-*Updated Thu, 23 Jul 2026 · source: [soundcheck](https://soundcheck.club/marseille/club/absolem-marseille/)*
+*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/marseille/club/absolem-marseille/)*

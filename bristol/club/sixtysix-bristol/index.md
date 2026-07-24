@@ -1,6 +1,6 @@
 # Sixtysix Bristol
 
-Sixtysix Bristol is a music venue in Bristol with 1 upcoming night listed on soundcheck as of Thu, 23 Jul 2026; the next is "UWE Bristol Official Freshers - Dazed Disco" on Sat, 19 Sept 2026.
+Sixtysix Bristol is a music venue in Bristol with 1 upcoming night listed on soundcheck as of Fri, 24 Jul 2026; the next is "UWE Bristol Official Freshers - Dazed Disco" on Sat, 19 Sept 2026.
 
 Sixtysix Bristol is a music venue in Bristol listed on soundcheck. 1 upcoming night. Browse upcoming dates, start times and who's playing. 66 Queens Rd, Bristol BS8 1QU.
 
@@ -14,4 +14,4 @@ Sixtysix Bristol is a music venue in Bristol listed on soundcheck. 1 upcoming ni
 
 66 Queens Rd, Bristol BS8 1QU, Bristol
 
-*Updated Thu, 23 Jul 2026 · source: [soundcheck](https://soundcheck.club/bristol/club/sixtysix-bristol/)*
+*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/bristol/club/sixtysix-bristol/)*

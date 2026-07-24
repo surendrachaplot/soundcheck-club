@@ -1,14 +1,13 @@
 # Forestlimit
 
-Forestlimit is a music venue in Tokyo with 23 upcoming nights listed on soundcheck as of Thu, 23 Jul 2026; the next is "'METAL'" on Thu, 23 Jul 2026.
+Forestlimit is a music venue in Tokyo with 22 upcoming nights listed on soundcheck as of Fri, 24 Jul 2026; the next is "'Rumble#48'" on Fri, 24 Jul 2026.
 
-Forestlimit is a music venue in Tokyo listed on soundcheck. 23 upcoming nights, with line-ups including ANiIIIIiiiKii, Ascalypso, Axorst2k and Can (8) and 2 more. Browse upcoming dates, start times and who's playing. 2-8-15 B15 Hatagaya K3 Building, Shibuya-ku Hatagaya, Tokyo.
+Forestlimit is a music venue in Tokyo listed on soundcheck. 22 upcoming nights, with line-ups including ANiIIIIiiiKii, Ascalypso, Axorst2k and Can (8) and 2 more. Browse upcoming dates, start times and who's playing. 2-8-15 B15 Hatagaya K3 Building, Shibuya-ku Hatagaya, Tokyo.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Thu, 23 Jul 2026 | 'METAL' | suppa micro panchop |
 | Fri, 24 Jul 2026 | 'Rumble#48' |  |
 | Sat, 25 Jul 2026 | ''''''''INITIAL IMPULSE'''''''' |  |
 | Sat, 25 Jul 2026 | 7/25 | Axorst2k, Lil Farm |
@@ -18,9 +17,10 @@ Forestlimit is a music venue in Tokyo listed on soundcheck. 23 upcoming nights, 
 | Fri, 31 Jul 2026 | 「Immanence」 | Hue Ray |
 | Sat, 1 Aug 2026 | ⁡｢THE BODY｣ | mionn, pìccolo |
 | Sun, 2 Aug 2026 | ious serious vol. 1 'tran-ious' | Le Makeup, meweta |
+| Sat, 8 Aug 2026 | RANDOM CODE | Can (8), Daichi Wago, Tetsuya Fukada, Ziziphus Jujuba |
 
 ## Address
 
 2-8-15 B15 Hatagaya K3 Building, Shibuya-ku Hatagaya, Tokyo, Tokyo
 
-*Updated Thu, 23 Jul 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/forestlimit/)*
+*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/forestlimit/)*

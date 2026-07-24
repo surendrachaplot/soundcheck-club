@@ -1,6 +1,6 @@
 # Gaffe
 
-Gaffe is a music venue in London with 19 upcoming nights listed on soundcheck as of Thu, 23 Jul 2026; the next is "Semi Delicious - Day into Night: Demi Riquisimo, Eden Burns, Aldonna, Lulah Francs & more" on Sat, 25 Jul 2026.
+Gaffe is a music venue in London with 19 upcoming nights listed on soundcheck as of Fri, 24 Jul 2026; the next is "Semi Delicious - Day into Night: Demi Riquisimo, Eden Burns, Aldonna, Lulah Francs & more" on Sat, 25 Jul 2026.
 
 Gaffe is a music venue in London listed on soundcheck. 19 upcoming nights, with line-ups including 1-800 GIRLS, 1BYAKKO, Justine Perry and Mattia Koväl and 2 more. Browse upcoming dates, start times and who's playing. 1 Anthony Way, N18 3QT.
 
@@ -23,4 +23,4 @@ Gaffe is a music venue in London listed on soundcheck. 19 upcoming nights, with 
 
 1 Anthony Way, N18 3QT, London
 
-*Updated Thu, 23 Jul 2026 · source: [soundcheck](https://soundcheck.club/london/club/gaffe/)*
+*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/london/club/gaffe/)*

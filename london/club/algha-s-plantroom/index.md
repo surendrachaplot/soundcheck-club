@@ -1,6 +1,6 @@
 # Algha's Plantroom
 
-Algha's Plantroom is a music venue in London with 6 upcoming nights listed on soundcheck as of Thu, 23 Jul 2026; the next is "Arca: XXXXX Listening Party with 2CPERREA" on Wed, 29 Jul 2026.
+Algha's Plantroom is a music venue in London with 6 upcoming nights listed on soundcheck as of Fri, 24 Jul 2026; the next is "Arca: XXXXX Listening Party with 2CPERREA" on Wed, 29 Jul 2026.
 
 Algha's Plantroom is a music venue in London listed on soundcheck. 6 upcoming nights, with line-ups including 1000raks, ANTIPODES, Authentically Plastic and Broodoo Ramses and 2 more. Browse upcoming dates, start times and who's playing. Floor 2 Algha Works, 83 Smeed Road, E3 2NR.
 
@@ -19,4 +19,4 @@ Algha's Plantroom is a music venue in London listed on soundcheck. 6 upcoming ni
 
 Floor 2 Algha Works, 83 Smeed Road, E3 2NR, London
 
-*Updated Thu, 23 Jul 2026 · source: [soundcheck](https://soundcheck.club/london/club/algha-s-plantroom/)*
+*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/london/club/algha-s-plantroom/)*

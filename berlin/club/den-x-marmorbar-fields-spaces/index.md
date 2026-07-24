@@ -1,6 +1,6 @@
 # ÆDEN x MARMORBAR: Fields & Spaces
 
-ÆDEN x MARMORBAR: Fields & Spaces is a music venue in Berlin with 3 upcoming nights listed on soundcheck as of Thu, 23 Jul 2026; the next is "tracey presents: THE KET GALA" on Sat, 25 Jul 2026.
+ÆDEN x MARMORBAR: Fields & Spaces is a music venue in Berlin with 3 upcoming nights listed on soundcheck as of Fri, 24 Jul 2026; the next is "tracey presents: THE KET GALA" on Sat, 25 Jul 2026.
 
 ÆDEN x MARMORBAR: Fields & Spaces is a music venue in Berlin listed on soundcheck. 3 upcoming nights, with line-ups including ADAM MUNNINGS, Amowia, angelboy and CLITS and 2 more. Browse upcoming dates, start times and who's playing. Schleusenufer 3.
 
@@ -16,4 +16,4 @@
 
 Schleusenufer 3, Berlin
 
-*Updated Thu, 23 Jul 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/den-x-marmorbar-fields-spaces/)*
+*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/den-x-marmorbar-fields-spaces/)*

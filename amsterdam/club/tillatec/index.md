@@ -1,8 +1,8 @@
 # TILLATEC
 
-TILLATEC is a music venue in Amsterdam with 12 upcoming nights listed on soundcheck as of Thu, 23 Jul 2026; the next is "TILLAVISION: Aquatec" on Fri, 24 Jul 2026.
+TILLATEC is a music venue in Amsterdam with 14 upcoming nights listed on soundcheck as of Fri, 24 Jul 2026; the next is "TILLAVISION: Aquatec" on Fri, 24 Jul 2026.
 
-TILLATEC is a music venue in Amsterdam listed on soundcheck. 12 upcoming nights, with line-ups including Amphia, angelboy, ANNĒ and ARCHANGEL (US) and 2 more. Browse upcoming dates, start times and who's playing. Doctor Jan van Breemenstraat 1; 1056 AB Amsterdam.
+TILLATEC is a music venue in Amsterdam listed on soundcheck. 14 upcoming nights, with line-ups including Justine Perry, Amphia, angelboy and ANNĒ and 2 more. Browse upcoming dates, start times and who's playing. Doctor Jan van Breemenstraat 1; 1056 AB Amsterdam.
 
 ## What's on
 
@@ -23,4 +23,4 @@ TILLATEC is a music venue in Amsterdam listed on soundcheck. 12 upcoming nights,
 
 Doctor Jan van Breemenstraat 1; 1056 AB Amsterdam, Amsterdam
 
-*Updated Thu, 23 Jul 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/tillatec/)*
+*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/tillatec/)*

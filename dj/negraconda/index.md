@@ -1,6 +1,6 @@
 # NEGRACONDA
 
-NEGRACONDA is a Techno and House artist with 4 upcoming club dates listed on soundcheck as of Thu, 23 Jul 2026, next at Versalles 64, Mexico City on Sat, 25 Jul 2026.
+NEGRACONDA is a Techno and House artist with 4 upcoming club dates listed on soundcheck as of Fri, 24 Jul 2026, next at Versalles 64, Mexico City on Sat, 25 Jul 2026.
 
 NEGRACONDA is a techno and house artist based in Mexico, tracked on soundcheck, with 70 sets logged across Amsterdam, Barcelona, Berlin and Geneva and 7 more. Often billed alongside Magnolia Coronado, Bruja Prieta and Dj Fucci. Next up: Versalles 64, Mexicocity on Sat 25 Jul.
 
@@ -28,4 +28,4 @@ NEGRACONDA is a techno and house artist based in Mexico, tracked on soundcheck, 
 
 Magnolia Coronado, Bruja Prieta, Dj Fucci
 
-*Updated Thu, 23 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/negraconda/)*
+*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/negraconda/)*

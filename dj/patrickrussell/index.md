@@ -1,6 +1,6 @@
 # Patrick Russell
 
-Patrick Russell is a Techno and Acid artist with 4 upcoming club dates listed on soundcheck as of Thu, 23 Jul 2026, next at Nowadays, New York City on Sat, 1 Aug 2026.
+Patrick Russell is a Techno and Acid artist with 4 upcoming club dates listed on soundcheck as of Fri, 24 Jul 2026, next at Nowadays, New York City on Sat, 1 Aug 2026.
 
 Patrick Russell is a techno and acid artist based in United States of America, tracked on soundcheck, with 85 sets logged across Amsterdam, Barcelona, Berlin and Boston and 16 more. Often billed alongside Erika, Mike Servito and BMG. Next up: Nowadays, Newyorkcity on Sat 1 Aug.
 
@@ -28,4 +28,4 @@ Patrick Russell is a techno and acid artist based in United States of America, t
 
 Erika, Mike Servito, BMG
 
-*Updated Thu, 23 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/patrickrussell/)*
+*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/patrickrussell/)*

@@ -1,6 +1,6 @@
 # Komplex Klub
 
-Komplex Klub is a music venue in Zurich with 2 upcoming nights listed on soundcheck as of Thu, 23 Jul 2026; the next is "Street Parade Afterparty by Impact Rave" on Sat, 8 Aug 2026.
+Komplex Klub is a music venue in Zurich with 2 upcoming nights listed on soundcheck as of Fri, 24 Jul 2026; the next is "Street Parade Afterparty by Impact Rave" on Sat, 8 Aug 2026.
 
 Komplex Klub is a music venue in Zurich listed on soundcheck. 2 upcoming nights, with line-ups including Charlie Sparks, ECZODIA, KRUELTY and LESSSS and 2 more. Browse upcoming dates, start times and who's playing. Hohlstrasse 457, 8048, Zürich.
 
@@ -15,4 +15,4 @@ Komplex Klub is a music venue in Zurich listed on soundcheck. 2 upcoming nights,
 
 Hohlstrasse 457, 8048, Zürich, Zurich
 
-*Updated Thu, 23 Jul 2026 · source: [soundcheck](https://soundcheck.club/zurich/club/komplex-klub/)*
+*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/zurich/club/komplex-klub/)*

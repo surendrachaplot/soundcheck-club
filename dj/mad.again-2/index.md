@@ -1,6 +1,6 @@
 # Mad.Again (2)
 
-Mad.Again (2) is a House and Tech House artist with 5 upcoming club dates listed on soundcheck as of Thu, 23 Jul 2026, next at Distrikt, Leeds on Sat, 8 Aug 2026.
+Mad.Again (2) is a House and Tech House artist with 5 upcoming club dates listed on soundcheck as of Fri, 24 Jul 2026, next at Distrikt, Leeds on Sat, 8 Aug 2026.
 
 Mad.Again (2) is a house and tech house artist tracked on soundcheck, with 61 sets logged across Amsterdam, Barcelona, Birmingham and Bristol and 13 more. Often billed alongside Locky, Liam Palmer and Elliot Schooling. Next up: Distrikt, Leeds on Sat 8 Aug.
 
@@ -29,4 +29,4 @@ Mad.Again (2) is a house and tech house artist tracked on soundcheck, with 61 se
 
 Locky, Liam Palmer, Elliot Schooling
 
-*Updated Thu, 23 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/mad.again-2/)*
+*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/mad.again-2/)*

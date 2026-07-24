@@ -1,6 +1,6 @@
 # AMORAL
 
-AMORAL is a Techno and House artist with 10 upcoming club dates listed on soundcheck as of Thu, 23 Jul 2026, next at BLITZ, Munich on Sat, 25 Jul 2026.
+AMORAL is a Techno and House artist with 10 upcoming club dates listed on soundcheck as of Fri, 24 Jul 2026, next at BLITZ, Munich on Sat, 25 Jul 2026.
 
 AMORAL is a techno and house artist tracked on soundcheck, with 158 sets logged across Amsterdam, Athens, Barcelona and Berlin and 34 more. Often billed alongside MARRØN, Rene Wise and Beste Hira. Next up: BLITZ, Munich on Sat 25 Jul.
 
@@ -34,4 +34,4 @@ AMORAL is a techno and house artist tracked on soundcheck, with 158 sets logged 
 
 MARRØN, Rene Wise, Beste Hira
 
-*Updated Thu, 23 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/amoral/)*
+*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/amoral/)*

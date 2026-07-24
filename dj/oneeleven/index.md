@@ -1,6 +1,6 @@
 # ONEELEVEN
 
-ONEELEVEN is a Club and Techno artist with 2 upcoming club dates listed on soundcheck as of Thu, 23 Jul 2026, next at TBA, Philadelphia on Fri, 24 Jul 2026.
+ONEELEVEN is a Club and Techno artist with 2 upcoming club dates listed on soundcheck as of Fri, 24 Jul 2026, next at TBA, Philadelphia on Fri, 24 Jul 2026.
 
 ONEELEVEN is a club and techno artist tracked on soundcheck, with 46 sets logged across Newyorkcity, Philadelphia and Washingtondc. Often billed alongside lorboo, R3m Sativa and disautomatic. Next up: TBA, Philadelphia on Fri 24 Jul.
 
@@ -26,4 +26,4 @@ ONEELEVEN is a club and techno artist tracked on soundcheck, with 46 sets logged
 
 lorboo, R3m Sativa, disautomatic
 
-*Updated Thu, 23 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/oneeleven/)*
+*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/oneeleven/)*

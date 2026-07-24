@@ -1,18 +1,17 @@
 # Bar Franca
 
-Bar Franca is a music venue in Los Angeles with 2 upcoming nights listed on soundcheck as of Thu, 23 Jul 2026; the next is "Bar Franca This Week" on Thu, 23 Jul 2026.
+Bar Franca is a music venue in Los Angeles with 1 upcoming night listed on soundcheck as of Fri, 24 Jul 2026; the next is "B.LØW by YKW feat. ean & Quarterdef" on Sat, 25 Jul 2026.
 
-Bar Franca is a music venue in Losangeles listed on soundcheck. 2 upcoming nights, with line-ups including Dirtie Blonde, H.U.D.L, Lady Sinclair and Quarterdef and 1 more. Browse upcoming dates, start times and who's playing. 438 S Main St, Los Angeles, CA 90013.
+Bar Franca is a music venue in Losangeles listed on soundcheck. 1 upcoming night, with line-ups including Quarterdef. Browse upcoming dates, start times and who's playing. 438 S Main St, Los Angeles, CA 90013.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Thu, 23 Jul 2026 | Bar Franca This Week | Dirtie Blonde, H.U.D.L, Lady Sinclair, ZØRAYA |
 | Sat, 25 Jul 2026 | B.LØW by YKW feat. ean & Quarterdef | Quarterdef |
 
 ## Address
 
 438 S Main St, Los Angeles, CA 90013, Los Angeles
 
-*Updated Thu, 23 Jul 2026 · source: [soundcheck](https://soundcheck.club/losangeles/club/bar-franca/)*
+*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/losangeles/club/bar-franca/)*

@@ -1,6 +1,6 @@
 # TERRA TWIINS
 
-TERRA TWIINS is a Techno and Electro artist with 3 upcoming club dates listed on soundcheck as of Thu, 23 Jul 2026, next at Lokschuppen Berlin, Berlin on Sat, 25 Jul 2026.
+TERRA TWIINS is a Techno and Electro artist with 3 upcoming club dates listed on soundcheck as of Fri, 24 Jul 2026, next at Lokschuppen Berlin, Berlin on Sat, 25 Jul 2026.
 
 TERRA TWIINS is a techno and electro artist based in Germany, tracked on soundcheck, with 45 sets logged across Berlin, Hamburg and Vienna. Often billed alongside SOHOE, Amo (IT) and Stinny Stone. Next up: Lokschuppen Berlin, Berlin on Sat 25 Jul.
 
@@ -27,4 +27,4 @@ TERRA TWIINS is a techno and electro artist based in Germany, tracked on soundch
 
 SOHOE, Amo (IT), Stinny Stone
 
-*Updated Thu, 23 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/terratwiins/)*
+*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/terratwiins/)*

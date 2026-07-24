@@ -1,6 +1,6 @@
 # Andrew Moore
 
-Andrew Moore is a Techno and House artist with 4 upcoming club dates listed on soundcheck as of Thu, 23 Jul 2026, next at ZEROTOKYO, Tokyo on Fri, 24 Jul 2026.
+Andrew Moore is a Techno and House artist with 4 upcoming club dates listed on soundcheck as of Fri, 24 Jul 2026, next at ZEROTOKYO, Tokyo on Fri, 24 Jul 2026.
 
 Andrew Moore is a techno and house artist based in United Kingdom, tracked on soundcheck, with 25 sets logged across Bangkok, Berlin, Cologne and Glasgow and 6 more. Often billed alongside PLATTER, Echoes Of October and Inverse Element. Next up: ZEROTOKYO, Tokyo on Fri 24 Jul.
 
@@ -28,4 +28,4 @@ Andrew Moore is a techno and house artist based in United Kingdom, tracked on so
 
 PLATTER, Echoes Of October, Inverse Element
 
-*Updated Thu, 23 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/andrewmoore/)*
+*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/andrewmoore/)*

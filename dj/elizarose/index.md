@@ -1,8 +1,8 @@
 # Eliza Rose
 
-Eliza Rose is a House and Tech House artist with 9 upcoming club dates listed on soundcheck as of Thu, 23 Jul 2026, next at Palmerstown House Estate, Dublin on Sat, 1 Aug 2026.
+Eliza Rose is a House and Tech House artist with 10 upcoming club dates listed on soundcheck as of Fri, 24 Jul 2026, next at Palmerstown House Estate, Dublin on Sat, 1 Aug 2026.
 
-Eliza Rose is a house and tech house artist tracked on soundcheck, with 139 sets logged across Amsterdam, Bangkok, Barcelona and Basel and 40 more. Often billed alongside Sally C, Dan Shake and TSHA. Next up: Palmerstown House Estate, Dublin on Sat 1 Aug.
+Eliza Rose is a house and tech house artist tracked on soundcheck, with 140 sets logged across Amsterdam, Bangkok, Barcelona and Basel and 40 more. Often billed alongside Sally C, Dan Shake and TSHA. Next up: Palmerstown House Estate, Dublin on Sat 1 Aug.
 
 ## Upcoming shows
 
@@ -17,6 +17,7 @@ Eliza Rose is a house and tech house artist tracked on soundcheck, with 139 sets
 | Thu, 3 Sept 2026 | Chinois Ibiza | Ibiza |
 | Thu, 1 Oct 2026 | TBA - Various Venues | Malta |
 | Thu, 1 Oct 2026 | UNO MALTA | Malta |
+| Thu, 22 Oct 2026 | Thuishaven | Amsterdam |
 
 ## Recently played
 
@@ -33,4 +34,4 @@ Eliza Rose is a house and tech house artist tracked on soundcheck, with 139 sets
 
 Sally C, Dan Shake, TSHA
 
-*Updated Thu, 23 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/elizarose/)*
+*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/elizarose/)*

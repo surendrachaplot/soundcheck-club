@@ -1,14 +1,13 @@
 # Crack Bellmer
 
-Crack Bellmer is a music venue in Berlin with 17 upcoming nights listed on soundcheck as of Thu, 23 Jul 2026; the next is "Arcane XIII: The Lovers ♡ Pride Week Edition (Free Entry*)" on Thu, 23 Jul 2026.
+Crack Bellmer is a music venue in Berlin with 16 upcoming nights listed on soundcheck as of Fri, 24 Jul 2026; the next is "3 Years of Inline with Karim Alkhayat, UniKhatu, CMR-A, Julia S, Pink Panther & Rovin" on Fri, 24 Jul 2026.
 
-Crack Bellmer is a music venue in Berlin listed on soundcheck. 17 upcoming nights, with line-ups including Ale Hope, Anjawah, anna G and Candice Blonde and 2 more. Browse upcoming dates, start times and who's playing. Revaler Strasse 99; 10245 Berlin-Friedrichshain; Berlin; Germany.
+Crack Bellmer is a music venue in Berlin listed on soundcheck. 16 upcoming nights, with line-ups including Ale Hope, Anjawah, anna G and Candice Blonde and 2 more. Browse upcoming dates, start times and who's playing. Revaler Strasse 99; 10245 Berlin-Friedrichshain; Berlin; Germany.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Thu, 23 Jul 2026 | Arcane XIII: The Lovers ♡ Pride Week Edition (Free Entry*) | Daniela Fuzz, Katalina Schwarz, Leonor Baesler, MATIAS SAURI, NSPERGER, Pamela Svart, SARA |
 | Fri, 24 Jul 2026 | 3 Years of Inline with Karim Alkhayat, UniKhatu, CMR-A, Julia S, Pink Panther & Rovin | CMR-A, Julia S., Karim Alkhayat, Rovin, UniKhatu, pink-panther |
 | Sat, 25 Jul 2026 | RAVAGÉE 4 PRIDE | Dgeral, Kidcat, Kylie Exotic, Lixi, Paulina (2), SuperBush, ilbroccolovolante |
 | Sun, 26 Jul 2026 | Mutual Attraction | E Molina, Magic of the Groove, Rafa Balera |
@@ -18,9 +17,10 @@ Crack Bellmer is a music venue in Berlin listed on soundcheck. 17 upcoming night
 | Sat, 1 Aug 2026 | Motion Unit presents Bellmer Nights | Candice Blonde, KONZ, Nedelcut |
 | Sun, 2 Aug 2026 | Echo Bloom presents: Midsommar Rituals | EZQIZITA, Part-Time Lesbian, dj prinskorv, ilbroccolovolante |
 | Thu, 6 Aug 2026 | C.U.N.T | DotDash |
+| Fri, 7 Aug 2026 | BLURRY BELLMER ✧FREE from 9 to 11PM✧ | Hitomi (DE), MLE (UK), Otal, SELESSA T., Viénce |
 
 ## Address
 
 Revaler Strasse 99; 10245 Berlin-Friedrichshain; Berlin; Germany, Berlin
 
-*Updated Thu, 23 Jul 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/crack-bellmer/)*
+*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/crack-bellmer/)*

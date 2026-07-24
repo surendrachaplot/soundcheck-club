@@ -1,6 +1,6 @@
 # m1 (1)
 
-m1 (1) is a R&B and Pop artist with 6 upcoming club dates listed on soundcheck as of Thu, 23 Jul 2026, next at The Rum Shack, Glasgow on Fri, 31 Jul 2026.
+m1 (1) is a R&B and Pop artist with 6 upcoming club dates listed on soundcheck as of Fri, 24 Jul 2026, next at The Rum Shack, Glasgow on Fri, 31 Jul 2026.
 
 m1 (1) is a r&b and pop artist based in United Kingdom, tracked on soundcheck, with 32 sets logged across Edinburgh and Glasgow. Often billed alongside monicat, Buckfast Barbie and Quarterpoundernocheese. Next up: The Rum Shack, Glasgow on Fri 31 Jul.
 
@@ -30,4 +30,4 @@ m1 (1) is a r&b and pop artist based in United Kingdom, tracked on soundcheck, w
 
 monicat, Buckfast Barbie, Quarterpoundernocheese
 
-*Updated Thu, 23 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/m1-1/)*
+*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/m1-1/)*

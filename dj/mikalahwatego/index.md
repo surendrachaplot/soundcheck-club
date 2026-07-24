@@ -1,6 +1,6 @@
 # Mikalah Watego
 
-Mikalah Watego is a Techno and House artist with 4 upcoming club dates listed on soundcheck as of Thu, 23 Jul 2026, next at Coil, Melbourne on Sat, 25 Jul 2026.
+Mikalah Watego is a Techno and House artist with 4 upcoming club dates listed on soundcheck as of Fri, 24 Jul 2026, next at Coil, Melbourne on Sat, 25 Jul 2026.
 
 Mikalah Watego is a techno and house artist based in Australia, tracked on soundcheck, with 30 sets logged across Brisbane, Melbourne and Sydney. Often billed alongside Hasvat Informant, Ed Kent and GiGi FM. Next up: Coil, Melbourne on Sat 25 Jul.
 
@@ -28,4 +28,4 @@ Mikalah Watego is a techno and house artist based in Australia, tracked on sound
 
 Hasvat Informant, Ed Kent, GiGi FM
 
-*Updated Thu, 23 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/mikalahwatego/)*
+*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/mikalahwatego/)*

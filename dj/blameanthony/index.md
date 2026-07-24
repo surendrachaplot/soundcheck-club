@@ -1,6 +1,6 @@
 # Blame Anthony
 
-Blame Anthony is a House and Techno artist with 4 upcoming club dates listed on soundcheck as of Thu, 23 Jul 2026, next at La Terrrazza, Barcelona on Sat, 25 Jul 2026.
+Blame Anthony is a House and Techno artist with 4 upcoming club dates listed on soundcheck as of Fri, 24 Jul 2026, next at La Terrrazza, Barcelona on Sat, 25 Jul 2026.
 
 Blame Anthony is a house and techno artist tracked on soundcheck, with 11 sets logged across Barcelona, Berlin and London. Often billed alongside Thabo, Thalo Santana and DJ Butterhands. Next up: La Terrrazza, Barcelona on Sat 25 Jul.
 
@@ -27,4 +27,4 @@ Blame Anthony is a house and techno artist tracked on soundcheck, with 11 sets l
 
 Thabo, Thalo Santana, DJ Butterhands
 
-*Updated Thu, 23 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/blameanthony/)*
+*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/blameanthony/)*

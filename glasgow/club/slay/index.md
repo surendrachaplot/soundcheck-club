@@ -1,6 +1,6 @@
 # Slay
 
-Slay is a music venue in Glasgow with 3 upcoming nights listed on soundcheck as of Thu, 23 Jul 2026; the next is "PATORANKING : Live in Glasgow!" on Sun, 26 Jul 2026.
+Slay is a music venue in Glasgow with 3 upcoming nights listed on soundcheck as of Fri, 24 Jul 2026; the next is "PATORANKING : Live in Glasgow!" on Sun, 26 Jul 2026.
 
 Slay is a music venue in Glasgow listed on soundcheck. 3 upcoming nights. Browse upcoming dates, start times and who's playing. 24 Glassford Street, Glasgow, G1 1UL.
 
@@ -16,4 +16,4 @@ Slay is a music venue in Glasgow listed on soundcheck. 3 upcoming nights. Browse
 
 24 Glassford Street, Glasgow, G1 1UL, Glasgow
 
-*Updated Thu, 23 Jul 2026 · source: [soundcheck](https://soundcheck.club/glasgow/club/slay/)*
+*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/glasgow/club/slay/)*

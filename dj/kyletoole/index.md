@@ -1,6 +1,6 @@
 # Kyle Toole
 
-Kyle Toole is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Thu, 23 Jul 2026, next at ZENNER, Berlin on Sun, 23 Aug 2026.
+Kyle Toole is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Fri, 24 Jul 2026, next at ZENNER, Berlin on Sun, 23 Aug 2026.
 
 Kyle Toole is a house and techno artist tracked on soundcheck, with 88 sets logged across Amsterdam, Antwerp, Barcelona and Berlin and 15 more. Often billed alongside Kian OK, DJ Dustin and Millie McKee. Next up: ZENNER, Berlin on Sun 23 Aug.
 
@@ -26,4 +26,4 @@ Kyle Toole is a house and techno artist tracked on soundcheck, with 88 sets logg
 
 Kian OK, DJ Dustin, Millie McKee
 
-*Updated Thu, 23 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/kyletoole/)*
+*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/kyletoole/)*

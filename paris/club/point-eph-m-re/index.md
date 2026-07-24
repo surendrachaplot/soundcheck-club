@@ -1,6 +1,6 @@
 # Point Ephémère
 
-Point Ephémère is a music venue in Paris with 6 upcoming nights listed on soundcheck as of Thu, 23 Jul 2026; the next is "Beirut Groove Collective: Live In Paris" on Fri, 24 Jul 2026.
+Point Ephémère is a music venue in Paris with 6 upcoming nights listed on soundcheck as of Fri, 24 Jul 2026; the next is "Beirut Groove Collective: Live In Paris" on Fri, 24 Jul 2026.
 
 Point Ephémère is a music venue in Paris listed on soundcheck. 6 upcoming nights, with line-ups including Beirut Groove Collective, Calling Marian, Ernesto Chahoud and Louise Chen and 1 more. Browse upcoming dates, start times and who's playing. 200 quai de Valmy; 75010; Paris; France.
 
@@ -19,4 +19,4 @@ Point Ephémère is a music venue in Paris listed on soundcheck. 6 upcoming nigh
 
 200 quai de Valmy; 75010; Paris; France, Paris
 
-*Updated Thu, 23 Jul 2026 · source: [soundcheck](https://soundcheck.club/paris/club/point-eph-m-re/)*
+*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/paris/club/point-eph-m-re/)*

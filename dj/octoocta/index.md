@@ -1,8 +1,8 @@
 # Octo Octa
 
-Octo Octa is a House and Techno artist with 10 upcoming club dates listed on soundcheck as of Thu, 23 Jul 2026, next at Milandia, Zurich on Sat, 25 Jul 2026.
+Octo Octa is a House and Techno artist with 11 upcoming club dates listed on soundcheck as of Fri, 24 Jul 2026, next at Milandia, Zurich on Sat, 25 Jul 2026.
 
-Octo Octa is a house and techno artist tracked on soundcheck, with 190 sets logged across Amsterdam, Antwerp, Bali and Barcelona and 55 more. Often billed alongside Eris Drew, CCL and ISAbella. Next up: Milandia, Zurich on Sat 25 Jul.
+Octo Octa is a house and techno artist tracked on soundcheck, with 191 sets logged across Amsterdam, Antwerp, Bali and Barcelona and 55 more. Often billed alongside Eris Drew, CCL and ISAbella. Next up: Milandia, Zurich on Sat 25 Jul.
 
 ## Upcoming shows
 
@@ -18,6 +18,7 @@ Octo Octa is a house and techno artist tracked on soundcheck, with 190 sets logg
 | Tue, 1 Sept 2026 | 528 Ibiza | Ibiza |
 | Sat, 12 Sept 2026 | The Cause | London |
 | Fri, 18 Sept 2026 | Fort Mifflin | Philadelphia |
+| Thu, 22 Oct 2026 | Pllek | Amsterdam |
 
 ## Recently played
 
@@ -34,4 +35,4 @@ Octo Octa is a house and techno artist tracked on soundcheck, with 190 sets logg
 
 Eris Drew, CCL, ISAbella
 
-*Updated Thu, 23 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/octoocta/)*
+*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/octoocta/)*

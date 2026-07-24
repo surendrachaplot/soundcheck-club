@@ -1,6 +1,6 @@
 # Boris Brejcha
 
-Boris Brejcha is a Techno and Tech House artist with 10 upcoming club dates listed on soundcheck as of Thu, 23 Jul 2026, next at Club Space Miami, Miami on Fri, 24 Jul 2026.
+Boris Brejcha is a Techno and Tech House artist with 10 upcoming club dates listed on soundcheck as of Fri, 24 Jul 2026, next at Club Space Miami, Miami on Fri, 24 Jul 2026.
 
 Boris Brejcha is a techno and tech house artist tracked on soundcheck, with 109 sets logged across Athens, Austin, Bali and Barcelona and 43 more. Often billed alongside Moritz Hofbauer, Deniz Bul and Ann Clue. Next up: Club Space Miami, Miami on Fri 24 Jul.
 
@@ -34,4 +34,4 @@ Boris Brejcha is a techno and tech house artist tracked on soundcheck, with 109 
 
 Moritz Hofbauer, Deniz Bul, Ann Clue
 
-*Updated Thu, 23 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/borisbrejcha/)*
+*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/borisbrejcha/)*

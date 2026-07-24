@@ -1,6 +1,6 @@
 # Bar Le Ritz PDB
 
-Bar Le Ritz PDB is a music venue in Montreal with 4 upcoming nights listed on soundcheck as of Thu, 23 Jul 2026; the next is "Brothel in Belize - Montréal" on Sat, 25 Jul 2026.
+Bar Le Ritz PDB is a music venue in Montreal with 4 upcoming nights listed on soundcheck as of Fri, 24 Jul 2026; the next is "Brothel in Belize - Montréal" on Sat, 25 Jul 2026.
 
 Bar Le Ritz PDB is a music venue in Montreal listed on soundcheck. 4 upcoming nights, with line-ups including Flleur and Mietze Conte. Browse upcoming dates, start times and who's playing. 179 Rue Jean-Talon-Ouest, Montréal H2R 2X2.
 
@@ -17,4 +17,4 @@ Bar Le Ritz PDB is a music venue in Montreal listed on soundcheck. 4 upcoming ni
 
 179 Rue Jean-Talon-Ouest, Montréal H2R 2X2, Montreal
 
-*Updated Thu, 23 Jul 2026 · source: [soundcheck](https://soundcheck.club/montreal/club/bar-le-ritz-pdb/)*
+*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/montreal/club/bar-le-ritz-pdb/)*

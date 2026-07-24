@@ -1,6 +1,6 @@
 # Kenjiro
 
-Kenjiro is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Thu, 23 Jul 2026, next at TBA - Ask a Cyberpunk , Detroit on Sat, 25 Jul 2026.
+Kenjiro is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Fri, 24 Jul 2026, next at TBA - Ask a Cyberpunk , Detroit on Sat, 25 Jul 2026.
 
 Kenjiro is a techno and house artist based in United States of America, tracked on soundcheck, with 176 sets logged across Chicago, Detroit, Losangeles and Newyorkcity and 1 more. Often billed alongside Shigeto, Charles Trees and Tammy Lakkis. Next up: TBA - Ask a Cyberpunk , Detroit on Sat 25 Jul.
 
@@ -26,4 +26,4 @@ Kenjiro is a techno and house artist based in United States of America, tracked 
 
 Shigeto, Charles Trees, Tammy Lakkis
 
-*Updated Thu, 23 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/kenjiro/)*
+*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/kenjiro/)*

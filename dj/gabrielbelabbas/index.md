@@ -1,6 +1,6 @@
 # Gabriel Belabbas
 
-Gabriel Belabbas is a House and Electro artist with 2 upcoming club dates listed on soundcheck as of Thu, 23 Jul 2026, next at BRET, Amsterdam on Sat, 1 Aug 2026.
+Gabriel Belabbas is a House and Electro artist with 2 upcoming club dates listed on soundcheck as of Fri, 24 Jul 2026, next at BRET, Amsterdam on Sat, 1 Aug 2026.
 
 Gabriel Belabbas is a house and electro artist tracked on soundcheck, with 61 sets logged across Amsterdam, Barcelona, Berlin and Brussels and 12 more. Often billed alongside Poggio, Massaï and Automatic Writing. Next up: BRET, Amsterdam on Sat 1 Aug.
 
@@ -26,4 +26,4 @@ Gabriel Belabbas is a house and electro artist tracked on soundcheck, with 61 se
 
 Poggio, Massaï, Automatic Writing
 
-*Updated Thu, 23 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/gabrielbelabbas/)*
+*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/gabrielbelabbas/)*

@@ -1,6 +1,6 @@
 # Unit 58
 
-Unit 58 is a music venue in London with 4 upcoming nights listed on soundcheck as of Thu, 23 Jul 2026; the next is "Allstate Insurance Pay Bill by Phone — Complete Zero-Fee Guide 2026" on Sat, 25 Jul 2026.
+Unit 58 is a music venue in London with 4 upcoming nights listed on soundcheck as of Fri, 24 Jul 2026; the next is "Allstate Insurance Pay Bill by Phone — Complete Zero-Fee Guide 2026" on Sat, 25 Jul 2026.
 
 Unit 58 is a music venue in London listed on soundcheck. 4 upcoming nights, with line-ups including acidhousewife3000, Alaska (2), AMEX (UK) and APP and 2 more. Browse upcoming dates, start times and who's playing. Unit 58, Millmead Industrial Estate, Mill Mead Road, London, N17 9QU, UK.
 
@@ -17,4 +17,4 @@ Unit 58 is a music venue in London listed on soundcheck. 4 upcoming nights, with
 
 Unit 58, Millmead Industrial Estate, Mill Mead Road, London, N17 9QU, UK, London
 
-*Updated Thu, 23 Jul 2026 · source: [soundcheck](https://soundcheck.club/london/club/unit-58/)*
+*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/london/club/unit-58/)*

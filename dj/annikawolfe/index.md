@@ -1,6 +1,6 @@
 # Annika Wolfe
 
-Annika Wolfe is a Techno and Electro artist with 2 upcoming club dates listed on soundcheck as of Thu, 23 Jul 2026, next at TBA - Private Location, Vancouver on Sat, 1 Aug 2026.
+Annika Wolfe is a Techno and Electro artist with 2 upcoming club dates listed on soundcheck as of Fri, 24 Jul 2026, next at TBA - Private Location, Vancouver on Sat, 1 Aug 2026.
 
 Annika Wolfe is a techno and electro artist based in United States of America, tracked on soundcheck, with 80 sets logged across Chicago, Detroit, Losangeles and Newyorkcity and 3 more. Often billed alongside Stacy Christine, Remy Marc and ALKMST. Next up: TBA - Private Location, Vancouver on Sat 1 Aug.
 
@@ -26,4 +26,4 @@ Annika Wolfe is a techno and electro artist based in United States of America, t
 
 Stacy Christine, Remy Marc, ALKMST
 
-*Updated Thu, 23 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/annikawolfe/)*
+*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/annikawolfe/)*

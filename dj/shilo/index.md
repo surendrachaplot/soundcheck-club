@@ -1,6 +1,6 @@
 # Shilo
 
-Shilo is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Thu, 23 Jul 2026, next at Grüner Jäger, Hamburg on Fri, 24 Jul 2026.
+Shilo is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Fri, 24 Jul 2026, next at Grüner Jäger, Hamburg on Fri, 24 Jul 2026.
 
 Shilo is a techno and house artist based in Germany, tracked on soundcheck, with 12 sets logged across Hamburg. Often billed alongside Alexej, CHICHO and Pamadii. Next up: Grüner Jäger, Hamburg on Fri 24 Jul.
 
@@ -27,4 +27,4 @@ Shilo is a techno and house artist based in Germany, tracked on soundcheck, with
 
 Alexej, CHICHO, Pamadii
 
-*Updated Thu, 23 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/shilo/)*
+*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/shilo/)*

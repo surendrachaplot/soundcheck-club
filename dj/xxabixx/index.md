@@ -1,6 +1,6 @@
 # xXabiXx
 
-xXabiXx is a House and Club artist with 3 upcoming club dates listed on soundcheck as of Thu, 23 Jul 2026, next at TRANSMISSION DC, Washington DC on Sat, 1 Aug 2026.
+xXabiXx is a House and Club artist with 3 upcoming club dates listed on soundcheck as of Fri, 24 Jul 2026, next at TRANSMISSION DC, Washington DC on Sat, 1 Aug 2026.
 
 xXabiXx is a house and club artist based in United States of America, tracked on soundcheck, with 33 sets logged across Washingtondc. Often billed alongside Harley (US), $et and DJ Con. Next up: TRANSMISSION DC, Washingtondc on Sat 1 Aug.
 
@@ -27,4 +27,4 @@ xXabiXx is a house and club artist based in United States of America, tracked on
 
 Harley (US), $et, DJ Con
 
-*Updated Thu, 23 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/xxabixx/)*
+*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/xxabixx/)*

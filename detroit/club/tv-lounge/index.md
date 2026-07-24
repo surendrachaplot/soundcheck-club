@@ -1,14 +1,13 @@
 # TV Lounge
 
-TV Lounge is a music venue in Detroit with 12 upcoming nights listed on soundcheck as of Thu, 23 Jul 2026; the next is "13th Annual Raise the Flag Fest • PreParty Celebration" on Thu, 23 Jul 2026.
+TV Lounge is a music venue in Detroit with 11 upcoming nights listed on soundcheck as of Fri, 24 Jul 2026; the next is "Club COI • A Celebration" on Fri, 24 Jul 2026.
 
-TV Lounge is a music venue in Detroit listed on soundcheck. 12 upcoming nights, with line-ups including 888lambchop, Aboudi Issa, Ameera and BeatLoaf and 2 more. Browse upcoming dates, start times and who's playing. 2548 Grand River Avenue; Detroit, MI; United States.
+TV Lounge is a music venue in Detroit listed on soundcheck. 11 upcoming nights, with line-ups including 888lambchop, Aboudi Issa, Ameera and BeatLoaf and 2 more. Browse upcoming dates, start times and who's playing. 2548 Grand River Avenue; Detroit, MI; United States.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Thu, 23 Jul 2026 | 13th Annual Raise the Flag Fest • PreParty Celebration | Deeper Waters, Drummer B, Eddie Fowlkes, Mike Agent X Clark |
 | Fri, 24 Jul 2026 | Club COI • A Celebration | Just Shacoi |
 | Fri, 31 Jul 2026 | TONY TOUCH • Charivari Detroit PreParty | Bruce Bailey, Gary Chandler, hypemelo |
 | Sat, 1 Aug 2026 | Justin Martin - Open to Close | Justin Martin |
@@ -18,9 +17,10 @@ TV Lounge is a music venue in Detroit listed on soundcheck. 12 upcoming nights, 
 | Fri, 14 Aug 2026 | Tv Lounge Friday Charivari Detroit Parallel | Ameera, Norm Talley, Satoshi Tomiie |
 | Sat, 15 Aug 2026 | Tv Lounge Saturday Charivari Detroit 12 Hour | Aboudi Issa, Bruce Bailey, DJ Bone, DJ Moppy, DJ RIGHTEOUS, Dru Allan, Eddie Fowlkes, Eddie Logix, Eric Johnson, Isaac Prieto, Loren, Marcus NF Harris, Peter Croce, Ryan Sadorus, Tony Dennis, sillygirlcarmen, something blue |
 | Sun, 16 Aug 2026 | Tv Lounge Charivari Detroit Praise Party Detroit Edition | DJ Spen, Terrence Parker |
+| Sun, 6 Sept 2026 | Detroit Love Labor Day Weekend: Carl Craig b2b Matthew Dear | Carl Craig, ERNO (US), Matthew Dear |
 
 ## Address
 
 2548 Grand River Avenue; Detroit, MI; United States, Detroit
 
-*Updated Thu, 23 Jul 2026 · source: [soundcheck](https://soundcheck.club/detroit/club/tv-lounge/)*
+*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/detroit/club/tv-lounge/)*

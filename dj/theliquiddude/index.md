@@ -1,6 +1,6 @@
 # The Liquid Dude
 
-The Liquid Dude is a House and Electro artist with 3 upcoming club dates listed on soundcheck as of Thu, 23 Jul 2026, next at Le Refuge - La Rotonde Stalingrad, Paris on Fri, 24 Jul 2026.
+The Liquid Dude is a House and Electro artist with 3 upcoming club dates listed on soundcheck as of Fri, 24 Jul 2026, next at Le Refuge - La Rotonde Stalingrad, Paris on Fri, 24 Jul 2026.
 
 The Liquid Dude is a house and electro artist based in Spain, tracked on soundcheck, with 17 sets logged across Frankfurt, Ibiza and Paris. Often billed alongside Ko Mu, Luigi Rossi and Woodson. Next up: Le Refuge - La Rotonde Stalingrad, Paris on Fri 24 Jul.
 
@@ -27,4 +27,4 @@ The Liquid Dude is a house and electro artist based in Spain, tracked on soundch
 
 Ko Mu, Luigi Rossi, Woodson
 
-*Updated Thu, 23 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/theliquiddude/)*
+*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/theliquiddude/)*

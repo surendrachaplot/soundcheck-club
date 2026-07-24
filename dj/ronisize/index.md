@@ -1,6 +1,6 @@
 # Roni Size
 
-Roni Size is a Drum & Bass and Jungle artist with 7 upcoming club dates listed on soundcheck as of Thu, 23 Jul 2026, next at Electric Ballroom, London on Sat, 25 Jul 2026.
+Roni Size is a Drum & Bass and Jungle artist with 7 upcoming club dates listed on soundcheck as of Fri, 24 Jul 2026, next at Electric Ballroom, London on Sat, 25 Jul 2026.
 
 Roni Size is a drum & bass and jungle artist tracked on soundcheck, with 71 sets logged across Amsterdam, Auckland, Barcelona and Birmingham and 26 more. Often billed alongside LTJ Bukem, Bryan Gee and Dynamite MC. Next up: Electric Ballroom, London on Sat 25 Jul.
 
@@ -31,4 +31,4 @@ Roni Size is a drum & bass and jungle artist tracked on soundcheck, with 71 sets
 
 LTJ Bukem, Bryan Gee, Dynamite MC
 
-*Updated Thu, 23 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/ronisize/)*
+*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/ronisize/)*

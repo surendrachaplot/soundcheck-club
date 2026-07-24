@@ -1,6 +1,6 @@
 # Bike Jesus
 
-Bike Jesus is a music venue in Prague with 6 upcoming nights listed on soundcheck as of Thu, 23 Jul 2026; the next is "✦ Kitchen Collective ✦ at Bike & REVO" on Fri, 24 Jul 2026.
+Bike Jesus is a music venue in Prague with 6 upcoming nights listed on soundcheck as of Fri, 24 Jul 2026; the next is "✦ Kitchen Collective ✦ at Bike & REVO" on Fri, 24 Jul 2026.
 
 Bike Jesus is a music venue in Prague listed on soundcheck. 6 upcoming nights, with line-ups including ANĪC, AVHD, Axel Boman and Barbora and 2 more. Browse upcoming dates, start times and who's playing. ostrov Štvanice 1125, 170 00 Praha 7-Holešovice, Czechia.
 
@@ -19,4 +19,4 @@ Bike Jesus is a music venue in Prague listed on soundcheck. 6 upcoming nights, w
 
 ostrov Štvanice 1125, 170 00 Praha 7-Holešovice, Czechia, Prague
 
-*Updated Thu, 23 Jul 2026 · source: [soundcheck](https://soundcheck.club/prague/club/bike-jesus/)*
+*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/prague/club/bike-jesus/)*

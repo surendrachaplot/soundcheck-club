@@ -1,8 +1,8 @@
 # LockOut
 
-LockOut is a Drum & Bass and Dubstep artist with 111 upcoming club dates listed on soundcheck as of Thu, 23 Jul 2026, next at Institut fuer Zukunft (IfZ), Leipzig on Sat, 25 Jul 2026.
+LockOut is a Drum & Bass and Dubstep artist with 121 upcoming club dates listed on soundcheck as of Fri, 24 Jul 2026, next at Institut fuer Zukunft (IfZ), Leipzig on Sat, 25 Jul 2026.
 
-LockOut is a drum & bass and dubstep artist based in Canada, tracked on soundcheck, with 114 sets logged across Amsterdam, Bali, Barcelona and Berlin and 42 more. Often billed alongside AMEX (UK), APP and Alaska (2). Next up: Institut fuer Zukunft (IfZ), Leipzig on Sat 25 Jul.
+LockOut is a drum & bass and dubstep artist based in Canada, tracked on soundcheck, with 124 sets logged across Amsterdam, Bali, Barcelona and Berlin and 43 more. Often billed alongside AMEX (UK), APP and Alaska (2). Next up: Institut fuer Zukunft (IfZ), Leipzig on Sat 25 Jul.
 
 ## Upcoming shows
 
@@ -31,4 +31,4 @@ LockOut is a drum & bass and dubstep artist based in Canada, tracked on soundche
 
 AMEX (UK), APP, Alaska (2)
 
-*Updated Thu, 23 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/lockout/)*
+*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/lockout/)*

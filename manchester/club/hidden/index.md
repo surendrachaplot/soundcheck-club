@@ -1,6 +1,6 @@
 # Hidden
 
-Hidden is a music venue in Manchester with 12 upcoming nights listed on soundcheck as of Thu, 23 Jul 2026; the next is "Aiden Francis All Night Long" on Fri, 24 Jul 2026.
+Hidden is a music venue in Manchester with 12 upcoming nights listed on soundcheck as of Fri, 24 Jul 2026; the next is "Aiden Francis All Night Long" on Fri, 24 Jul 2026.
 
 Hidden is a music venue in Manchester listed on soundcheck. 12 upcoming nights, with line-ups including Aiden Francis, Charlie Shell, Chimpo and Christian AB and 2 more. Browse upcoming dates, start times and who's playing. 17 DownTex Mill, Mary Street, Manchester, M3 1DZ, United Kingdom.
 
@@ -23,4 +23,4 @@ Hidden is a music venue in Manchester listed on soundcheck. 12 upcoming nights, 
 
 17 DownTex Mill, Mary Street, Manchester, M3 1DZ, United Kingdom, Manchester
 
-*Updated Thu, 23 Jul 2026 · source: [soundcheck](https://soundcheck.club/manchester/club/hidden/)*
+*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/manchester/club/hidden/)*

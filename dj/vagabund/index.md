@@ -1,6 +1,6 @@
 # Vagabund
 
-Vagabund is a Techno and Trance artist with 7 upcoming club dates listed on soundcheck as of Thu, 23 Jul 2026, next at Valley, Berlin on Sun, 2 Aug 2026.
+Vagabund is a Techno and Trance artist with 7 upcoming club dates listed on soundcheck as of Fri, 24 Jul 2026, next at Valley, Berlin on Sun, 2 Aug 2026.
 
 Vagabund is a techno and trance artist tracked on soundcheck, with 68 sets logged across Antwerp, Barcelona, Basel and Berlin and 9 more. Often billed alongside KUKO, Cloudy and Johannes Schuster. Next up: Valley, Berlin on Sun 2 Aug.
 
@@ -31,4 +31,4 @@ Vagabund is a techno and trance artist tracked on soundcheck, with 68 sets logge
 
 KUKO, Cloudy, Johannes Schuster
 
-*Updated Thu, 23 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/vagabund/)*
+*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/vagabund/)*

@@ -1,6 +1,6 @@
 # J. Richards
 
-J. Richards is a House and Techno artist with 4 upcoming club dates listed on soundcheck as of Thu, 23 Jul 2026, next at Kater, Berlin on Fri, 24 Jul 2026.
+J. Richards is a House and Techno artist with 4 upcoming club dates listed on soundcheck as of Fri, 24 Jul 2026, next at Kater, Berlin on Fri, 24 Jul 2026.
 
 J. Richards is a house and techno artist based in United States of America, tracked on soundcheck, with 96 sets logged across Amsterdam, Berlin, Detroit and Ibiza and 7 more. Often billed alongside Kurilo, Gian-Paul and Vivian Wang. Next up: Kater, Berlin on Fri 24 Jul.
 
@@ -28,4 +28,4 @@ J. Richards is a house and techno artist based in United States of America, trac
 
 Kurilo, Gian-Paul, Vivian Wang
 
-*Updated Thu, 23 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/j.richards/)*
+*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/j.richards/)*

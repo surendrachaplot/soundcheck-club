@@ -1,6 +1,6 @@
 # Nizar Sarakbi
 
-Nizar Sarakbi is a House and Techno artist with 4 upcoming club dates listed on soundcheck as of Thu, 23 Jul 2026, next at PRST, Vienna on Sat, 25 Jul 2026.
+Nizar Sarakbi is a House and Techno artist with 4 upcoming club dates listed on soundcheck as of Fri, 24 Jul 2026, next at PRST, Vienna on Sat, 25 Jul 2026.
 
 Nizar Sarakbi is a house and techno artist tracked on soundcheck, with 72 sets logged across Amsterdam, Barcelona, Berlin and Brussels and 13 more. Often billed alongside Katia Curie, KATIA and vince. Next up: PRST, Vienna on Sat 25 Jul.
 
@@ -28,4 +28,4 @@ Nizar Sarakbi is a house and techno artist tracked on soundcheck, with 72 sets l
 
 Katia Curie, KATIA, vince
 
-*Updated Thu, 23 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/nizarsarakbi/)*
+*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/nizarsarakbi/)*

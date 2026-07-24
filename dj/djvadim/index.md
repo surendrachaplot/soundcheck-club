@@ -1,6 +1,6 @@
 # DJ Vadim
 
-DJ Vadim is a Bass and Hip-Hop artist with 3 upcoming club dates listed on soundcheck as of Thu, 23 Jul 2026, next at The Metro Theatre, Sydney on Sat, 25 Jul 2026.
+DJ Vadim is a Bass and Hip-Hop artist with 3 upcoming club dates listed on soundcheck as of Fri, 24 Jul 2026, next at The Metro Theatre, Sydney on Sat, 25 Jul 2026.
 
 DJ Vadim is a bass and hip-hop artist based in Russia, tracked on soundcheck, with 10 sets logged across Auckland, Bangkok, Berlin and London and 4 more. Often billed alongside Big Red, Chris Munky and Congo Natty. Next up: The Metro Theatre, Sydney on Sat 25 Jul.
 
@@ -26,4 +26,4 @@ DJ Vadim is a bass and hip-hop artist based in Russia, tracked on soundcheck, wi
 
 Big Red, Chris Munky, Congo Natty
 
-*Updated Thu, 23 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/djvadim/)*
+*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/djvadim/)*

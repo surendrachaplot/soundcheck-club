@@ -1,6 +1,6 @@
 # Ijburg
 
-Ijburg is a music venue in Amsterdam with 4 upcoming nights listed on soundcheck as of Thu, 23 Jul 2026; the next is "De Zomervloot - Ammé All Day Long" on Sun, 26 Jul 2026.
+Ijburg is a music venue in Amsterdam with 4 upcoming nights listed on soundcheck as of Fri, 24 Jul 2026; the next is "De Zomervloot - Ammé All Day Long" on Sun, 26 Jul 2026.
 
 Ijburg is a music venue in Amsterdam listed on soundcheck. 4 upcoming nights, with line-ups including Ammé, Emvae and Fafi Abdel Nour. Browse upcoming dates, start times and who's playing. Bert haanstrakade 1053.
 
@@ -17,4 +17,4 @@ Ijburg is a music venue in Amsterdam listed on soundcheck. 4 upcoming nights, wi
 
 Bert haanstrakade 1053, Amsterdam
 
-*Updated Thu, 23 Jul 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/ijburg/)*
+*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/ijburg/)*

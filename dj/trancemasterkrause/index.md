@@ -1,6 +1,6 @@
 # Trancemaster Krause
 
-Trancemaster Krause is a Techno and Trance artist with 9 upcoming club dates listed on soundcheck as of Thu, 23 Jul 2026, next at Hangaren, Copenhagen on Fri, 31 Jul 2026.
+Trancemaster Krause is a Techno and Trance artist with 9 upcoming club dates listed on soundcheck as of Fri, 24 Jul 2026, next at Hangaren, Copenhagen on Fri, 31 Jul 2026.
 
 Trancemaster Krause is a techno and trance artist tracked on soundcheck, with 182 sets logged across Amsterdam, Antwerp, Barcelona and Basel and 32 more. Often billed alongside Cleopard2000, Mika Heggemann and Justin Tinderdate. Next up: Hangaren, Copenhagen on Fri 31 Jul.
 
@@ -33,4 +33,4 @@ Trancemaster Krause is a techno and trance artist tracked on soundcheck, with 18
 
 Cleopard2000, Mika Heggemann, Justin Tinderdate
 
-*Updated Thu, 23 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/trancemasterkrause/)*
+*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/trancemasterkrause/)*

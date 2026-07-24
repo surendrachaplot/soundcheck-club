@@ -1,6 +1,6 @@
 # Guile
 
-Guile is a House and Electro artist with 3 upcoming club dates listed on soundcheck as of Thu, 23 Jul 2026, next at Fitzroy, Berlin on Sat, 25 Jul 2026.
+Guile is a House and Electro artist with 3 upcoming club dates listed on soundcheck as of Fri, 24 Jul 2026, next at Fitzroy, Berlin on Sat, 25 Jul 2026.
 
 Guile is a house and electro artist tracked on soundcheck, with 27 sets logged across Amsterdam, Barcelona, Berlin and Buenosaires and 2 more. Often billed alongside Manu Oubiña, LUKAS (4) and Edu C. Next up: Fitzroy, Berlin on Sat 25 Jul.
 
@@ -27,4 +27,4 @@ Guile is a house and electro artist tracked on soundcheck, with 27 sets logged a
 
 Manu Oubiña, LUKAS (4), Edu C
 
-*Updated Thu, 23 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/guile/)*
+*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/guile/)*

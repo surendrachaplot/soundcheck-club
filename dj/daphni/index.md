@@ -1,6 +1,6 @@
 # Daphni
 
-Daphni is a House and Electronica artist with 9 upcoming club dates listed on soundcheck as of Thu, 23 Jul 2026, next at Piknic Électronik / Parc Jean Drapeau, Montreal on Sun, 26 Jul 2026.
+Daphni is a House and Electronica artist with 9 upcoming club dates listed on soundcheck as of Fri, 24 Jul 2026, next at Piknic Électronik / Parc Jean Drapeau, Montreal on Sun, 26 Jul 2026.
 
 Daphni is a house and electronica artist based in Canada, tracked on soundcheck, with 50 sets logged across Amsterdam, Athens, Barcelona and Brighton and 25 more. Often billed alongside Ben UFO, Floating Points and Four Tet. Next up: Piknic Électronik / Parc Jean Drapeau, Montreal on Sun 26 Jul.
 
@@ -33,4 +33,4 @@ Daphni is a house and electronica artist based in Canada, tracked on soundcheck,
 
 Ben UFO, Floating Points, Four Tet
 
-*Updated Thu, 23 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/daphni/)*
+*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/daphni/)*

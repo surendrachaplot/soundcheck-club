@@ -1,6 +1,6 @@
 # Lousy Lover
 
-Lousy Lover is a House and Tech House artist with 2 upcoming club dates listed on soundcheck as of Thu, 23 Jul 2026, next at Stratus Lounge, Philadelphia on Sun, 26 Jul 2026.
+Lousy Lover is a House and Tech House artist with 2 upcoming club dates listed on soundcheck as of Fri, 24 Jul 2026, next at Stratus Lounge, Philadelphia on Sun, 26 Jul 2026.
 
 Lousy Lover is a house and tech house artist based in United States of America, tracked on soundcheck, with 41 sets logged across Istanbul, Losangeles, Miami and Newyorkcity and 3 more. Often billed alongside slugg, MEGUSTA and Ale Acosta. Next up: Stratus Lounge, Philadelphia on Sun 26 Jul.
 
@@ -26,4 +26,4 @@ Lousy Lover is a house and tech house artist based in United States of America, 
 
 slugg, MEGUSTA, Ale Acosta
 
-*Updated Thu, 23 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/lousylover/)*
+*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/lousylover/)*

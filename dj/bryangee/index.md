@@ -1,6 +1,6 @@
 # Bryan Gee
 
-Bryan Gee is a Drum & Bass and Jungle artist with 3 upcoming club dates listed on soundcheck as of Thu, 23 Jul 2026, next at Electric Ballroom, London on Sat, 25 Jul 2026.
+Bryan Gee is a Drum & Bass and Jungle artist with 3 upcoming club dates listed on soundcheck as of Fri, 24 Jul 2026, next at Electric Ballroom, London on Sat, 25 Jul 2026.
 
 Bryan Gee is a drum & bass and jungle artist tracked on soundcheck, with 98 sets logged across Amsterdam, Antwerp, Auckland and Bangkok and 18 more. Often billed alongside Dillinja, Jumping Jack Frost and IC3. Next up: Electric Ballroom, London on Sat 25 Jul.
 
@@ -27,4 +27,4 @@ Bryan Gee is a drum & bass and jungle artist tracked on soundcheck, with 98 sets
 
 Dillinja, Jumping Jack Frost, IC3
 
-*Updated Thu, 23 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/bryangee/)*
+*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/bryangee/)*

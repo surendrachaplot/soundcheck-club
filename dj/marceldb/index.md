@@ -1,6 +1,6 @@
 # MARCEL db
 
-MARCEL db is a Techno and Trance artist with 3 upcoming club dates listed on soundcheck as of Thu, 23 Jul 2026, next at OST, Berlin on Sat, 25 Jul 2026.
+MARCEL db is a Techno and Trance artist with 3 upcoming club dates listed on soundcheck as of Fri, 24 Jul 2026, next at OST, Berlin on Sat, 25 Jul 2026.
 
 MARCEL db is a techno and trance artist based in Germany, tracked on soundcheck, with 29 sets logged across Amsterdam, Berlin and Munich. Often billed alongside Daniel Boon, Jaycap and MEEMA. Next up: OST, Berlin on Sat 25 Jul.
 
@@ -27,4 +27,4 @@ MARCEL db is a techno and trance artist based in Germany, tracked on soundcheck,
 
 Daniel Boon, Jaycap, MEEMA
 
-*Updated Thu, 23 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/marceldb/)*
+*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/marceldb/)*

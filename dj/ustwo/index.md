@@ -1,6 +1,6 @@
 # Us Two
 
-Us Two is a Tech House and House artist with 8 upcoming club dates listed on soundcheck as of Thu, 23 Jul 2026, next at Distrikt, Leeds on Sat, 25 Jul 2026.
+Us Two is a Tech House and House artist with 8 upcoming club dates listed on soundcheck as of Fri, 24 Jul 2026, next at Distrikt, Leeds on Sat, 25 Jul 2026.
 
 Us Two is a tech house and house artist tracked on soundcheck, with 58 sets logged across Amsterdam, Barcelona, Brighton and Bristol and 13 more. Often billed alongside Ilario Alicante, Max Dean and Ryan Resso. Next up: Distrikt, Leeds on Sat 25 Jul.
 
@@ -32,4 +32,4 @@ Us Two is a tech house and house artist tracked on soundcheck, with 58 sets logg
 
 Ilario Alicante, Max Dean, Ryan Resso
 
-*Updated Thu, 23 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/ustwo/)*
+*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/ustwo/)*

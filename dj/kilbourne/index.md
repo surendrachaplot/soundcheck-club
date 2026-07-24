@@ -1,6 +1,6 @@
 # Kilbourne
 
-Kilbourne is a Techno and Hardcore artist with 3 upcoming club dates listed on soundcheck as of Thu, 23 Jul 2026, next at TBA, Chicago on Sat, 25 Jul 2026.
+Kilbourne is a Techno and Hardcore artist with 3 upcoming club dates listed on soundcheck as of Fri, 24 Jul 2026, next at TBA, Chicago on Sat, 25 Jul 2026.
 
 Kilbourne is a techno and hardcore artist based in United States of America, tracked on soundcheck, with 68 sets logged across Amsterdam, Antwerp, Bangkok and Barcelona and 18 more. Often billed alongside Relaxer, Buzzi and aka-Sol. Next up: TBA, Chicago on Sat 25 Jul.
 
@@ -27,4 +27,4 @@ Kilbourne is a techno and hardcore artist based in United States of America, tra
 
 Relaxer, Buzzi, aka-Sol
 
-*Updated Thu, 23 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/kilbourne/)*
+*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/kilbourne/)*

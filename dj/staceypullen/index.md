@@ -1,6 +1,6 @@
 # Stacey Pullen
 
-Stacey Pullen is a Techno and House artist with 4 upcoming club dates listed on soundcheck as of Thu, 23 Jul 2026, next at Amnesia Ibiza, Ibiza on Tue, 28 Jul 2026.
+Stacey Pullen is a Techno and House artist with 4 upcoming club dates listed on soundcheck as of Fri, 24 Jul 2026, next at Amnesia Ibiza, Ibiza on Tue, 28 Jul 2026.
 
 Stacey Pullen is a techno and house artist tracked on soundcheck, with 115 sets logged across Amsterdam, Austin, Barcelona and Boston and 26 more. Often billed alongside Carl Craig, Soul Clap and DJ Minx. Next up: Amnesia Ibiza, Ibiza on Tue 28 Jul.
 
@@ -28,4 +28,4 @@ Stacey Pullen is a techno and house artist tracked on soundcheck, with 115 sets 
 
 Carl Craig, Soul Clap, DJ Minx
 
-*Updated Thu, 23 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/staceypullen/)*
+*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/staceypullen/)*

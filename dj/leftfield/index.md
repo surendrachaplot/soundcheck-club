@@ -1,6 +1,6 @@
 # Leftfield
 
-Leftfield is a Electronica and House artist with 2 upcoming club dates listed on soundcheck as of Thu, 23 Jul 2026, next at C.S. Lewis Square, London on Sat, 25 Jul 2026.
+Leftfield is a Electronica and House artist with 2 upcoming club dates listed on soundcheck as of Fri, 24 Jul 2026, next at C.S. Lewis Square, London on Sat, 25 Jul 2026.
 
 Leftfield is an electronica and house artist tracked on soundcheck, with 44 sets logged across Amsterdam, Auckland, Belfast and Birmingham and 17 more. Often billed alongside Posthuman, Batu and Ben Sims. Next up: C.S. Lewis Square, London on Sat 25 Jul.
 
@@ -26,4 +26,4 @@ Leftfield is an electronica and house artist tracked on soundcheck, with 44 sets
 
 Posthuman, Batu, Ben Sims
 
-*Updated Thu, 23 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/leftfield/)*
+*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/leftfield/)*

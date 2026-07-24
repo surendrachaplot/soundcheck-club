@@ -1,6 +1,6 @@
 # Technokool
 
-Technokool is a Techno and Trance artist with 2 upcoming club dates listed on soundcheck as of Thu, 23 Jul 2026, next at Kassa Boat, Budapest on Thu, 30 Jul 2026.
+Technokool is a Techno and Trance artist with 2 upcoming club dates listed on soundcheck as of Fri, 24 Jul 2026, next at Kassa Boat, Budapest on Thu, 30 Jul 2026.
 
 Technokool is a techno and trance artist tracked on soundcheck, with 125 sets logged across Belgrade, Berlin, Brussels and Budapest and 12 more. Often billed alongside Akác, Kamafaka and CRIME. Next up: Kassa Boat, Budapest on Thu 30 Jul.
 
@@ -26,4 +26,4 @@ Technokool is a techno and trance artist tracked on soundcheck, with 125 sets lo
 
 Akác, Kamafaka, CRIME
 
-*Updated Thu, 23 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/technokool/)*
+*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/technokool/)*

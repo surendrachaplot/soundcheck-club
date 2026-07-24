@@ -1,6 +1,6 @@
 # Bongomann
 
-Bongomann is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Thu, 23 Jul 2026, next at The Field Across Teletech Park, Singapore on Sat, 25 Jul 2026.
+Bongomann is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Fri, 24 Jul 2026, next at The Field Across Teletech Park, Singapore on Sat, 25 Jul 2026.
 
 Bongomann is a house and techno artist based in Singapore, tracked on soundcheck, with 49 sets logged across Bali, Bangkok, Hongkong and Osaka and 2 more. Often billed alongside Toppings, MUTO (2) and Dexter Colt. Next up: The Field Across Teletech Park, Singapore on Sat 25 Jul.
 
@@ -26,4 +26,4 @@ Bongomann is a house and techno artist based in Singapore, tracked on soundcheck
 
 Toppings, MUTO (2), Dexter Colt
 
-*Updated Thu, 23 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/bongomann/)*
+*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/bongomann/)*

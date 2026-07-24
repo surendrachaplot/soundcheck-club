@@ -1,6 +1,6 @@
 # Mansions Potts Point
 
-Mansions Potts Point is a music venue in Sydney with 4 upcoming nights listed on soundcheck as of Thu, 23 Jul 2026; the next is "Off The Decks Vol. 2" on Fri, 24 Jul 2026.
+Mansions Potts Point is a music venue in Sydney with 4 upcoming nights listed on soundcheck as of Fri, 24 Jul 2026; the next is "Off The Decks Vol. 2" on Fri, 24 Jul 2026.
 
 Mansions Potts Point is a music venue in Sydney listed on soundcheck. 4 upcoming nights, with line-ups including Gakt and Sublunar. Browse upcoming dates, start times and who's playing. 24 Bayswater Rd, Potts Point NSW 2011.
 
@@ -17,4 +17,4 @@ Mansions Potts Point is a music venue in Sydney listed on soundcheck. 4 upcoming
 
 24 Bayswater Rd, Potts Point NSW 2011, Sydney
 
-*Updated Thu, 23 Jul 2026 · source: [soundcheck](https://soundcheck.club/sydney/club/mansions-potts-point/)*
+*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/sydney/club/mansions-potts-point/)*

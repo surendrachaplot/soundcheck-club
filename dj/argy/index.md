@@ -1,6 +1,6 @@
 # Argy
 
-Argy is a Techno and House artist with 4 upcoming club dates listed on soundcheck as of Thu, 23 Jul 2026, next at Café del Mar Malta, Malta on Sat, 1 Aug 2026.
+Argy is a Techno and House artist with 4 upcoming club dates listed on soundcheck as of Fri, 24 Jul 2026, next at Café del Mar Malta, Malta on Sat, 1 Aug 2026.
 
 Argy is a techno and house artist tracked on soundcheck, with 113 sets logged across Amsterdam, Athens, Austin and Bali and 38 more. Often billed alongside Tale Of Us, Artbat and Chris Avantgarde. Next up: Café del Mar Malta, Malta on Sat 1 Aug.
 
@@ -28,4 +28,4 @@ Argy is a techno and house artist tracked on soundcheck, with 113 sets logged ac
 
 Tale Of Us, Artbat, Chris Avantgarde
 
-*Updated Thu, 23 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/argy/)*
+*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/argy/)*

@@ -1,14 +1,13 @@
 # Macadam
 
-Macadam is a music venue in Nantes with 23 upcoming nights listed on soundcheck as of Thu, 23 Jul 2026; the next is "Macadam x Connexion Records • NEBEL ~ SHRED 2000" on Thu, 23 Jul 2026.
+Macadam is a music venue in Nantes with 22 upcoming nights listed on soundcheck as of Fri, 24 Jul 2026; the next is "Macadam x Contrepoint • Fafi Abdel Nour ~ Charleeps ~ Nicco Venier B2B Klud ~ Lélie" on Fri, 24 Jul 2026.
 
-Macadam is a music venue in Nantes listed on soundcheck. 23 upcoming nights, with line-ups including Abr., Alan.D, ANNX and Annyrock and 2 more. Browse upcoming dates, start times and who's playing. 17 rue Jules Launey 44100 Nantes.
+Macadam is a music venue in Nantes listed on soundcheck. 22 upcoming nights, with line-ups including Abr., Alan.D, ANNX and Annyrock and 2 more. Browse upcoming dates, start times and who's playing. 17 rue Jules Launey 44100 Nantes.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Thu, 23 Jul 2026 | Macadam x Connexion Records • NEBEL ~ SHRED 2000 | SHRED 2000 |
 | Fri, 24 Jul 2026 | Macadam x Contrepoint • Fafi Abdel Nour ~ Charleeps ~ Nicco Venier B2B Klud ~ Lélie | Charleeps, Fafi Abdel Nour, Klud |
 | Sat, 25 Jul 2026 | Macadam x Combo Bongos • Bufiman ~ Tia Cousins ~ Vidock | Bufiman, Tia Cousins, Vidock |
 | Sun, 26 Jul 2026 | Gloria Slip Extended with Grace Open Air · Sansibar ~ Caim ~ Taylor Shockley ~ GTI ~ Aasana | Bambi (FR), Caim, GTI, Princ3kx, Sansibar, Taylor Shockley |
@@ -18,9 +17,10 @@ Macadam is a music venue in Nantes listed on soundcheck. 23 upcoming nights, wit
 | Thu, 6 Aug 2026 | Macadam x Collectif 4AEM • Drafter ~ DJ Mâchoire ~ NAR6 | NAR6 |
 | Fri, 7 Aug 2026 | Kluster x Macadam | Philippa Pacho |
 | Sat, 8 Aug 2026 | LENA Extended - Station Nuage+Macadam - Abr. live, YENKOV, Znzl | Abr., YENKOV, Znzl |
+| Sun, 9 Aug 2026 | Gloria with Grace Open Air • Tijana T ~ Maara ~ KEUT ~ Moksha ~ Soyoon ~ PALLAR ~ Boreal | KEUT, Maara, PALLAR, Soyoon, Tijana T |
 
 ## Address
 
 17 rue Jules Launey 44100 Nantes, Nantes
 
-*Updated Thu, 23 Jul 2026 · source: [soundcheck](https://soundcheck.club/nantes/club/macadam/)*
+*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/nantes/club/macadam/)*

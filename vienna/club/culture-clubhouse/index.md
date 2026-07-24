@@ -1,6 +1,6 @@
 # Culture Clubhouse
 
-Culture Clubhouse is a music venue in Vienna with 1 upcoming night listed on soundcheck as of Thu, 23 Jul 2026; the next is "BUMSCHACK" on Sat, 25 Jul 2026.
+Culture Clubhouse is a music venue in Vienna with 1 upcoming night listed on soundcheck as of Fri, 24 Jul 2026; the next is "BUMSCHACK" on Sat, 25 Jul 2026.
 
 Culture Clubhouse is a music venue in Vienna listed on soundcheck. 1 upcoming night. Browse upcoming dates, start times and who's playing. Burggasse 70-72 1070 Vienna.
 
@@ -14,4 +14,4 @@ Culture Clubhouse is a music venue in Vienna listed on soundcheck. 1 upcoming ni
 
 Burggasse 70-72 1070 Vienna, Vienna
 
-*Updated Thu, 23 Jul 2026 · source: [soundcheck](https://soundcheck.club/vienna/club/culture-clubhouse/)*
+*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/vienna/club/culture-clubhouse/)*

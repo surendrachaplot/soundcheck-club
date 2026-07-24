@@ -1,6 +1,6 @@
 # Circolo Magnolia
 
-Circolo Magnolia is a music venue in Milan with 5 upcoming nights listed on soundcheck as of Thu, 23 Jul 2026; the next is "Le Cannibale & Magnolia - Fritz Kalkbrenner, Lele Sacchi" on Fri, 24 Jul 2026.
+Circolo Magnolia is a music venue in Milan with 5 upcoming nights listed on soundcheck as of Fri, 24 Jul 2026; the next is "Le Cannibale & Magnolia - Fritz Kalkbrenner, Lele Sacchi" on Fri, 24 Jul 2026.
 
 Circolo Magnolia is a music venue in Milan listed on soundcheck. 5 upcoming nights, with line-ups including Andrea Isella, Ely Oaks, F.U.R.O. and Fritz Kalkbrenner and 2 more. Browse upcoming dates, start times and who's playing. Via Circonvallazione Idroscalo, 20090 Segrate (MI), Italy.
 
@@ -18,4 +18,4 @@ Circolo Magnolia is a music venue in Milan listed on soundcheck. 5 upcoming nigh
 
 Via Circonvallazione Idroscalo, 20090 Segrate (MI), Italy, Milan
 
-*Updated Thu, 23 Jul 2026 · source: [soundcheck](https://soundcheck.club/milan/club/circolo-magnolia/)*
+*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/milan/club/circolo-magnolia/)*

@@ -1,6 +1,6 @@
 # New Forms
 
-New Forms is a music venue in London with 1 upcoming night listed on soundcheck as of Thu, 23 Jul 2026; the next is "leverson x New Forms (vinyl set)" on Thu, 30 Jul 2026.
+New Forms is a music venue in London with 1 upcoming night listed on soundcheck as of Fri, 24 Jul 2026; the next is "leverson x New Forms (vinyl set)" on Thu, 30 Jul 2026.
 
 New Forms is a music venue in London listed on soundcheck. 1 upcoming night, with line-ups including leverson. Browse upcoming dates, start times and who's playing. 9 Chelsea Manor St, London SW3 3TW.
 
@@ -14,4 +14,4 @@ New Forms is a music venue in London listed on soundcheck. 1 upcoming night, wit
 
 9 Chelsea Manor St, London SW3 3TW, London
 
-*Updated Thu, 23 Jul 2026 · source: [soundcheck](https://soundcheck.club/london/club/new-forms/)*
+*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/london/club/new-forms/)*

@@ -1,6 +1,6 @@
 # Not For Sale Gallery
 
-Not For Sale Gallery is a music venue in London with 2 upcoming nights listed on soundcheck as of Thu, 23 Jul 2026; the next is "Hen.D Multiplier Album Launch" on Sat, 25 Jul 2026.
+Not For Sale Gallery is a music venue in London with 2 upcoming nights listed on soundcheck as of Fri, 24 Jul 2026; the next is "Hen.D Multiplier Album Launch" on Sat, 25 Jul 2026.
 
 Not For Sale Gallery is a music venue in London listed on soundcheck. 2 upcoming nights, with line-ups including Alex Banks and Stylus Rex. Browse upcoming dates, start times and who's playing. 83 Smeed Road, Hackney Wick, E3 2NR.
 
@@ -15,4 +15,4 @@ Not For Sale Gallery is a music venue in London listed on soundcheck. 2 upcoming
 
 83 Smeed Road, Hackney Wick, E3 2NR, London
 
-*Updated Thu, 23 Jul 2026 · source: [soundcheck](https://soundcheck.club/london/club/not-for-sale-gallery/)*
+*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/london/club/not-for-sale-gallery/)*

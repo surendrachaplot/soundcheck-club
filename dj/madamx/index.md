@@ -1,6 +1,6 @@
 # Madam X
 
-Madam X is a Bass and Techno artist with 2 upcoming club dates listed on soundcheck as of Thu, 23 Jul 2026, next at Podlasie Club, Chicago on Fri, 31 Jul 2026.
+Madam X is a Bass and Techno artist with 2 upcoming club dates listed on soundcheck as of Fri, 24 Jul 2026, next at Podlasie Club, Chicago on Fri, 31 Jul 2026.
 
 Madam X is a bass and techno artist based in United Kingdom, tracked on soundcheck, with 99 sets logged across Athens, Auckland, Bangkok and Berlin and 30 more. Often billed alongside Poor J’Darr, Jay Carder and Debba. Next up: Podlasie Club, Chicago on Fri 31 Jul.
 
@@ -26,4 +26,4 @@ Madam X is a bass and techno artist based in United Kingdom, tracked on soundche
 
 Poor J’Darr, Jay Carder, Debba
 
-*Updated Thu, 23 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/madamx/)*
+*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/madamx/)*

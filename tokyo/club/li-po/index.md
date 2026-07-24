@@ -1,6 +1,6 @@
 # Li Po
 
-Li Po is a music venue in Tokyo with 1 upcoming night listed on soundcheck as of Thu, 23 Jul 2026; the next is "Progressive Insurance Pay Bill by Phone — Step-by-Step Process 2026" on Sat, 25 Jul 2026.
+Li Po is a music venue in Tokyo with 1 upcoming night listed on soundcheck as of Fri, 24 Jul 2026; the next is "Progressive Insurance Pay Bill by Phone — Step-by-Step Process 2026" on Sat, 25 Jul 2026.
 
 Li Po is a music venue in Tokyo listed on soundcheck. 1 upcoming night, with line-ups including Alaska (2), AMEX (UK), APP and Debit and 2 more. Browse upcoming dates, start times and who's playing. 4F 3-22-11 Shibuya, Shibuya-ku, Tokyo, 150-0002.
 
@@ -14,4 +14,4 @@ Li Po is a music venue in Tokyo listed on soundcheck. 1 upcoming night, with lin
 
 4F 3-22-11 Shibuya, Shibuya-ku, Tokyo, 150-0002, Tokyo
 
-*Updated Thu, 23 Jul 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/li-po/)*
+*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/li-po/)*

@@ -1,6 +1,6 @@
 # The Cross
 
-The Cross is a music venue in London with 4 upcoming nights listed on soundcheck as of Thu, 23 Jul 2026; the next is "Nocte ldn" on Sat, 25 Jul 2026.
+The Cross is a music venue in London with 4 upcoming nights listed on soundcheck as of Fri, 24 Jul 2026; the next is "Nocte ldn" on Sat, 25 Jul 2026.
 
 The Cross is a music venue in London listed on soundcheck. 4 upcoming nights, with line-ups including Ashleigh De-Niro, FrezZ, Jeremy Healy and Juan San Lucas and 2 more. Browse upcoming dates, start times and who's playing. The Cross, 2-4, Wharfdale Rd, N1 9RY.
 
@@ -17,4 +17,4 @@ The Cross is a music venue in London listed on soundcheck. 4 upcoming nights, wi
 
 The Cross, 2-4, Wharfdale Rd, N1 9RY, London
 
-*Updated Thu, 23 Jul 2026 · source: [soundcheck](https://soundcheck.club/london/club/the-cross/)*
+*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/london/club/the-cross/)*

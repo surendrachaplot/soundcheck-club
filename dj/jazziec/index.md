@@ -1,6 +1,6 @@
 # Jazzie C
 
-Jazzie C is a House and Deep House artist with 3 upcoming club dates listed on soundcheck as of Thu, 23 Jul 2026, next at 12 x 12, Bangkok on Fri, 24 Jul 2026.
+Jazzie C is a House and Deep House artist with 3 upcoming club dates listed on soundcheck as of Fri, 24 Jul 2026, next at 12 x 12, Bangkok on Fri, 24 Jul 2026.
 
 Jazzie C is a house and deep house artist based in France, tracked on soundcheck, with 18 sets logged across Bangkok and Nantes. Often billed alongside THEOS (1), Alan.D and Slowlygreen. Next up: 12 x 12, Bangkok on Fri 24 Jul.
 
@@ -27,4 +27,4 @@ Jazzie C is a house and deep house artist based in France, tracked on soundcheck
 
 THEOS (1), Alan.D, Slowlygreen
 
-*Updated Thu, 23 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/jazziec/)*
+*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/jazziec/)*

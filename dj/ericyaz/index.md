@@ -1,6 +1,6 @@
 # Eric Yaz
 
-Eric Yaz is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Thu, 23 Jul 2026, next at La Fabrica, Washington DC on Sat, 25 Jul 2026.
+Eric Yaz is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Fri, 24 Jul 2026, next at La Fabrica, Washington DC on Sat, 25 Jul 2026.
 
 Eric Yaz is a techno and house artist tracked on soundcheck, with 59 sets logged across Detroit, Miami, Newyorkcity and Sandiego and 1 more. Often billed alongside SPCL.K, Xav (US) and Stagira. Next up: La Fabrica, Washingtondc on Sat 25 Jul.
 
@@ -26,4 +26,4 @@ Eric Yaz is a techno and house artist tracked on soundcheck, with 59 sets logged
 
 SPCL.K, Xav (US), Stagira
 
-*Updated Thu, 23 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/ericyaz/)*
+*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/ericyaz/)*

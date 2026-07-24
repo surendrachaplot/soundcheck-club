@@ -1,6 +1,6 @@
 # Crate Brewery
 
-Crate Brewery is a music venue in London with 7 upcoming nights listed on soundcheck as of Thu, 23 Jul 2026; the next is "Alex Kassian - All Day Long - SOLD OUT" on Sat, 25 Jul 2026.
+Crate Brewery is a music venue in London with 7 upcoming nights listed on soundcheck as of Fri, 24 Jul 2026; the next is "Alex Kassian - All Day Long - SOLD OUT" on Sat, 25 Jul 2026.
 
 Crate Brewery is a music venue in London listed on soundcheck. 7 upcoming nights, with line-ups including Alec Falconer, Alex Kassian, BÁHDO and BK86 and 2 more. Browse upcoming dates, start times and who's playing. Unit 7; Queens Yard; Hackney Wick; London E9 5EN.
 
@@ -20,4 +20,4 @@ Crate Brewery is a music venue in London listed on soundcheck. 7 upcoming nights
 
 Unit 7; Queens Yard; Hackney Wick; London E9 5EN, London
 
-*Updated Thu, 23 Jul 2026 · source: [soundcheck](https://soundcheck.club/london/club/crate-brewery/)*
+*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/london/club/crate-brewery/)*

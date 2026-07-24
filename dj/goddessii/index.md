@@ -1,6 +1,6 @@
 # Goddess II
 
-Goddess II is a House and Tech House artist with 3 upcoming club dates listed on soundcheck as of Thu, 23 Jul 2026, next at Ministry Of Sound, London on Fri, 24 Jul 2026.
+Goddess II is a House and Tech House artist with 3 upcoming club dates listed on soundcheck as of Fri, 24 Jul 2026, next at Ministry Of Sound, London on Fri, 24 Jul 2026.
 
 Goddess II is a house and tech house artist based in United Kingdom, tracked on soundcheck, with 19 sets logged across London. Often billed alongside DJ LIL-E, Eseccaro and 10:35. Next up: Ministry Of Sound, London on Fri 24 Jul.
 
@@ -27,4 +27,4 @@ Goddess II is a house and tech house artist based in United Kingdom, tracked on 
 
 DJ LIL-E, Eseccaro, 10:35
 
-*Updated Thu, 23 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/goddessii/)*
+*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/goddessii/)*

@@ -1,6 +1,6 @@
 # Dizzy
 
-Dizzy is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Thu, 23 Jul 2026, next at Mia Mao, Paris on Fri, 28 Aug 2026.
+Dizzy is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Fri, 24 Jul 2026, next at Mia Mao, Paris on Fri, 28 Aug 2026.
 
 Dizzy is a techno and house artist based in Italy, tracked on soundcheck, with 35 sets logged across Berlin, Lisbon, London and Miami and 5 more. Often billed alongside Pabie, Brasi and Dario Lem. Next up: Mia Mao, Paris on Fri 28 Aug.
 
@@ -27,4 +27,4 @@ Dizzy is a techno and house artist based in Italy, tracked on soundcheck, with 3
 
 Pabie, Brasi, Dario Lem
 
-*Updated Thu, 23 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/dizzy/)*
+*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/dizzy/)*

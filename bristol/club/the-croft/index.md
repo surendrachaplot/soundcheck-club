@@ -1,6 +1,6 @@
 # The Croft
 
-The Croft is a music venue in Bristol with 2 upcoming nights listed on soundcheck as of Thu, 23 Jul 2026; the next is "DOGWATER - BAILE BLEND" on Fri, 24 Jul 2026.
+The Croft is a music venue in Bristol with 2 upcoming nights listed on soundcheck as of Fri, 24 Jul 2026; the next is "DOGWATER - BAILE BLEND" on Fri, 24 Jul 2026.
 
 The Croft is a music venue in Bristol listed on soundcheck. 2 upcoming nights, with line-ups including G-Class and Scuffed. Browse upcoming dates, start times and who's playing. 117-119 Stokes Croft, Bristol, BS1 3RW, United Kingdom.
 
@@ -15,4 +15,4 @@ The Croft is a music venue in Bristol listed on soundcheck. 2 upcoming nights, w
 
 117-119 Stokes Croft, Bristol, BS1 3RW, United Kingdom, Bristol
 
-*Updated Thu, 23 Jul 2026 · source: [soundcheck](https://soundcheck.club/bristol/club/the-croft/)*
+*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/bristol/club/the-croft/)*

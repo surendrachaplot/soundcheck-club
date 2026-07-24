@@ -1,6 +1,6 @@
 # Houston Hall
 
-Houston Hall is a music venue in New York City with 2 upcoming nights listed on soundcheck as of Thu, 23 Jul 2026; the next is "Molly & June's Honky Tonk: Houston Hall Pop-Up" on Fri, 24 Jul 2026.
+Houston Hall is a music venue in New York City with 2 upcoming nights listed on soundcheck as of Fri, 24 Jul 2026; the next is "Molly & June's Honky Tonk: Houston Hall Pop-Up" on Fri, 24 Jul 2026.
 
 Houston Hall is a music venue in Newyorkcity listed on soundcheck. 2 upcoming nights. Browse upcoming dates, start times and who's playing. 222 W Houston St New York NY United States 10014.
 
@@ -15,4 +15,4 @@ Houston Hall is a music venue in Newyorkcity listed on soundcheck. 2 upcoming ni
 
 222 W Houston St New York NY United States 10014, New York City
 
-*Updated Thu, 23 Jul 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/houston-hall/)*
+*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/houston-hall/)*

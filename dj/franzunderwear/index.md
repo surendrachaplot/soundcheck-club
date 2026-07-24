@@ -1,6 +1,6 @@
 # Franz Scala
 
-Franz Scala is a Italo Disco and House artist with 7 upcoming club dates listed on soundcheck as of Thu, 23 Jul 2026, next at Hang Dai Chinese, Dublin on Fri, 31 Jul 2026.
+Franz Scala is a Italo Disco and House artist with 7 upcoming club dates listed on soundcheck as of Fri, 24 Jul 2026, next at Hang Dai Chinese, Dublin on Fri, 31 Jul 2026.
 
 Franz Scala is an italo disco and house artist tracked on soundcheck, with 159 sets logged across Amsterdam, Antwerp, Austin and Bangkok and 26 more. Often billed alongside Fabrizio Mammarella, Giulia Gutterer and Paty Vapor. Next up: Hang Dai Chinese, Dublin on Fri 31 Jul.
 
@@ -31,4 +31,4 @@ Franz Scala is an italo disco and house artist tracked on soundcheck, with 159 s
 
 Fabrizio Mammarella, Giulia Gutterer, Paty Vapor
 
-*Updated Thu, 23 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/franzunderwear/)*
+*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/franzunderwear/)*

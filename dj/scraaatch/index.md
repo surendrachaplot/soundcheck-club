@@ -1,6 +1,6 @@
 # SCRAAATCH
 
-SCRAAATCH is a Experimental and Techno artist with 3 upcoming club dates listed on soundcheck as of Thu, 23 Jul 2026, next at MoMA PS1, New York City on Fri, 31 Jul 2026.
+SCRAAATCH is a Experimental and Techno artist with 3 upcoming club dates listed on soundcheck as of Fri, 24 Jul 2026, next at MoMA PS1, New York City on Fri, 31 Jul 2026.
 
 SCRAAATCH is an experimental and techno artist based in United States of America, tracked on soundcheck, with 19 sets logged across Newyorkcity and Philadelphia. Often billed alongside chuki, MHYSA and 1morning. Next up: MoMA PS1, Newyorkcity on Fri 31 Jul.
 
@@ -27,4 +27,4 @@ SCRAAATCH is an experimental and techno artist based in United States of America
 
 chuki, MHYSA, 1morning
 
-*Updated Thu, 23 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/scraaatch/)*
+*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/scraaatch/)*

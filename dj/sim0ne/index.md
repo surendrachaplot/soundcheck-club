@@ -1,6 +1,6 @@
 # sim0ne
 
-sim0ne is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Thu, 23 Jul 2026, next at Green Room NYC, New York City on Sat, 1 Aug 2026.
+sim0ne is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Fri, 24 Jul 2026, next at Green Room NYC, New York City on Sat, 1 Aug 2026.
 
 sim0ne is a techno and house artist tracked on soundcheck, with 103 sets logged across Aberdeen, Amsterdam, Antwerp and Auckland and 35 more. Often billed alongside Juicy Romance, DJ Heartstring and MALUGI. Next up: Green Room NYC, Newyorkcity on Sat 1 Aug.
 
@@ -27,4 +27,4 @@ sim0ne is a techno and house artist tracked on soundcheck, with 103 sets logged 
 
 Juicy Romance, DJ Heartstring, MALUGI
 
-*Updated Thu, 23 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/sim0ne/)*
+*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/sim0ne/)*

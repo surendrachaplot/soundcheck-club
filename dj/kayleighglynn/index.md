@@ -1,6 +1,6 @@
 # Kayleigh Glynn
 
-Kayleigh Glynn is a Electronica and Techno artist with 3 upcoming club dates listed on soundcheck as of Thu, 23 Jul 2026, next at O Beach, Ibiza on Sun, 2 Aug 2026.
+Kayleigh Glynn is a Electronica and Techno artist with 3 upcoming club dates listed on soundcheck as of Fri, 24 Jul 2026, next at O Beach, Ibiza on Sun, 2 Aug 2026.
 
 Kayleigh Glynn is an electronica and techno artist based in Ireland, tracked on soundcheck, with 20 sets logged across Belfast, Dublin and Ibiza. Often billed alongside Kaycee, LAMMER and A K. Next up: O Beach, Ibiza on Sun 2 Aug.
 
@@ -27,4 +27,4 @@ Kayleigh Glynn is an electronica and techno artist based in Ireland, tracked on 
 
 Kaycee, LAMMER, A K
 
-*Updated Thu, 23 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/kayleighglynn/)*
+*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/kayleighglynn/)*

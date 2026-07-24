@@ -1,6 +1,6 @@
 # Hayden James
 
-Hayden James is a House and Deep House artist with 4 upcoming club dates listed on soundcheck as of Thu, 23 Jul 2026, next at Savaya Bali, Bali on Sat, 1 Aug 2026.
+Hayden James is a House and Deep House artist with 4 upcoming club dates listed on soundcheck as of Fri, 24 Jul 2026, next at Savaya Bali, Bali on Sat, 1 Aug 2026.
 
 Hayden James is a house and deep house artist tracked on soundcheck, with 52 sets logged across Austin, Bali, Barcelona and Boston and 16 more. Often billed alongside Gorgon City, Claptone and Eli & Fur. Next up: Savaya Bali, Bali on Sat 1 Aug.
 
@@ -28,4 +28,4 @@ Hayden James is a house and deep house artist tracked on soundcheck, with 52 set
 
 Gorgon City, Claptone, Eli & Fur
 
-*Updated Thu, 23 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/haydenjames/)*
+*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/haydenjames/)*

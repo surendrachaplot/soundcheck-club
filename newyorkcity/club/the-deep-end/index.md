@@ -1,6 +1,6 @@
 # The Deep End
 
-The Deep End is a music venue in New York City with 3 upcoming nights listed on soundcheck as of Thu, 23 Jul 2026; the next is "LAVACORE" on Sat, 1 Aug 2026.
+The Deep End is a music venue in New York City with 3 upcoming nights listed on soundcheck as of Fri, 24 Jul 2026; the next is "LAVACORE" on Sat, 1 Aug 2026.
 
 The Deep End is a music venue in Newyorkcity listed on soundcheck. 3 upcoming nights, with line-ups including a.gar, AJACENT, NIT SU J. and Pablo Vitale and 2 more. Browse upcoming dates, start times and who's playing. 1080 Wyckoff Ave, Ridgewood, NY 11385, USA.
 
@@ -16,4 +16,4 @@ The Deep End is a music venue in Newyorkcity listed on soundcheck. 3 upcoming ni
 
 1080 Wyckoff Ave, Ridgewood, NY 11385, USA, New York City
 
-*Updated Thu, 23 Jul 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/the-deep-end/)*
+*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/the-deep-end/)*

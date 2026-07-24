@@ -1,6 +1,6 @@
 # Raleigh
 
-Raleigh is a Techno and Trance artist with 6 upcoming club dates listed on soundcheck as of Thu, 23 Jul 2026, next at XOYO Birmingham, Birmingham on Sat, 25 Jul 2026.
+Raleigh is a Techno and Trance artist with 6 upcoming club dates listed on soundcheck as of Fri, 24 Jul 2026, next at XOYO Birmingham, Birmingham on Sat, 25 Jul 2026.
 
 Raleigh is a techno and trance artist based in Czech Republic, tracked on soundcheck, with 34 sets logged across Barcelona, Berlin, Birmingham and London and 5 more. Often billed alongside Alfred Czital, Yan (CZ) and Zeynep. Next up: XOYO Birmingham, Birmingham on Sat 25 Jul.
 
@@ -30,4 +30,4 @@ Raleigh is a techno and trance artist based in Czech Republic, tracked on soundc
 
 Alfred Czital, Yan (CZ), Zeynep
 
-*Updated Thu, 23 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/raleigh/)*
+*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/raleigh/)*

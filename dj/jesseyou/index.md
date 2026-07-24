@@ -1,6 +1,6 @@
 # Jesse You
 
-Jesse You is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Thu, 23 Jul 2026, next at Paper, Seoul on Fri, 24 Jul 2026.
+Jesse You is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Fri, 24 Jul 2026, next at Paper, Seoul on Fri, 24 Jul 2026.
 
 Jesse You is a house and techno artist based in South Korea, tracked on soundcheck, with 213 sets logged across Bali, Bangkok, Barcelona and Frankfurt and 10 more. Often billed alongside JNS, Jucid and Jimin. Next up: Paper, Seoul on Fri 24 Jul.
 
@@ -27,4 +27,4 @@ Jesse You is a house and techno artist based in South Korea, tracked on soundche
 
 JNS, Jucid, Jimin
 
-*Updated Thu, 23 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/jesseyou/)*
+*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/jesseyou/)*

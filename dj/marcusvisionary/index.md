@@ -1,6 +1,6 @@
 # Marcus Visionary
 
-Marcus Visionary is a Drum & Bass and Jungle artist with 2 upcoming club dates listed on soundcheck as of Thu, 23 Jul 2026, next at Le Red Room, Montreal on Thu, 30 Jul 2026.
+Marcus Visionary is a Drum & Bass and Jungle artist with 2 upcoming club dates listed on soundcheck as of Fri, 24 Jul 2026, next at Le Red Room, Montreal on Thu, 30 Jul 2026.
 
 Marcus Visionary is a drum & bass and jungle artist tracked on soundcheck, with 42 sets logged across Bristol, Leipzig, Losangeles and Montreal and 3 more. Often billed alongside Elixah, Rumbleton and SZETO. Next up: Le Red Room, Montreal on Thu 30 Jul.
 
@@ -26,4 +26,4 @@ Marcus Visionary is a drum & bass and jungle artist tracked on soundcheck, with 
 
 Elixah, Rumbleton, SZETO
 
-*Updated Thu, 23 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/marcusvisionary/)*
+*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/marcusvisionary/)*

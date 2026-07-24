@@ -1,6 +1,6 @@
 # SENERGI
 
-SENERGI is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Thu, 23 Jul 2026, next at ÆDEN x MARMORBAR: Fields & Spaces, Berlin on Sat, 25 Jul 2026.
+SENERGI is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Fri, 24 Jul 2026, next at ÆDEN x MARMORBAR: Fields & Spaces, Berlin on Sat, 25 Jul 2026.
 
 SENERGI is a house and techno artist based in Spain, tracked on soundcheck, with 61 sets logged across Barcelona, Berlin, Kyoto and Madrid and 2 more. Often billed alongside Ines Cartas, Agua con gas and INGI (1). Next up: ÆDEN x MARMORBAR: Fields & Spaces, Berlin on Sat 25 Jul.
 
@@ -26,4 +26,4 @@ SENERGI is a house and techno artist based in Spain, tracked on soundcheck, with
 
 Ines Cartas, Agua con gas, INGI (1)
 
-*Updated Thu, 23 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/senergi/)*
+*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/senergi/)*

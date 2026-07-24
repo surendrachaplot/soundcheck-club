@@ -1,14 +1,13 @@
 # Kilomètre25
 
-Kilomètre25 is a music venue in Paris with 19 upcoming nights listed on soundcheck as of Thu, 23 Jul 2026; the next is "ØXYL: ADB, ARGOT, Cattoni, ETERA, Grand V & Varya Karpova" on Thu, 23 Jul 2026.
+Kilomètre25 is a music venue in Paris with 18 upcoming nights listed on soundcheck as of Fri, 24 Jul 2026; the next is "2Much: Paralich, Canelle Doublekick, KIM SWIM, KLING&KLANG" on Fri, 24 Jul 2026.
 
-Kilomètre25 is a music venue in Paris listed on soundcheck. 19 upcoming nights, with line-ups including ADB (FR), Airod, ALT8 and Antonym and 2 more. Browse upcoming dates, start times and who's playing. 8 Boulevard MacDonald 75019 Paris.
+Kilomètre25 is a music venue in Paris listed on soundcheck. 18 upcoming nights, with line-ups including Airod, ALT8, Antonym and A*S*Y*S (2) and 2 more. Browse upcoming dates, start times and who's playing. 8 Boulevard MacDonald 75019 Paris.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Thu, 23 Jul 2026 | ØXYL: ADB, ARGOT, Cattoni, ETERA, Grand V & Varya Karpova | ADB (FR), ARGOT, Cattoni, Grand V, Varya Karpova |
 | Fri, 24 Jul 2026 | 2Much: Paralich, Canelle Doublekick, KIM SWIM, KLING&KLANG | Antonym, Canelle Doublekick, KIM SWIM, KLING&KLANG, Paralich |
 | Sat, 25 Jul 2026 | Organïk: RAGETRAIN, BØERY, TITI, Ema Leo, Soraä & MORE | BØĘRY, Ema Leo, Omni, Soraä, Wolverave |
 | Thu, 30 Jul 2026 | TAKE HIT: Rian Wood, Zaphy, KD/MS, Mon.To | Mon.To, Rian Wood, Zaphy |
@@ -18,9 +17,10 @@ Kilomètre25 is a music venue in Paris listed on soundcheck. 19 upcoming nights,
 | Fri, 7 Aug 2026 | House Of Groove: Black Loops, Cezaire, Matthieu Faubourg | Axelle Maga, Black Loops, Cezaire, Matthieu Faubourg |
 | Sat, 8 Aug 2026 | THUNDER: Cristobal Pesce, Cera Khin, NIVK, NYCO | BETÏSES, Cera Khin, Cristobal Pesce, Nyco (FR) |
 | Thu, 13 Aug 2026 | ABSTRACT PROTOCOL : UZI NAS, RAWCO, INIMA & MORE | Sasa |
+| Fri, 14 Aug 2026 | ØXYL: BENNETT, Trancemaster Krause, A5KM, KIRK, Lokier | BENNETT, Lokier, Trancemaster Krause, Westfall |
 
 ## Address
 
 8 Boulevard MacDonald 75019 Paris, Paris
 
-*Updated Thu, 23 Jul 2026 · source: [soundcheck](https://soundcheck.club/paris/club/kilom-tre25/)*
+*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/paris/club/kilom-tre25/)*

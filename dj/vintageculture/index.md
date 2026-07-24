@@ -1,6 +1,6 @@
 # Vintage Culture
 
-Vintage Culture is a House and Tech House artist with 7 upcoming club dates listed on soundcheck as of Thu, 23 Jul 2026, next at TBA - Hollywood Park adjacent to SoFi Stadium, Los Angeles on Sat, 1 Aug 2026.
+Vintage Culture is a House and Tech House artist with 7 upcoming club dates listed on soundcheck as of Fri, 24 Jul 2026, next at TBA - Hollywood Park adjacent to SoFi Stadium, Los Angeles on Sat, 1 Aug 2026.
 
 Vintage Culture is a house and tech house artist tracked on soundcheck, with 186 sets logged across Amsterdam, Athens, Austin and Bali and 37 more. Often billed alongside FISHER, Andrea Oliva and Franky Rizardo. Next up: TBA - Hollywood Park adjacent to SoFi Stadium, Losangeles on Sat 1 Aug.
 
@@ -31,4 +31,4 @@ Vintage Culture is a house and tech house artist tracked on soundcheck, with 186
 
 FISHER, Andrea Oliva, Franky Rizardo
 
-*Updated Thu, 23 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/vintageculture/)*
+*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/vintageculture/)*

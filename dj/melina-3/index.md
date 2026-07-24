@@ -1,6 +1,6 @@
 # MELINA (3)
 
-MELINA (3) is a Tech House and Techno artist with 4 upcoming club dates listed on soundcheck as of Thu, 23 Jul 2026, next at Golden Pudel Club, Hamburg on Fri, 24 Jul 2026.
+MELINA (3) is a Tech House and Techno artist with 4 upcoming club dates listed on soundcheck as of Fri, 24 Jul 2026, next at Golden Pudel Club, Hamburg on Fri, 24 Jul 2026.
 
 MELINA (3) is a tech house and techno artist based in Germany, tracked on soundcheck, with 66 sets logged across Amsterdam, Berlin, Copenhagen and Frankfurt and 8 more. Often billed alongside Jakob Seidensticker, Wareika and Bardia Salour. Next up: Golden Pudel Club, Hamburg on Fri 24 Jul.
 
@@ -28,4 +28,4 @@ MELINA (3) is a tech house and techno artist based in Germany, tracked on soundc
 
 Jakob Seidensticker, Wareika, Bardia Salour
 
-*Updated Thu, 23 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/melina-3/)*
+*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/melina-3/)*

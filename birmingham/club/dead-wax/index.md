@@ -1,6 +1,6 @@
 # Dead Wax
 
-Dead Wax is a music venue in Birmingham with 1 upcoming night listed on soundcheck as of Thu, 23 Jul 2026; the next is "The Unspeakable x Ishy presents: BODY LANGUAGE" on Fri, 7 Aug 2026.
+Dead Wax is a music venue in Birmingham with 1 upcoming night listed on soundcheck as of Fri, 24 Jul 2026; the next is "The Unspeakable x Ishy presents: BODY LANGUAGE" on Fri, 7 Aug 2026.
 
 Dead Wax is a music venue in Birmingham listed on soundcheck. 1 upcoming night, with line-ups including Alex Naz, Reon Vanger and SOULQU3ST. Browse upcoming dates, start times and who's playing. 28 Adderley St, Birmingham B9 4ED.
 
@@ -14,4 +14,4 @@ Dead Wax is a music venue in Birmingham listed on soundcheck. 1 upcoming night, 
 
 28 Adderley St, Birmingham B9 4ED, Birmingham
 
-*Updated Thu, 23 Jul 2026 · source: [soundcheck](https://soundcheck.club/birmingham/club/dead-wax/)*
+*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/birmingham/club/dead-wax/)*

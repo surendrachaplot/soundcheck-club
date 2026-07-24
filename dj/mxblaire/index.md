@@ -1,6 +1,6 @@
 # Mx. Blaire
 
-Mx. Blaire is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Thu, 23 Jul 2026, next at House of Yes, New York City on Fri, 24 Jul 2026.
+Mx. Blaire is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Fri, 24 Jul 2026, next at House of Yes, New York City on Fri, 24 Jul 2026.
 
 Mx. Blaire is a house and techno artist tracked on soundcheck, with 51 sets logged across Berlin, Boston, Chicago and Detroit and 3 more. Often billed alongside Adam Unknown, Jordan Graham and Math3ca. Next up: House of Yes, Newyorkcity on Fri 24 Jul.
 
@@ -26,4 +26,4 @@ Mx. Blaire is a house and techno artist tracked on soundcheck, with 51 sets logg
 
 Adam Unknown, Jordan Graham, Math3ca
 
-*Updated Thu, 23 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/mxblaire/)*
+*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/mxblaire/)*

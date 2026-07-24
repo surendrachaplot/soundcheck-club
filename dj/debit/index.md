@@ -1,8 +1,8 @@
 # Debit
 
-Debit is a Techno and Experimental artist with 115 upcoming club dates listed on soundcheck as of Thu, 23 Jul 2026, next at Institut fuer Zukunft (IfZ), Leipzig on Sat, 25 Jul 2026.
+Debit is a Techno and Experimental artist with 125 upcoming club dates listed on soundcheck as of Fri, 24 Jul 2026, next at Institut fuer Zukunft (IfZ), Leipzig on Sat, 25 Jul 2026.
 
-Debit is a techno and experimental artist based in United States of America, tracked on soundcheck, with 152 sets logged across Amsterdam, Antwerp, Austin and Bali and 46 more. Often billed alongside AMEX (UK), APP and Alaska (2). Next up: Institut fuer Zukunft (IfZ), Leipzig on Sat 25 Jul.
+Debit is a techno and experimental artist based in United States of America, tracked on soundcheck, with 162 sets logged across Amsterdam, Antwerp, Austin and Bali and 46 more. Often billed alongside AMEX (UK), APP and Alaska (2). Next up: Institut fuer Zukunft (IfZ), Leipzig on Sat 25 Jul.
 
 ## Upcoming shows
 
@@ -36,4 +36,4 @@ Debit is a techno and experimental artist based in United States of America, tra
 
 AMEX (UK), APP, Alaska (2)
 
-*Updated Thu, 23 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/debit/)*
+*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/debit/)*

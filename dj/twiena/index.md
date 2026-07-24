@@ -1,6 +1,6 @@
 # TWIENA
 
-TWIENA is a Techno and House artist with 8 upcoming club dates listed on soundcheck as of Thu, 23 Jul 2026, next at RSO.BERLIN, Berlin on Fri, 24 Jul 2026.
+TWIENA is a Techno and House artist with 8 upcoming club dates listed on soundcheck as of Fri, 24 Jul 2026, next at RSO.BERLIN, Berlin on Fri, 24 Jul 2026.
 
 TWIENA is a techno and house artist tracked on soundcheck, with 117 sets logged across Amsterdam, Barcelona, Berlin and Brussels and 11 more. Often billed alongside Doppelgang, Mary Lake and Faustin (NL). Next up: RSO.BERLIN, Berlin on Fri 24 Jul.
 
@@ -32,4 +32,4 @@ TWIENA is a techno and house artist tracked on soundcheck, with 117 sets logged 
 
 Doppelgang, Mary Lake, Faustin (NL)
 
-*Updated Thu, 23 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/twiena/)*
+*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/twiena/)*

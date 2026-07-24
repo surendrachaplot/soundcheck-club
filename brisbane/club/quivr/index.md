@@ -1,6 +1,6 @@
 # QUIVR
 
-QUIVR is a music venue in Brisbane with 2 upcoming nights listed on soundcheck as of Thu, 23 Jul 2026; the next is "Bump City" on Sat, 25 Jul 2026.
+QUIVR is a music venue in Brisbane with 2 upcoming nights listed on soundcheck as of Fri, 24 Jul 2026; the next is "Bump City" on Sat, 25 Jul 2026.
 
 QUIVR is a music venue in Brisbane listed on soundcheck. 2 upcoming nights, with line-ups including Limestone Cowboy and WAHL. Browse upcoming dates, start times and who's playing. 5m Winn Lane, Fortitude Valley QLD 4006.
 
@@ -15,4 +15,4 @@ QUIVR is a music venue in Brisbane listed on soundcheck. 2 upcoming nights, with
 
 5m Winn Lane, Fortitude Valley QLD 4006, Brisbane
 
-*Updated Thu, 23 Jul 2026 · source: [soundcheck](https://soundcheck.club/brisbane/club/quivr/)*
+*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/brisbane/club/quivr/)*

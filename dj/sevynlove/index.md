@@ -1,6 +1,6 @@
 # Sevyn Love
 
-Sevyn Love is a Techno and House artist with 6 upcoming club dates listed on soundcheck as of Thu, 23 Jul 2026, next at Club Rawhide, New York City on Fri, 24 Jul 2026.
+Sevyn Love is a Techno and House artist with 6 upcoming club dates listed on soundcheck as of Fri, 24 Jul 2026, next at Club Rawhide, New York City on Fri, 24 Jul 2026.
 
 Sevyn Love is a techno and house artist tracked on soundcheck, with 68 sets logged across Newyorkcity and Philadelphia. Often billed alongside DJPT, Dr. Fruit and LOKA (US). Next up: Club Rawhide, Newyorkcity on Fri 24 Jul.
 
@@ -30,4 +30,4 @@ Sevyn Love is a techno and house artist tracked on soundcheck, with 68 sets logg
 
 DJPT, Dr. Fruit, LOKA (US)
 
-*Updated Thu, 23 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/sevynlove/)*
+*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/sevynlove/)*

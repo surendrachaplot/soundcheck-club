@@ -1,8 +1,8 @@
 # Skatecafe
 
-Skatecafe is a music venue in Amsterdam with 14 upcoming nights listed on soundcheck as of Thu, 23 Jul 2026; the next is "PRIDE - LET'S STRUT" on Fri, 24 Jul 2026.
+Skatecafe is a music venue in Amsterdam with 15 upcoming nights listed on soundcheck as of Fri, 24 Jul 2026; the next is "PRIDE - LET'S STRUT" on Fri, 24 Jul 2026.
 
-Skatecafe is a music venue in Amsterdam listed on soundcheck. 14 upcoming nights, with line-ups including AAlva, Alec Dienaar, Aniko and bebe bad and 2 more. Browse upcoming dates, start times and who's playing. Gedempt Hamerkanaal 42.
+Skatecafe is a music venue in Amsterdam listed on soundcheck. 15 upcoming nights, with line-ups including AAlva, Alec Dienaar, Aniko and bebe bad and 2 more. Browse upcoming dates, start times and who's playing. Gedempt Hamerkanaal 42.
 
 ## What's on
 
@@ -23,4 +23,4 @@ Skatecafe is a music venue in Amsterdam listed on soundcheck. 14 upcoming nights
 
 Gedempt Hamerkanaal 42, Amsterdam
 
-*Updated Thu, 23 Jul 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/skatecafe/)*
+*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/skatecafe/)*

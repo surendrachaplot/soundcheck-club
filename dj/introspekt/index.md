@@ -1,6 +1,6 @@
 # Introspekt
 
-Introspekt is a Garage and Techno artist with 10 upcoming club dates listed on soundcheck as of Thu, 23 Jul 2026, next at OXI, Berlin on Fri, 24 Jul 2026.
+Introspekt is a Garage and Techno artist with 10 upcoming club dates listed on soundcheck as of Fri, 24 Jul 2026, next at OXI, Berlin on Fri, 24 Jul 2026.
 
 Introspekt is a garage and techno artist tracked on soundcheck, with 177 sets logged across Amsterdam, Austin, Barcelona and Belfast and 41 more. Often billed alongside Octo Octa, CCL and Bored Lord. Next up: OXI, Berlin on Fri 24 Jul.
 
@@ -34,4 +34,4 @@ Introspekt is a garage and techno artist tracked on soundcheck, with 177 sets lo
 
 Octo Octa, CCL, Bored Lord
 
-*Updated Thu, 23 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/introspekt/)*
+*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/introspekt/)*

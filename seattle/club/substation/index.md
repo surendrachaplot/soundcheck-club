@@ -1,8 +1,8 @@
 # Substation
 
-Substation is a music venue in Seattle with 18 upcoming nights listed on soundcheck as of Thu, 23 Jul 2026; the next is "Routine: Deep Dish" on Fri, 24 Jul 2026.
+Substation is a music venue in Seattle with 20 upcoming nights listed on soundcheck as of Fri, 24 Jul 2026; the next is "Routine: Deep Dish" on Fri, 24 Jul 2026.
 
-Substation is a music venue in Seattle listed on soundcheck. 18 upcoming nights, with line-ups including Baauer, Bushbaby, Cesco and Craze and 2 more. Browse upcoming dates, start times and who's playing. 645 NW 45th St, Seattle WA 98107.
+Substation is a music venue in Seattle listed on soundcheck. 20 upcoming nights, with line-ups including Baauer, Bushbaby, Cesco and Craze and 2 more. Browse upcoming dates, start times and who's playing. 645 NW 45th St, Seattle WA 98107.
 
 ## What's on
 
@@ -23,4 +23,4 @@ Substation is a music venue in Seattle listed on soundcheck. 18 upcoming nights,
 
 645 NW 45th St, Seattle WA 98107, Seattle
 
-*Updated Thu, 23 Jul 2026 · source: [soundcheck](https://soundcheck.club/seattle/club/substation/)*
+*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/seattle/club/substation/)*

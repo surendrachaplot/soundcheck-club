@@ -1,6 +1,6 @@
 # Romantica
 
-Romantica is a music venue in Stuttgart with 3 upcoming nights listed on soundcheck as of Thu, 23 Jul 2026; the next is "How Hot is Hot - Chaos all night long" on Fri, 24 Jul 2026.
+Romantica is a music venue in Stuttgart with 3 upcoming nights listed on soundcheck as of Fri, 24 Jul 2026; the next is "How Hot is Hot - Chaos all night long" on Fri, 24 Jul 2026.
 
 Romantica is a music venue in Stuttgart listed on soundcheck. 3 upcoming nights, with line-ups including chaos.disco.club, Citizens Union, Jorkes and Natuta. Browse upcoming dates, start times and who's playing. Hauptstatter Str. 40, Stuttgart.
 
@@ -16,4 +16,4 @@ Romantica is a music venue in Stuttgart listed on soundcheck. 3 upcoming nights,
 
 Hauptstatter Str. 40, Stuttgart, Stuttgart
 
-*Updated Thu, 23 Jul 2026 · source: [soundcheck](https://soundcheck.club/stuttgart/club/romantica/)*
+*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/stuttgart/club/romantica/)*

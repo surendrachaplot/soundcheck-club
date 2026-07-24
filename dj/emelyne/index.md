@@ -1,6 +1,6 @@
 # Emelyne
 
-Emelyne is a Bass and Techno artist with 2 upcoming club dates listed on soundcheck as of Thu, 23 Jul 2026, next at Miscellania, Melbourne on Sat, 25 Jul 2026.
+Emelyne is a Bass and Techno artist with 2 upcoming club dates listed on soundcheck as of Fri, 24 Jul 2026, next at Miscellania, Melbourne on Sat, 25 Jul 2026.
 
 Emelyne is a bass and techno artist tracked on soundcheck, with 75 sets logged across Melbourne and Sydney. Often billed alongside Kate Miller, Moopie and DJ PGZ. Next up: Miscellania, Melbourne on Sat 25 Jul.
 
@@ -26,4 +26,4 @@ Emelyne is a bass and techno artist tracked on soundcheck, with 75 sets logged a
 
 Kate Miller, Moopie, DJ PGZ
 
-*Updated Thu, 23 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/emelyne/)*
+*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/emelyne/)*

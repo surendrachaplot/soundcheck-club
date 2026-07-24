@@ -1,8 +1,8 @@
 # Polygonia
 
-Polygonia is a Techno and House artist with 10 upcoming club dates listed on soundcheck as of Thu, 23 Jul 2026, next at Boston Manor Park, London on Sat, 25 Jul 2026.
+Polygonia is a Techno and House artist with 11 upcoming club dates listed on soundcheck as of Fri, 24 Jul 2026, next at Boston Manor Park, London on Sat, 25 Jul 2026.
 
-Polygonia is a techno and house artist tracked on soundcheck, with 218 sets logged across Amsterdam, Athens, Bali and Barcelona and 57 more. Often billed alongside GiGi FM, BASHKKA and Efdemin. Next up: Boston Manor Park, London on Sat 25 Jul.
+Polygonia is a techno and house artist tracked on soundcheck, with 219 sets logged across Amsterdam, Athens, Bali and Barcelona and 57 more. Often billed alongside GiGi FM, BASHKKA and Efdemin. Next up: Boston Manor Park, London on Sat 25 Jul.
 
 ## Upcoming shows
 
@@ -18,6 +18,7 @@ Polygonia is a techno and house artist tracked on soundcheck, with 218 sets logg
 | Thu, 13 Aug 2026 | RSO.BERLIN | Berlin |
 | Tue, 25 Aug 2026 | Quartier Des Spectacles | Montreal |
 | Fri, 28 Aug 2026 | MTELUS | Montreal |
+| Thu, 22 Oct 2026 | Levenslang Amsterdam | Amsterdam |
 
 ## Recently played
 
@@ -34,4 +35,4 @@ Polygonia is a techno and house artist tracked on soundcheck, with 218 sets logg
 
 GiGi FM, BASHKKA, Efdemin
 
-*Updated Thu, 23 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/polygonia/)*
+*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/polygonia/)*

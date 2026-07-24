@@ -1,6 +1,6 @@
 # CHIDA
 
-CHIDA is a House and Techno artist with 4 upcoming club dates listed on soundcheck as of Thu, 23 Jul 2026, next at KOKO, London on Sat, 25 Jul 2026.
+CHIDA is a House and Techno artist with 4 upcoming club dates listed on soundcheck as of Fri, 24 Jul 2026, next at KOKO, London on Sat, 25 Jul 2026.
 
 CHIDA is a house and techno artist tracked on soundcheck, with 176 sets logged across Amsterdam, Berlin, Bristol and Bucharest and 8 more. Often billed alongside YAMARCHY, FFAN and FU (JP). Next up: KOKO, London on Sat 25 Jul.
 
@@ -28,4 +28,4 @@ CHIDA is a house and techno artist tracked on soundcheck, with 176 sets logged a
 
 YAMARCHY, FFAN, FU (JP)
 
-*Updated Thu, 23 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/chida/)*
+*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/chida/)*

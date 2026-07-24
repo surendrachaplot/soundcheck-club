@@ -1,6 +1,6 @@
 # Faster Horses
 
-Faster Horses is a Techno and Trance artist with 12 upcoming club dates listed on soundcheck as of Thu, 23 Jul 2026, next at Bowlers Exhibition Centre, Manchester on Sat, 1 Aug 2026.
+Faster Horses is a Techno and Trance artist with 12 upcoming club dates listed on soundcheck as of Fri, 24 Jul 2026, next at Bowlers Exhibition Centre, Manchester on Sat, 1 Aug 2026.
 
 Faster Horses is a techno and trance artist tracked on soundcheck, with 234 sets logged across Aberdeen, Amsterdam, Antwerp and Barcelona and 52 more. Often billed alongside Leaha, Azyr and Kander. Next up: Bowlers Exhibition Centre, Manchester on Sat 1 Aug.
 
@@ -36,4 +36,4 @@ Faster Horses is a techno and trance artist tracked on soundcheck, with 234 sets
 
 Leaha, Azyr, Kander
 
-*Updated Thu, 23 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/fasterhorses/)*
+*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/fasterhorses/)*

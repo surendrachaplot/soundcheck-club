@@ -1,6 +1,6 @@
 # Patrick Topping
 
-Patrick Topping is a House and Tech House artist with 6 upcoming club dates listed on soundcheck as of Thu, 23 Jul 2026, next at Ushuaïa Ibiza, Ibiza on Sat, 8 Aug 2026.
+Patrick Topping is a House and Tech House artist with 6 upcoming club dates listed on soundcheck as of Fri, 24 Jul 2026, next at Ushuaïa Ibiza, Ibiza on Sat, 8 Aug 2026.
 
 Patrick Topping is a house and tech house artist based in United Kingdom, tracked on soundcheck, with 163 sets logged across Amsterdam, Austin, Bali and Barcelona and 41 more. Often billed alongside Eric Prydz, Adam Beyer and Dom Dolla. Next up: Ushuaïa Ibiza, Ibiza on Sat 8 Aug.
 
@@ -30,4 +30,4 @@ Patrick Topping is a house and tech house artist based in United Kingdom, tracke
 
 Eric Prydz, Adam Beyer, Dom Dolla
 
-*Updated Thu, 23 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/patricktopping/)*
+*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/patricktopping/)*

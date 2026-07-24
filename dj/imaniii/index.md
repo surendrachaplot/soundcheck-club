@@ -1,6 +1,6 @@
 # Imaniii
 
-Imaniii is a Club and UK Funky artist with 3 upcoming club dates listed on soundcheck as of Thu, 23 Jul 2026, next at Orange Room, London on Fri, 24 Jul 2026.
+Imaniii is a Club and UK Funky artist with 3 upcoming club dates listed on soundcheck as of Fri, 24 Jul 2026, next at Orange Room, London on Fri, 24 Jul 2026.
 
 Imaniii is a club and uk funky artist based in United Kingdom, tracked on soundcheck, with 14 sets logged across London. Often billed alongside VIRI$$, SALD3E and effua. Next up: Orange Room, London on Fri 24 Jul.
 
@@ -27,4 +27,4 @@ Imaniii is a club and uk funky artist based in United Kingdom, tracked on soundc
 
 VIRI$$, SALD3E, effua
 
-*Updated Thu, 23 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/imaniii/)*
+*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/imaniii/)*

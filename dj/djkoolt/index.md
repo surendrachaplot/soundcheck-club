@@ -1,6 +1,6 @@
 # DJ Koolt
 
-DJ Koolt is a House and Techno artist with 6 upcoming club dates listed on soundcheck as of Thu, 23 Jul 2026, next at Barraco SP /CO, Sao Paulo on Sat, 25 Jul 2026.
+DJ Koolt is a House and Techno artist with 6 upcoming club dates listed on soundcheck as of Fri, 24 Jul 2026, next at Barraco SP /CO, Sao Paulo on Sat, 25 Jul 2026.
 
 DJ Koolt is a house and techno artist tracked on soundcheck, with 90 sets logged across Amsterdam, Bali, Barcelona and Belgrade and 26 more. Often billed alongside ASIA (DE), Christian AB and Ogazón. Next up: Barraco SP /CO, Saopaulo on Sat 25 Jul.
 
@@ -30,4 +30,4 @@ DJ Koolt is a house and techno artist tracked on soundcheck, with 90 sets logged
 
 ASIA (DE), Christian AB, Ogazón
 
-*Updated Thu, 23 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/djkoolt/)*
+*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/djkoolt/)*

@@ -1,6 +1,6 @@
 # TOT (BR)
 
-TOT (BR) is a House and Electro artist with 3 upcoming club dates listed on soundcheck as of Thu, 23 Jul 2026, next at Club der Visionaere, Berlin on Sat, 25 Jul 2026.
+TOT (BR) is a House and Electro artist with 3 upcoming club dates listed on soundcheck as of Fri, 24 Jul 2026, next at Club der Visionaere, Berlin on Sat, 25 Jul 2026.
 
 TOT (BR) is a house and electro artist based in Brazil, tracked on soundcheck, with 7 sets logged across Barcelona, Berlin, London and Saopaulo. Often billed alongside Gartzzea, Carlo Rewer and Constratti. Next up: Club der Visionaere, Berlin on Sat 25 Jul.
 
@@ -23,4 +23,4 @@ TOT (BR) is a house and electro artist based in Brazil, tracked on soundcheck, w
 
 Gartzzea, Carlo Rewer, Constratti
 
-*Updated Thu, 23 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/totbr/)*
+*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/totbr/)*

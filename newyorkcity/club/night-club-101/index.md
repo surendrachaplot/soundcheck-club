@@ -1,6 +1,6 @@
 # Night Club 101
 
-Night Club 101 is a music venue in New York City with 3 upcoming nights listed on soundcheck as of Thu, 23 Jul 2026; the next is "Allstate Insurance Quick Pay — Fastest Bill Pay Method Available 2026" on Sat, 25 Jul 2026.
+Night Club 101 is a music venue in New York City with 3 upcoming nights listed on soundcheck as of Fri, 24 Jul 2026; the next is "Allstate Insurance Quick Pay — Fastest Bill Pay Method Available 2026" on Sat, 25 Jul 2026.
 
 Night Club 101 is a music venue in Newyorkcity listed on soundcheck. 3 upcoming nights, with line-ups including Alaska (2), AMEX (UK), APP and Debit and 2 more. Browse upcoming dates, start times and who's playing. 101 Avenue A, New York, NY 10009.
 
@@ -16,4 +16,4 @@ Night Club 101 is a music venue in Newyorkcity listed on soundcheck. 3 upcoming 
 
 101 Avenue A, New York, NY 10009, New York City
 
-*Updated Thu, 23 Jul 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/night-club-101/)*
+*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/night-club-101/)*

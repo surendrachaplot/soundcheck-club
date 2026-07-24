@@ -1,6 +1,6 @@
 # Zeba Bar
 
-Zeba Bar is a music venue in Washington DC with 1 upcoming night listed on soundcheck as of Thu, 23 Jul 2026; the next is "PRÆTER·NATURA - Kaleidoscope" on Sat, 1 Aug 2026.
+Zeba Bar is a music venue in Washington DC with 1 upcoming night listed on soundcheck as of Fri, 24 Jul 2026; the next is "PRÆTER·NATURA - Kaleidoscope" on Sat, 1 Aug 2026.
 
 Zeba Bar is a music venue in Washingtondc listed on soundcheck. 1 upcoming night, with line-ups including ILUSM and Pöppysyring3. Browse upcoming dates, start times and who's playing. 3423 14th Street NW, Washington, DC.
 
@@ -14,4 +14,4 @@ Zeba Bar is a music venue in Washingtondc listed on soundcheck. 1 upcoming night
 
 3423 14th Street NW, Washington, DC, Washington DC
 
-*Updated Thu, 23 Jul 2026 · source: [soundcheck](https://soundcheck.club/washingtondc/club/zeba-bar/)*
+*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/washingtondc/club/zeba-bar/)*

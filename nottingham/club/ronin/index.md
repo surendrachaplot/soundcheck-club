@@ -1,6 +1,6 @@
 # Ronin
 
-Ronin is a music venue in Nottingham with 1 upcoming night listed on soundcheck as of Thu, 23 Jul 2026; the next is "Honeydips & Friends" on Sat, 8 Aug 2026.
+Ronin is a music venue in Nottingham with 1 upcoming night listed on soundcheck as of Fri, 24 Jul 2026; the next is "Honeydips & Friends" on Sat, 8 Aug 2026.
 
 Ronin is a music venue in Nottingham listed on soundcheck. 1 upcoming night. Browse upcoming dates, start times and who's playing. 7 Hockley, NG1 1FH, Nottingham.
 
@@ -14,4 +14,4 @@ Ronin is a music venue in Nottingham listed on soundcheck. 1 upcoming night. Bro
 
 7 Hockley, NG1 1FH, Nottingham, Nottingham
 
-*Updated Thu, 23 Jul 2026 · source: [soundcheck](https://soundcheck.club/nottingham/club/ronin/)*
+*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/nottingham/club/ronin/)*

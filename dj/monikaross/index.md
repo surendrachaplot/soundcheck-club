@@ -1,6 +1,6 @@
 # Monika Ross
 
-Monika Ross is a House and Tech House artist with 3 upcoming club dates listed on soundcheck as of Thu, 23 Jul 2026, next at Club der Visionaere, Berlin on Wed, 29 Jul 2026.
+Monika Ross is a House and Tech House artist with 3 upcoming club dates listed on soundcheck as of Fri, 24 Jul 2026, next at Club der Visionaere, Berlin on Wed, 29 Jul 2026.
 
 Monika Ross is a house and tech house artist tracked on soundcheck, with 35 sets logged across Berlin, Hamburg, London and Melbourne and 3 more. Often billed alongside Nils Twachtmann, Alternate State and Dave Dinger. Next up: Club der Visionaere, Berlin on Wed 29 Jul.
 
@@ -27,4 +27,4 @@ Monika Ross is a house and tech house artist tracked on soundcheck, with 35 sets
 
 Nils Twachtmann, Alternate State, Dave Dinger
 
-*Updated Thu, 23 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/monikaross/)*
+*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/monikaross/)*

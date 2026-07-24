@@ -1,6 +1,6 @@
 # Manu Strasse
 
-Manu Strasse is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Thu, 23 Jul 2026, next at Klunkerkranich, Berlin on Sat, 25 Jul 2026.
+Manu Strasse is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Fri, 24 Jul 2026, next at Klunkerkranich, Berlin on Sat, 25 Jul 2026.
 
 Manu Strasse is a techno and house artist tracked on soundcheck, with 68 sets logged across Berlin, Hamburg, Madrid and Malaga and 3 more. Often billed alongside Adron_, magic.made.by.r and Leah Marie. Next up: Klunkerkranich, Berlin on Sat 25 Jul.
 
@@ -27,4 +27,4 @@ Manu Strasse is a techno and house artist tracked on soundcheck, with 68 sets lo
 
 Adron_, magic.made.by.r, Leah Marie
 
-*Updated Thu, 23 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/manustrasse/)*
+*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/manustrasse/)*

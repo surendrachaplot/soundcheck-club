@@ -1,6 +1,6 @@
 # Hang Dai Chinese
 
-Hang Dai Chinese is a music venue in Dublin with 6 upcoming nights listed on soundcheck as of Thu, 23 Jul 2026; the next is "Fantazee welcomes George Feely to Hang Dai" on Fri, 24 Jul 2026.
+Hang Dai Chinese is a music venue in Dublin with 6 upcoming nights listed on soundcheck as of Fri, 24 Jul 2026; the next is "Fantazee welcomes George Feely to Hang Dai" on Fri, 24 Jul 2026.
 
 Hang Dai Chinese is a music venue in Dublin listed on soundcheck. 6 upcoming nights, with line-ups including Billy Scurry, Eclair Fifi, Franz Scala and Medalla and 1 more. Browse upcoming dates, start times and who's playing. 2 Camden Street Lower, Saint Kevin's, Dublin, D02 T275, Ireland.
 
@@ -19,4 +19,4 @@ Hang Dai Chinese is a music venue in Dublin listed on soundcheck. 6 upcoming nig
 
 2 Camden Street Lower, Saint Kevin's, Dublin, D02 T275, Ireland, Dublin
 
-*Updated Thu, 23 Jul 2026 · source: [soundcheck](https://soundcheck.club/dublin/club/hang-dai-chinese/)*
+*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/dublin/club/hang-dai-chinese/)*

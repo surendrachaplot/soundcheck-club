@@ -1,6 +1,6 @@
 # Irfane
 
-Irfane is a House and Disco artist with 3 upcoming club dates listed on soundcheck as of Thu, 23 Jul 2026, next at Rumore Nightclub Capri, Naples on Fri, 31 Jul 2026.
+Irfane is a House and Disco artist with 3 upcoming club dates listed on soundcheck as of Fri, 24 Jul 2026, next at Rumore Nightclub Capri, Naples on Fri, 31 Jul 2026.
 
 Irfane is a house and disco artist tracked on soundcheck, with 16 sets logged across Athens, Ibiza, London and Melbourne and 3 more. Often billed alongside Breakbot, Busy P and Myd. Next up: Rumore Nightclub Capri, Naples on Fri 31 Jul.
 
@@ -27,4 +27,4 @@ Irfane is a house and disco artist tracked on soundcheck, with 16 sets logged ac
 
 Breakbot, Busy P, Myd
 
-*Updated Thu, 23 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/irfane/)*
+*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/irfane/)*

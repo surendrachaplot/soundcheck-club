@@ -1,6 +1,6 @@
 # Almanac
 
-Almanac is a music venue in Barcelona with 1 upcoming night listed on soundcheck as of Thu, 23 Jul 2026; the next is "AZIMUTH SESSIONS" on Sat, 25 Jul 2026.
+Almanac is a music venue in Barcelona with 1 upcoming night listed on soundcheck as of Fri, 24 Jul 2026; the next is "AZIMUTH SESSIONS" on Sat, 25 Jul 2026.
 
 Almanac is a music venue in Barcelona listed on soundcheck. 1 upcoming night, with line-ups including icanteachyou. Browse upcoming dates, start times and who's playing. Gran Via de les Corts Catalanes, 619, 08007 Barcelona.
 
@@ -14,4 +14,4 @@ Almanac is a music venue in Barcelona listed on soundcheck. 1 upcoming night, wi
 
 Gran Via de les Corts Catalanes, 619, 08007 Barcelona, Barcelona
 
-*Updated Thu, 23 Jul 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/almanac/)*
+*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/almanac/)*

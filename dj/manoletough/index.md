@@ -1,6 +1,6 @@
 # Mano Le Tough
 
-Mano Le Tough is a House and Techno artist with 4 upcoming club dates listed on soundcheck as of Thu, 23 Jul 2026, next at Studio Club Malaga, Malaga on Sat, 1 Aug 2026.
+Mano Le Tough is a House and Techno artist with 4 upcoming club dates listed on soundcheck as of Fri, 24 Jul 2026, next at Studio Club Malaga, Malaga on Sat, 1 Aug 2026.
 
 Mano Le Tough is a house and techno artist tracked on soundcheck, with 160 sets logged across Amsterdam, Austin, Bali and Barcelona and 51 more. Often billed alongside Âme, Jonathan Kaspar and Sossa. Next up: Studio Club Malaga, Malaga on Sat 1 Aug.
 
@@ -28,4 +28,4 @@ Mano Le Tough is a house and techno artist tracked on soundcheck, with 160 sets 
 
 Âme, Jonathan Kaspar, Sossa
 
-*Updated Thu, 23 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/manoletough/)*
+*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/manoletough/)*

@@ -1,6 +1,6 @@
 # Robbie Doherty
 
-Robbie Doherty is a House and Tech House artist with 14 upcoming club dates listed on soundcheck as of Thu, 23 Jul 2026, next at Bronze Beach, Amsterdam on Sun, 26 Jul 2026.
+Robbie Doherty is a House and Tech House artist with 14 upcoming club dates listed on soundcheck as of Fri, 24 Jul 2026, next at Bronze Beach, Amsterdam on Sun, 26 Jul 2026.
 
 Robbie Doherty is a house and tech house artist tracked on soundcheck, with 152 sets logged across Aberdeen, Amsterdam, Antwerp and Auckland and 34 more. Often billed alongside Prunk, Dennis Quin and Jamback. Next up: Bronze Beach, Amsterdam on Sun 26 Jul.
 
@@ -36,4 +36,4 @@ Robbie Doherty is a house and tech house artist tracked on soundcheck, with 152 
 
 Prunk, Dennis Quin, Jamback
 
-*Updated Thu, 23 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/robbiedoherty/)*
+*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/robbiedoherty/)*

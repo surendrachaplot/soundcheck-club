@@ -1,6 +1,6 @@
 # L'ilienne (Croisière Marseille Calanques)
 
-L'ilienne (Croisière Marseille Calanques) is a music venue in Marseille with 1 upcoming night listed on soundcheck as of Thu, 23 Jul 2026; the next is "AZZUR Boat Party #6" on Sat, 1 Aug 2026.
+L'ilienne (Croisière Marseille Calanques) is a music venue in Marseille with 1 upcoming night listed on soundcheck as of Fri, 24 Jul 2026; the next is "AZZUR Boat Party #6" on Sat, 1 Aug 2026.
 
 L'ilienne (Croisière Marseille Calanques) is a music venue in Marseille listed on soundcheck. 1 upcoming night, with line-ups including Konvex & the Shadow. Browse upcoming dates, start times and who's playing. Quai du port, 13001 Marseille.
 
@@ -14,4 +14,4 @@ L'ilienne (Croisière Marseille Calanques) is a music venue in Marseille listed 
 
 Quai du port, 13001 Marseille, Marseille
 
-*Updated Thu, 23 Jul 2026 · source: [soundcheck](https://soundcheck.club/marseille/club/l-ilienne-croisi-re-marseille-calanques/)*
+*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/marseille/club/l-ilienne-croisi-re-marseille-calanques/)*

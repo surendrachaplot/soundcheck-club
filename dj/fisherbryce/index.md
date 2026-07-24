@@ -1,6 +1,6 @@
 # Fisher Bryce
 
-Fisher Bryce is a House and Techno artist with 4 upcoming club dates listed on soundcheck as of Thu, 23 Jul 2026, next at Gorg-O-Mish, Vancouver on Fri, 24 Jul 2026.
+Fisher Bryce is a House and Techno artist with 4 upcoming club dates listed on soundcheck as of Fri, 24 Jul 2026, next at Gorg-O-Mish, Vancouver on Fri, 24 Jul 2026.
 
 Fisher Bryce is a house and techno artist tracked on soundcheck, with 32 sets logged across Mexicocity, Seattle and Vancouver. Often billed alongside ZIGGY ZAYA, educación física and Kasey Riot. Next up: Gorg-O-Mish, Vancouver on Fri 24 Jul.
 
@@ -28,4 +28,4 @@ Fisher Bryce is a house and techno artist tracked on soundcheck, with 32 sets lo
 
 ZIGGY ZAYA, educación física, Kasey Riot
 
-*Updated Thu, 23 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/fisherbryce/)*
+*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/fisherbryce/)*

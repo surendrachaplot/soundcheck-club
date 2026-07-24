@@ -1,6 +1,6 @@
 # London Elektricity
 
-London Elektricity is a Drum & Bass and Jungle artist with 5 upcoming club dates listed on soundcheck as of Thu, 23 Jul 2026, next at Bristol Amphitheatre & Waterfront Square, Bristol on Sat, 25 Jul 2026.
+London Elektricity is a Drum & Bass and Jungle artist with 5 upcoming club dates listed on soundcheck as of Fri, 24 Jul 2026, next at Bristol Amphitheatre & Waterfront Square, Bristol on Sat, 25 Jul 2026.
 
 London Elektricity is a drum & bass and jungle artist based in United Kingdom, tracked on soundcheck, with 50 sets logged across Auckland, Berlin, Boston and Bristol and 22 more. Often billed alongside Makoto, Degs and Nu:Tone. Next up: Bristol Amphitheatre & Waterfront Square, Bristol on Sat 25 Jul.
 
@@ -29,4 +29,4 @@ London Elektricity is a drum & bass and jungle artist based in United Kingdom, t
 
 Makoto, Degs, Nu:Tone
 
-*Updated Thu, 23 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/londonelektricity/)*
+*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/londonelektricity/)*

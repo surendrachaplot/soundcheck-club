@@ -1,6 +1,6 @@
 # TBA - DTLA
 
-TBA - DTLA is a music venue in Los Angeles with 9 upcoming nights listed on soundcheck as of Thu, 23 Jul 2026; the next is "Trans*cendent" on Fri, 24 Jul 2026.
+TBA - DTLA is a music venue in Los Angeles with 9 upcoming nights listed on soundcheck as of Fri, 24 Jul 2026; the next is "Trans*cendent" on Fri, 24 Jul 2026.
 
 TBA - DTLA is a music venue in Losangeles listed on soundcheck. 9 upcoming nights, with line-ups including Alxander Ivey, Daphni, deesco and DJ Perception and 2 more. Browse upcoming dates, start times and who's playing.
 
@@ -18,4 +18,4 @@ TBA - DTLA is a music venue in Losangeles listed on soundcheck. 9 upcoming night
 | Sat, 19 Sept 2026 | IN BETWEEN: Secret Guests TBA |  |
 | Fri, 25 Sept 2026 | Wellness Check presents: Daphni (All Night) | Daphni |
 
-*Updated Thu, 23 Jul 2026 · source: [soundcheck](https://soundcheck.club/losangeles/club/tba-dtla/)*
+*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/losangeles/club/tba-dtla/)*

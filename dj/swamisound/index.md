@@ -1,6 +1,6 @@
 # Swami Sound
 
-Swami Sound is a Garage and House artist with 4 upcoming club dates listed on soundcheck as of Thu, 23 Jul 2026, next at Le Bain, New York City on Sat, 25 Jul 2026.
+Swami Sound is a Garage and House artist with 4 upcoming club dates listed on soundcheck as of Fri, 24 Jul 2026, next at Le Bain, New York City on Sat, 25 Jul 2026.
 
 Swami Sound is a garage and house artist tracked on soundcheck, with 98 sets logged across Austin, Boston, Chicago and Denver and 14 more. Often billed alongside gum.mp3, Dazegxd and AceMo. Next up: Le Bain, Newyorkcity on Sat 25 Jul.
 
@@ -28,4 +28,4 @@ Swami Sound is a garage and house artist tracked on soundcheck, with 98 sets log
 
 gum.mp3, Dazegxd, AceMo
 
-*Updated Thu, 23 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/swamisound/)*
+*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/swamisound/)*

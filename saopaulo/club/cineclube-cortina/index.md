@@ -1,6 +1,6 @@
 # Cineclube Cortina
 
-Cineclube Cortina is a music venue in Sao Paulo with 1 upcoming night listed on soundcheck as of Thu, 23 Jul 2026; the next is "BAILE PROFANO W/ Dj Mau Mau, Vermelho E Leiloca Pantoja" on Sat, 1 Aug 2026.
+Cineclube Cortina is a music venue in Sao Paulo with 1 upcoming night listed on soundcheck as of Fri, 24 Jul 2026; the next is "BAILE PROFANO W/ Dj Mau Mau, Vermelho E Leiloca Pantoja" on Sat, 1 Aug 2026.
 
 Cineclube Cortina is a music venue in Saopaulo listed on soundcheck. 1 upcoming night, with line-ups including Angelica Moller, Dj Mau Mau, Leiloca Pantoja and Vermelho. Browse upcoming dates, start times and who's playing. R. Araújo, 62 - República, São Paulo - SP, 01220-020, Brazil.
 
@@ -14,4 +14,4 @@ Cineclube Cortina is a music venue in Saopaulo listed on soundcheck. 1 upcoming 
 
 R. Araújo, 62 - República, São Paulo - SP, 01220-020, Brazil, Sao Paulo
 
-*Updated Thu, 23 Jul 2026 · source: [soundcheck](https://soundcheck.club/saopaulo/club/cineclube-cortina/)*
+*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/saopaulo/club/cineclube-cortina/)*

@@ -1,6 +1,6 @@
 # S-candalo
 
-S-candalo is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Thu, 23 Jul 2026, next at Berghain | Panorama Bar | Säule, Berlin on Fri, 24 Jul 2026.
+S-candalo is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Fri, 24 Jul 2026, next at Berghain | Panorama Bar | Säule, Berlin on Fri, 24 Jul 2026.
 
 S-candalo is a house and techno artist tracked on soundcheck, with 66 sets logged across Amsterdam, Antwerp, Barcelona and Berlin and 21 more. Often billed alongside THC, DHC and Byron Yeates. Next up: Berghain | Panorama Bar | Säule, Berlin on Fri 24 Jul.
 
@@ -27,4 +27,4 @@ S-candalo is a house and techno artist tracked on soundcheck, with 66 sets logge
 
 THC, DHC, Byron Yeates
 
-*Updated Thu, 23 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/s-candalo/)*
+*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/s-candalo/)*

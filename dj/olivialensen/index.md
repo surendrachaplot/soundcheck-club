@@ -1,6 +1,6 @@
 # OLIVIA LENSEN
 
-OLIVIA LENSEN is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Thu, 23 Jul 2026, next at BRET, Amsterdam on Fri, 24 Jul 2026.
+OLIVIA LENSEN is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Fri, 24 Jul 2026, next at BRET, Amsterdam on Fri, 24 Jul 2026.
 
 OLIVIA LENSEN is a house and techno artist based in Netherlands, tracked on soundcheck, with 54 sets logged across Amsterdam, Cologne, Rotterdam and Thehague and 1 more. Often billed alongside Lisa Korver, DART and Moody Mehran. Next up: BRET, Amsterdam on Fri 24 Jul.
 
@@ -27,4 +27,4 @@ OLIVIA LENSEN is a house and techno artist based in Netherlands, tracked on soun
 
 Lisa Korver, DART, Moody Mehran
 
-*Updated Thu, 23 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/olivialensen/)*
+*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/olivialensen/)*

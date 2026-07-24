@@ -1,6 +1,6 @@
 # Maceo Plex
 
-Maceo Plex is a Techno and House artist with 11 upcoming club dates listed on soundcheck as of Thu, 23 Jul 2026, next at TBA - Mission Four (Ace*Mission Studios) 550 S Mission Rd, Los Angeles, CA 90033, Los Angeles on Thu, 30 Jul 2026.
+Maceo Plex is a Techno and House artist with 11 upcoming club dates listed on soundcheck as of Fri, 24 Jul 2026, next at TBA - Mission Four (Ace*Mission Studios) 550 S Mission Rd, Los Angeles, CA 90033, Los Angeles on Thu, 30 Jul 2026.
 
 Maceo Plex is a techno and house artist tracked on soundcheck, with 179 sets logged across Amsterdam, Athens, Austin and Barcelona and 47 more. Often billed alongside Seth Troxler, Adam Beyer and DJ Tennis. Next up: TBA - Mission Four (Ace*Mission Studios) 550 S Mission Rd, Los Angeles, CA 90033, Losangeles on Thu 30 Jul.
 
@@ -35,4 +35,4 @@ Maceo Plex is a techno and house artist tracked on soundcheck, with 179 sets log
 
 Seth Troxler, Adam Beyer, DJ Tennis
 
-*Updated Thu, 23 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/maceoplex/)*
+*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/maceoplex/)*

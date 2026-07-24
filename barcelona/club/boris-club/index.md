@@ -1,6 +1,6 @@
 # BORIS CLUB
 
-BORIS CLUB is a music venue in Barcelona with 11 upcoming nights listed on soundcheck as of Thu, 23 Jul 2026; the next is "Boris pre SUPERFEKTA Fur Coat, Momoda, Igor Marijuan - FREE TICKETS" on Fri, 24 Jul 2026.
+BORIS CLUB is a music venue in Barcelona with 11 upcoming nights listed on soundcheck as of Fri, 24 Jul 2026; the next is "Boris pre SUPERFEKTA Fur Coat, Momoda, Igor Marijuan - FREE TICKETS" on Fri, 24 Jul 2026.
 
 BORIS CLUB is a music venue in Barcelona listed on soundcheck. 11 upcoming nights, with line-ups including Argia, Fur Coat, Igor Marijuan and Momoda and 2 more. Browse upcoming dates, start times and who's playing. Carrer de Bori i FontestÃ , 25, SarriÃ -Sant Gervasi, 08021 Barcelona [2].
 
@@ -23,4 +23,4 @@ BORIS CLUB is a music venue in Barcelona listed on soundcheck. 11 upcoming night
 
 Carrer de Bori i FontestÃ , 25, SarriÃ -Sant Gervasi, 08021 Barcelona [2], Barcelona
 
-*Updated Thu, 23 Jul 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/boris-club/)*
+*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/boris-club/)*

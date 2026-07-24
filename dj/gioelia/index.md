@@ -1,6 +1,6 @@
 # Gio Elia
 
-Gio Elia is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Thu, 23 Jul 2026, next at Zentralwäscherei, Zurich on Sat, 8 Aug 2026.
+Gio Elia is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Fri, 24 Jul 2026, next at Zentralwäscherei, Zurich on Sat, 8 Aug 2026.
 
 Gio Elia is a techno and house artist based in United States of America, tracked on soundcheck, with 33 sets logged across Berlin, Mexicocity, Miami and Munich and 3 more. Often billed alongside True Vine, Bort and Danny Daze. Next up: Zentralwäscherei, Zurich on Sat 8 Aug.
 
@@ -27,4 +27,4 @@ Gio Elia is a techno and house artist based in United States of America, tracked
 
 True Vine, Bort, Danny Daze
 
-*Updated Thu, 23 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/gioelia/)*
+*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/gioelia/)*

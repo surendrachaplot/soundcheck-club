@@ -1,14 +1,13 @@
 # Phonox
 
-Phonox is a music venue in London with 28 upcoming nights listed on soundcheck as of Thu, 23 Jul 2026; the next is "Wiley (In The Round)" on Thu, 23 Jul 2026.
+Phonox is a music venue in London with 27 upcoming nights listed on soundcheck as of Fri, 24 Jul 2026; the next is "Dimitri From Paris" on Fri, 24 Jul 2026.
 
-Phonox is a music venue in London listed on soundcheck. 28 upcoming nights, with line-ups including Abby Daze, Alan Fitzpatrick, Alba Heidari and A LOVE FROM OUTER SPACE and 2 more. Browse upcoming dates, start times and who's playing. 418 Brixton Road Brixton London SW9 7AY.
+Phonox is a music venue in London listed on soundcheck. 27 upcoming nights, with line-ups including Abby Daze, Alan Fitzpatrick, Alba Heidari and A LOVE FROM OUTER SPACE and 2 more. Browse upcoming dates, start times and who's playing. 418 Brixton Road Brixton London SW9 7AY.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Thu, 23 Jul 2026 | Wiley (In The Round) | Logan Sama, Wiley |
 | Fri, 24 Jul 2026 | Dimitri From Paris | Dimitri From Paris |
 | Sat, 25 Jul 2026 | Phonox: CIRCULATE with Egyptian Lover, FREAKENSTEIN [SOLD OUT] | Egyptian Lover, FREAKENSTEIN |
 | Fri, 31 Jul 2026 | Boiler Room Festival Afterparty |  |
@@ -18,9 +17,10 @@ Phonox is a music venue in London listed on soundcheck. 28 upcoming nights, with
 | Fri, 14 Aug 2026 | Recondite (Live) | Recondite |
 | Sat, 15 Aug 2026 | Phonox x MOT: CIRCULATE with DJ Paypal & Ikonika - Afterparty | Black Rave Culture, DJ Paypal, Ikonika |
 | Sat, 15 Aug 2026 | Phonox: DJ Assault + Black Rave Culture | Black Rave Culture, DJ Assault |
+| Fri, 21 Aug 2026 | A LOVE FROM OUTER SPACE | A LOVE FROM OUTER SPACE, Sean Johnston |
 
 ## Address
 
 418 Brixton Road Brixton London SW9 7AY, London
 
-*Updated Thu, 23 Jul 2026 · source: [soundcheck](https://soundcheck.club/london/club/phonox/)*
+*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/london/club/phonox/)*

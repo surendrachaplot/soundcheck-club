@@ -1,6 +1,6 @@
 # Hasvat Informant
 
-Hasvat Informant is a Techno and House artist with 4 upcoming club dates listed on soundcheck as of Thu, 23 Jul 2026, next at Coil, Melbourne on Sat, 25 Jul 2026.
+Hasvat Informant is a Techno and House artist with 4 upcoming club dates listed on soundcheck as of Fri, 24 Jul 2026, next at Coil, Melbourne on Sat, 25 Jul 2026.
 
 Hasvat Informant is a techno and house artist tracked on soundcheck, with 62 sets logged across Amsterdam, Berlin, Brisbane and Copenhagen and 5 more. Often billed alongside Mama Snake, Cloudy Ku and Simrana. Next up: Coil, Melbourne on Sat 25 Jul.
 
@@ -28,4 +28,4 @@ Hasvat Informant is a techno and house artist tracked on soundcheck, with 62 set
 
 Mama Snake, Cloudy Ku, Simrana
 
-*Updated Thu, 23 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/hasvatinformant/)*
+*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/hasvatinformant/)*

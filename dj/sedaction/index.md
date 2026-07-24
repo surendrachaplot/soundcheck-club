@@ -1,6 +1,6 @@
 # Sedaction
 
-Sedaction is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Thu, 23 Jul 2026, next at Giselle, Düsseldorf on Fri, 31 Jul 2026.
+Sedaction is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Fri, 24 Jul 2026, next at Giselle, Düsseldorf on Fri, 31 Jul 2026.
 
 Sedaction is a techno and house artist based in Germany, tracked on soundcheck, with 77 sets logged across Amsterdam, Berlin, Cologne and Dusseldorf and 6 more. Often billed alongside Savsannah, Anna Cainelli and Nikity. Next up: Giselle, Dusseldorf on Fri 31 Jul.
 
@@ -26,4 +26,4 @@ Sedaction is a techno and house artist based in Germany, tracked on soundcheck, 
 
 Savsannah, Anna Cainelli, Nikity
 
-*Updated Thu, 23 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/sedaction/)*
+*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/sedaction/)*

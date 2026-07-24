@@ -1,6 +1,6 @@
 # 69DB
 
-69DB is a Acid and Techno artist with 3 upcoming club dates listed on soundcheck as of Thu, 23 Jul 2026, next at Distillery N17, London on Sat, 19 Sept 2026.
+69DB is a Acid and Techno artist with 3 upcoming club dates listed on soundcheck as of Fri, 24 Jul 2026, next at Distillery N17, London on Sat, 19 Sept 2026.
 
 69DB is an acid and techno artist based in France, tracked on soundcheck, with 18 sets logged across Amsterdam, Berlin, Geneva and Hongkong and 8 more. Often billed alongside Crystal Distortion, Ixindamix and R-Zac. Next up: Distillery N17, London on Sat 19 Sept.
 
@@ -27,4 +27,4 @@
 
 Crystal Distortion, Ixindamix, R-Zac
 
-*Updated Thu, 23 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/69db/)*
+*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/69db/)*

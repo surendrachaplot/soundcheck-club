@@ -1,6 +1,6 @@
 # 131 Mccormack St
 
-131 Mccormack St is a music venue in Toronto with 9 upcoming nights listed on soundcheck as of Thu, 23 Jul 2026; the next is "Zorza 4EVER" on Fri, 24 Jul 2026.
+131 Mccormack St is a music venue in Toronto with 9 upcoming nights listed on soundcheck as of Fri, 24 Jul 2026; the next is "Zorza 4EVER" on Fri, 24 Jul 2026.
 
 131 Mccormack St is a music venue in Toronto listed on soundcheck. 9 upcoming nights, with line-ups including 999ADJ, AADJA, AceMo and Ahadadream and 2 more. Browse upcoming dates, start times and who's playing. 131 McCormack St, York, ON M6N 1X8.
 
@@ -10,7 +10,7 @@
 | --- | --- | --- |
 | Fri, 24 Jul 2026 | Zorza 4EVER | Zorza |
 | Sat, 25 Jul 2026 | Rhythm Open Air: DJ Godfather, AceMo, Kush Jones | 999ADJ, AceMo, Chinelo, DJ Godfather, Kush Jones |
-| Sat, 15 Aug 2026 | RAW SHOWCASE presented by TAKEOVER 6IX & KONDUKTOR | Bours?, DJ MELL G, DLV, Rorganic, callie |
+| Sat, 15 Aug 2026 | RAW SHOWCASE presented by TAKEOVER 6IX & KONDUKTOR (OPEN AIR) | Bours?, DJ MELL G, DLV, Rorganic, callie |
 | Sat, 22 Aug 2026 | DAY INTO NIGHT: Patrick Mason | Alley Kay, DJ Minx, Patrick Mason, Pedro (CA), SHEA (2) |
 | Sat, 29 Aug 2026 | Rhythm Open Air: Minimal & Tech House |  |
 | Sun, 6 Sept 2026 | TAKEOVER 6IX presents ONLYNUMBERS | Katamina, MENACE., Onlynumbers, mikeyraps |
@@ -22,4 +22,4 @@
 
 131 McCormack St, York, ON M6N 1X8, Toronto
 
-*Updated Thu, 23 Jul 2026 · source: [soundcheck](https://soundcheck.club/toronto/club/131-mccormack-st/)*
+*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/toronto/club/131-mccormack-st/)*

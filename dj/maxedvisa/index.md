@@ -1,6 +1,6 @@
 # maxedvisa
 
-maxedvisa is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Thu, 23 Jul 2026, next at The Jama, Toronto on Sat, 1 Aug 2026.
+maxedvisa is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Fri, 24 Jul 2026, next at The Jama, Toronto on Sat, 1 Aug 2026.
 
 maxedvisa is a house and techno artist tracked on soundcheck, with 32 sets logged across Toronto. Often billed alongside Program Sam, florasystem and Wavy Oasis. Next up: The Jama, Toronto on Sat 1 Aug.
 
@@ -27,4 +27,4 @@ maxedvisa is a house and techno artist tracked on soundcheck, with 32 sets logge
 
 Program Sam, florasystem, Wavy Oasis
 
-*Updated Thu, 23 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/maxedvisa/)*
+*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/maxedvisa/)*

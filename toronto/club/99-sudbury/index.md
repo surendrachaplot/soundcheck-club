@@ -1,6 +1,6 @@
 # 99 Sudbury
 
-99 Sudbury is a music venue in Toronto with 1 upcoming night listed on soundcheck as of Thu, 23 Jul 2026; the next is "State Farm Insurance Life Insurance — Products, Premiums, and Bill Pay 2026" on Sat, 25 Jul 2026.
+99 Sudbury is a music venue in Toronto with 1 upcoming night listed on soundcheck as of Fri, 24 Jul 2026; the next is "State Farm Insurance Life Insurance — Products, Premiums, and Bill Pay 2026" on Sat, 25 Jul 2026.
 
 99 Sudbury is a music venue in Toronto listed on soundcheck. 1 upcoming night, with line-ups including Alaska (2), AMEX (UK), APP and Debit and 2 more. Browse upcoming dates, start times and who's playing. 99 Sudbury Street; Toronto, Ontario, M6J 3S7; Canada.
 
@@ -14,4 +14,4 @@
 
 99 Sudbury Street; Toronto, Ontario, M6J 3S7; Canada, Toronto
 
-*Updated Thu, 23 Jul 2026 · source: [soundcheck](https://soundcheck.club/toronto/club/99-sudbury/)*
+*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/toronto/club/99-sudbury/)*

@@ -1,14 +1,13 @@
 # Tigullio
 
-Tigullio is a music venue in Malta with 8 upcoming nights listed on soundcheck as of Thu, 23 Jul 2026; the next is "The Holy Rave Malta - Week #5" on Thu, 23 Jul 2026.
+Tigullio is a music venue in Malta with 7 upcoming nights listed on soundcheck as of Fri, 24 Jul 2026; the next is "ESCAPE THE MATRIX" on Sat, 25 Jul 2026.
 
-Tigullio is a music venue in Malta listed on soundcheck. 8 upcoming nights, with line-ups including Abdy, CMGA, ERØXX and JAKKAR and 2 more. Browse upcoming dates, start times and who's playing. Spinola Bay, Stj1161 San Giljan.
+Tigullio is a music venue in Malta listed on soundcheck. 7 upcoming nights, with line-ups including Abdy, CMGA, ERØXX and Kingsmo and 2 more. Browse upcoming dates, start times and who's playing. Spinola Bay, Stj1161 San Giljan.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Thu, 23 Jul 2026 | The Holy Rave Malta - Week #5 | JAKKAR, Kingsmo, Naomi Baldacchino, Nestor Guzman |
 | Sat, 25 Jul 2026 | ESCAPE THE MATRIX | Abdy, LEM (IT) |
 | Thu, 30 Jul 2026 | The Holy Rave Malta - Week #6 | Kingsmo, Moupe, Naomi Baldacchino |
 | Thu, 6 Aug 2026 | The Holy Rave Malta - Week #7 | Kingsmo, Kuzio, Naomi Baldacchino, Zeyvers |
@@ -21,4 +20,4 @@ Tigullio is a music venue in Malta listed on soundcheck. 8 upcoming nights, with
 
 Spinola Bay, Stj1161 San Giljan, Malta
 
-*Updated Thu, 23 Jul 2026 · source: [soundcheck](https://soundcheck.club/malta/club/tigullio/)*
+*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/malta/club/tigullio/)*

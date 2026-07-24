@@ -1,6 +1,6 @@
 # Zisko
 
-Zisko is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Thu, 23 Jul 2026, next at TBA - Paradies Garten Festival - Schloß Prugg 2, 2460 Gemeinde Bruck an der Leitha, Vienna on Fri, 31 Jul 2026.
+Zisko is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Fri, 24 Jul 2026, next at TBA - Paradies Garten Festival - Schloß Prugg 2, 2460 Gemeinde Bruck an der Leitha, Vienna on Fri, 31 Jul 2026.
 
 Zisko is a techno and house artist based in Argentina, tracked on soundcheck, with 86 sets logged across Amsterdam, Barcelona, Belgrade and Berlin and 29 more. Often billed alongside Blasha & Allatt, Marcal and Ogazón. Next up: TBA - Paradies Garten Festival - Schloß Prugg 2, 2460 Gemeinde Bruck an der Leitha, Vienna on Fri 31 Jul.
 
@@ -27,4 +27,4 @@ Zisko is a techno and house artist based in Argentina, tracked on soundcheck, wi
 
 Blasha & Allatt, Marcal, Ogazón
 
-*Updated Thu, 23 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/zisko/)*
+*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/zisko/)*

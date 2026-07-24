@@ -1,6 +1,6 @@
 # Quarterdef
 
-Quarterdef is a House and Techno artist with 7 upcoming club dates listed on soundcheck as of Thu, 23 Jul 2026, next at Bar Franca, Los Angeles on Sat, 25 Jul 2026.
+Quarterdef is a House and Techno artist with 7 upcoming club dates listed on soundcheck as of Fri, 24 Jul 2026, next at Bar Franca, Los Angeles on Sat, 25 Jul 2026.
 
 Quarterdef is a house and techno artist based in United States of America, tracked on soundcheck, with 18 sets logged across Birmingham, Brighton, London and Losangeles and 2 more. Often billed alongside Cy Hanson, Dirtie Blonde and Freddy M. Next up: Bar Franca, Losangeles on Sat 25 Jul.
 
@@ -31,4 +31,4 @@ Quarterdef is a house and techno artist based in United States of America, track
 
 Cy Hanson, Dirtie Blonde, Freddy M
 
-*Updated Thu, 23 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/quarterdef/)*
+*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/quarterdef/)*

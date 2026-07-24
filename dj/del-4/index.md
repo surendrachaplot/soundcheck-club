@@ -1,6 +1,6 @@
 # Del (4)
 
-Del (4) is a Techno and Club artist with 2 upcoming club dates listed on soundcheck as of Thu, 23 Jul 2026, next at The San Francisco Mint, San Francisco/Oakland on Sun, 26 Jul 2026.
+Del (4) is a Techno and Club artist with 2 upcoming club dates listed on soundcheck as of Fri, 24 Jul 2026, next at The San Francisco Mint, San Francisco/Oakland on Sun, 26 Jul 2026.
 
 Del (4) is a techno and club artist based in United States of America, tracked on soundcheck, with 48 sets logged across Bristol, Miami, Philadelphia and Sanfrancisco. Often billed alongside Mnemonics, FINISHHER and SNAQ. Next up: The San Francisco Mint, Sanfrancisco on Sun 26 Jul.
 
@@ -26,4 +26,4 @@ Del (4) is a techno and club artist based in United States of America, tracked o
 
 Mnemonics, FINISHHER, SNAQ
 
-*Updated Thu, 23 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/del-4/)*
+*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/del-4/)*

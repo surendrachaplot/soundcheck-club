@@ -1,6 +1,6 @@
 # El Comal
 
-El Comal is a music venue in Vancouver with 1 upcoming night listed on soundcheck as of Thu, 23 Jul 2026; the next is "Club Fiction E3: Live from a Mexican Cocina" on Fri, 7 Aug 2026.
+El Comal is a music venue in Vancouver with 1 upcoming night listed on soundcheck as of Fri, 24 Jul 2026; the next is "Club Fiction E3: Live from a Mexican Cocina" on Fri, 7 Aug 2026.
 
 El Comal is a music venue in Vancouver listed on soundcheck. 1 upcoming night. Browse upcoming dates, start times and who's playing. 586 Hornby St.
 
@@ -14,4 +14,4 @@ El Comal is a music venue in Vancouver listed on soundcheck. 1 upcoming night. B
 
 586 Hornby St, Vancouver
 
-*Updated Thu, 23 Jul 2026 · source: [soundcheck](https://soundcheck.club/vancouver/club/el-comal/)*
+*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/vancouver/club/el-comal/)*

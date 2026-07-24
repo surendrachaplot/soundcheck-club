@@ -1,6 +1,6 @@
 # Massane
 
-Massane is a House and Deep House artist with 6 upcoming club dates listed on soundcheck as of Thu, 23 Jul 2026, next at Westlight Rooftop at The William Vale, New York City on Fri, 31 Jul 2026.
+Massane is a House and Deep House artist with 6 upcoming club dates listed on soundcheck as of Fri, 24 Jul 2026, next at Westlight Rooftop at The William Vale, New York City on Fri, 31 Jul 2026.
 
 Massane is a house and deep house artist tracked on soundcheck, with 36 sets logged across Austin, Chicago, Denver and London and 12 more. Often billed alongside EMBRZ (IE), Le Youth and Lane 8. Next up: Westlight Rooftop at The William Vale, Newyorkcity on Fri 31 Jul.
 
@@ -30,4 +30,4 @@ Massane is a house and deep house artist tracked on soundcheck, with 36 sets log
 
 EMBRZ (IE), Le Youth, Lane 8
 
-*Updated Thu, 23 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/massane/)*
+*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/massane/)*

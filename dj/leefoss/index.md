@@ -1,6 +1,6 @@
 # Lee Foss
 
-Lee Foss is a House and Tech House artist with 3 upcoming club dates listed on soundcheck as of Thu, 23 Jul 2026, next at 99 Scott Ave, New York City on Sat, 25 Jul 2026.
+Lee Foss is a House and Tech House artist with 3 upcoming club dates listed on soundcheck as of Fri, 24 Jul 2026, next at 99 Scott Ave, New York City on Sat, 25 Jul 2026.
 
 Lee Foss is a house and tech house artist based in United States of America, tracked on soundcheck, with 75 sets logged across Austin, Barcelona, Boston and Brisbane and 21 more. Often billed alongside Deeper Purpose, Sonny Fodera and ALISHA. Next up: 99 Scott Ave, Newyorkcity on Sat 25 Jul.
 
@@ -27,4 +27,4 @@ Lee Foss is a house and tech house artist based in United States of America, tra
 
 Deeper Purpose, Sonny Fodera, ALISHA
 
-*Updated Thu, 23 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/leefoss/)*
+*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/leefoss/)*

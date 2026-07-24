@@ -1,6 +1,6 @@
 # Doc Scott
 
-Doc Scott is a Drum & Bass and Jungle artist with 4 upcoming club dates listed on soundcheck as of Thu, 23 Jul 2026, next at Kaskada, Warsaw on Fri, 14 Aug 2026.
+Doc Scott is a Drum & Bass and Jungle artist with 4 upcoming club dates listed on soundcheck as of Fri, 24 Jul 2026, next at Kaskada, Warsaw on Fri, 14 Aug 2026.
 
 Doc Scott is a drum & bass and jungle artist tracked on soundcheck, with 102 sets logged across Amsterdam, Antwerp, Auckland and Barcelona and 26 more. Often billed alongside Goldie, Ant TC1 and Grooverider. Next up: Kaskada, Warsaw on Fri 14 Aug.
 
@@ -28,4 +28,4 @@ Doc Scott is a drum & bass and jungle artist tracked on soundcheck, with 102 set
 
 Goldie, Ant TC1, Grooverider
 
-*Updated Thu, 23 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/docscott/)*
+*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/docscott/)*

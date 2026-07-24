@@ -1,6 +1,6 @@
 # pekkuliar
 
-pekkuliar is a House and Acid artist with 2 upcoming club dates listed on soundcheck as of Thu, 23 Jul 2026, next at Almar Beach Club, Barcelona on Sat, 25 Jul 2026.
+pekkuliar is a House and Acid artist with 2 upcoming club dates listed on soundcheck as of Fri, 24 Jul 2026, next at Almar Beach Club, Barcelona on Sat, 25 Jul 2026.
 
 pekkuliar is a house and acid artist tracked on soundcheck, with 51 sets logged across Barcelona, Berlin, Lisbon and Lyon. Often billed alongside CMYK, Adria (ES) and Heather (ES). Next up: Almar Beach Club, Barcelona on Sat 25 Jul.
 
@@ -26,4 +26,4 @@ pekkuliar is a house and acid artist tracked on soundcheck, with 51 sets logged 
 
 CMYK, Adria (ES), Heather (ES)
 
-*Updated Thu, 23 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/pekkuliar/)*
+*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/pekkuliar/)*

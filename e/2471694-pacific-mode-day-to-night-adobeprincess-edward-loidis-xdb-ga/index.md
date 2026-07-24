@@ -1,6 +1,6 @@
 # PACIFIC MODE Day to Night: adobeprincess / Edward / Loidis / XDB / Galcher Lustwerk + more at TBA - Secret Location
 
-PACIFIC MODE Day to Night: adobeprincess / Edward / Loidis / XDB / Galcher Lustwerk + more at TBA - Secret Location on Sat 1 Aug, Newyorkcity. 8 acts on the bill: Alien D, Edward, Galcher Lustwerk and Kat Offline and 4 more. Deep House and Dub Techno. Preview the line-up and save it on soundcheck.
+PACIFIC MODE Day to Night: adobeprincess / Edward / Loidis / XDB / Galcher Lustwerk + more at TBA - Secret Location on Sat 1 Aug, Newyorkcity. 9 acts on the bill: Alien D, Edward, Galcher Lustwerk and Kat Offline and 5 more. Deep House and Dub Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -14,6 +14,7 @@ PACIFIC MODE Day to Night: adobeprincess / Edward / Loidis / XDB / Galcher Lustw
 - Edward
 - Galcher Lustwerk
 - Kat Offline
+- Kiitsu (2)
 - Loidis
 - Samo
 - XDB

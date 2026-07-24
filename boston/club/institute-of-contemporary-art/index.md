@@ -1,6 +1,6 @@
 # Institute of Contemporary Art
 
-Institute of Contemporary Art is a music venue in Boston with 4 upcoming nights listed on soundcheck as of Thu, 23 Jul 2026; the next is "ICA Vinyl Nights: Slam Funk" on Fri, 31 Jul 2026.
+Institute of Contemporary Art is a music venue in Boston with 4 upcoming nights listed on soundcheck as of Fri, 24 Jul 2026; the next is "ICA Vinyl Nights: Slam Funk" on Fri, 31 Jul 2026.
 
 Institute of Contemporary Art is a music venue in Boston listed on soundcheck. 4 upcoming nights, with line-ups including brazen, CHAOUKI, Joe Rizk and Mx. Demeanor and 1 more. Browse upcoming dates, start times and who's playing. 955 Boylston Street; Boston, MA 02199; United States.
 
@@ -17,4 +17,4 @@ Institute of Contemporary Art is a music venue in Boston listed on soundcheck. 4
 
 955 Boylston Street; Boston, MA 02199; United States, Boston
 
-*Updated Thu, 23 Jul 2026 · source: [soundcheck](https://soundcheck.club/boston/club/institute-of-contemporary-art/)*
+*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/boston/club/institute-of-contemporary-art/)*

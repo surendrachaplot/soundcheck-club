@@ -1,6 +1,6 @@
 # Praterbrücke
 
-Praterbrücke is a music venue in Vienna with 1 upcoming night listed on soundcheck as of Thu, 23 Jul 2026; the next is "iskra x bestand" on Fri, 31 Jul 2026.
+Praterbrücke is a music venue in Vienna with 1 upcoming night listed on soundcheck as of Fri, 24 Jul 2026; the next is "iskra x bestand" on Fri, 31 Jul 2026.
 
 Praterbrücke is a music venue in Vienna listed on soundcheck. 1 upcoming night, with line-ups including call me daddy, Hermeneia, Olgica and মm.. Browse upcoming dates, start times and who's playing. 1020, Wien.
 
@@ -14,4 +14,4 @@ Praterbrücke is a music venue in Vienna listed on soundcheck. 1 upcoming night,
 
 1020, Wien, Vienna
 
-*Updated Thu, 23 Jul 2026 · source: [soundcheck](https://soundcheck.club/vienna/club/praterbr-cke/)*
+*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/vienna/club/praterbr-cke/)*

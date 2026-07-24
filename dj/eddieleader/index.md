@@ -1,6 +1,6 @@
 # Eddie Leader
 
-Eddie Leader is a House and Deep House artist with 3 upcoming club dates listed on soundcheck as of Thu, 23 Jul 2026, next at Masada, Chicago on Sat, 1 Aug 2026.
+Eddie Leader is a House and Deep House artist with 3 upcoming club dates listed on soundcheck as of Fri, 24 Jul 2026, next at Masada, Chicago on Sat, 1 Aug 2026.
 
 Eddie Leader is a house and deep house artist based in United Kingdom, tracked on soundcheck, with 23 sets logged across Amsterdam, Auckland, Berlin and Chicago and 11 more. Often billed alongside Chez Damier, IVES and Benedict. Next up: Masada, Chicago on Sat 1 Aug.
 
@@ -27,4 +27,4 @@ Eddie Leader is a house and deep house artist based in United Kingdom, tracked o
 
 Chez Damier, IVES, Benedict
 
-*Updated Thu, 23 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/eddieleader/)*
+*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/eddieleader/)*

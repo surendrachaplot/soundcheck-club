@@ -1,6 +1,6 @@
 # Massaï
 
-Massaï is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Thu, 23 Jul 2026, next at TBA - ART CLUB Cabriès, Marseille on Sat, 1 Aug 2026.
+Massaï is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Fri, 24 Jul 2026, next at TBA - ART CLUB Cabriès, Marseille on Sat, 1 Aug 2026.
 
 Massaï is a house and techno artist tracked on soundcheck, with 85 sets logged across Amsterdam, Bali, Bangkok and Barcelona and 26 more. Often billed alongside LAMALICE, Man/Ipulate and Alyhas. Next up: TBA - ART CLUB Cabriès, Marseille on Sat 1 Aug.
 
@@ -26,4 +26,4 @@ Massaï is a house and techno artist tracked on soundcheck, with 85 sets logged 
 
 LAMALICE, Man/Ipulate, Alyhas
 
-*Updated Thu, 23 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/massai/)*
+*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/massai/)*

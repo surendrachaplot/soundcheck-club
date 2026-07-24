@@ -1,6 +1,6 @@
 # Tonn Piper
 
-Tonn Piper is a Drum & Bass and Jungle artist with 3 upcoming club dates listed on soundcheck as of Thu, 23 Jul 2026, next at Joshua Brooks, Manchester on Thu, 30 Jul 2026.
+Tonn Piper is a Drum & Bass and Jungle artist with 3 upcoming club dates listed on soundcheck as of Fri, 24 Jul 2026, next at Joshua Brooks, Manchester on Thu, 30 Jul 2026.
 
 Tonn Piper is a drum & bass and jungle artist tracked on soundcheck, with 47 sets logged across Amsterdam, Auckland, Austin and Birmingham and 21 more. Often billed alongside Andy C, IC3 and Mozey. Next up: Joshua Brooks, Manchester on Thu 30 Jul.
 
@@ -27,4 +27,4 @@ Tonn Piper is a drum & bass and jungle artist tracked on soundcheck, with 47 set
 
 Andy C, IC3, Mozey
 
-*Updated Thu, 23 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/tonnpiper/)*
+*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/tonnpiper/)*

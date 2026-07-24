@@ -1,6 +1,6 @@
 # Martyn
 
-Martyn is a Techno and Bass artist with 2 upcoming club dates listed on soundcheck as of Thu, 23 Jul 2026, next at Fuse, Brussels on Sat, 29 Aug 2026.
+Martyn is a Techno and Bass artist with 2 upcoming club dates listed on soundcheck as of Fri, 24 Jul 2026, next at Fuse, Brussels on Sat, 29 Aug 2026.
 
 Martyn is a techno and bass artist based in United States of America, tracked on soundcheck, with 68 sets logged across Amsterdam, Barcelona, Berlin and Bristol and 21 more. Often billed alongside CCL, EMA (1) and Darwin. Next up: Fuse, Brussels on Sat 29 Aug.
 
@@ -26,4 +26,4 @@ Martyn is a techno and bass artist based in United States of America, tracked on
 
 CCL, EMA (1), Darwin
 
-*Updated Thu, 23 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/martyn/)*
+*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/martyn/)*

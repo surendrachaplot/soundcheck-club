@@ -1,6 +1,6 @@
 # Red Roof Church
 
-Red Roof Church is a music venue in Montreal with 2 upcoming nights listed on soundcheck as of Thu, 23 Jul 2026; the next is "Rivalled Envy's EP launch with Pulsum, HRT, Belly Hatcher + DJs" on Fri, 24 Jul 2026.
+Red Roof Church is a music venue in Montreal with 2 upcoming nights listed on soundcheck as of Fri, 24 Jul 2026; the next is "Rivalled Envy's EP launch with Pulsum, HRT, Belly Hatcher + DJs" on Fri, 24 Jul 2026.
 
 Red Roof Church is a music venue in Montreal listed on soundcheck. 2 upcoming nights, with line-ups including Mickey Dagger, Phase Fatale and Pulsum. Browse upcoming dates, start times and who's playing. 137 Avenue du Président-Kennedy, Montréal, QC H2X 3P6, Canada.
 
@@ -15,4 +15,4 @@ Red Roof Church is a music venue in Montreal listed on soundcheck. 2 upcoming ni
 
 137 Avenue du Président-Kennedy, Montréal, QC H2X 3P6, Canada, Montreal
 
-*Updated Thu, 23 Jul 2026 · source: [soundcheck](https://soundcheck.club/montreal/club/red-roof-church/)*
+*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/montreal/club/red-roof-church/)*

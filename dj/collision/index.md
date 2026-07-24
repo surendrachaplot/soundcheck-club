@@ -1,6 +1,6 @@
 # COLLISION
 
-COLLISION is a Techno and Acid artist with 4 upcoming club dates listed on soundcheck as of Thu, 23 Jul 2026, next at S-Factory Sector B, Seoul on Sat, 25 Jul 2026.
+COLLISION is a Techno and Acid artist with 4 upcoming club dates listed on soundcheck as of Fri, 24 Jul 2026, next at S-Factory Sector B, Seoul on Sat, 25 Jul 2026.
 
 COLLISION is a techno and acid artist based in Italy, tracked on soundcheck, with 54 sets logged across Antwerp, Berlin, Ghent and Houston and 5 more. Often billed alongside Fortuno, Victor Carré and AMANN. Next up: S-Factory Sector B, Seoul on Sat 25 Jul.
 
@@ -28,4 +28,4 @@ COLLISION is a techno and acid artist based in Italy, tracked on soundcheck, wit
 
 Fortuno, Victor Carré, AMANN
 
-*Updated Thu, 23 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/collision/)*
+*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/collision/)*

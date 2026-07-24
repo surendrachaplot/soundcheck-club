@@ -1,6 +1,6 @@
 # Bee Lincoln
 
-Bee Lincoln is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Thu, 23 Jul 2026, next at Die Rakete, Nürnberg on Fri, 24 Jul 2026.
+Bee Lincoln is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Fri, 24 Jul 2026, next at Die Rakete, Nürnberg on Fri, 24 Jul 2026.
 
 Bee Lincoln is a techno and house artist tracked on soundcheck, with 87 sets logged across Berlin, Hamburg, Kualalumpur and Nurnberg and 1 more. Often billed alongside Coco, Empro and Stan Starry. Next up: Die Rakete, Nurnberg on Fri 24 Jul.
 
@@ -26,4 +26,4 @@ Bee Lincoln is a techno and house artist tracked on soundcheck, with 87 sets log
 
 Coco, Empro, Stan Starry
 
-*Updated Thu, 23 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/beelincoln/)*
+*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/beelincoln/)*

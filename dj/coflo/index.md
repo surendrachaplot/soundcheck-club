@@ -1,6 +1,6 @@
 # Coflo
 
-Coflo is a House and Deep House artist with 3 upcoming club dates listed on soundcheck as of Thu, 23 Jul 2026, next at TBA - Secret Location, Berkeley, San Francisco/Oakland on Sat, 8 Aug 2026.
+Coflo is a House and Deep House artist with 3 upcoming club dates listed on soundcheck as of Fri, 24 Jul 2026, next at TBA - Secret Location, Berkeley, San Francisco/Oakland on Sat, 8 Aug 2026.
 
 Coflo is a house and deep house artist tracked on soundcheck, with 55 sets logged across Amsterdam, Chicago, Denver and Detroit and 14 more. Often billed alongside sillygirlcarmen, Jayvi Velasco and Norm Talley. Next up: TBA - Secret Location, Berkeley, Sanfrancisco on Sat 8 Aug.
 
@@ -27,4 +27,4 @@ Coflo is a house and deep house artist tracked on soundcheck, with 55 sets logge
 
 sillygirlcarmen, Jayvi Velasco, Norm Talley
 
-*Updated Thu, 23 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/coflo/)*
+*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/coflo/)*

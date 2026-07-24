@@ -1,6 +1,6 @@
 # Javi Redondo
 
-Javi Redondo is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Thu, 23 Jul 2026, next at La Terrrazza, Barcelona on Sat, 25 Jul 2026.
+Javi Redondo is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Fri, 24 Jul 2026, next at La Terrrazza, Barcelona on Sat, 25 Jul 2026.
 
 Javi Redondo is a house and techno artist based in Spain, tracked on soundcheck, with 42 sets logged across Barcelona, Losangeles, Madrid and Mexicocity and 2 more. Often billed alongside Alvaro Cabana, Certain People and David Ponziano. Next up: La Terrrazza, Barcelona on Sat 25 Jul.
 
@@ -27,4 +27,4 @@ Javi Redondo is a house and techno artist based in Spain, tracked on soundcheck,
 
 Alvaro Cabana, Certain People, David Ponziano
 
-*Updated Thu, 23 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/javiredondo/)*
+*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/javiredondo/)*

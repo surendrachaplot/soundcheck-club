@@ -1,6 +1,6 @@
 # Alarico
 
-Alarico is a Techno and House artist with 24 upcoming club dates listed on soundcheck as of Thu, 23 Jul 2026, next at Grelle Forelle, Vienna on Fri, 24 Jul 2026.
+Alarico is a Techno and House artist with 24 upcoming club dates listed on soundcheck as of Fri, 24 Jul 2026, next at Grelle Forelle, Vienna on Fri, 24 Jul 2026.
 
 Alarico is a techno and house artist tracked on soundcheck, with 259 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 68 more. Often billed alongside Chlär, Funk Assault and Yanamaste. Next up: Grelle Forelle, Vienna on Fri 24 Jul.
 
@@ -36,4 +36,4 @@ Alarico is a techno and house artist tracked on soundcheck, with 259 sets logged
 
 Chlär, Funk Assault, Yanamaste
 
-*Updated Thu, 23 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/alarico/)*
+*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/alarico/)*

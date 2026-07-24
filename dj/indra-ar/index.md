@@ -1,6 +1,6 @@
 # INDRA TRAFERRI
 
-INDRA TRAFERRI is a House and Tech House artist with 2 upcoming club dates listed on soundcheck as of Thu, 23 Jul 2026, next at Almar Beach Club, Barcelona on Sun, 26 Jul 2026.
+INDRA TRAFERRI is a House and Tech House artist with 2 upcoming club dates listed on soundcheck as of Fri, 24 Jul 2026, next at Almar Beach Club, Barcelona on Sun, 26 Jul 2026.
 
 INDRA TRAFERRI is a house and tech house artist based in Argentina, tracked on soundcheck, with 47 sets logged across Barcelona. Often billed alongside Galu Bla, Mat Spiaggi and Vennegur. Next up: Almar Beach Club, Barcelona on Sun 26 Jul.
 
@@ -26,4 +26,4 @@ INDRA TRAFERRI is a house and tech house artist based in Argentina, tracked on s
 
 Galu Bla, Mat Spiaggi, Vennegur
 
-*Updated Thu, 23 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/indra-ar/)*
+*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/indra-ar/)*

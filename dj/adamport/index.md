@@ -1,6 +1,6 @@
 # Adam Port
 
-Adam Port is a House and Techno artist with 5 upcoming club dates listed on soundcheck as of Thu, 23 Jul 2026, next at Finsbury Park, London on Sun, 9 Aug 2026.
+Adam Port is a House and Techno artist with 5 upcoming club dates listed on soundcheck as of Fri, 24 Jul 2026, next at Finsbury Park, London on Sun, 9 Aug 2026.
 
 Adam Port is a house and techno artist based in Germany, tracked on soundcheck, with 70 sets logged across Amsterdam, Antwerp, Athens and Austin and 26 more. Often billed alongside &ME, Rampa and Sossa. Next up: Finsbury Park, London on Sun 9 Aug.
 
@@ -29,4 +29,4 @@ Adam Port is a house and techno artist based in Germany, tracked on soundcheck, 
 
 &ME, Rampa, Sossa
 
-*Updated Thu, 23 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/adamport/)*
+*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/adamport/)*

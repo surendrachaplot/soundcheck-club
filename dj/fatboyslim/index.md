@@ -1,6 +1,6 @@
 # Fatboy Slim
 
-Fatboy Slim is a House and Tech House artist with 9 upcoming club dates listed on soundcheck as of Thu, 23 Jul 2026, next at Gianpula Village, Malta on Fri, 31 Jul 2026.
+Fatboy Slim is a House and Tech House artist with 9 upcoming club dates listed on soundcheck as of Fri, 24 Jul 2026, next at Gianpula Village, Malta on Fri, 31 Jul 2026.
 
 Fatboy Slim is a house and tech house artist tracked on soundcheck, with 93 sets logged across Amsterdam, Athens, Austin and Bali and 37 more. Often billed alongside Sarah Story, Jayda G and Tini Gessler. Next up: Gianpula Village, Malta on Fri 31 Jul.
 
@@ -33,4 +33,4 @@ Fatboy Slim is a house and tech house artist tracked on soundcheck, with 93 sets
 
 Sarah Story, Jayda G, Tini Gessler
 
-*Updated Thu, 23 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/fatboyslim/)*
+*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/fatboyslim/)*

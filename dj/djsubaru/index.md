@@ -1,6 +1,6 @@
 # DJ Subaru
 
-DJ Subaru is a Italo Disco and Disco artist with 2 upcoming club dates listed on soundcheck as of Thu, 23 Jul 2026, next at The Cause, London on Sat, 12 Sept 2026.
+DJ Subaru is a Italo Disco and Disco artist with 2 upcoming club dates listed on soundcheck as of Fri, 24 Jul 2026, next at The Cause, London on Sat, 12 Sept 2026.
 
 DJ Subaru is an italo disco and disco artist tracked on soundcheck, with 69 sets logged across Amsterdam, Antwerp, Berlin and Brighton and 11 more. Often billed alongside babyschön, Sound Metaphors Djs and Michael Upson. Next up: The Cause, London on Sat 12 Sept.
 
@@ -26,4 +26,4 @@ DJ Subaru is an italo disco and disco artist tracked on soundcheck, with 69 sets
 
 babyschön, Sound Metaphors Djs, Michael Upson
 
-*Updated Thu, 23 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/djsubaru/)*
+*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/djsubaru/)*

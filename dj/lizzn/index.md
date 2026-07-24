@@ -1,6 +1,6 @@
 # LIZZN
 
-LIZZN is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Thu, 23 Jul 2026, next at Fridas Pier, Stuttgart on Sat, 25 Jul 2026.
+LIZZN is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Fri, 24 Jul 2026, next at Fridas Pier, Stuttgart on Sat, 25 Jul 2026.
 
 LIZZN is a house and techno artist tracked on soundcheck, with 76 sets logged across Berlin, Brussels, Cologne and Copenhagen and 5 more. Often billed alongside Ana Cover, Ligal Tamir and justUS. Next up: Fridas Pier, Stuttgart on Sat 25 Jul.
 
@@ -26,4 +26,4 @@ LIZZN is a house and techno artist tracked on soundcheck, with 76 sets logged ac
 
 Ana Cover, Ligal Tamir, justUS
 
-*Updated Thu, 23 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/lizzn/)*
+*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/lizzn/)*

@@ -1,6 +1,6 @@
 # Fvtvr
 
-Fvtvr is a music venue in Paris with 11 upcoming nights listed on soundcheck as of Thu, 23 Jul 2026; the next is "Primal Instinct" on Fri, 24 Jul 2026.
+Fvtvr is a music venue in Paris with 11 upcoming nights listed on soundcheck as of Fri, 24 Jul 2026; the next is "Primal Instinct" on Fri, 24 Jul 2026.
 
 Fvtvr is a music venue in Paris listed on soundcheck. 11 upcoming nights, with line-ups including Adriana Lopez, Akaj, Alhena_ and Alyhas and 2 more. Browse upcoming dates, start times and who's playing. 34 quai d'Austerlitz, 75013 Paris.
 
@@ -23,4 +23,4 @@ Fvtvr is a music venue in Paris listed on soundcheck. 11 upcoming nights, with l
 
 34 quai d'Austerlitz, 75013 Paris, Paris
 
-*Updated Thu, 23 Jul 2026 · source: [soundcheck](https://soundcheck.club/paris/club/fvtvr/)*
+*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/paris/club/fvtvr/)*

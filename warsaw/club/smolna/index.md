@@ -1,6 +1,6 @@
 # Smolna
 
-Smolna is a music venue in Warsaw with 16 upcoming nights listed on soundcheck as of Thu, 23 Jul 2026; the next is "vitcat invites x Borderlove" on Fri, 24 Jul 2026.
+Smolna is a music venue in Warsaw with 16 upcoming nights listed on soundcheck as of Fri, 24 Jul 2026; the next is "vitcat invites x Borderlove" on Fri, 24 Jul 2026.
 
 Smolna is a music venue in Warsaw listed on soundcheck. 16 upcoming nights, with line-ups including Abrew, Anela, BBN (1) and bolo and 2 more. Browse upcoming dates, start times and who's playing. Smolna 38, 00-375 Warszawa.
 
@@ -23,4 +23,4 @@ Smolna is a music venue in Warsaw listed on soundcheck. 16 upcoming nights, with
 
 Smolna 38, 00-375 Warszawa, Warsaw
 
-*Updated Thu, 23 Jul 2026 · source: [soundcheck](https://soundcheck.club/warsaw/club/smolna/)*
+*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/warsaw/club/smolna/)*

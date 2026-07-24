@@ -1,6 +1,6 @@
 # Niotech
 
-Niotech is a Techno and Trance artist with 5 upcoming club dates listed on soundcheck as of Thu, 23 Jul 2026, next at Club Vaag, Antwerp on Fri, 31 Jul 2026.
+Niotech is a Techno and Trance artist with 5 upcoming club dates listed on soundcheck as of Fri, 24 Jul 2026, next at Club Vaag, Antwerp on Fri, 31 Jul 2026.
 
 Niotech is a techno and trance artist tracked on soundcheck, with 73 sets logged across Amsterdam, Antwerp, Belgrade and Berlin and 15 more. Often billed alongside AREA ØNE, 3LEEZA and IGDA. Next up: Club Vaag, Antwerp on Fri 31 Jul.
 
@@ -29,4 +29,4 @@ Niotech is a techno and trance artist tracked on soundcheck, with 73 sets logged
 
 AREA ØNE, 3LEEZA, IGDA
 
-*Updated Thu, 23 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/niotech/)*
+*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/niotech/)*

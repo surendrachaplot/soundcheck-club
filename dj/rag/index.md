@@ -1,6 +1,6 @@
 # RAG
 
-RAG is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Thu, 23 Jul 2026, next at Virage, Paris on Fri, 24 Jul 2026.
+RAG is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Fri, 24 Jul 2026, next at Virage, Paris on Fri, 24 Jul 2026.
 
 RAG is a techno and house artist tracked on soundcheck, with 54 sets logged across Berlin, Geneva, Lyon and Marseille and 4 more. Often billed alongside PEPIITA, Anaco and COCKO. Next up: Virage, Paris on Fri 24 Jul.
 
@@ -26,4 +26,4 @@ RAG is a techno and house artist tracked on soundcheck, with 54 sets logged acro
 
 PEPIITA, Anaco, COCKO
 
-*Updated Thu, 23 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/rag/)*
+*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/rag/)*

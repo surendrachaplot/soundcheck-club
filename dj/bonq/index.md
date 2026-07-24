@@ -1,6 +1,6 @@
 # Bonq
 
-Bonq is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Thu, 23 Jul 2026, next at KitKatClub, Berlin on Wed, 29 Jul 2026.
+Bonq is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Fri, 24 Jul 2026, next at KitKatClub, Berlin on Wed, 29 Jul 2026.
 
 Bonq is a techno and house artist based in Germany, tracked on soundcheck, with 53 sets logged across Bangkok, Berlin, Frankfurt and Hamburg and 2 more. Often billed alongside DJ Jordan, KEN (DE) and DJ PayPaul. Next up: KitKatClub, Berlin on Wed 29 Jul.
 
@@ -26,4 +26,4 @@ Bonq is a techno and house artist based in Germany, tracked on soundcheck, with 
 
 DJ Jordan, KEN (DE), DJ PayPaul
 
-*Updated Thu, 23 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/bonq/)*
+*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/bonq/)*

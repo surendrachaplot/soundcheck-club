@@ -1,6 +1,6 @@
 # cassandrah
 
-cassandrah is a Techno and Industrial artist with 4 upcoming club dates listed on soundcheck as of Thu, 23 Jul 2026, next at Ministerium Club, Lisbon on Thu, 6 Aug 2026.
+cassandrah is a Techno and Industrial artist with 4 upcoming club dates listed on soundcheck as of Fri, 24 Jul 2026, next at Ministerium Club, Lisbon on Thu, 6 Aug 2026.
 
 cassandrah is a techno and industrial artist tracked on soundcheck, with 33 sets logged across Antwerp, Barcelona, Belgrade and Berlin and 15 more. Often billed alongside Rian Wood, La Penderie Noire and Pura Solenne. Next up: Ministerium Club, Lisbon on Thu 6 Aug.
 
@@ -28,4 +28,4 @@ cassandrah is a techno and industrial artist tracked on soundcheck, with 33 sets
 
 Rian Wood, La Penderie Noire, Pura Solenne
 
-*Updated Thu, 23 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/cassandrah/)*
+*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/cassandrah/)*

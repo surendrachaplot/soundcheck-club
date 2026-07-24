@@ -1,6 +1,6 @@
 # Matt L-S
 
-Matt L-S is a Deep House and Disco artist with 3 upcoming club dates listed on soundcheck as of Thu, 23 Jul 2026, next at Setlist @ Somerset House, London on Sun, 2 Aug 2026.
+Matt L-S is a Deep House and Disco artist with 3 upcoming club dates listed on soundcheck as of Fri, 24 Jul 2026, next at Setlist @ Somerset House, London on Sun, 2 Aug 2026.
 
 Matt L-S is a deep house and disco artist tracked on soundcheck, with 50 sets logged across London and Paris. Often billed alongside Jamesey, Davide Del Vecchio and Kojay. Next up: Setlist @ Somerset House, London on Sun 2 Aug.
 
@@ -27,4 +27,4 @@ Matt L-S is a deep house and disco artist tracked on soundcheck, with 50 sets lo
 
 Jamesey, Davide Del Vecchio, Kojay
 
-*Updated Thu, 23 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/mattl-s/)*
+*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/mattl-s/)*

@@ -1,6 +1,6 @@
 # DREAMINSLOW
 
-DREAMINSLOW is a Techno and Club artist with 3 upcoming club dates listed on soundcheck as of Thu, 23 Jul 2026, next at Phantom Bar Berlin, Berlin on Sat, 25 Jul 2026.
+DREAMINSLOW is a Techno and Club artist with 3 upcoming club dates listed on soundcheck as of Fri, 24 Jul 2026, next at Phantom Bar Berlin, Berlin on Sat, 25 Jul 2026.
 
 DREAMINSLOW is a techno and club artist based in United States of America, tracked on soundcheck, with 67 sets logged across Berlin, Boston, London and Miami and 2 more. Often billed alongside Muerte Lenta, SATURNSARii and DJ Thank You. Next up: Phantom Bar Berlin, Berlin on Sat 25 Jul.
 
@@ -27,4 +27,4 @@ DREAMINSLOW is a techno and club artist based in United States of America, track
 
 Muerte Lenta, SATURNSARii, DJ Thank You
 
-*Updated Thu, 23 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/dreaminslow/)*
+*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/dreaminslow/)*

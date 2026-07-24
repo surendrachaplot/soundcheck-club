@@ -1,6 +1,6 @@
 # Space Afrika
 
-Space Afrika is a Ambient and Experimental artist with 3 upcoming club dates listed on soundcheck as of Thu, 23 Jul 2026, next at Amsterdamse Bos, Amsterdam on Wed, 29 Jul 2026.
+Space Afrika is a Ambient and Experimental artist with 3 upcoming club dates listed on soundcheck as of Fri, 24 Jul 2026, next at Amsterdamse Bos, Amsterdam on Wed, 29 Jul 2026.
 
 Space Afrika is an ambient and experimental artist based in United Kingdom, tracked on soundcheck, with 52 sets logged across Amsterdam, Barcelona, Basel and Berlin and 17 more. Often billed alongside Loraine James, Actress and Caterina Barbieri. Next up: Amsterdamse Bos, Amsterdam on Wed 29 Jul.
 
@@ -27,4 +27,4 @@ Space Afrika is an ambient and experimental artist based in United Kingdom, trac
 
 Loraine James, Actress, Caterina Barbieri
 
-*Updated Thu, 23 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/spaceafrika/)*
+*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/spaceafrika/)*

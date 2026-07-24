@@ -1,6 +1,6 @@
 # Charlie
 
-Charlie is a Techno and House artist with 5 upcoming club dates listed on soundcheck as of Thu, 23 Jul 2026, next at Schrotty, Cologne on Fri, 24 Jul 2026.
+Charlie is a Techno and House artist with 5 upcoming club dates listed on soundcheck as of Fri, 24 Jul 2026, next at Schrotty, Cologne on Fri, 24 Jul 2026.
 
 Charlie is a techno and house artist tracked on soundcheck, with 130 sets logged across Amsterdam, Barcelona, Berlin and Brighton and 22 more. Often billed alongside Marsman, Priku and Arapu. Next up: Schrotty, Cologne on Fri 24 Jul.
 
@@ -29,4 +29,4 @@ Charlie is a techno and house artist tracked on soundcheck, with 130 sets logged
 
 Marsman, Priku, Arapu
 
-*Updated Thu, 23 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/charlie/)*
+*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/charlie/)*

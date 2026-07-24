@@ -1,6 +1,6 @@
 # Lilya Mandre
 
-Lilya Mandre is a House and Afro House artist with 4 upcoming club dates listed on soundcheck as of Thu, 23 Jul 2026, next at Kaufleuten, Zurich on Sat, 25 Jul 2026.
+Lilya Mandre is a House and Afro House artist with 4 upcoming club dates listed on soundcheck as of Fri, 24 Jul 2026, next at Kaufleuten, Zurich on Sat, 25 Jul 2026.
 
 Lilya Mandre is a house and afro house artist tracked on soundcheck, with 26 sets logged across Amsterdam, Berlin, Dusseldorf and Ibiza and 10 more. Often billed alongside Black Coffee, Paul Reynolds and Damian Lazarus. Next up: Kaufleuten, Zurich on Sat 25 Jul.
 
@@ -28,4 +28,4 @@ Lilya Mandre is a house and afro house artist tracked on soundcheck, with 26 set
 
 Black Coffee, Paul Reynolds, Damian Lazarus
 
-*Updated Thu, 23 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/lilyamandre/)*
+*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/lilyamandre/)*

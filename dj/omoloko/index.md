@@ -1,6 +1,6 @@
 # OMOLOKO
 
-OMOLOKO is a House and Techno artist with 6 upcoming club dates listed on soundcheck as of Thu, 23 Jul 2026, next at PIP Den Haag, The Hague on Sat, 25 Jul 2026.
+OMOLOKO is a House and Techno artist with 6 upcoming club dates listed on soundcheck as of Fri, 24 Jul 2026, next at PIP Den Haag, The Hague on Sat, 25 Jul 2026.
 
 OMOLOKO is a house and techno artist tracked on soundcheck, with 82 sets logged across Amsterdam, Antwerp, Athens and Bangkok and 26 more. Often billed alongside Kabulom, BADSISTA and Cashu. Next up: PIP Den Haag, Thehague on Sat 25 Jul.
 
@@ -30,4 +30,4 @@ OMOLOKO is a house and techno artist tracked on soundcheck, with 82 sets logged 
 
 Kabulom, BADSISTA, Cashu
 
-*Updated Thu, 23 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/omoloko/)*
+*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/omoloko/)*

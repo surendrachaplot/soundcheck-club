@@ -1,6 +1,6 @@
 # Yuma (UK)
 
-Yuma (UK) is a Electro and House artist with 3 upcoming club dates listed on soundcheck as of Thu, 23 Jul 2026, next at Fortune of War, Brighton on Sat, 25 Jul 2026.
+Yuma (UK) is a Electro and House artist with 3 upcoming club dates listed on soundcheck as of Fri, 24 Jul 2026, next at Fortune of War, Brighton on Sat, 25 Jul 2026.
 
 Yuma (UK) is an electro and house artist based in United Kingdom, tracked on soundcheck, with 19 sets logged across Brighton, London and Malaga. Often billed alongside Oren (IT), Peter Grand and Oren.. Next up: Fortune of War, Brighton on Sat 25 Jul.
 
@@ -27,4 +27,4 @@ Yuma (UK) is an electro and house artist based in United Kingdom, tracked on sou
 
 Oren (IT), Peter Grand, Oren.
 
-*Updated Thu, 23 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/yumauk/)*
+*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/yumauk/)*

@@ -1,6 +1,6 @@
 # Rebekah Abdeen
 
-Rebekah Abdeen is a Techno and Bass artist with 2 upcoming club dates listed on soundcheck as of Thu, 23 Jul 2026, next at XOYO, London on Thu, 30 Jul 2026.
+Rebekah Abdeen is a Techno and Bass artist with 2 upcoming club dates listed on soundcheck as of Fri, 24 Jul 2026, next at XOYO, London on Thu, 30 Jul 2026.
 
 Rebekah Abdeen is a techno and bass artist tracked on soundcheck, with 50 sets logged across Basel, Berlin, Brighton and Detroit and 9 more. Often billed alongside Denham Audio, Trudy Knight and Sport Mode. Next up: XOYO, London on Thu 30 Jul.
 
@@ -26,4 +26,4 @@ Rebekah Abdeen is a techno and bass artist tracked on soundcheck, with 50 sets l
 
 Denham Audio, Trudy Knight, Sport Mode
 
-*Updated Thu, 23 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/rebekahabdeen/)*
+*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/rebekahabdeen/)*

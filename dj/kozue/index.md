@@ -1,6 +1,6 @@
 # Kozue
 
-Kozue is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Thu, 23 Jul 2026, next at Gorg-O-Mish, Vancouver on Fri, 24 Jul 2026.
+Kozue is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Fri, 24 Jul 2026, next at Gorg-O-Mish, Vancouver on Fri, 24 Jul 2026.
 
 Kozue is a house and techno artist tracked on soundcheck, with 47 sets logged across Montreal, Tokyo and Vancouver. Often billed alongside Dane, Beiti and Body Double. Next up: Gorg-O-Mish, Vancouver on Fri 24 Jul.
 
@@ -27,4 +27,4 @@ Kozue is a house and techno artist tracked on soundcheck, with 47 sets logged ac
 
 Dane, Beiti, Body Double
 
-*Updated Thu, 23 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/kozue/)*
+*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/kozue/)*

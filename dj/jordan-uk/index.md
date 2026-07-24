@@ -1,6 +1,6 @@
 # Jordan Nocturne
 
-Jordan Nocturne is a House and Techno artist with 4 upcoming club dates listed on soundcheck as of Thu, 23 Jul 2026, next at C.S. Lewis Square, London on Sat, 25 Jul 2026.
+Jordan Nocturne is a House and Techno artist with 4 upcoming club dates listed on soundcheck as of Fri, 24 Jul 2026, next at C.S. Lewis Square, London on Sat, 25 Jul 2026.
 
 Jordan Nocturne is a house and techno artist tracked on soundcheck, with 74 sets logged across Antwerp, Belfast, Berlin and Brisbane and 17 more. Often billed alongside Timmy Stewart, Marion Hawkes and Danse Intermission. Next up: C.S. Lewis Square, London on Sat 25 Jul.
 
@@ -28,4 +28,4 @@ Jordan Nocturne is a house and techno artist tracked on soundcheck, with 74 sets
 
 Timmy Stewart, Marion Hawkes, Danse Intermission
 
-*Updated Thu, 23 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/jordan-uk/)*
+*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/jordan-uk/)*

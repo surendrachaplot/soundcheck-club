@@ -1,6 +1,6 @@
 # Wurstküche Restaurant Venice Beach
 
-Wurstküche Restaurant Venice Beach is a music venue in Los Angeles with 1 upcoming night listed on soundcheck as of Thu, 23 Jul 2026; the next is "AT YOUR WÜRST W/ VLTRA" on Sat, 25 Jul 2026.
+Wurstküche Restaurant Venice Beach is a music venue in Los Angeles with 1 upcoming night listed on soundcheck as of Fri, 24 Jul 2026; the next is "AT YOUR WÜRST W/ VLTRA" on Sat, 25 Jul 2026.
 
 Wurstküche Restaurant Venice Beach is a music venue in Losangeles listed on soundcheck. 1 upcoming night, with line-ups including Stoley and VLTRA (IT). Browse upcoming dates, start times and who's playing. 625 Lincoln Blvd, Venice, CA 90291.
 
@@ -14,4 +14,4 @@ Wurstküche Restaurant Venice Beach is a music venue in Losangeles listed on sou
 
 625 Lincoln Blvd, Venice, CA 90291, Los Angeles
 
-*Updated Thu, 23 Jul 2026 · source: [soundcheck](https://soundcheck.club/losangeles/club/wurstk-che-restaurant-venice-beach/)*
+*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/losangeles/club/wurstk-che-restaurant-venice-beach/)*

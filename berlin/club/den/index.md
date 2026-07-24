@@ -1,14 +1,13 @@
 # ÆDEN
 
-ÆDEN is a music venue in Berlin with 26 upcoming nights listed on soundcheck as of Thu, 23 Jul 2026; the next is "Complice x Kluster — Prelude to CSD" on Thu, 23 Jul 2026.
+ÆDEN is a music venue in Berlin with 25 upcoming nights listed on soundcheck as of Fri, 24 Jul 2026; the next is "PUTI PRIDE 2026" on Fri, 24 Jul 2026.
 
-ÆDEN is a music venue in Berlin listed on soundcheck. 26 upcoming nights, with line-ups including 7CIRCLE, KIV., Acierate and Alexa Fluor and 2 more. Browse upcoming dates, start times and who's playing. Schleusenufer 2, 10997 Berlin.
+ÆDEN is a music venue in Berlin listed on soundcheck. 25 upcoming nights, with line-ups including 7CIRCLE, KIV., Acierate and Alexa Fluor and 2 more. Browse upcoming dates, start times and who's playing. Schleusenufer 2, 10997 Berlin.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Thu, 23 Jul 2026 | Complice x Kluster — Prelude to CSD | Alfred Czital, Aurian, CLEO, EMIRA, Elvin, Equus Belli, Iris Leidenschaft, KEUT, Litoshka, Miro Von, The Camel |
 | Fri, 24 Jul 2026 | PUTI PRIDE 2026 | Clementaum, Isa GT, Lazy Rosario, MALAGÜERA |
 | Wed, 29 Jul 2026 | Lilith |  |
 | Thu, 30 Jul 2026 | OBXENE  | Alex Pastore, Azkonar, D3VAN, F DRAXIS, La Rod's, OSKAR., UNT3N |
@@ -18,9 +17,10 @@
 | Fri, 7 Aug 2026 | Ten Years SYNOID | Acierate, PINKBOIALWAYSCRY, SLV |
 | Sat, 8 Aug 2026 | TRINITY pt. IV w/ Lukas Meunier & David Strasser | BENDOM, David Strasser, FRËIHERR, Lukas Meunier, Nilinski, Phil Biehler, Schleo, SchokoZitrone, Yokio, kutscher, loumo |
 | Sun, 9 Aug 2026 | PALMAHOUSICA |  |
+| Thu, 13 Aug 2026 | FREENETICA CREW at ÆDEN with Tarkno - 7CIRCLE - Caniche - Mython | 7CIRCLE, Caniche, Jacopo Forli, Linda shiro, Mat Hex, Mython, NKK (IT), Phreenetic, Soffice, Tarkno |
 
 ## Address
 
 Schleusenufer 2, 10997 Berlin, Berlin
 
-*Updated Thu, 23 Jul 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/den/)*
+*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/den/)*

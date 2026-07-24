@@ -1,6 +1,6 @@
 # Triangle
 
-Triangle is a music venue in Osaka with 3 upcoming nights listed on soundcheck as of Thu, 23 Jul 2026; the next is "Rising Dragon Gate vol.2" on Wed, 29 Jul 2026.
+Triangle is a music venue in Osaka with 3 upcoming nights listed on soundcheck as of Fri, 24 Jul 2026; the next is "Rising Dragon Gate vol.2" on Wed, 29 Jul 2026.
 
 Triangle is a music venue in Osaka listed on soundcheck. 3 upcoming nights, with line-ups including into, kakepon and ya!ya?. Browse upcoming dates, start times and who's playing. 2-18-5 Nishishinsaibashi, Chuo-ku, Osaka-shi, Osaka, 542-0086 Japan.
 
@@ -16,4 +16,4 @@ Triangle is a music venue in Osaka listed on soundcheck. 3 upcoming nights, with
 
 2-18-5 Nishishinsaibashi, Chuo-ku, Osaka-shi, Osaka, 542-0086 Japan, Osaka
 
-*Updated Thu, 23 Jul 2026 · source: [soundcheck](https://soundcheck.club/osaka/club/triangle/)*
+*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/osaka/club/triangle/)*

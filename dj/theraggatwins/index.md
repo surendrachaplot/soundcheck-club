@@ -1,14 +1,14 @@
 # The Ragga Twins
 
-The Ragga Twins is a Drum & Bass and Jungle artist with 4 upcoming club dates listed on soundcheck as of Thu, 23 Jul 2026, next at Hootananny, London on Fri, 24 Jul 2026.
+The Ragga Twins is a Drum & Bass and Jungle artist with 4 upcoming club dates listed on soundcheck as of Fri, 24 Jul 2026, next at Hootananny Brixton, London on Fri, 24 Jul 2026.
 
-The Ragga Twins is a drum & bass and jungle artist tracked on soundcheck, with 79 sets logged across Amsterdam, Birmingham, Brighton and Bristol and 7 more. Often billed alongside DJ Brockie, Uncle Dugs and Jumping Jack Frost. Next up: Hootananny, London on Fri 24 Jul.
+The Ragga Twins is a drum & bass and jungle artist tracked on soundcheck, with 79 sets logged across Amsterdam, Birmingham, Brighton and Bristol and 7 more. Often billed alongside DJ Brockie, Uncle Dugs and Jumping Jack Frost. Next up: Hootananny Brixton, London on Fri 24 Jul.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 24 Jul 2026 | Hootananny | London |
+| Fri, 24 Jul 2026 | Hootananny Brixton | London |
 | Sat, 1 Aug 2026 | Brixton Jamm | London |
 | Sat, 8 Aug 2026 | Basing House | London |
 | Fri, 14 Aug 2026 | Brixton Jamm | London |
@@ -28,4 +28,4 @@ The Ragga Twins is a drum & bass and jungle artist tracked on soundcheck, with 7
 
 DJ Brockie, Uncle Dugs, Jumping Jack Frost
 
-*Updated Thu, 23 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/theraggatwins/)*
+*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/theraggatwins/)*

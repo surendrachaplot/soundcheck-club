@@ -1,6 +1,6 @@
 # Butter
 
-Butter is a music venue in San Francisco/Oakland with 3 upcoming nights listed on soundcheck as of Thu, 23 Jul 2026; the next is "Sindustry Sundays: Alexx Gold, Jeff Straw" on Sun, 26 Jul 2026.
+Butter is a music venue in San Francisco/Oakland with 3 upcoming nights listed on soundcheck as of Fri, 24 Jul 2026; the next is "Sindustry Sundays: Alexx Gold, Jeff Straw" on Sun, 26 Jul 2026.
 
 Butter is a music venue in Sanfrancisco listed on soundcheck. 3 upcoming nights, with line-ups including Jeff Straw and Ming. Browse upcoming dates, start times and who's playing. 354 11th St, San Francisco, CA, United States.
 
@@ -16,4 +16,4 @@ Butter is a music venue in Sanfrancisco listed on soundcheck. 3 upcoming nights,
 
 354 11th St, San Francisco, CA, United States, San Francisco/Oakland
 
-*Updated Thu, 23 Jul 2026 · source: [soundcheck](https://soundcheck.club/sanfrancisco/club/butter/)*
+*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/sanfrancisco/club/butter/)*

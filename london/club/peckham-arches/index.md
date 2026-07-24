@@ -1,6 +1,6 @@
 # Peckham Arches
 
-Peckham Arches is a music venue in London with 2 upcoming nights listed on soundcheck as of Thu, 23 Jul 2026; the next is "leverson x Peckham Arches" on Thu, 27 Aug 2026.
+Peckham Arches is a music venue in London with 2 upcoming nights listed on soundcheck as of Fri, 24 Jul 2026; the next is "leverson x Peckham Arches" on Thu, 27 Aug 2026.
 
 Peckham Arches is a music venue in London listed on soundcheck. 2 upcoming nights, with line-ups including Brick Top, Groooves, James Worker and Josh Wuf and 2 more. Browse upcoming dates, start times and who's playing. 213 Blenheim Grove, London, SE15 4QL.
 
@@ -15,4 +15,4 @@ Peckham Arches is a music venue in London listed on soundcheck. 2 upcoming night
 
 213 Blenheim Grove, London, SE15 4QL, London
 
-*Updated Thu, 23 Jul 2026 · source: [soundcheck](https://soundcheck.club/london/club/peckham-arches/)*
+*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/london/club/peckham-arches/)*

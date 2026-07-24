@@ -1,6 +1,6 @@
 # Kowalski
 
-Kowalski is a music venue in Stuttgart with 9 upcoming nights listed on soundcheck as of Thu, 23 Jul 2026; the next is "LOVEPOP PRIDE EDITION" on Sat, 25 Jul 2026.
+Kowalski is a music venue in Stuttgart with 9 upcoming nights listed on soundcheck as of Fri, 24 Jul 2026; the next is "LOVEPOP PRIDE EDITION" on Sat, 25 Jul 2026.
 
 Kowalski is a music venue in Stuttgart listed on soundcheck. 9 upcoming nights, with line-ups including Anna Tur, DJ Unholy, Fabian Kaa and FANXI B and 2 more. Browse upcoming dates, start times and who's playing. Kriegsbergstr. 28, 70174 Stuttgart, Germany.
 
@@ -22,4 +22,4 @@ Kowalski is a music venue in Stuttgart listed on soundcheck. 9 upcoming nights, 
 
 Kriegsbergstr. 28, 70174 Stuttgart, Germany, Stuttgart
 
-*Updated Thu, 23 Jul 2026 · source: [soundcheck](https://soundcheck.club/stuttgart/club/kowalski/)*
+*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/stuttgart/club/kowalski/)*

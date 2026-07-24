@@ -1,6 +1,6 @@
 # Flor Coto
 
-Flor Coto is a House and Electro artist with 3 upcoming club dates listed on soundcheck as of Thu, 23 Jul 2026, next at Fitzroy, Berlin on Sat, 25 Jul 2026.
+Flor Coto is a House and Electro artist with 3 upcoming club dates listed on soundcheck as of Fri, 24 Jul 2026, next at Fitzroy, Berlin on Sat, 25 Jul 2026.
 
 Flor Coto is a house and electro artist based in Argentina, tracked on soundcheck, with 32 sets logged across Barcelona, Berlin, Buenosaires and Leipzig and 2 more. Often billed alongside Szew, Rafael and Chuki Juri. Next up: Fitzroy, Berlin on Sat 25 Jul.
 
@@ -27,4 +27,4 @@ Flor Coto is a house and electro artist based in Argentina, tracked on soundchec
 
 Szew, Rafael, Chuki Juri
 
-*Updated Thu, 23 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/florcoto/)*
+*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/florcoto/)*

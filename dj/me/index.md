@@ -1,6 +1,6 @@
 # &ME
 
-&ME is a House and Techno artist with 8 upcoming club dates listed on soundcheck as of Thu, 23 Jul 2026, next at Galopprennbahn, Munich on Sat, 1 Aug 2026.
+&ME is a House and Techno artist with 8 upcoming club dates listed on soundcheck as of Fri, 24 Jul 2026, next at Galopprennbahn, Munich on Sat, 1 Aug 2026.
 
 &ME is a house and techno artist based in Germany, tracked on soundcheck, with 91 sets logged across Amsterdam, Antwerp, Athens and Austin and 31 more. Often billed alongside Rampa, Adam Port and Sossa. Next up: Galopprennbahn, Munich on Sat 1 Aug.
 
@@ -32,4 +32,4 @@
 
 Rampa, Adam Port, Sossa
 
-*Updated Thu, 23 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/me/)*
+*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/me/)*

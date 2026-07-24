@@ -1,6 +1,6 @@
 # DungeonMaster
 
-DungeonMaster is a Techno and EBM artist with 3 upcoming club dates listed on soundcheck as of Thu, 23 Jul 2026, next at Aaja Basement, London on Fri, 7 Aug 2026.
+DungeonMaster is a Techno and EBM artist with 3 upcoming club dates listed on soundcheck as of Fri, 24 Jul 2026, next at Aaja Basement, London on Fri, 7 Aug 2026.
 
 DungeonMaster is a techno and ebm artist based in Italy, tracked on soundcheck, with 14 sets logged across London. Often billed alongside MUSICKLUNATIC, ALVAZ and Arrosa. Next up: Aaja Basement, London on Fri 7 Aug.
 
@@ -27,4 +27,4 @@ DungeonMaster is a techno and ebm artist based in Italy, tracked on soundcheck, 
 
 MUSICKLUNATIC, ALVAZ, Arrosa
 
-*Updated Thu, 23 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/dungeonmaster/)*
+*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/dungeonmaster/)*

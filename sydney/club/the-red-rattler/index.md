@@ -1,6 +1,6 @@
 # The Red Rattler
 
-The Red Rattler is a music venue in Sydney with 3 upcoming nights listed on soundcheck as of Thu, 23 Jul 2026; the next is "SIMA x CG Discs Present: Standing Room" on Sat, 25 Jul 2026.
+The Red Rattler is a music venue in Sydney with 3 upcoming nights listed on soundcheck as of Fri, 24 Jul 2026; the next is "SIMA x CG Discs Present: Standing Room" on Sat, 25 Jul 2026.
 
 The Red Rattler is a music venue in Sydney listed on soundcheck. 3 upcoming nights, with line-ups including Grasps, Jungist, LEVOS and Marcus Whale and 2 more. Browse upcoming dates, start times and who's playing. 6 Faversham St, Marrickville NSW 2204, Australia.
 
@@ -16,4 +16,4 @@ The Red Rattler is a music venue in Sydney listed on soundcheck. 3 upcoming nigh
 
 6 Faversham St, Marrickville NSW 2204, Australia, Sydney
 
-*Updated Thu, 23 Jul 2026 · source: [soundcheck](https://soundcheck.club/sydney/club/the-red-rattler/)*
+*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/sydney/club/the-red-rattler/)*

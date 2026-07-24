@@ -1,6 +1,6 @@
 # Parc des Etangs/Vijverspark
 
-Parc des Etangs/Vijverspark is a music venue in Brussels with 1 upcoming night listed on soundcheck as of Thu, 23 Jul 2026; the next is "XRDS festival 2026" on Fri, 14 Aug 2026.
+Parc des Etangs/Vijverspark is a music venue in Brussels with 1 upcoming night listed on soundcheck as of Fri, 24 Jul 2026; the next is "XRDS festival 2026" on Fri, 14 Aug 2026.
 
 Parc des Etangs/Vijverspark is a music venue in Brussels listed on soundcheck. 1 upcoming night, with line-ups including 1morning, ako, Alarico and AliA and 2 more. Browse upcoming dates, start times and who's playing. Avenue Marius Renard, 1070 Anderlecht, Belgium.
 
@@ -14,4 +14,4 @@ Parc des Etangs/Vijverspark is a music venue in Brussels listed on soundcheck. 1
 
 Avenue Marius Renard, 1070 Anderlecht, Belgium, Brussels
 
-*Updated Thu, 23 Jul 2026 · source: [soundcheck](https://soundcheck.club/brussels/club/parc-des-etangs-vijverspark/)*
+*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/brussels/club/parc-des-etangs-vijverspark/)*

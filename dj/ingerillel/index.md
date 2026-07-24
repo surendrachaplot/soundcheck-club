@@ -1,6 +1,6 @@
 # Inger Illel
 
-Inger Illel is a Techno and Trance artist with 2 upcoming club dates listed on soundcheck as of Thu, 23 Jul 2026, next at Ankali & Planeta Za, Prague on Fri, 24 Jul 2026.
+Inger Illel is a Techno and Trance artist with 2 upcoming club dates listed on soundcheck as of Fri, 24 Jul 2026, next at Ankali & Planeta Za, Prague on Fri, 24 Jul 2026.
 
 Inger Illel is a techno and trance artist tracked on soundcheck, with 56 sets logged across Krakow, Prague, Tbilisi and Warsaw. Often billed alongside Atch22, INTT and Pink Concrete. Next up: Ankali & Planeta Za, Prague on Fri 24 Jul.
 
@@ -26,4 +26,4 @@ Inger Illel is a techno and trance artist tracked on soundcheck, with 56 sets lo
 
 Atch22, INTT, Pink Concrete
 
-*Updated Thu, 23 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/ingerillel/)*
+*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/ingerillel/)*

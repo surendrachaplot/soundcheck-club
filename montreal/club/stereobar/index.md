@@ -1,6 +1,6 @@
 # StereoBar
 
-StereoBar is a music venue in Montreal with 18 upcoming nights listed on soundcheck as of Thu, 23 Jul 2026; the next is "Mihai Popoviciu - Nymra & Sofisticated" on Fri, 24 Jul 2026.
+StereoBar is a music venue in Montreal with 18 upcoming nights listed on soundcheck as of Fri, 24 Jul 2026; the next is "Mihai Popoviciu - Nymra & Sofisticated" on Fri, 24 Jul 2026.
 
 StereoBar is a music venue in Montreal listed on soundcheck. 18 upcoming nights, with line-ups including Adam Husa, Armen Miran, Audrey Bélanger and Binh and 2 more. Browse upcoming dates, start times and who's playing. 856 Saint Catherine East, Montreal, Quebec, H2L2E3.
 
@@ -23,4 +23,4 @@ StereoBar is a music venue in Montreal listed on soundcheck. 18 upcoming nights,
 
 856 Saint Catherine East, Montreal, Quebec, H2L2E3, Montreal
 
-*Updated Thu, 23 Jul 2026 · source: [soundcheck](https://soundcheck.club/montreal/club/stereobar/)*
+*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/montreal/club/stereobar/)*

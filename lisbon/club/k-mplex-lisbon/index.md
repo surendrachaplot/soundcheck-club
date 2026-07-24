@@ -1,6 +1,6 @@
 # Kømplex Lisbon
 
-Kømplex Lisbon is a music venue in Lisbon with 7 upcoming nights listed on soundcheck as of Thu, 23 Jul 2026; the next is "ArtLab - Newcomers & Talent Event" on Fri, 24 Jul 2026.
+Kømplex Lisbon is a music venue in Lisbon with 7 upcoming nights listed on soundcheck as of Fri, 24 Jul 2026; the next is "ArtLab - Newcomers & Talent Event" on Fri, 24 Jul 2026.
 
 Kømplex Lisbon is a music venue in Lisbon listed on soundcheck. 7 upcoming nights, with line-ups including ANNĒ, Cristobal Pesce, CucaRafa and DIMENSION 9 and 2 more. Browse upcoming dates, start times and who's playing. Praceta Domingos Rodrigues Nr5 2685-327 Lisbon.
 
@@ -20,4 +20,4 @@ Kømplex Lisbon is a music venue in Lisbon listed on soundcheck. 7 upcoming nigh
 
 Praceta Domingos Rodrigues Nr5 2685-327 Lisbon, Lisbon
 
-*Updated Thu, 23 Jul 2026 · source: [soundcheck](https://soundcheck.club/lisbon/club/k-mplex-lisbon/)*
+*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/lisbon/club/k-mplex-lisbon/)*

@@ -1,6 +1,6 @@
 # Edelfettwerk
 
-Edelfettwerk is a music venue in Hamburg with 5 upcoming nights listed on soundcheck as of Thu, 23 Jul 2026; the next is "SYNTHETIC LOVE - DAY & NIGHT FESTIVAL I open air & indoor" on Sat, 1 Aug 2026.
+Edelfettwerk is a music venue in Hamburg with 5 upcoming nights listed on soundcheck as of Fri, 24 Jul 2026; the next is "SYNTHETIC LOVE - DAY & NIGHT FESTIVAL I open air & indoor" on Sat, 1 Aug 2026.
 
 Edelfettwerk is a music venue in Hamburg listed on soundcheck. 5 upcoming nights, with line-ups including Annie, Butschi, CAIVA and CALLUSH and 2 more. Browse upcoming dates, start times and who's playing. Schnackenburgsallee 202, 22525 Hamburg.
 
@@ -18,4 +18,4 @@ Edelfettwerk is a music venue in Hamburg listed on soundcheck. 5 upcoming nights
 
 Schnackenburgsallee 202, 22525 Hamburg, Hamburg
 
-*Updated Thu, 23 Jul 2026 · source: [soundcheck](https://soundcheck.club/hamburg/club/edelfettwerk/)*
+*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/hamburg/club/edelfettwerk/)*

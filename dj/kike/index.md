@@ -1,6 +1,6 @@
 # ki:ke
 
-ki:ke is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Thu, 23 Jul 2026, next at Club der Visionaere, Berlin on Tue, 28 Jul 2026.
+ki:ke is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Fri, 24 Jul 2026, next at Club der Visionaere, Berlin on Tue, 28 Jul 2026.
 
 ki:ke is a house and techno artist based in Spain, tracked on soundcheck, with 53 sets logged across Barcelona, Berlin, Ibiza and London. Often billed alongside GRETA (2), Demofather and Sergi (ES). Next up: Club der Visionaere, Berlin on Tue 28 Jul.
 
@@ -26,4 +26,4 @@ ki:ke is a house and techno artist based in Spain, tracked on soundcheck, with 5
 
 GRETA (2), Demofather, Sergi (ES)
 
-*Updated Thu, 23 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/kike/)*
+*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/kike/)*

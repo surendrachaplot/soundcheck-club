@@ -1,6 +1,6 @@
 # Tokyo Bar
 
-Tokyo Bar is a music venue in Newcastle with 12 upcoming nights listed on soundcheck as of Thu, 23 Jul 2026; the next is "Moose" on Fri, 24 Jul 2026.
+Tokyo Bar is a music venue in Newcastle with 12 upcoming nights listed on soundcheck as of Fri, 24 Jul 2026; the next is "Moose" on Fri, 24 Jul 2026.
 
 Tokyo Bar is a music venue in Newcastle listed on soundcheck. 12 upcoming nights, with line-ups including DADs. Browse upcoming dates, start times and who's playing. 17 Westgate Road; Newcastle upon Tyne; NE1 1SE; United Kingdom.
 
@@ -23,4 +23,4 @@ Tokyo Bar is a music venue in Newcastle listed on soundcheck. 12 upcoming nights
 
 17 Westgate Road; Newcastle upon Tyne; NE1 1SE; United Kingdom, Newcastle
 
-*Updated Thu, 23 Jul 2026 · source: [soundcheck](https://soundcheck.club/newcastle/club/tokyo-bar/)*
+*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/newcastle/club/tokyo-bar/)*

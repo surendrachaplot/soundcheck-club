@@ -1,6 +1,6 @@
 # Sy Sez
 
-Sy Sez is a House and Deep House artist with 3 upcoming club dates listed on soundcheck as of Thu, 23 Jul 2026, next at El Charcon Beach, Malaga on Sat, 22 Aug 2026.
+Sy Sez is a House and Deep House artist with 3 upcoming club dates listed on soundcheck as of Fri, 24 Jul 2026, next at El Charcon Beach, Malaga on Sat, 22 Aug 2026.
 
 Sy Sez is a house and deep house artist tracked on soundcheck, with 58 sets logged across Birmingham, Leeds, Lisbon and Liverpool and 5 more. Often billed alongside Neil Pierce, Jeremy Sylvester and Boon (UK). Next up: El Charcon Beach, Malaga on Sat 22 Aug.
 
@@ -27,4 +27,4 @@ Sy Sez is a house and deep house artist tracked on soundcheck, with 58 sets logg
 
 Neil Pierce, Jeremy Sylvester, Boon (UK)
 
-*Updated Thu, 23 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/sysez/)*
+*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/sysez/)*

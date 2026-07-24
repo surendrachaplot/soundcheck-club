@@ -1,14 +1,14 @@
 # Z@p
 
-Z@p is a Techno and Electro artist with 2 upcoming club dates listed on soundcheck as of Thu, 23 Jul 2026, next at Under Club, Buenos Aires on Sat, 25 Jul 2026.
+Z@p is a Techno and Electro artist with 2 upcoming club dates listed on soundcheck as of Fri, 24 Jul 2026, next at Blow, Buenos Aires on Sat, 25 Jul 2026.
 
-Z@p is a techno and electro artist based in Uruguay, tracked on soundcheck, with 112 sets logged across Amsterdam, Athens, Bangkok and Barcelona and 31 more. Often billed alongside Unai Trotti, Junki Inoue and Vass. Next up: Under Club, Buenosaires on Sat 25 Jul.
+Z@p is a techno and electro artist based in Uruguay, tracked on soundcheck, with 112 sets logged across Amsterdam, Athens, Bangkok and Barcelona and 31 more. Often billed alongside Unai Trotti, Junki Inoue and Vass. Next up: Blow, Buenosaires on Sat 25 Jul.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 25 Jul 2026 | Under Club | Buenos Aires |
+| Sat, 25 Jul 2026 | Blow | Buenos Aires |
 | Fri, 21 Aug 2026 | FOLD | London |
 
 ## Recently played
@@ -26,4 +26,4 @@ Z@p is a techno and electro artist based in Uruguay, tracked on soundcheck, with
 
 Unai Trotti, Junki Inoue, Vass
 
-*Updated Thu, 23 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/zap/)*
+*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/zap/)*

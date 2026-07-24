@@ -1,6 +1,6 @@
 # EDNA
 
-EDNA is a Techno and Trance artist with 2 upcoming club dates listed on soundcheck as of Thu, 23 Jul 2026, next at TBA - Near Berlin (Secret Forest), Berlin on Thu, 6 Aug 2026.
+EDNA is a Techno and Trance artist with 2 upcoming club dates listed on soundcheck as of Fri, 24 Jul 2026, next at TBA - Near Berlin (Secret Forest), Berlin on Thu, 6 Aug 2026.
 
 EDNA is a techno and trance artist tracked on soundcheck, with 52 sets logged across Berlin, Cologne, Frankfurt and Hamburg and 4 more. Often billed alongside Isabelle Beaucamp, DeGuzman and Melanchromie. Next up: TBA - Near Berlin (Secret Forest), Berlin on Thu 6 Aug.
 
@@ -26,4 +26,4 @@ EDNA is a techno and trance artist tracked on soundcheck, with 52 sets logged ac
 
 Isabelle Beaucamp, DeGuzman, Melanchromie
 
-*Updated Thu, 23 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/edna/)*
+*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/edna/)*

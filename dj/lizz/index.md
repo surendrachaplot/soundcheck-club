@@ -1,6 +1,6 @@
 # Lizz
 
-Lizz is a Minimal and House artist with 2 upcoming club dates listed on soundcheck as of Thu, 23 Jul 2026, next at Pisco Bar, Kuala Lumpur on Sat, 25 Jul 2026.
+Lizz is a Minimal and House artist with 2 upcoming club dates listed on soundcheck as of Fri, 24 Jul 2026, next at Pisco Bar, Kuala Lumpur on Sat, 25 Jul 2026.
 
 Lizz is a minimal and house artist based in Romania, tracked on soundcheck, with 78 sets logged across Bangkok, Barcelona, Berlin and Boston and 27 more. Often billed alongside Cosmjn, Gescu and ELV/RA. Next up: Pisco Bar, Kualalumpur on Sat 25 Jul.
 
@@ -26,4 +26,4 @@ Lizz is a minimal and house artist based in Romania, tracked on soundcheck, with
 
 Cosmjn, Gescu, ELV/RA
 
-*Updated Thu, 23 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/lizz/)*
+*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/lizz/)*

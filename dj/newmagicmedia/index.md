@@ -1,6 +1,6 @@
 # NEW MAGIC MEDIA
 
-NEW MAGIC MEDIA is a Techno and Bass artist with 2 upcoming club dates listed on soundcheck as of Thu, 23 Jul 2026, next at Ankali & Planeta Za, Prague on Fri, 7 Aug 2026.
+NEW MAGIC MEDIA is a Techno and Bass artist with 2 upcoming club dates listed on soundcheck as of Fri, 24 Jul 2026, next at Ankali & Planeta Za, Prague on Fri, 7 Aug 2026.
 
 NEW MAGIC MEDIA is a techno and bass artist based in Czech Republic, tracked on soundcheck, with 54 sets logged across London, Prague and Tbilisi. Often billed alongside Kaa Glo, Nastya Muravyova and SJ Yellow. Next up: Ankali & Planeta Za, Prague on Fri 7 Aug.
 
@@ -26,4 +26,4 @@ NEW MAGIC MEDIA is a techno and bass artist based in Czech Republic, tracked on 
 
 Kaa Glo, Nastya Muravyova, SJ Yellow
 
-*Updated Thu, 23 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/newmagicmedia/)*
+*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/newmagicmedia/)*

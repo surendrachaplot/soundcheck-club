@@ -1,6 +1,6 @@
 # Cross Club
 
-Cross Club is a music venue in Prague with 12 upcoming nights listed on soundcheck as of Thu, 23 Jul 2026; the next is "CROSS SQUARE with ZRNÍ" on Fri, 24 Jul 2026.
+Cross Club is a music venue in Prague with 12 upcoming nights listed on soundcheck as of Fri, 24 Jul 2026; the next is "CROSS SQUARE with ZRNÍ" on Fri, 24 Jul 2026.
 
 Cross Club is a music venue in Prague listed on soundcheck. 12 upcoming nights, with line-ups including fleika and Scoundrel. Browse upcoming dates, start times and who's playing. Plynární 1096/23, Praha 7, Czech Republic.
 
@@ -23,4 +23,4 @@ Cross Club is a music venue in Prague listed on soundcheck. 12 upcoming nights, 
 
 Plynární 1096/23, Praha 7, Czech Republic, Prague
 
-*Updated Thu, 23 Jul 2026 · source: [soundcheck](https://soundcheck.club/prague/club/cross-club/)*
+*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/prague/club/cross-club/)*

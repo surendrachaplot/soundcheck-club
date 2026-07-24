@@ -1,6 +1,6 @@
 # Scoopsi
 
-Scoopsi is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Thu, 23 Jul 2026, next at Golden Gate, Berlin on Sat, 1 Aug 2026.
+Scoopsi is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Fri, 24 Jul 2026, next at Golden Gate, Berlin on Sat, 1 Aug 2026.
 
 Scoopsi is a house and techno artist based in Canada, tracked on soundcheck, with 86 sets logged across Barcelona, Berlin, Copenhagen and Hamburg and 5 more. Often billed alongside Annina, Jonaku (DE) and Jack Clark. Next up: Golden Gate, Berlin on Sat 1 Aug.
 
@@ -26,4 +26,4 @@ Scoopsi is a house and techno artist based in Canada, tracked on soundcheck, wit
 
 Annina, Jonaku (DE), Jack Clark
 
-*Updated Thu, 23 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/scoopsi/)*
+*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/scoopsi/)*

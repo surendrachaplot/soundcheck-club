@@ -1,6 +1,6 @@
 # Magnolia
 
-Magnolia is a House and Disco artist with 3 upcoming club dates listed on soundcheck as of Thu, 23 Jul 2026, next at Podlasie Club, Chicago on Thu, 30 Jul 2026.
+Magnolia is a House and Disco artist with 3 upcoming club dates listed on soundcheck as of Fri, 24 Jul 2026, next at Podlasie Club, Chicago on Thu, 30 Jul 2026.
 
 Magnolia is a house and disco artist based in Switzerland, tracked on soundcheck, with 22 sets logged across Amsterdam, Bristol, Chicago and London and 5 more. Often billed alongside Bustin' Loose, Crystal Touch and Sam Karlson. Next up: Podlasie Club, Chicago on Thu 30 Jul.
 
@@ -27,4 +27,4 @@ Magnolia is a house and disco artist based in Switzerland, tracked on soundcheck
 
 Bustin' Loose, Crystal Touch, Sam Karlson
 
-*Updated Thu, 23 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/magnolia/)*
+*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/magnolia/)*

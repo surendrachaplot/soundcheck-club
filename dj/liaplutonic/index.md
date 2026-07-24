@@ -1,6 +1,6 @@
 # Lia Plutonic
 
-Lia Plutonic is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Thu, 23 Jul 2026, next at Bar Datcha, Montreal on Sat, 8 Aug 2026.
+Lia Plutonic is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Fri, 24 Jul 2026, next at Bar Datcha, Montreal on Sat, 8 Aug 2026.
 
 Lia Plutonic is a house and techno artist tracked on soundcheck, with 70 sets logged across Chicago, Montreal, Toronto and Vancouver. Often billed alongside Guthrie, Lis Dalton and Pascale Project. Next up: Bar Datcha, Montreal on Sat 8 Aug.
 
@@ -27,4 +27,4 @@ Lia Plutonic is a house and techno artist tracked on soundcheck, with 70 sets lo
 
 Guthrie, Lis Dalton, Pascale Project
 
-*Updated Thu, 23 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/liaplutonic/)*
+*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/liaplutonic/)*

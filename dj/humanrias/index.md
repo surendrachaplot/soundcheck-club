@@ -1,6 +1,6 @@
 # Human Rias
 
-Human Rias is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Thu, 23 Jul 2026, next at Lieberscholli, Munich on Fri, 21 Aug 2026.
+Human Rias is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Fri, 24 Jul 2026, next at Lieberscholli, Munich on Fri, 21 Aug 2026.
 
 Human Rias is a techno and house artist based in Germany, tracked on soundcheck, with 44 sets logged across Amsterdam, Antwerp, Athens and Berlin and 12 more. Often billed alongside Black Box, DOBE and Rad.Lez. Next up: Lieberscholli, Munich on Fri 21 Aug.
 
@@ -26,4 +26,4 @@ Human Rias is a techno and house artist based in Germany, tracked on soundcheck,
 
 Black Box, DOBE, Rad.Lez
 
-*Updated Thu, 23 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/humanrias/)*
+*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/humanrias/)*

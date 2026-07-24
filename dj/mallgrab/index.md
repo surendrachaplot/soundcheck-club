@@ -1,6 +1,6 @@
 # Mall Grab
 
-Mall Grab is a Techno and House artist with 12 upcoming club dates listed on soundcheck as of Thu, 23 Jul 2026, next at Mondo, Madrid on Sat, 25 Jul 2026.
+Mall Grab is a Techno and House artist with 12 upcoming club dates listed on soundcheck as of Fri, 24 Jul 2026, next at Mondo, Madrid on Sat, 25 Jul 2026.
 
 Mall Grab is a techno and house artist tracked on soundcheck, with 200 sets logged across Aberdeen, Amsterdam, Antwerp and Athens and 62 more. Often billed alongside Effy, KETTAMA and Skin On Skin. Next up: Mondo, Madrid on Sat 25 Jul.
 
@@ -36,4 +36,4 @@ Mall Grab is a techno and house artist tracked on soundcheck, with 200 sets logg
 
 Effy, KETTAMA, Skin On Skin
 
-*Updated Thu, 23 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/mallgrab/)*
+*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/mallgrab/)*

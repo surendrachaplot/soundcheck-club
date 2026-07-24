@@ -1,6 +1,6 @@
 # KPTM
 
-KPTM is a music venue in Belgrade with 1 upcoming night listed on soundcheck as of Thu, 23 Jul 2026; the next is "KPTM presents COZi / 10 Hours Event" on Sat, 25 Jul 2026.
+KPTM is a music venue in Belgrade with 1 upcoming night listed on soundcheck as of Fri, 24 Jul 2026; the next is "KPTM presents COZi / 10 Hours Event" on Sat, 25 Jul 2026.
 
 KPTM is a music venue in Belgrade listed on soundcheck. 1 upcoming night, with line-ups including all.me, COZi, Leo Lang and Peter Portman. Browse upcoming dates, start times and who's playing. Zorza Klemansoa 22 (Francuska 54) 11000 Belgrade, Serbia.
 
@@ -14,4 +14,4 @@ KPTM is a music venue in Belgrade listed on soundcheck. 1 upcoming night, with l
 
 Zorza Klemansoa 22 (Francuska 54) 11000 Belgrade, Serbia, Belgrade
 
-*Updated Thu, 23 Jul 2026 · source: [soundcheck](https://soundcheck.club/belgrade/club/kptm/)*
+*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/belgrade/club/kptm/)*

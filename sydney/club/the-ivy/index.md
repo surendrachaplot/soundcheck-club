@@ -1,6 +1,6 @@
 # The Ivy
 
-The Ivy is a music venue in Sydney with 4 upcoming nights listed on soundcheck as of Thu, 23 Jul 2026; the next is "CLUB HEARTBEAT – JULY 25" on Sat, 25 Jul 2026.
+The Ivy is a music venue in Sydney with 4 upcoming nights listed on soundcheck as of Fri, 24 Jul 2026; the next is "CLUB HEARTBEAT – JULY 25" on Sat, 25 Jul 2026.
 
 The Ivy is a music venue in Sydney listed on soundcheck. 4 upcoming nights, with line-ups including Alex Wann, Camo & Krooked, Crossy and Disrupta and 2 more. Browse upcoming dates, start times and who's playing. 320-330 George St; Sydney, NSW 2000; Australia.
 
@@ -17,4 +17,4 @@ The Ivy is a music venue in Sydney listed on soundcheck. 4 upcoming nights, with
 
 320-330 George St; Sydney, NSW 2000; Australia, Sydney
 
-*Updated Thu, 23 Jul 2026 · source: [soundcheck](https://soundcheck.club/sydney/club/the-ivy/)*
+*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/sydney/club/the-ivy/)*

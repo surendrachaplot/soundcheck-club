@@ -1,6 +1,6 @@
 # Chinastraat
 
-Chinastraat is a music venue in Ghent with 4 upcoming nights listed on soundcheck as of Thu, 23 Jul 2026; the next is "ACIDICA FESTIVAL 2026" on Sat, 1 Aug 2026.
+Chinastraat is a music venue in Ghent with 4 upcoming nights listed on soundcheck as of Fri, 24 Jul 2026; the next is "ACIDICA FESTIVAL 2026" on Sat, 1 Aug 2026.
 
 Chinastraat is a music venue in Ghent listed on soundcheck. 4 upcoming nights, with line-ups including 23Shayatin, Albiovix, DLR and Dub Head and 2 more. Browse upcoming dates, start times and who's playing. Chinastraat 1, 9000 Ghent.
 
@@ -17,4 +17,4 @@ Chinastraat is a music venue in Ghent listed on soundcheck. 4 upcoming nights, w
 
 Chinastraat 1, 9000 Ghent, Ghent
 
-*Updated Thu, 23 Jul 2026 · source: [soundcheck](https://soundcheck.club/ghent/club/chinastraat/)*
+*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/ghent/club/chinastraat/)*

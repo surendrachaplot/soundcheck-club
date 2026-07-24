@@ -1,6 +1,6 @@
 # LATEX GIRL
 
-LATEX GIRL is a Techno and Electro artist with 2 upcoming club dates listed on soundcheck as of Thu, 23 Jul 2026, next at Northern Lights Lounge, Detroit on Fri, 24 Jul 2026.
+LATEX GIRL is a Techno and Electro artist with 2 upcoming club dates listed on soundcheck as of Fri, 24 Jul 2026, next at Northern Lights Lounge, Detroit on Fri, 24 Jul 2026.
 
 LATEX GIRL is a techno and electro artist based in United States of America, tracked on soundcheck, with 172 sets logged across Amsterdam, Boston, Chicago and Detroit and 1 more. Often billed alongside Wax Assassin, Garrison XR and we1sman. Next up: Northern Lights Lounge, Detroit on Fri 24 Jul.
 
@@ -26,4 +26,4 @@ LATEX GIRL is a techno and electro artist based in United States of America, tra
 
 Wax Assassin, Garrison XR, we1sman
 
-*Updated Thu, 23 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/latexgirl/)*
+*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/latexgirl/)*

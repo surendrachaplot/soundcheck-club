@@ -1,6 +1,6 @@
 # Kasey Riot
 
-Kasey Riot is a Techno and Industrial artist with 3 upcoming club dates listed on soundcheck as of Thu, 23 Jul 2026, next at Catacombs Cabaret, Toronto on Sat, 25 Jul 2026.
+Kasey Riot is a Techno and Industrial artist with 3 upcoming club dates listed on soundcheck as of Fri, 24 Jul 2026, next at Catacombs Cabaret, Toronto on Sat, 25 Jul 2026.
 
 Kasey Riot is a techno and industrial artist tracked on soundcheck, with 52 sets logged across Montreal, Toronto and Vancouver. Often billed alongside DJ Hockey, Fisher Bryce and Sam Steele. Next up: Catacombs Cabaret, Toronto on Sat 25 Jul.
 
@@ -27,4 +27,4 @@ Kasey Riot is a techno and industrial artist tracked on soundcheck, with 52 sets
 
 DJ Hockey, Fisher Bryce, Sam Steele
 
-*Updated Thu, 23 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/kaseyriot/)*
+*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/kaseyriot/)*

@@ -1,6 +1,6 @@
 # Joyce Muniz
 
-Joyce Muniz is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Thu, 23 Jul 2026, next at Switch, Porto on Fri, 24 Jul 2026.
+Joyce Muniz is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Fri, 24 Jul 2026, next at Switch, Porto on Fri, 24 Jul 2026.
 
 Joyce Muniz is a house and techno artist tracked on soundcheck, with 70 sets logged across Amsterdam, Bali, Berlin and Cologne and 21 more. Often billed alongside Mira, Anja Schneider and JAMIIE. Next up: Switch, Porto on Fri 24 Jul.
 
@@ -27,4 +27,4 @@ Joyce Muniz is a house and techno artist tracked on soundcheck, with 70 sets log
 
 Mira, Anja Schneider, JAMIIE
 
-*Updated Thu, 23 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/joycemuniz/)*
+*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/joycemuniz/)*

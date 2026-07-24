@@ -1,14 +1,13 @@
 # Lux Fragil
 
-Lux Fragil is a music venue in Lisbon with 7 upcoming nights listed on soundcheck as of Thu, 23 Jul 2026; the next is "ILEKTRONIK SANGEET" on Thu, 23 Jul 2026.
+Lux Fragil is a music venue in Lisbon with 6 upcoming nights listed on soundcheck as of Fri, 24 Jul 2026; the next is "Luca Lozano b2b Mr. Ho, Rui Vargas, Nicolle Velcro, Sheri Vari" on Fri, 24 Jul 2026.
 
-Lux Fragil is a music venue in Lisbon listed on soundcheck. 7 upcoming nights, with line-ups including Analodjica, Armanda, Corrina and Dexter Lux and 2 more. Browse upcoming dates, start times and who's playing. Av. Infante D. Henrique, armazém A, Cais da Pedra a Sta. Apolónia, 1950-376 Lisboa, Portugal.
+Lux Fragil is a music venue in Lisbon listed on soundcheck. 6 upcoming nights, with line-ups including Analodjica, Armanda, Corrina and Dexter Lux and 2 more. Browse upcoming dates, start times and who's playing. Av. Infante D. Henrique, armazém A, Cais da Pedra a Sta. Apolónia, 1950-376 Lisboa, Portugal.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Thu, 23 Jul 2026 | ILEKTRONIK SANGEET | Khalil Suleman, Kulas, XCI |
 | Fri, 24 Jul 2026 | Luca Lozano b2b Mr. Ho, Rui Vargas, Nicolle Velcro, Sheri Vari | Luca Lozano, Mr. Ho, Nicolle Velcro, Rui Vargas, Sheri Vari, Tiago DJ |
 | Sat, 25 Jul 2026 | SUPERB: Nicola Cruz, Corrina & Jorge, Joyce Muniz, Inês Duarte, OITO//OITO | Armanda, Corrina, HNRQ (2), Inês Duarte, Jorge, Joyce Muniz, Nicola Cruz, OITO//OITO |
 | Thu, 30 Jul 2026 | DJ AL | Analodjica, Mário Valente |
@@ -20,4 +19,4 @@ Lux Fragil is a music venue in Lisbon listed on soundcheck. 7 upcoming nights, w
 
 Av. Infante D. Henrique, armazém A, Cais da Pedra a Sta. Apolónia, 1950-376 Lisboa, Portugal, Lisbon
 
-*Updated Thu, 23 Jul 2026 · source: [soundcheck](https://soundcheck.club/lisbon/club/lux-fragil/)*
+*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/lisbon/club/lux-fragil/)*

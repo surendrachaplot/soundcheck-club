@@ -1,6 +1,6 @@
 # Nanzhen Yang
 
-Nanzhen Yang is a Techno and Experimental artist with 3 upcoming club dates listed on soundcheck as of Thu, 23 Jul 2026, next at The Crypt Gallery London, London on Sat, 25 Jul 2026.
+Nanzhen Yang is a Techno and Experimental artist with 3 upcoming club dates listed on soundcheck as of Fri, 24 Jul 2026, next at The Crypt Gallery London, London on Sat, 25 Jul 2026.
 
 Nanzhen Yang is a techno and experimental artist tracked on soundcheck, with 83 sets logged across Bangkok, Berlin, Copenhagen and Glasgow and 12 more. Often billed alongside Samantha Togni, Becky Stroke and Lais Pattak. Next up: The Crypt Gallery London, London on Sat 25 Jul.
 
@@ -27,4 +27,4 @@ Nanzhen Yang is a techno and experimental artist tracked on soundcheck, with 83 
 
 Samantha Togni, Becky Stroke, Lais Pattak
 
-*Updated Thu, 23 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/nanzhenyang/)*
+*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/nanzhenyang/)*

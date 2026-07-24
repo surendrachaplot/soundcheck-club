@@ -1,6 +1,6 @@
 # Jay Lumen
 
-Jay Lumen is a Techno and Tech House artist with 2 upcoming club dates listed on soundcheck as of Thu, 23 Jul 2026, next at Beatland Festival, Krakow on Sat, 25 Jul 2026.
+Jay Lumen is a Techno and Tech House artist with 2 upcoming club dates listed on soundcheck as of Fri, 24 Jul 2026, next at Beatland Festival, Krakow on Sat, 25 Jul 2026.
 
 Jay Lumen is a techno and tech house artist tracked on soundcheck, with 43 sets logged across Amsterdam, Antwerp, Berlin and Brussels and 22 more. Often billed alongside Akos Wex, Sikztah and Cosmic Xplorer. Next up: Beatland Festival, Krakow on Sat 25 Jul.
 
@@ -26,4 +26,4 @@ Jay Lumen is a techno and tech house artist tracked on soundcheck, with 43 sets 
 
 Akos Wex, Sikztah, Cosmic Xplorer
 
-*Updated Thu, 23 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/jaylumen/)*
+*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/jaylumen/)*

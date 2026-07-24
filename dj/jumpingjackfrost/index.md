@@ -1,14 +1,14 @@
 # Jumping Jack Frost
 
-Jumping Jack Frost is a Drum & Bass and Jungle artist with 7 upcoming club dates listed on soundcheck as of Thu, 23 Jul 2026, next at Hootananny, London on Fri, 24 Jul 2026.
+Jumping Jack Frost is a Drum & Bass and Jungle artist with 7 upcoming club dates listed on soundcheck as of Fri, 24 Jul 2026, next at Hootananny Brixton, London on Fri, 24 Jul 2026.
 
-Jumping Jack Frost is a drum & bass and jungle artist tracked on soundcheck, with 74 sets logged across Birmingham, Brighton, Bristol and London and 3 more. Often billed alongside Funsta, Moose and The Ragga Twins. Next up: Hootananny, London on Fri 24 Jul.
+Jumping Jack Frost is a drum & bass and jungle artist tracked on soundcheck, with 74 sets logged across Birmingham, Brighton, Bristol and London and 3 more. Often billed alongside Funsta, Moose and The Ragga Twins. Next up: Hootananny Brixton, London on Fri 24 Jul.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 24 Jul 2026 | Hootananny | London |
+| Fri, 24 Jul 2026 | Hootananny Brixton | London |
 | Sat, 25 Jul 2026 | Electric Ballroom | London |
 | Sat, 25 Jul 2026 | XOYO | London |
 | Sat, 25 Jul 2026 | TBA | London |
@@ -31,4 +31,4 @@ Jumping Jack Frost is a drum & bass and jungle artist tracked on soundcheck, wit
 
 Funsta, Moose, The Ragga Twins
 
-*Updated Thu, 23 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/jumpingjackfrost/)*
+*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/jumpingjackfrost/)*

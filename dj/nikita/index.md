@@ -1,6 +1,6 @@
 # Nikita
 
-Nikita is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Thu, 23 Jul 2026, next at Ritter Butzke, Berlin on Sat, 25 Jul 2026.
+Nikita is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Fri, 24 Jul 2026, next at Ritter Butzke, Berlin on Sat, 25 Jul 2026.
 
 Nikita is a house and techno artist based in United States of America, tracked on soundcheck, with 80 sets logged across Amsterdam, Austin, Berlin and Brussels and 13 more. Often billed alongside Ray Zuniga, SVS (1) and Vivian Wang. Next up: Ritter Butzke, Berlin on Sat 25 Jul.
 
@@ -26,4 +26,4 @@ Nikita is a house and techno artist based in United States of America, tracked o
 
 Ray Zuniga, SVS (1), Vivian Wang
 
-*Updated Thu, 23 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/nikita/)*
+*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/nikita/)*

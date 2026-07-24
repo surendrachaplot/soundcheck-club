@@ -1,6 +1,6 @@
 # Abercrombie Hotel
 
-Abercrombie Hotel is a music venue in Sydney with 3 upcoming nights listed on soundcheck as of Thu, 23 Jul 2026; the next is "RAKATA – Dark Perreo" on Fri, 24 Jul 2026.
+Abercrombie Hotel is a music venue in Sydney with 3 upcoming nights listed on soundcheck as of Fri, 24 Jul 2026; the next is "RAKATA – Dark Perreo" on Fri, 24 Jul 2026.
 
 Abercrombie Hotel is a music venue in Sydney listed on soundcheck. 3 upcoming nights, with line-ups including Couch Mechanic, Cristal No.5, Jane Decks and Krystel Diola and 2 more. Browse upcoming dates, start times and who's playing. 100 Broadway; Ultimo, NSW 2007; Australia.
 
@@ -16,4 +16,4 @@ Abercrombie Hotel is a music venue in Sydney listed on soundcheck. 3 upcoming ni
 
 100 Broadway; Ultimo, NSW 2007; Australia, Sydney
 
-*Updated Thu, 23 Jul 2026 · source: [soundcheck](https://soundcheck.club/sydney/club/abercrombie-hotel/)*
+*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/sydney/club/abercrombie-hotel/)*

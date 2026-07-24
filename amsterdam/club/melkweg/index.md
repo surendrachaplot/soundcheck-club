@@ -1,8 +1,8 @@
 # Melkweg
 
-Melkweg is a music venue in Amsterdam with 34 upcoming nights listed on soundcheck as of Thu, 23 Jul 2026; the next is "Pabllo Vittar: Club Vittar - CLUB CHROME" on Sat, 25 Jul 2026.
+Melkweg is a music venue in Amsterdam with 37 upcoming nights listed on soundcheck as of Fri, 24 Jul 2026; the next is "Pabllo Vittar: Club Vittar - CLUB CHROME" on Sat, 25 Jul 2026.
 
-Melkweg is a music venue in Amsterdam listed on soundcheck. 34 upcoming nights, with line-ups including _hiø, Alexa Strange, Alleviate and Alma Negrot and 2 more. Browse upcoming dates, start times and who's playing. Lijnbaansgracht 234/a, 1017 Binnenstad, Amsterdam.
+Melkweg is a music venue in Amsterdam listed on soundcheck. 37 upcoming nights, with line-ups including 2HOT2PLAY, _hiø, Alexa Strange and Alleviate and 2 more. Browse upcoming dates, start times and who's playing. Lijnbaansgracht 234/a, 1017 Binnenstad, Amsterdam.
 
 ## What's on
 
@@ -23,4 +23,4 @@ Melkweg is a music venue in Amsterdam listed on soundcheck. 34 upcoming nights, 
 
 Lijnbaansgracht 234/a, 1017 Binnenstad, Amsterdam, Amsterdam
 
-*Updated Thu, 23 Jul 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/melkweg/)*
+*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/melkweg/)*

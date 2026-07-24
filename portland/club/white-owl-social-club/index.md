@@ -1,6 +1,6 @@
 # White Owl Social Club
 
-White Owl Social Club is a music venue in Portland with 3 upcoming nights listed on soundcheck as of Thu, 23 Jul 2026; the next is "Silicon Radio x Soul House: Andrés aka Dez Andrés (Detroit)" on Sun, 26 Jul 2026.
+White Owl Social Club is a music venue in Portland with 3 upcoming nights listed on soundcheck as of Fri, 24 Jul 2026; the next is "Silicon Radio x Soul House: Andrés aka Dez Andrés (Detroit)" on Sun, 26 Jul 2026.
 
 White Owl Social Club is a music venue in Portland listed on soundcheck. 3 upcoming nights, with line-ups including Andrés, ARMANA KHAN, C Powers and mintwhisper and 2 more. Browse upcoming dates, start times and who's playing. 1305 SE 8th Ave; Portland; Oregon 97214.
 
@@ -16,4 +16,4 @@ White Owl Social Club is a music venue in Portland listed on soundcheck. 3 upcom
 
 1305 SE 8th Ave; Portland; Oregon 97214, Portland
 
-*Updated Thu, 23 Jul 2026 · source: [soundcheck](https://soundcheck.club/portland/club/white-owl-social-club/)*
+*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/portland/club/white-owl-social-club/)*

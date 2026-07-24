@@ -1,6 +1,6 @@
 # Grand Performances
 
-Grand Performances is a music venue in Los Angeles with 1 upcoming night listed on soundcheck as of Thu, 23 Jul 2026; the next is "KCRW Summer Nights with Grand Performances" on Sat, 25 Jul 2026.
+Grand Performances is a music venue in Los Angeles with 1 upcoming night listed on soundcheck as of Fri, 24 Jul 2026; the next is "KCRW Summer Nights with Grand Performances" on Sat, 25 Jul 2026.
 
 Grand Performances is a music venue in Losangeles listed on soundcheck. 1 upcoming night. Browse upcoming dates, start times and who's playing.
 
@@ -10,4 +10,4 @@ Grand Performances is a music venue in Losangeles listed on soundcheck. 1 upcomi
 | --- | --- | --- |
 | Sat, 25 Jul 2026 | KCRW Summer Nights with Grand Performances |  |
 
-*Updated Thu, 23 Jul 2026 · source: [soundcheck](https://soundcheck.club/losangeles/club/grand-performances/)*
+*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/losangeles/club/grand-performances/)*

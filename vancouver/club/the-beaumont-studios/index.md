@@ -1,6 +1,6 @@
 # The Beaumont Studios
 
-The Beaumont Studios is a music venue in Vancouver with 2 upcoming nights listed on soundcheck as of Thu, 23 Jul 2026; the next is "The Ryze presents Synesthesia #30" on Thu, 30 Jul 2026.
+The Beaumont Studios is a music venue in Vancouver with 2 upcoming nights listed on soundcheck as of Fri, 24 Jul 2026; the next is "The Ryze presents Synesthesia #30" on Thu, 30 Jul 2026.
 
 The Beaumont Studios is a music venue in Vancouver listed on soundcheck. 2 upcoming nights, with line-ups including Jesse Walker, Kon Radd, LADYMONIX and The Ryze. Browse upcoming dates, start times and who's playing. 316 W 5th Ave, Vancouver, BC.
 
@@ -15,4 +15,4 @@ The Beaumont Studios is a music venue in Vancouver listed on soundcheck. 2 upcom
 
 316 W 5th Ave, Vancouver, BC, Vancouver
 
-*Updated Thu, 23 Jul 2026 · source: [soundcheck](https://soundcheck.club/vancouver/club/the-beaumont-studios/)*
+*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/vancouver/club/the-beaumont-studios/)*

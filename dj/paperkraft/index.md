@@ -1,6 +1,6 @@
 # Paperkraft
 
-Paperkraft is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Thu, 23 Jul 2026, next at Thuishaven, Amsterdam on Sat, 25 Jul 2026.
+Paperkraft is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Fri, 24 Jul 2026, next at Thuishaven, Amsterdam on Sat, 25 Jul 2026.
 
 Paperkraft is a house and techno artist based in Japan, tracked on soundcheck, with 62 sets logged across Amsterdam, Kyoto, Melbourne and Osaka and 2 more. Often billed alongside Lomax, Stones Taro and Pee.J Anderson. Next up: Thuishaven, Amsterdam on Sat 25 Jul.
 
@@ -26,4 +26,4 @@ Paperkraft is a house and techno artist based in Japan, tracked on soundcheck, w
 
 Lomax, Stones Taro, Pee.J Anderson
 
-*Updated Thu, 23 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/paperkraft/)*
+*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/paperkraft/)*

@@ -1,6 +1,6 @@
 # Pola & Bryson
 
-Pola & Bryson is a Drum & Bass and Jungle artist with 8 upcoming club dates listed on soundcheck as of Thu, 23 Jul 2026, next at Hackney Wick Multiple Venues, London on Sat, 1 Aug 2026.
+Pola & Bryson is a Drum & Bass and Jungle artist with 8 upcoming club dates listed on soundcheck as of Fri, 24 Jul 2026, next at Hackney Wick Multiple Venues, London on Sat, 1 Aug 2026.
 
 Pola & Bryson are a drum & bass and jungle duo tracked on soundcheck, with 66 sets logged across Auckland, Barcelona, Berlin and Brighton and 31 more. Often billed alongside Emily Makis, Hybrid Minds and Camo & Krooked. Next up: Hackney Wick Multiple Venues, London on Sat 1 Aug.
 
@@ -32,4 +32,4 @@ Pola & Bryson are a drum & bass and jungle duo tracked on soundcheck, with 66 se
 
 Emily Makis, Hybrid Minds, Camo & Krooked
 
-*Updated Thu, 23 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/polabryson/)*
+*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/polabryson/)*

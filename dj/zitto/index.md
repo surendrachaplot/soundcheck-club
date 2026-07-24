@@ -1,6 +1,6 @@
 # Zitto
 
-Zitto is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Thu, 23 Jul 2026, next at Bassiani, Tbilisi on Fri, 31 Jul 2026.
+Zitto is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Fri, 24 Jul 2026, next at Bassiani, Tbilisi on Fri, 31 Jul 2026.
 
 Zitto is a techno and house artist tracked on soundcheck, with 70 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 8 more. Often billed alongside Kancheli, Kvanchi and Ndrx. Next up: Bassiani, Tbilisi on Fri 31 Jul.
 
@@ -27,4 +27,4 @@ Zitto is a techno and house artist tracked on soundcheck, with 70 sets logged ac
 
 Kancheli, Kvanchi, Ndrx
 
-*Updated Thu, 23 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/zitto/)*
+*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/zitto/)*

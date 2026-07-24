@@ -1,6 +1,6 @@
 # Arista
 
-Arista is a House and Techno artist with 4 upcoming club dates listed on soundcheck as of Thu, 23 Jul 2026, next at Spook Club, Valencia on Sat, 25 Jul 2026.
+Arista is a House and Techno artist with 4 upcoming club dates listed on soundcheck as of Fri, 24 Jul 2026, next at Spook Club, Valencia on Sat, 25 Jul 2026.
 
 Arista is a house and techno artist based in El Salvador, tracked on soundcheck, with 34 sets logged across Barcelona, Berlin, Madrid and Mallorca and 3 more. Often billed alongside Sampol, tINI and EMIR-B. Next up: Spook Club, Valencia on Sat 25 Jul.
 
@@ -28,4 +28,4 @@ Arista is a house and techno artist based in El Salvador, tracked on soundcheck,
 
 Sampol, tINI, EMIR-B
 
-*Updated Thu, 23 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/arista/)*
+*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/arista/)*

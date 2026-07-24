@@ -1,6 +1,6 @@
 # Club Guesthouse
 
-Club Guesthouse is a music venue in Bucharest with 2 upcoming nights listed on soundcheck as of Thu, 23 Jul 2026; the next is "Guesthouse Day Out" on Sun, 26 Jul 2026.
+Club Guesthouse is a music venue in Bucharest with 2 upcoming nights listed on soundcheck as of Fri, 24 Jul 2026; the next is "Guesthouse Day Out" on Sun, 26 Jul 2026.
 
 Club Guesthouse is a music venue in Bucharest listed on soundcheck. 2 upcoming nights, with line-ups including Autechre, DumitrEscu and Raresh. Browse upcoming dates, start times and who's playing. Splaiul Unirii 160, Bucharest, Romania.
 
@@ -15,4 +15,4 @@ Club Guesthouse is a music venue in Bucharest listed on soundcheck. 2 upcoming n
 
 Splaiul Unirii 160, Bucharest, Romania, Bucharest
 
-*Updated Thu, 23 Jul 2026 · source: [soundcheck](https://soundcheck.club/bucharest/club/club-guesthouse/)*
+*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/bucharest/club/club-guesthouse/)*

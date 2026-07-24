@@ -1,6 +1,6 @@
 # Meow Wolf Houston
 
-Meow Wolf Houston is a music venue in Houston with 5 upcoming nights listed on soundcheck as of Thu, 23 Jul 2026; the next is "DJ SLIINK" on Fri, 7 Aug 2026.
+Meow Wolf Houston is a music venue in Houston with 5 upcoming nights listed on soundcheck as of Fri, 24 Jul 2026; the next is "DJ SLIINK" on Fri, 7 Aug 2026.
 
 Meow Wolf Houston is a music venue in Houston listed on soundcheck. 5 upcoming nights, with line-ups including Amarji King, Dj Sliink and Whales. Browse upcoming dates, start times and who's playing. 2103 Lyons Ave Bldg 2, Houston, TX 77020, USA.
 
@@ -18,4 +18,4 @@ Meow Wolf Houston is a music venue in Houston listed on soundcheck. 5 upcoming n
 
 2103 Lyons Ave Bldg 2, Houston, TX 77020, USA, Houston
 
-*Updated Thu, 23 Jul 2026 · source: [soundcheck](https://soundcheck.club/houston/club/meow-wolf-houston/)*
+*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/houston/club/meow-wolf-houston/)*

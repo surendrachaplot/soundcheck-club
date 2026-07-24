@@ -1,6 +1,6 @@
 # WWW X
 
-WWW X is a music venue in Tokyo with 3 upcoming nights listed on soundcheck as of Thu, 23 Jul 2026; the next is "Bar Franca This Week" on Sat, 25 Jul 2026.
+WWW X is a music venue in Tokyo with 3 upcoming nights listed on soundcheck as of Fri, 24 Jul 2026; the next is "Bar Franca This Week" on Sat, 25 Jul 2026.
 
 WWW X is a music venue in Tokyo listed on soundcheck. 3 upcoming nights, with line-ups including Dirtie Blonde, FridaY (DE), H.U.D.L and Quarterdef and 1 more. Browse upcoming dates, start times and who's playing. 13-7 Udagawacho, Shibuya-ku, Tokyo, 150-0042.
 
@@ -16,4 +16,4 @@ WWW X is a music venue in Tokyo listed on soundcheck. 3 upcoming nights, with li
 
 13-7 Udagawacho, Shibuya-ku, Tokyo, 150-0042, Tokyo
 
-*Updated Thu, 23 Jul 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/www-x/)*
+*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/www-x/)*

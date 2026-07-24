@@ -1,6 +1,6 @@
 # LB aka LABAT
 
-LB aka LABAT is a Techno and House artist with 6 upcoming club dates listed on soundcheck as of Thu, 23 Jul 2026, next at Night Tales, London on Fri, 24 Jul 2026.
+LB aka LABAT is a Techno and House artist with 6 upcoming club dates listed on soundcheck as of Fri, 24 Jul 2026, next at Night Tales, London on Fri, 24 Jul 2026.
 
 LB aka LABAT is a techno and house artist tracked on soundcheck, with 196 sets logged across Aberdeen, Amsterdam, Antwerp and Barcelona and 56 more. Often billed alongside DJ Gigola, Juicy Romance and Special Request. Next up: Night Tales, London on Fri 24 Jul.
 
@@ -30,4 +30,4 @@ LB aka LABAT is a techno and house artist tracked on soundcheck, with 196 sets l
 
 DJ Gigola, Juicy Romance, Special Request
 
-*Updated Thu, 23 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/lbakalabat/)*
+*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/lbakalabat/)*

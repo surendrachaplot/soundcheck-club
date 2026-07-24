@@ -1,20 +1,20 @@
 # Eddie Fowlkes
 
-Eddie Fowlkes is a Techno and House artist with 4 upcoming club dates listed on soundcheck as of Thu, 23 Jul 2026, next at TV Lounge, Detroit on Thu, 23 Jul 2026.
+Eddie Fowlkes is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Fri, 24 Jul 2026, next at TV Lounge, Detroit on Thu, 13 Aug 2026.
 
-Eddie Fowlkes is a techno and house artist based in United States of America, tracked on soundcheck, with 80 sets logged across Berlin, Chicago, Detroit and Nashville and 2 more. Often billed alongside John Collins (US), Delano Smith and Bruce Bailey. Next up: TV Lounge, Detroit on Thu 23 Jul.
+Eddie Fowlkes is a techno and house artist based in United States of America, tracked on soundcheck, with 80 sets logged across Berlin, Chicago, Detroit and Nashville and 2 more. Often billed alongside John Collins (US), Delano Smith and Bruce Bailey. Next up: TV Lounge, Detroit on Thu 13 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Thu, 23 Jul 2026 | TV Lounge | Detroit |
 | Thu, 13 Aug 2026 | TV Lounge | Detroit |
 | Thu, 13 Aug 2026 | Tangent Gallery | Detroit |
 | Sat, 15 Aug 2026 | TV Lounge | Detroit |
 
 ## Recently played
 
+- TV Lounge, Detroit — Thu, 23 Jul 2026
 - Northern Lights Lounge, Detroit — Sat, 18 Jul 2026
 - House of Yes, New York City — Fri, 19 Jun 2026
 - The Belt Alley, Detroit — Mon, 25 May 2026
@@ -22,10 +22,9 @@ Eddie Fowlkes is a techno and house artist based in United States of America, tr
 - Third Street Bar, Detroit — Sat, 23 May 2026
 - Soul on Ice, Detroit — Sat, 23 May 2026
 - BERHTA, Washington DC — Fri, 24 Apr 2026
-- Lincoln Factory, Detroit — Fri, 17 Apr 2026
 
 ## Shares bills with
 
 John Collins (US), Delano Smith, Bruce Bailey
 
-*Updated Thu, 23 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/eddiefowlkes/)*
+*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/eddiefowlkes/)*

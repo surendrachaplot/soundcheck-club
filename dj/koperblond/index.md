@@ -1,6 +1,6 @@
 # Koperblond
 
-Koperblond is a House and Trance artist with 2 upcoming club dates listed on soundcheck as of Thu, 23 Jul 2026, next at Manii Beach, Amsterdam on Sat, 25 Jul 2026.
+Koperblond is a House and Trance artist with 2 upcoming club dates listed on soundcheck as of Fri, 24 Jul 2026, next at Manii Beach, Amsterdam on Sat, 25 Jul 2026.
 
 Koperblond is a house and trance artist based in Netherlands, tracked on soundcheck, with 40 sets logged across Amsterdam, Rotterdam and Utrecht. Often billed alongside Merel Helderman, Pelanoir and Rayzir. Next up: Manii Beach, Amsterdam on Sat 25 Jul.
 
@@ -26,4 +26,4 @@ Koperblond is a house and trance artist based in Netherlands, tracked on soundch
 
 Merel Helderman, Pelanoir, Rayzir
 
-*Updated Thu, 23 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/koperblond/)*
+*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/koperblond/)*

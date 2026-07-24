@@ -1,6 +1,6 @@
 # AK (US)
 
-AK (US) is a Techno and Ghetto Tech artist with 2 upcoming club dates listed on soundcheck as of Thu, 23 Jul 2026, next at Bossa Nova Civic Club, New York City on Fri, 31 Jul 2026.
+AK (US) is a Techno and Ghetto Tech artist with 2 upcoming club dates listed on soundcheck as of Fri, 24 Jul 2026, next at Bossa Nova Civic Club, New York City on Fri, 31 Jul 2026.
 
 AK (US) is a techno and ghetto tech artist based in United States of America, tracked on soundcheck, with 72 sets logged across Chicago, Detroit, Newyorkcity and Portland. Often billed alongside Blackmoonchild, Disc Jockey George and BEIGE. Next up: Bossa Nova Civic Club, Newyorkcity on Fri 31 Jul.
 
@@ -26,4 +26,4 @@ AK (US) is a techno and ghetto tech artist based in United States of America, tr
 
 Blackmoonchild, Disc Jockey George, BEIGE
 
-*Updated Thu, 23 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/ak-us/)*
+*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/ak-us/)*

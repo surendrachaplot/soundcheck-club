@@ -1,6 +1,6 @@
 # Gaspar Muniz
 
-Gaspar Muniz is a House and Disco artist with 2 upcoming club dates listed on soundcheck as of Thu, 23 Jul 2026, next at Rumore Nightclub Capri, Naples on Sat, 1 Aug 2026.
+Gaspar Muniz is a House and Disco artist with 2 upcoming club dates listed on soundcheck as of Fri, 24 Jul 2026, next at Rumore Nightclub Capri, Naples on Sat, 1 Aug 2026.
 
 Gaspar Muniz is a house and disco artist tracked on soundcheck, with 44 sets logged across Barcelona, Buenosaires, Lisbon and London and 5 more. Often billed alongside Kenia, Discos Baratos and JKriv. Next up: Rumore Nightclub Capri, Naples on Sat 1 Aug.
 
@@ -26,4 +26,4 @@ Gaspar Muniz is a house and disco artist tracked on soundcheck, with 44 sets log
 
 Kenia, Discos Baratos, JKriv
 
-*Updated Thu, 23 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/gasparmuniz/)*
+*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/gasparmuniz/)*

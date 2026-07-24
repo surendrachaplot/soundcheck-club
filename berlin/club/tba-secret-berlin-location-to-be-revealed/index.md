@@ -1,6 +1,6 @@
 # TBA - Secret Berlin Location To Be Revealed
 
-TBA - Secret Berlin Location To Be Revealed is a music venue in Berlin with 1 upcoming night listed on soundcheck as of Thu, 23 Jul 2026; the next is "BERLIN UNDERGROUND AFTERHOURS 2026" on Sun, 26 Jul 2026.
+TBA - Secret Berlin Location To Be Revealed is a music venue in Berlin with 1 upcoming night listed on soundcheck as of Fri, 24 Jul 2026; the next is "BERLIN UNDERGROUND AFTERHOURS 2026" on Sun, 26 Jul 2026.
 
 TBA - Secret Berlin Location To Be Revealed is a music venue in Berlin listed on soundcheck. 1 upcoming night. Browse upcoming dates, start times and who's playing.
 
@@ -10,4 +10,4 @@ TBA - Secret Berlin Location To Be Revealed is a music venue in Berlin listed on
 | --- | --- | --- |
 | Sun, 26 Jul 2026 | BERLIN UNDERGROUND AFTERHOURS 2026 |  |
 
-*Updated Thu, 23 Jul 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/tba-secret-berlin-location-to-be-revealed/)*
+*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/tba-secret-berlin-location-to-be-revealed/)*

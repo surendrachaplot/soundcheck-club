@@ -1,6 +1,6 @@
 # Lauren Ritter
 
-Lauren Ritter is a House and Deep House artist with 3 upcoming club dates listed on soundcheck as of Thu, 23 Jul 2026, next at Apollo Studio, New York City on Fri, 24 Jul 2026.
+Lauren Ritter is a House and Deep House artist with 3 upcoming club dates listed on soundcheck as of Fri, 24 Jul 2026, next at Apollo Studio, New York City on Fri, 24 Jul 2026.
 
 Lauren Ritter is a house and deep house artist tracked on soundcheck, with 55 sets logged across Ibiza, Miami, Newyorkcity and Sanfrancisco and 1 more. Often billed alongside Maksim, Connie and Asha Jasz. Next up: Apollo Studio, Newyorkcity on Fri 24 Jul.
 
@@ -27,4 +27,4 @@ Lauren Ritter is a house and deep house artist tracked on soundcheck, with 55 se
 
 Maksim, Connie, Asha Jasz
 
-*Updated Thu, 23 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/laurenritter/)*
+*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/laurenritter/)*

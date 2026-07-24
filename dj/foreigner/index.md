@@ -1,6 +1,6 @@
 # foreigner
 
-foreigner is a Afrobeats and Amapiano artist with 2 upcoming club dates listed on soundcheck as of Thu, 23 Jul 2026, next at YuYu Cine Club, Mexico City on Sat, 25 Jul 2026.
+foreigner is a Afrobeats and Amapiano artist with 2 upcoming club dates listed on soundcheck as of Fri, 24 Jul 2026, next at YuYu Cine Club, Mexico City on Sat, 25 Jul 2026.
 
 foreigner is an afrobeats and amapiano artist tracked on soundcheck, with 68 sets logged across Amsterdam, Berlin, Chicago and London and 7 more. Often billed alongside Jon Trini, Blaq PAGES and Crooks. Next up: YuYu Cine Club, Mexicocity on Sat 25 Jul.
 
@@ -26,4 +26,4 @@ foreigner is an afrobeats and amapiano artist tracked on soundcheck, with 68 set
 
 Jon Trini, Blaq PAGES, Crooks
 
-*Updated Thu, 23 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/foreigner/)*
+*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/foreigner/)*

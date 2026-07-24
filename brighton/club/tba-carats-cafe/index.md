@@ -1,6 +1,6 @@
 # TBA - Carats cafe
 
-TBA - Carats cafe is a music venue in Brighton with 1 upcoming night listed on soundcheck as of Thu, 23 Jul 2026; the next is "Eddie Richards - Positive Sounds Beach Party" on Sat, 5 Sept 2026.
+TBA - Carats cafe is a music venue in Brighton with 1 upcoming night listed on soundcheck as of Fri, 24 Jul 2026; the next is "Eddie Richards - Positive Sounds Beach Party" on Sat, 5 Sept 2026.
 
 TBA - Carats cafe is a music venue in Brighton listed on soundcheck. 1 upcoming night, with line-ups including Oliver Molina and Rubén Baiz. Browse upcoming dates, start times and who's playing.
 
@@ -10,4 +10,4 @@ TBA - Carats cafe is a music venue in Brighton listed on soundcheck. 1 upcoming 
 | --- | --- | --- |
 | Sat, 5 Sept 2026 | Eddie Richards - Positive Sounds Beach Party | Oliver Molina, Rubén Baiz |
 
-*Updated Thu, 23 Jul 2026 · source: [soundcheck](https://soundcheck.club/brighton/club/tba-carats-cafe/)*
+*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/brighton/club/tba-carats-cafe/)*

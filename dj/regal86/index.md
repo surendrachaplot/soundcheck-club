@@ -1,6 +1,6 @@
 # Regal86
 
-Regal86 is a Techno and Club artist with 4 upcoming club dates listed on soundcheck as of Thu, 23 Jul 2026, next at Garage Noord, Amsterdam on Sun, 26 Jul 2026.
+Regal86 is a Techno and Club artist with 4 upcoming club dates listed on soundcheck as of Fri, 24 Jul 2026, next at Garage Noord, Amsterdam on Sun, 26 Jul 2026.
 
 Regal86 is a techno and club artist tracked on soundcheck, with 120 sets logged across Amsterdam, Auckland, Austin and Barcelona and 41 more. Often billed alongside 1morning, 1OO1O and MoMA Ready. Next up: Garage Noord, Amsterdam on Sun 26 Jul.
 
@@ -28,4 +28,4 @@ Regal86 is a techno and club artist tracked on soundcheck, with 120 sets logged 
 
 1morning, 1OO1O, MoMA Ready
 
-*Updated Thu, 23 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/regal86/)*
+*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/regal86/)*

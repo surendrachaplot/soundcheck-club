@@ -1,6 +1,6 @@
 # Tanith
 
-Tanith is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Thu, 23 Jul 2026, next at elipamanoke, Leipzig on Sat, 1 Aug 2026.
+Tanith is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Fri, 24 Jul 2026, next at elipamanoke, Leipzig on Sat, 1 Aug 2026.
 
 Tanith is a techno and house artist tracked on soundcheck, with 46 sets logged across Berlin, Hamburg and Leipzig. Often billed alongside Der Würfler, WolleXDP and DJ Jauche. Next up: elipamanoke, Leipzig on Sat 1 Aug.
 
@@ -26,4 +26,4 @@ Tanith is a techno and house artist tracked on soundcheck, with 46 sets logged a
 
 Der Würfler, WolleXDP, DJ Jauche
 
-*Updated Thu, 23 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/tanith/)*
+*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/tanith/)*

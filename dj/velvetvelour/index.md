@@ -1,6 +1,6 @@
 # Velvet Velour
 
-Velvet Velour is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Thu, 23 Jul 2026, next at Rūmu, Lisbon on Wed, 29 Jul 2026.
+Velvet Velour is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Fri, 24 Jul 2026, next at Rūmu, Lisbon on Wed, 29 Jul 2026.
 
 Velvet Velour is a house and techno artist based in United Kingdom, tracked on soundcheck, with 58 sets logged across Barcelona, Berlin, Bristol and Leeds and 7 more. Often billed alongside Hazr, Apple B and Jorge Caiado. Next up: Rūmu, Lisbon on Wed 29 Jul.
 
@@ -26,4 +26,4 @@ Velvet Velour is a house and techno artist based in United Kingdom, tracked on s
 
 Hazr, Apple B, Jorge Caiado
 
-*Updated Thu, 23 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/velvetvelour/)*
+*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/velvetvelour/)*

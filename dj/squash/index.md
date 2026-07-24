@@ -1,6 +1,6 @@
 # Squash
 
-Squash is a House artist with 3 upcoming club dates listed on soundcheck as of Thu, 23 Jul 2026, next at Tšungel, Tallinn on Sat, 1 Aug 2026.
+Squash is a House artist with 3 upcoming club dates listed on soundcheck as of Fri, 24 Jul 2026, next at Tšungel, Tallinn on Sat, 1 Aug 2026.
 
 Squash is a house artist based in Estonia, tracked on soundcheck, with 5 sets logged across Copenhagen and Tallinn. Often billed alongside Charch, Gearmaster and Holly Lester. Next up: Tšungel, Tallinn on Sat 1 Aug.
 
@@ -21,4 +21,4 @@ Squash is a house artist based in Estonia, tracked on soundcheck, with 5 sets lo
 
 Charch, Gearmaster, Holly Lester
 
-*Updated Thu, 23 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/squash/)*
+*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/squash/)*

@@ -1,6 +1,6 @@
 # YuYu Cine Club
 
-YuYu Cine Club is a music venue in Mexico City with 12 upcoming nights listed on soundcheck as of Thu, 23 Jul 2026; the next is "Yu Yu Cine Club: Taraveba Takeover with D. UFO, Kennedy Artemio B2B Prowler" on Fri, 24 Jul 2026.
+YuYu Cine Club is a music venue in Mexico City with 12 upcoming nights listed on soundcheck as of Fri, 24 Jul 2026; the next is "Yu Yu Cine Club: Taraveba Takeover with D. UFO, Kennedy Artemio B2B Prowler" on Fri, 24 Jul 2026.
 
 YuYu Cine Club is a music venue in Mexicocity listed on soundcheck. 12 upcoming nights, with line-ups including Alena Vox, Ana Armada, Artemio and Astroboii and 2 more. Browse upcoming dates, start times and who's playing. Calle Dr. Carmona y Valle 129, Doctores, Cuauhtémoc, 06720 Ciudad de Mexico, CDMX.
 
@@ -23,4 +23,4 @@ YuYu Cine Club is a music venue in Mexicocity listed on soundcheck. 12 upcoming 
 
 Calle Dr. Carmona y Valle 129, Doctores, Cuauhtémoc, 06720 Ciudad de Mexico, CDMX, Mexico City
 
-*Updated Thu, 23 Jul 2026 · source: [soundcheck](https://soundcheck.club/mexicocity/club/yuyu-cine-club/)*
+*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/mexicocity/club/yuyu-cine-club/)*

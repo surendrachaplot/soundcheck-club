@@ -1,6 +1,6 @@
 # Samantha Togni
 
-Samantha Togni is a Techno and House artist with 8 upcoming club dates listed on soundcheck as of Thu, 23 Jul 2026, next at Fvtvr, Paris on Sat, 25 Jul 2026.
+Samantha Togni is a Techno and House artist with 8 upcoming club dates listed on soundcheck as of Fri, 24 Jul 2026, next at Fvtvr, Paris on Sat, 25 Jul 2026.
 
 Samantha Togni is a techno and house artist based in United Kingdom, tracked on soundcheck, with 145 sets logged across Amsterdam, Athens, Bangkok and Barcelona and 36 more. Often billed alongside Mar/us, Lewis G. Burton and Nanzhen Yang. Next up: Fvtvr, Paris on Sat 25 Jul.
 
@@ -32,4 +32,4 @@ Samantha Togni is a techno and house artist based in United Kingdom, tracked on 
 
 Mar/us, Lewis G. Burton, Nanzhen Yang
 
-*Updated Thu, 23 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/samanthatogni/)*
+*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/samanthatogni/)*

@@ -1,8 +1,8 @@
 # Gene On Earth
 
-Gene On Earth is a House and Techno artist with 4 upcoming club dates listed on soundcheck as of Thu, 23 Jul 2026, next at Palais, London on Fri, 24 Jul 2026.
+Gene On Earth is a House and Techno artist with 5 upcoming club dates listed on soundcheck as of Fri, 24 Jul 2026, next at Palais, London on Fri, 24 Jul 2026.
 
-Gene On Earth is a house and techno artist tracked on soundcheck, with 191 sets logged across Amsterdam, Austin, Bali and Bangkok and 50 more. Often billed alongside The Ghost, Dyed Soundorom and Coast 2 Coast. Next up: Palais, London on Fri 24 Jul.
+Gene On Earth is a house and techno artist tracked on soundcheck, with 192 sets logged across Amsterdam, Austin, Bali and Bangkok and 50 more. Often billed alongside The Ghost, Dyed Soundorom and Coast 2 Coast. Next up: Palais, London on Fri 24 Jul.
 
 ## Upcoming shows
 
@@ -12,6 +12,7 @@ Gene On Earth is a house and techno artist tracked on soundcheck, with 191 sets 
 | Sun, 26 Jul 2026 | The Love Inn | Bristol |
 | Sat, 12 Sept 2026 | The Cause | London |
 | Fri, 25 Sept 2026 | TBA - Downtown Los Angeles | Los Angeles |
+| Thu, 22 Oct 2026 | Pllek | Amsterdam |
 
 ## Recently played
 
@@ -28,4 +29,4 @@ Gene On Earth is a house and techno artist tracked on soundcheck, with 191 sets 
 
 The Ghost, Dyed Soundorom, Coast 2 Coast
 
-*Updated Thu, 23 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/geneonearth/)*
+*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/geneonearth/)*

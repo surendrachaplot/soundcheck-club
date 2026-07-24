@@ -1,6 +1,6 @@
 # The DBA
 
-The DBA is a music venue in Manchester with 13 upcoming nights listed on soundcheck as of Thu, 23 Jul 2026; the next is "This Guy PRESENTS: DROP IT LIKE ITS THOT" on Fri, 31 Jul 2026.
+The DBA is a music venue in Manchester with 13 upcoming nights listed on soundcheck as of Fri, 24 Jul 2026; the next is "This Guy PRESENTS: DROP IT LIKE ITS THOT" on Fri, 31 Jul 2026.
 
 The DBA is a music venue in Manchester listed on soundcheck. 13 upcoming nights, with line-ups including 4STR0, Arkane, atalaya and Blame The Mono and 2 more. Browse upcoming dates, start times and who's playing. 95 Cheetham Hill Rd, Cheetham Hill, Manchester M8 8PY.
 
@@ -23,4 +23,4 @@ The DBA is a music venue in Manchester listed on soundcheck. 13 upcoming nights,
 
 95 Cheetham Hill Rd, Cheetham Hill, Manchester M8 8PY, Manchester
 
-*Updated Thu, 23 Jul 2026 · source: [soundcheck](https://soundcheck.club/manchester/club/the-dba/)*
+*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/manchester/club/the-dba/)*

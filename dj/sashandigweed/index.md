@@ -1,6 +1,6 @@
 # Sasha & John Digweed
 
-Sasha & John Digweed is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Thu, 23 Jul 2026, next at Sloterpark, Amsterdam on Sat, 8 Aug 2026.
+Sasha & John Digweed is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Fri, 24 Jul 2026, next at Sloterpark, Amsterdam on Sat, 8 Aug 2026.
 
 Sasha & John Digweed are a techno and house duo based in United Kingdom, tracked on soundcheck, with 20 sets logged across Amsterdam, Athens, Barcelona and Belfast and 6 more. Often billed alongside John Digweed, Nick Warren and Guy J. Next up: Sloterpark, Amsterdam on Sat 8 Aug.
 
@@ -27,4 +27,4 @@ Sasha & John Digweed are a techno and house duo based in United Kingdom, tracked
 
 John Digweed, Nick Warren, Guy J
 
-*Updated Thu, 23 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/sashandigweed/)*
+*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/sashandigweed/)*

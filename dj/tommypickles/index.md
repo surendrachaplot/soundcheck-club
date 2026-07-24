@@ -1,6 +1,6 @@
 # Tommy Pickles
 
-Tommy Pickles is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Thu, 23 Jul 2026, next at Boat - MS Rhein, Berlin on Sun, 26 Jul 2026.
+Tommy Pickles is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Fri, 24 Jul 2026, next at Boat - MS Rhein, Berlin on Sun, 26 Jul 2026.
 
 Tommy Pickles is a house and techno artist tracked on soundcheck, with 95 sets logged across Amsterdam, Barcelona, Berlin and Bristol and 25 more. Often billed alongside Alex Picone, Desyn and Tom Morgan. Next up: Boat - MS Rhein, Berlin on Sun 26 Jul.
 
@@ -26,4 +26,4 @@ Tommy Pickles is a house and techno artist tracked on soundcheck, with 95 sets l
 
 Alex Picone, Desyn, Tom Morgan
 
-*Updated Thu, 23 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/tommypickles/)*
+*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/tommypickles/)*

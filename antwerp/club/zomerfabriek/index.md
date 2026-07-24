@@ -1,6 +1,6 @@
 # Zomerfabriek
 
-Zomerfabriek is a music venue in Antwerp with 2 upcoming nights listed on soundcheck as of Thu, 23 Jul 2026; the next is "Club Bluts: Summer Smash" on Fri, 14 Aug 2026.
+Zomerfabriek is a music venue in Antwerp with 2 upcoming nights listed on soundcheck as of Fri, 24 Jul 2026; the next is "Club Bluts: Summer Smash" on Fri, 14 Aug 2026.
 
 Zomerfabriek is a music venue in Antwerp listed on soundcheck. 2 upcoming nights, with line-ups including milliyen. Browse upcoming dates, start times and who's playing. Minkelersstraat, 2018 Antwerp, Belgium.
 
@@ -15,4 +15,4 @@ Zomerfabriek is a music venue in Antwerp listed on soundcheck. 2 upcoming nights
 
 Minkelersstraat, 2018 Antwerp, Belgium, Antwerp
 
-*Updated Thu, 23 Jul 2026 · source: [soundcheck](https://soundcheck.club/antwerp/club/zomerfabriek/)*
+*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/antwerp/club/zomerfabriek/)*

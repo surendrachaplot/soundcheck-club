@@ -1,6 +1,6 @@
 # Beiti
 
-Beiti is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Thu, 23 Jul 2026, next at Gorg-O-Mish, Vancouver on Sat, 25 Jul 2026.
+Beiti is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Fri, 24 Jul 2026, next at Gorg-O-Mish, Vancouver on Sat, 25 Jul 2026.
 
 Beiti is a house and techno artist based in Canada, tracked on soundcheck, with 22 sets logged across Vancouver. Often billed alongside Andre Rose, Bronsön and DJ dood. Next up: Gorg-O-Mish, Vancouver on Sat 25 Jul.
 
@@ -27,4 +27,4 @@ Beiti is a house and techno artist based in Canada, tracked on soundcheck, with 
 
 Andre Rose, Bronsön, DJ dood
 
-*Updated Thu, 23 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/beiti/)*
+*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/beiti/)*

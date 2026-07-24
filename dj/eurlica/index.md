@@ -1,6 +1,6 @@
 # eurlica
 
-eurlica is a Bass and Dubstep artist with 2 upcoming club dates listed on soundcheck as of Thu, 23 Jul 2026, next at Azumaya, Tokyo on Wed, 29 Jul 2026.
+eurlica is a Bass and Dubstep artist with 2 upcoming club dates listed on soundcheck as of Fri, 24 Jul 2026, next at Azumaya, Tokyo on Wed, 29 Jul 2026.
 
 eurlica is a bass and dubstep artist based in Japan, tracked on soundcheck, with 39 sets logged across Tokyo. Often billed alongside Dihi, Acrocanthosaurus and Kanse. Next up: Azumaya, Tokyo on Wed 29 Jul.
 
@@ -26,4 +26,4 @@ eurlica is a bass and dubstep artist based in Japan, tracked on soundcheck, with
 
 Dihi, Acrocanthosaurus, Kanse
 
-*Updated Thu, 23 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/eurlica/)*
+*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/eurlica/)*

@@ -1,6 +1,6 @@
 # Islington Assembly Hall
 
-Islington Assembly Hall is a music venue in London with 2 upcoming nights listed on soundcheck as of Thu, 23 Jul 2026; the next is "Dresden (5HR Set) & Decius (Live)" on Sat, 1 Aug 2026.
+Islington Assembly Hall is a music venue in London with 2 upcoming nights listed on soundcheck as of Fri, 24 Jul 2026; the next is "Dresden (5HR Set) & Decius (Live)" on Sat, 1 Aug 2026.
 
 Islington Assembly Hall is a music venue in London listed on soundcheck. 2 upcoming nights, with line-ups including Aes Dana, Carbon Based Lifeforms, Decius and Dresden and 2 more. Browse upcoming dates, start times and who's playing. Upper Street, London, N1 2UD.
 
@@ -15,4 +15,4 @@ Islington Assembly Hall is a music venue in London listed on soundcheck. 2 upcom
 
 Upper Street, London, N1 2UD, London
 
-*Updated Thu, 23 Jul 2026 · source: [soundcheck](https://soundcheck.club/london/club/islington-assembly-hall/)*
+*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/london/club/islington-assembly-hall/)*

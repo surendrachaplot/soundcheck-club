@@ -1,6 +1,6 @@
 # The AM/AMX
 
-The AM/AMX is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Thu, 23 Jul 2026, next at Marble Bar, Detroit on Fri, 24 Jul 2026.
+The AM/AMX is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Fri, 24 Jul 2026, next at Marble Bar, Detroit on Fri, 24 Jul 2026.
 
 The AM/AMX is a techno and house artist tracked on soundcheck, with 80 sets logged across Berlin, Chicago, Detroit and Losangeles and 3 more. Often billed alongside Ash Lauryn, Isaac Prieto and Max Watts. Next up: Marble Bar, Detroit on Fri 24 Jul.
 
@@ -26,4 +26,4 @@ The AM/AMX is a techno and house artist tracked on soundcheck, with 80 sets logg
 
 Ash Lauryn, Isaac Prieto, Max Watts
 
-*Updated Thu, 23 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/AMX/)*
+*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/AMX/)*

@@ -1,6 +1,6 @@
 # P.O (1)
 
-P.O (1) is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Thu, 23 Jul 2026, next at TBA - Secret Place, Marseille on Fri, 7 Aug 2026.
+P.O (1) is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Fri, 24 Jul 2026, next at TBA - Secret Place, Marseille on Fri, 7 Aug 2026.
 
 P.O (1) is a techno and house artist based in France, tracked on soundcheck, with 52 sets logged across Barcelona, Brussels, Bucharest and Buenosaires and 13 more. Often billed alongside Flo Massé, Occibel and Lumbago. Next up: TBA - Secret Place, Marseille on Fri 7 Aug.
 
@@ -26,4 +26,4 @@ P.O (1) is a techno and house artist based in France, tracked on soundcheck, wit
 
 Flo Massé, Occibel, Lumbago
 
-*Updated Thu, 23 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/p.o-1/)*
+*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/p.o-1/)*

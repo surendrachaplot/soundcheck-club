@@ -1,6 +1,6 @@
 # Patrice Bäumel
 
-Patrice Bäumel is a Techno and House artist with 4 upcoming club dates listed on soundcheck as of Thu, 23 Jul 2026, next at Flash, Washington DC on Fri, 24 Jul 2026.
+Patrice Bäumel is a Techno and House artist with 4 upcoming club dates listed on soundcheck as of Fri, 24 Jul 2026, next at Flash, Washington DC on Fri, 24 Jul 2026.
 
 Patrice Bäumel is a techno and house artist tracked on soundcheck, with 144 sets logged across Amsterdam, Antwerp, Barcelona and Belgrade and 39 more. Often billed alongside Patrice, Hernan Cattaneo and Sasha. Next up: Flash, Washingtondc on Fri 24 Jul.
 
@@ -28,4 +28,4 @@ Patrice Bäumel is a techno and house artist tracked on soundcheck, with 144 set
 
 Patrice, Hernan Cattaneo, Sasha
 
-*Updated Thu, 23 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/patricebaumel/)*
+*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/patricebaumel/)*

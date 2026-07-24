@@ -1,6 +1,6 @@
 # manato
 
-manato is a Techno and Bass artist with 2 upcoming club dates listed on soundcheck as of Thu, 23 Jul 2026, next at 鳥獣虫居酒屋 米とサーカス 渋谷parco店, Tokyo on Fri, 24 Jul 2026.
+manato is a Techno and Bass artist with 2 upcoming club dates listed on soundcheck as of Fri, 24 Jul 2026, next at 鳥獣虫居酒屋 米とサーカス 渋谷parco店, Tokyo on Fri, 24 Jul 2026.
 
 manato is a techno and bass artist tracked on soundcheck, with 55 sets logged across Seoul and Tokyo. Often billed alongside Usk°, XINOVI and jo (53). Next up: 鳥獣虫居酒屋 米とサーカス 渋谷parco店, Tokyo on Fri 24 Jul.
 
@@ -26,4 +26,4 @@ manato is a techno and bass artist tracked on soundcheck, with 55 sets logged ac
 
 Usk°, XINOVI, jo (53)
 
-*Updated Thu, 23 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/manato/)*
+*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/manato/)*

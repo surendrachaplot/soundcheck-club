@@ -1,6 +1,6 @@
 # DJ Try (US)
 
-DJ Try (US) is a Trance and Techno artist with 3 upcoming club dates listed on soundcheck as of Thu, 23 Jul 2026, next at Mood Ring, New York City on Sat, 25 Jul 2026.
+DJ Try (US) is a Trance and Techno artist with 3 upcoming club dates listed on soundcheck as of Fri, 24 Jul 2026, next at Mood Ring, New York City on Sat, 25 Jul 2026.
 
 DJ Try (US) is a trance and techno artist based in United States of America, tracked on soundcheck, with 4 sets logged across Ibiza, Manchester, Newyorkcity and Philadelphia. Often billed alongside ASTER (DJ), CITYSPROBLEM and CYNTHESZR. Next up: Mood Ring, Newyorkcity on Sat 25 Jul.
 
@@ -20,4 +20,4 @@ DJ Try (US) is a trance and techno artist based in United States of America, tra
 
 ASTER (DJ), CITYSPROBLEM, CYNTHESZR
 
-*Updated Thu, 23 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/djtryus/)*
+*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/djtryus/)*

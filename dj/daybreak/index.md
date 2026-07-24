@@ -1,6 +1,6 @@
 # Daybreak
 
-Daybreak is a Techno and Trance artist with 3 upcoming club dates listed on soundcheck as of Thu, 23 Jul 2026, next at TBA - Bushwick, New York City on Fri, 31 Jul 2026.
+Daybreak is a Techno and Trance artist with 3 upcoming club dates listed on soundcheck as of Fri, 24 Jul 2026, next at TBA - Bushwick, New York City on Fri, 31 Jul 2026.
 
 Daybreak is a techno and trance artist based in United States of America, tracked on soundcheck, with 30 sets logged across Bangkok, Berlin, Boston and Chicago and 3 more. Often billed alongside Telesforo, Michelle Kay and BЯEE. Next up: TBA - Bushwick, Newyorkcity on Fri 31 Jul.
 
@@ -27,4 +27,4 @@ Daybreak is a techno and trance artist based in United States of America, tracke
 
 Telesforo, Michelle Kay, BЯEE
 
-*Updated Thu, 23 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/daybreak/)*
+*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/daybreak/)*

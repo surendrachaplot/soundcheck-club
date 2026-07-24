@@ -1,6 +1,6 @@
 # Sui Generis
 
-Sui Generis is a music venue in London with 4 upcoming nights listed on soundcheck as of Thu, 23 Jul 2026; the next is "Phase Logistics: PL03" on Fri, 24 Jul 2026.
+Sui Generis is a music venue in London with 4 upcoming nights listed on soundcheck as of Fri, 24 Jul 2026; the next is "Phase Logistics: PL03" on Fri, 24 Jul 2026.
 
 Sui Generis is a music venue in London listed on soundcheck. 4 upcoming nights, with line-ups including dj people's princess, groupi3incognito, HARLØW and Human Movement and 2 more. Browse upcoming dates, start times and who's playing. 588 kingsland road E84AH.
 
@@ -17,4 +17,4 @@ Sui Generis is a music venue in London listed on soundcheck. 4 upcoming nights, 
 
 588 kingsland road E84AH, London
 
-*Updated Thu, 23 Jul 2026 · source: [soundcheck](https://soundcheck.club/london/club/sui-generis/)*
+*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/london/club/sui-generis/)*

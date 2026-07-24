@@ -1,6 +1,6 @@
 # Charlie Tee
 
-Charlie Tee is a Drum & Bass and Bass artist with 4 upcoming club dates listed on soundcheck as of Thu, 23 Jul 2026, next at Finsbury Park, London on Sun, 2 Aug 2026.
+Charlie Tee is a Drum & Bass and Bass artist with 4 upcoming club dates listed on soundcheck as of Fri, 24 Jul 2026, next at Finsbury Park, London on Sun, 2 Aug 2026.
 
 Charlie Tee is a drum & bass and bass artist based in United Kingdom, tracked on soundcheck, with 50 sets logged across Auckland, Birmingham, Brighton and Brisbane and 12 more. Often billed alongside BassLayerz, Hedex and K Motionz. Next up: Finsbury Park, London on Sun 2 Aug.
 
@@ -28,4 +28,4 @@ Charlie Tee is a drum & bass and bass artist based in United Kingdom, tracked on
 
 BassLayerz, Hedex, K Motionz
 
-*Updated Thu, 23 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/charlietee/)*
+*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/charlietee/)*

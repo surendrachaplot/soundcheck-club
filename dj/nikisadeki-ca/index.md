@@ -1,6 +1,6 @@
 # Niki Sadeki
 
-Niki Sadeki is a Deep House and House artist with 3 upcoming club dates listed on soundcheck as of Thu, 23 Jul 2026, next at Refuge, New York City on Fri, 24 Jul 2026.
+Niki Sadeki is a Deep House and House artist with 3 upcoming club dates listed on soundcheck as of Fri, 24 Jul 2026, next at Refuge, New York City on Fri, 24 Jul 2026.
 
 Niki Sadeki is a deep house and house artist tracked on soundcheck, with 66 sets logged across Amsterdam, Berlin, Chicago and Copenhagen and 15 more. Often billed alongside Britta Arnold, Chris Schwarzwälder and ELIF. Next up: Refuge, Newyorkcity on Fri 24 Jul.
 
@@ -27,4 +27,4 @@ Niki Sadeki is a deep house and house artist tracked on soundcheck, with 66 sets
 
 Britta Arnold, Chris Schwarzwälder, ELIF
 
-*Updated Thu, 23 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/nikisadeki-ca/)*
+*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/nikisadeki-ca/)*

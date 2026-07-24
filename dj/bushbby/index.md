@@ -1,6 +1,6 @@
 # Bushbby
 
-Bushbby is a Reggaeton and Latin Bass artist with 2 upcoming club dates listed on soundcheck as of Thu, 23 Jul 2026, next at Burgess Park, London on Sun, 2 Aug 2026.
+Bushbby is a Reggaeton and Latin Bass artist with 2 upcoming club dates listed on soundcheck as of Fri, 24 Jul 2026, next at Burgess Park, London on Sun, 2 Aug 2026.
 
 Bushbby is a reggaeton and latin bass artist tracked on soundcheck, with 95 sets logged across Barcelona, Bristol, Brussels and Geneva and 8 more. Often billed alongside Papaoul, Arthi and CXLI. Next up: Burgess Park, London on Sun 2 Aug.
 
@@ -26,4 +26,4 @@ Bushbby is a reggaeton and latin bass artist tracked on soundcheck, with 95 sets
 
 Papaoul, Arthi, CXLI
 
-*Updated Thu, 23 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/bushbby/)*
+*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/bushbby/)*

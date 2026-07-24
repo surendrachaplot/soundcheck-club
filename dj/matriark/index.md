@@ -1,6 +1,6 @@
 # Matriark
 
-Matriark is a Techno and Trance artist with 2 upcoming club dates listed on soundcheck as of Thu, 23 Jul 2026, next at FOLD, London on Sat, 8 Aug 2026.
+Matriark is a Techno and Trance artist with 2 upcoming club dates listed on soundcheck as of Fri, 24 Jul 2026, next at FOLD, London on Sat, 8 Aug 2026.
 
 Matriark is a techno and trance artist based in Norway, tracked on soundcheck, with 132 sets logged across Amsterdam, Barcelona, Basel and Berlin and 19 more. Often billed alongside DJ IBON, ibon and Britney Speed. Next up: FOLD, London on Sat 8 Aug.
 
@@ -26,4 +26,4 @@ Matriark is a techno and trance artist based in Norway, tracked on soundcheck, w
 
 DJ IBON, ibon, Britney Speed
 
-*Updated Thu, 23 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/matriark/)*
+*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/matriark/)*

@@ -1,6 +1,6 @@
 # Ko Mu
 
-Ko Mu is a House and Minimal artist with 3 upcoming club dates listed on soundcheck as of Thu, 23 Jul 2026, next at Le Refuge - La Rotonde Stalingrad, Paris on Fri, 24 Jul 2026.
+Ko Mu is a House and Minimal artist with 3 upcoming club dates listed on soundcheck as of Fri, 24 Jul 2026, next at Le Refuge - La Rotonde Stalingrad, Paris on Fri, 24 Jul 2026.
 
 Ko Mu is a house and minimal artist based in Ukraine, tracked on soundcheck, with 10 sets logged across Ibiza and Paris. Often billed alongside The Liquid Dude, Woodson and Ekonopolis. Next up: Le Refuge - La Rotonde Stalingrad, Paris on Fri 24 Jul.
 
@@ -26,4 +26,4 @@ Ko Mu is a house and minimal artist based in Ukraine, tracked on soundcheck, wit
 
 The Liquid Dude, Woodson, Ekonopolis
 
-*Updated Thu, 23 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/komu/)*
+*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/komu/)*

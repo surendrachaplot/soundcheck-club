@@ -1,6 +1,6 @@
 # CAAL
 
-CAAL is a Techno and Tech House artist with 5 upcoming club dates listed on soundcheck as of Thu, 23 Jul 2026, next at Amnesia Ibiza, Ibiza on Wed, 29 Jul 2026.
+CAAL is a Techno and Tech House artist with 5 upcoming club dates listed on soundcheck as of Fri, 24 Jul 2026, next at Amnesia Ibiza, Ibiza on Wed, 29 Jul 2026.
 
 CAAL is a techno and tech house artist based in Spain, tracked on soundcheck, with 56 sets logged across Barcelona, Ibiza, Madrid and Malaga and 1 more. Often billed alongside Marco Faraone, Mar-T and Luca Donzelli. Next up: Amnesia Ibiza, Ibiza on Wed 29 Jul.
 
@@ -29,4 +29,4 @@ CAAL is a techno and tech house artist based in Spain, tracked on soundcheck, wi
 
 Marco Faraone, Mar-T, Luca Donzelli
 
-*Updated Thu, 23 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/caal/)*
+*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/caal/)*

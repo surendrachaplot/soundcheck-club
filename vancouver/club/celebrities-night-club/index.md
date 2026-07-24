@@ -1,6 +1,6 @@
 # Celebrities Night Club
 
-Celebrities Night Club is a music venue in Vancouver with 5 upcoming nights listed on soundcheck as of Thu, 23 Jul 2026; the next is "underscores" on Thu, 30 Jul 2026.
+Celebrities Night Club is a music venue in Vancouver with 5 upcoming nights listed on soundcheck as of Fri, 24 Jul 2026; the next is "underscores" on Thu, 30 Jul 2026.
 
 Celebrities Night Club is a music venue in Vancouver listed on soundcheck. 5 upcoming nights, with line-ups including Alex Chapman, Coco & Breezy, Conrad Taylor and dj g2g. Browse upcoming dates, start times and who's playing. 1022 Davie Street; Vancouver, BC V6E 1N2; Canada.
 
@@ -18,4 +18,4 @@ Celebrities Night Club is a music venue in Vancouver listed on soundcheck. 5 upc
 
 1022 Davie Street; Vancouver, BC V6E 1N2; Canada, Vancouver
 
-*Updated Thu, 23 Jul 2026 · source: [soundcheck](https://soundcheck.club/vancouver/club/celebrities-night-club/)*
+*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/vancouver/club/celebrities-night-club/)*

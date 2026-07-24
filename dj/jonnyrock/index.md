@@ -1,6 +1,6 @@
 # Jonny Rock
 
-Jonny Rock is a House and Techno artist with 5 upcoming club dates listed on soundcheck as of Thu, 23 Jul 2026, next at The Cause, London on Sat, 25 Jul 2026.
+Jonny Rock is a House and Techno artist with 5 upcoming club dates listed on soundcheck as of Fri, 24 Jul 2026, next at The Cause, London on Sat, 25 Jul 2026.
 
 Jonny Rock is a house and techno artist tracked on soundcheck, with 112 sets logged across Amsterdam, Barcelona, Berlin and Bucharest and 25 more. Often billed alongside O.BEE, Tomas Station and Seth Troxler. Next up: The Cause, London on Sat 25 Jul.
 
@@ -29,4 +29,4 @@ Jonny Rock is a house and techno artist tracked on soundcheck, with 112 sets log
 
 O.BEE, Tomas Station, Seth Troxler
 
-*Updated Thu, 23 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/jonnyrock/)*
+*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/jonnyrock/)*

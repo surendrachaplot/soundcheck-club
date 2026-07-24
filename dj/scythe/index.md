@@ -1,6 +1,6 @@
 # Scythe
 
-Scythe is a Techno and Trance artist with 3 upcoming club dates listed on soundcheck as of Thu, 23 Jul 2026, next at TBA - Brumby Bar Jindabyne, Sydney on Fri, 31 Jul 2026.
+Scythe is a Techno and Trance artist with 3 upcoming club dates listed on soundcheck as of Fri, 24 Jul 2026, next at TBA - Brumby Bar Jindabyne, Sydney on Fri, 31 Jul 2026.
 
 Scythe is a techno and trance artist based in Malta, tracked on soundcheck, with 42 sets logged across Berlin, Budapest, London and Malta and 1 more. Often billed alongside INVERTED (MT), NATURA2K and SUNTA. Next up: TBA - Brumby Bar Jindabyne, Sydney on Fri 31 Jul.
 
@@ -27,4 +27,4 @@ Scythe is a techno and trance artist based in Malta, tracked on soundcheck, with
 
 INVERTED (MT), NATURA2K, SUNTA
 
-*Updated Thu, 23 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/scythe/)*
+*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/scythe/)*

@@ -1,6 +1,6 @@
 # Will Buck
 
-Will Buck is a House and Disco artist with 2 upcoming club dates listed on soundcheck as of Thu, 23 Jul 2026, next at Jolene Downtown Miami, Miami on Sat, 22 Aug 2026.
+Will Buck is a House and Disco artist with 2 upcoming club dates listed on soundcheck as of Fri, 24 Jul 2026, next at Jolene Downtown Miami, Miami on Sat, 22 Aug 2026.
 
 Will Buck is a house and disco artist based in United States of America, tracked on soundcheck, with 67 sets logged across Berlin, Miami and Newyorkcity. Often billed alongside Anna Collecta, Deo'jorge and Bakke. Next up: Jolene Downtown Miami, Miami on Sat 22 Aug.
 
@@ -26,4 +26,4 @@ Will Buck is a house and disco artist based in United States of America, tracked
 
 Anna Collecta, Deo'jorge, Bakke
 
-*Updated Thu, 23 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/willbuck/)*
+*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/willbuck/)*

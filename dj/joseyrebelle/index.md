@@ -1,6 +1,6 @@
 # Josey Rebelle
 
-Josey Rebelle is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Thu, 23 Jul 2026, next at Melkweg, Amsterdam on Thu, 30 Jul 2026.
+Josey Rebelle is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Fri, 24 Jul 2026, next at Melkweg, Amsterdam on Thu, 30 Jul 2026.
 
 Josey Rebelle is a techno and house artist tracked on soundcheck, with 115 sets logged across Amsterdam, Antwerp, Barcelona and Berlin and 21 more. Often billed alongside Josh Caffé, CCL and NIKS. Next up: Melkweg, Amsterdam on Thu 30 Jul.
 
@@ -27,4 +27,4 @@ Josey Rebelle is a techno and house artist tracked on soundcheck, with 115 sets 
 
 Josh Caffé, CCL, NIKS
 
-*Updated Thu, 23 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/joseyrebelle/)*
+*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/joseyrebelle/)*

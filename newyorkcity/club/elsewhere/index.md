@@ -1,6 +1,6 @@
 # Elsewhere
 
-Elsewhere is a music venue in New York City with 47 upcoming nights listed on soundcheck as of Thu, 23 Jul 2026; the next is "Recondite, Kanykei, YokoO (Open To Close), Anna Collecta + Deo'jorge, alexander:louis + more" on Fri, 24 Jul 2026.
+Elsewhere is a music venue in New York City with 47 upcoming nights listed on soundcheck as of Fri, 24 Jul 2026; the next is "Recondite, Kanykei, YokoO (Open To Close), Anna Collecta + Deo'jorge, alexander:louis + more" on Fri, 24 Jul 2026.
 
 Elsewhere is a music venue in Newyorkcity listed on soundcheck. 47 upcoming nights, with line-ups including 444 (1), Aku, alexander:louis and Amy Jor and 2 more. Browse upcoming dates, start times and who's playing. 599 Johnson Ave, Brooklyn, NY 11237 USA.
 
@@ -23,4 +23,4 @@ Elsewhere is a music venue in Newyorkcity listed on soundcheck. 47 upcoming nigh
 
 599 Johnson Ave, Brooklyn, NY 11237 USA, New York City
 
-*Updated Thu, 23 Jul 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/elsewhere/)*
+*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/elsewhere/)*

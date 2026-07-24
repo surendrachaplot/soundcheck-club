@@ -1,6 +1,6 @@
 # Nala
 
-Nala is a House and Tech House artist with 2 upcoming club dates listed on soundcheck as of Thu, 23 Jul 2026, next at Tigres de la Noche, Washington DC on Sat, 1 Aug 2026.
+Nala is a House and Tech House artist with 2 upcoming club dates listed on soundcheck as of Fri, 24 Jul 2026, next at Tigres de la Noche, Washington DC on Sat, 1 Aug 2026.
 
 Nala is a house and tech house artist tracked on soundcheck, with 83 sets logged across Amsterdam, Austin, Chicago and Denver and 16 more. Often billed alongside Vnssa, Justin Martin and Bastienne. Next up: Tigres de la Noche, Washingtondc on Sat 1 Aug.
 
@@ -26,4 +26,4 @@ Nala is a house and tech house artist tracked on soundcheck, with 83 sets logged
 
 Vnssa, Justin Martin, Bastienne
 
-*Updated Thu, 23 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/nala-us/)*
+*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/nala-us/)*

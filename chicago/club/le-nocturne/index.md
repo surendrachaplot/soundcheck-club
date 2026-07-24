@@ -1,6 +1,6 @@
 # Le Nocturne
 
-Le Nocturne is a music venue in Chicago with 2 upcoming nights listed on soundcheck as of Thu, 23 Jul 2026; the next is "Speakeasy House Radio: Demuir, Jakmin & MARRIO" on Sun, 26 Jul 2026.
+Le Nocturne is a music venue in Chicago with 2 upcoming nights listed on soundcheck as of Fri, 24 Jul 2026; the next is "Speakeasy House Radio: Demuir, Jakmin & MARRIO" on Sun, 26 Jul 2026.
 
 Le Nocturne is a music venue in Chicago listed on soundcheck. 2 upcoming nights, with line-ups including Demuir, Gene Hunt and MARRIO. Browse upcoming dates, start times and who's playing. 4810 N Brodway, Chicago IL - 60640.
 
@@ -15,4 +15,4 @@ Le Nocturne is a music venue in Chicago listed on soundcheck. 2 upcoming nights,
 
 4810 N Brodway, Chicago IL - 60640, Chicago
 
-*Updated Thu, 23 Jul 2026 · source: [soundcheck](https://soundcheck.club/chicago/club/le-nocturne/)*
+*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/chicago/club/le-nocturne/)*

@@ -1,6 +1,6 @@
 # Ernesto Chahoud
 
-Ernesto Chahoud is a Afrobeat and Disco artist with 3 upcoming club dates listed on soundcheck as of Thu, 23 Jul 2026, next at Point Ephémère, Paris on Fri, 24 Jul 2026.
+Ernesto Chahoud is a Afrobeat and Disco artist with 3 upcoming club dates listed on soundcheck as of Fri, 24 Jul 2026, next at Point Ephémère, Paris on Fri, 24 Jul 2026.
 
 Ernesto Chahoud is an afrobeat and disco artist tracked on soundcheck, with 31 sets logged across Berlin, Hamburg, London and Paris. Often billed alongside Natalie Shooter, Beirut Groove Collective and Hamish & Toby. Next up: Point Ephémère, Paris on Fri 24 Jul.
 
@@ -27,4 +27,4 @@ Ernesto Chahoud is an afrobeat and disco artist tracked on soundcheck, with 31 s
 
 Natalie Shooter, Beirut Groove Collective, Hamish & Toby
 
-*Updated Thu, 23 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/ernestochahoud/)*
+*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/ernestochahoud/)*

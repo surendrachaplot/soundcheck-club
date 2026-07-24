@@ -1,6 +1,6 @@
 # Pau Rosés
 
-Pau Rosés is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Thu, 23 Jul 2026, next at TBA - Studio Stereo, close to pl. Catalunya, 08007, Barcelona, Barcelona on Fri, 31 Jul 2026.
+Pau Rosés is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Fri, 24 Jul 2026, next at TBA - Studio Stereo, close to pl. Catalunya, 08007, Barcelona, Barcelona on Fri, 31 Jul 2026.
 
 Pau Rosés is a house and techno artist tracked on soundcheck, with 135 sets logged across Barcelona, Ibiza, London and Madrid and 1 more. Often billed alongside Adria (ES), Swann and Vince Void. Next up: TBA - Studio Stereo, close to pl. Catalunya, 08007, Barcelona, Barcelona on Fri 31 Jul.
 
@@ -27,4 +27,4 @@ Pau Rosés is a house and techno artist tracked on soundcheck, with 135 sets log
 
 Adria (ES), Swann, Vince Void
 
-*Updated Thu, 23 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/pauroses/)*
+*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/pauroses/)*

@@ -1,6 +1,6 @@
 # Massano
 
-Massano is a Techno and House artist with 8 upcoming club dates listed on soundcheck as of Thu, 23 Jul 2026, next at Parc del Fòrum, Barcelona on Fri, 7 Aug 2026.
+Massano is a Techno and House artist with 8 upcoming club dates listed on soundcheck as of Fri, 24 Jul 2026, next at Parc del Fòrum, Barcelona on Fri, 7 Aug 2026.
 
 Massano is a techno and house artist tracked on soundcheck, with 153 sets logged across Amsterdam, Athens, Austin and Bali and 47 more. Often billed alongside Adam Beyer, CamelPhat and Chris Avantgarde. Next up: Parc del Fòrum, Barcelona on Fri 7 Aug.
 
@@ -32,4 +32,4 @@ Massano is a techno and house artist tracked on soundcheck, with 153 sets logged
 
 Adam Beyer, CamelPhat, Chris Avantgarde
 
-*Updated Thu, 23 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/massano/)*
+*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/massano/)*

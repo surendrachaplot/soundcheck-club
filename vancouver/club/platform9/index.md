@@ -1,6 +1,6 @@
 # Platform9
 
-Platform9 is a music venue in Vancouver with 4 upcoming nights listed on soundcheck as of Thu, 23 Jul 2026; the next is "No Point Music presents: Homeground" on Sat, 25 Jul 2026.
+Platform9 is a music venue in Vancouver with 4 upcoming nights listed on soundcheck as of Fri, 24 Jul 2026; the next is "No Point Music presents: Homeground" on Sat, 25 Jul 2026.
 
 Platform9 is a music venue in Vancouver listed on soundcheck. 4 upcoming nights, with line-ups including AVRY, AWood, Cenk Saraç and Gentt and 2 more. Browse upcoming dates, start times and who's playing. 390 Industrial Ave, Vancouver, BC V6A 2P3 Canada.
 
@@ -17,4 +17,4 @@ Platform9 is a music venue in Vancouver listed on soundcheck. 4 upcoming nights,
 
 390 Industrial Ave, Vancouver, BC V6A 2P3 Canada, Vancouver
 
-*Updated Thu, 23 Jul 2026 · source: [soundcheck](https://soundcheck.club/vancouver/club/platform9/)*
+*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/vancouver/club/platform9/)*

@@ -1,6 +1,6 @@
 # Demattei
 
-Demattei is a Progressive House and Techno artist with 2 upcoming club dates listed on soundcheck as of Thu, 23 Jul 2026, next at Sala El Sol, Madrid on Fri, 31 Jul 2026.
+Demattei is a Progressive House and Techno artist with 2 upcoming club dates listed on soundcheck as of Fri, 24 Jul 2026, next at Sala El Sol, Madrid on Fri, 31 Jul 2026.
 
 Demattei is a progressive house and techno artist based in Argentina, tracked on soundcheck, with 46 sets logged across Amsterdam, Barcelona, Copenhagen and Ibiza and 2 more. Often billed alongside GINO GENTILI, Javi Garza and Savanna. Next up: Sala El Sol, Madrid on Fri 31 Jul.
 
@@ -26,4 +26,4 @@ Demattei is a progressive house and techno artist based in Argentina, tracked on
 
 GINO GENTILI, Javi Garza, Savanna
 
-*Updated Thu, 23 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/demattei/)*
+*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/demattei/)*

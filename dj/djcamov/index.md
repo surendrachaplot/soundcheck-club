@@ -1,6 +1,6 @@
 # DJ Camov
 
-DJ Camov is a House and Tech House artist with 2 upcoming club dates listed on soundcheck as of Thu, 23 Jul 2026, next at Baggen, Copenhagen on Fri, 24 Jul 2026.
+DJ Camov is a House and Tech House artist with 2 upcoming club dates listed on soundcheck as of Fri, 24 Jul 2026, next at Baggen, Copenhagen on Fri, 24 Jul 2026.
 
 DJ Camov is a house and tech house artist tracked on soundcheck, with 39 sets logged across Amsterdam, Berlin, Copenhagen and Melbourne and 1 more. Often billed alongside Martinez, Bex and Kristian Andersen. Next up: Baggen, Copenhagen on Fri 24 Jul.
 
@@ -26,4 +26,4 @@ DJ Camov is a house and tech house artist tracked on soundcheck, with 39 sets lo
 
 Martinez, Bex, Kristian Andersen
 
-*Updated Thu, 23 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/djcamov/)*
+*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/djcamov/)*

@@ -1,6 +1,6 @@
 # 3LEEZA
 
-3LEEZA is a Trance and Techno artist with 6 upcoming club dates listed on soundcheck as of Thu, 23 Jul 2026, next at Gwuni Mopera Zentrum Leipzig, Leipzig on Sat, 1 Aug 2026.
+3LEEZA is a Trance and Techno artist with 6 upcoming club dates listed on soundcheck as of Fri, 24 Jul 2026, next at Gwuni Mopera Zentrum Leipzig, Leipzig on Sat, 1 Aug 2026.
 
 3LEEZA is a trance and techno artist tracked on soundcheck, with 49 sets logged across Amsterdam, Berlin, Brussels and Cologne and 7 more. Often billed alongside Alex Friday, Niotech and HANÀ. Next up: Gwuni Mopera Zentrum Leipzig, Leipzig on Sat 1 Aug.
 
@@ -30,4 +30,4 @@
 
 Alex Friday, Niotech, HANÀ
 
-*Updated Thu, 23 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/3leeza/)*
+*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/3leeza/)*

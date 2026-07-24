@@ -1,6 +1,6 @@
 # Seaseaclub Barcelona
 
-Seaseaclub Barcelona is a music venue in Barcelona with 18 upcoming nights listed on soundcheck as of Thu, 23 Jul 2026; the next is "[LAST 100 TICKETS] Output pres. Nicola Cruz + Binh (open air + afterparty)" on Fri, 24 Jul 2026.
+Seaseaclub Barcelona is a music venue in Barcelona with 18 upcoming nights listed on soundcheck as of Fri, 24 Jul 2026; the next is "[LAST 100 TICKETS] Output pres. Nicola Cruz + Binh (open air + afterparty)" on Fri, 24 Jul 2026.
 
 Seaseaclub Barcelona is a music venue in Barcelona listed on soundcheck. 18 upcoming nights, with line-ups including CEZAR, Mariiin, Abdon and Agatha Pher and 2 more. Browse upcoming dates, start times and who's playing. Carrer Port Esportiu, 14P, 08930 Barcelona.
 
@@ -23,4 +23,4 @@ Seaseaclub Barcelona is a music venue in Barcelona listed on soundcheck. 18 upco
 
 Carrer Port Esportiu, 14P, 08930 Barcelona, Barcelona
 
-*Updated Thu, 23 Jul 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/seaseaclub-barcelona/)*
+*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/seaseaclub-barcelona/)*

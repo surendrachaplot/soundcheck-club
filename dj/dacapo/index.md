@@ -1,6 +1,6 @@
 # Da Capo
 
-Da Capo is a Afro House and House artist with 3 upcoming club dates listed on soundcheck as of Thu, 23 Jul 2026, next at Hï Ibiza, Ibiza on Thu, 30 Jul 2026.
+Da Capo is a Afro House and House artist with 3 upcoming club dates listed on soundcheck as of Fri, 24 Jul 2026, next at Hï Ibiza, Ibiza on Thu, 30 Jul 2026.
 
 Da Capo is an afro house and house artist tracked on soundcheck, with 50 sets logged across Amsterdam, Athens, Bali and Barcelona and 13 more. Often billed alongside Enoo Napa, Caiiro and Van Zand. Next up: Hï Ibiza, Ibiza on Thu 30 Jul.
 
@@ -27,4 +27,4 @@ Da Capo is an afro house and house artist tracked on soundcheck, with 50 sets lo
 
 Enoo Napa, Caiiro, Van Zand
 
-*Updated Thu, 23 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/dacapo/)*
+*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/dacapo/)*

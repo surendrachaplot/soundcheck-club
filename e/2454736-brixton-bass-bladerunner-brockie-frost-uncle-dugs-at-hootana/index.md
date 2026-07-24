@@ -1,11 +1,11 @@
-# Brixton Bass: Bladerunner, Brockie, Frost, Uncle Dugs at Hootananny
+# Brixton Bass: Bladerunner, Brockie, Frost, Uncle Dugs at Hootananny Brixton
 
-Brixton Bass: Bladerunner, Brockie, Frost, Uncle Dugs at Hootananny on Fri 24 Jul, London. 10 acts on the bill: 2Shy MC, Bladerunner, DJ Brockie and Funsta and 6 more. Drum & Bass and Jungle. Preview the line-up and save it on soundcheck.
+Brixton Bass: Bladerunner, Brockie, Frost, Uncle Dugs at Hootananny Brixton on Fri 24 Jul, London. 10 acts on the bill: 2Shy MC, Bladerunner, DJ Brockie and Funsta and 6 more. Drum & Bass and Jungle. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
 | Date | Fri, 24 Jul 2026 |
-| Venue | Hootananny |
+| Venue | Hootananny Brixton |
 | City | London |
 
 ## Line-up

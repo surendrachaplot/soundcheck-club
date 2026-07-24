@@ -1,6 +1,6 @@
 # Clouds
 
-Clouds is a Techno and Trance artist with 3 upcoming club dates listed on soundcheck as of Thu, 23 Jul 2026, next at Palmerstown House Estate, Dublin on Sun, 2 Aug 2026.
+Clouds is a Techno and Trance artist with 3 upcoming club dates listed on soundcheck as of Fri, 24 Jul 2026, next at Palmerstown House Estate, Dublin on Sun, 2 Aug 2026.
 
 Clouds is a techno and trance artist tracked on soundcheck, with 88 sets logged across Aberdeen, Amsterdam, Basel and Belfast and 27 more. Often billed alongside Tommy Holohan, Faster Horses and Gerardo Niva. Next up: Palmerstown House Estate, Dublin on Sun 2 Aug.
 
@@ -27,4 +27,4 @@ Clouds is a techno and trance artist tracked on soundcheck, with 88 sets logged 
 
 Tommy Holohan, Faster Horses, Gerardo Niva
 
-*Updated Thu, 23 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/clouds/)*
+*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/clouds/)*

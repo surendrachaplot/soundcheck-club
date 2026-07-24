@@ -1,6 +1,6 @@
 # Mariami
 
-Mariami is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Thu, 23 Jul 2026, next at Illegaal, Brussels on Sun, 26 Jul 2026.
+Mariami is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Fri, 24 Jul 2026, next at Illegaal, Brussels on Sun, 26 Jul 2026.
 
 Mariami is a techno and house artist tracked on soundcheck, with 53 sets logged across Berlin, Brussels, Cologne and Munich and 3 more. Often billed alongside Dornen, Måtyrer and lomi. Next up: Illegaal, Brussels on Sun 26 Jul.
 
@@ -26,4 +26,4 @@ Mariami is a techno and house artist tracked on soundcheck, with 53 sets logged 
 
 Dornen, Måtyrer, lomi
 
-*Updated Thu, 23 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/mariami/)*
+*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/mariami/)*

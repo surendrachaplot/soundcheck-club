@@ -1,6 +1,6 @@
 # SCHAARUP
 
-SCHAARUP is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Thu, 23 Jul 2026, next at Ritter Butzke, Berlin on Sat, 25 Jul 2026.
+SCHAARUP is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Fri, 24 Jul 2026, next at Ritter Butzke, Berlin on Sat, 25 Jul 2026.
 
 SCHAARUP is a house and techno artist based in Denmark, tracked on soundcheck, with 88 sets logged across Amsterdam, Barcelona, Berlin and Cologne and 4 more. Often billed alongside Baime, Aja Gulris and NILU. Next up: Ritter Butzke, Berlin on Sat 25 Jul.
 
@@ -26,4 +26,4 @@ SCHAARUP is a house and techno artist based in Denmark, tracked on soundcheck, w
 
 Baime, Aja Gulris, NILU
 
-*Updated Thu, 23 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/schaarup/)*
+*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/schaarup/)*

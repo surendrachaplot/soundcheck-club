@@ -1,6 +1,6 @@
 # Viken Arman
 
-Viken Arman is a House and Deep House artist with 4 upcoming club dates listed on soundcheck as of Thu, 23 Jul 2026, next at Akasha Las Dalias Club - Ibiza, Ibiza on Thu, 30 Jul 2026.
+Viken Arman is a House and Deep House artist with 4 upcoming club dates listed on soundcheck as of Fri, 24 Jul 2026, next at Akasha Las Dalias Club - Ibiza, Ibiza on Thu, 30 Jul 2026.
 
 Viken Arman is a house and deep house artist tracked on soundcheck, with 90 sets logged across Amsterdam, Auckland, Bali and Berlin and 26 more. Often billed alongside Acid Pauli, Cesar Merveille and Mira. Next up: Akasha Las Dalias Club - Ibiza, Ibiza on Thu 30 Jul.
 
@@ -28,4 +28,4 @@ Viken Arman is a house and deep house artist tracked on soundcheck, with 90 sets
 
 Acid Pauli, Cesar Merveille, Mira
 
-*Updated Thu, 23 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/vikenarman/)*
+*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/vikenarman/)*

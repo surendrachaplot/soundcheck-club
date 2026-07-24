@@ -1,6 +1,6 @@
 # Café La Ligne Verte
 
-Café La Ligne Verte is a music venue in Montreal with 1 upcoming night listed on soundcheck as of Thu, 23 Jul 2026; the next is "Matinée show New Wave - Du Désastre + Nümonia" on Sun, 16 Aug 2026.
+Café La Ligne Verte is a music venue in Montreal with 1 upcoming night listed on soundcheck as of Fri, 24 Jul 2026; the next is "Matinée show New Wave - Du Désastre + Nümonia" on Sun, 16 Aug 2026.
 
 Café La Ligne Verte is a music venue in Montreal listed on soundcheck. 1 upcoming night. Browse upcoming dates, start times and who's playing.
 
@@ -10,4 +10,4 @@ Café La Ligne Verte is a music venue in Montreal listed on soundcheck. 1 upcomi
 | --- | --- | --- |
 | Sun, 16 Aug 2026 | Matinée show New Wave - Du Désastre + Nümonia |  |
 
-*Updated Thu, 23 Jul 2026 · source: [soundcheck](https://soundcheck.club/montreal/club/caf-la-ligne-verte/)*
+*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/montreal/club/caf-la-ligne-verte/)*

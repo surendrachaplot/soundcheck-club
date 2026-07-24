@@ -1,6 +1,6 @@
 # effua
 
-effua is a Bass and Baile Funk artist with 2 upcoming club dates listed on soundcheck as of Thu, 23 Jul 2026, next at Ormside Projects, London on Sat, 25 Jul 2026.
+effua is a Bass and Baile Funk artist with 2 upcoming club dates listed on soundcheck as of Fri, 24 Jul 2026, next at Ormside Projects, London on Sat, 25 Jul 2026.
 
 effua is a bass and baile funk artist tracked on soundcheck, with 52 sets logged across Edinburgh, Glasgow and London. Often billed alongside Babyjaii, Miss Cabbage and Plantainchipps. Next up: Ormside Projects, London on Sat 25 Jul.
 
@@ -26,4 +26,4 @@ effua is a bass and baile funk artist tracked on soundcheck, with 52 sets logged
 
 Babyjaii, Miss Cabbage, Plantainchipps
 
-*Updated Thu, 23 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/effua/)*
+*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/effua/)*

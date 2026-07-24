@@ -1,6 +1,6 @@
 # Fineberg
 
-Fineberg is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Thu, 23 Jul 2026, next at Minimal Bar, Berlin on Mon, 27 Jul 2026.
+Fineberg is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Fri, 24 Jul 2026, next at Minimal Bar, Berlin on Mon, 27 Jul 2026.
 
 Fineberg is a house and techno artist tracked on soundcheck, with 17 sets logged across Berlin. Often billed alongside Karolina Bnv, CEEE and Do you know Juno. Next up: Minimal Bar, Berlin on Mon 27 Jul.
 
@@ -27,4 +27,4 @@ Fineberg is a house and techno artist tracked on soundcheck, with 17 sets logged
 
 Karolina Bnv, CEEE, Do you know Juno
 
-*Updated Thu, 23 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/fineberg-2/)*
+*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/fineberg-2/)*

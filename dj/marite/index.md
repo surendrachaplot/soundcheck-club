@@ -1,6 +1,6 @@
 # Mari.te
 
-Mari.te is a House and Techno artist with 5 upcoming club dates listed on soundcheck as of Thu, 23 Jul 2026, next at TBA - East Williamsburg, New York City on Fri, 31 Jul 2026.
+Mari.te is a House and Techno artist with 5 upcoming club dates listed on soundcheck as of Fri, 24 Jul 2026, next at TBA - East Williamsburg, New York City on Fri, 31 Jul 2026.
 
 Mari.te is a house and techno artist tracked on soundcheck, with 153 sets logged across Amsterdam, Austin, Barcelona and Berlin and 36 more. Often billed alongside Lis Sarroca, Liquid Earth and Penelope (2). Next up: TBA - East Williamsburg, Newyorkcity on Fri 31 Jul.
 
@@ -29,4 +29,4 @@ Mari.te is a house and techno artist tracked on soundcheck, with 153 sets logged
 
 Lis Sarroca, Liquid Earth, Penelope (2)
 
-*Updated Thu, 23 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/marite/)*
+*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/marite/)*

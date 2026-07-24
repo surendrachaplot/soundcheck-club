@@ -1,6 +1,6 @@
 # Braxton
 
-Braxton is a Progressive House and Deep House artist with 4 upcoming club dates listed on soundcheck as of Thu, 23 Jul 2026, next at The Fibre Penthouse, Leeds on Fri, 14 Aug 2026.
+Braxton is a Progressive House and Deep House artist with 4 upcoming club dates listed on soundcheck as of Fri, 24 Jul 2026, next at The Fibre Penthouse, Leeds on Fri, 14 Aug 2026.
 
 Braxton is a progressive house and deep house artist tracked on soundcheck, with 40 sets logged across Austin, Berlin, Brighton and Bristol and 16 more. Often billed alongside Durante, Hana and Marsh. Next up: The Fibre Penthouse, Leeds on Fri 14 Aug.
 
@@ -28,4 +28,4 @@ Braxton is a progressive house and deep house artist tracked on soundcheck, with
 
 Durante, Hana, Marsh
 
-*Updated Thu, 23 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/braxton/)*
+*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/braxton/)*

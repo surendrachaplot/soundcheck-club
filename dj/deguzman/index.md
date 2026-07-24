@@ -1,6 +1,6 @@
 # DeGuzman
 
-DeGuzman is a Techno and Trance artist with 4 upcoming club dates listed on soundcheck as of Thu, 23 Jul 2026, next at Airport Würzburg, Nürnberg on Fri, 24 Jul 2026.
+DeGuzman is a Techno and Trance artist with 4 upcoming club dates listed on soundcheck as of Fri, 24 Jul 2026, next at Airport Würzburg, Nürnberg on Fri, 24 Jul 2026.
 
 DeGuzman is a techno and trance artist based in Germany, tracked on soundcheck, with 110 sets logged across Barcelona, Berlin, Cologne and Frankfurt and 8 more. Often billed alongside The Belgian Stallion, SANDRA ROMINA and Paranormila. Next up: Airport Würzburg, Nurnberg on Fri 24 Jul.
 
@@ -28,4 +28,4 @@ DeGuzman is a techno and trance artist based in Germany, tracked on soundcheck, 
 
 The Belgian Stallion, SANDRA ROMINA, Paranormila
 
-*Updated Thu, 23 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/deguzman/)*
+*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/deguzman/)*

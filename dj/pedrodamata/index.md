@@ -1,6 +1,6 @@
 # Pedro da Mata
 
-Pedro da Mata is a Baile Funk and Ambient artist with 3 upcoming club dates listed on soundcheck as of Thu, 23 Jul 2026, next at Parallel, Amsterdam on Fri, 24 Jul 2026.
+Pedro da Mata is a Baile Funk and Ambient artist with 3 upcoming club dates listed on soundcheck as of Fri, 24 Jul 2026, next at Parallel, Amsterdam on Fri, 24 Jul 2026.
 
 Pedro da Mata is a baile funk and ambient artist tracked on soundcheck, with 23 sets logged across Amsterdam, Brussels and Rotterdam. Often billed alongside Not Yet (2), AAlva and franchistein. Next up: Parallel, Amsterdam on Fri 24 Jul.
 
@@ -27,4 +27,4 @@ Pedro da Mata is a baile funk and ambient artist tracked on soundcheck, with 23 
 
 Not Yet (2), AAlva, franchistein
 
-*Updated Thu, 23 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/pedrodamata/)*
+*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/pedrodamata/)*

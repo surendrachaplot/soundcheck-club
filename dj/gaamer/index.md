@@ -1,6 +1,6 @@
 # Gaamer
 
-Gaamer is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Thu, 23 Jul 2026, next at Mastak, Warsaw on Fri, 24 Jul 2026.
+Gaamer is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Fri, 24 Jul 2026, next at Mastak, Warsaw on Fri, 24 Jul 2026.
 
 Gaamer is a techno and house artist based in Germany, tracked on soundcheck, with 37 sets logged across Berlin, Hamburg, Prague and Tbilisi and 1 more. Often billed alongside Terje Bakke, Alfret and Anri. Next up: Mastak, Warsaw on Fri 24 Jul.
 
@@ -27,4 +27,4 @@ Gaamer is a techno and house artist based in Germany, tracked on soundcheck, wit
 
 Terje Bakke, Alfret, Anri
 
-*Updated Thu, 23 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/gaamer/)*
+*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/gaamer/)*

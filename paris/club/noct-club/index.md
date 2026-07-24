@@ -1,6 +1,6 @@
 # Noct Club
 
-Noct Club is a music venue in Paris with 5 upcoming nights listed on soundcheck as of Thu, 23 Jul 2026; the next is "ACCESS 02: GATZ, AXƟREM, SVPERNØVA, AR-T" on Fri, 24 Jul 2026.
+Noct Club is a music venue in Paris with 5 upcoming nights listed on soundcheck as of Fri, 24 Jul 2026; the next is "ACCESS 02: GATZ, AXƟREM, SVPERNØVA, AR-T" on Fri, 24 Jul 2026.
 
 Noct Club is a music venue in Paris listed on soundcheck. 5 upcoming nights, with line-ups including Anastasiya Ty, FHNX and JXLN. Browse upcoming dates, start times and who's playing. 100 Avenue du Général Leclerc, 93500 Pantin, France.
 
@@ -18,4 +18,4 @@ Noct Club is a music venue in Paris listed on soundcheck. 5 upcoming nights, wit
 
 100 Avenue du Général Leclerc, 93500 Pantin, France, Paris
 
-*Updated Thu, 23 Jul 2026 · source: [soundcheck](https://soundcheck.club/paris/club/noct-club/)*
+*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/paris/club/noct-club/)*

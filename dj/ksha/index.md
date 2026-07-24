@@ -1,6 +1,6 @@
 # KSHA
 
-KSHA is a R&B and Funk / Soul artist with 3 upcoming club dates listed on soundcheck as of Thu, 23 Jul 2026, next at Brixton Jamm, London on Sat, 1 Aug 2026.
+KSHA is a R&B and Funk / Soul artist with 3 upcoming club dates listed on soundcheck as of Fri, 24 Jul 2026, next at Brixton Jamm, London on Sat, 1 Aug 2026.
 
 KSHA is a r&b and funk / soul artist based in United Kingdom, tracked on soundcheck, with 3 sets logged across London. Often billed alongside ARKNGL, BBSHKALES and Jean Blaire. Next up: Brixton Jamm, London on Sat 1 Aug.
 
@@ -16,4 +16,4 @@ KSHA is a r&b and funk / soul artist based in United Kingdom, tracked on soundch
 
 ARKNGL, BBSHKALES, Jean Blaire
 
-*Updated Thu, 23 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/ksha/)*
+*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/ksha/)*

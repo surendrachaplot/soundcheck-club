@@ -1,6 +1,6 @@
 # 77
 
-77 is a music venue in London with 9 upcoming nights listed on soundcheck as of Thu, 23 Jul 2026; the next is "77: Richy Ahmed" on Fri, 24 Jul 2026.
+77 is a music venue in London with 9 upcoming nights listed on soundcheck as of Fri, 24 Jul 2026; the next is "77: Richy Ahmed" on Fri, 24 Jul 2026.
 
 77 is a music venue in London listed on soundcheck. 9 upcoming nights, with line-ups including Darius Syrossian, Djebali, Duo and DUO (UK) and 2 more. Browse upcoming dates, start times and who's playing. 77 Welbeck Street, W1G 0BB.
 
@@ -22,4 +22,4 @@
 
 77 Welbeck Street, W1G 0BB, London
 
-*Updated Thu, 23 Jul 2026 · source: [soundcheck](https://soundcheck.club/london/club/77/)*
+*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/london/club/77/)*

@@ -1,6 +1,6 @@
 # Mezzanine - Tooting
 
-Mezzanine - Tooting is a music venue in London with 9 upcoming nights listed on soundcheck as of Thu, 23 Jul 2026; the next is "grounded. 016 (liquid dnb)" on Fri, 24 Jul 2026.
+Mezzanine - Tooting is a music venue in London with 9 upcoming nights listed on soundcheck as of Fri, 24 Jul 2026; the next is "grounded. 016 (liquid dnb)" on Fri, 24 Jul 2026.
 
 Mezzanine - Tooting is a music venue in London listed on soundcheck. 9 upcoming nights, with line-ups including ad*n, COBUU, Drastic Shuffle and Episode Three and 2 more. Browse upcoming dates, start times and who's playing. Unit 4, Tooting Market, 20 Totterdown St, London SW17 8TA.
 
@@ -22,4 +22,4 @@ Mezzanine - Tooting is a music venue in London listed on soundcheck. 9 upcoming 
 
 Unit 4, Tooting Market, 20 Totterdown St, London SW17 8TA, London
 
-*Updated Thu, 23 Jul 2026 · source: [soundcheck](https://soundcheck.club/london/club/mezzanine-tooting/)*
+*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/london/club/mezzanine-tooting/)*

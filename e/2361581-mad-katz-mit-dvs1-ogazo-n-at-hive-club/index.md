@@ -1,6 +1,6 @@
 # Mad Katz mit DVS1 & Ogazón at Hive Club
 
-Mad Katz mit DVS1 & Ogazón at Hive Club on Fri 28 Aug, Zurich. 2 acts on the bill: DVS1 and Ogazón. Preview the line-up and save it on soundcheck.
+Mad Katz mit DVS1 & Ogazón at Hive Club on Fri 28 Aug, Zurich. 4 acts on the bill: DVS1, Megix, Ogazón and Wandler. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -11,6 +11,8 @@ Mad Katz mit DVS1 & Ogazón at Hive Club on Fri 28 Aug, Zurich. 2 acts on the b
 ## Line-up
 
 - DVS1
+- Megix
 - Ogazón
+- Wandler
 
 *Source: [soundcheck](https://soundcheck.club/e/2361581-mad-katz-mit-dvs1-ogazo-n-at-hive-club/)*

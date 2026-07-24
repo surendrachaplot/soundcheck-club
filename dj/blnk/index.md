@@ -1,6 +1,6 @@
 # BLNK
 
-BLNK is a Techno and Industrial artist with 5 upcoming club dates listed on soundcheck as of Thu, 23 Jul 2026, next at The Flinders, Sydney on Fri, 31 Jul 2026.
+BLNK is a Techno and Industrial artist with 5 upcoming club dates listed on soundcheck as of Fri, 24 Jul 2026, next at The Flinders, Sydney on Fri, 31 Jul 2026.
 
 BLNK is a techno and industrial artist based in Netherlands, tracked on soundcheck, with 41 sets logged across Amsterdam, Antwerp, Barcelona and Belfast and 17 more. Often billed alongside TiTi, KRUELTY and LIEKS. Next up: The Flinders, Sydney on Fri 31 Jul.
 
@@ -29,4 +29,4 @@ BLNK is a techno and industrial artist based in Netherlands, tracked on soundche
 
 TiTi, KRUELTY, LIEKS
 
-*Updated Thu, 23 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/blnk/)*
+*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/blnk/)*

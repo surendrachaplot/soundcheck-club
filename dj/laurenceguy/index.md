@@ -1,6 +1,6 @@
 # Laurence Guy
 
-Laurence Guy is a House and Disco artist with 6 upcoming club dates listed on soundcheck as of Thu, 23 Jul 2026, next at EQ San Diego, San Diego on Fri, 24 Jul 2026.
+Laurence Guy is a House and Disco artist with 6 upcoming club dates listed on soundcheck as of Fri, 24 Jul 2026, next at EQ San Diego, San Diego on Fri, 24 Jul 2026.
 
 Laurence Guy is a house and disco artist based in United Kingdom, tracked on soundcheck, with 92 sets logged across Amsterdam, Austin, Bali and Bangkok and 27 more. Often billed alongside Arpy Brown, Hayden James and 1-800 GIRLS. Next up: EQ San Diego, Sandiego on Fri 24 Jul.
 
@@ -30,4 +30,4 @@ Laurence Guy is a house and disco artist based in United Kingdom, tracked on sou
 
 Arpy Brown, Hayden James, 1-800 GIRLS
 
-*Updated Thu, 23 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/laurenceguy/)*
+*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/laurenceguy/)*

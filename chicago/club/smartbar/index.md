@@ -1,6 +1,6 @@
 # smartbar
 
-smartbar is a music venue in Chicago with 18 upcoming nights listed on soundcheck as of Thu, 23 Jul 2026; the next is "Late Checkout feat. Tromac - Jana Rush - Final First - DJ Gaybash - YNH" on Fri, 24 Jul 2026.
+smartbar is a music venue in Chicago with 18 upcoming nights listed on soundcheck as of Fri, 24 Jul 2026; the next is "Late Checkout feat. Tromac - Jana Rush - Final First - DJ Gaybash - YNH" on Fri, 24 Jul 2026.
 
 smartbar is a music venue in Chicago listed on soundcheck. 18 upcoming nights, with line-ups including Ariel Zetina, Blu9, Brenda and CCTV and 2 more. Browse upcoming dates, start times and who's playing. 3730 N. Clark St; Chicago, IL 60613; United States.
 
@@ -23,4 +23,4 @@ smartbar is a music venue in Chicago listed on soundcheck. 18 upcoming nights, w
 
 3730 N. Clark St; Chicago, IL 60613; United States, Chicago
 
-*Updated Thu, 23 Jul 2026 · source: [soundcheck](https://soundcheck.club/chicago/club/smartbar/)*
+*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/chicago/club/smartbar/)*

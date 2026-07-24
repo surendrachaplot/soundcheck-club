@@ -1,6 +1,6 @@
 # Juliet Sikora
 
-Juliet Sikora is a Tech House and House artist with 2 upcoming club dates listed on soundcheck as of Thu, 23 Jul 2026, next at Chinois Ibiza, Ibiza on Sat, 8 Aug 2026.
+Juliet Sikora is a Tech House and House artist with 2 upcoming club dates listed on soundcheck as of Fri, 24 Jul 2026, next at Chinois Ibiza, Ibiza on Sat, 8 Aug 2026.
 
 Juliet Sikora is a tech house and house artist based in Germany, tracked on soundcheck, with 39 sets logged across Amsterdam, Barcelona, Berlin and Brighton and 8 more. Often billed alongside LOVRA, Tube & Berger and Claptone. Next up: Chinois Ibiza, Ibiza on Sat 8 Aug.
 
@@ -26,4 +26,4 @@ Juliet Sikora is a tech house and house artist based in Germany, tracked on soun
 
 LOVRA, Tube & Berger, Claptone
 
-*Updated Thu, 23 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/julietsikora/)*
+*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/julietsikora/)*

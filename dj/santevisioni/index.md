@@ -1,6 +1,6 @@
 # Sante Visioni
 
-Sante Visioni is a House and Deep House artist with 2 upcoming club dates listed on soundcheck as of Thu, 23 Jul 2026, next at UTOPIA / DYSTOPIA, Tokyo on Fri, 24 Jul 2026.
+Sante Visioni is a House and Deep House artist with 2 upcoming club dates listed on soundcheck as of Fri, 24 Jul 2026, next at UTOPIA / DYSTOPIA, Tokyo on Fri, 24 Jul 2026.
 
 Sante Visioni is a house and deep house artist based in Italy, tracked on soundcheck, with 83 sets logged across Nottingham, Seoul and Tokyo. Often billed alongside Chamcham, FU (JP) and Al Jones. Next up: UTOPIA / DYSTOPIA, Tokyo on Fri 24 Jul.
 
@@ -26,4 +26,4 @@ Sante Visioni is a house and deep house artist based in Italy, tracked on soundc
 
 Chamcham, FU (JP), Al Jones
 
-*Updated Thu, 23 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/santevisioni/)*
+*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/santevisioni/)*

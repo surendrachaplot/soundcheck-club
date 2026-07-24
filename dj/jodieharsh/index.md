@@ -1,6 +1,6 @@
 # Jodie Harsh
 
-Jodie Harsh is a House and Pop artist with 4 upcoming club dates listed on soundcheck as of Thu, 23 Jul 2026, next at Gbar, Liverpool on Sat, 25 Jul 2026.
+Jodie Harsh is a House and Pop artist with 4 upcoming club dates listed on soundcheck as of Fri, 24 Jul 2026, next at Gbar, Liverpool on Sat, 25 Jul 2026.
 
 Jodie Harsh is a house and pop artist tracked on soundcheck, with 28 sets logged across Copenhagen, Ibiza, Liverpool and London and 6 more. Often billed alongside Oscar Colorado, Joshua James and Robin Schulz. Next up: Gbar, Liverpool on Sat 25 Jul.
 
@@ -28,4 +28,4 @@ Jodie Harsh is a house and pop artist tracked on soundcheck, with 28 sets logged
 
 Oscar Colorado, Joshua James, Robin Schulz
 
-*Updated Thu, 23 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/jodieharsh/)*
+*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/jodieharsh/)*

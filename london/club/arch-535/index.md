@@ -1,6 +1,6 @@
 # Arch 535
 
-Arch 535 is a music venue in London with 5 upcoming nights listed on soundcheck as of Thu, 23 Jul 2026; the next is "SSAP: DJ Frog, ddwy, LT, Medium J" on Fri, 24 Jul 2026.
+Arch 535 is a music venue in London with 5 upcoming nights listed on soundcheck as of Fri, 24 Jul 2026; the next is "SSAP: DJ Frog, ddwy, LT, Medium J" on Fri, 24 Jul 2026.
 
 Arch 535 is a music venue in London listed on soundcheck. 5 upcoming nights, with line-ups including ddwy, DJ Frog, Drew Karma and Jacob Trip and 2 more. Browse upcoming dates, start times and who's playing. Arch 535, Orphans Yard, Brixton Station Rd, London SW9 8QB.
 
@@ -18,4 +18,4 @@ Arch 535 is a music venue in London listed on soundcheck. 5 upcoming nights, wit
 
 Arch 535, Orphans Yard, Brixton Station Rd, London SW9 8QB, London
 
-*Updated Thu, 23 Jul 2026 · source: [soundcheck](https://soundcheck.club/london/club/arch-535/)*
+*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/london/club/arch-535/)*

@@ -1,6 +1,6 @@
 # Identified Patient
 
-Identified Patient is a Techno and Electro artist with 6 upcoming club dates listed on soundcheck as of Thu, 23 Jul 2026, next at Amsterdamse Bos, Amsterdam on Wed, 29 Jul 2026.
+Identified Patient is a Techno and Electro artist with 6 upcoming club dates listed on soundcheck as of Fri, 24 Jul 2026, next at Amsterdamse Bos, Amsterdam on Wed, 29 Jul 2026.
 
 Identified Patient is a techno and electro artist tracked on soundcheck, with 156 sets logged across Amsterdam, Antwerp, Athens and Bangkok and 43 more. Often billed alongside Patient (MT), mad miran and Aurora Halal. Next up: Amsterdamse Bos, Amsterdam on Wed 29 Jul.
 
@@ -30,4 +30,4 @@ Identified Patient is a techno and electro artist tracked on soundcheck, with 15
 
 Patient (MT), mad miran, Aurora Halal
 
-*Updated Thu, 23 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/identifiedpatient/)*
+*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/identifiedpatient/)*

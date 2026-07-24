@@ -1,8 +1,8 @@
 # Gerd Janson
 
-Gerd Janson is a House and Techno artist with 16 upcoming club dates listed on soundcheck as of Thu, 23 Jul 2026, next at Rebstockpark, Frankfurt on Sat, 25 Jul 2026.
+Gerd Janson is a House and Techno artist with 17 upcoming club dates listed on soundcheck as of Fri, 24 Jul 2026, next at Rebstockpark, Frankfurt on Sat, 25 Jul 2026.
 
-Gerd Janson is a house and techno artist tracked on soundcheck, with 288 sets logged across Amsterdam, Antwerp, Athens and Austin and 66 more. Often billed alongside Marcel Dettmann, DJ Tennis and Âme. Next up: Rebstockpark, Frankfurt on Sat 25 Jul.
+Gerd Janson is a house and techno artist tracked on soundcheck, with 289 sets logged across Amsterdam, Antwerp, Athens and Austin and 66 more. Often billed alongside Marcel Dettmann, DJ Tennis and Âme. Next up: Rebstockpark, Frankfurt on Sat 25 Jul.
 
 ## Upcoming shows
 
@@ -36,4 +36,4 @@ Gerd Janson is a house and techno artist tracked on soundcheck, with 288 sets lo
 
 Marcel Dettmann, DJ Tennis, Âme
 
-*Updated Thu, 23 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/gerdjanson/)*
+*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/gerdjanson/)*

@@ -1,6 +1,6 @@
 # Antdot
 
-Antdot is a House and Afro House artist with 3 upcoming club dates listed on soundcheck as of Thu, 23 Jul 2026, next at The Cause, London on Fri, 24 Jul 2026.
+Antdot is a House and Afro House artist with 3 upcoming club dates listed on soundcheck as of Fri, 24 Jul 2026, next at The Cause, London on Fri, 24 Jul 2026.
 
 Antdot is a house and afro house artist tracked on soundcheck, with 54 sets logged across Amsterdam, Buenosaires, Ibiza and Lisbon and 17 more. Often billed alongside Maz (BR), Argy and Artbat. Next up: The Cause, London on Fri 24 Jul.
 
@@ -27,4 +27,4 @@ Antdot is a house and afro house artist tracked on soundcheck, with 54 sets logg
 
 Maz (BR), Argy, Artbat
 
-*Updated Thu, 23 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/antdot/)*
+*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/antdot/)*

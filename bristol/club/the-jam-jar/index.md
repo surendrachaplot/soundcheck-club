@@ -1,6 +1,6 @@
 # The Jam Jar
 
-The Jam Jar is a music venue in Bristol with 3 upcoming nights listed on soundcheck as of Thu, 23 Jul 2026; the next is "TERRAIN: Bangers Without Borders w/ Neon Pumps + Sugar & Spice Takeover" on Sat, 25 Jul 2026.
+The Jam Jar is a music venue in Bristol with 3 upcoming nights listed on soundcheck as of Fri, 24 Jul 2026; the next is "TERRAIN: Bangers Without Borders w/ Neon Pumps + Sugar & Spice Takeover" on Sat, 25 Jul 2026.
 
 The Jam Jar is a music venue in Bristol listed on soundcheck. 3 upcoming nights, with line-ups including Fulu Mizik, Neon Pumps and Tully. Browse upcoming dates, start times and who's playing. Little Ann St, Bristol BS2 9EB, United Kingdom.
 
@@ -16,4 +16,4 @@ The Jam Jar is a music venue in Bristol listed on soundcheck. 3 upcoming nights,
 
 Little Ann St, Bristol BS2 9EB, United Kingdom, Bristol
 
-*Updated Thu, 23 Jul 2026 · source: [soundcheck](https://soundcheck.club/bristol/club/the-jam-jar/)*
+*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/bristol/club/the-jam-jar/)*

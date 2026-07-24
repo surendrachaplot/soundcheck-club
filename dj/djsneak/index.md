@@ -1,6 +1,6 @@
 # DJ Sneak
 
-DJ Sneak is a House and Deep House artist with 3 upcoming club dates listed on soundcheck as of Thu, 23 Jul 2026, next at Quartyard, San Diego on Sun, 2 Aug 2026.
+DJ Sneak is a House and Deep House artist with 3 upcoming club dates listed on soundcheck as of Fri, 24 Jul 2026, next at Quartyard, San Diego on Sun, 2 Aug 2026.
 
 DJ Sneak is a house and deep house artist tracked on soundcheck, with 73 sets logged across Amsterdam, Chicago, Detroit and London and 11 more. Often billed alongside Doc Martin, DJ Dan and DJ Heather. Next up: Quartyard, Sandiego on Sun 2 Aug.
 
@@ -27,4 +27,4 @@ DJ Sneak is a house and deep house artist tracked on soundcheck, with 73 sets lo
 
 Doc Martin, DJ Dan, DJ Heather
 
-*Updated Thu, 23 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/djsneak/)*
+*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/djsneak/)*

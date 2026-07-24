@@ -1,6 +1,6 @@
 # Backyard
 
-Backyard is a music venue in Lisbon with 2 upcoming nights listed on soundcheck as of Thu, 23 Jul 2026; the next is "Brunch Electronik x Estrago: Official Afterparty" on Sat, 25 Jul 2026.
+Backyard is a music venue in Lisbon with 2 upcoming nights listed on soundcheck as of Fri, 24 Jul 2026; the next is "Brunch Electronik x Estrago: Official Afterparty" on Sat, 25 Jul 2026.
 
 Backyard is a music venue in Lisbon listed on soundcheck. 2 upcoming nights, with line-ups including Chinonegro, David Armada, Gilvaia and La Forêt and 1 more. Browse upcoming dates, start times and who's playing. Cais da Viscondessa 1200-109, Lisbon.
 
@@ -15,4 +15,4 @@ Backyard is a music venue in Lisbon listed on soundcheck. 2 upcoming nights, wit
 
 Cais da Viscondessa 1200-109, Lisbon, Lisbon
 
-*Updated Thu, 23 Jul 2026 · source: [soundcheck](https://soundcheck.club/lisbon/club/backyard/)*
+*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/lisbon/club/backyard/)*

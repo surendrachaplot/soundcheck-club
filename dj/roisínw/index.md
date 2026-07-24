@@ -1,6 +1,6 @@
 # Róisín W
 
-Róisín W is a Progressive House and House artist with 3 upcoming club dates listed on soundcheck as of Thu, 23 Jul 2026, next at Lost Cat / Found, Manchester on Fri, 7 Aug 2026.
+Róisín W is a Progressive House and House artist with 3 upcoming club dates listed on soundcheck as of Fri, 24 Jul 2026, next at Lost Cat / Found, Manchester on Fri, 7 Aug 2026.
 
 Róisín W is a progressive house and house artist based in Ireland, tracked on soundcheck, with 23 sets logged across Manchester. Often billed alongside WeeDot, Pangölin and The Brokers. Next up: Lost Cat / Found, Manchester on Fri 7 Aug.
 
@@ -27,4 +27,4 @@ Róisín W is a progressive house and house artist based in Ireland, tracked on 
 
 WeeDot, Pangölin, The Brokers
 
-*Updated Thu, 23 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/roisínw/)*
+*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/roisínw/)*

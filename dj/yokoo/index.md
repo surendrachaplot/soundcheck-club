@@ -1,6 +1,6 @@
 # YokoO
 
-YokoO is a Deep House and House artist with 2 upcoming club dates listed on soundcheck as of Thu, 23 Jul 2026, next at Elsewhere, New York City on Fri, 24 Jul 2026.
+YokoO is a Deep House and House artist with 2 upcoming club dates listed on soundcheck as of Fri, 24 Jul 2026, next at Elsewhere, New York City on Fri, 24 Jul 2026.
 
 YokoO is a deep house and house artist tracked on soundcheck, with 93 sets logged across Antwerp, Barcelona, Brussels and Buenosaires and 17 more. Often billed alongside Matthew Dekay, Kokeshi and Lee Burridge. Next up: Elsewhere, Newyorkcity on Fri 24 Jul.
 
@@ -26,4 +26,4 @@ YokoO is a deep house and house artist tracked on soundcheck, with 93 sets logge
 
 Matthew Dekay, Kokeshi, Lee Burridge
 
-*Updated Thu, 23 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/yokoo/)*
+*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/yokoo/)*

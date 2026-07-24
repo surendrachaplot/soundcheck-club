@@ -1,6 +1,6 @@
 # Prichindel
 
-Prichindel is a House and Minimal artist with 3 upcoming club dates listed on soundcheck as of Thu, 23 Jul 2026, next at Expirat Halele Carol, Bucharest on Sat, 25 Jul 2026.
+Prichindel is a House and Minimal artist with 3 upcoming club dates listed on soundcheck as of Fri, 24 Jul 2026, next at Expirat Halele Carol, Bucharest on Sat, 25 Jul 2026.
 
 Prichindel is a house and minimal artist tracked on soundcheck, with 62 sets logged across Barcelona, Berlin, Boston and Brussels and 14 more. Often billed alongside Dragos Ilici, Mark Dumitrescu and Cap. Next up: Expirat Halele Carol, Bucharest on Sat 25 Jul.
 
@@ -27,4 +27,4 @@ Prichindel is a house and minimal artist tracked on soundcheck, with 62 sets log
 
 Dragos Ilici, Mark Dumitrescu, Cap
 
-*Updated Thu, 23 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/prichindel/)*
+*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/prichindel/)*

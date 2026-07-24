@@ -1,6 +1,6 @@
 # Glenn Underground
 
-Glenn Underground is a House and Deep House artist with 2 upcoming club dates listed on soundcheck as of Thu, 23 Jul 2026, next at Podlasie Club, Chicago on Sat, 15 Aug 2026.
+Glenn Underground is a House and Deep House artist with 2 upcoming club dates listed on soundcheck as of Fri, 24 Jul 2026, next at Podlasie Club, Chicago on Sat, 15 Aug 2026.
 
 Glenn Underground is a house and deep house artist based in United States of America, tracked on soundcheck, with 77 sets logged across Amsterdam, Bristol, Chicago and Detroit and 5 more. Often billed alongside Aaron Dae, Disgonuts and JKriv. Next up: Podlasie Club, Chicago on Sat 15 Aug.
 
@@ -26,4 +26,4 @@ Glenn Underground is a house and deep house artist based in United States of Ame
 
 Aaron Dae, Disgonuts, JKriv
 
-*Updated Thu, 23 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/glennunderground/)*
+*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/glennunderground/)*

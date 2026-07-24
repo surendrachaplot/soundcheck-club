@@ -1,6 +1,6 @@
 # Audio Club
 
-Audio Club is a music venue in Geneva with 2 upcoming nights listed on soundcheck as of Thu, 23 Jul 2026; the next is "Guti [Live] · VINCE · JOYBOYZ" on Fri, 24 Jul 2026.
+Audio Club is a music venue in Geneva with 2 upcoming nights listed on soundcheck as of Fri, 24 Jul 2026; the next is "Guti [Live] · VINCE · JOYBOYZ" on Fri, 24 Jul 2026.
 
 Audio Club is a music venue in Geneva listed on soundcheck. 2 upcoming nights, with line-ups including Chloe Martinez, Guti, La Forêt and Michel Cleis. Browse upcoming dates, start times and who's playing. Boissonnas 20,  1227 Les Acacias - Genève.
 
@@ -15,4 +15,4 @@ Audio Club is a music venue in Geneva listed on soundcheck. 2 upcoming nights, w
 
 Boissonnas 20,  1227 Les Acacias - Genève, Geneva
 
-*Updated Thu, 23 Jul 2026 · source: [soundcheck](https://soundcheck.club/geneva/club/audio-club/)*
+*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/geneva/club/audio-club/)*

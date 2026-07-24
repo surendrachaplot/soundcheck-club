@@ -1,6 +1,6 @@
 # Lieberscholli
 
-Lieberscholli is a music venue in Munich with 10 upcoming nights listed on soundcheck as of Thu, 23 Jul 2026; the next is "RAGAZZI pres Kyle Starkey (OPEN AIR & INDOOR) curated by O/H/M (LAST 20 REGULAR TICKETS)" on Sat, 25 Jul 2026.
+Lieberscholli is a music venue in Munich with 10 upcoming nights listed on soundcheck as of Fri, 24 Jul 2026; the next is "RAGAZZI pres Kyle Starkey (OPEN AIR & INDOOR) curated by O/H/M (LAST 20 REGULAR TICKETS)" on Sat, 25 Jul 2026.
 
 Lieberscholli is a music venue in Munich listed on soundcheck. 10 upcoming nights, with line-ups including Alex Volta, Apolonia, Black Box and CDB (1) and 2 more. Browse upcoming dates, start times and who's playing. Landsberger Str. 212, 80687 München, Germany.
 
@@ -23,4 +23,4 @@ Lieberscholli is a music venue in Munich listed on soundcheck. 10 upcoming night
 
 Landsberger Str. 212, 80687 München, Germany, Munich
 
-*Updated Thu, 23 Jul 2026 · source: [soundcheck](https://soundcheck.club/munich/club/lieberscholli/)*
+*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/munich/club/lieberscholli/)*

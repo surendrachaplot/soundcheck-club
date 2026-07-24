@@ -1,6 +1,6 @@
 # Ondrej K
 
-Ondrej K is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Thu, 23 Jul 2026, next at Czech Boat, Prague on Sat, 1 Aug 2026.
+Ondrej K is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Fri, 24 Jul 2026, next at Czech Boat, Prague on Sat, 1 Aug 2026.
 
 Ondrej K is a house and techno artist based in Czech Republic, tracked on soundcheck, with 71 sets logged across Prague. Often billed alongside Identic, Hugorieri and DJ Lumiere. Next up: Czech Boat, Prague on Sat 1 Aug.
 
@@ -27,4 +27,4 @@ Ondrej K is a house and techno artist based in Czech Republic, tracked on soundc
 
 Identic, Hugorieri, DJ Lumiere
 
-*Updated Thu, 23 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/ondrejk/)*
+*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/ondrejk/)*

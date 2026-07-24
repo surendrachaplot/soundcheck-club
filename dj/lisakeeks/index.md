@@ -1,6 +1,6 @@
 # LISAKEEKS
 
-LISAKEEKS is a Hip-Hop and Ghetto Tech artist with 3 upcoming club dates listed on soundcheck as of Thu, 23 Jul 2026, next at Brixton Jamm, London on Fri, 31 Jul 2026.
+LISAKEEKS is a Hip-Hop and Ghetto Tech artist with 3 upcoming club dates listed on soundcheck as of Fri, 24 Jul 2026, next at Brixton Jamm, London on Fri, 31 Jul 2026.
 
 LISAKEEKS is a hip-hop and ghetto tech artist based in United Kingdom, tracked on soundcheck, with 23 sets logged across Glasgow and London. Often billed alongside BABY JACKZ, DotTV and TEBI TV. Next up: Brixton Jamm, London on Fri 31 Jul.
 
@@ -27,4 +27,4 @@ LISAKEEKS is a hip-hop and ghetto tech artist based in United Kingdom, tracked o
 
 BABY JACKZ, DotTV, TEBI TV
 
-*Updated Thu, 23 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/lisakeeks/)*
+*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/lisakeeks/)*

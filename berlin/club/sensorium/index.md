@@ -1,8 +1,8 @@
 # Sensorium
 
-Sensorium is a music venue in Berlin with 27 upcoming nights listed on soundcheck as of Thu, 23 Jul 2026; the next is "ETHER" on Fri, 24 Jul 2026.
+Sensorium is a music venue in Berlin with 28 upcoming nights listed on soundcheck as of Fri, 24 Jul 2026; the next is "ETHER" on Fri, 24 Jul 2026.
 
-Sensorium is a music venue in Berlin listed on soundcheck. 27 upcoming nights, with line-ups including Bee Lincoln, Blck-Swan, Connor (UK) and Darren Black and 2 more. Browse upcoming dates, start times and who's playing. warschauer platz 18, 10245 Berlin.
+Sensorium is a music venue in Berlin listed on soundcheck. 28 upcoming nights, with line-ups including Bee Lincoln, Blck-Swan, Connor (UK) and Darren Black and 2 more. Browse upcoming dates, start times and who's playing. warschauer platz 18, 10245 Berlin.
 
 ## What's on
 
@@ -23,4 +23,4 @@ Sensorium is a music venue in Berlin listed on soundcheck. 27 upcoming nights, w
 
 warschauer platz 18, 10245 Berlin, Berlin
 
-*Updated Thu, 23 Jul 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/sensorium/)*
+*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/sensorium/)*

@@ -1,6 +1,6 @@
 # La Fabrica
 
-La Fabrica is a music venue in Washington DC with 3 upcoming nights listed on soundcheck as of Thu, 23 Jul 2026; the next is "S1: EP 1" on Fri, 24 Jul 2026.
+La Fabrica is a music venue in Washington DC with 3 upcoming nights listed on soundcheck as of Fri, 24 Jul 2026; the next is "S1: EP 1" on Fri, 24 Jul 2026.
 
 La Fabrica is a music venue in Washingtondc listed on soundcheck. 3 upcoming nights, with line-ups including Eric Yaz, MAXIMILIANO (US), Micfreak and Ri Caragol and 2 more. Browse upcoming dates, start times and who's playing. 1124 Congress St NE, Washington DC 20002.
 
@@ -16,4 +16,4 @@ La Fabrica is a music venue in Washingtondc listed on soundcheck. 3 upcoming nig
 
 1124 Congress St NE, Washington DC 20002, Washington DC
 
-*Updated Thu, 23 Jul 2026 · source: [soundcheck](https://soundcheck.club/washingtondc/club/la-fabrica/)*
+*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/washingtondc/club/la-fabrica/)*

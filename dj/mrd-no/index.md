@@ -1,6 +1,6 @@
 # MRD (NO)
 
-MRD (NO) is a Techno and Trance artist with 2 upcoming club dates listed on soundcheck as of Thu, 23 Jul 2026, next at Smoke & Mirrors, Chicago on Fri, 31 Jul 2026.
+MRD (NO) is a Techno and Trance artist with 2 upcoming club dates listed on soundcheck as of Fri, 24 Jul 2026, next at Smoke & Mirrors, Chicago on Fri, 31 Jul 2026.
 
 MRD (NO) is a techno and trance artist tracked on soundcheck, with 118 sets logged across Amsterdam, Antwerp, Barcelona and Basel and 41 more. Often billed alongside MrD, MCR-T and DJ Gigola. Next up: Smoke & Mirrors, Chicago on Fri 31 Jul.
 
@@ -26,4 +26,4 @@ MRD (NO) is a techno and trance artist tracked on soundcheck, with 118 sets logg
 
 MrD, MCR-T, DJ Gigola
 
-*Updated Thu, 23 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/mrd-no/)*
+*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/mrd-no/)*

@@ -1,6 +1,6 @@
 # Boat - MS Rhein
 
-Boat - MS Rhein is a music venue in Berlin with 2 upcoming nights listed on soundcheck as of Thu, 23 Jul 2026; the next is "Moonstompers Boat Party" on Sun, 26 Jul 2026.
+Boat - MS Rhein is a music venue in Berlin with 2 upcoming nights listed on soundcheck as of Fri, 24 Jul 2026; the next is "Moonstompers Boat Party" on Sun, 26 Jul 2026.
 
 Boat - MS Rhein is a music venue in Berlin listed on soundcheck. 2 upcoming nights, with line-ups including DJ_FT, KRN, Poppy (BE) and Thoma' and 2 more. Browse upcoming dates, start times and who's playing. May Ayim Ufer, Berlin, Germany.
 
@@ -15,4 +15,4 @@ Boat - MS Rhein is a music venue in Berlin listed on soundcheck. 2 upcoming nigh
 
 May Ayim Ufer, Berlin, Germany, Berlin
 
-*Updated Thu, 23 Jul 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/boat-ms-rhein/)*
+*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/boat-ms-rhein/)*

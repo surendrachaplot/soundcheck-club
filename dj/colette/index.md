@@ -1,6 +1,6 @@
 # Colette
 
-Colette is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Thu, 23 Jul 2026, next at Miscellania, Melbourne on Sat, 25 Jul 2026.
+Colette is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Fri, 24 Jul 2026, next at Miscellania, Melbourne on Sat, 25 Jul 2026.
 
 Colette is a house and techno artist based in Australia, tracked on soundcheck, with 95 sets logged across Chicago, Losangeles, Marseille and Melbourne and 3 more. Often billed alongside Lewis Cancut, 3rd Orbit and DJ JNETT. Next up: Miscellania, Melbourne on Sat 25 Jul.
 
@@ -26,4 +26,4 @@ Colette is a house and techno artist based in Australia, tracked on soundcheck, 
 
 Lewis Cancut, 3rd Orbit, DJ JNETT
 
-*Updated Thu, 23 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/colette/)*
+*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/colette/)*

@@ -1,6 +1,6 @@
 # Péniche Loupika
 
-Péniche Loupika is a music venue in Lyon with 1 upcoming night listed on soundcheck as of Thu, 23 Jul 2026; the next is "PRISME #4 W/ notamment" on Sun, 2 Aug 2026.
+Péniche Loupika is a music venue in Lyon with 1 upcoming night listed on soundcheck as of Fri, 24 Jul 2026; the next is "PRISME #4 W/ notamment" on Sun, 2 Aug 2026.
 
 Péniche Loupika is a music venue in Lyon listed on soundcheck. 1 upcoming night, with line-ups including Klefman, Moreno (4), Rivda and Terminus TLMD and 2 more. Browse upcoming dates, start times and who's playing. 47 Quai Rambaud, 69002 Lyon, France.
 
@@ -14,4 +14,4 @@ Péniche Loupika is a music venue in Lyon listed on soundcheck. 1 upcoming night
 
 47 Quai Rambaud, 69002 Lyon, France, Lyon
 
-*Updated Thu, 23 Jul 2026 · source: [soundcheck](https://soundcheck.club/lyon/club/p-niche-loupika/)*
+*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/lyon/club/p-niche-loupika/)*

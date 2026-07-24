@@ -1,6 +1,6 @@
 # Just Shacoi
 
-Just Shacoi is a Ghetto Tech and House artist with 4 upcoming club dates listed on soundcheck as of Thu, 23 Jul 2026, next at TV Lounge, Detroit on Fri, 24 Jul 2026.
+Just Shacoi is a Ghetto Tech and House artist with 4 upcoming club dates listed on soundcheck as of Fri, 24 Jul 2026, next at TV Lounge, Detroit on Fri, 24 Jul 2026.
 
 Just Shacoi is a ghetto tech and house artist based in United States of America, tracked on soundcheck, with 28 sets logged across Denver, Detroit and Newyorkcity. Often billed alongside Disc Jockey George, we1sman and jamea.. Next up: TV Lounge, Detroit on Fri 24 Jul.
 
@@ -28,4 +28,4 @@ Just Shacoi is a ghetto tech and house artist based in United States of America,
 
 Disc Jockey George, we1sman, jamea.
 
-*Updated Thu, 23 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/justshacoi/)*
+*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/justshacoi/)*

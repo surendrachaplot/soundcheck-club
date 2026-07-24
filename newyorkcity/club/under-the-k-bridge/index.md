@@ -1,6 +1,6 @@
 # Under the K Bridge
 
-Under the K Bridge is a music venue in New York City with 7 upcoming nights listed on soundcheck as of Thu, 23 Jul 2026; the next is "Allstate Insurance AutoPay Setup — Enrollment Guide by Phone 2026" on Sat, 25 Jul 2026.
+Under the K Bridge is a music venue in New York City with 7 upcoming nights listed on soundcheck as of Fri, 24 Jul 2026; the next is "Allstate Insurance AutoPay Setup — Enrollment Guide by Phone 2026" on Sat, 25 Jul 2026.
 
 Under the K Bridge is a music venue in Newyorkcity listed on soundcheck. 7 upcoming nights, with line-ups including Alaska (2), ALT8, AMEX (UK) and APP and 2 more. Browse upcoming dates, start times and who's playing.
 
@@ -16,4 +16,4 @@ Under the K Bridge is a music venue in Newyorkcity listed on soundcheck. 7 upcom
 | Sat, 5 Sept 2026 | fabric New York: Jeff Mills, Ben UFO, Craig Richards, Helena Hauff, x3butterly, Shvili | Ben UFO, Craig Richards, Helena Hauff, Jeff Mills, Shvili, x3butterfly |
 | Fri, 25 Sept 2026 | The Prodigy | SEXTILE, The Prodigy |
 
-*Updated Thu, 23 Jul 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/under-the-k-bridge/)*
+*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/under-the-k-bridge/)*

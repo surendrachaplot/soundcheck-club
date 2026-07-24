@@ -1,6 +1,6 @@
 # Casa Capitão
 
-Casa Capitão is a music venue in Lisbon with 2 upcoming nights listed on soundcheck as of Thu, 23 Jul 2026; the next is "Embrasa - Invasão Carioca" on Sat, 25 Jul 2026.
+Casa Capitão is a music venue in Lisbon with 2 upcoming nights listed on soundcheck as of Fri, 24 Jul 2026; the next is "Embrasa - Invasão Carioca" on Sat, 25 Jul 2026.
 
 Casa Capitão is a music venue in Lisbon listed on soundcheck. 2 upcoming nights, with line-ups including Cigarra, GAVI, Marcolan and Sinnotsin and 1 more. Browse upcoming dates, start times and who's playing. RUA DO GRILO, 119. 1950-144 LISBOA, PORTUGAL.
 
@@ -15,4 +15,4 @@ Casa Capitão is a music venue in Lisbon listed on soundcheck. 2 upcoming nights
 
 RUA DO GRILO, 119. 1950-144 LISBOA, PORTUGAL, Lisbon
 
-*Updated Thu, 23 Jul 2026 · source: [soundcheck](https://soundcheck.club/lisbon/club/casa-capit-o/)*
+*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/lisbon/club/casa-capit-o/)*

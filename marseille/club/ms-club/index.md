@@ -1,6 +1,6 @@
 # MS Club
 
-MS Club is a music venue in Marseille with 1 upcoming night listed on soundcheck as of Thu, 23 Jul 2026; the next is "Durite X JNS Audio" on Sat, 1 Aug 2026.
+MS Club is a music venue in Marseille with 1 upcoming night listed on soundcheck as of Fri, 24 Jul 2026; the next is "Durite X JNS Audio" on Sat, 1 Aug 2026.
 
 MS Club is a music venue in Marseille listed on soundcheck. 1 upcoming night. Browse upcoming dates, start times and who's playing. 9 Bd Gay Lussac, 13014 Marseille.
 
@@ -14,4 +14,4 @@ MS Club is a music venue in Marseille listed on soundcheck. 1 upcoming night. Br
 
 9 Bd Gay Lussac, 13014 Marseille, Marseille
 
-*Updated Thu, 23 Jul 2026 · source: [soundcheck](https://soundcheck.club/marseille/club/ms-club/)*
+*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/marseille/club/ms-club/)*

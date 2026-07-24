@@ -1,6 +1,6 @@
 # Skin Club
 
-Skin Club is a music venue in Madrid with 10 upcoming nights listed on soundcheck as of Thu, 23 Jul 2026; the next is "SKIN ALPHA SUMMER" on Fri, 24 Jul 2026.
+Skin Club is a music venue in Madrid with 10 upcoming nights listed on soundcheck as of Fri, 24 Jul 2026; the next is "SKIN ALPHA SUMMER" on Fri, 24 Jul 2026.
 
 Skin Club is a music venue in Madrid listed on soundcheck. 10 upcoming nights, with line-ups including Djen, DJ TURBO, Dyans and Lejía and 2 more. Browse upcoming dates, start times and who's playing. C. de la Aduana, 21Centro, 28013 Madrid, Spain.
 
@@ -23,4 +23,4 @@ Skin Club is a music venue in Madrid listed on soundcheck. 10 upcoming nights, w
 
 C. de la Aduana, 21Centro, 28013 Madrid, Spain, Madrid
 
-*Updated Thu, 23 Jul 2026 · source: [soundcheck](https://soundcheck.club/madrid/club/skin-club/)*
+*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/madrid/club/skin-club/)*

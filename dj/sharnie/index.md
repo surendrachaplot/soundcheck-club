@@ -1,6 +1,6 @@
 # Sharnie
 
-Sharnie is a Garage and Dubstep artist with 2 upcoming club dates listed on soundcheck as of Thu, 23 Jul 2026, next at The Old Church, London on Fri, 31 Jul 2026.
+Sharnie is a Garage and Dubstep artist with 2 upcoming club dates listed on soundcheck as of Fri, 24 Jul 2026, next at The Old Church, London on Fri, 31 Jul 2026.
 
 Sharnie is a garage and dubstep artist tracked on soundcheck, with 53 sets logged across Birmingham, Bristol, Edinburgh and London and 4 more. Often billed alongside Axle, Beatrice M. and Bluetoof. Next up: The Old Church, London on Fri 31 Jul.
 
@@ -26,4 +26,4 @@ Sharnie is a garage and dubstep artist tracked on soundcheck, with 53 sets logge
 
 Axle, Beatrice M., Bluetoof
 
-*Updated Thu, 23 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/sharnie/)*
+*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/sharnie/)*

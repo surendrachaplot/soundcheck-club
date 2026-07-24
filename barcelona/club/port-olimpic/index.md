@@ -1,6 +1,6 @@
 # Port Olimpic
 
-Port Olimpic is a music venue in Barcelona with 2 upcoming nights listed on soundcheck as of Thu, 23 Jul 2026; the next is "BEAT SESSIONS VOL I" on Fri, 11 Sept 2026.
+Port Olimpic is a music venue in Barcelona with 2 upcoming nights listed on soundcheck as of Fri, 24 Jul 2026; the next is "BEAT SESSIONS VOL I" on Fri, 11 Sept 2026.
 
 Port Olimpic is a music venue in Barcelona listed on soundcheck. 2 upcoming nights. Browse upcoming dates, start times and who's playing. Escullera de Poblenou, 1, 08005 Barcelona, España.
 
@@ -15,4 +15,4 @@ Port Olimpic is a music venue in Barcelona listed on soundcheck. 2 upcoming nigh
 
 Escullera de Poblenou, 1, 08005 Barcelona, España, Barcelona
 
-*Updated Thu, 23 Jul 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/port-olimpic/)*
+*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/port-olimpic/)*

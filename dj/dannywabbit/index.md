@@ -1,6 +1,6 @@
 # Danny Wabbit
 
-Danny Wabbit is a Techno and Trance artist with 2 upcoming club dates listed on soundcheck as of Thu, 23 Jul 2026, next at Studio Club Malaga, Malaga on Fri, 24 Jul 2026.
+Danny Wabbit is a Techno and Trance artist with 2 upcoming club dates listed on soundcheck as of Fri, 24 Jul 2026, next at Studio Club Malaga, Malaga on Fri, 24 Jul 2026.
 
 Danny Wabbit is a techno and trance artist tracked on soundcheck, with 55 sets logged across Amsterdam, Belgrade, Berlin and Brussels and 17 more. Often billed alongside The Chronics, Bours? and Lacchesi. Next up: Studio Club Malaga, Malaga on Fri 24 Jul.
 
@@ -26,4 +26,4 @@ Danny Wabbit is a techno and trance artist tracked on soundcheck, with 55 sets l
 
 The Chronics, Bours?, Lacchesi
 
-*Updated Thu, 23 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/dannywabbit/)*
+*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/dannywabbit/)*

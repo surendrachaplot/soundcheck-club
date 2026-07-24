@@ -1,6 +1,6 @@
 # DJ Cringey
 
-DJ Cringey is a Techno and House artist with 6 upcoming club dates listed on soundcheck as of Thu, 23 Jul 2026, next at BASIS, Utrecht on Sat, 25 Jul 2026.
+DJ Cringey is a Techno and House artist with 6 upcoming club dates listed on soundcheck as of Fri, 24 Jul 2026, next at BASIS, Utrecht on Sat, 25 Jul 2026.
 
 DJ Cringey is a techno and house artist tracked on soundcheck, with 92 sets logged across Amsterdam, Antwerp, Basel and Belfast and 21 more. Often billed alongside TOXIMAMI, DJ Hyperdrive and ANTHRAZIT. Next up: BASIS, Utrecht on Sat 25 Jul.
 
@@ -30,4 +30,4 @@ DJ Cringey is a techno and house artist tracked on soundcheck, with 92 sets logg
 
 TOXIMAMI, DJ Hyperdrive, ANTHRAZIT
 
-*Updated Thu, 23 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/djcringey/)*
+*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/djcringey/)*

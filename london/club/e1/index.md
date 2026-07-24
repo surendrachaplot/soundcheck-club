@@ -1,6 +1,6 @@
 # E1
 
-E1 is a music venue in London with 34 upcoming nights listed on soundcheck as of Thu, 23 Jul 2026; the next is "Cultura & Friend's" on Fri, 24 Jul 2026.
+E1 is a music venue in London with 34 upcoming nights listed on soundcheck as of Fri, 24 Jul 2026; the next is "Cultura & Friend's" on Fri, 24 Jul 2026.
 
 E1 is a music venue in London listed on soundcheck. 34 upcoming nights, with line-ups including ACA (YU), Ade Smilez, Afem Syko and Aida Arko and 2 more. Browse upcoming dates, start times and who's playing. 110 Pennington Street, Wapping, London E1W 2BB.
 
@@ -23,4 +23,4 @@ E1 is a music venue in London listed on soundcheck. 34 upcoming nights, with lin
 
 110 Pennington Street, Wapping, London E1W 2BB, London
 
-*Updated Thu, 23 Jul 2026 · source: [soundcheck](https://soundcheck.club/london/club/e1/)*
+*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/london/club/e1/)*

@@ -1,6 +1,6 @@
 # Kampire
 
-Kampire is a Bass and House artist with 3 upcoming club dates listed on soundcheck as of Thu, 23 Jul 2026, next at Gaswerksiedlung, Berlin on Sun, 26 Jul 2026.
+Kampire is a Bass and House artist with 3 upcoming club dates listed on soundcheck as of Fri, 24 Jul 2026, next at Gaswerksiedlung, Berlin on Sun, 26 Jul 2026.
 
 Kampire is a bass and house artist tracked on soundcheck, with 44 sets logged across Amsterdam, Barcelona, Berlin and Brussels and 15 more. Often billed alongside Blasha & Allatt, DJ Travella and De Schuurman. Next up: Gaswerksiedlung, Berlin on Sun 26 Jul.
 
@@ -27,4 +27,4 @@ Kampire is a bass and house artist tracked on soundcheck, with 44 sets logged ac
 
 Blasha & Allatt, DJ Travella, De Schuurman
 
-*Updated Thu, 23 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/kampire/)*
+*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/kampire/)*

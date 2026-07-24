@@ -1,6 +1,6 @@
 # Cabaret Voltaire
 
-Cabaret Voltaire is a music venue in Edinburgh with 16 upcoming nights listed on soundcheck as of Thu, 23 Jul 2026; the next is "AVIATE vol.4" on Fri, 24 Jul 2026.
+Cabaret Voltaire is a music venue in Edinburgh with 16 upcoming nights listed on soundcheck as of Fri, 24 Jul 2026; the next is "AVIATE vol.4" on Fri, 24 Jul 2026.
 
 Cabaret Voltaire is a music venue in Edinburgh listed on soundcheck. 16 upcoming nights, with line-ups including Benwal, Crazy P, Dean Turnley and DJ Bz and 2 more. Browse upcoming dates, start times and who's playing. 36-38 Blair St; Edinburgh, EH1 1QR; Scotland; United Kingdom.
 
@@ -23,4 +23,4 @@ Cabaret Voltaire is a music venue in Edinburgh listed on soundcheck. 16 upcoming
 
 36-38 Blair St; Edinburgh, EH1 1QR; Scotland; United Kingdom, Edinburgh
 
-*Updated Thu, 23 Jul 2026 · source: [soundcheck](https://soundcheck.club/edinburgh/club/cabaret-voltaire/)*
+*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/edinburgh/club/cabaret-voltaire/)*

@@ -1,6 +1,6 @@
 # Sam Goku
 
-Sam Goku is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Thu, 23 Jul 2026, next at Riviera Records Store, Munich on Fri, 24 Jul 2026.
+Sam Goku is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Fri, 24 Jul 2026, next at Riviera Records Store, Munich on Fri, 24 Jul 2026.
 
 Sam Goku is a techno and house artist tracked on soundcheck, with 63 sets logged across Amsterdam, Berlin, Brussels and Budapest and 12 more. Often billed alongside Glaskin, Lauer and Rosa Red. Next up: Riviera Records Store, Munich on Fri 24 Jul.
 
@@ -27,4 +27,4 @@ Sam Goku is a techno and house artist tracked on soundcheck, with 63 sets logged
 
 Glaskin, Lauer, Rosa Red
 
-*Updated Thu, 23 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/samgoku/)*
+*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/samgoku/)*

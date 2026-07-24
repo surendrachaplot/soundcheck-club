@@ -1,6 +1,6 @@
 # Lennon's Club
 
-Lennon's Club is a music venue in Barcelona with 1 upcoming night listed on soundcheck as of Thu, 23 Jul 2026; the next is "From Guitars to Electronic and Techno Music" on Sat, 25 Jul 2026.
+Lennon's Club is a music venue in Barcelona with 1 upcoming night listed on soundcheck as of Fri, 24 Jul 2026; the next is "From Guitars to Electronic and Techno Music" on Sat, 25 Jul 2026.
 
 Lennon's Club is a music venue in Barcelona listed on soundcheck. 1 upcoming night, with line-ups including Dispël. Browse upcoming dates, start times and who's playing. Av. Fabregada, 91, 08901 L'Hospitalet de Llobregat, Barcelona.
 
@@ -14,4 +14,4 @@ Lennon's Club is a music venue in Barcelona listed on soundcheck. 1 upcoming nig
 
 Av. Fabregada, 91, 08901 L'Hospitalet de Llobregat, Barcelona, Barcelona
 
-*Updated Thu, 23 Jul 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/lennon-s-club/)*
+*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/lennon-s-club/)*

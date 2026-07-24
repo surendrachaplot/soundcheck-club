@@ -1,6 +1,6 @@
 # Mia Mao
 
-Mia Mao is a music venue in Paris with 13 upcoming nights listed on soundcheck as of Thu, 23 Jul 2026; the next is "THUNDER: Luca Agnelli, PARACEK, EPHESIS, JOVYNN & MORE" on Fri, 24 Jul 2026.
+Mia Mao is a music venue in Paris with 13 upcoming nights listed on soundcheck as of Fri, 24 Jul 2026; the next is "THUNDER: Luca Agnelli, PARACEK, EPHESIS, JOVYNN & MORE" on Fri, 24 Jul 2026.
 
 Mia Mao is a music venue in Paris listed on soundcheck. 13 upcoming nights, with line-ups including Adam Beyer, Amine S, BabaBass3000 and Blaame and 2 more. Browse upcoming dates, start times and who's playing. 12a rue Ella Fitzgerald, 75019, Paris, FRANCE.
 
@@ -23,4 +23,4 @@ Mia Mao is a music venue in Paris listed on soundcheck. 13 upcoming nights, with
 
 12a rue Ella Fitzgerald, 75019, Paris, FRANCE, Paris
 
-*Updated Thu, 23 Jul 2026 · source: [soundcheck](https://soundcheck.club/paris/club/mia-mao/)*
+*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/paris/club/mia-mao/)*

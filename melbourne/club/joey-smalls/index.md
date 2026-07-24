@@ -1,6 +1,6 @@
 # Joey Smalls
 
-Joey Smalls is a music venue in Melbourne with 3 upcoming nights listed on soundcheck as of Thu, 23 Jul 2026; the next is "Deep Remedy Label Takeover (Aug 7)" on Fri, 7 Aug 2026.
+Joey Smalls is a music venue in Melbourne with 3 upcoming nights listed on soundcheck as of Fri, 24 Jul 2026; the next is "Deep Remedy Label Takeover (Aug 7)" on Fri, 7 Aug 2026.
 
 Joey Smalls is a music venue in Melbourne listed on soundcheck. 3 upcoming nights, with line-ups including Dean Millson, Gab Oliver, Julius Myles and Lenny Lens. Browse upcoming dates, start times and who's playing. 284 Sydney Rd, Brunswick VIC 3056.
 
@@ -16,4 +16,4 @@ Joey Smalls is a music venue in Melbourne listed on soundcheck. 3 upcoming night
 
 284 Sydney Rd, Brunswick VIC 3056, Melbourne
 
-*Updated Thu, 23 Jul 2026 · source: [soundcheck](https://soundcheck.club/melbourne/club/joey-smalls/)*
+*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/melbourne/club/joey-smalls/)*

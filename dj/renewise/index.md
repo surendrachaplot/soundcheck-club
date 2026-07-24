@@ -1,6 +1,6 @@
 # Rene Wise
 
-Rene Wise is a Techno and House artist with 13 upcoming club dates listed on soundcheck as of Thu, 23 Jul 2026, next at TBA - @ Zefīrs by day, @ SPĒLĒT by night, Riga on Fri, 24 Jul 2026.
+Rene Wise is a Techno and House artist with 13 upcoming club dates listed on soundcheck as of Fri, 24 Jul 2026, next at TBA - @ Zefīrs by day, @ SPĒLĒT by night, Riga on Fri, 24 Jul 2026.
 
 Rene Wise is a techno and house artist tracked on soundcheck, with 233 sets logged across Amsterdam, Athens, Austin and Barcelona and 67 more. Often billed alongside Blasha & Allatt, MARRØN and Ogazón. Next up: TBA - @ Zefīrs by day, @ SPĒLĒT by night, Riga on Fri 24 Jul.
 
@@ -36,4 +36,4 @@ Rene Wise is a techno and house artist tracked on soundcheck, with 233 sets logg
 
 Blasha & Allatt, MARRØN, Ogazón
 
-*Updated Thu, 23 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/renewise/)*
+*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/renewise/)*

@@ -1,6 +1,6 @@
 # Bisk
 
-Bisk is a Techno and Tech House artist with 5 upcoming club dates listed on soundcheck as of Thu, 23 Jul 2026, next at M-BIA, Berlin on Fri, 24 Jul 2026.
+Bisk is a Techno and Tech House artist with 5 upcoming club dates listed on soundcheck as of Fri, 24 Jul 2026, next at M-BIA, Berlin on Fri, 24 Jul 2026.
 
 Bisk is a techno and tech house artist tracked on soundcheck, with 115 sets logged across Berlin, Newyorkcity and Tokyo. Often billed alongside DAV3, Morris Fitch and ED2000. Next up: M-BIA, Berlin on Fri 24 Jul.
 
@@ -29,4 +29,4 @@ Bisk is a techno and tech house artist tracked on soundcheck, with 115 sets logg
 
 DAV3, Morris Fitch, ED2000
 
-*Updated Thu, 23 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/bisk/)*
+*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/bisk/)*

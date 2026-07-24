@@ -1,6 +1,6 @@
 # Freight Island
 
-Freight Island is a music venue in Manchester with 3 upcoming nights listed on soundcheck as of Thu, 23 Jul 2026; the next is "Spring Summer Series: Sam Don" on Sun, 26 Jul 2026.
+Freight Island is a music venue in Manchester with 3 upcoming nights listed on soundcheck as of Fri, 24 Jul 2026; the next is "Spring Summer Series: Sam Don" on Sun, 26 Jul 2026.
 
 Freight Island is a music venue in Manchester listed on soundcheck. 3 upcoming nights, with line-ups including Alix Perez, DAIZ, Paige Julia and Rich Reason and 1 more. Browse upcoming dates, start times and who's playing. 11 Baring St, Manchester M1 2PZ.
 
@@ -16,4 +16,4 @@ Freight Island is a music venue in Manchester listed on soundcheck. 3 upcoming n
 
 11 Baring St, Manchester M1 2PZ, Manchester
 
-*Updated Thu, 23 Jul 2026 · source: [soundcheck](https://soundcheck.club/manchester/club/freight-island/)*
+*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/manchester/club/freight-island/)*

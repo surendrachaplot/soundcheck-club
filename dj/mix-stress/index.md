@@ -1,6 +1,6 @@
 # Mix-Stress
 
-Mix-Stress is a House and Disco artist with 2 upcoming club dates listed on soundcheck as of Thu, 23 Jul 2026, next at Lost Cat / Found, Manchester on Fri, 7 Aug 2026.
+Mix-Stress is a House and Disco artist with 2 upcoming club dates listed on soundcheck as of Fri, 24 Jul 2026, next at Lost Cat / Found, Manchester on Fri, 7 Aug 2026.
 
 Mix-Stress is a house and disco artist based in United Kingdom, tracked on soundcheck, with 46 sets logged across Ibiza, Leeds, Liverpool and London and 1 more. Often billed alongside Gina Breeze, Krysko and Armand Van Helden. Next up: Lost Cat / Found, Manchester on Fri 7 Aug.
 
@@ -26,4 +26,4 @@ Mix-Stress is a house and disco artist based in United Kingdom, tracked on sound
 
 Gina Breeze, Krysko, Armand Van Helden
 
-*Updated Thu, 23 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/mix-stress/)*
+*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/mix-stress/)*

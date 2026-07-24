@@ -1,6 +1,6 @@
 # NATALIA.
 
-NATALIA. is a Club and House artist with 3 upcoming club dates listed on soundcheck as of Thu, 23 Jul 2026, next at Institut fuer Zukunft (IfZ), Leipzig on Sat, 25 Jul 2026.
+NATALIA. is a Club and House artist with 3 upcoming club dates listed on soundcheck as of Fri, 24 Jul 2026, next at Institut fuer Zukunft (IfZ), Leipzig on Sat, 25 Jul 2026.
 
 NATALIA. is a club and house artist based in United States of America, tracked on soundcheck, with 39 sets logged across Dublin, Frankfurt, Leipzig and Newyorkcity and 2 more. Often billed alongside Syd (US), KOOB and Izzy Holmes. Next up: Institut fuer Zukunft (IfZ), Leipzig on Sat 25 Jul.
 
@@ -27,4 +27,4 @@ NATALIA. is a club and house artist based in United States of America, tracked o
 
 Syd (US), KOOB, Izzy Holmes
 
-*Updated Thu, 23 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/natalia./)*
+*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/natalia./)*

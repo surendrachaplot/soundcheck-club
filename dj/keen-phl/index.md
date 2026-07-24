@@ -1,6 +1,6 @@
 # Keen
 
-Keen is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Thu, 23 Jul 2026, next at Refuge, New York City on Sat, 25 Jul 2026.
+Keen is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Fri, 24 Jul 2026, next at Refuge, New York City on Sat, 25 Jul 2026.
 
 Keen is a house and techno artist tracked on soundcheck, with 66 sets logged across Austin, Boston, Dublin and Lisbon and 7 more. Often billed alongside John Raffaele, Rob Paine and Sweater. Next up: Refuge, Newyorkcity on Sat 25 Jul.
 
@@ -27,4 +27,4 @@ Keen is a house and techno artist tracked on soundcheck, with 66 sets logged acr
 
 John Raffaele, Rob Paine, Sweater
 
-*Updated Thu, 23 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/keen-phl/)*
+*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/keen-phl/)*

@@ -1,6 +1,6 @@
 # Suze Ijó
 
-Suze Ijó is a House and Techno artist with 5 upcoming club dates listed on soundcheck as of Thu, 23 Jul 2026, next at Amsterdamse Bos, Amsterdam on Wed, 29 Jul 2026.
+Suze Ijó is a House and Techno artist with 5 upcoming club dates listed on soundcheck as of Fri, 24 Jul 2026, next at Amsterdamse Bos, Amsterdam on Wed, 29 Jul 2026.
 
 Suze Ijó is a house and techno artist tracked on soundcheck, with 199 sets logged across Amsterdam, Antwerp, Auckland and Bali and 46 more. Often billed alongside Gabrielle Kwarteng, Fafi Abdel Nour and CARISTA. Next up: Amsterdamse Bos, Amsterdam on Wed 29 Jul.
 
@@ -29,4 +29,4 @@ Suze Ijó is a house and techno artist tracked on soundcheck, with 199 sets logg
 
 Gabrielle Kwarteng, Fafi Abdel Nour, CARISTA
 
-*Updated Thu, 23 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/suzeijo/)*
+*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/suzeijo/)*

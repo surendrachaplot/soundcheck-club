@@ -1,6 +1,6 @@
 # Ex Macello
 
-Ex Macello is a music venue in Milan with 3 upcoming nights listed on soundcheck as of Thu, 23 Jul 2026; the next is "Vision open air w Charlotte de Witte" on Sat, 5 Sept 2026.
+Ex Macello is a music venue in Milan with 3 upcoming nights listed on soundcheck as of Fri, 24 Jul 2026; the next is "Vision open air w Charlotte de Witte" on Sat, 5 Sept 2026.
 
 Ex Macello is a music venue in Milan listed on soundcheck. 3 upcoming nights, with line-ups including Charlotte de Witte, Michael Bibi and Solomun. Browse upcoming dates, start times and who's playing. Viale Molise, 62, 20137 Milano MI.
 
@@ -16,4 +16,4 @@ Ex Macello is a music venue in Milan listed on soundcheck. 3 upcoming nights, wi
 
 Viale Molise, 62, 20137 Milano MI, Milan
 
-*Updated Thu, 23 Jul 2026 · source: [soundcheck](https://soundcheck.club/milan/club/ex-macello/)*
+*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/milan/club/ex-macello/)*

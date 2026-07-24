@@ -1,6 +1,6 @@
 # La Cité Fertile
 
-La Cité Fertile is a music venue in Paris with 4 upcoming nights listed on soundcheck as of Thu, 23 Jul 2026; the next is "El Hey with Poggio, Venard, El Hey (Antoine LV, NOCH, Elhadji)" on Sat, 25 Jul 2026.
+La Cité Fertile is a music venue in Paris with 4 upcoming nights listed on soundcheck as of Fri, 24 Jul 2026; the next is "El Hey with Poggio, Venard, El Hey (Antoine LV, NOCH, Elhadji)" on Sat, 25 Jul 2026.
 
 La Cité Fertile is a music venue in Paris listed on soundcheck. 4 upcoming nights, with line-ups including Abn - P2z, Cosmo (KR), Deep Tears On Clamart and Dylan Dylan and 2 more. Browse upcoming dates, start times and who's playing. 14 avenue Edouard Vaillant, 93500 Pantin.
 
@@ -17,4 +17,4 @@ La Cité Fertile is a music venue in Paris listed on soundcheck. 4 upcoming nigh
 
 14 avenue Edouard Vaillant, 93500 Pantin, Paris
 
-*Updated Thu, 23 Jul 2026 · source: [soundcheck](https://soundcheck.club/paris/club/la-cit-fertile/)*
+*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/paris/club/la-cit-fertile/)*

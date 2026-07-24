@@ -1,6 +1,6 @@
 # Shinjuku Duusraa
 
-Shinjuku Duusraa is a music venue in Tokyo with 2 upcoming nights listed on soundcheck as of Thu, 23 Jul 2026; the next is "TURBO CHARGE - 160+BPM PARTY in SHINJUKU - DnB, JUNGLE, FOOTWORK & MORE" on Sun, 26 Jul 2026.
+Shinjuku Duusraa is a music venue in Tokyo with 2 upcoming nights listed on soundcheck as of Fri, 24 Jul 2026; the next is "TURBO CHARGE - 160+BPM PARTY in SHINJUKU - DnB, JUNGLE, FOOTWORK & MORE" on Sun, 26 Jul 2026.
 
 Shinjuku Duusraa is a music venue in Tokyo listed on soundcheck. 2 upcoming nights, with line-ups including Dx, HALU(Tribal Connection), Leiiila and MileZ and 1 more. Browse upcoming dates, start times and who's playing. 3-35-1 Shinjuku, Shinjuku-ku, Tokyo, 160-0022 Japan.
 
@@ -15,4 +15,4 @@ Shinjuku Duusraa is a music venue in Tokyo listed on soundcheck. 2 upcoming nigh
 
 3-35-1 Shinjuku, Shinjuku-ku, Tokyo, 160-0022 Japan, Tokyo
 
-*Updated Thu, 23 Jul 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/shinjuku-duusraa/)*
+*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/shinjuku-duusraa/)*

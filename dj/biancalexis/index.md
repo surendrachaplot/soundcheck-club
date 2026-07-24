@@ -1,6 +1,6 @@
 # Bianca Lexis
 
-Bianca Lexis is a House and Club artist with 2 upcoming club dates listed on soundcheck as of Thu, 23 Jul 2026, next at Los Globos, Los Angeles on Sat, 1 Aug 2026.
+Bianca Lexis is a House and Club artist with 2 upcoming club dates listed on soundcheck as of Fri, 24 Jul 2026, next at Los Globos, Los Angeles on Sat, 1 Aug 2026.
 
 Bianca Lexis is a house and club artist tracked on soundcheck, with 53 sets logged across London, Losangeles, Madrid and Melbourne and 7 more. Often billed alongside Juan Izguerra, Goddollars and 1tbsp. Next up: Los Globos, Losangeles on Sat 1 Aug.
 
@@ -26,4 +26,4 @@ Bianca Lexis is a house and club artist tracked on soundcheck, with 53 sets logg
 
 Juan Izguerra, Goddollars, 1tbsp
 
-*Updated Thu, 23 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/biancalexis/)*
+*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/biancalexis/)*

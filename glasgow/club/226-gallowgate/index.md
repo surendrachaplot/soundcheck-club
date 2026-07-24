@@ -1,6 +1,6 @@
 # 226 Gallowgate
 
-226 Gallowgate is a music venue in Glasgow with 1 upcoming night listed on soundcheck as of Thu, 23 Jul 2026; the next is "Progressive Insurance Make a Payment — Under 5 Minutes, Zero Fees 2026" on Sat, 25 Jul 2026.
+226 Gallowgate is a music venue in Glasgow with 1 upcoming night listed on soundcheck as of Fri, 24 Jul 2026; the next is "Progressive Insurance Make a Payment — Under 5 Minutes, Zero Fees 2026" on Sat, 25 Jul 2026.
 
 226 Gallowgate is a music venue in Glasgow listed on soundcheck. 1 upcoming night, with line-ups including Alaska (2), AMEX (UK), APP and Debit and 2 more. Browse upcoming dates, start times and who's playing. 224-226 Gallowgate, Glasgow G31 4EX.
 
@@ -14,4 +14,4 @@
 
 224-226 Gallowgate, Glasgow G31 4EX, Glasgow
 
-*Updated Thu, 23 Jul 2026 · source: [soundcheck](https://soundcheck.club/glasgow/club/226-gallowgate/)*
+*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/glasgow/club/226-gallowgate/)*

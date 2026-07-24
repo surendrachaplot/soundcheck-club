@@ -1,6 +1,6 @@
 # Atomyard
 
-Atomyard is a House and Deep House artist with 2 upcoming club dates listed on soundcheck as of Thu, 23 Jul 2026, next at Mad Radio Miami, Miami on Fri, 24 Jul 2026.
+Atomyard is a House and Deep House artist with 2 upcoming club dates listed on soundcheck as of Fri, 24 Jul 2026, next at Mad Radio Miami, Miami on Fri, 24 Jul 2026.
 
 Atomyard is a house and deep house artist based in United States of America, tracked on soundcheck, with 44 sets logged across Miami. Often billed alongside Kike Roldan, Soto Music and Penny Lane. Next up: Mad Radio Miami, Miami on Fri 24 Jul.
 
@@ -26,4 +26,4 @@ Atomyard is a house and deep house artist based in United States of America, tra
 
 Kike Roldan, Soto Music, Penny Lane
 
-*Updated Thu, 23 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/atomyard/)*
+*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/atomyard/)*

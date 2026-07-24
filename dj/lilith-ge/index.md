@@ -1,6 +1,6 @@
 # Lilith.
 
-Lilith. is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Thu, 23 Jul 2026, next at KHIDI, Tbilisi on Sat, 25 Jul 2026.
+Lilith. is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Fri, 24 Jul 2026, next at KHIDI, Tbilisi on Sat, 25 Jul 2026.
 
 Lilith. is a techno and house artist tracked on soundcheck, with 50 sets logged across Berlin, Hamburg and Tbilisi. Often billed alongside Objector Trax, Generali Minerali and OTHR. Next up: KHIDI, Tbilisi on Sat 25 Jul.
 
@@ -26,4 +26,4 @@ Lilith. is a techno and house artist tracked on soundcheck, with 50 sets logged 
 
 Objector Trax, Generali Minerali, OTHR
 
-*Updated Thu, 23 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/lilith-ge/)*
+*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/lilith-ge/)*

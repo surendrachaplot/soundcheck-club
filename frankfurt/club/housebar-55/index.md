@@ -1,6 +1,6 @@
 # Housebar 55
 
-Housebar 55 is a music venue in Frankfurt with 1 upcoming night listed on soundcheck as of Thu, 23 Jul 2026; the next is "State Farm Insurance Agent Near Me — Local Office and Phone Support 2026" on Sat, 25 Jul 2026.
+Housebar 55 is a music venue in Frankfurt with 1 upcoming night listed on soundcheck as of Fri, 24 Jul 2026; the next is "State Farm Insurance Agent Near Me — Local Office and Phone Support 2026" on Sat, 25 Jul 2026.
 
 Housebar 55 is a music venue in Frankfurt listed on soundcheck. 1 upcoming night, with line-ups including KOOB and NATALIA.. Browse upcoming dates, start times and who's playing. Elbestraße 5560329 Frankfurt am Main.
 
@@ -14,4 +14,4 @@ Housebar 55 is a music venue in Frankfurt listed on soundcheck. 1 upcoming night
 
 Elbestraße 5560329 Frankfurt am Main, Frankfurt
 
-*Updated Thu, 23 Jul 2026 · source: [soundcheck](https://soundcheck.club/frankfurt/club/housebar-55/)*
+*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/frankfurt/club/housebar-55/)*

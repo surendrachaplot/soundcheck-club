@@ -1,6 +1,6 @@
 # Oscide
 
-Oscide is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Thu, 23 Jul 2026, next at Flux Studios D2, Dublin on Sat, 25 Jul 2026.
+Oscide is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Fri, 24 Jul 2026, next at Flux Studios D2, Dublin on Sat, 25 Jul 2026.
 
 Oscide is a house and techno artist based in Ireland, tracked on soundcheck, with 13 sets logged across Dublin. Often billed alongside JUSTDYL, Dicko and Fran Ortu. Next up: Flux Studios D2, Dublin on Sat 25 Jul.
 
@@ -27,4 +27,4 @@ Oscide is a house and techno artist based in Ireland, tracked on soundcheck, wit
 
 JUSTDYL, Dicko, Fran Ortu
 
-*Updated Thu, 23 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/oscide/)*
+*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/oscide/)*

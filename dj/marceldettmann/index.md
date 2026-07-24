@@ -1,6 +1,6 @@
 # Marcel Dettmann
 
-Marcel Dettmann is a Techno and House artist with 10 upcoming club dates listed on soundcheck as of Thu, 23 Jul 2026, next at Boston Manor Park, London on Sat, 25 Jul 2026.
+Marcel Dettmann is a Techno and House artist with 10 upcoming club dates listed on soundcheck as of Fri, 24 Jul 2026, next at Boston Manor Park, London on Sat, 25 Jul 2026.
 
 Marcel Dettmann is a techno and house artist tracked on soundcheck, with 247 sets logged across Amsterdam, Antwerp, Athens and Austin and 61 more. Often billed alongside Ben Klock, Ogazón and BASHKKA. Next up: Boston Manor Park, London on Sat 25 Jul.
 
@@ -34,4 +34,4 @@ Marcel Dettmann is a techno and house artist tracked on soundcheck, with 247 set
 
 Ben Klock, Ogazón, BASHKKA
 
-*Updated Thu, 23 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/marceldettmann/)*
+*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/marceldettmann/)*

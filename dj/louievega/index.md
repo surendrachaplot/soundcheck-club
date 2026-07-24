@@ -1,8 +1,8 @@
 # Louie Vega
 
-Louie Vega is a House and Disco artist with 6 upcoming club dates listed on soundcheck as of Thu, 23 Jul 2026, next at Clifton Downs, Bristol on Sat, 1 Aug 2026.
+Louie Vega is a House and Disco artist with 7 upcoming club dates listed on soundcheck as of Fri, 24 Jul 2026, next at Clifton Downs, Bristol on Sat, 1 Aug 2026.
 
-Louie Vega is a house and disco artist tracked on soundcheck, with 200 sets logged across Amsterdam, Athens, Austin and Bali and 30 more. Often billed alongside Anane, Melvo Baptiste and Christian Mantini. Next up: Clifton Downs, Bristol on Sat 1 Aug.
+Louie Vega is a house and disco artist tracked on soundcheck, with 201 sets logged across Amsterdam, Athens, Austin and Bali and 30 more. Often billed alongside Anane, Melvo Baptiste and Christian Mantini. Next up: Clifton Downs, Bristol on Sat 1 Aug.
 
 ## Upcoming shows
 
@@ -14,6 +14,7 @@ Louie Vega is a house and disco artist tracked on soundcheck, with 200 sets logg
 | Sun, 13 Sept 2026 | [UNVRS] | Ibiza |
 | Fri, 18 Sept 2026 | TBA - Aeródromo Vilar de Luz - LPVL, 4425 Folgosa, Portugal | Porto |
 | Thu, 1 Oct 2026 | TBA - Various Venues | Malta |
+| Thu, 22 Oct 2026 | Supperclub Cruise | Amsterdam |
 
 ## Recently played
 
@@ -30,4 +31,4 @@ Louie Vega is a house and disco artist tracked on soundcheck, with 200 sets logg
 
 Anane, Melvo Baptiste, Christian Mantini
 
-*Updated Thu, 23 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/louievega/)*
+*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/louievega/)*

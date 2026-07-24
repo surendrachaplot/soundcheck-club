@@ -1,6 +1,6 @@
 # DMC.
 
-DMC. is a House and Electro artist with 2 upcoming club dates listed on soundcheck as of Thu, 23 Jul 2026, next at Invisible Wind Factory, Liverpool on Sat, 1 Aug 2026.
+DMC. is a House and Electro artist with 2 upcoming club dates listed on soundcheck as of Fri, 24 Jul 2026, next at Invisible Wind Factory, Liverpool on Sat, 1 Aug 2026.
 
 DMC. is a house and electro artist tracked on soundcheck, with 77 sets logged across Amsterdam, Barcelona, Berlin and Brighton and 10 more. Often billed alongside Louie G, Colin Chiddle and Carl H. Next up: Invisible Wind Factory, Liverpool on Sat 1 Aug.
 
@@ -26,4 +26,4 @@ DMC. is a house and electro artist tracked on soundcheck, with 77 sets logged ac
 
 Louie G, Colin Chiddle, Carl H
 
-*Updated Thu, 23 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/dmc/)*
+*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/dmc/)*

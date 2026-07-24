@@ -1,6 +1,6 @@
 # Disgonuts
 
-Disgonuts is a House and Disco artist with 2 upcoming club dates listed on soundcheck as of Thu, 23 Jul 2026, next at Dead Letter No. 9, New York City on Sat, 8 Aug 2026.
+Disgonuts is a House and Disco artist with 2 upcoming club dates listed on soundcheck as of Fri, 24 Jul 2026, next at Dead Letter No. 9, New York City on Sat, 8 Aug 2026.
 
 Disgonuts is a house and disco artist based in United States of America, tracked on soundcheck, with 83 sets logged across Barcelona, Detroit, Hamburg and London and 6 more. Often billed alongside JKriv, Aaron Dae and Willy Soul. Next up: Dead Letter No. 9, Newyorkcity on Sat 8 Aug.
 
@@ -26,4 +26,4 @@ Disgonuts is a house and disco artist based in United States of America, tracked
 
 JKriv, Aaron Dae, Willy Soul
 
-*Updated Thu, 23 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/disgonuts/)*
+*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/disgonuts/)*

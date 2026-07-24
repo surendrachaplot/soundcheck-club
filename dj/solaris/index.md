@@ -1,6 +1,6 @@
 # Solaris
 
-Solaris is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Thu, 23 Jul 2026, next at Doma Portugal, Lisbon on Fri, 24 Jul 2026.
+Solaris is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Fri, 24 Jul 2026, next at Doma Portugal, Lisbon on Fri, 24 Jul 2026.
 
 Solaris is a house and techno artist based in Germany, tracked on soundcheck, with 30 sets logged across Berlin, Birmingham, Cologne and Leipzig and 3 more. Often billed alongside NAOKI, Jerry and Juni. Next up: Doma Portugal, Lisbon on Fri 24 Jul.
 
@@ -27,4 +27,4 @@ Solaris is a house and techno artist based in Germany, tracked on soundcheck, wi
 
 NAOKI, Jerry, Juni
 
-*Updated Thu, 23 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/solaris/)*
+*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/solaris/)*

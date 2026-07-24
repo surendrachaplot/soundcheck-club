@@ -1,6 +1,6 @@
 # Juliana X
 
-Juliana X is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Thu, 23 Jul 2026, next at TILLATEC, Amsterdam on Sat, 25 Jul 2026.
+Juliana X is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Fri, 24 Jul 2026, next at TILLATEC, Amsterdam on Sat, 25 Jul 2026.
 
 Juliana X is a house and techno artist tracked on soundcheck, with 59 sets logged across Amsterdam, Berlin, Brussels and Rotterdam and 2 more. Often billed alongside Boris Coelman, BELLA (NL) and Moody Mehran. Next up: TILLATEC, Amsterdam on Sat 25 Jul.
 
@@ -26,4 +26,4 @@ Juliana X is a house and techno artist tracked on soundcheck, with 59 sets logge
 
 Boris Coelman, BELLA (NL), Moody Mehran
 
-*Updated Thu, 23 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/julianax/)*
+*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/julianax/)*

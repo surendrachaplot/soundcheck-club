@@ -1,6 +1,6 @@
 # Yellow House
 
-Yellow House is a music venue in Amsterdam with 5 upcoming nights listed on soundcheck as of Thu, 23 Jul 2026; the next is "Portente Invites" on Fri, 24 Jul 2026.
+Yellow House is a music venue in Amsterdam with 5 upcoming nights listed on soundcheck as of Fri, 24 Jul 2026; the next is "Portente Invites" on Fri, 24 Jul 2026.
 
 Yellow House is a music venue in Amsterdam listed on soundcheck. 5 upcoming nights, with line-ups including Alaska (2), AMEX (UK), APP and Benoît and 2 more. Browse upcoming dates, start times and who's playing. 1013AM Amsterdam, Danzigerbocht 45-R.
 
@@ -18,4 +18,4 @@ Yellow House is a music venue in Amsterdam listed on soundcheck. 5 upcoming nigh
 
 1013AM Amsterdam, Danzigerbocht 45-R, Amsterdam
 
-*Updated Thu, 23 Jul 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/yellow-house/)*
+*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/yellow-house/)*

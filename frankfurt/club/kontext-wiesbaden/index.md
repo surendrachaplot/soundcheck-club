@@ -1,6 +1,6 @@
 # Kontext Wiesbaden
 
-Kontext Wiesbaden is a music venue in Frankfurt with 1 upcoming night listed on soundcheck as of Thu, 23 Jul 2026; the next is "Höfchen at Kontext - Opening Party - Electronic Music" on Sat, 8 Aug 2026.
+Kontext Wiesbaden is a music venue in Frankfurt with 1 upcoming night listed on soundcheck as of Fri, 24 Jul 2026; the next is "Höfchen at Kontext - Opening Party - Electronic Music" on Sat, 8 Aug 2026.
 
 Kontext Wiesbaden is a music venue in Frankfurt listed on soundcheck. 1 upcoming night. Browse upcoming dates, start times and who's playing. Welfenstraße 1b 65189 Wiesbaden.
 
@@ -14,4 +14,4 @@ Kontext Wiesbaden is a music venue in Frankfurt listed on soundcheck. 1 upcoming
 
 Welfenstraße 1b 65189 Wiesbaden, Frankfurt
 
-*Updated Thu, 23 Jul 2026 · source: [soundcheck](https://soundcheck.club/frankfurt/club/kontext-wiesbaden/)*
+*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/frankfurt/club/kontext-wiesbaden/)*

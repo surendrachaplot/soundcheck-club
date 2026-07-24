@@ -1,6 +1,6 @@
 # La Sotterenea
 
-La Sotterenea is a music venue in Montreal with 2 upcoming nights listed on soundcheck as of Thu, 23 Jul 2026; the next is "Heaven Camera MTL || Ivy Hollivana, sineila, Oncill, FIAMMA + more" on Sun, 16 Aug 2026.
+La Sotterenea is a music venue in Montreal with 2 upcoming nights listed on soundcheck as of Fri, 24 Jul 2026; the next is "Heaven Camera MTL || Ivy Hollivana, sineila, Oncill, FIAMMA + more" on Sun, 16 Aug 2026.
 
 La Sotterenea is a music venue in Montreal listed on soundcheck. 2 upcoming nights, with line-ups including FIAMMA, Ivy Hollivana, Laura Krieg and sineila. Browse upcoming dates, start times and who's playing. 4848 Saint Laurent, Montréal, QC H2T 1R6, Canada.
 
@@ -15,4 +15,4 @@ La Sotterenea is a music venue in Montreal listed on soundcheck. 2 upcoming nigh
 
 4848 Saint Laurent, Montréal, QC H2T 1R6, Canada, Montreal
 
-*Updated Thu, 23 Jul 2026 · source: [soundcheck](https://soundcheck.club/montreal/club/la-sotterenea/)*
+*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/montreal/club/la-sotterenea/)*

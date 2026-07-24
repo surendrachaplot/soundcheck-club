@@ -1,6 +1,6 @@
 # BLOND:ISH
 
-BLOND:ISH is a House and Techno artist with 8 upcoming club dates listed on soundcheck as of Thu, 23 Jul 2026, next at Castaways, Chicago on Fri, 24 Jul 2026.
+BLOND:ISH is a House and Techno artist with 8 upcoming club dates listed on soundcheck as of Fri, 24 Jul 2026, next at Castaways, Chicago on Fri, 24 Jul 2026.
 
 BLOND:ISH is a house and techno artist tracked on soundcheck, with 131 sets logged across Amsterdam, Athens, Barcelona and Boston and 27 more. Often billed alongside Marco Carola, Seth Troxler and Ben Sterling. Next up: Castaways, Chicago on Fri 24 Jul.
 
@@ -32,4 +32,4 @@ BLOND:ISH is a house and techno artist tracked on soundcheck, with 131 sets logg
 
 Marco Carola, Seth Troxler, Ben Sterling
 
-*Updated Thu, 23 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/blondish/)*
+*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/blondish/)*

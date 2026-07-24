@@ -1,6 +1,6 @@
 # Ramona
 
-Ramona is a music venue in Manchester with 4 upcoming nights listed on soundcheck as of Thu, 23 Jul 2026; the next is "Ramona Club x APLS 2 (JONJO WILLIAMS)" on Fri, 24 Jul 2026.
+Ramona is a music venue in Manchester with 4 upcoming nights listed on soundcheck as of Fri, 24 Jul 2026; the next is "Ramona Club x APLS 2 (JONJO WILLIAMS)" on Fri, 24 Jul 2026.
 
 Ramona is a music venue in Manchester listed on soundcheck. 4 upcoming nights, with line-ups including A Little Bit Orange, Greengaff, K1ng Arthur and Ken(UK) and 2 more. Browse upcoming dates, start times and who's playing. 40 Swan St, Manchester M4 5JG, United Kingdom.
 
@@ -17,4 +17,4 @@ Ramona is a music venue in Manchester listed on soundcheck. 4 upcoming nights, w
 
 40 Swan St, Manchester M4 5JG, United Kingdom, Manchester
 
-*Updated Thu, 23 Jul 2026 · source: [soundcheck](https://soundcheck.club/manchester/club/ramona/)*
+*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/manchester/club/ramona/)*

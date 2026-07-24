@@ -1,6 +1,6 @@
 # Dopplereffekt
 
-Dopplereffekt is a Techno and Electro artist with 8 upcoming club dates listed on soundcheck as of Thu, 23 Jul 2026, next at Amsterdamse Bos, Amsterdam on Wed, 29 Jul 2026.
+Dopplereffekt is a Techno and Electro artist with 8 upcoming club dates listed on soundcheck as of Fri, 24 Jul 2026, next at Amsterdamse Bos, Amsterdam on Wed, 29 Jul 2026.
 
 Dopplereffekt is a techno and electro artist tracked on soundcheck, with 33 sets logged across Amsterdam, Berlin, Bristol and Chicago and 14 more. Often billed alongside Aurora Halal, Octo Octa and Skee Mask. Next up: Amsterdamse Bos, Amsterdam on Wed 29 Jul.
 
@@ -32,4 +32,4 @@ Dopplereffekt is a techno and electro artist tracked on soundcheck, with 33 sets
 
 Aurora Halal, Octo Octa, Skee Mask
 
-*Updated Thu, 23 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/dopplereffekt/)*
+*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/dopplereffekt/)*

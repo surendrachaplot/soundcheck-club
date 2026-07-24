@@ -1,6 +1,6 @@
 # DJ B2B
 
-DJ B2B is a Hip-Hop and Techno artist with 5 upcoming club dates listed on soundcheck as of Thu, 23 Jul 2026, next at Shibuya Club Ball, Tokyo on Fri, 24 Jul 2026.
+DJ B2B is a Hip-Hop and Techno artist with 5 upcoming club dates listed on soundcheck as of Fri, 24 Jul 2026, next at Shibuya Club Ball, Tokyo on Fri, 24 Jul 2026.
 
 DJ B2B is a hip-hop and techno artist tracked on soundcheck, with 197 sets logged across Amsterdam, Athens, Bangkok and Barcelona and 22 more. Often billed alongside Mori, ATAMI and Fig (DYN). Next up: Shibuya Club Ball, Tokyo on Fri 24 Jul.
 
@@ -29,4 +29,4 @@ DJ B2B is a hip-hop and techno artist tracked on soundcheck, with 197 sets logge
 
 Mori, ATAMI, Fig (DYN)
 
-*Updated Thu, 23 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/djb2b/)*
+*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/djb2b/)*

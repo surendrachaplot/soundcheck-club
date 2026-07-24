@@ -1,14 +1,13 @@
 # Golden Pudel Club
 
-Golden Pudel Club is a music venue in Hamburg with 9 upcoming nights listed on soundcheck as of Thu, 23 Jul 2026; the next is "GIRLSARETHEREALPLAYERS" on Thu, 23 Jul 2026.
+Golden Pudel Club is a music venue in Hamburg with 8 upcoming nights listed on soundcheck as of Fri, 24 Jul 2026; the next is "We R The Aliens w/ Snad, Melina, Jakob Seidensticker" on Fri, 24 Jul 2026.
 
-Golden Pudel Club is a music venue in Hamburg listed on soundcheck. 9 upcoming nights, with line-ups including AGILY, beccs, Boris Dlugosch and Carluschka and 2 more. Browse upcoming dates, start times and who's playing. St. Pauli Fischmarkt 27; 20359 Hamburg; Germany.
+Golden Pudel Club is a music venue in Hamburg listed on soundcheck. 8 upcoming nights, with line-ups including beccs, Boris Dlugosch, Carluschka and cmp (1) and 2 more. Browse upcoming dates, start times and who's playing. St. Pauli Fischmarkt 27; 20359 Hamburg; Germany.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Thu, 23 Jul 2026 | GIRLSARETHEREALPLAYERS | AGILY, DJ Babyblade, ONLYLU, Sarah Q, UNZHA, Unfug Abla |
 | Fri, 24 Jul 2026 | We R The Aliens w/ Snad, Melina, Jakob Seidensticker | Jakob Seidensticker, MELINA (3), Melina (4), Snad |
 | Sat, 25 Jul 2026 | TILT w/ Oblique, Shimmy Robin, N.R.M, ENNIO, Faerber | ENNIO, Faerber, N.R.M, Shimmy Robin |
 | Sun, 26 Jul 2026 | INTER.FILE002 | Mugen (2), SUNS, eshot (DE), pruefunke |
@@ -22,4 +21,4 @@ Golden Pudel Club is a music venue in Hamburg listed on soundcheck. 9 upcoming n
 
 St. Pauli Fischmarkt 27; 20359 Hamburg; Germany, Hamburg
 
-*Updated Thu, 23 Jul 2026 · source: [soundcheck](https://soundcheck.club/hamburg/club/golden-pudel-club/)*
+*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/hamburg/club/golden-pudel-club/)*

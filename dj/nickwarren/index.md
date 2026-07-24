@@ -1,6 +1,6 @@
 # Nick Warren
 
-Nick Warren is a Progressive House and House artist with 11 upcoming club dates listed on soundcheck as of Thu, 23 Jul 2026, next at Bristol Amphitheatre & Waterfront Square, Bristol on Fri, 24 Jul 2026.
+Nick Warren is a Progressive House and House artist with 11 upcoming club dates listed on soundcheck as of Fri, 24 Jul 2026, next at Bristol Amphitheatre & Waterfront Square, Bristol on Fri, 24 Jul 2026.
 
 Nick Warren is a progressive house and house artist tracked on soundcheck, with 131 sets logged across Amsterdam, Athens, Bali and Barcelona and 34 more. Often billed alongside Hernan Cattaneo, Martin Fredes and Sasha. Next up: Bristol Amphitheatre & Waterfront Square, Bristol on Fri 24 Jul.
 
@@ -35,4 +35,4 @@ Nick Warren is a progressive house and house artist tracked on soundcheck, with 
 
 Hernan Cattaneo, Martin Fredes, Sasha
 
-*Updated Thu, 23 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/nickwarren/)*
+*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/nickwarren/)*

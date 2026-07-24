@@ -1,6 +1,6 @@
 # Julie Desire
 
-Julie Desire is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Thu, 23 Jul 2026, next at ÆDEN x MARMORBAR: Fields & Spaces, Berlin on Sat, 25 Jul 2026.
+Julie Desire is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Fri, 24 Jul 2026, next at ÆDEN x MARMORBAR: Fields & Spaces, Berlin on Sat, 25 Jul 2026.
 
 Julie Desire is a techno and house artist tracked on soundcheck, with 105 sets logged across Amsterdam, Antwerp, Berlin and Brussels and 21 more. Often billed alongside Cheriii, Mars O10C and A-440. Next up: ÆDEN x MARMORBAR: Fields & Spaces, Berlin on Sat 25 Jul.
 
@@ -26,4 +26,4 @@ Julie Desire is a techno and house artist tracked on soundcheck, with 105 sets l
 
 Cheriii, Mars O10C, A-440
 
-*Updated Thu, 23 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/juliedesire/)*
+*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/juliedesire/)*

@@ -1,6 +1,6 @@
 # David Harness
 
-David Harness is a House and Deep House artist with 3 upcoming club dates listed on soundcheck as of Thu, 23 Jul 2026, next at TBA - Secret Location, Berkeley, San Francisco/Oakland on Sat, 8 Aug 2026.
+David Harness is a House and Deep House artist with 3 upcoming club dates listed on soundcheck as of Fri, 24 Jul 2026, next at TBA - Secret Location, Berkeley, San Francisco/Oakland on Sat, 8 Aug 2026.
 
 David Harness is a house and deep house artist based in United States of America, tracked on soundcheck, with 68 sets logged across Amsterdam, Detroit, Lisbon and London and 5 more. Often billed alongside Homero Espinosa, DJ M3 and nina sol. Next up: TBA - Secret Location, Berkeley, Sanfrancisco on Sat 8 Aug.
 
@@ -27,4 +27,4 @@ David Harness is a house and deep house artist based in United States of America
 
 Homero Espinosa, DJ M3, nina sol
 
-*Updated Thu, 23 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/davidharness/)*
+*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/davidharness/)*

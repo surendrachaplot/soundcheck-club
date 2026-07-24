@@ -1,14 +1,13 @@
 # Club Frau Holle
 
-Club Frau Holle is a music venue in Hamburg with 10 upcoming nights listed on soundcheck as of Thu, 23 Jul 2026; the next is "RELAX or ROLEX - Free Entry For Students" on Thu, 23 Jul 2026.
+Club Frau Holle is a music venue in Hamburg with 9 upcoming nights listed on soundcheck as of Fri, 24 Jul 2026; the next is "HYPER HOLLE with FELIPE ALEMAIS (Dominican Republic) DAVIDE ced.rocks Timeless Moments" on Fri, 24 Jul 2026.
 
-Club Frau Holle is a music venue in Hamburg listed on soundcheck. 10 upcoming nights, with line-ups including ced.rocks, DAVIDE (2), Elbstrõm and Eva.nyx and 2 more. Browse upcoming dates, start times and who's playing. Friedrichsstrasse 9, 20359 Hamburg.
+Club Frau Holle is a music venue in Hamburg listed on soundcheck. 9 upcoming nights, with line-ups including ced.rocks, DAVIDE (2), Elbstrõm and Eva.nyx and 2 more. Browse upcoming dates, start times and who's playing. Friedrichsstrasse 9, 20359 Hamburg.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Thu, 23 Jul 2026 | RELAX or ROLEX - Free Entry For Students |  |
 | Fri, 24 Jul 2026 | HYPER HOLLE with FELIPE ALEMAIS (Dominican Republic) DAVIDE ced.rocks Timeless Moments | DAVIDE (2), Timeless Moments, ced.rocks |
 | Sat, 25 Jul 2026 | Senza Nome x Frau Holle | Eva.nyx |
 | Thu, 30 Jul 2026 | RELAX or ROLEX - Free Entry For Students |  |
@@ -23,4 +22,4 @@ Club Frau Holle is a music venue in Hamburg listed on soundcheck. 10 upcoming ni
 
 Friedrichsstrasse 9, 20359 Hamburg, Hamburg
 
-*Updated Thu, 23 Jul 2026 · source: [soundcheck](https://soundcheck.club/hamburg/club/club-frau-holle/)*
+*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/hamburg/club/club-frau-holle/)*

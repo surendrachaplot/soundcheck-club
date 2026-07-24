@@ -1,6 +1,6 @@
 # Shelter Amsterdam
 
-Shelter Amsterdam is a music venue in Amsterdam with 19 upcoming nights listed on soundcheck as of Thu, 23 Jul 2026; the next is "New Tone - All Night" on Fri, 24 Jul 2026.
+Shelter Amsterdam is a music venue in Amsterdam with 19 upcoming nights listed on soundcheck as of Fri, 24 Jul 2026; the next is "New Tone - All Night" on Fri, 24 Jul 2026.
 
 Shelter Amsterdam is a music venue in Amsterdam listed on soundcheck. 19 upcoming nights, with line-ups including A For Alpha, Alex Wann, Amaliah and Ammé and 2 more. Browse upcoming dates, start times and who's playing. Overhoeksplein 3, 1031KS, Amsterdam.
 
@@ -23,4 +23,4 @@ Shelter Amsterdam is a music venue in Amsterdam listed on soundcheck. 19 upcomin
 
 Overhoeksplein 3, 1031KS, Amsterdam, Amsterdam
 
-*Updated Thu, 23 Jul 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/shelter-amsterdam/)*
+*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/shelter-amsterdam/)*

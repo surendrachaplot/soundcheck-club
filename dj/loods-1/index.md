@@ -1,6 +1,6 @@
 # Loods
 
-Loods is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Thu, 23 Jul 2026, next at Wet Deck at W Hotel, Kuala Lumpur on Sat, 25 Jul 2026.
+Loods is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Fri, 24 Jul 2026, next at Wet Deck at W Hotel, Kuala Lumpur on Sat, 25 Jul 2026.
 
 Loods is a house and techno artist tracked on soundcheck, with 54 sets logged across Aberdeen, Amsterdam, Auckland and Bali and 16 more. Often billed alongside KETTAMA, Flight Facilities and Mall Grab. Next up: Wet Deck at W Hotel, Kualalumpur on Sat 25 Jul.
 
@@ -26,4 +26,4 @@ Loods is a house and techno artist tracked on soundcheck, with 54 sets logged ac
 
 KETTAMA, Flight Facilities, Mall Grab
 
-*Updated Thu, 23 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/loods-1/)*
+*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/loods-1/)*

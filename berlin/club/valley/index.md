@@ -1,6 +1,6 @@
 # Valley
 
-Valley is a music venue in Berlin with 1 upcoming night listed on soundcheck as of Thu, 23 Jul 2026; the next is "Adrenaline Family Tour : Cloudy b2b ALL DAY LONG Special + After Party @RSO" on Sun, 2 Aug 2026.
+Valley is a music venue in Berlin with 1 upcoming night listed on soundcheck as of Fri, 24 Jul 2026; the next is "Adrenaline Family Tour : Cloudy b2b ALL DAY LONG Special + After Party @RSO" on Sun, 2 Aug 2026.
 
 Valley is a music venue in Berlin listed on soundcheck. 1 upcoming night, with line-ups including Adrian Mills, Cloudy, Frederic. and KIM SWIM and 2 more. Browse upcoming dates, start times and who's playing. Schnellerstraße 137, 12439 Berlin, Duitsland.
 
@@ -14,4 +14,4 @@ Valley is a music venue in Berlin listed on soundcheck. 1 upcoming night, with l
 
 Schnellerstraße 137, 12439 Berlin, Duitsland, Berlin
 
-*Updated Thu, 23 Jul 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/valley/)*
+*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/valley/)*

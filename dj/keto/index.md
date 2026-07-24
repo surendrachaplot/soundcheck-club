@@ -1,6 +1,6 @@
 # Keto
 
-Keto is a House and Minimal artist with 2 upcoming club dates listed on soundcheck as of Thu, 23 Jul 2026, next at Mtkvarze, Tbilisi on Fri, 24 Jul 2026.
+Keto is a House and Minimal artist with 2 upcoming club dates listed on soundcheck as of Fri, 24 Jul 2026, next at Mtkvarze, Tbilisi on Fri, 24 Jul 2026.
 
 Keto is a house and minimal artist tracked on soundcheck, with 42 sets logged across Berlin and Tbilisi. Often billed alongside Boyá, skyra and Generali Minerali. Next up: Mtkvarze, Tbilisi on Fri 24 Jul.
 
@@ -26,4 +26,4 @@ Keto is a house and minimal artist tracked on soundcheck, with 42 sets logged ac
 
 Boyá, skyra, Generali Minerali
 
-*Updated Thu, 23 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/keto/)*
+*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/keto/)*

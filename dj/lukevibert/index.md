@@ -1,6 +1,6 @@
 # Luke Vibert
 
-Luke Vibert is a Acid and Jungle artist with 2 upcoming club dates listed on soundcheck as of Thu, 23 Jul 2026, next at Lofi, Amsterdam on Sat, 15 Aug 2026.
+Luke Vibert is a Acid and Jungle artist with 2 upcoming club dates listed on soundcheck as of Fri, 24 Jul 2026, next at Lofi, Amsterdam on Sat, 15 Aug 2026.
 
 Luke Vibert is an acid and jungle artist tracked on soundcheck, with 57 sets logged across Amsterdam, Antwerp, Belfast and Berlin and 24 more. Often billed alongside Posthuman, DJ Warp and Nightwave. Next up: Lofi, Amsterdam on Sat 15 Aug.
 
@@ -26,4 +26,4 @@ Luke Vibert is an acid and jungle artist tracked on soundcheck, with 57 sets log
 
 Posthuman, DJ Warp, Nightwave
 
-*Updated Thu, 23 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/lukevibert/)*
+*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/lukevibert/)*

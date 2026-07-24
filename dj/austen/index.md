@@ -1,6 +1,6 @@
 # Austen
 
-Austen is a Club and Techno artist with 3 upcoming club dates listed on soundcheck as of Thu, 23 Jul 2026, next at Bolero, Seoul on Fri, 24 Jul 2026.
+Austen is a Club and Techno artist with 3 upcoming club dates listed on soundcheck as of Fri, 24 Jul 2026, next at Bolero, Seoul on Fri, 24 Jul 2026.
 
 Austen is a club and techno artist based in United Kingdom, tracked on soundcheck, with 56 sets logged across London, Manchester and Seoul. Often billed alongside DJ POOL, FAKEDEEPLEE and Cheno. Next up: Bolero, Seoul on Fri 24 Jul.
 
@@ -27,4 +27,4 @@ Austen is a club and techno artist based in United Kingdom, tracked on soundchec
 
 DJ POOL, FAKEDEEPLEE, Cheno
 
-*Updated Thu, 23 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/austen/)*
+*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/austen/)*

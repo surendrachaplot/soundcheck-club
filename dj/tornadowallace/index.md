@@ -1,6 +1,6 @@
 # Tornado Wallace
 
-Tornado Wallace is a House and Techno artist with 7 upcoming club dates listed on soundcheck as of Thu, 23 Jul 2026, next at The Cause, London on Sat, 25 Jul 2026.
+Tornado Wallace is a House and Techno artist with 7 upcoming club dates listed on soundcheck as of Fri, 24 Jul 2026, next at The Cause, London on Sat, 25 Jul 2026.
 
 Tornado Wallace is a house and techno artist tracked on soundcheck, with 128 sets logged across Amsterdam, Athens, Auckland and Bali and 40 more. Often billed alongside Fantastic Man, Courtney Bailey and Sound Metaphors Djs. Next up: The Cause, London on Sat 25 Jul.
 
@@ -31,4 +31,4 @@ Tornado Wallace is a house and techno artist tracked on soundcheck, with 128 set
 
 Fantastic Man, Courtney Bailey, Sound Metaphors Djs
 
-*Updated Thu, 23 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/tornadowallace/)*
+*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/tornadowallace/)*

@@ -1,6 +1,6 @@
 # LAMALICE
 
-LAMALICE is a House and Electro artist with 3 upcoming club dates listed on soundcheck as of Thu, 23 Jul 2026, next at Platforma Wolff, Bucharest on Fri, 24 Jul 2026.
+LAMALICE is a House and Electro artist with 3 upcoming club dates listed on soundcheck as of Fri, 24 Jul 2026, next at Platforma Wolff, Bucharest on Fri, 24 Jul 2026.
 
 LAMALICE is a house and electro artist tracked on soundcheck, with 109 sets logged across Amsterdam, Athens, Bali and Barcelona and 27 more. Often billed alongside Massaï, ABI (FR) and Alyhas. Next up: Platforma Wolff, Bucharest on Fri 24 Jul.
 
@@ -27,4 +27,4 @@ LAMALICE is a house and electro artist tracked on soundcheck, with 109 sets logg
 
 Massaï, ABI (FR), Alyhas
 
-*Updated Thu, 23 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/lamalice/)*
+*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/lamalice/)*

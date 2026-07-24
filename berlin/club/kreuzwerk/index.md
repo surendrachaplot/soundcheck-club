@@ -1,6 +1,6 @@
 # KREUZWERK
 
-KREUZWERK is a music venue in Berlin with 10 upcoming nights listed on soundcheck as of Thu, 23 Jul 2026; the next is "HERRENSAUNA PRIDEFEST" on Fri, 24 Jul 2026.
+KREUZWERK is a music venue in Berlin with 10 upcoming nights listed on soundcheck as of Fri, 24 Jul 2026; the next is "HERRENSAUNA PRIDEFEST" on Fri, 24 Jul 2026.
 
 KREUZWERK is a music venue in Berlin listed on soundcheck. 10 upcoming nights, with line-ups including 18:18, Alex Kassian, Amphia and Aunty Nora and 2 more. Browse upcoming dates, start times and who's playing. Lobeckstraße 30-35, 10969 Berlin, Deutschland.
 
@@ -23,4 +23,4 @@ KREUZWERK is a music venue in Berlin listed on soundcheck. 10 upcoming nights, w
 
 Lobeckstraße 30-35, 10969 Berlin, Deutschland, Berlin
 
-*Updated Thu, 23 Jul 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/kreuzwerk/)*
+*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/kreuzwerk/)*

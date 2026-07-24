@@ -1,6 +1,6 @@
 # Seb Zito
 
-Seb Zito is a House and Tech House artist with 4 upcoming club dates listed on soundcheck as of Thu, 23 Jul 2026, next at Cabaret Voltaire, Edinburgh on Fri, 31 Jul 2026.
+Seb Zito is a House and Tech House artist with 4 upcoming club dates listed on soundcheck as of Fri, 24 Jul 2026, next at Cabaret Voltaire, Edinburgh on Fri, 31 Jul 2026.
 
 Seb Zito is a house and tech house artist tracked on soundcheck, with 122 sets logged across Amsterdam, Bali, Barcelona and Belgrade and 27 more. Often billed alongside Rossko, ACA (YU) and East End Dubs. Next up: Cabaret Voltaire, Edinburgh on Fri 31 Jul.
 
@@ -28,4 +28,4 @@ Seb Zito is a house and tech house artist tracked on soundcheck, with 122 sets l
 
 Rossko, ACA (YU), East End Dubs
 
-*Updated Thu, 23 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/sebzito/)*
+*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/sebzito/)*

@@ -1,6 +1,6 @@
 # Slaktkyrkan
 
-Slaktkyrkan is a music venue in Stockholm with 2 upcoming nights listed on soundcheck as of Thu, 23 Jul 2026; the next is "Mala with SGT Pokes" on Fri, 4 Sept 2026.
+Slaktkyrkan is a music venue in Stockholm with 2 upcoming nights listed on soundcheck as of Fri, 24 Jul 2026; the next is "Mala with SGT Pokes" on Fri, 4 Sept 2026.
 
 Slaktkyrkan is a music venue in Stockholm listed on soundcheck. 2 upcoming nights, with line-ups including ELCAY, Foamplate, Jessie Granqvist and Klara Nov and 2 more. Browse upcoming dates, start times and who's playing. Styckmästargatan 10, 121 62 Johanneshov, Svezia.
 
@@ -15,4 +15,4 @@ Slaktkyrkan is a music venue in Stockholm listed on soundcheck. 2 upcoming night
 
 Styckmästargatan 10, 121 62 Johanneshov, Svezia, Stockholm
 
-*Updated Thu, 23 Jul 2026 · source: [soundcheck](https://soundcheck.club/stockholm/club/slaktkyrkan/)*
+*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/stockholm/club/slaktkyrkan/)*

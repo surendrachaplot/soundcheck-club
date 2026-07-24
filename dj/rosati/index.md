@@ -1,6 +1,6 @@
 # Rosati
 
-Rosati is a Techno and House artist with 4 upcoming club dates listed on soundcheck as of Thu, 23 Jul 2026, next at TILLATEC, Amsterdam on Sat, 25 Jul 2026.
+Rosati is a Techno and House artist with 4 upcoming club dates listed on soundcheck as of Fri, 24 Jul 2026, next at TILLATEC, Amsterdam on Sat, 25 Jul 2026.
 
 Rosati is a techno and house artist tracked on soundcheck, with 79 sets logged across Amsterdam, Athens, Berlin and Brussels and 21 more. Often billed alongside Steffi, Comrade Winston and Blasha & Allatt. Next up: TILLATEC, Amsterdam on Sat 25 Jul.
 
@@ -28,4 +28,4 @@ Rosati is a techno and house artist tracked on soundcheck, with 79 sets logged a
 
 Steffi, Comrade Winston, Blasha & Allatt
 
-*Updated Thu, 23 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/rosati/)*
+*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/rosati/)*

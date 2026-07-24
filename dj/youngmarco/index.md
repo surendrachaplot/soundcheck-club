@@ -1,6 +1,6 @@
 # Young Marco
 
-Young Marco is a House and Techno artist with 5 upcoming club dates listed on soundcheck as of Thu, 23 Jul 2026, next at Fort Vechten, Utrecht on Sat, 25 Jul 2026.
+Young Marco is a House and Techno artist with 5 upcoming club dates listed on soundcheck as of Fri, 24 Jul 2026, next at Fort Vechten, Utrecht on Sat, 25 Jul 2026.
 
 Young Marco is a house and techno artist tracked on soundcheck, with 208 sets logged across Amsterdam, Antwerp, Bali and Bangkok and 64 more. Often billed alongside Job Jobse, DJ Gigola and Narciss. Next up: Fort Vechten, Utrecht on Sat 25 Jul.
 
@@ -29,4 +29,4 @@ Young Marco is a house and techno artist tracked on soundcheck, with 208 sets lo
 
 Job Jobse, DJ Gigola, Narciss
 
-*Updated Thu, 23 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/youngmarco/)*
+*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/youngmarco/)*

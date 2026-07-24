@@ -1,14 +1,13 @@
 # Chris Stussy
 
-Chris Stussy is a House and Techno artist with 22 upcoming club dates listed on soundcheck as of Thu, 23 Jul 2026, next at BCM, Mallorca on Thu, 23 Jul 2026.
+Chris Stussy is a House and Techno artist with 21 upcoming club dates listed on soundcheck as of Fri, 24 Jul 2026, next at Rebstockpark, Frankfurt on Sat, 25 Jul 2026.
 
-Chris Stussy is a house and techno artist tracked on soundcheck, with 270 sets logged across Amsterdam, Antwerp, Austin and Barcelona and 59 more. Often billed alongside Jamie Jones, Marco Carola and Seth Troxler. Next up: BCM, Mallorca on Thu 23 Jul.
+Chris Stussy is a house and techno artist tracked on soundcheck, with 270 sets logged across Amsterdam, Antwerp, Austin and Barcelona and 59 more. Often billed alongside Jamie Jones, Marco Carola and Seth Troxler. Next up: Rebstockpark, Frankfurt on Sat 25 Jul.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Thu, 23 Jul 2026 | BCM | Mallorca |
 | Sat, 25 Jul 2026 | Rebstockpark | Frankfurt |
 | Sat, 25 Jul 2026 | Praterinsel | Munich |
 | Fri, 31 Jul 2026 | Burgess Park | London |
@@ -20,9 +19,11 @@ Chris Stussy is a house and techno artist tracked on soundcheck, with 270 sets l
 | Sat, 8 Aug 2026 | SWG3 | Glasgow |
 | Wed, 12 Aug 2026 | Gianpula Village | Malta |
 | Sun, 16 Aug 2026 | Amnesia Ibiza | Ibiza |
+| Mon, 24 Aug 2026 | DC-10 | Ibiza |
 
 ## Recently played
 
+- BCM, Mallorca — Thu, 23 Jul 2026
 - [UNVRS], Ibiza — Sun, 12 Jul 2026
 - Marina Sur, Valencia — Sat, 11 Jul 2026
 - DC-10, Ibiza — Mon, 6 Jul 2026
@@ -30,10 +31,9 @@ Chris Stussy is a house and techno artist tracked on soundcheck, with 270 sets l
 - Heaton Park, Manchester — Sat, 20 Jun 2026
 - Custom House Square, Belfast — Fri, 19 Jun 2026
 - Fira Gran Via, Barcelona — Mon, 15 Jun 2026
-- Press House Ballroom, Bucharest — Sat, 13 Jun 2026
 
 ## Shares bills with
 
 Jamie Jones, Marco Carola, Seth Troxler
 
-*Updated Thu, 23 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/chrisstussy/)*
+*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/chrisstussy/)*

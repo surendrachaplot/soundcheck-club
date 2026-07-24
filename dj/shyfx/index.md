@@ -1,6 +1,6 @@
 # Shy FX
 
-Shy FX is a Drum & Bass and Jungle artist with 5 upcoming club dates listed on soundcheck as of Thu, 23 Jul 2026, next at Amsterdamse Bos, Amsterdam on Wed, 29 Jul 2026.
+Shy FX is a Drum & Bass and Jungle artist with 5 upcoming club dates listed on soundcheck as of Fri, 24 Jul 2026, next at Amsterdamse Bos, Amsterdam on Wed, 29 Jul 2026.
 
 Shy FX is a drum & bass and jungle artist tracked on soundcheck, with 64 sets logged across Amsterdam, Auckland, Birmingham and Brighton and 19 more. Often billed alongside Wilkinson, Chimpo and Andy C. Next up: Amsterdamse Bos, Amsterdam on Wed 29 Jul.
 
@@ -29,4 +29,4 @@ Shy FX is a drum & bass and jungle artist tracked on soundcheck, with 64 sets lo
 
 Wilkinson, Chimpo, Andy C
 
-*Updated Thu, 23 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/shyfx/)*
+*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/shyfx/)*

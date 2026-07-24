@@ -1,6 +1,6 @@
 # Ava Blank
 
-Ava Blank is a House and Club artist with 3 upcoming club dates listed on soundcheck as of Thu, 23 Jul 2026, next at The Compound by Dirt Dog, Los Angeles on Sat, 8 Aug 2026.
+Ava Blank is a House and Club artist with 3 upcoming club dates listed on soundcheck as of Fri, 24 Jul 2026, next at The Compound by Dirt Dog, Los Angeles on Sat, 8 Aug 2026.
 
 Ava Blank is a house and club artist based in United States of America, tracked on soundcheck, with 26 sets logged across Losangeles and Sanfrancisco. Often billed alongside Dazegxd, Akumen and Andy Oro. Next up: The Compound by Dirt Dog, Losangeles on Sat 8 Aug.
 
@@ -27,4 +27,4 @@ Ava Blank is a house and club artist based in United States of America, tracked 
 
 Dazegxd, Akumen, Andy Oro
 
-*Updated Thu, 23 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/avablank/)*
+*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/avablank/)*

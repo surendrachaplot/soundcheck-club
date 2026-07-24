@@ -1,6 +1,6 @@
 # Julia Sandstorm
 
-Julia Sandstorm is a House and Deep House artist with 2 upcoming club dates listed on soundcheck as of Thu, 23 Jul 2026, next at Magazine Open–Air, London on Sat, 22 Aug 2026.
+Julia Sandstorm is a House and Deep House artist with 2 upcoming club dates listed on soundcheck as of Fri, 24 Jul 2026, next at Magazine Open–Air, London on Sat, 22 Aug 2026.
 
 Julia Sandstorm is a house and deep house artist tracked on soundcheck, with 42 sets logged across Amsterdam, Barcelona, Berlin and Ibiza and 10 more. Often billed alongside Bora Uzer, Britta Arnold and Christian Löffler. Next up: Magazine Open–Air, London on Sat 22 Aug.
 
@@ -26,4 +26,4 @@ Julia Sandstorm is a house and deep house artist tracked on soundcheck, with 42 
 
 Bora Uzer, Britta Arnold, Christian Löffler
 
-*Updated Thu, 23 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/juliasandstorm/)*
+*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/juliasandstorm/)*

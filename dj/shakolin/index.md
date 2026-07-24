@@ -1,6 +1,6 @@
 # Shakolin
 
-Shakolin is a House and Techno artist with 4 upcoming club dates listed on soundcheck as of Thu, 23 Jul 2026, next at PRST, Vienna on Sat, 25 Jul 2026.
+Shakolin is a House and Techno artist with 4 upcoming club dates listed on soundcheck as of Fri, 24 Jul 2026, next at PRST, Vienna on Sat, 25 Jul 2026.
 
 Shakolin is a house and techno artist based in Ukraine, tracked on soundcheck, with 105 sets logged across Amsterdam, Austin, Barcelona and Berlin and 27 more. Often billed alongside Karine, Timur Basha and Noizar. Next up: PRST, Vienna on Sat 25 Jul.
 
@@ -28,4 +28,4 @@ Shakolin is a house and techno artist based in Ukraine, tracked on soundcheck, w
 
 Karine, Timur Basha, Noizar
 
-*Updated Thu, 23 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/shakolin/)*
+*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/shakolin/)*

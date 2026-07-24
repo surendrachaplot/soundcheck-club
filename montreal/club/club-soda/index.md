@@ -1,6 +1,6 @@
 # Club Soda
 
-Club Soda is a music venue in Montreal with 2 upcoming nights listed on soundcheck as of Thu, 23 Jul 2026; the next is "UNIKORN VOL. 4 | ÉDITION FIERTÉ MONTRÉAL" on Sat, 1 Aug 2026.
+Club Soda is a music venue in Montreal with 2 upcoming nights listed on soundcheck as of Fri, 24 Jul 2026; the next is "UNIKORN VOL. 4 | ÉDITION FIERTÉ MONTRÉAL" on Sat, 1 Aug 2026.
 
 Club Soda is a music venue in Montreal listed on soundcheck. 2 upcoming nights, with line-ups including Awwful and SISI SUPERSTAR. Browse upcoming dates, start times and who's playing. 1225 St-Laurent; Montréal, QC H2X 2S6; Canada.
 
@@ -15,4 +15,4 @@ Club Soda is a music venue in Montreal listed on soundcheck. 2 upcoming nights, 
 
 1225 St-Laurent; Montréal, QC H2X 2S6; Canada, Montreal
 
-*Updated Thu, 23 Jul 2026 · source: [soundcheck](https://soundcheck.club/montreal/club/club-soda/)*
+*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/montreal/club/club-soda/)*

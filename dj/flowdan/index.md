@@ -1,6 +1,6 @@
 # Flowdan
 
-Flowdan is a Bass and Garage artist with 3 upcoming club dates listed on soundcheck as of Thu, 23 Jul 2026, next at The Meadows, New York City on Sat, 1 Aug 2026.
+Flowdan is a Bass and Garage artist with 3 upcoming club dates listed on soundcheck as of Fri, 24 Jul 2026, next at The Meadows, New York City on Sat, 1 Aug 2026.
 
 Flowdan is a bass and garage artist tracked on soundcheck, with 106 sets logged across Amsterdam, Antwerp, Barcelona and Belfast and 34 more. Often billed alongside Neffa-T, The Bug and Sammy Virji. Next up: The Meadows, Newyorkcity on Sat 1 Aug.
 
@@ -27,4 +27,4 @@ Flowdan is a bass and garage artist tracked on soundcheck, with 106 sets logged 
 
 Neffa-T, The Bug, Sammy Virji
 
-*Updated Thu, 23 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/flowdan/)*
+*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/flowdan/)*

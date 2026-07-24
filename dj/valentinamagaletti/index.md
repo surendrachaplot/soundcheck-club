@@ -1,6 +1,6 @@
 # Valentina Magaletti
 
-Valentina Magaletti is a Experimental and Electronica artist with 5 upcoming club dates listed on soundcheck as of Thu, 23 Jul 2026, next at Cafe OTO, London on Wed, 29 Jul 2026.
+Valentina Magaletti is a Experimental and Electronica artist with 5 upcoming club dates listed on soundcheck as of Fri, 24 Jul 2026, next at Cafe OTO, London on Wed, 29 Jul 2026.
 
 Valentina Magaletti is an experimental and electronica artist based in Italy, tracked on soundcheck, with 67 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 24 more. Often billed alongside upsammy, Al Wootton and Nídia. Next up: Cafe OTO, London on Wed 29 Jul.
 
@@ -29,4 +29,4 @@ Valentina Magaletti is an experimental and electronica artist based in Italy, tr
 
 upsammy, Al Wootton, Nídia
 
-*Updated Thu, 23 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/valentinamagaletti/)*
+*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/valentinamagaletti/)*

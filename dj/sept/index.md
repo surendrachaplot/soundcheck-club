@@ -1,6 +1,6 @@
 # Sept
 
-Sept is a Techno and House artist with 4 upcoming club dates listed on soundcheck as of Thu, 23 Jul 2026, next at Beatland Festival, Krakow on Sat, 25 Jul 2026.
+Sept is a Techno and House artist with 4 upcoming club dates listed on soundcheck as of Fri, 24 Jul 2026, next at Beatland Festival, Krakow on Sat, 25 Jul 2026.
 
 Sept is a techno and house artist based in Poland, tracked on soundcheck, with 102 sets logged across Amsterdam, Athens, Barcelona and Berlin and 20 more. Often billed alongside DLV, Danté and Lucinee. Next up: Beatland Festival, Krakow on Sat 25 Jul.
 
@@ -28,4 +28,4 @@ Sept is a techno and house artist based in Poland, tracked on soundcheck, with 1
 
 DLV, Danté, Lucinee
 
-*Updated Thu, 23 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/sept/)*
+*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/sept/)*

@@ -1,6 +1,6 @@
 # Ozmozis
 
-Ozmozis is a music venue in Toronto with 1 upcoming night listed on soundcheck as of Thu, 23 Jul 2026; the next is "Ozmozis presents Khen" on Fri, 16 Oct 2026.
+Ozmozis is a music venue in Toronto with 1 upcoming night listed on soundcheck as of Fri, 24 Jul 2026; the next is "Ozmozis presents Khen" on Fri, 16 Oct 2026.
 
 Ozmozis is a music venue in Toronto listed on soundcheck. 1 upcoming night, with line-ups including Andrew McDonnell and Khen. Browse upcoming dates, start times and who's playing. 10 Wellspring Lane, Toronto, ON M4Y 2C6.
 
@@ -14,4 +14,4 @@ Ozmozis is a music venue in Toronto listed on soundcheck. 1 upcoming night, with
 
 10 Wellspring Lane, Toronto, ON M4Y 2C6, Toronto
 
-*Updated Thu, 23 Jul 2026 · source: [soundcheck](https://soundcheck.club/toronto/club/ozmozis/)*
+*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/toronto/club/ozmozis/)*

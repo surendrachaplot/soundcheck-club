@@ -1,6 +1,6 @@
 # DJ Koze
 
-DJ Koze is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Thu, 23 Jul 2026, next at Westhafen, Leipzig on Sat, 5 Sept 2026.
+DJ Koze is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Fri, 24 Jul 2026, next at Westhafen, Leipzig on Sat, 5 Sept 2026.
 
 DJ Koze is a house and techno artist tracked on soundcheck, with 59 sets logged across Amsterdam, Antwerp, Barcelona and Basel and 24 more. Often billed alongside Bonobo, ANOTR and Ada. Next up: Westhafen, Leipzig on Sat 5 Sept.
 
@@ -26,4 +26,4 @@ DJ Koze is a house and techno artist tracked on soundcheck, with 59 sets logged 
 
 Bonobo, ANOTR, Ada
 
-*Updated Thu, 23 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/djkoze/)*
+*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/djkoze/)*

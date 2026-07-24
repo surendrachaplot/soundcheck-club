@@ -1,6 +1,6 @@
 # S.P.Y
 
-S.P.Y is a Drum & Bass and Jungle artist with 3 upcoming club dates listed on soundcheck as of Thu, 23 Jul 2026, next at Chinastraat, Ghent on Sat, 8 Aug 2026.
+S.P.Y is a Drum & Bass and Jungle artist with 3 upcoming club dates listed on soundcheck as of Fri, 24 Jul 2026, next at Chinastraat, Ghent on Sat, 8 Aug 2026.
 
 S.P.Y is a drum & bass and jungle artist tracked on soundcheck, with 61 sets logged across Amsterdam, Antwerp, Auckland and Bali and 29 more. Often billed alongside LowQui, K Motionz and Mozey. Next up: Chinastraat, Ghent on Sat 8 Aug.
 
@@ -27,4 +27,4 @@ S.P.Y is a drum & bass and jungle artist tracked on soundcheck, with 61 sets log
 
 LowQui, K Motionz, Mozey
 
-*Updated Thu, 23 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/s.p.y/)*
+*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/s.p.y/)*

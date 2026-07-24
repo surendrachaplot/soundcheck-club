@@ -1,6 +1,6 @@
 # TBA - Vlasmarkt
 
-TBA - Vlasmarkt is a music venue in Ghent with 2 upcoming nights listed on soundcheck as of Thu, 23 Jul 2026; the next is "Vrij-dag - dag 8" on Fri, 24 Jul 2026.
+TBA - Vlasmarkt is a music venue in Ghent with 2 upcoming nights listed on soundcheck as of Fri, 24 Jul 2026; the next is "Vrij-dag - dag 8" on Fri, 24 Jul 2026.
 
 TBA - Vlasmarkt is a music venue in Ghent listed on soundcheck. 2 upcoming nights, with line-ups including Fonkituur, His dudeness, Kenny Montana and Thang. Browse upcoming dates, start times and who's playing.
 
@@ -11,4 +11,4 @@ TBA - Vlasmarkt is a music venue in Ghent listed on soundcheck. 2 upcoming night
 | Fri, 24 Jul 2026 | Vrij-dag - dag 8 |  |
 | Sat, 25 Jul 2026 | Saturday Knights - dag 9 | Fonkituur, His dudeness, Kenny Montana, Thang |
 
-*Updated Thu, 23 Jul 2026 · source: [soundcheck](https://soundcheck.club/ghent/club/tba-vlasmarkt/)*
+*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/ghent/club/tba-vlasmarkt/)*

@@ -1,6 +1,6 @@
 # Water & Power
 
-Water & Power is a music venue in Los Angeles with 2 upcoming nights listed on soundcheck as of Thu, 23 Jul 2026; the next is "Fog Ephemeral" on Sun, 9 Aug 2026.
+Water & Power is a music venue in Los Angeles with 2 upcoming nights listed on soundcheck as of Fri, 24 Jul 2026; the next is "Fog Ephemeral" on Sun, 9 Aug 2026.
 
 Water & Power is a music venue in Losangeles listed on soundcheck. 2 upcoming nights, with line-ups including MANAPOOL and Solitaire. Browse upcoming dates, start times and who's playing. 3027 S. Grand Ave. Los Angeles, CA 90007.
 
@@ -15,4 +15,4 @@ Water & Power is a music venue in Losangeles listed on soundcheck. 2 upcoming ni
 
 3027 S. Grand Ave. Los Angeles, CA 90007, Los Angeles
 
-*Updated Thu, 23 Jul 2026 · source: [soundcheck](https://soundcheck.club/losangeles/club/water-power/)*
+*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/losangeles/club/water-power/)*

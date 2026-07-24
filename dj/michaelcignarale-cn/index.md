@@ -1,6 +1,6 @@
 # Michael Cignarale
 
-Michael Cignarale is a House and Disco artist with 3 upcoming club dates listed on soundcheck as of Thu, 23 Jul 2026, next at Kater, Berlin on Sat, 25 Jul 2026.
+Michael Cignarale is a House and Disco artist with 3 upcoming club dates listed on soundcheck as of Fri, 24 Jul 2026, next at Kater, Berlin on Sat, 25 Jul 2026.
 
 Michael Cignarale is a house and disco artist based in United States of America, tracked on soundcheck, with 20 sets logged across Berlin, Chicago, Hamburg and London and 5 more. Often billed alongside Dee Diggs, Jen Cardini and Kilopatrah Jones. Next up: Kater, Berlin on Sat 25 Jul.
 
@@ -27,4 +27,4 @@ Michael Cignarale is a house and disco artist based in United States of America,
 
 Dee Diggs, Jen Cardini, Kilopatrah Jones
 
-*Updated Thu, 23 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/michaelcignarale-cn/)*
+*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/michaelcignarale-cn/)*

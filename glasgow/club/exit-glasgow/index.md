@@ -1,6 +1,6 @@
 # EXIT Glasgow
 
-EXIT Glasgow is a music venue in Glasgow with 6 upcoming nights listed on soundcheck as of Thu, 23 Jul 2026; the next is "ARCA ' XXXXX' An official listening experience. Powered by Ponyboy" on Fri, 24 Jul 2026.
+EXIT Glasgow is a music venue in Glasgow with 6 upcoming nights listed on soundcheck as of Fri, 24 Jul 2026; the next is "ARCA ' XXXXX' An official listening experience. Powered by Ponyboy" on Fri, 24 Jul 2026.
 
 EXIT Glasgow is a music venue in Glasgow listed on soundcheck. 6 upcoming nights, with line-ups including Buckfast Barbie, C Frame, DEBONAIR and HUNTRESS and 2 more. Browse upcoming dates, start times and who's playing. 96 Maxwell Street, Glasgow, G1 4EQ.
 
@@ -19,4 +19,4 @@ EXIT Glasgow is a music venue in Glasgow listed on soundcheck. 6 upcoming nights
 
 96 Maxwell Street, Glasgow, G1 4EQ, Glasgow
 
-*Updated Thu, 23 Jul 2026 · source: [soundcheck](https://soundcheck.club/glasgow/club/exit-glasgow/)*
+*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/glasgow/club/exit-glasgow/)*

@@ -1,6 +1,6 @@
 # DJ Bz
 
-DJ Bz is a House and Minimal artist with 3 upcoming club dates listed on soundcheck as of Thu, 23 Jul 2026, next at Ouseburn Garden, Newcastle on Sat, 25 Jul 2026.
+DJ Bz is a House and Minimal artist with 3 upcoming club dates listed on soundcheck as of Fri, 24 Jul 2026, next at Ouseburn Garden, Newcastle on Sat, 25 Jul 2026.
 
 DJ Bz is a house and minimal artist based in United Kingdom, tracked on soundcheck, with 57 sets logged across Amsterdam, Basel, Berlin and Dundee and 6 more. Often billed alongside Doogi, Sammy Peeps and Kirmelian. Next up: Ouseburn Garden, Newcastle on Sat 25 Jul.
 
@@ -27,4 +27,4 @@ DJ Bz is a house and minimal artist based in United Kingdom, tracked on soundche
 
 Doogi, Sammy Peeps, Kirmelian
 
-*Updated Thu, 23 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/djbz/)*
+*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/djbz/)*

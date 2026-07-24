@@ -1,6 +1,6 @@
 # COEO
 
-COEO is a House and Disco artist with 3 upcoming club dates listed on soundcheck as of Thu, 23 Jul 2026, next at Café Schöne Aussichten (CSA), Hamburg on Sat, 25 Jul 2026.
+COEO is a House and Disco artist with 3 upcoming club dates listed on soundcheck as of Fri, 24 Jul 2026, next at Café Schöne Aussichten (CSA), Hamburg on Sat, 25 Jul 2026.
 
 COEO is a house and disco artist tracked on soundcheck, with 105 sets logged across Amsterdam, Bali, Barcelona and Berlin and 29 more. Often billed alongside Kapote, Max NRG Supply and Athlete Whippet. Next up: Café Schöne Aussichten (CSA), Hamburg on Sat 25 Jul.
 
@@ -27,4 +27,4 @@ COEO is a house and disco artist tracked on soundcheck, with 105 sets logged acr
 
 Kapote, Max NRG Supply, Athlete Whippet
 
-*Updated Thu, 23 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/coeo/)*
+*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/coeo/)*

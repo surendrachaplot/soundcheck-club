@@ -1,6 +1,6 @@
 # Kris Guilty
 
-Kris Guilty is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Thu, 23 Jul 2026, next at Système, Montreal on Sun, 26 Jul 2026.
+Kris Guilty is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Fri, 24 Jul 2026, next at Système, Montreal on Sun, 26 Jul 2026.
 
 Kris Guilty is a house and techno artist tracked on soundcheck, with 69 sets logged across Montreal, Newyorkcity, Paris and Toronto. Often billed alongside Guthrie, Gene Tellem and DJ Hidi. Next up: Système, Montreal on Sun 26 Jul.
 
@@ -27,4 +27,4 @@ Kris Guilty is a house and techno artist tracked on soundcheck, with 69 sets log
 
 Guthrie, Gene Tellem, DJ Hidi
 
-*Updated Thu, 23 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/krisguilty/)*
+*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/krisguilty/)*

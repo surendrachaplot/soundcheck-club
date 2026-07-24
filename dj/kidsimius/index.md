@@ -1,6 +1,6 @@
 # Kid Simius
 
-Kid Simius is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Thu, 23 Jul 2026, next at Hafenklang, Hamburg on Sat, 25 Jul 2026.
+Kid Simius is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Fri, 24 Jul 2026, next at Hafenklang, Hamburg on Sat, 25 Jul 2026.
 
 Kid Simius is a house and techno artist tracked on soundcheck, with 49 sets logged across Amsterdam, Barcelona, Berlin and Budapest and 19 more. Often billed alongside Sarah Wild, Natalie Robinson and julës jay. Next up: Hafenklang, Hamburg on Sat 25 Jul.
 
@@ -26,4 +26,4 @@ Kid Simius is a house and techno artist tracked on soundcheck, with 49 sets logg
 
 Sarah Wild, Natalie Robinson, julës jay
 
-*Updated Thu, 23 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/kidsimius/)*
+*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/kidsimius/)*

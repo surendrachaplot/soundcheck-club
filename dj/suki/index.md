@@ -1,6 +1,6 @@
 # suki
 
-suki is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Thu, 23 Jul 2026, next at Bevs, Hobart on Fri, 24 Jul 2026.
+suki is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Fri, 24 Jul 2026, next at Bevs, Hobart on Fri, 24 Jul 2026.
 
 suki is a techno and house artist tracked on soundcheck, with 64 sets logged across Amsterdam, Berlin, Copenhagen and Hobart and 14 more. Often billed alongside Mabel, Hannah D and Lex. Next up: Bevs, Hobart on Fri 24 Jul.
 
@@ -27,4 +27,4 @@ suki is a techno and house artist tracked on soundcheck, with 64 sets logged acr
 
 Mabel, Hannah D, Lex
 
-*Updated Thu, 23 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/suki/)*
+*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/suki/)*

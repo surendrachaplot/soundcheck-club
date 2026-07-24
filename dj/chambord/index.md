@@ -1,6 +1,6 @@
 # Chambord
 
-Chambord is a House and Deep House artist with 2 upcoming club dates listed on soundcheck as of Thu, 23 Jul 2026, next at Cova Santa, Ibiza on Fri, 24 Jul 2026.
+Chambord is a House and Deep House artist with 2 upcoming club dates listed on soundcheck as of Fri, 24 Jul 2026, next at Cova Santa, Ibiza on Fri, 24 Jul 2026.
 
 Chambord is a house and deep house artist based in France, tracked on soundcheck, with 60 sets logged across Amsterdam, Bangkok, Barcelona and Berlin and 13 more. Often billed alongside Kotoe, Britta Arnold and Daniel Cowel. Next up: Cova Santa, Ibiza on Fri 24 Jul.
 
@@ -26,4 +26,4 @@ Chambord is a house and deep house artist based in France, tracked on soundcheck
 
 Kotoe, Britta Arnold, Daniel Cowel
 
-*Updated Thu, 23 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/chambord/)*
+*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/chambord/)*

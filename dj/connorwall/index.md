@@ -1,6 +1,6 @@
 # Connor Wall
 
-Connor Wall is a Techno and House artist with 6 upcoming club dates listed on soundcheck as of Thu, 23 Jul 2026, next at RADION, Amsterdam on Fri, 24 Jul 2026.
+Connor Wall is a Techno and House artist with 6 upcoming club dates listed on soundcheck as of Fri, 24 Jul 2026, next at RADION, Amsterdam on Fri, 24 Jul 2026.
 
 Connor Wall is a techno and house artist based in Australia, tracked on soundcheck, with 34 sets logged across Amsterdam, Athens, Belgrade and Berlin and 16 more. Often billed alongside Alison Belle, Anthony Linell and Lilac. Next up: RADION, Amsterdam on Fri 24 Jul.
 
@@ -30,4 +30,4 @@ Connor Wall is a techno and house artist based in Australia, tracked on soundche
 
 Alison Belle, Anthony Linell, Lilac
 
-*Updated Thu, 23 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/connorwall/)*
+*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/connorwall/)*

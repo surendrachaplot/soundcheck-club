@@ -1,6 +1,6 @@
 # Cáit
 
-Cáit is a House and Techno artist with 5 upcoming club dates listed on soundcheck as of Thu, 23 Jul 2026, next at Dalston Superstore, London on Fri, 24 Jul 2026.
+Cáit is a House and Techno artist with 5 upcoming club dates listed on soundcheck as of Fri, 24 Jul 2026, next at Dalston Superstore, London on Fri, 24 Jul 2026.
 
 Cáit is a house and techno artist tracked on soundcheck, with 56 sets logged across Amsterdam, Belfast, Berlin and Copenhagen and 10 more. Often billed alongside Fio Fa, Mercorn and Angel D'lite. Next up: Dalston Superstore, London on Fri 24 Jul.
 
@@ -29,4 +29,4 @@ Cáit is a house and techno artist tracked on soundcheck, with 56 sets logged ac
 
 Fio Fa, Mercorn, Angel D'lite
 
-*Updated Thu, 23 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/cait/)*
+*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/cait/)*

@@ -1,6 +1,6 @@
 # Wax Music Lounge
 
-Wax Music Lounge is a music venue in Melbourne with 8 upcoming nights listed on soundcheck as of Thu, 23 Jul 2026; the next is "KOLETSAS • Mullen (UK)" on Fri, 24 Jul 2026.
+Wax Music Lounge is a music venue in Melbourne with 8 upcoming nights listed on soundcheck as of Fri, 24 Jul 2026; the next is "KOLETSAS • Mullen (UK)" on Fri, 24 Jul 2026.
 
 Wax Music Lounge is a music venue in Melbourne listed on soundcheck. 8 upcoming nights, with line-ups including Mullen and Tanya George. Browse upcoming dates, start times and who's playing. 250 Flinders St (basement), Melbourne, VIC, Australia, Victoria.
 
@@ -21,4 +21,4 @@ Wax Music Lounge is a music venue in Melbourne listed on soundcheck. 8 upcoming 
 
 250 Flinders St (basement), Melbourne, VIC, Australia, Victoria, Melbourne
 
-*Updated Thu, 23 Jul 2026 · source: [soundcheck](https://soundcheck.club/melbourne/club/wax-music-lounge/)*
+*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/melbourne/club/wax-music-lounge/)*

@@ -1,6 +1,6 @@
 # Zum Barbarossa
 
-Zum Barbarossa is a music venue in Amsterdam with 1 upcoming night listed on soundcheck as of Thu, 23 Jul 2026; the next is "RESONANT - ADE 2026" on Wed, 21 Oct 2026.
+Zum Barbarossa is a music venue in Amsterdam with 1 upcoming night listed on soundcheck as of Fri, 24 Jul 2026; the next is "RESONANT - ADE 2026" on Wed, 21 Oct 2026.
 
 Zum Barbarossa is a music venue in Amsterdam listed on soundcheck. 1 upcoming night, with line-ups including AND(W)Y, Cris-H, Paul Nolan and Ruud Vanden and 2 more. Browse upcoming dates, start times and who's playing. Voetboogstraat 1, 1012 XK Amsterdam.
 
@@ -14,4 +14,4 @@ Zum Barbarossa is a music venue in Amsterdam listed on soundcheck. 1 upcoming ni
 
 Voetboogstraat 1, 1012 XK Amsterdam, Amsterdam
 
-*Updated Thu, 23 Jul 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/zum-barbarossa/)*
+*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/zum-barbarossa/)*

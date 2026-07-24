@@ -1,6 +1,6 @@
 # Nolia
 
-Nolia is a Italo Disco and Techno artist with 3 upcoming club dates listed on soundcheck as of Thu, 23 Jul 2026, next at Podlasie Club, Chicago on Thu, 30 Jul 2026.
+Nolia is a Italo Disco and Techno artist with 3 upcoming club dates listed on soundcheck as of Fri, 24 Jul 2026, next at Podlasie Club, Chicago on Thu, 30 Jul 2026.
 
 Nolia is an italo disco and techno artist based in United States of America, tracked on soundcheck, with 33 sets logged across Berlin and Chicago. Often billed alongside Pen Pals, frail808 and Club Drippy. Next up: Podlasie Club, Chicago on Thu 30 Jul.
 
@@ -27,4 +27,4 @@ Nolia is an italo disco and techno artist based in United States of America, tra
 
 Pen Pals, frail808, Club Drippy
 
-*Updated Thu, 23 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/nolia/)*
+*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/nolia/)*

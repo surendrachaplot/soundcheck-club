@@ -1,6 +1,6 @@
 # Coco Coquelicot
 
-Coco Coquelicot is a House and Disco artist with 5 upcoming club dates listed on soundcheck as of Thu, 23 Jul 2026, next at Doka, Amsterdam on Thu, 30 Jul 2026.
+Coco Coquelicot is a House and Disco artist with 5 upcoming club dates listed on soundcheck as of Fri, 24 Jul 2026, next at Doka, Amsterdam on Thu, 30 Jul 2026.
 
 Coco Coquelicot is a house and disco artist based in Netherlands, tracked on soundcheck, with 42 sets logged across Amsterdam, Rotterdam, Thehague and Utrecht. Often billed alongside Laura Meester, Leroy Rey and Tonno Disko. Next up: Doka, Amsterdam on Thu 30 Jul.
 
@@ -29,4 +29,4 @@ Coco Coquelicot is a house and disco artist based in Netherlands, tracked on sou
 
 Laura Meester, Leroy Rey, Tonno Disko
 
-*Updated Thu, 23 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/cococoquelicot/)*
+*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/cococoquelicot/)*

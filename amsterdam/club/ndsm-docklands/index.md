@@ -1,6 +1,6 @@
 # NDSM Docklands
 
-NDSM Docklands is a music venue in Amsterdam with 1 upcoming night listed on soundcheck as of Thu, 23 Jul 2026; the next is "Allstate Insurance App — Features, Bill Pay, and Alternatives 2026" on Sat, 25 Jul 2026.
+NDSM Docklands is a music venue in Amsterdam with 1 upcoming night listed on soundcheck as of Fri, 24 Jul 2026; the next is "Allstate Insurance App — Features, Bill Pay, and Alternatives 2026" on Sat, 25 Jul 2026.
 
 NDSM Docklands is a music venue in Amsterdam listed on soundcheck. 1 upcoming night, with line-ups including Alaska (2), AMEX (UK), APP and Debit and 2 more. Browse upcoming dates, start times and who's playing. Kinetisch Noord, Tt. Neveritaweg 15; 1033 Amsterdam-Noord; Amsterdam; Netherlands.
 
@@ -14,4 +14,4 @@ NDSM Docklands is a music venue in Amsterdam listed on soundcheck. 1 upcoming ni
 
 Kinetisch Noord, Tt. Neveritaweg 15; 1033 Amsterdam-Noord; Amsterdam; Netherlands, Amsterdam
 
-*Updated Thu, 23 Jul 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/ndsm-docklands/)*
+*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/ndsm-docklands/)*

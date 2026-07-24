@@ -1,6 +1,6 @@
 # DJ DEADNAME
 
-DJ DEADNAME is a Bass and Techno artist with 2 upcoming club dates listed on soundcheck as of Thu, 23 Jul 2026, next at Club Rawhide, New York City on Fri, 24 Jul 2026.
+DJ DEADNAME is a Bass and Techno artist with 2 upcoming club dates listed on soundcheck as of Fri, 24 Jul 2026, next at Club Rawhide, New York City on Fri, 24 Jul 2026.
 
 DJ DEADNAME is a bass and techno artist tracked on soundcheck, with 93 sets logged across Boston, Chicago, Losangeles and Montreal and 4 more. Often billed alongside Eva Loveless, Male Merge and Surgery. Next up: Club Rawhide, Newyorkcity on Fri 24 Jul.
 
@@ -26,4 +26,4 @@ DJ DEADNAME is a bass and techno artist tracked on soundcheck, with 93 sets logg
 
 Eva Loveless, Male Merge, Surgery
 
-*Updated Thu, 23 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/djdeadname/)*
+*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/djdeadname/)*

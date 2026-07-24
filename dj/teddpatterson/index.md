@@ -1,6 +1,6 @@
 # Tedd Patterson
 
-Tedd Patterson is a House and Disco artist with 3 upcoming club dates listed on soundcheck as of Thu, 23 Jul 2026, next at TBA, Los Angeles on Sat, 25 Jul 2026.
+Tedd Patterson is a House and Disco artist with 3 upcoming club dates listed on soundcheck as of Fri, 24 Jul 2026, next at TBA, Los Angeles on Sat, 25 Jul 2026.
 
 Tedd Patterson is a house and disco artist based in United States of America, tracked on soundcheck, with 71 sets logged across Berlin, Chicago, Detroit and Ibiza and 7 more. Often billed alongside Eli Escobar, The Carry Nation and David Harness. Next up: TBA, Losangeles on Sat 25 Jul.
 
@@ -27,4 +27,4 @@ Tedd Patterson is a house and disco artist based in United States of America, tr
 
 Eli Escobar, The Carry Nation, David Harness
 
-*Updated Thu, 23 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/teddpatterson/)*
+*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/teddpatterson/)*

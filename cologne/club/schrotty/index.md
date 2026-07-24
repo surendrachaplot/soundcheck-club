@@ -1,6 +1,6 @@
 # Schrotty
 
-Schrotty is a music venue in Cologne with 11 upcoming nights listed on soundcheck as of Thu, 23 Jul 2026; the next is "EhrenKlub im Schrotty #13 mit BOERY, Mad Dog, Neek, SAMUEL MORIERO, ESTASIA, PSYCHOTIK UVM" on Fri, 24 Jul 2026.
+Schrotty is a music venue in Cologne with 11 upcoming nights listed on soundcheck as of Fri, 24 Jul 2026; the next is "EhrenKlub im Schrotty #13 mit BOERY, Mad Dog, Neek, SAMUEL MORIERO, ESTASIA, PSYCHOTIK UVM" on Fri, 24 Jul 2026.
 
 Schrotty is a music venue in Cologne listed on soundcheck. 11 upcoming nights, with line-ups including 909 RACING TEAM, A.D.H.S., Adrian Mills and Anna Reusch and 2 more. Browse upcoming dates, start times and who's playing. Vogelsanger Straße 406, 50827 Köln.
 
@@ -23,4 +23,4 @@ Schrotty is a music venue in Cologne listed on soundcheck. 11 upcoming nights, w
 
 Vogelsanger Straße 406, 50827 Köln, Cologne
 
-*Updated Thu, 23 Jul 2026 · source: [soundcheck](https://soundcheck.club/cologne/club/schrotty/)*
+*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/cologne/club/schrotty/)*

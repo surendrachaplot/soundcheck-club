@@ -1,6 +1,6 @@
 # Delfonic
 
-Delfonic is a Disco and House artist with 2 upcoming club dates listed on soundcheck as of Thu, 23 Jul 2026, next at Gewölbe, Cologne on Sat, 25 Jul 2026.
+Delfonic is a Disco and House artist with 2 upcoming club dates listed on soundcheck as of Fri, 24 Jul 2026, next at Gewölbe, Cologne on Sat, 25 Jul 2026.
 
 Delfonic is a disco and house artist tracked on soundcheck, with 59 sets logged across Barcelona, Berlin, Cologne and Edinburgh and 7 more. Often billed alongside Kapote, Daniel Best and Andrea Dama. Next up: Gewölbe, Cologne on Sat 25 Jul.
 
@@ -26,4 +26,4 @@ Delfonic is a disco and house artist tracked on soundcheck, with 59 sets logged 
 
 Kapote, Daniel Best, Andrea Dama
 
-*Updated Thu, 23 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/delfonic/)*
+*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/delfonic/)*

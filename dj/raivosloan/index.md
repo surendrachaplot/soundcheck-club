@@ -1,6 +1,6 @@
 # Raivo Sloan
 
-Raivo Sloan is a Experimental and Electronica artist with 4 upcoming club dates listed on soundcheck as of Thu, 23 Jul 2026, next at Mesh, Glasgow on Tue, 28 Jul 2026.
+Raivo Sloan is a Experimental and Electronica artist with 4 upcoming club dates listed on soundcheck as of Fri, 24 Jul 2026, next at Mesh, Glasgow on Tue, 28 Jul 2026.
 
 Raivo Sloan is an experimental and electronica artist based in United Kingdom, tracked on soundcheck, with 17 sets logged across Edinburgh and Glasgow. Often billed alongside makaya, HUNTRESS and Isa Gordon. Next up: Mesh, Glasgow on Tue 28 Jul.
 
@@ -28,4 +28,4 @@ Raivo Sloan is an experimental and electronica artist based in United Kingdom, t
 
 makaya, HUNTRESS, Isa Gordon
 
-*Updated Thu, 23 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/raivosloan/)*
+*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/raivosloan/)*

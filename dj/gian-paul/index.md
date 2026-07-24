@@ -1,6 +1,6 @@
 # Gian-Paul
 
-Gian-Paul is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Thu, 23 Jul 2026, next at Outer Heaven, New York City on Sat, 15 Aug 2026.
+Gian-Paul is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Fri, 24 Jul 2026, next at Outer Heaven, New York City on Sat, 15 Aug 2026.
 
 Gian-Paul is a house and techno artist based in United States of America, tracked on soundcheck, with 74 sets logged across Amsterdam, Denver, Edinburgh and London and 1 more. Often billed alongside Dayna C, Alien Communications and J. Richards. Next up: Outer Heaven, Newyorkcity on Sat 15 Aug.
 
@@ -26,4 +26,4 @@ Gian-Paul is a house and techno artist based in United States of America, tracke
 
 Dayna C, Alien Communications, J. Richards
 
-*Updated Thu, 23 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/gian-paul/)*
+*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/gian-paul/)*

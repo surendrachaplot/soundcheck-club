@@ -1,6 +1,6 @@
 # Amaliah
 
-Amaliah is a House and Techno artist with 8 upcoming club dates listed on soundcheck as of Thu, 23 Jul 2026, next at Berghain | Panorama Bar | Säule, Berlin on Fri, 24 Jul 2026.
+Amaliah is a House and Techno artist with 8 upcoming club dates listed on soundcheck as of Fri, 24 Jul 2026, next at Berghain | Panorama Bar | Säule, Berlin on Fri, 24 Jul 2026.
 
 Amaliah is a house and techno artist tracked on soundcheck, with 169 sets logged across Amsterdam, Antwerp, Barcelona and Belfast and 36 more. Often billed alongside NIKS, Danielle and Call Super. Next up: Berghain | Panorama Bar | Säule, Berlin on Fri 24 Jul.
 
@@ -32,4 +32,4 @@ Amaliah is a house and techno artist tracked on soundcheck, with 169 sets logged
 
 NIKS, Danielle, Call Super
 
-*Updated Thu, 23 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/amaliah/)*
+*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/amaliah/)*

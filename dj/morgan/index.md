@@ -1,6 +1,6 @@
 # Morgan
 
-Morgan is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Thu, 23 Jul 2026, next at Renate, Berlin on Fri, 24 Jul 2026.
+Morgan is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Fri, 24 Jul 2026, next at Renate, Berlin on Fri, 24 Jul 2026.
 
 Morgan is a house and techno artist based in Australia, tracked on soundcheck, with 125 sets logged across Amsterdam, Antwerp, Barcelona and Berlin and 20 more. Often billed alongside Tomas Station, Christian AB and Doudou MD. Next up: Renate, Berlin on Fri 24 Jul.
 
@@ -26,4 +26,4 @@ Morgan is a house and techno artist based in Australia, tracked on soundcheck, w
 
 Tomas Station, Christian AB, Doudou MD
 
-*Updated Thu, 23 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/morgan/)*
+*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/morgan/)*

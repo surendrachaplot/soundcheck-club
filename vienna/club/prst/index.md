@@ -1,14 +1,13 @@
 # PRST
 
-PRST is a music venue in Vienna with 10 upcoming nights listed on soundcheck as of Thu, 23 Jul 2026; the next is "Donnerstrada with maximo & Julani" on Thu, 23 Jul 2026.
+PRST is a music venue in Vienna with 9 upcoming nights listed on soundcheck as of Fri, 24 Jul 2026; the next is "Amore AG x REDIVIDER pres. D.TIFFANY" on Fri, 24 Jul 2026.
 
-PRST is a music venue in Vienna listed on soundcheck. 10 upcoming nights, with line-ups including Alk Torres, Anton Kolo, BAUGRUPPE90 and C.Love (2) and 2 more. Browse upcoming dates, start times and who's playing. Praterstraße 18, 1020 Wien, Austria.
+PRST is a music venue in Vienna listed on soundcheck. 9 upcoming nights, with line-ups including Alk Torres, Anton Kolo, BAUGRUPPE90 and C.Love (2) and 2 more. Browse upcoming dates, start times and who's playing. Praterstraße 18, 1020 Wien, Austria.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Thu, 23 Jul 2026 | Donnerstrada with maximo & Julani | Julani, Maximilian Foit |
 | Fri, 24 Jul 2026 | Amore AG x REDIVIDER pres. D.TIFFANY | D. Tiffany, DJ Deadlift, DJ Sprudel, DREYA, Julia Goldfarb, Rayya |
 | Sat, 25 Jul 2026 | PRST Sommerfest with Karine & Shakolin | Anton Kolo, Karine, Nizar Sarakbi, Shakolin |
 | Fri, 31 Jul 2026 | PRST invites Narciss | Narciss, mariephi |
@@ -23,4 +22,4 @@ PRST is a music venue in Vienna listed on soundcheck. 10 upcoming nights, with l
 
 Praterstraße 18, 1020 Wien, Austria, Vienna
 
-*Updated Thu, 23 Jul 2026 · source: [soundcheck](https://soundcheck.club/vienna/club/prst/)*
+*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/vienna/club/prst/)*

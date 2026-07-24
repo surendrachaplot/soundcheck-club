@@ -1,6 +1,6 @@
 # shirlz
 
-shirlz is a Techno and House artist with 4 upcoming club dates listed on soundcheck as of Thu, 23 Jul 2026, next at The Rose, New York City on Mon, 27 Jul 2026.
+shirlz is a Techno and House artist with 4 upcoming club dates listed on soundcheck as of Fri, 24 Jul 2026, next at The Rose, New York City on Mon, 27 Jul 2026.
 
 shirlz is a techno and house artist based in United States of America, tracked on soundcheck, with 25 sets logged across Newyorkcity. Often billed alongside MISS VEE, AJACENT and DJ Sauci Soni. Next up: The Rose, Newyorkcity on Mon 27 Jul.
 
@@ -28,4 +28,4 @@ shirlz is a techno and house artist based in United States of America, tracked o
 
 MISS VEE, AJACENT, DJ Sauci Soni
 
-*Updated Thu, 23 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/shirlz/)*
+*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/shirlz/)*

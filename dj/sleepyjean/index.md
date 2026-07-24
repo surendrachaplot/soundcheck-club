@@ -1,6 +1,6 @@
 # Sleepy Jean
 
-Sleepy Jean is a House and Electro artist with 4 upcoming club dates listed on soundcheck as of Thu, 23 Jul 2026, next at Hare & Hounds, Birmingham on Fri, 31 Jul 2026.
+Sleepy Jean is a House and Electro artist with 4 upcoming club dates listed on soundcheck as of Fri, 24 Jul 2026, next at Hare & Hounds, Birmingham on Fri, 31 Jul 2026.
 
 Sleepy Jean is a house and electro artist tracked on soundcheck, with 34 sets logged across Berlin, Birmingham, Brighton and Leeds and 2 more. Often billed alongside TSUNIMAN, A For Alpha and Ariane V. Next up: Hare & Hounds, Birmingham on Fri 31 Jul.
 
@@ -28,4 +28,4 @@ Sleepy Jean is a house and electro artist tracked on soundcheck, with 34 sets lo
 
 TSUNIMAN, A For Alpha, Ariane V
 
-*Updated Thu, 23 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/sleepyjean/)*
+*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/sleepyjean/)*

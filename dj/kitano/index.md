@@ -1,6 +1,6 @@
 # Kitano
 
-Kitano is a House and Tech House artist with 2 upcoming club dates listed on soundcheck as of Thu, 23 Jul 2026, next at Aiiro Cafe, Tokyo on Sat, 25 Jul 2026.
+Kitano is a House and Tech House artist with 2 upcoming club dates listed on soundcheck as of Fri, 24 Jul 2026, next at Aiiro Cafe, Tokyo on Sat, 25 Jul 2026.
 
 Kitano is a house and tech house artist based in Japan, tracked on soundcheck, with 43 sets logged across Tokyo. Often billed alongside Issyo, NOONI NOBU and KDT. Next up: Aiiro Cafe, Tokyo on Sat 25 Jul.
 
@@ -26,4 +26,4 @@ Kitano is a house and tech house artist based in Japan, tracked on soundcheck, w
 
 Issyo, NOONI NOBU, KDT
 
-*Updated Thu, 23 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/kitano/)*
+*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/kitano/)*

@@ -1,6 +1,6 @@
 # Yasmine (UK)
 
-Yasmine (UK) is a Breakbeat and Bass artist with 2 upcoming club dates listed on soundcheck as of Thu, 23 Jul 2026, next at Planet Wax, London on Sun, 26 Jul 2026.
+Yasmine (UK) is a Breakbeat and Bass artist with 2 upcoming club dates listed on soundcheck as of Fri, 24 Jul 2026, next at Planet Wax, London on Sun, 26 Jul 2026.
 
 Yasmine (UK) is a breakbeat and bass artist based in United Kingdom, tracked on soundcheck, with 71 sets logged across Brighton, Bristol, London and Manchester and 3 more. Often billed alongside Abby Daze, FROND and Uncle G. Next up: Planet Wax, London on Sun 26 Jul.
 
@@ -26,4 +26,4 @@ Yasmine (UK) is a breakbeat and bass artist based in United Kingdom, tracked on 
 
 Abby Daze, FROND, Uncle G
 
-*Updated Thu, 23 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/yasmine/)*
+*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/yasmine/)*

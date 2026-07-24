@@ -1,6 +1,6 @@
 # CRAVO
 
-CRAVO is a Techno and Club artist with 2 upcoming club dates listed on soundcheck as of Thu, 23 Jul 2026, next at Moog Club, Barcelona on Wed, 29 Jul 2026.
+CRAVO is a Techno and Club artist with 2 upcoming club dates listed on soundcheck as of Fri, 24 Jul 2026, next at Moog Club, Barcelona on Wed, 29 Jul 2026.
 
 CRAVO is a techno and club artist tracked on soundcheck, with 96 sets logged across Amsterdam, Barcelona, Belfast and Berlin and 23 more. Often billed alongside VIL (PT), Enkō and Temudo. Next up: Moog Club, Barcelona on Wed 29 Jul.
 
@@ -26,4 +26,4 @@ CRAVO is a techno and club artist tracked on soundcheck, with 96 sets logged acr
 
 VIL (PT), Enkō, Temudo
 
-*Updated Thu, 23 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/cravo/)*
+*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/cravo/)*

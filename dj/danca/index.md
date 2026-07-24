@@ -1,6 +1,6 @@
 # Danca
 
-Danca is a Techno and Tech House artist with 2 upcoming club dates listed on soundcheck as of Thu, 23 Jul 2026, next at Jonny Knüppel, Berlin on Fri, 31 Jul 2026.
+Danca is a Techno and Tech House artist with 2 upcoming club dates listed on soundcheck as of Fri, 24 Jul 2026, next at Jonny Knüppel, Berlin on Fri, 31 Jul 2026.
 
 Danca is a techno and tech house artist tracked on soundcheck, with 41 sets logged across Berlin, Frankfurt, Hamburg and Losangeles and 4 more. Often billed alongside Einmusik, Dominik Eulberg and 9LALEY. Next up: Jonny Knüppel, Berlin on Fri 31 Jul.
 
@@ -26,4 +26,4 @@ Danca is a techno and tech house artist tracked on soundcheck, with 41 sets logg
 
 Einmusik, Dominik Eulberg, 9LALEY
 
-*Updated Thu, 23 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/danca/)*
+*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/danca/)*

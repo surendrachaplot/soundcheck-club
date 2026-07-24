@@ -1,6 +1,6 @@
 # Javier Anxiety
 
-Javier Anxiety is a House and Disco artist with 2 upcoming club dates listed on soundcheck as of Thu, 23 Jul 2026, next at Fitzroy, Berlin on Sat, 25 Jul 2026.
+Javier Anxiety is a House and Disco artist with 2 upcoming club dates listed on soundcheck as of Fri, 24 Jul 2026, next at Fitzroy, Berlin on Sat, 25 Jul 2026.
 
 Javier Anxiety is a house and disco artist based in Argentina, tracked on soundcheck, with 70 sets logged across Barcelona, Berlin, Copenhagen and Ibiza and 1 more. Often billed alongside Bauen, Gabs Leyton and Luca Olivotto. Next up: Fitzroy, Berlin on Sat 25 Jul.
 
@@ -26,4 +26,4 @@ Javier Anxiety is a house and disco artist based in Argentina, tracked on soundc
 
 Bauen, Gabs Leyton, Luca Olivotto
 
-*Updated Thu, 23 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/JavierAnxiety/)*
+*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/JavierAnxiety/)*

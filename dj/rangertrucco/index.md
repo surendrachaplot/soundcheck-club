@@ -1,6 +1,6 @@
 # Ranger Trucco
 
-Ranger Trucco is a House and Tech House artist with 8 upcoming club dates listed on soundcheck as of Thu, 23 Jul 2026, next at Q Nightclub, Seattle on Fri, 31 Jul 2026.
+Ranger Trucco is a House and Tech House artist with 8 upcoming club dates listed on soundcheck as of Fri, 24 Jul 2026, next at Q Nightclub, Seattle on Fri, 31 Jul 2026.
 
 Ranger Trucco is a house and tech house artist tracked on soundcheck, with 85 sets logged across Amsterdam, Austin, Barcelona and Boston and 21 more. Often billed alongside Ms. Mada, Prunk and Ben Sterling. Next up: Q Nightclub, Seattle on Fri 31 Jul.
 
@@ -32,4 +32,4 @@ Ranger Trucco is a house and tech house artist tracked on soundcheck, with 85 se
 
 Ms. Mada, Prunk, Ben Sterling
 
-*Updated Thu, 23 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/rangertrucco/)*
+*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/rangertrucco/)*

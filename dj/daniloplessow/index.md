@@ -1,6 +1,6 @@
 # Danilo Plessow
 
-Danilo Plessow is a House and Disco artist with 7 upcoming club dates listed on soundcheck as of Thu, 23 Jul 2026, next at Platforma Wolff, Bucharest on Fri, 31 Jul 2026.
+Danilo Plessow is a House and Disco artist with 7 upcoming club dates listed on soundcheck as of Fri, 24 Jul 2026, next at Platforma Wolff, Bucharest on Fri, 31 Jul 2026.
 
 Danilo Plessow is a house and disco artist tracked on soundcheck, with 160 sets logged across Amsterdam, Antwerp, Athens and Bali and 47 more. Often billed alongside Motor City Drum Ensemble, Hugo LX and Antal. Next up: Platforma Wolff, Bucharest on Fri 31 Jul.
 
@@ -31,4 +31,4 @@ Danilo Plessow is a house and disco artist tracked on soundcheck, with 160 sets 
 
 Motor City Drum Ensemble, Hugo LX, Antal
 
-*Updated Thu, 23 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/daniloplessow/)*
+*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/daniloplessow/)*

@@ -1,6 +1,6 @@
 # Ayesha
 
-Ayesha is a Techno and Bass artist with 5 upcoming club dates listed on soundcheck as of Thu, 23 Jul 2026, next at Nowadays, New York City on Fri, 31 Jul 2026.
+Ayesha is a Techno and Bass artist with 5 upcoming club dates listed on soundcheck as of Fri, 24 Jul 2026, next at Nowadays, New York City on Fri, 31 Jul 2026.
 
 Ayesha is a techno and bass artist tracked on soundcheck, with 81 sets logged across Amsterdam, Barcelona, Berlin and Boston and 25 more. Often billed alongside Ma Sha, Batu and Doctor Jeep. Next up: Nowadays, Newyorkcity on Fri 31 Jul.
 
@@ -29,4 +29,4 @@ Ayesha is a techno and bass artist tracked on soundcheck, with 81 sets logged ac
 
 Ma Sha, Batu, Doctor Jeep
 
-*Updated Thu, 23 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/ayesha/)*
+*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/ayesha/)*

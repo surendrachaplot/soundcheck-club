@@ -1,6 +1,6 @@
 # Lucky Lube
 
-Lucky Lube is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Thu, 23 Jul 2026, next at Hangaren, Copenhagen on Fri, 24 Jul 2026.
+Lucky Lube is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Fri, 24 Jul 2026, next at Hangaren, Copenhagen on Fri, 24 Jul 2026.
 
 Lucky Lube is a techno and house artist based in Denmark, tracked on soundcheck, with 84 sets logged across Berlin, Brussels, Copenhagen and Dublin and 7 more. Often billed alongside Frederik Tollund, Baltza and Cockwhore & Macho. Next up: Hangaren, Copenhagen on Fri 24 Jul.
 
@@ -27,4 +27,4 @@ Lucky Lube is a techno and house artist based in Denmark, tracked on soundcheck,
 
 Frederik Tollund, Baltza, Cockwhore & Macho
 
-*Updated Thu, 23 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/luckylube/)*
+*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/luckylube/)*

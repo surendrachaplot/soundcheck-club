@@ -1,6 +1,6 @@
 # GAIVEU
 
-GAIVEU is a Techno and Acid artist with 2 upcoming club dates listed on soundcheck as of Thu, 23 Jul 2026, next at Solo Club Cascais, Lisbon on Fri, 24 Jul 2026.
+GAIVEU is a Techno and Acid artist with 2 upcoming club dates listed on soundcheck as of Fri, 24 Jul 2026, next at Solo Club Cascais, Lisbon on Fri, 24 Jul 2026.
 
 GAIVEU is a techno and acid artist tracked on soundcheck, with 44 sets logged across Berlin, Brussels, Lisbon and Porto. Often billed alongside Anastasiya Ty, Madson Carpenter and Ornella. Next up: Solo Club Cascais, Lisbon on Fri 24 Jul.
 
@@ -26,4 +26,4 @@ GAIVEU is a techno and acid artist tracked on soundcheck, with 44 sets logged ac
 
 Anastasiya Ty, Madson Carpenter, Ornella
 
-*Updated Thu, 23 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/gaiveu/)*
+*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/gaiveu/)*

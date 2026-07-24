@@ -1,6 +1,6 @@
 # YAAM Berlin
 
-YAAM Berlin is a music venue in Berlin with 3 upcoming nights listed on soundcheck as of Thu, 23 Jul 2026; the next is "Riot Flow" on Sat, 25 Jul 2026.
+YAAM Berlin is a music venue in Berlin with 3 upcoming nights listed on soundcheck as of Fri, 24 Jul 2026; the next is "Riot Flow" on Sat, 25 Jul 2026.
 
 YAAM Berlin is a music venue in Berlin listed on soundcheck. 3 upcoming nights, with line-ups including sterni (DE), KaraKara, LUISELLE and NIØ (DE) and 2 more. Browse upcoming dates, start times and who's playing. An der Schillingbrücke 3, 10243 Berlin, Germany.
 
@@ -16,4 +16,4 @@ YAAM Berlin is a music venue in Berlin listed on soundcheck. 3 upcoming nights, 
 
 An der Schillingbrücke 3, 10243 Berlin, Germany, Berlin
 
-*Updated Thu, 23 Jul 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/yaam-berlin/)*
+*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/yaam-berlin/)*

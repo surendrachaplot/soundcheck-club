@@ -1,6 +1,6 @@
 # Kaï (2)
 
-Kaï (2) is a Techno and Electro artist with 3 upcoming club dates listed on soundcheck as of Thu, 23 Jul 2026, next at The Iron Fairies Kuala Lumpur, Kuala Lumpur on Fri, 24 Jul 2026.
+Kaï (2) is a Techno and Electro artist with 3 upcoming club dates listed on soundcheck as of Fri, 24 Jul 2026, next at The Iron Fairies Kuala Lumpur, Kuala Lumpur on Fri, 24 Jul 2026.
 
 Kaï (2) is a techno and electro artist based in Malaysia, tracked on soundcheck, with 5 sets logged across Kualalumpur and Prague. Often billed alongside 7CIRCLE, Alejandro Molinari and Heuremin (MY). Next up: The Iron Fairies Kuala Lumpur, Kualalumpur on Fri 24 Jul.
 
@@ -21,4 +21,4 @@ Kaï (2) is a techno and electro artist based in Malaysia, tracked on soundcheck
 
 7CIRCLE, Alejandro Molinari, Heuremin (MY)
 
-*Updated Thu, 23 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/kaï-2/)*
+*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/kaï-2/)*

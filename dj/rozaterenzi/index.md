@@ -1,6 +1,6 @@
 # Roza Terenzi
 
-Roza Terenzi is a Techno and House artist with 7 upcoming club dates listed on soundcheck as of Thu, 23 Jul 2026, next at OXI, Berlin on Fri, 24 Jul 2026.
+Roza Terenzi is a Techno and House artist with 7 upcoming club dates listed on soundcheck as of Fri, 24 Jul 2026, next at OXI, Berlin on Fri, 24 Jul 2026.
 
 Roza Terenzi is a techno and house artist tracked on soundcheck, with 197 sets logged across Amsterdam, Athens, Auckland and Austin and 52 more. Often billed alongside ISAbella, D. Tiffany and THC. Next up: OXI, Berlin on Fri 24 Jul.
 
@@ -31,4 +31,4 @@ Roza Terenzi is a techno and house artist tracked on soundcheck, with 197 sets l
 
 ISAbella, D. Tiffany, THC
 
-*Updated Thu, 23 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/rozaterenzi/)*
+*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/rozaterenzi/)*

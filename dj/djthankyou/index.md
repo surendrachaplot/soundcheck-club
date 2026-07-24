@@ -1,6 +1,6 @@
 # DJ Thank You
 
-DJ Thank You is a Techno and Club artist with 2 upcoming club dates listed on soundcheck as of Thu, 23 Jul 2026, next at SILO, New York City on Sat, 25 Jul 2026.
+DJ Thank You is a Techno and Club artist with 2 upcoming club dates listed on soundcheck as of Fri, 24 Jul 2026, next at SILO, New York City on Sat, 25 Jul 2026.
 
 DJ Thank You is a techno and club artist tracked on soundcheck, with 94 sets logged across Chicago, Losangeles, Miami and Newyorkcity and 1 more. Often billed alongside Angel Money, DJ Sour and flirty800. Next up: SILO, Newyorkcity on Sat 25 Jul.
 
@@ -26,4 +26,4 @@ DJ Thank You is a techno and club artist tracked on soundcheck, with 94 sets log
 
 Angel Money, DJ Sour, flirty800
 
-*Updated Thu, 23 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/djthankyou/)*
+*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/djthankyou/)*

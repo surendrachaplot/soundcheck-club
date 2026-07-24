@@ -1,6 +1,6 @@
 # Ste Roberts
 
-Ste Roberts is a Techno and Electro artist with 2 upcoming club dates listed on soundcheck as of Thu, 23 Jul 2026, next at FOLD, London on Fri, 28 Aug 2026.
+Ste Roberts is a Techno and Electro artist with 2 upcoming club dates listed on soundcheck as of Fri, 24 Jul 2026, next at FOLD, London on Fri, 28 Aug 2026.
 
 Ste Roberts is a techno and electro artist based in United Kingdom, tracked on soundcheck, with 55 sets logged across Berlin, Bristol, Edinburgh and Leeds and 4 more. Often billed alongside Alien Communications, Jos and De La Reef. Next up: FOLD, London on Fri 28 Aug.
 
@@ -26,4 +26,4 @@ Ste Roberts is a techno and electro artist based in United Kingdom, tracked on s
 
 Alien Communications, Jos, De La Reef
 
-*Updated Thu, 23 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/steroberts/)*
+*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/steroberts/)*

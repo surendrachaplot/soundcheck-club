@@ -1,6 +1,6 @@
 # Bogart House
 
-Bogart House is a music venue in New York City with 3 upcoming nights listed on soundcheck as of Thu, 23 Jul 2026; the next is "NAACH x Sonance: Afterglow with SHARE, Justin Marchacos, Harji & Ksenyeah " on Sat, 25 Jul 2026.
+Bogart House is a music venue in New York City with 3 upcoming nights listed on soundcheck as of Fri, 24 Jul 2026; the next is "NAACH x Sonance: Afterglow with SHARE, Justin Marchacos, Harji & Ksenyeah " on Sat, 25 Jul 2026.
 
 Bogart House is a music venue in Newyorkcity listed on soundcheck. 3 upcoming nights, with line-ups including CEEJ, Harji, Justin Marchacos and Ksenyeah and 2 more. Browse upcoming dates, start times and who's playing. 230 Bogart St, Brooklyn, 11206.
 
@@ -16,4 +16,4 @@ Bogart House is a music venue in Newyorkcity listed on soundcheck. 3 upcoming ni
 
 230 Bogart St, Brooklyn, 11206, New York City
 
-*Updated Thu, 23 Jul 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/bogart-house/)*
+*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/bogart-house/)*

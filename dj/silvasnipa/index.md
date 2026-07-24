@@ -1,6 +1,6 @@
 # Silva Snipa
 
-Silva Snipa is a Jungle and Drum & Bass artist with 3 upcoming club dates listed on soundcheck as of Thu, 23 Jul 2026, next at UNO MALTA, Malta on Thu, 3 Sept 2026.
+Silva Snipa is a Jungle and Drum & Bass artist with 3 upcoming club dates listed on soundcheck as of Fri, 24 Jul 2026, next at UNO MALTA, Malta on Thu, 3 Sept 2026.
 
 Silva Snipa is a jungle and drum & bass artist based in United Kingdom, tracked on soundcheck, with 98 sets logged across Amsterdam, Birmingham, Brighton and Bristol and 10 more. Often billed alongside VXRGO, The Bass Injector and Janaway. Next up: UNO MALTA, Malta on Thu 3 Sept.
 
@@ -27,4 +27,4 @@ Silva Snipa is a jungle and drum & bass artist based in United Kingdom, tracked 
 
 VXRGO, The Bass Injector, Janaway
 
-*Updated Thu, 23 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/silvasnipa/)*
+*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/silvasnipa/)*

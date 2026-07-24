@@ -1,6 +1,6 @@
 # Libera
 
-Libera is a music venue in New York City with 1 upcoming night listed on soundcheck as of Thu, 23 Jul 2026; the next is "Garden Party presents: Camp Garden" on Sat, 1 Aug 2026.
+Libera is a music venue in New York City with 1 upcoming night listed on soundcheck as of Fri, 24 Jul 2026; the next is "Garden Party presents: Camp Garden" on Sat, 1 Aug 2026.
 
 Libera is a music venue in Newyorkcity listed on soundcheck. 1 upcoming night, with line-ups including ALI IRL and Will Garden. Browse upcoming dates, start times and who's playing. 20 W 29th St.
 
@@ -14,4 +14,4 @@ Libera is a music venue in Newyorkcity listed on soundcheck. 1 upcoming night, w
 
 20 W 29th St, New York City
 
-*Updated Thu, 23 Jul 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/libera/)*
+*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/libera/)*

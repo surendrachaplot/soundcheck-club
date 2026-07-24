@@ -1,6 +1,6 @@
 # Temple Bar
 
-Temple Bar is a music venue in Detroit with 2 upcoming nights listed on soundcheck as of Thu, 23 Jul 2026; the next is "Gworl: Nothing to Wear" on Fri, 31 Jul 2026.
+Temple Bar is a music venue in Detroit with 2 upcoming nights listed on soundcheck as of Fri, 24 Jul 2026; the next is "Gworl: Nothing to Wear" on Fri, 31 Jul 2026.
 
 Temple Bar is a music venue in Detroit listed on soundcheck. 2 upcoming nights, with line-ups including Charles Trees, Ginger Snap, Jorissen and Mr. Twista. Browse upcoming dates, start times and who's playing. 2906 Cass Avenue. Detroit, MI 48201-2636.
 
@@ -15,4 +15,4 @@ Temple Bar is a music venue in Detroit listed on soundcheck. 2 upcoming nights, 
 
 2906 Cass Avenue. Detroit, MI 48201-2636, Detroit
 
-*Updated Thu, 23 Jul 2026 · source: [soundcheck](https://soundcheck.club/detroit/club/temple-bar/)*
+*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/detroit/club/temple-bar/)*

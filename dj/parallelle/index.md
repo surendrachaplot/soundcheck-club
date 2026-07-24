@@ -1,6 +1,6 @@
 # Parallelle
 
-Parallelle is a House and Deep House artist with 3 upcoming club dates listed on soundcheck as of Thu, 23 Jul 2026, next at Chinois Ibiza, Ibiza on Sun, 2 Aug 2026.
+Parallelle is a House and Deep House artist with 3 upcoming club dates listed on soundcheck as of Fri, 24 Jul 2026, next at Chinois Ibiza, Ibiza on Sun, 2 Aug 2026.
 
 Parallelle is a house and deep house artist tracked on soundcheck, with 102 sets logged across Amsterdam, Austin, Barcelona and Basel and 25 more. Often billed alongside CamelPhat, DJ Tennis and Damian Lazarus. Next up: Chinois Ibiza, Ibiza on Sun 2 Aug.
 
@@ -27,4 +27,4 @@ Parallelle is a house and deep house artist tracked on soundcheck, with 102 sets
 
 CamelPhat, DJ Tennis, Damian Lazarus
 
-*Updated Thu, 23 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/parallelle/)*
+*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/parallelle/)*

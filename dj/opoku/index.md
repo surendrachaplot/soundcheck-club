@@ -1,6 +1,6 @@
 # Opoku
 
-Opoku is a Electronica and Experimental artist with 4 upcoming club dates listed on soundcheck as of Thu, 23 Jul 2026, next at Laska V21, Riga on Fri, 14 Aug 2026.
+Opoku is a Electronica and Experimental artist with 4 upcoming club dates listed on soundcheck as of Fri, 24 Jul 2026, next at Laska V21, Riga on Fri, 14 Aug 2026.
 
 Opoku is an electronica and experimental artist based in Spain, tracked on soundcheck, with 36 sets logged across Barcelona, Basel, Berlin and Brussels and 3 more. Often billed alongside Baba Sy, TNTC and B4mba. Next up: Laska V21, Riga on Fri 14 Aug.
 
@@ -28,4 +28,4 @@ Opoku is an electronica and experimental artist based in Spain, tracked on sound
 
 Baba Sy, TNTC, B4mba
 
-*Updated Thu, 23 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/opoku/)*
+*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/opoku/)*

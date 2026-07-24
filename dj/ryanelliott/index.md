@@ -1,6 +1,6 @@
 # Ryan Elliott
 
-Ryan Elliott is a House and Techno artist with 16 upcoming club dates listed on soundcheck as of Thu, 23 Jul 2026, next at Flevopark, Amsterdam on Sat, 25 Jul 2026.
+Ryan Elliott is a House and Techno artist with 16 upcoming club dates listed on soundcheck as of Fri, 24 Jul 2026, next at Flevopark, Amsterdam on Sat, 25 Jul 2026.
 
 Ryan Elliott is a house and techno artist tracked on soundcheck, with 234 sets logged across Amsterdam, Antwerp, Barcelona and Belfast and 56 more. Often billed alongside Ogazón, Christian AB and PARAMIDA. Next up: Flevopark, Amsterdam on Sat 25 Jul.
 
@@ -36,4 +36,4 @@ Ryan Elliott is a house and techno artist tracked on soundcheck, with 234 sets l
 
 Ogazón, Christian AB, PARAMIDA
 
-*Updated Thu, 23 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/ryanelliott/)*
+*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/ryanelliott/)*

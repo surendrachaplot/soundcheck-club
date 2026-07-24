@@ -1,6 +1,6 @@
 # Deon Jamar
 
-Deon Jamar is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Thu, 23 Jul 2026, next at TBA, Detroit on Fri, 24 Jul 2026.
+Deon Jamar is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Fri, 24 Jul 2026, next at TBA, Detroit on Fri, 24 Jul 2026.
 
 Deon Jamar is a house and techno artist based in United States of America, tracked on soundcheck, with 102 sets logged across Chicago, Copenhagen, Detroit and Losangeles and 4 more. Often billed alongside Meftah, Mickey Perez and Toribio. Next up: TBA, Detroit on Fri 24 Jul.
 
@@ -26,4 +26,4 @@ Deon Jamar is a house and techno artist based in United States of America, track
 
 Meftah, Mickey Perez, Toribio
 
-*Updated Thu, 23 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/deonjamar/)*
+*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/deonjamar/)*

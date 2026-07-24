@@ -1,6 +1,6 @@
 # House Party
 
-House Party is a music venue in London with 2 upcoming nights listed on soundcheck as of Thu, 23 Jul 2026; the next is "Gin & Juice: For The Culture, Soho" on Sat, 1 Aug 2026.
+House Party is a music venue in London with 2 upcoming nights listed on soundcheck as of Fri, 24 Jul 2026; the next is "Gin & Juice: For The Culture, Soho" on Sat, 1 Aug 2026.
 
 House Party is a music venue in London listed on soundcheck. 2 upcoming nights. Browse upcoming dates, start times and who's playing. 61 Poland St, London W1F 7NU.
 
@@ -15,4 +15,4 @@ House Party is a music venue in London listed on soundcheck. 2 upcoming nights. 
 
 61 Poland St, London W1F 7NU, London
 
-*Updated Thu, 23 Jul 2026 · source: [soundcheck](https://soundcheck.club/london/club/house-party/)*
+*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/london/club/house-party/)*

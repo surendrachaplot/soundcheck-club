@@ -1,6 +1,6 @@
 # Lamache
 
-Lamache is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Thu, 23 Jul 2026, next at La Cité des Arts de la Rue, Marseille on Sat, 25 Jul 2026.
+Lamache is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Fri, 24 Jul 2026, next at La Cité des Arts de la Rue, Marseille on Sat, 25 Jul 2026.
 
 Lamache is a house and techno artist tracked on soundcheck, with 104 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 31 more. Often billed alongside Aline Umber, Automatic Writing and Aline Brooklyn. Next up: La Cité des Arts de la Rue, Marseille on Sat 25 Jul.
 
@@ -27,4 +27,4 @@ Lamache is a house and techno artist tracked on soundcheck, with 104 sets logged
 
 Aline Umber, Automatic Writing, Aline Brooklyn
 
-*Updated Thu, 23 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/lamache/)*
+*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/lamache/)*

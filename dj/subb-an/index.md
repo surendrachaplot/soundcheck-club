@@ -1,6 +1,6 @@
 # Subb-an
 
-Subb-an is a House and Tech House artist with 2 upcoming club dates listed on soundcheck as of Thu, 23 Jul 2026, next at Sophie Festival, Malaga on Sat, 25 Jul 2026.
+Subb-an is a House and Tech House artist with 2 upcoming club dates listed on soundcheck as of Fri, 24 Jul 2026, next at Sophie Festival, Malaga on Sat, 25 Jul 2026.
 
 Subb-an is a house and tech house artist tracked on soundcheck, with 52 sets logged across Amsterdam, Auckland, Barcelona and Berlin and 21 more. Often billed alongside Anika Kunst, Bunny and Croft (1). Next up: Sophie Festival, Malaga on Sat 25 Jul.
 
@@ -26,4 +26,4 @@ Subb-an is a house and tech house artist tracked on soundcheck, with 52 sets log
 
 Anika Kunst, Bunny, Croft (1)
 
-*Updated Thu, 23 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/subb-an/)*
+*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/subb-an/)*

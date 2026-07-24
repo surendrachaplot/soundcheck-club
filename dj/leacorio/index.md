@@ -1,6 +1,6 @@
 # Lea Corio
 
-Lea Corio is a Deep House and House artist with 3 upcoming club dates listed on soundcheck as of Thu, 23 Jul 2026, next at Macarena Club, Barcelona on Sat, 25 Jul 2026.
+Lea Corio is a Deep House and House artist with 3 upcoming club dates listed on soundcheck as of Fri, 24 Jul 2026, next at Macarena Club, Barcelona on Sat, 25 Jul 2026.
 
 Lea Corio is a deep house and house artist based in Argentina, tracked on soundcheck, with 29 sets logged across Barcelona and Copenhagen. Often billed alongside Manu López Sound, Andrea Castells and Frucula. Next up: Macarena Club, Barcelona on Sat 25 Jul.
 
@@ -27,4 +27,4 @@ Lea Corio is a deep house and house artist based in Argentina, tracked on soundc
 
 Manu López Sound, Andrea Castells, Frucula
 
-*Updated Thu, 23 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/leacorio/)*
+*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/leacorio/)*

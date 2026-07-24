@@ -1,6 +1,6 @@
 # Apache
 
-Apache is a Afro House and House artist with 3 upcoming club dates listed on soundcheck as of Thu, 23 Jul 2026, next at Level 8 DTLA, Los Angeles on Sat, 19 Sept 2026.
+Apache is a Afro House and House artist with 3 upcoming club dates listed on soundcheck as of Fri, 24 Jul 2026, next at Level 8 DTLA, Los Angeles on Sat, 19 Sept 2026.
 
 Apache is an afro house and house artist based in France, tracked on soundcheck, with 46 sets logged across Austin, Bali, Basel and Buenosaires and 12 more. Often billed alongside Kamcoco, Malone and Vanjee. Next up: Level 8 DTLA, Losangeles on Sat 19 Sept.
 
@@ -27,4 +27,4 @@ Apache is an afro house and house artist based in France, tracked on soundcheck,
 
 Kamcoco, Malone, Vanjee
 
-*Updated Thu, 23 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/apache/)*
+*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/apache/)*

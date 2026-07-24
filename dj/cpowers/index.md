@@ -1,6 +1,6 @@
 # C Powers
 
-C Powers is a Techno and House artist with 4 upcoming club dates listed on soundcheck as of Thu, 23 Jul 2026, next at White Owl Social Club, Portland on Sun, 26 Jul 2026.
+C Powers is a Techno and House artist with 4 upcoming club dates listed on soundcheck as of Fri, 24 Jul 2026, next at White Owl Social Club, Portland on Sun, 26 Jul 2026.
 
 C Powers is a techno and house artist based in United States of America, tracked on soundcheck, with 22 sets logged across Newyorkcity, Portland, Sanfrancisco and Washingtondc. Often billed alongside Nick Boyd, Pacer and Scotia. Next up: White Owl Social Club, Portland on Sun 26 Jul.
 
@@ -28,4 +28,4 @@ C Powers is a techno and house artist based in United States of America, tracked
 
 Nick Boyd, Pacer, Scotia
 
-*Updated Thu, 23 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/cpowers/)*
+*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/cpowers/)*

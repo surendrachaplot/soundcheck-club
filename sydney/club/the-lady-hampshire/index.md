@@ -1,6 +1,6 @@
 # The Lady Hampshire
 
-The Lady Hampshire is a music venue in Sydney with 1 upcoming night listed on soundcheck as of Thu, 23 Jul 2026; the next is "Back To Funk Winter BBQ Sessions" on Sat, 29 Aug 2026.
+The Lady Hampshire is a music venue in Sydney with 1 upcoming night listed on soundcheck as of Fri, 24 Jul 2026; the next is "Back To Funk Winter BBQ Sessions" on Sat, 29 Aug 2026.
 
 The Lady Hampshire is a music venue in Sydney listed on soundcheck. 1 upcoming night. Browse upcoming dates, start times and who's playing. 91 Parramatta Road, Camperdown, NSW 2050, Sydney.
 
@@ -14,4 +14,4 @@ The Lady Hampshire is a music venue in Sydney listed on soundcheck. 1 upcoming n
 
 91 Parramatta Road, Camperdown, NSW 2050, Sydney, Sydney
 
-*Updated Thu, 23 Jul 2026 · source: [soundcheck](https://soundcheck.club/sydney/club/the-lady-hampshire/)*
+*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/sydney/club/the-lady-hampshire/)*

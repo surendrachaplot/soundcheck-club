@@ -1,6 +1,6 @@
 # MARIHO
 
-MARIHO is a Psytrance and Techno artist with 2 upcoming club dates listed on soundcheck as of Thu, 23 Jul 2026, next at rake?raka?, Osaka on Sat, 25 Jul 2026.
+MARIHO is a Psytrance and Techno artist with 2 upcoming club dates listed on soundcheck as of Fri, 24 Jul 2026, next at rake?raka?, Osaka on Sat, 25 Jul 2026.
 
 MARIHO is a psytrance and techno artist based in Japan, tracked on soundcheck, with 47 sets logged across Osaka and Tokyo. Often billed alongside C!AO, Tom Monkey and O-MAN. Next up: rake?raka?, Osaka on Sat 25 Jul.
 
@@ -26,4 +26,4 @@ MARIHO is a psytrance and techno artist based in Japan, tracked on soundcheck, w
 
 C!AO, Tom Monkey, O-MAN
 
-*Updated Thu, 23 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/mariho/)*
+*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/mariho/)*

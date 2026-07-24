@@ -1,6 +1,6 @@
 # kitapon
 
-kitapon is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Thu, 23 Jul 2026, next at West Harlem, Kyoto on Sun, 26 Jul 2026.
+kitapon is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Fri, 24 Jul 2026, next at West Harlem, Kyoto on Sun, 26 Jul 2026.
 
 kitapon is a house and techno artist tracked on soundcheck, with 90 sets logged across Kyoto, Osaka and Tokyo. Often billed alongside Lomax, droove and Ryogo. Next up: West Harlem, Kyoto on Sun 26 Jul.
 
@@ -26,4 +26,4 @@ kitapon is a house and techno artist tracked on soundcheck, with 90 sets logged 
 
 Lomax, droove, Ryogo
 
-*Updated Thu, 23 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/kitapon/)*
+*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/kitapon/)*

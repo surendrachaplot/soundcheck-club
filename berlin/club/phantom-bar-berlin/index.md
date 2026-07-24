@@ -1,14 +1,13 @@
 # Phantom Bar Berlin
 
-Phantom Bar Berlin is a music venue in Berlin with 6 upcoming nights listed on soundcheck as of Thu, 23 Jul 2026; the next is "Honest Work " on Thu, 23 Jul 2026.
+Phantom Bar Berlin is a music venue in Berlin with 5 upcoming nights listed on soundcheck as of Fri, 24 Jul 2026; the next is "Phantom invites M¥SS KETA, Domiziana B2B Luvhunter, DBBD, TYJAH" on Fri, 24 Jul 2026.
 
-Phantom Bar Berlin is a music venue in Berlin listed on soundcheck. 6 upcoming nights, with line-ups including A6IIR, Alinka, Berlin Bunny and Chris Liebing and 2 more. Browse upcoming dates, start times and who's playing. Torstraße 231, 10115 Berlin Germany.
+Phantom Bar Berlin is a music venue in Berlin listed on soundcheck. 5 upcoming nights, with line-ups including A6IIR, Alinka, Berlin Bunny and Chris Liebing and 2 more. Browse upcoming dates, start times and who's playing. Torstraße 231, 10115 Berlin Germany.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Thu, 23 Jul 2026 | Honest Work  | Immy, John Crosby |
 | Fri, 24 Jul 2026 | Phantom invites M¥SS KETA, Domiziana B2B Luvhunter, DBBD, TYJAH | DBBD, MYSS KETA, TYJAH |
 | Sat, 25 Jul 2026 | De Reünie x Hyper Dreams - CSD AFTERPARTY | Cryptofauna, Cybersex, DJ KILLING, DREAMINSLOW, Darius The Barbarian |
 | Thu, 30 Jul 2026 | Keyi Magazine Fundraiser with Chris Liebing, Alinka, Eyes Dice & Berlin Bunny and More | A6IIR, Alinka, Berlin Bunny, CYRK, Chris Liebing, Eyesdice, HASLA, Paty Vapor, Short Finger, UN/SER, VOID (KR) |
@@ -19,4 +18,4 @@ Phantom Bar Berlin is a music venue in Berlin listed on soundcheck. 6 upcoming n
 
 Torstraße 231, 10115 Berlin Germany, Berlin
 
-*Updated Thu, 23 Jul 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/phantom-bar-berlin/)*
+*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/phantom-bar-berlin/)*

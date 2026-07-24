@@ -1,6 +1,6 @@
 # Midirama
 
-Midirama is a Techno and Acid artist with 2 upcoming club dates listed on soundcheck as of Thu, 23 Jul 2026, next at Fuchs2, Prague on Fri, 24 Jul 2026.
+Midirama is a Techno and Acid artist with 2 upcoming club dates listed on soundcheck as of Fri, 24 Jul 2026, next at Fuchs2, Prague on Fri, 24 Jul 2026.
 
 Midirama is a techno and acid artist tracked on soundcheck, with 65 sets logged across Berlin, Prague and Riga. Often billed alongside Groove Daniel, Raphael Kosmos and Zuzana Hakl. Next up: Fuchs2, Prague on Fri 24 Jul.
 
@@ -26,4 +26,4 @@ Midirama is a techno and acid artist tracked on soundcheck, with 65 sets logged 
 
 Groove Daniel, Raphael Kosmos, Zuzana Hakl
 
-*Updated Thu, 23 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/midirama/)*
+*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/midirama/)*

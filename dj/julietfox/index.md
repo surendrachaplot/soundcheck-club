@@ -1,6 +1,6 @@
 # Juliet Fox
 
-Juliet Fox is a Techno and House artist with 6 upcoming club dates listed on soundcheck as of Thu, 23 Jul 2026, next at Spazio Cavea, Rome on Sat, 25 Jul 2026.
+Juliet Fox is a Techno and House artist with 6 upcoming club dates listed on soundcheck as of Fri, 24 Jul 2026, next at Spazio Cavea, Rome on Sat, 25 Jul 2026.
 
 Juliet Fox is a techno and house artist tracked on soundcheck, with 108 sets logged across Amsterdam, Austin, Bangkok and Barcelona and 38 more. Often billed alongside Adam Beyer, Layton Giordani and Eli Brown. Next up: Spazio Cavea, Rome on Sat 25 Jul.
 
@@ -30,4 +30,4 @@ Juliet Fox is a techno and house artist tracked on soundcheck, with 108 sets log
 
 Adam Beyer, Layton Giordani, Eli Brown
 
-*Updated Thu, 23 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/julietfox/)*
+*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/julietfox/)*

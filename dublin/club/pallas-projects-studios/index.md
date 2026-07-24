@@ -1,6 +1,6 @@
 # Pallas Projects Studios
 
-Pallas Projects Studios is a music venue in Dublin with 3 upcoming nights listed on soundcheck as of Thu, 23 Jul 2026; the next is "STRICTLY SUMMER BIZNESS #3" on Sat, 8 Aug 2026.
+Pallas Projects Studios is a music venue in Dublin with 3 upcoming nights listed on soundcheck as of Fri, 24 Jul 2026; the next is "STRICTLY SUMMER BIZNESS #3" on Sat, 8 Aug 2026.
 
 Pallas Projects Studios is a music venue in Dublin listed on soundcheck. 3 upcoming nights, with line-ups including BÁHDO, Bull Horris, DJ Egg and JWY (1) and 2 more. Browse upcoming dates, start times and who's playing. 115–117 The Coombe, The Liberties, Dublin 8, Ireland.
 
@@ -16,4 +16,4 @@ Pallas Projects Studios is a music venue in Dublin listed on soundcheck. 3 upcom
 
 115–117 The Coombe, The Liberties, Dublin 8, Ireland, Dublin
 
-*Updated Thu, 23 Jul 2026 · source: [soundcheck](https://soundcheck.club/dublin/club/pallas-projects-studios/)*
+*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/dublin/club/pallas-projects-studios/)*

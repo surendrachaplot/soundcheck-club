@@ -1,6 +1,6 @@
 # Nicky Macha
 
-Nicky Macha is a Electro and House artist with 2 upcoming club dates listed on soundcheck as of Thu, 23 Jul 2026, next at Les Enfants Brillants, Barcelona on Sat, 25 Jul 2026.
+Nicky Macha is a Electro and House artist with 2 upcoming club dates listed on soundcheck as of Fri, 24 Jul 2026, next at Les Enfants Brillants, Barcelona on Sat, 25 Jul 2026.
 
 Nicky Macha is an electro and house artist based in United Kingdom, tracked on soundcheck, with 42 sets logged across Barcelona, Berlin, Boston and Brussels and 10 more. Often billed alongside Kensa, Gabbs and Philo (IT). Next up: Les Enfants Brillants, Barcelona on Sat 25 Jul.
 
@@ -26,4 +26,4 @@ Nicky Macha is an electro and house artist based in United Kingdom, tracked on s
 
 Kensa, Gabbs, Philo (IT)
 
-*Updated Thu, 23 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/nickymacha/)*
+*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/nickymacha/)*

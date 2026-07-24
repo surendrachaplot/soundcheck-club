@@ -1,6 +1,6 @@
 # Hugorieri
 
-Hugorieri is a House and Techno artist with 4 upcoming club dates listed on soundcheck as of Thu, 23 Jul 2026, next at Czech Boat, Prague on Sat, 1 Aug 2026.
+Hugorieri is a House and Techno artist with 4 upcoming club dates listed on soundcheck as of Fri, 24 Jul 2026, next at Czech Boat, Prague on Sat, 1 Aug 2026.
 
 Hugorieri is a house and techno artist based in Czech Republic, tracked on soundcheck, with 61 sets logged across Berlin and Prague. Often billed alongside Ondrej K, Blackloud and DJ Lumiere. Next up: Czech Boat, Prague on Sat 1 Aug.
 
@@ -28,4 +28,4 @@ Hugorieri is a house and techno artist based in Czech Republic, tracked on sound
 
 Ondrej K, Blackloud, DJ Lumiere
 
-*Updated Thu, 23 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/hugorieri/)*
+*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/hugorieri/)*

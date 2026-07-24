@@ -1,6 +1,6 @@
 # Mariano DC
 
-Mariano DC is a Techno and Club artist with 2 upcoming club dates listed on soundcheck as of Thu, 23 Jul 2026, next at Under Club, Buenos Aires on Fri, 24 Jul 2026.
+Mariano DC is a Techno and Club artist with 2 upcoming club dates listed on soundcheck as of Fri, 24 Jul 2026, next at Under Club, Buenos Aires on Fri, 24 Jul 2026.
 
 Mariano DC is a techno and club artist tracked on soundcheck, with 56 sets logged across Barcelona, Berlin, Buenosaires and Ibiza and 4 more. Often billed alongside Faustø, Cia Rebeck and Bruno Ledesma. Next up: Under Club, Buenosaires on Fri 24 Jul.
 
@@ -26,4 +26,4 @@ Mariano DC is a techno and club artist tracked on soundcheck, with 56 sets logge
 
 Faustø, Cia Rebeck, Bruno Ledesma
 
-*Updated Thu, 23 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/marianodc/)*
+*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/marianodc/)*

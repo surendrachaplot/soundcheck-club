@@ -1,6 +1,6 @@
 # Nether Club
 
-Nether Club is a music venue in Bucharest with 11 upcoming nights listed on soundcheck as of Thu, 23 Jul 2026; the next is "THE DEVIL IS BACK w/ NTHR, Gheordu, MANDRAGORA, Project Morpheus" on Fri, 24 Jul 2026.
+Nether Club is a music venue in Bucharest with 11 upcoming nights listed on soundcheck as of Fri, 24 Jul 2026; the next is "THE DEVIL IS BACK w/ NTHR, Gheordu, MANDRAGORA, Project Morpheus" on Fri, 24 Jul 2026.
 
 Nether Club is a music venue in Bucharest listed on soundcheck. 11 upcoming nights, with line-ups including AMEDEUS, Amnesico, BUTCHER BABY and DA NA and 2 more. Browse upcoming dates, start times and who's playing. Calea Victoriei nr 48 50, București, Romania.
 
@@ -23,4 +23,4 @@ Nether Club is a music venue in Bucharest listed on soundcheck. 11 upcoming nigh
 
 Calea Victoriei nr 48 50, București, Romania, Bucharest
 
-*Updated Thu, 23 Jul 2026 · source: [soundcheck](https://soundcheck.club/bucharest/club/nether-club/)*
+*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/bucharest/club/nether-club/)*

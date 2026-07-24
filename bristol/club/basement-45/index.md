@@ -1,6 +1,6 @@
 # Basement 45
 
-Basement 45 is a music venue in Bristol with 3 upcoming nights listed on soundcheck as of Thu, 23 Jul 2026; the next is "3 YEARS OF SAFE AS F*CK" on Fri, 31 Jul 2026.
+Basement 45 is a music venue in Bristol with 3 upcoming nights listed on soundcheck as of Fri, 24 Jul 2026; the next is "3 YEARS OF SAFE AS F*CK" on Fri, 31 Jul 2026.
 
 Basement 45 is a music venue in Bristol listed on soundcheck. 3 upcoming nights. Browse upcoming dates, start times and who's playing. 8 Frogmore Street; Bristol; BS1 5NA, United Kingdom.
 
@@ -16,4 +16,4 @@ Basement 45 is a music venue in Bristol listed on soundcheck. 3 upcoming nights.
 
 8 Frogmore Street; Bristol; BS1 5NA, United Kingdom, Bristol
 
-*Updated Thu, 23 Jul 2026 · source: [soundcheck](https://soundcheck.club/bristol/club/basement-45/)*
+*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/bristol/club/basement-45/)*

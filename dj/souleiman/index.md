@@ -1,6 +1,6 @@
 # Souleiman
 
-Souleiman is a Techno artist with 3 upcoming club dates listed on soundcheck as of Thu, 23 Jul 2026, next at Illegaal, Brussels on Sun, 26 Jul 2026.
+Souleiman is a Techno artist with 3 upcoming club dates listed on soundcheck as of Fri, 24 Jul 2026, next at Illegaal, Brussels on Sun, 26 Jul 2026.
 
 Souleiman is a techno artist based in Belgium, tracked on soundcheck, with 30 sets logged across Antwerp, Brussels, Ghent and Milan. Often billed alongside Sonhan, Fais Le Beau and Marie-Julie. Next up: Illegaal, Brussels on Sun 26 Jul.
 
@@ -27,4 +27,4 @@ Souleiman is a techno artist based in Belgium, tracked on soundcheck, with 30 se
 
 Sonhan, Fais Le Beau, Marie-Julie
 
-*Updated Thu, 23 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/souleiman/)*
+*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/souleiman/)*

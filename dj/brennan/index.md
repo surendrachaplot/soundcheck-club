@@ -1,6 +1,6 @@
 # Brennan
 
-Brennan is a House and Tech House artist with 3 upcoming club dates listed on soundcheck as of Thu, 23 Jul 2026, next at NUMBER 90 LONDON, London on Sat, 25 Jul 2026.
+Brennan is a House and Tech House artist with 3 upcoming club dates listed on soundcheck as of Fri, 24 Jul 2026, next at NUMBER 90 LONDON, London on Sat, 25 Jul 2026.
 
 Brennan is a house and tech house artist based in United Kingdom, tracked on soundcheck, with 21 sets logged across Barcelona, Ibiza, London and Madrid and 2 more. Often billed alongside Ferg, James Andrew and Allius. Next up: NUMBER 90 LONDON, London on Sat 25 Jul.
 
@@ -27,4 +27,4 @@ Brennan is a house and tech house artist based in United Kingdom, tracked on sou
 
 Ferg, James Andrew, Allius
 
-*Updated Thu, 23 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/brennan/)*
+*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/brennan/)*

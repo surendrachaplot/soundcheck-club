@@ -1,6 +1,6 @@
 # Claudia Kane
 
-Claudia Kane is a EBM and Italo Disco artist with 4 upcoming club dates listed on soundcheck as of Thu, 23 Jul 2026, next at The Old Church, London on Sat, 25 Jul 2026.
+Claudia Kane is a EBM and Italo Disco artist with 4 upcoming club dates listed on soundcheck as of Fri, 24 Jul 2026, next at The Old Church, London on Sat, 25 Jul 2026.
 
 Claudia Kane is an ebm and italo disco artist based in United Kingdom, tracked on soundcheck, with 22 sets logged across London. Often billed alongside Ricardo Castro, Arrosa and JON KRIEGER. Next up: The Old Church, London on Sat 25 Jul.
 
@@ -28,4 +28,4 @@ Claudia Kane is an ebm and italo disco artist based in United Kingdom, tracked o
 
 Ricardo Castro, Arrosa, JON KRIEGER
 
-*Updated Thu, 23 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/claudiakane/)*
+*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/claudiakane/)*

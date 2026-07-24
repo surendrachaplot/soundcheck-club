@@ -1,6 +1,6 @@
 # Call Super
 
-Call Super is a Techno and House artist with 12 upcoming club dates listed on soundcheck as of Thu, 23 Jul 2026, next at Sophie Festival, Malaga on Sat, 25 Jul 2026.
+Call Super is a Techno and House artist with 12 upcoming club dates listed on soundcheck as of Fri, 24 Jul 2026, next at Sophie Festival, Malaga on Sat, 25 Jul 2026.
 
 Call Super is a techno and house artist tracked on soundcheck, with 204 sets logged across Amsterdam, Antwerp, Bali and Barcelona and 61 more. Often billed alongside Anz, Shanti Celeste and Objekt. Next up: Sophie Festival, Malaga on Sat 25 Jul.
 
@@ -36,4 +36,4 @@ Call Super is a techno and house artist tracked on soundcheck, with 204 sets log
 
 Anz, Shanti Celeste, Objekt
 
-*Updated Thu, 23 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/callsuper/)*
+*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/callsuper/)*

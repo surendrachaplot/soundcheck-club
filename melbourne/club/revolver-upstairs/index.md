@@ -1,14 +1,13 @@
 # Revolver Upstairs
 
-Revolver Upstairs is a music venue in Melbourne with 23 upcoming nights listed on soundcheck as of Thu, 23 Jul 2026; the next is "3181 Thursdays" on Thu, 23 Jul 2026.
+Revolver Upstairs is a music venue in Melbourne with 22 upcoming nights listed on soundcheck as of Fri, 24 Jul 2026; the next is "Love, Jess: 'A drifter's gospel' EP Launch — Proponent Records" on Fri, 24 Jul 2026.
 
-Revolver Upstairs is a music venue in Melbourne listed on soundcheck. 23 upcoming nights, with line-ups including 3rd Orbit, Acid Safari, Alex Wann and archiLo and 2 more. Browse upcoming dates, start times and who's playing. 229 Chapel St, Prahran VIC 3181, Australia.
+Revolver Upstairs is a music venue in Melbourne listed on soundcheck. 22 upcoming nights, with line-ups including 3rd Orbit, Acid Safari, Alex Wann and archiLo and 2 more. Browse upcoming dates, start times and who's playing. 229 Chapel St, Prahran VIC 3181, Australia.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Thu, 23 Jul 2026 | 3181 Thursdays |  |
 | Fri, 24 Jul 2026 | Love, Jess: 'A drifter's gospel' EP Launch — Proponent Records | BDE, Common Tribe, Lost Memories, Love, Jess |
 | Fri, 24 Jul 2026 | Revolver Fridays | Mike Callander |
 | Sat, 25 Jul 2026 | Rise & Shine | Sunshine |
@@ -18,9 +17,10 @@ Revolver Upstairs is a music venue in Melbourne listed on soundcheck. 23 upcomin
 | Fri, 31 Jul 2026 | Dirty South (AU) — Ugenius | Dirty South, The Journey |
 | Sun, 2 Aug 2026 | Maxi Meraki (BE) - Winter Series pres. by Thick As Thieves | Ben Silver, Boogs, Bridget, Haylo, KELLY TEE, Maxi Meraki, Perka, Spacey Space |
 | Fri, 7 Aug 2026 | Our Garage x Revolver Fridays | Acid Safari, Bby Cass, Claddy, Eluize, Mike Callander, Syrup |
+| Sat, 8 Aug 2026 | REVOLVER BANDROOM: Canvas Collective — presents (DE)GENERATE |  |
 
 ## Address
 
 229 Chapel St, Prahran VIC 3181, Australia, Melbourne
 
-*Updated Thu, 23 Jul 2026 · source: [soundcheck](https://soundcheck.club/melbourne/club/revolver-upstairs/)*
+*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/melbourne/club/revolver-upstairs/)*

@@ -1,6 +1,6 @@
 # DJ Storm (2)
 
-DJ Storm (2) is a Jungle and Drum & Bass artist with 3 upcoming club dates listed on soundcheck as of Thu, 23 Jul 2026, next at Boston Manor Park, London on Fri, 31 Jul 2026.
+DJ Storm (2) is a Jungle and Drum & Bass artist with 3 upcoming club dates listed on soundcheck as of Fri, 24 Jul 2026, next at Boston Manor Park, London on Fri, 31 Jul 2026.
 
 DJ Storm (2) is a jungle and drum & bass artist based in Italy, tracked on soundcheck, with 13 sets logged across Amsterdam, Barcelona, Bristol and London and 3 more. Often billed alongside DJ Flight, Bakey and Darwin. Next up: Boston Manor Park, London on Fri 31 Jul.
 
@@ -27,4 +27,4 @@ DJ Storm (2) is a jungle and drum & bass artist based in Italy, tracked on sound
 
 DJ Flight, Bakey, Darwin
 
-*Updated Thu, 23 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/djstorm-2/)*
+*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/djstorm-2/)*

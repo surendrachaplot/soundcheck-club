@@ -1,6 +1,6 @@
 # TTX (GER)
 
-TTX (GER) is a House and Breakbeat artist with 5 upcoming club dates listed on soundcheck as of Thu, 23 Jul 2026, next at Slot, Hamburg on Sat, 25 Jul 2026.
+TTX (GER) is a House and Breakbeat artist with 5 upcoming club dates listed on soundcheck as of Fri, 24 Jul 2026, next at Slot, Hamburg on Sat, 25 Jul 2026.
 
 TTX (GER) is a house and breakbeat artist based in Germany, tracked on soundcheck, with 24 sets logged across Hamburg. Often billed alongside Tana (2), DJ Babyblade and DJ Hochzeit. Next up: Slot, Hamburg on Sat 25 Jul.
 
@@ -29,4 +29,4 @@ TTX (GER) is a house and breakbeat artist based in Germany, tracked on soundchec
 
 Tana (2), DJ Babyblade, DJ Hochzeit
 
-*Updated Thu, 23 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/ttxger/)*
+*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/ttxger/)*

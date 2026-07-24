@@ -1,6 +1,6 @@
 # Lab.Club
 
-Lab.Club is a music venue in London with 3 upcoming nights listed on soundcheck as of Thu, 23 Jul 2026; the next is "Lab.Club x Faded: OPEN DECKS (Standard slots)" on Thu, 13 Aug 2026.
+Lab.Club is a music venue in London with 3 upcoming nights listed on soundcheck as of Fri, 24 Jul 2026; the next is "Lab.Club x Faded: OPEN DECKS (Standard slots)" on Thu, 13 Aug 2026.
 
 Lab.Club is a music venue in London listed on soundcheck. 3 upcoming nights, with line-ups including Faded Society. Browse upcoming dates, start times and who's playing. Ground Floor, 189 Shoreditch High St, London E1 6HU.
 
@@ -16,4 +16,4 @@ Lab.Club is a music venue in London listed on soundcheck. 3 upcoming nights, wit
 
 Ground Floor, 189 Shoreditch High St, London E1 6HU, London
 
-*Updated Thu, 23 Jul 2026 · source: [soundcheck](https://soundcheck.club/london/club/lab-club/)*
+*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/london/club/lab-club/)*

@@ -1,8 +1,8 @@
 # Good Room
 
-Good Room is a music venue in New York City with 11 upcoming nights listed on soundcheck as of Thu, 23 Jul 2026; the next is "Members Party: Lloyd (all night), Lauren Murada, Party Dad" on Fri, 24 Jul 2026.
+Good Room is a music venue in New York City with 12 upcoming nights listed on soundcheck as of Fri, 24 Jul 2026; the next is "Members Party: Lloyd (all night), Lauren Murada, Party Dad" on Fri, 24 Jul 2026.
 
-Good Room is a music venue in Newyorkcity listed on soundcheck. 11 upcoming nights, with line-ups including 4AM NYC, Amelia Holt, Anish Kumar and Armii1n and 2 more. Browse upcoming dates, start times and who's playing. 98 Meserole Ave, Brooklyn, NY 11222 USA.
+Good Room is a music venue in Newyorkcity listed on soundcheck. 12 upcoming nights, with line-ups including 4AM NYC, Amelia Holt, Anish Kumar and Armii1n and 2 more. Browse upcoming dates, start times and who's playing. 98 Meserole Ave, Brooklyn, NY 11222 USA.
 
 ## What's on
 
@@ -23,4 +23,4 @@ Good Room is a music venue in Newyorkcity listed on soundcheck. 11 upcoming nigh
 
 98 Meserole Ave, Brooklyn, NY 11222 USA, New York City
 
-*Updated Thu, 23 Jul 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/good-room/)*
+*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/good-room/)*

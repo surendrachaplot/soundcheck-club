@@ -1,6 +1,6 @@
 # Ueberrest
 
-Ueberrest is a Techno and Trance artist with 14 upcoming club dates listed on soundcheck as of Thu, 23 Jul 2026, next at Rebstockpark, Frankfurt on Sat, 25 Jul 2026.
+Ueberrest is a Techno and Trance artist with 14 upcoming club dates listed on soundcheck as of Fri, 24 Jul 2026, next at Rebstockpark, Frankfurt on Sat, 25 Jul 2026.
 
 Ueberrest is a techno and trance artist tracked on soundcheck, with 82 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 35 more. Often billed alongside Kobosil, Somewhen and KUKO. Next up: Rebstockpark, Frankfurt on Sat 25 Jul.
 
@@ -36,4 +36,4 @@ Ueberrest is a techno and trance artist tracked on soundcheck, with 82 sets logg
 
 Kobosil, Somewhen, KUKO
 
-*Updated Thu, 23 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/ueberrest/)*
+*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/ueberrest/)*

@@ -1,6 +1,6 @@
 # TRIPTYKH
 
-TRIPTYKH is a Techno and Industrial artist with 5 upcoming club dates listed on soundcheck as of Thu, 23 Jul 2026, next at Club de Pescadores Buenos Aires, Buenos Aires on Sat, 25 Jul 2026.
+TRIPTYKH is a Techno and Industrial artist with 5 upcoming club dates listed on soundcheck as of Fri, 24 Jul 2026, next at Club de Pescadores Buenos Aires, Buenos Aires on Sat, 25 Jul 2026.
 
 TRIPTYKH is a techno and industrial artist based in United States of America, tracked on soundcheck, with 44 sets logged across Antwerp, Auckland, Austin and Barcelona and 26 more. Often billed alongside Aiden (DE), Kobosil and Ornella. Next up: Club de Pescadores Buenos Aires, Buenosaires on Sat 25 Jul.
 
@@ -29,4 +29,4 @@ TRIPTYKH is a techno and industrial artist based in United States of America, tr
 
 Aiden (DE), Kobosil, Ornella
 
-*Updated Thu, 23 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/triptykh/)*
+*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/triptykh/)*

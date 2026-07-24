@@ -1,6 +1,6 @@
 # Pender Street Steppers
 
-Pender Street Steppers is a House and Disco artist with 2 upcoming club dates listed on soundcheck as of Thu, 23 Jul 2026, next at Phono Lake, Amsterdam on Sat, 12 Sept 2026.
+Pender Street Steppers is a House and Disco artist with 2 upcoming club dates listed on soundcheck as of Fri, 24 Jul 2026, next at Phono Lake, Amsterdam on Sat, 12 Sept 2026.
 
 Pender Street Steppers is a house and disco artist tracked on soundcheck, with 52 sets logged across Amsterdam, Austin, Bristol and London and 12 more. Often billed alongside Dane, DJ D.Dee and Yu Su. Next up: Phono Lake, Amsterdam on Sat 12 Sept.
 
@@ -26,4 +26,4 @@ Pender Street Steppers is a house and disco artist tracked on soundcheck, with 5
 
 Dane, DJ D.Dee, Yu Su
 
-*Updated Thu, 23 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/penderstreetsteppers/)*
+*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/penderstreetsteppers/)*

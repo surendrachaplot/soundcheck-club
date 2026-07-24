@@ -1,6 +1,6 @@
 # Paloma
 
-Paloma is a House and Disco artist with 3 upcoming club dates listed on soundcheck as of Thu, 23 Jul 2026, next at EL SÓTANO, Madrid on Sat, 1 Aug 2026.
+Paloma is a House and Disco artist with 3 upcoming club dates listed on soundcheck as of Fri, 24 Jul 2026, next at EL SÓTANO, Madrid on Sat, 1 Aug 2026.
 
 Paloma is a house and disco artist tracked on soundcheck, with 15 sets logged across Berlin, Buenosaires, Ibiza and Madrid and 8 more. Often billed alongside ADO (DE), Acid Arab and Add FM. Next up: EL SÓTANO, Madrid on Sat 1 Aug.
 
@@ -27,4 +27,4 @@ Paloma is a house and disco artist tracked on soundcheck, with 15 sets logged ac
 
 ADO (DE), Acid Arab, Add FM
 
-*Updated Thu, 23 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/paloma/)*
+*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/paloma/)*

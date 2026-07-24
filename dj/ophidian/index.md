@@ -1,6 +1,6 @@
 # Ophidian
 
-Ophidian is a Hardcore and Techno artist with 4 upcoming club dates listed on soundcheck as of Thu, 23 Jul 2026, next at P36 Terminal 1 Busparkplatz  / Sonic-Warrior Festival Tours Abfahrt, Frankfurt on Sat, 15 Aug 2026.
+Ophidian is a Hardcore and Techno artist with 4 upcoming club dates listed on soundcheck as of Fri, 24 Jul 2026, next at P36 Terminal 1 Busparkplatz  / Sonic-Warrior Festival Tours Abfahrt, Frankfurt on Sat, 15 Aug 2026.
 
 Ophidian is a hardcore and techno artist based in Netherlands, tracked on soundcheck, with 25 sets logged across Amsterdam, Antwerp, Barcelona and Berlin and 9 more. Often billed alongside Drokz, Anime and Korsakoff. Next up: P36 Terminal 1 Busparkplatz  / Sonic-Warrior Festival Tours Abfahrt, Frankfurt on Sat 15 Aug.
 
@@ -28,4 +28,4 @@ Ophidian is a hardcore and techno artist based in Netherlands, tracked on soundc
 
 Drokz, Anime, Korsakoff
 
-*Updated Thu, 23 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/ophidian/)*
+*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/ophidian/)*

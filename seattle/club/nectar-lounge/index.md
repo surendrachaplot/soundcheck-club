@@ -1,6 +1,6 @@
 # Nectar Lounge
 
-Nectar Lounge is a music venue in Seattle with 4 upcoming nights listed on soundcheck as of Thu, 23 Jul 2026; the next is "FRANC MOODY (DJ Set) with DJ Max Gain" on Thu, 20 Aug 2026.
+Nectar Lounge is a music venue in Seattle with 4 upcoming nights listed on soundcheck as of Fri, 24 Jul 2026; the next is "FRANC MOODY (DJ Set) with DJ Max Gain" on Thu, 20 Aug 2026.
 
 Nectar Lounge is a music venue in Seattle listed on soundcheck. 4 upcoming nights, with line-ups including Satin Jackets. Browse upcoming dates, start times and who's playing. 412 N. 36th Street; Seattle, WA 98103; United States.
 
@@ -17,4 +17,4 @@ Nectar Lounge is a music venue in Seattle listed on soundcheck. 4 upcoming night
 
 412 N. 36th Street; Seattle, WA 98103; United States, Seattle
 
-*Updated Thu, 23 Jul 2026 · source: [soundcheck](https://soundcheck.club/seattle/club/nectar-lounge/)*
+*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/seattle/club/nectar-lounge/)*

@@ -1,6 +1,6 @@
 # Saqib
 
-Saqib is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Thu, 23 Jul 2026, next at House of Yes, New York City on Fri, 31 Jul 2026.
+Saqib is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Fri, 24 Jul 2026, next at House of Yes, New York City on Fri, 31 Jul 2026.
 
 Saqib is a house and techno artist based in United States of America, tracked on soundcheck, with 40 sets logged across Amsterdam, Boston, Losangeles and Miami and 5 more. Often billed alongside Nhii, Francesca Lombardo and Matt Caines. Next up: House of Yes, Newyorkcity on Fri 31 Jul.
 
@@ -26,4 +26,4 @@ Saqib is a house and techno artist based in United States of America, tracked on
 
 Nhii, Francesca Lombardo, Matt Caines
 
-*Updated Thu, 23 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/saqib/)*
+*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/saqib/)*

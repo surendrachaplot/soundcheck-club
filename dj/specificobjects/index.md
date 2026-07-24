@@ -1,6 +1,6 @@
 # Specific Objects
 
-Specific Objects is a Techno and Trance artist with 2 upcoming club dates listed on soundcheck as of Thu, 23 Jul 2026, next at Tresor / Globus, Berlin on Fri, 31 Jul 2026.
+Specific Objects is a Techno and Trance artist with 2 upcoming club dates listed on soundcheck as of Fri, 24 Jul 2026, next at Tresor / Globus, Berlin on Fri, 31 Jul 2026.
 
 Specific Objects is a techno and trance artist tracked on soundcheck, with 60 sets logged across Antwerp, Berlin, Bucharest and Cologne and 11 more. Often billed alongside Caniche, Steven Shade and DJ.P. Next up: Tresor / Globus, Berlin on Fri 31 Jul.
 
@@ -26,4 +26,4 @@ Specific Objects is a techno and trance artist tracked on soundcheck, with 60 se
 
 Caniche, Steven Shade, DJ.P
 
-*Updated Thu, 23 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/specificobjects/)*
+*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/specificobjects/)*

@@ -1,6 +1,6 @@
 # Snad
 
-Snad is a House and Minimal artist with 2 upcoming club dates listed on soundcheck as of Thu, 23 Jul 2026, next at Golden Pudel Club, Hamburg on Fri, 24 Jul 2026.
+Snad is a House and Minimal artist with 2 upcoming club dates listed on soundcheck as of Fri, 24 Jul 2026, next at Golden Pudel Club, Hamburg on Fri, 24 Jul 2026.
 
 Snad is a house and minimal artist based in United States of America, tracked on soundcheck, with 56 sets logged across Amsterdam, Berlin, Boston and Brussels and 13 more. Often billed alongside Jakob Seidensticker, Mejia and Bärtaub. Next up: Golden Pudel Club, Hamburg on Fri 24 Jul.
 
@@ -26,4 +26,4 @@ Snad is a house and minimal artist based in United States of America, tracked on
 
 Jakob Seidensticker, Mejia, Bärtaub
 
-*Updated Thu, 23 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/snad-us/)*
+*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/snad-us/)*

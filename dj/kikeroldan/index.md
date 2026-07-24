@@ -1,6 +1,6 @@
 # Kike Roldan
 
-Kike Roldan is a House and Deep House artist with 2 upcoming club dates listed on soundcheck as of Thu, 23 Jul 2026, next at Lion's Den, Miami on Sat, 25 Jul 2026.
+Kike Roldan is a House and Deep House artist with 2 upcoming club dates listed on soundcheck as of Fri, 24 Jul 2026, next at Lion's Den, Miami on Sat, 25 Jul 2026.
 
 Kike Roldan is a house and deep house artist tracked on soundcheck, with 114 sets logged across Miami. Often billed alongside Atomyard, Patrick M and Soto Music. Next up: Lion's Den, Miami on Sat 25 Jul.
 
@@ -26,4 +26,4 @@ Kike Roldan is a house and deep house artist tracked on soundcheck, with 114 set
 
 Atomyard, Patrick M, Soto Music
 
-*Updated Thu, 23 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/kikeroldan/)*
+*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/kikeroldan/)*

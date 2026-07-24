@@ -1,6 +1,6 @@
 # Dee Diggs
 
-Dee Diggs is a House and Techno artist with 7 upcoming club dates listed on soundcheck as of Thu, 23 Jul 2026, next at Kater, Berlin on Sat, 25 Jul 2026.
+Dee Diggs is a House and Techno artist with 7 upcoming club dates listed on soundcheck as of Fri, 24 Jul 2026, next at Kater, Berlin on Sat, 25 Jul 2026.
 
 Dee Diggs is a house and techno artist tracked on soundcheck, with 207 sets logged across Amsterdam, Bali, Barcelona and Berlin and 37 more. Often billed alongside Kilopatrah Jones, Avalon Emerson and Suze Ijó. Next up: Kater, Berlin on Sat 25 Jul.
 
@@ -31,4 +31,4 @@ Dee Diggs is a house and techno artist tracked on soundcheck, with 207 sets logg
 
 Kilopatrah Jones, Avalon Emerson, Suze Ijó
 
-*Updated Thu, 23 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/deediggs/)*
+*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/deediggs/)*

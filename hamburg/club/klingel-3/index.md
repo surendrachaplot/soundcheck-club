@@ -1,6 +1,6 @@
 # Klingel 3
 
-Klingel 3 is a music venue in Hamburg with 1 upcoming night listed on soundcheck as of Thu, 23 Jul 2026; the next is "Allstate Insurance Claims — Filing Process, Timeline, and Support 2026" on Sat, 25 Jul 2026.
+Klingel 3 is a music venue in Hamburg with 1 upcoming night listed on soundcheck as of Fri, 24 Jul 2026; the next is "Allstate Insurance Claims — Filing Process, Timeline, and Support 2026" on Sat, 25 Jul 2026.
 
 Klingel 3 is a music venue in Hamburg listed on soundcheck. 1 upcoming night, with line-ups including Alaska (2), AMEX (UK), APP and Debit and 2 more. Browse upcoming dates, start times and who's playing. Friedrichstrasse 36; 20359 Hamburg; Germany.
 
@@ -14,4 +14,4 @@ Klingel 3 is a music venue in Hamburg listed on soundcheck. 1 upcoming night, wi
 
 Friedrichstrasse 36; 20359 Hamburg; Germany, Hamburg
 
-*Updated Thu, 23 Jul 2026 · source: [soundcheck](https://soundcheck.club/hamburg/club/klingel-3/)*
+*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/hamburg/club/klingel-3/)*

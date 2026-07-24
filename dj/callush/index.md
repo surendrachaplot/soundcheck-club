@@ -1,6 +1,6 @@
 # CALLUSH
 
-CALLUSH is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Thu, 23 Jul 2026, next at Spook Club, Valencia on Sat, 25 Jul 2026.
+CALLUSH is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Fri, 24 Jul 2026, next at Spook Club, Valencia on Sat, 25 Jul 2026.
 
 CALLUSH is a techno and house artist tracked on soundcheck, with 113 sets logged across Amsterdam, Antwerp, Barcelona and Basel and 41 more. Often billed alongside DYEN, NOVAH and Afem Syko. Next up: Spook Club, Valencia on Sat 25 Jul.
 
@@ -27,4 +27,4 @@ CALLUSH is a techno and house artist tracked on soundcheck, with 113 sets logged
 
 DYEN, NOVAH, Afem Syko
 
-*Updated Thu, 23 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/callush/)*
+*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/callush/)*

@@ -1,6 +1,6 @@
 # Job de Jong
 
-Job de Jong is a House and Tech House artist with 15 upcoming club dates listed on soundcheck as of Thu, 23 Jul 2026, next at Boomerang Beach, The Hague on Fri, 24 Jul 2026.
+Job de Jong is a House and Tech House artist with 15 upcoming club dates listed on soundcheck as of Fri, 24 Jul 2026, next at Boomerang Beach, The Hague on Fri, 24 Jul 2026.
 
 Job de Jong is a house and tech house artist tracked on soundcheck, with 156 sets logged across Aberdeen, Amsterdam, Antwerp and Barcelona and 22 more. Often billed alongside Prunk, M-High and Dennis Quin. Next up: Boomerang Beach, Thehague on Fri 24 Jul.
 
@@ -36,4 +36,4 @@ Job de Jong is a house and tech house artist tracked on soundcheck, with 156 set
 
 Prunk, M-High, Dennis Quin
 
-*Updated Thu, 23 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/jobdejong/)*
+*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/jobdejong/)*

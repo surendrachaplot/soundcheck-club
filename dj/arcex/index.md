@@ -1,6 +1,6 @@
 # ArceX
 
-ArceX is a Techno and Hardcore artist with 3 upcoming club dates listed on soundcheck as of Thu, 23 Jul 2026, next at Stage and Radio, Manchester on Sat, 25 Jul 2026.
+ArceX is a Techno and Hardcore artist with 3 upcoming club dates listed on soundcheck as of Fri, 24 Jul 2026, next at Stage and Radio, Manchester on Sat, 25 Jul 2026.
 
 ArceX is a techno and hardcore artist based in Spain, tracked on soundcheck, with 26 sets logged across Barcelona, Madrid and Manchester. Often billed alongside Koalaz, Noise Mafia and Ozzwald. Next up: Stage and Radio, Manchester on Sat 25 Jul.
 
@@ -27,4 +27,4 @@ ArceX is a techno and hardcore artist based in Spain, tracked on soundcheck, wit
 
 Koalaz, Noise Mafia, Ozzwald
 
-*Updated Thu, 23 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/arcex/)*
+*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/arcex/)*

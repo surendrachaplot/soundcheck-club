@@ -1,6 +1,6 @@
 # The Kings Land
 
-The Kings Land is a music venue in London with 1 upcoming night listed on soundcheck as of Thu, 23 Jul 2026; the next is "DNA - End of summer COMEBACK" on Fri, 28 Aug 2026.
+The Kings Land is a music venue in London with 1 upcoming night listed on soundcheck as of Fri, 24 Jul 2026; the next is "DNA - End of summer COMEBACK" on Fri, 28 Aug 2026.
 
 The Kings Land is a music venue in London listed on soundcheck. 1 upcoming night. Browse upcoming dates, start times and who's playing. 267 Kingsland Road, Hackney, London, E2 8AS   SEE ON A MAP.
 
@@ -14,4 +14,4 @@ The Kings Land is a music venue in London listed on soundcheck. 1 upcoming night
 
 267 Kingsland Road, Hackney, London, E2 8AS   SEE ON A MAP, London
 
-*Updated Thu, 23 Jul 2026 · source: [soundcheck](https://soundcheck.club/london/club/the-kings-land/)*
+*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/london/club/the-kings-land/)*

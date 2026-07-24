@@ -1,6 +1,6 @@
 # Addy
 
-Addy is a Tech House and House artist with 3 upcoming club dates listed on soundcheck as of Thu, 23 Jul 2026, next at Vertigo, Toronto on Fri, 24 Jul 2026.
+Addy is a Tech House and House artist with 3 upcoming club dates listed on soundcheck as of Fri, 24 Jul 2026, next at Vertigo, Toronto on Fri, 24 Jul 2026.
 
 Addy is a tech house and house artist tracked on soundcheck, with 90 sets logged across Montreal and Toronto. Often billed alongside Manzone & Strong, TAKiN and Tyler Hill. Next up: Vertigo, Toronto on Fri 24 Jul.
 
@@ -27,4 +27,4 @@ Addy is a tech house and house artist tracked on soundcheck, with 90 sets logged
 
 Manzone & Strong, TAKiN, Tyler Hill
 
-*Updated Thu, 23 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/addy/)*
+*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/addy/)*

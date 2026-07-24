@@ -1,6 +1,6 @@
 # Collingwood Basement
 
-Collingwood Basement is a music venue in Melbourne with 7 upcoming nights listed on soundcheck as of Thu, 23 Jul 2026; the next is "Isolation ∎ Collingwood Basement" on Sat, 25 Jul 2026.
+Collingwood Basement is a music venue in Melbourne with 7 upcoming nights listed on soundcheck as of Fri, 24 Jul 2026; the next is "Isolation ∎ Collingwood Basement" on Sat, 25 Jul 2026.
 
 Collingwood Basement is a music venue in Melbourne listed on soundcheck. 7 upcoming nights, with line-ups including 3LOAR, AK-97, AROHA and Billus and 2 more. Browse upcoming dates, start times and who's playing. (Zero) 0 Langridge St Collingwood, VIC 3066.
 
@@ -20,4 +20,4 @@ Collingwood Basement is a music venue in Melbourne listed on soundcheck. 7 upcom
 
 (Zero) 0 Langridge St Collingwood, VIC 3066, Melbourne
 
-*Updated Thu, 23 Jul 2026 · source: [soundcheck](https://soundcheck.club/melbourne/club/collingwood-basement/)*
+*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/melbourne/club/collingwood-basement/)*

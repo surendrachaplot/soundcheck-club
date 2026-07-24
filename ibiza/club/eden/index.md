@@ -1,6 +1,6 @@
 # Eden
 
-Eden is a music venue in Ibiza with 8 upcoming nights listed on soundcheck as of Thu, 23 Jul 2026; the next is "DON'T TELL MAMA BY PEDRO CAZANOVA INVITES XPERIMENTS BY The Engineers" on Mon, 27 Jul 2026.
+Eden is a music venue in Ibiza with 8 upcoming nights listed on soundcheck as of Fri, 24 Jul 2026; the next is "DON'T TELL MAMA BY PEDRO CAZANOVA INVITES XPERIMENTS BY The Engineers" on Mon, 27 Jul 2026.
 
 Eden is a music venue in Ibiza listed on soundcheck. 8 upcoming nights, with line-ups including 6EJOU, Andres Campo, Angerfist and ANKKH and 2 more. Browse upcoming dates, start times and who's playing. Carrer Salvador Espriu,  07820 San Antonio, Ibiza, Spain.
 
@@ -21,4 +21,4 @@ Eden is a music venue in Ibiza listed on soundcheck. 8 upcoming nights, with lin
 
 Carrer Salvador Espriu,  07820 San Antonio, Ibiza, Spain, Ibiza
 
-*Updated Thu, 23 Jul 2026 · source: [soundcheck](https://soundcheck.club/ibiza/club/eden/)*
+*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/ibiza/club/eden/)*

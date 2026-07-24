@@ -1,6 +1,6 @@
 # KINETIKS
 
-KINETIKS is a House and Techno artist with 4 upcoming club dates listed on soundcheck as of Thu, 23 Jul 2026, next at Thuishaven, Amsterdam on Sat, 25 Jul 2026.
+KINETIKS is a House and Techno artist with 4 upcoming club dates listed on soundcheck as of Fri, 24 Jul 2026, next at Thuishaven, Amsterdam on Sat, 25 Jul 2026.
 
 KINETIKS is a house and techno artist based in Netherlands, tracked on soundcheck, with 18 sets logged across Amsterdam, Rotterdam, Thehague and Utrecht and 1 more. Often billed alongside Lucky Done Gone, AUTOFLOWER and Kara Okay. Next up: Thuishaven, Amsterdam on Sat 25 Jul.
 
@@ -28,4 +28,4 @@ KINETIKS is a house and techno artist based in Netherlands, tracked on soundchec
 
 Lucky Done Gone, AUTOFLOWER, Kara Okay
 
-*Updated Thu, 23 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/kinetiks/)*
+*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/kinetiks/)*

@@ -1,6 +1,6 @@
 # YENKOV
 
-YENKOV is a Techno and Trance artist with 2 upcoming club dates listed on soundcheck as of Thu, 23 Jul 2026, next at ÆDEN, Berlin on Sat, 1 Aug 2026.
+YENKOV is a Techno and Trance artist with 2 upcoming club dates listed on soundcheck as of Fri, 24 Jul 2026, next at ÆDEN, Berlin on Sat, 1 Aug 2026.
 
 YENKOV is a techno and trance artist tracked on soundcheck, with 49 sets logged across Berlin, Brussels, Buenosaires and Copenhagen and 6 more. Often billed alongside Laze, VANROOSE and VOST (3). Next up: ÆDEN, Berlin on Sat 1 Aug.
 
@@ -26,4 +26,4 @@ YENKOV is a techno and trance artist tracked on soundcheck, with 49 sets logged 
 
 Laze, VANROOSE, VOST (3)
 
-*Updated Thu, 23 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/yenkov/)*
+*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/yenkov/)*

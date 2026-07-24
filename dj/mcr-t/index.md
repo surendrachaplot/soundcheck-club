@@ -1,6 +1,6 @@
 # MCR-T
 
-MCR-T is a Techno and House artist with 11 upcoming club dates listed on soundcheck as of Thu, 23 Jul 2026, next at TBA - Mission Four (Ace*Mission Studios) 560 S Mission Rd, Los Angeles, CA 90033, Los Angeles on Fri, 31 Jul 2026.
+MCR-T is a Techno and House artist with 11 upcoming club dates listed on soundcheck as of Fri, 24 Jul 2026, next at TBA - Mission Four (Ace*Mission Studios) 560 S Mission Rd, Los Angeles, CA 90033, Los Angeles on Fri, 31 Jul 2026.
 
 MCR-T is a techno and house artist tracked on soundcheck, with 254 sets logged across Aberdeen, Amsterdam, Antwerp and Austin and 59 more. Often billed alongside DJ Gigola, Clara Cuvé and Bauernfeind. Next up: TBA - Mission Four (Ace*Mission Studios) 560 S Mission Rd, Los Angeles, CA 90033, Losangeles on Fri 31 Jul.
 
@@ -35,4 +35,4 @@ MCR-T is a techno and house artist tracked on soundcheck, with 254 sets logged a
 
 DJ Gigola, Clara Cuvé, Bauernfeind
 
-*Updated Thu, 23 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/mcr-t/)*
+*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/mcr-t/)*

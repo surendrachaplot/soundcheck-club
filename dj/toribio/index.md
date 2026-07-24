@@ -1,6 +1,6 @@
 # Toribio
 
-Toribio is a House and Disco artist with 5 upcoming club dates listed on soundcheck as of Thu, 23 Jul 2026, next at Locust Grove, New York City on Fri, 31 Jul 2026.
+Toribio is a House and Disco artist with 5 upcoming club dates listed on soundcheck as of Fri, 24 Jul 2026, next at Locust Grove, New York City on Fri, 31 Jul 2026.
 
 Toribio is a house and disco artist based in United States of America, tracked on soundcheck, with 210 sets logged across Amsterdam, Athens, Barcelona and Berlin and 15 more. Often billed alongside Mickey Perez, Guthrie and Love Injection. Next up: Locust Grove, Newyorkcity on Fri 31 Jul.
 
@@ -29,4 +29,4 @@ Toribio is a house and disco artist based in United States of America, tracked o
 
 Mickey Perez, Guthrie, Love Injection
 
-*Updated Thu, 23 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/toribio/)*
+*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/toribio/)*

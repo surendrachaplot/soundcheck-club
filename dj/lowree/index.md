@@ -1,6 +1,6 @@
 # Lowree
 
-Lowree is a House and Garage artist with 2 upcoming club dates listed on soundcheck as of Thu, 23 Jul 2026, next at TBA, Glasgow on Sat, 8 Aug 2026.
+Lowree is a House and Garage artist with 2 upcoming club dates listed on soundcheck as of Fri, 24 Jul 2026, next at TBA, Glasgow on Sat, 8 Aug 2026.
 
 Lowree is a house and garage artist based in United Kingdom, tracked on soundcheck, with 85 sets logged across Edinburgh, Glasgow, London and Manchester. Often billed alongside Fourth Precinct, Macka and DJ Bz. Next up: TBA, Glasgow on Sat 8 Aug.
 
@@ -26,4 +26,4 @@ Lowree is a house and garage artist based in United Kingdom, tracked on soundche
 
 Fourth Precinct, Macka, DJ Bz
 
-*Updated Thu, 23 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/lowree/)*
+*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/lowree/)*

@@ -1,6 +1,6 @@
 # James Andrew
 
-James Andrew is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Thu, 23 Jul 2026, next at Sunseabar Beach Club, Barcelona on Sun, 2 Aug 2026.
+James Andrew is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Fri, 24 Jul 2026, next at Sunseabar Beach Club, Barcelona on Sun, 2 Aug 2026.
 
 James Andrew is a house and techno artist tracked on soundcheck, with 39 sets logged across Barcelona, Brussels, Ibiza and Leeds and 8 more. Often billed alongside Charley, Heels & Souls and Apple B. Next up: Sunseabar Beach Club, Barcelona on Sun 2 Aug.
 
@@ -26,4 +26,4 @@ James Andrew is a house and techno artist tracked on soundcheck, with 39 sets lo
 
 Charley, Heels & Souls, Apple B
 
-*Updated Thu, 23 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/jamesandrew/)*
+*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/jamesandrew/)*

@@ -1,6 +1,6 @@
 # Place D'espagne
 
-Place D'espagne is a music venue in Brussels with 2 upcoming nights listed on soundcheck as of Thu, 23 Jul 2026; the next is "Electronic Garden" on Sun, 16 Aug 2026.
+Place D'espagne is a music venue in Brussels with 2 upcoming nights listed on soundcheck as of Fri, 24 Jul 2026; the next is "Electronic Garden" on Sun, 16 Aug 2026.
 
 Place D'espagne is a music venue in Brussels listed on soundcheck. 2 upcoming nights, with line-ups including bemira, Groove Principality, Mombo and Raph Luchs and 2 more. Browse upcoming dates, start times and who's playing. Place d'Espagne, 1000 Bruxelles, Belgium.
 
@@ -15,4 +15,4 @@ Place D'espagne is a music venue in Brussels listed on soundcheck. 2 upcoming ni
 
 Place d'Espagne, 1000 Bruxelles, Belgium, Brussels
 
-*Updated Thu, 23 Jul 2026 · source: [soundcheck](https://soundcheck.club/brussels/club/place-d-espagne/)*
+*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/brussels/club/place-d-espagne/)*

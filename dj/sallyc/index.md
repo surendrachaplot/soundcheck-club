@@ -1,6 +1,6 @@
 # Sally C
 
-Sally C is a House and Techno artist with 11 upcoming club dates listed on soundcheck as of Thu, 23 Jul 2026, next at TBA - Paradies Garten Festival - Schloß Prugg 2, 2460 Gemeinde Bruck an der Leitha, Vienna on Fri, 31 Jul 2026.
+Sally C is a House and Techno artist with 11 upcoming club dates listed on soundcheck as of Fri, 24 Jul 2026, next at TBA - Paradies Garten Festival - Schloß Prugg 2, 2460 Gemeinde Bruck an der Leitha, Vienna on Fri, 31 Jul 2026.
 
 Sally C is a house and techno artist tracked on soundcheck, with 261 sets logged across Amsterdam, Antwerp, Auckland and Austin and 63 more. Often billed alongside Spray, DJ BORING and Eliza Rose. Next up: TBA - Paradies Garten Festival - Schloß Prugg 2, 2460 Gemeinde Bruck an der Leitha, Vienna on Fri 31 Jul.
 
@@ -35,4 +35,4 @@ Sally C is a house and techno artist tracked on soundcheck, with 261 sets logged
 
 Spray, DJ BORING, Eliza Rose
 
-*Updated Thu, 23 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/sallyc/)*
+*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/sallyc/)*

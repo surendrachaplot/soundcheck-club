@@ -1,6 +1,6 @@
 # dj people's princess
 
-dj people's princess is a Techno and Dub Techno artist with 3 upcoming club dates listed on soundcheck as of Thu, 23 Jul 2026, next at Sui Generis, London on Fri, 24 Jul 2026.
+dj people's princess is a Techno and Dub Techno artist with 3 upcoming club dates listed on soundcheck as of Fri, 24 Jul 2026, next at Sui Generis, London on Fri, 24 Jul 2026.
 
 dj people's princess is a techno and dub techno artist tracked on soundcheck, with 11 sets logged across London. Often billed alongside nohexcode, CITYTRONIX and ANTIPODES. Next up: Sui Generis, London on Fri 24 Jul.
 
@@ -27,4 +27,4 @@ dj people's princess is a techno and dub techno artist tracked on soundcheck, wi
 
 nohexcode, CITYTRONIX, ANTIPODES
 
-*Updated Thu, 23 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/djpeoplesprincess/)*
+*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/djpeoplesprincess/)*

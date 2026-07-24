@@ -1,6 +1,6 @@
 # The San Francisco Mint
 
-The San Francisco Mint is a music venue in San Francisco/Oakland with 3 upcoming nights listed on soundcheck as of Thu, 23 Jul 2026; the next is "Deviants Adult Arcade: Up Your Alley" on Sun, 26 Jul 2026.
+The San Francisco Mint is a music venue in San Francisco/Oakland with 3 upcoming nights listed on soundcheck as of Fri, 24 Jul 2026; the next is "Deviants Adult Arcade: Up Your Alley" on Sun, 26 Jul 2026.
 
 The San Francisco Mint is a music venue in Sanfrancisco listed on soundcheck. 3 upcoming nights, with line-ups including ANDYLAND, Beverly Chills, Cashu and D. Tiffany and 2 more. Browse upcoming dates, start times and who's playing. 88 5th St, San Francisco, CA 94103, USA.
 
@@ -16,4 +16,4 @@ The San Francisco Mint is a music venue in Sanfrancisco listed on soundcheck. 3 
 
 88 5th St, San Francisco, CA 94103, USA, San Francisco/Oakland
 
-*Updated Thu, 23 Jul 2026 · source: [soundcheck](https://soundcheck.club/sanfrancisco/club/the-san-francisco-mint/)*
+*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/sanfrancisco/club/the-san-francisco-mint/)*

@@ -1,6 +1,6 @@
 # Timnah
 
-Timnah is a Techno and Ambient artist with 3 upcoming club dates listed on soundcheck as of Thu, 23 Jul 2026, next at TBA - Sarthe, Paris on Fri, 24 Jul 2026.
+Timnah is a Techno and Ambient artist with 3 upcoming club dates listed on soundcheck as of Fri, 24 Jul 2026, next at TBA - Sarthe, Paris on Fri, 24 Jul 2026.
 
 Timnah is a techno and ambient artist tracked on soundcheck, with 47 sets logged across Amsterdam, Barcelona, Basel and Berlin and 12 more. Often billed alongside Agonis, Garçon and Patrick Russell. Next up: TBA - Sarthe, Paris on Fri 24 Jul.
 
@@ -27,4 +27,4 @@ Timnah is a techno and ambient artist tracked on soundcheck, with 47 sets logged
 
 Agonis, Garçon, Patrick Russell
 
-*Updated Thu, 23 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/timnahsommerfeldt/)*
+*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/timnahsommerfeldt/)*

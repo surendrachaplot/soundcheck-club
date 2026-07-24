@@ -1,6 +1,6 @@
 # Jezza & Jod
 
-Jezza & Jod is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Thu, 23 Jul 2026, next at Amnesia Ibiza, Ibiza on Mon, 3 Aug 2026.
+Jezza & Jod is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Fri, 24 Jul 2026, next at Amnesia Ibiza, Ibiza on Mon, 3 Aug 2026.
 
 Jezza & Jod are a techno and house duo tracked on soundcheck, with 49 sets logged across Aberdeen, Amsterdam, Belfast and Dublin and 9 more. Often billed alongside blk., Black Traffic and Jason Cluff. Next up: Amnesia Ibiza, Ibiza on Mon 3 Aug.
 
@@ -26,4 +26,4 @@ Jezza & Jod are a techno and house duo tracked on soundcheck, with 49 sets logge
 
 blk., Black Traffic, Jason Cluff
 
-*Updated Thu, 23 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/jezzajod/)*
+*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/jezzajod/)*

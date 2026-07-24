@@ -1,6 +1,6 @@
 # KBRAL
 
-KBRAL is a House and Bass artist with 2 upcoming club dates listed on soundcheck as of Thu, 23 Jul 2026, next at Virage, Paris on Sat, 15 Aug 2026.
+KBRAL is a House and Bass artist with 2 upcoming club dates listed on soundcheck as of Fri, 24 Jul 2026, next at Virage, Paris on Sat, 15 Aug 2026.
 
 KBRAL is a house and bass artist tracked on soundcheck, with 41 sets logged across Amsterdam, Barcelona, Berlin and Geneva and 7 more. Often billed alongside Catu Diosis, IDLIBRA and Lush Lata. Next up: Virage, Paris on Sat 15 Aug.
 
@@ -26,4 +26,4 @@ KBRAL is a house and bass artist tracked on soundcheck, with 41 sets logged acro
 
 Catu Diosis, IDLIBRA, Lush Lata
 
-*Updated Thu, 23 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/kbral/)*
+*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/kbral/)*

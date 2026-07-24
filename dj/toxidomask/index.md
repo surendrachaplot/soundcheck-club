@@ -1,8 +1,8 @@
 # Toxido Mask
 
-Toxido Mask is a Techno and Ambient artist with 2 upcoming club dates listed on soundcheck as of Thu, 23 Jul 2026, next at TBA - Follow @BerlinFloraFestival & @Ousiasound to know exact locations, Berlin on Sat, 25 Jul 2026.
+Toxido Mask is a Techno and Ambient artist with 3 upcoming club dates listed on soundcheck as of Fri, 24 Jul 2026, next at TBA - Follow @BerlinFloraFestival & @Ousiasound to know exact locations, Berlin on Sat, 25 Jul 2026.
 
-Toxido Mask is a techno and ambient artist tracked on soundcheck, with 50 sets logged across Bangkok, Barcelona, Berlin and London and 3 more. Often billed alongside MAEDON, Ario and D-Leria. Next up: TBA - Follow @BerlinFloraFestival & @Ousiasound to know exact locations, Berlin on Sat 25 Jul.
+Toxido Mask is a techno and ambient artist tracked on soundcheck, with 51 sets logged across Bangkok, Barcelona, Berlin and London and 3 more. Often billed alongside MAEDON, Ario and D-Leria. Next up: TBA - Follow @BerlinFloraFestival & @Ousiasound to know exact locations, Berlin on Sat 25 Jul.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Toxido Mask is a techno and ambient artist tracked on soundcheck, with 50 sets l
 | --- | --- | --- |
 | Sat, 25 Jul 2026 | TBA - Follow @BerlinFloraFestival & @Ousiasound to know exact locations | Berlin |
 | Sun, 26 Jul 2026 | TBA - Follow @BerlinFloraFestival & @Ousiasound to know exact locations | Berlin |
+| Thu, 20 Aug 2026 | Ikii | Berlin |
 
 ## Recently played
 
@@ -26,4 +27,4 @@ Toxido Mask is a techno and ambient artist tracked on soundcheck, with 50 sets l
 
 MAEDON, Ario, D-Leria
 
-*Updated Thu, 23 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/toxidomask/)*
+*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/toxidomask/)*

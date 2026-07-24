@@ -1,6 +1,6 @@
 # IZZY (UK)
 
-IZZY (UK) is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Thu, 23 Jul 2026, next at PIP Den Haag, The Hague on Sat, 25 Jul 2026.
+IZZY (UK) is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Fri, 24 Jul 2026, next at PIP Den Haag, The Hague on Sat, 25 Jul 2026.
 
 IZZY (UK) is a house and techno artist based in United Kingdom, tracked on soundcheck, with 43 sets logged across Amsterdam, London and Thehague. Often billed alongside Lola So, Armând and ASHOJU. Next up: PIP Den Haag, Thehague on Sat 25 Jul.
 
@@ -26,4 +26,4 @@ IZZY (UK) is a house and techno artist based in United Kingdom, tracked on sound
 
 Lola So, Armând, ASHOJU
 
-*Updated Thu, 23 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/izzyuk/)*
+*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/izzyuk/)*

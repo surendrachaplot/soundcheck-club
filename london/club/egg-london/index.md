@@ -1,6 +1,6 @@
 # Egg London
 
-Egg London is a music venue in London with 33 upcoming nights listed on soundcheck as of Thu, 23 Jul 2026; the next is "Egg LDN Pres: Afro House, Tribal & Afrobeats" on Fri, 24 Jul 2026.
+Egg London is a music venue in London with 33 upcoming nights listed on soundcheck as of Fri, 24 Jul 2026; the next is "Egg LDN Pres: Afro House, Tribal & Afrobeats" on Fri, 24 Jul 2026.
 
 Egg London is a music venue in London listed on soundcheck. 33 upcoming nights, with line-ups including ABSOLUTE., ACID HARRY, b-line and BOA (1) and 2 more. Browse upcoming dates, start times and who's playing. 5-13 Vale Royal, London, N7 9AP.
 
@@ -23,4 +23,4 @@ Egg London is a music venue in London listed on soundcheck. 33 upcoming nights, 
 
 5-13 Vale Royal, London, N7 9AP, London
 
-*Updated Thu, 23 Jul 2026 · source: [soundcheck](https://soundcheck.club/london/club/egg-london/)*
+*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/london/club/egg-london/)*

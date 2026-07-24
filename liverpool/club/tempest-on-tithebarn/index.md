@@ -1,6 +1,6 @@
 # Tempest on Tithebarn
 
-Tempest on Tithebarn is a music venue in Liverpool with 2 upcoming nights listed on soundcheck as of Thu, 23 Jul 2026; the next is "MODELLO - Rooftop party" on Sat, 1 Aug 2026.
+Tempest on Tithebarn is a music venue in Liverpool with 2 upcoming nights listed on soundcheck as of Fri, 24 Jul 2026; the next is "MODELLO - Rooftop party" on Sat, 1 Aug 2026.
 
 Tempest on Tithebarn is a music venue in Liverpool listed on soundcheck. 2 upcoming nights. Browse upcoming dates, start times and who's playing. 12 Tithebarn Street, Liverpool.
 
@@ -15,4 +15,4 @@ Tempest on Tithebarn is a music venue in Liverpool listed on soundcheck. 2 upcom
 
 12 Tithebarn Street, Liverpool, Liverpool
 
-*Updated Thu, 23 Jul 2026 · source: [soundcheck](https://soundcheck.club/liverpool/club/tempest-on-tithebarn/)*
+*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/liverpool/club/tempest-on-tithebarn/)*

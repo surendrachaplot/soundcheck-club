@@ -1,6 +1,6 @@
 # X CLUB.
 
-X CLUB. is a Techno and House artist with 10 upcoming club dates listed on soundcheck as of Thu, 23 Jul 2026, next at Brooklyn Army Terminal, New York City on Fri, 31 Jul 2026.
+X CLUB. is a Techno and House artist with 10 upcoming club dates listed on soundcheck as of Fri, 24 Jul 2026, next at Brooklyn Army Terminal, New York City on Fri, 31 Jul 2026.
 
 X CLUB. is a techno and house artist tracked on soundcheck, with 212 sets logged across Aberdeen, Amsterdam, Austin and Barcelona and 61 more. Often billed alongside KETTAMA, VTSS and DJ Heartstring. Next up: Brooklyn Army Terminal, Newyorkcity on Fri 31 Jul.
 
@@ -34,4 +34,4 @@ X CLUB. is a techno and house artist tracked on soundcheck, with 212 sets logged
 
 KETTAMA, VTSS, DJ Heartstring
 
-*Updated Thu, 23 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/xclub/)*
+*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/xclub/)*

@@ -1,6 +1,6 @@
 # Tuff Club
 
-Tuff Club is a music venue in Singapore with 3 upcoming nights listed on soundcheck as of Thu, 23 Jul 2026; the next is "GIVE: CHANCE XL" on Fri, 24 Jul 2026.
+Tuff Club is a music venue in Singapore with 3 upcoming nights listed on soundcheck as of Fri, 24 Jul 2026; the next is "GIVE: CHANCE XL" on Fri, 24 Jul 2026.
 
 Tuff Club is a music venue in Singapore listed on soundcheck. 3 upcoming nights, with line-ups including 3MZY, Alex Cancino, Cosmo Carbon and GODKORINE and 2 more. Browse upcoming dates, start times and who's playing. 138 Robinson Road #19-01, Singapore 068906.
 
@@ -16,4 +16,4 @@ Tuff Club is a music venue in Singapore listed on soundcheck. 3 upcoming nights,
 
 138 Robinson Road #19-01, Singapore 068906, Singapore
 
-*Updated Thu, 23 Jul 2026 · source: [soundcheck](https://soundcheck.club/singapore/club/tuff-club/)*
+*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/singapore/club/tuff-club/)*

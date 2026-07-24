@@ -1,6 +1,6 @@
 # Nicolas Lutz
 
-Nicolas Lutz is a Techno and House artist with 8 upcoming club dates listed on soundcheck as of Thu, 23 Jul 2026, next at Boston Manor Park, London on Sat, 25 Jul 2026.
+Nicolas Lutz is a Techno and House artist with 8 upcoming club dates listed on soundcheck as of Fri, 24 Jul 2026, next at Boston Manor Park, London on Sat, 25 Jul 2026.
 
 Nicolas Lutz is a techno and house artist tracked on soundcheck, with 155 sets logged across Amsterdam, Barcelona, Belgrade and Berlin and 38 more. Often billed alongside Binh, DJ Masda and Craig Richards. Next up: Boston Manor Park, London on Sat 25 Jul.
 
@@ -32,4 +32,4 @@ Nicolas Lutz is a techno and house artist tracked on soundcheck, with 155 sets l
 
 Binh, DJ Masda, Craig Richards
 
-*Updated Thu, 23 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/nicolaslutz/)*
+*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/nicolaslutz/)*

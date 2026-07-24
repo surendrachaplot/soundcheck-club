@@ -1,6 +1,6 @@
 # BUS Hexperience
 
-BUS Hexperience is a music venue in Barcelona with 4 upcoming nights listed on soundcheck as of Thu, 23 Jul 2026; the next is "Bus Hexperience" on Fri, 24 Jul 2026.
+BUS Hexperience is a music venue in Barcelona with 4 upcoming nights listed on soundcheck as of Fri, 24 Jul 2026; the next is "Bus Hexperience" on Fri, 24 Jul 2026.
 
 BUS Hexperience is a music venue in Barcelona listed on soundcheck. 4 upcoming nights, with line-ups including DAGZZ, Gee Beat, Marco G (3) and PALO MAIN and 1 more. Browse upcoming dates, start times and who's playing. C/ Port Esportiu, 14, 08930 Sant Adrià de Besòs, Barcelona.
 
@@ -17,4 +17,4 @@ BUS Hexperience is a music venue in Barcelona listed on soundcheck. 4 upcoming n
 
 C/ Port Esportiu, 14, 08930 Sant Adrià de Besòs, Barcelona, Barcelona
 
-*Updated Thu, 23 Jul 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/bus-hexperience/)*
+*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/bus-hexperience/)*

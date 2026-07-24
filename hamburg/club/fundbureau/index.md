@@ -1,6 +1,6 @@
 # Fundbureau
 
-Fundbureau is a music venue in Hamburg with 6 upcoming nights listed on soundcheck as of Thu, 23 Jul 2026; the next is "Alexa Fluor // SVE" on Fri, 24 Jul 2026.
+Fundbureau is a music venue in Hamburg with 6 upcoming nights listed on soundcheck as of Fri, 24 Jul 2026; the next is "Alexa Fluor // SVE" on Fri, 24 Jul 2026.
 
 Fundbureau is a music venue in Hamburg listed on soundcheck. 6 upcoming nights, with line-ups including 3LEEZA, Alexa Fluor, Charlie Tee and duaba and 2 more. Browse upcoming dates, start times and who's playing. Altländer Str. 1120095 Hamburg, Germany.
 
@@ -19,4 +19,4 @@ Fundbureau is a music venue in Hamburg listed on soundcheck. 6 upcoming nights, 
 
 Altländer Str. 1120095 Hamburg, Germany, Hamburg
 
-*Updated Thu, 23 Jul 2026 · source: [soundcheck](https://soundcheck.club/hamburg/club/fundbureau/)*
+*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/hamburg/club/fundbureau/)*

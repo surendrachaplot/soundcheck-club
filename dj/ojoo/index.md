@@ -1,6 +1,6 @@
 # ojoo
 
-ojoo is a Experimental and Breakbeat artist with 2 upcoming club dates listed on soundcheck as of Thu, 23 Jul 2026, next at TBA - Apiro, Marche IT, Milan on Thu, 30 Jul 2026.
+ojoo is a Experimental and Breakbeat artist with 2 upcoming club dates listed on soundcheck as of Fri, 24 Jul 2026, next at TBA - Apiro, Marche IT, Milan on Thu, 30 Jul 2026.
 
 ojoo is an experimental and breakbeat artist tracked on soundcheck, with 98 sets logged across Amsterdam, Antwerp, Barcelona and Berlin and 24 more. Often billed alongside ojoo, Ossia and NVST. Next up: TBA - Apiro, Marche IT, Milan on Thu 30 Jul.
 
@@ -26,4 +26,4 @@ ojoo is an experimental and breakbeat artist tracked on soundcheck, with 98 sets
 
 ojoo, Ossia, NVST
 
-*Updated Thu, 23 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/ojoo/)*
+*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/ojoo/)*

@@ -1,6 +1,6 @@
 # Kings Arms E2
 
-Kings Arms E2 is a music venue in London with 18 upcoming nights listed on soundcheck as of Thu, 23 Jul 2026; the next is "Kings Turntable: Shuvaluv [25.07.2026]" on Sat, 25 Jul 2026.
+Kings Arms E2 is a music venue in London with 18 upcoming nights listed on soundcheck as of Fri, 24 Jul 2026; the next is "Kings Turntable: Shuvaluv [25.07.2026]" on Sat, 25 Jul 2026.
 
 Kings Arms E2 is a music venue in London listed on soundcheck. 18 upcoming nights, with line-ups including Lowree, NOYB, Nunonunonuno and Paloma (DJ) and 1 more. Browse upcoming dates, start times and who's playing. 11A Buckfast St, London, E2 6EY.
 
@@ -23,4 +23,4 @@ Kings Arms E2 is a music venue in London listed on soundcheck. 18 upcoming night
 
 11A Buckfast St, London, E2 6EY, London
 
-*Updated Thu, 23 Jul 2026 · source: [soundcheck](https://soundcheck.club/london/club/kings-arms-e2/)*
+*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/london/club/kings-arms-e2/)*

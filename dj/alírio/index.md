@@ -1,6 +1,6 @@
 # Alírio
 
-Alírio is a House and Techno artist with 5 upcoming club dates listed on soundcheck as of Thu, 23 Jul 2026, next at OXI, Berlin on Fri, 24 Jul 2026.
+Alírio is a House and Techno artist with 5 upcoming club dates listed on soundcheck as of Fri, 24 Jul 2026, next at OXI, Berlin on Fri, 24 Jul 2026.
 
 Alírio is a house and techno artist tracked on soundcheck, with 77 sets logged across Amsterdam, Athens, Barcelona and Berlin and 15 more. Often billed alongside Cashu, Tuxe and Kontronatura. Next up: OXI, Berlin on Fri 24 Jul.
 
@@ -29,4 +29,4 @@ Alírio is a house and techno artist tracked on soundcheck, with 77 sets logged 
 
 Cashu, Tuxe, Kontronatura
 
-*Updated Thu, 23 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/alírio/)*
+*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/alírio/)*

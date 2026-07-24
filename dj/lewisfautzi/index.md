@@ -1,6 +1,6 @@
 # Lewis Fautzi
 
-Lewis Fautzi is a Techno and Acid artist with 2 upcoming club dates listed on soundcheck as of Thu, 23 Jul 2026, next at Tanzhaus West, Frankfurt on Fri, 14 Aug 2026.
+Lewis Fautzi is a Techno and Acid artist with 2 upcoming club dates listed on soundcheck as of Fri, 24 Jul 2026, next at Tanzhaus West, Frankfurt on Fri, 14 Aug 2026.
 
 Lewis Fautzi is a techno and acid artist based in Portugal, tracked on soundcheck, with 73 sets logged across Amsterdam, Athens, Barcelona and Belgrade and 22 more. Often billed alongside CONCEPTUAL, Archives Uniques and Adriana Lopez. Next up: Tanzhaus West, Frankfurt on Fri 14 Aug.
 
@@ -26,4 +26,4 @@ Lewis Fautzi is a techno and acid artist based in Portugal, tracked on soundchec
 
 CONCEPTUAL, Archives Uniques, Adriana Lopez
 
-*Updated Thu, 23 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/lewisfautzi/)*
+*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/lewisfautzi/)*

@@ -1,6 +1,6 @@
 # Sylvie Miles
 
-Sylvie Miles is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Thu, 23 Jul 2026, next at Edelfettwerk, Hamburg on Sat, 8 Aug 2026.
+Sylvie Miles is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Fri, 24 Jul 2026, next at Edelfettwerk, Hamburg on Sat, 8 Aug 2026.
 
 Sylvie Miles is a techno and house artist based in Germany, tracked on soundcheck, with 37 sets logged across Amsterdam, Berlin, Cologne and Frankfurt and 2 more. Often billed alongside Mark Dekoda, Klanglos and Prismode. Next up: Edelfettwerk, Hamburg on Sat 8 Aug.
 
@@ -27,4 +27,4 @@ Sylvie Miles is a techno and house artist based in Germany, tracked on soundchec
 
 Mark Dekoda, Klanglos, Prismode
 
-*Updated Thu, 23 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/sylviemiles/)*
+*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/sylviemiles/)*

@@ -1,6 +1,6 @@
 # Yaya
 
-Yaya is a Tech House and House artist with 3 upcoming club dates listed on soundcheck as of Thu, 23 Jul 2026, next at Cova Santa, Ibiza on Sun, 26 Jul 2026.
+Yaya is a Tech House and House artist with 3 upcoming club dates listed on soundcheck as of Fri, 24 Jul 2026, next at Cova Santa, Ibiza on Sun, 26 Jul 2026.
 
 Yaya is a tech house and house artist tracked on soundcheck, with 88 sets logged across Amsterdam, Barcelona, Bucharest and Budapest and 22 more. Often billed alongside Mahony, Loco Dice and Joey Daniel. Next up: Cova Santa, Ibiza on Sun 26 Jul.
 
@@ -27,4 +27,4 @@ Yaya is a tech house and house artist tracked on soundcheck, with 88 sets logged
 
 Mahony, Loco Dice, Joey Daniel
 
-*Updated Thu, 23 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/yaya/)*
+*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/yaya/)*

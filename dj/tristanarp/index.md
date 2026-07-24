@@ -1,6 +1,6 @@
 # Tristan Arp
 
-Tristan Arp is a Bass and Techno artist with 3 upcoming club dates listed on soundcheck as of Thu, 23 Jul 2026, next at The Old Church, London on Fri, 24 Jul 2026.
+Tristan Arp is a Bass and Techno artist with 3 upcoming club dates listed on soundcheck as of Fri, 24 Jul 2026, next at The Old Church, London on Fri, 24 Jul 2026.
 
 Tristan Arp is a bass and techno artist tracked on soundcheck, with 32 sets logged across Austin, Bali, Barcelona and Berlin and 13 more. Often billed alongside DJ DEADNAME, Daigos and E.O.U. Next up: The Old Church, London on Fri 24 Jul.
 
@@ -27,4 +27,4 @@ Tristan Arp is a bass and techno artist tracked on soundcheck, with 32 sets logg
 
 DJ DEADNAME, Daigos, E.O.U
 
-*Updated Thu, 23 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/tristanarp/)*
+*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/tristanarp/)*

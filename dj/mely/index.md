@@ -1,6 +1,6 @@
 # Mely
 
-Mely is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Thu, 23 Jul 2026, next at Kater, Berlin on Fri, 7 Aug 2026.
+Mely is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Fri, 24 Jul 2026, next at Kater, Berlin on Fri, 7 Aug 2026.
 
 Mely is a house and techno artist tracked on soundcheck, with 20 sets logged across Amsterdam, Berlin and Paris. Often billed alongside Hugo LX, Antoine Calvino and Bande de Filles. Next up: Kater, Berlin on Fri 7 Aug.
 
@@ -27,4 +27,4 @@ Mely is a house and techno artist tracked on soundcheck, with 20 sets logged acr
 
 Hugo LX, Antoine Calvino, Bande de Filles
 
-*Updated Thu, 23 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/mely/)*
+*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/mely/)*

@@ -1,6 +1,6 @@
 # Maz (BR)
 
-Maz (BR) is a House and Tech House artist with 4 upcoming club dates listed on soundcheck as of Thu, 23 Jul 2026, next at The Cause, London on Fri, 24 Jul 2026.
+Maz (BR) is a House and Tech House artist with 4 upcoming club dates listed on soundcheck as of Fri, 24 Jul 2026, next at The Cause, London on Fri, 24 Jul 2026.
 
 Maz (BR) is a house and tech house artist tracked on soundcheck, with 98 sets logged across Athens, Austin, Bali and Barcelona and 27 more. Often billed alongside Antdot, Vintage Culture and Artbat. Next up: The Cause, London on Fri 24 Jul.
 
@@ -28,4 +28,4 @@ Maz (BR) is a house and tech house artist tracked on soundcheck, with 98 sets lo
 
 Antdot, Vintage Culture, Artbat
 
-*Updated Thu, 23 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/mazbr/)*
+*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/mazbr/)*

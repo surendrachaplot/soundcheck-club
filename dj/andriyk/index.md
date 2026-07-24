@@ -1,6 +1,6 @@
 # Andriy K.
 
-Andriy K. is a Ambient and Experimental artist with 3 upcoming club dates listed on soundcheck as of Thu, 23 Jul 2026, next at 20nine30, Berlin on Fri, 31 Jul 2026.
+Andriy K. is a Ambient and Experimental artist with 3 upcoming club dates listed on soundcheck as of Fri, 24 Jul 2026, next at 20nine30, Berlin on Fri, 31 Jul 2026.
 
 Andriy K. is an ambient and experimental artist based in Ukraine, tracked on soundcheck, with 76 sets logged across Amsterdam, Basel, Berlin and Krakow and 10 more. Often billed alongside AXT, endléa and BLUME. Next up: 20nine30, Berlin on Fri 31 Jul.
 
@@ -27,4 +27,4 @@ Andriy K. is an ambient and experimental artist based in Ukraine, tracked on sou
 
 AXT, endléa, BLUME
 
-*Updated Thu, 23 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/andriyk/)*
+*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/andriyk/)*

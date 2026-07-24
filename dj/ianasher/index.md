@@ -1,6 +1,6 @@
 # Ian Asher
 
-Ian Asher is a House and Pop artist with 2 upcoming club dates listed on soundcheck as of Thu, 23 Jul 2026, next at LIV Nightclub Miami, Miami on Sat, 25 Jul 2026.
+Ian Asher is a House and Pop artist with 2 upcoming club dates listed on soundcheck as of Fri, 24 Jul 2026, next at LIV Nightclub Miami, Miami on Sat, 25 Jul 2026.
 
 Ian Asher is a house and pop artist tracked on soundcheck, with 40 sets logged across Amsterdam, Austin, Boston and Brisbane and 16 more. Often billed alongside Andy C, Benny Benassi and David Guetta. Next up: LIV Nightclub Miami, Miami on Sat 25 Jul.
 
@@ -26,4 +26,4 @@ Ian Asher is a house and pop artist tracked on soundcheck, with 40 sets logged a
 
 Andy C, Benny Benassi, David Guetta
 
-*Updated Thu, 23 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/ianasher/)*
+*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/ianasher/)*

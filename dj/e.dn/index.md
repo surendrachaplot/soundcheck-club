@@ -1,6 +1,6 @@
 # E.DN
 
-E.DN is a Techno and Jungle artist with 2 upcoming club dates listed on soundcheck as of Thu, 23 Jul 2026, next at La Cheetah Club, Glasgow on Fri, 31 Jul 2026.
+E.DN is a Techno and Jungle artist with 2 upcoming club dates listed on soundcheck as of Fri, 24 Jul 2026, next at La Cheetah Club, Glasgow on Fri, 31 Jul 2026.
 
 E.DN is a techno and jungle artist based in United Kingdom, tracked on soundcheck, with 44 sets logged across Aberdeen, Dublin, Edinburgh and Glasgow and 2 more. Often billed alongside Frazi.er, DV60 and Smiff. Next up: La Cheetah Club, Glasgow on Fri 31 Jul.
 
@@ -26,4 +26,4 @@ E.DN is a techno and jungle artist based in United Kingdom, tracked on soundchec
 
 Frazi.er, DV60, Smiff
 
-*Updated Thu, 23 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/e.dn/)*
+*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/e.dn/)*

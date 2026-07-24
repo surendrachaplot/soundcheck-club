@@ -1,6 +1,6 @@
 # Fear-E
 
-Fear-E is a Techno and Acid artist with 4 upcoming club dates listed on soundcheck as of Thu, 23 Jul 2026, next at The Old Fruitmarket, Glasgow on Sat, 1 Aug 2026.
+Fear-E is a Techno and Acid artist with 4 upcoming club dates listed on soundcheck as of Fri, 24 Jul 2026, next at The Old Fruitmarket, Glasgow on Sat, 1 Aug 2026.
 
 Fear-E is a techno and acid artist based in United Kingdom, tracked on soundcheck, with 27 sets logged across Berlin, Edinburgh, Glasgow and London and 3 more. Often billed alongside Co-Accused, Jerome Hill and Nightwave. Next up: The Old Fruitmarket, Glasgow on Sat 1 Aug.
 
@@ -28,4 +28,4 @@ Fear-E is a techno and acid artist based in United Kingdom, tracked on soundchec
 
 Co-Accused, Jerome Hill, Nightwave
 
-*Updated Thu, 23 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/fear-e/)*
+*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/fear-e/)*

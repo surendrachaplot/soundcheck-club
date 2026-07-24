@@ -1,6 +1,6 @@
 # Faerber
 
-Faerber is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Thu, 23 Jul 2026, next at Golden Pudel Club, Hamburg on Sat, 25 Jul 2026.
+Faerber is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Fri, 24 Jul 2026, next at Golden Pudel Club, Hamburg on Sat, 25 Jul 2026.
 
 Faerber is a techno and house artist based in Germany, tracked on soundcheck, with 50 sets logged across Berlin, Cologne, Copenhagen and Frankfurt and 1 more. Often billed alongside N.R.M, ENNIO and Cryptofauna. Next up: Golden Pudel Club, Hamburg on Sat 25 Jul.
 
@@ -26,4 +26,4 @@ Faerber is a techno and house artist based in Germany, tracked on soundcheck, wi
 
 N.R.M, ENNIO, Cryptofauna
 
-*Updated Thu, 23 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/faerber/)*
+*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/faerber/)*

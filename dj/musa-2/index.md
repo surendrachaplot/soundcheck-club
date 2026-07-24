@@ -1,6 +1,6 @@
 # musa
 
-musa is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Thu, 23 Jul 2026, next at Soleil, Toronto on Sat, 25 Jul 2026.
+musa is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Fri, 24 Jul 2026, next at Soleil, Toronto on Sat, 25 Jul 2026.
 
 musa is a techno and house artist based in Canada, tracked on soundcheck, with 22 sets logged across Auckland, Mexicocity, Montreal and Toronto. Often billed alongside Zellers, Geezr and Jaw Jones. Next up: Soleil, Toronto on Sat 25 Jul.
 
@@ -27,4 +27,4 @@ musa is a techno and house artist based in Canada, tracked on soundcheck, with 2
 
 Zellers, Geezr, Jaw Jones
 
-*Updated Thu, 23 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/musa-2/)*
+*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/musa-2/)*

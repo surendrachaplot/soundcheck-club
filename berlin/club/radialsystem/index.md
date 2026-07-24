@@ -1,6 +1,6 @@
 # Radialsystem
 
-Radialsystem is a music venue in Berlin with 1 upcoming night listed on soundcheck as of Thu, 23 Jul 2026; the next is "Andromeda Mega Express Orchestra" on Fri, 11 Sept 2026.
+Radialsystem is a music venue in Berlin with 1 upcoming night listed on soundcheck as of Fri, 24 Jul 2026; the next is "Andromeda Mega Express Orchestra" on Fri, 11 Sept 2026.
 
 Radialsystem is a music venue in Berlin listed on soundcheck. 1 upcoming night. Browse upcoming dates, start times and who's playing. Holzmarktstraße 33, 10243 Berlin.
 
@@ -14,4 +14,4 @@ Radialsystem is a music venue in Berlin listed on soundcheck. 1 upcoming night. 
 
 Holzmarktstraße 33, 10243 Berlin, Berlin
 
-*Updated Thu, 23 Jul 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/radialsystem/)*
+*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/radialsystem/)*

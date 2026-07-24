@@ -1,6 +1,6 @@
 # Absenta del Raval
 
-Absenta del Raval is a music venue in Barcelona with 2 upcoming nights listed on soundcheck as of Thu, 23 Jul 2026; the next is "Cordobeats vol. X" on Fri, 24 Jul 2026.
+Absenta del Raval is a music venue in Barcelona with 2 upcoming nights listed on soundcheck as of Fri, 24 Jul 2026; the next is "Cordobeats vol. X" on Fri, 24 Jul 2026.
 
 Absenta del Raval is a music venue in Barcelona listed on soundcheck. 2 upcoming nights, with line-ups including MILIAX and VOLLKOMM. Browse upcoming dates, start times and who's playing. Plaça del Pes de la Palla, 5, 08001 Barcelona, España.
 
@@ -15,4 +15,4 @@ Absenta del Raval is a music venue in Barcelona listed on soundcheck. 2 upcoming
 
 Plaça del Pes de la Palla, 5, 08001 Barcelona, España, Barcelona
 
-*Updated Thu, 23 Jul 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/absenta-del-raval/)*
+*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/absenta-del-raval/)*

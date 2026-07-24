@@ -1,6 +1,6 @@
 # ERIS
 
-ERIS is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Thu, 23 Jul 2026, next at House of Q, Stockholm on Sat, 25 Jul 2026.
+ERIS is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Fri, 24 Jul 2026, next at House of Q, Stockholm on Sat, 25 Jul 2026.
 
 ERIS is a house and techno artist based in Germany, tracked on soundcheck, with 68 sets logged across Amsterdam, Bangkok, Barcelona and Belgrade and 26 more. Often billed alongside Dea (6), Enrica Falqui and Aline Umber. Next up: House of Q, Stockholm on Sat 25 Jul.
 
@@ -26,4 +26,4 @@ ERIS is a house and techno artist based in Germany, tracked on soundcheck, with 
 
 Dea (6), Enrica Falqui, Aline Umber
 
-*Updated Thu, 23 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/eris/)*
+*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/eris/)*

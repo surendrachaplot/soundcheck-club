@@ -1,6 +1,6 @@
 # DESIREE (RSA)
 
-DESIREE (RSA) is a House and Techno artist with 8 upcoming club dates listed on soundcheck as of Thu, 23 Jul 2026, next at Club Space Miami, Miami on Sat, 25 Jul 2026.
+DESIREE (RSA) is a House and Techno artist with 8 upcoming club dates listed on soundcheck as of Fri, 24 Jul 2026, next at Club Space Miami, Miami on Sat, 25 Jul 2026.
 
 DESIREE (RSA) is a house and techno artist tracked on soundcheck, with 112 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 38 more. Often billed alongside Sossa, Carlita and Âme. Next up: Club Space Miami, Miami on Sat 25 Jul.
 
@@ -32,4 +32,4 @@ DESIREE (RSA) is a house and techno artist tracked on soundcheck, with 112 sets 
 
 Sossa, Carlita, Âme
 
-*Updated Thu, 23 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/desiree-rsa/)*
+*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/desiree-rsa/)*

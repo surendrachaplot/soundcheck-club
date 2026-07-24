@@ -1,6 +1,6 @@
 # Usus am Wasser
 
-Usus am Wasser is a music venue in Vienna with 2 upcoming nights listed on soundcheck as of Thu, 23 Jul 2026; the next is "TECHNO AM WASSER⁴ x FLUCC AFTERSHOW - OPEN AIR RAVE 2026" on Fri, 7 Aug 2026.
+Usus am Wasser is a music venue in Vienna with 2 upcoming nights listed on soundcheck as of Fri, 24 Jul 2026; the next is "TECHNO AM WASSER⁴ x FLUCC AFTERSHOW - OPEN AIR RAVE 2026" on Fri, 7 Aug 2026.
 
 Usus am Wasser is a music venue in Vienna listed on soundcheck. 2 upcoming nights. Browse upcoming dates, start times and who's playing. An der Neuen Donau 1, 1210 Vienna, Austria.
 
@@ -15,4 +15,4 @@ Usus am Wasser is a music venue in Vienna listed on soundcheck. 2 upcoming night
 
 An der Neuen Donau 1, 1210 Vienna, Austria, Vienna
 
-*Updated Thu, 23 Jul 2026 · source: [soundcheck](https://soundcheck.club/vienna/club/usus-am-wasser/)*
+*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/vienna/club/usus-am-wasser/)*

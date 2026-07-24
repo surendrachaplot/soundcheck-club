@@ -1,6 +1,6 @@
 # Shyboi
 
-Shyboi is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Thu, 23 Jul 2026, next at Signal, New York City on Sat, 25 Jul 2026.
+Shyboi is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Fri, 24 Jul 2026, next at Signal, New York City on Sat, 25 Jul 2026.
 
 Shyboi is a techno and house artist based in United States of America, tracked on soundcheck, with 120 sets logged across Barcelona, Berlin, Boston and Brussels and 9 more. Often billed alongside Juliana Huxtable, Junior M (US) and MORENXXX. Next up: Signal, Newyorkcity on Sat 25 Jul.
 
@@ -27,4 +27,4 @@ Shyboi is a techno and house artist based in United States of America, tracked o
 
 Juliana Huxtable, Junior M (US), MORENXXX
 
-*Updated Thu, 23 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/shyboi/)*
+*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/shyboi/)*

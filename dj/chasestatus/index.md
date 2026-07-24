@@ -1,6 +1,6 @@
 # Chase & Status
 
-Chase & Status is a Drum & Bass and Techno artist with 3 upcoming club dates listed on soundcheck as of Thu, 23 Jul 2026, next at Sønder Hoved, Copenhagen on Thu, 30 Jul 2026.
+Chase & Status is a Drum & Bass and Techno artist with 3 upcoming club dates listed on soundcheck as of Fri, 24 Jul 2026, next at Sønder Hoved, Copenhagen on Thu, 30 Jul 2026.
 
 Chase & Status are a drum & bass and techno duo tracked on soundcheck, with 85 sets logged across Aberdeen, Antwerp, Auckland and Austin and 41 more. Often billed alongside Mozey, Dimension and Andy C. Next up: Sønder Hoved, Copenhagen on Thu 30 Jul.
 
@@ -27,4 +27,4 @@ Chase & Status are a drum & bass and techno duo tracked on soundcheck, with 85 s
 
 Mozey, Dimension, Andy C
 
-*Updated Thu, 23 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/chasestatus/)*
+*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/chasestatus/)*

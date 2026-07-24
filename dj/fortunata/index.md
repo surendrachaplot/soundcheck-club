@@ -1,6 +1,6 @@
 # FORTUNATA
 
-FORTUNATA is a House and Techno artist with 4 upcoming club dates listed on soundcheck as of Thu, 23 Jul 2026, next at Weekend, Berlin on Sat, 1 Aug 2026.
+FORTUNATA is a House and Techno artist with 4 upcoming club dates listed on soundcheck as of Fri, 24 Jul 2026, next at Weekend, Berlin on Sat, 1 Aug 2026.
 
 FORTUNATA is a house and techno artist based in Colombia, tracked on soundcheck, with 42 sets logged across Amsterdam, Berlin and Madrid. Often billed alongside KLOE, XIMA and KLING&KLANG. Next up: Weekend, Berlin on Sat 1 Aug.
 
@@ -28,4 +28,4 @@ FORTUNATA is a house and techno artist based in Colombia, tracked on soundcheck,
 
 KLOE, XIMA, KLING&KLANG
 
-*Updated Thu, 23 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/fortunata/)*
+*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/fortunata/)*

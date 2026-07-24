@@ -1,6 +1,6 @@
 # Hafenklang
 
-Hafenklang is a music venue in Hamburg with 1 upcoming night listed on soundcheck as of Thu, 23 Jul 2026; the next is "***30 JAHRE Hafenklang***two floor event***" on Sat, 25 Jul 2026.
+Hafenklang is a music venue in Hamburg with 1 upcoming night listed on soundcheck as of Fri, 24 Jul 2026; the next is "***30 JAHRE Hafenklang***two floor event***" on Sat, 25 Jul 2026.
 
 Hafenklang is a music venue in Hamburg listed on soundcheck. 1 upcoming night, with line-ups including Bombe, Bomchello, Kid Simius and MELINA (3) and 2 more. Browse upcoming dates, start times and who's playing. Große Elbstrasse 84; 22767 Hamburg; Germany.
 
@@ -14,4 +14,4 @@ Hafenklang is a music venue in Hamburg listed on soundcheck. 1 upcoming night, w
 
 Große Elbstrasse 84; 22767 Hamburg; Germany, Hamburg
 
-*Updated Thu, 23 Jul 2026 · source: [soundcheck](https://soundcheck.club/hamburg/club/hafenklang/)*
+*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/hamburg/club/hafenklang/)*

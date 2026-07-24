@@ -1,6 +1,6 @@
 # Jardin Hospice
 
-Jardin Hospice is a music venue in Brussels with 2 upcoming nights listed on soundcheck as of Thu, 23 Jul 2026; the next is "STLF x Tout Bien Pils" on Sat, 25 Jul 2026.
+Jardin Hospice is a music venue in Brussels with 2 upcoming nights listed on soundcheck as of Fri, 24 Jul 2026; the next is "STLF x Tout Bien Pils" on Sat, 25 Jul 2026.
 
 Jardin Hospice is a music venue in Brussels listed on soundcheck. 2 upcoming nights, with line-ups including Yōkai.. Browse upcoming dates, start times and who's playing. Rue du Grand Hospice 7, 1000 Bruxelles.
 
@@ -15,4 +15,4 @@ Jardin Hospice is a music venue in Brussels listed on soundcheck. 2 upcoming nig
 
 Rue du Grand Hospice 7, 1000 Bruxelles, Brussels
 
-*Updated Thu, 23 Jul 2026 · source: [soundcheck](https://soundcheck.club/brussels/club/jardin-hospice/)*
+*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/brussels/club/jardin-hospice/)*

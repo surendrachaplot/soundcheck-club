@@ -1,6 +1,6 @@
 # Brooklyn Army Terminal
 
-Brooklyn Army Terminal is a music venue in New York City with 6 upcoming nights listed on soundcheck as of Thu, 23 Jul 2026; the next is "Sammy Virji" on Fri, 31 Jul 2026.
+Brooklyn Army Terminal is a music venue in New York City with 6 upcoming nights listed on soundcheck as of Fri, 24 Jul 2026; the next is "Sammy Virji" on Fri, 31 Jul 2026.
 
 Brooklyn Army Terminal is a music venue in Newyorkcity listed on soundcheck. 6 upcoming nights, with line-ups including Alesso, Cloonee, Joseph Capriati and Mau P and 2 more. Browse upcoming dates, start times and who's playing. 58th St, Brooklyn, NY 11220.
 
@@ -19,4 +19,4 @@ Brooklyn Army Terminal is a music venue in Newyorkcity listed on soundcheck. 6 u
 
 58th St, Brooklyn, NY 11220, New York City
 
-*Updated Thu, 23 Jul 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/brooklyn-army-terminal/)*
+*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/brooklyn-army-terminal/)*

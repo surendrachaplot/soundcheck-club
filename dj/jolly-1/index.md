@@ -1,6 +1,6 @@
 # Jolly (FR)
 
-Jolly (FR) is a Techno and Trance artist with 2 upcoming club dates listed on soundcheck as of Thu, 23 Jul 2026, next at Le Trabendo, Paris on Sat, 12 Sept 2026.
+Jolly (FR) is a Techno and Trance artist with 2 upcoming club dates listed on soundcheck as of Fri, 24 Jul 2026, next at Le Trabendo, Paris on Sat, 12 Sept 2026.
 
 Jolly (FR) is a techno and trance artist tracked on soundcheck, with 90 sets logged across Barcelona, Berlin, Brussels and Copenhagen and 12 more. Often billed alongside Lastvuska, Maryu and Domi (FR). Next up: Le Trabendo, Paris on Sat 12 Sept.
 
@@ -26,4 +26,4 @@ Jolly (FR) is a techno and trance artist tracked on soundcheck, with 90 sets log
 
 Lastvuska, Maryu, Domi (FR)
 
-*Updated Thu, 23 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/jolly-1/)*
+*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/jolly-1/)*

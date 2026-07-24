@@ -1,6 +1,6 @@
 # Vertigo
 
-Vertigo is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Thu, 23 Jul 2026, next at The Great Northern, San Francisco/Oakland on Sat, 8 Aug 2026.
+Vertigo is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Fri, 24 Jul 2026, next at The Great Northern, San Francisco/Oakland on Sat, 8 Aug 2026.
 
 Vertigo is a techno and house artist based in United States of America, tracked on soundcheck, with 79 sets logged across Detroit, Newyorkcity, Sanfrancisco and Seattle. Often billed alongside BAD JUUJU, Clearcast and Skiis. Next up: The Great Northern, Sanfrancisco on Sat 8 Aug.
 
@@ -26,4 +26,4 @@ Vertigo is a techno and house artist based in United States of America, tracked 
 
 BAD JUUJU, Clearcast, Skiis
 
-*Updated Thu, 23 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/vertigo/)*
+*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/vertigo/)*

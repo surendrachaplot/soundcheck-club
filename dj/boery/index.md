@@ -1,6 +1,6 @@
 # BØĘRY
 
-BØĘRY is a Techno and Hardcore artist with 10 upcoming club dates listed on soundcheck as of Thu, 23 Jul 2026, next at Schrotty, Cologne on Fri, 24 Jul 2026.
+BØĘRY is a Techno and Hardcore artist with 10 upcoming club dates listed on soundcheck as of Fri, 24 Jul 2026, next at Schrotty, Cologne on Fri, 24 Jul 2026.
 
 BØĘRY is a techno and hardcore artist tracked on soundcheck, with 19 sets logged across Amsterdam, Antwerp, Berlin and Brussels and 8 more. Often billed alongside BLNK, LIEKS and TiTi. Next up: Schrotty, Cologne on Fri 24 Jul.
 
@@ -34,4 +34,4 @@ BØĘRY is a techno and hardcore artist tracked on soundcheck, with 19 sets logg
 
 BLNK, LIEKS, TiTi
 
-*Updated Thu, 23 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/boery/)*
+*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/boery/)*

@@ -1,8 +1,8 @@
 # Carl Craig
 
-Carl Craig is a House and Techno artist with 15 upcoming club dates listed on soundcheck as of Thu, 23 Jul 2026, next at The Jazz Cafe, London on Fri, 24 Jul 2026.
+Carl Craig is a House and Techno artist with 16 upcoming club dates listed on soundcheck as of Fri, 24 Jul 2026, next at The Jazz Cafe, London on Fri, 24 Jul 2026.
 
-Carl Craig is a house and techno artist tracked on soundcheck, with 258 sets logged across Amsterdam, Antwerp, Athens and Austin and 47 more. Often billed alongside Moodymann, DJ Holographic and Seth Troxler. Next up: The Jazz Cafe, London on Fri 24 Jul.
+Carl Craig is a house and techno artist tracked on soundcheck, with 259 sets logged across Amsterdam, Antwerp, Athens and Austin and 47 more. Often billed alongside Moodymann, DJ Holographic and Seth Troxler. Next up: The Jazz Cafe, London on Fri 24 Jul.
 
 ## Upcoming shows
 
@@ -36,4 +36,4 @@ Carl Craig is a house and techno artist tracked on soundcheck, with 258 sets log
 
 Moodymann, DJ Holographic, Seth Troxler
 
-*Updated Thu, 23 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/carlcraig/)*
+*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/carlcraig/)*

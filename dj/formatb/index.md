@@ -1,6 +1,6 @@
 # Format B
 
-Format B is a Techno and Tech House artist with 3 upcoming club dates listed on soundcheck as of Thu, 23 Jul 2026, next at Munich Beach Resort, Munich on Sat, 8 Aug 2026.
+Format B is a Techno and Tech House artist with 3 upcoming club dates listed on soundcheck as of Fri, 24 Jul 2026, next at Munich Beach Resort, Munich on Sat, 8 Aug 2026.
 
 Format B is a techno and tech house artist tracked on soundcheck, with 47 sets logged across Berlin, Cologne, Dusseldorf and Frankfurt and 7 more. Often billed alongside Moonbootica, Prismode and Solvane. Next up: Munich Beach Resort, Munich on Sat 8 Aug.
 
@@ -27,4 +27,4 @@ Format B is a techno and tech house artist tracked on soundcheck, with 47 sets l
 
 Moonbootica, Prismode, Solvane
 
-*Updated Thu, 23 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/formatb/)*
+*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/formatb/)*

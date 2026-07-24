@@ -1,6 +1,6 @@
 # The Hifi Club
 
-The Hifi Club is a music venue in Leeds with 2 upcoming nights listed on soundcheck as of Thu, 23 Jul 2026; the next is "Unity Day After Party 2026" on Sat, 1 Aug 2026.
+The Hifi Club is a music venue in Leeds with 2 upcoming nights listed on soundcheck as of Fri, 24 Jul 2026; the next is "Unity Day After Party 2026" on Sat, 1 Aug 2026.
 
 The Hifi Club is a music venue in Leeds listed on soundcheck. 2 upcoming nights, with line-ups including G-Spot, Panteros666 and SUBVISIONS. Browse upcoming dates, start times and who's playing. 2 Central Road; Leeds; LS1 6DE; United Kingdom.
 
@@ -15,4 +15,4 @@ The Hifi Club is a music venue in Leeds listed on soundcheck. 2 upcoming nights,
 
 2 Central Road; Leeds; LS1 6DE; United Kingdom, Leeds
 
-*Updated Thu, 23 Jul 2026 · source: [soundcheck](https://soundcheck.club/leeds/club/the-hifi-club/)*
+*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/leeds/club/the-hifi-club/)*

@@ -1,6 +1,6 @@
 # Jamz Supernova
 
-Jamz Supernova is a House and Funk / Soul artist with 4 upcoming club dates listed on soundcheck as of Thu, 23 Jul 2026, next at SWG3, Glasgow on Sun, 26 Jul 2026.
+Jamz Supernova is a House and Funk / Soul artist with 4 upcoming club dates listed on soundcheck as of Fri, 24 Jul 2026, next at SWG3, Glasgow on Sun, 26 Jul 2026.
 
 Jamz Supernova is a house and funk / soul artist tracked on soundcheck, with 94 sets logged across Amsterdam, Bali, Bangkok and Barcelona and 23 more. Often billed alongside Tash LC, Ezra Collective and Gilles Peterson. Next up: SWG3, Glasgow on Sun 26 Jul.
 
@@ -28,4 +28,4 @@ Jamz Supernova is a house and funk / soul artist tracked on soundcheck, with 94 
 
 Tash LC, Ezra Collective, Gilles Peterson
 
-*Updated Thu, 23 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/jamzsupernova/)*
+*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/jamzsupernova/)*

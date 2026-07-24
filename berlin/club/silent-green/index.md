@@ -1,14 +1,13 @@
 # Silent Green
 
-Silent Green is a music venue in Berlin with 8 upcoming nights listed on soundcheck as of Thu, 23 Jul 2026; the next is "Silent Green & Music From Beyond pres. Maresz + Del Gesù + The Midnight Audience" on Thu, 23 Jul 2026.
+Silent Green is a music venue in Berlin with 7 upcoming nights listed on soundcheck as of Fri, 24 Jul 2026; the next is "Silent Green Open Lab #8: AIEL + Xingqi Liu" on Tue, 28 Jul 2026.
 
-Silent Green is a music venue in Berlin listed on soundcheck. 8 upcoming nights, with line-ups including AIEL, Edoardo Micheli, HTRK and JakoJako and 2 more. Browse upcoming dates, start times and who's playing. Gerichtstraße 35, 13347 Berlin, Germany.
+Silent Green is a music venue in Berlin listed on soundcheck. 7 upcoming nights, with line-ups including AIEL, Edoardo Micheli, HTRK and JakoJako and 2 more. Browse upcoming dates, start times and who's playing. Gerichtstraße 35, 13347 Berlin, Germany.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Thu, 23 Jul 2026 | Silent Green & Music From Beyond pres. Maresz + Del Gesù + The Midnight Audience |  |
 | Tue, 28 Jul 2026 | Silent Green Open Lab #8: AIEL + Xingqi Liu | AIEL, Edoardo Micheli |
 | Sun, 2 Aug 2026 | HTRK | HTRK |
 | Tue, 4 Aug 2026 | Silent Green Open Lab #9: JKZQ + franna |  |
@@ -21,4 +20,4 @@ Silent Green is a music venue in Berlin listed on soundcheck. 8 upcoming nights,
 
 Gerichtstraße 35, 13347 Berlin, Germany, Berlin
 
-*Updated Thu, 23 Jul 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/silent-green/)*
+*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/silent-green/)*

@@ -1,8 +1,8 @@
 # Pilgrim
 
-Pilgrim is a music venue in Newcastle with 29 upcoming nights listed on soundcheck as of Thu, 23 Jul 2026; the next is "Mixtape" on Fri, 24 Jul 2026.
+Pilgrim is a music venue in Newcastle with 30 upcoming nights listed on soundcheck as of Fri, 24 Jul 2026; the next is "Mixtape" on Fri, 24 Jul 2026.
 
-Pilgrim is a music venue in Newcastle listed on soundcheck. 29 upcoming nights, with line-ups including Sean Donnelly. Browse upcoming dates, start times and who's playing. 54 Pilgrim Street, Newcastle upon Tyne, NE1 6SF.
+Pilgrim is a music venue in Newcastle listed on soundcheck. 30 upcoming nights, with line-ups including Sean Donnelly. Browse upcoming dates, start times and who's playing. 54 Pilgrim Street, Newcastle upon Tyne, NE1 6SF.
 
 ## What's on
 
@@ -23,4 +23,4 @@ Pilgrim is a music venue in Newcastle listed on soundcheck. 29 upcoming nights, 
 
 54 Pilgrim Street, Newcastle upon Tyne, NE1 6SF, Newcastle
 
-*Updated Thu, 23 Jul 2026 · source: [soundcheck](https://soundcheck.club/newcastle/club/pilgrim/)*
+*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/newcastle/club/pilgrim/)*

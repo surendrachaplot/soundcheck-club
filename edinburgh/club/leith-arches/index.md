@@ -1,6 +1,6 @@
 # Leith Arches
 
-Leith Arches is a music venue in Edinburgh with 4 upcoming nights listed on soundcheck as of Thu, 23 Jul 2026; the next is "Rise & Rave" on Fri, 31 Jul 2026.
+Leith Arches is a music venue in Edinburgh with 4 upcoming nights listed on soundcheck as of Fri, 24 Jul 2026; the next is "Rise & Rave" on Fri, 31 Jul 2026.
 
 Leith Arches is a music venue in Edinburgh listed on soundcheck. 4 upcoming nights, with line-ups including DJ Kid - Scotland and Richie Fingers. Browse upcoming dates, start times and who's playing. 6 Manderston St, Edinburgh, EH6 8LY.
 
@@ -17,4 +17,4 @@ Leith Arches is a music venue in Edinburgh listed on soundcheck. 4 upcoming nigh
 
 6 Manderston St, Edinburgh, EH6 8LY, Edinburgh
 
-*Updated Thu, 23 Jul 2026 · source: [soundcheck](https://soundcheck.club/edinburgh/club/leith-arches/)*
+*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/edinburgh/club/leith-arches/)*

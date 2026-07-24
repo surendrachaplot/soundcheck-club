@@ -1,6 +1,6 @@
 # SSG_
 
-SSG_ is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Thu, 23 Jul 2026, next at TBA - Bushwick, New York City on Fri, 31 Jul 2026.
+SSG_ is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Fri, 24 Jul 2026, next at TBA - Bushwick, New York City on Fri, 31 Jul 2026.
 
 SSG_ is a techno and house artist tracked on soundcheck, with 41 sets logged across Boston, Detroit and Newyorkcity. Often billed alongside CSILLA, KXAH and Devoye. Next up: TBA - Bushwick, Newyorkcity on Fri 31 Jul.
 
@@ -26,4 +26,4 @@ SSG_ is a techno and house artist tracked on soundcheck, with 41 sets logged acr
 
 CSILLA, KXAH, Devoye
 
-*Updated Thu, 23 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/ssg_/)*
+*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/ssg_/)*

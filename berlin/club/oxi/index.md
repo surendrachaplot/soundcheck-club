@@ -1,6 +1,6 @@
 # OXI
 
-OXI is a music venue in Berlin with 30 upcoming nights listed on soundcheck as of Thu, 23 Jul 2026; the next is "MARICAS CSD [23 HOURS - OPEN AIR + INDOOR] " on Fri, 24 Jul 2026.
+OXI is a music venue in Berlin with 30 upcoming nights listed on soundcheck as of Fri, 24 Jul 2026; the next is "MARICAS CSD [23 HOURS - OPEN AIR + INDOOR] " on Fri, 24 Jul 2026.
 
 OXI is a music venue in Berlin listed on soundcheck. 30 upcoming nights, with line-ups including ābnamā, acidheaven, Alada and ALAN JOE and 2 more. Browse upcoming dates, start times and who's playing. Wiesenweg 1-4, 10365 Berlin.
 
@@ -23,4 +23,4 @@ OXI is a music venue in Berlin listed on soundcheck. 30 upcoming nights, with li
 
 Wiesenweg 1-4, 10365 Berlin, Berlin
 
-*Updated Thu, 23 Jul 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/oxi/)*
+*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/oxi/)*

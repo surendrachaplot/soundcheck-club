@@ -1,6 +1,6 @@
 # Marvel Gold
 
-Marvel Gold is a Techno and House artist with 5 upcoming club dates listed on soundcheck as of Thu, 23 Jul 2026, next at Süss War Gestern, Berlin on Fri, 24 Jul 2026.
+Marvel Gold is a Techno and House artist with 5 upcoming club dates listed on soundcheck as of Fri, 24 Jul 2026, next at Süss War Gestern, Berlin on Fri, 24 Jul 2026.
 
 Marvel Gold is a techno and house artist based in Germany, tracked on soundcheck, with 56 sets logged across Berlin. Often billed alongside Wiebe Roose, Nikklaas and Epicx. Next up: Süss War Gestern, Berlin on Fri 24 Jul.
 
@@ -29,4 +29,4 @@ Marvel Gold is a techno and house artist based in Germany, tracked on soundcheck
 
 Wiebe Roose, Nikklaas, Epicx
 
-*Updated Thu, 23 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/marvelgold/)*
+*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/marvelgold/)*

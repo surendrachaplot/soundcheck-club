@@ -1,6 +1,6 @@
 # Franc Fala
 
-Franc Fala is a House and Afro House artist with 3 upcoming club dates listed on soundcheck as of Thu, 23 Jul 2026, next at Flevopark, Amsterdam on Sat, 25 Jul 2026.
+Franc Fala is a House and Afro House artist with 3 upcoming club dates listed on soundcheck as of Fri, 24 Jul 2026, next at Flevopark, Amsterdam on Sat, 25 Jul 2026.
 
 Franc Fala is a house and afro house artist tracked on soundcheck, with 31 sets logged across Amsterdam, Barcelona, Basel and Brussels and 7 more. Often billed alongside Benja, Benja (NL) and Cincity. Next up: Flevopark, Amsterdam on Sat 25 Jul.
 
@@ -27,4 +27,4 @@ Franc Fala is a house and afro house artist tracked on soundcheck, with 31 sets 
 
 Benja, Benja (NL), Cincity
 
-*Updated Thu, 23 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/francfala/)*
+*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/francfala/)*

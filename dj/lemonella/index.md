@@ -1,6 +1,6 @@
 # Lemonella
 
-Lemonella is a Downtempo and House artist with 3 upcoming club dates listed on soundcheck as of Thu, 23 Jul 2026, next at Doma Portugal, Lisbon on Fri, 24 Jul 2026.
+Lemonella is a Downtempo and House artist with 3 upcoming club dates listed on soundcheck as of Fri, 24 Jul 2026, next at Doma Portugal, Lisbon on Fri, 24 Jul 2026.
 
 Lemonella is a downtempo and house artist based in South Africa, tracked on soundcheck, with 45 sets logged across Barcelona, Berlin, Frankfurt and Hamburg and 5 more. Often billed alongside Esther Silex, Alma Linda and Britta Arnold. Next up: Doma Portugal, Lisbon on Fri 24 Jul.
 
@@ -27,4 +27,4 @@ Lemonella is a downtempo and house artist based in South Africa, tracked on soun
 
 Esther Silex, Alma Linda, Britta Arnold
 
-*Updated Thu, 23 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/lemonella/)*
+*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/lemonella/)*

@@ -1,6 +1,6 @@
 # flotussin
 
-flotussin is a Club and Techno artist with 3 upcoming club dates listed on soundcheck as of Thu, 23 Jul 2026, next at TRANSMISSION DC, Washington DC on Sat, 25 Jul 2026.
+flotussin is a Club and Techno artist with 3 upcoming club dates listed on soundcheck as of Fri, 24 Jul 2026, next at TRANSMISSION DC, Washington DC on Sat, 25 Jul 2026.
 
 flotussin is a club and techno artist tracked on soundcheck, with 71 sets logged across Chicago, Detroit, Losangeles and Newyorkcity and 5 more. Often billed alongside Tromac, DJ-SUN and Jacq Jill. Next up: TRANSMISSION DC, Washingtondc on Sat 25 Jul.
 
@@ -27,4 +27,4 @@ flotussin is a club and techno artist tracked on soundcheck, with 71 sets logged
 
 Tromac, DJ-SUN, Jacq Jill
 
-*Updated Thu, 23 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/flotussin/)*
+*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/flotussin/)*

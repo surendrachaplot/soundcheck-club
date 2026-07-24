@@ -1,6 +1,6 @@
 # Entasia
 
-Entasia is a House and Trance artist with 3 upcoming club dates listed on soundcheck as of Thu, 23 Jul 2026, next at Soup, Manchester on Fri, 24 Jul 2026.
+Entasia is a House and Trance artist with 3 upcoming club dates listed on soundcheck as of Fri, 24 Jul 2026, next at Soup, Manchester on Fri, 24 Jul 2026.
 
 Entasia is a house and trance artist tracked on soundcheck, with 54 sets logged across Amsterdam, Antwerp, Bali and Cologne and 15 more. Often billed alongside Inafekt, Kyle Starkey and DART. Next up: Soup, Manchester on Fri 24 Jul.
 
@@ -27,4 +27,4 @@ Entasia is a house and trance artist tracked on soundcheck, with 54 sets logged 
 
 Inafekt, Kyle Starkey, DART
 
-*Updated Thu, 23 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/entasia/)*
+*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/entasia/)*

@@ -1,6 +1,6 @@
 # The Dare
 
-The Dare is a Electro and Techno artist with 5 upcoming club dates listed on soundcheck as of Thu, 23 Jul 2026, next at Sønder Hoved, Copenhagen on Thu, 30 Jul 2026.
+The Dare is a Electro and Techno artist with 5 upcoming club dates listed on soundcheck as of Fri, 24 Jul 2026, next at Sønder Hoved, Copenhagen on Thu, 30 Jul 2026.
 
 The Dare is an electro and techno artist based in United States of America, tracked on soundcheck, with 21 sets logged across Barcelona, Berlin, Brussels and Chicago and 15 more. Often billed alongside Doss, Yaeji and 999999999. Next up: Sønder Hoved, Copenhagen on Thu 30 Jul.
 
@@ -29,4 +29,4 @@ The Dare is an electro and techno artist based in United States of America, trac
 
 Doss, Yaeji, 999999999
 
-*Updated Thu, 23 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/thedare/)*
+*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/thedare/)*

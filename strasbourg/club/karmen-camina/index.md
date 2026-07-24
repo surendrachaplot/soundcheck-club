@@ -1,6 +1,6 @@
 # Karmen Camina
 
-Karmen Camina is a music venue in Strasbourg with 12 upcoming nights listed on soundcheck as of Thu, 23 Jul 2026; the next is "Freeday Camina - RAKOR [Agape • big sugar • Greg • Hdarko • La Kalas &+]" on Fri, 24 Jul 2026.
+Karmen Camina is a music venue in Strasbourg with 12 upcoming nights listed on soundcheck as of Fri, 24 Jul 2026; the next is "Freeday Camina - RAKOR [Agape • big sugar • Greg • Hdarko • La Kalas &+]" on Fri, 24 Jul 2026.
 
 Karmen Camina is a music venue in Strasbourg listed on soundcheck. 12 upcoming nights, with line-ups including 33Soleil, AMORAL, Bambounou and Chippy Nonstop and 2 more. Browse upcoming dates, start times and who's playing. 4 cour des Cigarières 67000 Strasbourg.
 
@@ -23,4 +23,4 @@ Karmen Camina is a music venue in Strasbourg listed on soundcheck. 12 upcoming n
 
 4 cour des Cigarières 67000 Strasbourg, Strasbourg
 
-*Updated Thu, 23 Jul 2026 · source: [soundcheck](https://soundcheck.club/strasbourg/club/karmen-camina/)*
+*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/strasbourg/club/karmen-camina/)*

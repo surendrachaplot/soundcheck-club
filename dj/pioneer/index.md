@@ -1,6 +1,6 @@
 # Pioneer
 
-Pioneer is a Tech House and House artist with 7 upcoming club dates listed on soundcheck as of Thu, 23 Jul 2026, next at Impossible, Manchester on Sat, 25 Jul 2026.
+Pioneer is a Tech House and House artist with 7 upcoming club dates listed on soundcheck as of Fri, 24 Jul 2026, next at Impossible, Manchester on Sat, 25 Jul 2026.
 
 Pioneer is a tech house and house artist tracked on soundcheck, with 105 sets logged across Amsterdam, Birmingham, Bristol and London and 1 more. Often billed alongside Supa D, JAYDAA and Jerome Six. Next up: Impossible, Manchester on Sat 25 Jul.
 
@@ -31,4 +31,4 @@ Pioneer is a tech house and house artist tracked on soundcheck, with 105 sets lo
 
 Supa D, JAYDAA, Jerome Six
 
-*Updated Thu, 23 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/pioneer/)*
+*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/pioneer/)*

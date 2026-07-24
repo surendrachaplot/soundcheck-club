@@ -1,6 +1,6 @@
 # Mar/us
 
-Mar/us is a Techno and House artist with 4 upcoming club dates listed on soundcheck as of Thu, 23 Jul 2026, next at RADION, Amsterdam on Sat, 8 Aug 2026.
+Mar/us is a Techno and House artist with 4 upcoming club dates listed on soundcheck as of Fri, 24 Jul 2026, next at RADION, Amsterdam on Sat, 8 Aug 2026.
 
 Mar/us is a techno and house artist tracked on soundcheck, with 83 sets logged across Amsterdam, Athens, Bangkok and Berlin and 23 more. Often billed alongside Metaraph, Samantha Togni and BOYCA. Next up: RADION, Amsterdam on Sat 8 Aug.
 
@@ -28,4 +28,4 @@ Mar/us is a techno and house artist tracked on soundcheck, with 83 sets logged a
 
 Metaraph, Samantha Togni, BOYCA
 
-*Updated Thu, 23 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/marus/)*
+*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/marus/)*

@@ -1,6 +1,6 @@
 # Phoenix
 
-Phoenix is a Latin Bass and Reggaeton artist with 6 upcoming club dates listed on soundcheck as of Thu, 23 Jul 2026, next at XOYO Birmingham, Birmingham on Sat, 25 Jul 2026.
+Phoenix is a Latin Bass and Reggaeton artist with 6 upcoming club dates listed on soundcheck as of Fri, 24 Jul 2026, next at XOYO Birmingham, Birmingham on Sat, 25 Jul 2026.
 
 Phoenix is a latin bass and reggaeton artist based in France, tracked on soundcheck, with 17 sets logged across Bangkok, Barcelona, Birmingham and Hongkong and 6 more. Often billed alongside AMEX (UK), APP and Alaska (2). Next up: XOYO Birmingham, Birmingham on Sat 25 Jul.
 
@@ -30,4 +30,4 @@ Phoenix is a latin bass and reggaeton artist based in France, tracked on soundch
 
 AMEX (UK), APP, Alaska (2)
 
-*Updated Thu, 23 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/phoenix/)*
+*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/phoenix/)*

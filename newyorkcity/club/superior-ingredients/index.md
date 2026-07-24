@@ -1,6 +1,6 @@
 # Superior Ingredients
 
-Superior Ingredients is a music venue in New York City with 15 upcoming nights listed on soundcheck as of Thu, 23 Jul 2026; the next is "Lee Ann Roberts Roof 7/24" on Fri, 24 Jul 2026.
+Superior Ingredients is a music venue in New York City with 15 upcoming nights listed on soundcheck as of Fri, 24 Jul 2026; the next is "Lee Ann Roberts Roof 7/24" on Fri, 24 Jul 2026.
 
 Superior Ingredients is a music venue in Newyorkcity listed on soundcheck. 15 upcoming nights, with line-ups including Aazure, AC Slater, ALT8 and Andrew Azara and 2 more. Browse upcoming dates, start times and who's playing. 74 Wythe Avenue, Brooklyn, NY 11249.
 
@@ -23,4 +23,4 @@ Superior Ingredients is a music venue in Newyorkcity listed on soundcheck. 15 up
 
 74 Wythe Avenue, Brooklyn, NY 11249, New York City
 
-*Updated Thu, 23 Jul 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/superior-ingredients/)*
+*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/superior-ingredients/)*

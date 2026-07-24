@@ -1,6 +1,6 @@
 # Omar+
 
-Omar+ is a House and Tech House artist with 6 upcoming club dates listed on soundcheck as of Thu, 23 Jul 2026, next at Art Club, Houston on Fri, 24 Jul 2026.
+Omar+ is a House and Tech House artist with 6 upcoming club dates listed on soundcheck as of Fri, 24 Jul 2026, next at Art Club, Houston on Fri, 24 Jul 2026.
 
 Omar+ is a house and tech house artist tracked on soundcheck, with 65 sets logged across Aberdeen, Amsterdam, Barcelona and Birmingham and 26 more. Often billed alongside Obskur, Joss Dean and Prospa. Next up: Art Club, Houston on Fri 24 Jul.
 
@@ -30,4 +30,4 @@ Omar+ is a house and tech house artist tracked on soundcheck, with 65 sets logge
 
 Obskur, Joss Dean, Prospa
 
-*Updated Thu, 23 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/omar+/)*
+*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/omar+/)*

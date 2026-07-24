@@ -1,6 +1,6 @@
 # 1luu
 
-1luu is a Techno and Trance artist with 2 upcoming club dates listed on soundcheck as of Thu, 23 Jul 2026, next at Kunstraum Walcheturm, Zurich on Sat, 8 Aug 2026.
+1luu is a Techno and Trance artist with 2 upcoming club dates listed on soundcheck as of Fri, 24 Jul 2026, next at Kunstraum Walcheturm, Zurich on Sat, 8 Aug 2026.
 
 1luu is a techno and trance artist based in Switzerland, tracked on soundcheck, with 101 sets logged across Amsterdam, Basel, Berlin and Budapest and 12 more. Often billed alongside Aexhy, DJ Henk and DJ Traytex. Next up: Kunstraum Walcheturm, Zurich on Sat 8 Aug.
 
@@ -26,4 +26,4 @@
 
 Aexhy, DJ Henk, DJ Traytex
 
-*Updated Thu, 23 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/1luu/)*
+*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/1luu/)*

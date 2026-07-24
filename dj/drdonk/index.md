@@ -1,6 +1,6 @@
 # Dr Donk
 
-Dr Donk is a Techno and Hardcore artist with 3 upcoming club dates listed on soundcheck as of Thu, 23 Jul 2026, next at Electrisize, Düsseldorf on Fri, 7 Aug 2026.
+Dr Donk is a Techno and Hardcore artist with 3 upcoming club dates listed on soundcheck as of Fri, 24 Jul 2026, next at Electrisize, Düsseldorf on Fri, 7 Aug 2026.
 
 Dr Donk is a techno and hardcore artist based in Germany, tracked on soundcheck, with 11 sets logged across Amsterdam, Berlin, Cologne and Dusseldorf and 5 more. Often billed alongside Dimitri K, Lekkerfaces and Yoshiko. Next up: Electrisize, Dusseldorf on Fri 7 Aug.
 
@@ -27,4 +27,4 @@ Dr Donk is a techno and hardcore artist based in Germany, tracked on soundcheck,
 
 Dimitri K, Lekkerfaces, Yoshiko
 
-*Updated Thu, 23 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/drdonk/)*
+*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/drdonk/)*

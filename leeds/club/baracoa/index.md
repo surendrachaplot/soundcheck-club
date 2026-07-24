@@ -1,6 +1,6 @@
 # Baracoa
 
-Baracoa is a music venue in Leeds with 3 upcoming nights listed on soundcheck as of Thu, 23 Jul 2026; the next is "The Twisted House: Rooftop Day Event" on Sat, 1 Aug 2026.
+Baracoa is a music venue in Leeds with 3 upcoming nights listed on soundcheck as of Fri, 24 Jul 2026; the next is "The Twisted House: Rooftop Day Event" on Sat, 1 Aug 2026.
 
 Baracoa is a music venue in Leeds listed on soundcheck. 3 upcoming nights. Browse upcoming dates, start times and who's playing. 52 Call Lane,  Leeds, West Yorkshire, LS1 6DT, United Kingdom.
 
@@ -16,4 +16,4 @@ Baracoa is a music venue in Leeds listed on soundcheck. 3 upcoming nights. Brows
 
 52 Call Lane,  Leeds, West Yorkshire, LS1 6DT, United Kingdom, Leeds
 
-*Updated Thu, 23 Jul 2026 · source: [soundcheck](https://soundcheck.club/leeds/club/baracoa/)*
+*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/leeds/club/baracoa/)*

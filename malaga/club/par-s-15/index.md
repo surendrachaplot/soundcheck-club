@@ -1,6 +1,6 @@
 # París 15
 
-París 15 is a music venue in Malaga with 1 upcoming night listed on soundcheck as of Thu, 23 Jul 2026; the next is "Allstate Insurance Login — Account Access and Bill Pay Guide 2026" on Sat, 25 Jul 2026.
+París 15 is a music venue in Malaga with 1 upcoming night listed on soundcheck as of Fri, 24 Jul 2026; the next is "Allstate Insurance Login — Account Access and Bill Pay Guide 2026" on Sat, 25 Jul 2026.
 
 París 15 is a music venue in Malaga listed on soundcheck. 1 upcoming night, with line-ups including Alaska (2), AMEX (UK), APP and Debit and 2 more. Browse upcoming dates, start times and who's playing. Calle la Orotava 25, 29006 Malaga.
 
@@ -14,4 +14,4 @@ París 15 is a music venue in Malaga listed on soundcheck. 1 upcoming night, wit
 
 Calle la Orotava 25, 29006 Malaga, Malaga
 
-*Updated Thu, 23 Jul 2026 · source: [soundcheck](https://soundcheck.club/malaga/club/par-s-15/)*
+*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/malaga/club/par-s-15/)*

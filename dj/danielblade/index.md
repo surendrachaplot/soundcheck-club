@@ -1,6 +1,6 @@
 # Daniel Blade
 
-Daniel Blade is a Techno and House artist with 5 upcoming club dates listed on soundcheck as of Thu, 23 Jul 2026, next at TBA - beef bar malta, Malta on Sat, 25 Jul 2026.
+Daniel Blade is a Techno and House artist with 5 upcoming club dates listed on soundcheck as of Fri, 24 Jul 2026, next at TBA - beef bar malta, Malta on Sat, 25 Jul 2026.
 
 Daniel Blade is a techno and house artist based in Malta, tracked on soundcheck, with 91 sets logged across Amsterdam, Ibiza, Krakow and London and 2 more. Often billed alongside Carl Bee, Carl Lautier and NEVYALC. Next up: TBA - beef bar malta, Malta on Sat 25 Jul.
 
@@ -29,4 +29,4 @@ Daniel Blade is a techno and house artist based in Malta, tracked on soundcheck,
 
 Carl Bee, Carl Lautier, NEVYALC
 
-*Updated Thu, 23 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/danielblade/)*
+*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/danielblade/)*

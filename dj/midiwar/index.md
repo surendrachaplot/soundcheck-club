@@ -1,6 +1,6 @@
 # MIDI War
 
-MIDI War is a Hardcore and Techno artist with 3 upcoming club dates listed on soundcheck as of Thu, 23 Jul 2026, next at Suree, Tokyo on Fri, 24 Jul 2026.
+MIDI War is a Hardcore and Techno artist with 3 upcoming club dates listed on soundcheck as of Fri, 24 Jul 2026, next at Suree, Tokyo on Fri, 24 Jul 2026.
 
 MIDI War is a hardcore and techno artist tracked on soundcheck, with 47 sets logged across Osaka and Tokyo. Often billed alongside Coretex, KAMIKAZE and DJ Shimamura. Next up: Suree, Tokyo on Fri 24 Jul.
 
@@ -27,4 +27,4 @@ MIDI War is a hardcore and techno artist tracked on soundcheck, with 47 sets log
 
 Coretex, KAMIKAZE, DJ Shimamura
 
-*Updated Thu, 23 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/midiwar/)*
+*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/midiwar/)*

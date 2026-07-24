@@ -1,6 +1,6 @@
 # Township Rebellion
 
-Township Rebellion is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Thu, 23 Jul 2026, next at Lieberscholli, Munich on Sat, 15 Aug 2026.
+Township Rebellion is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Fri, 24 Jul 2026, next at Lieberscholli, Munich on Sat, 15 Aug 2026.
 
 Township Rebellion is a techno and house artist tracked on soundcheck, with 119 sets logged across Amsterdam, Austin, Basel and Berlin and 34 more. Often billed alongside Kaufmann, Prismode and Solvane. Next up: Lieberscholli, Munich on Sat 15 Aug.
 
@@ -27,4 +27,4 @@ Township Rebellion is a techno and house artist tracked on soundcheck, with 119 
 
 Kaufmann, Prismode, Solvane
 
-*Updated Thu, 23 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/townshiprebellion/)*
+*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/townshiprebellion/)*

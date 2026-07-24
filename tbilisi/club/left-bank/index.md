@@ -1,6 +1,6 @@
 # Left Bank
 
-Left Bank is a music venue in Tbilisi with 4 upcoming nights listed on soundcheck as of Thu, 23 Jul 2026; the next is "Left Bank Clubnight: Club Savvy with 5nipss • evin B2B Memotech • Sanaz" on Fri, 24 Jul 2026.
+Left Bank is a music venue in Tbilisi with 4 upcoming nights listed on soundcheck as of Fri, 24 Jul 2026; the next is "Left Bank Clubnight: Club Savvy with 5nipss • evin B2B Memotech • Sanaz" on Fri, 24 Jul 2026.
 
 Left Bank is a music venue in Tbilisi listed on soundcheck. 4 upcoming nights, with line-ups including 3AM, Ash Scholem, Cillian and evin and 2 more. Browse upcoming dates, start times and who's playing. 10 Dodo Abashidze St T''bilisi, Georgia.
 
@@ -17,4 +17,4 @@ Left Bank is a music venue in Tbilisi listed on soundcheck. 4 upcoming nights, w
 
 10 Dodo Abashidze St T''bilisi, Georgia, Tbilisi
 
-*Updated Thu, 23 Jul 2026 · source: [soundcheck](https://soundcheck.club/tbilisi/club/left-bank/)*
+*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/tbilisi/club/left-bank/)*

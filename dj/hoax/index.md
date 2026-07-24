@@ -1,6 +1,6 @@
 # HOAX
 
-HOAX is a Drum & Bass and Techno artist with 3 upcoming club dates listed on soundcheck as of Thu, 23 Jul 2026, next at The Clock Factory, Bristol on Sat, 25 Jul 2026.
+HOAX is a Drum & Bass and Techno artist with 3 upcoming club dates listed on soundcheck as of Fri, 24 Jul 2026, next at The Clock Factory, Bristol on Sat, 25 Jul 2026.
 
 HOAX is a drum & bass and techno artist tracked on soundcheck, with 21 sets logged across Amsterdam, Berlin, Brighton and Bristol and 8 more. Often billed alongside Whiney, Fred V and Degs. Next up: The Clock Factory, Bristol on Sat 25 Jul.
 
@@ -27,4 +27,4 @@ HOAX is a drum & bass and techno artist tracked on soundcheck, with 21 sets logg
 
 Whiney, Fred V, Degs
 
-*Updated Thu, 23 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/hoax/)*
+*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/hoax/)*

@@ -1,6 +1,6 @@
 # Fuchs2
 
-Fuchs2 is a music venue in Prague with 12 upcoming nights listed on soundcheck as of Thu, 23 Jul 2026; the next is "TECHNO ALLIANCE/VINYL ONLY: Mareena ☆ Nina Farrina ☆ Midirama ☆ Raphael Kosmos ☆ 3ever" on Fri, 24 Jul 2026.
+Fuchs2 is a music venue in Prague with 12 upcoming nights listed on soundcheck as of Fri, 24 Jul 2026; the next is "TECHNO ALLIANCE/VINYL ONLY: Mareena ☆ Nina Farrina ☆ Midirama ☆ Raphael Kosmos ☆ 3ever" on Fri, 24 Jul 2026.
 
 Fuchs2 is a music venue in Prague listed on soundcheck. 12 upcoming nights, with line-ups including 3ever, Adamatron, aláya and Axis Alpha and 2 more. Browse upcoming dates, start times and who's playing. Štvanice, 17000 Prague.
 
@@ -23,4 +23,4 @@ Fuchs2 is a music venue in Prague listed on soundcheck. 12 upcoming nights, with
 
 Štvanice, 17000 Prague, Prague
 
-*Updated Thu, 23 Jul 2026 · source: [soundcheck](https://soundcheck.club/prague/club/fuchs2/)*
+*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/prague/club/fuchs2/)*

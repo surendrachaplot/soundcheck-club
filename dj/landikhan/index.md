@@ -1,6 +1,6 @@
 # Landikhan
 
-Landikhan is a House and Tech House artist with 5 upcoming club dates listed on soundcheck as of Thu, 23 Jul 2026, next at Akasha Las Dalias Club - Ibiza, Ibiza on Sat, 25 Jul 2026.
+Landikhan is a House and Tech House artist with 5 upcoming club dates listed on soundcheck as of Fri, 24 Jul 2026, next at Akasha Las Dalias Club - Ibiza, Ibiza on Sat, 25 Jul 2026.
 
 Landikhan is a house and tech house artist based in Spain, tracked on soundcheck, with 48 sets logged across Amsterdam, Barcelona, Berlin and Buenosaires and 5 more. Often billed alongside Omer Tayar, Igor Marijuan and Mira. Next up: Akasha Las Dalias Club - Ibiza, Ibiza on Sat 25 Jul.
 
@@ -29,4 +29,4 @@ Landikhan is a house and tech house artist based in Spain, tracked on soundcheck
 
 Omer Tayar, Igor Marijuan, Mira
 
-*Updated Thu, 23 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/landikhan/)*
+*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/landikhan/)*

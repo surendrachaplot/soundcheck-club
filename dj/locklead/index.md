@@ -1,6 +1,6 @@
 # Locklead
 
-Locklead is a House and Tech House artist with 15 upcoming club dates listed on soundcheck as of Thu, 23 Jul 2026, next at Praterinsel, Munich on Sat, 25 Jul 2026.
+Locklead is a House and Tech House artist with 15 upcoming club dates listed on soundcheck as of Fri, 24 Jul 2026, next at Praterinsel, Munich on Sat, 25 Jul 2026.
 
 Locklead is a house and tech house artist tracked on soundcheck, with 182 sets logged across Amsterdam, Antwerp, Auckland and Barcelona and 39 more. Often billed alongside Marsolo, Chris Stussy and Rossi. Next up: Praterinsel, Munich on Sat 25 Jul.
 
@@ -36,4 +36,4 @@ Locklead is a house and tech house artist tracked on soundcheck, with 182 sets l
 
 Marsolo, Chris Stussy, Rossi
 
-*Updated Thu, 23 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/locklead/)*
+*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/locklead/)*

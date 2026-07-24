@@ -1,6 +1,6 @@
 # ERRANT
 
-ERRANT is a Deep House and Afro House artist with 3 upcoming club dates listed on soundcheck as of Thu, 23 Jul 2026, next at CDLC Barcelona, Barcelona on Sat, 25 Jul 2026.
+ERRANT is a Deep House and Afro House artist with 3 upcoming club dates listed on soundcheck as of Fri, 24 Jul 2026, next at CDLC Barcelona, Barcelona on Sat, 25 Jul 2026.
 
 ERRANT is a deep house and afro house artist tracked on soundcheck, with 69 sets logged across Barcelona and Milan. Often billed alongside Althoff, NIIXII and Jazz K. Next up: CDLC Barcelona, Barcelona on Sat 25 Jul.
 
@@ -27,4 +27,4 @@ ERRANT is a deep house and afro house artist tracked on soundcheck, with 69 sets
 
 Althoff, NIIXII, Jazz K
 
-*Updated Thu, 23 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/errant/)*
+*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/errant/)*

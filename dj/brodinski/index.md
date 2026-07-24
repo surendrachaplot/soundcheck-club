@@ -1,6 +1,6 @@
 # Brodinski
 
-Brodinski is a Hip-Hop and Techno artist with 2 upcoming club dates listed on soundcheck as of Thu, 23 Jul 2026, next at Amsterdamse Bos, Amsterdam on Wed, 29 Jul 2026.
+Brodinski is a Hip-Hop and Techno artist with 2 upcoming club dates listed on soundcheck as of Fri, 24 Jul 2026, next at Amsterdamse Bos, Amsterdam on Wed, 29 Jul 2026.
 
 Brodinski is a hip-hop and techno artist based in France, tracked on soundcheck, with 55 sets logged across Amsterdam, Bangkok, Belgrade and Berlin and 24 more. Often billed alongside Slikback, Polygonia and aya. Next up: Amsterdamse Bos, Amsterdam on Wed 29 Jul.
 
@@ -26,4 +26,4 @@ Brodinski is a hip-hop and techno artist based in France, tracked on soundcheck,
 
 Slikback, Polygonia, aya
 
-*Updated Thu, 23 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/brodinski/)*
+*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/brodinski/)*

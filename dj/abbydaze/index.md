@@ -1,6 +1,6 @@
 # Abby Daze
 
-Abby Daze is a Jungle and Dubstep artist with 4 upcoming club dates listed on soundcheck as of Thu, 23 Jul 2026, next at Planet Wax, London on Sun, 26 Jul 2026.
+Abby Daze is a Jungle and Dubstep artist with 4 upcoming club dates listed on soundcheck as of Fri, 24 Jul 2026, next at Planet Wax, London on Sun, 26 Jul 2026.
 
 Abby Daze is a jungle and dubstep artist tracked on soundcheck, with 57 sets logged across Amsterdam and London. Often billed alongside A.N.T, Uncle G and Yasmine (UK). Next up: Planet Wax, London on Sun 26 Jul.
 
@@ -28,4 +28,4 @@ Abby Daze is a jungle and dubstep artist tracked on soundcheck, with 57 sets log
 
 A.N.T, Uncle G, Yasmine (UK)
 
-*Updated Thu, 23 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/abbydaze/)*
+*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/abbydaze/)*

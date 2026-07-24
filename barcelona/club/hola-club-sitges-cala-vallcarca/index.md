@@ -1,6 +1,6 @@
 # Hola Club Sitges (Cala Vallcarca)
 
-Hola Club Sitges (Cala Vallcarca) is a music venue in Barcelona with 14 upcoming nights listed on soundcheck as of Thu, 23 Jul 2026; the next is "THE ROOM x HOLA CLUB (+21)" on Sat, 25 Jul 2026.
+Hola Club Sitges (Cala Vallcarca) is a music venue in Barcelona with 14 upcoming nights listed on soundcheck as of Fri, 24 Jul 2026; the next is "THE ROOM x HOLA CLUB (+21)" on Sat, 25 Jul 2026.
 
 Hola Club Sitges (Cala Vallcarca) is a music venue in Barcelona listed on soundcheck. 14 upcoming nights, with line-ups including A. CASANOVA, Alex (ES), Alex Pott and Brizas and 2 more. Browse upcoming dates, start times and who's playing. 08872 Sitges, Barcelona.
 
@@ -23,4 +23,4 @@ Hola Club Sitges (Cala Vallcarca) is a music venue in Barcelona listed on soundc
 
 08872 Sitges, Barcelona, Barcelona
 
-*Updated Thu, 23 Jul 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/hola-club-sitges-cala-vallcarca/)*
+*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/hola-club-sitges-cala-vallcarca/)*

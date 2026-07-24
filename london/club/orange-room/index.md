@@ -1,6 +1,6 @@
 # Orange Room
 
-Orange Room is a music venue in London with 3 upcoming nights listed on soundcheck as of Thu, 23 Jul 2026; the next is "Blame It On The Sunshine" on Fri, 24 Jul 2026.
+Orange Room is a music venue in London with 3 upcoming nights listed on soundcheck as of Fri, 24 Jul 2026; the next is "Blame It On The Sunshine" on Fri, 24 Jul 2026.
 
 Orange Room is a music venue in London listed on soundcheck. 3 upcoming nights, with line-ups including Afroasis, bbystunna, DJ Polo and Ethan Porte and 2 more. Browse upcoming dates, start times and who's playing. 375 High St, London E15 4QZ.
 
@@ -16,4 +16,4 @@ Orange Room is a music venue in London listed on soundcheck. 3 upcoming nights, 
 
 375 High St, London E15 4QZ, London
 
-*Updated Thu, 23 Jul 2026 · source: [soundcheck](https://soundcheck.club/london/club/orange-room/)*
+*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/london/club/orange-room/)*

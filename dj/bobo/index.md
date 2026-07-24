@@ -1,6 +1,6 @@
 # Bobo
 
-Bobo is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Thu, 23 Jul 2026, next at The Clydeside Halls Briggait, Glasgow on Sun, 26 Jul 2026.
+Bobo is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Fri, 24 Jul 2026, next at The Clydeside Halls Briggait, Glasgow on Sun, 26 Jul 2026.
 
 Bobo is a house and techno artist based in United Kingdom, tracked on soundcheck, with 13 sets logged across Glasgow, Manchester, Melbourne and Mexicocity and 1 more. Often billed alongside Animaux, Wild Forts and AMIRA. Next up: The Clydeside Halls Briggait, Glasgow on Sun 26 Jul.
 
@@ -27,4 +27,4 @@ Bobo is a house and techno artist based in United Kingdom, tracked on soundcheck
 
 Animaux, Wild Forts, AMIRA
 
-*Updated Thu, 23 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/bobo/)*
+*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/bobo/)*

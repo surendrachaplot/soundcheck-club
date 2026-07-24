@@ -1,6 +1,6 @@
 # Angel Music Bar
 
-Angel Music Bar is a music venue in Melbourne with 7 upcoming nights listed on soundcheck as of Thu, 23 Jul 2026; the next is "Jesse DM & Simonetti ● All Night Long" on Fri, 24 Jul 2026.
+Angel Music Bar is a music venue in Melbourne with 7 upcoming nights listed on soundcheck as of Fri, 24 Jul 2026; the next is "Jesse DM & Simonetti ● All Night Long" on Fri, 24 Jul 2026.
 
 Angel Music Bar is a music venue in Melbourne listed on soundcheck. 7 upcoming nights, with line-ups including Aaliyah Salem, BabyG, Brown Suga Princess and Chino and 2 more. Browse upcoming dates, start times and who's playing. 12 Bourke Street Melbourne, Victoria, Australia.
 
@@ -20,4 +20,4 @@ Angel Music Bar is a music venue in Melbourne listed on soundcheck. 7 upcoming n
 
 12 Bourke Street Melbourne, Victoria, Australia, Melbourne
 
-*Updated Thu, 23 Jul 2026 · source: [soundcheck](https://soundcheck.club/melbourne/club/angel-music-bar/)*
+*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/melbourne/club/angel-music-bar/)*

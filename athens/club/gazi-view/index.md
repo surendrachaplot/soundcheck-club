@@ -1,6 +1,6 @@
 # Gazi View
 
-Gazi View is a music venue in Athens with 1 upcoming night listed on soundcheck as of Thu, 23 Jul 2026; the next is "303 Rave x AISHA in Athens" on Sat, 1 Aug 2026.
+Gazi View is a music venue in Athens with 1 upcoming night listed on soundcheck as of Fri, 24 Jul 2026; the next is "303 Rave x AISHA in Athens" on Sat, 1 Aug 2026.
 
 Gazi View is a music venue in Athens listed on soundcheck. 1 upcoming night, with line-ups including AISHA, Christian Cambas, Deherian and SCTR (2) and 1 more. Browse upcoming dates, start times and who's playing. Iakhou 22, 11854 11854 Athens, Greece.
 
@@ -14,4 +14,4 @@ Gazi View is a music venue in Athens listed on soundcheck. 1 upcoming night, wit
 
 Iakhou 22, 11854 11854 Athens, Greece, Athens
 
-*Updated Thu, 23 Jul 2026 · source: [soundcheck](https://soundcheck.club/athens/club/gazi-view/)*
+*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/athens/club/gazi-view/)*

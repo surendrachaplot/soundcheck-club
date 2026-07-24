@@ -1,6 +1,6 @@
 # Adam Beyer
 
-Adam Beyer is a Techno and Tech House artist with 16 upcoming club dates listed on soundcheck as of Thu, 23 Jul 2026, next at Mia Mao, Paris on Sat, 25 Jul 2026.
+Adam Beyer is a Techno and Tech House artist with 16 upcoming club dates listed on soundcheck as of Fri, 24 Jul 2026, next at Mia Mao, Paris on Sat, 25 Jul 2026.
 
 Adam Beyer is a techno and tech house artist tracked on soundcheck, with 180 sets logged across Amsterdam, Antwerp, Athens and Austin and 44 more. Often billed alongside Eric Prydz, Bart Skils and Patrick Topping. Next up: Mia Mao, Paris on Sat 25 Jul.
 
@@ -36,4 +36,4 @@ Adam Beyer is a techno and tech house artist tracked on soundcheck, with 180 set
 
 Eric Prydz, Bart Skils, Patrick Topping
 
-*Updated Thu, 23 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/adambeyer/)*
+*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/adambeyer/)*

@@ -1,6 +1,6 @@
 # Chinese Laundry
 
-Chinese Laundry is a music venue in Sydney with 3 upcoming nights listed on soundcheck as of Thu, 23 Jul 2026; the next is "Chinese Laundry - VOICING EP LAUNCH + Shutupgeorgia & FRIENDS" on Fri, 24 Jul 2026.
+Chinese Laundry is a music venue in Sydney with 3 upcoming nights listed on soundcheck as of Fri, 24 Jul 2026; the next is "Chinese Laundry - VOICING EP LAUNCH + Shutupgeorgia & FRIENDS" on Fri, 24 Jul 2026.
 
 Chinese Laundry is a music venue in Sydney listed on soundcheck. 3 upcoming nights, with line-ups including Shutupgeorgia and tonz. Browse upcoming dates, start times and who's playing. 111 Sussex St; Sydney, NSW 2000; Australia.
 
@@ -16,4 +16,4 @@ Chinese Laundry is a music venue in Sydney listed on soundcheck. 3 upcoming nigh
 
 111 Sussex St; Sydney, NSW 2000; Australia, Sydney
 
-*Updated Thu, 23 Jul 2026 · source: [soundcheck](https://soundcheck.club/sydney/club/chinese-laundry/)*
+*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/sydney/club/chinese-laundry/)*

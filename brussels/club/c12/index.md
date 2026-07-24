@@ -1,6 +1,6 @@
 # C12
 
-C12 is a music venue in Brussels with 8 upcoming nights listed on soundcheck as of Thu, 23 Jul 2026; the next is "C12 Nite with FENIM0RE & Ponky, Rare Mamba, LEVS" on Sat, 25 Jul 2026.
+C12 is a music venue in Brussels with 8 upcoming nights listed on soundcheck as of Fri, 24 Jul 2026; the next is "C12 Nite with FENIM0RE & Ponky, Rare Mamba, LEVS" on Sat, 25 Jul 2026.
 
 C12 is a music venue in Brussels listed on soundcheck. 8 upcoming nights, with line-ups including AAguilAA, Afonso Peixoto, Amalie and BORED BOUDDHA and 2 more. Browse upcoming dates, start times and who's playing. 116 rue Marché aux Herbes 1000 Brussels.
 
@@ -21,4 +21,4 @@ C12 is a music venue in Brussels listed on soundcheck. 8 upcoming nights, with l
 
 116 rue Marché aux Herbes 1000 Brussels, Brussels
 
-*Updated Thu, 23 Jul 2026 · source: [soundcheck](https://soundcheck.club/brussels/club/c12/)*
+*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/brussels/club/c12/)*

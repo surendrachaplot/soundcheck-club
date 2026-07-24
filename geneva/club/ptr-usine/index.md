@@ -1,6 +1,6 @@
 # PTR-Usine
 
-PTR-Usine is a music venue in Geneva with 1 upcoming night listed on soundcheck as of Thu, 23 Jul 2026; the next is "Autechre Live // Electron Festival x PTR" on Mon, 12 Oct 2026.
+PTR-Usine is a music venue in Geneva with 1 upcoming night listed on soundcheck as of Fri, 24 Jul 2026; the next is "Autechre Live // Electron Festival x PTR" on Mon, 12 Oct 2026.
 
 PTR-Usine is a music venue in Geneva listed on soundcheck. 1 upcoming night, with line-ups including Autechre. Browse upcoming dates, start times and who's playing. Place des Volontaires 4; 5281, Geneva; Switzerland.
 
@@ -14,4 +14,4 @@ PTR-Usine is a music venue in Geneva listed on soundcheck. 1 upcoming night, wit
 
 Place des Volontaires 4; 5281, Geneva; Switzerland, Geneva
 
-*Updated Thu, 23 Jul 2026 · source: [soundcheck](https://soundcheck.club/geneva/club/ptr-usine/)*
+*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/geneva/club/ptr-usine/)*

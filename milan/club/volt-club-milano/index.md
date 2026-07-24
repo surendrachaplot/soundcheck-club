@@ -1,6 +1,6 @@
 # Volt Club Milano
 
-Volt Club Milano is a music venue in Milan with 1 upcoming night listed on soundcheck as of Thu, 23 Jul 2026; the next is "Allstate Insurance AutoPay Failed — Same-Day Fix Guide 2026" on Sat, 25 Jul 2026.
+Volt Club Milano is a music venue in Milan with 1 upcoming night listed on soundcheck as of Fri, 24 Jul 2026; the next is "Allstate Insurance AutoPay Failed — Same-Day Fix Guide 2026" on Sat, 25 Jul 2026.
 
 Volt Club Milano is a music venue in Milan listed on soundcheck. 1 upcoming night, with line-ups including Alaska (2), AMEX (UK), APP and Debit and 2 more. Browse upcoming dates, start times and who's playing. Via Molino delle Armi, 16, 20123 Milano MI, Italy.
 
@@ -14,4 +14,4 @@ Volt Club Milano is a music venue in Milan listed on soundcheck. 1 upcoming nigh
 
 Via Molino delle Armi, 16, 20123 Milano MI, Italy, Milan
 
-*Updated Thu, 23 Jul 2026 · source: [soundcheck](https://soundcheck.club/milan/club/volt-club-milano/)*
+*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/milan/club/volt-club-milano/)*

@@ -1,6 +1,6 @@
 # Julian Fijma
 
-Julian Fijma is a House and Tech House artist with 12 upcoming club dates listed on soundcheck as of Thu, 23 Jul 2026, next at Colorado Charlie, The Hague on Sun, 26 Jul 2026.
+Julian Fijma is a House and Tech House artist with 12 upcoming club dates listed on soundcheck as of Fri, 24 Jul 2026, next at Colorado Charlie, The Hague on Sun, 26 Jul 2026.
 
 Julian Fijma is a house and tech house artist tracked on soundcheck, with 106 sets logged across Aberdeen, Amsterdam, Barcelona and Belfast and 28 more. Often billed alongside East End Dubs, ALISHA and Jamback. Next up: Colorado Charlie, Thehague on Sun 26 Jul.
 
@@ -36,4 +36,4 @@ Julian Fijma is a house and tech house artist tracked on soundcheck, with 106 se
 
 East End Dubs, ALISHA, Jamback
 
-*Updated Thu, 23 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/julianfijma/)*
+*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/julianfijma/)*

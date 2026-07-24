@@ -1,6 +1,6 @@
 # Woodbine Park
 
-Woodbine Park is a music venue in Toronto with 2 upcoming nights listed on soundcheck as of Thu, 23 Jul 2026; the next is "Groovin' in the Park: Friday with Mark Oliver & Break For Love Crew" on Fri, 24 Jul 2026.
+Woodbine Park is a music venue in Toronto with 2 upcoming nights listed on soundcheck as of Fri, 24 Jul 2026; the next is "Groovin' in the Park: Friday with Mark Oliver & Break For Love Crew" on Fri, 24 Jul 2026.
 
 Woodbine Park is a music venue in Toronto listed on soundcheck. 2 upcoming nights, with line-ups including Brash-B, Dan Medland, Iced Misto and Jason Palma and 2 more. Browse upcoming dates, start times and who's playing. 1695 Queen St E, Toronto, ON M4L 1G7, Canada.
 
@@ -15,4 +15,4 @@ Woodbine Park is a music venue in Toronto listed on soundcheck. 2 upcoming night
 
 1695 Queen St E, Toronto, ON M4L 1G7, Canada, Toronto
 
-*Updated Thu, 23 Jul 2026 · source: [soundcheck](https://soundcheck.club/toronto/club/woodbine-park/)*
+*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/toronto/club/woodbine-park/)*

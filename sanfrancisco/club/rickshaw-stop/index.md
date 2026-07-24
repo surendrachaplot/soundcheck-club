@@ -1,6 +1,6 @@
 # Rickshaw Stop
 
-Rickshaw Stop is a music venue in San Francisco/Oakland with 2 upcoming nights listed on soundcheck as of Thu, 23 Jul 2026; the next is "Deadhead Disco: Jerry's Birthday Celebration [San Francisco]" on Sat, 1 Aug 2026.
+Rickshaw Stop is a music venue in San Francisco/Oakland with 2 upcoming nights listed on soundcheck as of Fri, 24 Jul 2026; the next is "Deadhead Disco: Jerry's Birthday Celebration [San Francisco]" on Sat, 1 Aug 2026.
 
 Rickshaw Stop is a music venue in Sanfrancisco listed on soundcheck. 2 upcoming nights. Browse upcoming dates, start times and who's playing. 155 Fell St, San Francisco, CA 94102, United States.
 
@@ -15,4 +15,4 @@ Rickshaw Stop is a music venue in Sanfrancisco listed on soundcheck. 2 upcoming 
 
 155 Fell St, San Francisco, CA 94102, United States, San Francisco/Oakland
 
-*Updated Thu, 23 Jul 2026 · source: [soundcheck](https://soundcheck.club/sanfrancisco/club/rickshaw-stop/)*
+*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/sanfrancisco/club/rickshaw-stop/)*

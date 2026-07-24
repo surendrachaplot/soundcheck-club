@@ -1,6 +1,6 @@
 # My Aeon
 
-My Aeon is a music venue in Melbourne with 3 upcoming nights listed on soundcheck as of Thu, 23 Jul 2026; the next is "Le Chalet Discothèque" on Sat, 1 Aug 2026.
+My Aeon is a music venue in Melbourne with 3 upcoming nights listed on soundcheck as of Fri, 24 Jul 2026; the next is "Le Chalet Discothèque" on Sat, 1 Aug 2026.
 
 My Aeon is a music venue in Melbourne listed on soundcheck. 3 upcoming nights, with line-ups including Andrew Till, Chiara Kickdrum, cuznmatt and Jasmine Speers and 2 more. Browse upcoming dates, start times and who's playing. 791 Sydney Rd; Brunswick VIC 3056; Australia.
 
@@ -16,4 +16,4 @@ My Aeon is a music venue in Melbourne listed on soundcheck. 3 upcoming nights, w
 
 791 Sydney Rd; Brunswick VIC 3056; Australia, Melbourne
 
-*Updated Thu, 23 Jul 2026 · source: [soundcheck](https://soundcheck.club/melbourne/club/my-aeon/)*
+*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/melbourne/club/my-aeon/)*

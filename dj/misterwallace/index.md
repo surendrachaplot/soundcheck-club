@@ -1,6 +1,6 @@
 # Mister Wallace
 
-Mister Wallace is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Thu, 23 Jul 2026, next at BASEMENT, New York City on Sat, 8 Aug 2026.
+Mister Wallace is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Fri, 24 Jul 2026, next at BASEMENT, New York City on Sat, 8 Aug 2026.
 
 Mister Wallace is a techno and house artist based in United States of America, tracked on soundcheck, with 52 sets logged across Berlin, Chicago, Detroit and Houston and 4 more. Often billed alongside Shaun J. Wright, Mister Hoochiemama and Harry Cross. Next up: BASEMENT, Newyorkcity on Sat 8 Aug.
 
@@ -26,4 +26,4 @@ Mister Wallace is a techno and house artist based in United States of America, t
 
 Shaun J. Wright, Mister Hoochiemama, Harry Cross
 
-*Updated Thu, 23 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/misterwallace/)*
+*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/misterwallace/)*

@@ -1,6 +1,6 @@
 # Olivia Mendez
 
-Olivia Mendez is a Techno and House artist with 7 upcoming club dates listed on soundcheck as of Thu, 23 Jul 2026, next at Fuse, Brussels on Sat, 25 Jul 2026.
+Olivia Mendez is a Techno and House artist with 7 upcoming club dates listed on soundcheck as of Fri, 24 Jul 2026, next at Fuse, Brussels on Sat, 25 Jul 2026.
 
 Olivia Mendez is a techno and house artist based in France, tracked on soundcheck, with 142 sets logged across Amsterdam, Athens, Barcelona and Basel and 39 more. Often billed alongside Chami, Freddy K and MARRØN. Next up: Fuse, Brussels on Sat 25 Jul.
 
@@ -31,4 +31,4 @@ Olivia Mendez is a techno and house artist based in France, tracked on soundchec
 
 Chami, Freddy K, MARRØN
 
-*Updated Thu, 23 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/oliviamendez/)*
+*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/oliviamendez/)*

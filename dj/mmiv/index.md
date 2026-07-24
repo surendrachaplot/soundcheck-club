@@ -1,6 +1,6 @@
 # MMIV
 
-MMIV is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Thu, 23 Jul 2026, next at TILLATEC, Amsterdam on Sat, 25 Jul 2026.
+MMIV is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Fri, 24 Jul 2026, next at TILLATEC, Amsterdam on Sat, 25 Jul 2026.
 
 MMIV is a house and techno artist based in Netherlands, tracked on soundcheck, with 15 sets logged across Amsterdam and Utrecht. Often billed alongside Shady Lady, Doppelgang and BELLA (NL). Next up: TILLATEC, Amsterdam on Sat 25 Jul.
 
@@ -27,4 +27,4 @@ MMIV is a house and techno artist based in Netherlands, tracked on soundcheck, w
 
 Shady Lady, Doppelgang, BELLA (NL)
 
-*Updated Thu, 23 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/mmiv/)*
+*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/mmiv/)*

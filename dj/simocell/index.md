@@ -1,6 +1,6 @@
 # Simo Cell
 
-Simo Cell is a Techno and Bass artist with 4 upcoming club dates listed on soundcheck as of Thu, 23 Jul 2026, next at TBA - Rose Bakery, 35-37 rue des Francs-Bourgeois, 75004 Paris, Paris on Wed, 29 Jul 2026.
+Simo Cell is a Techno and Bass artist with 4 upcoming club dates listed on soundcheck as of Fri, 24 Jul 2026, next at TBA - Rose Bakery, 35-37 rue des Francs-Bourgeois, 75004 Paris, Paris on Wed, 29 Jul 2026.
 
 Simo Cell is a techno and bass artist tracked on soundcheck, with 108 sets logged across Amsterdam, Barcelona, Basel and Belgrade and 42 more. Often billed alongside CCL, DjRUM and Ehua. Next up: TBA - Rose Bakery, 35-37 rue des Francs-Bourgeois, 75004 Paris, Paris on Wed 29 Jul.
 
@@ -28,4 +28,4 @@ Simo Cell is a techno and bass artist tracked on soundcheck, with 108 sets logge
 
 CCL, DjRUM, Ehua
 
-*Updated Thu, 23 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/simocell/)*
+*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/simocell/)*

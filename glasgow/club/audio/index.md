@@ -1,6 +1,6 @@
 # Audio
 
-Audio is a music venue in Glasgow with 3 upcoming nights listed on soundcheck as of Thu, 23 Jul 2026; the next is "Euphoric Events Presents: ØRBENYX & JOSSA" on Fri, 31 Jul 2026.
+Audio is a music venue in Glasgow with 3 upcoming nights listed on soundcheck as of Fri, 24 Jul 2026; the next is "Euphoric Events Presents: ØRBENYX & JOSSA" on Fri, 31 Jul 2026.
 
 Audio is a music venue in Glasgow listed on soundcheck. 3 upcoming nights, with line-ups including DJ Bax, Noise Hz, providence144 and Tekhole and 2 more. Browse upcoming dates, start times and who's playing. 14 Midland Street, G1 4PP.
 
@@ -16,4 +16,4 @@ Audio is a music venue in Glasgow listed on soundcheck. 3 upcoming nights, with 
 
 14 Midland Street, G1 4PP, Glasgow
 
-*Updated Thu, 23 Jul 2026 · source: [soundcheck](https://soundcheck.club/glasgow/club/audio/)*
+*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/glasgow/club/audio/)*

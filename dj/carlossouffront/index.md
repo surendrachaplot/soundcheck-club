@@ -1,6 +1,6 @@
 # Carlos Souffront
 
-Carlos Souffront is a Techno and Acid artist with 5 upcoming club dates listed on soundcheck as of Thu, 23 Jul 2026, next at MoMA PS1, New York City on Fri, 24 Jul 2026.
+Carlos Souffront is a Techno and Acid artist with 5 upcoming club dates listed on soundcheck as of Fri, 24 Jul 2026, next at MoMA PS1, New York City on Fri, 24 Jul 2026.
 
 Carlos Souffront is a techno and acid artist tracked on soundcheck, with 104 sets logged across Austin, Belgrade, Berlin and Boston and 15 more. Often billed alongside Mike Servito, Patrick Russell and Derek Plaslaiko. Next up: MoMA PS1, Newyorkcity on Fri 24 Jul.
 
@@ -29,4 +29,4 @@ Carlos Souffront is a techno and acid artist tracked on soundcheck, with 104 set
 
 Mike Servito, Patrick Russell, Derek Plaslaiko
 
-*Updated Thu, 23 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/carlossouffront/)*
+*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/carlossouffront/)*

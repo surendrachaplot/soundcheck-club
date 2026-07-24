@@ -1,6 +1,6 @@
 # Mosimann
 
-Mosimann is a Electro and Techno artist with 4 upcoming club dates listed on soundcheck as of Thu, 23 Jul 2026, next at Amnesia Ibiza, Ibiza on Wed, 29 Jul 2026.
+Mosimann is a Electro and Techno artist with 4 upcoming club dates listed on soundcheck as of Fri, 24 Jul 2026, next at Amnesia Ibiza, Ibiza on Wed, 29 Jul 2026.
 
 Mosimann is an electro and techno artist tracked on soundcheck, with 20 sets logged across Amsterdam, Barcelona, Brussels and Geneva and 6 more. Often billed alongside Vladimir Cauchemar, Acid Arab and Agoria. Next up: Amnesia Ibiza, Ibiza on Wed 29 Jul.
 
@@ -28,4 +28,4 @@ Mosimann is an electro and techno artist tracked on soundcheck, with 20 sets log
 
 Vladimir Cauchemar, Acid Arab, Agoria
 
-*Updated Thu, 23 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/mosimann/)*
+*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/mosimann/)*

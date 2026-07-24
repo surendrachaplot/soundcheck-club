@@ -1,6 +1,6 @@
 # The Banshee House
 
-The Banshee House is a music venue in Denver with 1 upcoming night listed on soundcheck as of Thu, 23 Jul 2026; the next is "Hoppers X ABAP PRESENT: DETROIT X DENVER" on Sat, 25 Jul 2026.
+The Banshee House is a music venue in Denver with 1 upcoming night listed on soundcheck as of Fri, 24 Jul 2026; the next is "Hoppers X ABAP PRESENT: DETROIT X DENVER" on Sat, 25 Jul 2026.
 
 The Banshee House is a music venue in Denver listed on soundcheck. 1 upcoming night, with line-ups including Dastardly Kids, Disc Jockey George, Fullbodydurag and J BOLIVAR and 2 more. Browse upcoming dates, start times and who's playing. 2715 Larimer St, Denver, CO 80205.
 
@@ -14,4 +14,4 @@ The Banshee House is a music venue in Denver listed on soundcheck. 1 upcoming ni
 
 2715 Larimer St, Denver, CO 80205, Denver
 
-*Updated Thu, 23 Jul 2026 · source: [soundcheck](https://soundcheck.club/denver/club/the-banshee-house/)*
+*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/denver/club/the-banshee-house/)*

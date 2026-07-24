@@ -1,6 +1,6 @@
 # Shan Nash
 
-Shan Nash is a Deep House and House artist with 3 upcoming club dates listed on soundcheck as of Thu, 23 Jul 2026, next at Gospël New York, New York City on Sun, 26 Jul 2026.
+Shan Nash is a Deep House and House artist with 3 upcoming club dates listed on soundcheck as of Fri, 24 Jul 2026, next at Gospël New York, New York City on Sun, 26 Jul 2026.
 
 Shan Nash is a deep house and house artist based in United States of America, tracked on soundcheck, with 26 sets logged across Istanbul, Losangeles, Miami and Newyorkcity and 2 more. Often billed alongside Ali Farahani, Borak and Gru.di. Next up: Gospël New York, Newyorkcity on Sun 26 Jul.
 
@@ -27,4 +27,4 @@ Shan Nash is a deep house and house artist based in United States of America, tr
 
 Ali Farahani, Borak, Gru.di
 
-*Updated Thu, 23 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/shannash/)*
+*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/shannash/)*

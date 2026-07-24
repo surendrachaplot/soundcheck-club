@@ -1,6 +1,6 @@
 # Vani Vachi
 
-Vani Vachi is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Thu, 23 Jul 2026, next at Tresor / Globus, Berlin on Mon, 10 Aug 2026.
+Vani Vachi is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Fri, 24 Jul 2026, next at Tresor / Globus, Berlin on Mon, 10 Aug 2026.
 
 Vani Vachi is a techno and house artist tracked on soundcheck, with 68 sets logged across Antwerp, Athens, Berlin and Leipzig and 10 more. Often billed alongside Tweeman, Ruslan Mays and Nastya Muravyova. Next up: Tresor / Globus, Berlin on Mon 10 Aug.
 
@@ -26,4 +26,4 @@ Vani Vachi is a techno and house artist tracked on soundcheck, with 68 sets logg
 
 Tweeman, Ruslan Mays, Nastya Muravyova
 
-*Updated Thu, 23 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/vanivachi/)*
+*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/vanivachi/)*

@@ -1,6 +1,6 @@
 # Conrad Taylor
 
-Conrad Taylor is a Techno and House artist with 4 upcoming club dates listed on soundcheck as of Thu, 23 Jul 2026, next at Celebrities Night Club, Vancouver on Sat, 22 Aug 2026.
+Conrad Taylor is a Techno and House artist with 4 upcoming club dates listed on soundcheck as of Fri, 24 Jul 2026, next at Celebrities Night Club, Vancouver on Sat, 22 Aug 2026.
 
 Conrad Taylor is a techno and house artist tracked on soundcheck, with 18 sets logged across Berlin, Newyorkcity, Paris and Sanfrancisco and 3 more. Often billed alongside Flash Gea, Adrian Mills and BIIANCO. Next up: Celebrities Night Club, Vancouver on Sat 22 Aug.
 
@@ -28,4 +28,4 @@ Conrad Taylor is a techno and house artist tracked on soundcheck, with 18 sets l
 
 Flash Gea, Adrian Mills, BIIANCO
 
-*Updated Thu, 23 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/conradtaylor/)*
+*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/conradtaylor/)*

@@ -1,14 +1,13 @@
 # Ministerium Club
 
-Ministerium Club is a music venue in Lisbon with 9 upcoming nights listed on soundcheck as of Thu, 23 Jul 2026; the next is "Riktus IV ANNIVERSARY - 4.4 (Day Four) with PETERBLUE, DJ SEXSTASY" on Thu, 23 Jul 2026.
+Ministerium Club is a music venue in Lisbon with 8 upcoming nights listed on soundcheck as of Fri, 24 Jul 2026; the next is "Ministerium Club // David Rodrigues, André Cascais & Naturalisten" on Fri, 24 Jul 2026.
 
-Ministerium Club is a music venue in Lisbon listed on soundcheck. 9 upcoming nights, with line-ups including 7CIRCLE, Amulador, Andre Cascais and ANÍBAL and 2 more. Browse upcoming dates, start times and who's playing. Praça Comércio 72, 1100-148, Lisboa, Portugal.
+Ministerium Club is a music venue in Lisbon listed on soundcheck. 8 upcoming nights, with line-ups including 7CIRCLE, Amulador, Andre Cascais and Ario and 2 more. Browse upcoming dates, start times and who's playing. Praça Comércio 72, 1100-148, Lisboa, Portugal.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Thu, 23 Jul 2026 | Riktus IV ANNIVERSARY - 4.4 (Day Four) with PETERBLUE, DJ SEXSTASY | ANÍBAL, DJ SEXSTASY, GAVI, PETERBLUE, kennino, pavvvvvvlo |
 | Fri, 24 Jul 2026 | Ministerium Club // David Rodrigues, André Cascais & Naturalisten | Andre Cascais, David Rodrigues |
 | Sat, 25 Jul 2026 | Ministerium Club // Secret Guest, Fonzi, Pitcho & Nibius | Fonzi (2), Nibius, Pitcho |
 | Thu, 30 Jul 2026 | Riktus Rebirth - The Anniversary Finale | Cynthia Spiering, Lolalita, Madson Carpenter |
@@ -22,4 +21,4 @@ Ministerium Club is a music venue in Lisbon listed on soundcheck. 9 upcoming nig
 
 Praça Comércio 72, 1100-148, Lisboa, Portugal, Lisbon
 
-*Updated Thu, 23 Jul 2026 · source: [soundcheck](https://soundcheck.club/lisbon/club/ministerium-club/)*
+*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/lisbon/club/ministerium-club/)*

@@ -1,6 +1,6 @@
 # Édifice Wilder - Espace Danse
 
-Édifice Wilder - Espace Danse is a music venue in Montreal with 2 upcoming nights listed on soundcheck as of Thu, 23 Jul 2026; the next is "Estelle Schorpp & charline dally, JS Baillat & Mateo Murphy, pliq - MUTEK 27" on Sat, 29 Aug 2026.
+Édifice Wilder - Espace Danse is a music venue in Montreal with 2 upcoming nights listed on soundcheck as of Fri, 24 Jul 2026; the next is "Estelle Schorpp & charline dally, JS Baillat & Mateo Murphy, pliq - MUTEK 27" on Sat, 29 Aug 2026.
 
 Édifice Wilder - Espace Danse is a music venue in Montreal listed on soundcheck. 2 upcoming nights, with line-ups including Mateo Murphy. Browse upcoming dates, start times and who's playing. 1435 Rue de Bleury, Montréal, QC H3A 2H7.
 
@@ -15,4 +15,4 @@
 
 1435 Rue de Bleury, Montréal, QC H3A 2H7, Montreal
 
-*Updated Thu, 23 Jul 2026 · source: [soundcheck](https://soundcheck.club/montreal/club/difice-wilder-espace-danse/)*
+*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/montreal/club/difice-wilder-espace-danse/)*

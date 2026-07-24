@@ -1,6 +1,6 @@
 # Deborah De Luca
 
-Deborah De Luca is a Techno and House artist with 8 upcoming club dates listed on soundcheck as of Thu, 23 Jul 2026, next at Bootshaus, Cologne on Fri, 24 Jul 2026.
+Deborah De Luca is a Techno and House artist with 8 upcoming club dates listed on soundcheck as of Fri, 24 Jul 2026, next at Bootshaus, Cologne on Fri, 24 Jul 2026.
 
 Deborah De Luca is a techno and house artist tracked on soundcheck, with 144 sets logged across Antwerp, Athens, Austin and Bali and 44 more. Often billed alongside Luca Donzelli, I Hate Models and 999999999. Next up: Bootshaus, Cologne on Fri 24 Jul.
 
@@ -32,4 +32,4 @@ Deborah De Luca is a techno and house artist tracked on soundcheck, with 144 set
 
 Luca Donzelli, I Hate Models, 999999999
 
-*Updated Thu, 23 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/deborahdeluca/)*
+*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/deborahdeluca/)*

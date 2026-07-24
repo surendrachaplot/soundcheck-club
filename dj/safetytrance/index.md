@@ -1,6 +1,6 @@
 # Safety Trance
 
-Safety Trance is a Techno and Reggaeton artist with 2 upcoming club dates listed on soundcheck as of Thu, 23 Jul 2026, next at OIL Club, Shenzhen on Sat, 1 Aug 2026.
+Safety Trance is a Techno and Reggaeton artist with 2 upcoming club dates listed on soundcheck as of Fri, 24 Jul 2026, next at OIL Club, Shenzhen on Sat, 1 Aug 2026.
 
 Safety Trance is a techno and reggaeton artist tracked on soundcheck, with 101 sets logged across Amsterdam, Athens, Barcelona and Berlin and 41 more. Often billed alongside Cardopusher, Manuka Honey and Florentino. Next up: OIL Club, Shenzhen on Sat 1 Aug.
 
@@ -26,4 +26,4 @@ Safety Trance is a techno and reggaeton artist tracked on soundcheck, with 101 s
 
 Cardopusher, Manuka Honey, Florentino
 
-*Updated Thu, 23 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/safetytrance/)*
+*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/safetytrance/)*

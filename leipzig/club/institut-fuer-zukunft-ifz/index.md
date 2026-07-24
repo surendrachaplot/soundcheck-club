@@ -1,6 +1,6 @@
 # Institut fuer Zukunft (IfZ)
 
-Institut fuer Zukunft (IfZ) is a music venue in Leipzig with 2 upcoming nights listed on soundcheck as of Thu, 23 Jul 2026; the next is "Allstate Insurance 800 Number — Verified Contact for All Services 2026" on Sat, 25 Jul 2026.
+Institut fuer Zukunft (IfZ) is a music venue in Leipzig with 2 upcoming nights listed on soundcheck as of Fri, 24 Jul 2026; the next is "Allstate Insurance 800 Number — Verified Contact for All Services 2026" on Sat, 25 Jul 2026.
 
 Institut fuer Zukunft (IfZ) is a music venue in Leipzig listed on soundcheck. 2 upcoming nights, with line-ups including Alaska (2), AMEX (UK), APP and Debit and 2 more. Browse upcoming dates, start times and who's playing. An den Tierkliniken 38-40, 04103 Leipzig.
 
@@ -15,4 +15,4 @@ Institut fuer Zukunft (IfZ) is a music venue in Leipzig listed on soundcheck. 2 
 
 An den Tierkliniken 38-40, 04103 Leipzig, Leipzig
 
-*Updated Thu, 23 Jul 2026 · source: [soundcheck](https://soundcheck.club/leipzig/club/institut-fuer-zukunft-ifz/)*
+*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/leipzig/club/institut-fuer-zukunft-ifz/)*

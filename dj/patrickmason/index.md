@@ -1,8 +1,8 @@
 # Patrick Mason
 
-Patrick Mason is a Techno and House artist with 14 upcoming club dates listed on soundcheck as of Thu, 23 Jul 2026, next at Virage, Paris on Fri, 31 Jul 2026.
+Patrick Mason is a Techno and House artist with 15 upcoming club dates listed on soundcheck as of Fri, 24 Jul 2026, next at Virage, Paris on Fri, 31 Jul 2026.
 
-Patrick Mason is a techno and house artist tracked on soundcheck, with 263 sets logged across Amsterdam, Antwerp, Athens and Austin and 73 more. Often billed alongside Héctor Oaks, 999999999 and I Hate Models. Next up: Virage, Paris on Fri 31 Jul.
+Patrick Mason is a techno and house artist tracked on soundcheck, with 264 sets logged across Amsterdam, Antwerp, Athens and Austin and 73 more. Often billed alongside Héctor Oaks, 999999999 and I Hate Models. Next up: Virage, Paris on Fri 31 Jul.
 
 ## Upcoming shows
 
@@ -36,4 +36,4 @@ Patrick Mason is a techno and house artist tracked on soundcheck, with 263 sets 
 
 Héctor Oaks, 999999999, I Hate Models
 
-*Updated Thu, 23 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/patrickmason/)*
+*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/patrickmason/)*

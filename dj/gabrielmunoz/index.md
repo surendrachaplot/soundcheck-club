@@ -1,6 +1,6 @@
 # Gabriel Muñoz
 
-Gabriel Muñoz is a House and Techno artist with 5 upcoming club dates listed on soundcheck as of Thu, 23 Jul 2026, next at Lofi, Amsterdam on Sat, 25 Jul 2026.
+Gabriel Muñoz is a House and Techno artist with 5 upcoming club dates listed on soundcheck as of Fri, 24 Jul 2026, next at Lofi, Amsterdam on Sat, 25 Jul 2026.
 
 Gabriel Muñoz is a house and techno artist tracked on soundcheck, with 33 sets logged across Amsterdam, Antwerp, Bali and Berlin and 8 more. Often billed alongside Milion, Bella Claxton and De Sluwe Vos. Next up: Lofi, Amsterdam on Sat 25 Jul.
 
@@ -29,4 +29,4 @@ Gabriel Muñoz is a house and techno artist tracked on soundcheck, with 33 sets 
 
 Milion, Bella Claxton, De Sluwe Vos
 
-*Updated Thu, 23 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/gabrielmunoz/)*
+*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/gabrielmunoz/)*

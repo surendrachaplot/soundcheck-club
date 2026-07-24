@@ -1,6 +1,6 @@
 # Tim Reaper
 
-Tim Reaper is a Jungle and Drum & Bass artist with 9 upcoming club dates listed on soundcheck as of Thu, 23 Jul 2026, next at Palais, London on Fri, 31 Jul 2026.
+Tim Reaper is a Jungle and Drum & Bass artist with 9 upcoming club dates listed on soundcheck as of Fri, 24 Jul 2026, next at Palais, London on Fri, 31 Jul 2026.
 
 Tim Reaper is a jungle and drum & bass artist tracked on soundcheck, with 231 sets logged across Amsterdam, Antwerp, Auckland and Barcelona and 46 more. Often billed alongside Dwarde, Sully and Coco Bryce. Next up: Palais, London on Fri 31 Jul.
 
@@ -33,4 +33,4 @@ Tim Reaper is a jungle and drum & bass artist tracked on soundcheck, with 231 se
 
 Dwarde, Sully, Coco Bryce
 
-*Updated Thu, 23 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/timreaper/)*
+*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/timreaper/)*

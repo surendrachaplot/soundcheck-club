@@ -1,6 +1,6 @@
 # Surf 2 Glory
 
-Surf 2 Glory is a Techno and House artist with 4 upcoming club dates listed on soundcheck as of Thu, 23 Jul 2026, next at Rebstockpark, Frankfurt on Sat, 25 Jul 2026.
+Surf 2 Glory is a Techno and House artist with 4 upcoming club dates listed on soundcheck as of Fri, 24 Jul 2026, next at Rebstockpark, Frankfurt on Sat, 25 Jul 2026.
 
 Surf 2 Glory is a techno and house artist tracked on soundcheck, with 125 sets logged across Amsterdam, Antwerp, Bali and Barcelona and 24 more. Often billed alongside MALUGI, Marlon Hoffstadt and ferrari rot. Next up: Rebstockpark, Frankfurt on Sat 25 Jul.
 
@@ -28,4 +28,4 @@ Surf 2 Glory is a techno and house artist tracked on soundcheck, with 125 sets l
 
 MALUGI, Marlon Hoffstadt, ferrari rot
 
-*Updated Thu, 23 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/surf2glory/)*
+*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/surf2glory/)*

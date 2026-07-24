@@ -1,6 +1,6 @@
 # TWOFACEDKIMMY
 
-TWOFACEDKIMMY is a Techno and Trance artist with 3 upcoming club dates listed on soundcheck as of Thu, 23 Jul 2026, next at Karoline 45, Hamburg on Sat, 8 Aug 2026.
+TWOFACEDKIMMY is a Techno and Trance artist with 3 upcoming club dates listed on soundcheck as of Fri, 24 Jul 2026, next at Karoline 45, Hamburg on Sat, 8 Aug 2026.
 
 TWOFACEDKIMMY is a techno and trance artist tracked on soundcheck, with 15 sets logged across Hamburg. Often billed alongside Unromantic, Cherries040 and Frank Rayo. Next up: Karoline 45, Hamburg on Sat 8 Aug.
 
@@ -27,4 +27,4 @@ TWOFACEDKIMMY is a techno and trance artist tracked on soundcheck, with 15 sets 
 
 Unromantic, Cherries040, Frank Rayo
 
-*Updated Thu, 23 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/twofacedkimmy/)*
+*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/twofacedkimmy/)*

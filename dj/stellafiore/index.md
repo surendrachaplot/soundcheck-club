@@ -1,6 +1,6 @@
 # Stella Fiore
 
-Stella Fiore is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Thu, 23 Jul 2026, next at Sunseabar Beach Club, Barcelona on Sun, 26 Jul 2026.
+Stella Fiore is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Fri, 24 Jul 2026, next at Sunseabar Beach Club, Barcelona on Sun, 26 Jul 2026.
 
 Stella Fiore is a house and techno artist based in Germany, tracked on soundcheck, with 40 sets logged across Barcelona, Berlin, Boston and Bucharest and 16 more. Often billed alongside Ivan Iacobucci, Friendzone and Naima (2). Next up: Sunseabar Beach Club, Barcelona on Sun 26 Jul.
 
@@ -26,4 +26,4 @@ Stella Fiore is a house and techno artist based in Germany, tracked on soundchec
 
 Ivan Iacobucci, Friendzone, Naima (2)
 
-*Updated Thu, 23 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/stellafiore/)*
+*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/stellafiore/)*

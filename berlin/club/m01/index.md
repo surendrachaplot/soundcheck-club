@@ -1,6 +1,6 @@
 # M01
 
-M01 is a music venue in Berlin with 2 upcoming nights listed on soundcheck as of Thu, 23 Jul 2026; the next is "Bass Resistance. 3 Years w/ mi-el, Minor Science, Wordcolour" on Sat, 25 Jul 2026.
+M01 is a music venue in Berlin with 2 upcoming nights listed on soundcheck as of Fri, 24 Jul 2026; the next is "Bass Resistance. 3 Years w/ mi-el, Minor Science, Wordcolour" on Sat, 25 Jul 2026.
 
 M01 is a music venue in Berlin listed on soundcheck. 2 upcoming nights, with line-ups including Ann Mysochka, e.leptic, ELA E. and Habitat Shaking and 2 more. Browse upcoming dates, start times and who's playing. Markgrafendamm 1, 10245 Berlin, Germany.
 
@@ -15,4 +15,4 @@ M01 is a music venue in Berlin listed on soundcheck. 2 upcoming nights, with lin
 
 Markgrafendamm 1, 10245 Berlin, Germany, Berlin
 
-*Updated Thu, 23 Jul 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/m01/)*
+*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/m01/)*

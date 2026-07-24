@@ -1,6 +1,6 @@
 # DJ Butterhands
 
-DJ Butterhands is a House and Techno artist with 4 upcoming club dates listed on soundcheck as of Thu, 23 Jul 2026, next at La Terrrazza, Barcelona on Sat, 25 Jul 2026.
+DJ Butterhands is a House and Techno artist with 4 upcoming club dates listed on soundcheck as of Fri, 24 Jul 2026, next at La Terrrazza, Barcelona on Sat, 25 Jul 2026.
 
 DJ Butterhands is a house and techno artist based in Spain, tracked on soundcheck, with 9 sets logged across Amsterdam, Barcelona, Berlin and Lisbon. Often billed alongside Thabo, Blame Anthony and Thalo Santana. Next up: La Terrrazza, Barcelona on Sat 25 Jul.
 
@@ -25,4 +25,4 @@ DJ Butterhands is a house and techno artist based in Spain, tracked on soundchec
 
 Thabo, Blame Anthony, Thalo Santana
 
-*Updated Thu, 23 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/djbutterhands/)*
+*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/djbutterhands/)*

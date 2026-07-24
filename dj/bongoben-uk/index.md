@@ -1,6 +1,6 @@
 # Bongo Ben
 
-Bongo Ben is a House and Disco artist with 3 upcoming club dates listed on soundcheck as of Thu, 23 Jul 2026, next at Night Tales Loft, London on Sat, 25 Jul 2026.
+Bongo Ben is a House and Disco artist with 3 upcoming club dates listed on soundcheck as of Fri, 24 Jul 2026, next at Night Tales Loft, London on Sat, 25 Jul 2026.
 
 Bongo Ben is a house and disco artist tracked on soundcheck, with 42 sets logged across Amsterdam, Birmingham and London. Often billed alongside Brandon Block, Darrell Privett and Tristan Ingram. Next up: Night Tales Loft, London on Sat 25 Jul.
 
@@ -27,4 +27,4 @@ Bongo Ben is a house and disco artist tracked on soundcheck, with 42 sets logged
 
 Brandon Block, Darrell Privett, Tristan Ingram
 
-*Updated Thu, 23 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/bongoben-uk/)*
+*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/bongoben-uk/)*

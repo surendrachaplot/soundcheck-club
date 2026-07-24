@@ -1,6 +1,6 @@
 # Amnesico
 
-Amnesico is a Techno artist with 3 upcoming club dates listed on soundcheck as of Thu, 23 Jul 2026, next at Nether Club, Bucharest on Fri, 14 Aug 2026.
+Amnesico is a Techno artist with 3 upcoming club dates listed on soundcheck as of Fri, 24 Jul 2026, next at Nether Club, Bucharest on Fri, 14 Aug 2026.
 
 Amnesico is a techno artist based in Romania, tracked on soundcheck, with 7 sets logged across Bucharest. Often billed alongside AMEDEUS, KATHERYNE and Stefan Hernandez. Next up: Nether Club, Bucharest on Fri 14 Aug.
 
@@ -23,4 +23,4 @@ Amnesico is a techno artist based in Romania, tracked on soundcheck, with 7 sets
 
 AMEDEUS, KATHERYNE, Stefan Hernandez
 
-*Updated Thu, 23 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/amnesico/)*
+*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/amnesico/)*

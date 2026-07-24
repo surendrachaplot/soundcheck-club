@@ -1,6 +1,6 @@
 # DAWS
 
-DAWS is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Thu, 23 Jul 2026, next at ÆDEN x MARMORBAR: Fields & Spaces, Berlin on Sat, 25 Jul 2026.
+DAWS is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Fri, 24 Jul 2026, next at ÆDEN x MARMORBAR: Fields & Spaces, Berlin on Sat, 25 Jul 2026.
 
 DAWS is a house and techno artist tracked on soundcheck, with 63 sets logged across Amsterdam, Bali, Barcelona and Berlin and 7 more. Often billed alongside Baby G, Bertie and Aldonna. Next up: ÆDEN x MARMORBAR: Fields & Spaces, Berlin on Sat 25 Jul.
 
@@ -26,4 +26,4 @@ DAWS is a house and techno artist tracked on soundcheck, with 63 sets logged acr
 
 Baby G, Bertie, Aldonna
 
-*Updated Thu, 23 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/daws/)*
+*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/daws/)*

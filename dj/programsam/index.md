@@ -1,6 +1,6 @@
 # Program Sam
 
-Program Sam is a Techno and House artist with 4 upcoming club dates listed on soundcheck as of Thu, 23 Jul 2026, next at Standard Time, Toronto on Fri, 24 Jul 2026.
+Program Sam is a Techno and House artist with 4 upcoming club dates listed on soundcheck as of Fri, 24 Jul 2026, next at Standard Time, Toronto on Fri, 24 Jul 2026.
 
 Program Sam is a techno and house artist based in Canada, tracked on soundcheck, with 38 sets logged across Detroit and Toronto. Often billed alongside maxedvisa, florasystem and 999ADJ. Next up: Standard Time, Toronto on Fri 24 Jul.
 
@@ -28,4 +28,4 @@ Program Sam is a techno and house artist based in Canada, tracked on soundcheck,
 
 maxedvisa, florasystem, 999ADJ
 
-*Updated Thu, 23 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/programsam/)*
+*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/programsam/)*

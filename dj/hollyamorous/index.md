@@ -1,6 +1,6 @@
 # Hollyamorous
 
-Hollyamorous is a Trance and Club artist with 4 upcoming club dates listed on soundcheck as of Thu, 23 Jul 2026, next at Wharf Chambers, Leeds on Fri, 24 Jul 2026.
+Hollyamorous is a Trance and Club artist with 4 upcoming club dates listed on soundcheck as of Fri, 24 Jul 2026, next at Wharf Chambers, Leeds on Fri, 24 Jul 2026.
 
 Hollyamorous is a trance and club artist based in United Kingdom, tracked on soundcheck, with 10 sets logged across Glasgow, Leeds and Manchester. Often billed alongside Princess Elf Bar, Willow J and chlo333e. Next up: Wharf Chambers, Leeds on Fri 24 Jul.
 
@@ -26,4 +26,4 @@ Hollyamorous is a trance and club artist based in United Kingdom, tracked on sou
 
 Princess Elf Bar, Willow J, chlo333e
 
-*Updated Thu, 23 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/hollyamorous/)*
+*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/hollyamorous/)*

@@ -1,6 +1,6 @@
 # Sixtroke
 
-Sixtroke is a House and Hardcore artist with 3 upcoming club dates listed on soundcheck as of Thu, 23 Jul 2026, next at See-Scape, Toronto on Mon, 27 Jul 2026.
+Sixtroke is a House and Hardcore artist with 3 upcoming club dates listed on soundcheck as of Fri, 24 Jul 2026, next at See-Scape, Toronto on Mon, 27 Jul 2026.
 
 Sixtroke is a house and hardcore artist based in Canada, tracked on soundcheck, with 25 sets logged across Toronto. Often billed alongside 25ohms, 666.pastel and A.J. Matos. Next up: See-Scape, Toronto on Mon 27 Jul.
 
@@ -27,4 +27,4 @@ Sixtroke is a house and hardcore artist based in Canada, tracked on soundcheck, 
 
 25ohms, 666.pastel, A.J. Matos
 
-*Updated Thu, 23 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/sixtroke/)*
+*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/sixtroke/)*

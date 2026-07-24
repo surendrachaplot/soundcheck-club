@@ -1,6 +1,6 @@
 # LEV (UK)
 
-LEV (UK) is a House and Disco artist with 5 upcoming club dates listed on soundcheck as of Thu, 23 Jul 2026, next at Filly Brook, London on Sat, 15 Aug 2026.
+LEV (UK) is a House and Disco artist with 5 upcoming club dates listed on soundcheck as of Fri, 24 Jul 2026, next at Filly Brook, London on Sat, 15 Aug 2026.
 
 LEV (UK) is a house and disco artist tracked on soundcheck, with 85 sets logged across Amsterdam, Berlin, Bristol and Edinburgh and 6 more. Often billed alongside Faro, Aroop Roy and MiNNA. Next up: Filly Brook, London on Sat 15 Aug.
 
@@ -29,4 +29,4 @@ LEV (UK) is a house and disco artist tracked on soundcheck, with 85 sets logged 
 
 Faro, Aroop Roy, MiNNA
 
-*Updated Thu, 23 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/lev-uk/)*
+*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/lev-uk/)*

@@ -1,6 +1,6 @@
 # WOMB
 
-WOMB is a music venue in Tokyo with 17 upcoming nights listed on soundcheck as of Thu, 23 Jul 2026; the next is "RETURN" on Thu, 23 Jul 2026.
+WOMB is a music venue in Tokyo with 17 upcoming nights listed on soundcheck as of Fri, 24 Jul 2026; the next is "J" on Fri, 24 Jul 2026.
 
 WOMB is a music venue in Tokyo listed on soundcheck. 17 upcoming nights, with line-ups including AHREUM, Alex Bohemien, ANDY DEDE and Blackship and 2 more. Browse upcoming dates, start times and who's playing. 2-16 Maruyamacho Shibuya, Tokyo 150-0044 Japan.
 
@@ -8,7 +8,6 @@ WOMB is a music venue in Tokyo listed on soundcheck. 17 upcoming nights, with li
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Thu, 23 Jul 2026 | RETURN | Louis Shannon, Rickey Shannon, TARO TOKO |
 | Fri, 24 Jul 2026 | J | Celter, DNG (1), FELINE (JP), P-YAN, Vladimir Ivkovic, kengotaki, teppei |
 | Sat, 25 Jul 2026 | WATERMELON | Alex Bohemien, DJ POIPOI, Daitto, Devin Koji, Kengo Groove, Koki Byrd, NAMIMI SENSEI, Sante Visioni, TooCee |
 | Thu, 30 Jul 2026 | HOTCUE |  |
@@ -18,9 +17,10 @@ WOMB is a music venue in Tokyo listed on soundcheck. 17 upcoming nights, with li
 | Sat, 8 Aug 2026 | NEURON | ANDY DEDE, EIGHT, HIZAT, IRODORI, Kandarta, LYOM, RYOHEI, na-na |
 | Sun, 9 Aug 2026 | -荒事- ARA//GOAT | K4BUKI, STRATAH |
 | Sun, 9 Aug 2026 | ASK TASK | K4BUKI, Kino Carey, STRATAH, Shinichi Osawa, You Liang |
+| Mon, 10 Aug 2026 | ADVENTURE -SUMMER EDITION 2026- | PONTA, WATARU |
 
 ## Address
 
 2-16 Maruyamacho Shibuya, Tokyo 150-0044 Japan, Tokyo
 
-*Updated Thu, 23 Jul 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/womb/)*
+*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/womb/)*

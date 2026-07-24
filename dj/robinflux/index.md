@@ -1,6 +1,6 @@
 # Robin Flux
 
-Robin Flux is a House and Techno artist with 4 upcoming club dates listed on soundcheck as of Thu, 23 Jul 2026, next at Renate, Berlin on Fri, 24 Jul 2026.
+Robin Flux is a House and Techno artist with 4 upcoming club dates listed on soundcheck as of Fri, 24 Jul 2026, next at Renate, Berlin on Fri, 24 Jul 2026.
 
 Robin Flux is a house and techno artist based in Germany, tracked on soundcheck, with 91 sets logged across Berlin, Cologne, Copenhagen and Detroit and 8 more. Often billed alongside DJ LoveCatt, Mari to the future and materia hache. Next up: Renate, Berlin on Fri 24 Jul.
 
@@ -28,4 +28,4 @@ Robin Flux is a house and techno artist based in Germany, tracked on soundcheck,
 
 DJ LoveCatt, Mari to the future, materia hache
 
-*Updated Thu, 23 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/robinflux/)*
+*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/robinflux/)*

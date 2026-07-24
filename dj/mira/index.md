@@ -1,6 +1,6 @@
 # Mira
 
-Mira is a House and Techno artist with 5 upcoming club dates listed on soundcheck as of Thu, 23 Jul 2026, next at Doma Portugal, Lisbon on Fri, 24 Jul 2026.
+Mira is a House and Techno artist with 5 upcoming club dates listed on soundcheck as of Fri, 24 Jul 2026, next at Doma Portugal, Lisbon on Fri, 24 Jul 2026.
 
 Mira is a house and techno artist tracked on soundcheck, with 183 sets logged across Amsterdam, Athens, Austin and Bangkok and 37 more. Often billed alongside Chris Schwarzwälder, Britta Arnold and Caleesi. Next up: Doma Portugal, Lisbon on Fri 24 Jul.
 
@@ -29,4 +29,4 @@ Mira is a house and techno artist tracked on soundcheck, with 183 sets logged ac
 
 Chris Schwarzwälder, Britta Arnold, Caleesi
 
-*Updated Thu, 23 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/mira/)*
+*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/mira/)*

@@ -1,6 +1,6 @@
 # Samir (DVS)
 
-Samir (DVS) is a Tech House and House artist with 3 upcoming club dates listed on soundcheck as of Thu, 23 Jul 2026, next at Mercato Metropolitano, London on Fri, 24 Jul 2026.
+Samir (DVS) is a Tech House and House artist with 3 upcoming club dates listed on soundcheck as of Fri, 24 Jul 2026, next at Mercato Metropolitano, London on Fri, 24 Jul 2026.
 
 Samir (DVS) is a tech house and house artist tracked on soundcheck, with 14 sets logged across London. Often billed alongside D1 x Samir (DVS), Azire and Billa Bazz. Next up: Mercato Metropolitano, London on Fri 24 Jul.
 
@@ -27,4 +27,4 @@ Samir (DVS) is a tech house and house artist tracked on soundcheck, with 14 sets
 
 D1 x Samir (DVS), Azire, Billa Bazz
 
-*Updated Thu, 23 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/samirdvs/)*
+*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/samirdvs/)*

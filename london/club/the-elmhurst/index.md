@@ -1,6 +1,6 @@
 # The Elmhurst
 
-The Elmhurst is a music venue in London with 4 upcoming nights listed on soundcheck as of Thu, 23 Jul 2026; the next is "Summer Garden free Party with The Ukulele Ska Collective & Strictly Vinyl DJs" on Sat, 25 Jul 2026.
+The Elmhurst is a music venue in London with 4 upcoming nights listed on soundcheck as of Fri, 24 Jul 2026; the next is "Summer Garden free Party with The Ukulele Ska Collective & Strictly Vinyl DJs" on Sat, 25 Jul 2026.
 
 The Elmhurst is a music venue in London listed on soundcheck. 4 upcoming nights, with line-ups including Leopold, Martin Lodge, Neil Thornton and Ryan Taylor. Browse upcoming dates, start times and who's playing. 131 Lordship Lane, London N17 6XE.
 
@@ -17,4 +17,4 @@ The Elmhurst is a music venue in London listed on soundcheck. 4 upcoming nights,
 
 131 Lordship Lane, London N17 6XE, London
 
-*Updated Thu, 23 Jul 2026 · source: [soundcheck](https://soundcheck.club/london/club/the-elmhurst/)*
+*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/london/club/the-elmhurst/)*

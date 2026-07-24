@@ -1,6 +1,6 @@
 # Daxson
 
-Daxson is a Trance and Progressive House artist with 4 upcoming club dates listed on soundcheck as of Thu, 23 Jul 2026, next at Zurich Lake, Zurich on Sat, 8 Aug 2026.
+Daxson is a Trance and Progressive House artist with 4 upcoming club dates listed on soundcheck as of Fri, 24 Jul 2026, next at Zurich Lake, Zurich on Sat, 8 Aug 2026.
 
 Daxson is a trance and progressive house artist based in United Kingdom, tracked on soundcheck, with 20 sets logged across Amsterdam, Glasgow, Liverpool and London and 11 more. Often billed alongside Amy Wiles, Aly & Fila and Billy Gillies. Next up: Zurich Lake, Zurich on Sat 8 Aug.
 
@@ -28,4 +28,4 @@ Daxson is a trance and progressive house artist based in United Kingdom, tracked
 
 Amy Wiles, Aly & Fila, Billy Gillies
 
-*Updated Thu, 23 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/daxson/)*
+*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/daxson/)*

@@ -1,6 +1,6 @@
 # Cobalt Studios
 
-Cobalt Studios is a music venue in Newcastle with 4 upcoming nights listed on soundcheck as of Thu, 23 Jul 2026; the next is "Harness Pride XL (with HEART///BPM, Pulse and Trade)" on Fri, 24 Jul 2026.
+Cobalt Studios is a music venue in Newcastle with 4 upcoming nights listed on soundcheck as of Fri, 24 Jul 2026; the next is "Harness Pride XL (with HEART///BPM, Pulse and Trade)" on Fri, 24 Jul 2026.
 
 Cobalt Studios is a music venue in Newcastle listed on soundcheck. 4 upcoming nights, with line-ups including AQfairii, Bill Brewster, Club Penguin and GayBoy and 2 more. Browse upcoming dates, start times and who's playing. 10 - 16  Boyd St. Newcastle Upon Tyne, NE2 1AP, United Kingdom.
 
@@ -17,4 +17,4 @@ Cobalt Studios is a music venue in Newcastle listed on soundcheck. 4 upcoming ni
 
 10 - 16  Boyd St. Newcastle Upon Tyne, NE2 1AP, United Kingdom, Newcastle
 
-*Updated Thu, 23 Jul 2026 · source: [soundcheck](https://soundcheck.club/newcastle/club/cobalt-studios/)*
+*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/newcastle/club/cobalt-studios/)*

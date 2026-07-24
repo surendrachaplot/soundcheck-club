@@ -1,6 +1,6 @@
 # Paralich
 
-Paralich is a Techno and Trance artist with 6 upcoming club dates listed on soundcheck as of Thu, 23 Jul 2026, next at Kilomètre25, Paris on Fri, 24 Jul 2026.
+Paralich is a Techno and Trance artist with 6 upcoming club dates listed on soundcheck as of Fri, 24 Jul 2026, next at Kilomètre25, Paris on Fri, 24 Jul 2026.
 
 Paralich is a techno and trance artist tracked on soundcheck, with 152 sets logged across Amsterdam, Antwerp, Barcelona and Belgrade and 24 more. Often billed alongside THIRD 2HIFT, Valenthin and RaverPik. Next up: Kilomètre25, Paris on Fri 24 Jul.
 
@@ -30,4 +30,4 @@ Paralich is a techno and trance artist tracked on soundcheck, with 152 sets logg
 
 THIRD 2HIFT, Valenthin, RaverPik
 
-*Updated Thu, 23 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/paralich/)*
+*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/paralich/)*

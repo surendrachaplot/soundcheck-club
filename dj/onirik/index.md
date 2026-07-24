@@ -1,6 +1,6 @@
 # Onirik
 
-Onirik is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Thu, 23 Jul 2026, next at Platforma Wolff, Bucharest on Sat, 25 Jul 2026.
+Onirik is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Fri, 24 Jul 2026, next at Platforma Wolff, Bucharest on Sat, 25 Jul 2026.
 
 Onirik is a house and techno artist based in Germany, tracked on soundcheck, with 67 sets logged across Amsterdam, Barcelona, Berlin and Brussels and 18 more. Often billed alongside GNMR, Karine and Ancut. Next up: Platforma Wolff, Bucharest on Sat 25 Jul.
 
@@ -26,4 +26,4 @@ Onirik is a house and techno artist based in Germany, tracked on soundcheck, wit
 
 GNMR, Karine, Ancut
 
-*Updated Thu, 23 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/onirik/)*
+*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/onirik/)*

@@ -1,6 +1,6 @@
 # Ben Kaczor
 
-Ben Kaczor is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Thu, 23 Jul 2026, next at Postkantine, Basel on Sat, 25 Jul 2026.
+Ben Kaczor is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Fri, 24 Jul 2026, next at Postkantine, Basel on Sat, 25 Jul 2026.
 
 Ben Kaczor is a techno and house artist tracked on soundcheck, with 50 sets logged across Amsterdam, Bangkok, Basel and Berlin and 16 more. Often billed alongside Lb Honne, boaksi and matsssiii. Next up: Postkantine, Basel on Sat 25 Jul.
 
@@ -26,4 +26,4 @@ Ben Kaczor is a techno and house artist tracked on soundcheck, with 50 sets logg
 
 Lb Honne, boaksi, matsssiii
 
-*Updated Thu, 23 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/benkaczor/)*
+*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/benkaczor/)*

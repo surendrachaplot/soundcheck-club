@@ -1,6 +1,6 @@
 # Dirti Larita
 
-Dirti Larita is a Baile Funk and Garage artist with 3 upcoming club dates listed on soundcheck as of Thu, 23 Jul 2026, next at Razzmatazz, Barcelona on Sat, 25 Jul 2026.
+Dirti Larita is a Baile Funk and Garage artist with 3 upcoming club dates listed on soundcheck as of Fri, 24 Jul 2026, next at Razzmatazz, Barcelona on Sat, 25 Jul 2026.
 
 Dirti Larita is a baile funk and garage artist tracked on soundcheck, with 53 sets logged across Barcelona, Buenosaires, Geneva and Madrid and 1 more. Often billed alongside DJ2D2, Sushinigami and Drea. Next up: Razzmatazz, Barcelona on Sat 25 Jul.
 
@@ -27,4 +27,4 @@ Dirti Larita is a baile funk and garage artist tracked on soundcheck, with 53 se
 
 DJ2D2, Sushinigami, Drea
 
-*Updated Thu, 23 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/dirtilarita/)*
+*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/dirtilarita/)*

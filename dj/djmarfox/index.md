@@ -1,6 +1,6 @@
 # DJ Marfox
 
-DJ Marfox is a Kuduro and Techno artist with 2 upcoming club dates listed on soundcheck as of Thu, 23 Jul 2026, next at Worm, Rotterdam on Sat, 25 Jul 2026.
+DJ Marfox is a Kuduro and Techno artist with 2 upcoming club dates listed on soundcheck as of Fri, 24 Jul 2026, next at Worm, Rotterdam on Sat, 25 Jul 2026.
 
 DJ Marfox is a kuduro and techno artist tracked on soundcheck, with 64 sets logged across Amsterdam, Barcelona, Berlin and Bristol and 17 more. Often billed alongside Nídia, DJ Lycox and DJ Nigga Fox. Next up: Worm, Rotterdam on Sat 25 Jul.
 
@@ -26,4 +26,4 @@ DJ Marfox is a kuduro and techno artist tracked on soundcheck, with 64 sets logg
 
 Nídia, DJ Lycox, DJ Nigga Fox
 
-*Updated Thu, 23 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/djmarfox/)*
+*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/djmarfox/)*

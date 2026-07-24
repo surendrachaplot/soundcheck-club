@@ -1,6 +1,6 @@
 # KAVARI
 
-KAVARI is a Experimental and Techno artist with 2 upcoming club dates listed on soundcheck as of Thu, 23 Jul 2026, next at Wigwam, Dublin on Sat, 25 Jul 2026.
+KAVARI is a Experimental and Techno artist with 2 upcoming club dates listed on soundcheck as of Fri, 24 Jul 2026, next at Wigwam, Dublin on Sat, 25 Jul 2026.
 
 KAVARI is an experimental and techno artist tracked on soundcheck, with 96 sets logged across Amsterdam, Auckland, Austin and Barcelona and 29 more. Often billed alongside Blood of Aza, KLAUDIO and Mvcoko. Next up: Wigwam, Dublin on Sat 25 Jul.
 
@@ -26,4 +26,4 @@ KAVARI is an experimental and techno artist tracked on soundcheck, with 96 sets 
 
 Blood of Aza, KLAUDIO, Mvcoko
 
-*Updated Thu, 23 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/kavari/)*
+*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/kavari/)*

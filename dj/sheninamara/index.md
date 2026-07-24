@@ -1,6 +1,6 @@
 # Shenin Amara
 
-Shenin Amara is a Tech House and House artist with 6 upcoming club dates listed on soundcheck as of Thu, 23 Jul 2026, next at The Steel Yard, London on Sat, 8 Aug 2026.
+Shenin Amara is a Tech House and House artist with 6 upcoming club dates listed on soundcheck as of Fri, 24 Jul 2026, next at The Steel Yard, London on Sat, 8 Aug 2026.
 
 Shenin Amara is a tech house and house artist tracked on soundcheck, with 195 sets logged across Amsterdam, Birmingham, Ibiza and London and 3 more. Often billed alongside JAYDAA, Jerome Six and Beezo. Next up: The Steel Yard, London on Sat 8 Aug.
 
@@ -30,4 +30,4 @@ Shenin Amara is a tech house and house artist tracked on soundcheck, with 195 se
 
 JAYDAA, Jerome Six, Beezo
 
-*Updated Thu, 23 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/sheninamara/)*
+*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/sheninamara/)*

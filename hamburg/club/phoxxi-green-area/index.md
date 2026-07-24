@@ -1,6 +1,6 @@
 # Phoxxi Green Area
 
-Phoxxi Green Area is a music venue in Hamburg with 5 upcoming nights listed on soundcheck as of Thu, 23 Jul 2026; the next is "Frame W/AKVA,Alexej,HILDE,Le TIZI,Mr.Maggio,Paradyme,Randali,Return Fall,Shilo,Terrapoid,WHYOS" on Sat, 25 Jul 2026.
+Phoxxi Green Area is a music venue in Hamburg with 5 upcoming nights listed on soundcheck as of Fri, 24 Jul 2026; the next is "Frame W/AKVA,Alexej,HILDE,Le TIZI,Mr.Maggio,Paradyme,Randali,Return Fall,Shilo,Terrapoid,WHYOS" on Sat, 25 Jul 2026.
 
 Phoxxi Green Area is a music venue in Hamburg listed on soundcheck. 5 upcoming nights, with line-ups including AKVA, Alec Dienaar, Alexej and Anton Jonathan and 2 more. Browse upcoming dates, start times and who's playing. Deichtorstrasse 1-2, 20095 Hamburg, Germany.
 
@@ -18,4 +18,4 @@ Phoxxi Green Area is a music venue in Hamburg listed on soundcheck. 5 upcoming n
 
 Deichtorstrasse 1-2, 20095 Hamburg, Germany, Hamburg
 
-*Updated Thu, 23 Jul 2026 · source: [soundcheck](https://soundcheck.club/hamburg/club/phoxxi-green-area/)*
+*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/hamburg/club/phoxxi-green-area/)*

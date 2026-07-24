@@ -1,6 +1,6 @@
 # Westhafen
 
-Westhafen is a music venue in Leipzig with 5 upcoming nights listed on soundcheck as of Thu, 23 Jul 2026; the next is "Desire Openair with Mischluft, Bad Boombox, HiTMiLØW, Butschi, a.m" on Sat, 25 Jul 2026.
+Westhafen is a music venue in Leipzig with 5 upcoming nights listed on soundcheck as of Fri, 24 Jul 2026; the next is "Desire Openair with Mischluft, Bad Boombox, HiTMiLØW, Butschi, a.m" on Sat, 25 Jul 2026.
 
 Westhafen is a music venue in Leipzig listed on soundcheck. 5 upcoming nights, with line-ups including adamoandiamo, Alex Benz, Alisa Stovik and Amøn and 2 more. Browse upcoming dates, start times and who's playing. Ernst Keil Straße 17, 04179 Leipzig, Germany.
 
@@ -18,4 +18,4 @@ Westhafen is a music venue in Leipzig listed on soundcheck. 5 upcoming nights, w
 
 Ernst Keil Straße 17, 04179 Leipzig, Germany, Leipzig
 
-*Updated Thu, 23 Jul 2026 · source: [soundcheck](https://soundcheck.club/leipzig/club/westhafen/)*
+*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/leipzig/club/westhafen/)*

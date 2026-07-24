@@ -1,6 +1,6 @@
 # Sacré
 
-Sacré is a music venue in Paris with 17 upcoming nights listed on soundcheck as of Thu, 23 Jul 2026; the next is "Sacré présente: Wondersun Festival Take Over" on Fri, 24 Jul 2026.
+Sacré is a music venue in Paris with 17 upcoming nights listed on soundcheck as of Fri, 24 Jul 2026; the next is "Sacré présente: Wondersun Festival Take Over" on Fri, 24 Jul 2026.
 
 Sacré is a music venue in Paris listed on soundcheck. 17 upcoming nights, with line-ups including Aldonna, Ams (FR), Autograf and Basile de Suresnes and 2 more. Browse upcoming dates, start times and who's playing. 142 rue montmartre 75002 Paris.
 
@@ -23,4 +23,4 @@ Sacré is a music venue in Paris listed on soundcheck. 17 upcoming nights, with 
 
 142 rue montmartre 75002 Paris, Paris
 
-*Updated Thu, 23 Jul 2026 · source: [soundcheck](https://soundcheck.club/paris/club/sacr/)*
+*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/paris/club/sacr/)*

@@ -1,6 +1,6 @@
 # Lola Cerise
 
-Lola Cerise is a Techno and Trance artist with 4 upcoming club dates listed on soundcheck as of Thu, 23 Jul 2026, next at E1, London on Fri, 31 Jul 2026.
+Lola Cerise is a Techno and Trance artist with 4 upcoming club dates listed on soundcheck as of Fri, 24 Jul 2026, next at E1, London on Fri, 31 Jul 2026.
 
 Lola Cerise is a techno and trance artist tracked on soundcheck, with 45 sets logged across Amsterdam, Basel, Berlin and Brussels and 16 more. Often billed alongside Alex Farell, KLOUD and Kander. Next up: E1, London on Fri 31 Jul.
 
@@ -28,4 +28,4 @@ Lola Cerise is a techno and trance artist tracked on soundcheck, with 45 sets lo
 
 Alex Farell, KLOUD, Kander
 
-*Updated Thu, 23 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/lolacerise/)*
+*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/lolacerise/)*

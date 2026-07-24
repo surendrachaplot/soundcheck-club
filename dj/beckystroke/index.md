@@ -1,6 +1,6 @@
 # Becky Stroke
 
-Becky Stroke is a Techno and Industrial artist with 2 upcoming club dates listed on soundcheck as of Thu, 23 Jul 2026, next at Distillery N17, London on Sat, 15 Aug 2026.
+Becky Stroke is a Techno and Industrial artist with 2 upcoming club dates listed on soundcheck as of Fri, 24 Jul 2026, next at Distillery N17, London on Sat, 15 Aug 2026.
 
 Becky Stroke is a techno and industrial artist tracked on soundcheck, with 55 sets logged across London and Lyon. Often billed alongside ASHTREY, Labåzuy and Lewis G. Burton. Next up: Distillery N17, London on Sat 15 Aug.
 
@@ -26,4 +26,4 @@ Becky Stroke is a techno and industrial artist tracked on soundcheck, with 55 se
 
 ASHTREY, Labåzuy, Lewis G. Burton
 
-*Updated Thu, 23 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/beckystroke/)*
+*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/beckystroke/)*

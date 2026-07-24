@@ -1,6 +1,6 @@
 # Jayzo
 
-Jayzo is a Techno and House artist with 4 upcoming club dates listed on soundcheck as of Thu, 23 Jul 2026, next at Club Up, Amsterdam on Sat, 25 Jul 2026.
+Jayzo is a Techno and House artist with 4 upcoming club dates listed on soundcheck as of Fri, 24 Jul 2026, next at Club Up, Amsterdam on Sat, 25 Jul 2026.
 
 Jayzo is a techno and house artist based in Netherlands, tracked on soundcheck, with 124 sets logged across Amsterdam, Barcelona, Berlin and Bucharest and 16 more. Often billed alongside Dexon, Soothsayer and Compound Rhythm. Next up: Club Up, Amsterdam on Sat 25 Jul.
 
@@ -28,4 +28,4 @@ Jayzo is a techno and house artist based in Netherlands, tracked on soundcheck, 
 
 Dexon, Soothsayer, Compound Rhythm
 
-*Updated Thu, 23 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/jayzo/)*
+*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/jayzo/)*

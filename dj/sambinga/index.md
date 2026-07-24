@@ -1,6 +1,6 @@
 # Sam Binga
 
-Sam Binga is a Bass and Drum & Bass artist with 3 upcoming club dates listed on soundcheck as of Thu, 23 Jul 2026, next at ZeyZey, Miami on Sat, 15 Aug 2026.
+Sam Binga is a Bass and Drum & Bass artist with 3 upcoming club dates listed on soundcheck as of Fri, 24 Jul 2026, next at ZeyZey, Miami on Sat, 15 Aug 2026.
 
 Sam Binga is a bass and drum & bass artist tracked on soundcheck, with 83 sets logged across Auckland, Austin, Birmingham and Boston and 34 more. Often billed alongside Bianca Oblivion, Addison Groove and Amy Kisnorbo. Next up: ZeyZey, Miami on Sat 15 Aug.
 
@@ -27,4 +27,4 @@ Sam Binga is a bass and drum & bass artist tracked on soundcheck, with 83 sets l
 
 Bianca Oblivion, Addison Groove, Amy Kisnorbo
 
-*Updated Thu, 23 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/sambinga/)*
+*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/sambinga/)*

@@ -1,6 +1,6 @@
 # Rodeo
 
-Rodeo is a music venue in New York City with 1 upcoming night listed on soundcheck as of Thu, 23 Jul 2026; the next is "Danse Le Freak" on Sat, 25 Jul 2026.
+Rodeo is a music venue in New York City with 1 upcoming night listed on soundcheck as of Fri, 24 Jul 2026; the next is "Danse Le Freak" on Sat, 25 Jul 2026.
 
 Rodeo is a music venue in Newyorkcity listed on soundcheck. 1 upcoming night. Browse upcoming dates, start times and who's playing. 1134 President St, Brooklyn NY, 11225.
 
@@ -14,4 +14,4 @@ Rodeo is a music venue in Newyorkcity listed on soundcheck. 1 upcoming night. Br
 
 1134 President St, Brooklyn NY, 11225, New York City
 
-*Updated Thu, 23 Jul 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/rodeo/)*
+*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/rodeo/)*

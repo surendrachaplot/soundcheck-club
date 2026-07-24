@@ -1,6 +1,6 @@
 # Siân Owen
 
-Siân Owen is a Tech House and House artist with 3 upcoming club dates listed on soundcheck as of Thu, 23 Jul 2026, next at 77, London on Fri, 31 Jul 2026.
+Siân Owen is a Tech House and House artist with 3 upcoming club dates listed on soundcheck as of Fri, 24 Jul 2026, next at 77, London on Fri, 31 Jul 2026.
 
 Siân Owen is a tech house and house artist tracked on soundcheck, with 55 sets logged across Amsterdam, Brighton, Ibiza and London and 3 more. Often billed alongside Sammy Porter, Charlotte Van de Peer and Darrell Privett. Next up: 77, London on Fri 31 Jul.
 
@@ -27,4 +27,4 @@ Siân Owen is a tech house and house artist tracked on soundcheck, with 55 sets 
 
 Sammy Porter, Charlotte Van de Peer, Darrell Privett
 
-*Updated Thu, 23 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/sianowen/)*
+*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/sianowen/)*

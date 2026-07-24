@@ -1,6 +1,6 @@
 # Carina Lawrence
 
-Carina Lawrence is a Progressive House and Techno artist with 3 upcoming club dates listed on soundcheck as of Thu, 23 Jul 2026, next at Boston Manor Park, London on Sun, 26 Jul 2026.
+Carina Lawrence is a Progressive House and Techno artist with 3 upcoming club dates listed on soundcheck as of Fri, 24 Jul 2026, next at Boston Manor Park, London on Sun, 26 Jul 2026.
 
 Carina Lawrence is a progressive house and techno artist tracked on soundcheck, with 63 sets logged across Brighton, Bristol, London and Losangeles and 6 more. Often billed alongside Innerstice, Jesabel and Redfreya. Next up: Boston Manor Park, London on Sun 26 Jul.
 
@@ -27,4 +27,4 @@ Carina Lawrence is a progressive house and techno artist tracked on soundcheck, 
 
 Innerstice, Jesabel, Redfreya
 
-*Updated Thu, 23 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/carinalawrence/)*
+*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/carinalawrence/)*

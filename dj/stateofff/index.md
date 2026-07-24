@@ -1,8 +1,8 @@
 # State OFFF
 
-State OFFF is a Gqom and Club artist with 3 upcoming club dates listed on soundcheck as of Thu, 23 Jul 2026, next at Garage Noord, Amsterdam on Sun, 26 Jul 2026.
+State OFFF is a Gqom and Club artist with 4 upcoming club dates listed on soundcheck as of Fri, 24 Jul 2026, next at Garage Noord, Amsterdam on Sun, 26 Jul 2026.
 
-State OFFF is a gqom and club artist based in Netherlands, tracked on soundcheck, with 64 sets logged across Amsterdam, Berlin, Brussels and Edinburgh and 12 more. Often billed alongside Wes Lee, Ikonika and Batu. Next up: Garage Noord, Amsterdam on Sun 26 Jul.
+State OFFF is a gqom and club artist based in Netherlands, tracked on soundcheck, with 65 sets logged across Amsterdam, Berlin, Brussels and Edinburgh and 12 more. Often billed alongside Wes Lee, Ikonika and Batu. Next up: Garage Noord, Amsterdam on Sun 26 Jul.
 
 ## Upcoming shows
 
@@ -11,6 +11,7 @@ State OFFF is a gqom and club artist based in Netherlands, tracked on soundcheck
 | Sun, 26 Jul 2026 | Garage Noord | Amsterdam |
 | Wed, 29 Jul 2026 | Amsterdamse Bos | Amsterdam |
 | Sat, 1 Aug 2026 | Amsterdamse Bos | Amsterdam |
+| Thu, 22 Oct 2026 | Paradiso | Amsterdam |
 
 ## Recently played
 
@@ -27,4 +28,4 @@ State OFFF is a gqom and club artist based in Netherlands, tracked on soundcheck
 
 Wes Lee, Ikonika, Batu
 
-*Updated Thu, 23 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/stateofff/)*
+*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/stateofff/)*

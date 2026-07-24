@@ -1,6 +1,6 @@
 # Parris
 
-Parris is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Thu, 23 Jul 2026, next at San Francisco, Amsterdam on Fri, 31 Jul 2026.
+Parris is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Fri, 24 Jul 2026, next at San Francisco, Amsterdam on Fri, 31 Jul 2026.
 
 Parris is a techno and house artist based in United Kingdom, tracked on soundcheck, with 83 sets logged across Amsterdam, Barcelona, Berlin and Bristol and 20 more. Often billed alongside Call Super, DJ Voices and Danielle. Next up: San Francisco, Amsterdam on Fri 31 Jul.
 
@@ -26,4 +26,4 @@ Parris is a techno and house artist based in United Kingdom, tracked on soundche
 
 Call Super, DJ Voices, Danielle
 
-*Updated Thu, 23 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/parris/)*
+*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/parris/)*

@@ -1,6 +1,6 @@
 # Jay Mitta
 
-Jay Mitta is a Experimental and Electronica artist with 3 upcoming club dates listed on soundcheck as of Thu, 23 Jul 2026, next at Gaswerksiedlung, Berlin on Sat, 25 Jul 2026.
+Jay Mitta is a Experimental and Electronica artist with 3 upcoming club dates listed on soundcheck as of Fri, 24 Jul 2026, next at Gaswerksiedlung, Berlin on Sat, 25 Jul 2026.
 
 Jay Mitta is an experimental and electronica artist tracked on soundcheck, with 11 sets logged across Amsterdam, Berlin, Cologne and Hamburg and 1 more. Often billed alongside Nico Adomako, Ahadadream and Assyouti. Next up: Gaswerksiedlung, Berlin on Sat 25 Jul.
 
@@ -27,4 +27,4 @@ Jay Mitta is an experimental and electronica artist tracked on soundcheck, with 
 
 Nico Adomako, Ahadadream, Assyouti
 
-*Updated Thu, 23 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/jaymitta/)*
+*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/jaymitta/)*

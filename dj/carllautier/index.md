@@ -1,6 +1,6 @@
 # Carl Lautier
 
-Carl Lautier is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Thu, 23 Jul 2026, next at TBA - beef bar malta, Malta on Sat, 25 Jul 2026.
+Carl Lautier is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Fri, 24 Jul 2026, next at TBA - beef bar malta, Malta on Sat, 25 Jul 2026.
 
 Carl Lautier is a techno and house artist based in Malta, tracked on soundcheck, with 48 sets logged across Malta. Often billed alongside Daniel Blade, Carl Bee and NEVYALC. Next up: TBA - beef bar malta, Malta on Sat 25 Jul.
 
@@ -27,4 +27,4 @@ Carl Lautier is a techno and house artist based in Malta, tracked on soundcheck,
 
 Daniel Blade, Carl Bee, NEVYALC
 
-*Updated Thu, 23 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/carllautier/)*
+*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/carllautier/)*

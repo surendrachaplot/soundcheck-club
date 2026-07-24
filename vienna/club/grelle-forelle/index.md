@@ -1,6 +1,6 @@
 # Grelle Forelle
 
-Grelle Forelle is a music venue in Vienna with 5 upcoming nights listed on soundcheck as of Thu, 23 Jul 2026; the next is "Grelle Forelle Sommerfest" on Fri, 24 Jul 2026.
+Grelle Forelle is a music venue in Vienna with 5 upcoming nights listed on soundcheck as of Fri, 24 Jul 2026; the next is "Grelle Forelle Sommerfest" on Fri, 24 Jul 2026.
 
 Grelle Forelle is a music venue in Vienna listed on soundcheck. 5 upcoming nights, with line-ups including Alarico, Annika Stein, CARAVEL and Farbod and 2 more. Browse upcoming dates, start times and who's playing. Spittelauer Lände 12; 1090 Vienna; Austria.
 
@@ -18,4 +18,4 @@ Grelle Forelle is a music venue in Vienna listed on soundcheck. 5 upcoming night
 
 Spittelauer Lände 12; 1090 Vienna; Austria, Vienna
 
-*Updated Thu, 23 Jul 2026 · source: [soundcheck](https://soundcheck.club/vienna/club/grelle-forelle/)*
+*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/vienna/club/grelle-forelle/)*

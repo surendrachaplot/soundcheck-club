@@ -1,6 +1,6 @@
 # Ruiterijcomplex
 
-Ruiterijcomplex is a music venue in Brussels with 1 upcoming night listed on soundcheck as of Thu, 23 Jul 2026; the next is "Gula Gula Festival 2026" on Sat, 22 Aug 2026.
+Ruiterijcomplex is a music venue in Brussels with 1 upcoming night listed on soundcheck as of Fri, 24 Jul 2026; the next is "Gula Gula Festival 2026" on Sat, 22 Aug 2026.
 
 Ruiterijcomplex is a music venue in Brussels listed on soundcheck. 1 upcoming night, with line-ups including Bulie Jordeaux, juliojulio, Kafim and mad miran and 2 more. Browse upcoming dates, start times and who's playing. Beneluxlaan 31, 1800 Vilvoorde.
 
@@ -14,4 +14,4 @@ Ruiterijcomplex is a music venue in Brussels listed on soundcheck. 1 upcoming ni
 
 Beneluxlaan 31, 1800 Vilvoorde, Brussels
 
-*Updated Thu, 23 Jul 2026 · source: [soundcheck](https://soundcheck.club/brussels/club/ruiterijcomplex/)*
+*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/brussels/club/ruiterijcomplex/)*
