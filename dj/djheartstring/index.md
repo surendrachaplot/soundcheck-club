@@ -1,8 +1,8 @@
 # DJ Heartstring
 
-DJ Heartstring is a Techno and House artist with 8 upcoming club dates listed on soundcheck as of Fri, 24 Jul 2026, next at Knockdown Center, New York City on Fri, 24 Jul 2026.
+DJ Heartstring is a Techno and House artist with 9 upcoming club dates listed on soundcheck as of Fri, 24 Jul 2026, next at Knockdown Center, New York City on Fri, 24 Jul 2026.
 
-DJ Heartstring is a techno and house artist tracked on soundcheck, with 209 sets logged across Amsterdam, Antwerp, Austin and Barcelona and 63 more. Often billed alongside MALUGI, KETTAMA and KI/KI. Next up: Knockdown Center, Newyorkcity on Fri 24 Jul.
+DJ Heartstring is a techno and house artist tracked on soundcheck, with 210 sets logged across Amsterdam, Antwerp, Austin and Barcelona and 63 more. Often billed alongside MALUGI, KETTAMA and KI/KI. Next up: Knockdown Center, Newyorkcity on Fri 24 Jul.
 
 ## Upcoming shows
 
@@ -16,6 +16,7 @@ DJ Heartstring is a techno and house artist tracked on soundcheck, with 209 sets
 | Fri, 4 Sept 2026 | Union Park | Chicago |
 | Sat, 5 Sept 2026 | TBA | Miami |
 | Fri, 11 Sept 2026 | Palmerstown House Estate | Dublin |
+| Sat, 19 Sept 2026 | Else | Berlin |
 
 ## Recently played
 

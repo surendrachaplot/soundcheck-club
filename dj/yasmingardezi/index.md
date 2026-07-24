@@ -1,14 +1,15 @@
 # Yasmin Gardezi
 
-Yasmin Gardezi is a Techno and Trance artist with 3 upcoming club dates listed on soundcheck as of Fri, 24 Jul 2026, next at Parallel, Amsterdam on Sat, 8 Aug 2026.
+Yasmin Gardezi is a Techno and Trance artist with 4 upcoming club dates listed on soundcheck as of Fri, 24 Jul 2026, next at Parallel, Amsterdam on Sat, 8 Aug 2026.
 
-Yasmin Gardezi is a techno and trance artist tracked on soundcheck, with 95 sets logged across Aberdeen, Amsterdam, Athens and Barcelona and 29 more. Often billed alongside blk., franck and Charlie Sparks. Next up: Parallel, Amsterdam on Sat 8 Aug.
+Yasmin Gardezi is a techno and trance artist tracked on soundcheck, with 96 sets logged across Aberdeen, Amsterdam, Athens and Barcelona and 29 more. Often billed alongside blk., franck and Charlie Sparks. Next up: Parallel, Amsterdam on Sat 8 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 8 Aug 2026 | Parallel | Amsterdam |
+| Sat, 29 Aug 2026 | Kilomètre25 | Paris |
 | Fri, 11 Sept 2026 | Palmerstown House Estate | Dublin |
 | Fri, 2 Oct 2026 | TBA - Port of Belgrade | Belgrade |
 

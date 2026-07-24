@@ -1,6 +1,6 @@
 # Faster Horses (Extended Set) at Village Underground
 
-Faster Horses (Extended Set) at Village Underground on Fri 9 Oct, London. 2 acts on the bill: Faster Horses and Vivace (UK). Preview the line-up and save it on soundcheck.
+Faster Horses (Extended Set) at Village Underground on Fri 9 Oct, London. 2 acts on the bill: Faster Horses and Vivace (UK). Trance and House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

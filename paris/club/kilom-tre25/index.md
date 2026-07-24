@@ -1,8 +1,8 @@
 # Kilomètre25
 
-Kilomètre25 is a music venue in Paris with 18 upcoming nights listed on soundcheck as of Fri, 24 Jul 2026; the next is "2Much: Paralich, Canelle Doublekick, KIM SWIM, KLING&KLANG" on Fri, 24 Jul 2026.
+Kilomètre25 is a music venue in Paris with 19 upcoming nights listed on soundcheck as of Fri, 24 Jul 2026; the next is "2Much: Paralich, Canelle Doublekick, KIM SWIM, KLING&KLANG" on Fri, 24 Jul 2026.
 
-Kilomètre25 is a music venue in Paris listed on soundcheck. 18 upcoming nights, with line-ups including Airod, ALT8, Antonym and A*S*Y*S (2) and 2 more. Browse upcoming dates, start times and who's playing. 8 Boulevard MacDonald 75019 Paris.
+Kilomètre25 is a music venue in Paris listed on soundcheck. 19 upcoming nights, with line-ups including Airod, ALT8, Antonym and A*S*Y*S (2) and 2 more. Browse upcoming dates, start times and who's playing. 8 Boulevard MacDonald 75019 Paris.
 
 ## What's on
 

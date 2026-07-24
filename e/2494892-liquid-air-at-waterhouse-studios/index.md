@@ -1,6 +1,6 @@
 # Liquid Air at Waterhouse Studios
 
-Liquid Air at Waterhouse Studios on Fri 14 Aug, Amsterdam. 2 acts on the bill: DJ DSA and MøR.. Techno and House. Preview the line-up and save it on soundcheck.
+Liquid Air at Waterhouse Studios on Fri 14 Aug, Amsterdam. 3 acts on the bill: Crinkhoff, DJ DSA and MøR.. Techno and House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,6 +10,7 @@ Liquid Air at Waterhouse Studios on Fri 14 Aug, Amsterdam. 2 acts on the bill: D
 
 ## Line-up
 
+- Crinkhoff
 - DJ DSA
 - MøR.
 

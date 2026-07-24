@@ -11,11 +11,11 @@ DNA. CLUB - urban Space is a music venue in Berlin listed on soundcheck. 25 upco
 | Sat, 25 Jul 2026 | FREE ENTRY: Connect & RAVE: Community OPEN AIR at DNA. CLUB: Tech House, Techno & Bounce |  |
 | Sun, 26 Jul 2026 | FREE ENTRY: 'Playground' Open Stage: Community OPEN AIR at DNA. CLUB: Jazz & House DJ Sets |  |
 | Thu, 30 Jul 2026 | FREE ENTRY: Live Music Jam Session & DJ Sets Community OPEN AIR  |  |
-| Fri, 31 Jul 2026 | DNA. CLUB: Community Party & DJ Sets |  |
+| Fri, 31 Jul 2026 | FREE ENTRY: DNA. CLUB: Community Party & DJ Sets |  |
 | Sat, 1 Aug 2026 | FREE ENTRY: Connect & RAVE: Community OPEN AIR at DNA. CLUB: Tech House, Techno & Bounce |  |
 | Sun, 2 Aug 2026 | FREE ENTRY: 'Playground' Open Stage: Community OPEN AIR at DNA. CLUB: Jazz & House DJ Sets |  |
 | Thu, 6 Aug 2026 | FREE ENTRY: Live Music Jam Session & DJ Sets Community OPEN AIR  |  |
-| Fri, 7 Aug 2026 | DNA. CLUB: Community Party & DJ Sets |  |
+| Fri, 7 Aug 2026 | FREE ENTRY: DNA. CLUB: Community Party & DJ Sets |  |
 | Sun, 9 Aug 2026 | FREE ENTRY: 'Playground' Open Stage: Community OPEN AIR at DNA. CLUB: Jazz & House DJ Sets |  |
 | Thu, 13 Aug 2026 | FREE ENTRY: Live Music Jam Session & DJ Sets Community OPEN AIR |  |
 

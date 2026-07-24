@@ -1,8 +1,8 @@
 # Liam Palmer
 
-Liam Palmer is a House and Tech House artist with 5 upcoming club dates listed on soundcheck as of Fri, 24 Jul 2026, next at Chinois Ibiza, Ibiza on Tue, 28 Jul 2026.
+Liam Palmer is a House and Tech House artist with 6 upcoming club dates listed on soundcheck as of Fri, 24 Jul 2026, next at Chinois Ibiza, Ibiza on Tue, 28 Jul 2026.
 
-Liam Palmer is a house and tech house artist tracked on soundcheck, with 151 sets logged across Amsterdam, Auckland, Barcelona and Berlin and 25 more. Often billed alongside Elliot Schooling, Locky and L.P. Rhythm. Next up: Chinois Ibiza, Ibiza on Tue 28 Jul.
+Liam Palmer is a house and tech house artist tracked on soundcheck, with 152 sets logged across Amsterdam, Auckland, Barcelona and Berlin and 25 more. Often billed alongside Elliot Schooling, Locky and L.P. Rhythm. Next up: Chinois Ibiza, Ibiza on Tue 28 Jul.
 
 ## Upcoming shows
 
@@ -13,6 +13,7 @@ Liam Palmer is a house and tech house artist tracked on soundcheck, with 151 set
 | Fri, 14 Aug 2026 | Night We Met | Nashville |
 | Sat, 29 Aug 2026 | Kelvedon Hall | London |
 | Wed, 2 Sept 2026 | [UNVRS] | Ibiza |
+| Wed, 21 Oct 2026 | A'DAM Toren | Amsterdam |
 
 ## Recently played
 

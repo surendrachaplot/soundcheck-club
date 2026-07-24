@@ -1,8 +1,8 @@
-# TBA - Secret Location
+# TBA -  Secret Location
 
-TBA - Secret Location is a music venue in London with 36 upcoming nights listed on soundcheck as of Fri, 24 Jul 2026; the next is "THE DARK ROOMS VEINS" on Fri, 24 Jul 2026.
+TBA -  Secret Location is a music venue in London with 36 upcoming nights listed on soundcheck as of Fri, 24 Jul 2026; the next is "THE DARK ROOMS VEINS" on Fri, 24 Jul 2026.
 
-TBA - Secret Location is a music venue in London listed on soundcheck. 36 upcoming nights, with line-ups including 550am, AARON GEHRIG, adobeprincess and Alben and 2 more. Browse upcoming dates, start times and who's playing.
+TBA -  Secret Location is a music venue in London listed on soundcheck. 36 upcoming nights, with line-ups including 550am, AARON GEHRIG, adobeprincess and Alben and 2 more. Browse upcoming dates, start times and who's playing.
 
 ## What's on
 

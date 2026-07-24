@@ -1,13 +1,15 @@
 # The Shredder
 
-The Shredder is a Techno and Post-Punk artist with 2 upcoming club dates listed on soundcheck as of Fri, 24 Jul 2026, next at Insomnia, Berlin on Fri, 7 Aug 2026.
+The Shredder is a Techno and Post-Punk artist with 4 upcoming club dates listed on soundcheck as of Fri, 24 Jul 2026, next at Prisma, Berlin on Sun, 26 Jul 2026.
 
-The Shredder is a techno and post-punk artist based in Germany, tracked on soundcheck, with 52 sets logged across Berlin. Often billed alongside Feel .MA, Andi Beat and Aoise. Next up: Insomnia, Berlin on Fri 7 Aug.
+The Shredder is a techno and post-punk artist based in Germany, tracked on soundcheck, with 54 sets logged across Berlin. Often billed alongside Feel .MA, Andi Beat and Aoise. Next up: Prisma, Berlin on Sun 26 Jul.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sun, 26 Jul 2026 | Prisma | Berlin |
+| Thu, 6 Aug 2026 | Prisma | Berlin |
 | Fri, 7 Aug 2026 | Insomnia | Berlin |
 | Fri, 2 Oct 2026 | Insomnia | Berlin |
 

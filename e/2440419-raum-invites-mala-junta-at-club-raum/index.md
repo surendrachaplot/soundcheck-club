@@ -1,6 +1,6 @@
 # RAUM invites Mala Junta at CLUB RAUM
 
-RAUM invites Mala Junta at CLUB RAUM on Fri 31 Jul, Amsterdam. 6 acts on the bill: BARROSKINI, D. Tiffany, DIORA and DJ TOOL and 2 more. Preview the line-up and save it on soundcheck.
+RAUM invites Mala Junta at CLUB RAUM on Fri 31 Jul, Amsterdam. 7 acts on the bill: BARROSKINI, D. Tiffany, D.Dan and DIORA and 3 more. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -12,6 +12,7 @@ RAUM invites Mala Junta at CLUB RAUM on Fri 31 Jul, Amsterdam. 6 acts on the bil
 
 - BARROSKINI
 - D. Tiffany
+- D.Dan
 - DIORA
 - DJ TOOL
 - Hyperaktivist

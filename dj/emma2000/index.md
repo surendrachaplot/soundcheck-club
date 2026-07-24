@@ -1,8 +1,8 @@
 # Emma 2000
 
-Emma 2000 is a Tech House and House artist with 3 upcoming club dates listed on soundcheck as of Fri, 24 Jul 2026, next at Ushuaïa Ibiza, Ibiza on Sat, 1 Aug 2026.
+Emma 2000 is a House and Tech House artist with 4 upcoming club dates listed on soundcheck as of Fri, 24 Jul 2026, next at Ushuaïa Ibiza, Ibiza on Sat, 1 Aug 2026.
 
-Emma 2000 is a tech house and house artist tracked on soundcheck, with 22 sets logged across Amsterdam, Bristol, Ibiza and Leeds and 5 more. Often billed alongside Joss Dean, Julian Fijma and Luuk van Dijk. Next up: Ushuaïa Ibiza, Ibiza on Sat 1 Aug.
+Emma 2000 is a house and tech house artist tracked on soundcheck, with 23 sets logged across Amsterdam, Bristol, Ibiza and Leeds and 5 more. Often billed alongside Joss Dean, Julian Fijma and Luuk van Dijk. Next up: Ushuaïa Ibiza, Ibiza on Sat 1 Aug.
 
 ## Upcoming shows
 
@@ -11,6 +11,7 @@ Emma 2000 is a tech house and house artist tracked on soundcheck, with 22 sets l
 | Sat, 1 Aug 2026 | Ushuaïa Ibiza | Ibiza |
 | Sat, 15 Aug 2026 | Ouseburn Garden | Newcastle |
 | Sat, 26 Sept 2026 | Steelyard Kelham | Sheffield |
+| Wed, 21 Oct 2026 | A'DAM Toren | Amsterdam |
 
 ## Recently played
 

@@ -1,13 +1,14 @@
 # Marmorbar
 
-Marmorbar is a music venue in Berlin with 7 upcoming nights listed on soundcheck as of Fri, 24 Jul 2026; the next is "how to break your heart EP Release" on Fri, 31 Jul 2026.
+Marmorbar is a music venue in Berlin with 8 upcoming nights listed on soundcheck as of Fri, 24 Jul 2026; the next is "VRAU x SAFADA" on Fri, 24 Jul 2026.
 
-Marmorbar is a music venue in Berlin listed on soundcheck. 7 upcoming nights, with line-ups including 131bpm, ABIBA, Ananda (BR) and auto_timer and 2 more. Browse upcoming dates, start times and who's playing. Vor dem Schlesischen Tor 3  10997 Berlin.
+Marmorbar is a music venue in Berlin listed on soundcheck. 8 upcoming nights, with line-ups including 131bpm, _hiø, ABIBA and Ananda (BR) and 2 more. Browse upcoming dates, start times and who's playing. Vor dem Schlesischen Tor 3  10997 Berlin.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
+| Fri, 24 Jul 2026 | VRAU x SAFADA | DJ LOUI FROM JUPITER4, Gadutra, Glowriosa, Milian Dolla, XD Erica, _hiø |
 | Fri, 31 Jul 2026 | how to break your heart EP Release | ABIBA, DJ Luiser, Josi Miller (2) |
 | Sat, 1 Aug 2026 | Sarkash سرکش Underground Festival |  |
 | Sat, 8 Aug 2026 | KODE LATINEO ARENA | 131bpm, Ananda (BR), Hyperaktivist, M8NSE, NORA (BR), Victin |

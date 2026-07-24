@@ -2679,6 +2679,15 @@
     .pfh-tag{ display:inline-flex; padding:6px 13px; border-radius:var(--radius-pill); border:1px solid var(--border); background:var(--surface-2); color:var(--fg); font:700 .78rem var(--body); }
     .pfh-tag.hot{ background:var(--accent-weak); border-color:rgba(255,154,61,.28); color:var(--accent); }
     .pfh-tag.pfh-home{ color:var(--muted); }
+    /* Poster-wall header (06): seen-artists collage behind the hero, veiled for legibility */
+    .pfh.pfh-poster{ position:relative; overflow:hidden; padding:20px 18px 16px; background:var(--surface); border:1px solid var(--border); border-radius:var(--radius-lg); }
+    .pfh-wall{ position:absolute; inset:0; display:grid; grid-template-columns:repeat(8,1fr); opacity:.16; filter:saturate(.85); pointer-events:none; }
+    .pfh-wall i{ background-size:cover; background-position:center; }
+    .pfh-veil{ position:absolute; inset:0; pointer-events:none; background:linear-gradient(180deg, rgba(22,16,42,.28), rgba(22,16,42,.62) 55%, rgba(22,16,42,.88)); }
+    .pfh-in{ position:relative; }
+    /* inside the poster the ribbon is part of the header, not a second box: hairline top, wall shows through */
+    .pfh-poster .pfh-ribbon{ background:transparent; border:0; border-top:1px solid var(--border); border-radius:0; margin-top:16px; }
+    .pfh-poster .pfh-ribbon .c:hover{ background:rgba(255,255,255,.05); }
     @media(max-width:560px){ .pfh-top{ flex-wrap:wrap; } .pfh-acts{ width:100%; } .pfh-acts .pf-btn{ flex:1; } }
     /* Sets tab — grid of the artist's full YouTube sets; tap one to play (queues the rest) */
     .fp-sets{ padding:14px 16px 18px; }
@@ -3148,6 +3157,9 @@
       .fp-sec, .fp-tabpanel .fp-sec{ margin-top:8px; }
       .fp-sech{ background:none; border-bottom:0; padding:14px 18px 2px; }
       .pfh-ribbon{ background:var(--surface); padding:0 9px; }   /* cells pad 9px → numbers land on the 18px gutter */
+      /* poster-wall header is itself a full-bleed band; its internal ribbon stays put */
+      .pfh.pfh-poster{ border:0; border-radius:0; margin-left:calc(-1 * var(--gut)); margin-right:calc(-1 * var(--gut)); padding:18px var(--gut) 10px; }
+      .pfh-poster .pfh-ribbon{ margin-left:0; margin-right:0; padding:0; background:transparent; }
       .pf-box{ padding:15px var(--gut); }
       .pf-suggest{ padding:16px var(--gut) 14px; }
       /* home top = ONE continuous surface (no bg trench): header, date strip,
@@ -3176,7 +3188,7 @@
     }
     @media (max-width:620px){ :root{ --gut:18px; } }
 </style>
-<meta name="sc-build" content="1784893322944">
+<meta name="sc-build" content="1784895592985">
 </head>
 <body>
   <main class="wrap">
@@ -5959,9 +5971,17 @@
       var acts = isMe
         ? '<button class="pf-btn" id="pb-share" type="button">Share</button><button class="pf-btn" id="pb-edit" type="button">Settings</button>'
         : '<button class="pf-btn primary follow'+(p.isFollowing?' following':'')+'" id="follow-btn" type="button" data-handle="'+esc(p.handle)+'">'+(p.isFollowing?'Following':'Follow')+'</button><button class="pf-btn" id="pb-share" type="button">Share</button>';
-      // P1 hero — identity + stat ribbon + genre tags (no QR; sharing lives behind the Share button).
+      // Poster-wall hero (option 06): the seen-artists' photos as a dimmed collage
+      // behind identity + the clickable stat ribbon. No genre tags here by design.
+      // Fewer than 4 artist images → plain header (no wall).
       var sub=['@'+esc(p.handle), st.homeCity?esc(cityLabel(st.homeCity)):''].filter(Boolean).join(' &middot; ');
-      var hero='<div class="pfh">'+
+      var seenImgs=(s.seen||[]).map(function(a){ return a.image; }).filter(Boolean);
+      var wallImgs=seenImgs.slice(0,8);
+      while(wallImgs.length>0 && wallImgs.length<8) wallImgs=wallImgs.concat(seenImgs.slice(0, 8-wallImgs.length));
+      var wall = seenImgs.length>=4
+        ? '<div class="pfh-wall" aria-hidden="true">'+wallImgs.map(function(u){ return '<i style="background-image:url('+imgUrl(u,200)+')"></i>'; }).join('')+'</div><div class="pfh-veil" aria-hidden="true"></div>'
+        : '';
+      var hero='<div class="pfh pfh-poster">'+wall+'<div class="pfh-in">'+
         '<div class="pfh-top"><span class="pfh-av" style="background-image:'+avatarBg(p.handle,p.avatar)+'"></span>'+
           '<div class="pfh-id"><h1 class="pfh-name">'+esc(p.displayName||('u/'+p.handle))+'</h1><div class="pfh-sub">'+sub+'</div></div>'+
           '<div class="pfh-acts">'+acts+'</div></div>'+
@@ -5972,8 +5992,7 @@
           '<div class="c" data-go="artists" data-go-sub="seen"><b>'+seenN+'</b><span>Seen live</span></div>'+
           '<div class="c" data-go="artists" data-go-sub="wanna"><b>'+wannaN+'</b><span>Wanna see</span></div>'+
         '</div>'+
-        (genres.length?'<div class="pfh-tags"><span class="pfh-tl">Sound</span>'+genres.slice(0,4).map(function(g){ return '<span class="pfh-tag">'+esc(g)+'</span>'; }).join('')+'</div>':'')+
-      '</div>';
+      '</div></div>';
       // Sections as in-page tabs (only render a tab when it has content, matching the
       // per-box empty rules the wiring uses). Boxes keep their ids so wirePbProfile fills them.
       var T=[];

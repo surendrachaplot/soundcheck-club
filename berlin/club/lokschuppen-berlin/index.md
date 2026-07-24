@@ -9,7 +9,7 @@ Lokschuppen Berlin is a music venue in Berlin listed on soundcheck. 82 upcoming 
 | Date | Night | Line-up |
 | --- | --- | --- |
 | Fri, 24 Jul 2026 | Trancecore Open Air with SZG, Riana Holley, Brent Honey, NORO$T, Glen West and many more | Amøn, August Kind, Brent Honey, FEROTONINO, Fronsi, GMOZ, Glen West, Jesse Taylor, Pleasant Michelle, Riana Holley, SZG, nordcorreia.mp3 |
-| Sat, 25 Jul 2026 | GOAT BALL x Lokschuppen: CSD AFTERPARTY + TRUCK  | A.N.I., ALYOSHA, ANDATA, ANDHRAY, Cobb Douglas, Crystal O, Daniella da Silva, Hang The DJs, Joey (2), Johænsson, Maryline K, Nettta, STABILINDA, SaltySis, Shanixx, Stinny Stone, TERRA TWIINS, YOVA, two girls one mom |
+| Sat, 25 Jul 2026 | GOAT BALL x Lokschuppen: CSD AFTERPARTY + TRUCK (#77) | A.N.I., ALYOSHA, ANDATA, ANDHRAY, Cobb Douglas, Crystal O, Daniella da Silva, Hang The DJs, Joey (2), Johænsson, Maryline K, Nettta, STABILINDA, SaltySis, Shanixx, Stinny Stone, TERRA TWIINS, YOVA, two girls one mom |
 | Sat, 25 Jul 2026 | LAPSUS MATINEE |  |
 | Sat, 25 Jul 2026 | REINKARNATION |  |
 | Sun, 26 Jul 2026 | LOKSCHUPPEN pres. KLING & KLANG ALL DAY LONG | Athina, CARGO, KLING&KLANG, Limoncello, Lisek, jeanska |

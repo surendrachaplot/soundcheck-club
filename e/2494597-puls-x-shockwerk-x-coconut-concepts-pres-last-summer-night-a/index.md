@@ -1,6 +1,6 @@
-# PULS x shockwerk x Coconut Concepts pres. LAST SUMMER NIGHT at RSO.BERLIN
+# PULS x shockwerk x coconut concepts pres. LAST SUMMER NIGHT at RSO.BERLIN
 
-PULS x shockwerk x Coconut Concepts pres. LAST SUMMER NIGHT at RSO.BERLIN on Fri 4 Sept, Berlin. Techno and House. Preview the line-up and save it on soundcheck.
+PULS x shockwerk x coconut concepts pres. LAST SUMMER NIGHT at RSO.BERLIN on Fri 4 Sept, Berlin. Techno and House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

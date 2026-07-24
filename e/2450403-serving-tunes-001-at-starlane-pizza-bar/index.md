@@ -1,6 +1,6 @@
 # Serving Tunes: 001 at Starlane Pizza Bar
 
-Serving Tunes: 001 at Starlane Pizza Bar on Sat 29 Aug, London. 1 act on the bill: Cardinal Sound. House and Disco. Preview the line-up and save it on soundcheck.
+Serving Tunes: 001 at Starlane Pizza Bar on Sat 29 Aug, London. 1 act on the bill: Cardinal Sound. House and Deep House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

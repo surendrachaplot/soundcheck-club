@@ -1,8 +1,8 @@
 # Else
 
-Else is a music venue in Berlin with 25 upcoming nights listed on soundcheck as of Fri, 24 Jul 2026; the next is "Else x DJ TOOL invites" on Fri, 24 Jul 2026.
+Else is a music venue in Berlin with 26 upcoming nights listed on soundcheck as of Fri, 24 Jul 2026; the next is "Else x DJ TOOL invites" on Fri, 24 Jul 2026.
 
-Else is a music venue in Berlin listed on soundcheck. 25 upcoming nights, with line-ups including 3LNA, AgainstMe, ain't Marco and ALCATRAZ and 2 more. Browse upcoming dates, start times and who's playing. An den Treptowers 10, 12435 Berlin.
+Else is a music venue in Berlin listed on soundcheck. 26 upcoming nights, with line-ups including 3LNA, AgainstMe, ain't Marco and ALCATRAZ and 2 more. Browse upcoming dates, start times and who's playing. An den Treptowers 10, 12435 Berlin.
 
 ## What's on
 

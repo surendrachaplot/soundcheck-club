@@ -1,8 +1,8 @@
 # Utah
 
-Utah is a Bass artist with 122 upcoming club dates listed on soundcheck as of Fri, 24 Jul 2026, next at Institut fuer Zukunft (IfZ), Leipzig on Sat, 25 Jul 2026.
+Utah is a Bass artist with 123 upcoming club dates listed on soundcheck as of Fri, 24 Jul 2026, next at Institut fuer Zukunft (IfZ), Leipzig on Sat, 25 Jul 2026.
 
-Utah is a bass artist based in United Kingdom, tracked on soundcheck, with 143 sets logged across Amsterdam, Bali, Barcelona and Berlin and 43 more. Often billed alongside AMEX (UK), APP and Alaska (2). Next up: Institut fuer Zukunft (IfZ), Leipzig on Sat 25 Jul.
+Utah is a bass artist based in United Kingdom, tracked on soundcheck, with 144 sets logged across Amsterdam, Bali, Barcelona and Berlin and 43 more. Often billed alongside AMEX (UK), APP and Alaska (2). Next up: Institut fuer Zukunft (IfZ), Leipzig on Sat 25 Jul.
 
 ## Upcoming shows
 

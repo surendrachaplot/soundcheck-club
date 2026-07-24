@@ -1,6 +1,6 @@
 # Seaseaclub Barcelona
 
-Seaseaclub Barcelona is a music venue in Barcelona with 18 upcoming nights listed on soundcheck as of Fri, 24 Jul 2026; the next is "[LAST 100 TICKETS] Output pres. Nicola Cruz + Binh (open air + afterparty)" on Fri, 24 Jul 2026.
+Seaseaclub Barcelona is a music venue in Barcelona with 18 upcoming nights listed on soundcheck as of Fri, 24 Jul 2026; the next is "[LAST 50 TICKETS] Output pres. Nicola Cruz + Binh (open air + afterparty)" on Fri, 24 Jul 2026.
 
 Seaseaclub Barcelona is a music venue in Barcelona listed on soundcheck. 18 upcoming nights, with line-ups including CEZAR, Mariiin, Abdon and Agatha Pher and 2 more. Browse upcoming dates, start times and who's playing. Carrer Port Esportiu, 14P, 08930 Barcelona.
 
@@ -8,7 +8,7 @@ Seaseaclub Barcelona is a music venue in Barcelona listed on soundcheck. 18 upco
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Fri, 24 Jul 2026 | [LAST 100 TICKETS] Output pres. Nicola Cruz + Binh (open air + afterparty) | Binh, Javier Carballo, Mariiin, Nicola Cruz, Tamarindo |
+| Fri, 24 Jul 2026 | [LAST 50 TICKETS] Output pres. Nicola Cruz + Binh (open air + afterparty) | Binh, Javier Carballo, Mariiin, Nicola Cruz, Tamarindo |
 | Sat, 25 Jul 2026 | Ànims: John Digweed & Imbermind live  (open air + afterparty) | Darlow, Imbermind, John Digweed, Pole Position |
 | Fri, 31 Jul 2026 | NEO Party (Open Air) 4th Year Anniversary - Barcelona - July |  |
 | Sat, 1 Aug 2026 | LOAD pres. Kidoo + Abdon , Marian & Pau Guilera (the gallery) | AIIVIIK, Abdon, Jorgesyn, Kidoo, Marian BR, Pau Guilera, THINKPINK |

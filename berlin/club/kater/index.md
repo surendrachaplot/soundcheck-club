@@ -8,7 +8,7 @@ Kater is a music venue in Berlin listed on soundcheck. 17 upcoming nights, with 
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Fri, 24 Jul 2026 | Kater x Wilde Möhre | ANouch, Bo Irion, Carotin, Conor Schmtz, HOVR, J. Richards, JessRey, Joplyn, Marco Resmann, ONNI, Peter Schumann, Redshape, Scarlett O'Malley, Seb Blake |
+| Fri, 24 Jul 2026 | Kater x Wilde Möhre | ANouch, Bo Irion, Carotin, Conor Schmtz, HOVR, J. Richards, JessRey, Joplyn, Marco Resmann, ONNI, Peter Schumann, Redshape, Scarlett O'Malley, Seb Blake, ZweiE |
 | Sat, 25 Jul 2026 | CHOSEN FAMILY CSD | Ahni, Akirahawks, Alma Negrot, BODYSHIFT, Bruna N., CHUKWU, D'Nice, Dee Diggs, Farhan, Fluffi, Heidi Lawden, Immy, Jacob Meehan, Jimmie, La Schmock, MVHY, Manta, Margo (GER), Michael Cignarale, Qualia Trax, Rosa Red, SXCL, Souci, cristian zanotti, juan and only, materia hache |
 | Tue, 28 Jul 2026 | The Funky Chicken Club | DJ Divinity, Disco Gessner |
 | Fri, 31 Jul 2026 | Kater x Supertonic | Arlanoa, Blu:sh, Eclectic Elektra, Frankey & Sandrino, Kallaloo, Marie Malarie, Maya Evers, Predex |

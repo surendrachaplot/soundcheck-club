@@ -17,7 +17,7 @@ Shelter Amsterdam is a music venue in Amsterdam listed on soundcheck. 19 upcomin
 | Fri, 14 Aug 2026 | Luke Alessi (all night) | ANNASNEL, Capron, Luke Alessi |
 | Sat, 15 Aug 2026 | Shelter presents: S.A.S.H. - Laidlaw, Brainssurfers | Harry McCanna, Kerry, Laidlaw, Marlie, Sam Bangura, Shakèd |
 | Fri, 21 Aug 2026 | Boss Priester b2b Kepler (all night) | Boss Priester, Kepler (EE), Kim April |
-| Sat, 22 Aug 2026 | Shelter presents: Bondru - Julian Anthony & More | Isabelle Koci, Izak Jules, Julian Anthony, LORI (NL) |
+| Sat, 22 Aug 2026 | Shelter presents: Bondru - Julian Anthony, The Ghost & More | Isabelle Koci, Izak Jules, Julian Anthony, LORI (NL), The Ghost |
 
 ## Address
 

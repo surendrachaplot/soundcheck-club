@@ -1,8 +1,8 @@
 # DIORA
 
-DIORA is a Techno and House artist with 4 upcoming club dates listed on soundcheck as of Fri, 24 Jul 2026, next at TILLATEC, Amsterdam on Fri, 24 Jul 2026.
+DIORA is a Techno and House artist with 5 upcoming club dates listed on soundcheck as of Fri, 24 Jul 2026, next at TILLATEC, Amsterdam on Fri, 24 Jul 2026.
 
-DIORA is a techno and house artist tracked on soundcheck, with 61 sets logged across Amsterdam, Barcelona, Berlin and Glasgow and 6 more. Often billed alongside Slimfit, BARROSKINI and angelboy. Next up: TILLATEC, Amsterdam on Fri 24 Jul.
+DIORA is a techno and house artist tracked on soundcheck, with 62 sets logged across Amsterdam, Barcelona, Berlin and Glasgow and 6 more. Often billed alongside Slimfit, BARROSKINI and angelboy. Next up: TILLATEC, Amsterdam on Fri 24 Jul.
 
 ## Upcoming shows
 
@@ -11,6 +11,7 @@ DIORA is a techno and house artist tracked on soundcheck, with 61 sets logged ac
 | Fri, 24 Jul 2026 | TILLATEC | Amsterdam |
 | Fri, 31 Jul 2026 | CLUB RAUM | Amsterdam |
 | Fri, 31 Jul 2026 | TILLATEC | Amsterdam |
+| Sat, 1 Aug 2026 | Zwart Goud Record Store | Amsterdam |
 | Fri, 21 Aug 2026 | TILLATEC | Amsterdam |
 
 ## Recently played
