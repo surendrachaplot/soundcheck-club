@@ -70,7 +70,8 @@
        scrolls under it cleanly; z-index 50 keeps it above page content but below dock/modals. */
     /* Opaque so content scrolls under cleanly; scanlines painted right on it (the header sits
        above the fixed body::before scanline overlay, so it carries its own copy of the lines). */
-    .wrap > nav { position:sticky; top:0; z-index:50; background:linear-gradient(rgba(255,154,61,.05) 1px, transparent 1px) 0 0 / 100% 4px, var(--bg); display:flex; align-items:center; gap:14px; padding:calc(18px + env(safe-area-inset-top)) 0 18px; border-bottom:1px solid transparent; transition:border-color var(--dur-2,200ms) var(--ease-standard,ease); }
+    /* nav no longer carries its own scanline copy — the global body::before glass now sits above ALL surfaces */
+    .wrap > nav { position:sticky; top:0; z-index:50; background:var(--bg); display:flex; align-items:center; gap:14px; padding:calc(18px + env(safe-area-inset-top)) 0 18px; border-bottom:1px solid transparent; transition:border-color var(--dur-2,200ms) var(--ease-standard,ease); }
     /* on-scroll: keep the solid scanline bg (no frosted glass), just reveal the divider */
     .wrap > nav.scrolled { border-bottom-color:var(--border); }
     .logo { display:inline-flex; align-items:center; gap:8px; color:var(--fg); text-decoration:none; flex:none; }
@@ -3004,7 +3005,9 @@
     
     /* ═══ SUNSET·CRT — promoted from next.soundcheck.club (2026-07-13) ═══ */
     /* arcade scanlines — fixed, warm-tinted */
-    body::before{ content:""; position:fixed; inset:0; z-index:3; pointer-events:none;
+    /* CRT glass over EVERYTHING — every page, panel, modal, dock. pointer-events:none
+       keeps it inert; z-index above all stacking contexts so no surface escapes the lines. */
+    body::before{ content:""; position:fixed; inset:0; z-index:2000000; pointer-events:none;
       background:linear-gradient(rgba(255,154,61,.05) 1px, transparent 1px); background-size:100% 4px; }
     /* gradient on "check" only; hover → whole logo white; logo/city sized like event titles */
     .logo-wm .ac{ background:var(--accent-grad); -webkit-background-clip:text; background-clip:text;
@@ -3092,9 +3095,10 @@
 
     /* 3 · selection chips + date tiles (state, not action) */
     .dt:hover{ border-color:var(--sel); }
-    .dt.on, .dt.dscal.on{ background:var(--sel); border-color:var(--sel); color:var(--sel-ink); }
-    .dt.on .dt-w{ color:var(--sel-ink); opacity:.85; }
-    .dt.on:hover{ filter:brightness(1.12); }
+    /* date tiles: SUNSET GRADIENT selected — explicit user exception to violet-selected */
+    .dt.on, .dt.dscal.on{ background:var(--accent-grad); border-color:transparent; color:var(--accent-ink); }
+    .dt.on .dt-w{ color:var(--accent-ink); opacity:.85; }
+    .dt.on:hover{ filter:brightness(1.06); }
     .up-chip:hover, .lg-chip:hover, .vrv-chip:hover{ border-color:var(--sel); color:var(--fg); }
     .up-chip.on, .lg-chip.on, .vrv-chip.on{ background:var(--sel); border-color:var(--sel); color:var(--sel-ink); }
     .ds-filt:hover{ border-color:var(--sel); }
@@ -3188,7 +3192,7 @@
     }
     @media (max-width:620px){ :root{ --gut:18px; } }
 </style>
-<meta name="sc-build" content="1784895592985">
+<meta name="sc-build" content="1784908344017">
 </head>
 <body>
   <main class="wrap">
@@ -3236,7 +3240,7 @@
     <div class="grid" id="grid"></div>
     <!-- Per-city "what's on this week" date links, injected by build-club (canonical
          /<city>/<date>/ pages). Empty in the source; hidden on client-side city switch. -->
-    <section id="home-seo-more" class="home-seo-more" data-city="london"><h2>What&rsquo;s on in London this week</h2><ul class="home-seo-dates"><li><a href="/london/2026-07-24/">Fri 24 Jul <span class="c">86 events</span></a></li><li><a href="/london/2026-07-25/">Sat 25 Jul <span class="c">147 events</span></a></li><li><a href="/london/2026-07-26/">Sun 26 Jul <span class="c">20 events</span></a></li><li><a href="/london/2026-07-28/">Tue 28 Jul <span class="c">4 events</span></a></li><li><a href="/london/2026-07-29/">Wed 29 Jul <span class="c">13 events</span></a></li><li><a href="/london/2026-07-30/">Thu 30 Jul <span class="c">27 events</span></a></li><li><a href="/london/2026-07-31/">Fri 31 Jul <span class="c">87 events</span></a></li></ul><nav class="home-seo-nav" aria-label="More on soundcheck"><a href="/london/this-weekend/">This weekend in London</a> <a href="/london/scene/">London scene guide</a> <a href="/cities/">All 104 cities</a></nav></section>
+    <section id="home-seo-more" class="home-seo-more" data-city="london"><h2>What&rsquo;s on in London this week</h2><ul class="home-seo-dates"><li><a href="/london/2026-07-24/">Fri 24 Jul <span class="c">86 events</span></a></li><li><a href="/london/2026-07-25/">Sat 25 Jul <span class="c">148 events</span></a></li><li><a href="/london/2026-07-26/">Sun 26 Jul <span class="c">20 events</span></a></li><li><a href="/london/2026-07-28/">Tue 28 Jul <span class="c">4 events</span></a></li><li><a href="/london/2026-07-29/">Wed 29 Jul <span class="c">13 events</span></a></li><li><a href="/london/2026-07-30/">Thu 30 Jul <span class="c">27 events</span></a></li><li><a href="/london/2026-07-31/">Fri 31 Jul <span class="c">87 events</span></a></li></ul><nav class="home-seo-nav" aria-label="More on soundcheck"><a href="/london/this-weekend/">This weekend in London</a> <a href="/london/scene/">London scene guide</a> <a href="/cities/">All 104 cities</a></nav></section>
 
     <!-- Crawlable home content (H1 + intro) — moved to the bottom of the page. Still a real
          <h1> in the DOM so it's the page heading for SEO regardless of visual position.
@@ -6115,7 +6119,8 @@
       // wrapped in .diary-page so the perforation notches + barcode render.
       var db=document.getElementById('pf-diary');
       if(db){ if(isMe || diary.length){
-        db.innerHTML=diaryTLHTML(diary, isMe)+(isMe&&diary.length?'<button class="pf-btn primary" id="pf-log2" type="button" style="width:100%;margin-top:14px">＋ Log a gig</button>':'');
+        // Log a gig sits ABOVE the diary (empty state keeps its own nudge button)
+        db.innerHTML=(isMe&&diary.length?'<button class="pf-btn primary" id="pf-log2" type="button" style="width:100%;margin:2px 0 14px">＋ Log a gig</button>':'')+diaryTLHTML(diary, isMe);
         wireDiary(db, isMe, function(){ openProfile(p.handle); });
         ['pf-log2','diary-log2'].forEach(function(id){ var b=document.getElementById(id); if(b) b.addEventListener('click',function(){ openLog(); }); });
       } else db.remove(); }
