@@ -1,8 +1,8 @@
 # Ijland
 
-Ijland is a music venue in Amsterdam with 3 upcoming nights listed on soundcheck as of Fri, 24 Jul 2026; the next is "STUDIO STRIP X SEBONSA 5 YEARS W/C.FRIM, Cinnaman, Styn & UNITED IDENTITIES" on Sat, 8 Aug 2026.
+Ijland is a music venue in Amsterdam with 4 upcoming nights listed on soundcheck as of Sat, 25 Jul 2026; the next is "STUDIO STRIP X SEBONSA 5 YEARS W/C.FRIM, Cinnaman, Styn & UNITED IDENTITIES" on Sat, 8 Aug 2026.
 
-Ijland is a music venue in Amsterdam listed on soundcheck. 3 upcoming nights, with line-ups including C.FRIM, Cheyanne Hudson, Cinnaman and Erykah and 2 more. Browse upcoming dates, start times and who's playing. Tt. Vasumweg 171, 1033 SG Amsterdam.
+Ijland is a music venue in Amsterdam listed on soundcheck. 4 upcoming nights, with line-ups including Kepler, Benny Rodrigues, bullet tooth and Caleb Jackson and 2 more. Browse upcoming dates, start times and who's playing. Tt. Vasumweg 171, 1033 SG Amsterdam.
 
 ## What's on
 
@@ -11,9 +11,10 @@ Ijland is a music venue in Amsterdam listed on soundcheck. 3 upcoming nights, wi
 | Sat, 8 Aug 2026 | STUDIO STRIP X SEBONSA 5 YEARS W/C.FRIM, Cinnaman, Styn & UNITED IDENTITIES | C.FRIM, Cheyanne Hudson, Cinnaman, Erykah, Franky Sticks, Jana, Kurashi Soundsystem, Retromigration, Styn |
 | Sat, 12 Sept 2026 | Olivier Weiter b2b Miss Melera | Miss Melera, Olivier Weiter |
 | Thu, 22 Oct 2026 | Guy J - all night long | Guy J |
+| Fri, 23 Oct 2026 | PIV ADE - Ijland | Benny Rodrigues, Caleb Jackson, Kepler, Kim April, Klaudie, Midas Field, Prunk, Retrouve, bullet tooth |
 
 ## Address
 
 Tt. Vasumweg 171, 1033 SG Amsterdam, Amsterdam
 
-*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/ijland/)*
+*Updated Sat, 25 Jul 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/ijland/)*

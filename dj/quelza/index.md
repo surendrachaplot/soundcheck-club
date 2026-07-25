@@ -1,8 +1,8 @@
 # Quelza
 
-Quelza is a Techno and House artist with 9 upcoming club dates listed on soundcheck as of Fri, 24 Jul 2026, next at BLITZ, Munich on Fri, 31 Jul 2026.
+Quelza is a Techno and House artist with 11 upcoming club dates listed on soundcheck as of Sat, 25 Jul 2026, next at BLITZ, Munich on Fri, 31 Jul 2026.
 
-Quelza is a techno and house artist tracked on soundcheck, with 203 sets logged across Amsterdam, Athens, Barcelona and Basel and 57 more. Often billed alongside Freddy K, BASHKKA and Ogazón. Next up: BLITZ, Munich on Fri 31 Jul.
+Quelza is a techno and house artist tracked on soundcheck, with 205 sets logged across Amsterdam, Athens, Barcelona and Basel and 57 more. Often billed alongside BASHKKA, Freddy K and Ogazón. Next up: BLITZ, Munich on Fri 31 Jul.
 
 ## Upcoming shows
 
@@ -17,6 +17,8 @@ Quelza is a techno and house artist tracked on soundcheck, with 203 sets logged 
 | Fri, 4 Sept 2026 | Trädgården | Stockholm |
 | Thu, 10 Sept 2026 | Descent | Boston |
 | Fri, 18 Sept 2026 | Gate Milano | Milan |
+| Fri, 23 Oct 2026 | WestWeelde | Amsterdam |
+| Fri, 23 Oct 2026 | CLUB RAUM | Amsterdam |
 
 ## Recently played
 
@@ -31,6 +33,6 @@ Quelza is a techno and house artist tracked on soundcheck, with 203 sets logged 
 
 ## Shares bills with
 
-Freddy K, BASHKKA, Ogazón
+BASHKKA, Freddy K, Ogazón
 
-*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/quelza/)*
+*Updated Sat, 25 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/quelza/)*

@@ -1,14 +1,13 @@
 # Bambi's
 
-Bambi's is a music venue in Toronto with 10 upcoming nights listed on soundcheck as of Fri, 24 Jul 2026; the next is "Sem Forma presents: Scott Zacharias (Detroit) with Invisible City & Justin La Rose" on Fri, 24 Jul 2026.
+Bambi's is a music venue in Toronto with 9 upcoming nights listed on soundcheck as of Sat, 25 Jul 2026; the next is "Critter b2b Lather Rinse Repeat all night" on Sat, 25 Jul 2026.
 
-Bambi's is a music venue in Toronto listed on soundcheck. 10 upcoming nights, with line-ups including AKWA, Amedeo (CA), Anzola and Carlos Estebban and 2 more. Browse upcoming dates, start times and who's playing. 1265 Dundas W, Toronto, ON M6J 1X6, Canada.
+Bambi's is a music venue in Toronto listed on soundcheck. 9 upcoming nights, with line-ups including AKWA, Amedeo (CA), Anzola and Carlos Estebban and 2 more. Browse upcoming dates, start times and who's playing. 1265 Dundas W, Toronto, ON M6J 1X6, Canada.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Fri, 24 Jul 2026 | Sem Forma presents: Scott Zacharias (Detroit) with Invisible City & Justin La Rose | Invisible City, Justin La Rose, Scott Zacharias |
 | Sat, 25 Jul 2026 | Critter b2b Lather Rinse Repeat all night | Critter, Lather Rinse Repeat |
 | Fri, 31 Jul 2026 | DE SOL A SOL - A Benefit for Children Affected by Venezuela's Earthquakes | Anzola, Carlos Estebban, olasconola |
 | Sat, 1 Aug 2026 | Milch & Hasa | Milch (1), Underwaterhasa |
@@ -23,4 +22,4 @@ Bambi's is a music venue in Toronto listed on soundcheck. 10 upcoming nights, wi
 
 1265 Dundas W, Toronto, ON M6J 1X6, Canada, Toronto
 
-*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/toronto/club/bambi-s/)*
+*Updated Sat, 25 Jul 2026 · source: [soundcheck](https://soundcheck.club/toronto/club/bambi-s/)*

@@ -1,6 +1,6 @@
 # YOSHIMASA
 
-YOSHIMASA is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Fri, 24 Jul 2026, next at ZEROTOKYO, Tokyo on Sat, 25 Jul 2026.
+YOSHIMASA is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Sat, 25 Jul 2026, next at ZEROTOKYO, Tokyo on Sat, 25 Jul 2026.
 
 YOSHIMASA is a techno and house artist tracked on soundcheck, with 83 sets logged across Tokyo. Often billed alongside DJ 34, FUMOFFU and Takami. Next up: ZEROTOKYO, Tokyo on Sat 25 Jul.
 
@@ -27,4 +27,4 @@ YOSHIMASA is a techno and house artist tracked on soundcheck, with 83 sets logge
 
 DJ 34, FUMOFFU, Takami
 
-*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/yoshimasa/)*
+*Updated Sat, 25 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/yoshimasa/)*

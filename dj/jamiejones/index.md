@@ -1,8 +1,8 @@
 # Jamie Jones
 
-Jamie Jones is a House and Tech House artist with 19 upcoming club dates listed on soundcheck as of Fri, 24 Jul 2026, next at Sophie Festival, Malaga on Sat, 25 Jul 2026.
+Jamie Jones is a House and Tech House artist with 20 upcoming club dates listed on soundcheck as of Sat, 25 Jul 2026, next at Sophie Festival, Malaga on Sat, 25 Jul 2026.
 
-Jamie Jones is a house and tech house artist tracked on soundcheck, with 207 sets logged across Amsterdam, Austin, Bali and Barcelona and 31 more. Often billed alongside Joseph Capriati, Manda Moor and ALISHA. Next up: Sophie Festival, Malaga on Sat 25 Jul.
+Jamie Jones is a house and tech house artist tracked on soundcheck, with 208 sets logged across Amsterdam, Austin, Bali and Barcelona and 31 more. Often billed alongside Joseph Capriati, Manda Moor and ALISHA. Next up: Sophie Festival, Malaga on Sat 25 Jul.
 
 ## Upcoming shows
 
@@ -36,4 +36,4 @@ Jamie Jones is a house and tech house artist tracked on soundcheck, with 207 set
 
 Joseph Capriati, Manda Moor, ALISHA
 
-*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/jamiejones/)*
+*Updated Sat, 25 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/jamiejones/)*

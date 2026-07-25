@@ -1,8 +1,8 @@
 # Mary Lake
 
-Mary Lake is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Fri, 24 Jul 2026, next at CLUB RAUM, Amsterdam on Fri, 11 Sept 2026.
+Mary Lake is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Sat, 25 Jul 2026, next at CLUB RAUM, Amsterdam on Fri, 11 Sept 2026.
 
-Mary Lake is a techno and house artist tracked on soundcheck, with 132 sets logged across Amsterdam, Antwerp, Barcelona and Berlin and 22 more. Often billed alongside TWIENA, Afra and Fafi Abdel Nour. Next up: CLUB RAUM, Amsterdam on Fri 11 Sept.
+Mary Lake is a techno and house artist tracked on soundcheck, with 133 sets logged across Amsterdam, Antwerp, Barcelona and Berlin and 22 more. Often billed alongside TWIENA, Afra and Fafi Abdel Nour. Next up: CLUB RAUM, Amsterdam on Fri 11 Sept.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Mary Lake is a techno and house artist tracked on soundcheck, with 132 sets logg
 | --- | --- | --- |
 | Fri, 11 Sept 2026 | CLUB RAUM | Amsterdam |
 | Sat, 19 Sept 2026 | Lofi | Amsterdam |
+| Fri, 23 Oct 2026 | CLUB RAUM | Amsterdam |
 
 ## Recently played
 
@@ -26,4 +27,4 @@ Mary Lake is a techno and house artist tracked on soundcheck, with 132 sets logg
 
 TWIENA, Afra, Fafi Abdel Nour
 
-*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/marylake/)*
+*Updated Sat, 25 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/marylake/)*

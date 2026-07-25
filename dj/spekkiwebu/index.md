@@ -1,6 +1,6 @@
 # Spekki Webu
 
-Spekki Webu is a Techno and House artist with 5 upcoming club dates listed on soundcheck as of Fri, 24 Jul 2026, next at Upsidedown, Osaka on Sat, 25 Jul 2026.
+Spekki Webu is a Techno and House artist with 5 upcoming club dates listed on soundcheck as of Sat, 25 Jul 2026, next at Upsidedown, Osaka on Sat, 25 Jul 2026.
 
 Spekki Webu is a techno and house artist tracked on soundcheck, with 193 sets logged across Amsterdam, Athens, Auckland and Bangkok and 42 more. Often billed alongside OCCA, Mama Snake and Feral. Next up: Upsidedown, Osaka on Sat 25 Jul.
 
@@ -29,4 +29,4 @@ Spekki Webu is a techno and house artist tracked on soundcheck, with 193 sets lo
 
 OCCA, Mama Snake, Feral
 
-*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/spekkiwebu/)*
+*Updated Sat, 25 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/spekkiwebu/)*

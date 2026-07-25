@@ -1,6 +1,6 @@
 # Tristan Ingram
 
-Tristan Ingram is a House and Tech House artist with 2 upcoming club dates listed on soundcheck as of Fri, 24 Jul 2026, next at Night Tales Loft, London on Sat, 25 Jul 2026.
+Tristan Ingram is a House and Tech House artist with 2 upcoming club dates listed on soundcheck as of Sat, 25 Jul 2026, next at Night Tales Loft, London on Sat, 25 Jul 2026.
 
 Tristan Ingram is a house and tech house artist based in United Kingdom, tracked on soundcheck, with 34 sets logged across Ibiza and London. Often billed alongside Alex P, Bongo Ben and Brandon Block. Next up: Night Tales Loft, London on Sat 25 Jul.
 
@@ -26,4 +26,4 @@ Tristan Ingram is a house and tech house artist based in United Kingdom, tracked
 
 Alex P, Bongo Ben, Brandon Block
 
-*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/tristaningram/)*
+*Updated Sat, 25 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/tristaningram/)*

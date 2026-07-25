@@ -1,14 +1,13 @@
 # DJ BORING
 
-DJ BORING is a House and Techno artist with 8 upcoming club dates listed on soundcheck as of Fri, 24 Jul 2026, next at Virage, Paris on Fri, 24 Jul 2026.
+DJ BORING is a House and Techno artist with 8 upcoming club dates listed on soundcheck as of Sat, 25 Jul 2026, next at TBA - Paradies Garten Festival - Schloß Prugg 2, 2460 Gemeinde Bruck an der Leitha, Vienna on Fri, 31 Jul 2026.
 
-DJ BORING is a house and techno artist tracked on soundcheck, with 197 sets logged across Amsterdam, Antwerp, Athens and Bali and 62 more. Often billed alongside Sally C, salute and DJ Heartstring. Next up: Virage, Paris on Fri 24 Jul.
+DJ BORING is a house and techno artist tracked on soundcheck, with 198 sets logged across Amsterdam, Antwerp, Athens and Bali and 62 more. Often billed alongside Sally C, salute and DJ Heartstring. Next up: TBA - Paradies Garten Festival - Schloß Prugg 2, 2460 Gemeinde Bruck an der Leitha, Vienna on Fri 31 Jul.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 24 Jul 2026 | Virage | Paris |
 | Fri, 31 Jul 2026 | TBA - Paradies Garten Festival - Schloß Prugg 2, 2460 Gemeinde Bruck an der Leitha | Vienna |
 | Sat, 1 Aug 2026 | KOKO | London |
 | Sat, 1 Aug 2026 | TBA - Boat Party (Departs Tower Millenium Pier) | London |
@@ -16,9 +15,11 @@ DJ BORING is a house and techno artist tracked on soundcheck, with 197 sets logg
 | Fri, 11 Sept 2026 | Village Studios | Vancouver |
 | Sat, 19 Sept 2026 | Prysm Nightclub | Chicago |
 | Thu, 22 Oct 2026 | WestWeelde | Amsterdam |
+| Fri, 23 Oct 2026 | Ndsm Wharf | Amsterdam |
 
 ## Recently played
 
+- Virage, Paris — Fri, 24 Jul 2026
 - Hangaren, Copenhagen — Fri, 10 Jul 2026
 - Recreatiegebied Middelwaard, Utrecht — Sat, 4 Jul 2026
 - Else, Berlin — Fri, 3 Jul 2026
@@ -26,10 +27,9 @@ DJ BORING is a house and techno artist tracked on soundcheck, with 197 sets logg
 - Hart Plaza, Detroit — Sat, 23 May 2026
 - Newspeak, Montreal — Sat, 23 May 2026
 - SILO, New York City — Fri, 22 May 2026
-- Madrid Caja Mágica, Madrid — Sun, 17 May 2026
 
 ## Shares bills with
 
 Sally C, salute, DJ Heartstring
 
-*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/djboring/)*
+*Updated Sat, 25 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/djboring/)*

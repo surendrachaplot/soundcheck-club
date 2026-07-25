@@ -1,14 +1,13 @@
 # Den Anden Side
 
-Den Anden Side is a music venue in Copenhagen with 11 upcoming nights listed on soundcheck as of Fri, 24 Jul 2026; the next is "Order of Magnitude with Derango & Mussy Moody" on Fri, 24 Jul 2026.
+Den Anden Side is a music venue in Copenhagen with 10 upcoming nights listed on soundcheck as of Sat, 25 Jul 2026; the next is "UNIT ZERO #2" on Sat, 25 Jul 2026.
 
-Den Anden Side is a music venue in Copenhagen listed on soundcheck. 11 upcoming nights, with line-ups including ābnamā, Adexia, Alegrando and Alexander Santana and 2 more. Browse upcoming dates, start times and who's playing. Axeltorv 5 1609 Copenhagen, Denmark.
+Den Anden Side is a music venue in Copenhagen listed on soundcheck. 10 upcoming nights, with line-ups including ābnamā, Adexia, Alegrando and Alexander Santana and 2 more. Browse upcoming dates, start times and who's playing. Axeltorv 5 1609 Copenhagen, Denmark.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Fri, 24 Jul 2026 | Order of Magnitude with Derango & Mussy Moody | Filen |
 | Sat, 25 Jul 2026 | UNIT ZERO #2 | Ctrls, Evvolita, Kallax, Milo Makua |
 | Fri, 31 Jul 2026 | FOMO days | Butschi, DJ BENDER, DJ Dopamina, Entree, Erik Chamber, Yesca |
 | Sat, 1 Aug 2026 | ESCAPISM presents: Rødhåd extended set | Anna Logic, Dico Nemus, Johannes Astrup, Nazira, Rødhåd, SORT SIND |
@@ -18,9 +17,10 @@ Den Anden Side is a music venue in Copenhagen listed on soundcheck. 11 upcoming 
 | Sat, 15 Aug 2026 | Group Therapy Pride | Baltza, Dgeral, Lucky Lube, Midland, Verushka, steamboi, ābnamā |
 | Fri, 21 Aug 2026 | Amniote Editions | FILTH.y, Mama Snake, Matriark, Monophonik |
 | Sat, 22 Aug 2026 | Syntharax & Friends | Alexander Santana, CF682, DJ BENDER, Lead Ore, Martin Gilleshøj, Mia Lund, SONYDIAM |
+| Sat, 29 Aug 2026 | Whipped x Eros Haven | EI.VN, Gavnlig, Holtz (2), Lukr Range |
 
 ## Address
 
 Axeltorv 5 1609 Copenhagen, Denmark, Copenhagen
 
-*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/copenhagen/club/den-anden-side/)*
+*Updated Sat, 25 Jul 2026 · source: [soundcheck](https://soundcheck.club/copenhagen/club/den-anden-side/)*

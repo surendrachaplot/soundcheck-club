@@ -1,6 +1,6 @@
 # djfix
 
-djfix is a Techno and Tech House artist with 3 upcoming club dates listed on soundcheck as of Fri, 24 Jul 2026, next at Jolene, Copenhagen on Sat, 25 Jul 2026.
+djfix is a Techno and Tech House artist with 3 upcoming club dates listed on soundcheck as of Sat, 25 Jul 2026, next at Jolene, Copenhagen on Sat, 25 Jul 2026.
 
 djfix is a techno and tech house artist tracked on soundcheck, with 25 sets logged across Berlin, Copenhagen, Dublin and London and 7 more. Often billed alongside Jek (US), adobeprincess and Ekkel. Next up: Jolene, Copenhagen on Sat 25 Jul.
 
@@ -27,4 +27,4 @@ djfix is a techno and tech house artist tracked on soundcheck, with 25 sets logg
 
 Jek (US), adobeprincess, Ekkel
 
-*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/djfix/)*
+*Updated Sat, 25 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/djfix/)*

@@ -1,14 +1,13 @@
 # Richard Akingbehin
 
-Richard Akingbehin is a Techno and Dub Techno artist with 9 upcoming club dates listed on soundcheck as of Fri, 24 Jul 2026, next at BLITZ, Munich on Fri, 24 Jul 2026.
+Richard Akingbehin is a Techno and Dub Techno artist with 9 upcoming club dates listed on soundcheck as of Sat, 25 Jul 2026, next at Amsterdamse Bos, Amsterdam on Wed, 29 Jul 2026.
 
-Richard Akingbehin is a techno and dub techno artist tracked on soundcheck, with 126 sets logged across Amsterdam, Barcelona, Berlin and Brussels and 27 more. Often billed alongside Tikiman, Fadi Mohem and Gabrielle Kwarteng. Next up: BLITZ, Munich on Fri 24 Jul.
+Richard Akingbehin is a techno and dub techno artist tracked on soundcheck, with 127 sets logged across Amsterdam, Barcelona, Berlin and Brussels and 27 more. Often billed alongside Tikiman, livwutang and BASHKKA. Next up: Amsterdamse Bos, Amsterdam on Wed 29 Jul.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 24 Jul 2026 | BLITZ | Munich |
 | Wed, 29 Jul 2026 | Amsterdamse Bos | Amsterdam |
 | Sun, 2 Aug 2026 | Amsterdamse Bos | Amsterdam |
 | Fri, 7 Aug 2026 | Berghain / Panorama Bar / Säule | Berlin |
@@ -17,9 +16,11 @@ Richard Akingbehin is a techno and dub techno artist tracked on soundcheck, with
 | Sat, 22 Aug 2026 | Blå | Oslo |
 | Thu, 10 Sept 2026 | Barragem da Queimadela | Porto |
 | Sun, 20 Sept 2026 | TBA | Montreal |
+| Fri, 23 Oct 2026 | CLUB RAUM | Amsterdam |
 
 ## Recently played
 
+- BLITZ, Munich — Fri, 24 Jul 2026
 - Garchinger See, Munich — Sat, 18 Jul 2026
 - FOLD, London — Sat, 27 Jun 2026
 - TBA - Somewhere in Berlin, Berlin — Fri, 26 Jun 2026
@@ -27,10 +28,9 @@ Richard Akingbehin is a techno and dub techno artist tracked on soundcheck, with
 - La Péniche Cinéma, Paris — Fri, 29 May 2026
 - West Indian Centre, Leeds — Sun, 24 May 2026
 - Peckham Rye Park, London — Fri, 22 May 2026
-- BLITZ, Munich — Sat, 16 May 2026
 
 ## Shares bills with
 
-Tikiman, Fadi Mohem, Gabrielle Kwarteng
+Tikiman, livwutang, BASHKKA
 
-*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/richardakingbehin/)*
+*Updated Sat, 25 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/richardakingbehin/)*

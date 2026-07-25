@@ -1,8 +1,8 @@
 # RIRIA
 
-RIRIA is a Techno and Bass artist with 9 upcoming club dates listed on soundcheck as of Fri, 24 Jul 2026, next at Parc de la Trinitat, Barcelona on Sun, 26 Jul 2026.
+RIRIA is a Techno and Bass artist with 10 upcoming club dates listed on soundcheck as of Sat, 25 Jul 2026, next at Parc de la Trinitat, Barcelona on Sun, 26 Jul 2026.
 
-RIRIA is a techno and bass artist tracked on soundcheck, with 84 sets logged across Amsterdam, Antwerp, Bali and Bangkok and 31 more. Often billed alongside Diffrent, ryota dj and Ryota. Next up: Parc de la Trinitat, Barcelona on Sun 26 Jul.
+RIRIA is a techno and bass artist tracked on soundcheck, with 85 sets logged across Amsterdam, Antwerp, Bali and Bangkok and 31 more. Often billed alongside Diffrent, ryota dj and Ryota. Next up: Parc de la Trinitat, Barcelona on Sun 26 Jul.
 
 ## Upcoming shows
 
@@ -17,6 +17,7 @@ RIRIA is a techno and bass artist tracked on soundcheck, with 84 sets logged acr
 | Sat, 26 Sept 2026 | TBA - Pier 80 | San Francisco/Oakland |
 | Sat, 26 Sept 2026 | Art Club | Houston |
 | Sat, 3 Oct 2026 | Elsewhere | New York City |
+| Fri, 23 Oct 2026 | Het Rijk van de Keizer | Amsterdam |
 
 ## Recently played
 
@@ -33,4 +34,4 @@ RIRIA is a techno and bass artist tracked on soundcheck, with 84 sets logged acr
 
 Diffrent, ryota dj, Ryota
 
-*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/riria/)*
+*Updated Sat, 25 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/riria/)*

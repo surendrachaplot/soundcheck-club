@@ -1,14 +1,13 @@
 # The Camden
 
-The Camden is a music venue in London with 9 upcoming nights listed on soundcheck as of Fri, 24 Jul 2026; the next is "Grandmaster Max & Friends" on Fri, 24 Jul 2026.
+The Camden is a music venue in London with 8 upcoming nights listed on soundcheck as of Sat, 25 Jul 2026; the next is "Moving Deep (Free Party)" on Sat, 25 Jul 2026.
 
-The Camden is a music venue in London listed on soundcheck. 9 upcoming nights, with line-ups including ANGL (2), DATGRUVEE, DJ Fiddla and Grandmaster Max and 2 more. Browse upcoming dates, start times and who's playing. 65 Crowndale Road, Camden, London, NW1 1TN.
+The Camden is a music venue in London listed on soundcheck. 8 upcoming nights, with line-ups including ANGL (2), DATGRUVEE, DJ Fiddla and MR B DJ and 2 more. Browse upcoming dates, start times and who's playing. 65 Crowndale Road, Camden, London, NW1 1TN.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Fri, 24 Jul 2026 | Grandmaster Max & Friends | Grandmaster Max |
 | Sat, 25 Jul 2026 | Moving Deep (Free Party) | ANGL (2), DATGRUVEE, DJ Fiddla, MR B DJ, The Almanac, Timon (2) |
 | Fri, 31 Jul 2026 | AURA presents: BELGIAN LINK UP (DNB/JUMP-UP) [ 7 Headliners - FREE TICKETS ] |  |
 | Sat, 1 Aug 2026 | Hip Hop, R&B, Afrobeats & Dancehall Night - The Camden London |  |
@@ -22,4 +21,4 @@ The Camden is a music venue in London listed on soundcheck. 9 upcoming nights, w
 
 65 Crowndale Road, Camden, London, NW1 1TN, London
 
-*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/london/club/the-camden/)*
+*Updated Sat, 25 Jul 2026 · source: [soundcheck](https://soundcheck.club/london/club/the-camden/)*

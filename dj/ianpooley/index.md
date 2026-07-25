@@ -1,6 +1,6 @@
 # Ian Pooley
 
-Ian Pooley is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Fri, 24 Jul 2026, next at Night Tales, London on Sat, 25 Jul 2026.
+Ian Pooley is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Sat, 25 Jul 2026, next at Night Tales, London on Sat, 25 Jul 2026.
 
 Ian Pooley is a house and techno artist tracked on soundcheck, with 106 sets logged across Amsterdam, Athens, Auckland and Bangkok and 42 more. Often billed alongside dj sweet6teen, Eva Crystaltips and Luca Olivotto. Next up: Night Tales, London on Sat 25 Jul.
 
@@ -27,4 +27,4 @@ Ian Pooley is a house and techno artist tracked on soundcheck, with 106 sets log
 
 dj sweet6teen, Eva Crystaltips, Luca Olivotto
 
-*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/ianpooley/)*
+*Updated Sat, 25 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/ianpooley/)*

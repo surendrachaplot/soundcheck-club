@@ -1,6 +1,6 @@
 # JNJS
 
-JNJS is a House and Minimal artist with 2 upcoming club dates listed on soundcheck as of Fri, 24 Jul 2026, next at Sophie Festival, Malaga on Sat, 25 Jul 2026.
+JNJS is a House and Minimal artist with 2 upcoming club dates listed on soundcheck as of Sat, 25 Jul 2026, next at Sophie Festival, Malaga on Sat, 25 Jul 2026.
 
 JNJS is a house and minimal artist tracked on soundcheck, with 71 sets logged across Bangkok, Barcelona, Berlin and Ibiza and 7 more. Often billed alongside Tania Vulcano, Carlos Vila and Sossa. Next up: Sophie Festival, Malaga on Sat 25 Jul.
 
@@ -26,4 +26,4 @@ JNJS is a house and minimal artist tracked on soundcheck, with 71 sets logged ac
 
 Tania Vulcano, Carlos Vila, Sossa
 
-*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/jnjs/)*
+*Updated Sat, 25 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/jnjs/)*

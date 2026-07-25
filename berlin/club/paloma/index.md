@@ -1,14 +1,13 @@
 # Paloma
 
-Paloma is a music venue in Berlin with 13 upcoming nights listed on soundcheck as of Fri, 24 Jul 2026; the next is "House Heaven" on Fri, 24 Jul 2026.
+Paloma is a music venue in Berlin with 12 upcoming nights listed on soundcheck as of Sat, 25 Jul 2026; the next is "TTNoTDB X Tartelet" on Sat, 25 Jul 2026.
 
-Paloma is a music venue in Berlin listed on soundcheck. 13 upcoming nights, with line-ups including 11:68PM, Arnaud Denzler, Balthazar Martinez and bb:fm and 2 more. Browse upcoming dates, start times and who's playing. Skalitzer Str. 135, 10999 Berlin.
+Paloma is a music venue in Berlin listed on soundcheck. 12 upcoming nights, with line-ups including 11:68PM, Arnaud Denzler, Balthazar Martinez and bb:fm and 2 more. Browse upcoming dates, start times and who's playing. Skalitzer Str. 135, 10999 Berlin.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Fri, 24 Jul 2026 | House Heaven | David Boening, LACATY, miszo |
 | Sat, 25 Jul 2026 | TTNoTDB X Tartelet | Behrang Mohammadi, Space Ghost, Wille, not even noticed |
 | Sun, 26 Jul 2026 | Moonstompers After Party with Lazy Step Collective, Tommy Pickles, Jack D | Jack D, Tommy Pickles |
 | Fri, 31 Jul 2026 | Paloma Invites | Bossy Doll Bina, DJ Trade Trainer, Valeria (DE) |
@@ -18,9 +17,10 @@ Paloma is a music venue in Berlin listed on soundcheck. 13 upcoming nights, with
 | Fri, 14 Aug 2026 | LNS invites Curly Waters | LNS |
 | Sat, 15 Aug 2026 | Pacotek | Idit Frenkel, Soussana |
 | Sat, 22 Aug 2026 | THE GET DOWN with Mandel Turner, Balthazar Martinez, Arnaud Denzler | Arnaud Denzler, Balthazar Martinez, Mandel Turner |
+| Sat, 29 Aug 2026 | Aquatic Travellers Vol. 12 x Mechatronica | Black Mirror Park, Milan Hermess, bb:fm, mu”he |
 
 ## Address
 
 Skalitzer Str. 135, 10999 Berlin, Berlin
 
-*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/paloma/)*
+*Updated Sat, 25 Jul 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/paloma/)*

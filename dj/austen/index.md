@@ -1,6 +1,6 @@
 # Austen
 
-Austen is a Club and Techno artist with 2 upcoming club dates listed on soundcheck as of Fri, 24 Jul 2026, next at Modeci, Seoul on Sat, 25 Jul 2026.
+Austen is a Club and Techno artist with 2 upcoming club dates listed on soundcheck as of Sat, 25 Jul 2026, next at Modeci, Seoul on Sat, 25 Jul 2026.
 
 Austen is a club and techno artist based in United Kingdom, tracked on soundcheck, with 56 sets logged across London, Manchester and Seoul. Often billed alongside DJ POOL, FAKEDEEPLEE and Cheno. Next up: Modeci, Seoul on Sat 25 Jul.
 
@@ -26,4 +26,4 @@ Austen is a club and techno artist based in United Kingdom, tracked on soundchec
 
 DJ POOL, FAKEDEEPLEE, Cheno
 
-*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/austen/)*
+*Updated Sat, 25 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/austen/)*

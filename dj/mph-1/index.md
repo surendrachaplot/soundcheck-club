@@ -1,14 +1,13 @@
 # MPH (1)
 
-MPH (1) is a Garage and Bass artist with 9 upcoming club dates listed on soundcheck as of Fri, 24 Jul 2026, next at Colorado Charlie, The Hague on Fri, 24 Jul 2026.
+MPH (1) is a Garage and Bass artist with 9 upcoming club dates listed on soundcheck as of Sat, 25 Jul 2026, next at Smoke & Mirrors, Chicago on Thu, 30 Jul 2026.
 
-MPH (1) is a garage and bass artist tracked on soundcheck, with 104 sets logged across Amsterdam, Antwerp, Auckland and Belfast and 36 more. Often billed alongside Oppidan, Flava D and Bushbaby. Next up: Colorado Charlie, Thehague on Fri 24 Jul.
+MPH (1) is a garage and bass artist tracked on soundcheck, with 105 sets logged across Amsterdam, Antwerp, Auckland and Belfast and 36 more. Often billed alongside Oppidan, Flava D and Bushbaby. Next up: Smoke & Mirrors, Chicago on Thu 30 Jul.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 24 Jul 2026 | Colorado Charlie | The Hague |
 | Thu, 30 Jul 2026 | Smoke & Mirrors | Chicago |
 | Sun, 2 Aug 2026 | Old Royal Naval College | London |
 | Fri, 21 Aug 2026 | Ushuaïa Ibiza | Ibiza |
@@ -17,9 +16,11 @@ MPH (1) is a garage and bass artist tracked on soundcheck, with 104 sets logged 
 | Sat, 19 Sept 2026 | Pumpehuset | Copenhagen |
 | Sat, 26 Sept 2026 | Waterfront Park in San Diego | San Diego |
 | Thu, 22 Oct 2026 | NDSM Scheepsbouwloods | Amsterdam |
+| Fri, 23 Oct 2026 | GASHOUDER | Amsterdam |
 
 ## Recently played
 
+- Colorado Charlie, The Hague — Fri, 24 Jul 2026
 - [UNVRS], Ibiza — Thu, 16 Jul 2026
 - Holland Park, Vancouver — Fri, 3 Jul 2026
 - Holland Park, Vancouver — Thu, 2 Jul 2026
@@ -27,10 +28,9 @@ MPH (1) is a garage and bass artist tracked on soundcheck, with 104 sets logged 
 - The Grand Social, Dublin — Sun, 31 May 2026
 - Common Market, Belfast — Sat, 30 May 2026
 - Irish Museum of Modern Art, Dublin — Sat, 30 May 2026
-- Titanic Slipways, Belfast — Fri, 29 May 2026
 
 ## Shares bills with
 
 Oppidan, Flava D, Bushbaby
 
-*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/mph-1/)*
+*Updated Sat, 25 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/mph-1/)*

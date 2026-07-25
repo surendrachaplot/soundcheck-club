@@ -1,14 +1,13 @@
 # Sunset Park Rooftop
 
-Sunset Park Rooftop is a music venue in New York City with 8 upcoming nights listed on soundcheck as of Fri, 24 Jul 2026; the next is "Teksupport: Enamour (open to close)" on Fri, 24 Jul 2026.
+Sunset Park Rooftop is a music venue in New York City with 7 upcoming nights listed on soundcheck as of Sat, 25 Jul 2026; the next is "Teksupport: Traumer (open to close)" on Fri, 31 Jul 2026.
 
-Sunset Park Rooftop is a music venue in Newyorkcity listed on soundcheck. 8 upcoming nights, with line-ups including Archie Hamilton, Carlita, Enamour and Fleur Shore and 2 more. Browse upcoming dates, start times and who's playing. 14b 53rd St, Brooklyn, NY 11232.
+Sunset Park Rooftop is a music venue in Newyorkcity listed on soundcheck. 7 upcoming nights, with line-ups including Archie Hamilton, Carlita, Fleur Shore and Miguelle and 2 more. Browse upcoming dates, start times and who's playing. 14b 53rd St, Brooklyn, NY 11232.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Fri, 24 Jul 2026 | Teksupport: Enamour (open to close) | Enamour |
 | Fri, 31 Jul 2026 | Teksupport: Traumer (open to close) | Traumer |
 | Sat, 1 Aug 2026 | Teksupport: Miguelle & TONS (open to close) | Miguelle, TONS |
 | Fri, 7 Aug 2026 | Teksupport: Carlita (extended set) SOLD OUT | Carlita |
@@ -21,4 +20,4 @@ Sunset Park Rooftop is a music venue in Newyorkcity listed on soundcheck. 8 upco
 
 14b 53rd St, Brooklyn, NY 11232, New York City
 
-*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/sunset-park-rooftop/)*
+*Updated Sat, 25 Jul 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/sunset-park-rooftop/)*

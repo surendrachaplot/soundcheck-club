@@ -1,8 +1,8 @@
 # NTO
 
-NTO is a Techno and House artist with 7 upcoming club dates listed on soundcheck as of Fri, 24 Jul 2026, next at Cova Santa, Ibiza on Sat, 8 Aug 2026.
+NTO is a Techno and House artist with 8 upcoming club dates listed on soundcheck as of Sat, 25 Jul 2026, next at Cova Santa, Ibiza on Sat, 8 Aug 2026.
 
-NTO is a techno and house artist tracked on soundcheck, with 115 sets logged across Amsterdam, Antwerp, Barcelona and Basel and 30 more. Often billed alongside Prismode, Solvane and Mees Salomé. Next up: Cova Santa, Ibiza on Sat 8 Aug.
+NTO is a techno and house artist tracked on soundcheck, with 116 sets logged across Amsterdam, Antwerp, Barcelona and Basel and 30 more. Often billed alongside Prismode, Solvane and Mees Salomé. Next up: Cova Santa, Ibiza on Sat 8 Aug.
 
 ## Upcoming shows
 
@@ -15,6 +15,7 @@ NTO is a techno and house artist tracked on soundcheck, with 115 sets logged acr
 | Fri, 9 Oct 2026 | Docks | Hamburg |
 | Sat, 10 Oct 2026 | Ritter Butzke | Berlin |
 | Thu, 22 Oct 2026 | Hotel Arena | Amsterdam |
+| Fri, 23 Oct 2026 | NDSM Scheepsbouwloods | Amsterdam |
 
 ## Recently played
 
@@ -31,4 +32,4 @@ NTO is a techno and house artist tracked on soundcheck, with 115 sets logged acr
 
 Prismode, Solvane, Mees Salomé
 
-*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/nto/)*
+*Updated Sat, 25 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/nto/)*

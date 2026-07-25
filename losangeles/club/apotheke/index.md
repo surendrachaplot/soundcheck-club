@@ -1,6 +1,6 @@
 # Apotheke
 
-Apotheke is a music venue in Los Angeles with 5 upcoming nights listed on soundcheck as of Fri, 24 Jul 2026; the next is "DISCOTHEKE" on Sat, 25 Jul 2026.
+Apotheke is a music venue in Los Angeles with 5 upcoming nights listed on soundcheck as of Sat, 25 Jul 2026; the next is "DISCOTHEKE" on Sat, 25 Jul 2026.
 
 Apotheke is a music venue in Losangeles listed on soundcheck. 5 upcoming nights, with line-ups including Dirtie Blonde, Discotheke DJs, Jes Danz and Michael Fam and 2 more. Browse upcoming dates, start times and who's playing. 1746 N Spring St, Los Angeles, CA 90012.
 
@@ -18,4 +18,4 @@ Apotheke is a music venue in Losangeles listed on soundcheck. 5 upcoming nights,
 
 1746 N Spring St, Los Angeles, CA 90012, Los Angeles
 
-*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/losangeles/club/apotheke/)*
+*Updated Sat, 25 Jul 2026 · source: [soundcheck](https://soundcheck.club/losangeles/club/apotheke/)*

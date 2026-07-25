@@ -1,6 +1,6 @@
 # H.U.D.L
 
-H.U.D.L is a House and Electronica artist with 5 upcoming club dates listed on soundcheck as of Fri, 24 Jul 2026, next at WWW X, Tokyo on Sat, 25 Jul 2026.
+H.U.D.L is a House and Electronica artist with 5 upcoming club dates listed on soundcheck as of Sat, 25 Jul 2026, next at WWW X, Tokyo on Sat, 25 Jul 2026.
 
 H.U.D.L is a house and electronica artist based in United States of America, tracked on soundcheck, with 25 sets logged across Birmingham, Brighton, London and Losangeles and 3 more. Often billed alongside Hazy, ZØRAYA and Krane. Next up: WWW X, Tokyo on Sat 25 Jul.
 
@@ -29,4 +29,4 @@ H.U.D.L is a house and electronica artist based in United States of America, tra
 
 Hazy, ZØRAYA, Krane
 
-*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/h.u.d.l/)*
+*Updated Sat, 25 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/h.u.d.l/)*

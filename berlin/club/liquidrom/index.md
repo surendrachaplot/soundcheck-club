@@ -1,6 +1,6 @@
 # Liquidrom
 
-Liquidrom is a music venue in Berlin with 1 upcoming night listed on soundcheck as of Fri, 24 Jul 2026; the next is "ALL MY THOUGHTS UNDER WATER" on Fri, 31 Jul 2026.
+Liquidrom is a music venue in Berlin with 1 upcoming night listed on soundcheck as of Sat, 25 Jul 2026; the next is "ALL MY THOUGHTS UNDER WATER" on Fri, 31 Jul 2026.
 
 Liquidrom is a music venue in Berlin listed on soundcheck. 1 upcoming night, with line-ups including Blossom Hill and Wretla. Browse upcoming dates, start times and who's playing. Möckernstraße 10, 10963 Berlin.
 
@@ -14,4 +14,4 @@ Liquidrom is a music venue in Berlin listed on soundcheck. 1 upcoming night, wit
 
 Möckernstraße 10, 10963 Berlin, Berlin
 
-*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/liquidrom/)*
+*Updated Sat, 25 Jul 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/liquidrom/)*

@@ -1,6 +1,6 @@
 # Solar
 
-Solar is a House and Acid artist with 2 upcoming club dates listed on soundcheck as of Fri, 24 Jul 2026, next at F8 1192 Folsom, San Francisco/Oakland on Wed, 29 Jul 2026.
+Solar is a House and Acid artist with 2 upcoming club dates listed on soundcheck as of Sat, 25 Jul 2026, next at F8 1192 Folsom, San Francisco/Oakland on Wed, 29 Jul 2026.
 
 Solar is a house and acid artist tracked on soundcheck, with 90 sets logged across Amsterdam, Bali, Barcelona and Berlin and 17 more. Often billed alongside Mozhgan, Galen and Tyrel Williams. Next up: F8 1192 Folsom, Sanfrancisco on Wed 29 Jul.
 
@@ -26,4 +26,4 @@ Solar is a house and acid artist tracked on soundcheck, with 90 sets logged acro
 
 Mozhgan, Galen, Tyrel Williams
 
-*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/solar/)*
+*Updated Sat, 25 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/solar/)*

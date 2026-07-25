@@ -1,14 +1,13 @@
 # Eastern Bloc Records
 
-Eastern Bloc Records is a music venue in Manchester with 14 upcoming nights listed on soundcheck as of Fri, 24 Jul 2026; the next is "Dig My Box 2nd Birthday Part 2" on Fri, 24 Jul 2026.
+Eastern Bloc Records is a music venue in Manchester with 13 upcoming nights listed on soundcheck as of Sat, 25 Jul 2026; the next is "SURGE" on Sat, 25 Jul 2026.
 
-Eastern Bloc Records is a music venue in Manchester listed on soundcheck. 14 upcoming nights, with line-ups including Al Bradley, Allius, Andy Green and Balrog and 2 more. Browse upcoming dates, start times and who's playing. 5a Stevenson Square, Northern Quarter, Manchester, M1 1DN.
+Eastern Bloc Records is a music venue in Manchester listed on soundcheck. 13 upcoming nights, with line-ups including Al Bradley, Andy Green, Balrog and Bobby Thorpe and 2 more. Browse upcoming dates, start times and who's playing. 5a Stevenson Square, Northern Quarter, Manchester, M1 1DN.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Fri, 24 Jul 2026 | Dig My Box 2nd Birthday Part 2 | Allius, Cersy, Garbo (2) |
 | Sat, 25 Jul 2026 | SURGE | Gary Sloan, Joe Gosling, Randle P Mcmurphy |
 | Thu, 30 Jul 2026 | Open To Close w/Rhod Parry & Hanz | Hanz, Rhod Parry |
 | Fri, 31 Jul 2026 | Gravy Train | The Gravy Train |
@@ -18,9 +17,10 @@ Eastern Bloc Records is a music venue in Manchester listed on soundcheck. 14 upc
 | Fri, 14 Aug 2026 | Room2Move | Liam Oliver, Tom2trax |
 | Fri, 21 Aug 2026 | Twelve 10 |  |
 | Sat, 22 Aug 2026 | Northern Groove Association | Balrog, Dorbachov |
+| Thu, 27 Aug 2026 | Via Jupiter with Psychederek & Bobby Thorpe | Bobby Thorpe, Psychederek |
 
 ## Address
 
 5a Stevenson Square, Northern Quarter, Manchester, M1 1DN, Manchester
 
-*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/manchester/club/eastern-bloc-records/)*
+*Updated Sat, 25 Jul 2026 · source: [soundcheck](https://soundcheck.club/manchester/club/eastern-bloc-records/)*

@@ -1,8 +1,8 @@
 # Jyoty
 
-Jyoty is a House and Techno artist with 6 upcoming club dates listed on soundcheck as of Fri, 24 Jul 2026, next at Fort Vechten, Utrecht on Sat, 25 Jul 2026.
+Jyoty is a House and Techno artist with 8 upcoming club dates listed on soundcheck as of Sat, 25 Jul 2026, next at Fort Vechten, Utrecht on Sat, 25 Jul 2026.
 
-Jyoty is a house and techno artist tracked on soundcheck, with 125 sets logged across Amsterdam, Athens, Auckland and Bali and 40 more. Often billed alongside Skrillex, Overmono and Ben UFO. Next up: Fort Vechten, Utrecht on Sat 25 Jul.
+Jyoty is a house and techno artist tracked on soundcheck, with 127 sets logged across Amsterdam, Athens, Auckland and Bali and 40 more. Often billed alongside Skrillex, Overmono and Ben UFO. Next up: Fort Vechten, Utrecht on Sat 25 Jul.
 
 ## Upcoming shows
 
@@ -14,6 +14,8 @@ Jyoty is a house and techno artist tracked on soundcheck, with 125 sets logged a
 | Sat, 8 Aug 2026 | Burgess Park | London |
 | Sat, 26 Sept 2026 | TBA - Pier 80 | San Francisco/Oakland |
 | Sat, 10 Oct 2026 | Depot Mayfield | Manchester |
+| Fri, 23 Oct 2026 | Ndsm Wharf | Amsterdam |
+| Fri, 23 Oct 2026 | Het Rijk van de Keizer | Amsterdam |
 
 ## Recently played
 
@@ -30,4 +32,4 @@ Jyoty is a house and techno artist tracked on soundcheck, with 125 sets logged a
 
 Skrillex, Overmono, Ben UFO
 
-*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/jyoty/)*
+*Updated Sat, 25 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/jyoty/)*

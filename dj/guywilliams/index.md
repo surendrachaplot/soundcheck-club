@@ -1,6 +1,6 @@
 # Guy Williams
 
-Guy Williams is a House and Disco artist with 2 upcoming club dates listed on soundcheck as of Fri, 24 Jul 2026, next at 528 Ibiza, Ibiza on Sat, 15 Aug 2026.
+Guy Williams is a House and Disco artist with 2 upcoming club dates listed on soundcheck as of Sat, 25 Jul 2026, next at 528 Ibiza, Ibiza on Sat, 15 Aug 2026.
 
 Guy Williams is a house and disco artist tracked on soundcheck, with 65 sets logged across Barcelona, Ibiza, London and Manchester and 2 more. Often billed alongside Jo Mills, S/A/M and DJ Paulette. Next up: 528 Ibiza, Ibiza on Sat 15 Aug.
 
@@ -26,4 +26,4 @@ Guy Williams is a house and disco artist tracked on soundcheck, with 65 sets log
 
 Jo Mills, S/A/M, DJ Paulette
 
-*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/guywilliams/)*
+*Updated Sat, 25 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/guywilliams/)*

@@ -1,8 +1,8 @@
 # Melody RA+RE
 
-Melody RA+RE is a House and Electro artist with 8 upcoming club dates listed on soundcheck as of Fri, 24 Jul 2026, next at renae, Manchester on Thu, 30 Jul 2026.
+Melody RA+RE is a House and Electro artist with 9 upcoming club dates listed on soundcheck as of Sat, 25 Jul 2026, next at renae, Manchester on Thu, 30 Jul 2026.
 
-Melody RA+RE is a house and electro artist tracked on soundcheck, with 120 sets logged across Amsterdam, Bali, Barcelona and Berlin and 29 more. Often billed alongside Dr Banana, The Ghost and Truly Madly. Next up: renae, Manchester on Thu 30 Jul.
+Melody RA+RE is a house and electro artist tracked on soundcheck, with 121 sets logged across Amsterdam, Bali, Barcelona and Berlin and 29 more. Often billed alongside Dr Banana, The Ghost and Truly Madly. Next up: renae, Manchester on Thu 30 Jul.
 
 ## Upcoming shows
 
@@ -16,6 +16,7 @@ Melody RA+RE is a house and electro artist tracked on soundcheck, with 120 sets 
 | Sun, 30 Aug 2026 | Crate Brewery | London |
 | Fri, 18 Sept 2026 | UNO MALTA | Malta |
 | Sat, 26 Sept 2026 | Palazzo Permanens | Budapest |
+| Fri, 23 Oct 2026 | Klaproos | Amsterdam |
 
 ## Recently played
 
@@ -32,4 +33,4 @@ Melody RA+RE is a house and electro artist tracked on soundcheck, with 120 sets 
 
 Dr Banana, The Ghost, Truly Madly
 
-*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/melodyrare/)*
+*Updated Sat, 25 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/melodyrare/)*

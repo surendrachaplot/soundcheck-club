@@ -1,14 +1,13 @@
 # Chez Damier
 
-Chez Damier is a House and Deep House artist with 10 upcoming club dates listed on soundcheck as of Fri, 24 Jul 2026, next at Salon Daomé, Montreal on Fri, 24 Jul 2026.
+Chez Damier is a House and Deep House artist with 9 upcoming club dates listed on soundcheck as of Sat, 25 Jul 2026, next at Punch Bowl Social 360-Bar, Chicago on Thu, 30 Jul 2026.
 
-Chez Damier is a house and deep house artist tracked on soundcheck, with 144 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 41 more. Often billed alongside Eddie Leader, DJ Deep and Dennis Ferrer. Next up: Salon Daomé, Montreal on Fri 24 Jul.
+Chez Damier is a house and deep house artist tracked on soundcheck, with 144 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 41 more. Often billed alongside Eddie Leader, DJ Deep and Dennis Ferrer. Next up: Punch Bowl Social 360-Bar, Chicago on Thu 30 Jul.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 24 Jul 2026 | Salon Daomé | Montreal |
 | Thu, 30 Jul 2026 | Punch Bowl Social 360-Bar | Chicago |
 | Fri, 31 Jul 2026 | BLITZ | Munich |
 | Tue, 4 Aug 2026 | Cova Santa | Ibiza |
@@ -21,6 +20,7 @@ Chez Damier is a house and deep house artist tracked on soundcheck, with 144 set
 
 ## Recently played
 
+- Salon Daomé, Montreal — Fri, 24 Jul 2026
 - Flash, Washington DC — Sat, 18 Jul 2026
 - Green Room NYC, New York City — Fri, 17 Jul 2026
 - Parco Dora, Turin — Fri, 3 Jul 2026
@@ -28,10 +28,9 @@ Chez Damier is a house and deep house artist tracked on soundcheck, with 144 set
 - La Terrrazza, Barcelona — Fri, 19 Jun 2026
 - Praia Irmão, Lisbon — Thu, 18 Jun 2026
 - Cafeteria, Toronto — Fri, 12 Jun 2026
-- The Cause, London — Sat, 6 Jun 2026
 
 ## Shares bills with
 
 Eddie Leader, DJ Deep, Dennis Ferrer
 
-*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/chezdamier/)*
+*Updated Sat, 25 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/chezdamier/)*

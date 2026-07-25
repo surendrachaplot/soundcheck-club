@@ -1,6 +1,6 @@
 # Klayman
 
-Klayman is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Fri, 24 Jul 2026, next at Viadukt Bar, Budapest on Sat, 25 Jul 2026.
+Klayman is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Sat, 25 Jul 2026, next at Viadukt Bar, Budapest on Sat, 25 Jul 2026.
 
 Klayman is a house and techno artist tracked on soundcheck, with 37 sets logged across Budapest. Often billed alongside Vatsanah, SVR101 and Jaffa Surfa. Next up: Viadukt Bar, Budapest on Sat 25 Jul.
 
@@ -26,4 +26,4 @@ Klayman is a house and techno artist tracked on soundcheck, with 37 sets logged 
 
 Vatsanah, SVR101, Jaffa Surfa
 
-*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/klayman/)*
+*Updated Sat, 25 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/klayman/)*

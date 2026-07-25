@@ -1,14 +1,13 @@
 # Le Bain
 
-Le Bain is a music venue in New York City with 12 upcoming nights listed on soundcheck as of Fri, 24 Jul 2026; the next is "Kamala, Jeff Mendoza & TEE EM DEE" on Fri, 24 Jul 2026.
+Le Bain is a music venue in New York City with 11 upcoming nights listed on soundcheck as of Sat, 25 Jul 2026; the next is "4AM NYC + Michael Magnan" on Sat, 25 Jul 2026.
 
-Le Bain is a music venue in Newyorkcity listed on soundcheck. 12 upcoming nights, with line-ups including 4AM NYC, Ayanna Heaven, Bea Trinidad and boyyyish and 2 more. Browse upcoming dates, start times and who's playing. 444 W 13th Street, New York, NY 10014.
+Le Bain is a music venue in Newyorkcity listed on soundcheck. 11 upcoming nights, with line-ups including 4AM NYC, Ayanna Heaven, Bea Trinidad and boyyyish and 2 more. Browse upcoming dates, start times and who's playing. 444 W 13th Street, New York, NY 10014.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Fri, 24 Jul 2026 | Kamala, Jeff Mendoza & TEE EM DEE | DJ Kamala, TEE EM DEE |
 | Sat, 25 Jul 2026 | 4AM NYC + Michael Magnan | 4AM NYC, Michael Magnan |
 | Sat, 25 Jul 2026 | CRASH COURSE SUNSET | Swami Sound, gum.mp3 |
 | Sat, 25 Jul 2026 | Power Up |  |
@@ -18,9 +17,10 @@ Le Bain is a music venue in Newyorkcity listed on soundcheck. 12 upcoming nights
 | Fri, 31 Jul 2026 | TARKA X Le Bain | Bea Trinidad, Dynoman, Nabihah Iqbal, VARSHA, Zara Dekho |
 | Sat, 1 Aug 2026 | Tony Humphries' RESIDENCY | Tony Humphries |
 | Sun, 2 Aug 2026 | WORLD OF ECHOES by François K | Francois K |
+| Fri, 7 Aug 2026 | Rich Medina ALL NIGHT | Rich Medina |
 
 ## Address
 
 444 W 13th Street, New York, NY 10014, New York City
 
-*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/le-bain/)*
+*Updated Sat, 25 Jul 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/le-bain/)*

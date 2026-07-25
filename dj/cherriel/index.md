@@ -1,6 +1,6 @@
 # Cherriel
 
-Cherriel is a Techno and Electro artist with 2 upcoming club dates listed on soundcheck as of Fri, 24 Jul 2026, next at The American Riad, Detroit on Sat, 25 Jul 2026.
+Cherriel is a Techno and Electro artist with 2 upcoming club dates listed on soundcheck as of Sat, 25 Jul 2026, next at The American Riad, Detroit on Sat, 25 Jul 2026.
 
 Cherriel is a techno and electro artist based in United States of America, tracked on soundcheck, with 63 sets logged across Chicago, Detroit, Newyorkcity and Seattle. Often billed alongside Auntie Chanel, otodojo and Sapphyre. Next up: The American Riad, Detroit on Sat 25 Jul.
 
@@ -26,4 +26,4 @@ Cherriel is a techno and electro artist based in United States of America, track
 
 Auntie Chanel, otodojo, Sapphyre
 
-*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/cherriel/)*
+*Updated Sat, 25 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/cherriel/)*

@@ -1,14 +1,13 @@
 # Glamorama
 
-Glamorama is a music venue in Melbourne with 12 upcoming nights listed on soundcheck as of Fri, 24 Jul 2026; the next is "2 Years of Interval - Interval Alliance [4 Hours]" on Fri, 24 Jul 2026.
+Glamorama is a music venue in Melbourne with 11 upcoming nights listed on soundcheck as of Sat, 25 Jul 2026; the next is "Hunter Demase at Glamorama Saturdays" on Sat, 25 Jul 2026.
 
-Glamorama is a music venue in Melbourne listed on soundcheck. 12 upcoming nights, with line-ups including A.Well, BETHANY (1), Dan Newman and DAYZZI and 2 more. Browse upcoming dates, start times and who's playing. 393 Brunswick street, Fitzroy, Victoria 3065.
+Glamorama is a music venue in Melbourne listed on soundcheck. 11 upcoming nights, with line-ups including A.Well, Dan Newman, DAYZZI and DJ JNETT and 2 more. Browse upcoming dates, start times and who's playing. 393 Brunswick street, Fitzroy, Victoria 3065.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Fri, 24 Jul 2026 | 2 Years of Interval - Interval Alliance [4 Hours] | BETHANY (1), Ejeckt, Syrup |
 | Sat, 25 Jul 2026 | Hunter Demase at Glamorama Saturdays | Kailyn Crabbe, Pvrtal |
 | Fri, 31 Jul 2026 | Interval - DJ JNETT + Ed Kent | DJ JNETT, Ed Kent |
 | Sat, 1 Aug 2026 | Kiko Tesla at Glamorama Saturdays |  |
@@ -18,9 +17,10 @@ Glamorama is a music venue in Melbourne listed on soundcheck. 12 upcoming nights
 | Sat, 15 Aug 2026 | Work Wife + A.Well at Glamorama Saturdays x Club Well Takeover | A.Well, Work Wife |
 | Fri, 21 Aug 2026 | Interval - BURNR [NL] + DAYZZI | DAYZZI |
 | Sat, 22 Aug 2026 | Hooker + Fosters at Glamorama Saturdays | Fosters, Hooker |
+| Sat, 29 Aug 2026 | People's Party at Glamorama Saturdays | Joey Coco, Slumdog |
 
 ## Address
 
 393 Brunswick street, Fitzroy, Victoria 3065, Melbourne
 
-*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/melbourne/club/glamorama/)*
+*Updated Sat, 25 Jul 2026 · source: [soundcheck](https://soundcheck.club/melbourne/club/glamorama/)*

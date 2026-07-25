@@ -1,6 +1,6 @@
 # Echostage
 
-Echostage is a music venue in Washington DC with 19 upcoming nights listed on soundcheck as of Fri, 24 Jul 2026; the next is "SLANDER [Night One] with Moody Good, Prosecute, VARI, Redline" on Fri, 31 Jul 2026.
+Echostage is a music venue in Washington DC with 19 upcoming nights listed on soundcheck as of Sat, 25 Jul 2026; the next is "SLANDER [Night One] with Moody Good, Prosecute, VARI, Redline" on Fri, 31 Jul 2026.
 
 Echostage is a music venue in Washingtondc listed on soundcheck. 19 upcoming nights, with line-ups including 999999999, Adrian Mills, Afrojack and Airrica and 2 more. Browse upcoming dates, start times and who's playing. 2135 Queens Chapel Road NE, Washington, DC 20018.
 
@@ -23,4 +23,4 @@ Echostage is a music venue in Washingtondc listed on soundcheck. 19 upcoming nig
 
 2135 Queens Chapel Road NE, Washington, DC 20018, Washington DC
 
-*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/washingtondc/club/echostage/)*
+*Updated Sat, 25 Jul 2026 · source: [soundcheck](https://soundcheck.club/washingtondc/club/echostage/)*

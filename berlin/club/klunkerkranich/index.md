@@ -1,14 +1,13 @@
 # Klunkerkranich
 
-Klunkerkranich is a music venue in Berlin with 8 upcoming nights listed on soundcheck as of Fri, 24 Jul 2026; the next is "WELLENBRUCH w. DANNSEN, Emorine" on Fri, 24 Jul 2026.
+Klunkerkranich is a music venue in Berlin with 7 upcoming nights listed on soundcheck as of Sat, 25 Jul 2026; the next is "NIMBO x KLUNKERKANICH w. FAE, Yashar, Renê, Manu Strasse, Adron, Soudant, Enserio, Oppelner" on Sat, 25 Jul 2026.
 
-Klunkerkranich is a music venue in Berlin listed on soundcheck. 8 upcoming nights, with line-ups including Adron (DE), ailin, babxi and Ben Pavlidis and 2 more. Browse upcoming dates, start times and who's playing. Karl-Marx-Straße 66, 12043 Berlin.
+Klunkerkranich is a music venue in Berlin listed on soundcheck. 7 upcoming nights, with line-ups including Adron (DE), ailin, babxi and Ben Pavlidis and 2 more. Browse upcoming dates, start times and who's playing. Karl-Marx-Straße 66, 12043 Berlin.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Fri, 24 Jul 2026 | WELLENBRUCH w. DANNSEN, Emorine | DANNSEN, Emorine |
 | Sat, 25 Jul 2026 | NIMBO x KLUNKERKANICH w. FAE, Yashar, Renê, Manu Strasse, Adron, Soudant, Enserio, Oppelner | Adron (DE), Manu Strasse, Soudant, Yashar |
 | Tue, 28 Jul 2026 | BLAUES STÜNDCHEN w. babxi | babxi |
 | Thu, 30 Jul 2026 | OKUJOU BEAT w. STEREOCITI, DJ ONIGIRI, OKUJOU BEAT*live | Izumi Yamamoto, Stereociti |
@@ -21,4 +20,4 @@ Klunkerkranich is a music venue in Berlin listed on soundcheck. 8 upcoming night
 
 Karl-Marx-Straße 66, 12043 Berlin, Berlin
 
-*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/klunkerkranich/)*
+*Updated Sat, 25 Jul 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/klunkerkranich/)*

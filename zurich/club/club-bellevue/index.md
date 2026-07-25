@@ -1,14 +1,13 @@
 # Club Bellevue
 
-Club Bellevue is a music venue in Zurich with 5 upcoming nights listed on soundcheck as of Fri, 24 Jul 2026; the next is "HARDTECHNO ALL NIGHT LONG" on Fri, 24 Jul 2026.
+Club Bellevue is a music venue in Zurich with 4 upcoming nights listed on soundcheck as of Sat, 25 Jul 2026; the next is "TRACHSTOCK" on Fri, 31 Jul 2026.
 
-Club Bellevue is a music venue in Zurich listed on soundcheck. 5 upcoming nights, with line-ups including Elia, MONYAL and Nhū. Browse upcoming dates, start times and who's playing. Rämistrasse 6; 8001, Zürich; Switzerland.
+Club Bellevue is a music venue in Zurich listed on soundcheck. 4 upcoming nights, with line-ups including Elia. Browse upcoming dates, start times and who's playing. Rämistrasse 6; 8001, Zürich; Switzerland.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Fri, 24 Jul 2026 | HARDTECHNO ALL NIGHT LONG | MONYAL, Nhū |
 | Fri, 31 Jul 2026 | TRACHSTOCK |  |
 | Sat, 8 Aug 2026 | PARADEN MARATHON |  |
 | Sat, 8 Aug 2026 | WAKE UP RAVE |  |
@@ -18,4 +17,4 @@ Club Bellevue is a music venue in Zurich listed on soundcheck. 5 upcoming nights
 
 Rämistrasse 6; 8001, Zürich; Switzerland, Zurich
 
-*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/zurich/club/club-bellevue/)*
+*Updated Sat, 25 Jul 2026 · source: [soundcheck](https://soundcheck.club/zurich/club/club-bellevue/)*

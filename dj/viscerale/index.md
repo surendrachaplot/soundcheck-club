@@ -1,6 +1,6 @@
 # Viscerale
 
-Viscerale is a Techno and Trance artist with 4 upcoming club dates listed on soundcheck as of Fri, 24 Jul 2026, next at OST, Berlin on Fri, 31 Jul 2026.
+Viscerale is a Techno and Trance artist with 4 upcoming club dates listed on soundcheck as of Sat, 25 Jul 2026, next at OST, Berlin on Fri, 31 Jul 2026.
 
 Viscerale is a techno and trance artist tracked on soundcheck, with 58 sets logged across Amsterdam, Berlin, Copenhagen and Detroit and 8 more. Often billed alongside FLUCC, LØUS and Dagobird. Next up: OST, Berlin on Fri 31 Jul.
 
@@ -28,4 +28,4 @@ Viscerale is a techno and trance artist tracked on soundcheck, with 58 sets logg
 
 FLUCC, LØUS, Dagobird
 
-*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/viscerale/)*
+*Updated Sat, 25 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/viscerale/)*

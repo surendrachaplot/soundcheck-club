@@ -1,8 +1,8 @@
 # Junction Public Market
 
-Junction Public Market is a music venue in Vancouver with 1 upcoming night listed on soundcheck as of Fri, 24 Jul 2026; the next is "Synesthesia LIVE" on Sat, 22 Aug 2026.
+Junction Public Market is a music venue in Vancouver with 1 upcoming night listed on soundcheck as of Sat, 25 Jul 2026; the next is "Synesthesia LIVE" on Sat, 22 Aug 2026.
 
-Junction Public Market is a music venue in Vancouver listed on soundcheck. 1 upcoming night, with line-ups including The Ryze. Browse upcoming dates, start times and who's playing.
+Junction Public Market is a music venue in Vancouver listed on soundcheck. 1 upcoming night, with line-ups including The Ryze. Browse upcoming dates, start times and who's playing. 200 Granville St, Vancouver, BC V6C 1S4.
 
 ## What's on
 
@@ -10,4 +10,8 @@ Junction Public Market is a music venue in Vancouver listed on soundcheck. 1 upc
 | --- | --- | --- |
 | Sat, 22 Aug 2026 | Synesthesia LIVE | The Ryze |
 
-*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/vancouver/club/junction-public-market/)*
+## Address
+
+200 Granville St, Vancouver, BC V6C 1S4, Vancouver
+
+*Updated Sat, 25 Jul 2026 · source: [soundcheck](https://soundcheck.club/vancouver/club/junction-public-market/)*

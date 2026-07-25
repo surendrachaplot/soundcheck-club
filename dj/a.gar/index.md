@@ -1,6 +1,6 @@
 # a.gar
 
-a.gar is a Techno artist with 4 upcoming club dates listed on soundcheck as of Fri, 24 Jul 2026, next at Bossa Nova Civic Club, New York City on Fri, 31 Jul 2026.
+a.gar is a Techno artist with 4 upcoming club dates listed on soundcheck as of Sat, 25 Jul 2026, next at Bossa Nova Civic Club, New York City on Fri, 31 Jul 2026.
 
 a.gar is a techno artist tracked on soundcheck, with 5 sets logged across Newyorkcity. Often billed alongside Pablo Vitale, AJACENT and shirlz. Next up: Bossa Nova Civic Club, Newyorkcity on Fri 31 Jul.
 
@@ -21,4 +21,4 @@ a.gar is a techno artist tracked on soundcheck, with 5 sets logged across Newyor
 
 Pablo Vitale, AJACENT, shirlz
 
-*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/a.gar/)*
+*Updated Sat, 25 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/a.gar/)*

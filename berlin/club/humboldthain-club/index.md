@@ -1,15 +1,13 @@
 # Humboldthain Club
 
-Humboldthain Club is a music venue in Berlin with 24 upcoming nights listed on soundcheck as of Fri, 24 Jul 2026; the next is "Kunststaub FM Radiocast #86" on Fri, 24 Jul 2026.
+Humboldthain Club is a music venue in Berlin with 23 upcoming nights listed on soundcheck as of Sat, 25 Jul 2026; the next is "Open Decks & Tischtennis" on Tue, 28 Jul 2026.
 
-Humboldthain Club is a music venue in Berlin listed on soundcheck. 24 upcoming nights, with line-ups including Amorelie, Armaville, DJ Buona Sara and DJ Spaßgetränk and 2 more. Browse upcoming dates, start times and who's playing. Hochstraße 46; 13357 Berlin; Germany.
+Humboldthain Club is a music venue in Berlin listed on soundcheck. 23 upcoming nights, with line-ups including DJ Buona Sara, DJ Tallboy, DOCTOR MÜCKE and Egyptian Lover and 2 more. Browse upcoming dates, start times and who's playing. Hochstraße 46; 13357 Berlin; Germany.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Fri, 24 Jul 2026 | Kunststaub FM Radiocast #86 | Marinelli |
-| Fri, 24 Jul 2026 | CSD PRE PARTY // TICKETS at THE DOOR, DRAG SHOWS, FREE SHOTS, KARAOKE, FACE PAINTING & POETRY | Amorelie, Armaville, DJ Spaßgetränk, F O R E S I G H T, Paul Bauhaus, phlipzee |
 | Tue, 28 Jul 2026 | Open Decks & Tischtennis |  |
 | Fri, 31 Jul 2026 | TRIEBWERK Community Party / Live Acts + Art Exhibition | KERT (DE), PHLOXO, PLUSPUNKT, Wieko, Winston Choppa, elvito |
 | Sat, 1 Aug 2026 | Humbi bleibt |  |
@@ -18,9 +16,11 @@ Humboldthain Club is a music venue in Berlin listed on soundcheck. 24 upcoming n
 | Sat, 8 Aug 2026 | Humboldthain Club - Sommerfest |  |
 | Tue, 11 Aug 2026 | Open Decks & Tischtennis |  |
 | Sat, 15 Aug 2026 | Candyrecords Bunny Bites Release Party | DOCTOR MÜCKE, Flex on Trax, Florelle, Rabe Rax, TIZIANO, YËDM, jeanska, subga |
+| Tue, 18 Aug 2026 | Open Decks & Tischtennis |  |
+| Fri, 21 Aug 2026 | WÜSTuWILD X NICE TRIES BERLIN |  |
 
 ## Address
 
 Hochstraße 46; 13357 Berlin; Germany, Berlin
 
-*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/humboldthain-club/)*
+*Updated Sat, 25 Jul 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/humboldthain-club/)*

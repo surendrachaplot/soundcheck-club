@@ -1,6 +1,6 @@
 # Divine Playhouse
 
-Divine Playhouse is a music venue in Sydney with 4 upcoming nights listed on soundcheck as of Fri, 24 Jul 2026; the next is "TRACK-ID PRESENTS: REDLINE" on Sat, 25 Jul 2026.
+Divine Playhouse is a music venue in Sydney with 4 upcoming nights listed on soundcheck as of Sat, 25 Jul 2026; the next is "TRACK-ID PRESENTS: REDLINE" on Sat, 25 Jul 2026.
 
 Divine Playhouse is a music venue in Sydney listed on soundcheck. 4 upcoming nights, with line-ups including Attu, Baba Boubou, Izata and Mincy and 1 more. Browse upcoming dates, start times and who's playing. 420 Kent Street.
 
@@ -17,4 +17,4 @@ Divine Playhouse is a music venue in Sydney listed on soundcheck. 4 upcoming nig
 
 420 Kent Street, Sydney
 
-*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/sydney/club/divine-playhouse/)*
+*Updated Sat, 25 Jul 2026 · source: [soundcheck](https://soundcheck.club/sydney/club/divine-playhouse/)*

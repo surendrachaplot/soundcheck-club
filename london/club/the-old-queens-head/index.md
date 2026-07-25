@@ -1,6 +1,6 @@
 # The Old Queens Head
 
-The Old Queens Head is a music venue in London with 4 upcoming nights listed on soundcheck as of Fri, 24 Jul 2026; the next is "Willy Delphia - 'ALL IN' EP Release" on Thu, 30 Jul 2026.
+The Old Queens Head is a music venue in London with 4 upcoming nights listed on soundcheck as of Sat, 25 Jul 2026; the next is "Willy Delphia - 'ALL IN' EP Release" on Thu, 30 Jul 2026.
 
 The Old Queens Head is a music venue in London listed on soundcheck. 4 upcoming nights, with line-ups including DJ Q, Lovebirds, Willy Delphia and Wookie. Browse upcoming dates, start times and who's playing. 44 Essex Road; Islington; London N1 8LN; United Kingdom.
 
@@ -17,4 +17,4 @@ The Old Queens Head is a music venue in London listed on soundcheck. 4 upcoming 
 
 44 Essex Road; Islington; London N1 8LN; United Kingdom, London
 
-*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/london/club/the-old-queens-head/)*
+*Updated Sat, 25 Jul 2026 · source: [soundcheck](https://soundcheck.club/london/club/the-old-queens-head/)*

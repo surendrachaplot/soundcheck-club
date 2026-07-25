@@ -1,14 +1,13 @@
 # Podlasie Club
 
-Podlasie Club is a music venue in Chicago with 10 upcoming nights listed on soundcheck as of Fri, 24 Jul 2026; the next is "Diskoteka presents CIRCUITO" on Fri, 24 Jul 2026.
+Podlasie Club is a music venue in Chicago with 9 upcoming nights listed on soundcheck as of Sat, 25 Jul 2026; the next is "INZOGA" on Sat, 25 Jul 2026.
 
-Podlasie Club is a music venue in Chicago listed on soundcheck. 10 upcoming nights, with line-ups including Casket, DJ Aguara'i, J. Córdova and Dj Warning and 2 more. Browse upcoming dates, start times and who's playing. 2918 N Central Park Ave, Avondale, Chicago, IL, 60618.
+Podlasie Club is a music venue in Chicago listed on soundcheck. 9 upcoming nights, with line-ups including DJ Aguara'i, J. Córdova, easygoingtech and Gladstone Deluxe and 2 more. Browse upcoming dates, start times and who's playing. 2918 N Central Park Ave, Avondale, Chicago, IL, 60618.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Fri, 24 Jul 2026 | Diskoteka presents CIRCUITO | Casket, Dj Warning, Wheelbite, xtelma |
 | Sat, 25 Jul 2026 | INZOGA | Grabba Ranks, NoahG |
 | Thu, 30 Jul 2026 | 33 GIRI | Magnolia, Nolia, Pen Pals |
 | Fri, 31 Jul 2026 | Madam X, Merrick Brown, KEEFE | KEEFE, Madam X, Merrick Brown |
@@ -23,4 +22,4 @@ Podlasie Club is a music venue in Chicago listed on soundcheck. 10 upcoming nigh
 
 2918 N Central Park Ave, Avondale, Chicago, IL, 60618, Chicago
 
-*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/chicago/club/podlasie-club/)*
+*Updated Sat, 25 Jul 2026 · source: [soundcheck](https://soundcheck.club/chicago/club/podlasie-club/)*

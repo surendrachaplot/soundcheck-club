@@ -1,14 +1,13 @@
 # Lakota
 
-Lakota is a music venue in Bristol with 14 upcoming nights listed on soundcheck as of Fri, 24 Jul 2026; the next is "Trendkill Audio presents" on Fri, 24 Jul 2026.
+Lakota is a music venue in Bristol with 13 upcoming nights listed on soundcheck as of Sat, 25 Jul 2026; the next is "Keep It Movin (The Return)" on Sat, 25 Jul 2026.
 
-Lakota is a music venue in Bristol listed on soundcheck. 14 upcoming nights, with line-ups including Akira (Buntai), Betsy Mae, camukg and Janaway and 2 more. Browse upcoming dates, start times and who's playing. 6 Upper York Street; Bristol, BS2 8QN, United Kingdom.
+Lakota is a music venue in Bristol listed on soundcheck. 13 upcoming nights, with line-ups including Akira (Buntai), Betsy Mae, camukg and Janaway and 2 more. Browse upcoming dates, start times and who's playing. 6 Upper York Street; Bristol, BS2 8QN, United Kingdom.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Fri, 24 Jul 2026 | Trendkill Audio presents |  |
 | Sat, 25 Jul 2026 | Keep It Movin (The Return) |  |
 | Sat, 25 Jul 2026 | Jungle Cakes 360° |  |
 | Fri, 31 Jul 2026 | Best Weekend Ever |  |
@@ -18,9 +17,10 @@ Lakota is a music venue in Bristol listed on soundcheck. 14 upcoming nights, wit
 | Sat, 22 Aug 2026 | Outdoor Emo Festival Comes to Bristol |  |
 | Sat, 22 Aug 2026 | Leighton x Kuns Jungle Summer Motive |  |
 | Fri, 28 Aug 2026 | Cottage |  |
+| Sat, 12 Sept 2026 | Neuroheadz Celebrates 15 Years of Eatbrain |  |
 
 ## Address
 
 6 Upper York Street; Bristol, BS2 8QN, United Kingdom, Bristol
 
-*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/bristol/club/lakota/)*
+*Updated Sat, 25 Jul 2026 · source: [soundcheck](https://soundcheck.club/bristol/club/lakota/)*

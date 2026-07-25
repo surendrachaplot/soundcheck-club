@@ -1,14 +1,13 @@
 # Ankali & Planeta Za
 
-Ankali & Planeta Za is a music venue in Prague with 10 upcoming nights listed on soundcheck as of Fri, 24 Jul 2026; the next is "Archiv Teknologi: Axis Alpha & Eva Falt, Decoder, Inger Illel" on Fri, 24 Jul 2026.
+Ankali & Planeta Za is a music venue in Prague with 9 upcoming nights listed on soundcheck as of Sat, 25 Jul 2026; the next is "Progressive Insurance Pay Bill Online vs Phone — Speed and Fee Comparison 2026" on Sat, 25 Jul 2026.
 
-Ankali & Planeta Za is a music venue in Prague listed on soundcheck. 10 upcoming nights, with line-ups including 3ever, AE.WAI, Alaska (2) and Alfred Czital and 2 more. Browse upcoming dates, start times and who's playing. Lopuchová 58/6, Prague, 101 00, Czechia.
+Ankali & Planeta Za is a music venue in Prague listed on soundcheck. 9 upcoming nights, with line-ups including 3ever, AE.WAI, Alaska (2) and Alfred Czital and 2 more. Browse upcoming dates, start times and who's playing. Lopuchová 58/6, Prague, 101 00, Czechia.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Fri, 24 Jul 2026 | Archiv Teknologi: Axis Alpha & Eva Falt, Decoder, Inger Illel | Axis Alpha, Decoder, Eva Falt, Inger Illel |
 | Sat, 25 Jul 2026 | Progressive Insurance Pay Bill Online vs Phone — Speed and Fee Comparison 2026 | AMEX (UK), APP, Alaska (2), Debit, Flat, Georgia, ILLINOIS, LockOut, Maine, Maryland, Montana, NEW YORK, Nebraska, Utah, Vermont, Virginia |
 | Fri, 31 Jul 2026 | United at Ankali | AMB (6), Alfred Czital, Atch22, Ayū (1), Big Lil, Dj Poperz, Epoché, Fembot, Høll, Kaotic, LONG, Madeleine, Malachi Constant, Mike.H, Nevinnost, PRDELANZA, Still Sparkling, Tasya, TerminusTechnikus, Unjack*, Yan (CZ), fahell, patricccio |
 | Fri, 7 Aug 2026 | Cxnt x Maldades x MOTHERSPELLS | Kaa Glo, Martyyna, Miss Univers, NEW MAGIC MEDIA, Tasya, Ultrabruma, domizako |
@@ -23,4 +22,4 @@ Ankali & Planeta Za is a music venue in Prague listed on soundcheck. 10 upcoming
 
 Lopuchová 58/6, Prague, 101 00, Czechia, Prague
 
-*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/prague/club/ankali-planeta-za/)*
+*Updated Sat, 25 Jul 2026 · source: [soundcheck](https://soundcheck.club/prague/club/ankali-planeta-za/)*

@@ -1,14 +1,13 @@
 # HAAi
 
-HAAi is a Techno and House artist with 8 upcoming club dates listed on soundcheck as of Fri, 24 Jul 2026, next at Virage, Paris on Fri, 24 Jul 2026.
+HAAi is a Techno and House artist with 8 upcoming club dates listed on soundcheck as of Sat, 25 Jul 2026, next at Parc de la Trinitat, Barcelona on Sun, 26 Jul 2026.
 
-HAAi is a techno and house artist tracked on soundcheck, with 194 sets logged across Amsterdam, Antwerp, Athens and Bali and 52 more. Often billed alongside DJ Tennis, Saoirse and Gabrielle Kwarteng. Next up: Virage, Paris on Fri 24 Jul.
+HAAi is a techno and house artist tracked on soundcheck, with 195 sets logged across Amsterdam, Antwerp, Athens and Bali and 52 more. Often billed alongside DJ Tennis, Saoirse and Gabrielle Kwarteng. Next up: Parc de la Trinitat, Barcelona on Sun 26 Jul.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 24 Jul 2026 | Virage | Paris |
 | Sun, 26 Jul 2026 | Parc de la Trinitat | Barcelona |
 | Sat, 1 Aug 2026 | TILLATEC | Amsterdam |
 | Sat, 1 Aug 2026 | Preston Park, Brighton | Berlin |
@@ -16,9 +15,11 @@ HAAi is a techno and house artist tracked on soundcheck, with 194 sets logged ac
 | Sun, 30 Aug 2026 | Are You Affiliated | Newcastle |
 | Sat, 19 Sept 2026 | 528 Ibiza | Ibiza |
 | Sat, 10 Oct 2026 | Depot Mayfield | Manchester |
+| Fri, 23 Oct 2026 | RAWFACTORY | Amsterdam |
 
 ## Recently played
 
+- Virage, Paris — Fri, 24 Jul 2026
 - Ferropolis, Leipzig — Fri, 17 Jul 2026
 - Studio Club Malaga, Malaga — Sat, 4 Jul 2026
 - Sawmills, Bristol — Sat, 13 Jun 2026
@@ -26,10 +27,9 @@ HAAi is a techno and house artist tracked on soundcheck, with 194 sets logged ac
 - Hï Ibiza, Ibiza — Fri, 29 May 2026
 - TBA, Los Angeles — Sun, 17 May 2026
 - TBA - Les Grandes Locos , Lyon — Wed, 13 May 2026
-- public records, New York City — Sun, 10 May 2026
 
 ## Shares bills with
 
 DJ Tennis, Saoirse, Gabrielle Kwarteng
 
-*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/haai/)*
+*Updated Sat, 25 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/haai/)*

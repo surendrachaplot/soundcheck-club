@@ -1,14 +1,13 @@
 # La Cheetah Club
 
-La Cheetah Club is a music venue in Glasgow with 22 upcoming nights listed on soundcheck as of Fri, 24 Jul 2026; the next is "INTO SOLA launch night: DANCING WITH STANLEY & David Scott" on Fri, 24 Jul 2026.
+La Cheetah Club is a music venue in Glasgow with 21 upcoming nights listed on soundcheck as of Sat, 25 Jul 2026; the next is "Pedestrianism presents: Drinks On Me" on Sat, 25 Jul 2026.
 
-La Cheetah Club is a music venue in Glasgow listed on soundcheck. 22 upcoming nights, with line-ups including Ali Watts, Boss Priester, Bristol Luke and Carmen Baía and 2 more. Browse upcoming dates, start times and who's playing. Basement, 73 Queen Street; Glasgow, G1 3BZ; Scotland; United Kingdom.
+La Cheetah Club is a music venue in Glasgow listed on soundcheck. 21 upcoming nights, with line-ups including Ali Watts, Boss Priester, Bristol Luke and Carmen Baía and 2 more. Browse upcoming dates, start times and who's playing. Basement, 73 Queen Street; Glasgow, G1 3BZ; Scotland; United Kingdom.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Fri, 24 Jul 2026 | INTO SOLA launch night: DANCING WITH STANLEY & David Scott | DANCING WITH STANLEY, David Scott |
 | Sat, 25 Jul 2026 | Pedestrianism presents: Drinks On Me | Drinks On Me |
 | Sun, 26 Jul 2026 | KEEP ON with OOFT! & David Barbarossa | David Barbarossa, OOFT |
 | Thu, 30 Jul 2026 | SEQUENCE x Repetitions: Chapter One | Eubo, JHNSSN, Reece Pritchard |
@@ -18,9 +17,10 @@ La Cheetah Club is a music venue in Glasgow listed on soundcheck. 22 upcoming ni
 | Thu, 6 Aug 2026 | Sidechain Vol. 4: DRUMA, Two Brothers, Morrison and Jos.heat | DRUMA, Jos.heat |
 | Fri, 7 Aug 2026 | Hawd That 007 // Scissor Salad | Work Coach, Yuzo, fergusmcnally |
 | Sat, 8 Aug 2026 | PHAZON 003: INSECT |  |
+| Sun, 9 Aug 2026 | KEEP ON with David Barbarossa & OOFT | David Barbarossa, OOFT |
 
 ## Address
 
 Basement, 73 Queen Street; Glasgow, G1 3BZ; Scotland; United Kingdom, Glasgow
 
-*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/glasgow/club/la-cheetah-club/)*
+*Updated Sat, 25 Jul 2026 · source: [soundcheck](https://soundcheck.club/glasgow/club/la-cheetah-club/)*

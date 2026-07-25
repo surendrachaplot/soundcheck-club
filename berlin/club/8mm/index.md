@@ -1,6 +1,6 @@
 # 8MM
 
-8MM is a music venue in Berlin with 6 upcoming nights listed on soundcheck as of Fri, 24 Jul 2026; the next is "8MM & Shameless/Limitless present: mal sounds / TALIA / che ali" on Tue, 28 Jul 2026.
+8MM is a music venue in Berlin with 6 upcoming nights listed on soundcheck as of Sat, 25 Jul 2026; the next is "8MM & Shameless/Limitless present: mal sounds / TALIA / che ali" on Tue, 28 Jul 2026.
 
 8MM is a music venue in Berlin listed on soundcheck. 6 upcoming nights, with line-ups including Carlos GrabStein, Desolate Discotheque, mal sounds and miaw. Browse upcoming dates, start times and who's playing. Schönhauser Allee 177b, 10119 Berlin.
 
@@ -19,4 +19,4 @@
 
 Schönhauser Allee 177b, 10119 Berlin, Berlin
 
-*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/8mm/)*
+*Updated Sat, 25 Jul 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/8mm/)*

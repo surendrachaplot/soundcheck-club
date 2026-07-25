@@ -1,6 +1,6 @@
 # Yousef
 
-Yousef is a House and Tech House artist with 2 upcoming club dates listed on soundcheck as of Fri, 24 Jul 2026, next at 528 Ibiza, Ibiza on Sat, 25 Jul 2026.
+Yousef is a House and Tech House artist with 2 upcoming club dates listed on soundcheck as of Sat, 25 Jul 2026, next at 528 Ibiza, Ibiza on Sat, 25 Jul 2026.
 
 Yousef is a house and tech house artist based in United Kingdom, tracked on soundcheck, with 38 sets logged across Cardiff, Ibiza, Leeds and Liverpool and 7 more. Often billed alongside East End Dubs, Paige Tomlinson and Eats Everything. Next up: 528 Ibiza, Ibiza on Sat 25 Jul.
 
@@ -26,4 +26,4 @@ Yousef is a house and tech house artist based in United Kingdom, tracked on soun
 
 East End Dubs, Paige Tomlinson, Eats Everything
 
-*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/yousef/)*
+*Updated Sat, 25 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/yousef/)*

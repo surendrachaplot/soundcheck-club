@@ -1,6 +1,6 @@
 # Georgia
 
-Georgia is a Drum & Bass and Dubstep artist with 123 upcoming club dates listed on soundcheck as of Fri, 24 Jul 2026, next at Institut fuer Zukunft (IfZ), Leipzig on Sat, 25 Jul 2026.
+Georgia is a Drum & Bass and Dubstep artist with 123 upcoming club dates listed on soundcheck as of Sat, 25 Jul 2026, next at Institut fuer Zukunft (IfZ), Leipzig on Sat, 25 Jul 2026.
 
 Georgia is a drum & bass and dubstep artist based in Indonesia, tracked on soundcheck, with 140 sets logged across Amsterdam, Bali, Barcelona and Berlin and 46 more. Often billed alongside AMEX (UK), APP and Alaska (2). Next up: Institut fuer Zukunft (IfZ), Leipzig on Sat 25 Jul.
 
@@ -36,4 +36,4 @@ Georgia is a drum & bass and dubstep artist based in Indonesia, tracked on sound
 
 AMEX (UK), APP, Alaska (2)
 
-*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/georgia/)*
+*Updated Sat, 25 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/georgia/)*

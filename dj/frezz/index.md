@@ -1,6 +1,6 @@
 # FrezZ
 
-FrezZ is a Tech House and Minimal artist with 2 upcoming club dates listed on soundcheck as of Fri, 24 Jul 2026, next at The Cross, London on Sat, 25 Jul 2026.
+FrezZ is a Tech House and Minimal artist with 2 upcoming club dates listed on soundcheck as of Sat, 25 Jul 2026, next at The Cross, London on Sat, 25 Jul 2026.
 
 FrezZ is a tech house and minimal artist tracked on soundcheck, with 42 sets logged across London. Often billed alongside Giovanni Savoca, Simon Carr and George Morteanu. Next up: The Cross, London on Sat 25 Jul.
 
@@ -26,4 +26,4 @@ FrezZ is a tech house and minimal artist tracked on soundcheck, with 42 sets log
 
 Giovanni Savoca, Simon Carr, George Morteanu
 
-*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/frezz/)*
+*Updated Sat, 25 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/frezz/)*

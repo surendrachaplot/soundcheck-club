@@ -1,6 +1,6 @@
 # Arzenal
 
-Arzenal is a music venue in Budapest with 11 upcoming nights listed on soundcheck as of Fri, 24 Jul 2026; the next is "RAVE ANGELS PRESENTS: BSLS 3HRS (HARDWARE HYBRID LIVE) EXTENDED + SOBER" on Sat, 25 Jul 2026.
+Arzenal is a music venue in Budapest with 11 upcoming nights listed on soundcheck as of Sat, 25 Jul 2026; the next is "RAVE ANGELS PRESENTS: BSLS 3HRS (HARDWARE HYBRID LIVE) EXTENDED + SOBER" on Sat, 25 Jul 2026.
 
 Arzenal is a music venue in Budapest listed on soundcheck. 11 upcoming nights, with line-ups including AEREA, BSLS, Chlär and Cloudy and 2 more. Browse upcoming dates, start times and who's playing. Soroksári út 158/C Budapest, Hungary 1095.
 
@@ -23,4 +23,4 @@ Arzenal is a music venue in Budapest listed on soundcheck. 11 upcoming nights, w
 
 Soroksári út 158/C Budapest, Hungary 1095, Budapest
 
-*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/budapest/club/arzenal/)*
+*Updated Sat, 25 Jul 2026 · source: [soundcheck](https://soundcheck.club/budapest/club/arzenal/)*

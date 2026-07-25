@@ -1,6 +1,6 @@
 # Virginia
 
-Virginia is a House and Techno artist with 130 upcoming club dates listed on soundcheck as of Fri, 24 Jul 2026, next at The White Hotel, Manchester on Sat, 25 Jul 2026.
+Virginia is a House and Techno artist with 130 upcoming club dates listed on soundcheck as of Sat, 25 Jul 2026, next at The White Hotel, Manchester on Sat, 25 Jul 2026.
 
 Virginia is a house and techno artist tracked on soundcheck, with 245 sets logged across Amsterdam, Athens, Bali and Barcelona and 60 more. Often billed alongside AMEX (UK), APP and Alaska (2). Next up: The White Hotel, Manchester on Sat 25 Jul.
 
@@ -36,4 +36,4 @@ Virginia is a house and techno artist tracked on soundcheck, with 245 sets logge
 
 AMEX (UK), APP, Alaska (2)
 
-*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/virginia/)*
+*Updated Sat, 25 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/virginia/)*

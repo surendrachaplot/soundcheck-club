@@ -1,8 +1,8 @@
 # Gabrielle Kwarteng
 
-Gabrielle Kwarteng is a House and Techno artist with 6 upcoming club dates listed on soundcheck as of Fri, 24 Jul 2026, next at Boston Manor Park, London on Sat, 25 Jul 2026.
+Gabrielle Kwarteng is a House and Techno artist with 7 upcoming club dates listed on soundcheck as of Sat, 25 Jul 2026, next at Boston Manor Park, London on Sat, 25 Jul 2026.
 
-Gabrielle Kwarteng is a house and techno artist tracked on soundcheck, with 226 sets logged across Amsterdam, Antwerp, Auckland and Bali and 54 more. Often billed alongside BASHKKA, Peach and Sedef Adasï. Next up: Boston Manor Park, London on Sat 25 Jul.
+Gabrielle Kwarteng is a house and techno artist tracked on soundcheck, with 227 sets logged across Amsterdam, Antwerp, Auckland and Bali and 54 more. Often billed alongside BASHKKA, Peach and Sedef Adasï. Next up: Boston Manor Park, London on Sat 25 Jul.
 
 ## Upcoming shows
 
@@ -14,6 +14,7 @@ Gabrielle Kwarteng is a house and techno artist tracked on soundcheck, with 226 
 | Fri, 31 Jul 2026 | Amsterdamse Bos | Amsterdam |
 | Fri, 31 Jul 2026 | export | Rotterdam |
 | Sat, 5 Sept 2026 | Westhafen | Leipzig |
+| Fri, 23 Oct 2026 | WestWeelde | Amsterdam |
 
 ## Recently played
 
@@ -30,4 +31,4 @@ Gabrielle Kwarteng is a house and techno artist tracked on soundcheck, with 226 
 
 BASHKKA, Peach, Sedef Adasï
 
-*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/gabriellekwarteng/)*
+*Updated Sat, 25 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/gabriellekwarteng/)*

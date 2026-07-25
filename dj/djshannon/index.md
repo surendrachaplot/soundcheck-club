@@ -1,6 +1,6 @@
 # DJ Shannon
 
-DJ Shannon is a House and Techno artist with 4 upcoming club dates listed on soundcheck as of Fri, 24 Jul 2026, next at People's Leisure Club, Edinburgh on Sat, 25 Jul 2026.
+DJ Shannon is a House and Techno artist with 4 upcoming club dates listed on soundcheck as of Sat, 25 Jul 2026, next at People's Leisure Club, Edinburgh on Sat, 25 Jul 2026.
 
 DJ Shannon is a house and techno artist based in United States of America, tracked on soundcheck, with 110 sets logged across Berlin, Boston, Chicago and Copenhagen and 8 more. Often billed alongside Niyah West, HONEY B and Kandylion. Next up: People's Leisure Club, Edinburgh on Sat 25 Jul.
 
@@ -28,4 +28,4 @@ DJ Shannon is a house and techno artist based in United States of America, track
 
 Niyah West, HONEY B, Kandylion
 
-*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/djshannon/)*
+*Updated Sat, 25 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/djshannon/)*

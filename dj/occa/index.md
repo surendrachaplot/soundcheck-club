@@ -1,6 +1,6 @@
 # OCCA
 
-OCCA is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Fri, 24 Jul 2026, next at Upsidedown, Osaka on Sat, 25 Jul 2026.
+OCCA is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Sat, 25 Jul 2026, next at Upsidedown, Osaka on Sat, 25 Jul 2026.
 
 OCCA is a techno and house artist based in Japan, tracked on soundcheck, with 129 sets logged across Amsterdam, Athens, Bangkok and Barcelona and 18 more. Often billed alongside Spekki Webu, DJ Sodeyama and OSHALEY. Next up: Upsidedown, Osaka on Sat 25 Jul.
 
@@ -26,4 +26,4 @@ OCCA is a techno and house artist based in Japan, tracked on soundcheck, with 12
 
 Spekki Webu, DJ Sodeyama, OSHALEY
 
-*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/occa/)*
+*Updated Sat, 25 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/occa/)*

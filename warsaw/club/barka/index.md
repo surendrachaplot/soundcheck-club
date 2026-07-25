@@ -1,6 +1,6 @@
 # BarKa
 
-BarKa is a music venue in Warsaw with 2 upcoming nights listed on soundcheck as of Fri, 24 Jul 2026; the next is "Polskie Koleje Bassowe vol. 3" on Sun, 26 Jul 2026.
+BarKa is a music venue in Warsaw with 2 upcoming nights listed on soundcheck as of Sat, 25 Jul 2026; the next is "Polskie Koleje Bassowe vol. 3" on Sun, 26 Jul 2026.
 
 BarKa is a music venue in Warsaw listed on soundcheck. 2 upcoming nights, with line-ups including Adobo (PL), Alexis, Brynk and DJ Kobieta and 2 more. Browse upcoming dates, start times and who's playing. Bulwar Bohdana Grzymały-Siedleckiego 00-379 Warszawa.
 
@@ -15,4 +15,4 @@ BarKa is a music venue in Warsaw listed on soundcheck. 2 upcoming nights, with l
 
 Bulwar Bohdana Grzymały-Siedleckiego 00-379 Warszawa, Warsaw
 
-*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/warsaw/club/barka/)*
+*Updated Sat, 25 Jul 2026 · source: [soundcheck](https://soundcheck.club/warsaw/club/barka/)*

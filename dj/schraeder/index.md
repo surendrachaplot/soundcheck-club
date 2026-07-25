@@ -1,6 +1,6 @@
 # schraeder
 
-schraeder is a Techno and Trance artist with 2 upcoming club dates listed on soundcheck as of Fri, 24 Jul 2026, next at Kassa Boat, Budapest on Sat, 25 Jul 2026.
+schraeder is a Techno and Trance artist with 2 upcoming club dates listed on soundcheck as of Sat, 25 Jul 2026, next at Kassa Boat, Budapest on Sat, 25 Jul 2026.
 
 schraeder is a techno and trance artist based in Germany, tracked on soundcheck, with 66 sets logged across Budapest. Often billed alongside CRB, Rovizz and DJ RENT A TENT. Next up: Kassa Boat, Budapest on Sat 25 Jul.
 
@@ -26,4 +26,4 @@ schraeder is a techno and trance artist based in Germany, tracked on soundcheck,
 
 CRB, Rovizz, DJ RENT A TENT
 
-*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/schraeder/)*
+*Updated Sat, 25 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/schraeder/)*

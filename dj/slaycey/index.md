@@ -1,6 +1,6 @@
 # Slaycey
 
-Slaycey is a House and Tech House artist with 2 upcoming club dates listed on soundcheck as of Fri, 24 Jul 2026, next at Tigres de la Noche, Washington DC on Sat, 1 Aug 2026.
+Slaycey is a House and Tech House artist with 2 upcoming club dates listed on soundcheck as of Sat, 25 Jul 2026, next at Tigres de la Noche, Washington DC on Sat, 1 Aug 2026.
 
 Slaycey is a house and tech house artist based in United States of America, tracked on soundcheck, with 36 sets logged across London, Newyorkcity and Washingtondc. Often billed alongside Electro Cherry, Sarindipity and Aleska. Next up: Tigres de la Noche, Washingtondc on Sat 1 Aug.
 
@@ -26,4 +26,4 @@ Slaycey is a house and tech house artist based in United States of America, trac
 
 Electro Cherry, Sarindipity, Aleska
 
-*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/slaycey/)*
+*Updated Sat, 25 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/slaycey/)*

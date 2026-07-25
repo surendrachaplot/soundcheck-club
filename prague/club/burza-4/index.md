@@ -1,6 +1,6 @@
 # Burza #4
 
-Burza #4 is a music venue in Prague with 2 upcoming nights listed on soundcheck as of Fri, 24 Jul 2026; the next is "Golden Hour of Avandark" on Sat, 25 Jul 2026.
+Burza #4 is a music venue in Prague with 2 upcoming nights listed on soundcheck as of Sat, 25 Jul 2026; the next is "Golden Hour of Avandark" on Sat, 25 Jul 2026.
 
 Burza #4 is a music venue in Prague listed on soundcheck. 2 upcoming nights, with line-ups including Bazooka Joe and Lillou. Browse upcoming dates, start times and who's playing. Bubenské nábřeží 306/13, 17000 Prague, Czech Republic.
 
@@ -15,4 +15,4 @@ Burza #4 is a music venue in Prague listed on soundcheck. 2 upcoming nights, wit
 
 Bubenské nábřeží 306/13, 17000 Prague, Czech Republic, Prague
 
-*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/prague/club/burza-4/)*
+*Updated Sat, 25 Jul 2026 · source: [soundcheck](https://soundcheck.club/prague/club/burza-4/)*

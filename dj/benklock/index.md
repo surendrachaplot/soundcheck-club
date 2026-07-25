@@ -1,6 +1,6 @@
 # Ben Klock
 
-Ben Klock is a Techno and House artist with 14 upcoming club dates listed on soundcheck as of Fri, 24 Jul 2026, next at Boston Manor Park, London on Sat, 25 Jul 2026.
+Ben Klock is a Techno and House artist with 14 upcoming club dates listed on soundcheck as of Sat, 25 Jul 2026, next at Boston Manor Park, London on Sat, 25 Jul 2026.
 
 Ben Klock is a techno and house artist tracked on soundcheck, with 244 sets logged across Amsterdam, Athens, Bangkok and Barcelona and 54 more. Often billed alongside Marcel Dettmann, Fadi Mohem and Rødhåd. Next up: Boston Manor Park, London on Sat 25 Jul.
 
@@ -36,4 +36,4 @@ Ben Klock is a techno and house artist tracked on soundcheck, with 244 sets logg
 
 Marcel Dettmann, Fadi Mohem, Rødhåd
 
-*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/benklock/)*
+*Updated Sat, 25 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/benklock/)*

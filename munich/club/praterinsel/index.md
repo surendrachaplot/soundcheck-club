@@ -1,6 +1,6 @@
 # Praterinsel
 
-Praterinsel is a music venue in Munich with 2 upcoming nights listed on soundcheck as of Fri, 24 Jul 2026; the next is "PULSE" on Sat, 25 Jul 2026.
+Praterinsel is a music venue in Munich with 2 upcoming nights listed on soundcheck as of Sat, 25 Jul 2026; the next is "PULSE" on Sat, 25 Jul 2026.
 
 Praterinsel is a music venue in Munich listed on soundcheck. 2 upcoming nights, with line-ups including ALVEZ, Ankhoï, CALU (DE) and Chris Stussy and 2 more. Browse upcoming dates, start times and who's playing. Praterinsel 3-4, 80538 München.
 
@@ -15,4 +15,4 @@ Praterinsel is a music venue in Munich listed on soundcheck. 2 upcoming nights, 
 
 Praterinsel 3-4, 80538 München, Munich
 
-*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/munich/club/praterinsel/)*
+*Updated Sat, 25 Jul 2026 · source: [soundcheck](https://soundcheck.club/munich/club/praterinsel/)*

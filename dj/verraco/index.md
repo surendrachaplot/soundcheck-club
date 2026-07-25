@@ -1,8 +1,8 @@
 # Verraco
 
-Verraco is a Techno and Bass artist with 8 upcoming club dates listed on soundcheck as of Fri, 24 Jul 2026, next at Amsterdamse Bos, Amsterdam on Wed, 29 Jul 2026.
+Verraco is a Techno and Bass artist with 9 upcoming club dates listed on soundcheck as of Sat, 25 Jul 2026, next at Amsterdamse Bos, Amsterdam on Wed, 29 Jul 2026.
 
-Verraco is a techno and bass artist tracked on soundcheck, with 122 sets logged across Amsterdam, Athens, Barcelona and Berlin and 38 more. Often billed alongside Bitter Babe, CCL and Batu. Next up: Amsterdamse Bos, Amsterdam on Wed 29 Jul.
+Verraco is a techno and bass artist tracked on soundcheck, with 123 sets logged across Amsterdam, Athens, Barcelona and Berlin and 38 more. Often billed alongside Bitter Babe, CCL and Batu. Next up: Amsterdamse Bos, Amsterdam on Wed 29 Jul.
 
 ## Upcoming shows
 
@@ -16,6 +16,7 @@ Verraco is a techno and bass artist tracked on soundcheck, with 122 sets logged 
 | Fri, 7 Aug 2026 | The Cause | London |
 | Fri, 18 Sept 2026 | Fort Mifflin | Philadelphia |
 | Fri, 2 Oct 2026 | The Loom | San Francisco/Oakland |
+| Fri, 23 Oct 2026 | Bajes Amsterdam | Amsterdam |
 
 ## Recently played
 
@@ -32,4 +33,4 @@ Verraco is a techno and bass artist tracked on soundcheck, with 122 sets logged 
 
 Bitter Babe, CCL, Batu
 
-*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/verraco/)*
+*Updated Sat, 25 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/verraco/)*

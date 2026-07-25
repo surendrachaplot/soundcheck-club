@@ -1,6 +1,6 @@
 # Ben Manson
 
-Ben Manson is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Fri, 24 Jul 2026, next at Lehmann Club, Stuttgart on Sat, 25 Jul 2026.
+Ben Manson is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Sat, 25 Jul 2026, next at Lehmann Club, Stuttgart on Sat, 25 Jul 2026.
 
 Ben Manson is a techno and house artist based in France, tracked on soundcheck, with 99 sets logged across Amsterdam, Antwerp, Berlin and Munich and 3 more. Often billed alongside Mr Cozzo, Hugo Prime and High Low. Next up: Lehmann Club, Stuttgart on Sat 25 Jul.
 
@@ -26,4 +26,4 @@ Ben Manson is a techno and house artist based in France, tracked on soundcheck, 
 
 Mr Cozzo, Hugo Prime, High Low
 
-*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/benmanson/)*
+*Updated Sat, 25 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/benmanson/)*

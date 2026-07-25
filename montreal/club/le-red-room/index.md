@@ -1,14 +1,13 @@
 # Le Red Room
 
-Le Red Room is a music venue in Montreal with 10 upcoming nights listed on soundcheck as of Fri, 24 Jul 2026; the next is "Alpha Squadron presents LVWZ + more" on Fri, 24 Jul 2026.
+Le Red Room is a music venue in Montreal with 9 upcoming nights listed on soundcheck as of Sat, 25 Jul 2026; the next is "Electro Oasis (every Sunday) ***Free with RSVP ticket***" on Sun, 26 Jul 2026.
 
-Le Red Room is a music venue in Montreal listed on soundcheck. 10 upcoming nights, with line-ups including ALY, AYMÉ, DJ Pacifier and Harry Trancer and 2 more. Browse upcoming dates, start times and who's playing. 2037 rue Saint-Denis, Montreal, Quebec H2X3K8.
+Le Red Room is a music venue in Montreal listed on soundcheck. 9 upcoming nights, with line-ups including ALY, AYMÉ, DJ Pacifier and Harry Trancer and 2 more. Browse upcoming dates, start times and who's playing. 2037 rue Saint-Denis, Montreal, Quebec H2X3K8.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Fri, 24 Jul 2026 | Alpha Squadron presents LVWZ + more |  |
 | Sun, 26 Jul 2026 | Electro Oasis (every Sunday) ***Free with RSVP ticket*** |  |
 | Tue, 28 Jul 2026 | 5:14 Sessions: NOS-talgia | NOS-talgia |
 | Wed, 29 Jul 2026 | DOWN2TECHNO: Every Wednesday | ALY |
@@ -23,4 +22,4 @@ Le Red Room is a music venue in Montreal listed on soundcheck. 10 upcoming night
 
 2037 rue Saint-Denis, Montreal, Quebec H2X3K8, Montreal
 
-*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/montreal/club/le-red-room/)*
+*Updated Sat, 25 Jul 2026 · source: [soundcheck](https://soundcheck.club/montreal/club/le-red-room/)*

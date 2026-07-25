@@ -1,8 +1,8 @@
 # Onlynumbers
 
-Onlynumbers is a Techno and Hardcore artist with 8 upcoming club dates listed on soundcheck as of Fri, 24 Jul 2026, next at Bowlers Exhibition Centre, Manchester on Sat, 1 Aug 2026.
+Onlynumbers is a Techno and Hardcore artist with 9 upcoming club dates listed on soundcheck as of Sat, 25 Jul 2026, next at Bowlers Exhibition Centre, Manchester on Sat, 1 Aug 2026.
 
-Onlynumbers is a techno and hardcore artist tracked on soundcheck, with 70 sets logged across Amsterdam, Antwerp, Barcelona and Basel and 40 more. Often billed alongside NOVAH, Basswell and Fantasm. Next up: Bowlers Exhibition Centre, Manchester on Sat 1 Aug.
+Onlynumbers is a techno and hardcore artist tracked on soundcheck, with 71 sets logged across Amsterdam, Antwerp, Barcelona and Basel and 40 more. Often billed alongside NOVAH, Basswell and Fantasm. Next up: Bowlers Exhibition Centre, Manchester on Sat 1 Aug.
 
 ## Upcoming shows
 
@@ -16,6 +16,7 @@ Onlynumbers is a techno and hardcore artist tracked on soundcheck, with 70 sets 
 | Sat, 12 Sept 2026 | TBA - Grand Parc Miribel Jonage | Lyon |
 | Sat, 19 Sept 2026 | Arzenal | Budapest |
 | Thu, 8 Oct 2026 | Amnesia Ibiza | Ibiza |
+| Fri, 23 Oct 2026 | DRUMSHEDS | London |
 
 ## Recently played
 
@@ -32,4 +33,4 @@ Onlynumbers is a techno and hardcore artist tracked on soundcheck, with 70 sets 
 
 NOVAH, Basswell, Fantasm
 
-*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/onlynumbers/)*
+*Updated Sat, 25 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/onlynumbers/)*

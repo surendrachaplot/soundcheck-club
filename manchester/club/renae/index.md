@@ -1,15 +1,13 @@
 # renae
 
-renae is a music venue in Manchester with 10 upcoming nights listed on soundcheck as of Fri, 24 Jul 2026; the next is "Nony B B2B Tomi From Brockley: All Night Long" on Fri, 24 Jul 2026.
+renae is a music venue in Manchester with 8 upcoming nights listed on soundcheck as of Sat, 25 Jul 2026; the next is "renae: Audio Acupuncture" on Sat, 25 Jul 2026.
 
-renae is a music venue in Manchester listed on soundcheck. 10 upcoming nights, with line-ups including Gabriel Belabbas, j:me, KAZIA and Lil' Minx and 2 more. Browse upcoming dates, start times and who's playing. 45-47 Thomas St, Manchester M4 1NA.
+renae is a music venue in Manchester listed on soundcheck. 8 upcoming nights, with line-ups including Gabriel Belabbas, j:me, KAZIA and Lil' Minx and 2 more. Browse upcoming dates, start times and who's playing. 45-47 Thomas St, Manchester M4 1NA.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Fri, 24 Jul 2026 | Nony B B2B Tomi From Brockley: All Night Long | Nony B, Tomi From Brockley |
-| Fri, 24 Jul 2026 | renae: Malissa & Overmars | Malissa, Overmars |
 | Sat, 25 Jul 2026 | renae: Audio Acupuncture | Lil' Minx |
 | Sun, 26 Jul 2026 | renae: Reuben Vaun Smith |  |
 | Thu, 30 Jul 2026 | Mellow Clo presents: Steady Stepping with Melody | Melody RA+RE |
@@ -23,4 +21,4 @@ renae is a music venue in Manchester listed on soundcheck. 10 upcoming nights, w
 
 45-47 Thomas St, Manchester M4 1NA, Manchester
 
-*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/manchester/club/renae/)*
+*Updated Sat, 25 Jul 2026 · source: [soundcheck](https://soundcheck.club/manchester/club/renae/)*

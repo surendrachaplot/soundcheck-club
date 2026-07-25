@@ -1,6 +1,6 @@
 # GIVIO
 
-GIVIO is a House and Tech House artist with 4 upcoming club dates listed on soundcheck as of Fri, 24 Jul 2026, next at Eden, Ibiza on Sat, 25 Jul 2026.
+GIVIO is a House and Tech House artist with 4 upcoming club dates listed on soundcheck as of Sat, 25 Jul 2026, next at Eden, Ibiza on Sat, 25 Jul 2026.
 
 GIVIO is a house and tech house artist tracked on soundcheck, with 81 sets logged across Barcelona, Berlin, Ibiza and Madrid and 2 more. Often billed alongside Sarah Andersson, Nesi and Alex Silva. Next up: Eden, Ibiza on Sat 25 Jul.
 
@@ -28,4 +28,4 @@ GIVIO is a house and tech house artist tracked on soundcheck, with 81 sets logge
 
 Sarah Andersson, Nesi, Alex Silva
 
-*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/givio/)*
+*Updated Sat, 25 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/givio/)*

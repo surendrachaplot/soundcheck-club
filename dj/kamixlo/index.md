@@ -1,6 +1,6 @@
 # Kamixlo
 
-Kamixlo is a Experimental and Club artist with 2 upcoming club dates listed on soundcheck as of Fri, 24 Jul 2026, next at Colour Factory, London on Sat, 25 Jul 2026.
+Kamixlo is a Experimental and Club artist with 2 upcoming club dates listed on soundcheck as of Sat, 25 Jul 2026, next at Colour Factory, London on Sat, 25 Jul 2026.
 
 Kamixlo is an experimental and club artist tracked on soundcheck, with 50 sets logged across Athens, Barcelona, Berlin and Brussels and 17 more. Often billed alongside Felix Lee, Isabella Lovestory and Mechatok. Next up: Colour Factory, London on Sat 25 Jul.
 
@@ -26,4 +26,4 @@ Kamixlo is an experimental and club artist tracked on soundcheck, with 50 sets l
 
 Felix Lee, Isabella Lovestory, Mechatok
 
-*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/kamixlo/)*
+*Updated Sat, 25 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/kamixlo/)*

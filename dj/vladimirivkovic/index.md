@@ -1,14 +1,13 @@
 # Vladimir Ivkovic
 
-Vladimir Ivkovic is a Techno and House artist with 9 upcoming club dates listed on soundcheck as of Fri, 24 Jul 2026, next at WOMB, Tokyo on Fri, 24 Jul 2026.
+Vladimir Ivkovic is a Techno and House artist with 8 upcoming club dates listed on soundcheck as of Sat, 25 Jul 2026, next at BAR Inc, Osaka on Sat, 25 Jul 2026.
 
-Vladimir Ivkovic is a techno and house artist tracked on soundcheck, with 195 sets logged across Amsterdam, Athens, Auckland and Bali and 58 more. Often billed alongside Lena Willikens, Ivan Smagghe and Ben UFO. Next up: WOMB, Tokyo on Fri 24 Jul.
+Vladimir Ivkovic is a techno and house artist tracked on soundcheck, with 195 sets logged across Amsterdam, Athens, Auckland and Bali and 58 more. Often billed alongside Lena Willikens, Ivan Smagghe and Ben UFO. Next up: BAR Inc, Osaka on Sat 25 Jul.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 24 Jul 2026 | WOMB | Tokyo |
 | Sat, 25 Jul 2026 | BAR Inc | Osaka |
 | Sat, 1 Aug 2026 | Gaffe | London |
 | Fri, 28 Aug 2026 | Nowadays | New York City |
@@ -20,6 +19,7 @@ Vladimir Ivkovic is a techno and house artist tracked on soundcheck, with 195 se
 
 ## Recently played
 
+- WOMB, Tokyo — Fri, 24 Jul 2026
 - Night Tales, London — Sat, 4 Jul 2026
 - The Love Inn, Bristol — Fri, 3 Jul 2026
 - Brutus, Rotterdam — Sat, 27 Jun 2026
@@ -27,10 +27,9 @@ Vladimir Ivkovic is a techno and house artist tracked on soundcheck, with 195 se
 - Villa La Valera, Milan — Sun, 14 Jun 2026
 - Bijhuub, Amsterdam — Sat, 13 Jun 2026
 - Umoya, Naples — Fri, 5 Jun 2026
-- Marble Bar, Detroit — Sat, 23 May 2026
 
 ## Shares bills with
 
 Lena Willikens, Ivan Smagghe, Ben UFO
 
-*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/vladimirivkovic/)*
+*Updated Sat, 25 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/vladimirivkovic/)*

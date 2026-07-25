@@ -1,8 +1,8 @@
 # Helsloot
 
-Helsloot is a Techno and Progressive House artist with 3 upcoming club dates listed on soundcheck as of Fri, 24 Jul 2026, next at Colorado Charlie, The Hague on Sat, 22 Aug 2026.
+Helsloot is a Techno and Progressive House artist with 5 upcoming club dates listed on soundcheck as of Sat, 25 Jul 2026, next at Colorado Charlie, The Hague on Sat, 22 Aug 2026.
 
-Helsloot is a techno and progressive house artist tracked on soundcheck, with 44 sets logged across Amsterdam, Austin, Berlin and Bristol and 17 more. Often billed alongside Tinlicker, Hollt and Mees Salomé. Next up: Colorado Charlie, Thehague on Sat 22 Aug.
+Helsloot is a techno and progressive house artist tracked on soundcheck, with 46 sets logged across Amsterdam, Austin, Berlin and Bristol and 17 more. Often billed alongside Tinlicker, Hollt and Mees Salomé. Next up: Colorado Charlie, Thehague on Sat 22 Aug.
 
 ## Upcoming shows
 
@@ -11,6 +11,8 @@ Helsloot is a techno and progressive house artist tracked on soundcheck, with 44
 | Sat, 22 Aug 2026 | Colorado Charlie | The Hague |
 | Sat, 5 Sept 2026 | Strijkviertel | Utrecht |
 | Thu, 22 Oct 2026 | Toekomstmuziek | Amsterdam |
+| Fri, 23 Oct 2026 | NDSM Scheepsbouwloods | Amsterdam |
+| Fri, 23 Oct 2026 | Melkweg | Amsterdam |
 
 ## Recently played
 
@@ -27,4 +29,4 @@ Helsloot is a techno and progressive house artist tracked on soundcheck, with 44
 
 Tinlicker, Hollt, Mees Salomé
 
-*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/helsloot/)*
+*Updated Sat, 25 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/helsloot/)*

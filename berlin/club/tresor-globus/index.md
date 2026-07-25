@@ -1,14 +1,13 @@
 # Tresor / Globus
 
-Tresor / Globus is a music venue in Berlin with 31 upcoming nights listed on soundcheck as of Fri, 24 Jul 2026; the next is "Tresor meets Unterwegs" on Fri, 24 Jul 2026.
+Tresor / Globus is a music venue in Berlin with 30 upcoming nights listed on soundcheck as of Sat, 25 Jul 2026; the next is "AFTERPRIDE" on Sat, 25 Jul 2026.
 
-Tresor / Globus is a music venue in Berlin listed on soundcheck. 31 upcoming nights, with line-ups including Agua con gas, Alaska (2), ALIS. and AMEX (UK) and 2 more. Browse upcoming dates, start times and who's playing. Köpenickerstrasse 70; Mitte; 10179 Berlin; Germany.
+Tresor / Globus is a music venue in Berlin listed on soundcheck. 30 upcoming nights, with line-ups including Agua con gas, Alaska (2), ALIS. and AMEX (UK) and 2 more. Browse upcoming dates, start times and who's playing. Köpenickerstrasse 70; Mitte; 10179 Berlin; Germany.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Fri, 24 Jul 2026 | Tresor meets Unterwegs | Courtney Bailey, Cousin, Decka, Human Movement, Radial, SEDVS, The Lady Machine |
 | Sat, 25 Jul 2026 | AFTERPRIDE | Agua con gas, Anna Haleta, Electric Indigo, Erika, Handmade, Jessica Nightlife, Katy De Jesus, LOOPA (2), Madalba, Magda, Manuela Mayoral, MarcelDune, Mike Servito, Miss Italia, S4M23, VCO, Yamour |
 | Sat, 25 Jul 2026 | State Farm Insurance Customer Service — Direct Billing Support Line 2026 | AMEX (UK), APP, Alaska (2), Debit, Flat, Georgia, ILLINOIS, KNOXDOTMP3, LockOut, MISS BRICKS, Maine, Maryland, Montana, NEW YORK, Nebraska, Utah, Vermont, Virginia |
 | Mon, 27 Jul 2026 | ◥◣SINGULARITY◥◣ (TRESOR + AURORA BAR / 2 floors) | DJ CHICHI, DMZ (DE), Irakli, Marcel Fengler, Skungal |
@@ -18,9 +17,10 @@ Tresor / Globus is a music venue in Berlin listed on soundcheck. 31 upcoming nig
 | Sat, 1 Aug 2026 | Tresor Klubnacht | DJ Plant Texture, Developer, Francesco Farfa, Hypnotic Black Magic, Janina, MAEDON, Malika |
 | Mon, 3 Aug 2026 | ◥◣4MP x SINGULARITY◥◣ | CAIVA, Koboyo, Mila Black, SALIMATA, VIVI909 |
 | Wed, 5 Aug 2026 | Büro Siebzig: PÖ LIVE - hosted by Nyege Nyege Festival |  |
+| Wed, 5 Aug 2026 | Tresor New Faces hosted by E2NMN | CESTEK, Gioski, Miss Italia, manu abeca |
 
 ## Address
 
 Köpenickerstrasse 70; Mitte; 10179 Berlin; Germany, Berlin
 
-*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/tresor-globus/)*
+*Updated Sat, 25 Jul 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/tresor-globus/)*

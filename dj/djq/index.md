@@ -1,6 +1,6 @@
 # DJ Q
 
-DJ Q is a Garage and Bass artist with 2 upcoming club dates listed on soundcheck as of Fri, 24 Jul 2026, next at Tank, Sheffield on Sat, 25 Jul 2026.
+DJ Q is a Garage and Bass artist with 2 upcoming club dates listed on soundcheck as of Sat, 25 Jul 2026, next at Tank, Sheffield on Sat, 25 Jul 2026.
 
 DJ Q is a garage and bass artist based in United Kingdom, tracked on soundcheck, with 82 sets logged across Austin, Barcelona, Birmingham and Brisbane and 16 more. Often billed alongside Jamie Duggan, Flava D and Chad Harrison. Next up: Tank, Sheffield on Sat 25 Jul.
 
@@ -26,4 +26,4 @@ DJ Q is a garage and bass artist based in United Kingdom, tracked on soundcheck,
 
 Jamie Duggan, Flava D, Chad Harrison
 
-*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/djq/)*
+*Updated Sat, 25 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/djq/)*

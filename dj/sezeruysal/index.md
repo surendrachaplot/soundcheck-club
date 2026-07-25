@@ -1,6 +1,6 @@
 # Sezer Uysal
 
-Sezer Uysal is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Fri, 24 Jul 2026, next at Nordstern, Basel on Sat, 22 Aug 2026.
+Sezer Uysal is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Sat, 25 Jul 2026, next at Nordstern, Basel on Sat, 22 Aug 2026.
 
 Sezer Uysal is a techno and house artist tracked on soundcheck, with 39 sets logged across Amsterdam, Basel, Berlin and Copenhagen and 14 more. Often billed alongside Afshin Momadi, VIIA and Baime. Next up: Nordstern, Basel on Sat 22 Aug.
 
@@ -26,4 +26,4 @@ Sezer Uysal is a techno and house artist tracked on soundcheck, with 39 sets log
 
 Afshin Momadi, VIIA, Baime
 
-*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/sezeruysal/)*
+*Updated Sat, 25 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/sezeruysal/)*

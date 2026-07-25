@@ -1,6 +1,6 @@
 # Mees Salomé
 
-Mees Salomé is a Techno and House artist with 4 upcoming club dates listed on soundcheck as of Fri, 24 Jul 2026, next at The Great Northern, San Francisco/Oakland on Fri, 31 Jul 2026.
+Mees Salomé is a Techno and House artist with 4 upcoming club dates listed on soundcheck as of Sat, 25 Jul 2026, next at The Great Northern, San Francisco/Oakland on Fri, 31 Jul 2026.
 
 Mees Salomé is a techno and house artist tracked on soundcheck, with 64 sets logged across Amsterdam, Berlin, Brussels and Ibiza and 8 more. Often billed alongside Benny Rodrigues, Miss Melera and Rose Ringed. Next up: The Great Northern, Sanfrancisco on Fri 31 Jul.
 
@@ -28,4 +28,4 @@ Mees Salomé is a techno and house artist tracked on soundcheck, with 64 sets lo
 
 Benny Rodrigues, Miss Melera, Rose Ringed
 
-*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/meessalome/)*
+*Updated Sat, 25 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/meessalome/)*

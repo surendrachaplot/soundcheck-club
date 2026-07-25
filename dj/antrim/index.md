@@ -1,6 +1,6 @@
 # Antrim
 
-Antrim is a Progressive House and Techno artist with 2 upcoming club dates listed on soundcheck as of Fri, 24 Jul 2026, next at TBA - Casa Blanca, Microcentro, Buenos Aires on Sat, 25 Jul 2026.
+Antrim is a Progressive House and Techno artist with 2 upcoming club dates listed on soundcheck as of Sat, 25 Jul 2026, next at TBA - Casa Blanca, Microcentro, Buenos Aires on Sat, 25 Jul 2026.
 
 Antrim is a progressive house and techno artist tracked on soundcheck, with 38 sets logged across Amsterdam, Barcelona, Buenosaires and Dublin and 7 more. Often billed alongside Nicolas Rada, Kamilo Sanclemente and Marcelo Vasami. Next up: TBA - Casa Blanca, Microcentro, Buenosaires on Sat 25 Jul.
 
@@ -26,4 +26,4 @@ Antrim is a progressive house and techno artist tracked on soundcheck, with 38 s
 
 Nicolas Rada, Kamilo Sanclemente, Marcelo Vasami
 
-*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/antrim/)*
+*Updated Sat, 25 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/antrim/)*

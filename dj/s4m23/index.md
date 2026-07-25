@@ -1,6 +1,6 @@
 # S4M23
 
-S4M23 is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Fri, 24 Jul 2026, next at Tresor / Globus, Berlin on Sat, 25 Jul 2026.
+S4M23 is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Sat, 25 Jul 2026, next at Tresor / Globus, Berlin on Sat, 25 Jul 2026.
 
 S4M23 is a techno and house artist tracked on soundcheck, with 69 sets logged across Berlin, Boston, Chicago and Detroit and 5 more. Often billed alongside Mike Servito, Lauren Flax and Miss Parker. Next up: Tresor / Globus, Berlin on Sat 25 Jul.
 
@@ -26,4 +26,4 @@ S4M23 is a techno and house artist tracked on soundcheck, with 69 sets logged ac
 
 Mike Servito, Lauren Flax, Miss Parker
 
-*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/s4m23/)*
+*Updated Sat, 25 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/s4m23/)*

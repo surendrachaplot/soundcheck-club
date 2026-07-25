@@ -1,6 +1,6 @@
 # Nooriyah
 
-Nooriyah is a House and Club artist with 3 upcoming club dates listed on soundcheck as of Fri, 24 Jul 2026, next at TBA - La Citadelle de Marseille , Marseille on Thu, 30 Jul 2026.
+Nooriyah is a House and Club artist with 3 upcoming club dates listed on soundcheck as of Sat, 25 Jul 2026, next at TBA - La Citadelle de Marseille , Marseille on Thu, 30 Jul 2026.
 
 Nooriyah is a house and club artist based in United Kingdom, tracked on soundcheck, with 56 sets logged across Amsterdam, Barcelona, Berlin and Birmingham and 28 more. Often billed alongside NIKS, Jyoty and Soichi Terada. Next up: TBA - La Citadelle de Marseille , Marseille on Thu 30 Jul.
 
@@ -27,4 +27,4 @@ Nooriyah is a house and club artist based in United Kingdom, tracked on soundche
 
 NIKS, Jyoty, Soichi Terada
 
-*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/nooriyah/)*
+*Updated Sat, 25 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/nooriyah/)*

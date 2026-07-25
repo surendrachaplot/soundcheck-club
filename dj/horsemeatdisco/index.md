@@ -1,15 +1,13 @@
 # Horse Meat Disco
 
-Horse Meat Disco is a House and Disco artist with 12 upcoming club dates listed on soundcheck as of Fri, 24 Jul 2026, next at Amnesia Ibiza, Ibiza on Fri, 24 Jul 2026.
+Horse Meat Disco is a House and Disco artist with 10 upcoming club dates listed on soundcheck as of Sat, 25 Jul 2026, next at The Eagle, London on Sun, 26 Jul 2026.
 
-Horse Meat Disco is a house and disco artist tracked on soundcheck, with 371 sets logged across Amsterdam, Antwerp, Athens and Austin and 53 more. Often billed alongside Luke Howard, James Hillard and Severino. Next up: Amnesia Ibiza, Ibiza on Fri 24 Jul.
+Horse Meat Disco is a house and disco artist tracked on soundcheck, with 371 sets logged across Amsterdam, Antwerp, Athens and Austin and 53 more. Often billed alongside Luke Howard, James Hillard and Severino. Next up: The Eagle, London on Sun 26 Jul.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 24 Jul 2026 | Amnesia Ibiza | Ibiza |
-| Fri, 24 Jul 2026 | TBA - M&S Bank Arena | Liverpool |
 | Sun, 26 Jul 2026 | The Eagle | London |
 | Sat, 1 Aug 2026 | Patterns | Brighton |
 | Sat, 1 Aug 2026 | Steelyard Kelham | Sheffield |
@@ -23,17 +21,17 @@ Horse Meat Disco is a house and disco artist tracked on soundcheck, with 371 set
 
 ## Recently played
 
+- Amnesia Ibiza, Ibiza — Fri, 24 Jul 2026
+- TBA - M&S Bank Arena, Liverpool — Fri, 24 Jul 2026
 - The Eagle, London — Sun, 19 Jul 2026
 - Freight Island Newcastle, Newcastle — Sat, 18 Jul 2026
 - Crystal Ballroom, Portland — Fri, 17 Jul 2026
 - The Eagle, London — Sun, 12 Jul 2026
 - Moseley Park, Birmingham — Fri, 10 Jul 2026
 - Amnesia Ibiza, Ibiza — Fri, 10 Jul 2026
-- The Eagle, London — Sun, 5 Jul 2026
-- Amnesia Ibiza, Ibiza — Fri, 3 Jul 2026
 
 ## Shares bills with
 
 Luke Howard, James Hillard, Severino
 
-*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/horsemeatdisco/)*
+*Updated Sat, 25 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/horsemeatdisco/)*

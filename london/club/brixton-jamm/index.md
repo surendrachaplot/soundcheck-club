@@ -1,14 +1,13 @@
 # Brixton Jamm
 
-Brixton Jamm is a music venue in London with 15 upcoming nights listed on soundcheck as of Fri, 24 Jul 2026; the next is "MINDTHEGAP" on Fri, 24 Jul 2026.
+Brixton Jamm is a music venue in London with 14 upcoming nights listed on soundcheck as of Sat, 25 Jul 2026; the next is "Fred Again.. vs Daft Punk" on Sat, 25 Jul 2026.
 
-Brixton Jamm is a music venue in London listed on soundcheck. 15 upcoming nights, with line-ups including Amber Rose, AUDIO DUNE, Deselecta and DJ Brockie and 2 more. Browse upcoming dates, start times and who's playing. 261 Brixton Road; Brixton; London SW9 6LH; United Kingdom.
+Brixton Jamm is a music venue in London listed on soundcheck. 14 upcoming nights, with line-ups including Amber Rose, AUDIO DUNE, Deselecta and DJ Brockie and 2 more. Browse upcoming dates, start times and who's playing. 261 Brixton Road; Brixton; London SW9 6LH; United Kingdom.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Fri, 24 Jul 2026 | MINDTHEGAP | Eurohead, finlince! |
 | Sat, 25 Jul 2026 | Fred Again.. vs Daft Punk |  |
 | Sat, 25 Jul 2026 | AFRODESI London | MR SAJ |
 | Fri, 31 Jul 2026 | Reek0 presents: Step Back and Whine | Amber Rose, LISAKEEKS, Samtheman, Tsunamy |
@@ -18,9 +17,10 @@ Brixton Jamm is a music venue in London listed on soundcheck. 15 upcoming nights
 | Thu, 13 Aug 2026 | Talkofthetown |  |
 | Fri, 14 Aug 2026 | 0220's Jamm: Karim Bitar, Zak Miller  | DJ Ironing Board, Joe Rose, Karim Bitar, Kiwii, Zak Miller |
 | Fri, 14 Aug 2026 | Jungle Splash | DJ Brockie, Deselecta, Nicky Blackmarket, Potential Badboy, The Ragga Twins, Uncle Dugs, karishma |
+| Sat, 15 Aug 2026 | Events in the City PRESENTS: PURPLE CUP DAY PARTY (SUMMER SPLASH) |  |
 
 ## Address
 
 261 Brixton Road; Brixton; London SW9 6LH; United Kingdom, London
 
-*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/london/club/brixton-jamm/)*
+*Updated Sat, 25 Jul 2026 · source: [soundcheck](https://soundcheck.club/london/club/brixton-jamm/)*

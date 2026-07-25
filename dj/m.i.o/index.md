@@ -1,6 +1,6 @@
 # M.I.O
 
-M.I.O is a Bass and Techno artist with 2 upcoming club dates listed on soundcheck as of Fri, 24 Jul 2026, next at Azumaya, Tokyo on Sat, 1 Aug 2026.
+M.I.O is a Bass and Techno artist with 2 upcoming club dates listed on soundcheck as of Sat, 25 Jul 2026, next at Azumaya, Tokyo on Sat, 1 Aug 2026.
 
 M.I.O is a bass and techno artist tracked on soundcheck, with 45 sets logged across London and Tokyo. Often billed alongside akii, Aliceyuki and MUNÉO. Next up: Azumaya, Tokyo on Sat 1 Aug.
 
@@ -26,4 +26,4 @@ M.I.O is a bass and techno artist tracked on soundcheck, with 45 sets logged acr
 
 akii, Aliceyuki, MUNÉO
 
-*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/m.i.o/)*
+*Updated Sat, 25 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/m.i.o/)*

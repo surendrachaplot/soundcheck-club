@@ -1,14 +1,13 @@
 # Charleen Herzig
 
-Charleen Herzig is a Trance and Techno artist with 8 upcoming club dates listed on soundcheck as of Fri, 24 Jul 2026, next at Bootshaus, Cologne on Fri, 24 Jul 2026.
+Charleen Herzig is a Trance and Techno artist with 8 upcoming club dates listed on soundcheck as of Sat, 25 Jul 2026, next at TBA - Near Berlin (Secret Forest), Berlin on Thu, 6 Aug 2026.
 
-Charleen Herzig is a trance and techno artist tracked on soundcheck, with 33 sets logged across Berlin, Cologne, Hamburg and Leipzig and 1 more. Often billed alongside Katy Rough, Limoncello and DETOXX. Next up: Bootshaus, Cologne on Fri 24 Jul.
+Charleen Herzig is a trance and techno artist tracked on soundcheck, with 34 sets logged across Berlin, Cologne, Hamburg and Leipzig and 1 more. Often billed alongside Katy Rough, Limoncello and DETOXX. Next up: TBA - Near Berlin (Secret Forest), Berlin on Thu 6 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 24 Jul 2026 | Bootshaus | Cologne |
 | Thu, 6 Aug 2026 | TBA - Near Berlin (Secret Forest) | Berlin |
 | Fri, 7 Aug 2026 | Waschhaus | Berlin |
 | Fri, 21 Aug 2026 | Südpol | Hamburg |
@@ -16,9 +15,11 @@ Charleen Herzig is a trance and techno artist tracked on soundcheck, with 33 set
 | Sun, 30 Aug 2026 | Sommerbad Neuköln | Berlin |
 | Fri, 11 Sept 2026 | Uebel & Gefährlich | Hamburg |
 | Fri, 9 Oct 2026 | OST | Berlin |
+| Fri, 23 Oct 2026 | OST | Berlin |
 
 ## Recently played
 
+- Bootshaus, Cologne — Fri, 24 Jul 2026
 - OST, Berlin — Sun, 21 Jun 2026
 - Lokschuppen Berlin, Berlin — Fri, 19 Jun 2026
 - ://about blank, Berlin — Fri, 5 Jun 2026
@@ -26,10 +27,9 @@ Charleen Herzig is a trance and techno artist tracked on soundcheck, with 33 set
 - Südpol, Hamburg — Fri, 22 May 2026
 - ://about blank, Berlin — Fri, 15 May 2026
 - OST, Berlin — Thu, 30 Apr 2026
-- Distillery, Leipzig — Fri, 10 Apr 2026
 
 ## Shares bills with
 
 Katy Rough, Limoncello, DETOXX
 
-*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/charleenherzig/)*
+*Updated Sat, 25 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/charleenherzig/)*

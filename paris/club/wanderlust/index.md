@@ -1,6 +1,6 @@
 # Wanderlust
 
-Wanderlust is a music venue in Paris with 4 upcoming nights listed on soundcheck as of Fri, 24 Jul 2026; the next is "Jeudi OK: Hyperbrat + Venom" on Thu, 30 Jul 2026.
+Wanderlust is a music venue in Paris with 4 upcoming nights listed on soundcheck as of Sat, 25 Jul 2026; the next is "Jeudi OK: Hyperbrat + Venom" on Thu, 30 Jul 2026.
 
 Wanderlust is a music venue in Paris listed on soundcheck. 4 upcoming nights, with line-ups including 1NSONGE, A-440, BABY-B and HIBI and 2 more. Browse upcoming dates, start times and who's playing. 32 quai d'Austerlitz, 75013 Paris.
 
@@ -17,4 +17,4 @@ Wanderlust is a music venue in Paris listed on soundcheck. 4 upcoming nights, wi
 
 32 quai d'Austerlitz, 75013 Paris, Paris
 
-*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/paris/club/wanderlust/)*
+*Updated Sat, 25 Jul 2026 · source: [soundcheck](https://soundcheck.club/paris/club/wanderlust/)*

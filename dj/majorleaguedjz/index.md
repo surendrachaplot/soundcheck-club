@@ -1,14 +1,13 @@
 # Major League Djz
 
-Major League Djz is a Afro House and House artist with 15 upcoming club dates listed on soundcheck as of Fri, 24 Jul 2026, next at Chinois Ibiza, Ibiza on Fri, 24 Jul 2026.
+Major League Djz is a Afro House and House artist with 14 upcoming club dates listed on soundcheck as of Sat, 25 Jul 2026, next at Chinois Ibiza, Ibiza on Fri, 31 Jul 2026.
 
-Major League Djz is an afro house and house artist tracked on soundcheck, with 100 sets logged across Amsterdam, Austin, Barcelona and Brussels and 25 more. Often billed alongside Honey Dijon, DJ Tennis and Kitty Amor. Next up: Chinois Ibiza, Ibiza on Fri 24 Jul.
+Major League Djz is an afro house and house artist tracked on soundcheck, with 100 sets logged across Amsterdam, Austin, Barcelona and Brussels and 25 more. Often billed alongside Honey Dijon, DJ Tennis and Kitty Amor. Next up: Chinois Ibiza, Ibiza on Fri 31 Jul.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 24 Jul 2026 | Chinois Ibiza | Ibiza |
 | Fri, 31 Jul 2026 | Chinois Ibiza | Ibiza |
 | Fri, 7 Aug 2026 | Chinois Ibiza | Ibiza |
 | Fri, 14 Aug 2026 | Chinois Ibiza | Ibiza |
@@ -20,9 +19,11 @@ Major League Djz is an afro house and house artist tracked on soundcheck, with 1
 | Fri, 11 Sept 2026 | Chinois Ibiza | Ibiza |
 | Fri, 18 Sept 2026 | Chinois Ibiza | Ibiza |
 | Fri, 25 Sept 2026 | Chinois Ibiza | Ibiza |
+| Mon, 28 Sept 2026 | Hï Ibiza | Ibiza |
 
 ## Recently played
 
+- Chinois Ibiza, Ibiza — Fri, 24 Jul 2026
 - Chinois Ibiza, Ibiza — Fri, 17 Jul 2026
 - Echostage, Washington DC — Sat, 11 Jul 2026
 - Chinois Ibiza, Ibiza — Fri, 10 Jul 2026
@@ -30,10 +31,9 @@ Major League Djz is an afro house and house artist tracked on soundcheck, with 1
 - Chinois Ibiza, Ibiza — Fri, 3 Jul 2026
 - Chinois Ibiza, Ibiza — Fri, 26 Jun 2026
 - Chinois Ibiza, Ibiza — Fri, 19 Jun 2026
-- Ives Rd, London, E16 4SH, London — Sun, 14 Jun 2026
 
 ## Shares bills with
 
 Honey Dijon, DJ Tennis, Kitty Amor
 
-*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/majorleaguedjz/)*
+*Updated Sat, 25 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/majorleaguedjz/)*

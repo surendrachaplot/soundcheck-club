@@ -1,6 +1,6 @@
 # Heavee
 
-Heavee is a Footwork and Club artist with 2 upcoming club dates listed on soundcheck as of Fri, 24 Jul 2026, next at Hollywood Beach, Chicago on Sun, 26 Jul 2026.
+Heavee is a Footwork and Club artist with 2 upcoming club dates listed on soundcheck as of Sat, 25 Jul 2026, next at Hollywood Beach, Chicago on Sun, 26 Jul 2026.
 
 Heavee is a footwork and club artist tracked on soundcheck, with 35 sets logged across Amsterdam, Berlin, Brussels and Bucharest and 8 more. Often billed alongside Big Dope P, Kode9 and avas. Next up: Hollywood Beach, Chicago on Sun 26 Jul.
 
@@ -26,4 +26,4 @@ Heavee is a footwork and club artist tracked on soundcheck, with 35 sets logged 
 
 Big Dope P, Kode9, avas
 
-*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/heavee/)*
+*Updated Sat, 25 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/heavee/)*

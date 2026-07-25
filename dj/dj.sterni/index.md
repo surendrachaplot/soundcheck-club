@@ -1,8 +1,8 @@
 # sterni (DE)
 
-sterni (DE) is a Techno and Trance artist with 2 upcoming club dates listed on soundcheck as of Fri, 24 Jul 2026, next at YAAM Berlin, Berlin on Sun, 2 Aug 2026.
+sterni (DE) is a Techno and Trance artist with 3 upcoming club dates listed on soundcheck as of Sat, 25 Jul 2026, next at YAAM Berlin, Berlin on Sun, 2 Aug 2026.
 
-sterni (DE) is a techno and trance artist based in Germany, tracked on soundcheck, with 33 sets logged across Berlin and Munich. Often billed alongside 20_5_3_8_14_15, m4tsch1 and 4NOUK. Next up: YAAM Berlin, Berlin on Sun 2 Aug.
+sterni (DE) is a techno and trance artist based in Germany, tracked on soundcheck, with 34 sets logged across Berlin and Munich. Often billed alongside 20_5_3_8_14_15, m4tsch1 and 4NOUK. Next up: YAAM Berlin, Berlin on Sun 2 Aug.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ sterni (DE) is a techno and trance artist based in Germany, tracked on soundchec
 | --- | --- | --- |
 | Sun, 2 Aug 2026 | YAAM Berlin | Berlin |
 | Fri, 21 Aug 2026 | ÆDEN | Berlin |
+| Fri, 23 Oct 2026 | ÆDEN | Berlin |
 
 ## Recently played
 
@@ -26,4 +27,4 @@ sterni (DE) is a techno and trance artist based in Germany, tracked on soundchec
 
 20_5_3_8_14_15, m4tsch1, 4NOUK
 
-*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/dj.sterni/)*
+*Updated Sat, 25 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/dj.sterni/)*

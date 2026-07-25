@@ -1,14 +1,13 @@
 # Cafeteria
 
-Cafeteria is a music venue in Toronto with 10 upcoming nights listed on soundcheck as of Fri, 24 Jul 2026; the next is "LOVESTAR PRESENTS: THE PARTY VOL II" on Fri, 24 Jul 2026.
+Cafeteria is a music venue in Toronto with 9 upcoming nights listed on soundcheck as of Sat, 25 Jul 2026; the next is "unimmune: Techg1rls" on Sat, 25 Jul 2026.
 
-Cafeteria is a music venue in Toronto listed on soundcheck. 10 upcoming nights, with line-ups including 10cust, Ana Luisa, Ard1n and BOOTYCORNFED and 2 more. Browse upcoming dates, start times and who's playing. 1650 Dupont St, Toronto, ON M6P 3T2, Canada.
+Cafeteria is a music venue in Toronto listed on soundcheck. 9 upcoming nights, with line-ups including 10cust, Ana Luisa, BOOTYCORNFED and Ciel and 2 more. Browse upcoming dates, start times and who's playing. 1650 Dupont St, Toronto, ON M6P 3T2, Canada.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Fri, 24 Jul 2026 | LOVESTAR PRESENTS: THE PARTY VOL II | Ard1n, GUSSYEE, OGQT, myst milano. |
 | Sat, 25 Jul 2026 | unimmune: Techg1rls | Indie Sleaze, Miguel Angeles, OGQT, Techg1rls |
 | Fri, 31 Jul 2026 | Toronto Against Apartheid II | BOOTYCORNFED, Ciel, Rabzi, Rami Nassif, Shen (2), maiiii |
 | Sat, 1 Aug 2026 | BOKETTO ANNIVERSARY PARTY | prayinsecret, sopretty |
@@ -23,4 +22,4 @@ Cafeteria is a music venue in Toronto listed on soundcheck. 10 upcoming nights, 
 
 1650 Dupont St, Toronto, ON M6P 3T2, Canada, Toronto
 
-*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/toronto/club/cafeteria/)*
+*Updated Sat, 25 Jul 2026 · source: [soundcheck](https://soundcheck.club/toronto/club/cafeteria/)*

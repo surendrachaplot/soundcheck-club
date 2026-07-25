@@ -1,6 +1,6 @@
 # APP
 
-APP is a electronic artist with 123 upcoming club dates listed on soundcheck as of Fri, 24 Jul 2026, next at Institut fuer Zukunft (IfZ), Leipzig on Sat, 25 Jul 2026.
+APP is a electronic artist with 123 upcoming club dates listed on soundcheck as of Sat, 25 Jul 2026, next at Institut fuer Zukunft (IfZ), Leipzig on Sat, 25 Jul 2026.
 
 APP is an electronic artist based in United Kingdom, tracked on soundcheck, with 123 sets logged across Amsterdam, Bali, Barcelona and Berlin and 43 more. Often billed alongside AMEX (UK), Alaska (2) and Debit. Next up: Institut fuer Zukunft (IfZ), Leipzig on Sat 25 Jul.
 
@@ -25,4 +25,4 @@ APP is an electronic artist based in United Kingdom, tracked on soundcheck, with
 
 AMEX (UK), Alaska (2), Debit
 
-*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/app/)*
+*Updated Sat, 25 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/app/)*

@@ -1,14 +1,13 @@
 # Razzmatazz
 
-Razzmatazz is a music venue in Barcelona with 14 upcoming nights listed on soundcheck as of Fri, 24 Jul 2026; the next is "RAZZCLUBS:  Anita B Queen + Disobey Soundsystem Closing: El WiWi + Virtual Flavor + 666ata " on Fri, 24 Jul 2026.
+Razzmatazz is a music venue in Barcelona with 13 upcoming nights listed on soundcheck as of Sat, 25 Jul 2026; the next is "BMT: Club Angel / Dr. Rubinstein / Bloody Mary / Brieela / PNC Radio / more" on Sat, 25 Jul 2026.
 
-Razzmatazz is a music venue in Barcelona listed on soundcheck. 14 upcoming nights, with line-ups including 8Kitoo, Alienata, Alírio and Amaliah and 2 more. Browse upcoming dates, start times and who's playing. C Almogavers 122 - C Pamplona 88; Barcelona; Spain.
+Razzmatazz is a music venue in Barcelona listed on soundcheck. 13 upcoming nights, with line-ups including 8Kitoo, Alienata, Alírio and Amaliah and 2 more. Browse upcoming dates, start times and who's playing. C Almogavers 122 - C Pamplona 88; Barcelona; Spain.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Fri, 24 Jul 2026 | RAZZCLUBS:  Anita B Queen + Disobey Soundsystem Closing: El WiWi + Virtual Flavor + 666ata  | Anita B Queen, DJ2D2, Drizzyclare, Kaidara, Pentola, PethbUri, RUXI, Virtual Flavor |
 | Sat, 25 Jul 2026 | BMT: Club Angel / Dr. Rubinstein / Bloody Mary / Brieela / PNC Radio / more | Bloody Mary, Brieela, Club Angel, Dirti Larita, Dr. Rubinstein, La Kosh, RUXI, Roto |
 | Fri, 31 Jul 2026 | RAZZCLUBS: Antidoto Club: Zengxrl + Unsho + Curated by ENGALANAN: Makadsi  | Alírio, Diego Armando, ENGALANAN, Makadsi, Unsho, Yosef (ES), Zengxrl, flirty800 |
 | Sat, 1 Aug 2026 | RAZZCLUBS:  Kitty Ca$h + Drea + Nene H + Hyperaktivist + olesia  | Carolina, DJ KETAFLUSH, Dirti Larita, Doppelganger, Drea, Fakeguido, Hyperaktivist, Kaidara, Nene H, Speare, Toner, olesia |
@@ -18,9 +17,10 @@ Razzmatazz is a music venue in Barcelona listed on soundcheck. 14 upcoming night
 | Fri, 21 Aug 2026 | RAZZCLUBS: Amaliah + Nahoomie + Antidoto Club: Vagabund & MORE | Amaliah, Clandestine, Claudia, DARÍO, INEXXSTABLE, L4I4, Nahoomie, Vagabund, Verushka, Yosef (ES) |
 | Sat, 22 Aug 2026 | RAZZCLUBS:  Saint Ludo + NUMEN: Regis Live + Kwartz + Oran Ray Live & MORE | DJohnston, Kaidara, Kwartz, Rachael (ES), Regis, Saint Ludo, Speaks Silence, Sushinigami, Sylvia (ES) |
 | Fri, 28 Aug 2026 | RAZZCLUBS: Havana x Fuego: Tsunami + Afri k + Drizzyclare - Powered By Greenlight Sound System | DJ2D2, Drizzyclare, PethbUri, Sushinigami, Toner, Tsunami |
+| Sat, 29 Aug 2026 | RAZZCLUBS: Donis + Drea + Wata Igarashi + Desireé Falessi + Alienata & Anika Kunst & MORE | Alienata, Anika Kunst, CarDona, Donis, Drea, Hi-Ki, Martí Cros, Wata Igarashi |
 
 ## Address
 
 C Almogavers 122 - C Pamplona 88; Barcelona; Spain, Barcelona
 
-*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/razzmatazz/)*
+*Updated Sat, 25 Jul 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/razzmatazz/)*

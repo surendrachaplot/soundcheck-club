@@ -1,8 +1,8 @@
 # Simon Vuarambon
 
-Simon Vuarambon is a Progressive House and Deep House artist with 3 upcoming club dates listed on soundcheck as of Fri, 24 Jul 2026, next at Ritter Butzke, Berlin on Fri, 14 Aug 2026.
+Simon Vuarambon is a Progressive House and Deep House artist with 4 upcoming club dates listed on soundcheck as of Sat, 25 Jul 2026, next at Ritter Butzke, Berlin on Fri, 14 Aug 2026.
 
-Simon Vuarambon is a progressive house and deep house artist tracked on soundcheck, with 64 sets logged across Amsterdam, Barcelona, Berlin and Bristol and 21 more. Often billed alongside John Digweed, Guy Mantzur and Henry Saiz. Next up: Ritter Butzke, Berlin on Fri 14 Aug.
+Simon Vuarambon is a progressive house and deep house artist tracked on soundcheck, with 65 sets logged across Amsterdam, Barcelona, Berlin and Bristol and 21 more. Often billed alongside Guy Mantzur, John Digweed and Henry Saiz. Next up: Ritter Butzke, Berlin on Fri 14 Aug.
 
 ## Upcoming shows
 
@@ -11,6 +11,7 @@ Simon Vuarambon is a progressive house and deep house artist tracked on soundche
 | Fri, 14 Aug 2026 | Ritter Butzke | Berlin |
 | Sat, 15 Aug 2026 | The Grand Social | Dublin |
 | Sat, 22 Aug 2026 | VENT | Tokyo |
+| Fri, 23 Oct 2026 | WestWeelde | Amsterdam |
 
 ## Recently played
 
@@ -25,6 +26,6 @@ Simon Vuarambon is a progressive house and deep house artist tracked on soundche
 
 ## Shares bills with
 
-John Digweed, Guy Mantzur, Henry Saiz
+Guy Mantzur, John Digweed, Henry Saiz
 
-*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/simonvuarambon/)*
+*Updated Sat, 25 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/simonvuarambon/)*

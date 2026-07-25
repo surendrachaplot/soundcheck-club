@@ -1,15 +1,13 @@
 # Doka
 
-Doka is a music venue in Amsterdam with 10 upcoming nights listed on soundcheck as of Fri, 24 Jul 2026; the next is "Doka Summer Studio x Last Seen" on Fri, 24 Jul 2026.
+Doka is a music venue in Amsterdam with 8 upcoming nights listed on soundcheck as of Sat, 25 Jul 2026; the next is "Doka Summer Studio x Jaguar House" on Sat, 25 Jul 2026.
 
-Doka is a music venue in Amsterdam listed on soundcheck. 10 upcoming nights, with line-ups including Coco Coquelicot, da Graca Brothers, Franco Strato and Gizem and 2 more. Browse upcoming dates, start times and who's playing. Wibautstraat 150, 1091 GR Amsterdam, Netherlands.
+Doka is a music venue in Amsterdam listed on soundcheck. 8 upcoming nights, with line-ups including Coco Coquelicot, da Graca Brothers, Franco Strato and Intergalactic Gary and 2 more. Browse upcoming dates, start times and who's playing. Wibautstraat 150, 1091 GR Amsterdam, Netherlands.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Fri, 24 Jul 2026 | Doka Summer Studio x Last Seen | Gizem, no service |
-| Fri, 24 Jul 2026 | Last Seen | Gizem, Gizem Öz, no service |
 | Sat, 25 Jul 2026 | Doka Summer Studio x Jaguar House | Franco Strato, Mary Olivetti, da Graca Brothers |
 | Sat, 25 Jul 2026 | Doka Summer Studio x Jaguar House |  |
 | Thu, 30 Jul 2026 | Doka Studio x As The World Turns with Tama Sumo - Rob Manga (World Pride) | Rob Manga, Tama Sumo, some out of none |
@@ -23,4 +21,4 @@ Doka is a music venue in Amsterdam listed on soundcheck. 10 upcoming nights, wit
 
 Wibautstraat 150, 1091 GR Amsterdam, Netherlands, Amsterdam
 
-*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/doka/)*
+*Updated Sat, 25 Jul 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/doka/)*

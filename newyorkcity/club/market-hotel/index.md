@@ -1,20 +1,21 @@
 # Market Hotel
 
-Market Hotel is a music venue in New York City with 4 upcoming nights listed on soundcheck as of Fri, 24 Jul 2026; the next is "MUSIC, FASHION, FILM ALBUM RELEASE PARTY: A CHARLI XCX PARTY" on Fri, 24 Jul 2026.
+Market Hotel is a music venue in New York City with 5 upcoming nights listed on soundcheck as of Sat, 25 Jul 2026; the next is "The EURODANCE Party" on Sat, 25 Jul 2026.
 
-Market Hotel is a music venue in Newyorkcity listed on soundcheck. 4 upcoming nights. Browse upcoming dates, start times and who's playing. 1140 Myrtle Avenue; Brooklyn, NY 11206; United States.
+Market Hotel is a music venue in Newyorkcity listed on soundcheck. 5 upcoming nights. Browse upcoming dates, start times and who's playing. 1140 Myrtle Avenue; Brooklyn, NY 11206; United States.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Fri, 24 Jul 2026 | MUSIC, FASHION, FILM ALBUM RELEASE PARTY: A CHARLI XCX PARTY |  |
 | Sat, 25 Jul 2026 | The EURODANCE Party |  |
 | Thu, 30 Jul 2026 | The Renaissance Anniversary Party |  |
 | Sat, 1 Aug 2026 | THE RECESSION POP PARTY! PARTY LIKE IT'S 2008 |  |
+| Sat, 8 Aug 2026 | JB vs 1D: JUSTIN BIEBER & ONE DIRECTION PARTY |  |
+| Sat, 15 Aug 2026 | GOTHIQUE HOTEL: GOTH, DARKWAVE, NEWWAVE, POSTPUNK PARTY |  |
 
 ## Address
 
 1140 Myrtle Avenue; Brooklyn, NY 11206; United States, New York City
 
-*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/market-hotel/)*
+*Updated Sat, 25 Jul 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/market-hotel/)*

@@ -1,6 +1,6 @@
 # Michael Magnan
 
-Michael Magnan is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Fri, 24 Jul 2026, next at Le Bain, New York City on Sat, 25 Jul 2026.
+Michael Magnan is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Sat, 25 Jul 2026, next at Le Bain, New York City on Sat, 25 Jul 2026.
 
 Michael Magnan is a house and techno artist based in United States of America, tracked on soundcheck, with 81 sets logged across Losangeles, Mexicocity, Newyorkcity and Sanfrancisco and 2 more. Often billed alongside Physical Therapy, Nita Aviance and Fatherhood. Next up: Le Bain, Newyorkcity on Sat 25 Jul.
 
@@ -26,4 +26,4 @@ Michael Magnan is a house and techno artist based in United States of America, t
 
 Physical Therapy, Nita Aviance, Fatherhood
 
-*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/michaelmagnan/)*
+*Updated Sat, 25 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/michaelmagnan/)*

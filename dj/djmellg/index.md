@@ -1,8 +1,8 @@
 # DJ MELL G
 
-DJ MELL G is a Techno and House artist with 5 upcoming club dates listed on soundcheck as of Fri, 24 Jul 2026, next at Else, Berlin on Fri, 31 Jul 2026.
+DJ MELL G is a Techno and House artist with 6 upcoming club dates listed on soundcheck as of Sat, 25 Jul 2026, next at Else, Berlin on Fri, 31 Jul 2026.
 
-DJ MELL G is a techno and house artist tracked on soundcheck, with 180 sets logged across Amsterdam, Antwerp, Barcelona and Basel and 40 more. Often billed alongside DJ Stingray 313, Newinfluenzer and Cyan85. Next up: Else, Berlin on Fri 31 Jul.
+DJ MELL G is a techno and house artist tracked on soundcheck, with 181 sets logged across Amsterdam, Antwerp, Barcelona and Basel and 40 more. Often billed alongside DJ Stingray 313, Newinfluenzer and Cyan85. Next up: Else, Berlin on Fri 31 Jul.
 
 ## Upcoming shows
 
@@ -13,6 +13,7 @@ DJ MELL G is a techno and house artist tracked on soundcheck, with 180 sets logg
 | Sat, 15 Aug 2026 | 131 Mccormack St | Toronto |
 | Fri, 21 Aug 2026 | Garage Noord | Amsterdam |
 | Sat, 22 Aug 2026 | Phoxxi Green Area | Hamburg |
+| Fri, 23 Oct 2026 | Melkweg | Amsterdam |
 
 ## Recently played
 
@@ -29,4 +30,4 @@ DJ MELL G is a techno and house artist tracked on soundcheck, with 180 sets logg
 
 DJ Stingray 313, Newinfluenzer, Cyan85
 
-*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/djmellg/)*
+*Updated Sat, 25 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/djmellg/)*

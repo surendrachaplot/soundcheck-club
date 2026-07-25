@@ -1,6 +1,6 @@
 # HASHTAGPOPE
 
-HASHTAGPOPE is a Breakbeat and Bass artist with 2 upcoming club dates listed on soundcheck as of Fri, 24 Jul 2026, next at Cakeshop, Seoul on Sat, 25 Jul 2026.
+HASHTAGPOPE is a Breakbeat and Bass artist with 2 upcoming club dates listed on soundcheck as of Sat, 25 Jul 2026, next at Cakeshop, Seoul on Sat, 25 Jul 2026.
 
 HASHTAGPOPE is a breakbeat and bass artist based in South Korea, tracked on soundcheck, with 38 sets logged across Seoul and Tokyo. Often billed alongside Nimvy, Tabris and AEIDA. Next up: Cakeshop, Seoul on Sat 25 Jul.
 
@@ -26,4 +26,4 @@ HASHTAGPOPE is a breakbeat and bass artist based in South Korea, tracked on soun
 
 Nimvy, Tabris, AEIDA
 
-*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/hashtagpope/)*
+*Updated Sat, 25 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/hashtagpope/)*

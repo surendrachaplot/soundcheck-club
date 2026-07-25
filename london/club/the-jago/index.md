@@ -1,15 +1,13 @@
 # The Jago
 
-The Jago is a music venue in London with 7 upcoming nights listed on soundcheck as of Fri, 24 Jul 2026; the next is "Persian Love presents BANDARI & DESERT DANCE" on Fri, 24 Jul 2026.
+The Jago is a music venue in London with 5 upcoming nights listed on soundcheck as of Sat, 25 Jul 2026; the next is "CARAVAN SUMMER EDITION" on Thu, 6 Aug 2026.
 
-The Jago is a music venue in London listed on soundcheck. 7 upcoming nights, with line-ups including chrs apula, Dom Ore, JuicySteamedHams and karishma and 2 more. Browse upcoming dates, start times and who's playing. 440 Kingsland Road, E8 4AA London, United Kingdom.
+The Jago is a music venue in London listed on soundcheck. 5 upcoming nights, with line-ups including Dom Ore, JuicySteamedHams, karishma and Missy T and 2 more. Browse upcoming dates, start times and who's playing. 440 Kingsland Road, E8 4AA London, United Kingdom.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Fri, 24 Jul 2026 | Persian Love presents BANDARI & DESERT DANCE | Milli |
-| Fri, 24 Jul 2026 | this is a club moto party 003 | PHIZ, Paydro, chrs apula, nomie |
 | Thu, 6 Aug 2026 | CARAVAN SUMMER EDITION |  |
 | Fri, 7 Aug 2026 | Full Clip Magazine Issue #40: Hoochinoo Live & UKHHdotcom |  |
 | Sat, 8 Aug 2026 | Novo Tempo |  |
@@ -20,4 +18,4 @@ The Jago is a music venue in London listed on soundcheck. 7 upcoming nights, wit
 
 440 Kingsland Road, E8 4AA London, United Kingdom, London
 
-*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/london/club/the-jago/)*
+*Updated Sat, 25 Jul 2026 · source: [soundcheck](https://soundcheck.club/london/club/the-jago/)*

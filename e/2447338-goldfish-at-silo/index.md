@@ -1,6 +1,6 @@
 # Goldfish at SILO
 
-Goldfish at SILO on Fri 31 Jul, Newyorkcity. 1 act on the bill: Goldfish. House and Deep House. Preview the line-up and save it on soundcheck.
+Goldfish at SILO on Fri 31 Jul, Newyorkcity. 2 acts on the bill: Goldfish and branqueeno. House and Deep House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -11,5 +11,6 @@ Goldfish at SILO on Fri 31 Jul, Newyorkcity. 1 act on the bill: Goldfish. House 
 ## Line-up
 
 - Goldfish
+- branqueeno
 
 *Source: [soundcheck](https://soundcheck.club/e/2447338-goldfish-at-silo/)*

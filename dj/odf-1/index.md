@@ -1,6 +1,6 @@
 # ODF (1)
 
-ODF (1) is a Garage and House artist with 2 upcoming club dates listed on soundcheck as of Fri, 24 Jul 2026, next at Boston Manor Park, London on Fri, 31 Jul 2026.
+ODF (1) is a Garage and House artist with 2 upcoming club dates listed on soundcheck as of Sat, 25 Jul 2026, next at Boston Manor Park, London on Fri, 31 Jul 2026.
 
 ODF (1) is a garage and house artist based in United Kingdom, tracked on soundcheck, with 61 sets logged across Brighton, Brisbane, Bristol and Cork and 8 more. Often billed alongside Fiaa, Jackum and harpriya. Next up: Boston Manor Park, London on Fri 31 Jul.
 
@@ -26,4 +26,4 @@ ODF (1) is a garage and house artist based in United Kingdom, tracked on soundch
 
 Fiaa, Jackum, harpriya
 
-*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/odf-1/)*
+*Updated Sat, 25 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/odf-1/)*

@@ -1,14 +1,13 @@
 # Trädgården
 
-Trädgården is a music venue in Stockholm with 17 upcoming nights listed on soundcheck as of Fri, 24 Jul 2026; the next is "TONOTOPI, TANDEM" on Fri, 24 Jul 2026.
+Trädgården is a music venue in Stockholm with 16 upcoming nights listed on soundcheck as of Sat, 25 Jul 2026; the next is "Sonja Moonear, MAJKEL KOKO" on Sat, 25 Jul 2026.
 
-Trädgården is a music venue in Stockholm listed on soundcheck. 17 upcoming nights, with line-ups including Amaliah, Anthony Linell, Behrang Mohammadi and Bella Sarris and 2 more. Browse upcoming dates, start times and who's playing. Hammarby Slussväg 2, 118 60 Stockholm, Sweden.
+Trädgården is a music venue in Stockholm listed on soundcheck. 16 upcoming nights, with line-ups including Amaliah, Anthony Linell, Behrang Mohammadi and Bella Sarris and 2 more. Browse upcoming dates, start times and who's playing. Hammarby Slussväg 2, 118 60 Stockholm, Sweden.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Fri, 24 Jul 2026 | TONOTOPI, TANDEM |  |
 | Sat, 25 Jul 2026 | Sonja Moonear, MAJKEL KOKO | Sonja Moonear |
 | Sat, 25 Jul 2026 | DANCE NIGHTS: Sonja Moonear | Sonja Moonear |
 | Tue, 28 Jul 2026 | PRIDE GARDEN: TUESDAY | Nadine Noor, Oscar Nñ |
@@ -18,9 +17,10 @@ Trädgården is a music venue in Stockholm listed on soundcheck. 17 upcoming nig
 | Sat, 1 Aug 2026 | SMIILE :) STOCKHOLM | Chloé Caillet, Dee Diggs, Fafi Abdel Nour, ISAbella, Mattias El Mansouri, Ultra Naté |
 | Thu, 6 Aug 2026 | Skin On Skin, Fatuma, L-Roy | Skin On Skin |
 | Fri, 7 Aug 2026 | Behrang Mohammadi, Nila Roe | Behrang Mohammadi |
+| Sat, 8 Aug 2026 | Amaliah & Mental DJs | Amaliah, Prescott, dj døden |
 
 ## Address
 
 Hammarby Slussväg 2, 118 60 Stockholm, Sweden, Stockholm
 
-*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/stockholm/club/tr-dg-rden/)*
+*Updated Sat, 25 Jul 2026 · source: [soundcheck](https://soundcheck.club/stockholm/club/tr-dg-rden/)*

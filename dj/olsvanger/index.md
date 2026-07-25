@@ -1,6 +1,6 @@
 # Olsvangèr
 
-Olsvangèr is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Fri, 24 Jul 2026, next at Thuishaven, Amsterdam on Sat, 25 Jul 2026.
+Olsvangèr is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Sat, 25 Jul 2026, next at Thuishaven, Amsterdam on Sat, 25 Jul 2026.
 
 Olsvangèr is a house and techno artist tracked on soundcheck, with 71 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 21 more. Often billed alongside MYKI, Niklas Wandt and Bijon. Next up: Thuishaven, Amsterdam on Sat 25 Jul.
 
@@ -26,4 +26,4 @@ Olsvangèr is a house and techno artist tracked on soundcheck, with 71 sets logg
 
 MYKI, Niklas Wandt, Bijon
 
-*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/olsvanger/)*
+*Updated Sat, 25 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/olsvanger/)*

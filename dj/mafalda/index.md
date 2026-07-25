@@ -1,6 +1,6 @@
 # Mafalda
 
-Mafalda is a Disco and House artist with 2 upcoming club dates listed on soundcheck as of Fri, 24 Jul 2026, next at Strange Brew, Bristol on Sat, 25 Jul 2026.
+Mafalda is a Disco and House artist with 2 upcoming club dates listed on soundcheck as of Sat, 25 Jul 2026, next at Strange Brew, Bristol on Sat, 25 Jul 2026.
 
 Mafalda is a disco and house artist tracked on soundcheck, with 82 sets logged across Amsterdam, Antwerp, Barcelona and Berlin and 14 more. Often billed alongside Seiji Ono, Theo Terev and Red Greg. Next up: Strange Brew, Bristol on Sat 25 Jul.
 
@@ -26,4 +26,4 @@ Mafalda is a disco and house artist tracked on soundcheck, with 82 sets logged a
 
 Seiji Ono, Theo Terev, Red Greg
 
-*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/mafalda/)*
+*Updated Sat, 25 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/mafalda/)*

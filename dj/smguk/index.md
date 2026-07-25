@@ -1,8 +1,8 @@
 # SMG (UK)
 
-SMG (UK) is a Drum & Bass and Jungle artist with 5 upcoming club dates listed on soundcheck as of Fri, 24 Jul 2026, next at The Clock Factory, Bristol on Sat, 25 Jul 2026.
+SMG (UK) is a Drum & Bass and Jungle artist with 6 upcoming club dates listed on soundcheck as of Sat, 25 Jul 2026, next at The Clock Factory, Bristol on Sat, 25 Jul 2026.
 
-SMG (UK) is a drum & bass and jungle artist tracked on soundcheck, with 7 sets logged across Bristol, Madrid, Malta and Manchester and 1 more. Often billed alongside Bryan Gee, Calyx and Dillinja. Next up: The Clock Factory, Bristol on Sat 25 Jul.
+SMG (UK) is a drum & bass and jungle artist tracked on soundcheck, with 8 sets logged across Bristol, London, Madrid and Malta and 2 more. Often billed alongside Skantia, Waeys and Bryan Gee. Next up: The Clock Factory, Bristol on Sat 25 Jul.
 
 ## Upcoming shows
 
@@ -13,6 +13,7 @@ SMG (UK) is a drum & bass and jungle artist tracked on soundcheck, with 7 sets l
 | Sat, 29 Aug 2026 | LAB theCLUB | Madrid |
 | Thu, 3 Sept 2026 | UNO MALTA | Malta |
 | Sat, 12 Sept 2026 | Sawmills | Bristol |
+| Fri, 23 Oct 2026 | fabric | London |
 
 ## Recently played
 
@@ -21,6 +22,6 @@ SMG (UK) is a drum & bass and jungle artist tracked on soundcheck, with 7 sets l
 
 ## Shares bills with
 
-Bryan Gee, Calyx, Dillinja
+Skantia, Waeys, Bryan Gee
 
-*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/smguk/)*
+*Updated Sat, 25 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/smguk/)*

@@ -1,6 +1,6 @@
 # Paradise Palms
 
-Paradise Palms is a music venue in Edinburgh with 2 upcoming nights listed on soundcheck as of Fri, 24 Jul 2026; the next is "Jacuzzi General" on Sat, 25 Jul 2026.
+Paradise Palms is a music venue in Edinburgh with 2 upcoming nights listed on soundcheck as of Sat, 25 Jul 2026; the next is "Jacuzzi General" on Sat, 25 Jul 2026.
 
 Paradise Palms is a music venue in Edinburgh listed on soundcheck. 2 upcoming nights, with line-ups including Jacuzzi General and Sara Delirio. Browse upcoming dates, start times and who's playing. 41 Lothian Street, EH6 6BU, Edinburgh, Scotland, United Kingdom.
 
@@ -15,4 +15,4 @@ Paradise Palms is a music venue in Edinburgh listed on soundcheck. 2 upcoming ni
 
 41 Lothian Street, EH6 6BU, Edinburgh, Scotland, United Kingdom, Edinburgh
 
-*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/edinburgh/club/paradise-palms/)*
+*Updated Sat, 25 Jul 2026 · source: [soundcheck](https://soundcheck.club/edinburgh/club/paradise-palms/)*

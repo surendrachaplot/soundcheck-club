@@ -1,14 +1,13 @@
 # Yamamori Tengu
 
-Yamamori Tengu is a music venue in Dublin with 13 upcoming nights listed on soundcheck as of Fri, 24 Jul 2026; the next is "illicit: Dave Angel" on Fri, 24 Jul 2026.
+Yamamori Tengu is a music venue in Dublin with 12 upcoming nights listed on soundcheck as of Sat, 25 Jul 2026; the next is "Tengu presents: Sonic Explorations with Bloop Groop" on Sat, 25 Jul 2026.
 
-Yamamori Tengu is a music venue in Dublin listed on soundcheck. 13 upcoming nights, with line-ups including ANNĒ, Dave Angel, DJ Get Luc(y) and Efa O'Neill and 2 more. Browse upcoming dates, start times and who's playing. 37 Strand Street Great, North City, Dublin 1, Ireland.
+Yamamori Tengu is a music venue in Dublin listed on soundcheck. 12 upcoming nights, with line-ups including ANNĒ, DJ Get Luc(y), Efa O'Neill and Gavin Rochford and 2 more. Browse upcoming dates, start times and who's playing. 37 Strand Street Great, North City, Dublin 1, Ireland.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Fri, 24 Jul 2026 | illicit: Dave Angel | Dave Angel, EMMIE, JUSTDYL |
 | Sat, 25 Jul 2026 | Tengu presents: Sonic Explorations with Bloop Groop | Greg Oleksevic |
 | Fri, 7 Aug 2026 | Sunburst Sound presents: DJ MARFOX [Príncipe Discos] |  |
 | Sat, 8 Aug 2026 | Tengu presents: Efa O'Neill All Night Long | Efa O'Neill |
@@ -18,9 +17,10 @@ Yamamori Tengu is a music venue in Dublin listed on soundcheck. 13 upcoming nigh
 | Sat, 22 Aug 2026 | A Night Of Soundsystem Culture II | Rub A Dub HiFi |
 | Sat, 29 Aug 2026 | Tengu x Supper presents: Magda | Magda, Mercorn, Nev Jio, Royce Larøca |
 | Sat, 5 Sept 2026 | Tengu presents: Sunil Sharpe All Night Long | Sunil Sharpe |
+| Thu, 10 Sept 2026 | Tengu Jazz: Michael Buckley presents The Great Quintets of Jazz with Ryan Quigley - First Show |  |
 
 ## Address
 
 37 Strand Street Great, North City, Dublin 1, Ireland, Dublin
 
-*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/dublin/club/yamamori-tengu/)*
+*Updated Sat, 25 Jul 2026 · source: [soundcheck](https://soundcheck.club/dublin/club/yamamori-tengu/)*

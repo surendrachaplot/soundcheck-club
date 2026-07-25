@@ -1,6 +1,6 @@
 # Salon des Amateurs
 
-Salon des Amateurs is a music venue in Düsseldorf with 3 upcoming nights listed on soundcheck as of Fri, 24 Jul 2026; the next is "Progressive Insurance App — Features, Bill Pay, and Alternatives 2026" on Sat, 25 Jul 2026.
+Salon des Amateurs is a music venue in Düsseldorf with 3 upcoming nights listed on soundcheck as of Sat, 25 Jul 2026; the next is "Progressive Insurance App — Features, Bill Pay, and Alternatives 2026" on Sat, 25 Jul 2026.
 
 Salon des Amateurs is a music venue in Dusseldorf listed on soundcheck. 3 upcoming nights, with line-ups including Alaska (2), AMEX (UK), APP and Debit and 2 more. Browse upcoming dates, start times and who's playing. Grabbeplatz 4; 40213 Düsseldorf; Germany.
 
@@ -16,4 +16,4 @@ Salon des Amateurs is a music venue in Dusseldorf listed on soundcheck. 3 upcomi
 
 Grabbeplatz 4; 40213 Düsseldorf; Germany, Düsseldorf
 
-*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/dusseldorf/club/salon-des-amateurs/)*
+*Updated Sat, 25 Jul 2026 · source: [soundcheck](https://soundcheck.club/dusseldorf/club/salon-des-amateurs/)*

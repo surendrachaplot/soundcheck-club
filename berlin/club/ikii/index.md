@@ -1,6 +1,6 @@
 # Ikii
 
-Ikii is a music venue in Berlin with 5 upcoming nights listed on soundcheck as of Fri, 24 Jul 2026; the next is "A Few Ounces of Milkweed" on Sat, 25 Jul 2026.
+Ikii is a music venue in Berlin with 5 upcoming nights listed on soundcheck as of Sat, 25 Jul 2026; the next is "A Few Ounces of Milkweed" on Sat, 25 Jul 2026.
 
 Ikii is a music venue in Berlin listed on soundcheck. 5 upcoming nights, with line-ups including azul, Delikwe, Delta Division and Fergus Clark and 2 more. Browse upcoming dates, start times and who's playing. Herrfurthplatz 8, 12049 Berlin, Germany.
 
@@ -18,4 +18,4 @@ Ikii is a music venue in Berlin listed on soundcheck. 5 upcoming nights, with li
 
 Herrfurthplatz 8, 12049 Berlin, Germany, Berlin
 
-*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/ikii/)*
+*Updated Sat, 25 Jul 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/ikii/)*

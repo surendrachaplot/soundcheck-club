@@ -1,14 +1,13 @@
 # 88block
 
-88block is a music venue in Tokyo with 6 upcoming nights listed on soundcheck as of Fri, 24 Jul 2026; the next is "FIFTY-FIFTY vol.2" on Fri, 24 Jul 2026.
+88block is a music venue in Tokyo with 5 upcoming nights listed on soundcheck as of Sat, 25 Jul 2026; the next is "SLATT CLUB" on Sat, 25 Jul 2026.
 
-88block is a music venue in Tokyo listed on soundcheck. 6 upcoming nights, with line-ups including Anela, Coco, Daisuke Kazaoka and Diceman and 2 more. Browse upcoming dates, start times and who's playing. B1F, 2-14-7, Takadanobaba,Shinjuku-ku,Tokyo 169-0075.
+88block is a music venue in Tokyo listed on soundcheck. 5 upcoming nights, with line-ups including Daisuke Kazaoka, Diceman, DJ B2B and dj yui and 2 more. Browse upcoming dates, start times and who's playing. B1F, 2-14-7, Takadanobaba,Shinjuku-ku,Tokyo 169-0075.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Fri, 24 Jul 2026 | FIFTY-FIFTY vol.2 | Anela, Coco, SHOWCASE |
 | Sat, 25 Jul 2026 | SLATT CLUB | DJ B2B |
 | Sun, 26 Jul 2026 | Jungle, Jungle | Tinny Noll |
 | Mon, 27 Jul 2026 | パチパチマンデー | Ichiro, TAICHO a.k.a. N.A.R.U, dj yui |
@@ -19,4 +18,4 @@
 
 B1F, 2-14-7, Takadanobaba,Shinjuku-ku,Tokyo 169-0075, Tokyo
 
-*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/88block/)*
+*Updated Sat, 25 Jul 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/88block/)*

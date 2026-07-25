@@ -1,6 +1,6 @@
 # Julian Anthony
 
-Julian Anthony is a House and Tech House artist with 5 upcoming club dates listed on soundcheck as of Fri, 24 Jul 2026, next at 528 Ibiza, Ibiza on Sun, 2 Aug 2026.
+Julian Anthony is a House and Tech House artist with 5 upcoming club dates listed on soundcheck as of Sat, 25 Jul 2026, next at 528 Ibiza, Ibiza on Sun, 2 Aug 2026.
 
 Julian Anthony is a house and tech house artist tracked on soundcheck, with 147 sets logged across Amsterdam, Austin, Barcelona and Berlin and 31 more. Often billed alongside Laidlaw, Voigtmann and Samuel Deep. Next up: 528 Ibiza, Ibiza on Sun 2 Aug.
 
@@ -29,4 +29,4 @@ Julian Anthony is a house and tech house artist tracked on soundcheck, with 147 
 
 Laidlaw, Voigtmann, Samuel Deep
 
-*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/juliananthonynl/)*
+*Updated Sat, 25 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/juliananthonynl/)*

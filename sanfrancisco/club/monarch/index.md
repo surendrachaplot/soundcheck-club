@@ -1,14 +1,13 @@
 # Monarch
 
-Monarch is a music venue in San Francisco/Oakland with 8 upcoming nights listed on soundcheck as of Fri, 24 Jul 2026; the next is "Planet Synth 4th Anniversary feat. Facets" on Fri, 24 Jul 2026.
+Monarch is a music venue in San Francisco/Oakland with 7 upcoming nights listed on soundcheck as of Sat, 25 Jul 2026; the next is "Mostly Cloudy: Leonce + Syd" on Sat, 25 Jul 2026.
 
-Monarch is a music venue in Sanfrancisco listed on soundcheck. 8 upcoming nights, with line-ups including Afakasi Papi, Amatric, bastiengoat and Casamiento and 2 more. Browse upcoming dates, start times and who's playing. 101 6th Street, San Francisco, CA 94103, United States.
+Monarch is a music venue in Sanfrancisco listed on soundcheck. 7 upcoming nights, with line-ups including Afakasi Papi, bastiengoat, Casamiento and DINABN and 2 more. Browse upcoming dates, start times and who's playing. 101 6th Street, San Francisco, CA 94103, United States.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Fri, 24 Jul 2026 | Planet Synth 4th Anniversary feat. Facets | Amatric, Evbot, Facets |
 | Sat, 25 Jul 2026 | Mostly Cloudy: Leonce + Syd | Afakasi Papi, Casamiento, Leonce, QUEENIE (US), Syd (US), mymy |
 | Fri, 31 Jul 2026 | TEED | TEED |
 | Sat, 8 Aug 2026 | Mostly Cloudy: Dina + QUEENIE | DINABN, QUEENIE (US) |
@@ -21,4 +20,4 @@ Monarch is a music venue in Sanfrancisco listed on soundcheck. 8 upcoming nights
 
 101 6th Street, San Francisco, CA 94103, United States, San Francisco/Oakland
 
-*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/sanfrancisco/club/monarch/)*
+*Updated Sat, 25 Jul 2026 · source: [soundcheck](https://soundcheck.club/sanfrancisco/club/monarch/)*

@@ -1,8 +1,8 @@
 # Eris Drew
 
-Eris Drew is a House and Techno artist with 14 upcoming club dates listed on soundcheck as of Fri, 24 Jul 2026, next at Milandia, Zurich on Sat, 25 Jul 2026.
+Eris Drew is a House and Techno artist with 15 upcoming club dates listed on soundcheck as of Sat, 25 Jul 2026, next at Milandia, Zurich on Sat, 25 Jul 2026.
 
-Eris Drew is a house and techno artist tracked on soundcheck, with 175 sets logged across Amsterdam, Antwerp, Bali and Barcelona and 49 more. Often billed alongside Octo Octa, CCL and Mike Servito. Next up: Milandia, Zurich on Sat 25 Jul.
+Eris Drew is a house and techno artist tracked on soundcheck, with 176 sets logged across Amsterdam, Antwerp, Bali and Barcelona and 49 more. Often billed alongside Octo Octa, CCL and Mike Servito. Next up: Milandia, Zurich on Sat 25 Jul.
 
 ## Upcoming shows
 
@@ -36,4 +36,4 @@ Eris Drew is a house and techno artist tracked on soundcheck, with 175 sets logg
 
 Octo Octa, CCL, Mike Servito
 
-*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/erisdrew/)*
+*Updated Sat, 25 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/erisdrew/)*

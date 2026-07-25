@@ -1,6 +1,6 @@
 # ELODIE
 
-ELODIE is a Tech House and House artist with 3 upcoming club dates listed on soundcheck as of Fri, 24 Jul 2026, next at Boston Manor Park, London on Sat, 25 Jul 2026.
+ELODIE is a Tech House and House artist with 3 upcoming club dates listed on soundcheck as of Sat, 25 Jul 2026, next at Boston Manor Park, London on Sat, 25 Jul 2026.
 
 ELODIE is a tech house and house artist based in United Kingdom, tracked on soundcheck, with 39 sets logged across Barcelona, London, Madrid and Sydney. Often billed alongside Tomoya Mizuno, Anna Wall and Harry McCanna. Next up: Boston Manor Park, London on Sat 25 Jul.
 
@@ -27,4 +27,4 @@ ELODIE is a tech house and house artist based in United Kingdom, tracked on soun
 
 Tomoya Mizuno, Anna Wall, Harry McCanna
 
-*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/elodie/)*
+*Updated Sat, 25 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/elodie/)*

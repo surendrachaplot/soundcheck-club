@@ -1,6 +1,6 @@
 # Neverdogs
 
-Neverdogs is a Tech House and House artist with 2 upcoming club dates listed on soundcheck as of Fri, 24 Jul 2026, next at Playa Soleil Ibiza, Ibiza on Wed, 29 Jul 2026.
+Neverdogs is a Tech House and House artist with 2 upcoming club dates listed on soundcheck as of Sat, 25 Jul 2026, next at Playa Soleil Ibiza, Ibiza on Wed, 29 Jul 2026.
 
 Neverdogs is a tech house and house artist based in Italy, tracked on soundcheck, with 53 sets logged across Amsterdam, Athens, Barcelona and Basel and 18 more. Often billed alongside wAFF, Frank Storm and Manda Moor. Next up: Playa Soleil Ibiza, Ibiza on Wed 29 Jul.
 
@@ -26,4 +26,4 @@ Neverdogs is a tech house and house artist based in Italy, tracked on soundcheck
 
 wAFF, Frank Storm, Manda Moor
 
-*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/neverdogs/)*
+*Updated Sat, 25 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/neverdogs/)*

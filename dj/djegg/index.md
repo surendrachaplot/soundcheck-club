@@ -1,6 +1,6 @@
 # DJ Egg
 
-DJ Egg is a Bass and Club artist with 2 upcoming club dates listed on soundcheck as of Fri, 24 Jul 2026, next at Pallas Projects Studios, Dublin on Sat, 8 Aug 2026.
+DJ Egg is a Bass and Club artist with 2 upcoming club dates listed on soundcheck as of Sat, 25 Jul 2026, next at Pallas Projects Studios, Dublin on Sat, 8 Aug 2026.
 
 DJ Egg is a bass and club artist based in Ireland, tracked on soundcheck, with 34 sets logged across Cork, Dublin, Galway and Glasgow and 1 more. Often billed alongside Lúnasa, Rhyzine and LYCHEE (3). Next up: Pallas Projects Studios, Dublin on Sat 8 Aug.
 
@@ -26,4 +26,4 @@ DJ Egg is a bass and club artist based in Ireland, tracked on soundcheck, with 3
 
 Lúnasa, Rhyzine, LYCHEE (3)
 
-*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/djegg/)*
+*Updated Sat, 25 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/djegg/)*

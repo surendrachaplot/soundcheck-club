@@ -1,6 +1,6 @@
 # Ivan Iacobucci
 
-Ivan Iacobucci is a House and Minimal Techno artist with 2 upcoming club dates listed on soundcheck as of Fri, 24 Jul 2026, next at TBA, Berlin on Sat, 25 Jul 2026.
+Ivan Iacobucci is a House and Minimal Techno artist with 2 upcoming club dates listed on soundcheck as of Sat, 25 Jul 2026, next at TBA, Berlin on Sat, 25 Jul 2026.
 
 Ivan Iacobucci is a house and minimal techno artist tracked on soundcheck, with 34 sets logged across Barcelona, Berlin, Bucharest and London and 12 more. Often billed alongside Stella Fiore, Dino (2) and Francesco Farfa. Next up: TBA, Berlin on Sat 25 Jul.
 
@@ -26,4 +26,4 @@ Ivan Iacobucci is a house and minimal techno artist tracked on soundcheck, with 
 
 Stella Fiore, Dino (2), Francesco Farfa
 
-*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/ivaniacobucci/)*
+*Updated Sat, 25 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/ivaniacobucci/)*

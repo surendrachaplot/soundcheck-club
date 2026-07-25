@@ -1,14 +1,13 @@
 # Sala ART
 
-Sala ART is a music venue in Madrid with 5 upcoming nights listed on soundcheck as of Fri, 24 Jul 2026; the next is "ART ELECTRONIC (LAST 19 FREE TICKETS)" on Fri, 24 Jul 2026.
+Sala ART is a music venue in Madrid with 4 upcoming nights listed on soundcheck as of Sat, 25 Jul 2026; the next is "Antidoto Club: Pablito Pesadilla" on Sat, 25 Jul 2026.
 
-Sala ART is a music venue in Madrid listed on soundcheck. 5 upcoming nights, with line-ups including Costa (2), Diego Armando, JAIROSKUN and Maxvll and 2 more. Browse upcoming dates, start times and who's playing. P.º de la Florida, 2, 28008 Madrid.
+Sala ART is a music venue in Madrid listed on soundcheck. 4 upcoming nights, with line-ups including Costa (2), Diego Armando, JAIROSKUN and Maxvll and 2 more. Browse upcoming dates, start times and who's playing. P.º de la Florida, 2, 28008 Madrid.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Fri, 24 Jul 2026 | ART ELECTRONIC (LAST 19 FREE TICKETS) | PAULITTAHH |
 | Sat, 25 Jul 2026 | Antidoto Club: Pablito Pesadilla |  |
 | Thu, 30 Jul 2026 | Antidoto Club: Trap Night |  |
 | Fri, 31 Jul 2026 | CHRØMA CLOSING SEASON: SPECIAL B3B | Costa (2), JAIROSKUN, Miguel Rivas, RODS (ES), Suko, Venus de Milo |
@@ -18,4 +17,4 @@ Sala ART is a music venue in Madrid listed on soundcheck. 5 upcoming nights, wit
 
 P.º de la Florida, 2, 28008 Madrid, Madrid
 
-*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/madrid/club/sala-art/)*
+*Updated Sat, 25 Jul 2026 · source: [soundcheck](https://soundcheck.club/madrid/club/sala-art/)*

@@ -1,14 +1,13 @@
 # SHDW
 
-SHDW is a Techno and House artist with 12 upcoming club dates listed on soundcheck as of Fri, 24 Jul 2026, next at Grelle Forelle, Vienna on Fri, 24 Jul 2026.
+SHDW is a Techno and House artist with 11 upcoming club dates listed on soundcheck as of Sat, 25 Jul 2026, next at Rebstockpark, Frankfurt on Sat, 25 Jul 2026.
 
-SHDW is a techno and house artist tracked on soundcheck, with 192 sets logged across Amsterdam, Antwerp, Athens and Austin and 60 more. Often billed alongside ANNĒ, Alarico and Lars Huismann. Next up: Grelle Forelle, Vienna on Fri 24 Jul.
+SHDW is a techno and house artist tracked on soundcheck, with 192 sets logged across Amsterdam, Antwerp, Athens and Austin and 60 more. Often billed alongside ANNĒ, Alarico and Lars Huismann. Next up: Rebstockpark, Frankfurt on Sat 25 Jul.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 24 Jul 2026 | Grelle Forelle | Vienna |
 | Sat, 25 Jul 2026 | Rebstockpark | Frankfurt |
 | Fri, 31 Jul 2026 | Studio Club Malaga | Malaga |
 | Wed, 12 Aug 2026 | Gianpula Village | Malta |
@@ -23,6 +22,7 @@ SHDW is a techno and house artist tracked on soundcheck, with 192 sets logged ac
 
 ## Recently played
 
+- Grelle Forelle, Vienna — Fri, 24 Jul 2026
 - Fabrik, Madrid — Sat, 11 Jul 2026
 - Palais, London — Fri, 10 Jul 2026
 - TBA - Void Studios, Denver — Sat, 20 Jun 2026
@@ -30,10 +30,9 @@ SHDW is a techno and house artist tracked on soundcheck, with 192 sets logged ac
 - TBA - Los Angeles, Los Angeles — Thu, 18 Jun 2026
 - TBA - Secret Warehouse, Paris — Sat, 13 Jun 2026
 - Fridas Pier, Stuttgart — Fri, 12 Jun 2026
-- TBA - Villalgordo del Júcar, Albacete, Madrid — Fri, 5 Jun 2026
 
 ## Shares bills with
 
 ANNĒ, Alarico, Lars Huismann
 
-*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/shdw/)*
+*Updated Sat, 25 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/shdw/)*

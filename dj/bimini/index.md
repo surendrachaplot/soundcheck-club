@@ -1,6 +1,6 @@
 # Bimini
 
-Bimini is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Fri, 24 Jul 2026, next at Times Square, Newcastle, Newcastle on Sat, 25 Jul 2026.
+Bimini is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Sat, 25 Jul 2026, next at Times Square, Newcastle, Newcastle on Sat, 25 Jul 2026.
 
 Bimini is a techno and house artist tracked on soundcheck, with 43 sets logged across Amsterdam, Antwerp, Berlin and Brisbane and 16 more. Often billed alongside ABSOLUTE., Hannah Holland and Horse Meat Disco. Next up: Times Square, Newcastle, Newcastle on Sat 25 Jul.
 
@@ -26,4 +26,4 @@ Bimini is a techno and house artist tracked on soundcheck, with 43 sets logged a
 
 ABSOLUTE., Hannah Holland, Horse Meat Disco
 
-*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/bimini/)*
+*Updated Sat, 25 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/bimini/)*

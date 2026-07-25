@@ -1,14 +1,13 @@
 # ANNA
 
-ANNA is a Techno and House artist with 5 upcoming club dates listed on soundcheck as of Fri, 24 Jul 2026, next at Shibuya Club Ball, Tokyo on Fri, 24 Jul 2026.
+ANNA is a Techno and House artist with 4 upcoming club dates listed on soundcheck as of Sat, 25 Jul 2026, next at Obudai Island, Budapest on Tue, 11 Aug 2026.
 
-ANNA is a techno and house artist tracked on soundcheck, with 92 sets logged across Amsterdam, Antwerp, Athens and Austin and 33 more. Often billed alongside DJ Tennis, Vintage Culture and Kevin de Vries. Next up: Shibuya Club Ball, Tokyo on Fri 24 Jul.
+ANNA is a techno and house artist tracked on soundcheck, with 92 sets logged across Amsterdam, Antwerp, Athens and Austin and 33 more. Often billed alongside DJ Tennis, Vintage Culture and Kevin de Vries. Next up: Obudai Island, Budapest on Tue 11 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 24 Jul 2026 | Shibuya Club Ball | Tokyo |
 | Tue, 11 Aug 2026 | Obudai Island | Budapest |
 | Sat, 22 Aug 2026 | block. | Dublin |
 | Sun, 23 Aug 2026 | Jardins de Joan Brossa | Barcelona |
@@ -16,6 +15,7 @@ ANNA is a techno and house artist tracked on soundcheck, with 92 sets logged acr
 
 ## Recently played
 
+- Shibuya Club Ball, Tokyo — Fri, 24 Jul 2026
 - Bolivar Beach Bar, Athens — Thu, 9 Jul 2026
 - Horse Park Zürich, Zurich — Fri, 26 Jun 2026
 - Sunnyside Pavilion, Toronto — Sat, 20 Jun 2026
@@ -23,10 +23,9 @@ ANNA is a techno and house artist tracked on soundcheck, with 92 sets logged acr
 - Klein Phönix, Istanbul — Fri, 29 May 2026
 - Hart Plaza, Detroit — Sat, 23 May 2026
 - Musée de l'Air et de l'Espace, Paris — Fri, 22 May 2026
-- 620 Jones, San Francisco/Oakland — Sat, 16 May 2026
 
 ## Shares bills with
 
 DJ Tennis, Vintage Culture, Kevin de Vries
 
-*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/djanna/)*
+*Updated Sat, 25 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/djanna/)*

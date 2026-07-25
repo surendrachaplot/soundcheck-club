@@ -1,14 +1,13 @@
 # StereoBar
 
-StereoBar is a music venue in Montreal with 18 upcoming nights listed on soundcheck as of Fri, 24 Jul 2026; the next is "Mihai Popoviciu - Nymra & Sofisticated" on Fri, 24 Jul 2026.
+StereoBar is a music venue in Montreal with 17 upcoming nights listed on soundcheck as of Sat, 25 Jul 2026; the next is "Amper x SB: Recondite - Pria - Nab - Zac Martel" on Sat, 25 Jul 2026.
 
-StereoBar is a music venue in Montreal listed on soundcheck. 18 upcoming nights, with line-ups including Adam Husa, Armen Miran, Audrey Bélanger and Binh and 2 more. Browse upcoming dates, start times and who's playing. 856 Saint Catherine East, Montreal, Quebec, H2L2E3.
+StereoBar is a music venue in Montreal listed on soundcheck. 17 upcoming nights, with line-ups including Adam Husa, Armen Miran, Audrey Bélanger and Binh and 2 more. Browse upcoming dates, start times and who's playing. 856 Saint Catherine East, Montreal, Quebec, H2L2E3.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Fri, 24 Jul 2026 | Mihai Popoviciu - Nymra & Sofisticated | Mihai Popoviciu, Nymra & Sofisticated |
 | Sat, 25 Jul 2026 | Amper x SB: Recondite - Pria - Nab - Zac Martel | Prïa, Recondite, Zac Martel |
 | Sun, 26 Jul 2026 | LBD: Elio Elia (All Night Long) |  |
 | Fri, 31 Jul 2026 | slugg (All Night Long) | slugg |
@@ -18,9 +17,10 @@ StereoBar is a music venue in Montreal listed on soundcheck. 18 upcoming nights,
 | Sat, 8 Aug 2026 | Tony Romera (All Night Long) | Tony Romera |
 | Sun, 9 Aug 2026 | ileSoniq Official Afterparty x LBD: Guillaume Michaud (All Night Long) | Guillaume Michaud |
 | Fri, 14 Aug 2026 | Martyn Bootyspoon (All Night Long) | Martyn Bootyspoon |
+| Sat, 15 Aug 2026 | Analog Volts x SB: Ivan Iacobucci - Stella Fiore - CPR Annie - Matsehora | CPR Annie, Ivan Iacobucci, Matsehora, Stella Fiore |
 
 ## Address
 
 856 Saint Catherine East, Montreal, Quebec, H2L2E3, Montreal
 
-*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/montreal/club/stereobar/)*
+*Updated Sat, 25 Jul 2026 · source: [soundcheck](https://soundcheck.club/montreal/club/stereobar/)*

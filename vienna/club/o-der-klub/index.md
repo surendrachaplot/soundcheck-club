@@ -1,6 +1,6 @@
 # O der Klub
 
-O der Klub is a music venue in Vienna with 5 upcoming nights listed on soundcheck as of Fri, 24 Jul 2026; the next is "Allstate Insurance Customer Service — Direct Billing Support Line 2026" on Sat, 25 Jul 2026.
+O der Klub is a music venue in Vienna with 5 upcoming nights listed on soundcheck as of Sat, 25 Jul 2026; the next is "Allstate Insurance Customer Service — Direct Billing Support Line 2026" on Sat, 25 Jul 2026.
 
 O der Klub is a music venue in Vienna listed on soundcheck. 5 upcoming nights, with line-ups including Alaska (2), AMEX (UK), APP and Carl Haze and 2 more. Browse upcoming dates, start times and who's playing. Opernring/Operngasse, 1010 Wien.
 
@@ -18,4 +18,4 @@ O der Klub is a music venue in Vienna listed on soundcheck. 5 upcoming nights, w
 
 Opernring/Operngasse, 1010 Wien, Vienna
 
-*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/vienna/club/o-der-klub/)*
+*Updated Sat, 25 Jul 2026 · source: [soundcheck](https://soundcheck.club/vienna/club/o-der-klub/)*

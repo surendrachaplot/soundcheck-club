@@ -1,14 +1,13 @@
 # The Love Inn
 
-The Love Inn is a music venue in Bristol with 9 upcoming nights listed on soundcheck as of Fri, 24 Jul 2026; the next is "Lupini b2b Cowper [all night long]" on Fri, 24 Jul 2026.
+The Love Inn is a music venue in Bristol with 8 upcoming nights listed on soundcheck as of Sat, 25 Jul 2026; the next is "The Hunz [all night long]" on Sat, 25 Jul 2026.
 
-The Love Inn is a music venue in Bristol listed on soundcheck. 9 upcoming nights, with line-ups including Black Rave Culture, Charlie Dark, CHIDA and Cowper and 2 more. Browse upcoming dates, start times and who's playing. 84 Stokes Croft, Stokes Croft, Bristol, BS1 3QY, United Kingdom.
+The Love Inn is a music venue in Bristol listed on soundcheck. 8 upcoming nights, with line-ups including Black Rave Culture, Charlie Dark, CHIDA and Daisy Moon and 2 more. Browse upcoming dates, start times and who's playing. 84 Stokes Croft, Stokes Croft, Bristol, BS1 3QY, United Kingdom.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Fri, 24 Jul 2026 | Lupini b2b Cowper [all night long] | Cowper, Lupini |
 | Sat, 25 Jul 2026 | The Hunz [all night long] |  |
 | Sun, 26 Jul 2026 | Gene On Earth + Daisy Moon + DASHY | DASHY, Daisy Moon, Gene On Earth |
 | Fri, 31 Jul 2026 | Public Affair: Mr. Ho & Monika Taneska | Monika Taneska, Mr. Ho |
@@ -22,4 +21,4 @@ The Love Inn is a music venue in Bristol listed on soundcheck. 9 upcoming nights
 
 84 Stokes Croft, Stokes Croft, Bristol, BS1 3QY, United Kingdom, Bristol
 
-*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/bristol/club/the-love-inn/)*
+*Updated Sat, 25 Jul 2026 · source: [soundcheck](https://soundcheck.club/bristol/club/the-love-inn/)*

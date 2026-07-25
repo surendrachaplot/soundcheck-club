@@ -1,6 +1,6 @@
 # Dyed Soundorom
 
-Dyed Soundorom is a House and Tech House artist with 12 upcoming club dates listed on soundcheck as of Fri, 24 Jul 2026, next at Place Poelaertplein, Brussels on Sat, 25 Jul 2026.
+Dyed Soundorom is a House and Tech House artist with 12 upcoming club dates listed on soundcheck as of Sat, 25 Jul 2026, next at Place Poelaertplein, Brussels on Sat, 25 Jul 2026.
 
 Dyed Soundorom is a house and tech house artist tracked on soundcheck, with 218 sets logged across Amsterdam, Antwerp, Athens and Auckland and 50 more. Often billed alongside Shonky, Apollonia and Gene On Earth. Next up: Place Poelaertplein, Brussels on Sat 25 Jul.
 
@@ -36,4 +36,4 @@ Dyed Soundorom is a house and tech house artist tracked on soundcheck, with 218 
 
 Shonky, Apollonia, Gene On Earth
 
-*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/dyedsoundorom/)*
+*Updated Sat, 25 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/dyedsoundorom/)*

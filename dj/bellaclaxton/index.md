@@ -1,8 +1,8 @@
 # Bella Claxton
 
-Bella Claxton is a Techno and House artist with 12 upcoming club dates listed on soundcheck as of Fri, 24 Jul 2026, next at Bowlers Exhibition Centre, Manchester on Sat, 1 Aug 2026.
+Bella Claxton is a Techno and House artist with 14 upcoming club dates listed on soundcheck as of Sat, 25 Jul 2026, next at Bowlers Exhibition Centre, Manchester on Sat, 1 Aug 2026.
 
-Bella Claxton is a techno and house artist tracked on soundcheck, with 112 sets logged across Amsterdam, Antwerp, Auckland and Bali and 25 more. Often billed alongside Kyle Starkey, Faster Horses and Ollie Lishman. Next up: Bowlers Exhibition Centre, Manchester on Sat 1 Aug.
+Bella Claxton is a techno and house artist tracked on soundcheck, with 114 sets logged across Amsterdam, Antwerp, Auckland and Bali and 25 more. Often billed alongside Kyle Starkey, Faster Horses and LAMMER. Next up: Bowlers Exhibition Centre, Manchester on Sat 1 Aug.
 
 ## Upcoming shows
 
@@ -34,6 +34,6 @@ Bella Claxton is a techno and house artist tracked on soundcheck, with 112 sets 
 
 ## Shares bills with
 
-Kyle Starkey, Faster Horses, Ollie Lishman
+Kyle Starkey, Faster Horses, LAMMER
 
-*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/bellaclaxton/)*
+*Updated Sat, 25 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/bellaclaxton/)*

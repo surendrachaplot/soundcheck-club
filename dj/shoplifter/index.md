@@ -1,8 +1,8 @@
 # Shoplifter
 
-Shoplifter is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Fri, 24 Jul 2026, next at Lavallée, Brussels on Sat, 25 Jul 2026.
+Shoplifter is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Sat, 25 Jul 2026, next at Lavallée, Brussels on Sat, 25 Jul 2026.
 
-Shoplifter is a techno and house artist based in Belgium, tracked on soundcheck, with 57 sets logged across Antwerp, Berlin, Brussels and Ghent and 5 more. Often billed alongside DC Noises, BAVR and Casper. Next up: Lavallée, Brussels on Sat 25 Jul.
+Shoplifter is a techno and house artist based in Belgium, tracked on soundcheck, with 58 sets logged across Amsterdam, Antwerp, Berlin and Brussels and 6 more. Often billed alongside DC Noises, BAVR and Casper. Next up: Lavallée, Brussels on Sat 25 Jul.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Shoplifter is a techno and house artist based in Belgium, tracked on soundcheck,
 | --- | --- | --- |
 | Sat, 25 Jul 2026 | Lavallée | Brussels |
 | Fri, 14 Aug 2026 | Parc des Etangs/Vijverspark | Brussels |
+| Fri, 23 Oct 2026 | Pllek | Amsterdam |
 
 ## Recently played
 
@@ -26,4 +27,4 @@ Shoplifter is a techno and house artist based in Belgium, tracked on soundcheck,
 
 DC Noises, BAVR, Casper
 
-*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/shoplifter/)*
+*Updated Sat, 25 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/shoplifter/)*

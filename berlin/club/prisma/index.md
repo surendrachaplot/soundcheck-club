@@ -1,6 +1,6 @@
 # Prisma
 
-Prisma is a music venue in Berlin with 7 upcoming nights listed on soundcheck as of Fri, 24 Jul 2026; the next is "Klubkneipe x Resonance - House of Sunday (CSD Afterparty)" on Sun, 26 Jul 2026.
+Prisma is a music venue in Berlin with 7 upcoming nights listed on soundcheck as of Sat, 25 Jul 2026; the next is "Klubkneipe x Resonance - House of Sunday (CSD Afterparty)" on Sun, 26 Jul 2026.
 
 Prisma is a music venue in Berlin listed on soundcheck. 7 upcoming nights, with line-ups including Andi Beat, Benua, Club Suave and Emilion Dollar Baby and 2 more. Browse upcoming dates, start times and who's playing. Brückenstraße 1, 10179 Berlin.
 
@@ -20,4 +20,4 @@ Prisma is a music venue in Berlin listed on soundcheck. 7 upcoming nights, with 
 
 Brückenstraße 1, 10179 Berlin, Berlin
 
-*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/prisma/)*
+*Updated Sat, 25 Jul 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/prisma/)*

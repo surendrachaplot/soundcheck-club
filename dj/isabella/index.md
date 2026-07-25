@@ -1,14 +1,13 @@
 # ISAbella
 
-ISAbella is a House and Techno artist with 10 upcoming club dates listed on soundcheck as of Fri, 24 Jul 2026, next at OXI, Berlin on Fri, 24 Jul 2026.
+ISAbella is a House and Techno artist with 10 upcoming club dates listed on soundcheck as of Sat, 25 Jul 2026, next at Flevopark, Amsterdam on Sat, 25 Jul 2026.
 
-ISAbella is a house and techno artist tracked on soundcheck, with 247 sets logged across Amsterdam, Antwerp, Bali and Bangkok and 43 more. Often billed alongside Roza Terenzi, BASHKKA and Gabrielle Kwarteng. Next up: OXI, Berlin on Fri 24 Jul.
+ISAbella is a house and techno artist tracked on soundcheck, with 248 sets logged across Amsterdam, Antwerp, Bali and Bangkok and 43 more. Often billed alongside Roza Terenzi, BASHKKA and Gabrielle Kwarteng. Next up: Flevopark, Amsterdam on Sat 25 Jul.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 24 Jul 2026 | OXI | Berlin |
 | Sat, 25 Jul 2026 | Flevopark | Amsterdam |
 | Fri, 31 Jul 2026 | Radio Radio | Amsterdam |
 | Sat, 1 Aug 2026 | Trädgården | Stockholm |
@@ -18,9 +17,11 @@ ISAbella is a house and techno artist tracked on soundcheck, with 247 sets logge
 | Sat, 5 Sept 2026 | Palais | London |
 | Sat, 12 Sept 2026 | Auditorium Parco della Musica | Rome |
 | Sat, 26 Sept 2026 | Depot Mayfield | Manchester |
+| Fri, 23 Oct 2026 | GASHOUDER | Amsterdam |
 
 ## Recently played
 
+- OXI, Berlin — Fri, 24 Jul 2026
 - Else, Berlin — Sun, 19 Jul 2026
 - Ferropolis, Leipzig — Fri, 17 Jul 2026
 - CLUB RAUM, Amsterdam — Sat, 4 Jul 2026
@@ -28,10 +29,9 @@ ISAbella is a house and techno artist tracked on soundcheck, with 247 sets logge
 - fabric, London — Sat, 13 Jun 2026
 - Fvtvr, Paris — Sat, 6 Jun 2026
 - Hangaren, Copenhagen — Wed, 3 Jun 2026
-- Bridge 48, Barcelona — Wed, 3 Jun 2026
 
 ## Shares bills with
 
 Roza Terenzi, BASHKKA, Gabrielle Kwarteng
 
-*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/isabella/)*
+*Updated Sat, 25 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/isabella/)*

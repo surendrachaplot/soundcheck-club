@@ -1,8 +1,8 @@
 # Kitty Amor
 
-Kitty Amor is a House and Afro House artist with 6 upcoming club dates listed on soundcheck as of Fri, 24 Jul 2026, next at Burgess Park, London on Fri, 31 Jul 2026.
+Kitty Amor is a House and Afro House artist with 7 upcoming club dates listed on soundcheck as of Sat, 25 Jul 2026, next at Burgess Park, London on Fri, 31 Jul 2026.
 
-Kitty Amor is a house and afro house artist tracked on soundcheck, with 90 sets logged across Amsterdam, Bali, Berlin and Bristol and 18 more. Often billed alongside Andrea Oliva, Major League Djz and SYREETA. Next up: Burgess Park, London on Fri 31 Jul.
+Kitty Amor is a house and afro house artist tracked on soundcheck, with 91 sets logged across Amsterdam, Bali, Berlin and Bristol and 18 more. Often billed alongside Andrea Oliva, Major League Djz and SYREETA. Next up: Burgess Park, London on Fri 31 Jul.
 
 ## Upcoming shows
 
@@ -14,6 +14,7 @@ Kitty Amor is a house and afro house artist tracked on soundcheck, with 90 sets 
 | Sun, 23 Aug 2026 | Revolver Upstairs | Melbourne |
 | Sun, 27 Sept 2026 | TBA | Los Angeles |
 | Wed, 21 Oct 2026 | A'DAM Toren | Amsterdam |
+| Fri, 23 Oct 2026 | Madam | Amsterdam |
 
 ## Recently played
 
@@ -30,4 +31,4 @@ Kitty Amor is a house and afro house artist tracked on soundcheck, with 90 sets 
 
 Andrea Oliva, Major League Djz, SYREETA
 
-*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/kittyamor/)*
+*Updated Sat, 25 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/kittyamor/)*

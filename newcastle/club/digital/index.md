@@ -1,8 +1,8 @@
 # Digital
 
-Digital is a music venue in Newcastle with 8 upcoming nights listed on soundcheck as of Fri, 24 Jul 2026; the next is "OVER 30's CLUB - Daytime Clubbing" on Sat, 25 Jul 2026.
+Digital is a music venue in Newcastle with 9 upcoming nights listed on soundcheck as of Sat, 25 Jul 2026; the next is "OVER 30's CLUB - Daytime Clubbing" on Sat, 25 Jul 2026.
 
-Digital is a music venue in Newcastle listed on soundcheck. 8 upcoming nights, with line-ups including Bushbaby, Cristoph, Easby and FIRZA and 2 more. Browse upcoming dates, start times and who's playing. Times Square, Newcastle upon Tyne, NE1 4EP, United Kingdom.
+Digital is a music venue in Newcastle listed on soundcheck. 9 upcoming nights, with line-ups including Bushbaby, Cristoph, Easby and FIRZA and 2 more. Browse upcoming dates, start times and who's playing. Times Square, Newcastle upon Tyne, NE1 4EP, United Kingdom.
 
 ## What's on
 
@@ -16,9 +16,10 @@ Digital is a music venue in Newcastle listed on soundcheck. 8 upcoming nights, w
 | Sat, 3 Oct 2026 | inU with Cristoph & Yotto | Cristoph, Easby, SOBAH, Yotto |
 | Fri, 9 Oct 2026 | Heavy House Society: Sidney Charles + more | Sidney Charles |
 | Sat, 17 Oct 2026 | Energy Cru presents: Bushbaby (All Night Long) | Bushbaby |
+| Fri, 23 Oct 2026 | This is Bounce UK vs Ministry of Bounce Halloween Special |  |
 
 ## Address
 
 Times Square, Newcastle upon Tyne, NE1 4EP, United Kingdom, Newcastle
 
-*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/newcastle/club/digital/)*
+*Updated Sat, 25 Jul 2026 · source: [soundcheck](https://soundcheck.club/newcastle/club/digital/)*

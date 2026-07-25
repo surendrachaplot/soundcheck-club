@@ -1,14 +1,13 @@
 # Jasna 1
 
-Jasna 1 is a music venue in Warsaw with 12 upcoming nights listed on soundcheck as of Fri, 24 Jul 2026; the next is "J1 - ako, Contakt, Donnel Knox" on Fri, 24 Jul 2026.
+Jasna 1 is a music venue in Warsaw with 11 upcoming nights listed on soundcheck as of Sat, 25 Jul 2026; the next is "J1 - SPLOT: Anna Kost, Glassz, Michał Macewicz" on Sat, 25 Jul 2026.
 
-Jasna 1 is a music venue in Warsaw listed on soundcheck. 12 upcoming nights, with line-ups including 2K88, Abuelita, ako and Anna Kost and 2 more. Browse upcoming dates, start times and who's playing. Jasna 1, 00-013 Warszawa.
+Jasna 1 is a music venue in Warsaw listed on soundcheck. 11 upcoming nights, with line-ups including 2K88, Abuelita, Anna Kost and Bambi Uzi and 2 more. Browse upcoming dates, start times and who's playing. Jasna 1, 00-013 Warszawa.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Fri, 24 Jul 2026 | J1 - ako, Contakt, Donnel Knox | Contakt, ako |
 | Sat, 25 Jul 2026 | J1 - SPLOT: Anna Kost, Glassz, Michał Macewicz | Anna Kost, Glassz, Michal Macewicz |
 | Fri, 31 Jul 2026 | J1 - 2K88, Abuelita, Bambi Uzi, domi d | 2K88, Abuelita, Bambi Uzi, domi d. |
 | Sat, 1 Aug 2026 | J1 - Tres Bienski: Frozilla, Kitty Sarcasm, lava404, nuarrrrr, Sava | Frozilla, Kitty Sarcasm, Sava (3), nuarrrrr |
@@ -18,9 +17,10 @@ Jasna 1 is a music venue in Warsaw listed on soundcheck. 12 upcoming nights, wit
 | Sat, 15 Aug 2026 | J1 - Aliens: Pawel, Dolu, Dima Kachan | Dima Kachan, Dolu, Gio Shengelia, PAWEL (PL) |
 | Fri, 21 Aug 2026 | J1 - Michał Zietara, Kolektyw Laguna (Implode & Peteya) | Michal Zietara |
 | Fri, 25 Sept 2026 | JASNA 9TH BDAY |  |
+| Sat, 26 Sept 2026 | JASNA 9TH BDAY  | Sandwell District |
 
 ## Address
 
 Jasna 1, 00-013 Warszawa, Warsaw
 
-*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/warsaw/club/jasna-1/)*
+*Updated Sat, 25 Jul 2026 · source: [soundcheck](https://soundcheck.club/warsaw/club/jasna-1/)*

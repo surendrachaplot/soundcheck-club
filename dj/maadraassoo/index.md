@@ -1,6 +1,6 @@
 # Maadraassoo
 
-Maadraassoo is a Pop and Electro artist with 2 upcoming club dates listed on soundcheck as of Fri, 24 Jul 2026, next at TBA - XL XtraLrge (Vlc), Valencia on Sat, 25 Jul 2026.
+Maadraassoo is a Pop and Electro artist with 2 upcoming club dates listed on soundcheck as of Sat, 25 Jul 2026, next at TBA - XL XtraLrge (Vlc), Valencia on Sat, 25 Jul 2026.
 
 Maadraassoo is a pop and electro artist tracked on soundcheck, with 203 sets logged across Barcelona, Madrid, Mallorca and Valencia. Often billed alongside !!! (Chk Chk Chk), Baldman and Chica Acosta. Next up: TBA - XL XtraLrge (Vlc), Valencia on Sat 25 Jul.
 
@@ -26,4 +26,4 @@ Maadraassoo is a pop and electro artist tracked on soundcheck, with 203 sets log
 
 !!! (Chk Chk Chk), Baldman, Chica Acosta
 
-*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/maadraassoo/)*
+*Updated Sat, 25 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/maadraassoo/)*

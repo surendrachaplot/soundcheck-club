@@ -1,8 +1,8 @@
 # Underworld
 
-Underworld is a Techno and House artist with 4 upcoming club dates listed on soundcheck as of Fri, 24 Jul 2026, next at Obudai Island, Budapest on Tue, 11 Aug 2026.
+Underworld is a Techno and House artist with 5 upcoming club dates listed on soundcheck as of Sat, 25 Jul 2026, next at Obudai Island, Budapest on Tue, 11 Aug 2026.
 
-Underworld is a techno and house artist tracked on soundcheck, with 33 sets logged across Austin, Barcelona, Belfast and Berlin and 16 more. Often billed alongside KI/KI, X CLUB. and Ross From Friends. Next up: Obudai Island, Budapest on Tue 11 Aug.
+Underworld is a techno and house artist tracked on soundcheck, with 34 sets logged across Austin, Barcelona, Belfast and Berlin and 16 more. Often billed alongside KI/KI, X CLUB. and Ross From Friends. Next up: Obudai Island, Budapest on Tue 11 Aug.
 
 ## Upcoming shows
 
@@ -11,6 +11,7 @@ Underworld is a techno and house artist tracked on soundcheck, with 33 sets logg
 | Tue, 11 Aug 2026 | Obudai Island | Budapest |
 | Thu, 3 Sept 2026 | Knockdown Center | New York City |
 | Fri, 4 Sept 2026 | Union Park | Chicago |
+| Fri, 4 Sept 2026 | Knockdown Center | New York City |
 | Fri, 16 Oct 2026 | Mana Wynwood | Miami |
 
 ## Recently played
@@ -28,4 +29,4 @@ Underworld is a techno and house artist tracked on soundcheck, with 33 sets logg
 
 KI/KI, X CLUB., Ross From Friends
 
-*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/underworld/)*
+*Updated Sat, 25 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/underworld/)*

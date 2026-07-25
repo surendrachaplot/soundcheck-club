@@ -1,14 +1,13 @@
 # Doggy Klœb
 
-Doggy Klœb is a music venue in Malaga with 10 upcoming nights listed on soundcheck as of Fri, 24 Jul 2026; the next is "NoName showcase" on Fri, 24 Jul 2026.
+Doggy Klœb is a music venue in Malaga with 9 upcoming nights listed on soundcheck as of Sat, 25 Jul 2026; the next is "Undergroove: Arval invites Helio" on Sat, 25 Jul 2026.
 
-Doggy Klœb is a music venue in Malaga listed on soundcheck. 10 upcoming nights, with line-ups including Andrés Sancho, Arval, Helio and Joe Dylan and 2 more. Browse upcoming dates, start times and who's playing. C. Casablanca, 13, 29620 Torremolinos, Málaga, Spain.
+Doggy Klœb is a music venue in Malaga listed on soundcheck. 9 upcoming nights, with line-ups including Andrés Sancho, Arval, Helio and Joe Dylan and 2 more. Browse upcoming dates, start times and who's playing. C. Casablanca, 13, 29620 Torremolinos, Málaga, Spain.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Fri, 24 Jul 2026 | NoName showcase | Reisender, VNSTY |
 | Sat, 25 Jul 2026 | Undergroove: Arval invites Helio | Arval, Helio |
 | Thu, 30 Jul 2026 | Doggy & Friends: Noctive | Noctive |
 | Fri, 31 Jul 2026 | Cultura Club: Benny Yasoto y Radikal Komcept |  |
@@ -23,4 +22,4 @@ Doggy Klœb is a music venue in Malaga listed on soundcheck. 10 upcoming nights,
 
 C. Casablanca, 13, 29620 Torremolinos, Málaga, Spain, Malaga
 
-*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/malaga/club/doggy-kl-b/)*
+*Updated Sat, 25 Jul 2026 · source: [soundcheck](https://soundcheck.club/malaga/club/doggy-kl-b/)*

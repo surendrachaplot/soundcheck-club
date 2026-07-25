@@ -1,6 +1,6 @@
 # Homage Brewing
 
-Homage Brewing is a music venue in Los Angeles with 2 upcoming nights listed on soundcheck as of Fri, 24 Jul 2026; the next is "Clink Takeover" on Sat, 25 Jul 2026.
+Homage Brewing is a music venue in Los Angeles with 2 upcoming nights listed on soundcheck as of Sat, 25 Jul 2026; the next is "Clink Takeover" on Sat, 25 Jul 2026.
 
 Homage Brewing is a music venue in Losangeles listed on soundcheck. 2 upcoming nights, with line-ups including Hashman Deejay, Luke Mele and NAP (MX). Browse upcoming dates, start times and who's playing. 1219 N Main St, Los Angeles, CA 90012.
 
@@ -15,4 +15,4 @@ Homage Brewing is a music venue in Losangeles listed on soundcheck. 2 upcoming n
 
 1219 N Main St, Los Angeles, CA 90012, Los Angeles
 
-*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/losangeles/club/homage-brewing/)*
+*Updated Sat, 25 Jul 2026 · source: [soundcheck](https://soundcheck.club/losangeles/club/homage-brewing/)*

@@ -1,6 +1,6 @@
 # Lewis Carroll
 
-Lewis Carroll is a House and Garage artist with 4 upcoming club dates listed on soundcheck as of Fri, 24 Jul 2026, next at Boston Manor Park, London on Sat, 25 Jul 2026.
+Lewis Carroll is a House and Garage artist with 4 upcoming club dates listed on soundcheck as of Sat, 25 Jul 2026, next at Boston Manor Park, London on Sat, 25 Jul 2026.
 
 Lewis Carroll is a house and garage artist tracked on soundcheck, with 43 sets logged across Birmingham, Brighton, Edinburgh and Leeds and 3 more. Often billed alongside Dan Schofield, Harry McCanna and Tom Da Silva. Next up: Boston Manor Park, London on Sat 25 Jul.
 
@@ -28,4 +28,4 @@ Lewis Carroll is a house and garage artist tracked on soundcheck, with 43 sets l
 
 Dan Schofield, Harry McCanna, Tom Da Silva
 
-*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/lewiscarroll/)*
+*Updated Sat, 25 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/lewiscarroll/)*

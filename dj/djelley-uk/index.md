@@ -1,6 +1,6 @@
 # DJelley
 
-DJelley is a Techno and Jungle artist with 2 upcoming club dates listed on soundcheck as of Fri, 24 Jul 2026, next at XOYO, London on Thu, 30 Jul 2026.
+DJelley is a Techno and Jungle artist with 2 upcoming club dates listed on soundcheck as of Sat, 25 Jul 2026, next at XOYO, London on Thu, 30 Jul 2026.
 
 DJelley is a techno and jungle artist tracked on soundcheck, with 83 sets logged across Amsterdam, Auckland, Bali and Barcelona and 16 more. Often billed alongside Reece Hodges, Memory Muscle and Vanity Project. Next up: XOYO, London on Thu 30 Jul.
 
@@ -26,4 +26,4 @@ DJelley is a techno and jungle artist tracked on soundcheck, with 83 sets logged
 
 Reece Hodges, Memory Muscle, Vanity Project
 
-*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/djelley-uk/)*
+*Updated Sat, 25 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/djelley-uk/)*

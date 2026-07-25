@@ -1,14 +1,13 @@
 # Atemporal
 
-Atemporal is a music venue in Berlin with 8 upcoming nights listed on soundcheck as of Fri, 24 Jul 2026; the next is "Mediterranean Grooves with Dimitra Zina" on Fri, 24 Jul 2026.
+Atemporal is a music venue in Berlin with 7 upcoming nights listed on soundcheck as of Sat, 25 Jul 2026; the next is "Dumama Listening Session: Towards an Expanse , Q&A & Fundraiser for Housing Support" on Sat, 25 Jul 2026.
 
-Atemporal is a music venue in Berlin listed on soundcheck. 8 upcoming nights, with line-ups including Dimitra Zina, Jank Inc. and Zahra. Browse upcoming dates, start times and who's playing. Boxhagener Str. 96 1st floor left, 10245 Berlin.
+Atemporal is a music venue in Berlin listed on soundcheck. 7 upcoming nights, with line-ups including Jank Inc. and Zahra. Browse upcoming dates, start times and who's playing. Boxhagener Str. 96 1st floor left, 10245 Berlin.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Fri, 24 Jul 2026 | Mediterranean Grooves with Dimitra Zina | Dimitra Zina |
 | Sat, 25 Jul 2026 | Dumama Listening Session: Towards an Expanse , Q&A & Fundraiser for Housing Support |  |
 | Sat, 25 Jul 2026 | Huh Namhoon (Seoul, South Korea) — solo ambient performance |  |
 | Thu, 30 Jul 2026 | Tea and Sound performance with Transforma Studio |  |
@@ -21,4 +20,4 @@ Atemporal is a music venue in Berlin listed on soundcheck. 8 upcoming nights, wi
 
 Boxhagener Str. 96 1st floor left, 10245 Berlin, Berlin
 
-*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/atemporal/)*
+*Updated Sat, 25 Jul 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/atemporal/)*

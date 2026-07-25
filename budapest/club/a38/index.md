@@ -1,14 +1,13 @@
 # A38
 
-A38 is a music venue in Budapest with 10 upcoming nights listed on soundcheck as of Fri, 24 Jul 2026; the next is "Drum Club 360 / Friday" on Fri, 24 Jul 2026.
+A38 is a music venue in Budapest with 9 upcoming nights listed on soundcheck as of Sat, 25 Jul 2026; the next is "Reggaeton Rooftop Boat Party (Budapest)" on Sat, 25 Jul 2026.
 
-A38 is a music venue in Budapest listed on soundcheck. 10 upcoming nights, with line-ups including Alix Perez, Crimson & Chrom, Dual DeStress and Electric Boutique and 2 more. Browse upcoming dates, start times and who's playing. Petőfi Bridge; 1114 Budapest; Budai alsó rakpart.
+A38 is a music venue in Budapest listed on soundcheck. 9 upcoming nights, with line-ups including Alix Perez, Crimson & Chrom, Dual DeStress and Electric Boutique and 2 more. Browse upcoming dates, start times and who's playing. Petőfi Bridge; 1114 Budapest; Budai alsó rakpart.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Fri, 24 Jul 2026 | Drum Club 360 / Friday | Izzy |
 | Sat, 25 Jul 2026 | Reggaeton Rooftop Boat Party (Budapest) |  |
 | Sat, 25 Jul 2026 | Lick the Click! Sunburst Classic Terrace | Crimson & Chrom |
 | Thu, 30 Jul 2026 | Fine Selection #216 w/Pretty Flat | Electric Boutique, Lost in Details |
@@ -23,4 +22,4 @@ A38 is a music venue in Budapest listed on soundcheck. 10 upcoming nights, with 
 
 Petőfi Bridge; 1114 Budapest; Budai alsó rakpart, Budapest
 
-*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/budapest/club/a38/)*
+*Updated Sat, 25 Jul 2026 · source: [soundcheck](https://soundcheck.club/budapest/club/a38/)*

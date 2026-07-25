@@ -1,6 +1,6 @@
 # R Lounge
 
-R Lounge is a music venue in Tokyo with 15 upcoming nights listed on soundcheck as of Fri, 24 Jul 2026; the next is "R Lounge 13TH ANNIVERSARY PRESENTS Ezequiel Arias" on Sat, 25 Jul 2026.
+R Lounge is a music venue in Tokyo with 15 upcoming nights listed on soundcheck as of Sat, 25 Jul 2026; the next is "R Lounge 13TH ANNIVERSARY PRESENTS Ezequiel Arias" on Sat, 25 Jul 2026.
 
 R Lounge is a music venue in Tokyo listed on soundcheck. 15 upcoming nights, with line-ups including Ayana Pattra, Conures (DJ Tokunaga), DJ endorphin and DJ NECO and 2 more. Browse upcoming dates, start times and who's playing. Tosen Udagawa Bld. 6F/7F, 4-7, Udagawa, Shibuya, Tokyo, 150-0042, JPN.
 
@@ -23,4 +23,4 @@ R Lounge is a music venue in Tokyo listed on soundcheck. 15 upcoming nights, wit
 
 Tosen Udagawa Bld. 6F/7F, 4-7, Udagawa, Shibuya, Tokyo, 150-0042, JPN, Tokyo
 
-*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/r-lounge/)*
+*Updated Sat, 25 Jul 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/r-lounge/)*

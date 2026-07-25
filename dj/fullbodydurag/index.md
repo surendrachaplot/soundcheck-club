@@ -1,6 +1,6 @@
 # Fullbodydurag
 
-Fullbodydurag is a Ghetto Tech and House artist with 2 upcoming club dates listed on soundcheck as of Fri, 24 Jul 2026, next at The Banshee House, Denver on Sat, 25 Jul 2026.
+Fullbodydurag is a Ghetto Tech and House artist with 2 upcoming club dates listed on soundcheck as of Sat, 25 Jul 2026, next at The Banshee House, Denver on Sat, 25 Jul 2026.
 
 Fullbodydurag is a ghetto tech and house artist based in United States of America, tracked on soundcheck, with 72 sets logged across Chicago, Denver, Detroit and Newyorkcity. Often billed alongside JMT (2), Disc Jockey George and Sheefy McFly. Next up: The Banshee House, Denver on Sat 25 Jul.
 
@@ -26,4 +26,4 @@ Fullbodydurag is a ghetto tech and house artist based in United States of Americ
 
 JMT (2), Disc Jockey George, Sheefy McFly
 
-*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/fullbodydurag/)*
+*Updated Sat, 25 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/fullbodydurag/)*

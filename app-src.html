@@ -3147,6 +3147,55 @@
     /* Real <a> entity links: keep the element's existing look (no underline / link-blue). */
     a.nav{ text-decoration:none; color:inherit; -webkit-tap-highlight-color:transparent; }
 
+    /* ── WELCOME ONBOARDING (full-screen, SUNSET·CRT) ───────────────────────
+       Steps: email → inbox → city → log nights → more artists → scene card.
+       System grammar throughout: ONE gradient CTA per step, violet = chosen,
+       natural-width buttons, quiet text links for secondary moves. */
+    .obv{ position:fixed; inset:0; z-index:900; background:var(--bg); display:none; overflow-y:auto; -webkit-overflow-scrolling:touch; }
+    .obv.show{ display:block; }
+    .ob-wrap{ max-width:560px; margin:0 auto; padding:26px 22px calc(48px + env(safe-area-inset-bottom)); min-height:100%; display:flex; flex-direction:column; }
+    .ob-top{ display:flex; align-items:center; justify-content:space-between; margin-bottom:6vh; }
+    .ob-dots{ display:flex; gap:7px; }
+    .ob-dots i{ width:7px; height:7px; border-radius:50%; background:var(--surface-2); }
+    .ob-dots i.on{ background:var(--accent); }
+    .ob-skip{ background:none; border:0; color:var(--muted); font:700 var(--fs-xs) var(--body); letter-spacing:0.08em; text-transform:uppercase; cursor:pointer; padding:6px 0; }
+    .ob-eyebrow{ font:700 var(--fs-xs) var(--font-mono); letter-spacing:0.22em; text-transform:uppercase; color:var(--accent); margin-bottom:14px; }
+    .ob-h1{ font-family:var(--head); font-weight:800; font-size:clamp(1.9rem, 6.5vw, 2.6rem); letter-spacing:-0.02em; line-height:1.08; margin:0 0 12px; }
+    .ob-sub{ color:var(--muted); font-size:var(--fs-base); line-height:1.55; margin:0 0 26px; max-width:44ch; }
+    .ob-sub b{ color:var(--fg); font-weight:600; }
+    .obv input[type=email], .obv input[type=text], .obv input[type=tel]{ width:100%; background:var(--surface); border:1px solid var(--border); border-radius:var(--radius); color:var(--fg); font-size:16px; padding:14px 16px; }
+    .obv input:focus{ outline:none; border-color:var(--accent); }
+    .ob-cta{ display:inline-flex; align-items:center; justify-content:center; gap:8px; min-height:48px; padding:0 26px; margin-top:22px; background:var(--accent-grad); color:var(--accent-ink); border:0; border-radius:var(--radius); font:700 var(--fs-xs) var(--body); letter-spacing:0.14em; text-transform:uppercase; cursor:pointer; align-self:flex-start; transition:transform var(--dur-1) var(--ease-standard); }
+    .ob-cta:active{ transform:scale(0.97); }
+    .ob-cta:disabled{ opacity:0.45; cursor:default; }
+    .ob-alt{ background:none; border:0; color:var(--muted); font-size:var(--fs-sm); cursor:pointer; padding:14px 0 0; text-align:left; align-self:flex-start; text-decoration:underline; text-underline-offset:3px; }
+    .ob-err{ color:var(--accent); font-size:var(--fs-sm); min-height:1.2em; margin-top:10px; }
+    .ob-code{ letter-spacing:0.5em; font-variant-numeric:tabular-nums; text-align:center; font-size:22px !important; max-width:260px; }
+    .ob-city{ display:flex; align-items:center; gap:12px; flex-wrap:wrap; }
+    .ob-citypill{ display:inline-flex; align-items:center; gap:8px; background:var(--sel-weak); border:1.5px solid var(--sel); color:var(--fg); border-radius:999px; padding:10px 18px; font:700 var(--fs-base) var(--body); }
+    .ob-results{ margin-top:16px; display:flex; flex-direction:column; }
+    .ob-row{ display:flex; align-items:center; gap:12px; padding:11px 0; border-bottom:1px solid var(--border); background:none; border-left:0; border-right:0; border-top:0; color:var(--fg); text-align:left; cursor:pointer; width:100%; }
+    .ob-row img, .ob-row .ph{ width:52px; height:52px; border-radius:var(--radius); object-fit:cover; background:var(--surface-2); flex:0 0 auto; display:flex; align-items:center; justify-content:center; font:800 1.1rem var(--head); color:var(--muted); }
+    .ob-row .t{ flex:1; min-width:0; }
+    .ob-row .t b{ display:block; font-size:var(--fs-base); font-weight:700; white-space:nowrap; overflow:hidden; text-overflow:ellipsis; }
+    .ob-row .t span{ color:var(--muted); font-size:var(--fs-sm); white-space:nowrap; overflow:hidden; text-overflow:ellipsis; display:block; }
+    .ob-row .add{ flex:0 0 auto; width:34px; height:34px; border-radius:50%; border:1.5px solid var(--line-2); display:flex; align-items:center; justify-content:center; color:var(--muted); font-size:18px; }
+    .ob-row.on .add{ background:var(--sel); border-color:var(--sel); color:var(--sel-ink); }
+    .ob-count{ margin-top:18px; color:var(--muted); font:700 var(--fs-sm) var(--font-mono); letter-spacing:0.08em; text-transform:uppercase; }
+    .ob-count b{ color:var(--accent); }
+    .ob-grid{ display:grid; grid-template-columns:repeat(auto-fill, minmax(150px,1fr)); gap:10px; margin-top:6px; }
+    .ob-tile{ position:relative; border:1.5px solid var(--line-2); border-radius:var(--radius-md); overflow:hidden; background:var(--surface); cursor:pointer; padding:0; text-align:left; color:var(--fg); }
+    .ob-tile img, .ob-tile .ph{ width:100%; aspect-ratio:1; object-fit:cover; display:flex; align-items:center; justify-content:center; font:800 1.6rem var(--head); color:var(--muted); background:var(--surface-2); }
+    .ob-tile .nm{ display:block; padding:9px 10px; font-size:var(--fs-sm); font-weight:700; white-space:nowrap; overflow:hidden; text-overflow:ellipsis; }
+    .ob-tile .tick{ position:absolute; top:8px; right:8px; width:28px; height:28px; border-radius:50%; background:rgba(22,16,42,0.72); border:1.5px solid rgba(255,255,255,0.25); color:transparent; display:flex; align-items:center; justify-content:center; font-size:15px; }
+    .ob-tile.on{ border-color:var(--sel); }
+    .ob-tile.on .tick{ background:var(--sel); border-color:var(--sel); color:var(--sel-ink); }
+    .ob-card{ margin:4px 0 6px; max-width:340px; width:100%; border-radius:var(--radius-lg); border:1px solid var(--border); box-shadow:0 24px 60px rgba(0,0,0,0.5); }
+    .ob-ctarow{ display:flex; align-items:center; gap:14px; flex-wrap:wrap; }
+    @media (min-width:700px){ .ob-wrap{ padding-top:8vh; } }
+    .pf-seg-row{ display:flex; align-items:center; justify-content:space-between; gap:10px; }
+    .pf-seg-row .pf-seg{ margin:0; }
+
     /* ── MOBILE "BANDS" container layer ──────────────────────────────────────
        On phones the boxed-card chrome (1px border + radius + double insets)
        swaps for full-bleed surface bands separated by slivers of page bg —
@@ -3193,7 +3242,7 @@
     }
     @media (max-width:620px){ :root{ --gut:18px; } }
 </style>
-<meta name="sc-build" content="1784937568399">
+<meta name="sc-build" content="1784945918407">
 </head>
 <body>
   <main class="wrap">
@@ -3241,7 +3290,7 @@
     <div class="grid" id="grid"></div>
     <!-- Per-city "what's on this week" date links, injected by build-club (canonical
          /<city>/<date>/ pages). Empty in the source; hidden on client-side city switch. -->
-    <section id="home-seo-more" class="home-seo-more" data-city="london"><h2>What&rsquo;s on in London this week</h2><ul class="home-seo-dates"><li><a href="/london/2026-07-24/">Fri 24 Jul <span class="c">87 events</span></a></li><li><a href="/london/2026-07-25/">Sat 25 Jul <span class="c">153 events</span></a></li><li><a href="/london/2026-07-26/">Sun 26 Jul <span class="c">20 events</span></a></li><li><a href="/london/2026-07-28/">Tue 28 Jul <span class="c">4 events</span></a></li><li><a href="/london/2026-07-29/">Wed 29 Jul <span class="c">13 events</span></a></li><li><a href="/london/2026-07-30/">Thu 30 Jul <span class="c">27 events</span></a></li><li><a href="/london/2026-07-31/">Fri 31 Jul <span class="c">89 events</span></a></li></ul><nav class="home-seo-nav" aria-label="More on soundcheck"><a href="/london/this-weekend/">This weekend in London</a> <a href="/london/scene/">London scene guide</a> <a href="/cities/">All 104 cities</a></nav></section>
+    <section id="home-seo-more" class="home-seo-more" data-city="london"><h2>What&rsquo;s on in London this week</h2><ul class="home-seo-dates"><li><a href="/london/2026-07-25/">Sat 25 Jul <span class="c">153 events</span></a></li><li><a href="/london/2026-07-26/">Sun 26 Jul <span class="c">20 events</span></a></li><li><a href="/london/2026-07-28/">Tue 28 Jul <span class="c">4 events</span></a></li><li><a href="/london/2026-07-29/">Wed 29 Jul <span class="c">13 events</span></a></li><li><a href="/london/2026-07-30/">Thu 30 Jul <span class="c">27 events</span></a></li><li><a href="/london/2026-07-31/">Fri 31 Jul <span class="c">89 events</span></a></li><li><a href="/london/2026-08-01/">Sat 1 Aug <span class="c">115 events</span></a></li></ul><nav class="home-seo-nav" aria-label="More on soundcheck"><a href="/london/this-weekend/">This weekend in London</a> <a href="/london/scene/">London scene guide</a> <a href="/cities/">All 104 cities</a></nav></section>
 
     <!-- Crawlable home content (H1 + intro) — moved to the bottom of the page. Still a real
          <h1> in the DOM so it's the page heading for SEO regardless of visual position.
@@ -4315,7 +4364,7 @@
     });
     document.getElementById('bnav-search').addEventListener('click',function(){ openSearch(); });
     document.getElementById('bnav-radio').addEventListener('click',function(){ openRadio(); });
-    document.getElementById('bnav-profile').addEventListener('click',function(){ whenAuthKnown().then(function(){ if(currentUser) openAccount(); else openAuth(); }); });
+    document.getElementById('bnav-profile').addEventListener('click',function(){ whenAuthKnown().then(function(){ if(currentUser) openAccount(); else scOnboard('email'); }); });
     // Canonical SEO hrefs for entities — used to render real <a> links (hover URL,
     // right-click "open in new tab", middle/cmd-click all work natively) and as the
     // fallback resolver for any nav element that isn't yet an anchor.
@@ -5874,16 +5923,19 @@
     }
     // The taste card is now a SHARE OUTPUT (not on the page) — pop it as a
     // screenshot-ready modal + copy-link.
+    // Scene-card share sheet: the real PNG (/api/card — seen artists front and
+    // centre), native share where the OS has it, save + copy-link everywhere else.
     function pbShareCard(p){
       var ov=document.createElement('div'); ov.className='auth-overlay show';
       ov.innerHTML='<div class="rc-box tc-box"><button class="auth-close" type="button" aria-label="Close">&times;</button>'+
-        '<div class="pb-hero">'+tasteCardHTML(p)+'</div>'+
-        '<div class="rc-actions"><button class="pb-rot-btn pb-rot-acc" id="tc-copy" type="button"><i class="ti ti-copy" aria-hidden="true"></i> Copy link</button><span class="rc-hint">Screenshot to share your card</span></div>'+
+        '<img class="ob-card" style="display:block;margin:0 auto 14px" alt="Scene card" src="'+attrEsc(API_BASE+'/api/card?u='+encodeURIComponent(p.handle)+'&cb='+Date.now())+'">'+
+        '<div class="rc-actions"><button class="pf-btn primary" id="tc-share" type="button">Share the card</button>'+
+        '<button class="pf-btn" id="tc-copy" type="button">Copy link</button></div>'+
       '</div>';
       document.body.appendChild(ov);
       ov.querySelector('.auth-close').addEventListener('click',function(){ ov.remove(); });
       ov.addEventListener('click',function(e){ if(e.target===ov) ov.remove(); });
-      ov.querySelectorAll('.tb-abub[data-artist]').forEach(function(b){ if(b.dataset.artist) b.addEventListener('click',function(){ ov.remove(); openArtist(b.dataset.artist); }); });
+      ov.querySelector('#tc-share').addEventListener('click',function(){ shareSceneCard(p.handle); });
       ov.querySelector('#tc-copy').addEventListener('click',function(){ var url='soundcheck.club/u/'+p.handle, full='https://'+url; if(navigator.clipboard&&navigator.clipboard.writeText){ navigator.clipboard.writeText(full).then(function(){ showToast('Link copied — '+url); }).catch(function(){ showToast(full); }); } else showToast(full); });
     }
     // ── "In rotation": a curated, manually-ordered DJ shelf with playable sets ──
@@ -5982,8 +6034,10 @@
     // + home-city line + barcode + Share/Settings-or-Follow cells) + 4-cell stat strip.
     // The section boxes below keep their original ids so the unchanged wirePbProfile fills them.
     // Segmented pill switcher for a merged tab: one pill per sub-shelf, one box each (all but the first hidden).
-    function pfSegHTML(segs){
+    function pfSegHTML(segs, shareId){
       var pills='<div class="pf-seg">'+segs.map(function(sg,i){ return '<button class="pf-segb'+(i===0?' on':'')+'" type="button" data-sub="'+sg.sub+'">'+esc(sg.label)+(sg.count!=null?'<span class="c">'+sg.count+'</span>':'')+'</button>'; }).join('')+'</div>';
+      // optional per-section share sits on the pill row's right edge
+      if(shareId) pills='<div class="pf-seg-row">'+pills+'<button class="pf-btn" id="'+shareId+'" type="button">Share</button></div>';
       var boxes=segs.map(function(sg,i){ return '<div class="pf-box'+(i===0?'':' hide')+'" id="'+sg.boxId+'" data-sub="'+sg.sub+'"></div>'; }).join('');
       return pills+boxes;
     }
@@ -6026,7 +6080,7 @@
       var artSegs=[];
       if(isMe||wannaN) artSegs.push({sub:'wanna',label:'Wanna see',count:wannaN,boxId:'pf-wanna'});
       if(isMe||seenN)  artSegs.push({sub:'seen', label:'Seen live', count:seenN, boxId:'pf-seen'});
-      if(artSegs.length) T.push({k:'artists',l:'My Artists',c:(seenN+wannaN)||null,html:pfSegHTML(artSegs)});
+      if(artSegs.length) T.push({k:'artists',l:'My Artists',c:(seenN+wannaN)||null,html:pfSegHTML(artSegs,'pf-share-art')});
       if(savedN) T.push({k:'saved',l:'Interested',c:savedN,html:'<div class="pf-box" id="pf-events"></div>'});
       // My Playlist — shared Playlists + Queue + Listened set-shelves behind an inner pill switcher.
       var setqN=(s.setQueue||[]).length, setlN=(s.setListened||[]).length;
@@ -6034,7 +6088,7 @@
       if(isMe) plSegs.push({sub:'plists',label:'Playlists',count:null,boxId:'pf-plists'});   // filled async by fillPlaylists()
       if(setqN) plSegs.push({sub:'setq',label:'Queue',   count:setqN,boxId:'pf-setq'});
       if(setlN) plSegs.push({sub:'setl',label:'Listened',count:setlN,boxId:'pf-setl'});
-      if(plSegs.length) T.push({k:'playlist',l:'My Playlist',c:(setqN+setlN)||null,html:pfSegHTML(plSegs)});
+      if(plSegs.length) T.push({k:'playlist',l:'My Playlist',c:(setqN+setlN)||null,html:pfSegHTML(plSegs,'pf-share-pl')});
       var _pWant=(p&&p._deepTab)||''; var _pActive=T.some(function(t){ return t.k===_pWant; })?_pWant:(T[0]&&T[0].k);
       var tabsBar='<div class="fp-tabs pf-tabs" role="tablist">'+T.map(function(t){ var on=t.k===_pActive; return '<button class="fp-tab'+(on?' on':'')+'" type="button" role="tab" aria-selected="'+on+'" data-tab="'+t.k+'">'+esc(t.l)+(t.c!=null?'<span class="c">'+t.c+'</span>':'')+'</button>'; }).join('')+'</div>';
       var panels=T.map(function(t){ return '<div class="fp-tabpanel'+(t.k===_pActive?'':' hide')+'" data-panel="'+t.k+'">'+t.html+'</div>'; }).join('');
@@ -6121,6 +6175,15 @@
         var bar=document.querySelector('.pf-tabs'); if(bar) bar.scrollIntoView({ behavior:'smooth', block:'start' });
       }); });
       var sh=document.getElementById('pb-share'); if(sh) sh.addEventListener('click',function(){ pbShareCard(p); });
+      // per-section shares: My Artists = the scene card (it IS the artists);
+      // My Playlist = a deep link straight to that tab.
+      var sa=document.getElementById('pf-share-art'); if(sa) sa.addEventListener('click',function(){ pbShareCard(p); });
+      var sp=document.getElementById('pf-share-pl'); if(sp) sp.addEventListener('click',function(){
+        var url='https://soundcheck.club/u/'+p.handle+'#playlist';
+        if(navigator.share){ navigator.share({ title:'my playlist on soundcheck', url:url }).catch(function(){}); }
+        else if(navigator.clipboard&&navigator.clipboard.writeText){ navigator.clipboard.writeText(url).then(function(){ showToast('Playlist link copied'); }).catch(function(){ showToast(url); }); }
+        else showToast(url);
+      });
       var ed=document.getElementById('pb-edit'); if(ed) ed.addEventListener('click',function(){ openActionSheet({ title:'Settings', items:[
         { label:'Turn on night alerts', run:function(){ enablePush(); } },
         { label:'Change handle', run:function(){ openHandleModal(true); } },
@@ -7865,6 +7928,223 @@
         }).catch(function(){ ov.querySelector('#to-err').textContent='Network error.'; btn.disabled=false; });
       });
     }
+    // ── WELCOME ONBOARDING — email → link → city → log nights → more artists →
+    // scene card. Full-screen, one gradient CTA per step, violet = chosen.
+    // New accounts arrive from the magic link with ?welcome=1 and start at city.
+    var _ob={ email:'', city:null, logged:[], marked:[] };
+    var OB_STEPS=['city','log','suggest','card'];
+    function obEl(){
+      var el=document.getElementById('obv'); if(el) return el;
+      el=document.createElement('div'); el.className='obv'; el.id='obv';
+      el.innerHTML='<div class="ob-wrap"><div class="ob-top">'+
+        '<div style="font:800 1.05rem var(--head)">sound<span style="color:var(--accent)">check</span></div>'+
+        '<div class="ob-dots" id="ob-dots"></div>'+
+        '<button class="ob-skip" id="ob-skip" type="button" hidden>Skip</button>'+
+        '</div><div id="ob-body" style="display:flex;flex-direction:column;flex:1"></div></div>';
+      document.body.appendChild(el);
+      return el;
+    }
+    function obClose(){ var el=document.getElementById('obv'); if(el) el.classList.remove('show'); document.documentElement.style.overflow=''; }
+    function obBody(html){ var el=obEl(); el.classList.add('show'); document.documentElement.style.overflow='hidden'; el.querySelector('#ob-body').innerHTML=html; el.scrollTop=0; return el; }
+    function obChrome(step){
+      var el=obEl(), dots=el.querySelector('#ob-dots'), skip=el.querySelector('#ob-skip');
+      var i=OB_STEPS.indexOf(step);
+      dots.innerHTML = i<0 ? '' : OB_STEPS.map(function(_,j){ return '<i'+(j<=i?' class="on"':'')+'></i>'; }).join('');
+      skip.hidden = !(step==='log'||step==='suggest');
+      skip.onclick = function(){ scOnboard(step==='log'?'suggest':'card'); };
+    }
+    function scOnboard(step){
+      if(step!=='email' && step!=='inbox' && !currentUser){ step='email'; }
+      obChrome(step);
+      if(step==='email') return obStepEmail();
+      if(step==='inbox') return obStepInbox();
+      if(step==='city') return obStepCity();
+      if(step==='log') return obStepLog();
+      if(step==='suggest') return obStepSuggest();
+      if(step==='card') return obStepCard();
+    }
+    function obStepEmail(){
+      var el=obBody('<div class="ob-eyebrow">Your nights, on the record</div>'+
+        '<h1 class="ob-h1">Where were you last night?</h1>'+
+        '<p class="ob-sub">soundcheck keeps track of the artists you&rsquo;ve seen, the nights you were at, and when they play next. Drop your email &mdash; one link, no password.</p>'+
+        '<input type="email" id="ob-email" placeholder="you@…" autocomplete="email" inputmode="email" value="'+attrEsc(_ob.email)+'">'+
+        '<button class="ob-cta" id="ob-send" type="button">Send my link</button>'+
+        '<div class="ob-err" id="ob-err"></div>'+
+        '<button class="ob-alt" id="ob-close1" type="button">Not now &mdash; just look around</button>');
+      var inp=el.querySelector('#ob-email');
+      function go(){
+        var em=inp.value.trim().toLowerCase();
+        if(!/^[^\s@]+@[^\s@]+\.[^\s@]+$/.test(em)){ el.querySelector('#ob-err').textContent='That email doesn’t look right.'; return; }
+        _ob.email=em; var b=el.querySelector('#ob-send'); b.disabled=true; el.querySelector('#ob-err').textContent='';
+        fetch(API_BASE+'/api/auth/start',{ method:'POST', headers:{'Content-Type':'application/json'}, body:JSON.stringify({ email:em }) })
+          .then(function(r){ if(!r.ok) throw 0; scOnboard('inbox'); })
+          .catch(function(){ b.disabled=false; el.querySelector('#ob-err').textContent='Couldn’t send just now — try again.'; });
+      }
+      el.querySelector('#ob-send').addEventListener('click',go);
+      inp.addEventListener('keydown',function(e){ if(e.key==='Enter') go(); });
+      el.querySelector('#ob-close1').addEventListener('click',obClose);
+      setTimeout(function(){ inp.focus(); },80);
+    }
+    function obStepInbox(){
+      var el=obBody('<div class="ob-eyebrow">Check your inbox</div>'+
+        '<h1 class="ob-h1">The link&rsquo;s on its way.</h1>'+
+        '<p class="ob-sub">We sent it to <b>'+esc(_ob.email)+'</b>. Tap it on this device &mdash; or type the code from the email here.</p>'+
+        '<input type="tel" id="ob-code" class="ob-code" maxlength="8" placeholder="&bull;&bull;&bull;&bull;&bull;&bull;" autocomplete="one-time-code" inputmode="numeric">'+
+        '<div class="ob-err" id="ob-err"></div>'+
+        '<button class="ob-alt" id="ob-resend" type="button">Send it again</button>');
+      var inp=el.querySelector('#ob-code'), busy=false;
+      inp.addEventListener('input',async function(){
+        var code=inp.value.replace(/\D/g,'');
+        if(code.length<6 || busy) return;
+        busy=true; el.querySelector('#ob-err').textContent='';
+        try{
+          var r=await authedFetch('/api/auth/verify',{ method:'POST', headers:{'Content-Type':'application/json'}, body:JSON.stringify({ email:_ob.email, code:code }) });
+          var j=await r.json().catch(function(){return {};});
+          if(!r.ok || !j.ok){ el.querySelector('#ob-err').textContent='That code isn’t it — check the email.'; busy=false; return; }
+          if(j.token) _memToken=j.token;
+          await loadMe(); renderAccount();
+          scOnboard('city');
+        }catch(_){ el.querySelector('#ob-err').textContent='Network hiccup — try again.'; busy=false; }
+      });
+      el.querySelector('#ob-resend').addEventListener('click',function(){
+        fetch(API_BASE+'/api/auth/start',{ method:'POST', headers:{'Content-Type':'application/json'}, body:JSON.stringify({ email:_ob.email }) })
+          .then(function(){ showToast('Sent again — give it a minute'); }).catch(function(){});
+      });
+      setTimeout(function(){ inp.focus(); },80);
+    }
+    function obStepCity(){
+      var el=obBody('<div class="ob-eyebrow">Step 1 of 4</div>'+
+        '<h1 class="ob-h1" id="ob-cityh">Finding your city&hellip;</h1>'+
+        '<p class="ob-sub">This is where we&rsquo;ll look for your nights &mdash; you can switch any time.</p>'+
+        '<div class="ob-city"><span class="ob-citypill" id="ob-citypill" hidden></span>'+
+        '<button class="ob-alt" id="ob-changecity" type="button" style="padding-top:0">Somewhere else</button></div>'+
+        '<div id="ob-citypick" style="margin-top:14px;max-width:340px" hidden>'+cityPickerHTML('ob-city','')+'</div>'+
+        '<button class="ob-cta" id="ob-citygo" type="button" disabled>That&rsquo;s me</button>');
+      function setCity(slug){
+        var c=null; for(var i=0;i<CITY_LIST.length;i++) if(CITY_LIST[i].slug===slug) c=CITY_LIST[i];
+        if(!c) return;
+        _ob.city=c.slug;
+        el.querySelector('#ob-cityh').textContent='Looks like '+c.name+'.';
+        var pill=el.querySelector('#ob-citypill'); pill.hidden=false; pill.textContent=c.name;
+        el.querySelector('#ob-citygo').disabled=false;
+      }
+      pubGet('/api/geo').then(function(j){ var c=j&&j.city; setCity((c&&(c.slug||c))||'london'); }).catch(function(){ setCity('london'); });
+      el.querySelector('#ob-changecity').addEventListener('click',function(){
+        var box=el.querySelector('#ob-citypick'); box.hidden=false;
+        wireCityPicker('ob-city',function(slug){ setCity(slug); box.hidden=true; });
+        var i=document.getElementById('ob-city-in'); if(i) i.focus();
+      });
+      el.querySelector('#ob-citygo').addEventListener('click',function(){
+        if(!_ob.city) return;
+        setPref('homeCity',_ob.city); setPref('homeCityPrompted',1);
+        if(currentUser){ currentUser.prefs=currentUser.prefs||{}; currentUser.prefs.homeCity=_ob.city; }
+        scOnboard('log');
+      });
+    }
+    function obLoggedRow(g){ return (g.poster_url?'<img src="'+attrEsc(imgUrl(g.poster_url,120))+'" alt="">':'<span class="ph">'+esc((g.title||'?').slice(0,1))+'</span>'); }
+    function obStepLog(){
+      var el=obBody('<div class="ob-eyebrow">Step 2 of 4</div>'+
+        '<h1 class="ob-h1">Which nights were you at?</h1>'+
+        '<p class="ob-sub">Search an artist, a venue or a night &mdash; then just tap it. Three to five is plenty; it all lands in your gig diary.</p>'+
+        '<input type="text" id="ob-q" placeholder="Try a DJ or a club&hellip;" autocomplete="off" autocapitalize="off">'+
+        '<div class="ob-results" id="ob-res"></div>'+
+        '<div class="ob-count" id="ob-cnt" hidden></div>'+
+        '<button class="ob-cta" id="ob-loggo" type="button" disabled>Next</button>');
+      var res=el.querySelector('#ob-res'), list=[];
+      function paintCount(){
+        var c=el.querySelector('#ob-cnt');
+        c.hidden=!_ob.logged.length;
+        c.innerHTML='<b>'+_ob.logged.length+'</b> logged'+(_ob.logged.length<3?' · keep going':' — nice');
+        el.querySelector('#ob-loggo').disabled=!_ob.logged.length;
+      }
+      function paint(){
+        res.innerHTML=list.map(function(g,i){
+          var on=_ob.logged.some(function(x){ return String(x.id)===String(g.id); });
+          var when=g.event_date?fmtDateLabel(String(g.event_date).slice(0,10)):'';
+          return '<button type="button" class="ob-row'+(on?' on':'')+'" data-i="'+i+'">'+obLoggedRow(g)+
+            '<span class="t"><b>'+esc(g.title||'')+'</b><span>'+esc([g.venue,when].filter(Boolean).join(' · '))+'</span></span>'+
+            '<span class="add">'+(on?'✓':'+')+'</span></button>';
+        }).join('') || (el.querySelector('#ob-q').value.trim().length>=2?'<div class="ob-sub" style="margin-top:14px">Nothing yet — try the artist’s name.</div>':'');
+      }
+      var run=debounce(function(){
+        var q=el.querySelector('#ob-q').value.trim();
+        if(q.length<2){ list=[]; paint(); return; }
+        pubGet('/api/log/search?city='+encodeURIComponent(_ob.city||currentCity||'london')+'&q='+encodeURIComponent(q))
+          .then(function(j){ list=(j&&j.gigs||[]).slice(0,8); paint(); }).catch(function(){});
+      },240);
+      el.querySelector('#ob-q').addEventListener('input',run);
+      res.addEventListener('click',function(e){
+        var b=e.target.closest('[data-i]'); if(!b) return;
+        var g=list[+b.dataset.i]; if(!g) return;
+        var at=_ob.logged.findIndex(function(x){ return String(x.id)===String(g.id); });
+        if(at>=0){ _ob.logged.splice(at,1); paint(); paintCount(); return; }
+        var lineup=(g.lineup||[]).filter(function(a){ return a&&a.slug; }).slice(0,6).map(function(a){ return {slug:a.slug,name:a.name||a.slug}; });
+        _ob.logged.push(g); paint(); paintCount();
+        authedFetch('/api/diary',{ method:'POST', headers:{'Content-Type':'application/json'}, body:JSON.stringify({
+          date:g.event_date?String(g.event_date).slice(0,10):null, venue:g.venue||null,
+          event_id:(g.id!=null?String(g.id):null), note:null, artists:lineup }) }).catch(function(){});
+        lineup.forEach(function(a){ if(_ob.marked.indexOf(a.slug)<0) _ob.marked.push(a.slug); picks.artists[a.slug]={name:a.name,status:'seen',t:Date.now()}; });
+        savePicks(); afterPicksChanged();
+      });
+      el.querySelector('#ob-loggo').addEventListener('click',function(){ scOnboard('suggest'); });
+      paintCount();
+      setTimeout(function(){ el.querySelector('#ob-q').focus(); },80);
+    }
+    function obStepSuggest(){
+      var seenSlugs=Object.keys(picks.artists).filter(function(s){ return artStatus(s)==='seen'; });
+      var el=obBody('<div class="ob-eyebrow">Step 3 of 4</div>'+
+        '<h1 class="ob-h1">Who else have you caught?</h1>'+
+        '<p class="ob-sub">These played the same bills. Tap the ones you&rsquo;ve seen &mdash; soundcheck watches for their next shows and new sets so you don&rsquo;t have to.</p>'+
+        '<div class="ob-grid" id="ob-sug"><div class="ob-sub">Looking&hellip;</div></div>'+
+        '<button class="ob-cta" id="ob-suggo" type="button">Done</button>');
+      var grid=el.querySelector('#ob-sug');
+      pubGet('/api/onboard/suggest?seen='+encodeURIComponent(seenSlugs.slice(0,20).join(',')))
+        .then(function(j){
+          var arts=(j&&j.artists)||[];
+          if(!arts.length){ scOnboard('card'); return; }
+          grid.innerHTML=arts.map(function(a,i){
+            return '<button type="button" class="ob-tile" data-i="'+i+'" data-slug="'+attrEsc(a.slug)+'" data-name="'+attrEsc(a.name)+'">'+
+              (a.image_url?'<img src="'+attrEsc(imgUrl(a.image_url,300))+'" alt="" loading="lazy">':'<span class="ph">'+esc((a.name||'?').slice(0,1))+'</span>')+
+              '<span class="nm">'+esc(a.name)+'</span><span class="tick">✓</span></button>';
+          }).join('');
+        }).catch(function(){ scOnboard('card'); });
+      grid.addEventListener('click',function(e){
+        var t=e.target.closest('.ob-tile'); if(!t) return;
+        var slug=t.dataset.slug, name=t.dataset.name;
+        if(t.classList.toggle('on')) setArtist(slug,'seen',name);
+        else setArtist(slug,null,name);
+      });
+      el.querySelector('#ob-suggo').addEventListener('click',function(){ scOnboard('card'); });
+    }
+    function obStepCard(){
+      var h=currentUser&&currentUser.handle;
+      var el=obBody('<div class="ob-eyebrow">Step 4 of 4</div>'+
+        '<h1 class="ob-h1">That&rsquo;s your scene card.</h1>'+
+        '<p class="ob-sub">You, in artists. Post it to your story or the group chat &mdash; soundcheck is better when your people are on it.</p>'+
+        '<img class="ob-card" id="ob-cardimg" alt="Your scene card" src="'+attrEsc(API_BASE+'/api/card?u='+encodeURIComponent(h||'')+'&cb='+Date.now())+'">'+
+        '<div class="ob-ctarow"><button class="ob-cta" id="ob-share" type="button" style="margin-top:0">Share the card</button>'+
+        '<button class="ob-alt" id="ob-toprofile" type="button" style="padding-top:0">Open my profile</button></div>');
+      el.querySelector('#ob-share').addEventListener('click',function(){ shareSceneCard(); });
+      el.querySelector('#ob-toprofile').addEventListener('click',function(){ obClose(); if(h) openProfile(h); });
+    }
+    async function shareSceneCard(handle){
+      var h=handle||(currentUser&&currentUser.handle); if(!h) return;
+      var link='https://soundcheck.club/u/'+h;
+      try{
+        var r=await fetch(API_BASE+'/api/card?u='+encodeURIComponent(h)+'&cb='+Date.now());
+        if(!r.ok) throw 0;
+        var blob=await r.blob();
+        var file=new File([blob],'soundcheck-'+h+'.png',{type:'image/png'});
+        if(navigator.canShare && navigator.canShare({files:[file]})){
+          await navigator.share({ files:[file], title:'my scene card', text:link });
+          return;
+        }
+        var a=document.createElement('a'); a.href=URL.createObjectURL(blob); a.download='soundcheck-'+h+'.png'; a.click();
+        try{ await navigator.clipboard.writeText(link); showToast('Card saved + link copied'); }catch(_){ showToast('Card saved'); }
+      }catch(e){ if(e && e.name==='AbortError') return; showToast('Couldn’t fetch the card — try again.'); }
+    }
+    window.scOnboard=scOnboard;
+
     function openLog(prefill){
       setRoute('log');
       lgArtists=[]; lgSel=null; lgEventList=[];
@@ -8885,6 +9165,11 @@
     var _qs=new URLSearchParams(location.search);
     // Landed here from a claim link → they now own the page they're on.
     if(_qs.get('claimed')==='1'){ setTimeout(function(){ showToast('This page is yours now — edit it and post to your followers.'); },900); }
+    // Fresh account off the magic link → straight into onboarding (city step).
+    if(_qs.get('welcome')==='1'){
+      history.replaceState(null,'',location.pathname);
+      whenAuthKnown().then(function(){ if(currentUser) setTimeout(function(){ scOnboard('city'); },350); });
+    }
     var _qd=_qs.get('date'), _qe=_qs.get('event'), _qa=_qs.get('artist'), _qp=_qs.get('picks'), _qsd=_qs.get('d');
     var _qfrom=_qs.get('from'), _qto=_qs.get('to');
     sharedPicks = _qp ? decodePicksParam(_qp) : null;

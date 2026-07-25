@@ -1,14 +1,13 @@
 # Stereo
 
-Stereo is a music venue in Montreal with 13 upcoming nights listed on soundcheck as of Fri, 24 Jul 2026; the next is "Yamagucci - Forgivemetommy" on Fri, 24 Jul 2026.
+Stereo is a music venue in Montreal with 12 upcoming nights listed on soundcheck as of Sat, 25 Jul 2026; the next is "Spencer Brown (All Night Long)" on Sat, 25 Jul 2026.
 
-Stereo is a music venue in Montreal listed on soundcheck. 13 upcoming nights, with line-ups including Abel Aguilera, Adiel, Avision and Bianca Badita and 2 more. Browse upcoming dates, start times and who's playing. 858 Saint-Catherine Street East; Montreal, QC H2L 2E3; Canada.
+Stereo is a music venue in Montreal listed on soundcheck. 12 upcoming nights, with line-ups including Abel Aguilera, Adiel, Avision and Bianca Badita and 2 more. Browse upcoming dates, start times and who's playing. 858 Saint-Catherine Street East; Montreal, QC H2L 2E3; Canada.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Fri, 24 Jul 2026 | Yamagucci - Forgivemetommy | Yamagucci |
 | Sat, 25 Jul 2026 | Spencer Brown (All Night Long) | Spencer Brown |
 | Fri, 31 Jul 2026 | Adiel - Bianca Badita | Adiel, Bianca Badita, Héctor Oaks |
 | Sat, 1 Aug 2026 | Avision (All Night Long) | Avision |
@@ -18,9 +17,10 @@ Stereo is a music venue in Montreal listed on soundcheck. 13 upcoming nights, wi
 | Fri, 14 Aug 2026 | Nørbak - JKS - Milkē | JKS, Milkē, Nørbak |
 | Sat, 15 Aug 2026 | Sasha - Mike Chidiac | Mike Chidiac, Sasha |
 | Fri, 21 Aug 2026 | OCTOV x Stereo: Patrick Mason - KORVN | KORVN, Patrick Mason |
+| Sat, 22 Aug 2026 | Eelke Kleijn (All Night Long) | Eelke Kleijn |
 
 ## Address
 
 858 Saint-Catherine Street East; Montreal, QC H2L 2E3; Canada, Montreal
 
-*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/montreal/club/stereo/)*
+*Updated Sat, 25 Jul 2026 · source: [soundcheck](https://soundcheck.club/montreal/club/stereo/)*

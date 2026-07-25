@@ -1,14 +1,13 @@
 # Village au Pied-du-Courant
 
-Village au Pied-du-Courant is a music venue in Montreal with 21 upcoming nights listed on soundcheck as of Fri, 24 Jul 2026; the next is "Village au Pied-du-Courant - SunDown" on Fri, 24 Jul 2026.
+Village au Pied-du-Courant is a music venue in Montreal with 20 upcoming nights listed on soundcheck as of Sat, 25 Jul 2026; the next is "Village au Pied-du-Courant - Red Bull Dance Your Style Canada - NOKLICHÉ" on Sat, 25 Jul 2026.
 
-Village au Pied-du-Courant is a music venue in Montreal listed on soundcheck. 21 upcoming nights, with line-ups including ADEOLA, Awwful, Cal C (Modern Art) and Dijipoune and 2 more. Browse upcoming dates, start times and who's playing. 2100 rue Notre-Dame Est, Montréal H2K 4K3.
+Village au Pied-du-Courant is a music venue in Montreal listed on soundcheck. 20 upcoming nights, with line-ups including Awwful, Cal C (Modern Art), Dijipoune and Dj Hermano and 2 more. Browse upcoming dates, start times and who's playing. 2100 rue Notre-Dame Est, Montréal H2K 4K3.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Fri, 24 Jul 2026 | Village au Pied-du-Courant - SunDown | ADEOLA |
 | Sat, 25 Jul 2026 | Village au Pied-du-Courant - Red Bull Dance Your Style Canada - NOKLICHÉ |  |
 | Sun, 26 Jul 2026 | Village au Pied-du-Courant - HEY: ALBERT & Sassafras | HEY: ALBERT |
 | Thu, 30 Jul 2026 | Village au Pied-du-Courant - Seer Record Co presents | Cal C (Modern Art), Fella's Q-Tips |
@@ -18,9 +17,10 @@ Village au Pied-du-Courant is a music venue in Montreal listed on soundcheck. 21
 | Thu, 6 Aug 2026 | Village au Pied-du-Courant - Flush | Dijipoune, Dj Hermano, Phillippe |
 | Fri, 7 Aug 2026 | Village au Pied-du-Courant - Soirée Perreo: PLZRS | RICO RICA |
 | Sat, 8 Aug 2026 | Village au Pied-du-Courant - Sweet Like Honey | Ekitwanda |
+| Sun, 9 Aug 2026 | Piknic Électronik MTL x VPC: Discoño X KVNT Detour | La Niña Kiwi, Syana |
 
 ## Address
 
 2100 rue Notre-Dame Est, Montréal H2K 4K3, Montreal
 
-*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/montreal/club/village-au-pied-du-courant/)*
+*Updated Sat, 25 Jul 2026 · source: [soundcheck](https://soundcheck.club/montreal/club/village-au-pied-du-courant/)*

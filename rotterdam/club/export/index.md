@@ -1,14 +1,13 @@
 # export
 
-export is a music venue in Rotterdam with 8 upcoming nights listed on soundcheck as of Fri, 24 Jul 2026; the next is "Alex Ranzino b2b Momanna" on Fri, 24 Jul 2026.
+export is a music venue in Rotterdam with 7 upcoming nights listed on soundcheck as of Sat, 25 Jul 2026; the next is "Bean party" on Sat, 25 Jul 2026.
 
-export is a music venue in Rotterdam listed on soundcheck. 8 upcoming nights, with line-ups including 36framez, Alex Ranzino, BMG and DJ Shahmaran and 2 more. Browse upcoming dates, start times and who's playing. Keilestraat 7E, 3029 BP, Rotterdam.
+export is a music venue in Rotterdam listed on soundcheck. 7 upcoming nights, with line-ups including 36framez, BMG, DJ Shahmaran and Ectomorph and 2 more. Browse upcoming dates, start times and who's playing. Keilestraat 7E, 3029 BP, Rotterdam.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Fri, 24 Jul 2026 | Alex Ranzino b2b Momanna | Alex Ranzino |
 | Sat, 25 Jul 2026 | Bean party | Helmond Lang |
 | Fri, 31 Jul 2026 | Gabrielle Kwarteng, Sunnysoposted, 36framez | 36framez, Gabrielle Kwarteng, Sunnysoposted |
 | Fri, 7 Aug 2026 | Fafi Abdel Nour, Meena, Nanton | Fafi Abdel Nour |
@@ -21,4 +20,4 @@ export is a music venue in Rotterdam listed on soundcheck. 8 upcoming nights, wi
 
 Keilestraat 7E, 3029 BP, Rotterdam, Rotterdam
 
-*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/rotterdam/club/export/)*
+*Updated Sat, 25 Jul 2026 · source: [soundcheck](https://soundcheck.club/rotterdam/club/export/)*

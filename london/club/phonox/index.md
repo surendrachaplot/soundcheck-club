@@ -1,6 +1,6 @@
 # Phonox
 
-Phonox is a music venue in London with 27 upcoming nights listed on soundcheck as of Fri, 24 Jul 2026; the next is "Dimitri From Paris" on Fri, 24 Jul 2026.
+Phonox is a music venue in London with 27 upcoming nights listed on soundcheck as of Sat, 25 Jul 2026; the next is "Phonox: CIRCULATE with Egyptian Lover, FREAKENSTEIN" on Sat, 25 Jul 2026.
 
 Phonox is a music venue in London listed on soundcheck. 27 upcoming nights, with line-ups including Abby Daze, Alan Fitzpatrick, Alba Heidari and A LOVE FROM OUTER SPACE and 2 more. Browse upcoming dates, start times and who's playing. 418 Brixton Road Brixton London SW9 7AY.
 
@@ -8,7 +8,6 @@ Phonox is a music venue in London listed on soundcheck. 27 upcoming nights, with
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Fri, 24 Jul 2026 | Dimitri From Paris | Dimitri From Paris |
 | Sat, 25 Jul 2026 | Phonox: CIRCULATE with Egyptian Lover, FREAKENSTEIN | Egyptian Lover, FREAKENSTEIN |
 | Fri, 31 Jul 2026 | Boiler Room Festival Afterparty |  |
 | Sat, 1 Aug 2026 | Boiler Room Festival Afterparty |  |
@@ -18,9 +17,10 @@ Phonox is a music venue in London listed on soundcheck. 27 upcoming nights, with
 | Sat, 15 Aug 2026 | Phonox x MOT: CIRCULATE with DJ Paypal & Ikonika - Afterparty | Black Rave Culture, DJ Paypal, Ikonika |
 | Sat, 15 Aug 2026 | Phonox: DJ Assault + Black Rave Culture | Black Rave Culture, DJ Assault |
 | Fri, 21 Aug 2026 | A LOVE FROM OUTER SPACE | A LOVE FROM OUTER SPACE, Sean Johnston |
+| Sat, 22 Aug 2026 | Giegling: Edward, Konstantin | Edward, Konstantin |
 
 ## Address
 
 418 Brixton Road Brixton London SW9 7AY, London
 
-*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/london/club/phonox/)*
+*Updated Sat, 25 Jul 2026 · source: [soundcheck](https://soundcheck.club/london/club/phonox/)*

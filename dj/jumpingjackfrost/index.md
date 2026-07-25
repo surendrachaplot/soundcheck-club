@@ -1,14 +1,13 @@
 # Jumping Jack Frost
 
-Jumping Jack Frost is a Drum & Bass and Jungle artist with 7 upcoming club dates listed on soundcheck as of Fri, 24 Jul 2026, next at Hootananny Brixton, London on Fri, 24 Jul 2026.
+Jumping Jack Frost is a Drum & Bass and Jungle artist with 6 upcoming club dates listed on soundcheck as of Sat, 25 Jul 2026, next at Electric Ballroom, London on Sat, 25 Jul 2026.
 
-Jumping Jack Frost is a drum & bass and jungle artist tracked on soundcheck, with 74 sets logged across Birmingham, Brighton, Bristol and London and 3 more. Often billed alongside Funsta, Moose and The Ragga Twins. Next up: Hootananny Brixton, London on Fri 24 Jul.
+Jumping Jack Frost is a drum & bass and jungle artist tracked on soundcheck, with 74 sets logged across Birmingham, Brighton, Bristol and London and 3 more. Often billed alongside Funsta, Moose and The Ragga Twins. Next up: Electric Ballroom, London on Sat 25 Jul.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 24 Jul 2026 | Hootananny Brixton | London |
 | Sat, 25 Jul 2026 | Electric Ballroom | London |
 | Sat, 25 Jul 2026 | XOYO | London |
 | Sat, 25 Jul 2026 | TBA | London |
@@ -18,6 +17,7 @@ Jumping Jack Frost is a drum & bass and jungle artist tracked on soundcheck, wit
 
 ## Recently played
 
+- Hootananny Brixton, London — Fri, 24 Jul 2026
 - TBA - Los Angeles, Los Angeles — Sat, 11 Jul 2026
 - Worms Music Studios, Los Angeles — Sat, 11 Jul 2026
 - The Cause, London — Sun, 14 Jun 2026
@@ -25,10 +25,9 @@ Jumping Jack Frost is a drum & bass and jungle artist tracked on soundcheck, wit
 - UNLOCKED, London — Sat, 28 Mar 2026
 - Bar A Bar, London — Sat, 21 Mar 2026
 - Brixton Jamm, London — Fri, 6 Feb 2026
-- Namura Zosenjo Atochi / Creative Center Osaka, Osaka — Tue, 30 Dec 2025
 
 ## Shares bills with
 
 Funsta, Moose, The Ragga Twins
 
-*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/jumpingjackfrost/)*
+*Updated Sat, 25 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/jumpingjackfrost/)*

@@ -1,6 +1,6 @@
 # Cormac
 
-Cormac is a House and Disco artist with 2 upcoming club dates listed on soundcheck as of Fri, 24 Jul 2026, next at Berghain | Panorama Bar | Säule, Berlin on Sat, 25 Jul 2026.
+Cormac is a House and Disco artist with 2 upcoming club dates listed on soundcheck as of Sat, 25 Jul 2026, next at Berghain | Panorama Bar | Säule, Berlin on Sat, 25 Jul 2026.
 
 Cormac is a house and disco artist tracked on soundcheck, with 168 sets logged across Amsterdam, Antwerp, Athens and Bali and 49 more. Often billed alongside BASHKKA, Massimiliano Pagliara and Roi Perez. Next up: Berghain | Panorama Bar | Säule, Berlin on Sat 25 Jul.
 
@@ -26,4 +26,4 @@ Cormac is a house and disco artist tracked on soundcheck, with 168 sets logged a
 
 BASHKKA, Massimiliano Pagliara, Roi Perez
 
-*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/cormac/)*
+*Updated Sat, 25 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/cormac/)*

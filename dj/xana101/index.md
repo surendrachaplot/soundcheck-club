@@ -1,6 +1,6 @@
 # Xana 101
 
-Xana 101 is a Techno and Club artist with 2 upcoming club dates listed on soundcheck as of Fri, 24 Jul 2026, next at TBA - Brooklyn, New York City on Sat, 25 Jul 2026.
+Xana 101 is a Techno and Club artist with 2 upcoming club dates listed on soundcheck as of Sat, 25 Jul 2026, next at TBA - Brooklyn, New York City on Sat, 25 Jul 2026.
 
 Xana 101 is a techno and club artist based in United States of America, tracked on soundcheck, with 91 sets logged across Boston, Chicago, Miami and Newcastle and 2 more. Often billed alongside Cyb3r Bull, Soo Intoit and Vyper. Next up: TBA - Brooklyn, Newyorkcity on Sat 25 Jul.
 
@@ -26,4 +26,4 @@ Xana 101 is a techno and club artist based in United States of America, tracked 
 
 Cyb3r Bull, Soo Intoit, Vyper
 
-*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/xana101/)*
+*Updated Sat, 25 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/xana101/)*

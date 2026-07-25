@@ -1,8 +1,8 @@
 # Dispël
 
-Dispël is a Electronica and Post-Punk artist with 2 upcoming club dates listed on soundcheck as of Fri, 24 Jul 2026, next at Lennon's Club, Barcelona on Sat, 25 Jul 2026.
+Dispël is a Electronica and Post-Punk artist with 3 upcoming club dates listed on soundcheck as of Sat, 25 Jul 2026, next at Lennon's Club, Barcelona on Sat, 25 Jul 2026.
 
-Dispël is an electronica and post-punk artist tracked on soundcheck, with 45 sets logged across Barcelona. Next up: Lennon's Club, Barcelona on Sat 25 Jul.
+Dispël is an electronica and post-punk artist tracked on soundcheck, with 46 sets logged across Barcelona. Next up: Lennon's Club, Barcelona on Sat 25 Jul.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Dispël is an electronica and post-punk artist tracked on soundcheck, with 45 se
 | --- | --- | --- |
 | Sat, 25 Jul 2026 | Lennon's Club | Barcelona |
 | Sat, 5 Sept 2026 | TBA - Sala Padró  | Barcelona |
+| Fri, 23 Oct 2026 | Sala River | Barcelona |
 
 ## Recently played
 
@@ -22,4 +23,4 @@ Dispël is an electronica and post-punk artist tracked on soundcheck, with 45 se
 - Lennon's Club, Barcelona — Sun, 14 Jun 2026
 - Lennon's Club, Barcelona — Fri, 5 Jun 2026
 
-*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/dispel-es/)*
+*Updated Sat, 25 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/dispel-es/)*

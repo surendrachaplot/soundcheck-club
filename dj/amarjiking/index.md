@@ -1,6 +1,6 @@
 # Amarji King
 
-Amarji King is a Club and Techno artist with 2 upcoming club dates listed on soundcheck as of Fri, 24 Jul 2026, next at TBA - Brooklyn, New York City on Sat, 25 Jul 2026.
+Amarji King is a Club and Techno artist with 2 upcoming club dates listed on soundcheck as of Sat, 25 Jul 2026, next at TBA - Brooklyn, New York City on Sat, 25 Jul 2026.
 
 Amarji King is a club and techno artist tracked on soundcheck, with 41 sets logged across Austin, Chicago, Detroit and Houston and 6 more. Often billed alongside HYPERFEMME, BLAIZE and IDKRYAN. Next up: TBA - Brooklyn, Newyorkcity on Sat 25 Jul.
 
@@ -26,4 +26,4 @@ Amarji King is a club and techno artist tracked on soundcheck, with 41 sets logg
 
 HYPERFEMME, BLAIZE, IDKRYAN
 
-*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/amarjiking/)*
+*Updated Sat, 25 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/amarjiking/)*

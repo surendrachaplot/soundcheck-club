@@ -1,6 +1,6 @@
 # Salam Kitty
 
-Salam Kitty is a Club and Afro Tech artist with 2 upcoming club dates listed on soundcheck as of Fri, 24 Jul 2026, next at TBA - Park Lane Market, Southside, Glasgow, Glasgow on Sat, 25 Jul 2026.
+Salam Kitty is a Club and Afro Tech artist with 2 upcoming club dates listed on soundcheck as of Sat, 25 Jul 2026, next at TBA - Park Lane Market, Southside, Glasgow, Glasgow on Sat, 25 Jul 2026.
 
 Salam Kitty is a club and afro tech artist based in United Kingdom, tracked on soundcheck, with 50 sets logged across Edinburgh, Glasgow, London and Seoul. Often billed alongside Bellarosa, DIJA and HUNTRESS. Next up: TBA - Park Lane Market, Southside, Glasgow, Glasgow on Sat 25 Jul.
 
@@ -26,4 +26,4 @@ Salam Kitty is a club and afro tech artist based in United Kingdom, tracked on s
 
 Bellarosa, DIJA, HUNTRESS
 
-*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/salamkitty/)*
+*Updated Sat, 25 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/salamkitty/)*

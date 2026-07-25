@@ -1,8 +1,8 @@
 # Klaudie
 
-Klaudie is a House and Tech House artist with 4 upcoming club dates listed on soundcheck as of Fri, 24 Jul 2026, next at Cova Santa, Ibiza on Tue, 28 Jul 2026.
+Klaudie is a House and Tech House artist with 5 upcoming club dates listed on soundcheck as of Sat, 25 Jul 2026, next at Cova Santa, Ibiza on Tue, 28 Jul 2026.
 
-Klaudie is a house and tech house artist tracked on soundcheck, with 32 sets logged across Amsterdam, Barcelona, Dusseldorf and Ibiza and 3 more. Often billed alongside Prunk, Dennis Ferrer and Kepler. Next up: Cova Santa, Ibiza on Tue 28 Jul.
+Klaudie is a house and tech house artist tracked on soundcheck, with 33 sets logged across Amsterdam, Barcelona, Dusseldorf and Ibiza and 3 more. Often billed alongside Prunk, Kepler and Dennis Ferrer. Next up: Cova Santa, Ibiza on Tue 28 Jul.
 
 ## Upcoming shows
 
@@ -12,6 +12,7 @@ Klaudie is a house and tech house artist tracked on soundcheck, with 32 sets log
 | Tue, 25 Aug 2026 | Cova Santa | Ibiza |
 | Tue, 29 Sept 2026 | Cova Santa | Ibiza |
 | Tue, 6 Oct 2026 | Cova Santa | Ibiza |
+| Fri, 23 Oct 2026 | Ijland | Amsterdam |
 
 ## Recently played
 
@@ -26,6 +27,6 @@ Klaudie is a house and tech house artist tracked on soundcheck, with 32 sets log
 
 ## Shares bills with
 
-Prunk, Dennis Ferrer, Kepler
+Prunk, Kepler, Dennis Ferrer
 
-*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/klaudie/)*
+*Updated Sat, 25 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/klaudie/)*

@@ -1,14 +1,13 @@
 # UNO MALTA
 
-UNO MALTA is a music venue in Malta with 23 upcoming nights listed on soundcheck as of Fri, 24 Jul 2026; the next is "COCORICÒ PRES GALACTICA MALTA" on Fri, 24 Jul 2026.
+UNO MALTA is a music venue in Malta with 22 upcoming nights listed on soundcheck as of Sat, 25 Jul 2026; the next is "Ben Sterling" on Sun, 26 Jul 2026.
 
-UNO MALTA is a music venue in Malta listed on soundcheck. 23 upcoming nights, with line-ups including Kepler, ADMNTi, Alec Falconer and Ale De Tuglie and 2 more. Browse upcoming dates, start times and who's playing. Crafts Village, Ta''Qali, Attard ATD, 4000, Malta.
+UNO MALTA is a music venue in Malta listed on soundcheck. 22 upcoming nights, with line-ups including Kepler, ADMNTi, Alec Falconer and Ale De Tuglie and 2 more. Browse upcoming dates, start times and who's playing. Crafts Village, Ta''Qali, Attard ATD, 4000, Malta.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Fri, 24 Jul 2026 | COCORICÒ PRES GALACTICA MALTA | Gianni Di Bernardo, KARAH |
 | Sun, 26 Jul 2026 | Ben Sterling | Ben Sterling |
 | Fri, 31 Jul 2026 | COCORICÒ PRES GALACTICA MALTA | Luca Agnelli, MALISTA, Winson, Winson Ngoh |
 | Wed, 5 Aug 2026 | JUSTICE - NERISSIMA SERPE X NIKY SAVAGE |  |
@@ -18,9 +17,10 @@ UNO MALTA is a music venue in Malta listed on soundcheck. 23 upcoming nights, wi
 | Thu, 13 Aug 2026 | COCORICÒ PRES GALACTICA MALTA | DAISY, Holy Priest |
 | Sun, 16 Aug 2026 | Loco Dice | Daniel Blade, Idriss D, Loco Dice |
 | Wed, 19 Aug 2026 | JUSTICE - TONY BOY |  |
+| Fri, 21 Aug 2026 | COCORICÒ PRES GALACTICA MALTA | Indira Paganotto, MaMo, SANEM |
 
 ## Address
 
 Crafts Village, Ta''Qali, Attard ATD, 4000, Malta, Malta
 
-*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/malta/club/uno-malta/)*
+*Updated Sat, 25 Jul 2026 · source: [soundcheck](https://soundcheck.club/malta/club/uno-malta/)*

@@ -1,6 +1,6 @@
 # Paradiso
 
-Paradiso is a music venue in Amsterdam with 13 upcoming nights listed on soundcheck as of Fri, 24 Jul 2026; the next is "Disco Arabesquo" on Sat, 25 Jul 2026.
+Paradiso is a music venue in Amsterdam with 13 upcoming nights listed on soundcheck as of Sat, 25 Jul 2026; the next is "Disco Arabesquo" on Sat, 25 Jul 2026.
 
 Paradiso is a music venue in Amsterdam listed on soundcheck. 13 upcoming nights, with line-ups including Absoluut, Answer Code Request, Artefakt and ASHTATTZ and 2 more. Browse upcoming dates, start times and who's playing. Weteringschans 6; 1017 Binnenstad; Amsterdam; Netherlands.
 
@@ -23,4 +23,4 @@ Paradiso is a music venue in Amsterdam listed on soundcheck. 13 upcoming nights,
 
 Weteringschans 6; 1017 Binnenstad; Amsterdam; Netherlands, Amsterdam
 
-*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/paradiso/)*
+*Updated Sat, 25 Jul 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/paradiso/)*

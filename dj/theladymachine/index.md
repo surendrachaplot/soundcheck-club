@@ -1,21 +1,22 @@
 # The Lady Machine
 
-The Lady Machine is a Techno and House artist with 5 upcoming club dates listed on soundcheck as of Fri, 24 Jul 2026, next at Tresor / Globus, Berlin on Fri, 24 Jul 2026.
+The Lady Machine is a Techno and House artist with 5 upcoming club dates listed on soundcheck as of Sat, 25 Jul 2026, next at TBA - Seebruck - Chiemsee, Munich on Sat, 8 Aug 2026.
 
-The Lady Machine is a techno and house artist tracked on soundcheck, with 172 sets logged across Amsterdam, Athens, Barcelona and Berlin and 40 more. Often billed alongside Freddy K, Blasha & Allatt and Rakans. Next up: Tresor / Globus, Berlin on Fri 24 Jul.
+The Lady Machine is a techno and house artist tracked on soundcheck, with 173 sets logged across Amsterdam, Athens, Barcelona and Berlin and 40 more. Often billed alongside Freddy K, Blasha & Allatt and Rakans. Next up: TBA - Seebruck - Chiemsee, Munich on Sat 8 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 24 Jul 2026 | Tresor / Globus | Berlin |
 | Sat, 8 Aug 2026 | TBA - Seebruck - Chiemsee | Munich |
 | Fri, 14 Aug 2026 | TBA - Klingemühle | Berlin |
 | Fri, 4 Sept 2026 | TBA | Barcelona |
 | Wed, 21 Oct 2026 | TILLATEC | Amsterdam |
+| Fri, 23 Oct 2026 | CLUB RAUM | Amsterdam |
 
 ## Recently played
 
+- Tresor / Globus, Berlin — Fri, 24 Jul 2026
 - Fabrik, Madrid — Sat, 11 Jul 2026
 - BLITZ, Munich — Fri, 10 Jul 2026
 - Lofi, Amsterdam — Sat, 4 Jul 2026
@@ -23,10 +24,9 @@ The Lady Machine is a techno and house artist tracked on soundcheck, with 172 se
 - Seaseaclub Barcelona, Barcelona — Sun, 21 Jun 2026
 - RSO.BERLIN, Berlin — Sat, 13 Jun 2026
 - Zinkbad Eventhalle, Zurich — Sat, 13 Jun 2026
-- Arzenal, Budapest — Sat, 23 May 2026
 
 ## Shares bills with
 
 Freddy K, Blasha & Allatt, Rakans
 
-*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/theladymachine/)*
+*Updated Sat, 25 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/theladymachine/)*

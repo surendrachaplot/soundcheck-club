@@ -1,6 +1,6 @@
 # Margaret Dygas
 
-Margaret Dygas is a House and Minimal artist with 5 upcoming club dates listed on soundcheck as of Fri, 24 Jul 2026, next at Supermarket, Zurich on Sat, 25 Jul 2026.
+Margaret Dygas is a House and Minimal artist with 5 upcoming club dates listed on soundcheck as of Sat, 25 Jul 2026, next at Supermarket, Zurich on Sat, 25 Jul 2026.
 
 Margaret Dygas is a house and minimal artist tracked on soundcheck, with 135 sets logged across Amsterdam, Barcelona, Belgrade and Berlin and 36 more. Often billed alongside Edward, Francesco Del Garda and Sonja Moonear. Next up: Supermarket, Zurich on Sat 25 Jul.
 
@@ -29,4 +29,4 @@ Margaret Dygas is a house and minimal artist tracked on soundcheck, with 135 set
 
 Edward, Francesco Del Garda, Sonja Moonear
 
-*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/margaretdygas/)*
+*Updated Sat, 25 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/margaretdygas/)*

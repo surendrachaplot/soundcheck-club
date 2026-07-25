@@ -1,6 +1,6 @@
 # Oliver Koletzki b2b Frida Darko at Flash
 
-Oliver Koletzki b2b Frida Darko at Flash on Sat 29 Aug, Washingtondc. 3 acts on the bill: Adrian Collazo, Frida Darko and Oliver Koletzki. House and Deep House. Preview the line-up and save it on soundcheck.
+Oliver Koletzki b2b Frida Darko at Flash on Sat 29 Aug, Washingtondc. 4 acts on the bill: Adrian Collazo, DJ Soul (US), Frida Darko and Oliver Koletzki. House and Deep House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -11,6 +11,7 @@ Oliver Koletzki b2b Frida Darko at Flash on Sat 29 Aug, Washingtondc. 3 acts on 
 ## Line-up
 
 - Adrian Collazo
+- DJ Soul (US)
 - Frida Darko
 - Oliver Koletzki
 

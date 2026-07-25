@@ -1,8 +1,8 @@
 # Cynthia Spiering
 
-Cynthia Spiering is a Techno and House artist with 4 upcoming club dates listed on soundcheck as of Fri, 24 Jul 2026, next at Ministerium Club, Lisbon on Thu, 30 Jul 2026.
+Cynthia Spiering is a Techno and House artist with 5 upcoming club dates listed on soundcheck as of Sat, 25 Jul 2026, next at Ministerium Club, Lisbon on Thu, 30 Jul 2026.
 
-Cynthia Spiering is a techno and house artist tracked on soundcheck, with 108 sets logged across Amsterdam, Barcelona, Berlin and Budapest and 18 more. Often billed alongside DIØN, KARAH and Aphøtic. Next up: Ministerium Club, Lisbon on Thu 30 Jul.
+Cynthia Spiering is a techno and house artist tracked on soundcheck, with 109 sets logged across Amsterdam, Barcelona, Berlin and Budapest and 18 more. Often billed alongside DIØN, KARAH and Aphøtic. Next up: Ministerium Club, Lisbon on Thu 30 Jul.
 
 ## Upcoming shows
 
@@ -12,6 +12,7 @@ Cynthia Spiering is a techno and house artist tracked on soundcheck, with 108 se
 | Sat, 29 Aug 2026 | Ahoy Rotterdam | Rotterdam |
 | Sat, 29 Aug 2026 | Maassilo | Rotterdam |
 | Sat, 19 Sept 2026 | Artheater | Cologne |
+| Fri, 23 Oct 2026 | Ndsm Wharf | Amsterdam |
 
 ## Recently played
 
@@ -28,4 +29,4 @@ Cynthia Spiering is a techno and house artist tracked on soundcheck, with 108 se
 
 DIØN, KARAH, Aphøtic
 
-*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/cynthiaspiering/)*
+*Updated Sat, 25 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/cynthiaspiering/)*

@@ -1,14 +1,13 @@
 # Club Cheek
 
-Club Cheek is a music venue in London with 9 upcoming nights listed on soundcheck as of Fri, 24 Jul 2026; the next is "UNDERCOVER BANGERS PRESENTS: LOZZY'S LATE NIGHT LOVERS" on Fri, 24 Jul 2026.
+Club Cheek is a music venue in London with 8 upcoming nights listed on soundcheck as of Sat, 25 Jul 2026; the next is "BRIXTON BOOGIE" on Sat, 25 Jul 2026.
 
-Club Cheek is a music venue in London listed on soundcheck. 9 upcoming nights, with line-ups including Ali Velmi, Anahita Shamsaei, Bluetoof and Bobby. and 2 more. Browse upcoming dates, start times and who's playing. 302-304 Barrington Road, London, SW9 7JJ.
+Club Cheek is a music venue in London listed on soundcheck. 8 upcoming nights, with line-ups including Ali Velmi, Anahita Shamsaei, Bluetoof and Bobby. and 2 more. Browse upcoming dates, start times and who's playing. 302-304 Barrington Road, London, SW9 7JJ.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Fri, 24 Jul 2026 | UNDERCOVER BANGERS PRESENTS: LOZZY'S LATE NIGHT LOVERS | Kojay, Lozzy, MJK, Mahnoor, P-Lucas |
 | Sat, 25 Jul 2026 | BRIXTON BOOGIE |  |
 | Thu, 30 Jul 2026 | Nowhere LDN [002] - Lil Silva Otherliine Oscar Farrell + Special Guests  |  |
 | Fri, 31 Jul 2026 | LZee presents Function Ting | Ali Velmi, Bluetoof, FLORA THA EXPLORA, Rhiavas, Ricochet |
@@ -22,4 +21,4 @@ Club Cheek is a music venue in London listed on soundcheck. 9 upcoming nights, w
 
 302-304 Barrington Road, London, SW9 7JJ, London
 
-*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/london/club/club-cheek/)*
+*Updated Sat, 25 Jul 2026 · source: [soundcheck](https://soundcheck.club/london/club/club-cheek/)*

@@ -1,14 +1,13 @@
 # Natascha Polké
 
-Natascha Polké is a House and Electro artist with 7 upcoming club dates listed on soundcheck as of Fri, 24 Jul 2026, next at TBA - Toronto, Toronto on Fri, 24 Jul 2026.
+Natascha Polké is a House and Electro artist with 6 upcoming club dates listed on soundcheck as of Sat, 25 Jul 2026, next at Sziget Events Hall, Budapest on Thu, 13 Aug 2026.
 
-Natascha Polké is a house and electro artist tracked on soundcheck, with 52 sets logged across Amsterdam, Athens, Basel and Berlin and 25 more. Often billed alongside Parra for Cuva, NTO and Nora En Pure. Next up: TBA - Toronto, Toronto on Fri 24 Jul.
+Natascha Polké is a house and electro artist tracked on soundcheck, with 52 sets logged across Amsterdam, Athens, Basel and Berlin and 25 more. Often billed alongside Parra for Cuva, NTO and Nora En Pure. Next up: Sziget Events Hall, Budapest on Thu 13 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 24 Jul 2026 | TBA - Toronto | Toronto |
 | Thu, 13 Aug 2026 | Sziget Events Hall | Budapest |
 | Sat, 15 Aug 2026 | TBA - Bucht der Träumer | Frankfurt |
 | Fri, 28 Aug 2026 | Scorpios | Mykonos |
@@ -18,6 +17,7 @@ Natascha Polké is a house and electro artist tracked on soundcheck, with 52 set
 
 ## Recently played
 
+- TBA - Toronto, Toronto — Fri, 24 Jul 2026
 - TBA - Fly Me Sun & Stars, Berlin — Fri, 17 Jul 2026
 - 45hertz, Hamburg — Sat, 4 Jul 2026
 - Flugplatz 1, 17248, LÄRZ, Berlin — Fri, 26 Jun 2026
@@ -25,10 +25,9 @@ Natascha Polké is a house and electro artist tracked on soundcheck, with 52 set
 - TBA - Airport Leipzig / Halle, Leipzig — Sat, 6 Jun 2026
 - Paal69, Amsterdam — Sat, 30 May 2026
 - Hacienda Club, Rome — Fri, 15 May 2026
-- Cinemagic Lab, Vancouver — Sat, 25 Apr 2026
 
 ## Shares bills with
 
 Parra for Cuva, NTO, Nora En Pure
 
-*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/nataschapolke/)*
+*Updated Sat, 25 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/nataschapolke/)*

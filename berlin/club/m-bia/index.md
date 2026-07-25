@@ -1,14 +1,13 @@
 # M-BIA
 
-M-BIA is a music venue in Berlin with 15 upcoming nights listed on soundcheck as of Fri, 24 Jul 2026; the next is "Blaue Zebras küsst man nicht" on Fri, 24 Jul 2026.
+M-BIA is a music venue in Berlin with 14 upcoming nights listed on soundcheck as of Sat, 25 Jul 2026; the next is "PsyLab pres. pres. Avan7 [nach CSD]" on Sat, 25 Jul 2026.
 
-M-BIA is a music venue in Berlin listed on soundcheck. 15 upcoming nights, with line-ups including A², Bass, Basstronauten and Bisk and 2 more. Browse upcoming dates, start times and who's playing. Dircksenstr. 123, 10178 Berlin.
+M-BIA is a music venue in Berlin listed on soundcheck. 14 upcoming nights, with line-ups including A², Bass, Basstronauten and BrettHit and 2 more. Browse upcoming dates, start times and who's playing. Dircksenstr. 123, 10178 Berlin.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Fri, 24 Jul 2026 | Blaue Zebras küsst man nicht | Bisk, Shorty |
 | Sat, 25 Jul 2026 | PsyLab pres. pres. Avan7 [nach CSD] | ESCALEA, Popsen, VIVEX |
 | Fri, 31 Jul 2026 | Sanctus Sommer Special w/ Dirty Thirty [Harder Styles] | INTOX, MØABEAT, Refl3ction, SHIRO |
 | Sat, 1 Aug 2026 | Goa Magic Indoor Festival [Proggy+Offbeat] | Milchgeld, Ultraviolect |
@@ -18,9 +17,10 @@ M-BIA is a music venue in Berlin listed on soundcheck. 15 upcoming nights, with 
 | Fri, 28 Aug 2026 | VEXED with Fernanda Martins  | BrettHit, Fernanda Martins |
 | Sat, 29 Aug 2026 | GOA Special pres. Klipsun [Brasilian Psytrance] |  |
 | Sat, 5 Sept 2026 | INTOXICATION Summer Special | Johan (PT) |
+| Fri, 18 Sept 2026 | Sanctus Harder Styles [Remzcore is back] | Deadly Guns, Remzcore |
 
 ## Address
 
 Dircksenstr. 123, 10178 Berlin, Berlin
 
-*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/m-bia/)*
+*Updated Sat, 25 Jul 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/m-bia/)*

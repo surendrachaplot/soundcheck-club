@@ -1,6 +1,6 @@
 # Taraneh
 
-Taraneh is a Techno and Club artist with 2 upcoming club dates listed on soundcheck as of Fri, 24 Jul 2026, next at Trans-Pecos, New York City on Sat, 25 Jul 2026.
+Taraneh is a Techno and Club artist with 2 upcoming club dates listed on soundcheck as of Sat, 25 Jul 2026, next at Trans-Pecos, New York City on Sat, 25 Jul 2026.
 
 Taraneh is a techno and club artist based in United States of America, tracked on soundcheck, with 35 sets logged across Amsterdam, Berlin, London and Manchester and 2 more. Often billed alongside RITCHRD, FINISHHER and Tom Marsi. Next up: Trans-Pecos, Newyorkcity on Sat 25 Jul.
 
@@ -26,4 +26,4 @@ Taraneh is a techno and club artist based in United States of America, tracked o
 
 RITCHRD, FINISHHER, Tom Marsi
 
-*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/taraneh/)*
+*Updated Sat, 25 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/taraneh/)*

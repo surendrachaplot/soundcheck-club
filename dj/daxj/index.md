@@ -1,8 +1,8 @@
 # DAX J
 
-DAX J is a Techno and House artist with 12 upcoming club dates listed on soundcheck as of Fri, 24 Jul 2026, next at Amsterdamse Bos, Amsterdam on Wed, 29 Jul 2026.
+DAX J is a Techno and House artist with 13 upcoming club dates listed on soundcheck as of Sat, 25 Jul 2026, next at Amsterdamse Bos, Amsterdam on Wed, 29 Jul 2026.
 
-DAX J is a techno and house artist tracked on soundcheck, with 245 sets logged across Amsterdam, Athens, Barcelona and Basel and 65 more. Often billed alongside SPFDJ, Daria Kolosova and 999999999. Next up: Amsterdamse Bos, Amsterdam on Wed 29 Jul.
+DAX J is a techno and house artist tracked on soundcheck, with 246 sets logged across Amsterdam, Athens, Barcelona and Basel and 65 more. Often billed alongside SPFDJ, Daria Kolosova and 999999999. Next up: Amsterdamse Bos, Amsterdam on Wed 29 Jul.
 
 ## Upcoming shows
 
@@ -36,4 +36,4 @@ DAX J is a techno and house artist tracked on soundcheck, with 245 sets logged a
 
 SPFDJ, Daria Kolosova, 999999999
 
-*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/daxj/)*
+*Updated Sat, 25 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/daxj/)*

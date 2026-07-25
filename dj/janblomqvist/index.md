@@ -1,14 +1,13 @@
 # Jan Blomqvist
 
-Jan Blomqvist is a Deep House and House artist with 6 upcoming club dates listed on soundcheck as of Fri, 24 Jul 2026, next at TBA - Theater Augusta Raurica, Basel on Fri, 24 Jul 2026.
+Jan Blomqvist is a Deep House and House artist with 5 upcoming club dates listed on soundcheck as of Sat, 25 Jul 2026, next at Cova Santa, Ibiza on Fri, 7 Aug 2026.
 
-Jan Blomqvist is a deep house and house artist based in Germany, tracked on soundcheck, with 125 sets logged across Amsterdam, Antwerp, Athens and Austin and 37 more. Often billed alongside WhoMadeWho, Bedouin and Colyn. Next up: TBA - Theater Augusta Raurica, Basel on Fri 24 Jul.
+Jan Blomqvist is a deep house and house artist based in Germany, tracked on soundcheck, with 125 sets logged across Amsterdam, Antwerp, Athens and Austin and 37 more. Often billed alongside WhoMadeWho, Bedouin and Colyn. Next up: Cova Santa, Ibiza on Fri 7 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 24 Jul 2026 | TBA - Theater Augusta Raurica | Basel |
 | Fri, 7 Aug 2026 | Cova Santa | Ibiza |
 | Sat, 22 Aug 2026 | Colorado Charlie | The Hague |
 | Sat, 12 Sept 2026 | Forbindelsehallen | Stockholm |
@@ -17,6 +16,7 @@ Jan Blomqvist is a deep house and house artist based in Germany, tracked on soun
 
 ## Recently played
 
+- TBA - Theater Augusta Raurica, Basel — Fri, 24 Jul 2026
 - Wanderlust, Paris — Sun, 5 Jul 2026
 - 528 Ibiza, Ibiza — Wed, 1 Jul 2026
 - Budai Vár - Oroszlános Udvar, Budapest — Sat, 27 Jun 2026
@@ -24,10 +24,9 @@ Jan Blomqvist is a deep house and house artist based in Germany, tracked on soun
 - Pacha Ibiza, Ibiza — Thu, 28 May 2026
 - Leyton Jubilee Park, London — Sun, 24 May 2026
 - Galopprennbahn, Munich — Sat, 9 May 2026
-- Cova Santa, Ibiza — Thu, 7 May 2026
 
 ## Shares bills with
 
 WhoMadeWho, Bedouin, Colyn
 
-*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/janblomqvist/)*
+*Updated Sat, 25 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/janblomqvist/)*

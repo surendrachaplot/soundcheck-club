@@ -1,14 +1,13 @@
 # MARRØN
 
-MARRØN is a Techno and House artist with 16 upcoming club dates listed on soundcheck as of Fri, 24 Jul 2026, next at Odonien, Cologne on Fri, 24 Jul 2026.
+MARRØN is a Techno and House artist with 15 upcoming club dates listed on soundcheck as of Sat, 25 Jul 2026, next at FOLD, London on Sat, 25 Jul 2026.
 
-MARRØN is a techno and house artist tracked on soundcheck, with 252 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 66 more. Often billed alongside Blasha & Allatt, Freddy K and Rene Wise. Next up: Odonien, Cologne on Fri 24 Jul.
+MARRØN is a techno and house artist tracked on soundcheck, with 252 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 66 more. Often billed alongside Blasha & Allatt, Freddy K and Rene Wise. Next up: FOLD, London on Sat 25 Jul.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 24 Jul 2026 | Odonien | Cologne |
 | Sat, 25 Jul 2026 | FOLD | London |
 | Fri, 31 Jul 2026 | BLITZ | Munich |
 | Fri, 31 Jul 2026 | RADION | Amsterdam |
@@ -20,9 +19,11 @@ MARRØN is a techno and house artist tracked on soundcheck, with 252 sets logged
 | Fri, 4 Sept 2026 | Fuchs2 | Prague |
 | Sat, 5 Sept 2026 | The Bassement | Madrid |
 | Fri, 11 Sept 2026 | TBA | Brussels |
+| Thu, 17 Sept 2026 | Descent | Boston |
 
 ## Recently played
 
+- Odonien, Cologne — Fri, 24 Jul 2026
 - Hamburger Bahnhof - Museum für Gegenwart, Berlin — Thu, 23 Jul 2026
 - Fabrik, Madrid — Sat, 11 Jul 2026
 - Lehmann Club, Stuttgart — Sat, 4 Jul 2026
@@ -30,10 +31,9 @@ MARRØN is a techno and house artist tracked on soundcheck, with 252 sets logged
 - Spook Club, Valencia — Tue, 23 Jun 2026
 - Grelle Forelle, Vienna — Fri, 19 Jun 2026
 - Berghain | Panorama Bar | Säule, Berlin — Sat, 13 Jun 2026
-- Circolo Amelia, Milan — Sat, 30 May 2026
 
 ## Shares bills with
 
 Blasha & Allatt, Freddy K, Rene Wise
 
-*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/marron/)*
+*Updated Sat, 25 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/marron/)*

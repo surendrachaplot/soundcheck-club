@@ -1,6 +1,6 @@
 # Camila Isabel
 
-Camila Isabel is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Fri, 24 Jul 2026, next at Blow, Buenos Aires on Sat, 25 Jul 2026.
+Camila Isabel is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Sat, 25 Jul 2026, next at Blow, Buenos Aires on Sat, 25 Jul 2026.
 
 Camila Isabel is a house and techno artist tracked on soundcheck, with 61 sets logged across Amsterdam, Barcelona, Buenosaires and Mexicocity and 1 more. Often billed alongside Bermani, Betas and Djs Pareja. Next up: Blow, Buenosaires on Sat 25 Jul.
 
@@ -26,4 +26,4 @@ Camila Isabel is a house and techno artist tracked on soundcheck, with 61 sets l
 
 Bermani, Betas, Djs Pareja
 
-*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/camilaisabel/)*
+*Updated Sat, 25 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/camilaisabel/)*

@@ -1,14 +1,13 @@
 # 93 Feet East
 
-93 Feet East is a music venue in London with 10 upcoming nights listed on soundcheck as of Fri, 24 Jul 2026; the next is "SWARAJ RETURNS" on Fri, 24 Jul 2026.
+93 Feet East is a music venue in London with 9 upcoming nights listed on soundcheck as of Sat, 25 Jul 2026; the next is "SUN CITY SUMMER SESSIONS" on Sat, 1 Aug 2026.
 
-93 Feet East is a music venue in London listed on soundcheck. 10 upcoming nights, with line-ups including KT, ADR (UK), Braxton and Brian Smith and 2 more. Browse upcoming dates, start times and who's playing. The Old Truman Brewery, 150 Brick Lane; Shoreditch; London E1 6RU; United Kingdom.
+93 Feet East is a music venue in London listed on soundcheck. 9 upcoming nights, with line-ups including KT, ADR (UK), Braxton and Brian Smith and 2 more. Browse upcoming dates, start times and who's playing. The Old Truman Brewery, 150 Brick Lane; Shoreditch; London E1 6RU; United Kingdom.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Fri, 24 Jul 2026 | SWARAJ RETURNS |  |
 | Sat, 1 Aug 2026 | SUN CITY SUMMER SESSIONS |  |
 | Sat, 1 Aug 2026 | TRIBE |  |
 | Sat, 1 Aug 2026 | Escapada - 93 Feet East - SATURDAY 1ST AUGUST | Brian Smith, CHLO (UK), DRIA, Jerome Six, Lance Morgan, RAFE, RENZO. |
@@ -23,4 +22,4 @@
 
 The Old Truman Brewery, 150 Brick Lane; Shoreditch; London E1 6RU; United Kingdom, London
 
-*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/london/club/93-feet-east/)*
+*Updated Sat, 25 Jul 2026 · source: [soundcheck](https://soundcheck.club/london/club/93-feet-east/)*

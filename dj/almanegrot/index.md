@@ -1,6 +1,6 @@
 # Alma Negrot
 
-Alma Negrot is a House and Techno artist with 8 upcoming club dates listed on soundcheck as of Fri, 24 Jul 2026, next at Ritter Butzke, Berlin on Sat, 25 Jul 2026.
+Alma Negrot is a House and Techno artist with 8 upcoming club dates listed on soundcheck as of Sat, 25 Jul 2026, next at Ritter Butzke, Berlin on Sat, 25 Jul 2026.
 
 Alma Negrot is a house and techno artist tracked on soundcheck, with 38 sets logged across Amsterdam, Berlin, Istanbul and Lisbon and 2 more. Often billed alongside Gezender, Kontronatura and materia hache. Next up: Ritter Butzke, Berlin on Sat 25 Jul.
 
@@ -32,4 +32,4 @@ Alma Negrot is a house and techno artist tracked on soundcheck, with 38 sets log
 
 Gezender, Kontronatura, materia hache
 
-*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/almanegrot/)*
+*Updated Sat, 25 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/almanegrot/)*

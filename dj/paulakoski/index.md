@@ -1,6 +1,6 @@
 # Paula Koski
 
-Paula Koski is a Techno and House artist with 4 upcoming club dates listed on soundcheck as of Fri, 24 Jul 2026, next at Berghain | Panorama Bar | Säule, Berlin on Sat, 25 Jul 2026.
+Paula Koski is a Techno and House artist with 4 upcoming club dates listed on soundcheck as of Sat, 25 Jul 2026, next at Berghain | Panorama Bar | Säule, Berlin on Sat, 25 Jul 2026.
 
 Paula Koski is a techno and house artist tracked on soundcheck, with 94 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 33 more. Often billed alongside Justine Perry, Steffi and Virginia. Next up: Berghain | Panorama Bar | Säule, Berlin on Sat 25 Jul.
 
@@ -28,4 +28,4 @@ Paula Koski is a techno and house artist tracked on soundcheck, with 94 sets log
 
 Justine Perry, Steffi, Virginia
 
-*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/paulakoski/)*
+*Updated Sat, 25 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/paulakoski/)*

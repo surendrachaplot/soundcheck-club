@@ -1,8 +1,8 @@
 # Sidney Charles
 
-Sidney Charles is a House and Tech House artist with 18 upcoming club dates listed on soundcheck as of Fri, 24 Jul 2026, next at Luz De Gas, Barcelona on Sat, 25 Jul 2026.
+Sidney Charles is a House and Tech House artist with 19 upcoming club dates listed on soundcheck as of Sat, 25 Jul 2026, next at Luz De Gas, Barcelona on Sat, 25 Jul 2026.
 
-Sidney Charles is a house and tech house artist tracked on soundcheck, with 207 sets logged across Aberdeen, Amsterdam, Austin and Barcelona and 39 more. Often billed alongside Prunk, ALISHA and East End Dubs. Next up: Luz De Gas, Barcelona on Sat 25 Jul.
+Sidney Charles is a house and tech house artist tracked on soundcheck, with 208 sets logged across Aberdeen, Amsterdam, Austin and Barcelona and 39 more. Often billed alongside Prunk, ALISHA and Gaskin. Next up: Luz De Gas, Barcelona on Sat 25 Jul.
 
 ## Upcoming shows
 
@@ -34,6 +34,6 @@ Sidney Charles is a house and tech house artist tracked on soundcheck, with 207 
 
 ## Shares bills with
 
-Prunk, ALISHA, East End Dubs
+Prunk, ALISHA, Gaskin
 
-*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/sidneycharles/)*
+*Updated Sat, 25 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/sidneycharles/)*

@@ -1,6 +1,6 @@
 # POOL PARTY TECHNETIUM at TBA - Velvet Rose 
 
-POOL PARTY TECHNETIUM at TBA - Velvet Rose  on Sat 8 Aug, Madrid. 2 acts on the bill: KITAE and M.I.XX.I. Techno and Latin Bass. Preview the line-up and save it on soundcheck.
+POOL PARTY TECHNETIUM at TBA - Velvet Rose  on Sat 8 Aug, Madrid. 3 acts on the bill: KITAE, M.I.XX.I and Picotres. Techno and Latin Bass. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -12,5 +12,6 @@ POOL PARTY TECHNETIUM at TBA - Velvet Rose  on Sat 8 Aug, Madrid. 2 acts on the 
 
 - KITAE
 - M.I.XX.I
+- Picotres
 
 *Source: [soundcheck](https://soundcheck.club/e/2497398-pool-party-technetium-at-tba-velvet-rose/)*

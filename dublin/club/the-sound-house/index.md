@@ -1,14 +1,13 @@
 # The Sound House
 
-The Sound House is a music venue in Dublin with 9 upcoming nights listed on soundcheck as of Fri, 24 Jul 2026; the next is "MAZE X & IMPULSE - FACE2FACE" on Fri, 24 Jul 2026.
+The Sound House is a music venue in Dublin with 8 upcoming nights listed on soundcheck as of Sat, 25 Jul 2026; the next is "EUPHONIC PRESENTS 4 EURO PARTY" on Sat, 25 Jul 2026.
 
-The Sound House is a music venue in Dublin listed on soundcheck. 9 upcoming nights, with line-ups including ALPER SKR, Cody Wong, Girls of the Internet and Jacob Matthews and 2 more. Browse upcoming dates, start times and who's playing. 28 Eden Quay, Dublin, Ireland..
+The Sound House is a music venue in Dublin listed on soundcheck. 8 upcoming nights, with line-ups including ALPER SKR, Cody Wong, Girls of the Internet and Jacob Matthews and 2 more. Browse upcoming dates, start times and who's playing. 28 Eden Quay, Dublin, Ireland..
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Fri, 24 Jul 2026 | MAZE X & IMPULSE - FACE2FACE | Trypdø |
 | Sat, 25 Jul 2026 | EUPHONIC PRESENTS 4 EURO PARTY |  |
 | Sat, 25 Jul 2026 | SOUNDHOUSE TERRACE: DAY PARTY |  |
 | Fri, 31 Jul 2026 | RED LINE: DISTORTION - Techno, Hard Bounce & Hard Trance in Dublin | ALPER SKR, SAMUX, WINSLAO |
@@ -22,4 +21,4 @@ The Sound House is a music venue in Dublin listed on soundcheck. 9 upcoming nigh
 
 28 Eden Quay, Dublin, Ireland., Dublin
 
-*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/dublin/club/the-sound-house/)*
+*Updated Sat, 25 Jul 2026 · source: [soundcheck](https://soundcheck.club/dublin/club/the-sound-house/)*

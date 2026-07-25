@@ -1,14 +1,13 @@
 # Tasha
 
-Tasha is a Techno and House artist with 9 upcoming club dates listed on soundcheck as of Fri, 24 Jul 2026, next at The White Hotel, Manchester on Fri, 24 Jul 2026.
+Tasha is a Techno and House artist with 8 upcoming club dates listed on soundcheck as of Sat, 25 Jul 2026, next at Amsterdamse Bos, Amsterdam on Wed, 29 Jul 2026.
 
-Tasha is a techno and house artist tracked on soundcheck, with 184 sets logged across Amsterdam, Athens, Barcelona and Basel and 36 more. Often billed alongside Steffi, Blasha & Allatt and DVS1. Next up: The White Hotel, Manchester on Fri 24 Jul.
+Tasha is a techno and house artist tracked on soundcheck, with 184 sets logged across Amsterdam, Athens, Barcelona and Basel and 36 more. Often billed alongside Steffi, Blasha & Allatt and DVS1. Next up: Amsterdamse Bos, Amsterdam on Wed 29 Jul.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 24 Jul 2026 | The White Hotel | Manchester |
 | Wed, 29 Jul 2026 | Amsterdamse Bos | Amsterdam |
 | Fri, 31 Jul 2026 | BLITZ | Munich |
 | Sat, 1 Aug 2026 | Amsterdamse Bos | Amsterdam |
@@ -20,6 +19,7 @@ Tasha is a techno and house artist tracked on soundcheck, with 184 sets logged a
 
 ## Recently played
 
+- The White Hotel, Manchester — Fri, 24 Jul 2026
 - Berghain | Panorama Bar | Säule, Berlin — Sat, 18 Jul 2026
 - Mitsuki, Tokyo — Wed, 1 Jul 2026
 - Lofi, Amsterdam — Sat, 27 Jun 2026
@@ -27,10 +27,9 @@ Tasha is a techno and house artist tracked on soundcheck, with 184 sets logged a
 - The Cause, London — Sat, 13 Jun 2026
 - TBA - Near Salisbury, London — Fri, 12 Jun 2026
 - Yamamori Tengu, Dublin — Sat, 6 Jun 2026
-- Gianpula Village, Malta — Sat, 23 May 2026
 
 ## Shares bills with
 
 Steffi, Blasha & Allatt, DVS1
 
-*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/tasha/)*
+*Updated Sat, 25 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/tasha/)*

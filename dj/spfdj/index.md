@@ -1,6 +1,6 @@
 # SPFDJ
 
-SPFDJ is a Techno and House artist with 9 upcoming club dates listed on soundcheck as of Fri, 24 Jul 2026, next at Gianpula Village, Malta on Wed, 12 Aug 2026.
+SPFDJ is a Techno and House artist with 9 upcoming club dates listed on soundcheck as of Sat, 25 Jul 2026, next at Gianpula Village, Malta on Wed, 12 Aug 2026.
 
 SPFDJ is a techno and house artist tracked on soundcheck, with 223 sets logged across Amsterdam, Antwerp, Athens and Austin and 69 more. Often billed alongside DAX J, Anetha and MCMLXXXV. Next up: Gianpula Village, Malta on Wed 12 Aug.
 
@@ -33,4 +33,4 @@ SPFDJ is a techno and house artist tracked on soundcheck, with 223 sets logged a
 
 DAX J, Anetha, MCMLXXXV
 
-*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/spfdj/)*
+*Updated Sat, 25 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/spfdj/)*

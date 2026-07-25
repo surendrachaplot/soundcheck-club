@@ -1,14 +1,13 @@
 # Haus der Visionäre
 
-Haus der Visionäre is a music venue in Berlin with 8 upcoming nights listed on soundcheck as of Fri, 24 Jul 2026; the next is "Max Cooper | Live AV SHOW + Clubnacht" on Fri, 24 Jul 2026.
+Haus der Visionäre is a music venue in Berlin with 7 upcoming nights listed on soundcheck as of Sat, 25 Jul 2026; the next is "T4T LUV NRG x Haus der Visionäre" on Sun, 9 Aug 2026.
 
-Haus der Visionäre is a music venue in Berlin listed on soundcheck. 8 upcoming nights, with line-ups including ābnamā, Alexander Skancke, Amir Alexander and Anahita Sadighi and 2 more. Browse upcoming dates, start times and who's playing. Eichenstr. 4a, 12435 Berlin.
+Haus der Visionäre is a music venue in Berlin listed on soundcheck. 7 upcoming nights, with line-ups including ābnamā, Alexander Skancke, Amir Alexander and Anahita Sadighi and 2 more. Browse upcoming dates, start times and who's playing. Eichenstr. 4a, 12435 Berlin.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Fri, 24 Jul 2026 | Max Cooper / Live AV SHOW + Clubnacht | .VRIL, Jensen Interceptor, Max Cooper, Mor Elian |
 | Sun, 9 Aug 2026 | T4T LUV NRG x Haus der Visionäre | Eris Drew, Immy, Octo Octa, ābnamā |
 | Thu, 20 Aug 2026 | ¥ØU$UK€ ¥UK1MAT$U | Errorsmith, yungfya, ¥ØU$UK€ ¥UK1MAT$U |
 | Fri, 21 Aug 2026 | KONTEXT 2 YEARS [4 STAGES] |  |
@@ -21,4 +20,4 @@ Haus der Visionäre is a music venue in Berlin listed on soundcheck. 8 upcoming 
 
 Eichenstr. 4a, 12435 Berlin, Berlin
 
-*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/haus-der-vision-re/)*
+*Updated Sat, 25 Jul 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/haus-der-vision-re/)*

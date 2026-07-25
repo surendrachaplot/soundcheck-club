@@ -1,8 +1,8 @@
 # KLOUD
 
-KLOUD is a Techno and House artist with 10 upcoming club dates listed on soundcheck as of Fri, 24 Jul 2026, next at RSO.BERLIN, Berlin on Sat, 1 Aug 2026.
+KLOUD is a Techno and Trance artist with 11 upcoming club dates listed on soundcheck as of Sat, 25 Jul 2026, next at RSO.BERLIN, Berlin on Sat, 1 Aug 2026.
 
-KLOUD is a techno and house artist tracked on soundcheck, with 73 sets logged across Amsterdam, Athens, Austin and Barcelona and 35 more. Often billed alongside Kander, Lola Cerise and A.N.I.. Next up: RSO.BERLIN, Berlin on Sat 1 Aug.
+KLOUD is a techno and trance artist tracked on soundcheck, with 74 sets logged across Amsterdam, Athens, Austin and Barcelona and 36 more. Often billed alongside Lola Cerise, Kander and A.N.I.. Next up: RSO.BERLIN, Berlin on Sat 1 Aug.
 
 ## Upcoming shows
 
@@ -18,6 +18,7 @@ KLOUD is a techno and house artist tracked on soundcheck, with 73 sets logged ac
 | Sat, 10 Oct 2026 | OST | Berlin |
 | Fri, 16 Oct 2026 | Airport Würzburg | Nürnberg |
 | Fri, 16 Oct 2026 | Airport Würzburg | Nürnberg |
+| Fri, 23 Oct 2026 | DRUMSHEDS | London |
 
 ## Recently played
 
@@ -32,6 +33,6 @@ KLOUD is a techno and house artist tracked on soundcheck, with 73 sets logged ac
 
 ## Shares bills with
 
-Kander, Lola Cerise, A.N.I.
+Lola Cerise, Kander, A.N.I.
 
-*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/kloud/)*
+*Updated Sat, 25 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/kloud/)*

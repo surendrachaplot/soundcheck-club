@@ -1,14 +1,13 @@
 # JakoJako
 
-JakoJako is a Techno and House artist with 13 upcoming club dates listed on soundcheck as of Fri, 24 Jul 2026, next at RASA, Singapore on Fri, 24 Jul 2026.
+JakoJako is a Techno and House artist with 13 upcoming club dates listed on soundcheck as of Sat, 25 Jul 2026, next at Amnesia Ibiza, Ibiza on Tue, 28 Jul 2026.
 
-JakoJako is a techno and house artist tracked on soundcheck, with 154 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 35 more. Often billed alongside Barker, Rødhåd and Fadi Mohem. Next up: RASA, Singapore on Fri 24 Jul.
+JakoJako is a techno and house artist tracked on soundcheck, with 155 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 35 more. Often billed alongside Barker, Rødhåd and Fadi Mohem. Next up: Amnesia Ibiza, Ibiza on Tue 28 Jul.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 24 Jul 2026 | RASA | Singapore |
 | Tue, 28 Jul 2026 | Amnesia Ibiza | Ibiza |
 | Wed, 29 Jul 2026 | Amsterdamse Bos | Amsterdam |
 | Fri, 31 Jul 2026 | Fvtvr | Paris |
@@ -20,9 +19,11 @@ JakoJako is a techno and house artist tracked on soundcheck, with 154 sets logge
 | Tue, 25 Aug 2026 | Quartier Des Spectacles | Montreal |
 | Fri, 28 Aug 2026 | MTELUS | Montreal |
 | Sat, 5 Sept 2026 | SMUT Athens | Athens |
+| Sat, 12 Sept 2026 | Palais | London |
 
 ## Recently played
 
+- RASA, Singapore — Fri, 24 Jul 2026
 - VENT, Tokyo — Fri, 10 Jul 2026
 - The Cause, London — Sat, 13 Jun 2026
 - Zuiderpark, The Hague — Sat, 6 Jun 2026
@@ -30,10 +31,9 @@ JakoJako is a techno and house artist tracked on soundcheck, with 154 sets logge
 - TBA - Floraliënlaan 111, 2020 Antwerpen, België, Antwerp — Wed, 20 May 2026
 - Spaarnwoude (Deelplan Houtrak), Amsterdam — Sat, 16 May 2026
 - TBA - Les Grandes Locos , Lyon — Wed, 13 May 2026
-- Tempio del Futuro Perduto, Milan — Sat, 9 May 2026
 
 ## Shares bills with
 
 Barker, Rødhåd, Fadi Mohem
 
-*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/jakojako/)*
+*Updated Sat, 25 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/jakojako/)*

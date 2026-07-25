@@ -1,6 +1,6 @@
 # Kikelomo
 
-Kikelomo is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Fri, 24 Jul 2026, next at PIP Den Haag, The Hague on Sat, 25 Jul 2026.
+Kikelomo is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Sat, 25 Jul 2026, next at PIP Den Haag, The Hague on Sat, 25 Jul 2026.
 
 Kikelomo is a techno and house artist tracked on soundcheck, with 89 sets logged across Amsterdam, Antwerp, Basel and Belfast and 18 more. Often billed alongside Honey Dijon, Avalon Emerson and Âme. Next up: PIP Den Haag, Thehague on Sat 25 Jul.
 
@@ -26,4 +26,4 @@ Kikelomo is a techno and house artist tracked on soundcheck, with 89 sets logged
 
 Honey Dijon, Avalon Emerson, Âme
 
-*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/kikelomo/)*
+*Updated Sat, 25 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/kikelomo/)*

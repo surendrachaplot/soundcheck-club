@@ -1,6 +1,6 @@
 # Forte Antenne
 
-Forte Antenne is a music venue in Rome with 2 upcoming nights listed on soundcheck as of Fri, 24 Jul 2026; the next is "NEON pres Nico Moreno" on Sat, 25 Jul 2026.
+Forte Antenne is a music venue in Rome with 2 upcoming nights listed on soundcheck as of Sat, 25 Jul 2026; the next is "NEON pres Nico Moreno" on Sat, 25 Jul 2026.
 
 Forte Antenne is a music venue in Rome listed on soundcheck. 2 upcoming nights, with line-ups including DJ Caline, Maudux and Nico Moreno. Browse upcoming dates, start times and who's playing. Via del Forte Antenne, 12, 00199 Roma RM, Italy.
 
@@ -15,4 +15,4 @@ Forte Antenne is a music venue in Rome listed on soundcheck. 2 upcoming nights, 
 
 Via del Forte Antenne, 12, 00199 Roma RM, Italy, Rome
 
-*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/rome/club/forte-antenne/)*
+*Updated Sat, 25 Jul 2026 · source: [soundcheck](https://soundcheck.club/rome/club/forte-antenne/)*

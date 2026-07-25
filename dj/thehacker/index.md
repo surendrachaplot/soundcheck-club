@@ -1,8 +1,8 @@
 # The Hacker
 
-The Hacker is a Techno and Electro artist with 6 upcoming club dates listed on soundcheck as of Fri, 24 Jul 2026, next at Kater, Berlin on Fri, 21 Aug 2026.
+The Hacker is a Techno and Electro artist with 7 upcoming club dates listed on soundcheck as of Sat, 25 Jul 2026, next at Kater, Berlin on Fri, 21 Aug 2026.
 
-The Hacker is a techno and electro artist tracked on soundcheck, with 110 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 37 more. Often billed alongside Miss Kittin, Alessandro Adriani and Charlie. Next up: Kater, Berlin on Fri 21 Aug.
+The Hacker is a techno and electro artist tracked on soundcheck, with 111 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 37 more. Often billed alongside Miss Kittin, Alessandro Adriani and Charlie. Next up: Kater, Berlin on Fri 21 Aug.
 
 ## Upcoming shows
 
@@ -14,6 +14,7 @@ The Hacker is a techno and electro artist tracked on soundcheck, with 110 sets l
 | Sun, 30 Aug 2026 | Le Sucre | Lyon |
 | Sat, 19 Sept 2026 | Razzmatazz | Barcelona |
 | Sat, 10 Oct 2026 | DRUMSHEDS | London |
+| Fri, 23 Oct 2026 | CLUB RAUM | Amsterdam |
 
 ## Recently played
 
@@ -30,4 +31,4 @@ The Hacker is a techno and electro artist tracked on soundcheck, with 110 sets l
 
 Miss Kittin, Alessandro Adriani, Charlie
 
-*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/thehacker/)*
+*Updated Sat, 25 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/thehacker/)*

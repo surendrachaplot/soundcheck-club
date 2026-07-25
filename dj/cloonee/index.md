@@ -1,6 +1,6 @@
 # Cloonee
 
-Cloonee is a House and Tech House artist with 7 upcoming club dates listed on soundcheck as of Fri, 24 Jul 2026, next at Cavo Paradiso, Mykonos on Wed, 29 Jul 2026.
+Cloonee is a House and Tech House artist with 7 upcoming club dates listed on soundcheck as of Sat, 25 Jul 2026, next at Cavo Paradiso, Mykonos on Wed, 29 Jul 2026.
 
 Cloonee is a house and tech house artist tracked on soundcheck, with 59 sets logged across Austin, Barcelona, Boston and Bristol and 27 more. Often billed alongside Jamie Jones, Prospa and Riordan. Next up: Cavo Paradiso, Mykonos on Wed 29 Jul.
 
@@ -31,4 +31,4 @@ Cloonee is a house and tech house artist tracked on soundcheck, with 59 sets log
 
 Jamie Jones, Prospa, Riordan
 
-*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/cloonee/)*
+*Updated Sat, 25 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/cloonee/)*

@@ -1,6 +1,6 @@
 # Woesum
 
-Woesum is a Trance and Experimental artist with 2 upcoming club dates listed on soundcheck as of Fri, 24 Jul 2026, next at Bastet, Philadelphia on Sat, 1 Aug 2026.
+Woesum is a Trance and Experimental artist with 2 upcoming club dates listed on soundcheck as of Sat, 25 Jul 2026, next at Bastet, Philadelphia on Sat, 1 Aug 2026.
 
 Woesum is a trance and experimental artist based in Sweden, tracked on soundcheck, with 39 sets logged across Amsterdam, Athens, Basel and Berlin and 19 more. Often billed alongside Kamixlo, Bassvictim and Evian Christ. Next up: Bastet, Philadelphia on Sat 1 Aug.
 
@@ -26,4 +26,4 @@ Woesum is a trance and experimental artist based in Sweden, tracked on soundchec
 
 Kamixlo, Bassvictim, Evian Christ
 
-*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/woesum/)*
+*Updated Sat, 25 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/woesum/)*

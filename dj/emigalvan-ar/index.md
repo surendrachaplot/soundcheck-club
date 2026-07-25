@@ -1,8 +1,8 @@
 # Emi Galvan
 
-Emi Galvan is a Progressive House and Techno artist with 2 upcoming club dates listed on soundcheck as of Fri, 24 Jul 2026, next at Main Club, Milan on Sat, 1 Aug 2026.
+Emi Galvan is a Progressive House and Techno artist with 3 upcoming club dates listed on soundcheck as of Sat, 25 Jul 2026, next at Main Club, Milan on Sat, 1 Aug 2026.
 
-Emi Galvan is a progressive house and techno artist based in Argentina, tracked on soundcheck, with 36 sets logged across Amsterdam, Auckland, Barcelona and Bristol and 10 more. Often billed alongside Kamilo Sanclemente, Guy Mantzur and Jeremy Olander. Next up: Main Club, Milan on Sat 1 Aug.
+Emi Galvan is a progressive house and techno artist based in Argentina, tracked on soundcheck, with 37 sets logged across Amsterdam, Auckland, Barcelona and Bristol and 10 more. Often billed alongside Kamilo Sanclemente, NOIYSE PROJECT and Baliology. Next up: Main Club, Milan on Sat 1 Aug.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Emi Galvan is a progressive house and techno artist based in Argentina, tracked 
 | --- | --- | --- |
 | Sat, 1 Aug 2026 | Main Club | Milan |
 | Thu, 22 Oct 2026 | Kaap Amsterdam | Amsterdam |
+| Fri, 23 Oct 2026 | Veronica Schip | Amsterdam |
 
 ## Recently played
 
@@ -24,6 +25,6 @@ Emi Galvan is a progressive house and techno artist based in Argentina, tracked 
 
 ## Shares bills with
 
-Kamilo Sanclemente, Guy Mantzur, Jeremy Olander
+Kamilo Sanclemente, NOIYSE PROJECT, Baliology
 
-*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/emigalvan-ar/)*
+*Updated Sat, 25 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/emigalvan-ar/)*

@@ -1,6 +1,6 @@
 # Jannis Maxim
 
-Jannis Maxim is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Fri, 24 Jul 2026, next at Rote Sonne, Munich on Fri, 7 Aug 2026.
+Jannis Maxim is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Sat, 25 Jul 2026, next at Rote Sonne, Munich on Fri, 7 Aug 2026.
 
 Jannis Maxim is a techno and house artist based in Germany, tracked on soundcheck, with 46 sets logged across Berlin, Munich and Stuttgart. Often billed alongside AHURA, Nazz and SYMON. Next up: Rote Sonne, Munich on Fri 7 Aug.
 
@@ -26,4 +26,4 @@ Jannis Maxim is a techno and house artist based in Germany, tracked on soundchec
 
 AHURA, Nazz, SYMON
 
-*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/jannismaxim/)*
+*Updated Sat, 25 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/jannismaxim/)*

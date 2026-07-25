@@ -1,6 +1,6 @@
 # Sonnenraum
 
-Sonnenraum is a music venue in Berlin with 3 upcoming nights listed on soundcheck as of Fri, 24 Jul 2026; the next is "Bonobo (DJ-Set)" on Sat, 15 Aug 2026.
+Sonnenraum is a music venue in Berlin with 3 upcoming nights listed on soundcheck as of Sat, 25 Jul 2026; the next is "Bonobo (DJ-Set)" on Sat, 15 Aug 2026.
 
 Sonnenraum is a music venue in Berlin listed on soundcheck. 3 upcoming nights, with line-ups including Aroma Pitch, Bonobo, Carmilla Sioux and CCL and 2 more. Browse upcoming dates, start times and who's playing. Eichenstraße 4A, 12435 Berlin, Germany.
 
@@ -16,4 +16,4 @@ Sonnenraum is a music venue in Berlin listed on soundcheck. 3 upcoming nights, w
 
 Eichenstraße 4A, 12435 Berlin, Germany, Berlin
 
-*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/sonnenraum/)*
+*Updated Sat, 25 Jul 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/sonnenraum/)*

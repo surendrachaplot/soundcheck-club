@@ -1,14 +1,13 @@
 # Skatecafe
 
-Skatecafe is a music venue in Amsterdam with 15 upcoming nights listed on soundcheck as of Fri, 24 Jul 2026; the next is "PRIDE - LET'S STRUT" on Fri, 24 Jul 2026.
+Skatecafe is a music venue in Amsterdam with 14 upcoming nights listed on soundcheck as of Sat, 25 Jul 2026; the next is "PRIDE - PLUG & PLAY" on Sat, 25 Jul 2026.
 
-Skatecafe is a music venue in Amsterdam listed on soundcheck. 15 upcoming nights, with line-ups including AAlva, Alec Dienaar, Aniko and bebe bad and 2 more. Browse upcoming dates, start times and who's playing. Gedempt Hamerkanaal 42.
+Skatecafe is a music venue in Amsterdam listed on soundcheck. 14 upcoming nights, with line-ups including AAlva, Alec Dienaar, Aniko and bebe bad and 2 more. Browse upcoming dates, start times and who's playing. Gedempt Hamerkanaal 42.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Fri, 24 Jul 2026 | PRIDE - LET'S STRUT |  |
 | Sat, 25 Jul 2026 | PRIDE - PLUG & PLAY | EVER, Ecstasya, Krai, SISSY MISFIT, kimmah |
 | Sat, 25 Jul 2026 | Super-Sonic Jam |  |
 | Fri, 31 Jul 2026 | PRIDE - PRIDE IS A PROTEST | MMIV, Maan, NAAZ, Slimfit, UNAUNA KITT |
@@ -18,9 +17,10 @@ Skatecafe is a music venue in Amsterdam listed on soundcheck. 15 upcoming nights
 | Sat, 15 Aug 2026 | LAGOS IN NL XXL | Aniko, Godsendo |
 | Fri, 21 Aug 2026 | BAILE DO OUTRO LADO X ONDA COLLECTIVE | AAlva, Denise Lopes, Not Yet (2), Pedro da Mata |
 | Fri, 28 Aug 2026 | AZÚCAR |  |
+| Thu, 24 Sept 2026 | PIP BLOM 10 YEARS |  |
 
 ## Address
 
 Gedempt Hamerkanaal 42, Amsterdam
 
-*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/skatecafe/)*
+*Updated Sat, 25 Jul 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/skatecafe/)*

@@ -1,6 +1,6 @@
 # Ric Piccolo
 
-Ric Piccolo is a Italo Disco and House artist with 2 upcoming club dates listed on soundcheck as of Fri, 24 Jul 2026, next at La Paloma, Barcelona on Sat, 25 Jul 2026.
+Ric Piccolo is a Italo Disco and House artist with 2 upcoming club dates listed on soundcheck as of Sat, 25 Jul 2026, next at La Paloma, Barcelona on Sat, 25 Jul 2026.
 
 Ric Piccolo is an italo disco and house artist based in Germany, tracked on soundcheck, with 56 sets logged across Barcelona, Basel, Belgrade and Berlin and 18 more. Often billed alongside Furor Exótica, Harari and Furotica. Next up: La Paloma, Barcelona on Sat 25 Jul.
 
@@ -26,4 +26,4 @@ Ric Piccolo is an italo disco and house artist based in Germany, tracked on soun
 
 Furor Exótica, Harari, Furotica
 
-*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/ricpiccolo/)*
+*Updated Sat, 25 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/ricpiccolo/)*

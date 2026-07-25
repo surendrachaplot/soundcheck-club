@@ -1,6 +1,6 @@
 # DJ Tjizza
 
-DJ Tjizza is a House and Electro artist with 2 upcoming club dates listed on soundcheck as of Fri, 24 Jul 2026, next at The Glove That Fits, London on Sat, 25 Jul 2026.
+DJ Tjizza is a House and Electro artist with 2 upcoming club dates listed on soundcheck as of Sat, 25 Jul 2026, next at The Glove That Fits, London on Sat, 25 Jul 2026.
 
 DJ Tjizza is a house and electro artist based in Germany, tracked on soundcheck, with 78 sets logged across Amsterdam, Antwerp, Barcelona and Berlin and 21 more. Often billed alongside Helly, SHAQUE and Velasco. Next up: The Glove That Fits, London on Sat 25 Jul.
 
@@ -26,4 +26,4 @@ DJ Tjizza is a house and electro artist based in Germany, tracked on soundcheck,
 
 Helly, SHAQUE, Velasco
 
-*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/djtjizza/)*
+*Updated Sat, 25 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/djtjizza/)*

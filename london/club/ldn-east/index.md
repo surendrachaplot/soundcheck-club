@@ -1,6 +1,6 @@
 # LDN East
 
-LDN East is a music venue in London with 8 upcoming nights listed on soundcheck as of Fri, 24 Jul 2026; the next is "p-rallel presents Nevermind - Summer Day Party " on Sat, 25 Jul 2026.
+LDN East is a music venue in London with 8 upcoming nights listed on soundcheck as of Sat, 25 Jul 2026; the next is "p-rallel presents Nevermind - Summer Day Party " on Sat, 25 Jul 2026.
 
 LDN East is a music venue in London listed on soundcheck. 8 upcoming nights, with line-ups including Crazy P, Diana Bravo, DJ Cosworth and Jarreau Vandal and 2 more. Browse upcoming dates, start times and who's playing. 30 Bidder Street, London, England, E16 4SH, United Kingdom.
 
@@ -21,4 +21,4 @@ LDN East is a music venue in London listed on soundcheck. 8 upcoming nights, wit
 
 30 Bidder Street, London, England, E16 4SH, United Kingdom, London
 
-*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/london/club/ldn-east/)*
+*Updated Sat, 25 Jul 2026 · source: [soundcheck](https://soundcheck.club/london/club/ldn-east/)*

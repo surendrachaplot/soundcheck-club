@@ -1,6 +1,6 @@
 # Nico Tobón
 
-Nico Tobón is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Fri, 24 Jul 2026, next at The Banshee House, Denver on Sat, 25 Jul 2026.
+Nico Tobón is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Sat, 25 Jul 2026, next at The Banshee House, Denver on Sat, 25 Jul 2026.
 
 Nico Tobón is a house and techno artist based in United States of America, tracked on soundcheck, with 34 sets logged across Denver, Mexicocity and Newyorkcity. Often billed alongside wngdu, Diego Andres and Emyli Dahlia. Next up: The Banshee House, Denver on Sat 25 Jul.
 
@@ -26,4 +26,4 @@ Nico Tobón is a house and techno artist based in United States of America, trac
 
 wngdu, Diego Andres, Emyli Dahlia
 
-*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/nicotobon/)*
+*Updated Sat, 25 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/nicotobon/)*

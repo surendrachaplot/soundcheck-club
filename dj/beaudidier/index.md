@@ -1,6 +1,6 @@
 # Beau Didier
 
-Beau Didier is a Techno and House artist with 4 upcoming club dates listed on soundcheck as of Fri, 24 Jul 2026, next at RSO.BERLIN, Berlin on Fri, 31 Jul 2026.
+Beau Didier is a Techno and House artist with 4 upcoming club dates listed on soundcheck as of Sat, 25 Jul 2026, next at RSO.BERLIN, Berlin on Fri, 31 Jul 2026.
 
 Beau Didier is a techno and house artist tracked on soundcheck, with 147 sets logged across Amsterdam, Antwerp, Bangkok and Barcelona and 37 more. Often billed alongside Isaiah (NL), Flits and ANNĒ. Next up: RSO.BERLIN, Berlin on Fri 31 Jul.
 
@@ -28,4 +28,4 @@ Beau Didier is a techno and house artist tracked on soundcheck, with 147 sets lo
 
 Isaiah (NL), Flits, ANNĒ
 
-*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/beaudidier/)*
+*Updated Sat, 25 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/beaudidier/)*

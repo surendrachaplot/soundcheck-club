@@ -1,14 +1,13 @@
 # San Antonios
 
-San Antonios is a music venue in New York City with 26 upcoming nights listed on soundcheck as of Fri, 24 Jul 2026; the next is "Peruvian Independence Week Reggaeton on Houston Perreo Party NYC" on Fri, 24 Jul 2026.
+San Antonios is a music venue in New York City with 25 upcoming nights listed on soundcheck as of Sat, 25 Jul 2026; the next is "Peruvian Independence Week Reggaeton on Houston Perreo Party NYC" on Sat, 25 Jul 2026.
 
-San Antonios is a music venue in Newyorkcity listed on soundcheck. 26 upcoming nights. Browse upcoming dates, start times and who's playing. 247 Eldridge St, New York, NY 10002, US.
+San Antonios is a music venue in Newyorkcity listed on soundcheck. 25 upcoming nights. Browse upcoming dates, start times and who's playing. 247 Eldridge St, New York, NY 10002, US.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Fri, 24 Jul 2026 | Peruvian Independence Week Reggaeton on Houston Perreo Party NYC |  |
 | Sat, 25 Jul 2026 | Peruvian Independence Week Reggaeton on Houston Perreo Party NYC |  |
 | Sun, 26 Jul 2026 | Peruvian Independence Week Reggaeton on Houston Perreo Party NYC |  |
 | Sun, 26 Jul 2026 | Cabros Chicos: Dominican Parade After Parrty (18+) |  |
@@ -18,9 +17,10 @@ San Antonios is a music venue in Newyorkcity listed on soundcheck. 26 upcoming n
 | Fri, 7 Aug 2026 | Dominican Parade Week Reggaeton on Houston - Latin & Reggaeton Party NYC |  |
 | Sat, 8 Aug 2026 | Dominican Parade Week Reggaeton on Houston - Latin & Reggaeton Party NYC |  |
 | Sun, 9 Aug 2026 | Dominican Parade Week Reggaeton on Houston - Latin & Reggaeton Party NYC |  |
+| Mon, 10 Aug 2026 | Dominican Parade Week Reggaeton on Houston - Latin & Reggaeton Party NYC |  |
 
 ## Address
 
 247 Eldridge St, New York, NY 10002, US, New York City
 
-*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/san-antonios/)*
+*Updated Sat, 25 Jul 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/san-antonios/)*

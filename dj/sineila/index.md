@@ -1,6 +1,6 @@
 # sineila
 
-sineila is a Pop and Experimental artist with 3 upcoming club dates listed on soundcheck as of Fri, 24 Jul 2026, next at ESC, Montreal on Sat, 25 Jul 2026.
+sineila is a Pop and Experimental artist with 3 upcoming club dates listed on soundcheck as of Sat, 25 Jul 2026, next at ESC, Montreal on Sat, 25 Jul 2026.
 
 sineila is a pop and experimental artist tracked on soundcheck, with 25 sets logged across Montreal. Often billed alongside Outback, Baby Bimbo and Claireyy. Next up: ESC, Montreal on Sat 25 Jul.
 
@@ -27,4 +27,4 @@ sineila is a pop and experimental artist tracked on soundcheck, with 25 sets log
 
 Outback, Baby Bimbo, Claireyy
 
-*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/sineila/)*
+*Updated Sat, 25 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/sineila/)*

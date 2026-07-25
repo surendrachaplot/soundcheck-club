@@ -1,14 +1,13 @@
 # Do Not Sit On The Furniture
 
-Do Not Sit On The Furniture is a music venue in Miami with 24 upcoming nights listed on soundcheck as of Fri, 24 Jul 2026; the next is "Adam Nazar [Nervous Records]" on Fri, 24 Jul 2026.
+Do Not Sit On The Furniture is a music venue in Miami with 24 upcoming nights listed on soundcheck as of Sat, 25 Jul 2026; the next is "Surreal Flight & Friends" on Sat, 25 Jul 2026.
 
-Do Not Sit On The Furniture is a music venue in Miami listed on soundcheck. 24 upcoming nights, with line-ups including DAVI, Eli Nissan, Gadi Mitrani and Ivory and 2 more. Browse upcoming dates, start times and who's playing. 423 16th St, Miami Beach, FL 33139.
+Do Not Sit On The Furniture is a music venue in Miami listed on soundcheck. 24 upcoming nights, with line-ups including Basti Grub, DAVI, Eli Nissan and Gadi Mitrani and 2 more. Browse upcoming dates, start times and who's playing. 423 16th St, Miami Beach, FL 33139.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Fri, 24 Jul 2026 | Adam Nazar [Nervous Records] |  |
 | Sat, 25 Jul 2026 | Surreal Flight & Friends | Surreal Flight |
 | Wed, 29 Jul 2026 | Yinn, Zezo & ME KO | Meko |
 | Thu, 30 Jul 2026 | Secret Thursdays | Jessy Nimni, YeshaYahu |
@@ -18,9 +17,10 @@ Do Not Sit On The Furniture is a music venue in Miami listed on soundcheck. 24 u
 | Sat, 8 Aug 2026 | Mandrake [Mayan Warrior] | Gadi Mitrani, Mandrake |
 | Fri, 14 Aug 2026 | Tom Zeta | Tom Zeta |
 | Sat, 15 Aug 2026 | Roderic [Dafne Records / Katermukke] | Roderic, Roderic (2) |
+| Fri, 21 Aug 2026 | Nhii | Nhii |
 
 ## Address
 
 423 16th St, Miami Beach, FL 33139, Miami
 
-*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/miami/club/do-not-sit-on-the-furniture/)*
+*Updated Sat, 25 Jul 2026 · source: [soundcheck](https://soundcheck.club/miami/club/do-not-sit-on-the-furniture/)*

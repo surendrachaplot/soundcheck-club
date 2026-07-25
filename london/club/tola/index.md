@@ -1,14 +1,13 @@
 # Tola
 
-Tola is a music venue in London with 6 upcoming nights listed on soundcheck as of Fri, 24 Jul 2026; the next is "Tola: Rago presents - Until the morning... #001" on Fri, 24 Jul 2026.
+Tola is a music venue in London with 5 upcoming nights listed on soundcheck as of Sat, 25 Jul 2026; the next is "ARLYSS Invites with MAÏS" on Sat, 25 Jul 2026.
 
-Tola is a music venue in London listed on soundcheck. 6 upcoming nights, with line-ups including ARLYSS, Buddy. (2), CHICCA and Faye Frazer and 2 more. Browse upcoming dates, start times and who's playing. 56 Peckham High Street SE15 5DP.
+Tola is a music venue in London listed on soundcheck. 5 upcoming nights, with line-ups including ARLYSS, Buddy. (2), CHICCA and MAÏS and 1 more. Browse upcoming dates, start times and who's playing. 56 Peckham High Street SE15 5DP.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Fri, 24 Jul 2026 | Tola: Rago presents - Until the morning... #001 | Faye Frazer, Nina Yamada, RIMIX, Rago |
 | Sat, 25 Jul 2026 | ARLYSS Invites with MAÏS | ARLYSS, MAÏS |
 | Fri, 31 Jul 2026 | Family Affair - Golden Era Hip-Hop & RnB |  |
 | Sat, 1 Aug 2026 | EAT THE RICH: Summer Soirée |  |
@@ -19,4 +18,4 @@ Tola is a music venue in London listed on soundcheck. 6 upcoming nights, with li
 
 56 Peckham High Street SE15 5DP, London
 
-*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/london/club/tola/)*
+*Updated Sat, 25 Jul 2026 · source: [soundcheck](https://soundcheck.club/london/club/tola/)*

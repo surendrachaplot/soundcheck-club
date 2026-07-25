@@ -1,6 +1,6 @@
 # Amano East-Side
 
-Amano East-Side is a music venue in Berlin with 2 upcoming nights listed on soundcheck as of Fri, 24 Jul 2026; the next is "CSD SUNDAY ROOFTOP PARTY- RISE x USHA" on Sun, 26 Jul 2026.
+Amano East-Side is a music venue in Berlin with 2 upcoming nights listed on soundcheck as of Sat, 25 Jul 2026; the next is "CSD SUNDAY ROOFTOP PARTY- RISE x USHA" on Sun, 26 Jul 2026.
 
 Amano East-Side is a music venue in Berlin listed on soundcheck. 2 upcoming nights, with line-ups including CAMET, Denno Matini, NAIR (IN) and FR3ADY and 2 more. Browse upcoming dates, start times and who's playing. Stralauer Pl. 30-31, 10243 Berlin, Germany.
 
@@ -15,4 +15,4 @@ Amano East-Side is a music venue in Berlin listed on soundcheck. 2 upcoming nigh
 
 Stralauer Pl. 30-31, 10243 Berlin, Germany, Berlin
 
-*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/amano-east-side/)*
+*Updated Sat, 25 Jul 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/amano-east-side/)*

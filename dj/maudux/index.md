@@ -1,6 +1,6 @@
 # Maudux
 
-Maudux is a Techno and Trance artist with 4 upcoming club dates listed on soundcheck as of Fri, 24 Jul 2026, next at Forte Antenne, Rome on Sat, 25 Jul 2026.
+Maudux is a Techno and Trance artist with 4 upcoming club dates listed on soundcheck as of Sat, 25 Jul 2026, next at Forte Antenne, Rome on Sat, 25 Jul 2026.
 
 Maudux is a techno and trance artist tracked on soundcheck, with 26 sets logged across Amsterdam, Berlin, Lyon and Nantes and 3 more. Often billed alongside 1luu, Bitschu Batschu and Lobsta B. Next up: Forte Antenne, Rome on Sat 25 Jul.
 
@@ -28,4 +28,4 @@ Maudux is a techno and trance artist tracked on soundcheck, with 26 sets logged 
 
 1luu, Bitschu Batschu, Lobsta B
 
-*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/maudux/)*
+*Updated Sat, 25 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/maudux/)*

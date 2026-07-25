@@ -1,6 +1,6 @@
 # MIHVU
 
-MIHVU is a Tech House and Techno artist with 2 upcoming club dates listed on soundcheck as of Fri, 24 Jul 2026, next at Tunelowa, Warsaw on Sun, 26 Jul 2026.
+MIHVU is a Tech House and Techno artist with 2 upcoming club dates listed on soundcheck as of Sat, 25 Jul 2026, next at Tunelowa, Warsaw on Sun, 26 Jul 2026.
 
 MIHVU is a tech house and techno artist based in Poland, tracked on soundcheck, with 38 sets logged across Berlin, Krakow and Warsaw. Often billed alongside Filip Sonik, LuLu Malina and Freudenthal. Next up: Tunelowa, Warsaw on Sun 26 Jul.
 
@@ -26,4 +26,4 @@ MIHVU is a tech house and techno artist based in Poland, tracked on soundcheck, 
 
 Filip Sonik, LuLu Malina, Freudenthal
 
-*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/mihvu/)*
+*Updated Sat, 25 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/mihvu/)*

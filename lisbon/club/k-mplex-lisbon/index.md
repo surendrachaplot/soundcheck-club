@@ -1,14 +1,13 @@
 # Kømplex Lisbon
 
-Kømplex Lisbon is a music venue in Lisbon with 7 upcoming nights listed on soundcheck as of Fri, 24 Jul 2026; the next is "ArtLab - Newcomers & Talent Event" on Fri, 24 Jul 2026.
+Kømplex Lisbon is a music venue in Lisbon with 6 upcoming nights listed on soundcheck as of Sat, 25 Jul 2026; the next is "Bounce 10h Marathon [Sara Landry unofficial After Party]" on Sat, 25 Jul 2026.
 
-Kømplex Lisbon is a music venue in Lisbon listed on soundcheck. 7 upcoming nights, with line-ups including ANNĒ, Cristobal Pesce, CucaRafa and DIMENSION 9 and 2 more. Browse upcoming dates, start times and who's playing. Praceta Domingos Rodrigues Nr5 2685-327 Lisbon.
+Kømplex Lisbon is a music venue in Lisbon listed on soundcheck. 6 upcoming nights, with line-ups including ANNĒ, Cristobal Pesce, CucaRafa and DIMENSION 9 and 2 more. Browse upcoming dates, start times and who's playing. Praceta Domingos Rodrigues Nr5 2685-327 Lisbon.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Fri, 24 Jul 2026 | ArtLab - Newcomers & Talent Event |  |
 | Sat, 25 Jul 2026 | Bounce 10h Marathon [Sara Landry unofficial After Party] | Ketarina, NOQIA, Silver Fx |
 | Sat, 1 Aug 2026 | Fastlove - Bounce New Faces with stargurl [Fra] | PAISANA, stargurl |
 | Fri, 14 Aug 2026 | Disturb Rave with Cristobal Pesce | Cristobal Pesce, DIMENSION 9, Ga7o |
@@ -20,4 +19,4 @@ Kømplex Lisbon is a music venue in Lisbon listed on soundcheck. 7 upcoming nigh
 
 Praceta Domingos Rodrigues Nr5 2685-327 Lisbon, Lisbon
 
-*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/lisbon/club/k-mplex-lisbon/)*
+*Updated Sat, 25 Jul 2026 · source: [soundcheck](https://soundcheck.club/lisbon/club/k-mplex-lisbon/)*

@@ -1,14 +1,13 @@
 # Luke Alessi
 
-Luke Alessi is a House and Techno artist with 9 upcoming club dates listed on soundcheck as of Fri, 24 Jul 2026, next at Coda, Toronto on Fri, 24 Jul 2026.
+Luke Alessi is a House and Techno artist with 8 upcoming club dates listed on soundcheck as of Sat, 25 Jul 2026, next at Roberta's, New York City on Sat, 25 Jul 2026.
 
-Luke Alessi is a house and techno artist based in Australia, tracked on soundcheck, with 105 sets logged across Amsterdam, Bangkok, Belgrade and Berlin and 34 more. Often billed alongside Jordan Brando, DJ Tennis and William Kiss. Next up: Coda, Toronto on Fri 24 Jul.
+Luke Alessi is a house and techno artist based in Australia, tracked on soundcheck, with 105 sets logged across Amsterdam, Bangkok, Belgrade and Berlin and 34 more. Often billed alongside Jordan Brando, DJ Tennis and William Kiss. Next up: Roberta's, Newyorkcity on Sat 25 Jul.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 24 Jul 2026 | Coda | Toronto |
 | Sat, 25 Jul 2026 | Roberta's | New York City |
 | Sat, 25 Jul 2026 | Honey's | New York City |
 | Sat, 1 Aug 2026 | TBA - Hollywood Park adjacent to SoFi Stadium | Los Angeles |
@@ -20,6 +19,7 @@ Luke Alessi is a house and techno artist based in Australia, tracked on soundche
 
 ## Recently played
 
+- Coda, Toronto — Fri, 24 Jul 2026
 - Café Schöne Aussichten (CSA), Hamburg — Sat, 11 Jul 2026
 - Mondo, Madrid — Thu, 9 Jul 2026
 - Parco Dora, Turin — Fri, 3 Jul 2026
@@ -27,10 +27,9 @@ Luke Alessi is a house and techno artist based in Australia, tracked on soundche
 - Thuishaven, Amsterdam — Sun, 28 Jun 2026
 - Mama Shelter, Belgrade — Sat, 13 Jun 2026
 - Yamamori Tengu, Dublin — Sat, 30 May 2026
-- Spot Lite Detroit, Detroit — Mon, 25 May 2026
 
 ## Shares bills with
 
 Jordan Brando, DJ Tennis, William Kiss
 
-*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/lukealessi/)*
+*Updated Sat, 25 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/lukealessi/)*

@@ -1,6 +1,6 @@
 # TBA - PORTE 3A - OUTDOOR
 
-TBA - PORTE 3A - OUTDOOR is a music venue in Marseille with 1 upcoming night listed on soundcheck as of Fri, 24 Jul 2026; the next is "DOCK SANDWICH #5: METI b2b BAAL [kumquat] - GYUZA [ghost club]" on Fri, 31 Jul 2026.
+TBA - PORTE 3A - OUTDOOR is a music venue in Marseille with 1 upcoming night listed on soundcheck as of Sat, 25 Jul 2026; the next is "DOCK SANDWICH #5: METI b2b BAAL [kumquat] - GYUZA [ghost club]" on Fri, 31 Jul 2026.
 
 TBA - PORTE 3A - OUTDOOR is a music venue in Marseille listed on soundcheck. 1 upcoming night. Browse upcoming dates, start times and who's playing.
 
@@ -10,4 +10,4 @@ TBA - PORTE 3A - OUTDOOR is a music venue in Marseille listed on soundcheck. 1 u
 | --- | --- | --- |
 | Fri, 31 Jul 2026 | DOCK SANDWICH #5: METI b2b BAAL [kumquat] - GYUZA [ghost club] |  |
 
-*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/marseille/club/tba-porte-3a-outdoor/)*
+*Updated Sat, 25 Jul 2026 · source: [soundcheck](https://soundcheck.club/marseille/club/tba-porte-3a-outdoor/)*

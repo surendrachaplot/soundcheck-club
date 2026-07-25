@@ -1,6 +1,6 @@
 # Matt Sassari
 
-Matt Sassari is a Techno and Tech House artist with 4 upcoming club dates listed on soundcheck as of Fri, 24 Jul 2026, next at Bauhaus, Houston on Fri, 31 Jul 2026.
+Matt Sassari is a Techno and Tech House artist with 4 upcoming club dates listed on soundcheck as of Sat, 25 Jul 2026, next at Bauhaus, Houston on Fri, 31 Jul 2026.
 
 Matt Sassari is a techno and tech house artist tracked on soundcheck, with 67 sets logged across Amsterdam, Auckland, Bangkok and Barcelona and 31 more. Often billed alongside Kygo, David Guetta and Nicole Moudaber. Next up: Bauhaus, Houston on Fri 31 Jul.
 
@@ -28,4 +28,4 @@ Matt Sassari is a techno and tech house artist tracked on soundcheck, with 67 se
 
 Kygo, David Guetta, Nicole Moudaber
 
-*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/mattsassari/)*
+*Updated Sat, 25 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/mattsassari/)*

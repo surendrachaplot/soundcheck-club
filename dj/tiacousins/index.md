@@ -1,6 +1,6 @@
 # Tia Cousins
 
-Tia Cousins is a House and Techno artist with 4 upcoming club dates listed on soundcheck as of Fri, 24 Jul 2026, next at Macadam, Nantes on Sat, 25 Jul 2026.
+Tia Cousins is a House and Techno artist with 4 upcoming club dates listed on soundcheck as of Sat, 25 Jul 2026, next at Macadam, Nantes on Sat, 25 Jul 2026.
 
 Tia Cousins is a house and techno artist tracked on soundcheck, with 104 sets logged across Amsterdam, Bangkok, Belfast and Belgrade and 22 more. Often billed alongside Matt Cowell, Ruf Dug and babyschön. Next up: Macadam, Nantes on Sat 25 Jul.
 
@@ -28,4 +28,4 @@ Tia Cousins is a house and techno artist tracked on soundcheck, with 104 sets lo
 
 Matt Cowell, Ruf Dug, babyschön
 
-*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/tiacousins/)*
+*Updated Sat, 25 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/tiacousins/)*

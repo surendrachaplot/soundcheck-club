@@ -1,8 +1,8 @@
 # KUKO
 
-KUKO is a Techno and Trance artist with 23 upcoming club dates listed on soundcheck as of Fri, 24 Jul 2026, next at Rebstockpark, Frankfurt on Sat, 25 Jul 2026.
+KUKO is a Techno and Trance artist with 24 upcoming club dates listed on soundcheck as of Sat, 25 Jul 2026, next at Rebstockpark, Frankfurt on Sat, 25 Jul 2026.
 
-KUKO is a techno and trance artist tracked on soundcheck, with 203 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 48 more. Often billed alongside Cloudy, Adrian Mills and Johannes Schuster. Next up: Rebstockpark, Frankfurt on Sat 25 Jul.
+KUKO is a techno and trance artist tracked on soundcheck, with 204 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 48 more. Often billed alongside Cloudy, Adrian Mills and Johannes Schuster. Next up: Rebstockpark, Frankfurt on Sat 25 Jul.
 
 ## Upcoming shows
 
@@ -36,4 +36,4 @@ KUKO is a techno and trance artist tracked on soundcheck, with 203 sets logged a
 
 Cloudy, Adrian Mills, Johannes Schuster
 
-*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/kuko-de/)*
+*Updated Sat, 25 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/kuko-de/)*

@@ -1,14 +1,13 @@
 # Tanzhaus West
 
-Tanzhaus West is a music venue in Frankfurt with 8 upcoming nights listed on soundcheck as of Fri, 24 Jul 2026; the next is "TAG AM POOL with: AKA AKA, Nusha, Joris Turenhout, Steven Shade, uvm (2 DAYS INDOOR + OUTDOOR)" on Fri, 24 Jul 2026.
+Tanzhaus West is a music venue in Frankfurt with 7 upcoming nights listed on soundcheck as of Sat, 25 Jul 2026; the next is "Toxic Family & Friends - Retro Edition" on Fri, 31 Jul 2026.
 
-Tanzhaus West is a music venue in Frankfurt listed on soundcheck. 8 upcoming nights, with line-ups including AKA AKA, Alina Viktoria, Andrale and Andy Düx and 2 more. Browse upcoming dates, start times and who's playing. Gutleutstrasse 294; 60327 Frankfurt; Germany.
+Tanzhaus West is a music venue in Frankfurt listed on soundcheck. 7 upcoming nights, with line-ups including Alina Viktoria, Andrale, Andy Düx and Avocado and 2 more. Browse upcoming dates, start times and who's playing. Gutleutstrasse 294; 60327 Frankfurt; Germany.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Fri, 24 Jul 2026 | TAG AM POOL with: AKA AKA, Nusha, Joris Turenhout, Steven Shade, uvm (2 DAYS INDOOR + OUTDOOR) | AKA AKA, BARIŞ BERBER, DJ Jordan, Herbrido, Joris Turenhout, Nick Reverse, Nusha, Steven Shade, Vonderau |
 | Fri, 31 Jul 2026 | Toxic Family & Friends - Retro Edition | Andy Düx |
 | Sat, 1 Aug 2026 | BERLINER NAECHTE x Rummelfest Afterparty | Andrale, Avocado, Bait and Switch, Ciao 3lla, Francis FF, Kon Faber, Leon Licht, TraumaMia |
 | Sat, 8 Aug 2026 | TANZHAUS SOMMERFEST | Alina Viktoria, Concussion, DJ 069, ELOISA, Frau Laura, Harmann, MSKI, Peter Eilmes, Roi Perez, Scheibenwischer, Stef de Haan, TOXIMAMI, Victor Ruiz, felix (2), julia gun |
@@ -21,4 +20,4 @@ Tanzhaus West is a music venue in Frankfurt listed on soundcheck. 8 upcoming nig
 
 Gutleutstrasse 294; 60327 Frankfurt; Germany, Frankfurt
 
-*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/frankfurt/club/tanzhaus-west/)*
+*Updated Sat, 25 Jul 2026 · source: [soundcheck](https://soundcheck.club/frankfurt/club/tanzhaus-west/)*

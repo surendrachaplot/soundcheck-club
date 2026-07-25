@@ -1,8 +1,8 @@
 # Kim April
 
-Kim April is a House and Tech House artist with 5 upcoming club dates listed on soundcheck as of Fri, 24 Jul 2026, next at Praterinsel, Munich on Sat, 25 Jul 2026.
+Kim April is a House and Tech House artist with 6 upcoming club dates listed on soundcheck as of Sat, 25 Jul 2026, next at Praterinsel, Munich on Sat, 25 Jul 2026.
 
-Kim April is a house and tech house artist tracked on soundcheck, with 79 sets logged across Amsterdam, Barcelona, Ibiza and London and 5 more. Often billed alongside Job de Jong, M-High and ELVI (SE). Next up: Praterinsel, Munich on Sat 25 Jul.
+Kim April is a house and tech house artist tracked on soundcheck, with 80 sets logged across Amsterdam, Barcelona, Ibiza and London and 5 more. Often billed alongside Job de Jong, M-High and ELVI (SE). Next up: Praterinsel, Munich on Sat 25 Jul.
 
 ## Upcoming shows
 
@@ -13,6 +13,7 @@ Kim April is a house and tech house artist tracked on soundcheck, with 79 sets l
 | Fri, 21 Aug 2026 | Shelter Amsterdam | Amsterdam |
 | Sat, 26 Sept 2026 | Shelter Amsterdam | Amsterdam |
 | Sun, 4 Oct 2026 | 528 Ibiza | Ibiza |
+| Fri, 23 Oct 2026 | Ijland | Amsterdam |
 
 ## Recently played
 
@@ -29,4 +30,4 @@ Kim April is a house and tech house artist tracked on soundcheck, with 79 sets l
 
 Job de Jong, M-High, ELVI (SE)
 
-*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/kimapril/)*
+*Updated Sat, 25 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/kimapril/)*

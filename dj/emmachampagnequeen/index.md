@@ -1,14 +1,13 @@
 # Emma Champagne Queen
 
-Emma Champagne Queen is a House and Disco artist with 9 upcoming club dates listed on soundcheck as of Fri, 24 Jul 2026, next at SISSI'S Amsterdam, Amsterdam on Fri, 24 Jul 2026.
+Emma Champagne Queen is a House and Disco artist with 8 upcoming club dates listed on soundcheck as of Sat, 25 Jul 2026, next at TBA - DAM SQUARE / VONDELPARK after 14:00, Amsterdam on Sat, 25 Jul 2026.
 
-Emma Champagne Queen is a house and disco artist based in Netherlands, tracked on soundcheck, with 32 sets logged across Amsterdam, Thehague and Utrecht. Often billed alongside Kirilski, Pura Pachanga and Benny Rodrigues. Next up: SISSI'S Amsterdam, Amsterdam on Fri 24 Jul.
+Emma Champagne Queen is a house and disco artist based in Netherlands, tracked on soundcheck, with 32 sets logged across Amsterdam, Thehague and Utrecht. Often billed alongside Kirilski, Pura Pachanga and Benny Rodrigues. Next up: TBA - DAM SQUARE / VONDELPARK after 14:00, Amsterdam on Sat 25 Jul.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 24 Jul 2026 | SISSI'S Amsterdam | Amsterdam |
 | Sat, 25 Jul 2026 | TBA - DAM SQUARE / VONDELPARK after 14:00 | Amsterdam |
 | Wed, 29 Jul 2026 | Club NYX | Amsterdam |
 | Sat, 1 Aug 2026 | TILLATEC | Amsterdam |
@@ -20,6 +19,7 @@ Emma Champagne Queen is a house and disco artist based in Netherlands, tracked o
 
 ## Recently played
 
+- SISSI'S Amsterdam, Amsterdam — Fri, 24 Jul 2026
 - SISSI'S Amsterdam, Amsterdam — Fri, 19 Jun 2026
 - TBA - Condensatorweg 48c, Amsterdam — Sun, 7 Jun 2026
 - TBA - Tonton Noord, Amsterdam — Sat, 30 May 2026
@@ -27,10 +27,9 @@ Emma Champagne Queen is a house and disco artist based in Netherlands, tracked o
 - Art'otel Amsterdam, Amsterdam — Sun, 26 Apr 2026
 - Madam, Amsterdam — Fri, 3 Apr 2026
 - Basement, Amsterdam — Sat, 28 Feb 2026
-- Club Poema, Utrecht — Wed, 31 Dec 2025
 
 ## Shares bills with
 
 Kirilski, Pura Pachanga, Benny Rodrigues
 
-*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/emmachampagnequeen/)*
+*Updated Sat, 25 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/emmachampagnequeen/)*

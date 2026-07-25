@@ -1,14 +1,13 @@
 # Carl Craig
 
-Carl Craig is a House and Techno artist with 16 upcoming club dates listed on soundcheck as of Fri, 24 Jul 2026, next at The Jazz Cafe, London on Fri, 24 Jul 2026.
+Carl Craig is a House and Techno artist with 15 upcoming club dates listed on soundcheck as of Sat, 25 Jul 2026, next at Almar Beach Club, Barcelona on Sun, 26 Jul 2026.
 
-Carl Craig is a house and techno artist tracked on soundcheck, with 259 sets logged across Amsterdam, Antwerp, Athens and Austin and 47 more. Often billed alongside Moodymann, DJ Holographic and Seth Troxler. Next up: The Jazz Cafe, London on Fri 24 Jul.
+Carl Craig is a house and techno artist tracked on soundcheck, with 259 sets logged across Amsterdam, Antwerp, Athens and Austin and 47 more. Often billed alongside Moodymann, DJ Holographic and Seth Troxler. Next up: Almar Beach Club, Barcelona on Sun 26 Jul.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 24 Jul 2026 | The Jazz Cafe | London |
 | Sun, 26 Jul 2026 | Almar Beach Club | Barcelona |
 | Wed, 29 Jul 2026 | Amsterdamse Bos | Amsterdam |
 | Thu, 30 Jul 2026 | Chinois Ibiza | Ibiza |
@@ -20,9 +19,11 @@ Carl Craig is a house and techno artist tracked on soundcheck, with 259 sets log
 | Sun, 6 Sept 2026 | TV Lounge | Detroit |
 | Thu, 10 Sept 2026 | Chinois Ibiza | Ibiza |
 | Tue, 15 Sept 2026 | 528 Ibiza | Ibiza |
+| Thu, 24 Sept 2026 | Chinois Ibiza | Ibiza |
 
 ## Recently played
 
+- The Jazz Cafe, London — Fri, 24 Jul 2026
 - Lux Fragil, Lisbon — Sat, 18 Jul 2026
 - Switch, Porto — Fri, 17 Jul 2026
 - Chinois Ibiza, Ibiza — Thu, 16 Jul 2026
@@ -30,10 +31,9 @@ Carl Craig is a house and techno artist tracked on soundcheck, with 259 sets log
 - 45hertz, Hamburg — Sun, 5 Jul 2026
 - Parco Dora, Turin — Fri, 3 Jul 2026
 - Blue Marlin Ibiza, Ibiza — Wed, 1 Jul 2026
-- 528 Ibiza, Ibiza — Tue, 23 Jun 2026
 
 ## Shares bills with
 
 Moodymann, DJ Holographic, Seth Troxler
 
-*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/carlcraig/)*
+*Updated Sat, 25 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/carlcraig/)*

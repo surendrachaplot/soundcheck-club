@@ -1,6 +1,6 @@
 # Alaska (2)
 
-Alaska (2) is a electronic artist with 123 upcoming club dates listed on soundcheck as of Fri, 24 Jul 2026, next at Institut fuer Zukunft (IfZ), Leipzig on Sat, 25 Jul 2026.
+Alaska (2) is a electronic artist with 123 upcoming club dates listed on soundcheck as of Sat, 25 Jul 2026, next at Institut fuer Zukunft (IfZ), Leipzig on Sat, 25 Jul 2026.
 
 Alaska (2) is an electronic artist based in Colombia, tracked on soundcheck, with 123 sets logged across Amsterdam, Bali, Barcelona and Berlin and 43 more. Often billed alongside AMEX (UK), APP and Debit. Next up: Institut fuer Zukunft (IfZ), Leipzig on Sat 25 Jul.
 
@@ -25,4 +25,4 @@ Alaska (2) is an electronic artist based in Colombia, tracked on soundcheck, wit
 
 AMEX (UK), APP, Debit
 
-*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/alaska-2/)*
+*Updated Sat, 25 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/alaska-2/)*

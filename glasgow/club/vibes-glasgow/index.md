@@ -1,14 +1,13 @@
 # Vibes Glasgow
 
-Vibes Glasgow is a music venue in Glasgow with 9 upcoming nights listed on soundcheck as of Fri, 24 Jul 2026; the next is "Raw Style and Uptempo Night" on Fri, 24 Jul 2026.
+Vibes Glasgow is a music venue in Glasgow with 8 upcoming nights listed on soundcheck as of Sat, 25 Jul 2026; the next is "Vibes Thursdays Bounce, Techno & Trance" on Thu, 30 Jul 2026.
 
-Vibes Glasgow is a music venue in Glasgow listed on soundcheck. 9 upcoming nights, with line-ups including Sinner. Browse upcoming dates, start times and who's playing. 239 Sauchiehall Street, Glasgow, G1 3AE.
+Vibes Glasgow is a music venue in Glasgow listed on soundcheck. 8 upcoming nights, with line-ups including Sinner. Browse upcoming dates, start times and who's playing. 239 Sauchiehall Street, Glasgow, G1 3AE.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Fri, 24 Jul 2026 | Raw Style and Uptempo Night |  |
 | Thu, 30 Jul 2026 | Vibes Thursdays Bounce, Techno & Trance |  |
 | Fri, 31 Jul 2026 | Hunt Hard Techno/Industrial Night |  |
 | Sat, 8 Aug 2026 | Vibes 1 Year Anniversary |  |
@@ -22,4 +21,4 @@ Vibes Glasgow is a music venue in Glasgow listed on soundcheck. 9 upcoming night
 
 239 Sauchiehall Street, Glasgow, G1 3AE, Glasgow
 
-*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/glasgow/club/vibes-glasgow/)*
+*Updated Sat, 25 Jul 2026 · source: [soundcheck](https://soundcheck.club/glasgow/club/vibes-glasgow/)*

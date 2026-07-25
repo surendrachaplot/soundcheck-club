@@ -1,14 +1,13 @@
 # Humboldt Forum
 
-Humboldt Forum is a music venue in Berlin with 10 upcoming nights listed on soundcheck as of Fri, 24 Jul 2026; the next is "MONTOYA. DURCHLÜFTEN – 2026 Live Concerts & DJ Acts" on Fri, 24 Jul 2026.
+Humboldt Forum is a music venue in Berlin with 9 upcoming nights listed on soundcheck as of Sat, 25 Jul 2026; the next is "AySay. DURCHLÜFTEN – 2026 Live Concerts & DJ Acts" on Sat, 25 Jul 2026.
 
-Humboldt Forum is a music venue in Berlin listed on soundcheck. 10 upcoming nights, with line-ups including Gebrüder Teichmann. Browse upcoming dates, start times and who's playing. Schlossplatz 10178 Berlin.
+Humboldt Forum is a music venue in Berlin listed on soundcheck. 9 upcoming nights, with line-ups including Gebrüder Teichmann. Browse upcoming dates, start times and who's playing. Schlossplatz 10178 Berlin.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Fri, 24 Jul 2026 | MONTOYA. DURCHLÜFTEN – 2026 Live Concerts & DJ Acts |  |
 | Sat, 25 Jul 2026 | AySay. DURCHLÜFTEN – 2026 Live Concerts & DJ Acts |  |
 | Sat, 25 Jul 2026 | DJ MzRizk DURCHLÜFTEN – 2026 Live Concerts & DJ Acts |  |
 | Thu, 30 Jul 2026 | Morena Leraba. DURCHLÜFTEN – 2026 Live Concerts & DJ Acts |  |
@@ -23,4 +22,4 @@ Humboldt Forum is a music venue in Berlin listed on soundcheck. 10 upcoming nigh
 
 Schlossplatz 10178 Berlin, Berlin
 
-*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/humboldt-forum/)*
+*Updated Sat, 25 Jul 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/humboldt-forum/)*

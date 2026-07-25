@@ -1,14 +1,13 @@
 # Rumore Nightclub Capri
 
-Rumore Nightclub Capri is a music venue in Naples with 21 upcoming nights listed on soundcheck as of Fri, 24 Jul 2026; the next is "Rumore Season 26 Party N°26 W/ Disco Panico" on Fri, 24 Jul 2026.
+Rumore Nightclub Capri is a music venue in Naples with 20 upcoming nights listed on soundcheck as of Sat, 25 Jul 2026; the next is "Rumore Season 26 Party N°27 W/ Sara & Saad" on Sat, 25 Jul 2026.
 
-Rumore Nightclub Capri is a music venue in Naples listed on soundcheck. 21 upcoming nights, with line-ups including Acid Washed, Agathe Mougin, Breakbot and Céline and 2 more. Browse upcoming dates, start times and who's playing. Via Roma 71, 80073, Capri, Italy.
+Rumore Nightclub Capri is a music venue in Naples listed on soundcheck. 20 upcoming nights, with line-ups including Acid Washed, Agathe Mougin, Breakbot and Céline and 2 more. Browse upcoming dates, start times and who's playing. Via Roma 71, 80073, Capri, Italy.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Fri, 24 Jul 2026 | Rumore Season 26 Party N°26 W/ Disco Panico |  |
 | Sat, 25 Jul 2026 | Rumore Season 26 Party N°27 W/ Sara & Saad | Sara Hardan |
 | Thu, 30 Jul 2026 | Rumore Season 26 Party N°28 W/ Andrea Desiderio & Luigi D'Esposito | Luigi D'Esposito |
 | Fri, 31 Jul 2026 | Rumore Season 26 Party N°29 W/ Breakbot & Irfane | Breakbot, Irfane |
@@ -18,9 +17,10 @@ Rumore Nightclub Capri is a music venue in Naples listed on soundcheck. 21 upcom
 | Sat, 8 Aug 2026 | Rumore Season 26 Party N°33 W/ Make A Dance | Make A Dance |
 | Thu, 13 Aug 2026 | Rumore Season 26 Party N°34 W/ Acid Washed | Acid Washed |
 | Fri, 14 Aug 2026 | Rumore Season 26 Party N°35 W/ Deep Futuristic | Deep Futuristic |
+| Sat, 15 Aug 2026 | Rumore Season 26 Party N°36 W/ Miura & Agathe Mougin | Agathe Mougin, Miura |
 
 ## Address
 
 Via Roma 71, 80073, Capri, Italy, Naples
 
-*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/naples/club/rumore-nightclub-capri/)*
+*Updated Sat, 25 Jul 2026 · source: [soundcheck](https://soundcheck.club/naples/club/rumore-nightclub-capri/)*

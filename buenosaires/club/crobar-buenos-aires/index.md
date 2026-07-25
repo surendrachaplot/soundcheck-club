@@ -1,14 +1,13 @@
 # Crobar - Buenos Aires
 
-Crobar - Buenos Aires is a music venue in Buenos Aires with 6 upcoming nights listed on soundcheck as of Fri, 24 Jul 2026; the next is "Crobar Club Pres.: Dr Trincado, Light Blue File & More" on Fri, 24 Jul 2026.
+Crobar - Buenos Aires is a music venue in Buenos Aires with 5 upcoming nights listed on soundcheck as of Sat, 25 Jul 2026; the next is "Crobar Phuture Pres.: Jeremy Olander" on Sat, 25 Jul 2026.
 
-Crobar - Buenos Aires is a music venue in Buenosaires listed on soundcheck. 6 upcoming nights, with line-ups including Bart Skils, Dyed Soundorom, Jeremy Olander and Joe Vanditti and 2 more. Browse upcoming dates, start times and who's playing. Marcelo Freyre S/N, Paseo de la Infanta; Palermo; Buenos Aires; Argentina.
+Crobar - Buenos Aires is a music venue in Buenosaires listed on soundcheck. 5 upcoming nights, with line-ups including Bart Skils, Dyed Soundorom, Jeremy Olander and Joe Vanditti and 2 more. Browse upcoming dates, start times and who's playing. Marcelo Freyre S/N, Paseo de la Infanta; Palermo; Buenos Aires; Argentina.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Fri, 24 Jul 2026 | Crobar Club Pres.: Dr Trincado, Light Blue File & More |  |
 | Sat, 25 Jul 2026 | Crobar Phuture Pres.: Jeremy Olander | Jeremy Olander |
 | Fri, 31 Jul 2026 | Crobar Phuture Pres.: Joe Vanditti | Joe Vanditti |
 | Sat, 8 Aug 2026 | Crobar Club Pres.: Soundexile & Friends | Soundexile |
@@ -19,4 +18,4 @@ Crobar - Buenos Aires is a music venue in Buenosaires listed on soundcheck. 6 up
 
 Marcelo Freyre S/N, Paseo de la Infanta; Palermo; Buenos Aires; Argentina, Buenos Aires
 
-*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/buenosaires/club/crobar-buenos-aires/)*
+*Updated Sat, 25 Jul 2026 · source: [soundcheck](https://soundcheck.club/buenosaires/club/crobar-buenos-aires/)*

@@ -1,6 +1,6 @@
 # Mondo
 
-Mondo is a music venue in Madrid with 21 upcoming nights listed on soundcheck as of Fri, 24 Jul 2026; the next is "Mall Grab / Gerardo Niva / DJ SWISHERMAN B2B Emi Koto / Emi Koto" on Sat, 25 Jul 2026.
+Mondo is a music venue in Madrid with 21 upcoming nights listed on soundcheck as of Sat, 25 Jul 2026; the next is "Mall Grab / Gerardo Niva / DJ SWISHERMAN B2B Emi Koto / Emi Koto" on Sat, 25 Jul 2026.
 
 Mondo is a music venue in Madrid listed on soundcheck. 21 upcoming nights, with line-ups including Alarico, Alba Franch, Andres Campo and Bad Boombox and 2 more. Browse upcoming dates, start times and who's playing. Sala But, C. de Barceló, 11, Local B, Centro, 28004 Madrid.
 
@@ -23,4 +23,4 @@ Mondo is a music venue in Madrid listed on soundcheck. 21 upcoming nights, with 
 
 Sala But, C. de Barceló, 11, Local B, Centro, 28004 Madrid, Madrid
 
-*Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/madrid/club/mondo/)*
+*Updated Sat, 25 Jul 2026 · source: [soundcheck](https://soundcheck.club/madrid/club/mondo/)*
