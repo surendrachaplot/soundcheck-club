@@ -77,6 +77,17 @@
     .logo { display:inline-flex; align-items:center; gap:8px; color:var(--fg); text-decoration:none; flex:none; }
     .logo-ic { width:28px; height:28px; color:var(--accent); flex:none; }
     .logo-wm { font-family:var(--head); font-weight:800; font-size:calc(var(--fs-md)*1.2); letter-spacing:-0.01em; line-height:1; }
+    /* CRT sweep on the wordmark: lines fade in toward the baseline, like a
+       screen refreshing. Lines are drawn OVER solid type, not masked out of it
+       — knocking rows out halves the ink and the logo went grey next to the
+       city picker at the 14–20px sizes the nav really renders. */
+    .crt-wm{ position:relative; display:inline-block; }
+    .crt-wm::after{
+      content:""; position:absolute; inset:0; pointer-events:none;
+      background:repeating-linear-gradient(0deg, rgba(22,16,42,0.62) 0 1px, transparent 1px 2px);
+      -webkit-mask-image:linear-gradient(transparent 28%, #000 100%);
+      mask-image:linear-gradient(transparent 28%, #000 100%);
+    }
     .logo-wm .ac { color:var(--accent); }
     .logo:hover .logo-wm { color:var(--accent); }
     /* ── web header: city switcher + named nav + search box + log + account ── */
@@ -3255,13 +3266,13 @@
     }
     @media (max-width:620px){ :root{ --gut:18px; } }
 </style>
-<meta name="sc-build" content="1785017370062">
+<meta name="sc-build" content="1785018030361">
 </head>
 <body>
   <main class="wrap">
     <nav>
       <a class="logo" href="." aria-label="Soundcheck — home">
-        <svg class="logo-ic" viewBox="0 0 32 32" fill="none" aria-hidden="true"><defs><linearGradient id="scg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#ff5e7e"/><stop offset="1" stop-color="#ff9a3d"/></linearGradient></defs><rect x="2.5" y="7.5" width="27" height="17" rx="5" fill="none" stroke="url(#scg)" stroke-width="2.3"/><circle cx="11.5" cy="16" r="2.7" fill="url(#scg)"/><circle cx="20.5" cy="16" r="2.7" fill="url(#scg)"/><path d="M14.2 16h3.6" stroke="url(#scg)" stroke-width="2.3" stroke-linecap="round"/></svg><span class="logo-wm">sound<span class="ac">check</span></span></a>
+        <svg class="logo-ic" viewBox="0 0 32 32" fill="none" aria-hidden="true"><defs><linearGradient id="scg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#ff5e7e"/><stop offset="1" stop-color="#ff9a3d"/></linearGradient></defs><rect x="2.5" y="7.5" width="27" height="17" rx="5" fill="none" stroke="url(#scg)" stroke-width="2.3"/><circle cx="11.5" cy="16" r="2.7" fill="url(#scg)"/><circle cx="20.5" cy="16" r="2.7" fill="url(#scg)"/><path d="M14.2 16h3.6" stroke="url(#scg)" stroke-width="2.3" stroke-linecap="round"/></svg><span class="logo-wm crt-wm">sound<span class="ac">check</span></span></a>
       <button class="hdr-city" id="hdr-city" type="button" aria-label="Change city"><span id="hdr-city-name">London</span><svg class="cs-chev" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.6" stroke-linecap="round" stroke-linejoin="round"><path d="m6 9 6 6 6-6"/></svg></button>
       <div class="nav-links" id="nav-links">
         <button class="nl" data-nav="discover" type="button">Discover</button>
@@ -3323,7 +3334,7 @@
     <footer class="site-foot">
       <div class="foot-row">
         <a class="logo foot-logo" id="foot-home" role="button" tabindex="0" aria-label="Soundcheck — home">
-          <svg class="logo-ic" viewBox="0 0 32 32" fill="none" aria-hidden="true"><defs><linearGradient id="scg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#ff5e7e"/><stop offset="1" stop-color="#ff9a3d"/></linearGradient></defs><rect x="2.5" y="7.5" width="27" height="17" rx="5" fill="none" stroke="url(#scg)" stroke-width="2.3"/><circle cx="11.5" cy="16" r="2.7" fill="url(#scg)"/><circle cx="20.5" cy="16" r="2.7" fill="url(#scg)"/><path d="M14.2 16h3.6" stroke="url(#scg)" stroke-width="2.3" stroke-linecap="round"/></svg><span class="logo-wm">sound<span class="ac">check</span></span></a>
+          <svg class="logo-ic" viewBox="0 0 32 32" fill="none" aria-hidden="true"><defs><linearGradient id="scg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#ff5e7e"/><stop offset="1" stop-color="#ff9a3d"/></linearGradient></defs><rect x="2.5" y="7.5" width="27" height="17" rx="5" fill="none" stroke="url(#scg)" stroke-width="2.3"/><circle cx="11.5" cy="16" r="2.7" fill="url(#scg)"/><circle cx="20.5" cy="16" r="2.7" fill="url(#scg)"/><path d="M14.2 16h3.6" stroke="url(#scg)" stroke-width="2.3" stroke-linecap="round"/></svg><span class="logo-wm crt-wm">sound<span class="ac">check</span></span></a>
         <nav class="foot-links" aria-label="Footer">
           <a id="foot-discover" role="button" tabindex="0">Discover</a>
           <a id="foot-cities" role="button" tabindex="0">Cities</a>
@@ -7952,7 +7963,7 @@
       var el=document.getElementById('obv'); if(el) return el;
       el=document.createElement('div'); el.className='obv'; el.id='obv';
       el.innerHTML='<div class="ob-wrap"><div class="ob-top">'+
-        '<div style="font:800 1.05rem var(--head)">sound<span style="color:var(--accent)">check</span></div>'+
+        '<div class="crt-wm" style="font:800 1.05rem var(--head)">sound<span style="color:var(--accent)">check</span></div>'+
         '<div class="ob-dots" id="ob-dots"></div>'+
         '<button class="ob-skip" id="ob-skip" type="button" hidden>Skip</button>'+
         '</div><div id="ob-body" style="display:flex;flex-direction:column;flex:1"></div></div>';
