@@ -1,11 +1,11 @@
-# FOREVER UNLIMITED ENDLESS CLUBBING / VENUE LAUNCH EVENT [3 FLOORS] at TBA - WARSCHAUER PL 18 12045 BERLIN
+# FOREVER UNLIMITED ENDLESS CLUBBING / VENUE LAUNCH EVENT [3 FLOORS] at TBA - Warschauer Pl. 18, 10245 Berlin
 
-FOREVER UNLIMITED ENDLESS CLUBBING / VENUE LAUNCH EVENT [3 FLOORS] at TBA - WARSCHAUER PL 18 12045 BERLIN on Sat 1 Aug, Berlin. 15 acts on the bill: Aveen, CUNT REMEMBER, Ceili and Chaosy and 11 more. Preview the line-up and save it on soundcheck.
+FOREVER UNLIMITED ENDLESS CLUBBING / VENUE LAUNCH EVENT [3 FLOORS] at TBA - Warschauer Pl. 18, 10245 Berlin on Sat 1 Aug, Berlin. 15 acts on the bill: Aveen, CUNT REMEMBER, Ceili and Chaosy and 11 more. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
 | Date | Sat, 1 Aug 2026 |
-| Venue | TBA - WARSCHAUER PL 18 12045 BERLIN |
+| Venue | TBA - Warschauer Pl. 18, 10245 Berlin |
 | City | Berlin |
 
 ## Line-up

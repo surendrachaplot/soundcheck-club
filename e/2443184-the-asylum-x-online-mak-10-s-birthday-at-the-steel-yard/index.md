@@ -1,6 +1,6 @@
 # The Asylum x Online Mak 10's Birthday at The Steel Yard
 
-The Asylum x Online Mak 10's Birthday at The Steel Yard on Sat 8 Aug, London. 4 acts on the bill: Donae'o, Marcus Nasty, Pioneer and Shenin Amara. House and Afro House. Preview the line-up and save it on soundcheck.
+The Asylum x Online Mak 10's Birthday at The Steel Yard on Sat 8 Aug, London. 5 acts on the bill: Donae'o, Marcus Nasty, N Fostell and Pioneer and 1 more. House and Afro House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -12,6 +12,7 @@ The Asylum x Online Mak 10's Birthday at The Steel Yard on Sat 8 Aug, London. 4 
 
 - Donae'o
 - Marcus Nasty
+- N Fostell
 - Pioneer
 - Shenin Amara
 

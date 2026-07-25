@@ -2,14 +2,14 @@
 
 City Hall is a music venue in Barcelona with 15 upcoming nights listed on soundcheck as of Sat, 25 Jul 2026; the next is "City Hall pres. MONDAY PERREO || UN VERANO EN NUEVA YORK |l Guest List" on Mon, 27 Jul 2026.
 
-City Hall is a music venue in Barcelona listed on soundcheck. 15 upcoming nights, with line-ups including Agustina Aliaga, Anton Kurt, ARDZ. and Benja Millan and 2 more. Browse upcoming dates, start times and who's playing. Rambla de Catalunya, 4; 08007 Barcelona; Spain.
+City Hall is a music venue in Barcelona listed on soundcheck. 15 upcoming nights, with line-ups including 100to, Agustina Aliaga, Anton Kurt and ARDZ. and 2 more. Browse upcoming dates, start times and who's playing. Rambla de Catalunya, 4; 08007 Barcelona; Spain.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
 | Mon, 27 Jul 2026 | City Hall pres. MONDAY PERREO // UN VERANO EN NUEVA YORK /l Guest List |  |
-| Tue, 28 Jul 2026 | City Hall pres. MMA Records II Tuesday II FREE PASS BEFORE 1:00 A.M | Anton Kurt, Ivanhoe, Javi Lago |
+| Tue, 28 Jul 2026 | City Hall pres. MMA Records II Tuesday II FREE PASS BEFORE 1:00 A.M | 100to, Anton Kurt, Ivanhoe, Javi Lago |
 | Wed, 29 Jul 2026 | City Hall pres. MAKI NOVA II Wednesday II FREE PASS BEFORE 1:00 A.M | ARDZ., Claramonte, Kamo |
 | Thu, 30 Jul 2026 | TECHNOZULO pres. DAYANA // Hard Techno & Hardcore  | santyyyyyya |
 | Thu, 30 Jul 2026 | TechnoZulo pres DAYANA | santyyyyyya |

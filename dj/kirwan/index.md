@@ -10,7 +10,7 @@ Kirwan is a house and techno artist tracked on soundcheck, with 14 sets logged a
 | --- | --- | --- |
 | Sat, 25 Jul 2026 | Commune | Liverpool |
 | Sat, 1 Aug 2026 | Invisible Wind Factory | Liverpool |
-| Sat, 22 Aug 2026 | TBA | Liverpool |
+| Sat, 22 Aug 2026 | St Brides Church | Liverpool |
 
 ## Recently played
 

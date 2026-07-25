@@ -9,7 +9,7 @@ Oath is a music venue in Tokyo listed on soundcheck. 2 upcoming nights, with lin
 | Date | Night | Line-up |
 | --- | --- | --- |
 | Sat, 25 Jul 2026 | linen | Celter, Kerena, Kobashi Mitsuki, Wada Yosuke, YO.AN |
-| Sat, 1 Aug 2026 | Vinyl Encounters | Connor, Robin Ordell, Yama |
+| Sat, 1 Aug 2026 | Vinyl Encounters | Connor, Robin Ordell, Yama, yama’ (JP) |
 
 ## Address
 

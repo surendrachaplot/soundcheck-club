@@ -12,7 +12,7 @@ Frankhan Selectist is a music venue in Istanbul listed on soundcheck. 7 upcoming
 | Sat, 25 Jul 2026 | Petra Late Bar Takeover at the ((Sound Room)) | Dubfire, Eren (Vamonos, IST) |
 | Sat, 1 Aug 2026 | Toy Tonics Jam: Cody Currie + Arpy Brown | Arpy Brown, Cody Currie |
 | Fri, 7 Aug 2026 | Tomoki Tamura: Residency Show | Tomoki Tamura |
-| Sat, 8 Aug 2026 | Midnight Baklava Club: Eden Burns | Eden Burns, GARAN GARAN |
+| Sat, 8 Aug 2026 | Midnight Baklava Club: Eden Burns & GARAN GARAN | Eden Burns, GARAN GARAN |
 | Sun, 9 Aug 2026 | Block Party: Frankhan x Tavern |  |
 | Thu, 20 Aug 2026 | Conway the Machine |  |
 

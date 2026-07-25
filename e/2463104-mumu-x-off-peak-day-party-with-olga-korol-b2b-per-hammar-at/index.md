@@ -1,11 +1,11 @@
-# mUmU x Off:peaK (day party) with Olga Korol b2b Per Hammar at TBA
+# mUmU x Off:peaK (day party) with Olga Korol b2b Per Hammar at St Brides Church
 
-mUmU x Off:peaK (day party) with Olga Korol b2b Per Hammar at TBA on Sat 22 Aug, Liverpool. 7 acts on the bill: Aly P, Groove Division, Kathryn and Kirwan and 3 more. Techno and House. Preview the line-up and save it on soundcheck.
+mUmU x Off:peaK (day party) with Olga Korol b2b Per Hammar at St Brides Church on Sat 22 Aug, Liverpool. 7 acts on the bill: Aly P, Groove Division, Kathryn and Kirwan and 3 more. Techno and House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
 | Date | Sat, 22 Aug 2026 |
-| Venue | TBA |
+| Venue | St Brides Church |
 | City | Liverpool |
 
 ## Line-up

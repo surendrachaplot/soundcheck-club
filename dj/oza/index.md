@@ -1,8 +1,8 @@
 # OZA
 
-OZA is a Techno and Trance artist with 4 upcoming club dates listed on soundcheck as of Sat, 25 Jul 2026, next at Virage, Paris on Sat, 25 Jul 2026.
+OZA is a Techno and Trance artist with 5 upcoming club dates listed on soundcheck as of Sat, 25 Jul 2026, next at Virage, Paris on Sat, 25 Jul 2026.
 
-OZA is a techno and trance artist based in United States of America, tracked on soundcheck, with 74 sets logged across Amsterdam, Berlin, Boston and Losangeles and 8 more. Often billed alongside DJ Gigola, MCR-T and PALMA (US). Next up: Virage, Paris on Sat 25 Jul.
+OZA is a techno and trance artist based in United States of America, tracked on soundcheck, with 75 sets logged across Amsterdam, Berlin, Boston and Losangeles and 9 more. Often billed alongside DJ Gigola, MCR-T and PALMA (US). Next up: Virage, Paris on Sat 25 Jul.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ OZA is a techno and trance artist based in United States of America, tracked on 
 | --- | --- | --- |
 | Sat, 25 Jul 2026 | Virage | Paris |
 | Sat, 25 Jul 2026 | Virage | Paris |
+| Fri, 31 Jul 2026 | DNA Club | Munich |
 | Sat, 5 Sept 2026 | TBA | Los Angeles |
 | Fri, 25 Sept 2026 | TBA | Los Angeles |
 

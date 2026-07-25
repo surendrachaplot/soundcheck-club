@@ -1,8 +1,8 @@
 # KitKatClub
 
-KitKatClub is a music venue in Berlin with 22 upcoming nights listed on soundcheck as of Sat, 25 Jul 2026; the next is "Nacktfleisch - Berlin Pride / CSD Closing Party 2026" on Sun, 26 Jul 2026.
+KitKatClub is a music venue in Berlin with 28 upcoming nights listed on soundcheck as of Sat, 25 Jul 2026; the next is "Nacktfleisch - Berlin Pride / CSD Closing Party 2026" on Sun, 26 Jul 2026.
 
-KitKatClub is a music venue in Berlin listed on soundcheck. 22 upcoming nights, with line-ups including HANI DAKIN, Acid Foxy, Albin Brezlan and Alexander Paulski and 2 more. Browse upcoming dates, start times and who's playing. Köpenicker Strasse 76; Mitte; 10179 Berlin; Germany.
+KitKatClub is a music venue in Berlin listed on soundcheck. 28 upcoming nights, with line-ups including HANI DAKIN, Acid Foxy, Albin Brezlan and Alexander Paulski and 2 more. Browse upcoming dates, start times and who's playing. Köpenicker Strasse 76; Mitte; 10179 Berlin; Germany.
 
 ## What's on
 
@@ -14,10 +14,10 @@ KitKatClub is a music venue in Berlin listed on soundcheck. 22 upcoming nights, 
 | Thu, 30 Jul 2026 | 4 Anniversary of Human Colours w/ Frankie Flowerz / Ricardo Rodriguez / Somaphon (2 Floors) | Frankie Flowerz, Milk N Coffee, Rene Oldenburg, Somaphon |
 | Thu, 30 Jul 2026 | Burlesque Inferno 'Midsummer Meltdown' @ KitKatClub with Harpy, Foxic Poison, Piccolettha  |  |
 | Fri, 31 Jul 2026 | Red Light Tisco | Acid Foxy, Blame the Booker, Franeva, Julian Shore, LISTORIO, LIZZN, MUKKIMIAU, Miss Unleashed, Paula Hilton, PyjamaMama, maniaclina, nuarrrrr, substitüt |
+| Sun, 2 Aug 2026 | Nachspiel | Fran-Cee, Onkel Tom |
 | Mon, 3 Aug 2026 | Electric Monday@KitKat Club on 2 Floors | Diana May, Frankie Flowerz, Melon Blush, Sylvie Maziarz |
 | Wed, 5 Aug 2026 | SYMBIOTIKKA at KitKat Club Berlin | DJ Jordan, Dirty Doering, Melanchromie, Nick Schwenderling |
 | Fri, 7 Aug 2026 | Four Play | Alex Friday, Alexander Paulski, Alyne, Bobaz Lobster, Brtinzz, La Fille, Marit, Noor Sanchez, Oliver Deutschmann, Rafa Paella, Sai, Trippsy, maxim_jl |
-| Mon, 10 Aug 2026 | Electric Monday on 2 Floors Summer Special @KitKat Club | Bert, Elene, Faly, Frankie Flowerz, Madame Charlie |
 
 ## Address
 

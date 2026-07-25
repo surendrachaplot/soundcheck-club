@@ -9,7 +9,7 @@ TBA - Brooklyn is a music venue in Newyorkcity listed on soundcheck. 7 upcoming 
 | Date | Night | Line-up |
 | --- | --- | --- |
 | Sat, 25 Jul 2026 | Track Maintenance 10: Tammy Lakkis, Akanbi, Sanjay Nara, Marios  | Akanbi, Marios, Sanjay Nara, Tammy Lakkis |
-| Sat, 25 Jul 2026 | PLAY ME TECHNO x EUWHORIA | Amarji King, Cyb3r Bull, KYRUH, LUN★, OCTI, SKIN CONTACT, Via App, Xana 101 |
+| Sat, 25 Jul 2026 | PLAY ME TECHNO x EUWHORIA | Amarji King, Cyb3r Bull, KYRUH, LUN★, OCTI, SKIN CONTACT, Via App, Von, Xana 101 |
 | Fri, 31 Jul 2026 | Techno Brooklyn presents Hadone | Hadone |
 | Sat, 8 Aug 2026 | Book Club Radio Meeting #38 Dracula's Castle | Andi, Jojo Lorenzo, Tinzo |
 | Sat, 15 Aug 2026 | Area X: Integration | Casual Treatment, Cow Tools, Noid, R-DNA, dj33L |

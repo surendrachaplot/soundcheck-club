@@ -3242,7 +3242,7 @@
     }
     @media (max-width:620px){ :root{ --gut:18px; } }
 </style>
-<meta name="sc-build" content="1784945918407">
+<meta name="sc-build" content="1785015556117">
 </head>
 <body>
   <main class="wrap">
@@ -5930,12 +5930,14 @@
       ov.innerHTML='<div class="rc-box tc-box"><button class="auth-close" type="button" aria-label="Close">&times;</button>'+
         '<img class="ob-card" style="display:block;margin:0 auto 14px" alt="Scene card" src="'+attrEsc(API_BASE+'/api/card?u='+encodeURIComponent(p.handle)+'&cb='+Date.now())+'">'+
         '<div class="rc-actions"><button class="pf-btn primary" id="tc-share" type="button">Share the card</button>'+
+        '<button class="pf-btn" id="tc-saveimg" type="button">Save image</button>'+
         '<button class="pf-btn" id="tc-copy" type="button">Copy link</button></div>'+
       '</div>';
       document.body.appendChild(ov);
       ov.querySelector('.auth-close').addEventListener('click',function(){ ov.remove(); });
       ov.addEventListener('click',function(e){ if(e.target===ov) ov.remove(); });
       ov.querySelector('#tc-share').addEventListener('click',function(){ shareSceneCard(p.handle); });
+      ov.querySelector('#tc-saveimg').addEventListener('click',function(){ saveSceneCard(p.handle); });
       ov.querySelector('#tc-copy').addEventListener('click',function(){ var url='soundcheck.club/u/'+p.handle, full='https://'+url; if(navigator.clipboard&&navigator.clipboard.writeText){ navigator.clipboard.writeText(full).then(function(){ showToast('Link copied — '+url); }).catch(function(){ showToast(full); }); } else showToast(full); });
     }
     // ── "In rotation": a curated, manually-ordered DJ shelf with playable sets ──
@@ -8123,9 +8125,24 @@
         '<p class="ob-sub">You, in artists. Post it to your story or the group chat &mdash; soundcheck is better when your people are on it.</p>'+
         '<img class="ob-card" id="ob-cardimg" alt="Your scene card" src="'+attrEsc(API_BASE+'/api/card?u='+encodeURIComponent(h||'')+'&cb='+Date.now())+'">'+
         '<div class="ob-ctarow"><button class="ob-cta" id="ob-share" type="button" style="margin-top:0">Share the card</button>'+
+        '<button class="ob-alt" id="ob-saveimg" type="button" style="padding-top:0">Save image</button>'+
         '<button class="ob-alt" id="ob-toprofile" type="button" style="padding-top:0">Open my profile</button></div>');
       el.querySelector('#ob-share').addEventListener('click',function(){ shareSceneCard(); });
+      el.querySelector('#ob-saveimg').addEventListener('click',function(){ saveSceneCard(); });
       el.querySelector('#ob-toprofile').addEventListener('click',function(){ obClose(); if(h) openProfile(h); });
+    }
+    // Save the card PNG to the device (download; the OS drops it in Photos/Files).
+    async function saveSceneCard(handle){
+      var h=handle||(currentUser&&currentUser.handle); if(!h) return;
+      try{
+        var r=await fetch(API_BASE+'/api/card?u='+encodeURIComponent(h)+'&cb='+Date.now());
+        if(!r.ok) throw 0;
+        var blob=await r.blob();
+        var a=document.createElement('a'); a.href=URL.createObjectURL(blob); a.download='soundcheck-'+h+'.png';
+        document.body.appendChild(a); a.click(); a.remove();
+        setTimeout(function(){ URL.revokeObjectURL(a.href); }, 4000);
+        showToast('Card saved');
+      }catch(_){ showToast('Couldn’t fetch the card — try again.'); }
     }
     async function shareSceneCard(handle){
       var h=handle||(currentUser&&currentUser.handle); if(!h) return;

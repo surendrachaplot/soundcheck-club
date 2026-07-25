@@ -1,6 +1,6 @@
 # PLAY ME TECHNO x EUWHORIA at TBA - Brooklyn
 
-PLAY ME TECHNO x EUWHORIA at TBA - Brooklyn on Sat 25 Jul, Newyorkcity. 8 acts on the bill: Amarji King, Cyb3r Bull, KYRUH and LUN★ and 4 more. Techno and Electro. Preview the line-up and save it on soundcheck.
+PLAY ME TECHNO x EUWHORIA at TBA - Brooklyn on Sat 25 Jul, Newyorkcity. 9 acts on the bill: Amarji King, Cyb3r Bull, KYRUH and LUN★ and 5 more. Techno and Electro. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -17,6 +17,7 @@ PLAY ME TECHNO x EUWHORIA at TBA - Brooklyn on Sat 25 Jul, Newyorkcity. 8 acts o
 - OCTI
 - SKIN CONTACT
 - Via App
+- Von
 - Xana 101
 
 *Source: [soundcheck](https://soundcheck.club/e/2484666-play-me-techno-x-euwhoria-at-tba-brooklyn/)*

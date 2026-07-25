@@ -1,8 +1,8 @@
 # The Villa
 
-The Villa is a music venue in Oslo with 14 upcoming nights listed on soundcheck as of Sat, 25 Jul 2026; the next is "DJ Fett Burger (Sex Tags / Amfibia), Manwell (US), Hakeem (US) + Backyard Party with Schmooze" on Sat, 25 Jul 2026.
+The Villa is a music venue in Oslo with 15 upcoming nights listed on soundcheck as of Sat, 25 Jul 2026; the next is "DJ Fett Burger (Sex Tags / Amfibia), Manwell (US), Hakeem (US) + Backyard Party with Schmooze" on Sat, 25 Jul 2026.
 
-The Villa is a music venue in Oslo listed on soundcheck. 14 upcoming nights, with line-ups including Bok Bok, Daichi Wada, DJ Fart in the Club and DJ Fett Burger and 2 more. Browse upcoming dates, start times and who's playing. Møllergata 23; 0179 Oslo; Norway.
+The Villa is a music venue in Oslo listed on soundcheck. 15 upcoming nights, with line-ups including Bok Bok, Daichi Wada, DJ Fart in the Club and DJ Fett Burger and 2 more. Browse upcoming dates, start times and who's playing. Møllergata 23; 0179 Oslo; Norway.
 
 ## What's on
 

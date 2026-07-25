@@ -14,7 +14,7 @@ Hola Club Sitges (Cala Vallcarca) is a music venue in Barcelona listed on soundc
 | Sun, 2 Aug 2026 | El PARIPÉ x HOLA CLUB |  |
 | Sat, 8 Aug 2026 | LA UASA |  |
 | Sun, 9 Aug 2026 | El PARIPÉ goes to HOLA CLUB |  |
-| Sun, 16 Aug 2026 | OPEN AIR BEACH PARTY |  |
+| Sun, 16 Aug 2026 | RESTLESS x HOLA CLUB |  |
 | Sat, 22 Aug 2026 | Happy Techno On The Beach - Hola Sitges | Daniel Aguilar, Darius Syrossian, Lexlay, MdMiret, Shitake |
 | Sun, 23 Aug 2026 | OPEN AIR BEACH PARTY |  |
 | Sat, 29 Aug 2026 | EL PARIPÉ goes to HOLA CLUB |  |

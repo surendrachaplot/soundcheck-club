@@ -9,7 +9,7 @@ The Steel Yard is a music venue in London listed on soundcheck. 12 upcoming nigh
 | Date | Night | Line-up |
 | --- | --- | --- |
 | Fri, 7 Aug 2026 | Klub Verboten x STEELYARD x LONDON | Gloria Rose, Jeneva, Modlar |
-| Sat, 8 Aug 2026 | The Asylum x Online Mak 10's Birthday | Donae'o, Marcus Nasty, Pioneer, Shenin Amara |
+| Sat, 8 Aug 2026 | The Asylum x Online Mak 10's Birthday | Donae'o, Marcus Nasty, N Fostell, Pioneer, Shenin Amara |
 | Sat, 15 Aug 2026 | Bass Face // DNB, HOUSE:TECHNO, UKG // 360° BOILER ROOM *HEADLINERS*! FREE TICKETS & FREE DRINK | Bassface |
 | Sat, 15 Aug 2026 | FREE TICKETS + FREE DRINK - RnB, Afrohouse, Latin house, Reggaeton, Pop - MOTIVE |  |
 | Fri, 28 Aug 2026 | City Splash: Carnival Warm Up Party |  |

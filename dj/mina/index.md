@@ -1,8 +1,8 @@
-# MINÄ
+# Mina
 
-MINÄ is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Sat, 25 Jul 2026, next at Fünk, Mexico City on Sat, 25 Jul 2026.
+Mina is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Sat, 25 Jul 2026, next at Fünk, Mexico City on Sat, 25 Jul 2026.
 
-MINÄ is a techno and house artist tracked on soundcheck, with 84 sets logged across Amsterdam, Bangkok, Barcelona and Brighton and 26 more. Often billed alongside Bryte, SANA and Tash LC. Next up: Fünk, Mexicocity on Sat 25 Jul.
+Mina is a techno and house artist tracked on soundcheck, with 84 sets logged across Amsterdam, Bangkok, Barcelona and Brighton and 26 more. Often billed alongside Bryte, SANA and Tash LC. Next up: Fünk, Mexicocity on Sat 25 Jul.
 
 ## Upcoming shows
 

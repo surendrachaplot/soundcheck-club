@@ -1,14 +1,14 @@
 # Total XTC
 
-Total XTC is a Club and Techno artist with 3 upcoming club dates listed on soundcheck as of Sat, 25 Jul 2026, next at TBA - WARSCHAUER PL 18 12045 BERLIN, Berlin on Sat, 1 Aug 2026.
+Total XTC is a Club and Techno artist with 3 upcoming club dates listed on soundcheck as of Sat, 25 Jul 2026, next at TBA - Warschauer Pl. 18, 10245 Berlin, Berlin on Sat, 1 Aug 2026.
 
-Total XTC is a club and techno artist based in United States of America, tracked on soundcheck, with 89 sets logged across Amsterdam, Barcelona, Berlin and Brussels and 9 more. Often billed alongside Donis, friedplatano and Pauli Cakes. Next up: TBA - WARSCHAUER PL 18 12045 BERLIN, Berlin on Sat 1 Aug.
+Total XTC is a club and techno artist based in United States of America, tracked on soundcheck, with 89 sets logged across Amsterdam, Barcelona, Berlin and Brussels and 9 more. Often billed alongside Donis, friedplatano and Pauli Cakes. Next up: TBA - Warschauer Pl. 18, 10245 Berlin, Berlin on Sat 1 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 1 Aug 2026 | TBA - WARSCHAUER PL 18 12045 BERLIN | Berlin |
+| Sat, 1 Aug 2026 | TBA - Warschauer Pl. 18, 10245 Berlin | Berlin |
 | Sun, 9 Aug 2026 | Paragon | New York City |
 | Fri, 21 Aug 2026 | Paragon | New York City |
 

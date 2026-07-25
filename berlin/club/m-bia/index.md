@@ -13,7 +13,7 @@ M-BIA is a music venue in Berlin listed on soundcheck. 14 upcoming nights, with 
 | Sat, 1 Aug 2026 | Goa Magic Indoor Festival [Proggy+Offbeat] | Milchgeld, Ultraviolect |
 | Fri, 7 Aug 2026 | EFN PRESENTS LIL TEXAS SUPPORT BY FABITEKK • GENETEKK • PETRA STRUWE • REDMANN | A², Bass, Lil Texas, Techno Frühstück, Tekk |
 | Fri, 14 Aug 2026 | SHØCC pres. Plea5urepul5e | Plea5urepul5e |
-| Sat, 15 Aug 2026 | Goanautika After Parade Party w./ Klopfgeister, Simina Grigoriu, Daniela Hensel, Benni Moon | Basstronauten, Daniel Boon, Daniela Hensel, Diana May, LORD of Psychedelics (2), Linda Grazia, Patrick Scuro, Simina Grigoriu |
+| Sat, 15 Aug 2026 | Goanautika After Parade Party w./ Klopfgeister, Simina Grigoriu, Daniela Hensel, Benni Moon | Basstronauten, Daniel Boon, Daniela Hensel, Diana May, LORD of Psychedelics (2), Linda Grazia, Mosher, Patrick Scuro, Simina Grigoriu |
 | Fri, 28 Aug 2026 | VEXED with Fernanda Martins  | BrettHit, Fernanda Martins |
 | Sat, 29 Aug 2026 | GOA Special pres. Klipsun [Brasilian Psytrance] |  |
 | Sat, 5 Sept 2026 | INTOXICATION Summer Special | Johan (PT) |

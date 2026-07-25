@@ -13,7 +13,7 @@ Six Trees Bar And Kitchen Manchester is a music venue in Manchester listed on so
 | Sat, 1 Aug 2026 | Hotline X BackOnTrack Presents: Jentzen & Kai Saunders | Jentzen |
 | Sat, 1 Aug 2026 | Readjusted Open Air @Sixtrees Joey London style + Lottie J |  |
 | Sat, 1 Aug 2026 | Joey London Style + Lottie J at SIXTREES MANCHESTER [OPEN AIR] | Joey London |
-| Fri, 7 Aug 2026 | AMATEUR HOUR PUMPED | Electric Gigi, Judas Du, Maxxi Soundsystem, Peter Parker, The Taxidermist |
+| Fri, 7 Aug 2026 | AMATEUR HOUR PUMPED Maxxi Soundsystem | Electric Gigi, Judas Du, Maxxi Soundsystem, Peter Parker, The Taxidermist |
 | Sat, 22 Aug 2026 | UP with Grace Sands | Adam Be (1), Grace Sands, Supernature Disco |
 | Sat, 5 Sept 2026 | Progmatic | Jamie Stevens |
 

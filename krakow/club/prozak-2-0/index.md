@@ -1,8 +1,8 @@
 # Prozak 2.0
 
-Prozak 2.0 is a music venue in Krakow with 12 upcoming nights listed on soundcheck as of Sat, 25 Jul 2026; the next is "PROZAK ON THE ROOF: TWOFACED" on Sat, 25 Jul 2026.
+Prozak 2.0 is a music venue in Krakow with 14 upcoming nights listed on soundcheck as of Sat, 25 Jul 2026; the next is "PROZAK ON THE ROOF: TWOFACED" on Sat, 25 Jul 2026.
 
-Prozak 2.0 is a music venue in Krakow listed on soundcheck. 12 upcoming nights, with line-ups including Kara Okay, Kuriozum, Meg (PL) and naked relaxing. Browse upcoming dates, start times and who's playing. plac Dominikański 6, 33-332 Kraków, Poland.
+Prozak 2.0 is a music venue in Krakow listed on soundcheck. 14 upcoming nights, with line-ups including Forest (PL), Kara Okay, Kuriozum and Meg (PL) and 1 more. Browse upcoming dates, start times and who's playing. plac Dominikański 6, 33-332 Kraków, Poland.
 
 ## What's on
 

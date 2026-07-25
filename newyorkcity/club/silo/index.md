@@ -1,8 +1,8 @@
 # SILO
 
-SILO is a music venue in New York City with 30 upcoming nights listed on soundcheck as of Sat, 25 Jul 2026; the next is "Frost Fest Afters: Frost Children (DJ)" on Sat, 25 Jul 2026.
+SILO is a music venue in New York City with 32 upcoming nights listed on soundcheck as of Sat, 25 Jul 2026; the next is "Frost Fest Afters: Frost Children (DJ)" on Sat, 25 Jul 2026.
 
-SILO is a music venue in Newyorkcity listed on soundcheck. 30 upcoming nights, with line-ups including 2melo, A DJ Named SNE, Alex Hell-n and Angel Money and 2 more. Browse upcoming dates, start times and who's playing. 90 Scott Ave, East Williamsburg, Brooklyn.
+SILO is a music venue in Newyorkcity listed on soundcheck. 32 upcoming nights, with line-ups including 2melo, A DJ Named SNE, Alex Hell-n and Angel Money and 2 more. Browse upcoming dates, start times and who's playing. 90 Scott Ave, East Williamsburg, Brooklyn.
 
 ## What's on
 

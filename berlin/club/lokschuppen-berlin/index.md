@@ -1,6 +1,6 @@
 # Lokschuppen Berlin
 
-Lokschuppen Berlin is a music venue in Berlin with 82 upcoming nights listed on soundcheck as of Sat, 25 Jul 2026; the next is "GOAT BALL x Lokschuppen: CSD AFTERPARTY + TRUCK (#77)" on Sat, 25 Jul 2026.
+Lokschuppen Berlin is a music venue in Berlin with 82 upcoming nights listed on soundcheck as of Sat, 25 Jul 2026; the next is "GOAT BALL CSD AFTERPARTY with A.**, Stinny Stone, SaltySis, Shanixx & many more " on Sat, 25 Jul 2026.
 
 Lokschuppen Berlin is a music venue in Berlin listed on soundcheck. 82 upcoming nights, with line-ups including 1luu, 3LEEZA, 4NOUK and NYRA (DE) and 2 more. Browse upcoming dates, start times and who's playing. Warschauer Brücke, Revaler Straße 99 Zugang über, 10245 Berlin, Germany.
 
@@ -8,7 +8,7 @@ Lokschuppen Berlin is a music venue in Berlin listed on soundcheck. 82 upcoming 
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Sat, 25 Jul 2026 | GOAT BALL x Lokschuppen: CSD AFTERPARTY + TRUCK (#77) | A.N.I., ALYOSHA, ANDATA, ANDHRAY, Cobb Douglas, Crystal O, Daniella da Silva, Hang The DJs, Joey (2), Johænsson, Maryline K, Nettta, STABILINDA, SaltySis, Shanixx, Stinny Stone, TERRA TWIINS, YOVA, two girls one mom |
+| Sat, 25 Jul 2026 | GOAT BALL CSD AFTERPARTY with A.**, Stinny Stone, SaltySis, Shanixx & many more  | A.N.I., ALYOSHA, ANDATA, ANDHRAY, Cobb Douglas, Crystal O, Daniella da Silva, Hang The DJs, Joey (2), Johænsson, Maryline K, Nettta, STABILINDA, SaltySis, Shanixx, Stinny Stone, TERRA TWIINS, YOVA, two girls one mom |
 | Sat, 25 Jul 2026 | LAPSUS MATINEE |  |
 | Sat, 25 Jul 2026 | REINKARNATION |  |
 | Sun, 26 Jul 2026 | LOKSCHUPPEN pres. KLING & KLANG ALL DAY LONG | Athina, CARGO, KLING&KLANG, Limoncello, Lisek, jeanska |

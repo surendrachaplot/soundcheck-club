@@ -9,7 +9,7 @@ Yodo Groove (Yodobashi Ikebukuro) is a music venue in Tokyo listed on soundcheck
 | Date | Night | Line-up |
 | --- | --- | --- |
 | Sat, 25 Jul 2026 | Open-Air Techno & House - YODO GROOVE Tokyo | MASA, Rickey Shannon, Wasabi |
-| Sun, 26 Jul 2026 | Tokyo Rooftop Sunset Party - Drunken Kong at YODO GROOVE | Drunken Kong, Shogo Ito, Shun Mizuki, WAKA XINXI, Yamato |
+| Sun, 26 Jul 2026 | Tokyo Rooftop Techno Experience at YODO GROOVE | Drunken Kong, Shogo Ito, Shun Mizuki, WAKA XINXI, Yamato |
 | Sat, 1 Aug 2026 | Tokyo Rooftop House Music Sunset - DAISHI DANCE at YODO GROOVE | Leon, PUNK N MATRIX, YOSHIMASA, ch1y0 |
 | Sun, 2 Aug 2026 | Escape the City – Tokyo Rooftop Sunset / Organic House & Progressive | Nanlaze, YOSHIMASA |
 | Sun, 9 Aug 2026 | Tokyo Sunset Rooftop Experience ft Ken Ishii | DJ SAWA, KENJI FURUYA, Ken Ishii, Ko Kimura |

@@ -16,7 +16,7 @@ Spanners is a music venue in London listed on soundcheck. 9 upcoming nights, wit
 | Thu, 20 Aug 2026 | SCOBE 6: BJ Holy / leisure fm / FLYWHEEL / SCOBE COLLECTIVE | BJ Holy, leisure fm |
 | Fri, 21 Aug 2026 | Repetitive Strain EVENT: Xanax + The Gall + Repetitive Strain | Repetitive Strain |
 | Fri, 28 Aug 2026 | SUGAR 004 with Angel D'lite + Bethan - All Night Long  | Angel D'lite, Bethan |
-| Fri, 18 Sept 2026 | People Drift | Jim Janco, RRRKRTA |
+| Fri, 18 Sept 2026 | People Drift with RRRKRTA | Jim Janco, RRRKRTA |
 
 ## Address
 

@@ -12,7 +12,7 @@ Squaric is a techno and experimental artist tracked on soundcheck, with 98 sets 
 | Thu, 30 Jul 2026 | ://about blank | Berlin |
 | Thu, 13 Aug 2026 | TBA - Berlin | Berlin |
 | Thu, 20 Aug 2026 | ://about blank | Berlin |
-| Fri, 25 Sept 2026 | DNA. Art Club | Berlin |
+| Fri, 25 Sept 2026 | DNA. CLUB - urban Space | Berlin |
 | Thu, 8 Oct 2026 | TBA - Secret Location | Amsterdam |
 
 ## Recently played

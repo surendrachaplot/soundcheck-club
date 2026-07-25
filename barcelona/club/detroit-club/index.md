@@ -9,7 +9,7 @@ DETROIT CLUB is a music venue in Barcelona listed on soundcheck. 6 upcoming nigh
 | Date | Night | Line-up |
 | --- | --- | --- |
 | Sat, 25 Jul 2026 | ALIEN (HARD TECHNO & INDUSTRIAL) - BLURRED MOVEMENT | KSTX, Koalaz, SuttleK |
-| Fri, 31 Jul 2026 | HARDNOISES-SARA KRIN/ Luca Maier/ LUCIAN/ PYRO/ MAX CIRCUIT/ KYANOS | Luca Maier, SARA KRIN |
+| Fri, 31 Jul 2026 | HARDNOISES-SARA KRIN/ Luca Maier/ LUCIAN/ PYRO/ MAX CIRCUIT/ KYANOS | Luca Maier, Lucian (UK), Max Circuit, SARA KRIN |
 | Sat, 8 Aug 2026 | DETROIT CLUB presents: NOIR |  |
 | Fri, 28 Aug 2026 | Automata Drum & Bass 28AUG - Etherwood Barcelona | Etherwood |
 | Sat, 5 Sept 2026 | VOLTAGE x DETROIT |  |

@@ -9,7 +9,7 @@ Kathryn is a house and techno artist tracked on soundcheck, with 10 sets logged 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 25 Jul 2026 | Commune | Liverpool |
-| Sat, 22 Aug 2026 | TBA | Liverpool |
+| Sat, 22 Aug 2026 | St Brides Church | Liverpool |
 | Fri, 25 Sept 2026 | Meraki | Liverpool |
 
 ## Recently played

@@ -8,7 +8,7 @@ PIP Den Haag is a music venue in Thehague listed on soundcheck. 8 upcoming night
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Sat, 25 Jul 2026 | PIP NON-STOP SUMMER CLOSING (27 HOURS) | Ascha, Auryn, Bouk Liúw, CC:DISCO!, DJ Tracksuit, De Schuurman, Gioray, IZZY (UK), Izzy, Jan van Kampen, Jeans (NL), Jetti, Kevin Lo, Kikelomo, LIVI, OMOLOKO, Pelanoir, Post, Willem Feltzer, nienquepasa |
+| Sat, 25 Jul 2026 | PIP NON-STOP SUMMER CLOSING (27 HOURS) | Ascha, Auryn, Bouk Liúw, CC:DISCO!, DJ Tracksuit, De Schuurman, Gioray, IZZY (UK), Izzy, Jan van Kampen, Jeans (NL), Jetti, Kevin Lo, Kikelomo, LIVI, Lorain, Nino Henning, OMOLOKO, Pelanoir, Post, Willem Feltzer, nienquepasa |
 | Sat, 29 Aug 2026 | PIP Season Opening |  |
 | Sat, 5 Sept 2026 | PIP presents Wildcard |  |
 | Sat, 12 Sept 2026 | David Vunk 50 jaar: tegen alle verwachtingen in | David Vunk |

@@ -1,14 +1,15 @@
 # DJ SEXSTASY
 
-DJ SEXSTASY is a Techno and Trance artist with 4 upcoming club dates listed on soundcheck as of Sat, 25 Jul 2026, next at Ritter Butzke, Berlin on Sat, 25 Jul 2026.
+DJ SEXSTASY is a Techno and Trance artist with 5 upcoming club dates listed on soundcheck as of Sat, 25 Jul 2026, next at Ritter Butzke, Berlin on Sat, 25 Jul 2026.
 
-DJ SEXSTASY is a techno and trance artist tracked on soundcheck, with 29 sets logged across Amsterdam, Berlin, Budapest and Hamburg and 9 more. Often billed alongside PETERBLUE, Rishka and Towicz. Next up: Ritter Butzke, Berlin on Sat 25 Jul.
+DJ SEXSTASY is a techno and trance artist tracked on soundcheck, with 30 sets logged across Amsterdam, Berlin, Budapest and Hamburg and 9 more. Often billed alongside PETERBLUE, Rishka and Towicz. Next up: Ritter Butzke, Berlin on Sat 25 Jul.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 25 Jul 2026 | Ritter Butzke | Berlin |
+| Fri, 31 Jul 2026 | DNA Club | Munich |
 | Sat, 1 Aug 2026 | TBA - Peißnitzinsel Halle | Leipzig |
 | Sat, 8 Aug 2026 | Parallel | Amsterdam |
 | Fri, 14 Aug 2026 | Virage | Paris |

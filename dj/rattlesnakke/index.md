@@ -9,7 +9,7 @@ Rattlesnakke is a techno and club artist based in Argentina, tracked on soundche
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 31 Jul 2026 | TBA - secret location | Barcelona |
-| Sat, 1 Aug 2026 | TBA - WARSCHAUER PL 18 12045 BERLIN | Berlin |
+| Sat, 1 Aug 2026 | TBA - Warschauer Pl. 18, 10245 Berlin | Berlin |
 | Sat, 22 Aug 2026 | Village Underground Barcelona | Barcelona |
 | Sat, 17 Oct 2026 | Botanique | Brussels |
 

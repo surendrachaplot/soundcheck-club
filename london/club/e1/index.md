@@ -1,6 +1,6 @@
 # E1
 
-E1 is a music venue in London with 32 upcoming nights listed on soundcheck as of Sat, 25 Jul 2026; the next is "Pavel Petrov" on Sat, 25 Jul 2026.
+E1 is a music venue in London with 32 upcoming nights listed on soundcheck as of Sat, 25 Jul 2026; the next is "E1 x Organic: Pavel Petrov, Greggio, Kevin Brauer, Meduk, Nigel Calland" on Sat, 25 Jul 2026.
 
 E1 is a music venue in London listed on soundcheck. 32 upcoming nights, with line-ups including ACA (YU), Ade Smilez, Afem Syko and Aida Arko and 2 more. Browse upcoming dates, start times and who's playing. 110 Pennington Street, Wapping, London E1W 2BB.
 
@@ -8,7 +8,7 @@ E1 is a music venue in London listed on soundcheck. 32 upcoming nights, with lin
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Sat, 25 Jul 2026 | Pavel Petrov | Greggio, Pavel Petrov |
+| Sat, 25 Jul 2026 | E1 x Organic: Pavel Petrov, Greggio, Kevin Brauer, Meduk, Nigel Calland | Greggio, Pavel Petrov |
 | Sat, 25 Jul 2026 | Rave Beyond Reality |  |
 | Sat, 25 Jul 2026 | Destination House X House Warming | Beezo, DJ Majesty, Mark Radford, S FLY |
 | Fri, 31 Jul 2026 | ALIVE: ANXHELA & Lola Cerise | ANXHELA, AVCI, Lola Cerise |

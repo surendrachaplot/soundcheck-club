@@ -1,6 +1,6 @@
 # NUMBER 90 LONDON
 
-NUMBER 90 LONDON is a music venue in London with 11 upcoming nights listed on soundcheck as of Sat, 25 Jul 2026; the next is "Dubble Records x SHIBUI // No90 Lock // [FREE ENTRY BEFORE 12AM]" on Sat, 25 Jul 2026.
+NUMBER 90 LONDON is a music venue in London with 11 upcoming nights listed on soundcheck as of Sat, 25 Jul 2026; the next is "Dubble Records x SHIBUI // No90 Bar // [FREE ENTRY BEFORE 12AM]" on Sat, 25 Jul 2026.
 
 NUMBER 90 LONDON is a music venue in London listed on soundcheck. 11 upcoming nights, with line-ups including 1BYAKKO, Justine Perry, A.Wild and Adam Curtain and 2 more. Browse upcoming dates, start times and who's playing. 90 Main Yard; Wallis Road; London E9 5LN; United Kingdom.
 
@@ -8,7 +8,7 @@ NUMBER 90 LONDON is a music venue in London listed on soundcheck. 11 upcoming ni
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Sat, 25 Jul 2026 | Dubble Records x SHIBUI // No90 Lock // [FREE ENTRY BEFORE 12AM] | Brennan, Dig This, Ferg |
+| Sat, 25 Jul 2026 | Dubble Records x SHIBUI // No90 Bar // [FREE ENTRY BEFORE 12AM] | Brennan, Dig This, Ferg |
 | Sat, 25 Jul 2026 | Sundown Sessions | Brian Smith, Jess Bays |
 | Sun, 26 Jul 2026 | Snooze After Hours | Belin, CAMIVINA, Horston, Slumber, TAITO, VENT (3), Vivi (2), dgbt, ØLMØ |
 | Thu, 30 Jul 2026 | The Mixmag Lab London with La La, Papa Nugs & Aika Mal | Aika Mal, La La, Papa Nugs |

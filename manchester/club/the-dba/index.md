@@ -10,7 +10,7 @@ The DBA is a music venue in Manchester listed on soundcheck. 13 upcoming nights,
 | --- | --- | --- |
 | Fri, 31 Jul 2026 | This Guy PRESENTS: DROP IT LIKE ITS THOT | CBABY, This Guy |
 | Fri, 7 Aug 2026 | BOOTLEG: VOL2 |  |
-| Sat, 8 Aug 2026 | SLAP | Danny Roach |
+| Sat, 8 Aug 2026 | STUD | Danny Roach |
 | Sat, 15 Aug 2026 | MELODÏQ & FRIENDS |  |
 | Sun, 16 Aug 2026 | Going West |  |
 | Thu, 20 Aug 2026 | VALIS 1.0 - The Difference Engine | Lapalace, sclews |

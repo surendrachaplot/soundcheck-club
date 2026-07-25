@@ -9,7 +9,7 @@ La Prairie du Canal is a music venue in Paris listed on soundcheck. 2 upcoming n
 | Date | Night | Line-up |
 | --- | --- | --- |
 | Sat, 25 Jul 2026 | Open air- Louison b2b Maco Maria, Sòn du Maquís (live), Domi | Domi (FR), Louison, Maco Maria, Maquis Son Sistèm |
-| Sat, 1 Aug 2026 | CTW Pocdcasts Open Air at La Prairie | Jenny Cara, Lyss, Maï-Linh |
+| Sat, 1 Aug 2026 | Open air - Jenny Cara, Maï-Linh, Lyss | Jenny Cara, Lyss, Maï-Linh |
 
 ## Address
 

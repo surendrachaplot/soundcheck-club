@@ -1,8 +1,8 @@
 # Fundbureau
 
-Fundbureau is a music venue in Hamburg with 8 upcoming nights listed on soundcheck as of Sat, 25 Jul 2026; the next is "Tonino // JMK" on Sat, 25 Jul 2026.
+Fundbureau is a music venue in Hamburg with 13 upcoming nights listed on soundcheck as of Sat, 25 Jul 2026; the next is "Tonino // JMK" on Sat, 25 Jul 2026.
 
-Fundbureau is a music venue in Hamburg listed on soundcheck. 8 upcoming nights, with line-ups including 3LEEZA, Andreas Henneberg, Charlie Tee and duaba and 2 more. Browse upcoming dates, start times and who's playing. Altländer Str. 1120095 Hamburg, Germany.
+Fundbureau is a music venue in Hamburg listed on soundcheck. 13 upcoming nights, with line-ups including 3LEEZA, Andreas Henneberg, Avocado and Charlie Tee and 2 more. Browse upcoming dates, start times and who's playing. Altländer Str. 1120095 Hamburg, Germany.
 
 ## What's on
 
@@ -14,8 +14,10 @@ Fundbureau is a music venue in Hamburg listed on soundcheck. 8 upcoming nights, 
 | Sat, 1 Aug 2026 | CSD AFTERSHOW MIT Nils Primas // SKKIN VELVET // HIDA.DOUSE // CLUBM8 | Nils Primas, SKKIN VELVET |
 | Fri, 7 Aug 2026 | BIMÄN // Nettta // TECHNIKER ALLSTARS | Nettta |
 | Fri, 14 Aug 2026 | Andreas Henneberg // Fercho salazar // SVE ANL | Andreas Henneberg, Fercho salazar, SVE |
-| Fri, 11 Sept 2026 | Once upon a time | 3LEEZA, HANÀ, Linh (2), SPORTMANN, TWOFACEDKIMMY, e.leptic, sabenzzzo, vibemeister |
-| Fri, 16 Oct 2026 | Liquic Concrete with Charlie Tee & T-Lex & Melina | Charlie Tee, Enni Milosj, Fibe, IAM (2), MELINA (3), Sindicate, duaba |
+| Sat, 15 Aug 2026 | CRITICAL ERROR 404 // Softdrive // DJ Handtuch // CHAEF | CRITICAL ERROR 404, DJ Handtuch, Softdrive |
+| Fri, 21 Aug 2026 | Jessie Dols // DJ Discostoff // SIMAY GONULTAS // Timeless Moments | DJ Discostoff, Jessie Dols, Timeless Moments |
+| Sat, 22 Aug 2026 | Eva Charley // Stacy // FRAME KOLLEKTIV | Eva Charley, Stacy |
+| Fri, 28 Aug 2026 | Avocado // SevenDays // LOLA KOLLEKTIV ANL | Avocado, SevenDays |
 
 ## Address
 

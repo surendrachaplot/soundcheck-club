@@ -1,8 +1,8 @@
 # Nice N Sleazy
 
-Nice N Sleazy is a music venue in Glasgow with 8 upcoming nights listed on soundcheck as of Sat, 25 Jul 2026; the next is "The 909 Society presents: Housework Volume 6" on Sat, 25 Jul 2026.
+Nice N Sleazy is a music venue in Glasgow with 9 upcoming nights listed on soundcheck as of Sat, 25 Jul 2026; the next is "The 909 Society presents: Housework Volume 6" on Sat, 25 Jul 2026.
 
-Nice N Sleazy is a music venue in Glasgow listed on soundcheck. 8 upcoming nights, with line-ups including Aileron, Corran, EL PADRE and ITEM9 and 2 more. Browse upcoming dates, start times and who's playing. 421 Sauchiehall Street; Glasgow, G2 3LG; Scotland, United Kingdom.
+Nice N Sleazy is a music venue in Glasgow listed on soundcheck. 9 upcoming nights, with line-ups including Aileron, Corran, Darkcore Truth and EL PADRE and 2 more. Browse upcoming dates, start times and who's playing. 421 Sauchiehall Street; Glasgow, G2 3LG; Scotland, United Kingdom.
 
 ## What's on
 
@@ -12,6 +12,7 @@ Nice N Sleazy is a music venue in Glasgow listed on soundcheck. 8 upcoming night
 | Thu, 30 Jul 2026 | Finesse — Supporting Scottish Huntington's Association | Aileron, ITEM9, SunēX, TiLA |
 | Sat, 1 Aug 2026 | Gunk | Corran, Marky Marbles, Temple Sniper |
 | Sat, 8 Aug 2026 | Shed presents: Usual Suspects + Support⁠ |  |
+| Sun, 9 Aug 2026 | SALVATION | Darkcore Truth |
 | Thu, 13 Aug 2026 | Groove Sessions |  |
 | Fri, 14 Aug 2026 | DARK PROTOCOL W Residents / Shedcat / Julz Lever / TiLA | Julz Lever, Shedcat, TiLA |
 | Sat, 29 Aug 2026 | Ozone² |  |

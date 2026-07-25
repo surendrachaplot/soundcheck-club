@@ -9,7 +9,7 @@ Per Hammar is a minimal and house artist tracked on soundcheck, with 75 sets log
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 1 Aug 2026 | Night Tales | London |
-| Sat, 22 Aug 2026 | TBA | Liverpool |
+| Sat, 22 Aug 2026 | St Brides Church | Liverpool |
 
 ## Recently played
 

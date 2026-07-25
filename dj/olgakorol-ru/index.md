@@ -10,7 +10,7 @@ Olga Korol is a house and minimal artist tracked on soundcheck, with 93 sets log
 | --- | --- | --- |
 | Sat, 25 Jul 2026 | Club der Visionaere | Berlin |
 | Sat, 1 Aug 2026 | Night Tales | London |
-| Sat, 22 Aug 2026 | TBA | Liverpool |
+| Sat, 22 Aug 2026 | St Brides Church | Liverpool |
 
 ## Recently played
 

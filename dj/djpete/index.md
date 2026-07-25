@@ -1,8 +1,8 @@
 # DJ Pete
 
-DJ Pete is a Techno and Electro artist with 3 upcoming club dates listed on soundcheck as of Sat, 25 Jul 2026, next at ÆDEN, Berlin on Sun, 23 Aug 2026.
+DJ Pete is a Techno and Electro artist with 4 upcoming club dates listed on soundcheck as of Sat, 25 Jul 2026, next at ÆDEN, Berlin on Sun, 23 Aug 2026.
 
-DJ Pete is a techno and electro artist tracked on soundcheck, with 129 sets logged across Amsterdam, Athens, Barcelona and Berlin and 20 more. Often billed alongside Finn Johannsen, Substance and BLACK ANTHEM RESTORE. Next up: ÆDEN, Berlin on Sun 23 Aug.
+DJ Pete is a techno and electro artist tracked on soundcheck, with 130 sets logged across Amsterdam, Athens, Barcelona and Berlin and 20 more. Often billed alongside Finn Johannsen, Substance and BLACK ANTHEM RESTORE. Next up: ÆDEN, Berlin on Sun 23 Aug.
 
 ## Upcoming shows
 
@@ -11,6 +11,7 @@ DJ Pete is a techno and electro artist tracked on soundcheck, with 129 sets logg
 | Sun, 23 Aug 2026 | ÆDEN | Berlin |
 | Fri, 11 Sept 2026 | CLUB RAUM | Amsterdam |
 | Sun, 27 Sept 2026 | Amnesia Ibiza | Ibiza |
+| Sat, 3 Oct 2026 | Ormside Projects | London |
 
 ## Recently played
 
