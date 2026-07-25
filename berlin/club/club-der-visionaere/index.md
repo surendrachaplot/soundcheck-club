@@ -14,7 +14,7 @@ Club der Visionaere is a music venue in Berlin listed on soundcheck. 15 upcoming
 | Tue, 28 Jul 2026 | Chez Doc | Akaj, Dana Kuehr, GRETA (2), Jazz (AU), Keras, VIKk, ki:ke |
 | Wed, 29 Jul 2026 | Elevate Records Birthday Edition | Darwin Stapel, Johannes Albert, Meat, Monika Ross, Robert Drewek |
 | Thu, 30 Jul 2026 | Electric Marmalade Shake | Andrea Fiorito, Daraio, Hreno, J Gabriel, Mike Shannon, Ohm Hourani |
-| Fri, 31 Jul 2026 | Wordless | Lobanov K., Masayuki Tomita, Serenne, Timur Basha, Yone-Ko |
+| Fri, 31 Jul 2026 | Wordless | Lobanov K., Masayuki Tomita, Serenne, Timur Basha, Yone-Ko, Yuzo Iwata |
 | Wed, 5 Aug 2026 | Novaturient | Alex Picone, Ancut, Andrew James Gustav, Ranerro |
 | Fri, 7 Aug 2026 | Sol Asylum X Groove On The Carpet | Jaggy, Josh Aaron, Julie Marghilano, SID MEHANI, Titonton Duvanté, Wave Particle Singularity, rubi* |
 | Tue, 11 Aug 2026 | Outer Place | Dean Denali, Ma.to, Naima (2), Robin Ordell, Stephanie Sykes |
