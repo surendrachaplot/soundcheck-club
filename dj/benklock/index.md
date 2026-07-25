@@ -1,13 +1,14 @@
 # Ben Klock
 
-Ben Klock is a Techno and House artist with 13 upcoming club dates listed on soundcheck as of Fri, 24 Jul 2026, next at Hamburger Bahnhof - Museum für Gegenwart, Berlin on Thu, 30 Jul 2026.
+Ben Klock is a Techno and House artist with 14 upcoming club dates listed on soundcheck as of Fri, 24 Jul 2026, next at Boston Manor Park, London on Sat, 25 Jul 2026.
 
-Ben Klock is a techno and house artist tracked on soundcheck, with 243 sets logged across Amsterdam, Athens, Bangkok and Barcelona and 54 more. Often billed alongside Marcel Dettmann, Fadi Mohem and Rødhåd. Next up: Hamburger Bahnhof - Museum für Gegenwart, Berlin on Thu 30 Jul.
+Ben Klock is a techno and house artist tracked on soundcheck, with 244 sets logged across Amsterdam, Athens, Bangkok and Barcelona and 54 more. Often billed alongside Marcel Dettmann, Fadi Mohem and Rødhåd. Next up: Boston Manor Park, London on Sat 25 Jul.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 25 Jul 2026 | Boston Manor Park | London |
 | Thu, 30 Jul 2026 | Hamburger Bahnhof - Museum für Gegenwart | Berlin |
 | Fri, 31 Jul 2026 | BLITZ | Munich |
 | Sat, 1 Aug 2026 | Galopprennbahn | Munich |
@@ -19,7 +20,6 @@ Ben Klock is a techno and house artist tracked on soundcheck, with 243 sets logg
 | Tue, 1 Sept 2026 | Amnesia Ibiza | Ibiza |
 | Sat, 19 Sept 2026 | Fiducial Asteria | Lyon |
 | Tue, 22 Sept 2026 | Amnesia Ibiza | Ibiza |
-| Sun, 27 Sept 2026 | Under Club | Buenos Aires |
 
 ## Recently played
 

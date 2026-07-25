@@ -1,19 +1,19 @@
 # Sam Laxton
 
-Sam Laxton is a Techno and Hardcore artist with 3 upcoming club dates listed on soundcheck as of Fri, 24 Jul 2026, next at Amnesia, Bangkok on Fri, 24 Jul 2026.
+Sam Laxton is a Techno and Hardcore artist with 2 upcoming club dates listed on soundcheck as of Fri, 24 Jul 2026, next at Subwerk Club, Bangkok on Sat, 25 Jul 2026.
 
-Sam Laxton is a techno and hardcore artist tracked on soundcheck, with 141 sets logged across Bangkok, Hongkong, Shenzhen and Tokyo. Often billed alongside LonSkii, Puffer P and André Pillar. Next up: Amnesia, Bangkok on Fri 24 Jul.
+Sam Laxton is a techno and hardcore artist tracked on soundcheck, with 141 sets logged across Bangkok, Hongkong, Shenzhen and Tokyo. Often billed alongside LonSkii, Puffer P and André Pillar. Next up: Subwerk Club, Bangkok on Sat 25 Jul.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 24 Jul 2026 | Amnesia | Bangkok |
 | Sat, 25 Jul 2026 | Subwerk Club | Bangkok |
 | Fri, 31 Jul 2026 | Amnesia | Bangkok |
 
 ## Recently played
 
+- Amnesia, Bangkok — Fri, 24 Jul 2026
 - TBA - X-LAB, Shenzhen — Sat, 18 Jul 2026
 - Amnesia, Bangkok — Fri, 17 Jul 2026
 - Amnesia, Bangkok — Fri, 10 Jul 2026
@@ -21,7 +21,6 @@ Sam Laxton is a techno and hardcore artist tracked on soundcheck, with 141 sets 
 - Amnesia, Bangkok — Fri, 26 Jun 2026
 - Subwerk Club, Bangkok — Sat, 20 Jun 2026
 - Amnesia, Bangkok — Fri, 19 Jun 2026
-- Amnesia, Bangkok — Fri, 12 Jun 2026
 
 ## Shares bills with
 

@@ -9,8 +9,8 @@ Gorilla is a music venue in Manchester listed on soundcheck. 5 upcoming nights. 
 | Date | Night | Line-up |
 | --- | --- | --- |
 | Sat, 25 Jul 2026 | Bass Face // MCR // DNB . 360° SUMMER SPECIAL w.*VERY SPECIAL GUESTS*! LAST FREE TICKETS |  |
-| Fri, 7 Aug 2026 | Bass Face // MCR // DNB . 360° SUMMER SPECIAL |  |
-| Fri, 7 Aug 2026 | Bass Face 2.0 // 360° SUMMER SPECIAL // 140, Bass, Grime, Minimal |  |
+| Fri, 7 Aug 2026 | Bass Face // MCR // DNB . 360° SUMMER SPECIAL! LAST FREE TICKETS |  |
+| Fri, 7 Aug 2026 | Bass Face 2.0 // 360° SUMMER SPECIAL // 140, Bass, Grime, Minimal! LAST FREE TICKETS |  |
 | Sat, 12 Sept 2026 | Devlin - Manchester |  |
 | Fri, 25 Sept 2026 | Grey Lantern presents: She Past Away / Actors |  |
 

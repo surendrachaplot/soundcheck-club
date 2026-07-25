@@ -10,7 +10,7 @@ The San Francisco Mint is a music venue in Sanfrancisco listed on soundcheck. 3 
 | --- | --- | --- |
 | Sun, 26 Jul 2026 | Deviants Adult Arcade: Up Your Alley | ANDYLAND, Beverly Chills, Del (4), Fawks, Femanyst, Jumpr, Lil Bebe Cyborg, Moonpie, Pauli Cakes, River Moon, felipe d |
 | Sat, 22 Aug 2026 | Levi Live at SF Mint, CA | Levi (AU) |
-| Fri, 25 Sept 2026 | SQUISH x BOOF: FOLSOM | Cashu, D. Tiffany, Ehua, Just Another Bitch, Katie Rex, MILANA, TWINS ONLINE, TYGAPAW, likeholywine, nonsuit |
+| Fri, 25 Sept 2026 | SQUISH x BOOF: FOLSOM | Cashu, D. Tiffany, Ehua, John Bryars, Just Another Bitch, Katie Rex, MILANA, Miss Parker, TWINS ONLINE, TYGAPAW, likeholywine, nonsuit |
 
 ## Address
 

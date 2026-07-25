@@ -1,8 +1,8 @@
 # Abribass
 
-Abribass is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Fri, 24 Jul 2026, next at The Social Hub Berlin, Berlin on Fri, 31 Jul 2026.
+Abribass is a House and Tech House artist with 4 upcoming club dates listed on soundcheck as of Fri, 24 Jul 2026, next at The Social Hub Berlin, Berlin on Fri, 31 Jul 2026.
 
-Abribass is a house and techno artist based in Germany, tracked on soundcheck, with 14 sets logged across Berlin. Often billed alongside Blachord, Anaté and Marcus Holder. Next up: The Social Hub Berlin, Berlin on Fri 31 Jul.
+Abribass is a house and tech house artist based in Germany, tracked on soundcheck, with 15 sets logged across Berlin. Often billed alongside Blachord, Anaté and Marcus Holder. Next up: The Social Hub Berlin, Berlin on Fri 31 Jul.
 
 ## Upcoming shows
 
@@ -11,6 +11,7 @@ Abribass is a house and techno artist based in Germany, tracked on soundcheck, w
 | Fri, 31 Jul 2026 | The Social Hub Berlin | Berlin |
 | Wed, 12 Aug 2026 | Spielbank Berlin am Potsdamer Platz | Berlin |
 | Wed, 23 Sept 2026 | Spielbank Berlin am Potsdamer Platz | Berlin |
+| Wed, 7 Oct 2026 | Spielbank Berlin am Potsdamer Platz | Berlin |
 
 ## Recently played
 

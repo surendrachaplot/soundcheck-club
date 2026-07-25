@@ -10,7 +10,7 @@ Hare & Hounds is a music venue in Birmingham listed on soundcheck. 9 upcoming ni
 | --- | --- | --- |
 | Sat, 25 Jul 2026 | Break Thru - DJ Marky | DJ Marky |
 | Fri, 31 Jul 2026 | Room Temperature Presents | Goose (3), Sleepy Jean |
-| Sat, 15 Aug 2026 | Homoelectric |  |
+| Fri, 14 Aug 2026 | Homoelectric |  |
 | Fri, 28 Aug 2026 | Metalheadz Blue Note Sessions (Birmingham) | Doc Scott, Goldie, J Majik |
 | Thu, 10 Sept 2026 | Devlin - Birmingham |  |
 | Fri, 11 Sept 2026 | Joe Goddard (DJ Set) | Joe Goddard |

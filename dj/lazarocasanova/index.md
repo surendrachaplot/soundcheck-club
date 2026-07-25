@@ -1,19 +1,19 @@
 # Lazaro Casanova
 
-Lazaro Casanova is a House and Afro House artist with 3 upcoming club dates listed on soundcheck as of Fri, 24 Jul 2026, next at 1-800-Lucky, Miami on Fri, 24 Jul 2026.
+Lazaro Casanova is a House and Afro House artist with 2 upcoming club dates listed on soundcheck as of Fri, 24 Jul 2026, next at Bodega Taqueria Y Tequila, Miami on Thu, 30 Jul 2026.
 
-Lazaro Casanova is a house and afro house artist based in United States of America, tracked on soundcheck, with 44 sets logged across Miami. Often billed alongside Oscar G, Nicole Fiallo and Mike Nervous. Next up: 1-800-Lucky, Miami on Fri 24 Jul.
+Lazaro Casanova is a house and afro house artist based in United States of America, tracked on soundcheck, with 44 sets logged across Miami. Often billed alongside Oscar G, Nicole Fiallo and Mike Nervous. Next up: Bodega Taqueria Y Tequila, Miami on Thu 30 Jul.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 24 Jul 2026 | 1-800-Lucky | Miami |
 | Thu, 30 Jul 2026 | Bodega Taqueria Y Tequila | Miami |
 | Fri, 31 Jul 2026 | 1-800-Lucky | Miami |
 
 ## Recently played
 
+- 1-800-Lucky, Miami — Fri, 24 Jul 2026
 - 1-800-Lucky, Miami — Fri, 17 Jul 2026
 - 1-800-Lucky, Miami — Fri, 10 Jul 2026
 - 1-800-Lucky, Miami — Fri, 3 Jul 2026
@@ -21,7 +21,6 @@ Lazaro Casanova is a house and afro house artist based in United States of Ameri
 - 1-800-Lucky, Miami — Fri, 5 Jun 2026
 - 1-800-Lucky, Miami — Fri, 29 May 2026
 - Medium Cool, Miami — Sun, 24 May 2026
-- 1-800-Lucky, Miami — Fri, 22 May 2026
 
 ## Shares bills with
 

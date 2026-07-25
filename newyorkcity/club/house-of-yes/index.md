@@ -1,6 +1,6 @@
 # House of Yes
 
-House of Yes is a music venue in New York City with 14 upcoming nights listed on soundcheck as of Fri, 24 Jul 2026; the next is "Club Cirque: Kenny Dope, DJ Spen, Kaper" on Fri, 24 Jul 2026.
+House of Yes is a music venue in New York City with 14 upcoming nights listed on soundcheck as of Fri, 24 Jul 2026; the next is "Club Cirque: Kenny Dope, DJ Spen, Kayper" on Fri, 24 Jul 2026.
 
 House of Yes is a music venue in Newyorkcity listed on soundcheck. 14 upcoming nights, with line-ups including Atish, Benny Soto, Bridge (NY) and DJ Spen and 2 more. Browse upcoming dates, start times and who's playing. 2 Wyckoff Avenue; Brooklyn, NY 11237; USA.
 
@@ -8,7 +8,7 @@ House of Yes is a music venue in Newyorkcity listed on soundcheck. 14 upcoming n
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Fri, 24 Jul 2026 | Club Cirque: Kenny Dope, DJ Spen, Kaper | Benny Soto, DJ Spen, Kayper, Kenny Dope, Mx. Blaire, Zach Witness |
+| Fri, 24 Jul 2026 | Club Cirque: Kenny Dope, DJ Spen, Kayper | Benny Soto, DJ Spen, Kayper, Kenny Dope, Mx. Blaire, Zach Witness |
 | Fri, 31 Jul 2026 | Shore Thing: Spencer Brown, Saqib, Tone Troy | Saqib, Spencer Brown, Tone Troy |
 | Sat, 1 Aug 2026 | HYPERSPACE: Atish & friends | Atish |
 | Fri, 7 Aug 2026 | House of Grooves: Stretch Armstrong + Sissies of Mercy All Night | Sissies of Mercy |

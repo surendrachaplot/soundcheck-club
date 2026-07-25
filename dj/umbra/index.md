@@ -1,14 +1,15 @@
 # UMBRA
 
-UMBRA is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Fri, 24 Jul 2026, next at Hackney Wick Multiple Venues, London on Sat, 1 Aug 2026.
+UMBRA is a Techno and House artist with 4 upcoming club dates listed on soundcheck as of Fri, 24 Jul 2026, next at Hackney Wick Multiple Venues, London on Sat, 1 Aug 2026.
 
-UMBRA is a techno and house artist based in Portugal, tracked on soundcheck, with 13 sets logged across Bali, Berlin, Bristol and Brussels and 3 more. Often billed alongside Sydney Bryce, Amoss and Bon Public. Next up: Hackney Wick Multiple Venues, London on Sat 1 Aug.
+UMBRA is a techno and house artist based in Portugal, tracked on soundcheck, with 14 sets logged across Bali, Berlin, Bristol and Brussels and 3 more. Often billed alongside Sydney Bryce, Amoss and Bon Public. Next up: Hackney Wick Multiple Venues, London on Sat 1 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 1 Aug 2026 | Hackney Wick Multiple Venues | London |
+| Fri, 7 Aug 2026 | Room 2 Glasgow | Glasgow |
 | Sat, 8 Aug 2026 | Renate | Berlin |
 | Fri, 11 Sept 2026 | The Classic Grand | Glasgow |
 

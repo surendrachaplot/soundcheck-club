@@ -9,7 +9,7 @@ Skylight Warehouse is a music venue in Vancouver listed on soundcheck. 2 upcomin
 | Date | Night | Line-up |
 | --- | --- | --- |
 | Sun, 2 Aug 2026 | HARD KANDY (Pride Sunday Warehouse Party) | Anna Morgan |
-| Sat, 8 Aug 2026 | Black Thorn presents: NOS-talgia(extended set) | DJ Indifferent, Devønn, NOS-talgia |
+| Sat, 8 Aug 2026 | Black Thorn presents: NOS-talgia(extended set),DJ Indifferent, Devønn | DJ Indifferent, Devønn, NOS-talgia |
 
 ## Address
 

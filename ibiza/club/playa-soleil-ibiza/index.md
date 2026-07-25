@@ -2,7 +2,7 @@
 
 Playa Soleil Ibiza is a music venue in Ibiza with 19 upcoming nights listed on soundcheck as of Fri, 24 Jul 2026; the next is "CULTO" on Fri, 24 Jul 2026.
 
-Playa Soleil Ibiza is a music venue in Ibiza listed on soundcheck. 19 upcoming nights, with line-ups including EVGHENIIA, Loren, Pachanga Boys and PETERBLUE and 2 more. Browse upcoming dates, start times and who's playing. Sant Josep de sa Talaia, Islas Baleares, 07817, Spain.
+Playa Soleil Ibiza is a music venue in Ibiza listed on soundcheck. 19 upcoming nights, with line-ups including Alexander Skancke, EVGHENIIA, Gojnea76 and Inès Rau and 2 more. Browse upcoming dates, start times and who's playing. Sant Josep de sa Talaia, Islas Baleares, 07817, Spain.
 
 ## What's on
 
@@ -10,7 +10,7 @@ Playa Soleil Ibiza is a music venue in Ibiza listed on soundcheck. 19 upcoming n
 | --- | --- | --- |
 | Fri, 24 Jul 2026 | CULTO | Loren, PETERBLUE, THANILA |
 | Sat, 25 Jul 2026 | Crême de Crême |  |
-| Wed, 29 Jul 2026 | SW ♡ IBIZA 29 JULY |  |
+| Wed, 29 Jul 2026 | SW ♡ IBIZA 29 JULY | Alexander Skancke, Gojnea76, Inès Rau, Joe Vanditti, Neverdogs, PERSIC, Piticu |
 | Fri, 31 Jul 2026 | Astradanza Ibiza - Day & Night | EVGHENIIA, Pachanga Boys, Radio Slave, Red Axes, Tibi Dabo |
 | Sat, 1 Aug 2026 | Crême de Crême |  |
 | Wed, 5 Aug 2026 | SW ♡ IBIZA AUGUST 5 |  |

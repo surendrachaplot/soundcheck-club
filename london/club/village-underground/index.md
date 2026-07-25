@@ -9,7 +9,7 @@ Village Underground is a music venue in London listed on soundcheck. 15 upcoming
 | Date | Night | Line-up |
 | --- | --- | --- |
 | Fri, 24 Jul 2026 | Murda Beatz No Phones Tour |  |
-| Fri, 31 Jul 2026 | Foster The People presents FTP (DJ Set)  | Foster The People |
+| Fri, 31 Jul 2026 | Foster The People presents FTP (DJ Set)  | Foster The People, Oh See, Tino |
 | Sat, 22 Aug 2026 | VU Summer Free Party: Special Guests TBA |  |
 | Fri, 28 Aug 2026 | Channel One Sound System - Carnival Warm Up | Channel One Sound |
 | Sat, 29 Aug 2026 | Places + Faces: 13 Year Party @ Village Underground w Very Special Guests |  |

@@ -1,8 +1,8 @@
 # Insomnia
 
-Insomnia is a music venue in Berlin with 24 upcoming nights listed on soundcheck as of Fri, 24 Jul 2026; the next is "Kinky CSD Preparty by UNDR" on Fri, 24 Jul 2026.
+Insomnia is a music venue in Berlin with 25 upcoming nights listed on soundcheck as of Fri, 24 Jul 2026; the next is "Kinky CSD Preparty by UNDR" on Fri, 24 Jul 2026.
 
-Insomnia is a music venue in Berlin listed on soundcheck. 24 upcoming nights, with line-ups including Andrea Marino, Bäggy, Ben Green and Bi Män and 2 more. Browse upcoming dates, start times and who's playing. Alt-Tempelhof 17-19, 12099 Berlin.
+Insomnia is a music venue in Berlin listed on soundcheck. 25 upcoming nights, with line-ups including Andrea Marino, Bäggy, Ben Green and Bi Män and 2 more. Browse upcoming dates, start times and who's playing. Alt-Tempelhof 17-19, 12099 Berlin.
 
 ## What's on
 

@@ -12,7 +12,7 @@ Badaboum is a music venue in Paris listed on soundcheck. 17 upcoming nights, wit
 | Sat, 25 Jul 2026 | Club — rythme brisé, Alice Yuki, holandês, Hyperlison, Yoko Ûno | Aliceyuki, Rythme Brisé, holandês |
 | Thu, 30 Jul 2026 | Club — LA CH!CK: CLASH OF THE POP QUEENS |  |
 | Fri, 31 Jul 2026 | Club — Anastazja, Kx9000, Plage84, Sahar Bagherpour | Anastazja, Kx9000, Plage 84 |
-| Sat, 1 Aug 2026 | Club — De La Groove x System Sol | System Sol |
+| Sat, 1 Aug 2026 | Club — De La Groove x System Sol | Chinau, Knuckle G, Larry G, System Sol |
 | Thu, 6 Aug 2026 | Club — LA CH!CK: REGGAETON ALL STARS - BAD BUNNY, ANITTA & CO | Aidan Lee |
 | Fri, 7 Aug 2026 | Club — D.KO Records x QUERICO: Mézigue, Swooh, Hanzo Tono | Hanzo Tono, Mézigue, Swooh |
 | Sat, 8 Aug 2026 | Club — Kabylie Minogue (all night long) | Kabylie Minogue |

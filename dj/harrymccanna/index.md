@@ -1,14 +1,15 @@
 # Harry McCanna
 
-Harry McCanna is a House and Tech House artist with 9 upcoming club dates listed on soundcheck as of Fri, 24 Jul 2026, next at Boston Manor Park, London on Sat, 25 Jul 2026.
+Harry McCanna is a House and Tech House artist with 10 upcoming club dates listed on soundcheck as of Fri, 24 Jul 2026, next at Boston Manor Park, London on Sat, 25 Jul 2026.
 
-Harry McCanna is a house and tech house artist tracked on soundcheck, with 130 sets logged across Amsterdam, Athens, Barcelona and Berlin and 20 more. Often billed alongside Sam Bangura, Dale Mussington and NorthSouth. Next up: Boston Manor Park, London on Sat 25 Jul.
+Harry McCanna is a house and tech house artist tracked on soundcheck, with 131 sets logged across Amsterdam, Athens, Barcelona and Berlin and 20 more. Often billed alongside Sam Bangura, Dale Mussington and NorthSouth. Next up: Boston Manor Park, London on Sat 25 Jul.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 25 Jul 2026 | Boston Manor Park | London |
+| Sat, 25 Jul 2026 | fabric | London |
 | Fri, 31 Jul 2026 | Les Enfants Brillants | Barcelona |
 | Fri, 14 Aug 2026 | Distrikt | Leeds |
 | Sat, 15 Aug 2026 | Shelter Amsterdam | Amsterdam |

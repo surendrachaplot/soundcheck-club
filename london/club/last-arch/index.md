@@ -17,7 +17,7 @@ Last Arch is a music venue in London listed on soundcheck. 14 upcoming nights, w
 | Sat, 15 Aug 2026 | Mystra x Woody van Eyden | Alythia Kwan, GYS (TT) |
 | Sat, 15 Aug 2026 | Archie Holmes x Arts of the Unknown | Archie Holmes, Arts of the Unknown, Fredd Mann, Joe Tonic, Stresshead |
 | Sun, 16 Aug 2026 | Flurt. x Leftback | Josh Smith, Last Pines, Mortalyf, Oscar Jones, PiNG (UK) |
-| Fri, 21 Aug 2026 | EMBER: Fiyahdred All Night Long |  |
+| Fri, 21 Aug 2026 | EMBER: Fiyahdred All Night Long | Fiyahdred |
 
 ## Address
 

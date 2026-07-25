@@ -1,14 +1,15 @@
 # Ku Barcelona
 
-Ku Barcelona is a music venue in Barcelona with 6 upcoming nights listed on soundcheck as of Fri, 24 Jul 2026; the next is "SIGHT pres. Oden & Fatzo, KOKO B2B BizZa, Jan, Caste" on Sun, 26 Jul 2026.
+Ku Barcelona is a music venue in Barcelona with 7 upcoming nights listed on soundcheck as of Fri, 24 Jul 2026; the next is "SIGHT pres. Oden & Fatzo, KOKO B2B BizZa, Jan, Caste" on Sun, 26 Jul 2026.
 
-Ku Barcelona is a music venue in Barcelona listed on soundcheck. 6 upcoming nights, with line-ups including Alex Now, BizZa, Caste and Claptone and 2 more. Browse upcoming dates, start times and who's playing. Passeig Marítim de la Barceloneta 38, 08003, Barcelona, Spain.
+Ku Barcelona is a music venue in Barcelona listed on soundcheck. 7 upcoming nights, with line-ups including Alex Now, Andrea Castells, BizZa and Caste and 2 more. Browse upcoming dates, start times and who's playing. Passeig Marítim de la Barceloneta 38, 08003, Barcelona, Spain.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
 | Sun, 26 Jul 2026 | SIGHT pres. Oden & Fatzo, KOKO B2B BizZa, Jan, Caste | BizZa, Caste, Fatzo, Jan, KOKO (IT), Oden, Tommy Phillips |
+| Wed, 29 Jul 2026 | AVALON: Monblaire, Rivellino, Andrea Castells, No Name | Andrea Castells, Rivellino |
 | Sun, 2 Aug 2026 | SIGHT & Sinner pres. Claptone, Alexander Som, Luka Kuhnow, VITE b2b MIGANOVA | Claptone, MIGANOVA, VITE |
 | Sun, 9 Aug 2026 | SIGHT pres. James Hype, Alex Now, LA CINTIA, Pau Guilera | Alex Now, James Hype (UK), Pau Guilera |
 | Sun, 16 Aug 2026 | SIGHT & Bonbonniere pres. Sonny Fodera, Xandro, Marcel BS, jose fajardo | Marcel BS, Sonny Fodera, Xandro, jose fajardo |

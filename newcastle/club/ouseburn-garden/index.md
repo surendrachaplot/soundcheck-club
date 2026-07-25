@@ -15,7 +15,7 @@ Ouseburn Garden is a music venue in Newcastle listed on soundcheck. 10 upcoming 
 | Sat, 15 Aug 2026 | DIGITAL presents: Joss Dean | Emma 2000, Joss Dean |
 | Fri, 21 Aug 2026 | Reggaeton Summer Terrace Party |  |
 | Sat, 5 Sept 2026 | SYNRG presents: Laidlaw, Special Guest | Laidlaw |
-| Sat, 12 Sept 2026 | HED x Top Floor presents HearThuG (Day + Night)  | Garbo (2), Mr. Jones |
+| Sat, 12 Sept 2026 | HED x Top Floor presents HearThuG (Day + Night)  | Garbo (2), HearThug, Mr. Jones |
 | Sat, 19 Sept 2026 | Tania Vulcano, Inland Knights, Bobby ODonnell B2B Foz | Adam Lance, Bobby O'Donnell, Foz, Inland Knights, Tania Vulcano, Wakka |
 | Sat, 26 Sept 2026 | Dan Ghenacia, Captain Wallop + Special Guest | Adam Lance, Captain Wallop, Dan Ghenacia, Wakka |
 

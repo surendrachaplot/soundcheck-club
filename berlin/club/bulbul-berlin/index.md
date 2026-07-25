@@ -12,7 +12,7 @@ Bulbul Berlin is a music venue in Berlin listed on soundcheck. 17 upcoming night
 | Sat, 25 Jul 2026 | CSD After-House-Party: wannadosomething?, Tommes K. Brandt b2b Dan Barak, Milano Picanto | Tommes K. Brandt, wannadosomething? |
 | Thu, 30 Jul 2026 | FRESH FACES (FREE ENTRY): BECKSHAM, Diva International, Nightjet, VibeSelector | BECKSHAM, Diva International |
 | Fri, 31 Jul 2026 | TOO MANY DJS: Franziska Frizzante, Anestis, Better Call Paul, JaMoll b2b unDs | Anestis, Better Call Paul, Franziska Frizzante, JaMoll-official, unDs |
-| Sat, 1 Aug 2026 | Saturdaze: Tba |  |
+| Sat, 1 Aug 2026 | HOUSE & DISCO SERVICE: The Brahma, Monsai, Caldii & More | Caldii, Monsai, The Brahma |
 | Thu, 6 Aug 2026 | TANZFLOOR: Gabriel, Do you know Juno, Love Sensation, Karadi | Do you know Juno, Love Sensation, ·gabriel· |
 | Fri, 7 Aug 2026 | The CHRANDY shop: Aria Santillana, CHRANDY, Tiny Handbag (hi.fí & François Dulac) | Aria Santillana, CHRANDY, François Dulac, hi.fí |
 | Sat, 8 Aug 2026 | Saturdaze: Tba |  |

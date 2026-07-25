@@ -8,7 +8,7 @@ Skin Club is a music venue in Madrid listed on soundcheck. 10 upcoming nights, w
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Fri, 24 Jul 2026 | SKIN ALPHA SUMMER |  |
+| Fri, 24 Jul 2026 | SKIN ALPHA SUMMER | DJ TURBO |
 | Sat, 25 Jul 2026 | SKIN CALIENTE: Lejía + PUTAGATALSOL + XIE7E | Lejía |
 | Sun, 26 Jul 2026 | SKIN MISA:  Djen + Modesto + Reitze | Djen, Modesto, Reitze |
 | Fri, 31 Jul 2026 | SKIN ALPHA SUMMER | NETN |

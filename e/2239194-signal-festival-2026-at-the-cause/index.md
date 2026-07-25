@@ -1,6 +1,6 @@
 # SIGNAL FESTIVAL 2026 at The Cause
 
-SIGNAL FESTIVAL 2026 at The Cause on Sat 22 Aug, London. 39 acts on the bill: AliA, Ant TC1, Blackeye MC and Break and 35 more. Drum & Bass and Jungle. Preview the line-up and save it on soundcheck.
+SIGNAL FESTIVAL 2026 at The Cause on Sat 22 Aug, London. 41 acts on the bill: AliA, Ant TC1, Blackeye MC and Break and 37 more. Drum & Bass and Jungle. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -16,7 +16,9 @@ SIGNAL FESTIVAL 2026 at The Cause on Sat 22 Aug, London. 39 acts on the bill: Al
 - Break
 - Carré
 - Chinese Daughter
+- Cleveland Watkiss
 - Coki
+- DJ Chef
 - DJ Flight
 - DJ Storm
 - Dillinja

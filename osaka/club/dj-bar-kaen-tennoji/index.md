@@ -1,14 +1,13 @@
 # DJ BAR KAEN TENNOJI
 
-DJ BAR KAEN TENNOJI is a music venue in Osaka with 2 upcoming nights listed on soundcheck as of Fri, 24 Jul 2026; the next is "Thumbs UP" on Fri, 24 Jul 2026.
+DJ BAR KAEN TENNOJI is a music venue in Osaka with 1 upcoming night listed on soundcheck as of Fri, 24 Jul 2026; the next is "SynQ" on Sat, 25 Jul 2026.
 
-DJ BAR KAEN TENNOJI is a music venue in Osaka listed on soundcheck. 2 upcoming nights. Browse upcoming dates, start times and who's playing. 4-chōme-2-5 Daidō, Tennoji Ward, Osaka.
+DJ BAR KAEN TENNOJI is a music venue in Osaka listed on soundcheck. 1 upcoming night. Browse upcoming dates, start times and who's playing. 4-chōme-2-5 Daidō, Tennoji Ward, Osaka.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Fri, 24 Jul 2026 | Thumbs UP |  |
 | Sat, 25 Jul 2026 | SynQ |  |
 
 ## Address

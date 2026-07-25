@@ -1,14 +1,13 @@
 # Queen Of Hoxton
 
-Queen Of Hoxton is a music venue in London with 2 upcoming nights listed on soundcheck as of Fri, 24 Jul 2026; the next is "So Fresh So Clean" on Fri, 24 Jul 2026.
+Queen Of Hoxton is a music venue in London with 1 upcoming night listed on soundcheck as of Fri, 24 Jul 2026; the next is "So Fresh So Clean" on Fri, 31 Jul 2026.
 
-Queen Of Hoxton is a music venue in London listed on soundcheck. 2 upcoming nights. Browse upcoming dates, start times and who's playing. 1-5 Curtain Road; Hoxton; London EC2A 3JX; United Kingdom.
+Queen Of Hoxton is a music venue in London listed on soundcheck. 1 upcoming night. Browse upcoming dates, start times and who's playing. 1-5 Curtain Road; Hoxton; London EC2A 3JX; United Kingdom.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Fri, 24 Jul 2026 | So Fresh So Clean |  |
 | Fri, 31 Jul 2026 | So Fresh So Clean |  |
 
 ## Address

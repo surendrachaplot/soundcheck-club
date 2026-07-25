@@ -1,13 +1,14 @@
 # TEDESCO
 
-TEDESCO is a Techno and Club artist with 4 upcoming club dates listed on soundcheck as of Fri, 24 Jul 2026, next at OXI, Berlin on Sun, 26 Jul 2026.
+TEDESCO is a Techno and Club artist with 5 upcoming club dates listed on soundcheck as of Fri, 24 Jul 2026, next at OHM, Berlin on Fri, 24 Jul 2026.
 
-TEDESCO is a techno and club artist tracked on soundcheck, with 118 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 12 more. Often billed alongside JONE OF ARX, Ivicore and Manuka Honey. Next up: OXI, Berlin on Sun 26 Jul.
+TEDESCO is a techno and club artist tracked on soundcheck, with 119 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 12 more. Often billed alongside JONE OF ARX, Ivicore and Manuka Honey. Next up: OHM, Berlin on Fri 24 Jul.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 24 Jul 2026 | OHM | Berlin |
 | Sun, 26 Jul 2026 | OXI | Berlin |
 | Sat, 1 Aug 2026 | The White Hotel | Manchester |
 | Sat, 8 Aug 2026 | SMUT Athens | Athens |

@@ -1,8 +1,8 @@
 # Standard Time
 
-Standard Time is a music venue in Toronto with 16 upcoming nights listed on soundcheck as of Fri, 24 Jul 2026; the next is "Love Letters presented by ASNM x PUCKER UP" on Fri, 24 Jul 2026.
+Standard Time is a music venue in Toronto with 17 upcoming nights listed on soundcheck as of Fri, 24 Jul 2026; the next is "Love Letters presented by ASNM x PUCKER UP" on Fri, 24 Jul 2026.
 
-Standard Time is a music venue in Toronto listed on soundcheck. 16 upcoming nights, with line-ups including A$H BANKS, Benski, Benski (CA) and Choirboi and 2 more. Browse upcoming dates, start times and who's playing. 165 Geary Ave Toronto, ON M6H 2B8, Canada.
+Standard Time is a music venue in Toronto listed on soundcheck. 17 upcoming nights, with line-ups including A$H BANKS, Benski, Benski (CA) and Choirboi and 2 more. Browse upcoming dates, start times and who's playing. 165 Geary Ave Toronto, ON M6H 2B8, Canada.
 
 ## What's on
 
@@ -16,8 +16,8 @@ Standard Time is a music venue in Toronto listed on soundcheck. 16 upcoming nigh
 | Fri, 31 Jul 2026 | Odd Soul featuring Keys N Krates, A$H BANKS and House of Lords | A$H BANKS, House of Lords, Keys N Krates |
 | Sat, 1 Aug 2026 | Daphni OPEN-CLOSE | Daphni |
 | Sun, 2 Aug 2026 | YES YES YALL CARIBANA EDITION |  |
+| Thu, 6 Aug 2026 | Daphni OPEN-CLOSE NIGHT 2 | Daphni |
 | Fri, 7 Aug 2026 | TEED DJ-Kicks Tour with Kiinjo | Kiinjo, TEED |
-| Sat, 8 Aug 2026 | LEO SZN / PRESENTED BY CITYPOOLWARRIOR  | DR 4SKYN, Delicious DJ, EMRYSLAZULI, XANGA |
 
 ## Address
 

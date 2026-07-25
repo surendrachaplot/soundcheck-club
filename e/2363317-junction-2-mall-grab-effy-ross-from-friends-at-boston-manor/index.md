@@ -1,6 +1,6 @@
 # Junction 2: Mall Grab, Effy, Ross From Friends at Boston Manor Park
 
-Junction 2: Mall Grab, Effy, Ross From Friends at Boston Manor Park on Fri 31 Jul, London. 13 acts on the bill: BLUMITSU, Benga, Claire O'Brien and DJ Storm (2) and 9 more. Preview the line-up and save it on soundcheck.
+Junction 2: Mall Grab, Effy, Ross From Friends at Boston Manor Park on Fri 31 Jul, London. 15 acts on the bill: BLUMITSU, Benga, Claire O'Brien and DJ Storm (2) and 11 more. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -16,8 +16,10 @@ Junction 2: Mall Grab, Effy, Ross From Friends at Boston Manor Park on Fri 31 Ju
 - DJ Storm (2)
 - David Jackson
 - Effy
+- KE-YEN
 - LO-LOW
 - Mall Grab
+- ODF (1)
 - RONI
 - Ross From Friends
 - Special Request

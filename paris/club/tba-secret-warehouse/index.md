@@ -1,8 +1,8 @@
-# TBA - Secret Warehouse 
+# TBA - Secret Warehouse
 
-TBA - Secret Warehouse  is a music venue in Paris with 4 upcoming nights listed on soundcheck as of Fri, 24 Jul 2026; the next is "THE GARAGE presents: F2F - Secret Warehouse" on Sat, 25 Jul 2026.
+TBA - Secret Warehouse is a music venue in Paris with 4 upcoming nights listed on soundcheck as of Fri, 24 Jul 2026; the next is "THE GARAGE presents: F2F - Secret Warehouse" on Sat, 25 Jul 2026.
 
-TBA - Secret Warehouse  is a music venue in Paris listed on soundcheck. 4 upcoming nights, with line-ups including Alex Nantaya, ARTISAH, Blame The Mono and I-SO and 2 more. Browse upcoming dates, start times and who's playing.
+TBA - Secret Warehouse is a music venue in Paris listed on soundcheck. 4 upcoming nights, with line-ups including Alex Nantaya, ARTISAH, Blame The Mono and I-SO and 2 more. Browse upcoming dates, start times and who's playing.
 
 ## What's on
 

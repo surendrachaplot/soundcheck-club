@@ -1,8 +1,8 @@
 # umru
 
-umru is a Club and Pop artist with 5 upcoming club dates listed on soundcheck as of Fri, 24 Jul 2026, next at SILO, New York City on Sat, 25 Jul 2026.
+umru is a Club and Pop artist with 6 upcoming club dates listed on soundcheck as of Fri, 24 Jul 2026, next at SILO, New York City on Sat, 25 Jul 2026.
 
-umru is a club and pop artist based in United States of America, tracked on soundcheck, with 144 sets logged across Amsterdam, Auckland, Barcelona and Berlin and 40 more. Often billed alongside Petal Supply, Warpstr and GRRL. Next up: SILO, Newyorkcity on Sat 25 Jul.
+umru is a club and pop artist based in United States of America, tracked on soundcheck, with 145 sets logged across Amsterdam, Auckland, Barcelona and Berlin and 40 more. Often billed alongside Petal Supply, Warpstr and GRRL. Next up: SILO, Newyorkcity on Sat 25 Jul.
 
 ## Upcoming shows
 
@@ -11,6 +11,7 @@ umru is a club and pop artist based in United States of America, tracked on soun
 | Sat, 25 Jul 2026 | SILO | New York City |
 | Fri, 31 Jul 2026 | TBA - Mission Four (Ace*Mission Studios) 560 S Mission Rd, Los Angeles, CA 90033 | Los Angeles |
 | Fri, 7 Aug 2026 | Public Works | San Francisco/Oakland |
+| Sun, 16 Aug 2026 | Système | Montreal |
 | Thu, 24 Sept 2026 | National Gallery Prague | Prague |
 | Sat, 26 Sept 2026 | Club360 | London |
 

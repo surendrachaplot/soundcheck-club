@@ -1,8 +1,8 @@
 # Garrison XR
 
-Garrison XR is a Techno and Electro artist with 5 upcoming club dates listed on soundcheck as of Fri, 24 Jul 2026, next at Northern Lights Lounge, Detroit on Fri, 24 Jul 2026.
+Garrison XR is a Techno and Electro artist with 6 upcoming club dates listed on soundcheck as of Fri, 24 Jul 2026, next at Northern Lights Lounge, Detroit on Fri, 24 Jul 2026.
 
-Garrison XR is a techno and electro artist based in United States of America, tracked on soundcheck, with 193 sets logged across Detroit, Newyorkcity and Sandiego. Often billed alongside Ashton Swinton, LATEX GIRL and Amino. Next up: Northern Lights Lounge, Detroit on Fri 24 Jul.
+Garrison XR is a techno and electro artist based in United States of America, tracked on soundcheck, with 194 sets logged across Detroit, Newyorkcity and Sandiego. Often billed alongside Ashton Swinton, LATEX GIRL and Amino. Next up: Northern Lights Lounge, Detroit on Fri 24 Jul.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Garrison XR is a techno and electro artist based in United States of America, tr
 | --- | --- | --- |
 | Fri, 24 Jul 2026 | Northern Lights Lounge | Detroit |
 | Sun, 26 Jul 2026 | Per Ankh Detroit Entheogenic Church | Detroit |
+| Fri, 31 Jul 2026 | Lincoln Factory | Detroit |
 | Thu, 13 Aug 2026 | TV Lounge | Detroit |
 | Thu, 13 Aug 2026 | Tangent Gallery | Detroit |
 | Fri, 14 Aug 2026 | Tangent Gallery | Detroit |

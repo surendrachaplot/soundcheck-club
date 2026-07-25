@@ -15,7 +15,7 @@ Le Red Room is a music venue in Montreal listed on soundcheck. 10 upcoming night
 | Thu, 30 Jul 2026 | Hardsteppers presents: Marcus Visionary and GorillaFist | Marcus Visionary, Wally |
 | Fri, 31 Jul 2026 | House 2 Techno presented by SupporTechnique | AYMÉ, Harry Trancer, Walji |
 | Thu, 6 Aug 2026 | APEX - Music Week à MTL |  |
-| Sat, 8 Aug 2026 | Liberté (Île Soniq Afterparty) | AYMÉ, Walji |
+| Sat, 8 Aug 2026 | Tension: Official Montreal Music Week & an île Soniq Afterparty presented by SupporTechnique | AYMÉ, Walji |
 | Fri, 28 Aug 2026 | Digital Apocalyspe | DJ Pacifier |
 | Sat, 26 Sept 2026 | RED | Special K (CA) |
 

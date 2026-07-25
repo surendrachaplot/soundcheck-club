@@ -10,7 +10,7 @@ H15 Scene & Studio is a music venue in Copenhagen listed on soundcheck. 9 upcomi
 | --- | --- | --- |
 | Sat, 25 Jul 2026 | Baile Techno /// Heaven&Hell |  |
 | Sat, 25 Jul 2026 | Disco Go presents: BassMaxxing | ASTA MARI, CALIFANO, JACOBXFREY, Mary Harp |
-| Fri, 31 Jul 2026 | DiscoGo presents: Mad Flava | Anton Goltermann, B From E |
+| Fri, 31 Jul 2026 | Disco Go presents: Mad Flava | Anton Goltermann, B From E |
 | Sun, 2 Aug 2026 | All Dayer with special guest Barbara Hryciuk | Barbara Hryciuk, Daniel Kaarill, Fergus Murphy |
 | Thu, 6 Aug 2026 | Open Decks & Ping Pong | Arto (2), dj bootymagic |
 | Thu, 13 Aug 2026 | Vinocio Copenhagen 2026 | Ivan Dallmann, Pladedamen, Vinocio |

@@ -1,8 +1,8 @@
 # Miss Parker
 
-Miss Parker is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Fri, 24 Jul 2026, next at OXI, Berlin on Fri, 24 Jul 2026.
+Miss Parker is a Techno and House artist with 4 upcoming club dates listed on soundcheck as of Fri, 24 Jul 2026, next at OXI, Berlin on Fri, 24 Jul 2026.
 
-Miss Parker is a techno and house artist tracked on soundcheck, with 120 sets logged across Berlin, Boston, Chicago and Hamburg and 6 more. Often billed alongside Devoye, DJ Thank You and Princess Peggie. Next up: OXI, Berlin on Fri 24 Jul.
+Miss Parker is a techno and house artist tracked on soundcheck, with 121 sets logged across Berlin, Boston, Chicago and Hamburg and 6 more. Often billed alongside Devoye, DJ Thank You and Princess Peggie. Next up: OXI, Berlin on Fri 24 Jul.
 
 ## Upcoming shows
 
@@ -11,6 +11,7 @@ Miss Parker is a techno and house artist tracked on soundcheck, with 120 sets lo
 | Fri, 24 Jul 2026 | OXI | Berlin |
 | Sat, 8 Aug 2026 | Nowadays | New York City |
 | Fri, 14 Aug 2026 | Paragon | New York City |
+| Fri, 25 Sept 2026 | The San Francisco Mint | San Francisco/Oakland |
 
 ## Recently played
 

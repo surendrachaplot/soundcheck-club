@@ -1,8 +1,8 @@
 # Binh
 
-Binh is a Techno and House artist with 10 upcoming club dates listed on soundcheck as of Fri, 24 Jul 2026, next at Seaseaclub Barcelona, Barcelona on Fri, 24 Jul 2026.
+Binh is a Techno and House artist with 11 upcoming club dates listed on soundcheck as of Fri, 24 Jul 2026, next at Seaseaclub Barcelona, Barcelona on Fri, 24 Jul 2026.
 
-Binh is a techno and house artist tracked on soundcheck, with 189 sets logged across Amsterdam, Austin, Bali and Bangkok and 41 more. Often billed alongside DJ Masda, Nicolas Lutz and Francesco Del Garda. Next up: Seaseaclub Barcelona, Barcelona on Fri 24 Jul.
+Binh is a techno and house artist tracked on soundcheck, with 190 sets logged across Amsterdam, Austin, Bali and Bangkok and 41 more. Often billed alongside DJ Masda, Nicolas Lutz and Francesco Del Garda. Next up: Seaseaclub Barcelona, Barcelona on Fri 24 Jul.
 
 ## Upcoming shows
 
@@ -11,6 +11,7 @@ Binh is a techno and house artist tracked on soundcheck, with 189 sets logged ac
 | Fri, 24 Jul 2026 | Seaseaclub Barcelona | Barcelona |
 | Sat, 25 Jul 2026 | THE MAGICK BAR | Rome |
 | Thu, 30 Jul 2026 | Signal | New York City |
+| Fri, 31 Jul 2026 | Marble Bar | Detroit |
 | Sat, 1 Aug 2026 | StereoBar | Montreal |
 | Sat, 29 Aug 2026 | Phonox | London |
 | Sat, 29 Aug 2026 | Phonox | London |

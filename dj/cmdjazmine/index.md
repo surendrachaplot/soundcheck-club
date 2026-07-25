@@ -2,7 +2,7 @@
 
 CMD+JAZMINE is a Club and Techno artist with 3 upcoming club dates listed on soundcheck as of Fri, 24 Jul 2026, next at Mood Ring, New York City on Sat, 1 Aug 2026.
 
-CMD+JAZMINE is a club and techno artist based in United States of America, tracked on soundcheck, with 56 sets logged across Newyorkcity. Often billed alongside Petal, actuator and senoritajuicy. Next up: Mood Ring, Newyorkcity on Sat 1 Aug.
+CMD+JAZMINE is a club and techno artist based in United States of America, tracked on soundcheck, with 56 sets logged across Newyorkcity. Often billed alongside Pètal, actuator and senoritajuicy. Next up: Mood Ring, Newyorkcity on Sat 1 Aug.
 
 ## Upcoming shows
 
@@ -25,6 +25,6 @@ CMD+JAZMINE is a club and techno artist based in United States of America, track
 
 ## Shares bills with
 
-Petal, actuator, senoritajuicy
+Pètal, actuator, senoritajuicy
 
 *Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/cmdjazmine/)*

@@ -1,8 +1,8 @@
 # DJ Tennis
 
-DJ Tennis is a House and Techno artist with 9 upcoming club dates listed on soundcheck as of Fri, 24 Jul 2026, next at Chinois Ibiza, Ibiza on Sun, 26 Jul 2026.
+DJ Tennis is a House and Techno artist with 10 upcoming club dates listed on soundcheck as of Fri, 24 Jul 2026, next at Chinois Ibiza, Ibiza on Sun, 26 Jul 2026.
 
-DJ Tennis is a house and techno artist tracked on soundcheck, with 287 sets logged across Amsterdam, Antwerp, Austin and Bali and 54 more. Often billed alongside Carlita, Seth Troxler and Chloé Caillet. Next up: Chinois Ibiza, Ibiza on Sun 26 Jul.
+DJ Tennis is a house and techno artist tracked on soundcheck, with 288 sets logged across Amsterdam, Antwerp, Austin and Bali and 54 more. Often billed alongside Carlita, Seth Troxler and Chloé Caillet. Next up: Chinois Ibiza, Ibiza on Sun 26 Jul.
 
 ## Upcoming shows
 
@@ -17,6 +17,7 @@ DJ Tennis is a house and techno artist tracked on soundcheck, with 287 sets logg
 | Sat, 29 Aug 2026 | Hï Ibiza | Ibiza |
 | Fri, 11 Sept 2026 | TBA | Brussels |
 | Sat, 19 Sept 2026 | Gin Ling Way, Chinatown | Los Angeles |
+| Wed, 21 Oct 2026 | A'DAM Toren | Amsterdam |
 
 ## Recently played
 

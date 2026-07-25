@@ -1,14 +1,15 @@
 # Egotot
 
-Egotot is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Fri, 24 Jul 2026, next at TBA, Vienna on Sat, 1 Aug 2026.
+Egotot is a Techno and House artist with 4 upcoming club dates listed on soundcheck as of Fri, 24 Jul 2026, next at TBA, Vienna on Sat, 1 Aug 2026.
 
-Egotot is a techno and house artist tracked on soundcheck, with 48 sets logged across Amsterdam, Berlin, Budapest and Dusseldorf and 9 more. Often billed alongside Anterist, Pino Peña and Thomas Colin. Next up: TBA, Vienna on Sat 1 Aug.
+Egotot is a techno and house artist tracked on soundcheck, with 49 sets logged across Amsterdam, Berlin, Budapest and Dusseldorf and 9 more. Often billed alongside Pino Peña, Anterist and Franz Jäger. Next up: TBA, Vienna on Sat 1 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 1 Aug 2026 | TBA | Vienna |
+| Fri, 7 Aug 2026 | Rote Sonne | Munich |
 | Fri, 7 Aug 2026 | Rote Sonne | Munich |
 | Fri, 21 Aug 2026 | Seedcamp, Kautzen | Vienna |
 
@@ -25,6 +26,6 @@ Egotot is a techno and house artist tracked on soundcheck, with 48 sets logged a
 
 ## Shares bills with
 
-Anterist, Pino Peña, Thomas Colin
+Pino Peña, Anterist, Franz Jäger
 
 *Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/egotot/)*

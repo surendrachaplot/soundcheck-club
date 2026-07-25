@@ -1,14 +1,15 @@
 # Nadia Summer
 
-Nadia Summer is a House and Garage artist with 2 upcoming club dates listed on soundcheck as of Fri, 24 Jul 2026, next at West Street, Glasgow on Sat, 15 Aug 2026.
+Nadia Summer is a House and Garage artist with 3 upcoming club dates listed on soundcheck as of Fri, 24 Jul 2026, next at West Street, Glasgow on Sat, 15 Aug 2026.
 
-Nadia Summer is a house and garage artist tracked on soundcheck, with 50 sets logged across Amsterdam, Bristol, Edinburgh and Glasgow and 1 more. Often billed alongside PASO, Archie Holmes and Oakley Carter. Next up: West Street, Glasgow on Sat 15 Aug.
+Nadia Summer is a house and garage artist tracked on soundcheck, with 51 sets logged across Amsterdam, Bristol, Edinburgh and Glasgow and 1 more. Often billed alongside PASO, Archie Holmes and Oakley Carter. Next up: West Street, Glasgow on Sat 15 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 15 Aug 2026 | West Street | Glasgow |
+| Thu, 20 Aug 2026 | XOYO | London |
 | Fri, 25 Sept 2026 | Document | Bristol |
 
 ## Recently played

@@ -10,7 +10,7 @@ Uebel & Gefährlich is a music venue in Hamburg listed on soundcheck. 7 upcoming
 | --- | --- | --- |
 | Sat, 25 Jul 2026 | Blaue Stunde | Cherries040, LYNDA, Softdrive, WILDERÍCH |
 | Sat, 1 Aug 2026 | Bunker Rave with ANXHELA & 3LEEZA | 3LEEZA, AH-N!CE, ANXHELA, JAMera, L.A.tifa, TERMINAL 23 (DE) |
-| Fri, 14 Aug 2026 | SesssHH | EuroEyez, Global, Sodomland |
+| Fri, 14 Aug 2026 | SesssHH | CHIEF QUEEF, EuroEyez, Global, Sodomland |
 | Fri, 21 Aug 2026 | bratty |  |
 | Fri, 11 Sept 2026 | VER pres. davyboi, Charleen Herzig, SUAY ÆNNA, MOVE TO GROOVE COLLECTIVE uvm | Charleen Herzig, KENZ, Suay Aenna, dannycookin, davyboi, djcob, unjani |
 | Fri, 25 Sept 2026 | Liquicity Hamburg 2026 | Eightball, Lexurus, Maduk, Pola & Bryson |

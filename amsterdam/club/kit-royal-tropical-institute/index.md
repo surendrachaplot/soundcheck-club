@@ -9,7 +9,7 @@ KIT Royal Tropical Institute is a music venue in Amsterdam listed on soundcheck.
 | Date | Night | Line-up |
 | --- | --- | --- |
 | Thu, 22 Oct 2026 | Lola x Rinse FM ADE | Alec Dienaar, Bellaire, Bibi Seck, Drabes, Julian Wijn, Lasse Top, Laura Meester, Midas Field, Milo Passier |
-| Thu, 22 Oct 2026 | ADE: Lola x Rinse FM | Alec Dienaar, Bellaire, Bibi Seck, Drabes, Julian Wijn, Lasse Top, Laura Meester, Midas Field, Milo Passier |
+| Thu, 22 Oct 2026 | ADE: Rinse FM x Lola | Alec Dienaar, Bellaire, Bibi Seck, Drabes, Julian Wijn, Lasse Top, Laura Meester, Midas Field, Milo Passier |
 
 ## Address
 

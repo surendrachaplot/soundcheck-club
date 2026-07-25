@@ -1,14 +1,15 @@
 # Skantia
 
-Skantia is a Drum & Bass and Bass artist with 6 upcoming club dates listed on soundcheck as of Fri, 24 Jul 2026, next at Boston Manor Park, London on Fri, 24 Jul 2026.
+Skantia is a Drum & Bass and Bass artist with 7 upcoming club dates listed on soundcheck as of Fri, 24 Jul 2026, next at Boston Manor Park, London on Fri, 24 Jul 2026.
 
-Skantia is a drum & bass and bass artist tracked on soundcheck, with 51 sets logged across Auckland, Birmingham, Brighton and Brisbane and 20 more. Often billed alongside Disrupta, K Motionz and Simula. Next up: Boston Manor Park, London on Fri 24 Jul.
+Skantia is a drum & bass and bass artist tracked on soundcheck, with 52 sets logged across Auckland, Birmingham, Brighton and Brisbane and 20 more. Often billed alongside Disrupta, K Motionz and Simula. Next up: Boston Manor Park, London on Fri 24 Jul.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 24 Jul 2026 | Boston Manor Park | London |
+| Fri, 24 Jul 2026 | fabric | London |
 | Sat, 29 Aug 2026 | LAB theCLUB | Madrid |
 | Thu, 3 Sept 2026 | UNO MALTA | Malta |
 | Fri, 4 Sept 2026 | Plaza Hotel Sydney | Sydney |

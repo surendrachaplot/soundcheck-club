@@ -1,8 +1,8 @@
 # PARAMIDA
 
-PARAMIDA is a House and Techno artist with 6 upcoming club dates listed on soundcheck as of Fri, 24 Jul 2026, next at Flevopark, Amsterdam on Sat, 25 Jul 2026.
+PARAMIDA is a House and Techno artist with 7 upcoming club dates listed on soundcheck as of Fri, 24 Jul 2026, next at Flevopark, Amsterdam on Sat, 25 Jul 2026.
 
-PARAMIDA is a house and techno artist tracked on soundcheck, with 238 sets logged across Amsterdam, Athens, Bali and Barcelona and 45 more. Often billed alongside Alex Kassian, Ryan Elliott and tINI. Next up: Flevopark, Amsterdam on Sat 25 Jul.
+PARAMIDA is a house and techno artist tracked on soundcheck, with 239 sets logged across Amsterdam, Athens, Bali and Barcelona and 45 more. Often billed alongside Alex Kassian, Ryan Elliott and tINI. Next up: Flevopark, Amsterdam on Sat 25 Jul.
 
 ## Upcoming shows
 
@@ -12,6 +12,7 @@ PARAMIDA is a house and techno artist tracked on soundcheck, with 238 sets logge
 | Sun, 26 Jul 2026 | Amnesia Ibiza | Ibiza |
 | Fri, 31 Jul 2026 | Burgess Park | London |
 | Fri, 7 Aug 2026 | Parc del Fòrum | Barcelona |
+| Sat, 15 Aug 2026 | Motel Campo | Geneva |
 | Fri, 28 Aug 2026 | Berghain / Panorama Bar / Säule | Berlin |
 | Tue, 15 Sept 2026 | Amnesia Ibiza | Ibiza |
 

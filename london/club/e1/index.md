@@ -8,7 +8,7 @@ E1 is a music venue in London listed on soundcheck. 34 upcoming nights, with lin
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Fri, 24 Jul 2026 | Cultura & Friend's |  |
+| Fri, 24 Jul 2026 | Cultura & Friend's | Jamie Payne, KAZIA, KREED., Sho (UK) |
 | Fri, 24 Jul 2026 | The Menendez Brothers and Friends | Izco, The Menendez Brothers |
 | Sat, 25 Jul 2026 | Pavel Petrov | Greggio, Pavel Petrov |
 | Sat, 25 Jul 2026 | Rave Beyond Reality |  |

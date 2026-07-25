@@ -11,7 +11,7 @@
 | Fri, 24 Jul 2026 | 77: Richy Ahmed | Richy Ahmed |
 | Sat, 25 Jul 2026 | 77: DEB FA | DUO (UK), Duo, Kidflo |
 | Fri, 31 Jul 2026 | FullHouse Launch Party: Tom & Collins | Siân Owen, Tom & Collins |
-| Sat, 1 Aug 2026 | 77: Guti | Djebali, Guti |
+| Sat, 1 Aug 2026 | 77: Guti [LIVE] | Djebali, Guti |
 | Sat, 8 Aug 2026 | 77: Art Department | Art Department, JAYDAA |
 | Fri, 14 Aug 2026 | FullHouse |  |
 | Fri, 21 Aug 2026 | FullHouse |  |

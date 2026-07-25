@@ -1,14 +1,16 @@
 # The Glad Cafe
 
-The Glad Cafe is a music venue in Glasgow with 5 upcoming nights listed on soundcheck as of Fri, 24 Jul 2026; the next is "summerblink ☆ queer hyper/dreampop event" on Tue, 18 Aug 2026.
+The Glad Cafe is a music venue in Glasgow with 7 upcoming nights listed on soundcheck as of Fri, 24 Jul 2026; the next is "summerblink ☆ queer hyper/dreampop event" on Tue, 18 Aug 2026.
 
-The Glad Cafe is a music venue in Glasgow listed on soundcheck. 5 upcoming nights, with line-ups including Raivo Sloan. Browse upcoming dates, start times and who's playing. 1006A Pollokshaws Rd, Glasgow G41 2HG.
+The Glad Cafe is a music venue in Glasgow listed on soundcheck. 7 upcoming nights, with line-ups including Raivo Sloan. Browse upcoming dates, start times and who's playing. 1006A Pollokshaws Rd, Glasgow G41 2HG.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
 | Tue, 18 Aug 2026 | summerblink ☆ queer hyper/dreampop event |  |
+| Wed, 19 Aug 2026 | The Glad Cafe presents: Natural Information Society |  |
+| Tue, 25 Aug 2026 | Selkie: inWaves - Debut EP Launch |  |
 | Fri, 28 Aug 2026 | Vanderlye presents: Dystopia Calling EP Launch Night with support from Ryan Harley |  |
 | Fri, 11 Sept 2026 | Pop Mutations presents: Sword II + Special Guests |  |
 | Sun, 27 Sept 2026 | Sonica: Raivo Sloan // Moira Salt, Tommy Perman & Andrew Wasylyk // Jett Ilagan | Raivo Sloan |

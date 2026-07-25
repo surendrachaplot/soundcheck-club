@@ -1,14 +1,15 @@
 # Loren
 
-Loren is a Techno and House artist with 4 upcoming club dates listed on soundcheck as of Fri, 24 Jul 2026, next at Playa Soleil Ibiza, Ibiza on Fri, 24 Jul 2026.
+Loren is a Techno and House artist with 5 upcoming club dates listed on soundcheck as of Fri, 24 Jul 2026, next at Playa Soleil Ibiza, Ibiza on Fri, 24 Jul 2026.
 
-Loren is a techno and house artist tracked on soundcheck, with 207 sets logged across Berlin, Chicago, Detroit and Ibiza and 9 more. Often billed alongside Ashton Swinton, Tylr and Garrison XR. Next up: Playa Soleil Ibiza, Ibiza on Fri 24 Jul.
+Loren is a techno and house artist tracked on soundcheck, with 208 sets logged across Berlin, Chicago, Detroit and Ibiza and 9 more. Often billed alongside Ashton Swinton, Tylr and Garrison XR. Next up: Playa Soleil Ibiza, Ibiza on Fri 24 Jul.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 24 Jul 2026 | Playa Soleil Ibiza | Ibiza |
+| Fri, 31 Jul 2026 | Marble Bar | Detroit |
 | Fri, 7 Aug 2026 | Signal | New York City |
 | Sat, 15 Aug 2026 | TV Lounge | Detroit |
 | Sat, 29 Aug 2026 | Berghain / Panorama Bar / Säule | Berlin |

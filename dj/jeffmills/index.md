@@ -1,14 +1,15 @@
 # Jeff Mills
 
-Jeff Mills is a Techno and House artist with 12 upcoming club dates listed on soundcheck as of Fri, 24 Jul 2026, next at Boston Manor Park, London on Sat, 25 Jul 2026.
+Jeff Mills is a Techno and House artist with 13 upcoming club dates listed on soundcheck as of Fri, 24 Jul 2026, next at Boston Manor Park, London on Sat, 25 Jul 2026.
 
-Jeff Mills is a techno and house artist tracked on soundcheck, with 175 sets logged across Amsterdam, Antwerp, Athens and Auckland and 56 more. Often billed alongside DVS1, Marcel Dettmann and DJ Nobu. Next up: Boston Manor Park, London on Sat 25 Jul.
+Jeff Mills is a techno and house artist tracked on soundcheck, with 176 sets logged across Amsterdam, Antwerp, Athens and Auckland and 56 more. Often billed alongside DVS1, Marcel Dettmann and DJ Nobu. Next up: Boston Manor Park, London on Sat 25 Jul.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 25 Jul 2026 | Boston Manor Park | London |
+| Sat, 25 Jul 2026 | fabric | London |
 | Wed, 29 Jul 2026 | Amsterdamse Bos | Amsterdam |
 | Sun, 2 Aug 2026 | Amsterdamse Bos | Amsterdam |
 | Fri, 7 Aug 2026 | Parc del Fòrum | Barcelona |
@@ -19,7 +20,6 @@ Jeff Mills is a techno and house artist tracked on soundcheck, with 175 sets log
 | Sat, 12 Sept 2026 | Bunker | Turin |
 | Thu, 24 Sept 2026 | Vrachon Theater | Athens |
 | Sun, 27 Sept 2026 | Amnesia Ibiza | Ibiza |
-| Sun, 11 Oct 2026 | Saline Royale D'arc-et-Senans (25 Doubs) | Lyon |
 
 ## Recently played
 

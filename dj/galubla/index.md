@@ -1,13 +1,14 @@
 # Galu Bla
 
-Galu Bla is a House and Minimal artist with 4 upcoming club dates listed on soundcheck as of Fri, 24 Jul 2026, next at Bikini Club, Barcelona on Fri, 31 Jul 2026.
+Galu Bla is a House and Minimal artist with 5 upcoming club dates listed on soundcheck as of Fri, 24 Jul 2026, next at TBA - Backstage - Carrer Casp, 33, Barcelona on Fri, 24 Jul 2026.
 
-Galu Bla is a house and minimal artist based in Argentina, tracked on soundcheck, with 44 sets logged across Barcelona. Often billed alongside CAZOU, Daniel Sanchez and INDRA TRAFERRI. Next up: Bikini Club, Barcelona on Fri 31 Jul.
+Galu Bla is a house and minimal artist based in Argentina, tracked on soundcheck, with 45 sets logged across Barcelona. Often billed alongside CAZOU, INDRA TRAFERRI and Daniel Sanchez. Next up: TBA - Backstage - Carrer Casp, 33, Barcelona on Fri 24 Jul.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 24 Jul 2026 | TBA - Backstage - Carrer Casp, 33 | Barcelona |
 | Fri, 31 Jul 2026 | Bikini Club | Barcelona |
 | Sun, 9 Aug 2026 | TBA - Mansion Near Plaza Catalunya | Barcelona |
 | Sat, 15 Aug 2026 | Seaseaclub Barcelona | Barcelona |
@@ -26,6 +27,6 @@ Galu Bla is a house and minimal artist based in Argentina, tracked on soundcheck
 
 ## Shares bills with
 
-CAZOU, Daniel Sanchez, INDRA TRAFERRI
+CAZOU, INDRA TRAFERRI, Daniel Sanchez
 
 *Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/galubla/)*

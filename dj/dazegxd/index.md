@@ -1,8 +1,8 @@
 # Dazegxd
 
-Dazegxd is a Jungle and House artist with 4 upcoming club dates listed on soundcheck as of Fri, 24 Jul 2026, next at Paragon, New York City on Sat, 25 Jul 2026.
+Dazegxd is a Jungle and House artist with 5 upcoming club dates listed on soundcheck as of Fri, 24 Jul 2026, next at Paragon, New York City on Sat, 25 Jul 2026.
 
-Dazegxd is a jungle and house artist tracked on soundcheck, with 94 sets logged across Austin, Boston, Bristol and Chicago and 14 more. Often billed alongside Yesterdayneverhappened, gum.mp3 and Swami Sound. Next up: Paragon, Newyorkcity on Sat 25 Jul.
+Dazegxd is a jungle and house artist tracked on soundcheck, with 95 sets logged across Austin, Boston, Bristol and Chicago and 15 more. Often billed alongside Yesterdayneverhappened, gum.mp3 and Swami Sound. Next up: Paragon, Newyorkcity on Sat 25 Jul.
 
 ## Upcoming shows
 
@@ -11,6 +11,7 @@ Dazegxd is a jungle and house artist tracked on soundcheck, with 94 sets logged 
 | Sat, 25 Jul 2026 | Paragon | New York City |
 | Fri, 7 Aug 2026 | Nameless | Philadelphia |
 | Thu, 13 Aug 2026 | Wigwam | Dublin |
+| Sat, 22 Aug 2026 | The White Hotel | Manchester |
 | Tue, 25 Aug 2026 | The Berkeley Suite | Glasgow |
 
 ## Recently played

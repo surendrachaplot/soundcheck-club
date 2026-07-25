@@ -13,7 +13,7 @@ Mondo is a music venue in Madrid listed on soundcheck. 21 upcoming nights, with 
 | Sat, 1 Aug 2026 | Paige Tomlinson / Gerardo Niva / Mike Momburg | Gerardo Niva, Mike Momburg, Paige Tomlinson |
 | Thu, 6 Aug 2026 | Gerardo Niva / Jim Jonathan / doccudder | Gerardo Niva, doccudder |
 | Sat, 8 Aug 2026 | X-Coast / Gerardo Niva / DJ SWISHERMAN | DJ SWISHERMAN, Gerardo Niva, X-Coast |
-| Thu, 13 Aug 2026 | TBA |  |
+| Thu, 13 Aug 2026 | Gerardo Niva B2B pavvvvvvlo / DJ SWISHERMAN B2B doccudder | DJ SWISHERMAN, Gerardo Niva, doccudder, pavvvvvvlo |
 | Sat, 15 Aug 2026 | Morgan Seatree / Gerardo Niva | Gerardo Niva, Morgan Seatree |
 | Thu, 20 Aug 2026 | bullet tooth / Gerardo Niva / doccudder | Gerardo Niva, bullet tooth, doccudder |
 | Sat, 22 Aug 2026 | Gerardo Niva / Dan Newman | Bella Claxton, Dan Newman, Gerardo Niva |

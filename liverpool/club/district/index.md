@@ -1,8 +1,8 @@
 # District
 
-District is a music venue in Liverpool with 6 upcoming nights listed on soundcheck as of Fri, 24 Jul 2026; the next is "Heavy Live All Dayer" on Sat, 25 Jul 2026.
+District is a music venue in Liverpool with 7 upcoming nights listed on soundcheck as of Fri, 24 Jul 2026; the next is "Heavy Live All Dayer" on Sat, 25 Jul 2026.
 
-District is a music venue in Liverpool listed on soundcheck. 6 upcoming nights, with line-ups including bite, Die Verletzt and Jezebel. Browse upcoming dates, start times and who's playing. 61 Jordan St, Liverpool, L1 0BW.
+District is a music venue in Liverpool listed on soundcheck. 7 upcoming nights, with line-ups including bite, Die Verletzt and Jezebel. Browse upcoming dates, start times and who's playing. 61 Jordan St, Liverpool, L1 0BW.
 
 ## What's on
 
@@ -11,6 +11,7 @@ District is a music venue in Liverpool listed on soundcheck. 6 upcoming nights, 
 | Sat, 25 Jul 2026 | Heavy Live All Dayer | bite |
 | Sat, 1 Aug 2026 | Threshold was Here - The reunion |  |
 | Sat, 15 Aug 2026 | Frogfest 2026 - Goth - EBM - Darkwave - Coldwave - Post-Punk | Die Verletzt, Jezebel |
+| Sat, 22 Aug 2026 | RNB DAY PARTY - Liverpool's Biggest RnB Summer Day Party |  |
 | Sat, 29 Aug 2026 | Soundsystem Showdown V2 |  |
 | Sun, 30 Aug 2026 | Grooveline & Friends: District All-Dayer |  |
 | Fri, 4 Sept 2026 | Attrition |  |

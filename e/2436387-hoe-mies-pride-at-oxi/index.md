@@ -1,6 +1,6 @@
 # Hoe__mies PRIDE at OXI
 
-Hoe__mies PRIDE at OXI on Sun 26 Jul, Berlin. 12 acts on the bill: Anita B Queen, Ase Manual, Asphodèle and BADSISTA and 8 more. Club. Preview the line-up and save it on soundcheck.
+Hoe__mies PRIDE at OXI on Sun 26 Jul, Berlin. 13 acts on the bill: Anita B Queen, Ase Manual, Asphodèle and BADSISTA and 9 more. Club. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -20,6 +20,7 @@ Hoe__mies PRIDE at OXI on Sun 26 Jul, Berlin. 12 acts on the bill: Anita B Queen
 - Litney
 - MIRASIA
 - Nanoos
+- Saint Nia
 - TEDESCO
 - Trigger T
 

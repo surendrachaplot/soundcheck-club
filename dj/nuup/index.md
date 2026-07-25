@@ -1,19 +1,19 @@
 # NUUP
 
-NUUP is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Fri, 24 Jul 2026, next at Birgit, Berlin on Fri, 24 Jul 2026.
+NUUP is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Fri, 24 Jul 2026, next at Parc del Fòrum, Barcelona on Fri, 7 Aug 2026.
 
-NUUP is a house and techno artist based in Mexico, tracked on soundcheck, with 63 sets logged across Barcelona, Berlin, Brussels and Ibiza and 4 more. Often billed alongside Valderrama, Thomas Hernandez and JE·ROME. Next up: Birgit, Berlin on Fri 24 Jul.
+NUUP is a house and techno artist based in Mexico, tracked on soundcheck, with 63 sets logged across Barcelona, Berlin, Brussels and Ibiza and 4 more. Often billed alongside Valderrama, Thomas Hernandez and JE·ROME. Next up: Parc del Fòrum, Barcelona on Fri 7 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 24 Jul 2026 | Birgit | Berlin |
 | Fri, 7 Aug 2026 | Parc del Fòrum | Barcelona |
 | Thu, 13 Aug 2026 | Macarena Club | Barcelona |
 
 ## Recently played
 
+- Birgit, Berlin — Fri, 24 Jul 2026
 - Purobeach Barcelona, Barcelona — Sat, 18 Jul 2026
 - BUS Hexperience, Barcelona — Fri, 17 Jul 2026
 - Akasha Las Dalias Club - Ibiza, Ibiza — Sun, 12 Jul 2026
@@ -21,7 +21,6 @@ NUUP is a house and techno artist based in Mexico, tracked on soundcheck, with 6
 - TBA - La otra sala coworking- Carrer de la Diputació 411, Bajo primero, Eixample, Barcelona — Fri, 26 Jun 2026
 - Nobu Hotel, Barcelona — Sun, 21 Jun 2026
 - Sunseabar Beach Club, Barcelona — Sat, 30 May 2026
-- INPUT High Fidelity Dance Club, Barcelona — Sun, 24 May 2026
 
 ## Shares bills with
 

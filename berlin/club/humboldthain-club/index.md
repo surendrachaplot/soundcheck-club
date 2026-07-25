@@ -9,7 +9,7 @@ Humboldthain Club is a music venue in Berlin listed on soundcheck. 24 upcoming n
 | Date | Night | Line-up |
 | --- | --- | --- |
 | Fri, 24 Jul 2026 | Kunststaub FM Radiocast #86 | Marinelli |
-| Fri, 24 Jul 2026 | CSD PRE PARTY // DRAG SHOWS, FREE SHOTS, KARAOKE, FACE PAINTING & POETRY | Amorelie, Armaville, DJ Spaßgetränk, F O R E S I G H T, Paul Bauhaus, phlipzee |
+| Fri, 24 Jul 2026 | CSD PRE PARTY // TICKETS at THE DOOR, DRAG SHOWS, FREE SHOTS, KARAOKE, FACE PAINTING & POETRY | Amorelie, Armaville, DJ Spaßgetränk, F O R E S I G H T, Paul Bauhaus, phlipzee |
 | Tue, 28 Jul 2026 | Open Decks & Tischtennis |  |
 | Fri, 31 Jul 2026 | TRIEBWERK Community Party / Live Acts + Art Exhibition | KERT (DE), PHLOXO, PLUSPUNKT, Wieko, Winston Choppa, elvito |
 | Sat, 1 Aug 2026 | Humbi bleibt |  |

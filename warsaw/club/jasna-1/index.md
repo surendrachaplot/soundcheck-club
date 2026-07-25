@@ -15,7 +15,7 @@ Jasna 1 is a music venue in Warsaw listed on soundcheck. 12 upcoming nights, wit
 | Fri, 7 Aug 2026 | J1 - SWITCH: Salty DJ, DUK, holoe [LIVE], MATRIX3K | MATRIX3K, Salty DJ, holoe |
 | Sat, 8 Aug 2026 | J1 - 808 DAY: Memotech, DJ DiRCE, daisy cutter, MIHVU | MIHVU, Memotech, daisy cutter |
 | Fri, 14 Aug 2026 | J1 - Pink Concrete, Karina Schneider, MKO | Karina Schneider, MKO (PL), Pink Concrete |
-| Sat, 15 Aug 2026 | J1 - Aliens: Gio Shengelia, Pawel, Dolu, Dima Kachan | Dima Kachan, Dolu, Gio Shengelia, PAWEL (PL) |
+| Sat, 15 Aug 2026 | J1 - Aliens: Pawel, Dolu, Dima Kachan | Dima Kachan, Dolu, Gio Shengelia, PAWEL (PL) |
 | Fri, 21 Aug 2026 | J1 - Michał Zietara, Kolektyw Laguna (Implode & Peteya) | Michal Zietara |
 | Fri, 25 Sept 2026 | JASNA 9TH BDAY |  |
 

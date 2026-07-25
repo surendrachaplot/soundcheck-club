@@ -1,14 +1,15 @@
 # Lea Occhi
 
-Lea Occhi is a Techno and House artist with 8 upcoming club dates listed on soundcheck as of Fri, 24 Jul 2026, next at RSO.BERLIN, Berlin on Fri, 24 Jul 2026.
+Lea Occhi is a Techno and House artist with 9 upcoming club dates listed on soundcheck as of Fri, 24 Jul 2026, next at RSO.BERLIN, Berlin on Fri, 24 Jul 2026.
 
-Lea Occhi is a techno and house artist tracked on soundcheck, with 177 sets logged across Amsterdam, Athens, Barcelona and Basel and 38 more. Often billed alongside Toscan Haas, Amotik and Lobster (NL). Next up: RSO.BERLIN, Berlin on Fri 24 Jul.
+Lea Occhi is a techno and house artist tracked on soundcheck, with 178 sets logged across Amsterdam, Athens, Barcelona and Basel and 38 more. Often billed alongside Toscan Haas, Amotik and Lobster (NL). Next up: RSO.BERLIN, Berlin on Fri 24 Jul.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 24 Jul 2026 | RSO.BERLIN | Berlin |
+| Sun, 26 Jul 2026 | La Station - Gare des Mines | Paris |
 | Wed, 29 Jul 2026 | Amsterdamse Bos | Amsterdam |
 | Sun, 2 Aug 2026 | Amsterdamse Bos | Amsterdam |
 | Sat, 8 Aug 2026 | TBA - Seebruck - Chiemsee | Munich |

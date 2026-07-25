@@ -9,6 +9,6 @@ TBA - Bushwick is a music venue in Newyorkcity listed on soundcheck. 2 upcoming 
 | Date | Night | Line-up |
 | --- | --- | --- |
 | Fri, 31 Jul 2026 | Vantage presents: FOLDED | Daybreak, Devoye, JULIEN (NYC), Knostalgia, SSG_ |
-| Fri, 31 Jul 2026 | Station Sessions: 000 | BLAIZE, DEE-MEE, Petal, jo_sway |
+| Fri, 31 Jul 2026 | Station Sessions: 000 | BLAIZE, DEE-MEE, Pètal, jo_sway |
 
 *Updated Fri, 24 Jul 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/tba-bushwick/)*

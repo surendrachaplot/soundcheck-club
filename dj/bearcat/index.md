@@ -1,8 +1,8 @@
 # BEARCAT
 
-BEARCAT is a Techno and Club artist with 2 upcoming club dates listed on soundcheck as of Fri, 24 Jul 2026, next at Paragon, New York City on Fri, 7 Aug 2026.
+BEARCAT is a Techno and Club artist with 3 upcoming club dates listed on soundcheck as of Fri, 24 Jul 2026, next at Paragon, New York City on Fri, 7 Aug 2026.
 
-BEARCAT is a techno and club artist tracked on soundcheck, with 94 sets logged across Amsterdam, Berlin, Chicago and Leipzig and 10 more. Often billed alongside Byrell The Great, planetperris and Shyboi. Next up: Paragon, Newyorkcity on Fri 7 Aug.
+BEARCAT is a techno and club artist tracked on soundcheck, with 95 sets logged across Amsterdam, Berlin, Chicago and Leipzig and 10 more. Often billed alongside Byrell The Great, planetperris and Shyboi. Next up: Paragon, Newyorkcity on Fri 7 Aug.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ BEARCAT is a techno and club artist tracked on soundcheck, with 94 sets logged a
 | --- | --- | --- |
 | Fri, 7 Aug 2026 | Paragon | New York City |
 | Fri, 21 Aug 2026 | Bossa Nova Civic Club | New York City |
+| Fri, 28 Aug 2026 | Bossa Nova Civic Club | New York City |
 
 ## Recently played
 

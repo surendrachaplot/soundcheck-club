@@ -1,8 +1,8 @@
 # Immy
 
-Immy is a House and Techno artist with 6 upcoming club dates listed on soundcheck as of Fri, 24 Jul 2026, next at ÆDEN x MARMORBAR: Fields & Spaces, Berlin on Sat, 25 Jul 2026.
+Immy is a House and Techno artist with 7 upcoming club dates listed on soundcheck as of Fri, 24 Jul 2026, next at ÆDEN x MARMORBAR: Fields & Spaces, Berlin on Sat, 25 Jul 2026.
 
-Immy is a house and techno artist tracked on soundcheck, with 95 sets logged across Berlin, Brussels, Cologne and Copenhagen and 3 more. Often billed alongside Triqi, DJ NORTHERN and Jana Falcon. Next up: ÆDEN x MARMORBAR: Fields & Spaces, Berlin on Sat 25 Jul.
+Immy is a house and techno artist tracked on soundcheck, with 96 sets logged across Berlin, Brussels, Cologne and Copenhagen and 3 more. Often billed alongside Triqi, DJ NORTHERN and Jana Falcon. Next up: ÆDEN x MARMORBAR: Fields & Spaces, Berlin on Sat 25 Jul.
 
 ## Upcoming shows
 
@@ -12,6 +12,7 @@ Immy is a house and techno artist tracked on soundcheck, with 95 sets logged acr
 | Sat, 25 Jul 2026 | Kater | Berlin |
 | Sat, 8 Aug 2026 | SAGE | Berlin |
 | Sun, 9 Aug 2026 | Haus der Visionäre | Berlin |
+| Fri, 14 Aug 2026 | TBA - Brooklyn Loft Location <3 | New York City |
 | Sat, 29 Aug 2026 | BASEMENT | New York City |
 | Fri, 16 Oct 2026 | C12 | Brussels |
 

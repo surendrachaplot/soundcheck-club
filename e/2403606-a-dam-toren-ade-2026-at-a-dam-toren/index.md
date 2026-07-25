@@ -1,6 +1,6 @@
 # A'DAM Toren ADE 2026 at A'DAM Toren
 
-A'DAM Toren ADE 2026 on Wed 21 Oct, Amsterdam. 28 acts on the bill: Aline Rocha, Anil Aras, Cinthie and David Penn and 24 more. House. Preview the line-up and save it on soundcheck.
+A'DAM Toren ADE 2026 on Wed 21 Oct, Amsterdam. 35 acts on the bill: Ajuma, Aline Rocha, Anil Aras and CHEWCHEW and 31 more. House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,9 +10,12 @@ A'DAM Toren ADE 2026 on Wed 21 Oct, Amsterdam. 28 acts on the bill: Aline Rocha,
 
 ## Line-up
 
+- Ajuma
 - Aline Rocha
 - Anil Aras
+- CHEWCHEW
 - Cinthie
+- DJ Tennis
 - David Penn
 - Dusky
 - Easttown
@@ -25,17 +28,21 @@ A'DAM Toren ADE 2026 on Wed 21 Oct, Amsterdam. 28 acts on the bill: Aline Rocha,
 - Job de Jong
 - Joëlla Jackson
 - Julian Anthony
+- Kamma
 - Kitty Amor
 - Laidlaw
 - Liam Palmer
 - Locklead
 - Low Steppa
 - Marsolo
+- Masalo
 - Mason Collective
 - Mousse T.
 - Obskur
 - ROOG
+- Retromigration
 - Ryan Elliott
+- Sedef Adasï
 - Truly Madly
 - bullet tooth
 

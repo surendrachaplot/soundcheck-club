@@ -16,7 +16,7 @@ Fuchs2 is a music venue in Prague listed on soundcheck. 12 upcoming nights, with
 | Fri, 7 Aug 2026 | ALLNIGHTER PRIDE EDITION: B-Complex ☆ TRANSmisia | TRANSmisia |
 | Sat, 8 Aug 2026 | MAGION 04 *Pride's Afterparty* | Adamatron, Axis Alpha, Dj Poperz, JöëK, Mike Starr, Pink Concrete, Refrig, TerminusTechnikus, frujty |
 | Fri, 14 Aug 2026 | ELYSIA - BRAZILIAN FUNK at SALO with MANLIKEBEDI, Vialla, VIBECHIEF, DJ NÁVÍ | Reba, Vialla |
-| Fri, 4 Sept 2026 | DYS x RAUM Records with MARRØN | Colum Urton, GEISTFREI, MARRØN, Melchiorr, Nepomuk, Nepōmuk, Verhall, White Aura, aláya, manu abeca |
+| Fri, 4 Sept 2026 | DYS x RAUM Records with MARRØN, GEISTFREI, aláya, White Aura  | Colum Urton, GEISTFREI, MARRØN, Melchiorr, Nepomuk, Nepōmuk, Verhall, White Aura, aláya, manu abeca |
 | Sat, 5 Sept 2026 | CANNA presents MELTING POT SOUNDCLASH: Conscious Soldiers vs Firesound | Peeni Walli |
 
 ## Address

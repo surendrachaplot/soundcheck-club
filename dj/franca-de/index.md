@@ -1,13 +1,14 @@
 # Franca
 
-Franca is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Fri, 24 Jul 2026, next at Kater, Berlin on Fri, 21 Aug 2026.
+Franca is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Fri, 24 Jul 2026, next at gART.n, Berlin on Sun, 9 Aug 2026.
 
-Franca is a house and techno artist tracked on soundcheck, with 88 sets logged across Amsterdam, Berlin, Cologne and Frankfurt and 18 more. Often billed alongside Mimi Love, Britta Arnold and Mira. Next up: Kater, Berlin on Fri 21 Aug.
+Franca is a house and techno artist tracked on soundcheck, with 89 sets logged across Amsterdam, Berlin, Cologne and Frankfurt and 18 more. Often billed alongside Mimi Love, Britta Arnold and Mira. Next up: gART.n, Berlin on Sun 9 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sun, 9 Aug 2026 | gART.n | Berlin |
 | Fri, 21 Aug 2026 | Kater | Berlin |
 | Fri, 11 Sept 2026 | Kater | Berlin |
 

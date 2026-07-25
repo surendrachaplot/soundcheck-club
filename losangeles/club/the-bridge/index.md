@@ -8,7 +8,7 @@ The Bridge is a music venue in Losangeles listed on soundcheck. 9 upcoming night
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Fri, 24 Jul 2026 | STRANGER THAN presents: Stavroz (Live) | Stavroz |
+| Fri, 24 Jul 2026 | STRANGER THAN presents: Stavroz (Live) | Ray Kash, Stavroz |
 | Sun, 26 Jul 2026 | CLOSER x TYF present SUNDANCE with Snooko & Bryan Softwell | Lily Ardalan |
 | Sun, 2 Aug 2026 | Sunday Sessions LA: Krane All Night Long (Vinyl Only) | Krane |
 | Sat, 8 Aug 2026 | Take it Outside | Dick Ensalada, Dor Wand, Heidi Lawden, Juliet Mendoza, Lovefingers, Masha Mar, Natuta, Perfect Lovers, Sonrisita, Things You Say, Xica Soul |

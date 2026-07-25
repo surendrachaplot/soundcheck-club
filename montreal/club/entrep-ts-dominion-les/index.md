@@ -1,14 +1,13 @@
 # Entrepôts Dominion, Les
 
-Entrepôts Dominion, Les is a music venue in Montreal with 2 upcoming nights listed on soundcheck as of Fri, 24 Jul 2026; the next is "[CANCELLED] Momentum 12HRS" on Fri, 24 Jul 2026.
+Entrepôts Dominion, Les is a music venue in Montreal with 1 upcoming night listed on soundcheck as of Fri, 24 Jul 2026; the next is "OUTRAGE 1 - RELOAD" on Fri, 11 Sept 2026.
 
-Entrepôts Dominion, Les is a music venue in Montreal listed on soundcheck. 2 upcoming nights, with line-ups including Crescenzo, Guillaume Michaud, JALO (NL) and Molyness and 2 more. Browse upcoming dates, start times and who's playing. 3968 Rue Saint-Ambroise; Montréal, QC H4C 2E1; Canada.
+Entrepôts Dominion, Les is a music venue in Montreal listed on soundcheck. 1 upcoming night, with line-ups including JALO (NL) and PISAPIA (IT). Browse upcoming dates, start times and who's playing. 3968 Rue Saint-Ambroise; Montréal, QC H4C 2E1; Canada.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Fri, 24 Jul 2026 | [CANCELLED] Momentum 12HRS | Crescenzo, Guillaume Michaud, Molyness, Nicolas Masseyeff |
 | Fri, 11 Sept 2026 | OUTRAGE 1 - RELOAD | JALO (NL), PISAPIA (IT) |
 
 ## Address

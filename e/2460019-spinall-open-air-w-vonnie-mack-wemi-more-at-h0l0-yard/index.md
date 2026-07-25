@@ -1,6 +1,6 @@
 # Spinall Open-Air w. Vonnie Mack, WEMI, & More at H0l0 Yard
 
-Spinall Open-Air w. Vonnie Mack, WEMI, & More at H0l0 Yard on Sat 25 Jul, Newyorkcity. 3 acts on the bill: SYDNI LUV, Vonnie Mack and WEMI. Afro House. Preview the line-up and save it on soundcheck.
+Spinall Open-Air w. Vonnie Mack, WEMI, & More at H0l0 Yard on Sat 25 Jul, Newyorkcity. 3 acts on the bill: SYDNI LUV, Vonnie Mack and WEMI. Afro House and Afrobeats. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
