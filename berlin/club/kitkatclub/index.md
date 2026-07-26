@@ -1,14 +1,15 @@
 # KitKatClub
 
-KitKatClub is a music venue in Berlin with 31 upcoming nights listed on soundcheck as of Sun, 26 Jul 2026; the next is "Nacktfleisch - Berlin Pride / CSD Closing Party 2026" on Sun, 26 Jul 2026.
+KitKatClub is a music venue in Berlin with 38 upcoming nights listed on soundcheck as of Sun, 26 Jul 2026; the next is "Nacktfleisch - Berlin Pride / CSD Closing Party 2026" on Sun, 26 Jul 2026.
 
-KitKatClub is a music venue in Berlin listed on soundcheck. 31 upcoming nights, with line-ups including HANI DAKIN, Acid Foxy, Albin Brezlan and alemiko and 2 more. Browse upcoming dates, start times and who's playing. Köpenicker Strasse 76; Mitte; 10179 Berlin; Germany.
+KitKatClub is a music venue in Berlin listed on soundcheck. 38 upcoming nights, with line-ups including HANI DAKIN, Acid Foxy, Albin Brezlan and alemiko and 2 more. Browse upcoming dates, start times and who's playing. Köpenicker Strasse 76; Mitte; 10179 Berlin; Germany.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
 | Sun, 26 Jul 2026 | Nacktfleisch - Berlin Pride / CSD Closing Party 2026 | Cristian Marras, DJ PERIODT, K-H1, SIMZ (DE) |
+| Sun, 26 Jul 2026 | Nachspiel |  |
 | Mon, 27 Jul 2026 | Electric Monday@KitKat Club on 2 Floors | ANouch, Diego Montiel, Frankie Flowerz, HANI DAKIN, seboro |
 | Wed, 29 Jul 2026 | SYMBIOTIKKA at KitKat Club Berlin | Bonq, DJ Emerson, DJ Jordan |
 | Thu, 30 Jul 2026 | 4 Anniversary of Human Colours w/ Frankie Flowerz / Ricardo Rodriguez / Somaphon (2 Floors) | Frankie Flowerz, Milk N Coffee, Rene Oldenburg, Somaphon |
@@ -17,7 +18,6 @@ KitKatClub is a music venue in Berlin listed on soundcheck. 31 upcoming nights, 
 | Sun, 2 Aug 2026 | Nachspiel | Fran-Cee, Onkel Tom |
 | Mon, 3 Aug 2026 | Electric Monday@KitKat Club on 2 Floors | Diana May, Frankie Flowerz, Melon Blush, Sylvie Maziarz |
 | Wed, 5 Aug 2026 | SYMBIOTIKKA at KitKat Club Berlin | DJ Jordan, Dirty Doering, Melanchromie, Nick Schwenderling |
-| Thu, 6 Aug 2026 | UNITY AT KITKAT CLUB | Joe Shmoo, Wiebe Roose |
 
 ## Address
 

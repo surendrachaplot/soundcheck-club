@@ -1,8 +1,8 @@
 # James Harbrecht
 
-James Harbrecht is a Techno and Trance artist with 3 upcoming club dates listed on soundcheck as of Sun, 26 Jul 2026, next at Gaffe, London on Sat, 8 Aug 2026.
+James Harbrecht is a Techno and Trance artist with 4 upcoming club dates listed on soundcheck as of Sun, 26 Jul 2026, next at Gaffe, London on Sat, 8 Aug 2026.
 
-James Harbrecht is a techno and trance artist based in United Kingdom, tracked on soundcheck, with 23 sets logged across Barcelona, London, Mexicocity and Milan and 1 more. Often billed alongside H Grade, Ylia (UK) and GIZZI. Next up: Gaffe, London on Sat 8 Aug.
+James Harbrecht is a techno and trance artist based in United Kingdom, tracked on soundcheck, with 24 sets logged across Amsterdam, Barcelona, London and Mexicocity and 2 more. Often billed alongside H Grade, Ylia (UK) and GIZZI. Next up: Gaffe, London on Sat 8 Aug.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ James Harbrecht is a techno and trance artist based in United Kingdom, tracked o
 | --- | --- | --- |
 | Sat, 8 Aug 2026 | Gaffe | London |
 | Sun, 9 Aug 2026 | NUMBER 90 LONDON | London |
+| Sat, 22 Aug 2026 | TILLATEC | Amsterdam |
 | Sun, 27 Sept 2026 | Starlane Pizza Bar | London |
 
 ## Recently played

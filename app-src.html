@@ -3255,7 +3255,7 @@
     }
     @media (max-width:620px){ :root{ --gut:18px; } }
 </style>
-<meta name="sc-build" content="1785088437831">
+<meta name="sc-build" content="1785089678271">
 </head>
 <body>
   <main class="wrap">
@@ -3504,7 +3504,7 @@
     // tens of KB. Omit w to get the original.
     function imgUrl(u, w){ return API_BASE+'/api/img?u='+encodeURIComponent(u)+(w?('&w='+w):''); }
     function posterHTML(ev){
-      var img=ev.poster?'<img class="real" loading="lazy" decoding="async" src="'+imgUrl(ev.poster,600)+'" alt="" onerror="this.style.display=\'none\'">':'';
+      var img=ev.poster?'<img class="real" loading="lazy" decoding="async" src="'+imgUrl(ev.poster,600)+'" alt="'+attrEsc(ev.title||'Club night')+' poster" onerror="this.style.display=\'none\'">':'';
       return '<div class="poster">'+genPoster(ev.title||'Event')+img+'<span class="tint"></span></div>';
     }
 
@@ -3856,7 +3856,7 @@
       dockMedia.innerHTML='';
       // album art fills the stage (no video for SoundCloud); the iframe plays hidden
       var art=document.createElement('div'); art.className='poster stage-art';
-      art.innerHTML=genPoster(btn.dataset.name||'Now playing')+(btn.dataset.poster?'<img class="real" src="'+imgUrl(btn.dataset.poster,800)+'" alt="" onerror="this.style.display=\'none\'">':'')+'<span class="tint"></span>';
+      art.innerHTML=genPoster(btn.dataset.name||'Now playing')+(btn.dataset.poster?'<img class="real" src="'+imgUrl(btn.dataset.poster,800)+'" alt="'+attrEsc((btn.dataset.name||'Now playing')+' artwork')+'" onerror="this.style.display=\'none\'">':'')+'<span class="tint"></span>';
       dockMedia.appendChild(art);
       dockMedia.appendChild(f);
       openDockUI(btn,btn.dataset.name||'Now playing',btn.dataset.venue||'SoundCloud', true); // open expanded (web + mobile); chevron collapses
@@ -5384,7 +5384,7 @@
       var rx=e.reactions||{down:[],maybe:[],nah:[]}, down=rx.down||[], maybe=rx.maybe||[], nah=rx.nah||[];
       var mine= down.indexOf(myP)>=0?'down':(maybe.indexOf(myP)>=0?'maybe':(nah.indexOf(myP)>=0?'nah':null));
       var front= down.length>0 && down.length===maxDown ? ' front' : '';
-      var poster= e.poster_url ? '<img class="real" loading="lazy" decoding="async" src="'+imgUrl(e.poster_url,200)+'" alt="" onerror="this.style.display=\'none\'">' : '';
+      var poster= e.poster_url ? '<img class="real" loading="lazy" decoding="async" src="'+imgUrl(e.poster_url,200)+'" alt="'+attrEsc((e.title||'Club night')+' poster')+'" onerror="this.style.display=\'none\'">' : '';
       var dnames= down.map(function(pid){ return members[pid]?members[pid].name:''; }).filter(Boolean);
       var dav= down.slice(0,6).map(function(pid){ var m=members[pid]; return m?'<span class="nstack-av" style="background-image:'+nightAv(m)+'" title="'+esc(m.name||'')+'"></span>':''; }).join('');
       function pill(k){ var arr=k==='down'?down:(k==='maybe'?maybe:nah); var on=mine===k?' on':''; return '<button class="rx-pill '+k+on+'" data-evt="'+esc(e.id)+'" data-rx="'+k+'" type="button">'+RX_META[k].e+' '+RX_META[k].l+(arr.length?' <b>'+arr.length+'</b>':'')+'</button>'; }
@@ -5734,7 +5734,7 @@
     // gradient artist tiles (reuse the poster hue hash)
     function artGrad(s){ var h=((hashStr(String(s||'x'))%70)+330)%360; return 'linear-gradient(150deg,hsl('+h+' 62% 50%),hsl('+((h+22)%360)+' 42% 14%))'; }
     function ptile(slug,name,seen,image,count){
-      var img=image?'<img class="pimg" loading="lazy" decoding="async" src="'+imgUrl(image,300)+'" alt="" onerror="this.remove()">':'';
+      var img=image?'<img class="pimg" loading="lazy" decoding="async" src="'+imgUrl(image,300)+'" alt="'+attrEsc((name||slug)+' portrait')+'" onerror="this.remove()">':'';
       // "×N" = times seen live (from the gig diary); only shown for repeat catches (≥2).
       var badge=(count&&count>=2)?'<span class="ptile-x" title="Seen '+count+' times">&times;'+count+'</span>':'';
       return '<a class="ptile nav" href="'+esc(djHref(slug))+'" data-artist="'+esc(slug)+'"><span class="ptile-imgwrap"><span class="ptile-img'+(image?' has-img':'')+'" style="background:'+artGrad(name||slug)+'">'+img+'</span>'+badge+'</span><span class="nm">'+esc(name||slug)+'</span></a>';
@@ -6546,7 +6546,7 @@
     function upAv(kind, key, name, image, avatar){
       var sq = kind==='venue' ? ' sq' : '';
       var bg = avatarBg(kind==='friend' ? key : (key||name), kind==='friend' ? avatar : null);
-      var img = (kind!=='friend' && image) ? '<img src="'+imgUrl(image,120)+'" alt="" loading="lazy" decoding="async" onerror="this.remove()">' : '';
+      var img = (kind!=='friend' && image) ? '<img src="'+imgUrl(image,120)+'" alt="'+attrEsc(String(name||'')+(kind==='venue'?' venue photo':' portrait'))+'" loading="lazy" decoding="async" onerror="this.remove()">' : '';
       return '<span class="cu-av'+sq+'" style="background-image:'+bg+'">'+img+'</span>';
     }
     function upGigLine(g, kind, hidden){
@@ -6996,7 +6996,7 @@
         var r=await authedFetch('/api/artist?slug='+encodeURIComponent(slug)); var a=await r.json();
         var mine=artStatus(slug);
         var nextGig=(a.upcoming&&a.upcoming[0])||null;
-        var img=a.image?'<img loading="lazy" decoding="async" src="'+imgUrl(a.image,600)+'" alt="" onerror="this.remove()">':'';
+        var img=a.image?'<img loading="lazy" decoding="async" src="'+imgUrl(a.image,600)+'" alt="'+attrEsc((a.name||slug)+' artist portrait')+'" onerror="this.remove()">':'';
         var fmtK=function(n){ n=+n||0; return n>=1000?(n/1000).toFixed(n>=10000?0:1).replace(/\.0$/,'')+'K':(n||''); };
         // Kick line = their next show (venue, city); falls back to country when nothing's booked.
         var _ndl=(nextGig&&nextGig.event_date)?fmtDateLabel(String(nextGig.event_date).slice(0,10)):'';
@@ -7420,7 +7420,7 @@
         // Venue hero — the SAME bespoke fp-hero structure as the artist page:
         // photo block (image or generative) + kick line + big name w/ website + acts row.
         var vNext=nextPlayableEvent(v.upcoming);
-        var vImg=v.image?'<img loading="lazy" decoding="async" src="'+imgUrl(v.image,600)+'" alt="" onerror="this.remove()">':'<span class="fp-press-gen" style="background:'+avatarBg(v.slug||dispName,null)+'"></span>';
+        var vImg=v.image?'<img loading="lazy" decoding="async" src="'+imgUrl(v.image,600)+'" alt="'+attrEsc(dispName+' venue photo')+'" onerror="this.remove()">':'<span class="fp-press-gen" style="background:'+avatarBg(v.slug||dispName,null)+'"></span>';
         // Kick line = who's playing next here (their line-up); falls back to area · city.
         var vNextArts=(vNext&&vNext.lineup)?vNext.lineup.map(function(a){ return a.name; }).filter(Boolean):[];
         var _vndl=(vNext&&vNext.event_date)?fmtDateLabel(String(vNext.event_date).slice(0,10)):'';
@@ -8077,7 +8077,7 @@
         scOnboard('log');
       });
     }
-    function obLoggedRow(g){ return (g.poster_url?'<img src="'+attrEsc(imgUrl(g.poster_url,120))+'" alt="">':'<span class="ph">'+esc((g.title||'?').slice(0,1))+'</span>'); }
+    function obLoggedRow(g){ return (g.poster_url?'<img src="'+attrEsc(imgUrl(g.poster_url,120))+'" alt="'+attrEsc((g.title||'Club night')+' poster')+'">':'<span class="ph">'+esc((g.title||'?').slice(0,1))+'</span>'); }
     function obStepLog(){
       var el=obBody('<div class="ob-eyebrow">Step 2 of 4</div>'+
         '<h1 class="ob-h1">Which nights were you at?</h1>'+
@@ -8140,7 +8140,7 @@
           if(!arts.length){ scOnboard('card'); return; }
           grid.innerHTML=arts.map(function(a,i){
             return '<button type="button" class="ob-tile" data-i="'+i+'" data-slug="'+attrEsc(a.slug)+'" data-name="'+attrEsc(a.name)+'">'+
-              (a.image_url?'<img src="'+attrEsc(imgUrl(a.image_url,300))+'" alt="" loading="lazy">':'<span class="ph">'+esc((a.name||'?').slice(0,1))+'</span>')+
+              (a.image_url?'<img src="'+attrEsc(imgUrl(a.image_url,300))+'" alt="'+attrEsc((a.name||'')+' portrait')+'" loading="lazy">':'<span class="ph">'+esc((a.name||'?').slice(0,1))+'</span>')+
               '<span class="nm">'+esc(a.name)+'</span><span class="tick">✓</span></button>';
           }).join('');
         }).catch(function(){ scOnboard('card'); });
