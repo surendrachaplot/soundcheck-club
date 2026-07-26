@@ -3206,6 +3206,48 @@
     .ob-card{ margin:4px 0 6px; max-width:340px; width:100%; border-radius:var(--radius-lg); border:1px solid var(--border); box-shadow:0 24px 60px rgba(0,0,0,0.5); }
     .ob-ctarow{ display:flex; align-items:center; gap:14px; flex-wrap:wrap; }
     @media (min-width:700px){ .ob-wrap{ padding-top:8vh; } }
+    /* ── intro carousel: one promise per screen, a real slice of the product
+       under it, dots at the foot. Swipe or tap the dots. ──────────────────── */
+    .ob-car{ display:flex; overflow-x:auto; scroll-snap-type:x mandatory; scroll-behavior:smooth; -webkit-overflow-scrolling:touch; scrollbar-width:none; margin:0 -22px; flex:1; }
+    .ob-car::-webkit-scrollbar{ display:none; }
+    .ob-slide{ min-width:100%; scroll-snap-align:center; padding:0 22px; display:flex; flex-direction:column; }
+    .ob-slide h2{ font-family:var(--head); font-weight:800; font-size:clamp(1.5rem,5.4vw,1.9rem); line-height:1.14; letter-spacing:-0.02em; text-align:center; }
+    .ob-slide .s{ color:var(--muted); font-size:var(--fs-base); line-height:1.5; text-align:center; margin:10px 0 22px; }
+    .ob-stage{ flex:1; min-height:0; }
+    /* preview: artist actions */
+    .ob-pv{ background:var(--surface); border:1px solid var(--border); border-radius:var(--radius-lg); overflow:hidden; }
+    .ob-pvart{ height:180px; background-size:cover; background-position:center; border-radius:var(--radius-md); margin-bottom:-22px; }
+    .ob-acts{ display:flex; border-bottom:1px solid var(--border); }
+    .ob-acts span{ flex:1; text-align:center; padding:15px 4px 12px; }
+    .ob-acts b{ display:block; font-size:20px; line-height:1; color:var(--muted); }
+    .ob-acts b.on{ color:var(--sel); }
+    .ob-acts b.pl{ background:var(--accent-grad); -webkit-background-clip:text; background-clip:text; color:transparent; }
+    .ob-acts i{ display:block; font-style:normal; font-size:11px; color:var(--muted); margin-top:7px; }
+    .ob-acts span.on i{ color:var(--fg); }
+    .ob-pvrow{ padding:13px 15px; border-bottom:1px solid var(--border); font-size:var(--fs-base); font-weight:600; }
+    .ob-pvrow.d{ color:var(--muted); } .ob-pvrow.dd{ color:rgba(169,159,206,.45); }
+    /* preview: rows (log / diary / feed / playlist) */
+    .ob-rw{ display:flex; align-items:center; gap:11px; padding:10px 0; border-bottom:1px solid var(--border); }
+    .ob-rw .th{ width:46px; height:46px; border-radius:8px; background:var(--surface-2); background-size:cover; background-position:center; flex:0 0 auto; }
+    .ob-rw .tx{ flex:1; min-width:0; }
+    .ob-rw .tx b{ display:block; font-size:var(--fs-base); font-weight:700; white-space:nowrap; overflow:hidden; text-overflow:ellipsis; }
+    .ob-rw .tx i{ display:block; font-style:normal; color:var(--muted); font-size:var(--fs-sm); margin-top:3px; white-space:nowrap; overflow:hidden; text-overflow:ellipsis; }
+    .ob-rw .tx i.ac{ color:var(--accent); font-weight:600; }
+    .ob-rw .pin{ width:28px; height:28px; border-radius:50%; border:1.5px solid var(--line-2); color:var(--muted); display:flex; align-items:center; justify-content:center; font-size:14px; flex:0 0 auto; }
+    .ob-rw .pin.on{ background:var(--sel); border-color:var(--sel); color:var(--sel-ink); }
+    .ob-rw .play{ width:30px; height:30px; border-radius:50%; background:var(--accent-grad); color:#fff; display:flex; align-items:center; justify-content:center; font-size:11px; flex:0 0 auto; }
+    .ob-date{ width:40px; flex:0 0 auto; text-align:center; border:1px solid var(--line-2); border-radius:8px; padding:5px 0; }
+    .ob-date b{ display:block; font:800 15px var(--head); line-height:1; }
+    .ob-date i{ display:block; font-style:normal; font-size:9px; color:var(--muted); letter-spacing:.08em; margin-top:2px; }
+    .ob-month{ background:var(--surface); border-radius:8px; padding:8px 12px; font:700 var(--fs-xs) var(--font-mono); letter-spacing:.18em; color:var(--muted); margin-bottom:4px; }
+    .ob-fld{ background:rgba(255,255,255,.06); border-radius:10px; padding:11px 14px; font-size:15px; margin-bottom:12px; }
+    .ob-cnt{ margin-top:12px; font:700 var(--fs-xs) var(--font-mono); letter-spacing:.08em; text-transform:uppercase; color:var(--muted); }
+    .ob-cnt b{ color:var(--accent); }
+    .ob-cardimg{ width:100%; border-radius:var(--radius-md); border:1px solid var(--border); display:block; }
+    /* dots double as taps */
+    .ob-cdots{ display:flex; gap:8px; justify-content:center; padding:16px 0 4px; }
+    .ob-cdots button{ width:8px; height:8px; padding:0; border:0; border-radius:50%; background:var(--surface-2); cursor:pointer; }
+    .ob-cdots button.on{ background:var(--accent); }
     .pf-seg-row{ display:flex; align-items:center; justify-content:space-between; gap:10px; }
     .pf-seg-row .pf-seg{ margin:0; }
 
@@ -3255,7 +3297,7 @@
     }
     @media (max-width:620px){ :root{ --gut:18px; } }
 </style>
-<meta name="sc-build" content="1785089678271">
+<meta name="sc-build" content="1785091879076">
 </head>
 <body>
   <main class="wrap">
@@ -4377,7 +4419,7 @@
     });
     document.getElementById('bnav-search').addEventListener('click',function(){ openSearch(); });
     document.getElementById('bnav-radio').addEventListener('click',function(){ openRadio(); });
-    document.getElementById('bnav-profile').addEventListener('click',function(){ whenAuthKnown().then(function(){ if(currentUser) openAccount(); else scOnboard('email'); }); });
+    document.getElementById('bnav-profile').addEventListener('click',function(){ whenAuthKnown().then(function(){ if(currentUser) openAccount(); else scOnboard('intro'); }); });
     // Canonical SEO hrefs for entities — used to render real <a> links (hover URL,
     // right-click "open in new tab", middle/cmd-click all work natively) and as the
     // fallback resolver for any nav element that isn't yet an anchor.
@@ -7972,8 +8014,9 @@
       skip.onclick = function(){ scOnboard(step==='log'?'suggest':'card'); };
     }
     function scOnboard(step){
-      if(step!=='email' && step!=='inbox' && !currentUser){ step='email'; }
+      if(step!=='intro' && step!=='email' && step!=='inbox' && !currentUser){ step='email'; }
       obChrome(step);
+      if(step==='intro') return obStepIntro();
       if(step==='email') return obStepEmail();
       if(step==='inbox') return obStepInbox();
       if(step==='city') return obStepCity();
@@ -7981,6 +8024,104 @@
       if(step==='suggest') return obStepSuggest();
       if(step==='card') return obStepCard();
     }
+    // ── INTRO CAROUSEL ────────────────────────────────────────────────────
+    // Six slides, one promise each, every preview built from tonight's REAL
+    // listings (one /api/app/feed call, shared with the poster wall) so the
+    // product is doing the selling. Ends on the scene card → email step.
+    var _obFeed=null;
+    function obFeed(){
+      if(_obFeed) return Promise.resolve(_obFeed);
+      return pubGet('/api/app/feed?city='+encodeURIComponent(_ob.city||currentCity||'london'))
+        .then(function(j){ _obFeed=(j&&j.events)||[]; return _obFeed; }).catch(function(){ return []; });
+    }
+    function obDateTile(iso){
+      var d=new Date(iso+'T12:00:00Z');
+      return '<span class="ob-date"><b>'+d.getUTCDate()+'</b><i>'+d.toLocaleDateString('en-GB',{month:'short',timeZone:'UTC'}).toUpperCase()+'</i></span>';
+    }
+    function obSlidesHTML(evs){
+      var e0=evs[0]||{}, poster=function(e,w){ return e&&e.poster?imgUrl(e.poster,w||160):''; };
+      var acts=function(e){ return ((e&&e.artists)||[]).map(function(a){ return a.name; }); };
+      var row=function(e,right){
+        return '<div class="ob-rw">'+(poster(e)?'<span class="th" style="background-image:url('+poster(e)+')"></span>':'<span class="th"></span>')+
+          '<span class="tx"><b>'+esc(e.title||'Club night')+'</b><i>'+esc([e.venue].filter(Boolean).join(' · '))+'</i></span>'+(right||'')+'</div>';
+      };
+      // 1 · artist actions
+      var s1='<div class="ob-stage">'+(poster(e0,600)?'<div class="ob-pvart" style="background-image:url('+poster(e0,600)+')"></div>':'')+
+        '<div class="ob-pv"><div class="ob-acts">'+
+          '<span class="on"><b class="on">✓</b><i>Seen live</i></span>'+
+          '<span><b>♡</b><i>Wanna see</i></span>'+
+          '<span><b class="pl">▶</b><i>Play a set</i></span></div>'+
+        '<div class="ob-pvrow">Log a gig with '+esc((acts(e0)[0])||'them')+'</div>'+
+        '<div class="ob-pvrow">Add to a playlist</div>'+
+        '<div class="ob-pvrow d">Go to artist</div>'+
+        '<div class="ob-pvrow dd">Share</div></div></div>';
+      // 2 · quick log
+      var s2='<div class="ob-stage"><div class="ob-pv" style="padding:14px 13px">'+
+        '<div class="ob-eyebrow" style="margin-bottom:8px">SEARCH A NIGHT</div>'+
+        '<div class="ob-fld">'+esc((e0.venue||'fabric').toLowerCase())+'</div>'+
+        evs.slice(0,3).map(function(e,i){ return row(e,'<span class="pin'+(i===0?' on':'')+'">'+(i===0?'✓':'+')+'</span>'); }).join('')+
+        '<div class="ob-cnt"><b>1</b> logged · keep going</div></div></div>';
+      // 3 · the diary
+      var s3='<div class="ob-stage"><div class="ob-month">THIS MONTH</div>'+
+        evs.slice(0,6).map(function(e){
+          var a=acts(e);
+          return '<div class="ob-rw">'+obDateTile((e.startTime||'').slice(0,10)||new Date().toISOString().slice(0,10))+
+            (poster(e)?'<span class="th" style="background-image:url('+poster(e)+')"></span>':'<span class="th"></span>')+
+            '<span class="tx"><b>'+esc(e.venue||'Club night')+'</b><i class="ac">'+esc(a.slice(0,2).join(', ')+(a.length>2?' +'+(a.length-2):''))+'</i></span></div>';
+        }).join('')+'</div>';
+      // 4 · friends
+      var who=['maya','theo','ren','kaya'], verb=['logged','is going to','marked seen','shared a playlist'];
+      var s4='<div class="ob-stage">'+evs.slice(0,4).map(function(e,i){
+        var a=acts(e);
+        return '<div class="ob-rw"><span class="th" style="border-radius:50%;background:'+sceneTone(who[i])+'"></span>'+
+          '<span class="tx"><b>u/'+who[i]+' <span style="color:var(--muted);font-weight:400">'+verb[i]+'</span> '+esc(i===2?(a[0]||e.venue||'an artist'):(e.venue||e.title||''))+'</b>'+
+          '<i>'+esc(a.slice(0,2).join(', ')||e.title||'')+'</i></span></div>';
+      }).join('')+'</div>';
+      // 5 · playlists + sets
+      var s5='<div class="ob-stage"><div class="fp-tabs" style="margin:0 0 12px"><button class="fp-tab on" type="button">Playlists</button><button class="fp-tab" type="button">Queue</button><button class="fp-tab" type="button">Listened</button></div>'+
+        '<div style="margin-bottom:10px"><b style="font:800 1.15rem var(--head)">Warehouse warmup</b><div style="color:var(--muted);font-size:var(--fs-sm)">'+evs.length+' sets · shared with 4 friends</div></div>'+
+        evs.slice(0,5).map(function(e){ var a=acts(e);
+          return '<div class="ob-rw">'+(poster(e)?'<span class="th" style="background-image:url('+poster(e)+')"></span>':'<span class="th"></span>')+
+          '<span class="tx"><b>'+esc(a[0]||e.title||'Set')+'</b><i>'+esc(e.venue||'')+'</i></span><span class="play">'+PLAY_SVG_SM+'</span></div>'; }).join('')+'</div>';
+      // 6 · the scene card
+      var s6='<div class="ob-stage" style="display:flex;align-items:center"><div style="width:100%">'+
+        '<img class="ob-cardimg" alt="Example scene card" src="'+attrEsc(API_BASE+'/api/card?u=surendra')+'">'+
+        '</div></div>';
+      return [
+        { h:'Every artist you&rsquo;ve seen,<br>on the record', s:'Mark them seen, save the ones you want to catch, play their sets.', b:s1 },
+        { h:'Log a night<br>in two taps', s:'Search the night, tap it. The whole line-up is marked seen.', b:s2 },
+        { h:'Your gig diary,<br>month by month', s:'Every night you&rsquo;ve been to, with who played.', b:s3 },
+        { h:'Follow your people', s:'See what they&rsquo;re catching, and where they&rsquo;re going next.', b:s4 },
+        { h:'Playlists, sets<br>and the scene', s:'Build playlists from the bills you love. Every set, one tap away.', b:s5 },
+        { h:'Your scene card', s:'You, in artists. Post it to your story or the group chat.', b:s6 },
+      ];
+    }
+    var PLAY_SVG_SM='<svg viewBox="0 0 24 24" width="11" height="11" fill="currentColor" aria-hidden="true"><path d="M8 5v14l11-7z"/></svg>';
+    function obStepIntro(){
+      var el=obBody('<div class="ob-car" id="ob-car"></div>'+
+        '<div class="ob-cdots" id="ob-cd"></div>'+
+        '<button class="ob-cta" id="ob-introgo" type="button">Get started</button>'+
+        '<button class="ob-alt" id="ob-introskip" type="button">Not now &mdash; just look around</button>');
+      el.classList.add('ob-mid');
+      var car=el.querySelector('#ob-car'), cd=el.querySelector('#ob-cd');
+      function paint(slides){
+        car.innerHTML=slides.map(function(s){ return '<section class="ob-slide"><h2>'+s.h+'</h2><p class="s">'+s.s+'</p>'+s.b+'</section>'; }).join('');
+        cd.innerHTML=slides.map(function(_,i){ return '<button type="button" data-i="'+i+'" class="'+(i?'':'on')+'" aria-label="Slide '+(i+1)+'"></button>'; }).join('');
+        var w=function(){ return car.clientWidth||1; };
+        cd.addEventListener('click',function(e){ var b=e.target.closest('[data-i]'); if(b) car.scrollTo({ left:(+b.dataset.i)*w(), behavior:'smooth' }); });
+        car.addEventListener('scroll',function(){
+          var i=Math.round(car.scrollLeft/w());
+          cd.querySelectorAll('button').forEach(function(b,j){ b.classList.toggle('on', j===i); });
+          var go=el.querySelector('#ob-introgo'); if(go) go.textContent = i===slides.length-1 ? 'Get my scene card' : 'Get started';
+        }, { passive:true });
+      }
+      paint(obSlidesHTML([]));                       // instant frame (no images yet)
+      obFeed().then(function(evs){ if(evs.length && document.getElementById('ob-car')) paint(obSlidesHTML(evs)); });
+      el.querySelector('#ob-introgo').addEventListener('click',function(){ scOnboard('email'); });
+      el.querySelector('#ob-introskip').addEventListener('click',obClose);
+      obPosterWall();
+    }
+
     // Tonight's real posters as a dimmed wall behind the sign-up copy (mirrors
     // the profile hero). Fails silent — no wall, just the dusk ground.
     function obPosterWall(){
