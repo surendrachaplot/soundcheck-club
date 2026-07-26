@@ -1,6 +1,6 @@
 # Holocene
 
-Holocene is a music venue in Portland with 4 upcoming nights listed on soundcheck as of Sat, 25 Jul 2026; the next is "Global Based PRESENTS: MCR-T (Berlin)" on Sat, 1 Aug 2026.
+Holocene is a music venue in Portland with 4 upcoming nights listed on soundcheck as of Sun, 26 Jul 2026; the next is "Global Based PRESENTS: MCR-T (Berlin)" on Sat, 1 Aug 2026.
 
 Holocene is a music venue in Portland listed on soundcheck. 4 upcoming nights, with line-ups including Ben Tactic, Degs, Hommes and Jon AD and 2 more. Browse upcoming dates, start times and who's playing. 1001 SE Morrison; Portland, OR 97214; United States.
 
@@ -17,4 +17,4 @@ Holocene is a music venue in Portland listed on soundcheck. 4 upcoming nights, w
 
 1001 SE Morrison; Portland, OR 97214; United States, Portland
 
-*Updated Sat, 25 Jul 2026 · source: [soundcheck](https://soundcheck.club/portland/club/holocene/)*
+*Updated Sun, 26 Jul 2026 · source: [soundcheck](https://soundcheck.club/portland/club/holocene/)*

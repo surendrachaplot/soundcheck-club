@@ -1,6 +1,6 @@
 # Violent Magic Orchestra
 
-Violent Magic Orchestra is a Techno and Experimental artist with 4 upcoming club dates listed on soundcheck as of Sat, 25 Jul 2026, next at Neue Zukunft, Berlin on Sun, 26 Jul 2026.
+Violent Magic Orchestra is a Techno and Experimental artist with 4 upcoming club dates listed on soundcheck as of Sun, 26 Jul 2026, next at Neue Zukunft, Berlin on Sun, 26 Jul 2026.
 
 Violent Magic Orchestra is a techno and experimental artist tracked on soundcheck, with 51 sets logged across Amsterdam, Barcelona, Berlin and Brussels and 20 more. Often billed alongside VMO, hOLysHiT and Marie Davidson. Next up: Neue Zukunft, Berlin on Sun 26 Jul.
 
@@ -28,4 +28,4 @@ Violent Magic Orchestra is a techno and experimental artist tracked on soundchec
 
 VMO, hOLysHiT, Marie Davidson
 
-*Updated Sat, 25 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/violentmagicorchestra/)*
+*Updated Sun, 26 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/violentmagicorchestra/)*

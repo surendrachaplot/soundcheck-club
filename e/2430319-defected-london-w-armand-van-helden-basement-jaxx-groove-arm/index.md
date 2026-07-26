@@ -24,8 +24,8 @@ Defected London w/ Armand Van Helden, Basement Jaxx, Groove Armada at DRUMSHEDS 
 - Makèz
 - Melvo Baptiste
 - Paisley Jensen
-- RUZE
 - Roger Sanchez
+- RUZE
 - Sam Divine
 - The Shapeshifters
 

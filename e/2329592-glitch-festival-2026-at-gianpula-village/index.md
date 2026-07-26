@@ -1,6 +1,6 @@
 # Glitch Festival 2026 at Gianpula Village
 
-Glitch Festival 2026 at Gianpula Village on Wed 12 Aug, Malta. 95 acts on the bill: AMORAL, ANNĒ, AP (5) and ATRIP and 91 more. Techno and House. Preview the line-up and save it on soundcheck.
+Glitch Festival 2026 at Gianpula Village on Wed 12 Aug, Malta. 95 acts on the bill: Adrian Mills, Alarico, Amelie Lens and AMORAL and 91 more. Techno and House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,26 +10,26 @@ Glitch Festival 2026 at Gianpula Village on Wed 12 Aug, Malta. 95 acts on the bi
 
 ## Line-up
 
+- Adrian Mills
+- Alarico
+- Amelie Lens
 - AMORAL
 - ANNĒ
 - AP (5)
 - ATRIP
-- Adrian Mills
-- Alarico
-- Amelie Lens
-- BASHKKA
-- BLANKA
 - Bad Boombox
+- BASHKKA
 - Bella Claxton
 - Ben Klock
 - Benwal
+- BLANKA
 - Budg
 - Chris Stussy
 - Cloudy
-- DAX J
-- DJ Nobu
 - Damz
 - Daria Kolosova
+- DAX J
+- DJ Nobu
 - Dr Dubplate
 - Echofaze
 - Efdemin
@@ -38,19 +38,21 @@ Glitch Festival 2026 at Gianpula Village on Wed 12 Aug, Malta. 95 acts on the bi
 - FENIM0RE
 - Fenrick
 - Fresh Prince
+- fumi (DE)
 - Funk Tribu
-- GVZ (1)
+- future.666
 - Gabriel Muñoz
 - Georg MT
 - GiGi FM
+- GVZ (1)
 - Helena Lauwaert
 - Hemka
 - Henning Baer
 - Human Safari
 - Hyperaktivist
-- INVERTED (MT)
 - Ignez
 - Ineffekt
+- INVERTED (MT)
 - James Newmarch
 - Job Jobse
 - Johannes Schuster
@@ -76,10 +78,6 @@ Glitch Festival 2026 at Gianpula Village on Wed 12 Aug, Malta. 95 acts on the bi
 - Rene Wise
 - Rødhåd
 - SAIDAH
-- SHDW
-- SPFDJ
-- STK (MT)
-- STÜM
 - Sally C
 - Sam Alfred
 - Sanna Mun
@@ -88,22 +86,24 @@ Glitch Festival 2026 at Gianpula Village on Wed 12 Aug, Malta. 95 acts on the bi
 - Sedef Adasï
 - Sera J
 - Serafina
+- SHDW
 - Silva Bumpa
 - Skin On Skin
+- southstar
+- SPFDJ
 - Spray
 - Spriitzz
 - Stef Mendesidis
+- STK (MT)
+- STÜM
 - THELMA
 - Toobris
 - Ueberrest
-- VTSS
 - Voicedrone
-- WOLTERS
+- VTSS
 - Wata Igarashi
+- WOLTERS
 - X CLUB.
 - YAZMIN (MT)
-- fumi (DE)
-- future.666
-- southstar
 
 *Source: [soundcheck](https://soundcheck.club/e/2329592-glitch-festival-2026-at-gianpula-village/)*

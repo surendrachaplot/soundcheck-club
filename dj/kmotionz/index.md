@@ -1,13 +1,14 @@
 # K Motionz
 
-K Motionz is a Drum & Bass and Bass artist with 3 upcoming club dates listed on soundcheck as of Sat, 25 Jul 2026, next at Lofi, Amsterdam on Sat, 15 Aug 2026.
+K Motionz is a Drum & Bass and Bass artist with 4 upcoming club dates listed on soundcheck as of Sun, 26 Jul 2026, next at Larimer Lounge, Denver on Sat, 1 Aug 2026.
 
-K Motionz is a drum & bass and bass artist tracked on soundcheck, with 77 sets logged across Amsterdam, Antwerp, Auckland and Birmingham and 25 more. Often billed alongside Hybrid Minds, IC3 and Mozey. Next up: Lofi, Amsterdam on Sat 15 Aug.
+K Motionz is a drum & bass and bass artist tracked on soundcheck, with 78 sets logged across Amsterdam, Antwerp, Auckland and Birmingham and 26 more. Often billed alongside Hybrid Minds, IC3 and Mozey. Next up: Larimer Lounge, Denver on Sat 1 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 1 Aug 2026 | Larimer Lounge | Denver |
 | Sat, 15 Aug 2026 | Lofi | Amsterdam |
 | Thu, 3 Sept 2026 | UNO MALTA | Malta |
 | Fri, 9 Oct 2026 | Depot Mayfield | Manchester |
@@ -27,4 +28,4 @@ K Motionz is a drum & bass and bass artist tracked on soundcheck, with 77 sets l
 
 Hybrid Minds, IC3, Mozey
 
-*Updated Sat, 25 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/kmotionz/)*
+*Updated Sun, 26 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/kmotionz/)*

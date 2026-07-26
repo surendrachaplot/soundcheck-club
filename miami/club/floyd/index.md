@@ -1,14 +1,13 @@
 # Floyd
 
-Floyd is a music venue in Miami with 16 upcoming nights listed on soundcheck as of Sat, 25 Jul 2026; the next is "TEED DJ-Kicks Tour" on Sat, 25 Jul 2026.
+Floyd is a music venue in Miami with 15 upcoming nights listed on soundcheck as of Sun, 26 Jul 2026; the next is "House Hats: Murphy's Law" on Sun, 26 Jul 2026.
 
-Floyd is a music venue in Miami listed on soundcheck. 16 upcoming nights, with line-ups including Alci, Ale Acosta, Ammo Avenue and Andrew Azara and 2 more. Browse upcoming dates, start times and who's playing. 34 NE 11th Street Miami, FL 33132.
+Floyd is a music venue in Miami listed on soundcheck. 15 upcoming nights, with line-ups including Alci, Ale Acosta, Ammo Avenue and Andrew Azara and 2 more. Browse upcoming dates, start times and who's playing. 34 NE 11th Street Miami, FL 33132.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Sat, 25 Jul 2026 | TEED DJ-Kicks Tour | Cami di Marzo, Kabinett, SIEGEL (2), TEED |
 | Sun, 26 Jul 2026 | House Hats: Murphy's Law | MEGUSTA, Marte (US), Murphy's Law |
 | Fri, 31 Jul 2026 | Cécille Showcase | Andrew Azara, Lousy Lover, Ms. Mada, Nick Curly |
 | Sat, 1 Aug 2026 | Sistek | Nii Tei, SIEGEL (2), Sistek |
@@ -18,9 +17,10 @@ Floyd is a music venue in Miami listed on soundcheck. 16 upcoming nights, with l
 | Fri, 14 Aug 2026 | Ammo Avenue | Ammo Avenue, Chris Clarke, Natalia Roth |
 | Sat, 15 Aug 2026 | Save Our Souls: Voigtmann | Daizy, Mai iachetti, Voigtmann |
 | Sun, 16 Aug 2026 | getbusy presents: Kyle Walker | Kyle Walker |
+| Fri, 21 Aug 2026 | Leon Vynehall Invites: Aurora Halal | Aurora Halal, Leon Vynehall |
 
 ## Address
 
 34 NE 11th Street Miami, FL 33132, Miami
 
-*Updated Sat, 25 Jul 2026 · source: [soundcheck](https://soundcheck.club/miami/club/floyd/)*
+*Updated Sun, 26 Jul 2026 · source: [soundcheck](https://soundcheck.club/miami/club/floyd/)*

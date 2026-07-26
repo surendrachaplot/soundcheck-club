@@ -1,8 +1,8 @@
 # Fenrick
 
-Fenrick is a Techno and Trance artist with 8 upcoming club dates listed on soundcheck as of Sat, 25 Jul 2026, next at Bowlers Exhibition Centre, Manchester on Sat, 1 Aug 2026.
+Fenrick is a Techno and Trance artist with 9 upcoming club dates listed on soundcheck as of Sun, 26 Jul 2026, next at Bowlers Exhibition Centre, Manchester on Sat, 1 Aug 2026.
 
-Fenrick is a techno and trance artist tracked on soundcheck, with 123 sets logged across Amsterdam, Antwerp, Barcelona and Belfast and 36 more. Often billed alongside EMILIJA, Odymel and Adrian Mills. Next up: Bowlers Exhibition Centre, Manchester on Sat 1 Aug.
+Fenrick is a techno and trance artist tracked on soundcheck, with 124 sets logged across Amsterdam, Antwerp, Barcelona and Belfast and 36 more. Often billed alongside EMILIJA, Odymel and Adrian Mills. Next up: Bowlers Exhibition Centre, Manchester on Sat 1 Aug.
 
 ## Upcoming shows
 
@@ -16,6 +16,7 @@ Fenrick is a techno and trance artist tracked on soundcheck, with 123 sets logge
 | Sat, 5 Sept 2026 | Industry City | New York City |
 | Sat, 12 Sept 2026 | Kralingse Bos | Rotterdam |
 | Sat, 19 Sept 2026 | Westhafen | Leipzig |
+| Sat, 24 Oct 2026 | H7 Warehouse | Amsterdam |
 
 ## Recently played
 
@@ -32,4 +33,4 @@ Fenrick is a techno and trance artist tracked on soundcheck, with 123 sets logge
 
 EMILIJA, Odymel, Adrian Mills
 
-*Updated Sat, 25 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/fenrick/)*
+*Updated Sun, 26 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/fenrick/)*

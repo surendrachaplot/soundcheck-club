@@ -14,13 +14,13 @@ Jazz Cafe Festival 2026 at Burgess Park on Sun 2 Aug, London. 13 acts on the bil
 - Arthi
 - Bushbby
 - CHAMOS
-- DJ Habibeats
 - Dan Shake
+- DJ Habibeats
 - Greentea Peng
 - Lauren Duffus
-- MESSIE
 - Mafalda
 - Mansur Brown
+- MESSIE
 - Nightmares on Wax
 - System Olympia
 

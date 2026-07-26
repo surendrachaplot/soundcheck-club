@@ -1,6 +1,6 @@
 # Dunes
 
-Dunes is a music venue in Ibiza with 2 upcoming nights listed on soundcheck as of Sat, 25 Jul 2026; the next is "ADUNANZA ~ IBIZA" on Wed, 29 Jul 2026.
+Dunes is a music venue in Ibiza with 2 upcoming nights listed on soundcheck as of Sun, 26 Jul 2026; the next is "ADUNANZA ~ IBIZA" on Wed, 29 Jul 2026.
 
 Dunes is a music venue in Ibiza listed on soundcheck. 2 upcoming nights, with line-ups including Alex Bohemien, Gabriele Ranucci, Key Eff and Offthecoast. Browse upcoming dates, start times and who's playing. Ctra. de Platja d'en Bossa, 07817 Sant Josep de sa Talaia, Illes Balears, España.
 
@@ -15,4 +15,4 @@ Dunes is a music venue in Ibiza listed on soundcheck. 2 upcoming nights, with li
 
 Ctra. de Platja d'en Bossa, 07817 Sant Josep de sa Talaia, Illes Balears, España, Ibiza
 
-*Updated Sat, 25 Jul 2026 · source: [soundcheck](https://soundcheck.club/ibiza/club/dunes/)*
+*Updated Sun, 26 Jul 2026 · source: [soundcheck](https://soundcheck.club/ibiza/club/dunes/)*

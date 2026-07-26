@@ -1,14 +1,13 @@
 # Panke
 
-Panke is a music venue in Berlin with 8 upcoming nights listed on soundcheck as of Sat, 25 Jul 2026; the next is "Last Resort with Jonny From Space, DJ Fitness, Alys(Alys)Alys, Farsight, Viiaan and Retter" on Sat, 25 Jul 2026.
+Panke is a music venue in Berlin with 7 upcoming nights listed on soundcheck as of Sun, 26 Jul 2026; the next is "Sonora de Llegar in Berlin / Special Guest: Kumbia Ambassadors & Tio Natcho" on Thu, 30 Jul 2026.
 
-Panke is a music venue in Berlin listed on soundcheck. 8 upcoming nights, with line-ups including ALEX WANG, Alys, Assyouti and bela and 2 more. Browse upcoming dates, start times and who's playing. Gerichtstraße 23, 13347 Berlin.
+Panke is a music venue in Berlin listed on soundcheck. 7 upcoming nights, with line-ups including ALEX WANG, Assyouti, bela and Chris Imler and 2 more. Browse upcoming dates, start times and who's playing. Gerichtstraße 23, 13347 Berlin.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Sat, 25 Jul 2026 | Last Resort with Jonny From Space, DJ Fitness, Alys(Alys)Alys, Farsight, Viiaan and Retter | Alys, DJ Fitness, Farsight, Jonny From Space, Retter (DE), Viiaan |
 | Thu, 30 Jul 2026 | Sonora de Llegar in Berlin / Special Guest: Kumbia Ambassadors & Tio Natcho |  |
 | Fri, 31 Jul 2026 | Back2Bledi x Koshari x AL.Berlin | Koshari |
 | Fri, 7 Aug 2026 | CALENTURA VINYL ALL STARS Vol. 2 | PAULAH, Simón JaVa, eÑe (1) |
@@ -21,4 +20,4 @@ Panke is a music venue in Berlin listed on soundcheck. 8 upcoming nights, with l
 
 Gerichtstraße 23, 13347 Berlin, Berlin
 
-*Updated Sat, 25 Jul 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/panke/)*
+*Updated Sun, 26 Jul 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/panke/)*

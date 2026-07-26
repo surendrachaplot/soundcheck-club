@@ -1,6 +1,6 @@
 # ETHER at Sensorium
 
-ETHER at Sensorium on Fri 31 Jul, Berlin. 5 acts on the bill: Bee Lincoln, KINTEL, KOIA (2) and ZELIA and 1 more. Techno and Tech House. Preview the line-up and save it on soundcheck.
+ETHER at Sensorium on Fri 31 Jul, Berlin. 5 acts on the bill: Bee Lincoln, KINTEL, KOIA (2) and nixmoon and 1 more. Techno and Tech House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -13,7 +13,7 @@ ETHER at Sensorium on Fri 31 Jul, Berlin. 5 acts on the bill: Bee Lincoln, KINTE
 - Bee Lincoln
 - KINTEL
 - KOIA (2)
-- ZELIA
 - nixmoon
+- ZELIA
 
 *Source: [soundcheck](https://soundcheck.club/e/2463985-ether-at-sensorium/)*

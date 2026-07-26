@@ -18,8 +18,8 @@ Katernacht with Felix Dickinson, Toribio, Desirée Falessi, Bell Towers + more o
 - Dj Norma
 - Felix Dickinson
 - Femdelic
+- metaverde
 - Philippa
 - Toribio
-- metaverde
 
 *Source: [soundcheck](https://soundcheck.club/e/2468441-katernacht-with-felix-dickinson-toribio-desir-e-falessi-bell/)*

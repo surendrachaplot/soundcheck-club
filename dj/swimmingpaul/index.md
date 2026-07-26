@@ -1,6 +1,6 @@
 # Swimming Paul
 
-Swimming Paul is a House and Electro artist with 4 upcoming club dates listed on soundcheck as of Sat, 25 Jul 2026, next at Sønder Hoved, Copenhagen on Thu, 30 Jul 2026.
+Swimming Paul is a House and Electro artist with 4 upcoming club dates listed on soundcheck as of Sun, 26 Jul 2026, next at Sønder Hoved, Copenhagen on Thu, 30 Jul 2026.
 
 Swimming Paul is a house and electro artist tracked on soundcheck, with 56 sets logged across Amsterdam, Austin, Barcelona and Berlin and 27 more. Often billed alongside OGUZ, Alex Wann and Beltran. Next up: Sønder Hoved, Copenhagen on Thu 30 Jul.
 
@@ -28,4 +28,4 @@ Swimming Paul is a house and electro artist tracked on soundcheck, with 56 sets 
 
 OGUZ, Alex Wann, Beltran
 
-*Updated Sat, 25 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/swimmingpaul/)*
+*Updated Sun, 26 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/swimmingpaul/)*

@@ -1,6 +1,6 @@
 # Aporia After Party (House/Techno/Trance) at Aoyama Hachi
 
-Aporia After Party (House/Techno/Trance) at Aoyama Hachi on Sun 26 Jul, Tokyo. 7 acts on the bill: KUNPEI, Kotaro Shimizu, MUNEMASA and Neutran and 3 more. Preview the line-up and save it on soundcheck.
+Aporia After Party (House/Techno/Trance) at Aoyama Hachi on Sun 26 Jul, Tokyo. 7 acts on the bill: Kotaro Shimizu, KUNPEI, MUNEMASA and Neutran and 3 more. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,8 +10,8 @@ Aporia After Party (House/Techno/Trance) at Aoyama Hachi on Sun 26 Jul, Tokyo. 7
 
 ## Line-up
 
-- KUNPEI
 - Kotaro Shimizu
+- KUNPEI
 - MUNEMASA
 - Neutran
 - Rikuto Shibazaki

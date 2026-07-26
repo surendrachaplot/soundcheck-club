@@ -1,6 +1,6 @@
 # CircoLoco Ibiza - Week 18 at DC-10
 
-CircoLoco Ibiza - Week 18 at DC-10 on Mon 24 Aug, Ibiza. 14 acts on the bill: ANOTR, Bushbaby, Carlita and Chris Stussy and 10 more. Preview the line-up and save it on soundcheck.
+CircoLoco Ibiza - Week 18 at DC-10 on Mon 24 Aug, Ibiza. 14 acts on the bill: Âme, ANOTR, Bushbaby and Carlita and 10 more. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,6 +10,7 @@ CircoLoco Ibiza - Week 18 at DC-10 on Mon 24 Aug, Ibiza. 14 acts on the bill: AN
 
 ## Line-up
 
+- Âme
 - ANOTR
 - Bushbaby
 - Carlita
@@ -23,6 +24,5 @@ CircoLoco Ibiza - Week 18 at DC-10 on Mon 24 Aug, Ibiza. 14 acts on the bill: AN
 - Ryan Elliott
 - Seth Troxler
 - Sossa
-- Âme
 
 *Source: [soundcheck](https://soundcheck.club/e/2400967-circoloco-ibiza-week-18-at-dc-10/)*

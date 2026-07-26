@@ -1,6 +1,6 @@
 # Snooze After Hours at NUMBER 90 LONDON
 
-Snooze After Hours at NUMBER 90 LONDON on Sun 26 Jul, London. 9 acts on the bill: Belin, CAMIVINA, Horston and Slumber and 5 more. Techno. Preview the line-up and save it on soundcheck.
+Snooze After Hours at NUMBER 90 LONDON on Sun 26 Jul, London. 9 acts on the bill: Belin, CAMIVINA, dgbt and Horston and 5 more. Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -12,12 +12,12 @@ Snooze After Hours at NUMBER 90 LONDON on Sun 26 Jul, London. 9 acts on the bill
 
 - Belin
 - CAMIVINA
+- dgbt
 - Horston
+- ØLMØ
 - Slumber
 - TAITO
 - VENT (3)
 - Vivi (2)
-- dgbt
-- ØLMØ
 
 *Source: [soundcheck](https://soundcheck.club/e/2474523-snooze-after-hours-at-number-90-london/)*

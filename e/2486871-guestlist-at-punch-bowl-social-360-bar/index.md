@@ -1,6 +1,6 @@
 # GuestList at Punch Bowl Social 360-Bar
 
-GuestList at Punch Bowl Social 360-Bar on Thu 30 Jul, Chicago. 3 acts on the bill: Chez Damier, Jovonn and jayah. House and Deep House. Preview the line-up and save it on soundcheck.
+GuestList at Punch Bowl Social 360-Bar on Thu 30 Jul, Chicago. 3 acts on the bill: Chez Damier, jayah and Jovonn. House and Deep House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -11,7 +11,7 @@ GuestList at Punch Bowl Social 360-Bar on Thu 30 Jul, Chicago. 3 acts on the bil
 ## Line-up
 
 - Chez Damier
-- Jovonn
 - jayah
+- Jovonn
 
 *Source: [soundcheck](https://soundcheck.club/e/2486871-guestlist-at-punch-bowl-social-360-bar/)*

@@ -1,6 +1,6 @@
 # WOX DANCE at Mastak
 
-WOX DANCE at Mastak on Fri 31 Jul, Warsaw. 3 acts on the bill: Heather Helix, Petar Tverkal and anke schön. Trance and House. Preview the line-up and save it on soundcheck.
+WOX DANCE at Mastak on Fri 31 Jul, Warsaw. 3 acts on the bill: anke schön, Heather Helix and Petar Tverkal. Trance and House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,8 +10,8 @@ WOX DANCE at Mastak on Fri 31 Jul, Warsaw. 3 acts on the bill: Heather Helix, Pe
 
 ## Line-up
 
+- anke schön
 - Heather Helix
 - Petar Tverkal
-- anke schön
 
 *Source: [soundcheck](https://soundcheck.club/e/2489506-wox-dance-at-mastak/)*

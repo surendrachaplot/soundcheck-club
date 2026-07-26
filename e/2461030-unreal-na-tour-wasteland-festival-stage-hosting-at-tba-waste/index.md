@@ -14,8 +14,8 @@ UNREAL NA TOUR: WASTELAND FESTIVAL - Stage Hosting at TBA - Wasteland Festival o
 - Cara Elizabeth
 - Fantasm
 - Johannes Schuster
-- KUKO
 - Kobosil
+- KUKO
 - Trym
 - Winson
 

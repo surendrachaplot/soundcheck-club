@@ -1,8 +1,8 @@
 # H7 Warehouse
 
-H7 Warehouse is a music venue in Amsterdam with 6 upcoming nights listed on soundcheck as of Sat, 25 Jul 2026; the next is "22-08-2026 H7 FESTIVAL // AMSTERDAM" on Sat, 22 Aug 2026.
+H7 Warehouse is a music venue in Amsterdam with 8 upcoming nights listed on soundcheck as of Sun, 26 Jul 2026; the next is "22-08-2026 H7 FESTIVAL // AMSTERDAM" on Sat, 22 Aug 2026.
 
-H7 Warehouse is a music venue in Amsterdam listed on soundcheck. 6 upcoming nights, with line-ups including 999999999, Alycia Bezgo, Azzurro and Bella Claxton and 2 more. Browse upcoming dates, start times and who's playing. Humberweg7, 1043 AC Amsterdam.
+H7 Warehouse is a music venue in Amsterdam listed on soundcheck. 8 upcoming nights, with line-ups including 999999999, Altinbas, Alycia Bezgo and Azzurro and 2 more. Browse upcoming dates, start times and who's playing. Humberweg7, 1043 AC Amsterdam.
 
 ## What's on
 
@@ -14,9 +14,11 @@ H7 Warehouse is a music venue in Amsterdam listed on soundcheck. 6 upcoming nigh
 | Thu, 22 Oct 2026 | Maddix All Day Rave - H7 Warehouse, Amsterdam Dance Event 2026 | Maddix |
 | Fri, 23 Oct 2026 | Intercell x Mika Heggemann Invites / ADE By Day | Alycia Bezgo, Azzurro, Cleopard2000, Faster Horses, Mika Heggemann |
 | Fri, 23 Oct 2026 | Intercell x Glitch / ADE By Night | Bella Claxton, Budg, DJ AYA, LAMMER, MCR-T, STÜM |
+| Sat, 24 Oct 2026 | Intercell x Philippa Pacho Invites - ADE By Day | Altinbas, DJ Nobu, GiGi FM, I-RO, Philippa Pacho, Regent, Rene Wise |
+| Sat, 24 Oct 2026 | Intercell x SPFDJ Invites - ADE By Night | Fenrick, Lisa Korver, Megra, PETERBLUE, SPFDJ, Slim Soledad |
 
 ## Address
 
 Humberweg7, 1043 AC Amsterdam, Amsterdam
 
-*Updated Sat, 25 Jul 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/h7-warehouse/)*
+*Updated Sun, 26 Jul 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/h7-warehouse/)*

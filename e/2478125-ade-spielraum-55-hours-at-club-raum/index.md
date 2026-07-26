@@ -14,36 +14,36 @@ ADE - SPIELRAUM: 55 HOURS at CLUB RAUM on Fri 23 Oct, Amsterdam. 35 acts on the 
 - BASHKKA
 - Clarisa Kimskii
 - D.Dan
-- DJ Red
-- DVS1
 - Dasha Rush
+- DJ Red
 - DjRUM
+- DVS1
 - Fafi Abdel Nour
 - Faustin
 - Hervé
 - JakoJako
+- ketia
+- livwutang
 - Luke Slater
+- mad miran
 - Makam
 - Mary Lake
 - Miss Kittin
+- mul/ANNA
 - Octo Octa
 - Pariah
 - Quelza
-- Richard Akingbehin
 - RÆZA
+- Richard Akingbehin
 - Rødhåd
-- STERAC
 - Sandrien
 - Sedef Adasï
-- TWIENA
+- STERAC
 - The Hacker
 - The Lady Machine
-- Tommy Four Seven
-- Wata Igarashi
-- ketia
-- livwutang
-- mad miran
-- mul/ANNA
 - tINI
+- Tommy Four Seven
+- TWIENA
+- Wata Igarashi
 
 *Source: [soundcheck](https://soundcheck.club/e/2478125-ade-spielraum-55-hours-at-club-raum/)*

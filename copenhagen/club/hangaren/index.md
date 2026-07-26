@@ -1,6 +1,6 @@
 # Hangaren
 
-Hangaren is a music venue in Copenhagen with 19 upcoming nights listed on soundcheck as of Sat, 25 Jul 2026; the next is "parashoot, Talons, Mwah, Sam Good, DJ Lukey, Mary Harp" on Sat, 25 Jul 2026.
+Hangaren is a music venue in Copenhagen with 19 upcoming nights listed on soundcheck as of Sun, 26 Jul 2026; the next is "Sunday Psy: DJ MARIA., Kasper Marott, Mademoisel, alina" on Sun, 26 Jul 2026.
 
 Hangaren is a music venue in Copenhagen listed on soundcheck. 19 upcoming nights, with line-ups including Acid Pauli, Adam Eisert, Âme and Amelie Lens and 2 more. Browse upcoming dates, start times and who's playing. Refshalevej 185, 1432 København, Denmark.
 
@@ -8,7 +8,6 @@ Hangaren is a music venue in Copenhagen listed on soundcheck. 19 upcoming nights
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Sat, 25 Jul 2026 | parashoot, Talons, Mwah, Sam Good, DJ Lukey, Mary Harp | DJ Lukey, Mary Harp, Mwah, Talons, parashoot, samgood |
 | Sun, 26 Jul 2026 | Sunday Psy: DJ MARIA., Kasper Marott, Mademoisel, alina | DJ MARIA., Kasper Marott, Mademoisel |
 | Thu, 30 Jul 2026 | Sam Alfred, DRABER666, YOON | DRABER666, Sam Alfred, YOON |
 | Fri, 31 Jul 2026 | Trancemaster Krause, Ollie Lishman, steamboi, Anna Logic, DJ Spice | Anna Logic, DJ Spice, Ollie Lishman, Trancemaster Krause, steamboi |
@@ -18,9 +17,10 @@ Hangaren is a music venue in Copenhagen listed on soundcheck. 19 upcoming nights
 | Sun, 9 Aug 2026 | Sunday Psy x Quake: Araknyl, DJ Sea View, Jeroen, FILTH.y, Frølår, Signe Alarcón, Wendy | Araknyl, DJ Sea View, FILTH.y, Frølår, Signe Alarcón |
 | Fri, 14 Aug 2026 | Gerd Janson, Harrison Heat, NAT, Tamara, DJ LoveCatt, Roussakis | DJ LoveCatt, Gerd Janson, Harrison Heat, NAT(SK), Roussakis, Tamara |
 | Sat, 15 Aug 2026 | Kander, Kardinal Bertram, UBER KNAST, Mëtro, Elliott Taguchi, Holtz  | Elliott Taguchi, Holtz (2), Kander, Kardinal Bertram, Mëtro, UBER KNAST |
+| Fri, 21 Aug 2026 | Daria Kolosova, Funeral Future, pai-lin, David Garset, Johannes Astrup, Emma Priis | Daria Kolosova, David Garset, Emma Priis, Johannes Astrup, pai-lin |
 
 ## Address
 
 Refshalevej 185, 1432 København, Denmark, Copenhagen
 
-*Updated Sat, 25 Jul 2026 · source: [soundcheck](https://soundcheck.club/copenhagen/club/hangaren/)*
+*Updated Sun, 26 Jul 2026 · source: [soundcheck](https://soundcheck.club/copenhagen/club/hangaren/)*

@@ -15,19 +15,19 @@ Module Festival at Kulturcampus Frankfurt on Thu 13 Aug, Frankfurt. 19 acts on t
 - C.K
 - Elvira
 - FAFF
+- hitekjaz
 - Jenne
 - LUXE
 - Minju
+- n9oc
 - QT-XTC
 - Rosa Anschütz
 - Roza Terenzi
 - Skee Mask
 - Suzanne Ciani
 - Udda
-- ZSZS
-- hitekjaz
-- n9oc
 - upsammy
 - yungfya
+- ZSZS
 
 *Source: [soundcheck](https://soundcheck.club/e/2425851-module-festival-at-kulturcampus-frankfurt/)*

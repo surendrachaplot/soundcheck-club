@@ -15,8 +15,8 @@ DIFFUSE REALITY pres. Sender Berlin [Tresor] at ://about blank on Thu 20 Aug, Be
 - Ecilo
 - NYCTO
 - Obscur
-- SURCO
 - Sender Berlin
 - Squaric
+- SURCO
 
 *Source: [soundcheck](https://soundcheck.club/e/2382001-diffuse-reality-pres-sender-berlin-tresor-at-about-blank/)*

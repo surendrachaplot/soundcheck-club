@@ -1,6 +1,6 @@
 # fabric: HVOB (Live), Logic1000, Hardt Antoine B2B Echonomist, PAURRO, Fiona Zanetti at fabric
 
-fabric: HVOB (Live), Logic1000, Hardt Antoine B2B Echonomist, PAURRO, Fiona Zanetti on Sat 1 Aug, London. 6 acts on the bill: Echonomist, Fiona Zanetti, HVOB and Hardt Antoine and 2 more. Preview the line-up and save it on soundcheck.
+fabric: HVOB (Live), Logic1000, Hardt Antoine B2B Echonomist, PAURRO, Fiona Zanetti on Sat 1 Aug, London. 6 acts on the bill: Echonomist, Fiona Zanetti, Hardt Antoine and HVOB and 2 more. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -12,8 +12,8 @@ fabric: HVOB (Live), Logic1000, Hardt Antoine B2B Echonomist, PAURRO, Fiona Zane
 
 - Echonomist
 - Fiona Zanetti
-- HVOB
 - Hardt Antoine
+- HVOB
 - Logic1000
 - PAURRO
 

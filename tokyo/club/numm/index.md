@@ -1,14 +1,13 @@
 # Numm
 
-Numm is a music venue in Tokyo with 7 upcoming nights listed on soundcheck as of Sat, 25 Jul 2026; the next is "On and On" on Sat, 25 Jul 2026.
+Numm is a music venue in Tokyo with 6 upcoming nights listed on soundcheck as of Sun, 26 Jul 2026; the next is "STAY FRIEND　-GARDEN OF LOVE RELEASE PARTY-" on Sun, 26 Jul 2026.
 
-Numm is a music venue in Tokyo listed on soundcheck. 7 upcoming nights, with line-ups including Calm, Camacho, Dazzle Drums and DNG (1) and 2 more. Browse upcoming dates, start times and who's playing. B1F AiiA ANEX bld 2-9-13 Shibuya, Shibuya-ku, Tokyo-to 150-0002 Japan.
+Numm is a music venue in Tokyo listed on soundcheck. 6 upcoming nights, with line-ups including Calm, Camacho, Dazzle Drums and DNG (1) and 2 more. Browse upcoming dates, start times and who's playing. B1F AiiA ANEX bld 2-9-13 Shibuya, Shibuya-ku, Tokyo-to 150-0002 Japan.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Sat, 25 Jul 2026 | On and On |  |
 | Sun, 26 Jul 2026 | STAY FRIEND　-GARDEN OF LOVE RELEASE PARTY- | Kentaro Takizawa |
 | Wed, 29 Jul 2026 | REDEMPTION | TAT2K |
 | Thu, 30 Jul 2026 | ON YOUR SIDE | Camacho, Gara |
@@ -20,4 +19,4 @@ Numm is a music venue in Tokyo listed on soundcheck. 7 upcoming nights, with lin
 
 B1F AiiA ANEX bld 2-9-13 Shibuya, Shibuya-ku, Tokyo-to 150-0002 Japan, Tokyo
 
-*Updated Sat, 25 Jul 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/numm/)*
+*Updated Sun, 26 Jul 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/numm/)*

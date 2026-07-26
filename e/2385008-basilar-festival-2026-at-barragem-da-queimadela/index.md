@@ -1,6 +1,6 @@
 # Basilar Festival 2026 at Barragem da Queimadela
 
-Basilar Festival 2026 at Barragem da Queimadela on Thu 10 Sept, Porto. 27 acts on the bill: Afra, Anika Kunst, DJ Red and Decka and 23 more. Techno and Dub Techno. Preview the line-up and save it on soundcheck.
+Basilar Festival 2026 at Barragem da Queimadela on Thu 10 Sept, Porto. 27 acts on the bill: Afra, Anika Kunst, Decka and DJ Red and 23 more. Techno and Dub Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -12,8 +12,8 @@ Basilar Festival 2026 at Barragem da Queimadela on Thu 10 Sept, Porto. 27 acts o
 
 - Afra
 - Anika Kunst
-- DJ Red
 - Decka
+- DJ Red
 - Enkō
 - Fadi Mohem
 - Luisa
@@ -21,21 +21,21 @@ Basilar Festival 2026 at Barragem da Queimadela on Thu 10 Sept, Porto. 27 acts o
 - Mareena
 - Montero
 - P.E.A.R.L.
-- ROD
 - Richard Akingbehin
+- ROD
 - Ruman
-- STERAC
 - Salbany
+- STERAC
 - Steve Rachmad
 - Stojche
+- stranger (NL)
 - Substance
 - Tasha
 - Tauer
 - Temudo
-- VIL (PT)
 - Vainqueur
 - Valody
+- VIL (PT)
 - Z.I.P.P.O
-- stranger (NL)
 
 *Source: [soundcheck](https://soundcheck.club/e/2385008-basilar-festival-2026-at-barragem-da-queimadela/)*

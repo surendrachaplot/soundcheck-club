@@ -1,6 +1,6 @@
 # Until We Meet Again - Christian Löffler LIVE I Köln (Open Air) at Südbrücke
 
-Until We Meet Again - Christian Löffler LIVE I Köln (Open Air) at Südbrücke on Sat 5 Sept, Cologne. 4 acts on the bill: Christian Löffler, Kid Simius, Sarah Wild and mogli (2). Preview the line-up and save it on soundcheck.
+Until We Meet Again - Christian Löffler LIVE I Köln (Open Air) at Südbrücke on Sat 5 Sept, Cologne. 4 acts on the bill: Christian Löffler, Kid Simius, mogli (2) and Sarah Wild. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -12,7 +12,7 @@ Until We Meet Again - Christian Löffler LIVE I Köln (Open Air) at Südbrücke 
 
 - Christian Löffler
 - Kid Simius
-- Sarah Wild
 - mogli (2)
+- Sarah Wild
 
 *Source: [soundcheck](https://soundcheck.club/e/2404353-until-we-meet-again-christian-l-ffler-live-i-k-ln-open-air-a/)*

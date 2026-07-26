@@ -1,14 +1,13 @@
 # Salon Badin
 
-Salon Badin is a music venue in Montreal with 3 upcoming nights listed on soundcheck as of Sat, 25 Jul 2026; the next is "Salon Badin: Dusty FingerZ" on Sat, 25 Jul 2026.
+Salon Badin is a music venue in Montreal with 2 upcoming nights listed on soundcheck as of Sun, 26 Jul 2026; the next is "Salon Badin: The Grouch (Brazil)" on Thu, 30 Jul 2026.
 
-Salon Badin is a music venue in Montreal listed on soundcheck. 3 upcoming nights, with line-ups including Desbike and Dusty FingerZ. Browse upcoming dates, start times and who's playing. 2613 Notre-Dame St W, Montreal, Quebec H3J 1N9.
+Salon Badin is a music venue in Montreal listed on soundcheck. 2 upcoming nights, with line-ups including Desbike. Browse upcoming dates, start times and who's playing. 2613 Notre-Dame St W, Montreal, Quebec H3J 1N9.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Sat, 25 Jul 2026 | Salon Badin: Dusty FingerZ | Dusty FingerZ |
 | Thu, 30 Jul 2026 | Salon Badin: The Grouch (Brazil) |  |
 | Fri, 31 Jul 2026 | Salon Badin: Desbike | Desbike |
 
@@ -16,4 +15,4 @@ Salon Badin is a music venue in Montreal listed on soundcheck. 3 upcoming nights
 
 2613 Notre-Dame St W, Montreal, Quebec H3J 1N9, Montreal
 
-*Updated Sat, 25 Jul 2026 · source: [soundcheck](https://soundcheck.club/montreal/club/salon-badin/)*
+*Updated Sun, 26 Jul 2026 · source: [soundcheck](https://soundcheck.club/montreal/club/salon-badin/)*

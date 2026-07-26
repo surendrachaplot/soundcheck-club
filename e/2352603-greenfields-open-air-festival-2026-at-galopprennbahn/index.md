@@ -14,10 +14,10 @@ Greenfields Open Air Festival 2026 at Galopprennbahn on Sat 1 Aug, Munich. 9 act
 - Ben Klock
 - DESIREE (RSA)
 - Marie Montexier
+- meera
 - Pan-Pot
 - Peggy Gou
 - Richie Hawtin
 - Sven Vath
-- meera
 
 *Source: [soundcheck](https://soundcheck.club/e/2352603-greenfields-open-air-festival-2026-at-galopprennbahn/)*

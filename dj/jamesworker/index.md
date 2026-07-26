@@ -1,6 +1,6 @@
 # James Worker
 
-James Worker is a House and Garage artist with 3 upcoming club dates listed on soundcheck as of Sat, 25 Jul 2026, next at Ouseburn Garden, Newcastle on Sat, 1 Aug 2026.
+James Worker is a House and Garage artist with 3 upcoming club dates listed on soundcheck as of Sun, 26 Jul 2026, next at Ouseburn Garden, Newcastle on Sat, 1 Aug 2026.
 
 James Worker is a house and garage artist based in United Kingdom, tracked on soundcheck, with 25 sets logged across London and Newcastle. Often billed alongside Sam Warren, Molly Sinnott and PHJ.WAV. Next up: Ouseburn Garden, Newcastle on Sat 1 Aug.
 
@@ -27,4 +27,4 @@ James Worker is a house and garage artist based in United Kingdom, tracked on so
 
 Sam Warren, Molly Sinnott, PHJ.WAV
 
-*Updated Sat, 25 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/jamesworker/)*
+*Updated Sun, 26 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/jamesworker/)*

@@ -1,6 +1,6 @@
 # Cybertribe invites BAUGRUPPE90 [BLN] at PRST
 
-Cybertribe invites BAUGRUPPE90 [BLN] at PRST on Fri 7 Aug, Vienna. 6 acts on the bill: BAUGRUPPE90, Eminelli, Spud Bencer and VOLTMARIE and 2 more. Techno. Preview the line-up and save it on soundcheck.
+Cybertribe invites BAUGRUPPE90 [BLN] at PRST on Fri 7 Aug, Vienna. 6 acts on the bill: BAUGRUPPE90, Eminelli, ninon. and Spud Bencer and 2 more. Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -12,9 +12,9 @@ Cybertribe invites BAUGRUPPE90 [BLN] at PRST on Fri 7 Aug, Vienna. 6 acts on th
 
 - BAUGRUPPE90
 - Eminelli
-- Spud Bencer
-- VOLTMARIE
-- Violetta (1)
 - ninon.
+- Spud Bencer
+- Violetta (1)
+- VOLTMARIE
 
 *Source: [soundcheck](https://soundcheck.club/e/2479561-cybertribe-invites-baugruppe90-bln-at-prst/)*

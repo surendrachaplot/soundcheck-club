@@ -14,7 +14,7 @@ OÁZIS INVITES Vass (UK) at Atno on Sat 1 Aug, Budapest. 6 acts on the bill: KIN
 - Krics
 - ML91
 - Nermo
-- Vass
 - quasi quasi
+- Vass
 
 *Source: [soundcheck](https://soundcheck.club/e/2488030-o-zis-invites-vass-uk-at-atno/)*

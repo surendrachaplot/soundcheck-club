@@ -1,6 +1,6 @@
 # MARGINS UNITED FESTIVAL 2026 at Club360
 
-MARGINS UNITED FESTIVAL 2026 at Club360 on Sat 26 Sept, London. 6 acts on the bill: AMANDA SZE, DJ Love, The Deep and YAKA and 2 more. Pop and Club. Preview the line-up and save it on soundcheck.
+MARGINS UNITED FESTIVAL 2026 at Club360 on Sat 26 Sept, London. 6 acts on the bill: AMANDA SZE, DJ Love, tamanaramen and The Deep and 2 more. Pop and Club. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -12,9 +12,9 @@ MARGINS UNITED FESTIVAL 2026 at Club360 on Sat 26 Sept, London. 6 acts on the bi
 
 - AMANDA SZE
 - DJ Love
-- The Deep
-- YAKA
 - tamanaramen
+- The Deep
 - umru
+- YAKA
 
 *Source: [soundcheck](https://soundcheck.club/e/2440955-margins-united-festival-2026-at-club360/)*

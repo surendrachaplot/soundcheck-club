@@ -1,6 +1,6 @@
 # DREAMLAND X GIRLCORE at Honey Street Studio
 
-DREAMLAND X GIRLCORE at Honey Street Studio on Fri 21 Aug, Manchester. 6 acts on the bill: Anop, Hollyamorous, MintJuulPod and Triff (2) and 2 more. Trance and Pop. Preview the line-up and save it on soundcheck.
+DREAMLAND X GIRLCORE at Honey Street Studio on Fri 21 Aug, Manchester. 6 acts on the bill: Anop, chlo333e, fUnlistenable and Hollyamorous and 2 more. Trance and Pop. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -11,10 +11,10 @@ DREAMLAND X GIRLCORE at Honey Street Studio on Fri 21 Aug, Manchester. 6 acts on
 ## Line-up
 
 - Anop
+- chlo333e
+- fUnlistenable
 - Hollyamorous
 - MintJuulPod
 - Triff (2)
-- chlo333e
-- fUnlistenable
 
 *Source: [soundcheck](https://soundcheck.club/e/2496848-dreamland-x-girlcore-at-honey-street-studio/)*

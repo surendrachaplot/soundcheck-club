@@ -1,8 +1,8 @@
 # Akvárium Klub
 
-Akvárium Klub is a music venue in Budapest with 13 upcoming nights listed on soundcheck as of Sat, 25 Jul 2026; the next is "Fritz Kalkbrenner" on Fri, 4 Sept 2026.
+Akvárium Klub is a music venue in Budapest with 15 upcoming nights listed on soundcheck as of Sun, 26 Jul 2026; the next is "Fritz Kalkbrenner" on Fri, 4 Sept 2026.
 
-Akvárium Klub is a music venue in Budapest listed on soundcheck. 13 upcoming nights, with line-ups including Acid Arab, Arlo Parks, Eli Brown and Ely Oaks and 2 more. Browse upcoming dates, start times and who's playing. Budapest Erzsébet tér, 1051 Hungary.
+Akvárium Klub is a music venue in Budapest listed on soundcheck. 15 upcoming nights, with line-ups including Acid Arab, Arlo Parks, DJ Krush and Eli Brown and 2 more. Browse upcoming dates, start times and who's playing. Budapest Erzsébet tér, 1051 Hungary.
 
 ## What's on
 
@@ -23,4 +23,4 @@ Akvárium Klub is a music venue in Budapest listed on soundcheck. 13 upcoming ni
 
 Budapest Erzsébet tér, 1051 Hungary, Budapest
 
-*Updated Sat, 25 Jul 2026 · source: [soundcheck](https://soundcheck.club/budapest/club/akv-rium-klub/)*
+*Updated Sun, 26 Jul 2026 · source: [soundcheck](https://soundcheck.club/budapest/club/akv-rium-klub/)*

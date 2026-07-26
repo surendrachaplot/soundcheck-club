@@ -16,34 +16,35 @@ Making Time ∞ at Fort Mifflin on Fri 18 Sept, Philadelphia. 113 acts on the bi
 - Aurora Halal
 - Autumns
 - Avalon Emerson
-- BASHKKA
 - Baalti
+- BASHKKA
 - Batu
 - Beautiful Swimmers
 - Bianca Lexis
 - Bicep
 - Binh
-- CCL
 - Carla dal Forno
 - Carlos Souffront
 - Carrier
 - Cashu
+- CCL
 - Chee Shimizu
 - Ciro Vitiello
 - Colombian Drone Mafia
 - Cubby
+- Daniel Avery
+- Daphni
+- De Schuurman
+- Debit
+- deep creep
 - DJ Godfather
 - DJ LAG
 - DJ MARIA.
 - DJ Masda
 - DJ Papaya
 - DJ Python
-- DJ SWISHA
 - DJ Sundae
-- Daniel Avery
-- Daphni
-- De Schuurman
-- Debit
+- DJ SWISHA
 - Dopplereffekt
 - Eev Frances
 - Ehua
@@ -72,6 +73,7 @@ Making Time ∞ at Fort Mifflin on Fri 18 Sept, Philadelphia. 113 acts on the bi
 - Luke Mele
 - Ma Sha
 - Maara
+- mad miran
 - Main Phase
 - Marcel Dettmann
 - Mario Cotto
@@ -82,20 +84,21 @@ Making Time ∞ at Fort Mifflin on Fri 18 Sept, Philadelphia. 113 acts on the bi
 - Moopie
 - Naone
 - Nídia
-- OKO DJ
 - Octo Octa
+- OKO DJ
+- oma totem
 - Optimo (Espacio)
 - Paula Tape
 - Pender Street Steppers
 - Pilooski
-- QRTR
 - Qoso
+- QRTR
 - RHR
 - Robert Aiki Aubrey Lowe
 - Roza Terenzi
-- SEXTILE
 - Sandwell District
 - Security Dog
+- SEXTILE
 - Shai FM
 - Skee Mask
 - Smerz
@@ -109,19 +112,16 @@ Making Time ∞ at Fort Mifflin on Fri 18 Sept, Philadelphia. 113 acts on the bi
 - Tornado Wallace
 - Unai Trotti
 - Universal Cave
+- upsammy
 - Valentina Magaletti
 - Verraco
 - Vlada
 - Vladimir Ivkovic
 - Wata Igarashi
 - Westov Temple
+- x3butterfly
 - Yu Su
 - Yumi
 - Zillas on Acid
-- deep creep
-- mad miran
-- oma totem
-- upsammy
-- x3butterfly
 
 *Source: [soundcheck](https://soundcheck.club/e/2395557-making-time-at-fort-mifflin/)*

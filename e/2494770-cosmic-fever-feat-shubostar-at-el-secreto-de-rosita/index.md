@@ -1,6 +1,6 @@
 # Cosmic Fever feat. Shubostar at El Secreto De Rosita
 
-Cosmic Fever feat. Shubostar at El Secreto De Rosita on Fri 7 Aug, Washingtondc. 6 acts on the bill: Apollo Dust, BehTarin, Cuedra and Heather Luna and 2 more. House and Disco. Preview the line-up and save it on soundcheck.
+Cosmic Fever feat. Shubostar at El Secreto De Rosita on Fri 7 Aug, Washingtondc. 6 acts on the bill: Apollo Dust, BehTarin, Cuedra and Heather Luna and 2 more. House and Electronica. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

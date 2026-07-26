@@ -14,7 +14,7 @@ THE UNKNOWN x 925  🄾🄿🄴🄽 🄰🄸🅁  (donation-based) at Gestrandet
 - MagDita
 - Monsai
 - Nikklaas
-- The Brahma
 - oulcan
+- The Brahma
 
 *Source: [soundcheck](https://soundcheck.club/e/2410613-the-unknown-x-925-donation-based-at-gestrandet-an-der-jannow/)*

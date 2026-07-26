@@ -14,6 +14,7 @@ KollektivKlang - KlangKnospe - Candyflip - IloveModus - Abgedreht - Eternity - R
 - Cobb Douglas
 - DJ Parabolspiegel
 - Dj Wifi (3)
+- e.leptic
 - EZA (DE)
 - Flohmarkt
 - MEKER
@@ -22,8 +23,7 @@ KollektivKlang - KlangKnospe - Candyflip - IloveModus - Abgedreht - Eternity - R
 - Ozzwald
 - Rheindaaa
 - STURM
-- Un.Frieden
-- e.leptic
 - subga
+- Un.Frieden
 
 *Source: [soundcheck](https://soundcheck.club/e/2483169-kollektivklang-klangknospe-candyflip-ilovemodus-abgedreht-et/)*

@@ -1,6 +1,6 @@
 # City Wall x Pride (Day into Night) w/ Samantha Togni and Just Her at TBA - Various Venues
 
-City Wall x Pride (Day into Night) w/ Samantha Togni and Just Her at TBA - Various Venues on Sat 1 Aug, Brighton. 16 acts on the bill: Aleromaze, Cage (1), Døra and Gosia and 12 more. Techno and Deep House. Preview the line-up and save it on soundcheck.
+City Wall x Pride (Day into Night) w/ Samantha Togni and Just Her at TBA - Various Venues on Sat 1 Aug, Brighton. 16 acts on the bill: Aleromaze, Cage (1), deadright and Døra and 12 more. Techno and Deep House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -12,6 +12,7 @@ City Wall x Pride (Day into Night) w/ Samantha Togni and Just Her at TBA - Vario
 
 - Aleromaze
 - Cage (1)
+- deadright
 - Døra
 - Gosia
 - Jack Jeffrey
@@ -25,6 +26,5 @@ City Wall x Pride (Day into Night) w/ Samantha Togni and Just Her at TBA - Vario
 - Spinks
 - SuperCLAUD
 - Toraigh
-- deadright
 
 *Source: [soundcheck](https://soundcheck.club/e/2420497-city-wall-x-pride-day-into-night-w-samantha-togni-and-just-h/)*

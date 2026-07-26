@@ -1,6 +1,6 @@
 # MPH (1)
 
-MPH (1) is a Garage and Bass artist with 9 upcoming club dates listed on soundcheck as of Sat, 25 Jul 2026, next at Smoke & Mirrors, Chicago on Thu, 30 Jul 2026.
+MPH (1) is a Garage and Bass artist with 9 upcoming club dates listed on soundcheck as of Sun, 26 Jul 2026, next at Smoke & Mirrors, Chicago on Thu, 30 Jul 2026.
 
 MPH (1) is a garage and bass artist tracked on soundcheck, with 105 sets logged across Amsterdam, Antwerp, Auckland and Belfast and 36 more. Often billed alongside Oppidan, Flava D and Bushbaby. Next up: Smoke & Mirrors, Chicago on Thu 30 Jul.
 
@@ -33,4 +33,4 @@ MPH (1) is a garage and bass artist tracked on soundcheck, with 105 sets logged 
 
 Oppidan, Flava D, Bushbaby
 
-*Updated Sat, 25 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/mph-1/)*
+*Updated Sun, 26 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/mph-1/)*

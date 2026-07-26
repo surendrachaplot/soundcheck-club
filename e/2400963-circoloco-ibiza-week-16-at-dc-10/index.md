@@ -15,8 +15,8 @@ Circoloco Ibiza - Week 16 at DC-10 on Mon 10 Aug, Ibiza. 13 acts on the bill: Al
 - Beltran
 - Byron Yeates
 - Courtesy
-- DJ Tennis
 - Dixon
+- DJ Tennis
 - Garrett David
 - Gerd Janson
 - Jimi Jules

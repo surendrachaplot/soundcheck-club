@@ -1,6 +1,6 @@
 # X Private Club
 
-X Private Club is a music venue in Madrid with 1 upcoming night listed on soundcheck as of Sat, 25 Jul 2026; the next is "NOIZZE W/ BRUNO BONA (DEEPERFECT - LTF RECORDS) FREE ENTRY" on Sat, 1 Aug 2026.
+X Private Club is a music venue in Madrid with 1 upcoming night listed on soundcheck as of Sun, 26 Jul 2026; the next is "NOIZZE W/ BRUNO BONA (DEEPERFECT - LTF RECORDS) FREE ENTRY" on Sat, 1 Aug 2026.
 
 X Private Club is a music venue in Madrid listed on soundcheck. 1 upcoming night, with line-ups including Herrera (ES). Browse upcoming dates, start times and who's playing. Madrid.
 
@@ -14,4 +14,4 @@ X Private Club is a music venue in Madrid listed on soundcheck. 1 upcoming night
 
 Madrid, Madrid
 
-*Updated Sat, 25 Jul 2026 · source: [soundcheck](https://soundcheck.club/madrid/club/x-private-club/)*
+*Updated Sun, 26 Jul 2026 · source: [soundcheck](https://soundcheck.club/madrid/club/x-private-club/)*

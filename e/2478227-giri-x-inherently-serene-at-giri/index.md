@@ -1,6 +1,6 @@
 # Giri x Inherently Serene at Giri
 
-Giri x Inherently Serene on Fri 31 Jul, Berlin. 2 acts on the bill: Rafa Paella and cheng nwsh. Hip-Hop and R&B. Preview the line-up and save it on soundcheck.
+Giri x Inherently Serene on Fri 31 Jul, Berlin. 2 acts on the bill: cheng nwsh and Rafa Paella. Hip-Hop and R&B. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,7 +10,7 @@ Giri x Inherently Serene on Fri 31 Jul, Berlin. 2 acts on the bill: Rafa Paella 
 
 ## Line-up
 
-- Rafa Paella
 - cheng nwsh
+- Rafa Paella
 
 *Source: [soundcheck](https://soundcheck.club/e/2478227-giri-x-inherently-serene-at-giri/)*

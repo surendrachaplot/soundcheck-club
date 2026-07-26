@@ -1,6 +1,6 @@
 # XRDS festival 2026 at Parc des Etangs/Vijverspark
 
-XRDS festival 2026 at Parc des Etangs/Vijverspark on Fri 14 Aug, Brussels. 59 acts on the bill: 1morning, Alarico, AliA and Altinbas and 55 more. Preview the line-up and save it on soundcheck.
+XRDS festival 2026 at Parc des Etangs/Vijverspark on Fri 14 Aug, Brussels. 59 acts on the bill: 1morning, ako, Alarico and AliA and 55 more. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -11,6 +11,7 @@ XRDS festival 2026 at Parc des Etangs/Vijverspark on Fri 14 Aug, Brussels. 59 ac
 ## Line-up
 
 - 1morning
+- ako
 - Alarico
 - AliA
 - Altinbas
@@ -26,22 +27,22 @@ XRDS festival 2026 at Parc des Etangs/Vijverspark on Fri 14 Aug, Brussels. 59 ac
 - Clara D
 - Colin Benders
 - D.Dan
+- Dana Kuehr
 - DAX J
 - DJ Nobu
-- Dana Kuehr
 - Donato Dozzy
-- FJAAK
 - Fais Le Beau
+- FJAAK
 - Freddy K
 - Goldie
 - Hysope
 - Ina Kaysen
 - Katatonic Silentio
 - Kuba'97
-- MARRØN
 - Mall Grab
 - Mantra
 - Marie-Julie
+- MARRØN
 - Mia Koden
 - Mischluft
 - Ogazón
@@ -51,14 +52,16 @@ XRDS festival 2026 at Parc des Etangs/Vijverspark on Fri 14 Aug, Brussels. 59 ac
 - Rosati
 - Roza Terenzi
 - Ryan Elliott
-- SHERELLE
-- STERAC
 - Sedef Adasï
 - Setaoc Mass
+- SHERELLE
 - Shoplifter
 - Sookie
 - Souleiman
+- southstar
 - Special Request
+- STERAC
+- su:zy
 - Sully
 - Supergloss
 - UNOS
@@ -66,8 +69,5 @@ XRDS festival 2026 at Parc des Etangs/Vijverspark on Fri 14 Aug, Brussels. 59 ac
 - Wala
 - Wata Igarashi
 - Yanamaste
-- ako
-- southstar
-- su:zy
 
 *Source: [soundcheck](https://soundcheck.club/e/2350920-xrds-festival-2026-at-parc-des-etangs-vijverspark/)*

@@ -1,6 +1,6 @@
 # DJ Nah Care
 
-DJ Nah Care is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Sat, 25 Jul 2026, next at Sigurd CPH, Copenhagen on Sat, 1 Aug 2026.
+DJ Nah Care is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Sun, 26 Jul 2026, next at Sigurd CPH, Copenhagen on Sat, 1 Aug 2026.
 
 DJ Nah Care is a techno and house artist tracked on soundcheck, with 73 sets logged across Amsterdam, Barcelona, Berlin and Copenhagen and 7 more. Often billed alongside Ezy, Entree and Peachlyfe. Next up: Sigurd CPH, Copenhagen on Sat 1 Aug.
 
@@ -27,4 +27,4 @@ DJ Nah Care is a techno and house artist tracked on soundcheck, with 73 sets log
 
 Ezy, Entree, Peachlyfe
 
-*Updated Sat, 25 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/djnahcare/)*
+*Updated Sun, 26 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/djnahcare/)*

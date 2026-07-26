@@ -1,6 +1,6 @@
 # Polyamor Melbourne 2026 at TBA
 
-Polyamor Melbourne 2026 at TBA on Sat 5 Sept, Melbourne. 6 acts on the bill: AKEYLAH, Cleopard2000, Kiara Friend and Mika Heggemann and 2 more. Trance. Preview the line-up and save it on soundcheck.
+Polyamor Melbourne 2026 at TBA on Sat 5 Sept, Melbourne. 6 acts on the bill: AKEYLAH, Cleopard2000, davyboi and Kiara Friend and 2 more. Trance. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -12,9 +12,9 @@ Polyamor Melbourne 2026 at TBA on Sat 5 Sept, Melbourne. 6 acts on the bill: AKE
 
 - AKEYLAH
 - Cleopard2000
+- davyboi
 - Kiara Friend
 - Mika Heggemann
 - Trancemaster Krause
-- davyboi
 
 *Source: [soundcheck](https://soundcheck.club/e/2417864-polyamor-melbourne-2026-at-tba/)*

@@ -17,8 +17,8 @@ Terminal V London at DRUMSHEDS on Fri 23 Oct, London. 14 acts on the bill: 6 SEN
 - Holy Priest
 - Juicy Romance
 - KLOUD
-- LAUZ
 - Laure Croft
+- LAUZ
 - Lola Cerise
 - MARIEEEA
 - Nikolina

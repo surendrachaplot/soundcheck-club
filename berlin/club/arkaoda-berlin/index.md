@@ -1,14 +1,13 @@
 # arkaoda Berlin
 
-arkaoda Berlin is a music venue in Berlin with 10 upcoming nights listed on soundcheck as of Sat, 25 Jul 2026; the next is "Future3 'Despite the Rumbling' LP Release Party" on Sat, 25 Jul 2026.
+arkaoda Berlin is a music venue in Berlin with 9 upcoming nights listed on soundcheck as of Sun, 26 Jul 2026; the next is "Signal To Noise: Vicente Yáñez, Kėkė Søl, Guro Kverndokk" on Thu, 30 Jul 2026.
 
-arkaoda Berlin is a music venue in Berlin listed on soundcheck. 10 upcoming nights, with line-ups including A.Wild, Batukizer, CRUHDA and Diamin and 2 more. Browse upcoming dates, start times and who's playing. Karl-Marx Platz 16 12043 Berlin, Germany.
+arkaoda Berlin is a music venue in Berlin listed on soundcheck. 9 upcoming nights, with line-ups including A.Wild, Batukizer, CRUHDA and Diamin and 2 more. Browse upcoming dates, start times and who's playing. Karl-Marx Platz 16 12043 Berlin, Germany.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Sat, 25 Jul 2026 | Future3 'Despite the Rumbling' LP Release Party |  |
 | Thu, 30 Jul 2026 | Signal To Noise: Vicente Yáñez, Kėkė Søl, Guro Kverndokk |  |
 | Fri, 31 Jul 2026 | MNJM | ELAYN, Kasja, Mahita, Milad Samara, Qow |
 | Sat, 1 Aug 2026 | Batukizer & Kabulom at arkaoda | Batukizer, Kabulom |
@@ -23,4 +22,4 @@ arkaoda Berlin is a music venue in Berlin listed on soundcheck. 10 upcoming nigh
 
 Karl-Marx Platz 16 12043 Berlin, Germany, Berlin
 
-*Updated Sat, 25 Jul 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/arkaoda-berlin/)*
+*Updated Sun, 26 Jul 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/arkaoda-berlin/)*

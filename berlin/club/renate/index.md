@@ -1,14 +1,13 @@
 # Renate
 
-Renate is a music venue in Berlin with 17 upcoming nights listed on soundcheck as of Sat, 25 Jul 2026; the next is "FRIENDS WITH BENEFITS (CSD takeover by 131BPM x Golosa x Homodrop) (Free Entry before 4PM)" on Sat, 25 Jul 2026.
+Renate is a music venue in Berlin with 16 upcoming nights listed on soundcheck as of Sun, 26 Jul 2026; the next is "Renate x Dollhaus" on Thu, 30 Jul 2026.
 
-Renate is a music venue in Berlin listed on soundcheck. 17 upcoming nights, with line-ups including 131bpm, Aaron Blau, Aceedo and Adis Is OK and 2 more. Browse upcoming dates, start times and who's playing. Alt Stralau 70; Friedrichshain; 10245 Berlin; Germany.
+Renate is a music venue in Berlin listed on soundcheck. 16 upcoming nights, with line-ups including Aceedo, Adis Is OK, Aidan and Alison Swing and 2 more. Browse upcoming dates, start times and who's playing. Alt Stralau 70; Friedrichshain; 10245 Berlin; Germany.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Sat, 25 Jul 2026 | FRIENDS WITH BENEFITS (CSD takeover by 131BPM x Golosa x Homodrop) (Free Entry before 4PM) | 131bpm, ALP (DE), Aaron Blau, Anna Almani, Cheriii, Cooper Cooper, Dgeral, Dj handbag, Electrosexual, Flemish.Fetish, HENNY (2), JAM JAM, James Lotion, Mashyno, Posture, Sherø, Sub Sahara, ZANNT, angelboy, puppy |
 | Thu, 30 Jul 2026 | Renate x Dollhaus | Ayolxi, Gabrielle (DE), KLEA, Taurean |
 | Fri, 31 Jul 2026 | Renate Klubnacht + Open Air (Free Entry) with Craigie Knowes & Phuong Dan | Craigie Knowes, DJ Life, Dream_E, Eliza (2), Lyla, Nimb, Phuong Dan, The Burrell Connection, kairavi |
 | Sat, 1 Aug 2026 | Renate Klubnacht + Open Air (Free Entry) w/ FEIERAMT & Lush Lab | Aidan, CSILLA, Clovis, EMIRA, Edgar Peng, Enzio Etchaberri, Harrison (2), Harrison (UK), Heka, João Comazzi, Leo Roskovec, Lush Lab, Maris Shilton, Richii, Tristan Blach |
@@ -18,9 +17,10 @@ Renate is a music venue in Berlin listed on soundcheck. 17 upcoming nights, with
 | Thu, 13 Aug 2026 | Renate Klubnacht + Open Air (Free Entry) |  |
 | Sat, 15 Aug 2026 | Renate Klubnacht + Open Air (Free Entry) w/ S3XI, DUAT & Antina Christ | Alison Swing, Amin Fallaha, Chris Ku, Cosmic Cherry, DJ ZBB, Disco Sour, Eluzid, Horkheimer, Karina Schneider, Tajik |
 | Thu, 20 Aug 2026 | Renate x Queer Vinyl Night (Klubnacht + Free Open Air) | Jimmie, Kidcat, SALAS, zikade |
+| Sat, 22 Aug 2026 | Renate Klubnacht + Open Air (Free Entry) with RDS, Eversines, Marie K, Iterations + Dub & Dal | DJ SKIN, Eversines, Frank Heise, Mademoisel, Marie K (1), Philipp Drube, Pieter Jansen, RDS |
 
 ## Address
 
 Alt Stralau 70; Friedrichshain; 10245 Berlin; Germany, Berlin
 
-*Updated Sat, 25 Jul 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/renate/)*
+*Updated Sun, 26 Jul 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/renate/)*

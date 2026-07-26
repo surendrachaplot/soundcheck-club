@@ -17,11 +17,11 @@ Four Play at KitKatClub on Fri 7 Aug, Berlin. 13 acts on the bill: Alex Friday, 
 - Brtinzz
 - La Fille
 - Marit
+- maxim_jl
 - Noor Sanchez
 - Oliver Deutschmann
 - Rafa Paella
 - Sai
 - Trippsy
-- maxim_jl
 
 *Source: [soundcheck](https://soundcheck.club/e/2326242-four-play-at-kitkatclub/)*

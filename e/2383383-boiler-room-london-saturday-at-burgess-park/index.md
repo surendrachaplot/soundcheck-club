@@ -1,6 +1,6 @@
 # Boiler Room: London - Saturday at Burgess Park
 
-Boiler Room: London - Saturday at Burgess Park on Sat 1 Aug, London. 20 acts on the bill: 999999999, AANYA, BIIANCO and Bassvictim and 16 more. Preview the line-up and save it on soundcheck.
+Boiler Room: London - Saturday at Burgess Park on Sat 1 Aug, London. 20 acts on the bill: 999999999, AANYA, Bassvictim and Benwal and 16 more. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -12,21 +12,21 @@ Boiler Room: London - Saturday at Burgess Park on Sat 1 Aug, London. 20 acts on 
 
 - 999999999
 - AANYA
-- BIIANCO
 - Bassvictim
 - Benwal
+- BIIANCO
 - Bladee
 - Clara Cuvé
 - Cloudy
 - Daria Kolosova
-- FIFI (2)
 - Fenrick
+- FIFI (2)
 - Hiroko Yamamura
 - Impulsive Behaviour
 - KOLLIN
 - Moon Roq
-- NOVAH
 - Nikolina
+- NOVAH
 - Serafina
 - TDJ
 - The Dare

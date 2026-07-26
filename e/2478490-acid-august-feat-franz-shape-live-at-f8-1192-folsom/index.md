@@ -1,6 +1,6 @@
 # Acid August feat. Franz & Shape Live at F8 1192 Folsom
 
-Acid August feat. Franz & Shape Live at F8 1192 Folsom on Thu 6 Aug, Sanfrancisco. 7 acts on the bill: Amatric, Femme Jatale, Franz & Shape and HEAVENLY ARCH and 3 more. Techno and Acid. Preview the line-up and save it on soundcheck.
+Acid August feat. Franz & Shape Live at F8 1192 Folsom on Thu 6 Aug, Sanfrancisco. 7 acts on the bill: Amatric, Femme Jatale, Franz & Shape and grep and 3 more. Techno and Acid. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -13,9 +13,9 @@ Acid August feat. Franz & Shape Live at F8 1192 Folsom on Thu 6 Aug, Sanfrancisc
 - Amatric
 - Femme Jatale
 - Franz & Shape
+- grep
 - HEAVENLY ARCH
 - Moonpie
 - Nexus-6
-- grep
 
 *Source: [soundcheck](https://soundcheck.club/e/2478490-acid-august-feat-franz-shape-live-at-f8-1192-folsom/)*

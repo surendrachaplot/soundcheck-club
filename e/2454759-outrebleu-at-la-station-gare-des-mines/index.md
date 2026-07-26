@@ -1,6 +1,6 @@
 # OUTREBLEU at La Station - Gare des Mines
 
-OUTREBLEU at La Station - Gare des Mines on Sat 1 Aug, Paris. 3 acts on the bill: Kohra, SOLARYTHM and Softi. Preview the line-up and save it on soundcheck.
+OUTREBLEU at La Station - Gare des Mines on Sat 1 Aug, Paris. 3 acts on the bill: Kohra, Softi and SOLARYTHM. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -11,7 +11,7 @@ OUTREBLEU at La Station - Gare des Mines on Sat 1 Aug, Paris. 3 acts on the bill
 ## Line-up
 
 - Kohra
-- SOLARYTHM
 - Softi
+- SOLARYTHM
 
 *Source: [soundcheck](https://soundcheck.club/e/2454759-outrebleu-at-la-station-gare-des-mines/)*

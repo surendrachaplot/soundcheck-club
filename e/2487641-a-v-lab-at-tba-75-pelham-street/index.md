@@ -1,6 +1,6 @@
 # A/V LAB at TBA - 75 Pelham Street
 
-A/V LAB at TBA - 75 Pelham Street on Sat 8 Aug, Toronto. 7 acts on the bill: Ali Phi, Dastgamachine, Ester Shiner and MMRI and 3 more. Experimental and Dub Techno. Preview the line-up and save it on soundcheck.
+A/V LAB at TBA - 75 Pelham Street on Sat 8 Aug, Toronto. 7 acts on the bill: Ali Phi, Dastgamachine, Ester Shiner and Mahmood Schricker and 3 more. Experimental and Dub Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -13,8 +13,8 @@ A/V LAB at TBA - 75 Pelham Street on Sat 8 Aug, Toronto. 7 acts on the bill: Ali
 - Ali Phi
 - Dastgamachine
 - Ester Shiner
-- MMRI
 - Mahmood Schricker
+- MMRI
 - Neonlichter
 - PARALLELL
 

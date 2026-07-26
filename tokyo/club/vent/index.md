@@ -1,14 +1,13 @@
 # VENT
 
-VENT is a music venue in Tokyo with 17 upcoming nights listed on soundcheck as of Sat, 25 Jul 2026; the next is "CAPTAIN VINYL , DJ Koco aka Shimokita" on Sat, 25 Jul 2026.
+VENT is a music venue in Tokyo with 16 upcoming nights listed on soundcheck as of Sun, 26 Jul 2026; the next is "Takkyu Ishino" on Fri, 31 Jul 2026.
 
-VENT is a music venue in Tokyo listed on soundcheck. 17 upcoming nights, with line-ups including Aki Dolanikov, AKIRAM EN, Andre McLeod and Answer Code Request and 2 more. Browse upcoming dates, start times and who's playing. Festae Omotesando Building B1F, 3-18-19 Minami Aoyama, Minato-ku, Tokyo, 107-0062 Japan.
+VENT is a music venue in Tokyo listed on soundcheck. 16 upcoming nights, with line-ups including Aki Dolanikov, AKIRAM EN, Answer Code Request and BANANA-CHAN and 2 more. Browse upcoming dates, start times and who's playing. Festae Omotesando Building B1F, 3-18-19 Minami Aoyama, Minato-ku, Tokyo, 107-0062 Japan.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Sat, 25 Jul 2026 | CAPTAIN VINYL , DJ Koco aka Shimokita | Andre McLeod, DJ Koco aka Shimokita, HEAVEN, Mizuki, Nari (2), Soma (2) |
 | Fri, 31 Jul 2026 | Takkyu Ishino | K A I, Takkyu Ishino, Terax, hidemi |
 | Sat, 1 Aug 2026 | GOMA , 三星章紘 | AKIRAM EN, Aki Dolanikov, Mykey (2), savezearth |
 | Fri, 7 Aug 2026 | ANSWERCODE REQUEST | Answer Code Request, IRON, Jun (+886), Kulage, LiaRako, Remi Ohsugi, WAKA XINXI |
@@ -18,9 +17,10 @@ VENT is a music venue in Tokyo listed on soundcheck. 17 upcoming nights, with li
 | Sat, 15 Aug 2026 | LB aka LABAT | BANANA-CHAN, HERO (JPN), LB aka LABAT |
 | Fri, 21 Aug 2026 | Haruka | Haruka, Kengo Yuasa, Lisa Mizuno, tnseei |
 | Sat, 22 Aug 2026 | Simon Vuarambon | Simon Vuarambon |
+| Fri, 28 Aug 2026 | Laolu | Laolu |
 
 ## Address
 
 Festae Omotesando Building B1F, 3-18-19 Minami Aoyama, Minato-ku, Tokyo, 107-0062 Japan, Tokyo
 
-*Updated Sat, 25 Jul 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/vent/)*
+*Updated Sun, 26 Jul 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/vent/)*

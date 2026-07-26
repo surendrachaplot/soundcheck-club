@@ -1,6 +1,6 @@
 # Pyramid at Amnesia Ibiza
 
-Pyramid at Amnesia Ibiza on Sun 13 Sept, Ibiza. 9 acts on the bill: ANNĒ, Anitë, Francesco Del Garda and Ignez and 5 more. Techno and Tech House. Preview the line-up and save it on soundcheck.
+Pyramid at Amnesia Ibiza on Sun 13 Sept, Ibiza. 9 acts on the bill: Anitë, ANNĒ, Francesco Del Garda and Ignez and 5 more. Techno and Tech House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,8 +10,8 @@ Pyramid at Amnesia Ibiza on Sun 13 Sept, Ibiza. 9 acts on the bill: ANNĒ, Anit�
 
 ## Line-up
 
-- ANNĒ
 - Anitë
+- ANNĒ
 - Francesco Del Garda
 - Ignez
 - Luciano

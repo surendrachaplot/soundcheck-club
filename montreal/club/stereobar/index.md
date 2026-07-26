@@ -1,14 +1,13 @@
 # StereoBar
 
-StereoBar is a music venue in Montreal with 17 upcoming nights listed on soundcheck as of Sat, 25 Jul 2026; the next is "Amper x SB: Recondite - Pria - Nab - Zac Martel" on Sat, 25 Jul 2026.
+StereoBar is a music venue in Montreal with 16 upcoming nights listed on soundcheck as of Sun, 26 Jul 2026; the next is "LBD: Elio Elia (All Night Long)" on Sun, 26 Jul 2026.
 
-StereoBar is a music venue in Montreal listed on soundcheck. 17 upcoming nights, with line-ups including Adam Husa, Armen Miran, Audrey Bélanger and Binh and 2 more. Browse upcoming dates, start times and who's playing. 856 Saint Catherine East, Montreal, Quebec, H2L2E3.
+StereoBar is a music venue in Montreal listed on soundcheck. 16 upcoming nights, with line-ups including Adam Husa, Armen Miran, Audrey Bélanger and Binh and 2 more. Browse upcoming dates, start times and who's playing. 856 Saint Catherine East, Montreal, Quebec, H2L2E3.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Sat, 25 Jul 2026 | Amper x SB: Recondite - Pria - Nab - Zac Martel | Prïa, Recondite, Zac Martel |
 | Sun, 26 Jul 2026 | LBD: Elio Elia (All Night Long) |  |
 | Fri, 31 Jul 2026 | slugg (All Night Long) | slugg |
 | Sat, 1 Aug 2026 | Analog Volts x SB: Binh - Percü | Binh, Percü |
@@ -18,9 +17,10 @@ StereoBar is a music venue in Montreal listed on soundcheck. 17 upcoming nights,
 | Sun, 9 Aug 2026 | ileSoniq Official Afterparty x LBD: Guillaume Michaud (All Night Long) | Guillaume Michaud |
 | Fri, 14 Aug 2026 | Martyn Bootyspoon (All Night Long) | Martyn Bootyspoon |
 | Sat, 15 Aug 2026 | Analog Volts x SB: Ivan Iacobucci - Stella Fiore - CPR Annie - Matsehora | CPR Annie, Ivan Iacobucci, Matsehora, Stella Fiore |
+| Sun, 16 Aug 2026 | LBD: FAMÜ & K.Lein | FAMÜ |
 
 ## Address
 
 856 Saint Catherine East, Montreal, Quebec, H2L2E3, Montreal
 
-*Updated Sat, 25 Jul 2026 · source: [soundcheck](https://soundcheck.club/montreal/club/stereobar/)*
+*Updated Sun, 26 Jul 2026 · source: [soundcheck](https://soundcheck.club/montreal/club/stereobar/)*

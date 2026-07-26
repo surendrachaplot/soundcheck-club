@@ -1,6 +1,6 @@
 # Two Tribes CAMPFIRE
 
-Two Tribes CAMPFIRE is a music venue in London with 6 upcoming nights listed on soundcheck as of Sat, 25 Jul 2026; the next is "HAUSWERKS LONDON" on Fri, 31 Jul 2026.
+Two Tribes CAMPFIRE is a music venue in London with 6 upcoming nights listed on soundcheck as of Sun, 26 Jul 2026; the next is "HAUSWERKS LONDON" on Fri, 31 Jul 2026.
 
 Two Tribes CAMPFIRE is a music venue in London listed on soundcheck. 6 upcoming nights, with line-ups including Ardishko, babydj, Braaks and DATTA and 2 more. Browse upcoming dates, start times and who's playing. Tile Yard Studios, Tileyard Road, Kings Cross, London N7 9AH.
 
@@ -19,4 +19,4 @@ Two Tribes CAMPFIRE is a music venue in London listed on soundcheck. 6 upcoming 
 
 Tile Yard Studios, Tileyard Road, Kings Cross, London N7 9AH, London
 
-*Updated Sat, 25 Jul 2026 · source: [soundcheck](https://soundcheck.club/london/club/two-tribes-campfire/)*
+*Updated Sun, 26 Jul 2026 · source: [soundcheck](https://soundcheck.club/london/club/two-tribes-campfire/)*

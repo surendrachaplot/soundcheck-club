@@ -1,6 +1,6 @@
 # Fragment at Algha's Plantroom
 
-Fragment at Algha's Plantroom on Sat 12 Sept, London. 11 acts on the bill: ANTIPODES, CITYTRONIX, Gia Genesis and Nina Pixina and 7 more. Techno. Preview the line-up and save it on soundcheck.
+Fragment at Algha's Plantroom on Sat 12 Sept, London. 11 acts on the bill: ANTIPODES, CITYTRONIX, dj people's princess and Gia Genesis and 7 more. Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -12,14 +12,14 @@ Fragment at Algha's Plantroom on Sat 12 Sept, London. 11 acts on the bill: ANTIP
 
 - ANTIPODES
 - CITYTRONIX
+- dj people's princess
 - Gia Genesis
 - Nina Pixina
 - Noah Tauber
+- nohexcode
 - SBBS
 - TAHA ONE
 - Varanasi
 - WVRM POOL
-- dj people's princess
-- nohexcode
 
 *Source: [soundcheck](https://soundcheck.club/e/2424595-fragment-at-algha-s-plantroom/)*

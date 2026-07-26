@@ -1,14 +1,13 @@
 # Firn
 
-Firn is a music venue in Seattle with 2 upcoming nights listed on soundcheck as of Sat, 25 Jul 2026; the next is "Firn Frequency: Restless Planet (Saturday)" on Sat, 25 Jul 2026.
+Firn is a music venue in Seattle with 1 upcoming night listed on soundcheck as of Sun, 26 Jul 2026; the next is "Firn Frequency: Restless Planet (Sunday)" on Sun, 26 Jul 2026.
 
-Firn is a music venue in Seattle listed on soundcheck. 2 upcoming nights, with line-ups including alexia.f. Browse upcoming dates, start times and who's playing.
+Firn is a music venue in Seattle listed on soundcheck. 1 upcoming night, with line-ups including alexia.f. Browse upcoming dates, start times and who's playing.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Sat, 25 Jul 2026 | Firn Frequency: Restless Planet (Saturday) |  |
 | Sun, 26 Jul 2026 | Firn Frequency: Restless Planet (Sunday) | alexia.f |
 
-*Updated Sat, 25 Jul 2026 · source: [soundcheck](https://soundcheck.club/seattle/club/firn/)*
+*Updated Sun, 26 Jul 2026 · source: [soundcheck](https://soundcheck.club/seattle/club/firn/)*

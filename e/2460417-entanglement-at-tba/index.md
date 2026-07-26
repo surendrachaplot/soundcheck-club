@@ -19,10 +19,11 @@ Entanglement at TBA on Fri 18 Sept, Sanfrancisco. 32 acts on the bill: Afriqua, 
 - Clarisa Kimskii
 - Craig Gonzalez
 - Crossing Avenue
-- DJ MARIA.
 - Daniel Bell
 - Derek Plaslaiko
+- DJ MARIA.
 - Erika
+- erika (SF)
 - Function
 - Garçon
 - Haruka
@@ -37,10 +38,9 @@ Entanglement at TBA on Fri 18 Sept, Sanfrancisco. 32 acts on the bill: Afriqua, 
 - Pianeti Sintetici
 - Raica
 - Sarah Wreath
+- sfcowboy
 - Suzanne Ciani
 - Torsion
 - Wata Igarashi
-- erika (SF)
-- sfcowboy
 
 *Source: [soundcheck](https://soundcheck.club/e/2460417-entanglement-at-tba/)*

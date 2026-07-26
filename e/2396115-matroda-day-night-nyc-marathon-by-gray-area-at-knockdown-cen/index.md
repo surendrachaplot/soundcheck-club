@@ -14,8 +14,8 @@ Matroda Day & Night NYC Marathon by Gray Area at Knockdown Center on Fri 14 Aug,
 - Mary Jane
 - Mary Jane (US)
 - Matroda
+- nachoscoppa
 - Richy Ahmed
 - Yaya
-- nachoscoppa
 
 *Source: [soundcheck](https://soundcheck.club/e/2396115-matroda-day-night-nyc-marathon-by-gray-area-at-knockdown-cen/)*

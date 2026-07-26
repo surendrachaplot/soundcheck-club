@@ -1,6 +1,6 @@
 # Peruvian Frequencies at The Rose
 
-Peruvian Frequencies at The Rose on Mon 27 Jul, Newyorkcity. 5 acts on the bill: Adesi, Henry.Internet, Yung Keaz and shirlz and 1 more. Techno and House. Preview the line-up and save it on soundcheck.
+Peruvian Frequencies at The Rose on Mon 27 Jul, Newyorkcity. 5 acts on the bill: Adesi, Henry.Internet, shirlz and vivaval and 1 more. Techno and House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -12,8 +12,8 @@ Peruvian Frequencies at The Rose on Mon 27 Jul, Newyorkcity. 5 acts on the bill:
 
 - Adesi
 - Henry.Internet
-- Yung Keaz
 - shirlz
 - vivaval
+- Yung Keaz
 
 *Source: [soundcheck](https://soundcheck.club/e/2489220-peruvian-frequencies-at-the-rose/)*

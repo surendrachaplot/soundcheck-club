@@ -1,6 +1,6 @@
 # papi at Praterinsel at Praterinsel
 
-papi at Praterinsel on Sat 22 Aug, Munich. 3 acts on the bill: TOXIMAMI, groovian peruvian and mafiii. Tech House. Preview the line-up and save it on soundcheck.
+papi at Praterinsel on Sat 22 Aug, Munich. 3 acts on the bill: groovian peruvian, mafiii and TOXIMAMI. Tech House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,8 +10,8 @@ papi at Praterinsel on Sat 22 Aug, Munich. 3 acts on the bill: TOXIMAMI, groovia
 
 ## Line-up
 
-- TOXIMAMI
 - groovian peruvian
 - mafiii
+- TOXIMAMI
 
 *Source: [soundcheck](https://soundcheck.club/e/2426257-papi-at-praterinsel-at-praterinsel/)*

@@ -1,14 +1,13 @@
 # Else
 
-Else is a music venue in Berlin with 25 upcoming nights listed on soundcheck as of Sat, 25 Jul 2026; the next is "Else x (lip) service edt. 12 CSD club special" on Sat, 25 Jul 2026.
+Else is a music venue in Berlin with 24 upcoming nights listed on soundcheck as of Sun, 26 Jul 2026; the next is "Else x IsBurning x Body Language x Garage Girls " on Sun, 26 Jul 2026.
 
-Else is a music venue in Berlin listed on soundcheck. 25 upcoming nights, with line-ups including 3LNA, AgainstMe, ain't Marco and ALCATRAZ and 2 more. Browse upcoming dates, start times and who's playing. An den Treptowers 10, 12435 Berlin.
+Else is a music venue in Berlin listed on soundcheck. 24 upcoming nights, with line-ups including 3LNA, AgainstMe, ain't Marco and ALCATRAZ and 2 more. Browse upcoming dates, start times and who's playing. An den Treptowers 10, 12435 Berlin.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Sat, 25 Jul 2026 | Else x (lip) service edt. 12 CSD club special | DJ AYA, DJ Fuckoff, DJ Gigola, Huamaniser, Jesse G, Juliana Huxtable, Margo XS, Miss Bashful, NORA (BR), deBasement |
 | Sun, 26 Jul 2026 | Else x IsBurning x Body Language x Garage Girls  |  |
 | Fri, 31 Jul 2026 | AOS W/ Egyptian Lover, X-Coast, DJ MELL G, DJ Spit, 3LNA, Stef de Haan & MANY MORE | 3LNA, Anton Jonathan, DJ Babyblade, DJ MELL G, DJ SWISHERMAN, DJ Spit, Egyptian Lover, EliaHaze, Krackk, Perra Inmunda, Robin Tasi, SZELEST, Shmonèss, Stef de Haan, Talia Dorr, X-Coast |
 | Sat, 1 Aug 2026 | Else x Freddy K pres. KEY Vinyl [12:00 starting time] | AYLIN IDAH, AgainstMe, Annie Lew, Fergus Sweetland, Freddy K, Kim She, Mara Menace, Philippa Pacho, Sons Of Hidden, Toobris, ain't Marco |
@@ -18,9 +17,10 @@ Else is a music venue in Berlin listed on soundcheck. 25 upcoming nights, with l
 | Fri, 14 Aug 2026 | Else x Hotlord Fest presented by LOVEFOXY | Bambounou, Eliza Rose, Kevin Saunderson, LACATY, LOVEFOXY |
 | Sat, 15 Aug 2026 | Else x Toy Tonics | Aroop Roy, Barbara Boeing, Emilia Callari, Laurence Guy, Max NRG Supply, Natalie Robinson, Stump Valley |
 | Fri, 21 Aug 2026 | Jackies Open Air Party Berlin - with Dennis Cruz | Aria Santillana, Dan Shake, Dennis Cruz, GIVIO, Nesi, Piem |
+| Sat, 22 Aug 2026 | Else x İÇ İÇE | Dornika, Melis Köke, Miss T Delight, Mohajer, Sanaz, Slimgirl fat, Souci, evin |
 
 ## Address
 
 An den Treptowers 10, 12435 Berlin, Berlin
 
-*Updated Sat, 25 Jul 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/else/)*
+*Updated Sun, 26 Jul 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/else/)*

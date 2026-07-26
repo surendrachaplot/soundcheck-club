@@ -1,6 +1,6 @@
 # Natasha Diggs
 
-Natasha Diggs is a House and Funk / Soul artist with 8 upcoming club dates listed on soundcheck as of Sat, 25 Jul 2026, next at 99 Scott Ave, New York City on Fri, 31 Jul 2026.
+Natasha Diggs is a House and Funk / Soul artist with 8 upcoming club dates listed on soundcheck as of Sun, 26 Jul 2026, next at 99 Scott Ave, New York City on Fri, 31 Jul 2026.
 
 Natasha Diggs is a house and funk / soul artist tracked on soundcheck, with 116 sets logged across Amsterdam, Auckland, Bali and Barcelona and 20 more. Often billed alongside Melvo Baptiste, The Shapeshifters and L3Ni. Next up: 99 Scott Ave, Newyorkcity on Fri 31 Jul.
 
@@ -32,4 +32,4 @@ Natasha Diggs is a house and funk / soul artist tracked on soundcheck, with 116 
 
 Melvo Baptiste, The Shapeshifters, L3Ni
 
-*Updated Sat, 25 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/natashadiggs/)*
+*Updated Sun, 26 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/natashadiggs/)*

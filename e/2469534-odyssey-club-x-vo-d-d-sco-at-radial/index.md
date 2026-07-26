@@ -1,6 +1,6 @@
 # ODYSSEY:CLUB X VO!D D!SCO at radial
 
-ODYSSEY:CLUB X VO!D D!SCO at radial on Fri 7 Aug, London. 7 acts on the bill: Brother of Set, Claudia Kane, JON KRIEGER and Jane Darke and 3 more. EBM and Italo Disco. Preview the line-up and save it on soundcheck.
+ODYSSEY:CLUB X VO!D D!SCO at radial on Fri 7 Aug, London. 7 acts on the bill: Brother of Set, Claudia Kane, Jane Darke and JON KRIEGER and 3 more. EBM and Italo Disco. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -12,8 +12,8 @@ ODYSSEY:CLUB X VO!D D!SCO at radial on Fri 7 Aug, London. 7 acts on the bill: Br
 
 - Brother of Set
 - Claudia Kane
-- JON KRIEGER
 - Jane Darke
+- JON KRIEGER
 - Kutkh Jackdaw
 - Lais Pattak
 - METALLIC LOVER

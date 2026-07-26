@@ -1,6 +1,6 @@
 # Tresor meets Fireground at Tresor / Globus
 
-Tresor meets Fireground at Tresor / Globus on Fri 28 Aug, Berlin. 7 acts on the bill: DJ T-1000, DTM Funk, Denise Rabe and Fireground and 3 more. Preview the line-up and save it on soundcheck.
+Tresor meets Fireground at Tresor / Globus on Fri 28 Aug, Berlin. 7 acts on the bill: Denise Rabe, DJ T-1000, DTM Funk and Fireground and 3 more. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,9 +10,9 @@ Tresor meets Fireground at Tresor / Globus on Fri 28 Aug, Berlin. 7 acts on the 
 
 ## Line-up
 
+- Denise Rabe
 - DJ T-1000
 - DTM Funk
-- Denise Rabe
 - Fireground
 - Half A Man
 - Regal86

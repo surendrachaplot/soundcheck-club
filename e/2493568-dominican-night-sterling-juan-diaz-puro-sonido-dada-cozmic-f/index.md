@@ -14,11 +14,11 @@ Dominican Night: Sterling Juan Diaz, Puro Sonido, DADA COZMIC, Fried Platano, Ma
 - Bendito
 - DADA COZMIC
 - Donis
+- friedplatano
 - Honey Dip
 - Jeremy Giros
 - Maya Margarita
 - Sterling Juan Diaz
 - Total XTC
-- friedplatano
 
 *Source: [soundcheck](https://soundcheck.club/e/2493568-dominican-night-sterling-juan-diaz-puro-sonido-dada-cozmic-f/)*

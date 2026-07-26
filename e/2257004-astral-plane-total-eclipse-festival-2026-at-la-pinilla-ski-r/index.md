@@ -16,10 +16,10 @@ Astral Plane: Total Eclipse Festival 2026 at La Pinilla Ski Resort on Mon 10 Aug
 - Black Loops
 - Chez Damier
 - Coyu
-- DJ Fuckoff
-- DJ Stingray 313
 - Deceit
 - Dense & Pika
+- DJ Fuckoff
+- DJ Stingray 313
 - Eli Escobar
 - Ellen Allien
 - Eris Drew
@@ -31,8 +31,8 @@ Astral Plane: Total Eclipse Festival 2026 at La Pinilla Ski Resort on Mon 10 Aug
 - Kevin Saunderson
 - Lilly Palmer
 - Luke Slater
-- MARRØN
 - Mano Le Tough
+- MARRØN
 - Matt Sassari
 - Nicole Moudaber
 - Or:la

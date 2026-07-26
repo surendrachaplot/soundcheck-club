@@ -17,8 +17,8 @@ XTRUDE x LASTER w/ Alarico, Akua, Olivia Mendez, Sandrien and Kameliia at RSO.BE
 - Kameliia
 - Laia
 - Nadia Struiwigh
-- ORBE
 - Olivia Mendez
+- ORBE
 - Psyk
 - Roll Dann
 - Sandrien

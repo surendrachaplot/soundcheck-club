@@ -1,6 +1,6 @@
 # [PHANTOM GROUP] KLUBNACHT w MØRRIS / Won / ALTBASE / BROEKSTER / PHILSBAD7 at John Doe
 
-[PHANTOM GROUP] KLUBNACHT w MØRRIS / Won / ALTBASE / BROEKSTER / PHILSBAD7 at John Doe on Tue 29 Sept, Amsterdam. 3 acts on the bill: Morris (1), Mørris and Won. Techno and Industrial. Preview the line-up and save it on soundcheck.
+[PHANTOM GROUP] KLUBNACHT w MØRRIS / Won / ALTBASE / BROEKSTER / PHILSBAD7 at John Doe on Tue 29 Sept, Amsterdam. 3 acts on the bill: Mørris, Morris (1) and Won. Techno and Industrial. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,8 +10,8 @@
 
 ## Line-up
 
-- Morris (1)
 - Mørris
+- Morris (1)
 - Won
 
 *Source: [soundcheck](https://soundcheck.club/e/2482196-phantom-group-klubnacht-w-m-rris-won-altbase-broekster-phils/)*

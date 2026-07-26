@@ -25,6 +25,7 @@ Wuza X at Jonny Knüppel on Fri 31 Jul, Berlin. 24 acts on the bill: Allynx, Ant
 - Kahl & Kæmena
 - Kataya
 - Los Cabra
+- loufo
 - Maria Theresia von Eberg
 - NÚRIA (DE)
 - Raphael Hofman
@@ -33,6 +34,5 @@ Wuza X at Jonny Knüppel on Fri 31 Jul, Berlin. 24 acts on the bill: Allynx, Ant
 - Saraabb
 - TraumaMia
 - Urem
-- loufo
 
 *Source: [soundcheck](https://soundcheck.club/e/2470175-wuza-x-at-jonny-kn-ppel/)*

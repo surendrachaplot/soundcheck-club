@@ -1,6 +1,6 @@
 # Arise festival: London edition at Unit 58
 
-Arise festival: London edition at Unit 58 on Fri 9 Oct, London. 11 acts on the bill: BJ Holy, Hovsep, Hovsep (AM) and Moa Pillar and 7 more. Experimental and Electronica. Preview the line-up and save it on soundcheck.
+Arise festival: London edition at Unit 58 on Fri 9 Oct, London. 11 acts on the bill: acidhousewife3000, BJ Holy, costi (1) and dbeater and 7 more. Experimental and Electronica. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,7 +10,10 @@ Arise festival: London edition at Unit 58 on Fri 9 Oct, London. 11 acts on the b
 
 ## Line-up
 
+- acidhousewife3000
 - BJ Holy
+- costi (1)
+- dbeater
 - Hovsep
 - Hovsep (AM)
 - Moa Pillar
@@ -18,8 +21,5 @@ Arise festival: London edition at Unit 58 on Fri 9 Oct, London. 11 acts on the b
 - Mujuice
 - Salena
 - Ushko
-- acidhousewife3000
-- costi (1)
-- dbeater
 
 *Source: [soundcheck](https://soundcheck.club/e/2482157-arise-festival-london-edition-at-unit-58/)*

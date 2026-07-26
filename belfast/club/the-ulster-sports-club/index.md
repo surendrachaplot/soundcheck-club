@@ -1,14 +1,13 @@
 # The Ulster Sports Club
 
-The Ulster Sports Club is a music venue in Belfast with 10 upcoming nights listed on soundcheck as of Sat, 25 Jul 2026; the next is "USC pres. Pride '26 with Daniel Wang" on Sat, 25 Jul 2026.
+The Ulster Sports Club is a music venue in Belfast with 9 upcoming nights listed on soundcheck as of Sun, 26 Jul 2026; the next is "head above water // Welcomes Timmy Stewart" on Fri, 31 Jul 2026.
 
-The Ulster Sports Club is a music venue in Belfast listed on soundcheck. 10 upcoming nights, with line-ups including Adam Munn, Blark, brawni and ByPhil and 2 more. Browse upcoming dates, start times and who's playing. The Ulster Sports Club 98 High St, Belfast BT1 2BE, Northern Ireland, United Kingdom.
+The Ulster Sports Club is a music venue in Belfast listed on soundcheck. 9 upcoming nights, with line-ups including Adam Munn, Blark, brawni and ByPhil and 2 more. Browse upcoming dates, start times and who's playing. The Ulster Sports Club 98 High St, Belfast BT1 2BE, Northern Ireland, United Kingdom.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Sat, 25 Jul 2026 | USC pres. Pride '26 with Daniel Wang | Conor Schmtz, DJ Time of the Month, Daniel Wang, Marion Hawkes, Matcha |
 | Fri, 31 Jul 2026 | head above water // Welcomes Timmy Stewart | ByPhil, Timmy Stewart |
 | Fri, 31 Jul 2026 | OCD presents Chris Flannigan, Calum Connell, Rosie | Chris Flannigan |
 | Sat, 1 Aug 2026 | Social Sounds: Hannah B2B Sophie All Night Long  | Hannah (1), Sophie (2) |
@@ -23,4 +22,4 @@ The Ulster Sports Club is a music venue in Belfast listed on soundcheck. 10 upco
 
 The Ulster Sports Club 98 High St, Belfast BT1 2BE, Northern Ireland, United Kingdom, Belfast
 
-*Updated Sat, 25 Jul 2026 · source: [soundcheck](https://soundcheck.club/belfast/club/the-ulster-sports-club/)*
+*Updated Sun, 26 Jul 2026 · source: [soundcheck](https://soundcheck.club/belfast/club/the-ulster-sports-club/)*

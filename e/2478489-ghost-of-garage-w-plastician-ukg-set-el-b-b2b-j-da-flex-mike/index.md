@@ -1,6 +1,6 @@
 # GHOST OF GARAGE W/ Plastician (UKG SET), El-B B2B J DA FLEX, Mike Millrain, Lady Passion + more at Freight Brixton
 
-GHOST OF GARAGE W/ Plastician (UKG SET), El-B B2B J DA FLEX, Mike Millrain, Lady Passion + more at Freight Brixton on Sat 22 Aug, London. 5 acts on the bill: El-B, LARISHKA (UK), Lady Passion and Mike Millrain and 1 more. Garage. Preview the line-up and save it on soundcheck.
+GHOST OF GARAGE W/ Plastician (UKG SET), El-B B2B J DA FLEX, Mike Millrain, Lady Passion + more at Freight Brixton on Sat 22 Aug, London. 5 acts on the bill: El-B, Lady Passion, LARISHKA (UK) and Mike Millrain and 1 more. Garage. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -11,8 +11,8 @@ GHOST OF GARAGE W/ Plastician (UKG SET), El-B B2B J DA FLEX, Mike Millrain, Lady
 ## Line-up
 
 - El-B
-- LARISHKA (UK)
 - Lady Passion
+- LARISHKA (UK)
 - Mike Millrain
 - Plastician
 

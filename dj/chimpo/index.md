@@ -1,6 +1,6 @@
 # Chimpo
 
-Chimpo is a Drum & Bass and Jungle artist with 2 upcoming club dates listed on soundcheck as of Sat, 25 Jul 2026, next at Joshua Brooks, Manchester on Thu, 30 Jul 2026.
+Chimpo is a Drum & Bass and Jungle artist with 2 upcoming club dates listed on soundcheck as of Sun, 26 Jul 2026, next at Joshua Brooks, Manchester on Thu, 30 Jul 2026.
 
 Chimpo is a drum & bass and jungle artist tracked on soundcheck, with 102 sets logged across Amsterdam, Belfast, Birmingham and Brighton and 13 more. Often billed alongside Rich Reason, Chunky and MC Fox. Next up: Joshua Brooks, Manchester on Thu 30 Jul.
 
@@ -26,4 +26,4 @@ Chimpo is a drum & bass and jungle artist tracked on soundcheck, with 102 sets l
 
 Rich Reason, Chunky, MC Fox
 
-*Updated Sat, 25 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/chimpo/)*
+*Updated Sun, 26 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/chimpo/)*

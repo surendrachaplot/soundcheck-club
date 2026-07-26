@@ -17,10 +17,10 @@ DISCOÑO Orgullo Pride at Société des arts technologiques on Sat 8 Aug, Montre
 - DJ Punani
 - Ekitwanda
 - La Niña Kiwi
+- mCherry
 - Ms Nina (ES)
 - Rosa Pistola
 - Syana
 - UNiiQU3
-- mCherry
 
 *Source: [soundcheck](https://soundcheck.club/e/2486981-disco-o-orgullo-pride-at-soci-t-des-arts-technologiques/)*

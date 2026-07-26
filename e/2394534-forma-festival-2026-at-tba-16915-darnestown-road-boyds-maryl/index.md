@@ -15,16 +15,16 @@ FORMA FESTIVAL 2026 at TBA - 16915 Darnestown Road, Boyds, Maryland 20841 on Sat
 - Dustin Zahn
 - Ether Pleaser
 - JADE CAO
+- jay york
 - Lady Starlight
 - Lindsey Herbert
 - Luke Hess
 - Marteka Fair
 - N3urodegenerate
+- renai
+- secret handshake
 - STE-VÍ
 - TonalTheory
 - Vitalik
-- jay york
-- renai
-- secret handshake
 
 *Source: [soundcheck](https://soundcheck.club/e/2394534-forma-festival-2026-at-tba-16915-darnestown-road-boyds-maryl/)*

@@ -1,6 +1,6 @@
 # Masculina & dj g2g presents: VOL 2 at Den Anden Side
 
-Masculina & dj g2g presents: VOL 2 at Den Anden Side on Fri 7 Aug, Copenhagen. 5 acts on the bill: Adexia, Britney Speed, ELLE FIERCE and Suzie The Cockroach and 1 more. Techno. Preview the line-up and save it on soundcheck.
+Masculina & dj g2g presents: VOL 2 at Den Anden Side on Fri 7 Aug, Copenhagen. 5 acts on the bill: Adexia, Britney Speed, dj g2g and ELLE FIERCE and 1 more. Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -12,8 +12,8 @@ Masculina & dj g2g presents: VOL 2 at Den Anden Side on Fri 7 Aug, Copenhagen. 5
 
 - Adexia
 - Britney Speed
+- dj g2g
 - ELLE FIERCE
 - Suzie The Cockroach
-- dj g2g
 
 *Source: [soundcheck](https://soundcheck.club/e/2486870-masculina-dj-g2g-presents-vol-2-at-den-anden-side/)*

@@ -15,10 +15,10 @@ ADE - Hot Meal at Lofi on Thu 22 Oct, Amsterdam. 10 acts on the bill: Bad Boombo
 - Gusted
 - Janis Zielinski
 - Jessie Dols
+- lizaliza
 - Mija
 - Mischluft
 - MrD
 - Ollie Lishman
-- lizaliza
 
 *Source: [soundcheck](https://soundcheck.club/e/2470633-ade-hot-meal-at-lofi/)*

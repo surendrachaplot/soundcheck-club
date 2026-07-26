@@ -1,6 +1,6 @@
 # Karrusel | 27–29 Aug 2026 at Hangaren
 
-Karrusel | 27–29 Aug 2026 at Hangaren on Thu 27 Aug, Copenhagen. 41 acts on the bill: Acid Pauli, Amelie Lens, Bad Boombox and Baime and 37 more. Techno and House. Preview the line-up and save it on soundcheck.
+Karrusel | 27–29 Aug 2026 at Hangaren on Thu 27 Aug, Copenhagen. 41 acts on the bill: Acid Pauli, Amelie Lens, babysquid and Bad Boombox and 37 more. Techno and House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -12,21 +12,23 @@ Karrusel | 27–29 Aug 2026 at Hangaren on Thu 27 Aug, Copenhagen. 41 acts on th
 
 - Acid Pauli
 - Amelie Lens
+- babysquid
 - Bad Boombox
 - Baime
 - Buja
 - Christian Löffler
 - Christina Evangelista
 - Conducta
-- DJ Spice
-- DRABER666
 - Dgeral
 - Disfunctional Disco
+- DJ Spice
+- DRABER666
 - Egyptian Lover
 - Ellen Allien
 - Ena Cosovic
 - Halfdan Sandquist
 - Helena Lauwaert
+- horsegiirL
 - Jungle Julia
 - Kip Analog
 - Lou Nour
@@ -36,11 +38,12 @@ Karrusel | 27–29 Aug 2026 at Hangaren on Thu 27 Aug, Copenhagen. 41 acts on th
 - Monolink
 - NILU
 - Notion
+- parashoot
 - Pentti Igor
-- RHR
-- RIRIA
 - Redline Warriors
+- RHR
 - Ricardo Roessel
+- RIRIA
 - Shkoon
 - Suzie The Cockroach
 - TINDRA
@@ -48,8 +51,5 @@ Karrusel | 27–29 Aug 2026 at Hangaren on Thu 27 Aug, Copenhagen. 41 acts on th
 - Vincent's Older Sister
 - Volker Arnold
 - Y U QT
-- babysquid
-- horsegiirL
-- parashoot
 
 *Source: [soundcheck](https://soundcheck.club/e/2248516-karrusel-27-29-aug-2026-at-hangaren/)*

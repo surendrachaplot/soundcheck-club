@@ -1,6 +1,6 @@
 # KLASS at Red Bar
 
-KLASS at Red Bar on Mon 10 Aug, Tokyo. 5 acts on the bill: FELINE (JP), KOTSU, Moodman and RYOKEI and 1 more. Preview the line-up and save it on soundcheck.
+KLASS at Red Bar on Mon 10 Aug, Tokyo. 5 acts on the bill: FELINE (JP), KOTSU, Moodman and niwa and 1 more. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -13,7 +13,7 @@ KLASS at Red Bar on Mon 10 Aug, Tokyo. 5 acts on the bill: FELINE (JP), KOTSU, M
 - FELINE (JP)
 - KOTSU
 - Moodman
-- RYOKEI
 - niwa
+- RYOKEI
 
 *Source: [soundcheck](https://soundcheck.club/e/2490834-klass-at-red-bar/)*

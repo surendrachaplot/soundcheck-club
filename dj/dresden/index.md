@@ -1,6 +1,6 @@
 # Dresden
 
-Dresden is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Sat, 25 Jul 2026, next at Islington Assembly Hall, London on Sat, 1 Aug 2026.
+Dresden is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Sun, 26 Jul 2026, next at Islington Assembly Hall, London on Sat, 1 Aug 2026.
 
 Dresden is a techno and house artist based in Spain, tracked on soundcheck, with 15 sets logged across Amsterdam, Brussels, Liverpool and London and 5 more. Often billed alongside Ivan Smagghe, Manfredas and Christian AB. Next up: Islington Assembly Hall, London on Sat 1 Aug.
 
@@ -27,4 +27,4 @@ Dresden is a techno and house artist based in Spain, tracked on soundcheck, with
 
 Ivan Smagghe, Manfredas, Christian AB
 
-*Updated Sat, 25 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/dresden/)*
+*Updated Sun, 26 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/dresden/)*

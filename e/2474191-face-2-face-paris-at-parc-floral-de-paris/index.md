@@ -15,11 +15,11 @@ FACE 2 FACE: PARIS at Parc Floral De Paris on Fri 16 Oct, Paris. 11 acts on the 
 - Eskha
 - HiTMiLØW
 - Kichta
+- relajadita
 - Serafina
 - Two Dots (FR)
-- William Luck
-- relajadita
 - two girls one mom
+- William Luck
 - zwilling.
 
 *Source: [soundcheck](https://soundcheck.club/e/2474191-face-2-face-paris-at-parc-floral-de-paris/)*

@@ -16,11 +16,11 @@ SQUISH x BOOF: FOLSOM at The San Francisco Mint on Fri 25 Sept, Sanfrancisco. 12
 - John Bryars
 - Just Another Bitch
 - Katie Rex
+- likeholywine
 - MILANA
 - Miss Parker
+- nonsuit
 - TWINS ONLINE
 - TYGAPAW
-- likeholywine
-- nonsuit
 
 *Source: [soundcheck](https://soundcheck.club/e/2492391-squish-x-boof-folsom-at-the-san-francisco-mint/)*

@@ -22,9 +22,9 @@ Queerpool XXX.orgy at Südpol on Sat 1 Aug, Hamburg. 16 acts on the bill: Charli
 - Liad Krispin
 - Merve
 - NORA (BR)
+- oiko
 - Sharlese
 - Vanta V Black
-- oiko
 - yung_womb
 
 *Source: [soundcheck](https://soundcheck.club/e/2449475-queerpool-xxx-orgy-at-s-dpol/)*

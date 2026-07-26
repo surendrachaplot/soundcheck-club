@@ -1,6 +1,6 @@
 # Pyur (live), Serenus (hybrid), APRS (live), nil (live) at Genezareth-Kirche
 
-Pyur (live), Serenus (hybrid), APRS (live), nil (live) at Genezareth-Kirche on Thu 3 Sept, Berlin. 4 acts on the bill: APRS, Am Nil, Pyur and Serenus. Ambient and Experimental. Preview the line-up and save it on soundcheck.
+Pyur (live), Serenus (hybrid), APRS (live), nil (live) at Genezareth-Kirche on Thu 3 Sept, Berlin. 4 acts on the bill: Am Nil, APRS, Pyur and Serenus. Ambient and Experimental. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,8 +10,8 @@ Pyur (live), Serenus (hybrid), APRS (live), nil (live) at Genezareth-Kirche on T
 
 ## Line-up
 
-- APRS
 - Am Nil
+- APRS
 - Pyur
 - Serenus
 

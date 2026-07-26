@@ -1,6 +1,6 @@
 # Lady Starlight
 
-Lady Starlight is a Techno and House artist with 6 upcoming club dates listed on soundcheck as of Sat, 25 Jul 2026, next at Amsterdamse Bos, Amsterdam on Wed, 29 Jul 2026.
+Lady Starlight is a Techno and House artist with 6 upcoming club dates listed on soundcheck as of Sun, 26 Jul 2026, next at Amsterdamse Bos, Amsterdam on Wed, 29 Jul 2026.
 
 Lady Starlight is a techno and house artist tracked on soundcheck, with 80 sets logged across Amsterdam, Barcelona, Basel and Berlin and 30 more. Often billed alongside STERAC, David Castellani and MAEDON. Next up: Amsterdamse Bos, Amsterdam on Wed 29 Jul.
 
@@ -30,4 +30,4 @@ Lady Starlight is a techno and house artist tracked on soundcheck, with 80 sets 
 
 STERAC, David Castellani, MAEDON
 
-*Updated Sat, 25 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/ladystarlight/)*
+*Updated Sun, 26 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/ladystarlight/)*

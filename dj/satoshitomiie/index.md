@@ -1,14 +1,13 @@
 # Satoshi Tomiie
 
-Satoshi Tomiie is a House and Techno artist with 9 upcoming club dates listed on soundcheck as of Sat, 25 Jul 2026, next at Flash, Washington DC on Sat, 25 Jul 2026.
+Satoshi Tomiie is a House and Techno artist with 8 upcoming club dates listed on soundcheck as of Sun, 26 Jul 2026, next at The Jazz Cafe, London on Wed, 29 Jul 2026.
 
-Satoshi Tomiie is a house and techno artist tracked on soundcheck, with 119 sets logged across Amsterdam, Austin, Barcelona and Belgrade and 36 more. Often billed alongside Doudou MD, Cabanne and Kuniyuki. Next up: Flash, Washingtondc on Sat 25 Jul.
+Satoshi Tomiie is a house and techno artist tracked on soundcheck, with 119 sets logged across Amsterdam, Austin, Barcelona and Belgrade and 36 more. Often billed alongside Doudou MD, Cabanne and Kuniyuki. Next up: The Jazz Cafe, London on Wed 29 Jul.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 25 Jul 2026 | Flash | Washington DC |
 | Wed, 29 Jul 2026 | The Jazz Cafe | London |
 | Fri, 31 Jul 2026 | Amsterdamse Bos | Amsterdam |
 | Fri, 7 Aug 2026 | Signal | New York City |
@@ -20,6 +19,7 @@ Satoshi Tomiie is a house and techno artist tracked on soundcheck, with 119 sets
 
 ## Recently played
 
+- Flash, Washington DC — Sat, 25 Jul 2026
 - Fünk, Mexico City — Fri, 24 Jul 2026
 - Pacific Science Center, Seattle — Sat, 18 Jul 2026
 - Monarch, San Francisco/Oakland — Fri, 17 Jul 2026
@@ -27,10 +27,9 @@ Satoshi Tomiie is a house and techno artist tracked on soundcheck, with 119 sets
 - TBA - Studio Stereo, close to pl. Catalunya, 08007, Barcelona, Barcelona — Tue, 23 Jun 2026
 - Audiodise Park Montjuic, Barcelona — Tue, 23 Jun 2026
 - Hola Club Sitges (Cala Vallcarca), Barcelona — Sat, 20 Jun 2026
-- Akasha Las Dalias Club - Ibiza, Ibiza — Sat, 13 Jun 2026
 
 ## Shares bills with
 
 Doudou MD, Cabanne, Kuniyuki
 
-*Updated Sat, 25 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/satoshitomiie/)*
+*Updated Sun, 26 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/satoshitomiie/)*

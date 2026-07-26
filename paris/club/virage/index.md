@@ -1,15 +1,13 @@
 # Virage
 
-Virage is a music venue in Paris with 19 upcoming nights listed on soundcheck as of Sat, 25 Jul 2026; the next is "FLASH COCOTTE x Virage" on Sat, 25 Jul 2026.
+Virage is a music venue in Paris with 17 upcoming nights listed on soundcheck as of Sun, 26 Jul 2026; the next is "2222: DJ ANGEL BIRTHDAY x Le Virage du Mercredi" on Wed, 29 Jul 2026.
 
-Virage is a music venue in Paris listed on soundcheck. 19 upcoming nights, with line-ups including abs8lute, aerodynamisme, Ahadadream and Amina and 2 more. Browse upcoming dates, start times and who's playing. 26 rue Hélène-et-François Missoffe.
+Virage is a music venue in Paris listed on soundcheck. 17 upcoming nights, with line-ups including abs8lute, aerodynamisme, Ahadadream and Amina and 2 more. Browse upcoming dates, start times and who's playing. 26 rue Hélène-et-François Missoffe.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Sat, 25 Jul 2026 | FLASH COCOTTE x Virage | LSDXOXO, OZA, Pipi De Frèche |
-| Sat, 25 Jul 2026 | Flash Cocotte: LSDXOXO, OZA, LAMASTE, Pipi De Frèche | LSDXOXO, OZA, Pipi De Frèche |
 | Wed, 29 Jul 2026 | 2222: DJ ANGEL BIRTHDAY x Le Virage du Mercredi | Christie, DJ ANGEL (fr), Iris Leidenschaft |
 | Fri, 31 Jul 2026 | Virage Présente: Patrick Mason, Bambounou, Two Dots, Amina | Amina, Bambounou, Patrick Mason, Two Dots (FR) |
 | Sat, 1 Aug 2026 | Dure Vie: Polygonia, DJ MARIA., abs8lute, Toscan Haas | DJ MARIA., Polygonia, Toscan Haas, abs8lute |
@@ -18,9 +16,11 @@ Virage is a music venue in Paris listed on soundcheck. 19 upcoming nights, with 
 | Fri, 7 Aug 2026 | Virage Présente: Six Sex (live), Linapary, Louise Pétrouchka, Rebequita b2b Vera Moro | Linapary, Louise Pétrouchka, Rebequita, Six Sex, Vera Moro |
 | Sat, 8 Aug 2026 | FLUID: Frederic., FJUSHA, Florian Picasso b2b BISOUX, Serō | BISOUX, FJUSHA, Florian Picasso, Frederic., Serō |
 | Wed, 12 Aug 2026 | stargurl Rituals x Le Virage du Mercredi: DJ Bax, GADDAM, RÕSE, stargurl | DJ Bax, stargurl |
+| Thu, 13 Aug 2026 | DISCO DISCO X MAMIE'S: Eden Burns, Tatie Dee, Mamie's, Marbré & more | Eden Burns, Tatie Dee |
+| Fri, 14 Aug 2026 | DISORDER: Estella Boersma, DJ SEXSTASY, CVNSUMED, Ey.rah & MORE | Arkhan, CVNSUMED, DJ SEXSTASY, Estella Boersma, Ey.rah, Raven, Salomé DV |
 
 ## Address
 
 26 rue Hélène-et-François Missoffe, Paris
 
-*Updated Sat, 25 Jul 2026 · source: [soundcheck](https://soundcheck.club/paris/club/virage/)*
+*Updated Sun, 26 Jul 2026 · source: [soundcheck](https://soundcheck.club/paris/club/virage/)*

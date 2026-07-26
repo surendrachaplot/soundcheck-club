@@ -15,7 +15,7 @@ DOGMA (Act 1) at Angel Music Bar on Fri 7 Aug, Melbourne. 7 acts on the bill: Aa
 - F!NN
 - FOZZA
 - Laces
-- Rakhi
 - mishLXY
+- Rakhi
 
 *Source: [soundcheck](https://soundcheck.club/e/2488494-dogma-act-1-at-angel-music-bar/)*

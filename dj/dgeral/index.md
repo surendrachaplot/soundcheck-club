@@ -1,31 +1,29 @@
 # Dgeral
 
-Dgeral is a Techno and House artist with 4 upcoming club dates listed on soundcheck as of Sat, 25 Jul 2026, next at Renate, Berlin on Sat, 25 Jul 2026.
+Dgeral is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Sun, 26 Jul 2026, next at Den Anden Side, Copenhagen on Sat, 15 Aug 2026.
 
-Dgeral is a techno and house artist based in Venezuela, tracked on soundcheck, with 76 sets logged across Berlin, Copenhagen, Leipzig and Paris and 1 more. Often billed alongside Sparkly Pony, James Lotion and Baltza. Next up: Renate, Berlin on Sat 25 Jul.
+Dgeral is a techno and house artist based in Venezuela, tracked on soundcheck, with 76 sets logged across Berlin, Copenhagen, Leipzig and Paris and 1 more. Often billed alongside Sparkly Pony, James Lotion and Baltza. Next up: Den Anden Side, Copenhagen on Sat 15 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 25 Jul 2026 | Renate | Berlin |
-| Sat, 25 Jul 2026 | Crack Bellmer | Berlin |
 | Sat, 15 Aug 2026 | Den Anden Side | Copenhagen |
 | Thu, 27 Aug 2026 | Hangaren | Copenhagen |
 
 ## Recently played
 
+- Renate, Berlin — Sat, 25 Jul 2026
+- Crack Bellmer, Berlin — Sat, 25 Jul 2026
 - Bulbul Berlin, Berlin — Thu, 23 Jul 2026
 - Ferropolis, Leipzig — Fri, 17 Jul 2026
 - Den Anden Side, Copenhagen — Sat, 23 May 2026
 - Eden, Stockholm — Sat, 9 May 2026
 - TBA, Stockholm — Thu, 30 Apr 2026
 - Den Anden Side, Copenhagen — Sat, 28 Mar 2026
-- House of Q, Stockholm — Sat, 14 Mar 2026
-- KREUZWERK, Berlin — Fri, 6 Mar 2026
 
 ## Shares bills with
 
 Sparkly Pony, James Lotion, Baltza
 
-*Updated Sat, 25 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/dgeral/)*
+*Updated Sun, 26 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/dgeral/)*

@@ -1,6 +1,6 @@
 # Philip Ackowsky
 
-Philip Ackowsky is a Techno and Minimal Techno artist with 4 upcoming club dates listed on soundcheck as of Sat, 25 Jul 2026, next at Cosa Nova Summmum, Ibiza on Sun, 26 Jul 2026.
+Philip Ackowsky is a Techno and Minimal Techno artist with 4 upcoming club dates listed on soundcheck as of Sun, 26 Jul 2026, next at Cosa Nova Summmum, Ibiza on Sun, 26 Jul 2026.
 
 Philip Ackowsky is a techno and minimal techno artist based in North Macedonia, tracked on soundcheck, with 39 sets logged across Ibiza, Istanbul and Malta. Often billed alongside Abdy, OBLX and Alex Micca. Next up: Cosa Nova Summmum, Ibiza on Sun 26 Jul.
 
@@ -28,4 +28,4 @@ Philip Ackowsky is a techno and minimal techno artist based in North Macedonia, 
 
 Abdy, OBLX, Alex Micca
 
-*Updated Sat, 25 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/philipackowsky-mk/)*
+*Updated Sun, 26 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/philipackowsky-mk/)*

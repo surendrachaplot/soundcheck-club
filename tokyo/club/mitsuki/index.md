@@ -1,14 +1,13 @@
 # Mitsuki
 
-Mitsuki is a music venue in Tokyo with 9 upcoming nights listed on soundcheck as of Sat, 25 Jul 2026; the next is "BLACK GARDEN" on Sat, 25 Jul 2026.
+Mitsuki is a music venue in Tokyo with 8 upcoming nights listed on soundcheck as of Sun, 26 Jul 2026; the next is "Baku/Ryogo/lostbaggage" on Mon, 27 Jul 2026.
 
-Mitsuki is a music venue in Tokyo listed on soundcheck. 9 upcoming nights, with line-ups including adak7, Baku, DJ Nobu and Dr. Nishimura and 2 more. Browse upcoming dates, start times and who's playing. 1-22-12, Dogenzaka, Shibuya-Ku, Tokyo, 150-0043, Japan.
+Mitsuki is a music venue in Tokyo listed on soundcheck. 8 upcoming nights, with line-ups including Baku, Dr. Nishimura, In Ray and Itou and 2 more. Browse upcoming dates, start times and who's playing. 1-22-12, Dogenzaka, Shibuya-Ku, Tokyo, 150-0043, Japan.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Sat, 25 Jul 2026 | BLACK GARDEN | DJ Nobu, adak7 |
 | Mon, 27 Jul 2026 | Baku/Ryogo/lostbaggage | Baku, Ryogo, lostbaggage |
 | Tue, 28 Jul 2026 | KEITA/koutaro/D@!K!/JITSUMITSU/YAMARCHY | YAMARCHY |
 | Wed, 29 Jul 2026 | OG Militant B/YELLOWUHURU/yodel/Akim/PIYO BAKE | OG Militant B, YELLOWUHURU, yodel |
@@ -22,4 +21,4 @@ Mitsuki is a music venue in Tokyo listed on soundcheck. 9 upcoming nights, with 
 
 1-22-12, Dogenzaka, Shibuya-Ku, Tokyo, 150-0043, Japan, Tokyo
 
-*Updated Sat, 25 Jul 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/mitsuki/)*
+*Updated Sun, 26 Jul 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/mitsuki/)*

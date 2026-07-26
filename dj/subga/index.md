@@ -1,6 +1,6 @@
 # subga
 
-subga is a Trance and Techno artist with 3 upcoming club dates listed on soundcheck as of Sat, 25 Jul 2026, next at Void Hall, Berlin on Fri, 31 Jul 2026.
+subga is a Trance and Techno artist with 3 upcoming club dates listed on soundcheck as of Sun, 26 Jul 2026, next at Void Hall, Berlin on Fri, 31 Jul 2026.
 
 subga is a trance and techno artist based in Germany, tracked on soundcheck, with 27 sets logged across Berlin. Often billed alongside bbymeister, jeanska and Blossmbae. Next up: Void Hall, Berlin on Fri 31 Jul.
 
@@ -27,4 +27,4 @@ subga is a trance and techno artist based in Germany, tracked on soundcheck, wit
 
 bbymeister, jeanska, Blossmbae
 
-*Updated Sat, 25 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/subga/)*
+*Updated Sun, 26 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/subga/)*

@@ -1,6 +1,6 @@
 # Lars Huismann
 
-Lars Huismann is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Sat, 25 Jul 2026, next at BASEMENT, New York City on Fri, 31 Jul 2026.
+Lars Huismann is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Sun, 26 Jul 2026, next at BASEMENT, New York City on Fri, 31 Jul 2026.
 
 Lars Huismann is a techno and house artist tracked on soundcheck, with 93 sets logged across Amsterdam, Antwerp, Austin and Belgrade and 40 more. Often billed alongside SHDW, Chontane and ANNĒ. Next up: BASEMENT, Newyorkcity on Fri 31 Jul.
 
@@ -27,4 +27,4 @@ Lars Huismann is a techno and house artist tracked on soundcheck, with 93 sets l
 
 SHDW, Chontane, ANNĒ
 
-*Updated Sat, 25 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/larshuismann/)*
+*Updated Sun, 26 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/larshuismann/)*

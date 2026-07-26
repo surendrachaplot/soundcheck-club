@@ -1,6 +1,6 @@
 # Moments Festival at TBA - Seebruck - Chiemsee
 
-Moments Festival at TBA - Seebruck - Chiemsee on Sat 8 Aug, Munich. 15 acts on the bill: Almedina (2), Davy (Crème Club), Eris Drew and Lea Occhi and 11 more. Techno and House. Preview the line-up and save it on soundcheck.
+Moments Festival at TBA - Seebruck - Chiemsee on Sat 8 Aug, Munich. 15 acts on the bill: aaandscha, Almedina (2), boris (creme club) and Davy (Crème Club) and 11 more. Techno and House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,20 +10,20 @@ Moments Festival at TBA - Seebruck - Chiemsee on Sat 8 Aug, Munich. 15 acts on t
 
 ## Line-up
 
+- aaandscha
 - Almedina (2)
+- boris (creme club)
 - Davy (Crème Club)
 - Eris Drew
 - Lea Occhi
 - Lydia Eisenblätter
 - Marie Lung
+- maša (SI)
 - Olli Rubber
-- SHMIKESSS
 - Shamanu
+- SHMIKESSS
 - Sibil (1)
 - Sofiia Zoloto
 - The Lady Machine
-- aaandscha
-- boris (creme club)
-- maša (SI)
 
 *Source: [soundcheck](https://soundcheck.club/e/2385717-moments-festival-at-tba-seebruck-chiemsee/)*

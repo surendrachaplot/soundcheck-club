@@ -1,6 +1,6 @@
 # Dekmantel At Night - Friday at RADION
 
-Dekmantel At Night - Friday at RADION on Fri 31 Jul, Amsterdam. 7 acts on the bill: Afra, Blasha & Allatt, DJ Stingray 313 and MARRØN and 3 more. Techno. Preview the line-up and save it on soundcheck.
+Dekmantel At Night - Friday at RADION on Fri 31 Jul, Amsterdam. 7 acts on the bill: Afra, Blasha & Allatt, DJ Stingray 313 and Mari Sakurai and 3 more. Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -13,8 +13,8 @@ Dekmantel At Night - Friday at RADION on Fri 31 Jul, Amsterdam. 7 acts on the bi
 - Afra
 - Blasha & Allatt
 - DJ Stingray 313
-- MARRØN
 - Mari Sakurai
+- MARRØN
 - Phase Fatale
 - Rene Wise
 

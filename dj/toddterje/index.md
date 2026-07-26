@@ -1,14 +1,13 @@
 # Todd Terje
 
-Todd Terje is a House and Disco artist with 5 upcoming club dates listed on soundcheck as of Sat, 25 Jul 2026, next at C.S. Lewis Square, London on Sat, 25 Jul 2026.
+Todd Terje is a House and Disco artist with 4 upcoming club dates listed on soundcheck as of Sun, 26 Jul 2026, next at 528 Ibiza, Ibiza on Tue, 18 Aug 2026.
 
-Todd Terje is a house and disco artist tracked on soundcheck, with 84 sets logged across Amsterdam, Bali, Barcelona and Belfast and 32 more. Often billed alongside Jayda G, Skatebård and Underworld. Next up: C.S. Lewis Square, London on Sat 25 Jul.
+Todd Terje is a house and disco artist tracked on soundcheck, with 84 sets logged across Amsterdam, Bali, Barcelona and Belfast and 32 more. Often billed alongside Jayda G, Skatebård and Underworld. Next up: 528 Ibiza, Ibiza on Tue 18 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 25 Jul 2026 | C.S. Lewis Square | London |
 | Tue, 18 Aug 2026 | 528 Ibiza | Ibiza |
 | Sat, 12 Sept 2026 | Concorde 2 | Brighton |
 | Sat, 19 Sept 2026 | Loft Studios | London |
@@ -16,6 +15,7 @@ Todd Terje is a house and disco artist tracked on soundcheck, with 84 sets logge
 
 ## Recently played
 
+- C.S. Lewis Square, London — Sat, 25 Jul 2026
 - Public Works, San Francisco/Oakland — Sat, 4 Jul 2026
 - Frontón Bucareli, Mexico City — Fri, 3 Jul 2026
 - Refuge, New York City — Thu, 2 Jul 2026
@@ -23,10 +23,9 @@ Todd Terje is a house and disco artist tracked on soundcheck, with 84 sets logge
 - Klub Werkstatt, Copenhagen — Sat, 23 May 2026
 - Peckham Rye Park, London — Fri, 22 May 2026
 - The Loft Amsterdam, Amsterdam — Fri, 15 May 2026
-- The Loft Amsterdam, Amsterdam — Fri, 15 May 2026
 
 ## Shares bills with
 
 Jayda G, Skatebård, Underworld
 
-*Updated Sat, 25 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/toddterje/)*
+*Updated Sun, 26 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/toddterje/)*

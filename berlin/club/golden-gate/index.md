@@ -1,14 +1,13 @@
 # Golden Gate
 
-Golden Gate is a music venue in Berlin with 15 upcoming nights listed on soundcheck as of Sat, 25 Jul 2026; the next is "Highly Addictive" on Sat, 25 Jul 2026.
+Golden Gate is a music venue in Berlin with 14 upcoming nights listed on soundcheck as of Sun, 26 Jul 2026; the next is "Donnerdogge" on Thu, 30 Jul 2026.
 
-Golden Gate is a music venue in Berlin listed on soundcheck. 15 upcoming nights, with line-ups including Nadine Hennig, Ana Karla, BelaBang and Berunth and 2 more. Browse upcoming dates, start times and who's playing. Dircksenstrasse 78; Mitte; 10178 Berlin; Germany.
+Golden Gate is a music venue in Berlin listed on soundcheck. 14 upcoming nights, with line-ups including Ana Karla, BelaBang, Berunth and Bruno Otranto and 2 more. Browse upcoming dates, start times and who's playing. Dircksenstrasse 78; Mitte; 10178 Berlin; Germany.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Sat, 25 Jul 2026 | Highly Addictive | Nadine Hennig, Ruede Hagelstein, Slurm McKenzie, Tomislav |
 | Thu, 30 Jul 2026 | Donnerdogge | Jeremy Reinhard, Neco, Nils Ohrmann, Yannick Robyns |
 | Fri, 31 Jul 2026 | Klubnacht | Berunth, Kisling, Koljah, Nyna Curtis, Sean Dixon |
 | Sat, 1 Aug 2026 | Klubnacht | Robert Drewek, SaPu, Scoopsi |
@@ -18,9 +17,10 @@ Golden Gate is a music venue in Berlin listed on soundcheck. 15 upcoming nights,
 | Thu, 13 Aug 2026 | Hidden Variables | Bruno Otranto, Elene, Enzo Muro |
 | Fri, 14 Aug 2026 | Tante Emma | Navid (2) |
 | Sat, 15 Aug 2026 | Klubnacht | Ezeo, Koljah, Rhom Omit, Sabrina Hawk |
+| Thu, 20 Aug 2026 | Donnerdogge | Cindy G, Roman (1), Vans Hellwirth |
 
 ## Address
 
 Dircksenstrasse 78; Mitte; 10178 Berlin; Germany, Berlin
 
-*Updated Sat, 25 Jul 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/golden-gate/)*
+*Updated Sun, 26 Jul 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/golden-gate/)*

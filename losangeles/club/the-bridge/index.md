@@ -1,6 +1,6 @@
 # The Bridge
 
-The Bridge is a music venue in Los Angeles with 8 upcoming nights listed on soundcheck as of Sat, 25 Jul 2026; the next is "CLOSER x TYF present SUNDANCE with Snooko & Bryan Softwell" on Sun, 26 Jul 2026.
+The Bridge is a music venue in Los Angeles with 8 upcoming nights listed on soundcheck as of Sun, 26 Jul 2026; the next is "CLOSER x TYF present SUNDANCE with Snooko & Bryan Softwell" on Sun, 26 Jul 2026.
 
 The Bridge is a music venue in Losangeles listed on soundcheck. 8 upcoming nights, with line-ups including Afriqua, Axel Boman, Azzecca and Dick Ensalada and 2 more. Browse upcoming dates, start times and who's playing. 630 S Anderson St, Los Angeles, CA 90023.
 
@@ -21,4 +21,4 @@ The Bridge is a music venue in Losangeles listed on soundcheck. 8 upcoming night
 
 630 S Anderson St, Los Angeles, CA 90023, Los Angeles
 
-*Updated Sat, 25 Jul 2026 · source: [soundcheck](https://soundcheck.club/losangeles/club/the-bridge/)*
+*Updated Sun, 26 Jul 2026 · source: [soundcheck](https://soundcheck.club/losangeles/club/the-bridge/)*

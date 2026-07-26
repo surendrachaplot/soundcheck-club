@@ -20,8 +20,8 @@ BASIS Outdoor/ 2026 at Beton-T on Sat 1 Aug, Utrecht. 14 acts on the bill: Alyci
 - Locus Error
 - Mika Heggemann
 - Nedir Nadir
-- RIKHTER
 - Raxeller
+- RIKHTER
 - Slimfit
 - TASSERY
 

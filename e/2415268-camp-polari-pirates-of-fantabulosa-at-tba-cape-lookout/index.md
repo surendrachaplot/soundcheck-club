@@ -1,6 +1,6 @@
 # Camp Polari: Pirates of Fantabulosa at TBA - Cape Lookout
 
-Camp Polari: Pirates of Fantabulosa at TBA - Cape Lookout on Fri 11 Sept, Portland. 6 acts on the bill: Booty Juice, Club Drippy, SPRKLBB and Sappho and 2 more. Techno and Disco. Preview the line-up and save it on soundcheck.
+Camp Polari: Pirates of Fantabulosa at TBA - Cape Lookout on Fri 11 Sept, Portland. 6 acts on the bill: Booty Juice, Club Drippy, Sappho and SPRKLBB and 2 more. Techno and Disco. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -12,8 +12,8 @@ Camp Polari: Pirates of Fantabulosa at TBA - Cape Lookout on Fri 11 Sept, Portla
 
 - Booty Juice
 - Club Drippy
-- SPRKLBB
 - Sappho
+- SPRKLBB
 - StormyRoxx
 - The Baptist
 

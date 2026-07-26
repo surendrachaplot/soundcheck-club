@@ -1,15 +1,13 @@
 # Lakota
 
-Lakota is a music venue in Bristol with 13 upcoming nights listed on soundcheck as of Sat, 25 Jul 2026; the next is "Keep It Movin (The Return)" on Sat, 25 Jul 2026.
+Lakota is a music venue in Bristol with 12 upcoming nights listed on soundcheck as of Sun, 26 Jul 2026; the next is "Best Weekend Ever" on Fri, 31 Jul 2026.
 
-Lakota is a music venue in Bristol listed on soundcheck. 13 upcoming nights, with line-ups including Akira (Buntai), Betsy Mae, camukg and Janaway and 2 more. Browse upcoming dates, start times and who's playing. 6 Upper York Street; Bristol, BS2 8QN, United Kingdom.
+Lakota is a music venue in Bristol listed on soundcheck. 12 upcoming nights, with line-ups including Akira (Buntai), Betsy Mae, camukg and Janaway and 2 more. Browse upcoming dates, start times and who's playing. 6 Upper York Street; Bristol, BS2 8QN, United Kingdom.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Sat, 25 Jul 2026 | Keep It Movin (The Return) |  |
-| Sat, 25 Jul 2026 | Jungle Cakes 360° |  |
 | Fri, 31 Jul 2026 | Best Weekend Ever |  |
 | Sat, 8 Aug 2026 | The South West 64th Jamaican Independence Day Celebration |  |
 | Sat, 15 Aug 2026 | House of Unity: Summer Day Party |  |
@@ -18,9 +16,11 @@ Lakota is a music venue in Bristol listed on soundcheck. 13 upcoming nights, wit
 | Sat, 22 Aug 2026 | Leighton x Kuns Jungle Summer Motive |  |
 | Fri, 28 Aug 2026 | Cottage |  |
 | Sat, 12 Sept 2026 | Neuroheadz Celebrates 15 Years of Eatbrain |  |
+| Fri, 18 Sept 2026 | Psyked x Frontline TAKEOVER Lakota | Akira (Buntai), Betsy Mae, Janaway, Lemtom, Manga Saint Hilare, Milzy, PAULY!, Pauly, SIMMS, Saint Ludo, camukg |
+| Sat, 19 Sept 2026 | Dazed Muzic 10th Birthday ft Friction |  |
 
 ## Address
 
 6 Upper York Street; Bristol, BS2 8QN, United Kingdom, Bristol
 
-*Updated Sat, 25 Jul 2026 · source: [soundcheck](https://soundcheck.club/bristol/club/lakota/)*
+*Updated Sun, 26 Jul 2026 · source: [soundcheck](https://soundcheck.club/bristol/club/lakota/)*

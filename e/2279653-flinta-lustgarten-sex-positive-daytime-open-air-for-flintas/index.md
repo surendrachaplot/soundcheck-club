@@ -1,6 +1,6 @@
 # FLINTA Lustgarten (sex positive, daytime, open-air / for flintas only) at ://about blank
 
-FLINTA Lustgarten (sex positive, daytime, open-air / for flintas only) at ://about blank on Sun 9 Aug, Berlin. 2 acts on the bill: Belen Zer and a:tok. Techno and House. Preview the line-up and save it on soundcheck.
+FLINTA Lustgarten (sex positive, daytime, open-air / for flintas only) at ://about blank on Sun 9 Aug, Berlin. 2 acts on the bill: a:tok and Belen Zer. Techno and House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,7 +10,7 @@ FLINTA Lustgarten (sex positive, daytime, open-air / for flintas only) at ://abo
 
 ## Line-up
 
-- Belen Zer
 - a:tok
+- Belen Zer
 
 *Source: [soundcheck](https://soundcheck.club/e/2279653-flinta-lustgarten-sex-positive-daytime-open-air-for-flintas/)*

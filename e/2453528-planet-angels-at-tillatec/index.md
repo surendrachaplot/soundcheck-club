@@ -1,6 +1,6 @@
 # Planet Angels at TILLATEC
 
-Planet Angels at TILLATEC on Fri 31 Jul, Amsterdam. 10 acts on the bill: ARCHANGEL (US), Clementaum, DIORA and Mina Galán and 6 more. Preview the line-up and save it on soundcheck.
+Planet Angels at TILLATEC on Fri 31 Jul, Amsterdam. 10 acts on the bill: angelboy, ARCHANGEL (US), Clementaum and DIORA and 6 more. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,15 +10,15 @@ Planet Angels at TILLATEC on Fri 31 Jul, Amsterdam. 10 acts on the bill: ARCHANG
 
 ## Line-up
 
+- angelboy
 - ARCHANGEL (US)
 - Clementaum
 - DIORA
+- lis (5)
 - Mina Galán
 - Miss Jay (RO)
 - NMSS
-- YoungWoman
-- angelboy
-- lis (5)
 - smother
+- YoungWoman
 
 *Source: [soundcheck](https://soundcheck.club/e/2453528-planet-angels-at-tillatec/)*

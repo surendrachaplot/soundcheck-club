@@ -1,6 +1,6 @@
 # Waterworks Extended 2026 at The Cause
 
-Waterworks Extended 2026 at The Cause on Sat 12 Sept, London. 87 acts on the bill: Aba Shanti-I, Alex Kassian, Anz and Bakey and 83 more. Preview the line-up and save it on soundcheck.
+Waterworks Extended 2026 at The Cause on Sat 12 Sept, London. 86 acts on the bill: Aba Shanti-I, Alex Kassian, Anz and babyschön and 82 more. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -13,6 +13,7 @@ Waterworks Extended 2026 at The Cause on Sat 12 Sept, London. 87 acts on the bil
 - Aba Shanti-I
 - Alex Kassian
 - Anz
+- babyschön
 - Bakey
 - Beatrice M.
 - Blackeye MC
@@ -22,26 +23,26 @@ Waterworks Extended 2026 at The Cause on Sat 12 Sept, London. 87 acts on the bil
 - Carré
 - Chez de Milo
 - Christian AB
-- Christian AB
 - Craig Richards
-- DJ Fuckoff
-- DJ Koolt
-- DJ Storm
-- DJ Storm (2)
-- DJ Subaru
 - Daniel Avery
 - Darwin
 - Dave Harvey
 - Decibella
 - Decius
+- DJ Fuckoff
+- DJ Koolt
+- DJ Storm
+- DJ Storm (2)
+- DJ Subaru
+- dj sweet6teen
 - DjRUM
 - Double O
 - Dr Banana
 - Dr Dubplate
 - Dresden
 - Dyed Soundorom
-- EMA (1)
 - Ellie Stokes
+- EMA (1)
 - Eris Drew
 - Erol Alkan
 - Errol
@@ -52,50 +53,48 @@ Waterworks Extended 2026 at The Cause on Sat 12 Sept, London. 87 acts on the bil
 - Ivan Smagghe
 - Jay Carder
 - KT
-- LTJ Bukem
 - Leon Vynehall
+- LTJ Bukem
 - Lukas Wigflex
-- MC Creed
-- MJK
 - Main Phase
 - Manami
 - Manfredas
 - Mantra (ES)
+- MC Creed
 - Mia Koden
 - Midland
+- MJK
 - Moose
 - Moxie
-- NIKS
 - Neffa-T
+- NIKS
 - Novelist
-- OK Williams
 - Objekt
 - Octo Octa
+- OK Williams
 - Oppidan
+- p-rallel
 - Priori
 - Raji Rags
 - Raresh
 - Reptant
 - Ruff Sqwad
-- SKALA
-- SKALAH (UK)
 - Scarlett O'Malley
 - Shy One
 - Simon Scott
+- SKALA
+- SKALAH (UK)
 - Skee Mask
 - Sofia Kourtesis
 - Sonja Moonear
 - Special Request
 - Sully
-- Tash LC
 - Tañ
+- Tash LC
 - Teki Latex
 - The Trip
 - Tia Cousins
 - Tim Reaper
 - Ysanne
-- babyschön
-- dj sweet6teen
-- p-rallel
 
 *Source: [soundcheck](https://soundcheck.club/e/2345415-waterworks-extended-2026-at-the-cause/)*

@@ -1,6 +1,6 @@
 # N Fostell
 
-N Fostell is a Afro House and House artist with 3 upcoming club dates listed on soundcheck as of Sat, 25 Jul 2026, next at The Steel Yard, London on Sat, 8 Aug 2026.
+N Fostell is a Afro House and House artist with 3 upcoming club dates listed on soundcheck as of Sun, 26 Jul 2026, next at The Steel Yard, London on Sat, 8 Aug 2026.
 
 N Fostell is an afro house and house artist tracked on soundcheck, with 12 sets logged across London and Manchester. Often billed alongside Shenin Amara, Beezo and DJ Majesty. Next up: The Steel Yard, London on Sat 8 Aug.
 
@@ -27,4 +27,4 @@ N Fostell is an afro house and house artist tracked on soundcheck, with 12 sets 
 
 Shenin Amara, Beezo, DJ Majesty
 
-*Updated Sat, 25 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/nfostell/)*
+*Updated Sun, 26 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/nfostell/)*

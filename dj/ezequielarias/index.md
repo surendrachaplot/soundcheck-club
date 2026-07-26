@@ -1,14 +1,13 @@
 # Ezequiel Arias
 
-Ezequiel Arias is a Progressive House and Deep House artist with 6 upcoming club dates listed on soundcheck as of Sat, 25 Jul 2026, next at R Lounge, Tokyo on Sat, 25 Jul 2026.
+Ezequiel Arias is a Progressive House and Deep House artist with 5 upcoming club dates listed on soundcheck as of Sun, 26 Jul 2026, next at Old Royal Naval College, London on Sun, 9 Aug 2026.
 
-Ezequiel Arias is a progressive house and deep house artist tracked on soundcheck, with 58 sets logged across Amsterdam, Barcelona, Budapest and Buenosaires and 21 more. Often billed alongside Romain Garcia, Jody Wisternoff and Amadori. Next up: R Lounge, Tokyo on Sat 25 Jul.
+Ezequiel Arias is a progressive house and deep house artist tracked on soundcheck, with 58 sets logged across Amsterdam, Barcelona, Budapest and Buenosaires and 21 more. Often billed alongside Romain Garcia, Jody Wisternoff and Amadori. Next up: Old Royal Naval College, London on Sun 9 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 25 Jul 2026 | R Lounge | Tokyo |
 | Sun, 9 Aug 2026 | Old Royal Naval College | London |
 | Sat, 15 Aug 2026 | Paal69 | Amsterdam |
 | Mon, 17 Aug 2026 | Blue Summer Ibiza Boat | Ibiza |
@@ -17,6 +16,7 @@ Ezequiel Arias is a progressive house and deep house artist tracked on soundchec
 
 ## Recently played
 
+- R Lounge, Tokyo — Sat, 25 Jul 2026
 - Joule, Osaka — Fri, 24 Jul 2026
 - Bikini Club, Barcelona — Sat, 20 Jun 2026
 - Café Berlín, Madrid — Fri, 19 Jun 2026
@@ -24,10 +24,9 @@ Ezequiel Arias is a progressive house and deep house artist tracked on soundchec
 - TBA - Palacio Alsina, Microcentro, Buenos Aires — Sat, 2 May 2026
 - Varanda Estaiada, Sao Paulo — Sat, 11 Apr 2026
 - 1-800-Lucky, Miami — Wed, 25 Mar 2026
-- Radisson Red Sky Bar, Glasgow — Sun, 15 Feb 2026
 
 ## Shares bills with
 
 Romain Garcia, Jody Wisternoff, Amadori
 
-*Updated Sat, 25 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/ezequielarias/)*
+*Updated Sun, 26 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/ezequielarias/)*

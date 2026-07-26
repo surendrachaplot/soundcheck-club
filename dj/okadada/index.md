@@ -1,6 +1,6 @@
 # okadada
 
-okadada is a House and Techno artist with 5 upcoming club dates listed on soundcheck as of Sat, 25 Jul 2026, next at Circus Osaka, Osaka on Fri, 31 Jul 2026.
+okadada is a House and Techno artist with 5 upcoming club dates listed on soundcheck as of Sun, 26 Jul 2026, next at Circus Osaka, Osaka on Fri, 31 Jul 2026.
 
 okadada is a house and techno artist tracked on soundcheck, with 157 sets logged across Kyoto, Osaka, Seoul and Tokyo. Often billed alongside FELINE (JP), Licaxxx and Sekitova. Next up: Circus Osaka, Osaka on Fri 31 Jul.
 
@@ -29,4 +29,4 @@ okadada is a house and techno artist tracked on soundcheck, with 157 sets logged
 
 FELINE (JP), Licaxxx, Sekitova
 
-*Updated Sat, 25 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/okadada/)*
+*Updated Sun, 26 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/okadada/)*

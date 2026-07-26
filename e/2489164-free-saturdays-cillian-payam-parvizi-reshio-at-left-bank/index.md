@@ -1,6 +1,6 @@
 # Free Saturdays: Cillian • Payam Parvizi • Reshio at Left Bank
 
-Free Saturdays: Cillian • Payam Parvizi • Reshio at Left Bank on Sat 1 Aug, Tbilisi. 4 acts on the bill: Cillian, Payam Parvizi, Reshio and niati. Preview the line-up and save it on soundcheck.
+Free Saturdays: Cillian • Payam Parvizi • Reshio at Left Bank on Sat 1 Aug, Tbilisi. 4 acts on the bill: Cillian, niati, Payam Parvizi and Reshio. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -11,8 +11,8 @@ Free Saturdays: Cillian • Payam Parvizi • Reshio at Left Bank on Sat 1 Aug, 
 ## Line-up
 
 - Cillian
+- niati
 - Payam Parvizi
 - Reshio
-- niati
 
 *Source: [soundcheck](https://soundcheck.club/e/2489164-free-saturdays-cillian-payam-parvizi-reshio-at-left-bank/)*

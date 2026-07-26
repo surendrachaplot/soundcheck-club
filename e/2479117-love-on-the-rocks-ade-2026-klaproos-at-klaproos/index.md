@@ -16,8 +16,8 @@ Love On The Rocks - ADE 2026 - Klaproos on Fri 23 Oct, Amsterdam. 13 acts on the
 - Fais Le Beau
 - Giammarco Orsini
 - Melody RA+RE
-- PARAMIDA
 - Pancratio
+- PARAMIDA
 - Peach
 - Satoshi Tomiie
 - Simone de Kunovich

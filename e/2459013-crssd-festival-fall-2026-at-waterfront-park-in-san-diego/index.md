@@ -21,6 +21,7 @@ CRSSD Festival Fall 2026 at Waterfront Park in San Diego on Sat 26 Sept, Sandieg
 - Genesi (IT)
 - Groove Armada
 - Helena Hauff
+- horsegiirL
 - I Hate Models
 - Jamback
 - Jay de Lys
@@ -28,24 +29,23 @@ CRSSD Festival Fall 2026 at Waterfront Park in San Diego on Sat 26 Sept, Sandieg
 - KETTAMA
 - Layton Giordani
 - Locklead
-- MPH (1)
 - Marco Strous
 - Marlon Hoffstadt
 - Mathame
 - Mochakk
+- MPH (1)
 - Notion
+- oskar med k
 - Prospa
-- ROYA
 - Rafael (IS)
 - Rossi
+- ROYA
+- salute
 - Sam Alfred
 - Skepta
 - Son of Son
 - Sonny Fodera
 - Torren Foot
 - VTSS
-- horsegiirL
-- oskar med k
-- salute
 
 *Source: [soundcheck](https://soundcheck.club/e/2459013-crssd-festival-fall-2026-at-waterfront-park-in-san-diego/)*

@@ -1,6 +1,6 @@
 # HEAVEN'S GATE Vol.8 (Techno/Breaks/Electro) at Circus Tokyo
 
-HEAVEN'S GATE Vol.8 (Techno/Breaks/Electro) at Circus Tokyo on Sat 1 Aug, Tokyo. 7 acts on the bill: ACKERMAN, ACKERMAN (2), Acidclank and In-Character and 3 more. Bass and Electro. Preview the line-up and save it on soundcheck.
+HEAVEN'S GATE Vol.8 (Techno/Breaks/Electro) at Circus Tokyo on Sat 1 Aug, Tokyo. 7 acts on the bill: Acidclank, ACKERMAN, ACKERMAN (2) and In-Character and 3 more. Bass and Electro. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,9 +10,9 @@ HEAVEN'S GATE Vol.8 (Techno/Breaks/Electro) at Circus Tokyo on Sat 1 Aug, Tokyo.
 
 ## Line-up
 
+- Acidclank
 - ACKERMAN
 - ACKERMAN (2)
-- Acidclank
 - In-Character
 - MOOTOE
 - NO WAY

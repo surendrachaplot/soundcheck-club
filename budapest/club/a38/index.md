@@ -1,15 +1,13 @@
 # A38
 
-A38 is a music venue in Budapest with 10 upcoming nights listed on soundcheck as of Sat, 25 Jul 2026; the next is "Reggaeton Rooftop Boat Party (Budapest)" on Sat, 25 Jul 2026.
+A38 is a music venue in Budapest with 9 upcoming nights listed on soundcheck as of Sun, 26 Jul 2026; the next is "Fine Selection #216 w/Pretty Flat" on Thu, 30 Jul 2026.
 
-A38 is a music venue in Budapest listed on soundcheck. 10 upcoming nights, with line-ups including Alix Perez, Crimson & Chrom, Dual DeStress and Electric Boutique and 2 more. Browse upcoming dates, start times and who's playing. Petőfi Bridge; 1114 Budapest; Budai alsó rakpart.
+A38 is a music venue in Budapest listed on soundcheck. 9 upcoming nights, with line-ups including Alix Perez, Dual DeStress, Electric Boutique and Gemcamp and 2 more. Browse upcoming dates, start times and who's playing. Petőfi Bridge; 1114 Budapest; Budai alsó rakpart.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Sat, 25 Jul 2026 | Reggaeton Rooftop Boat Party (Budapest) |  |
-| Sat, 25 Jul 2026 | Lick the Click! Sunburst Classic Terrace | Crimson & Chrom |
 | Thu, 30 Jul 2026 | Fine Selection #216 w/Pretty Flat | Electric Boutique, Lost in Details |
 | Fri, 31 Jul 2026 | Friday with Gemcamp / Drum Club | Gemcamp |
 | Thu, 6 Aug 2026 | Fine Selection #217 w/Flylow & Juuz | Electric Boutique |
@@ -18,9 +16,10 @@ A38 is a music venue in Budapest listed on soundcheck. 10 upcoming nights, with 
 | Wed, 19 Aug 2026 | Bladerunnaz presents: Alix Perez & SP:MC (10 Years of 1985 Music) | Alix Perez, Gemcamp, Markov, SP:MC |
 | Thu, 27 Aug 2026 | Fine Selection #219 w/Electric Boutique & Lost in Details | Electric Boutique, Lost in Details |
 | Fri, 4 Sept 2026 | Liquid Night: Summer Closing with T78 | Dual DeStress, T78 |
+| Sat, 24 Oct 2026 | Test pres. DJ Krush |  |
 
 ## Address
 
 Petőfi Bridge; 1114 Budapest; Budai alsó rakpart, Budapest
 
-*Updated Sat, 25 Jul 2026 · source: [soundcheck](https://soundcheck.club/budapest/club/a38/)*
+*Updated Sun, 26 Jul 2026 · source: [soundcheck](https://soundcheck.club/budapest/club/a38/)*

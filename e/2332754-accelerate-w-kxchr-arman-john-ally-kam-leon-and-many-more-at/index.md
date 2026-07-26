@@ -15,8 +15,8 @@ Accelerate w. KXCHR, Arman John, Ally, Kamäleon and many more at Lokschuppen Be
 - Arman John
 - Billy Currie
 - DJ HOTMAIL
-- KX CHR
 - Kamäleon
+- KX CHR
 - MEYEM
 
 *Source: [soundcheck](https://soundcheck.club/e/2332754-accelerate-w-kxchr-arman-john-ally-kam-leon-and-many-more-at/)*

@@ -1,6 +1,6 @@
 # magao9 at Club Daphnia
 
-magao9 at Club Daphnia on Sat 8 Aug, Osaka. 3 acts on the bill: Aspara, Ryogo and imazutsubasa. Techno. Preview the line-up and save it on soundcheck.
+magao9 at Club Daphnia on Sat 8 Aug, Osaka. 3 acts on the bill: Aspara, imazutsubasa and Ryogo. Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -11,7 +11,7 @@ magao9 at Club Daphnia on Sat 8 Aug, Osaka. 3 acts on the bill: Aspara, Ryogo an
 ## Line-up
 
 - Aspara
-- Ryogo
 - imazutsubasa
+- Ryogo
 
 *Source: [soundcheck](https://soundcheck.club/e/2471263-magao9-at-club-daphnia/)*

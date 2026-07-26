@@ -1,6 +1,6 @@
 # Unterm Techno liegt der Punk at ://about blank
 
-Unterm Techno liegt der Punk at ://about blank on Fri 31 Jul, Berlin. 8 acts on the bill: Domovnika, FERRØMANCY, Hypermobil and Karina Qanir and 4 more. Trance and Techno. Preview the line-up and save it on soundcheck.
+Unterm Techno liegt der Punk at ://about blank on Fri 31 Jul, Berlin. 8 acts on the bill: alemiko, Domovnika, FERRØMANCY and Hypermobil and 4 more. Trance and Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,13 +10,13 @@ Unterm Techno liegt der Punk at ://about blank on Fri 31 Jul, Berlin. 8 acts on 
 
 ## Line-up
 
+- alemiko
 - Domovnika
 - FERRØMANCY
 - Hypermobil
 - Karina Qanir
 - Kwaint
-- Trancy Chatman
-- alemiko
 - r:xn
+- Trancy Chatman
 
 *Source: [soundcheck](https://soundcheck.club/e/2413026-unterm-techno-liegt-der-punk-at-about-blank/)*

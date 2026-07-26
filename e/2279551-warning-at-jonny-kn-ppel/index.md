@@ -16,26 +16,26 @@ WARNING at Jonny Knüppel on Sat 29 Aug, Berlin. 27 acts on the bill: AAMIROO, A
 - Coco Cobra
 - Crille & Tamalt
 - F#X
+- fr. JPLA
 - Jotel California
 - Katzele
 - Laetizia
 - Leibniz
 - Lily Haz
+- metaverde
 - MFX (1)
 - NE555
+- p/kstr
 - Paolo Mosca
 - Philipp Otterbach
 - SAM (9)
+- skyra
 - The Burrell Connection
+- theories
 - Toni Pfad
 - Triqi
 - Udda
-- Young Lychee
-- fr. JPLA
-- metaverde
-- p/kstr
-- skyra
-- theories
 - xoxo (DE)
+- Young Lychee
 
 *Source: [soundcheck](https://soundcheck.club/e/2279551-warning-at-jonny-kn-ppel/)*

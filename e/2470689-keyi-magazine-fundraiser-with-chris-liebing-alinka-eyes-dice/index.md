@@ -1,6 +1,6 @@
 # Keyi Magazine Fundraiser with Chris Liebing, Alinka, Eyes Dice & Berlin Bunny and More at Phantom Bar Berlin
 
-Keyi Magazine Fundraiser with Chris Liebing, Alinka, Eyes Dice & Berlin Bunny and More at Phantom Bar Berlin on Thu 30 Jul, Berlin. 11 acts on the bill: A6IIR, Alinka, Berlin Bunny and CYRK and 7 more. Techno and Italo Disco. Preview the line-up and save it on soundcheck.
+Keyi Magazine Fundraiser with Chris Liebing, Alinka, Eyes Dice & Berlin Bunny and More at Phantom Bar Berlin on Thu 30 Jul, Berlin. 11 acts on the bill: A6IIR, Alinka, Berlin Bunny and Chris Liebing and 7 more. Techno and Italo Disco. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -13,8 +13,8 @@ Keyi Magazine Fundraiser with Chris Liebing, Alinka, Eyes Dice & Berlin Bunny an
 - A6IIR
 - Alinka
 - Berlin Bunny
-- CYRK
 - Chris Liebing
+- CYRK
 - Eyesdice
 - HASLA
 - Paty Vapor

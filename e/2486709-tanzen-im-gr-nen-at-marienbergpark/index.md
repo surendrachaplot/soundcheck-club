@@ -1,6 +1,6 @@
 # Tanzen im Grünen at Marienbergpark
 
-Tanzen im Grünen at Marienbergpark on Sat 29 Aug, Nurnberg. 19 acts on the bill: 999999999, A.N.I., AKA AKA and Aiden (DE) and 15 more. Techno and House. Preview the line-up and save it on soundcheck.
+Tanzen im Grünen at Marienbergpark on Sat 29 Aug, Nurnberg. 19 acts on the bill: 999999999, A.N.I., Aiden (DE) and AKA AKA and 15 more. Techno and House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -12,8 +12,8 @@ Tanzen im Grünen at Marienbergpark on Sat 29 Aug, Nurnberg. 19 acts on the bill
 
 - 999999999
 - A.N.I.
-- AKA AKA
 - Aiden (DE)
+- AKA AKA
 - Alfred Heinrichs
 - Emanuel Satie
 - Format B
@@ -21,11 +21,11 @@ Tanzen im Grünen at Marienbergpark on Sat 29 Aug, Nurnberg. 19 acts on the bill
 - Luciid
 - Monika Kruse
 - Moonbootica
-- NIKOLINA_
 - Nicolas Julian
+- NIKOLINA_
 - Obscure Shape
-- PRADA2000
 - Paraçek
+- PRADA2000
 - Schrotthagen
 - Somewhen
 - Vendex

@@ -1,6 +1,6 @@
 # Simula
 
-Simula is a Drum & Bass and Dubstep artist with 3 upcoming club dates listed on soundcheck as of Sat, 25 Jul 2026, next at Joshua Brooks, Manchester on Thu, 30 Jul 2026.
+Simula is a Drum & Bass and Dubstep artist with 3 upcoming club dates listed on soundcheck as of Sun, 26 Jul 2026, next at Joshua Brooks, Manchester on Thu, 30 Jul 2026.
 
 Simula is a drum & bass and dubstep artist based in United Kingdom, tracked on soundcheck, with 52 sets logged across Antwerp, Basel, Berlin and Brighton and 22 more. Often billed alongside Jakes, Hedex and Skantia. Next up: Joshua Brooks, Manchester on Thu 30 Jul.
 
@@ -27,4 +27,4 @@ Simula is a drum & bass and dubstep artist based in United Kingdom, tracked on s
 
 Jakes, Hedex, Skantia
 
-*Updated Sat, 25 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/simula/)*
+*Updated Sun, 26 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/simula/)*

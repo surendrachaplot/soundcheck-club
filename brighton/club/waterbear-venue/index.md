@@ -1,14 +1,13 @@
 # WaterBear Venue
 
-WaterBear Venue is a music venue in Brighton with 6 upcoming nights listed on soundcheck as of Sat, 25 Jul 2026; the next is "[CANCELLED] HOTTWERK RECORDS PRESENTS Jon Dasilva (THE HACIENDA/I LOVE ACID)" on Sat, 25 Jul 2026.
+WaterBear Venue is a music venue in Brighton with 5 upcoming nights listed on soundcheck as of Sun, 26 Jul 2026; the next is "CONNECTED BRIGHTON" on Sat, 15 Aug 2026.
 
-WaterBear Venue is a music venue in Brighton listed on soundcheck. 6 upcoming nights, with line-ups including Cage (1), Caroline Banx, Dave Angel and DSD uk and 2 more. Browse upcoming dates, start times and who's playing. Kings Road Arches, 169-170, Brighton, BN1 1NB.
+WaterBear Venue is a music venue in Brighton listed on soundcheck. 5 upcoming nights, with line-ups including Cage (1), Caroline Banx, Dave Angel and DSD uk and 2 more. Browse upcoming dates, start times and who's playing. Kings Road Arches, 169-170, Brighton, BN1 1NB.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Sat, 25 Jul 2026 | [CANCELLED] HOTTWERK RECORDS PRESENTS Jon Dasilva (THE HACIENDA/I LOVE ACID) | Jon Dasilva, Spatial Awareness |
 | Sat, 15 Aug 2026 | CONNECTED BRIGHTON |  |
 | Fri, 21 Aug 2026 | Deep Transmission 8 - DT 808 | Sp.oon |
 | Sat, 29 Aug 2026 | UNDERGROUND TECHNO SOCIETY PRESENTS Raymundo Rodriguez | Cage (1), DSD uk, Raymundo Rodriguez |
@@ -19,4 +18,4 @@ WaterBear Venue is a music venue in Brighton listed on soundcheck. 6 upcoming ni
 
 Kings Road Arches, 169-170, Brighton, BN1 1NB, Brighton
 
-*Updated Sat, 25 Jul 2026 · source: [soundcheck](https://soundcheck.club/brighton/club/waterbear-venue/)*
+*Updated Sun, 26 Jul 2026 · source: [soundcheck](https://soundcheck.club/brighton/club/waterbear-venue/)*

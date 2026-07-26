@@ -19,6 +19,7 @@ GEGEN GEAR at KitKatClub on Fri 11 Sept, Berlin. 17 acts on the bill: Alma Negro
 - David Asko
 - FAUST (1)
 - Faust (3)
+- fka.m4a
 - Hunkut
 - Mar/us
 - Max Shen
@@ -26,6 +27,5 @@ GEGEN GEAR at KitKatClub on Fri 11 Sept, Berlin. 17 acts on the bill: Alma Negro
 - Radox
 - Reza Jalilian
 - Spikey Lee
-- fka.m4a
 
 *Source: [soundcheck](https://soundcheck.club/e/2446027-gegen-gear-at-kitkatclub/)*

@@ -1,6 +1,6 @@
 # cruush presents: Thotography 101 - warehouse rave for queer cruisers at The Chocolate Factory
 
-cruush presents: Thotography 101 - warehouse rave for queer cruisers at The Chocolate Factory on Fri 31 Jul, Newyorkcity. 6 acts on the bill: Cyborg Julien, Katie Rex, SENGA and Sailor Malice and 2 more. Techno and Hardcore. Preview the line-up and save it on soundcheck.
+cruush presents: Thotography 101 - warehouse rave for queer cruisers at The Chocolate Factory on Fri 31 Jul, Newyorkcity. 6 acts on the bill: Cyborg Julien, Katie Rex, Sailor Malice and SENGA and 2 more. Techno and Hardcore. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -12,8 +12,8 @@ cruush presents: Thotography 101 - warehouse rave for queer cruisers at The Choc
 
 - Cyborg Julien
 - Katie Rex
-- SENGA
 - Sailor Malice
+- SENGA
 - Soo Intoit
 - Wren's Lullaby
 

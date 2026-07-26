@@ -1,6 +1,6 @@
 # Live Haus
 
-Live Haus is a music venue in Tokyo with 8 upcoming nights listed on soundcheck as of Sat, 25 Jul 2026; the next is "Global pops party『Die a little bit』" on Wed, 29 Jul 2026.
+Live Haus is a music venue in Tokyo with 8 upcoming nights listed on soundcheck as of Sun, 26 Jul 2026; the next is "Global pops party『Die a little bit』" on Wed, 29 Jul 2026.
 
 Live Haus is a music venue in Tokyo listed on soundcheck. 8 upcoming nights, with line-ups including 6.do, HALU(Tribal Connection), KCT (1) and Kenta Tominaga and 2 more. Browse upcoming dates, start times and who's playing. 2-14-2 Kitazawa, Setagaya-ku, Tokyo, 155-0031 Japan.
 
@@ -21,4 +21,4 @@ Live Haus is a music venue in Tokyo listed on soundcheck. 8 upcoming nights, wit
 
 2-14-2 Kitazawa, Setagaya-ku, Tokyo, 155-0031 Japan, Tokyo
 
-*Updated Sat, 25 Jul 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/live-haus/)*
+*Updated Sun, 26 Jul 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/live-haus/)*

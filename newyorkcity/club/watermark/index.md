@@ -1,14 +1,13 @@
 # Watermark
 
-Watermark is a music venue in New York City with 6 upcoming nights listed on soundcheck as of Sat, 25 Jul 2026; the next is "Reggaeton Disco - Perreo Parrty Beach Pier 15" on Sat, 25 Jul 2026.
+Watermark is a music venue in New York City with 5 upcoming nights listed on soundcheck as of Sun, 26 Jul 2026; the next is "AfroWaves NYC: Afrobeats & Amapiano Sunset Party on the Pier [ Open - Air ]" on Sun, 2 Aug 2026.
 
-Watermark is a music venue in Newyorkcity listed on soundcheck. 6 upcoming nights. Browse upcoming dates, start times and who's playing. 78 South St., New York, NY 10002, USA.
+Watermark is a music venue in Newyorkcity listed on soundcheck. 5 upcoming nights. Browse upcoming dates, start times and who's playing. 78 South St., New York, NY 10002, USA.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Sat, 25 Jul 2026 | Reggaeton Disco - Perreo Parrty Beach Pier 15 |  |
 | Sun, 2 Aug 2026 | AfroWaves NYC: Afrobeats & Amapiano Sunset Party on the Pier [ Open - Air ] |  |
 | Sun, 16 Aug 2026 | AfroWaves NYC: Afrobeats & Amapiano Sunset Party on the Pier [ Open - Air ] |  |
 | Sun, 23 Aug 2026 | AfroWaves NYC: Afrobeats & Amapiano Sunset Party on the Pier [ Open - Air ] |  |
@@ -19,4 +18,4 @@ Watermark is a music venue in Newyorkcity listed on soundcheck. 6 upcoming night
 
 78 South St., New York, NY 10002, USA, New York City
 
-*Updated Sat, 25 Jul 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/watermark/)*
+*Updated Sun, 26 Jul 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/watermark/)*

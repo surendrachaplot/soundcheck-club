@@ -1,6 +1,6 @@
 # Dekmantel Festival 2026 at Amsterdamse Bos
 
-Dekmantel Festival 2026 at Amsterdamse Bos on Wed 29 Jul, Amsterdam. 155 acts on the bill: A Guy Called Gerald, AMORAL, Actress and Al Wootton and 151 more. Techno and Electronica. Preview the line-up and save it on soundcheck.
+Dekmantel Festival 2026 at Amsterdamse Bos on Wed 29 Jul, Amsterdam. 154 acts on the bill: A Guy Called Gerald, Actress, Al Wootton and Alex Wilcox and 150 more. Techno and Electronica. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -11,11 +11,12 @@ Dekmantel Festival 2026 at Amsterdamse Bos on Wed 29 Jul, Amsterdam. 155 acts on
 ## Line-up
 
 - A Guy Called Gerald
-- AMORAL
 - Actress
 - Al Wootton
 - Alex Wilcox
+- AMORAL
 - Aurora Halal
+- aya
 - Azu Tiwaline
 - Barker
 - Batu
@@ -25,54 +26,55 @@ Dekmantel Festival 2026 at Amsterdamse Bos on Wed 29 Jul, Amsterdam. 155 acts on
 - Bitter Babe
 - Blasha & Allatt
 - Brodinski
-- CCL
 - Call Super
 - Cari Lekebusch
 - Carl Craig
+- CCL
 - Channel One
 - Cheyanne Hudson
-- Christian AB
 - Christian AB
 - Clark
 - Colin Benders
 - DARKSIDE
-- DAX J
-- DJ Koolt
-- DJ Nobu
-- DJ Sprinkles
-- DVS1
 - Dasha Rush
 - Dave Huismans
+- DAX J
 - Death in Vegas
 - Dekmantel Soundsystem
 - Devon Rexi
 - Dimi Angelis
 - Dino Sabatini
+- dirtydms
+- DJ Koolt
+- DJ Nobu
+- DJ Sprinkles
 - Dopplereffekt
 - Doudou MD
 - Dr. Rubinstein
+- DVS1
 - Efdemin
 - Ellen Allien
 - Eris Drew
-- FJAAK
 - Fafi Abdel Nour
+- FJAAK
 - Francois K
 - Fumiya Tanaka
 - Gabrielle Kwarteng
 - Garçon
 - GiGi FM
+- gyrofield
 - Helena Hauff
 - Helmond Lang
 - Identified Patient
 - Ikonika
 - Interstellar Funk
 - Introspekt
-- JASSS
 - JakoJako
 - James Holden
 - James Massiah
 - Jane Fitz
 - Jasmín
+- JASSS
 - Jeff Mills
 - Jennifer Loveless
 - Job Jobse
@@ -84,12 +86,14 @@ Dekmantel Festival 2026 at Amsterdamse Bos on Wed 29 Jul, Amsterdam. 155 acts on
 - Konduku
 - Kuniyuki
 - L.F.T.
-- LSD
 - Lady Starlight
 - Lea Occhi
+- livwutang
 - Loradeniz
 - Lord Tusk
+- LSD
 - Luigi Tozzi
+- mad miran
 - Makam
 - Mala
 - Marcel Dettmann
@@ -97,42 +101,42 @@ Dekmantel Festival 2026 at Amsterdamse Bos on Wed 29 Jul, Amsterdam. 155 acts on
 - Mike Parker
 - Molina
 - Moxie
-- NEW YORK
-- NIKS
 - Nala Brown
 - Nazar
 - Neska
+- NEW YORK
 - Nicolas Lutz
-- Novelist
 - Nídia
+- NIKS
 - Nørbak
+- Novelist
 - Objekt
 - Octo Octa
 - Ogazón
 - Olof Dreijer
 - Oscar Mulero
-- PLO Man
 - Palms Trax
 - Pariah
 - Peach
 - Philippa Pacho
 - Piezo
+- PLO Man
 - Polygonia
 - Quest
-- RHR
 - Rene Wise
+- RHR
 - Ricardo Villalobos
 - Richard Akingbehin
 - Ron Trent
 - Rozaly
 - Ryan Elliott
-- SHERELLE
 - Sandrien
 - Saoirse
 - Sass
 - Sepehr
 - Shanti Celeste
 - Shed
+- SHERELLE
 - Shy FX
 - Sir Spyro
 - Skee Mask
@@ -154,16 +158,11 @@ Dekmantel Festival 2026 at Amsterdamse Bos on Wed 29 Jul, Amsterdam. 155 acts on
 - The Bug
 - Tikiman
 - Underground Resistance
+- upsammy
 - Verraco
 - Vlada
 - Warrior Queen
 - Wata Igarashi
 - Woody92
-- aya
-- dirtydms
-- gyrofield
-- livwutang
-- mad miran
-- upsammy
 
 *Source: [soundcheck](https://soundcheck.club/e/2351984-dekmantel-festival-2026-at-amsterdamse-bos/)*

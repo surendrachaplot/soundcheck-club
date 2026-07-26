@@ -1,6 +1,6 @@
 # On The Way presented by Standard Time and Community Wines at The Bentway
 
-On The Way presented by Standard Time and Community Wines at The Bentway on Sat 15 Aug, Toronto. 8 acts on the bill: BRUX (Aus), Badbadnotgood, Doss and Patrick Holland and 4 more. Preview the line-up and save it on soundcheck.
+On The Way presented by Standard Time and Community Wines at The Bentway on Sat 15 Aug, Toronto. 8 acts on the bill: Badbadnotgood, BRUX (Aus), Doss and Patrick Holland and 4 more. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,8 +10,8 @@ On The Way presented by Standard Time and Community Wines at The Bentway on Sat 
 
 ## Line-up
 
-- BRUX (Aus)
 - Badbadnotgood
+- BRUX (Aus)
 - Doss
 - Patrick Holland
 - Rabzi

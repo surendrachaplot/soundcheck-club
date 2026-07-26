@@ -1,6 +1,6 @@
 # Else x DJ Gigola pres. Bigroom Sensual at Else
 
-Else x DJ Gigola pres. Bigroom Sensual on Sun 23 Aug, Berlin. 8 acts on the bill: ALCATRAZ, DJ Gigola, Dj Babatr and LB aka LABAT and 4 more. Trance and Tech House. Preview the line-up and save it on soundcheck.
+Else x DJ Gigola pres. Bigroom Sensual on Sun 23 Aug, Berlin. 8 acts on the bill: ALCATRAZ, Dj Babatr, DJ Gigola and LB aka LABAT and 4 more. Trance and Tech House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -11,11 +11,11 @@ Else x DJ Gigola pres. Bigroom Sensual on Sun 23 Aug, Berlin. 8 acts on the bill
 ## Line-up
 
 - ALCATRAZ
-- DJ Gigola
 - Dj Babatr
+- DJ Gigola
 - LB aka LABAT
-- LYZZA
 - Luke Hovey
+- LYZZA
 - Margo XS
 - SWART (BE)
 

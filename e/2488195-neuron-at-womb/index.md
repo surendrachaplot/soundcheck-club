@@ -16,7 +16,7 @@ NEURON at WOMB on Sat 8 Aug, Tokyo. 8 acts on the bill: ANDY DEDE, EIGHT, HIZAT 
 - IRODORI
 - Kandarta
 - LYOM
-- RYOHEI
 - na-na
+- RYOHEI
 
 *Source: [soundcheck](https://soundcheck.club/e/2488195-neuron-at-womb/)*

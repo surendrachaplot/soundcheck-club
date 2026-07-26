@@ -1,14 +1,13 @@
 # Mondo
 
-Mondo is a music venue in Madrid with 21 upcoming nights listed on soundcheck as of Sat, 25 Jul 2026; the next is "Mall Grab / Gerardo Niva / DJ SWISHERMAN B2B Emi Koto / Emi Koto" on Sat, 25 Jul 2026.
+Mondo is a music venue in Madrid with 20 upcoming nights listed on soundcheck as of Sun, 26 Jul 2026; the next is "Mija / Gerardo Niva" on Thu, 30 Jul 2026.
 
-Mondo is a music venue in Madrid listed on soundcheck. 21 upcoming nights, with line-ups including Alarico, Alba Franch, Andres Campo and Bad Boombox and 2 more. Browse upcoming dates, start times and who's playing. Sala But, C. de Barceló, 11, Local B, Centro, 28004 Madrid.
+Mondo is a music venue in Madrid listed on soundcheck. 20 upcoming nights, with line-ups including Alarico, Alba Franch, Andres Campo and Bad Boombox and 2 more. Browse upcoming dates, start times and who's playing. Sala But, C. de Barceló, 11, Local B, Centro, 28004 Madrid.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Sat, 25 Jul 2026 | Mall Grab / Gerardo Niva / DJ SWISHERMAN B2B Emi Koto / Emi Koto | DJ SWISHERMAN, Emi Koto, Gerardo Niva, Mall Grab |
 | Thu, 30 Jul 2026 | Mija / Gerardo Niva | Gerardo Niva, Mija |
 | Sat, 1 Aug 2026 | Paige Tomlinson / Gerardo Niva / Mike Momburg | Gerardo Niva, Mike Momburg, Paige Tomlinson |
 | Thu, 6 Aug 2026 | Gerardo Niva / Jim Jonathan / doccudder | Gerardo Niva, doccudder |
@@ -18,9 +17,10 @@ Mondo is a music venue in Madrid listed on soundcheck. 21 upcoming nights, with 
 | Thu, 20 Aug 2026 | bullet tooth / Gerardo Niva / doccudder | Gerardo Niva, bullet tooth, doccudder |
 | Sat, 22 Aug 2026 | Gerardo Niva / Dan Newman | Bella Claxton, Dan Newman, Gerardo Niva |
 | Thu, 27 Aug 2026 | Demi Riquisimo / Gerardo Niva / DJ SWISHERMAN | DJ SWISHERMAN, Demi Riquisimo, Gerardo Niva |
+| Sat, 29 Aug 2026 | STÜM / Gerardo Niva | Gerardo Niva, STÜM |
 
 ## Address
 
 Sala But, C. de Barceló, 11, Local B, Centro, 28004 Madrid, Madrid
 
-*Updated Sat, 25 Jul 2026 · source: [soundcheck](https://soundcheck.club/madrid/club/mondo/)*
+*Updated Sun, 26 Jul 2026 · source: [soundcheck](https://soundcheck.club/madrid/club/mondo/)*

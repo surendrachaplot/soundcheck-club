@@ -33,9 +33,9 @@ Eastern Electrics 2026 at Burgess Park on Sun 9 Aug, London. 30 acts on the bill
 - Patrick Topping
 - Phill de Janeiro
 - Reeshy
-- SOSA (UK)
 - Scarlett O'Malley
 - Skream
+- SOSA (UK)
 - The Martinez Brothers
 - Theon Bower
 - Truly Madly

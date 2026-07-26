@@ -1,14 +1,13 @@
 # Cube
 
-Cube is a music venue in Tokyo with 5 upcoming nights listed on soundcheck as of Sat, 25 Jul 2026; the next is "RAVE 2D: HARD" on Sat, 25 Jul 2026.
+Cube is a music venue in Tokyo with 4 upcoming nights listed on soundcheck as of Sun, 26 Jul 2026; the next is "INCEPTION" on Sun, 26 Jul 2026.
 
-Cube is a music venue in Tokyo listed on soundcheck. 5 upcoming nights, with line-ups including CD HATA, DOLPHIN, Dustvoxx and Koyas and 2 more. Browse upcoming dates, start times and who's playing. 3-4-11 B1 Chuoiikurabil, Azabudai, Minato-ku, Tokyo.
+Cube is a music venue in Tokyo listed on soundcheck. 4 upcoming nights, with line-ups including CD HATA, DOLPHIN, Koyas and Miyuki Omura and 2 more. Browse upcoming dates, start times and who's playing. 3-4-11 B1 Chuoiikurabil, Azabudai, Minato-ku, Tokyo.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Sat, 25 Jul 2026 | RAVE 2D: HARD | Dustvoxx, Relect |
 | Sun, 26 Jul 2026 | INCEPTION | YuWa |
 | Fri, 31 Jul 2026 | Ableton Meetup Tokyo Vol.66 How Do You Make Melodies | CD HATA, Koyas, Rena19, Tuyetmizuno |
 | Sun, 2 Aug 2026 | FEELL |  |
@@ -18,4 +17,4 @@ Cube is a music venue in Tokyo listed on soundcheck. 5 upcoming nights, with lin
 
 3-4-11 B1 Chuoiikurabil, Azabudai, Minato-ku, Tokyo, Tokyo
 
-*Updated Sat, 25 Jul 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/cube/)*
+*Updated Sun, 26 Jul 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/cube/)*

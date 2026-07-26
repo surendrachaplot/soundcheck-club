@@ -14,7 +14,7 @@ Fornax Collective at ÆDEN on Thu 24 Sept, Berlin. 6 acts on the bill: BLØEM, C
 - Cosmic
 - E2NMN
 - Kashpitzky
-- MINNIEMEN
 - Mathys Lenne
+- MINNIEMEN
 
 *Source: [soundcheck](https://soundcheck.club/e/2485755-fornax-collective-at-den-at-den/)*

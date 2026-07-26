@@ -1,6 +1,6 @@
 # ◥◣ALL EXCESS x SINGULARITY◥◣ at Tresor / Globus
 
-◥◣ALL EXCESS x SINGULARITY◥◣ at Tresor / Globus on Mon 24 Aug, Berlin. 5 acts on the bill: Kandelissa, MOIA, NLI and Nhū and 1 more. Techno. Preview the line-up and save it on soundcheck.
+◥◣ALL EXCESS x SINGULARITY◥◣ at Tresor / Globus on Mon 24 Aug, Berlin. 5 acts on the bill: Kandelissa, MOIA, Nhū and NLI and 1 more. Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -12,8 +12,8 @@
 
 - Kandelissa
 - MOIA
-- NLI
 - Nhū
+- NLI
 - Selina (DE)
 
 *Source: [soundcheck](https://soundcheck.club/e/2494239-all-excess-x-singularity-at-tresor-globus/)*

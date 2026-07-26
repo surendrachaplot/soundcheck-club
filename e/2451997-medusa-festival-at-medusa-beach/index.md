@@ -21,8 +21,8 @@ Medusa Festival at Medusa Beach on Thu 13 Aug, Valencia. 24 acts on the bill: AA
 - Dimitri Vegas & Like Mike
 - Fatima Hajji
 - Franky Rizardo
-- Hugel
 - HåLO
+- Hugel
 - Luxi Villar
 - Marco Carola
 - Miss Monique

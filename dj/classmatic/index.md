@@ -1,6 +1,6 @@
 # Classmatic
 
-Classmatic is a Tech House and House artist with 5 upcoming club dates listed on soundcheck as of Sat, 25 Jul 2026, next at H0l0 Yard, New York City on Sat, 22 Aug 2026.
+Classmatic is a Tech House and House artist with 5 upcoming club dates listed on soundcheck as of Sun, 26 Jul 2026, next at H0l0 Yard, New York City on Sat, 22 Aug 2026.
 
 Classmatic is a tech house and house artist tracked on soundcheck, with 85 sets logged across Amsterdam, Austin, Barcelona and Basel and 24 more. Often billed alongside The Martinez Brothers, Paco Osuna and Jesse Calosso. Next up: H0l0 Yard, Newyorkcity on Sat 22 Aug.
 
@@ -29,4 +29,4 @@ Classmatic is a tech house and house artist tracked on soundcheck, with 85 sets 
 
 The Martinez Brothers, Paco Osuna, Jesse Calosso
 
-*Updated Sat, 25 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/classmatic/)*
+*Updated Sun, 26 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/classmatic/)*

@@ -15,8 +15,8 @@ Lethargy Festival 2026 at Rote Fabrik on Fri 7 Aug, Zurich. 21 acts on the bill:
 - Anna Wall
 - Catching Flies
 - Crystal Distortion
-- DJ Raff
 - Dame Area
+- DJ Raff
 - Ellie Stokes
 - Extrawelt
 - HENGE

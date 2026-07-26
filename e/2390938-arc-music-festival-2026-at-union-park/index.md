@@ -1,6 +1,6 @@
 # ARC Music Festival 2026 at Union Park
 
-ARC Music Festival 2026 at Union Park on Fri 4 Sept, Chicago. 114 acts on the bill: 999999999, ANNA, Adrian Mills and Anyma and 110 more. Techno and House. Preview the line-up and save it on soundcheck.
+ARC Music Festival 2026 at Union Park on Fri 4 Sept, Chicago. 114 acts on the bill: 999999999, Adrian Mills, ANNA and Anyma and 110 more. Techno and House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -11,20 +11,23 @@ ARC Music Festival 2026 at Union Park on Fri 4 Sept, Chicago. 114 acts on the bi
 ## Line-up
 
 - 999999999
-- ANNA
 - Adrian Mills
+- ANNA
 - Anyma
 - Azzecca
-- BAUGRUPPE90
 - Bad Boombox
 - Banchan
+- BAUGRUPPE90
 - Beltran
 - Ben Sterling
 - Ben UFO
 - Biscits
 - Brunello
 - Brutalismus 3000
+- bullet tooth
 - Bushbaby
+- camoufly
+- canary yellow
 - Carl Craig
 - Carlita
 - Chaos In The CBD
@@ -35,27 +38,28 @@ ARC Music Festival 2026 at Union Park on Fri 4 Sept, Chicago. 114 acts on the bi
 - Club Angel
 - Cole Knight
 - Cristoph
+- Dabura
+- Damian Lazarus
 - DAX J
+- Dennis Cruz
+- Derrick Carter
 - DJ Colette
 - DJ Gigola
 - DJ Heartstring
 - DJ Heather
 - DJ Hyperactive
 - DJ Lady D
-- Dabura
-- Damian Lazarus
-- Dennis Cruz
-- Derrick Carter
 - Dubfire
 - Dunes of Dawn
 - Eli & Fur
 - Flores Negras
+- fumi (DE)
 - GENESI
 - Green Velvet
-- HOTPRETTY
+- Héctor Oaks
 - Hiroko Yamamura
 - Honey Dijon
-- Héctor Oaks
+- HOTPRETTY
 - I Hate Models
 - IDEMI
 - INVT
@@ -63,12 +67,12 @@ ARC Music Festival 2026 at Union Park on Fri 4 Sept, Chicago. 114 acts on the bi
 - Janesita
 - Josh Baker
 - Joy Orbison
-- KI/KI
-- KLOUD
 - Kasia (OFC)
 - Kevin de Vries
+- KI/KI
 - KinAhau
 - Kirk (US)
+- KLOUD
 - Korolova
 - Laurence Guy
 - Lil' Louis
@@ -76,12 +80,12 @@ ARC Music Festival 2026 at Union Park on Fri 4 Sept, Chicago. 114 acts on the bi
 - Locklead
 - Luuk van Dijk
 - M3RCH
-- MCR-T
 - Madeline (Chi)
 - Marsolo
 - Matroda
 - Mau P
 - Max Dean
+- MCR-T
 - Meduza
 - Michael Bibi
 - Mike Dunn
@@ -99,7 +103,9 @@ ARC Music Festival 2026 at Union Park on Fri 4 Sept, Chicago. 114 acts on the bi
 - Phives
 - Prospa
 - Quest (IT)
+- r00bies4ever
 - Sally C
+- salute
 - Sam Alfred
 - Sara Landry
 - Serafina
@@ -118,11 +124,5 @@ ARC Music Festival 2026 at Union Park on Fri 4 Sept, Chicago. 114 acts on the bi
 - Walker & Royce
 - WhoMadeWho
 - X CLUB.
-- bullet tooth
-- camoufly
-- canary yellow
-- fumi (DE)
-- r00bies4ever
-- salute
 
 *Source: [soundcheck](https://soundcheck.club/e/2390938-arc-music-festival-2026-at-union-park/)*

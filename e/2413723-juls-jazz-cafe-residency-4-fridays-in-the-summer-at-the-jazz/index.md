@@ -1,6 +1,6 @@
 # Juls — Jazz Cafe Residency (4 Fridays in the Summer) at The Jazz Cafe
 
-Juls — Jazz Cafe Residency (4 Fridays in the Summer) at The Jazz Cafe on Fri 7 Aug, London. 9 acts on the bill: Dj Nico, Duo, HARUNA (2) and Hagan and 5 more. Club and Afrobeats. Preview the line-up and save it on soundcheck.
+Juls — Jazz Cafe Residency (4 Fridays in the Summer) at The Jazz Cafe on Fri 7 Aug, London. 9 acts on the bill: Dj Nico, Duo, Hagan and HARUNA (2) and 5 more. Club and Afrobeats. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -12,8 +12,8 @@ Juls — Jazz Cafe Residency (4 Fridays in the Summer) at The Jazz Cafe on Fri 7
 
 - Dj Nico
 - Duo
-- HARUNA (2)
 - Hagan
+- HARUNA (2)
 - Juls
 - Kwamzy
 - Larizzle

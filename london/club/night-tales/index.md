@@ -1,14 +1,13 @@
 # Night Tales
 
-Night Tales is a music venue in London with 32 upcoming nights listed on soundcheck as of Sat, 25 Jul 2026; the next is "Ian Pooley [Extended Set] & SUCHI " on Sat, 25 Jul 2026.
+Night Tales is a music venue in London with 31 upcoming nights listed on soundcheck as of Sun, 26 Jul 2026; the next is "Rinse Summer Series ft. Heartless Crew, Storm Mollison, Lady Passion + more" on Thu, 30 Jul 2026.
 
-Night Tales is a music venue in London listed on soundcheck. 32 upcoming nights, with line-ups including KT, ADMNTi, Alexia Glensy and Barbara Boeing and 2 more. Browse upcoming dates, start times and who's playing. 14 Bohemia Pl, London E8 1DU, United Kingdom.
+Night Tales is a music venue in London listed on soundcheck. 31 upcoming nights, with line-ups including KT, ADMNTi, Alexia Glensy and Barbara Boeing and 2 more. Browse upcoming dates, start times and who's playing. 14 Bohemia Pl, London E8 1DU, United Kingdom.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Sat, 25 Jul 2026 | Ian Pooley [Extended Set] & SUCHI  | Ian Pooley, SUCHI |
 | Thu, 30 Jul 2026 | Rinse Summer Series ft. Heartless Crew, Storm Mollison, Lady Passion + more | DJ Polo, Esk (UK), Lady Passion, Storm Mollison |
 | Fri, 31 Jul 2026 | Junki Inoue, Raphael Carrau & More TBA | Junki Inoue, Raphael Carrau |
 | Fri, 31 Jul 2026 | Night Tales: FREE Party |  |
@@ -18,9 +17,10 @@ Night Tales is a music venue in London listed on soundcheck. 32 upcoming nights,
 | Sun, 2 Aug 2026 | Journeyss with Jordss - Day Party | Jordss |
 | Thu, 6 Aug 2026 | Rinse Summer Series ft. G33, ryota, PXSSY PALACE + more | Buckley, Dean Bryce, G33 (UK), ryota dj |
 | Fri, 7 Aug 2026 | Origins: Bella Claxton, Kyle Starkey & WOLTERS  | Bella Claxton, Kyle Starkey, WOLTERS |
+| Sat, 8 Aug 2026 | Night Tales: CC:DISCO! & Bárbara Boeing | Barbara Boeing, CC:DISCO! |
 
 ## Address
 
 14 Bohemia Pl, London E8 1DU, United Kingdom, London
 
-*Updated Sat, 25 Jul 2026 · source: [soundcheck](https://soundcheck.club/london/club/night-tales/)*
+*Updated Sun, 26 Jul 2026 · source: [soundcheck](https://soundcheck.club/london/club/night-tales/)*

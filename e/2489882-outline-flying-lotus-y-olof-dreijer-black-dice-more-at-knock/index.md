@@ -14,8 +14,8 @@ OUTLINE: Flying Lotus, ∈Y∋, Olof Dreijer, Black Dice, + more at Knockdown Ce
 - Carrier
 - Carrier (Aus)
 - Flying Lotus
+- gyrofield
 - Olof Dreijer
 - Silicone Valley
-- gyrofield
 
 *Source: [soundcheck](https://soundcheck.club/e/2489882-outline-flying-lotus-y-olof-dreijer-black-dice-more-at-knock/)*

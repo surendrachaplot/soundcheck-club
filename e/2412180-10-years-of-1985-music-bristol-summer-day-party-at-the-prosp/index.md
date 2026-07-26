@@ -15,6 +15,7 @@
 - DJ Flight
 - Dub Athlete
 - Fabio
+- imo-Lu
 - LX one
 - MC GQ
 - MC Koast
@@ -24,13 +25,12 @@
 - Neffa-T
 - Paige Julia
 - Pinch
-- SP:MC
 - Settle Down
+- SP:MC
 - Strategy
+- submarine
 - Tasha
 - Visages
 - Zero T
-- imo-Lu
-- submarine
 
 *Source: [soundcheck](https://soundcheck.club/e/2412180-10-years-of-1985-music-bristol-summer-day-party-at-the-prosp/)*

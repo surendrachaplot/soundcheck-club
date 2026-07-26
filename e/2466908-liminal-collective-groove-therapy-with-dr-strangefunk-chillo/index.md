@@ -1,6 +1,6 @@
 # Liminal Collective: Groove Therapy with Dr. Strangefunk, Chillosophy and baby-g at TBA - Secret Bushwick Location (revealed to ticket holders)
 
-Liminal Collective: Groove Therapy with Dr. Strangefunk, Chillosophy and baby-g at TBA - Secret Bushwick Location (revealed to ticket holders) on Sat 1 Aug, Newyorkcity. 3 acts on the bill: Chillosophy, Dr. Strangefunk and baby-g. Techno and Psytrance. Preview the line-up and save it on soundcheck.
+Liminal Collective: Groove Therapy with Dr. Strangefunk, Chillosophy and baby-g at TBA - Secret Bushwick Location (revealed to ticket holders) on Sat 1 Aug, Newyorkcity. 3 acts on the bill: baby-g, Chillosophy and Dr. Strangefunk. Techno and Psytrance. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,8 +10,8 @@ Liminal Collective: Groove Therapy with Dr. Strangefunk, Chillosophy and baby-g 
 
 ## Line-up
 
+- baby-g
 - Chillosophy
 - Dr. Strangefunk
-- baby-g
 
 *Source: [soundcheck](https://soundcheck.club/e/2466908-liminal-collective-groove-therapy-with-dr-strangefunk-chillo/)*

@@ -14,10 +14,10 @@
 - Carmen Electro
 - EMILIJA
 - Frederic.
+- fumi (DE)
 - Luxi Villar
 - Part Time Killer
 - Trancemaster Krause
 - Vermeer
-- fumi (DE)
 
 *Source: [soundcheck](https://soundcheck.club/e/2459283-11-years-selected-at-rso-berlin/)*

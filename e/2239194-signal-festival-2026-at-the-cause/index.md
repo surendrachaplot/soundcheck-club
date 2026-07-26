@@ -18,10 +18,11 @@ SIGNAL FESTIVAL 2026 at The Cause on Sat 22 Aug, London. 41 acts on the bill: Al
 - Chinese Daughter
 - Cleveland Watkiss
 - Coki
+- dBridge
+- Dillinja
 - DJ Chef
 - DJ Flight
 - DJ Storm
-- Dillinja
 - Doc Scott
 - Echo Brown
 - Ehua
@@ -34,15 +35,15 @@ SIGNAL FESTIVAL 2026 at The Cause on Sat 22 Aug, London. 41 acts on the bill: Al
 - JAZ IMSKY
 - Joker
 - Kira (3)
-- LSB
 - Lenzman
 - Loefah
+- LSB
+- Mantra
 - MC Fox
 - MC GQ
-- Mantra
 - Photek
-- SGT Pokes
 - Satl
+- SGT Pokes
 - Skeptical
 - T-Man (UK)
 - Takuya Nakamura
@@ -50,6 +51,5 @@ SIGNAL FESTIVAL 2026 at The Cause on Sat 22 Aug, London. 41 acts on the bill: Al
 - Workforce
 - Zed Bias
 - Zero T
-- dBridge
 
 *Source: [soundcheck](https://soundcheck.club/e/2239194-signal-festival-2026-at-the-cause/)*

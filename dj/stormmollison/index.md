@@ -1,6 +1,6 @@
 # Storm Mollison
 
-Storm Mollison is a House and Disco artist with 7 upcoming club dates listed on soundcheck as of Sat, 25 Jul 2026, next at Night Tales, London on Thu, 30 Jul 2026.
+Storm Mollison is a House and Disco artist with 7 upcoming club dates listed on soundcheck as of Sun, 26 Jul 2026, next at Night Tales, London on Thu, 30 Jul 2026.
 
 Storm Mollison is a house and disco artist tracked on soundcheck, with 66 sets logged across Amsterdam, Berlin, Brighton and Bristol and 9 more. Often billed alongside Joshua James, Dan Shake and D Stone. Next up: Night Tales, London on Thu 30 Jul.
 
@@ -31,4 +31,4 @@ Storm Mollison is a house and disco artist tracked on soundcheck, with 66 sets l
 
 Joshua James, Dan Shake, D Stone
 
-*Updated Sat, 25 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/stormmollison/)*
+*Updated Sun, 26 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/stormmollison/)*

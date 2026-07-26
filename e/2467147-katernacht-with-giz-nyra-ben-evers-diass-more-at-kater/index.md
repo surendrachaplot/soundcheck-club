@@ -14,10 +14,10 @@ Katernacht with GiZ, Nyra, Ben Evers, Diass + more on Fri 7 Aug, Berlin. 9 acts 
 - Diass
 - Dj Diass
 - GiZ
+- goldie (2)
 - Mely
 - Naajet (2)
 - Nyra
 - Sven Dohse
-- goldie (2)
 
 *Source: [soundcheck](https://soundcheck.club/e/2467147-katernacht-with-giz-nyra-ben-evers-diass-more-at-kater/)*

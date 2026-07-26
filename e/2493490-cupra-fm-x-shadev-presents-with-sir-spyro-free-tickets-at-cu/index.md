@@ -1,6 +1,6 @@
 # CUPRA FM x SHADEV presents with Sir Spyro - FREE Tickets at Cupra City Garage Manchester
 
-CUPRA FM x SHADEV presents with Sir Spyro - FREE Tickets at Cupra City Garage Manchester on Fri 21 Aug, Manchester. 3 acts on the bill: SHADEV, Sir Spyro and imad:re. Bass and Grime. Preview the line-up and save it on soundcheck.
+CUPRA FM x SHADEV presents with Sir Spyro - FREE Tickets at Cupra City Garage Manchester on Fri 21 Aug, Manchester. 3 acts on the bill: imad:re, SHADEV and Sir Spyro. Bass and Grime. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,8 +10,8 @@ CUPRA FM x SHADEV presents with Sir Spyro - FREE Tickets at Cupra City Garage Ma
 
 ## Line-up
 
+- imad:re
 - SHADEV
 - Sir Spyro
-- imad:re
 
 *Source: [soundcheck](https://soundcheck.club/e/2493490-cupra-fm-x-shadev-presents-with-sir-spyro-free-tickets-at-cu/)*

@@ -15,12 +15,12 @@ Reef at Berghain | Panorama Bar | Säule on Fri 21 Aug, Berlin. 12 acts on the b
 - Arthur (US)
 - Carré
 - Darwin
+- dBridge
 - Dubrunner
 - Esposito
 - Headhunter
 - Jan Loup
 - Le Motel
 - Magugu
-- dBridge
 
 *Source: [soundcheck](https://soundcheck.club/e/2482138-reef-at-berghain-panorama-bar-s-ule/)*

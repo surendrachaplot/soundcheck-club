@@ -1,6 +1,6 @@
 # Byhaven
 
-Byhaven is a music venue in Copenhagen with 4 upcoming nights listed on soundcheck as of Sat, 25 Jul 2026; the next is "Love.Rave. - July Edition" on Sun, 26 Jul 2026.
+Byhaven is a music venue in Copenhagen with 4 upcoming nights listed on soundcheck as of Sun, 26 Jul 2026; the next is "Love.Rave. - July Edition" on Sun, 26 Jul 2026.
 
 Byhaven is a music venue in Copenhagen listed on soundcheck. 4 upcoming nights, with line-ups including B From E, Braver, Britney Speed and Entree and 2 more. Browse upcoming dates, start times and who's playing. Studiestræde 52, 1554 København, Denmark.
 
@@ -17,4 +17,4 @@ Byhaven is a music venue in Copenhagen listed on soundcheck. 4 upcoming nights, 
 
 Studiestræde 52, 1554 København, Denmark, Copenhagen
 
-*Updated Sat, 25 Jul 2026 · source: [soundcheck](https://soundcheck.club/copenhagen/club/byhaven/)*
+*Updated Sun, 26 Jul 2026 · source: [soundcheck](https://soundcheck.club/copenhagen/club/byhaven/)*

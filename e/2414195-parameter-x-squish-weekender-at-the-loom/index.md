@@ -14,32 +14,32 @@ Parameter x SQUISH Weekender at The Loom on Fri 2 Oct, Sanfrancisco. 31 acts on 
 - Ayesha
 - Bake
 - Ben Bondy
-- CCL
 - Carré
+- CCL
+- Darwin
 - DJ CZ
 - DJ Tips
-- Darwin
 - DjRUM
+- ek:)
 - Felly Fell
+- gyrofield
 - Kaytree
 - Kia (AU)
+- likeholywine
 - Loidis
 - Mala
 - Mark Ernestus
 - Mia Koden
-- OK EG
+- nonsuit
 - Objekt
+- OK EG
 - SHERELLE
-- SP:MC
 - Skee Mask
+- SP:MC
 - Special Guest DJ
+- subfeels
 - Tristan Arp
 - Verraco
 - Zenker Brothers
-- ek:)
-- gyrofield
-- likeholywine
-- nonsuit
-- subfeels
 
 *Source: [soundcheck](https://soundcheck.club/e/2414195-parameter-x-squish-weekender-at-the-loom/)*

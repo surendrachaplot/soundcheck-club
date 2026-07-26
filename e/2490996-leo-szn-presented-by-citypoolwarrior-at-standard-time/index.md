@@ -1,6 +1,6 @@
 # LEO SZN | PRESENTED BY CITYPOOLWARRIOR at Standard Time
 
-LEO SZN | PRESENTED BY CITYPOOLWARRIOR at Standard Time on Sat 8 Aug, Toronto. 4 acts on the bill: DR 4SKYN, Delicious DJ, EMRYSLAZULI and XANGA. Preview the line-up and save it on soundcheck.
+LEO SZN | PRESENTED BY CITYPOOLWARRIOR at Standard Time on Sat 8 Aug, Toronto. 4 acts on the bill: Delicious DJ, DR 4SKYN, EMRYSLAZULI and XANGA. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,8 +10,8 @@ LEO SZN | PRESENTED BY CITYPOOLWARRIOR at Standard Time on Sat 8 Aug, Toronto. 4
 
 ## Line-up
 
-- DR 4SKYN
 - Delicious DJ
+- DR 4SKYN
 - EMRYSLAZULI
 - XANGA
 

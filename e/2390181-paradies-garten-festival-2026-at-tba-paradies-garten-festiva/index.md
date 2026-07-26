@@ -16,32 +16,33 @@ Paradies Garten Festival 2026 at TBA - Paradies Garten Festival - Schloß Prugg 
 - Bambi-S
 - Benwal
 - BØRT
-- CHERCHES
-- COBRA
 - Carlos Valdes
 - Champion
+- CHERCHES
 - Chiara (2)
 - Chloé Caillet
 - Chris Stussy
+- COBRA
+- davyboi
 - DJ BORING
 - DJ Fuckoff
 - DJ Gigola
 - DJ Heartstring
-- FIFI (2)
-- FUMI
-- FX-31
 - Farr
+- FIFI (2)
 - Fritz Kalkbrenner
+- FUMI
 - Funk Tribu
+- FX-31
 - Gee Lane
 - Ivan (5)
 - Jorkes
-- KAROLINA
-- KEEO.FM
-- KRAWALLBARBIE
 - Kapote
+- KAROLINA
 - Katia Curie
+- KEEO.FM
 - Kirollus
+- KRAWALLBARBIE
 - LOVEFOXY
 - Malounadou
 - Mietze Conte
@@ -50,11 +51,11 @@ Paradies Garten Festival 2026 at TBA - Paradies Garten Festival - Schloß Prugg 
 - Narciss (RO)
 - Natalie Robinson
 - Nizar Sarakbi
-- OMOLOKO
 - Ogazón
+- OMOLOKO
 - PAU (6)
-- RED GROOVE SYSTEM
 - Rayya
+- RED GROOVE SYSTEM
 - Rosa Rosen
 - Rumi de Baires
 - Ryan Elliott
@@ -62,11 +63,10 @@ Paradies Garten Festival 2026 at TBA - Paradies Garten Festival - Schloß Prugg 
 - Seba
 - Shy FX
 - Stipo
+- sumi
+- ÜBERKIKZ
 - YPSY
 - Zisko
 - Zouzibabe
-- davyboi
-- sumi
-- ÜBERKIKZ
 
 *Source: [soundcheck](https://soundcheck.club/e/2390181-paradies-garten-festival-2026-at-tba-paradies-garten-festiva/)*

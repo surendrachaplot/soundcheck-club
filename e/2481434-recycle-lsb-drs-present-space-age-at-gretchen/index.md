@@ -1,6 +1,6 @@
 # Recycle: LSB & DRS present Space Age at Gretchen
 
-Recycle: LSB & DRS present Space Age at Gretchen on Sat 19 Sept, Berlin. 8 acts on the bill: DRS, Hawt Coco, Jimi Handtrix and LSB and 4 more. Drum & Bass and Bass. Preview the line-up and save it on soundcheck.
+Recycle: LSB & DRS present Space Age at Gretchen on Sat 19 Sept, Berlin. 8 acts on the bill: DRS, Hawt Coco, Jimi Handtrix and Ladybird and 4 more. Drum & Bass and Bass. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -13,8 +13,8 @@ Recycle: LSB & DRS present Space Age at Gretchen on Sat 19 Sept, Berlin. 8 acts 
 - DRS
 - Hawt Coco
 - Jimi Handtrix
-- LSB
 - Ladybird
+- LSB
 - Mc Jamie White
 - Tommy Lexxus
 - Workforce

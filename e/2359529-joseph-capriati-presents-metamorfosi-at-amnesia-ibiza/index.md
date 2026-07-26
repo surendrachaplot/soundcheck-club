@@ -1,6 +1,6 @@
 # Joseph Capriati presents Metamorfosi at Amnesia Ibiza
 
-Joseph Capriati presents Metamorfosi at Amnesia Ibiza on Tue 25 Aug, Ibiza. 9 acts on the bill: ANNĒ, Alarico, Antonio Pepe and Archie Hamilton and 5 more. Techno and Tech House. Preview the line-up and save it on soundcheck.
+Joseph Capriati presents Metamorfosi at Amnesia Ibiza on Tue 25 Aug, Ibiza. 9 acts on the bill: Alarico, ANNĒ, Antonio Pepe and Archie Hamilton and 5 more. Techno and Tech House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,8 +10,8 @@ Joseph Capriati presents Metamorfosi at Amnesia Ibiza on Tue 25 Aug, Ibiza. 9 ac
 
 ## Line-up
 
-- ANNĒ
 - Alarico
+- ANNĒ
 - Antonio Pepe
 - Archie Hamilton
 - Enzo Siragusa

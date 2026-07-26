@@ -17,7 +17,7 @@ KARASU - Nikolina / Hades / FUMI - HARD TECHNO - at ZEROTOKYO on Mon 10 Aug, Tok
 - Nikolina
 - STRATAH
 - TEI TEI
-- YURI VALEN
 - Yuoto Saito
+- YURI VALEN
 
 *Source: [soundcheck](https://soundcheck.club/e/2475314-karasu-nikolina-hades-fumi-hard-techno-at-zerotokyo/)*

@@ -1,6 +1,6 @@
 # DUALISM WEEKENDER with Sachsentrance, Candyflip, Pfandidos at ://about blank
 
-DUALISM WEEKENDER with Sachsentrance, Candyflip, Pfandidos at ://about blank on Fri 28 Aug, Berlin. 43 acts on the bill: 4NOUK, AMO, Balkhausen and Baumeister and 39 more. Trance and Techno. Preview the line-up and save it on soundcheck.
+DUALISM WEEKENDER with Sachsentrance, Candyflip, Pfandidos at ://about blank on Fri 28 Aug, Berlin. 43 acts on the bill: 4NOUK, alemiko, AMO and Balkhausen and 39 more. Trance and Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -11,11 +11,15 @@ DUALISM WEEKENDER with Sachsentrance, Candyflip, Pfandidos at ://about blank on 
 ## Line-up
 
 - 4NOUK
+- alemiko
 - AMO
 - Balkhausen
 - Baumeister
+- bbymeister
+- brvder jakob
 - CBR (Berlin)
 - CIKO
+- Dagobird
 - DICE
 - DJ BRECHSTANGE
 - DJ HUNDEFRIEDHOF
@@ -24,20 +28,22 @@ DUALISM WEEKENDER with Sachsentrance, Candyflip, Pfandidos at ://about blank on 
 - DJ TIPSTER
 - DJ Traytex
 - DJ WASSERFALL
-- Dagobird
+- djst4rlight
 - EARGASM GOD
+- happysadgirl
 - HOLLE
 - HOTBOI2300
 - Ivana Parti
 - Jacky Ickx
-- KLING&KLANG
+- jeanska
 - Kamäleon
+- KLING&KLANG
 - Krash Cora
 - LAURIX (DE)
-- LISTORIO
 - Limoncello
-- MSKD
+- LISTORIO
 - Mareike Bautz
+- MSKD
 - Osiris (2)
 - PASSA
 - Ponybarker
@@ -47,11 +53,5 @@ DUALISM WEEKENDER with Sachsentrance, Candyflip, Pfandidos at ://about blank on 
 - Sire Jonah
 - The Jakob Sister
 - Zaphy
-- alemiko
-- bbymeister
-- brvder jakob
-- djst4rlight
-- happysadgirl
-- jeanska
 
 *Source: [soundcheck](https://soundcheck.club/e/2405163-dualism-weekender-with-sachsentrance-candyflip-pfandidos-at/)*

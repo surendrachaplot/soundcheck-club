@@ -17,6 +17,7 @@ Rave Mitte(n) in Berlin /w Konfusia, Secret Act, Mehr is Mehr, Aio, Leon Licht, 
 - Katzenohr
 - Konfusia
 - Leon Licht
+- lisa luka
 - Martin Ka
 - Maurice Mino
 - Mehr is Mehr
@@ -27,6 +28,5 @@ Rave Mitte(n) in Berlin /w Konfusia, Secret Act, Mehr is Mehr, Aio, Leon Licht, 
 - Vanessa Sa
 - Who is ela¿
 - ZweiE
-- lisa luka
 
 *Source: [soundcheck](https://soundcheck.club/e/2467739-rave-mitte-n-in-berlin-w-konfusia-secret-act-mehr-is-mehr-ai/)*

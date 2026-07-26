@@ -15,8 +15,8 @@
 - Jan Ritter
 - Jasmin Giovanazzi
 - Mattone
+- s:mash
 - Sara Delirio
 - UniKhatu
-- s:mash
 
 *Source: [soundcheck](https://soundcheck.club/e/2470739-open-20-00h-oxi-live-modular-synths-amsterdam-and-berlin-at/)*

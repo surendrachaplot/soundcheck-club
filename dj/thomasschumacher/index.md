@@ -1,8 +1,8 @@
 # Thomas Schumacher
 
-Thomas Schumacher is a Techno and House artist with 5 upcoming club dates listed on soundcheck as of Sat, 25 Jul 2026, next at La Citadelle de Marseille, Marseille on Fri, 14 Aug 2026.
+Thomas Schumacher is a Techno and House artist with 6 upcoming club dates listed on soundcheck as of Sun, 26 Jul 2026, next at La Citadelle de Marseille, Marseille on Fri, 14 Aug 2026.
 
-Thomas Schumacher is a techno and house artist tracked on soundcheck, with 85 sets logged across Amsterdam, Barcelona, Berlin and Budapest and 26 more. Often billed alongside A.D.H.S., Anna Reusch and Alex Stein. Next up: La Citadelle de Marseille, Marseille on Fri 14 Aug.
+Thomas Schumacher is a techno and house artist tracked on soundcheck, with 86 sets logged across Amsterdam, Barcelona, Berlin and Budapest and 26 more. Often billed alongside A.D.H.S., Anna Reusch and Alex Stein. Next up: La Citadelle de Marseille, Marseille on Fri 14 Aug.
 
 ## Upcoming shows
 
@@ -13,6 +13,7 @@ Thomas Schumacher is a techno and house artist tracked on soundcheck, with 85 se
 | Sat, 15 Aug 2026 | TBA | Berlin |
 | Fri, 18 Sept 2026 | H1 Club and Lounge | Hamburg |
 | Sat, 19 Sept 2026 | Schrotty | Cologne |
+| Sat, 24 Oct 2026 | Lieberscholli | Munich |
 
 ## Recently played
 
@@ -29,4 +30,4 @@ Thomas Schumacher is a techno and house artist tracked on soundcheck, with 85 se
 
 A.D.H.S., Anna Reusch, Alex Stein
 
-*Updated Sat, 25 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/thomasschumacher/)*
+*Updated Sun, 26 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/thomasschumacher/)*

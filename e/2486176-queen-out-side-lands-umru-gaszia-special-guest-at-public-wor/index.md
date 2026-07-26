@@ -1,6 +1,6 @@
 # QUEEN OUT[SIDE LANDS]: umru, gaszia, & Special Guest at Public Works
 
-QUEEN OUT[SIDE LANDS]: umru, gaszia, & Special Guest at Public Works on Fri 7 Aug, Sanfrancisco. 4 acts on the bill: Beverly Chills, MAMA SAN, gaszia and umru. Preview the line-up and save it on soundcheck.
+QUEEN OUT[SIDE LANDS]: umru, gaszia, & Special Guest at Public Works on Fri 7 Aug, Sanfrancisco. 4 acts on the bill: Beverly Chills, gaszia, MAMA SAN and umru. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -11,8 +11,8 @@ QUEEN OUT[SIDE LANDS]: umru, gaszia, & Special Guest at Public Works on Fri 7 Au
 ## Line-up
 
 - Beverly Chills
-- MAMA SAN
 - gaszia
+- MAMA SAN
 - umru
 
 *Source: [soundcheck](https://soundcheck.club/e/2486176-queen-out-side-lands-umru-gaszia-special-guest-at-public-wor/)*

@@ -1,6 +1,6 @@
 # Locky
 
-Locky is a House and Tech House artist with 14 upcoming club dates listed on soundcheck as of Sat, 25 Jul 2026, next at Shelter Amsterdam, Amsterdam on Fri, 7 Aug 2026.
+Locky is a House and Tech House artist with 14 upcoming club dates listed on soundcheck as of Sun, 26 Jul 2026, next at Shelter Amsterdam, Amsterdam on Fri, 7 Aug 2026.
 
 Locky is a house and tech house artist tracked on soundcheck, with 134 sets logged across Amsterdam, Barcelona, Belgrade and Birmingham and 25 more. Often billed alongside Mad.Again (2), Liam Palmer and Elliot Schooling. Next up: Shelter Amsterdam, Amsterdam on Fri 7 Aug.
 
@@ -36,4 +36,4 @@ Locky is a house and tech house artist tracked on soundcheck, with 134 sets logg
 
 Mad.Again (2), Liam Palmer, Elliot Schooling
 
-*Updated Sat, 25 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/locky/)*
+*Updated Sun, 26 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/locky/)*

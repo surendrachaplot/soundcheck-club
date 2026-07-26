@@ -1,6 +1,6 @@
 # INTENTION OSAKA at Joule
 
-INTENTION OSAKA at Joule on Sat 12 Sept, Osaka. 9 acts on the bill: Drunken Kong, MARIHO, NOBUYA (2) and Nao Nomura and 5 more. Techno and House. Preview the line-up and save it on soundcheck.
+INTENTION OSAKA at Joule on Sat 12 Sept, Osaka. 9 acts on the bill: Drunken Kong, MARIHO, Nao Nomura and NOBUYA (2) and 5 more. Techno and House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -12,8 +12,8 @@ INTENTION OSAKA at Joule on Sat 12 Sept, Osaka. 9 acts on the bill: Drunken Kong
 
 - Drunken Kong
 - MARIHO
-- NOBUYA (2)
 - Nao Nomura
+- NOBUYA (2)
 - O-MAN
 - RICHKID
 - Satoshi Tanaka

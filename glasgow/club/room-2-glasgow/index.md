@@ -1,8 +1,8 @@
 # Room 2 Glasgow
 
-Room 2 Glasgow is a music venue in Glasgow with 7 upcoming nights listed on soundcheck as of Sat, 25 Jul 2026; the next is "Hardpoint Presents: Double Trouble - Noise of Aggression + more" on Fri, 31 Jul 2026.
+Room 2 Glasgow is a music venue in Glasgow with 9 upcoming nights listed on soundcheck as of Sun, 26 Jul 2026; the next is "Hardpoint Presents: Double Trouble - Noise of Aggression + more" on Fri, 31 Jul 2026.
 
-Room 2 Glasgow is a music venue in Glasgow listed on soundcheck. 7 upcoming nights, with line-ups including 333CXT, LESSSS, Neek and OMAKS and 1 more. Browse upcoming dates, start times and who's playing. 69 Nelson Mandela Pl, Glasgow G2 1QY, United Kingdom.
+Room 2 Glasgow is a music venue in Glasgow listed on soundcheck. 9 upcoming nights, with line-ups including 333CXT, Girls of the Internet, KIRSTY and LESSSS and 2 more. Browse upcoming dates, start times and who's playing. 69 Nelson Mandela Pl, Glasgow G2 1QY, United Kingdom.
 
 ## What's on
 
@@ -15,9 +15,11 @@ Room 2 Glasgow is a music venue in Glasgow listed on soundcheck. 7 upcoming nigh
 | Fri, 11 Sept 2026 | ABRUPT presents LESSSS + more | LESSSS |
 | Sat, 10 Oct 2026 | Havox x Demolition Pres: Anoluxx & Dros b2b Nøvar |  |
 | Fri, 23 Oct 2026 | ABRUPT presents NEEK + more | Neek |
+| Sat, 24 Oct 2026 | Teletech Glasgow: KIRSTY [All Night Long] | KIRSTY |
+| Sat, 24 Oct 2026 | Girls of the Internet (Live) | Girls of the Internet |
 
 ## Address
 
 69 Nelson Mandela Pl, Glasgow G2 1QY, United Kingdom, Glasgow
 
-*Updated Sat, 25 Jul 2026 · source: [soundcheck](https://soundcheck.club/glasgow/club/room-2-glasgow/)*
+*Updated Sun, 26 Jul 2026 · source: [soundcheck](https://soundcheck.club/glasgow/club/room-2-glasgow/)*

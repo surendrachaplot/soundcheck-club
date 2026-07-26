@@ -15,11 +15,11 @@ Amsterdam Techno Records and DEPOT BERLIN [Amsterdam & Berlin] at ://about blank
 - Jan Ritter
 - Jasmin Giovanazzi
 - M€LLOW
-- SIUL (1)
-- STASIC
-- Sebastian Keks
-- Solvados
-- Vazilys
 - namejerry
+- Sebastian Keks
+- SIUL (1)
+- Solvados
+- STASIC
+- Vazilys
 
 *Source: [soundcheck](https://soundcheck.club/e/2475586-amsterdam-techno-records-and-depot-berlin-amsterdam-berlin-a/)*

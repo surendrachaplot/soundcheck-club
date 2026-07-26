@@ -18,11 +18,11 @@ LAÍRE NIGHT X at Northern Lights Lounge on Sat 12 Sept, Detroit. 14 acts on the
 - Gregboi
 - Jah Knee
 - LAÍRE
+- madeera
 - Mira
+- moregasm
 - Mr. Twista
 - Tormented
 - X(S)INA
-- madeera
-- moregasm
 
 *Source: [soundcheck](https://soundcheck.club/e/2489695-la-re-night-x-at-northern-lights-lounge/)*

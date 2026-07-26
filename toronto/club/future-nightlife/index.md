@@ -1,6 +1,6 @@
 # Future Nightlife
 
-Future Nightlife is a music venue in Toronto with 6 upcoming nights listed on soundcheck as of Sat, 25 Jul 2026; the next is "Sunnery James x Ryan Marciano at Future" on Fri, 31 Jul 2026.
+Future Nightlife is a music venue in Toronto with 6 upcoming nights listed on soundcheck as of Sun, 26 Jul 2026; the next is "Sunnery James x Ryan Marciano at Future" on Fri, 31 Jul 2026.
 
 Future Nightlife is a music venue in Toronto listed on soundcheck. 6 upcoming nights, with line-ups including bradeazy, Dillon Francis and Sunnery James & Ryan Marciano. Browse upcoming dates, start times and who's playing. 570 Queen Street West.
 
@@ -19,4 +19,4 @@ Future Nightlife is a music venue in Toronto listed on soundcheck. 6 upcoming ni
 
 570 Queen Street West, Toronto
 
-*Updated Sat, 25 Jul 2026 · source: [soundcheck](https://soundcheck.club/toronto/club/future-nightlife/)*
+*Updated Sun, 26 Jul 2026 · source: [soundcheck](https://soundcheck.club/toronto/club/future-nightlife/)*

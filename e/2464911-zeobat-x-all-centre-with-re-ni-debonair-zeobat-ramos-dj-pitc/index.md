@@ -1,6 +1,6 @@
 # Zeobat X All Centre with re:ni, DEBONAIR, Zeobat, Ramos, DJ Pitch, Simkin & Coe at Ormside Projects
 
-Zeobat X All Centre with re:ni, DEBONAIR, Zeobat, Ramos, DJ Pitch, Simkin & Coe at Ormside Projects on Sat 1 Aug, London. 5 acts on the bill: Coe (1), DEBONAIR, DJ Pitch and Simkin and 1 more. Preview the line-up and save it on soundcheck.
+Zeobat X All Centre with re:ni, DEBONAIR, Zeobat, Ramos, DJ Pitch, Simkin & Coe at Ormside Projects on Sat 1 Aug, London. 5 acts on the bill: Coe (1), DEBONAIR, DJ Pitch and re:ni and 1 more. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -13,7 +13,7 @@ Zeobat X All Centre with re:ni, DEBONAIR, Zeobat, Ramos, DJ Pitch, Simkin & Coe 
 - Coe (1)
 - DEBONAIR
 - DJ Pitch
-- Simkin
 - re:ni
+- Simkin
 
 *Source: [soundcheck](https://soundcheck.club/e/2464911-zeobat-x-all-centre-with-re-ni-debonair-zeobat-ramos-dj-pitc/)*

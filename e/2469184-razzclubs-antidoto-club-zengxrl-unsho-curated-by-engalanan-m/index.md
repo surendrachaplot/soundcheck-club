@@ -1,6 +1,6 @@
 # RAZZCLUBS: Antidoto Club: Zengxrl + Unsho + Curated by ENGALANAN: Makadsi at Razzmatazz
 
-RAZZCLUBS: Antidoto Club: Zengxrl + Unsho + Curated by ENGALANAN: Makadsi at Razzmatazz on Fri 31 Jul, Barcelona. 8 acts on the bill: Alírio, Diego Armando, ENGALANAN and Makadsi and 4 more. Preview the line-up and save it on soundcheck.
+RAZZCLUBS: Antidoto Club: Zengxrl + Unsho + Curated by ENGALANAN: Makadsi at Razzmatazz on Fri 31 Jul, Barcelona. 8 acts on the bill: Alírio, Diego Armando, ENGALANAN and flirty800 and 4 more. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -13,10 +13,10 @@ RAZZCLUBS: Antidoto Club: Zengxrl + Unsho + Curated by ENGALANAN: Makadsi at Raz
 - Alírio
 - Diego Armando
 - ENGALANAN
+- flirty800
 - Makadsi
 - Unsho
 - Yosef (ES)
 - Zengxrl
-- flirty800
 
 *Source: [soundcheck](https://soundcheck.club/e/2469184-razzclubs-antidoto-club-zengxrl-unsho-curated-by-engalanan-m/)*

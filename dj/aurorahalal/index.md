@@ -1,6 +1,6 @@
 # Aurora Halal
 
-Aurora Halal is a Techno and House artist with 10 upcoming club dates listed on soundcheck as of Sat, 25 Jul 2026, next at DC-10, Ibiza on Mon, 27 Jul 2026.
+Aurora Halal is a Techno and House artist with 10 upcoming club dates listed on soundcheck as of Sun, 26 Jul 2026, next at DC-10, Ibiza on Mon, 27 Jul 2026.
 
 Aurora Halal is a techno and house artist tracked on soundcheck, with 212 sets logged across Amsterdam, Athens, Austin and Barcelona and 50 more. Often billed alongside Priori, Nick León and Polygonia. Next up: DC-10, Ibiza on Mon 27 Jul.
 
@@ -34,4 +34,4 @@ Aurora Halal is a techno and house artist tracked on soundcheck, with 212 sets l
 
 Priori, Nick León, Polygonia
 
-*Updated Sat, 25 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/aurorahalal/)*
+*Updated Sun, 26 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/aurorahalal/)*

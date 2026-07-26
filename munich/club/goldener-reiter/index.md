@@ -1,14 +1,13 @@
 # Goldener Reiter
 
-Goldener Reiter is a music venue in Munich with 3 upcoming nights listed on soundcheck as of Sat, 25 Jul 2026; the next is "Italo Disco Special – Open Air at Flux / Paloma Bar + Clubnight at Goldener Reiter" on Sat, 25 Jul 2026.
+Goldener Reiter is a music venue in Munich with 2 upcoming nights listed on soundcheck as of Sun, 26 Jul 2026; the next is "Karaoke Bayern" on Fri, 31 Jul 2026.
 
-Goldener Reiter is a music venue in Munich listed on soundcheck. 3 upcoming nights, with line-ups including 600-cell, Julie Fleischer, Lagué Moin and Rena Volvo. Browse upcoming dates, start times and who's playing. Theklastraße 1 Munich, Germany 80469.
+Goldener Reiter is a music venue in Munich listed on soundcheck. 2 upcoming nights. Browse upcoming dates, start times and who's playing. Theklastraße 1 Munich, Germany 80469.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Sat, 25 Jul 2026 | Italo Disco Special – Open Air at Flux / Paloma Bar + Clubnight at Goldener Reiter | 600-cell, Julie Fleischer, Lagué Moin, Rena Volvo |
 | Fri, 31 Jul 2026 | Karaoke Bayern |  |
 | Sat, 1 Aug 2026 | GoRei Special with Pretty Boy, Mello, Lili tralala, DJ Shogun |  |
 
@@ -16,4 +15,4 @@ Goldener Reiter is a music venue in Munich listed on soundcheck. 3 upcoming nigh
 
 Theklastraße 1 Munich, Germany 80469, Munich
 
-*Updated Sat, 25 Jul 2026 · source: [soundcheck](https://soundcheck.club/munich/club/goldener-reiter/)*
+*Updated Sun, 26 Jul 2026 · source: [soundcheck](https://soundcheck.club/munich/club/goldener-reiter/)*

@@ -1,14 +1,13 @@
 # Bridge (NY)
 
-Bridge (NY) is a House and Disco artist with 6 upcoming club dates listed on soundcheck as of Sat, 25 Jul 2026, next at Maria Hernandez Park, New York City on Sat, 25 Jul 2026.
+Bridge (NY) is a House and Disco artist with 5 upcoming club dates listed on soundcheck as of Sun, 26 Jul 2026, next at Nowadays, New York City on Sun, 2 Aug 2026.
 
-Bridge (NY) is a house and disco artist based in United States of America, tracked on soundcheck, with 44 sets logged across Amsterdam, Boston, Newyorkcity and Paris and 3 more. Often billed alongside CRVM, Wolf Spritzer and DJ Shannon. Next up: Maria Hernandez Park, Newyorkcity on Sat 25 Jul.
+Bridge (NY) is a house and disco artist based in United States of America, tracked on soundcheck, with 44 sets logged across Amsterdam, Boston, Newyorkcity and Paris and 3 more. Often billed alongside CRVM, Wolf Spritzer and DJ Shannon. Next up: Nowadays, Newyorkcity on Sun 2 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 25 Jul 2026 | Maria Hernandez Park | New York City |
 | Sun, 2 Aug 2026 | Nowadays | New York City |
 | Sat, 15 Aug 2026 | House of Yes | New York City |
 | Sat, 22 Aug 2026 | Elsewhere | New York City |
@@ -17,6 +16,7 @@ Bridge (NY) is a house and disco artist based in United States of America, track
 
 ## Recently played
 
+- Maria Hernandez Park, New York City — Sat, 25 Jul 2026
 - TBA - The Jack, 74 S Jackson St, Seattle, WA 98104, Seattle — Sat, 18 Jul 2026
 - Legacy, Boston — Sat, 11 Jul 2026
 - Vera Cocina & بار, Washington DC — Sun, 21 Jun 2026
@@ -24,10 +24,9 @@ Bridge (NY) is a house and disco artist based in United States of America, track
 - Knockdown Center, New York City — Sat, 6 Jun 2026
 - TBA - Conwell Hall, New York City — Sat, 30 May 2026
 - Eden NYC, New York City — Fri, 8 May 2026
-- Nowadays, New York City — Thu, 7 May 2026
 
 ## Shares bills with
 
 CRVM, Wolf Spritzer, DJ Shannon
 
-*Updated Sat, 25 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/bridge-ny/)*
+*Updated Sun, 26 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/bridge-ny/)*

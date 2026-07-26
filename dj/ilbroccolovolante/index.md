@@ -1,14 +1,13 @@
 # ilbroccolovolante
 
-ilbroccolovolante is a Techno and Progressive House artist with 7 upcoming club dates listed on soundcheck as of Sat, 25 Jul 2026, next at Crack Bellmer, Berlin on Sat, 25 Jul 2026.
+ilbroccolovolante is a Techno and Progressive House artist with 6 upcoming club dates listed on soundcheck as of Sun, 26 Jul 2026, next at Bike Jesus, Prague on Fri, 31 Jul 2026.
 
-ilbroccolovolante is a techno and progressive house artist based in Italy, tracked on soundcheck, with 74 sets logged across Amsterdam, Barcelona, Berlin and Brussels and 5 more. Often billed alongside Kidcat, zikade and materia hache. Next up: Crack Bellmer, Berlin on Sat 25 Jul.
+ilbroccolovolante is a techno and progressive house artist based in Italy, tracked on soundcheck, with 74 sets logged across Amsterdam, Barcelona, Berlin and Brussels and 5 more. Often billed alongside Kidcat, zikade and materia hache. Next up: Bike Jesus, Prague on Fri 31 Jul.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 25 Jul 2026 | Crack Bellmer | Berlin |
 | Fri, 31 Jul 2026 | Bike Jesus | Prague |
 | Sun, 2 Aug 2026 | Crack Bellmer | Berlin |
 | Sat, 22 Aug 2026 | Marmorbar | Berlin |
@@ -18,6 +17,7 @@ ilbroccolovolante is a techno and progressive house artist based in Italy, track
 
 ## Recently played
 
+- Crack Bellmer, Berlin — Sat, 25 Jul 2026
 - Urban Spree, Berlin — Sun, 19 Jul 2026
 - GIMIC, Brussels — Sat, 18 Jul 2026
 - Minimal Bar, Berlin — Thu, 2 Jul 2026
@@ -25,10 +25,9 @@ ilbroccolovolante is a techno and progressive house artist based in Italy, track
 - Void Club, Berlin — Fri, 19 Jun 2026
 - M01, Berlin — Sat, 16 May 2026
 - TBA - Neukölln Secret Location, Berlin — Fri, 15 May 2026
-- Sameheads, Berlin — Wed, 13 May 2026
 
 ## Shares bills with
 
 Kidcat, zikade, materia hache
 
-*Updated Sat, 25 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/ilbroccolovolante/)*
+*Updated Sun, 26 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/ilbroccolovolante/)*

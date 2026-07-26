@@ -16,11 +16,11 @@ CUTE with SPEEDBOYS LIVE, Arman John, DJ WASSERFALL at Lokschuppen Berlin on Fri
 - DJ WASSERFALL
 - Jacky Ickx
 - Jambu
+- jeanska
 - Limoncello
 - SACID
 - SPEEDBOYS
 - Stacy
 - XIMA
-- jeanska
 
 *Source: [soundcheck](https://soundcheck.club/e/2400939-cute-with-speedboys-live-arman-john-dj-wasserfall-at-lokschu/)*

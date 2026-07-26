@@ -15,12 +15,13 @@ Body Movements Festival 2026 at Southwark Park on Sun 30 Aug, London. 42 acts on
 - Blasha & Allatt
 - Byron Yeates
 - Dan Beaumont
+- deBasement
 - Eris Drew
 - FAFF
 - GIDEÖN
-- HEZEN
 - Hannah Holland
 - Harietta
+- HEZEN
 - Horse Meat Disco
 - House Gospel Choir
 - Jay Jay Revlon
@@ -29,10 +30,10 @@ Body Movements Festival 2026 at Southwark Park on Sun 30 Aug, London. 42 acts on
 - Karlie Marx
 - Lewis G. Burton
 - Little Gay Brother
-- MCR-T
 - Marie Malarie
 - Mark-Ashley Dupé
 - Maze DJ
+- MCR-T
 - Michelle Manetti
 - Mika.
 - Octo Octa
@@ -51,6 +52,5 @@ Body Movements Festival 2026 at Southwark Park on Sun 30 Aug, London. 42 acts on
 - THEMPRESS
 - Twang
 - Ysanne
-- deBasement
 
 *Source: [soundcheck](https://soundcheck.club/e/2242541-body-movements-festival-2026-at-southwark-park/)*

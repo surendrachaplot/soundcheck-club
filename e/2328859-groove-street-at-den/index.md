@@ -16,20 +16,20 @@
 - Cleo (AU)
 - DJ BOTOX
 - Dollushka
+- juicy
 - JUICY (DE)
-- KIKE Friday
 - Kike
+- KIKE Friday
+- krawallin
 - LENZI
 - Lisatrix
+- mae.ly
 - MANNIO
 - Najka
 - Niklas Delhey
 - Roots (ES)
 - Roots.
-- Violetta (1)
-- juicy
-- krawallin
-- mae.ly
 - somnus
+- Violetta (1)
 
 *Source: [soundcheck](https://soundcheck.club/e/2328859-groove-street-at-den/)*

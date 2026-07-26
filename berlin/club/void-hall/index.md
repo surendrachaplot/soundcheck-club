@@ -1,6 +1,6 @@
 # Void Hall
 
-Void Hall is a music venue in Berlin with 2 upcoming nights listed on soundcheck as of Sat, 25 Jul 2026; the next is "KollektivKlang - KlangKnospe - Candyflip - IloveModus - Abgedreht - Eternity - R3M - Lerm " on Fri, 31 Jul 2026.
+Void Hall is a music venue in Berlin with 2 upcoming nights listed on soundcheck as of Sun, 26 Jul 2026; the next is "KollektivKlang - KlangKnospe - Candyflip - IloveModus - Abgedreht - Eternity - R3M - Lerm " on Fri, 31 Jul 2026.
 
 Void Hall is a music venue in Berlin listed on soundcheck. 2 upcoming nights, with line-ups including Callado, Cobb Douglas, DJ Parabolspiegel and Dj Wifi (3) and 2 more. Browse upcoming dates, start times and who's playing. Wiesenweg 5-9, 10365 Berlin.
 
@@ -15,4 +15,4 @@ Void Hall is a music venue in Berlin listed on soundcheck. 2 upcoming nights, wi
 
 Wiesenweg 5-9, 10365 Berlin, Berlin
 
-*Updated Sat, 25 Jul 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/void-hall/)*
+*Updated Sun, 26 Jul 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/void-hall/)*

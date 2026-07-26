@@ -16,8 +16,8 @@ tension/release radio: open air at Honey's on Sat 8 Aug, Newyorkcity. 9 acts on 
 - DJ girlcrush
 - EMZ!
 - Kristen London
-- R-DNA
 - masha latte
+- R-DNA
 - treesunstars
 
 *Source: [soundcheck](https://soundcheck.club/e/2464593-tension-release-radio-open-air-at-honey-s/)*

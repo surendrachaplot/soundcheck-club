@@ -14,6 +14,7 @@ Sonica Glasgow 2026 at Venues Across Glasgow on Thu 24 Sept, Glasgow. 22 acts on
 - Alif Hilal
 - Alliyah Enyo
 - An-Ting
+- aya
 - DEBONAIR
 - Harry Górski-Brown
 - Ian Gallagher
@@ -31,6 +32,5 @@ Sonica Glasgow 2026 at Venues Across Glasgow on Thu 24 Sept, Glasgow. 22 acts on
 - SPIME.IM
 - Suzanne Ciani
 - Thomas Ankersmit
-- aya
 
 *Source: [soundcheck](https://soundcheck.club/e/2481609-sonica-glasgow-2026-at-venues-across-glasgow/)*

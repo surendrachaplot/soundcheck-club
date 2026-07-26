@@ -14,14 +14,15 @@ Dekmantel Festival 2026 - Sunday at Amsterdamse Bos on Sun 2 Aug, Amsterdam. 44 
 - Alex Wilcox
 - Ben UFO
 - Benny Rodrigues
-- CCL
 - Call Super
+- CCL
 - DJ Koolt
 - DJ Nobu
-- DVS1
 - Dopplereffekt
 - Doudou MD
+- DVS1
 - Fumiya Tanaka
+- gyrofield
 - Helena Hauff
 - Interstellar Funk
 - Introspekt
@@ -46,13 +47,12 @@ Dekmantel Festival 2026 - Sunday at Amsterdamse Bos on Sun 2 Aug, Amsterdam. 44 
 - Philippa Pacho
 - Ricardo Villalobos
 - Richard Akingbehin
-- STERAC
 - Sampha
 - Shed
 - Sir Spyro
+- STERAC
 - The Black Dog
 - Verraco
 - Wata Igarashi
-- gyrofield
 
 *Source: [soundcheck](https://soundcheck.club/e/2458255-dekmantel-festival-2026-sunday-at-amsterdamse-bos/)*

@@ -1,6 +1,6 @@
 # Phantasy Dance at Club der Visionaere
 
-Phantasy Dance at Club der Visionaere on Mon 24 Aug, Berlin. 5 acts on the bill: Mike Midnight, Miscmeg, Reptant and Vinz Sosa and 1 more. Preview the line-up and save it on soundcheck.
+Phantasy Dance at Club der Visionaere on Mon 24 Aug, Berlin. 5 acts on the bill: dj sweet6teen, Mike Midnight, Miscmeg and Reptant and 1 more. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,10 +10,10 @@ Phantasy Dance at Club der Visionaere on Mon 24 Aug, Berlin. 5 acts on the bill:
 
 ## Line-up
 
+- dj sweet6teen
 - Mike Midnight
 - Miscmeg
 - Reptant
 - Vinz Sosa
-- dj sweet6teen
 
 *Source: [soundcheck](https://soundcheck.club/e/2494650-phantasy-dance-at-club-der-visionaere/)*

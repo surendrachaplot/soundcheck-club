@@ -1,6 +1,6 @@
 # Yung Singh
 
-Yung Singh is a Garage and House artist with 4 upcoming club dates listed on soundcheck as of Sat, 25 Jul 2026, next at The Cause, London on Sun, 26 Jul 2026.
+Yung Singh is a Garage and House artist with 4 upcoming club dates listed on soundcheck as of Sun, 26 Jul 2026, next at The Cause, London on Sun, 26 Jul 2026.
 
 Yung Singh is a garage and house artist tracked on soundcheck, with 167 sets logged across Amsterdam, Antwerp, Auckland and Austin and 54 more. Often billed alongside Bakey, salute and Sally C. Next up: The Cause, London on Sun 26 Jul.
 
@@ -28,4 +28,4 @@ Yung Singh is a garage and house artist tracked on soundcheck, with 167 sets log
 
 Bakey, salute, Sally C
 
-*Updated Sat, 25 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/yungsingh/)*
+*Updated Sun, 26 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/yungsingh/)*

@@ -1,6 +1,6 @@
 # Warm Up: BADSISTA/ TOCCORORO/TOXE/ nguyendowsXP at MoMA PS1
 
-Warm Up: BADSISTA/ TOCCORORO/TOXE/ nguyendowsXP at MoMA PS1 on Fri 7 Aug, Newyorkcity. 4 acts on the bill: BADSISTA, TOCCORORO, TOXE and nguyendowsXP. Preview the line-up and save it on soundcheck.
+Warm Up: BADSISTA/ TOCCORORO/TOXE/ nguyendowsXP at MoMA PS1 on Fri 7 Aug, Newyorkcity. 4 acts on the bill: BADSISTA, nguyendowsXP, TOCCORORO and TOXE. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -11,8 +11,8 @@ Warm Up: BADSISTA/ TOCCORORO/TOXE/ nguyendowsXP at MoMA PS1 on Fri 7 Aug, Newyor
 ## Line-up
 
 - BADSISTA
+- nguyendowsXP
 - TOCCORORO
 - TOXE
-- nguyendowsXP
 
 *Source: [soundcheck](https://soundcheck.club/e/2491119-warm-up-badsista-toccororo-toxe-nguyendowsxp-at-moma-ps1/)*

@@ -1,14 +1,13 @@
 # Phonox
 
-Phonox is a music venue in London with 27 upcoming nights listed on soundcheck as of Sat, 25 Jul 2026; the next is "Phonox: CIRCULATE with Egyptian Lover, FREAKENSTEIN" on Sat, 25 Jul 2026.
+Phonox is a music venue in London with 26 upcoming nights listed on soundcheck as of Sun, 26 Jul 2026; the next is "Boiler Room Festival Afterparty" on Fri, 31 Jul 2026.
 
-Phonox is a music venue in London listed on soundcheck. 27 upcoming nights, with line-ups including Abby Daze, Alan Fitzpatrick, Alba Heidari and A LOVE FROM OUTER SPACE and 2 more. Browse upcoming dates, start times and who's playing. 418 Brixton Road Brixton London SW9 7AY.
+Phonox is a music venue in London listed on soundcheck. 26 upcoming nights, with line-ups including Abby Daze, Alan Fitzpatrick, Alba Heidari and A LOVE FROM OUTER SPACE and 2 more. Browse upcoming dates, start times and who's playing. 418 Brixton Road Brixton London SW9 7AY.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Sat, 25 Jul 2026 | Phonox: CIRCULATE with Egyptian Lover, FREAKENSTEIN | Egyptian Lover, FREAKENSTEIN |
 | Fri, 31 Jul 2026 | Boiler Room Festival Afterparty |  |
 | Sat, 1 Aug 2026 | Boiler Room Festival Afterparty |  |
 | Fri, 7 Aug 2026 | DEADCORP PRESENTS: CASISDEAD, Sexy Lady Massive, Chinese Daughter | CASISDEAD, Chinese Daughter, Sexy Lady Massive |
@@ -18,9 +17,10 @@ Phonox is a music venue in London listed on soundcheck. 27 upcoming nights, with
 | Sat, 15 Aug 2026 | Phonox: DJ Assault + Black Rave Culture | Black Rave Culture, DJ Assault |
 | Fri, 21 Aug 2026 | A LOVE FROM OUTER SPACE | A LOVE FROM OUTER SPACE, Sean Johnston |
 | Sat, 22 Aug 2026 | Giegling: Edward, Konstantin | Edward, Konstantin |
+| Fri, 28 Aug 2026 | Coco Bryce b2b Sully b2b Tim Reaper b2b Dwarde with Blackeye MC | Abby Daze, Blackeye MC, Coco Bryce, Dwarde, Sully, Tim Reaper |
 
 ## Address
 
 418 Brixton Road Brixton London SW9 7AY, London
 
-*Updated Sat, 25 Jul 2026 · source: [soundcheck](https://soundcheck.club/london/club/phonox/)*
+*Updated Sun, 26 Jul 2026 · source: [soundcheck](https://soundcheck.club/london/club/phonox/)*

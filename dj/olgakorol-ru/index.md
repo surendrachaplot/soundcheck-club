@@ -1,19 +1,19 @@
 # Olga Korol
 
-Olga Korol is a House and Minimal artist with 3 upcoming club dates listed on soundcheck as of Sat, 25 Jul 2026, next at Club der Visionaere, Berlin on Sat, 25 Jul 2026.
+Olga Korol is a House and Minimal artist with 2 upcoming club dates listed on soundcheck as of Sun, 26 Jul 2026, next at Night Tales, London on Sat, 1 Aug 2026.
 
-Olga Korol is a house and minimal artist tracked on soundcheck, with 93 sets logged across Amsterdam, Bali, Barcelona and Belgrade and 34 more. Often billed alongside Per Hammar, Elnur and Rossko. Next up: Club der Visionaere, Berlin on Sat 25 Jul.
+Olga Korol is a house and minimal artist tracked on soundcheck, with 93 sets logged across Amsterdam, Bali, Barcelona and Belgrade and 34 more. Often billed alongside Per Hammar, Elnur and Rossko. Next up: Night Tales, London on Sat 1 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 25 Jul 2026 | Club der Visionaere | Berlin |
 | Sat, 1 Aug 2026 | Night Tales | London |
 | Sat, 22 Aug 2026 | St Brides Church | Liverpool |
 
 ## Recently played
 
+- Club der Visionaere, Berlin — Sat, 25 Jul 2026
 - Audio Club, Geneva — Fri, 17 Jul 2026
 - Avenida Doctor Marañon 17, Barcelona, Barcelona — Sun, 21 Jun 2026
 - Funke, Ghent — Sat, 20 Jun 2026
@@ -21,10 +21,9 @@ Olga Korol is a house and minimal artist tracked on soundcheck, with 93 sets log
 - B2 Rīga, Riga — Fri, 29 May 2026
 - Tokonoma Club, Frankfurt — Sun, 24 May 2026
 - D-EDGE, Sao Paulo — Fri, 24 Apr 2026
-- PRST, Vienna — Fri, 17 Apr 2026
 
 ## Shares bills with
 
 Per Hammar, Elnur, Rossko
 
-*Updated Sat, 25 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/olgakorol-ru/)*
+*Updated Sun, 26 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/olgakorol-ru/)*

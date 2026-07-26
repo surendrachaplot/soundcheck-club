@@ -17,11 +17,11 @@ Act Like Adults w/ STÜM, Blame The Mono at Lokschuppen Berlin on Fri 7 Aug, Ber
 - DJ Sweedee
 - Listenblondie
 - NAGINI
-- STÜM
 - Shake Daddy
+- STÜM
+- subcutan
 - Teleshop
 - Vaneska
 - Vivienna
-- subcutan
 
 *Source: [soundcheck](https://soundcheck.club/e/2332847-act-like-adults-w-st-m-blame-the-mono-at-lokschuppen-berlin/)*

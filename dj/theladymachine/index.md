@@ -1,6 +1,6 @@
 # The Lady Machine
 
-The Lady Machine is a Techno and House artist with 5 upcoming club dates listed on soundcheck as of Sat, 25 Jul 2026, next at TBA - Seebruck - Chiemsee, Munich on Sat, 8 Aug 2026.
+The Lady Machine is a Techno and House artist with 5 upcoming club dates listed on soundcheck as of Sun, 26 Jul 2026, next at TBA - Seebruck - Chiemsee, Munich on Sat, 8 Aug 2026.
 
 The Lady Machine is a techno and house artist tracked on soundcheck, with 173 sets logged across Amsterdam, Athens, Barcelona and Berlin and 40 more. Often billed alongside Freddy K, Blasha & Allatt and Rakans. Next up: TBA - Seebruck - Chiemsee, Munich on Sat 8 Aug.
 
@@ -29,4 +29,4 @@ The Lady Machine is a techno and house artist tracked on soundcheck, with 173 se
 
 Freddy K, Blasha & Allatt, Rakans
 
-*Updated Sat, 25 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/theladymachine/)*
+*Updated Sun, 26 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/theladymachine/)*

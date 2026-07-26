@@ -1,6 +1,6 @@
 # LOAD pres. Kidoo + Abdon , Marian & Pau Guilera (the gallery) at Seaseaclub Barcelona
 
-LOAD pres. Kidoo + Abdon , Marian & Pau Guilera (the gallery) at Seaseaclub Barcelona on Sat 1 Aug, Barcelona. 7 acts on the bill: AIIVIIK, Abdon, Jorgesyn and Kidoo and 3 more. Tech House. Preview the line-up and save it on soundcheck.
+LOAD pres. Kidoo + Abdon , Marian & Pau Guilera (the gallery) at Seaseaclub Barcelona on Sat 1 Aug, Barcelona. 7 acts on the bill: Abdon, AIIVIIK, Jorgesyn and Kidoo and 3 more. Tech House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,8 +10,8 @@ LOAD pres. Kidoo + Abdon , Marian & Pau Guilera (the gallery) at Seaseaclub Barc
 
 ## Line-up
 
-- AIIVIIK
 - Abdon
+- AIIVIIK
 - Jorgesyn
 - Kidoo
 - Marian BR

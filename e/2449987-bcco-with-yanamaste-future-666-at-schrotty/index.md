@@ -1,6 +1,6 @@
 # BCCO with Yanamaste, future.666 at Schrotty
 
-BCCO with Yanamaste, future.666 at Schrotty on Fri 11 Sept, Cologne. 4 acts on the bill: CRITICAL ERROR 404, Yanamaste, ZAHNATZIN and future.666. Techno and House. Preview the line-up and save it on soundcheck.
+BCCO with Yanamaste, future.666 at Schrotty on Fri 11 Sept, Cologne. 4 acts on the bill: CRITICAL ERROR 404, future.666, Yanamaste and ZAHNATZIN. Techno and House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -11,8 +11,8 @@ BCCO with Yanamaste, future.666 at Schrotty on Fri 11 Sept, Cologne. 4 acts on t
 ## Line-up
 
 - CRITICAL ERROR 404
+- future.666
 - Yanamaste
 - ZAHNATZIN
-- future.666
 
 *Source: [soundcheck](https://soundcheck.club/e/2449987-bcco-with-yanamaste-future-666-at-schrotty/)*

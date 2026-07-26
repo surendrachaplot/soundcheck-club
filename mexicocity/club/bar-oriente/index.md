@@ -1,14 +1,13 @@
 # Bar Oriente
 
-Bar Oriente is a music venue in Mexico City with 11 upcoming nights listed on soundcheck as of Sat, 25 Jul 2026; the next is "Badwolf, Alexia Malo, Borgetti" on Sat, 25 Jul 2026.
+Bar Oriente is a music venue in Mexico City with 10 upcoming nights listed on soundcheck as of Sun, 26 Jul 2026; the next is "Buru Club X Bar Oriente" on Thu, 30 Jul 2026.
 
-Bar Oriente is a music venue in Mexicocity listed on soundcheck. 11 upcoming nights, with line-ups including Andre VII, Bobo, Borgetti and Cazador de Discos and 2 more. Browse upcoming dates, start times and who's playing. Calle de Durango 181, Roma Nte., 06700 Ciudad de MÃ©xico, CDMX.
+Bar Oriente is a music venue in Mexicocity listed on soundcheck. 10 upcoming nights, with line-ups including Andre VII, Bobo, Cazador de Discos and Cinema Paradisco and 2 more. Browse upcoming dates, start times and who's playing. Calle de Durango 181, Roma Nte., 06700 Ciudad de MÃ©xico, CDMX.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Sat, 25 Jul 2026 | Badwolf, Alexia Malo, Borgetti | Borgetti |
 | Thu, 30 Jul 2026 | Buru Club X Bar Oriente | Bobo, Gamboa, MON (9), Misha (3), Mizuki |
 | Fri, 31 Jul 2026 | Sussie 4, Gil Cerezo, Eduardo Rossell | Sussie 4 |
 | Sat, 1 Aug 2026 | Boogie Room en Bar Oriente | Cazador de Discos, Cinema Paradisco, Dimaio, Sommer |
@@ -18,9 +17,10 @@ Bar Oriente is a music venue in Mexicocity listed on soundcheck. 11 upcoming nig
 | Sat, 15 Aug 2026 | Clubz (Dj Set) |  |
 | Fri, 21 Aug 2026 | Township Rebellion (Alemania) | Township Rebellion |
 | Fri, 28 Aug 2026 | Pleasurekraft (Kraftek / USA) | Pleasurekraft |
+| Fri, 16 Oct 2026 | La Plazuela (Dj Set) |  |
 
 ## Address
 
 Calle de Durango 181, Roma Nte., 06700 Ciudad de MÃ©xico, CDMX, Mexico City
 
-*Updated Sat, 25 Jul 2026 · source: [soundcheck](https://soundcheck.club/mexicocity/club/bar-oriente/)*
+*Updated Sun, 26 Jul 2026 · source: [soundcheck](https://soundcheck.club/mexicocity/club/bar-oriente/)*

@@ -1,6 +1,6 @@
 # Madam by Night invites: Dive Deep Melodic Nights Vol. V at Madam
 
-Madam by Night invites: Dive Deep Melodic Nights Vol. V on Fri 21 Aug, Amsterdam. 3 acts on the bill: Natx, OSED and Usatov. Progressive House. Preview the line-up and save it on soundcheck.
+Madam by Night invites: Dive Deep Melodic Nights Vol. V on Fri 21 Aug, Amsterdam. 4 acts on the bill: Ertug Karakas, Natx, OSED and Usatov. Progressive House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,6 +10,7 @@ Madam by Night invites: Dive Deep Melodic Nights Vol. V on Fri 21 Aug, Amsterdam
 
 ## Line-up
 
+- Ertug Karakas
 - Natx
 - OSED
 - Usatov

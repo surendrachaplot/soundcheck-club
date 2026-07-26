@@ -14,8 +14,8 @@ TRUCK RAVE THE PLANET 2026// OSTFUNK/GOANAUTIKA at Straße des 17. Juni on Sat 1
 - Daniel Boon
 - Daniela Hensel
 - Diana May
-- LORD of Psychedelics (2)
 - Linda Grazia
+- LORD of Psychedelics (2)
 - Mosher
 - Patrick Scuro
 - Simina Grigoriu

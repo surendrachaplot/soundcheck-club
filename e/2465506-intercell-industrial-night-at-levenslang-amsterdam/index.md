@@ -1,6 +1,6 @@
 # Intercell Industrial Night at Levenslang Amsterdam
 
-Intercell Industrial Night at Levenslang Amsterdam on Sat 1 Aug, Amsterdam. 7 acts on the bill: Ansome, Ghost in the Machine, KRTM and Krista Bourgeois and 3 more. Preview the line-up and save it on soundcheck.
+Intercell Industrial Night at Levenslang Amsterdam on Sat 1 Aug, Amsterdam. 7 acts on the bill: Ansome, Ghost in the Machine, Krista Bourgeois and KRTM and 3 more. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -12,10 +12,10 @@ Intercell Industrial Night at Levenslang Amsterdam on Sat 1 Aug, Amsterdam. 7 ac
 
 - Ansome
 - Ghost in the Machine
-- KRTM
 - Krista Bourgeois
-- LINDS (NL)
+- KRTM
 - Linds
+- LINDS (NL)
 - Perc
 
 *Source: [soundcheck](https://soundcheck.club/e/2465506-intercell-industrial-night-at-levenslang-amsterdam/)*

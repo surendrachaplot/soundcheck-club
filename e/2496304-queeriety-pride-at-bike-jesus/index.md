@@ -1,6 +1,6 @@
 # Queeriety Pride at Bike Jesus
 
-Queeriety Pride at Bike Jesus on Fri 7 Aug, Prague. 6 acts on the bill: Big Lil, Fembot, Kewu and LuLu (CZ) and 2 more. Techno and House. Preview the line-up and save it on soundcheck.
+Queeriety Pride at Bike Jesus on Fri 7 Aug, Prague. 6 acts on the bill: Big Lil, exegesis, Fembot and Kewu and 2 more. Techno and House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -11,10 +11,10 @@ Queeriety Pride at Bike Jesus on Fri 7 Aug, Prague. 6 acts on the bill: Big Lil,
 ## Line-up
 
 - Big Lil
+- exegesis
 - Fembot
 - Kewu
 - LuLu (CZ)
 - PRDELANZA
-- exegesis
 
 *Source: [soundcheck](https://soundcheck.club/e/2496304-queeriety-pride-at-bike-jesus/)*

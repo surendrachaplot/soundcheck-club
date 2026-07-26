@@ -1,6 +1,6 @@
 # Scandal.gla x Stereo: Cortisa Star at Stereo
 
-Scandal.gla x Stereo: Cortisa Star on Fri 4 Sept, Glasgow. 2 acts on the bill: Rahul.mp3 and fUnlistenable. Hip-Hop and Club. Preview the line-up and save it on soundcheck.
+Scandal.gla x Stereo: Cortisa Star on Fri 4 Sept, Glasgow. 2 acts on the bill: fUnlistenable and Rahul.mp3. Hip-Hop and Club. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,7 +10,7 @@ Scandal.gla x Stereo: Cortisa Star on Fri 4 Sept, Glasgow. 2 acts on the bill: R
 
 ## Line-up
 
-- Rahul.mp3
 - fUnlistenable
+- Rahul.mp3
 
 *Source: [soundcheck](https://soundcheck.club/e/2489686-scandal-gla-x-stereo-cortisa-star-at-stereo/)*

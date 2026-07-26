@@ -1,15 +1,13 @@
 # The Monkey Loft
 
-The Monkey Loft is a music venue in Seattle with 10 upcoming nights listed on soundcheck as of Sat, 25 Jul 2026; the next is "Tony H presents: Be My Guest [DAY PARTY]" on Sat, 25 Jul 2026.
+The Monkey Loft is a music venue in Seattle with 8 upcoming nights listed on soundcheck as of Sun, 26 Jul 2026; the next is "Habitat with Jon Lee & Black Velveteen" on Wed, 29 Jul 2026.
 
-The Monkey Loft is a music venue in Seattle listed on soundcheck. 10 upcoming nights, with line-ups including Black Velveteen, Cami Jones, Dane Garfield and DJ Garth and 2 more. Browse upcoming dates, start times and who's playing. 2917 1st Ave So. Seattle WA 98134.
+The Monkey Loft is a music venue in Seattle listed on soundcheck. 8 upcoming nights, with line-ups including Black Velveteen, Cami Jones, Dane Garfield and DJ Garth and 2 more. Browse upcoming dates, start times and who's playing. 2917 1st Ave So. Seattle WA 98134.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Sat, 25 Jul 2026 | Tony H presents: Be My Guest [DAY PARTY] | Gettoblaster, James Scott (2), Missy, Tony H |
-| Sat, 25 Jul 2026 | Uniting Souls 29-Year! Diggin Deep 3 rooms of music | Drawbird, Jon Lee, Jordan Strong, LGSP, Ramiro Uniting Souls, Silky |
 | Wed, 29 Jul 2026 | Habitat with Jon Lee & Black Velveteen | Black Velveteen, Jon Lee |
 | Thu, 30 Jul 2026 | Deck'd Out #7 with Mango & Ginger (LA), Sazon & DJs in a Dive Bar | La Mala Noche |
 | Thu, 6 Aug 2026 | Deck'd Out #8 with Innerflight Garth (Wicked, SF), Kadeejah Streets, Nightmoves | DJ Garth, Kadeejah Streets, Wax Witch |
@@ -23,4 +21,4 @@ The Monkey Loft is a music venue in Seattle listed on soundcheck. 10 upcoming ni
 
 2917 1st Ave So. Seattle WA 98134, Seattle
 
-*Updated Sat, 25 Jul 2026 · source: [soundcheck](https://soundcheck.club/seattle/club/the-monkey-loft/)*
+*Updated Sun, 26 Jul 2026 · source: [soundcheck](https://soundcheck.club/seattle/club/the-monkey-loft/)*

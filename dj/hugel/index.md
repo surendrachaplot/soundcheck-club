@@ -1,6 +1,6 @@
 # Hugel
 
-Hugel is a House and Afro House artist with 17 upcoming club dates listed on soundcheck as of Sat, 25 Jul 2026, next at Cavo Paradiso, Mykonos on Sun, 26 Jul 2026.
+Hugel is a House and Afro House artist with 17 upcoming club dates listed on soundcheck as of Sun, 26 Jul 2026, next at Cavo Paradiso, Mykonos on Sun, 26 Jul 2026.
 
 Hugel is a house and afro house artist tracked on soundcheck, with 131 sets logged across Amsterdam, Athens, Auckland and Austin and 33 more. Often billed alongside Miss Monique, Dombresky and Eran Hersh. Next up: Cavo Paradiso, Mykonos on Sun 26 Jul.
 
@@ -36,4 +36,4 @@ Hugel is a house and afro house artist tracked on soundcheck, with 131 sets logg
 
 Miss Monique, Dombresky, Eran Hersh
 
-*Updated Sat, 25 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/hugel/)*
+*Updated Sun, 26 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/hugel/)*

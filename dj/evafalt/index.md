@@ -1,6 +1,6 @@
 # Eva Falt
 
-Eva Falt is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Sat, 25 Jul 2026, next at Roxy, Prague on Sat, 8 Aug 2026.
+Eva Falt is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Sun, 26 Jul 2026, next at Roxy, Prague on Sat, 8 Aug 2026.
 
 Eva Falt is a techno and house artist tracked on soundcheck, with 49 sets logged across Berlin, Prague, Tokyo and Warsaw. Often billed alongside Axis Alpha, DJ Slater and ka.za. Next up: Roxy, Prague on Sat 8 Aug.
 
@@ -27,4 +27,4 @@ Eva Falt is a techno and house artist tracked on soundcheck, with 49 sets logged
 
 Axis Alpha, DJ Slater, ka.za
 
-*Updated Sat, 25 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/evafalt/)*
+*Updated Sun, 26 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/evafalt/)*

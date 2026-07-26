@@ -1,14 +1,13 @@
 # 303 Audiophile Bar
 
-303 Audiophile Bar is a music venue in Barcelona with 3 upcoming nights listed on soundcheck as of Sat, 25 Jul 2026; the next is "Noon pres. Silat Beksi x Fedo at 303" on Sat, 25 Jul 2026.
+303 Audiophile Bar is a music venue in Barcelona with 2 upcoming nights listed on soundcheck as of Sun, 26 Jul 2026; the next is "Bridge48 Showcase at 303" on Thu, 30 Jul 2026.
 
-303 Audiophile Bar is a music venue in Barcelona listed on soundcheck. 3 upcoming nights, with line-ups including Alen Aladin, Dave Rose, Fedo and Marcelina Wick and 2 more. Browse upcoming dates, start times and who's playing. C/ de Casp, 33B, L'Eixample, 08010 Barcelona.
+303 Audiophile Bar is a music venue in Barcelona listed on soundcheck. 2 upcoming nights, with line-ups including Alen Aladin, Dave Rose, Marcelina Wick and ROLA and 2 more. Browse upcoming dates, start times and who's playing. C/ de Casp, 33B, L'Eixample, 08010 Barcelona.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Sat, 25 Jul 2026 | Noon pres. Silat Beksi x Fedo at 303 | Fedo, MNZR, Silat Beksi, Ulatowski |
 | Thu, 30 Jul 2026 | Bridge48 Showcase at 303 | Alen Aladin, Dave Rose, ROLA |
 | Fri, 31 Jul 2026 | Not Normal pres. Marcelina Wick at 303 | Marcelina Wick, Rufo, shiritaki |
 
@@ -16,4 +15,4 @@
 
 C/ de Casp, 33B, L'Eixample, 08010 Barcelona, Barcelona
 
-*Updated Sat, 25 Jul 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/303-audiophile-bar/)*
+*Updated Sun, 26 Jul 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/303-audiophile-bar/)*

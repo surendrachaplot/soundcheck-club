@@ -1,14 +1,13 @@
 # Den Anden Side
 
-Den Anden Side is a music venue in Copenhagen with 10 upcoming nights listed on soundcheck as of Sat, 25 Jul 2026; the next is "UNIT ZERO #2" on Sat, 25 Jul 2026.
+Den Anden Side is a music venue in Copenhagen with 9 upcoming nights listed on soundcheck as of Sun, 26 Jul 2026; the next is "FOMO days" on Fri, 31 Jul 2026.
 
-Den Anden Side is a music venue in Copenhagen listed on soundcheck. 10 upcoming nights, with line-ups including ābnamā, Adexia, Alegrando and Alexander Santana and 2 more. Browse upcoming dates, start times and who's playing. Axeltorv 5 1609 Copenhagen, Denmark.
+Den Anden Side is a music venue in Copenhagen listed on soundcheck. 9 upcoming nights, with line-ups including ābnamā, Adexia, Alegrando and Alexander Santana and 2 more. Browse upcoming dates, start times and who's playing. Axeltorv 5 1609 Copenhagen, Denmark.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Sat, 25 Jul 2026 | UNIT ZERO #2 | Ctrls, Evvolita, Kallax, Milo Makua |
 | Fri, 31 Jul 2026 | FOMO days | Butschi, DJ BENDER, DJ Dopamina, Entree, Erik Chamber, Yesca |
 | Sat, 1 Aug 2026 | ESCAPISM presents: Rødhåd extended set | Anna Logic, Dico Nemus, Johannes Astrup, Nazira, Rødhåd, SORT SIND |
 | Fri, 7 Aug 2026 | Masculina & dj g2g presents: VOL 2  | Adexia, Britney Speed, ELLE FIERCE, Suzie The Cockroach, dj g2g |
@@ -23,4 +22,4 @@ Den Anden Side is a music venue in Copenhagen listed on soundcheck. 10 upcoming 
 
 Axeltorv 5 1609 Copenhagen, Denmark, Copenhagen
 
-*Updated Sat, 25 Jul 2026 · source: [soundcheck](https://soundcheck.club/copenhagen/club/den-anden-side/)*
+*Updated Sun, 26 Jul 2026 · source: [soundcheck](https://soundcheck.club/copenhagen/club/den-anden-side/)*

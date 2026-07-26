@@ -16,12 +16,12 @@ Red Light Tisco at KitKatClub on Fri 31 Jul, Berlin. 13 acts on the bill: Acid F
 - Julian Shore
 - LISTORIO
 - LIZZN
-- MUKKIMIAU
+- maniaclina
 - Miss Unleashed
+- MUKKIMIAU
+- nuarrrrr
 - Paula Hilton
 - PyjamaMama
-- maniaclina
-- nuarrrrr
 - substitüt
 
 *Source: [soundcheck](https://soundcheck.club/e/2469728-red-light-tisco-at-kitkatclub/)*

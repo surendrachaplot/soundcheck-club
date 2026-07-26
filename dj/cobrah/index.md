@@ -1,8 +1,8 @@
 # COBRAH
 
-COBRAH is a House and Club artist with 2 upcoming club dates listed on soundcheck as of Sat, 25 Jul 2026, next at TBA, Washington DC on Sat, 12 Sept 2026.
+COBRAH is a Club and House artist with 3 upcoming club dates listed on soundcheck as of Sun, 26 Jul 2026, next at TBA, Washington DC on Sat, 12 Sept 2026.
 
-COBRAH is a house and club artist tracked on soundcheck, with 39 sets logged across Amsterdam, Barcelona, Brisbane and Chicago and 17 more. Often billed alongside Job Jobse, TAAHLIAH and Adam Kraft. Next up: TBA, Washingtondc on Sat 12 Sept.
+COBRAH is a club and house artist tracked on soundcheck, with 40 sets logged across Amsterdam, Barcelona, Brisbane and Chicago and 17 more. Often billed alongside Job Jobse, TAAHLIAH and Adam Kraft. Next up: TBA, Washingtondc on Sat 12 Sept.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ COBRAH is a house and club artist tracked on soundcheck, with 39 sets logged acr
 | --- | --- | --- |
 | Sat, 12 Sept 2026 | TBA | Washington DC |
 | Sat, 26 Sept 2026 | Depot Mayfield | Manchester |
+| Sat, 24 Oct 2026 | DRUMSHEDS | London |
 
 ## Recently played
 
@@ -26,4 +27,4 @@ COBRAH is a house and club artist tracked on soundcheck, with 39 sets logged acr
 
 Job Jobse, TAAHLIAH, Adam Kraft
 
-*Updated Sat, 25 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/cobrah/)*
+*Updated Sun, 26 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/cobrah/)*

@@ -1,14 +1,13 @@
 # Bukanyr Boat
 
-Bukanyr Boat is a music venue in Prague with 10 upcoming nights listed on soundcheck as of Sat, 25 Jul 2026; the next is "Sonority LIVE + DJ Set (Manual Music), aros, Michael S Rossignol" on Sat, 25 Jul 2026.
+Bukanyr Boat is a music venue in Prague with 9 upcoming nights listed on soundcheck as of Sun, 26 Jul 2026; the next is "wnchnz & PHILLZ (all night long)" on Fri, 31 Jul 2026.
 
-Bukanyr Boat is a music venue in Prague listed on soundcheck. 10 upcoming nights, with line-ups including aros, ASCENDER, Axis Alpha and Biodan and 2 more. Browse upcoming dates, start times and who's playing. Nábřeží Ludvíka Svobody 1, 110 00 Prague, Czech Republic.
+Bukanyr Boat is a music venue in Prague listed on soundcheck. 9 upcoming nights, with line-ups including ASCENDER, Axis Alpha, Biodan and Blackloud and 2 more. Browse upcoming dates, start times and who's playing. Nábřeží Ludvíka Svobody 1, 110 00 Prague, Czech Republic.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Sat, 25 Jul 2026 | Sonority LIVE + DJ Set (Manual Music), aros, Michael S Rossignol | Sonority, aros |
 | Fri, 31 Jul 2026 | wnchnz & PHILLZ (all night long) | wnchnz |
 | Sat, 1 Aug 2026 | VIIITO, Wolf, Stormzi |  |
 | Fri, 7 Aug 2026 | Decks - djs Manu Strasse (ES / Berlin / New Tab, Dessert), Blackloud, Haram Soda | Blackloud, Manu Strasse |
@@ -23,4 +22,4 @@ Bukanyr Boat is a music venue in Prague listed on soundcheck. 10 upcoming nights
 
 Nábřeží Ludvíka Svobody 1, 110 00 Prague, Czech Republic, Prague
 
-*Updated Sat, 25 Jul 2026 · source: [soundcheck](https://soundcheck.club/prague/club/bukanyr-boat/)*
+*Updated Sun, 26 Jul 2026 · source: [soundcheck](https://soundcheck.club/prague/club/bukanyr-boat/)*

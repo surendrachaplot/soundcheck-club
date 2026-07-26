@@ -1,6 +1,6 @@
 # Lea Occhi
 
-Lea Occhi is a Techno and House artist with 8 upcoming club dates listed on soundcheck as of Sat, 25 Jul 2026, next at La Station - Gare des Mines, Paris on Sun, 26 Jul 2026.
+Lea Occhi is a Techno and House artist with 8 upcoming club dates listed on soundcheck as of Sun, 26 Jul 2026, next at La Station - Gare des Mines, Paris on Sun, 26 Jul 2026.
 
 Lea Occhi is a techno and house artist tracked on soundcheck, with 178 sets logged across Amsterdam, Athens, Barcelona and Basel and 38 more. Often billed alongside Toscan Haas, Amotik and Lobster (NL). Next up: La Station - Gare des Mines, Paris on Sun 26 Jul.
 
@@ -32,4 +32,4 @@ Lea Occhi is a techno and house artist tracked on soundcheck, with 178 sets logg
 
 Toscan Haas, Amotik, Lobster (NL)
 
-*Updated Sat, 25 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/leaocchi/)*
+*Updated Sun, 26 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/leaocchi/)*

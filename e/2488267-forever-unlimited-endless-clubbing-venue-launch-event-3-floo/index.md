@@ -1,6 +1,6 @@
 # FOREVER UNLIMITED ENDLESS CLUBBING / VENUE LAUNCH EVENT [3 FLOORS] at TBA - Warschauer Pl. 18, 10245 Berlin
 
-FOREVER UNLIMITED ENDLESS CLUBBING / VENUE LAUNCH EVENT [3 FLOORS] at TBA - Warschauer Pl. 18, 10245 Berlin on Sat 1 Aug, Berlin. 15 acts on the bill: Aveen, CUNT REMEMBER, Ceili and Chaosy and 11 more. Preview the line-up and save it on soundcheck.
+FOREVER UNLIMITED ENDLESS CLUBBING / VENUE LAUNCH EVENT [3 FLOORS] at TBA - Warschauer Pl. 18, 10245 Berlin on Sat 1 Aug, Berlin. 15 acts on the bill: Aveen, bod [包家巷], Ceili and Chaosy and 11 more. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -11,19 +11,19 @@ FOREVER UNLIMITED ENDLESS CLUBBING / VENUE LAUNCH EVENT [3 FLOORS] at TBA - Wars
 ## Line-up
 
 - Aveen
-- CUNT REMEMBER
+- bod [包家巷]
 - Ceili
 - Chaosy
+- CUNT REMEMBER
+- e03 (1)
 - Freestyler (2)
 - INCELS
 - PAX (2)
 - Rattlesnakke
 - Reinhaudt
 - Total XTC
+- truthspeaker
 - X Tin
 - XTCLVR
-- bod [包家巷]
-- e03 (1)
-- truthspeaker
 
 *Source: [soundcheck](https://soundcheck.club/e/2488267-forever-unlimited-endless-clubbing-venue-launch-event-3-floo/)*

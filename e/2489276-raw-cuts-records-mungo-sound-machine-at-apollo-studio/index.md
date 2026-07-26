@@ -14,7 +14,7 @@ RAW CUTS Records: Mungo Sound Machine at Apollo Studio on Sat 15 Aug, Newyorkcit
 - Bella Mutino
 - Miguel Gallardo
 - Mungo Sound Machine
-- Willy Gorgon
 - shanty mane
+- Willy Gorgon
 
 *Source: [soundcheck](https://soundcheck.club/e/2489276-raw-cuts-records-mungo-sound-machine-at-apollo-studio/)*

@@ -1,8 +1,8 @@
 # Carl Craig
 
-Carl Craig is a House and Techno artist with 15 upcoming club dates listed on soundcheck as of Sat, 25 Jul 2026, next at Almar Beach Club, Barcelona on Sun, 26 Jul 2026.
+Carl Craig is a House and Techno artist with 16 upcoming club dates listed on soundcheck as of Sun, 26 Jul 2026, next at Almar Beach Club, Barcelona on Sun, 26 Jul 2026.
 
-Carl Craig is a house and techno artist tracked on soundcheck, with 259 sets logged across Amsterdam, Antwerp, Athens and Austin and 47 more. Often billed alongside Moodymann, DJ Holographic and Seth Troxler. Next up: Almar Beach Club, Barcelona on Sun 26 Jul.
+Carl Craig is a house and techno artist tracked on soundcheck, with 260 sets logged across Amsterdam, Antwerp, Athens and Austin and 47 more. Often billed alongside Moodymann, DJ Holographic and Seth Troxler. Next up: Almar Beach Club, Barcelona on Sun 26 Jul.
 
 ## Upcoming shows
 
@@ -36,4 +36,4 @@ Carl Craig is a house and techno artist tracked on soundcheck, with 259 sets log
 
 Moodymann, DJ Holographic, Seth Troxler
 
-*Updated Sat, 25 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/carlcraig/)*
+*Updated Sun, 26 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/carlcraig/)*

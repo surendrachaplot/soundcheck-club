@@ -1,6 +1,6 @@
 # ALIVE: SNTS & AnD at E1
 
-ALIVE: SNTS & AnD at E1 on Fri 11 Sept, London. 4 acts on the bill: AVCI, AnD, MARIEEEA and SNTS. Techno. Preview the line-up and save it on soundcheck.
+ALIVE: SNTS & AnD at E1 on Fri 11 Sept, London. 4 acts on the bill: AnD, AVCI, MARIEEEA and SNTS. Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,8 +10,8 @@ ALIVE: SNTS & AnD at E1 on Fri 11 Sept, London. 4 acts on the bill: AVCI, AnD, M
 
 ## Line-up
 
-- AVCI
 - AnD
+- AVCI
 - MARIEEEA
 - SNTS
 

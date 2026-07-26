@@ -1,6 +1,6 @@
 # Klubnacht at Berghain | Panorama Bar | Säule
 
-Klubnacht at Berghain | Panorama Bar | Säule on Sat 29 Aug, Berlin. 16 acts on the bill: Amotik, Answer Code Request, Bella Boo and Chami and 12 more. Preview the line-up and save it on soundcheck.
+Klubnacht at Berghain | Panorama Bar | Säule on Sat 29 Aug, Berlin. 16 acts on the bill: Âme, Amotik, Answer Code Request and Bella Boo and 12 more. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,6 +10,7 @@ Klubnacht at Berghain | Panorama Bar | Säule on Sat 29 Aug, Berlin. 16 acts on 
 
 ## Line-up
 
+- Âme
 - Amotik
 - Answer Code Request
 - Bella Boo
@@ -25,6 +26,5 @@ Klubnacht at Berghain | Panorama Bar | Säule on Sat 29 Aug, Berlin. 16 acts on 
 - Tau Ceti
 - Tijana T
 - Yamour
-- Âme
 
 *Source: [soundcheck](https://soundcheck.club/e/2485512-klubnacht-at-berghain-panorama-bar-s-ule/)*

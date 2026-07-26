@@ -1,6 +1,6 @@
 # CLOSER x TECHTONIK present THERMAL with KX CHR at TBA - DTLA
 
-CLOSER x TECHTONIK present THERMAL with KX CHR at TBA - DTLA on Sun 2 Aug, Losangeles. 3 acts on the bill: KX CHR, Nina J and nat the f*kn rat. Techno. Preview the line-up and save it on soundcheck.
+CLOSER x TECHTONIK present THERMAL with KX CHR at TBA - DTLA on Sun 2 Aug, Losangeles. 3 acts on the bill: KX CHR, nat the f*kn rat and Nina J. Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -11,7 +11,7 @@ CLOSER x TECHTONIK present THERMAL with KX CHR at TBA - DTLA on Sun 2 Aug, Losan
 ## Line-up
 
 - KX CHR
-- Nina J
 - nat the f*kn rat
+- Nina J
 
 *Source: [soundcheck](https://soundcheck.club/e/2459071-closer-x-techtonik-present-thermal-with-kx-chr-at-tba-dtla/)*

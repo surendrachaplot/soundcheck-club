@@ -1,6 +1,6 @@
 # Purple Disco Machine with Flight Facilities, Jayda G, david bay at Magazine Open–Air
 
-Purple Disco Machine with Flight Facilities, Jayda G, david bay at Magazine Open–Air on Sat 22 Aug, London. 6 acts on the bill: Flight Facilities, Jayda G, Julia Sandstorm and Kirollus and 2 more. House and Disco. Preview the line-up and save it on soundcheck.
+Purple Disco Machine with Flight Facilities, Jayda G, david bay at Magazine Open–Air on Sat 22 Aug, London. 6 acts on the bill: david bay, Flight Facilities, Jayda G and Julia Sandstorm and 2 more. House and Disco. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,11 +10,11 @@ Purple Disco Machine with Flight Facilities, Jayda G, david bay at Magazine Open
 
 ## Line-up
 
+- david bay
 - Flight Facilities
 - Jayda G
 - Julia Sandstorm
 - Kirollus
 - Purple Disco Machine
-- david bay
 
 *Source: [soundcheck](https://soundcheck.club/e/2373989-purple-disco-machine-with-flight-facilities-jayda-g-david-ba/)*

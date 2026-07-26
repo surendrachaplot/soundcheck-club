@@ -1,6 +1,6 @@
 # Oriental Techno Garden - 東極玄音花園: Mu'He, ZHAZHA WANG, Zenyee at Tempio del Futuro Perduto
 
-Oriental Techno Garden - 東極玄音花園: Mu'He, ZHAZHA WANG, Zenyee at Tempio del Futuro Perduto on Fri 31 Jul, Milan. 3 acts on the bill: ZHAZHA WANG, Zenyee and mu”he. Preview the line-up and save it on soundcheck.
+Oriental Techno Garden - 東極玄音花園: Mu'He, ZHAZHA WANG, Zenyee at Tempio del Futuro Perduto on Fri 31 Jul, Milan. 3 acts on the bill: mu”he, Zenyee and ZHAZHA WANG. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,8 +10,8 @@ Oriental Techno Garden - 東極玄音花園: Mu'He, ZHAZHA WANG, Zenyee at Tempi
 
 ## Line-up
 
-- ZHAZHA WANG
-- Zenyee
 - mu”he
+- Zenyee
+- ZHAZHA WANG
 
 *Source: [soundcheck](https://soundcheck.club/e/2484806-oriental-techno-garden-mu-he-zhazha-wang-zenyee-at-tempio-de/)*

@@ -1,6 +1,6 @@
 # ◥◣VESELKA x SINGULARITY◥◣ at Tresor / Globus
 
-◥◣VESELKA x SINGULARITY◥◣ at Tresor / Globus on Mon 10 Aug, Berlin. 5 acts on the bill: ALIS., Sara Miller, Tweeman and Vani Vachi and 1 more. Techno. Preview the line-up and save it on soundcheck.
+◥◣VESELKA x SINGULARITY◥◣ at Tresor / Globus on Mon 10 Aug, Berlin. 5 acts on the bill: ALIS., puppy, Sara Miller and Tweeman and 1 more. Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -11,9 +11,9 @@
 ## Line-up
 
 - ALIS.
+- puppy
 - Sara Miller
 - Tweeman
 - Vani Vachi
-- puppy
 
 *Source: [soundcheck](https://soundcheck.club/e/2494222-veselka-x-singularity-at-tresor-globus/)*

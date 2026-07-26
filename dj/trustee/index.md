@@ -1,6 +1,6 @@
 # TRUSTEE
 
-TRUSTEE is a Garage and House artist with 2 upcoming club dates listed on soundcheck as of Sat, 25 Jul 2026, next at Glamorama, Melbourne on Fri, 7 Aug 2026.
+TRUSTEE is a Garage and House artist with 2 upcoming club dates listed on soundcheck as of Sun, 26 Jul 2026, next at Glamorama, Melbourne on Fri, 7 Aug 2026.
 
 TRUSTEE is a garage and house artist based in Australia, tracked on soundcheck, with 36 sets logged across Australiancapitalterritory, Brisbane, Hobart and Melbourne and 1 more. Often billed alongside KJONES, Prizefight and IsGwan. Next up: Glamorama, Melbourne on Fri 7 Aug.
 
@@ -26,4 +26,4 @@ TRUSTEE is a garage and house artist based in Australia, tracked on soundcheck, 
 
 KJONES, Prizefight, IsGwan
 
-*Updated Sat, 25 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/trustee/)*
+*Updated Sun, 26 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/trustee/)*

@@ -18,27 +18,28 @@ Hospital30 Block Party at Hackney Wick Multiple Venues on Sat 1 Aug, London. 47 
 - Bop
 - Calyx
 - Carasel
+- Degs
 - DJ Die
 - DJ Marky
-- Degs
 - Dub Athlete
 - Dynamite MC
 - Enta
 - Flava D
 - Fred V
-- GQ
 - Gabriella Bongo
+- GQ
 - High Contrast
 - Hoax (UK)
 - Hugh Hardie
+- imo-Lu
 - InsideInfo
 - Jakes
 - Kimyan
 - London Elektricity
-- MC Texas
 - Makoto
 - Mantmast
 - Matrix
+- MC Texas
 - Minor Forms
 - Nu:Tone
 - P Money
@@ -47,15 +48,14 @@ Hospital30 Block Party at Hackney Wick Multiple Venues on Sat 1 Aug, London. 47 
 - Randomer
 - Ruthless
 - Ryme Tyme
-- SP:MC
 - Sabrina (2)
 - Solah
+- SP:MC
 - Stray
 - Sydney Bryce
 - UMBRA
 - Urbandawn
 - Whiney
 - Wookie
-- imo-Lu
 
 *Source: [soundcheck](https://soundcheck.club/e/2398901-hospital30-block-party-at-hackney-wick-multiple-venues/)*

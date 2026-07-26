@@ -1,14 +1,13 @@
 # export
 
-export is a music venue in Rotterdam with 7 upcoming nights listed on soundcheck as of Sat, 25 Jul 2026; the next is "Bean party" on Sat, 25 Jul 2026.
+export is a music venue in Rotterdam with 6 upcoming nights listed on soundcheck as of Sun, 26 Jul 2026; the next is "Gabrielle Kwarteng, Sunnysoposted, 36framez" on Fri, 31 Jul 2026.
 
-export is a music venue in Rotterdam listed on soundcheck. 7 upcoming nights, with line-ups including 36framez, BMG, DJ Shahmaran and Ectomorph and 2 more. Browse upcoming dates, start times and who's playing. Keilestraat 7E, 3029 BP, Rotterdam.
+export is a music venue in Rotterdam listed on soundcheck. 6 upcoming nights, with line-ups including 36framez, BMG, DJ Shahmaran and Ectomorph and 2 more. Browse upcoming dates, start times and who's playing. Keilestraat 7E, 3029 BP, Rotterdam.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Sat, 25 Jul 2026 | Bean party | Helmond Lang |
 | Fri, 31 Jul 2026 | Gabrielle Kwarteng, Sunnysoposted, 36framez | 36framez, Gabrielle Kwarteng, Sunnysoposted |
 | Fri, 7 Aug 2026 | Fafi Abdel Nour, Meena, Nanton | Fafi Abdel Nour |
 | Fri, 14 Aug 2026 | Pure Venom: Kontronatura, XAKALELE, DJ Shahmaran | DJ Shahmaran, Kontronatura |
@@ -20,4 +19,4 @@ export is a music venue in Rotterdam listed on soundcheck. 7 upcoming nights, wi
 
 Keilestraat 7E, 3029 BP, Rotterdam, Rotterdam
 
-*Updated Sat, 25 Jul 2026 · source: [soundcheck](https://soundcheck.club/rotterdam/club/export/)*
+*Updated Sun, 26 Jul 2026 · source: [soundcheck](https://soundcheck.club/rotterdam/club/export/)*

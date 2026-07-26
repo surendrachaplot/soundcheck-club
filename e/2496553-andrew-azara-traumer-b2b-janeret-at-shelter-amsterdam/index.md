@@ -1,6 +1,6 @@
 # Andrew Azara, Traumer b2b Janeret at Shelter Amsterdam
 
-Andrew Azara, Traumer b2b Janeret at Shelter Amsterdam on Sat 12 Sept, Amsterdam. 5 acts on the bill: Andrew Azara, JAY C, Janeret and Traumer and 1 more. House. Preview the line-up and save it on soundcheck.
+Andrew Azara, Traumer b2b Janeret at Shelter Amsterdam on Sat 12 Sept, Amsterdam. 5 acts on the bill: Andrew Azara, Janeret, JAY C and nik-ey and 1 more. House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -11,9 +11,9 @@ Andrew Azara, Traumer b2b Janeret at Shelter Amsterdam on Sat 12 Sept, Amsterdam
 ## Line-up
 
 - Andrew Azara
-- JAY C
 - Janeret
-- Traumer
+- JAY C
 - nik-ey
+- Traumer
 
 *Source: [soundcheck](https://soundcheck.club/e/2496553-andrew-azara-traumer-b2b-janeret-at-shelter-amsterdam/)*

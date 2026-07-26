@@ -1,15 +1,13 @@
 # Starlane Pizza Bar
 
-Starlane Pizza Bar is a music venue in London with 29 upcoming nights listed on soundcheck as of Sat, 25 Jul 2026; the next is "Starlane presents: Praslea, Timoti, Nate Oldfield" on Sat, 25 Jul 2026.
+Starlane Pizza Bar is a music venue in London with 27 upcoming nights listed on soundcheck as of Sun, 26 Jul 2026; the next is "JFF invites StandUP - Just For Fun 4" on Fri, 31 Jul 2026.
 
-Starlane Pizza Bar is a music venue in London listed on soundcheck. 29 upcoming nights, with line-ups including TommyGDJ, ad*n, Aniaef and Benny (El Rio Hostel) and 2 more. Browse upcoming dates, start times and who's playing. 12 Cody Road, E16 4SR London, United Kingdom.
+Starlane Pizza Bar is a music venue in London listed on soundcheck. 27 upcoming nights, with line-ups including TommyGDJ, ad*n, Aniaef and Benny (El Rio Hostel) and 2 more. Browse upcoming dates, start times and who's playing. 12 Cody Road, E16 4SR London, United Kingdom.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Sat, 25 Jul 2026 | Starlane presents: Praslea, Timoti, Nate Oldfield | Oldfield, Praslea, Timoti |
-| Sat, 25 Jul 2026 | Sweet Greens: Vol. 2 - DAY & NIGHT | Dolce Verde, Neidex, Scrapbook |
 | Fri, 31 Jul 2026 | JFF invites StandUP - Just For Fun 4 | Monterosso, Oren (IT), Oren., Save P, Ughe, Vlad Ioachimescu, Yuma (UK) |
 | Sat, 1 Aug 2026 | Nitty Gritty presents: Moon Till Noon |  |
 | Sat, 1 Aug 2026 | Brady and Friends | Brands, Diego Gee, K.Wilson, Matt Arnold, Olly Brady, SMOKEYY |
@@ -18,9 +16,11 @@ Starlane Pizza Bar is a music venue in London listed on soundcheck. 29 upcoming 
 | Sat, 8 Aug 2026 | Lewis Carroll (All Day Long) [SOLD OUT]  | Lewis Carroll |
 | Sat, 8 Aug 2026 | Juice Rekords | Jeremy Sylvester |
 | Sun, 9 Aug 2026 | Groove27 | House Purist, Mylania, ad*n |
+| Fri, 14 Aug 2026 | Twinspinsz ↠ Ishtar's Birthday Bash | Dylan James, Emile, FITS ME FUNNY, dylan.james |
+| Sat, 15 Aug 2026 | The Summerhouse Project: Starlane Pizza Bar |  |
 
 ## Address
 
 12 Cody Road, E16 4SR London, United Kingdom, London
 
-*Updated Sat, 25 Jul 2026 · source: [soundcheck](https://soundcheck.club/london/club/starlane-pizza-bar/)*
+*Updated Sun, 26 Jul 2026 · source: [soundcheck](https://soundcheck.club/london/club/starlane-pizza-bar/)*

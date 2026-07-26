@@ -1,6 +1,6 @@
 # Play x Solace W/ BENZA, Kait Xri and Ari at Solace
 
-Play x Solace W/ BENZA, Kait Xri and Ari on Fri 31 Jul, Melbourne. 5 acts on the bill: Ari (AU), BENZA, Bby Cass and Kait Xri and 1 more. Techno and House. Preview the line-up and save it on soundcheck.
+Play x Solace W/ BENZA, Kait Xri and Ari on Fri 31 Jul, Melbourne. 5 acts on the bill: Ari (AU), Bby Cass, BENZA and Kait Xri and 1 more. Techno and House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -11,8 +11,8 @@ Play x Solace W/ BENZA, Kait Xri and Ari on Fri 31 Jul, Melbourne. 5 acts on the
 ## Line-up
 
 - Ari (AU)
-- BENZA
 - Bby Cass
+- BENZA
 - Kait Xri
 - TEEJAY
 

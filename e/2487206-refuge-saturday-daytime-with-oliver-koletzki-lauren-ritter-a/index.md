@@ -1,6 +1,6 @@
-# Refuge Saturday Daytime with Oliver Koletzki, Lauren Ritter at Refuge
+# Refuge Saturday Daytime with Oliver Koletzki & Lauren Ritter at Refuge
 
-Refuge Saturday Daytime with Oliver Koletzki, Lauren Ritter on Sat 1 Aug, Newyorkcity. 2 acts on the bill: Lauren Ritter and Oliver Koletzki. Techno and House. Preview the line-up and save it on soundcheck.
+Refuge Saturday Daytime with Oliver Koletzki & Lauren Ritter on Sat 1 Aug, Newyorkcity. 2 acts on the bill: Lauren Ritter and Oliver Koletzki. Techno and House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

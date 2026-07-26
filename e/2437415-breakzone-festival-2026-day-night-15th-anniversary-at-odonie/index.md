@@ -17,9 +17,9 @@ BREAKZONE Festival 2026 (DAY & NIGHT) - 15th Anniversary at Odonien on Sat 15 Au
 - FLOWZ
 - Giana Brotherz
 - Gourski
-- JSPR
 - Jamin
 - Jonas Fritz
+- JSPR
 - Pola & Bryson
 - Roklem
 - Sebalo

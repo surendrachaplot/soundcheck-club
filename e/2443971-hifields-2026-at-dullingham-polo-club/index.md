@@ -17,20 +17,20 @@ Hifields 2026 at Dullingham Polo Club on Sat 22 Aug, London. 22 acts on the bill
 - Charlie Bucket
 - DJ VALENTINE
 - FITS ME FUNNY
+- gravy.e
 - Helios Manoeuvres
 - Joss Dean
 - Kepler
 - L.P. Rhythm
-- LP (VN)
 - Leo (2)
 - Loney
-- MUSICKLUNATIC
+- LP (VN)
 - Mrt
+- MUSICKLUNATIC
 - Ozzie Guven
 - Phin
 - Rennie Peters
 - Sam Parker
 - Skream
-- gravy.e
 
 *Source: [soundcheck](https://soundcheck.club/e/2443971-hifields-2026-at-dullingham-polo-club/)*

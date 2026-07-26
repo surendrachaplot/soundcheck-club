@@ -1,6 +1,6 @@
 # Yu Yu Cine Club: Baile x Venezuela at YuYu Cine Club
 
-Yu Yu Cine Club: Baile x Venezuela at YuYu Cine Club on Thu 6 Aug, Mexicocity. 6 acts on the bill: DJ Guapis, Iris Estefanía, Lila sky and MJ Nebreda and 2 more. Preview the line-up and save it on soundcheck.
+Yu Yu Cine Club: Baile x Venezuela at YuYu Cine Club on Thu 6 Aug, Mexicocity. 6 acts on the bill: DJ Guapis, Iris Estefanía, Lila sky and Meth Math and 2 more. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -13,8 +13,8 @@ Yu Yu Cine Club: Baile x Venezuela at YuYu Cine Club on Thu 6 Aug, Mexicocity. 6
 - DJ Guapis
 - Iris Estefanía
 - Lila sky
-- MJ Nebreda
 - Meth Math
+- MJ Nebreda
 - NEGRACONDA
 
 *Source: [soundcheck](https://soundcheck.club/e/2493723-yu-yu-cine-club-baile-x-venezuela-at-yuyu-cine-club/)*

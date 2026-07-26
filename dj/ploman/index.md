@@ -1,6 +1,6 @@
 # PLO Man
 
-PLO Man is a Techno and House artist with 4 upcoming club dates listed on soundcheck as of Sat, 25 Jul 2026, next at Amsterdamse Bos, Amsterdam on Wed, 29 Jul 2026.
+PLO Man is a Techno and House artist with 4 upcoming club dates listed on soundcheck as of Sun, 26 Jul 2026, next at Amsterdamse Bos, Amsterdam on Wed, 29 Jul 2026.
 
 PLO Man is a techno and house artist tracked on soundcheck, with 148 sets logged across Amsterdam, Athens, Austin and Barcelona and 35 more. Often billed alongside DJ Spence, Hashman Deejay and Vlada. Next up: Amsterdamse Bos, Amsterdam on Wed 29 Jul.
 
@@ -28,4 +28,4 @@ PLO Man is a techno and house artist tracked on soundcheck, with 148 sets logged
 
 DJ Spence, Hashman Deejay, Vlada
 
-*Updated Sat, 25 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/ploman/)*
+*Updated Sun, 26 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/ploman/)*

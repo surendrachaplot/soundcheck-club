@@ -1,6 +1,6 @@
 # Sex On The Beach (Hollywood Beach Edition) at Hollywood Beach
 
-Sex On The Beach (Hollywood Beach Edition) on Sun 26 Jul, Chicago. 5 acts on the bill: Elock, Heavee, Veri Peri and karennoid and 1 more. Club and Footwork. Preview the line-up and save it on soundcheck.
+Sex On The Beach (Hollywood Beach Edition) on Sun 26 Jul, Chicago. 5 acts on the bill: Elock, Heavee, karennoid and sulffffffur and 1 more. Club and Footwork. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -12,8 +12,8 @@ Sex On The Beach (Hollywood Beach Edition) on Sun 26 Jul, Chicago. 5 acts on the
 
 - Elock
 - Heavee
-- Veri Peri
 - karennoid
 - sulffffffur
+- Veri Peri
 
 *Source: [soundcheck](https://soundcheck.club/e/2490159-sex-on-the-beach-hollywood-beach-edition-at-hollywood-beach/)*

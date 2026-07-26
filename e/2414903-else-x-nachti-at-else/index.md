@@ -1,6 +1,6 @@
 # Else x Nachti at Else
 
-Else x Nachti on Sun 2 Aug, Berlin. 8 acts on the bill: Courtesy, DJ MILLE, Danielle and Elias Mazian and 4 more. Techno and House. Preview the line-up and save it on soundcheck.
+Else x Nachti on Sun 2 Aug, Berlin. 8 acts on the bill: Courtesy, Danielle, DJ MILLE and Elias Mazian and 4 more. Techno and House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -11,8 +11,8 @@ Else x Nachti on Sun 2 Aug, Berlin. 8 acts on the bill: Courtesy, DJ MILLE, Dani
 ## Line-up
 
 - Courtesy
-- DJ MILLE
 - Danielle
+- DJ MILLE
 - Elias Mazian
 - Jenny Cara
 - MILLE

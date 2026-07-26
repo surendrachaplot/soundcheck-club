@@ -1,6 +1,6 @@
 # POLONIA PARA VENEZUELA - SOLIDARITY EVENT at BarKa
 
-POLONIA PARA VENEZUELA - SOLIDARITY EVENT at BarKa on Wed 29 Jul, Warsaw. 13 acts on the bill: Adobo (PL), Alexis, DJ Kobieta and Fourth World Music and 9 more. Latin Bass and Neo Perreo. Preview the line-up and save it on soundcheck.
+POLONIA PARA VENEZUELA - SOLIDARITY EVENT at BarKa on Wed 29 Jul, Warsaw. 13 acts on the bill: Adobo (PL), Alexis, DJ Kobieta and eylau and 9 more. Latin Bass and Neo Perreo. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -13,15 +13,15 @@ POLONIA PARA VENEZUELA - SOLIDARITY EVENT at BarKa on Wed 29 Jul, Warsaw. 13 act
 - Adobo (PL)
 - Alexis
 - DJ Kobieta
+- eylau
+- faron
 - Fourth World Music
+- iffi
 - KarateKnur
+- kertua
 - Matka Boska Rejwowa
 - Pressure (2)
 - Some Guest
-- eylau
-- faron
-- iffi
-- kertua
 - sponsa
 
 *Source: [soundcheck](https://soundcheck.club/e/2491777-polonia-para-venezuela-solidarity-event-at-barka/)*

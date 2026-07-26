@@ -1,15 +1,13 @@
 # The Clock Factory
 
-The Clock Factory is a music venue in Bristol with 25 upcoming nights listed on soundcheck as of Sat, 25 Jul 2026; the next is "Afters At Hoax's: Official HOTH After Party" on Sat, 25 Jul 2026.
+The Clock Factory is a music venue in Bristol with 23 upcoming nights listed on soundcheck as of Sun, 26 Jul 2026; the next is "Free Rave Summer Series: Congo Natty" on Fri, 31 Jul 2026.
 
-The Clock Factory is a music venue in Bristol listed on soundcheck. 25 upcoming nights, with line-ups including Bladerunner, Calyx, Club Angel and Congo Natty and 2 more. Browse upcoming dates, start times and who's playing. 63 Union Gate 1st & 2nd Floor, Broadmead, Bristol BS1 2AG.
+The Clock Factory is a music venue in Bristol listed on soundcheck. 23 upcoming nights, with line-ups including Bladerunner, Calyx, Club Angel and Congo Natty and 2 more. Browse upcoming dates, start times and who's playing. 63 Union Gate 1st & 2nd Floor, Broadmead, Bristol BS1 2AG.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Sat, 25 Jul 2026 | Afters At Hoax's: Official HOTH After Party | Hoax (UK), SMG (UK) |
-| Sat, 25 Jul 2026 | Afters At Hoax's: Hospital30 On The Harbour Afterparty | HOAX, MC Texas, RYDA, SMG (UK), Winslow |
 | Fri, 31 Jul 2026 | Free Rave Summer Series: Congo Natty | Congo Natty |
 | Fri, 31 Jul 2026 | Bristol Summer Series [FREE RAVE] • Congo Natty (Live) | Congo Natty |
 | Fri, 7 Aug 2026 | Free Rave Summer Series: Bladerunner + MC Felon | Bladerunner, Deselecta |
@@ -18,9 +16,11 @@ The Clock Factory is a music venue in Bristol listed on soundcheck. 25 upcoming 
 | Fri, 14 Aug 2026 | Free Rave Summer Series: Majistrate b2b Original Sin + Westman | Majistrate, Original Sin |
 | Fri, 14 Aug 2026 | Bristol Summer Series [FREE RAVE] • Majistrate B2B Original Sin + Westman | Majistrate, Original Sin |
 | Sat, 15 Aug 2026 | Clock Factory Bristol presents: DJ Paypal | DJ Paypal |
+| Fri, 21 Aug 2026 | Bristol Summer Series [FREE RAVE] • DJ Jackum & Soulecta | Jackum |
+| Sat, 22 Aug 2026 | Stack Culture - FREE Rave - Sound System Link |  |
 
 ## Address
 
 63 Union Gate 1st & 2nd Floor, Broadmead, Bristol BS1 2AG, Bristol
 
-*Updated Sat, 25 Jul 2026 · source: [soundcheck](https://soundcheck.club/bristol/club/the-clock-factory/)*
+*Updated Sun, 26 Jul 2026 · source: [soundcheck](https://soundcheck.club/bristol/club/the-clock-factory/)*

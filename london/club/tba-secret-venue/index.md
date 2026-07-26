@@ -1,8 +1,8 @@
 # TBA - Secret Venue
 
-TBA - Secret Venue is a music venue in London with 2 upcoming nights listed on soundcheck as of Sat, 25 Jul 2026; the next is "Chimeria Collective pres. Perunov Night" on Sat, 15 Aug 2026.
+TBA - Secret Venue is a music venue in London with 3 upcoming nights listed on soundcheck as of Sun, 26 Jul 2026; the next is "Chimeria Collective pres. Perunov Night" on Sat, 15 Aug 2026.
 
-TBA - Secret Venue is a music venue in London listed on soundcheck. 2 upcoming nights, with line-ups including D. Strange, easygoingtech, Jeremiah Meece and Zagc. Browse upcoming dates, start times and who's playing.
+TBA - Secret Venue is a music venue in London listed on soundcheck. 3 upcoming nights, with line-ups including D. Strange, easygoingtech, Jeremiah Meece and Jojo Lorenzo and 2 more. Browse upcoming dates, start times and who's playing.
 
 ## What's on
 
@@ -10,5 +10,6 @@ TBA - Secret Venue is a music venue in London listed on soundcheck. 2 upcoming n
 | --- | --- | --- |
 | Sat, 15 Aug 2026 | Chimeria Collective pres. Perunov Night | D. Strange, Jeremiah Meece, Zagc, easygoingtech |
 | Sat, 19 Sept 2026 | KYBBA |  |
+| Sat, 24 Oct 2026 | Tinzo + Jojo: Dark Library Tour | Jojo Lorenzo, Tinzo |
 
-*Updated Sat, 25 Jul 2026 · source: [soundcheck](https://soundcheck.club/london/club/tba-secret-venue/)*
+*Updated Sun, 26 Jul 2026 · source: [soundcheck](https://soundcheck.club/london/club/tba-secret-venue/)*

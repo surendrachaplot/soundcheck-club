@@ -1,14 +1,13 @@
 # Cobalt Studios
 
-Cobalt Studios is a music venue in Newcastle with 3 upcoming nights listed on soundcheck as of Sat, 25 Jul 2026; the next is "Bin Juice Pride Special: Queer Rave with Josh Bell + Live Drag" on Sat, 25 Jul 2026.
+Cobalt Studios is a music venue in Newcastle with 2 upcoming nights listed on soundcheck as of Sun, 26 Jul 2026; the next is "Cobalt presents: Bank Holiday Friday with Bill Brewster & PBR Streetgang" on Fri, 28 Aug 2026.
 
-Cobalt Studios is a music venue in Newcastle listed on soundcheck. 3 upcoming nights, with line-ups including Bill Brewster, Josh Bell, PBR Streetgang and PIP. and 2 more. Browse upcoming dates, start times and who's playing. 10 - 16  Boyd St. Newcastle Upon Tyne, NE2 1AP, United Kingdom.
+Cobalt Studios is a music venue in Newcastle listed on soundcheck. 2 upcoming nights, with line-ups including Bill Brewster, PBR Streetgang, PIP. and Weston and 1 more. Browse upcoming dates, start times and who's playing. 10 - 16  Boyd St. Newcastle Upon Tyne, NE2 1AP, United Kingdom.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Sat, 25 Jul 2026 | Bin Juice Pride Special: Queer Rave with Josh Bell + Live Drag | Josh Bell |
 | Fri, 28 Aug 2026 | Cobalt presents: Bank Holiday Friday with Bill Brewster & PBR Streetgang | Bill Brewster, PBR Streetgang |
 | Sun, 30 Aug 2026 | Cobalt 12 Hour Day Into Night Locals Back Yard Party | PIP., Weston, Westy™️ |
 
@@ -16,4 +15,4 @@ Cobalt Studios is a music venue in Newcastle listed on soundcheck. 3 upcoming ni
 
 10 - 16  Boyd St. Newcastle Upon Tyne, NE2 1AP, United Kingdom, Newcastle
 
-*Updated Sat, 25 Jul 2026 · source: [soundcheck](https://soundcheck.club/newcastle/club/cobalt-studios/)*
+*Updated Sun, 26 Jul 2026 · source: [soundcheck](https://soundcheck.club/newcastle/club/cobalt-studios/)*

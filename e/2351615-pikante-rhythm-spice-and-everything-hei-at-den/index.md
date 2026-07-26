@@ -16,9 +16,9 @@ Pikante / rhythm, spice and everything heiß at ÆDEN on Fri 28 Aug, Berlin. 10 
 - Bruno Brero
 - ELOISA
 - Hanne B
+- k4mi
 - PyjamaMama
 - RECLUSE (2)
 - SIVINSKI
-- k4mi
 
 *Source: [soundcheck](https://soundcheck.club/e/2351615-pikante-rhythm-spice-and-everything-hei-at-den/)*

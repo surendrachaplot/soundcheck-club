@@ -1,6 +1,6 @@
 # de cleurb x Curio Collective at Angel Music Bar
 
-de cleurb x Curio Collective at Angel Music Bar on Thu 30 Jul, Melbourne. 4 acts on the bill: Brown Suga Princess, Kali, Kali (2) and fbw.archive. Preview the line-up and save it on soundcheck.
+de cleurb x Curio Collective at Angel Music Bar on Thu 30 Jul, Melbourne. 4 acts on the bill: Brown Suga Princess, fbw.archive, Kali and Kali (2). Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -11,8 +11,8 @@ de cleurb x Curio Collective at Angel Music Bar on Thu 30 Jul, Melbourne. 4 acts
 ## Line-up
 
 - Brown Suga Princess
+- fbw.archive
 - Kali
 - Kali (2)
-- fbw.archive
 
 *Source: [soundcheck](https://soundcheck.club/e/2491895-de-cleurb-x-curio-collective-at-angel-music-bar/)*

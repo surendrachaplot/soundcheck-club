@@ -15,8 +15,8 @@ Timescape presents 'Arcadian' at TBA - Secret Location on Sat 29 Aug, Glasgow. 8
 - Libra Esterlina
 - Linkwood
 - Lord Of The Isles
+- noodle
 - Physix
 - Sundaymann
-- noodle
 
 *Source: [soundcheck](https://soundcheck.club/e/2471523-timescape-presents-arcadian-at-tba-secret-location/)*

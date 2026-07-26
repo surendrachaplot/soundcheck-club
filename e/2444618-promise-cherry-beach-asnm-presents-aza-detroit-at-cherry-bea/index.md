@@ -1,6 +1,6 @@
 # Promise Cherry Beach: ASNM presents AZA (Detroit) at Cherry Beach
 
-Promise Cherry Beach: ASNM presents AZA (Detroit) on Sun 30 Aug, Toronto. 6 acts on the bill: AZA, Dunaway, Program Sam and florasystem and 2 more. Techno and House. Preview the line-up and save it on soundcheck.
+Promise Cherry Beach: ASNM presents AZA (Detroit) on Sun 30 Aug, Toronto. 6 acts on the bill: AZA, Dunaway, florasystem and godemperor (2) and 2 more. Techno and House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -12,9 +12,9 @@ Promise Cherry Beach: ASNM presents AZA (Detroit) on Sun 30 Aug, Toronto. 6 acts
 
 - AZA
 - Dunaway
-- Program Sam
 - florasystem
 - godemperor (2)
 - maxedvisa
+- Program Sam
 
 *Source: [soundcheck](https://soundcheck.club/e/2444618-promise-cherry-beach-asnm-presents-aza-detroit-at-cherry-bea/)*

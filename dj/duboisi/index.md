@@ -1,14 +1,14 @@
 # duboisi
 
-duboisi is a House and Club artist with 2 upcoming club dates listed on soundcheck as of Sat, 25 Jul 2026, next at TBA - Boat, Prague on Sun, 26 Jul 2026.
+duboisi is a House and Club artist with 2 upcoming club dates listed on soundcheck as of Sun, 26 Jul 2026, next at TBA - Boat (location in telegram channel), Prague on Sun, 26 Jul 2026.
 
-duboisi is a house and club artist based in Slovakia, tracked on soundcheck, with 39 sets logged across Prague. Often billed alongside Wuss, Kirill Astra and SAAB. Next up: TBA - Boat, Prague on Sun 26 Jul.
+duboisi is a house and club artist based in Slovakia, tracked on soundcheck, with 39 sets logged across Prague. Often billed alongside Wuss, Kirill Astra and SAAB. Next up: TBA - Boat (location in telegram channel), Prague on Sun 26 Jul.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sun, 26 Jul 2026 | TBA - Boat | Prague |
+| Sun, 26 Jul 2026 | TBA - Boat (location in telegram channel) | Prague |
 | Fri, 31 Jul 2026 | Tendance | Prague |
 
 ## Recently played
@@ -26,4 +26,4 @@ duboisi is a house and club artist based in Slovakia, tracked on soundcheck, wit
 
 Wuss, Kirill Astra, SAAB
 
-*Updated Sat, 25 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/duboisi/)*
+*Updated Sun, 26 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/duboisi/)*

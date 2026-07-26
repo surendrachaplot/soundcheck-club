@@ -14,8 +14,8 @@ BERLIN WAREHOUSE RAVE - KlangSubsTanz at TBA - telegram @klangsubstanz on Sat 15
 - Clarissa Gnade
 - HANNAHHANSEN
 - Kaldera
-- LUFTDICHTSICHER
 - Laigonen Kanonen
+- LUFTDICHTSICHER
 - MARIE CLAIRE
 - Max Muth
 

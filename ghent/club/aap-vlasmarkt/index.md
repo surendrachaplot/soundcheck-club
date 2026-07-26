@@ -1,18 +1,17 @@
 # AAP Vlasmarkt
 
-AAP Vlasmarkt is a music venue in Ghent with 2 upcoming nights listed on soundcheck as of Sat, 25 Jul 2026; the next is "5 jaar ODNAR" on Sat, 25 Jul 2026.
+AAP Vlasmarkt is a music venue in Ghent with 1 upcoming night listed on soundcheck as of Sun, 26 Jul 2026; the next is "UITVAART" on Sun, 26 Jul 2026.
 
-AAP Vlasmarkt is a music venue in Ghent listed on soundcheck. 2 upcoming nights, with line-ups including Abena, Louis Louis and TARS. Browse upcoming dates, start times and who's playing. Vlasmarkt 14, Gent.
+AAP Vlasmarkt is a music venue in Ghent listed on soundcheck. 1 upcoming night, with line-ups including Abena and Louis Louis. Browse upcoming dates, start times and who's playing. Vlasmarkt 14, Gent.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Sat, 25 Jul 2026 | 5 jaar ODNAR | TARS |
 | Sun, 26 Jul 2026 | UITVAART | Abena, Louis Louis |
 
 ## Address
 
 Vlasmarkt 14, Gent, Ghent
 
-*Updated Sat, 25 Jul 2026 · source: [soundcheck](https://soundcheck.club/ghent/club/aap-vlasmarkt/)*
+*Updated Sun, 26 Jul 2026 · source: [soundcheck](https://soundcheck.club/ghent/club/aap-vlasmarkt/)*

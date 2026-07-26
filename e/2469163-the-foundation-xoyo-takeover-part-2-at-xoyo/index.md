@@ -1,6 +1,6 @@
 # The Foundation - XOYO Takeover Part 2 at XOYO
 
-The Foundation - XOYO Takeover Part 2 on Sat 8 Aug, London. 7 acts on the bill: B3, DRIA, Dominique Danielle and Jnr Windross and 3 more. Deep House. Preview the line-up and save it on soundcheck.
+The Foundation - XOYO Takeover Part 2 on Sat 8 Aug, London. 7 acts on the bill: B3, Dominique Danielle, DRIA and Jnr Windross and 3 more. Deep House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -11,8 +11,8 @@ The Foundation - XOYO Takeover Part 2 on Sat 8 Aug, London. 7 acts on the bill: 
 ## Line-up
 
 - B3
-- DRIA
 - Dominique Danielle
+- DRIA
 - Jnr Windross
 - Lance Morgan
 - Mark Radford

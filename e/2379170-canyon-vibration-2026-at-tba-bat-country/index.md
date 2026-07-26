@@ -21,11 +21,11 @@ Canyon Vibration 2026 at TBA - Bat Country on Fri 7 Aug, Portland. 17 acts on th
 - Moussa
 - Peter Marks
 - Peter Sheppard
+- pip (4)
+- px601
 - Spencer FM
 - Sunrise Energy Club
 - Tornado Wallace
 - Trustfall
-- pip (4)
-- px601
 
 *Source: [soundcheck](https://soundcheck.club/e/2379170-canyon-vibration-2026-at-tba-bat-country/)*

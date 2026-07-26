@@ -1,6 +1,6 @@
 # Echo Bloom presents: Midsommar Rituals at Crack Bellmer
 
-Echo Bloom presents: Midsommar Rituals at Crack Bellmer on Sun 2 Aug, Berlin. 4 acts on the bill: EZQIZITA, Part-Time Lesbian, dj prinskorv and ilbroccolovolante. House and Italo Disco. Preview the line-up and save it on soundcheck.
+Echo Bloom presents: Midsommar Rituals at Crack Bellmer on Sun 2 Aug, Berlin. 4 acts on the bill: dj prinskorv, EZQIZITA, ilbroccolovolante and Part-Time Lesbian. House and Italo Disco. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,9 +10,9 @@ Echo Bloom presents: Midsommar Rituals at Crack Bellmer on Sun 2 Aug, Berlin. 4 
 
 ## Line-up
 
-- EZQIZITA
-- Part-Time Lesbian
 - dj prinskorv
+- EZQIZITA
 - ilbroccolovolante
+- Part-Time Lesbian
 
 *Source: [soundcheck](https://soundcheck.club/e/2467837-echo-bloom-presents-midsommar-rituals-at-crack-bellmer/)*

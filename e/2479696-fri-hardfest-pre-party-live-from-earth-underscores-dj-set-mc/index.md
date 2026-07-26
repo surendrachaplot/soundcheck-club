@@ -1,6 +1,6 @@
 # Fri HARDfest Pre-Party (Live From Earth: underscores (DJ Set), MCR-T, Anetha, deBasement, umru) at TBA - Mission Four (Ace*Mission Studios) 560 S Mission Rd, Los Angeles, CA 90033
 
-Fri HARDfest Pre-Party (Live From Earth: underscores (DJ Set), MCR-T, Anetha, deBasement, umru) at TBA - Mission Four (Ace*Mission Studios) 560 S Mission Rd, Los Angeles, CA 90033 on Fri 31 Jul, Losangeles. 5 acts on the bill: Anetha, MCR-T, deBasement and umru and 1 more. Preview the line-up and save it on soundcheck.
+Fri HARDfest Pre-Party (Live From Earth: underscores (DJ Set), MCR-T, Anetha, deBasement, umru) at TBA - Mission Four (Ace*Mission Studios) 560 S Mission Rd, Los Angeles, CA 90033 on Fri 31 Jul, Losangeles. 5 acts on the bill: Anetha, deBasement, MCR-T and umru and 1 more. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -11,8 +11,8 @@ Fri HARDfest Pre-Party (Live From Earth: underscores (DJ Set), MCR-T, Anetha, de
 ## Line-up
 
 - Anetha
-- MCR-T
 - deBasement
+- MCR-T
 - umru
 - underscores
 

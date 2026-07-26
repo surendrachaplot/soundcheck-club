@@ -1,6 +1,6 @@
 # The Classic Grand
 
-The Classic Grand is a music venue in Glasgow with 16 upcoming nights listed on soundcheck as of Sat, 25 Jul 2026; the next is "DISFUNCTION: Samuel Moriero" on Fri, 31 Jul 2026.
+The Classic Grand is a music venue in Glasgow with 16 upcoming nights listed on soundcheck as of Sun, 26 Jul 2026; the next is "DISFUNCTION: Samuel Moriero" on Fri, 31 Jul 2026.
 
 The Classic Grand is a music venue in Glasgow listed on soundcheck. 16 upcoming nights, with line-ups including Carbon Based Lifeforms, George Bowie, Marc Smith and Purgatory and 2 more. Browse upcoming dates, start times and who's playing. 18 Jamaica Street; Glasgow, G1 4QD; Scotland.
 
@@ -23,4 +23,4 @@ The Classic Grand is a music venue in Glasgow listed on soundcheck. 16 upcoming 
 
 18 Jamaica Street; Glasgow, G1 4QD; Scotland, Glasgow
 
-*Updated Sat, 25 Jul 2026 · source: [soundcheck](https://soundcheck.club/glasgow/club/the-classic-grand/)*
+*Updated Sun, 26 Jul 2026 · source: [soundcheck](https://soundcheck.club/glasgow/club/the-classic-grand/)*

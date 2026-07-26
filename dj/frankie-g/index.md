@@ -1,19 +1,19 @@
 # Frankie G
 
-Frankie G is a House and Progressive House artist with 3 upcoming club dates listed on soundcheck as of Sat, 25 Jul 2026, next at Slow Club, Barcelona on Sat, 25 Jul 2026.
+Frankie G is a House and Progressive House artist with 2 upcoming club dates listed on soundcheck as of Sun, 26 Jul 2026, next at Slow Club, Barcelona on Sat, 5 Sept 2026.
 
-Frankie G is a house and progressive house artist tracked on soundcheck, with 75 sets logged across Barcelona. Often billed alongside Toni The Boss, Hermes Disco Eterno and Icey. Next up: Slow Club, Barcelona on Sat 25 Jul.
+Frankie G is a house and progressive house artist tracked on soundcheck, with 75 sets logged across Barcelona. Often billed alongside Toni The Boss, Hermes Disco Eterno and Icey. Next up: Slow Club, Barcelona on Sat 5 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 25 Jul 2026 | Slow Club | Barcelona |
 | Sat, 5 Sept 2026 | Slow Club | Barcelona |
 | Sat, 19 Sept 2026 | Slow Club | Barcelona |
 
 ## Recently played
 
+- Slow Club, Barcelona — Sat, 25 Jul 2026
 - Slow Club, Barcelona — Sat, 18 Jul 2026
 - Slow Club, Barcelona — Fri, 17 Jul 2026
 - Slow Club, Barcelona — Fri, 10 Jul 2026
@@ -21,10 +21,9 @@ Frankie G is a house and progressive house artist tracked on soundcheck, with 75
 - Slow Club, Barcelona — Sat, 20 Jun 2026
 - Slow Club, Barcelona — Fri, 19 Jun 2026
 - Slow Club, Barcelona — Sat, 13 Jun 2026
-- Slow Club, Barcelona — Fri, 15 May 2026
 
 ## Shares bills with
 
 Toni The Boss, Hermes Disco Eterno, Icey
 
-*Updated Sat, 25 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/frankie-g/)*
+*Updated Sun, 26 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/frankie-g/)*

@@ -1,8 +1,8 @@
 # JAMIIE
 
-JAMIIE is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Sat, 25 Jul 2026, next at Boston Manor Park, London on Sat, 1 Aug 2026.
+JAMIIE is a House and Techno artist with 4 upcoming club dates listed on soundcheck as of Sun, 26 Jul 2026, next at Boston Manor Park, London on Sat, 1 Aug 2026.
 
-JAMIIE is a house and techno artist tracked on soundcheck, with 95 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 25 more. Often billed alongside Black Coffee, Âme and Jimi Jules. Next up: Boston Manor Park, London on Sat 1 Aug.
+JAMIIE is a house and techno artist tracked on soundcheck, with 96 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 25 more. Often billed alongside Black Coffee, Âme and Jimi Jules. Next up: Boston Manor Park, London on Sat 1 Aug.
 
 ## Upcoming shows
 
@@ -11,6 +11,7 @@ JAMIIE is a house and techno artist tracked on soundcheck, with 95 sets logged a
 | Sat, 1 Aug 2026 | Boston Manor Park | London |
 | Fri, 7 Aug 2026 | Parc del Fòrum | Barcelona |
 | Sat, 15 Aug 2026 | Hï Ibiza | Ibiza |
+| Sat, 24 Oct 2026 | NDSM Scheepsbouwloods | Amsterdam |
 
 ## Recently played
 
@@ -27,4 +28,4 @@ JAMIIE is a house and techno artist tracked on soundcheck, with 95 sets logged a
 
 Black Coffee, Âme, Jimi Jules
 
-*Updated Sat, 25 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/jamiie/)*
+*Updated Sun, 26 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/jamiie/)*

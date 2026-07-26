@@ -1,6 +1,6 @@
 # Mad Rey
 
-Mad Rey is a House and Electro artist with 2 upcoming club dates listed on soundcheck as of Sat, 25 Jul 2026, next at Quinta do Miratejo, Lisbon on Sun, 26 Jul 2026.
+Mad Rey is a House and Electro artist with 2 upcoming club dates listed on soundcheck as of Sun, 26 Jul 2026, next at Quinta do Miratejo, Lisbon on Sun, 26 Jul 2026.
 
 Mad Rey is a house and electro artist tracked on soundcheck, with 55 sets logged across Berlin, Geneva, Lisbon and London and 3 more. Often billed alongside Mézigue, GGGG and Flabaire. Next up: Quinta do Miratejo, Lisbon on Sun 26 Jul.
 
@@ -26,4 +26,4 @@ Mad Rey is a house and electro artist tracked on soundcheck, with 55 sets logged
 
 Mézigue, GGGG, Flabaire
 
-*Updated Sat, 25 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/madrey/)*
+*Updated Sun, 26 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/madrey/)*

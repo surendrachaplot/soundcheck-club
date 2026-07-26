@@ -1,6 +1,6 @@
 # Dômesicle x Homegrown Harvest — DJ Nobu (JP) • dileta at Société des arts technologiques
 
-Dômesicle x Homegrown Harvest — DJ Nobu (JP) • dileta at Société des arts technologiques on Fri 21 Aug, Montreal. 2 acts on the bill: DJ Nobu and dileta. Techno and Bass. Preview the line-up and save it on soundcheck.
+Dômesicle x Homegrown Harvest — DJ Nobu (JP) • dileta at Société des arts technologiques on Fri 21 Aug, Montreal. 2 acts on the bill: dileta and DJ Nobu. Techno and Bass. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,7 +10,7 @@ Dômesicle x Homegrown Harvest — DJ Nobu (JP) • dileta at Société des arts
 
 ## Line-up
 
-- DJ Nobu
 - dileta
+- DJ Nobu
 
 *Source: [soundcheck](https://soundcheck.club/e/2440659-d-mesicle-x-homegrown-harvest-dj-nobu-jp-dileta-at-soci-t-de/)*

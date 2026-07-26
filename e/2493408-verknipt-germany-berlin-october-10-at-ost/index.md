@@ -1,6 +1,6 @@
 # VERKNIPT Germany - Berlin - October 10 at OST
 
-VERKNIPT Germany - Berlin - October 10 at OST on Sat 10 Oct, Berlin. 7 acts on the bill: ANXHELA, BOVSKI, Blossmbae and Juno (NY) and 3 more. Techno. Preview the line-up and save it on soundcheck.
+VERKNIPT Germany - Berlin - October 10 at OST on Sat 10 Oct, Berlin. 7 acts on the bill: ANXHELA, Blossmbae, BOVSKI and Juno (NY) and 3 more. Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -11,8 +11,8 @@ VERKNIPT Germany - Berlin - October 10 at OST on Sat 10 Oct, Berlin. 7 acts on t
 ## Line-up
 
 - ANXHELA
-- BOVSKI
 - Blossmbae
+- BOVSKI
 - Juno (NY)
 - KLOUD
 - Maudux

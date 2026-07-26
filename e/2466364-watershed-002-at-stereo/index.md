@@ -1,6 +1,6 @@
 # WATERSHED 002 at Stereo
 
-WATERSHED 002 at Stereo on Sat 15 Aug, Glasgow. 5 acts on the bill: Hollyamorous, Justyyna, MMS (2) and Shelle.y and 1 more. Club. Preview the line-up and save it on soundcheck.
+WATERSHED 002 at Stereo on Sat 15 Aug, Glasgow. 5 acts on the bill: eurokels, Hollyamorous, Justyyna and MMS (2) and 1 more. Club. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,10 +10,10 @@ WATERSHED 002 at Stereo on Sat 15 Aug, Glasgow. 5 acts on the bill: Hollyamorous
 
 ## Line-up
 
+- eurokels
 - Hollyamorous
 - Justyyna
 - MMS (2)
 - Shelle.y
-- eurokels
 
 *Source: [soundcheck](https://soundcheck.club/e/2466364-watershed-002-at-stereo/)*

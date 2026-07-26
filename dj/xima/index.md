@@ -1,14 +1,13 @@
 # XIMA
 
-XIMA is a Techno and Trance artist with 8 upcoming club dates listed on soundcheck as of Sat, 25 Jul 2026, next at elipamanoke, Leipzig on Sat, 25 Jul 2026.
+XIMA is a Techno and Trance artist with 7 upcoming club dates listed on soundcheck as of Sun, 26 Jul 2026, next at Lokschuppen Berlin, Berlin on Fri, 31 Jul 2026.
 
-XIMA is a techno and trance artist tracked on soundcheck, with 120 sets logged across Berlin, Leipzig and Munich. Often billed alongside HØLLE (2), DJ TIPSTER and YOVA. Next up: elipamanoke, Leipzig on Sat 25 Jul.
+XIMA is a techno and trance artist tracked on soundcheck, with 120 sets logged across Berlin, Leipzig and Munich. Often billed alongside HØLLE (2), DJ TIPSTER and YOVA. Next up: Lokschuppen Berlin, Berlin on Fri 31 Jul.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 25 Jul 2026 | elipamanoke | Leipzig |
 | Fri, 31 Jul 2026 | Lokschuppen Berlin | Berlin |
 | Sat, 1 Aug 2026 | Lokschuppen Berlin | Berlin |
 | Thu, 6 Aug 2026 | TBA - Near Berlin (Secret Forest) | Berlin |
@@ -19,6 +18,7 @@ XIMA is a techno and trance artist tracked on soundcheck, with 120 sets logged a
 
 ## Recently played
 
+- elipamanoke, Leipzig — Sat, 25 Jul 2026
 - Lokschuppen Berlin, Berlin — Sun, 19 Jul 2026
 - OST, Berlin — Sat, 18 Jul 2026
 - Lokschuppen Berlin, Berlin — Fri, 12 Jun 2026
@@ -26,10 +26,9 @@ XIMA is a techno and trance artist tracked on soundcheck, with 120 sets logged a
 - OST, Berlin — Fri, 29 May 2026
 - Lokschuppen Berlin, Berlin — Fri, 22 May 2026
 - Else, Berlin — Fri, 15 May 2026
-- ÆDEN, Berlin — Sat, 2 May 2026
 
 ## Shares bills with
 
 HØLLE (2), DJ TIPSTER, YOVA
 
-*Updated Sat, 25 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/xima/)*
+*Updated Sun, 26 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/xima/)*

@@ -1,6 +1,6 @@
 # Bloom Sound 3rd Birthday w/ Chris Brooks, Brandon Tourle, Diego Gee (Tech House All Day Long) at Bermondsey Social Club
 
-Bloom Sound 3rd Birthday w/ Chris Brooks, Brandon Tourle, Diego Gee (Tech House All Day Long) at Bermondsey Social Club on Sat 12 Sept, London. 6 acts on the bill: Brandon Tourle, Chris Brooks, DRIA and Diego Gee and 2 more. Tech House. Preview the line-up and save it on soundcheck.
+Bloom Sound 3rd Birthday w/ Chris Brooks, Brandon Tourle, Diego Gee (Tech House All Day Long) at Bermondsey Social Club on Sat 12 Sept, London. 6 acts on the bill: Brandon Tourle, Chris Brooks, Diego Gee and DRIA and 2 more. Tech House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -12,8 +12,8 @@ Bloom Sound 3rd Birthday w/ Chris Brooks, Brandon Tourle, Diego Gee (Tech House 
 
 - Brandon Tourle
 - Chris Brooks
-- DRIA
 - Diego Gee
+- DRIA
 - KOLO
 - MiddleGround
 

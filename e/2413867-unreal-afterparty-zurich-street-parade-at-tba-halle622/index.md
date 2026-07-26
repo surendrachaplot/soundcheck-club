@@ -1,6 +1,6 @@
 # UNREAL @Afterparty Zurich Street-Parade at TBA - // HALLE622
 
-UNREAL @Afterparty Zurich Street-Parade at TBA - // HALLE622 on Sat 8 Aug, Zurich. 5 acts on the bill: Adrian Mills, Cloudy, GIØ (1) and KUKO and 1 more. Techno. Preview the line-up and save it on soundcheck.
+UNREAL @Afterparty Zurich Street-Parade at TBA - // HALLE622 on Sat 8 Aug, Zurich. 5 acts on the bill: Adrian Mills, Cloudy, dasstudach and GIØ (1) and 1 more. Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -12,8 +12,8 @@ UNREAL @Afterparty Zurich Street-Parade at TBA - // HALLE622 on Sat 8 Aug, Zuric
 
 - Adrian Mills
 - Cloudy
+- dasstudach
 - GIØ (1)
 - KUKO
-- dasstudach
 
 *Source: [soundcheck](https://soundcheck.club/e/2413867-unreal-afterparty-zurich-street-parade-at-tba-halle622/)*

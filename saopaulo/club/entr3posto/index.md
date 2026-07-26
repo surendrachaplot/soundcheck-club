@@ -1,6 +1,6 @@
 # Entr3posto
 
-Entr3posto is a music venue in Sao Paulo with 1 upcoming night listed on soundcheck as of Sat, 25 Jul 2026; the next is "FILHES" on Fri, 31 Jul 2026.
+Entr3posto is a music venue in Sao Paulo with 1 upcoming night listed on soundcheck as of Sun, 26 Jul 2026; the next is "FILHES" on Fri, 31 Jul 2026.
 
 Entr3posto is a music venue in Saopaulo listed on soundcheck. 1 upcoming night. Browse upcoming dates, start times and who's playing. R. Barra Funda, 298 - Barra Funda, São Paulo - SP, 01152-000, Brasil.
 
@@ -14,4 +14,4 @@ Entr3posto is a music venue in Saopaulo listed on soundcheck. 1 upcoming night. 
 
 R. Barra Funda, 298 - Barra Funda, São Paulo - SP, 01152-000, Brasil, Sao Paulo
 
-*Updated Sat, 25 Jul 2026 · source: [soundcheck](https://soundcheck.club/saopaulo/club/entr3posto/)*
+*Updated Sun, 26 Jul 2026 · source: [soundcheck](https://soundcheck.club/saopaulo/club/entr3posto/)*

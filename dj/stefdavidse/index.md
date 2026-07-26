@@ -1,14 +1,13 @@
 # Stef Davidse
 
-Stef Davidse is a House and Tech House artist with 5 upcoming club dates listed on soundcheck as of Sat, 25 Jul 2026, next at Oranjepark, Rotterdam on Sat, 25 Jul 2026.
+Stef Davidse is a House and Tech House artist with 4 upcoming club dates listed on soundcheck as of Sun, 26 Jul 2026, next at Lab11, Birmingham on Sat, 8 Aug 2026.
 
-Stef Davidse is a house and tech house artist tracked on soundcheck, with 87 sets logged across Amsterdam, Barcelona, Birmingham and Cardiff and 14 more. Often billed alongside Ryan Resso, Chopper (UK) and FINKY. Next up: Oranjepark, Rotterdam on Sat 25 Jul.
+Stef Davidse is a house and tech house artist tracked on soundcheck, with 87 sets logged across Amsterdam, Barcelona, Birmingham and Cardiff and 14 more. Often billed alongside Ryan Resso, Chopper (UK) and FINKY. Next up: Lab11, Birmingham on Sat 8 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 25 Jul 2026 | Oranjepark | Rotterdam |
 | Sat, 8 Aug 2026 | Lab11 | Birmingham |
 | Sun, 16 Aug 2026 | Thuishaven | Amsterdam |
 | Wed, 19 Aug 2026 | [UNVRS] | Ibiza |
@@ -16,6 +15,7 @@ Stef Davidse is a house and tech house artist tracked on soundcheck, with 87 set
 
 ## Recently played
 
+- Oranjepark, Rotterdam — Sat, 25 Jul 2026
 - Colorado Charlie, The Hague — Fri, 26 Jun 2026
 - Atlantic Club, Barcelona — Fri, 19 Jun 2026
 - Steelyard Kelham, Sheffield — Sat, 13 Jun 2026
@@ -23,10 +23,9 @@ Stef Davidse is a house and tech house artist tracked on soundcheck, with 87 set
 - Hï Ibiza, Ibiza — Tue, 9 Jun 2026
 - Gianca - Murazzi, Turin — Fri, 29 May 2026
 - Cova Santa, Ibiza — Thu, 28 May 2026
-- Cova Santa, Ibiza — Thu, 28 May 2026
 
 ## Shares bills with
 
 Ryan Resso, Chopper (UK), FINKY
 
-*Updated Sat, 25 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/stefdavidse/)*
+*Updated Sun, 26 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/stefdavidse/)*

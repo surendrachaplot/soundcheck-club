@@ -1,6 +1,6 @@
 # White Peach: Day Party at The Carpet Shop
 
-White Peach: Day Party at The Carpet Shop on Sun 23 Aug, London. 7 acts on the bill: Boofy, GUNS, Gundam (UK) and Mystic State and 3 more. Dubstep and EBM. Preview the line-up and save it on soundcheck.
+White Peach: Day Party at The Carpet Shop on Sun 23 Aug, London. 7 acts on the bill: Boofy, Gundam (UK), GUNS and Mystic State and 3 more. Dubstep and EBM. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -11,8 +11,8 @@ White Peach: Day Party at The Carpet Shop on Sun 23 Aug, London. 7 acts on the b
 ## Line-up
 
 - Boofy
-- GUNS
 - Gundam (UK)
+- GUNS
 - Mystic State
 - Ourman
 - Yoofee

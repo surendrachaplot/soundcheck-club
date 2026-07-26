@@ -19,8 +19,8 @@ Het Systeem at TBA - Deventer Outdoor | Molbergsweg 3c  on Fri 7 Aug, Amsterdam.
 - Ogazón
 - Pariah
 - Rene Wise
-- STERAC
 - Sandrien
+- STERAC
 - upsammy
 
 *Source: [soundcheck](https://soundcheck.club/e/2363397-het-systeem-at-tba-deventer-outdoor-molbergsweg-3c/)*

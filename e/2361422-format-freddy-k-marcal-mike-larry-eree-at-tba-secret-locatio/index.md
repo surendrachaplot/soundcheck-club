@@ -1,6 +1,6 @@
 # FORMAT: Freddy K / Marcal / Mike Larry / eRee at TBA - Secret Location
 
-FORMAT: Freddy K / Marcal / Mike Larry / eRee at TBA - Secret Location on Fri 18 Sept, Toronto. 4 acts on the bill: Freddy K, Marcal, Mike Larry and eRee. Techno. Preview the line-up and save it on soundcheck.
+FORMAT: Freddy K / Marcal / Mike Larry / eRee at TBA - Secret Location on Fri 18 Sept, Toronto. 4 acts on the bill: eRee, Freddy K, Marcal and Mike Larry. Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,9 +10,9 @@ FORMAT: Freddy K / Marcal / Mike Larry / eRee at TBA - Secret Location on Fri 18
 
 ## Line-up
 
+- eRee
 - Freddy K
 - Marcal
 - Mike Larry
-- eRee
 
 *Source: [soundcheck](https://soundcheck.club/e/2361422-format-freddy-k-marcal-mike-larry-eree-at-tba-secret-locatio/)*

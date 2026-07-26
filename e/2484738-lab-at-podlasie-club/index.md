@@ -1,6 +1,6 @@
 # LAB at Podlasie Club
 
-LAB at Podlasie Club on Thu 20 Aug, Chicago. 3 acts on the bill: Mina Mills, R°sha and easygoingtech. Techno and Electro. Preview the line-up and save it on soundcheck.
+LAB at Podlasie Club on Thu 20 Aug, Chicago. 3 acts on the bill: easygoingtech, Mina Mills and R°sha. Techno and Electro. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,8 +10,8 @@ LAB at Podlasie Club on Thu 20 Aug, Chicago. 3 acts on the bill: Mina Mills, R°
 
 ## Line-up
 
+- easygoingtech
 - Mina Mills
 - R°sha
-- easygoingtech
 
 *Source: [soundcheck](https://soundcheck.club/e/2484738-lab-at-podlasie-club/)*

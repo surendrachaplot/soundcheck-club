@@ -1,6 +1,6 @@
 # Schwing und Stampf Festival 2026 at TBA - Schwing und Stampf Festival
 
-Schwing und Stampf Festival 2026 at TBA - Schwing und Stampf Festival on Thu 27 Aug, Zurich. 65 acts on the bill: ADO (DE), Add FM, Ado and Aldonna and 61 more. Preview the line-up and save it on soundcheck.
+Schwing und Stampf Festival 2026 at TBA - Schwing und Stampf Festival on Thu 27 Aug, Zurich. 65 acts on the bill: Add FM, Ado, ADO (DE) and aheadacheaday and 61 more. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,32 +10,35 @@ Schwing und Stampf Festival 2026 at TBA - Schwing und Stampf Festival on Thu 27 
 
 ## Line-up
 
-- ADO (DE)
 - Add FM
 - Ado
+- ADO (DE)
+- aheadacheaday
 - Aldonna
 - Atrice
 - Bennet (DE)
+- bergmans
 - Bleach
 - Blue Hour
 - Bowmore
 - Bradley Zero
 - Byron Yeates
-- CLAIR (BAI)
-- CRi
 - Cindy (CH)
+- CLAIR (BAI)
 - Courtesy
+- CRi
 - Danny Daze
 - Das Firmament
 - Denzel
+- djfix
 - Dr. Rubinstein
 - Ecar
 - Elin
 - Elsa (CH)
 - Emma Caers
-- FTACOS34
 - Fantastic Man
 - Flo Dalton
+- FTACOS34
 - Introspekt
 - Jan Loup
 - Jek (US)
@@ -57,6 +60,7 @@ Schwing und Stampf Festival 2026 at TBA - Schwing und Stampf Festival on Thu 27 
 - Paloma
 - Phrex
 - Playlove
+- raging moms
 - RHR
 - Richard Odoi
 - Roza Terenzi
@@ -71,9 +75,5 @@ Schwing und Stampf Festival 2026 at TBA - Schwing und Stampf Festival on Thu 27 
 - Violently Happy
 - Woody92
 - Zsófi
-- aheadacheaday
-- bergmans
-- djfix
-- raging moms
 
 *Source: [soundcheck](https://soundcheck.club/e/2376917-schwing-und-stampf-festival-2026-at-tba-schwing-und-stampf-f/)*

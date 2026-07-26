@@ -1,6 +1,6 @@
 # Brunch Electronik Festival 2026 - 7, 8 & 9 de agosto 2026 at Parc del Fòrum
 
-Brunch Electronik Festival 2026 - 7, 8 & 9 de agosto 2026 at Parc del Fòrum on Fri 7 Aug, Barcelona. 52 acts on the bill: 999999999, AMÉMÉ, Acid Arab and BASHKKA and 48 more. Preview the line-up and save it on soundcheck.
+Brunch Electronik Festival 2026 - 7, 8 & 9 de agosto 2026 at Parc del Fòrum on Fri 7 Aug, Barcelona. 52 acts on the bill: 999999999, Acid Arab, Âme and AMÉMÉ and 48 more. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -11,8 +11,9 @@ Brunch Electronik Festival 2026 - 7, 8 & 9 de agosto 2026 at Parc del Fòrum on 
 ## Line-up
 
 - 999999999
-- AMÉMÉ
 - Acid Arab
+- Âme
+- AMÉMÉ
 - BASHKKA
 - BIXBITA
 - Brieela
@@ -20,15 +21,16 @@ Brunch Electronik Festival 2026 - 7, 8 & 9 de agosto 2026 at Parc del Fòrum on 
 - Chaos In The CBD
 - Deborah De Luca
 - Deer Jade
+- dj sweet6teen
 - Doudou MD
 - Enzo Siragusa
 - Eric Prydz
 - Floating Points
 - I Hate Models
-- INEXXSTABLE
 - Ignez
-- JAMIIE
+- INEXXSTABLE
 - Jamie Jones
+- JAMIIE
 - Jeff Mills
 - Jen Cardini
 - Julian Anthony
@@ -38,8 +40,8 @@ Brunch Electronik Festival 2026 - 7, 8 & 9 de agosto 2026 at Parc del Fòrum on 
 - Klara Missyle
 - LP Giobbi
 - Luciano
-- MARRØN
 - Marian Ariss
+- MARRØN
 - Massano
 - Mau P
 - Max Dean
@@ -51,16 +53,14 @@ Brunch Electronik Festival 2026 - 7, 8 & 9 de agosto 2026 at Parc del Fòrum on 
 - Parra for Cuva
 - Paul Kalkbrenner
 - Rødhåd
-- SNTS
-- SYREETA
 - Sally C
 - Seth Troxler
 - Shanti Celeste
+- SNTS
+- SYREETA
 - The Blaze
 - Trikk
 - Wade
 - Yu Su
-- dj sweet6teen
-- Âme
 
 *Source: [soundcheck](https://soundcheck.club/e/2234024-brunch-electronik-festival-2026-7-8-9-de-agosto-2026-at-parc/)*

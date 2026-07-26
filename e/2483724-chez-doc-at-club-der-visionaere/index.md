@@ -15,7 +15,7 @@ Chez Doc at Club der Visionaere on Tue 28 Jul, Berlin. 7 acts on the bill: Akaj,
 - GRETA (2)
 - Jazz (AU)
 - Keras
-- VIKk
 - ki:ke
+- VIKk
 
 *Source: [soundcheck](https://soundcheck.club/e/2483724-chez-doc-at-club-der-visionaere/)*

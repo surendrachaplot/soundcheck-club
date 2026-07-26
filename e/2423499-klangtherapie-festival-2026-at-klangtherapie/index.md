@@ -18,14 +18,16 @@ Klangtherapie Festival 2026 on Thu 6 Aug, Nurnberg. 27 acts on the bill: Avocado
 - DJ G-PUNKT
 - Dominik Eulberg
 - Ele Luz
-- FLAVE
 - Felix Eul
+- FLAVE
 - Francesca
 - Frida Darko
 - Horst Haller
 - J.WOCKENFUSS
 - JakoJako
 - Kalipo
+- lil.lili
+- lisa luka
 - Marie Mackerschreck
 - Mona Moore
 - Moritz Butschek
@@ -35,7 +37,5 @@ Klangtherapie Festival 2026 on Thu 6 Aug, Nurnberg. 27 acts on the bill: Avocado
 - Rachel Raw
 - Susi&Paula
 - Urban
-- lil.lili
-- lisa luka
 
 *Source: [soundcheck](https://soundcheck.club/e/2423499-klangtherapie-festival-2026-at-klangtherapie/)*

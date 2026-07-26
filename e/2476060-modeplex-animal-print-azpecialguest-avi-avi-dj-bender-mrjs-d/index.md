@@ -1,6 +1,6 @@
 # Modeplex / Animal Print / Azpecialguest / AVI.avi / DJ BENDER / mrjs.ddk at Culture Box
 
-Modeplex / Animal Print / Azpecialguest / AVI.avi / DJ BENDER / mrjs.ddk at Culture Box on Fri 7 Aug, Copenhagen. 6 acts on the bill: AVI.avi, Animal Print, Azpecialguest and DJ BENDER and 2 more. Techno and House. Preview the line-up and save it on soundcheck.
+Modeplex / Animal Print / Azpecialguest / AVI.avi / DJ BENDER / mrjs.ddk at Culture Box on Fri 7 Aug, Copenhagen. 6 acts on the bill: Animal Print, AVI.avi, Azpecialguest and DJ BENDER and 2 more. Techno and House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,8 +10,8 @@ Modeplex / Animal Print / Azpecialguest / AVI.avi / DJ BENDER / mrjs.ddk at Cult
 
 ## Line-up
 
-- AVI.avi
 - Animal Print
+- AVI.avi
 - Azpecialguest
 - DJ BENDER
 - Modeplex

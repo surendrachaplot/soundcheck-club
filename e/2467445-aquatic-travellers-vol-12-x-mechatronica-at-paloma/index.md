@@ -1,6 +1,6 @@
 # Aquatic Travellers Vol. 12 x Mechatronica at Paloma
 
-Aquatic Travellers Vol. 12 x Mechatronica at Paloma on Sat 29 Aug, Berlin. 4 acts on the bill: Black Mirror Park, Milan Hermess, bb:fm and mu”he. Electro. Preview the line-up and save it on soundcheck.
+Aquatic Travellers Vol. 12 x Mechatronica at Paloma on Sat 29 Aug, Berlin. 4 acts on the bill: bb:fm, Black Mirror Park, Milan Hermess and mu”he. Electro. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,9 +10,9 @@ Aquatic Travellers Vol. 12 x Mechatronica at Paloma on Sat 29 Aug, Berlin. 4 act
 
 ## Line-up
 
+- bb:fm
 - Black Mirror Park
 - Milan Hermess
-- bb:fm
 - mu”he
 
 *Source: [soundcheck](https://soundcheck.club/e/2467445-aquatic-travellers-vol-12-x-mechatronica-at-paloma/)*

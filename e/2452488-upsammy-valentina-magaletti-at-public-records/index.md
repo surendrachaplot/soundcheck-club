@@ -1,6 +1,6 @@
 # upsammy & Valentina Magaletti at public records
 
-upsammy & Valentina Magaletti at public records on Sat 19 Sept, Newyorkcity. 2 acts on the bill: Valentina Magaletti and upsammy. Experimental. Preview the line-up and save it on soundcheck.
+upsammy & Valentina Magaletti at public records on Sat 19 Sept, Newyorkcity. 2 acts on the bill: upsammy and Valentina Magaletti. Experimental. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,7 +10,7 @@ upsammy & Valentina Magaletti at public records on Sat 19 Sept, Newyorkcity. 2 a
 
 ## Line-up
 
-- Valentina Magaletti
 - upsammy
+- Valentina Magaletti
 
 *Source: [soundcheck](https://soundcheck.club/e/2452488-upsammy-valentina-magaletti-at-public-records/)*

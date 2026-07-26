@@ -14,12 +14,12 @@ New Ruins: Lubber Fiend Festival at The Lubber Fiend on Thu 17 Sept, Newcastle. 
 - Cowper
 - Devon Rexi
 - Elena Colombi
+- i-sha
 - Maria W Horn
 - Philipp Otterbach
 - Rashad Becker
 - Rezzett
 - Vanity Productions
 - Voice Actor
-- i-sha
 
 *Source: [soundcheck](https://soundcheck.club/e/2402983-new-ruins-lubber-fiend-festival-at-the-lubber-fiend/)*

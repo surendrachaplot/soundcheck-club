@@ -1,14 +1,13 @@
 # SOBs
 
-SOBs is a music venue in New York City with 11 upcoming nights listed on soundcheck as of Sat, 25 Jul 2026; the next is "Lenexx" on Sat, 25 Jul 2026.
+SOBs is a music venue in New York City with 10 upcoming nights listed on soundcheck as of Sun, 26 Jul 2026; the next is "Lisha G: Live in NYC" on Sun, 26 Jul 2026.
 
-SOBs is a music venue in Newyorkcity listed on soundcheck. 11 upcoming nights, with line-ups including DJ Vega and OatMilk. Browse upcoming dates, start times and who's playing. 204 Varick Street, New York, NY 10014-4810, USA.
+SOBs is a music venue in Newyorkcity listed on soundcheck. 10 upcoming nights, with line-ups including DJ Vega and OatMilk. Browse upcoming dates, start times and who's playing. 204 Varick Street, New York, NY 10014-4810, USA.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Sat, 25 Jul 2026 | Lenexx |  |
 | Sun, 26 Jul 2026 | Lisha G: Live in NYC |  |
 | Tue, 28 Jul 2026 | Música For Venezuela: Benefit Concert Supporting Venezuela |  |
 | Wed, 29 Jul 2026 | On the Floor: intimate R&B sets by Avara, Akshara, Aashika Reddy |  |
@@ -18,9 +17,10 @@ SOBs is a music venue in Newyorkcity listed on soundcheck. 11 upcoming nights, w
 | Fri, 7 Aug 2026 | Dominican Nights at SOB's: 100% Dembow | OatMilk |
 | Fri, 14 Aug 2026 | Otis Kane |  |
 | Thu, 20 Aug 2026 | Rival Battle: Pokemon Rap Concert | DJ Vega |
+| Sat, 12 Sept 2026 | Surfistas del Sistema |  |
 
 ## Address
 
 204 Varick Street, New York, NY 10014-4810, USA, New York City
 
-*Updated Sat, 25 Jul 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/sobs/)*
+*Updated Sun, 26 Jul 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/sobs/)*

@@ -1,6 +1,6 @@
 # Dekmantel Festival 2026 - Friday at Amsterdamse Bos
 
-Dekmantel Festival 2026 - Friday at Amsterdamse Bos on Fri 31 Jul, Amsterdam. 54 acts on the bill: Actress, Beste Hira, Bitter Babe and Blasha & Allatt and 50 more. Techno and House. Preview the line-up and save it on soundcheck.
+Dekmantel Festival 2026 - Friday at Amsterdamse Bos on Fri 31 Jul, Amsterdam. 53 acts on the bill: Actress, Beste Hira, Bitter Babe and Blasha & Allatt and 49 more. Techno and House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -17,11 +17,10 @@ Dekmantel Festival 2026 - Friday at Amsterdamse Bos on Fri 31 Jul, Amsterdam. 54
 - Cari Lekebusch
 - Carl Craig
 - Christian AB
-- Christian AB
 - DAX J
-- DJ Sprinkles
 - Dekmantel Soundsystem
 - Dino Sabatini
+- DJ Sprinkles
 - Dr. Rubinstein
 - Efdemin
 - Ellen Allien
@@ -36,12 +35,14 @@ Dekmantel Festival 2026 - Friday at Amsterdamse Bos on Fri 31 Jul, Amsterdam. 54
 - Jyoty
 - Katatonic Silentio
 - Kuniyuki
+- livwutang
 - Lord Tusk
 - Luigi Tozzi
+- mad miran
 - Mike Parker
-- NIKS
 - Nala Brown
 - Nídia
+- NIKS
 - Objekt
 - Olof Dreijer
 - Polygonia
@@ -51,8 +52,8 @@ Dekmantel Festival 2026 - Friday at Amsterdamse Bos on Fri 31 Jul, Amsterdam. 54
 - Ron Trent
 - Rozaly
 - Ryan Elliott
-- SHERELLE
 - Satoshi Tomiie
+- SHERELLE
 - Skin On Skin
 - Skrillex
 - Speedy J
@@ -62,7 +63,5 @@ Dekmantel Festival 2026 - Friday at Amsterdamse Bos on Fri 31 Jul, Amsterdam. 54
 - Sybil
 - T.NO
 - Underground Resistance
-- livwutang
-- mad miran
 
 *Source: [soundcheck](https://soundcheck.club/e/2444343-dekmantel-festival-2026-friday-at-amsterdamse-bos/)*

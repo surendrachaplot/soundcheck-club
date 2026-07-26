@@ -18,7 +18,7 @@ NO BPM LIMIT, techno afterparty, Saturday night / Sunday morning from 1am till 1
 - SHARKA
 - Skav
 - Steve Andrew
-- XS BULLY
 - trashedbaby
+- XS BULLY
 
 *Source: [soundcheck](https://soundcheck.club/e/2478376-no-bpm-limit-techno-afterparty-saturday-night-sunday-morning/)*

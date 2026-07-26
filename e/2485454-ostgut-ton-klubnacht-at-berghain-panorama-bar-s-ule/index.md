@@ -24,11 +24,11 @@ Ostgut Ton Klubnacht at Berghain | Panorama Bar | Säule on Sat 8 Aug, Berlin. 2
 - Lakuti
 - Luke Slater
 - Marcel Dettmann
+- nd_baumecker
 - Nick Höppner
 - Quelza
 - Steffi
 - Tama Sumo
 - Virginia
-- nd_baumecker
 
 *Source: [soundcheck](https://soundcheck.club/e/2485454-ostgut-ton-klubnacht-at-berghain-panorama-bar-s-ule/)*

@@ -1,6 +1,6 @@
 # Scott Grooves, Jenifa Mayanja / Julion D'Angelo, k.tea / DJ Nyack at public records
 
-Scott Grooves, Jenifa Mayanja / Julion D'Angelo, k.tea / DJ Nyack at public records on Sat 1 Aug, Newyorkcity. 4 acts on the bill: Jenifa Mayanja, Julion De'Angelo, Scott Grooves and k.tea. Deep House. Preview the line-up and save it on soundcheck.
+Scott Grooves, Jenifa Mayanja / Julion D'Angelo, k.tea / DJ Nyack at public records on Sat 1 Aug, Newyorkcity. 4 acts on the bill: Jenifa Mayanja, Julion De'Angelo, k.tea and Scott Grooves. Deep House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -12,7 +12,7 @@ Scott Grooves, Jenifa Mayanja / Julion D'Angelo, k.tea / DJ Nyack at public reco
 
 - Jenifa Mayanja
 - Julion De'Angelo
-- Scott Grooves
 - k.tea
+- Scott Grooves
 
 *Source: [soundcheck](https://soundcheck.club/e/2477909-scott-grooves-jenifa-mayanja-julion-d-angelo-k-tea-dj-nyack/)*

@@ -1,6 +1,6 @@
 # WUB, Amour Africain & Delírio present: at Maaya
 
-WUB, Amour Africain & Delírio present: at Maaya on Sun 2 Aug, Berlin. 5 acts on the bill: DJ STRAIGHT GIRL, JCow, SXCL and dj latinchat and 1 more. Bass and Gqom. Preview the line-up and save it on soundcheck.
+WUB, Amour Africain & Delírio present: at Maaya on Sun 2 Aug, Berlin. 5 acts on the bill: dj latinchat, DJ STRAIGHT GIRL, JCow and sin serif and 1 more. Bass and Gqom. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,10 +10,10 @@ WUB, Amour Africain & Delírio present: at Maaya on Sun 2 Aug, Berlin. 5 acts on
 
 ## Line-up
 
+- dj latinchat
 - DJ STRAIGHT GIRL
 - JCow
-- SXCL
-- dj latinchat
 - sin serif
+- SXCL
 
 *Source: [soundcheck](https://soundcheck.club/e/2486102-wub-amour-africain-del-rio-present-at-maaya/)*

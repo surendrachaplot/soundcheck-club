@@ -1,6 +1,6 @@
 # ARCHANGEL: GIGI FM, Mama Snake B2B NENE H, kheli at Kilomètre25
 
-ARCHANGEL: GIGI FM, Mama Snake B2B NENE H, kheli at Kilomètre25 on Fri 31 Jul, Paris. 4 acts on the bill: GiGi FM, Mama Snake, Nene H and kheli. Techno. Preview the line-up and save it on soundcheck.
+ARCHANGEL: GIGI FM, Mama Snake B2B NENE H, kheli at Kilomètre25 on Fri 31 Jul, Paris. 4 acts on the bill: GiGi FM, kheli, Mama Snake and Nene H. Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -11,8 +11,8 @@ ARCHANGEL: GIGI FM, Mama Snake B2B NENE H, kheli at Kilomètre25 on Fri 31 Jul, 
 ## Line-up
 
 - GiGi FM
+- kheli
 - Mama Snake
 - Nene H
-- kheli
 
 *Source: [soundcheck](https://soundcheck.club/e/2453189-archangel-gigi-fm-mama-snake-b2b-nene-h-kheli-at-kilom-tre25/)*

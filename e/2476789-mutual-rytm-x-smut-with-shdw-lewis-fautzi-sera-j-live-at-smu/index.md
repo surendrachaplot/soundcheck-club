@@ -1,6 +1,6 @@
 # MUTUAL RYTM x SMUT with SHDW, Lewis Fautzi, Sera J LIVE at SMUT Athens
 
-MUTUAL RYTM x SMUT with SHDW, Lewis Fautzi, Sera J LIVE at SMUT Athens on Sat 12 Sept, Athens. 3 acts on the bill: Lewis Fautzi, SHDW and Sera J. Techno. Preview the line-up and save it on soundcheck.
+MUTUAL RYTM x SMUT with SHDW, Lewis Fautzi, Sera J LIVE at SMUT Athens on Sat 12 Sept, Athens. 3 acts on the bill: Lewis Fautzi, Sera J and SHDW. Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -11,7 +11,7 @@ MUTUAL RYTM x SMUT with SHDW, Lewis Fautzi, Sera J LIVE at SMUT Athens on Sat 12
 ## Line-up
 
 - Lewis Fautzi
-- SHDW
 - Sera J
+- SHDW
 
 *Source: [soundcheck](https://soundcheck.club/e/2476789-mutual-rytm-x-smut-with-shdw-lewis-fautzi-sera-j-live-at-smu/)*

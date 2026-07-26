@@ -1,15 +1,13 @@
 # ZEROTOKYO
 
-ZEROTOKYO is a music venue in Tokyo with 21 upcoming nights listed on soundcheck as of Sat, 25 Jul 2026; the next is "The Temple of Dance feat. FADERS" on Sat, 25 Jul 2026.
+ZEROTOKYO is a music venue in Tokyo with 19 upcoming nights listed on soundcheck as of Sun, 26 Jul 2026; the next is "OMEN -The Manifest- Organized by Aile The Shota × RaySTA" on Sun, 26 Jul 2026.
 
-ZEROTOKYO is a music venue in Tokyo listed on soundcheck. 21 upcoming nights, with line-ups including 6.do, AEMI, Aloetic and ASIN and 2 more. Browse upcoming dates, start times and who's playing. B1-B4 Tokyu Kabukicho Tower, 1-29-1 Kabukicho, Shinjuku-ku, Tokyo.
+ZEROTOKYO is a music venue in Tokyo listed on soundcheck. 19 upcoming nights, with line-ups including 6.do, Aloetic, ASIN and ATAMI and 2 more. Browse upcoming dates, start times and who's playing. B1-B4 Tokyu Kabukicho Tower, 1-29-1 Kabukicho, Shinjuku-ku, Tokyo.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Sat, 25 Jul 2026 | The Temple of Dance feat. FADERS | AEMI, DJ 34, Ryota |
-| Sat, 25 Jul 2026 | The Temple of Dance - A Shamanic Experience with FADERS - Also feat. GREEN MAGIC | AEMI, DJ 34, Nono THING, PUSTER, Ryota, WAKA XINXI, YOSHIMASA, Yamato |
 | Sun, 26 Jul 2026 | OMEN -The Manifest- Organized by Aile The Shota × RaySTA | Yohji Igarashi |
 | Thu, 30 Jul 2026 | ＋81 LOBBY - HIPHOP / R&B / Amapiano / Afrobeats & Latin - | KANTA, RashBone, miute |
 | Fri, 31 Jul 2026 | Locker Room feat.Lee Ann Roberts - HARD TECHNO / TECHNO - | ASIN, Aloetic, CHIKA, DALJAE, Lee Ann Roberts, O.Goo, Ryuga Nomoto, YOXIKI, YURI VALEN, YUXI |
@@ -18,9 +16,11 @@ ZEROTOKYO is a music venue in Tokyo listed on soundcheck. 21 upcoming nights, wi
 | Fri, 7 Aug 2026 | Beginning ZERO - Leotrix - DUBSTEP / BASS MUSIC - | CRAZYHYUGA, Diechi, FLATSKY, Ginji, HEAVEN'S GATE CREW, HiTOMi, Jackit, Lio555, MOOTOE, OPTIMIST, R1pq, RED-S, RION, Rikk (2), SAKO, Watei, misa² |
 | Sat, 8 Aug 2026 | BRESH - ALL MIX / EDM / HIPHOP / Latin / OPEN FORMAT / POPS / Reggaeton - |  |
 | Sun, 9 Aug 2026 | NEW EDITION | LienNaigel |
+| Mon, 10 Aug 2026 | KARASU - Nikolina / Hades / FUMI - HARD TECHNO - | FUMI, Hades, KOSHIRO, MUSCLE ∞ BROTHERS, Nikolina, STRATAH, TEI TEI, YURI VALEN, Yuoto Saito |
+| Thu, 13 Aug 2026 | VIRAL | Fuwatoro, omeme_gangimari |
 
 ## Address
 
 B1-B4 Tokyu Kabukicho Tower, 1-29-1 Kabukicho, Shinjuku-ku, Tokyo, Tokyo
 
-*Updated Sat, 25 Jul 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/zerotokyo/)*
+*Updated Sun, 26 Jul 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/zerotokyo/)*

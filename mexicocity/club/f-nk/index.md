@@ -1,14 +1,13 @@
 # Fünk
 
-Fünk is a music venue in Mexico City with 9 upcoming nights listed on soundcheck as of Sat, 25 Jul 2026; the next is "West Side Project x Anniversary" on Sat, 25 Jul 2026.
+Fünk is a music venue in Mexico City with 8 upcoming nights listed on soundcheck as of Sun, 26 Jul 2026; the next is "Concilio x Fünk" on Thu, 30 Jul 2026.
 
-Fünk is a music venue in Mexicocity listed on soundcheck. 9 upcoming nights, with line-ups including Alena Vox, Alexis Yasky, Bluecommand and Daniel Bukara and 2 more. Browse upcoming dates, start times and who's playing. Av. Insurgentes Sur 377, Hipódromo, Cuauhtémoc, 06100 Ciudad de México, CDMX, Mexico.
+Fünk is a music venue in Mexicocity listed on soundcheck. 8 upcoming nights, with line-ups including Alena Vox, Alexis Yasky, Bluecommand and Daniel Bukara and 2 more. Browse upcoming dates, start times and who's playing. Av. Insurgentes Sur 377, Hipódromo, Cuauhtémoc, 06100 Ciudad de México, CDMX, Mexico.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Sat, 25 Jul 2026 | West Side Project x Anniversary | Mina, Ëlorian |
 | Thu, 30 Jul 2026 | Concilio x Fünk | Alexis Yasky, Daniel Bukara, Harfush, Rubinskee |
 | Fri, 31 Jul 2026 | Dance Your Name x Fünk | Fig (DYN), Gog, Vanilla Storm, rodman |
 | Sat, 1 Aug 2026 | Egyptian Lover + Itzvan + Shisho | Egyptian Lover, Itzvan, Shisho |
@@ -22,4 +21,4 @@ Fünk is a music venue in Mexicocity listed on soundcheck. 9 upcoming nights, wi
 
 Av. Insurgentes Sur 377, Hipódromo, Cuauhtémoc, 06100 Ciudad de México, CDMX, Mexico, Mexico City
 
-*Updated Sat, 25 Jul 2026 · source: [soundcheck](https://soundcheck.club/mexicocity/club/f-nk/)*
+*Updated Sun, 26 Jul 2026 · source: [soundcheck](https://soundcheck.club/mexicocity/club/f-nk/)*

@@ -1,6 +1,6 @@
 # City Wall x Pride by Night at Tide Nightclub
 
-City Wall x Pride by Night at Tide Nightclub on Sat 1 Aug, Brighton. 8 acts on the bill: Døra, Just Her, Koipinoxia and Roo (1) and 4 more. Techno and Deep House. Preview the line-up and save it on soundcheck.
+City Wall x Pride by Night at Tide Nightclub on Sat 1 Aug, Brighton. 8 acts on the bill: deadright, Døra, Just Her and Koipinoxia and 4 more. Techno and Deep House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,6 +10,7 @@ City Wall x Pride by Night at Tide Nightclub on Sat 1 Aug, Brighton. 8 acts on t
 
 ## Line-up
 
+- deadright
 - Døra
 - Just Her
 - Koipinoxia
@@ -17,6 +18,5 @@ City Wall x Pride by Night at Tide Nightclub on Sat 1 Aug, Brighton. 8 acts on t
 - Ross Harper
 - Samantha Togni
 - Spinks
-- deadright
 
 *Source: [soundcheck](https://soundcheck.club/e/2478600-city-wall-x-pride-by-night-at-tide-nightclub/)*

@@ -1,6 +1,6 @@
 # rimi
 
-rimi is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Sat, 25 Jul 2026, next at West Harlem, Kyoto on Sun, 26 Jul 2026.
+rimi is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Sun, 26 Jul 2026, next at West Harlem, Kyoto on Sun, 26 Jul 2026.
 
 rimi is a techno and house artist based in Japan, tracked on soundcheck, with 51 sets logged across Kyoto, Osaka, Seoul and Tokyo. Often billed alongside Vís (1), eijin and ntank. Next up: West Harlem, Kyoto on Sun 26 Jul.
 
@@ -26,4 +26,4 @@ rimi is a techno and house artist based in Japan, tracked on soundcheck, with 51
 
 Vís (1), eijin, ntank
 
-*Updated Sat, 25 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/rimi/)*
+*Updated Sun, 26 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/rimi/)*

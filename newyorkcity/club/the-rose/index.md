@@ -1,6 +1,6 @@
 # The Rose
 
-The Rose is a music venue in New York City with 4 upcoming nights listed on soundcheck as of Sat, 25 Jul 2026; the next is "Peruvian Frequencies" on Mon, 27 Jul 2026.
+The Rose is a music venue in New York City with 4 upcoming nights listed on soundcheck as of Sun, 26 Jul 2026; the next is "Peruvian Frequencies" on Mon, 27 Jul 2026.
 
 The Rose is a music venue in Newyorkcity listed on soundcheck. 4 upcoming nights, with line-ups including Adesi, AJACENT, Gino Santos and Henry.Internet and 2 more. Browse upcoming dates, start times and who's playing. 160 W 25th St, New York, NY 10001.
 
@@ -17,4 +17,4 @@ The Rose is a music venue in Newyorkcity listed on soundcheck. 4 upcoming nights
 
 160 W 25th St, New York, NY 10001, New York City
 
-*Updated Sat, 25 Jul 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/the-rose/)*
+*Updated Sun, 26 Jul 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/the-rose/)*

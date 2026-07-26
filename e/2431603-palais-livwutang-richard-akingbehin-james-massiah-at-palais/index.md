@@ -1,6 +1,6 @@
 # Palais: livwutang & Richard Akingbehin, James Massiah at Palais
 
-Palais: livwutang & Richard Akingbehin, James Massiah on Sat 8 Aug, London. 3 acts on the bill: James Massiah, Richard Akingbehin and livwutang. Preview the line-up and save it on soundcheck.
+Palais: livwutang & Richard Akingbehin, James Massiah on Sat 8 Aug, London. 3 acts on the bill: James Massiah, livwutang and Richard Akingbehin. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -11,7 +11,7 @@ Palais: livwutang & Richard Akingbehin, James Massiah on Sat 8 Aug, London. 3 ac
 ## Line-up
 
 - James Massiah
-- Richard Akingbehin
 - livwutang
+- Richard Akingbehin
 
 *Source: [soundcheck](https://soundcheck.club/e/2431603-palais-livwutang-richard-akingbehin-james-massiah-at-palais/)*

@@ -14,7 +14,7 @@ CLB_INTRNCNL: DJ Slugo at F8 1192 Folsom on Fri 31 Jul, Sanfrancisco. 6 acts on 
 - DJ Slugo
 - Joogmac
 - Profesito
-- Sánlo
 - pxlwlkr
+- Sánlo
 
 *Source: [soundcheck](https://soundcheck.club/e/2484043-clb-intrncnl-dj-slugo-at-f8-1192-folsom/)*

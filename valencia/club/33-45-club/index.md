@@ -1,6 +1,6 @@
 # 33/45 Club
 
-33/45 Club is a music venue in Valencia with 5 upcoming nights listed on soundcheck as of Sat, 25 Jul 2026; the next is "The Dub Dispatch x 33/45" on Sun, 26 Jul 2026.
+33/45 Club is a music venue in Valencia with 5 upcoming nights listed on soundcheck as of Sun, 26 Jul 2026; the next is "The Dub Dispatch x 33/45" on Sun, 26 Jul 2026.
 
 33/45 Club is a music venue in Valencia listed on soundcheck. 5 upcoming nights, with line-ups including Ayra Nishati, Kene, Marí Kozlovska and Neonexus and 1 more. Browse upcoming dates, start times and who's playing. C/ de l'Explorador Andrés, 29, Algirós, 46022 València, Valencia.
 
@@ -18,4 +18,4 @@
 
 C/ de l'Explorador Andrés, 29, Algirós, 46022 València, Valencia, Valencia
 
-*Updated Sat, 25 Jul 2026 · source: [soundcheck](https://soundcheck.club/valencia/club/33-45-club/)*
+*Updated Sun, 26 Jul 2026 · source: [soundcheck](https://soundcheck.club/valencia/club/33-45-club/)*

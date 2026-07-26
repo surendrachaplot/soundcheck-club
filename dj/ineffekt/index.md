@@ -1,20 +1,20 @@
 # Ineffekt
 
-Ineffekt is a House and Techno artist with 4 upcoming club dates listed on soundcheck as of Sat, 25 Jul 2026, next at Fort Vechten, Utrecht on Sat, 25 Jul 2026.
+Ineffekt is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Sun, 26 Jul 2026, next at Gianpula Village, Malta on Wed, 12 Aug 2026.
 
-Ineffekt is a house and techno artist based in Netherlands, tracked on soundcheck, with 63 sets logged across Amsterdam, Antwerp, Barcelona and Basel and 9 more. Often billed alongside Avalon Emerson, Sedef Adasï and Elias Mazian. Next up: Fort Vechten, Utrecht on Sat 25 Jul.
+Ineffekt is a house and techno artist based in Netherlands, tracked on soundcheck, with 63 sets logged across Amsterdam, Antwerp, Barcelona and Basel and 9 more. Often billed alongside Avalon Emerson, Sedef Adasï and Elias Mazian. Next up: Gianpula Village, Malta on Wed 12 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 25 Jul 2026 | Fort Vechten | Utrecht |
 | Wed, 12 Aug 2026 | Gianpula Village | Malta |
 | Fri, 23 Oct 2026 | Bajes Amsterdam | Amsterdam |
 | Fri, 23 Oct 2026 | Het Rijk van de Keizer | Amsterdam |
 
 ## Recently played
 
+- Fort Vechten, Utrecht — Sat, 25 Jul 2026
 - Radio Radio, Amsterdam — Fri, 3 Jul 2026
 - Common Market, Belfast — Sat, 30 May 2026
 - Titanic Slipways, Belfast — Fri, 29 May 2026
@@ -22,10 +22,9 @@ Ineffekt is a house and techno artist based in Netherlands, tracked on soundchec
 - Het Twiske, Amsterdam — Sat, 23 May 2026
 - Badaboum, Paris — Thu, 21 May 2026
 - NDSM Scheepsbouwloods, Amsterdam — Sun, 5 Apr 2026
-- The Carpet Shop, London — Fri, 30 Jan 2026
 
 ## Shares bills with
 
 Avalon Emerson, Sedef Adasï, Elias Mazian
 
-*Updated Sat, 25 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/ineffekt/)*
+*Updated Sun, 26 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/ineffekt/)*

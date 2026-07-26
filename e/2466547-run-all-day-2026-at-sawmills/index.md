@@ -34,9 +34,9 @@ Run All Day 2026 at Sawmills on Sat 12 Sept, Bristol. 30 acts on the bill: A.M.C
 - Phantom
 - Problem Central
 - Roni Size
+- Scuffed
 - SL8R
 - SMG (UK)
-- Scuffed
 - Sukh Knight
 - TC
 - Turno

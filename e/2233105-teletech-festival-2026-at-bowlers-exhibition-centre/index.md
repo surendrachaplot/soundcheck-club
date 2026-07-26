@@ -19,7 +19,9 @@ Teletech FESTIVAL 2026 at Bowlers Exhibition Centre on Sat 1 Aug, Manchester. 36
 - Cara Elizabeth
 - Cloudy
 - Cybersex
+- davyboi
 - DJ Cringey
+- elMefti
 - EMILIJA
 - Evissimax
 - Faster Horses
@@ -28,23 +30,21 @@ Teletech FESTIVAL 2026 at Bowlers Exhibition Centre on Sat 1 Aug, Manchester. 36
 - Helena Lauwaert
 - IDEMI
 - KARAH
+- Kill the Void
 - KLOFAMA
 - KRUELTY
-- Kill the Void
 - Kyle Starkey
 - LAMMER
 - Onlynumbers
 - Restricted
 - Russian Village Boys
+- SaltySis
 - SIKOTI
 - SLVL
-- SaltySis
 - Subtrax
 - TOXIMAMI
+- ÜBERKIKZ
 - Vendex
 - Vieze Asbak
-- davyboi
-- elMefti
-- ÜBERKIKZ
 
 *Source: [soundcheck](https://soundcheck.club/e/2233105-teletech-festival-2026-at-bowlers-exhibition-centre/)*

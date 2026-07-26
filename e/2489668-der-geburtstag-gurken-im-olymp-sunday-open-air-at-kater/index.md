@@ -1,6 +1,6 @@
 # DER GEBURTSTAG: Gurken im Olymp (+ Sunday Open Air!) at Kater
 
-DER GEBURTSTAG: Gurken im Olymp (+ Sunday Open Air!) at Kater on Fri 21 Aug, Berlin. 54 acts on the bill: Alma Linda, Armen Miran, BODYSHIFT and Biesmans and 50 more. Techno and House. Preview the line-up and save it on soundcheck.
+DER GEBURTSTAG: Gurken im Olymp (+ Sunday Open Air!) at Kater on Fri 21 Aug, Berlin. 54 acts on the bill: Alma Linda, Armen Miran, Biesmans and BODYSHIFT and 50 more. Techno and House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -12,21 +12,22 @@ DER GEBURTSTAG: Gurken im Olymp (+ Sunday Open Air!) at Kater on Fri 21 Aug, Ber
 
 - Alma Linda
 - Armen Miran
-- BODYSHIFT
 - Biesmans
+- BODYSHIFT
 - Bonjour Ben
 - Britta Arnold
 - Caleesi
 - Cassy
 - Chris Schwarzwälder
-- DJ ZBB
 - David Dorad
 - David Mayer
 - Demi Riquisimo
+- DJ ZBB
 - ELIF
 - ELIZEN THE EMPEROR
 - Enzio Etchaberri
 - Esther Silex
+- eveava
 - Fabrizio Mammarella
 - Foolik
 - Franca
@@ -35,16 +36,17 @@ DER GEBURTSTAG: Gurken im Olymp (+ Sunday Open Air!) at Kater on Fri 21 Aug, Ber
 - Jama
 - Johannes Albert
 - Joséphine de Retour
-- KIRSCH
+- karete bu
 - Karina Schneider
+- KIRSCH
 - LuLu Malina
-- MOOGLI (DE)
 - Marc Schneider
 - Mark Gill
 - Mila Stern
 - Mira
 - Mona Moore
 - Monty Luke
+- MOOGLI (DE)
 - Moses
 - Nadine Hennig
 - Neu-Romancer
@@ -62,7 +64,5 @@ DER GEBURTSTAG: Gurken im Olymp (+ Sunday Open Air!) at Kater on Fri 21 Aug, Ber
 - Steve Challier
 - Sven Dohse
 - The Hacker
-- eveava
-- karete bu
 
 *Source: [soundcheck](https://soundcheck.club/e/2489668-der-geburtstag-gurken-im-olymp-sunday-open-air-at-kater/)*

@@ -1,6 +1,6 @@
 # The Disco Express: London w/ Barbara Tucker, COEO, DJ Spen & more at Ministry Of Sound
 
-The Disco Express: London w/ Barbara Tucker, COEO, DJ Spen & more at Ministry Of Sound on Sat 5 Sept, London. 12 acts on the bill: Ayce, Barbara Tucker, Bustin' Loose and COEO and 8 more. House and Disco. Preview the line-up and save it on soundcheck.
+The Disco Express: London w/ Barbara Tucker, COEO, DJ Spen & more at Ministry Of Sound on Sat 5 Sept, London. 12 acts on the bill: Ayce, Barbara Tucker, Bustin' Loose and Caio Cenci and 8 more. House and Disco. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -13,8 +13,8 @@ The Disco Express: London w/ Barbara Tucker, COEO, DJ Spen & more at Ministry Of
 - Ayce
 - Barbara Tucker
 - Bustin' Loose
-- COEO
 - Caio Cenci
+- COEO
 - Crystal Touch
 - DJ Spen
 - Magnolia

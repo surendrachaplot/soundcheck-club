@@ -1,6 +1,6 @@
 # AISHA
 
-AISHA is a Techno and Trance artist with 2 upcoming club dates listed on soundcheck as of Sat, 25 Jul 2026, next at TBA - Alameda Barros, 376 - Santa Cecilia, São Paulo - SP, 01232-000, Brasil, Sao Paulo on Fri, 31 Jul 2026.
+AISHA is a Techno and Trance artist with 2 upcoming club dates listed on soundcheck as of Sun, 26 Jul 2026, next at TBA - Alameda Barros, 376 - Santa Cecilia, São Paulo - SP, 01232-000, Brasil, Sao Paulo on Fri, 31 Jul 2026.
 
 AISHA is a techno and trance artist tracked on soundcheck, with 143 sets logged across Aberdeen, Amsterdam, Antwerp and Athens and 43 more. Often billed alongside franck, Azyr and Faster Horses. Next up: TBA - Alameda Barros, 376 - Santa Cecilia, São Paulo - SP, 01232-000, Brasil, Saopaulo on Fri 31 Jul.
 
@@ -26,4 +26,4 @@ AISHA is a techno and trance artist tracked on soundcheck, with 143 sets logged 
 
 franck, Azyr, Faster Horses
 
-*Updated Sat, 25 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/aisha/)*
+*Updated Sun, 26 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/aisha/)*

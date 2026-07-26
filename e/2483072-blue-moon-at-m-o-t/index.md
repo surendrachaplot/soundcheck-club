@@ -1,6 +1,6 @@
 # BLUE MOON at M.O.T
 
-BLUE MOON at M.O.T on Sat 1 Aug, London. 6 acts on the bill: Auntie Klockwise, Deejay Nye, Stella Z and TIRTA and 2 more. Techno and Bass. Preview the line-up and save it on soundcheck.
+BLUE MOON at M.O.T on Sat 1 Aug, London. 6 acts on the bill: Auntie Klockwise, Deejay Nye, ŌKAMI and Stella Z and 2 more. Techno and Bass. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -12,9 +12,9 @@ BLUE MOON at M.O.T on Sat 1 Aug, London. 6 acts on the bill: Auntie Klockwise, D
 
 - Auntie Klockwise
 - Deejay Nye
+- ŌKAMI
 - Stella Z
 - TIRTA
 - Vince Lam
-- ŌKAMI
 
 *Source: [soundcheck](https://soundcheck.club/e/2483072-blue-moon-at-m-o-t/)*

@@ -1,6 +1,6 @@
 # ON TOP by Susanne Bartsch at Le Bain
 
-ON TOP by Susanne Bartsch at Le Bain on Thu 30 Jul, Newyorkcity. 2 acts on the bill: Vibeiana and boyyyish. Preview the line-up and save it on soundcheck.
+ON TOP by Susanne Bartsch at Le Bain on Thu 30 Jul, Newyorkcity. 2 acts on the bill: boyyyish and Vibeiana. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,7 +10,7 @@ ON TOP by Susanne Bartsch at Le Bain on Thu 30 Jul, Newyorkcity. 2 acts on the b
 
 ## Line-up
 
-- Vibeiana
 - boyyyish
+- Vibeiana
 
 *Source: [soundcheck](https://soundcheck.club/e/2483259-on-top-by-susanne-bartsch-at-le-bain/)*

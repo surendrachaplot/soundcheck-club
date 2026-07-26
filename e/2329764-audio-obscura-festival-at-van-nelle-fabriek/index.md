@@ -23,15 +23,15 @@ Audio Obscura Festival at Van Nelle Fabriek on Sat 29 Aug, Rotterdam. 29 acts on
 - Honey Dijon
 - IDEMI
 - JELLY
-- Jordan Brando
 - Joëlla Jackson
+- Jordan Brando
 - Juliana X
 - Luuk van Dijk
 - Marsolo
 - Max Dean
 - Nala Brown
-- OG Karin
 - Obskur
+- OG Karin
 - Olive F
 - Prospa
 - Rayzir

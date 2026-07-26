@@ -1,14 +1,13 @@
 # MALUGI
 
-MALUGI is a Techno and House artist with 9 upcoming club dates listed on soundcheck as of Sat, 25 Jul 2026, next at Flevopark, Amsterdam on Sat, 25 Jul 2026.
+MALUGI is a Techno and House artist with 9 upcoming club dates listed on soundcheck as of Sun, 26 Jul 2026, next at Finsbury Park, London on Fri, 7 Aug 2026.
 
-MALUGI is a techno and house artist tracked on soundcheck, with 218 sets logged across Amsterdam, Antwerp, Barcelona and Basel and 53 more. Often billed alongside Marlon Hoffstadt, Surf 2 Glory and DJ Heartstring. Next up: Flevopark, Amsterdam on Sat 25 Jul.
+MALUGI is a techno and house artist tracked on soundcheck, with 219 sets logged across Amsterdam, Antwerp, Barcelona and Basel and 53 more. Often billed alongside Marlon Hoffstadt, Surf 2 Glory and DJ Heartstring. Next up: Finsbury Park, London on Fri 7 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 25 Jul 2026 | Flevopark | Amsterdam |
 | Fri, 7 Aug 2026 | Finsbury Park | London |
 | Fri, 21 Aug 2026 | Cabaret Voltaire | Edinburgh |
 | Sat, 22 Aug 2026 | Phoxxi Green Area | Hamburg |
@@ -17,9 +16,11 @@ MALUGI is a techno and house artist tracked on soundcheck, with 218 sets logged 
 | Fri, 11 Sept 2026 | Madrid Caja Mágica | Madrid |
 | Sat, 10 Oct 2026 | Depot Mayfield | Manchester |
 | Wed, 21 Oct 2026 | Paradiso | Amsterdam |
+| Sat, 24 Oct 2026 | Blackstone Street Warehouse | Liverpool |
 
 ## Recently played
 
+- Flevopark, Amsterdam — Sat, 25 Jul 2026
 - Garchinger See, Munich — Sat, 18 Jul 2026
 - [UNVRS], Ibiza — Fri, 10 Jul 2026
 - TBA - Paradise City Festival, Brussels — Fri, 26 Jun 2026
@@ -27,10 +28,9 @@ MALUGI is a techno and house artist tracked on soundcheck, with 218 sets logged 
 - Fira Gran Via, Barcelona — Mon, 15 Jun 2026
 - TBA - Park Café, Cologne — Sat, 13 Jun 2026
 - TBA - Autodromo de Buenos Aires, Villa Lugano, Buenos Aires — Sun, 24 May 2026
-- PNE Forum, Vancouver — Sat, 16 May 2026
 
 ## Shares bills with
 
 Marlon Hoffstadt, Surf 2 Glory, DJ Heartstring
 
-*Updated Sat, 25 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/malugi/)*
+*Updated Sun, 26 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/malugi/)*

@@ -1,8 +1,8 @@
 # NewTone
 
-NewTone is a House and Progressive House artist with 6 upcoming club dates listed on soundcheck as of Sat, 25 Jul 2026, next at Colorado Charlie, The Hague on Sat, 15 Aug 2026.
+NewTone is a House and Progressive House artist with 8 upcoming club dates listed on soundcheck as of Sun, 26 Jul 2026, next at Colorado Charlie, The Hague on Sat, 15 Aug 2026.
 
-NewTone is a house and progressive house artist tracked on soundcheck, with 95 sets logged across Amsterdam, Antwerp, Bali and Cologne and 9 more. Often billed alongside Boris Coelman, TINS and Trippy Tins. Next up: Colorado Charlie, Thehague on Sat 15 Aug.
+NewTone is a house and progressive house artist tracked on soundcheck, with 97 sets logged across Amsterdam, Antwerp, Bali and Cologne and 9 more. Often billed alongside Boris Coelman, TINS and DART. Next up: Colorado Charlie, Thehague on Sat 15 Aug.
 
 ## Upcoming shows
 
@@ -14,6 +14,8 @@ NewTone is a house and progressive house artist tracked on soundcheck, with 95 s
 | Sat, 19 Sept 2026 | Mondo Open Air | Madrid |
 | Sat, 19 Sept 2026 | Mondo | Madrid |
 | Sat, 26 Sept 2026 | BASIS | Utrecht |
+| Sat, 24 Oct 2026 | Lofi | Amsterdam |
+| Sat, 24 Oct 2026 | Pllek | Amsterdam |
 
 ## Recently played
 
@@ -28,6 +30,6 @@ NewTone is a house and progressive house artist tracked on soundcheck, with 95 s
 
 ## Shares bills with
 
-Boris Coelman, TINS, Trippy Tins
+Boris Coelman, TINS, DART
 
-*Updated Sat, 25 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/newtone/)*
+*Updated Sun, 26 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/newtone/)*

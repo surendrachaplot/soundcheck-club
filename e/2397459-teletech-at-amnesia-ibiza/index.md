@@ -1,6 +1,6 @@
 # Teletech at Amnesia Ibiza
 
-Teletech at Amnesia Ibiza on Thu 8 Oct, Ibiza. 15 acts on the bill: Bella Claxton, Benwal, Clara Cuvé and EMILIJA and 11 more. Techno. Preview the line-up and save it on soundcheck.
+Teletech at Amnesia Ibiza on Thu 8 Oct, Ibiza. 15 acts on the bill: Bella Claxton, Benwal, blk. and Clara Cuvé and 11 more. Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -12,6 +12,7 @@ Teletech at Amnesia Ibiza on Thu 8 Oct, Ibiza. 15 acts on the bill: Bella Claxto
 
 - Bella Claxton
 - Benwal
+- blk.
 - Clara Cuvé
 - EMILIJA
 - Faster Horses
@@ -19,11 +20,10 @@ Teletech at Amnesia Ibiza on Thu 8 Oct, Ibiza. 15 acts on the bill: Bella Claxto
 - Morgan Seatree
 - Onlynumbers
 - Paige Tomlinson
+- salute
+- sim0ne
 - SPFDJ
 - Vieze Asbak
 - Winson
-- blk.
-- salute
-- sim0ne
 
 *Source: [soundcheck](https://soundcheck.club/e/2397459-teletech-at-amnesia-ibiza/)*

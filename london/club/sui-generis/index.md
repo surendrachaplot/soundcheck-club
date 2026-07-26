@@ -1,6 +1,6 @@
 # Sui Generis
 
-Sui Generis is a music venue in London with 3 upcoming nights listed on soundcheck as of Sat, 25 Jul 2026; the next is "Second Generation with Human Movement, Shivum Sharma & Bambi" on Fri, 31 Jul 2026.
+Sui Generis is a music venue in London with 3 upcoming nights listed on soundcheck as of Sun, 26 Jul 2026; the next is "Second Generation with Human Movement, Shivum Sharma & Bambi" on Fri, 31 Jul 2026.
 
 Sui Generis is a music venue in London listed on soundcheck. 3 upcoming nights, with line-ups including groupi3incognito, Human Movement, SANTZZ and Shivani (2) and 2 more. Browse upcoming dates, start times and who's playing. 588 kingsland road E84AH.
 
@@ -16,4 +16,4 @@ Sui Generis is a music venue in London listed on soundcheck. 3 upcoming nights, 
 
 588 kingsland road E84AH, London
 
-*Updated Sat, 25 Jul 2026 · source: [soundcheck](https://soundcheck.club/london/club/sui-generis/)*
+*Updated Sun, 26 Jul 2026 · source: [soundcheck](https://soundcheck.club/london/club/sui-generis/)*

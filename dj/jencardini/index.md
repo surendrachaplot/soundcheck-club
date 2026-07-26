@@ -1,14 +1,13 @@
 # Jen Cardini
 
-Jen Cardini is a Techno and House artist with 8 upcoming club dates listed on soundcheck as of Sat, 25 Jul 2026, next at CLUB RAUM, Amsterdam on Sat, 25 Jul 2026.
+Jen Cardini is a Techno and House artist with 7 upcoming club dates listed on soundcheck as of Sun, 26 Jul 2026, next at Kvarteret, Stockholm on Sat, 1 Aug 2026.
 
-Jen Cardini is a techno and house artist tracked on soundcheck, with 242 sets logged across Amsterdam, Antwerp, Athens and Auckland and 56 more. Often billed alongside Pablo Bozzi, BASHKKA and KI/KI. Next up: CLUB RAUM, Amsterdam on Sat 25 Jul.
+Jen Cardini is a techno and house artist tracked on soundcheck, with 242 sets logged across Amsterdam, Antwerp, Athens and Auckland and 56 more. Often billed alongside Pablo Bozzi, BASHKKA and KI/KI. Next up: Kvarteret, Stockholm on Sat 1 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 25 Jul 2026 | CLUB RAUM | Amsterdam |
 | Sat, 1 Aug 2026 | Kvarteret | Stockholm |
 | Fri, 7 Aug 2026 | Parc del Fòrum | Barcelona |
 | Mon, 10 Aug 2026 | La Pinilla Ski Resort | Madrid |
@@ -19,6 +18,7 @@ Jen Cardini is a techno and house artist tracked on soundcheck, with 242 sets lo
 
 ## Recently played
 
+- CLUB RAUM, Amsterdam — Sat, 25 Jul 2026
 - RSO.BERLIN, Berlin — Fri, 24 Jul 2026
 - Paléo Festival, Geneva — Tue, 21 Jul 2026
 - Palais de Tokyo, Paris — Sat, 18 Jul 2026
@@ -26,10 +26,9 @@ Jen Cardini is a techno and house artist tracked on soundcheck, with 242 sets lo
 - But, Madrid — Sun, 5 Jul 2026
 - KREUZWERK, Berlin — Sat, 27 Jun 2026
 - TBA - Paradise City Festival, Brussels — Fri, 26 Jun 2026
-- TBA - Hôtel Amour Paris, Paris — Sun, 21 Jun 2026
 
 ## Shares bills with
 
 Pablo Bozzi, BASHKKA, KI/KI
 
-*Updated Sat, 25 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/jencardini/)*
+*Updated Sun, 26 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/jencardini/)*

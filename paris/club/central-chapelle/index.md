@@ -1,14 +1,13 @@
 # Central Chapelle
 
-Central Chapelle is a music venue in Paris with 8 upcoming nights listed on soundcheck as of Sat, 25 Jul 2026; the next is "L'Apéro Ensemble par La Nanie" on Sat, 25 Jul 2026.
+Central Chapelle is a music venue in Paris with 7 upcoming nights listed on soundcheck as of Sun, 26 Jul 2026; the next is "Almost Every Sunday" on Sun, 26 Jul 2026.
 
-Central Chapelle is a music venue in Paris listed on soundcheck. 8 upcoming nights, with line-ups including Mosimann, nimino and Sam Feldt. Browse upcoming dates, start times and who's playing. 4 Esp. Alice Milliat, 75018 Paris.
+Central Chapelle is a music venue in Paris listed on soundcheck. 7 upcoming nights, with line-ups including Mosimann, nimino and Sam Feldt. Browse upcoming dates, start times and who's playing. 4 Esp. Alice Milliat, 75018 Paris.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Sat, 25 Jul 2026 | L'Apéro Ensemble par La Nanie |  |
 | Sun, 26 Jul 2026 | Almost Every Sunday |  |
 | Thu, 1 Oct 2026 | MANARËM |  |
 | Thu, 8 Oct 2026 | Gal + Ledouble |  |
@@ -21,4 +20,4 @@ Central Chapelle is a music venue in Paris listed on soundcheck. 8 upcoming nigh
 
 4 Esp. Alice Milliat, 75018 Paris, Paris
 
-*Updated Sat, 25 Jul 2026 · source: [soundcheck](https://soundcheck.club/paris/club/central-chapelle/)*
+*Updated Sun, 26 Jul 2026 · source: [soundcheck](https://soundcheck.club/paris/club/central-chapelle/)*

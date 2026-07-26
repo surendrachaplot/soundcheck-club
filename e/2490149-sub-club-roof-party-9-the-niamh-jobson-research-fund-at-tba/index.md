@@ -1,6 +1,6 @@
 # Sub Club Roof Party #9: The Niamh Jobson Research Fund at TBA
 
-Sub Club Roof Party #9: The Niamh Jobson Research Fund at TBA on Sat 8 Aug, Glasgow. 6 acts on the bill: DJ Greenman, Daniel Cameron, Harry Mawby and Kairogen and 2 more. Techno and House. Preview the line-up and save it on soundcheck.
+Sub Club Roof Party #9: The Niamh Jobson Research Fund at TBA on Sat 8 Aug, Glasgow. 6 acts on the bill: Daniel Cameron, DJ Greenman, Harry Mawby and Kairogen and 2 more. Techno and House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,8 +10,8 @@ Sub Club Roof Party #9: The Niamh Jobson Research Fund at TBA on Sat 8 Aug, Glas
 
 ## Line-up
 
-- DJ Greenman
 - Daniel Cameron
+- DJ Greenman
 - Harry Mawby
 - Kairogen
 - Lowree

@@ -1,6 +1,6 @@
 # SYMBIOTIKKA at KitKat Club Berlin at KitKatClub
 
-SYMBIOTIKKA at KitKat Club Berlin at KitKatClub on Wed 5 Aug, Berlin. 4 acts on the bill: DJ Jordan, Dirty Doering, Melanchromie and Nick Schwenderling. Techno and Tech House. Preview the line-up and save it on soundcheck.
+SYMBIOTIKKA at KitKat Club Berlin at KitKatClub on Wed 5 Aug, Berlin. 4 acts on the bill: Dirty Doering, DJ Jordan, Melanchromie and Nick Schwenderling. Techno and Tech House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,8 +10,8 @@ SYMBIOTIKKA at KitKat Club Berlin at KitKatClub on Wed 5 Aug, Berlin. 4 acts on 
 
 ## Line-up
 
-- DJ Jordan
 - Dirty Doering
+- DJ Jordan
 - Melanchromie
 - Nick Schwenderling
 

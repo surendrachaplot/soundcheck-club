@@ -1,6 +1,6 @@
 # Home Again x Rotkäppchen Picnic at Insel der Jugend at Insel der Jugend
 
-Home Again x Rotkäppchen Picnic at Insel der Jugend on Sat 29 Aug, Berlin. 3 acts on the bill: André Dancekowski, Thalo Santana and hawi. House. Preview the line-up and save it on soundcheck.
+Home Again x Rotkäppchen Picnic at Insel der Jugend on Sat 29 Aug, Berlin. 3 acts on the bill: André Dancekowski, hawi and Thalo Santana. House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -11,7 +11,7 @@ Home Again x Rotkäppchen Picnic at Insel der Jugend on Sat 29 Aug, Berlin. 3 ac
 ## Line-up
 
 - André Dancekowski
-- Thalo Santana
 - hawi
+- Thalo Santana
 
 *Source: [soundcheck](https://soundcheck.club/e/2493532-home-again-x-rotk-ppchen-picnic-at-insel-der-jugend-at-insel/)*

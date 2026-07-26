@@ -1,6 +1,6 @@
 # Loveland Festival 2026 at Sloterpark
 
-Loveland Festival 2026 at Sloterpark on Sat 8 Aug, Amsterdam. 80 acts on the bill: AAT (NL), ATRIP, Adam Ten and Alarico and 76 more. Techno and House. Preview the line-up and save it on soundcheck.
+Loveland Festival 2026 at Sloterpark on Sat 8 Aug, Amsterdam. 80 acts on the bill: AAT (NL), Adam Ten, Alarico and Alexia Glensy and 76 more. Techno and House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -11,17 +11,17 @@ Loveland Festival 2026 at Sloterpark on Sat 8 Aug, Amsterdam. 80 acts on the bil
 ## Line-up
 
 - AAT (NL)
-- ATRIP
 - Adam Ten
 - Alarico
 - Alexia Glensy
 - Ammé
 - Argia
-- BLOND:ISH
+- ATRIP
 - Bart Skils
 - Bastienne
 - Ben Klock
 - Ben Sims
+- BLOND:ISH
 - CamelPhat
 - Carmen Lisa (2)
 - Chlär
@@ -29,11 +29,11 @@ Loveland Festival 2026 at Sloterpark on Sat 8 Aug, Amsterdam. 80 acts on the bil
 - Chris Liebing
 - Cici Daze
 - Colyn
-- DJ Frank
 - Daria Kolosova
 - Denis Sulta
-- ELIF
+- DJ Frank
 - East End Dubs
+- ELIF
 - Enrico Sangiuliano
 - Eric Prydz
 - Fatboy Slim
@@ -74,21 +74,21 @@ Loveland Festival 2026 at Sloterpark on Sat 8 Aug, Amsterdam. 80 acts on the bil
 - Olivier Weiter
 - Prunk
 - Robert Hood
+- Rødhåd
 - Roy Rosenfeld
 - Rozie
-- Rødhåd
 - Sasha & John Digweed
 - Sebastien Leger
 - Secret Cinema
 - Sidney Charles
+- southstar
 - Speedy J
 - Stephan Bodzin
 - Sven Vath
 - Tjade
-- VNTM
 - Vintage Culture
+- VNTM
 - Wade
 - WhoMadeWho
-- southstar
 
 *Source: [soundcheck](https://soundcheck.club/e/2302716-loveland-festival-2026-at-sloterpark/)*

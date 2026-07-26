@@ -1,6 +1,6 @@
 # Renate Klubnacht + Open Air (Free Entry) w/ FEIERAMT & Lush Lab at Renate
 
-Renate Klubnacht + Open Air (Free Entry) w/ FEIERAMT & Lush Lab on Sat 1 Aug, Berlin. 15 acts on the bill: Aidan, CSILLA, Clovis and EMIRA and 11 more. Techno and House. Preview the line-up and save it on soundcheck.
+Renate Klubnacht + Open Air (Free Entry) w/ FEIERAMT & Lush Lab on Sat 1 Aug, Berlin. 15 acts on the bill: Aidan, Clovis, CSILLA and Edgar Peng and 11 more. Techno and House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -11,10 +11,10 @@ Renate Klubnacht + Open Air (Free Entry) w/ FEIERAMT & Lush Lab on Sat 1 Aug, Be
 ## Line-up
 
 - Aidan
-- CSILLA
 - Clovis
-- EMIRA
+- CSILLA
 - Edgar Peng
+- EMIRA
 - Enzio Etchaberri
 - Harrison (2)
 - Harrison (UK)

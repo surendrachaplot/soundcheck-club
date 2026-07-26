@@ -1,6 +1,6 @@
 # Unreal Chicago at Radius
 
-Unreal Chicago at Radius on Fri 18 Sept, Chicago. 5 acts on the bill: AMAYAH, Johannes Schuster, KUKO and Kobosil and 1 more. Techno. Preview the line-up and save it on soundcheck.
+Unreal Chicago at Radius on Fri 18 Sept, Chicago. 5 acts on the bill: AMAYAH, Johannes Schuster, Kobosil and KUKO and 1 more. Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -12,8 +12,8 @@ Unreal Chicago at Radius on Fri 18 Sept, Chicago. 5 acts on the bill: AMAYAH, Jo
 
 - AMAYAH
 - Johannes Schuster
-- KUKO
 - Kobosil
+- KUKO
 - Winson
 
 *Source: [soundcheck](https://soundcheck.club/e/2452826-unreal-chicago-at-radius/)*

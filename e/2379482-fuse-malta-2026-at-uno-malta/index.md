@@ -42,9 +42,9 @@ FUSE ➔ Malta 2026 at UNO MALTA on Fri 18 Sept, Malta. 65 acts on the bill: ADM
 - Locky
 - Luke Dean_
 - Luuk van Dijk
-- MATO
 - Marlie
 - Marsolo
+- MATO
 - Max Dean
 - Mella Dee
 - Melody RA+RE
@@ -53,7 +53,6 @@ FUSE ➔ Malta 2026 at UNO MALTA on Fri 18 Sept, Malta. 65 acts on the bill: ADM
 - O.BEE
 - Ogazón
 - PACH
-- RTK Tarantino
 - Raresh
 - Reeshy
 - Reflex Blue
@@ -61,6 +60,7 @@ FUSE ➔ Malta 2026 at UNO MALTA on Fri 18 Sept, Malta. 65 acts on the bill: ADM
 - Rich NXT
 - Rossi
 - Rossko
+- RTK Tarantino
 - Samuel Deep
 - Saoirse
 - Seb Zito
@@ -68,12 +68,12 @@ FUSE ➔ Malta 2026 at UNO MALTA on Fri 18 Sept, Malta. 65 acts on the bill: ADM
 - Sonja Moonear
 - Sweely
 - The Ghost
+- tINI
 - Tomas Station
 - Traumer
 - Tristan da Cunha
 - Voigtmann
 - Willow
 - Wodda
-- tINI
 
 *Source: [soundcheck](https://soundcheck.club/e/2379482-fuse-malta-2026-at-uno-malta/)*

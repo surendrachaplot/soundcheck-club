@@ -1,6 +1,6 @@
 # leo presents cicada burnt (album release party) at Impiety Hour
 
-leo presents cicada burnt (album release party) at Impiety Hour on Fri 31 Jul, Manchester. 2 acts on the bill: Leo (11) and aNNA (UK). Experimental and Electronica. Preview the line-up and save it on soundcheck.
+leo presents cicada burnt (album release party) at Impiety Hour on Fri 31 Jul, Manchester. 2 acts on the bill: aNNA (UK) and Leo (11). Experimental and Electronica. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,7 +10,7 @@ leo presents cicada burnt (album release party) at Impiety Hour on Fri 31 Jul, M
 
 ## Line-up
 
-- Leo (11)
 - aNNA (UK)
+- Leo (11)
 
 *Source: [soundcheck](https://soundcheck.club/e/2481354-leo-presents-cicada-burnt-album-release-party-at-impiety-hou/)*

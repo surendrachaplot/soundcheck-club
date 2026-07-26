@@ -1,6 +1,6 @@
 # Float by Weltenphase at Straße des 17. Juni
 
-Float by Weltenphase at Straße des 17. Juni on Sat 15 Aug, Berlin. 8 acts on the bill: A.D.H.S., ASK:ME, Anna Tur and Haito and 4 more. Techno. Preview the line-up and save it on soundcheck.
+Float by Weltenphase at Straße des 17. Juni on Sat 15 Aug, Berlin. 8 acts on the bill: A.D.H.S., Anna Tur, ASK:ME and Haito and 4 more. Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -11,8 +11,8 @@ Float by Weltenphase at Straße des 17. Juni on Sat 15 Aug, Berlin. 8 acts on th
 ## Line-up
 
 - A.D.H.S.
-- ASK:ME
 - Anna Tur
+- ASK:ME
 - Haito
 - Rene Bourgeois
 - TAKTSTÖRER

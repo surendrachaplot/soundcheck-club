@@ -1,6 +1,6 @@
 # LondonGround
 
-LondonGround is a House and Tech House artist with 2 upcoming club dates listed on soundcheck as of Sat, 25 Jul 2026, next at La Terrrazza, Barcelona on Thu, 30 Jul 2026.
+LondonGround is a House and Tech House artist with 2 upcoming club dates listed on soundcheck as of Sun, 26 Jul 2026, next at La Terrrazza, Barcelona on Thu, 30 Jul 2026.
 
 LondonGround is a house and tech house artist tracked on soundcheck, with 35 sets logged across Amsterdam, Barcelona, Buenosaires and Ibiza and 2 more. Often billed alongside De La Swing, Easttown and Max Haas. Next up: La Terrrazza, Barcelona on Thu 30 Jul.
 
@@ -26,4 +26,4 @@ LondonGround is a house and tech house artist tracked on soundcheck, with 35 set
 
 De La Swing, Easttown, Max Haas
 
-*Updated Sat, 25 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/londonground/)*
+*Updated Sun, 26 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/londonground/)*

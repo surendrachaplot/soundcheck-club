@@ -1,6 +1,6 @@
 # Lekker Selection x Hostile City - Unglued, Degs, Des McMahon, Asat b2b gozu at Ground Floor
 
-Lekker Selection x Hostile City - Unglued, Degs, Des McMahon, Asat b2b gozu at Ground Floor on Fri 4 Sept, Philadelphia. 5 acts on the bill: Asat, Degs, Des McMahon and Unglued and 1 more. Drum & Bass and Bass. Preview the line-up and save it on soundcheck.
+Lekker Selection x Hostile City - Unglued, Degs, Des McMahon, Asat b2b gozu at Ground Floor on Fri 4 Sept, Philadelphia. 5 acts on the bill: Asat, Degs, Des McMahon and gozu and 1 more. Drum & Bass and Bass. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -13,7 +13,7 @@ Lekker Selection x Hostile City - Unglued, Degs, Des McMahon, Asat b2b gozu at G
 - Asat
 - Degs
 - Des McMahon
-- Unglued
 - gozu
+- Unglued
 
 *Source: [soundcheck](https://soundcheck.club/e/2476457-lekker-selection-x-hostile-city-unglued-degs-des-mcmahon-asa/)*

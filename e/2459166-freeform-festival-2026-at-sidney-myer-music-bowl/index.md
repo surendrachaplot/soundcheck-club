@@ -29,8 +29,8 @@ Freeform Festival 2026 at Sidney Myer Music Bowl on Sat 3 Oct, Melbourne. 23 act
 - Rakhi
 - Richie Hawtin
 - Ron Trent
-- SWIM (AU)
 - Storm Mollison
+- SWIM (AU)
 - TWIENA
 - Two Shell
 

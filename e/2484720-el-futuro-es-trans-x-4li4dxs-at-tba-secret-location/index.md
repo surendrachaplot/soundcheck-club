@@ -1,6 +1,6 @@
 # EL FUTURO ES TRANS x 4LI4DXS at TBA - SECRET LOCATION
 
-EL FUTURO ES TRANS x 4LI4DXS at TBA - SECRET LOCATION on Fri 14 Aug, Mexicocity. 6 acts on the bill: Amapola Rose, Bruja Prieta, Luisa Almaguer and MIKITA (MX) and 2 more. Techno and Electronica. Preview the line-up and save it on soundcheck.
+EL FUTURO ES TRANS x 4LI4DXS at TBA - SECRET LOCATION on Fri 14 Aug, Mexicocity. 6 acts on the bill: Amapola Rose, Bruja Prieta, Luisa Almaguer and Magnolia Coronado and 2 more. Techno and Electronica. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -13,8 +13,8 @@ EL FUTURO ES TRANS x 4LI4DXS at TBA - SECRET LOCATION on Fri 14 Aug, Mexicocity.
 - Amapola Rose
 - Bruja Prieta
 - Luisa Almaguer
-- MIKITA (MX)
 - Magnolia Coronado
+- MIKITA (MX)
 - Victoria Volkova
 
 *Source: [soundcheck](https://soundcheck.club/e/2484720-el-futuro-es-trans-x-4li4dxs-at-tba-secret-location/)*

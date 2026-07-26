@@ -1,6 +1,6 @@
 # Patio - Summer Closing at Lofi
 
-Patio - Summer Closing at Lofi on Sat 19 Sept, Amsterdam. 16 acts on the bill: AMORAL, Amanda Mussi, BIANKA and Ignez and 12 more. Techno. Preview the line-up and save it on soundcheck.
+Patio - Summer Closing at Lofi on Sat 19 Sept, Amsterdam. 16 acts on the bill: Amanda Mussi, AMORAL, BIANKA and Ignez and 12 more. Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,8 +10,8 @@ Patio - Summer Closing at Lofi on Sat 19 Sept, Amsterdam. 16 acts on the bill: A
 
 ## Line-up
 
-- AMORAL
 - Amanda Mussi
+- AMORAL
 - BIANKA
 - Ignez
 - Mary Lake
@@ -24,7 +24,7 @@ Patio - Summer Closing at Lofi on Sat 19 Sept, Amsterdam. 16 acts on the bill: A
 - Talismann
 - Toobris
 - UFO95
-- VIL (PT)
 - Valody
+- VIL (PT)
 
 *Source: [soundcheck](https://soundcheck.club/e/2452089-patio-summer-closing-at-lofi/)*

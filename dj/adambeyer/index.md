@@ -1,14 +1,13 @@
 # Adam Beyer
 
-Adam Beyer is a Techno and Tech House artist with 16 upcoming club dates listed on soundcheck as of Sat, 25 Jul 2026, next at Mia Mao, Paris on Sat, 25 Jul 2026.
+Adam Beyer is a Techno and Tech House artist with 15 upcoming club dates listed on soundcheck as of Sun, 26 Jul 2026, next at Boston Manor Park, London on Sun, 26 Jul 2026.
 
-Adam Beyer is a techno and tech house artist tracked on soundcheck, with 180 sets logged across Amsterdam, Antwerp, Athens and Austin and 44 more. Often billed alongside Eric Prydz, Bart Skils and Patrick Topping. Next up: Mia Mao, Paris on Sat 25 Jul.
+Adam Beyer is a techno and tech house artist tracked on soundcheck, with 180 sets logged across Amsterdam, Antwerp, Athens and Austin and 44 more. Often billed alongside Eric Prydz, Bart Skils and Patrick Topping. Next up: Boston Manor Park, London on Sun 26 Jul.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 25 Jul 2026 | Mia Mao | Paris |
 | Sun, 26 Jul 2026 | Boston Manor Park | London |
 | Wed, 29 Jul 2026 | Amnesia Ibiza | Ibiza |
 | Wed, 5 Aug 2026 | Amnesia Ibiza | Ibiza |
@@ -20,9 +19,11 @@ Adam Beyer is a techno and tech house artist tracked on soundcheck, with 180 set
 | Wed, 19 Aug 2026 | Amnesia Ibiza | Ibiza |
 | Wed, 26 Aug 2026 | Amnesia Ibiza | Ibiza |
 | Wed, 2 Sept 2026 | Amnesia Ibiza | Ibiza |
+| Wed, 9 Sept 2026 | Amnesia Ibiza | Ibiza |
 
 ## Recently played
 
+- Mia Mao, Paris — Sat, 25 Jul 2026
 - Amnesia Ibiza, Ibiza — Wed, 22 Jul 2026
 - Ushuaïa Ibiza, Ibiza — Sat, 4 Jul 2026
 - INPUT High Fidelity Dance Club, Barcelona — Fri, 3 Jul 2026
@@ -30,10 +31,9 @@ Adam Beyer is a techno and tech house artist tracked on soundcheck, with 180 set
 - Amsterdamse Bos, Amsterdam — Sat, 6 Jun 2026
 - Ushuaïa Ibiza, Ibiza — Sat, 30 May 2026
 - TBA, Mallorca — Fri, 8 May 2026
-- Bolivar Beach Bar, Athens — Sat, 2 May 2026
 
 ## Shares bills with
 
 Eric Prydz, Bart Skils, Patrick Topping
 
-*Updated Sat, 25 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/adambeyer/)*
+*Updated Sun, 26 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/adambeyer/)*

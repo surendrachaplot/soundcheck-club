@@ -16,26 +16,26 @@ VENA - Flysch Festival at TBA - Apiro, Marche IT on Thu 30 Jul, Milan. 27 acts o
 - Christian Duka
 - DJ Python
 - DJ Spinn
-- ERACLIO
 - Envelope
+- ERACLIO
 - Flux By Uchiha
 - Giesse
 - Hagva
 - Hans Arsen
 - Hugo Sanchez
-- JUDGITZU
 - Jann Llambi
-- MBODJ
+- JUDGITZU
 - Marco Ragni
 - Marta Oliva
+- MBODJ
+- ojoo
 - PANDALOGIA
 - Pit
 - Primitive Art
-- STILL
 - Sandra Mason
 - Stefania Vos
+- STILL
 - Train To Eltanin
 - Violante
-- ojoo
 
 *Source: [soundcheck](https://soundcheck.club/e/2461924-vena-flysch-festival-at-tba-apiro-marche-it/)*

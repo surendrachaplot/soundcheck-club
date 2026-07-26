@@ -1,6 +1,6 @@
 # VER pres. davyboi, Charleen Herzig, SUAY ÆNNA, MOVE TO GROOVE COLLECTIVE uvm at Uebel & Gefährlich
 
-VER pres. davyboi, Charleen Herzig, SUAY ÆNNA, MOVE TO GROOVE COLLECTIVE uvm at Uebel & Gefährlich on Fri 11 Sept, Hamburg. 7 acts on the bill: Charleen Herzig, KENZ, Suay Aenna and dannycookin and 3 more. Trance and Techno. Preview the line-up and save it on soundcheck.
+VER pres. davyboi, Charleen Herzig, SUAY ÆNNA, MOVE TO GROOVE COLLECTIVE uvm at Uebel & Gefährlich on Fri 11 Sept, Hamburg. 7 acts on the bill: Charleen Herzig, dannycookin, davyboi and djcob and 3 more. Trance and Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -11,11 +11,11 @@ VER pres. davyboi, Charleen Herzig, SUAY ÆNNA, MOVE TO GROOVE COLLECTIVE uvm at
 ## Line-up
 
 - Charleen Herzig
-- KENZ
-- Suay Aenna
 - dannycookin
 - davyboi
 - djcob
+- KENZ
+- Suay Aenna
 - unjani
 
 *Source: [soundcheck](https://soundcheck.club/e/2486835-ver-pres-davyboi-charleen-herzig-suay-nna-move-to-groove-col/)*

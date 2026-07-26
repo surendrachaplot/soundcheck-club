@@ -1,14 +1,13 @@
 # Socore Factory
 
-Socore Factory is a music venue in Osaka with 15 upcoming nights listed on soundcheck as of Sat, 25 Jul 2026; the next is "CANAL" on Sat, 25 Jul 2026.
+Socore Factory is a music venue in Osaka with 14 upcoming nights listed on soundcheck as of Sun, 26 Jul 2026; the next is "Takuto&NEKKOYA BAND TOUR 'UKAGE'」 〜ウカゲだりょっどー〜" on Mon, 27 Jul 2026.
 
-Socore Factory is a music venue in Osaka listed on soundcheck. 15 upcoming nights, with line-ups including Akira Saotome, Ane, Bass and Century and 2 more. Browse upcoming dates, start times and who's playing. 2-13-26 Minamihorie, Nishi-ku, Osaka-shi, Osaka, 550-0015 Japan.
+Socore Factory is a music venue in Osaka listed on soundcheck. 14 upcoming nights, with line-ups including Akira Saotome, Ane, Bass and Century and 2 more. Browse upcoming dates, start times and who's playing. 2-13-26 Minamihorie, Nishi-ku, Osaka-shi, Osaka, 550-0015 Japan.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Sat, 25 Jul 2026 | CANAL | SAKI, kafuka, metome |
 | Mon, 27 Jul 2026 | Takuto&NEKKOYA BAND TOUR 'UKAGE'」 〜ウカゲだりょっどー〜 | Takaya, Takuto |
 | Wed, 29 Jul 2026 | HOOFIT | Mash |
 | Fri, 31 Jul 2026 | vital signs |  |
@@ -18,9 +17,10 @@ Socore Factory is a music venue in Osaka listed on soundcheck. 15 upcoming night
 | Tue, 11 Aug 2026 | スーパーオギャー夏祭り！ |  |
 | Sat, 15 Aug 2026 | PRAY | Akira Saotome, SPOT (JPN) |
 | Sat, 15 Aug 2026 | DOURAKU RECORDS 7th Anniversary | Gumbo, KEi |
+| Thu, 20 Aug 2026 | Ivy presents ぼくは地球と歌う | Ivy |
 
 ## Address
 
 2-13-26 Minamihorie, Nishi-ku, Osaka-shi, Osaka, 550-0015 Japan, Osaka
 
-*Updated Sat, 25 Jul 2026 · source: [soundcheck](https://soundcheck.club/osaka/club/socore-factory/)*
+*Updated Sun, 26 Jul 2026 · source: [soundcheck](https://soundcheck.club/osaka/club/socore-factory/)*

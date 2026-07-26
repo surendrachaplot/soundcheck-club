@@ -1,15 +1,13 @@
 # Pilgrim
 
-Pilgrim is a music venue in Newcastle with 29 upcoming nights listed on soundcheck as of Sat, 25 Jul 2026; the next is "Almost Heaven" on Sat, 25 Jul 2026.
+Pilgrim is a music venue in Newcastle with 29 upcoming nights listed on soundcheck as of Sun, 26 Jul 2026; the next is "Steppin’ Out! Anniversary soul session" on Sun, 26 Jul 2026.
 
-Pilgrim is a music venue in Newcastle listed on soundcheck. 29 upcoming nights, with line-ups including Sean Donnelly. Browse upcoming dates, start times and who's playing. 54 Pilgrim Street, Newcastle upon Tyne, NE1 6SF.
+Pilgrim is a music venue in Newcastle listed on soundcheck. 29 upcoming nights, with line-ups including Michael Gray, Peverell and Sean Donnelly. Browse upcoming dates, start times and who's playing. 54 Pilgrim Street, Newcastle upon Tyne, NE1 6SF.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Sat, 25 Jul 2026 | Almost Heaven |  |
-| Sat, 25 Jul 2026 | SHAKEDOWN: Lee Willow |  |
 | Sun, 26 Jul 2026 | Steppin’ Out! Anniversary soul session |  |
 | Sat, 1 Aug 2026 | Almost Heaven |  |
 | Sat, 1 Aug 2026 | SHAKEDOWN: Lee Willow |  |
@@ -18,9 +16,11 @@ Pilgrim is a music venue in Newcastle listed on soundcheck. 29 upcoming nights, 
 | Sun, 9 Aug 2026 | Melodies of Soul | Sean Donnelly |
 | Sat, 15 Aug 2026 | Almost Heaven |  |
 | Sat, 15 Aug 2026 | SHAKEDOWN |  |
+| Sat, 22 Aug 2026 | Almost Heaven |  |
+| Sat, 22 Aug 2026 | SHAKEDOWN: DJ Appo |  |
 
 ## Address
 
 54 Pilgrim Street, Newcastle upon Tyne, NE1 6SF, Newcastle
 
-*Updated Sat, 25 Jul 2026 · source: [soundcheck](https://soundcheck.club/newcastle/club/pilgrim/)*
+*Updated Sun, 26 Jul 2026 · source: [soundcheck](https://soundcheck.club/newcastle/club/pilgrim/)*

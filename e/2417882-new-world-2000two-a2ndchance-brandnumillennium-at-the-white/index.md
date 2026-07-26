@@ -1,6 +1,6 @@
 # NEW WORLD 2000two [A2ndChance?:BRandNuMilleNNium!] at The White Hotel
 
-NEW WORLD 2000two [A2ndChance?:BRandNuMilleNNium!] at The White Hotel on Fri 28 Aug, Manchester. 4 acts on the bill: Ikävä Pii, Miss Cabbage, Poundshop and deBasement. Hardcore and Grime. Preview the line-up and save it on soundcheck.
+NEW WORLD 2000two [A2ndChance?:BRandNuMilleNNium!] at The White Hotel on Fri 28 Aug, Manchester. 4 acts on the bill: deBasement, Ikävä Pii, Miss Cabbage and Poundshop. Hardcore and Grime. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,9 +10,9 @@ NEW WORLD 2000two [A2ndChance?:BRandNuMilleNNium!] at The White Hotel on Fri 28 
 
 ## Line-up
 
+- deBasement
 - Ikävä Pii
 - Miss Cabbage
 - Poundshop
-- deBasement
 
 *Source: [soundcheck](https://soundcheck.club/e/2417882-new-world-2000two-a2ndchance-brandnumillennium-at-the-white/)*

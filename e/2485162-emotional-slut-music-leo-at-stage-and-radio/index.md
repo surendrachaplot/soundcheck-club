@@ -1,6 +1,6 @@
 # Emotional Slut Music: Leo at Stage and Radio
 
-Emotional Slut Music: Leo at Stage and Radio on Fri 14 Aug, Manchester. 6 acts on the bill: CITYSPROBLEM, DJ Try (US), Hollyamorous and Princess Elf Bar and 2 more. Trance. Preview the line-up and save it on soundcheck.
+Emotional Slut Music: Leo at Stage and Radio on Fri 14 Aug, Manchester. 6 acts on the bill: CITYSPROBLEM, DJ Try (US), Hollyamorous and maevie and 2 more. Trance. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -13,8 +13,8 @@ Emotional Slut Music: Leo at Stage and Radio on Fri 14 Aug, Manchester. 6 acts o
 - CITYSPROBLEM
 - DJ Try (US)
 - Hollyamorous
-- Princess Elf Bar
 - maevie
 - moistbreezy
+- Princess Elf Bar
 
 *Source: [soundcheck](https://soundcheck.club/e/2485162-emotional-slut-music-leo-at-stage-and-radio/)*

@@ -1,6 +1,6 @@
-# Melodic 15: Jeremy Olander (3Hr Set) at Yamamori Tengu
+# Melodic 15: Jeremy Olander (3hr Set) at Yamamori Tengu
 
-Melodic 15: Jeremy Olander (3Hr Set) at Yamamori Tengu on Sat 19 Sept, Dublin. 2 acts on the bill: Gavin Rochford and Jeremy Olander. Preview the line-up and save it on soundcheck.
+Melodic 15: Jeremy Olander (3hr Set) at Yamamori Tengu on Sat 19 Sept, Dublin. 2 acts on the bill: Gavin Rochford and Jeremy Olander. Progressive House and House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

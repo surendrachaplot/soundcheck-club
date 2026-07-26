@@ -16,8 +16,8 @@ CIRCUS Odaiba on Tue 22 Sept, Tokyo. 9 acts on the bill: DREAD MC, Flowdan, Graf
 - Lady Shaka
 - Metrik
 - Mura Masa
-- RIRIA
 - nasthug
+- RIRIA
 - ryota dj
 
 *Source: [soundcheck](https://soundcheck.club/e/2455286-circus-odaiba-at-odaiba/)*

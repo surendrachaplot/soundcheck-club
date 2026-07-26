@@ -1,6 +1,6 @@
 # EXPERIENCE + FUTURE 666 at TBA - Secret Location
 
-EXPERIENCE + FUTURE 666 at TBA - Secret Location on Fri 4 Sept, Boston. 2 acts on the bill: Single Grind and future.666. Techno and Acid. Preview the line-up and save it on soundcheck.
+EXPERIENCE + FUTURE 666 at TBA - Secret Location on Fri 4 Sept, Boston. 2 acts on the bill: future.666 and Single Grind. Techno and Acid. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,7 +10,7 @@ EXPERIENCE + FUTURE 666 at TBA - Secret Location on Fri 4 Sept, Boston. 2 acts o
 
 ## Line-up
 
-- Single Grind
 - future.666
+- Single Grind
 
 *Source: [soundcheck](https://soundcheck.club/e/2422065-experience-future-666-at-tba-secret-location/)*

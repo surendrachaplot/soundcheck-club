@@ -1,19 +1,19 @@
 # Miura
 
-Miura is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Sat, 25 Jul 2026, next at TBA - Lignée, Microcentro, Buenos Aires on Sat, 25 Jul 2026.
+Miura is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Sun, 26 Jul 2026, next at Silencio, Paris on Sat, 1 Aug 2026.
 
-Miura is a house and techno artist based in Ukraine, tracked on soundcheck, with 76 sets logged across Amsterdam, Antwerp, Bali and Berlin and 17 more. Often billed alongside Eva Selezneva, CAPTNNN' and Agathe Mougin. Next up: TBA - Lignée, Microcentro, Buenosaires on Sat 25 Jul.
+Miura is a house and techno artist based in Ukraine, tracked on soundcheck, with 76 sets logged across Amsterdam, Antwerp, Bali and Berlin and 17 more. Often billed alongside Eva Selezneva, CAPTNNN' and Agathe Mougin. Next up: Silencio, Paris on Sat 1 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 25 Jul 2026 | TBA - Lignée, Microcentro | Buenos Aires |
 | Sat, 1 Aug 2026 | Silencio | Paris |
 | Sat, 15 Aug 2026 | Rumore Nightclub Capri | Naples |
 
 ## Recently played
 
+- TBA - Lignée, Microcentro, Buenos Aires — Sat, 25 Jul 2026
 - Silencio, Paris — Fri, 3 Jul 2026
 - Akasha Las Dalias Club - Ibiza, Ibiza — Thu, 25 Jun 2026
 - REC Napoli, Naples — Thu, 4 Jun 2026
@@ -21,10 +21,9 @@ Miura is a house and techno artist based in Ukraine, tracked on soundcheck, with
 - LA-YAM Rooftop, London — Sat, 16 May 2026
 - Rivo, Berlin — Fri, 1 May 2026
 - Moon Warsaw, Warsaw — Sat, 20 Dec 2025
-- Phantom Bar Berlin, Berlin — Wed, 17 Dec 2025
 
 ## Shares bills with
 
 Eva Selezneva, CAPTNNN', Agathe Mougin
 
-*Updated Sat, 25 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/miura/)*
+*Updated Sun, 26 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/miura/)*

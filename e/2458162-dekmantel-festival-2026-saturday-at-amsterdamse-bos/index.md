@@ -1,6 +1,6 @@
 # Dekmantel Festival 2026 - Saturday at Amsterdamse Bos
 
-Dekmantel Festival 2026 - Saturday at Amsterdamse Bos on Sat 1 Aug, Amsterdam. 57 acts on the bill: AMORAL, Al Wootton, Aurora Halal and Azu Tiwaline and 53 more. Preview the line-up and save it on soundcheck.
+Dekmantel Festival 2026 - Saturday at Amsterdamse Bos on Sat 1 Aug, Amsterdam. 57 acts on the bill: Al Wootton, AMORAL, Aurora Halal and aya and 53 more. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,9 +10,10 @@ Dekmantel Festival 2026 - Saturday at Amsterdamse Bos on Sat 1 Aug, Amsterdam. 5
 
 ## Line-up
 
-- AMORAL
 - Al Wootton
+- AMORAL
 - Aurora Halal
+- aya
 - Azu Tiwaline
 - Batu
 - Ben UFO
@@ -29,8 +30,8 @@ Dekmantel Festival 2026 - Saturday at Amsterdamse Bos on Sat 1 Aug, Amsterdam. 5
 - Function
 - GiGi FM
 - Ikonika
-- JASSS
 - JakoJako
+- JASSS
 - Jennifer Loveless
 - Loradeniz
 - Luke Slater
@@ -39,12 +40,12 @@ Dekmantel Festival 2026 - Saturday at Amsterdamse Bos on Sat 1 Aug, Amsterdam. 5
 - Moxie
 - Nazar
 - Nicolas Lutz
-- Novelist
 - Nørbak
+- Novelist
 - Octo Octa
 - Oscar Mulero
-- PLO Man
 - Peach
+- PLO Man
 - Polygonia
 - Rene Wise
 - Sandrien
@@ -61,11 +62,10 @@ Dekmantel Festival 2026 - Saturday at Amsterdamse Bos on Sat 1 Aug, Amsterdam. 5
 - Tasha
 - The Bug
 - Tikiman
+- upsammy
 - Vlada
 - Warrior Queen
 - Wata Igarashi
 - Woody92
-- aya
-- upsammy
 
 *Source: [soundcheck](https://soundcheck.club/e/2458162-dekmantel-festival-2026-saturday-at-amsterdamse-bos/)*

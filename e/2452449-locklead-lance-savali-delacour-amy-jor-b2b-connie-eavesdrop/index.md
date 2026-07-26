@@ -1,6 +1,6 @@
 # Locklead, Lance Savali, DELACOUR, Amy Jor b2b Connie, Eavesdrop Records at Elsewhere
 
-Locklead, Lance Savali, DELACOUR, Amy Jor b2b Connie, Eavesdrop Records at Elsewhere on Fri 31 Jul, Newyorkcity. 5 acts on the bill: ANDI WALL, Amy Jor, Connie and DELACOUR and 1 more. Preview the line-up and save it on soundcheck.
+Locklead, Lance Savali, DELACOUR, Amy Jor b2b Connie, Eavesdrop Records at Elsewhere on Fri 31 Jul, Newyorkcity. 5 acts on the bill: Amy Jor, ANDI WALL, Connie and DELACOUR and 1 more. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,8 +10,8 @@ Locklead, Lance Savali, DELACOUR, Amy Jor b2b Connie, Eavesdrop Records at Elsew
 
 ## Line-up
 
-- ANDI WALL
 - Amy Jor
+- ANDI WALL
 - Connie
 - DELACOUR
 - Locklead

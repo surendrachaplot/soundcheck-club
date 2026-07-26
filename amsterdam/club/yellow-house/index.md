@@ -1,15 +1,13 @@
 # Yellow House
 
-Yellow House is a music venue in Amsterdam with 5 upcoming nights listed on soundcheck as of Sat, 25 Jul 2026; the next is "Allstate Insurance Express Pay — Immediate Payment Processing 2026" on Sat, 25 Jul 2026.
+Yellow House is a music venue in Amsterdam with 3 upcoming nights listed on soundcheck as of Sun, 26 Jul 2026; the next is "SINE OFF" on Fri, 31 Jul 2026.
 
-Yellow House is a music venue in Amsterdam listed on soundcheck. 5 upcoming nights, with line-ups including Alaska (2), AMEX (UK), APP and [ares] and 2 more. Browse upcoming dates, start times and who's playing. 1013AM Amsterdam, Danzigerbocht 45-R.
+Yellow House is a music venue in Amsterdam listed on soundcheck. 3 upcoming nights, with line-ups including JØASE and Micky Hurts. Browse upcoming dates, start times and who's playing. 1013AM Amsterdam, Danzigerbocht 45-R.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Sat, 25 Jul 2026 | Allstate Insurance Express Pay — Immediate Payment Processing 2026 | AMEX (UK), APP, Alaska (2), Debit, Flat, Georgia, ILLINOIS, LockOut, Maine, Maryland, Montana, NEW YORK, Nebraska, Utah, Vermont, Virginia |
-| Sat, 25 Jul 2026 | RE\V/EL | [ares] |
 | Fri, 31 Jul 2026 | SINE OFF | Micky Hurts |
 | Sat, 1 Aug 2026 | JØASE ANL - FREE PRIDE RAVE | JØASE |
 | Sun, 2 Aug 2026 | Queer Aunties presents: Aunties in Amsterdam |  |
@@ -18,4 +16,4 @@ Yellow House is a music venue in Amsterdam listed on soundcheck. 5 upcoming nigh
 
 1013AM Amsterdam, Danzigerbocht 45-R, Amsterdam
 
-*Updated Sat, 25 Jul 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/yellow-house/)*
+*Updated Sun, 26 Jul 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/yellow-house/)*

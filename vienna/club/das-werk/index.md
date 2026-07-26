@@ -1,14 +1,13 @@
 # Das Werk
 
-Das Werk is a music venue in Vienna with 7 upcoming nights listed on soundcheck as of Sat, 25 Jul 2026; the next is "PSYTRANCE UNIVERSE Extended - Open Air & Indoor" on Sat, 25 Jul 2026.
+Das Werk is a music venue in Vienna with 6 upcoming nights listed on soundcheck as of Sun, 26 Jul 2026; the next is "TECHNO OBSCENE #32 - NINE O NINE x LSH - Das Werk Wien" on Sat, 1 Aug 2026.
 
-Das Werk is a music venue in Vienna listed on soundcheck. 7 upcoming nights, with line-ups including Albin Brezlan, Bangerfabrique, Hannah mit Hut and Huebl and 2 more. Browse upcoming dates, start times and who's playing. Spittelauer Lände 12, Stadtbahnbogen 331, 1090 Vienna, Austria.
+Das Werk is a music venue in Vienna listed on soundcheck. 6 upcoming nights, with line-ups including Albin Brezlan, Bangerfabrique, Huebl and Joey (2). Browse upcoming dates, start times and who's playing. Spittelauer Lände 12, Stadtbahnbogen 331, 1090 Vienna, Austria.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Sat, 25 Jul 2026 | PSYTRANCE UNIVERSE Extended - Open Air & Indoor | Hannah mit Hut, VIBECHEN |
 | Sat, 1 Aug 2026 | TECHNO OBSCENE #32 - NINE O NINE x LSH - Das Werk Wien | Albin Brezlan, Huebl |
 | Fri, 14 Aug 2026 | HERZFREQUENZ: SUMMER BOUNCE EDITION | Joey (2) |
 | Sat, 15 Aug 2026 | SYNERGY RAVE x Trance + Hard Techno |  |
@@ -20,4 +19,4 @@ Das Werk is a music venue in Vienna listed on soundcheck. 7 upcoming nights, wit
 
 Spittelauer Lände 12, Stadtbahnbogen 331, 1090 Vienna, Austria, Vienna
 
-*Updated Sat, 25 Jul 2026 · source: [soundcheck](https://soundcheck.club/vienna/club/das-werk/)*
+*Updated Sun, 26 Jul 2026 · source: [soundcheck](https://soundcheck.club/vienna/club/das-werk/)*

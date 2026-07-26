@@ -1,6 +1,6 @@
 # Doc Martin - Miguel Migs - David Harness - Loft: DJ M3 & Friends at The Great Northern
 
-Doc Martin - Miguel Migs - David Harness - Loft: DJ M3 & Friends at The Great Northern on Sat 5 Sept, Sanfrancisco. 4 acts on the bill: DJ M3, David Harness, Doc Martin and Miguel Migs. House. Preview the line-up and save it on soundcheck.
+Doc Martin - Miguel Migs - David Harness - Loft: DJ M3 & Friends at The Great Northern on Sat 5 Sept, Sanfrancisco. 4 acts on the bill: David Harness, DJ M3, Doc Martin and Miguel Migs. House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,8 +10,8 @@ Doc Martin - Miguel Migs - David Harness - Loft: DJ M3 & Friends at The Great No
 
 ## Line-up
 
-- DJ M3
 - David Harness
+- DJ M3
 - Doc Martin
 - Miguel Migs
 

@@ -1,6 +1,6 @@
 # Music Is Life - Underground House and Garage at Upper East
 
-Music Is Life - Underground House and Garage at Upper East on Sat 12 Sept, London. 4 acts on the bill: DJ Listener, Daniel Ward, Hermit and Ramsey & Fen. House and Garage. Preview the line-up and save it on soundcheck.
+Music Is Life - Underground House and Garage at Upper East on Sat 12 Sept, London. 4 acts on the bill: Daniel Ward, DJ Listener, Hermit and Ramsey & Fen. House and Garage. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,8 +10,8 @@ Music Is Life - Underground House and Garage at Upper East on Sat 12 Sept, Londo
 
 ## Line-up
 
-- DJ Listener
 - Daniel Ward
+- DJ Listener
 - Hermit
 - Ramsey & Fen
 

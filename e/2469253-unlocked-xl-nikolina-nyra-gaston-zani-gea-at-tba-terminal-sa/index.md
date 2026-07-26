@@ -1,6 +1,6 @@
 # UNLOCKED XL - Nikolina, NYRA, Gaston Zani, GEA at TBA - TERMINAL SABADELL
 
-UNLOCKED XL - Nikolina, NYRA, Gaston Zani, GEA at TBA - TERMINAL SABADELL on Thu 10 Sept, Barcelona. 4 acts on the bill: ArceX, Gaston Zani, NYRA (DE) and Nikolina. Techno. Preview the line-up and save it on soundcheck.
+UNLOCKED XL - Nikolina, NYRA, Gaston Zani, GEA at TBA - TERMINAL SABADELL on Thu 10 Sept, Barcelona. 4 acts on the bill: ArceX, Gaston Zani, Nikolina and NYRA (DE). Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -12,7 +12,7 @@ UNLOCKED XL - Nikolina, NYRA, Gaston Zani, GEA at TBA - TERMINAL SABADELL on Thu
 
 - ArceX
 - Gaston Zani
-- NYRA (DE)
 - Nikolina
+- NYRA (DE)
 
 *Source: [soundcheck](https://soundcheck.club/e/2469253-unlocked-xl-nikolina-nyra-gaston-zani-gea-at-tba-terminal-sa/)*

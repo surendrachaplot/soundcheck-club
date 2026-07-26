@@ -1,14 +1,13 @@
 # Distillery
 
-Distillery is a music venue in Leipzig with 13 upcoming nights listed on soundcheck as of Sat, 25 Jul 2026; the next is "CLUB GRDN " on Sat, 25 Jul 2026.
+Distillery is a music venue in Leipzig with 12 upcoming nights listed on soundcheck as of Sun, 26 Jul 2026; the next is "Paam Soundsystem X komma6 Takeover" on Fri, 31 Jul 2026.
 
-Distillery is a music venue in Leipzig listed on soundcheck. 13 upcoming nights, with line-ups including :MUMM, Alexia (2), ali e. and audite and 2 more. Browse upcoming dates, start times and who's playing. Eggebrechtstraße 2, 04103 Leipzig, Germany.
+Distillery is a music venue in Leipzig listed on soundcheck. 12 upcoming nights, with line-ups including :MUMM, Alexia (2), ali e. and audite and 2 more. Browse upcoming dates, start times and who's playing. Eggebrechtstraße 2, 04103 Leipzig, Germany.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Sat, 25 Jul 2026 | CLUB GRDN  | Medha, Rosa Red, Sevensol, Shuray & Walle, Stomp, Submod, Thomas Stieler, V:SONNTAG |
 | Fri, 31 Jul 2026 | Paam Soundsystem X komma6 Takeover |  |
 | Sat, 1 Aug 2026 | OUT OF OFFICE: VACANZA X Timstagram | :MUMM, Cosmic Cherry, Crille & Tamalt, Rosa Kante, Souci, Timstagram, Toni Pfad, brvder jakob, marengo (2) |
 | Fri, 7 Aug 2026 | OMAD x RAP DEGGA presents: 808 GARDEN | VANO |
@@ -18,9 +17,10 @@ Distillery is a music venue in Leipzig listed on soundcheck. 13 upcoming nights,
 | Fri, 21 Aug 2026 | 5 YEARS OF Proper Pull |  |
 | Sat, 22 Aug 2026 | NA ENDLICH | Daniel Stefanik, Danilo Kupfernagel, KIMYA, LEENI, Malena (2), Mathias Kaden |
 | Fri, 28 Aug 2026 | RUDE UNDERGROUND |  |
+| Sat, 29 Aug 2026 | KEINKOLLEKTIV X NEW KIDS |  |
 
 ## Address
 
 Eggebrechtstraße 2, 04103 Leipzig, Germany, Leipzig
 
-*Updated Sat, 25 Jul 2026 · source: [soundcheck](https://soundcheck.club/leipzig/club/distillery/)*
+*Updated Sun, 26 Jul 2026 · source: [soundcheck](https://soundcheck.club/leipzig/club/distillery/)*

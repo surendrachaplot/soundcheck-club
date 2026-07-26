@@ -23,10 +23,11 @@ THAT'S ALL FOLKS: CHAPTER 1 CLOSED [FRI 31/07 - MON 03/08] at BLITZ on Fri 31 Ju
 - Blasha & Allatt
 - Chami
 - Chez Damier
-- DJ Deep
-- DVS1
 - Denny Voltage
+- DJ Deep
+- dj sweet6teen
 - Don Williams
+- DVS1
 - Efdemin
 - Elpawel
 - Fadi Mohem
@@ -42,10 +43,13 @@ THAT'S ALL FOLKS: CHAPTER 1 CLOSED [FRI 31/07 - MON 03/08] at BLITZ on Fri 31 Ju
 - Kiawash
 - Kuduxxti
 - Lavandonia
-- MARRØN
+- limbic sis
 - Marcel Dettmann
+- MARRØN
 - Mike D
 - Muallem
+- nd_baumecker
+- no service
 - Ogazón
 - Olivia Mendez
 - Olli Rubber
@@ -66,21 +70,17 @@ THAT'S ALL FOLKS: CHAPTER 1 CLOSED [FRI 31/07 - MON 03/08] at BLITZ on Fri 31 Ju
 - Steffi
 - Stella and The Longos
 - Stenny
+- sumi
 - Tasha
+- tINI
 - Todd Terry
 - Tonio Barrientos
-- VOE
 - Victor (DE)
+- vince
 - Virginia
+- VOE
 - Woody
 - Yamour
 - Zenker Brothers
-- dj sweet6teen
-- limbic sis
-- nd_baumecker
-- no service
-- sumi
-- tINI
-- vince
 
 *Source: [soundcheck](https://soundcheck.club/e/2434453-that-s-all-folks-chapter-1-closed-fri-31-07-mon-03-08-at-bli/)*

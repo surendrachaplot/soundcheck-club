@@ -14,6 +14,7 @@ ReSolute x Yoyaku at H0L0 on Sat 26 Sept, Newyorkcity. 13 acts on the bill: Chez
 - Garrett David
 - Gulp
 - Kian OK
+- limbic sis
 - Lis Sarroca
 - Maksim
 - Mari.te
@@ -22,6 +23,5 @@ ReSolute x Yoyaku at H0L0 on Sat 26 Sept, Newyorkcity. 13 acts on the bill: Chez
 - Satoshi Tomiie
 - Vincent Lemieux
 - Yamour
-- limbic sis
 
 *Source: [soundcheck](https://soundcheck.club/e/2453711-resolute-x-yoyaku-at-h0l0/)*

@@ -1,6 +1,6 @@
 # BCCO x TRANSITION at TILLATEC
 
-BCCO x TRANSITION at TILLATEC on Sat 12 Sept, Amsterdam. 7 acts on the bill: ANNĒ, Amphia, DJ Hyperdrive and FENIM0RE and 3 more. Techno. Preview the line-up and save it on soundcheck.
+BCCO x TRANSITION at TILLATEC on Sat 12 Sept, Amsterdam. 7 acts on the bill: Amphia, ANNĒ, DJ Hyperdrive and FENIM0RE and 3 more. Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,12 +10,12 @@ BCCO x TRANSITION at TILLATEC on Sat 12 Sept, Amsterdam. 7 acts on the bill: ANN
 
 ## Line-up
 
-- ANNĒ
 - Amphia
+- ANNĒ
 - DJ Hyperdrive
 - FENIM0RE
+- future.666
 - HUJUS
 - SHE/HER
-- future.666
 
 *Source: [soundcheck](https://soundcheck.club/e/2421033-bcco-x-transition-at-tillatec/)*

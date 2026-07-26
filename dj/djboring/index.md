@@ -1,6 +1,6 @@
 # DJ BORING
 
-DJ BORING is a House and Techno artist with 8 upcoming club dates listed on soundcheck as of Sat, 25 Jul 2026, next at TBA - Paradies Garten Festival - Schloß Prugg 2, 2460 Gemeinde Bruck an der Leitha, Vienna on Fri, 31 Jul 2026.
+DJ BORING is a House and Techno artist with 8 upcoming club dates listed on soundcheck as of Sun, 26 Jul 2026, next at TBA - Paradies Garten Festival - Schloß Prugg 2, 2460 Gemeinde Bruck an der Leitha, Vienna on Fri, 31 Jul 2026.
 
 DJ BORING is a house and techno artist tracked on soundcheck, with 198 sets logged across Amsterdam, Antwerp, Athens and Bali and 62 more. Often billed alongside Sally C, salute and DJ Heartstring. Next up: TBA - Paradies Garten Festival - Schloß Prugg 2, 2460 Gemeinde Bruck an der Leitha, Vienna on Fri 31 Jul.
 
@@ -32,4 +32,4 @@ DJ BORING is a house and techno artist tracked on soundcheck, with 198 sets logg
 
 Sally C, salute, DJ Heartstring
 
-*Updated Sat, 25 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/djboring/)*
+*Updated Sun, 26 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/djboring/)*

@@ -1,6 +1,6 @@
 # RSO: WALL2WALL CLUB FESTIVAL 2026 at RSO.BERLIN
 
-RSO: WALL2WALL CLUB FESTIVAL 2026 at RSO.BERLIN on Thu 13 Aug, Berlin. 52 acts on the bill: Agonis, BLANKA, Belaria and Blame Anthony and 48 more. Breakbeat and Techno. Preview the line-up and save it on soundcheck.
+RSO: WALL2WALL CLUB FESTIVAL 2026 at RSO.BERLIN on Thu 13 Aug, Berlin. 52 acts on the bill: Agonis, Belaria, Blame Anthony and BLANKA and 48 more. Breakbeat and Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -11,19 +11,19 @@ RSO: WALL2WALL CLUB FESTIVAL 2026 at RSO.BERLIN on Thu 13 Aug, Berlin. 52 acts o
 ## Line-up
 
 - Agonis
-- BLANKA
 - Belaria
 - Blame Anthony
+- BLANKA
 - Byetone
 - Carmen Electro
-- DJ Fuckoff
 - Dangermami
 - Daria Kolosova
 - Disguised
-- ENNIO
+- DJ Fuckoff
 - Ellen Allien
 - Elli Acula
 - Emily Jeanne
+- ENNIO
 - Erol Alkan
 - Etapp Kyle
 - Faerber
@@ -33,13 +33,15 @@ RSO: WALL2WALL CLUB FESTIVAL 2026 at RSO.BERLIN on Thu 13 Aug, Berlin. 52 acts o
 - Glaskin
 - Grace Dahl
 - HAMY
+- hawi
 - Jennifer Loveless
 - Jesse G
 - Josey Rebelle
 - Kim She
 - Laure Croft
-- MATRIX3K
+- machìna
 - Mathys Lenne
+- MATRIX3K
 - Monolake
 - N.R.M
 - NORA (BR)
@@ -50,17 +52,15 @@ RSO: WALL2WALL CLUB FESTIVAL 2026 at RSO.BERLIN on Thu 13 Aug, Berlin. 52 acts o
 - Red Rooms
 - Sept
 - Setaoc Mass
+- slin
 - Space Drum Meditation
 - Spekki Webu
+- stranger (NL)
 - Thabo
 - Thalo Santana
+- ÜBERKIKZ
 - Xiorro
 - Yanamaste
 - Young Draco
-- hawi
-- machìna
-- slin
-- stranger (NL)
-- ÜBERKIKZ
 
 *Source: [soundcheck](https://soundcheck.club/e/2458185-rso-wall2wall-club-festival-2026-at-rso-berlin/)*

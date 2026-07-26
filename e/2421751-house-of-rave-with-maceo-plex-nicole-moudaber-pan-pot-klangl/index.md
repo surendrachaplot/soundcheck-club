@@ -20,8 +20,8 @@ House of Rave with Maceo Plex, Nicole Moudaber, Pan-Pot, Klanglos, Mark Dekoda u
 - Malouna
 - Mark Dekoda
 - Markus Klee
-- Nicole Moudaber
 - Nicole da Silva
+- Nicole Moudaber
 - OLEA
 - ONYVA
 - ONYVAA

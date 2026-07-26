@@ -1,6 +1,6 @@
 # FORCE EPISODE 049 at WOMB
 
-FORCE EPISODE 049 at WOMB on Fri 31 Jul, Tokyo. 6 acts on the bill: Herbalistek, Shinsuke Goto, YUKIMASA and ZUNDOKO DISCO and 2 more. Techno. Preview the line-up and save it on soundcheck.
+FORCE EPISODE 049 at WOMB on Fri 31 Jul, Tokyo. 6 acts on the bill: comm, Herbalistek, Shinsuke Goto and YUKIMASA and 2 more. Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,11 +10,11 @@ FORCE EPISODE 049 at WOMB on Fri 31 Jul, Tokyo. 6 acts on the bill: Herbalistek,
 
 ## Line-up
 
+- comm
 - Herbalistek
 - Shinsuke Goto
 - YUKIMASA
-- ZUNDOKO DISCO
 - Zara
-- comm
+- ZUNDOKO DISCO
 
 *Source: [soundcheck](https://soundcheck.club/e/2485408-force-episode-049-at-womb/)*

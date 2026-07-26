@@ -1,6 +1,6 @@
 # Nico Morano
 
-Nico Morano is a Techno and House artist with 4 upcoming club dates listed on soundcheck as of Sat, 25 Jul 2026, next at Cinemagic Lab, Vancouver on Sat, 8 Aug 2026.
+Nico Morano is a Techno and House artist with 4 upcoming club dates listed on soundcheck as of Sun, 26 Jul 2026, next at Cinemagic Lab, Vancouver on Sat, 8 Aug 2026.
 
 Nico Morano is a techno and house artist based in Belgium, tracked on soundcheck, with 68 sets logged across Amsterdam, Antwerp, Barcelona and Berlin and 20 more. Often billed alongside EMJIE, Bibi Seck and NTO. Next up: Cinemagic Lab, Vancouver on Sat 8 Aug.
 
@@ -28,4 +28,4 @@ Nico Morano is a techno and house artist based in Belgium, tracked on soundcheck
 
 EMJIE, Bibi Seck, NTO
 
-*Updated Sat, 25 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/nicomorano/)*
+*Updated Sun, 26 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/nicomorano/)*

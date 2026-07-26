@@ -14,7 +14,7 @@ Jungle Room X Junglevania: Dazegxd at Nameless on Fri 7 Aug, Philadelphia. 6 act
 - Art Cuebik
 - Asat
 - Dazegxd
-- Joey Breakdown
 - gozu
+- Joey Breakdown
 
 *Source: [soundcheck](https://soundcheck.club/e/2484234-jungle-room-x-junglevania-dazegxd-at-nameless/)*

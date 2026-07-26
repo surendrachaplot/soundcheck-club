@@ -1,6 +1,6 @@
 # Sandwicho
 
-Sandwicho is a Techno and Trance artist with 2 upcoming club dates listed on soundcheck as of Sat, 25 Jul 2026, next at Lokschuppen Berlin, Berlin on Sun, 26 Jul 2026.
+Sandwicho is a Techno and Trance artist with 2 upcoming club dates listed on soundcheck as of Sun, 26 Jul 2026, next at Lokschuppen Berlin, Berlin on Sun, 26 Jul 2026.
 
 Sandwicho is a techno and trance artist based in Spain, tracked on soundcheck, with 35 sets logged across Barcelona, Belgrade, Berlin and Madrid and 2 more. Often billed alongside Ozzwald, Cobb Douglas and JRG. Next up: Lokschuppen Berlin, Berlin on Sun 26 Jul.
 
@@ -26,4 +26,4 @@ Sandwicho is a techno and trance artist based in Spain, tracked on soundcheck, w
 
 Ozzwald, Cobb Douglas, JRG
 
-*Updated Sat, 25 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/sandwicho/)*
+*Updated Sun, 26 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/sandwicho/)*

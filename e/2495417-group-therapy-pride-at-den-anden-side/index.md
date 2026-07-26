@@ -1,6 +1,6 @@
 # Group Therapy Pride at Den Anden Side
 
-Group Therapy Pride at Den Anden Side on Sat 15 Aug, Copenhagen. 7 acts on the bill: Baltza, Dgeral, Lucky Lube and Midland and 3 more. House. Preview the line-up and save it on soundcheck.
+Group Therapy Pride at Den Anden Side on Sat 15 Aug, Copenhagen. 7 acts on the bill: ābnamā, Baltza, Dgeral and Lucky Lube and 3 more. House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,12 +10,12 @@ Group Therapy Pride at Den Anden Side on Sat 15 Aug, Copenhagen. 7 acts on the b
 
 ## Line-up
 
+- ābnamā
 - Baltza
 - Dgeral
 - Lucky Lube
 - Midland
-- Verushka
 - steamboi
-- ābnamā
+- Verushka
 
 *Source: [soundcheck](https://soundcheck.club/e/2495417-group-therapy-pride-at-den-anden-side/)*

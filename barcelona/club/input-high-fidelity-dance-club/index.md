@@ -1,6 +1,6 @@
 # INPUT High Fidelity Dance Club
 
-INPUT High Fidelity Dance Club is a music venue in Barcelona with 21 upcoming nights listed on soundcheck as of Sat, 25 Jul 2026; the next is "CULTO. It´s A Ritual" on Sat, 25 Jul 2026.
+INPUT High Fidelity Dance Club is a music venue in Barcelona with 21 upcoming nights listed on soundcheck as of Sun, 26 Jul 2026; the next is "PRISM Hard pres Cristobal Pesce" on Thu, 30 Jul 2026.
 
 INPUT High Fidelity Dance Club is a music venue in Barcelona listed on soundcheck. 21 upcoming nights, with line-ups including 753, Abstract Division, Adiel and Aiden (DE) and 2 more. Browse upcoming dates, start times and who's playing. Avenida de Francesc Ferrer i Guàrdia, 13-27; 08038 Barcelona; Spain.
 
@@ -8,7 +8,6 @@ INPUT High Fidelity Dance Club is a music venue in Barcelona listed on soundchec
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Sat, 25 Jul 2026 | CULTO. It´s A Ritual |  |
 | Thu, 30 Jul 2026 | PRISM Hard pres Cristobal Pesce | Cristobal Pesce, Rowsi |
 | Fri, 31 Jul 2026 | INPUT pres Mischluft & Janis Zielinski | CRONEKIA, Janis Zielinski, Mischluft, Nita Key |
 | Thu, 6 Aug 2026 | PRISM Hard pres AIDEN | Aiden (DE) |
@@ -18,9 +17,10 @@ INPUT High Fidelity Dance Club is a music venue in Barcelona listed on soundchec
 | Fri, 14 Aug 2026 | SWING pres davyboi & CARA ELIZABETH | CRONEKIA, Cara Elizabeth, davyboi |
 | Sat, 15 Aug 2026 | PRISM pres Zisko & Mac Declos | Flug, Mac Declos, Zisko |
 | Thu, 20 Aug 2026 | PRISM Hard pres Ueberrest | Ueberrest |
+| Fri, 21 Aug 2026 | INPUT pres Part Time Killer & Trancemaster Krause | Keyklau, Part Time Killer, Trancemaster Krause |
 
 ## Address
 
 Avenida de Francesc Ferrer i Guàrdia, 13-27; 08038 Barcelona; Spain, Barcelona
 
-*Updated Sat, 25 Jul 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/input-high-fidelity-dance-club/)*
+*Updated Sun, 26 Jul 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/input-high-fidelity-dance-club/)*

@@ -19,8 +19,8 @@ III Points & Club Space presents Andrew Music Club 2026 at TBA on Sat 5 Sept, Mi
 - Jubilee
 - Marie Qrie
 - Nia Archives
-- PETERBLUE
 - Partiboi69
+- PETERBLUE
 - Rudeboy
 - SATURNSARii
 - Zack Fox

@@ -1,6 +1,6 @@
 # PRST invites Narciss at PRST
 
-PRST invites Narciss on Fri 31 Jul, Vienna. 2 acts on the bill: Narciss and mariephi. House and Tech House. Preview the line-up and save it on soundcheck.
+PRST invites Narciss on Fri 31 Jul, Vienna. 2 acts on the bill: mariephi and Narciss. House and Tech House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,7 +10,7 @@ PRST invites Narciss on Fri 31 Jul, Vienna. 2 acts on the bill: Narciss and mari
 
 ## Line-up
 
-- Narciss
 - mariephi
+- Narciss
 
 *Source: [soundcheck](https://soundcheck.club/e/2494749-prst-invites-narciss-at-prst/)*

@@ -31,8 +31,8 @@ FOREVER 25 curated by Franca & Mimi Love at Kater on Fri 11 Sept, Berlin. 27 act
 - Mimi Love
 - Pauli Pocket
 - Playlove
-- RSS Disco
 - Roni Amitai
+- RSS Disco
 - Sascha Cawa
 - Shimon (3)
 - Steve Challier

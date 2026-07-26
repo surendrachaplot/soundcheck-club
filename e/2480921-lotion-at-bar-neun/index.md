@@ -1,6 +1,6 @@
 # LOTION at Bar Neun
 
-LOTION at Bar Neun on Sun 26 Jul, Berlin. 4 acts on the bill: Sabiwa, aemlx, eNμ (1) and lloydfears. Experimental and Electronica. Preview the line-up and save it on soundcheck.
+LOTION at Bar Neun on Sun 26 Jul, Berlin. 4 acts on the bill: aemlx, eNμ (1), lloydfears and Sabiwa. Experimental and Electronica. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,9 +10,9 @@ LOTION at Bar Neun on Sun 26 Jul, Berlin. 4 acts on the bill: Sabiwa, aemlx, eN�
 
 ## Line-up
 
-- Sabiwa
 - aemlx
 - eNμ (1)
 - lloydfears
+- Sabiwa
 
 *Source: [soundcheck](https://soundcheck.club/e/2480921-lotion-at-bar-neun/)*

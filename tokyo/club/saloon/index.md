@@ -1,15 +1,13 @@
 # Saloon
 
-Saloon is a music venue in Tokyo with 9 upcoming nights listed on soundcheck as of Sat, 25 Jul 2026; the next is "Aporia (Techno/Bass at Saloon, Tokyo)" on Sat, 25 Jul 2026.
+Saloon is a music venue in Tokyo with 7 upcoming nights listed on soundcheck as of Sun, 26 Jul 2026; the next is "実話時代" on Sun, 26 Jul 2026.
 
-Saloon is a music venue in Tokyo listed on soundcheck. 9 upcoming nights, with line-ups including Abraham, BASiRiNO, C-KAY and ecec and 2 more. Browse upcoming dates, start times and who's playing. 1-34-17 ZA House Bldg B3F, Ebisu-nishi, Shibuya-ku, Tokyo,  Japan.
+Saloon is a music venue in Tokyo listed on soundcheck. 7 upcoming nights, with line-ups including Abraham, BASiRiNO, ecec and intoxxy and 2 more. Browse upcoming dates, start times and who's playing. 1-34-17 ZA House Bldg B3F, Ebisu-nishi, Shibuya-ku, Tokyo,  Japan.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Sat, 25 Jul 2026 | Aporia (Techno/Bass at Saloon, Tokyo) | C-KAY, Neutran, Yon Kim |
-| Sat, 25 Jul 2026 | Aporia | C-KAY, Neutran |
 | Sun, 26 Jul 2026 | 実話時代 | Abraham |
 | Thu, 30 Jul 2026 | Charge spot |  |
 | Fri, 31 Jul 2026 | AZTEC TOUR |  |
@@ -22,4 +20,4 @@ Saloon is a music venue in Tokyo listed on soundcheck. 9 upcoming nights, with l
 
 1-34-17 ZA House Bldg B3F, Ebisu-nishi, Shibuya-ku, Tokyo,  Japan, Tokyo
 
-*Updated Sat, 25 Jul 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/saloon/)*
+*Updated Sun, 26 Jul 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/saloon/)*

@@ -1,6 +1,6 @@
 # TFELD at Tempelhof Airport
 
-TFELD at Tempelhof Airport on Sat 22 Aug, Berlin. 16 acts on the bill: BIIANCO, Bae Blade, CEREN and Cinthie and 12 more. Techno and Hip-Hop. Preview the line-up and save it on soundcheck.
+TFELD at Tempelhof Airport on Sat 22 Aug, Berlin. 16 acts on the bill: Bae Blade, BIIANCO, CEREN and Cinthie and 12 more. Techno and Hip-Hop. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,8 +10,8 @@ TFELD at Tempelhof Airport on Sat 22 Aug, Berlin. 16 acts on the bill: BIIANCO, 
 
 ## Line-up
 
-- BIIANCO
 - Bae Blade
+- BIIANCO
 - CEREN
 - Cinthie
 - Ellen Allien
@@ -22,9 +22,9 @@ TFELD at Tempelhof Airport on Sat 22 Aug, Berlin. 16 acts on the bill: BIIANCO, 
 - MrD
 - Paul Kalkbrenner
 - Shake Daddy
+- southstar
 - Spacer Woman
 - Victor (DE)
 - XIMA
-- southstar
 
 *Source: [soundcheck](https://soundcheck.club/e/2444550-tfeld-at-tempelhof-airport/)*

@@ -1,14 +1,13 @@
 # Nitsa Club
 
-Nitsa Club is a music venue in Barcelona with 6 upcoming nights listed on soundcheck as of Sat, 25 Jul 2026; the next is "Indo Warehouse · Carla Valenti" on Sat, 25 Jul 2026.
+Nitsa Club is a music venue in Barcelona with 5 upcoming nights listed on soundcheck as of Sun, 26 Jul 2026; the next is "Trance NXC: TDJ b2b Cult Member · Uffie · JUMER" on Fri, 31 Jul 2026.
 
-Nitsa Club is a music venue in Barcelona listed on soundcheck. 6 upcoming nights, with line-ups including Astin, Bob Moses, CANDADISMO and Carla Valenti and 2 more. Browse upcoming dates, start times and who's playing. Carrer Nou de la Rambla, 113; 08004 Barcelona; Spain.
+Nitsa Club is a music venue in Barcelona listed on soundcheck. 5 upcoming nights, with line-ups including Bob Moses, Cult Member, Dj Fra and Julya Karma and 2 more. Browse upcoming dates, start times and who's playing. Carrer Nou de la Rambla, 113; 08004 Barcelona; Spain.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Sat, 25 Jul 2026 | Indo Warehouse · Carla Valenti | Astin, CANDADISMO, CRRDR, Carla Valenti, L'Miranda, VHOOR |
 | Fri, 31 Jul 2026 | Trance NXC: TDJ b2b Cult Member · Uffie · JUMER | Cult Member, Dj Fra, JUMER, Julya Karma, Kasablanca, TDJ, Uffie |
 | Sat, 1 Aug 2026 | Yaeji DJ Set | Yaeji |
 | Fri, 21 Aug 2026 | Bob Moses Club Set | Bob Moses |
@@ -19,4 +18,4 @@ Nitsa Club is a music venue in Barcelona listed on soundcheck. 6 upcoming nights
 
 Carrer Nou de la Rambla, 113; 08004 Barcelona; Spain, Barcelona
 
-*Updated Sat, 25 Jul 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/nitsa-club/)*
+*Updated Sun, 26 Jul 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/nitsa-club/)*

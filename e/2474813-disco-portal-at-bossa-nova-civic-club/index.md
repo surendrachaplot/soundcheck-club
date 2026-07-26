@@ -1,6 +1,6 @@
 # Disco Portal at Bossa Nova Civic Club
 
-Disco Portal at Bossa Nova Civic Club on Mon 17 Aug, Newyorkcity. 4 acts on the bill: LIONESSA, PUFF, Varist and suciopath. Preview the line-up and save it on soundcheck.
+Disco Portal at Bossa Nova Civic Club on Mon 17 Aug, Newyorkcity. 4 acts on the bill: LIONESSA, PUFF, suciopath and Varist. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -12,7 +12,7 @@ Disco Portal at Bossa Nova Civic Club on Mon 17 Aug, Newyorkcity. 4 acts on the 
 
 - LIONESSA
 - PUFF
-- Varist
 - suciopath
+- Varist
 
 *Source: [soundcheck](https://soundcheck.club/e/2474813-disco-portal-at-bossa-nova-civic-club/)*

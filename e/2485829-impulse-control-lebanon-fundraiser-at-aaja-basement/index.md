@@ -16,7 +16,7 @@ Impulse Control: Lebanon Fundraiser at Aaja Basement on Sat 15 Aug, London. 8 ac
 - MaxQuerade
 - NakedAggressionDJ
 - New Flesh (2)
-- Toni S
 - slyn
+- Toni S
 
 *Source: [soundcheck](https://soundcheck.club/e/2485829-impulse-control-lebanon-fundraiser-at-aaja-basement/)*

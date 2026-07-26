@@ -1,14 +1,13 @@
 # Void Club
 
-Void Club is a music venue in Berlin with 10 upcoming nights listed on soundcheck as of Sat, 25 Jul 2026; the next is "Enter the Void #79 with Giana Brotherz, Deskai, Antiquis Anima, Soniq, Roots, LOUPING, Ametiska" on Sat, 25 Jul 2026.
+Void Club is a music venue in Berlin with 9 upcoming nights listed on soundcheck as of Sun, 26 Jul 2026; the next is "VOID x Druschba Psy Crew Vol. 2" on Sat, 1 Aug 2026.
 
-Void Club is a music venue in Berlin listed on soundcheck. 10 upcoming nights, with line-ups including ADOBE, Agem, Andi Beat and Antiquis Anima and 2 more. Browse upcoming dates, start times and who's playing. Wiesenweg 5-9, 10365.
+Void Club is a music venue in Berlin listed on soundcheck. 9 upcoming nights, with line-ups including ADOBE, Agem, Andi Beat and Anton Quasi and 2 more. Browse upcoming dates, start times and who's playing. Wiesenweg 5-9, 10365.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Sat, 25 Jul 2026 | Enter the Void #79 with Giana Brotherz, Deskai, Antiquis Anima, Soniq, Roots, LOUPING, Ametiska | Antiquis Anima, Deskai, Flow TNTS, Giana Brotherz, LOUPING, Roots., Soniq, Theo Slickers, kogo.berlin |
 | Sat, 1 Aug 2026 | VOID x Druschba Psy Crew Vol. 2 | H.U.K, Nerv, Upzet |
 | Fri, 7 Aug 2026 | Free Party | Dino S, Sagrivox, Upzet |
 | Sat, 8 Aug 2026 | Stoic Music x Breakout DNB (NL) | Anton Quasi, Initia, phasebound |
@@ -23,4 +22,4 @@ Void Club is a music venue in Berlin listed on soundcheck. 10 upcoming nights, w
 
 Wiesenweg 5-9, 10365, Berlin
 
-*Updated Sat, 25 Jul 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/void-club/)*
+*Updated Sun, 26 Jul 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/void-club/)*

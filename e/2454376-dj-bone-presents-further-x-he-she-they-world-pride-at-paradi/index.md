@@ -1,6 +1,6 @@
 # DJ Bone presents: FURTHER x HE.SHE.THEY. World Pride at Paradiso
 
-DJ Bone presents: FURTHER x HE.SHE.THEY. World Pride at Paradiso on Fri 31 Jul, Amsterdam. 6 acts on the bill: Azucy, Bradley Skeng, DJ Bone and Derrick Carter and 2 more. Techno and House. Preview the line-up and save it on soundcheck.
+DJ Bone presents: FURTHER x HE.SHE.THEY. World Pride at Paradiso on Fri 31 Jul, Amsterdam. 6 acts on the bill: Azucy, Bradley Skeng, Derrick Carter and DJ Bone and 2 more. Techno and House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -12,8 +12,8 @@ DJ Bone presents: FURTHER x HE.SHE.THEY. World Pride at Paradiso on Fri 31 Jul, 
 
 - Azucy
 - Bradley Skeng
-- DJ Bone
 - Derrick Carter
+- DJ Bone
 - Lola Edo
 - SYREETA
 

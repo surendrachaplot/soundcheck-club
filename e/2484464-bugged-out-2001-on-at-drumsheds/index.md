@@ -1,6 +1,6 @@
 # Bugged Out! 2001 & On at DRUMSHEDS
 
-Bugged Out! 2001 & On at DRUMSHEDS on Sat 10 Oct, London. 24 acts on the bill: 2ManyDJs, Alan Braxe, Alexis Taylor and DJ F16 Falcon and 20 more. House and Club. Preview the line-up and save it on soundcheck.
+Bugged Out! 2001 & On at DRUMSHEDS on Sat 10 Oct, London. 24 acts on the bill: 2ManyDJs, Alan Braxe, Alexis Taylor and Dave Clarke and 20 more. House and Club. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -13,12 +13,12 @@ Bugged Out! 2001 & On at DRUMSHEDS on Sat 10 Oct, London. 24 acts on the bill: 2
 - 2ManyDJs
 - Alan Braxe
 - Alexis Taylor
-- DJ F16 Falcon
 - Dave Clarke
+- DJ F16 Falcon
 - Erol Alkan
 - Etienne De Crecy
-- FC Kahuna
 - Fall Forward
+- FC Kahuna
 - Felix Da Housecat
 - Friendly Fires
 - Heidi

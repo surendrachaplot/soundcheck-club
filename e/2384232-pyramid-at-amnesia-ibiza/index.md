@@ -16,7 +16,7 @@ Pyramid at Amnesia Ibiza on Sun 9 Aug, Ibiza. 8 acts on the bill: 999999999, CAA
 - Interplanetary Criminal
 - Sidney Charles
 - Silva Bumpa
-- Yanamaste
 - ÜBERKIKZ
+- Yanamaste
 
 *Source: [soundcheck](https://soundcheck.club/e/2384232-pyramid-at-amnesia-ibiza/)*

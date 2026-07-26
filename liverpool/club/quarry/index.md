@@ -1,14 +1,13 @@
 # Quarry
 
-Quarry is a music venue in Liverpool with 9 upcoming nights listed on soundcheck as of Sat, 25 Jul 2026; the next is "SWITCH presents Liverpool Pride After-Party" on Sat, 25 Jul 2026.
+Quarry is a music venue in Liverpool with 8 upcoming nights listed on soundcheck as of Sun, 26 Jul 2026; the next is "Oscillations: Lula Nova w/ Ben Hanson Fair" on Wed, 29 Jul 2026.
 
-Quarry is a music venue in Liverpool listed on soundcheck. 9 upcoming nights, with line-ups including Crimewave, djcd, Hardcore Babes and Insurrect and 2 more. Browse upcoming dates, start times and who's playing. 45 Hardman St, Liverpool L1 9AS.
+Quarry is a music venue in Liverpool listed on soundcheck. 8 upcoming nights, with line-ups including Crimewave, djcd, Insurrect and Karman and 2 more. Browse upcoming dates, start times and who's playing. 45 Hardman St, Liverpool L1 9AS.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Sat, 25 Jul 2026 | SWITCH presents Liverpool Pride After-Party | Hardcore Babes, TAMAN (2) |
 | Wed, 29 Jul 2026 | Oscillations: Lula Nova w/ Ben Hanson Fair |  |
 | Fri, 31 Jul 2026 | Strike A Pose | polymaas |
 | Fri, 7 Aug 2026 | Sound Of Solidarity | Insurrect, Karman, MYOHMY, Shauna, djcd |
@@ -22,4 +21,4 @@ Quarry is a music venue in Liverpool listed on soundcheck. 9 upcoming nights, wi
 
 45 Hardman St, Liverpool L1 9AS, Liverpool
 
-*Updated Sat, 25 Jul 2026 · source: [soundcheck](https://soundcheck.club/liverpool/club/quarry/)*
+*Updated Sun, 26 Jul 2026 · source: [soundcheck](https://soundcheck.club/liverpool/club/quarry/)*

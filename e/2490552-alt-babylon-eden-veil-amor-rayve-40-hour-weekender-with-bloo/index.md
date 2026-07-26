@@ -25,8 +25,8 @@ ALT BABYLON: EDEN × VEIL AMOR × RAYVE - 40-Hour Weekender with Bloody Mary, La
 - Nanzhen Yang
 - Patricio Strix
 - Pink Concrete
-- RiVid
 - Riki Boro
+- RiVid
 - S.N.R.I.
 - SJ Yellow
 - SURCO

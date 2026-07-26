@@ -1,15 +1,13 @@
 # Forestlimit
 
-Forestlimit is a music venue in Tokyo with 24 upcoming nights listed on soundcheck as of Sat, 25 Jul 2026; the next is "''''''''INITIAL IMPULSE''''''''" on Sat, 25 Jul 2026.
+Forestlimit is a music venue in Tokyo with 23 upcoming nights listed on soundcheck as of Sun, 26 Jul 2026; the next is "anxiousrei 1st Album【ST INDULGENCE】Release Party" on Sun, 26 Jul 2026.
 
-Forestlimit is a music venue in Tokyo listed on soundcheck. 24 upcoming nights, with line-ups including ANiIIIIiiiKii, Ascalypso, Axorst2k and Can (8) and 2 more. Browse upcoming dates, start times and who's playing. 2-8-15 B15 Hatagaya K3 Building, Shibuya-ku Hatagaya, Tokyo.
+Forestlimit is a music venue in Tokyo listed on soundcheck. 23 upcoming nights, with line-ups including ANiIIIIiiiKii, Ascalypso, Can (8) and Cocoa and 2 more. Browse upcoming dates, start times and who's playing. 2-8-15 B15 Hatagaya K3 Building, Shibuya-ku Hatagaya, Tokyo.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Sat, 25 Jul 2026 | ''''''''INITIAL IMPULSE'''''''' |  |
-| Sat, 25 Jul 2026 | 7/25 | Axorst2k, Lil Farm |
 | Sun, 26 Jul 2026 | anxiousrei 1st Album【ST INDULGENCE】Release Party |  |
 | Tue, 28 Jul 2026 | KARIYUSHI FESTIVAL After Party in Tokyo | Hënkį, SCUM PRIEST |
 | Wed, 29 Jul 2026 | 【塵 M/A/S/S/A/C/R/E】 | Cocoa, Ivy, meweta, seaketa |
@@ -18,9 +16,11 @@ Forestlimit is a music venue in Tokyo listed on soundcheck. 24 upcoming nights, 
 | Sat, 1 Aug 2026 | ⁡｢THE BODY｣ | mionn, pìccolo |
 | Sun, 2 Aug 2026 | ious serious vol. 1 'tran-ious' | Le Makeup, meweta |
 | Fri, 7 Aug 2026 | BC4L |  |
+| Sat, 8 Aug 2026 | RANDOM CODE | Can (8), Daichi Wago, Tetsuya Fukada, Ziziphus Jujuba |
+| Sun, 9 Aug 2026 | TRANSONIC RECORDS PRESENTS 納涼ACID大会 | Monolith, Mutron |
 
 ## Address
 
 2-8-15 B15 Hatagaya K3 Building, Shibuya-ku Hatagaya, Tokyo, Tokyo
 
-*Updated Sat, 25 Jul 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/forestlimit/)*
+*Updated Sun, 26 Jul 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/forestlimit/)*

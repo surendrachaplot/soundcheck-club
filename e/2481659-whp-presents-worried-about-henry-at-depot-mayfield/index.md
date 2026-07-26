@@ -1,6 +1,6 @@
 # WHP presents: Worried About Henry at Depot Mayfield
 
-WHP presents: Worried About Henry at Depot Mayfield on Fri 9 Oct, Manchester. 52 acts on the bill: 2Shy MC, Alive, Andy C and BERRA and 48 more. Drum & Bass and Garage. Preview the line-up and save it on soundcheck.
+WHP presents: Worried About Henry at Depot Mayfield on Fri 9 Oct, Manchester. 52 acts on the bill: 2Shy MC, Alive, Andy C and BassLayerz and 48 more. Drum & Bass and Garage. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -13,8 +13,8 @@ WHP presents: Worried About Henry at Depot Mayfield on Fri 9 Oct, Manchester. 52
 - 2Shy MC
 - Alive
 - Andy C
-- BERRA
 - BassLayerz
+- BERRA
 - Bladerunner
 - Bou (UK)
 - Break (2)
@@ -48,12 +48,12 @@ WHP presents: Worried About Henry at Depot Mayfield on Fri 9 Oct, Manchester. 52
 - Pola & Bryson
 - Prosek
 - S.P.Y
+- Saint Ludo
 - SAVANNAH
 - SEMPA (UK)
+- Sigma
 - SKALAH (UK)
 - SOTA
-- Saint Ludo
-- Sigma
 - Stamina (DE)
 - Tempza
 - Tonn Piper

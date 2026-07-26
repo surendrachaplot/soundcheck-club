@@ -1,14 +1,13 @@
 # Altenburg 1964
 
-Altenburg 1964 is a music venue in Prague with 10 upcoming nights listed on soundcheck as of Sat, 25 Jul 2026; the next is "Face2Funk" on Sat, 25 Jul 2026.
+Altenburg 1964 is a music venue in Prague with 9 upcoming nights listed on soundcheck as of Sun, 26 Jul 2026; the next is "SUN > ATG < SET: FOOTCLAN (Tuco & N.D.N.M.)" on Thu, 30 Jul 2026.
 
-Altenburg 1964 is a music venue in Prague listed on soundcheck. 10 upcoming nights, with line-ups including 2NDRA, 3ever, Adamatron and Ansea and 2 more. Browse upcoming dates, start times and who's playing. Partyzánská 18/23, 17000 Praha 7.
+Altenburg 1964 is a music venue in Prague listed on soundcheck. 9 upcoming nights, with line-ups including 2NDRA, 3ever, Adamatron and Ansea and 2 more. Browse upcoming dates, start times and who's playing. Partyzánská 18/23, 17000 Praha 7.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Sat, 25 Jul 2026 | Face2Funk | Blen (3), Opi (CZ), Whitetrip, tg_paul |
 | Thu, 30 Jul 2026 | SUN > ATG < SET: FOOTCLAN (Tuco & N.D.N.M.) | DJ Tuco, Name Does Not Matter |
 | Fri, 31 Jul 2026 | RUSH HOUR: Blame The Mono, MIKLEI, SJ Yellow, Takē | Blame The Mono, MIKLEI, SJ Yellow, Takē |
 | Thu, 6 Aug 2026 | SUN > PRIDE < SET: Atlaskin, Marc000, VNNUK, TerminusTechnikus | Atlaskin, Marc000, TerminusTechnikus, VNNUK |
@@ -23,4 +22,4 @@ Altenburg 1964 is a music venue in Prague listed on soundcheck. 10 upcoming nigh
 
 Partyzánská 18/23, 17000 Praha 7, Prague
 
-*Updated Sat, 25 Jul 2026 · source: [soundcheck](https://soundcheck.club/prague/club/altenburg-1964/)*
+*Updated Sun, 26 Jul 2026 · source: [soundcheck](https://soundcheck.club/prague/club/altenburg-1964/)*

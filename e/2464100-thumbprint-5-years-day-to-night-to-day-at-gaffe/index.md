@@ -18,7 +18,7 @@ thumbprint 5 years ⋆ 𖤓 ⋆˚࿔ day to night, to day at Gaffe on Sat 5 Sept
 - Kuba'97
 - Mia Cecille
 - Picasso
-- Vlada
 - tom thumb
+- Vlada
 
 *Source: [soundcheck](https://soundcheck.club/e/2464100-thumbprint-5-years-day-to-night-to-day-at-gaffe/)*

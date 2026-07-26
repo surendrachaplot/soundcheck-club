@@ -1,6 +1,6 @@
 # Apricots' Jam x Black Rhino at Club der Visionaere
 
-Apricots' Jam x Black Rhino at Club der Visionaere on Thu 20 Aug, Berlin. 4 acts on the bill: Enchanted Rhythms, The Apricots, Ygor and matei. Breakbeat and House. Preview the line-up and save it on soundcheck.
+Apricots' Jam x Black Rhino at Club der Visionaere on Thu 20 Aug, Berlin. 4 acts on the bill: Enchanted Rhythms, matei, The Apricots and Ygor. Breakbeat and House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -11,8 +11,8 @@ Apricots' Jam x Black Rhino at Club der Visionaere on Thu 20 Aug, Berlin. 4 acts
 ## Line-up
 
 - Enchanted Rhythms
+- matei
 - The Apricots
 - Ygor
-- matei
 
 *Source: [soundcheck](https://soundcheck.club/e/2350324-apricots-jam-x-black-rhino-at-club-der-visionaere/)*

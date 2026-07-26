@@ -14,8 +14,8 @@ Alien Communications 7th Birthday at FOLD on Fri 28 Aug, London. 10 acts on the 
 - Andrew James Gustav
 - Anna Wall
 - Anthony Rother
-- DJ Stingray 313
 - De La Reef
+- DJ Stingray 313
 - Domenic Cappello
 - Jos
 - Loa Szala

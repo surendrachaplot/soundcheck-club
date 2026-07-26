@@ -1,6 +1,6 @@
 # James Massiah
 
-James Massiah is a Club and Experimental artist with 5 upcoming club dates listed on soundcheck as of Sat, 25 Jul 2026, next at Amsterdamse Bos, Amsterdam on Wed, 29 Jul 2026.
+James Massiah is a Club and Experimental artist with 5 upcoming club dates listed on soundcheck as of Sun, 26 Jul 2026, next at Amsterdamse Bos, Amsterdam on Wed, 29 Jul 2026.
 
 James Massiah is a club and experimental artist tracked on soundcheck, with 89 sets logged across Amsterdam, Belgrade, Berlin and Bristol and 12 more. Often billed alongside Lord Tusk, Kemarr and Tash LC. Next up: Amsterdamse Bos, Amsterdam on Wed 29 Jul.
 
@@ -29,4 +29,4 @@ James Massiah is a club and experimental artist tracked on soundcheck, with 89 s
 
 Lord Tusk, Kemarr, Tash LC
 
-*Updated Sat, 25 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/jamesmassiah/)*
+*Updated Sun, 26 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/jamesmassiah/)*

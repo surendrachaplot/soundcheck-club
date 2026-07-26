@@ -1,6 +1,6 @@
 # House Rules x Redlight at Redlight
 
-House Rules x Redlight on Thu 30 Jul, Manchester. 3 acts on the bill: D-LIA, HSTN and Hello From Ben. House and Disco. Preview the line-up and save it on soundcheck.
+House Rules x Redlight on Thu 30 Jul, Manchester. 3 acts on the bill: D-LIA, Hello From Ben and HSTN. House and Disco. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -11,7 +11,7 @@ House Rules x Redlight on Thu 30 Jul, Manchester. 3 acts on the bill: D-LIA, HST
 ## Line-up
 
 - D-LIA
-- HSTN
 - Hello From Ben
+- HSTN
 
 *Source: [soundcheck](https://soundcheck.club/e/2489598-house-rules-x-redlight-at-redlight/)*

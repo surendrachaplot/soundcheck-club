@@ -18,10 +18,10 @@ MILLIAMPERE x Ambra presents two girls one mom invites /w Danilo Filipe, George 
 - GEORGE aka DR.RADSPORT
 - Glen West
 - Jannik van der Vegt
-- Scutta
-- YËDM
 - jeanska
 - m4tsch1
+- Scutta
 - two girls one mom
+- YËDM
 
 *Source: [soundcheck](https://soundcheck.club/e/2215896-milliampere-x-ambra-presents-two-girls-one-mom-invites-w-dan/)*

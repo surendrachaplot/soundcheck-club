@@ -14,10 +14,10 @@ Renate Klubnacht + Open Air (Free Entry) with Craigie Knowes & Phuong Dan on Fri
 - DJ Life
 - Dream_E
 - Eliza (2)
+- kairavi
 - Lyla
 - Nimb
 - Phuong Dan
 - The Burrell Connection
-- kairavi
 
 *Source: [soundcheck](https://soundcheck.club/e/2455508-renate-klubnacht-open-air-free-entry-with-craigie-knowes-phu/)*

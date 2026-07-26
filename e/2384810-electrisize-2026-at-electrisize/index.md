@@ -1,6 +1,6 @@
 # Electrisize 2026 at Electrisize
 
-Electrisize 2026 on Fri 7 Aug, Dusseldorf. 25 acts on the bill: A.N.I., Alle Farben, BOVSKI and Ben Techy and 21 more. Techno and House. Preview the line-up and save it on soundcheck.
+Electrisize 2026 on Fri 7 Aug, Dusseldorf. 25 acts on the bill: A.N.I., Alle Farben, Ben Techy and BOVSKI and 21 more. Techno and House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -12,20 +12,20 @@ Electrisize 2026 on Fri 7 Aug, Dusseldorf. 25 acts on the bill: A.N.I., Alle Far
 
 - A.N.I.
 - Alle Farben
-- BOVSKI
 - Ben Techy
+- BOVSKI
 - Brennan Heart
 - Coone
-- DJ Achim Feuervogel
 - Da Hool
 - Dimitri K
+- DJ Achim Feuervogel
 - Dr Donk
 - Jasmin Blust
 - Jebroer
 - Johannes Schuster
 - KLOFAMA
-- NYRA (DE)
 - Noel Holler
+- NYRA (DE)
 - Onlynumbers
 - Paul Elstak
 - Showtek

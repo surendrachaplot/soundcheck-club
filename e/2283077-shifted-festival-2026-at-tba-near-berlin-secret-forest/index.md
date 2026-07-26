@@ -14,6 +14,7 @@ Shifted Festival 2026 at TBA - Near Berlin (Secret Forest) on Thu 6 Aug, Berlin.
 - 3LEEZA
 - 4NOUK
 - AEMN
+- alemiko
 - Amo (IT)
 - Amøn
 - Anuuk
@@ -22,14 +23,14 @@ Shifted Festival 2026 at TBA - Near Berlin (Secret Forest) on Thu 6 Aug, Berlin.
 - Cara Elizabeth
 - Charleen Herzig
 - Cobb Douglas
+- Dana Roosy
+- David Löhlein
 - DETOXX
 - DICE
 - DIE FUNKELZIFFER
 - DJ Achim Feuervogel
 - DJ DRECKISCH
 - DJ SPORTSCHUH
-- Dana Roosy
-- David Löhlein
 - DonChoppa
 - EDNA
 - FENIM0RE
@@ -38,48 +39,47 @@ Shifted Festival 2026 at TBA - Near Berlin (Secret Forest) on Thu 6 Aug, Berlin.
 - HANÀ
 - IGDA
 - Janky
-- KLING&KLANG
-- KUSS
 - Kamäleon
 - Katy Rough
+- KLING&KLANG
 - Kø:lab
-- LIIAS
+- KUSS
 - Laure Croft
+- LIIAS
 - Louis Harshman
+- Mathilda
 - MAURER
+- Melushka
+- mes amis
 - MJ (JP)
 - MRGNSTRN
-- Mathilda
-- Melushka
 - NIKKI030
-- NYRA (DE)
 - Nikolina
 - Niotech
 - NØ TiME
+- NYRA (DE)
 - Ozzwald
 - Paraçek
 - Part Time Killer
 - Philena
 - Pōnky
 - RAXA
-- SEKTOR69
-- STEYA
 - Schicktanz
 - Sebastian Ludvig
+- SEKTOR69
 - Shanda
 - Shemm
 - Son of Adria
+- STEYA
 - Tham
 - Towicz
 - Trancestrudel
+- two girls one mom
+- ÜBERKIKZ
 - VIVUS
 - XIMA
-- ZOEVITA
 - Zelyna je Belle
-- alemiko
-- mes amis
-- two girls one mom
+- ZOEVITA
 - zwilling.
-- ÜBERKIKZ
 
 *Source: [soundcheck](https://soundcheck.club/e/2283077-shifted-festival-2026-at-tba-near-berlin-secret-forest/)*

@@ -1,6 +1,6 @@
 # Gianpula Main Room
 
-Gianpula Main Room is a music venue in Malta with 3 upcoming nights listed on soundcheck as of Sat, 25 Jul 2026; the next is "G7 FRIDAYS 2026" on Fri, 7 Aug 2026.
+Gianpula Main Room is a music venue in Malta with 3 upcoming nights listed on soundcheck as of Sun, 26 Jul 2026; the next is "G7 FRIDAYS 2026" on Fri, 7 Aug 2026.
 
 Gianpula Main Room is a music venue in Malta listed on soundcheck. 3 upcoming nights. Browse upcoming dates, start times and who's playing. Gianpula Village, Gianpula Road, Rabat, MALTA.
 
@@ -16,4 +16,4 @@ Gianpula Main Room is a music venue in Malta listed on soundcheck. 3 upcoming ni
 
 Gianpula Village, Gianpula Road, Rabat, MALTA, Malta
 
-*Updated Sat, 25 Jul 2026 · source: [soundcheck](https://soundcheck.club/malta/club/gianpula-main-room/)*
+*Updated Sun, 26 Jul 2026 · source: [soundcheck](https://soundcheck.club/malta/club/gianpula-main-room/)*

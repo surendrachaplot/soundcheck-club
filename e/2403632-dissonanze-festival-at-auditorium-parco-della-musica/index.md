@@ -19,8 +19,8 @@ Dissonanze Festival at Auditorium Parco della Musica on Sat 12 Sept, Rome. 34 ac
 - Daphni
 - Donato Dozzy
 - Floating Points
-- GNMR
 - Giancarlino
+- GNMR
 - Honey Dijon
 - IRIDE
 - ISAbella

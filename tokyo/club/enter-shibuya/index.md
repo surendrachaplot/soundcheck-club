@@ -1,14 +1,13 @@
 # Enter Shibuya
 
-Enter Shibuya is a music venue in Tokyo with 14 upcoming nights listed on soundcheck as of Sat, 25 Jul 2026; the next is "QUORUM" on Sat, 25 Jul 2026.
+Enter Shibuya is a music venue in Tokyo with 13 upcoming nights listed on soundcheck as of Sun, 26 Jul 2026; the next is "Vermilion" on Mon, 27 Jul 2026.
 
-Enter Shibuya is a music venue in Tokyo listed on soundcheck. 14 upcoming nights, with line-ups including AllA, AMANE, COCOLY and CYBERHACKSYSTEM and 2 more. Browse upcoming dates, start times and who's playing. 6F GEMS Jingumae, 6-19-17,  Jingumae,Shibuya-ku, Tokyo 150-0001 Japan.
+Enter Shibuya is a music venue in Tokyo listed on soundcheck. 13 upcoming nights, with line-ups including AllA, COCOLY, CYBERHACKSYSTEM and DJ Moro and 2 more. Browse upcoming dates, start times and who's playing. 6F GEMS Jingumae, 6-19-17,  Jingumae,Shibuya-ku, Tokyo 150-0001 Japan.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Sat, 25 Jul 2026 | QUORUM | AMANE, Hayato, Licaxxx, Sota Shimada, Taichi Nagayama, lostbaggage |
 | Mon, 27 Jul 2026 | Vermilion | kengotaki |
 | Tue, 28 Jul 2026 | Epic Act | UG (1), YUTA |
 | Wed, 29 Jul 2026 | VAMOS | AllA, HIBIKI |
@@ -18,9 +17,10 @@ Enter Shibuya is a music venue in Tokyo listed on soundcheck. 14 upcoming nights
 | Mon, 3 Aug 2026 | BB | CYBERHACKSYSTEM, OKAMOTO REIJI, S.H.V, ryuu (2) |
 | Tue, 4 Aug 2026 | Dance Dance Dance | FELINE (JP), NordOst, 宇宙チンチラ |
 | Wed, 5 Aug 2026 | SHELL WE ENTER | UG (1), lostbaggage |
+| Wed, 12 Aug 2026 | Denki vol.2 | Eichi Abe, Pointhope, Tui (1) |
 
 ## Address
 
 6F GEMS Jingumae, 6-19-17,  Jingumae,Shibuya-ku, Tokyo 150-0001 Japan, Tokyo
 
-*Updated Sat, 25 Jul 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/enter-shibuya/)*
+*Updated Sun, 26 Jul 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/enter-shibuya/)*

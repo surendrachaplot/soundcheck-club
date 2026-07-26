@@ -1,14 +1,13 @@
 # Hï Ibiza
 
-Hï Ibiza is a music venue in Ibiza with 74 upcoming nights listed on soundcheck as of Sat, 25 Jul 2026; the next is "Black Coffee" on Sat, 25 Jul 2026.
+Hï Ibiza is a music venue in Ibiza with 73 upcoming nights listed on soundcheck as of Sun, 26 Jul 2026; the next is "CamelPhat present Summer of Love" on Sun, 26 Jul 2026.
 
-Hï Ibiza is a music venue in Ibiza listed on soundcheck. 74 upcoming nights, with line-ups including 8KAYS, Paolo Ferrara, AARON SEVILLA and Adam Beyer and 2 more. Browse upcoming dates, start times and who's playing. Platja d''en Bossa s/n, 07817 Sant Josep de sa Talaia, Balearic Islands, Spain.
+Hï Ibiza is a music venue in Ibiza listed on soundcheck. 73 upcoming nights, with line-ups including 8KAYS, Paolo Ferrara, AARON SEVILLA and Adam Beyer and 2 more. Browse upcoming dates, start times and who's playing. Platja d''en Bossa s/n, 07817 Sant Josep de sa Talaia, Balearic Islands, Spain.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Sat, 25 Jul 2026 | Black Coffee | Ben Sterling, Black Coffee, Da Mike, Liva K, Shimza, Skepta, Skinny |
 | Sun, 26 Jul 2026 | CamelPhat present Summer of Love | CamelPhat, Indira Paganotto |
 | Mon, 27 Jul 2026 | Francis Mercier presents Solèy | Alex Wann, Andrea Oliva, Argia, Francis Mercier, Henrik Schwarz |
 | Mon, 27 Jul 2026 | Hi Ibiza | Alex Wann |
@@ -18,9 +17,10 @@ Hï Ibiza is a music venue in Ibiza listed on soundcheck. 74 upcoming nights, wi
 | Fri, 31 Jul 2026 | Dom Dolla - Radio 1 Dance X Afterparty | DART, Dom Dolla, Ewan McVicar |
 | Sat, 1 Aug 2026 | Black Coffee | &LEZ, Black Coffee, Dennis Ferrer, Dubfire, Kitty Amor, Skepta |
 | Sun, 2 Aug 2026 | CamelPhat present Summer of Love | BEC, CamelPhat, Indira Paganotto, Paolo Ferrara, Valentino |
+| Mon, 3 Aug 2026 | Francis Mercier presents Solèy | AVÖ (PT), Afrojack, Andrea Oliva, Cincity, Francis Mercier, Kaz James, Philou Louzolo, Tjondoo |
 
 ## Address
 
 Platja d''en Bossa s/n, 07817 Sant Josep de sa Talaia, Balearic Islands, Spain, Ibiza
 
-*Updated Sat, 25 Jul 2026 · source: [soundcheck](https://soundcheck.club/ibiza/club/h-ibiza/)*
+*Updated Sun, 26 Jul 2026 · source: [soundcheck](https://soundcheck.club/ibiza/club/h-ibiza/)*

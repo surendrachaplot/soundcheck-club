@@ -1,8 +1,8 @@
 # Maz (BR)
 
-Maz (BR) is a House and Tech House artist with 3 upcoming club dates listed on soundcheck as of Sat, 25 Jul 2026, next at Miscellania, Melbourne on Sat, 8 Aug 2026.
+Maz (BR) is a House and Tech House artist with 4 upcoming club dates listed on soundcheck as of Sun, 26 Jul 2026, next at Miscellania, Melbourne on Sat, 8 Aug 2026.
 
-Maz (BR) is a house and tech house artist tracked on soundcheck, with 98 sets logged across Athens, Austin, Bali and Barcelona and 27 more. Often billed alongside Antdot, Vintage Culture and Artbat. Next up: Miscellania, Melbourne on Sat 8 Aug.
+Maz (BR) is a house and tech house artist tracked on soundcheck, with 99 sets logged across Amsterdam, Athens, Austin and Bali and 28 more. Often billed alongside Antdot, Vintage Culture and Artbat. Next up: Miscellania, Melbourne on Sat 8 Aug.
 
 ## Upcoming shows
 
@@ -11,6 +11,7 @@ Maz (BR) is a house and tech house artist tracked on soundcheck, with 98 sets lo
 | Sat, 8 Aug 2026 | Miscellania | Melbourne |
 | Sat, 5 Sept 2026 | Hï Ibiza | Ibiza |
 | Thu, 10 Sept 2026 | Lula Club | Madrid |
+| Sat, 24 Oct 2026 | RAWFACTORY | Amsterdam |
 
 ## Recently played
 
@@ -27,4 +28,4 @@ Maz (BR) is a house and tech house artist tracked on soundcheck, with 98 sets lo
 
 Antdot, Vintage Culture, Artbat
 
-*Updated Sat, 25 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/mazbr/)*
+*Updated Sun, 26 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/mazbr/)*

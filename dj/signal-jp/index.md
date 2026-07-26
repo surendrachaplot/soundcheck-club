@@ -1,8 +1,8 @@
 # SIGNAL (JP)
 
-SIGNAL (JP) is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Sat, 25 Jul 2026, next at Aoyama Hachi, Tokyo on Sun, 26 Jul 2026.
+SIGNAL (JP) is a Techno and House artist with 6 upcoming club dates listed on soundcheck as of Sun, 26 Jul 2026, next at Aoyama Hachi, Tokyo on Sun, 26 Jul 2026.
 
-SIGNAL (JP) is a techno and house artist based in Japan, tracked on soundcheck, with 246 sets logged across Osaka and Tokyo. Often billed alongside MOTOKA, SINZIN and cosmolady. Next up: Aoyama Hachi, Tokyo on Sun 26 Jul.
+SIGNAL (JP) is a techno and house artist based in Japan, tracked on soundcheck, with 249 sets logged across Osaka and Tokyo. Often billed alongside MOTOKA, SINZIN and cosmolady. Next up: Aoyama Hachi, Tokyo on Sun 26 Jul.
 
 ## Upcoming shows
 
@@ -11,6 +11,9 @@ SIGNAL (JP) is a techno and house artist based in Japan, tracked on soundcheck, 
 | Sun, 26 Jul 2026 | Aoyama Hachi | Tokyo |
 | Sat, 1 Aug 2026 | Débris | Tokyo |
 | Sat, 8 Aug 2026 | UTOPIA / DYSTOPIA | Tokyo |
+| Sat, 8 Aug 2026 | Royal Lounge | Tokyo |
+| Sun, 16 Aug 2026 | Aoyama Hachi | Tokyo |
+| Sun, 30 Aug 2026 | Aoyama Hachi | Tokyo |
 
 ## Recently played
 
@@ -27,4 +30,4 @@ SIGNAL (JP) is a techno and house artist based in Japan, tracked on soundcheck, 
 
 MOTOKA, SINZIN, cosmolady
 
-*Updated Sat, 25 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/signal-jp/)*
+*Updated Sun, 26 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/signal-jp/)*

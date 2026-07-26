@@ -18,14 +18,14 @@ Beginning ZERO - Leotrix - DUBSTEP / BASS MUSIC - at ZEROTOKYO on Fri 7 Aug, Tok
 - HiTOMi
 - Jackit
 - Lio555
+- misa²
 - MOOTOE
 - OPTIMIST
 - R1pq
 - RED-S
-- RION
 - Rikk (2)
+- RION
 - SAKO
 - Watei
-- misa²
 
 *Source: [soundcheck](https://soundcheck.club/e/2469009-beginning-zero-leotrix-dubstep-bass-music-at-zerotokyo/)*

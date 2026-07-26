@@ -1,6 +1,6 @@
 # UNDERGROUND GARDEN x TRT: FUXK THE SPEAKERZ at Teritorija
 
-UNDERGROUND GARDEN x TRT: FUXK THE SPEAKERZ at Teritorija on Fri 31 Jul, Riga. 7 acts on the bill: Ksenia Kamikaza, Paul Hnikin, angelic waves and blissfuloverdose and 3 more. Techno and Hardcore. Preview the line-up and save it on soundcheck.
+UNDERGROUND GARDEN x TRT: FUXK THE SPEAKERZ at Teritorija on Fri 31 Jul, Riga. 7 acts on the bill: angelic waves, blissfuloverdose, hitomori and Ksenia Kamikaza and 3 more. Techno and Hardcore. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,12 +10,12 @@ UNDERGROUND GARDEN x TRT: FUXK THE SPEAKERZ at Teritorija on Fri 31 Jul, Riga. 7
 
 ## Line-up
 
-- Ksenia Kamikaza
-- Paul Hnikin
 - angelic waves
 - blissfuloverdose
 - hitomori
+- Ksenia Kamikaza
 - maniken05
+- Paul Hnikin
 - porfod
 
 *Source: [soundcheck](https://soundcheck.club/e/2478001-underground-garden-x-trt-fuxk-the-speakerz-at-teritorija/)*

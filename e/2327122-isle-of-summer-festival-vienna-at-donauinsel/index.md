@@ -27,11 +27,11 @@ Isle of Summer Festival Vienna at Donauinsel on Sat 1 Aug, Vienna. 27 acts on th
 - Kalte Liebe
 - Kobosil
 - NEGITIV
-- NOTMYTYPE (2)
 - Nicolas Julian
+- NOTMYTYPE (2)
 - Onlynumbers
-- PRADA2000
 - Paraçek
+- PRADA2000
 - Restricted
 - Schrotthagen
 - Somewhen

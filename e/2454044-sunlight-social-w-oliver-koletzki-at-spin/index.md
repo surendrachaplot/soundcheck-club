@@ -1,6 +1,6 @@
 # SUNLIGHT SOCIAL W/ Oliver Koletzki at Spin
 
-SUNLIGHT SOCIAL W/ Oliver Koletzki at Spin on Sun 23 Aug, Sandiego. 2 acts on the bill: Oliver Koletzki and aali. House. Preview the line-up and save it on soundcheck.
+SUNLIGHT SOCIAL W/ Oliver Koletzki at Spin on Sun 23 Aug, Sandiego. 2 acts on the bill: aali and Oliver Koletzki. House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,7 +10,7 @@ SUNLIGHT SOCIAL W/ Oliver Koletzki at Spin on Sun 23 Aug, Sandiego. 2 acts on th
 
 ## Line-up
 
-- Oliver Koletzki
 - aali
+- Oliver Koletzki
 
 *Source: [soundcheck](https://soundcheck.club/e/2454044-sunlight-social-w-oliver-koletzki-at-spin/)*

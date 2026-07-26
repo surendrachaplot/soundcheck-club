@@ -1,14 +1,13 @@
 # Black Rave Culture
 
-Black Rave Culture is a Techno and Club artist with 10 upcoming club dates listed on soundcheck as of Sat, 25 Jul 2026, next at TRANSMISSION DC, Washington DC on Sat, 25 Jul 2026.
+Black Rave Culture is a Techno and Club artist with 9 upcoming club dates listed on soundcheck as of Sun, 26 Jul 2026, next at Sacré, Paris on Fri, 7 Aug 2026.
 
-Black Rave Culture is a techno and club artist tracked on soundcheck, with 92 sets logged across Amsterdam, Austin, Bangkok and Barcelona and 28 more. Often billed alongside Nativesun, Amal and James Bangura. Next up: TRANSMISSION DC, Washingtondc on Sat 25 Jul.
+Black Rave Culture is a techno and club artist tracked on soundcheck, with 92 sets logged across Amsterdam, Austin, Bangkok and Barcelona and 28 more. Often billed alongside Nativesun, Amal and James Bangura. Next up: Sacré, Paris on Fri 7 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 25 Jul 2026 | TRANSMISSION DC | Washington DC |
 | Fri, 7 Aug 2026 | Sacré | Paris |
 | Sat, 8 Aug 2026 | The Love Inn | Bristol |
 | Fri, 14 Aug 2026 | Tresor / Globus | Berlin |
@@ -21,6 +20,7 @@ Black Rave Culture is a techno and club artist tracked on soundcheck, with 92 se
 
 ## Recently played
 
+- TRANSMISSION DC, Washington DC — Sat, 25 Jul 2026
 - Podlasie Club, Chicago — Sat, 18 Jul 2026
 - Sunset Park Rooftop, New York City — Sat, 20 Jun 2026
 - The Ground at Club Space, Miami — Sat, 13 Jun 2026
@@ -28,10 +28,9 @@ Black Rave Culture is a techno and club artist tracked on soundcheck, with 92 se
 - TRANSMISSION DC, Washington DC — Fri, 15 May 2026
 - BERHTA, Washington DC — Sat, 25 Apr 2026
 - Sunshine Grove, Miami — Thu, 19 Mar 2026
-- Lulo, Nashville — Sat, 14 Mar 2026
 
 ## Shares bills with
 
 Nativesun, Amal, James Bangura
 
-*Updated Sat, 25 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/blackraveculture/)*
+*Updated Sun, 26 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/blackraveculture/)*

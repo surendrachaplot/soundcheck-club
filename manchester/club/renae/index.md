@@ -1,14 +1,13 @@
 # renae
 
-renae is a music venue in Manchester with 8 upcoming nights listed on soundcheck as of Sat, 25 Jul 2026; the next is "renae: Audio Acupuncture" on Sat, 25 Jul 2026.
+renae is a music venue in Manchester with 7 upcoming nights listed on soundcheck as of Sun, 26 Jul 2026; the next is "renae: Reuben Vaun Smith" on Sun, 26 Jul 2026.
 
-renae is a music venue in Manchester listed on soundcheck. 8 upcoming nights, with line-ups including Gabriel Belabbas, j:me, KAZIA and Lil' Minx and 2 more. Browse upcoming dates, start times and who's playing. 45-47 Thomas St, Manchester M4 1NA.
+renae is a music venue in Manchester listed on soundcheck. 7 upcoming nights, with line-ups including Gabriel Belabbas, j:me, KAZIA and Melody RA+RE and 2 more. Browse upcoming dates, start times and who's playing. 45-47 Thomas St, Manchester M4 1NA.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Sat, 25 Jul 2026 | renae: Audio Acupuncture | Lil' Minx |
 | Sun, 26 Jul 2026 | renae: Reuben Vaun Smith |  |
 | Thu, 30 Jul 2026 | Mellow Clo presents: Steady Stepping with Melody | Melody RA+RE |
 | Fri, 7 Aug 2026 | Staple Music at topp (renae) | KAZIA, SAVANNAHH, Shimrise, Urbi |
@@ -21,4 +20,4 @@ renae is a music venue in Manchester listed on soundcheck. 8 upcoming nights, wi
 
 45-47 Thomas St, Manchester M4 1NA, Manchester
 
-*Updated Sat, 25 Jul 2026 · source: [soundcheck](https://soundcheck.club/manchester/club/renae/)*
+*Updated Sun, 26 Jul 2026 · source: [soundcheck](https://soundcheck.club/manchester/club/renae/)*

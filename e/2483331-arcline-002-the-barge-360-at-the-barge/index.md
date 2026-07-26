@@ -1,6 +1,6 @@
 # ARCLINE_002 - The Barge 360° at The Barge
 
-ARCLINE_002 - The Barge 360° on Sat 15 Aug, Belfast. 8 acts on the bill: CLERK., Casual, DJ Crispy and GUZZ. and 4 more. Techno and House. Preview the line-up and save it on soundcheck.
+ARCLINE_002 - The Barge 360° on Sat 15 Aug, Belfast. 8 acts on the bill: Casual, CLERK., DJ Crispy and GUZZ. and 4 more. Techno and House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,8 +10,8 @@ ARCLINE_002 - The Barge 360° on Sat 15 Aug, Belfast. 8 acts on the bill: CLERK.
 
 ## Line-up
 
-- CLERK.
 - Casual
+- CLERK.
 - DJ Crispy
 - GUZZ.
 - Laithal

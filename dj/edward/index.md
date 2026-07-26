@@ -1,14 +1,13 @@
 # Edward
 
-Edward is a House and Minimal artist with 6 upcoming club dates listed on soundcheck as of Sat, 25 Jul 2026, next at Postkantine, Basel on Sat, 25 Jul 2026.
+Edward is a House and Minimal artist with 5 upcoming club dates listed on soundcheck as of Sun, 26 Jul 2026, next at TBA - Secret Location, New York City on Sat, 1 Aug 2026.
 
-Edward is a house and minimal artist tracked on soundcheck, with 127 sets logged across Amsterdam, Antwerp, Barcelona and Basel and 27 more. Often billed alongside Konstantin, Leafar Legov and Yamour. Next up: Postkantine, Basel on Sat 25 Jul.
+Edward is a house and minimal artist tracked on soundcheck, with 127 sets logged across Amsterdam, Antwerp, Barcelona and Basel and 27 more. Often billed alongside Konstantin, Leafar Legov and Yamour. Next up: TBA - Secret Location, Newyorkcity on Sat 1 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 25 Jul 2026 | Postkantine | Basel |
 | Sat, 1 Aug 2026 | TBA - Secret Location | New York City |
 | Sat, 22 Aug 2026 | Phonox | London |
 | Sat, 19 Sept 2026 | Nido Marseille | Marseille |
@@ -17,6 +16,7 @@ Edward is a house and minimal artist tracked on soundcheck, with 127 sets logged
 
 ## Recently played
 
+- Postkantine, Basel — Sat, 25 Jul 2026
 - Bar Dancing Multipla, Amsterdam — Fri, 26 Jun 2026
 - Berghain | Panorama Bar | Säule, Berlin — Sat, 13 Jun 2026
 - Frankhan Selectist, Istanbul — Fri, 12 Jun 2026
@@ -24,10 +24,9 @@ Edward is a house and minimal artist tracked on soundcheck, with 127 sets logged
 - Chinastraat, Ghent — Sat, 30 May 2026
 - Gaffe, London — Sat, 30 May 2026
 - Secret Location, London — Sat, 30 May 2026
-- TBA - Downtown Los Angeles, Los Angeles — Sat, 23 May 2026
 
 ## Shares bills with
 
 Konstantin, Leafar Legov, Yamour
 
-*Updated Sat, 25 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/edward/)*
+*Updated Sun, 26 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/edward/)*

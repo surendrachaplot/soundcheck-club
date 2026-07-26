@@ -1,14 +1,13 @@
 # Wax Music Lounge
 
-Wax Music Lounge is a music venue in Melbourne with 7 upcoming nights listed on soundcheck as of Sat, 25 Jul 2026; the next is "TRIBE" on Sat, 25 Jul 2026.
+Wax Music Lounge is a music venue in Melbourne with 6 upcoming nights listed on soundcheck as of Sun, 26 Jul 2026; the next is "BRAINWAVES featuring SUMI" on Sun, 26 Jul 2026.
 
-Wax Music Lounge is a music venue in Melbourne listed on soundcheck. 7 upcoming nights, with line-ups including Tanya George. Browse upcoming dates, start times and who's playing. 250 Flinders St (basement), Melbourne, VIC, Australia, Victoria.
+Wax Music Lounge is a music venue in Melbourne listed on soundcheck. 6 upcoming nights, with line-ups including Tanya George. Browse upcoming dates, start times and who's playing. 250 Flinders St (basement), Melbourne, VIC, Australia, Victoria.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Sat, 25 Jul 2026 | TRIBE |  |
 | Sun, 26 Jul 2026 | BRAINWAVES featuring SUMI |  |
 | Mon, 27 Jul 2026 | CIRCADIAN RHYTHMS |  |
 | Tue, 28 Jul 2026 | BRAZLOMBIA |  |
@@ -20,4 +19,4 @@ Wax Music Lounge is a music venue in Melbourne listed on soundcheck. 7 upcoming 
 
 250 Flinders St (basement), Melbourne, VIC, Australia, Victoria, Melbourne
 
-*Updated Sat, 25 Jul 2026 · source: [soundcheck](https://soundcheck.club/melbourne/club/wax-music-lounge/)*
+*Updated Sun, 26 Jul 2026 · source: [soundcheck](https://soundcheck.club/melbourne/club/wax-music-lounge/)*

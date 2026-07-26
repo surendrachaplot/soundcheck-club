@@ -1,6 +1,6 @@
 # In Electric Dreams at Pallas Projects Studios
 
-In Electric Dreams at Pallas Projects Studios on Sat 22 Aug, Dublin. 5 acts on the bill: Bull Horris, BÁHDO, JWY (1) and Rising Damp and 1 more. Preview the line-up and save it on soundcheck.
+In Electric Dreams at Pallas Projects Studios on Sat 22 Aug, Dublin. 5 acts on the bill: BÁHDO, Bull Horris, JWY (1) and Rising Damp and 1 more. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,8 +10,8 @@ In Electric Dreams at Pallas Projects Studios on Sat 22 Aug, Dublin. 5 acts on t
 
 ## Line-up
 
-- Bull Horris
 - BÁHDO
+- Bull Horris
 - JWY (1)
 - Rising Damp
 - Tadhg K

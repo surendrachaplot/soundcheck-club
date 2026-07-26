@@ -1,6 +1,6 @@
 # blip with Nathan Pinder (UK), liza, creasedvenetian, ethan johnson, omnis at TBA - Secret Outdoor Location
 
-blip with Nathan Pinder (UK), liza, creasedvenetian, ethan johnson, omnis at TBA - Secret Outdoor Location on Sat 22 Aug, Brisbane. 2 acts on the bill: Nathan Pinder and creasedvenetian. Minimal and Acid. Preview the line-up and save it on soundcheck.
+blip with Nathan Pinder (UK), liza, creasedvenetian, ethan johnson, omnis at TBA - Secret Outdoor Location on Sat 22 Aug, Brisbane. 2 acts on the bill: creasedvenetian and Nathan Pinder. Minimal and Acid. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,7 +10,7 @@ blip with Nathan Pinder (UK), liza, creasedvenetian, ethan johnson, omnis at TBA
 
 ## Line-up
 
-- Nathan Pinder
 - creasedvenetian
+- Nathan Pinder
 
 *Source: [soundcheck](https://soundcheck.club/e/2488582-blip-with-nathan-pinder-uk-liza-creasedvenetian-ethan-johnso/)*

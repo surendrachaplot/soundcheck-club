@@ -1,6 +1,6 @@
 # Radio Radio
 
-Radio Radio is a music venue in Amsterdam with 12 upcoming nights listed on soundcheck as of Sat, 25 Jul 2026; the next is "Doppelgang • Lola Edo" on Sat, 25 Jul 2026.
+Radio Radio is a music venue in Amsterdam with 12 upcoming nights listed on soundcheck as of Sun, 26 Jul 2026; the next is "Unofficial Milkshake After" on Sun, 26 Jul 2026.
 
 Radio Radio is a music venue in Amsterdam listed on soundcheck. 12 upcoming nights, with line-ups including 36framez, Alexia Glensy, Andy Luff and Carlos Valdes and 2 more. Browse upcoming dates, start times and who's playing. Pazzanistraat 3.
 
@@ -8,7 +8,7 @@ Radio Radio is a music venue in Amsterdam listed on soundcheck. 12 upcoming nigh
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Sat, 25 Jul 2026 | Doppelgang • Lola Edo | Doppelgang, Lola Edo |
+| Sun, 26 Jul 2026 | Unofficial Milkshake After |  |
 | Fri, 31 Jul 2026 | ISAbella • Dee Diggs | Dee Diggs, ISAbella |
 | Sun, 2 Aug 2026 | Recovery Sessions: Vol 001 | Doppelgang, Emma Champagne Queen, Jarred Baker, LEXII., Ty Sunderland |
 | Fri, 7 Aug 2026 | Tom Trago • Carlos Valdes | Carlos Valdes, Tom Trago |
@@ -23,4 +23,4 @@ Radio Radio is a music venue in Amsterdam listed on soundcheck. 12 upcoming nigh
 
 Pazzanistraat 3, Amsterdam
 
-*Updated Sat, 25 Jul 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/radio-radio/)*
+*Updated Sun, 26 Jul 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/radio-radio/)*

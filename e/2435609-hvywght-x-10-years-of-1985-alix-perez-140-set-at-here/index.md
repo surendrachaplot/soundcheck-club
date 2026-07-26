@@ -17,8 +17,8 @@ HVYWGHT x 10 Years of 1985: Alix Perez (140 set) at HERE on Fri 4 Sept, London. 
 - HIJINX
 - Monty
 - Mr. G
-- SP:MC
 - Sharnie
+- SP:MC
 - Tasha
 - Visages
 

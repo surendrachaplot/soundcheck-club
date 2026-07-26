@@ -1,6 +1,6 @@
 # J1 - Tres Bienski: Frozilla, Kitty Sarcasm, lava404, nuarrrrr, Sava at Jasna 1
 
-J1 - Tres Bienski: Frozilla, Kitty Sarcasm, lava404, nuarrrrr, Sava at Jasna 1 on Sat 1 Aug, Warsaw. 4 acts on the bill: Frozilla, Kitty Sarcasm, Sava (3) and nuarrrrr. Preview the line-up and save it on soundcheck.
+J1 - Tres Bienski: Frozilla, Kitty Sarcasm, lava404, nuarrrrr, Sava at Jasna 1 on Sat 1 Aug, Warsaw. 4 acts on the bill: Frozilla, Kitty Sarcasm, nuarrrrr and Sava (3). Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -12,7 +12,7 @@ J1 - Tres Bienski: Frozilla, Kitty Sarcasm, lava404, nuarrrrr, Sava at Jasna 1 o
 
 - Frozilla
 - Kitty Sarcasm
-- Sava (3)
 - nuarrrrr
+- Sava (3)
 
 *Source: [soundcheck](https://soundcheck.club/e/2490390-j1-tres-bienski-frozilla-kitty-sarcasm-lava404-nuarrrrr-sava/)*

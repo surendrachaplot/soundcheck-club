@@ -18,7 +18,7 @@ Vault Sessions x Mutual Rytm ADE at TILLATEC on Thu 22 Oct, Amsterdam. 10 acts o
 - KiNK
 - Mara Menace
 - Phil Berg
-- SHDW
 - Sera J
+- SHDW
 
 *Source: [soundcheck](https://soundcheck.club/e/2493544-vault-sessions-x-mutual-rytm-ade-at-tillatec/)*

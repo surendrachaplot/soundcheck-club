@@ -1,6 +1,6 @@
 # Gene On Earth
 
-Gene On Earth is a House and Techno artist with 4 upcoming club dates listed on soundcheck as of Sat, 25 Jul 2026, next at The Love Inn, Bristol on Sun, 26 Jul 2026.
+Gene On Earth is a House and Techno artist with 4 upcoming club dates listed on soundcheck as of Sun, 26 Jul 2026, next at The Love Inn, Bristol on Sun, 26 Jul 2026.
 
 Gene On Earth is a house and techno artist tracked on soundcheck, with 192 sets logged across Amsterdam, Austin, Bali and Bangkok and 50 more. Often billed alongside The Ghost, Dyed Soundorom and Coast 2 Coast. Next up: The Love Inn, Bristol on Sun 26 Jul.
 
@@ -28,4 +28,4 @@ Gene On Earth is a house and techno artist tracked on soundcheck, with 192 sets 
 
 The Ghost, Dyed Soundorom, Coast 2 Coast
 
-*Updated Sat, 25 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/geneonearth/)*
+*Updated Sun, 26 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/geneonearth/)*

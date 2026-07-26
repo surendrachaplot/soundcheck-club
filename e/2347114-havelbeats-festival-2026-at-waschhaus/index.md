@@ -18,17 +18,18 @@ HAVELBEATS FESTIVAL 2026 at Waschhaus on Fri 7 Aug, Berlin. 27 acts on the bill:
 - Charleen Herzig
 - DJ GUESTLIST
 - Dr. Motte
+- elMefti
 - IGDA
+- Katy Rough
 - KIM AHLF
 - KNTRLVRLST
-- KUKO
-- Katy Rough
 - Kø:lab
+- KUKO
 - L.zwo
 - LISTORIO
 - Mark Dekoda
-- NOTMYTYPE (2)
 - Neon Graveyard
+- NOTMYTYPE (2)
 - Paraçek
 - Paul Wolf
 - TAKTSTÖRER
@@ -36,6 +37,5 @@ HAVELBEATS FESTIVAL 2026 at Waschhaus on Fri 7 Aug, Berlin. 27 acts on the bill:
 - Tiefundton
 - Vieze Asbak
 - Westbam
-- elMefti
 
 *Source: [soundcheck](https://soundcheck.club/e/2347114-havelbeats-festival-2026-at-waschhaus/)*

@@ -1,6 +1,6 @@
 # GAGxDAS: PRIDE at Pumpehuset
 
-GAGxDAS: PRIDE at Pumpehuset on Sat 15 Aug, Copenhagen. 6 acts on the bill: DRAHO, Metaraph, Milo Makua and Peachlyfe and 2 more. Trance and Techno. Preview the line-up and save it on soundcheck.
+GAGxDAS: PRIDE at Pumpehuset on Sat 15 Aug, Copenhagen. 6 acts on the bill: dj Joe, DRAHO, Metaraph and Milo Makua and 2 more. Trance and Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,11 +10,11 @@ GAGxDAS: PRIDE at Pumpehuset on Sat 15 Aug, Copenhagen. 6 acts on the bill: DRAH
 
 ## Line-up
 
+- dj Joe
 - DRAHO
 - Metaraph
 - Milo Makua
 - Peachlyfe
 - Samantha Togni
-- dj Joe
 
 *Source: [soundcheck](https://soundcheck.club/e/2489409-gagxdas-pride-at-pumpehuset/)*

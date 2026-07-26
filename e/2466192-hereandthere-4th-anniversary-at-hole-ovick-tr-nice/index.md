@@ -1,6 +1,6 @@
 # hereandthere: 4th anniversary at Holešovická Tržnice
 
-hereandthere: 4th anniversary at Holešovická Tržnice on Sat 1 Aug, Prague. 9 acts on the bill: Adamatron, Altinbas, Fake Agent and IGLO and 5 more. Techno and House. Preview the line-up and save it on soundcheck.
+hereandthere: 4th anniversary at Holešovická Tržnice on Sat 1 Aug, Prague. 9 acts on the bill: Adamatron, aláya, Altinbas and Fake Agent and 5 more. Techno and House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -11,6 +11,7 @@ hereandthere: 4th anniversary at Holešovická Tržnice on Sat 1 Aug, Prague. 9 
 ## Line-up
 
 - Adamatron
+- aláya
 - Altinbas
 - Fake Agent
 - IGLO
@@ -18,6 +19,5 @@ hereandthere: 4th anniversary at Holešovická Tržnice on Sat 1 Aug, Prague. 9 
 - Rachel Noon
 - Unjack
 - Unjack*
-- aláya
 
 *Source: [soundcheck](https://soundcheck.club/e/2466192-hereandthere-4th-anniversary-at-hole-ovick-tr-nice/)*

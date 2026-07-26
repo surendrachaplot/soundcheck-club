@@ -1,6 +1,6 @@
 # Dance Your Name x Fünk at Fünk
 
-Dance Your Name x Fünk on Fri 31 Jul, Mexicocity. 4 acts on the bill: Fig (DYN), Gog, Vanilla Storm and rodman. Techno and House. Preview the line-up and save it on soundcheck.
+Dance Your Name x Fünk on Fri 31 Jul, Mexicocity. 4 acts on the bill: Fig (DYN), Gog, rodman and Vanilla Storm. Techno and House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -12,7 +12,7 @@ Dance Your Name x Fünk on Fri 31 Jul, Mexicocity. 4 acts on the bill: Fig (DYN)
 
 - Fig (DYN)
 - Gog
-- Vanilla Storm
 - rodman
+- Vanilla Storm
 
 *Source: [soundcheck](https://soundcheck.club/e/2481787-dance-your-name-x-f-nk-at-f-nk/)*

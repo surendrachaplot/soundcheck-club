@@ -1,6 +1,6 @@
 # Second Speed: blk. Liverpool at Blackstone Street Warehouse
 
-Second Speed: blk. Liverpool at Blackstone Street Warehouse on Sat 3 Oct, Liverpool. 6 acts on the bill: Black Traffic, LAZLO, OISINOK and Somewhen and 2 more. Trance and Techno. Preview the line-up and save it on soundcheck.
+Second Speed: blk. Liverpool at Blackstone Street Warehouse on Sat 3 Oct, Liverpool. 6 acts on the bill: Black Traffic, blk., LAZLO and OISINOK and 2 more. Trance and Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -11,10 +11,10 @@ Second Speed: blk. Liverpool at Blackstone Street Warehouse on Sat 3 Oct, Liverp
 ## Line-up
 
 - Black Traffic
+- blk.
 - LAZLO
 - OISINOK
 - Somewhen
 - Ueberrest
-- blk.
 
 *Source: [soundcheck](https://soundcheck.club/e/2440897-second-speed-blk-liverpool-at-blackstone-street-warehouse/)*

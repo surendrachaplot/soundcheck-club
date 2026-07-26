@@ -1,6 +1,6 @@
 # Fawks
 
-Fawks is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Sat, 25 Jul 2026, next at The San Francisco Mint, San Francisco/Oakland on Sun, 26 Jul 2026.
+Fawks is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Sun, 26 Jul 2026, next at The San Francisco Mint, San Francisco/Oakland on Sun, 26 Jul 2026.
 
 Fawks is a techno and house artist based in United States of America, tracked on soundcheck, with 72 sets logged across Berlin, Detroit, Leipzig and Losangeles and 4 more. Often billed alongside Jumpr, Kudeki and Sholim Eso. Next up: The San Francisco Mint, Sanfrancisco on Sun 26 Jul.
 
@@ -26,4 +26,4 @@ Fawks is a techno and house artist based in United States of America, tracked on
 
 Jumpr, Kudeki, Sholim Eso
 
-*Updated Sat, 25 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/fawks-us/)*
+*Updated Sun, 26 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/fawks-us/)*

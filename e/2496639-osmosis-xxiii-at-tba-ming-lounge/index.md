@@ -1,6 +1,6 @@
 # Osmosis XXIII at TBA - Ming Lounge
 
-Osmosis XXIII at TBA - Ming Lounge on Sat 1 Aug, Portland. 5 acts on the bill: DJ Eft, Succubass, Toma Kami and enereph and 1 more. Techno and Bass. Preview the line-up and save it on soundcheck.
+Osmosis XXIII at TBA - Ming Lounge on Sat 1 Aug, Portland. 5 acts on the bill: DJ Eft, enereph, mor-f and Succubass and 1 more. Techno and Bass. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -11,9 +11,9 @@ Osmosis XXIII at TBA - Ming Lounge on Sat 1 Aug, Portland. 5 acts on the bill: D
 ## Line-up
 
 - DJ Eft
-- Succubass
-- Toma Kami
 - enereph
 - mor-f
+- Succubass
+- Toma Kami
 
 *Source: [soundcheck](https://soundcheck.club/e/2496639-osmosis-xxiii-at-tba-ming-lounge/)*

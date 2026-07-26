@@ -1,14 +1,13 @@
 # Bisk
 
-Bisk is a Techno and Tech House artist with 5 upcoming club dates listed on soundcheck as of Sat, 25 Jul 2026, next at Der Weiße Hase, Berlin on Sat, 25 Jul 2026.
+Bisk is a Techno and Tech House artist with 4 upcoming club dates listed on soundcheck as of Sun, 26 Jul 2026, next at Der Weiße Hase, Berlin on Fri, 31 Jul 2026.
 
-Bisk is a techno and tech house artist tracked on soundcheck, with 116 sets logged across Berlin, Newyorkcity and Tokyo. Often billed alongside DAV3, Morris Fitch and ED2000. Next up: Der Weiße Hase, Berlin on Sat 25 Jul.
+Bisk is a techno and tech house artist tracked on soundcheck, with 116 sets logged across Berlin, Newyorkcity and Tokyo. Often billed alongside DAV3, Morris Fitch and ED2000. Next up: Der Weiße Hase, Berlin on Fri 31 Jul.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 25 Jul 2026 | Der Weiße Hase | Berlin |
 | Fri, 31 Jul 2026 | Der Weiße Hase | Berlin |
 | Sat, 1 Aug 2026 | Silver Event Location | Berlin |
 | Sat, 15 Aug 2026 | Der Weiße Hase | Berlin |
@@ -16,6 +15,7 @@ Bisk is a techno and tech house artist tracked on soundcheck, with 116 sets logg
 
 ## Recently played
 
+- Der Weiße Hase, Berlin — Sat, 25 Jul 2026
 - M-BIA, Berlin — Fri, 24 Jul 2026
 - Der Weiße Hase, Berlin — Fri, 17 Jul 2026
 - Der Weiße Hase, Berlin — Tue, 16 Jun 2026
@@ -23,10 +23,9 @@ Bisk is a techno and tech house artist tracked on soundcheck, with 116 sets logg
 - Der Weiße Hase, Berlin — Sat, 23 May 2026
 - Der Weiße Hase, Berlin — Fri, 15 May 2026
 - Der Weiße Hase, Berlin — Thu, 14 May 2026
-- Der Weiße Hase, Berlin — Fri, 24 Apr 2026
 
 ## Shares bills with
 
 DAV3, Morris Fitch, ED2000
 
-*Updated Sat, 25 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/bisk/)*
+*Updated Sun, 26 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/bisk/)*

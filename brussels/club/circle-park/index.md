@@ -1,14 +1,13 @@
 # Circle Park
 
-Circle Park is a music venue in Brussels with 5 upcoming nights listed on soundcheck as of Sat, 25 Jul 2026; the next is "Encore Dub x Vestige Klub • Circle Park x La Fabriek (16 hours)" on Sat, 25 Jul 2026.
+Circle Park is a music venue in Brussels with 4 upcoming nights listed on soundcheck as of Sun, 26 Jul 2026; the next is "2Much: Circle Park x Fabriek [16 hours - Open Air + After]" on Sat, 1 Aug 2026.
 
-Circle Park is a music venue in Brussels listed on soundcheck. 5 upcoming nights, with line-ups including Ampe, Antonym, ATARAXY and Audrey Danza and 2 more. Browse upcoming dates, start times and who's playing. Rue des Goujons 156, 1070 Anderlecht.
+Circle Park is a music venue in Brussels listed on soundcheck. 4 upcoming nights, with line-ups including Ampe, Antonym, ATARAXY and Audrey Danza and 2 more. Browse upcoming dates, start times and who's playing. Rue des Goujons 156, 1070 Anderlecht.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Sat, 25 Jul 2026 | Encore Dub x Vestige Klub • Circle Park x La Fabriek (16 hours) | EliseThere, Hayashi, Mad Professor, PALA10, Rrita Jashari, STDJ, Très Beau Paradis Fiscal, Tweak Soundsystem, carin kelly |
 | Sat, 1 Aug 2026 | 2Much: Circle Park x Fabriek [16 hours - Open Air + After] | ATARAXY, Antonym, BILLY, BISOUX, Die Klar, John Gilliot, MATRAKK, Marhu, Niko Hoke |
 | Sat, 8 Aug 2026 | Vostock • Circle Park x La fabriek (16 hours) | Jessen, Malo Z, Marouchka, Monstera Occulta, Sepehr, Trancesetters of Westphalia, Tristan Arp |
 | Sat, 22 Aug 2026 | BLACK GRAVITY DANCE Open Air / Afterparty by Microwave & Cröak | DTM Funk, Raymond, Suze Ijó |
@@ -18,4 +17,4 @@ Circle Park is a music venue in Brussels listed on soundcheck. 5 upcoming nights
 
 Rue des Goujons 156, 1070 Anderlecht, Brussels
 
-*Updated Sat, 25 Jul 2026 · source: [soundcheck](https://soundcheck.club/brussels/club/circle-park/)*
+*Updated Sun, 26 Jul 2026 · source: [soundcheck](https://soundcheck.club/brussels/club/circle-park/)*

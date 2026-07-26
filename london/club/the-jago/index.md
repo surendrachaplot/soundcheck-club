@@ -1,6 +1,6 @@
 # The Jago
 
-The Jago is a music venue in London with 5 upcoming nights listed on soundcheck as of Sat, 25 Jul 2026; the next is "CARAVAN SUMMER EDITION" on Thu, 6 Aug 2026.
+The Jago is a music venue in London with 5 upcoming nights listed on soundcheck as of Sun, 26 Jul 2026; the next is "CARAVAN SUMMER EDITION" on Thu, 6 Aug 2026.
 
 The Jago is a music venue in London listed on soundcheck. 5 upcoming nights, with line-ups including Dom Ore, JuicySteamedHams, karishma and Missy T and 2 more. Browse upcoming dates, start times and who's playing. 440 Kingsland Road, E8 4AA London, United Kingdom.
 
@@ -18,4 +18,4 @@ The Jago is a music venue in London listed on soundcheck. 5 upcoming nights, wit
 
 440 Kingsland Road, E8 4AA London, United Kingdom, London
 
-*Updated Sat, 25 Jul 2026 · source: [soundcheck](https://soundcheck.club/london/club/the-jago/)*
+*Updated Sun, 26 Jul 2026 · source: [soundcheck](https://soundcheck.club/london/club/the-jago/)*

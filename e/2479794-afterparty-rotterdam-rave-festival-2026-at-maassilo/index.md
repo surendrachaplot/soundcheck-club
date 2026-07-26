@@ -1,6 +1,6 @@
 # Afterparty Rotterdam Rave Festival 2026 at Maassilo
 
-Afterparty Rotterdam Rave Festival 2026 at Maassilo on Sat 29 Aug, Rotterdam. 13 acts on the bill: BLNK, BØĘRY, Cynthia Spiering and IOSIO and 9 more. Techno. Preview the line-up and save it on soundcheck.
+Afterparty Rotterdam Rave Festival 2026 at Maassilo on Sat 29 Aug, Rotterdam. 13 acts on the bill: BLNK, BØĘRY, Cynthia Spiering and In Furcht and 9 more. Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -13,9 +13,9 @@ Afterparty Rotterdam Rave Festival 2026 at Maassilo on Sat 29 Aug, Rotterdam. 13
 - BLNK
 - BØĘRY
 - Cynthia Spiering
-- IOSIO
 - In Furcht
 - In Verruf
+- IOSIO
 - Kobosil
 - LIEKS
 - MIT (6)

@@ -1,6 +1,6 @@
 # Voodoo Village 2026 at TBA
 
-Voodoo Village 2026 at TBA on Fri 11 Sept, Brussels. 69 acts on the bill: &ME, 999999999, AJNA and AVAION and 65 more. Techno and House. Preview the line-up and save it on soundcheck.
+Voodoo Village 2026 at TBA on Fri 11 Sept, Brussels. 69 acts on the bill: &ME, 999999999, Adrian Mills and Agents Of Time and 65 more. Techno and House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -12,57 +12,60 @@ Voodoo Village 2026 at TBA on Fri 11 Sept, Brussels. 69 acts on the bill: &ME, 9
 
 - &ME
 - 999999999
-- AJNA
-- AVAION
 - Adrian Mills
 - Agents Of Time
+- AJNA
 - Alycia Bezgo
 - Amalie
 - Anetha
+- AVAION
 - Blasha & Allatt
 - Blck Mamba
 - Camilo Franco
 - Carlita
 - Ce$ar
 - Cloudy
-- DJ Tennis
-- DVS1
 - Deer Jade
 - Delilah
+- DJ Tennis
+- DVS1
 - Elli Acula
 - Fiona Kraft
 - Franky Rizardo
+- future.666
 - Helena Lauwaert
 - Isa Roos
-- JUWLZ
 - Jimi Jules
+- JUWLZ
 - Len Faki
-- MARRØN
 - Mariona
+- MARRØN
 - Mathame
 - Maxi Meraki
+- meera (NO)
 - Mella Dee
 - Miamor
 - Mita Gami
 - Monolink
-- NOHR
-- NTO
 - Nadja
 - Natascha Polké
 - Nico Morano
 - Nina Kraviz
+- NOHR
 - Nosedrip
-- OMRI.
+- NTO
 - Odrik
 - Oko Stellar
+- OMRI.
 - Orbit
-- PAWSA
+- ØTTA
 - Parra for Cuva
+- PAWSA
 - Quest
-- RICHE
-- RY X
 - Rampue
 - Riana Holley
+- RICHE
+- RY X
 - SAIDAH
 - Sam Alfred
 - Samm (BE)
@@ -70,14 +73,11 @@ Voodoo Village 2026 at TBA on Fri 11 Sept, Brussels. 69 acts on the bill: &ME, 9
 - Son of Son
 - Stanislawa
 - Stasi Sanlin
+- The Blaze
 - THELMA
 - TORI ANN
-- The Blaze
+- ÜBERKIKZ
 - Vintage Culture
 - Young Marco
-- future.666
-- meera (NO)
-- ØTTA
-- ÜBERKIKZ
 
 *Source: [soundcheck](https://soundcheck.club/e/2316185-voodoo-village-2026-at-tba/)*

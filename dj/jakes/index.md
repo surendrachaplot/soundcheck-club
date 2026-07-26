@@ -1,6 +1,6 @@
 # Jakes
 
-Jakes is a Drum & Bass and Jungle artist with 4 upcoming club dates listed on soundcheck as of Sat, 25 Jul 2026, next at Hackney Wick Multiple Venues, London on Sat, 1 Aug 2026.
+Jakes is a Drum & Bass and Jungle artist with 4 upcoming club dates listed on soundcheck as of Sun, 26 Jul 2026, next at Hackney Wick Multiple Venues, London on Sat, 1 Aug 2026.
 
 Jakes is a drum & bass and jungle artist tracked on soundcheck, with 60 sets logged across Bali, Bristol, Bucharest and Budapest and 5 more. Often billed alongside Carasel, SP:MC and Enei. Next up: Hackney Wick Multiple Venues, London on Sat 1 Aug.
 
@@ -28,4 +28,4 @@ Jakes is a drum & bass and jungle artist tracked on soundcheck, with 60 sets log
 
 Carasel, SP:MC, Enei
 
-*Updated Sat, 25 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/jakes/)*
+*Updated Sun, 26 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/jakes/)*

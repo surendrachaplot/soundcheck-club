@@ -1,6 +1,6 @@
 # Reconnect Summer Edition - Nightmarket & Club at Ilses Erika
 
-Reconnect Summer Edition - Nightmarket & Club at Ilses Erika on Fri 31 Jul, Leipzig. 4 acts on the bill: DJ Würlpool, Parsec, VALENTIN FRAIS and gin (DE). Trance and Techno. Preview the line-up and save it on soundcheck.
+Reconnect Summer Edition - Nightmarket & Club at Ilses Erika on Fri 31 Jul, Leipzig. 4 acts on the bill: DJ Würlpool, gin (DE), Parsec and VALENTIN FRAIS. Trance and Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -11,8 +11,8 @@ Reconnect Summer Edition - Nightmarket & Club at Ilses Erika on Fri 31 Jul, Leip
 ## Line-up
 
 - DJ Würlpool
+- gin (DE)
 - Parsec
 - VALENTIN FRAIS
-- gin (DE)
 
 *Source: [soundcheck](https://soundcheck.club/e/2463135-reconnect-summer-edition-nightmarket-club-at-ilses-erika/)*

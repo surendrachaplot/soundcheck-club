@@ -1,6 +1,6 @@
 # John Talabot at Flash
 
-John Talabot at Flash on Fri 11 Sept, Washingtondc. 1 act on the bill: John Talabot. House and Deep House. Preview the line-up and save it on soundcheck.
+John Talabot at Flash on Fri 11 Sept, Washingtondc. 3 acts on the bill: Apollo Dust, Henry P (US) and John Talabot. House and Deep House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,6 +10,8 @@ John Talabot at Flash on Fri 11 Sept, Washingtondc. 1 act on the bill: John Tala
 
 ## Line-up
 
+- Apollo Dust
+- Henry P (US)
 - John Talabot
 
 *Source: [soundcheck](https://soundcheck.club/e/2488797-john-talabot-at-flash/)*

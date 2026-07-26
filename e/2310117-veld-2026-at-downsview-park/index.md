@@ -1,6 +1,6 @@
 # VELD 2026 at Downsview Park
 
-VELD 2026 at Downsview Park on Fri 31 Jul, Toronto. 20 acts on the bill: Above & Beyond, Armin van Buuren, Artbat and Black Tiger Sex Machine and 16 more. Preview the line-up and save it on soundcheck.
+VELD 2026 at Downsview Park on Fri 31 Jul, Toronto. 20 acts on the bill: ¥ØU$UK€ ¥UK1MAT$U, Above & Beyond, Armin van Buuren and Artbat and 16 more. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,6 +10,7 @@ VELD 2026 at Downsview Park on Fri 31 Jul, Toronto. 20 acts on the bill: Above &
 
 ## Line-up
 
+- ¥ØU$UK€ ¥UK1MAT$U
 - Above & Beyond
 - Armin van Buuren
 - Artbat
@@ -18,8 +19,8 @@ VELD 2026 at Downsview Park on Fri 31 Jul, Toronto. 20 acts on the bill: Above &
 - Charlotte de Witte
 - Dana Vicci
 - FISHER
-- GENESI
 - Galantis
+- GENESI
 - James Hype (UK)
 - KREAM
 - Lilly Palmer
@@ -29,6 +30,5 @@ VELD 2026 at Downsview Park on Fri 31 Jul, Toronto. 20 acts on the bill: Above &
 - Panteros666
 - Restricted
 - Sara Landry
-- ¥ØU$UK€ ¥UK1MAT$U
 
 *Source: [soundcheck](https://soundcheck.club/e/2310117-veld-2026-at-downsview-park/)*

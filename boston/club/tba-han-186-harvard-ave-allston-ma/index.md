@@ -1,14 +1,17 @@
 # TBA - HAN 186 Harvard Ave, Allston, MA
 
-TBA - HAN 186 Harvard Ave, Allston, MA is a music venue in Boston with 2 upcoming nights listed on soundcheck as of Sat, 25 Jul 2026; the next is "RedEye: Spinback" on Sat, 25 Jul 2026.
+TBA - HAN 186 Harvard Ave, Allston, MA is a music venue in Boston with 5 upcoming nights listed on soundcheck as of Sun, 26 Jul 2026; the next is "HAN: Fusion Fridays" on Fri, 31 Jul 2026.
 
-TBA - HAN 186 Harvard Ave, Allston, MA is a music venue in Boston listed on soundcheck. 2 upcoming nights. Browse upcoming dates, start times and who's playing.
+TBA - HAN 186 Harvard Ave, Allston, MA is a music venue in Boston listed on soundcheck. 5 upcoming nights. Browse upcoming dates, start times and who's playing.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Sat, 25 Jul 2026 | RedEye: Spinback |  |
 | Fri, 31 Jul 2026 | HAN: Fusion Fridays |  |
+| Fri, 7 Aug 2026 | HAN: Fusion Fridays |  |
+| Fri, 14 Aug 2026 | HAN: Fusion Fridays |  |
+| Fri, 21 Aug 2026 | HAN: Fusion Fridays |  |
+| Fri, 28 Aug 2026 | HAN: Fusion Fridays |  |
 
-*Updated Sat, 25 Jul 2026 · source: [soundcheck](https://soundcheck.club/boston/club/tba-han-186-harvard-ave-allston-ma/)*
+*Updated Sun, 26 Jul 2026 · source: [soundcheck](https://soundcheck.club/boston/club/tba-han-186-harvard-ave-allston-ma/)*

@@ -1,14 +1,13 @@
 # LIV Nightclub Miami
 
-LIV Nightclub Miami is a music venue in Miami with 16 upcoming nights listed on soundcheck as of Sat, 25 Jul 2026; the next is "Ian Asher" on Sat, 25 Jul 2026.
+LIV Nightclub Miami is a music venue in Miami with 15 upcoming nights listed on soundcheck as of Sun, 26 Jul 2026; the next is "50 Cent" on Sun, 26 Jul 2026.
 
-LIV Nightclub Miami is a music venue in Miami listed on soundcheck. 16 upcoming nights, with line-ups including Galantis, Ian Asher, Korolova and Nicky Romero. Browse upcoming dates, start times and who's playing. 4441 Collins Ave; Miami Beach, FL 33139; United States.
+LIV Nightclub Miami is a music venue in Miami listed on soundcheck. 15 upcoming nights, with line-ups including Galantis, Korolova and Nicky Romero. Browse upcoming dates, start times and who's playing. 4441 Collins Ave; Miami Beach, FL 33139; United States.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Sat, 25 Jul 2026 | Ian Asher | Ian Asher |
 | Sun, 26 Jul 2026 | 50 Cent |  |
 | Fri, 31 Jul 2026 | Galantis | Galantis |
 | Sat, 1 Aug 2026 | Laszewo |  |
@@ -18,9 +17,10 @@ LIV Nightclub Miami is a music venue in Miami listed on soundcheck. 16 upcoming 
 | Fri, 14 Aug 2026 | Pauly D |  |
 | Sat, 15 Aug 2026 | Nicky Romero | Nicky Romero |
 | Sat, 22 Aug 2026 | Loud Luxury |  |
+| Sat, 29 Aug 2026 | Two Friends |  |
 
 ## Address
 
 4441 Collins Ave; Miami Beach, FL 33139; United States, Miami
 
-*Updated Sat, 25 Jul 2026 · source: [soundcheck](https://soundcheck.club/miami/club/liv-nightclub-miami/)*
+*Updated Sun, 26 Jul 2026 · source: [soundcheck](https://soundcheck.club/miami/club/liv-nightclub-miami/)*

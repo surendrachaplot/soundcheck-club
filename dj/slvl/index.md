@@ -1,8 +1,8 @@
 # SLVL
 
-SLVL is a Techno and Industrial artist with 5 upcoming club dates listed on soundcheck as of Sat, 25 Jul 2026, next at Mia Mao, Paris on Fri, 31 Jul 2026.
+SLVL is a Techno and Industrial artist with 6 upcoming club dates listed on soundcheck as of Sun, 26 Jul 2026, next at Mia Mao, Paris on Fri, 31 Jul 2026.
 
-SLVL is a techno and industrial artist tracked on soundcheck, with 76 sets logged across Amsterdam, Antwerp, Barcelona and Belfast and 27 more. Often billed alongside KLOFAMA, KARAH and KRUELTY. Next up: Mia Mao, Paris on Fri 31 Jul.
+SLVL is a techno and industrial artist tracked on soundcheck, with 77 sets logged across Amsterdam, Antwerp, Barcelona and Belfast and 27 more. Often billed alongside KLOFAMA, KARAH and KRUELTY. Next up: Mia Mao, Paris on Fri 31 Jul.
 
 ## Upcoming shows
 
@@ -13,6 +13,7 @@ SLVL is a techno and industrial artist tracked on soundcheck, with 76 sets logge
 | Sat, 29 Aug 2026 | Ahoy Rotterdam | Rotterdam |
 | Sat, 12 Sept 2026 | The Yard Vienna | Vienna |
 | Fri, 25 Sept 2026 | The Art School | Glasgow |
+| Sat, 24 Oct 2026 | Halle Tony Garnier | Lyon |
 
 ## Recently played
 
@@ -29,4 +30,4 @@ SLVL is a techno and industrial artist tracked on soundcheck, with 76 sets logge
 
 KLOFAMA, KARAH, KRUELTY
 
-*Updated Sat, 25 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/slvl/)*
+*Updated Sun, 26 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/slvl/)*

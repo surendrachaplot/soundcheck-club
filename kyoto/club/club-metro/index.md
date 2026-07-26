@@ -1,14 +1,13 @@
 # Club Metro
 
-Club Metro is a music venue in Kyoto with 23 upcoming nights listed on soundcheck as of Sat, 25 Jul 2026; the next is "Semaphore" on Sat, 25 Jul 2026.
+Club Metro is a music venue in Kyoto with 22 upcoming nights listed on soundcheck as of Sun, 26 Jul 2026; the next is "'World Wide Waddle Sugarcoated'" on Sun, 26 Jul 2026.
 
-Club Metro is a music venue in Kyoto listed on soundcheck. 23 upcoming nights, with line-ups including Andy Vaz, DJ KAZUMA, Doltz and imus and 2 more. Browse upcoming dates, start times and who's playing. 82 Simodutsumicho, Kawabata Marutamachi, Sakyo-ku, Kyoto-shi, 606-8396 Japan.
+Club Metro is a music venue in Kyoto listed on soundcheck. 22 upcoming nights, with line-ups including Andy Vaz, DJ KAZUMA, Doltz and imus and 2 more. Browse upcoming dates, start times and who's playing. 82 Simodutsumicho, Kawabata Marutamachi, Sakyo-ku, Kyoto-shi, 606-8396 Japan.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Sat, 25 Jul 2026 | Semaphore | Ken'ichi Itoi, Kensuke Fukushima, SOICHI |
 | Sun, 26 Jul 2026 | 'World Wide Waddle Sugarcoated' |  |
 | Wed, 29 Jul 2026 | EMERGE & RISE International Music Exchange Project -KYOTO- |  |
 | Thu, 30 Jul 2026 | Takashi Mori electric drum solo performance 'PROTOTYPES' | Takashi Mori |
@@ -18,9 +17,10 @@ Club Metro is a music venue in Kyoto listed on soundcheck. 23 upcoming nights, w
 | Sat, 1 Aug 2026 | QUESTAMAI with FUNKY FRIENDS | DJ KAZUMA, SOTA |
 | Fri, 7 Aug 2026 | atraktor |  |
 | Sat, 8 Aug 2026 | DEN-EN | Loe (JP), Tui (1), imus |
+| Sun, 9 Aug 2026 | 3MAN SHOW x 3 MONTHS 'gold' |  |
 
 ## Address
 
 82 Simodutsumicho, Kawabata Marutamachi, Sakyo-ku, Kyoto-shi, 606-8396 Japan, Kyoto
 
-*Updated Sat, 25 Jul 2026 · source: [soundcheck](https://soundcheck.club/kyoto/club/club-metro/)*
+*Updated Sun, 26 Jul 2026 · source: [soundcheck](https://soundcheck.club/kyoto/club/club-metro/)*

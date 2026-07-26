@@ -1,6 +1,6 @@
 # Tekkno am Teich Open Air 2026 – 15 Jahre Tekkno Ist Grün at Freilichtbühne im Harburger Stadtpark
 
-Tekkno am Teich Open Air 2026 – 15 Jahre Tekkno Ist Grün at Freilichtbühne im Harburger Stadtpark on Sat 8 Aug, Hamburg. 4 acts on the bill: Jan Oberlaender, PETER PAHN, Pascale Voltaire and Sophie van Hayden. Techno and Minimal Techno. Preview the line-up and save it on soundcheck.
+Tekkno am Teich Open Air 2026 – 15 Jahre Tekkno Ist Grün at Freilichtbühne im Harburger Stadtpark on Sat 8 Aug, Hamburg. 4 acts on the bill: Jan Oberlaender, Pascale Voltaire, PETER PAHN and Sophie van Hayden. Techno and Minimal Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -11,8 +11,8 @@ Tekkno am Teich Open Air 2026 – 15 Jahre Tekkno Ist Grün at Freilichtbühne i
 ## Line-up
 
 - Jan Oberlaender
-- PETER PAHN
 - Pascale Voltaire
+- PETER PAHN
 - Sophie van Hayden
 
 *Source: [soundcheck](https://soundcheck.club/e/2392157-tekkno-am-teich-open-air-2026-15-jahre-tekkno-ist-gr-n-at-fr/)*

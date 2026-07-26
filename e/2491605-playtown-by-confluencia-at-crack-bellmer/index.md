@@ -1,6 +1,6 @@
 # PLAYTOWN by Confluencia at Crack Bellmer
 
-PLAYTOWN by Confluencia at Crack Bellmer on Thu 30 Jul, Berlin. 6 acts on the bill: Ale Hope, Dimarziio, Kafuné and Mati Amoretti and 2 more. House. Preview the line-up and save it on soundcheck.
+PLAYTOWN by Confluencia at Crack Bellmer on Thu 30 Jul, Berlin. 6 acts on the bill: Ale Hope, anna G, Dimarziio and Kafuné and 2 more. House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -11,10 +11,10 @@ PLAYTOWN by Confluencia at Crack Bellmer on Thu 30 Jul, Berlin. 6 acts on the bi
 ## Line-up
 
 - Ale Hope
+- anna G
 - Dimarziio
 - Kafuné
-- Mati Amoretti
-- anna G
 - kairavi
+- Mati Amoretti
 
 *Source: [soundcheck](https://soundcheck.club/e/2491605-playtown-by-confluencia-at-crack-bellmer/)*

@@ -1,14 +1,13 @@
 # 131 Mccormack St
 
-131 Mccormack St is a music venue in Toronto with 8 upcoming nights listed on soundcheck as of Sat, 25 Jul 2026; the next is "Rhythm Open Air: DJ Godfather, AceMo, Kush Jones" on Sat, 25 Jul 2026.
+131 Mccormack St is a music venue in Toronto with 7 upcoming nights listed on soundcheck as of Sun, 26 Jul 2026; the next is "RAW SHOWCASE presented by TAKEOVER 6IX & KONDUKTOR (OPEN AIR)" on Sat, 15 Aug 2026.
 
-131 Mccormack St is a music venue in Toronto listed on soundcheck. 8 upcoming nights, with line-ups including 999ADJ, AADJA, AceMo and Ahadadream and 2 more. Browse upcoming dates, start times and who's playing. 131 McCormack St, York, ON M6N 1X8.
+131 Mccormack St is a music venue in Toronto listed on soundcheck. 7 upcoming nights, with line-ups including AADJA, Ahadadream, Alley Kay and Bambii and 2 more. Browse upcoming dates, start times and who's playing. 131 McCormack St, York, ON M6N 1X8.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Sat, 25 Jul 2026 | Rhythm Open Air: DJ Godfather, AceMo, Kush Jones | 999ADJ, AceMo, Chinelo, DJ Godfather, Kush Jones |
 | Sat, 15 Aug 2026 | RAW SHOWCASE presented by TAKEOVER 6IX & KONDUKTOR (OPEN AIR) | Bours?, DJ MELL G, DLV, Rorganic, callie |
 | Sat, 22 Aug 2026 | DAY INTO NIGHT: Patrick Mason | Alley Kay, DJ Minx, Patrick Mason, Pedro (CA), SHEA (2) |
 | Sat, 29 Aug 2026 | Rhythm Open Air: Minimal & Tech House |  |
@@ -21,4 +20,4 @@
 
 131 McCormack St, York, ON M6N 1X8, Toronto
 
-*Updated Sat, 25 Jul 2026 · source: [soundcheck](https://soundcheck.club/toronto/club/131-mccormack-st/)*
+*Updated Sun, 26 Jul 2026 · source: [soundcheck](https://soundcheck.club/toronto/club/131-mccormack-st/)*

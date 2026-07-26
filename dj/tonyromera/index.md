@@ -1,6 +1,6 @@
 # Tony Romera
 
-Tony Romera is a House and Tech House artist with 4 upcoming club dates listed on soundcheck as of Sat, 25 Jul 2026, next at Spybar, Chicago on Fri, 7 Aug 2026.
+Tony Romera is a House and Tech House artist with 4 upcoming club dates listed on soundcheck as of Sun, 26 Jul 2026, next at Spybar, Chicago on Fri, 7 Aug 2026.
 
 Tony Romera is a house and tech house artist tracked on soundcheck, with 30 sets logged across Austin, Boston, Chicago and Cologne and 14 more. Often billed alongside Crusy, CASSIMM and LOVRA. Next up: Spybar, Chicago on Fri 7 Aug.
 
@@ -28,4 +28,4 @@ Tony Romera is a house and tech house artist tracked on soundcheck, with 30 sets
 
 Crusy, CASSIMM, LOVRA
 
-*Updated Sat, 25 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/tonyromera/)*
+*Updated Sun, 26 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/tonyromera/)*

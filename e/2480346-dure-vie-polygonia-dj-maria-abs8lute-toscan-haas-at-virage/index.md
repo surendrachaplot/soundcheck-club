@@ -1,6 +1,6 @@
 # Dure Vie: Polygonia, DJ MARIA., abs8lute, Toscan Haas at Virage
 
-Dure Vie: Polygonia, DJ MARIA., abs8lute, Toscan Haas at Virage on Sat 1 Aug, Paris. 4 acts on the bill: DJ MARIA., Polygonia, Toscan Haas and abs8lute. Trance and Techno. Preview the line-up and save it on soundcheck.
+Dure Vie: Polygonia, DJ MARIA., abs8lute, Toscan Haas at Virage on Sat 1 Aug, Paris. 4 acts on the bill: abs8lute, DJ MARIA., Polygonia and Toscan Haas. Trance and Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,9 +10,9 @@ Dure Vie: Polygonia, DJ MARIA., abs8lute, Toscan Haas at Virage on Sat 1 Aug, Pa
 
 ## Line-up
 
+- abs8lute
 - DJ MARIA.
 - Polygonia
 - Toscan Haas
-- abs8lute
 
 *Source: [soundcheck](https://soundcheck.club/e/2480346-dure-vie-polygonia-dj-maria-abs8lute-toscan-haas-at-virage/)*

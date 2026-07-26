@@ -1,19 +1,20 @@
 # Joya Astou
 
-Joya Astou is a Techno artist with 3 upcoming club dates listed on soundcheck as of Sat, 25 Jul 2026, next at RADION, Amsterdam on Sat, 25 Jul 2026.
+Joya Astou is a Techno artist with 3 upcoming club dates listed on soundcheck as of Sun, 26 Jul 2026, next at Garage Noord, Amsterdam on Sat, 8 Aug 2026.
 
-Joya Astou is a techno artist based in Netherlands, tracked on soundcheck, with 37 sets logged across Amsterdam, Berlin and Rotterdam. Often billed alongside Prance, Delano Legito and AMORAL. Next up: RADION, Amsterdam on Sat 25 Jul.
+Joya Astou is a techno artist based in Netherlands, tracked on soundcheck, with 38 sets logged across Amsterdam, Berlin and Rotterdam. Often billed alongside Prance, Delano Legito and AMORAL. Next up: Garage Noord, Amsterdam on Sat 8 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 25 Jul 2026 | RADION | Amsterdam |
 | Sat, 8 Aug 2026 | Garage Noord | Amsterdam |
 | Sat, 22 Aug 2026 | Shunter | Rotterdam |
+| Sat, 24 Oct 2026 | De Fik Garden | Amsterdam |
 
 ## Recently played
 
+- RADION, Amsterdam — Sat, 25 Jul 2026
 - RADION, Amsterdam — Sat, 18 Jul 2026
 - TILLATEC, Amsterdam — Sun, 17 May 2026
 - Mono, Rotterdam — Fri, 8 May 2026
@@ -21,10 +22,9 @@ Joya Astou is a techno artist based in Netherlands, tracked on soundcheck, with 
 - CLUB RAUM, Amsterdam — Sat, 28 Mar 2026
 - RADION, Amsterdam — Sat, 14 Feb 2026
 - Perron, Rotterdam — Fri, 6 Feb 2026
-- Garage Noord, Amsterdam — Fri, 23 Jan 2026
 
 ## Shares bills with
 
 Prance, Delano Legito, AMORAL
 
-*Updated Sat, 25 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/joyaastou/)*
+*Updated Sun, 26 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/joyaastou/)*

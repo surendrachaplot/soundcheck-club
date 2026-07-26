@@ -1,14 +1,13 @@
 # D.Dan
 
-D.Dan is a Techno and House artist with 11 upcoming club dates listed on soundcheck as of Sat, 25 Jul 2026, next at Motel Campo, Geneva on Sat, 25 Jul 2026.
+D.Dan is a Techno and House artist with 10 upcoming club dates listed on soundcheck as of Sun, 26 Jul 2026, next at CLUB RAUM, Amsterdam on Fri, 31 Jul 2026.
 
-D.Dan is a techno and house artist tracked on soundcheck, with 190 sets logged across Amsterdam, Athens, Austin and Barcelona and 57 more. Often billed alongside DJ TOOL, Hyperaktivist and Yazzus. Next up: Motel Campo, Geneva on Sat 25 Jul.
+D.Dan is a techno and house artist tracked on soundcheck, with 190 sets logged across Amsterdam, Athens, Austin and Barcelona and 57 more. Often billed alongside DJ TOOL, Hyperaktivist and Yazzus. Next up: CLUB RAUM, Amsterdam on Fri 31 Jul.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 25 Jul 2026 | Motel Campo | Geneva |
 | Fri, 31 Jul 2026 | CLUB RAUM | Amsterdam |
 | Fri, 14 Aug 2026 | Parc des Etangs/Vijverspark | Brussels |
 | Sat, 15 Aug 2026 | Lofi | Amsterdam |
@@ -22,6 +21,7 @@ D.Dan is a techno and house artist tracked on soundcheck, with 190 sets logged a
 
 ## Recently played
 
+- Motel Campo, Geneva — Sat, 25 Jul 2026
 - Ferropolis, Leipzig — Fri, 17 Jul 2026
 - The Bassement, Madrid — Sat, 4 Jul 2026
 - RSO.BERLIN, Berlin — Sat, 27 Jun 2026
@@ -29,10 +29,9 @@ D.Dan is a techno and house artist tracked on soundcheck, with 190 sets logged a
 - The Cause, London — Sat, 13 Jun 2026
 - SMUT Athens, Athens — Sat, 6 Jun 2026
 - Berghain | Panorama Bar | Säule, Berlin — Sat, 30 May 2026
-- Razzmatazz, Barcelona — Sat, 23 May 2026
 
 ## Shares bills with
 
 DJ TOOL, Hyperaktivist, Yazzus
 
-*Updated Sat, 25 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/ddan/)*
+*Updated Sun, 26 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/ddan/)*

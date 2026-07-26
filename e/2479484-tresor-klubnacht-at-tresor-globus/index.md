@@ -1,6 +1,6 @@
 # Tresor Klubnacht at Tresor / Globus
 
-Tresor Klubnacht at Tresor / Globus on Sat 15 Aug, Berlin. 7 acts on the bill: BIDOBEN, Benabou, Cleric and Fonte and 3 more. Preview the line-up and save it on soundcheck.
+Tresor Klubnacht at Tresor / Globus on Sat 15 Aug, Berlin. 7 acts on the bill: Benabou, BIDOBEN, Cleric and Fonte and 3 more. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,8 +10,8 @@ Tresor Klubnacht at Tresor / Globus on Sat 15 Aug, Berlin. 7 acts on the bill: B
 
 ## Line-up
 
-- BIDOBEN
 - Benabou
+- BIDOBEN
 - Cleric
 - Fonte
 - KIRSCH

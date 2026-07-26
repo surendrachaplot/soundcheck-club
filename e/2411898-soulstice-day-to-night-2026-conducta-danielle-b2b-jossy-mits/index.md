@@ -1,6 +1,6 @@
 # Soulstice Day-to-Night 2026: Conducta, Danielle b2b Jossy Mitsu, Ghoulish, Lu.Re & More at Colour Factory
 
-Soulstice Day-to-Night 2026: Conducta, Danielle b2b Jossy Mitsu, Ghoulish, Lu.Re & More at Colour Factory on Sat 15 Aug, London. 10 acts on the bill: Cable!, Conducta, Danielle and GRACE.. and 6 more. House and Garage. Preview the line-up and save it on soundcheck.
+Soulstice Day-to-Night 2026: Conducta, Danielle b2b Jossy Mitsu, Ghoulish, Lu.Re & More at Colour Factory on Sat 15 Aug, London. 10 acts on the bill: Cable!, Conducta, Danielle and Ghoulish and 6 more. House and Garage. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -13,8 +13,8 @@ Soulstice Day-to-Night 2026: Conducta, Danielle b2b Jossy Mitsu, Ghoulish, Lu.Re
 - Cable!
 - Conducta
 - Danielle
-- GRACE..
 - Ghoulish
+- GRACE..
 - Jamie Joy
 - Jossy Mitsu
 - Lu.Re

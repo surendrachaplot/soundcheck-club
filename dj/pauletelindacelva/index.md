@@ -1,6 +1,6 @@
 # Paulete Lindacelva
 
-Paulete Lindacelva is a House and Disco artist with 3 upcoming club dates listed on soundcheck as of Sat, 25 Jul 2026, next at Armazén Solon, Sao Paulo on Sat, 8 Aug 2026.
+Paulete Lindacelva is a House and Disco artist with 3 upcoming club dates listed on soundcheck as of Sun, 26 Jul 2026, next at Armazén Solon, Sao Paulo on Sat, 8 Aug 2026.
 
 Paulete Lindacelva is a house and disco artist tracked on soundcheck, with 90 sets logged across Amsterdam, Berlin, Buenosaires and Leipzig and 8 more. Often billed alongside Cashu, BADSISTA and Gezender. Next up: Armazén Solon, Saopaulo on Sat 8 Aug.
 
@@ -27,4 +27,4 @@ Paulete Lindacelva is a house and disco artist tracked on soundcheck, with 90 se
 
 Cashu, BADSISTA, Gezender
 
-*Updated Sat, 25 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/pauletelindacelva/)*
+*Updated Sun, 26 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/pauletelindacelva/)*

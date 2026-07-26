@@ -1,6 +1,6 @@
 # UNREAL x RUSH: DAY & NIGHT at Knockdown Center
 
-UNREAL x RUSH: DAY & NIGHT at Knockdown Center on Sat 12 Sept, Newyorkcity. 6 acts on the bill: 999999999, JSMN, Johannes Schuster and KUKO and 2 more. Techno. Preview the line-up and save it on soundcheck.
+UNREAL x RUSH: DAY & NIGHT at Knockdown Center on Sat 12 Sept, Newyorkcity. 6 acts on the bill: 999999999, Johannes Schuster, JSMN and KUKO and 2 more. Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -11,8 +11,8 @@ UNREAL x RUSH: DAY & NIGHT at Knockdown Center on Sat 12 Sept, Newyorkcity. 6 ac
 ## Line-up
 
 - 999999999
-- JSMN
 - Johannes Schuster
+- JSMN
 - KUKO
 - Princess Peggie
 - Winson

@@ -15,6 +15,7 @@ Gay Haze x Sundaze at Buda BXL on Sat 22 Aug, Brussels. 14 acts on the bill: Bel
 - Fafi Abdel Nour
 - Fais Le Beau
 - Godero
+- livwutang
 - Nat Wendell
 - Paulo Sea
 - Shonky
@@ -23,6 +24,5 @@ Gay Haze x Sundaze at Buda BXL on Sat 22 Aug, Brussels. 14 acts on the bill: Bel
 - Valley Dolly
 - Violently Happy
 - Walrus
-- livwutang
 
 *Source: [soundcheck](https://soundcheck.club/e/2479460-gay-haze-x-sundaze-at-buda-bxl/)*

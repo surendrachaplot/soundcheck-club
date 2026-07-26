@@ -1,14 +1,13 @@
 # Culture
 
-Culture is a music venue in Washington DC with 8 upcoming nights listed on soundcheck as of Sat, 25 Jul 2026; the next is "Nü Androids presents: Wax Motif" on Sat, 25 Jul 2026.
+Culture is a music venue in Washington DC with 7 upcoming nights listed on soundcheck as of Sun, 26 Jul 2026; the next is "Nü Androids and Achromatic presents: Moombahton Massive" on Fri, 14 Aug 2026.
 
-Culture is a music venue in Washingtondc listed on soundcheck. 8 upcoming nights, with line-ups including Dave Nada, Gravagerz, Nooriyah and Tittsworth. Browse upcoming dates, start times and who's playing. 2002 Fenwick St NE, Washington, DC 20002, United States.
+Culture is a music venue in Washingtondc listed on soundcheck. 7 upcoming nights, with line-ups including Dave Nada, Gravagerz, Nooriyah and Tittsworth. Browse upcoming dates, start times and who's playing. 2002 Fenwick St NE, Washington, DC 20002, United States.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Sat, 25 Jul 2026 | Nü Androids presents: Wax Motif |  |
 | Fri, 14 Aug 2026 | Nü Androids and Achromatic presents: Moombahton Massive | Dave Nada, Tittsworth |
 | Sat, 15 Aug 2026 | Nü Androids x Cafe Grooves presents: Rafael |  |
 | Fri, 21 Aug 2026 | Nü Androids presents: Patrick Topping |  |
@@ -21,4 +20,4 @@ Culture is a music venue in Washingtondc listed on soundcheck. 8 upcoming nights
 
 2002 Fenwick St NE, Washington, DC 20002, United States, Washington DC
 
-*Updated Sat, 25 Jul 2026 · source: [soundcheck](https://soundcheck.club/washingtondc/club/culture/)*
+*Updated Sun, 26 Jul 2026 · source: [soundcheck](https://soundcheck.club/washingtondc/club/culture/)*

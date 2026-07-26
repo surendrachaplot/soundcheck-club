@@ -1,6 +1,6 @@
 # Brunch Electronik Barcelona - Artbat, Adam Ten, ANNA, Shall Ocin at Jardins de Joan Brossa
 
-Brunch Electronik Barcelona - Artbat, Adam Ten, ANNA, Shall Ocin at Jardins de Joan Brossa on Sun 23 Aug, Barcelona. 5 acts on the bill: ANNA, ARODES, Adam Ten and Artbat and 1 more. Preview the line-up and save it on soundcheck.
+Brunch Electronik Barcelona - Artbat, Adam Ten, ANNA, Shall Ocin at Jardins de Joan Brossa on Sun 23 Aug, Barcelona. 5 acts on the bill: Adam Ten, ANNA, ARODES and Artbat and 1 more. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,9 +10,9 @@ Brunch Electronik Barcelona - Artbat, Adam Ten, ANNA, Shall Ocin at Jardins de J
 
 ## Line-up
 
+- Adam Ten
 - ANNA
 - ARODES
-- Adam Ten
 - Artbat
 - Shall Ocin
 

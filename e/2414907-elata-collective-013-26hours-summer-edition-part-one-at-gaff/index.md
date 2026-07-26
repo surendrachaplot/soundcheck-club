@@ -19,10 +19,10 @@ Elata Collective 013: 26hours Summer Edition [Part One] at Gaffe on Sat 8 Aug, L
 - James Harbrecht
 - Justine Perry
 - KETCH
+- markellos
 - TAARIS
 - Uväll
 - WINDFUHR
 - Ylia (UK)
-- markellos
 
 *Source: [soundcheck](https://soundcheck.club/e/2414907-elata-collective-013-26hours-summer-edition-part-one-at-gaff/)*

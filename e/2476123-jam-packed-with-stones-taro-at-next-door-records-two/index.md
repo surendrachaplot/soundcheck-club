@@ -1,6 +1,6 @@
 # Jam Packed with Stones Taro at Next Door Records Two
 
-Jam Packed with Stones Taro at Next Door Records Two on Sat 1 Aug, London. 5 acts on the bill: Debba, Kutchi, Ovrtic and Stones Taro and 1 more. Bass and Garage. Preview the line-up and save it on soundcheck.
+Jam Packed with Stones Taro at Next Door Records Two on Sat 1 Aug, London. 5 acts on the bill: Debba, green digger, Kutchi and Ovrtic and 1 more. Bass and Garage. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -11,9 +11,9 @@ Jam Packed with Stones Taro at Next Door Records Two on Sat 1 Aug, London. 5 act
 ## Line-up
 
 - Debba
+- green digger
 - Kutchi
 - Ovrtic
 - Stones Taro
-- green digger
 
 *Source: [soundcheck](https://soundcheck.club/e/2476123-jam-packed-with-stones-taro-at-next-door-records-two/)*

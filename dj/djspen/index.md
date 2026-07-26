@@ -1,6 +1,6 @@
 # DJ Spen
 
-DJ Spen is a House and Deep House artist with 5 upcoming club dates listed on soundcheck as of Sat, 25 Jul 2026, next at TV Lounge, Detroit on Thu, 13 Aug 2026.
+DJ Spen is a House and Deep House artist with 5 upcoming club dates listed on soundcheck as of Sun, 26 Jul 2026, next at TV Lounge, Detroit on Thu, 13 Aug 2026.
 
 DJ Spen is a house and deep house artist tracked on soundcheck, with 80 sets logged across Amsterdam, Chicago, Detroit and Edinburgh and 24 more. Often billed alongside Neil Pierce, sillygirlcarmen and Eddie Logix. Next up: TV Lounge, Detroit on Thu 13 Aug.
 
@@ -29,4 +29,4 @@ DJ Spen is a house and deep house artist tracked on soundcheck, with 80 sets log
 
 Neil Pierce, sillygirlcarmen, Eddie Logix
 
-*Updated Sat, 25 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/djspen/)*
+*Updated Sun, 26 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/djspen/)*

@@ -1,6 +1,6 @@
 # Collective Hysteria w/ RBI (live), ÇINTH, Jezebelle & Lovelace at Ormside Projects
 
-Collective Hysteria w/ RBI (live), ÇINTH, Jezebelle & Lovelace at Ormside Projects on Fri 14 Aug, London. 4 acts on the bill: Jezebelle, Lovelace, RBI (Aus) and ÇINTH. Trance and Techno. Preview the line-up and save it on soundcheck.
+Collective Hysteria w/ RBI (live), ÇINTH, Jezebelle & Lovelace at Ormside Projects on Fri 14 Aug, London. 4 acts on the bill: ÇINTH, Jezebelle, Lovelace and RBI (Aus). Trance and Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,9 +10,9 @@ Collective Hysteria w/ RBI (live), ÇINTH, Jezebelle & Lovelace at Ormside Proje
 
 ## Line-up
 
+- ÇINTH
 - Jezebelle
 - Lovelace
 - RBI (Aus)
-- ÇINTH
 
 *Source: [soundcheck](https://soundcheck.club/e/2462559-collective-hysteria-w-rbi-live-inth-jezebelle-lovelace-at-or/)*

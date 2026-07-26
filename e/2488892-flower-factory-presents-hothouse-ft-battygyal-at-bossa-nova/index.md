@@ -1,6 +1,6 @@
 # Flower Factory presents Hothouse ft. Battygyal at Bossa Nova Civic Club
 
-Flower Factory presents Hothouse ft. Battygyal at Bossa Nova Civic Club on Sun 2 Aug, Newyorkcity. 5 acts on the bill: Battygyal, Gail Force One, Joann Fabrixx and PWRPUFF and 1 more. Preview the line-up and save it on soundcheck.
+Flower Factory presents Hothouse ft. Battygyal at Bossa Nova Civic Club on Sun 2 Aug, Newyorkcity. 5 acts on the bill: Battygyal, Gail Force One, Joann Fabrixx and Prince Rose and 1 more. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -13,7 +13,7 @@ Flower Factory presents Hothouse ft. Battygyal at Bossa Nova Civic Club on Sun 2
 - Battygyal
 - Gail Force One
 - Joann Fabrixx
-- PWRPUFF
 - Prince Rose
+- PWRPUFF
 
 *Source: [soundcheck](https://soundcheck.club/e/2488892-flower-factory-presents-hothouse-ft-battygyal-at-bossa-nova/)*

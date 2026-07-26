@@ -1,6 +1,6 @@
 # RALLY 2026 [sold out] at Southwark Park
 
-RALLY 2026 [sold out] at Southwark Park on Sat 29 Aug, London. 23 acts on the bill: Blood Orange, Ciel, DJ Voices and Daniel Avery and 19 more. Preview the line-up and save it on soundcheck.
+RALLY 2026 [sold out] at Southwark Park on Sat 29 Aug, London. 23 acts on the bill: basic chanel, Blood Orange, Ciel and Daniel Avery and 19 more. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,16 +10,19 @@ RALLY 2026 [sold out] at Southwark Park on Sat 29 Aug, London. 23 acts on the bi
 
 ## Line-up
 
+- basic chanel
 - Blood Orange
 - Ciel
-- DJ Voices
 - Daniel Avery
+- DJ Voices
 - Flo Dill
 - Gabi
 - Harri Pepper
+- james K
 - James Massiah
 - Jonny Rock
 - Jump Source
+- keiyaA
 - Mark William Lewis
 - Nabihah Iqbal
 - Optimo (Espacio)
@@ -30,8 +33,5 @@ RALLY 2026 [sold out] at Southwark Park on Sat 29 Aug, London. 23 acts on the bi
 - U (UK)
 - Voice Actor
 - YHWH Nailgun
-- basic chanel
-- james K
-- keiyaA
 
 *Source: [soundcheck](https://soundcheck.club/e/2298367-rally-2026-sold-out-at-southwark-park/)*

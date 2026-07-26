@@ -1,6 +1,6 @@
 # Boiler Room: London - Friday at Burgess Park
 
-Boiler Room: London - Friday at Burgess Park on Fri 31 Jul, London. 18 acts on the bill: Basement Jaxx, Big Ang, Charisse C and Chris Stussy and 14 more. Amapiano and Afro House. Preview the line-up and save it on soundcheck.
+Boiler Room: London - Friday at Burgess Park on Fri 31 Jul, London. 18 acts on the bill: Basement Jaxx, batgirl, Big Ang and bullet tooth and 14 more. Amapiano and Afro House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -11,7 +11,9 @@ Boiler Room: London - Friday at Burgess Park on Fri 31 Jul, London. 18 acts on t
 ## Line-up
 
 - Basement Jaxx
+- batgirl
 - Big Ang
+- bullet tooth
 - Charisse C
 - Chris Stussy
 - Enzo Siragusa
@@ -21,12 +23,10 @@ Boiler Room: London - Friday at Burgess Park on Fri 31 Jul, London. 18 acts on t
 - Kitty Amor
 - Nicky Summers
 - PARAMIDA
-- RIRIA
 - Riordan
+- RIRIA
 - Ryota
-- Thakzin
-- batgirl
-- bullet tooth
 - ryota dj
+- Thakzin
 
 *Source: [soundcheck](https://soundcheck.club/e/2317964-boiler-room-london-friday-at-burgess-park/)*

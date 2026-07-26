@@ -14,6 +14,7 @@ TILLATEC invites: Herrensauna + KNIT on Sat 1 Aug, Amsterdam. 12 acts on the bil
 - CEM
 - Cormac
 - Emma Champagne Queen
+- fka.m4a
 - Gian Battista
 - HAAi
 - Lara Renner
@@ -21,6 +22,5 @@ TILLATEC invites: Herrensauna + KNIT on Sat 1 Aug, Amsterdam. 12 acts on the bil
 - Narciss
 - Slim Soledad
 - Tommy Hart
-- fka.m4a
 
 *Source: [soundcheck](https://soundcheck.club/e/2462147-tillatec-invites-herrensauna-knit-at-tillatec/)*

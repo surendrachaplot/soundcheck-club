@@ -1,8 +1,8 @@
 # STÜM
 
-STÜM is a Techno and House artist with 6 upcoming club dates listed on soundcheck as of Sat, 25 Jul 2026, next at Le Sucre, Lyon on Sun, 26 Jul 2026.
+STÜM is a Techno and House artist with 7 upcoming club dates listed on soundcheck as of Sun, 26 Jul 2026, next at Le Sucre, Lyon on Sun, 26 Jul 2026.
 
-STÜM is a techno and house artist tracked on soundcheck, with 59 sets logged across Amsterdam, Bali, Belfast and Berlin and 16 more. Often billed alongside Sam Alfred, 6 SENSE and Ewan McVicar. Next up: Le Sucre, Lyon on Sun 26 Jul.
+STÜM is a techno and house artist tracked on soundcheck, with 60 sets logged across Amsterdam, Bali, Belfast and Berlin and 16 more. Often billed alongside Sam Alfred, 6 SENSE and Ewan McVicar. Next up: Le Sucre, Lyon on Sun 26 Jul.
 
 ## Upcoming shows
 
@@ -14,6 +14,7 @@ STÜM is a techno and house artist tracked on soundcheck, with 59 sets logged ac
 | Fri, 14 Aug 2026 | Macadam | Nantes |
 | Sat, 29 Aug 2026 | Mondo | Madrid |
 | Fri, 23 Oct 2026 | H7 Warehouse | Amsterdam |
+| Sat, 24 Oct 2026 | Pllek | Amsterdam |
 
 ## Recently played
 
@@ -30,4 +31,4 @@ STÜM is a techno and house artist tracked on soundcheck, with 59 sets logged ac
 
 Sam Alfred, 6 SENSE, Ewan McVicar
 
-*Updated Sat, 25 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/stum/)*
+*Updated Sun, 26 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/stum/)*

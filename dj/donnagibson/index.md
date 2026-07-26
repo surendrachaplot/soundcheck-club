@@ -1,6 +1,6 @@
 # Donna Gibson
 
-Donna Gibson is a Disco and House artist with 3 upcoming club dates listed on soundcheck as of Sat, 25 Jul 2026, next at River's King, Paris on Tue, 28 Jul 2026.
+Donna Gibson is a Disco and House artist with 3 upcoming club dates listed on soundcheck as of Sun, 26 Jul 2026, next at River's King, Paris on Tue, 28 Jul 2026.
 
 Donna Gibson is a disco and house artist tracked on soundcheck, with 16 sets logged across Amsterdam, Berlin, Brussels and London and 1 more. Often billed alongside Young Pulse, Chris Wheatley and Midnight Voodoo. Next up: River's King, Paris on Tue 28 Jul.
 
@@ -27,4 +27,4 @@ Donna Gibson is a disco and house artist tracked on soundcheck, with 16 sets log
 
 Young Pulse, Chris Wheatley, Midnight Voodoo
 
-*Updated Sat, 25 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/donnagibson/)*
+*Updated Sun, 26 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/donnagibson/)*

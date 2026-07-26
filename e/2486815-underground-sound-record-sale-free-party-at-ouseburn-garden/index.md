@@ -14,8 +14,8 @@ UNDERGROUND SOUND: Record Sale & Free Party at Ouseburn Garden on Sat 1 Aug, New
 - Emily Jacko
 - FroD
 - James Worker
+- keks
 - Molly Sinnott
 - PHJ.WAV
-- keks
 
 *Source: [soundcheck](https://soundcheck.club/e/2486815-underground-sound-record-sale-free-party-at-ouseburn-garden/)*

@@ -1,6 +1,6 @@
 # CUTE invites PASTIS & BUENRI at Lokschuppen Berlin
 
-CUTE invites PASTIS & BUENRI at Lokschuppen Berlin on Fri 11 Sept, Berlin. 18 acts on the bill: Aexhy, Cobb Douglas, DJ Henk and Der Schaffner and 14 more. Trance and Techno. Preview the line-up and save it on soundcheck.
+CUTE invites PASTIS & BUENRI at Lokschuppen Berlin on Fri 11 Sept, Berlin. 18 acts on the bill: Aexhy, alemiko, bbymeister and Cobb Douglas and 14 more. Trance and Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -11,11 +11,15 @@ CUTE invites PASTIS & BUENRI at Lokschuppen Berlin on Fri 11 Sept, Berlin. 18 ac
 ## Line-up
 
 - Aexhy
+- alemiko
+- bbymeister
 - Cobb Douglas
-- DJ Henk
+- cravings320
 - Der Schaffner
+- DJ Henk
 - Florelle
 - H369
+- happysadgirl
 - IceLipzz
 - Limoncello
 - LŸBRA
@@ -24,9 +28,5 @@ CUTE invites PASTIS & BUENRI at Lokschuppen Berlin on Fri 11 Sept, Berlin. 18 ac
 - Ryukyu
 - SACID
 - Sonny Smiles
-- alemiko
-- bbymeister
-- cravings320
-- happysadgirl
 
 *Source: [soundcheck](https://soundcheck.club/e/2381259-cute-invites-pastis-buenri-at-lokschuppen-berlin/)*

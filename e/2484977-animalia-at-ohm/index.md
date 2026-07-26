@@ -1,6 +1,6 @@
 # Animalia at OHM
 
-Animalia at OHM on Sat 1 Aug, Berlin. 4 acts on the bill: C3D-E, Kia (AU), Lolo (AU) and livwutang. Dub Techno and Minimal Techno. Preview the line-up and save it on soundcheck.
+Animalia at OHM on Sat 1 Aug, Berlin. 4 acts on the bill: C3D-E, Kia (AU), livwutang and Lolo (AU). Dub Techno and Minimal Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -12,7 +12,7 @@ Animalia at OHM on Sat 1 Aug, Berlin. 4 acts on the bill: C3D-E, Kia (AU), Lolo 
 
 - C3D-E
 - Kia (AU)
-- Lolo (AU)
 - livwutang
+- Lolo (AU)
 
 *Source: [soundcheck](https://soundcheck.club/e/2484977-animalia-at-ohm/)*

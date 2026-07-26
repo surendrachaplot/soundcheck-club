@@ -1,6 +1,6 @@
 # Horoom – Fri, 14.08.2026 at Bassiani
 
-Horoom – Fri, 14.08.2026 at Bassiani on Fri 14 Aug, Tbilisi. 4 acts on the bill: Deetron, HVL, Zenker Brothers and skyra. Preview the line-up and save it on soundcheck.
+Horoom – Fri, 14.08.2026 at Bassiani on Fri 14 Aug, Tbilisi. 4 acts on the bill: Deetron, HVL, skyra and Zenker Brothers. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -12,7 +12,7 @@ Horoom – Fri, 14.08.2026 at Bassiani on Fri 14 Aug, Tbilisi. 4 acts on the bil
 
 - Deetron
 - HVL
-- Zenker Brothers
 - skyra
+- Zenker Brothers
 
 *Source: [soundcheck](https://soundcheck.club/e/2451340-horoom-fri-14-08-2026-at-bassiani/)*

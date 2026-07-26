@@ -14,8 +14,8 @@ Warrior's Dance Summer Sessions at Royal Highland Centre on Sat 29 Aug, Edinburg
 - Darrell Pulse
 - E.DN
 - Frazi.er
+- ona:v
 - Slam
 - The Prodigy
-- ona:v
 
 *Source: [soundcheck](https://soundcheck.club/e/2426485-warrior-s-dance-summer-sessions-at-royal-highland-centre/)*

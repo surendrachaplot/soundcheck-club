@@ -1,6 +1,6 @@
 # Het Bos
 
-Het Bos is a music venue in Antwerp with 3 upcoming nights listed on soundcheck as of Sat, 25 Jul 2026; the next is "Museumnacht Afterparty" on Sat, 1 Aug 2026.
+Het Bos is a music venue in Antwerp with 3 upcoming nights listed on soundcheck as of Sun, 26 Jul 2026; the next is "Museumnacht Afterparty" on Sat, 1 Aug 2026.
 
 Het Bos is a music venue in Antwerp listed on soundcheck. 3 upcoming nights, with line-ups including Graftak, Kim Peers, Marsman and Ofra. Browse upcoming dates, start times and who's playing. Ankerrui 5-7 B-2000 Antwerpen.
 
@@ -16,4 +16,4 @@ Het Bos is a music venue in Antwerp listed on soundcheck. 3 upcoming nights, wit
 
 Ankerrui 5-7 B-2000 Antwerpen, Antwerp
 
-*Updated Sat, 25 Jul 2026 · source: [soundcheck](https://soundcheck.club/antwerp/club/het-bos/)*
+*Updated Sun, 26 Jul 2026 · source: [soundcheck](https://soundcheck.club/antwerp/club/het-bos/)*

@@ -1,6 +1,6 @@
 # Miss Monique
 
-Miss Monique is a Techno and House artist with 23 upcoming club dates listed on soundcheck as of Sat, 25 Jul 2026, next at Boston Manor Park, London on Sun, 26 Jul 2026.
+Miss Monique is a Techno and House artist with 23 upcoming club dates listed on soundcheck as of Sun, 26 Jul 2026, next at Boston Manor Park, London on Sun, 26 Jul 2026.
 
 Miss Monique is a techno and house artist tracked on soundcheck, with 226 sets logged across Amsterdam, Athens, Austin and Bali and 51 more. Often billed alongside Hugel, Artbat and CamelPhat. Next up: Boston Manor Park, London on Sun 26 Jul.
 
@@ -36,4 +36,4 @@ Miss Monique is a techno and house artist tracked on soundcheck, with 226 sets l
 
 Hugel, Artbat, CamelPhat
 
-*Updated Sat, 25 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/missmonique/)*
+*Updated Sun, 26 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/missmonique/)*

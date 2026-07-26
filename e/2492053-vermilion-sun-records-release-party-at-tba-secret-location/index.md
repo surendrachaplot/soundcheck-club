@@ -1,6 +1,6 @@
 # Vermilion Sun Records - Release Party at TBA - Secret Location
 
-Vermilion Sun Records - Release Party at TBA - Secret Location on Fri 14 Aug, Boston. 3 acts on the bill: John Debo, Wiersma and cutwoes. Progressive House and Tech House. Preview the line-up and save it on soundcheck.
+Vermilion Sun Records - Release Party at TBA - Secret Location on Fri 14 Aug, Boston. 3 acts on the bill: cutwoes, John Debo and Wiersma. Progressive House and Tech House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,8 +10,8 @@ Vermilion Sun Records - Release Party at TBA - Secret Location on Fri 14 Aug, Bo
 
 ## Line-up
 
+- cutwoes
 - John Debo
 - Wiersma
-- cutwoes
 
 *Source: [soundcheck](https://soundcheck.club/e/2492053-vermilion-sun-records-release-party-at-tba-secret-location/)*

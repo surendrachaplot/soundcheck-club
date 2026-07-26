@@ -14,9 +14,9 @@ Marcal at VENT on Sat 8 Aug, Tokyo. 8 acts on the bill: Jiho, Kazu, Kurumi and L
 - Kazu
 - Kurumi
 - LaWhat (2)
+- manato
 - Marcal
 - RINALUCKY
 - Shintarø Kanie
-- manato
 
 *Source: [soundcheck](https://soundcheck.club/e/2482489-marcal-at-vent/)*

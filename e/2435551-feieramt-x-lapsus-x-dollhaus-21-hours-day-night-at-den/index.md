@@ -16,13 +16,13 @@ FEIERAMT x LAPSUS x DOLLHAUS (21 HOURS DAY + NIGHT) at ÆDEN on Sat 22 Aug, Berl
 - JenTen
 - Jessie Granqvist
 - Ksenia K
-- MAURER
 - Maris Shilton
+- MAURER
 - Mython
 - PØVE
 - Santos.
-- TAUREAN (2)
 - Taurean
+- TAUREAN (2)
 - VOICEX
 
 *Source: [soundcheck](https://soundcheck.club/e/2435551-feieramt-x-lapsus-x-dollhaus-21-hours-day-night-at-den/)*

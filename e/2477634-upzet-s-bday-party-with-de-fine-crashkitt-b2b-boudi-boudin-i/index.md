@@ -19,7 +19,7 @@ Upzet's Bday Party with DE.fine, Crashkitt b2b Boudi Boudin, Iza b2b Dirty Plate
 - Dub Isotope
 - IZA (2)
 - Shaded Lines
-- Upzet
 - unknown.dnb
+- Upzet
 
 *Source: [soundcheck](https://soundcheck.club/e/2477634-upzet-s-bday-party-with-de-fine-crashkitt-b2b-boudi-boudin-i/)*

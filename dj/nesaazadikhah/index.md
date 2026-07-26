@@ -1,6 +1,6 @@
 # Nesa Azadikhah
 
-Nesa Azadikhah is a Techno and House artist with 4 upcoming club dates listed on soundcheck as of Sat, 25 Jul 2026, next at La Station - Gare des Mines, Paris on Sun, 26 Jul 2026.
+Nesa Azadikhah is a Techno and House artist with 4 upcoming club dates listed on soundcheck as of Sun, 26 Jul 2026, next at La Station - Gare des Mines, Paris on Sun, 26 Jul 2026.
 
 Nesa Azadikhah is a techno and house artist tracked on soundcheck, with 59 sets logged across Berlin, Brussels, Chicago and Copenhagen and 10 more. Often billed alongside Sina XX, Acid Arab and Deena Abdelwahed. Next up: La Station - Gare des Mines, Paris on Sun 26 Jul.
 
@@ -28,4 +28,4 @@ Nesa Azadikhah is a techno and house artist tracked on soundcheck, with 59 sets 
 
 Sina XX, Acid Arab, Deena Abdelwahed
 
-*Updated Sat, 25 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/nesaazadikhah/)*
+*Updated Sun, 26 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/nesaazadikhah/)*

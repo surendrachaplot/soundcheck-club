@@ -1,17 +1,19 @@
 # De Sering
 
-De Sering is a music venue in Amsterdam with 1 upcoming night listed on soundcheck as of Sat, 25 Jul 2026; the next is "Dusty Cabinets | Friday" on Fri, 23 Oct 2026.
+De Sering is a music venue in Amsterdam with 3 upcoming nights listed on soundcheck as of Sun, 26 Jul 2026; the next is "GALEJ" on Fri, 4 Sept 2026.
 
-De Sering is a music venue in Amsterdam listed on soundcheck. 1 upcoming night. Browse upcoming dates, start times and who's playing. Rhoneweg 6, 1043 AH Amsterdam, Netherlands.
+De Sering is a music venue in Amsterdam listed on soundcheck. 3 upcoming nights, with line-ups including Eylon, GATTOMUSiC, grosen and issagirl. Browse upcoming dates, start times and who's playing. Rhoneweg 6, 1043 AH Amsterdam, Netherlands.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
+| Fri, 4 Sept 2026 | GALEJ | Eylon, GATTOMUSiC, grosen, issagirl |
 | Fri, 23 Oct 2026 | Dusty Cabinets / Friday |  |
+| Sat, 24 Oct 2026 | Dusty Cabinets / Saturday |  |
 
 ## Address
 
 Rhoneweg 6, 1043 AH Amsterdam, Netherlands, Amsterdam
 
-*Updated Sat, 25 Jul 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/de-sering/)*
+*Updated Sun, 26 Jul 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/de-sering/)*

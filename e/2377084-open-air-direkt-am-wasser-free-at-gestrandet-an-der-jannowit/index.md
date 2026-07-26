@@ -1,6 +1,6 @@
 # OPEN AIR DIREKT AM WASSER - FREE at Gestrandet An Der Jannowitzbrücke
 
-OPEN AIR DIREKT AM WASSER - FREE at Gestrandet An Der Jannowitzbrücke on Sat 5 Sept, Berlin. 6 acts on the bill: Josiane, Mad Shivers, Nostro Ritmo and Philippe Autuori and 2 more. House and Deep House. Preview the line-up and save it on soundcheck.
+OPEN AIR DIREKT AM WASSER - FREE at Gestrandet An Der Jannowitzbrücke on Sat 5 Sept, Berlin. 6 acts on the bill: Æ Problæm, Josiane, Mad Shivers and Nostro Ritmo and 2 more. House and Deep House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,11 +10,11 @@ OPEN AIR DIREKT AM WASSER - FREE at Gestrandet An Der Jannowitzbrücke on Sat 5 
 
 ## Line-up
 
+- Æ Problæm
 - Josiane
 - Mad Shivers
 - Nostro Ritmo
 - Philippe Autuori
 - Robert Owens
-- Æ Problæm
 
 *Source: [soundcheck](https://soundcheck.club/e/2377084-open-air-direkt-am-wasser-free-at-gestrandet-an-der-jannowit/)*

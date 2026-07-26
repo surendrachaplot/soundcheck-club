@@ -1,6 +1,6 @@
 # Interference x 400°F presents Amor Satyr and Siu Mata at Hizz Lounge
 
-Interference x 400°F presents Amor Satyr and Siu Mata at Hizz Lounge on Sat 1 Aug, Detroit. 7 acts on the bill: Amor Satyr, Nick Dagher, RAPHAËL (2) and Sinistarr and 3 more. Bass and Broken Beat. Preview the line-up and save it on soundcheck.
+Interference x 400°F presents Amor Satyr and Siu Mata at Hizz Lounge on Sat 1 Aug, Detroit. 7 acts on the bill: Amor Satyr, hypemelo, Nick Dagher and RAPHAËL (2) and 3 more. Bass and Broken Beat. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -11,11 +11,11 @@ Interference x 400°F presents Amor Satyr and Siu Mata at Hizz Lounge on Sat 1 A
 ## Line-up
 
 - Amor Satyr
+- hypemelo
 - Nick Dagher
 - RAPHAËL (2)
 - Sinistarr
 - Siu Mata (2)
 - Young Muscle
-- hypemelo
 
 *Source: [soundcheck](https://soundcheck.club/e/2495862-interference-x-400-f-presents-amor-satyr-and-siu-mata-at-hiz/)*

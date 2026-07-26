@@ -20,10 +20,10 @@ Sziget Festival 2026 at Obudai Island on Tue 11 Aug, Budapest. 15 acts on the bi
 - Indira Paganotto
 - JAZZY (2)
 - Joris Voorn
+- oskar med k
 - Pan-Pot
+- sim0ne
 - Sisi
 - Underworld
-- oskar med k
-- sim0ne
 
 *Source: [soundcheck](https://soundcheck.club/e/2322876-sziget-festival-2026-at-obudai-island/)*

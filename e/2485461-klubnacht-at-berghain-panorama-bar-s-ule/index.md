@@ -16,11 +16,11 @@ Klubnacht at Berghain | Panorama Bar | Säule on Sat 15 Aug, Berlin. 15 acts on 
 - Eden Burns
 - Eli Escobar
 - Ina Kacz
-- LYZA
 - Loidis
-- MAYURASHKA
+- LYZA
 - Man Power
 - Mathew Jonson
+- MAYURASHKA
 - Nastia Reigel
 - Ogazón
 - Rene Wise

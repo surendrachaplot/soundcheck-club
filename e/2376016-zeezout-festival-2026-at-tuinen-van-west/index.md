@@ -29,6 +29,7 @@ ZeeZout Festival 2026 at Tuinen van West on Sat 29 Aug, Amsterdam. 29 acts on th
 - Maria Louisa
 - Milion
 - Moxes
+- mul/ANNA
 - Naone
 - Rozaly
 - SAIDAH
@@ -38,6 +39,5 @@ ZeeZout Festival 2026 at Tuinen van West on Sat 29 Aug, Amsterdam. 29 acts on th
 - Surusinghe
 - TWIENA
 - Willem Feltzer
-- mul/ANNA
 
 *Source: [soundcheck](https://soundcheck.club/e/2376016-zeezout-festival-2026-at-tuinen-van-west/)*

@@ -17,8 +17,8 @@ LYRA with Axel Boman at Bike Jesus on Sat 1 Aug, Prague. 10 acts on the bill: AN
 - Ondrej Husak
 - Roman Rai
 - Silhouette
-- Theo (8)
 - Täino
+- Theo (8)
 - Unjack*
 
 *Source: [soundcheck](https://soundcheck.club/e/2468129-lyra-with-axel-boman-at-bike-jesus/)*

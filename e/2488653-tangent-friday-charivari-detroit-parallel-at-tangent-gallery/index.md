@@ -1,6 +1,6 @@
 # Tangent Friday Charivari Detroit Parallel at Tangent Gallery
 
-Tangent Friday Charivari Detroit Parallel at Tangent Gallery on Fri 14 Aug, Detroit. 8 acts on the bill: Garrison XR, Just Shacoi, MNTRA and TCHiLT and 4 more. Tech House and Ghetto Tech. Preview the line-up and save it on soundcheck.
+Tangent Friday Charivari Detroit Parallel at Tangent Gallery on Fri 14 Aug, Detroit. 8 acts on the bill: britty., Garrison XR, jamea. and Just Shacoi and 4 more. Tech House and Ghetto Tech. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,13 +10,13 @@ Tangent Friday Charivari Detroit Parallel at Tangent Gallery on Fri 14 Aug, Detr
 
 ## Line-up
 
+- britty.
 - Garrison XR
+- jamea.
 - Just Shacoi
 - MNTRA
-- TCHiLT
-- britty.
-- jamea.
 - sillygirlcarmen
+- TCHiLT
 - we1sman
 
 *Source: [soundcheck](https://soundcheck.club/e/2488653-tangent-friday-charivari-detroit-parallel-at-tangent-gallery/)*

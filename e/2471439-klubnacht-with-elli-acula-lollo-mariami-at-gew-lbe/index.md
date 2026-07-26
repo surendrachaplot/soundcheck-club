@@ -1,6 +1,6 @@
 # Klubnacht with Elli Acula, lollo, Mariami at Gewölbe
 
-Klubnacht with Elli Acula, lollo, Mariami at Gewölbe on Sat 8 Aug, Cologne. 3 acts on the bill: Elli Acula, Mariami and lollo. Techno. Preview the line-up and save it on soundcheck.
+Klubnacht with Elli Acula, lollo, Mariami at Gewölbe on Sat 8 Aug, Cologne. 3 acts on the bill: Elli Acula, lollo and Mariami. Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -11,7 +11,7 @@ Klubnacht with Elli Acula, lollo, Mariami at Gewölbe on Sat 8 Aug, Cologne. 3 a
 ## Line-up
 
 - Elli Acula
-- Mariami
 - lollo
+- Mariami
 
 *Source: [soundcheck](https://soundcheck.club/e/2471439-klubnacht-with-elli-acula-lollo-mariami-at-gew-lbe/)*

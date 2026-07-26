@@ -15,7 +15,7 @@ esensual 002 release / in-store session at TBA - Palace Vinyl, Brixton on Thu 20
 - Doc²
 - Roka
 - Rust-e
-- Silki
 - Séarlait
+- Silki
 
 *Source: [soundcheck](https://soundcheck.club/e/2406690-esensual-002-release-in-store-session-at-tba-palace-vinyl-br/)*

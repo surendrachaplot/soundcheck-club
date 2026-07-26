@@ -1,6 +1,6 @@
 # SubCurrent Vol.16 at Azumaya
 
-SubCurrent Vol.16 at Azumaya on Wed 29 Jul, Tokyo. 4 acts on the bill: KCT (1), Rt3mis, SolaNino and eurlica. Bass. Preview the line-up and save it on soundcheck.
+SubCurrent Vol.16 at Azumaya on Wed 29 Jul, Tokyo. 4 acts on the bill: eurlica, KCT (1), Rt3mis and SolaNino. Bass. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,9 +10,9 @@ SubCurrent Vol.16 at Azumaya on Wed 29 Jul, Tokyo. 4 acts on the bill: KCT (1), 
 
 ## Line-up
 
+- eurlica
 - KCT (1)
 - Rt3mis
 - SolaNino
-- eurlica
 
 *Source: [soundcheck](https://soundcheck.club/e/2489352-subcurrent-vol-16-at-azumaya/)*

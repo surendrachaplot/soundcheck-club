@@ -1,6 +1,6 @@
 # dj g2g
 
-dj g2g is a Techno and Club artist with 5 upcoming club dates listed on soundcheck as of Sat, 25 Jul 2026, next at Celebrities Night Club, Vancouver on Thu, 30 Jul 2026.
+dj g2g is a Techno and Club artist with 5 upcoming club dates listed on soundcheck as of Sun, 26 Jul 2026, next at Celebrities Night Club, Vancouver on Thu, 30 Jul 2026.
 
 dj g2g is a techno and club artist tracked on soundcheck, with 106 sets logged across Amsterdam, Bali, Bangkok and Barcelona and 38 more. Often billed alongside Azyr, Miss Bashful x DBBD and Adrian Mills. Next up: Celebrities Night Club, Vancouver on Thu 30 Jul.
 
@@ -29,4 +29,4 @@ dj g2g is a techno and club artist tracked on soundcheck, with 106 sets logged a
 
 Azyr, Miss Bashful x DBBD, Adrian Mills
 
-*Updated Sat, 25 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/djg2g/)*
+*Updated Sun, 26 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/djg2g/)*

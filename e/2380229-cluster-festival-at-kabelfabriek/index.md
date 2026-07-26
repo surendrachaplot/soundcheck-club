@@ -18,7 +18,7 @@ Cluster Festival at Kabelfabriek on Sat 29 Aug, Thehague. 10 acts on the bill: A
 - JDMA
 - Paul Ray
 - RUL3
-- SURCO
 - slin
+- SURCO
 
 *Source: [soundcheck](https://soundcheck.club/e/2380229-cluster-festival-at-kabelfabriek/)*

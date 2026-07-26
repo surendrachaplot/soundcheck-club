@@ -1,6 +1,6 @@
 # KC [Function (3H30 set) • Tommy Four Seven (3H set) • marie tonic • teinture-mère] at Karmen Camina
 
-KC [Function (3H30 set) • Tommy Four Seven (3H set) • marie tonic • teinture-mère] at Karmen Camina on Sat 8 Aug, Strasbourg. 3 acts on the bill: Function, Tommy Four Seven and marie tonic. Trance and Techno. Preview the line-up and save it on soundcheck.
+KC [Function (3H30 set) • Tommy Four Seven (3H set) • marie tonic • teinture-mère] at Karmen Camina on Sat 8 Aug, Strasbourg. 3 acts on the bill: Function, marie tonic and Tommy Four Seven. Trance and Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -11,7 +11,7 @@ KC [Function (3H30 set) • Tommy Four Seven (3H set) • marie tonic • teintu
 ## Line-up
 
 - Function
-- Tommy Four Seven
 - marie tonic
+- Tommy Four Seven
 
 *Source: [soundcheck](https://soundcheck.club/e/2484432-kc-function-3h30-set-tommy-four-seven-3h-set-marie-tonic-tei/)*

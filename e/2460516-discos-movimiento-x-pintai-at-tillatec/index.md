@@ -15,11 +15,11 @@ Discos Movimiento x Pintai at TILLATEC on Sat 15 Aug, Amsterdam. 11 acts on the 
 - Gizem
 - Hafa
 - Hame (1)
-- MNTY
 - Martinou
+- MNTY
 - Move D
+- nthng
 - Telfort
 - Vera Logdanidi
-- nthng
 
 *Source: [soundcheck](https://soundcheck.club/e/2460516-discos-movimiento-x-pintai-at-tillatec/)*

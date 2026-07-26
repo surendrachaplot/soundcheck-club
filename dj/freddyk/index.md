@@ -1,14 +1,13 @@
 # Freddy K
 
-Freddy K is a Techno and House artist with 12 upcoming club dates listed on soundcheck as of Sat, 25 Jul 2026, next at The Yard, Manchester on Sat, 25 Jul 2026.
+Freddy K is a Techno and House artist with 12 upcoming club dates listed on soundcheck as of Sun, 26 Jul 2026, next at BLITZ, Munich on Fri, 31 Jul 2026.
 
-Freddy K is a techno and house artist tracked on soundcheck, with 266 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 63 more. Often billed alongside Blasha & Allatt, Chlär and Alarico. Next up: The Yard, Manchester on Sat 25 Jul.
+Freddy K is a techno and house artist tracked on soundcheck, with 267 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 63 more. Often billed alongside Blasha & Allatt, Chlär and Alarico. Next up: BLITZ, Munich on Fri 31 Jul.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 25 Jul 2026 | The Yard | Manchester |
 | Fri, 31 Jul 2026 | BLITZ | Munich |
 | Sat, 1 Aug 2026 | Else | Berlin |
 | Fri, 7 Aug 2026 | FOLD | London |
@@ -20,9 +19,11 @@ Freddy K is a techno and house artist tracked on soundcheck, with 266 sets logge
 | Tue, 29 Sept 2026 | Amnesia Ibiza | Ibiza |
 | Sat, 3 Oct 2026 | Sidney Myer Music Bowl | Melbourne |
 | Sun, 4 Oct 2026 | Cockatoo Island | Sydney |
+| Sat, 24 Oct 2026 | Bajes Amsterdam | Amsterdam |
 
 ## Recently played
 
+- The Yard, Manchester — Sat, 25 Jul 2026
 - Forte Antenne, Rome — Fri, 24 Jul 2026
 - Ferropolis, Leipzig — Fri, 17 Jul 2026
 - Amnesia Ibiza, Ibiza — Tue, 7 Jul 2026
@@ -30,10 +31,9 @@ Freddy K is a techno and house artist tracked on soundcheck, with 266 sets logge
 - essaim, Paris — Fri, 3 Jul 2026
 - Altrove, Milan — Sun, 28 Jun 2026
 - BLITZ, Munich — Sat, 27 Jun 2026
-- The Cause, London — Sat, 13 Jun 2026
 
 ## Shares bills with
 
 Blasha & Allatt, Chlär, Alarico
 
-*Updated Sat, 25 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/freddyk/)*
+*Updated Sun, 26 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/freddyk/)*

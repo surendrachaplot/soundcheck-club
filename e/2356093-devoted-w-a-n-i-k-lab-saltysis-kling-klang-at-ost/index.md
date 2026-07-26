@@ -14,7 +14,7 @@ Devoted w. A.N.I., Kø:lab, SaltySis, KLING&KLANG at OST on Fri 16 Oct, Berlin. 
 - KLING&KLANG
 - Kø:lab
 - Nettta
-- SEKTOR69
 - SaltySis
+- SEKTOR69
 
 *Source: [soundcheck](https://soundcheck.club/e/2356093-devoted-w-a-n-i-k-lab-saltysis-kling-klang-at-ost/)*

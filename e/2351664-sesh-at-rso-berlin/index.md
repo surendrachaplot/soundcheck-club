@@ -1,6 +1,6 @@
 # SESH at RSO.BERLIN
 
-SESH at RSO.BERLIN on Fri 25 Sept, Berlin. 8 acts on the bill: 2HOT2PLAY, GEN97, NYRA (DE) and Paraçek and 4 more. Preview the line-up and save it on soundcheck.
+SESH at RSO.BERLIN on Fri 25 Sept, Berlin. 8 acts on the bill: 2HOT2PLAY, davyboi, GEN97 and NYRA (DE) and 4 more. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -11,12 +11,12 @@ SESH at RSO.BERLIN on Fri 25 Sept, Berlin. 8 acts on the bill: 2HOT2PLAY, GEN97,
 ## Line-up
 
 - 2HOT2PLAY
+- davyboi
 - GEN97
 - NYRA (DE)
 - Paraçek
 - SATYS FYRE
 - Shake Daddy
 - XIMA
-- davyboi
 
 *Source: [soundcheck](https://soundcheck.club/e/2351664-sesh-at-rso-berlin/)*

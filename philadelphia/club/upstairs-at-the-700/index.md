@@ -1,15 +1,13 @@
 # Upstairs at the 700
 
-Upstairs at the 700 is a music venue in Philadelphia with 7 upcoming nights listed on soundcheck as of Sat, 25 Jul 2026; the next is "Ancient Puzzle Arts with Foxy Nora, Alex Burkat, Westov Temple, Rudy Kardos" on Sat, 25 Jul 2026.
+Upstairs at the 700 is a music venue in Philadelphia with 5 upcoming nights listed on soundcheck as of Sun, 26 Jul 2026; the next is "EAST COAST POWER DYNAMICS" on Thu, 30 Jul 2026.
 
-Upstairs at the 700 is a music venue in Philadelphia listed on soundcheck. 7 upcoming nights, with line-ups including Brooce, Cowa, El-D (USA) and Firestone and 2 more. Browse upcoming dates, start times and who's playing. 700 N 2nd St, Philadelphia, PA 19123, United States.
+Upstairs at the 700 is a music venue in Philadelphia listed on soundcheck. 5 upcoming nights, with line-ups including Brooce, Cowa, El-D (USA) and Headnod and 2 more. Browse upcoming dates, start times and who's playing. 700 N 2nd St, Philadelphia, PA 19123, United States.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Sat, 25 Jul 2026 | Ancient Puzzle Arts with Foxy Nora, Alex Burkat, Westov Temple, Rudy Kardos |  |
-| Sat, 25 Jul 2026 | GAY MUSIC - a Charli xcx themed night | Firestone, hopifer |
 | Thu, 30 Jul 2026 | EAST COAST POWER DYNAMICS | Mike Textbeak |
 | Thu, 6 Aug 2026 | Convergence | El-D (USA), Headnod, soundsofgreg |
 | Fri, 7 Aug 2026 | Horme | Brooce, Cowa, Kade Young, low iron |
@@ -20,4 +18,4 @@ Upstairs at the 700 is a music venue in Philadelphia listed on soundcheck. 7 upc
 
 700 N 2nd St, Philadelphia, PA 19123, United States, Philadelphia
 
-*Updated Sat, 25 Jul 2026 · source: [soundcheck](https://soundcheck.club/philadelphia/club/upstairs-at-the-700/)*
+*Updated Sun, 26 Jul 2026 · source: [soundcheck](https://soundcheck.club/philadelphia/club/upstairs-at-the-700/)*

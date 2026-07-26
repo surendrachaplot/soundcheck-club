@@ -1,14 +1,13 @@
 # PIP Den Haag
 
-PIP Den Haag is a music venue in The Hague with 8 upcoming nights listed on soundcheck as of Sat, 25 Jul 2026; the next is "PIP NON-STOP SUMMER CLOSING (27 HOURS)" on Sat, 25 Jul 2026.
+PIP Den Haag is a music venue in The Hague with 7 upcoming nights listed on soundcheck as of Sun, 26 Jul 2026; the next is "PIP Season Opening" on Sat, 29 Aug 2026.
 
-PIP Den Haag is a music venue in Thehague listed on soundcheck. 8 upcoming nights, with line-ups including Afra, Ascha, Auryn and Bouk Liúw and 2 more. Browse upcoming dates, start times and who's playing. Binckhorstlaan 36; 2513 The Hague; Netherlands.
+PIP Den Haag is a music venue in Thehague listed on soundcheck. 7 upcoming nights, with line-ups including Afra, David Vunk, Intergalactic Gary and Lobster (NL) and 2 more. Browse upcoming dates, start times and who's playing. Binckhorstlaan 36; 2513 The Hague; Netherlands.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Sat, 25 Jul 2026 | PIP NON-STOP SUMMER CLOSING (27 HOURS) | Ascha, Auryn, Bouk Liúw, CC:DISCO!, DJ Tracksuit, De Schuurman, Gioray, IZZY (UK), Izzy, Jan van Kampen, Jeans (NL), Jetti, Kevin Lo, Kikelomo, LIVI, Lorain, Nino Henning, OMOLOKO, Pelanoir, Post, Willem Feltzer, nienquepasa |
 | Sat, 29 Aug 2026 | PIP Season Opening |  |
 | Sat, 5 Sept 2026 | PIP presents Wildcard |  |
 | Sat, 12 Sept 2026 | David Vunk 50 jaar: tegen alle verwachtingen in | David Vunk |
@@ -21,4 +20,4 @@ PIP Den Haag is a music venue in Thehague listed on soundcheck. 8 upcoming night
 
 Binckhorstlaan 36; 2513 The Hague; Netherlands, The Hague
 
-*Updated Sat, 25 Jul 2026 · source: [soundcheck](https://soundcheck.club/thehague/club/pip-den-haag/)*
+*Updated Sun, 26 Jul 2026 · source: [soundcheck](https://soundcheck.club/thehague/club/pip-den-haag/)*

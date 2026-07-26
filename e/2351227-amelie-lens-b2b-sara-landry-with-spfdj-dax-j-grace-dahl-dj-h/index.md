@@ -14,7 +14,7 @@ Amelie Lens b2b Sara Landry with SPFDJ, DAX J, Grace Dahl, DJ Hyperdrive at Maga
 - DAX J
 - DJ Hyperdrive
 - Grace Dahl
-- SPFDJ
 - Sara Landry
+- SPFDJ
 
 *Source: [soundcheck](https://soundcheck.club/e/2351227-amelie-lens-b2b-sara-landry-with-spfdj-dax-j-grace-dahl-dj-h/)*

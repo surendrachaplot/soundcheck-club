@@ -1,6 +1,6 @@
 # Swallowed Open Decks at Honey's
 
-Swallowed Open Decks at Honey's on Wed 5 Aug, Newyorkcity. 2 acts on the bill: DJ girlcrush and bossy boots. Preview the line-up and save it on soundcheck.
+Swallowed Open Decks at Honey's on Wed 5 Aug, Newyorkcity. 2 acts on the bill: bossy boots and DJ girlcrush. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,7 +10,7 @@ Swallowed Open Decks at Honey's on Wed 5 Aug, Newyorkcity. 2 acts on the bill: D
 
 ## Line-up
 
-- DJ girlcrush
 - bossy boots
+- DJ girlcrush
 
 *Source: [soundcheck](https://soundcheck.club/e/2492992-swallowed-open-decks-at-honey-s/)*

@@ -1,6 +1,6 @@
 # Eversines
 
-Eversines is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Sat, 25 Jul 2026, next at Renate, Berlin on Sat, 22 Aug 2026.
+Eversines is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Sun, 26 Jul 2026, next at Renate, Berlin on Sat, 22 Aug 2026.
 
 Eversines is a techno and house artist tracked on soundcheck, with 92 sets logged across Amsterdam, Barcelona, Belgrade and Berlin and 17 more. Often billed alongside Marie K (1), Pieter Jansen and RDS. Next up: Renate, Berlin on Sat 22 Aug.
 
@@ -26,4 +26,4 @@ Eversines is a techno and house artist tracked on soundcheck, with 92 sets logge
 
 Marie K (1), Pieter Jansen, RDS
 
-*Updated Sat, 25 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/eversines/)*
+*Updated Sun, 26 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/eversines/)*

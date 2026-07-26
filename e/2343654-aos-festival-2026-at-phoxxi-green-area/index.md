@@ -21,6 +21,8 @@ AOS FESTIVAL 2026 at Phoxxi Green Area on Sat 22 Aug, Hamburg. 38 acts on the bi
 - DJ SOURCE
 - DJ Spit
 - EliaHaze
+- fbi (1)
+- ferrari rot
 - Finona Rider
 - Ilja Franz
 - Janis Zielinski
@@ -35,18 +37,16 @@ AOS FESTIVAL 2026 at Phoxxi Green Area on Sat 22 Aug, Hamburg. 38 acts on the bi
 - P.Vanillaboy
 - Penglord
 - SALOME
-- SZELEST
 - Schwesta P
 - Sophti
 - Speckman
 - Stef de Haan
 - Surf 2 Glory
+- SZELEST
 - T.PLAYBOI
-- TTX (GER)
 - Talia Dorr
+- TTX (GER)
 - X CLUB.
 - X-Coast
-- fbi (1)
-- ferrari rot
 
 *Source: [soundcheck](https://soundcheck.club/e/2343654-aos-festival-2026-at-phoxxi-green-area/)*

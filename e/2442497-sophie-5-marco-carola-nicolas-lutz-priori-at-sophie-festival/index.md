@@ -1,6 +1,6 @@
 # Sophie #5 - Marco Carola, Nicolas Lutz, Priori at Sophie Festival
 
-Sophie #5 - Marco Carola, Nicolas Lutz, Priori at Sophie Festival on Sat 15 Aug, Malaga. 8 acts on the bill: Giorgio Maulini, Janeret, Javier Carballo and Marco Carola and 4 more. Preview the line-up and save it on soundcheck.
+Sophie #5 - Marco Carola, Nicolas Lutz, Priori at Sophie Festival on Sat 15 Aug, Malaga. 8 acts on the bill: Giorgio Maulini, ildec, Janeret and Javier Carballo and 4 more. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -11,12 +11,12 @@ Sophie #5 - Marco Carola, Nicolas Lutz, Priori at Sophie Festival on Sat 15 Aug,
 ## Line-up
 
 - Giorgio Maulini
+- ildec
 - Janeret
 - Javier Carballo
 - Marco Carola
 - Nicolas Lutz
 - Priori
 - Silvie Loto
-- ildec
 
 *Source: [soundcheck](https://soundcheck.club/e/2442497-sophie-5-marco-carola-nicolas-lutz-priori-at-sophie-festival/)*

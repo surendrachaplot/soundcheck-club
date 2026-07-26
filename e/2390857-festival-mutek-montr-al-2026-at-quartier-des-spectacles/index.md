@@ -18,14 +18,17 @@ Festival MUTEK Montréal 2026 at Quartier Des Spectacles on Tue 25 Aug, Montreal
 - Barker
 - Ben UFO
 - CLEO LEIGH
-- CUERPOS
 - Con Secuencias
+- CUERPOS
 - Dana Ruh
 - Dave Huismans
 - Debit
+- dustBunny
 - El Ángel Exterminador
 - Fennesz
+- fongkikid
 - France Jobin
+- gyrofield
 - Hainbach
 - Honeydrip
 - Istanbul Ghetto Club
@@ -48,9 +51,9 @@ Festival MUTEK Montréal 2026 at Quartier Des Spectacles on Tue 25 Aug, Montreal
 - Mika Oki
 - Monsieurmadam
 - Murthovic
+- Nazar
 - NGL Flounce
 - NVST
-- Nazar
 - Orange Moon
 - Pick a Piper
 - Poirier
@@ -62,10 +65,7 @@ Festival MUTEK Montréal 2026 at Quartier Des Spectacles on Tue 25 Aug, Montreal
 - Violent Magic Orchestra
 - Vivian Li
 - Voices From The Lake
-- Zora Jones
-- dustBunny
-- fongkikid
-- gyrofield
 - wetdogg
+- Zora Jones
 
 *Source: [soundcheck](https://soundcheck.club/e/2390857-festival-mutek-montr-al-2026-at-quartier-des-spectacles/)*

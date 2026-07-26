@@ -1,6 +1,6 @@
 # Sector of Groove presents: CONVERGENCE at The Deep End
 
-Sector of Groove presents: CONVERGENCE at The Deep End on Fri 7 Aug, Newyorkcity. 5 acts on the bill: AJACENT, Pablo Vitale, a.gar and shirlz and 1 more. Techno. Preview the line-up and save it on soundcheck.
+Sector of Groove presents: CONVERGENCE at The Deep End on Fri 7 Aug, Newyorkcity. 5 acts on the bill: a.gar, AJACENT, Pablo Vitale and shirlz and 1 more. Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,9 +10,9 @@ Sector of Groove presents: CONVERGENCE at The Deep End on Fri 7 Aug, Newyorkcity
 
 ## Line-up
 
+- a.gar
 - AJACENT
 - Pablo Vitale
-- a.gar
 - shirlz
 - vivaval
 

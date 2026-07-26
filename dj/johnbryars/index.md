@@ -1,6 +1,6 @@
 # John Bryars
 
-John Bryars is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Sat, 25 Jul 2026, next at TBA - Mission Four (Ace*Mission Studios) 550 S Mission Rd, Los Angeles, CA 90033, Los Angeles on Thu, 30 Jul 2026.
+John Bryars is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Sun, 26 Jul 2026, next at TBA - Mission Four (Ace*Mission Studios) 550 S Mission Rd, Los Angeles, CA 90033, Los Angeles on Thu, 30 Jul 2026.
 
 John Bryars is a techno and house artist based in United States of America, tracked on soundcheck, with 15 sets logged across Losangeles, Newyorkcity, Sandiego and Sanfrancisco. Often billed alongside Annika Wolfe, Corey Sizemore and Etari. Next up: TBA - Mission Four (Ace*Mission Studios) 550 S Mission Rd, Los Angeles, CA 90033, Losangeles on Thu 30 Jul.
 
@@ -27,4 +27,4 @@ John Bryars is a techno and house artist based in United States of America, trac
 
 Annika Wolfe, Corey Sizemore, Etari
 
-*Updated Sat, 25 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/johnbryars/)*
+*Updated Sun, 26 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/johnbryars/)*

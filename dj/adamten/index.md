@@ -1,14 +1,13 @@
 # Adam Ten
 
-Adam Ten is a House and Techno artist with 7 upcoming club dates listed on soundcheck as of Sat, 25 Jul 2026, next at Central Park SummerStage, New York City on Sat, 25 Jul 2026.
+Adam Ten is a House and Techno artist with 6 upcoming club dates listed on soundcheck as of Sun, 26 Jul 2026, next at Pacha Ibiza, Ibiza on Wed, 29 Jul 2026.
 
-Adam Ten is a house and techno artist tracked on soundcheck, with 147 sets logged across Amsterdam, Antwerp, Athens and Auckland and 35 more. Often billed alongside Mita Gami, Jamie Jones and CamelPhat. Next up: Central Park SummerStage, Newyorkcity on Sat 25 Jul.
+Adam Ten is a house and techno artist tracked on soundcheck, with 147 sets logged across Amsterdam, Antwerp, Athens and Auckland and 35 more. Often billed alongside Mita Gami, Jamie Jones and CamelPhat. Next up: Pacha Ibiza, Ibiza on Wed 29 Jul.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 25 Jul 2026 | Central Park SummerStage | New York City |
 | Wed, 29 Jul 2026 | Pacha Ibiza | Ibiza |
 | Sat, 1 Aug 2026 | TBA - YAANGA PARK | Los Angeles |
 | Sat, 8 Aug 2026 | Sloterpark | Amsterdam |
@@ -18,6 +17,7 @@ Adam Ten is a house and techno artist tracked on soundcheck, with 147 sets logge
 
 ## Recently played
 
+- Central Park SummerStage, New York City — Sat, 25 Jul 2026
 - The Concourse Project, Austin — Fri, 24 Jul 2026
 - La Clairière, Paris — Fri, 10 Jul 2026
 - [UNVRS], Ibiza — Sun, 5 Jul 2026
@@ -25,10 +25,9 @@ Adam Ten is a house and techno artist tracked on soundcheck, with 147 sets logge
 - DC-10, Ibiza — Mon, 25 May 2026
 - Hï Ibiza, Ibiza — Fri, 8 May 2026
 - Club Space Miami, Miami — Thu, 26 Mar 2026
-- Amnesia Milano, Milan — Sat, 14 Mar 2026
 
 ## Shares bills with
 
 Mita Gami, Jamie Jones, CamelPhat
 
-*Updated Sat, 25 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/adamten/)*
+*Updated Sun, 26 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/adamten/)*

@@ -19,7 +19,7 @@ Gewölbe at Odonien on Fri 31 Jul, Cologne. 11 acts on the bill: Annemalie, Elis
 - Marco Hilbert (2)
 - Mike Momburg
 - OLIVIA LENSEN
-- Shumi
 - pik (1)
+- Shumi
 
 *Source: [soundcheck](https://soundcheck.club/e/2466329-gew-lbe-at-odonien/)*

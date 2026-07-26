@@ -1,20 +1,20 @@
 # Michelle Manetti
 
-Michelle Manetti is a House and Techno artist with 4 upcoming club dates listed on soundcheck as of Sat, 25 Jul 2026, next at Gaffe, London on Sat, 25 Jul 2026.
+Michelle Manetti is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Sun, 26 Jul 2026, next at La Terrrazza, Barcelona on Thu, 20 Aug 2026.
 
-Michelle Manetti is a house and techno artist tracked on soundcheck, with 138 sets logged across Amsterdam, Barcelona, Berlin and Brighton and 17 more. Often billed alongside THEMPRESS, FAFF and Jaye Ward. Next up: Gaffe, London on Sat 25 Jul.
+Michelle Manetti is a house and techno artist tracked on soundcheck, with 138 sets logged across Amsterdam, Barcelona, Berlin and Brighton and 17 more. Often billed alongside THEMPRESS, FAFF and Jaye Ward. Next up: La Terrrazza, Barcelona on Thu 20 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 25 Jul 2026 | Gaffe | London |
 | Thu, 20 Aug 2026 | La Terrrazza | Barcelona |
 | Sun, 30 Aug 2026 | Southwark Park | London |
 | Sat, 26 Sept 2026 | FOLD | London |
 
 ## Recently played
 
+- Gaffe, London — Sat, 25 Jul 2026
 - Dalston Superstore, London — Fri, 24 Jul 2026
 - Hackney Wick Multiple Venues, London — Sat, 4 Jul 2026
 - TBA - Rave DEN, Los Angeles — Sat, 27 Jun 2026
@@ -22,10 +22,9 @@ Michelle Manetti is a house and techno artist tracked on soundcheck, with 138 se
 - Studio1111, Berlin — Fri, 12 Jun 2026
 - TORTE BAR, Berlin — Thu, 11 Jun 2026
 - The Cause, London — Sat, 6 Jun 2026
-- The Halley Space, London — Thu, 4 Jun 2026
 
 ## Shares bills with
 
 THEMPRESS, FAFF, Jaye Ward
 
-*Updated Sat, 25 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/michellemanetti/)*
+*Updated Sun, 26 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/michellemanetti/)*

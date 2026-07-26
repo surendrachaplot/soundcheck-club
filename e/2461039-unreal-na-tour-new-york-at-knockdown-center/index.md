@@ -1,6 +1,6 @@
 # UNREAL NA TOUR: NEW YORK at Knockdown Center
 
-UNREAL NA TOUR: NEW YORK at Knockdown Center on Sat 12 Sept, Newyorkcity. 4 acts on the bill: 999999999, JSMN, Johannes Schuster and KUKO. Techno. Preview the line-up and save it on soundcheck.
+UNREAL NA TOUR: NEW YORK at Knockdown Center on Sat 12 Sept, Newyorkcity. 4 acts on the bill: 999999999, Johannes Schuster, JSMN and KUKO. Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -11,8 +11,8 @@ UNREAL NA TOUR: NEW YORK at Knockdown Center on Sat 12 Sept, Newyorkcity. 4 acts
 ## Line-up
 
 - 999999999
-- JSMN
 - Johannes Schuster
+- JSMN
 - KUKO
 
 *Source: [soundcheck](https://soundcheck.club/e/2461039-unreal-na-tour-new-york-at-knockdown-center/)*

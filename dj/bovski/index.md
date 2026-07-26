@@ -1,6 +1,6 @@
 # BOVSKI
 
-BOVSKI is a Techno and House artist with 6 upcoming club dates listed on soundcheck as of Sat, 25 Jul 2026, next at Eden, Ibiza on Mon, 27 Jul 2026.
+BOVSKI is a Techno and House artist with 6 upcoming club dates listed on soundcheck as of Sun, 26 Jul 2026, next at Eden, Ibiza on Mon, 27 Jul 2026.
 
 BOVSKI is a techno and house artist based in Germany, tracked on soundcheck, with 16 sets logged across Berlin, Cologne, Dusseldorf and Frankfurt and 6 more. Often billed alongside A.N.I., Johannes Schuster and Noel Holler. Next up: Eden, Ibiza on Mon 27 Jul.
 
@@ -30,4 +30,4 @@ BOVSKI is a techno and house artist based in Germany, tracked on soundcheck, wit
 
 A.N.I., Johannes Schuster, Noel Holler
 
-*Updated Sat, 25 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/bovski/)*
+*Updated Sun, 26 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/bovski/)*

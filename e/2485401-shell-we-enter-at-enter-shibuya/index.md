@@ -1,6 +1,6 @@
 # SHELL WE ENTER at Enter Shibuya
 
-SHELL WE ENTER at Enter Shibuya on Wed 5 Aug, Tokyo. 2 acts on the bill: UG (1) and lostbaggage. Preview the line-up and save it on soundcheck.
+SHELL WE ENTER at Enter Shibuya on Wed 5 Aug, Tokyo. 2 acts on the bill: lostbaggage and UG (1). Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,7 +10,7 @@ SHELL WE ENTER at Enter Shibuya on Wed 5 Aug, Tokyo. 2 acts on the bill: UG (1) 
 
 ## Line-up
 
-- UG (1)
 - lostbaggage
+- UG (1)
 
 *Source: [soundcheck](https://soundcheck.club/e/2485401-shell-we-enter-at-enter-shibuya/)*

@@ -1,14 +1,13 @@
 # BASEMENT
 
-BASEMENT is a music venue in New York City with 8 upcoming nights listed on soundcheck as of Sat, 25 Jul 2026; the next is "UFO95 live / Altinbas / cotton / Shaun J. Wright / Colored Craig / Nat Wendell" on Sat, 25 Jul 2026.
+BASEMENT is a music venue in New York City with 7 upcoming nights listed on soundcheck as of Sun, 26 Jul 2026; the next is "Altær: Lars Huismann / Lindsey Herbert / Auspex /Jason Kendig /Will Automagic /Cosmo /Ryan Farr" on Fri, 31 Jul 2026.
 
-BASEMENT is a music venue in Newyorkcity listed on soundcheck. 8 upcoming nights, with line-ups including Altinbas, Analog Soul, Annie Lew and Auspex and 2 more. Browse upcoming dates, start times and who's playing. 52-19 Flushing Ave., Maspeth, NY 11378 USA.
+BASEMENT is a music venue in Newyorkcity listed on soundcheck. 7 upcoming nights, with line-ups including Analog Soul, Annie Lew, Auspex and Beste Hira and 2 more. Browse upcoming dates, start times and who's playing. 52-19 Flushing Ave., Maspeth, NY 11378 USA.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Sat, 25 Jul 2026 | UFO95 live / Altinbas / cotton / Shaun J. Wright / Colored Craig / Nat Wendell | Altinbas, Colored Craig, Nat Wendell, Shaun J. Wright, UFO95, cotton |
 | Fri, 31 Jul 2026 | Altær: Lars Huismann / Lindsey Herbert / Auspex /Jason Kendig /Will Automagic /Cosmo /Ryan Farr | Auspex, Cosmo (NY), Jason Kendig, Lars Huismann, Lindsey Herbert, Ryan Farr, Will Automagic |
 | Sat, 1 Aug 2026 | Locals Night | Analog Soul, Concrete Husband, Holden Federico, Justin Cudmore, Katie Rex, Kim Anh, Manu Miran, Mos (NYC), Ne/Re/A |
 | Sat, 8 Aug 2026 | WRECKED: Sterling Juan Diaz / Mister Wallace / Jellyfish / Ron Like Hell b2b Ryan Smith | Jellyfish, Mister Wallace, Ron Like Hell, Ryan Smith, Sterling Juan Diaz |
@@ -21,4 +20,4 @@ BASEMENT is a music venue in Newyorkcity listed on soundcheck. 8 upcoming nights
 
 52-19 Flushing Ave., Maspeth, NY 11378 USA, New York City
 
-*Updated Sat, 25 Jul 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/basement/)*
+*Updated Sun, 26 Jul 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/basement/)*

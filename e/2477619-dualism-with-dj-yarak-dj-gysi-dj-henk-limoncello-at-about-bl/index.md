@@ -1,6 +1,6 @@
 # DUALISM with DJ YARAK, DJ Gysi, DJ Henk, Limoncello at ://about blank
 
-DUALISM with DJ YARAK, DJ Gysi, DJ Henk, Limoncello at ://about blank on Sat 17 Oct, Berlin. 15 acts on the bill: 4NOUK, CIKO, Cobb Douglas and DJ Gysi and 11 more. Trance and Techno. Preview the line-up and save it on soundcheck.
+DUALISM with DJ YARAK, DJ Gysi, DJ Henk, Limoncello at ://about blank on Sat 17 Oct, Berlin. 15 acts on the bill: 4NOUK, alemiko, CIKO and Cobb Douglas and 11 more. Trance and Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -11,6 +11,7 @@ DUALISM with DJ YARAK, DJ Gysi, DJ Henk, Limoncello at ://about blank on Sat 17 
 ## Line-up
 
 - 4NOUK
+- alemiko
 - CIKO
 - Cobb Douglas
 - DJ Gysi
@@ -18,12 +19,11 @@ DUALISM with DJ YARAK, DJ Gysi, DJ Henk, Limoncello at ://about blank on Sat 17 
 - DJ Primitivo
 - DJ YARAK
 - DJ Zugzwang
+- jeanska
 - Limoncello
 - Rocko Garoni
 - Softdrive
 - Stacy
 - THNTS
-- alemiko
-- jeanska
 
 *Source: [soundcheck](https://soundcheck.club/e/2477619-dualism-with-dj-yarak-dj-gysi-dj-henk-limoncello-at-about-bl/)*

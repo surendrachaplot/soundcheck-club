@@ -1,6 +1,6 @@
 # Mostly Cloudy x Keep Hush: BADSISTA, BAE BAE + more at The Great Northern
 
-Mostly Cloudy x Keep Hush: BADSISTA, BAE BAE + more at The Great Northern on Sat 15 Aug, Sanfrancisco. 7 acts on the bill: ANDYLAND, BADSISTA, BAE BAE and Femme Jatale and 3 more. Techno and Baile Funk. Preview the line-up and save it on soundcheck.
+Mostly Cloudy x Keep Hush: BADSISTA, BAE BAE + more at The Great Northern on Sat 15 Aug, Sanfrancisco. 7 acts on the bill: ANDYLAND, BADSISTA, BAE BAE and felipe d and 3 more. Techno and Baile Funk. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -13,9 +13,9 @@ Mostly Cloudy x Keep Hush: BADSISTA, BAE BAE + more at The Great Northern on Sat
 - ANDYLAND
 - BADSISTA
 - BAE BAE
+- felipe d
 - Femme Jatale
 - Profesito
 - QUEENIE (US)
-- felipe d
 
 *Source: [soundcheck](https://soundcheck.club/e/2492444-mostly-cloudy-x-keep-hush-badsista-bae-bae-more-at-the-great/)*

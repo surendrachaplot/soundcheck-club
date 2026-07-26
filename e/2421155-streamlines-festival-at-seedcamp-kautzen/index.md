@@ -22,14 +22,14 @@ streamlines festival at Seedcamp, Kautzen on Fri 21 Aug, Vienna. 21 acts on the 
 - LUAR (NL)
 - MELIMEKO
 - Neoom
+- ninon.
 - PAUNA
+- pezel
 - Sabre (PL)
 - Schiaba
 - Thommy Coconut
 - VOLTMARIE
 - Younes Jamil
-- ninon.
-- pezel
 - zikade
 
 *Source: [soundcheck](https://soundcheck.club/e/2421155-streamlines-festival-at-seedcamp-kautzen/)*

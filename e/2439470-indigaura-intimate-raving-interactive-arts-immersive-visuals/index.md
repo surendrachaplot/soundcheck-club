@@ -1,6 +1,6 @@
 # Indigaura: Intimate Raving, Interactive Arts & Immersive Visuals at Gaffe
 
-Indigaura: Intimate Raving, Interactive Arts & Immersive Visuals at Gaffe on Fri 21 Aug, London. 6 acts on the bill: AYIM, Aleromaze, Cosmic Caz and Kaytseng and 2 more. Trance and Techno. Preview the line-up and save it on soundcheck.
+Indigaura: Intimate Raving, Interactive Arts & Immersive Visuals at Gaffe on Fri 21 Aug, London. 6 acts on the bill: Aleromaze, AYIM, Cosmic Caz and Kaytseng and 2 more. Trance and Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,8 +10,8 @@ Indigaura: Intimate Raving, Interactive Arts & Immersive Visuals at Gaffe on Fri
 
 ## Line-up
 
-- AYIM
 - Aleromaze
+- AYIM
 - Cosmic Caz
 - Kaytseng
 - Medlock

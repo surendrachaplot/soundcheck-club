@@ -1,6 +1,6 @@
 # Marco Carola PRESENTS MUSIC ON at Pacha Ibiza
 
-Marco Carola PRESENTS MUSIC ON at Pacha Ibiza on Fri 18 Sept, Ibiza. 6 acts on the bill: AJ Christou, Calvin Clarke, Jamie Jones and MEDNAS and 2 more. Techno and Tech House. Preview the line-up and save it on soundcheck.
+Marco Carola PRESENTS MUSIC ON at Pacha Ibiza on Fri 18 Sept, Ibiza. 6 acts on the bill: AJ Christou, Calvin Clarke, Jamie Jones and Marco Carola and 2 more. Techno and Tech House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -13,8 +13,8 @@ Marco Carola PRESENTS MUSIC ON at Pacha Ibiza on Fri 18 Sept, Ibiza. 6 acts on t
 - AJ Christou
 - Calvin Clarke
 - Jamie Jones
-- MEDNAS
 - Marco Carola
 - Mason Collective
+- MEDNAS
 
 *Source: [soundcheck](https://soundcheck.club/e/2408467-marco-carola-presents-music-on-at-pacha-ibiza/)*

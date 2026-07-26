@@ -17,6 +17,7 @@
 - Cassy
 - Catching Flies
 - Children of Zeus
+- ddwy
 - Delonte Rivers
 - Dragana
 - Flo Dill
@@ -30,6 +31,5 @@
 - WheelUP
 - Wildealer
 - ZENA
-- ddwy
 
 *Source: [soundcheck](https://soundcheck.club/e/2384393-cancelled-back-of-house-festival-2026-at-kelvedon-hall/)*

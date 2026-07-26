@@ -1,15 +1,13 @@
 # Gabrielle Kwarteng
 
-Gabrielle Kwarteng is a House and Techno artist with 7 upcoming club dates listed on soundcheck as of Sat, 25 Jul 2026, next at Boston Manor Park, London on Sat, 25 Jul 2026.
+Gabrielle Kwarteng is a House and Techno artist with 5 upcoming club dates listed on soundcheck as of Sun, 26 Jul 2026, next at Amsterdamse Bos, Amsterdam on Wed, 29 Jul 2026.
 
-Gabrielle Kwarteng is a house and techno artist tracked on soundcheck, with 227 sets logged across Amsterdam, Antwerp, Auckland and Bali and 54 more. Often billed alongside BASHKKA, Peach and Sedef Adasï. Next up: Boston Manor Park, London on Sat 25 Jul.
+Gabrielle Kwarteng is a house and techno artist tracked on soundcheck, with 227 sets logged across Amsterdam, Antwerp, Auckland and Bali and 54 more. Often billed alongside BASHKKA, Peach and Sedef Adasï. Next up: Amsterdamse Bos, Amsterdam on Wed 29 Jul.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 25 Jul 2026 | Boston Manor Park | London |
-| Sat, 25 Jul 2026 | Berghain / Panorama Bar / Säule | Berlin |
 | Wed, 29 Jul 2026 | Amsterdamse Bos | Amsterdam |
 | Fri, 31 Jul 2026 | Amsterdamse Bos | Amsterdam |
 | Fri, 31 Jul 2026 | export | Rotterdam |
@@ -18,17 +16,17 @@ Gabrielle Kwarteng is a house and techno artist tracked on soundcheck, with 227 
 
 ## Recently played
 
+- Boston Manor Park, London — Sat, 25 Jul 2026
+- Berghain | Panorama Bar | Säule, Berlin — Sat, 25 Jul 2026
 - Ferropolis, Leipzig — Fri, 17 Jul 2026
 - Else, Berlin — Sat, 20 Jun 2026
 - Karmakoma, Belgrade — Fri, 19 Jun 2026
 - Azimut Club, Turin — Sat, 30 May 2026
 - TV Lounge, Detroit — Sun, 24 May 2026
 - Het Twiske, Amsterdam — Sat, 23 May 2026
-- TV Lounge, Detroit — Sat, 23 May 2026
-- Knockdown Center, New York City — Thu, 14 May 2026
 
 ## Shares bills with
 
 BASHKKA, Peach, Sedef Adasï
 
-*Updated Sat, 25 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/gabriellekwarteng/)*
+*Updated Sun, 26 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/gabriellekwarteng/)*

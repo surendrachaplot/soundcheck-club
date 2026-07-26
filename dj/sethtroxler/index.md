@@ -1,14 +1,13 @@
 # Seth Troxler
 
-Seth Troxler is a House and Techno artist with 13 upcoming club dates listed on soundcheck as of Sat, 25 Jul 2026, next at Flevopark, Amsterdam on Sat, 25 Jul 2026.
+Seth Troxler is a House and Techno artist with 12 upcoming club dates listed on soundcheck as of Sun, 26 Jul 2026, next at BLITZ, Munich on Fri, 31 Jul 2026.
 
-Seth Troxler is a house and techno artist tracked on soundcheck, with 297 sets logged across Amsterdam, Athens, Austin and Bali and 49 more. Often billed alongside DJ Tennis, Sossa and Prospa. Next up: Flevopark, Amsterdam on Sat 25 Jul.
+Seth Troxler is a house and techno artist tracked on soundcheck, with 297 sets logged across Amsterdam, Athens, Austin and Bali and 49 more. Often billed alongside DJ Tennis, Sossa and Prospa. Next up: BLITZ, Munich on Fri 31 Jul.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 25 Jul 2026 | Flevopark | Amsterdam |
 | Fri, 31 Jul 2026 | BLITZ | Munich |
 | Mon, 3 Aug 2026 | DC-10 | Ibiza |
 | Fri, 7 Aug 2026 | Parc del Fòrum | Barcelona |
@@ -20,9 +19,11 @@ Seth Troxler is a house and techno artist tracked on soundcheck, with 297 sets l
 | Tue, 8 Sept 2026 | Amnesia Ibiza | Ibiza |
 | Fri, 25 Sept 2026 | Pacha Ibiza | Ibiza |
 | Sat, 3 Oct 2026 | Depot Mayfield | Manchester |
+| Sun, 4 Oct 2026 | Amnesia Ibiza | Ibiza |
 
 ## Recently played
 
+- Flevopark, Amsterdam — Sat, 25 Jul 2026
 - Santanna Mykonos, Mykonos — Fri, 24 Jul 2026
 - DC-10, Ibiza — Mon, 20 Jul 2026
 - fabric, London — Sat, 18 Jul 2026
@@ -30,10 +31,9 @@ Seth Troxler is a house and techno artist tracked on soundcheck, with 297 sets l
 - Parco Dora, Turin — Fri, 3 Jul 2026
 - Q35 WAREHOUSE, Turin — Fri, 3 Jul 2026
 - BCM, Mallorca — Thu, 2 Jul 2026
-- [UNVRS], Ibiza — Wed, 1 Jul 2026
 
 ## Shares bills with
 
 DJ Tennis, Sossa, Prospa
 
-*Updated Sat, 25 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/sethtroxler/)*
+*Updated Sun, 26 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/sethtroxler/)*

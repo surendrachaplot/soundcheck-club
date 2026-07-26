@@ -14,12 +14,12 @@ Lunchmeat Festival Prague 2026 - Main Event at National Gallery Prague on Thu 24
 - Bapari
 - Buena Tarde
 - Debit
-- KMRU
 - Kevin Peter He
+- KMRU
 - Nexus
-- Woesum
-- Zora Jones
 - umru
 - upsammy
+- Woesum
+- Zora Jones
 
 *Source: [soundcheck](https://soundcheck.club/e/2314919-lunchmeat-festival-prague-2026-main-event-at-national-galler/)*

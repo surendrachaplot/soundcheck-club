@@ -1,6 +1,6 @@
 # De Sessie - Ryan Elliott - Summer Sessions at Boomerang Beach
 
-De Sessie - Ryan Elliott - Summer Sessions at Boomerang Beach on Sat 15 Aug, Thehague. 3 acts on the bill: Ka Nalu, Ryan Elliott and nik-ey. House. Preview the line-up and save it on soundcheck.
+De Sessie - Ryan Elliott - Summer Sessions at Boomerang Beach on Sat 15 Aug, Thehague. 3 acts on the bill: Ka Nalu, nik-ey and Ryan Elliott. House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -11,7 +11,7 @@ De Sessie - Ryan Elliott - Summer Sessions at Boomerang Beach on Sat 15 Aug, The
 ## Line-up
 
 - Ka Nalu
-- Ryan Elliott
 - nik-ey
+- Ryan Elliott
 
 *Source: [soundcheck](https://soundcheck.club/e/2436230-de-sessie-ryan-elliott-summer-sessions-at-boomerang-beach/)*

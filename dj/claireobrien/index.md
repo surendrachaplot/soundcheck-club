@@ -1,6 +1,6 @@
 # Claire O'Brien
 
-Claire O'Brien is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Sat, 25 Jul 2026, next at Boston Manor Park, London on Fri, 31 Jul 2026.
+Claire O'Brien is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Sun, 26 Jul 2026, next at Boston Manor Park, London on Fri, 31 Jul 2026.
 
 Claire O'Brien is a techno and house artist based in Australia, tracked on soundcheck, with 35 sets logged across Amsterdam, Bristol, Galway and Hobart and 4 more. Often billed alongside Effy, ATARANGI and DJ PGZ. Next up: Boston Manor Park, London on Fri 31 Jul.
 
@@ -26,4 +26,4 @@ Claire O'Brien is a techno and house artist based in Australia, tracked on sound
 
 Effy, ATARANGI, DJ PGZ
 
-*Updated Sat, 25 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/claireobrien/)*
+*Updated Sun, 26 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/claireobrien/)*

@@ -17,13 +17,13 @@ Rotterdam Rave Festival 2026 at Ahoy Rotterdam on Sat 29 Aug, Rotterdam. 24 acts
 - DYEN
 - Fantasm
 - I Hate Models
-- IOSIO
 - In Verruf
+- IOSIO
 - Jessie Dols
 - KARAH
 - KLOFAMA
-- KUKO
 - Kobosil
+- KUKO
 - LAMMER
 - Lisa Korver
 - Mischluft

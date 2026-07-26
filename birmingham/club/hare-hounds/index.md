@@ -1,14 +1,13 @@
 # Hare & Hounds
 
-Hare & Hounds is a music venue in Birmingham with 9 upcoming nights listed on soundcheck as of Sat, 25 Jul 2026; the next is "Break Thru - DJ Marky" on Sat, 25 Jul 2026.
+Hare & Hounds is a music venue in Birmingham with 8 upcoming nights listed on soundcheck as of Sun, 26 Jul 2026; the next is "Room Temperature Presents" on Fri, 31 Jul 2026.
 
-Hare & Hounds is a music venue in Birmingham listed on soundcheck. 9 upcoming nights, with line-ups including DJ Marky, Doc Scott, Goldie and Goose (3) and 2 more. Browse upcoming dates, start times and who's playing. 106 High Street; Birmingham, B14 7JZ; United Kingdom.
+Hare & Hounds is a music venue in Birmingham listed on soundcheck. 8 upcoming nights, with line-ups including Doc Scott, Goldie, Goose (3) and J Majik and 2 more. Browse upcoming dates, start times and who's playing. 106 High Street; Birmingham, B14 7JZ; United Kingdom.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Sat, 25 Jul 2026 | Break Thru - DJ Marky | DJ Marky |
 | Fri, 31 Jul 2026 | Room Temperature Presents | Goose (3), Sleepy Jean |
 | Fri, 14 Aug 2026 | Homoelectric |  |
 | Fri, 28 Aug 2026 | Metalheadz Blue Note Sessions (Birmingham) | Doc Scott, Goldie, J Majik |
@@ -22,4 +21,4 @@ Hare & Hounds is a music venue in Birmingham listed on soundcheck. 9 upcoming ni
 
 106 High Street; Birmingham, B14 7JZ; United Kingdom, Birmingham
 
-*Updated Sat, 25 Jul 2026 · source: [soundcheck](https://soundcheck.club/birmingham/club/hare-hounds/)*
+*Updated Sun, 26 Jul 2026 · source: [soundcheck](https://soundcheck.club/birmingham/club/hare-hounds/)*

@@ -1,14 +1,13 @@
 # Hoxton Cabin
 
-Hoxton Cabin is a music venue in London with 3 upcoming nights listed on soundcheck as of Sat, 25 Jul 2026; the next is "HOUSEWERK High Tide: A Trans Pride Afters" on Sat, 25 Jul 2026.
+Hoxton Cabin is a music venue in London with 2 upcoming nights listed on soundcheck as of Sun, 26 Jul 2026; the next is "Hoxton Cabal 1st Birthday: Grace Sands, Benebe b2b Special Guest, Phil James, Fari Mond" on Fri, 11 Sept 2026.
 
-Hoxton Cabin is a music venue in London listed on soundcheck. 3 upcoming nights, with line-ups including Benebe, Cecilia Ena, Fari Mond and Grace Sands and 2 more. Browse upcoming dates, start times and who's playing. 132 Kingsland Rd, London E2 8DP, United Kingdom.
+Hoxton Cabin is a music venue in London listed on soundcheck. 2 upcoming nights, with line-ups including Benebe, Cecilia Ena, Fari Mond and Grace Sands and 2 more. Browse upcoming dates, start times and who's playing. 132 Kingsland Rd, London E2 8DP, United Kingdom.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Sat, 25 Jul 2026 | HOUSEWERK High Tide: A Trans Pride Afters | Jazmyn Sadri, RacHell, SiFaM, Tully |
 | Fri, 11 Sept 2026 | Hoxton Cabal 1st Birthday: Grace Sands, Benebe b2b Special Guest, Phil James, Fari Mond | Benebe, Fari Mond, Grace Sands, Phil James |
 | Sat, 26 Sept 2026 | RED EYE - PROGRESSIVE-MELODIC-HOUSE | Cecilia Ena, Jesus RedSoul, hisnameisevgeni |
 
@@ -16,4 +15,4 @@ Hoxton Cabin is a music venue in London listed on soundcheck. 3 upcoming nights,
 
 132 Kingsland Rd, London E2 8DP, United Kingdom, London
 
-*Updated Sat, 25 Jul 2026 · source: [soundcheck](https://soundcheck.club/london/club/hoxton-cabin/)*
+*Updated Sun, 26 Jul 2026 · source: [soundcheck](https://soundcheck.club/london/club/hoxton-cabin/)*

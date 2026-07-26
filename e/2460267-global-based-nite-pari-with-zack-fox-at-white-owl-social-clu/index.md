@@ -1,6 +1,6 @@
 # Global Based: NITE PARI with Zack Fox at White Owl Social Club
 
-Global Based: NITE PARI with Zack Fox at White Owl Social Club on Fri 7 Aug, Portland. 2 acts on the bill: Zack Fox and mintwhisper. Club and Ghetto Tech. Preview the line-up and save it on soundcheck.
+Global Based: NITE PARI with Zack Fox at White Owl Social Club on Fri 7 Aug, Portland. 2 acts on the bill: mintwhisper and Zack Fox. Club and Ghetto Tech. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,7 +10,7 @@ Global Based: NITE PARI with Zack Fox at White Owl Social Club on Fri 7 Aug, Por
 
 ## Line-up
 
-- Zack Fox
 - mintwhisper
+- Zack Fox
 
 *Source: [soundcheck](https://soundcheck.club/e/2460267-global-based-nite-pari-with-zack-fox-at-white-owl-social-clu/)*

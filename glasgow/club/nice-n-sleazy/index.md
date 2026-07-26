@@ -1,6 +1,6 @@
 # Nice N Sleazy
 
-Nice N Sleazy is a music venue in Glasgow with 9 upcoming nights listed on soundcheck as of Sat, 25 Jul 2026; the next is "The 909 Society presents: Housework Volume 6" on Sat, 25 Jul 2026.
+Nice N Sleazy is a music venue in Glasgow with 9 upcoming nights listed on soundcheck as of Sun, 26 Jul 2026; the next is "Finesse — Supporting Scottish Huntington's Association" on Thu, 30 Jul 2026.
 
 Nice N Sleazy is a music venue in Glasgow listed on soundcheck. 9 upcoming nights, with line-ups including Aileron, Corran, Darkcore Truth and EL PADRE and 2 more. Browse upcoming dates, start times and who's playing. 421 Sauchiehall Street; Glasgow, G2 3LG; Scotland, United Kingdom.
 
@@ -8,7 +8,6 @@ Nice N Sleazy is a music venue in Glasgow listed on soundcheck. 9 upcoming night
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Sat, 25 Jul 2026 | The 909 Society presents: Housework Volume 6 |  |
 | Thu, 30 Jul 2026 | Finesse — Supporting Scottish Huntington's Association | Aileron, ITEM9, SunēX, TiLA |
 | Sat, 1 Aug 2026 | Gunk | Corran, Marky Marbles, Temple Sniper |
 | Sat, 8 Aug 2026 | Shed presents: Usual Suspects + Support⁠ |  |
@@ -16,10 +15,11 @@ Nice N Sleazy is a music venue in Glasgow listed on soundcheck. 9 upcoming night
 | Thu, 13 Aug 2026 | Groove Sessions |  |
 | Fri, 14 Aug 2026 | DARK PROTOCOL W Residents / Shedcat / Julz Lever / TiLA | Julz Lever, Shedcat, TiLA |
 | Sat, 29 Aug 2026 | Ozone² |  |
+| Sat, 12 Sept 2026 | Bass Injection: presents - Local Frequency [DRUM & BASS] |  |
 | Sun, 13 Sept 2026 | PORTAL - Techno Journey | EL PADRE, Jay Cluss, SA:FIR |
 
 ## Address
 
 421 Sauchiehall Street; Glasgow, G2 3LG; Scotland, United Kingdom, Glasgow
 
-*Updated Sat, 25 Jul 2026 · source: [soundcheck](https://soundcheck.club/glasgow/club/nice-n-sleazy/)*
+*Updated Sun, 26 Jul 2026 · source: [soundcheck](https://soundcheck.club/glasgow/club/nice-n-sleazy/)*

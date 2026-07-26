@@ -1,6 +1,6 @@
 # The Left Bank
 
-The Left Bank is a music venue in Glasgow with 7 upcoming nights listed on soundcheck as of Sat, 25 Jul 2026; the next is "Sunday Spectrum with Malcolm McKenzie" on Sun, 26 Jul 2026.
+The Left Bank is a music venue in Glasgow with 7 upcoming nights listed on soundcheck as of Sun, 26 Jul 2026; the next is "Sunday Spectrum with Malcolm McKenzie" on Sun, 26 Jul 2026.
 
 The Left Bank is a music venue in Glasgow listed on soundcheck. 7 upcoming nights, with line-ups including Mash. Browse upcoming dates, start times and who's playing. 33-35 Gibson St, Glasgow G12 8NU.
 
@@ -20,4 +20,4 @@ The Left Bank is a music venue in Glasgow listed on soundcheck. 7 upcoming night
 
 33-35 Gibson St, Glasgow G12 8NU, Glasgow
 
-*Updated Sat, 25 Jul 2026 · source: [soundcheck](https://soundcheck.club/glasgow/club/the-left-bank/)*
+*Updated Sun, 26 Jul 2026 · source: [soundcheck](https://soundcheck.club/glasgow/club/the-left-bank/)*

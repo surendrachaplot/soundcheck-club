@@ -1,18 +1,17 @@
 # Bsmnt
 
-Bsmnt is a music venue in Boston with 2 upcoming nights listed on soundcheck as of Sat, 25 Jul 2026; the next is "Benjamin Lloyd" on Sat, 25 Jul 2026.
+Bsmnt is a music venue in Boston with 1 upcoming night listed on soundcheck as of Sun, 26 Jul 2026; the next is "Headroom Listening Sessions: Boston" on Thu, 30 Jul 2026.
 
-Bsmnt is a music venue in Boston listed on soundcheck. 2 upcoming nights. Browse upcoming dates, start times and who's playing. 100 stuart st, boston, ma.
+Bsmnt is a music venue in Boston listed on soundcheck. 1 upcoming night. Browse upcoming dates, start times and who's playing. 100 stuart st, boston, ma.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Sat, 25 Jul 2026 | Benjamin Lloyd |  |
 | Thu, 30 Jul 2026 | Headroom Listening Sessions: Boston |  |
 
 ## Address
 
 100 stuart st, boston, ma, Boston
 
-*Updated Sat, 25 Jul 2026 · source: [soundcheck](https://soundcheck.club/boston/club/bsmnt/)*
+*Updated Sun, 26 Jul 2026 · source: [soundcheck](https://soundcheck.club/boston/club/bsmnt/)*

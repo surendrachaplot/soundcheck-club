@@ -22,12 +22,12 @@ A Day at the Park Festival 2026 at Kralingse Bos on Sat 12 Sept, Rotterdam. 22 a
 - Fiene
 - Housequake
 - IOSIO
-- MENESIX
 - Marie Vaunt
+- MENESIX
 - Michel de Hey
 - OGUZ
-- PRADA2000
 - Philou Louzolo
+- PRADA2000
 - Prunk
 - ROOG
 - S3PPA

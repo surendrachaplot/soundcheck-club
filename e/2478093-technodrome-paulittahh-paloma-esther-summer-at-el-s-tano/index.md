@@ -1,6 +1,6 @@
 # TECHNODROME: PAULITTAHH, Paloma, Esther Summer at EL SÓTANO
 
-TECHNODROME: PAULITTAHH, Paloma, Esther Summer at EL SÓTANO on Sat 1 Aug, Madrid. 3 acts on the bill: Esther Summer, PAULITTAHH and Paloma. Techno. Preview the line-up and save it on soundcheck.
+TECHNODROME: PAULITTAHH, Paloma, Esther Summer at EL SÓTANO on Sat 1 Aug, Madrid. 3 acts on the bill: Esther Summer, Paloma and PAULITTAHH. Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -11,7 +11,7 @@ TECHNODROME: PAULITTAHH, Paloma, Esther Summer at EL SÓTANO on Sat 1 Aug, Madri
 ## Line-up
 
 - Esther Summer
-- PAULITTAHH
 - Paloma
+- PAULITTAHH
 
 *Source: [soundcheck](https://soundcheck.club/e/2478093-technodrome-paulittahh-paloma-esther-summer-at-el-s-tano/)*

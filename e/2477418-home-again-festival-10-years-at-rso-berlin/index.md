@@ -14,14 +14,16 @@ Home Again Festival - 10 Years at RSO.BERLIN on Sat 12 Sept, Berlin. 34 acts on 
 - Blame Anthony
 - Cassy
 - Chris Stussy
-- DJ Butterhands
-- DJ Split
 - Dan Ghenacia
 - Disguised
+- DJ Butterhands
 - Dj Norma
+- DJ Split
 - Eris Drew
+- ferrari rot
 - GOME
 - Greta Spark
+- hawi
 - Home Again Soundsystem
 - LIA
 - Lobster (NL)
@@ -37,12 +39,10 @@ Home Again Festival - 10 Years at RSO.BERLIN on Sat 12 Sept, Berlin. 34 acts on 
 - Rosa Red
 - Ryan Elliott
 - Solomun
-- TSHA
 - Thabo
 - Thalo Santana
 - Tiago Oudman
+- TSHA
 - Vera
-- ferrari rot
-- hawi
 
 *Source: [soundcheck](https://soundcheck.club/e/2477418-home-again-festival-10-years-at-rso-berlin/)*

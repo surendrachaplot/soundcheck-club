@@ -18,10 +18,11 @@ NICE ONE WEEKENDER at ZENNER on Fri 16 Oct, Berlin. 39 acts on the bill: .VRIL, 
 - Ciel
 - Cosmo (KR)
 - CuCiCuCi
-- DJ Dustin
-- DJ Fart in the Club
 - Daniel Bell
 - Danilo Plessow
+- DJ Dustin
+- DJ Fart in the Club
+- dj sweet6teen
 - Edward
 - Eline (BE)
 - Galcher Lustwerk
@@ -33,6 +34,7 @@ NICE ONE WEEKENDER at ZENNER on Fri 16 Oct, Berlin. 39 acts on the bill: .VRIL, 
 - Lb Honne
 - Lenny Mailleau
 - Loidis
+- mad miran
 - Margaret Dygas
 - Margaux Gazur
 - Millie McKee
@@ -47,7 +49,5 @@ NICE ONE WEEKENDER at ZENNER on Fri 16 Oct, Berlin. 39 acts on the bill: .VRIL, 
 - Ulla
 - Wata Igarashi
 - XDB
-- dj sweet6teen
-- mad miran
 
 *Source: [soundcheck](https://soundcheck.club/e/2425900-nice-one-weekender-at-zenner/)*

@@ -1,6 +1,6 @@
 # Into Another World ✦ THE THORNS OF NYXARA at TBA - SECRET PORTAL WAREHOUSE RAVE
 
-Into Another World ✦ THE THORNS OF NYXARA at TBA - SECRET PORTAL WAREHOUSE RAVE on Sat 29 Aug, Berlin. 15 acts on the bill: ANXIETY (2), DAESU, D|K|OXY and FOGGA and 11 more. Techno and Industrial. Preview the line-up and save it on soundcheck.
+Into Another World ✦ THE THORNS OF NYXARA at TBA - SECRET PORTAL WAREHOUSE RAVE on Sat 29 Aug, Berlin. 15 acts on the bill: ÆCSEDI, ANXIETY (2), D|K|OXY and DAESU and 11 more. Techno and Industrial. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,9 +10,11 @@ Into Another World ✦ THE THORNS OF NYXARA at TBA - SECRET PORTAL WAREHOUSE RAV
 
 ## Line-up
 
+- ÆCSEDI
 - ANXIETY (2)
-- DAESU
 - D|K|OXY
+- DAESU
+- derunte
 - FOGGA
 - Jøel
 - KASSIS
@@ -23,7 +25,5 @@ Into Another World ✦ THE THORNS OF NYXARA at TBA - SECRET PORTAL WAREHOUSE RAV
 - SkaaR
 - VENATOR
 - WALTER (6)
-- derunte
-- ÆCSEDI
 
 *Source: [soundcheck](https://soundcheck.club/e/2454066-into-another-world-the-thorns-of-nyxara-at-tba-secret-portal/)*

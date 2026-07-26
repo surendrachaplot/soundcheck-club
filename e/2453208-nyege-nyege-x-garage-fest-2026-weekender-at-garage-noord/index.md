@@ -1,6 +1,6 @@
 # NYEGE NYEGE X GARAGE FEST 2026 - WEEKENDER at Garage Noord
 
-NYEGE NYEGE X GARAGE FEST 2026 - WEEKENDER at Garage Noord on Sun 26 Jul, Amsterdam. 19 acts on the bill: Amz, BARROSKINI, Elias Mazian and Garnett and 15 more. Preview the line-up and save it on soundcheck.
+NYEGE NYEGE X GARAGE FEST 2026 - WEEKENDER at Garage Noord on Sun 26 Jul, Amsterdam. 19 acts on the bill: amara, Amz, BARROSKINI and Elias Mazian and 15 more. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,6 +10,7 @@ NYEGE NYEGE X GARAGE FEST 2026 - WEEKENDER at Garage Noord on Sun 26 Jul, Amster
 
 ## Line-up
 
+- amara
 - Amz
 - BARROSKINI
 - Elias Mazian
@@ -18,8 +19,8 @@ NYEGE NYEGE X GARAGE FEST 2026 - WEEKENDER at Garage Noord on Sun 26 Jul, Amster
 - Hibotep
 - Jay Mitta
 - Kampire
-- Nsasi
 - Nèna
+- Nsasi
 - Regal86
 - Sandor
 - Sarkawt Hamad
@@ -28,6 +29,5 @@ NYEGE NYEGE X GARAGE FEST 2026 - WEEKENDER at Garage Noord on Sun 26 Jul, Amster
 - T.NO
 - Xexa
 - Yucky
-- amara
 
 *Source: [soundcheck](https://soundcheck.club/e/2453208-nyege-nyege-x-garage-fest-2026-weekender-at-garage-noord/)*

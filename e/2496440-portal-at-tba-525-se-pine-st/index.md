@@ -1,6 +1,6 @@
 # Portal at TBA - 525 SE Pine st
 
-Portal at TBA - 525 SE Pine st on Sat 15 Aug, Portland. 3 acts on the bill: Andrew Paris, Omari Jazz and enereph. Techno and Experimental. Preview the line-up and save it on soundcheck.
+Portal at TBA - 525 SE Pine st on Sat 15 Aug, Portland. 3 acts on the bill: Andrew Paris, enereph and Omari Jazz. Techno and Experimental. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -11,7 +11,7 @@ Portal at TBA - 525 SE Pine st on Sat 15 Aug, Portland. 3 acts on the bill: Andr
 ## Line-up
 
 - Andrew Paris
-- Omari Jazz
 - enereph
+- Omari Jazz
 
 *Source: [soundcheck](https://soundcheck.club/e/2496440-portal-at-tba-525-se-pine-st/)*

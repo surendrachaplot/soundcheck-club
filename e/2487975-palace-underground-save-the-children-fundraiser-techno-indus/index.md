@@ -1,6 +1,6 @@
 # Palace Underground - Save The Children Fundraiser // Techno_Industrial_Hard Techno // at M.O.T
 
-Palace Underground - Save The Children Fundraiser // Techno_Industrial_Hard Techno // at M.O.T on Sat 5 Sept, London. 6 acts on the bill: DJ Tsar, LUNAUR.AA, Meyzen and Yukari and 2 more. Techno and Industrial. Preview the line-up and save it on soundcheck.
+Palace Underground - Save The Children Fundraiser // Techno_Industrial_Hard Techno // at M.O.T on Sat 5 Sept, London. 6 acts on the bill: DJ Tsar, it_dont_Matt.er, LUNAUR.AA and Meyzen and 2 more. Techno and Industrial. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -11,10 +11,10 @@ Palace Underground - Save The Children Fundraiser // Techno_Industrial_Hard Tech
 ## Line-up
 
 - DJ Tsar
+- it_dont_Matt.er
 - LUNAUR.AA
 - Meyzen
-- Yukari
-- it_dont_Matt.er
 - Ømen
+- Yukari
 
 *Source: [soundcheck](https://soundcheck.club/e/2487975-palace-underground-save-the-children-fundraiser-techno-indus/)*

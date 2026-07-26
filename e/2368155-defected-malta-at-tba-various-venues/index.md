@@ -42,19 +42,19 @@ Defected Malta at TBA - Various Venues on Thu 1 Oct, Malta. 56 acts on the bill:
 - Low Steppa
 - Makèz
 - Melvo Baptiste
-- MiNNA
 - Michael Gray
+- MiNNA
 - Murphy's Law
 - Natasha Diggs
 - Nic Fanciulli
 - Nick Curly
+- nocapz.
 - O'Flynn
 - Oden
 - Paisley Jensen
 - Phill de Janeiro
 - Prunk
 - RUZE
-- SYREETA
 - Sam Divine
 - Sandy Rivera
 - Scarlett O'Malley
@@ -62,9 +62,9 @@ Defected Malta at TBA - Various Venues on Thu 1 Oct, Malta. 56 acts on the bill:
 - Sidney Charles
 - Skream
 - Stuart Patterson
+- SYREETA
 - Terry Farley
 - The Shapeshifters
 - Todd Terry
-- nocapz.
 
 *Source: [soundcheck](https://soundcheck.club/e/2368155-defected-malta-at-tba-various-venues/)*

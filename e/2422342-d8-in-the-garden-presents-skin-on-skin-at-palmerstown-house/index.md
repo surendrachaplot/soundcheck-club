@@ -1,6 +1,6 @@
 # D8 in the Garden presents Skin On Skin at Palmerstown House Estate
 
-D8 in the Garden presents Skin On Skin at Palmerstown House Estate on Sun 2 Aug, Dublin. 6 acts on the bill: Clouds, Paige Tomlinson, SWIM (AU) and Skin On Skin and 2 more. Electronica. Preview the line-up and save it on soundcheck.
+D8 in the Garden presents Skin On Skin at Palmerstown House Estate on Sun 2 Aug, Dublin. 6 acts on the bill: Clouds, Paige Tomlinson, Skin On Skin and SWIM (AU) and 2 more. Electronica. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -12,8 +12,8 @@ D8 in the Garden presents Skin On Skin at Palmerstown House Estate on Sun 2 Aug,
 
 - Clouds
 - Paige Tomlinson
-- SWIM (AU)
 - Skin On Skin
+- SWIM (AU)
 - THELMA
 - Tommy Holohan
 

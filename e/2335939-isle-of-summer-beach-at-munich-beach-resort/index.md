@@ -17,9 +17,9 @@ Isle of Summer Beach at Munich Beach Resort on Sat 8 Aug, Munich. 18 acts on the
 - BAUGRUPPE90
 - Clara Cuvé
 - DJ YARAK
-- FUMI
 - Format B
 - Fritz Kalkbrenner
+- FUMI
 - Johannes Schuster
 - Lilly Palmer
 - NEGITIV

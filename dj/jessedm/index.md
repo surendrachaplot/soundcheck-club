@@ -1,6 +1,6 @@
 # Jesse DM
 
-Jesse DM is a House and Club artist with 2 upcoming club dates listed on soundcheck as of Sat, 25 Jul 2026, next at Club 77, Sydney on Sun, 2 Aug 2026.
+Jesse DM is a House and Club artist with 2 upcoming club dates listed on soundcheck as of Sun, 26 Jul 2026, next at Club 77, Sydney on Sun, 2 Aug 2026.
 
 Jesse DM is a house and club artist tracked on soundcheck, with 36 sets logged across Melbourne and Sydney. Often billed alongside Simonetti, Jo Christy and Bertie. Next up: Club 77, Sydney on Sun 2 Aug.
 
@@ -26,4 +26,4 @@ Jesse DM is a house and club artist tracked on soundcheck, with 36 sets logged a
 
 Simonetti, Jo Christy, Bertie
 
-*Updated Sat, 25 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/jessedm/)*
+*Updated Sun, 26 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/jessedm/)*

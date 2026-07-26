@@ -1,6 +1,6 @@
 # Rene Oldenburg
 
-Rene Oldenburg is a Tech House and Techno artist with 3 upcoming club dates listed on soundcheck as of Sat, 25 Jul 2026, next at KitKatClub, Berlin on Thu, 30 Jul 2026.
+Rene Oldenburg is a Tech House and Techno artist with 3 upcoming club dates listed on soundcheck as of Sun, 26 Jul 2026, next at KitKatClub, Berlin on Thu, 30 Jul 2026.
 
 Rene Oldenburg is a tech house and techno artist tracked on soundcheck, with 23 sets logged across Berlin. Often billed alongside Milk N Coffee, Somaphon and Marc Prochnow. Next up: KitKatClub, Berlin on Thu 30 Jul.
 
@@ -27,4 +27,4 @@ Rene Oldenburg is a tech house and techno artist tracked on soundcheck, with 23 
 
 Milk N Coffee, Somaphon, Marc Prochnow
 
-*Updated Sat, 25 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/reneoldenburg/)*
+*Updated Sun, 26 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/reneoldenburg/)*

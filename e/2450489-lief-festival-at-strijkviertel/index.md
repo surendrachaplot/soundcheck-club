@@ -22,8 +22,8 @@ LIEF Festival at Strijkviertel on Sat 5 Sept, Utrecht. 22 acts on the bill: Agen
 - Easttown
 - Eileen (NL)
 - Fleur du Bonheur
-- HI-LO
 - Helsloot
+- HI-LO
 - Jayzo
 - Leroy Rey
 - Mees Salomé

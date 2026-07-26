@@ -1,6 +1,6 @@
 # HOMO DEPOT // PRIDE at Platform9
 
-HOMO DEPOT // PRIDE at Platform9 on Fri 31 Jul, Vancouver. 3 acts on the bill: AWood, SUBDIDI and mykissera. House and Garage. Preview the line-up and save it on soundcheck.
+HOMO DEPOT // PRIDE at Platform9 on Fri 31 Jul, Vancouver. 3 acts on the bill: AWood, mykissera and SUBDIDI. House and Garage. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -11,7 +11,7 @@ HOMO DEPOT // PRIDE at Platform9 on Fri 31 Jul, Vancouver. 3 acts on the bill: A
 ## Line-up
 
 - AWood
-- SUBDIDI
 - mykissera
+- SUBDIDI
 
 *Source: [soundcheck](https://soundcheck.club/e/2490313-homo-depot-pride-at-platform9/)*

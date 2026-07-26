@@ -15,8 +15,13 @@ program audio: innerspeak:r at F8 1192 Folsom on Fri 14 Aug, Sanfrancisco. 27 ac
 - Avi Loud
 - Chloe Battelle
 - Dance Maniacs
+- djfix
+- ek:)
+- erika (SF)
 - FINISHHER
 - Javi (US)
+- jcore
+- jmo corleone
 - Just Another Bitch
 - KIMOSABE
 - Lethargy
@@ -28,14 +33,9 @@ program audio: innerspeak:r at F8 1192 Folsom on Fri 14 Aug, Sanfrancisco. 27 ac
 - Oso Feo (2)
 - PSL
 - QRTR
+- sfcowboy
 - Soulox
 - Taraneh
 - ZZ (4)
-- djfix
-- ek:)
-- erika (SF)
-- jcore
-- jmo corleone
-- sfcowboy
 
 *Source: [soundcheck](https://soundcheck.club/e/2474822-program-audio-innerspeak-r-at-f8-1192-folsom/)*

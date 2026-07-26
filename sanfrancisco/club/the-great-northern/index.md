@@ -1,14 +1,13 @@
 # The Great Northern
 
-The Great Northern is a music venue in San Francisco/Oakland with 10 upcoming nights listed on soundcheck as of Sat, 25 Jul 2026; the next is "Mioli Music: Kausmic" on Sat, 25 Jul 2026.
+The Great Northern is a music venue in San Francisco/Oakland with 9 upcoming nights listed on soundcheck as of Sun, 26 Jul 2026; the next is "Arca 'XXXXX' Official Listening Party with Mostly Cloudy" on Thu, 30 Jul 2026.
 
-The Great Northern is a music venue in Sanfrancisco listed on soundcheck. 10 upcoming nights, with line-ups including 1-800 GIRLS, ANDYLAND, BADSISTA and BAE BAE and 2 more. Browse upcoming dates, start times and who's playing. 119 Utah St, San Francisco, CA 94103.
+The Great Northern is a music venue in Sanfrancisco listed on soundcheck. 9 upcoming nights, with line-ups including 1-800 GIRLS, ANDYLAND, BADSISTA and BAE BAE and 2 more. Browse upcoming dates, start times and who's playing. 119 Utah St, San Francisco, CA 94103.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Sat, 25 Jul 2026 | Mioli Music: Kausmic | DNEB, Emanate, JustJovani, Syd Gris |
 | Thu, 30 Jul 2026 | Arca 'XXXXX' Official Listening Party with Mostly Cloudy | DE ALMA, Profesito, QUEENIE (US) |
 | Fri, 31 Jul 2026 | Colorize: San Francisco - PRAANA - Mees Salomé - Jack Willard | Jack Willard, Mees Salomé, PRAANA |
 | Sat, 1 Aug 2026 | Frolic |  |
@@ -23,4 +22,4 @@ The Great Northern is a music venue in Sanfrancisco listed on soundcheck. 10 upc
 
 119 Utah St, San Francisco, CA 94103, San Francisco/Oakland
 
-*Updated Sat, 25 Jul 2026 · source: [soundcheck](https://soundcheck.club/sanfrancisco/club/the-great-northern/)*
+*Updated Sun, 26 Jul 2026 · source: [soundcheck](https://soundcheck.club/sanfrancisco/club/the-great-northern/)*

@@ -16,8 +16,8 @@ Power Dance Club 24hours Anniversary at KREUZWERK on Sat 8 Aug, Berlin. 12 acts 
 - Hyperaktivist
 - Khloe
 - Luigi Di Venere
-- MCMLXXXV
 - Matisa
+- MCMLXXXV
 - Neu Verboten
 - Partok
 - Stathis (GR)

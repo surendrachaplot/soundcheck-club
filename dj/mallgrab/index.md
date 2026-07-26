@@ -1,14 +1,13 @@
 # Mall Grab
 
-Mall Grab is a Techno and House artist with 12 upcoming club dates listed on soundcheck as of Sat, 25 Jul 2026, next at Mondo, Madrid on Sat, 25 Jul 2026.
+Mall Grab is a Techno and House artist with 11 upcoming club dates listed on soundcheck as of Sun, 26 Jul 2026, next at Sønder Hoved, Copenhagen on Thu, 30 Jul 2026.
 
-Mall Grab is a techno and house artist tracked on soundcheck, with 200 sets logged across Aberdeen, Amsterdam, Antwerp and Athens and 62 more. Often billed alongside Effy, KETTAMA and Skin On Skin. Next up: Mondo, Madrid on Sat 25 Jul.
+Mall Grab is a techno and house artist tracked on soundcheck, with 200 sets logged across Aberdeen, Amsterdam, Antwerp and Athens and 62 more. Often billed alongside Effy, KETTAMA and Skin On Skin. Next up: Sønder Hoved, Copenhagen on Thu 30 Jul.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 25 Jul 2026 | Mondo | Madrid |
 | Thu, 30 Jul 2026 | Sønder Hoved | Copenhagen |
 | Fri, 31 Jul 2026 | Boston Manor Park | London |
 | Sat, 8 Aug 2026 | Spin | San Diego |
@@ -23,6 +22,7 @@ Mall Grab is a techno and house artist tracked on soundcheck, with 200 sets logg
 
 ## Recently played
 
+- Mondo, Madrid — Sat, 25 Jul 2026
 - TBA - Paradise City Festival, Brussels — Fri, 26 Jun 2026
 - Le Sucre, Lyon — Sun, 14 Jun 2026
 - Magasins Généraux, Paris — Fri, 12 Jun 2026
@@ -30,10 +30,9 @@ Mall Grab is a techno and house artist tracked on soundcheck, with 200 sets logg
 - Unit 13, Nottingham — Fri, 5 Jun 2026
 - Plaza Monumental de Barcelona, Barcelona — Sat, 30 May 2026
 - Pier 48's Shed A, San Francisco/Oakland — Sat, 16 May 2026
-- Art Club, Houston — Thu, 14 May 2026
 
 ## Shares bills with
 
 Effy, KETTAMA, Skin On Skin
 
-*Updated Sat, 25 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/mallgrab/)*
+*Updated Sun, 26 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/mallgrab/)*

@@ -1,8 +1,8 @@
 # Franky Rizardo
 
-Franky Rizardo is a House and Tech House artist with 15 upcoming club dates listed on soundcheck as of Sat, 25 Jul 2026, next at Santanna Mykonos, Mykonos on Wed, 29 Jul 2026.
+Franky Rizardo is a House and Tech House artist with 16 upcoming club dates listed on soundcheck as of Sun, 26 Jul 2026, next at Santanna Mykonos, Mykonos on Wed, 29 Jul 2026.
 
-Franky Rizardo is a house and tech house artist tracked on soundcheck, with 230 sets logged across Amsterdam, Austin, Bali and Barcelona and 44 more. Often billed alongside Marco Carola, East End Dubs and Mason Collective. Next up: Santanna Mykonos, Mykonos on Wed 29 Jul.
+Franky Rizardo is a house and tech house artist tracked on soundcheck, with 231 sets logged across Amsterdam, Austin, Bali and Barcelona and 44 more. Often billed alongside Marco Carola, East End Dubs and Mason Collective. Next up: Santanna Mykonos, Mykonos on Wed 29 Jul.
 
 ## Upcoming shows
 
@@ -36,4 +36,4 @@ Franky Rizardo is a house and tech house artist tracked on soundcheck, with 230 
 
 Marco Carola, East End Dubs, Mason Collective
 
-*Updated Sat, 25 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/frankyrizardo/)*
+*Updated Sun, 26 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/frankyrizardo/)*

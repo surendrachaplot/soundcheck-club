@@ -1,14 +1,13 @@
 # Grace Dahl
 
-Grace Dahl is a Techno and House artist with 8 upcoming club dates listed on soundcheck as of Sat, 25 Jul 2026, next at The Yard, Manchester on Sat, 25 Jul 2026.
+Grace Dahl is a Techno and House artist with 7 upcoming club dates listed on soundcheck as of Sun, 26 Jul 2026, next at RSO.BERLIN, Berlin on Thu, 13 Aug 2026.
 
-Grace Dahl is a techno and house artist tracked on soundcheck, with 224 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 49 more. Often billed alongside Lobster (NL), Yanamaste and Blasha & Allatt. Next up: The Yard, Manchester on Sat 25 Jul.
+Grace Dahl is a techno and house artist tracked on soundcheck, with 224 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 49 more. Often billed alongside Lobster (NL), Yanamaste and Blasha & Allatt. Next up: RSO.BERLIN, Berlin on Thu 13 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 25 Jul 2026 | The Yard | Manchester |
 | Thu, 13 Aug 2026 | RSO.BERLIN | Berlin |
 | Fri, 21 Aug 2026 | Magazine Open–Air | London |
 | Sat, 22 Aug 2026 | Lieberscholli | Munich |
@@ -19,6 +18,7 @@ Grace Dahl is a techno and house artist tracked on soundcheck, with 224 sets log
 
 ## Recently played
 
+- The Yard, Manchester — Sat, 25 Jul 2026
 - Odonien, Cologne — Fri, 10 Jul 2026
 - Mia Mao, Paris — Sat, 4 Jul 2026
 - De Fik Garden, Amsterdam — Sun, 28 Jun 2026
@@ -26,10 +26,9 @@ Grace Dahl is a techno and house artist tracked on soundcheck, with 224 sets log
 - Poble Espanyol, Barcelona — Sun, 21 Jun 2026
 - Seaseaclub Barcelona, Barcelona — Sat, 20 Jun 2026
 - Sloterpark, Amsterdam — Sat, 20 Jun 2026
-- Bassiani, Tbilisi — Fri, 19 Jun 2026
 
 ## Shares bills with
 
 Lobster (NL), Yanamaste, Blasha & Allatt
 
-*Updated Sat, 25 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/gracedahl/)*
+*Updated Sun, 26 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/gracedahl/)*

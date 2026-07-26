@@ -1,6 +1,6 @@
 # Trancemaster Krause, Ollie Lishman, steamboi, Anna Logic, DJ Spice at Hangaren
 
-Trancemaster Krause, Ollie Lishman, steamboi, Anna Logic, DJ Spice at Hangaren on Fri 31 Jul, Copenhagen. 5 acts on the bill: Anna Logic, DJ Spice, Ollie Lishman and Trancemaster Krause and 1 more. Trance and House. Preview the line-up and save it on soundcheck.
+Trancemaster Krause, Ollie Lishman, steamboi, Anna Logic, DJ Spice at Hangaren on Fri 31 Jul, Copenhagen. 5 acts on the bill: Anna Logic, DJ Spice, Ollie Lishman and steamboi and 1 more. Trance and House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -13,7 +13,7 @@ Trancemaster Krause, Ollie Lishman, steamboi, Anna Logic, DJ Spice at Hangaren o
 - Anna Logic
 - DJ Spice
 - Ollie Lishman
-- Trancemaster Krause
 - steamboi
+- Trancemaster Krause
 
 *Source: [soundcheck](https://soundcheck.club/e/2444736-trancemaster-krause-ollie-lishman-steamboi-anna-logic-dj-spi/)*

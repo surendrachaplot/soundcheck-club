@@ -18,7 +18,7 @@ Adrenaline Family Tour : Cloudy b2b ALL DAY LONG Special + After Party @RSO at V
 - Lene Ma Rue
 - Prossowski
 - TONI BA
-- Vagabund
 - ÜBERKIKZ
+- Vagabund
 
 *Source: [soundcheck](https://soundcheck.club/e/2363281-adrenaline-family-tour-cloudy-b2b-all-day-long-special-after/)*

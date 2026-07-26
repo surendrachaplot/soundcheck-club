@@ -14,8 +14,8 @@ SCHISSMA SUMMER SSSSESSIONS: WARSAW [Przyjaźń] – 08.08.2026 - EARGASM GOD, B
 - EARGASM GOD
 - ERNST (UA)
 - Józef Keuner
+- marcelitumelis
 - SCHELLT
 - VRAXX
-- marcelitumelis
 
 *Source: [soundcheck](https://soundcheck.club/e/2465143-schissma-summer-ssssessions-warsaw-przyja-08-08-2026-eargasm/)*

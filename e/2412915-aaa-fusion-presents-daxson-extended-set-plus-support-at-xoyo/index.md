@@ -14,8 +14,8 @@ AAA Fusion presents Daxson extended set plus support at XOYO on Sat 22 Aug, Lond
 - Aldor
 - Andrew Sharpe
 - C-systems
-- DJMrB
 - Daxson
+- DJMrB
 - FROGR
 - IZZY(NL)
 - Krevix

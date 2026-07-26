@@ -1,6 +1,6 @@
 # Move Vol. 3: Franck at Club 69
 
-Move Vol. 3: Franck at Club 69 on Fri 31 Jul, Glasgow. 5 acts on the bill: Chris Kerr, Karson Ross, SLX (1) and Stephen Taggart and 1 more. Trance and Techno. Preview the line-up and save it on soundcheck.
+Move Vol. 3: Franck at Club 69 on Fri 31 Jul, Glasgow. 5 acts on the bill: Chris Kerr, franck, Karson Ross and SLX (1) and 1 more. Trance and Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -11,9 +11,9 @@ Move Vol. 3: Franck at Club 69 on Fri 31 Jul, Glasgow. 5 acts on the bill: Chris
 ## Line-up
 
 - Chris Kerr
+- franck
 - Karson Ross
 - SLX (1)
 - Stephen Taggart
-- franck
 
 *Source: [soundcheck](https://soundcheck.club/e/2470275-move-vol-3-franck-at-club-69/)*

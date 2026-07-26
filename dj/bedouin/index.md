@@ -1,8 +1,8 @@
 # Bedouin
 
-Bedouin is a House and Tech House artist with 15 upcoming club dates listed on soundcheck as of Sat, 25 Jul 2026, next at Chinois Ibiza, Ibiza on Sun, 26 Jul 2026.
+Bedouin is a House and Tech House artist with 16 upcoming club dates listed on soundcheck as of Sun, 26 Jul 2026, next at Chinois Ibiza, Ibiza on Sun, 26 Jul 2026.
 
-Bedouin is a house and tech house artist tracked on soundcheck, with 209 sets logged across Amsterdam, Athens, Austin and Bali and 35 more. Often billed alongside Seth Troxler, Carlita and DJ Tennis. Next up: Chinois Ibiza, Ibiza on Sun 26 Jul.
+Bedouin is a house and tech house artist tracked on soundcheck, with 210 sets logged across Amsterdam, Athens, Austin and Bali and 35 more. Often billed alongside Seth Troxler, Carlita and DJ Tennis. Next up: Chinois Ibiza, Ibiza on Sun 26 Jul.
 
 ## Upcoming shows
 
@@ -36,4 +36,4 @@ Bedouin is a house and tech house artist tracked on soundcheck, with 209 sets lo
 
 Seth Troxler, Carlita, DJ Tennis
 
-*Updated Sat, 25 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/bedouin/)*
+*Updated Sun, 26 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/bedouin/)*

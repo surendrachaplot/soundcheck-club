@@ -1,6 +1,6 @@
 # LITM @ Starlane Pizza Bar at Starlane Pizza Bar
 
-LITM @ Starlane Pizza Bar on Fri 7 Aug, London. 7 acts on the bill: HCTR, JFULLER, Myles Basford and Reece Daines and 3 more. House. Preview the line-up and save it on soundcheck.
+LITM @ Starlane Pizza Bar on Fri 7 Aug, London. 7 acts on the bill: HCTR, JFULLER, jjmorris4 and Myles Basford and 3 more. House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -12,10 +12,10 @@ LITM @ Starlane Pizza Bar on Fri 7 Aug, London. 7 acts on the bill: HCTR, JFULLE
 
 - HCTR
 - JFULLER
+- jjmorris4
 - Myles Basford
 - Reece Daines
 - Robbie Cullen
 - TommyGDJ
-- jjmorris4
 
 *Source: [soundcheck](https://soundcheck.club/e/2461813-litm-starlane-pizza-bar-at-starlane-pizza-bar/)*

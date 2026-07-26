@@ -1,6 +1,6 @@
 # Mode Festival 2026 at Cockatoo Island
 
-Mode Festival 2026 at Cockatoo Island on Sun 4 Oct, Sydney. 28 acts on the bill: Alilia, Ash Lauryn, Avalon Emerson and Barry Can't Swim and 24 more. Preview the line-up and save it on soundcheck.
+Mode Festival 2026 at Cockatoo Island on Sun 4 Oct, Sydney. 28 acts on the bill: Alilia, anusha, Ash Lauryn and Avalon Emerson and 24 more. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -11,6 +11,7 @@ Mode Festival 2026 at Cockatoo Island on Sun 4 Oct, Sydney. 28 acts on the bill:
 ## Line-up
 
 - Alilia
+- anusha
 - Ash Lauryn
 - Avalon Emerson
 - Barry Can't Swim
@@ -19,6 +20,7 @@ Mode Festival 2026 at Cockatoo Island on Sun 4 Oct, Sydney. 28 acts on the bill:
 - Call Super
 - D.Dan
 - Freddy K
+- fuchsia
 - GiGi FM
 - Harry Hayes
 - Hasvat Informant
@@ -32,11 +34,9 @@ Mode Festival 2026 at Cockatoo Island on Sun 4 Oct, Sydney. 28 acts on the bill:
 - Ogazón
 - Richie Hawtin
 - Ron Trent
-- SWIM (AU)
 - Storm Mollison
+- SWIM (AU)
 - TWIENA
 - Two Shell
-- anusha
-- fuchsia
 
 *Source: [soundcheck](https://soundcheck.club/e/2446759-mode-festival-2026-at-cockatoo-island/)*

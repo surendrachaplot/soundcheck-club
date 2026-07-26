@@ -1,19 +1,17 @@
 # Plot 22
 
-Plot 22 is a music venue in Sheffield with 3 upcoming nights listed on soundcheck as of Sat, 25 Jul 2026; the next is "Bangers + Bootlegs Fringe at Tramlines: TC (2 hr), Ash Steel, Meta, Lizza B, Adam C-4" on Sat, 25 Jul 2026.
+Plot 22 is a music venue in Sheffield with 1 upcoming night listed on soundcheck as of Sun, 26 Jul 2026; the next is "LOCAL with Wavform: Below Zero" on Sat, 15 Aug 2026.
 
-Plot 22 is a music venue in Sheffield listed on soundcheck. 3 upcoming nights, with line-ups including TC. Browse upcoming dates, start times and who's playing. 20-22 Exchange St, Sheffield City Centre, Sheffield, S2 5TS.
+Plot 22 is a music venue in Sheffield listed on soundcheck. 1 upcoming night. Browse upcoming dates, start times and who's playing. 20-22 Exchange St, Sheffield City Centre, Sheffield, S2 5TS.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Sat, 25 Jul 2026 | Bangers + Bootlegs Fringe at Tramlines: TC (2 hr), Ash Steel, Meta, Lizza B, Adam C-4 | TC |
-| Sat, 25 Jul 2026 | Fringe at Tramlines: The Saturday Social |  |
 | Sat, 15 Aug 2026 | LOCAL with Wavform: Below Zero |  |
 
 ## Address
 
 20-22 Exchange St, Sheffield City Centre, Sheffield, S2 5TS, Sheffield
 
-*Updated Sat, 25 Jul 2026 · source: [soundcheck](https://soundcheck.club/sheffield/club/plot-22/)*
+*Updated Sun, 26 Jul 2026 · source: [soundcheck](https://soundcheck.club/sheffield/club/plot-22/)*

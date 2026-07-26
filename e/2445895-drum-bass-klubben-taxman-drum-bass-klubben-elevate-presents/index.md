@@ -15,8 +15,8 @@ Drum & Bass Klubben: Taxman + Drum & Bass Klubben / Elevate presents Bass Rave a
 - Dwonji
 - HDN (2)
 - LINUS
-- MNSTR
 - Maxi Mo
+- MNSTR
 - Taxman
 
 *Source: [soundcheck](https://soundcheck.club/e/2445895-drum-bass-klubben-taxman-drum-bass-klubben-elevate-presents/)*

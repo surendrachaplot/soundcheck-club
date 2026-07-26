@@ -1,6 +1,6 @@
 # FOG: Forest Edition at TBA - Secret Location
 
-FOG: Forest Edition at TBA - Secret Location on Sat 1 Aug, Vancouver. 7 acts on the bill: Behrad Tehrani, C-Star, Cataria and DK PAU and 3 more. Techno. Preview the line-up and save it on soundcheck.
+FOG: Forest Edition at TBA - Secret Location on Sat 1 Aug, Vancouver. 7 acts on the bill: Behrad Tehrani, C-Star, Cataria and David Alcaniz and 3 more. Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -13,8 +13,8 @@ FOG: Forest Edition at TBA - Secret Location on Sat 1 Aug, Vancouver. 7 acts on 
 - Behrad Tehrani
 - C-Star
 - Cataria
-- DK PAU
 - David Alcaniz
+- DK PAU
 - POPU
 - Yum!
 

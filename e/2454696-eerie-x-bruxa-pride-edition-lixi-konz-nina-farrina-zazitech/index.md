@@ -20,7 +20,7 @@
 - RADYK
 - S.Tian
 - Sub Sahara
-- ZiZi
 - zazitech
+- ZiZi
 
 *Source: [soundcheck](https://soundcheck.club/e/2454696-eerie-x-bruxa-pride-edition-lixi-konz-nina-farrina-zazitech/)*

@@ -1,6 +1,6 @@
 # silikon w/ ALIS. • ELOISA • GIANNI • NASTYA NVRSLP • YENKOV at ÆDEN
 
-silikon w/ ALIS. • ELOISA • GIANNI • NASTYA NVRSLP • YENKOV at ÆDEN on Sat 1 Aug, Berlin. 8 acts on the bill: ALIS., Alexa Fluor, DJ Gianni and ELOISA and 4 more. Techno. Preview the line-up and save it on soundcheck.
+silikon w/ ALIS. • ELOISA • GIANNI • NASTYA NVRSLP • YENKOV at ÆDEN on Sat 1 Aug, Berlin. 8 acts on the bill: Alexa Fluor, ALIS., DJ Gianni and ELOISA and 4 more. Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,8 +10,8 @@ silikon w/ ALIS. • ELOISA • GIANNI • NASTYA NVRSLP • YENKOV at ÆDEN on 
 
 ## Line-up
 
-- ALIS.
 - Alexa Fluor
+- ALIS.
 - DJ Gianni
 - ELOISA
 - Melanchromie

@@ -1,6 +1,6 @@
 # The Bath House
 
-The Bath House is a music venue in London with 3 upcoming nights listed on soundcheck as of Sat, 25 Jul 2026; the next is "GIANT STEPS" on Sun, 26 Jul 2026.
+The Bath House is a music venue in London with 3 upcoming nights listed on soundcheck as of Sun, 26 Jul 2026; the next is "GIANT STEPS" on Sun, 26 Jul 2026.
 
 The Bath House is a music venue in London listed on soundcheck. 3 upcoming nights, with line-ups including Beringei, Coco Maria, Donna Leake and Last Nubian and 2 more. Browse upcoming dates, start times and who's playing. The Bath House, Hackney Wick, 80 Eastway, London, E9 5JH.
 
@@ -16,4 +16,4 @@ The Bath House is a music venue in London listed on soundcheck. 3 upcoming night
 
 The Bath House, Hackney Wick, 80 Eastway, London, E9 5JH, London
 
-*Updated Sat, 25 Jul 2026 · source: [soundcheck](https://soundcheck.club/london/club/the-bath-house/)*
+*Updated Sun, 26 Jul 2026 · source: [soundcheck](https://soundcheck.club/london/club/the-bath-house/)*

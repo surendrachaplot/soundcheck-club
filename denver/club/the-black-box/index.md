@@ -1,14 +1,13 @@
 # The Black Box
 
-The Black Box is a music venue in Denver with 10 upcoming nights listed on soundcheck as of Sat, 25 Jul 2026; the next is "The Black Box & Recon present: LSB & DRS (Space Age)" on Sat, 25 Jul 2026.
+The Black Box is a music venue in Denver with 9 upcoming nights listed on soundcheck as of Sun, 26 Jul 2026; the next is "Cnopes" on Thu, 30 Jul 2026.
 
-The Black Box is a music venue in Denver listed on soundcheck. 10 upcoming nights, with line-ups including Amit, Beard-o-Bees, DRS and Grym and 2 more. Browse upcoming dates, start times and who's playing. 314 E. 13th Ave. Denver, CO 80203.
+The Black Box is a music venue in Denver listed on soundcheck. 9 upcoming nights, with line-ups including Amit, Beard-o-Bees, Grym and Jen Tops and 2 more. Browse upcoming dates, start times and who's playing. 314 E. 13th Ave. Denver, CO 80203.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Sat, 25 Jul 2026 | The Black Box & Recon present: LSB & DRS (Space Age) | DRS, LSB |
 | Thu, 30 Jul 2026 | Cnopes |  |
 | Fri, 31 Jul 2026 | Sub.mission presents: Gisaza, Quasar & Qilin | Quasar |
 | Sat, 1 Aug 2026 | Sylph |  |
@@ -23,4 +22,4 @@ The Black Box is a music venue in Denver listed on soundcheck. 10 upcoming night
 
 314 E. 13th Ave. Denver, CO 80203, Denver
 
-*Updated Sat, 25 Jul 2026 · source: [soundcheck](https://soundcheck.club/denver/club/the-black-box/)*
+*Updated Sun, 26 Jul 2026 · source: [soundcheck](https://soundcheck.club/denver/club/the-black-box/)*

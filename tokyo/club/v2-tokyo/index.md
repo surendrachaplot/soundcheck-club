@@ -1,6 +1,6 @@
 # V2 Tokyo
 
-V2 Tokyo is a music venue in Tokyo with 2 upcoming nights listed on soundcheck as of Sat, 25 Jul 2026; the next is "GirlsLAB" on Wed, 29 Jul 2026.
+V2 Tokyo is a music venue in Tokyo with 2 upcoming nights listed on soundcheck as of Sun, 26 Jul 2026; the next is "GirlsLAB" on Wed, 29 Jul 2026.
 
 V2 Tokyo is a music venue in Tokyo listed on soundcheck. 2 upcoming nights, with line-ups including KENTARO and TOGASHI. Browse upcoming dates, start times and who's playing. Tower of Vabel, 1F/B1F, 7 Chome-13-7 Roppongi, Minato City, Tokyo 106-0032.
 
@@ -15,4 +15,4 @@ V2 Tokyo is a music venue in Tokyo listed on soundcheck. 2 upcoming nights, with
 
 Tower of Vabel, 1F/B1F, 7 Chome-13-7 Roppongi, Minato City, Tokyo 106-0032, Tokyo
 
-*Updated Sat, 25 Jul 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/v2-tokyo/)*
+*Updated Sun, 26 Jul 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/v2-tokyo/)*

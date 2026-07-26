@@ -1,14 +1,13 @@
 # Podlasie Club
 
-Podlasie Club is a music venue in Chicago with 9 upcoming nights listed on soundcheck as of Sat, 25 Jul 2026; the next is "INZOGA" on Sat, 25 Jul 2026.
+Podlasie Club is a music venue in Chicago with 8 upcoming nights listed on soundcheck as of Sun, 26 Jul 2026; the next is "33 GIRI" on Thu, 30 Jul 2026.
 
-Podlasie Club is a music venue in Chicago listed on soundcheck. 9 upcoming nights, with line-ups including DJ Aguara'i, J. Córdova, easygoingtech and Gladstone Deluxe and 2 more. Browse upcoming dates, start times and who's playing. 2918 N Central Park Ave, Avondale, Chicago, IL, 60618.
+Podlasie Club is a music venue in Chicago listed on soundcheck. 8 upcoming nights, with line-ups including DJ Aguara'i, J. Córdova, easygoingtech and Gladstone Deluxe and 2 more. Browse upcoming dates, start times and who's playing. 2918 N Central Park Ave, Avondale, Chicago, IL, 60618.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Sat, 25 Jul 2026 | INZOGA | Grabba Ranks, NoahG |
 | Thu, 30 Jul 2026 | 33 GIRI | Magnolia, Nolia, Pen Pals |
 | Fri, 31 Jul 2026 | Madam X, Merrick Brown, KEEFE | KEEFE, Madam X, Merrick Brown |
 | Sat, 1 Aug 2026 | JKriv, Inés, Yanna Lynette | Inés (US), JKriv |
@@ -22,4 +21,4 @@ Podlasie Club is a music venue in Chicago listed on soundcheck. 9 upcoming night
 
 2918 N Central Park Ave, Avondale, Chicago, IL, 60618, Chicago
 
-*Updated Sat, 25 Jul 2026 · source: [soundcheck](https://soundcheck.club/chicago/club/podlasie-club/)*
+*Updated Sun, 26 Jul 2026 · source: [soundcheck](https://soundcheck.club/chicago/club/podlasie-club/)*

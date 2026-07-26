@@ -1,14 +1,13 @@
 # Shaun J. Wright
 
-Shaun J. Wright is a House and Techno artist with 5 upcoming club dates listed on soundcheck as of Sat, 25 Jul 2026, next at BASEMENT, New York City on Sat, 25 Jul 2026.
+Shaun J. Wright is a House and Techno artist with 4 upcoming club dates listed on soundcheck as of Sun, 26 Jul 2026, next at smartbar, Chicago on Sat, 8 Aug 2026.
 
-Shaun J. Wright is a house and techno artist tracked on soundcheck, with 188 sets logged across Berlin, Boston, Chicago and Detroit and 8 more. Often billed alongside Michael Serafini, Derrick Carter and Mike Servito. Next up: BASEMENT, Newyorkcity on Sat 25 Jul.
+Shaun J. Wright is a house and techno artist tracked on soundcheck, with 188 sets logged across Berlin, Boston, Chicago and Detroit and 8 more. Often billed alongside Michael Serafini, Derrick Carter and Mike Servito. Next up: smartbar, Chicago on Sat 8 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 25 Jul 2026 | BASEMENT | New York City |
 | Sat, 8 Aug 2026 | smartbar | Chicago |
 | Sun, 9 Aug 2026 | smartbar | Chicago |
 | Fri, 21 Aug 2026 | House of Yes | New York City |
@@ -16,6 +15,7 @@ Shaun J. Wright is a house and techno artist tracked on soundcheck, with 188 set
 
 ## Recently played
 
+- BASEMENT, New York City — Sat, 25 Jul 2026
 - Chicago Eagle, Chicago — Sat, 4 Jul 2026
 - smartbar, Chicago — Sun, 28 Jun 2026
 - Signal, New York City — Sat, 27 Jun 2026
@@ -23,10 +23,9 @@ Shaun J. Wright is a house and techno artist tracked on soundcheck, with 188 set
 - Paragon, New York City — Sat, 20 Jun 2026
 - smartbar, Chicago — Fri, 19 Jun 2026
 - TBA - Humboldt Park (Follow @humboldtarboreal for details), Chicago — Sun, 31 May 2026
-- Dead Letter No. 9, New York City — Sat, 30 May 2026
 
 ## Shares bills with
 
 Michael Serafini, Derrick Carter, Mike Servito
 
-*Updated Sat, 25 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/shaunjwright/)*
+*Updated Sun, 26 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/shaunjwright/)*

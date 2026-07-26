@@ -1,14 +1,13 @@
 # m50
 
-m50 is a Acid and Ambient artist with 15 upcoming club dates listed on soundcheck as of Sat, 25 Jul 2026, next at TBA, Berlin on Sat, 25 Jul 2026.
+m50 is a Acid and Ambient artist with 14 upcoming club dates listed on soundcheck as of Sun, 26 Jul 2026, next at TBA, Chicago on Sun, 26 Jul 2026.
 
-m50 is an acid and ambient artist tracked on soundcheck, with 405 sets logged across Berlin, Chicago, Cologne and Dusseldorf and 4 more. Often billed alongside DJ Lgcc, Conoley Ospovat and r.ss. Next up: TBA, Berlin on Sat 25 Jul.
+m50 is an acid and ambient artist tracked on soundcheck, with 405 sets logged across Berlin, Chicago, Cologne and Dusseldorf and 4 more. Often billed alongside DJ Lgcc, Conoley Ospovat and r.ss. Next up: TBA, Chicago on Sun 26 Jul.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 25 Jul 2026 | TBA | Berlin |
 | Sun, 26 Jul 2026 | TBA | Chicago |
 | Thu, 30 Jul 2026 | WKDU 91.7FM | Philadelphia |
 | Fri, 31 Jul 2026 | TBA | Chicago |
@@ -20,9 +19,11 @@ m50 is an acid and ambient artist tracked on soundcheck, with 405 sets logged ac
 | Fri, 21 Aug 2026 | TBA | Chicago |
 | Sun, 23 Aug 2026 | TBA | Chicago |
 | Fri, 28 Aug 2026 | TBA | Chicago |
+| Sun, 30 Aug 2026 | TBA | Chicago |
 
 ## Recently played
 
+- TBA, Berlin — Sat, 25 Jul 2026
 - TBA, Chicago — Fri, 24 Jul 2026
 - TBA, Chicago — Sun, 19 Jul 2026
 - TBA, Chicago — Fri, 17 Jul 2026
@@ -30,10 +31,9 @@ m50 is an acid and ambient artist tracked on soundcheck, with 405 sets logged ac
 - TBA, Chicago — Fri, 10 Jul 2026
 - TBA, Chicago — Sun, 5 Jul 2026
 - TBA, Chicago — Fri, 3 Jul 2026
-- TBA, Chicago — Sun, 28 Jun 2026
 
 ## Shares bills with
 
 DJ Lgcc, Conoley Ospovat, r.ss
 
-*Updated Sat, 25 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/m50/)*
+*Updated Sun, 26 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/m50/)*

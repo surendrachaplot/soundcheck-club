@@ -1,14 +1,13 @@
 # Patterns
 
-Patterns is a music venue in Brighton with 7 upcoming nights listed on soundcheck as of Sat, 25 Jul 2026; the next is "Make A Dance" on Sat, 25 Jul 2026.
+Patterns is a music venue in Brighton with 6 upcoming nights listed on soundcheck as of Sun, 26 Jul 2026; the next is "Pride After Party: Kylie Wears Berghaus & Jake Reed" on Fri, 31 Jul 2026.
 
-Patterns is a music venue in Brighton listed on soundcheck. 7 upcoming nights, with line-ups including Asa Tate, CC:DISCO!, Discokid and Horse Meat Disco and 2 more. Browse upcoming dates, start times and who's playing. 10 Marine Parade, BN2 1TL, Brighton, United Kingdom.
+Patterns is a music venue in Brighton listed on soundcheck. 6 upcoming nights, with line-ups including CC:DISCO!, Discokid, Horse Meat Disco and Hot Chip and 2 more. Browse upcoming dates, start times and who's playing. 10 Marine Parade, BN2 1TL, Brighton, United Kingdom.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Sat, 25 Jul 2026 | Make A Dance | Asa Tate, Make A Dance, Meg Paine |
 | Fri, 31 Jul 2026 | Pride After Party: Kylie Wears Berghaus & Jake Reed | Kylie Wears Berghaus |
 | Sat, 1 Aug 2026 | Brighton Pride After Party: Horse Meat Disco | Horse Meat Disco |
 | Sun, 30 Aug 2026 | CC:DISCO! Terrace Party | CC:DISCO!, Discokid, Wildblood and Queenie |
@@ -20,4 +19,4 @@ Patterns is a music venue in Brighton listed on soundcheck. 7 upcoming nights, w
 
 10 Marine Parade, BN2 1TL, Brighton, United Kingdom, Brighton
 
-*Updated Sat, 25 Jul 2026 · source: [soundcheck](https://soundcheck.club/brighton/club/patterns/)*
+*Updated Sun, 26 Jul 2026 · source: [soundcheck](https://soundcheck.club/brighton/club/patterns/)*

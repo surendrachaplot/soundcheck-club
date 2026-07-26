@@ -1,18 +1,17 @@
 # COUNTER CLUB
 
-COUNTER CLUB is a music venue in Tokyo with 2 upcoming nights listed on soundcheck as of Sat, 25 Jul 2026; the next is "What a DISCO!!!" on Sat, 25 Jul 2026.
+COUNTER CLUB is a music venue in Tokyo with 1 upcoming night listed on soundcheck as of Sun, 26 Jul 2026; the next is "COUNTERCLUB SUNDAY" on Sun, 26 Jul 2026.
 
-COUNTER CLUB is a music venue in Tokyo listed on soundcheck. 2 upcoming nights, with line-ups including cotton, DEE (6), KAHO and Muse (1). Browse upcoming dates, start times and who's playing. SY Building 2F, 5-29-15 Daizawa, Setagaya-ku, Tokyo, 155-0032 Japan.
+COUNTER CLUB is a music venue in Tokyo listed on soundcheck. 1 upcoming night, with line-ups including DEE (6) and KAHO. Browse upcoming dates, start times and who's playing. SY Building 2F, 5-29-15 Daizawa, Setagaya-ku, Tokyo, 155-0032 Japan.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Sat, 25 Jul 2026 | What a DISCO!!! | Muse (1), cotton |
 | Sun, 26 Jul 2026 | COUNTERCLUB SUNDAY | DEE (6), KAHO |
 
 ## Address
 
 SY Building 2F, 5-29-15 Daizawa, Setagaya-ku, Tokyo, 155-0032 Japan, Tokyo
 
-*Updated Sat, 25 Jul 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/counter-club/)*
+*Updated Sun, 26 Jul 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/counter-club/)*

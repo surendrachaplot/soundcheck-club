@@ -16,13 +16,14 @@ OUTLOUD at Bunker on Sat 12 Sept, Turin. 36 acts on the bill: Alex Dima, Alexia 
 - Binh
 - Brasi
 - Cristian Sarde
-- DJ Rou
-- DONALD - BIIG_DONNY
-- DVS1
 - Danae
 - Denaila
 - Detroit In Effect
 - Dizzy
+- DJ Rou
+- DONALD - BIIG_DONNY
+- DVS1
+- e.nzo
 - Egyptian Lover
 - Francesco Del Garda
 - Gabbs
@@ -41,10 +42,9 @@ OUTLOUD at Bunker on Sat 12 Sept, Turin. 36 acts on the bill: Alex Dima, Alexia 
 - Pabie
 - Punky and the brain
 - Scacco
+- tINI
 - Unai Trotti
 - Vagliolise
 - Valerio Della Notte
-- e.nzo
-- tINI
 
 *Source: [soundcheck](https://soundcheck.club/e/2488623-outloud-at-bunker/)*

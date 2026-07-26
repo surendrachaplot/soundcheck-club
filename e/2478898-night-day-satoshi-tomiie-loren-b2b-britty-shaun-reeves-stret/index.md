@@ -1,6 +1,6 @@
 # Night & Day: Satoshi Tomiie, Loren b2b britty. , Shaun Reeves, Stretch, and navbox at Signal
 
-Night & Day: Satoshi Tomiie, Loren b2b britty. , Shaun Reeves, Stretch, and navbox at Signal on Fri 7 Aug, Newyorkcity. 6 acts on the bill: Avenue F, Loren, Satoshi Tomiie and Shaun Reeves and 2 more. Preview the line-up and save it on soundcheck.
+Night & Day: Satoshi Tomiie, Loren b2b britty. , Shaun Reeves, Stretch, and navbox at Signal on Fri 7 Aug, Newyorkcity. 6 acts on the bill: Avenue F, britty., Loren and Satoshi Tomiie and 2 more. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -11,10 +11,10 @@ Night & Day: Satoshi Tomiie, Loren b2b britty. , Shaun Reeves, Stretch, and navb
 ## Line-up
 
 - Avenue F
+- britty.
 - Loren
 - Satoshi Tomiie
 - Shaun Reeves
 - Stretch
-- britty.
 
 *Source: [soundcheck](https://soundcheck.club/e/2478898-night-day-satoshi-tomiie-loren-b2b-britty-shaun-reeves-stret/)*

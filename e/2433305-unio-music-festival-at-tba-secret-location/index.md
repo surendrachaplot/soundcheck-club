@@ -15,8 +15,8 @@ UNIO Music Festival at TBA - Secret Location on Fri 7 Aug, Berlin. 12 acts on th
 - Bonjessu
 - Hen Greca
 - LAJE
-- MOOGLI (DE)
 - Monika Ross
+- MOOGLI (DE)
 - Robert Monarch
 - Simma (1)
 - Superlounge

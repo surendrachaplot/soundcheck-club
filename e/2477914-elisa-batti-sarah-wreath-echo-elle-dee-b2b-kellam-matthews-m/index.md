@@ -1,6 +1,6 @@
 # Elisa Batti, Sarah Wreath, echo / Elle Dee b2b Kellam Matthews / Mr. Murray at public records
 
-Elisa Batti, Sarah Wreath, echo / Elle Dee b2b Kellam Matthews / Mr. Murray at public records on Fri 21 Aug, Newyorkcity. 6 acts on the bill: Elisa Batti, Elle Dee, Kellam Matthews and Mr. Murray and 2 more. Techno. Preview the line-up and save it on soundcheck.
+Elisa Batti, Sarah Wreath, echo / Elle Dee b2b Kellam Matthews / Mr. Murray at public records on Fri 21 Aug, Newyorkcity. 6 acts on the bill: echo (3), Elisa Batti, Elle Dee and Kellam Matthews and 2 more. Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,11 +10,11 @@ Elisa Batti, Sarah Wreath, echo / Elle Dee b2b Kellam Matthews / Mr. Murray at p
 
 ## Line-up
 
+- echo (3)
 - Elisa Batti
 - Elle Dee
 - Kellam Matthews
 - Mr. Murray
 - Sarah Wreath
-- echo (3)
 
 *Source: [soundcheck](https://soundcheck.club/e/2477914-elisa-batti-sarah-wreath-echo-elle-dee-b2b-kellam-matthews-m/)*

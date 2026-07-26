@@ -16,9 +16,9 @@ Unreal Day & Night at Valley & RSO BERLIN with A.N.I. , Svetec, RIKHTER, uvm at 
 - EMILIJA
 - In Verruf
 - Johannes Schuster
+- Kander
 - KLOUD
 - KTK (DE)
-- Kander
 - L.zwo
 - O.B.I. (DE)
 - RIKHTER

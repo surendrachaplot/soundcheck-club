@@ -1,6 +1,6 @@
 # Cinetol
 
-Cinetol is a music venue in Amsterdam with 8 upcoming nights listed on soundcheck as of Sat, 25 Jul 2026; the next is "JUNO bitcrush fanclub <3 presents + supports: nano + orchestra" on Fri, 31 Jul 2026.
+Cinetol is a music venue in Amsterdam with 8 upcoming nights listed on soundcheck as of Sun, 26 Jul 2026; the next is "JUNO bitcrush fanclub <3 presents + supports: nano + orchestra" on Fri, 31 Jul 2026.
 
 Cinetol is a music venue in Amsterdam listed on soundcheck. 8 upcoming nights, with line-ups including Camy Huot, Deep Forest, echofarmer and Entrp and 2 more. Browse upcoming dates, start times and who's playing. Tolstraat 182, 1074VM Amsterdam.
 
@@ -21,4 +21,4 @@ Cinetol is a music venue in Amsterdam listed on soundcheck. 8 upcoming nights, w
 
 Tolstraat 182, 1074VM Amsterdam, Amsterdam
 
-*Updated Sat, 25 Jul 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/cinetol/)*
+*Updated Sun, 26 Jul 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/cinetol/)*

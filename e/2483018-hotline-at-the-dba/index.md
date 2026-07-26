@@ -1,6 +1,6 @@
 # HOTLINE at The DBA
 
-HOTLINE at The DBA on Sat 5 Sept, Manchester. 6 acts on the bill: 4STR0, Danny Roach, Deventi and Jase Jeffery and 2 more. Techno and House. Preview the line-up and save it on soundcheck.
+HOTLINE at The DBA on Sat 5 Sept, Manchester. 6 acts on the bill: 4STR0, Danny Roach, Deventi and djcd and 2 more. Techno and House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -13,8 +13,8 @@ HOTLINE at The DBA on Sat 5 Sept, Manchester. 6 acts on the bill: 4STR0, Danny R
 - 4STR0
 - Danny Roach
 - Deventi
+- djcd
 - Jase Jeffery
 - Kabel
-- djcd
 
 *Source: [soundcheck](https://soundcheck.club/e/2483018-hotline-at-the-dba/)*

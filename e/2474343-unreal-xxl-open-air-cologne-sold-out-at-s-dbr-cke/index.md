@@ -1,6 +1,6 @@
 # Unreal XXL Open Air Cologne (Sold out) at Südbrücke
 
-Unreal XXL Open Air Cologne (Sold out) at Südbrücke on Sat 26 Sept, Cologne. 6 acts on the bill: Cera Khin, KUKO, Kalte Liebe and Nicolas Julian and 2 more. Techno. Preview the line-up and save it on soundcheck.
+Unreal XXL Open Air Cologne (Sold out) at Südbrücke on Sat 26 Sept, Cologne. 6 acts on the bill: Cera Khin, Kalte Liebe, KUKO and Nicolas Julian and 2 more. Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -11,8 +11,8 @@ Unreal XXL Open Air Cologne (Sold out) at Südbrücke on Sat 26 Sept, Cologne. 6
 ## Line-up
 
 - Cera Khin
-- KUKO
 - Kalte Liebe
+- KUKO
 - Nicolas Julian
 - TOXIMAMI
 - Ueberrest

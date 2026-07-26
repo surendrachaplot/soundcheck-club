@@ -20,8 +20,9 @@ Blank Holidays Festival Weekender at ://about blank on Sat 1 Aug, Berlin. 25 act
 - Barbara Hofmann
 - Biesmans
 - CHOREOPHILA
-- DJ Eivissa
 - Diwa
+- DJ Eivissa
+- eva h.
 - Hanna Baertig
 - Iron Curtis
 - Jessamine
@@ -34,6 +35,5 @@ Blank Holidays Festival Weekender at ://about blank on Sat 1 Aug, Berlin. 25 act
 - Shubostar
 - Sportbrigade Sparwasser
 - Wasn & Wunderwaffel
-- eva h.
 
 *Source: [soundcheck](https://soundcheck.club/e/2313118-blank-holidays-festival-weekender-at-about-blank/)*

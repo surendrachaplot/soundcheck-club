@@ -14,18 +14,18 @@ Heave Festival on Fri 25 Sept, Madrid. 17 acts on the bill: Baldman, Bibi, Bleac
 - Bibi
 - Bleach
 - Deceit
+- exuvia
 - Forest On Stasys
 - Gala (ES)
-- ISA (ES)
 - Ina Kacz
+- ISA (ES)
 - NDSTPS
-- NULOMARIO (ES)
 - Ness
 - Nick Höppner
+- NULOMARIO (ES)
 - Penelope (2)
 - SENDA FATAL
 - Sergi (ES)
 - Vera
-- exuvia
 
 *Source: [soundcheck](https://soundcheck.club/e/2382432-heave-festival-at-heave-festival/)*

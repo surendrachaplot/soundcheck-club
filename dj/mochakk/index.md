@@ -1,14 +1,13 @@
 # Mochakk
 
-Mochakk is a House and Techno artist with 11 upcoming club dates listed on soundcheck as of Sat, 25 Jul 2026, next at Rebstockpark, Frankfurt on Sat, 25 Jul 2026.
+Mochakk is a House and Techno artist with 10 upcoming club dates listed on soundcheck as of Sun, 26 Jul 2026, next at Santanna Mykonos, Mykonos on Sat, 1 Aug 2026.
 
-Mochakk is a house and techno artist tracked on soundcheck, with 152 sets logged across Amsterdam, Austin, Barcelona and Basel and 40 more. Often billed alongside Seth Troxler, Chloé Caillet and DJ Tennis. Next up: Rebstockpark, Frankfurt on Sat 25 Jul.
+Mochakk is a house and techno artist tracked on soundcheck, with 152 sets logged across Amsterdam, Austin, Barcelona and Basel and 40 more. Often billed alongside Seth Troxler, Chloé Caillet and DJ Tennis. Next up: Santanna Mykonos, Mykonos on Sat 1 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 25 Jul 2026 | Rebstockpark | Frankfurt |
 | Sat, 1 Aug 2026 | Santanna Mykonos | Mykonos |
 | Mon, 3 Aug 2026 | DC-10 | Ibiza |
 | Mon, 24 Aug 2026 | DC-10 | Ibiza |
@@ -22,6 +21,7 @@ Mochakk is a house and techno artist tracked on soundcheck, with 152 sets logged
 
 ## Recently played
 
+- Rebstockpark, Frankfurt — Sat, 25 Jul 2026
 - Sportpark Riekerhaven, Amsterdam — Sat, 18 Jul 2026
 - DC-10, Ibiza — Mon, 6 Jul 2026
 - Parco Dora, Turin — Fri, 3 Jul 2026
@@ -29,10 +29,9 @@ Mochakk is a house and techno artist tracked on soundcheck, with 152 sets logged
 - TBA - Paradise City Festival, Brussels — Fri, 26 Jun 2026
 - DC-10, Ibiza — Mon, 22 Jun 2026
 - Poble Espanyol, Barcelona — Sat, 20 Jun 2026
-- Autódromo de Interlagos, Sao Paulo — Fri, 5 Jun 2026
 
 ## Shares bills with
 
 Seth Troxler, Chloé Caillet, DJ Tennis
 
-*Updated Sat, 25 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/mochakk/)*
+*Updated Sun, 26 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/mochakk/)*

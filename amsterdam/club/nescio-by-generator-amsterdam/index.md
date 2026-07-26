@@ -1,6 +1,6 @@
 # Nescio - by Generator Amsterdam
 
-Nescio - by Generator Amsterdam is a music venue in Amsterdam with 1 upcoming night listed on soundcheck as of Sat, 25 Jul 2026; the next is "Hunkering Gay Pride After festival" on Sat, 1 Aug 2026.
+Nescio - by Generator Amsterdam is a music venue in Amsterdam with 1 upcoming night listed on soundcheck as of Sun, 26 Jul 2026; the next is "Hunkering Gay Pride After festival" on Sat, 1 Aug 2026.
 
 Nescio - by Generator Amsterdam is a music venue in Amsterdam listed on soundcheck. 1 upcoming night, with line-ups including ARTE-MAS, KUKO and Steve Kennedy. Browse upcoming dates, start times and who's playing. Mauritskade 57, 1092AD, Amsterdam, Netherlands.
 
@@ -14,4 +14,4 @@ Nescio - by Generator Amsterdam is a music venue in Amsterdam listed on soundche
 
 Mauritskade 57, 1092AD, Amsterdam, Netherlands, Amsterdam
 
-*Updated Sat, 25 Jul 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/nescio-by-generator-amsterdam/)*
+*Updated Sun, 26 Jul 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/nescio-by-generator-amsterdam/)*

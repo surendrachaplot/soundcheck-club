@@ -1,6 +1,6 @@
 # Verushka
 
-Verushka is a House and Club artist with 3 upcoming club dates listed on soundcheck as of Sat, 25 Jul 2026, next at La Terrrazza, Barcelona on Fri, 31 Jul 2026.
+Verushka is a House and Club artist with 3 upcoming club dates listed on soundcheck as of Sun, 26 Jul 2026, next at La Terrrazza, Barcelona on Fri, 31 Jul 2026.
 
 Verushka is a house and club artist tracked on soundcheck, with 94 sets logged across Amsterdam, Barcelona, Berlin and Brussels and 9 more. Often billed alongside Meritxell De Soto, Acidnena and Hello Sasy. Next up: La Terrrazza, Barcelona on Fri 31 Jul.
 
@@ -27,4 +27,4 @@ Verushka is a house and club artist tracked on soundcheck, with 94 sets logged a
 
 Meritxell De Soto, Acidnena, Hello Sasy
 
-*Updated Sat, 25 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/verushka/)*
+*Updated Sun, 26 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/verushka/)*

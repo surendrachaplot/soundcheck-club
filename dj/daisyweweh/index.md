@@ -1,8 +1,8 @@
 # Daisy Weweh
 
-Daisy Weweh is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Sat, 25 Jul 2026, next at Shelter Amsterdam, Amsterdam on Fri, 31 Jul 2026.
+Daisy Weweh is a House and Techno artist with 4 upcoming club dates listed on soundcheck as of Sun, 26 Jul 2026, next at Shelter Amsterdam, Amsterdam on Fri, 31 Jul 2026.
 
-Daisy Weweh is a house and techno artist tracked on soundcheck, with 73 sets logged across Amsterdam, Belgrade, Berlin and Brussels and 5 more. Often billed alongside Jean Mauj, Anton Jonathan and Carl Bergé. Next up: Shelter Amsterdam, Amsterdam on Fri 31 Jul.
+Daisy Weweh is a house and techno artist tracked on soundcheck, with 74 sets logged across Amsterdam, Belgrade, Berlin and Brussels and 5 more. Often billed alongside Jean Mauj, Anton Jonathan and Carl Bergé. Next up: Shelter Amsterdam, Amsterdam on Fri 31 Jul.
 
 ## Upcoming shows
 
@@ -11,6 +11,7 @@ Daisy Weweh is a house and techno artist tracked on soundcheck, with 73 sets log
 | Fri, 31 Jul 2026 | Shelter Amsterdam | Amsterdam |
 | Sat, 15 Aug 2026 | SAGE | Berlin |
 | Sat, 19 Sept 2026 | Chausseestrasse 131 | Berlin |
+| Sat, 24 Oct 2026 | RAWFACTORY | Amsterdam |
 
 ## Recently played
 
@@ -27,4 +28,4 @@ Daisy Weweh is a house and techno artist tracked on soundcheck, with 73 sets log
 
 Jean Mauj, Anton Jonathan, Carl Bergé
 
-*Updated Sat, 25 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/daisyweweh/)*
+*Updated Sun, 26 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/daisyweweh/)*

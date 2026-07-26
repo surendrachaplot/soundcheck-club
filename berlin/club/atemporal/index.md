@@ -1,15 +1,13 @@
 # Atemporal
 
-Atemporal is a music venue in Berlin with 7 upcoming nights listed on soundcheck as of Sat, 25 Jul 2026; the next is "Dumama Listening Session: Towards an Expanse , Q&A & Fundraiser for Housing Support" on Sat, 25 Jul 2026.
+Atemporal is a music venue in Berlin with 5 upcoming nights listed on soundcheck as of Sun, 26 Jul 2026; the next is "Tea and Sound performance with Transforma Studio" on Thu, 30 Jul 2026.
 
-Atemporal is a music venue in Berlin listed on soundcheck. 7 upcoming nights, with line-ups including Jank Inc. and Zahra. Browse upcoming dates, start times and who's playing. Boxhagener Str. 96 1st floor left, 10245 Berlin.
+Atemporal is a music venue in Berlin listed on soundcheck. 5 upcoming nights, with line-ups including Jank Inc. and Zahra. Browse upcoming dates, start times and who's playing. Boxhagener Str. 96 1st floor left, 10245 Berlin.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Sat, 25 Jul 2026 | Dumama Listening Session: Towards an Expanse , Q&A & Fundraiser for Housing Support |  |
-| Sat, 25 Jul 2026 | Huh Namhoon (Seoul, South Korea) — solo ambient performance |  |
 | Thu, 30 Jul 2026 | Tea and Sound performance with Transforma Studio |  |
 | Sat, 1 Aug 2026 | Everything Poetic -  douniah Listening Session + screening |  |
 | Thu, 6 Aug 2026 | Listening & Screen Session with Q&A Jesse Rae – The Flesher (PACE007) | Jank Inc. |
@@ -20,4 +18,4 @@ Atemporal is a music venue in Berlin listed on soundcheck. 7 upcoming nights, wi
 
 Boxhagener Str. 96 1st floor left, 10245 Berlin, Berlin
 
-*Updated Sat, 25 Jul 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/atemporal/)*
+*Updated Sun, 26 Jul 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/atemporal/)*

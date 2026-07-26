@@ -1,6 +1,6 @@
 # ¥ØU$UK€ ¥UK1MAT$U at Haus der Visionäre
 
-¥ØU$UK€ ¥UK1MAT$U at Haus der Visionäre on Thu 20 Aug, Berlin. 3 acts on the bill: Errorsmith, yungfya and ¥ØU$UK€ ¥UK1MAT$U. Breakbeat and Club. Preview the line-up and save it on soundcheck.
+¥ØU$UK€ ¥UK1MAT$U at Haus der Visionäre on Thu 20 Aug, Berlin. 3 acts on the bill: ¥ØU$UK€ ¥UK1MAT$U, Errorsmith and yungfya. Breakbeat and Club. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,8 +10,8 @@
 
 ## Line-up
 
+- ¥ØU$UK€ ¥UK1MAT$U
 - Errorsmith
 - yungfya
-- ¥ØU$UK€ ¥UK1MAT$U
 
 *Source: [soundcheck](https://soundcheck.club/e/2440034-u-uk-uk1mat-u-at-haus-der-vision-re/)*

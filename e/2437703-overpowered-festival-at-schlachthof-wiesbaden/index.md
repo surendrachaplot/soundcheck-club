@@ -25,9 +25,9 @@ OVERPOWERED FESTIVAL at Schlachthof Wiesbaden on Sat 29 Aug, Frankfurt. 19 acts 
 - Nils Primas
 - SCHEPPAT
 - SHOKI287
-- TYSK
 - The Jakob Sister
 - TiDo
 - two girls one mom
+- TYSK
 
 *Source: [soundcheck](https://soundcheck.club/e/2437703-overpowered-festival-at-schlachthof-wiesbaden/)*

@@ -1,14 +1,13 @@
 # Prunk
 
-Prunk is a House and Tech House artist with 21 upcoming club dates listed on soundcheck as of Sat, 25 Jul 2026, next at [UNVRS], Ibiza on Sat, 25 Jul 2026.
+Prunk is a House and Tech House artist with 20 upcoming club dates listed on soundcheck as of Sun, 26 Jul 2026, next at Cova Santa, Ibiza on Tue, 28 Jul 2026.
 
-Prunk is a house and tech house artist tracked on soundcheck, with 292 sets logged across Amsterdam, Antwerp, Austin and Bali and 41 more. Often billed alongside Kellie Allen, M-High and Robbie Doherty. Next up: [UNVRS], Ibiza on Sat 25 Jul.
+Prunk is a house and tech house artist tracked on soundcheck, with 292 sets logged across Amsterdam, Antwerp, Austin and Bali and 41 more. Often billed alongside Kellie Allen, M-High and Robbie Doherty. Next up: Cova Santa, Ibiza on Tue 28 Jul.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 25 Jul 2026 | [UNVRS] | Ibiza |
 | Tue, 28 Jul 2026 | Cova Santa | Ibiza |
 | Fri, 7 Aug 2026 | Colorado Charlie | The Hague |
 | Sat, 8 Aug 2026 | Sloterpark | Amsterdam |
@@ -20,9 +19,11 @@ Prunk is a house and tech house artist tracked on soundcheck, with 292 sets logg
 | Sun, 6 Sept 2026 | Los Angeles State Historic Park | Los Angeles |
 | Tue, 8 Sept 2026 | Cova Santa | Ibiza |
 | Thu, 10 Sept 2026 | Chinois Ibiza | Ibiza |
+| Sat, 12 Sept 2026 | Kralingse Bos | Rotterdam |
 
 ## Recently played
 
+- [UNVRS], Ibiza — Sat, 25 Jul 2026
 - Ushuaïa Ibiza, Ibiza — Sat, 18 Jul 2026
 - W Barcelona, Barcelona — Sun, 12 Jul 2026
 - Hembrugterrein, Amsterdam — Sat, 11 Jul 2026
@@ -30,10 +31,9 @@ Prunk is a house and tech house artist tracked on soundcheck, with 292 sets logg
 - Thuishaven, Amsterdam — Sun, 5 Jul 2026
 - Parco Dora, Turin — Fri, 3 Jul 2026
 - Amok Club, Mallorca — Sun, 28 Jun 2026
-- Pacha Ibiza, Ibiza — Fri, 26 Jun 2026
 
 ## Shares bills with
 
 Kellie Allen, M-High, Robbie Doherty
 
-*Updated Sat, 25 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/prunk/)*
+*Updated Sun, 26 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/prunk/)*

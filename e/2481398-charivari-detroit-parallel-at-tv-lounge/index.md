@@ -1,6 +1,6 @@
 # Charivari Detroit • Parallel at TV Lounge
 
-Charivari Detroit • Parallel at TV Lounge on Thu 13 Aug, Detroit. 24 acts on the bill: DJ Bone, DJ Seoul, DJ Spen and Dantiez and 20 more. Techno and House. Preview the line-up and save it on soundcheck.
+Charivari Detroit • Parallel at TV Lounge on Thu 13 Aug, Detroit. 24 acts on the bill: britty., Dantiez, Disc Jockey George and DJ Bone and 20 more. Techno and House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,11 +10,12 @@ Charivari Detroit • Parallel at TV Lounge on Thu 13 Aug, Detroit. 24 acts on t
 
 ## Line-up
 
+- britty.
+- Dantiez
+- Disc Jockey George
 - DJ Bone
 - DJ Seoul
 - DJ Spen
-- Dantiez
-- Disc Jockey George
 - Duck Trash
 - Eddie Fowlkes
 - Eddie Logix
@@ -29,10 +30,9 @@ Charivari Detroit • Parallel at TV Lounge on Thu 13 Aug, Detroit. 24 acts on t
 - RAEDY LEX
 - Ryan Sadorus
 - Satoshi Tomiie
+- sillygirlcarmen
 - TCHiLT
 - Terrence Parker
-- britty.
-- sillygirlcarmen
 - we1sman
 
 *Source: [soundcheck](https://soundcheck.club/e/2481398-charivari-detroit-parallel-at-tv-lounge/)*

@@ -1,6 +1,6 @@
 # Fantazia - Document Open Air at Document
 
-Fantazia - Document Open Air on Sun 30 Aug, Bristol. 8 acts on the bill: Altern-8, Cheff The Boy, Chinese Daughter and DJ Seduction and 4 more. Breakbeat and Jungle. Preview the line-up and save it on soundcheck.
+Fantazia - Document Open Air on Sun 30 Aug, Bristol. 8 acts on the bill: Altern-8, Cheff The Boy, Chinese Daughter and Denham Audio and 4 more. Breakbeat and Jungle. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -13,8 +13,8 @@ Fantazia - Document Open Air on Sun 30 Aug, Bristol. 8 acts on the bill: Altern-
 - Altern-8
 - Cheff The Boy
 - Chinese Daughter
-- DJ Seduction
 - Denham Audio
+- DJ Seduction
 - Fez the Kid
 - Origin8a & Propa
 - Pete Cannon

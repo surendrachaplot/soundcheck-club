@@ -1,6 +1,6 @@
 # sWARM signals 08: Cross-Genre Club Night - 1 Year Anniversary Fundraiser at Aaja Basement
 
-sWARM signals 08: Cross-Genre Club Night - 1 Year Anniversary Fundraiser at Aaja Basement on Fri 7 Aug, London. 5 acts on the bill: DungeonMaster, MUSICKLUNATIC, Mamula and NakedAggressionDJ and 1 more. Acid and Club. Preview the line-up and save it on soundcheck.
+sWARM signals 08: Cross-Genre Club Night - 1 Year Anniversary Fundraiser at Aaja Basement on Fri 7 Aug, London. 5 acts on the bill: DungeonMaster, Mamula, MUSICKLUNATIC and NakedAggressionDJ and 1 more. Acid and Club. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -11,8 +11,8 @@ sWARM signals 08: Cross-Genre Club Night - 1 Year Anniversary Fundraiser at Aaja
 ## Line-up
 
 - DungeonMaster
-- MUSICKLUNATIC
 - Mamula
+- MUSICKLUNATIC
 - NakedAggressionDJ
 - Polyop
 

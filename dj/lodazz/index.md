@@ -1,6 +1,6 @@
 # Lo Dazz
 
-Lo Dazz is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Sat, 25 Jul 2026, next at Spkrbox, Detroit on Tue, 28 Jul 2026.
+Lo Dazz is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Sun, 26 Jul 2026, next at Spkrbox, Detroit on Tue, 28 Jul 2026.
 
 Lo Dazz is a techno and house artist based in United States of America, tracked on soundcheck, with 60 sets logged across Boston and Detroit. Often billed alongside Lady Witch, Hardin and Auntie Chanel. Next up: Spkrbox, Detroit on Tue 28 Jul.
 
@@ -26,4 +26,4 @@ Lo Dazz is a techno and house artist based in United States of America, tracked 
 
 Lady Witch, Hardin, Auntie Chanel
 
-*Updated Sat, 25 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/lodazz/)*
+*Updated Sun, 26 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/lodazz/)*

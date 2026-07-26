@@ -15,9 +15,9 @@ SOUND SOUND HEATWAVE with DJ GUESTLIST, WOLTERS & MORE at Schrotty on Sat 8 Aug,
 - Domenik Deckert
 - LOUVE (DE)
 - Mike Momburg
+- paaradoxx
 - Ursula Erdmann
 - WOLTERS
 - ZAHNATZIN
-- paaradoxx
 
 *Source: [soundcheck](https://soundcheck.club/e/2472134-sound-sound-heatwave-with-dj-guestlist-wolters-more-at-schro/)*

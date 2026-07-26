@@ -1,6 +1,6 @@
 # Dustin Zahn / Nastia Reigel / NEUX / / Eau De Cologne: Natuta / MVHY / Mutualism at BASEMENT
 
-Dustin Zahn / Nastia Reigel / NEUX / / Eau De Cologne: Natuta / MVHY / Mutualism at BASEMENT on Sat 22 Aug, Newyorkcity. 6 acts on the bill: Dustin Zahn, MVHY, Mutualism and NEUX and 2 more. Preview the line-up and save it on soundcheck.
+Dustin Zahn / Nastia Reigel / NEUX / / Eau De Cologne: Natuta / MVHY / Mutualism at BASEMENT on Sat 22 Aug, Newyorkcity. 6 acts on the bill: Dustin Zahn, Mutualism, MVHY and Nastia Reigel and 2 more. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -11,10 +11,10 @@ Dustin Zahn / Nastia Reigel / NEUX / / Eau De Cologne: Natuta / MVHY / Mutualism
 ## Line-up
 
 - Dustin Zahn
-- MVHY
 - Mutualism
-- NEUX
+- MVHY
 - Nastia Reigel
 - Natuta
+- NEUX
 
 *Source: [soundcheck](https://soundcheck.club/e/2482515-dustin-zahn-nastia-reigel-neux-eau-de-cologne-natuta-mvhy-mu/)*

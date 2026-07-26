@@ -1,6 +1,6 @@
 # PART 2 BBE Music 30th Birthday Party at NUMBER 90 LONDON
 
-PART 2 BBE Music 30th Birthday Party at NUMBER 90 LONDON on Sun 30 Aug, London. 18 acts on the bill: Al Kent, DJ Amir, DJ Kon and Handson Family and 14 more. Preview the line-up and save it on soundcheck.
+PART 2 BBE Music 30th Birthday Party at NUMBER 90 LONDON on Sun 30 Aug, London. 19 acts on the bill: Al Kent, Dimitri From Paris, DJ Amir and DJ Kon and 15 more. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -11,15 +11,16 @@ PART 2 BBE Music 30th Birthday Party at NUMBER 90 LONDON on Sun 30 Aug, London. 
 ## Line-up
 
 - Al Kent
+- Dimitri From Paris
 - DJ Amir
 - DJ Kon
 - Handson Family
 - John Morales
 - Kev Beadle
 - Kyri R2
-- MUSCLECARS
 - Martin Lodge
 - Mr Thing
+- MUSCLECARS
 - Neil Pierce
 - Osunlade
 - Patrick Steele

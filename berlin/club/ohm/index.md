@@ -1,6 +1,6 @@
 # OHM
 
-OHM is a music venue in Berlin with 17 upcoming nights listed on soundcheck as of Sat, 25 Jul 2026; the next is "Ouch x FemmeDecks" on Fri, 31 Jul 2026.
+OHM is a music venue in Berlin with 17 upcoming nights listed on soundcheck as of Sun, 26 Jul 2026; the next is "Ouch x FemmeDecks" on Fri, 31 Jul 2026.
 
 OHM is a music venue in Berlin listed on soundcheck. 17 upcoming nights, with line-ups including Alexy, Anja Schneider, Aton and Banu and 2 more. Browse upcoming dates, start times and who's playing. Köpenicker Str. 70, 10179 Berlin, Germany.
 
@@ -23,4 +23,4 @@ OHM is a music venue in Berlin listed on soundcheck. 17 upcoming nights, with li
 
 Köpenicker Str. 70, 10179 Berlin, Germany, Berlin
 
-*Updated Sat, 25 Jul 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/ohm/)*
+*Updated Sun, 26 Jul 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/ohm/)*

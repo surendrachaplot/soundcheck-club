@@ -1,6 +1,6 @@
 # C+C Music Factory (Live), DJ Miss Parker, Latino Drive, S4M23 + MORENXXX, Coyado at Paragon
 
-C+C Music Factory (Live), DJ Miss Parker, Latino Drive, S4M23 + MORENXXX, Coyado at Paragon on Fri 14 Aug, Newyorkcity. 6 acts on the bill: Coyado, DREAMINSLOW, MORENXXX and Miss Parker and 2 more. Techno and House. Preview the line-up and save it on soundcheck.
+C+C Music Factory (Live), DJ Miss Parker, Latino Drive, S4M23 + MORENXXX, Coyado at Paragon on Fri 14 Aug, Newyorkcity. 6 acts on the bill: Coyado, DREAMINSLOW, Miss Parker and MORENXXX and 2 more. Techno and House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -12,8 +12,8 @@ C+C Music Factory (Live), DJ Miss Parker, Latino Drive, S4M23 + MORENXXX, Coyado
 
 - Coyado
 - DREAMINSLOW
-- MORENXXX
 - Miss Parker
+- MORENXXX
 - Muerte Lenta
 - S4M23
 

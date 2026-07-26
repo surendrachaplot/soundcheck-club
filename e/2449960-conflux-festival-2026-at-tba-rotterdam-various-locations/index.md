@@ -14,10 +14,10 @@ Conflux Festival 2026 at TBA - Rotterdam Various Locations on Thu 24 Sept, Rotte
 - Alex Zhang Hungtai
 - Animistic Beliefs
 - Anton Filatov
+- bela
 - Concepción Huerta
 - Genyten
 - Merzbow
 - Wallis
-- bela
 
 *Source: [soundcheck](https://soundcheck.club/e/2449960-conflux-festival-2026-at-tba-rotterdam-various-locations/)*

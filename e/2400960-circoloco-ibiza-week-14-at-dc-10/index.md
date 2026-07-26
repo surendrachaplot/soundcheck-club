@@ -14,8 +14,8 @@ CircoLoco Ibiza - Week 14 at DC-10 on Mon 27 Jul, Ibiza. 15 acts on the bill: Au
 - Beltran
 - Carlita
 - Chaos In The CBD
-- DESIREE (RSA)
 - Dean Turnley
+- DESIREE (RSA)
 - Francesco Del Garda
 - Jamback
 - Lawrence

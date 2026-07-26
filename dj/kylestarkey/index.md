@@ -1,14 +1,13 @@
 # Kyle Starkey
 
-Kyle Starkey is a Techno and House artist with 18 upcoming club dates listed on soundcheck as of Sat, 25 Jul 2026, next at Lieberscholli, Munich on Sat, 25 Jul 2026.
+Kyle Starkey is a Techno and House artist with 18 upcoming club dates listed on soundcheck as of Sun, 26 Jul 2026, next at Bowlers Exhibition Centre, Manchester on Sat, 1 Aug 2026.
 
-Kyle Starkey is a techno and house artist tracked on soundcheck, with 155 sets logged across Aberdeen, Amsterdam, Antwerp and Barcelona and 33 more. Often billed alongside DART, Benwal and Faster Horses. Next up: Lieberscholli, Munich on Sat 25 Jul.
+Kyle Starkey is a techno and house artist tracked on soundcheck, with 156 sets logged across Aberdeen, Amsterdam, Antwerp and Barcelona and 33 more. Often billed alongside DART, Benwal and Faster Horses. Next up: Bowlers Exhibition Centre, Manchester on Sat 1 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 25 Jul 2026 | Lieberscholli | Munich |
 | Sat, 1 Aug 2026 | Bowlers Exhibition Centre | Manchester |
 | Fri, 7 Aug 2026 | Night Tales | London |
 | Sat, 8 Aug 2026 | Sloterpark | Amsterdam |
@@ -20,9 +19,11 @@ Kyle Starkey is a techno and house artist tracked on soundcheck, with 155 sets l
 | Sat, 5 Sept 2026 | Mondo | Madrid |
 | Sat, 12 Sept 2026 | Laagravense Plas | Utrecht |
 | Mon, 14 Sept 2026 | Amnesia Ibiza | Ibiza |
+| Thu, 17 Sept 2026 | Moon Club | Bristol |
 
 ## Recently played
 
+- Lieberscholli, Munich — Sat, 25 Jul 2026
 - Recreatiegebied Middelwaard, Utrecht — Sat, 4 Jul 2026
 - Stadshaven Brouwerij, Rotterdam — Sat, 4 Jul 2026
 - TBA - Paradise City Festival, Brussels — Fri, 26 Jun 2026
@@ -30,10 +31,9 @@ Kyle Starkey is a techno and house artist tracked on soundcheck, with 155 sets l
 - Club 69, Glasgow — Fri, 19 Jun 2026
 - RSO.BERLIN, Berlin — Sat, 13 Jun 2026
 - NUMBER 90 LONDON, London — Wed, 10 Jun 2026
-- Baltic Triangle, Liverpool — Fri, 29 May 2026
 
 ## Shares bills with
 
 DART, Benwal, Faster Horses
 
-*Updated Sat, 25 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/kylestarkey/)*
+*Updated Sun, 26 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/kylestarkey/)*

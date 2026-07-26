@@ -1,6 +1,6 @@
 # Tresor New Faces hosted by E2NMN at Tresor / Globus
 
-Tresor New Faces hosted by E2NMN at Tresor / Globus on Wed 5 Aug, Berlin. 4 acts on the bill: CESTEK, Gioski, Miss Italia and manu abeca. Preview the line-up and save it on soundcheck.
+Tresor New Faces hosted by E2NMN at Tresor / Globus on Wed 5 Aug, Berlin. 4 acts on the bill: CESTEK, Gioski, manu abeca and Miss Italia. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -12,7 +12,7 @@ Tresor New Faces hosted by E2NMN at Tresor / Globus on Wed 5 Aug, Berlin. 4 acts
 
 - CESTEK
 - Gioski
-- Miss Italia
 - manu abeca
+- Miss Italia
 
 *Source: [soundcheck](https://soundcheck.club/e/2479413-tresor-new-faces-hosted-by-e2nmn-at-tresor-globus/)*

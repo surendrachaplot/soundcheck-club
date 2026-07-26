@@ -22,6 +22,7 @@ House Passion x Zinc: Terminal 4 Bday set, Live PA: Right Before My Eyes at Mini
 - Hotsteppa
 - Ill Blu
 - Jerome Six
+- kismet
 - MFD
 - Pioneer
 - Shenin Amara
@@ -29,6 +30,5 @@ House Passion x Zinc: Terminal 4 Bday set, Live PA: Right Before My Eyes at Mini
 - Teaser DJ
 - Tippa
 - William Quintero (2)
-- kismet
 
 *Source: [soundcheck](https://soundcheck.club/e/2354403-house-passion-x-zinc-terminal-4-bday-set-live-pa-right-befor/)*

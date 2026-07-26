@@ -1,6 +1,6 @@
 # TranceParty:Flightpath at FOLD
 
-TranceParty:Flightpath at FOLD on Sat 29 Aug, London. 8 acts on the bill: Evian Christ, LSG, Oliver Lieb and adobeprincess and 4 more. Preview the line-up and save it on soundcheck.
+TranceParty:Flightpath at FOLD on Sat 29 Aug, London. 8 acts on the bill: adobeprincess, amil raja, Evian Christ and exlruth and 4 more. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,12 +10,12 @@ TranceParty:Flightpath at FOLD on Sat 29 Aug, London. 8 acts on the bill: Evian 
 
 ## Line-up
 
-- Evian Christ
-- LSG
-- Oliver Lieb
 - adobeprincess
 - amil raja
+- Evian Christ
 - exlruth
+- LSG
+- Oliver Lieb
 - seretide
 - yaego
 

@@ -1,6 +1,6 @@
 # SANCTUM OF SOUND - AUGUST EDITION at MaHalla
 
-SANCTUM OF SOUND - AUGUST EDITION at MaHalla on Sun 2 Aug, Berlin. 4 acts on the bill: Cleymoore, Mario Verandi, Tonbo and rubi*. Ambient and Experimental. Preview the line-up and save it on soundcheck.
+SANCTUM OF SOUND - AUGUST EDITION at MaHalla on Sun 2 Aug, Berlin. 4 acts on the bill: Cleymoore, Mario Verandi, rubi* and Tonbo. Ambient and Experimental. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -12,7 +12,7 @@ SANCTUM OF SOUND - AUGUST EDITION at MaHalla on Sun 2 Aug, Berlin. 4 acts on the
 
 - Cleymoore
 - Mario Verandi
-- Tonbo
 - rubi*
+- Tonbo
 
 *Source: [soundcheck](https://soundcheck.club/e/2491019-sanctum-of-sound-august-edition-at-mahalla/)*

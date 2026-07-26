@@ -1,6 +1,6 @@
 # Broadwick Live presents: Cristoph, Giolì & Assia, hitty, Low Steppa, Layla Benitez + more at fabric
 
-Broadwick Live presents: Cristoph, Giolì & Assia, hitty, Low Steppa, Layla Benitez + more at fabric on Fri 14 Aug, London. 7 acts on the bill: Brina Knauss, Cristoph, Giolì & Assia and Layla Benitez and 3 more. Tech House. Preview the line-up and save it on soundcheck.
+Broadwick Live presents: Cristoph, Giolì & Assia, hitty, Low Steppa, Layla Benitez + more at fabric on Fri 14 Aug, London. 7 acts on the bill: Brina Knauss, Cristoph, Giolì & Assia and hitty and 3 more. Tech House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -13,9 +13,9 @@ Broadwick Live presents: Cristoph, Giolì & Assia, hitty, Low Steppa, Layla Beni
 - Brina Knauss
 - Cristoph
 - Giolì & Assia
+- hitty
 - Layla Benitez
 - Lowsteppa
 - Paisley Jensen
-- hitty
 
 *Source: [soundcheck](https://soundcheck.club/e/2454549-broadwick-live-presents-cristoph-giol-assia-hitty-low-steppa/)*

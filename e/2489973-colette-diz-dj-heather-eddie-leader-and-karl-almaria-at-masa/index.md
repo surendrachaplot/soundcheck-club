@@ -1,6 +1,6 @@
 # Colette, Diz, DJ Heather, Eddie Leader and Karl Almaria at Masada
 
-Colette, Diz, DJ Heather, Eddie Leader and Karl Almaria at Masada on Sat 1 Aug, Chicago. 5 acts on the bill: DJ Colette, DJ Heather, Diz (1) and Eddie Leader and 1 more. House and Deep House. Preview the line-up and save it on soundcheck.
+Colette, Diz, DJ Heather, Eddie Leader and Karl Almaria at Masada on Sat 1 Aug, Chicago. 5 acts on the bill: Diz (1), DJ Colette, DJ Heather and Eddie Leader and 1 more. House and Deep House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,9 +10,9 @@ Colette, Diz, DJ Heather, Eddie Leader and Karl Almaria at Masada on Sat 1 Aug, 
 
 ## Line-up
 
+- Diz (1)
 - DJ Colette
 - DJ Heather
-- Diz (1)
 - Eddie Leader
 - Karl Almaria
 

@@ -1,6 +1,6 @@
 # Tusculum Prague
 
-Tusculum Prague is a music venue in Prague with 4 upcoming nights listed on soundcheck as of Sat, 25 Jul 2026; the next is "Tusculum Live: Obelisk of Light" on Tue, 28 Jul 2026.
+Tusculum Prague is a music venue in Prague with 4 upcoming nights listed on soundcheck as of Sun, 26 Jul 2026; the next is "Tusculum Live: Obelisk of Light" on Tue, 28 Jul 2026.
 
 Tusculum Prague is a music venue in Prague listed on soundcheck. 4 upcoming nights. Browse upcoming dates, start times and who's playing. Chittussiho 144/1 Prague 6.
 
@@ -17,4 +17,4 @@ Tusculum Prague is a music venue in Prague listed on soundcheck. 4 upcoming nigh
 
 Chittussiho 144/1 Prague 6, Prague
 
-*Updated Sat, 25 Jul 2026 · source: [soundcheck](https://soundcheck.club/prague/club/tusculum-prague/)*
+*Updated Sun, 26 Jul 2026 · source: [soundcheck](https://soundcheck.club/prague/club/tusculum-prague/)*

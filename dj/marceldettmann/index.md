@@ -1,14 +1,13 @@
 # Marcel Dettmann
 
-Marcel Dettmann is a Techno and House artist with 11 upcoming club dates listed on soundcheck as of Sat, 25 Jul 2026, next at Boston Manor Park, London on Sat, 25 Jul 2026.
+Marcel Dettmann is a Techno and House artist with 11 upcoming club dates listed on soundcheck as of Sun, 26 Jul 2026, next at Amsterdamse Bos, Amsterdam on Wed, 29 Jul 2026.
 
-Marcel Dettmann is a techno and house artist tracked on soundcheck, with 248 sets logged across Amsterdam, Antwerp, Athens and Austin and 61 more. Often billed alongside Ben Klock, Ogazón and BASHKKA. Next up: Boston Manor Park, London on Sat 25 Jul.
+Marcel Dettmann is a techno and house artist tracked on soundcheck, with 249 sets logged across Amsterdam, Antwerp, Athens and Austin and 61 more. Often billed alongside Ben Klock, Ogazón and BASHKKA. Next up: Amsterdamse Bos, Amsterdam on Wed 29 Jul.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 25 Jul 2026 | Boston Manor Park | London |
 | Wed, 29 Jul 2026 | Amsterdamse Bos | Amsterdam |
 | Fri, 31 Jul 2026 | BLITZ | Munich |
 | Sun, 2 Aug 2026 | Amsterdamse Bos | Amsterdam |
@@ -19,9 +18,11 @@ Marcel Dettmann is a techno and house artist tracked on soundcheck, with 248 set
 | Fri, 18 Sept 2026 | Fort Mifflin | Philadelphia |
 | Sat, 17 Oct 2026 | Plaza Monumental de Barcelona | Barcelona |
 | Fri, 23 Oct 2026 | WestWeelde | Amsterdam |
+| Sat, 24 Oct 2026 | RADION | Amsterdam |
 
 ## Recently played
 
+- Boston Manor Park, London — Sat, 25 Jul 2026
 - MS Artville, Hamburg — Sat, 18 Jul 2026
 - Bolivar Beach Bar, Athens — Sat, 18 Jul 2026
 - Parco Dora, Turin — Fri, 3 Jul 2026
@@ -29,10 +30,9 @@ Marcel Dettmann is a techno and house artist tracked on soundcheck, with 248 set
 - 528 Ibiza, Ibiza — Tue, 16 Jun 2026
 - Fira Gran Via, Barcelona — Mon, 15 Jun 2026
 - essaim, Paris — Fri, 12 Jun 2026
-- Amsterdamse Bos, Amsterdam — Sat, 6 Jun 2026
 
 ## Shares bills with
 
 Ben Klock, Ogazón, BASHKKA
 
-*Updated Sat, 25 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/marceldettmann/)*
+*Updated Sun, 26 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/marceldettmann/)*

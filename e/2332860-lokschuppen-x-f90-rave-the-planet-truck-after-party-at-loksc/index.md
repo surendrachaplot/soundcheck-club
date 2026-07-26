@@ -1,6 +1,6 @@
 # LOKSCHUPPEN x F90 Rave The Planet Truck + After Party at Lokschuppen Berlin
 
-LOKSCHUPPEN x F90 Rave The Planet Truck + After Party at Lokschuppen Berlin on Sat 15 Aug, Berlin. 15 acts on the bill: ARGOT, Amøn, Cara Elizabeth and DJ DRECKISCH and 11 more. Trance. Preview the line-up and save it on soundcheck.
+LOKSCHUPPEN x F90 Rave The Planet Truck + After Party at Lokschuppen Berlin on Sat 15 Aug, Berlin. 15 acts on the bill: Amøn, ARGOT, Cara Elizabeth and DJ DRECKISCH and 11 more. Trance. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,8 +10,8 @@ LOKSCHUPPEN x F90 Rave The Planet Truck + After Party at Lokschuppen Berlin on S
 
 ## Line-up
 
-- ARGOT
 - Amøn
+- ARGOT
 - Cara Elizabeth
 - DJ DRECKISCH
 - DJ Henk
@@ -20,8 +20,8 @@ LOKSCHUPPEN x F90 Rave The Planet Truck + After Party at Lokschuppen Berlin on S
 - KLING&KLANG
 - LEAH (3)
 - Part Time Killer
-- SPEEDBOYS
 - Shoshone
+- SPEEDBOYS
 - Tess (MU)
 - two girls one mom
 - zwilling.

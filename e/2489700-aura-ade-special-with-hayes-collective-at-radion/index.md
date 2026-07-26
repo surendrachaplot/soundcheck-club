@@ -1,6 +1,6 @@
 # AURA ADE Special with Hayes Collective at RADION
 
-AURA ADE Special with Hayes Collective at RADION on Fri 23 Oct, Amsterdam. 9 acts on the bill: CRAVO, Chami, Hashashin and Justine Perry and 5 more. Techno. Preview the line-up and save it on soundcheck.
+AURA ADE Special with Hayes Collective at RADION on Fri 23 Oct, Amsterdam. 9 acts on the bill: Chami, CRAVO, Hashashin and Justine Perry and 5 more. Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,8 +10,8 @@ AURA ADE Special with Hayes Collective at RADION on Fri 23 Oct, Amsterdam. 9 act
 
 ## Line-up
 
-- CRAVO
 - Chami
+- CRAVO
 - Hashashin
 - Justine Perry
 - Lumos

@@ -1,6 +1,6 @@
 # Biesmans / Kawun / Wille / Fluid Sound Collective at Culture Box
 
-Biesmans / Kawun / Wille / Fluid Sound Collective at Culture Box on Fri 18 Sept, Copenhagen. 8 acts on the bill: Biesmans, Eva Claudia, KLENA and Kawun and 4 more. Techno and House. Preview the line-up and save it on soundcheck.
+Biesmans / Kawun / Wille / Fluid Sound Collective at Culture Box on Fri 18 Sept, Copenhagen. 8 acts on the bill: Biesmans, Eva Claudia, Kawun and Kirakingkong and 4 more. Techno and House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -12,9 +12,9 @@ Biesmans / Kawun / Wille / Fluid Sound Collective at Culture Box on Fri 18 Sept,
 
 - Biesmans
 - Eva Claudia
-- KLENA
 - Kawun
 - Kirakingkong
+- KLENA
 - Prom Night
 - Sakena Ali
 - Wille

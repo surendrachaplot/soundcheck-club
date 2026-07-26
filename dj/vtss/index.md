@@ -1,14 +1,13 @@
 # VTSS
 
-VTSS is a Techno and House artist with 6 upcoming club dates listed on soundcheck as of Sat, 25 Jul 2026, next at New York Avenue Beach, Philadelphia on Sat, 25 Jul 2026.
+VTSS is a Techno and House artist with 5 upcoming club dates listed on soundcheck as of Sun, 26 Jul 2026, next at TBA - Hollywood Park adjacent to SoFi Stadium, Los Angeles on Sat, 1 Aug 2026.
 
-VTSS is a techno and house artist tracked on soundcheck, with 173 sets logged across Amsterdam, Athens, Austin and Bali and 58 more. Often billed alongside I Hate Models, Boys Noize and Patrick Mason. Next up: New York Avenue Beach, Philadelphia on Sat 25 Jul.
+VTSS is a techno and house artist tracked on soundcheck, with 173 sets logged across Amsterdam, Athens, Austin and Bali and 58 more. Often billed alongside I Hate Models, Boys Noize and Patrick Mason. Next up: TBA - Hollywood Park adjacent to SoFi Stadium, Losangeles on Sat 1 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 25 Jul 2026 | New York Avenue Beach | Philadelphia |
 | Sat, 1 Aug 2026 | TBA - Hollywood Park adjacent to SoFi Stadium | Los Angeles |
 | Wed, 12 Aug 2026 | Gianpula Village | Malta |
 | Sat, 29 Aug 2026 | Boucher Road Fields | Belfast |
@@ -17,6 +16,7 @@ VTSS is a techno and house artist tracked on soundcheck, with 173 sets logged ac
 
 ## Recently played
 
+- New York Avenue Beach, Philadelphia — Sat, 25 Jul 2026
 - Amnesia Ibiza, Ibiza — Mon, 13 Jul 2026
 - Holland Park, Vancouver — Fri, 3 Jul 2026
 - Q Nightclub, Seattle — Fri, 3 Jul 2026
@@ -24,10 +24,9 @@ VTSS is a techno and house artist tracked on soundcheck, with 173 sets logged ac
 - The Regency Ballroom, San Francisco/Oakland — Sat, 13 Jun 2026
 - The Regency Ballroom, San Francisco/Oakland — Sat, 13 Jun 2026
 - Avalon Hollywood, Los Angeles — Fri, 12 Jun 2026
-- Knockdown Center, New York City — Sat, 6 Jun 2026
 
 ## Shares bills with
 
 I Hate Models, Boys Noize, Patrick Mason
 
-*Updated Sat, 25 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/vtss/)*
+*Updated Sun, 26 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/vtss/)*

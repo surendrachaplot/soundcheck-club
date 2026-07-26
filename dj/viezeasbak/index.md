@@ -1,8 +1,8 @@
 # Vieze Asbak
 
-Vieze Asbak is a Techno and Hardcore artist with 10 upcoming club dates listed on soundcheck as of Sat, 25 Jul 2026, next at Bowlers Exhibition Centre, Manchester on Sat, 1 Aug 2026.
+Vieze Asbak is a Techno and Hardcore artist with 11 upcoming club dates listed on soundcheck as of Sun, 26 Jul 2026, next at Bowlers Exhibition Centre, Manchester on Sat, 1 Aug 2026.
 
-Vieze Asbak is a techno and hardcore artist tracked on soundcheck, with 90 sets logged across Amsterdam, Antwerp, Barcelona and Belfast and 39 more. Often billed alongside KLOFAMA, KARAH and Restricted. Next up: Bowlers Exhibition Centre, Manchester on Sat 1 Aug.
+Vieze Asbak is a techno and hardcore artist tracked on soundcheck, with 91 sets logged across Amsterdam, Antwerp, Barcelona and Belfast and 39 more. Often billed alongside KLOFAMA, KARAH and Restricted. Next up: Bowlers Exhibition Centre, Manchester on Sat 1 Aug.
 
 ## Upcoming shows
 
@@ -18,6 +18,7 @@ Vieze Asbak is a techno and hardcore artist tracked on soundcheck, with 90 sets 
 | Fri, 2 Oct 2026 | E1 | London |
 | Sat, 3 Oct 2026 | Klub Progresja | Warsaw |
 | Thu, 8 Oct 2026 | Amnesia Ibiza | Ibiza |
+| Sat, 24 Oct 2026 | Halle Tony Garnier | Lyon |
 
 ## Recently played
 
@@ -34,4 +35,4 @@ Vieze Asbak is a techno and hardcore artist tracked on soundcheck, with 90 sets 
 
 KLOFAMA, KARAH, Restricted
 
-*Updated Sat, 25 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/viezeasbak/)*
+*Updated Sun, 26 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/viezeasbak/)*

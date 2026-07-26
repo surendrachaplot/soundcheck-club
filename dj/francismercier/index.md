@@ -1,15 +1,13 @@
 # Francis Mercier
 
-Francis Mercier is a Afro House and House artist with 16 upcoming club dates listed on soundcheck as of Sat, 25 Jul 2026, next at Piknic Électronik / Parc Jean Drapeau, Montreal on Sat, 25 Jul 2026.
+Francis Mercier is a Afro House and House artist with 15 upcoming club dates listed on soundcheck as of Sun, 26 Jul 2026, next at Hï Ibiza, Ibiza on Mon, 27 Jul 2026.
 
-Francis Mercier is an afro house and house artist tracked on soundcheck, with 163 sets logged across Amsterdam, Antwerp, Athens and Austin and 40 more. Often billed alongside Andrea Oliva, Nadrums and ARYMÉ. Next up: Piknic Électronik / Parc Jean Drapeau, Montreal on Sat 25 Jul.
+Francis Mercier is an afro house and house artist tracked on soundcheck, with 164 sets logged across Amsterdam, Antwerp, Athens and Austin and 40 more. Often billed alongside Andrea Oliva, Nadrums and ARYMÉ. Next up: Hï Ibiza, Ibiza on Mon 27 Jul.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 25 Jul 2026 | Piknic Électronik / Parc Jean Drapeau | Montreal |
-| Sat, 25 Jul 2026 | New City Gas | Montreal |
 | Mon, 27 Jul 2026 | Hï Ibiza | Ibiza |
 | Mon, 3 Aug 2026 | Hï Ibiza | Ibiza |
 | Sat, 8 Aug 2026 | Santanna Mykonos | Mykonos |
@@ -20,20 +18,22 @@ Francis Mercier is an afro house and house artist tracked on soundcheck, with 16
 | Mon, 31 Aug 2026 | Hï Ibiza | Ibiza |
 | Mon, 7 Sept 2026 | Hï Ibiza | Ibiza |
 | Sun, 13 Sept 2026 | Lula Club | Madrid |
+| Mon, 14 Sept 2026 | Hï Ibiza | Ibiza |
+| Mon, 21 Sept 2026 | Hï Ibiza | Ibiza |
 
 ## Recently played
 
+- Piknic Électronik / Parc Jean Drapeau, Montreal — Sat, 25 Jul 2026
+- New City Gas, Montreal — Sat, 25 Jul 2026
 - Santanna Mykonos, Mykonos — Wed, 22 Jul 2026
 - Hï Ibiza, Ibiza — Mon, 20 Jul 2026
 - Santanna Mykonos, Mykonos — Wed, 15 Jul 2026
 - Hï Ibiza, Ibiza — Mon, 13 Jul 2026
 - Hï Ibiza, Ibiza — Mon, 6 Jul 2026
 - Santanna Mykonos, Mykonos — Sat, 4 Jul 2026
-- Chinois Ibiza, Ibiza — Wed, 1 Jul 2026
-- Hï Ibiza, Ibiza — Mon, 29 Jun 2026
 
 ## Shares bills with
 
 Andrea Oliva, Nadrums, ARYMÉ
 
-*Updated Sat, 25 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/francismercier/)*
+*Updated Sun, 26 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/francismercier/)*

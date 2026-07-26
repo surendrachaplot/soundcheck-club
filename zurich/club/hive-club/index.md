@@ -1,14 +1,13 @@
 # Hive Club
 
-Hive Club is a music venue in Zurich with 8 upcoming nights listed on soundcheck as of Sat, 25 Jul 2026; the next is "Rakete im Juni" on Sat, 25 Jul 2026.
+Hive Club is a music venue in Zurich with 7 upcoming nights listed on soundcheck as of Sun, 26 Jul 2026; the next is "Züri Ticket" on Fri, 7 Aug 2026.
 
-Hive Club is a music venue in Zurich listed on soundcheck. 8 upcoming nights, with line-ups including ACID FLORA, And Hazel, Animal Trainer and Anja Schneider and 2 more. Browse upcoming dates, start times and who's playing. Geroldstrasse 5; 8005, Zurich; Switzerland.
+Hive Club is a music venue in Zurich listed on soundcheck. 7 upcoming nights, with line-ups including ACID FLORA, And Hazel, Animal Trainer and Anja Schneider and 2 more. Browse upcoming dates, start times and who's playing. Geroldstrasse 5; 8005, Zurich; Switzerland.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Sat, 25 Jul 2026 | Rakete im Juni | ACID FLORA, Animal Trainer, Anthik, Glauco Di Mambro, Joséphine, Kellerkind |
 | Fri, 7 Aug 2026 | Züri Ticket | Anja Schneider, Mar Dean |
 | Sat, 8 Aug 2026 | Strassenparade | ACID FLORA, Animal Trainer, Anthik, Caromelle, Dangel Twins, Jay Fase, Kellerkind, Manuel Moreno, Marcus Meinhardt, Meraki (3), Natch, Sebastian Konrad, samarsi, whereisvero |
 | Fri, 14 Aug 2026 | Sascha Braemer | Daughter In Law, De La Maso, Sascha Braemer |
@@ -21,4 +20,4 @@ Hive Club is a music venue in Zurich listed on soundcheck. 8 upcoming nights, wi
 
 Geroldstrasse 5; 8005, Zurich; Switzerland, Zurich
 
-*Updated Sat, 25 Jul 2026 · source: [soundcheck](https://soundcheck.club/zurich/club/hive-club/)*
+*Updated Sun, 26 Jul 2026 · source: [soundcheck](https://soundcheck.club/zurich/club/hive-club/)*

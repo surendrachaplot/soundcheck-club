@@ -1,8 +1,8 @@
 # horsegiirL
 
-horsegiirL is a Techno and House artist with 6 upcoming club dates listed on soundcheck as of Sat, 25 Jul 2026, next at Radius, Chicago on Fri, 31 Jul 2026.
+horsegiirL is a Techno and House artist with 7 upcoming club dates listed on soundcheck as of Sun, 26 Jul 2026, next at Radius, Chicago on Fri, 31 Jul 2026.
 
-horsegiirL is a techno and house artist based in Germany, tracked on soundcheck, with 110 sets logged across Amsterdam, Austin, Barcelona and Belfast and 42 more. Often billed alongside DJ Gigola, MCR-T and Marlon Hoffstadt. Next up: Radius, Chicago on Fri 31 Jul.
+horsegiirL is a techno and house artist based in Germany, tracked on soundcheck, with 111 sets logged across Amsterdam, Austin, Barcelona and Belfast and 43 more. Often billed alongside DJ Gigola, MCR-T and Marlon Hoffstadt. Next up: Radius, Chicago on Fri 31 Jul.
 
 ## Upcoming shows
 
@@ -14,6 +14,7 @@ horsegiirL is a techno and house artist based in Germany, tracked on soundcheck,
 | Sat, 26 Sept 2026 | Waterfront Park in San Diego | San Diego |
 | Sat, 26 Sept 2026 | TBA - Pier 80 | San Francisco/Oakland |
 | Fri, 16 Oct 2026 | Mana Wynwood | Miami |
+| Sat, 24 Oct 2026 | BERHTA | Washington DC |
 
 ## Recently played
 
@@ -30,4 +31,4 @@ horsegiirL is a techno and house artist based in Germany, tracked on soundcheck,
 
 DJ Gigola, MCR-T, Marlon Hoffstadt
 
-*Updated Sat, 25 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/horsegiirl/)*
+*Updated Sun, 26 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/horsegiirl/)*

@@ -1,14 +1,13 @@
 # Import Export
 
-Import Export is a music venue in Munich with 7 upcoming nights listed on soundcheck as of Sat, 25 Jul 2026; the next is "KÁLOR & chucuXchucu pres.: Tropiko Atlantiko" on Sat, 25 Jul 2026.
+Import Export is a music venue in Munich with 6 upcoming nights listed on soundcheck as of Sun, 26 Jul 2026; the next is "KÁLOR & chucuXchucu pres.: Tropiko Atlantiko - Outdoor" on Sun, 26 Jul 2026.
 
-Import Export is a music venue in Munich listed on soundcheck. 7 upcoming nights, with line-ups including CONTAGIOUS, DJ Ipek, Kermesse and MAHA and 1 more. Browse upcoming dates, start times and who's playing. Schwere-Reiter-Str. 2h, 80636 Munich, Germany.
+Import Export is a music venue in Munich listed on soundcheck. 6 upcoming nights, with line-ups including CONTAGIOUS, DJ Ipek, Kermesse and MAHA and 1 more. Browse upcoming dates, start times and who's playing. Schwere-Reiter-Str. 2h, 80636 Munich, Germany.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Sat, 25 Jul 2026 | KÁLOR & chucuXchucu pres.: Tropiko Atlantiko |  |
 | Sun, 26 Jul 2026 | KÁLOR & chucuXchucu pres.: Tropiko Atlantiko - Outdoor |  |
 | Tue, 28 Jul 2026 | Turntabletennis |  |
 | Fri, 31 Jul 2026 | PHRE Festival Opening: Melina + MAHA + BalkanSistas + Dr. Ywall | MAHA, MELINA (3) |
@@ -20,4 +19,4 @@ Import Export is a music venue in Munich listed on soundcheck. 7 upcoming nights
 
 Schwere-Reiter-Str. 2h, 80636 Munich, Germany, Munich
 
-*Updated Sat, 25 Jul 2026 · source: [soundcheck](https://soundcheck.club/munich/club/import-export/)*
+*Updated Sun, 26 Jul 2026 · source: [soundcheck](https://soundcheck.club/munich/club/import-export/)*

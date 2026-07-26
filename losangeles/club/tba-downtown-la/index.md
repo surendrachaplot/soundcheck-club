@@ -1,6 +1,6 @@
 # TBA - Downtown LA
 
-TBA - Downtown LA is a music venue in Los Angeles with 1 upcoming night listed on soundcheck as of Sat, 25 Jul 2026; the next is "MELT: Andrey Pushkarev, Taimur, Dvvid" on Sat, 15 Aug 2026.
+TBA - Downtown LA is a music venue in Los Angeles with 1 upcoming night listed on soundcheck as of Sun, 26 Jul 2026; the next is "MELT: Andrey Pushkarev, Taimur, Dvvid" on Sat, 15 Aug 2026.
 
 TBA - Downtown LA is a music venue in Losangeles listed on soundcheck. 1 upcoming night, with line-ups including Andrey Pushkarev and Taimur. Browse upcoming dates, start times and who's playing. To Be Announced - DTLA.
 
@@ -14,4 +14,4 @@ TBA - Downtown LA is a music venue in Losangeles listed on soundcheck. 1 upcomin
 
 To Be Announced - DTLA, Los Angeles
 
-*Updated Sat, 25 Jul 2026 · source: [soundcheck](https://soundcheck.club/losangeles/club/tba-downtown-la/)*
+*Updated Sun, 26 Jul 2026 · source: [soundcheck](https://soundcheck.club/losangeles/club/tba-downtown-la/)*

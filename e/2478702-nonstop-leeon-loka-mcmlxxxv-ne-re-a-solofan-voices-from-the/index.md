@@ -1,6 +1,6 @@
 # Nonstop: Leeon, LOKA, MCMLXXXV, Ne/Re/A, Solofan, Voices From The Lake (live) at Nowadays
 
-Nonstop: Leeon, LOKA, MCMLXXXV, Ne/Re/A, Solofan, Voices From The Lake (live) at Nowadays on Sat 29 Aug, Newyorkcity. 7 acts on the bill: LOKA (US), Leeon, Loka and MCMLXXXV and 3 more. Techno and Electro. Preview the line-up and save it on soundcheck.
+Nonstop: Leeon, LOKA, MCMLXXXV, Ne/Re/A, Solofan, Voices From The Lake (live) at Nowadays on Sat 29 Aug, Newyorkcity. 7 acts on the bill: Leeon, Loka, LOKA (US) and MCMLXXXV and 3 more. Techno and Electro. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,9 +10,9 @@ Nonstop: Leeon, LOKA, MCMLXXXV, Ne/Re/A, Solofan, Voices From The Lake (live) at
 
 ## Line-up
 
-- LOKA (US)
 - Leeon
 - Loka
+- LOKA (US)
 - MCMLXXXV
 - Ne/Re/A
 - Solofan

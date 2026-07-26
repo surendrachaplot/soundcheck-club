@@ -1,6 +1,6 @@
 # AGAPĒ FESTIVAL at Industry City
 
-AGAPĒ FESTIVAL at Industry City on Sat 5 Sept, Newyorkcity. 37 acts on the bill: Adrian Mills, Aiden (DE), BIIANCO and Bad Boombox and 33 more. Trance and Techno. Preview the line-up and save it on soundcheck.
+AGAPĒ FESTIVAL at Industry City on Sat 5 Sept, Newyorkcity. 37 acts on the bill: Adrian Mills, Aiden (DE), Bad Boombox and BIIANCO and 33 more. Trance and Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -12,8 +12,8 @@ AGAPĒ FESTIVAL at Industry City on Sat 5 Sept, Newyorkcity. 37 acts on the bill
 
 - Adrian Mills
 - Aiden (DE)
-- BIIANCO
 - Bad Boombox
+- BIIANCO
 - Clara Cuvé
 - Cloudy
 - Conrad Taylor
@@ -24,10 +24,14 @@ AGAPĒ FESTIVAL at Industry City on Sat 5 Sept, Newyorkcity. 37 acts on the bill
 - EMILIJA
 - Fenrick
 - Flash Gea
+- fumi (DE)
+- future.666
+- hhunter
+- jay york
 - Junkfile
 - KAYA (AU)
-- KYRUH
 - Kobosil
+- KYRUH
 - Marco Neves
 - Michelle Kay
 - Mischluft
@@ -43,9 +47,5 @@ AGAPĒ FESTIVAL at Industry City on Sat 5 Sept, Newyorkcity. 37 acts on the bill
 - Volvox
 - WILDERÍCH
 - WTCHCRFT
-- fumi (DE)
-- future.666
-- hhunter
-- jay york
 
 *Source: [soundcheck](https://soundcheck.club/e/2427523-agap-festival-at-industry-city/)*

@@ -1,14 +1,13 @@
 # Cavo Paradiso
 
-Cavo Paradiso is a music venue in Mykonos with 7 upcoming nights listed on soundcheck as of Sat, 25 Jul 2026; the next is "Meduza | G.Siras" on Sat, 25 Jul 2026.
+Cavo Paradiso is a music venue in Mykonos with 6 upcoming nights listed on soundcheck as of Sun, 26 Jul 2026; the next is "Hugel | Freespirit" on Sun, 26 Jul 2026.
 
-Cavo Paradiso is a music venue in Mykonos listed on soundcheck. 7 upcoming nights, with line-ups including Argie, Cloonee, David Morales and Freespirit and 2 more. Browse upcoming dates, start times and who's playing. Paradise beach, Mikonos 846 00, Greece.
+Cavo Paradiso is a music venue in Mykonos listed on soundcheck. 6 upcoming nights, with line-ups including Argie, Cloonee, David Morales and Freespirit and 2 more. Browse upcoming dates, start times and who's playing. Paradise beach, Mikonos 846 00, Greece.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Sat, 25 Jul 2026 | Meduza / G.Siras | Meduza |
 | Sun, 26 Jul 2026 | Hugel / Freespirit | Freespirit, Hugel |
 | Mon, 27 Jul 2026 | Robin Schulz / AD-1 | Robin Schulz |
 | Tue, 28 Jul 2026 | Timmy Trumpet / Argie | Argie |
@@ -20,4 +19,4 @@ Cavo Paradiso is a music venue in Mykonos listed on soundcheck. 7 upcoming night
 
 Paradise beach, Mikonos 846 00, Greece, Mykonos
 
-*Updated Sat, 25 Jul 2026 · source: [soundcheck](https://soundcheck.club/mykonos/club/cavo-paradiso/)*
+*Updated Sun, 26 Jul 2026 · source: [soundcheck](https://soundcheck.club/mykonos/club/cavo-paradiso/)*

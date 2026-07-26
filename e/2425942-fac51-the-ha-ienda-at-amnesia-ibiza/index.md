@@ -1,6 +1,6 @@
 # FAC51: The Haçienda at Amnesia Ibiza
 
-FAC51: The Haçienda at Amnesia Ibiza on Sat 19 Sept, Ibiza. 6 acts on the bill: DJ Paulette, David Morales, Graeme Park and Innercity (BE) and 2 more. House and Electronica. Preview the line-up and save it on soundcheck.
+FAC51: The Haçienda at Amnesia Ibiza on Sat 19 Sept, Ibiza. 6 acts on the bill: David Morales, DJ Paulette, Graeme Park and Innercity (BE) and 2 more. House and Electronica. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,8 +10,8 @@ FAC51: The Haçienda at Amnesia Ibiza on Sat 19 Sept, Ibiza. 6 acts on the bill:
 
 ## Line-up
 
-- DJ Paulette
 - David Morales
+- DJ Paulette
 - Graeme Park
 - Innercity (BE)
 - Mike Pickering

@@ -1,6 +1,6 @@
 # Wyldhearts Sommerfest at Schrotty
 
-Wyldhearts Sommerfest at Schrotty on Sat 1 Aug, Cologne. 12 acts on the bill: Atzendent, BabaBass3000, Baumeister98 and Cobb Douglas and 8 more. Trance. Preview the line-up and save it on soundcheck.
+Wyldhearts Sommerfest at Schrotty on Sat 1 Aug, Cologne. 11 acts on the bill: Atzendent, BabaBass3000, Baumeister98 and Cobb Douglas and 7 more. Trance. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -18,9 +18,8 @@ Wyldhearts Sommerfest at Schrotty on Sat 1 Aug, Cologne. 12 acts on the bill: At
 - OSKAMAXX
 - Ozzwald
 - Rundfunk
+- SØMOS
 - SUITSIDE
-- SØMOS
-- SØMOS
 - The Second I
 
 *Source: [soundcheck](https://soundcheck.club/e/2483837-wyldhearts-sommerfest-at-schrotty/)*

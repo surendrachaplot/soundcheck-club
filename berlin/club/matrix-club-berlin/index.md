@@ -1,18 +1,17 @@
 # Matrix Club Berlin
 
-Matrix Club Berlin is a music venue in Berlin with 2 upcoming nights listed on soundcheck as of Sat, 25 Jul 2026; the next is "Daydreaming & RE:TURN PRESENT HYPNOTIKA" on Sat, 25 Jul 2026.
+Matrix Club Berlin is a music venue in Berlin with 1 upcoming night listed on soundcheck as of Sun, 26 Jul 2026; the next is "Official Erasmus & International Party" on Sat, 10 Oct 2026.
 
-Matrix Club Berlin is a music venue in Berlin listed on soundcheck. 2 upcoming nights, with line-ups including FREEGO and Ornery. Browse upcoming dates, start times and who's playing. Warschauer Platz 18, 10245 Berlin, Germany.
+Matrix Club Berlin is a music venue in Berlin listed on soundcheck. 1 upcoming night. Browse upcoming dates, start times and who's playing. Warschauer Platz 18, 10245 Berlin, Germany.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Sat, 25 Jul 2026 | Daydreaming & RE:TURN PRESENT HYPNOTIKA | FREEGO, Ornery |
 | Sat, 10 Oct 2026 | Official Erasmus & International Party |  |
 
 ## Address
 
 Warschauer Platz 18, 10245 Berlin, Germany, Berlin
 
-*Updated Sat, 25 Jul 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/matrix-club-berlin/)*
+*Updated Sun, 26 Jul 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/matrix-club-berlin/)*

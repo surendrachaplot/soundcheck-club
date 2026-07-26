@@ -14,9 +14,9 @@ WHAT.THE.EL! Day Party Birthday Special at HWK Garden / Terrace on Sat 29 Aug, L
 - El Cassar
 - Leon Michael
 - Mas Fuego
-- SUNI SIDE UP
 - Shiloh (UK)
-- Ty Henry
 - shlay
+- SUNI SIDE UP
+- Ty Henry
 
 *Source: [soundcheck](https://soundcheck.club/e/2476511-what-the-el-day-party-birthday-special-at-hwk-garden-terrace/)*

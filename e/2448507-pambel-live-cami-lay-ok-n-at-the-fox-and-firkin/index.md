@@ -1,6 +1,6 @@
 # Pambelé (live) + Cami Layé Okún at The Fox and Firkin
 
-Pambelé (live) + Cami Layé Okún at The Fox and Firkin on Sun 30 Aug, London. 2 acts on the bill: CHYMBA and Cami Layé Okún. Afrobeat and Latin Bass. Preview the line-up and save it on soundcheck.
+Pambelé (live) + Cami Layé Okún at The Fox and Firkin on Sun 30 Aug, London. 2 acts on the bill: Cami Layé Okún and CHYMBA. Afrobeat and Latin Bass. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,7 +10,7 @@ Pambelé (live) + Cami Layé Okún at The Fox and Firkin on Sun 30 Aug, London. 
 
 ## Line-up
 
-- CHYMBA
 - Cami Layé Okún
+- CHYMBA
 
 *Source: [soundcheck](https://soundcheck.club/e/2448507-pambel-live-cami-lay-ok-n-at-the-fox-and-firkin/)*

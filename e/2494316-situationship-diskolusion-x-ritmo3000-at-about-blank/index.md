@@ -1,6 +1,6 @@
 # ://situationship: Diskolusion x RITMO3000 at ://about blank
 
-://situationship: Diskolusion x RITMO3000 at ://about blank on Fri 7 Aug, Berlin. 8 acts on the bill: Anna Hjalmarsson, Caren Callas, Desolate Discotheque and Helen Svart-Vit and 4 more. Techno and House. Preview the line-up and save it on soundcheck.
+://situationship: Diskolusion x RITMO3000 at ://about blank on Fri 7 Aug, Berlin. 8 acts on the bill: Anna Hjalmarsson, babxi, Caren Callas and Desolate Discotheque and 4 more. Techno and House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -11,12 +11,12 @@
 ## Line-up
 
 - Anna Hjalmarsson
+- babxi
 - Caren Callas
 - Desolate Discotheque
 - Helen Svart-Vit
 - Introversion
 - Kris Baha
 - Martin Meyer
-- babxi
 
 *Source: [soundcheck](https://soundcheck.club/e/2494316-situationship-diskolusion-x-ritmo3000-at-about-blank/)*

@@ -1,8 +1,8 @@
 # TOXIMAMI
 
-TOXIMAMI is a Techno and Electro artist with 7 upcoming club dates listed on soundcheck as of Sat, 25 Jul 2026, next at Bowlers Exhibition Centre, Manchester on Sat, 1 Aug 2026.
+TOXIMAMI is a Techno and Trance artist with 8 upcoming club dates listed on soundcheck as of Sun, 26 Jul 2026, next at Bowlers Exhibition Centre, Manchester on Sat, 1 Aug 2026.
 
-TOXIMAMI is a techno and electro artist tracked on soundcheck, with 57 sets logged across Amsterdam, Antwerp, Barcelona and Berlin and 20 more. Often billed alongside DJ Cringey, Cara Elizabeth and Faster Horses. Next up: Bowlers Exhibition Centre, Manchester on Sat 1 Aug.
+TOXIMAMI is a techno and trance artist tracked on soundcheck, with 58 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 21 more. Often billed alongside DJ Cringey, Cara Elizabeth and Faster Horses. Next up: Bowlers Exhibition Centre, Manchester on Sat 1 Aug.
 
 ## Upcoming shows
 
@@ -15,6 +15,7 @@ TOXIMAMI is a techno and electro artist tracked on soundcheck, with 57 sets logg
 | Sat, 22 Aug 2026 | Praterinsel | Munich |
 | Fri, 11 Sept 2026 | Else | Berlin |
 | Sat, 26 Sept 2026 | Südbrücke | Cologne |
+| Sat, 24 Oct 2026 | Universe Athens | Athens |
 
 ## Recently played
 
@@ -31,4 +32,4 @@ TOXIMAMI is a techno and electro artist tracked on soundcheck, with 57 sets logg
 
 DJ Cringey, Cara Elizabeth, Faster Horses
 
-*Updated Sat, 25 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/toximami/)*
+*Updated Sun, 26 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/toximami/)*

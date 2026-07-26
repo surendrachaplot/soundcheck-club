@@ -1,14 +1,13 @@
 # Introspekt
 
-Introspekt is a Garage and Techno artist with 9 upcoming club dates listed on soundcheck as of Sat, 25 Jul 2026, next at Ormside Projects, London on Sat, 25 Jul 2026.
+Introspekt is a Garage and Techno artist with 8 upcoming club dates listed on soundcheck as of Sun, 26 Jul 2026, next at Amsterdamse Bos, Amsterdam on Wed, 29 Jul 2026.
 
-Introspekt is a garage and techno artist tracked on soundcheck, with 177 sets logged across Amsterdam, Austin, Barcelona and Belfast and 41 more. Often billed alongside Octo Octa, CCL and Bored Lord. Next up: Ormside Projects, London on Sat 25 Jul.
+Introspekt is a garage and techno artist tracked on soundcheck, with 177 sets logged across Amsterdam, Austin, Barcelona and Belfast and 41 more. Often billed alongside Octo Octa, CCL and Bored Lord. Next up: Amsterdamse Bos, Amsterdam on Wed 29 Jul.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 25 Jul 2026 | Ormside Projects | London |
 | Wed, 29 Jul 2026 | Amsterdamse Bos | Amsterdam |
 | Sat, 1 Aug 2026 | Südpol | Hamburg |
 | Sun, 2 Aug 2026 | Amsterdamse Bos | Amsterdam |
@@ -20,6 +19,7 @@ Introspekt is a garage and techno artist tracked on soundcheck, with 177 sets lo
 
 ## Recently played
 
+- Ormside Projects, London — Sat, 25 Jul 2026
 - OXI, Berlin — Fri, 24 Jul 2026
 - The White Hotel, Manchester — Sat, 18 Jul 2026
 - TBA - DTLA, Los Angeles — Fri, 26 Jun 2026
@@ -27,10 +27,9 @@ Introspekt is a garage and techno artist tracked on soundcheck, with 177 sets lo
 - Process PDX, Portland — Sat, 6 Jun 2026
 - TBA, Los Angeles — Sat, 30 May 2026
 - Tangent Gallery, Detroit — Fri, 22 May 2026
-- public records, New York City — Thu, 21 May 2026
 
 ## Shares bills with
 
 Octo Octa, CCL, Bored Lord
 
-*Updated Sat, 25 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/introspekt/)*
+*Updated Sun, 26 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/introspekt/)*

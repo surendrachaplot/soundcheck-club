@@ -1,14 +1,13 @@
 # DJ Hyperdrive
 
-DJ Hyperdrive is a Techno and Trance artist with 8 upcoming club dates listed on soundcheck as of Sat, 25 Jul 2026, next at Rebstockpark, Frankfurt on Sat, 25 Jul 2026.
+DJ Hyperdrive is a Techno and Trance artist with 7 upcoming club dates listed on soundcheck as of Sun, 26 Jul 2026, next at DSTRKT Club Berlin, Berlin on Sat, 15 Aug 2026.
 
-DJ Hyperdrive is a techno and trance artist tracked on soundcheck, with 196 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 48 more. Often billed alongside future.666, ÜBERKIKZ and slin. Next up: Rebstockpark, Frankfurt on Sat 25 Jul.
+DJ Hyperdrive is a techno and trance artist tracked on soundcheck, with 196 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 48 more. Often billed alongside future.666, ÜBERKIKZ and slin. Next up: DSTRKT Club Berlin, Berlin on Sat 15 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 25 Jul 2026 | Rebstockpark | Frankfurt |
 | Sat, 15 Aug 2026 | DSTRKT Club Berlin | Berlin |
 | Sat, 15 Aug 2026 | Straße des 17. Juni | Berlin |
 | Fri, 21 Aug 2026 | Magazine Open–Air | London |
@@ -19,6 +18,7 @@ DJ Hyperdrive is a techno and trance artist tracked on soundcheck, with 196 sets
 
 ## Recently played
 
+- Rebstockpark, Frankfurt — Sat, 25 Jul 2026
 - Life Park, Istanbul — Sat, 4 Jul 2026
 - Razzmatazz, Barcelona — Fri, 3 Jul 2026
 - Nuthepark Potsdam, Berlin — Sun, 21 Jun 2026
@@ -26,10 +26,9 @@ DJ Hyperdrive is a techno and trance artist tracked on soundcheck, with 196 sets
 - KALT, Strasbourg — Sat, 23 May 2026
 - UNO MALTA, Malta — Thu, 21 May 2026
 - Wigwam, Dublin — Sun, 3 May 2026
-- Virage, Paris — Fri, 24 Apr 2026
 
 ## Shares bills with
 
 future.666, ÜBERKIKZ, slin
 
-*Updated Sat, 25 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/djhyperdrive/)*
+*Updated Sun, 26 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/djhyperdrive/)*

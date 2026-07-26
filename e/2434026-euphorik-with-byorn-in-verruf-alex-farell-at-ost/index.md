@@ -1,6 +1,6 @@
 # EUPHORIK with BYORN, In Verruf & Alex Farell at OST
 
-EUPHORIK with BYORN, In Verruf & Alex Farell at OST on Sat 22 Aug, Berlin. 10 acts on the bill: Alex Farell, BENITO (DE), BYØRN and DTEXX and 6 more. Preview the line-up and save it on soundcheck.
+EUPHORIK with BYORN, In Verruf & Alex Farell at OST on Sat 22 Aug, Berlin. 10 acts on the bill: Alex Farell, BENITO (DE), BYØRN and Death of Mars and 6 more. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -13,8 +13,8 @@ EUPHORIK with BYORN, In Verruf & Alex Farell at OST on Sat 22 Aug, Berlin. 10 ac
 - Alex Farell
 - BENITO (DE)
 - BYØRN
-- DTEXX
 - Death of Mars
+- DTEXX
 - Eurodance2000
 - Filialleiter
 - In Verruf

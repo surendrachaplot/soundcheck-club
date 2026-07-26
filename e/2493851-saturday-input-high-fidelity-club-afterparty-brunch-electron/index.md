@@ -1,6 +1,6 @@
 # Saturday - INPUT High Fidelity Club - Afterparty Brunch Electronik Festival w/ Anfisa Letyago at INPUT High Fidelity Dance Club
 
-Saturday - INPUT High Fidelity Club - Afterparty Brunch Electronik Festival w/ Anfisa Letyago at INPUT High Fidelity Dance Club on Sat 8 Aug, Barcelona. 3 acts on the bill: ANDRØMEDA, Abstract Division and Anfisa Letyago. Preview the line-up and save it on soundcheck.
+Saturday - INPUT High Fidelity Club - Afterparty Brunch Electronik Festival w/ Anfisa Letyago at INPUT High Fidelity Dance Club on Sat 8 Aug, Barcelona. 3 acts on the bill: Abstract Division, ANDRØMEDA and Anfisa Letyago. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,8 +10,8 @@ Saturday - INPUT High Fidelity Club - Afterparty Brunch Electronik Festival w/ A
 
 ## Line-up
 
-- ANDRØMEDA
 - Abstract Division
+- ANDRØMEDA
 - Anfisa Letyago
 
 *Source: [soundcheck](https://soundcheck.club/e/2493851-saturday-input-high-fidelity-club-afterparty-brunch-electron/)*

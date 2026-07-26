@@ -1,8 +1,8 @@
 # EMILIJA
 
-EMILIJA is a Techno and Trance artist with 14 upcoming club dates listed on soundcheck as of Sat, 25 Jul 2026, next at Bowlers Exhibition Centre, Manchester on Sat, 1 Aug 2026.
+EMILIJA is a Techno and Trance artist with 15 upcoming club dates listed on soundcheck as of Sun, 26 Jul 2026, next at Bowlers Exhibition Centre, Manchester on Sat, 1 Aug 2026.
 
-EMILIJA is a techno and trance artist tracked on soundcheck, with 136 sets logged across Amsterdam, Antwerp, Barcelona and Basel and 24 more. Often billed alongside Fenrick, Helena Lauwaert and Odymel. Next up: Bowlers Exhibition Centre, Manchester on Sat 1 Aug.
+EMILIJA is a techno and trance artist tracked on soundcheck, with 137 sets logged across Amsterdam, Antwerp, Barcelona and Basel and 24 more. Often billed alongside Fenrick, Helena Lauwaert and Odymel. Next up: Bowlers Exhibition Centre, Manchester on Sat 1 Aug.
 
 ## Upcoming shows
 
@@ -36,4 +36,4 @@ EMILIJA is a techno and trance artist tracked on soundcheck, with 136 sets logge
 
 Fenrick, Helena Lauwaert, Odymel
 
-*Updated Sat, 25 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/emilija/)*
+*Updated Sun, 26 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/emilija/)*

@@ -1,6 +1,6 @@
 # pirouette at Bambi's
 
-pirouette at Bambi's on Fri 7 Aug, Toronto. 3 acts on the bill: Amedeo (CA), Program Sam and maxedvisa. Techno and Minimal Techno. Preview the line-up and save it on soundcheck.
+pirouette at Bambi's on Fri 7 Aug, Toronto. 3 acts on the bill: Amedeo (CA), maxedvisa and Program Sam. Techno and Minimal Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -11,7 +11,7 @@ pirouette at Bambi's on Fri 7 Aug, Toronto. 3 acts on the bill: Amedeo (CA), Pro
 ## Line-up
 
 - Amedeo (CA)
-- Program Sam
 - maxedvisa
+- Program Sam
 
 *Source: [soundcheck](https://soundcheck.club/e/2487755-pirouette-at-bambi-s/)*

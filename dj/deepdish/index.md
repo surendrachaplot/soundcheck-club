@@ -1,14 +1,13 @@
 # Deep Dish
 
-Deep Dish is a House and Progressive House artist with 8 upcoming club dates listed on soundcheck as of Sat, 25 Jul 2026, next at The Concourse Project, Austin on Sat, 25 Jul 2026.
+Deep Dish is a House and Progressive House artist with 7 upcoming club dates listed on soundcheck as of Sun, 26 Jul 2026, next at fabric, London on Fri, 31 Jul 2026.
 
-Deep Dish is a house and progressive house artist tracked on soundcheck, with 63 sets logged across Amsterdam, Athens, Austin and Barcelona and 26 more. Often billed alongside Dubfire, Sharam and Eynka. Next up: The Concourse Project, Austin on Sat 25 Jul.
+Deep Dish is a house and progressive house artist tracked on soundcheck, with 63 sets logged across Amsterdam, Athens, Austin and Barcelona and 26 more. Often billed alongside Dubfire, Sharam and Eynka. Next up: fabric, London on Fri 31 Jul.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 25 Jul 2026 | The Concourse Project | Austin |
 | Fri, 31 Jul 2026 | fabric | London |
 | Sat, 8 Aug 2026 | Chinois Ibiza | Ibiza |
 | Fri, 14 Aug 2026 | TBA - Private Location | San Diego |
@@ -19,6 +18,7 @@ Deep Dish is a house and progressive house artist tracked on soundcheck, with 63
 
 ## Recently played
 
+- The Concourse Project, Austin — Sat, 25 Jul 2026
 - Substation, Seattle — Fri, 24 Jul 2026
 - Chinois Ibiza, Ibiza — Sat, 27 Jun 2026
 - Óbuda Bay, Budapest — Sat, 20 Jun 2026
@@ -26,10 +26,9 @@ Deep Dish is a house and progressive house artist tracked on soundcheck, with 63
 - ex Base, Naples — Sun, 14 Jun 2026
 - Bolivar Beach Bar, Athens — Fri, 12 Jun 2026
 - Castaways, Chicago — Sun, 31 May 2026
-- Sunnyside Pavilion, Toronto — Sat, 30 May 2026
 
 ## Shares bills with
 
 Dubfire, Sharam, Eynka
 
-*Updated Sat, 25 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/deepdish/)*
+*Updated Sun, 26 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/deepdish/)*

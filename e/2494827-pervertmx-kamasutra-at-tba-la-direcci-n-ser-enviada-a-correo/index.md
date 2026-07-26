@@ -1,6 +1,6 @@
 # PervertMX: Kamasutra at TBA - La dirección será enviada a correos asociados a la compra a las 11am del 15/08
 
-PervertMX: Kamasutra at TBA - La dirección será enviada a correos asociados a la compra a las 11am del 15/08 on Sat 15 Aug, Mexicocity. 3 acts on the bill: Alby Esc, Spikey Lee and sadgal. Techno and House. Preview the line-up and save it on soundcheck.
+PervertMX: Kamasutra at TBA - La dirección será enviada a correos asociados a la compra a las 11am del 15/08 on Sat 15 Aug, Mexicocity. 3 acts on the bill: Alby Esc, sadgal and Spikey Lee. Techno and House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -11,7 +11,7 @@ PervertMX: Kamasutra at TBA - La dirección será enviada a correos asociados a 
 ## Line-up
 
 - Alby Esc
-- Spikey Lee
 - sadgal
+- Spikey Lee
 
 *Source: [soundcheck](https://soundcheck.club/e/2494827-pervertmx-kamasutra-at-tba-la-direcci-n-ser-enviada-a-correo/)*

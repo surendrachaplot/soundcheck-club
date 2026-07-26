@@ -1,6 +1,6 @@
 # Choke Street Parade Afterparty at EXIL
 
-Choke Street Parade Afterparty at EXIL on Sat 8 Aug, Zurich. 4 acts on the bill: AMORAL, Alarico, Len Faki and Phase Fatale. Preview the line-up and save it on soundcheck.
+Choke Street Parade Afterparty at EXIL on Sat 8 Aug, Zurich. 4 acts on the bill: Alarico, AMORAL, Len Faki and Phase Fatale. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,8 +10,8 @@ Choke Street Parade Afterparty at EXIL on Sat 8 Aug, Zurich. 4 acts on the bill:
 
 ## Line-up
 
-- AMORAL
 - Alarico
+- AMORAL
 - Len Faki
 - Phase Fatale
 

@@ -14,8 +14,8 @@ FLOORWÄRTS w/ DJ Tallboy, S.3000 (LIVE), DJ Mischkonsum and many more // OPEN A
 - Carotin
 - DJ HÖRDE
 - DJ Mischkonsum
-- DJ TIPSTER
 - DJ Tallboy
+- DJ TIPSTER
 - HØLLE (2)
 - Krash Cora
 - S.3000

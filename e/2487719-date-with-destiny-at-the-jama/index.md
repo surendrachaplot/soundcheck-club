@@ -1,6 +1,6 @@
 # Date with Destiny at The Jama
 
-Date with Destiny at The Jama on Sun 26 Jul, Toronto. 3 acts on the bill: DJ Trustfall, Destiny (CA) and dj miss. Techno and House. Preview the line-up and save it on soundcheck.
+Date with Destiny at The Jama on Sun 26 Jul, Toronto. 3 acts on the bill: Destiny (CA), dj miss and DJ Trustfall. Techno and House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,8 +10,8 @@ Date with Destiny at The Jama on Sun 26 Jul, Toronto. 3 acts on the bill: DJ Tru
 
 ## Line-up
 
-- DJ Trustfall
 - Destiny (CA)
 - dj miss
+- DJ Trustfall
 
 *Source: [soundcheck](https://soundcheck.club/e/2487719-date-with-destiny-at-the-jama/)*

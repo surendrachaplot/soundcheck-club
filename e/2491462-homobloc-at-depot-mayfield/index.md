@@ -1,6 +1,6 @@
 # HOMOBLOC at Depot Mayfield
 
-HOMOBLOC at Depot Mayfield on Sat 26 Sept, Manchester. 39 acts on the bill: ALCATRAZ, ARMANA KHAN, Aiden Francis and BASHKKA and 35 more. House. Preview the line-up and save it on soundcheck.
+HOMOBLOC at Depot Mayfield on Sat 26 Sept, Manchester. 39 acts on the bill: Aiden Francis, ALCATRAZ, ARMANA KHAN and Banksie and 35 more. House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,17 +10,17 @@ HOMOBLOC at Depot Mayfield on Sat 26 Sept, Manchester. 39 acts on the bill: ALCA
 
 ## Line-up
 
+- Aiden Francis
 - ALCATRAZ
 - ARMANA KHAN
-- Aiden Francis
-- BASHKKA
 - Banksie
+- BASHKKA
 - COBRAH
-- DJ Gigola
-- DJ Paulette
 - Dandy
 - Danny Tenaglia
 - Derrick Carter
+- DJ Gigola
+- DJ Paulette
 - Erol Alkan
 - Fattony
 - Gina Breeze
@@ -33,9 +33,9 @@ HOMOBLOC at Depot Mayfield on Sat 26 Sept, Manchester. 39 acts on the bill: ALCA
 - ISAbella
 - Jamie Bull
 - Job Jobse
-- LSDXOXO
 - Lady Shaka
 - Lill
+- LSDXOXO
 - Luca Eck
 - MCR-T
 - Meg10

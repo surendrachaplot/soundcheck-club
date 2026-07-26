@@ -1,6 +1,6 @@
 # Garage Noord
 
-Garage Noord is a music venue in Amsterdam with 13 upcoming nights listed on soundcheck as of Sat, 25 Jul 2026; the next is "NYEGE NYEGE X GARAGE FEST 2026 - WEEKENDER" on Sun, 26 Jul 2026.
+Garage Noord is a music venue in Amsterdam with 13 upcoming nights listed on soundcheck as of Sun, 26 Jul 2026; the next is "NYEGE NYEGE X GARAGE FEST 2026 - WEEKENDER" on Sun, 26 Jul 2026.
 
 Garage Noord is a music venue in Amsterdam listed on soundcheck. 13 upcoming nights, with line-ups including Akanbi, amara, Amz and baby ganoush and 2 more. Browse upcoming dates, start times and who's playing. Gedempt Hamerkanaal 40, 1012 KM Amsterdam.
 
@@ -23,4 +23,4 @@ Garage Noord is a music venue in Amsterdam listed on soundcheck. 13 upcoming nig
 
 Gedempt Hamerkanaal 40, 1012 KM Amsterdam, Amsterdam
 
-*Updated Sat, 25 Jul 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/garage-noord/)*
+*Updated Sun, 26 Jul 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/garage-noord/)*

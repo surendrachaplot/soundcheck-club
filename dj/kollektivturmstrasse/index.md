@@ -1,8 +1,8 @@
 # Kollektiv Turmstrasse
 
-Kollektiv Turmstrasse is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Sat, 25 Jul 2026, next at Sparta Schwimmclub, Frankfurt on Sat, 8 Aug 2026.
+Kollektiv Turmstrasse is a House and Techno artist with 4 upcoming club dates listed on soundcheck as of Sun, 26 Jul 2026, next at Sparta Schwimmclub, Frankfurt on Sat, 8 Aug 2026.
 
-Kollektiv Turmstrasse is a house and techno artist based in Germany, tracked on soundcheck, with 93 sets logged across Amsterdam, Antwerp, Basel and Belgrade and 31 more. Often billed alongside Jonathan Kaspar, Miura and Biesmans. Next up: Sparta Schwimmclub, Frankfurt on Sat 8 Aug.
+Kollektiv Turmstrasse is a house and techno artist based in Germany, tracked on soundcheck, with 94 sets logged across Amsterdam, Antwerp, Basel and Belgrade and 31 more. Often billed alongside Jonathan Kaspar, Miura and Biesmans. Next up: Sparta Schwimmclub, Frankfurt on Sat 8 Aug.
 
 ## Upcoming shows
 
@@ -11,6 +11,7 @@ Kollektiv Turmstrasse is a house and techno artist based in Germany, tracked on 
 | Sat, 8 Aug 2026 | Sparta Schwimmclub | Frankfurt |
 | Sat, 22 Aug 2026 | Thuishaven | Amsterdam |
 | Sat, 5 Sept 2026 | Fridas Pier | Stuttgart |
+| Sat, 24 Oct 2026 | Ritter Butzke | Berlin |
 
 ## Recently played
 
@@ -27,4 +28,4 @@ Kollektiv Turmstrasse is a house and techno artist based in Germany, tracked on 
 
 Jonathan Kaspar, Miura, Biesmans
 
-*Updated Sat, 25 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/kollektivturmstrasse/)*
+*Updated Sun, 26 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/kollektivturmstrasse/)*

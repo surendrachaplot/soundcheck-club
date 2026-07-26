@@ -1,14 +1,13 @@
 # Toffler
 
-Toffler is a music venue in Rotterdam with 20 upcoming nights listed on soundcheck as of Sat, 25 Jul 2026; the next is "TOFFLER presents Chico Rose" on Sat, 25 Jul 2026.
+Toffler is a music venue in Rotterdam with 19 upcoming nights listed on soundcheck as of Sun, 26 Jul 2026; the next is "TOFFLER presents SANTØS and friends" on Fri, 31 Jul 2026.
 
-Toffler is a music venue in Rotterdam listed on soundcheck. 20 upcoming nights, with line-ups including Ammé, Anderdox, Ben Horton and BISOUX and 2 more. Browse upcoming dates, start times and who's playing. Weena-Zuid 33, 3012 NH, Rotterdam, Netherlands.
+Toffler is a music venue in Rotterdam listed on soundcheck. 19 upcoming nights, with line-ups including Ammé, Anderdox, Ben Horton and BISOUX and 2 more. Browse upcoming dates, start times and who's playing. Weena-Zuid 33, 3012 NH, Rotterdam, Netherlands.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Sat, 25 Jul 2026 | TOFFLER presents Chico Rose |  |
 | Fri, 31 Jul 2026 | TOFFLER presents SANTØS and friends | DeGuzman, MIT (6), SANTØS, nicole lukiys |
 | Sat, 1 Aug 2026 | TOFFLER presents DAF and friends | Cici Daze, DAF (UK), Kel Mozy, Luun |
 | Fri, 7 Aug 2026 | TOFFLER presents DUIF and friends | MIT (6), MRJ-K, Mossa, NKI (1), OZ (5) |
@@ -18,9 +17,10 @@ Toffler is a music venue in Rotterdam listed on soundcheck. 20 upcoming nights, 
 | Fri, 21 Aug 2026 | TOFFLER presents LEYO and friends | Ammé, Robin Nicolas |
 | Sat, 22 Aug 2026 | TOFFLER x Maas Afterparty | JÄMO, davyboi |
 | Fri, 28 Aug 2026 | TOFFLER presents Boss Priester and friends | Boss Priester, DORA, Hidde van Wee |
+| Sat, 29 Aug 2026 | TOFFLER presents Changi and friends | Luca Ricci, Micky Hurts |
 
 ## Address
 
 Weena-Zuid 33, 3012 NH, Rotterdam, Netherlands, Rotterdam
 
-*Updated Sat, 25 Jul 2026 · source: [soundcheck](https://soundcheck.club/rotterdam/club/toffler/)*
+*Updated Sun, 26 Jul 2026 · source: [soundcheck](https://soundcheck.club/rotterdam/club/toffler/)*

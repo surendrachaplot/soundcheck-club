@@ -1,14 +1,13 @@
 # NOVAH
 
-NOVAH is a Techno and Trance artist with 8 upcoming club dates listed on soundcheck as of Sat, 25 Jul 2026, next at Rebstockpark, Frankfurt on Sat, 25 Jul 2026.
+NOVAH is a Techno and Trance artist with 8 upcoming club dates listed on soundcheck as of Sun, 26 Jul 2026, next at Burgess Park, London on Sat, 1 Aug 2026.
 
-NOVAH is a techno and trance artist tracked on soundcheck, with 161 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 44 more. Often billed alongside Cloudy, Nico Moreno and KUKO. Next up: Rebstockpark, Frankfurt on Sat 25 Jul.
+NOVAH is a techno and trance artist tracked on soundcheck, with 162 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 44 more. Often billed alongside Cloudy, Nico Moreno and KUKO. Next up: Burgess Park, London on Sat 1 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 25 Jul 2026 | Rebstockpark | Frankfurt |
 | Sat, 1 Aug 2026 | Burgess Park | London |
 | Sun, 23 Aug 2026 | Kiesgrube | Düsseldorf |
 | Sun, 30 Aug 2026 | Edelfettwerk | Hamburg |
@@ -16,9 +15,11 @@ NOVAH is a techno and trance artist tracked on soundcheck, with 161 sets logged 
 | Sun, 6 Sept 2026 | Palace of Fine Arts | San Francisco/Oakland |
 | Sat, 12 Sept 2026 | Mondo Open Air | Madrid |
 | Sat, 17 Oct 2026 | Lutfi Kirdar Congress Center | Istanbul |
+| Sat, 24 Oct 2026 | NDSM Scheepsbouwloods | Amsterdam |
 
 ## Recently played
 
+- Rebstockpark, Frankfurt — Sat, 25 Jul 2026
 - Camperdown Country Park, Dundee — Sat, 4 Jul 2026
 - Parco Dora, Turin — Fri, 3 Jul 2026
 - Ushuaïa Ibiza, Ibiza — Wed, 17 Jun 2026
@@ -26,10 +27,9 @@ NOVAH is a techno and trance artist tracked on soundcheck, with 161 sets logged 
 - Warehouse, Nantes — Sat, 6 Jun 2026
 - Ruigenhoek, Utrecht — Sat, 30 May 2026
 - Universe Athens, Athens — Sat, 30 May 2026
-- Nitsa Club, Barcelona — Fri, 29 May 2026
 
 ## Shares bills with
 
 Cloudy, Nico Moreno, KUKO
 
-*Updated Sat, 25 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/novah/)*
+*Updated Sun, 26 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/novah/)*

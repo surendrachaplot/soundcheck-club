@@ -14,16 +14,16 @@ AOS W/ Egyptian Lover, X-Coast, DJ MELL G, DJ Spit, 3LNA, Stef de Haan & MANY MO
 - Anton Jonathan
 - DJ Babyblade
 - DJ MELL G
-- DJ SWISHERMAN
 - DJ Spit
+- DJ SWISHERMAN
 - Egyptian Lover
 - EliaHaze
 - Krackk
 - Perra Inmunda
 - Robin Tasi
-- SZELEST
 - Shmonèss
 - Stef de Haan
+- SZELEST
 - Talia Dorr
 - X-Coast
 

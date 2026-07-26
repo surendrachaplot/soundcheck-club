@@ -1,6 +1,6 @@
 # Dekmantel At Night - Saturday at RADION
 
-Dekmantel At Night - Saturday at RADION on Sat 1 Aug, Amsterdam. 8 acts on the bill: AMORAL, Decoder, JASSS and Jasmín and 4 more. Techno. Preview the line-up and save it on soundcheck.
+Dekmantel At Night - Saturday at RADION on Sat 1 Aug, Amsterdam. 8 acts on the bill: AMORAL, Decoder, Jasmín and JASSS and 4 more. Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -12,8 +12,8 @@ Dekmantel At Night - Saturday at RADION on Sat 1 Aug, Amsterdam. 8 acts on the b
 
 - AMORAL
 - Decoder
-- JASSS
 - Jasmín
+- JASSS
 - Luke Slater
 - Ottagone
 - Sandrien

@@ -1,6 +1,6 @@
 # Fran-Cee
 
-Fran-Cee is a Techno and Tech House artist with 5 upcoming club dates listed on soundcheck as of Sat, 25 Jul 2026, next at KitKatClub, Berlin on Sun, 2 Aug 2026.
+Fran-Cee is a Techno and Tech House artist with 5 upcoming club dates listed on soundcheck as of Sun, 26 Jul 2026, next at KitKatClub, Berlin on Sun, 2 Aug 2026.
 
 Fran-Cee is a techno and tech house artist based in Germany, tracked on soundcheck, with 38 sets logged across Berlin. Often billed alongside Epicx, Wiebe Roose and DarK LiZZ. Next up: KitKatClub, Berlin on Sun 2 Aug.
 
@@ -29,4 +29,4 @@ Fran-Cee is a techno and tech house artist based in Germany, tracked on soundche
 
 Epicx, Wiebe Roose, DarK LiZZ
 
-*Updated Sat, 25 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/fran-cee/)*
+*Updated Sun, 26 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/fran-cee/)*

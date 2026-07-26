@@ -15,9 +15,9 @@ Grau Series: [Indoor/Outdoor] with Blue Hour (UK/DE), Adamatron b2b Fake Agent, 
 - Blue Hour
 - Etienn Grey
 - Fake Agent
+- ishka machina
 - Kirill Astra
 - Marie Pravda
-- ishka machina
 - too many Jesses
 
 *Source: [soundcheck](https://soundcheck.club/e/2490422-grau-series-indoor-outdoor-with-blue-hour-uk-de-adamatron-b2/)*

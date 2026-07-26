@@ -1,14 +1,13 @@
 # Sara Landry
 
-Sara Landry is a Techno and House artist with 11 upcoming club dates listed on soundcheck as of Sat, 25 Jul 2026, next at Tapada da Ajuda, Lisbon on Sat, 25 Jul 2026.
+Sara Landry is a Techno and House artist with 10 upcoming club dates listed on soundcheck as of Sun, 26 Jul 2026, next at Downsview Park, Toronto on Fri, 31 Jul 2026.
 
-Sara Landry is a techno and house artist tracked on soundcheck, with 190 sets logged across Aberdeen, Amsterdam, Antwerp and Athens and 57 more. Often billed alongside Nico Moreno, Trym and OGUZ. Next up: Tapada da Ajuda, Lisbon on Sat 25 Jul.
+Sara Landry is a techno and house artist tracked on soundcheck, with 190 sets logged across Aberdeen, Amsterdam, Antwerp and Athens and 57 more. Often billed alongside Nico Moreno, Trym and OGUZ. Next up: Downsview Park, Toronto on Fri 31 Jul.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 25 Jul 2026 | Tapada da Ajuda | Lisbon |
 | Fri, 31 Jul 2026 | Downsview Park | Toronto |
 | Fri, 31 Jul 2026 | Downsview Park | Toronto |
 | Fri, 31 Jul 2026 | Under the K Bridge | New York City |
@@ -22,6 +21,7 @@ Sara Landry is a techno and house artist tracked on soundcheck, with 190 sets lo
 
 ## Recently played
 
+- Tapada da Ajuda, Lisbon — Sat, 25 Jul 2026
 - Recreatiegebied Middelwaard, Utrecht — Sat, 4 Jul 2026
 - Studio Club Malaga, Malaga — Fri, 26 Jun 2026
 - Fira Gran Via, Barcelona — Mon, 15 Jun 2026
@@ -29,10 +29,9 @@ Sara Landry is a techno and house artist tracked on soundcheck, with 190 sets lo
 - TBA - Refshaleøen, Copenhagen, Copenhagen — Fri, 5 Jun 2026
 - Hangaren, Copenhagen — Wed, 3 Jun 2026
 - RFK Stadium Memorial Stadium, Washington DC — Sat, 30 May 2026
-- Hart Plaza, Detroit — Sat, 23 May 2026
 
 ## Shares bills with
 
 Nico Moreno, Trym, OGUZ
 
-*Updated Sat, 25 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/saralandry/)*
+*Updated Sun, 26 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/saralandry/)*

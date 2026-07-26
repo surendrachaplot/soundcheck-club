@@ -1,6 +1,6 @@
 # Climate 24 hours: Bitter Babe b2b OK Williams, Reptant live, Sugar Free at Backsteinboot
 
-Climate 24 hours: Bitter Babe b2b OK Williams, Reptant live, Sugar Free at Backsteinboot on Sat 15 Aug, Berlin. 9 acts on the bill: Bitter Babe, ISAbella, Kia (AU) and Lolo (AU) and 5 more. Preview the line-up and save it on soundcheck.
+Climate 24 hours: Bitter Babe b2b OK Williams, Reptant live, Sugar Free at Backsteinboot on Sat 15 Aug, Berlin. 9 acts on the bill: adobeprincess, Bitter Babe, ISAbella and Kia (AU) and 5 more. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,6 +10,7 @@ Climate 24 hours: Bitter Babe b2b OK Williams, Reptant live, Sugar Free at Backs
 
 ## Line-up
 
+- adobeprincess
 - Bitter Babe
 - ISAbella
 - Kia (AU)
@@ -18,6 +19,5 @@ Climate 24 hours: Bitter Babe b2b OK Williams, Reptant live, Sugar Free at Backs
 - OK Williams
 - Reptant
 - Sugar Free
-- adobeprincess
 
 *Source: [soundcheck](https://soundcheck.club/e/2474228-climate-24-hours-bitter-babe-b2b-ok-williams-reptant-live-su/)*

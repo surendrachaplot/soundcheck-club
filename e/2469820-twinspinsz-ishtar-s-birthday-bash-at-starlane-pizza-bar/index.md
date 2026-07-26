@@ -1,6 +1,6 @@
 # Twinspinsz ↠ Ishtar's Birthday Bash at Starlane Pizza Bar
 
-Twinspinsz ↠ Ishtar's Birthday Bash at Starlane Pizza Bar on Fri 14 Aug, London. 4 acts on the bill: Dylan James, Emile, FITS ME FUNNY and dylan.james. Techno and House. Preview the line-up and save it on soundcheck.
+Twinspinsz ↠ Ishtar's Birthday Bash at Starlane Pizza Bar on Fri 14 Aug, London. 4 acts on the bill: Dylan James, dylan.james, Emile and FITS ME FUNNY. Techno and House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -11,8 +11,8 @@ Twinspinsz ↠ Ishtar's Birthday Bash at Starlane Pizza Bar on Fri 14 Aug, Londo
 ## Line-up
 
 - Dylan James
+- dylan.james
 - Emile
 - FITS ME FUNNY
-- dylan.james
 
 *Source: [soundcheck](https://soundcheck.club/e/2469820-twinspinsz-ishtar-s-birthday-bash-at-starlane-pizza-bar/)*

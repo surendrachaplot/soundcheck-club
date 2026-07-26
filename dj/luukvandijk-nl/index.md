@@ -1,6 +1,6 @@
 # Luuk van Dijk
 
-Luuk van Dijk is a House and Tech House artist with 16 upcoming club dates listed on soundcheck as of Sat, 25 Jul 2026, next at TBA - Hollywood Park adjacent to SoFi Stadium, Los Angeles on Sat, 1 Aug 2026.
+Luuk van Dijk is a House and Tech House artist with 16 upcoming club dates listed on soundcheck as of Sun, 26 Jul 2026, next at TBA - Hollywood Park adjacent to SoFi Stadium, Los Angeles on Sat, 1 Aug 2026.
 
 Luuk van Dijk is a house and tech house artist tracked on soundcheck, with 225 sets logged across Amsterdam, Antwerp, Austin and Barcelona and 45 more. Often billed alongside L.P. Rhythm, Prunk and Max Dean. Next up: TBA - Hollywood Park adjacent to SoFi Stadium, Losangeles on Sat 1 Aug.
 
@@ -36,4 +36,4 @@ Luuk van Dijk is a house and tech house artist tracked on soundcheck, with 225 s
 
 L.P. Rhythm, Prunk, Max Dean
 
-*Updated Sat, 25 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/luukvandijk-nl/)*
+*Updated Sun, 26 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/luukvandijk-nl/)*

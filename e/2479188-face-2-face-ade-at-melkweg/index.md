@@ -17,7 +17,7 @@ FACE 2 FACE: ADE at Melkweg on Thu 22 Oct, Amsterdam. 9 acts on the bill: 2HOT2P
 - HUMAN ERROR
 - Kander
 - Noise Mafia
-- WILDERÍCH
 - relajadita
+- WILDERÍCH
 
 *Source: [soundcheck](https://soundcheck.club/e/2479188-face-2-face-ade-at-melkweg/)*

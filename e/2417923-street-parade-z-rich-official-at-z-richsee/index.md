@@ -16,8 +16,8 @@ Street Parade Zürich (Official) at Zürichsee on Sat 8 Aug, Zurich. 23 acts on 
 - Animal Trainer
 - Archie Hamilton
 - Argy
-- BLOND:ISH
 - Bart Skils
+- BLOND:ISH
 - Daria Kolosova
 - Ellen Allien
 - Félicie

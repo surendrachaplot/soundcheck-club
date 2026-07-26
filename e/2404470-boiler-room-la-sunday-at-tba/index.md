@@ -1,6 +1,6 @@
 # Boiler Room: LA | Sunday at TBA
 
-Boiler Room: LA | Sunday at TBA on Sun 27 Sept, Losangeles. 14 acts on the bill: Azyr, Coco & Breezy, EMILIJA and Faster Horses and 10 more. Techno and House. Preview the line-up and save it on soundcheck.
+Boiler Room: LA | Sunday at TBA on Sun 27 Sept, Losangeles. 14 acts on the bill: Azyr, canary yellow, Coco & Breezy and EMILIJA and 10 more. Techno and House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -11,6 +11,7 @@ Boiler Room: LA | Sunday at TBA on Sun 27 Sept, Losangeles. 14 acts on the bill:
 ## Line-up
 
 - Azyr
+- canary yellow
 - Coco & Breezy
 - EMILIJA
 - Faster Horses
@@ -19,10 +20,9 @@ Boiler Room: LA | Sunday at TBA on Sun 27 Sept, Losangeles. 14 acts on the bill:
 - HoneyLuv
 - Jazzy (IRL)
 - Kitty Amor
-- STRAWBRY
 - Shankz
+- STRAWBRY
 - TDJ
 - Vieze Asbak
-- canary yellow
 
 *Source: [soundcheck](https://soundcheck.club/e/2404470-boiler-room-la-sunday-at-tba/)*

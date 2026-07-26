@@ -16,16 +16,16 @@ Sexy Peißnizt Open Air Halle (Salle) at TBA - Peißnitzinsel Halle on Sat 1 Aug
 - DJ Tallboy
 - ELOISA
 - ESCALEA
+- humae
 - HUMAN ERROR
 - JUNiQUE
 - KIVI
 - Kivi (2)
 - Limoncello
+- Meyhartt
 - MLDC
 - MRGNSTRN
-- Meyhartt
 - Poly
 - WILDERÍCH
-- humae
 
 *Source: [soundcheck](https://soundcheck.club/e/2464023-sexy-pei-nizt-open-air-halle-salle-at-tba-pei-nitzinsel-hall/)*

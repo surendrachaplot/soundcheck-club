@@ -16,9 +16,9 @@ WE ARE ONE presents HYDRO Pool Sesh at Nidderbad on Sat 22 Aug, Frankfurt. 10 ac
 - Formale Bassgestaltung
 - JAZZY (2)
 - Kacy
-- PENELOPE (DE)
-- Penelope (2)
-- Zoe Zett
 - nomitekk
+- Penelope (2)
+- PENELOPE (DE)
+- Zoe Zett
 
 *Source: [soundcheck](https://soundcheck.club/e/2409890-we-are-one-presents-hydro-pool-sesh-at-nidderbad/)*

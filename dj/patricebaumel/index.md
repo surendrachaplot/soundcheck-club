@@ -1,8 +1,8 @@
 # Patrice Bäumel
 
-Patrice Bäumel is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Sat, 25 Jul 2026, next at public records, New York City on Sun, 26 Jul 2026.
+Patrice Bäumel is a Techno and House artist with 4 upcoming club dates listed on soundcheck as of Sun, 26 Jul 2026, next at public records, New York City on Sun, 26 Jul 2026.
 
-Patrice Bäumel is a techno and house artist tracked on soundcheck, with 144 sets logged across Amsterdam, Antwerp, Barcelona and Belgrade and 39 more. Often billed alongside Patrice, Hernan Cattaneo and Sasha. Next up: public records, Newyorkcity on Sun 26 Jul.
+Patrice Bäumel is a techno and house artist tracked on soundcheck, with 145 sets logged across Amsterdam, Antwerp, Barcelona and Belgrade and 39 more. Often billed alongside Patrice, Sasha and Hernan Cattaneo. Next up: public records, Newyorkcity on Sun 26 Jul.
 
 ## Upcoming shows
 
@@ -11,6 +11,7 @@ Patrice Bäumel is a techno and house artist tracked on soundcheck, with 144 set
 | Sun, 26 Jul 2026 | public records | New York City |
 | Thu, 1 Oct 2026 | 528 Ibiza | Ibiza |
 | Sat, 3 Oct 2026 | Seaseaclub Barcelona | Barcelona |
+| Sat, 24 Oct 2026 | Het Sieraad | Amsterdam |
 
 ## Recently played
 
@@ -25,6 +26,6 @@ Patrice Bäumel is a techno and house artist tracked on soundcheck, with 144 set
 
 ## Shares bills with
 
-Patrice, Hernan Cattaneo, Sasha
+Patrice, Sasha, Hernan Cattaneo
 
-*Updated Sat, 25 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/patricebaumel/)*
+*Updated Sun, 26 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/patricebaumel/)*

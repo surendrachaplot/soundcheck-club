@@ -1,6 +1,6 @@
 # 2Much at Lokschuppen: DJ YARAK, Orbi, t e s t p r e s s at Lokschuppen Berlin
 
-2Much at Lokschuppen: DJ YARAK, Orbi, t e s t p r e s s at Lokschuppen Berlin on Sat 12 Sept, Berlin. 15 acts on the bill: Blayde, DETOXX, DJ YARAK and Die Klar and 11 more. Trance and Techno. Preview the line-up and save it on soundcheck.
+2Much at Lokschuppen: DJ YARAK, Orbi, t e s t p r e s s at Lokschuppen Berlin on Sat 12 Sept, Berlin. 15 acts on the bill: Blayde, DETOXX, Die Klar and DJ YARAK and 11 more. Trance and Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -12,8 +12,8 @@
 
 - Blayde
 - DETOXX
-- DJ YARAK
 - Die Klar
+- DJ YARAK
 - Eva Charley
 - JUICY (DE)
 - Kichta
@@ -23,7 +23,7 @@
 - Orbi
 - Sacha Harland
 - Shake Daddy
-- XIMA
 - t e s t p r e s s
+- XIMA
 
 *Source: [soundcheck](https://soundcheck.club/e/2331726-2much-at-lokschuppen-dj-yarak-orbi-t-e-s-t-p-r-e-s-s-at-loks/)*

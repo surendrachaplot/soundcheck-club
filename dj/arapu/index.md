@@ -1,14 +1,15 @@
 # Arapu
 
-Arapu is a House and Minimal artist with 6 upcoming club dates listed on soundcheck as of Sat, 25 Jul 2026, next at Europa Boat, Budapest on Sat, 1 Aug 2026.
+Arapu is a House and Minimal artist with 7 upcoming club dates listed on soundcheck as of Sun, 26 Jul 2026, next at Europa Boat, Budapest on Sat, 1 Aug 2026.
 
-Arapu is a house and minimal artist tracked on soundcheck, with 145 sets logged across Amsterdam, Athens, Barcelona and Basel and 29 more. Often billed alongside Priku, Seth Troxler and Sossa. Next up: Europa Boat, Budapest on Sat 1 Aug.
+Arapu is a house and minimal artist tracked on soundcheck, with 146 sets logged across Amsterdam, Athens, Barcelona and Basel and 29 more. Often billed alongside Priku, Seth Troxler and Sossa. Next up: Europa Boat, Budapest on Sat 1 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 1 Aug 2026 | Europa Boat | Budapest |
+| Sat, 1 Aug 2026 | Kassa Boat | Budapest |
 | Fri, 7 Aug 2026 | Supermarket | Zurich |
 | Mon, 17 Aug 2026 | DC-10 | Ibiza |
 | Sun, 23 Aug 2026 | Seaseaclub Barcelona | Barcelona |
@@ -30,4 +31,4 @@ Arapu is a house and minimal artist tracked on soundcheck, with 145 sets logged 
 
 Priku, Seth Troxler, Sossa
 
-*Updated Sat, 25 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/arapu/)*
+*Updated Sun, 26 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/arapu/)*

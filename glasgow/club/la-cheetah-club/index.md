@@ -1,6 +1,6 @@
 # La Cheetah Club
 
-La Cheetah Club is a music venue in Glasgow with 21 upcoming nights listed on soundcheck as of Sat, 25 Jul 2026; the next is "Pedestrianism presents: Drinks On Me" on Sat, 25 Jul 2026.
+La Cheetah Club is a music venue in Glasgow with 21 upcoming nights listed on soundcheck as of Sun, 26 Jul 2026; the next is "KEEP ON with OOFT! & David Barbarossa" on Sun, 26 Jul 2026.
 
 La Cheetah Club is a music venue in Glasgow listed on soundcheck. 21 upcoming nights, with line-ups including Ali Watts, Boss Priester, Bristol Luke and Carmen Baía and 2 more. Browse upcoming dates, start times and who's playing. Basement, 73 Queen Street; Glasgow, G1 3BZ; Scotland; United Kingdom.
 
@@ -8,7 +8,6 @@ La Cheetah Club is a music venue in Glasgow listed on soundcheck. 21 upcoming ni
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Sat, 25 Jul 2026 | Pedestrianism presents: Drinks On Me | Drinks On Me |
 | Sun, 26 Jul 2026 | KEEP ON with OOFT! & David Barbarossa | David Barbarossa, OOFT |
 | Thu, 30 Jul 2026 | SEQUENCE x Repetitions: Chapter One | Eubo, JHNSSN, Reece Pritchard |
 | Fri, 31 Jul 2026 | Animal Farm Records presents: STONK - E.DN - Quail | E.DN, Quail, STONK |
@@ -18,9 +17,10 @@ La Cheetah Club is a music venue in Glasgow listed on soundcheck. 21 upcoming ni
 | Fri, 7 Aug 2026 | Hawd That 007 // Scissor Salad | Work Coach, Yuzo, fergusmcnally |
 | Sat, 8 Aug 2026 | PHAZON 003: INSECT |  |
 | Sun, 9 Aug 2026 | KEEP ON with David Barbarossa & OOFT | David Barbarossa, OOFT |
+| Thu, 13 Aug 2026 | NIGHTSHIFT: Ali Watts, Surplus + SMK | Ali Watts, SMK (1), Surplus |
 
 ## Address
 
 Basement, 73 Queen Street; Glasgow, G1 3BZ; Scotland; United Kingdom, Glasgow
 
-*Updated Sat, 25 Jul 2026 · source: [soundcheck](https://soundcheck.club/glasgow/club/la-cheetah-club/)*
+*Updated Sun, 26 Jul 2026 · source: [soundcheck](https://soundcheck.club/glasgow/club/la-cheetah-club/)*

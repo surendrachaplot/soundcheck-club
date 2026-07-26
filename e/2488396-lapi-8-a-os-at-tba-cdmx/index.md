@@ -1,6 +1,6 @@
 # Lapi 8 Años at TBA - CDMX
 
-Lapi 8 Años at TBA - CDMX on Sat 8 Aug, Mexicocity. 5 acts on the bill: Atosigado, B0YG1RL, Lucas Kid and RICO RICA and 1 more. Bass and Club. Preview the line-up and save it on soundcheck.
+Lapi 8 Años at TBA - CDMX on Sat 8 Aug, Mexicocity. 5 acts on the bill: Atosigado, B0YG1RL, dj mico and Lucas Kid and 1 more. Bass and Club. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -12,8 +12,8 @@ Lapi 8 Años at TBA - CDMX on Sat 8 Aug, Mexicocity. 5 acts on the bill: Atosiga
 
 - Atosigado
 - B0YG1RL
+- dj mico
 - Lucas Kid
 - RICO RICA
-- dj mico
 
 *Source: [soundcheck](https://soundcheck.club/e/2488396-lapi-8-a-os-at-tba-cdmx/)*

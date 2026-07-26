@@ -1,6 +1,6 @@
 # GiB & Hakke Berlin pres - 'The HARDCORE Live Edition' at OXI
 
-GiB & Hakke Berlin pres - 'The HARDCORE Live Edition' at OXI on Sat 8 Aug, Berlin. 11 acts on the bill: Baptist (UK), DJ Steuerhinterziehung, Dagobird and Dj Cvntface and 7 more. Techno and Gabber. Preview the line-up and save it on soundcheck.
+GiB & Hakke Berlin pres - 'The HARDCORE Live Edition' at OXI on Sat 8 Aug, Berlin. 11 acts on the bill: Baptist (UK), Dagobird, daschka and Dj Cvntface and 7 more. Techno and Gabber. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -11,15 +11,15 @@ GiB & Hakke Berlin pres - 'The HARDCORE Live Edition' at OXI on Sat 8 Aug, Berli
 ## Line-up
 
 - Baptist (UK)
-- DJ Steuerhinterziehung
 - Dagobird
+- daschka
 - Dj Cvntface
+- DJ Steuerhinterziehung
 - FLUCC
 - IceLipzz
 - LØUS
+- m4tsch1
 - Osiris (2)
 - Viscerale
-- daschka
-- m4tsch1
 
 *Source: [soundcheck](https://soundcheck.club/e/2421982-gib-hakke-berlin-pres-the-hardcore-live-edition-at-oxi/)*

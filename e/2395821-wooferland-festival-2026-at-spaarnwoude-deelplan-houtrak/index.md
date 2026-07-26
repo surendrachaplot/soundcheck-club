@@ -23,8 +23,8 @@ Wooferland festival 2026 at Spaarnwoude (Deelplan Houtrak) on Sat 29 Aug, Amster
 - FAUSTO
 - Franky Jones
 - Funkerman
-- JP (4)
 - Jay Dee
+- JP (4)
 - Kim Kaos
 - Lemon 8
 - Marco Bailey

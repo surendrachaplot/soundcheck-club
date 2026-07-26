@@ -1,6 +1,6 @@
 # Joe Vanditti
 
-Joe Vanditti is a Tech House and House artist with 3 upcoming club dates listed on soundcheck as of Sat, 25 Jul 2026, next at Playa Soleil Ibiza, Ibiza on Wed, 29 Jul 2026.
+Joe Vanditti is a Tech House and House artist with 3 upcoming club dates listed on soundcheck as of Sun, 26 Jul 2026, next at Playa Soleil Ibiza, Ibiza on Wed, 29 Jul 2026.
 
 Joe Vanditti is a tech house and house artist tracked on soundcheck, with 48 sets logged across Amsterdam, Barcelona, Belgrade and Bucharest and 13 more. Often billed alongside Stefano Noferini, Alev Tav and Alex Bohemien. Next up: Playa Soleil Ibiza, Ibiza on Wed 29 Jul.
 
@@ -27,4 +27,4 @@ Joe Vanditti is a tech house and house artist tracked on soundcheck, with 48 set
 
 Stefano Noferini, Alev Tav, Alex Bohemien
 
-*Updated Sat, 25 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/joevanditti/)*
+*Updated Sun, 26 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/joevanditti/)*

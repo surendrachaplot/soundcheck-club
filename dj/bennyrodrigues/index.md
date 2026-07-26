@@ -1,14 +1,13 @@
 # Benny Rodrigues
 
-Benny Rodrigues is a House and Techno artist with 15 upcoming club dates listed on soundcheck as of Sat, 25 Jul 2026, next at Oranjepark, Rotterdam on Sat, 25 Jul 2026.
+Benny Rodrigues is a House and Techno artist with 14 upcoming club dates listed on soundcheck as of Sun, 26 Jul 2026, next at Bronze Beach, Amsterdam on Sun, 26 Jul 2026.
 
-Benny Rodrigues is a house and techno artist tracked on soundcheck, with 187 sets logged across Amsterdam, Antwerp, Berlin and Ibiza and 3 more. Often billed alongside Michel de Hey, Prunk and Joëlla Jackson. Next up: Oranjepark, Rotterdam on Sat 25 Jul.
+Benny Rodrigues is a house and techno artist tracked on soundcheck, with 187 sets logged across Amsterdam, Antwerp, Berlin and Ibiza and 3 more. Often billed alongside Michel de Hey, Prunk and Joëlla Jackson. Next up: Bronze Beach, Amsterdam on Sun 26 Jul.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 25 Jul 2026 | Oranjepark | Rotterdam |
 | Sun, 26 Jul 2026 | Bronze Beach | Amsterdam |
 | Sun, 26 Jul 2026 | NAR | Utrecht |
 | Wed, 29 Jul 2026 | Amsterdamse Bos | Amsterdam |
@@ -20,9 +19,11 @@ Benny Rodrigues is a house and techno artist tracked on soundcheck, with 187 set
 | Sat, 5 Sept 2026 | Strijkviertel | Utrecht |
 | Sat, 12 Sept 2026 | Kralingse Bos | Rotterdam |
 | Sat, 12 Sept 2026 | Laagravense Plas | Utrecht |
+| Sat, 19 Sept 2026 | Shelter Amsterdam | Amsterdam |
 
 ## Recently played
 
+- Oranjepark, Rotterdam — Sat, 25 Jul 2026
 - Hembrugterrein, Amsterdam — Sat, 11 Jul 2026
 - Maarsseveense Plassen, Utrecht — Sat, 11 Jul 2026
 - Recreatiegebied Middelwaard, Utrecht — Sat, 4 Jul 2026
@@ -30,10 +31,9 @@ Benny Rodrigues is a house and techno artist tracked on soundcheck, with 187 set
 - Colorado Charlie, The Hague — Sun, 21 Jun 2026
 - Kralingse Bos, Rotterdam — Sat, 13 Jun 2026
 - Toffler, Rotterdam — Sat, 13 Jun 2026
-- Amsterdamse Bos, Amsterdam — Sat, 6 Jun 2026
 
 ## Shares bills with
 
 Michel de Hey, Prunk, Joëlla Jackson
 
-*Updated Sat, 25 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/bennyrodrigues/)*
+*Updated Sun, 26 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/bennyrodrigues/)*

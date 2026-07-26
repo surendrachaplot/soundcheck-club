@@ -29,6 +29,7 @@ You & Me x WHP at Depot Mayfield on Sat 3 Oct, Manchester. 42 acts on the bill: 
 - Job de Jong
 - Josh Baker
 - Julian Fijma
+- jWave
 - Kepler
 - L.P. Rhythm
 - Laura De Greef
@@ -47,10 +48,9 @@ You & Me x WHP at Depot Mayfield on Sat 3 Oct, Manchester. 42 acts on the bill: 
 - Seth Troxler
 - Shanti Celeste
 - Sidney Charles
+- simmo
 - Stef Davidse
 - The Trip
 - Traumer
-- jWave
-- simmo
 
 *Source: [soundcheck](https://soundcheck.club/e/2458483-you-me-x-whp-at-depot-mayfield/)*

@@ -1,6 +1,6 @@
 # HIGH BEAM & Them Local: 15 YEARS OF PRÍNCIPE at Bastet
 
-HIGH BEAM & Them Local: 15 YEARS OF PRÍNCIPE at Bastet on Sat 8 Aug, Philadelphia. 7 acts on the bill: DJ Lycox, DJ Nigga Fox, Dj Danifox and Eev Frances and 3 more. Club and Kuduro. Preview the line-up and save it on soundcheck.
+HIGH BEAM & Them Local: 15 YEARS OF PRÍNCIPE at Bastet on Sat 8 Aug, Philadelphia. 7 acts on the bill: Dj Danifox, DJ Lycox, DJ Nigga Fox and Eev Frances and 3 more. Club and Kuduro. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,9 +10,9 @@ HIGH BEAM & Them Local: 15 YEARS OF PRÍNCIPE at Bastet on Sat 8 Aug, Philadelph
 
 ## Line-up
 
+- Dj Danifox
 - DJ Lycox
 - DJ Nigga Fox
-- Dj Danifox
 - Eev Frances
 - Katarina Especial
 - Nave Mãe

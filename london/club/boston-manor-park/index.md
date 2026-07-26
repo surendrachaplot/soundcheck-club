@@ -1,14 +1,13 @@
 # Boston Manor Park
 
-Boston Manor Park is a music venue in London with 5 upcoming nights listed on soundcheck as of Sat, 25 Jul 2026; the next is "Junction 2 x fabric: Jeff Mills, Marcel Dettmann, DJ Hell, Ben Klock, Nicolas Lutz, Peach" on Sat, 25 Jul 2026.
+Boston Manor Park is a music venue in London with 4 upcoming nights listed on soundcheck as of Sun, 26 Jul 2026; the next is "Junction 2: Adam Beyer, Miss Monique, Indo Warehouse" on Sun, 26 Jul 2026.
 
-Boston Manor Park is a music venue in London listed on soundcheck. 5 upcoming nights, with line-ups including Howling, Aaron Hibell, Adam Beyer and Âme and 2 more. Browse upcoming dates, start times and who's playing. Boston Manor Park, Brentford, TW8 9JX, London.
+Boston Manor Park is a music venue in London listed on soundcheck. 4 upcoming nights, with line-ups including Howling, Aaron Hibell, Adam Beyer and Âme and 2 more. Browse upcoming dates, start times and who's playing. Boston Manor Park, Brentford, TW8 9JX, London.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Sat, 25 Jul 2026 | Junction 2 x fabric: Jeff Mills, Marcel Dettmann, DJ Hell, Ben Klock, Nicolas Lutz, Peach | Anna Wall, Ben Klock, DJ Hell, ELODIE, Francesco Del Garda, Gabrielle Kwarteng, GiGi FM, Harry McCanna, Jeff Mills, Lewis Carroll, Marcel Dettmann, Nicolas Lutz, Nina Kraviz, Peach, Polygonia, Tapefeed |
 | Sun, 26 Jul 2026 | Junction 2: Adam Beyer, Miss Monique, Indo Warehouse | Aaron Hibell, Adam Beyer, Avangart Tabldot, Carina Lawrence, Franky Wah, Julia Linkogel, Kotiēr, Mia Aurora, Miss Monique, Tripolism |
 | Fri, 31 Jul 2026 | Junction 2: Mall Grab, Effy, Ross From Friends | BLUMITSU, Benga, Claire O'Brien, DJ Storm (2), David Jackson, Effy, KE-YEN, LO-LOW, Mall Grab, ODF (1), RONI, Ross From Friends, Special Request, Sully, Tarzsa |
 | Sat, 1 Aug 2026 | Innervisions LONDON | Dixon, Howling, Ivory, JAMIIE, Jimi Jules, Julya Karma, RY X, Sama' Abdulhadi, Trikk, Âme |
@@ -18,4 +17,4 @@ Boston Manor Park is a music venue in London listed on soundcheck. 5 upcoming ni
 
 Boston Manor Park, Brentford, TW8 9JX, London, London
 
-*Updated Sat, 25 Jul 2026 · source: [soundcheck](https://soundcheck.club/london/club/boston-manor-park/)*
+*Updated Sun, 26 Jul 2026 · source: [soundcheck](https://soundcheck.club/london/club/boston-manor-park/)*

@@ -1,14 +1,13 @@
 # The Bernard Shaw
 
-The Bernard Shaw is a music venue in Dublin with 5 upcoming nights listed on soundcheck as of Sat, 25 Jul 2026; the next is "LOST: Beatyard Pre Party with Special Guest & Residents" on Sat, 25 Jul 2026.
+The Bernard Shaw is a music venue in Dublin with 4 upcoming nights listed on soundcheck as of Sun, 26 Jul 2026; the next is "THC Summer Garden Party" on Sat, 1 Aug 2026.
 
-The Bernard Shaw is a music venue in Dublin listed on soundcheck. 5 upcoming nights, with line-ups including Accomplice, Connect, eskay and L.ivory and 2 more. Browse upcoming dates, start times and who's playing. Cross Guns Bridge, Glasnevin, Drumcondra, Dublin 9, D09 XW44.
+The Bernard Shaw is a music venue in Dublin listed on soundcheck. 4 upcoming nights, with line-ups including Accomplice, Connect, eskay and L.ivory and 2 more. Browse upcoming dates, start times and who's playing. Cross Guns Bridge, Glasnevin, Drumcondra, Dublin 9, D09 XW44.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Sat, 25 Jul 2026 | LOST: Beatyard Pre Party with Special Guest & Residents |  |
 | Sat, 1 Aug 2026 | THC Summer Garden Party | eskay |
 | Sat, 1 Aug 2026 | Back To The 90s feat. VJKK - Dance Classics |  |
 | Fri, 14 Aug 2026 | XPECTED - Techno in 3 Stages - 9 Hrs Rave | Connect, NILAAA, Phil Bass, Romanetto |
@@ -18,4 +17,4 @@ The Bernard Shaw is a music venue in Dublin listed on soundcheck. 5 upcoming nig
 
 Cross Guns Bridge, Glasnevin, Drumcondra, Dublin 9, D09 XW44, Dublin
 
-*Updated Sat, 25 Jul 2026 · source: [soundcheck](https://soundcheck.club/dublin/club/the-bernard-shaw/)*
+*Updated Sun, 26 Jul 2026 · source: [soundcheck](https://soundcheck.club/dublin/club/the-bernard-shaw/)*

@@ -14,6 +14,7 @@ SYNC - London at The Cause on Sun 26 Jul, London. 17 acts on the bill: Bappy, Co
 - Coco Em
 - Crybaby
 - DJ Travella
+- harpriya
 - JUPiTA
 - K2RAH
 - Miss Tacacá
@@ -26,6 +27,5 @@ SYNC - London at The Cause on Sun 26 Jul, London. 17 acts on the bill: Bappy, Co
 - Saphe
 - Seksu
 - Yung Singh
-- harpriya
 
 *Source: [soundcheck](https://soundcheck.club/e/2481326-sync-london-at-the-cause/)*

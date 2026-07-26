@@ -1,6 +1,6 @@
 # Rave, Rebels at The Greyhound
 
-Rave, Rebels at The Greyhound on Sat 8 Aug, London. 4 acts on the bill: ALNA, Franzine, Sandy Beach and arawzi. Techno and Electro. Preview the line-up and save it on soundcheck.
+Rave, Rebels at The Greyhound on Sat 8 Aug, London. 4 acts on the bill: ALNA, arawzi, Franzine and Sandy Beach. Techno and Electro. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -11,8 +11,8 @@ Rave, Rebels at The Greyhound on Sat 8 Aug, London. 4 acts on the bill: ALNA, Fr
 ## Line-up
 
 - ALNA
+- arawzi
 - Franzine
 - Sandy Beach
-- arawzi
 
 *Source: [soundcheck](https://soundcheck.club/e/2481624-rave-rebels-at-the-greyhound/)*

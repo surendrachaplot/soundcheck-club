@@ -1,6 +1,6 @@
 # smalltown Warehouse with Diffrent, Entasia + FUKHED b2b IsGwan at Preston Warehouse
 
-smalltown Warehouse with Diffrent, Entasia + FUKHED b2b IsGwan at Preston Warehouse on Sat 5 Sept, Melbourne. 6 acts on the bill: Angusand167others, Diffrent, Entasia and FUKHED and 2 more. Preview the line-up and save it on soundcheck.
+smalltown Warehouse with Diffrent, Entasia + FUKHED b2b IsGwan at Preston Warehouse on Sat 5 Sept, Melbourne. 6 acts on the bill: Angusand167others, dameeeela, Diffrent and Entasia and 2 more. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -11,10 +11,10 @@ smalltown Warehouse with Diffrent, Entasia + FUKHED b2b IsGwan at Preston Wareho
 ## Line-up
 
 - Angusand167others
+- dameeeela
 - Diffrent
 - Entasia
 - FUKHED
 - IsGwan
-- dameeeela
 
 *Source: [soundcheck](https://soundcheck.club/e/2469083-smalltown-warehouse-with-diffrent-entasia-fukhed-b2b-isgwan/)*

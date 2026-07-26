@@ -1,6 +1,6 @@
 # You&Me at Amnesia Ibiza
 
-You&Me at Amnesia Ibiza on Thu 3 Sept, Ibiza. 6 acts on the bill: Alexandria, Christian AB, Christian AB and Enzo Siragusa and 2 more. Tech House. Preview the line-up and save it on soundcheck.
+You&Me at Amnesia Ibiza on Thu 3 Sept, Ibiza. 5 acts on the bill: Alexandria, Christian AB, Enzo Siragusa and Josh Baker and 1 more. Tech House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -11,7 +11,6 @@ You&Me at Amnesia Ibiza on Thu 3 Sept, Ibiza. 6 acts on the bill: Alexandria, Ch
 ## Line-up
 
 - Alexandria
-- Christian AB
 - Christian AB
 - Enzo Siragusa
 - Josh Baker

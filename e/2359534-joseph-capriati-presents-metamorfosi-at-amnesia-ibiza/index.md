@@ -1,6 +1,6 @@
 # Joseph Capriati presents Metamorfosi at Amnesia Ibiza
 
-Joseph Capriati presents Metamorfosi at Amnesia Ibiza on Tue 22 Sept, Ibiza. 10 acts on the bill: ALISHA, Alarico, Ben Klock and Joe Vanditti and 6 more. Techno and Tech House. Preview the line-up and save it on soundcheck.
+Joseph Capriati presents Metamorfosi at Amnesia Ibiza on Tue 22 Sept, Ibiza. 10 acts on the bill: Alarico, ALISHA, Ben Klock and Joe Vanditti and 6 more. Techno and Tech House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,8 +10,8 @@ Joseph Capriati presents Metamorfosi at Amnesia Ibiza on Tue 22 Sept, Ibiza. 10 
 
 ## Line-up
 
-- ALISHA
 - Alarico
+- ALISHA
 - Ben Klock
 - Joe Vanditti
 - Joseph Capriati

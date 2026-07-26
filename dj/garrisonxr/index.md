@@ -1,6 +1,6 @@
 # Garrison XR
 
-Garrison XR is a Techno and Electro artist with 5 upcoming club dates listed on soundcheck as of Sat, 25 Jul 2026, next at Per Ankh Detroit Entheogenic Church, Detroit on Sun, 26 Jul 2026.
+Garrison XR is a Techno and Electro artist with 5 upcoming club dates listed on soundcheck as of Sun, 26 Jul 2026, next at Per Ankh Detroit Entheogenic Church, Detroit on Sun, 26 Jul 2026.
 
 Garrison XR is a techno and electro artist based in United States of America, tracked on soundcheck, with 194 sets logged across Detroit, Newyorkcity and Sandiego. Often billed alongside Ashton Swinton, LATEX GIRL and Amino. Next up: Per Ankh Detroit Entheogenic Church, Detroit on Sun 26 Jul.
 
@@ -29,4 +29,4 @@ Garrison XR is a techno and electro artist based in United States of America, tr
 
 Ashton Swinton, LATEX GIRL, Amino
 
-*Updated Sat, 25 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/garrisonxr/)*
+*Updated Sun, 26 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/garrisonxr/)*

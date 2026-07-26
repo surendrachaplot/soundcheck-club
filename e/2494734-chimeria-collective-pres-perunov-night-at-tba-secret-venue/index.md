@@ -1,6 +1,6 @@
 # Chimeria Collective pres. Perunov Night at TBA - Secret Venue
 
-Chimeria Collective pres. Perunov Night at TBA - Secret Venue on Sat 15 Aug, Chicago. 4 acts on the bill: D. Strange, Jeremiah Meece, Zagc and easygoingtech. Electro and Ambient. Preview the line-up and save it on soundcheck.
+Chimeria Collective pres. Perunov Night at TBA - Secret Venue on Sat 15 Aug, Chicago. 4 acts on the bill: D. Strange, easygoingtech, Jeremiah Meece and Zagc. Electro and Ambient. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -11,8 +11,8 @@ Chimeria Collective pres. Perunov Night at TBA - Secret Venue on Sat 15 Aug, Chi
 ## Line-up
 
 - D. Strange
+- easygoingtech
 - Jeremiah Meece
 - Zagc
-- easygoingtech
 
 *Source: [soundcheck](https://soundcheck.club/e/2494734-chimeria-collective-pres-perunov-night-at-tba-secret-venue/)*

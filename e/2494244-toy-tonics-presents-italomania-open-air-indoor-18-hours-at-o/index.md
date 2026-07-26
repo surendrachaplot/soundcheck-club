@@ -14,9 +14,9 @@ Toy Tonics presents ITALOMANIA (OPEN AIR & INDOOR 18 hours) at OXI on Sat 22 Aug
 - Camilo Miranda
 - Delfonic
 - Franz Scala
+- keikee
 - Luca Averna
 - Luca Elsi
 - Trujillo
-- keikee
 
 *Source: [soundcheck](https://soundcheck.club/e/2494244-toy-tonics-presents-italomania-open-air-indoor-18-hours-at-o/)*

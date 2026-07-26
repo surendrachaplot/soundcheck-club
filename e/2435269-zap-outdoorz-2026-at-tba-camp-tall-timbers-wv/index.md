@@ -17,15 +17,18 @@ ZAP outdoorz 2026 at TBA - Camp Tall Timbers, WV on Fri 4 Sept, Washingtondc. 30
 - Eshie
 - Ether Pleaser
 - Fabiola
+- gum.mp3
 - Jacq Jill
 - Joyce Lim
 - Juana
 - Keenan Orr
 - Kiernan Laveaux
 - Kilbourne
-- MIRA MIRA
+- livwutang
 - Malzof
 - Matmos
+- MIRA MIRA
+- nataliepops
 - Pamela_ and her sons
 - Relaxer
 - Roost.World
@@ -37,8 +40,5 @@ ZAP outdoorz 2026 at TBA - Camp Tall Timbers, WV on Fri 4 Sept, Washingtondc. 30
 - T.Wan
 - Tommy Cornelis
 - Ultra Naté
-- gum.mp3
-- livwutang
-- nataliepops
 
 *Source: [soundcheck](https://soundcheck.club/e/2435269-zap-outdoorz-2026-at-tba-camp-tall-timbers-wv/)*

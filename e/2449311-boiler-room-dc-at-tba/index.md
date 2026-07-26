@@ -1,6 +1,6 @@
 # Boiler Room: DC at TBA
 
-Boiler Room: DC at TBA on Sat 12 Sept, Washingtondc. 9 acts on the bill: Bambounou, Boys Noize, COBRAH and DJ Gigola and 5 more. Techno and Club. Preview the line-up and save it on soundcheck.
+Boiler Room: DC at TBA on Sat 12 Sept, Washingtondc. 9 acts on the bill: Bambounou, Boys Noize, COBRAH and Daria Kolosova and 5 more. Techno and Club. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -13,8 +13,8 @@ Boiler Room: DC at TBA on Sat 12 Sept, Washingtondc. 9 acts on the bill: Bamboun
 - Bambounou
 - Boys Noize
 - COBRAH
-- DJ Gigola
 - Daria Kolosova
+- DJ Gigola
 - Izzy Camina
 - Mietze Conte
 - Skin On Skin

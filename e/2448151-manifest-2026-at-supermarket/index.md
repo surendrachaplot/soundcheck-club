@@ -23,9 +23,9 @@ MANIFEST 2026 at Supermarket on Fri 7 Aug, Zurich. 18 acts on the bill: Aline (C
 - Petre Inspirescu
 - Praslea
 - Priku
-- RPR Soundsystem
 - Raresh
 - Rhadoo
+- RPR Soundsystem
 - Serenne
 - Zefzeed
 

@@ -17,8 +17,8 @@ Klubnacht at Berghain | Panorama Bar | Säule on Sat 1 Aug, Berlin. 15 acts on t
 - DJ Dustin
 - Fabian Garrido
 - John Talabot
-- MNTY
 - Mareena
+- MNTY
 - Nathalie Seres
 - Phara
 - Roseen

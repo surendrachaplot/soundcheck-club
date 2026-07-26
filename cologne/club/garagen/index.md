@@ -1,14 +1,14 @@
 # Garagen
 
-Garagen is a music venue in Cologne with 3 upcoming nights listed on soundcheck as of Sat, 25 Jul 2026; the next is "CLUB Y2K" on Sat, 25 Jul 2026.
+Garagen is a music venue in Cologne with 3 upcoming nights listed on soundcheck as of Sun, 26 Jul 2026; the next is "TECHNOLiEBE A.M" on Wed, 29 Jul 2026.
 
-Garagen is a music venue in Cologne listed on soundcheck. 3 upcoming nights, with line-ups including Egyptian Lover, ENNA, LUZIA and MARRED and 2 more. Browse upcoming dates, start times and who's playing. Oskar-Jäger-Straße 179, 50825 Köln.
+Garagen is a music venue in Cologne listed on soundcheck. 3 upcoming nights, with line-ups including Egyptian Lover, ENNA, LUZIA and MARRED. Browse upcoming dates, start times and who's playing. Oskar-Jäger-Straße 179, 50825 Köln.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Sat, 25 Jul 2026 | CLUB Y2K | Pueblo Gelb, snoritz |
+| Wed, 29 Jul 2026 | TECHNOLiEBE A.M |  |
 | Fri, 28 Aug 2026 | Chin Chin - im Zauberwald | ENNA, LUZIA, MARRED |
 | Sat, 10 Oct 2026 | STUDIO 69 w/ Egyptian Lover & ARABIAN PRINCE | Egyptian Lover |
 
@@ -16,4 +16,4 @@ Garagen is a music venue in Cologne listed on soundcheck. 3 upcoming nights, wit
 
 Oskar-Jäger-Straße 179, 50825 Köln, Cologne
 
-*Updated Sat, 25 Jul 2026 · source: [soundcheck](https://soundcheck.club/cologne/club/garagen/)*
+*Updated Sun, 26 Jul 2026 · source: [soundcheck](https://soundcheck.club/cologne/club/garagen/)*

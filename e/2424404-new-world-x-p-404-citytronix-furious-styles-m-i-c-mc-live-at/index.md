@@ -1,6 +1,6 @@
 # NEW WORLD: X.P.404: CITYTRONIX / FURIOUS STYLES / M.I.C [MC/Live] at The White Hotel
 
-NEW WORLD: X.P.404: CITYTRONIX / FURIOUS STYLES / M.I.C [MC/Live] at The White Hotel on Sat 1 Aug, Manchester. 5 acts on the bill: CITYTRONIX, Chande, FURIOUS STYLES and M.I.C (The Master of Inane Conversation) and 1 more. Trance and Grime. Preview the line-up and save it on soundcheck.
+NEW WORLD: X.P.404: CITYTRONIX / FURIOUS STYLES / M.I.C [MC/Live] at The White Hotel on Sat 1 Aug, Manchester. 5 acts on the bill: Chande, CITYTRONIX, FURIOUS STYLES and M.I.C (The Master of Inane Conversation) and 1 more. Trance and Grime. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,8 +10,8 @@ NEW WORLD: X.P.404: CITYTRONIX / FURIOUS STYLES / M.I.C [MC/Live] at The White H
 
 ## Line-up
 
-- CITYTRONIX
 - Chande
+- CITYTRONIX
 - FURIOUS STYLES
 - M.I.C (The Master of Inane Conversation)
 - SHERI (2)

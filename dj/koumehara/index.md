@@ -1,6 +1,6 @@
 # Ko Umehara
 
-Ko Umehara is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Sat, 25 Jul 2026, next at Kagurane, Tokyo on Sat, 1 Aug 2026.
+Ko Umehara is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Sun, 26 Jul 2026, next at Kagurane, Tokyo on Sat, 1 Aug 2026.
 
 Ko Umehara is a techno and house artist based in Japan, tracked on soundcheck, with 46 sets logged across Tokyo. Often billed alongside Iori Wakasa, Haruka and IRON. Next up: Kagurane, Tokyo on Sat 1 Aug.
 
@@ -26,4 +26,4 @@ Ko Umehara is a techno and house artist based in Japan, tracked on soundcheck, w
 
 Iori Wakasa, Haruka, IRON
 
-*Updated Sat, 25 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/koumehara/)*
+*Updated Sun, 26 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/koumehara/)*

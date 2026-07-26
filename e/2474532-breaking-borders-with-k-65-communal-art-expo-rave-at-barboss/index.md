@@ -1,6 +1,6 @@
 # Breaking Borders with K-65: Communal Art Expo & Rave at Barbossa
 
-Breaking Borders with K-65: Communal Art Expo & Rave at Barbossa on Fri 31 Jul, Montreal. 5 acts on the bill: DANTE (CA), K-65, Runa and dusk (2) and 1 more. Breakbeat and Bass. Preview the line-up and save it on soundcheck.
+Breaking Borders with K-65: Communal Art Expo & Rave at Barbossa on Fri 31 Jul, Montreal. 5 acts on the bill: DANTE (CA), dusk (2), K-65 and Runa and 1 more. Breakbeat and Bass. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -11,9 +11,9 @@ Breaking Borders with K-65: Communal Art Expo & Rave at Barbossa on Fri 31 Jul, 
 ## Line-up
 
 - DANTE (CA)
+- dusk (2)
 - K-65
 - Runa
-- dusk (2)
 - wiwa
 
 *Source: [soundcheck](https://soundcheck.club/e/2474532-breaking-borders-with-k-65-communal-art-expo-rave-at-barboss/)*

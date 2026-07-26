@@ -1,6 +1,6 @@
 # Jeudi OK: Studio 2054 + Transgenik at Wanderlust
 
-Jeudi OK: Studio 2054 + Transgenik at Wanderlust on Thu 6 Aug, Paris. 3 acts on the bill: 1NSONGE, XTRATAKI and stargurl. Preview the line-up and save it on soundcheck.
+Jeudi OK: Studio 2054 + Transgenik at Wanderlust on Thu 6 Aug, Paris. 3 acts on the bill: 1NSONGE, stargurl and XTRATAKI. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -11,7 +11,7 @@ Jeudi OK: Studio 2054 + Transgenik at Wanderlust on Thu 6 Aug, Paris. 3 acts on 
 ## Line-up
 
 - 1NSONGE
-- XTRATAKI
 - stargurl
+- XTRATAKI
 
 *Source: [soundcheck](https://soundcheck.club/e/2440097-jeudi-ok-studio-2054-transgenik-at-wanderlust/)*

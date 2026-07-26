@@ -20,8 +20,8 @@ SOJOURN FESTIVAL 2026 at 131 Mccormack St on Fri 25 Sept, Toronto. 34 acts on th
 - DJ SWISHA
 - Donny Vega
 - Ellen Allien
-- FJAAK
 - Fanndemm
+- FJAAK
 - Geezr
 - Ignez
 - Jaw Jones
@@ -30,6 +30,7 @@ SOJOURN FESTIVAL 2026 at 131 Mccormack St on Fri 25 Sept, Toronto. 34 acts on th
 - Measure Divide
 - Milidi
 - Miss Bible
+- musa
 - Neffa-T
 - Negin
 - Nino Brown (2)
@@ -43,6 +44,5 @@ SOJOURN FESTIVAL 2026 at 131 Mccormack St on Fri 25 Sept, Toronto. 34 acts on th
 - Vadim Khan
 - Young Teesh
 - Zellers
-- musa
 
 *Source: [soundcheck](https://soundcheck.club/e/2279182-sojourn-festival-2026-at-131-mccormack-st/)*

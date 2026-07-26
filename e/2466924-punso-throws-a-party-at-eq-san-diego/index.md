@@ -1,6 +1,6 @@
 # Punso Throws a Party at EQ San Diego
 
-Punso Throws a Party at EQ San Diego on Fri 2 Oct, Sandiego. 4 acts on the bill: Codak, Punso, match.a.mor and snaxks. House and Bass. Preview the line-up and save it on soundcheck.
+Punso Throws a Party at EQ San Diego on Fri 2 Oct, Sandiego. 4 acts on the bill: Codak, match.a.mor, Punso and snaxks. House and Bass. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -11,8 +11,8 @@ Punso Throws a Party at EQ San Diego on Fri 2 Oct, Sandiego. 4 acts on the bill:
 ## Line-up
 
 - Codak
-- Punso
 - match.a.mor
+- Punso
 - snaxks
 
 *Source: [soundcheck](https://soundcheck.club/e/2466924-punso-throws-a-party-at-eq-san-diego/)*

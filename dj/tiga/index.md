@@ -1,8 +1,8 @@
 # Tiga
 
-Tiga is a Techno and House artist with 5 upcoming club dates listed on soundcheck as of Sat, 25 Jul 2026, next at TBA - Hollywood Park adjacent to SoFi Stadium, Los Angeles on Sat, 1 Aug 2026.
+Tiga is a Techno and House artist with 6 upcoming club dates listed on soundcheck as of Sun, 26 Jul 2026, next at TBA - Hollywood Park adjacent to SoFi Stadium, Los Angeles on Sat, 1 Aug 2026.
 
-Tiga is a techno and house artist tracked on soundcheck, with 108 sets logged across Amsterdam, Austin, Barcelona and Belgrade and 36 more. Often billed alongside DJ Holographic, X CLUB. and 2ManyDJs. Next up: TBA - Hollywood Park adjacent to SoFi Stadium, Losangeles on Sat 1 Aug.
+Tiga is a techno and house artist tracked on soundcheck, with 109 sets logged across Amsterdam, Austin, Barcelona and Belgrade and 36 more. Often billed alongside DJ Holographic, X CLUB. and 2ManyDJs. Next up: TBA - Hollywood Park adjacent to SoFi Stadium, Losangeles on Sat 1 Aug.
 
 ## Upcoming shows
 
@@ -13,6 +13,7 @@ Tiga is a techno and house artist tracked on soundcheck, with 108 sets logged ac
 | Sat, 29 Aug 2026 | Akasha Las Dalias Club - Ibiza | Ibiza |
 | Fri, 4 Sept 2026 | Union Park | Chicago |
 | Fri, 18 Sept 2026 | Fort Mifflin | Philadelphia |
+| Sat, 24 Oct 2026 | RAWFACTORY | Amsterdam |
 
 ## Recently played
 
@@ -29,4 +30,4 @@ Tiga is a techno and house artist tracked on soundcheck, with 108 sets logged ac
 
 DJ Holographic, X CLUB., 2ManyDJs
 
-*Updated Sat, 25 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/tiga/)*
+*Updated Sun, 26 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/tiga/)*

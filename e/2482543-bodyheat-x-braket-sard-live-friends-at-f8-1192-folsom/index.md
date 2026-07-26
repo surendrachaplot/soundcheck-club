@@ -1,6 +1,6 @@
 # bodyheat x Braket: Sard (live) & Friends at F8 1192 Folsom
 
-bodyheat x Braket: Sard (live) & Friends at F8 1192 Folsom on Sat 1 Aug, Sanfrancisco. 7 acts on the bill: 2dahlia, Christopher Foor, RMNA and Sard and 3 more. Techno and Club. Preview the line-up and save it on soundcheck.
+bodyheat x Braket: Sard (live) & Friends at F8 1192 Folsom on Sat 1 Aug, Sanfrancisco. 7 acts on the bill: 2dahlia, Christopher Foor, jcore and RMNA and 3 more. Techno and Club. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -12,10 +12,10 @@ bodyheat x Braket: Sard (live) & Friends at F8 1192 Folsom on Sat 1 Aug, Sanfran
 
 - 2dahlia
 - Christopher Foor
+- jcore
 - RMNA
 - Sard
 - Stōned Früit
 - Tom Marsi
-- jcore
 
 *Source: [soundcheck](https://soundcheck.club/e/2482543-bodyheat-x-braket-sard-live-friends-at-f8-1192-folsom/)*

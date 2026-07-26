@@ -14,8 +14,8 @@ PUCKER UP! 3 Year Anniversary w/ DJ Hermano, Marnigurl, musa, & Venus in Foil at
 - Dj Hermano
 - Kai (TO)
 - Marnigurl
-- Venus in Foil
 - moody.cn.man
 - musa
+- Venus in Foil
 
 *Source: [soundcheck](https://soundcheck.club/e/2491155-pucker-up-3-year-anniversary-w-dj-hermano-marnigurl-musa-ven/)*

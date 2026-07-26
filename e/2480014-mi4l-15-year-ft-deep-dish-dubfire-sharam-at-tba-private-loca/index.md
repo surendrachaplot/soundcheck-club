@@ -1,6 +1,6 @@
 # MI4L 15 YEAR ft Deep Dish (Dubfire & Sharam) at TBA - Private Location
 
-MI4L 15 YEAR ft Deep Dish (Dubfire & Sharam) at TBA - Private Location on Fri 14 Aug, Sandiego. 11 acts on the bill: AMIRA, Ali Gria, DJ IDeaL and Deep Dish and 7 more. House and Deep House. Preview the line-up and save it on soundcheck.
+MI4L 15 YEAR ft Deep Dish (Dubfire & Sharam) at TBA - Private Location on Fri 14 Aug, Sandiego. 11 acts on the bill: Ali Gria, AMIRA, Deep Dish and DJ IDeaL and 7 more. House and Deep House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,10 +10,10 @@ MI4L 15 YEAR ft Deep Dish (Dubfire & Sharam) at TBA - Private Location on Fri 14
 
 ## Line-up
 
-- AMIRA
 - Ali Gria
-- DJ IDeaL
+- AMIRA
 - Deep Dish
+- DJ IDeaL
 - Jimbo James
 - Mitch Dodge
 - Ramin Majlessi

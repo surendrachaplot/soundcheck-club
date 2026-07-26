@@ -14,22 +14,22 @@ Into the Woods ADE 2026 at Ndsm Wharf on Fri 23 Oct, Amsterdam. 21 acts on the b
 - Boss Priester
 - Clara Cuvé
 - Cynthia Spiering
-- DJ BORING
+- davyboi
 - Deer Jade
+- DJ BORING
 - ELIF
 - Freddi
+- future.666
 - Gaskin
 - Jyoty
 - Kyle Starkey
 - LAMSI
 - Marsolo
 - Obskur
+- ØTTA
 - Sam Alfred
 - Sidney Charles
 - Skin On Skin
 - Young Marco
-- davyboi
-- future.666
-- ØTTA
 
 *Source: [soundcheck](https://soundcheck.club/e/2297501-into-the-woods-ade-2026-at-ndsm-wharf/)*

@@ -14,8 +14,8 @@ Klubnacht at Berghain | Panorama Bar | Säule on Sat 22 Aug, Berlin. 15 acts on 
 - André Galluzzi
 - Andy Martin
 - Banu
-- DJ MARIA.
 - Deepa
+- DJ MARIA.
 - Franziska Berns
 - Hunee
 - Kaiser (K S R)

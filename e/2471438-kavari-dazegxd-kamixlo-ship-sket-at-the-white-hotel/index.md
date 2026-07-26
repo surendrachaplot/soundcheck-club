@@ -1,6 +1,6 @@
 # KAVARI / Dazegxd / Kamixlo / Ship Sket at The White Hotel
 
-KAVARI / Dazegxd / Kamixlo / Ship Sket at The White Hotel on Sat 22 Aug, Manchester. 4 acts on the bill: Dazegxd, KAVARI, Kamixlo and Ship Sket. Preview the line-up and save it on soundcheck.
+KAVARI / Dazegxd / Kamixlo / Ship Sket at The White Hotel on Sat 22 Aug, Manchester. 4 acts on the bill: Dazegxd, Kamixlo, KAVARI and Ship Sket. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -11,8 +11,8 @@ KAVARI / Dazegxd / Kamixlo / Ship Sket at The White Hotel on Sat 22 Aug, Manches
 ## Line-up
 
 - Dazegxd
-- KAVARI
 - Kamixlo
+- KAVARI
 - Ship Sket
 
 *Source: [soundcheck](https://soundcheck.club/e/2471438-kavari-dazegxd-kamixlo-ship-sket-at-the-white-hotel/)*

@@ -1,6 +1,6 @@
 # F8 1192 Folsom
 
-F8 1192 Folsom is a music venue in San Francisco/Oakland with 19 upcoming nights listed on soundcheck as of Sat, 25 Jul 2026; the next is "CHUNK DORE ALLEY FEAT. Bears In Space" on Sat, 25 Jul 2026.
+F8 1192 Folsom is a music venue in San Francisco/Oakland with 19 upcoming nights listed on soundcheck as of Sun, 26 Jul 2026; the next is "Stamina presents UFO" on Sun, 26 Jul 2026.
 
 F8 1192 Folsom is a music venue in Sanfrancisco listed on soundcheck. 19 upcoming nights, with line-ups including 2dahlia, Aepricity, Akumen and Amatric and 2 more. Browse upcoming dates, start times and who's playing. 1192 Folsom St, San Francisco, CA 94103.
 
@@ -8,7 +8,6 @@ F8 1192 Folsom is a music venue in Sanfrancisco listed on soundcheck. 19 upcomin
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Sat, 25 Jul 2026 | CHUNK DORE ALLEY FEAT. Bears In Space | Bears In Space, DICAP, Nick Moss |
 | Sun, 26 Jul 2026 | Stamina presents UFO | khariszma |
 | Tue, 28 Jul 2026 | CLOWNZONE: Goth Clown Night at Interzone | Hex Embrace |
 | Wed, 29 Jul 2026 | Acid Summer feat Tyrel Solar Mozhgan and CLAWS | Mozhgan, Nezzy Idy, Solar, Tyrel Williams |
@@ -18,9 +17,10 @@ F8 1192 Folsom is a music venue in Sanfrancisco listed on soundcheck. 19 upcomin
 | Tue, 4 Aug 2026 | INTERZONE Darkwave Tuesdays w/Guest DJ MALICE | Hex Embrace |
 | Wed, 5 Aug 2026 | Strut SF and F8 present DJ Sauce | DJ Sauce, Joey Trip, Just Lucas |
 | Thu, 6 Aug 2026 | Acid August feat. Franz & Shape Live | Amatric, Femme Jatale, Franz & Shape, HEAVENLY ARCH, Moonpie, Nexus-6, grep |
+| Fri, 7 Aug 2026 | SQUISH x program audio → INVT, Jubilee, Coffintexts b2b Jonny From Space | Coffintexts, INVT, Jonny From Space, Jubilee, Papa Xanny, Sholim Eso, Yuca Frita, erika (SF), likeholywine, nonsuit |
 
 ## Address
 
 1192 Folsom St, San Francisco, CA 94103, San Francisco/Oakland
 
-*Updated Sat, 25 Jul 2026 · source: [soundcheck](https://soundcheck.club/sanfrancisco/club/f8-1192-folsom/)*
+*Updated Sun, 26 Jul 2026 · source: [soundcheck](https://soundcheck.club/sanfrancisco/club/f8-1192-folsom/)*

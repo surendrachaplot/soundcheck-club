@@ -14,8 +14,8 @@ Renate Klubnacht + Open Air (Free Entry) w/ S3XI, DUAT & Antina Christ on Sat 15
 - Amin Fallaha
 - Chris Ku
 - Cosmic Cherry
-- DJ ZBB
 - Disco Sour
+- DJ ZBB
 - Eluzid
 - Horkheimer
 - Karina Schneider

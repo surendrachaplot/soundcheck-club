@@ -1,6 +1,6 @@
 # The Old Blue Last
 
-The Old Blue Last is a music venue in London with 11 upcoming nights listed on soundcheck as of Sat, 25 Jul 2026; the next is "Sunday Jazz" on Sun, 26 Jul 2026.
+The Old Blue Last is a music venue in London with 11 upcoming nights listed on soundcheck as of Sun, 26 Jul 2026; the next is "Sunday Jazz" on Sun, 26 Jul 2026.
 
 The Old Blue Last is a music venue in London listed on soundcheck. 11 upcoming nights, with line-ups including Billy Nasty, Dev/Null, Dwarde and EKATA and 2 more. Browse upcoming dates, start times and who's playing. 39 Great Eastern Road; Shoreditch; London EC2A 3ES; United Kingdom.
 
@@ -23,4 +23,4 @@ The Old Blue Last is a music venue in London listed on soundcheck. 11 upcoming n
 
 39 Great Eastern Road; Shoreditch; London EC2A 3ES; United Kingdom, London
 
-*Updated Sat, 25 Jul 2026 · source: [soundcheck](https://soundcheck.club/london/club/the-old-blue-last/)*
+*Updated Sun, 26 Jul 2026 · source: [soundcheck](https://soundcheck.club/london/club/the-old-blue-last/)*

@@ -1,6 +1,6 @@
 # Dae at The Safari Lounge
 
-Dae at The Safari Lounge on Fri 28 Aug, Edinburgh. 2 acts on the bill: Neil Templar and Thornback. Techno and Jungle. Preview the line-up and save it on soundcheck.
+Dae at The Safari Lounge on Fri 28 Aug, Edinburgh. 3 acts on the bill: Angel Negrin, Neil Templar and Thornback. Techno and Jungle. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,6 +10,7 @@ Dae at The Safari Lounge on Fri 28 Aug, Edinburgh. 2 acts on the bill: Neil Temp
 
 ## Line-up
 
+- Angel Negrin
 - Neil Templar
 - Thornback
 

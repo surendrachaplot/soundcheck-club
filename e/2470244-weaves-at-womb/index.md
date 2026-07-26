@@ -18,7 +18,7 @@ WEAVES at WOMB on Fri 7 Aug, Tokyo. 10 acts on the bill: AHREUM, Blackship, CLES
 - HIDEFUMI WATANABE
 - Kamekawa
 - Maya (Shonan Balearic)
-- U:ICHI
 - monielu.h
+- U:ICHI
 
 *Source: [soundcheck](https://soundcheck.club/e/2470244-weaves-at-womb/)*

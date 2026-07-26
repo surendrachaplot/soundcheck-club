@@ -16,8 +16,8 @@ ACID KORPORAT at Teritorija on Fri 14 Aug, Riga. 9 acts on the bill: A$PHYXXXÏA
 - Ikss
 - LJO HA
 - Manav/draugu
+- maniken05
 - Queer On Acid
 - Taiga (LV)
-- maniken05
 
 *Source: [soundcheck](https://soundcheck.club/e/2471627-acid-korporat-at-teritorija/)*

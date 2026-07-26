@@ -1,6 +1,6 @@
 # The Berkeley Suite x W2 summer party - Spencer Parker // noodle // Wheelman // Endogrōov at The Berkeley Suite
 
-The Berkeley Suite x W2 summer party - Spencer Parker // noodle // Wheelman // Endogrōov on Sun 2 Aug, Glasgow. 4 acts on the bill: Endogroov, Spencer Parker, Wheelman and noodle. Bass. Preview the line-up and save it on soundcheck.
+The Berkeley Suite x W2 summer party - Spencer Parker // noodle // Wheelman // Endogrōov on Sun 2 Aug, Glasgow. 4 acts on the bill: Endogroov, noodle, Spencer Parker and Wheelman. Bass. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -11,8 +11,8 @@ The Berkeley Suite x W2 summer party - Spencer Parker // noodle // Wheelman // E
 ## Line-up
 
 - Endogroov
+- noodle
 - Spencer Parker
 - Wheelman
-- noodle
 
 *Source: [soundcheck](https://soundcheck.club/e/2486485-the-berkeley-suite-x-w2-summer-party-spencer-parker-noodle-w/)*

@@ -1,6 +1,6 @@
 # Denham Audio, Bianca Oblivion, DJ Manny presented by FATCAP & Public Works at Public Works
 
-Denham Audio, Bianca Oblivion, DJ Manny presented by FATCAP & Public Works on Fri 14 Aug, Sanfrancisco. 3 acts on the bill: Bianca Oblivion, DJ Manny and Denham Audio. Preview the line-up and save it on soundcheck.
+Denham Audio, Bianca Oblivion, DJ Manny presented by FATCAP & Public Works on Fri 14 Aug, Sanfrancisco. 3 acts on the bill: Bianca Oblivion, Denham Audio and DJ Manny. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -11,7 +11,7 @@ Denham Audio, Bianca Oblivion, DJ Manny presented by FATCAP & Public Works on Fr
 ## Line-up
 
 - Bianca Oblivion
-- DJ Manny
 - Denham Audio
+- DJ Manny
 
 *Source: [soundcheck](https://soundcheck.club/e/2487097-denham-audio-bianca-oblivion-dj-manny-presented-by-fatcap-pu/)*

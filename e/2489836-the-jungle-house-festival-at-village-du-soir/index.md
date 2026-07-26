@@ -21,15 +21,15 @@ The Jungle House FESTIVAL at Village du Soir on Fri 31 Jul, Geneva. 22 acts on t
 - Goom Gum
 - HUGOAT
 - KLEM SDN
+- Mark Reeve
 - MATRAKK
 - MHMD
-- Mark Reeve
 - Nusha
 - Olympe
 - P.O.U
 - RHAPSODIE
-- SAM. C
 - Sad Paco
+- SAM. C
 - Stone Van Brooken
 - Yulia Niko
 
