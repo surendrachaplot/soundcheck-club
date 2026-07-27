@@ -14,7 +14,7 @@ Void Club is a music venue in Berlin listed on soundcheck. 10 upcoming nights, w
 | Sat, 8 Aug 2026 | TORQUE - Groove & Hardgroove with LEANNE (SI), North (SI), Modulatos, Mavidius | LEANNE, Modulatos |
 | Fri, 14 Aug 2026 | Upzet's Bday Party with DE.fine, Crashkitt b2b Boudi Boudin, Iza b2b Dirty Plates, Unknown | Agem, Andi Beat, Boudi Boudin, Crashkitt, DE.fine, Dirty Plates (2), Dub Isotope, IZA (2), Ida Scheppert, Shaded Lines, Upzet, unknown.dnb |
 | Sat, 15 Aug 2026 | Kinder der Nacht - Parade After Party w/ T78 | ADOBE, Activator, Avex, DJ Jordan, Dave Demon, Ewelina Koll, GHOST DE, Jacopo Susini, Jens Schwan, Klipp&Klar, LEPIDO, Marc van Linden, Rob Robsen, Ronny Luft, SXF Thunderscream, Seimen Dexter, T78, YOZÉ |
-| Fri, 28 Aug 2026 | Berlin Bass Music Vibes |  |
+| Fri, 28 Aug 2026 | Berlin Bass Music Vibes | Anton Quasi, Dub Isotope, Jimi Handtrix, Lay.Dee Strange, Migz, Soniq, Upzet, Yoru |
 | Fri, 11 Sept 2026 | Dionys: Hardtechno x Trance/Bounce Rave(2 Floors) | Brizze, DaSoMaZo |
 | Fri, 25 Sept 2026 | 5 Years Animarum – A Club Festival For Your Soul | DJ Jordan, Mosher, Sophie van Hayden, Vero_ |
 | Fri, 9 Oct 2026 | Seazed: Bounce & Trance Night |  |

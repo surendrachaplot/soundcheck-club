@@ -1657,7 +1657,10 @@
     .rq-nm{ font:700 var(--fs-base)/var(--lh-base) var(--head); letter-spacing:-.01em; white-space:nowrap; overflow:hidden; text-overflow:ellipsis; }
     .rq-sub{ font:600 var(--fs-xs)/var(--lh-xs) var(--body); color:var(--muted); margin-top:1px; white-space:nowrap; overflow:hidden; text-overflow:ellipsis; }
     /* inner segmented pill switcher inside merged profile tabs (My Artists / My Playlist) */
-    .pf-seg { display:inline-flex; gap:4px; margin:2px 0 16px; padding:4px; background:var(--surface); border:1px solid var(--border); border-radius:var(--radius-pill); }
+    /* 2px under the tab underline was cramped and off the spacing scale; the
+       pill row is a new section under the tabs and needs the same breathing
+       room every other section gets. */
+    .pf-seg { display:inline-flex; gap:4px; margin:var(--sp-4) 0 var(--sp-4); padding:4px; background:var(--surface); border:1px solid var(--border); border-radius:var(--radius-pill); }
     .pf-segb { appearance:none; border:0; background:none; cursor:pointer; padding:8px 16px; border-radius:var(--radius-pill); font:700 var(--fs-sm)/var(--lh-sm) var(--head); text-transform:lowercase; color:var(--muted); display:inline-flex; align-items:center; gap:7px; -webkit-tap-highlight-color:transparent; transition:background .15s, color .15s; }
     .pf-segb .c { font:700 var(--fs-xs)/var(--lh-xs) var(--body); opacity:.7; }
     .pf-segb:not(.on):hover { color:var(--fg); }
@@ -3561,7 +3564,7 @@
     .ob-cdots{ display:flex; gap:8px; justify-content:center; padding:16px 0 4px; }
     .ob-cdots button{ width:8px; height:8px; padding:0; border:0; border-radius:50%; background:var(--surface-2); cursor:pointer; }
     .ob-cdots button.on{ background:var(--accent); }
-    .pf-seg-row{ display:flex; align-items:center; justify-content:space-between; gap:10px; }
+    .pf-seg-row{ display:flex; align-items:center; justify-content:space-between; gap:10px; flex-wrap:wrap; }
     .pf-seg-row .pf-seg{ margin:0; }
 
     /* ── MOBILE "BANDS" container layer ──────────────────────────────────────
@@ -3625,7 +3628,7 @@
   <!-- Umami analytics. defer so it never blocks first paint; the SPA rewrites
        history on navigation, which umami picks up automatically. -->
   <script defer src="https://cloud.umami.is/script.js" data-website-id="de210b6c-12e4-4819-95f6-f5120974855a"></script>
-<meta name="sc-build" content="1785164864163">
+<meta name="sc-build" content="1785165711918">
 </head>
 <body>
   <main class="wrap">
@@ -4933,6 +4936,11 @@
       if(e.metaKey||e.ctrlKey||e.shiftKey||e.altKey||e.button===1){ e.stopPropagation(); return; }   // modified → browser opens the href in a new tab
       // plain click → in-app nav from the anchor's own data (works even for links without a bespoke listener); block the full reload
       e.preventDefault(); e.stopPropagation();
+      // Person links. The router stopPropagation()s, so ANY nav anchor it does
+      // not have a case for is dead — preventDefault kills the browser nav and
+      // stopPropagation kills the element's own listener. Profile links were
+      // exactly that: they did nothing at all.
+      if(a.dataset.handle){ openProfile(a.dataset.handle); return; }
       if(a.dataset.artist){ openArtist(a.dataset.artist); return; }
       if(a.dataset.venue){ openVenue(a.dataset.venue, a.dataset.city||a.dataset.vcity||null); return; }
       var evEl=a.closest('[data-evt],[data-event-id],[data-open-evt]');
@@ -6699,9 +6707,6 @@
                     (u.viewerFollows?'Following':'Follow')+'</button>')+
         '</div>';
       }).join('')+'</div>';
-      el.querySelectorAll('[data-handle]').forEach(function(a){
-        a.addEventListener('click',function(e){ e.preventDefault(); openProfile(a.dataset.handle); });
-      });
       el.querySelectorAll('.ppl-f').forEach(function(b){
         b.addEventListener('click', async function(){
           if(!currentUser){ openAuth(); return; }
