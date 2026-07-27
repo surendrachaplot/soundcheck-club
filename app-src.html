@@ -278,6 +278,30 @@
       letter-spacing:var(--ls-md); line-height:var(--lh-md); font-variant-numeric:tabular-nums; }
     .ent-range .er-tx span { color:var(--muted); font-size:var(--fs-xs); line-height:var(--lh-xs); font-variant-numeric:tabular-nums; }
     .ent-range .er-reset { margin-left:auto; }
+    /* Onboarding scene-card preview: the same design as the server PNG (dusk
+       ground, sunset base bar, CRT lines, Bricolage name wall) drawn in the DOM
+       so a signed-out user sees it instantly. */
+    .ob-card { position:relative; overflow:hidden; margin:var(--sp-4) 0 var(--sp-2);
+      background:#150e26; border:1px solid var(--line-2); border-radius:var(--r-2); padding:var(--sp-4); }
+    .ob-card::after { content:''; position:absolute; inset:0; pointer-events:none;
+      background:linear-gradient(rgba(255,154,61,.025) 1px, transparent 1px); background-size:100% 8px; }
+    .ob-card-top { display:flex; align-items:baseline; justify-content:space-between; gap:8px; }
+    .ob-card-wm { font-family:var(--head); font-weight:800; font-size:var(--fs-md); letter-spacing:var(--ls-md); }
+    .ob-card-wm i { font-style:normal; color:var(--accent); }
+    .ob-card-lbl { font:800 var(--fs-2xs)/var(--lh-2xs) var(--body); letter-spacing:.18em; color:var(--accent); }
+    .ob-card-cols { display:grid; grid-template-columns:repeat(3,1fr); gap:8px; margin:var(--sp-3) 0; }
+    .ob-card-col { min-width:0; }
+    .ob-card-col img, .ob-card-col .ph { display:block; width:100%; aspect-ratio:3/4; object-fit:cover;
+      border-radius:var(--r-1); background:var(--surface-2); }
+    .ob-card-col .ph { display:grid; place-items:center; font-family:var(--head); font-weight:800;
+      font-size:var(--fs-xl); color:var(--muted); }
+    .ob-card-col b { display:block; margin-top:6px; font-family:var(--head); font-weight:800;
+      font-size:var(--fs-sm); line-height:1.15; letter-spacing:-.01em;
+      white-space:nowrap; overflow:hidden; text-overflow:ellipsis; }
+    .ob-card-wall { font-family:var(--head); font-weight:800; font-size:var(--fs-lg);
+      line-height:1.1; letter-spacing:var(--ls-lg); color:var(--fg); }
+    .ob-card-wall span { color:var(--accent); margin:0 6px; }
+    .ob-card-bar { height:6px; border-radius:999px; margin-top:var(--sp-3); background:var(--accent-grad); }
     .dt { flex:none; display:flex; flex-direction:column; align-items:center; justify-content:center; gap:2px; min-width:54px; height:58px; border-radius:var(--radius-md); border:1px solid var(--border); background:var(--surface); color:var(--fg); cursor:pointer; transition:border-color .12s, background .12s; -webkit-tap-highlight-color:transparent; }
     .dt:hover { border-color:var(--accent); }
     .dt .dt-w { font:600 var(--fs-xs)/var(--lh-xs) var(--body); color:var(--muted); text-transform:uppercase; letter-spacing:.03em; }
@@ -3431,7 +3455,7 @@
   <!-- Umami analytics. defer so it never blocks first paint; the SPA rewrites
        history on navigation, which umami picks up automatically. -->
   <script defer src="https://cloud.umami.is/script.js" data-website-id="de210b6c-12e4-4819-95f6-f5120974855a"></script>
-<meta name="sc-build" content="1785143237956">
+<meta name="sc-build" content="1785143818713">
 </head>
 <body>
   <main class="wrap">
@@ -4575,7 +4599,7 @@
     });
     document.getElementById('bnav-search').addEventListener('click',function(){ openSearch(); });
     document.getElementById('bnav-radio').addEventListener('click',function(){ openRadio(); });
-    document.getElementById('bnav-profile').addEventListener('click',function(){ whenAuthKnown().then(function(){ if(currentUser) openAccount(); else scOnboard('intro'); }); });
+    document.getElementById('bnav-profile').addEventListener('click',function(){ whenAuthKnown().then(function(){ if(currentUser) openAccount(); else scOnboard('city'); }); });
     // Canonical SEO hrefs for entities — used to render real <a> links (hover URL,
     // right-click "open in new tab", middle/cmd-click all work natively) and as the
     // fallback resolver for any nav element that isn't yet an anchor.
@@ -8213,7 +8237,11 @@
     // scene card. Full-screen, one gradient CTA per step, violet = chosen.
     // New accounts arrive from the magic link with ?welcome=1 and start at city.
     var _ob={ email:'', city:null, logged:[], marked:[] };
-    var OB_STEPS=['city','log','suggest','card'];
+    // Aha in three: city (auto, one tap) -> pick artists you've seen -> your
+    // scene card, rendered live. Email is asked for AFTER the value is on
+    // screen, not before it. The old order (email -> city -> log -> suggest ->
+    // card) put the ask first and the payoff around step nine.
+    var OB_STEPS=['city','pick','card'];
     function obEl(){
       var el=document.getElementById('obv'); if(el) return el;
       el=document.createElement('div'); el.className='obv'; el.id='obv';
@@ -8234,16 +8262,20 @@
       var el=obEl(), dots=el.querySelector('#ob-dots'), skip=el.querySelector('#ob-skip');
       var i=OB_STEPS.indexOf(step);
       dots.innerHTML = i<0 ? '' : OB_STEPS.map(function(_,j){ return '<i'+(j<=i?' class="on"':'')+'></i>'; }).join('');
-      skip.hidden = !(step==='log'||step==='suggest');
+      skip.hidden = !(step==='pick'||step==='log'||step==='suggest');
       skip.onclick = function(){ scOnboard(step==='log'?'suggest':'card'); };
     }
     function scOnboard(step){
-      if(step!=='intro' && step!=='email' && step!=='inbox' && !currentUser){ step='email'; }
+      // city/pick/card all work signed-out — that's the whole point of the new
+      // order. Picks ride the anonymous cookie identity and migrate on sign-in.
+      var OPEN={intro:1,email:1,inbox:1,city:1,pick:1,card:1};
+      if(!OPEN[step] && !currentUser){ step='email'; }
       obChrome(step);
       if(step==='intro') return obStepIntro();
       if(step==='email') return obStepEmail();
       if(step==='inbox') return obStepInbox();
       if(step==='city') return obStepCity();
+      if(step==='pick') return obStepPick();
       if(step==='log') return obStepLog();
       if(step==='suggest') return obStepSuggest();
       if(step==='card') return obStepCard();
@@ -8439,7 +8471,7 @@
         if(!_ob.city) return;
         setPref('homeCity',_ob.city); setPref('homeCityPrompted',1);
         if(currentUser){ currentUser.prefs=currentUser.prefs||{}; currentUser.prefs.homeCity=_ob.city; }
-        scOnboard('log');
+        scOnboard('pick');
       });
     }
     function obLoggedRow(g){ return (g.poster_url?'<img src="'+attrEsc(imgUrl(g.poster_url,120))+'" alt="'+attrEsc((g.title||'Club night')+' poster')+'">':'<span class="ph">'+esc((g.title||'?').slice(0,1))+'</span>'); }
@@ -8491,6 +8523,67 @@
       paintCount();
       setTimeout(function(){ el.querySelector('#ob-q').focus(); },80);
     }
+    // ── STEP 2: pick the artists you've seen ──────────────────────────────
+    // The opening question has to be answerable in seconds and has to produce
+    // something. Faces, not a search box: /api/onboard/seed returns the most-
+    // billed artists in the chosen city, photo-only (an unrecognisable face is
+    // worse than no tile). Three is the target — enough for a card that looks
+    // like someone, few enough to finish.
+    var _obPicked = [];
+    function obStepPick(){
+      var el=obBody('<div class="ob-eyebrow">Step 2 of 3</div>'+
+        '<h1 class="ob-h1">Which of these have you seen?</h1>'+
+        '<p class="ob-sub">Tap any you&rsquo;ve caught live. Three is enough to build your card &mdash; you can add the rest later.</p>'+
+        '<div class="ob-grid" id="ob-pick"><div class="ob-sub">Looking&hellip;</div></div>'+
+        '<button class="ob-cta" id="ob-pickgo" type="button" disabled>Pick 3 to continue</button>');
+      var grid=el.querySelector('#ob-pick'), cta=el.querySelector('#ob-pickgo');
+      function sync(){
+        var n=_obPicked.length;
+        cta.disabled = n===0;
+        cta.textContent = n===0 ? 'Pick 3 to continue'
+                        : n<3 ? ('Continue with '+n) : 'See my scene card';
+      }
+      pubGet('/api/onboard/seed?city='+encodeURIComponent(_ob.city||currentCity||'london'))
+        .then(function(j){
+          var arts=(j&&j.artists)||[];
+          if(!arts.length){ scOnboard('card'); return; }
+          grid.innerHTML=arts.map(function(a){
+            return '<button type="button" class="ob-tile" data-slug="'+attrEsc(a.slug)+'" data-name="'+attrEsc(a.name)+'" data-img="'+attrEsc(a.image_url||'')+'">'+
+              '<img src="'+attrEsc(imgUrl(a.image_url,300))+'" alt="'+attrEsc((a.name||'')+' portrait')+'" loading="lazy">'+
+              '<span class="nm">'+esc(a.name)+'</span><span class="tick">&#10003;</span></button>';
+          }).join('');
+        }).catch(function(){ scOnboard('card'); });
+      grid.addEventListener('click',function(e){
+        var t=e.target.closest('.ob-tile'); if(!t) return;
+        var slug=t.dataset.slug, name=t.dataset.name, img=t.dataset.img;
+        if(t.classList.toggle('on')){
+          _obPicked.push({slug:slug,name:name,image:img}); setArtist(slug,'seen',name);
+        } else {
+          _obPicked=_obPicked.filter(function(x){ return x.slug!==slug; }); setArtist(slug,null,name);
+        }
+        sync();
+      });
+      cta.addEventListener('click',function(){ scOnboard('card'); });
+      sync();
+    }
+    // A scene card drawn in the DOM from the picks. The real card is a server
+    // PNG keyed on a handle, which a signed-out user doesn't have yet — and
+    // waiting for an account to show the payoff is what put the ask before the
+    // value in the first place. This renders instantly, offline, from what they
+    // just tapped; the PNG is what the email buys them.
+    function obCardPreview(list){
+      var a=(list||[]).slice(0,3);
+      if(!a.length) return '';
+      return '<div class="ob-card"><div class="ob-card-top">'+
+        '<span class="ob-card-wm">sound<i>check</i></span>'+
+        '<span class="ob-card-lbl">MOST SEEN LIVE</span></div>'+
+        '<div class="ob-card-cols">'+a.map(function(x){
+          return '<div class="ob-card-col">'+(x.image?'<img src="'+attrEsc(imgUrl(x.image,300))+'" alt="'+attrEsc(x.name+' portrait')+'">':'<span class="ph">'+esc((x.name||'?').slice(0,1))+'</span>')+
+                 '<b>'+esc(x.name)+'</b></div>';
+        }).join('')+'</div>'+
+        '<div class="ob-card-wall">'+a.map(function(x){ return esc(x.name); }).join('<span>&middot;</span>')+'</div>'+
+        '<div class="ob-card-bar"></div></div>';
+    }
     function obStepSuggest(){
       var seenSlugs=Object.keys(picks.artists).filter(function(s){ return artStatus(s)==='seen'; });
       var el=obBody('<div class="ob-eyebrow">Step 3 of 4</div>'+
@@ -8519,7 +8612,21 @@
     }
     function obStepCard(){
       var h=currentUser&&currentUser.handle;
-      var el=obBody('<div class="ob-eyebrow">Step 4 of 4</div>'+
+      // Signed-out: this is the aha, so it has to be on screen NOW. Draw the
+      // card from what they just picked and ask for the email underneath it —
+      // the email buys the real shareable PNG, it is not the price of entry.
+      if(!h){
+        var pv=obBody('<div class="ob-eyebrow">Step 3 of 3</div>'+
+          '<h1 class="ob-h1">That&rsquo;s your scene card.</h1>'+
+          '<p class="ob-sub">You, in artists. Add your email and it&rsquo;s yours to keep &mdash; shareable, and it grows every night you log.</p>'+
+          obCardPreview(_obPicked)+
+          '<button class="ob-cta" id="ob-keep" type="button">Keep my card</button>'+
+          '<button class="ob-alt" id="ob-later" type="button">Not now</button>');
+        pv.querySelector('#ob-keep').addEventListener('click',function(){ scOnboard('email'); });
+        pv.querySelector('#ob-later').addEventListener('click',function(){ obClose(); });
+        return;
+      }
+      var el=obBody('<div class="ob-eyebrow">Step 3 of 3</div>'+
         '<h1 class="ob-h1">That&rsquo;s your scene card.</h1>'+
         '<p class="ob-sub">You, in artists. Post it to your story or the group chat &mdash; soundcheck is better when your people are on it.</p>'+
         '<img class="ob-card" id="ob-cardimg" alt="Your scene card" src="'+attrEsc(API_BASE+'/api/card?u='+encodeURIComponent(h||'')+'&cb='+Date.now())+'">'+

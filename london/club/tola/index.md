@@ -14,7 +14,7 @@ Tola is a music venue in London listed on soundcheck. 7 upcoming nights, with li
 | Fri, 14 Aug 2026 | Caya DJ Clash Live | JuicySteamedHams, Mayowa |
 | Fri, 21 Aug 2026 | Kascade | CHICCA |
 | Fri, 18 Sept 2026 | Kohsa presents | Buddy. (2), Sunny D |
-| Fri, 25 Sept 2026 | Straight On 'til Morning | Josh Wickers |
+| Fri, 25 Sept 2026 | Straight On 'til Morning | Josh Wickers, ZAZA C |
 
 ## Address
 
