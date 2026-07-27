@@ -3354,7 +3354,7 @@
     }
     @media (max-width:620px){ :root{ --gut:18px; } }
 </style>
-<meta name="sc-build" content="1785138250871">
+<meta name="sc-build" content="1785138960345">
 </head>
 <body>
   <main class="wrap">
@@ -7126,7 +7126,7 @@
         var logSvg='<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M12 20h9"/><path d="M16.5 3.5a2.12 2.12 0 0 1 3 3L7 19l-4 1 1-4Z"/></svg>';
         var h='<div class="fp-artist">'+
           '<div class="fp-hero">'+
-            '<div class="fp-photo">'+(a.image?img:genHero(dispName||slug, slug))+(a.country?'<div class="fp-origin">'+esc(a.country)+'</div>':'')+'</div>'+
+            '<div class="fp-photo">'+(a.image?img:genHero(a.name||slug, slug))+(a.country?'<div class="fp-origin">'+esc(a.country)+'</div>':'')+'</div>'+
             '<div class="fp-hx">'+
               '<div class="fp-kick">'+kick+'</div>'+
               '<div class="fp-namerow"><h1 class="fp-h1">'+esc(a.name||slug)+'</h1>'+(socials?'<div class="fp-socials">'+socials+'</div>':'')+'</div>'+
