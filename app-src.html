@@ -310,6 +310,35 @@
     .ent-range .er-reset { margin-left:auto; }
     /* Load more sits under the list, aligned with the row content it extends. */
     .lm-btn { display:block; margin:var(--sp-3) 18px var(--sp-2); }
+    /* ── People rows (Followers / Following) ───────────────────────────────────
+       Shipped once with NO styles at all — browser defaults put the button on top
+       of the name. Three columns: avatar, identity, action. */
+    .ppl { display:flex; flex-direction:column; }
+    .ppl-row { display:flex; align-items:center; gap:12px; padding:10px 2px; min-width:0; }
+    .ppl-row + .ppl-row { border-top:1px solid var(--border); }
+    .ppl-av { flex:none; width:44px; height:44px; border-radius:var(--radius-pill);
+      background-size:cover; background-position:center; background-color:var(--surface-2);
+      display:block; text-decoration:none; }
+    .ppl-tx { flex:1 1 auto; min-width:0; display:flex; flex-direction:column; gap:1px;
+      text-decoration:none; color:inherit; }
+    .ppl-tx b { font-family:var(--head); font-weight:800; font-size:var(--fs-md);
+      letter-spacing:var(--ls-md); line-height:1.2;
+      white-space:nowrap; overflow:hidden; text-overflow:ellipsis; }
+    .ppl-tx small { color:var(--muted); font-size:var(--fs-sm); line-height:var(--lh-sm);
+      white-space:nowrap; overflow:hidden; text-overflow:ellipsis; }
+    .ppl-tx:hover b { color:var(--accent); }
+    /* The action is secondary on a list row, so it's the violet — the gradient is
+       reserved for the one primary action per view. */
+    .ppl-f { flex:none; height:36px; padding:0 16px; border-radius:var(--radius-pill);
+      background:var(--sel); color:var(--sel-ink); border:1px solid transparent;
+      font:700 var(--fs-xs)/1 var(--body); letter-spacing:.06em; text-transform:uppercase;
+      cursor:pointer; white-space:nowrap;
+      transition:background var(--dur-1) var(--ease-standard), border-color var(--dur-1) var(--ease-standard); }
+    .ppl-f.on { background:transparent; color:var(--muted); border-color:var(--border); }
+    .ppl-f.on:hover { border-color:var(--accent); color:var(--accent); }
+    .ppl-f[disabled] { opacity:.55; cursor:default; }
+    .ppl-you { flex:none; color:var(--faint); font-size:var(--fs-xs); font-weight:600;
+      letter-spacing:.06em; text-transform:uppercase; padding-right:4px; }
     /* "Near me" sits above the alphabetical list — it's an action, not a city. */
     .city-row.city-near { border-bottom:1px solid var(--border); color:var(--accent); font-weight:700; }
     .city-row.city-near svg { width:17px; height:17px; }
@@ -3586,7 +3615,7 @@
   <!-- Umami analytics. defer so it never blocks first paint; the SPA rewrites
        history on navigation, which umami picks up automatically. -->
   <script defer src="https://cloud.umami.is/script.js" data-website-id="de210b6c-12e4-4819-95f6-f5120974855a"></script>
-<meta name="sc-build" content="1785162314734">
+<meta name="sc-build" content="1785163896738">
 </head>
 <body>
   <main class="wrap">
@@ -6627,58 +6656,54 @@
       var boxes=segs.map(function(sg,i){ return '<div class="pf-box'+(i===0?'':' hide')+'" id="'+sg.boxId+'" data-sub="'+sg.sub+'"></div>'; }).join('');
       return pills+boxes;
     }
-    // ── People list: followers / following ────────────────────────────────────
-    // A plain list of humans with the follow state on each row. Every row's
-    // button acts on the VIEWER's relationship to that person, which is why the
-    // endpoint returns viewerFollows per row — otherwise the list would need a
-    // request per row to know what to render.
-    async function openPeople(handle, kind, who){
-      var title = kind==='following' ? 'Following' : 'Followers';
-      setRoute('u/'+handle+'/'+kind);
-      openPanel('<h2 class="page-title">'+esc(title)+'</h2>'+
-        '<div class="sub" style="margin-bottom:14px">'+esc(who)+'</div>'+
-        '<div id="ppl-body"><div class="empty" style="padding:16px 0"><span class="spinner"></span> Loading&hellip;</div></div>');
+    // ── People boxes: followers / following ───────────────────────────────────
+    // Fills the two boxes inside the People tab. One request per side, lazy: a
+    // box is only fetched the first time its pill is opened. Each row carries the
+    // VIEWER's follow state (viewerFollows), which is why the endpoint returns it
+    // per row — otherwise a 200-person list would need 200 follow lookups.
+    var _pplLoaded={};
+    async function fillPeopleBox(handle, kind){
+      var el=document.getElementById('pf-'+kind); if(!el || _pplLoaded[kind]) return;
+      _pplLoaded[kind]=true;
+      el.innerHTML='<div class="empty" style="padding:10px 2px"><span class="spinner"></span> Loading&hellip;</div>';
       var j=null;
       try{ j=await authedFetch('/api/follows?handle='+encodeURIComponent(handle)+'&kind='+kind).then(function(r){ return r.json(); }); }catch(_){}
-      var box=document.getElementById('ppl-body'); if(!box) return;
       var people=(j&&j.people)||[];
       if(j&&j.locked){
-        box.innerHTML='<div class="es"><span class="es-t">This profile is private</span><p class="es-s">Follow them to see who they&rsquo;re connected to.</p></div>';
-        return;
+        el.innerHTML='<div class="es"><span class="es-t">This profile is private</span><p class="es-s">Follow them to see who they&rsquo;re connected to.</p></div>'; return;
       }
       if(!people.length){
-        box.innerHTML='<div class="es"><span class="es-t">'+(kind==='following'?'Not following anyone yet':'No followers yet')+'</span>'+
+        el.innerHTML='<div class="es"><span class="es-t">'+(kind==='following'?'Not following anyone yet':'No followers yet')+'</span>'+
           '<p class="es-s">'+(kind==='following'
             ? 'Following people puts their nights and their picks in your feed.'
-            : 'Share your profile and the people you go out with will show up here.')+'</p></div>';
-        return;
+            : 'Share your profile and the people you go out with turn up here.')+'</p></div>'; return;
       }
-      box.innerHTML='<div class="ppl">'+people.map(function(u){
+      el.innerHTML='<div class="ppl">'+people.map(function(u){
         var name=u.displayName||('u/'+u.handle);
         return '<div class="ppl-row">'+
-          '<a class="ppl-av nav" href="'+esc(profileHref(u.handle))+'" data-handle="'+attrEsc(u.handle)+'" style="background-image:'+avatarBg(u.handle,u.avatar)+'"></a>'+
+          '<a class="ppl-av nav" href="'+esc(profileHref(u.handle))+'" data-handle="'+attrEsc(u.handle)+'" aria-label="'+attrEsc(name)+'" style="background-image:'+avatarBg(u.handle,u.avatar)+'"></a>'+
           '<a class="ppl-tx nav" href="'+esc(profileHref(u.handle))+'" data-handle="'+attrEsc(u.handle)+'">'+
             '<b>'+esc(name)+'</b><small>@'+esc(u.handle)+'</small></a>'+
           (u.isMe ? '<span class="ppl-you">You</span>'
-                  : '<button class="pf-btn ppl-f'+(u.viewerFollows?' following':'')+'" type="button" data-f="'+attrEsc(u.handle)+'">'+
+                  : '<button class="ppl-f'+(u.viewerFollows?' on':'')+'" type="button" data-f="'+attrEsc(u.handle)+'">'+
                     (u.viewerFollows?'Following':'Follow')+'</button>')+
         '</div>';
       }).join('')+'</div>';
-      box.querySelectorAll('[data-handle]').forEach(function(a){
+      el.querySelectorAll('[data-handle]').forEach(function(a){
         a.addEventListener('click',function(e){ e.preventDefault(); openProfile(a.dataset.handle); });
       });
-      box.querySelectorAll('.ppl-f').forEach(function(b){
+      el.querySelectorAll('.ppl-f').forEach(function(b){
         b.addEventListener('click', async function(){
           if(!currentUser){ openAuth(); return; }
-          var on=b.classList.contains('following');
-          // Optimistic: the row flips immediately and reverts if the call fails.
-          b.classList.toggle('following', !on); b.textContent = on ? 'Follow' : 'Following'; b.disabled=true;
+          var on=b.classList.contains('on');
+          // Optimistic; reverts if the call fails.
+          b.classList.toggle('on', !on); b.textContent = on ? 'Follow' : 'Following'; b.disabled=true;
           try{
             var r=await authedFetch(on?'/api/unfollow':'/api/follow',{ method:'POST',
               headers:{'Content-Type':'application/json'}, body:JSON.stringify({ handle:b.dataset.f }) });
             if(!r.ok) throw 0;
           }catch(_){
-            b.classList.toggle('following', on); b.textContent = on ? 'Following' : 'Follow';
+            b.classList.toggle('on', on); b.textContent = on ? 'Following' : 'Follow';
             showToast('Couldn\u2019t update that follow.');
           }
           b.disabled=false;
@@ -6712,8 +6737,8 @@
           '<div class="c" data-go="diary"><b>'+nights+'</b><span>Nights</span></div>'+
           '<div class="c" data-go="artists" data-go-sub="seen"><b>'+seenN+'</b><span>Seen live</span></div>'+
           '<div class="c" data-go="artists" data-go-sub="wanna"><b>'+wannaN+'</b><span>Wanna see</span></div>'+
-          '<div class="c" data-people="followers"><b>'+(p.followers||0)+'</b><span>Followers</span></div>'+
-          '<div class="c" data-people="following"><b>'+(p.following||0)+'</b><span>Following</span></div>'+
+          '<div class="c" data-go="people" data-go-sub="followers"><b>'+(p.followers||0)+'</b><span>Followers</span></div>'+
+          '<div class="c" data-go="people" data-go-sub="following"><b>'+(p.following||0)+'</b><span>Following</span></div>'+
         '</div>'+
       '</div></div>';
       // Sections as in-page tabs (only render a tab when it has content, matching the
@@ -6728,6 +6753,12 @@
       if(isMe||seenN)  artSegs.push({sub:'seen', label:'Seen live', count:seenN, boxId:'pf-seen'});
       if(isMe||wannaN) artSegs.push({sub:'wanna',label:'Wanna see',count:wannaN,boxId:'pf-wanna'});
       if(artSegs.length) T.push({k:'artists',l:'My Artists',c:(seenN+wannaN)||null,html:pfSegHTML(artSegs,'pf-share-art')});
+      // People — Followers + Following behind the same inner pill switcher as
+      // My Artists, so the profile has one tab pattern rather than a tab for
+      // some things and a separate page for others.
+      T.push({k:'people',l:'People',c:((p.followers||0)+(p.following||0))||null,
+              html:pfSegHTML([{sub:'followers',label:'Followers',count:p.followers||0,boxId:'pf-followers'},
+                              {sub:'following',label:'Following',count:p.following||0,boxId:'pf-following'}])});
       if(savedN) T.push({k:'saved',l:'Interested',c:savedN,html:'<div class="pf-box" id="pf-events"></div>'});
       // My Playlist — shared Playlists + Queue + Listened set-shelves behind an inner pill switcher.
       var setqN=(s.setQueue||[]).length, setlN=(s.setListened||[]).length;
@@ -6821,10 +6852,6 @@
         if(sub){ var sb=document.querySelector('.pf .fp-tabpanel[data-panel="'+cell.dataset.go+'"] .pf-segb[data-sub="'+sub+'"]'); if(sb) sb.click(); }
         var bar=document.querySelector('.pf-tabs'); if(bar) bar.scrollIntoView({ behavior:'smooth', block:'start' });
       }); });
-      // Followers / Following open a people list rather than jumping to a tab.
-      document.querySelectorAll('.pfh-ribbon .c[data-people]').forEach(function(cell){
-        cell.addEventListener('click',function(){ openPeople(p.handle, cell.dataset.people, p.displayName||('u/'+p.handle)); });
-      });
       var sh=document.getElementById('pb-share'); if(sh) sh.addEventListener('click',function(){ pbShareCard(p); });
       // per-section shares: My Artists = the scene card (it IS the artists);
       // My Playlist = a deep link straight to that tab.
@@ -6889,6 +6916,11 @@
       pfSetBox('pf-setq','Set queue', s.setQueue);
       pfSetBox('pf-setl','Listened', s.setListened);
       if(p.isMe){ fillPlaylists(); wireSuggest(); }
+      _pplLoaded={};
+      fillPeopleBox(p.handle, 'followers');
+      document.querySelectorAll('.pf .pf-segb[data-sub="following"]').forEach(function(b){
+        b.addEventListener('click', function(){ fillPeopleBox(p.handle, 'following'); });
+      });
       // Inner pill switchers (My Artists: Wanna see/Seen live · My Playlist: Playlists/Queue/Listened)
       document.querySelectorAll('.pf .pf-seg').forEach(function(seg){ seg.addEventListener('click',function(e){
         var b=e.target.closest('.pf-segb'); if(!b) return;
