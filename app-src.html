@@ -123,8 +123,35 @@
       .evc-heart:active, .dt:active, .qchip:active, .btn:active, .evc-chip:active { transform:scale(.94); }
     }
     .heart, .share-btn, .iconbtn, .seen-btn, .evc-heart, .dt, .qchip, .evc-chip { transition:transform var(--dur-1) var(--ease-standard), border-color var(--dur-1) var(--ease-standard), background var(--dur-1) var(--ease-standard); }
+    /* ── Motion ───────────────────────────────────────────────────────────────
+       Three jobs, nothing decorative: say new content arrived (list entry), say
+       a panel came from somewhere (panel enter), confirm a press (above).
+       Everything here is disabled wholesale by the reduced-motion block below. */
+    @keyframes sc-rise { from { opacity:0; transform:translateY(9px); } to { opacity:1; transform:none; } }
+    @keyframes sc-panel { from { opacity:0; transform:translateY(14px) scale(.995); } to { opacity:1; transform:none; } }
+    /* Rows and cards enter in sequence. Capped at 8 steps x 34ms = 272ms total:
+       past roughly a third of a second a stagger stops reading as craft and
+       starts reading as the page being slow. Items past the cap share the last
+       delay rather than trailing further. */
+    .grid > *, .line > li, .srail-anim > * { animation:sc-rise var(--dur-3) var(--ease-standard) both; }
+    .grid > :nth-child(1), .line > li:nth-child(1), .srail-anim > :nth-child(1) { animation-delay:0ms; }
+    .grid > :nth-child(2), .line > li:nth-child(2), .srail-anim > :nth-child(2) { animation-delay:34ms; }
+    .grid > :nth-child(3), .line > li:nth-child(3), .srail-anim > :nth-child(3) { animation-delay:68ms; }
+    .grid > :nth-child(4), .line > li:nth-child(4), .srail-anim > :nth-child(4) { animation-delay:102ms; }
+    .grid > :nth-child(5), .line > li:nth-child(5), .srail-anim > :nth-child(5) { animation-delay:136ms; }
+    .grid > :nth-child(6), .line > li:nth-child(6), .srail-anim > :nth-child(6) { animation-delay:170ms; }
+    .grid > :nth-child(7), .line > li:nth-child(7), .srail-anim > :nth-child(7) { animation-delay:204ms; }
+    .grid > :nth-child(n+8), .line > li:nth-child(n+8), .srail-anim > :nth-child(n+8) { animation-delay:238ms; }
+    .page-panel, .obv-card { animation:sc-panel var(--dur-3) var(--ease-emphasized) both; }
+    /* View Transitions: the grid cross-fades instead of snapping when a date
+       filter re-renders it. Only used where the re-render is SYNCHRONOUS —
+       wrapping a fetch would hold the frozen snapshot on screen for the whole
+       round trip, which looks like a hang. */
+    ::view-transition-old(sc-grid), ::view-transition-new(sc-grid) { animation-duration:var(--dur-2); }
+
     @media (prefers-reduced-motion:reduce){
       *, *::before, *::after { animation-duration:.001ms !important; animation-iteration-count:1 !important; transition-duration:.001ms !important; scroll-behavior:auto !important; }
+      .grid > *, .line > li, .srail-anim > * { animation-delay:0ms !important; }
     }
     /* Keyboard focus is visible EVERYWHERE by default (the app is almost all
        buttons). Mouse/touch stay clean — :focus-visible only fires on keyboard. */
@@ -3095,7 +3122,14 @@
     /* CRT glass over EVERYTHING — every page, panel, modal, dock. pointer-events:none
        keeps it inert; z-index above all stacking contexts so no surface escapes the lines. */
     body::before{ content:""; position:fixed; inset:0; z-index:2000000; pointer-events:none;
-      background:linear-gradient(rgba(255,154,61,.05) 1px, transparent 1px); background-size:100% 4px; }
+      /* CRT lines: halved opacity and doubled pitch. At .05 on a 4px pitch these
+         beat against poster detail and device-pixel rounding and read as moire
+         banding rather than as texture — visible as stripes across every photo
+         on the home feed. .025 on 8px keeps the CRT read without the interference. */
+      background:linear-gradient(rgba(255,154,61,.025) 1px, transparent 1px); background-size:100% 8px; }
+    /* No CRT overlay for anyone who asked for less motion/effects, and none when
+       the OS is in high-contrast mode — the lines cut contrast on body text. */
+    @media (prefers-contrast:more){ body::before{ display:none; } }
     /* gradient on "check" only; hover → whole logo white; logo/city sized like event titles */
     .logo-wm .ac{ background:var(--accent-grad); -webkit-background-clip:text; background-clip:text;
       -webkit-text-fill-color:transparent; color:transparent; }
@@ -3364,6 +3398,11 @@
         padding:12px var(--gut); border-top:1px solid var(--border); }
       .status{ background:var(--surface); margin:0 calc(-1 * var(--gut)); padding:2px var(--gut) 8px; }
       .status:empty{ display:none; }
+      /* A .status INSIDE #grid is already inside a full-bleed band, so the
+         negative margin applied a SECOND time pushed the empty state ("Nothing
+         on this day…") a whole gutter off the left edge, hard against the
+         screen. Inside the band it only needs the band's own inset. */
+      #grid > .status{ margin:0; padding:2px 18px 8px; }
       #grid{ background:var(--surface); margin:0 calc(-1 * var(--gut)); border-top:1px solid var(--border);
         padding:4px calc(var(--gut) - 18px) 14px; gap:0; }
       .lvr, .gcard.evc.lvr{ background:none; border:0; border-radius:0; box-shadow:none; padding:10px 18px; }
@@ -3383,7 +3422,10 @@
     }
     @media (max-width:620px){ :root{ --gut:18px; } }
 </style>
-<meta name="sc-build" content="1785140980188">
+  <!-- Umami analytics. defer so it never blocks first paint; the SPA rewrites
+       history on navigation, which umami picks up automatically. -->
+  <script defer src="https://cloud.umami.is/script.js" data-website-id="de210b6c-12e4-4819-95f6-f5120974855a"></script>
+<meta name="sc-build" content="1785142605326">
 </head>
 <body>
   <main class="wrap">
@@ -3395,6 +3437,7 @@
         <button class="nl" data-nav="discover" type="button">Discover</button>
         <button class="nl" data-nav="scenes" type="button">Scenes</button>
         <button class="nl" data-nav="upcoming" type="button">Upcoming</button>
+        <button class="nl" data-nav="radio" type="button">Radio</button>
       </div>
       <button class="hdr-search" id="hdr-search" type="button" aria-label="Search artists, venues, events"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="11" cy="11" r="8"/><path d="m21 21-4.3-4.3"/></svg><span class="hs-tx">Search artists, venues, events…</span></button>
       <button class="hdr-log" id="hdr-log" type="button" style="display:none">+ Log a gig</button>
@@ -6853,7 +6896,16 @@
     function mountDatedEventCards(stripEl, cardsEl, rows, opts){
       mountEventCards(cardsEl, rows, opts);
       mountEntityDayStrip(stripEl, rows, function(iso){
-        mountEventCards(cardsEl, iso ? rows.filter(function(g){ return String(g.event_date||'').slice(0,10)===iso; }) : rows, opts);
+        var render=function(){
+          mountEventCards(cardsEl, iso ? rows.filter(function(g){ return String(g.event_date||'').slice(0,10)===iso; }) : rows, opts);
+        };
+        // Cross-fade the grid instead of snapping it. Safe to wrap because this
+        // render is synchronous — no fetch is held behind the frozen snapshot.
+        if(document.startViewTransition && !matchMedia('(prefers-reduced-motion: reduce)').matches){
+          cardsEl.style.viewTransitionName='sc-grid';
+          var vt=document.startViewTransition(render);
+          vt.finished.finally(function(){ cardsEl.style.viewTransitionName=''; });
+        } else render();
       });
     }
 
@@ -9380,7 +9432,7 @@
     }
 
     document.getElementById('hdr-search').addEventListener('click',openSearch);
-    document.querySelectorAll('.nl[data-nav]').forEach(function(b){ b.addEventListener('click',function(){ var n=b.dataset.nav; if(n==='discover') openDiscover(); else if(n==='scenes') openScenes(); else if(n==='upcoming') openUpcoming(); }); });
+    document.querySelectorAll('.nl[data-nav]').forEach(function(b){ b.addEventListener('click',function(){ var n=b.dataset.nav; if(n==='discover') openDiscover(); else if(n==='scenes') openScenes(); else if(n==='upcoming') openUpcoming(); else if(n==='radio') openRadio(); }); });
     var _hlog=document.getElementById('hdr-log'); if(_hlog) _hlog.addEventListener('click',function(){ openLog(); });
     // filters: the genre / price / near row is collapsed by default; the sliders
     // button reveals it (and shows a salmon dot when a filter is live).

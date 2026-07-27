@@ -1,8 +1,8 @@
 # The Cause
 
-The Cause is a music venue in London with 21 upcoming nights listed on soundcheck as of Mon, 27 Jul 2026; the next is "Don't F**k with Disco - OPEN AIR - NO HAT… NO ENTRY (SOLD OUT)" on Sat, 1 Aug 2026.
+The Cause is a music venue in London with 22 upcoming nights listed on soundcheck as of Mon, 27 Jul 2026; the next is "Don't F**k with Disco - OPEN AIR - NO HAT… NO ENTRY (SOLD OUT)" on Sat, 1 Aug 2026.
 
-The Cause is a music venue in London listed on soundcheck. 21 upcoming nights, with line-ups including 4am Kru, KT, Aba Shanti-I and AliA and 2 more. Browse upcoming dates, start times and who's playing. 60 Dock Road, London, E16 1YZ.
+The Cause is a music venue in London listed on soundcheck. 22 upcoming nights, with line-ups including 4am Kru, KT, Aba Shanti-I and AliA and 2 more. Browse upcoming dates, start times and who's playing. 60 Dock Road, London, E16 1YZ.
 
 ## What's on
 

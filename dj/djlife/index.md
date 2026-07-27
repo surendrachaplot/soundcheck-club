@@ -1,14 +1,15 @@
 # DJ Life
 
-DJ Life is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Mon, 27 Jul 2026, next at Renate, Berlin on Fri, 31 Jul 2026.
+DJ Life is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Mon, 27 Jul 2026, next at Renate, Berlin on Fri, 31 Jul 2026.
 
-DJ Life is a house and techno artist based in Australia, tracked on soundcheck, with 45 sets logged across Amsterdam, Barcelona, Berlin and Budapest and 12 more. Often billed alongside DJ Niamh, Hannah D and Mabel. Next up: Renate, Berlin on Fri 31 Jul.
+DJ Life is a house and techno artist based in Australia, tracked on soundcheck, with 46 sets logged across Amsterdam, Barcelona, Berlin and Budapest and 12 more. Often billed alongside DJ Niamh, Hannah D and Mabel. Next up: Renate, Berlin on Fri 31 Jul.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 31 Jul 2026 | Renate | Berlin |
+| Fri, 7 Aug 2026 | arkaoda Berlin | Berlin |
 | Sat, 22 Aug 2026 | Radio Radio | Amsterdam |
 
 ## Recently played
