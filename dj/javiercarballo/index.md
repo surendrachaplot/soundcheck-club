@@ -1,8 +1,8 @@
 # Javier Carballo
 
-Javier Carballo is a House and Electro artist with 2 upcoming club dates listed on soundcheck as of Mon, 27 Jul 2026, next at Sophie Festival, Malaga on Sat, 15 Aug 2026.
+Javier Carballo is a Electro and Techno artist with 3 upcoming club dates listed on soundcheck as of Mon, 27 Jul 2026, next at Sophie Festival, Malaga on Sat, 15 Aug 2026.
 
-Javier Carballo is a house and electro artist tracked on soundcheck, with 90 sets logged across Amsterdam, Bangkok, Barcelona and Berlin and 11 more. Often billed alongside ildec, Hitch and Alex (ES). Next up: Sophie Festival, Malaga on Sat 15 Aug.
+Javier Carballo is an electro and techno artist tracked on soundcheck, with 91 sets logged across Amsterdam, Bangkok, Barcelona and Berlin and 11 more. Often billed alongside ildec, Hitch and Alex (ES). Next up: Sophie Festival, Malaga on Sat 15 Aug.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Javier Carballo is a house and electro artist tracked on soundcheck, with 90 set
 | --- | --- | --- |
 | Sat, 15 Aug 2026 | Sophie Festival | Malaga |
 | Sat, 12 Sept 2026 | Les Enfants Brillants | Barcelona |
+| Sat, 10 Oct 2026 | Les Enfants Brillants | Barcelona |
 
 ## Recently played
 

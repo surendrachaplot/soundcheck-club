@@ -8,7 +8,7 @@ La Station - Gare des Mines is a music venue in Paris listed on soundcheck. 12 u
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Fri, 31 Jul 2026 | Avant-Garce : Skyblog Legacy <2 edition RPZ |  |
+| Fri, 31 Jul 2026 | Avant-Garce : Skyblog Legacy <2 edition RPZ | Chinnamasta, Crustasex, Imsobaby |
 | Sat, 1 Aug 2026 | OUTREBLEU  | Kohra, SOLARYTHM, Softi |
 | Fri, 7 Aug 2026 | Herrensauna × FIST | CEM, DJ Clone, MCMLXXXV, PEPIITA, Word of Command |
 | Sat, 8 Aug 2026 | DJAOULI ENT x NYEGE NYEGE A PARIS | Andy4000, Hibotep |

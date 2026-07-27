@@ -1,8 +1,8 @@
 # Alexander Skancke
 
-Alexander Skancke is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Mon, 27 Jul 2026, next at Playa Soleil Ibiza, Ibiza on Wed, 29 Jul 2026.
+Alexander Skancke is a House and Techno artist with 4 upcoming club dates listed on soundcheck as of Mon, 27 Jul 2026, next at Playa Soleil Ibiza, Ibiza on Wed, 29 Jul 2026.
 
-Alexander Skancke is a house and techno artist tracked on soundcheck, with 86 sets logged across Amsterdam, Antwerp, Bali and Barcelona and 21 more. Often billed alongside Henriku, Trent Voyage and Dorian Paic. Next up: Playa Soleil Ibiza, Ibiza on Wed 29 Jul.
+Alexander Skancke is a house and techno artist tracked on soundcheck, with 87 sets logged across Amsterdam, Antwerp, Bali and Barcelona and 21 more. Often billed alongside Henriku, Trent Voyage and Dorian Paic. Next up: Playa Soleil Ibiza, Ibiza on Wed 29 Jul.
 
 ## Upcoming shows
 
@@ -11,6 +11,7 @@ Alexander Skancke is a house and techno artist tracked on soundcheck, with 86 se
 | Wed, 29 Jul 2026 | Playa Soleil Ibiza | Ibiza |
 | Sat, 15 Aug 2026 | Jaeger | Oslo |
 | Sat, 22 Aug 2026 | Haus der Visionäre | Berlin |
+| Sat, 17 Oct 2026 | Les Enfants Brillants | Barcelona |
 
 ## Recently played
 

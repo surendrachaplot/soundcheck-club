@@ -355,11 +355,17 @@
        City leads, then every venue with a line-up this weekend, most popular
        first. One row shape for both so the page reads as one list of stations
        rather than a feature and a list. */
-    .rad-hd { padding:4px 18px 2px; }
+    .rad-hd { padding:2px 0 2px; }
+    /* Eyebrow: the same mono/tracked/accent treatment as .fp-kick and
+       .ob-eyebrow. .kick was referenced by the radio markup and never defined,
+       so this rendered in the body face at default size. */
+    .rad-hd .kick { font:700 var(--fs-2xs)/var(--lh-2xs) var(--font-mono);
+      letter-spacing:.22em; text-transform:uppercase; color:var(--accent); display:block; }
     .rad-h1 { font-family:var(--head); font-weight:800; font-size:var(--fs-2xl);
       letter-spacing:var(--ls-2xl); line-height:var(--lh-2xl); margin:3px 0 5px; }
     .rad-sub { color:var(--muted); font-size:var(--fs-sm); line-height:var(--lh-sm); margin:0 0 var(--sp-4); max-width:52ch; }
-    .rad-rack { display:flex; flex-direction:column; gap:8px; padding:0 18px; }
+    .rad-rack + .sec-h { margin-top:var(--sp-5); }
+    .rad-rack { display:flex; flex-direction:column; gap:8px; padding:0; }
     .rad-st { display:flex; align-items:center; gap:12px; width:100%; text-align:left;
       background:var(--surface); border:1px solid var(--border); border-radius:var(--r-2);
       padding:10px; color:var(--fg); font:inherit; cursor:pointer;
@@ -2947,12 +2953,16 @@
     .pfh-name{ font-family:var(--head); font-weight:800; font-size:var(--fs-2xl); letter-spacing:-.02em; margin:0 0 3px; }
     .pfh-sub{ color:var(--muted); font-size:var(--fs-sm); }
     .pfh-acts{ display:flex; gap:9px; flex:0 0 auto; }
-    .pfh-ribbon{ display:grid; grid-template-columns:repeat(4,1fr); margin-top:18px; border:1px solid var(--border); border-radius:var(--radius-md); overflow:hidden; background:var(--surface); }
-    .pfh-ribbon .c{ padding:14px 9px; border-right:1px solid var(--border); cursor:pointer; -webkit-tap-highlight-color:transparent; transition:background .12s; }
+    .pfh-ribbon{ display:grid; grid-template-columns:repeat(5,1fr); margin-top:18px; border:1px solid var(--border); border-radius:var(--radius-md); overflow:hidden; background:var(--surface); }
+    .pfh-ribbon .c{ padding:12px 4px; border-right:1px solid var(--border); cursor:pointer; min-width:0; text-align:center; -webkit-tap-highlight-color:transparent; transition:background .12s; }
     .pfh-ribbon .c:hover{ background:var(--surface-2); }
     .pfh-ribbon .c:last-child{ border-right:0; }
-    .pfh-ribbon b{ font-family:var(--head); font-weight:800; font-size:var(--fs-xl); display:block; line-height:1; }
-    .pfh-ribbon span{ font:700 .6rem var(--font-mono); letter-spacing:.07em; text-transform:uppercase; color:var(--muted); margin-top:6px; display:block; white-space:nowrap; }
+    .pfh-ribbon b{ font-family:var(--head); font-weight:800; font-size:var(--fs-lg); display:block; line-height:1; font-variant-numeric:tabular-nums; }
+    /* Five labels have to survive a 320px screen: ~60px per cell. Clamped so
+       'Followers' shrinks rather than wrapping or clipping. */
+    .pfh-ribbon span{ font:700 clamp(8px,2.4vw,10px)/1.2 var(--font-mono); letter-spacing:.02em;
+      text-transform:uppercase; color:var(--muted); margin-top:5px; display:block;
+      white-space:nowrap; overflow:hidden; text-overflow:ellipsis; }
     .pfh-tags{ display:flex; flex-wrap:wrap; gap:8px; margin-top:14px; align-items:center; }
     .pfh-tl{ font:700 .6rem var(--font-mono); letter-spacing:.12em; text-transform:uppercase; color:var(--faint); margin-right:2px; }
     .pfh-tag{ display:inline-flex; padding:6px 13px; border-radius:var(--radius-pill); border:1px solid var(--border); background:var(--surface-2); color:var(--fg); font:700 .78rem var(--body); }
@@ -3615,7 +3625,7 @@
   <!-- Umami analytics. defer so it never blocks first paint; the SPA rewrites
        history on navigation, which umami picks up automatically. -->
   <script defer src="https://cloud.umami.is/script.js" data-website-id="de210b6c-12e4-4819-95f6-f5120974855a"></script>
-<meta name="sc-build" content="1785163896738">
+<meta name="sc-build" content="1785164864163">
 </head>
 <body>
   <main class="wrap">
