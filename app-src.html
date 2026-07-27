@@ -109,12 +109,28 @@
        :where() has zero specificity, so this can't beat a component that
        positions itself — .evc-heart stays position:absolute and simply supplies
        its own containing block, which is all the ::after needs. */
-    :where(.heart, .share-btn, .iconbtn, .auth-close, .seen-btn, .more-btn, .hdr-city) { position:relative; }
+    :where(.heart, .share-btn, .iconbtn, .auth-close, .seen-btn, .more-btn, .hdr-city,
+           .psticky-back, .fp-ev-share-ic, .slink, .fp-ab, .fp-pb, .fp-tab, .ds-filt,
+           .fp-ev-follow, .report-cue, .fp-sk-act, .cb-btn, .evc-play,
+           .leaflet-control-zoom-in, .leaflet-control-zoom-out) { position:relative; }
     .heart::after, .share-btn::after, .iconbtn::after, .auth-close::after,
-    .seen-btn::after, .evc-heart::after, .more-btn::after, .hdr-city::after {
+    .seen-btn::after, .evc-heart::after, .more-btn::after, .hdr-city::after,
+    .psticky-back::after, .fp-ev-share-ic::after, .slink::after, .fp-ab::after,
+    .fp-pb::after, .fp-tab::after, .ds-filt::after, .fp-ev-follow::after,
+    .report-cue::after, .fp-sk-act::after, .cb-btn::after, .evc-play::after,
+    .leaflet-control-zoom-in::after, .leaflet-control-zoom-out::after {
       content:''; position:absolute; left:50%; top:50%; transform:translate(-50%,-50%);
       width:max(100%, 44px); height:max(100%, 44px);
+      pointer-events:auto;
     }
+    /* The expander must never sit above the control's own content (icons, the
+       tab underline), only extend what's touchable beneath it. */
+    .heart::after, .share-btn::after, .iconbtn::after, .auth-close::after,
+    .seen-btn::after, .evc-heart::after, .more-btn::after, .hdr-city::after,
+    .psticky-back::after, .fp-ev-share-ic::after, .slink::after, .fp-ab::after,
+    .fp-pb::after, .fp-tab::after, .ds-filt::after, .fp-ev-follow::after,
+    .report-cue::after, .fp-sk-act::after, .cb-btn::after, .evc-play::after,
+    .leaflet-control-zoom-in::after, .leaflet-control-zoom-out::after { z-index:0; }
     /* Press feedback on everything tappable. 60ms is below the ~100ms threshold
        where a delay starts reading as lag, so it registers as the control
        responding rather than as an animation. */
@@ -3465,7 +3481,7 @@
   <!-- Umami analytics. defer so it never blocks first paint; the SPA rewrites
        history on navigation, which umami picks up automatically. -->
   <script defer src="https://cloud.umami.is/script.js" data-website-id="de210b6c-12e4-4819-95f6-f5120974855a"></script>
-<meta name="sc-build" content="1785144924231">
+<meta name="sc-build" content="1785145472453">
 </head>
 <body>
   <main class="wrap">

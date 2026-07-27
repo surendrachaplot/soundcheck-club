@@ -1,6 +1,6 @@
-# Breakaway: After Hours Takeover - FREE ENTRY BEFORE 12AM - Jungle/Hardcore/Drum & Bass at Dalston Den
+# Breakaway: After Hours Takeover - FREE ENTRY BEFORE 12AM - Jungle/Drum & Bass at Dalston Den
 
-Breakaway: After Hours Takeover - FREE ENTRY BEFORE 12AM - Jungle/Hardcore/Drum & Bass at Dalston Den on Fri 31 Jul, London. 4 acts on the bill: A.N.T, Abby Daze, Highlander and STARCH. Drum & Bass and Jungle. Preview the line-up and save it on soundcheck.
+Breakaway: After Hours Takeover - FREE ENTRY BEFORE 12AM - Jungle/Drum & Bass at Dalston Den on Fri 31 Jul, London. 4 acts on the bill: A.N.T, Abby Daze, Highlander and STARCH. Drum & Bass and Jungle. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

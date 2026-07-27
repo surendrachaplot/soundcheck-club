@@ -1,6 +1,6 @@
 # Vespers presents with Asphodèle, JUPiTA, Suki Quasimodo, Blue Ringed Baby & Kamī at Vespers Club
 
-Vespers presents with Asphodèle, JUPiTA, Suki Quasimodo, Blue Ringed Baby & Kamī at Vespers Club on Sat 1 Aug, London. 4 acts on the bill: Asphodèle, Blue Ringed Baby, JUPiTA and Suki Quasimodo. Breakbeat and Bass. Preview the line-up and save it on soundcheck.
+Vespers presents with Asphodèle, JUPiTA, Suki Quasimodo, Blue Ringed Baby & Kamī at Vespers Club on Sat 1 Aug, London. 5 acts on the bill: Asphodèle, bemmeblu, Blue Ringed Baby and JUPiTA and 1 more. Breakbeat and Bass. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -11,6 +11,7 @@ Vespers presents with Asphodèle, JUPiTA, Suki Quasimodo, Blue Ringed Baby & Kam
 ## Line-up
 
 - Asphodèle
+- bemmeblu
 - Blue Ringed Baby
 - JUPiTA
 - Suki Quasimodo
