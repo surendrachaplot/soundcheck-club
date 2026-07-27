@@ -12,7 +12,7 @@
 | Wed, 29 Jul 2026 | ://sektgarten x tech punk, freak ass e mit Lesung [free entry & open air] | FreakAssE |
 | Thu, 30 Jul 2026 | DIFFUSE REALITY pres. Recondite [Live] | ELLA WAX, Juan Cernadas, Nina de Koning, Recondite, Squaric |
 | Thu, 30 Jul 2026 | ://sektgarten x diffuse reality [free entry & open air] | Josefina Tapia, Ludwig Mausberg, Mosh Project, Squaric |
-| Fri, 31 Jul 2026 | Unterm Techno liegt der Punk | Domovnika, FERRØMANCY, Hypermobil, Karina Qanir, Kwaint, Trancy Chatman, alemiko, r:xn |
+| Fri, 31 Jul 2026 | Unterm Techno liegt der Punk | Domovnika, FERRØMANCY, Hypermobil, K1KO, Karina Qanir, Kwaint, Lithium (2), Trancy Chatman, alemiko, r:xn |
 | Sat, 1 Aug 2026 | Blank Holidays Festival Weekender  | Aimé You, Alex.Do, Alienata, An On Bast, André Galluzzi, Anja Schneider, Anja Zaube, Barbara Hofmann, Biesmans, CHOREOPHILA, DJ Eivissa, Diwa, Hanna Baertig, Iron Curtis, Jessamine, Joel Mull, Kwaint, LUISELLE, Lydia Eisenblätter, Michael Mayer, Rosa Kante, Shubostar, Sportbrigade Sparwasser, Wasn & Wunderwaffel, eva h. |
 | Thu, 6 Aug 2026 | Amsterdam Techno Records and ://about blank on Thursday's [Amsterdam and Berlin] | BRT.C, DEN!SE, GVMEDNA, L.22, Martxas, SIUL (1), Solvados, TAKT130 |
 | Fri, 7 Aug 2026 | ://situationship: Diskolusion x RITMO3000 | Anna Hjalmarsson, Caren Callas, Desolate Discotheque, Helen Svart-Vit, Introversion, Kris Baha, Martin Meyer, babxi |
