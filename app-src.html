@@ -33,6 +33,7 @@
        logo, nav, names); Inter = dense body/metadata/labels. ── */
     @font-face{font-family:'Bricolage Grotesque';font-style:normal;font-weight:400 800;font-display:block;src:url(/fonts/bricolage.woff2) format('woff2');unicode-range:U+0000-00FF,U+0131,U+0152-0153,U+02BB-02BC,U+02C6,U+02DA,U+02DC,U+2000-206F,U+2074,U+20AC,U+2122,U+2191,U+2193,U+2212,U+2215,U+FEFF,U+FFFD;}
     @font-face{font-family:'Inter';font-style:normal;font-weight:400 700;font-display:block;src:url(/fonts/inter.woff2) format('woff2');unicode-range:U+0000-00FF,U+0131,U+0152-0153,U+02BB-02BC,U+02C6,U+02DA,U+02DC,U+2000-206F,U+2074,U+20AC,U+2122,U+2191,U+2193,U+2212,U+2215,U+FEFF,U+FFFD;}
+    @font-face{font-family:'Archivo';font-style:normal;font-weight:400 800;font-display:block;src:url(/fonts/archivo.woff2) format('woff2');unicode-range:U+0000-00FF,U+0131,U+0152-0153,U+02BB-02BC,U+02C6,U+02DA,U+02DC,U+2000-206F,U+2074,U+20AC,U+2122,U+2191,U+2193,U+2212,U+2215,U+FEFF,U+FFFD;}
 
     *,*::before,*::after { margin:0; padding:0; box-sizing:border-box; }
     :root {
@@ -57,7 +58,7 @@
       --radius:var(--r-2); --radius-md:var(--r-2); --radius-lg:var(--r-2);
       --radius-xl:var(--r-3); --radius-pill:999px;
       /* type — Bricolage = display/voice, Inter = dense body/metadata */
-      --head:"Bricolage Grotesque",sans-serif; --body:"Inter","Bricolage Grotesque",sans-serif; --font-mono:ui-monospace,"SFMono-Regular",Menlo,monospace;
+      --head:"Bricolage Grotesque",sans-serif; --body:"Archivo","Inter","Bricolage Grotesque",sans-serif; --font-mono:ui-monospace,"SFMono-Regular",Menlo,monospace;
       --icon-xs:12px; --icon-sm:16px; --icon-md:20px; --icon-lg:24px;
       /* ── TYPE SCALE ───────────────────────────────────────────────────
          Two ranges, one system. The UI steps (11→17px) climb in fine
@@ -99,6 +100,32 @@
        <button> computes line-height:normal in Chrome), which reintroduced exactly
        the unset leading the type scale exists to prevent. Anchor them once here. */
     button, input, select, textarea { font-family:inherit; line-height:var(--lh-base); }
+    /* ── Touch targets ────────────────────────────────────────────────────────
+       An audit found ~20 controls under 44px on one screen, hearts down at
+       26x26. The drawn sizes are deliberate (a 44px heart would wreck the row
+       it sits in), so instead each icon control keeps its size and gets a 44x44
+       HIT AREA from an invisible ::after. Apple HIG minimum / WCAG 2.5.8.
+
+       :where() has zero specificity, so this can't beat a component that
+       positions itself — .evc-heart stays position:absolute and simply supplies
+       its own containing block, which is all the ::after needs. */
+    :where(.heart, .share-btn, .iconbtn, .auth-close, .seen-btn, .more-btn, .hdr-city) { position:relative; }
+    .heart::after, .share-btn::after, .iconbtn::after, .auth-close::after,
+    .seen-btn::after, .evc-heart::after, .more-btn::after, .hdr-city::after {
+      content:''; position:absolute; left:50%; top:50%; transform:translate(-50%,-50%);
+      width:max(100%, 44px); height:max(100%, 44px);
+    }
+    /* Press feedback on everything tappable. 60ms is below the ~100ms threshold
+       where a delay starts reading as lag, so it registers as the control
+       responding rather than as an animation. */
+    @media (hover:none){
+      .heart:active, .share-btn:active, .iconbtn:active, .seen-btn:active,
+      .evc-heart:active, .dt:active, .qchip:active, .btn:active, .evc-chip:active { transform:scale(.94); }
+    }
+    .heart, .share-btn, .iconbtn, .seen-btn, .evc-heart, .dt, .qchip, .evc-chip { transition:transform var(--dur-1) var(--ease-standard), border-color var(--dur-1) var(--ease-standard), background var(--dur-1) var(--ease-standard); }
+    @media (prefers-reduced-motion:reduce){
+      *, *::before, *::after { animation-duration:.001ms !important; animation-iteration-count:1 !important; transition-duration:.001ms !important; scroll-behavior:auto !important; }
+    }
     /* Keyboard focus is visible EVERYWHERE by default (the app is almost all
        buttons). Mouse/touch stay clean — :focus-visible only fires on keyboard. */
     :focus-visible { outline:2px solid var(--accent); outline-offset:2px; border-radius:var(--radius-2xs); }
@@ -3356,7 +3383,7 @@
     }
     @media (max-width:620px){ :root{ --gut:18px; } }
 </style>
-<meta name="sc-build" content="1785140301942">
+<meta name="sc-build" content="1785140980188">
 </head>
 <body>
   <main class="wrap">
@@ -3606,6 +3633,17 @@
       var mono=(String(name||'').trim().replace(/^the\s+/i,'').charAt(0)||'?').toUpperCase();
       return '<span class="gen-hero" style="--gh-ang:'+((h>>3)%360)+'deg;--gh1:hsl('+hue+' 54% 44%);--gh2:hsl('+((hue+46+(h>>7)%56)%360)+' 60% 18%)"><i>'+esc(mono)+'</i></span>';
     }
+    // Hero <img> that fails to load. The old handler was onerror="this.remove()",
+    // which left an EMPTY BOX: the generated fallback only ran when the image was
+    // absent from the data, never when the URL 404'd or the proxy failed. Now both
+    // paths land on the same genHero, so a broken image is indistinguishable from
+    // a missing one. Global because it's referenced from an inline onerror.
+    window.heroImgFail = function(img, name, seed){
+      if(!img || !img.parentNode || img.dataset.failed) return;
+      img.dataset.failed='1';
+      img.insertAdjacentHTML('afterend', genHero(name, seed || name));
+      img.remove();
+    };
     function genPoster(title){
       var h=hashStr(title), hue=((h%70)+340)%360, ang=110+(h%80);
       return '<div class="gen" style="--ang:'+ang+'deg;--g1:hsl('+hue+' 68% 54%);--g2:hsl('+((hue+18)%360)+' 45% 11%)"><span class="gt">'+esc(title)+'</span></div>';
@@ -7166,7 +7204,7 @@
         var r=await authedFetch('/api/artist?slug='+encodeURIComponent(slug)); var a=await r.json();
         var mine=artStatus(slug);
         var nextGig=(a.upcoming&&a.upcoming[0])||null;
-        var img=a.image?'<img loading="lazy" decoding="async" src="'+imgUrl(a.image,600)+'" alt="'+attrEsc((a.name||slug)+' artist portrait')+'" onerror="this.remove()">':'';
+        var img=a.image?'<img loading="lazy" decoding="async" src="'+imgUrl(a.image,600)+'" alt="'+attrEsc((a.name||slug)+' artist portrait')+'" onerror="heroImgFail(this,\''+attrEsc(String(a.name||slug).replace(/'/g,""))+'\',\''+attrEsc(slug)+'\')">':genHero(a.name||slug, slug);
         var fmtK=function(n){ n=+n||0; return n>=1000?(n/1000).toFixed(n>=10000?0:1).replace(/\.0$/,'')+'K':(n||''); };
         // Kick line = their next show (venue, city); falls back to country when nothing's booked.
         var _ndl=(nextGig&&nextGig.event_date)?fmtDateLabel(String(nextGig.event_date).slice(0,10)):'';
@@ -7590,7 +7628,7 @@
         // Venue hero — the SAME bespoke fp-hero structure as the artist page:
         // photo block (image or generative) + kick line + big name w/ website + acts row.
         var vNext=nextPlayableEvent(v.upcoming);
-        var vImg=v.image?'<img loading="lazy" decoding="async" src="'+imgUrl(v.image,600)+'" alt="'+attrEsc(dispName+' venue photo')+'" onerror="this.remove()">':genHero(dispName, v.slug||dispName);
+        var vImg=v.image?'<img loading="lazy" decoding="async" src="'+imgUrl(v.image,600)+'" alt="'+attrEsc(dispName+' venue photo')+'" onerror="heroImgFail(this,\''+attrEsc(String(dispName).replace(/'/g,""))+'\',\''+attrEsc(String(v.slug||dispName))+'\')">':genHero(dispName, v.slug||dispName);
         // Kick line = who's playing next here (their line-up); falls back to area · city.
         var vNextArts=(vNext&&vNext.lineup)?vNext.lineup.map(function(a){ return a.name; }).filter(Boolean):[];
         var _vndl=(vNext&&vNext.event_date)?fmtDateLabel(String(vNext.event_date).slice(0,10)):'';

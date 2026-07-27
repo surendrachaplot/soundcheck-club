@@ -1,8 +1,8 @@
 # The Lighthouse
 
-The Lighthouse is a music venue in London with 16 upcoming nights listed on soundcheck as of Mon, 27 Jul 2026; the next is "Bashment X Soca - Shoreditch Party - Everyone Free Before 12AM" on Fri, 31 Jul 2026.
+The Lighthouse is a music venue in London with 22 upcoming nights listed on soundcheck as of Mon, 27 Jul 2026; the next is "Bashment X Soca - Shoreditch Party - Everyone Free Before 12AM" on Fri, 31 Jul 2026.
 
-The Lighthouse is a music venue in London listed on soundcheck. 16 upcoming nights. Browse upcoming dates, start times and who's playing. 62-68 Rivington Street, Shoreditch, London EC2A 3AY.
+The Lighthouse is a music venue in London listed on soundcheck. 22 upcoming nights. Browse upcoming dates, start times and who's playing. 62-68 Rivington Street, Shoreditch, London EC2A 3AY.
 
 ## What's on
 
@@ -13,11 +13,11 @@ The Lighthouse is a music venue in London listed on soundcheck. 16 upcoming nigh
 | Sat, 1 Aug 2026 | Bashment & Afrobeats - Shoreditch Party |  |
 | Sat, 1 Aug 2026 | Bashment Skin Out Party - Everyone Free Before 12AM |  |
 | Sat, 8 Aug 2026 | Bashment & Afrobeats - Shoreditch Party |  |
+| Fri, 14 Aug 2026 | Bashment X Soca - Shoreditch Party - Everyone Free Before 12AM |  |
 | Sat, 15 Aug 2026 | Bashment & Afrobeats - Shoreditch Party |  |
+| Sat, 15 Aug 2026 | Bashment Skin Out - Shoreditch Party - Everyone Free Before 12AM |  |
+| Fri, 21 Aug 2026 | Bashment X Soca - Shoreditch Party - Everyone Free Before 12AM |  |
 | Sat, 22 Aug 2026 | Bashment & Afrobeats - Shoreditch Party |  |
-| Sat, 29 Aug 2026 | Bashment & Afrobeats - Shoreditch Party |  |
-| Sat, 5 Sept 2026 | Bashment & Afrobeats - Shoreditch Party |  |
-| Sat, 12 Sept 2026 | Bashment & Afrobeats - Shoreditch Party |  |
 
 ## Address
 

@@ -12,7 +12,7 @@ Union Club, Vauxhall is a music venue in London listed on soundcheck. 10 upcomin
 | Fri, 31 Jul 2026 | AFTERPARTY at FOX IN THE BOX (Open until 10am) | Cristian Ebasta |
 | Sat, 1 Aug 2026 | TROUGH LONDON |  |
 | Thu, 6 Aug 2026 | DESIRE - Weekly Thursday After Party - Dhez and VORTEX | Dhez, Duwat?, Simone Sim, Vortex (BR) |
-| Fri, 7 Aug 2026 | AFTER PARTY at FOX IN THE BOX (3 YEARS CELEBRATION ) |  |
+| Fri, 7 Aug 2026 | AFTER PARTY at FOX IN THE BOX ( 2 YEARS CELEBRATION ) | Cristian Ebasta, Enrico Chirchiello |
 | Thu, 13 Aug 2026 | DESIRE - Weekly Thursday After Party - SPECIAL GUEST | Dhez, Duwat?, Simone Sim |
 | Thu, 20 Aug 2026 | DESIRE - Weekly Thursday After Party - DUWAT | Dhez, Duwat?, Simone Sim |
 | Thu, 27 Aug 2026 | DESIRE - Weekly Thursday After Party - HOUSEWIFE | Dhez, Duwat?, Housewife (UK), Simone Sim |
