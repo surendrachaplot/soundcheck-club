@@ -216,6 +216,8 @@
     /* web: the strip fills the row width; JS packs MORE day tiles (original size) to fill it */
     @media (min-width:621px){ .daystrip { flex:1 1 auto; } }
     .daystrip::-webkit-scrollbar { display:none; }
+    /* the same strip used inside an entity page's Upcoming section */
+    .ent-daystrip { margin:var(--sp-3) 0 var(--sp-4); }
     .dt { flex:none; display:flex; flex-direction:column; align-items:center; justify-content:center; gap:2px; min-width:54px; height:58px; border-radius:var(--radius-md); border:1px solid var(--border); background:var(--surface); color:var(--fg); cursor:pointer; transition:border-color .12s, background .12s; -webkit-tap-highlight-color:transparent; }
     .dt:hover { border-color:var(--accent); }
     .dt .dt-w { font:600 var(--fs-xs)/var(--lh-xs) var(--body); color:var(--muted); text-transform:uppercase; letter-spacing:.03em; }
@@ -3354,7 +3356,7 @@
     }
     @media (max-width:620px){ :root{ --gut:18px; } }
 </style>
-<meta name="sc-build" content="1785138960345">
+<meta name="sc-build" content="1785140301942">
 </head>
 <body>
   <main class="wrap">
@@ -6763,6 +6765,60 @@
       wireEvcCards(el, rmap);
     }
 
+    // ── Entity day strip: the home date bar, reused on artist / venue / promoter
+    // "Upcoming". Same .daystrip + .dt tiles + gradient .on state as the home
+    // strip, so it reads as one control across the app.
+    //
+    // The tiles are the dates the entity ACTUALLY plays, plus "All" — not the
+    // home strip's rolling Tonight/Fri/Sat/Sun. An artist plays a handful of
+    // nights, so a rolling week would be mostly tiles that filter to nothing;
+    // here every tile is guaranteed to have something behind it, and each one
+    // carries its own count.
+    //
+    // Renders nothing for 0 or 1 distinct dates — a filter with one option is
+    // furniture, not a control.
+    function mountEntityDayStrip(el, rows, onPick){
+      if(!el) return null;
+      var order=[], count={};
+      (rows||[]).forEach(function(g){
+        var iso=String(g.event_date||'').slice(0,10); if(!iso) return;
+        if(count[iso]==null){ count[iso]=0; order.push(iso); }
+        count[iso]++;
+      });
+      order.sort();
+      if(order.length<2){ el.innerHTML=''; return null; }
+      var today=todayISO(), sel=null;
+      function tiles(){
+        var h='<button class="dt lab'+(sel===null?' on':'')+'" type="button" data-all="1">All</button>';
+        order.forEach(function(iso){
+          var d=new Date(iso+'T12:00:00');
+          h+='<button class="dt'+(sel===iso?' on':'')+'" type="button" data-iso="'+iso+'"'+
+             ' aria-pressed="'+(sel===iso)+'" aria-label="'+attrEsc(fmtDateLabel(iso)+', '+count[iso]+(count[iso]===1?' event':' events'))+'">'+
+             '<span class="dt-w">'+esc(iso===today?'Tonight':d.toLocaleDateString('en-GB',{weekday:'short'}))+'</span>'+
+             '<span class="dt-n">'+d.getDate()+'</span></button>';
+        });
+        return h;
+      }
+      el.className='daystrip ent-daystrip';
+      el.innerHTML=tiles();
+      el.addEventListener('click', function(e){
+        var b=e.target.closest('.dt'); if(!b) return;
+        var next = b.hasAttribute('data-all') ? null : b.dataset.iso;
+        if(next===sel) return;
+        sel=next; el.innerHTML=tiles();
+        onPick(sel);
+      });
+      return { clear:function(){ sel=null; el.innerHTML=tiles(); } };
+    }
+    // Wire a strip + its card grid together: picking a date re-mounts the grid
+    // with just that date's rows. Keeps the three call sites to one line each.
+    function mountDatedEventCards(stripEl, cardsEl, rows, opts){
+      mountEventCards(cardsEl, rows, opts);
+      mountEntityDayStrip(stripEl, rows, function(iso){
+        mountEventCards(cardsEl, iso ? rows.filter(function(g){ return String(g.event_date||'').slice(0,10)===iso; }) : rows, opts);
+      });
+    }
+
     // ── public search (events / venues / artists) ──
     // ── P2: personalized "For you" feed (v2.1 ranked event_score + reasons) ──
     // Build-your-taste prompt — only shown when there's no taste profile yet.
@@ -7152,7 +7208,7 @@
         if(a.interviewsEnabled) secTabs.push({ key:'press', label:'Interviews', count:null,
           html:'<div class="fp-sec"><div class="fp-sech">Interviews <span>in the music press</span></div><div class="fp-press" id="ap-press"><div class="fp-sets-load">Looking for interviews…</div></div></div>' });
         if(up.length) secTabs.push({ key:'upcoming', label:'Upcoming', count:up.length,
-          html:'<div class="fp-sec"><div class="fp-sech">Upcoming events <span>'+up.length+' upcoming</span></div><div id="ap-upcoming-cards"></div></div>' });
+          html:'<div class="fp-sec"><div class="fp-sech">Upcoming events <span>'+up.length+' upcoming</span></div><div id="ap-upcoming-strip"></div><div id="ap-upcoming-cards"></div></div>' });
         if((a.history||[]).length) secTabs.push({ key:'past', label:'Past events', count:a.history.length,
           html:'<div class="fp-sec"><div class="fp-sech">Past events <span>logged by the scene</span></div><div id="ap-past-cards"></div></div>' });
         if((a.alongside||[]).length) secTabs.push({ key:'similar', label:'Similar', count:null,
@@ -7190,7 +7246,7 @@
         });
         document.getElementById('ap-log').addEventListener('click',function(){ openLog(); });
         // Upcoming + Past events → the SAME homepage card/list template (poster on desktop, .lvr list on mobile) — consistent with every other event list
-        if(up.length){ var _auc=document.getElementById('ap-upcoming-cards'); if(_auc) mountEventCards(_auc, up, {showCity:true}); }
+        if(up.length){ var _auc=document.getElementById('ap-upcoming-cards'); if(_auc) mountDatedEventCards(document.getElementById('ap-upcoming-strip'), _auc, up, {showCity:true}); }
         if((a.history||[]).length){ var _apc=document.getElementById('ap-past-cards'); if(_apc) mountEventCards(_apc, a.history, {showCity:true}); }
         if(currentUser){
           var _anm=a.name||slug;
@@ -7486,8 +7542,8 @@
         setSeo(dispName+' — events & line-ups | soundcheck', _pdesc, { "@context":"https://schema.org","@type":"Organization", name:dispName, url:_pcanon, description:_pdesc }, _pcanon);
         var up=(p.upcoming||[]), pu=document.getElementById('pp-upcoming');
         if(pu && up.length){
-          pu.innerHTML='<div class="sec-h" style="margin-top:26px">Upcoming<span class="ct">'+up.length+'</span></div><div id="pp-cards"></div>';
-          mountEventCards(document.getElementById('pp-cards'), up, {showCity:true});
+          pu.innerHTML='<div class="sec-h" style="margin-top:26px">Upcoming<span class="ct">'+up.length+'</span></div><div id="pp-strip"></div><div id="pp-cards"></div>';
+          mountDatedEventCards(document.getElementById('pp-strip'), document.getElementById('pp-cards'), up, {showCity:true});
         }
         var pst=(p.past||[]), ppst=document.getElementById('pp-past');
         if(ppst && pst.length){
@@ -7603,8 +7659,8 @@
         }); });
         var up=(v.upcoming||[]), vu=document.getElementById('vp-upcoming');
         if(vu && up.length){
-          vu.innerHTML='<div id="vp-cards" style="margin-top:16px"></div>';
-          mountEventCards(document.getElementById('vp-cards'), up);
+          vu.innerHTML='<div id="vp-strip"></div><div id="vp-cards"></div>';
+          mountDatedEventCards(document.getElementById('vp-strip'), document.getElementById('vp-cards'), up);
         }
         // Past events — same gig-history list pattern as "Past events" on the artist page.
         var pst=(v.past||[]), vpst=document.getElementById('vp-past');

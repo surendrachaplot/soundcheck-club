@@ -9,7 +9,7 @@ Cassiopeia is a music venue in Berlin listed on soundcheck. 3 upcoming nights, w
 | Date | Night | Line-up |
 | --- | --- | --- |
 | Tue, 11 Aug 2026 | Ratos De Porão // Cassiopeia, Berlin |  |
-| Sat, 15 Aug 2026 | Naughty Vibes - Afperparade Party 'Wir sind RAW' | Danny Subsonic, Dominik Vaillant, MILAN MILANO, Maurice Mino, Sin:port, Sophie van Hayden, Superstrobe |
+| Sat, 15 Aug 2026 | Naughty Vibes - Afterparade Party 'Wir sind RAW' | Danny Subsonic, Dominik Vaillant, MILAN MILANO, Maurice Mino, Sin:port, Sophie van Hayden, Superstrobe |
 | Sun, 30 Aug 2026 | Buzz Kull + Boy Deluxe + Dream Council // Cassiopeia, Berlin |  |
 
 ## Address

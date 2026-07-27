@@ -1,6 +1,6 @@
 # Small Great House 'August Edition' (Open Air + Indoor) at OXI
 
-Small Great House 'August Edition' (Open Air + Indoor) at OXI on Sat 1 Aug, Berlin. 13 acts on the bill: Anna Schreit, Black Loops, Bruno Otranto and Eva Crystaltips and 9 more. House and Disco. Preview the line-up and save it on soundcheck.
+Small Great House 'August Edition' (Open Air + Indoor) at OXI on Sat 1 Aug, Berlin. 14 acts on the bill: Anna Schreit, Black Loops, Bruno Otranto and Eva Crystaltips and 10 more. House and Disco. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -22,6 +22,7 @@ Small Great House 'August Edition' (Open Air + Indoor) at OXI on Sat 1 Aug, Berl
 - Nephews
 - Quadrakey
 - Shabi
+- Siggatunez
 - Small Great Things. Soundsystem
 
 *Source: [soundcheck](https://soundcheck.club/e/2435100-small-great-house-august-edition-open-air-indoor-at-oxi/)*
