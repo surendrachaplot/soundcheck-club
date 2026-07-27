@@ -3,9 +3,12 @@
 # date-relative pages fresh: adds the new far /<city>/<date>/ page, drops the day
 # that fell off, repoints /<city>/tonight/, refreshes line-ups everywhere.
 #
-# Token-free: the built-in GITHUB_TOKEN (contents: write) pushes this repo, and the
-# build scripts come from the PUBLIC soundcheck-api repo (cloned anonymously). Only
-# build-seo runs (not build-club) — the app shell only changes on a manual SPA deploy.
+# The built-in GITHUB_TOKEN (contents: write) pushes THIS repo. The build scripts
+# live in soundcheck-api, which is PRIVATE — GITHUB_TOKEN is scoped to the repo the
+# workflow runs in and cannot read it, so that clone needs its own credential
+# (API_REPO_TOKEN). This is what broke the job from 2026-07-24: the clone was
+# anonymous and started failing with "could not read Username for github.com".
+# Only build-seo runs (not build-club) — the app shell changes on a manual SPA deploy.
 name: SEO rebuild (daily)
 
 on:
@@ -29,8 +32,17 @@ jobs:
         with:
           path: soundcheck-club
 
-      - name: Clone soundcheck-api (public — build scripts)
-        run: git clone --depth 1 https://github.com/surendrachaplot/soundcheck-api.git soundcheck-api
+      - name: Clone soundcheck-api (private — build scripts)
+        env:
+          API_REPO_TOKEN: ${{ secrets.API_REPO_TOKEN }}
+        run: |
+          if [ -z "$API_REPO_TOKEN" ]; then
+            echo "::error::API_REPO_TOKEN secret is not set. soundcheck-api is private, so this clone needs a token with read access to it. Add it under Settings → Secrets and variables → Actions."
+            exit 1
+          fi
+          git clone --depth 1 \
+            "https://x-access-token:${API_REPO_TOKEN}@github.com/surendrachaplot/soundcheck-api.git" \
+            soundcheck-api
 
       - uses: actions/setup-node@v4
         with:
