@@ -1,8 +1,8 @@
 # Anil Aras
 
-Anil Aras is a House and Tech House artist with 7 upcoming club dates listed on soundcheck as of Mon, 27 Jul 2026, next at Seaseaclub Barcelona, Barcelona on Sun, 9 Aug 2026.
+Anil Aras is a House and Tech House artist with 8 upcoming club dates listed on soundcheck as of Mon, 27 Jul 2026, next at Seaseaclub Barcelona, Barcelona on Sun, 9 Aug 2026.
 
-Anil Aras is a house and tech house artist tracked on soundcheck, with 76 sets logged across Amsterdam, Barcelona, Brighton and Bristol and 13 more. Often billed alongside Dennis Quin, M-High and Kolter. Next up: Seaseaclub Barcelona, Barcelona on Sun 9 Aug.
+Anil Aras is a house and tech house artist tracked on soundcheck, with 77 sets logged across Amsterdam, Barcelona, Brighton and Bristol and 13 more. Often billed alongside Dennis Quin, M-High and Kolter. Next up: Seaseaclub Barcelona, Barcelona on Sun 9 Aug.
 
 ## Upcoming shows
 
@@ -15,6 +15,7 @@ Anil Aras is a house and tech house artist tracked on soundcheck, with 76 sets l
 | Sat, 12 Sept 2026 | Studio 338 | London |
 | Fri, 25 Sept 2026 | Document | Bristol |
 | Wed, 21 Oct 2026 | A'DAM Toren | Amsterdam |
+| Thu, 22 Oct 2026 | Shelter Amsterdam | Amsterdam |
 
 ## Recently played
 

@@ -1,6 +1,6 @@
 # ★ LOWKEY STARS ☆ at ://about blank
 
-★ LOWKEY STARS ☆ at ://about blank on Fri 21 Aug, Berlin. 13 acts on the bill: Bélavie, BIJI ON DECKS, BOOTHBUNNY and Buday and 9 more. Trance and Techno. Preview the line-up and save it on soundcheck.
+★ LOWKEY STARS ☆ at ://about blank on Fri 21 Aug, Berlin. 17 acts on the bill: Bélavie, BIJI ON DECKS, BOOTHBUNNY and Buday and 13 more. Trance and Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -15,13 +15,17 @@
 - BOOTHBUNNY
 - Buday
 - DJ Hitwave
+- Dr.Waumiau
+- fU.impact
 - Glumo
 - Karolanne
 - Levandream
 - Lisatrix
 - MARRED
+- Mindframe
 - multivitaminmarie
 - RichBeat
 - SOLID (2)
+- TONITON
 
 *Source: [soundcheck](https://soundcheck.club/e/2378887-lowkey-stars-at-about-blank/)*

@@ -1,13 +1,14 @@
 # kyxm
 
-kyxm is a Bass and Club artist with 2 upcoming club dates listed on soundcheck as of Mon, 27 Jul 2026, next at Bossa Nova Civic Club, New York City on Tue, 11 Aug 2026.
+kyxm is a Club and Bass artist with 3 upcoming club dates listed on soundcheck as of Mon, 27 Jul 2026, next at Happyfun Hideaway, New York City on Tue, 28 Jul 2026.
 
-kyxm is a bass and club artist based in United States of America, tracked on soundcheck, with 36 sets logged across Newyorkcity. Often billed alongside ethereal.mvp, martine (5) and Pacha DJ. Next up: Bossa Nova Civic Club, Newyorkcity on Tue 11 Aug.
+kyxm is a club and bass artist based in United States of America, tracked on soundcheck, with 37 sets logged across Newyorkcity. Often billed alongside ethereal.mvp, martine (5) and Pacha DJ. Next up: Happyfun Hideaway, Newyorkcity on Tue 28 Jul.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Tue, 28 Jul 2026 | Happyfun Hideaway | New York City |
 | Tue, 11 Aug 2026 | Bossa Nova Civic Club | New York City |
 | Fri, 14 Aug 2026 | TBA - Brooklyn Loft Location <3 | New York City |
 

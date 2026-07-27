@@ -1,8 +1,8 @@
 # Lokschuppen Berlin
 
-Lokschuppen Berlin is a music venue in Berlin with 78 upcoming nights listed on soundcheck as of Mon, 27 Jul 2026; the next is "PHASE:ONE" on Tue, 28 Jul 2026.
+Lokschuppen Berlin is a music venue in Berlin with 79 upcoming nights listed on soundcheck as of Mon, 27 Jul 2026; the next is "PHASE:ONE" on Tue, 28 Jul 2026.
 
-Lokschuppen Berlin is a music venue in Berlin listed on soundcheck. 78 upcoming nights, with line-ups including 1luu, 3LEEZA, 4NOUK and NYRA (DE) and 2 more. Browse upcoming dates, start times and who's playing. Warschauer Brücke, Revaler Straße 99 Zugang über, 10245 Berlin, Germany.
+Lokschuppen Berlin is a music venue in Berlin listed on soundcheck. 79 upcoming nights, with line-ups including 1luu, 3LEEZA, 4NOUK and NYRA (DE) and 2 more. Browse upcoming dates, start times and who's playing. Warschauer Brücke, Revaler Straße 99 Zugang über, 10245 Berlin, Germany.
 
 ## What's on
 

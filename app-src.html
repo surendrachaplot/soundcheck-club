@@ -314,6 +314,14 @@
     .city-row.city-near { border-bottom:1px solid var(--border); color:var(--accent); font-weight:700; }
     .city-row.city-near svg { width:17px; height:17px; }
     .city-row.city-near small { color:var(--muted); font-weight:500; font-size:var(--fs-xs); margin-left:auto; }
+    .city-sec { display:contents; }
+    .city-lbl { display:block; font:800 var(--fs-2xs)/var(--lh-2xs) var(--body); letter-spacing:.14em;
+      text-transform:uppercase; color:var(--faint); padding:14px 2px 6px; }
+    .city-row .cn { margin-left:auto; color:var(--faint); font-size:var(--fs-xs); font-variant-numeric:tabular-nums; font-weight:600; }
+    .city-row.on .cn { color:var(--sel-text); }
+    .city-more { display:block; width:100%; background:none; border:1px dashed var(--border); border-radius:var(--r-2);
+      color:var(--muted); font:600 var(--fs-sm)/var(--lh-sm) var(--body); padding:11px; margin:10px 0 2px; cursor:pointer; }
+    .city-more:hover { border-color:var(--accent); color:var(--accent); }
     /* ── Radio: a rack of stations ─────────────────────────────────────────
        City leads, then every venue with a line-up this weekend, most popular
        first. One row shape for both so the page reads as one list of stations
@@ -3560,7 +3568,7 @@
   <!-- Umami analytics. defer so it never blocks first paint; the SPA rewrites
        history on navigation, which umami picks up automatically. -->
   <script defer src="https://cloud.umami.is/script.js" data-website-id="de210b6c-12e4-4819-95f6-f5120974855a"></script>
-<meta name="sc-build" content="1785157292066">
+<meta name="sc-build" content="1785158994322">
 </head>
 <body>
   <main class="wrap">
@@ -9715,9 +9723,30 @@
     }
     function openCityPicker(){
       var ov=document.createElement('div'); ov.className='auth-overlay show city-pick';
-      var rows=CITY_LIST.slice().sort(function(a,b){ return a.name.localeCompare(b.name); }).map(function(c){
-        return '<button class="city-row'+(c.slug===currentCity?' on':'')+'" data-city="'+esc(c.slug)+'" data-name="'+esc((c.name||'').toLowerCase())+'" type="button"><span class="cf">'+flagEmoji(c.country)+'</span>'+esc(c.name)+'</button>';
-      }).join('');
+      // 104 cities alphabetically is a wall that opens on Amsterdam. Lead with the
+      // ones that actually have something on this week (real 7-day counts from
+      // /api/cities, so it stays honest as listings move), keep the rest one tap
+      // away, and let search cut straight through both.
+      var byName=function(a,b){ return a.name.localeCompare(b.name); };
+      var cnt=function(c){ return typeof c.events==='number' ? c.events : -1; };
+      var haveCounts=CITY_LIST.some(function(c){ return typeof c.events==='number'; });
+      var popular=haveCounts
+        ? CITY_LIST.slice().filter(function(c){ return cnt(c)>0; })
+            .sort(function(a,b){ return cnt(b)-cnt(a) || byName(a,b); }).slice(0,8)
+        : [];
+      var popSet={}; popular.forEach(function(c){ popSet[c.slug]=1; });
+      var rest=CITY_LIST.slice().filter(function(c){ return !popSet[c.slug]; }).sort(byName);
+      var cityRow=function(c){
+        var n=cnt(c);
+        return '<button class="city-row'+(c.slug===currentCity?' on':'')+'" data-city="'+esc(c.slug)+'" data-name="'+esc((c.name||'').toLowerCase())+'" type="button">'+
+          '<span class="cf">'+flagEmoji(c.country)+'</span>'+esc(c.name)+
+          (n>0?'<small class="cn">'+n+'</small>':'')+'</button>';
+      };
+      var rows=(popular.length
+          ? '<div class="city-sec" data-sec="pop"><span class="city-lbl">Busiest this week</span>'+popular.map(cityRow).join('')+'</div>'+
+            '<button class="city-more" id="city-more" type="button">Show all '+CITY_LIST.length+' cities</button>'+
+            '<div class="city-sec city-rest" data-sec="rest" hidden><span class="city-lbl">All cities</span>'+rest.map(cityRow).join('')+'</div>'
+          : CITY_LIST.slice().sort(byName).map(cityRow).join(''));
       ov.innerHTML='<div class="auth-box"><button class="auth-close" type="button" aria-label="Close">&times;</button>'+
         '<div class="eyebrow">Choose your city</div><h3>Where are you out?</h3>'+
         '<div class="search-box" style="margin:4px 0 2px"><input type="search" id="city-search" placeholder="Search '+CITY_LIST.length+' cities…" autocomplete="off" autocapitalize="off" autocorrect="off"></div>'+
@@ -9737,9 +9766,23 @@
       function close(){ if(vv&&fit){ vv.removeEventListener('resize',fit); vv.removeEventListener('scroll',fit); } ov.remove(); }
       ov.querySelector('.auth-close').addEventListener('click',close);
       var inp=ov.querySelector('#city-search'), none=ov.querySelector('.city-none');
-      var allRows=[].slice.call(ov.querySelectorAll('.city-row'));
+      // [data-city] ONLY: 'Near me' is styled as a .city-row but is an ACTION, not
+      // a city. It carries no data-name, so including it here threw on the first
+      // iteration of the filter and aborted the loop — city search silently
+      // returned all 104 for every query. It also has to stay visible while
+      // filtering, which excluding it gives for free.
+      var allRows=[].slice.call(ov.querySelectorAll('.city-row[data-city]'));
+      var more=ov.querySelector('#city-more'), rest=ov.querySelector('[data-sec="rest"]');
+      if(more) more.addEventListener('click',function(){ rest.hidden=false; more.remove(); });
       inp.addEventListener('input',function(){
         var q=inp.value.trim().toLowerCase(); var shown=0;
+        // Searching is a different mode: the section headings and the Show-all
+        // button are noise once you're filtering, and every city has to be
+        // reachable from the box even if "all" was never expanded.
+        var searching=!!q;
+        if(rest) rest.hidden = searching ? false : (more ? true : rest.hidden);
+        if(more) more.style.display = searching ? 'none' : '';
+        ov.querySelectorAll('.city-lbl').forEach(function(l){ l.style.display = searching ? 'none' : ''; });
         allRows.forEach(function(r){ var hit=!q || r.getAttribute('data-name').indexOf(q)>=0; r.style.display=hit?'':'none'; if(hit) shown++; });
         none.style.display=shown?'none':'block';
       });

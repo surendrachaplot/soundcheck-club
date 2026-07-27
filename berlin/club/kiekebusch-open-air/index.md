@@ -1,6 +1,6 @@
 # Kiekebusch Open Air
 
-Kiekebusch Open Air is a music venue in Berlin with 1 upcoming night listed on soundcheck as of Mon, 27 Jul 2026; the next is "Free GOA Family Gathering ॐ Space SunNight ~ OmZone ॐ" on Sat, 1 Aug 2026.
+Kiekebusch Open Air is a music venue in Berlin with 1 upcoming night listed on soundcheck as of Mon, 27 Jul 2026; the next is "Free GOA Family Gathering ॐ S.U.N. Project Live ॐ Morioun ॐ Second Side ~ Goa-Trance" on Sat, 1 Aug 2026.
 
 Kiekebusch Open Air is a music venue in Berlin listed on soundcheck. 1 upcoming night. Browse upcoming dates, start times and who's playing. Rotberger Dorfstrasse (L402); 12529 Kiekebusch bei Schönefeld; Germany.
 
@@ -8,7 +8,7 @@ Kiekebusch Open Air is a music venue in Berlin listed on soundcheck. 1 upcoming 
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Sat, 1 Aug 2026 | Free GOA Family Gathering ॐ Space SunNight ~ OmZone ॐ |  |
+| Sat, 1 Aug 2026 | Free GOA Family Gathering ॐ S.U.N. Project Live ॐ Morioun ॐ Second Side ~ Goa-Trance |  |
 
 ## Address
 
