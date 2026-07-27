@@ -270,8 +270,14 @@
     /* web: the strip fills the row width; JS packs MORE day tiles (original size) to fill it */
     @media (min-width:621px){ .daystrip { flex:1 1 auto; } }
     .daystrip::-webkit-scrollbar { display:none; }
-    /* the same strip used inside an entity page's Upcoming section */
-    .ent-daystrip { margin:var(--sp-3) 0 var(--sp-4); }
+    /* Entity Upcoming date range: calendar tile + the live window beside it. */
+    .ent-range { display:flex; align-items:center; gap:12px; margin:var(--sp-3) 0 var(--sp-4); flex-wrap:wrap; }
+    .ent-range .dt.dscal { flex:none; }
+    .ent-range .er-tx { display:flex; flex-direction:column; gap:1px; min-width:0; }
+    .ent-range .er-tx b { font-family:var(--head); font-weight:800; font-size:var(--fs-md);
+      letter-spacing:var(--ls-md); line-height:var(--lh-md); font-variant-numeric:tabular-nums; }
+    .ent-range .er-tx span { color:var(--muted); font-size:var(--fs-xs); line-height:var(--lh-xs); font-variant-numeric:tabular-nums; }
+    .ent-range .er-reset { margin-left:auto; }
     .dt { flex:none; display:flex; flex-direction:column; align-items:center; justify-content:center; gap:2px; min-width:54px; height:58px; border-radius:var(--radius-md); border:1px solid var(--border); background:var(--surface); color:var(--fg); cursor:pointer; transition:border-color .12s, background .12s; -webkit-tap-highlight-color:transparent; }
     .dt:hover { border-color:var(--accent); }
     .dt .dt-w { font:600 var(--fs-xs)/var(--lh-xs) var(--body); color:var(--muted); text-transform:uppercase; letter-spacing:.03em; }
@@ -3425,7 +3431,7 @@
   <!-- Umami analytics. defer so it never blocks first paint; the SPA rewrites
        history on navigation, which umami picks up automatically. -->
   <script defer src="https://cloud.umami.is/script.js" data-website-id="de210b6c-12e4-4819-95f6-f5120974855a"></script>
-<meta name="sc-build" content="1785142605326">
+<meta name="sc-build" content="1785143237956">
 </head>
 <body>
   <main class="wrap">
@@ -3474,7 +3480,7 @@
     <div class="grid" id="grid"></div>
     <!-- Per-city "what's on this week" date links, injected by build-club (canonical
          /<city>/<date>/ pages). Empty in the source; hidden on client-side city switch. -->
-    <section id="home-seo-more" class="home-seo-more" data-city="london"><h2>What&rsquo;s on in London this week</h2><ul class="home-seo-dates"><li><a href="/london/2026-07-28/">Tue 28 Jul <span class="c">4 events</span></a></li><li><a href="/london/2026-07-29/">Wed 29 Jul <span class="c">13 events</span></a></li><li><a href="/london/2026-07-30/">Thu 30 Jul <span class="c">27 events</span></a></li><li><a href="/london/2026-07-31/">Fri 31 Jul <span class="c">89 events</span></a></li><li><a href="/london/2026-08-01/">Sat 1 Aug <span class="c">115 events</span></a></li><li><a href="/london/2026-08-02/">Sun 2 Aug <span class="c">34 events</span></a></li><li><a href="/london/2026-08-05/">Wed 5 Aug <span class="c">5 events</span></a></li></ul><nav class="home-seo-nav" aria-label="More on soundcheck"><a href="/london/this-weekend/">This weekend in London</a> <a href="/london/scene/">London scene guide</a> <a href="/cities/">All 104 cities</a></nav></section>
+    <section id="home-seo-more" class="home-seo-more" data-city="london"><h2>What&rsquo;s on in London this week</h2><ul class="home-seo-dates"><li><a href="/london/2026-07-28/">Tue 28 Jul <span class="c">4 events</span></a></li><li><a href="/london/2026-07-29/">Wed 29 Jul <span class="c">13 events</span></a></li><li><a href="/london/2026-07-30/">Thu 30 Jul <span class="c">27 events</span></a></li><li><a href="/london/2026-07-31/">Fri 31 Jul <span class="c">90 events</span></a></li><li><a href="/london/2026-08-01/">Sat 1 Aug <span class="c">115 events</span></a></li><li><a href="/london/2026-08-02/">Sun 2 Aug <span class="c">34 events</span></a></li><li><a href="/london/2026-08-05/">Wed 5 Aug <span class="c">5 events</span></a></li></ul><nav class="home-seo-nav" aria-label="More on soundcheck"><a href="/london/this-weekend/">This weekend in London</a> <a href="/london/scene/">London scene guide</a> <a href="/cities/">All 104 cities</a></nav></section>
 
     <!-- Crawlable home content (H1 + intro) — moved to the bottom of the page. Still a real
          <h1> in the DOM so it's the page heading for SEO regardless of visual position.
@@ -5965,7 +5971,17 @@
     function diaryValid(d){ return (d.artists||[]).filter(function(a){ var n=String((a&&(a.name||a.slug))||'').trim(); return a&&a.slug&&a.slug!=='-'&&n&&n!=='-'; }); }
     var _diaryById={};   // last-rendered entries by id — feeds the edit sheet
     function diaryArts(d){ return diaryValid(d).map(function(a){ return (a.name||a.slug)+(a.rating?' ★'+a.rating:''); }).join(', '); }
-    function diaryDateLabel(d){ return d.gig_date ? fmtDateLabel(String(d.gig_date).slice(0,10)) : ''; }
+    // Past gigs carry the year; upcoming events don't. A diary spans seasons, so
+    // "Sat 23 May" is ambiguous the moment you have two years logged — but the
+    // same year on an upcoming listing is noise, since everything bookable is
+    // inside the horizon. Hence a separate formatter rather than changing
+    // fmtDateLabel, which the whole upcoming side uses.  -> "Sat 23 May 26"
+    function fmtGigDate(iso){
+      var d=new Date(String(iso).slice(0,10)+'T12:00:00');
+      if(isNaN(d)) return String(iso||'');
+      return d.toLocaleDateString('en-GB',{weekday:'short',day:'numeric',month:'short'})+' '+String(d.getFullYear()).slice(2);
+    }
+    function diaryDateLabel(d){ return d.gig_date ? fmtGigDate(d.gig_date) : ''; }
     // Full gig-diary page: the profile ticket-stub (.pb-ds), enriched for the full
     // view with artist tiles + note + delete. Same design language as the profile.
     function diaryTLHTML(diary, isMe){
@@ -6846,67 +6862,57 @@
       wireEvcCards(el, rmap);
     }
 
-    // ── Entity day strip: the home date bar, reused on artist / venue / promoter
-    // "Upcoming". Same .daystrip + .dt tiles + gradient .on state as the home
-    // strip, so it reads as one control across the app.
+    // ── Entity date range (artist / venue / promoter "Upcoming") ──────────────
+    // The same calendar the home strip opens, in its existing range mode, with
+    // the live range shown beside it. Replaces the per-date tile row: an artist
+    // with 16 dates produced a 17-tile horizontally-scrolling strip, which is a
+    // worse control than "pick a window".
     //
-    // The tiles are the dates the entity ACTUALLY plays, plus "All" — not the
-    // home strip's rolling Tonight/Fri/Sat/Sun. An artist plays a handful of
-    // nights, so a rolling week would be mostly tiles that filter to nothing;
-    // here every tile is guaranteed to have something behind it, and each one
-    // carries its own count.
-    //
-    // Renders nothing for 0 or 1 distinct dates — a filter with one option is
-    // furniture, not a control.
-    function mountEntityDayStrip(el, rows, onPick){
-      if(!el) return null;
-      var order=[], count={};
-      (rows||[]).forEach(function(g){
-        var iso=String(g.event_date||'').slice(0,10); if(!iso) return;
-        if(count[iso]==null){ count[iso]=0; order.push(iso); }
-        count[iso]++;
-      });
-      order.sort();
-      if(order.length<2){ el.innerHTML=''; return null; }
-      var today=todayISO(), sel=null;
-      function tiles(){
-        var h='<button class="dt lab'+(sel===null?' on':'')+'" type="button" data-all="1">All</button>';
-        order.forEach(function(iso){
-          var d=new Date(iso+'T12:00:00');
-          h+='<button class="dt'+(sel===iso?' on':'')+'" type="button" data-iso="'+iso+'"'+
-             ' aria-pressed="'+(sel===iso)+'" aria-label="'+attrEsc(fmtDateLabel(iso)+', '+count[iso]+(count[iso]===1?' event':' events'))+'">'+
-             '<span class="dt-w">'+esc(iso===today?'Tonight':d.toLocaleDateString('en-GB',{weekday:'short'}))+'</span>'+
-             '<span class="dt-n">'+d.getDate()+'</span></button>';
+    // Defaults to today -> +1 month. Reset only appears once the range has been
+    // moved, so the control is quiet until it has something to say.
+    var _erSeq = 0;
+    function mountEntityRange(el, rows, onPick){
+      if(!el || !(rows||[]).length) return null;
+      var CAL = '<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">' +
+        '<path d="M8 2v4"/><path d="M16 2v4"/><rect width="18" height="18" x="3" y="4" rx="2"/><path d="M3 10h18"/></svg>';
+      var DEF_FROM = todayISO(), DEF_TO = _addDaysISO(todayISO(), 30);
+      var from = DEF_FROM, to = DEF_TO, id = 'er-cal-' + (++_erSeq);
+      var inRange = function(g){ var d = String(g.event_date||'').slice(0,10); return d >= from && d <= to; };
+      function paint(){
+        var n = rows.filter(inRange).length;
+        var moved = (from !== DEF_FROM || to !== DEF_TO);
+        el.className = 'ent-range';
+        el.innerHTML =
+          '<button class="dt dscal" type="button" id="' + id + '" aria-label="Change date range">' + CAL + '</button>' +
+          '<span class="er-tx"><b>' + esc(fmtRange(from, to)) + '</b>' +
+          '<span>' + n + (n === 1 ? ' event' : ' events') + '</span></span>' +
+          (moved ? '<button class="more-btn er-reset" type="button">Reset</button>' : '');
+        el.querySelector('#' + id).addEventListener('click', function(){
+          openCal({ rangeStart:from, rangeEnd:to, onRange:function(a, b){
+            if(!a) return;
+            from = a; to = b || a; closeCal(); paint(); onPick(rows.filter(inRange));
+          }});
         });
-        return h;
+        var rb = el.querySelector('.er-reset');
+        if(rb) rb.addEventListener('click', function(){ from = DEF_FROM; to = DEF_TO; paint(); onPick(rows.filter(inRange)); });
       }
-      el.className='daystrip ent-daystrip';
-      el.innerHTML=tiles();
-      el.addEventListener('click', function(e){
-        var b=e.target.closest('.dt'); if(!b) return;
-        var next = b.hasAttribute('data-all') ? null : b.dataset.iso;
-        if(next===sel) return;
-        sel=next; el.innerHTML=tiles();
-        onPick(sel);
-      });
-      return { clear:function(){ sel=null; el.innerHTML=tiles(); } };
+      paint();
+      return { rows:function(){ return rows.filter(inRange); } };
     }
-    // Wire a strip + its card grid together: picking a date re-mounts the grid
-    // with just that date's rows. Keeps the three call sites to one line each.
-    function mountDatedEventCards(stripEl, cardsEl, rows, opts){
-      mountEventCards(cardsEl, rows, opts);
-      mountEntityDayStrip(stripEl, rows, function(iso){
-        var render=function(){
-          mountEventCards(cardsEl, iso ? rows.filter(function(g){ return String(g.event_date||'').slice(0,10)===iso; }) : rows, opts);
-        };
-        // Cross-fade the grid instead of snapping it. Safe to wrap because this
-        // render is synchronous — no fetch is held behind the frozen snapshot.
+    // Wire a range control + its card grid together. One line per call site so
+    // artist / venue / promoter cannot drift apart.
+    function mountDatedEventCards(rangeEl, cardsEl, rows, opts){
+      var ctl = mountEntityRange(rangeEl, rows, function(filtered){
+        var render = function(){ mountEventCards(cardsEl, filtered, opts); };
+        // Cross-fade rather than snap. Safe to wrap because this render is
+        // SYNCHRONOUS — wrapping a fetch would hold the frozen snapshot on
+        // screen for the whole round trip and read as a hang.
         if(document.startViewTransition && !matchMedia('(prefers-reduced-motion: reduce)').matches){
-          cardsEl.style.viewTransitionName='sc-grid';
-          var vt=document.startViewTransition(render);
-          vt.finished.finally(function(){ cardsEl.style.viewTransitionName=''; });
+          cardsEl.style.viewTransitionName = 'sc-grid';
+          document.startViewTransition(render).finished.finally(function(){ cardsEl.style.viewTransitionName = ''; });
         } else render();
       });
+      mountEventCards(cardsEl, ctl ? ctl.rows() : rows, opts);
     }
 
     // ── public search (events / venues / artists) ──
@@ -7345,7 +7351,7 @@
             var c=sd.count||0, nights=sd.nights||[];
             if(c>0){
               box.innerHTML='<div class="ap-seen"><div class="ap-seen-top"><div class="ap-seen-num">'+c+'<span>×</span></div><div class="ap-seen-lbl">night'+(c===1?'':'s')+' you’ve caught<br><b>'+esc(_anm)+'</b></div></div>'+
-                nights.map(function(g){ var d=g.gig_date?fmtDateLabel(String(g.gig_date).slice(0,10)):''; var ev=g.event_id?'<a class="ap-seen-ev nav" href="'+esc(evHref(g.event_id,null,g.venue))+'" data-event-id="'+esc(String(g.event_id))+'">view event ›</a>':''; return '<div class="ap-seen-row"><span class="ap-seen-d">'+esc(d)+'</span><a class="ap-seen-v nav"'+(g.venue?' href="'+esc(venueHref(g.venue))+'" data-venue="'+esc(g.venue)+'"':'')+'>'+esc(g.venue||'Gig')+'</a>'+ev+'</div>'; }).join('')+
+                nights.map(function(g){ var d=g.gig_date?fmtGigDate(g.gig_date):''; var ev=g.event_id?'<a class="ap-seen-ev nav" href="'+esc(evHref(g.event_id,null,g.venue))+'" data-event-id="'+esc(String(g.event_id))+'">view event ›</a>':''; return '<div class="ap-seen-row"><span class="ap-seen-d">'+esc(d)+'</span><a class="ap-seen-v nav"'+(g.venue?' href="'+esc(venueHref(g.venue))+'" data-venue="'+esc(g.venue)+'"':'')+'>'+esc(g.venue||'Gig')+'</a>'+ev+'</div>'; }).join('')+
                 '<button class="ap-seen-log" id="ap-seen-log" type="button">＋ Log another night</button></div>';
             } else { box.innerHTML=''; }   // no empty-state nudge — Log a gig already lives in the header actions
             var lg=document.getElementById('ap-seen-log'); if(lg) lg.addEventListener('click',function(){ openLog({ artist:{ slug:slug, name:_anm } }); });
@@ -9494,6 +9500,11 @@
         }
         h+='<div class="'+cls+'" data-iso="'+di+'">'+day+'</div>';
       }
+      // Always render a full 6-week grid. A month occupies 5 or 6 rows depending
+      // on where its 1st falls, so the popup used to change height as you paged
+      // through months — the Apply button and the whole sheet jumped under the
+      // cursor. Trailing pads keep it a constant 42 cells.
+      for(var tp=startDow+days; tp<42; tp++) h+='<div class="cal-cell pad"></div>';
       var applyBtn = '';
       if(calMode==='range'){ var canApply=calRangeStart&&calRangeEnd; applyBtn='<button id="cal-apply" class="primary" type="button"'+(canApply?'':' disabled')+'>'+(canApply?'Show '+(daysBetween(calRangeStart,calRangeEnd)+1)+' days':'Pick a range')+'</button>'; }
       else if(calMode==='month'){ applyBtn='<button id="cal-apply" class="primary" type="button"'+(monthHasFuture?'':' disabled')+'>Show '+esc(calView.toLocaleDateString('en-GB',{month:'long'}))+'</button>'; }
