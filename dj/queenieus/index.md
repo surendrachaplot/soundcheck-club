@@ -1,6 +1,6 @@
 # QUEENIE (US)
 
-QUEENIE (US) is a Club and Baile Funk artist with 4 upcoming club dates listed on soundcheck as of Sun, 26 Jul 2026, next at The Great Northern, San Francisco/Oakland on Thu, 30 Jul 2026.
+QUEENIE (US) is a Club and Baile Funk artist with 4 upcoming club dates listed on soundcheck as of Mon, 27 Jul 2026, next at The Great Northern, San Francisco/Oakland on Thu, 30 Jul 2026.
 
 QUEENIE (US) is a club and baile funk artist based in United States of America, tracked on soundcheck, with 48 sets logged across Losangeles and Sanfrancisco. Often billed alongside felipe d, KIMOSABE and Profesito. Next up: The Great Northern, Sanfrancisco on Thu 30 Jul.
 
@@ -28,4 +28,4 @@ QUEENIE (US) is a club and baile funk artist based in United States of America, 
 
 felipe d, KIMOSABE, Profesito
 
-*Updated Sun, 26 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/queenieus/)*
+*Updated Mon, 27 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/queenieus/)*

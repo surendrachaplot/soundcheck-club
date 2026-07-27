@@ -1,6 +1,6 @@
 # Mobile Output at McCarren Park
 
-Mobile Output at McCarren Park on Sat 1 Aug, Newyorkcity. 4 acts on the bill: Bianca, Decimel, My Dude and Ryan Varjas. House and Tech House. Preview the line-up and save it on soundcheck.
+Mobile Output at McCarren Park on Sat 1 Aug, Newyorkcity. 5 acts on the bill: Bianca, Decimel, Eddie Tyler and My Dude and 1 more. House and Tech House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -12,6 +12,7 @@ Mobile Output at McCarren Park on Sat 1 Aug, Newyorkcity. 4 acts on the bill: Bi
 
 - Bianca
 - Decimel
+- Eddie Tyler
 - My Dude
 - Ryan Varjas
 

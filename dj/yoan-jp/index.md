@@ -1,13 +1,14 @@
 # YO.AN
 
-YO.AN is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Sun, 26 Jul 2026, next at DJ Bar Bridge Shinjuku, Tokyo on Fri, 14 Aug 2026.
+YO.AN is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Mon, 27 Jul 2026, next at Red Bar, Tokyo on Sat, 1 Aug 2026.
 
-YO.AN is a house and techno artist based in Japan, tracked on soundcheck, with 181 sets logged across Kyoto and Tokyo. Often billed alongside Mamazu, Sunga and Daichi. Next up: DJ Bar Bridge Shinjuku, Tokyo on Fri 14 Aug.
+YO.AN is a house and techno artist based in Japan, tracked on soundcheck, with 182 sets logged across Kyoto and Tokyo. Often billed alongside Mamazu, Sunga and Daichi. Next up: Red Bar, Tokyo on Sat 1 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 1 Aug 2026 | Red Bar | Tokyo |
 | Fri, 14 Aug 2026 | DJ Bar Bridge Shinjuku | Tokyo |
 | Fri, 11 Sept 2026 | DJ Bar Bridge Shinjuku | Tokyo |
 
@@ -26,4 +27,4 @@ YO.AN is a house and techno artist based in Japan, tracked on soundcheck, with 1
 
 Mamazu, Sunga, Daichi
 
-*Updated Sun, 26 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/yoan-jp/)*
+*Updated Mon, 27 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/yoan-jp/)*

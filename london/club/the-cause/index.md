@@ -1,14 +1,13 @@
 # The Cause
 
-The Cause is a music venue in London with 22 upcoming nights listed on soundcheck as of Sun, 26 Jul 2026; the next is "SYNC - London" on Sun, 26 Jul 2026.
+The Cause is a music venue in London with 21 upcoming nights listed on soundcheck as of Mon, 27 Jul 2026; the next is "Don't F**k with Disco - OPEN AIR - NO HAT… NO ENTRY (SOLD OUT)" on Sat, 1 Aug 2026.
 
-The Cause is a music venue in London listed on soundcheck. 22 upcoming nights, with line-ups including 4am Kru, KT, Aba Shanti-I and AliA and 2 more. Browse upcoming dates, start times and who's playing. 60 Dock Road, London, E16 1YZ.
+The Cause is a music venue in London listed on soundcheck. 21 upcoming nights, with line-ups including 4am Kru, KT, Aba Shanti-I and AliA and 2 more. Browse upcoming dates, start times and who's playing. 60 Dock Road, London, E16 1YZ.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Sun, 26 Jul 2026 | SYNC - London | Bappy, Coco Em, Crybaby, DJ Travella, JUPiTA, K2RAH, Miss Tacacá, Moonshine, Nadine Noor, NegoO, Ramnik, Ricky Sahota, San Farafina, Saphe, Seksu, Yung Singh, harpriya |
 | Sat, 1 Aug 2026 | Don't F**k with Disco - OPEN AIR - NO HAT… NO ENTRY (SOLD OUT) | Don't F**k with Disco |
 | Sun, 2 Aug 2026 | 4am Kru present RATFEST | 4am Kru, Decibella, Guido YZ, Janaway, More (3), Mousai, NEENZY (UK), Salo (2), Shirley Temper, The Bass Injector, Tim Reaper |
 | Fri, 7 Aug 2026 | Sounds Crazy @ The Cause |  |
@@ -18,9 +17,10 @@ The Cause is a music venue in London listed on soundcheck. 22 upcoming nights, w
 | Sun, 9 Aug 2026 | Gin & Juice: Old School Hip-Hop Outdoor Summer Festival |  |
 | Sat, 15 Aug 2026 | Cooking with Palms Trax: Day & Night | Call Super, John Talabot, MAYURASHKA, OK Williams, Palms Trax, Powder, Prosumer, Rosie Ama |
 | Sat, 22 Aug 2026 | SIGNAL FESTIVAL 2026 | AliA, Ant TC1, Blackeye MC, Break, Carré, Chinese Daughter, Cleveland Watkiss, Coki, DJ Chef, DJ Flight, DJ Storm, Dillinja, Doc Scott, Echo Brown, Ehua, Fabio, Forest Drive West, GLXY, Goldie, Grooverider, Halogenix, JAZ IMSKY, Joker, Kira (3), LSB, Lenzman, Loefah, MC Fox, MC GQ, Mantra, Photek, SGT Pokes, Satl, Skeptical, T-Man (UK), Takuya Nakamura, Vanity Roxane, Workforce, Zed Bias, Zero T, dBridge |
+| Sun, 23 Aug 2026 | Christian Löffler presents 'Until We Meet Again' | Christian Löffler, Meredi, Sofia Ilyas, TWO LANES |
 
 ## Address
 
 60 Dock Road, London, E16 1YZ, London
 
-*Updated Sun, 26 Jul 2026 · source: [soundcheck](https://soundcheck.club/london/club/the-cause/)*
+*Updated Mon, 27 Jul 2026 · source: [soundcheck](https://soundcheck.club/london/club/the-cause/)*

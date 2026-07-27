@@ -1,13 +1,14 @@
 # Toekomstmuziek
 
-Toekomstmuziek is a music venue in Amsterdam with 5 upcoming nights listed on soundcheck as of Sun, 26 Jul 2026; the next is "DEAD FISH - Euro Tour 2026 - Amsterdam" on Mon, 17 Aug 2026.
+Toekomstmuziek is a music venue in Amsterdam with 6 upcoming nights listed on soundcheck as of Mon, 27 Jul 2026; the next is "SouthSide Pride Edition" on Sat, 1 Aug 2026.
 
-Toekomstmuziek is a music venue in Amsterdam listed on soundcheck. 5 upcoming nights, with line-ups including Alex Breitling, ALLKNIGHT, Alycia Bezgo and Amøn and 2 more. Browse upcoming dates, start times and who's playing. Danzigerbocht 29, 1013 AM Amsterdam.
+Toekomstmuziek is a music venue in Amsterdam listed on soundcheck. 6 upcoming nights, with line-ups including Alex Breitling, ALLKNIGHT, Alycia Bezgo and Amøn and 2 more. Browse upcoming dates, start times and who's playing. Danzigerbocht 29, 1013 AM Amsterdam.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
+| Sat, 1 Aug 2026 | SouthSide Pride Edition | Bianchetti, JP Hernández |
 | Mon, 17 Aug 2026 | DEAD FISH - Euro Tour 2026 - Amsterdam | Pedro da Mata |
 | Sat, 29 Aug 2026 | Plastilina Mosh |  |
 | Thu, 22 Oct 2026 | Colorize: 15 Years - ADE | ALLKNIGHT, Alex Breitling, Datskie, Estiva, Falden, Fejká, Guy Didden, Helsloot, Jordin Post, Klur, L.GU., M.O.S., Matt Fax, Pete K |
@@ -18,4 +19,4 @@ Toekomstmuziek is a music venue in Amsterdam listed on soundcheck. 5 upcoming ni
 
 Danzigerbocht 29, 1013 AM Amsterdam, Amsterdam
 
-*Updated Sun, 26 Jul 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/toekomstmuziek/)*
+*Updated Mon, 27 Jul 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/toekomstmuziek/)*

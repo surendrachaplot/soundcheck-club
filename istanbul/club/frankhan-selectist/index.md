@@ -1,6 +1,6 @@
 # Frankhan Selectist
 
-Frankhan Selectist is a music venue in Istanbul with 5 upcoming nights listed on soundcheck as of Sun, 26 Jul 2026; the next is "Toy Tonics Jam: Cody Currie + Arpy Brown" on Sat, 1 Aug 2026.
+Frankhan Selectist is a music venue in Istanbul with 5 upcoming nights listed on soundcheck as of Mon, 27 Jul 2026; the next is "Toy Tonics Jam: Cody Currie + Arpy Brown" on Sat, 1 Aug 2026.
 
 Frankhan Selectist is a music venue in Istanbul listed on soundcheck. 5 upcoming nights, with line-ups including Arpy Brown, Cody Currie, Eden Burns and GARAN GARAN and 1 more. Browse upcoming dates, start times and who's playing. Kemankeş Karamustafa Paşa, Kemankeş Cd. No:73, 34425 Beyoğlu/İstanbul.
 
@@ -18,4 +18,4 @@ Frankhan Selectist is a music venue in Istanbul listed on soundcheck. 5 upcoming
 
 Kemankeş Karamustafa Paşa, Kemankeş Cd. No:73, 34425 Beyoğlu/İstanbul, Istanbul
 
-*Updated Sun, 26 Jul 2026 · source: [soundcheck](https://soundcheck.club/istanbul/club/frankhan-selectist/)*
+*Updated Mon, 27 Jul 2026 · source: [soundcheck](https://soundcheck.club/istanbul/club/frankhan-selectist/)*

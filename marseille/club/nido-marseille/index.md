@@ -1,6 +1,6 @@
 # Nido Marseille
 
-Nido Marseille is a music venue in Marseille with 13 upcoming nights listed on soundcheck as of Sun, 26 Jul 2026; the next is "Nido local session - Mesrod & Sink" on Fri, 31 Jul 2026.
+Nido Marseille is a music venue in Marseille with 13 upcoming nights listed on soundcheck as of Mon, 27 Jul 2026; the next is "Nido local session - Mesrod & Sink" on Fri, 31 Jul 2026.
 
 Nido Marseille is a music venue in Marseille listed on soundcheck. 13 upcoming nights, with line-ups including David Holmes, Edward, Markus Sommer and Onur Özer and 1 more. Browse upcoming dates, start times and who's playing. 20 boulevard fifi turin.
 
@@ -23,4 +23,4 @@ Nido Marseille is a music venue in Marseille listed on soundcheck. 13 upcoming n
 
 20 boulevard fifi turin, Marseille
 
-*Updated Sun, 26 Jul 2026 · source: [soundcheck](https://soundcheck.club/marseille/club/nido-marseille/)*
+*Updated Mon, 27 Jul 2026 · source: [soundcheck](https://soundcheck.club/marseille/club/nido-marseille/)*

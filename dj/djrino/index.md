@@ -1,8 +1,8 @@
 # DJ Rino
 
-DJ Rino is a Techno and House artist with 5 upcoming club dates listed on soundcheck as of Sun, 26 Jul 2026, next at Invisible Wind Factory, Liverpool on Sat, 1 Aug 2026.
+DJ Rino is a Techno and House artist with 6 upcoming club dates listed on soundcheck as of Mon, 27 Jul 2026, next at Invisible Wind Factory, Liverpool on Sat, 1 Aug 2026.
 
-DJ Rino is a techno and house artist tracked on soundcheck, with 95 sets logged across Amsterdam, Antwerp, Barcelona and Berlin and 18 more. Often billed alongside Walrus, Dana Kuehr and Kuba'97. Next up: Invisible Wind Factory, Liverpool on Sat 1 Aug.
+DJ Rino is a techno and house artist tracked on soundcheck, with 96 sets logged across Amsterdam, Antwerp, Barcelona and Berlin and 18 more. Often billed alongside Walrus, Dana Kuehr and Kuba'97. Next up: Invisible Wind Factory, Liverpool on Sat 1 Aug.
 
 ## Upcoming shows
 
@@ -13,6 +13,7 @@ DJ Rino is a techno and house artist tracked on soundcheck, with 95 sets logged 
 | Sat, 8 Aug 2026 | Buda BXL | Brussels |
 | Sat, 5 Sept 2026 | Gaffe | London |
 | Fri, 23 Oct 2026 | Pllek | Amsterdam |
+| Sun, 25 Oct 2026 | Garage Noord | Amsterdam |
 
 ## Recently played
 
@@ -29,4 +30,4 @@ DJ Rino is a techno and house artist tracked on soundcheck, with 95 sets logged 
 
 Walrus, Dana Kuehr, Kuba'97
 
-*Updated Sun, 26 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/djrino/)*
+*Updated Mon, 27 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/djrino/)*

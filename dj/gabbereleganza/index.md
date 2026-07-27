@@ -1,6 +1,6 @@
 # Gabber Eleganza
 
-Gabber Eleganza is a Techno and Hardcore artist with 4 upcoming club dates listed on soundcheck as of Sun, 26 Jul 2026, next at Paragon, New York City on Fri, 31 Jul 2026.
+Gabber Eleganza is a Techno and Hardcore artist with 4 upcoming club dates listed on soundcheck as of Mon, 27 Jul 2026, next at Paragon, New York City on Fri, 31 Jul 2026.
 
 Gabber Eleganza is a techno and hardcore artist tracked on soundcheck, with 97 sets logged across Amsterdam, Antwerp, Barcelona and Berlin and 32 more. Often billed alongside Anetha, DJ Gigola and 999999999. Next up: Paragon, Newyorkcity on Fri 31 Jul.
 
@@ -28,4 +28,4 @@ Gabber Eleganza is a techno and hardcore artist tracked on soundcheck, with 97 s
 
 Anetha, DJ Gigola, 999999999
 
-*Updated Sun, 26 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/gabbereleganza/)*
+*Updated Mon, 27 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/gabbereleganza/)*

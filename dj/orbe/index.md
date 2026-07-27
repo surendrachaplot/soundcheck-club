@@ -1,6 +1,6 @@
 # ORBE
 
-ORBE is a Techno and Hardcore artist with 3 upcoming club dates listed on soundcheck as of Sun, 26 Jul 2026, next at Studio Club Malaga, Malaga on Fri, 31 Jul 2026.
+ORBE is a Techno and Hardcore artist with 3 upcoming club dates listed on soundcheck as of Mon, 27 Jul 2026, next at Studio Club Malaga, Malaga on Fri, 31 Jul 2026.
 
 ORBE is a techno and hardcore artist tracked on soundcheck, with 74 sets logged across Amsterdam, Athens, Barcelona and Berlin and 23 more. Often billed alongside Psyk, Dexter Lux and Donato Dozzy. Next up: Studio Club Malaga, Malaga on Fri 31 Jul.
 
@@ -27,4 +27,4 @@ ORBE is a techno and hardcore artist tracked on soundcheck, with 74 sets logged 
 
 Psyk, Dexter Lux, Donato Dozzy
 
-*Updated Sun, 26 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/orbe/)*
+*Updated Mon, 27 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/orbe/)*

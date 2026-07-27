@@ -1,6 +1,6 @@
 # Moxes
 
-Moxes is a House and Tech House artist with 4 upcoming club dates listed on soundcheck as of Sun, 26 Jul 2026, next at Cova Santa, Ibiza on Tue, 11 Aug 2026.
+Moxes is a House and Tech House artist with 4 upcoming club dates listed on soundcheck as of Mon, 27 Jul 2026, next at Cova Santa, Ibiza on Tue, 11 Aug 2026.
 
 Moxes is a house and tech house artist tracked on soundcheck, with 61 sets logged across Amsterdam, Berlin, Dusseldorf and Ibiza and 3 more. Often billed alongside Emvae, Essy and Kyra Khaldi. Next up: Cova Santa, Ibiza on Tue 11 Aug.
 
@@ -28,4 +28,4 @@ Moxes is a house and tech house artist tracked on soundcheck, with 61 sets logge
 
 Emvae, Essy, Kyra Khaldi
 
-*Updated Sun, 26 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/moxes/)*
+*Updated Mon, 27 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/moxes/)*

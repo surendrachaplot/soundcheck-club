@@ -1,6 +1,6 @@
 # Badaboum
 
-Badaboum is a music venue in Paris with 15 upcoming nights listed on soundcheck as of Sun, 26 Jul 2026; the next is "Club — LA CH!CK: CLASH OF THE POP QUEENS" on Thu, 30 Jul 2026.
+Badaboum is a music venue in Paris with 15 upcoming nights listed on soundcheck as of Mon, 27 Jul 2026; the next is "Club — LA CH!CK: CLASH OF THE POP QUEENS" on Thu, 30 Jul 2026.
 
 Badaboum is a music venue in Paris listed on soundcheck. 15 upcoming nights, with line-ups including CLEIDO, Adrien Calvet, Aidan Lee and Anastazja and 2 more. Browse upcoming dates, start times and who's playing. 2 bis rue des Taillandiers; 75011; Paris; France.
 
@@ -23,4 +23,4 @@ Badaboum is a music venue in Paris listed on soundcheck. 15 upcoming nights, wit
 
 2 bis rue des Taillandiers; 75011; Paris; France, Paris
 
-*Updated Sun, 26 Jul 2026 · source: [soundcheck](https://soundcheck.club/paris/club/badaboum/)*
+*Updated Mon, 27 Jul 2026 · source: [soundcheck](https://soundcheck.club/paris/club/badaboum/)*

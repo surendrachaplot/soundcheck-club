@@ -1,6 +1,6 @@
 # Quinta Mira Rio
 
-Quinta Mira Rio is a music venue in Lisbon with 3 upcoming nights listed on soundcheck as of Sun, 26 Jul 2026; the next is "Tutty Frutty Open Air w/ Saphyr [Fra]" on Fri, 31 Jul 2026.
+Quinta Mira Rio is a music venue in Lisbon with 3 upcoming nights listed on soundcheck as of Mon, 27 Jul 2026; the next is "Tutty Frutty Open Air w/ Saphyr [Fra]" on Fri, 31 Jul 2026.
 
 Quinta Mira Rio is a music venue in Lisbon listed on soundcheck. 3 upcoming nights, with line-ups including GADDAM, GTH (FR), Luke Alessi and MAFAYA and 2 more. Browse upcoming dates, start times and who's playing. R. do Joinal 2825, Caparica.
 
@@ -16,4 +16,4 @@ Quinta Mira Rio is a music venue in Lisbon listed on soundcheck. 3 upcoming nigh
 
 R. do Joinal 2825, Caparica, Lisbon
 
-*Updated Sun, 26 Jul 2026 · source: [soundcheck](https://soundcheck.club/lisbon/club/quinta-mira-rio/)*
+*Updated Mon, 27 Jul 2026 · source: [soundcheck](https://soundcheck.club/lisbon/club/quinta-mira-rio/)*

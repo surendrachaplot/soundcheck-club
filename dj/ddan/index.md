@@ -1,6 +1,6 @@
 # D.Dan
 
-D.Dan is a Techno and House artist with 10 upcoming club dates listed on soundcheck as of Sun, 26 Jul 2026, next at CLUB RAUM, Amsterdam on Fri, 31 Jul 2026.
+D.Dan is a Techno and House artist with 10 upcoming club dates listed on soundcheck as of Mon, 27 Jul 2026, next at CLUB RAUM, Amsterdam on Fri, 31 Jul 2026.
 
 D.Dan is a techno and house artist tracked on soundcheck, with 190 sets logged across Amsterdam, Athens, Austin and Barcelona and 57 more. Often billed alongside DJ TOOL, Hyperaktivist and Yazzus. Next up: CLUB RAUM, Amsterdam on Fri 31 Jul.
 
@@ -34,4 +34,4 @@ D.Dan is a techno and house artist tracked on soundcheck, with 190 sets logged a
 
 DJ TOOL, Hyperaktivist, Yazzus
 
-*Updated Sun, 26 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/ddan/)*
+*Updated Mon, 27 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/ddan/)*

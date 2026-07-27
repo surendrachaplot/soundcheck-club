@@ -1,6 +1,6 @@
 # A For Alpha
 
-A For Alpha is a House and Garage artist with 6 upcoming club dates listed on soundcheck as of Sun, 26 Jul 2026, next at Quarters, Brighton on Sat, 1 Aug 2026.
+A For Alpha is a House and Garage artist with 6 upcoming club dates listed on soundcheck as of Mon, 27 Jul 2026, next at Quarters, Brighton on Sat, 1 Aug 2026.
 
 A For Alpha is a house and garage artist tracked on soundcheck, with 116 sets logged across Amsterdam, Barcelona, Berlin and Birmingham and 16 more. Often billed alongside Papa Nugs, Dr Dubplate and Ellie Stokes. Next up: Quarters, Brighton on Sat 1 Aug.
 
@@ -30,4 +30,4 @@ A For Alpha is a house and garage artist tracked on soundcheck, with 116 sets lo
 
 Papa Nugs, Dr Dubplate, Ellie Stokes
 
-*Updated Sun, 26 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/aforalpha/)*
+*Updated Mon, 27 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/aforalpha/)*

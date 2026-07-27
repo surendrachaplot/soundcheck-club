@@ -1,6 +1,6 @@
 # Daniel Wang
 
-Daniel Wang is a Disco and House artist with 2 upcoming club dates listed on soundcheck as of Sun, 26 Jul 2026, next at Refuge Worldwide / Niemetzstraße, Berlin on Thu, 30 Jul 2026.
+Daniel Wang is a Disco and House artist with 2 upcoming club dates listed on soundcheck as of Mon, 27 Jul 2026, next at Refuge Worldwide / Niemetzstraße, Berlin on Thu, 30 Jul 2026.
 
 Daniel Wang is a disco and house artist tracked on soundcheck, with 89 sets logged across Athens, Barcelona, Belfast and Belgrade and 12 more. Often billed alongside ADAM MUNNINGS, AAguilAA and DJ Petite. Next up: Refuge Worldwide / Niemetzstraße, Berlin on Thu 30 Jul.
 
@@ -26,4 +26,4 @@ Daniel Wang is a disco and house artist tracked on soundcheck, with 89 sets logg
 
 ADAM MUNNINGS, AAguilAA, DJ Petite
 
-*Updated Sun, 26 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/danielwang/)*
+*Updated Mon, 27 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/danielwang/)*

@@ -1,6 +1,6 @@
 # Virginia
 
-Virginia is a House and Techno artist with 5 upcoming club dates listed on soundcheck as of Sun, 26 Jul 2026, next at BLITZ, Munich on Fri, 31 Jul 2026.
+Virginia is a House and Techno artist with 5 upcoming club dates listed on soundcheck as of Mon, 27 Jul 2026, next at BLITZ, Munich on Fri, 31 Jul 2026.
 
 Virginia is a house and techno artist tracked on soundcheck, with 245 sets logged across Amsterdam, Athens, Bali and Barcelona and 60 more. Often billed alongside AMEX (UK), APP and Alaska (2). Next up: BLITZ, Munich on Fri 31 Jul.
 
@@ -29,4 +29,4 @@ Virginia is a house and techno artist tracked on soundcheck, with 245 sets logge
 
 AMEX (UK), APP, Alaska (2)
 
-*Updated Sun, 26 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/virginia/)*
+*Updated Mon, 27 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/virginia/)*

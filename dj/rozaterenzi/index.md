@@ -1,6 +1,6 @@
 # Roza Terenzi
 
-Roza Terenzi is a Techno and House artist with 6 upcoming club dates listed on soundcheck as of Sun, 26 Jul 2026, next at Kulturcampus Frankfurt, Frankfurt on Thu, 13 Aug 2026.
+Roza Terenzi is a Techno and House artist with 6 upcoming club dates listed on soundcheck as of Mon, 27 Jul 2026, next at Kulturcampus Frankfurt, Frankfurt on Thu, 13 Aug 2026.
 
 Roza Terenzi is a techno and house artist tracked on soundcheck, with 197 sets logged across Amsterdam, Athens, Auckland and Austin and 52 more. Often billed alongside ISAbella, D. Tiffany and THC. Next up: Kulturcampus Frankfurt, Frankfurt on Thu 13 Aug.
 
@@ -30,4 +30,4 @@ Roza Terenzi is a techno and house artist tracked on soundcheck, with 197 sets l
 
 ISAbella, D. Tiffany, THC
 
-*Updated Sun, 26 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/rozaterenzi/)*
+*Updated Mon, 27 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/rozaterenzi/)*

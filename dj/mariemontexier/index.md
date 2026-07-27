@@ -1,8 +1,8 @@
 # Marie Montexier
 
-Marie Montexier is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Sun, 26 Jul 2026, next at Galopprennbahn, Munich on Sat, 1 Aug 2026.
+Marie Montexier is a Techno and House artist with 4 upcoming club dates listed on soundcheck as of Mon, 27 Jul 2026, next at Galopprennbahn, Munich on Sat, 1 Aug 2026.
 
-Marie Montexier is a techno and house artist tracked on soundcheck, with 207 sets logged across Amsterdam, Antwerp, Athens and Bali and 53 more. Often billed alongside Anetha, DJ Gigola and DVS1. Next up: Galopprennbahn, Munich on Sat 1 Aug.
+Marie Montexier is a techno and house artist tracked on soundcheck, with 208 sets logged across Amsterdam, Antwerp, Athens and Bali and 53 more. Often billed alongside Anetha, DJ Gigola and DVS1. Next up: Galopprennbahn, Munich on Sat 1 Aug.
 
 ## Upcoming shows
 
@@ -11,6 +11,7 @@ Marie Montexier is a techno and house artist tracked on soundcheck, with 207 set
 | Sat, 1 Aug 2026 | Galopprennbahn | Munich |
 | Sat, 8 Aug 2026 | Hal25 | Amsterdam |
 | Fri, 28 Aug 2026 | Berghain / Panorama Bar / Säule | Berlin |
+| Sun, 25 Oct 2026 | GASHOUDER | Amsterdam |
 
 ## Recently played
 
@@ -27,4 +28,4 @@ Marie Montexier is a techno and house artist tracked on soundcheck, with 207 set
 
 Anetha, DJ Gigola, DVS1
 
-*Updated Sun, 26 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/mariemontexier/)*
+*Updated Mon, 27 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/mariemontexier/)*

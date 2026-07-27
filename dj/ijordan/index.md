@@ -1,6 +1,6 @@
 # I. JORDAN
 
-I. JORDAN is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Sun, 26 Jul 2026, next at Preston Park, Brighton, Berlin on Sat, 1 Aug 2026.
+I. JORDAN is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Mon, 27 Jul 2026, next at Preston Park, Brighton, Berlin on Sat, 1 Aug 2026.
 
 I. JORDAN is a techno and house artist based in United Kingdom, tracked on soundcheck, with 116 sets logged across Amsterdam, Antwerp, Athens and Austin and 44 more. Often billed alongside SHERELLE, KETTAMA and Honey Dijon. Next up: Preston Park, Brighton, Berlin on Sat 1 Aug.
 
@@ -26,4 +26,4 @@ I. JORDAN is a techno and house artist based in United Kingdom, tracked on sound
 
 SHERELLE, KETTAMA, Honey Dijon
 
-*Updated Sun, 26 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/ijordan/)*
+*Updated Mon, 27 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/ijordan/)*

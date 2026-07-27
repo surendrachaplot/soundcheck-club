@@ -1,8 +1,8 @@
 # The Berkeley Suite
 
-The Berkeley Suite is a music venue in Glasgow with 19 upcoming nights listed on soundcheck as of Sun, 26 Jul 2026; the next is "Céleste W/ ALWAYS 8:15" on Fri, 31 Jul 2026.
+The Berkeley Suite is a music venue in Glasgow with 20 upcoming nights listed on soundcheck as of Mon, 27 Jul 2026; the next is "Céleste W/ ALWAYS 8:15" on Fri, 31 Jul 2026.
 
-The Berkeley Suite is a music venue in Glasgow listed on soundcheck. 19 upcoming nights, with line-ups including AKA DISPLAY, ALWAYS 8:15, Angel Negrin and Bonzai Bonner and 2 more. Browse upcoming dates, start times and who's playing. 237 North Street; Glasgow, G3 7DL, Scotland, United Kingdom.
+The Berkeley Suite is a music venue in Glasgow listed on soundcheck. 20 upcoming nights, with line-ups including AKA DISPLAY, ALWAYS 8:15, Angel Negrin and Bonzai Bonner and 2 more. Browse upcoming dates, start times and who's playing. 237 North Street; Glasgow, G3 7DL, Scotland, United Kingdom.
 
 ## What's on
 
@@ -23,4 +23,4 @@ The Berkeley Suite is a music venue in Glasgow listed on soundcheck. 19 upcoming
 
 237 North Street; Glasgow, G3 7DL, Scotland, United Kingdom, Glasgow
 
-*Updated Sun, 26 Jul 2026 · source: [soundcheck](https://soundcheck.club/glasgow/club/the-berkeley-suite/)*
+*Updated Mon, 27 Jul 2026 · source: [soundcheck](https://soundcheck.club/glasgow/club/the-berkeley-suite/)*

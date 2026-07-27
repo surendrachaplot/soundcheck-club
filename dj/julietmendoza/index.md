@@ -1,13 +1,14 @@
 # Juliet Mendoza
 
-Juliet Mendoza is a House and Deep House artist with 3 upcoming club dates listed on soundcheck as of Sun, 26 Jul 2026, next at The Bridge, Los Angeles on Sat, 8 Aug 2026.
+Juliet Mendoza is a House and Deep House artist with 4 upcoming club dates listed on soundcheck as of Mon, 27 Jul 2026, next at TBA - Downtown Los Angeles, Los Angeles on Sat, 1 Aug 2026.
 
-Juliet Mendoza is a house and deep house artist tracked on soundcheck, with 99 sets logged across Amsterdam, Chicago, Denver and Detroit and 11 more. Often billed alongside Heidi Lawden, DJ Sneak and DJ Minx. Next up: The Bridge, Losangeles on Sat 8 Aug.
+Juliet Mendoza is a house and deep house artist tracked on soundcheck, with 100 sets logged across Amsterdam, Chicago, Denver and Detroit and 11 more. Often billed alongside Heidi Lawden, DJ Sneak and DJ Minx. Next up: TBA - Downtown Los Angeles, Losangeles on Sat 1 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 1 Aug 2026 | TBA - Downtown Los Angeles | Los Angeles |
 | Sat, 8 Aug 2026 | The Bridge | Los Angeles |
 | Fri, 21 Aug 2026 | The Airliner | Los Angeles |
 | Sat, 5 Sept 2026 | Knockdown Center | New York City |
@@ -27,4 +28,4 @@ Juliet Mendoza is a house and deep house artist tracked on soundcheck, with 99 s
 
 Heidi Lawden, DJ Sneak, DJ Minx
 
-*Updated Sun, 26 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/julietmendoza/)*
+*Updated Mon, 27 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/julietmendoza/)*

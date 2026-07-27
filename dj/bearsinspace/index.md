@@ -1,6 +1,6 @@
 # Bears In Space
 
-Bears In Space is a Disco and House artist with 2 upcoming club dates listed on soundcheck as of Sun, 26 Jul 2026, next at Akbar, Los Angeles on Sun, 9 Aug 2026.
+Bears In Space is a Disco and House artist with 2 upcoming club dates listed on soundcheck as of Mon, 27 Jul 2026, next at Akbar, Los Angeles on Sun, 9 Aug 2026.
 
 Bears In Space is a disco and house artist tracked on soundcheck, with 45 sets logged across London, Losangeles, Mexicocity and Newyorkcity and 4 more. Often billed alongside Perfect Lovers, Stacy Christine and Victor Rodriguez. Next up: Akbar, Losangeles on Sun 9 Aug.
 
@@ -26,4 +26,4 @@ Bears In Space is a disco and house artist tracked on soundcheck, with 45 sets l
 
 Perfect Lovers, Stacy Christine, Victor Rodriguez
 
-*Updated Sun, 26 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/bearsinspace/)*
+*Updated Mon, 27 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/bearsinspace/)*

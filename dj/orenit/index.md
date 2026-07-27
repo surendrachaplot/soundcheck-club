@@ -1,6 +1,6 @@
 # Oren (IT)
 
-Oren (IT) is a Electro and House artist with 2 upcoming club dates listed on soundcheck as of Sun, 26 Jul 2026, next at Starlane Pizza Bar, London on Fri, 31 Jul 2026.
+Oren (IT) is a Electro and House artist with 2 upcoming club dates listed on soundcheck as of Mon, 27 Jul 2026, next at Starlane Pizza Bar, London on Fri, 31 Jul 2026.
 
 Oren (IT) is an electro and house artist tracked on soundcheck, with 38 sets logged across Brighton, London, Malaga and Naples and 2 more. Often billed alongside Peter Grand, Yuma (UK) and FeR (IT). Next up: Starlane Pizza Bar, London on Fri 31 Jul.
 
@@ -26,4 +26,4 @@ Oren (IT) is an electro and house artist tracked on soundcheck, with 38 sets log
 
 Peter Grand, Yuma (UK), FeR (IT)
 
-*Updated Sun, 26 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/orenit/)*
+*Updated Mon, 27 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/orenit/)*

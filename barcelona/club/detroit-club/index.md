@@ -1,6 +1,6 @@
 # DETROIT CLUB
 
-DETROIT CLUB is a music venue in Barcelona with 5 upcoming nights listed on soundcheck as of Sun, 26 Jul 2026; the next is "HARDNOISES-SARA KRIN/ Luca Maier/ LUCIAN/ PYRO/ MAX CIRCUIT/ KYANOS" on Fri, 31 Jul 2026.
+DETROIT CLUB is a music venue in Barcelona with 5 upcoming nights listed on soundcheck as of Mon, 27 Jul 2026; the next is "HARDNOISES-SARA KRIN/ Luca Maier/ LUCIAN/ PYRO/ MAX CIRCUIT/ KYANOS" on Fri, 31 Jul 2026.
 
 DETROIT CLUB is a music venue in Barcelona listed on soundcheck. 5 upcoming nights, with line-ups including Etherwood, Luca Maier, Lucian (UK) and Max Circuit and 1 more. Browse upcoming dates, start times and who's playing. Passatge Can Polític, 13, b, 08907 Hospitalet de Llobregat, Barcelona.
 
@@ -18,4 +18,4 @@ DETROIT CLUB is a music venue in Barcelona listed on soundcheck. 5 upcoming nigh
 
 Passatge Can Polític, 13, b, 08907 Hospitalet de Llobregat, Barcelona, Barcelona
 
-*Updated Sun, 26 Jul 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/detroit-club/)*
+*Updated Mon, 27 Jul 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/detroit-club/)*

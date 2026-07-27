@@ -1,6 +1,6 @@
 # Luke Una
 
-Luke Una is a House and Disco artist with 7 upcoming club dates listed on soundcheck as of Sun, 26 Jul 2026, next at Clifton Downs, Bristol on Sat, 1 Aug 2026.
+Luke Una is a House and Disco artist with 7 upcoming club dates listed on soundcheck as of Mon, 27 Jul 2026, next at Clifton Downs, Bristol on Sat, 1 Aug 2026.
 
 Luke Una is a house and disco artist tracked on soundcheck, with 137 sets logged across Amsterdam, Antwerp, Athens and Bali and 33 more. Often billed alongside Joey T, Simon Morell and Aroop Roy. Next up: Clifton Downs, Bristol on Sat 1 Aug.
 
@@ -31,4 +31,4 @@ Luke Una is a house and disco artist tracked on soundcheck, with 137 sets logged
 
 Joey T, Simon Morell, Aroop Roy
 
-*Updated Sun, 26 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/lukeuna/)*
+*Updated Mon, 27 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/lukeuna/)*

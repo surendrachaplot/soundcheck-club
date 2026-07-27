@@ -1,6 +1,6 @@
 # Le Kilowatt
 
-Le Kilowatt is a music venue in Paris with 2 upcoming nights listed on soundcheck as of Sun, 26 Jul 2026; the next is "Ohlala Producions & Amnexia presentent: Get In Step X Thunder" on Sat, 8 Aug 2026.
+Le Kilowatt is a music venue in Paris with 2 upcoming nights listed on soundcheck as of Mon, 27 Jul 2026; the next is "Ohlala Producions & Amnexia presentent: Get In Step X Thunder" on Sat, 8 Aug 2026.
 
 Le Kilowatt is a music venue in Paris listed on soundcheck. 2 upcoming nights, with line-ups including Andromedik, DNNS, FLKN and Flymeon and 2 more. Browse upcoming dates, start times and who's playing. 18 rue des Fusillés 94400 Vitry-sur-Seine.
 
@@ -15,4 +15,4 @@ Le Kilowatt is a music venue in Paris listed on soundcheck. 2 upcoming nights, w
 
 18 rue des Fusillés 94400 Vitry-sur-Seine, Paris
 
-*Updated Sun, 26 Jul 2026 · source: [soundcheck](https://soundcheck.club/paris/club/le-kilowatt/)*
+*Updated Mon, 27 Jul 2026 · source: [soundcheck](https://soundcheck.club/paris/club/le-kilowatt/)*

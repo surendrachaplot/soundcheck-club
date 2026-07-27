@@ -1,8 +1,8 @@
 # Angel D'lite
 
-Angel D'lite is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Sun, 26 Jul 2026, next at Else, Berlin on Sat, 8 Aug 2026.
+Angel D'lite is a House and Techno artist with 4 upcoming club dates listed on soundcheck as of Mon, 27 Jul 2026, next at Else, Berlin on Sat, 8 Aug 2026.
 
-Angel D'lite is a house and techno artist tracked on soundcheck, with 227 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 37 more. Often billed alongside dj sweet6teen, THC and FAFF. Next up: Else, Berlin on Sat 8 Aug.
+Angel D'lite is a house and techno artist tracked on soundcheck, with 228 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 37 more. Often billed alongside dj sweet6teen, THC and FAFF. Next up: Else, Berlin on Sat 8 Aug.
 
 ## Upcoming shows
 
@@ -11,6 +11,7 @@ Angel D'lite is a house and techno artist tracked on soundcheck, with 227 sets l
 | Sat, 8 Aug 2026 | Else | Berlin |
 | Fri, 28 Aug 2026 | Spanners | London |
 | Sat, 29 Aug 2026 | The White Hotel | Manchester |
+| Sun, 25 Oct 2026 | Garage Noord | Amsterdam |
 
 ## Recently played
 
@@ -27,4 +28,4 @@ Angel D'lite is a house and techno artist tracked on soundcheck, with 227 sets l
 
 dj sweet6teen, THC, FAFF
 
-*Updated Sun, 26 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/angeld-lite/)*
+*Updated Mon, 27 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/angeld-lite/)*

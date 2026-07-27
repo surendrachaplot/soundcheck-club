@@ -1,6 +1,6 @@
 # Enrico Sangiuliano
 
-Enrico Sangiuliano is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Sun, 26 Jul 2026, next at Sloterpark, Amsterdam on Sat, 8 Aug 2026.
+Enrico Sangiuliano is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Mon, 27 Jul 2026, next at Sloterpark, Amsterdam on Sat, 8 Aug 2026.
 
 Enrico Sangiuliano is a techno and house artist tracked on soundcheck, with 101 sets logged across Amsterdam, Antwerp, Athens and Austin and 35 more. Often billed alongside Charlotte de Witte, Anfisa Letyago and Joseph Capriati. Next up: Sloterpark, Amsterdam on Sat 8 Aug.
 
@@ -26,4 +26,4 @@ Enrico Sangiuliano is a techno and house artist tracked on soundcheck, with 101 
 
 Charlotte de Witte, Anfisa Letyago, Joseph Capriati
 
-*Updated Sun, 26 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/enricosangiuliano/)*
+*Updated Mon, 27 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/enricosangiuliano/)*

@@ -1,14 +1,13 @@
 # The Stud
 
-The Stud is a music venue in San Francisco/Oakland with 8 upcoming nights listed on soundcheck as of Sun, 26 Jul 2026; the next is "CLUB ESTRUS: DORE ALLEY AFTER PARTY" on Sun, 26 Jul 2026.
+The Stud is a music venue in San Francisco/Oakland with 7 upcoming nights listed on soundcheck as of Mon, 27 Jul 2026; the next is "140 presents: Olivia Lauren & Friends" on Thu, 30 Jul 2026.
 
-The Stud is a music venue in Sanfrancisco listed on soundcheck. 8 upcoming nights, with line-ups including ANDYLAND, arktoi, Booty Juice and Del (4) and 2 more. Browse upcoming dates, start times and who's playing. 1123 Folsom St, San Francisco, CA 94103.
+The Stud is a music venue in Sanfrancisco listed on soundcheck. 7 upcoming nights, with line-ups including ANDYLAND, arktoi, Booty Juice and Del (4) and 2 more. Browse upcoming dates, start times and who's playing. 1123 Folsom St, San Francisco, CA 94103.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Sun, 26 Jul 2026 | CLUB ESTRUS: DORE ALLEY AFTER PARTY | Jasmine Infiniti, Mister Hoochiemama, Mr. Gizmoe, Papa Xanny |
 | Thu, 30 Jul 2026 | 140 presents: Olivia Lauren & Friends | ANDYLAND, ELA MENTAL, MALICIEL, Olivia Lauren, arktoi |
 | Fri, 31 Jul 2026 | Yala Papa . Middle Eastern X Latin Dance Party |  |
 | Sat, 1 Aug 2026 | Steam Towel Party |  |
@@ -21,4 +20,4 @@ The Stud is a music venue in Sanfrancisco listed on soundcheck. 8 upcoming night
 
 1123 Folsom St, San Francisco, CA 94103, San Francisco/Oakland
 
-*Updated Sun, 26 Jul 2026 · source: [soundcheck](https://soundcheck.club/sanfrancisco/club/the-stud/)*
+*Updated Mon, 27 Jul 2026 · source: [soundcheck](https://soundcheck.club/sanfrancisco/club/the-stud/)*

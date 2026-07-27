@@ -1,6 +1,6 @@
 # Reforesters Laboratory
 
-Reforesters Laboratory is a music venue in New York City with 4 upcoming nights listed on soundcheck as of Sun, 26 Jul 2026; the next is "Mount Mansfield Release Party" on Fri, 31 Jul 2026.
+Reforesters Laboratory is a music venue in New York City with 4 upcoming nights listed on soundcheck as of Mon, 27 Jul 2026; the next is "Mount Mansfield Release Party" on Fri, 31 Jul 2026.
 
 Reforesters Laboratory is a music venue in Newyorkcity listed on soundcheck. 4 upcoming nights, with line-ups including Nihal Ramchandani and Shawn O'Sullivan. Browse upcoming dates, start times and who's playing. 147 Metropolitan Avenue.
 
@@ -17,4 +17,4 @@ Reforesters Laboratory is a music venue in Newyorkcity listed on soundcheck. 4 u
 
 147 Metropolitan Avenue, New York City
 
-*Updated Sun, 26 Jul 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/reforesters-laboratory/)*
+*Updated Mon, 27 Jul 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/reforesters-laboratory/)*

@@ -1,6 +1,6 @@
 # QQQ ST. Park
 
-QQQ ST. Park is a music venue in Melbourne with 7 upcoming nights listed on soundcheck as of Sun, 26 Jul 2026; the next is "Backspace" on Fri, 31 Jul 2026.
+QQQ ST. Park is a music venue in Melbourne with 7 upcoming nights listed on soundcheck as of Mon, 27 Jul 2026; the next is "Backspace" on Fri, 31 Jul 2026.
 
 QQQ ST. Park is a music venue in Melbourne listed on soundcheck. 7 upcoming nights, with line-ups including BDE, CAITY WATSON, KINEKTA and Sophie Forrest and 2 more. Browse upcoming dates, start times and who's playing. 2 Peel St, Collingwood VIC 3066.
 
@@ -20,4 +20,4 @@ QQQ ST. Park is a music venue in Melbourne listed on soundcheck. 7 upcoming nigh
 
 2 Peel St, Collingwood VIC 3066, Melbourne
 
-*Updated Sun, 26 Jul 2026 · source: [soundcheck](https://soundcheck.club/melbourne/club/qqq-st-park/)*
+*Updated Mon, 27 Jul 2026 · source: [soundcheck](https://soundcheck.club/melbourne/club/qqq-st-park/)*

@@ -1,14 +1,15 @@
 # dj sweet6teen
 
-dj sweet6teen is a House and Techno artist with 8 upcoming club dates listed on soundcheck as of Sun, 26 Jul 2026, next at BLITZ, Munich on Fri, 31 Jul 2026.
+dj sweet6teen is a House and Techno artist with 9 upcoming club dates listed on soundcheck as of Mon, 27 Jul 2026, next at BLITZ, Munich on Fri, 31 Jul 2026.
 
-dj sweet6teen is a house and techno artist tracked on soundcheck, with 234 sets logged across Amsterdam, Antwerp, Bangkok and Barcelona and 43 more. Often billed alongside Angel D'lite, Sansibar and Peach. Next up: BLITZ, Munich on Fri 31 Jul.
+dj sweet6teen is a house and techno artist tracked on soundcheck, with 235 sets logged across Amsterdam, Antwerp, Bangkok and Barcelona and 43 more. Often billed alongside Angel D'lite, Sansibar and Peach. Next up: BLITZ, Munich on Fri 31 Jul.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 31 Jul 2026 | BLITZ | Munich |
+| Fri, 31 Jul 2026 | Jolene | Copenhagen |
 | Fri, 7 Aug 2026 | Parc del Fòrum | Barcelona |
 | Sat, 8 Aug 2026 | SAGE | Berlin |
 | Mon, 24 Aug 2026 | Club der Visionaere | Berlin |
@@ -32,4 +33,4 @@ dj sweet6teen is a house and techno artist tracked on soundcheck, with 234 sets 
 
 Angel D'lite, Sansibar, Peach
 
-*Updated Sun, 26 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/djsweet6teen/)*
+*Updated Mon, 27 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/djsweet6teen/)*

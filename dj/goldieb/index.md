@@ -1,6 +1,6 @@
 # Goldie B
 
-Goldie B is a Techno and Bass artist with 2 upcoming club dates listed on soundcheck as of Sun, 26 Jul 2026, next at La Cité Fertile, Paris on Fri, 31 Jul 2026.
+Goldie B is a Techno and Bass artist with 2 upcoming club dates listed on soundcheck as of Mon, 27 Jul 2026, next at La Cité Fertile, Paris on Fri, 31 Jul 2026.
 
 Goldie B is a techno and bass artist tracked on soundcheck, with 30 sets logged across Lyon, Marseille, Paris and Strasbourg. Often billed alongside Kumanope, Mad Rey and Mézigue. Next up: La Cité Fertile, Paris on Fri 31 Jul.
 
@@ -26,4 +26,4 @@ Goldie B is a techno and bass artist tracked on soundcheck, with 30 sets logged 
 
 Kumanope, Mad Rey, Mézigue
 
-*Updated Sun, 26 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/goldieb/)*
+*Updated Mon, 27 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/goldieb/)*

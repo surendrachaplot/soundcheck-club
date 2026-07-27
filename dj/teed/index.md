@@ -1,14 +1,13 @@
 # TEED
 
-TEED is a House and Bass artist with 6 upcoming club dates listed on soundcheck as of Sun, 26 Jul 2026, next at Refuge, New York City on Sun, 26 Jul 2026.
+TEED is a House and Bass artist with 5 upcoming club dates listed on soundcheck as of Mon, 27 Jul 2026, next at Monarch, San Francisco/Oakland on Fri, 31 Jul 2026.
 
-TEED is a house and bass artist tracked on soundcheck, with 43 sets logged across Amsterdam, Berlin, Boston and Brisbane and 20 more. Often billed alongside Dom Dolla, Heidi Lawden and Oppidan. Next up: Refuge, Newyorkcity on Sun 26 Jul.
+TEED is a house and bass artist tracked on soundcheck, with 43 sets logged across Amsterdam, Berlin, Boston and Brisbane and 20 more. Often billed alongside Dom Dolla, Heidi Lawden and Oppidan. Next up: Monarch, Sanfrancisco on Fri 31 Jul.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sun, 26 Jul 2026 | Refuge | New York City |
 | Fri, 31 Jul 2026 | Monarch | San Francisco/Oakland |
 | Sat, 1 Aug 2026 | Los Globos | Los Angeles |
 | Fri, 7 Aug 2026 | Standard Time | Toronto |
@@ -17,6 +16,7 @@ TEED is a house and bass artist tracked on soundcheck, with 43 sets logged acros
 
 ## Recently played
 
+- Refuge, New York City — Sun, 26 Jul 2026
 - Floyd, Miami — Sat, 25 Jul 2026
 - smartbar, Chicago — Sat, 18 Jul 2026
 - Flash, Washington DC — Fri, 17 Jul 2026
@@ -24,10 +24,9 @@ TEED is a house and bass artist tracked on soundcheck, with 43 sets logged acros
 - Amber's, Manchester — Fri, 26 Jun 2026
 - Sneaky Pete's, Edinburgh — Tue, 23 Jun 2026
 - BRET, Amsterdam — Sat, 20 Jun 2026
-- Jaeger, Oslo — Fri, 19 Jun 2026
 
 ## Shares bills with
 
 Dom Dolla, Heidi Lawden, Oppidan
 
-*Updated Sun, 26 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/teed/)*
+*Updated Mon, 27 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/teed/)*

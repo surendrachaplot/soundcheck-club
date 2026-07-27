@@ -1,6 +1,6 @@
 # TRANSMISSION DC
 
-TRANSMISSION DC is a music venue in Washington DC with 14 upcoming nights listed on soundcheck as of Sun, 26 Jul 2026; the next is "SUBSTRATE Pres. Alarico" on Thu, 30 Jul 2026.
+TRANSMISSION DC is a music venue in Washington DC with 14 upcoming nights listed on soundcheck as of Mon, 27 Jul 2026; the next is "SUBSTRATE Pres. Alarico" on Thu, 30 Jul 2026.
 
 TRANSMISSION DC is a music venue in Washingtondc listed on soundcheck. 14 upcoming nights, with line-ups including Alarico, Alexandre Docouto, ARMANA KHAN and Binh and 2 more. Browse upcoming dates, start times and who's playing. 1353 H st NE, Washington, DC, 20002.
 
@@ -23,4 +23,4 @@ TRANSMISSION DC is a music venue in Washingtondc listed on soundcheck. 14 upcomi
 
 1353 H st NE, Washington, DC, 20002, Washington DC
 
-*Updated Sun, 26 Jul 2026 · source: [soundcheck](https://soundcheck.club/washingtondc/club/transmission-dc/)*
+*Updated Mon, 27 Jul 2026 · source: [soundcheck](https://soundcheck.club/washingtondc/club/transmission-dc/)*

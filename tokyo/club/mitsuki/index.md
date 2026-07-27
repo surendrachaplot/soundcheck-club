@@ -1,6 +1,6 @@
 # Mitsuki
 
-Mitsuki is a music venue in Tokyo with 8 upcoming nights listed on soundcheck as of Sun, 26 Jul 2026; the next is "Baku/Ryogo/lostbaggage" on Mon, 27 Jul 2026.
+Mitsuki is a music venue in Tokyo with 8 upcoming nights listed on soundcheck as of Mon, 27 Jul 2026; the next is "Baku/Ryogo/lostbaggage" on Mon, 27 Jul 2026.
 
 Mitsuki is a music venue in Tokyo listed on soundcheck. 8 upcoming nights, with line-ups including Baku, Dr. Nishimura, In Ray and Itou and 2 more. Browse upcoming dates, start times and who's playing. 1-22-12, Dogenzaka, Shibuya-Ku, Tokyo, 150-0043, Japan.
 
@@ -21,4 +21,4 @@ Mitsuki is a music venue in Tokyo listed on soundcheck. 8 upcoming nights, with 
 
 1-22-12, Dogenzaka, Shibuya-Ku, Tokyo, 150-0043, Japan, Tokyo
 
-*Updated Sun, 26 Jul 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/mitsuki/)*
+*Updated Mon, 27 Jul 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/mitsuki/)*

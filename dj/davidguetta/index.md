@@ -1,14 +1,13 @@
 # David Guetta
 
-David Guetta is a House and Progressive House artist with 22 upcoming club dates listed on soundcheck as of Sun, 26 Jul 2026, next at [UNVRS], Ibiza on Sun, 26 Jul 2026.
+David Guetta is a House and Progressive House artist with 21 upcoming club dates listed on soundcheck as of Mon, 27 Jul 2026, next at Ushuaïa Ibiza, Ibiza on Mon, 27 Jul 2026.
 
-David Guetta is a house and progressive house artist tracked on soundcheck, with 151 sets logged across Frankfurt, Geneva, Ibiza and Miami and 2 more. Often billed alongside Paul Reynolds, Meduza and James Hype (UK). Next up: [UNVRS], Ibiza on Sun 26 Jul.
+David Guetta is a house and progressive house artist tracked on soundcheck, with 151 sets logged across Frankfurt, Geneva, Ibiza and Miami and 2 more. Often billed alongside Paul Reynolds, Meduza and James Hype (UK). Next up: Ushuaïa Ibiza, Ibiza on Mon 27 Jul.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sun, 26 Jul 2026 | [UNVRS] | Ibiza |
 | Mon, 27 Jul 2026 | Ushuaïa Ibiza | Ibiza |
 | Fri, 31 Jul 2026 | [UNVRS] | Ibiza |
 | Mon, 3 Aug 2026 | Ushuaïa Ibiza | Ibiza |
@@ -20,9 +19,11 @@ David Guetta is a house and progressive house artist tracked on soundcheck, with
 | Mon, 24 Aug 2026 | Ushuaïa Ibiza | Ibiza |
 | Fri, 28 Aug 2026 | [UNVRS] | Ibiza |
 | Mon, 31 Aug 2026 | Ushuaïa Ibiza | Ibiza |
+| Fri, 4 Sept 2026 | [UNVRS] | Ibiza |
 
 ## Recently played
 
+- [UNVRS], Ibiza — Sun, 26 Jul 2026
 - [UNVRS], Ibiza — Fri, 24 Jul 2026
 - Ushuaïa Ibiza, Ibiza — Mon, 20 Jul 2026
 - [UNVRS], Ibiza — Fri, 17 Jul 2026
@@ -30,10 +31,9 @@ David Guetta is a house and progressive house artist tracked on soundcheck, with
 - [UNVRS], Ibiza — Fri, 10 Jul 2026
 - Ushuaïa Ibiza, Ibiza — Mon, 6 Jul 2026
 - [UNVRS], Ibiza — Fri, 3 Jul 2026
-- Ushuaïa Ibiza, Ibiza — Mon, 29 Jun 2026
 
 ## Shares bills with
 
 Paul Reynolds, Meduza, James Hype (UK)
 
-*Updated Sun, 26 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/davidguetta/)*
+*Updated Mon, 27 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/davidguetta/)*

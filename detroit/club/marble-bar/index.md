@@ -1,6 +1,6 @@
 # Marble Bar
 
-Marble Bar is a music venue in Detroit with 4 upcoming nights listed on soundcheck as of Sun, 26 Jul 2026; the next is "Binh, Mister Joshooa b2b Loren" on Fri, 31 Jul 2026.
+Marble Bar is a music venue in Detroit with 4 upcoming nights listed on soundcheck as of Mon, 27 Jul 2026; the next is "Binh, Mister Joshooa b2b Loren" on Fri, 31 Jul 2026.
 
 Marble Bar is a music venue in Detroit listed on soundcheck. 4 upcoming nights, with line-ups including ALEX PAN, BEIGE, Binh and BMG and 2 more. Browse upcoming dates, start times and who's playing. 1501 Holden St, Detroit, MI 48208, USA.
 
@@ -17,4 +17,4 @@ Marble Bar is a music venue in Detroit listed on soundcheck. 4 upcoming nights, 
 
 1501 Holden St, Detroit, MI 48208, USA, Detroit
 
-*Updated Sun, 26 Jul 2026 · source: [soundcheck](https://soundcheck.club/detroit/club/marble-bar/)*
+*Updated Mon, 27 Jul 2026 · source: [soundcheck](https://soundcheck.club/detroit/club/marble-bar/)*

@@ -1,6 +1,6 @@
 # Phantom, Paris
 
-Phantom, Paris is a music venue in Paris with 3 upcoming nights listed on soundcheck as of Sun, 26 Jul 2026; the next is "Mathame All Night Long" on Fri, 9 Oct 2026.
+Phantom, Paris is a music venue in Paris with 3 upcoming nights listed on soundcheck as of Mon, 27 Jul 2026; the next is "Mathame All Night Long" on Fri, 9 Oct 2026.
 
 Phantom, Paris is a music venue in Paris listed on soundcheck. 3 upcoming nights, with line-ups including Josh Baker, Mahmut Orhan and Mathame. Browse upcoming dates, start times and who's playing. 8 Bd de Bercy, 75012 Paris, France.
 
@@ -16,4 +16,4 @@ Phantom, Paris is a music venue in Paris listed on soundcheck. 3 upcoming nights
 
 8 Bd de Bercy, 75012 Paris, France, Paris
 
-*Updated Sun, 26 Jul 2026 · source: [soundcheck](https://soundcheck.club/paris/club/phantom-paris/)*
+*Updated Mon, 27 Jul 2026 · source: [soundcheck](https://soundcheck.club/paris/club/phantom-paris/)*

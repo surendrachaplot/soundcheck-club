@@ -1,6 +1,6 @@
 # Bulbul Berlin
 
-Bulbul Berlin is a music venue in Berlin with 15 upcoming nights listed on soundcheck as of Sun, 26 Jul 2026; the next is "FRESH FACES (FREE ENTRY): BECKSHAM, Diva International, Nightjet, VibeSelector" on Thu, 30 Jul 2026.
+Bulbul Berlin is a music venue in Berlin with 15 upcoming nights listed on soundcheck as of Mon, 27 Jul 2026; the next is "FRESH FACES (FREE ENTRY): BECKSHAM, Diva International, Nightjet, VibeSelector" on Thu, 30 Jul 2026.
 
 Bulbul Berlin is a music venue in Berlin listed on soundcheck. 15 upcoming nights, with line-ups including Agua con gas, Ahni, Anestis and Aria Santillana and 2 more. Browse upcoming dates, start times and who's playing. Skalitzer str. 114, 10999 Berlin, Germany.
 
@@ -23,4 +23,4 @@ Bulbul Berlin is a music venue in Berlin listed on soundcheck. 15 upcoming night
 
 Skalitzer str. 114, 10999 Berlin, Germany, Berlin
 
-*Updated Sun, 26 Jul 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/bulbul-berlin/)*
+*Updated Mon, 27 Jul 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/bulbul-berlin/)*

@@ -1,6 +1,6 @@
 # TBA - Studio Stereo, close to pl. Catalunya, 08007, Barcelona
 
-TBA - Studio Stereo, close to pl. Catalunya, 08007, Barcelona is a music venue in Barcelona with 26 upcoming nights listed on soundcheck as of Sun, 26 Jul 2026; the next is "Studio Stereo pres. Liquid Palms x Human Behaviour" on Thu, 30 Jul 2026.
+TBA - Studio Stereo, close to pl. Catalunya, 08007, Barcelona is a music venue in Barcelona with 26 upcoming nights listed on soundcheck as of Mon, 27 Jul 2026; the next is "Studio Stereo pres. Liquid Palms x Human Behaviour" on Thu, 30 Jul 2026.
 
 TBA - Studio Stereo, close to pl. Catalunya, 08007, Barcelona is a music venue in Barcelona listed on soundcheck. 26 upcoming nights, with line-ups including Adria (ES), Angel Sani, Arista and Breezy S and 2 more. Browse upcoming dates, start times and who's playing.
 
@@ -19,4 +19,4 @@ TBA - Studio Stereo, close to pl. Catalunya, 08007, Barcelona is a music venue i
 | Sat, 15 Aug 2026 | Studio Stereo pres. Cupula x 24Seven (until 4am) | Adria (ES), Diesco, Pau Rosés, Vince Void |
 | Thu, 20 Aug 2026 | Studio Stereo TBA (until 3am) |  |
 
-*Updated Sun, 26 Jul 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/tba-studio-stereo-close-to-pl-catalunya-08007-barcelona/)*
+*Updated Mon, 27 Jul 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/tba-studio-stereo-close-to-pl-catalunya-08007-barcelona/)*

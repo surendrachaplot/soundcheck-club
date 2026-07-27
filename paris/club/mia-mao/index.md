@@ -1,6 +1,6 @@
 # Mia Mao
 
-Mia Mao is a music venue in Paris with 11 upcoming nights listed on soundcheck as of Sun, 26 Jul 2026; the next is "THUNDER: IMHAPPY, Blaame, SLVL, HEARTREAVER & MORE" on Fri, 31 Jul 2026.
+Mia Mao is a music venue in Paris with 11 upcoming nights listed on soundcheck as of Mon, 27 Jul 2026; the next is "THUNDER: IMHAPPY, Blaame, SLVL, HEARTREAVER & MORE" on Fri, 31 Jul 2026.
 
 Mia Mao is a music venue in Paris listed on soundcheck. 11 upcoming nights, with line-ups including Amine S, Blaame, Camille Doe and Danny Wabbit and 2 more. Browse upcoming dates, start times and who's playing. 12a rue Ella Fitzgerald, 75019, Paris, FRANCE.
 
@@ -23,4 +23,4 @@ Mia Mao is a music venue in Paris listed on soundcheck. 11 upcoming nights, with
 
 12a rue Ella Fitzgerald, 75019, Paris, FRANCE, Paris
 
-*Updated Sun, 26 Jul 2026 · source: [soundcheck](https://soundcheck.club/paris/club/mia-mao/)*
+*Updated Mon, 27 Jul 2026 · source: [soundcheck](https://soundcheck.club/paris/club/mia-mao/)*

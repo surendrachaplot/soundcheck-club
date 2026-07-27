@@ -1,6 +1,6 @@
 # The Offbeat Bar
 
-The Offbeat Bar is a music venue in Los Angeles with 1 upcoming night listed on soundcheck as of Sun, 26 Jul 2026; the next is "Version Control with About Nothing, Dru, Motorist" on Wed, 29 Jul 2026.
+The Offbeat Bar is a music venue in Los Angeles with 1 upcoming night listed on soundcheck as of Mon, 27 Jul 2026; the next is "Version Control with About Nothing, Dru, Motorist" on Wed, 29 Jul 2026.
 
 The Offbeat Bar is a music venue in Losangeles listed on soundcheck. 1 upcoming night, with line-ups including Motorist. Browse upcoming dates, start times and who's playing. 6316 York Blvd, Los Angeles, California 90042.
 
@@ -14,4 +14,4 @@ The Offbeat Bar is a music venue in Losangeles listed on soundcheck. 1 upcoming 
 
 6316 York Blvd, Los Angeles, California 90042, Los Angeles
 
-*Updated Sun, 26 Jul 2026 · source: [soundcheck](https://soundcheck.club/losangeles/club/the-offbeat-bar/)*
+*Updated Mon, 27 Jul 2026 · source: [soundcheck](https://soundcheck.club/losangeles/club/the-offbeat-bar/)*

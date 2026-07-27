@@ -1,14 +1,13 @@
 # Octo Octa
 
-Octo Octa is a House and Techno artist with 13 upcoming club dates listed on soundcheck as of Sun, 26 Jul 2026, next at The White Hotel, Manchester on Sun, 26 Jul 2026.
+Octo Octa is a House and Techno artist with 12 upcoming club dates listed on soundcheck as of Mon, 27 Jul 2026, next at Amsterdamse Bos, Amsterdam on Wed, 29 Jul 2026.
 
-Octo Octa is a house and techno artist tracked on soundcheck, with 194 sets logged across Amsterdam, Antwerp, Bali and Barcelona and 55 more. Often billed alongside Eris Drew, CCL and Fafi Abdel Nour. Next up: The White Hotel, Manchester on Sun 26 Jul.
+Octo Octa is a house and techno artist tracked on soundcheck, with 194 sets logged across Amsterdam, Antwerp, Bali and Barcelona and 55 more. Often billed alongside Eris Drew, CCL and Fafi Abdel Nour. Next up: Amsterdamse Bos, Amsterdam on Wed 29 Jul.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sun, 26 Jul 2026 | The White Hotel | Manchester |
 | Wed, 29 Jul 2026 | Amsterdamse Bos | Amsterdam |
 | Sat, 1 Aug 2026 | Amsterdamse Bos | Amsterdam |
 | Sun, 2 Aug 2026 | Amsterdamse Bos | Amsterdam |
@@ -20,9 +19,11 @@ Octo Octa is a house and techno artist tracked on soundcheck, with 194 sets logg
 | Thu, 22 Oct 2026 | Pllek | Amsterdam |
 | Fri, 23 Oct 2026 | CLUB RAUM | Amsterdam |
 | Fri, 23 Oct 2026 | Het Rijk van de Keizer | Amsterdam |
+| Sat, 24 Oct 2026 | Bajes Amsterdam | Amsterdam |
 
 ## Recently played
 
+- The White Hotel, Manchester — Sun, 26 Jul 2026
 - Milandia, Zurich — Sat, 25 Jul 2026
 - Garchinger See, Munich — Sat, 18 Jul 2026
 - Ferropolis, Leipzig — Fri, 17 Jul 2026
@@ -30,10 +31,9 @@ Octo Octa is a house and techno artist tracked on soundcheck, with 194 sets logg
 - TBA - Paradise City Festival, Brussels — Fri, 26 Jun 2026
 - Zebbie's Garden, Washington DC — Sun, 21 Jun 2026
 - Sloterpark, Amsterdam — Sat, 20 Jun 2026
-- The Cause, London — Fri, 19 Jun 2026
 
 ## Shares bills with
 
 Eris Drew, CCL, Fafi Abdel Nour
 
-*Updated Sun, 26 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/octoocta/)*
+*Updated Mon, 27 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/octoocta/)*

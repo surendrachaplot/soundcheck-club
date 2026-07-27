@@ -1,8 +1,8 @@
 # Alexia Glensy
 
-Alexia Glensy is a House and Techno artist with 5 upcoming club dates listed on soundcheck as of Sun, 26 Jul 2026, next at Sloterpark, Amsterdam on Sat, 8 Aug 2026.
+Alexia Glensy is a House and Techno artist with 6 upcoming club dates listed on soundcheck as of Mon, 27 Jul 2026, next at Sloterpark, Amsterdam on Sat, 8 Aug 2026.
 
-Alexia Glensy is a house and techno artist tracked on soundcheck, with 161 sets logged across Amsterdam, Barcelona, Berlin and Boston and 33 more. Often billed alongside Alex Dima, Gabbs and Christian AB. Next up: Sloterpark, Amsterdam on Sat 8 Aug.
+Alexia Glensy is a house and techno artist tracked on soundcheck, with 162 sets logged across Amsterdam, Barcelona, Berlin and Boston and 33 more. Often billed alongside Alex Dima, Gabbs and Christian AB. Next up: Sloterpark, Amsterdam on Sat 8 Aug.
 
 ## Upcoming shows
 
@@ -13,6 +13,7 @@ Alexia Glensy is a house and techno artist tracked on soundcheck, with 161 sets 
 | Sat, 5 Sept 2026 | Night Tales | London |
 | Sat, 12 Sept 2026 | Bunker | Turin |
 | Fri, 23 Oct 2026 | Klaproos | Amsterdam |
+| Sun, 25 Oct 2026 | TBA | Amsterdam |
 
 ## Recently played
 
@@ -29,4 +30,4 @@ Alexia Glensy is a house and techno artist tracked on soundcheck, with 161 sets 
 
 Alex Dima, Gabbs, Christian AB
 
-*Updated Sun, 26 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/alexiaglensy/)*
+*Updated Mon, 27 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/alexiaglensy/)*

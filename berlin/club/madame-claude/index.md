@@ -1,6 +1,6 @@
 # Madame Claude
 
-Madame Claude is a music venue in Berlin with 4 upcoming nights listed on soundcheck as of Sun, 26 Jul 2026; the next is "Experimontag: JKZQ + Robin Becker + Luca Diebold with. DJ Forrest Gimp" on Mon, 27 Jul 2026.
+Madame Claude is a music venue in Berlin with 4 upcoming nights listed on soundcheck as of Mon, 27 Jul 2026; the next is "Experimontag: JKZQ + Robin Becker + Luca Diebold with. DJ Forrest Gimp" on Mon, 27 Jul 2026.
 
 Madame Claude is a music venue in Berlin listed on soundcheck. 4 upcoming nights, with line-ups including Hye-Eun Kim. Browse upcoming dates, start times and who's playing. Lübbener Str. 19, 10997 Berlin, Germany.
 
@@ -17,4 +17,4 @@ Madame Claude is a music venue in Berlin listed on soundcheck. 4 upcoming nights
 
 Lübbener Str. 19, 10997 Berlin, Germany, Berlin
 
-*Updated Sun, 26 Jul 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/madame-claude/)*
+*Updated Mon, 27 Jul 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/madame-claude/)*

@@ -1,6 +1,6 @@
 # Robert Drewek
 
-Robert Drewek is a House and Techno artist with 4 upcoming club dates listed on soundcheck as of Sun, 26 Jul 2026, next at Club der Visionaere, Berlin on Wed, 29 Jul 2026.
+Robert Drewek is a House and Techno artist with 4 upcoming club dates listed on soundcheck as of Mon, 27 Jul 2026, next at Club der Visionaere, Berlin on Wed, 29 Jul 2026.
 
 Robert Drewek is a house and techno artist tracked on soundcheck, with 108 sets logged across Antwerp, Barcelona, Berlin and Copenhagen and 10 more. Often billed alongside Matt Star, Move D and Meat. Next up: Club der Visionaere, Berlin on Wed 29 Jul.
 
@@ -28,4 +28,4 @@ Robert Drewek is a house and techno artist tracked on soundcheck, with 108 sets 
 
 Matt Star, Move D, Meat
 
-*Updated Sun, 26 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/robertdrewek/)*
+*Updated Mon, 27 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/robertdrewek/)*

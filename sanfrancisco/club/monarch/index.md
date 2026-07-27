@@ -1,6 +1,6 @@
 # Monarch
 
-Monarch is a music venue in San Francisco/Oakland with 6 upcoming nights listed on soundcheck as of Sun, 26 Jul 2026; the next is "TEED" on Fri, 31 Jul 2026.
+Monarch is a music venue in San Francisco/Oakland with 6 upcoming nights listed on soundcheck as of Mon, 27 Jul 2026; the next is "TEED" on Fri, 31 Jul 2026.
 
 Monarch is a music venue in Sanfrancisco listed on soundcheck. 6 upcoming nights, with line-ups including bastiengoat, DINABN, DJ Earth Angel and Linska and 2 more. Browse upcoming dates, start times and who's playing. 101 6th Street, San Francisco, CA 94103, United States.
 
@@ -19,4 +19,4 @@ Monarch is a music venue in Sanfrancisco listed on soundcheck. 6 upcoming nights
 
 101 6th Street, San Francisco, CA 94103, United States, San Francisco/Oakland
 
-*Updated Sun, 26 Jul 2026 · source: [soundcheck](https://soundcheck.club/sanfrancisco/club/monarch/)*
+*Updated Mon, 27 Jul 2026 · source: [soundcheck](https://soundcheck.club/sanfrancisco/club/monarch/)*

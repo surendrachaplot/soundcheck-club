@@ -1,6 +1,6 @@
 # Eiger Studios
 
-Eiger Studios is a music venue in Leeds with 6 upcoming nights listed on soundcheck as of Sun, 26 Jul 2026; the next is "Blowout UK: The Divided Kingdom Tour - Leeds" on Sat, 1 Aug 2026.
+Eiger Studios is a music venue in Leeds with 6 upcoming nights listed on soundcheck as of Mon, 27 Jul 2026; the next is "Blowout UK: The Divided Kingdom Tour - Leeds" on Sat, 1 Aug 2026.
 
 Eiger Studios is a music venue in Leeds listed on soundcheck. 6 upcoming nights, with line-ups including Chris I'Anson, FAUST (1), Gloria Rose and James Frances and 2 more. Browse upcoming dates, start times and who's playing. Unit 1, Fairfield House, New Craven Gate Industrial Estate, Leeds, LS11 5NF.
 
@@ -19,4 +19,4 @@ Eiger Studios is a music venue in Leeds listed on soundcheck. 6 upcoming nights,
 
 Unit 1, Fairfield House, New Craven Gate Industrial Estate, Leeds, LS11 5NF, Leeds
 
-*Updated Sun, 26 Jul 2026 · source: [soundcheck](https://soundcheck.club/leeds/club/eiger-studios/)*
+*Updated Mon, 27 Jul 2026 · source: [soundcheck](https://soundcheck.club/leeds/club/eiger-studios/)*

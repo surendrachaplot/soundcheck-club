@@ -1,14 +1,13 @@
 # Garage Noord
 
-Garage Noord is a music venue in Amsterdam with 13 upcoming nights listed on soundcheck as of Sun, 26 Jul 2026; the next is "NYEGE NYEGE X GARAGE FEST 2026 - WEEKENDER" on Sun, 26 Jul 2026.
+Garage Noord is a music venue in Amsterdam with 13 upcoming nights listed on soundcheck as of Mon, 27 Jul 2026; the next is "Dekmantel At Night - Friday" on Fri, 31 Jul 2026.
 
-Garage Noord is a music venue in Amsterdam listed on soundcheck. 13 upcoming nights, with line-ups including Akanbi, amara, Amz and baby ganoush and 2 more. Browse upcoming dates, start times and who's playing. Gedempt Hamerkanaal 40, 1012 KM Amsterdam.
+Garage Noord is a music venue in Amsterdam listed on soundcheck. 13 upcoming nights, with line-ups including 42nd Avenue, Akanbi, Akua and Amz and 2 more. Browse upcoming dates, start times and who's playing. Gedempt Hamerkanaal 40, 1012 KM Amsterdam.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Sun, 26 Jul 2026 | NYEGE NYEGE X GARAGE FEST 2026 - WEEKENDER | Amz, BARROSKINI, Elias Mazian, Garnett, Han, Hibotep, Jay Mitta, Kampire, Nsasi, Nèna, Regal86, Sandor, Sarkawt Hamad, State OFFF, Suzi Analogue, T.NO, Xexa, Yucky, amara |
 | Fri, 31 Jul 2026 | Dekmantel At Night - Friday | RHR, SHERELLE |
 | Sat, 1 Aug 2026 | Dekmantel At Night - Saturday | Amz, Mia Koden, Sir Spyro |
 | Sun, 2 Aug 2026 | Dekmantel At Night - Sunday | CCL, Verraco, dirtydms |
@@ -18,9 +17,10 @@ Garage Noord is a music venue in Amsterdam listed on soundcheck. 13 upcoming nig
 | Fri, 14 Aug 2026 | Cousin, baby ganoush b2b Nèna, Sandor | Cousin, Nèna, Sandor, baby ganoush |
 | Sat, 15 Aug 2026 | DJ Storm, lis, mul/ANNA + bar40 hosted by The Unktion 2: Accepting reality | DJ Storm (2), lis (5), mul/ANNA |
 | Fri, 21 Aug 2026 | co-curation by smother: smother, DJ MELL G, tba | DJ MELL G, smother |
+| Sat, 22 Aug 2026 | Luke Hess, Remma b2b Sarkawt Hamad + bar40 hosted by Piuma with GC (live), Helena Renedo, DHN | Luke Hess, Remma, Sarkawt Hamad |
 
 ## Address
 
 Gedempt Hamerkanaal 40, 1012 KM Amsterdam, Amsterdam
 
-*Updated Sun, 26 Jul 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/garage-noord/)*
+*Updated Mon, 27 Jul 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/garage-noord/)*

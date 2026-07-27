@@ -1,6 +1,6 @@
 # Club Cheek
 
-Club Cheek is a music venue in London with 7 upcoming nights listed on soundcheck as of Sun, 26 Jul 2026; the next is "Nowhere LDN [002] - Lil Silva Otherliine Oscar Farrell + Special Guests " on Thu, 30 Jul 2026.
+Club Cheek is a music venue in London with 7 upcoming nights listed on soundcheck as of Mon, 27 Jul 2026; the next is "Nowhere LDN [002] - Lil Silva Otherliine Oscar Farrell + Special Guests " on Thu, 30 Jul 2026.
 
 Club Cheek is a music venue in London listed on soundcheck. 7 upcoming nights, with line-ups including Ali Velmi, Anahita Shamsaei, Bluetoof and Bobby. and 2 more. Browse upcoming dates, start times and who's playing. 302-304 Barrington Road, London, SW9 7JJ.
 
@@ -20,4 +20,4 @@ Club Cheek is a music venue in London listed on soundcheck. 7 upcoming nights, w
 
 302-304 Barrington Road, London, SW9 7JJ, London
 
-*Updated Sun, 26 Jul 2026 · source: [soundcheck](https://soundcheck.club/london/club/club-cheek/)*
+*Updated Mon, 27 Jul 2026 · source: [soundcheck](https://soundcheck.club/london/club/club-cheek/)*

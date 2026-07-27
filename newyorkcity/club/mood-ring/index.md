@@ -1,6 +1,6 @@
 # Mood Ring
 
-Mood Ring is a music venue in New York City with 14 upcoming nights listed on soundcheck as of Sun, 26 Jul 2026; the next is "House of FLINTA*" on Wed, 29 Jul 2026.
+Mood Ring is a music venue in New York City with 14 upcoming nights listed on soundcheck as of Mon, 27 Jul 2026; the next is "House of FLINTA*" on Wed, 29 Jul 2026.
 
 Mood Ring is a music venue in Newyorkcity listed on soundcheck. 14 upcoming nights, with line-ups including A. Sarr, Atomheartmommy, Bodegaparty and Brant Wolff and 2 more. Browse upcoming dates, start times and who's playing. 1260 Myrtle Ave, Brooklyn, NY 11221, USA.
 
@@ -23,4 +23,4 @@ Mood Ring is a music venue in Newyorkcity listed on soundcheck. 14 upcoming nigh
 
 1260 Myrtle Ave, Brooklyn, NY 11221, USA, New York City
 
-*Updated Sun, 26 Jul 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/mood-ring/)*
+*Updated Mon, 27 Jul 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/mood-ring/)*

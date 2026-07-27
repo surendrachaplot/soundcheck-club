@@ -1,6 +1,6 @@
 # Margo XS
 
-Margo XS is a House and Club artist with 3 upcoming club dates listed on soundcheck as of Sun, 26 Jul 2026, next at Burgess Park, London on Sat, 8 Aug 2026.
+Margo XS is a House and Club artist with 3 upcoming club dates listed on soundcheck as of Mon, 27 Jul 2026, next at Burgess Park, London on Sat, 8 Aug 2026.
 
 Margo XS is a house and club artist tracked on soundcheck, with 20 sets logged across Barcelona, Berlin, London and Losangeles and 3 more. Often billed alongside DJ Gigola, ALCATRAZ and Goddollars. Next up: Burgess Park, London on Sat 8 Aug.
 
@@ -27,4 +27,4 @@ Margo XS is a house and club artist tracked on soundcheck, with 20 sets logged a
 
 DJ Gigola, ALCATRAZ, Goddollars
 
-*Updated Sun, 26 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/margoxs/)*
+*Updated Mon, 27 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/margoxs/)*

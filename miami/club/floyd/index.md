@@ -1,14 +1,13 @@
 # Floyd
 
-Floyd is a music venue in Miami with 15 upcoming nights listed on soundcheck as of Sun, 26 Jul 2026; the next is "House Hats: Murphy's Law" on Sun, 26 Jul 2026.
+Floyd is a music venue in Miami with 14 upcoming nights listed on soundcheck as of Mon, 27 Jul 2026; the next is "Cécille Showcase" on Fri, 31 Jul 2026.
 
-Floyd is a music venue in Miami listed on soundcheck. 15 upcoming nights, with line-ups including Alci, Ale Acosta, Ammo Avenue and Andrew Azara and 2 more. Browse upcoming dates, start times and who's playing. 34 NE 11th Street Miami, FL 33132.
+Floyd is a music venue in Miami listed on soundcheck. 14 upcoming nights, with line-ups including Alci, Ale Acosta, Ammo Avenue and Andrew Azara and 2 more. Browse upcoming dates, start times and who's playing. 34 NE 11th Street Miami, FL 33132.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Sun, 26 Jul 2026 | House Hats: Murphy's Law | MEGUSTA, Marte (US), Murphy's Law |
 | Fri, 31 Jul 2026 | Cécille Showcase | Andrew Azara, Lousy Lover, Ms. Mada, Nick Curly |
 | Sat, 1 Aug 2026 | Sistek | Nii Tei, SIEGEL (2), Sistek |
 | Sun, 2 Aug 2026 | Dan Molinari + Lucaz |  |
@@ -18,9 +17,10 @@ Floyd is a music venue in Miami listed on soundcheck. 15 upcoming nights, with l
 | Sat, 15 Aug 2026 | Save Our Souls: Voigtmann | Daizy, Mai iachetti, Voigtmann |
 | Sun, 16 Aug 2026 | getbusy presents: Kyle Walker | Kyle Walker |
 | Fri, 21 Aug 2026 | Leon Vynehall Invites: Aurora Halal | Aurora Halal, Leon Vynehall |
+| Sun, 23 Aug 2026 | Groovers Only: Classmatic + Alves | Classmatic |
 
 ## Address
 
 34 NE 11th Street Miami, FL 33132, Miami
 
-*Updated Sun, 26 Jul 2026 · source: [soundcheck](https://soundcheck.club/miami/club/floyd/)*
+*Updated Mon, 27 Jul 2026 · source: [soundcheck](https://soundcheck.club/miami/club/floyd/)*

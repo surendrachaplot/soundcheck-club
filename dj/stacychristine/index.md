@@ -1,6 +1,6 @@
 # Stacy Christine
 
-Stacy Christine is a House and Disco artist with 2 upcoming club dates listed on soundcheck as of Sun, 26 Jul 2026, next at Akbar, Los Angeles on Sun, 9 Aug 2026.
+Stacy Christine is a House and Disco artist with 2 upcoming club dates listed on soundcheck as of Mon, 27 Jul 2026, next at Akbar, Los Angeles on Sun, 9 Aug 2026.
 
 Stacy Christine is a house and disco artist tracked on soundcheck, with 117 sets logged across Barcelona, Detroit, London and Losangeles and 4 more. Often billed alongside Bears In Space, Perfect Lovers and Annika Wolfe. Next up: Akbar, Losangeles on Sun 9 Aug.
 
@@ -9,7 +9,7 @@ Stacy Christine is a house and disco artist tracked on soundcheck, with 117 sets
 | Date | Venue | City |
 | --- | --- | --- |
 | Sun, 9 Aug 2026 | Akbar | Los Angeles |
-| Sat, 5 Sept 2026 | The Bridge | Los Angeles |
+| Sat, 5 Sept 2026 | TBA - Open Air: Downtown Los Angeles | Los Angeles |
 
 ## Recently played
 
@@ -26,4 +26,4 @@ Stacy Christine is a house and disco artist tracked on soundcheck, with 117 sets
 
 Bears In Space, Perfect Lovers, Annika Wolfe
 
-*Updated Sun, 26 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/stacychristine/)*
+*Updated Mon, 27 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/stacychristine/)*

@@ -1,14 +1,15 @@
 # Samurai Breaks
 
-Samurai Breaks is a Jungle and Drum & Bass artist with 2 upcoming club dates listed on soundcheck as of Sun, 26 Jul 2026, next at Quarters, Brighton on Fri, 21 Aug 2026.
+Samurai Breaks is a Jungle and Drum & Bass artist with 3 upcoming club dates listed on soundcheck as of Mon, 27 Jul 2026, next at Quarters, Brighton on Fri, 21 Aug 2026.
 
-Samurai Breaks is a jungle and drum & bass artist tracked on soundcheck, with 101 sets logged across Amsterdam, Antwerp, Barcelona and Belfast and 24 more. Often billed alongside Napes, Mandidextrous and 4am Kru. Next up: Quarters, Brighton on Fri 21 Aug.
+Samurai Breaks is a jungle and drum & bass artist tracked on soundcheck, with 102 sets logged across Amsterdam, Antwerp, Barcelona and Belfast and 24 more. Often billed alongside Napes, Mandidextrous and 4am Kru. Next up: Quarters, Brighton on Fri 21 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 21 Aug 2026 | Quarters | Brighton |
+| Sat, 29 Aug 2026 | Chinese Laundry | Sydney |
 | Fri, 23 Oct 2026 | fabric | London |
 
 ## Recently played
@@ -26,4 +27,4 @@ Samurai Breaks is a jungle and drum & bass artist tracked on soundcheck, with 10
 
 Napes, Mandidextrous, 4am Kru
 
-*Updated Sun, 26 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/samuraibreaks/)*
+*Updated Mon, 27 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/samuraibreaks/)*

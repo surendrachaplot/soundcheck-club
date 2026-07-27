@@ -1,6 +1,6 @@
 # The Brooklyn Monarch
 
-The Brooklyn Monarch is a music venue in New York City with 3 upcoming nights listed on soundcheck as of Sun, 26 Jul 2026; the next is "Metrik & Grafix at the Brooklyn Monarch " on Fri, 14 Aug 2026.
+The Brooklyn Monarch is a music venue in New York City with 3 upcoming nights listed on soundcheck as of Mon, 27 Jul 2026; the next is "Metrik & Grafix at the Brooklyn Monarch " on Fri, 14 Aug 2026.
 
 The Brooklyn Monarch is a music venue in Newyorkcity listed on soundcheck. 3 upcoming nights, with line-ups including Clarisa Kimskii, Eric Umble, Georgie Riot and Grafix and 2 more. Browse upcoming dates, start times and who's playing. 23 Meadow Street, Brooklyn, NY 11206 USA.
 
@@ -16,4 +16,4 @@ The Brooklyn Monarch is a music venue in Newyorkcity listed on soundcheck. 3 upc
 
 23 Meadow Street, Brooklyn, NY 11206 USA, New York City
 
-*Updated Sun, 26 Jul 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/the-brooklyn-monarch/)*
+*Updated Mon, 27 Jul 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/the-brooklyn-monarch/)*

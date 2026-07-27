@@ -1,14 +1,13 @@
 # Yodo Groove (Yodobashi Ikebukuro)
 
-Yodo Groove (Yodobashi Ikebukuro) is a music venue in Tokyo with 6 upcoming nights listed on soundcheck as of Sun, 26 Jul 2026; the next is "Tokyo Rooftop Techno Experience at YODO GROOVE" on Sun, 26 Jul 2026.
+Yodo Groove (Yodobashi Ikebukuro) is a music venue in Tokyo with 5 upcoming nights listed on soundcheck as of Mon, 27 Jul 2026; the next is "Tokyo Rooftop House Music Sunset - DAISHI DANCE at YODO GROOVE" on Sat, 1 Aug 2026.
 
-Yodo Groove (Yodobashi Ikebukuro) is a music venue in Tokyo listed on soundcheck. 6 upcoming nights, with line-ups including ch1y0, Chika Luna, DJ SAWA and Drunken Kong and 2 more. Browse upcoming dates, start times and who's playing. Yodobashi HD Bldg., 1-28-1 Minamiikebukuro, Toshima-ku, Tokyo 171-8569, Japan.
+Yodo Groove (Yodobashi Ikebukuro) is a music venue in Tokyo listed on soundcheck. 5 upcoming nights, with line-ups including ch1y0, Chika Luna, DJ SAWA and Ken Ishii and 2 more. Browse upcoming dates, start times and who's playing. Yodobashi HD Bldg., 1-28-1 Minamiikebukuro, Toshima-ku, Tokyo 171-8569, Japan.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Sun, 26 Jul 2026 | Tokyo Rooftop Techno Experience at YODO GROOVE | Drunken Kong, Shogo Ito, Shun Mizuki, WAKA XINXI, Yamato |
 | Sat, 1 Aug 2026 | Tokyo Rooftop House Music Sunset - DAISHI DANCE at YODO GROOVE | Leon, PUNK N MATRIX, YOSHIMASA, ch1y0 |
 | Sun, 2 Aug 2026 | Escape the City – Tokyo Rooftop Sunset / Organic House & Progressive | Nanlaze, YOSHIMASA |
 | Sun, 9 Aug 2026 | Tokyo Sunset Rooftop Experience ft Ken Ishii | DJ SAWA, KENJI FURUYA, Ken Ishii, Ko Kimura |
@@ -19,4 +18,4 @@ Yodo Groove (Yodobashi Ikebukuro) is a music venue in Tokyo listed on soundcheck
 
 Yodobashi HD Bldg., 1-28-1 Minamiikebukuro, Toshima-ku, Tokyo 171-8569, Japan, Tokyo
 
-*Updated Sun, 26 Jul 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/yodo-groove-yodobashi-ikebukuro/)*
+*Updated Mon, 27 Jul 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/yodo-groove-yodobashi-ikebukuro/)*

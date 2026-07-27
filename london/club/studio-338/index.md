@@ -1,6 +1,6 @@
 # Studio 338
 
-Studio 338 is a music venue in London with 12 upcoming nights listed on soundcheck as of Sun, 26 Jul 2026; the next is "HOUSE IS A FEELING PRESENTS THE SUMMER SHAKE DOWN (shine 879 & ravedays)" on Sat, 1 Aug 2026.
+Studio 338 is a music venue in London with 12 upcoming nights listed on soundcheck as of Mon, 27 Jul 2026; the next is "HOUSE IS A FEELING PRESENTS THE SUMMER SHAKE DOWN (shine 879 & ravedays)" on Sat, 1 Aug 2026.
 
 Studio 338 is a music venue in London listed on soundcheck. 12 upcoming nights, with line-ups including Artful Dodger, David Morales, Donae'o and Master Stepz and 2 more. Browse upcoming dates, start times and who's playing. 338 Boord Street; Greenwich; London SE10 0PF; United Kingdom.
 
@@ -23,4 +23,4 @@ Studio 338 is a music venue in London listed on soundcheck. 12 upcoming nights, 
 
 338 Boord Street; Greenwich; London SE10 0PF; United Kingdom, London
 
-*Updated Sun, 26 Jul 2026 · source: [soundcheck](https://soundcheck.club/london/club/studio-338/)*
+*Updated Mon, 27 Jul 2026 · source: [soundcheck](https://soundcheck.club/london/club/studio-338/)*

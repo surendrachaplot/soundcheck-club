@@ -1,6 +1,6 @@
 # Javi Redondo
 
-Javi Redondo is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Sun, 26 Jul 2026, next at EL SÓTANO, Madrid on Sat, 22 Aug 2026.
+Javi Redondo is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Mon, 27 Jul 2026, next at EL SÓTANO, Madrid on Sat, 22 Aug 2026.
 
 Javi Redondo is a house and techno artist based in Spain, tracked on soundcheck, with 42 sets logged across Barcelona, Losangeles, Madrid and Mexicocity and 2 more. Often billed alongside Alvaro Cabana, Certain People and David Ponziano. Next up: EL SÓTANO, Madrid on Sat 22 Aug.
 
@@ -26,4 +26,4 @@ Javi Redondo is a house and techno artist based in Spain, tracked on soundcheck,
 
 Alvaro Cabana, Certain People, David Ponziano
 
-*Updated Sun, 26 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/javiredondo/)*
+*Updated Mon, 27 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/javiredondo/)*

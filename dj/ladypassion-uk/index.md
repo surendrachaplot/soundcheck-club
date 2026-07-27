@@ -1,6 +1,6 @@
 # Lady Passion
 
-Lady Passion is a Garage and House artist with 5 upcoming club dates listed on soundcheck as of Sun, 26 Jul 2026, next at Night Tales, London on Thu, 30 Jul 2026.
+Lady Passion is a Garage and House artist with 5 upcoming club dates listed on soundcheck as of Mon, 27 Jul 2026, next at Night Tales, London on Thu, 30 Jul 2026.
 
 Lady Passion is a garage and house artist tracked on soundcheck, with 70 sets logged across Amsterdam, Berlin, Bristol and Dublin and 7 more. Often billed alongside DJ Perception, Jeremy Sylvester and Neffa-T. Next up: Night Tales, London on Thu 30 Jul.
 
@@ -29,4 +29,4 @@ Lady Passion is a garage and house artist tracked on soundcheck, with 70 sets lo
 
 DJ Perception, Jeremy Sylvester, Neffa-T
 
-*Updated Sun, 26 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/ladypassion-uk/)*
+*Updated Mon, 27 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/ladypassion-uk/)*

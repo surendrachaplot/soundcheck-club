@@ -1,6 +1,6 @@
 # Nikki Nair
 
-Nikki Nair is a Techno and Bass artist with 4 upcoming club dates listed on soundcheck as of Sun, 26 Jul 2026, next at Circus Tokyo, Tokyo on Fri, 31 Jul 2026.
+Nikki Nair is a Techno and Bass artist with 4 upcoming club dates listed on soundcheck as of Mon, 27 Jul 2026, next at Circus Tokyo, Tokyo on Fri, 31 Jul 2026.
 
 Nikki Nair is a techno and bass artist based in United States of America, tracked on soundcheck, with 162 sets logged across Amsterdam, Antwerp, Auckland and Austin and 48 more. Often billed alongside Hudson Mohawke, DJ ADHD and Chloé Robinson. Next up: Circus Tokyo, Tokyo on Fri 31 Jul.
 
@@ -11,7 +11,7 @@ Nikki Nair is a techno and bass artist based in United States of America, tracke
 | Fri, 31 Jul 2026 | Circus Tokyo | Tokyo |
 | Sat, 1 Aug 2026 | Cakeshop | Seoul |
 | Fri, 7 Aug 2026 | TBA - Downtown Los Angeles | Los Angeles |
-| Sat, 5 Sept 2026 | The Bridge | Los Angeles |
+| Sat, 5 Sept 2026 | TBA - Open Air: Downtown Los Angeles | Los Angeles |
 
 ## Recently played
 
@@ -28,4 +28,4 @@ Nikki Nair is a techno and bass artist based in United States of America, tracke
 
 Hudson Mohawke, DJ ADHD, Chloé Robinson
 
-*Updated Sun, 26 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/nikkinair/)*
+*Updated Mon, 27 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/nikkinair/)*

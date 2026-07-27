@@ -1,6 +1,6 @@
 # migas, a listening bar
 
-migas, a listening bar is a music venue in Berlin with 1 upcoming night listed on soundcheck as of Sun, 26 Jul 2026; the next is "Oli Kristen plays at migas" on Fri, 31 Jul 2026.
+migas, a listening bar is a music venue in Berlin with 1 upcoming night listed on soundcheck as of Mon, 27 Jul 2026; the next is "Oli Kristen plays at migas" on Fri, 31 Jul 2026.
 
 migas, a listening bar is a music venue in Berlin listed on soundcheck. 1 upcoming night. Browse upcoming dates, start times and who's playing. Lindower Straße 19 13347 Berlin.
 
@@ -14,4 +14,4 @@ migas, a listening bar is a music venue in Berlin listed on soundcheck. 1 upcomi
 
 Lindower Straße 19 13347 Berlin, Berlin
 
-*Updated Sun, 26 Jul 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/migas-a-listening-bar/)*
+*Updated Mon, 27 Jul 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/migas-a-listening-bar/)*

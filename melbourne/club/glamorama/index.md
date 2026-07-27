@@ -1,6 +1,6 @@
 # Glamorama
 
-Glamorama is a music venue in Melbourne with 10 upcoming nights listed on soundcheck as of Sun, 26 Jul 2026; the next is "Interval - DJ JNETT + Ed Kent" on Fri, 31 Jul 2026.
+Glamorama is a music venue in Melbourne with 10 upcoming nights listed on soundcheck as of Mon, 27 Jul 2026; the next is "Interval - DJ JNETT + Ed Kent" on Fri, 31 Jul 2026.
 
 Glamorama is a music venue in Melbourne listed on soundcheck. 10 upcoming nights, with line-ups including A.Well, Dan Newman, DAYZZI and DJ JNETT and 2 more. Browse upcoming dates, start times and who's playing. 393 Brunswick street, Fitzroy, Victoria 3065.
 
@@ -23,4 +23,4 @@ Glamorama is a music venue in Melbourne listed on soundcheck. 10 upcoming nights
 
 393 Brunswick street, Fitzroy, Victoria 3065, Melbourne
 
-*Updated Sun, 26 Jul 2026 · source: [soundcheck](https://soundcheck.club/melbourne/club/glamorama/)*
+*Updated Mon, 27 Jul 2026 · source: [soundcheck](https://soundcheck.club/melbourne/club/glamorama/)*

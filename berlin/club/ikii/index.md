@@ -1,6 +1,6 @@
 # Ikii
 
-Ikii is a music venue in Berlin with 4 upcoming nights listed on soundcheck as of Sun, 26 Jul 2026; the next is "Community Open Decks : Add to Q" on Tue, 28 Jul 2026.
+Ikii is a music venue in Berlin with 4 upcoming nights listed on soundcheck as of Mon, 27 Jul 2026; the next is "Community Open Decks : Add to Q" on Tue, 28 Jul 2026.
 
 Ikii is a music venue in Berlin listed on soundcheck. 4 upcoming nights, with line-ups including azul, Delikwe, Delta Division and Fergus Clark and 2 more. Browse upcoming dates, start times and who's playing. Herrfurthplatz 8, 12049 Berlin, Germany.
 
@@ -17,4 +17,4 @@ Ikii is a music venue in Berlin listed on soundcheck. 4 upcoming nights, with li
 
 Herrfurthplatz 8, 12049 Berlin, Germany, Berlin
 
-*Updated Sun, 26 Jul 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/ikii/)*
+*Updated Mon, 27 Jul 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/ikii/)*

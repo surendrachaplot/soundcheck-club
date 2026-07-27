@@ -1,6 +1,6 @@
 # BENZA
 
-BENZA is a Techno and House artist with 4 upcoming club dates listed on soundcheck as of Sun, 26 Jul 2026, next at Solace, Melbourne on Thu, 30 Jul 2026.
+BENZA is a Techno and House artist with 4 upcoming club dates listed on soundcheck as of Mon, 27 Jul 2026, next at Solace, Melbourne on Thu, 30 Jul 2026.
 
 BENZA is a techno and house artist tracked on soundcheck, with 58 sets logged across Amsterdam, Belgrade, Berlin and Ghent and 12 more. Often billed alongside Vilchezz, JKS and NDSTPS. Next up: Solace, Melbourne on Thu 30 Jul.
 
@@ -28,4 +28,4 @@ BENZA is a techno and house artist tracked on soundcheck, with 58 sets logged ac
 
 Vilchezz, JKS, NDSTPS
 
-*Updated Sun, 26 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/benza/)*
+*Updated Mon, 27 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/benza/)*

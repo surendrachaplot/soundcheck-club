@@ -1,14 +1,13 @@
 # M7 Club
 
-M7 Club is a music venue in Barcelona with 9 upcoming nights listed on soundcheck as of Sun, 26 Jul 2026; the next is "UNITY [Estrada & Sergi Bdv]" on Sun, 26 Jul 2026.
+M7 Club is a music venue in Barcelona with 8 upcoming nights listed on soundcheck as of Mon, 27 Jul 2026; the next is "HARD BOUNCE [Lulo Obetko & Marc Fx]" on Thu, 30 Jul 2026.
 
-M7 Club is a music venue in Barcelona listed on soundcheck. 9 upcoming nights, with line-ups including Beto Delgado, DEBBIE (IT), DIDIXX and Dora Jeen and 2 more. Browse upcoming dates, start times and who's playing. Carrer de Mèxic, 7, 08004 Barcelona, Spain.
+M7 Club is a music venue in Barcelona listed on soundcheck. 8 upcoming nights, with line-ups including Beto Delgado, DEBBIE (IT), DIDIXX and Dora Jeen and 2 more. Browse upcoming dates, start times and who's playing. Carrer de Mèxic, 7, 08004 Barcelona, Spain.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Sun, 26 Jul 2026 | UNITY [Estrada & Sergi Bdv] |  |
 | Thu, 30 Jul 2026 | HARD BOUNCE [Lulo Obetko & Marc Fx] |  |
 | Fri, 31 Jul 2026 | M7 [Debbie, Neela & Claudixx] [Doppeltes Lottchen, Paulix & Laura SN] | DEBBIE (IT) |
 | Sat, 1 Aug 2026 | Psychotik, SuttleK, Darkcutz, Baph0999, Karel Blade & DIDIXX | DIDIXX, KARELBLADE, SuttleK |
@@ -22,4 +21,4 @@ M7 Club is a music venue in Barcelona listed on soundcheck. 9 upcoming nights, w
 
 Carrer de Mèxic, 7, 08004 Barcelona, Spain, Barcelona
 
-*Updated Sun, 26 Jul 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/m7-club/)*
+*Updated Mon, 27 Jul 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/m7-club/)*

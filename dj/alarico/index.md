@@ -1,8 +1,8 @@
 # Alarico
 
-Alarico is a Techno and House artist with 24 upcoming club dates listed on soundcheck as of Sun, 26 Jul 2026, next at TRANSMISSION DC, Washington DC on Thu, 30 Jul 2026.
+Alarico is a Techno and House artist with 25 upcoming club dates listed on soundcheck as of Mon, 27 Jul 2026, next at TRANSMISSION DC, Washington DC on Thu, 30 Jul 2026.
 
-Alarico is a techno and house artist tracked on soundcheck, with 260 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 68 more. Often billed alongside Chlär, Funk Assault and Yanamaste. Next up: TRANSMISSION DC, Washingtondc on Thu 30 Jul.
+Alarico is a techno and house artist tracked on soundcheck, with 261 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 68 more. Often billed alongside Chlär, Funk Assault and Yanamaste. Next up: TRANSMISSION DC, Washingtondc on Thu 30 Jul.
 
 ## Upcoming shows
 
@@ -36,4 +36,4 @@ Alarico is a techno and house artist tracked on soundcheck, with 260 sets logged
 
 Chlär, Funk Assault, Yanamaste
 
-*Updated Sun, 26 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/alarico/)*
+*Updated Mon, 27 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/alarico/)*

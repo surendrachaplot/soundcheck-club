@@ -1,6 +1,6 @@
 # Continental GT
 
-Continental GT is a Tech House and Deep House artist with 2 upcoming club dates listed on soundcheck as of Sun, 26 Jul 2026, next at The Warehouse, Leeds on Sat, 8 Aug 2026.
+Continental GT is a Tech House and Deep House artist with 2 upcoming club dates listed on soundcheck as of Mon, 27 Jul 2026, next at The Warehouse, Leeds on Sat, 8 Aug 2026.
 
 Continental GT is a tech house and deep house artist based in United Kingdom, tracked on soundcheck, with 32 sets logged across Amsterdam, Birmingham, Ibiza and Leeds and 2 more. Often billed alongside Sammy Porter, hitty and Brian Smith. Next up: The Warehouse, Leeds on Sat 8 Aug.
 
@@ -26,4 +26,4 @@ Continental GT is a tech house and deep house artist based in United Kingdom, tr
 
 Sammy Porter, hitty, Brian Smith
 
-*Updated Sun, 26 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/continentalgt/)*
+*Updated Mon, 27 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/continentalgt/)*

@@ -1,6 +1,6 @@
 # Selina (DE)
 
-Selina (DE) is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Sun, 26 Jul 2026, next at Club Frau Holle, Hamburg on Fri, 31 Jul 2026.
+Selina (DE) is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Mon, 27 Jul 2026, next at Club Frau Holle, Hamburg on Fri, 31 Jul 2026.
 
 Selina (DE) is a techno and house artist based in Germany, tracked on soundcheck, with 29 sets logged across Berlin, Hamburg and Munich. Often billed alongside Maltitz, GOME and Nikklaas. Next up: Club Frau Holle, Hamburg on Fri 31 Jul.
 
@@ -26,4 +26,4 @@ Selina (DE) is a techno and house artist based in Germany, tracked on soundcheck
 
 Maltitz, GOME, Nikklaas
 
-*Updated Sun, 26 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/selina-DE/)*
+*Updated Mon, 27 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/selina-DE/)*

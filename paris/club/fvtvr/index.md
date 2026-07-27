@@ -1,6 +1,6 @@
 # Fvtvr
 
-Fvtvr is a music venue in Paris with 10 upcoming nights listed on soundcheck as of Sun, 26 Jul 2026; the next is "LANNA SHOWCASE: Adriana Lopez, JAKO JAKO, Jheal BASHTA" on Fri, 31 Jul 2026.
+Fvtvr is a music venue in Paris with 10 upcoming nights listed on soundcheck as of Mon, 27 Jul 2026; the next is "LANNA SHOWCASE: Adriana Lopez, JAKO JAKO, Jheal BASHTA" on Fri, 31 Jul 2026.
 
 Fvtvr is a music venue in Paris listed on soundcheck. 10 upcoming nights, with line-ups including Adri, Adriana Lopez, Akaj and Alhena_ and 2 more. Browse upcoming dates, start times and who's playing. 34 quai d'Austerlitz, 75013 Paris.
 
@@ -23,4 +23,4 @@ Fvtvr is a music venue in Paris listed on soundcheck. 10 upcoming nights, with l
 
 34 quai d'Austerlitz, 75013 Paris, Paris
 
-*Updated Sun, 26 Jul 2026 · source: [soundcheck](https://soundcheck.club/paris/club/fvtvr/)*
+*Updated Mon, 27 Jul 2026 · source: [soundcheck](https://soundcheck.club/paris/club/fvtvr/)*

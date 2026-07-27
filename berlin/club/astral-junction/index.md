@@ -1,6 +1,6 @@
 # Astral Junction
 
-Astral Junction is a music venue in Berlin with 1 upcoming night listed on soundcheck as of Sun, 26 Jul 2026; the next is "NATURAL N.29 An Immersive 3D A/V Experience LIVE + A/V Art-Exhibition" on Wed, 29 Jul 2026.
+Astral Junction is a music venue in Berlin with 1 upcoming night listed on soundcheck as of Mon, 27 Jul 2026; the next is "NATURAL N.29 An Immersive 3D A/V Experience LIVE + A/V Art-Exhibition" on Wed, 29 Jul 2026.
 
 Astral Junction is a music venue in Berlin listed on soundcheck. 1 upcoming night, with line-ups including AMBIENTES KOLLEKTIV and Saumeth. Browse upcoming dates, start times and who's playing. Rigaer Str. 105, 10247 Berlin.
 
@@ -14,4 +14,4 @@ Astral Junction is a music venue in Berlin listed on soundcheck. 1 upcoming nigh
 
 Rigaer Str. 105, 10247 Berlin, Berlin
 
-*Updated Sun, 26 Jul 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/astral-junction/)*
+*Updated Mon, 27 Jul 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/astral-junction/)*

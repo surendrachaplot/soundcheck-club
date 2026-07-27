@@ -1,6 +1,6 @@
 # Le Trianon
 
-Le Trianon is a music venue in Paris with 1 upcoming night listed on soundcheck as of Sun, 26 Jul 2026; the next is "Eartheater + Rebeka Warrior" on Sun, 30 Aug 2026.
+Le Trianon is a music venue in Paris with 1 upcoming night listed on soundcheck as of Mon, 27 Jul 2026; the next is "Eartheater + Rebeka Warrior" on Sun, 30 Aug 2026.
 
 Le Trianon is a music venue in Paris listed on soundcheck. 1 upcoming night, with line-ups including Eartheater and Rebeka Warrior. Browse upcoming dates, start times and who's playing. 80 boulevard Rochechouart; 75018; Paris, France.
 
@@ -14,4 +14,4 @@ Le Trianon is a music venue in Paris listed on soundcheck. 1 upcoming night, wit
 
 80 boulevard Rochechouart; 75018; Paris, France, Paris
 
-*Updated Sun, 26 Jul 2026 · source: [soundcheck](https://soundcheck.club/paris/club/le-trianon/)*
+*Updated Mon, 27 Jul 2026 · source: [soundcheck](https://soundcheck.club/paris/club/le-trianon/)*

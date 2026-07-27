@@ -1,14 +1,13 @@
 # Golden Pudel Club
 
-Golden Pudel Club is a music venue in Hamburg with 6 upcoming nights listed on soundcheck as of Sun, 26 Jul 2026; the next is "INTER.FILE002" on Sun, 26 Jul 2026.
+Golden Pudel Club is a music venue in Hamburg with 5 upcoming nights listed on soundcheck as of Mon, 27 Jul 2026; the next is "Afrotonic" on Wed, 29 Jul 2026.
 
-Golden Pudel Club is a music venue in Hamburg listed on soundcheck. 6 upcoming nights, with line-ups including beccs, Boris Dlugosch, Carluschka and cmp (1) and 2 more. Browse upcoming dates, start times and who's playing. St. Pauli Fischmarkt 27; 20359 Hamburg; Germany.
+Golden Pudel Club is a music venue in Hamburg listed on soundcheck. 5 upcoming nights, with line-ups including beccs, Boris Dlugosch, Carluschka and cmp (1) and 2 more. Browse upcoming dates, start times and who's playing. St. Pauli Fischmarkt 27; 20359 Hamburg; Germany.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Sun, 26 Jul 2026 | INTER.FILE002 | Mugen (2), SUNS, eshot (DE), pruefunke |
 | Wed, 29 Jul 2026 | Afrotonic |  |
 | Thu, 30 Jul 2026 | 2 Girls 1 Club w/ carluschka, ALKARLINE, MATHILDA, beccs | ALKARLINE, Carluschka, Mathilda, beccs |
 | Fri, 31 Jul 2026 | Boris Dlugosch & Dietroiter | Boris Dlugosch, Dietroiter |
@@ -19,4 +18,4 @@ Golden Pudel Club is a music venue in Hamburg listed on soundcheck. 6 upcoming n
 
 St. Pauli Fischmarkt 27; 20359 Hamburg; Germany, Hamburg
 
-*Updated Sun, 26 Jul 2026 · source: [soundcheck](https://soundcheck.club/hamburg/club/golden-pudel-club/)*
+*Updated Mon, 27 Jul 2026 · source: [soundcheck](https://soundcheck.club/hamburg/club/golden-pudel-club/)*

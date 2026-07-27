@@ -1,6 +1,6 @@
 # H15 Scene & Studio
 
-H15 Scene & Studio is a music venue in Copenhagen with 7 upcoming nights listed on soundcheck as of Sun, 26 Jul 2026; the next is "Disco Go presents: Mad Flava" on Fri, 31 Jul 2026.
+H15 Scene & Studio is a music venue in Copenhagen with 7 upcoming nights listed on soundcheck as of Mon, 27 Jul 2026; the next is "Disco Go presents: Mad Flava" on Fri, 31 Jul 2026.
 
 H15 Scene & Studio is a music venue in Copenhagen listed on soundcheck. 7 upcoming nights, with line-ups including Anton Goltermann, Arto (2), Barbara Hryciuk and B From E and 2 more. Browse upcoming dates, start times and who's playing. Halmtorvet 15, 1715, Copenhagen.
 
@@ -20,4 +20,4 @@ H15 Scene & Studio is a music venue in Copenhagen listed on soundcheck. 7 upcomi
 
 Halmtorvet 15, 1715, Copenhagen, Copenhagen
 
-*Updated Sun, 26 Jul 2026 · source: [soundcheck](https://soundcheck.club/copenhagen/club/h15-scene-studio/)*
+*Updated Mon, 27 Jul 2026 · source: [soundcheck](https://soundcheck.club/copenhagen/club/h15-scene-studio/)*

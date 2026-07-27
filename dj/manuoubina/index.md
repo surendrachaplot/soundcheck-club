@@ -1,6 +1,6 @@
 # Manu Oubiña
 
-Manu Oubiña is a House and Electro artist with 2 upcoming club dates listed on soundcheck as of Sun, 26 Jul 2026, next at Dune Park, Buenos Aires on Sat, 1 Aug 2026.
+Manu Oubiña is a House and Electro artist with 2 upcoming club dates listed on soundcheck as of Mon, 27 Jul 2026, next at Dune Park, Buenos Aires on Sat, 1 Aug 2026.
 
 Manu Oubiña is a house and electro artist tracked on soundcheck, with 113 sets logged across Amsterdam, Barcelona, Berlin and Buenosaires and 6 more. Often billed alongside LUKAS (4), Guile and Medano. Next up: Dune Park, Buenosaires on Sat 1 Aug.
 
@@ -26,4 +26,4 @@ Manu Oubiña is a house and electro artist tracked on soundcheck, with 113 sets 
 
 LUKAS (4), Guile, Medano
 
-*Updated Sun, 26 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/manuoubina/)*
+*Updated Mon, 27 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/manuoubina/)*

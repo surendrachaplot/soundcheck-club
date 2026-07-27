@@ -1,6 +1,6 @@
 # High Note
 
-High Note is a music venue in Melbourne with 2 upcoming nights listed on soundcheck as of Sun, 26 Jul 2026; the next is "Holy Trinity pres. Grace Ferguson" on Thu, 6 Aug 2026.
+High Note is a music venue in Melbourne with 2 upcoming nights listed on soundcheck as of Mon, 27 Jul 2026; the next is "Holy Trinity pres. Grace Ferguson" on Thu, 6 Aug 2026.
 
 High Note is a music venue in Melbourne listed on soundcheck. 2 upcoming nights, with line-ups including Grace Ferguson. Browse upcoming dates, start times and who's playing. 220 High St, Northcote.
 
@@ -15,4 +15,4 @@ High Note is a music venue in Melbourne listed on soundcheck. 2 upcoming nights,
 
 220 High St, Northcote, Melbourne
 
-*Updated Sun, 26 Jul 2026 · source: [soundcheck](https://soundcheck.club/melbourne/club/high-note/)*
+*Updated Mon, 27 Jul 2026 · source: [soundcheck](https://soundcheck.club/melbourne/club/high-note/)*

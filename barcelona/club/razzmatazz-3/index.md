@@ -1,6 +1,6 @@
 # Razzmatazz 3
 
-Razzmatazz 3 is a music venue in Barcelona with 1 upcoming night listed on soundcheck as of Sun, 26 Jul 2026; the next is "BAHN· [/\·] Blazej Malinowski + Junsui (live) + Cyklos" on Sat, 15 Aug 2026.
+Razzmatazz 3 is a music venue in Barcelona with 1 upcoming night listed on soundcheck as of Mon, 27 Jul 2026; the next is "BAHN· [/\·] Blazej Malinowski + Junsui (live) + Cyklos" on Sat, 15 Aug 2026.
 
 Razzmatazz 3 is a music venue in Barcelona listed on soundcheck. 1 upcoming night, with line-ups including Blazej Malinowski and Cyklos. Browse upcoming dates, start times and who's playing. Calle Pamplona 88 Barcelona.
 
@@ -14,4 +14,4 @@ Razzmatazz 3 is a music venue in Barcelona listed on soundcheck. 1 upcoming nigh
 
 Calle Pamplona 88 Barcelona, Barcelona
 
-*Updated Sun, 26 Jul 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/razzmatazz-3/)*
+*Updated Mon, 27 Jul 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/razzmatazz-3/)*

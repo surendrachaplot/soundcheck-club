@@ -1,6 +1,6 @@
 # Zig Studio
 
-Zig Studio is a music venue in Sao Paulo with 1 upcoming night listed on soundcheck as of Sun, 26 Jul 2026; the next is "Homoteka C/ Vera Fischer Era Clubber (Ao Vivo) 1/8 Zigstudio" on Sat, 1 Aug 2026.
+Zig Studio is a music venue in Sao Paulo with 1 upcoming night listed on soundcheck as of Mon, 27 Jul 2026; the next is "Homoteka C/ Vera Fischer Era Clubber (Ao Vivo) 1/8 Zigstudio" on Sat, 1 Aug 2026.
 
 Zig Studio is a music venue in Saopaulo listed on soundcheck. 1 upcoming night. Browse upcoming dates, start times and who's playing. Av Pacaembu 33, São Paulo.
 
@@ -14,4 +14,4 @@ Zig Studio is a music venue in Saopaulo listed on soundcheck. 1 upcoming night. 
 
 Av Pacaembu 33, São Paulo, Sao Paulo
 
-*Updated Sun, 26 Jul 2026 · source: [soundcheck](https://soundcheck.club/saopaulo/club/zig-studio/)*
+*Updated Mon, 27 Jul 2026 · source: [soundcheck](https://soundcheck.club/saopaulo/club/zig-studio/)*

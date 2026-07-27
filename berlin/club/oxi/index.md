@@ -1,14 +1,13 @@
 # OXI
 
-OXI is a music venue in Berlin with 29 upcoming nights listed on soundcheck as of Sun, 26 Jul 2026; the next is "Hoe__mies PRIDE" on Sun, 26 Jul 2026.
+OXI is a music venue in Berlin with 28 upcoming nights listed on soundcheck as of Mon, 27 Jul 2026; the next is "✦encore.une.fois✦ / INDOOR RAVE + OPEN AIR CHILL GARDEN" on Tue, 28 Jul 2026.
 
-OXI is a music venue in Berlin listed on soundcheck. 29 upcoming nights, with line-ups including Alada, Alexander Kowalski, Alison Swing and Ana Molina and 2 more. Browse upcoming dates, start times and who's playing. Wiesenweg 1-4, 10365 Berlin.
+OXI is a music venue in Berlin listed on soundcheck. 28 upcoming nights, with line-ups including Alada, Alexander Kowalski, Alison Swing and Ana Molina and 2 more. Browse upcoming dates, start times and who's playing. Wiesenweg 1-4, 10365 Berlin.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Sun, 26 Jul 2026 | Hoe__mies PRIDE | Anita B Queen, Ase Manual, Asphodèle, BADSISTA, C.FRIM, Haus of Ralph, Kontronatura, Litney, MIRASIA, Nanoos, Saint Nia, TEDESCO, Trigger T |
 | Tue, 28 Jul 2026 | ✦encore.une.fois✦ / INDOOR RAVE + OPEN AIR CHILL GARDEN | BLACK ANTHEM RESTORE, Exos, KAMA, ZAKARE |
 | Thu, 30 Jul 2026 | [OPEN: 20:00h] OXI LIVE: MODULAR / SYNTHS - Amsterdam and Berlin | Chalita Claudine, Dave Mech, Jan Ritter, Jasmin Giovanazzi, Mattone, Sara Delirio, UniKhatu, s:mash |
 | Fri, 31 Jul 2026 | Down & Dirty - LESBERLIN Mud Wrestling Fundraiser | Trigger T |
@@ -18,9 +17,10 @@ OXI is a music venue in Berlin listed on soundcheck. 29 upcoming nights, with li
 | Tue, 4 Aug 2026 | ✦encore.une.fois✦ / INDOOR RAVE + OPEN AIR CHILL GARDEN | Blame The Mono, DJ SKIN, FILTRACK, JenTen |
 | Fri, 7 Aug 2026 | Swim Good featuring Isla Radio | Sonia Sol, Stimulus |
 | Sat, 8 Aug 2026 | GiB & Hakke Berlin pres - 'The HARDCORE Live Edition'  | Baptist (UK), DJ Steuerhinterziehung, Dagobird, Dj Cvntface, FLUCC, IceLipzz, LØUS, Osiris (2), Viscerale, daschka, m4tsch1 |
+| Sat, 8 Aug 2026 | OXI GARTEN 'OPEN AIR' W/ Alison Swing , Baroć , Andrea Zadro b2b DJ Haribo | Alison Swing, Andrea Zadro, Baroć, DJ Haribo |
 
 ## Address
 
 Wiesenweg 1-4, 10365 Berlin, Berlin
 
-*Updated Sun, 26 Jul 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/oxi/)*
+*Updated Mon, 27 Jul 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/oxi/)*

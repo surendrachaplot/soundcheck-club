@@ -1,6 +1,6 @@
 # Binh
 
-Binh is a Techno and House artist with 11 upcoming club dates listed on soundcheck as of Sun, 26 Jul 2026, next at Signal, New York City on Thu, 30 Jul 2026.
+Binh is a Techno and House artist with 11 upcoming club dates listed on soundcheck as of Mon, 27 Jul 2026, next at Signal, New York City on Thu, 30 Jul 2026.
 
 Binh is a techno and house artist tracked on soundcheck, with 192 sets logged across Amsterdam, Austin, Bali and Bangkok and 41 more. Often billed alongside DJ Masda, Nicolas Lutz and Francesco Del Garda. Next up: Signal, Newyorkcity on Thu 30 Jul.
 
@@ -35,4 +35,4 @@ Binh is a techno and house artist tracked on soundcheck, with 192 sets logged ac
 
 DJ Masda, Nicolas Lutz, Francesco Del Garda
 
-*Updated Sun, 26 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/binh/)*
+*Updated Mon, 27 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/binh/)*

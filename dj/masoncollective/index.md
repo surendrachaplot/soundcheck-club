@@ -1,8 +1,8 @@
 # Mason Collective
 
-Mason Collective is a Tech House and House artist with 10 upcoming club dates listed on soundcheck as of Sun, 26 Jul 2026, next at Malta Fairs & Conventions Centre, Malta on Sat, 1 Aug 2026.
+Mason Collective is a Tech House and House artist with 11 upcoming club dates listed on soundcheck as of Mon, 27 Jul 2026, next at Malta Fairs & Conventions Centre, Malta on Sat, 1 Aug 2026.
 
-Mason Collective is a tech house and house artist tracked on soundcheck, with 214 sets logged across Amsterdam, Barcelona, Basel and Birmingham and 36 more. Often billed alongside Jamie Jones, Franky Rizardo and Marco Carola. Next up: Malta Fairs & Conventions Centre, Malta on Sat 1 Aug.
+Mason Collective is a tech house and house artist tracked on soundcheck, with 215 sets logged across Amsterdam, Barcelona, Basel and Birmingham and 36 more. Often billed alongside Jamie Jones, Franky Rizardo and Marco Carola. Next up: Malta Fairs & Conventions Centre, Malta on Sat 1 Aug.
 
 ## Upcoming shows
 
@@ -18,6 +18,7 @@ Mason Collective is a tech house and house artist tracked on soundcheck, with 21
 | Thu, 8 Oct 2026 | Pacha Ibiza | Ibiza |
 | Wed, 21 Oct 2026 | A'DAM Toren | Amsterdam |
 | Sat, 24 Oct 2026 | GASHOUDER | Amsterdam |
+| Sun, 25 Oct 2026 | Madam | Amsterdam |
 
 ## Recently played
 
@@ -34,4 +35,4 @@ Mason Collective is a tech house and house artist tracked on soundcheck, with 21
 
 Jamie Jones, Franky Rizardo, Marco Carola
 
-*Updated Sun, 26 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/masoncollective/)*
+*Updated Mon, 27 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/masoncollective/)*

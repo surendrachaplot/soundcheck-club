@@ -1,6 +1,6 @@
 # H0NEYM00N at H0L0
 
-H0NEYM00N at H0L0 on Thu 6 Aug, Newyorkcity. 2 acts on the bill: g.io and Petal. Preview the line-up and save it on soundcheck.
+H0NEYM00N at H0L0 on Thu 6 Aug, Newyorkcity. 2 acts on the bill: g.io and Pètal. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -11,6 +11,6 @@ H0NEYM00N at H0L0 on Thu 6 Aug, Newyorkcity. 2 acts on the bill: g.io and Petal.
 ## Line-up
 
 - g.io
-- Petal
+- Pètal
 
 *Source: [soundcheck](https://soundcheck.club/e/2492799-h0neym00n-at-h0l0/)*

@@ -1,11 +1,11 @@
-# Studio Barnhus Summer Dance Party with Axel Boman, Kornel Kovacs, Nikki Nair at The Bridge
+# Studio Barnhus Summer Dance Party with Axel Boman, Kornel Kovacs, Nikki Nair at TBA - Open Air: Downtown Los Angeles
 
-Studio Barnhus Summer Dance Party with Axel Boman, Kornel Kovacs, Nikki Nair at The Bridge on Sat 5 Sept, Losangeles. 6 acts on the bill: Axel Boman, Kornél Kovács, Masha Mar and Nikki Nair and 2 more. House and Electronica. Preview the line-up and save it on soundcheck.
+Studio Barnhus Summer Dance Party with Axel Boman, Kornel Kovacs, Nikki Nair at TBA - Open Air: Downtown Los Angeles on Sat 5 Sept, Losangeles. 6 acts on the bill: Axel Boman, Kornél Kovács, Masha Mar and Nikki Nair and 2 more. House and Electronica. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
 | Date | Sat, 5 Sept 2026 |
-| Venue | The Bridge |
+| Venue | TBA - Open Air: Downtown Los Angeles |
 | City | Los Angeles |
 
 ## Line-up

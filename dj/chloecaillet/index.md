@@ -1,8 +1,8 @@
 # Chloé Caillet
 
-Chloé Caillet is a House and Techno artist with 9 upcoming club dates listed on soundcheck as of Sun, 26 Jul 2026, next at TBA - Paradies Garten Festival - Schloß Prugg 2, 2460 Gemeinde Bruck an der Leitha, Vienna on Fri, 31 Jul 2026.
+Chloé Caillet is a House and Techno artist with 10 upcoming club dates listed on soundcheck as of Mon, 27 Jul 2026, next at TBA - Paradies Garten Festival - Schloß Prugg 2, 2460 Gemeinde Bruck an der Leitha, Vienna on Fri, 31 Jul 2026.
 
-Chloé Caillet is a house and techno artist tracked on soundcheck, with 227 sets logged across Amsterdam, Athens, Barcelona and Belfast and 48 more. Often billed alongside DJ Tennis, Seth Troxler and Mochakk. Next up: TBA - Paradies Garten Festival - Schloß Prugg 2, 2460 Gemeinde Bruck an der Leitha, Vienna on Fri 31 Jul.
+Chloé Caillet is a house and techno artist tracked on soundcheck, with 228 sets logged across Amsterdam, Athens, Barcelona and Belfast and 48 more. Often billed alongside DJ Tennis, Seth Troxler and Mochakk. Next up: TBA - Paradies Garten Festival - Schloß Prugg 2, 2460 Gemeinde Bruck an der Leitha, Vienna on Fri 31 Jul.
 
 ## Upcoming shows
 
@@ -17,6 +17,7 @@ Chloé Caillet is a house and techno artist tracked on soundcheck, with 227 sets
 | Fri, 11 Sept 2026 | Palmerstown House Estate | Dublin |
 | Sat, 12 Sept 2026 | Auditorium Parco della Musica | Rome |
 | Sat, 3 Oct 2026 | Depot Mayfield | Manchester |
+| Sun, 25 Oct 2026 | Bajes Amsterdam | Amsterdam |
 
 ## Recently played
 
@@ -33,4 +34,4 @@ Chloé Caillet is a house and techno artist tracked on soundcheck, with 227 sets
 
 DJ Tennis, Seth Troxler, Mochakk
 
-*Updated Sun, 26 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/chloecaillet/)*
+*Updated Mon, 27 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/chloecaillet/)*

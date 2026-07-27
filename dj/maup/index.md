@@ -1,6 +1,6 @@
 # Mau P
 
-Mau P is a House and Tech House artist with 24 upcoming club dates listed on soundcheck as of Sun, 26 Jul 2026, next at Downsview Park, Toronto on Fri, 31 Jul 2026.
+Mau P is a House and Tech House artist with 24 upcoming club dates listed on soundcheck as of Mon, 27 Jul 2026, next at Downsview Park, Toronto on Fri, 31 Jul 2026.
 
 Mau P is a house and tech house artist tracked on soundcheck, with 153 sets logged across Amsterdam, Austin, Barcelona and Bristol and 35 more. Often billed alongside Joseph Capriati, Dom Dolla and Tini Gessler. Next up: Downsview Park, Toronto on Fri 31 Jul.
 
@@ -36,4 +36,4 @@ Mau P is a house and tech house artist tracked on soundcheck, with 153 sets logg
 
 Joseph Capriati, Dom Dolla, Tini Gessler
 
-*Updated Sun, 26 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/maup/)*
+*Updated Mon, 27 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/maup/)*

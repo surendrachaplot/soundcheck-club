@@ -1,6 +1,6 @@
 # Astra Kulturhaus
 
-Astra Kulturhaus is a music venue in Berlin with 2 upcoming nights listed on soundcheck as of Sun, 26 Jul 2026; the next is "ClickBAIT #2 - with Aexhy, Blame the Booker, Makinarium" on Fri, 31 Jul 2026.
+Astra Kulturhaus is a music venue in Berlin with 2 upcoming nights listed on soundcheck as of Mon, 27 Jul 2026; the next is "ClickBAIT #2 - with Aexhy, Blame the Booker, Makinarium" on Fri, 31 Jul 2026.
 
 Astra Kulturhaus is a music venue in Berlin listed on soundcheck. 2 upcoming nights, with line-ups including Aexhy, Baby Rocket, Blame the Booker and daschka and 2 more. Browse upcoming dates, start times and who's playing. Revaler Strasse 99; Friedrichshain; 10245 Berlin; Germany.
 
@@ -15,4 +15,4 @@ Astra Kulturhaus is a music venue in Berlin listed on soundcheck. 2 upcoming nig
 
 Revaler Strasse 99; Friedrichshain; 10245 Berlin; Germany, Berlin
 
-*Updated Sun, 26 Jul 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/astra-kulturhaus/)*
+*Updated Mon, 27 Jul 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/astra-kulturhaus/)*

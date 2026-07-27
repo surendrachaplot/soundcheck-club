@@ -1,6 +1,6 @@
 # De Sluwe Vos
 
-De Sluwe Vos is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Sun, 26 Jul 2026, next at TBA - Deventer Outdoor | Molbergsweg 3c , Amsterdam on Fri, 7 Aug 2026.
+De Sluwe Vos is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Mon, 27 Jul 2026, next at TBA - Deventer Outdoor | Molbergsweg 3c , Amsterdam on Fri, 7 Aug 2026.
 
 De Sluwe Vos is a house and techno artist based in Netherlands, tracked on soundcheck, with 87 sets logged across Amsterdam, Berlin, Rotterdam and Thehague and 1 more. Often billed alongside Benny Rodrigues, Locklead and Prunk. Next up: TBA - Deventer Outdoor | Molbergsweg 3c , Amsterdam on Fri 7 Aug.
 
@@ -27,4 +27,4 @@ De Sluwe Vos is a house and techno artist based in Netherlands, tracked on sound
 
 Benny Rodrigues, Locklead, Prunk
 
-*Updated Sun, 26 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/desluwevos/)*
+*Updated Mon, 27 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/desluwevos/)*

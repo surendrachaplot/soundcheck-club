@@ -1,6 +1,6 @@
 # Carluschka
 
-Carluschka is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Sun, 26 Jul 2026, next at Golden Pudel Club, Hamburg on Thu, 30 Jul 2026.
+Carluschka is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Mon, 27 Jul 2026, next at Golden Pudel Club, Hamburg on Thu, 30 Jul 2026.
 
 Carluschka is a techno and house artist based in Germany, tracked on soundcheck, with 117 sets logged across Berlin, Hamburg, Leipzig and Lisbon and 3 more. Often billed alongside BNZN, DJ Pinky Promise and Antonym. Next up: Golden Pudel Club, Hamburg on Thu 30 Jul.
 
@@ -27,4 +27,4 @@ Carluschka is a techno and house artist based in Germany, tracked on soundcheck,
 
 BNZN, DJ Pinky Promise, Antonym
 
-*Updated Sun, 26 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/carluschka/)*
+*Updated Mon, 27 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/carluschka/)*

@@ -1,8 +1,8 @@
 # FENIM0RE
 
-FENIM0RE is a Techno and Dub Techno artist with 5 upcoming club dates listed on soundcheck as of Sun, 26 Jul 2026, next at TBA - Near Berlin (Secret Forest), Berlin on Thu, 6 Aug 2026.
+FENIM0RE is a Techno and Dub Techno artist with 6 upcoming club dates listed on soundcheck as of Mon, 27 Jul 2026, next at TBA - Near Berlin (Secret Forest), Berlin on Thu, 6 Aug 2026.
 
-FENIM0RE is a techno and dub techno artist tracked on soundcheck, with 44 sets logged across Amsterdam, Antwerp, Athens and Berlin and 18 more. Often billed alongside Pōnky, future.666 and ÜBERKIKZ. Next up: TBA - Near Berlin (Secret Forest), Berlin on Thu 6 Aug.
+FENIM0RE is a techno and dub techno artist tracked on soundcheck, with 45 sets logged across Amsterdam, Antwerp, Athens and Berlin and 18 more. Often billed alongside ÜBERKIKZ, Pōnky and future.666. Next up: TBA - Near Berlin (Secret Forest), Berlin on Thu 6 Aug.
 
 ## Upcoming shows
 
@@ -13,6 +13,7 @@ FENIM0RE is a techno and dub techno artist tracked on soundcheck, with 44 sets l
 | Wed, 12 Aug 2026 | Gianpula Village | Malta |
 | Sat, 12 Sept 2026 | TILLATEC | Amsterdam |
 | Fri, 18 Sept 2026 | BASIS | Utrecht |
+| Sun, 25 Oct 2026 | RADION | Amsterdam |
 
 ## Recently played
 
@@ -27,6 +28,6 @@ FENIM0RE is a techno and dub techno artist tracked on soundcheck, with 44 sets l
 
 ## Shares bills with
 
-Pōnky, future.666, ÜBERKIKZ
+ÜBERKIKZ, Pōnky, future.666
 
-*Updated Sun, 26 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/fenim0re/)*
+*Updated Mon, 27 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/fenim0re/)*

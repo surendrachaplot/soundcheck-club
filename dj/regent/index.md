@@ -1,6 +1,6 @@
 # Regent
 
-Regent is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Sun, 26 Jul 2026, next at KREUZWERK, Berlin on Sun, 16 Aug 2026.
+Regent is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Mon, 27 Jul 2026, next at KREUZWERK, Berlin on Sun, 16 Aug 2026.
 
 Regent is a techno and house artist tracked on soundcheck, with 36 sets logged across Amsterdam, Bali, Berlin and Dublin and 11 more. Often billed alongside SHDW, Chontane and Hemka. Next up: KREUZWERK, Berlin on Sun 16 Aug.
 
@@ -26,4 +26,4 @@ Regent is a techno and house artist tracked on soundcheck, with 36 sets logged a
 
 SHDW, Chontane, Hemka
 
-*Updated Sun, 26 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/regent/)*
+*Updated Mon, 27 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/regent/)*

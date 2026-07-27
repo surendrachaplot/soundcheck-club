@@ -1,6 +1,6 @@
 # Virage
 
-Virage is a music venue in Paris with 17 upcoming nights listed on soundcheck as of Sun, 26 Jul 2026; the next is "2222: DJ ANGEL BIRTHDAY x Le Virage du Mercredi" on Wed, 29 Jul 2026.
+Virage is a music venue in Paris with 17 upcoming nights listed on soundcheck as of Mon, 27 Jul 2026; the next is "2222: DJ ANGEL BIRTHDAY x Le Virage du Mercredi" on Wed, 29 Jul 2026.
 
 Virage is a music venue in Paris listed on soundcheck. 17 upcoming nights, with line-ups including abs8lute, aerodynamisme, Ahadadream and Amina and 2 more. Browse upcoming dates, start times and who's playing. 26 rue Hélène-et-François Missoffe.
 
@@ -23,4 +23,4 @@ Virage is a music venue in Paris listed on soundcheck. 17 upcoming nights, with 
 
 26 rue Hélène-et-François Missoffe, Paris
 
-*Updated Sun, 26 Jul 2026 · source: [soundcheck](https://soundcheck.club/paris/club/virage/)*
+*Updated Mon, 27 Jul 2026 · source: [soundcheck](https://soundcheck.club/paris/club/virage/)*

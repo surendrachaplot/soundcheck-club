@@ -1,6 +1,6 @@
 # Choukroun
 
-Choukroun is a House and Techno artist with 4 upcoming club dates listed on soundcheck as of Sun, 26 Jul 2026, next at TBA - East Williamsburg, New York City on Fri, 31 Jul 2026.
+Choukroun is a House and Techno artist with 4 upcoming club dates listed on soundcheck as of Mon, 27 Jul 2026, next at TBA - East Williamsburg, New York City on Fri, 31 Jul 2026.
 
 Choukroun is a house and techno artist based in United States of America, tracked on soundcheck, with 103 sets logged across Miami and Newyorkcity. Often billed alongside Armii1n, Zayd and Monk (2). Next up: TBA - East Williamsburg, Newyorkcity on Fri 31 Jul.
 
@@ -28,4 +28,4 @@ Choukroun is a house and techno artist based in United States of America, tracke
 
 Armii1n, Zayd, Monk (2)
 
-*Updated Sun, 26 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/choukroun/)*
+*Updated Mon, 27 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/choukroun/)*

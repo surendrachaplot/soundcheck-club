@@ -1,6 +1,6 @@
 # Guile
 
-Guile is a House and Electro artist with 2 upcoming club dates listed on soundcheck as of Sun, 26 Jul 2026, next at La Fábrica de Hielo, Valencia on Sat, 15 Aug 2026.
+Guile is a House and Electro artist with 2 upcoming club dates listed on soundcheck as of Mon, 27 Jul 2026, next at La Fábrica de Hielo, Valencia on Sat, 15 Aug 2026.
 
 Guile is a house and electro artist tracked on soundcheck, with 27 sets logged across Amsterdam, Barcelona, Berlin and Buenosaires and 2 more. Often billed alongside Manu Oubiña, LUKAS (4) and Edu C. Next up: La Fábrica de Hielo, Valencia on Sat 15 Aug.
 
@@ -26,4 +26,4 @@ Guile is a house and electro artist tracked on soundcheck, with 27 sets logged a
 
 Manu Oubiña, LUKAS (4), Edu C
 
-*Updated Sun, 26 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/guile/)*
+*Updated Mon, 27 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/guile/)*

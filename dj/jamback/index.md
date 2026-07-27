@@ -1,6 +1,6 @@
 # Jamback
 
-Jamback is a House and Tech House artist with 13 upcoming club dates listed on soundcheck as of Sun, 26 Jul 2026, next at DC-10, Ibiza on Mon, 27 Jul 2026.
+Jamback is a House and Tech House artist with 13 upcoming club dates listed on soundcheck as of Mon, 27 Jul 2026, next at DC-10, Ibiza on Mon, 27 Jul 2026.
 
 Jamback is a house and tech house artist tracked on soundcheck, with 173 sets logged across Amsterdam, Antwerp, Austin and Barcelona and 36 more. Often billed alongside East End Dubs, Marsolo and ALISHA. Next up: DC-10, Ibiza on Mon 27 Jul.
 
@@ -36,4 +36,4 @@ Jamback is a house and tech house artist tracked on soundcheck, with 173 sets lo
 
 East End Dubs, Marsolo, ALISHA
 
-*Updated Sun, 26 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/jamback/)*
+*Updated Mon, 27 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/jamback/)*

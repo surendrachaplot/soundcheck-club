@@ -1,6 +1,6 @@
 # LAUT
 
-LAUT is a music venue in Barcelona with 12 upcoming nights listed on soundcheck as of Sun, 26 Jul 2026; the next is "Dafunkas B2B Subradeon" on Fri, 31 Jul 2026.
+LAUT is a music venue in Barcelona with 12 upcoming nights listed on soundcheck as of Mon, 27 Jul 2026; the next is "Dafunkas B2B Subradeon" on Fri, 31 Jul 2026.
 
 LAUT is a music venue in Barcelona listed on soundcheck. 12 upcoming nights, with line-ups including ABSIS, Alderaan, Aura Nox and Breezy S and 2 more. Browse upcoming dates, start times and who's playing. Carrer de Vila i Vilà, 63, 08004 Barcelona, Spain.
 
@@ -23,4 +23,4 @@ LAUT is a music venue in Barcelona listed on soundcheck. 12 upcoming nights, wit
 
 Carrer de Vila i Vilà, 63, 08004 Barcelona, Spain, Barcelona
 
-*Updated Sun, 26 Jul 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/laut/)*
+*Updated Mon, 27 Jul 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/laut/)*

@@ -1,6 +1,6 @@
 # Headrow House
 
-Headrow House is a music venue in Leeds with 10 upcoming nights listed on soundcheck as of Sun, 26 Jul 2026; the next is "Everything Everything DJ Set" on Fri, 31 Jul 2026.
+Headrow House is a music venue in Leeds with 10 upcoming nights listed on soundcheck as of Mon, 27 Jul 2026; the next is "Everything Everything DJ Set" on Fri, 31 Jul 2026.
 
 Headrow House is a music venue in Leeds listed on soundcheck. 10 upcoming nights, with line-ups including 3PM RECORDS, Fentonffp, Ms Ray and Partridge. Browse upcoming dates, start times and who's playing. Bramleys Yard, 19 The Headrow, Leeds, LS1 6PU, United Kingdom.
 
@@ -23,4 +23,4 @@ Headrow House is a music venue in Leeds listed on soundcheck. 10 upcoming nights
 
 Bramleys Yard, 19 The Headrow, Leeds, LS1 6PU, United Kingdom, Leeds
 
-*Updated Sun, 26 Jul 2026 · source: [soundcheck](https://soundcheck.club/leeds/club/headrow-house/)*
+*Updated Mon, 27 Jul 2026 · source: [soundcheck](https://soundcheck.club/leeds/club/headrow-house/)*

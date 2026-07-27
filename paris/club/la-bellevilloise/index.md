@@ -1,6 +1,6 @@
 # La Bellevilloise
 
-La Bellevilloise is a music venue in Paris with 1 upcoming night listed on soundcheck as of Sun, 26 Jul 2026; the next is "La Mona Avec Coflo" on Sat, 26 Sept 2026.
+La Bellevilloise is a music venue in Paris with 1 upcoming night listed on soundcheck as of Mon, 27 Jul 2026; the next is "La Mona Avec Coflo" on Sat, 26 Sept 2026.
 
 La Bellevilloise is a music venue in Paris listed on soundcheck. 1 upcoming night, with line-ups including Coflo and Nick V. Browse upcoming dates, start times and who's playing. 19-21 rue Boyer; 75020; Paris; France.
 
@@ -14,4 +14,4 @@ La Bellevilloise is a music venue in Paris listed on soundcheck. 1 upcoming nigh
 
 19-21 rue Boyer; 75020; Paris; France, Paris
 
-*Updated Sun, 26 Jul 2026 · source: [soundcheck](https://soundcheck.club/paris/club/la-bellevilloise/)*
+*Updated Mon, 27 Jul 2026 · source: [soundcheck](https://soundcheck.club/paris/club/la-bellevilloise/)*

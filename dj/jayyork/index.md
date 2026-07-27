@@ -1,6 +1,6 @@
 # jay york
 
-jay york is a Techno and Minimal Techno artist with 2 upcoming club dates listed on soundcheck as of Sun, 26 Jul 2026, next at Industry City, New York City on Sat, 5 Sept 2026.
+jay york is a Techno and Minimal Techno artist with 2 upcoming club dates listed on soundcheck as of Mon, 27 Jul 2026, next at Industry City, New York City on Sat, 5 Sept 2026.
 
 jay york is a techno and minimal techno artist tracked on soundcheck, with 66 sets logged across Berlin, Boston, Chicago and Denver and 9 more. Often billed alongside Barbosa, Decoder and Adrian Hex. Next up: Industry City, Newyorkcity on Sat 5 Sept.
 
@@ -26,4 +26,4 @@ jay york is a techno and minimal techno artist tracked on soundcheck, with 66 se
 
 Barbosa, Decoder, Adrian Hex
 
-*Updated Sun, 26 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/jayyork/)*
+*Updated Mon, 27 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/jayyork/)*

@@ -1,6 +1,6 @@
 # DJ Marky
 
-DJ Marky is a Drum & Bass and House artist with 2 upcoming club dates listed on soundcheck as of Sun, 26 Jul 2026, next at Hackney Wick Multiple Venues, London on Sat, 1 Aug 2026.
+DJ Marky is a Drum & Bass and House artist with 2 upcoming club dates listed on soundcheck as of Mon, 27 Jul 2026, next at Hackney Wick Multiple Venues, London on Sat, 1 Aug 2026.
 
 DJ Marky is a drum & bass and house artist tracked on soundcheck, with 97 sets logged across Barcelona, Belfast, Berlin and Birmingham and 18 more. Often billed alongside MC GQ, Makoto and SP:MC. Next up: Hackney Wick Multiple Venues, London on Sat 1 Aug.
 
@@ -26,4 +26,4 @@ DJ Marky is a drum & bass and house artist tracked on soundcheck, with 97 sets l
 
 MC GQ, Makoto, SP:MC
 
-*Updated Sun, 26 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/djmarky/)*
+*Updated Mon, 27 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/djmarky/)*

@@ -1,6 +1,6 @@
 # DJ Sveta
 
-DJ Sveta is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Sun, 26 Jul 2026, next at Club 77, Sydney on Sun, 23 Aug 2026.
+DJ Sveta is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Mon, 27 Jul 2026, next at Club 77, Sydney on Sun, 23 Aug 2026.
 
 DJ Sveta is a house and techno artist based in Australia, tracked on soundcheck, with 24 sets logged across Hobart, Melbourne and Sydney. Often billed alongside Magda Bytnerowicz, Rakish and Estée Louder. Next up: Club 77, Sydney on Sun 23 Aug.
 
@@ -26,4 +26,4 @@ DJ Sveta is a house and techno artist based in Australia, tracked on soundcheck,
 
 Magda Bytnerowicz, Rakish, Estée Louder
 
-*Updated Sun, 26 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/djsveta/)*
+*Updated Mon, 27 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/djsveta/)*

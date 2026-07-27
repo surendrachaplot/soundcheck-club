@@ -1,6 +1,6 @@
 # KEI_DJ
 
-KEI_DJ is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Sun, 26 Jul 2026, next at Aoyama Hachi, Tokyo on Tue, 28 Jul 2026.
+KEI_DJ is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Mon, 27 Jul 2026, next at Aoyama Hachi, Tokyo on Tue, 28 Jul 2026.
 
 KEI_DJ is a techno and house artist based in Japan, tracked on soundcheck, with 9 sets logged across Tokyo. Often billed alongside edge, MOTOKA and 北極 / Ali NM. Next up: Aoyama Hachi, Tokyo on Tue 28 Jul.
 
@@ -25,4 +25,4 @@ KEI_DJ is a techno and house artist based in Japan, tracked on soundcheck, with 
 
 edge, MOTOKA, 北極 / Ali NM
 
-*Updated Sun, 26 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/kei_dj/)*
+*Updated Mon, 27 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/kei_dj/)*

@@ -1,6 +1,6 @@
 # A L P H A B E T
 
-A L P H A B E T is a music venue in Brighton with 5 upcoming nights listed on soundcheck as of Sun, 26 Jul 2026; the next is "The Lizard Queen presents: Club Cold Blood (Pre Pride Party)" on Fri, 31 Jul 2026.
+A L P H A B E T is a music venue in Brighton with 5 upcoming nights listed on soundcheck as of Mon, 27 Jul 2026; the next is "The Lizard Queen presents: Club Cold Blood (Pre Pride Party)" on Fri, 31 Jul 2026.
 
 A L P H A B E T is a music venue in Brighton listed on soundcheck. 5 upcoming nights, with line-ups including Alena Arpels, Florence., Sissy Cinnamon and Spinks and 1 more. Browse upcoming dates, start times and who's playing. 11 Dyke Road.  Brighton.  BN1 3FE.  UK..
 
@@ -18,4 +18,4 @@ A L P H A B E T is a music venue in Brighton listed on soundcheck. 5 upcoming ni
 
 11 Dyke Road.  Brighton.  BN1 3FE.  UK., Brighton
 
-*Updated Sun, 26 Jul 2026 · source: [soundcheck](https://soundcheck.club/brighton/club/a-l-p-h-a-b-e-t/)*
+*Updated Mon, 27 Jul 2026 · source: [soundcheck](https://soundcheck.club/brighton/club/a-l-p-h-a-b-e-t/)*

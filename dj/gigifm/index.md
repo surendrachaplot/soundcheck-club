@@ -1,6 +1,6 @@
 # GiGi FM
 
-GiGi FM is a Techno and House artist with 11 upcoming club dates listed on soundcheck as of Sun, 26 Jul 2026, next at Amsterdamse Bos, Amsterdam on Wed, 29 Jul 2026.
+GiGi FM is a Techno and House artist with 11 upcoming club dates listed on soundcheck as of Mon, 27 Jul 2026, next at Amsterdamse Bos, Amsterdam on Wed, 29 Jul 2026.
 
 GiGi FM is a techno and house artist tracked on soundcheck, with 159 sets logged across Amsterdam, Antwerp, Athens and Bangkok and 47 more. Often billed alongside Altinbas, Polygonia and DVS1. Next up: Amsterdamse Bos, Amsterdam on Wed 29 Jul.
 
@@ -35,4 +35,4 @@ GiGi FM is a techno and house artist tracked on soundcheck, with 159 sets logged
 
 Altinbas, Polygonia, DVS1
 
-*Updated Sun, 26 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/gigifm/)*
+*Updated Mon, 27 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/gigifm/)*

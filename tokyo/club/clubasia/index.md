@@ -1,6 +1,6 @@
 # clubasia
 
-clubasia is a music venue in Tokyo with 7 upcoming nights listed on soundcheck as of Sun, 26 Jul 2026; the next is "'EXODUS' 5th Anniversary｜vol.243" on Wed, 29 Jul 2026.
+clubasia is a music venue in Tokyo with 7 upcoming nights listed on soundcheck as of Mon, 27 Jul 2026; the next is "'EXODUS' 5th Anniversary｜vol.243" on Wed, 29 Jul 2026.
 
 clubasia is a music venue in Tokyo listed on soundcheck. 7 upcoming nights, with line-ups including Andrew (TREKKIE TRAX), CYBERHACKSYSTEM, ecec and egomania and 2 more. Browse upcoming dates, start times and who's playing. 1-8 Maruyamacho, Shibuya-ku, Tokyo, 150-0044 Japan.
 
@@ -20,4 +20,4 @@ clubasia is a music venue in Tokyo listed on soundcheck. 7 upcoming nights, with
 
 1-8 Maruyamacho, Shibuya-ku, Tokyo, 150-0044 Japan, Tokyo
 
-*Updated Sun, 26 Jul 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/clubasia/)*
+*Updated Mon, 27 Jul 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/clubasia/)*

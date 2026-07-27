@@ -1,14 +1,13 @@
 # BCM
 
-BCM is a music venue in Mallorca with 38 upcoming nights listed on soundcheck as of Sun, 26 Jul 2026; the next is "Ewan McVicar" on Sun, 26 Jul 2026.
+BCM is a music venue in Mallorca with 37 upcoming nights listed on soundcheck as of Mon, 27 Jul 2026; the next is "VEGEDREAM" on Mon, 27 Jul 2026.
 
-BCM is a music venue in Mallorca listed on soundcheck. 38 upcoming nights, with line-ups including AARON SEVILLA, Antdot, Bob Sinclar and DJ Snake and 2 more. Browse upcoming dates, start times and who's playing. BCM Complex Avda, S'Olivera s/n Magalluf, Calvia, 07182 Palma de Mallorca, Spain.
+BCM is a music venue in Mallorca listed on soundcheck. 37 upcoming nights, with line-ups including AARON SEVILLA, Antdot, Bob Sinclar and DJ Snake and 2 more. Browse upcoming dates, start times and who's playing. BCM Complex Avda, S'Olivera s/n Magalluf, Calvia, 07182 Palma de Mallorca, Spain.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Sun, 26 Jul 2026 | Ewan McVicar | Ewan McVicar |
 | Mon, 27 Jul 2026 | VEGEDREAM |  |
 | Tue, 28 Jul 2026 | Rossi | Rossi |
 | Wed, 29 Jul 2026 | TONY EFFE |  |
@@ -18,9 +17,10 @@ BCM is a music venue in Mallorca listed on soundcheck. 38 upcoming nights, with 
 | Mon, 3 Aug 2026 | SUPERLOVE LATIN DANCE |  |
 | Tue, 4 Aug 2026 | Morgan Seatree | Morgan Seatree |
 | Wed, 5 Aug 2026 | Anna - Cristian Marchi |  |
+| Thu, 6 Aug 2026 | DJ Snake | DJ Snake |
 
 ## Address
 
 BCM Complex Avda, S'Olivera s/n Magalluf, Calvia, 07182 Palma de Mallorca, Spain, Mallorca
 
-*Updated Sun, 26 Jul 2026 · source: [soundcheck](https://soundcheck.club/mallorca/club/bcm/)*
+*Updated Mon, 27 Jul 2026 · source: [soundcheck](https://soundcheck.club/mallorca/club/bcm/)*

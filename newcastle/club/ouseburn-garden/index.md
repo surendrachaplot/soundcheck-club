@@ -1,6 +1,6 @@
 # Ouseburn Garden
 
-Ouseburn Garden is a music venue in Newcastle with 10 upcoming nights listed on soundcheck as of Sun, 26 Jul 2026; the next is "Krazed w/ Scritts B2B Neenzy, DJ Royal Mail B2B PB Donk" on Fri, 31 Jul 2026.
+Ouseburn Garden is a music venue in Newcastle with 10 upcoming nights listed on soundcheck as of Mon, 27 Jul 2026; the next is "Krazed w/ Scritts B2B Neenzy, DJ Royal Mail B2B PB Donk" on Fri, 31 Jul 2026.
 
 Ouseburn Garden is a music venue in Newcastle listed on soundcheck. 10 upcoming nights, with line-ups including Adam Lance, Alousea, Bobby O'Donnell and Captain Wallop and 2 more. Browse upcoming dates, start times and who's playing. Unit 12, 1 Stepney Rd, Newcastle upon Tyne NE1 2PZ.
 
@@ -23,4 +23,4 @@ Ouseburn Garden is a music venue in Newcastle listed on soundcheck. 10 upcoming 
 
 Unit 12, 1 Stepney Rd, Newcastle upon Tyne NE1 2PZ, Newcastle
 
-*Updated Sun, 26 Jul 2026 · source: [soundcheck](https://soundcheck.club/newcastle/club/ouseburn-garden/)*
+*Updated Mon, 27 Jul 2026 · source: [soundcheck](https://soundcheck.club/newcastle/club/ouseburn-garden/)*

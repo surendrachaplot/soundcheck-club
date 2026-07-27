@@ -1,6 +1,6 @@
 # David Jackson
 
-David Jackson is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Sun, 26 Jul 2026, next at Boston Manor Park, London on Fri, 31 Jul 2026.
+David Jackson is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Mon, 27 Jul 2026, next at Boston Manor Park, London on Fri, 31 Jul 2026.
 
 David Jackson is a house and techno artist tracked on soundcheck, with 32 sets logged across Amsterdam, Berlin, Bucharest and Cork and 14 more. Often billed alongside Mall Grab, Effy and Claire O'Brien. Next up: Boston Manor Park, London on Fri 31 Jul.
 
@@ -26,4 +26,4 @@ David Jackson is a house and techno artist tracked on soundcheck, with 32 sets l
 
 Mall Grab, Effy, Claire O'Brien
 
-*Updated Sun, 26 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/davidjackson/)*
+*Updated Mon, 27 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/davidjackson/)*

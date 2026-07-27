@@ -1,6 +1,6 @@
 # GOODLIFE feat. Lee Ann Roberts at Joule
 
-GOODLIFE feat. Lee Ann Roberts at Joule on Sat 1 Aug, Osaka. 2 acts on the bill: Lee Ann Roberts and O-MAN. Techno. Preview the line-up and save it on soundcheck.
+GOODLIFE feat. Lee Ann Roberts at Joule on Sat 1 Aug, Osaka. 5 acts on the bill: ALESSA(JP), Astro aka Akihisa Takahashi, FENGX2 and Lee Ann Roberts and 1 more. Techno and Psytrance. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,6 +10,9 @@ GOODLIFE feat. Lee Ann Roberts at Joule on Sat 1 Aug, Osaka. 2 acts on the bill:
 
 ## Line-up
 
+- ALESSA(JP)
+- Astro aka Akihisa Takahashi
+- FENGX2
 - Lee Ann Roberts
 - O-MAN
 

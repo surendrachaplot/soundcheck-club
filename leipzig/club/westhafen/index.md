@@ -1,6 +1,6 @@
 # Westhafen
 
-Westhafen is a music venue in Leipzig with 4 upcoming nights listed on soundcheck as of Sun, 26 Jul 2026; the next is "KINKY ON Tour Leipzig" on Sat, 1 Aug 2026.
+Westhafen is a music venue in Leipzig with 4 upcoming nights listed on soundcheck as of Mon, 27 Jul 2026; the next is "KINKY ON Tour Leipzig" on Sat, 1 Aug 2026.
 
 Westhafen is a music venue in Leipzig listed on soundcheck. 4 upcoming nights, with line-ups including adamoandiamo, Alex Benz, Alisa Stovik and Amøn and 2 more. Browse upcoming dates, start times and who's playing. Ernst Keil Straße 17, 04179 Leipzig, Germany.
 
@@ -17,4 +17,4 @@ Westhafen is a music venue in Leipzig listed on soundcheck. 4 upcoming nights, w
 
 Ernst Keil Straße 17, 04179 Leipzig, Germany, Leipzig
 
-*Updated Sun, 26 Jul 2026 · source: [soundcheck](https://soundcheck.club/leipzig/club/westhafen/)*
+*Updated Mon, 27 Jul 2026 · source: [soundcheck](https://soundcheck.club/leipzig/club/westhafen/)*

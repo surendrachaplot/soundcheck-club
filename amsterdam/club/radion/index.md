@@ -1,8 +1,8 @@
 # RADION
 
-RADION is a music venue in Amsterdam with 13 upcoming nights listed on soundcheck as of Sun, 26 Jul 2026; the next is "Dekmantel At Night - Friday" on Fri, 31 Jul 2026.
+RADION is a music venue in Amsterdam with 15 upcoming nights listed on soundcheck as of Mon, 27 Jul 2026; the next is "Dekmantel At Night - Friday" on Fri, 31 Jul 2026.
 
-RADION is a music venue in Amsterdam listed on soundcheck. 13 upcoming nights, with line-ups including 36framez, Justine Perry, Aaron J and Afra and 2 more. Browse upcoming dates, start times and who's playing. Louwesweg 1 ,1066 EA Amsterdam.
+RADION is a music venue in Amsterdam listed on soundcheck. 15 upcoming nights, with line-ups including 36framez, 42nd Avenue, Justine Perry and Aaron J and 2 more. Browse upcoming dates, start times and who's playing. Louwesweg 1 ,1066 EA Amsterdam.
 
 ## What's on
 
@@ -23,4 +23,4 @@ RADION is a music venue in Amsterdam listed on soundcheck. 13 upcoming nights, w
 
 Louwesweg 1 ,1066 EA Amsterdam, Amsterdam
 
-*Updated Sun, 26 Jul 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/radion/)*
+*Updated Mon, 27 Jul 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/radion/)*

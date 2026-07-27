@@ -1,6 +1,6 @@
 # Gestrandet An Der Jannowitzbrücke
 
-Gestrandet An Der Jannowitzbrücke is a music venue in Berlin with 6 upcoming nights listed on soundcheck as of Sun, 26 Jul 2026; the next is "languages music Open Air" on Sat, 1 Aug 2026.
+Gestrandet An Der Jannowitzbrücke is a music venue in Berlin with 6 upcoming nights listed on soundcheck as of Mon, 27 Jul 2026; the next is "languages music Open Air" on Sat, 1 Aug 2026.
 
 Gestrandet An Der Jannowitzbrücke is a music venue in Berlin listed on soundcheck. 6 upcoming nights, with line-ups including aaandscha, Aimé You, Alex Narrow and Die Jane and 2 more. Browse upcoming dates, start times and who's playing. Rolandufer, 10179 Berlin, Germany.
 
@@ -19,4 +19,4 @@ Gestrandet An Der Jannowitzbrücke is a music venue in Berlin listed on soundche
 
 Rolandufer, 10179 Berlin, Germany, Berlin
 
-*Updated Sun, 26 Jul 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/gestrandet-an-der-jannowitzbr-cke/)*
+*Updated Mon, 27 Jul 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/gestrandet-an-der-jannowitzbr-cke/)*

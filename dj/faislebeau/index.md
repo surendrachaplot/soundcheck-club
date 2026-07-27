@@ -1,6 +1,6 @@
 # Fais Le Beau
 
-Fais Le Beau is a House and Techno artist with 6 upcoming club dates listed on soundcheck as of Sun, 26 Jul 2026, next at 09h30-05h30, Antwerp on Sat, 8 Aug 2026.
+Fais Le Beau is a House and Techno artist with 6 upcoming club dates listed on soundcheck as of Mon, 27 Jul 2026, next at 09h30-05h30, Antwerp on Sat, 8 Aug 2026.
 
 Fais Le Beau is a house and techno artist tracked on soundcheck, with 135 sets logged across Amsterdam, Antwerp, Berlin and Brussels and 15 more. Often billed alongside Sixsixsixties, Dana Kuehr and Melissa Juice. Next up: 09h30-05h30, Antwerp on Sat 8 Aug.
 
@@ -30,4 +30,4 @@ Fais Le Beau is a house and techno artist tracked on soundcheck, with 135 sets l
 
 Sixsixsixties, Dana Kuehr, Melissa Juice
 
-*Updated Sun, 26 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/faislebeau/)*
+*Updated Mon, 27 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/faislebeau/)*

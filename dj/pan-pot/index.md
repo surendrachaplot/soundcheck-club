@@ -1,6 +1,6 @@
 # Pan-Pot
 
-Pan-Pot is a Techno and House artist with 7 upcoming club dates listed on soundcheck as of Sun, 26 Jul 2026, next at Galopprennbahn, Munich on Sat, 1 Aug 2026.
+Pan-Pot is a Techno and House artist with 7 upcoming club dates listed on soundcheck as of Mon, 27 Jul 2026, next at Galopprennbahn, Munich on Sat, 1 Aug 2026.
 
 Pan-Pot is a techno and house artist tracked on soundcheck, with 169 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 52 more. Often billed alongside Anfisa Letyago, Enrico Sangiuliano and Adam Beyer. Next up: Galopprennbahn, Munich on Sat 1 Aug.
 
@@ -31,4 +31,4 @@ Pan-Pot is a techno and house artist tracked on soundcheck, with 169 sets logged
 
 Anfisa Letyago, Enrico Sangiuliano, Adam Beyer
 
-*Updated Sun, 26 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/pan-pot/)*
+*Updated Mon, 27 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/pan-pot/)*

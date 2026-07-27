@@ -1,6 +1,6 @@
 # Stipo
 
-Stipo is a House and Tech House artist with 2 upcoming club dates listed on soundcheck as of Sun, 26 Jul 2026, next at TBA - Paradies Garten Festival - Schloß Prugg 2, 2460 Gemeinde Bruck an der Leitha, Vienna on Fri, 31 Jul 2026.
+Stipo is a House and Tech House artist with 2 upcoming club dates listed on soundcheck as of Mon, 27 Jul 2026, next at TBA - Paradies Garten Festival - Schloß Prugg 2, 2460 Gemeinde Bruck an der Leitha, Vienna on Fri, 31 Jul 2026.
 
 Stipo is a house and tech house artist based in Austria, tracked on soundcheck, with 98 sets logged across Barcelona, Belgrade, Berlin and London and 5 more. Often billed alongside Apua, Reinhard Zach and Alice (AT). Next up: TBA - Paradies Garten Festival - Schloß Prugg 2, 2460 Gemeinde Bruck an der Leitha, Vienna on Fri 31 Jul.
 
@@ -26,4 +26,4 @@ Stipo is a house and tech house artist based in Austria, tracked on soundcheck, 
 
 Apua, Reinhard Zach, Alice (AT)
 
-*Updated Sun, 26 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/stipo-at/)*
+*Updated Mon, 27 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/stipo-at/)*

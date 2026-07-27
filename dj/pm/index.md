@@ -1,6 +1,6 @@
 # PM
 
-PM is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Sun, 26 Jul 2026, next at Marula Cafe, Barcelona on Mon, 27 Jul 2026.
+PM is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Mon, 27 Jul 2026, next at Marula Cafe, Barcelona on Mon, 27 Jul 2026.
 
 PM is a techno and house artist based in Cyprus, tracked on soundcheck, with 43 sets logged across Amsterdam, Bangkok, Barcelona and Berlin and 13 more. Often billed alongside AM (8), 18+ and ZIGGY ZAYA. Next up: Marula Cafe, Barcelona on Mon 27 Jul.
 
@@ -26,4 +26,4 @@ PM is a techno and house artist based in Cyprus, tracked on soundcheck, with 43 
 
 AM (8), 18+, ZIGGY ZAYA
 
-*Updated Sun, 26 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/pm/)*
+*Updated Mon, 27 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/pm/)*

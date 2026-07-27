@@ -1,6 +1,6 @@
 # Deborah De Luca
 
-Deborah De Luca is a Techno and House artist with 7 upcoming club dates listed on soundcheck as of Sun, 26 Jul 2026, next at Bolivar Beach Bar, Athens on Fri, 31 Jul 2026.
+Deborah De Luca is a Techno and House artist with 7 upcoming club dates listed on soundcheck as of Mon, 27 Jul 2026, next at Bolivar Beach Bar, Athens on Fri, 31 Jul 2026.
 
 Deborah De Luca is a techno and house artist tracked on soundcheck, with 144 sets logged across Antwerp, Athens, Austin and Bali and 44 more. Often billed alongside Luca Donzelli, I Hate Models and 999999999. Next up: Bolivar Beach Bar, Athens on Fri 31 Jul.
 
@@ -31,4 +31,4 @@ Deborah De Luca is a techno and house artist tracked on soundcheck, with 144 set
 
 Luca Donzelli, I Hate Models, 999999999
 
-*Updated Sun, 26 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/deborahdeluca/)*
+*Updated Mon, 27 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/deborahdeluca/)*

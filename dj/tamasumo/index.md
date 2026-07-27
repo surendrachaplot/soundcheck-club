@@ -1,6 +1,6 @@
 # Tama Sumo
 
-Tama Sumo is a House and Techno artist with 4 upcoming club dates listed on soundcheck as of Sun, 26 Jul 2026, next at Doka, Amsterdam on Thu, 30 Jul 2026.
+Tama Sumo is a House and Techno artist with 4 upcoming club dates listed on soundcheck as of Mon, 27 Jul 2026, next at Doka, Amsterdam on Thu, 30 Jul 2026.
 
 Tama Sumo is a house and techno artist tracked on soundcheck, with 183 sets logged across Amsterdam, Antwerp, Athens and Bali and 48 more. Often billed alongside Lakuti, Roi Perez and BASHKKA. Next up: Doka, Amsterdam on Thu 30 Jul.
 
@@ -28,4 +28,4 @@ Tama Sumo is a house and techno artist tracked on soundcheck, with 183 sets logg
 
 Lakuti, Roi Perez, BASHKKA
 
-*Updated Sun, 26 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/tamasumo/)*
+*Updated Mon, 27 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/tamasumo/)*

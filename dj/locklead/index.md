@@ -1,6 +1,6 @@
 # Locklead
 
-Locklead is a House and Tech House artist with 14 upcoming club dates listed on soundcheck as of Sun, 26 Jul 2026, next at Elsewhere, New York City on Fri, 31 Jul 2026.
+Locklead is a House and Tech House artist with 14 upcoming club dates listed on soundcheck as of Mon, 27 Jul 2026, next at Elsewhere, New York City on Fri, 31 Jul 2026.
 
 Locklead is a house and tech house artist tracked on soundcheck, with 182 sets logged across Amsterdam, Antwerp, Auckland and Barcelona and 39 more. Often billed alongside Marsolo, Chris Stussy and Rossi. Next up: Elsewhere, Newyorkcity on Fri 31 Jul.
 
@@ -36,4 +36,4 @@ Locklead is a house and tech house artist tracked on soundcheck, with 182 sets l
 
 Marsolo, Chris Stussy, Rossi
 
-*Updated Sun, 26 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/locklead/)*
+*Updated Mon, 27 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/locklead/)*

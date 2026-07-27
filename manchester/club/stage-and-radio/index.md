@@ -1,6 +1,6 @@
 # Stage and Radio
 
-Stage and Radio is a music venue in Manchester with 18 upcoming nights listed on soundcheck as of Sun, 26 Jul 2026; the next is "RAW//001" on Fri, 31 Jul 2026.
+Stage and Radio is a music venue in Manchester with 18 upcoming nights listed on soundcheck as of Mon, 27 Jul 2026; the next is "RAW//001" on Fri, 31 Jul 2026.
 
 Stage and Radio is a music venue in Manchester listed on soundcheck. 18 upcoming nights, with line-ups including adamine, AJ Jonesy, CHAMBERS (UK) and CITYSPROBLEM and 2 more. Browse upcoming dates, start times and who's playing. 43 Port St, Manchester M1 2EQ.
 
@@ -23,4 +23,4 @@ Stage and Radio is a music venue in Manchester listed on soundcheck. 18 upcoming
 
 43 Port St, Manchester M1 2EQ, Manchester
 
-*Updated Sun, 26 Jul 2026 · source: [soundcheck](https://soundcheck.club/manchester/club/stage-and-radio/)*
+*Updated Mon, 27 Jul 2026 · source: [soundcheck](https://soundcheck.club/manchester/club/stage-and-radio/)*

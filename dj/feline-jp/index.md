@@ -1,6 +1,6 @@
 # FELINE (JP)
 
-FELINE (JP) is a House and Techno artist with 6 upcoming club dates listed on soundcheck as of Sun, 26 Jul 2026, next at Secret Venue in Minatoku-Nishiazabu, Tokyo on Fri, 31 Jul 2026.
+FELINE (JP) is a House and Techno artist with 6 upcoming club dates listed on soundcheck as of Mon, 27 Jul 2026, next at Secret Venue in Minatoku-Nishiazabu, Tokyo on Fri, 31 Jul 2026.
 
 FELINE (JP) is a house and techno artist tracked on soundcheck, with 216 sets logged across Kyoto, Osaka, Sanfrancisco and Tokyo. Often billed alongside okadada, K8 (TYO GQOM) and Sekitova. Next up: Secret Venue in Minatoku-Nishiazabu, Tokyo on Fri 31 Jul.
 
@@ -30,4 +30,4 @@ FELINE (JP) is a house and techno artist tracked on soundcheck, with 216 sets lo
 
 okadada, K8 (TYO GQOM), Sekitova
 
-*Updated Sun, 26 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/feline-jp/)*
+*Updated Mon, 27 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/feline-jp/)*

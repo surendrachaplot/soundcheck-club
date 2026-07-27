@@ -1,8 +1,8 @@
 # livwutang
 
-livwutang is a Techno and House artist with 10 upcoming club dates listed on soundcheck as of Sun, 26 Jul 2026, next at Amsterdamse Bos, Amsterdam on Wed, 29 Jul 2026.
+livwutang is a Techno and House artist with 11 upcoming club dates listed on soundcheck as of Mon, 27 Jul 2026, next at Amsterdamse Bos, Amsterdam on Wed, 29 Jul 2026.
 
-livwutang is a techno and house artist tracked on soundcheck, with 180 sets logged across Amsterdam, Barcelona, Berlin and Bristol and 39 more. Often billed alongside Kia (AU), Nick León and Richard Akingbehin. Next up: Amsterdamse Bos, Amsterdam on Wed 29 Jul.
+livwutang is a techno and house artist tracked on soundcheck, with 181 sets logged across Amsterdam, Barcelona, Berlin and Bristol and 39 more. Often billed alongside Kia (AU), Nick León and Richard Akingbehin. Next up: Amsterdamse Bos, Amsterdam on Wed 29 Jul.
 
 ## Upcoming shows
 
@@ -18,6 +18,7 @@ livwutang is a techno and house artist tracked on soundcheck, with 180 sets logg
 | Fri, 4 Sept 2026 | TBA - Camp Tall Timbers, WV | Washington DC |
 | Sun, 27 Sept 2026 | Piknic Électronik / Parc Jean Drapeau | Montreal |
 | Fri, 23 Oct 2026 | CLUB RAUM | Amsterdam |
+| Sun, 25 Oct 2026 | Garage Noord | Amsterdam |
 
 ## Recently played
 
@@ -34,4 +35,4 @@ livwutang is a techno and house artist tracked on soundcheck, with 180 sets logg
 
 Kia (AU), Nick León, Richard Akingbehin
 
-*Updated Sun, 26 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/livwutang/)*
+*Updated Mon, 27 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/livwutang/)*

@@ -1,6 +1,6 @@
 # Regis
 
-Regis is a Techno and Electronica artist with 4 upcoming club dates listed on soundcheck as of Sun, 26 Jul 2026, next at Tunnel Club, Birmingham on Fri, 31 Jul 2026.
+Regis is a Techno and Electronica artist with 4 upcoming club dates listed on soundcheck as of Mon, 27 Jul 2026, next at Tunnel Club, Birmingham on Fri, 31 Jul 2026.
 
 Regis is a techno and electronica artist tracked on soundcheck, with 101 sets logged across Amsterdam, Athens, Barcelona and Berlin and 26 more. Often billed alongside Sandwell District, Function and Samuel Kerridge. Next up: Tunnel Club, Birmingham on Fri 31 Jul.
 
@@ -28,4 +28,4 @@ Regis is a techno and electronica artist tracked on soundcheck, with 101 sets lo
 
 Sandwell District, Function, Samuel Kerridge
 
-*Updated Sun, 26 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/regis/)*
+*Updated Mon, 27 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/regis/)*

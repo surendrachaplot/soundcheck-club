@@ -1,6 +1,6 @@
 # Circus Tokyo
 
-Circus Tokyo is a music venue in Tokyo with 7 upcoming nights listed on soundcheck as of Sun, 26 Jul 2026; the next is "Universal Music Box 3rd Anniversary" on Fri, 31 Jul 2026.
+Circus Tokyo is a music venue in Tokyo with 7 upcoming nights listed on soundcheck as of Mon, 27 Jul 2026; the next is "Universal Music Box 3rd Anniversary" on Fri, 31 Jul 2026.
 
 Circus Tokyo is a music venue in Tokyo listed on soundcheck. 7 upcoming nights, with line-ups including Acidclank, ACKERMAN, ACKERMAN (2) and AKARI and 2 more. Browse upcoming dates, start times and who's playing. 3-26-16 Shibuya, Shibuya-ku, Tokyo, Japan, 150-0002.
 
@@ -20,4 +20,4 @@ Circus Tokyo is a music venue in Tokyo listed on soundcheck. 7 upcoming nights, 
 
 3-26-16 Shibuya, Shibuya-ku, Tokyo, Japan, 150-0002, Tokyo
 
-*Updated Sun, 26 Jul 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/circus-tokyo/)*
+*Updated Mon, 27 Jul 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/circus-tokyo/)*

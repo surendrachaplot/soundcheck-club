@@ -1,6 +1,6 @@
 # Manrick Stapez
 
-Manrick Stapez is a Techno and Trance artist with 3 upcoming club dates listed on soundcheck as of Sun, 26 Jul 2026, next at YAAM Berlin, Berlin on Sun, 2 Aug 2026.
+Manrick Stapez is a Techno and Trance artist with 3 upcoming club dates listed on soundcheck as of Mon, 27 Jul 2026, next at YAAM Berlin, Berlin on Sun, 2 Aug 2026.
 
 Manrick Stapez is a techno and trance artist based in Germany, tracked on soundcheck, with 47 sets logged across Berlin, Dublin, Frankfurt and Hamburg and 1 more. Often billed alongside PHLOXO, Tiem and HAUSBRAND. Next up: YAAM Berlin, Berlin on Sun 2 Aug.
 
@@ -27,4 +27,4 @@ Manrick Stapez is a techno and trance artist based in Germany, tracked on soundc
 
 PHLOXO, Tiem, HAUSBRAND
 
-*Updated Sun, 26 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/manrickstapez/)*
+*Updated Mon, 27 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/manrickstapez/)*

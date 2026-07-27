@@ -1,6 +1,6 @@
 # Loren
 
-Loren is a Techno and House artist with 4 upcoming club dates listed on soundcheck as of Sun, 26 Jul 2026, next at Marble Bar, Detroit on Fri, 31 Jul 2026.
+Loren is a Techno and House artist with 4 upcoming club dates listed on soundcheck as of Mon, 27 Jul 2026, next at Marble Bar, Detroit on Fri, 31 Jul 2026.
 
 Loren is a techno and house artist tracked on soundcheck, with 208 sets logged across Berlin, Chicago, Detroit and Ibiza and 9 more. Often billed alongside Ashton Swinton, Tylr and Garrison XR. Next up: Marble Bar, Detroit on Fri 31 Jul.
 
@@ -28,4 +28,4 @@ Loren is a techno and house artist tracked on soundcheck, with 208 sets logged a
 
 Ashton Swinton, Tylr, Garrison XR
 
-*Updated Sun, 26 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/loren-us/)*
+*Updated Mon, 27 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/loren-us/)*

@@ -1,14 +1,13 @@
 # Hot Since 82
 
-Hot Since 82 is a House and Tech House artist with 14 upcoming club dates listed on soundcheck as of Sun, 26 Jul 2026, next at W Barcelona, Barcelona on Sun, 26 Jul 2026.
+Hot Since 82 is a House and Tech House artist with 13 upcoming club dates listed on soundcheck as of Mon, 27 Jul 2026, next at [UNVRS], Ibiza on Sat, 1 Aug 2026.
 
-Hot Since 82 is a house and tech house artist tracked on soundcheck, with 202 sets logged across Amsterdam, Athens, Austin and Barcelona and 45 more. Often billed alongside Jamie Jones, Prunk and Manda Moor. Next up: W Barcelona, Barcelona on Sun 26 Jul.
+Hot Since 82 is a house and tech house artist tracked on soundcheck, with 202 sets logged across Amsterdam, Athens, Austin and Barcelona and 45 more. Often billed alongside Jamie Jones, Prunk and Manda Moor. Next up: [UNVRS], Ibiza on Sat 1 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sun, 26 Jul 2026 | W Barcelona | Barcelona |
 | Sat, 1 Aug 2026 | [UNVRS] | Ibiza |
 | Sat, 8 Aug 2026 | Sloterpark | Amsterdam |
 | Wed, 12 Aug 2026 | [UNVRS] | Ibiza |
@@ -20,9 +19,11 @@ Hot Since 82 is a house and tech house artist tracked on soundcheck, with 202 se
 | Thu, 1 Oct 2026 | UNO MALTA | Malta |
 | Sat, 3 Oct 2026 | LAB theCLUB | Madrid |
 | Sun, 11 Oct 2026 | Seaseaclub Barcelona | Barcelona |
+| Wed, 21 Oct 2026 | A'DAM Toren | Amsterdam |
 
 ## Recently played
 
+- W Barcelona, Barcelona — Sun, 26 Jul 2026
 - [UNVRS], Ibiza — Sat, 25 Jul 2026
 - Pacha Ibiza, Ibiza — Fri, 17 Jul 2026
 - Chinois Ibiza, Ibiza — Tue, 7 Jul 2026
@@ -30,10 +31,9 @@ Hot Since 82 is a house and tech house artist tracked on soundcheck, with 202 se
 - Los Angeles State Historic Park, Los Angeles — Sat, 20 Jun 2026
 - TBA - FORO PEDREGAL, Mexico City — Fri, 19 Jun 2026
 - Manko Athens, Athens — Sun, 14 Jun 2026
-- Kralingse Bos, Rotterdam — Sat, 13 Jun 2026
 
 ## Shares bills with
 
 Jamie Jones, Prunk, Manda Moor
 
-*Updated Sun, 26 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/hotsince82/)*
+*Updated Mon, 27 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/hotsince82/)*

@@ -1,6 +1,6 @@
 # Cybersex
 
-Cybersex is a Techno and House artist with 5 upcoming club dates listed on soundcheck as of Sun, 26 Jul 2026, next at Bowlers Exhibition Centre, Manchester on Sat, 1 Aug 2026.
+Cybersex is a Techno and House artist with 5 upcoming club dates listed on soundcheck as of Mon, 27 Jul 2026, next at Bowlers Exhibition Centre, Manchester on Sat, 1 Aug 2026.
 
 Cybersex is a techno and house artist tracked on soundcheck, with 101 sets logged across Amsterdam, Barcelona, Berlin and Cologne and 13 more. Often billed alongside TEKNA, Azyr and Blasha & Allatt. Next up: Bowlers Exhibition Centre, Manchester on Sat 1 Aug.
 
@@ -29,4 +29,4 @@ Cybersex is a techno and house artist tracked on soundcheck, with 101 sets logge
 
 TEKNA, Azyr, Blasha & Allatt
 
-*Updated Sun, 26 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/cybersex/)*
+*Updated Mon, 27 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/cybersex/)*

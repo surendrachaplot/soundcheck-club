@@ -1,6 +1,6 @@
 # friends. THE VIEW at MH5 Rooftop
 
-friends. THE VIEW at MH5 Rooftop on Sat 22 Aug, Munich. 5 acts on the bill: Alice DiMar, B-ZEY, Marvin Aloys and YEPIK and 1 more. Tech House. Preview the line-up and save it on soundcheck.
+friends. THE VIEW at MH5 Rooftop on Sat 22 Aug, Munich. 5 acts on the bill: Alice DiMar, B-ZEY, diskoheinz and Marvin Aloys and 1 more. Tech House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -12,8 +12,8 @@ friends. THE VIEW at MH5 Rooftop on Sat 22 Aug, Munich. 5 acts on the bill: Alic
 
 - Alice DiMar
 - B-ZEY
+- diskoheinz
 - Marvin Aloys
 - YEPIK
-- diskoheinz
 
 *Source: [soundcheck](https://soundcheck.club/e/2452956-friends-the-view-at-mh5-rooftop/)*

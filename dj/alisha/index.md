@@ -1,6 +1,6 @@
 # ALISHA
 
-ALISHA is a House and Tech House artist with 10 upcoming club dates listed on soundcheck as of Sun, 26 Jul 2026, next at Tigres de la Noche, Washington DC on Sat, 1 Aug 2026.
+ALISHA is a House and Tech House artist with 10 upcoming club dates listed on soundcheck as of Mon, 27 Jul 2026, next at Tigres de la Noche, Washington DC on Sat, 1 Aug 2026.
 
 ALISHA is a house and tech house artist tracked on soundcheck, with 171 sets logged across Aberdeen, Amsterdam, Austin and Barcelona and 31 more. Often billed alongside East End Dubs, Jamie Jones and Sidney Charles. Next up: Tigres de la Noche, Washingtondc on Sat 1 Aug.
 
@@ -34,4 +34,4 @@ ALISHA is a house and tech house artist tracked on soundcheck, with 171 sets log
 
 East End Dubs, Jamie Jones, Sidney Charles
 
-*Updated Sun, 26 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/alisha/)*
+*Updated Mon, 27 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/alisha/)*

@@ -1,6 +1,6 @@
 # Nils Ohrmann
 
-Nils Ohrmann is a Techno and Tech House artist with 2 upcoming club dates listed on soundcheck as of Sun, 26 Jul 2026, next at Golden Gate, Berlin on Thu, 30 Jul 2026.
+Nils Ohrmann is a Techno and Tech House artist with 2 upcoming club dates listed on soundcheck as of Mon, 27 Jul 2026, next at Golden Gate, Berlin on Thu, 30 Jul 2026.
 
 Nils Ohrmann is a techno and tech house artist based in Germany, tracked on soundcheck, with 86 sets logged across Berlin and Hamburg. Often billed alongside Edgar Peng, Sqim and Dompe. Next up: Golden Gate, Berlin on Thu 30 Jul.
 
@@ -26,4 +26,4 @@ Nils Ohrmann is a techno and tech house artist based in Germany, tracked on soun
 
 Edgar Peng, Sqim, Dompe
 
-*Updated Sun, 26 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/nilsohrmann/)*
+*Updated Mon, 27 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/nilsohrmann/)*

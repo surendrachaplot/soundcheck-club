@@ -1,6 +1,6 @@
 # Firestone
 
-Firestone is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Sun, 26 Jul 2026, next at TBA - RSVP for location day of, Philadelphia on Fri, 31 Jul 2026.
+Firestone is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Mon, 27 Jul 2026, next at TBA - RSVP for location day of, Philadelphia on Fri, 31 Jul 2026.
 
 Firestone is a house and techno artist based in United States of America, tracked on soundcheck, with 59 sets logged across Newyorkcity and Philadelphia. Often billed alongside hopifer, Riva + Bianca and Doll Redacted. Next up: TBA - RSVP for location day of, Philadelphia on Fri 31 Jul.
 
@@ -26,4 +26,4 @@ Firestone is a house and techno artist based in United States of America, tracke
 
 hopifer, Riva + Bianca, Doll Redacted
 
-*Updated Sun, 26 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/firestone/)*
+*Updated Mon, 27 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/firestone/)*

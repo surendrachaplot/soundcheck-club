@@ -1,8 +1,8 @@
 # Akua
 
-Akua is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Sun, 26 Jul 2026, next at BLITZ, Munich on Fri, 31 Jul 2026.
+Akua is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Mon, 27 Jul 2026, next at BLITZ, Munich on Fri, 31 Jul 2026.
 
-Akua is a techno and house artist tracked on soundcheck, with 195 sets logged across Amsterdam, Antwerp, Athens and Austin and 47 more. Often billed alongside 1morning, DJ Stingray 313 and Dr. Rubinstein. Next up: BLITZ, Munich on Fri 31 Jul.
+Akua is a techno and house artist tracked on soundcheck, with 196 sets logged across Amsterdam, Antwerp, Athens and Austin and 47 more. Often billed alongside 1morning, DJ Stingray 313 and Dr. Rubinstein. Next up: BLITZ, Munich on Fri 31 Jul.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Akua is a techno and house artist tracked on soundcheck, with 195 sets logged ac
 | --- | --- | --- |
 | Fri, 31 Jul 2026 | BLITZ | Munich |
 | Sat, 29 Aug 2026 | RSO.BERLIN | Berlin |
+| Sun, 25 Oct 2026 | Garage Noord | Amsterdam |
 
 ## Recently played
 
@@ -26,4 +27,4 @@ Akua is a techno and house artist tracked on soundcheck, with 195 sets logged ac
 
 1morning, DJ Stingray 313, Dr. Rubinstein
 
-*Updated Sun, 26 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/akua/)*
+*Updated Mon, 27 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/akua/)*

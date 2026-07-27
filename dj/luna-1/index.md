@@ -1,6 +1,6 @@
 # Luna (1)
 
-Luna (1) is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Sun, 26 Jul 2026, next at Commune, Liverpool on Sat, 15 Aug 2026.
+Luna (1) is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Mon, 27 Jul 2026, next at Commune, Liverpool on Sat, 15 Aug 2026.
 
 Luna (1) is a house and techno artist tracked on soundcheck, with 33 sets logged across Amsterdam, Austin, Bangkok and Budapest and 12 more. Often billed alongside Pavo, Franky Jones and Alexander Koning. Next up: Commune, Liverpool on Sat 15 Aug.
 
@@ -27,4 +27,4 @@ Luna (1) is a house and techno artist tracked on soundcheck, with 33 sets logged
 
 Pavo, Franky Jones, Alexander Koning
 
-*Updated Sun, 26 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/luna-1/)*
+*Updated Mon, 27 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/luna-1/)*

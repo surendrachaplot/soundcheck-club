@@ -1,6 +1,6 @@
 # YOXIKI
 
-YOXIKI is a Techno and Industrial artist with 3 upcoming club dates listed on soundcheck as of Sun, 26 Jul 2026, next at Z Maruyama, Tokyo on Thu, 30 Jul 2026.
+YOXIKI is a Techno and Industrial artist with 3 upcoming club dates listed on soundcheck as of Mon, 27 Jul 2026, next at Z Maruyama, Tokyo on Thu, 30 Jul 2026.
 
 YOXIKI is a techno and industrial artist based in Japan, tracked on soundcheck, with 71 sets logged across Seoul and Tokyo. Often billed alongside CHIKA, YURI VALEN and DALJAE. Next up: Z Maruyama, Tokyo on Thu 30 Jul.
 
@@ -27,4 +27,4 @@ YOXIKI is a techno and industrial artist based in Japan, tracked on soundcheck, 
 
 CHIKA, YURI VALEN, DALJAE
 
-*Updated Sun, 26 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/yoxiki/)*
+*Updated Mon, 27 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/yoxiki/)*

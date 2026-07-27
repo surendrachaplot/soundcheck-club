@@ -1,6 +1,6 @@
 # Ritter Butzke
 
-Ritter Butzke is a music venue in Berlin with 22 upcoming nights listed on soundcheck as of Sun, 26 Jul 2026; the next is "Super Flu (Open Air) - free entry until 7pm" on Sat, 1 Aug 2026.
+Ritter Butzke is a music venue in Berlin with 22 upcoming nights listed on soundcheck as of Mon, 27 Jul 2026; the next is "Super Flu (Open Air) - free entry until 7pm" on Sat, 1 Aug 2026.
 
 Ritter Butzke is a music venue in Berlin listed on soundcheck. 22 upcoming nights, with line-ups including Aaron Suiss, Antic Soul, Asem Shama and Blame the Booker and 2 more. Browse upcoming dates, start times and who's playing. Ritterstrasse 26; Kreuzberg; 10969 Berlin; Germany.
 
@@ -23,4 +23,4 @@ Ritter Butzke is a music venue in Berlin listed on soundcheck. 22 upcoming night
 
 Ritterstrasse 26; Kreuzberg; 10969 Berlin; Germany, Berlin
 
-*Updated Sun, 26 Jul 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/ritter-butzke/)*
+*Updated Mon, 27 Jul 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/ritter-butzke/)*

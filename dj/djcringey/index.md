@@ -1,6 +1,6 @@
 # DJ Cringey
 
-DJ Cringey is a Techno and House artist with 6 upcoming club dates listed on soundcheck as of Sun, 26 Jul 2026, next at Bowlers Exhibition Centre, Manchester on Sat, 1 Aug 2026.
+DJ Cringey is a Techno and House artist with 6 upcoming club dates listed on soundcheck as of Mon, 27 Jul 2026, next at Bowlers Exhibition Centre, Manchester on Sat, 1 Aug 2026.
 
 DJ Cringey is a techno and house artist tracked on soundcheck, with 93 sets logged across Amsterdam, Antwerp, Basel and Belfast and 21 more. Often billed alongside TOXIMAMI, DJ Hyperdrive and ANTHRAZIT. Next up: Bowlers Exhibition Centre, Manchester on Sat 1 Aug.
 
@@ -30,4 +30,4 @@ DJ Cringey is a techno and house artist tracked on soundcheck, with 93 sets logg
 
 TOXIMAMI, DJ Hyperdrive, ANTHRAZIT
 
-*Updated Sun, 26 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/djcringey/)*
+*Updated Mon, 27 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/djcringey/)*

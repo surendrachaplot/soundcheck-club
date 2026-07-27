@@ -1,14 +1,13 @@
 # NAR
 
-NAR is a music venue in Utrecht with 7 upcoming nights listed on soundcheck as of Sun, 26 Jul 2026; the next is "PLAYGROUND / Benny Rodrigues, Nuno dos Santos" on Sun, 26 Jul 2026.
+NAR is a music venue in Utrecht with 6 upcoming nights listed on soundcheck as of Mon, 27 Jul 2026; the next is "DE DANSVLOER / DJ Hushpuppy & Hunter" on Thu, 30 Jul 2026.
 
-NAR is a music venue in Utrecht listed on soundcheck. 7 upcoming nights, with line-ups including Benny Rodrigues, CHEWCHEW, Coco Coquelicot and David Vunk and 2 more. Browse upcoming dates, start times and who's playing. Nijverheidsweg 6, 3534 AM Utrecht, Netherlands.
+NAR is a music venue in Utrecht listed on soundcheck. 6 upcoming nights, with line-ups including CHEWCHEW, Coco Coquelicot, David Vunk and Doppelgang and 2 more. Browse upcoming dates, start times and who's playing. Nijverheidsweg 6, 3534 AM Utrecht, Netherlands.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Sun, 26 Jul 2026 | PLAYGROUND / Benny Rodrigues, Nuno dos Santos | Benny Rodrigues, Nuno dos Santos |
 | Thu, 30 Jul 2026 | DE DANSVLOER / DJ Hushpuppy & Hunter |  |
 | Fri, 31 Jul 2026 | CLUBNACHT / CHEWCHEW (All Night) | CHEWCHEW |
 | Sat, 1 Aug 2026 | Fluff Disco | Coco Coquelicot, Julia van Praag, Marcel Vogel, Marsman, Rimini Express, Tonno Disko |
@@ -20,4 +19,4 @@ NAR is a music venue in Utrecht listed on soundcheck. 7 upcoming nights, with li
 
 Nijverheidsweg 6, 3534 AM Utrecht, Netherlands, Utrecht
 
-*Updated Sun, 26 Jul 2026 · source: [soundcheck](https://soundcheck.club/utrecht/club/nar/)*
+*Updated Mon, 27 Jul 2026 · source: [soundcheck](https://soundcheck.club/utrecht/club/nar/)*

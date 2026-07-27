@@ -1,6 +1,6 @@
 # The Ground at Club Space
 
-The Ground at Club Space is a music venue in Miami with 8 upcoming nights listed on soundcheck as of Sun, 26 Jul 2026; the next is "Emo Nite" on Fri, 31 Jul 2026.
+The Ground at Club Space is a music venue in Miami with 8 upcoming nights listed on soundcheck as of Mon, 27 Jul 2026; the next is "Emo Nite" on Fri, 31 Jul 2026.
 
 The Ground at Club Space is a music venue in Miami listed on soundcheck. 8 upcoming nights, with line-ups including Bakke, Basilone, Bort and Danyelino and 2 more. Browse upcoming dates, start times and who's playing. 34 NE 11 Street, Miami, FL 33132, USA.
 
@@ -21,4 +21,4 @@ The Ground at Club Space is a music venue in Miami listed on soundcheck. 8 upcom
 
 34 NE 11 Street, Miami, FL 33132, USA, Miami
 
-*Updated Sun, 26 Jul 2026 · source: [soundcheck](https://soundcheck.club/miami/club/the-ground-at-club-space/)*
+*Updated Mon, 27 Jul 2026 · source: [soundcheck](https://soundcheck.club/miami/club/the-ground-at-club-space/)*

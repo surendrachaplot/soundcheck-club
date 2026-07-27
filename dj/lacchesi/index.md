@@ -1,8 +1,8 @@
 # Lacchesi
 
-Lacchesi is a Techno and Trance artist with 2 upcoming club dates listed on soundcheck as of Sun, 26 Jul 2026, next at Tresor / Globus, Berlin on Fri, 31 Jul 2026.
+Lacchesi is a Techno and Trance artist with 3 upcoming club dates listed on soundcheck as of Mon, 27 Jul 2026, next at Tresor / Globus, Berlin on Fri, 31 Jul 2026.
 
-Lacchesi is a techno and trance artist tracked on soundcheck, with 162 sets logged across Amsterdam, Athens, Bangkok and Barcelona and 47 more. Often billed alongside Lorenzo Lacchesi, Mac Declos and Laure Croft. Next up: Tresor / Globus, Berlin on Fri 31 Jul.
+Lacchesi is a techno and trance artist tracked on soundcheck, with 163 sets logged across Amsterdam, Athens, Bangkok and Barcelona and 47 more. Often billed alongside Lorenzo Lacchesi, Mac Declos and Laure Croft. Next up: Tresor / Globus, Berlin on Fri 31 Jul.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Lacchesi is a techno and trance artist tracked on soundcheck, with 162 sets logg
 | --- | --- | --- |
 | Fri, 31 Jul 2026 | Tresor / Globus | Berlin |
 | Fri, 28 Aug 2026 | Kilomètre25 | Paris |
+| Sun, 25 Oct 2026 | Levenslang Amsterdam | Amsterdam |
 
 ## Recently played
 
@@ -26,4 +27,4 @@ Lacchesi is a techno and trance artist tracked on soundcheck, with 162 sets logg
 
 Lorenzo Lacchesi, Mac Declos, Laure Croft
 
-*Updated Sun, 26 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/lacchesi/)*
+*Updated Mon, 27 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/lacchesi/)*

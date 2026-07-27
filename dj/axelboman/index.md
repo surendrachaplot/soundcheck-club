@@ -1,6 +1,6 @@
 # Axel Boman
 
-Axel Boman is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Sun, 26 Jul 2026, next at Bike Jesus, Prague on Sat, 1 Aug 2026.
+Axel Boman is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Mon, 27 Jul 2026, next at Bike Jesus, Prague on Sat, 1 Aug 2026.
 
 Axel Boman is a house and techno artist tracked on soundcheck, with 139 sets logged across Amsterdam, Athens, Austin and Bali and 46 more. Often billed alongside Kornél Kovács, Pedrodollar and Octo Octa. Next up: Bike Jesus, Prague on Sat 1 Aug.
 
@@ -9,7 +9,7 @@ Axel Boman is a house and techno artist tracked on soundcheck, with 139 sets log
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 1 Aug 2026 | Bike Jesus | Prague |
-| Sat, 5 Sept 2026 | The Bridge | Los Angeles |
+| Sat, 5 Sept 2026 | TBA - Open Air: Downtown Los Angeles | Los Angeles |
 
 ## Recently played
 
@@ -26,4 +26,4 @@ Axel Boman is a house and techno artist tracked on soundcheck, with 139 sets log
 
 Kornél Kovács, Pedrodollar, Octo Octa
 
-*Updated Sun, 26 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/axelboman/)*
+*Updated Mon, 27 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/axelboman/)*

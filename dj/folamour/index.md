@@ -1,8 +1,8 @@
 # Folamour
 
-Folamour is a House and Disco artist with 3 upcoming club dates listed on soundcheck as of Sun, 26 Jul 2026, next at Amnesia Ibiza, Ibiza on Fri, 14 Aug 2026.
+Folamour is a House and Disco artist with 4 upcoming club dates listed on soundcheck as of Mon, 27 Jul 2026, next at Amnesia Ibiza, Ibiza on Fri, 14 Aug 2026.
 
-Folamour is a house and disco artist tracked on soundcheck, with 142 sets logged across Amsterdam, Antwerp, Athens and Austin and 48 more. Often billed alongside Dan Shake, Seth Troxler and TSHA. Next up: Amnesia Ibiza, Ibiza on Fri 14 Aug.
+Folamour is a house and disco artist tracked on soundcheck, with 143 sets logged across Amsterdam, Antwerp, Athens and Austin and 48 more. Often billed alongside Dan Shake, Seth Troxler and TSHA. Next up: Amnesia Ibiza, Ibiza on Fri 14 Aug.
 
 ## Upcoming shows
 
@@ -11,6 +11,7 @@ Folamour is a house and disco artist tracked on soundcheck, with 142 sets logged
 | Fri, 14 Aug 2026 | Amnesia Ibiza | Ibiza |
 | Sat, 22 Aug 2026 | Guíxols Arena | Barcelona |
 | Sat, 29 Aug 2026 | Van Nelle Fabriek | Rotterdam |
+| Sun, 25 Oct 2026 | De Kromhouthal | Amsterdam |
 
 ## Recently played
 
@@ -27,4 +28,4 @@ Folamour is a house and disco artist tracked on soundcheck, with 142 sets logged
 
 Dan Shake, Seth Troxler, TSHA
 
-*Updated Sun, 26 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/folamour/)*
+*Updated Mon, 27 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/folamour/)*

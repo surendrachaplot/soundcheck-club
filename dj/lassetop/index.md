@@ -1,6 +1,6 @@
 # Lasse Top
 
-Lasse Top is a House and Tech House artist with 2 upcoming club dates listed on soundcheck as of Sun, 26 Jul 2026, next at KIT Royal Tropical Institute, Amsterdam on Thu, 22 Oct 2026.
+Lasse Top is a House and Tech House artist with 2 upcoming club dates listed on soundcheck as of Mon, 27 Jul 2026, next at KIT Royal Tropical Institute, Amsterdam on Thu, 22 Oct 2026.
 
 Lasse Top is a house and tech house artist based in Netherlands, tracked on soundcheck, with 59 sets logged across Amsterdam, Rotterdam, Thehague and Utrecht. Often billed alongside Lasse, Michel de Hey and M-High. Next up: KIT Royal Tropical Institute, Amsterdam on Thu 22 Oct.
 
@@ -26,4 +26,4 @@ Lasse Top is a house and tech house artist based in Netherlands, tracked on soun
 
 Lasse, Michel de Hey, M-High
 
-*Updated Sun, 26 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/lassetop/)*
+*Updated Mon, 27 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/lassetop/)*

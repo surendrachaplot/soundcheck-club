@@ -1,6 +1,6 @@
 # Francesco Del Garda
 
-Francesco Del Garda is a House and Techno artist with 8 upcoming club dates listed on soundcheck as of Sun, 26 Jul 2026, next at DC-10, Ibiza on Mon, 27 Jul 2026.
+Francesco Del Garda is a House and Techno artist with 8 upcoming club dates listed on soundcheck as of Mon, 27 Jul 2026, next at DC-10, Ibiza on Mon, 27 Jul 2026.
 
 Francesco Del Garda is a house and techno artist tracked on soundcheck, with 205 sets logged across Amsterdam, Antwerp, Barcelona and Basel and 39 more. Often billed alongside Christian AB, Craig Richards and Quest (IT). Next up: DC-10, Ibiza on Mon 27 Jul.
 
@@ -32,4 +32,4 @@ Francesco Del Garda is a house and techno artist tracked on soundcheck, with 205
 
 Christian AB, Craig Richards, Quest (IT)
 
-*Updated Sun, 26 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/francescodelgarda/)*
+*Updated Mon, 27 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/francescodelgarda/)*

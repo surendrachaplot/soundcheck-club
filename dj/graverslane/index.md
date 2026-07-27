@@ -1,6 +1,6 @@
 # Gravers Lane
 
-Gravers Lane is a Techno and Club artist with 2 upcoming club dates listed on soundcheck as of Sun, 26 Jul 2026, next at TBA - RSVP for location day of, Philadelphia on Fri, 31 Jul 2026.
+Gravers Lane is a Techno and Club artist with 2 upcoming club dates listed on soundcheck as of Mon, 27 Jul 2026, next at TBA - RSVP for location day of, Philadelphia on Fri, 31 Jul 2026.
 
 Gravers Lane is a techno and club artist based in United States of America, tracked on soundcheck, with 29 sets logged across Philadelphia. Often billed alongside Lady Prowl, hopifer and Alex Burkat. Next up: TBA - RSVP for location day of, Philadelphia on Fri 31 Jul.
 
@@ -26,4 +26,4 @@ Gravers Lane is a techno and club artist based in United States of America, trac
 
 Lady Prowl, hopifer, Alex Burkat
 
-*Updated Sun, 26 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/graverslane/)*
+*Updated Mon, 27 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/graverslane/)*

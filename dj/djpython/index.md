@@ -1,6 +1,6 @@
 # DJ Python
 
-DJ Python is a Techno and House artist with 4 upcoming club dates listed on soundcheck as of Sun, 26 Jul 2026, next at TBA - Apiro, Marche IT, Milan on Thu, 30 Jul 2026.
+DJ Python is a Techno and House artist with 4 upcoming club dates listed on soundcheck as of Mon, 27 Jul 2026, next at TBA - Apiro, Marche IT, Milan on Thu, 30 Jul 2026.
 
 DJ Python is a techno and house artist tracked on soundcheck, with 182 sets logged across Amsterdam, Austin, Barcelona and Belfast and 43 more. Often billed alongside Nick León, Ana Roxanne and Loidis. Next up: TBA - Apiro, Marche IT, Milan on Thu 30 Jul.
 
@@ -28,4 +28,4 @@ DJ Python is a techno and house artist tracked on soundcheck, with 182 sets logg
 
 Nick León, Ana Roxanne, Loidis
 
-*Updated Sun, 26 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/djpython/)*
+*Updated Mon, 27 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/djpython/)*

@@ -1,14 +1,13 @@
 # Quest
 
-Quest is a Techno and House artist with 8 upcoming club dates listed on soundcheck as of Sun, 26 Jul 2026, next at Gorg-O-Mish, Vancouver on Sun, 26 Jul 2026.
+Quest is a Techno and House artist with 7 upcoming club dates listed on soundcheck as of Mon, 27 Jul 2026, next at Amsterdamse Bos, Amsterdam on Wed, 29 Jul 2026.
 
-Quest is a techno and house artist based in United Kingdom, tracked on soundcheck, with 92 sets logged across Amsterdam, Barcelona, Basel and Belgrade and 29 more. Often billed alongside Christian AB, Adiel and Francesco Del Garda. Next up: Gorg-O-Mish, Vancouver on Sun 26 Jul.
+Quest is a techno and house artist based in United Kingdom, tracked on soundcheck, with 92 sets logged across Amsterdam, Barcelona, Basel and Belgrade and 29 more. Often billed alongside Christian AB, Adiel and Francesco Del Garda. Next up: Amsterdamse Bos, Amsterdam on Wed 29 Jul.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sun, 26 Jul 2026 | Gorg-O-Mish | Vancouver |
 | Wed, 29 Jul 2026 | Amsterdamse Bos | Amsterdam |
 | Fri, 31 Jul 2026 | Amsterdamse Bos | Amsterdam |
 | Sat, 1 Aug 2026 | TBA - Hollywood Park adjacent to SoFi Stadium | Los Angeles |
@@ -19,6 +18,7 @@ Quest is a techno and house artist based in United Kingdom, tracked on soundchec
 
 ## Recently played
 
+- Gorg-O-Mish, Vancouver — Sun, 26 Jul 2026
 - Amnesia Ibiza, Ibiza — Tue, 14 Jul 2026
 - Azimut Club, Turin — Sun, 5 Jul 2026
 - Amnesia Ibiza, Ibiza — Sun, 28 Jun 2026
@@ -26,10 +26,9 @@ Quest is a techno and house artist based in United Kingdom, tracked on soundchec
 - Gorg-O-Mish, Vancouver — Sun, 14 Jun 2026
 - TBA - Autodromo de Buenos Aires, Villa Lugano, Buenos Aires — Sun, 24 May 2026
 - DC-10, Ibiza — Mon, 18 May 2026
-- Gorg-O-Mish, Vancouver — Sun, 17 May 2026
 
 ## Shares bills with
 
 Christian AB, Adiel, Francesco Del Garda
 
-*Updated Sun, 26 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/quest/)*
+*Updated Mon, 27 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/quest/)*

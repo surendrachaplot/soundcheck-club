@@ -1,6 +1,6 @@
 # Pegassi
 
-Pegassi is a Techno and Trance artist with 15 upcoming club dates listed on soundcheck as of Sun, 26 Jul 2026, next at 1015 Folsom, San Francisco/Oakland on Fri, 31 Jul 2026.
+Pegassi is a Techno and Trance artist with 15 upcoming club dates listed on soundcheck as of Mon, 27 Jul 2026, next at 1015 Folsom, San Francisco/Oakland on Fri, 31 Jul 2026.
 
 Pegassi is a techno and trance artist tracked on soundcheck, with 162 sets logged across Aberdeen, Amsterdam, Antwerp and Barcelona and 44 more. Often billed alongside Helena Lauwaert, Anetha and Odymel. Next up: 1015 Folsom, Sanfrancisco on Fri 31 Jul.
 
@@ -36,4 +36,4 @@ Pegassi is a techno and trance artist tracked on soundcheck, with 162 sets logge
 
 Helena Lauwaert, Anetha, Odymel
 
-*Updated Sun, 26 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/pegassi/)*
+*Updated Mon, 27 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/pegassi/)*

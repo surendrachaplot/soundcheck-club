@@ -1,6 +1,6 @@
 # Thiago Guiselini
 
-Thiago Guiselini is a House and Club artist with 2 upcoming club dates listed on soundcheck as of Sun, 26 Jul 2026, next at Lux Fragil, Lisbon on Fri, 31 Jul 2026.
+Thiago Guiselini is a House and Club artist with 2 upcoming club dates listed on soundcheck as of Mon, 27 Jul 2026, next at Lux Fragil, Lisbon on Fri, 31 Jul 2026.
 
 Thiago Guiselini is a house and club artist based in Brazil, tracked on soundcheck, with 29 sets logged across Lisbon, Porto and Saopaulo. Often billed alongside Francisco Berberan, CVLT and Adam Purnell. Next up: Lux Fragil, Lisbon on Fri 31 Jul.
 
@@ -26,4 +26,4 @@ Thiago Guiselini is a house and club artist based in Brazil, tracked on soundche
 
 Francisco Berberan, CVLT, Adam Purnell
 
-*Updated Sun, 26 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/thiagoguiselini/)*
+*Updated Mon, 27 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/thiagoguiselini/)*

@@ -1,6 +1,6 @@
 # Junki Akutagawa
 
-Junki Akutagawa is a Deep House and House artist with 2 upcoming club dates listed on soundcheck as of Sun, 26 Jul 2026, next at Noon + Cafe, Osaka on Fri, 7 Aug 2026.
+Junki Akutagawa is a Deep House and House artist with 2 upcoming club dates listed on soundcheck as of Mon, 27 Jul 2026, next at Noon + Cafe, Osaka on Fri, 7 Aug 2026.
 
 Junki Akutagawa is a deep house and house artist tracked on soundcheck, with 45 sets logged across Osaka. Often billed alongside KONDO Mitsuo, yu-more and Sonny Vercetti. Next up: Noon + Cafe, Osaka on Fri 7 Aug.
 
@@ -26,4 +26,4 @@ Junki Akutagawa is a deep house and house artist tracked on soundcheck, with 45 
 
 KONDO Mitsuo, yu-more, Sonny Vercetti
 
-*Updated Sun, 26 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/junkiakutagawa/)*
+*Updated Mon, 27 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/junkiakutagawa/)*

@@ -1,6 +1,6 @@
 # Ministerium Club
 
-Ministerium Club is a music venue in Lisbon with 6 upcoming nights listed on soundcheck as of Sun, 26 Jul 2026; the next is "Riktus Rebirth - The Anniversary Finale" on Thu, 30 Jul 2026.
+Ministerium Club is a music venue in Lisbon with 6 upcoming nights listed on soundcheck as of Mon, 27 Jul 2026; the next is "Riktus Rebirth - The Anniversary Finale" on Thu, 30 Jul 2026.
 
 Ministerium Club is a music venue in Lisbon listed on soundcheck. 6 upcoming nights, with line-ups including 7CIRCLE, Amulador, Ario and BØĘRY and 2 more. Browse upcoming dates, start times and who's playing. Praça Comércio 72, 1100-148, Lisboa, Portugal.
 
@@ -19,4 +19,4 @@ Ministerium Club is a music venue in Lisbon listed on soundcheck. 6 upcoming nig
 
 Praça Comércio 72, 1100-148, Lisboa, Portugal, Lisbon
 
-*Updated Sun, 26 Jul 2026 · source: [soundcheck](https://soundcheck.club/lisbon/club/ministerium-club/)*
+*Updated Mon, 27 Jul 2026 · source: [soundcheck](https://soundcheck.club/lisbon/club/ministerium-club/)*

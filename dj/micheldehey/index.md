@@ -1,6 +1,6 @@
 # Michel de Hey
 
-Michel de Hey is a House and Tech House artist with 6 upcoming club dates listed on soundcheck as of Sun, 26 Jul 2026, next at Cova Santa, Ibiza on Tue, 28 Jul 2026.
+Michel de Hey is a House and Tech House artist with 6 upcoming club dates listed on soundcheck as of Mon, 27 Jul 2026, next at Cova Santa, Ibiza on Tue, 28 Jul 2026.
 
 Michel de Hey is a house and tech house artist tracked on soundcheck, with 123 sets logged across Amsterdam, Ibiza, Malta and Rotterdam and 3 more. Often billed alongside Benny Rodrigues, Prunk and Philou Louzolo. Next up: Cova Santa, Ibiza on Tue 28 Jul.
 
@@ -30,4 +30,4 @@ Michel de Hey is a house and tech house artist tracked on soundcheck, with 123 s
 
 Benny Rodrigues, Prunk, Philou Louzolo
 
-*Updated Sun, 26 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/micheldehey/)*
+*Updated Mon, 27 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/micheldehey/)*

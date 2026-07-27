@@ -1,6 +1,6 @@
 # Andruss
 
-Andruss is a House and Tech House artist with 2 upcoming club dates listed on soundcheck as of Sun, 26 Jul 2026, next at Elsewhere, New York City on Fri, 7 Aug 2026.
+Andruss is a House and Tech House artist with 2 upcoming club dates listed on soundcheck as of Mon, 27 Jul 2026, next at Elsewhere, New York City on Fri, 7 Aug 2026.
 
 Andruss is a house and tech house artist based in Mexico, tracked on soundcheck, with 34 sets logged across Amsterdam, Austin, Boston and Chicago and 13 more. Often billed alongside Detlef, Green Velvet and LF SYSTEM. Next up: Elsewhere, Newyorkcity on Fri 7 Aug.
 
@@ -26,4 +26,4 @@ Andruss is a house and tech house artist based in Mexico, tracked on soundcheck,
 
 Detlef, Green Velvet, LF SYSTEM
 
-*Updated Sun, 26 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/andruss/)*
+*Updated Mon, 27 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/andruss/)*

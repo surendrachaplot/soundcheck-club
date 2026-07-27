@@ -1,14 +1,13 @@
 # The Fox and Firkin
 
-The Fox and Firkin is a music venue in London with 19 upcoming nights listed on soundcheck as of Sun, 26 Jul 2026; the next is "Tokyo Riddim Sunday" on Sun, 26 Jul 2026.
+The Fox and Firkin is a music venue in London with 18 upcoming nights listed on soundcheck as of Mon, 27 Jul 2026; the next is "Benin International Musical" on Thu, 30 Jul 2026.
 
-The Fox and Firkin is a music venue in London listed on soundcheck. 19 upcoming nights, with line-ups including 3 Minds, a life in space, ARLYSS and Aroop Roy and 2 more. Browse upcoming dates, start times and who's playing. 316 Lewisham High Street London SE136JZ.
+The Fox and Firkin is a music venue in London listed on soundcheck. 18 upcoming nights, with line-ups including 3 Minds, a life in space, ARLYSS and Aroop Roy and 2 more. Browse upcoming dates, start times and who's playing. 316 Lewisham High Street London SE136JZ.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Sun, 26 Jul 2026 | Tokyo Riddim Sunday | Kay Suzuki, Nina Yamada |
 | Thu, 30 Jul 2026 | Benin International Musical |  |
 | Fri, 31 Jul 2026 | Mega Mega | Moina Moin, Phoebe Massey, Tekhole, veryt |
 | Sat, 1 Aug 2026 | Bizarre Trax Open Air | 3 Minds, B.Love, Ethel, Jhobei, Melody RA+RE, Oliver.r, Sam Bangura, ZEUS |
@@ -18,9 +17,10 @@ The Fox and Firkin is a music venue in London listed on soundcheck. 19 upcoming 
 | Fri, 14 Aug 2026 | Fabio & Grooverider | Dj Essence, Fabio, Grooverider, Sweetpea |
 | Sat, 15 Aug 2026 | red room & No Brakes: Shifa Ligero, JVINCENT, ZEE-2, Sampii | JVINCENT, Shifa Ligero, ZEE-2 |
 | Sat, 22 Aug 2026 | Dubtendo Day Party |  |
+| Thu, 27 Aug 2026 | Dende Nation Pre Carnival Night with Reggae Choir |  |
 
 ## Address
 
 316 Lewisham High Street London SE136JZ, London
 
-*Updated Sun, 26 Jul 2026 · source: [soundcheck](https://soundcheck.club/london/club/the-fox-and-firkin/)*
+*Updated Mon, 27 Jul 2026 · source: [soundcheck](https://soundcheck.club/london/club/the-fox-and-firkin/)*

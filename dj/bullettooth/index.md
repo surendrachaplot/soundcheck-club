@@ -1,14 +1,13 @@
 # bullet tooth
 
-bullet tooth is a Garage and House artist with 19 upcoming club dates listed on soundcheck as of Sun, 26 Jul 2026, next at 528 Ibiza, Ibiza on Sun, 26 Jul 2026.
+bullet tooth is a Garage and House artist with 18 upcoming club dates listed on soundcheck as of Mon, 27 Jul 2026, next at Burgess Park, London on Fri, 31 Jul 2026.
 
-bullet tooth is a garage and house artist tracked on soundcheck, with 124 sets logged across Aberdeen, Amsterdam, Antwerp and Austin and 33 more. Often billed alongside Silva Bumpa, Capo Lee and Main Phase. Next up: 528 Ibiza, Ibiza on Sun 26 Jul.
+bullet tooth is a garage and house artist tracked on soundcheck, with 124 sets logged across Aberdeen, Amsterdam, Antwerp and Austin and 33 more. Often billed alongside Silva Bumpa, Capo Lee and Main Phase. Next up: Burgess Park, London on Fri 31 Jul.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sun, 26 Jul 2026 | 528 Ibiza | Ibiza |
 | Fri, 31 Jul 2026 | Burgess Park | London |
 | Fri, 14 Aug 2026 | BRET | Amsterdam |
 | Fri, 14 Aug 2026 | BRET | Amsterdam |
@@ -20,9 +19,11 @@ bullet tooth is a garage and house artist tracked on soundcheck, with 124 sets l
 | Fri, 4 Sept 2026 | Union Park | Chicago |
 | Tue, 22 Sept 2026 | Hï Ibiza | Ibiza |
 | Fri, 25 Sept 2026 | Document | Bristol |
+| Sat, 26 Sept 2026 | Hangaren | Copenhagen |
 
 ## Recently played
 
+- 528 Ibiza, Ibiza — Sun, 26 Jul 2026
 - 528 Ibiza, Ibiza — Sun, 12 Jul 2026
 - Holland Park, Vancouver — Fri, 3 Jul 2026
 - Holland Park, Vancouver — Thu, 2 Jul 2026
@@ -30,10 +31,9 @@ bullet tooth is a garage and house artist tracked on soundcheck, with 124 sets l
 - Amnesia Ibiza, Ibiza — Tue, 16 Jun 2026
 - Cova Santa, Ibiza — Tue, 9 Jun 2026
 - NDSM Docklands, Amsterdam — Fri, 5 Jun 2026
-- Amnesia Ibiza, Ibiza — Mon, 1 Jun 2026
 
 ## Shares bills with
 
 Silva Bumpa, Capo Lee, Main Phase
 
-*Updated Sun, 26 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/bullettooth/)*
+*Updated Mon, 27 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/bullettooth/)*

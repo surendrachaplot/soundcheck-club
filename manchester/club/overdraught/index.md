@@ -1,0 +1,17 @@
+# OverDraught
+
+OverDraught is a music venue in Manchester with 1 upcoming night listed on soundcheck as of Mon, 27 Jul 2026; the next is "Mandelik Sessions 002" on Fri, 14 Aug 2026.
+
+OverDraught is a music venue in Manchester listed on soundcheck. 1 upcoming night. Browse upcoming dates, start times and who's playing. 855 Stockport Rd, Manchester M19 3PW, United Kingdom.
+
+## What's on
+
+| Date | Night | Line-up |
+| --- | --- | --- |
+| Fri, 14 Aug 2026 | Mandelik Sessions 002 |  |
+
+## Address
+
+855 Stockport Rd, Manchester M19 3PW, United Kingdom, Manchester
+
+*Updated Mon, 27 Jul 2026 · source: [soundcheck](https://soundcheck.club/manchester/club/overdraught/)*

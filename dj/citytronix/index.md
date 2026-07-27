@@ -1,6 +1,6 @@
 # CITYTRONIX
 
-CITYTRONIX is a Techno and Trance artist with 3 upcoming club dates listed on soundcheck as of Sun, 26 Jul 2026, next at The White Hotel, Manchester on Sat, 1 Aug 2026.
+CITYTRONIX is a Techno and Trance artist with 3 upcoming club dates listed on soundcheck as of Mon, 27 Jul 2026, next at The White Hotel, Manchester on Sat, 1 Aug 2026.
 
 CITYTRONIX is a techno and trance artist based in United Kingdom, tracked on soundcheck, with 31 sets logged across Brighton, London, Manchester and Munich. Often billed alongside nohexcode, KAVARI and Klahrk. Next up: The White Hotel, Manchester on Sat 1 Aug.
 
@@ -27,4 +27,4 @@ CITYTRONIX is a techno and trance artist based in United Kingdom, tracked on sou
 
 nohexcode, KAVARI, Klahrk
 
-*Updated Sun, 26 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/citytronix/)*
+*Updated Mon, 27 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/citytronix/)*

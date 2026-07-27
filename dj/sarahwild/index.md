@@ -1,14 +1,13 @@
 # Sarah Wild
 
-Sarah Wild is a House and Techno artist with 5 upcoming club dates listed on soundcheck as of Sun, 26 Jul 2026, next at Neulich am Flughafen, Berlin on Sun, 26 Jul 2026.
+Sarah Wild is a House and Techno artist with 4 upcoming club dates listed on soundcheck as of Mon, 27 Jul 2026, next at CLUB OST & RENATE BERLIN, Berlin on Fri, 21 Aug 2026.
 
-Sarah Wild is a house and techno artist tracked on soundcheck, with 100 sets logged across Amsterdam, Berlin, Cologne and Copenhagen and 11 more. Often billed alongside Kotoe, Chris Schwarzwälder and Daniel Cowel. Next up: Neulich am Flughafen, Berlin on Sun 26 Jul.
+Sarah Wild is a house and techno artist tracked on soundcheck, with 100 sets logged across Amsterdam, Berlin, Cologne and Copenhagen and 11 more. Often billed alongside Kotoe, Chris Schwarzwälder and Daniel Cowel. Next up: CLUB OST & RENATE BERLIN, Berlin on Fri 21 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sun, 26 Jul 2026 | Neulich am Flughafen | Berlin |
 | Fri, 21 Aug 2026 | CLUB OST & RENATE BERLIN | Berlin |
 | Sat, 22 Aug 2026 | Thuishaven | Amsterdam |
 | Sat, 5 Sept 2026 | Südbrücke | Cologne |
@@ -16,6 +15,7 @@ Sarah Wild is a house and techno artist tracked on soundcheck, with 100 sets log
 
 ## Recently played
 
+- Neulich am Flughafen, Berlin — Sun, 26 Jul 2026
 - TBA - Kaiser Friedrich Dampfer , Berlin — Fri, 17 Jul 2026
 - Kater, Berlin — Fri, 3 Jul 2026
 - Gestrandet An Der Jannowitzbrücke, Berlin — Sun, 21 Jun 2026
@@ -23,10 +23,9 @@ Sarah Wild is a house and techno artist tracked on soundcheck, with 100 sets log
 - Circle Line Cruises, New York City — Sat, 6 Jun 2026
 - fi, Cologne — Fri, 29 May 2026
 - Renate, Berlin — Thu, 28 May 2026
-- Hip Island, Stuttgart — Sun, 24 May 2026
 
 ## Shares bills with
 
 Kotoe, Chris Schwarzwälder, Daniel Cowel
 
-*Updated Sun, 26 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/sarahwild/)*
+*Updated Mon, 27 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/sarahwild/)*

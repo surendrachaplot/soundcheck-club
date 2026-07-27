@@ -1,6 +1,6 @@
 # Rrose
 
-Rrose is a Techno and Experimental artist with 9 upcoming club dates listed on soundcheck as of Sun, 26 Jul 2026, next at Tunnel Club, Birmingham on Fri, 31 Jul 2026.
+Rrose is a Techno and Experimental artist with 9 upcoming club dates listed on soundcheck as of Mon, 27 Jul 2026, next at Tunnel Club, Birmingham on Fri, 31 Jul 2026.
 
 Rrose is a techno and experimental artist tracked on soundcheck, with 134 sets logged across Amsterdam, Athens, Barcelona and Basel and 44 more. Often billed alongside DJ Nobu, Polygonia and Wata Igarashi. Next up: Tunnel Club, Birmingham on Fri 31 Jul.
 
@@ -33,4 +33,4 @@ Rrose is a techno and experimental artist tracked on soundcheck, with 134 sets l
 
 DJ Nobu, Polygonia, Wata Igarashi
 
-*Updated Sun, 26 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/rrose/)*
+*Updated Mon, 27 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/rrose/)*

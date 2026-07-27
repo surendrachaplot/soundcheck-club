@@ -1,14 +1,13 @@
 # New Cross Inn
 
-New Cross Inn is a music venue in London with 3 upcoming nights listed on soundcheck as of Sun, 26 Jul 2026; the next is "Reiko" on Sun, 26 Jul 2026.
+New Cross Inn is a music venue in London with 2 upcoming nights listed on soundcheck as of Mon, 27 Jul 2026; the next is "Deafkids" on Tue, 20 Oct 2026.
 
-New Cross Inn is a music venue in London listed on soundcheck. 3 upcoming nights, with line-ups including 1111 and BRAVA. Browse upcoming dates, start times and who's playing. 323 New Cross Road; New Cross; London SE14 6AS; United Kingdom.
+New Cross Inn is a music venue in London listed on soundcheck. 2 upcoming nights, with line-ups including 1111 and BRAVA. Browse upcoming dates, start times and who's playing. 323 New Cross Road; New Cross; London SE14 6AS; United Kingdom.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Sun, 26 Jul 2026 | Reiko |  |
 | Tue, 20 Oct 2026 | Deafkids | BRAVA |
 | Thu, 22 Oct 2026 | daisy* | 1111 |
 
@@ -16,4 +15,4 @@ New Cross Inn is a music venue in London listed on soundcheck. 3 upcoming nights
 
 323 New Cross Road; New Cross; London SE14 6AS; United Kingdom, London
 
-*Updated Sun, 26 Jul 2026 · source: [soundcheck](https://soundcheck.club/london/club/new-cross-inn/)*
+*Updated Mon, 27 Jul 2026 · source: [soundcheck](https://soundcheck.club/london/club/new-cross-inn/)*

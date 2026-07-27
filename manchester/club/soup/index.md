@@ -1,6 +1,6 @@
 # Soup
 
-Soup is a music venue in Manchester with 8 upcoming nights listed on soundcheck as of Sun, 26 Jul 2026; the next is "Levy Down Soup" on Fri, 31 Jul 2026.
+Soup is a music venue in Manchester with 8 upcoming nights listed on soundcheck as of Mon, 27 Jul 2026; the next is "Levy Down Soup" on Fri, 31 Jul 2026.
 
 Soup is a music venue in Manchester listed on soundcheck. 8 upcoming nights, with line-ups including A.Morgan, atalaya, Atiké and Big Dope P and 2 more. Browse upcoming dates, start times and who's playing. 31-33 Spear Street, Manchester, M1 1DF, United Kingdom.
 
@@ -21,4 +21,4 @@ Soup is a music venue in Manchester listed on soundcheck. 8 upcoming nights, wit
 
 31-33 Spear Street, Manchester, M1 1DF, United Kingdom, Manchester
 
-*Updated Sun, 26 Jul 2026 · source: [soundcheck](https://soundcheck.club/manchester/club/soup/)*
+*Updated Mon, 27 Jul 2026 · source: [soundcheck](https://soundcheck.club/manchester/club/soup/)*

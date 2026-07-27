@@ -1,8 +1,8 @@
 # Room 2 Glasgow
 
-Room 2 Glasgow is a music venue in Glasgow with 9 upcoming nights listed on soundcheck as of Sun, 26 Jul 2026; the next is "Hardpoint Presents: Double Trouble - Noise of Aggression + more" on Fri, 31 Jul 2026.
+Room 2 Glasgow is a music venue in Glasgow with 10 upcoming nights listed on soundcheck as of Mon, 27 Jul 2026; the next is "Hardpoint Presents: Double Trouble - Noise of Aggression + more" on Fri, 31 Jul 2026.
 
-Room 2 Glasgow is a music venue in Glasgow listed on soundcheck. 9 upcoming nights, with line-ups including 333CXT, Girls of the Internet, KIRSTY and LESSSS and 2 more. Browse upcoming dates, start times and who's playing. 69 Nelson Mandela Pl, Glasgow G2 1QY, United Kingdom.
+Room 2 Glasgow is a music venue in Glasgow listed on soundcheck. 10 upcoming nights, with line-ups including 333CXT, Girls of the Internet, KIRSTY and LESSSS and 2 more. Browse upcoming dates, start times and who's playing. 69 Nelson Mandela Pl, Glasgow G2 1QY, United Kingdom.
 
 ## What's on
 
@@ -11,6 +11,7 @@ Room 2 Glasgow is a music venue in Glasgow listed on soundcheck. 9 upcoming nigh
 | Fri, 31 Jul 2026 | Hardpoint Presents: Double Trouble - Noise of Aggression + more |  |
 | Fri, 7 Aug 2026 | Demolition Pres: Detailed, Umbra + More | UMBRA |
 | Sat, 15 Aug 2026 | LOVEH8: Omaks | 333CXT, OMAKS |
+| Sat, 29 Aug 2026 | Scottish Beatbox Championships 2026 |  |
 | Fri, 4 Sept 2026 | Havox x Demolition Pres: Dros b2b Nøvar & 5vrgn b2b High Voltage |  |
 | Fri, 11 Sept 2026 | ABRUPT presents LESSSS + more | LESSSS |
 | Sat, 10 Oct 2026 | Havox x Demolition Pres: Anoluxx & Dros b2b Nøvar |  |
@@ -22,4 +23,4 @@ Room 2 Glasgow is a music venue in Glasgow listed on soundcheck. 9 upcoming nigh
 
 69 Nelson Mandela Pl, Glasgow G2 1QY, United Kingdom, Glasgow
 
-*Updated Sun, 26 Jul 2026 · source: [soundcheck](https://soundcheck.club/glasgow/club/room-2-glasgow/)*
+*Updated Mon, 27 Jul 2026 · source: [soundcheck](https://soundcheck.club/glasgow/club/room-2-glasgow/)*

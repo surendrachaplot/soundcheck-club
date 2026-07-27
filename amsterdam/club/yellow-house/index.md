@@ -1,6 +1,6 @@
 # Yellow House
 
-Yellow House is a music venue in Amsterdam with 3 upcoming nights listed on soundcheck as of Sun, 26 Jul 2026; the next is "SINE OFF" on Fri, 31 Jul 2026.
+Yellow House is a music venue in Amsterdam with 3 upcoming nights listed on soundcheck as of Mon, 27 Jul 2026; the next is "SINE OFF" on Fri, 31 Jul 2026.
 
 Yellow House is a music venue in Amsterdam listed on soundcheck. 3 upcoming nights, with line-ups including JØASE and Micky Hurts. Browse upcoming dates, start times and who's playing. 1013AM Amsterdam, Danzigerbocht 45-R.
 
@@ -16,4 +16,4 @@ Yellow House is a music venue in Amsterdam listed on soundcheck. 3 upcoming nigh
 
 1013AM Amsterdam, Danzigerbocht 45-R, Amsterdam
 
-*Updated Sun, 26 Jul 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/yellow-house/)*
+*Updated Mon, 27 Jul 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/yellow-house/)*

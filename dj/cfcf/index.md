@@ -1,6 +1,6 @@
 # CFCF
 
-CFCF is a House and Electronica artist with 2 upcoming club dates listed on soundcheck as of Sun, 26 Jul 2026, next at TBA - Koreatown, Los Angeles, Los Angeles on Fri, 31 Jul 2026.
+CFCF is a House and Electronica artist with 2 upcoming club dates listed on soundcheck as of Mon, 27 Jul 2026, next at TBA - Koreatown, Los Angeles, Los Angeles on Fri, 31 Jul 2026.
 
 CFCF is a house and electronica artist based in Canada, tracked on soundcheck, with 25 sets logged across Losangeles, Montreal, Newyorkcity and Portland and 4 more. Often billed alongside Bianca Lexis, Doss and Jacques Greene. Next up: TBA - Koreatown, Los Angeles, Losangeles on Fri 31 Jul.
 
@@ -26,4 +26,4 @@ CFCF is a house and electronica artist based in Canada, tracked on soundcheck, w
 
 Bianca Lexis, Doss, Jacques Greene
 
-*Updated Sun, 26 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/cfcf/)*
+*Updated Mon, 27 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/cfcf/)*

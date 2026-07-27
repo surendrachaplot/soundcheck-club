@@ -1,6 +1,6 @@
 # Akaj
 
-Akaj is a House and Electro artist with 2 upcoming club dates listed on soundcheck as of Sun, 26 Jul 2026, next at Club der Visionaere, Berlin on Tue, 28 Jul 2026.
+Akaj is a House and Electro artist with 2 upcoming club dates listed on soundcheck as of Mon, 27 Jul 2026, next at Club der Visionaere, Berlin on Tue, 28 Jul 2026.
 
 Akaj is a house and electro artist based in Slovenia, tracked on soundcheck, with 30 sets logged across Amsterdam, Athens, Barcelona and Berlin and 13 more. Often billed alongside Audri, Eliza (2) and Enrica Hz. Next up: Club der Visionaere, Berlin on Tue 28 Jul.
 
@@ -26,4 +26,4 @@ Akaj is a house and electro artist based in Slovenia, tracked on soundcheck, wit
 
 Audri, Eliza (2), Enrica Hz
 
-*Updated Sun, 26 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/akaj/)*
+*Updated Mon, 27 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/akaj/)*

@@ -1,14 +1,13 @@
 # Riordan
 
-Riordan is a House and Tech House artist with 8 upcoming club dates listed on soundcheck as of Sun, 26 Jul 2026, next at Bronze Beach, Amsterdam on Sun, 26 Jul 2026.
+Riordan is a House and Tech House artist with 7 upcoming club dates listed on soundcheck as of Mon, 27 Jul 2026, next at Burgess Park, London on Fri, 31 Jul 2026.
 
-Riordan is a house and tech house artist tracked on soundcheck, with 116 sets logged across Amsterdam, Austin, Barcelona and Belfast and 35 more. Often billed alongside Gorgon City, Prunk and Hot Since 82. Next up: Bronze Beach, Amsterdam on Sun 26 Jul.
+Riordan is a house and tech house artist tracked on soundcheck, with 116 sets logged across Amsterdam, Austin, Barcelona and Belfast and 35 more. Often billed alongside Gorgon City, Prunk and Hot Since 82. Next up: Burgess Park, London on Fri 31 Jul.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sun, 26 Jul 2026 | Bronze Beach | Amsterdam |
 | Fri, 31 Jul 2026 | Burgess Park | London |
 | Tue, 18 Aug 2026 | BCM | Mallorca |
 | Wed, 19 Aug 2026 | [UNVRS] | Ibiza |
@@ -19,6 +18,7 @@ Riordan is a house and tech house artist tracked on soundcheck, with 116 sets lo
 
 ## Recently played
 
+- Bronze Beach, Amsterdam — Sun, 26 Jul 2026
 - Boomerang Beach, The Hague — Fri, 24 Jul 2026
 - Knockdown Center, New York City — Fri, 10 Jul 2026
 - Heaton Park, Manchester — Sat, 20 Jun 2026
@@ -26,10 +26,9 @@ Riordan is a house and tech house artist tracked on soundcheck, with 116 sets lo
 - Amnesia Ibiza, Ibiza — Tue, 16 Jun 2026
 - Digital, Newcastle — Fri, 5 Jun 2026
 - Amnesia Ibiza, Ibiza — Mon, 1 Jun 2026
-- RFK Stadium Memorial Stadium, Washington DC — Sat, 30 May 2026
 
 ## Shares bills with
 
 Gorgon City, Prunk, Hot Since 82
 
-*Updated Sun, 26 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/riordan/)*
+*Updated Mon, 27 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/riordan/)*

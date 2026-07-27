@@ -1,6 +1,6 @@
 # K1ng Arthur
 
-K1ng Arthur is a Garage and Tech House artist with 2 upcoming club dates listed on soundcheck as of Sun, 26 Jul 2026, next at Hidden, Manchester on Fri, 21 Aug 2026.
+K1ng Arthur is a Garage and Tech House artist with 2 upcoming club dates listed on soundcheck as of Mon, 27 Jul 2026, next at Hidden, Manchester on Fri, 21 Aug 2026.
 
 K1ng Arthur is a garage and tech house artist based in United Kingdom, tracked on soundcheck, with 39 sets logged across London and Manchester. Often billed alongside Jacob Friday, Maddra dj and Celdred. Next up: Hidden, Manchester on Fri 21 Aug.
 
@@ -26,4 +26,4 @@ K1ng Arthur is a garage and tech house artist based in United Kingdom, tracked o
 
 Jacob Friday, Maddra dj, Celdred
 
-*Updated Sun, 26 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/k1ngarthur/)*
+*Updated Mon, 27 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/k1ngarthur/)*

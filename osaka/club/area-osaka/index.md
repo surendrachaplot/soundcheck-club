@@ -1,6 +1,6 @@
 # Area_osaka
 
-Area_osaka is a music venue in Osaka with 2 upcoming nights listed on soundcheck as of Sun, 26 Jul 2026; the next is "BAR TIME BGM DJ@Area_osaka" on Tue, 28 Jul 2026.
+Area_osaka is a music venue in Osaka with 2 upcoming nights listed on soundcheck as of Mon, 27 Jul 2026; the next is "BAR TIME BGM DJ@Area_osaka" on Tue, 28 Jul 2026.
 
 Area_osaka is a music venue in Osaka listed on soundcheck. 2 upcoming nights, with line-ups including DJ Morita. Browse upcoming dates, start times and who's playing. 3F Nakanishi Building, 1-8-16 Nishi-Shinsaibashi, Chuo-ku, Osaka-shi, Osaka 542-0086.
 
@@ -15,4 +15,4 @@ Area_osaka is a music venue in Osaka listed on soundcheck. 2 upcoming nights, wi
 
 3F Nakanishi Building, 1-8-16 Nishi-Shinsaibashi, Chuo-ku, Osaka-shi, Osaka 542-0086, Osaka
 
-*Updated Sun, 26 Jul 2026 · source: [soundcheck](https://soundcheck.club/osaka/club/area-osaka/)*
+*Updated Mon, 27 Jul 2026 · source: [soundcheck](https://soundcheck.club/osaka/club/area-osaka/)*

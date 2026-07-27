@@ -1,6 +1,6 @@
 # Good Question
 
-Good Question is a House and Disco artist with 2 upcoming club dates listed on soundcheck as of Sun, 26 Jul 2026, next at Hawthorn, San Francisco/Oakland on Thu, 30 Jul 2026.
+Good Question is a House and Disco artist with 2 upcoming club dates listed on soundcheck as of Mon, 27 Jul 2026, next at Hawthorn, San Francisco/Oakland on Thu, 30 Jul 2026.
 
 Good Question is a house and disco artist based in United States of America, tracked on soundcheck, with 30 sets logged across Losangeles and Sanfrancisco. Often billed alongside &ndmore, Anthony Mansfield and Combover. Next up: Hawthorn, Sanfrancisco on Thu 30 Jul.
 
@@ -26,4 +26,4 @@ Good Question is a house and disco artist based in United States of America, tra
 
 &ndmore, Anthony Mansfield, Combover
 
-*Updated Sun, 26 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/goodquestion/)*
+*Updated Mon, 27 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/goodquestion/)*

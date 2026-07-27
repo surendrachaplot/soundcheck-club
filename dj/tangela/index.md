@@ -1,14 +1,15 @@
 # Tangela
 
-Tangela is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Sun, 26 Jul 2026, next at De Fik Garden, Amsterdam on Fri, 31 Jul 2026.
+Tangela is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Mon, 27 Jul 2026, next at De Fik Garden, Amsterdam on Fri, 31 Jul 2026.
 
-Tangela is a techno and house artist tracked on soundcheck, with 111 sets logged across Amsterdam, Berlin, Brussels and Copenhagen and 10 more. Often billed alongside Kia (AU), amuwa and Andy Garvey. Next up: De Fik Garden, Amsterdam on Fri 31 Jul.
+Tangela is a techno and house artist tracked on soundcheck, with 112 sets logged across Amsterdam, Berlin, Brussels and Copenhagen and 10 more. Often billed alongside Kia (AU), amuwa and Andy Garvey. Next up: De Fik Garden, Amsterdam on Fri 31 Jul.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 31 Jul 2026 | De Fik Garden | Amsterdam |
+| Fri, 31 Jul 2026 | Jolene | Copenhagen |
 | Sat, 8 Aug 2026 | FOLD | London |
 
 ## Recently played
@@ -26,4 +27,4 @@ Tangela is a techno and house artist tracked on soundcheck, with 111 sets logged
 
 Kia (AU), amuwa, Andy Garvey
 
-*Updated Sun, 26 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/tangela/)*
+*Updated Mon, 27 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/tangela/)*

@@ -1,6 +1,6 @@
 # Dekmantel Soundsystem
 
-Dekmantel Soundsystem is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Sun, 26 Jul 2026, next at Amsterdamse Bos, Amsterdam on Wed, 29 Jul 2026.
+Dekmantel Soundsystem is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Mon, 27 Jul 2026, next at Amsterdamse Bos, Amsterdam on Wed, 29 Jul 2026.
 
 Dekmantel Soundsystem is a house and techno artist tracked on soundcheck, with 45 sets logged across Amsterdam, Bali, Bangkok and Barcelona and 24 more. Often billed alongside Casper Tielrooij, RHR and Call Super. Next up: Amsterdamse Bos, Amsterdam on Wed 29 Jul.
 
@@ -26,4 +26,4 @@ Dekmantel Soundsystem is a house and techno artist tracked on soundcheck, with 4
 
 Casper Tielrooij, RHR, Call Super
 
-*Updated Sun, 26 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/dekmantelsoundsystem/)*
+*Updated Mon, 27 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/dekmantelsoundsystem/)*

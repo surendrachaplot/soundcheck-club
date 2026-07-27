@@ -1,14 +1,13 @@
 # Kerri Chandler
 
-Kerri Chandler is a House and Techno artist with 6 upcoming club dates listed on soundcheck as of Sun, 26 Jul 2026, next at Cova Santa, Ibiza on Sun, 26 Jul 2026.
+Kerri Chandler is a House and Techno artist with 5 upcoming club dates listed on soundcheck as of Mon, 27 Jul 2026, next at Queen's Park Arena, Glasgow on Sat, 1 Aug 2026.
 
-Kerri Chandler is a house and techno artist tracked on soundcheck, with 150 sets logged across Amsterdam, Austin, Barcelona and Basel and 33 more. Often billed alongside Chris Stussy, Seth Troxler and DJ Tennis. Next up: Cova Santa, Ibiza on Sun 26 Jul.
+Kerri Chandler is a house and techno artist tracked on soundcheck, with 150 sets logged across Amsterdam, Austin, Barcelona and Basel and 33 more. Often billed alongside Chris Stussy, Seth Troxler and DJ Tennis. Next up: Queen's Park Arena, Glasgow on Sat 1 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sun, 26 Jul 2026 | Cova Santa | Ibiza |
 | Sat, 1 Aug 2026 | Queen's Park Arena | Glasgow |
 | Sat, 15 Aug 2026 | Chinois Ibiza | Ibiza |
 | Sat, 22 Aug 2026 | Hï Ibiza | Ibiza |
@@ -17,6 +16,7 @@ Kerri Chandler is a house and techno artist tracked on soundcheck, with 150 sets
 
 ## Recently played
 
+- Cova Santa, Ibiza — Sun, 26 Jul 2026
 - Thuishaven, Amsterdam — Sun, 12 Jul 2026
 - Parque Eduardo VII, Lisbon — Fri, 3 Jul 2026
 - Club Space Miami, Miami — Sat, 13 Jun 2026
@@ -24,10 +24,9 @@ Kerri Chandler is a house and techno artist tracked on soundcheck, with 150 sets
 - High Lights - Barking Park, London — Sat, 30 May 2026
 - Chelmsford City Racecourse, London — Sat, 23 May 2026
 - Sandown Racecourse, London — Sat, 23 May 2026
-- Musée de l'Air et de l'Espace, Paris — Fri, 22 May 2026
 
 ## Shares bills with
 
 Chris Stussy, Seth Troxler, DJ Tennis
 
-*Updated Sun, 26 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/kerrichandler/)*
+*Updated Mon, 27 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/kerrichandler/)*

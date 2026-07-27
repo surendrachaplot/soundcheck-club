@@ -1,6 +1,6 @@
 # UniKhatu
 
-UniKhatu is a Techno and Tech House artist with 6 upcoming club dates listed on soundcheck as of Sun, 26 Jul 2026, next at OXI, Berlin on Thu, 30 Jul 2026.
+UniKhatu is a Techno and Tech House artist with 6 upcoming club dates listed on soundcheck as of Mon, 27 Jul 2026, next at OXI, Berlin on Thu, 30 Jul 2026.
 
 UniKhatu is a techno and tech house artist tracked on soundcheck, with 50 sets logged across Berlin and Ghent. Often billed alongside pink-panther, Ayham and Elis. Next up: OXI, Berlin on Thu 30 Jul.
 
@@ -30,4 +30,4 @@ UniKhatu is a techno and tech house artist tracked on soundcheck, with 50 sets l
 
 pink-panther, Ayham, Elis
 
-*Updated Sun, 26 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/unikhatu/)*
+*Updated Mon, 27 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/unikhatu/)*

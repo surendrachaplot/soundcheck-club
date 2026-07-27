@@ -1,6 +1,6 @@
 # E.LINA
 
-E.LINA is a House and Techno artist with 4 upcoming club dates listed on soundcheck as of Sun, 26 Jul 2026, next at 528 Ibiza, Ibiza on Tue, 28 Jul 2026.
+E.LINA is a House and Techno artist with 4 upcoming club dates listed on soundcheck as of Mon, 27 Jul 2026, next at 528 Ibiza, Ibiza on Tue, 28 Jul 2026.
 
 E.LINA is a house and techno artist based in Ukraine, tracked on soundcheck, with 143 sets logged across Amsterdam, Barcelona, Berlin and Brussels and 29 more. Often billed alongside Annyrock, DJ Senc and Dyed Soundorom. Next up: 528 Ibiza, Ibiza on Tue 28 Jul.
 
@@ -28,4 +28,4 @@ E.LINA is a house and techno artist based in Ukraine, tracked on soundcheck, wit
 
 Annyrock, DJ Senc, Dyed Soundorom
 
-*Updated Sun, 26 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/e-lina/)*
+*Updated Mon, 27 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/e-lina/)*

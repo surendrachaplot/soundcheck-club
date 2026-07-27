@@ -1,6 +1,6 @@
 # The Glove That Fits
 
-The Glove That Fits is a music venue in London with 17 upcoming nights listed on soundcheck as of Sun, 26 Jul 2026; the next is "Custard Soup: Vol 3 - with special guest Nissan Micro Pig (Pzyk Gürls)" on Fri, 31 Jul 2026.
+The Glove That Fits is a music venue in London with 17 upcoming nights listed on soundcheck as of Mon, 27 Jul 2026; the next is "Custard Soup: Vol 3 - with special guest Nissan Micro Pig (Pzyk Gürls)" on Fri, 31 Jul 2026.
 
 The Glove That Fits is a music venue in London listed on soundcheck. 17 upcoming nights, with line-ups including 7005, Aero (1), AJ Manning and Alfaz and 2 more. Browse upcoming dates, start times and who's playing. 179 Morning Lane, Hackney, E96LH, United Kingdom.
 
@@ -23,4 +23,4 @@ The Glove That Fits is a music venue in London listed on soundcheck. 17 upcoming
 
 179 Morning Lane, Hackney, E96LH, United Kingdom, London
 
-*Updated Sun, 26 Jul 2026 · source: [soundcheck](https://soundcheck.club/london/club/the-glove-that-fits/)*
+*Updated Mon, 27 Jul 2026 · source: [soundcheck](https://soundcheck.club/london/club/the-glove-that-fits/)*

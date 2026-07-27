@@ -1,6 +1,6 @@
 # Marco Strous
 
-Marco Strous is a Tech House and House artist with 3 upcoming club dates listed on soundcheck as of Sun, 26 Jul 2026, next at Jolene Downtown Miami, Miami on Sat, 1 Aug 2026.
+Marco Strous is a Tech House and House artist with 3 upcoming club dates listed on soundcheck as of Mon, 27 Jul 2026, next at Jolene Downtown Miami, Miami on Sat, 1 Aug 2026.
 
 Marco Strous is a tech house and house artist based in Portugal, tracked on soundcheck, with 34 sets logged across Austin, Boston, Chicago and Leeds and 11 more. Often billed alongside Chris Lake, MPH (1) and Ale Grooves. Next up: Jolene Downtown Miami, Miami on Sat 1 Aug.
 
@@ -27,4 +27,4 @@ Marco Strous is a tech house and house artist based in Portugal, tracked on soun
 
 Chris Lake, MPH (1), Ale Grooves
 
-*Updated Sun, 26 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/marcostrous/)*
+*Updated Mon, 27 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/marcostrous/)*

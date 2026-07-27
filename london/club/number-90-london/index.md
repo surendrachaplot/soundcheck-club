@@ -1,14 +1,13 @@
 # NUMBER 90 LONDON
 
-NUMBER 90 LONDON is a music venue in London with 9 upcoming nights listed on soundcheck as of Sun, 26 Jul 2026; the next is "Snooze After Hours" on Sun, 26 Jul 2026.
+NUMBER 90 LONDON is a music venue in London with 8 upcoming nights listed on soundcheck as of Mon, 27 Jul 2026; the next is "The Mixmag Lab London with La La, Papa Nugs & Aika Mal" on Thu, 30 Jul 2026.
 
-NUMBER 90 LONDON is a music venue in London listed on soundcheck. 9 upcoming nights, with line-ups including 1BYAKKO, Justine Perry, A.Wild and Adam Curtain and 2 more. Browse upcoming dates, start times and who's playing. 90 Main Yard; Wallis Road; London E9 5LN; United Kingdom.
+NUMBER 90 LONDON is a music venue in London listed on soundcheck. 8 upcoming nights, with line-ups including 1BYAKKO, Justine Perry, A.Wild and Adam Curtain and 2 more. Browse upcoming dates, start times and who's playing. 90 Main Yard; Wallis Road; London E9 5LN; United Kingdom.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Sun, 26 Jul 2026 | Snooze After Hours | Belin, CAMIVINA, Horston, Slumber, TAITO, VENT (3), Vivi (2), dgbt, ØLMØ |
 | Thu, 30 Jul 2026 | The Mixmag Lab London with La La, Papa Nugs & Aika Mal | Aika Mal, La La, Papa Nugs |
 | Sun, 9 Aug 2026 | Elata Collective 013: 26hours Summer Edition [AFTERHOURS] | 1BYAKKO, Aniaef, Deranged, GIZZI, H Grade, Hitam, James Harbrecht, Justine Perry, KETCH, TAARIS, Uväll, WINDFUHR, Ylia (UK), markellos |
 | Fri, 21 Aug 2026 | Kooky Ken: Label Launch Party | A.Wild, Benny Bysouth, Cam Harrop, Kennedy (UK), Redshift (2) |
@@ -22,4 +21,4 @@ NUMBER 90 LONDON is a music venue in London listed on soundcheck. 9 upcoming nig
 
 90 Main Yard; Wallis Road; London E9 5LN; United Kingdom, London
 
-*Updated Sun, 26 Jul 2026 · source: [soundcheck](https://soundcheck.club/london/club/number-90-london/)*
+*Updated Mon, 27 Jul 2026 · source: [soundcheck](https://soundcheck.club/london/club/number-90-london/)*

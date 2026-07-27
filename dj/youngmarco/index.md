@@ -1,6 +1,6 @@
 # Young Marco
 
-Young Marco is a House and Techno artist with 5 upcoming club dates listed on soundcheck as of Sun, 26 Jul 2026, next at Silencio, Paris on Sat, 1 Aug 2026.
+Young Marco is a House and Techno artist with 5 upcoming club dates listed on soundcheck as of Mon, 27 Jul 2026, next at Silencio, Paris on Sat, 1 Aug 2026.
 
 Young Marco is a house and techno artist tracked on soundcheck, with 209 sets logged across Amsterdam, Antwerp, Bali and Bangkok and 64 more. Often billed alongside Job Jobse, DJ Gigola and Narciss. Next up: Silencio, Paris on Sat 1 Aug.
 
@@ -29,4 +29,4 @@ Young Marco is a house and techno artist tracked on soundcheck, with 209 sets lo
 
 Job Jobse, DJ Gigola, Narciss
 
-*Updated Sun, 26 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/youngmarco/)*
+*Updated Mon, 27 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/youngmarco/)*

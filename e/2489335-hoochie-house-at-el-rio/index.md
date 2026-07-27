@@ -1,6 +1,6 @@
 # Hoochie House at El Rio
 
-Hoochie House at El Rio on Sat 1 Aug, Sanfrancisco. 2 acts on the bill: Discnogirl and Lonald J. Bandz. Club and Ghetto Tech. Preview the line-up and save it on soundcheck.
+Hoochie House at El Rio on Sat 1 Aug, Sanfrancisco. 3 acts on the bill: Discnogirl, ECTO (3) and Lonald J. Bandz. Club and Ghetto Tech. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -11,6 +11,7 @@ Hoochie House at El Rio on Sat 1 Aug, Sanfrancisco. 2 acts on the bill: Discnogi
 ## Line-up
 
 - Discnogirl
+- ECTO (3)
 - Lonald J. Bandz
 
 *Source: [soundcheck](https://soundcheck.club/e/2489335-hoochie-house-at-el-rio/)*

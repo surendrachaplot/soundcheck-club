@@ -1,6 +1,6 @@
 # Cabaret Voltaire
 
-Cabaret Voltaire is a music venue in Edinburgh with 12 upcoming nights listed on soundcheck as of Sun, 26 Jul 2026; the next is "EASTBOUND: Seb Zito" on Fri, 31 Jul 2026.
+Cabaret Voltaire is a music venue in Edinburgh with 12 upcoming nights listed on soundcheck as of Mon, 27 Jul 2026; the next is "EASTBOUND: Seb Zito" on Fri, 31 Jul 2026.
 
 Cabaret Voltaire is a music venue in Edinburgh listed on soundcheck. 12 upcoming nights, with line-ups including Benwal, Crazy P, Dean Turnley and Ellia Jaya and 2 more. Browse upcoming dates, start times and who's playing. 36-38 Blair St; Edinburgh, EH1 1QR; Scotland; United Kingdom.
 
@@ -23,4 +23,4 @@ Cabaret Voltaire is a music venue in Edinburgh listed on soundcheck. 12 upcoming
 
 36-38 Blair St; Edinburgh, EH1 1QR; Scotland; United Kingdom, Edinburgh
 
-*Updated Sun, 26 Jul 2026 · source: [soundcheck](https://soundcheck.club/edinburgh/club/cabaret-voltaire/)*
+*Updated Mon, 27 Jul 2026 · source: [soundcheck](https://soundcheck.club/edinburgh/club/cabaret-voltaire/)*

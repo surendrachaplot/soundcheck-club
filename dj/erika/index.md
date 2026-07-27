@@ -1,6 +1,6 @@
 # Erika
 
-Erika is a Techno and Acid artist with 4 upcoming club dates listed on soundcheck as of Sun, 26 Jul 2026, next at Marble Bar, Detroit on Sat, 1 Aug 2026.
+Erika is a Techno and Acid artist with 4 upcoming club dates listed on soundcheck as of Mon, 27 Jul 2026, next at Marble Bar, Detroit on Sat, 1 Aug 2026.
 
 Erika is a techno and acid artist tracked on soundcheck, with 107 sets logged across Amsterdam, Berlin, Bristol and Brussels and 18 more. Often billed alongside BMG, Mike Servito and Derek Plaslaiko. Next up: Marble Bar, Detroit on Sat 1 Aug.
 
@@ -28,4 +28,4 @@ Erika is a techno and acid artist tracked on soundcheck, with 107 sets logged ac
 
 BMG, Mike Servito, Derek Plaslaiko
 
-*Updated Sun, 26 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/erika/)*
+*Updated Mon, 27 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/erika/)*

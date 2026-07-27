@@ -1,6 +1,6 @@
 # Mila Black
 
-Mila Black is a Techno and Acid artist with 3 upcoming club dates listed on soundcheck as of Sun, 26 Jul 2026, next at Tresor / Globus, Berlin on Mon, 3 Aug 2026.
+Mila Black is a Techno and Acid artist with 3 upcoming club dates listed on soundcheck as of Mon, 27 Jul 2026, next at Tresor / Globus, Berlin on Mon, 3 Aug 2026.
 
 Mila Black is a techno and acid artist based in Netherlands, tracked on soundcheck, with 38 sets logged across Amsterdam, Berlin, Hamburg and Munich and 3 more. Often billed alongside MCR-T, TWIENA and ALCATRAZ. Next up: Tresor / Globus, Berlin on Mon 3 Aug.
 
@@ -27,4 +27,4 @@ Mila Black is a techno and acid artist based in Netherlands, tracked on soundche
 
 MCR-T, TWIENA, ALCATRAZ
 
-*Updated Sun, 26 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/milablack/)*
+*Updated Mon, 27 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/milablack/)*

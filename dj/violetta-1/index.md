@@ -1,6 +1,6 @@
 # Violetta (1)
 
-Violetta (1) is a Techno and Industrial artist with 2 upcoming club dates listed on soundcheck as of Sun, 26 Jul 2026, next at ÆDEN, Berlin on Fri, 31 Jul 2026.
+Violetta (1) is a Techno and Industrial artist with 2 upcoming club dates listed on soundcheck as of Mon, 27 Jul 2026, next at ÆDEN, Berlin on Fri, 31 Jul 2026.
 
 Violetta (1) is a techno and industrial artist tracked on soundcheck, with 38 sets logged across Berlin, Tokyo and Vienna. Often billed alongside DJ Deadlift, Gerald VDH and Hannah mit Hut. Next up: ÆDEN, Berlin on Fri 31 Jul.
 
@@ -26,4 +26,4 @@ Violetta (1) is a techno and industrial artist tracked on soundcheck, with 38 se
 
 DJ Deadlift, Gerald VDH, Hannah mit Hut
 
-*Updated Sun, 26 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/violetta-1/)*
+*Updated Mon, 27 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/violetta-1/)*

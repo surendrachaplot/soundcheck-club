@@ -1,6 +1,6 @@
 # Miscellania
 
-Miscellania is a music venue in Melbourne with 6 upcoming nights listed on soundcheck as of Sun, 26 Jul 2026; the next is "Arca: XXXXX Listening Party" on Thu, 30 Jul 2026.
+Miscellania is a music venue in Melbourne with 6 upcoming nights listed on soundcheck as of Mon, 27 Jul 2026; the next is "Arca: XXXXX Listening Party" on Thu, 30 Jul 2026.
 
 Miscellania is a music venue in Melbourne listed on soundcheck. 6 upcoming nights, with line-ups including Aaliyah Salem, Aashofteh, AMIRA and ATARANGI and 2 more. Browse upcoming dates, start times and who's playing. 2/401 Swanston St, Melbourne VIC 3004.
 
@@ -19,4 +19,4 @@ Miscellania is a music venue in Melbourne listed on soundcheck. 6 upcoming night
 
 2/401 Swanston St, Melbourne VIC 3004, Melbourne
 
-*Updated Sun, 26 Jul 2026 · source: [soundcheck](https://soundcheck.club/melbourne/club/miscellania/)*
+*Updated Mon, 27 Jul 2026 · source: [soundcheck](https://soundcheck.club/melbourne/club/miscellania/)*

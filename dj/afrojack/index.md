@@ -1,6 +1,6 @@
 # Afrojack
 
-Afrojack is a House and Progressive House artist with 6 upcoming club dates listed on soundcheck as of Sun, 26 Jul 2026, next at Ushuaïa Ibiza, Ibiza on Thu, 30 Jul 2026.
+Afrojack is a House and Progressive House artist with 6 upcoming club dates listed on soundcheck as of Mon, 27 Jul 2026, next at Ushuaïa Ibiza, Ibiza on Thu, 30 Jul 2026.
 
 Afrojack is a house and progressive house artist based in Netherlands, tracked on soundcheck, with 48 sets logged across Amsterdam, Boston, Buenosaires and Chicago and 16 more. Often billed alongside David Guetta, Paul Reynolds and Martin Garrix. Next up: Ushuaïa Ibiza, Ibiza on Thu 30 Jul.
 
@@ -30,4 +30,4 @@ Afrojack is a house and progressive house artist based in Netherlands, tracked o
 
 David Guetta, Paul Reynolds, Martin Garrix
 
-*Updated Sun, 26 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/afrojack/)*
+*Updated Mon, 27 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/afrojack/)*

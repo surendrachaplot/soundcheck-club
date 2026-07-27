@@ -1,14 +1,13 @@
 # Boris Brejcha
 
-Boris Brejcha is a Techno and Minimal Techno artist with 10 upcoming club dates listed on soundcheck as of Sun, 26 Jul 2026, next at Hollywood Bowl, Los Angeles on Sun, 26 Jul 2026.
+Boris Brejcha is a Techno and Minimal Techno artist with 9 upcoming club dates listed on soundcheck as of Mon, 27 Jul 2026, next at Radius, Chicago on Wed, 29 Jul 2026.
 
-Boris Brejcha is a techno and minimal techno artist tracked on soundcheck, with 110 sets logged across Amsterdam, Athens, Austin and Bali and 44 more. Often billed alongside Moritz Hofbauer, Deniz Bul and Ann Clue. Next up: Hollywood Bowl, Losangeles on Sun 26 Jul.
+Boris Brejcha is a techno and minimal techno artist tracked on soundcheck, with 110 sets logged across Amsterdam, Athens, Austin and Bali and 44 more. Often billed alongside Moritz Hofbauer, Deniz Bul and Ann Clue. Next up: Radius, Chicago on Wed 29 Jul.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sun, 26 Jul 2026 | Hollywood Bowl | Los Angeles |
 | Wed, 29 Jul 2026 | Radius | Chicago |
 | Wed, 12 Aug 2026 | Amnesia Ibiza | Ibiza |
 | Sat, 15 Aug 2026 | TBA | Brussels |
@@ -21,6 +20,7 @@ Boris Brejcha is a techno and minimal techno artist tracked on soundcheck, with 
 
 ## Recently played
 
+- Hollywood Bowl, Los Angeles — Sun, 26 Jul 2026
 - Club Space Miami, Miami — Fri, 24 Jul 2026
 - Amnesia Ibiza, Ibiza — Wed, 22 Jul 2026
 - Dolder Kunsteisbahn Zurich, Zurich — Sat, 4 Jul 2026
@@ -28,10 +28,9 @@ Boris Brejcha is a techno and minimal techno artist tracked on soundcheck, with 
 - Autódromo de Interlagos, Sao Paulo — Fri, 5 Jun 2026
 - Industry City, New York City — Sun, 17 May 2026
 - Royale, Boston — Sat, 16 May 2026
-- A.i Warehouse, Washington DC — Fri, 15 May 2026
 
 ## Shares bills with
 
 Moritz Hofbauer, Deniz Bul, Ann Clue
 
-*Updated Sun, 26 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/borisbrejcha/)*
+*Updated Mon, 27 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/borisbrejcha/)*

@@ -1,6 +1,6 @@
 # Maddix
 
-Maddix is a Techno and Trance artist with 7 upcoming club dates listed on soundcheck as of Sun, 26 Jul 2026, next at Downsview Park, Toronto on Fri, 31 Jul 2026.
+Maddix is a Techno and Trance artist with 7 upcoming club dates listed on soundcheck as of Mon, 27 Jul 2026, next at Downsview Park, Toronto on Fri, 31 Jul 2026.
 
 Maddix is a techno and trance artist tracked on soundcheck, with 151 sets logged across Amsterdam, Austin, Bangkok and Basel and 54 more. Often billed alongside The Rocketman, Billy Gillies and Armin van Buuren. Next up: Downsview Park, Toronto on Fri 31 Jul.
 
@@ -31,4 +31,4 @@ Maddix is a techno and trance artist tracked on soundcheck, with 151 sets logged
 
 The Rocketman, Billy Gillies, Armin van Buuren
 
-*Updated Sun, 26 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/maddix/)*
+*Updated Mon, 27 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/maddix/)*

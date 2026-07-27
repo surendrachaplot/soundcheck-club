@@ -1,6 +1,6 @@
 # The Racket Space
 
-The Racket Space is a music venue in Dublin with 9 upcoming nights listed on soundcheck as of Sun, 26 Jul 2026; the next is "UNLEASHED" on Sat, 1 Aug 2026.
+The Racket Space is a music venue in Dublin with 9 upcoming nights listed on soundcheck as of Mon, 27 Jul 2026; the next is "UNLEASHED" on Sat, 1 Aug 2026.
 
 The Racket Space is a music venue in Dublin listed on soundcheck. 9 upcoming nights, with line-ups including 1morning, camoufly, EMMIE and Fayeolo and 2 more. Browse upcoming dates, start times and who's playing. Cross Guns Bridge, Drumcondra, Dublin 9, D09 XW44.
 
@@ -22,4 +22,4 @@ The Racket Space is a music venue in Dublin listed on soundcheck. 9 upcoming nig
 
 Cross Guns Bridge, Drumcondra, Dublin 9, D09 XW44, Dublin
 
-*Updated Sun, 26 Jul 2026 · source: [soundcheck](https://soundcheck.club/dublin/club/the-racket-space/)*
+*Updated Mon, 27 Jul 2026 · source: [soundcheck](https://soundcheck.club/dublin/club/the-racket-space/)*

@@ -1,6 +1,6 @@
 # Julya Karma
 
-Julya Karma is a Techno and House artist with 4 upcoming club dates listed on soundcheck as of Sun, 26 Jul 2026, next at Scorpios, Mykonos on Thu, 30 Jul 2026.
+Julya Karma is a Techno and House artist with 4 upcoming club dates listed on soundcheck as of Mon, 27 Jul 2026, next at Scorpios, Mykonos on Thu, 30 Jul 2026.
 
 Julya Karma is a techno and house artist tracked on soundcheck, with 89 sets logged across Amsterdam, Austin, Barcelona and Berlin and 22 more. Often billed alongside Âme, Jimi Jules and Dixon. Next up: Scorpios, Mykonos on Thu 30 Jul.
 
@@ -28,4 +28,4 @@ Julya Karma is a techno and house artist tracked on soundcheck, with 89 sets log
 
 Âme, Jimi Jules, Dixon
 
-*Updated Sun, 26 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/julyakarma/)*
+*Updated Mon, 27 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/julyakarma/)*

@@ -1,6 +1,6 @@
 # Forest (PL)
 
-Forest (PL) is a Techno and Trance artist with 2 upcoming club dates listed on soundcheck as of Sun, 26 Jul 2026, next at STK 47 WAREHOUSE, Krakow on Fri, 14 Aug 2026.
+Forest (PL) is a Techno and Trance artist with 2 upcoming club dates listed on soundcheck as of Mon, 27 Jul 2026, next at STK 47 WAREHOUSE, Krakow on Fri, 14 Aug 2026.
 
 Forest (PL) is a techno and trance artist based in Azerbaijan, tracked on soundcheck, with 46 sets logged across Bangkok, Dublin, Krakow and London and 2 more. Often billed alongside MRV (1), tylmanovski and 1 AM (1). Next up: STK 47 WAREHOUSE, Krakow on Fri 14 Aug.
 
@@ -26,4 +26,4 @@ Forest (PL) is a techno and trance artist based in Azerbaijan, tracked on soundc
 
 MRV (1), tylmanovski, 1 AM (1)
 
-*Updated Sun, 26 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/forest-pl/)*
+*Updated Mon, 27 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/forest-pl/)*

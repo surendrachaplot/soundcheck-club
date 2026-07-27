@@ -1,15 +1,13 @@
 # West Harlem
 
-West Harlem is a music venue in Kyoto with 12 upcoming nights listed on soundcheck as of Sun, 26 Jul 2026; the next is "Time To Time" on Sun, 26 Jul 2026.
+West Harlem is a music venue in Kyoto with 10 upcoming nights listed on soundcheck as of Mon, 27 Jul 2026; the next is "FMKS" on Mon, 27 Jul 2026.
 
-West Harlem is a music venue in Kyoto listed on soundcheck. 12 upcoming nights, with line-ups including ast midori, BIG MATSUMURA, C.Versa and Chanaz and 2 more. Browse upcoming dates, start times and who's playing. Wisteria Coat 2F, 123-1 Ishiyacho, Nakagyo-ku, Kyoto-shi, Kyoto, Japan 6048002.
+West Harlem is a music venue in Kyoto listed on soundcheck. 10 upcoming nights, with line-ups including ast midori, BIG MATSUMURA, Chanaz and 春麗 Chun Li and 2 more. Browse upcoming dates, start times and who's playing. Wisteria Coat 2F, 123-1 Ishiyacho, Nakagyo-ku, Kyoto-shi, Kyoto, Japan 6048002.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Sun, 26 Jul 2026 | Time To Time |  |
-| Sun, 26 Jul 2026 | CTWH | C.Versa, Ryogo, kitapon, kotakunisaki, rimi, sak (4) |
 | Mon, 27 Jul 2026 | FMKS | Kross Section |
 | Wed, 29 Jul 2026 | Citta | kotakunisaki, reya (2), sak (4) |
 | Thu, 30 Jul 2026 | アソビバ | SOTA |
@@ -18,9 +16,11 @@ West Harlem is a music venue in Kyoto listed on soundcheck. 12 upcoming nights, 
 | Sun, 2 Aug 2026 | Brume | ast midori, kotakunisaki |
 | Thu, 6 Aug 2026 | Anvai | BIG MATSUMURA, DJ Master Kohta, Mannuma |
 | Sat, 8 Aug 2026 | Abstract Exoctica | KOTSU, Shhhhh, kotakunisaki, ykah, 春麗 Chun Li |
+| Sat, 19 Sept 2026 | PIECE OF CAKE Vol.8 | droove, ntank |
+| Sun, 20 Sept 2026 | Floe | Sou Kitahara, kitapon |
 
 ## Address
 
 Wisteria Coat 2F, 123-1 Ishiyacho, Nakagyo-ku, Kyoto-shi, Kyoto, Japan 6048002, Kyoto
 
-*Updated Sun, 26 Jul 2026 · source: [soundcheck](https://soundcheck.club/kyoto/club/west-harlem/)*
+*Updated Mon, 27 Jul 2026 · source: [soundcheck](https://soundcheck.club/kyoto/club/west-harlem/)*

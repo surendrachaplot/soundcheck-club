@@ -1,6 +1,6 @@
 # Waterhouse Studios
 
-Waterhouse Studios is a music venue in Amsterdam with 3 upcoming nights listed on soundcheck as of Sun, 26 Jul 2026; the next is "Liquid Air" on Fri, 14 Aug 2026.
+Waterhouse Studios is a music venue in Amsterdam with 3 upcoming nights listed on soundcheck as of Mon, 27 Jul 2026; the next is "Liquid Air" on Fri, 14 Aug 2026.
 
 Waterhouse Studios is a music venue in Amsterdam listed on soundcheck. 3 upcoming nights, with line-ups including Crinkhoff, DJ DSA, Gibbo and Manscream and 2 more. Browse upcoming dates, start times and who's playing. Danzigerkade 1, 1013 AP Amsterdam.
 
@@ -16,4 +16,4 @@ Waterhouse Studios is a music venue in Amsterdam listed on soundcheck. 3 upcomin
 
 Danzigerkade 1, 1013 AP Amsterdam, Amsterdam
 
-*Updated Sun, 26 Jul 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/waterhouse-studios/)*
+*Updated Mon, 27 Jul 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/waterhouse-studios/)*

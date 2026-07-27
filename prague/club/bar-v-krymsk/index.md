@@ -1,6 +1,6 @@
 # Bar v Krymský
 
-Bar v Krymský is a music venue in Prague with 6 upcoming nights listed on soundcheck as of Sun, 26 Jul 2026; the next is "Clubecology, quasistate, Simon Deschamps" on Wed, 29 Jul 2026.
+Bar v Krymský is a music venue in Prague with 6 upcoming nights listed on soundcheck as of Mon, 27 Jul 2026; the next is "Clubecology, quasistate, Simon Deschamps" on Wed, 29 Jul 2026.
 
 Bar v Krymský is a music venue in Prague listed on soundcheck. 6 upcoming nights, with line-ups including Daniel Neighbour, Raphael Kosmos and Rescue. Browse upcoming dates, start times and who's playing. Krymská 21, Praha.
 
@@ -19,4 +19,4 @@ Bar v Krymský is a music venue in Prague listed on soundcheck. 6 upcoming night
 
 Krymská 21, Praha, Prague
 
-*Updated Sun, 26 Jul 2026 · source: [soundcheck](https://soundcheck.club/prague/club/bar-v-krymsk/)*
+*Updated Mon, 27 Jul 2026 · source: [soundcheck](https://soundcheck.club/prague/club/bar-v-krymsk/)*

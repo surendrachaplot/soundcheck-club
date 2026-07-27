@@ -1,6 +1,6 @@
 # Couch Mechanic
 
-Couch Mechanic is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Sun, 26 Jul 2026, next at Abercrombie Hotel, Sydney on Fri, 31 Jul 2026.
+Couch Mechanic is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Mon, 27 Jul 2026, next at Abercrombie Hotel, Sydney on Fri, 31 Jul 2026.
 
 Couch Mechanic is a techno and house artist based in Australia, tracked on soundcheck, with 27 sets logged across Melbourne and Sydney. Often billed alongside Lilac, Jane Decks and Justin Muscat. Next up: Abercrombie Hotel, Sydney on Fri 31 Jul.
 
@@ -26,4 +26,4 @@ Couch Mechanic is a techno and house artist based in Australia, tracked on sound
 
 Lilac, Jane Decks, Justin Muscat
 
-*Updated Sun, 26 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/couchmechanic/)*
+*Updated Mon, 27 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/couchmechanic/)*

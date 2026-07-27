@@ -1,6 +1,6 @@
 # Studio Club Malaga
 
-Studio Club Malaga is a music venue in Malaga with 7 upcoming nights listed on soundcheck as of Sun, 26 Jul 2026; the next is "Studio Club Invites: SHDW" on Fri, 31 Jul 2026.
+Studio Club Malaga is a music venue in Malaga with 7 upcoming nights listed on soundcheck as of Mon, 27 Jul 2026; the next is "Studio Club Invites: SHDW" on Fri, 31 Jul 2026.
 
 Studio Club Malaga is a music venue in Malaga listed on soundcheck. 7 upcoming nights, with line-ups including Alvaro Medina, Bambi-S, Chlär and Felipe Bravo and 2 more. Browse upcoming dates, start times and who's playing. Avenida Palma de Mallorca 36, Torremolinos, Málaga.
 
@@ -20,4 +20,4 @@ Studio Club Malaga is a music venue in Malaga listed on soundcheck. 7 upcoming n
 
 Avenida Palma de Mallorca 36, Torremolinos, Málaga, Malaga
 
-*Updated Sun, 26 Jul 2026 · source: [soundcheck](https://soundcheck.club/malaga/club/studio-club-malaga/)*
+*Updated Mon, 27 Jul 2026 · source: [soundcheck](https://soundcheck.club/malaga/club/studio-club-malaga/)*

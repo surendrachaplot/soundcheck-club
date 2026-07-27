@@ -1,6 +1,6 @@
 # Solvane
 
-Solvane is a Techno and Progressive House artist with 4 upcoming club dates listed on soundcheck as of Sun, 26 Jul 2026, next at Ritter Butzke, Berlin on Sat, 15 Aug 2026.
+Solvane is a Techno and Progressive House artist with 4 upcoming club dates listed on soundcheck as of Mon, 27 Jul 2026, next at Ritter Butzke, Berlin on Sat, 15 Aug 2026.
 
 Solvane is a techno and progressive house artist tracked on soundcheck, with 105 sets logged across Amsterdam, Barcelona, Berlin and Brighton and 18 more. Often billed alongside Prismode, Markus Klee and Super Flu. Next up: Ritter Butzke, Berlin on Sat 15 Aug.
 
@@ -28,4 +28,4 @@ Solvane is a techno and progressive house artist tracked on soundcheck, with 105
 
 Prismode, Markus Klee, Super Flu
 
-*Updated Sun, 26 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/solvane/)*
+*Updated Mon, 27 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/solvane/)*

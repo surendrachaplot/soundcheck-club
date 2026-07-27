@@ -1,6 +1,6 @@
 # BEC
 
-BEC is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Sun, 26 Jul 2026, next at Hï Ibiza, Ibiza on Sun, 2 Aug 2026.
+BEC is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Mon, 27 Jul 2026, next at Hï Ibiza, Ibiza on Sun, 2 Aug 2026.
 
 BEC is a techno and house artist tracked on soundcheck, with 38 sets logged across Athens, Berlin, Boston and Chicago and 13 more. Often billed alongside Indira Paganotto, LOVRA and Prismode. Next up: Hï Ibiza, Ibiza on Sun 2 Aug.
 
@@ -26,4 +26,4 @@ BEC is a techno and house artist tracked on soundcheck, with 38 sets logged acro
 
 Indira Paganotto, LOVRA, Prismode
 
-*Updated Sun, 26 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/bec/)*
+*Updated Mon, 27 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/bec/)*

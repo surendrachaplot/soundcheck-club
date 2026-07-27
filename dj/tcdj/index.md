@@ -1,14 +1,13 @@
 # TC Dj
 
-TC Dj is a Techno and Acid artist with 5 upcoming club dates listed on soundcheck as of Sun, 26 Jul 2026, next at TBA - The Club Room Worldwide, Naples on Sun, 26 Jul 2026.
+TC Dj is a Techno and Acid artist with 4 upcoming club dates listed on soundcheck as of Mon, 27 Jul 2026, next at TBA - The Club Room Worldwide, Naples on Wed, 29 Jul 2026.
 
-TC Dj is a techno and acid artist based in Italy, tracked on soundcheck, with 19 sets logged across Naples. Often billed alongside Tech C, Mr.Lucky and MaNu (UK). Next up: TBA - The Club Room Worldwide, Naples on Sun 26 Jul.
+TC Dj is a techno and acid artist based in Italy, tracked on soundcheck, with 19 sets logged across Naples. Often billed alongside Tech C, Mr.Lucky and MaNu (UK). Next up: TBA - The Club Room Worldwide, Naples on Wed 29 Jul.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sun, 26 Jul 2026 | TBA - The Club Room Worldwide | Naples |
 | Wed, 29 Jul 2026 | TBA - The Club Room Worldwide | Naples |
 | Sun, 2 Aug 2026 | TBA - The Club Room Worldwide | Naples |
 | Wed, 5 Aug 2026 | TBA - The Club Room Worldwide | Naples |
@@ -16,6 +15,7 @@ TC Dj is a techno and acid artist based in Italy, tracked on soundcheck, with 19
 
 ## Recently played
 
+- TBA - The Club Room Worldwide, Naples — Sun, 26 Jul 2026
 - TBA - The Club Room Worldwide, Naples — Wed, 22 Jul 2026
 - TBA - The Club Room Worldwide, Naples — Sun, 19 Jul 2026
 - TBA - The Club Room Worldwide, Naples — Wed, 15 Jul 2026
@@ -23,10 +23,9 @@ TC Dj is a techno and acid artist based in Italy, tracked on soundcheck, with 19
 - TBA - Tcrw - The Club Room Worldwide, Naples — Sun, 21 Jun 2026
 - TBA - Stay In The Room, Naples — Sun, 25 Jan 2026
 - TBA - Stay In The Room, Naples — Sun, 18 Jan 2026
-- TBA - Stay In The Room, Naples — Sun, 11 Jan 2026
 
 ## Shares bills with
 
 Tech C, Mr.Lucky, MaNu (UK)
 
-*Updated Sun, 26 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/tcdj/)*
+*Updated Mon, 27 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/tcdj/)*

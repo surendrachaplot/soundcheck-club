@@ -1,6 +1,6 @@
 # Marcellus Pittman
 
-Marcellus Pittman is a House and Techno artist with 5 upcoming club dates listed on soundcheck as of Sun, 26 Jul 2026, next at TBA - National Union Building, Washington DC on Sat, 8 Aug 2026.
+Marcellus Pittman is a House and Techno artist with 5 upcoming club dates listed on soundcheck as of Mon, 27 Jul 2026, next at TBA - National Union Building, Washington DC on Sat, 8 Aug 2026.
 
 Marcellus Pittman is a house and techno artist tracked on soundcheck, with 146 sets logged across Amsterdam, Antwerp, Athens and Auckland and 45 more. Often billed alongside Ash Lauryn, Antal and Dee Diggs. Next up: TBA - National Union Building, Washingtondc on Sat 8 Aug.
 
@@ -29,4 +29,4 @@ Marcellus Pittman is a house and techno artist tracked on soundcheck, with 146 s
 
 Ash Lauryn, Antal, Dee Diggs
 
-*Updated Sun, 26 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/marcelluspittman/)*
+*Updated Mon, 27 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/marcelluspittman/)*

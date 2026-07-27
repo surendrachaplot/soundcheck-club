@@ -1,14 +1,13 @@
 # Romantso
 
-Romantso is a music venue in Athens with 3 upcoming nights listed on soundcheck as of Sun, 26 Jul 2026; the next is "Last Call: Anatolian Weapons, Mr. Clarinet, Mat|toni" on Sun, 26 Jul 2026.
+Romantso is a music venue in Athens with 2 upcoming nights listed on soundcheck as of Mon, 27 Jul 2026; the next is "Slam! Season Opening" on Sat, 12 Sept 2026.
 
-Romantso is a music venue in Athens listed on soundcheck. 3 upcoming nights, with line-ups including Anatolian Weapons, Benny Ill, Horsepower Productions and Saber Rider. Browse upcoming dates, start times and who's playing. Αnaxagora 3-5, Athens 10552, Greece.
+Romantso is a music venue in Athens listed on soundcheck. 2 upcoming nights, with line-ups including Benny Ill, Horsepower Productions and Saber Rider. Browse upcoming dates, start times and who's playing. Αnaxagora 3-5, Athens 10552, Greece.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Sun, 26 Jul 2026 | Last Call: Anatolian Weapons, Mr. Clarinet, Mat/toni | Anatolian Weapons |
 | Sat, 12 Sept 2026 | Slam! Season Opening |  |
 | Sat, 3 Oct 2026 | Horsepower Productions with Raw Future Sound & Saber Rider | Benny Ill, Horsepower Productions, Saber Rider |
 
@@ -16,4 +15,4 @@ Romantso is a music venue in Athens listed on soundcheck. 3 upcoming nights, wit
 
 Αnaxagora 3-5, Athens 10552, Greece, Athens
 
-*Updated Sun, 26 Jul 2026 · source: [soundcheck](https://soundcheck.club/athens/club/romantso/)*
+*Updated Mon, 27 Jul 2026 · source: [soundcheck](https://soundcheck.club/athens/club/romantso/)*

@@ -1,14 +1,13 @@
 # SASS Music Club
 
-SASS Music Club is a music venue in Vienna with 7 upcoming nights listed on soundcheck as of Sun, 26 Jul 2026; the next is "Morgengymnastik" on Sun, 26 Jul 2026.
+SASS Music Club is a music venue in Vienna with 6 upcoming nights listed on soundcheck as of Mon, 27 Jul 2026; the next is "Glorious House Nights" on Thu, 30 Jul 2026.
 
-SASS Music Club is a music venue in Vienna listed on soundcheck. 7 upcoming nights, with line-ups including -LaLa-, Æ-X, Andy Catana and Anna Ullrich and 2 more. Browse upcoming dates, start times and who's playing. Karlsplatz 1, 1010 Wien, Austria.
+SASS Music Club is a music venue in Vienna listed on soundcheck. 6 upcoming nights, with line-ups including -LaLa-, Æ-X, Anna Ullrich and Crazy Sonic and 2 more. Browse upcoming dates, start times and who's playing. Karlsplatz 1, 1010 Wien, Austria.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Sun, 26 Jul 2026 | Morgengymnastik | Andy Catana |
 | Thu, 30 Jul 2026 | Glorious House Nights | Crazy Sonic |
 | Fri, 31 Jul 2026 | Anna Ullrich 6H Extended Set | Anna Ullrich |
 | Sat, 1 Aug 2026 | vertigo | LizN, SEBSIS |
@@ -20,4 +19,4 @@ SASS Music Club is a music venue in Vienna listed on soundcheck. 7 upcoming nigh
 
 Karlsplatz 1, 1010 Wien, Austria, Vienna
 
-*Updated Sun, 26 Jul 2026 · source: [soundcheck](https://soundcheck.club/vienna/club/sass-music-club/)*
+*Updated Mon, 27 Jul 2026 · source: [soundcheck](https://soundcheck.club/vienna/club/sass-music-club/)*

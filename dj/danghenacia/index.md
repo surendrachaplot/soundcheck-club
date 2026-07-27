@@ -1,6 +1,6 @@
 # Dan Ghenacia
 
-Dan Ghenacia is a House and Tech House artist with 4 upcoming club dates listed on soundcheck as of Sun, 26 Jul 2026, next at Quinta do Miratejo, Lisbon on Sun, 9 Aug 2026.
+Dan Ghenacia is a House and Tech House artist with 4 upcoming club dates listed on soundcheck as of Mon, 27 Jul 2026, next at Quinta do Miratejo, Lisbon on Sun, 9 Aug 2026.
 
 Dan Ghenacia is a house and tech house artist tracked on soundcheck, with 147 sets logged across Amsterdam, Athens, Bali and Barcelona and 36 more. Often billed alongside Shonky, Apollonia and Dyed Soundorom. Next up: Quinta do Miratejo, Lisbon on Sun 9 Aug.
 
@@ -28,4 +28,4 @@ Dan Ghenacia is a house and tech house artist tracked on soundcheck, with 147 se
 
 Shonky, Apollonia, Dyed Soundorom
 
-*Updated Sun, 26 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/danghenacia/)*
+*Updated Mon, 27 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/danghenacia/)*

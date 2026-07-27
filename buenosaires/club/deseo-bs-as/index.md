@@ -1,14 +1,13 @@
 # Deseo BS AS
 
-Deseo BS AS is a music venue in Buenos Aires with 5 upcoming nights listed on soundcheck as of Sun, 26 Jul 2026; the next is "SOLAR" on Sun, 26 Jul 2026.
+Deseo BS AS is a music venue in Buenos Aires with 4 upcoming nights listed on soundcheck as of Mon, 27 Jul 2026; the next is "Sol Ortega extended set" on Sat, 1 Aug 2026.
 
-Deseo BS AS is a music venue in Buenosaires listed on soundcheck. 5 upcoming nights, with line-ups including ETTA!, Lulú Matheou, Momo Trosman and Nebula (AR) and 2 more. Browse upcoming dates, start times and who's playing. Av. Chorroarín 1040, C1427CXU, Buenos Aires.
+Deseo BS AS is a music venue in Buenosaires listed on soundcheck. 4 upcoming nights, with line-ups including ETTA!, Momo Trosman, Nebula (AR) and Pabels and 2 more. Browse upcoming dates, start times and who's playing. Av. Chorroarín 1040, C1427CXU, Buenos Aires.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Sun, 26 Jul 2026 | SOLAR | Lulú Matheou |
 | Sat, 1 Aug 2026 | Sol Ortega extended set | Sol Ortega |
 | Fri, 7 Aug 2026 | KLAV: tINI | ETTA!, Momo Trosman, tINI |
 | Fri, 28 Aug 2026 | SOFI TUKKER | SOFI TUKKER |
@@ -18,4 +17,4 @@ Deseo BS AS is a music venue in Buenosaires listed on soundcheck. 5 upcoming nig
 
 Av. Chorroarín 1040, C1427CXU, Buenos Aires, Buenos Aires
 
-*Updated Sun, 26 Jul 2026 · source: [soundcheck](https://soundcheck.club/buenosaires/club/deseo-bs-as/)*
+*Updated Mon, 27 Jul 2026 · source: [soundcheck](https://soundcheck.club/buenosaires/club/deseo-bs-as/)*

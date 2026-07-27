@@ -1,6 +1,6 @@
 # MC Creed
 
-MC Creed is a Garage and House artist with 2 upcoming club dates listed on soundcheck as of Sun, 26 Jul 2026, next at Planet Wax, London on Sun, 2 Aug 2026.
+MC Creed is a Garage and House artist with 2 upcoming club dates listed on soundcheck as of Mon, 27 Jul 2026, next at Planet Wax, London on Sun, 2 Aug 2026.
 
 MC Creed is a garage and house artist tracked on soundcheck, with 36 sets logged across London. Often billed alongside MC DT, MC CKP and Pied Piper. Next up: Planet Wax, London on Sun 2 Aug.
 
@@ -26,4 +26,4 @@ MC Creed is a garage and house artist tracked on soundcheck, with 36 sets logged
 
 MC DT, MC CKP, Pied Piper
 
-*Updated Sun, 26 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/mccreed/)*
+*Updated Mon, 27 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/mccreed/)*

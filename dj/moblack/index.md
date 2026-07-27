@@ -1,6 +1,6 @@
 # MoBlack
 
-MoBlack is a Afro House and House artist with 2 upcoming club dates listed on soundcheck as of Sun, 26 Jul 2026, next at Chinois Ibiza, Ibiza on Sun, 16 Aug 2026.
+MoBlack is a Afro House and House artist with 2 upcoming club dates listed on soundcheck as of Mon, 27 Jul 2026, next at Chinois Ibiza, Ibiza on Sun, 16 Aug 2026.
 
 MoBlack is an afro house and house artist tracked on soundcheck, with 83 sets logged across Amsterdam, Antwerp, Athens and Austin and 35 more. Often billed alongside Francis Mercier, Nitefreak and Sparrow & Barbossa. Next up: Chinois Ibiza, Ibiza on Sun 16 Aug.
 
@@ -26,4 +26,4 @@ MoBlack is an afro house and house artist tracked on soundcheck, with 83 sets lo
 
 Francis Mercier, Nitefreak, Sparrow & Barbossa
 
-*Updated Sun, 26 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/moblack/)*
+*Updated Mon, 27 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/moblack/)*

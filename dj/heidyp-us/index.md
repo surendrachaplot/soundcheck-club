@@ -1,6 +1,6 @@
 # Heidy P
 
-Heidy P is a House and Disco artist with 2 upcoming club dates listed on soundcheck as of Sun, 26 Jul 2026, next at The Dolphin, Philadelphia on Fri, 7 Aug 2026.
+Heidy P is a House and Disco artist with 2 upcoming club dates listed on soundcheck as of Mon, 27 Jul 2026, next at The Dolphin, Philadelphia on Fri, 7 Aug 2026.
 
 Heidy P is a house and disco artist based in United States of America, tracked on soundcheck, with 119 sets logged across Detroit, Lisbon, Mexicocity and Miami and 6 more. Often billed alongside Peter Croce, Charles Trees and Eddie Logix. Next up: The Dolphin, Philadelphia on Fri 7 Aug.
 
@@ -26,4 +26,4 @@ Heidy P is a house and disco artist based in United States of America, tracked o
 
 Peter Croce, Charles Trees, Eddie Logix
 
-*Updated Sun, 26 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/heidyp-us/)*
+*Updated Mon, 27 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/heidyp-us/)*

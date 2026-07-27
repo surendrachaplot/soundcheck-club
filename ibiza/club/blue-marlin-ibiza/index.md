@@ -1,6 +1,6 @@
 # Blue Marlin Ibiza
 
-Blue Marlin Ibiza is a music venue in Ibiza with 1 upcoming night listed on soundcheck as of Sun, 26 Jul 2026; the next is "Stardust" on Wed, 29 Jul 2026.
+Blue Marlin Ibiza is a music venue in Ibiza with 1 upcoming night listed on soundcheck as of Mon, 27 Jul 2026; the next is "Stardust" on Wed, 29 Jul 2026.
 
 Blue Marlin Ibiza is a music venue in Ibiza listed on soundcheck. 1 upcoming night, with line-ups including Elliot Schooling, Liam Palmer, Saraga and Sem Jacobs. Browse upcoming dates, start times and who's playing. Cala Jondal, 07816, Balears Spain, Ibiza.
 
@@ -14,4 +14,4 @@ Blue Marlin Ibiza is a music venue in Ibiza listed on soundcheck. 1 upcoming nig
 
 Cala Jondal, 07816, Balears Spain, Ibiza, Ibiza
 
-*Updated Sun, 26 Jul 2026 · source: [soundcheck](https://soundcheck.club/ibiza/club/blue-marlin-ibiza/)*
+*Updated Mon, 27 Jul 2026 · source: [soundcheck](https://soundcheck.club/ibiza/club/blue-marlin-ibiza/)*

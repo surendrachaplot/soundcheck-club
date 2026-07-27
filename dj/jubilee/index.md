@@ -1,8 +1,8 @@
 # Jubilee
 
-Jubilee is a House and Techno artist with 4 upcoming club dates listed on soundcheck as of Sun, 26 Jul 2026, next at F8 1192 Folsom, San Francisco/Oakland on Fri, 7 Aug 2026.
+Jubilee is a House and Techno artist with 5 upcoming club dates listed on soundcheck as of Mon, 27 Jul 2026, next at F8 1192 Folsom, San Francisco/Oakland on Fri, 7 Aug 2026.
 
-Jubilee is a house and techno artist based in United States of America, tracked on soundcheck, with 144 sets logged across Berlin, Bristol, Chicago and Copenhagen and 17 more. Often billed alongside NIGELTHREETIMES, Eli Escobar and Berrakka. Next up: F8 1192 Folsom, Sanfrancisco on Fri 7 Aug.
+Jubilee is a house and techno artist based in United States of America, tracked on soundcheck, with 145 sets logged across Berlin, Bristol, Chicago and Copenhagen and 17 more. Often billed alongside NIGELTHREETIMES, Eli Escobar and Berrakka. Next up: F8 1192 Folsom, Sanfrancisco on Fri 7 Aug.
 
 ## Upcoming shows
 
@@ -12,6 +12,7 @@ Jubilee is a house and techno artist based in United States of America, tracked 
 | Sun, 9 Aug 2026 | Liberty Point | Philadelphia |
 | Sun, 23 Aug 2026 | Signal | New York City |
 | Sat, 5 Sept 2026 | TBA | Miami |
+| Fri, 25 Sept 2026 | Kremwerk-Timbre Room-Cherry Complex | Seattle |
 
 ## Recently played
 
@@ -28,4 +29,4 @@ Jubilee is a house and techno artist based in United States of America, tracked 
 
 NIGELTHREETIMES, Eli Escobar, Berrakka
 
-*Updated Sun, 26 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/jubilee/)*
+*Updated Mon, 27 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/jubilee/)*

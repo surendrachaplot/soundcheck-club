@@ -1,6 +1,6 @@
 # DJ SKIN
 
-DJ SKIN is a Techno and Trance artist with 2 upcoming club dates listed on soundcheck as of Sun, 26 Jul 2026, next at OXI, Berlin on Tue, 4 Aug 2026.
+DJ SKIN is a Techno and Trance artist with 2 upcoming club dates listed on soundcheck as of Mon, 27 Jul 2026, next at OXI, Berlin on Tue, 4 Aug 2026.
 
 DJ SKIN is a techno and trance artist based in United Kingdom, tracked on soundcheck, with 36 sets logged across Barcelona, Berlin, Cologne and London and 1 more. Often billed alongside Mademoisel, ISA (ES) and Agata (PL). Next up: OXI, Berlin on Tue 4 Aug.
 
@@ -26,4 +26,4 @@ DJ SKIN is a techno and trance artist based in United Kingdom, tracked on soundc
 
 Mademoisel, ISA (ES), Agata (PL)
 
-*Updated Sun, 26 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/djskin/)*
+*Updated Mon, 27 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/djskin/)*

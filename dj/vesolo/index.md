@@ -1,6 +1,6 @@
 # Vesolo
 
-Vesolo is a Techno and Club artist with 2 upcoming club dates listed on soundcheck as of Sun, 26 Jul 2026, next at Starlane Pizza Bar, London on Sun, 2 Aug 2026.
+Vesolo is a Techno and Club artist with 2 upcoming club dates listed on soundcheck as of Mon, 27 Jul 2026, next at Starlane Pizza Bar, London on Sun, 2 Aug 2026.
 
 Vesolo is a techno and club artist based in United States of America, tracked on soundcheck, with 63 sets logged across Barcelona, Chicago, Detroit and London and 4 more. Often billed alongside Miss Twink USA, Flores Negras and Swan Drama. Next up: Starlane Pizza Bar, London on Sun 2 Aug.
 
@@ -26,4 +26,4 @@ Vesolo is a techno and club artist based in United States of America, tracked on
 
 Miss Twink USA, Flores Negras, Swan Drama
 
-*Updated Sun, 26 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/vesolo/)*
+*Updated Mon, 27 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/vesolo/)*

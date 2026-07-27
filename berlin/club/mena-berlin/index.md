@@ -1,6 +1,6 @@
 # Mena Berlin
 
-Mena Berlin is a music venue in Berlin with 3 upcoming nights listed on soundcheck as of Sun, 26 Jul 2026; the next is "House Tapes Vol.04" on Fri, 31 Jul 2026.
+Mena Berlin is a music venue in Berlin with 3 upcoming nights listed on soundcheck as of Mon, 27 Jul 2026; the next is "House Tapes Vol.04" on Fri, 31 Jul 2026.
 
 Mena Berlin is a music venue in Berlin listed on soundcheck. 3 upcoming nights, with line-ups including Adam Cooke, Hannes.., Joe Peck and Marco Ohboy. Browse upcoming dates, start times and who's playing. Skalitzer Straße 114 (Backyard), 10999 Berlin, Germany.
 
@@ -16,4 +16,4 @@ Mena Berlin is a music venue in Berlin listed on soundcheck. 3 upcoming nights, 
 
 Skalitzer Straße 114 (Backyard), 10999 Berlin, Germany, Berlin
 
-*Updated Sun, 26 Jul 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/mena-berlin/)*
+*Updated Mon, 27 Jul 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/mena-berlin/)*

@@ -1,15 +1,13 @@
 # public records
 
-public records is a music venue in New York City with 32 upcoming nights listed on soundcheck as of Sun, 26 Jul 2026; the next is "The Nursery: Patrice Bäumel All Day Long" on Sun, 26 Jul 2026.
+public records is a music venue in New York City with 30 upcoming nights listed on soundcheck as of Mon, 27 Jul 2026; the next is "Anetha, 320" on Thu, 30 Jul 2026.
 
-public records is a music venue in Newyorkcity listed on soundcheck. 32 upcoming nights, with line-ups including 30000AD, 320 (1), Ana Rs and Andrey Pushkarev and 2 more. Browse upcoming dates, start times and who's playing. 233 Butler St, Brooklyn, NY 11217, USA.
+public records is a music venue in Newyorkcity listed on soundcheck. 30 upcoming nights, with line-ups including 30000AD, 320 (1), Ana Rs and Andrey Pushkarev and 2 more. Browse upcoming dates, start times and who's playing. 233 Butler St, Brooklyn, NY 11217, USA.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Sun, 26 Jul 2026 | The Nursery: Patrice Bäumel All Day Long | Patrice Bäumel |
-| Sun, 26 Jul 2026 | Shelter: Timmy Regisford Open To Close | Timmy Regisford |
 | Thu, 30 Jul 2026 | Anetha, 320 | 320 (1), Anetha |
 | Fri, 31 Jul 2026 | Ana Rs, Henry Chow / John Tejada, e-Lite / Jesse Dorris | Ana Rs, Henry Chow, John Tejada, e-Lite |
 | Sat, 1 Aug 2026 | Scott Grooves, Jenifa Mayanja / Julion D'Angelo, k.tea / DJ Nyack | Jenifa Mayanja, Julion De'Angelo, Scott Grooves, k.tea |
@@ -18,9 +16,11 @@ public records is a music venue in Newyorkcity listed on soundcheck. 32 upcoming
 | Fri, 7 Aug 2026 | Truncate, Shanti / Tornado Wallace, CAMILLA / Patrick Russell | CAMILLA, Patrick Russell, Shanti, Tornado Wallace, Truncate |
 | Sat, 8 Aug 2026 | BAE BAE, Sevyn / Spiñorita, Tara / SEEPS | BAE BAE, DJ Tara, SEEPS, Sevyn, Spiñorita |
 | Sat, 8 Aug 2026 | The Nursery: Mare Nara w/ gabby cocco & Rachel Opert with special guest James Axon | James Axon, Rachel Opert, gabby cocco |
+| Sun, 9 Aug 2026 | The Nursery: Diva Diva w/ Grace Sands, The Carry Nation, Saia & Sevyn Love, Keith Lawrence | Grace Sands, Saia, Sevyn Love, The Carry Nation |
+| Thu, 13 Aug 2026 | Joker | Joker |
 
 ## Address
 
 233 Butler St, Brooklyn, NY 11217, USA, New York City
 
-*Updated Sun, 26 Jul 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/public-records/)*
+*Updated Mon, 27 Jul 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/public-records/)*

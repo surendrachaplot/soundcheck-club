@@ -1,6 +1,6 @@
 # Yamour
 
-Yamour is a House and Techno artist with 6 upcoming club dates listed on soundcheck as of Sun, 26 Jul 2026, next at BLITZ, Munich on Fri, 31 Jul 2026.
+Yamour is a House and Techno artist with 6 upcoming club dates listed on soundcheck as of Mon, 27 Jul 2026, next at BLITZ, Munich on Fri, 31 Jul 2026.
 
 Yamour is a house and techno artist tracked on soundcheck, with 155 sets logged across Amsterdam, Antwerp, Auckland and Bali and 30 more. Often billed alongside Konstantin, Edward and Leafar Legov. Next up: BLITZ, Munich on Fri 31 Jul.
 
@@ -30,4 +30,4 @@ Yamour is a house and techno artist tracked on soundcheck, with 155 sets logged 
 
 Konstantin, Edward, Leafar Legov
 
-*Updated Sun, 26 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/yamour/)*
+*Updated Mon, 27 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/yamour/)*

@@ -1,6 +1,6 @@
 # Introversion
 
-Introversion is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Sun, 26 Jul 2026, next at Tempelhof Airport, Berlin on Sat, 1 Aug 2026.
+Introversion is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Mon, 27 Jul 2026, next at Tempelhof Airport, Berlin on Sat, 1 Aug 2026.
 
 Introversion is a techno and house artist tracked on soundcheck, with 44 sets logged across Amsterdam, Berlin, Brussels and Budapest and 8 more. Often billed alongside Sylvie Maziarz, 1luu and Afem Syko. Next up: Tempelhof Airport, Berlin on Sat 1 Aug.
 
@@ -26,4 +26,4 @@ Introversion is a techno and house artist tracked on soundcheck, with 44 sets lo
 
 Sylvie Maziarz, 1luu, Afem Syko
 
-*Updated Sun, 26 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/introversion-1/)*
+*Updated Mon, 27 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/introversion-1/)*

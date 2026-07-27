@@ -1,6 +1,6 @@
 # Eastern Bloc Records
 
-Eastern Bloc Records is a music venue in Manchester with 12 upcoming nights listed on soundcheck as of Sun, 26 Jul 2026; the next is "Open To Close w/Rhod Parry & Hanz" on Thu, 30 Jul 2026.
+Eastern Bloc Records is a music venue in Manchester with 12 upcoming nights listed on soundcheck as of Mon, 27 Jul 2026; the next is "Open To Close w/Rhod Parry & Hanz" on Thu, 30 Jul 2026.
 
 Eastern Bloc Records is a music venue in Manchester listed on soundcheck. 12 upcoming nights, with line-ups including Al Bradley, Andy Green, Balrog and Bobby Thorpe and 2 more. Browse upcoming dates, start times and who's playing. 5a Stevenson Square, Northern Quarter, Manchester, M1 1DN.
 
@@ -23,4 +23,4 @@ Eastern Bloc Records is a music venue in Manchester listed on soundcheck. 12 upc
 
 5a Stevenson Square, Northern Quarter, Manchester, M1 1DN, Manchester
 
-*Updated Sun, 26 Jul 2026 · source: [soundcheck](https://soundcheck.club/manchester/club/eastern-bloc-records/)*
+*Updated Mon, 27 Jul 2026 · source: [soundcheck](https://soundcheck.club/manchester/club/eastern-bloc-records/)*

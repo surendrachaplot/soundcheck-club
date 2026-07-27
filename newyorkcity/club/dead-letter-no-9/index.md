@@ -1,6 +1,6 @@
 # Dead Letter No. 9
 
-Dead Letter No. 9 is a music venue in New York City with 6 upcoming nights listed on soundcheck as of Sun, 26 Jul 2026; the next is "Ultra Violet, Sailor Goon, SMURFOUDIRTY - Dead Letter No.9" on Fri, 31 Jul 2026.
+Dead Letter No. 9 is a music venue in New York City with 6 upcoming nights listed on soundcheck as of Mon, 27 Jul 2026; the next is "Ultra Violet, Sailor Goon, SMURFOUDIRTY - Dead Letter No.9" on Fri, 31 Jul 2026.
 
 Dead Letter No. 9 is a music venue in Newyorkcity listed on soundcheck. 6 upcoming nights, with line-ups including Amber Valentine, Armii1n, Bea Trinidad and Blvck Truffle and 2 more. Browse upcoming dates, start times and who's playing. 63 Grand St, Brooklyn, NY 11249, USA.
 
@@ -19,4 +19,4 @@ Dead Letter No. 9 is a music venue in Newyorkcity listed on soundcheck. 6 upcomi
 
 63 Grand St, Brooklyn, NY 11249, USA, New York City
 
-*Updated Sun, 26 Jul 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/dead-letter-no-9/)*
+*Updated Mon, 27 Jul 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/dead-letter-no-9/)*

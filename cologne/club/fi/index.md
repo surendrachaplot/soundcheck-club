@@ -1,6 +1,6 @@
 # fi
 
-fi is a music venue in Cologne with 5 upcoming nights listed on soundcheck as of Sun, 26 Jul 2026; the next is "fi Garten x Langer Tag x Cologne Is For Lovers & Das Zündet" on Sat, 1 Aug 2026.
+fi is a music venue in Cologne with 5 upcoming nights listed on soundcheck as of Mon, 27 Jul 2026; the next is "fi Garten x Langer Tag x Cologne Is For Lovers & Das Zündet" on Sat, 1 Aug 2026.
 
 fi is a music venue in Cologne listed on soundcheck. 5 upcoming nights, with line-ups including Ada, Aino DJ, Cecilia Tosh and Chlär and 2 more. Browse upcoming dates, start times and who's playing. Widdersdorfer Straße 246, 50825 Köln, Deutschland.
 
@@ -18,4 +18,4 @@ fi is a music venue in Cologne listed on soundcheck. 5 upcoming nights, with lin
 
 Widdersdorfer Straße 246, 50825 Köln, Deutschland, Cologne
 
-*Updated Sun, 26 Jul 2026 · source: [soundcheck](https://soundcheck.club/cologne/club/fi/)*
+*Updated Mon, 27 Jul 2026 · source: [soundcheck](https://soundcheck.club/cologne/club/fi/)*

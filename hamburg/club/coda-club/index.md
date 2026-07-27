@@ -1,6 +1,6 @@
 # Coda Club
 
-Coda Club is a music venue in Hamburg with 1 upcoming night listed on soundcheck as of Sun, 26 Jul 2026; the next is "STUDiO LOVEMASTERS (Kinky Party)" on Fri, 31 Jul 2026.
+Coda Club is a music venue in Hamburg with 1 upcoming night listed on soundcheck as of Mon, 27 Jul 2026; the next is "STUDiO LOVEMASTERS (Kinky Party)" on Fri, 31 Jul 2026.
 
 Coda Club is a music venue in Hamburg listed on soundcheck. 1 upcoming night. Browse upcoming dates, start times and who's playing.
 
@@ -10,4 +10,4 @@ Coda Club is a music venue in Hamburg listed on soundcheck. 1 upcoming night. Br
 | --- | --- | --- |
 | Fri, 31 Jul 2026 | STUDiO LOVEMASTERS (Kinky Party) |  |
 
-*Updated Sun, 26 Jul 2026 · source: [soundcheck](https://soundcheck.club/hamburg/club/coda-club/)*
+*Updated Mon, 27 Jul 2026 · source: [soundcheck](https://soundcheck.club/hamburg/club/coda-club/)*

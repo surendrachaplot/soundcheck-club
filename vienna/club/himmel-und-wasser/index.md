@@ -1,6 +1,6 @@
 # Himmel und Wasser
 
-Himmel und Wasser is a music venue in Vienna with 1 upcoming night listed on soundcheck as of Sun, 26 Jul 2026; the next is "UKG - Garage Community Island" on Sat, 1 Aug 2026.
+Himmel und Wasser is a music venue in Vienna with 1 upcoming night listed on soundcheck as of Mon, 27 Jul 2026; the next is "UKG - Garage Community Island" on Sat, 1 Aug 2026.
 
 Himmel und Wasser is a music venue in Vienna listed on soundcheck. 1 upcoming night. Browse upcoming dates, start times and who's playing. Steinspornbrücke 1, 1220 Wien, Austria.
 
@@ -14,4 +14,4 @@ Himmel und Wasser is a music venue in Vienna listed on soundcheck. 1 upcoming ni
 
 Steinspornbrücke 1, 1220 Wien, Austria, Vienna
 
-*Updated Sun, 26 Jul 2026 · source: [soundcheck](https://soundcheck.club/vienna/club/himmel-und-wasser/)*
+*Updated Mon, 27 Jul 2026 · source: [soundcheck](https://soundcheck.club/vienna/club/himmel-und-wasser/)*

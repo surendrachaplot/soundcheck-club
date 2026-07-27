@@ -1,6 +1,6 @@
 # Charlie Sparks
 
-Charlie Sparks is a Techno and House artist with 9 upcoming club dates listed on soundcheck as of Sun, 26 Jul 2026, next at Donauinsel, Vienna on Sat, 1 Aug 2026.
+Charlie Sparks is a Techno and House artist with 9 upcoming club dates listed on soundcheck as of Mon, 27 Jul 2026, next at Donauinsel, Vienna on Sat, 1 Aug 2026.
 
 Charlie Sparks is a techno and house artist tracked on soundcheck, with 252 sets logged across Aberdeen, Amsterdam, Athens and Barcelona and 62 more. Often billed alongside 999999999, Parfait and I Hate Models. Next up: Donauinsel, Vienna on Sat 1 Aug.
 
@@ -33,4 +33,4 @@ Charlie Sparks is a techno and house artist tracked on soundcheck, with 252 sets
 
 999999999, Parfait, I Hate Models
 
-*Updated Sun, 26 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/charliesparks/)*
+*Updated Mon, 27 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/charliesparks/)*

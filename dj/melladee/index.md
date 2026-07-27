@@ -1,6 +1,6 @@
 # Mella Dee
 
-Mella Dee is a House and Techno artist with 4 upcoming club dates listed on soundcheck as of Sun, 26 Jul 2026, next at Burgess Park, London on Sun, 9 Aug 2026.
+Mella Dee is a House and Techno artist with 4 upcoming club dates listed on soundcheck as of Mon, 27 Jul 2026, next at Burgess Park, London on Sun, 9 Aug 2026.
 
 Mella Dee is a house and techno artist tracked on soundcheck, with 155 sets logged across Aberdeen, Amsterdam, Antwerp and Auckland and 47 more. Often billed alongside Saoirse, Reeshy and Samuel Deep. Next up: Burgess Park, London on Sun 9 Aug.
 
@@ -28,4 +28,4 @@ Mella Dee is a house and techno artist tracked on soundcheck, with 155 sets logg
 
 Saoirse, Reeshy, Samuel Deep
 
-*Updated Sun, 26 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/melladee/)*
+*Updated Mon, 27 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/melladee/)*

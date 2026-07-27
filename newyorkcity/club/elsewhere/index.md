@@ -1,14 +1,13 @@
 # Elsewhere
 
-Elsewhere is a music venue in New York City with 46 upcoming nights listed on soundcheck as of Sun, 26 Jul 2026; the next is "R&B and Ribs" on Sun, 26 Jul 2026.
+Elsewhere is a music venue in New York City with 45 upcoming nights listed on soundcheck as of Mon, 27 Jul 2026; the next is "Bad Tuner, gabby cocco" on Fri, 31 Jul 2026.
 
-Elsewhere is a music venue in Newyorkcity listed on soundcheck. 46 upcoming nights, with line-ups including 444 (1), Aku, Amy Jor and ANDI WALL and 2 more. Browse upcoming dates, start times and who's playing. 599 Johnson Ave, Brooklyn, NY 11237 USA.
+Elsewhere is a music venue in Newyorkcity listed on soundcheck. 45 upcoming nights, with line-ups including 444 (1), Aku, Amy Jor and ANDI WALL and 2 more. Browse upcoming dates, start times and who's playing. 599 Johnson Ave, Brooklyn, NY 11237 USA.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Sun, 26 Jul 2026 | R&B and Ribs |  |
 | Fri, 31 Jul 2026 | Bad Tuner, gabby cocco | Bad Tuner, gabby cocco |
 | Fri, 31 Jul 2026 | Locklead, Lance Savali, DELACOUR, Amy Jor b2b Connie, Eavesdrop Records | ANDI WALL, Amy Jor, Connie, DELACOUR, Locklead |
 | Sat, 1 Aug 2026 | Uffie (DJ Set) + CFCF (DJ Set), Doecaine, CLUB VS TRANCE + more | Aster, Malcolm XL, Soo Intoit, Uffie |
@@ -18,9 +17,10 @@ Elsewhere is a music venue in Newyorkcity listed on soundcheck. 46 upcoming nigh
 | Fri, 7 Aug 2026 | Andruss, Lilly Bombas | Andruss |
 | Fri, 7 Aug 2026 | 15 Years of Darker Than Wax: New York with Haseeb Iqbal, Marco Weibel  | Haseeb Iqbal, Honey Bun, Jasmine Li (NY), John Silas, Lefto Early Bird, Marco Weibel, Mawkus |
 | Sat, 8 Aug 2026 | Jawani 4eva: Aku, Arjxn, Eshie, jakari wing, Rajuju | Aku, Arjxn, Eshie, Rajuju, jakari wing |
+| Sat, 8 Aug 2026 | Cuffing Season: OLEA, Esentrik, Arthur Tan, Okay Ivy, SINZ, Blesst + Goldie Harris & Friends | OLEA, SINZ |
 
 ## Address
 
 599 Johnson Ave, Brooklyn, NY 11237 USA, New York City
 
-*Updated Sun, 26 Jul 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/elsewhere/)*
+*Updated Mon, 27 Jul 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/elsewhere/)*

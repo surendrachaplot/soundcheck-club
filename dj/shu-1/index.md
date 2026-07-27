@@ -1,6 +1,6 @@
 # SHŪ (1)
 
-SHŪ (1) is a electronic artist with 3 upcoming club dates listed on soundcheck as of Sun, 26 Jul 2026, next at Tempio del Futuro Perduto, Milan on Fri, 7 Aug 2026.
+SHŪ (1) is a electronic artist with 3 upcoming club dates listed on soundcheck as of Mon, 27 Jul 2026, next at Tempio del Futuro Perduto, Milan on Fri, 7 Aug 2026.
 
 SHŪ (1) is an electronic artist tracked on soundcheck, with 6 sets logged across Milan. Often billed alongside Morva, ZHAZHA WANG and Zenyee. Next up: Tempio del Futuro Perduto, Milan on Fri 7 Aug.
 
@@ -22,4 +22,4 @@ SHŪ (1) is an electronic artist tracked on soundcheck, with 6 sets logged acros
 
 Morva, ZHAZHA WANG, Zenyee
 
-*Updated Sun, 26 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/shu-1/)*
+*Updated Mon, 27 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/shu-1/)*

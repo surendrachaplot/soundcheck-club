@@ -1,8 +1,8 @@
 # Afas Live
 
-Afas Live is a music venue in Amsterdam with 4 upcoming nights listed on soundcheck as of Sun, 26 Jul 2026; the next is "Jean-Michel Jarre: OXYGENE & BEYOND: A Sonic Journey Celebrating 30 Years of ADE" on Wed, 21 Oct 2026.
+Afas Live is a music venue in Amsterdam with 5 upcoming nights listed on soundcheck as of Mon, 27 Jul 2026; the next is "Jean-Michel Jarre: OXYGENE & BEYOND: A Sonic Journey Celebrating 30 Years of ADE" on Wed, 21 Oct 2026.
 
-Afas Live is a music venue in Amsterdam listed on soundcheck. 4 upcoming nights, with line-ups including Cloudy, Francis Mercier, Jean Michel Jarre and KUKO. Browse upcoming dates, start times and who's playing. Johan Cruijff Boulevard 590 1101 DS Amsterdam.
+Afas Live is a music venue in Amsterdam listed on soundcheck. 5 upcoming nights, with line-ups including Alycia Bezgo, BØĘRY, Cloudy and Francis Mercier and 2 more. Browse upcoming dates, start times and who's playing. Johan Cruijff Boulevard 590 1101 DS Amsterdam.
 
 ## What's on
 
@@ -12,9 +12,10 @@ Afas Live is a music venue in Amsterdam listed on soundcheck. 4 upcoming nights,
 | Fri, 23 Oct 2026 | UNREAL ADE 2026 x Cloudy ALL DAY LONG | Cloudy |
 | Fri, 23 Oct 2026 | UNREAL x ADE 2026: KUKO ALL NIGHT LONG | KUKO |
 | Sat, 24 Oct 2026 | ZAZU presents: SOLÈY by Francis Mercier | Francis Mercier |
+| Sun, 25 Oct 2026 | VERKNIPT ADE Special Sunday | Alycia Bezgo, BØĘRY, IOSIO, KLOFAMA, Raxeller, SLVL, Samuel Moriero (2), TiTi, Winson |
 
 ## Address
 
 Johan Cruijff Boulevard 590 1101 DS Amsterdam, Amsterdam
 
-*Updated Sun, 26 Jul 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/afas-live/)*
+*Updated Mon, 27 Jul 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/afas-live/)*

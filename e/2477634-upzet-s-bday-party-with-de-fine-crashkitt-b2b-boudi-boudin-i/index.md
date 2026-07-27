@@ -1,6 +1,6 @@
 # Upzet's Bday Party with DE.fine, Crashkitt b2b Boudi Boudin, Iza b2b Dirty Plates, Unknown at Void Club
 
-Upzet's Bday Party with DE.fine, Crashkitt b2b Boudi Boudin, Iza b2b Dirty Plates, Unknown at Void Club on Fri 14 Aug, Berlin. 11 acts on the bill: Agem, Andi Beat, Boudi Boudin and Crashkitt and 7 more. Drum & Bass and Techno. Preview the line-up and save it on soundcheck.
+Upzet's Bday Party with DE.fine, Crashkitt b2b Boudi Boudin, Iza b2b Dirty Plates, Unknown at Void Club on Fri 14 Aug, Berlin. 12 acts on the bill: Agem, Andi Beat, Boudi Boudin and Crashkitt and 8 more. Drum & Bass and Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -17,6 +17,7 @@ Upzet's Bday Party with DE.fine, Crashkitt b2b Boudi Boudin, Iza b2b Dirty Plate
 - DE.fine
 - Dirty Plates (2)
 - Dub Isotope
+- Ida Scheppert
 - IZA (2)
 - Shaded Lines
 - unknown.dnb

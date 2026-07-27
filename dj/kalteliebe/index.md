@@ -1,6 +1,6 @@
 # Kalte Liebe
 
-Kalte Liebe is a Techno and Trance artist with 6 upcoming club dates listed on soundcheck as of Sun, 26 Jul 2026, next at Donauinsel, Vienna on Sat, 1 Aug 2026.
+Kalte Liebe is a Techno and Trance artist with 6 upcoming club dates listed on soundcheck as of Mon, 27 Jul 2026, next at Donauinsel, Vienna on Sat, 1 Aug 2026.
 
 Kalte Liebe is a techno and trance artist tracked on soundcheck, with 84 sets logged across Amsterdam, Barcelona, Basel and Berlin and 22 more. Often billed alongside I Hate Models, Charlie Sparks and KUKO. Next up: Donauinsel, Vienna on Sat 1 Aug.
 
@@ -30,4 +30,4 @@ Kalte Liebe is a techno and trance artist tracked on soundcheck, with 84 sets lo
 
 I Hate Models, Charlie Sparks, KUKO
 
-*Updated Sun, 26 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/kalteliebe/)*
+*Updated Mon, 27 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/kalteliebe/)*

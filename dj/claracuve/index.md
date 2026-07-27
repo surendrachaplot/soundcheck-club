@@ -1,6 +1,6 @@
 # Clara Cuvé
 
-Clara Cuvé is a Techno and House artist with 13 upcoming club dates listed on soundcheck as of Sun, 26 Jul 2026, next at Eden, Ibiza on Tue, 28 Jul 2026.
+Clara Cuvé is a Techno and House artist with 13 upcoming club dates listed on soundcheck as of Mon, 27 Jul 2026, next at Eden, Ibiza on Tue, 28 Jul 2026.
 
 Clara Cuvé is a techno and house artist tracked on soundcheck, with 224 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 63 more. Often billed alongside Kobosil, MCR-T and 999999999. Next up: Eden, Ibiza on Tue 28 Jul.
 
@@ -36,4 +36,4 @@ Clara Cuvé is a techno and house artist tracked on soundcheck, with 224 sets lo
 
 Kobosil, MCR-T, 999999999
 
-*Updated Sun, 26 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/claracuve/)*
+*Updated Mon, 27 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/claracuve/)*

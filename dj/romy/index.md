@@ -1,8 +1,8 @@
 # Romy
 
-Romy is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Sun, 26 Jul 2026, next at Ushuaïa Ibiza, Ibiza on Tue, 25 Aug 2026.
+Romy is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Mon, 27 Jul 2026, next at Ushuaïa Ibiza, Ibiza on Tue, 25 Aug 2026.
 
-Romy is a techno and house artist tracked on soundcheck, with 128 sets logged across Amsterdam, Antwerp, Bangkok and Barcelona and 32 more. Often billed alongside Romy Mats, Your Muther and HAAi. Next up: Ushuaïa Ibiza, Ibiza on Tue 25 Aug.
+Romy is a techno and house artist tracked on soundcheck, with 129 sets logged across Amsterdam, Antwerp, Athens and Bangkok and 33 more. Often billed alongside Romy Mats, HAAi and Your Muther. Next up: Ushuaïa Ibiza, Ibiza on Tue 25 Aug.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Romy is a techno and house artist tracked on soundcheck, with 128 sets logged ac
 | --- | --- | --- |
 | Tue, 25 Aug 2026 | Ushuaïa Ibiza | Ibiza |
 | Sun, 30 Aug 2026 | Southwark Park | London |
+| Sun, 25 Oct 2026 | Athens Conservatoire - Ωδείον Αθηνών | Athens |
 
 ## Recently played
 
@@ -24,6 +25,6 @@ Romy is a techno and house artist tracked on soundcheck, with 128 sets logged ac
 
 ## Shares bills with
 
-Romy Mats, Your Muther, HAAi
+Romy Mats, HAAi, Your Muther
 
-*Updated Sun, 26 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/romy/)*
+*Updated Mon, 27 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/romy/)*

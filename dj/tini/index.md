@@ -1,8 +1,8 @@
 # tINI
 
-tINI is a House and Techno artist with 8 upcoming club dates listed on soundcheck as of Sun, 26 Jul 2026, next at 528 Ibiza, Ibiza on Tue, 28 Jul 2026.
+tINI is a House and Techno artist with 9 upcoming club dates listed on soundcheck as of Mon, 27 Jul 2026, next at 528 Ibiza, Ibiza on Tue, 28 Jul 2026.
 
-tINI is a house and techno artist tracked on soundcheck, with 227 sets logged across Amsterdam, Athens, Austin and Barcelona and 50 more. Often billed alongside Gene On Earth, Anthea and Dyed Soundorom. Next up: 528 Ibiza, Ibiza on Tue 28 Jul.
+tINI is a house and techno artist tracked on soundcheck, with 228 sets logged across Amsterdam, Athens, Austin and Barcelona and 50 more. Often billed alongside Gene On Earth, Anthea and Dyed Soundorom. Next up: 528 Ibiza, Ibiza on Tue 28 Jul.
 
 ## Upcoming shows
 
@@ -16,6 +16,7 @@ tINI is a house and techno artist tracked on soundcheck, with 227 sets logged ac
 | Sat, 12 Sept 2026 | Bunker | Turin |
 | Fri, 18 Sept 2026 | UNO MALTA | Malta |
 | Fri, 23 Oct 2026 | CLUB RAUM | Amsterdam |
+| Sun, 25 Oct 2026 | Garage Noord | Amsterdam |
 
 ## Recently played
 
@@ -32,4 +33,4 @@ tINI is a house and techno artist tracked on soundcheck, with 227 sets logged ac
 
 Gene On Earth, Anthea, Dyed Soundorom
 
-*Updated Sun, 26 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/tini/)*
+*Updated Mon, 27 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/tini/)*

@@ -1,6 +1,6 @@
 # ANXHELA
 
-ANXHELA is a Techno and Trance artist with 7 upcoming club dates listed on soundcheck as of Sun, 26 Jul 2026, next at E1, London on Fri, 31 Jul 2026.
+ANXHELA is a Techno and Trance artist with 7 upcoming club dates listed on soundcheck as of Mon, 27 Jul 2026, next at E1, London on Fri, 31 Jul 2026.
 
 ANXHELA is a techno and trance artist tracked on soundcheck, with 114 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 42 more. Often billed alongside Alignment, KØZLØV and DIØN. Next up: E1, London on Fri 31 Jul.
 
@@ -31,4 +31,4 @@ ANXHELA is a techno and trance artist tracked on soundcheck, with 114 sets logge
 
 Alignment, KØZLØV, DIØN
 
-*Updated Sun, 26 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/anxhela/)*
+*Updated Mon, 27 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/anxhela/)*

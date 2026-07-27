@@ -1,6 +1,6 @@
 # Razzmatazz
 
-Razzmatazz is a music venue in Barcelona with 12 upcoming nights listed on soundcheck as of Sun, 26 Jul 2026; the next is "RAZZCLUBS: Antidoto Club: Zengxrl + Unsho + Curated by ENGALANAN: Makadsi " on Fri, 31 Jul 2026.
+Razzmatazz is a music venue in Barcelona with 12 upcoming nights listed on soundcheck as of Mon, 27 Jul 2026; the next is "RAZZCLUBS: Antidoto Club: Zengxrl + Unsho + Curated by ENGALANAN: Makadsi " on Fri, 31 Jul 2026.
 
 Razzmatazz is a music venue in Barcelona listed on soundcheck. 12 upcoming nights, with line-ups including 8Kitoo, Alienata, Alírio and Amaliah and 2 more. Browse upcoming dates, start times and who's playing. C Almogavers 122 - C Pamplona 88; Barcelona; Spain.
 
@@ -23,4 +23,4 @@ Razzmatazz is a music venue in Barcelona listed on soundcheck. 12 upcoming night
 
 C Almogavers 122 - C Pamplona 88; Barcelona; Spain, Barcelona
 
-*Updated Sun, 26 Jul 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/razzmatazz/)*
+*Updated Mon, 27 Jul 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/razzmatazz/)*

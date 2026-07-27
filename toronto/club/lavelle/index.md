@@ -1,6 +1,6 @@
 # Lavelle
 
-Lavelle is a music venue in Toronto with 1 upcoming night listed on soundcheck as of Sun, 26 Jul 2026; the next is "LIU" on Sun, 9 Aug 2026.
+Lavelle is a music venue in Toronto with 1 upcoming night listed on soundcheck as of Mon, 27 Jul 2026; the next is "LIU" on Sun, 9 Aug 2026.
 
 Lavelle is a music venue in Toronto listed on soundcheck. 1 upcoming night. Browse upcoming dates, start times and who's playing. 627 King St W, Toronto, ON M5V 1M5, Canada.
 
@@ -14,4 +14,4 @@ Lavelle is a music venue in Toronto listed on soundcheck. 1 upcoming night. Brow
 
 627 King St W, Toronto, ON M5V 1M5, Canada, Toronto
 
-*Updated Sun, 26 Jul 2026 · source: [soundcheck](https://soundcheck.club/toronto/club/lavelle/)*
+*Updated Mon, 27 Jul 2026 · source: [soundcheck](https://soundcheck.club/toronto/club/lavelle/)*

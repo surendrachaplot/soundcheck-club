@@ -1,6 +1,6 @@
 # Robin Schulz
 
-Robin Schulz is a House and Electro artist with 9 upcoming club dates listed on soundcheck as of Sun, 26 Jul 2026, next at Cavo Paradiso, Mykonos on Mon, 27 Jul 2026.
+Robin Schulz is a House and Electro artist with 9 upcoming club dates listed on soundcheck as of Mon, 27 Jul 2026, next at Cavo Paradiso, Mykonos on Mon, 27 Jul 2026.
 
 Robin Schulz is a house and electro artist based in Germany, tracked on soundcheck, with 71 sets logged across Barcelona, Bucharest, Cologne and Denver and 14 more. Often billed alongside LOVRA, MistaJam and Nancie. Next up: Cavo Paradiso, Mykonos on Mon 27 Jul.
 
@@ -33,4 +33,4 @@ Robin Schulz is a house and electro artist based in Germany, tracked on soundche
 
 LOVRA, MistaJam, Nancie
 
-*Updated Sun, 26 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/robinschulz/)*
+*Updated Mon, 27 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/robinschulz/)*

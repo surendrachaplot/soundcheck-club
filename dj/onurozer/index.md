@@ -1,6 +1,6 @@
 # Onur Özer
 
-Onur Özer is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Sun, 26 Jul 2026, next at Nido Marseille, Marseille on Thu, 6 Aug 2026.
+Onur Özer is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Mon, 27 Jul 2026, next at Nido Marseille, Marseille on Thu, 6 Aug 2026.
 
 Onur Özer is a techno and house artist tracked on soundcheck, with 106 sets logged across Amsterdam, Athens, Barcelona and Berlin and 37 more. Often billed alongside Christian AB, Francesco Del Garda and Quest (IT). Next up: Nido Marseille, Marseille on Thu 6 Aug.
 
@@ -27,4 +27,4 @@ Onur Özer is a techno and house artist tracked on soundcheck, with 106 sets log
 
 Christian AB, Francesco Del Garda, Quest (IT)
 
-*Updated Sun, 26 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/onurozer/)*
+*Updated Mon, 27 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/onurozer/)*

@@ -1,6 +1,6 @@
 # Club NYX
 
-Club NYX is a music venue in Amsterdam with 6 upcoming nights listed on soundcheck as of Sun, 26 Jul 2026; the next is "Vodka Woensdag XXL: Night of the Diva's" on Wed, 29 Jul 2026.
+Club NYX is a music venue in Amsterdam with 6 upcoming nights listed on soundcheck as of Mon, 27 Jul 2026; the next is "Vodka Woensdag XXL: Night of the Diva's" on Wed, 29 Jul 2026.
 
 Club NYX is a music venue in Amsterdam listed on soundcheck. 6 upcoming nights, with line-ups including Alma Negrot, cera, Dangerous Rose and Emma Champagne Queen and 2 more. Browse upcoming dates, start times and who's playing. Reguliersdwarsstraat 42, 1017BM Amsterdam.
 
@@ -19,4 +19,4 @@ Club NYX is a music venue in Amsterdam listed on soundcheck. 6 upcoming nights, 
 
 Reguliersdwarsstraat 42, 1017BM Amsterdam, Amsterdam
 
-*Updated Sun, 26 Jul 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/club-nyx/)*
+*Updated Mon, 27 Jul 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/club-nyx/)*

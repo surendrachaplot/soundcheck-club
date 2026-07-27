@@ -1,6 +1,6 @@
 # Obskur
 
-Obskur is a House and Tech House artist with 13 upcoming club dates listed on soundcheck as of Sun, 26 Jul 2026, next at Binks Yard, Nottingham on Sat, 1 Aug 2026.
+Obskur is a House and Tech House artist with 13 upcoming club dates listed on soundcheck as of Mon, 27 Jul 2026, next at Binks Yard, Nottingham on Sat, 1 Aug 2026.
 
 Obskur is a house and tech house artist tracked on soundcheck, with 148 sets logged across Aberdeen, Amsterdam, Austin and Barcelona and 37 more. Often billed alongside East End Dubs, Max Dean and ALISHA. Next up: Binks Yard, Nottingham on Sat 1 Aug.
 
@@ -36,4 +36,4 @@ Obskur is a house and tech house artist tracked on soundcheck, with 148 sets log
 
 East End Dubs, Max Dean, ALISHA
 
-*Updated Sun, 26 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/obskur/)*
+*Updated Mon, 27 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/obskur/)*

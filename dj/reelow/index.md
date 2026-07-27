@@ -1,6 +1,6 @@
 # Reelow
 
-Reelow is a Tech House and House artist with 2 upcoming club dates listed on soundcheck as of Sun, 26 Jul 2026, next at La Terrrazza, Barcelona on Thu, 6 Aug 2026.
+Reelow is a Tech House and House artist with 2 upcoming club dates listed on soundcheck as of Mon, 27 Jul 2026, next at La Terrrazza, Barcelona on Thu, 6 Aug 2026.
 
 Reelow is a tech house and house artist tracked on soundcheck, with 72 sets logged across Amsterdam, Athens, Bali and Barcelona and 15 more. Often billed alongside ACA (YU), Sadkiel and Mene. Next up: La Terrrazza, Barcelona on Thu 6 Aug.
 
@@ -26,4 +26,4 @@ Reelow is a tech house and house artist tracked on soundcheck, with 72 sets logg
 
 ACA (YU), Sadkiel, Mene
 
-*Updated Sun, 26 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/reelow/)*
+*Updated Mon, 27 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/reelow/)*

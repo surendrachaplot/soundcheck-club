@@ -1,6 +1,6 @@
 # Sidney Charles
 
-Sidney Charles is a House and Tech House artist with 19 upcoming club dates listed on soundcheck as of Sun, 26 Jul 2026, next at Son Fusteret, Mallorca on Sat, 1 Aug 2026.
+Sidney Charles is a House and Tech House artist with 19 upcoming club dates listed on soundcheck as of Mon, 27 Jul 2026, next at Son Fusteret, Mallorca on Sat, 1 Aug 2026.
 
 Sidney Charles is a house and tech house artist tracked on soundcheck, with 209 sets logged across Aberdeen, Amsterdam, Austin and Barcelona and 39 more. Often billed alongside Prunk, ALISHA and Gaskin. Next up: Son Fusteret, Mallorca on Sat 1 Aug.
 
@@ -36,4 +36,4 @@ Sidney Charles is a house and tech house artist tracked on soundcheck, with 209 
 
 Prunk, ALISHA, Gaskin
 
-*Updated Sun, 26 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/sidneycharles/)*
+*Updated Mon, 27 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/sidneycharles/)*

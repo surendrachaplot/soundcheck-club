@@ -1,6 +1,6 @@
 # JakoJako
 
-JakoJako is a Techno and House artist with 13 upcoming club dates listed on soundcheck as of Sun, 26 Jul 2026, next at Amnesia Ibiza, Ibiza on Tue, 28 Jul 2026.
+JakoJako is a Techno and House artist with 13 upcoming club dates listed on soundcheck as of Mon, 27 Jul 2026, next at Amnesia Ibiza, Ibiza on Tue, 28 Jul 2026.
 
 JakoJako is a techno and house artist tracked on soundcheck, with 155 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 35 more. Often billed alongside Barker, Rødhåd and Fadi Mohem. Next up: Amnesia Ibiza, Ibiza on Tue 28 Jul.
 
@@ -36,4 +36,4 @@ JakoJako is a techno and house artist tracked on soundcheck, with 155 sets logge
 
 Barker, Rødhåd, Fadi Mohem
 
-*Updated Sun, 26 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/jakojako/)*
+*Updated Mon, 27 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/jakojako/)*

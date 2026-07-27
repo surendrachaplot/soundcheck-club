@@ -1,14 +1,15 @@
 # IKAKO
 
-IKAKO is a House and Tech House artist with 2 upcoming club dates listed on soundcheck as of Sun, 26 Jul 2026, next at Resume Valencia, Valencia on Fri, 31 Jul 2026.
+IKAKO is a House and Tech House artist with 3 upcoming club dates listed on soundcheck as of Mon, 27 Jul 2026, next at Resume Valencia, Valencia on Fri, 31 Jul 2026.
 
-IKAKO is a house and tech house artist tracked on soundcheck, with 37 sets logged across Tbilisi and Valencia. Often billed alongside BEQA, Gio Shengelia and SUMO. Next up: Resume Valencia, Valencia on Fri 31 Jul.
+IKAKO is a house and tech house artist tracked on soundcheck, with 38 sets logged across Tbilisi and Valencia. Often billed alongside BEQA, Gio Shengelia and SUMO. Next up: Resume Valencia, Valencia on Fri 31 Jul.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 31 Jul 2026 | Resume Valencia | Valencia |
+| Sat, 8 Aug 2026 | Resume Valencia | Valencia |
 | Sat, 22 Aug 2026 | Spook Club | Valencia |
 
 ## Recently played
@@ -26,4 +27,4 @@ IKAKO is a house and tech house artist tracked on soundcheck, with 37 sets logge
 
 BEQA, Gio Shengelia, SUMO
 
-*Updated Sun, 26 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/ikako/)*
+*Updated Mon, 27 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/ikako/)*

@@ -1,6 +1,6 @@
 # Hideout
 
-Hideout is a music venue in Malta with 1 upcoming night listed on soundcheck as of Sun, 26 Jul 2026; the next is "THE GARDEN" on Sat, 15 Aug 2026.
+Hideout is a music venue in Malta with 1 upcoming night listed on soundcheck as of Mon, 27 Jul 2026; the next is "THE GARDEN" on Sat, 15 Aug 2026.
 
 Hideout is a music venue in Malta listed on soundcheck. 1 upcoming night. Browse upcoming dates, start times and who's playing. BMX track, Triq Martin Luther King, Pembroke, PBK 1990.
 
@@ -14,4 +14,4 @@ Hideout is a music venue in Malta listed on soundcheck. 1 upcoming night. Browse
 
 BMX track, Triq Martin Luther King, Pembroke, PBK 1990, Malta
 
-*Updated Sun, 26 Jul 2026 · source: [soundcheck](https://soundcheck.club/malta/club/hideout/)*
+*Updated Mon, 27 Jul 2026 · source: [soundcheck](https://soundcheck.club/malta/club/hideout/)*

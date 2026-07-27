@@ -1,6 +1,6 @@
 # Void Club
 
-Void Club is a music venue in Berlin with 9 upcoming nights listed on soundcheck as of Sun, 26 Jul 2026; the next is "VOID x Druschba Psy Crew Vol. 2" on Sat, 1 Aug 2026.
+Void Club is a music venue in Berlin with 9 upcoming nights listed on soundcheck as of Mon, 27 Jul 2026; the next is "VOID x Druschba Psy Crew Vol. 2" on Sat, 1 Aug 2026.
 
 Void Club is a music venue in Berlin listed on soundcheck. 9 upcoming nights, with line-ups including ADOBE, Agem, Andi Beat and Anton Quasi and 2 more. Browse upcoming dates, start times and who's playing. Wiesenweg 5-9, 10365.
 
@@ -11,7 +11,7 @@ Void Club is a music venue in Berlin listed on soundcheck. 9 upcoming nights, wi
 | Sat, 1 Aug 2026 | VOID x Druschba Psy Crew Vol. 2 | H.U.K, Nerv, Upzet |
 | Fri, 7 Aug 2026 | Free Party | Dino S, Sagrivox, Upzet |
 | Sat, 8 Aug 2026 | Stoic Music x Breakout DNB (NL) | Anton Quasi, Initia, phasebound |
-| Fri, 14 Aug 2026 | Upzet's Bday Party with DE.fine, Crashkitt b2b Boudi Boudin, Iza b2b Dirty Plates, Unknown | Agem, Andi Beat, Boudi Boudin, Crashkitt, DE.fine, Dirty Plates (2), Dub Isotope, IZA (2), Shaded Lines, Upzet, unknown.dnb |
+| Fri, 14 Aug 2026 | Upzet's Bday Party with DE.fine, Crashkitt b2b Boudi Boudin, Iza b2b Dirty Plates, Unknown | Agem, Andi Beat, Boudi Boudin, Crashkitt, DE.fine, Dirty Plates (2), Dub Isotope, IZA (2), Ida Scheppert, Shaded Lines, Upzet, unknown.dnb |
 | Sat, 15 Aug 2026 | Kinder der Nacht - Parade After Party w/ T78 | ADOBE, Activator, Avex, DJ Jordan, Dave Demon, Ewelina Koll, GHOST DE, Jacopo Susini, Jens Schwan, Klipp&Klar, LEPIDO, Marc van Linden, Rob Robsen, Ronny Luft, SXF Thunderscream, Seimen Dexter, T78, YOZÉ |
 | Fri, 28 Aug 2026 | Berlin Bass Music Vibes |  |
 | Fri, 11 Sept 2026 | Dionys: Hardtechno x Trance/Bounce Rave(2 Floors) | Brizze, DaSoMaZo |
@@ -22,4 +22,4 @@ Void Club is a music venue in Berlin listed on soundcheck. 9 upcoming nights, wi
 
 Wiesenweg 5-9, 10365, Berlin
 
-*Updated Sun, 26 Jul 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/void-club/)*
+*Updated Mon, 27 Jul 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/void-club/)*

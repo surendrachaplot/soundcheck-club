@@ -1,6 +1,6 @@
 # 1tbsp
 
-1tbsp is a House and Electronica artist with 6 upcoming club dates listed on soundcheck as of Sun, 26 Jul 2026, next at Radius, Chicago on Thu, 30 Jul 2026.
+1tbsp is a House and Electronica artist with 6 upcoming club dates listed on soundcheck as of Mon, 27 Jul 2026, next at Radius, Chicago on Thu, 30 Jul 2026.
 
 1tbsp is a house and electronica artist tracked on soundcheck, with 112 sets logged across Auckland, Barcelona, Belfast and Berlin and 31 more. Often billed alongside Mietze Conte, SOLTERA and Killian. Next up: Radius, Chicago on Thu 30 Jul.
 
@@ -30,4 +30,4 @@
 
 Mietze Conte, SOLTERA, Killian
 
-*Updated Sun, 26 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/1tbsp/)*
+*Updated Mon, 27 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/1tbsp/)*

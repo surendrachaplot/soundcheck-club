@@ -1,6 +1,6 @@
 # Blå
 
-Blå is a music venue in Oslo with 8 upcoming nights listed on soundcheck as of Sun, 26 Jul 2026; the next is "Annette K (Purpurrpurple)" on Fri, 31 Jul 2026.
+Blå is a music venue in Oslo with 8 upcoming nights listed on soundcheck as of Mon, 27 Jul 2026; the next is "Annette K (Purpurrpurple)" on Fri, 31 Jul 2026.
 
 Blå is a music venue in Oslo listed on soundcheck. 8 upcoming nights, with line-ups including DJ Sprinter, Egyptian Lover, Loveshy and Morstaq and 2 more. Browse upcoming dates, start times and who's playing. Brennerivn 9c; 0182 Oslo; Norway.
 
@@ -21,4 +21,4 @@ Blå is a music venue in Oslo listed on soundcheck. 8 upcoming nights, with line
 
 Brennerivn 9c; 0182 Oslo; Norway, Oslo
 
-*Updated Sun, 26 Jul 2026 · source: [soundcheck](https://soundcheck.club/oslo/club/bl/)*
+*Updated Mon, 27 Jul 2026 · source: [soundcheck](https://soundcheck.club/oslo/club/bl/)*

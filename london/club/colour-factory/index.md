@@ -1,8 +1,8 @@
 # Colour Factory
 
-Colour Factory is a music venue in London with 12 upcoming nights listed on soundcheck as of Sun, 26 Jul 2026; the next is "WOLF Music x Adventures In Paradise Day Party" on Sat, 1 Aug 2026.
+Colour Factory is a music venue in London with 13 upcoming nights listed on soundcheck as of Mon, 27 Jul 2026; the next is "WOLF Music x Adventures In Paradise Day Party" on Sat, 1 Aug 2026.
 
-Colour Factory is a music venue in London listed on soundcheck. 12 upcoming nights, with line-ups including Andrea Giudice, Baba T, Brown Excellence and Cable! and 2 more. Browse upcoming dates, start times and who's playing. 8 Queen's Yard, London E9 5EN.
+Colour Factory is a music venue in London listed on soundcheck. 13 upcoming nights, with line-ups including Andrea Giudice, Baba T, Brown Excellence and Cable! and 2 more. Browse upcoming dates, start times and who's playing. 8 Queen's Yard, London E9 5EN.
 
 ## What's on
 
@@ -23,4 +23,4 @@ Colour Factory is a music venue in London listed on soundcheck. 12 upcoming nigh
 
 8 Queen's Yard, London E9 5EN, London
 
-*Updated Sun, 26 Jul 2026 · source: [soundcheck](https://soundcheck.club/london/club/colour-factory/)*
+*Updated Mon, 27 Jul 2026 · source: [soundcheck](https://soundcheck.club/london/club/colour-factory/)*

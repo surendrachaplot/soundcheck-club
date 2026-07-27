@@ -1,8 +1,8 @@
 # Basing House
 
-Basing House is a music venue in London with 20 upcoming nights listed on soundcheck as of Sun, 26 Jul 2026; the next is "Nowhere Special" on Fri, 31 Jul 2026.
+Basing House is a music venue in London with 21 upcoming nights listed on soundcheck as of Mon, 27 Jul 2026; the next is "Nowhere Special" on Fri, 31 Jul 2026.
 
-Basing House is a music venue in London listed on soundcheck. 20 upcoming nights, with line-ups including AALEX, Adela, A Hard Day's Dance and Alythia Kwan and 2 more. Browse upcoming dates, start times and who's playing. 25 Kingsland Road; Shoreditch; London E2 8AA; United Kingdom.
+Basing House is a music venue in London listed on soundcheck. 21 upcoming nights, with line-ups including AALEX, Adela, A Hard Day's Dance and Alythia Kwan and 2 more. Browse upcoming dates, start times and who's playing. 25 Kingsland Road; Shoreditch; London E2 8AA; United Kingdom.
 
 ## What's on
 
@@ -23,4 +23,4 @@ Basing House is a music venue in London listed on soundcheck. 20 upcoming nights
 
 25 Kingsland Road; Shoreditch; London E2 8AA; United Kingdom, London
 
-*Updated Sun, 26 Jul 2026 · source: [soundcheck](https://soundcheck.club/london/club/basing-house/)*
+*Updated Mon, 27 Jul 2026 · source: [soundcheck](https://soundcheck.club/london/club/basing-house/)*

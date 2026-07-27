@@ -1,14 +1,13 @@
 # Fatima Hajji
 
-Fatima Hajji is a Techno and House artist with 11 upcoming club dates listed on soundcheck as of Sun, 26 Jul 2026, next at Amnesia Ibiza, Ibiza on Sun, 26 Jul 2026.
+Fatima Hajji is a Techno and House artist with 10 upcoming club dates listed on soundcheck as of Mon, 27 Jul 2026, next at Son Fusteret, Mallorca on Sat, 1 Aug 2026.
 
-Fatima Hajji is a techno and house artist tracked on soundcheck, with 186 sets logged across Amsterdam, Athens, Austin and Barcelona and 57 more. Often billed alongside Alignment, Shlømo and Trym. Next up: Amnesia Ibiza, Ibiza on Sun 26 Jul.
+Fatima Hajji is a techno and house artist tracked on soundcheck, with 186 sets logged across Amsterdam, Athens, Austin and Barcelona and 57 more. Often billed alongside Alignment, Shlømo and Trym. Next up: Son Fusteret, Mallorca on Sat 1 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sun, 26 Jul 2026 | Amnesia Ibiza | Ibiza |
 | Sat, 1 Aug 2026 | Son Fusteret | Mallorca |
 | Sun, 2 Aug 2026 | Amnesia Ibiza | Ibiza |
 | Tue, 11 Aug 2026 | Amnesia Ibiza | Ibiza |
@@ -22,6 +21,7 @@ Fatima Hajji is a techno and house artist tracked on soundcheck, with 186 sets l
 
 ## Recently played
 
+- Amnesia Ibiza, Ibiza — Sun, 26 Jul 2026
 - UNO MALTA, Malta — Fri, 17 Jul 2026
 - Audiodrome, Turin — Sat, 4 Jul 2026
 - Parco Dora, Turin — Fri, 3 Jul 2026
@@ -29,10 +29,9 @@ Fatima Hajji is a techno and house artist tracked on soundcheck, with 186 sets l
 - INPUT High Fidelity Dance Club, Barcelona — Thu, 18 Jun 2026
 - Amnesia Ibiza, Ibiza — Sun, 14 Jun 2026
 - Joule, Osaka — Sat, 30 May 2026
-- Zerotokyo, Tokyo — Fri, 29 May 2026
 
 ## Shares bills with
 
 Alignment, Shlømo, Trym
 
-*Updated Sun, 26 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/fatimahajji/)*
+*Updated Mon, 27 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/fatimahajji/)*

@@ -1,6 +1,6 @@
 # Tina von Kugler
 
-Tina von Kugler is a Techno and Deep House artist with 2 upcoming club dates listed on soundcheck as of Sun, 26 Jul 2026, next at Prisma, Berlin on Thu, 30 Jul 2026.
+Tina von Kugler is a Techno and Deep House artist with 2 upcoming club dates listed on soundcheck as of Mon, 27 Jul 2026, next at Prisma, Berlin on Thu, 30 Jul 2026.
 
 Tina von Kugler is a techno and deep house artist tracked on soundcheck, with 47 sets logged across Bangkok, Berlin, Hamburg and Lisbon and 1 more. Often billed alongside Gino Kampari, Berfu and Black Mirror Park. Next up: Prisma, Berlin on Thu 30 Jul.
 
@@ -26,4 +26,4 @@ Tina von Kugler is a techno and deep house artist tracked on soundcheck, with 47
 
 Gino Kampari, Berfu, Black Mirror Park
 
-*Updated Sun, 26 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/tinavonkugler/)*
+*Updated Mon, 27 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/tinavonkugler/)*

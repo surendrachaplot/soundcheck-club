@@ -1,6 +1,6 @@
 # Lucía Gea
 
-Lucía Gea is a Techno and Trance artist with 2 upcoming club dates listed on soundcheck as of Sun, 26 Jul 2026, next at Eden, Ibiza on Tue, 28 Jul 2026.
+Lucía Gea is a Techno and Trance artist with 2 upcoming club dates listed on soundcheck as of Mon, 27 Jul 2026, next at Eden, Ibiza on Tue, 28 Jul 2026.
 
 Lucía Gea is a techno and trance artist tracked on soundcheck, with 69 sets logged across Barcelona, Berlin, Hamburg and Ibiza and 3 more. Often billed alongside Dj badtrip, Finalversion3 and Ariezzz. Next up: Eden, Ibiza on Tue 28 Jul.
 
@@ -26,4 +26,4 @@ Lucía Gea is a techno and trance artist tracked on soundcheck, with 69 sets log
 
 Dj badtrip, Finalversion3, Ariezzz
 
-*Updated Sun, 26 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/lucíagea/)*
+*Updated Mon, 27 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/lucíagea/)*

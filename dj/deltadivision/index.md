@@ -1,6 +1,6 @@
 # Delta Division
 
-Delta Division is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Sun, 26 Jul 2026, next at Renate, Berlin on Fri, 7 Aug 2026.
+Delta Division is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Mon, 27 Jul 2026, next at Renate, Berlin on Fri, 7 Aug 2026.
 
 Delta Division is a techno and house artist tracked on soundcheck, with 14 sets logged across Berlin, London and Zurich. Often billed alongside Air Protection Office, Mruda and N ska. Next up: Renate, Berlin on Fri 7 Aug.
 
@@ -27,4 +27,4 @@ Delta Division is a techno and house artist tracked on soundcheck, with 14 sets 
 
 Air Protection Office, Mruda, N ska
 
-*Updated Sun, 26 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/deltadivision/)*
+*Updated Mon, 27 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/deltadivision/)*

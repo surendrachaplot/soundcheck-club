@@ -1,6 +1,6 @@
 # Bunker Club
 
-Bunker Club is a music venue in London with 2 upcoming nights listed on soundcheck as of Sun, 26 Jul 2026; the next is "Studio Crumb 045: Haseeb Iqbal - All Night Long (Notting Hill Carnival Warm Up Session)" on Sat, 15 Aug 2026.
+Bunker Club is a music venue in London with 2 upcoming nights listed on soundcheck as of Mon, 27 Jul 2026; the next is "Studio Crumb 045: Haseeb Iqbal - All Night Long (Notting Hill Carnival Warm Up Session)" on Sat, 15 Aug 2026.
 
 Bunker Club is a music venue in London listed on soundcheck. 2 upcoming nights, with line-ups including Haseeb Iqbal. Browse upcoming dates, start times and who's playing. 46 Deptford Broadway; Deptford; London SE8 4PH; United Kingdom.
 
@@ -15,4 +15,4 @@ Bunker Club is a music venue in London listed on soundcheck. 2 upcoming nights, 
 
 46 Deptford Broadway; Deptford; London SE8 4PH; United Kingdom, London
 
-*Updated Sun, 26 Jul 2026 · source: [soundcheck](https://soundcheck.club/london/club/bunker-club/)*
+*Updated Mon, 27 Jul 2026 · source: [soundcheck](https://soundcheck.club/london/club/bunker-club/)*

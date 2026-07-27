@@ -1,6 +1,6 @@
 # Gabry Ponte
 
-Gabry Ponte is a Techno and Electro artist with 3 upcoming club dates listed on soundcheck as of Sun, 26 Jul 2026, next at Ushuaïa Ibiza, Ibiza on Wed, 5 Aug 2026.
+Gabry Ponte is a Techno and Electro artist with 3 upcoming club dates listed on soundcheck as of Mon, 27 Jul 2026, next at Ushuaïa Ibiza, Ibiza on Wed, 5 Aug 2026.
 
 Gabry Ponte is a techno and electro artist based in Italy, tracked on soundcheck, with 12 sets logged across Amsterdam, Bucharest, Ibiza and London and 3 more. Often billed alongside 999999999, ADIN and Adam Beyer. Next up: Ushuaïa Ibiza, Ibiza on Wed 5 Aug.
 
@@ -27,4 +27,4 @@ Gabry Ponte is a techno and electro artist based in Italy, tracked on soundcheck
 
 999999999, ADIN, Adam Beyer
 
-*Updated Sun, 26 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/gabryponte-uk/)*
+*Updated Mon, 27 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/gabryponte-uk/)*

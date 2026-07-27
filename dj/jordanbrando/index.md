@@ -1,6 +1,6 @@
 # Jordan Brando
 
-Jordan Brando is a House and Tech House artist with 4 upcoming club dates listed on soundcheck as of Sun, 26 Jul 2026, next at Old Royal Naval College, London on Sat, 1 Aug 2026.
+Jordan Brando is a House and Tech House artist with 4 upcoming club dates listed on soundcheck as of Mon, 27 Jul 2026, next at Old Royal Naval College, London on Sat, 1 Aug 2026.
 
 Jordan Brando is a house and tech house artist tracked on soundcheck, with 38 sets logged across Amsterdam, Auckland, Australiancapitalterritory and Brisbane and 10 more. Often billed alongside Luke Alessi, William Kiss and Luuk van Dijk. Next up: Old Royal Naval College, London on Sat 1 Aug.
 
@@ -28,4 +28,4 @@ Jordan Brando is a house and tech house artist tracked on soundcheck, with 38 se
 
 Luke Alessi, William Kiss, Luuk van Dijk
 
-*Updated Sun, 26 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/jordanbrando/)*
+*Updated Mon, 27 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/jordanbrando/)*

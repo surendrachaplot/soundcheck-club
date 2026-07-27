@@ -1,8 +1,8 @@
 # Kilopatrah Jones
 
-Kilopatrah Jones is a House and Techno artist with 8 upcoming club dates listed on soundcheck as of Sun, 26 Jul 2026, next at Südpol, Hamburg on Sat, 1 Aug 2026.
+Kilopatrah Jones is a House and Techno artist with 9 upcoming club dates listed on soundcheck as of Mon, 27 Jul 2026, next at Südpol, Hamburg on Sat, 1 Aug 2026.
 
-Kilopatrah Jones is a house and techno artist tracked on soundcheck, with 179 sets logged across Amsterdam, Barcelona, Berlin and Boston and 21 more. Often billed alongside Dee Diggs, Mike Servito and Ron Like Hell. Next up: Südpol, Hamburg on Sat 1 Aug.
+Kilopatrah Jones is a house and techno artist tracked on soundcheck, with 180 sets logged across Amsterdam, Barcelona, Berlin and Boston and 21 more. Often billed alongside Dee Diggs, Mike Servito and Ron Like Hell. Next up: Südpol, Hamburg on Sat 1 Aug.
 
 ## Upcoming shows
 
@@ -16,6 +16,7 @@ Kilopatrah Jones is a house and techno artist tracked on soundcheck, with 179 se
 | Sat, 29 Aug 2026 | BASEMENT | New York City |
 | Sat, 5 Sept 2026 | Knockdown Center | New York City |
 | Fri, 11 Sept 2026 | The Brooklyn Monarch | New York City |
+| Fri, 25 Sept 2026 | Kremwerk-Timbre Room-Cherry Complex | Seattle |
 
 ## Recently played
 
@@ -32,4 +33,4 @@ Kilopatrah Jones is a house and techno artist tracked on soundcheck, with 179 se
 
 Dee Diggs, Mike Servito, Ron Like Hell
 
-*Updated Sun, 26 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/kilopatrahjones/)*
+*Updated Mon, 27 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/kilopatrahjones/)*

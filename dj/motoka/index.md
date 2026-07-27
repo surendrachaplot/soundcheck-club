@@ -1,6 +1,6 @@
 # MOTOKA
 
-MOTOKA is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Sun, 26 Jul 2026, next at UTOPIA / DYSTOPIA, Tokyo on Sat, 8 Aug 2026.
+MOTOKA is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Mon, 27 Jul 2026, next at UTOPIA / DYSTOPIA, Tokyo on Sat, 8 Aug 2026.
 
 MOTOKA is a techno and house artist based in Japan, tracked on soundcheck, with 119 sets logged across Tokyo. Often billed alongside SIGNAL (JP), Junya and BERLINER KINDL. Next up: UTOPIA / DYSTOPIA, Tokyo on Sat 8 Aug.
 
@@ -27,4 +27,4 @@ MOTOKA is a techno and house artist based in Japan, tracked on soundcheck, with 
 
 SIGNAL (JP), Junya, BERLINER KINDL
 
-*Updated Sun, 26 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/motoka/)*
+*Updated Mon, 27 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/motoka/)*

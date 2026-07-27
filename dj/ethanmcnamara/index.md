@@ -1,6 +1,6 @@
 # Ethan McNamara
 
-Ethan McNamara is a Electro and Techno artist with 2 upcoming club dates listed on soundcheck as of Sun, 26 Jul 2026, next at Concept Haus, Manchester on Fri, 31 Jul 2026.
+Ethan McNamara is a Electro and Techno artist with 2 upcoming club dates listed on soundcheck as of Mon, 27 Jul 2026, next at Concept Haus, Manchester on Fri, 31 Jul 2026.
 
 Ethan McNamara is an electro and techno artist tracked on soundcheck, with 66 sets logged across Barcelona, Berlin, Bucharest and Leeds and 5 more. Often billed alongside Ryan Ingleby, Louie G and A.L.C. Next up: Concept Haus, Manchester on Fri 31 Jul.
 
@@ -26,4 +26,4 @@ Ethan McNamara is an electro and techno artist tracked on soundcheck, with 66 se
 
 Ryan Ingleby, Louie G, A.L.C
 
-*Updated Sun, 26 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/ethanmcnamara/)*
+*Updated Mon, 27 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/ethanmcnamara/)*

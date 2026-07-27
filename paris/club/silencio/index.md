@@ -1,6 +1,6 @@
 # Silencio
 
-Silencio is a music venue in Paris with 12 upcoming nights listed on soundcheck as of Sun, 26 Jul 2026; the next is "THE HELLP (DJ) / SAM QUEALY / VELVET BROTHERS" on Thu, 30 Jul 2026.
+Silencio is a music venue in Paris with 12 upcoming nights listed on soundcheck as of Mon, 27 Jul 2026; the next is "THE HELLP (DJ) / SAM QUEALY / VELVET BROTHERS" on Thu, 30 Jul 2026.
 
 Silencio is a music venue in Paris listed on soundcheck. 12 upcoming nights, with line-ups including Ali RQ, Antal, The Avalanches and Ivan Smagghe and 2 more. Browse upcoming dates, start times and who's playing. 142 rue Montmartre Paris.
 
@@ -23,4 +23,4 @@ Silencio is a music venue in Paris listed on soundcheck. 12 upcoming nights, wit
 
 142 rue Montmartre Paris, Paris
 
-*Updated Sun, 26 Jul 2026 · source: [soundcheck](https://soundcheck.club/paris/club/silencio/)*
+*Updated Mon, 27 Jul 2026 · source: [soundcheck](https://soundcheck.club/paris/club/silencio/)*

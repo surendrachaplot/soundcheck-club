@@ -1,14 +1,13 @@
 # Pimpernel
 
-Pimpernel is a music venue in Munich with 6 upcoming nights listed on soundcheck as of Sun, 26 Jul 2026; the next is "Pimpernel All Night Long" on Sun, 26 Jul 2026.
+Pimpernel is a music venue in Munich with 5 upcoming nights listed on soundcheck as of Mon, 27 Jul 2026; the next is "Pimpernel All Night Long" on Mon, 27 Jul 2026.
 
-Pimpernel is a music venue in Munich listed on soundcheck. 6 upcoming nights, with line-ups including Michael Nowak, Sonson, Static Bloom (DE) and Thomas Herb and 1 more. Browse upcoming dates, start times and who's playing. Müllerstr. 56; 80469 Munich; Germany.
+Pimpernel is a music venue in Munich listed on soundcheck. 5 upcoming nights, with line-ups including Michael Nowak, Sonson, Static Bloom (DE) and Thomas Herb and 1 more. Browse upcoming dates, start times and who's playing. Müllerstr. 56; 80469 Munich; Germany.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Sun, 26 Jul 2026 | Pimpernel All Night Long |  |
 | Mon, 27 Jul 2026 | Pimpernel All Night Long | Thomas Stieler |
 | Tue, 28 Jul 2026 | Pimpernel All Night Long | Michael Nowak |
 | Wed, 29 Jul 2026 | Pimpernel All Night Long | Thomas Herb |
@@ -19,4 +18,4 @@ Pimpernel is a music venue in Munich listed on soundcheck. 6 upcoming nights, wi
 
 Müllerstr. 56; 80469 Munich; Germany, Munich
 
-*Updated Sun, 26 Jul 2026 · source: [soundcheck](https://soundcheck.club/munich/club/pimpernel/)*
+*Updated Mon, 27 Jul 2026 · source: [soundcheck](https://soundcheck.club/munich/club/pimpernel/)*

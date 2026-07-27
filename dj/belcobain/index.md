@@ -1,6 +1,6 @@
 # Bel Cobain
 
-Bel Cobain is a Jazz and House artist with 3 upcoming club dates listed on soundcheck as of Sun, 26 Jul 2026, next at Kelvedon Hall, London on Fri, 14 Aug 2026.
+Bel Cobain is a Jazz and House artist with 3 upcoming club dates listed on soundcheck as of Mon, 27 Jul 2026, next at Kelvedon Hall, London on Fri, 14 Aug 2026.
 
 Bel Cobain is a jazz and house artist based in United Kingdom, tracked on soundcheck, with 14 sets logged across Leeds, Liverpool, London and Manchester. Often billed alongside 2fox, Coco Maria and Ella Knight. Next up: Kelvedon Hall, London on Fri 14 Aug.
 
@@ -27,4 +27,4 @@ Bel Cobain is a jazz and house artist based in United Kingdom, tracked on soundc
 
 2fox, Coco Maria, Ella Knight
 
-*Updated Sun, 26 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/belcobain/)*
+*Updated Mon, 27 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/belcobain/)*

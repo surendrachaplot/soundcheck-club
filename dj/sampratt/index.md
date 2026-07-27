@@ -1,6 +1,6 @@
 # Sam Pratt
 
-Sam Pratt is a House and Tech House artist with 2 upcoming club dates listed on soundcheck as of Sun, 26 Jul 2026, next at Ramona, Manchester on Sat, 1 Aug 2026.
+Sam Pratt is a House and Tech House artist with 2 upcoming club dates listed on soundcheck as of Mon, 27 Jul 2026, next at Ramona, Manchester on Sat, 1 Aug 2026.
 
 Sam Pratt is a house and tech house artist based in United Kingdom, tracked on soundcheck, with 68 sets logged across Leeds, London and Manchester. Often billed alongside Seth Chohan, AVIAX and A Little Bit Orange. Next up: Ramona, Manchester on Sat 1 Aug.
 
@@ -26,4 +26,4 @@ Sam Pratt is a house and tech house artist based in United Kingdom, tracked on s
 
 Seth Chohan, AVIAX, A Little Bit Orange
 
-*Updated Sun, 26 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/sampratt/)*
+*Updated Mon, 27 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/sampratt/)*

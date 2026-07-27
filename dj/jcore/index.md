@@ -1,6 +1,6 @@
 # jcore
 
-jcore is a Techno and Club artist with 3 upcoming club dates listed on soundcheck as of Sun, 26 Jul 2026, next at F8 1192 Folsom, San Francisco/Oakland on Sat, 1 Aug 2026.
+jcore is a Techno and Club artist with 3 upcoming club dates listed on soundcheck as of Mon, 27 Jul 2026, next at F8 1192 Folsom, San Francisco/Oakland on Sat, 1 Aug 2026.
 
 jcore is a techno and club artist based in United States of America, tracked on soundcheck, with 24 sets logged across Sanfrancisco and Toronto. Often billed alongside 2dahlia, Myca and Moonpie. Next up: F8 1192 Folsom, Sanfrancisco on Sat 1 Aug.
 
@@ -27,4 +27,4 @@ jcore is a techno and club artist based in United States of America, tracked on 
 
 2dahlia, Myca, Moonpie
 
-*Updated Sun, 26 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/jcore/)*
+*Updated Mon, 27 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/jcore/)*

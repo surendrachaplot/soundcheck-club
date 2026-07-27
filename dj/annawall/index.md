@@ -1,6 +1,6 @@
 # Anna Wall
 
-Anna Wall is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Sun, 26 Jul 2026, next at Rote Fabrik, Zurich on Fri, 7 Aug 2026.
+Anna Wall is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Mon, 27 Jul 2026, next at Rote Fabrik, Zurich on Fri, 7 Aug 2026.
 
 Anna Wall is a house and techno artist tracked on soundcheck, with 109 sets logged across Amsterdam, Antwerp, Barcelona and Belgrade and 23 more. Often billed alongside Craig Richards, Harry McCanna and Bobby.. Next up: Rote Fabrik, Zurich on Fri 7 Aug.
 
@@ -26,4 +26,4 @@ Anna Wall is a house and techno artist tracked on soundcheck, with 109 sets logg
 
 Craig Richards, Harry McCanna, Bobby.
 
-*Updated Sun, 26 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/annawall/)*
+*Updated Mon, 27 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/annawall/)*

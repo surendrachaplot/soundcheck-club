@@ -1,6 +1,6 @@
 # Max Cooper
 
-Max Cooper is a Techno and Electronica artist with 3 upcoming club dates listed on soundcheck as of Sun, 26 Jul 2026, next at Vrachon Theater, Athens on Thu, 24 Sept 2026.
+Max Cooper is a Techno and Electronica artist with 3 upcoming club dates listed on soundcheck as of Mon, 27 Jul 2026, next at Vrachon Theater, Athens on Thu, 24 Sept 2026.
 
 Max Cooper is a techno and electronica artist tracked on soundcheck, with 119 sets logged across Amsterdam, Athens, Austin and Barcelona and 47 more. Often billed alongside Actress, Logic1000 and Or:la. Next up: Vrachon Theater, Athens on Thu 24 Sept.
 
@@ -27,4 +27,4 @@ Max Cooper is a techno and electronica artist tracked on soundcheck, with 119 se
 
 Actress, Logic1000, Or:la
 
-*Updated Sun, 26 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/maxcooper/)*
+*Updated Mon, 27 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/maxcooper/)*

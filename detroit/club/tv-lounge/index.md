@@ -1,6 +1,6 @@
 # TV Lounge
 
-TV Lounge is a music venue in Detroit with 10 upcoming nights listed on soundcheck as of Sun, 26 Jul 2026; the next is "TONY TOUCH • Charivari Detroit PreParty" on Fri, 31 Jul 2026.
+TV Lounge is a music venue in Detroit with 10 upcoming nights listed on soundcheck as of Mon, 27 Jul 2026; the next is "TONY TOUCH • Charivari Detroit PreParty" on Fri, 31 Jul 2026.
 
 TV Lounge is a music venue in Detroit listed on soundcheck. 10 upcoming nights, with line-ups including 888lambchop, Aboudi Issa, Ameera and BeatLoaf and 2 more. Browse upcoming dates, start times and who's playing. 2548 Grand River Avenue; Detroit, MI; United States.
 
@@ -23,4 +23,4 @@ TV Lounge is a music venue in Detroit listed on soundcheck. 10 upcoming nights, 
 
 2548 Grand River Avenue; Detroit, MI; United States, Detroit
 
-*Updated Sun, 26 Jul 2026 · source: [soundcheck](https://soundcheck.club/detroit/club/tv-lounge/)*
+*Updated Mon, 27 Jul 2026 · source: [soundcheck](https://soundcheck.club/detroit/club/tv-lounge/)*

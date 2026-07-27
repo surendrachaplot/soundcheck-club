@@ -1,14 +1,13 @@
 # Cosmic Gate
 
-Cosmic Gate is a Trance and Progressive House artist with 6 upcoming club dates listed on soundcheck as of Sun, 26 Jul 2026, next at Paal69, Amsterdam on Sun, 26 Jul 2026.
+Cosmic Gate is a Trance and Progressive House artist with 5 upcoming club dates listed on soundcheck as of Mon, 27 Jul 2026, next at Q Nightclub, Seattle on Sat, 15 Aug 2026.
 
-Cosmic Gate is a trance and progressive house artist tracked on soundcheck, with 55 sets logged across Amsterdam, Auckland, Austin and Belfast and 25 more. Often billed alongside Luccio, Armin van Buuren and John O'Callaghan. Next up: Paal69, Amsterdam on Sun 26 Jul.
+Cosmic Gate is a trance and progressive house artist tracked on soundcheck, with 55 sets logged across Amsterdam, Auckland, Austin and Belfast and 25 more. Often billed alongside Luccio, Armin van Buuren and John O'Callaghan. Next up: Q Nightclub, Seattle on Sat 15 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sun, 26 Jul 2026 | Paal69 | Amsterdam |
 | Sat, 15 Aug 2026 | Q Nightclub | Seattle |
 | Thu, 20 Aug 2026 | Noto Philadelphia | Philadelphia |
 | Fri, 21 Aug 2026 | Bauhaus | Houston |
@@ -17,6 +16,7 @@ Cosmic Gate is a trance and progressive house artist tracked on soundcheck, with
 
 ## Recently played
 
+- Paal69, Amsterdam — Sun, 26 Jul 2026
 - The Mothership, Auckland — Thu, 4 Jun 2026
 - RFK Stadium Memorial Stadium, Washington DC — Sat, 30 May 2026
 - UNO MALTA, Malta — Thu, 7 May 2026
@@ -24,10 +24,9 @@ Cosmic Gate is a trance and progressive house artist tracked on soundcheck, with
 - E1, London — Sat, 11 Apr 2026
 - Hyatt Regency Dock, Miami — Sat, 28 Mar 2026
 - Hyatt Regency Dock, Miami — Sat, 28 Mar 2026
-- La Otra Wynwood, Miami — Thu, 26 Mar 2026
 
 ## Shares bills with
 
 Luccio, Armin van Buuren, John O'Callaghan
 
-*Updated Sun, 26 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/cosmicgate/)*
+*Updated Mon, 27 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/cosmicgate/)*

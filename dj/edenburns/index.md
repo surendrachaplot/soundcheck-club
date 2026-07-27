@@ -1,6 +1,6 @@
 # Eden Burns
 
-Eden Burns is a House and Tech House artist with 6 upcoming club dates listed on soundcheck as of Sun, 26 Jul 2026, next at Jaeger, Oslo on Fri, 7 Aug 2026.
+Eden Burns is a House and Tech House artist with 6 upcoming club dates listed on soundcheck as of Mon, 27 Jul 2026, next at Jaeger, Oslo on Fri, 7 Aug 2026.
 
 Eden Burns is a house and tech house artist based in New Zealand, tracked on soundcheck, with 51 sets logged across Auckland, Bali, Bangkok and Barcelona and 23 more. Often billed alongside DJ City, Adriana (1) and Babycino. Next up: Jaeger, Oslo on Fri 7 Aug.
 
@@ -30,4 +30,4 @@ Eden Burns is a house and tech house artist based in New Zealand, tracked on sou
 
 DJ City, Adriana (1), Babycino
 
-*Updated Sun, 26 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/edenburns/)*
+*Updated Mon, 27 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/edenburns/)*

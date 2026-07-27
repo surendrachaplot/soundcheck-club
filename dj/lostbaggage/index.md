@@ -1,6 +1,6 @@
 # lostbaggage
 
-lostbaggage is a House and Techno artist with 4 upcoming club dates listed on soundcheck as of Sun, 26 Jul 2026, next at Mitsuki, Tokyo on Mon, 27 Jul 2026.
+lostbaggage is a House and Techno artist with 4 upcoming club dates listed on soundcheck as of Mon, 27 Jul 2026, next at Mitsuki, Tokyo on Mon, 27 Jul 2026.
 
 lostbaggage is a house and techno artist tracked on soundcheck, with 149 sets logged across Kyoto, Osaka and Tokyo. Often billed alongside YELLOWUHURU, arow and AKIRAM EN. Next up: Mitsuki, Tokyo on Mon 27 Jul.
 
@@ -28,4 +28,4 @@ lostbaggage is a house and techno artist tracked on soundcheck, with 149 sets lo
 
 YELLOWUHURU, arow, AKIRAM EN
 
-*Updated Sun, 26 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/lostbaggage/)*
+*Updated Mon, 27 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/lostbaggage/)*

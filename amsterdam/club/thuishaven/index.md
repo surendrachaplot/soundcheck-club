@@ -1,6 +1,6 @@
 # Thuishaven
 
-Thuishaven is a music venue in Amsterdam with 19 upcoming nights listed on soundcheck as of Sun, 26 Jul 2026; the next is "26 JUL - Thuishaven with Lisa Korver 5HRS SOLD OUT " on Sun, 26 Jul 2026.
+Thuishaven is a music venue in Amsterdam with 19 upcoming nights listed on soundcheck as of Mon, 27 Jul 2026; the next is "SOLD OUT Summer of Love Festival 2026" on Sat, 1 Aug 2026.
 
 Thuishaven is a music venue in Amsterdam listed on soundcheck. 19 upcoming nights, with line-ups including AAT (NL), Ale De Tuglie, Alexander Koning and ALISHA and 2 more. Browse upcoming dates, start times and who's playing. Contactweg 68, 1014BW, Amsterdam, Nederland.
 
@@ -8,7 +8,6 @@ Thuishaven is a music venue in Amsterdam listed on soundcheck. 19 upcoming night
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Sun, 26 Jul 2026 | 26 JUL - Thuishaven with Lisa Korver 5HRS SOLD OUT  | DJ AYA, GMOZ, LUMINE, Lisa Korver, Luke Hovey, Milow (2), Schwesta P, Vie Aimee |
 | Sat, 1 Aug 2026 | SOLD OUT Summer of Love Festival 2026 | Alexander Koning, Dimitri (1), Divine, Eric de Man, Erick E, ISIS, Kim Kaos, Klubbheads, Lucien Foort, Marcello (2), ROOG, Steve Cop |
 | Sun, 2 Aug 2026 | Wavy Summer Festival | Ale De Tuglie, Ben Sterling, Benja (NL), Cam Stockman, Cuba, EMJIE, Itz3bby, Joey Daniel, Joss Dean, SOSA (UK), Tommy Phillips |
 | Sat, 8 Aug 2026 | 08 AUG - Thuishaven with Eelke Kleijn 10HRS | Eelke Kleijn |
@@ -18,9 +17,10 @@ Thuishaven is a music venue in Amsterdam listed on soundcheck. 19 upcoming night
 | Sat, 22 Aug 2026 | komm schon Alter - Das Mini Festival | Arabella Memdouh, Arjuna Schiks, Kartwheel, Kollektiv Turmstrasse, Nicky Elisabeth, Rose Ringed, Sarah Wild, Worakls |
 | Sun, 30 Aug 2026 | 30 AUG - Thuishaven with Toman / Dean Turnley / AAT | AAT (NL), Dean Turnley, Easttown, Jordan Brando, Toman, William Kiss |
 | Sun, 6 Sept 2026 | 06 SEP - Thuishaven with Kolter 10HRS SOLD OUT | Kolter |
+| Sun, 13 Sept 2026 | 13 SEP - Thuishaven with MENESIX 10HRS | MENESIX |
 
 ## Address
 
 Contactweg 68, 1014BW, Amsterdam, Nederland, Amsterdam
 
-*Updated Sun, 26 Jul 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/thuishaven/)*
+*Updated Mon, 27 Jul 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/thuishaven/)*

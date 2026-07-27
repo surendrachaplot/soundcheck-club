@@ -1,6 +1,6 @@
 # PETERBLUE
 
-PETERBLUE is a Techno and Trance artist with 6 upcoming club dates listed on soundcheck as of Sun, 26 Jul 2026, next at Café Schöne Aussichten (CSA), Hamburg on Sat, 8 Aug 2026.
+PETERBLUE is a Techno and Trance artist with 6 upcoming club dates listed on soundcheck as of Mon, 27 Jul 2026, next at Café Schöne Aussichten (CSA), Hamburg on Sat, 8 Aug 2026.
 
 PETERBLUE is a techno and trance artist tracked on soundcheck, with 54 sets logged across Amsterdam, Austin, Barcelona and Berlin and 26 more. Often billed alongside Adrian Mills, fumi (DE) and Noise Mafia. Next up: Café Schöne Aussichten (CSA), Hamburg on Sat 8 Aug.
 
@@ -30,4 +30,4 @@ PETERBLUE is a techno and trance artist tracked on soundcheck, with 54 sets logg
 
 Adrian Mills, fumi (DE), Noise Mafia
 
-*Updated Sun, 26 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/peterblue/)*
+*Updated Mon, 27 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/peterblue/)*

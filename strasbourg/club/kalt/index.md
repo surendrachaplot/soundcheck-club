@@ -1,6 +1,6 @@
 # KALT
 
-KALT is a music venue in Strasbourg with 10 upcoming nights listed on soundcheck as of Sun, 26 Jul 2026; the next is "AEREA (Live)" on Sat, 1 Aug 2026.
+KALT is a music venue in Strasbourg with 10 upcoming nights listed on soundcheck as of Mon, 27 Jul 2026; the next is "AEREA (Live)" on Sat, 1 Aug 2026.
 
 KALT is a music venue in Strasbourg listed on soundcheck. 10 upcoming nights, with line-ups including Justine Perry, AEREA, Alarico and Alex Nantaya and 2 more. Browse upcoming dates, start times and who's playing. 1 Rue la Fayette, Strasbourg, France.
 
@@ -23,4 +23,4 @@ KALT is a music venue in Strasbourg listed on soundcheck. 10 upcoming nights, wi
 
 1 Rue la Fayette, Strasbourg, France, Strasbourg
 
-*Updated Sun, 26 Jul 2026 · source: [soundcheck](https://soundcheck.club/strasbourg/club/kalt/)*
+*Updated Mon, 27 Jul 2026 · source: [soundcheck](https://soundcheck.club/strasbourg/club/kalt/)*

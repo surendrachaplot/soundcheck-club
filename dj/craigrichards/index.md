@@ -1,8 +1,8 @@
 # Craig Richards
 
-Craig Richards is a Techno and House artist with 4 upcoming club dates listed on soundcheck as of Sun, 26 Jul 2026, next at Gaffe, London on Sun, 30 Aug 2026.
+Craig Richards is a Techno and House artist with 5 upcoming club dates listed on soundcheck as of Mon, 27 Jul 2026, next at Gaffe, London on Sun, 30 Aug 2026.
 
-Craig Richards is a techno and house artist tracked on soundcheck, with 149 sets logged across Amsterdam, Barcelona, Berlin and Bristol and 28 more. Often billed alongside Bobby., Francesco Del Garda and Christian AB. Next up: Gaffe, London on Sun 30 Aug.
+Craig Richards is a techno and house artist tracked on soundcheck, with 150 sets logged across Amsterdam, Barcelona, Berlin and Bristol and 28 more. Often billed alongside Bobby., Francesco Del Garda and Christian AB. Next up: Gaffe, London on Sun 30 Aug.
 
 ## Upcoming shows
 
@@ -12,6 +12,7 @@ Craig Richards is a techno and house artist tracked on soundcheck, with 149 sets
 | Sat, 5 Sept 2026 | Under the K Bridge | New York City |
 | Sat, 12 Sept 2026 | The Cause | London |
 | Fri, 25 Sept 2026 | Mint XL | Leeds |
+| Sun, 25 Oct 2026 | RADION | Amsterdam |
 
 ## Recently played
 
@@ -28,4 +29,4 @@ Craig Richards is a techno and house artist tracked on soundcheck, with 149 sets
 
 Bobby., Francesco Del Garda, Christian AB
 
-*Updated Sun, 26 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/craigrichards/)*
+*Updated Mon, 27 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/craigrichards/)*

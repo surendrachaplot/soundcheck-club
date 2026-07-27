@@ -1,6 +1,6 @@
 # Bailey Brown
 
-Bailey Brown is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Sun, 26 Jul 2026, next at Phoxxi Green Area, Hamburg on Sat, 1 Aug 2026.
+Bailey Brown is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Mon, 27 Jul 2026, next at Phoxxi Green Area, Hamburg on Sat, 1 Aug 2026.
 
 Bailey Brown is a techno and house artist based in Germany, tracked on soundcheck, with 27 sets logged across Berlin and Hamburg. Often billed alongside DJ BTM, 369 (GER) and Alex Benz. Next up: Phoxxi Green Area, Hamburg on Sat 1 Aug.
 
@@ -26,4 +26,4 @@ Bailey Brown is a techno and house artist based in Germany, tracked on soundchec
 
 DJ BTM, 369 (GER), Alex Benz
 
-*Updated Sun, 26 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/baileybrown/)*
+*Updated Mon, 27 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/baileybrown/)*

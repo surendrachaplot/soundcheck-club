@@ -1,6 +1,6 @@
 # Monkey Timers
 
-Monkey Timers is a House and Disco artist with 2 upcoming club dates listed on soundcheck as of Sun, 26 Jul 2026, next at MIDNIGHT EAST, Tokyo on Fri, 31 Jul 2026.
+Monkey Timers is a House and Disco artist with 2 upcoming club dates listed on soundcheck as of Mon, 27 Jul 2026, next at MIDNIGHT EAST, Tokyo on Fri, 31 Jul 2026.
 
 Monkey Timers is a house and disco artist tracked on soundcheck, with 90 sets logged across Amsterdam, Bali, Berlin and Osaka and 3 more. Often billed alongside YAMARCHY, YOSHIHAARAA and Kenji Takimi. Next up: MIDNIGHT EAST, Tokyo on Fri 31 Jul.
 
@@ -26,4 +26,4 @@ Monkey Timers is a house and disco artist tracked on soundcheck, with 90 sets lo
 
 YAMARCHY, YOSHIHAARAA, Kenji Takimi
 
-*Updated Sun, 26 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/monkeytimers/)*
+*Updated Mon, 27 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/monkeytimers/)*

@@ -1,6 +1,6 @@
 # GYS (TT)
 
-GYS (TT) is a Progressive House and Deep House artist with 3 upcoming club dates listed on soundcheck as of Sun, 26 Jul 2026, next at Two Tribes CAMPFIRE, London on Fri, 31 Jul 2026.
+GYS (TT) is a Progressive House and Deep House artist with 3 upcoming club dates listed on soundcheck as of Mon, 27 Jul 2026, next at Two Tribes CAMPFIRE, London on Fri, 31 Jul 2026.
 
 GYS (TT) is a progressive house and deep house artist tracked on soundcheck, with 17 sets logged across London and Nottingham. Often billed alongside Tris (UK), Adela and Nour (UK). Next up: Two Tribes CAMPFIRE, London on Fri 31 Jul.
 
@@ -27,4 +27,4 @@ GYS (TT) is a progressive house and deep house artist tracked on soundcheck, wit
 
 Tris (UK), Adela, Nour (UK)
 
-*Updated Sun, 26 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/gys-tt/)*
+*Updated Mon, 27 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/gys-tt/)*

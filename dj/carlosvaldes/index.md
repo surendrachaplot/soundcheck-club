@@ -1,6 +1,6 @@
 # Carlos Valdes
 
-Carlos Valdes is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Sun, 26 Jul 2026, next at TBA - Paradies Garten Festival - Schloß Prugg 2, 2460 Gemeinde Bruck an der Leitha, Vienna on Fri, 31 Jul 2026.
+Carlos Valdes is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Mon, 27 Jul 2026, next at TBA - Paradies Garten Festival - Schloß Prugg 2, 2460 Gemeinde Bruck an der Leitha, Vienna on Fri, 31 Jul 2026.
 
 Carlos Valdes is a house and techno artist tracked on soundcheck, with 140 sets logged across Amsterdam, Athens, Bali and Barcelona and 22 more. Often billed alongside TITIA, Vuur and Muallem. Next up: TBA - Paradies Garten Festival - Schloß Prugg 2, 2460 Gemeinde Bruck an der Leitha, Vienna on Fri 31 Jul.
 
@@ -27,4 +27,4 @@ Carlos Valdes is a house and techno artist tracked on soundcheck, with 140 sets 
 
 TITIA, Vuur, Muallem
 
-*Updated Sun, 26 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/carlosvaldes/)*
+*Updated Mon, 27 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/carlosvaldes/)*

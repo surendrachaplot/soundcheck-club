@@ -1,14 +1,13 @@
 # Sam Alfred
 
-Sam Alfred is a House and Techno artist with 11 upcoming club dates listed on soundcheck as of Sun, 26 Jul 2026, next at Le Sucre, Lyon on Sun, 26 Jul 2026.
+Sam Alfred is a House and Techno artist with 10 upcoming club dates listed on soundcheck as of Mon, 27 Jul 2026, next at Hangaren, Copenhagen on Thu, 30 Jul 2026.
 
-Sam Alfred is a house and techno artist tracked on soundcheck, with 129 sets logged across Amsterdam, Antwerp, Barcelona and Belfast and 42 more. Often billed alongside SAIDAH, X CLUB. and Club Angel. Next up: Le Sucre, Lyon on Sun 26 Jul.
+Sam Alfred is a house and techno artist tracked on soundcheck, with 129 sets logged across Amsterdam, Antwerp, Barcelona and Belfast and 42 more. Often billed alongside SAIDAH, X CLUB. and Club Angel. Next up: Hangaren, Copenhagen on Thu 30 Jul.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sun, 26 Jul 2026 | Le Sucre | Lyon |
 | Thu, 30 Jul 2026 | Hangaren | Copenhagen |
 | Wed, 12 Aug 2026 | Gianpula Village | Malta |
 | Sat, 29 Aug 2026 | Tuinen van West | Amsterdam |
@@ -22,6 +21,7 @@ Sam Alfred is a house and techno artist tracked on soundcheck, with 129 sets log
 
 ## Recently played
 
+- Le Sucre, Lyon — Sun, 26 Jul 2026
 - OLT Rivierenhof, Antwerp — Sat, 18 Jul 2026
 - Shelter Amsterdam, Amsterdam — Fri, 3 Jul 2026
 - The Cause, London — Sat, 27 Jun 2026
@@ -29,10 +29,9 @@ Sam Alfred is a house and techno artist tracked on soundcheck, with 129 sets log
 - Uto-Staffel, Zurich — Sat, 6 Jun 2026
 - Ashton Court Estate, Bristol — Sat, 23 May 2026
 - Riverside Museum, Glasgow — Fri, 22 May 2026
-- Wigwam, Dublin — Fri, 22 May 2026
 
 ## Shares bills with
 
 SAIDAH, X CLUB., Club Angel
 
-*Updated Sun, 26 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/samalfred/)*
+*Updated Mon, 27 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/samalfred/)*

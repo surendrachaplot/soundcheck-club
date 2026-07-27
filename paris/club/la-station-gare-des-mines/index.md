@@ -1,14 +1,13 @@
 # La Station - Gare des Mines
 
-La Station - Gare des Mines is a music venue in Paris with 13 upcoming nights listed on soundcheck as of Sun, 26 Jul 2026; the next is "Spectrum Waves supports La Station " on Sun, 26 Jul 2026.
+La Station - Gare des Mines is a music venue in Paris with 12 upcoming nights listed on soundcheck as of Mon, 27 Jul 2026; the next is "Avant-Garce : Skyblog Legacy <2 edition RPZ" on Fri, 31 Jul 2026.
 
-La Station - Gare des Mines is a music venue in Paris listed on soundcheck. 13 upcoming nights, with line-ups including Andy4000, Camion Bazar, CEM and cfds and 2 more. Browse upcoming dates, start times and who's playing. 29 avenue de la Porte d’Aubervilliers Paris.
+La Station - Gare des Mines is a music venue in Paris listed on soundcheck. 12 upcoming nights, with line-ups including Andy4000, Camion Bazar, CEM and cfds and 2 more. Browse upcoming dates, start times and who's playing. 29 avenue de la Porte d’Aubervilliers Paris.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Sun, 26 Jul 2026 | Spectrum Waves supports La Station  | Elsa Bernini, Lea Occhi, Nesa Azadikhah |
 | Fri, 31 Jul 2026 | Avant-Garce : Skyblog Legacy <2 edition RPZ |  |
 | Sat, 1 Aug 2026 | OUTREBLEU  | Kohra, SOLARYTHM, Softi |
 | Fri, 7 Aug 2026 | Herrensauna × FIST | CEM, DJ Clone, MCMLXXXV, PEPIITA, Word of Command |
@@ -18,9 +17,10 @@ La Station - Gare des Mines is a music venue in Paris listed on soundcheck. 13 u
 | Fri, 21 Aug 2026 | Spectrum Waves: 2 DAYS |  |
 | Sat, 5 Sept 2026 | Tara Clerkin Trio (live) + TBC |  |
 | Sun, 6 Sept 2026 | The All Black Everything Kiki Ball |  |
+| Sat, 12 Sept 2026 | Tech Noire feat. B1980 ⎮ La der' à la Stass | law and haktion |
 
 ## Address
 
 29 avenue de la Porte d’Aubervilliers Paris, Paris
 
-*Updated Sun, 26 Jul 2026 · source: [soundcheck](https://soundcheck.club/paris/club/la-station-gare-des-mines/)*
+*Updated Mon, 27 Jul 2026 · source: [soundcheck](https://soundcheck.club/paris/club/la-station-gare-des-mines/)*

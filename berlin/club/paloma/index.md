@@ -1,14 +1,13 @@
 # Paloma
 
-Paloma is a music venue in Berlin with 11 upcoming nights listed on soundcheck as of Sun, 26 Jul 2026; the next is "Moonstompers After Party with Lazy Step Collective, Tommy Pickles, Jack D" on Sun, 26 Jul 2026.
+Paloma is a music venue in Berlin with 10 upcoming nights listed on soundcheck as of Mon, 27 Jul 2026; the next is "Paloma Invites" on Fri, 31 Jul 2026.
 
-Paloma is a music venue in Berlin listed on soundcheck. 11 upcoming nights, with line-ups including 11:68PM, Arnaud Denzler, Balthazar Martinez and bb:fm and 2 more. Browse upcoming dates, start times and who's playing. Skalitzer Str. 135, 10999 Berlin.
+Paloma is a music venue in Berlin listed on soundcheck. 10 upcoming nights, with line-ups including 11:68PM, Arnaud Denzler, Balthazar Martinez and bb:fm and 2 more. Browse upcoming dates, start times and who's playing. Skalitzer Str. 135, 10999 Berlin.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Sun, 26 Jul 2026 | Moonstompers After Party with Lazy Step Collective, Tommy Pickles, Jack D | Jack D, Tommy Pickles |
 | Fri, 31 Jul 2026 | Paloma Invites | Bossy Doll Bina, DJ Trade Trainer, Valeria (DE) |
 | Sat, 1 Aug 2026 | Paloma Invites | Love Sensation, ysheso__ |
 | Fri, 7 Aug 2026 | Public Amusement with Pierre B | 11:68PM, Candy Jones, Pierre B (1) |
@@ -18,9 +17,10 @@ Paloma is a music venue in Berlin listed on soundcheck. 11 upcoming nights, with
 | Sat, 22 Aug 2026 | THE GET DOWN with Mandel Turner, Balthazar Martinez, Arnaud Denzler | Arnaud Denzler, Balthazar Martinez, Mandel Turner |
 | Sat, 29 Aug 2026 | Aquatic Travellers Vol. 12 x Mechatronica | Black Mirror Park, Milan Hermess, bb:fm, mu”he |
 | Sat, 5 Sept 2026 | Paloma Invites | Moplen |
+| Sun, 27 Sept 2026 | Gentle Reminder | Bézier |
 
 ## Address
 
 Skalitzer Str. 135, 10999 Berlin, Berlin
 
-*Updated Sun, 26 Jul 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/paloma/)*
+*Updated Mon, 27 Jul 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/paloma/)*

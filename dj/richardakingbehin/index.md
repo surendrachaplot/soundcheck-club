@@ -1,6 +1,6 @@
 # Richard Akingbehin
 
-Richard Akingbehin is a Techno and Dub Techno artist with 9 upcoming club dates listed on soundcheck as of Sun, 26 Jul 2026, next at Amsterdamse Bos, Amsterdam on Wed, 29 Jul 2026.
+Richard Akingbehin is a Techno and Dub Techno artist with 9 upcoming club dates listed on soundcheck as of Mon, 27 Jul 2026, next at Amsterdamse Bos, Amsterdam on Wed, 29 Jul 2026.
 
 Richard Akingbehin is a techno and dub techno artist tracked on soundcheck, with 127 sets logged across Amsterdam, Barcelona, Berlin and Brussels and 27 more. Often billed alongside Tikiman, livwutang and BASHKKA. Next up: Amsterdamse Bos, Amsterdam on Wed 29 Jul.
 
@@ -33,4 +33,4 @@ Richard Akingbehin is a techno and dub techno artist tracked on soundcheck, with
 
 Tikiman, livwutang, BASHKKA
 
-*Updated Sun, 26 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/richardakingbehin/)*
+*Updated Mon, 27 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/richardakingbehin/)*

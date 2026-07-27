@@ -1,6 +1,6 @@
 # Francesco Farfa
 
-Francesco Farfa is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Sun, 26 Jul 2026, next at Tresor / Globus, Berlin on Sat, 1 Aug 2026.
+Francesco Farfa is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Mon, 27 Jul 2026, next at Tresor / Globus, Berlin on Sat, 1 Aug 2026.
 
 Francesco Farfa is a house and techno artist tracked on soundcheck, with 84 sets logged across Amsterdam, Bali, Barcelona and Belgrade and 24 more. Often billed alongside Janina, Alex Picone and Ale Carniel. Next up: Tresor / Globus, Berlin on Sat 1 Aug.
 
@@ -26,4 +26,4 @@ Francesco Farfa is a house and techno artist tracked on soundcheck, with 84 sets
 
 Janina, Alex Picone, Ale Carniel
 
-*Updated Sun, 26 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/francescofarfa/)*
+*Updated Mon, 27 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/francescofarfa/)*

@@ -1,6 +1,6 @@
 # The Ivy
 
-The Ivy is a music venue in Sydney with 3 upcoming nights listed on soundcheck as of Sun, 26 Jul 2026; the next is "240KM/H F2F Sydney: Serafina All Day Long" on Sat, 26 Sept 2026.
+The Ivy is a music venue in Sydney with 3 upcoming nights listed on soundcheck as of Mon, 27 Jul 2026; the next is "240KM/H F2F Sydney: Serafina All Day Long" on Sat, 26 Sept 2026.
 
 The Ivy is a music venue in Sydney listed on soundcheck. 3 upcoming nights, with line-ups including Alex Wann, Camo & Krooked, Crossy and Disrupta and 2 more. Browse upcoming dates, start times and who's playing. 320-330 George St; Sydney, NSW 2000; Australia.
 
@@ -16,4 +16,4 @@ The Ivy is a music venue in Sydney listed on soundcheck. 3 upcoming nights, with
 
 320-330 George St; Sydney, NSW 2000; Australia, Sydney
 
-*Updated Sun, 26 Jul 2026 · source: [soundcheck](https://soundcheck.club/sydney/club/the-ivy/)*
+*Updated Mon, 27 Jul 2026 · source: [soundcheck](https://soundcheck.club/sydney/club/the-ivy/)*

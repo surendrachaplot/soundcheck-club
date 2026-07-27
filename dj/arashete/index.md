@@ -1,6 +1,6 @@
 # Arash Ete
 
-Arash Ete is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Sun, 26 Jul 2026, next at Aether Club Budapest, Budapest on Sat, 1 Aug 2026.
+Arash Ete is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Mon, 27 Jul 2026, next at Aether Club Budapest, Budapest on Sat, 1 Aug 2026.
 
 Arash Ete is a techno and house artist tracked on soundcheck, with 56 sets logged across Budapest and Tbilisi. Often billed alongside Kiuz, CRB and Rozalina. Next up: Aether Club Budapest, Budapest on Sat 1 Aug.
 
@@ -26,4 +26,4 @@ Arash Ete is a techno and house artist tracked on soundcheck, with 56 sets logge
 
 Kiuz, CRB, Rozalina
 
-*Updated Sun, 26 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/arashete/)*
+*Updated Mon, 27 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/arashete/)*

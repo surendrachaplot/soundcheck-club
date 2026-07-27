@@ -1,6 +1,6 @@
 # Playa Soleil Ibiza
 
-Playa Soleil Ibiza is a music venue in Ibiza with 18 upcoming nights listed on soundcheck as of Sun, 26 Jul 2026; the next is "LEHAR & FRIENDS" on Tue, 28 Jul 2026.
+Playa Soleil Ibiza is a music venue in Ibiza with 18 upcoming nights listed on soundcheck as of Mon, 27 Jul 2026; the next is "LEHAR & FRIENDS" on Tue, 28 Jul 2026.
 
 Playa Soleil Ibiza is a music venue in Ibiza listed on soundcheck. 18 upcoming nights, with line-ups including Alexander Skancke, EVGHENIIA, Gojnea76 and Inès Rau and 2 more. Browse upcoming dates, start times and who's playing. Sant Josep de sa Talaia, Islas Baleares, 07817, Spain.
 
@@ -23,4 +23,4 @@ Playa Soleil Ibiza is a music venue in Ibiza listed on soundcheck. 18 upcoming n
 
 Sant Josep de sa Talaia, Islas Baleares, 07817, Spain, Ibiza
 
-*Updated Sun, 26 Jul 2026 · source: [soundcheck](https://soundcheck.club/ibiza/club/playa-soleil-ibiza/)*
+*Updated Mon, 27 Jul 2026 · source: [soundcheck](https://soundcheck.club/ibiza/club/playa-soleil-ibiza/)*

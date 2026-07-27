@@ -1,6 +1,6 @@
 # Miguel De Bois
 
-Miguel De Bois is a House and Trance artist with 2 upcoming club dates listed on soundcheck as of Sun, 26 Jul 2026, next at Glamorama, Melbourne on Fri, 14 Aug 2026.
+Miguel De Bois is a House and Trance artist with 2 upcoming club dates listed on soundcheck as of Mon, 27 Jul 2026, next at Glamorama, Melbourne on Fri, 14 Aug 2026.
 
 Miguel De Bois is a house and trance artist based in Netherlands, tracked on soundcheck, with 55 sets logged across Amsterdam, Antwerp, Barcelona and Berlin and 14 more. Often billed alongside Kendal, OLIVIA LENSEN and Rozie. Next up: Glamorama, Melbourne on Fri 14 Aug.
 
@@ -26,4 +26,4 @@ Miguel De Bois is a house and trance artist based in Netherlands, tracked on sou
 
 Kendal, OLIVIA LENSEN, Rozie
 
-*Updated Sun, 26 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/migueldebois/)*
+*Updated Mon, 27 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/migueldebois/)*

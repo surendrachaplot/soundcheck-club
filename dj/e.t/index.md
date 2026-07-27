@@ -1,6 +1,6 @@
 # E.T.
 
-E.T. is a Guaracha and Latin Bass artist with 2 upcoming club dates listed on soundcheck as of Sun, 26 Jul 2026, next at La Rotonde Stalingrad, Paris on Fri, 31 Jul 2026.
+E.T. is a Guaracha and Latin Bass artist with 2 upcoming club dates listed on soundcheck as of Mon, 27 Jul 2026, next at La Rotonde Stalingrad, Paris on Fri, 31 Jul 2026.
 
 E.T. is a guaracha and latin bass artist based in France, tracked on soundcheck, with 46 sets logged across Berlin, Madrid, Mexicocity and Paris. Often billed alongside PAK-E, MIMI404 and e.leptic. Next up: La Rotonde Stalingrad, Paris on Fri 31 Jul.
 
@@ -26,4 +26,4 @@ E.T. is a guaracha and latin bass artist based in France, tracked on soundcheck,
 
 PAK-E, MIMI404, e.leptic
 
-*Updated Sun, 26 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/e.t/)*
+*Updated Mon, 27 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/e.t/)*

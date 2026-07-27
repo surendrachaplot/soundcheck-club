@@ -1,6 +1,6 @@
 # Victoria’s Club
 
-Victoria’s Club is a music venue in Milan with 1 upcoming night listed on soundcheck as of Sun, 26 Jul 2026; the next is "PULSE - BOILER ROOM W OPEN BOOTH" on Fri, 31 Jul 2026.
+Victoria’s Club is a music venue in Milan with 1 upcoming night listed on soundcheck as of Mon, 27 Jul 2026; the next is "PULSE - BOILER ROOM W OPEN BOOTH" on Fri, 31 Jul 2026.
 
 Victoria’s Club is a music venue in Milan listed on soundcheck. 1 upcoming night. Browse upcoming dates, start times and who's playing. Via Feltre 30 Milano 20132.
 
@@ -14,4 +14,4 @@ Victoria’s Club is a music venue in Milan listed on soundcheck. 1 upcoming nig
 
 Via Feltre 30 Milano 20132, Milan
 
-*Updated Sun, 26 Jul 2026 · source: [soundcheck](https://soundcheck.club/milan/club/victoria-s-club/)*
+*Updated Mon, 27 Jul 2026 · source: [soundcheck](https://soundcheck.club/milan/club/victoria-s-club/)*

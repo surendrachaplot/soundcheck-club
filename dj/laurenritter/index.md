@@ -1,6 +1,6 @@
 # Lauren Ritter
 
-Lauren Ritter is a House and Deep House artist with 2 upcoming club dates listed on soundcheck as of Sun, 26 Jul 2026, next at Refuge, New York City on Sat, 1 Aug 2026.
+Lauren Ritter is a House and Deep House artist with 2 upcoming club dates listed on soundcheck as of Mon, 27 Jul 2026, next at Refuge, New York City on Sat, 1 Aug 2026.
 
 Lauren Ritter is a house and deep house artist tracked on soundcheck, with 55 sets logged across Ibiza, Miami, Newyorkcity and Sanfrancisco and 1 more. Often billed alongside Maksim, Connie and Asha Jasz. Next up: Refuge, Newyorkcity on Sat 1 Aug.
 
@@ -26,4 +26,4 @@ Lauren Ritter is a house and deep house artist tracked on soundcheck, with 55 se
 
 Maksim, Connie, Asha Jasz
 
-*Updated Sun, 26 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/laurenritter/)*
+*Updated Mon, 27 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/laurenritter/)*

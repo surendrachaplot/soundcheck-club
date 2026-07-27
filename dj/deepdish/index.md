@@ -1,6 +1,6 @@
 # Deep Dish
 
-Deep Dish is a House and Progressive House artist with 7 upcoming club dates listed on soundcheck as of Sun, 26 Jul 2026, next at fabric, London on Fri, 31 Jul 2026.
+Deep Dish is a House and Progressive House artist with 7 upcoming club dates listed on soundcheck as of Mon, 27 Jul 2026, next at fabric, London on Fri, 31 Jul 2026.
 
 Deep Dish is a house and progressive house artist tracked on soundcheck, with 63 sets logged across Amsterdam, Athens, Austin and Barcelona and 26 more. Often billed alongside Dubfire, Sharam and Eynka. Next up: fabric, London on Fri 31 Jul.
 
@@ -31,4 +31,4 @@ Deep Dish is a house and progressive house artist tracked on soundcheck, with 63
 
 Dubfire, Sharam, Eynka
 
-*Updated Sun, 26 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/deepdish/)*
+*Updated Mon, 27 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/deepdish/)*
