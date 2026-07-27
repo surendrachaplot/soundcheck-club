@@ -1,6 +1,6 @@
 # NERO presents F2F Vol. III - HARD TECHNO / TECHNO - at ZEROTOKYO
 
-NERO presents F2F Vol. III - HARD TECHNO / TECHNO - at ZEROTOKYO on Sat 15 Aug, Tokyo. 5 acts on the bill: CHIKA, DALJAE, KAITO (5) and MUSCLE ∞ BROTHERS and 1 more. Techno. Preview the line-up and save it on soundcheck.
+NERO presents F2F Vol. III - HARD TECHNO / TECHNO - at ZEROTOKYO on Sat 15 Aug, Tokyo. 6 acts on the bill: Andre McLeod, CHIKA, DALJAE and KAITO (5) and 2 more. Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,6 +10,7 @@ NERO presents F2F Vol. III - HARD TECHNO / TECHNO - at ZEROTOKYO on Sat 15 Aug, 
 
 ## Line-up
 
+- Andre McLeod
 - CHIKA
 - DALJAE
 - KAITO (5)

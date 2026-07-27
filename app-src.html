@@ -292,18 +292,24 @@
     .datebar .push { margin-left:auto; }
     /* ── day strip — the date selector (swipeable run of days + a calendar tile) ── */
     .daterow { display:flex; align-items:center; gap:10px; margin:12px 0 2px; }
-    .daystrip { position:relative; display:flex; gap:8px; flex:0 1 auto; min-width:0; overflow-x:auto; padding:2px 1px; scrollbar-width:none; -ms-overflow-style:none; -webkit-overflow-scrolling:touch; }
+    .daystrip { position:relative; display:flex; gap:8px; flex:0 1 auto; min-width:0; overflow-x:auto; overflow-y:hidden; padding:2px 1px; scrollbar-width:none; -ms-overflow-style:none; -webkit-overflow-scrolling:touch; }
     /* web: the strip fills the row width; JS packs MORE day tiles (original size) to fill it */
     @media (min-width:621px){ .daystrip { flex:1 1 auto; } }
     .daystrip::-webkit-scrollbar { display:none; }
     /* Entity Upcoming date range: calendar tile + the live window beside it. */
     .ent-range { display:flex; align-items:center; gap:12px; margin:var(--sp-3) 0 var(--sp-4); flex-wrap:wrap; }
-    .ent-range .dt.dscal { flex:none; }
+    /* The calendar tile occupies the POSTER column, so it must be exactly the
+       poster's size (64x64) and share the row's 12px gap. Anything else and
+       the range text lands on a different x than every event name beneath it
+       — at 50px wide the text sat at 98 while the names sat at 112. */
+    .ent-range .dt.dscal { flex:none; width:64px; min-width:64px; height:64px; }
     .ent-range .er-tx { display:flex; flex-direction:column; gap:1px; min-width:0; }
     .ent-range .er-tx b { font-family:var(--head); font-weight:800; font-size:var(--fs-md);
       letter-spacing:var(--ls-md); line-height:var(--lh-md); font-variant-numeric:tabular-nums; }
     .ent-range .er-tx span { color:var(--muted); font-size:var(--fs-xs); line-height:var(--lh-xs); font-variant-numeric:tabular-nums; }
     .ent-range .er-reset { margin-left:auto; }
+    /* Load more sits under the list, aligned with the row content it extends. */
+    .lm-btn { display:block; margin:var(--sp-3) 18px var(--sp-2); }
     /* Bio: lede at full contrast, body clamped to 3 lines until expanded. */
     .fp-bio-wrap { margin:0 0 var(--sp-4); max-width:64ch; }
     .fp-bio-lede { font-size:var(--fs-md); line-height:var(--lh-md); letter-spacing:var(--ls-md);
@@ -2803,7 +2809,7 @@
     .fp-sech span{ color:var(--accent); font:600 var(--fs-2xs)/var(--lh-2xs) var(--font-mono); letter-spacing:.12em; text-transform:uppercase; }
     @media(max-width:560px){ .fp-sech{ flex-direction:column; align-items:flex-start; gap:3px; font-size:var(--fs-md); padding:12px 15px; } .fp-sech span{ font-size:var(--fs-2xs); } }
     /* artist-page section tabs (Upcoming / Past events / Similar) — swap the panel below in place */
-    .fp-tabs{ display:flex; gap:0; border-bottom:1px solid var(--border); margin-top:22px; overflow-x:auto; -webkit-overflow-scrolling:touch; scrollbar-width:none; }
+    .fp-tabs{ display:flex; gap:0; border-bottom:1px solid var(--border); margin-top:22px; overflow-x:auto; overflow-y:hidden; -webkit-overflow-scrolling:touch; scrollbar-width:none; }
     .fp-tabs::-webkit-scrollbar{ display:none; }
     .fp-tab{ padding:14px 2px; margin-right:26px; font:700 var(--fs-base)/var(--lh-base) var(--body); color:var(--muted); background:none; border:0; border-bottom:2px solid transparent; margin-bottom:-1px; cursor:pointer; white-space:nowrap; transition:color .12s; }
     .fp-tab:last-child{ margin-right:0; }
@@ -3313,7 +3319,7 @@
        the discovery fix — and the right-edge fade hints there are more offscreen. */
     /* TABS: flat underline (reverted from pills 2026-07-14 — user wants tabs, not
        bubble buttons). Active tab = violet underline (selected-system colour). */
-    .fp-tabs{ display:flex; gap:0; border-bottom:1px solid var(--border); margin-top:22px; padding:0; overflow-x:auto; -webkit-overflow-scrolling:touch; scrollbar-width:none; }
+    .fp-tabs{ display:flex; gap:0; border-bottom:1px solid var(--border); margin-top:22px; padding:0; overflow-x:auto; overflow-y:hidden; -webkit-overflow-scrolling:touch; scrollbar-width:none; }
     .fp-tab{ flex:none; padding:13px 2px; margin:0 26px -1px 0; border:0; border-bottom:2px solid transparent; border-radius:0; background:none; color:var(--muted); font:700 var(--fs-base)/var(--lh-base) var(--body); cursor:pointer; white-space:nowrap; transition:color .12s, border-color .12s; }
     .fp-tab:last-child{ margin-right:2px; }
     .fp-tab:hover{ background:none; border-color:transparent; color:var(--fg); }
@@ -3485,6 +3491,13 @@
       #grid{ background:var(--surface); margin:0 calc(-1 * var(--gut)); border-top:1px solid var(--border);
         padding:4px calc(var(--gut) - 18px) 14px; gap:0; }
       .lvr, .gcard.evc.lvr{ background:none; border:0; border-radius:0; box-shadow:none; padding:10px 18px; }
+      /* The date range control must share the ROW's inset, not the band's.
+         List rows carry padding:10px 18px, so their thumb and title start
+         18px in from the band edge — the range control sat flush at the
+         band edge and read as misaligned against every event under it.
+         Same 18px here puts the calendar tile on the poster's left edge
+         and the range text on the event title's. */
+      .ent-range{ padding-left:18px; padding-right:18px; }
       .lvr + .lvr, .gcard.evc.lvr + .gcard.evc.lvr{ border-top:1px solid var(--border); }
       /* header = a surface band too (matches the tiles/bands scrolling beneath it —
          keeps the scanline wash, swaps the page-bg ground for the band surface) */
@@ -3504,7 +3517,7 @@
   <!-- Umami analytics. defer so it never blocks first paint; the SPA rewrites
        history on navigation, which umami picks up automatically. -->
   <script defer src="https://cloud.umami.is/script.js" data-website-id="de210b6c-12e4-4819-95f6-f5120974855a"></script>
-<meta name="sc-build" content="1785150935187">
+<meta name="sc-build" content="1785153875357">
 </head>
 <body>
   <main class="wrap">
@@ -3553,7 +3566,7 @@
     <div class="grid" id="grid"></div>
     <!-- Per-city "what's on this week" date links, injected by build-club (canonical
          /<city>/<date>/ pages). Empty in the source; hidden on client-side city switch. -->
-    <section id="home-seo-more" class="home-seo-more" data-city="london"><h2>What&rsquo;s on in London this week</h2><ul class="home-seo-dates"><li><a href="/london/2026-07-28/">Tue 28 Jul <span class="c">4 events</span></a></li><li><a href="/london/2026-07-29/">Wed 29 Jul <span class="c">13 events</span></a></li><li><a href="/london/2026-07-30/">Thu 30 Jul <span class="c">27 events</span></a></li><li><a href="/london/2026-07-31/">Fri 31 Jul <span class="c">91 events</span></a></li><li><a href="/london/2026-08-01/">Sat 1 Aug <span class="c">115 events</span></a></li><li><a href="/london/2026-08-02/">Sun 2 Aug <span class="c">34 events</span></a></li><li><a href="/london/2026-08-05/">Wed 5 Aug <span class="c">5 events</span></a></li></ul><nav class="home-seo-nav" aria-label="More on soundcheck"><a href="/london/this-weekend/">This weekend in London</a> <a href="/london/scene/">London scene guide</a> <a href="/cities/">All 104 cities</a></nav></section>
+    <section id="home-seo-more" class="home-seo-more" data-city="london"><h2>What&rsquo;s on in London this week</h2><ul class="home-seo-dates"><li><a href="/london/2026-07-28/">Tue 28 Jul <span class="c">4 events</span></a></li><li><a href="/london/2026-07-29/">Wed 29 Jul <span class="c">13 events</span></a></li><li><a href="/london/2026-07-30/">Thu 30 Jul <span class="c">27 events</span></a></li><li><a href="/london/2026-07-31/">Fri 31 Jul <span class="c">91 events</span></a></li><li><a href="/london/2026-08-01/">Sat 1 Aug <span class="c">117 events</span></a></li><li><a href="/london/2026-08-02/">Sun 2 Aug <span class="c">34 events</span></a></li><li><a href="/london/2026-08-05/">Wed 5 Aug <span class="c">5 events</span></a></li></ul><nav class="home-seo-nav" aria-label="More on soundcheck"><a href="/london/this-weekend/">This weekend in London</a> <a href="/london/scene/">London scene guide</a> <a href="/cities/">All 104 cities</a></nav></section>
 
     <!-- Crawlable home content (H1 + intro) — moved to the bottom of the page. Still a real
          <h1> in the DOM so it's the page heading for SEO regardless of visual position.
@@ -3758,13 +3771,35 @@
       var m=t.match(/^([\s\S]{40,220}?[.!?])(\s+)([\s\S]+)$/);
       var lede=m?m[1]:t, rest=m?m[3]:'';
       var id='bio'+(++_bioSeq);
+      // The button ships hidden; _bioSweep reveals it only for bios that are
+      // genuinely clamped. The measurement CANNOT be scheduled from here —
+      // bioBlock returns a STRING, so a rAF queued at build time runs before the
+      // markup is mounted, getElementById returns null, and every bio silently
+      // loses its expander (including the long ones that need it).
       return '<div class="fp-bio-wrap">'+
         '<p class="fp-bio-lede">'+esc(lede)+'</p>'+
         (rest?'<p class="fp-bio" id="'+id+'">'+esc(rest)+'</p>'+
-              '<button class="more-btn fp-bio-more" type="button" data-bio="'+id+'" aria-expanded="false">Read more</button>':'')+
+              '<button class="more-btn fp-bio-more" type="button" data-bio="'+id+'" aria-expanded="false" hidden>Read more</button>':'')+
       '</div>';
     }
     var _bioSeq=0;
+    // Ordering-independent: watch for .fp-bio-more appearing anywhere and measure
+    // then. Coalesced to one rAF per burst so a big render doesn't thrash layout.
+    // Measured SYNCHRONOUSLY, deliberately not inside requestAnimationFrame:
+    // rAF does not fire while the document is hidden, so a backgrounded tab left
+    // the pending flag stuck and no bio ever got its expander. The querySelector
+    // early-out keeps this cheap on mutation-heavy renders; reading scrollHeight
+    // on the handful of matches is a single layout flush.
+    function _bioSweep(){
+      var btns=document.querySelectorAll('.fp-bio-more[hidden]');
+      for(var i=0;i<btns.length;i++){
+        var btn=btns[i], el=document.getElementById(btn.dataset.bio);
+        if(!el) continue;
+        if(el.scrollHeight > el.clientHeight + 2) btn.hidden=false; else btn.remove();
+      }
+    }
+    new MutationObserver(_bioSweep).observe(document.documentElement, {childList:true, subtree:true});
+    window.addEventListener('resize', _bioSweep, {passive:true});
     document.addEventListener('click', function(e){
       var b=e.target.closest && e.target.closest('.fp-bio-more'); if(!b) return;
       var p=document.getElementById(b.dataset.bio); if(!p) return;
@@ -7029,7 +7064,10 @@
       if(!el || !(rows||[]).length) return null;
       var CAL = '<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">' +
         '<path d="M8 2v4"/><path d="M16 2v4"/><rect width="18" height="18" x="3" y="4" rx="2"/><path d="M3 10h18"/></svg>';
-      var DEF_FROM = todayISO(), DEF_TO = _addDaysISO(todayISO(), 30);
+      // 90 days, not 30: the default should show as much of what an artist or
+      // venue actually has on as possible. A month hid most of a busy venue's
+      // calendar behind a control the user has no reason to touch yet.
+      var DEF_FROM = todayISO(), DEF_TO = _addDaysISO(todayISO(), 90);
       var from = DEF_FROM, to = DEF_TO, id = 'er-cal-' + (++_erSeq);
       var inRange = function(g){ var d = String(g.event_date||'').slice(0,10); return d >= from && d <= to; };
       function paint(){
@@ -7053,20 +7091,41 @@
       paint();
       return { rows:function(){ return rows.filter(inRange); } };
     }
-    // Wire a range control + its card grid together. One line per call site so
-    // artist / venue / promoter cannot drift apart.
+    // Wire a range control + its card grid together, paginated. One line per
+    // call site so artist / venue / promoter cannot drift apart.
+    //
+    // Renders 12 at a time. A 90-day window on a busy venue is 30+ rows, which
+    // buries everything below it and costs a long scroll to reach the tabs; a
+    // page of 12 is about a screen and a half. The rows are already on the
+    // client, so "Load more" is instant — no spinner, no request.
+    var EV_PAGE = 12;
     function mountDatedEventCards(rangeEl, cardsEl, rows, opts){
-      var ctl = mountEntityRange(rangeEl, rows, function(filtered){
-        var render = function(){ mountEventCards(cardsEl, filtered, opts); };
-        // Cross-fade rather than snap. Safe to wrap because this render is
-        // SYNCHRONOUS — wrapping a fetch would hold the frozen snapshot on
-        // screen for the whole round trip and read as a hang.
-        if(document.startViewTransition && !matchMedia('(prefers-reduced-motion: reduce)').matches){
+      var current = rows, shown = EV_PAGE;
+      function paint(animate){
+        var render = function(){
+          mountEventCards(cardsEl, current.slice(0, shown), opts);
+          if(current.length > shown){
+            var left = current.length - shown;
+            var b = document.createElement('button');
+            b.type = 'button'; b.className = 'qchip lm-btn';
+            b.textContent = 'Load more (' + Math.min(EV_PAGE, left) + ' of ' + left + ')';
+            b.addEventListener('click', function(){ shown += EV_PAGE; paint(false); });
+            cardsEl.appendChild(b);   // appended AFTER mountEventCards, which sets innerHTML
+          }
+        };
+        // Cross-fade only when the whole set changes (a new date range). Paging
+        // appends to what's there, so transitioning it would animate rows that
+        // never moved.
+        if(animate && document.startViewTransition && !matchMedia('(prefers-reduced-motion: reduce)').matches){
           cardsEl.style.viewTransitionName = 'sc-grid';
           document.startViewTransition(render).finished.finally(function(){ cardsEl.style.viewTransitionName = ''; });
         } else render();
+      }
+      var ctl = mountEntityRange(rangeEl, rows, function(filtered){
+        current = filtered; shown = EV_PAGE; paint(true);
       });
-      mountEventCards(cardsEl, ctl ? ctl.rows() : rows, opts);
+      if(ctl) current = ctl.rows();
+      paint(false);
     }
 
     // ── public search (events / venues / artists) ──

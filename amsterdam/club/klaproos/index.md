@@ -1,0 +1,18 @@
+# Klaproos
+
+Klaproos is a music venue in Amsterdam with 2 upcoming nights listed on soundcheck as of Mon, 27 Jul 2026; the next is "Polifonic & SMIILE ADE 2026" on Thu, 22 Oct 2026.
+
+Klaproos is a music venue in Amsterdam listed on soundcheck. 2 upcoming nights, with line-ups including Alexia Glensy, BASHKKA, Cassy and Fais Le Beau and 2 more. Browse upcoming dates, start times and who's playing. Papaverweg 38, 1032 KJ Amsterdam.
+
+## What's on
+
+| Date | Night | Line-up |
+| --- | --- | --- |
+| Thu, 22 Oct 2026 | Polifonic & SMIILE ADE 2026 |  |
+| Fri, 23 Oct 2026 | Love On The Rocks - ADE 2026 - Klaproos | Alexia Glensy, BASHKKA, Cassy, Fais Le Beau, Giammarco Orsini, Melody RA+RE, PARAMIDA, Pancratio, Peach, Satoshi Tomiie, Simone de Kunovich, Volkan Akin, Vuur |
+
+## Address
+
+Papaverweg 38, 1032 KJ Amsterdam, Amsterdam
+
+*Updated Mon, 27 Jul 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/klaproos/)*

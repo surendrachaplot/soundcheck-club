@@ -1,6 +1,6 @@
 # TILLATEC invites: KNIT + VESELKA at TILLATEC
 
-TILLATEC invites: KNIT + VESELKA on Sun 2 Aug, Amsterdam. 10 acts on the bill: Bjarki, Cybersex, Djooke and ISAbella and 6 more. Techno and Tech House. Preview the line-up and save it on soundcheck.
+TILLATEC invites: KNIT + VESELKA on Sun 2 Aug, Amsterdam. 11 acts on the bill: Bjarki, Cybersex, Djooke and ISAbella and 7 more. Techno and Tech House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -17,6 +17,7 @@ TILLATEC invites: KNIT + VESELKA on Sun 2 Aug, Amsterdam. 10 acts on the bill: B
 - Jaspol
 - Kilopatrah Jones
 - Marie Malarie
+- Maze DJ
 - Moody Mehran
 - Pablo Bozzi
 - Tweeman

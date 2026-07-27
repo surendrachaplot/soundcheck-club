@@ -1,6 +1,6 @@
 # Toy Tonics Summer Jam - Open Air & Club at Bahnwärter Thiel
 
-Toy Tonics Summer Jam - Open Air & Club at Bahnwärter Thiel on Fri 21 Aug, Munich. 5 acts on the bill: COEO, Julie Fleischer, Kapote and Max NRG Supply and 1 more. House and Disco. Preview the line-up and save it on soundcheck.
+Toy Tonics Summer Jam - Open Air & Club at Bahnwärter Thiel on Fri 21 Aug, Munich. 8 acts on the bill: A-DEE, COEO, Julie Fleischer and Kapote and 4 more. House and Disco. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,9 +10,12 @@ Toy Tonics Summer Jam - Open Air & Club at Bahnwärter Thiel on Fri 21 Aug, Muni
 
 ## Line-up
 
+- A-DEE
 - COEO
 - Julie Fleischer
 - Kapote
+- Karl B.
+- Leon Haller
 - Max NRG Supply
 - Miss Nasty
 

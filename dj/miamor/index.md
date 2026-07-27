@@ -1,0 +1,30 @@
+# Miamor
+
+Miamor is a Techno and Trance artist with 3 upcoming club dates listed on soundcheck as of Mon, 27 Jul 2026, next at Orange Room, London on Sat, 1 Aug 2026.
+
+Miamor is a techno and trance artist tracked on soundcheck, with 55 sets logged across Amsterdam, Antwerp, Berlin and Brussels and 5 more. Often billed alongside Helena Lauwaert, MOKER and BAVR. Next up: Orange Room, London on Sat 1 Aug.
+
+## Upcoming shows
+
+| Date | Venue | City |
+| --- | --- | --- |
+| Sat, 1 Aug 2026 | Orange Room | London |
+| Fri, 11 Sept 2026 | TBA | Brussels |
+| Sat, 24 Oct 2026 | Lofi | Amsterdam |
+
+## Recently played
+
+- Night Tales Loft, London — Fri, 17 Jul 2026
+- Flanders Expo Centre, Ghent — Sat, 4 Jul 2026
+- TBA - Paradise City Festival, Brussels — Fri, 26 Jun 2026
+- OLT Rivierenhof, Antwerp — Fri, 19 Jun 2026
+- TRAUM, Antwerp — Fri, 29 May 2026
+- TBA, Brussels — Fri, 29 May 2026
+- ASIAT Park, Brussels — Sat, 25 Apr 2026
+- ZENNER, Berlin — Fri, 17 Apr 2026
+
+## Shares bills with
+
+Helena Lauwaert, MOKER, BAVR
+
+*Updated Mon, 27 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/miamor/)*

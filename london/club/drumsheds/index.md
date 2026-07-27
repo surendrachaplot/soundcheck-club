@@ -1,0 +1,23 @@
+# DRUMSHEDS
+
+DRUMSHEDS is a music venue in London with 7 upcoming nights listed on soundcheck as of Mon, 27 Jul 2026; the next is "Defected London w/ Armand Van Helden, Basement Jaxx, Groove Armada" on Sat, 19 Sept 2026.
+
+DRUMSHEDS is a music venue in London listed on soundcheck. 7 upcoming nights, with line-ups including 2ManyDJs, 6 SENSE, Alan Braxe and Alexis Taylor and 2 more. Browse upcoming dates, start times and who's playing. 6 Glover Drive, Edmonton, London, N18 3HF.
+
+## What's on
+
+| Date | Night | Line-up |
+| --- | --- | --- |
+| Sat, 19 Sept 2026 | Defected London w/ Armand Van Helden, Basement Jaxx, Groove Armada | Ammo Avenue, Andy Daniell, Armand Van Helden, Basement Jaxx, Don't F**k with Disco, Eats Everything, Ella Knight, Groove Armada, Jonas Blue, LEV (UK), Lloyd Nwagboso, Makèz, Melvo Baptiste, Paisley Jensen, RUZE, Roger Sanchez, Sam Divine, The Shapeshifters |
+| Sat, 26 Sept 2026 | City Splash |  |
+| Sat, 3 Oct 2026 | NEXUP: The Return with Max Dean  | Max Dean |
+| Fri, 9 Oct 2026 | Don't Let Daddy Know London w/ Ben Nicky, Dimitri Vegas | Amy Wiles, Krewella, Nicky Romero, P.O.U, R3hab |
+| Sat, 10 Oct 2026 | Bugged Out! 2001 & On | 2ManyDJs, Alan Braxe, Alexis Taylor, DJ F16 Falcon, Dave Clarke, Erol Alkan, Etienne De Crecy, FC Kahuna, Fall Forward, Felix Da Housecat, Friendly Fires, Heidi, Joe Goddard, Leftfield, Lou Hayter, MEERA (UK), Miss Kittin, Myd, New Young Pony Club, SebastiAn, Simian Mobile Disco, Tatyana Jane, The Avalanches, The Hacker |
+| Fri, 23 Oct 2026 | Terminal V London | 6 SENSE, Cara Elizabeth, DJ Cringey, Helena Lauwaert, Holy Priest, Juicy Romance, KLOUD, LAUZ, Laure Croft, Lola Cerise, MARIEEEA, Nikolina, Onlynumbers, Pablo Bozzi |
+| Sat, 24 Oct 2026 | False Idols w/ Kim Petras (live), COBRAH (live), Rose Gray | COBRAH, Joshua James |
+
+## Address
+
+6 Glover Drive, Edmonton, London, N18 3HF, London
+
+*Updated Mon, 27 Jul 2026 · source: [soundcheck](https://soundcheck.club/london/club/drumsheds/)*

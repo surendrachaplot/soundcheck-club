@@ -1,0 +1,17 @@
+# The Carlton Club
+
+The Carlton Club is a music venue in Manchester with 1 upcoming night listed on soundcheck as of Mon, 27 Jul 2026; the next is "Red Laser BBQ '26" on Sun, 30 Aug 2026.
+
+The Carlton Club is a music venue in Manchester listed on soundcheck. 1 upcoming night, with line-ups including Il Bosco, Kickin Pigeon and Pharaoh Brunson. Browse upcoming dates, start times and who's playing. Rowan Lodge, 113 Carlton Rd, Whalley Range, Manchester M16 8BE.
+
+## What's on
+
+| Date | Night | Line-up |
+| --- | --- | --- |
+| Sun, 30 Aug 2026 | Red Laser BBQ '26 | Il Bosco, Kickin Pigeon, Pharaoh Brunson |
+
+## Address
+
+Rowan Lodge, 113 Carlton Rd, Whalley Range, Manchester M16 8BE, Manchester
+
+*Updated Mon, 27 Jul 2026 · source: [soundcheck](https://soundcheck.club/manchester/club/the-carlton-club/)*

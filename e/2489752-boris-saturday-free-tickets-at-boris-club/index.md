@@ -1,0 +1,11 @@
+# Boris Saturday  - FREE TICKETS at BORIS CLUB
+
+Boris Saturday  - FREE TICKETS at BORIS CLUB on Sat 8 Aug, Barcelona. House. Preview the line-up and save it on soundcheck.
+
+| Field | Value |
+| --- | --- |
+| Date | Sat, 8 Aug 2026 |
+| Venue | BORIS CLUB |
+| City | Barcelona |
+
+*Source: [soundcheck](https://soundcheck.club/e/2489752-boris-saturday-free-tickets-at-boris-club/)*
