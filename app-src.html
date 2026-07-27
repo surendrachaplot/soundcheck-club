@@ -338,11 +338,22 @@
     .rad-st:hover { border-color:var(--line-2); }
     .rad-st.big { background:linear-gradient(120deg, rgba(255,94,126,.16), var(--surface) 68%); }
     .rad-st.on { border-color:var(--sel); background:var(--sel-weak); }
-    .rad-art { flex:none; width:56px; height:56px; border-radius:var(--r-1); display:grid; place-items:center;
+    /* Poster art with the gradient behind it: if the image is missing or 404s
+       (onerror removes it) the tile is still a designed surface, never a hole. */
+    .rad-art { position:relative; flex:none; width:56px; height:56px; border-radius:var(--r-1); overflow:hidden;
+      display:grid; place-items:center;
       background:linear-gradient(140deg, hsl(var(--h) 56% 46%), hsl(calc(var(--h) + 44) 60% 19%)); }
+    .rad-art > img { position:absolute; inset:0; width:100%; height:100%; object-fit:cover; }
+    .rad-art::after { content:''; position:absolute; inset:0; background:rgba(11,6,24,.42); }
+    /* The city station shows four of the weekend's posters rather than one. */
+    .rad-art.rad-mosaic { display:grid; grid-template-columns:1fr 1fr; grid-template-rows:1fr 1fr; place-items:stretch; }
+    .rad-art.rad-mosaic > img { position:static; width:100%; height:100%; }
+    .rad-art i { position:relative; z-index:2; }
     .rad-st.big .rad-art { width:64px; height:64px; }
+    /* The rank sits ON a poster, so it needs to hold at full contrast with a
+       shadow rather than the 62% opacity that worked over a flat gradient. */
     .rad-art i { font-family:var(--head); font-style:normal; font-weight:800; font-size:var(--fs-md);
-      color:#fff; opacity:.62; font-variant-numeric:tabular-nums; }
+      color:#fff; font-variant-numeric:tabular-nums; text-shadow:0 1px 6px rgba(0,0,0,.7), 0 0 2px rgba(0,0,0,.5); }
     .rad-tx { flex:1; min-width:0; display:flex; flex-direction:column; gap:1px; }
     .rad-k { font:800 var(--fs-2xs)/var(--lh-2xs) var(--body); letter-spacing:.16em; color:var(--accent); }
     .rad-st.on .rad-k { color:var(--sel-text); }
@@ -361,6 +372,9 @@
     .rad-eq i:nth-child(2){ height:100%; animation-delay:.18s }
     .rad-eq i:nth-child(3){ height:40%; animation-delay:.36s }
     @keyframes rad-eq { to { height:22%; } }
+    /* On-air row names the DJ actually playing, in the accent so it reads as live. */
+    .rad-now { color:var(--accent); font-weight:700; }
+    .rad-st.on .rad-now { color:var(--sel-text); }
     /* Bio: lede at full contrast, body clamped to 3 lines until expanded. */
     .fp-bio-wrap { margin:0 0 var(--sp-4); max-width:64ch; }
     .fp-bio-lede { font-size:var(--fs-md); line-height:var(--lh-md); letter-spacing:var(--ls-md);
@@ -3568,7 +3582,7 @@
   <!-- Umami analytics. defer so it never blocks first paint; the SPA rewrites
        history on navigation, which umami picks up automatically. -->
   <script defer src="https://cloud.umami.is/script.js" data-website-id="de210b6c-12e4-4819-95f6-f5120974855a"></script>
-<meta name="sc-build" content="1785158994322">
+<meta name="sc-build" content="1785160160994">
 </head>
 <body>
   <main class="wrap">
@@ -3617,7 +3631,7 @@
     <div class="grid" id="grid"></div>
     <!-- Per-city "what's on this week" date links, injected by build-club (canonical
          /<city>/<date>/ pages). Empty in the source; hidden on client-side city switch. -->
-    <section id="home-seo-more" class="home-seo-more" data-city="london"><h2>What&rsquo;s on in London this week</h2><ul class="home-seo-dates"><li><a href="/london/2026-07-28/">Tue 28 Jul <span class="c">4 events</span></a></li><li><a href="/london/2026-07-29/">Wed 29 Jul <span class="c">13 events</span></a></li><li><a href="/london/2026-07-30/">Thu 30 Jul <span class="c">27 events</span></a></li><li><a href="/london/2026-07-31/">Fri 31 Jul <span class="c">91 events</span></a></li><li><a href="/london/2026-08-01/">Sat 1 Aug <span class="c">117 events</span></a></li><li><a href="/london/2026-08-02/">Sun 2 Aug <span class="c">34 events</span></a></li><li><a href="/london/2026-08-05/">Wed 5 Aug <span class="c">5 events</span></a></li></ul><nav class="home-seo-nav" aria-label="More on soundcheck"><a href="/london/this-weekend/">This weekend in London</a> <a href="/london/scene/">London scene guide</a> <a href="/cities/">All 104 cities</a></nav></section>
+    <section id="home-seo-more" class="home-seo-more" data-city="london"><h2>What&rsquo;s on in London this week</h2><ul class="home-seo-dates"><li><a href="/london/2026-07-28/">Tue 28 Jul <span class="c">4 events</span></a></li><li><a href="/london/2026-07-29/">Wed 29 Jul <span class="c">13 events</span></a></li><li><a href="/london/2026-07-30/">Thu 30 Jul <span class="c">27 events</span></a></li><li><a href="/london/2026-07-31/">Fri 31 Jul <span class="c">92 events</span></a></li><li><a href="/london/2026-08-01/">Sat 1 Aug <span class="c">119 events</span></a></li><li><a href="/london/2026-08-02/">Sun 2 Aug <span class="c">34 events</span></a></li><li><a href="/london/2026-08-05/">Wed 5 Aug <span class="c">5 events</span></a></li></ul><nav class="home-seo-nav" aria-label="More on soundcheck"><a href="/london/this-weekend/">This weekend in London</a> <a href="/london/scene/">London scene guide</a> <a href="/cities/">All 104 cities</a></nav></section>
 
     <!-- Crawlable home content (H1 + intro) — moved to the bottom of the page. Still a real
          <h1> in the DOM so it's the page heading for SEO regardless of visual position.
@@ -4586,6 +4600,7 @@
       else { radioBuildWidget(entry, function(){ try{ radioYt.playVideo(); }catch(_){} }); }
       document.body.classList.add('radio-on');
       radioFabUpdate(entry);
+      if(_radRepaint) try{ _radRepaint(); }catch(_){}
       if(radio.tick) clearInterval(radio.tick);
       radio.tick=setInterval(function(){
         if(!radio.on){ clearInterval(radio.tick); radio.tick=null; return; }
@@ -4754,10 +4769,16 @@
         .filter(function(v){ return v.list.length>=2; })
         .sort(function(a,b){ return (b.att-a.att)||(b.list.length-a.list.length); })
         .slice(0,12);
-      _wkIdx={ key:key, city:city, venues:venues, events:evs.length };
+      // Station art comes from the real posters already in the payload — no extra
+      // request, and a room's own flyer says more than a generated gradient.
+      var posterFor=function(list){ for(var i=0;i<list.length;i++) if(list[i].poster) return list[i].poster; return ''; };
+      venues.forEach(function(v){ v.poster=posterFor(v.list); });
+      _wkIdx={ key:key, city:city, venues:venues, events:evs.length,
+               from:days[0], to:days[2], cityPosters:city.map(function(c){ return c.poster; }).filter(Boolean).slice(0,4) };
       return _wkIdx;
     }
     function radioStationOn(id){ return radio.on && radio.station===id; }
+    var _radRepaint=null;   // set while the radio page is mounted (see renderRadioPage)
     async function openRadio(){
       setRoute('radio');
       var cm=cityMeta();
@@ -4778,28 +4799,46 @@
         return;
       }
       var cm=cityMeta(), cityId='city|'+currentCity;
-      var art=function(seed,n){ var h=hashStr(String(seed))%360;
-        return '<span class="rad-art" style="--h:'+h+'">'+(n!=null?'<i>'+n+'</i>':'')+'</span>'; };
-      var row=function(o){
-        return '<button class="rad-st'+(o.big?' big':'')+(radioStationOn(o.id)?' on':'')+'" type="button" data-st="'+attrEsc(o.id)+'">'+
-          art(o.seed, o.rank)+
-          '<span class="rad-tx"><span class="rad-k">'+esc(o.kick)+'</span>'+
-            '<b>'+esc(o.title)+'</b><small>'+o.sub+'</small></span>'+
-          '<span class="rad-go">'+(radioStationOn(o.id)?'<span class="rad-eq"><i></i><i></i><i></i></span>':PLAY_SVG)+'</span></button>';
+      // What's on air right now, for whichever station is playing.
+      var nowName=function(){ var e=radio.on&&radio.queue?radio.queue[radio.i]:null; return e&&e.name?e.name:''; };
+      var art=function(seed,n,poster,posters){
+        var h=hashStr(String(seed))%360;
+        var inner=(n!=null?'<i>'+n+'</i>':'');
+        if(posters&&posters.length>=4){
+          return '<span class="rad-art rad-mosaic" style="--h:'+h+'">'+
+            posters.slice(0,4).map(function(p){ return '<img src="'+attrEsc(imgUrl(p,160))+'" alt="" loading="lazy" decoding="async" onerror="this.remove()">'; }).join('')+
+            inner+'</span>';
+        }
+        return '<span class="rad-art" style="--h:'+h+'">'+
+          (poster?'<img src="'+attrEsc(imgUrl(poster,160))+'" alt="" loading="lazy" decoding="async" onerror="this.remove()">':'')+
+          inner+'</span>';
       };
+      var row=function(o){
+        var on=radioStationOn(o.id), now=on?nowName():'';
+        return '<button class="rad-st'+(o.big?' big':'')+(on?' on':'')+'" type="button" data-st="'+attrEsc(o.id)+'">'+
+          art(o.seed, o.rank, o.poster, o.posters)+
+          '<span class="rad-tx"><span class="rad-k">'+(on?'ON AIR':esc(o.kick))+'</span>'+
+            '<b>'+esc(o.title)+'</b>'+
+            '<small>'+(now?('<span class="rad-now">'+esc(now)+'</span>'):o.sub)+'</small></span>'+
+          '<span class="rad-go">'+(on?'<span class="rad-eq"><i></i><i></i><i></i></span>':PLAY_SVG)+'</span></button>';
+      };
+      var span=(idx.from&&idx.to)?(fmtRange(idx.from, idx.to)):'Fri to Sun';
       var html='<div class="rad-rack">'+
-        row({ id:cityId, big:true, seed:currentCity, kick:'CITY',
+        row({ id:cityId, big:true, seed:currentCity, kick:'CITY', posters:idx.cityPosters,
               title:cm.name+' this weekend',
-              sub:idx.city.length+' biggest draws &middot; Fri to Sun' })+'</div>';
+              sub:idx.city.length+' biggest draws &middot; '+esc(span) })+'</div>';
       if(idx.venues.length){
         html+='<div class="sec-h">Venues<span class="ct">'+idx.venues.length+'</span></div>'+
           '<div class="rad-rack">'+idx.venues.map(function(v,i){
-            return row({ id:'venue|'+v.venue, seed:v.venue, rank:i+1, kick:'VENUE',
+            return row({ id:'venue|'+v.venue, seed:v.venue, rank:i+1, kick:'VENUE', poster:v.poster,
                          title:v.venue,
                          sub:v.list.length+' artist'+(v.list.length===1?'':'s')+' &middot; '+v.events+' night'+(v.events===1?'':'s') });
           }).join('')+'</div>';
       }
       body.innerHTML=html;
+      // Re-render whenever the broadcast moves to the next DJ, so the on-air row
+      // keeps naming who's actually playing.
+      _radRepaint=function(){ if(currentRoute()==='radio') renderRadioPage(idx); };
       body.querySelectorAll('[data-st]').forEach(function(b){
         b.addEventListener('click', function(){
           var id=b.dataset.st;

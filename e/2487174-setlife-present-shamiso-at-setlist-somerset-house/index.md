@@ -1,6 +1,6 @@
 # SETLIFE present Shamiso at Setlist @ Somerset House
 
-SETLIFE present Shamiso at Setlist @ Somerset House on Sat 22 Aug, London. 1 act on the bill: Shamiso. Dancehall and Afro House. Preview the line-up and save it on soundcheck.
+SETLIFE present Shamiso at Setlist @ Somerset House on Sat 22 Aug, London. 1 act on the bill: Shamiso. Amapiano and Afro House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

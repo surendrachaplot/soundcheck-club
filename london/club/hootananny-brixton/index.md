@@ -1,8 +1,8 @@
 # Hootananny Brixton
 
-Hootananny Brixton is a music venue in London with 10 upcoming nights listed on soundcheck as of Mon, 27 Jul 2026; the next is "Queenstown Collective: Summer Party" on Fri, 31 Jul 2026.
+Hootananny Brixton is a music venue in London with 13 upcoming nights listed on soundcheck as of Mon, 27 Jul 2026; the next is "Queenstown Collective: Summer Party" on Fri, 31 Jul 2026.
 
-Hootananny Brixton is a music venue in London listed on soundcheck. 10 upcoming nights, with line-ups including DJ Puffy, Fabich and Madeline (UK). Browse upcoming dates, start times and who's playing. 95 Effra Road, Brixton, London, SW2 1DF.
+Hootananny Brixton is a music venue in London listed on soundcheck. 13 upcoming nights, with line-ups including DJ Puffy, Fabich and Madeline (UK). Browse upcoming dates, start times and who's playing. 95 Effra Road, Brixton, London, SW2 1DF.
 
 ## What's on
 
@@ -14,10 +14,10 @@ Hootananny Brixton is a music venue in London listed on soundcheck. 10 upcoming 
 | Thu, 6 Aug 2026 | Sonido Gallo Negro |  |
 | Fri, 7 Aug 2026 | Rewind: The best of the 80's, 90's + 00's |  |
 | Sat, 8 Aug 2026 | Ne0 Project: Summer Live Show |  |
+| Sat, 8 Aug 2026 | Sub Brixton: DnB, Jungle + Rollers All Night Long |  |
+| Fri, 14 Aug 2026 | Brixton Soul Shake: Live Summer Special |  |
+| Fri, 21 Aug 2026 | Alt Baile: Ciao Hot Tour (UK debut) |  |
 | Thu, 27 Aug 2026 | The Nujabes Experience: Performed Live |  |
-| Fri, 4 Sept 2026 | DJ Puffy | DJ Puffy |
-| Sat, 26 Sept 2026 | Dreamville Rapper: Lute |  |
-| Fri, 2 Oct 2026 | Skeler: Nightfall Tour |  |
 
 ## Address
 
