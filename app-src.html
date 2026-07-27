@@ -304,6 +304,29 @@
       letter-spacing:var(--ls-md); line-height:var(--lh-md); font-variant-numeric:tabular-nums; }
     .ent-range .er-tx span { color:var(--muted); font-size:var(--fs-xs); line-height:var(--lh-xs); font-variant-numeric:tabular-nums; }
     .ent-range .er-reset { margin-left:auto; }
+    /* Bio: lede at full contrast, body clamped to 3 lines until expanded. */
+    .fp-bio-wrap { margin:0 0 var(--sp-4); max-width:64ch; }
+    .fp-bio-lede { font-size:var(--fs-md); line-height:var(--lh-md); letter-spacing:var(--ls-md);
+      color:var(--fg); margin:0 0 var(--sp-2); text-wrap:pretty; }
+    .fp-bio { font-size:var(--fs-base); line-height:var(--lh-base); color:var(--muted); margin:0;
+      display:-webkit-box; -webkit-line-clamp:3; -webkit-box-orient:vertical; overflow:hidden; text-wrap:pretty; }
+    .fp-bio.open { -webkit-line-clamp:unset; overflow:visible; }
+    .fp-bio-more { margin-top:var(--sp-2); }
+    /* Empty states. A bare grey sentence reads as something having gone wrong;
+       a titled block with an action reads as a state the product expects. */
+    .empty, .fp-sets-empty { color:var(--muted); font-size:var(--fs-sm); line-height:var(--lh-sm); }
+    .es { display:flex; flex-direction:column; align-items:flex-start; gap:var(--sp-2);
+      padding:var(--sp-5) var(--sp-4); border:1px dashed var(--line-2); border-radius:var(--r-2);
+      background:rgba(255,255,255,0.015); }
+    .es-t { font-family:var(--head); font-weight:800; font-size:var(--fs-md);
+      letter-spacing:var(--ls-md); line-height:var(--lh-md); color:var(--fg); }
+    .es-s { color:var(--muted); font-size:var(--fs-sm); line-height:var(--lh-sm); margin:0; max-width:46ch; }
+    /* Skeletons must occupy the SAME box as the content that replaces them,
+       otherwise the page reflows the moment data lands — the jump reads as
+       slowness even when the load was fast. */
+    .sk { background:linear-gradient(90deg, var(--surface-2) 25%, var(--surface-3) 37%, var(--surface-2) 63%);
+      background-size:400% 100%; animation:sk-shimmer 1.4s linear infinite; }
+    @keyframes sk-shimmer { from { background-position:100% 0; } to { background-position:0 0; } }
     /* Onboarding scene-card preview: the same design as the server PNG (dusk
        ground, sunset base bar, CRT lines, Bricolage name wall) drawn in the DOM
        so a signed-out user sees it instantly. */
@@ -3481,7 +3504,7 @@
   <!-- Umami analytics. defer so it never blocks first paint; the SPA rewrites
        history on navigation, which umami picks up automatically. -->
   <script defer src="https://cloud.umami.is/script.js" data-website-id="de210b6c-12e4-4819-95f6-f5120974855a"></script>
-<meta name="sc-build" content="1785145472453">
+<meta name="sc-build" content="1785150935187">
 </head>
 <body>
   <main class="wrap">
@@ -3722,6 +3745,33 @@
     }
     // CSS background-image value: uploaded photo if present, else generated.
     function avatarBg(handle, avatarUrl){ return "url('"+(avatarUrl||genAvatar(handle))+"')"; }
+    // Artist bio as editorial copy, not a wall. It arrived as one 10-line grey
+    // paragraph at the top of every artist page — the densest thing on screen,
+    // above the actual content, all one weight and one colour.
+    //
+    // Split at the first sentence: that sentence is almost always the "who is
+    // this" line, so it becomes the lede at full contrast; the rest is body,
+    // clamped to three lines behind a real expander. Nothing is hidden that
+    // wasn't already below the fold, and the top of the page becomes scannable.
+    function bioBlock(text){
+      var t=String(text||'').trim(); if(!t) return '';
+      var m=t.match(/^([\s\S]{40,220}?[.!?])(\s+)([\s\S]+)$/);
+      var lede=m?m[1]:t, rest=m?m[3]:'';
+      var id='bio'+(++_bioSeq);
+      return '<div class="fp-bio-wrap">'+
+        '<p class="fp-bio-lede">'+esc(lede)+'</p>'+
+        (rest?'<p class="fp-bio" id="'+id+'">'+esc(rest)+'</p>'+
+              '<button class="more-btn fp-bio-more" type="button" data-bio="'+id+'" aria-expanded="false">Read more</button>':'')+
+      '</div>';
+    }
+    var _bioSeq=0;
+    document.addEventListener('click', function(e){
+      var b=e.target.closest && e.target.closest('.fp-bio-more'); if(!b) return;
+      var p=document.getElementById(b.dataset.bio); if(!p) return;
+      var open=p.classList.toggle('open');
+      b.setAttribute('aria-expanded', String(open));
+      b.textContent = open ? 'Read less' : 'Read more';
+    });
     // Hero-scale fallback for an entity with no photo (artist/venue headers).
     // genAvatar's 80px marble is fine at avatar size but was being TILED across
     // wide hero bands; this paints a deterministic gradient at any size and puts
@@ -4587,7 +4637,7 @@
       var hd=document.getElementById('radio-page-hd'), ql=document.getElementById('radio-page-q'); if(!hd||!ql) return;
       var playing=radio.on && radio.station==='weekend';
       hd.innerHTML='<button class="fp-pb go" id="radio-page-play" type="button" style="flex:none;min-width:190px;max-width:230px;margin-bottom:20px">'+(playing?'<span>Stop radio</span>':PLAY_SVG+'<span>Play radio</span>')+'</button>';
-      if(!(q&&q.length)){ ql.innerHTML='<div class="empty" style="padding:16px 0">No line-ups for this weekend yet &mdash; check back soon.</div>'; }
+      if(!(q&&q.length)){ ql.innerHTML='<div class="es"><span class="es-t">No line-ups posted yet</span><p class="es-s">Promoters usually announce these a week or two out. The weekend fills up fast &mdash; check back Thursday.</p></div>'; }
       else {
         var cur=playing?radio.i:-1;
         ql.innerHTML='<div class="rq-list">'+q.map(function(e,i){
@@ -5519,7 +5569,7 @@
       try{
         var r=await authedFetch('/api/diary'); var j=await r.json(); var rows=j.entries||[];
         var el=document.getElementById('mp-diary'); if(!el) return;
-        el.innerHTML='<div class="sec-h">Diary<span class="ct">'+rows.length+'</span> <span class="more" id="mp-log">+ Log a gig</span></div>'+(rows.length?diaryListHTML(rows, true):'<div class="empty" style="padding:4px 0">No gigs logged yet.</div>');
+        el.innerHTML='<div class="sec-h">Diary<span class="ct">'+rows.length+'</span> <span class="more" id="mp-log">+ Log a gig</span></div>'+(rows.length?diaryListHTML(rows, true):'<div class="es"><span class="es-t">No nights logged yet</span><p class="es-s">Log one and it lands here, with the line-up attached &mdash; that\u2019s what builds your scene card.</p></div>');
         var lb=document.getElementById('mp-log'); if(lb) lb.addEventListener('click',function(){ openLog(); });
         wireDiary(el, true, appendPicksDiary);
       }catch(_){}
@@ -7386,7 +7436,7 @@
             '<div class="fp-hx">'+
               '<div class="fp-kick">'+kick+'</div>'+
               '<div class="fp-namerow"><h1 class="fp-h1">'+esc(a.name||slug)+'</h1>'+(socials?'<div class="fp-socials">'+socials+'</div>':'')+'</div>'+
-              (a.bio?'<p class="fp-bio">'+esc(a.bio)+'</p>':(a.description?'<p class="fp-bio">'+esc(a.description)+'</p>':''))+
+              bioBlock(a.bio||a.description||'')+
               genreTags+festLine+gemLine+
               '<div class="fp-acts">'+
                 '<button class="fp-ab go" id="ap-radio" data-slug="'+esc(slug)+'" data-name="'+esc(a.name||slug)+'"'+(a.image?' data-poster="'+esc(a.image)+'"':'')+nextVenueAttr+' type="button" aria-label="Play '+esc(a.name||slug)+'&rsquo;s sets">'+PLAY_SVG+'<span>Play</span></button>'+
@@ -8244,7 +8294,7 @@
         var r=await authedFetch('/api/event?id='+encodeURIComponent(id)); var ev=await r.json();
         lgEventList=[{ id:ev.id, title:ev.title, venue:ev.venue, city:ev.city, event_date:ev.event_date, poster_url:ev.poster_url, lineup:ev.lineup||[] }];
         selectLgEvent(lgEventList[0]);
-      }catch(_){ if(ev0) ev0.innerHTML='<div class="empty">Couldn&rsquo;t load that night.</div>'; }
+      }catch(_){ if(ev0) ev0.innerHTML='<div class="es"><span class="es-t">Couldn\u2019t load that night</span><p class="es-s">Usually a dropped connection rather than a missing event. Pull to refresh, or head back to the city page.</p></div>'; }
     }
     // ── P1: taste onboarding (the <3-min flow → living taste profile) ──
     var TASTE_VIBES=['intimate','warehouse','queer','audiophile','afterhours','high energy','deep/listening','experimental'];
