@@ -310,6 +310,49 @@
     .ent-range .er-reset { margin-left:auto; }
     /* Load more sits under the list, aligned with the row content it extends. */
     .lm-btn { display:block; margin:var(--sp-3) 18px var(--sp-2); }
+    /* "Near me" sits above the alphabetical list — it's an action, not a city. */
+    .city-row.city-near { border-bottom:1px solid var(--border); color:var(--accent); font-weight:700; }
+    .city-row.city-near svg { width:17px; height:17px; }
+    .city-row.city-near small { color:var(--muted); font-weight:500; font-size:var(--fs-xs); margin-left:auto; }
+    /* ── Radio: a rack of stations ─────────────────────────────────────────
+       City leads, then every venue with a line-up this weekend, most popular
+       first. One row shape for both so the page reads as one list of stations
+       rather than a feature and a list. */
+    .rad-hd { padding:4px 18px 2px; }
+    .rad-h1 { font-family:var(--head); font-weight:800; font-size:var(--fs-2xl);
+      letter-spacing:var(--ls-2xl); line-height:var(--lh-2xl); margin:3px 0 5px; }
+    .rad-sub { color:var(--muted); font-size:var(--fs-sm); line-height:var(--lh-sm); margin:0 0 var(--sp-4); max-width:52ch; }
+    .rad-rack { display:flex; flex-direction:column; gap:8px; padding:0 18px; }
+    .rad-st { display:flex; align-items:center; gap:12px; width:100%; text-align:left;
+      background:var(--surface); border:1px solid var(--border); border-radius:var(--r-2);
+      padding:10px; color:var(--fg); font:inherit; cursor:pointer;
+      transition:border-color var(--dur-1) var(--ease-standard), background var(--dur-1) var(--ease-standard); }
+    .rad-st:hover { border-color:var(--line-2); }
+    .rad-st.big { background:linear-gradient(120deg, rgba(255,94,126,.16), var(--surface) 68%); }
+    .rad-st.on { border-color:var(--sel); background:var(--sel-weak); }
+    .rad-art { flex:none; width:56px; height:56px; border-radius:var(--r-1); display:grid; place-items:center;
+      background:linear-gradient(140deg, hsl(var(--h) 56% 46%), hsl(calc(var(--h) + 44) 60% 19%)); }
+    .rad-st.big .rad-art { width:64px; height:64px; }
+    .rad-art i { font-family:var(--head); font-style:normal; font-weight:800; font-size:var(--fs-md);
+      color:#fff; opacity:.62; font-variant-numeric:tabular-nums; }
+    .rad-tx { flex:1; min-width:0; display:flex; flex-direction:column; gap:1px; }
+    .rad-k { font:800 var(--fs-2xs)/var(--lh-2xs) var(--body); letter-spacing:.16em; color:var(--accent); }
+    .rad-st.on .rad-k { color:var(--sel-text); }
+    .rad-tx b { font-family:var(--head); font-weight:800; font-size:var(--fs-md); letter-spacing:var(--ls-md);
+      line-height:1.2; white-space:nowrap; overflow:hidden; text-overflow:ellipsis; }
+    .rad-tx small { color:var(--muted); font-size:var(--fs-xs); line-height:var(--lh-xs); font-variant-numeric:tabular-nums;
+      white-space:nowrap; overflow:hidden; text-overflow:ellipsis; }
+    .rad-go { flex:none; width:38px; height:38px; border-radius:var(--radius-pill); display:grid; place-items:center;
+      background:var(--accent-grad); color:var(--accent-ink); }
+    .rad-st.on .rad-go { background:var(--sel); color:#fff; }
+    .rad-go svg { width:17px; height:17px; margin-left:2px; }
+    /* Level meter on the station that's actually playing. */
+    .rad-eq { display:flex; align-items:flex-end; gap:2px; height:14px; }
+    .rad-eq i { width:3px; background:#fff; border-radius:1px; animation:rad-eq .9s infinite alternate ease-in-out; }
+    .rad-eq i:nth-child(1){ height:60%; animation-delay:0s }
+    .rad-eq i:nth-child(2){ height:100%; animation-delay:.18s }
+    .rad-eq i:nth-child(3){ height:40%; animation-delay:.36s }
+    @keyframes rad-eq { to { height:22%; } }
     /* Bio: lede at full contrast, body clamped to 3 lines until expanded. */
     .fp-bio-wrap { margin:0 0 var(--sp-4); max-width:64ch; }
     .fp-bio-lede { font-size:var(--fs-md); line-height:var(--lh-md); letter-spacing:var(--ls-md);
@@ -3517,7 +3560,7 @@
   <!-- Umami analytics. defer so it never blocks first paint; the SPA rewrites
        history on navigation, which umami picks up automatically. -->
   <script defer src="https://cloud.umami.is/script.js" data-website-id="de210b6c-12e4-4819-95f6-f5120974855a"></script>
-<meta name="sc-build" content="1785153875357">
+<meta name="sc-build" content="1785157292066">
 </head>
 <body>
   <main class="wrap">
@@ -4654,40 +4697,112 @@
     }
     // ── Radio page: the weekend shuffle queue (every DJ playing this weekend in
     // the current city, shuffled) with a Play/Stop control and a tap-to-open list. ──
+    // ── RADIO ─────────────────────────────────────────────────────────────────
+    // One rack of stations, all built from a single weekend index so switching
+    // between them costs nothing after the first load.
+    //   City   — the 20 biggest draws of the weekend
+    //   Venues — every room with a line-up, most popular first
+    var _wkIdx=null;
+    async function radioWeekendIndex(){
+      var wd=weekendDatesFor(0);
+      var days=[wd[0], wd[1], _addDaysISO(wd[1],1)];          // Fri, Sat, Sun
+      var key=currentCity+'|'+days.join(',');
+      if(_wkIdx && _wkIdx.key===key) return _wkIdx;
+      var evs=[];
+      for(var i=0;i<days.length;i++){
+        try{ var j=await fetchDay(days[i]);
+          (j.events||[]).forEach(function(ev){ evs.push(ev); });
+        }catch(_){}
+      }
+      var slugOf=function(a){ return a && a.contentUrl ? a.contentUrl.split('/').filter(Boolean).pop() : ''; };
+      // Rank EVENTS by draw, then take at most 2 artists from each. Ranking
+      // artists directly by their event's crowd put 13 of the top 20 on a single
+      // Boiler Room bill — one festival owned the whole station. The cap spreads
+      // the same 20 slots across ~7 rooms.
+      var byPull=evs.slice().sort(function(a,b){ return (b.attending||0)-(a.attending||0); });
+      var seen={}, city=[];
+      for(var e=0;e<byPull.length && city.length<20;e++){
+        var ev=byPull[e], took=0, as=ev.artists||[];
+        for(var k=0;k<as.length && took<2 && city.length<20;k++){
+          var sg=slugOf(as[k]); if(!sg||seen[sg]) continue;
+          seen[sg]=1; took++;
+          city.push({ slug:sg, name:as[k].name, yt:null, tried:false,
+                      venue:ev.venue||'', day:'', poster:ev.poster||'', eventId:ev.id!=null?String(ev.id):null });
+        }
+      }
+      // Venue stations: every room with at least 2 artists on this weekend.
+      var vmap={};
+      evs.forEach(function(ev){
+        var v=ev.venue; if(!v) return;
+        var rec=vmap[v]||(vmap[v]={ venue:v, att:0, events:0, seen:{}, list:[] });
+        rec.att+=(ev.attending||0); rec.events++;
+        (ev.artists||[]).forEach(function(a){
+          var sg=slugOf(a); if(!sg||rec.seen[sg]) return; rec.seen[sg]=1;
+          rec.list.push({ slug:sg, name:a.name, yt:null, tried:false,
+                          venue:v, day:'', poster:ev.poster||'', eventId:ev.id!=null?String(ev.id):null });
+        });
+      });
+      var venues=Object.keys(vmap).map(function(k){ return vmap[k]; })
+        .filter(function(v){ return v.list.length>=2; })
+        .sort(function(a,b){ return (b.att-a.att)||(b.list.length-a.list.length); })
+        .slice(0,12);
+      _wkIdx={ key:key, city:city, venues:venues, events:evs.length };
+      return _wkIdx;
+    }
+    function radioStationOn(id){ return radio.on && radio.station===id; }
     async function openRadio(){
       setRoute('radio');
       var cm=cityMeta();
-      showPage('<h2 class="page-title">Weekend radio</h2><div class="sub" style="margin-bottom:16px">Every artist playing '+esc(cm.name)+' this weekend &mdash; shuffled into one non-stop station.</div>'+
-        '<div id="radio-page-hd"></div><div id="radio-page-q"><div class="empty" style="padding:16px 0"><span class="spinner"></span> Building the station…</div></div>');
-      var q=[];
-      try{
-        if(radio.on && radio.station==='weekend' && radio.queue.length) q=radio.queue;
-        else if(radioWarm.queue && radioWarm.key===radioWarmKey()) q=radioWarm.queue;
-        else { var built=await buildStation(); q=seededShuffle(built, radioWarmKey()); radioWarm.queue=q; radioWarm.key=radioWarmKey(); }
-      }catch(_){ q=[]; }
+      showPage('<div class="rad-hd"><span class="kick">'+esc(cm.name.toUpperCase())+'</span>'+
+        '<h2 class="rad-h1">Radio</h2>'+
+        '<p class="rad-sub">Stations built from what&rsquo;s actually on this weekend. They rebuild every Thursday.</p></div>'+
+        '<div id="rad-body"><div class="empty" style="padding:16px"><span class="spinner"></span> Building the stations&hellip;</div></div>');
+      var idx=null;
+      try{ idx=await radioWeekendIndex(); }catch(_){}
       if(currentRoute()!=='radio') return;
-      renderRadioPage(q);
+      renderRadioPage(idx);
     }
-    function renderRadioPage(q){
-      var hd=document.getElementById('radio-page-hd'), ql=document.getElementById('radio-page-q'); if(!hd||!ql) return;
-      var playing=radio.on && radio.station==='weekend';
-      hd.innerHTML='<button class="fp-pb go" id="radio-page-play" type="button" style="flex:none;min-width:190px;max-width:230px;margin-bottom:20px">'+(playing?'<span>Stop radio</span>':PLAY_SVG+'<span>Play radio</span>')+'</button>';
-      if(!(q&&q.length)){ ql.innerHTML='<div class="es"><span class="es-t">No line-ups posted yet</span><p class="es-s">Promoters usually announce these a week or two out. The weekend fills up fast &mdash; check back Thursday.</p></div>'; }
-      else {
-        var cur=playing?radio.i:-1;
-        ql.innerHTML='<div class="rq-list">'+q.map(function(e,i){
-          var sub=[e.venue,e.day].filter(Boolean).join(' · ');
-          return '<button class="rq-row'+(i===cur?' on':'')+'" type="button" data-rq-artist="'+esc(e.slug)+'"><span class="rq-n">'+(i===cur?PLAY_SVG:(i+1))+'</span><span class="rq-m"><span class="rq-nm">'+esc(e.name)+'</span>'+(sub?'<span class="rq-sub">'+esc(sub)+'</span>':'')+'</span></button>';
-        }).join('')+'</div>';
-        ql.querySelectorAll('[data-rq-artist]').forEach(function(r){ r.addEventListener('click',function(){ if(r.dataset.rqArtist) openArtist(r.dataset.rqArtist); }); });
+    function renderRadioPage(idx){
+      var body=document.getElementById('rad-body'); if(!body) return;
+      if(!idx || (!idx.city.length && !idx.venues.length)){
+        body.innerHTML='<div class="es" style="margin:0 16px"><span class="es-t">No line-ups posted yet</span>'+
+          '<p class="es-s">Promoters usually announce a week or two out. The weekend fills up fast &mdash; check back Thursday.</p></div>';
+        return;
       }
-      var pb=document.getElementById('radio-page-play');
-      if(pb) pb.addEventListener('click',function(){
-        if(radio.on && radio.station==='weekend') stopActive(); else startRadio();
-        setTimeout(function(){ if(currentRoute()==='radio') renderRadioPage(q); }, 500);
+      var cm=cityMeta(), cityId='city|'+currentCity;
+      var art=function(seed,n){ var h=hashStr(String(seed))%360;
+        return '<span class="rad-art" style="--h:'+h+'">'+(n!=null?'<i>'+n+'</i>':'')+'</span>'; };
+      var row=function(o){
+        return '<button class="rad-st'+(o.big?' big':'')+(radioStationOn(o.id)?' on':'')+'" type="button" data-st="'+attrEsc(o.id)+'">'+
+          art(o.seed, o.rank)+
+          '<span class="rad-tx"><span class="rad-k">'+esc(o.kick)+'</span>'+
+            '<b>'+esc(o.title)+'</b><small>'+o.sub+'</small></span>'+
+          '<span class="rad-go">'+(radioStationOn(o.id)?'<span class="rad-eq"><i></i><i></i><i></i></span>':PLAY_SVG)+'</span></button>';
+      };
+      var html='<div class="rad-rack">'+
+        row({ id:cityId, big:true, seed:currentCity, kick:'CITY',
+              title:cm.name+' this weekend',
+              sub:idx.city.length+' biggest draws &middot; Fri to Sun' })+'</div>';
+      if(idx.venues.length){
+        html+='<div class="sec-h">Venues<span class="ct">'+idx.venues.length+'</span></div>'+
+          '<div class="rad-rack">'+idx.venues.map(function(v,i){
+            return row({ id:'venue|'+v.venue, seed:v.venue, rank:i+1, kick:'VENUE',
+                         title:v.venue,
+                         sub:v.list.length+' artist'+(v.list.length===1?'':'s')+' &middot; '+v.events+' night'+(v.events===1?'':'s') });
+          }).join('')+'</div>';
+      }
+      body.innerHTML=html;
+      body.querySelectorAll('[data-st]').forEach(function(b){
+        b.addEventListener('click', function(){
+          var id=b.dataset.st;
+          if(radioStationOn(id)){ stopActive(); renderRadioPage(idx); return; }
+          var list = (id===('city|'+currentCity)) ? idx.city
+                   : (idx.venues.filter(function(v){ return ('venue|'+v.venue)===id; })[0]||{}).list;
+          if(!list||!list.length){ showToast('No line-up to play yet.'); return; }
+          Promise.resolve(startListRadio(list, id)).then(function(){ renderRadioPage(idx); });
+        });
       });
     }
-    // ── mobile bottom nav ──
     function syncTabs(){
       var onPage=document.body.classList.contains('page-on'), route=currentRoute();
       function setTab(id,on){ var t=document.getElementById(id); if(t) t.classList.toggle('on',!!on); }
@@ -9606,6 +9721,11 @@
       ov.innerHTML='<div class="auth-box"><button class="auth-close" type="button" aria-label="Close">&times;</button>'+
         '<div class="eyebrow">Choose your city</div><h3>Where are you out?</h3>'+
         '<div class="search-box" style="margin:4px 0 2px"><input type="search" id="city-search" placeholder="Search '+CITY_LIST.length+' cities…" autocomplete="off" autocapitalize="off" autocorrect="off"></div>'+
+        // Picking a city PINS it (setCity(..., true)), so IP geolocation never
+        // moves you again. This is the only way back to "wherever I actually am".
+        '<button class="city-row city-near" id="city-near" type="button">'+
+          '<span class="cf"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="12" r="3"/><path d="M12 2v3M12 19v3M2 12h3M19 12h3"/><circle cx="12" cy="12" r="8"/></svg></span>'+
+          'Near me<small id="city-near-s">use my location</small></button>'+
         '<div class="city-list">'+rows+'</div>'+
         '<div class="empty city-none" style="display:none;padding:14px 0">No city matches that.</div></div>';
       document.body.appendChild(ov);
@@ -9626,6 +9746,20 @@
       setTimeout(function(){ inp.focus(); },60);
       ov.addEventListener('click',function(e){
         if(e.target===ov){ close(); return; }
+        var nr=e.target.closest('#city-near');
+        if(nr){
+          // Clear the pin, re-ask geo, and jump there. Failing softly matters:
+          // a blocked/absent geo lookup should leave the user where they were.
+          var sub=ov.querySelector('#city-near-s'); if(sub) sub.textContent='Locating…';
+          setPref('cityPinned', 0);
+          pubGet('/api/geo').then(function(j){
+            var slug=j&&j.city&&(j.city.slug||j.city);
+            var known=slug && CITY_LIST.some(function(c){ return c.slug===slug; });
+            if(!known){ if(sub) sub.textContent='Couldn\u2019t place you \u2014 pick a city'; return; }
+            close(); setCity(String(slug), true);
+          }).catch(function(){ if(sub) sub.textContent='Couldn\u2019t place you \u2014 pick a city'; });
+          return;
+        }
         var b=e.target.closest('.city-row[data-city]');
         if(b){ close(); setCity(b.dataset.city, true); }
       });
