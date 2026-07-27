@@ -286,7 +286,7 @@
     .datebar { display:flex; gap:8px; flex-wrap:wrap; align-items:center; margin:10px 0 2px; }
     .qchip { border:1px solid var(--border); background:var(--surface); color:var(--fg); border-radius:var(--radius-pill); padding:10px 18px; font-family:inherit; font-size:var(--fs-sm); font-weight:600; cursor:pointer; transition:background 0.12s, color 0.12s, border-color 0.12s; }
     .qchip:hover { border-color:var(--accent); color:var(--accent); }
-    .qchip.on { background:var(--accent); color:var(--ink); border-color:var(--accent); }
+    .qchip.on { background:var(--accent-grad); color:var(--accent-ink); border-color:transparent; }
     .qchip.alt { display:inline-flex; align-items:center; gap:7px; }
     .qchip.alt svg { width:var(--icon-sm); height:var(--icon-sm); }
     .datebar .push { margin-left:auto; }
@@ -337,7 +337,7 @@
       transition:border-color var(--dur-1) var(--ease-standard), background var(--dur-1) var(--ease-standard); }
     .rad-st:hover { border-color:var(--line-2); }
     .rad-st.big { background:linear-gradient(120deg, rgba(255,94,126,.16), var(--surface) 68%); }
-    .rad-st.on { border-color:var(--sel); background:var(--sel-weak); }
+    .rad-st.on { border-color:var(--accent); background:rgba(255,154,61,.12); }
     /* Poster art with the gradient behind it: if the image is missing or 404s
        (onerror removes it) the tile is still a designed surface, never a hole. */
     .rad-art { position:relative; flex:none; width:56px; height:56px; border-radius:var(--r-1); overflow:hidden;
@@ -363,7 +363,7 @@
       white-space:nowrap; overflow:hidden; text-overflow:ellipsis; }
     .rad-go { flex:none; width:38px; height:38px; border-radius:var(--radius-pill); display:grid; place-items:center;
       background:var(--accent-grad); color:var(--accent-ink); }
-    .rad-st.on .rad-go { background:var(--sel); color:#fff; }
+    .rad-st.on .rad-go { background:var(--accent-grad); color:var(--accent-ink); }
     .rad-go svg { width:17px; height:17px; margin-left:2px; }
     /* Level meter on the station that's actually playing. */
     .rad-eq { display:flex; align-items:flex-end; gap:2px; height:14px; }
@@ -467,7 +467,7 @@
     .cal-cell.past { color:#46464e; cursor:default; }
     .cal-cell.we:not(.past):not(.sel) { color:var(--accent); }
     .cal-cell.today { box-shadow:inset 0 0 0 1.5px var(--accent); }
-    .cal-cell.sel { background:var(--accent); color:var(--ink); font-weight:800; }
+    .cal-cell.sel { background:var(--accent-grad); color:var(--accent-ink); font-weight:800; }
     .cal-cell:not(.past):not(.sel):not(.range-mid):hover { background:rgba(255,154,61,0.16); }
     .cal-modes { display:inline-flex; border:1px solid var(--border); border-radius:var(--radius-pill); padding:3px; gap:2px; margin:0 0 12px; }
     .cal-modes button { background:transparent; border:none; color:var(--muted); font:600 var(--fs-xs)/var(--lh-xs) var(--body); letter-spacing:0.1em; text-transform:uppercase; padding:6px 12px; border-radius:var(--radius-pill); cursor:pointer; }
@@ -556,7 +556,7 @@
     .evc-hero::after { content:''; position:absolute; inset:0; background:linear-gradient(to top, rgba(22,16,42,.94), rgba(22,16,42,.06) 40%, transparent 62%); pointer-events:none; }
     .evc-heart { position:absolute; top:10px; right:10px; z-index:3; width:38px; height:38px; border-radius:var(--radius-pill); background:rgba(0,0,0,.42); backdrop-filter:blur(10px); -webkit-backdrop-filter:blur(10px); border:0; color:#fff; display:inline-flex; align-items:center; justify-content:center; cursor:pointer; }
     .evc-heart svg { width:18px; height:18px; }
-    .evc-heart.on { background:var(--accent); color:var(--accent-ink); }
+    .evc-heart.on { background:var(--accent-grad); color:var(--accent-ink); }
     /* genre stamp — top-2 genres, glass pill top-left of the poster */
     .evc-genres { position:absolute; top:10px; left:10px; z-index:3; display:flex; flex-wrap:wrap; gap:5px; max-width:66%; }
     .evc-gtag { font:700 var(--fs-2xs)/var(--lh-2xs) var(--font-mono); text-transform:uppercase; letter-spacing:.05em; color:#fff; background:rgba(0,0,0,.42); backdrop-filter:blur(10px); -webkit-backdrop-filter:blur(10px); padding:4px 8px; border-radius:var(--radius-pill); white-space:nowrap; }
@@ -1065,7 +1065,7 @@
     .sec-radio { margin:0; padding:5px 12px; flex:none; }
     .upc-tabs { display:flex; gap:6px; background:var(--surface); border:1px solid var(--border); border-radius:var(--radius-md); padding:5px; margin:2px 0 16px; }
     .upc-tab { flex:1; display:inline-flex; align-items:center; justify-content:center; gap:7px; font-family:var(--head); font-weight:800; font-size:var(--fs-xs); letter-spacing:0.08em; text-transform:uppercase; color:var(--muted); background:none; border:0; border-radius:var(--radius); padding:10px 4px; cursor:pointer; transition:background 0.12s, color 0.12s; }
-    .upc-tab.on { background:var(--accent); color:var(--accent-ink); }
+    .upc-tab.on { background:var(--accent-grad); color:var(--accent-ink); }
     .upc-n { font-size:var(--fs-xs); font-weight:700; opacity:0.7; }
     .upc-tab.on .upc-n { opacity:1; }
     .upc-sub { color:var(--muted); font-size:var(--fs-sm); font-weight:500; margin:0 0 14px; }
@@ -1465,7 +1465,7 @@
     .to-chip button:hover { color:var(--accent); }
     .vibe-chips { display:flex; flex-wrap:wrap; gap:8px; }
     .vibe-chip { background:var(--surface); border:1px solid var(--line); border-radius:var(--radius-pill); padding:8px 13px; font:600 var(--fs-sm)/var(--lh-sm) var(--body); color:var(--muted); cursor:pointer; text-transform:capitalize; -webkit-tap-highlight-color:transparent; }
-    .vibe-chip.on { background:var(--accent); border-color:var(--accent); color:var(--accent-ink); }
+    .vibe-chip.on { background:var(--accent-grad); border-color:transparent; color:var(--accent-ink); }
     #to-save { margin-top:20px; }
     .taste-summary { font:500 var(--fs-base)/var(--lh-base) var(--body); color:var(--fg); line-height:1.5; margin:6px 0 14px; }
     .taste-genres { display:flex; flex-wrap:wrap; gap:8px; margin-bottom:8px; }
@@ -1477,7 +1477,7 @@
     /* DS: personalized "For you" feed rows */
     .fy-filters { margin:8px 0 12px; }
     .fy-filt { background:var(--surface); border:1px solid var(--line); border-radius:var(--radius-pill); padding:7px 13px; font:600 var(--fs-sm)/var(--lh-sm) var(--body); color:var(--muted); cursor:pointer; -webkit-tap-highlight-color:transparent; }
-    .fy-filt.on { background:var(--accent); border-color:var(--accent); color:var(--accent-ink); }
+    .fy-filt.on { background:var(--accent-grad); border-color:transparent; color:var(--accent-ink); }
     .fy-row { display:flex; align-items:center; gap:12px; padding:10px 0; border-bottom:1px solid var(--line); cursor:pointer; }
     .fy-row:last-child { border-bottom:none; }
     .fy-poster { position:relative; flex:none; width:54px; height:54px; border-radius:var(--radius); background-size:cover; background-position:center; background-color:var(--surface); }
@@ -1569,7 +1569,7 @@
     .rv-submit:disabled { opacity:0.5; }
     .rv-msg { margin-top:8px; color:var(--muted); font-size:var(--fs-sm); }
     /* "I've been" button active state + the venue-review sheet (stars + chips) */
-    .been-btn.on { background:var(--accent); color:var(--accent-ink); border-color:var(--accent); }
+    .been-btn.on { background:var(--accent-grad); color:var(--accent-ink); border-color:transparent; }
     .been-btn.on svg { stroke:var(--accent-ink); }
     .vrv-sub { color:var(--muted); font-size:var(--fs-sm); line-height:1.5; margin:6px 0 4px; }
     .vrv-q { font-size:var(--fs-sm); font-weight:600; color:var(--fg); margin:16px 0 8px; }
@@ -1626,7 +1626,7 @@
     .pf-segb { appearance:none; border:0; background:none; cursor:pointer; padding:8px 16px; border-radius:var(--radius-pill); font:700 var(--fs-sm)/var(--lh-sm) var(--head); text-transform:lowercase; color:var(--muted); display:inline-flex; align-items:center; gap:7px; -webkit-tap-highlight-color:transparent; transition:background .15s, color .15s; }
     .pf-segb .c { font:700 var(--fs-xs)/var(--lh-xs) var(--body); opacity:.7; }
     .pf-segb:not(.on):hover { color:var(--fg); }
-    .pf-segb.on { background:var(--sel); color:var(--sel-ink); }
+    .pf-segb.on { background:var(--accent-grad); color:var(--accent-ink); }
     .pf-box.hide { display:none; }   /* .hide only styled .fp-tabpanel — the pill switcher needs it on the shelf boxes too */
     /* profile DJ-set shelves (Set queue / Listened tabs) */
     .pf-setrow { display:flex; align-items:center; gap:12px; width:100%; background:none; border:0; border-top:1px solid var(--line); padding:10px 2px; cursor:pointer; text-align:left; color:var(--fg); -webkit-tap-highlight-color:transparent; }
@@ -1721,7 +1721,7 @@
     /* primary action (Tune in / Play next lineup) = accent-filled, matching .pf-btn.primary */
     .act-btn.radio { flex-basis:100%; background:var(--accent); border-color:var(--accent); color:var(--accent-ink); }
     .act-btn.radio:hover { color:var(--accent-ink); border-color:var(--accent); filter:brightness(1.06); }
-    .act-btn.radio.on { background:var(--accent); border-color:var(--accent); color:var(--accent-ink); }
+    .act-btn.radio.on { background:var(--accent-grad); border-color:transparent; color:var(--accent-ink); }
     .act-btn.on svg { fill:currentColor; stroke:currentColor; }
     .act-btn.radio svg { fill:none; stroke:currentColor; stroke-width:2; stroke-linecap:round; stroke-linejoin:round; }
     .act-btn.radio svg.brand path, .act-btn.radio svg.brand polygon { stroke:none; } /* YouTube logo keeps its own red/white fills */
@@ -1877,7 +1877,11 @@
     .rc-ftx { display:flex; flex-direction:column; gap:2px; min-width:0; }
     .rc-ftx b { font:800 var(--fs-sm)/var(--lh-sm) var(--head); }
     .rc-ftx span { font:600 var(--fs-2xs)/var(--lh-2xs) var(--font-mono,monospace); color:var(--muted); white-space:nowrap; overflow:hidden; text-overflow:ellipsis; }
-    .rc-actions { display:flex; align-items:center; gap:12px; margin-top:14px; }
+    /* Three actions on a narrow sheet: without flex-wrap the third one simply
+       overflowed the sheet — 'Copy link' hung outside the card. Wraps to a
+       second row at natural width (never stretched, per the button rules). */
+    .rc-actions { display:flex; flex-wrap:wrap; align-items:center; gap:10px; margin-top:14px; min-width:0; }
+    .rc-actions > * { white-space:nowrap; }
     .rc-hint { font:500 var(--fs-xs)/var(--lh-xs) var(--body); color:var(--muted); }
     /* ── profile: boxed cards (app design system) ── */
     .pf { max-width:640px; margin:0 auto; padding:14px 0 48px; display:flex; flex-direction:column; gap:14px; }   /* no side padding — .wrap already provides the mobile gutter (don't double it) */
@@ -3582,7 +3586,7 @@
   <!-- Umami analytics. defer so it never blocks first paint; the SPA rewrites
        history on navigation, which umami picks up automatically. -->
   <script defer src="https://cloud.umami.is/script.js" data-website-id="de210b6c-12e4-4819-95f6-f5120974855a"></script>
-<meta name="sc-build" content="1785160160994">
+<meta name="sc-build" content="1785162314734">
 </head>
 <body>
   <main class="wrap">
@@ -4879,6 +4883,9 @@
     function djHref(slug){ return slug?SC_BASE+'dj/'+encodeURIComponent(slug)+'/':''; }
     function venueHref(name, city){ return name?SC_BASE+encodeURIComponent(city||currentCity||'london')+'/club/'+venueSlug(name)+'/':''; }
     function evHref(id, who, venue){ return id!=null&&id!==''?SC_BASE+eventPath(id, who, venue)+'/':''; }
+    // Profile permalink. Real hrefs everywhere (the capture-phase router turns them
+    // into SPA navigation) so hover-URL, cmd-click and right-click all behave.
+    function profileHref(handle){ return handle?SC_BASE+'u/'+encodeURIComponent(handle)+'/':''; }
     // 1) Real <a class="nav"> links: on a MODIFIED click, stop the SPA click listeners
     //    (capture phase runs first) so the browser follows the href into a new tab. Plain
     //    clicks fall through to the element's own listener → in-app nav, no full reload.
@@ -6620,6 +6627,64 @@
       var boxes=segs.map(function(sg,i){ return '<div class="pf-box'+(i===0?'':' hide')+'" id="'+sg.boxId+'" data-sub="'+sg.sub+'"></div>'; }).join('');
       return pills+boxes;
     }
+    // ── People list: followers / following ────────────────────────────────────
+    // A plain list of humans with the follow state on each row. Every row's
+    // button acts on the VIEWER's relationship to that person, which is why the
+    // endpoint returns viewerFollows per row — otherwise the list would need a
+    // request per row to know what to render.
+    async function openPeople(handle, kind, who){
+      var title = kind==='following' ? 'Following' : 'Followers';
+      setRoute('u/'+handle+'/'+kind);
+      openPanel('<h2 class="page-title">'+esc(title)+'</h2>'+
+        '<div class="sub" style="margin-bottom:14px">'+esc(who)+'</div>'+
+        '<div id="ppl-body"><div class="empty" style="padding:16px 0"><span class="spinner"></span> Loading&hellip;</div></div>');
+      var j=null;
+      try{ j=await authedFetch('/api/follows?handle='+encodeURIComponent(handle)+'&kind='+kind).then(function(r){ return r.json(); }); }catch(_){}
+      var box=document.getElementById('ppl-body'); if(!box) return;
+      var people=(j&&j.people)||[];
+      if(j&&j.locked){
+        box.innerHTML='<div class="es"><span class="es-t">This profile is private</span><p class="es-s">Follow them to see who they&rsquo;re connected to.</p></div>';
+        return;
+      }
+      if(!people.length){
+        box.innerHTML='<div class="es"><span class="es-t">'+(kind==='following'?'Not following anyone yet':'No followers yet')+'</span>'+
+          '<p class="es-s">'+(kind==='following'
+            ? 'Following people puts their nights and their picks in your feed.'
+            : 'Share your profile and the people you go out with will show up here.')+'</p></div>';
+        return;
+      }
+      box.innerHTML='<div class="ppl">'+people.map(function(u){
+        var name=u.displayName||('u/'+u.handle);
+        return '<div class="ppl-row">'+
+          '<a class="ppl-av nav" href="'+esc(profileHref(u.handle))+'" data-handle="'+attrEsc(u.handle)+'" style="background-image:'+avatarBg(u.handle,u.avatar)+'"></a>'+
+          '<a class="ppl-tx nav" href="'+esc(profileHref(u.handle))+'" data-handle="'+attrEsc(u.handle)+'">'+
+            '<b>'+esc(name)+'</b><small>@'+esc(u.handle)+'</small></a>'+
+          (u.isMe ? '<span class="ppl-you">You</span>'
+                  : '<button class="pf-btn ppl-f'+(u.viewerFollows?' following':'')+'" type="button" data-f="'+attrEsc(u.handle)+'">'+
+                    (u.viewerFollows?'Following':'Follow')+'</button>')+
+        '</div>';
+      }).join('')+'</div>';
+      box.querySelectorAll('[data-handle]').forEach(function(a){
+        a.addEventListener('click',function(e){ e.preventDefault(); openProfile(a.dataset.handle); });
+      });
+      box.querySelectorAll('.ppl-f').forEach(function(b){
+        b.addEventListener('click', async function(){
+          if(!currentUser){ openAuth(); return; }
+          var on=b.classList.contains('following');
+          // Optimistic: the row flips immediately and reverts if the call fails.
+          b.classList.toggle('following', !on); b.textContent = on ? 'Follow' : 'Following'; b.disabled=true;
+          try{
+            var r=await authedFetch(on?'/api/unfollow':'/api/follow',{ method:'POST',
+              headers:{'Content-Type':'application/json'}, body:JSON.stringify({ handle:b.dataset.f }) });
+            if(!r.ok) throw 0;
+          }catch(_){
+            b.classList.toggle('following', on); b.textContent = on ? 'Following' : 'Follow';
+            showToast('Couldn\u2019t update that follow.');
+          }
+          b.disabled=false;
+        });
+      });
+    }
     function pbProfileHTML(p){
       var isMe=p.isMe, s=p.shelves||{}, st=p.stats||{}, diary=p.diary||[];
       var nights=st.gigs||diary.length||0;
@@ -6645,9 +6710,10 @@
         // each ribbon cell jumps to its tab (and inner segment) below
         '<div class="pfh-ribbon">'+
           '<div class="c" data-go="diary"><b>'+nights+'</b><span>Nights</span></div>'+
-          '<div class="c" data-go="artists" data-go-sub="seen"><b>'+venN+'</b><span>Venues</span></div>'+
           '<div class="c" data-go="artists" data-go-sub="seen"><b>'+seenN+'</b><span>Seen live</span></div>'+
           '<div class="c" data-go="artists" data-go-sub="wanna"><b>'+wannaN+'</b><span>Wanna see</span></div>'+
+          '<div class="c" data-people="followers"><b>'+(p.followers||0)+'</b><span>Followers</span></div>'+
+          '<div class="c" data-people="following"><b>'+(p.following||0)+'</b><span>Following</span></div>'+
         '</div>'+
       '</div></div>';
       // Sections as in-page tabs (only render a tab when it has content, matching the
@@ -6657,8 +6723,10 @@
       if(isMe) T.push({k:'coming',l:'Upcoming',html:'<div id="pf-coming"><div id="cu-scopebar"></div><div id="cu-lensbody"><div class="empty" style="padding:8px 6px">Loading…</div></div></div>'});
       // My Artists — Wanna see + Seen live merged behind an inner pill switcher.
       var artSegs=[];
-      if(isMe||wannaN) artSegs.push({sub:'wanna',label:'Wanna see',count:wannaN,boxId:'pf-wanna'});
+      // Same order as the ribbon above (Seen live then Wanna see) — the two read
+      // as one control, so they must not disagree about which comes first.
       if(isMe||seenN)  artSegs.push({sub:'seen', label:'Seen live', count:seenN, boxId:'pf-seen'});
+      if(isMe||wannaN) artSegs.push({sub:'wanna',label:'Wanna see',count:wannaN,boxId:'pf-wanna'});
       if(artSegs.length) T.push({k:'artists',l:'My Artists',c:(seenN+wannaN)||null,html:pfSegHTML(artSegs,'pf-share-art')});
       if(savedN) T.push({k:'saved',l:'Interested',c:savedN,html:'<div class="pf-box" id="pf-events"></div>'});
       // My Playlist — shared Playlists + Queue + Listened set-shelves behind an inner pill switcher.
@@ -6753,6 +6821,10 @@
         if(sub){ var sb=document.querySelector('.pf .fp-tabpanel[data-panel="'+cell.dataset.go+'"] .pf-segb[data-sub="'+sub+'"]'); if(sb) sb.click(); }
         var bar=document.querySelector('.pf-tabs'); if(bar) bar.scrollIntoView({ behavior:'smooth', block:'start' });
       }); });
+      // Followers / Following open a people list rather than jumping to a tab.
+      document.querySelectorAll('.pfh-ribbon .c[data-people]').forEach(function(cell){
+        cell.addEventListener('click',function(){ openPeople(p.handle, cell.dataset.people, p.displayName||('u/'+p.handle)); });
+      });
       var sh=document.getElementById('pb-share'); if(sh) sh.addEventListener('click',function(){ pbShareCard(p); });
       // per-section shares: My Artists = the scene card (it IS the artists);
       // My Playlist = a deep link straight to that tab.

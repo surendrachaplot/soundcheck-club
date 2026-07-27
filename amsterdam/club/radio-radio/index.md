@@ -1,8 +1,8 @@
 # Radio Radio
 
-Radio Radio is a music venue in Amsterdam with 11 upcoming nights listed on soundcheck as of Mon, 27 Jul 2026; the next is "ISAbella • Dee Diggs" on Fri, 31 Jul 2026.
+Radio Radio is a music venue in Amsterdam with 12 upcoming nights listed on soundcheck as of Mon, 27 Jul 2026; the next is "ISAbella • Dee Diggs" on Fri, 31 Jul 2026.
 
-Radio Radio is a music venue in Amsterdam listed on soundcheck. 11 upcoming nights, with line-ups including 36framez, Alexia Glensy, Andy Luff and Carlos Valdes and 2 more. Browse upcoming dates, start times and who's playing. Pazzanistraat 3.
+Radio Radio is a music venue in Amsterdam listed on soundcheck. 12 upcoming nights, with line-ups including 36framez, Alexia Glensy, Andy Luff and Carlos Valdes and 2 more. Browse upcoming dates, start times and who's playing. Pazzanistraat 3.
 
 ## What's on
 
@@ -15,9 +15,9 @@ Radio Radio is a music venue in Amsterdam listed on soundcheck. 11 upcoming nigh
 | Thu, 13 Aug 2026 | FERMI presents... Dita & Ezza | DITA (ID), Jiminal (2), Meniac |
 | Fri, 14 Aug 2026 | Doudou MD • mad miran | Doudou MD, mad miran |
 | Sat, 15 Aug 2026 | Samuel Deep • Cinnaman | Cinnaman, Samuel Deep |
+| Wed, 19 Aug 2026 | Tokyo Underground: Avant-garde Art of the Far East |  |
 | Fri, 21 Aug 2026 | Andy Luff • Alexia Glensy | Alexia Glensy, Andy Luff |
 | Sat, 22 Aug 2026 | DJ Life • Moxes • lizz.e | DJ Life, Moxes, lizz.e |
-| Fri, 28 Aug 2026 | Flo Masse • Kyra Khaldi • Same Faces | Flo Massé, Kyra Khaldi, SAMEFACES |
 
 ## Address
 
