@@ -1,6 +1,6 @@
 # Schwesta P
 
-Schwesta P is a Techno and Trance artist with 4 upcoming club dates listed on soundcheck as of Mon, 27 Jul 2026, next at BRET, Amsterdam on Sun, 16 Aug 2026.
+Schwesta P is a Techno and Trance artist with 4 upcoming club dates listed on soundcheck as of Tue, 28 Jul 2026, next at BRET, Amsterdam on Sun, 16 Aug 2026.
 
 Schwesta P is a techno and trance artist based in Germany, tracked on soundcheck, with 57 sets logged across Amsterdam, Berlin, Cologne and Dusseldorf and 7 more. Often billed alongside EliaHaze, Anton Jonathan and Carluschka. Next up: BRET, Amsterdam on Sun 16 Aug.
 
@@ -28,4 +28,4 @@ Schwesta P is a techno and trance artist based in Germany, tracked on soundcheck
 
 EliaHaze, Anton Jonathan, Carluschka
 
-*Updated Mon, 27 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/schwestap/)*
+*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/schwestap/)*

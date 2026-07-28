@@ -1,6 +1,6 @@
 # shekdash
 
-shekdash is a Techno and Club artist with 6 upcoming club dates listed on soundcheck as of Mon, 27 Jul 2026, next at Bossa Nova Civic Club, New York City on Sat, 1 Aug 2026.
+shekdash is a Techno and Club artist with 6 upcoming club dates listed on soundcheck as of Tue, 28 Jul 2026, next at Bossa Nova Civic Club, New York City on Sat, 1 Aug 2026.
 
 shekdash is a techno and club artist based in United States of America, tracked on soundcheck, with 82 sets logged across Boston, Chicago, Denver and Detroit and 12 more. Often billed alongside Tromac, DJ SWISHA and Daniro. Next up: Bossa Nova Civic Club, Newyorkcity on Sat 1 Aug.
 
@@ -30,4 +30,4 @@ shekdash is a techno and club artist based in United States of America, tracked 
 
 Tromac, DJ SWISHA, Daniro
 
-*Updated Mon, 27 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/shekdash/)*
+*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/shekdash/)*

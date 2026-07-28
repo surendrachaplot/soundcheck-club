@@ -1,6 +1,6 @@
 # Rafael
 
-Rafael is a House and Tech House artist with 4 upcoming club dates listed on soundcheck as of Mon, 27 Jul 2026, next at Crack Bellmer, Berlin on Thu, 20 Aug 2026.
+Rafael is a House and Tech House artist with 4 upcoming club dates listed on soundcheck as of Tue, 28 Jul 2026, next at Crack Bellmer, Berlin on Thu, 20 Aug 2026.
 
 Rafael is a house and tech house artist tracked on soundcheck, with 33 sets logged across Austin, Berlin, Chicago and Dublin and 10 more. Often billed alongside Flor Coto, Szew and Jamie Jones. Next up: Crack Bellmer, Berlin on Thu 20 Aug.
 
@@ -28,4 +28,4 @@ Rafael is a house and tech house artist tracked on soundcheck, with 33 sets logg
 
 Flor Coto, Szew, Jamie Jones
 
-*Updated Mon, 27 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/rafael/)*
+*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/rafael/)*

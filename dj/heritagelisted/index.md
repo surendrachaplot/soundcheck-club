@@ -1,6 +1,6 @@
 # Heritage Listed
 
-Heritage Listed is a House and Disco artist with 4 upcoming club dates listed on soundcheck as of Mon, 27 Jul 2026, next at Club NYX, Amsterdam on Wed, 29 Jul 2026.
+Heritage Listed is a House and Disco artist with 4 upcoming club dates listed on soundcheck as of Tue, 28 Jul 2026, next at Club NYX, Amsterdam on Wed, 29 Jul 2026.
 
 Heritage Listed is a house and disco artist tracked on soundcheck, with 25 sets logged across Amsterdam, Geneva, Melbourne and Paris. Often billed alongside Le Hutin, Kirilski and Pura Pachanga. Next up: Club NYX, Amsterdam on Wed 29 Jul.
 
@@ -28,4 +28,4 @@ Heritage Listed is a house and disco artist tracked on soundcheck, with 25 sets 
 
 Le Hutin, Kirilski, Pura Pachanga
 
-*Updated Mon, 27 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/heritagelisted/)*
+*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/heritagelisted/)*

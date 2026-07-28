@@ -1,14 +1,15 @@
 # KIM SWIM
 
-KIM SWIM is a Techno and Trance artist with 2 upcoming club dates listed on soundcheck as of Mon, 27 Jul 2026, next at Valley, Berlin on Sun, 2 Aug 2026.
+KIM SWIM is a Techno and Trance artist with 3 upcoming club dates listed on soundcheck as of Tue, 28 Jul 2026, next at Valley, Berlin on Sun, 2 Aug 2026.
 
-KIM SWIM is a techno and trance artist tracked on soundcheck, with 102 sets logged across Amsterdam, Antwerp, Basel and Berlin and 18 more. Often billed alongside Mika Heggemann, Trancemaster Krause and Alba Franch. Next up: Valley, Berlin on Sun 2 Aug.
+KIM SWIM is a techno and trance artist tracked on soundcheck, with 103 sets logged across Amsterdam, Antwerp, Basel and Berlin and 18 more. Often billed alongside Mika Heggemann, Trancemaster Krause and Alba Franch. Next up: Valley, Berlin on Sun 2 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sun, 2 Aug 2026 | Valley | Berlin |
+| Sat, 22 Aug 2026 | Spook Club | Valencia |
 | Fri, 28 Aug 2026 | Dürener Badesee | Cologne |
 
 ## Recently played
@@ -26,4 +27,4 @@ KIM SWIM is a techno and trance artist tracked on soundcheck, with 102 sets logg
 
 Mika Heggemann, Trancemaster Krause, Alba Franch
 
-*Updated Mon, 27 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/kimswim/)*
+*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/kimswim/)*

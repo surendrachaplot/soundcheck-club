@@ -1,6 +1,6 @@
 # Saint Ludo
 
-Saint Ludo is a Garage and Bass artist with 5 upcoming club dates listed on soundcheck as of Mon, 27 Jul 2026, next at Razzmatazz, Barcelona on Sat, 22 Aug 2026.
+Saint Ludo is a Garage and Bass artist with 5 upcoming club dates listed on soundcheck as of Tue, 28 Jul 2026, next at Razzmatazz, Barcelona on Sat, 22 Aug 2026.
 
 Saint Ludo is a garage and bass artist tracked on soundcheck, with 117 sets logged across Amsterdam, Antwerp, Auckland and Austin and 24 more. Often billed alongside Bakey, Y U QT and sim0ne. Next up: Razzmatazz, Barcelona on Sat 22 Aug.
 
@@ -29,4 +29,4 @@ Saint Ludo is a garage and bass artist tracked on soundcheck, with 117 sets logg
 
 Bakey, Y U QT, sim0ne
 
-*Updated Mon, 27 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/saintludo/)*
+*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/saintludo/)*

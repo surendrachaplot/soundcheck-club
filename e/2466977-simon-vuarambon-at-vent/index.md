@@ -1,6 +1,6 @@
 # Simon Vuarambon at VENT
 
-Simon Vuarambon at VENT on Sat 22 Aug, Tokyo. 1 act on the bill: Simon Vuarambon. House. Preview the line-up and save it on soundcheck.
+Simon Vuarambon at VENT on Sat 22 Aug, Tokyo. 7 acts on the bill: Conures (DJ Tokunaga), Kamekawa, Kotatsu and Midy and 3 more. House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,6 +10,12 @@ Simon Vuarambon at VENT on Sat 22 Aug, Tokyo. 1 act on the bill: Simon Vuarambon
 
 ## Line-up
 
+- Conures (DJ Tokunaga)
+- Kamekawa
+- Kotatsu
+- Midy
 - Simon Vuarambon
+- Vino (1)
+- yoshiken
 
 *Source: [soundcheck](https://soundcheck.club/e/2466977-simon-vuarambon-at-vent/)*

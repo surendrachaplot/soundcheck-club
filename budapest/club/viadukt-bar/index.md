@@ -1,14 +1,13 @@
 # Viadukt Bar
 
-Viadukt Bar is a music venue in Budapest with 8 upcoming nights listed on soundcheck as of Mon, 27 Jul 2026; the next is "Gather2gether at Viadukt" on Mon, 27 Jul 2026.
+Viadukt Bar is a music venue in Budapest with 7 upcoming nights listed on soundcheck as of Tue, 28 Jul 2026; the next is "Treehouse at Viadukt" on Tue, 28 Jul 2026.
 
-Viadukt Bar is a music venue in Budapest listed on soundcheck. 8 upcoming nights, with line-ups including Ben Dover, Daesmith, Daniel Meister and Nicolas Duvoisin and 2 more. Browse upcoming dates, start times and who's playing. 1053 Budapest, Jane Haning rakpart.
+Viadukt Bar is a music venue in Budapest listed on soundcheck. 7 upcoming nights, with line-ups including Daesmith, Daniel Meister, Nicolas Duvoisin and Octile. Browse upcoming dates, start times and who's playing. 1053 Budapest, Jane Haning rakpart.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Mon, 27 Jul 2026 | Gather2gether at Viadukt | Ben Dover, PÆBO |
 | Tue, 28 Jul 2026 | Treehouse at Viadukt |  |
 | Wed, 29 Jul 2026 | House of divercity | Daesmith |
 | Thu, 30 Jul 2026 | Waviness presents Feminine Energy |  |
@@ -21,4 +20,4 @@ Viadukt Bar is a music venue in Budapest listed on soundcheck. 8 upcoming nights
 
 1053 Budapest, Jane Haning rakpart, Budapest
 
-*Updated Mon, 27 Jul 2026 · source: [soundcheck](https://soundcheck.club/budapest/club/viadukt-bar/)*
+*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/budapest/club/viadukt-bar/)*

@@ -1,6 +1,6 @@
 # KOKO Electronic: Fideles at KOKO
 
-KOKO Electronic: Fideles on Sat 12 Sept, London. 1 act on the bill: Fideles. Preview the line-up and save it on soundcheck.
+KOKO Electronic: Fideles on Sat 12 Sept, London. 3 acts on the bill: Alan Dixon, Fideles and Niiomi. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,6 +10,8 @@ KOKO Electronic: Fideles on Sat 12 Sept, London. 1 act on the bill: Fideles. Pre
 
 ## Line-up
 
+- Alan Dixon
 - Fideles
+- Niiomi
 
 *Source: [soundcheck](https://soundcheck.club/e/2464942-koko-electronic-fideles-at-koko/)*

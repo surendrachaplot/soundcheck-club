@@ -1,14 +1,13 @@
 # Jamback
 
-Jamback is a House and Tech House artist with 13 upcoming club dates listed on soundcheck as of Mon, 27 Jul 2026, next at DC-10, Ibiza on Mon, 27 Jul 2026.
+Jamback is a House and Tech House artist with 12 upcoming club dates listed on soundcheck as of Tue, 28 Jul 2026, next at DC-10, Ibiza on Mon, 3 Aug 2026.
 
-Jamback is a house and tech house artist tracked on soundcheck, with 173 sets logged across Amsterdam, Antwerp, Austin and Barcelona and 36 more. Often billed alongside East End Dubs, Marsolo and ALISHA. Next up: DC-10, Ibiza on Mon 27 Jul.
+Jamback is a house and tech house artist tracked on soundcheck, with 173 sets logged across Amsterdam, Antwerp, Austin and Barcelona and 36 more. Often billed alongside East End Dubs, Marsolo and ALISHA. Next up: DC-10, Ibiza on Mon 3 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Mon, 27 Jul 2026 | DC-10 | Ibiza |
 | Mon, 3 Aug 2026 | DC-10 | Ibiza |
 | Sun, 9 Aug 2026 | Burgess Park | London |
 | Fri, 21 Aug 2026 | BK Backyard | New York City |
@@ -20,9 +19,11 @@ Jamback is a house and tech house artist tracked on soundcheck, with 173 sets lo
 | Fri, 18 Sept 2026 | UNO MALTA | Malta |
 | Sat, 26 Sept 2026 | Waterfront Park in San Diego | San Diego |
 | Sat, 3 Oct 2026 | Depot Mayfield | Manchester |
+| Sat, 24 Oct 2026 | Thuishaven | Amsterdam |
 
 ## Recently played
 
+- DC-10, Ibiza — Mon, 27 Jul 2026
 - Colorado Charlie, The Hague — Sun, 19 Jul 2026
 - Hembrugterrein, Amsterdam — Sat, 11 Jul 2026
 - Hï Ibiza, Ibiza — Tue, 30 Jun 2026
@@ -30,10 +31,9 @@ Jamback is a house and tech house artist tracked on soundcheck, with 173 sets lo
 - Heaton Park, Manchester — Sat, 20 Jun 2026
 - Parc del Fòrum, Barcelona — Fri, 19 Jun 2026
 - Bosc Tancat / Diverbosc, Barcelona — Thu, 18 Jun 2026
-- Bosc Tancat / Diverbosc, Barcelona — Thu, 18 Jun 2026
 
 ## Shares bills with
 
 East End Dubs, Marsolo, ALISHA
 
-*Updated Mon, 27 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/jamback/)*
+*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/jamback/)*

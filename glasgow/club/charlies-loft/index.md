@@ -1,6 +1,6 @@
 # Charlies Loft
 
-Charlies Loft is a music venue in Glasgow with 2 upcoming nights listed on soundcheck as of Mon, 27 Jul 2026; the next is "Generation GBX with George Bowie and friends" on Fri, 2 Oct 2026.
+Charlies Loft is a music venue in Glasgow with 2 upcoming nights listed on soundcheck as of Tue, 28 Jul 2026; the next is "Generation GBX with George Bowie and friends" on Fri, 2 Oct 2026.
 
 Charlies Loft is a music venue in Glasgow listed on soundcheck. 2 upcoming nights, with line-ups including Craig Charles, George Bowie and Michael Paterson. Browse upcoming dates, start times and who's playing. 14 Stewart St, Milngavie, Glasgow G62 6BY.
 
@@ -15,4 +15,4 @@ Charlies Loft is a music venue in Glasgow listed on soundcheck. 2 upcoming night
 
 14 Stewart St, Milngavie, Glasgow G62 6BY, Glasgow
 
-*Updated Mon, 27 Jul 2026 · source: [soundcheck](https://soundcheck.club/glasgow/club/charlies-loft/)*
+*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/glasgow/club/charlies-loft/)*

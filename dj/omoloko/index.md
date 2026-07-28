@@ -1,6 +1,6 @@
 # OMOLOKO
 
-OMOLOKO is a House and Techno artist with 4 upcoming club dates listed on soundcheck as of Mon, 27 Jul 2026, next at TBA - Paradies Garten Festival - Schloß Prugg 2, 2460 Gemeinde Bruck an der Leitha, Vienna on Fri, 31 Jul 2026.
+OMOLOKO is a House and Techno artist with 4 upcoming club dates listed on soundcheck as of Tue, 28 Jul 2026, next at TBA - Paradies Garten Festival - Schloß Prugg 2, 2460 Gemeinde Bruck an der Leitha, Vienna on Fri, 31 Jul 2026.
 
 OMOLOKO is a house and techno artist tracked on soundcheck, with 82 sets logged across Amsterdam, Antwerp, Athens and Bangkok and 26 more. Often billed alongside Kabulom, BADSISTA and Cashu. Next up: TBA - Paradies Garten Festival - Schloß Prugg 2, 2460 Gemeinde Bruck an der Leitha, Vienna on Fri 31 Jul.
 
@@ -28,4 +28,4 @@ OMOLOKO is a house and techno artist tracked on soundcheck, with 82 sets logged 
 
 Kabulom, BADSISTA, Cashu
 
-*Updated Mon, 27 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/omoloko/)*
+*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/omoloko/)*

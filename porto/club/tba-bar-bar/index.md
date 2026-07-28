@@ -1,6 +1,6 @@
 # TBA - Bar Bar
 
-TBA - Bar Bar is a music venue in Porto with 1 upcoming night listed on soundcheck as of Mon, 27 Jul 2026; the next is "Low-Key NOSSO" on Sat, 1 Aug 2026.
+TBA - Bar Bar is a music venue in Porto with 1 upcoming night listed on soundcheck as of Tue, 28 Jul 2026; the next is "Low-Key NOSSO" on Sat, 1 Aug 2026.
 
 TBA - Bar Bar is a music venue in Porto listed on soundcheck. 1 upcoming night. Browse upcoming dates, start times and who's playing.
 
@@ -10,4 +10,4 @@ TBA - Bar Bar is a music venue in Porto listed on soundcheck. 1 upcoming night. 
 | --- | --- | --- |
 | Sat, 1 Aug 2026 | Low-Key NOSSO |  |
 
-*Updated Mon, 27 Jul 2026 · source: [soundcheck](https://soundcheck.club/porto/club/tba-bar-bar/)*
+*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/porto/club/tba-bar-bar/)*

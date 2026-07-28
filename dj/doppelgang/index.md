@@ -1,6 +1,6 @@
 # Doppelgang
 
-Doppelgang is a House and Techno artist with 7 upcoming club dates listed on soundcheck as of Mon, 27 Jul 2026, next at Skatecafe, Amsterdam on Sat, 1 Aug 2026.
+Doppelgang is a House and Techno artist with 7 upcoming club dates listed on soundcheck as of Tue, 28 Jul 2026, next at Skatecafe, Amsterdam on Sat, 1 Aug 2026.
 
 Doppelgang is a house and techno artist tracked on soundcheck, with 107 sets logged across Amsterdam, Antwerp, Berlin and Brussels and 13 more. Often billed alongside TWIENA, Lola Edo and Elias Mazian. Next up: Skatecafe, Amsterdam on Sat 1 Aug.
 
@@ -31,4 +31,4 @@ Doppelgang is a house and techno artist tracked on soundcheck, with 107 sets log
 
 TWIENA, Lola Edo, Elias Mazian
 
-*Updated Mon, 27 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/doppelgang/)*
+*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/doppelgang/)*

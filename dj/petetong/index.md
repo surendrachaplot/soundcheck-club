@@ -1,6 +1,6 @@
 # Pete Tong
 
-Pete Tong is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Mon, 27 Jul 2026, next at Ushuaïa Ibiza, Ibiza on Tue, 28 Jul 2026.
+Pete Tong is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Tue, 28 Jul 2026, next at Ushuaïa Ibiza, Ibiza on Tue, 28 Jul 2026.
 
 Pete Tong is a house and techno artist based in United Kingdom, tracked on soundcheck, with 49 sets logged across Amsterdam, Austin, Berlin and Bristol and 12 more. Often billed alongside Jaguar, Airrica and Arielle Free. Next up: Ushuaïa Ibiza, Ibiza on Tue 28 Jul.
 
@@ -27,4 +27,4 @@ Pete Tong is a house and techno artist based in United Kingdom, tracked on sound
 
 Jaguar, Airrica, Arielle Free
 
-*Updated Mon, 27 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/petetong/)*
+*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/petetong/)*

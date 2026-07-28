@@ -1,6 +1,6 @@
 # Bonzai Bonner
 
-Bonzai Bonner is a Italo Disco and House artist with 2 upcoming club dates listed on soundcheck as of Mon, 27 Jul 2026, next at The Berkeley Suite, Glasgow on Sat, 15 Aug 2026.
+Bonzai Bonner is a Italo Disco and House artist with 2 upcoming club dates listed on soundcheck as of Tue, 28 Jul 2026, next at The Berkeley Suite, Glasgow on Sat, 15 Aug 2026.
 
 Bonzai Bonner is an italo disco and house artist tracked on soundcheck, with 68 sets logged across Belfast, Berlin, Dublin and Edinburgh and 6 more. Often billed alongside Anna Gram, LEZZER QUEST and Angel D'lite. Next up: The Berkeley Suite, Glasgow on Sat 15 Aug.
 
@@ -26,4 +26,4 @@ Bonzai Bonner is an italo disco and house artist tracked on soundcheck, with 68 
 
 Anna Gram, LEZZER QUEST, Angel D'lite
 
-*Updated Mon, 27 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/bonzaibonner/)*
+*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/bonzaibonner/)*

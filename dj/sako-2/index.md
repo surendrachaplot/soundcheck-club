@@ -1,6 +1,6 @@
 # Sako (2)
 
-Sako (2) is a Techno and Ghetto Tech artist with 3 upcoming club dates listed on soundcheck as of Mon, 27 Jul 2026, next at TBA, Montreal on Fri, 31 Jul 2026.
+Sako (2) is a Techno and Ghetto Tech artist with 3 upcoming club dates listed on soundcheck as of Tue, 28 Jul 2026, next at TBA, Montreal on Fri, 31 Jul 2026.
 
 Sako (2) is a techno and ghetto tech artist based in United States of America, tracked on soundcheck, with 9 sets logged across Montreal. Often billed alongside Kiju, Lis Dalton and MIASALAV. Next up: TBA, Montreal on Fri 31 Jul.
 
@@ -25,4 +25,4 @@ Sako (2) is a techno and ghetto tech artist based in United States of America, t
 
 Kiju, Lis Dalton, MIASALAV
 
-*Updated Mon, 27 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/sako-2/)*
+*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/sako-2/)*

@@ -1,8 +1,8 @@
 # FUMI
 
-FUMI is a Techno and Industrial artist with 7 upcoming club dates listed on soundcheck as of Mon, 27 Jul 2026, next at TBA - Paradies Garten Festival - Schloß Prugg 2, 2460 Gemeinde Bruck an der Leitha, Vienna on Fri, 31 Jul 2026.
+FUMI is a Techno and Industrial artist with 9 upcoming club dates listed on soundcheck as of Tue, 28 Jul 2026, next at TBA - Paradies Garten Festival - Schloß Prugg 2, 2460 Gemeinde Bruck an der Leitha, Vienna on Fri, 31 Jul 2026.
 
-FUMI is a techno and industrial artist tracked on soundcheck, with 91 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 25 more. Often billed alongside EVE (1), Monk000 and Adrian Mills. Next up: TBA - Paradies Garten Festival - Schloß Prugg 2, 2460 Gemeinde Bruck an der Leitha, Vienna on Fri 31 Jul.
+FUMI is a techno and industrial artist tracked on soundcheck, with 93 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 26 more. Often billed alongside EVE (1), Monk000 and Adrian Mills. Next up: TBA - Paradies Garten Festival - Schloß Prugg 2, 2460 Gemeinde Bruck an der Leitha, Vienna on Fri 31 Jul.
 
 ## Upcoming shows
 
@@ -11,10 +11,12 @@ FUMI is a techno and industrial artist tracked on soundcheck, with 91 sets logge
 | Fri, 31 Jul 2026 | TBA - Paradies Garten Festival - Schloß Prugg 2, 2460 Gemeinde Bruck an der Leitha | Vienna |
 | Fri, 31 Jul 2026 | Arzenal | Budapest |
 | Sat, 8 Aug 2026 | Munich Beach Resort | Munich |
+| Sat, 8 Aug 2026 | Lion Super Club | Seoul |
 | Mon, 10 Aug 2026 | ZEROTOKYO | Tokyo |
 | Sun, 16 Aug 2026 | Amnesia Ibiza | Ibiza |
 | Fri, 28 Aug 2026 | Dürener Badesee | Cologne |
 | Tue, 1 Sept 2026 | Eden | Ibiza |
+| Sat, 26 Sept 2026 | Theata | London |
 
 ## Recently played
 
@@ -31,4 +33,4 @@ FUMI is a techno and industrial artist tracked on soundcheck, with 91 sets logge
 
 EVE (1), Monk000, Adrian Mills
 
-*Updated Mon, 27 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/fumi/)*
+*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/fumi/)*

@@ -1,6 +1,6 @@
 # Grand Empire
 
-Grand Empire is a music venue in London with 1 upcoming night listed on soundcheck as of Mon, 27 Jul 2026; the next is "Bashment & Afrobeats - South London Party - Everyone Free Before 12AM" on Sat, 1 Aug 2026.
+Grand Empire is a music venue in London with 1 upcoming night listed on soundcheck as of Tue, 28 Jul 2026; the next is "Bashment & Afrobeats - South London Party - Everyone Free Before 12AM" on Sat, 1 Aug 2026.
 
 Grand Empire is a music venue in London listed on soundcheck. 1 upcoming night. Browse upcoming dates, start times and who's playing. 108-110 Rushey Grn, London SE6 4HW.
 
@@ -14,4 +14,4 @@ Grand Empire is a music venue in London listed on soundcheck. 1 upcoming night. 
 
 108-110 Rushey Grn, London SE6 4HW, London
 
-*Updated Mon, 27 Jul 2026 · source: [soundcheck](https://soundcheck.club/london/club/grand-empire/)*
+*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/london/club/grand-empire/)*

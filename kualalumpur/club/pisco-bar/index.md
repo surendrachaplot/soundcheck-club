@@ -1,6 +1,6 @@
 # Pisco Bar
 
-Pisco Bar is a music venue in Kuala Lumpur with 2 upcoming nights listed on soundcheck as of Mon, 27 Jul 2026; the next is "LESS IS MORE x NWHR x ROGUE INSTINCT pres. 7CIRCLE [ITA]" on Fri, 31 Jul 2026.
+Pisco Bar is a music venue in Kuala Lumpur with 2 upcoming nights listed on soundcheck as of Tue, 28 Jul 2026; the next is "LESS IS MORE x NWHR x ROGUE INSTINCT pres. 7CIRCLE [ITA]" on Fri, 31 Jul 2026.
 
 Pisco Bar is a music venue in Kualalumpur listed on soundcheck. 2 upcoming nights, with line-ups including 7CIRCLE, Alam, Henning Baer and Heuremin (MY) and 2 more. Browse upcoming dates, start times and who's playing. 29 Jalan Mesui, Changkat.
 
@@ -15,4 +15,4 @@ Pisco Bar is a music venue in Kualalumpur listed on soundcheck. 2 upcoming night
 
 29 Jalan Mesui, Changkat, Kuala Lumpur
 
-*Updated Mon, 27 Jul 2026 · source: [soundcheck](https://soundcheck.club/kualalumpur/club/pisco-bar/)*
+*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/kualalumpur/club/pisco-bar/)*

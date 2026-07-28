@@ -1,6 +1,6 @@
 # Homage Brewing
 
-Homage Brewing is a music venue in Los Angeles with 1 upcoming night listed on soundcheck as of Mon, 27 Jul 2026; the next is "Night Moves feat. NAP, Hashman Deejay, and Luke Mele" on Fri, 31 Jul 2026.
+Homage Brewing is a music venue in Los Angeles with 1 upcoming night listed on soundcheck as of Tue, 28 Jul 2026; the next is "Night Moves feat. NAP, Hashman Deejay, and Luke Mele" on Fri, 31 Jul 2026.
 
 Homage Brewing is a music venue in Losangeles listed on soundcheck. 1 upcoming night, with line-ups including Hashman Deejay, Luke Mele and NAP (MX). Browse upcoming dates, start times and who's playing. 1219 N Main St, Los Angeles, CA 90012.
 
@@ -14,4 +14,4 @@ Homage Brewing is a music venue in Losangeles listed on soundcheck. 1 upcoming n
 
 1219 N Main St, Los Angeles, CA 90012, Los Angeles
 
-*Updated Mon, 27 Jul 2026 · source: [soundcheck](https://soundcheck.club/losangeles/club/homage-brewing/)*
+*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/losangeles/club/homage-brewing/)*

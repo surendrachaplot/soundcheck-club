@@ -1,6 +1,6 @@
 # Beat Boutique
 
-Beat Boutique is a music venue in Hamburg with 3 upcoming nights listed on soundcheck as of Mon, 27 Jul 2026; the next is "PING PONG PARTY" on Wed, 29 Jul 2026.
+Beat Boutique is a music venue in Hamburg with 3 upcoming nights listed on soundcheck as of Tue, 28 Jul 2026; the next is "PING PONG PARTY" on Wed, 29 Jul 2026.
 
 Beat Boutique is a music venue in Hamburg listed on soundcheck. 3 upcoming nights, with line-ups including babey, lexpon, NoraDrenalin and STOECKER_ and 1 more. Browse upcoming dates, start times and who's playing. Altländer Str. 12, 20095 Hamburg, Germany.
 
@@ -16,4 +16,4 @@ Beat Boutique is a music venue in Hamburg listed on soundcheck. 3 upcoming night
 
 Altländer Str. 12, 20095 Hamburg, Germany, Hamburg
 
-*Updated Mon, 27 Jul 2026 · source: [soundcheck](https://soundcheck.club/hamburg/club/beat-boutique/)*
+*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/hamburg/club/beat-boutique/)*

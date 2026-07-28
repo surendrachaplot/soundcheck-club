@@ -1,6 +1,6 @@
 # Mia Koden / Beatrice M / special guest {DAY} at The White Hotel
 
-Mia Koden / Beatrice M / special guest {DAY} at The White Hotel on Sat 5 Sept, Manchester. 2 acts on the bill: Beatrice M. and Mia Koden. Dubstep and Grime. Preview the line-up and save it on soundcheck.
+Mia Koden / Beatrice M / special guest {DAY} at The White Hotel on Sat 5 Sept, Manchester. 2 acts on the bill: Beatrice M. and Mia Koden. Dub and Dubstep. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

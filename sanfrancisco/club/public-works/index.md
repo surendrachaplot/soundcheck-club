@@ -1,8 +1,8 @@
 # Public Works
 
-Public Works is a music venue in San Francisco/Oakland with 16 upcoming nights listed on soundcheck as of Mon, 27 Jul 2026; the next is "Club Blush: An Ethereal & Euphoric Dance Night" on Fri, 31 Jul 2026.
+Public Works is a music venue in San Francisco/Oakland with 17 upcoming nights listed on soundcheck as of Tue, 28 Jul 2026; the next is "Club Blush: An Ethereal & Euphoric Dance Night" on Fri, 31 Jul 2026.
 
-Public Works is a music venue in Sanfrancisco listed on soundcheck. 16 upcoming nights, with line-ups including AGROPOL, Asymmetry, Benjamin K and Beverly Chills and 2 more. Browse upcoming dates, start times and who's playing. 161 Erie Street, San Francisco, CA 94103, United States.
+Public Works is a music venue in Sanfrancisco listed on soundcheck. 17 upcoming nights, with line-ups including AGROPOL, Asymmetry, Benjamin K and Beverly Chills and 2 more. Browse upcoming dates, start times and who's playing. 161 Erie Street, San Francisco, CA 94103, United States.
 
 ## What's on
 
@@ -23,4 +23,4 @@ Public Works is a music venue in Sanfrancisco listed on soundcheck. 16 upcoming 
 
 161 Erie Street, San Francisco, CA 94103, United States, San Francisco/Oakland
 
-*Updated Mon, 27 Jul 2026 · source: [soundcheck](https://soundcheck.club/sanfrancisco/club/public-works/)*
+*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/sanfrancisco/club/public-works/)*

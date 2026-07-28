@@ -1,6 +1,6 @@
 # Phonica Records
 
-Phonica Records is a music venue in London with 2 upcoming nights listed on soundcheck as of Mon, 27 Jul 2026; the next is "fabric x Phonica Records Instore - Mount Kimbie (DJ Set), Yu Su" on Wed, 29 Jul 2026.
+Phonica Records is a music venue in London with 2 upcoming nights listed on soundcheck as of Tue, 28 Jul 2026; the next is "fabric x Phonica Records Instore - Mount Kimbie (DJ Set), Yu Su" on Wed, 29 Jul 2026.
 
 Phonica Records is a music venue in London listed on soundcheck. 2 upcoming nights, with line-ups including Kode9, Mount Kimbie and Yu Su. Browse upcoming dates, start times and who's playing. 51 Poland Street; Soho; London W1F 7RJ; United Kingdom.
 
@@ -15,4 +15,4 @@ Phonica Records is a music venue in London listed on soundcheck. 2 upcoming nigh
 
 51 Poland Street; Soho; London W1F 7RJ; United Kingdom, London
 
-*Updated Mon, 27 Jul 2026 · source: [soundcheck](https://soundcheck.club/london/club/phonica-records/)*
+*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/london/club/phonica-records/)*

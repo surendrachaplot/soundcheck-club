@@ -1,6 +1,6 @@
 # Makoto
 
-Makoto is a Drum & Bass and Jungle artist with 2 upcoming club dates listed on soundcheck as of Mon, 27 Jul 2026, next at Hackney Wick Multiple Venues, London on Sat, 1 Aug 2026.
+Makoto is a Drum & Bass and Jungle artist with 2 upcoming club dates listed on soundcheck as of Tue, 28 Jul 2026, next at Hackney Wick Multiple Venues, London on Sat, 1 Aug 2026.
 
 Makoto is a drum & bass and jungle artist tracked on soundcheck, with 81 sets logged across Amsterdam, Auckland, Austin and Belgrade and 27 more. Often billed alongside London Elektricity, DJ Marky and Fred V. Next up: Hackney Wick Multiple Venues, London on Sat 1 Aug.
 
@@ -26,4 +26,4 @@ Makoto is a drum & bass and jungle artist tracked on soundcheck, with 81 sets lo
 
 London Elektricity, DJ Marky, Fred V
 
-*Updated Mon, 27 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/makoto/)*
+*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/makoto/)*

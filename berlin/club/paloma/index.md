@@ -1,8 +1,8 @@
 # Paloma
 
-Paloma is a music venue in Berlin with 10 upcoming nights listed on soundcheck as of Mon, 27 Jul 2026; the next is "Paloma Invites" on Fri, 31 Jul 2026.
+Paloma is a music venue in Berlin with 11 upcoming nights listed on soundcheck as of Tue, 28 Jul 2026; the next is "Paloma Invites" on Fri, 31 Jul 2026.
 
-Paloma is a music venue in Berlin listed on soundcheck. 10 upcoming nights, with line-ups including 11:68PM, Arnaud Denzler, Balthazar Martinez and bb:fm and 2 more. Browse upcoming dates, start times and who's playing. Skalitzer Str. 135, 10999 Berlin.
+Paloma is a music venue in Berlin listed on soundcheck. 11 upcoming nights, with line-ups including 11:68PM, Arnaud Denzler, Balthazar Martinez and bb:fm and 2 more. Browse upcoming dates, start times and who's playing. Skalitzer Str. 135, 10999 Berlin.
 
 ## What's on
 
@@ -17,10 +17,10 @@ Paloma is a music venue in Berlin listed on soundcheck. 10 upcoming nights, with
 | Sat, 22 Aug 2026 | THE GET DOWN with Mandel Turner, Balthazar Martinez, Arnaud Denzler | Arnaud Denzler, Balthazar Martinez, Mandel Turner |
 | Sat, 29 Aug 2026 | Aquatic Travellers Vol. 12 x Mechatronica | Black Mirror Park, Milan Hermess, bb:fm, mu”he |
 | Sat, 5 Sept 2026 | Paloma Invites | Moplen |
-| Sun, 27 Sept 2026 | Gentle Reminder | Bézier |
+| Sat, 26 Sept 2026 | Power Disco - The 9th Anniversary Edition | Conor L, Filippo Moscatello, Finn Johannsen |
 
 ## Address
 
 Skalitzer Str. 135, 10999 Berlin, Berlin
 
-*Updated Mon, 27 Jul 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/paloma/)*
+*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/paloma/)*

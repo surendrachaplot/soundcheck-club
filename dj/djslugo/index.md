@@ -1,6 +1,6 @@
 # DJ Slugo
 
-DJ Slugo is a Ghetto Tech and House artist with 3 upcoming club dates listed on soundcheck as of Mon, 27 Jul 2026, next at F8 1192 Folsom, San Francisco/Oakland on Fri, 31 Jul 2026.
+DJ Slugo is a Ghetto Tech and House artist with 3 upcoming club dates listed on soundcheck as of Tue, 28 Jul 2026, next at F8 1192 Folsom, San Francisco/Oakland on Fri, 31 Jul 2026.
 
 DJ Slugo is a ghetto tech and house artist tracked on soundcheck, with 66 sets logged across Amsterdam, Boston, Chicago and Detroit and 10 more. Often billed alongside Traxman, DJ Clent and DJ Godfather. Next up: F8 1192 Folsom, Sanfrancisco on Fri 31 Jul.
 
@@ -27,4 +27,4 @@ DJ Slugo is a ghetto tech and house artist tracked on soundcheck, with 66 sets l
 
 Traxman, DJ Clent, DJ Godfather
 
-*Updated Mon, 27 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/djslugo/)*
+*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/djslugo/)*

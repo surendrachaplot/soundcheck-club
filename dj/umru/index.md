@@ -1,6 +1,6 @@
 # umru
 
-umru is a Club and Pop artist with 5 upcoming club dates listed on soundcheck as of Mon, 27 Jul 2026, next at TBA - Mission Four (Ace*Mission Studios) 560 S Mission Rd, Los Angeles, CA 90033, Los Angeles on Fri, 31 Jul 2026.
+umru is a Club and Pop artist with 5 upcoming club dates listed on soundcheck as of Tue, 28 Jul 2026, next at TBA - Mission Four (Ace*Mission Studios) 560 S Mission Rd, Los Angeles, CA 90033, Los Angeles on Fri, 31 Jul 2026.
 
 umru is a club and pop artist based in United States of America, tracked on soundcheck, with 145 sets logged across Amsterdam, Auckland, Barcelona and Berlin and 40 more. Often billed alongside Petal Supply, Warpstr and GRRL. Next up: TBA - Mission Four (Ace*Mission Studios) 560 S Mission Rd, Los Angeles, CA 90033, Losangeles on Fri 31 Jul.
 
@@ -29,4 +29,4 @@ umru is a club and pop artist based in United States of America, tracked on soun
 
 Petal Supply, Warpstr, GRRL
 
-*Updated Mon, 27 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/umru/)*
+*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/umru/)*

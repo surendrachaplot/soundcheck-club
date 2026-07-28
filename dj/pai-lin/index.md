@@ -1,6 +1,6 @@
 # pai-lin
 
-pai-lin is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Mon, 27 Jul 2026, next at Jolene, Copenhagen on Fri, 31 Jul 2026.
+pai-lin is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Tue, 28 Jul 2026, next at Jolene, Copenhagen on Fri, 31 Jul 2026.
 
 pai-lin is a techno and house artist based in Denmark, tracked on soundcheck, with 44 sets logged across Copenhagen. Often billed alongside Thodén, Leoh and Teison. Next up: Jolene, Copenhagen on Fri 31 Jul.
 
@@ -26,4 +26,4 @@ pai-lin is a techno and house artist based in Denmark, tracked on soundcheck, wi
 
 Thodén, Leoh, Teison
 
-*Updated Mon, 27 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/pai-lin/)*
+*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/pai-lin/)*

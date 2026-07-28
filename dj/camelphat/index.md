@@ -1,8 +1,8 @@
 # CamelPhat
 
-CamelPhat is a Techno and House artist with 19 upcoming club dates listed on soundcheck as of Mon, 27 Jul 2026, next at Donauinsel, Vienna on Sat, 1 Aug 2026.
+CamelPhat is a Techno and House artist with 20 upcoming club dates listed on soundcheck as of Tue, 28 Jul 2026, next at Donauinsel, Vienna on Sat, 1 Aug 2026.
 
-CamelPhat is a techno and house artist tracked on soundcheck, with 202 sets logged across Amsterdam, Athens, Austin and Bali and 37 more. Often billed alongside Layla Benitez, Massano and Hot Since 82. Next up: Donauinsel, Vienna on Sat 1 Aug.
+CamelPhat is a techno and house artist tracked on soundcheck, with 203 sets logged across Amsterdam, Athens, Austin and Bali and 37 more. Often billed alongside Layla Benitez, Massano and Hot Since 82. Next up: Donauinsel, Vienna on Sat 1 Aug.
 
 ## Upcoming shows
 
@@ -36,4 +36,4 @@ CamelPhat is a techno and house artist tracked on soundcheck, with 202 sets logg
 
 Layla Benitez, Massano, Hot Since 82
 
-*Updated Mon, 27 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/camelphat/)*
+*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/camelphat/)*

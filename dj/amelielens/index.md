@@ -1,6 +1,6 @@
 # Amelie Lens
 
-Amelie Lens is a Techno and House artist with 11 upcoming club dates listed on soundcheck as of Mon, 27 Jul 2026, next at Parc Jean-Drapeau, Montreal on Fri, 31 Jul 2026.
+Amelie Lens is a Techno and House artist with 11 upcoming club dates listed on soundcheck as of Tue, 28 Jul 2026, next at Parc Jean-Drapeau, Montreal on Fri, 31 Jul 2026.
 
 Amelie Lens is a techno and house artist tracked on soundcheck, with 141 sets logged across Amsterdam, Antwerp, Athens and Austin and 55 more. Often billed alongside Farrago, Milo Spykers and Adiel. Next up: Parc Jean-Drapeau, Montreal on Fri 31 Jul.
 
@@ -35,4 +35,4 @@ Amelie Lens is a techno and house artist tracked on soundcheck, with 141 sets lo
 
 Farrago, Milo Spykers, Adiel
 
-*Updated Mon, 27 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/amelielens/)*
+*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/amelielens/)*

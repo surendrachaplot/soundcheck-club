@@ -1,6 +1,6 @@
 # Klunkerkranich
 
-Klunkerkranich is a music venue in Berlin with 11 upcoming nights listed on soundcheck as of Mon, 27 Jul 2026; the next is "BLAUES STÜNDCHEN w. babxi" on Tue, 28 Jul 2026.
+Klunkerkranich is a music venue in Berlin with 11 upcoming nights listed on soundcheck as of Tue, 28 Jul 2026; the next is "BLAUES STÜNDCHEN w. babxi" on Tue, 28 Jul 2026.
 
 Klunkerkranich is a music venue in Berlin listed on soundcheck. 11 upcoming nights, with line-ups including ailin, Andeel, babxi and Ben Pavlidis and 2 more. Browse upcoming dates, start times and who's playing. Karl-Marx-Straße 66, 12043 Berlin.
 
@@ -23,4 +23,4 @@ Klunkerkranich is a music venue in Berlin listed on soundcheck. 11 upcoming nigh
 
 Karl-Marx-Straße 66, 12043 Berlin, Berlin
 
-*Updated Mon, 27 Jul 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/klunkerkranich/)*
+*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/klunkerkranich/)*

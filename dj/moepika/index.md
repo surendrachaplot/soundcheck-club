@@ -1,6 +1,6 @@
 # MoEPiKA
 
-MoEPiKA is a Techno and Bass artist with 3 upcoming club dates listed on soundcheck as of Mon, 27 Jul 2026, next at Enter Shibuya, Tokyo on Fri, 31 Jul 2026.
+MoEPiKA is a Techno and Bass artist with 3 upcoming club dates listed on soundcheck as of Tue, 28 Jul 2026, next at Enter Shibuya, Tokyo on Fri, 31 Jul 2026.
 
 MoEPiKA is a techno and bass artist tracked on soundcheck, with 149 sets logged across Osaka, Seoul and Tokyo. Often billed alongside ecec, YUVIE and Romy Mats. Next up: Enter Shibuya, Tokyo on Fri 31 Jul.
 
@@ -27,4 +27,4 @@ MoEPiKA is a techno and bass artist tracked on soundcheck, with 149 sets logged 
 
 ecec, YUVIE, Romy Mats
 
-*Updated Mon, 27 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/moepika/)*
+*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/moepika/)*

@@ -1,6 +1,6 @@
 # Finnebassen
 
-Finnebassen is a House and Deep House artist with 3 upcoming club dates listed on soundcheck as of Mon, 27 Jul 2026, next at Jaeger, Oslo on Fri, 21 Aug 2026.
+Finnebassen is a House and Deep House artist with 3 upcoming club dates listed on soundcheck as of Tue, 28 Jul 2026, next at Jaeger, Oslo on Fri, 21 Aug 2026.
 
 Finnebassen is a house and deep house artist tracked on soundcheck, with 21 sets logged across London, Malta, Manchester and Melbourne and 1 more. Often billed alongside G-HA, Olanskii and George Mensah. Next up: Jaeger, Oslo on Fri 21 Aug.
 
@@ -27,4 +27,4 @@ Finnebassen is a house and deep house artist tracked on soundcheck, with 21 sets
 
 G-HA, Olanskii, George Mensah
 
-*Updated Mon, 27 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/finnebassen/)*
+*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/finnebassen/)*

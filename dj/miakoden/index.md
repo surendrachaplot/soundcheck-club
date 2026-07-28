@@ -1,6 +1,6 @@
 # Mia Koden
 
-Mia Koden is a Bass and Techno artist with 10 upcoming club dates listed on soundcheck as of Mon, 27 Jul 2026, next at Amsterdamse Bos, Amsterdam on Wed, 29 Jul 2026.
+Mia Koden is a Bass and Techno artist with 10 upcoming club dates listed on soundcheck as of Tue, 28 Jul 2026, next at Amsterdamse Bos, Amsterdam on Wed, 29 Jul 2026.
 
 Mia Koden is a bass and techno artist tracked on soundcheck, with 150 sets logged across Amsterdam, Antwerp, Athens and Auckland and 45 more. Often billed alongside Skee Mask, DjRUM and Mala. Next up: Amsterdamse Bos, Amsterdam on Wed 29 Jul.
 
@@ -34,4 +34,4 @@ Mia Koden is a bass and techno artist tracked on soundcheck, with 150 sets logge
 
 Skee Mask, DjRUM, Mala
 
-*Updated Mon, 27 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/miakoden/)*
+*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/miakoden/)*

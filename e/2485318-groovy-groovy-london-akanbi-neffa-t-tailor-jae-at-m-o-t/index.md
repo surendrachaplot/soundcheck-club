@@ -1,6 +1,6 @@
 # GROOVY GROOVY London — Akanbi, Neffa-T & Tailor Jae at M.O.T
 
-GROOVY GROOVY London — Akanbi, Neffa-T & Tailor Jae at M.O.T on Fri 7 Aug, London. 3 acts on the bill: Akanbi, Neffa-T and Tailor Jae. Techno and Afrobeats. Preview the line-up and save it on soundcheck.
+GROOVY GROOVY London — Akanbi, Neffa-T & Tailor Jae at M.O.T on Fri 7 Aug, London. 3 acts on the bill: Akanbi, Neffa-T and Tailor Jae. Techno and Grime. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

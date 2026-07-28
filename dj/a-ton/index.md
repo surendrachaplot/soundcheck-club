@@ -1,6 +1,6 @@
 # A-TØN
 
-A-TØN is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Mon, 27 Jul 2026, next at Hillhead Bookclub, Glasgow on Fri, 31 Jul 2026.
+A-TØN is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Tue, 28 Jul 2026, next at Hillhead Bookclub, Glasgow on Fri, 31 Jul 2026.
 
 A-TØN is a techno and house artist based in United Kingdom, tracked on soundcheck, with 30 sets logged across Aberdeen, Dundee, Edinburgh and Glasgow. Often billed alongside Amizl, CRØØK.T.D and Corran. Next up: Hillhead Bookclub, Glasgow on Fri 31 Jul.
 
@@ -26,4 +26,4 @@ A-TØN is a techno and house artist based in United Kingdom, tracked on soundche
 
 Amizl, CRØØK.T.D, Corran
 
-*Updated Mon, 27 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/a-ton/)*
+*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/a-ton/)*

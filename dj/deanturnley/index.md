@@ -1,14 +1,13 @@
 # Dean Turnley
 
-Dean Turnley is a House and Tech House artist with 13 upcoming club dates listed on soundcheck as of Mon, 27 Jul 2026, next at DC-10, Ibiza on Mon, 27 Jul 2026.
+Dean Turnley is a House and Tech House artist with 12 upcoming club dates listed on soundcheck as of Tue, 28 Jul 2026, next at Burgess Park, London on Sun, 9 Aug 2026.
 
-Dean Turnley is a house and tech house artist tracked on soundcheck, with 18 sets logged across Adelaide, Amsterdam, Belfast and Berlin and 13 more. Often billed alongside Prospa, Groove Armada and Jamback. Next up: DC-10, Ibiza on Mon 27 Jul.
+Dean Turnley is a house and tech house artist tracked on soundcheck, with 18 sets logged across Adelaide, Amsterdam, Belfast and Berlin and 13 more. Often billed alongside Prospa, Groove Armada and Jamback. Next up: Burgess Park, London on Sun 9 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Mon, 27 Jul 2026 | DC-10 | Ibiza |
 | Sun, 9 Aug 2026 | Burgess Park | London |
 | Thu, 13 Aug 2026 | Sub Club | Glasgow |
 | Fri, 14 Aug 2026 | Cabaret Voltaire | Edinburgh |
@@ -20,9 +19,11 @@ Dean Turnley is a house and tech house artist tracked on soundcheck, with 18 set
 | Fri, 25 Sept 2026 | Village Studios | Vancouver |
 | Sat, 26 Sept 2026 | Waterfront Park in San Diego | San Diego |
 | Sat, 26 Sept 2026 | TBA - Pier 80 | San Francisco/Oakland |
+| Fri, 23 Oct 2026 | Art Club | Houston |
 
 ## Recently played
 
+- DC-10, Ibiza — Mon, 27 Jul 2026
 - Aahhh Rooftop, Munich — Sat, 11 Jul 2026
 - The Limelight, Belfast — Fri, 3 Jul 2026
 - Else, Berlin — Sat, 27 Jun 2026
@@ -33,4 +34,4 @@ Dean Turnley is a house and tech house artist tracked on soundcheck, with 18 set
 
 Prospa, Groove Armada, Jamback
 
-*Updated Mon, 27 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/deanturnley/)*
+*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/deanturnley/)*

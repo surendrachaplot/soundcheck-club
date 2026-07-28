@@ -1,8 +1,8 @@
-# Petal
+# Pètal
 
-Petal is a Club and Techno artist with 6 upcoming club dates listed on soundcheck as of Mon, 27 Jul 2026, next at TBA - Bushwick, New York City on Fri, 31 Jul 2026.
+Pètal is a Club and Techno artist with 7 upcoming club dates listed on soundcheck as of Tue, 28 Jul 2026, next at TBA - Bushwick, New York City on Fri, 31 Jul 2026.
 
-Petal is a club and techno artist based in United States of America, tracked on soundcheck, with 90 sets logged across Athens and Newyorkcity. Often billed alongside CMD+JAZMINE, BEYBLADE SHAWTY and EEVEE (3). Next up: TBA - Bushwick, Newyorkcity on Fri 31 Jul.
+Pètal is a club and techno artist based in United States of America, tracked on soundcheck, with 91 sets logged across Athens and Newyorkcity. Often billed alongside CMD+JAZMINE, BEYBLADE SHAWTY and EEVEE (3). Next up: TBA - Bushwick, Newyorkcity on Fri 31 Jul.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Petal is a club and techno artist based in United States of America, tracked on 
 | --- | --- | --- |
 | Fri, 31 Jul 2026 | TBA - Bushwick | New York City |
 | Sat, 1 Aug 2026 | SMUT Athens | Athens |
+| Sat, 1 Aug 2026 | Happyfun Hideaway | New York City |
 | Wed, 5 Aug 2026 | Jupiter Disco | New York City |
 | Thu, 6 Aug 2026 | H0L0 | New York City |
 | Thu, 6 Aug 2026 | H0L0 | New York City |
@@ -30,4 +31,4 @@ Petal is a club and techno artist based in United States of America, tracked on 
 
 CMD+JAZMINE, BEYBLADE SHAWTY, EEVEE (3)
 
-*Updated Mon, 27 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/petal/)*
+*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/petal/)*

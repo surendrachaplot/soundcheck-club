@@ -1,6 +1,6 @@
 # Aria Santillana
 
-Aria Santillana is a House and Disco artist with 2 upcoming club dates listed on soundcheck as of Mon, 27 Jul 2026, next at Bulbul Berlin, Berlin on Fri, 7 Aug 2026.
+Aria Santillana is a House and Disco artist with 2 upcoming club dates listed on soundcheck as of Tue, 28 Jul 2026, next at Bulbul Berlin, Berlin on Fri, 7 Aug 2026.
 
 Aria Santillana is a house and disco artist tracked on soundcheck, with 46 sets logged across Barcelona and Berlin. Often billed alongside Kapote, Max NRG Supply and Soul Bait. Next up: Bulbul Berlin, Berlin on Fri 7 Aug.
 
@@ -26,4 +26,4 @@ Aria Santillana is a house and disco artist tracked on soundcheck, with 46 sets 
 
 Kapote, Max NRG Supply, Soul Bait
 
-*Updated Mon, 27 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/ariasantillana/)*
+*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/ariasantillana/)*

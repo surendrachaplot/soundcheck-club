@@ -1,6 +1,6 @@
 # Disclosure
 
-Disclosure is a House and Techno artist with 4 upcoming club dates listed on soundcheck as of Mon, 27 Jul 2026, next at Pacha Ibiza, Ibiza on Tue, 28 Jul 2026.
+Disclosure is a House and Techno artist with 4 upcoming club dates listed on soundcheck as of Tue, 28 Jul 2026, next at Pacha Ibiza, Ibiza on Tue, 28 Jul 2026.
 
 Disclosure is a house and techno artist based in United Kingdom, tracked on soundcheck, with 45 sets logged across Amsterdam, Austin, Barcelona and Boston and 18 more. Often billed alongside Sammy Virji, DJ Heartstring and Layton Giordani. Next up: Pacha Ibiza, Ibiza on Tue 28 Jul.
 
@@ -28,4 +28,4 @@ Disclosure is a house and techno artist based in United Kingdom, tracked on soun
 
 Sammy Virji, DJ Heartstring, Layton Giordani
 
-*Updated Mon, 27 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/disclosure/)*
+*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/disclosure/)*

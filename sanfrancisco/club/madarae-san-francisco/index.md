@@ -1,6 +1,6 @@
 # Madarae San Francisco
 
-Madarae San Francisco is a music venue in San Francisco/Oakland with 3 upcoming nights listed on soundcheck as of Mon, 27 Jul 2026; the next is "Kino Todo (MACCABI HOUSE) AT MADARAE" on Fri, 31 Jul 2026.
+Madarae San Francisco is a music venue in San Francisco/Oakland with 3 upcoming nights listed on soundcheck as of Tue, 28 Jul 2026; the next is "Kino Todo (MACCABI HOUSE) AT MADARAE" on Fri, 31 Jul 2026.
 
 Madarae San Francisco is a music venue in Sanfrancisco listed on soundcheck. 3 upcoming nights, with line-ups including Kino Todo, MAGA and yanzy. Browse upcoming dates, start times and who's playing. 46 Minna St, San Francisco, CA 94105, United States.
 
@@ -16,4 +16,4 @@ Madarae San Francisco is a music venue in Sanfrancisco listed on soundcheck. 3 u
 
 46 Minna St, San Francisco, CA 94105, United States, San Francisco/Oakland
 
-*Updated Mon, 27 Jul 2026 · source: [soundcheck](https://soundcheck.club/sanfrancisco/club/madarae-san-francisco/)*
+*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/sanfrancisco/club/madarae-san-francisco/)*

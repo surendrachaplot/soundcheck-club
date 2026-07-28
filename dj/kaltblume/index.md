@@ -1,14 +1,15 @@
 # KALTBLUME
 
-KALTBLUME is a Techno and Industrial artist with 2 upcoming club dates listed on soundcheck as of Mon, 27 Jul 2026, next at La Station - Gare des Mines, Paris on Sat, 15 Aug 2026.
+KALTBLUME is a Techno and Industrial artist with 3 upcoming club dates listed on soundcheck as of Tue, 28 Jul 2026, next at La Station - Gare des Mines, Paris on Sat, 15 Aug 2026.
 
-KALTBLUME is a techno and industrial artist based in France, tracked on soundcheck, with 27 sets logged across Amsterdam, Berlin, Milan and Nantes and 2 more. Often billed alongside Elios, Iman Janes and Jacidorex. Next up: La Station - Gare des Mines, Paris on Sat 15 Aug.
+KALTBLUME is a techno and industrial artist based in France, tracked on soundcheck, with 28 sets logged across Amsterdam, Berlin, Milan and Nantes and 2 more. Often billed alongside RUIZ OSC1, Elios and Iman Janes. Next up: La Station - Gare des Mines, Paris on Sat 15 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 15 Aug 2026 | La Station - Gare des Mines | Paris |
+| Sat, 12 Sept 2026 | TBA - Secret Warehouse | Paris |
 | Sat, 10 Oct 2026 | KALT | Strasbourg |
 
 ## Recently played
@@ -24,6 +25,6 @@ KALTBLUME is a techno and industrial artist based in France, tracked on soundche
 
 ## Shares bills with
 
-Elios, Iman Janes, Jacidorex
+RUIZ OSC1, Elios, Iman Janes
 
-*Updated Mon, 27 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/kaltblume/)*
+*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/kaltblume/)*

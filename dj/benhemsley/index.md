@@ -1,8 +1,8 @@
 # Ben Hemsley
 
-Ben Hemsley is a Techno and Trance artist with 11 upcoming club dates listed on soundcheck as of Mon, 27 Jul 2026, next at Amnesia Ibiza, Ibiza on Mon, 3 Aug 2026.
+Ben Hemsley is a Techno and Trance artist with 12 upcoming club dates listed on soundcheck as of Tue, 28 Jul 2026, next at Amnesia Ibiza, Ibiza on Mon, 3 Aug 2026.
 
-Ben Hemsley is a techno and trance artist tracked on soundcheck, with 163 sets logged across Aberdeen, Amsterdam, Antwerp and Austin and 37 more. Often billed alongside KETTAMA, Hannah Laing and Kyle Starkey. Next up: Amnesia Ibiza, Ibiza on Mon 3 Aug.
+Ben Hemsley is a techno and trance artist tracked on soundcheck, with 164 sets logged across Aberdeen, Amsterdam, Antwerp and Austin and 37 more. Often billed alongside KETTAMA, Hannah Laing and Kyle Starkey. Next up: Amnesia Ibiza, Ibiza on Mon 3 Aug.
 
 ## Upcoming shows
 
@@ -19,6 +19,7 @@ Ben Hemsley is a techno and trance artist tracked on soundcheck, with 163 sets l
 | Mon, 21 Sept 2026 | Amnesia Ibiza | Ibiza |
 | Mon, 28 Sept 2026 | Amnesia Ibiza | Ibiza |
 | Sat, 17 Oct 2026 | Scoresby Warehouse | Melbourne |
+| Sat, 17 Oct 2026 | The Ivy | Sydney |
 
 ## Recently played
 
@@ -35,4 +36,4 @@ Ben Hemsley is a techno and trance artist tracked on soundcheck, with 163 sets l
 
 KETTAMA, Hannah Laing, Kyle Starkey
 
-*Updated Mon, 27 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/benhemsley/)*
+*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/benhemsley/)*

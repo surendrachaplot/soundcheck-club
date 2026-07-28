@@ -1,6 +1,6 @@
 # Teritorija
 
-Teritorija is a music venue in Riga with 6 upcoming nights listed on soundcheck as of Mon, 27 Jul 2026; the next is "Ksenia Kamikaza" on Fri, 31 Jul 2026.
+Teritorija is a music venue in Riga with 6 upcoming nights listed on soundcheck as of Tue, 28 Jul 2026; the next is "Ksenia Kamikaza" on Fri, 31 Jul 2026.
 
 Teritorija is a music venue in Riga listed on soundcheck. 6 upcoming nights, with line-ups including angelic waves, A$PHYXXXÏA, blissfuloverdose and ELYSIUM and 2 more. Browse upcoming dates, start times and who's playing. Krišjāņa Barona Street 136, Riga.
 
@@ -19,4 +19,4 @@ Teritorija is a music venue in Riga listed on soundcheck. 6 upcoming nights, wit
 
 Krišjāņa Barona Street 136, Riga, Riga
 
-*Updated Mon, 27 Jul 2026 · source: [soundcheck](https://soundcheck.club/riga/club/teritorija/)*
+*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/riga/club/teritorija/)*

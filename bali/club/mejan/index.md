@@ -1,6 +1,6 @@
 # Mejan
 
-Mejan is a music venue in Bali with 1 upcoming night listed on soundcheck as of Mon, 27 Jul 2026; the next is "Lunax ANNIVERSARY" on Fri, 31 Jul 2026.
+Mejan is a music venue in Bali with 1 upcoming night listed on soundcheck as of Tue, 28 Jul 2026; the next is "Lunax ANNIVERSARY" on Fri, 31 Jul 2026.
 
 Mejan is a music venue in Bali listed on soundcheck. 1 upcoming night, with line-ups including Anelle, Domenico Crisci, Latex (1) and Polyfaer and 1 more. Browse upcoming dates, start times and who's playing. Jl. Batu Mejan Canggu No.32, Canggu, Kec. Kuta Utara, Kabupaten Badung, Bali 80351.
 
@@ -14,4 +14,4 @@ Mejan is a music venue in Bali listed on soundcheck. 1 upcoming night, with line
 
 Jl. Batu Mejan Canggu No.32, Canggu, Kec. Kuta Utara, Kabupaten Badung, Bali 80351, Bali
 
-*Updated Mon, 27 Jul 2026 · source: [soundcheck](https://soundcheck.club/bali/club/mejan/)*
+*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/bali/club/mejan/)*

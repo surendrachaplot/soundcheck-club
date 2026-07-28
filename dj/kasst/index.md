@@ -1,14 +1,15 @@
 # KAS:ST
 
-KAS:ST is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Mon, 27 Jul 2026, next at [UNVRS], Ibiza on Tue, 8 Sept 2026.
+KAS:ST is a Techno and House artist with 4 upcoming club dates listed on soundcheck as of Tue, 28 Jul 2026, next at [UNVRS], Ibiza on Tue, 8 Sept 2026.
 
-KAS:ST is a techno and house artist tracked on soundcheck, with 87 sets logged across Amsterdam, Antwerp, Athens and Austin and 36 more. Often billed alongside Mathame, Henri Bergmann and Enrico Sangiuliano. Next up: [UNVRS], Ibiza on Tue 8 Sept.
+KAS:ST is a techno and house artist tracked on soundcheck, with 88 sets logged across Amsterdam, Antwerp, Athens and Austin and 36 more. Often billed alongside Mathame, Henri Bergmann and Enrico Sangiuliano. Next up: [UNVRS], Ibiza on Tue 8 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Tue, 8 Sept 2026 | [UNVRS] | Ibiza |
+| Fri, 11 Sept 2026 | Story Toronto | Toronto |
 | Sat, 26 Sept 2026 | Waterfront Park in San Diego | San Diego |
 | Fri, 2 Oct 2026 | UNLOCKED | London |
 
@@ -27,4 +28,4 @@ KAS:ST is a techno and house artist tracked on soundcheck, with 87 sets logged a
 
 Mathame, Henri Bergmann, Enrico Sangiuliano
 
-*Updated Mon, 27 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/kasst/)*
+*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/kasst/)*

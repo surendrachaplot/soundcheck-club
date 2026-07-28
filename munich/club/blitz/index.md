@@ -1,6 +1,6 @@
 # BLITZ
 
-BLITZ is a music venue in Munich with 1 upcoming night listed on soundcheck as of Mon, 27 Jul 2026; the next is "THAT'S ALL FOLKS: CHAPTER 1 CLOSED [FRI 31/07 - MON 03/08]" on Fri, 31 Jul 2026.
+BLITZ is a music venue in Munich with 1 upcoming night listed on soundcheck as of Tue, 28 Jul 2026; the next is "THAT'S ALL FOLKS: CHAPTER 1 CLOSED [FRI 31/07 - MON 03/08]" on Fri, 31 Jul 2026.
 
 BLITZ is a music venue in Munich listed on soundcheck. 1 upcoming night, with line-ups including 600-cell, Akua, Alessio Barletta and Alles Andere and 2 more. Browse upcoming dates, start times and who's playing. Museumsinsel 1, 80538 München, Germany.
 
@@ -14,4 +14,4 @@ BLITZ is a music venue in Munich listed on soundcheck. 1 upcoming night, with li
 
 Museumsinsel 1, 80538 München, Germany, Munich
 
-*Updated Mon, 27 Jul 2026 · source: [soundcheck](https://soundcheck.club/munich/club/blitz/)*
+*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/munich/club/blitz/)*

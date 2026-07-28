@@ -1,6 +1,6 @@
 # Biesmans
 
-Biesmans is a House and Techno artist with 5 upcoming club dates listed on soundcheck as of Mon, 27 Jul 2026, next at ://about blank, Berlin on Sat, 1 Aug 2026.
+Biesmans is a House and Techno artist with 5 upcoming club dates listed on soundcheck as of Tue, 28 Jul 2026, next at ://about blank, Berlin on Sat, 1 Aug 2026.
 
 Biesmans is a house and techno artist based in Belgium, tracked on soundcheck, with 62 sets logged across Amsterdam, Antwerp, Berlin and Brussels and 15 more. Often billed alongside Johannes Albert, Ede and eveava. Next up: ://about blank, Berlin on Sat 1 Aug.
 
@@ -29,4 +29,4 @@ Biesmans is a house and techno artist based in Belgium, tracked on soundcheck, w
 
 Johannes Albert, Ede, eveava
 
-*Updated Mon, 27 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/jorisbiesmans/)*
+*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/jorisbiesmans/)*

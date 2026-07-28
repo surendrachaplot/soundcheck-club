@@ -1,6 +1,6 @@
 # De La Swing
 
-De La Swing is a Tech House and House artist with 6 upcoming club dates listed on soundcheck as of Mon, 27 Jul 2026, next at Hï Ibiza, Ibiza on Tue, 28 Jul 2026.
+De La Swing is a Tech House and House artist with 6 upcoming club dates listed on soundcheck as of Tue, 28 Jul 2026, next at Hï Ibiza, Ibiza on Tue, 28 Jul 2026.
 
 De La Swing is a tech house and house artist tracked on soundcheck, with 83 sets logged across Bali, Barcelona, Bucharest and Budapest and 11 more. Often billed alongside Paco Osuna, Melanie Ribbe and Alex (ES). Next up: Hï Ibiza, Ibiza on Tue 28 Jul.
 
@@ -30,4 +30,4 @@ De La Swing is a tech house and house artist tracked on soundcheck, with 83 sets
 
 Paco Osuna, Melanie Ribbe, Alex (ES)
 
-*Updated Mon, 27 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/delaswing/)*
+*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/delaswing/)*

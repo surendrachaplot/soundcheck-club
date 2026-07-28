@@ -1,6 +1,6 @@
 # Effy
 
-Effy is a Techno and House artist with 4 upcoming club dates listed on soundcheck as of Mon, 27 Jul 2026, next at Boston Manor Park, London on Fri, 31 Jul 2026.
+Effy is a Techno and House artist with 4 upcoming club dates listed on soundcheck as of Tue, 28 Jul 2026, next at Boston Manor Park, London on Fri, 31 Jul 2026.
 
 Effy is a techno and house artist tracked on soundcheck, with 123 sets logged across Amsterdam, Antwerp, Auckland and Barcelona and 48 more. Often billed alongside Mall Grab, KETTAMA and Interplanetary Criminal. Next up: Boston Manor Park, London on Fri 31 Jul.
 
@@ -28,4 +28,4 @@ Effy is a techno and house artist tracked on soundcheck, with 123 sets logged ac
 
 Mall Grab, KETTAMA, Interplanetary Criminal
 
-*Updated Mon, 27 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/effy/)*
+*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/effy/)*

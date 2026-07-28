@@ -1,6 +1,6 @@
 # E9 to W14 at Night Tales Loft
 
-E9 to W14 at Night Tales Loft on Thu 30 Jul, London. Preview the line-up and save it on soundcheck.
+E9 to W14 at Night Tales Loft on Thu 30 Jul, London. Funk / Soul and R&B. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # Yellow House
 
-Yellow House is a music venue in Amsterdam with 4 upcoming nights listed on soundcheck as of Mon, 27 Jul 2026; the next is "Inner Click Amsterdam -- LAUNCH PARTY" on Thu, 30 Jul 2026.
+Yellow House is a music venue in Amsterdam with 4 upcoming nights listed on soundcheck as of Tue, 28 Jul 2026; the next is "Inner Click Amsterdam -- LAUNCH PARTY" on Thu, 30 Jul 2026.
 
 Yellow House is a music venue in Amsterdam listed on soundcheck. 4 upcoming nights, with line-ups including JØASE, Micky Hurts, Mitch de Klein and Romy Janssen. Browse upcoming dates, start times and who's playing. 1013AM Amsterdam, Danzigerbocht 45-R.
 
@@ -17,4 +17,4 @@ Yellow House is a music venue in Amsterdam listed on soundcheck. 4 upcoming nigh
 
 1013AM Amsterdam, Danzigerbocht 45-R, Amsterdam
 
-*Updated Mon, 27 Jul 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/yellow-house/)*
+*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/yellow-house/)*

@@ -1,6 +1,6 @@
 # CDVR invites GLOSSY MISTAKES at Cadavra
 
-CDVR invites GLOSSY MISTAKES at Cadavra on Sat 1 Aug, Madrid. 2 acts on the bill: Aedis and Glossy Mario. Electronica. Preview the line-up and save it on soundcheck.
+CDVR invites GLOSSY MISTAKES at Cadavra on Sat 1 Aug, Madrid. 4 acts on the bill: Aedis, EKEL, Glossy Mario and REGI D. Electronica. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -11,6 +11,8 @@ CDVR invites GLOSSY MISTAKES at Cadavra on Sat 1 Aug, Madrid. 2 acts on the bill
 ## Line-up
 
 - Aedis
+- EKEL
 - Glossy Mario
+- REGI D
 
 *Source: [soundcheck](https://soundcheck.club/e/2477144-cdvr-invites-glossy-mistakes-at-cadavra/)*

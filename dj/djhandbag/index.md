@@ -1,14 +1,15 @@
 # Dj handbag
 
-Dj handbag is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Mon, 27 Jul 2026, next at TBA, Stockholm on Sat, 1 Aug 2026.
+Dj handbag is a Techno and House artist with 4 upcoming club dates listed on soundcheck as of Tue, 28 Jul 2026, next at TBA, Stockholm on Sat, 1 Aug 2026.
 
-Dj handbag is a techno and house artist tracked on soundcheck, with 73 sets logged across Amsterdam, Antwerp, Berlin and Brussels and 5 more. Often billed alongside Daniel Berj, ADAM MUNNINGS and DJ Hyaluron. Next up: TBA, Stockholm on Sat 1 Aug.
+Dj handbag is a techno and house artist tracked on soundcheck, with 74 sets logged across Amsterdam, Antwerp, Berlin and Brussels and 5 more. Often billed alongside Daniel Berj, ADAM MUNNINGS and DJ Hyaluron. Next up: TBA, Stockholm on Sat 1 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 1 Aug 2026 | TBA | Stockholm |
+| Sun, 2 Aug 2026 | Kasematte 20 | Hamburg |
 | Fri, 21 Aug 2026 | CLUB OST & RENATE BERLIN | Berlin |
 | Fri, 16 Oct 2026 | C12 | Brussels |
 
@@ -27,4 +28,4 @@ Dj handbag is a techno and house artist tracked on soundcheck, with 73 sets logg
 
 Daniel Berj, ADAM MUNNINGS, DJ Hyaluron
 
-*Updated Mon, 27 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/djhandbag/)*
+*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/djhandbag/)*

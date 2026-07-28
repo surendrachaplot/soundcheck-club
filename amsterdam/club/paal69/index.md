@@ -1,6 +1,6 @@
 # Paal69
 
-Paal69 is a music venue in Amsterdam with 5 upcoming nights listed on soundcheck as of Mon, 27 Jul 2026; the next is "Ambrosia Ecstatic Rave at the beach" on Sun, 9 Aug 2026.
+Paal69 is a music venue in Amsterdam with 5 upcoming nights listed on soundcheck as of Tue, 28 Jul 2026; the next is "Ambrosia Ecstatic Rave at the beach" on Sun, 9 Aug 2026.
 
 Paal69 is a music venue in Amsterdam listed on soundcheck. 5 upcoming nights, with line-ups including Cris-H, Ezequiel Arias, Khadija (DE) and Mathias Kaden and 2 more. Browse upcoming dates, start times and who's playing. South Beach, Zandvoort, Netherlands.
 
@@ -18,4 +18,4 @@ Paal69 is a music venue in Amsterdam listed on soundcheck. 5 upcoming nights, wi
 
 South Beach, Zandvoort, Netherlands, Amsterdam
 
-*Updated Mon, 27 Jul 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/paal69/)*
+*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/paal69/)*

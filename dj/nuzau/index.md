@@ -1,6 +1,6 @@
 # Nu Zau
 
-Nu Zau is a Minimal and House artist with 2 upcoming club dates listed on soundcheck as of Mon, 27 Jul 2026, next at Europa Boat, Budapest on Sat, 1 Aug 2026.
+Nu Zau is a Minimal and House artist with 2 upcoming club dates listed on soundcheck as of Tue, 28 Jul 2026, next at Europa Boat, Budapest on Sat, 1 Aug 2026.
 
 Nu Zau is a minimal and house artist tracked on soundcheck, with 83 sets logged across Amsterdam, Antwerp, Barcelona and Basel and 24 more. Often billed alongside Sepp, Arapu and Sublee. Next up: Europa Boat, Budapest on Sat 1 Aug.
 
@@ -26,4 +26,4 @@ Nu Zau is a minimal and house artist tracked on soundcheck, with 83 sets logged 
 
 Sepp, Arapu, Sublee
 
-*Updated Mon, 27 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/nuzau/)*
+*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/nuzau/)*

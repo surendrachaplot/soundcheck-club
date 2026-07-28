@@ -1,6 +1,6 @@
 # Spanners
 
-Spanners is a music venue in London with 8 upcoming nights listed on soundcheck as of Mon, 27 Jul 2026; the next is "Kirk Barley Arc Album Launch, London" on Wed, 29 Jul 2026.
+Spanners is a music venue in London with 8 upcoming nights listed on soundcheck as of Tue, 28 Jul 2026; the next is "Kirk Barley Arc Album Launch, London" on Wed, 29 Jul 2026.
 
 Spanners is a music venue in London listed on soundcheck. 8 upcoming nights, with line-ups including Angel D'lite, Ben Vince, Bethan and BJ Holy and 2 more. Browse upcoming dates, start times and who's playing. SPANNERS, arch 504, Loughborough Junction, SW9 7EX.
 
@@ -21,4 +21,4 @@ Spanners is a music venue in London listed on soundcheck. 8 upcoming nights, wit
 
 SPANNERS, arch 504, Loughborough Junction, SW9 7EX, London
 
-*Updated Mon, 27 Jul 2026 · source: [soundcheck](https://soundcheck.club/london/club/spanners/)*
+*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/london/club/spanners/)*

@@ -1,6 +1,6 @@
 # Ricardo Villalobos
 
-Ricardo Villalobos is a Techno and House artist with 9 upcoming club dates listed on soundcheck as of Mon, 27 Jul 2026, next at Amsterdamse Bos, Amsterdam on Wed, 29 Jul 2026.
+Ricardo Villalobos is a Techno and House artist with 9 upcoming club dates listed on soundcheck as of Tue, 28 Jul 2026, next at Amsterdamse Bos, Amsterdam on Wed, 29 Jul 2026.
 
 Ricardo Villalobos is a techno and house artist tracked on soundcheck, with 116 sets logged across Amsterdam, Antwerp, Barcelona and Berlin and 26 more. Often billed alongside Raresh, O.BEE and Sonja Moonear. Next up: Amsterdamse Bos, Amsterdam on Wed 29 Jul.
 
@@ -33,4 +33,4 @@ Ricardo Villalobos is a techno and house artist tracked on soundcheck, with 116 
 
 Raresh, O.BEE, Sonja Moonear
 
-*Updated Mon, 27 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/ricardovillalobos/)*
+*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/ricardovillalobos/)*

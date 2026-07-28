@@ -1,6 +1,6 @@
 # Fuchs2
 
-Fuchs2 is a music venue in Prague with 9 upcoming nights listed on soundcheck as of Mon, 27 Jul 2026; the next is "AÜRA SHOWCASE: Dialectics ☆ rfta ☆ Paromanormal ☆ D.E.S ☆ zazitech" on Fri, 31 Jul 2026.
+Fuchs2 is a music venue in Prague with 9 upcoming nights listed on soundcheck as of Tue, 28 Jul 2026; the next is "AÜRA SHOWCASE: Dialectics ☆ rfta ☆ Paromanormal ☆ D.E.S ☆ zazitech" on Fri, 31 Jul 2026.
 
 Fuchs2 is a music venue in Prague listed on soundcheck. 9 upcoming nights, with line-ups including Adamatron, aláya, Axis Alpha and Colum Urton and 2 more. Browse upcoming dates, start times and who's playing. Štvanice, 17000 Prague.
 
@@ -22,4 +22,4 @@ Fuchs2 is a music venue in Prague listed on soundcheck. 9 upcoming nights, with 
 
 Štvanice, 17000 Prague, Prague
 
-*Updated Mon, 27 Jul 2026 · source: [soundcheck](https://soundcheck.club/prague/club/fuchs2/)*
+*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/prague/club/fuchs2/)*

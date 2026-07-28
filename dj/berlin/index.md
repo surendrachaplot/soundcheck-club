@@ -1,6 +1,6 @@
 # BERLIN
 
-BERLIN is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Mon, 27 Jul 2026, next at Golden Flamingo, Berlin on Sat, 8 Aug 2026.
+BERLIN is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Tue, 28 Jul 2026, next at Golden Flamingo, Berlin on Sat, 8 Aug 2026.
 
 BERLIN is a techno and house artist based in Japan, tracked on soundcheck, with 37 sets logged across Berlin, Osaka, Paris and Tokyo. Often billed alongside Laigonen Kanonen, Max Muth and V (NYC). Next up: Golden Flamingo, Berlin on Sat 8 Aug.
 
@@ -26,4 +26,4 @@ BERLIN is a techno and house artist based in Japan, tracked on soundcheck, with 
 
 Laigonen Kanonen, Max Muth, V (NYC)
 
-*Updated Mon, 27 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/berlin/)*
+*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/berlin/)*

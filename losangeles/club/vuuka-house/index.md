@@ -1,6 +1,6 @@
 # Vuuka House
 
-Vuuka House is a music venue in Los Angeles with 1 upcoming night listed on soundcheck as of Mon, 27 Jul 2026; the next is "Afrobeats Day Party ( Los Angeles)" on Sun, 2 Aug 2026.
+Vuuka House is a music venue in Los Angeles with 1 upcoming night listed on soundcheck as of Tue, 28 Jul 2026; the next is "Afrobeats Day Party ( Los Angeles)" on Sun, 2 Aug 2026.
 
 Vuuka House is a music venue in Losangeles listed on soundcheck. 1 upcoming night. Browse upcoming dates, start times and who's playing.
 
@@ -10,4 +10,4 @@ Vuuka House is a music venue in Losangeles listed on soundcheck. 1 upcoming nigh
 | --- | --- | --- |
 | Sun, 2 Aug 2026 | Afrobeats Day Party ( Los Angeles) |  |
 
-*Updated Mon, 27 Jul 2026 · source: [soundcheck](https://soundcheck.club/losangeles/club/vuuka-house/)*
+*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/losangeles/club/vuuka-house/)*

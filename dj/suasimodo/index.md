@@ -1,6 +1,6 @@
 # Suasimodo
 
-Suasimodo is a House and Club artist with 2 upcoming club dates listed on soundcheck as of Mon, 27 Jul 2026, next at Honey's, New York City on Sat, 1 Aug 2026.
+Suasimodo is a House and Club artist with 2 upcoming club dates listed on soundcheck as of Tue, 28 Jul 2026, next at Honey's, New York City on Sat, 1 Aug 2026.
 
 Suasimodo is a house and club artist based in United States of America, tracked on soundcheck, with 39 sets logged across Newyorkcity. Often billed alongside Shameless Deejay, Loomer and Union (US). Next up: Honey's, Newyorkcity on Sat 1 Aug.
 
@@ -26,4 +26,4 @@ Suasimodo is a house and club artist based in United States of America, tracked 
 
 Shameless Deejay, Loomer, Union (US)
 
-*Updated Mon, 27 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/suasimodo/)*
+*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/suasimodo/)*

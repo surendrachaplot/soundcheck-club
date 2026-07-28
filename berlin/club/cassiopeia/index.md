@@ -1,6 +1,6 @@
 # Cassiopeia
 
-Cassiopeia is a music venue in Berlin with 3 upcoming nights listed on soundcheck as of Mon, 27 Jul 2026; the next is "Ratos De Porão // Cassiopeia, Berlin" on Tue, 11 Aug 2026.
+Cassiopeia is a music venue in Berlin with 3 upcoming nights listed on soundcheck as of Tue, 28 Jul 2026; the next is "Ratos De Porão // Cassiopeia, Berlin" on Tue, 11 Aug 2026.
 
 Cassiopeia is a music venue in Berlin listed on soundcheck. 3 upcoming nights, with line-ups including Danny Subsonic, Dominik Vaillant, Maurice Mino and MILAN MILANO and 2 more. Browse upcoming dates, start times and who's playing. Revaler Str. 99, 10245 Berlin, Germany.
 
@@ -16,4 +16,4 @@ Cassiopeia is a music venue in Berlin listed on soundcheck. 3 upcoming nights, w
 
 Revaler Str. 99, 10245 Berlin, Germany, Berlin
 
-*Updated Mon, 27 Jul 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/cassiopeia/)*
+*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/cassiopeia/)*

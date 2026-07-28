@@ -1,8 +1,8 @@
 # Substation
 
-Substation is a music venue in Seattle with 21 upcoming nights listed on soundcheck as of Mon, 27 Jul 2026; the next is "PYKE: Paint the City Tour" on Thu, 30 Jul 2026.
+Substation is a music venue in Seattle with 22 upcoming nights listed on soundcheck as of Tue, 28 Jul 2026; the next is "PYKE: Paint the City Tour" on Thu, 30 Jul 2026.
 
-Substation is a music venue in Seattle listed on soundcheck. 21 upcoming nights, with line-ups including Baauer, Bushbaby, Cesco and Craze and 2 more. Browse upcoming dates, start times and who's playing. 645 NW 45th St, Seattle WA 98107.
+Substation is a music venue in Seattle listed on soundcheck. 22 upcoming nights, with line-ups including Baauer, Bushbaby, Cesco and Craze and 2 more. Browse upcoming dates, start times and who's playing. 645 NW 45th St, Seattle WA 98107.
 
 ## What's on
 
@@ -16,11 +16,11 @@ Substation is a music venue in Seattle listed on soundcheck. 21 upcoming nights,
 | Fri, 21 Aug 2026 | Craze x Dieselboy: Create & Destroy Tour | Craze, Dieselboy |
 | Thu, 27 Aug 2026 | Star Monster |  |
 | Fri, 28 Aug 2026 | Throne of Rot: RB Killa x Lusus |  |
+| Sat, 29 Aug 2026 | Murda Beatz (House Set) |  |
 | Wed, 2 Sept 2026 | Routine: Quelza | Quelza, Yamanaka |
-| Fri, 4 Sept 2026 | Onhell Throws A Party |  |
 
 ## Address
 
 645 NW 45th St, Seattle WA 98107, Seattle
 
-*Updated Mon, 27 Jul 2026 · source: [soundcheck](https://soundcheck.club/seattle/club/substation/)*
+*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/seattle/club/substation/)*

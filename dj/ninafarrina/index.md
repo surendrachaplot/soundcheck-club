@@ -1,6 +1,6 @@
 # Nina Farrina
 
-Nina Farrina is a Techno and Club artist with 4 upcoming club dates listed on soundcheck as of Mon, 27 Jul 2026, next at Mia Mao, Paris on Sat, 1 Aug 2026.
+Nina Farrina is a Techno and Club artist with 4 upcoming club dates listed on soundcheck as of Tue, 28 Jul 2026, next at Mia Mao, Paris on Sat, 1 Aug 2026.
 
 Nina Farrina is a techno and club artist tracked on soundcheck, with 132 sets logged across Berlin, Brussels, Budapest and Copenhagen and 11 more. Often billed alongside 3ever, SJ Yellow and tmk (CZ). Next up: Mia Mao, Paris on Sat 1 Aug.
 
@@ -28,4 +28,4 @@ Nina Farrina is a techno and club artist tracked on soundcheck, with 132 sets lo
 
 3ever, SJ Yellow, tmk (CZ)
 
-*Updated Mon, 27 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/ninafarrina/)*
+*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/ninafarrina/)*

@@ -1,6 +1,6 @@
 # TBA - The Black Bull Drogheda
 
-TBA - The Black Bull Drogheda is a music venue in Dublin with 1 upcoming night listed on soundcheck as of Mon, 27 Jul 2026; the next is "OUR MOTION. presents TYGE" on Sun, 2 Aug 2026.
+TBA - The Black Bull Drogheda is a music venue in Dublin with 1 upcoming night listed on soundcheck as of Tue, 28 Jul 2026; the next is "OUR MOTION. presents TYGE" on Sun, 2 Aug 2026.
 
 TBA - The Black Bull Drogheda is a music venue in Dublin listed on soundcheck. 1 upcoming night. Browse upcoming dates, start times and who's playing.
 
@@ -10,4 +10,4 @@ TBA - The Black Bull Drogheda is a music venue in Dublin listed on soundcheck. 1
 | --- | --- | --- |
 | Sun, 2 Aug 2026 | OUR MOTION. presents TYGE |  |
 
-*Updated Mon, 27 Jul 2026 · source: [soundcheck](https://soundcheck.club/dublin/club/tba-the-black-bull-drogheda/)*
+*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dublin/club/tba-the-black-bull-drogheda/)*

@@ -1,8 +1,8 @@
 # F8 1192 Folsom
 
-F8 1192 Folsom is a music venue in San Francisco/Oakland with 19 upcoming nights listed on soundcheck as of Mon, 27 Jul 2026; the next is "CLOWNZONE: Goth Clown Night at Interzone" on Tue, 28 Jul 2026.
+F8 1192 Folsom is a music venue in San Francisco/Oakland with 20 upcoming nights listed on soundcheck as of Tue, 28 Jul 2026; the next is "CLOWNZONE: Goth Clown Night at Interzone" on Tue, 28 Jul 2026.
 
-F8 1192 Folsom is a music venue in Sanfrancisco listed on soundcheck. 19 upcoming nights, with line-ups including 2dahlia, Aepricity, Akumen and Amatric and 2 more. Browse upcoming dates, start times and who's playing. 1192 Folsom St, San Francisco, CA 94103.
+F8 1192 Folsom is a music venue in Sanfrancisco listed on soundcheck. 20 upcoming nights, with line-ups including 2dahlia, Aepricity, Akumen and Amatric and 2 more. Browse upcoming dates, start times and who's playing. 1192 Folsom St, San Francisco, CA 94103.
 
 ## What's on
 
@@ -23,4 +23,4 @@ F8 1192 Folsom is a music venue in Sanfrancisco listed on soundcheck. 19 upcomin
 
 1192 Folsom St, San Francisco, CA 94103, San Francisco/Oakland
 
-*Updated Mon, 27 Jul 2026 · source: [soundcheck](https://soundcheck.club/sanfrancisco/club/f8-1192-folsom/)*
+*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/sanfrancisco/club/f8-1192-folsom/)*

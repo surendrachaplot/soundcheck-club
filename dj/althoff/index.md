@@ -1,6 +1,6 @@
 # Althoff
 
-Althoff is a Deep House and Techno artist with 2 upcoming club dates listed on soundcheck as of Mon, 27 Jul 2026, next at Macarena Club, Barcelona on Tue, 4 Aug 2026.
+Althoff is a Deep House and Techno artist with 2 upcoming club dates listed on soundcheck as of Tue, 28 Jul 2026, next at Macarena Club, Barcelona on Tue, 4 Aug 2026.
 
 Althoff is a deep house and techno artist tracked on soundcheck, with 63 sets logged across Amsterdam, Barcelona, Milan and Prague and 1 more. Often billed alongside ERRANT, Last Set and NAC Oliver. Next up: Macarena Club, Barcelona on Tue 4 Aug.
 
@@ -26,4 +26,4 @@ Althoff is a deep house and techno artist tracked on soundcheck, with 63 sets lo
 
 ERRANT, Last Set, NAC Oliver
 
-*Updated Mon, 27 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/althoff/)*
+*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/althoff/)*

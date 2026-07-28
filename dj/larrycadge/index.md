@@ -1,14 +1,15 @@
 # Larry Cadge
 
-Larry Cadge is a House and Tech House artist with 2 upcoming club dates listed on soundcheck as of Mon, 27 Jul 2026, next at Colour Factory, London on Sat, 19 Sept 2026.
+Larry Cadge is a House and Tech House artist with 3 upcoming club dates listed on soundcheck as of Tue, 28 Jul 2026, next at Colour Factory, London on Sat, 19 Sept 2026.
 
-Larry Cadge is a house and tech house artist tracked on soundcheck, with 50 sets logged across Barcelona, London and Milan. Often billed alongside Andrea Giudice, Irren and Willow. Next up: Colour Factory, London on Sat 19 Sept.
+Larry Cadge is a house and tech house artist tracked on soundcheck, with 51 sets logged across Barcelona, London and Milan. Often billed alongside Andrea Giudice, Irren and Willow. Next up: Colour Factory, London on Sat 19 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 19 Sept 2026 | Colour Factory | London |
+| Sun, 20 Sept 2026 | Fabwick | London |
 | Sat, 10 Oct 2026 | Colour Factory | London |
 
 ## Recently played
@@ -26,4 +27,4 @@ Larry Cadge is a house and tech house artist tracked on soundcheck, with 50 sets
 
 Andrea Giudice, Irren, Willow
 
-*Updated Mon, 27 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/larrycadge/)*
+*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/larrycadge/)*

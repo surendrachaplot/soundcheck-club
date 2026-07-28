@@ -1,8 +1,8 @@
 # Alien Communications
 
-Alien Communications is a Electro and Techno artist with 3 upcoming club dates listed on soundcheck as of Mon, 27 Jul 2026, next at Vittoria Wharf Studio, London on Fri, 31 Jul 2026.
+Alien Communications is a Electro and Techno artist with 4 upcoming club dates listed on soundcheck as of Tue, 28 Jul 2026, next at Vittoria Wharf Studio, London on Fri, 31 Jul 2026.
 
-Alien Communications is an electro and techno artist based in United Kingdom, tracked on soundcheck, with 116 sets logged across Amsterdam, Barcelona, Berlin and Birmingham and 17 more. Often billed alongside Jos, Ste Roberts and Domenic Cappello. Next up: Vittoria Wharf Studio, London on Fri 31 Jul.
+Alien Communications is an electro and techno artist based in United Kingdom, tracked on soundcheck, with 117 sets logged across Amsterdam, Barcelona, Berlin and Birmingham and 17 more. Often billed alongside Jos, Ste Roberts and Domenic Cappello. Next up: Vittoria Wharf Studio, London on Fri 31 Jul.
 
 ## Upcoming shows
 
@@ -11,6 +11,7 @@ Alien Communications is an electro and techno artist based in United Kingdom, tr
 | Fri, 31 Jul 2026 | Vittoria Wharf Studio | London |
 | Fri, 14 Aug 2026 | Club der Visionaere | Berlin |
 | Fri, 28 Aug 2026 | FOLD | London |
+| Sat, 24 Oct 2026 | TBA | Amsterdam |
 
 ## Recently played
 
@@ -27,4 +28,4 @@ Alien Communications is an electro and techno artist based in United Kingdom, tr
 
 Jos, Ste Roberts, Domenic Cappello
 
-*Updated Mon, 27 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/aliencommunications/)*
+*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/aliencommunications/)*

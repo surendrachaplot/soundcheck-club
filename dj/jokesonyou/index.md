@@ -1,6 +1,6 @@
 # JOKESONYOU
 
-JOKESONYOU is a Techno and Trance artist with 6 upcoming club dates listed on soundcheck as of Mon, 27 Jul 2026, next at Sneaky Pete's, Edinburgh on Fri, 31 Jul 2026.
+JOKESONYOU is a Techno and Trance artist with 6 upcoming club dates listed on soundcheck as of Tue, 28 Jul 2026, next at Sneaky Pete's, Edinburgh on Fri, 31 Jul 2026.
 
 JOKESONYOU is a techno and trance artist based in Australia, tracked on soundcheck, with 58 sets logged across Amsterdam, Antwerp, Barcelona and Berlin and 20 more. Often billed alongside 3LEEZA, Azyr and Mika Heggemann. Next up: Sneaky Pete's, Edinburgh on Fri 31 Jul.
 
@@ -30,4 +30,4 @@ JOKESONYOU is a techno and trance artist based in Australia, tracked on soundche
 
 3LEEZA, Azyr, Mika Heggemann
 
-*Updated Mon, 27 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/jokesonyou/)*
+*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/jokesonyou/)*

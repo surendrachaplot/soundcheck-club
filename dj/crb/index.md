@@ -1,6 +1,6 @@
 # CRB
 
-CRB is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Mon, 27 Jul 2026, next at Toldi Klub, Budapest on Sat, 1 Aug 2026.
+CRB is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Tue, 28 Jul 2026, next at Toldi Klub, Budapest on Sat, 1 Aug 2026.
 
 CRB is a techno and house artist tracked on soundcheck, with 129 sets logged across Berlin, Budapest and Paris. Often billed alongside HAYAM, Cry Later and Nakrasia. Next up: Toldi Klub, Budapest on Sat 1 Aug.
 
@@ -26,4 +26,4 @@ CRB is a techno and house artist tracked on soundcheck, with 129 sets logged acr
 
 HAYAM, Cry Later, Nakrasia
 
-*Updated Mon, 27 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/crb/)*
+*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/crb/)*

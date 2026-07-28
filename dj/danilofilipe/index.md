@@ -1,6 +1,6 @@
 # Danilo Filipe
 
-Danilo Filipe is a Techno and Trance artist with 3 upcoming club dates listed on soundcheck as of Mon, 27 Jul 2026, next at Lokschuppen Berlin, Berlin on Sat, 5 Sept 2026.
+Danilo Filipe is a Techno and Trance artist with 3 upcoming club dates listed on soundcheck as of Tue, 28 Jul 2026, next at Lokschuppen Berlin, Berlin on Sat, 5 Sept 2026.
 
 Danilo Filipe is a techno and trance artist tracked on soundcheck, with 11 sets logged across Berlin and Cologne. Often billed alongside Bobaz Lobster, Charleen Herzig and DJ SPORTSCHUH. Next up: Lokschuppen Berlin, Berlin on Sat 5 Sept.
 
@@ -27,4 +27,4 @@ Danilo Filipe is a techno and trance artist tracked on soundcheck, with 11 sets 
 
 Bobaz Lobster, Charleen Herzig, DJ SPORTSCHUH
 
-*Updated Mon, 27 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/danilofilipe/)*
+*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/danilofilipe/)*

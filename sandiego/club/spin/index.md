@@ -1,6 +1,6 @@
 # Spin
 
-Spin is a music venue in San Diego with 13 upcoming nights listed on soundcheck as of Mon, 27 Jul 2026; the next is "ELEVATE: D. GRAY B2B Kasama" on Fri, 31 Jul 2026.
+Spin is a music venue in San Diego with 13 upcoming nights listed on soundcheck as of Tue, 28 Jul 2026; the next is "ELEVATE: D. GRAY B2B Kasama" on Fri, 31 Jul 2026.
 
 Spin is a music venue in Sandiego listed on soundcheck. 13 upcoming nights, with line-ups including aali, Apache, Borgore and Bump and Ugly and 2 more. Browse upcoming dates, start times and who's playing. 2028 Hancock Street; San Diego, CA 92110, USA.
 
@@ -23,4 +23,4 @@ Spin is a music venue in Sandiego listed on soundcheck. 13 upcoming nights, with
 
 2028 Hancock Street; San Diego, CA 92110, USA, San Diego
 
-*Updated Mon, 27 Jul 2026 · source: [soundcheck](https://soundcheck.club/sandiego/club/spin/)*
+*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/sandiego/club/spin/)*

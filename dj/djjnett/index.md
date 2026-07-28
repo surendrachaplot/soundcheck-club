@@ -1,6 +1,6 @@
 # DJ JNETT
 
-DJ JNETT is a House and Deep House artist with 3 upcoming club dates listed on soundcheck as of Mon, 27 Jul 2026, next at Glamorama, Melbourne on Fri, 31 Jul 2026.
+DJ JNETT is a House and Deep House artist with 3 upcoming club dates listed on soundcheck as of Tue, 28 Jul 2026, next at Glamorama, Melbourne on Fri, 31 Jul 2026.
 
 DJ JNETT is a house and deep house artist based in Australia, tracked on soundcheck, with 123 sets logged across Auckland, Brisbane, Melbourne and Sydney. Often billed alongside Colette, Zjoso and Moopie. Next up: Glamorama, Melbourne on Fri 31 Jul.
 
@@ -27,4 +27,4 @@ DJ JNETT is a house and deep house artist based in Australia, tracked on soundch
 
 Colette, Zjoso, Moopie
 
-*Updated Mon, 27 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/djjnett/)*
+*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/djjnett/)*

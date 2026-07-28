@@ -1,6 +1,6 @@
 # Gabriela
 
-Gabriela is a music venue in New York City with 4 upcoming nights listed on soundcheck as of Mon, 27 Jul 2026; the next is "ROMANCE w Andi" on Thu, 30 Jul 2026.
+Gabriela is a music venue in New York City with 4 upcoming nights listed on soundcheck as of Tue, 28 Jul 2026; the next is "ROMANCE w Andi" on Thu, 30 Jul 2026.
 
 Gabriela is a music venue in Newyorkcity listed on soundcheck. 4 upcoming nights, with line-ups including Andi, Justin Strauss, Kabinett and Mike Simonetti. Browse upcoming dates, start times and who's playing. 90 Wythe Ave, Brooklyn, NY 11249.
 
@@ -17,4 +17,4 @@ Gabriela is a music venue in Newyorkcity listed on soundcheck. 4 upcoming nights
 
 90 Wythe Ave, Brooklyn, NY 11249, New York City
 
-*Updated Mon, 27 Jul 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/gabriela/)*
+*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/gabriela/)*

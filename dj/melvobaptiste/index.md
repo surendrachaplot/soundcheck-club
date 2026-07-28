@@ -1,6 +1,6 @@
 # Melvo Baptiste
 
-Melvo Baptiste is a House and Disco artist with 10 upcoming club dates listed on soundcheck as of Mon, 27 Jul 2026, next at Joshua Brooks, Manchester on Sat, 8 Aug 2026.
+Melvo Baptiste is a House and Disco artist with 10 upcoming club dates listed on soundcheck as of Tue, 28 Jul 2026, next at Joshua Brooks, Manchester on Sat, 8 Aug 2026.
 
 Melvo Baptiste is a house and disco artist tracked on soundcheck, with 120 sets logged across Amsterdam, Auckland, Bali and Barcelona and 21 more. Often billed alongside Natasha Diggs, The Shapeshifters and Horse Meat Disco. Next up: Joshua Brooks, Manchester on Sat 8 Aug.
 
@@ -34,4 +34,4 @@ Melvo Baptiste is a house and disco artist tracked on soundcheck, with 120 sets 
 
 Natasha Diggs, The Shapeshifters, Horse Meat Disco
 
-*Updated Mon, 27 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/melvobaptiste/)*
+*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/melvobaptiste/)*

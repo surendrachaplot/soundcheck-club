@@ -1,6 +1,6 @@
 # JAQ.XS
 
-JAQ.XS is a Techno and Industrial artist with 2 upcoming club dates listed on soundcheck as of Mon, 27 Jul 2026, next at EQ San Diego, San Diego on Fri, 31 Jul 2026.
+JAQ.XS is a Techno and Industrial artist with 2 upcoming club dates listed on soundcheck as of Tue, 28 Jul 2026, next at EQ San Diego, San Diego on Fri, 31 Jul 2026.
 
 JAQ.XS is a techno and industrial artist based in United States of America, tracked on soundcheck, with 31 sets logged across Losangeles, Sandiego and Sanfrancisco. Often billed alongside TOKEONETOKA, Michelle Mendez and Miguel Pinedo. Next up: EQ San Diego, Sandiego on Fri 31 Jul.
 
@@ -26,4 +26,4 @@ JAQ.XS is a techno and industrial artist based in United States of America, trac
 
 TOKEONETOKA, Michelle Mendez, Miguel Pinedo
 
-*Updated Mon, 27 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/jaq.xs/)*
+*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/jaq.xs/)*

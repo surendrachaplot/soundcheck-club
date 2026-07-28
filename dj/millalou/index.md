@@ -1,8 +1,8 @@
 # MILLA LOU
 
-MILLA LOU is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Mon, 27 Jul 2026, next at Westhafen, Leipzig on Sat, 1 Aug 2026.
+MILLA LOU is a Techno and House artist with 4 upcoming club dates listed on soundcheck as of Tue, 28 Jul 2026, next at Westhafen, Leipzig on Sat, 1 Aug 2026.
 
-MILLA LOU is a techno and house artist tracked on soundcheck, with 79 sets logged across Bangkok, Berlin, Hamburg and Leipzig and 4 more. Often billed alongside justUS, Katzengold and Dydaa Forne. Next up: Westhafen, Leipzig on Sat 1 Aug.
+MILLA LOU is a techno and house artist tracked on soundcheck, with 80 sets logged across Bangkok, Berlin, Hamburg and Leipzig and 4 more. Often billed alongside justUS, Katzengold and Dydaa Forne. Next up: Westhafen, Leipzig on Sat 1 Aug.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ MILLA LOU is a techno and house artist tracked on soundcheck, with 79 sets logge
 | --- | --- | --- |
 | Sat, 1 Aug 2026 | Westhafen | Leipzig |
 | Fri, 21 Aug 2026 | Der Weiße Hase | Berlin |
+| Fri, 21 Aug 2026 | Hoppetosse | Berlin |
 | Sat, 24 Oct 2026 | Alte Münze | Berlin |
 
 ## Recently played
@@ -27,4 +28,4 @@ MILLA LOU is a techno and house artist tracked on soundcheck, with 79 sets logge
 
 justUS, Katzengold, Dydaa Forne
 
-*Updated Mon, 27 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/millalou/)*
+*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/millalou/)*

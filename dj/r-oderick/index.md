@@ -1,6 +1,6 @@
 # R-ODERICK
 
-R-ODERICK is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Mon, 27 Jul 2026, next at The Jama, Toronto on Fri, 31 Jul 2026.
+R-ODERICK is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Tue, 28 Jul 2026, next at The Jama, Toronto on Fri, 31 Jul 2026.
 
 R-ODERICK is a techno and house artist based in Canada, tracked on soundcheck, with 59 sets logged across Berlin, Montreal and Toronto. Often billed alongside Stashole, Venus in Foil and Adam X. Next up: The Jama, Toronto on Fri 31 Jul.
 
@@ -26,4 +26,4 @@ R-ODERICK is a techno and house artist based in Canada, tracked on soundcheck, w
 
 Stashole, Venus in Foil, Adam X
 
-*Updated Mon, 27 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/r-oderick/)*
+*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/r-oderick/)*

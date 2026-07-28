@@ -1,6 +1,6 @@
 # Sara Landry
 
-Sara Landry is a Techno and House artist with 10 upcoming club dates listed on soundcheck as of Mon, 27 Jul 2026, next at Downsview Park, Toronto on Fri, 31 Jul 2026.
+Sara Landry is a Techno and House artist with 10 upcoming club dates listed on soundcheck as of Tue, 28 Jul 2026, next at Downsview Park, Toronto on Fri, 31 Jul 2026.
 
 Sara Landry is a techno and house artist tracked on soundcheck, with 190 sets logged across Aberdeen, Amsterdam, Antwerp and Athens and 57 more. Often billed alongside Nico Moreno, Trym and OGUZ. Next up: Downsview Park, Toronto on Fri 31 Jul.
 
@@ -34,4 +34,4 @@ Sara Landry is a techno and house artist tracked on soundcheck, with 190 sets lo
 
 Nico Moreno, Trym, OGUZ
 
-*Updated Mon, 27 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/saralandry/)*
+*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/saralandry/)*

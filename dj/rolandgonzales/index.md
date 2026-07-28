@@ -1,6 +1,6 @@
 # Roland Gonzales
 
-Roland Gonzales is a House and Downtempo artist with 2 upcoming club dates listed on soundcheck as of Mon, 27 Jul 2026, next at 416 Snack Bar, Toronto on Tue, 4 Aug 2026.
+Roland Gonzales is a House and Downtempo artist with 2 upcoming club dates listed on soundcheck as of Tue, 28 Jul 2026, next at 416 Snack Bar, Toronto on Tue, 4 Aug 2026.
 
 Roland Gonzales is a house and downtempo artist based in Canada, tracked on soundcheck, with 132 sets logged across Kyoto, Montreal, Newyorkcity and Toronto and 1 more. Often billed alongside Sakiko Nagai, Toronto Hustle and Kiki LeFreak. Next up: 416 Snack Bar, Toronto on Tue 4 Aug.
 
@@ -26,4 +26,4 @@ Roland Gonzales is a house and downtempo artist based in Canada, tracked on soun
 
 Sakiko Nagai, Toronto Hustle, Kiki LeFreak
 
-*Updated Mon, 27 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/rolandgonzales/)*
+*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/rolandgonzales/)*

@@ -1,0 +1,29 @@
+# Lamache
+
+Lamache is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Tue, 28 Jul 2026, next at Haus der Visionäre, Berlin on Sat, 22 Aug 2026.
+
+Lamache is a house and techno artist tracked on soundcheck, with 105 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 32 more. Often billed alongside Aline Umber, Automatic Writing and Aline Brooklyn. Next up: Haus der Visionäre, Berlin on Sat 22 Aug.
+
+## Upcoming shows
+
+| Date | Venue | City |
+| --- | --- | --- |
+| Sat, 22 Aug 2026 | Haus der Visionäre | Berlin |
+| Sat, 29 Aug 2026 | 131 Mccormack St | Toronto |
+
+## Recently played
+
+- La Cité des Arts de la Rue, Marseille — Sat, 25 Jul 2026
+- Carousel Bar & Ballroom, Sydney — Sat, 25 Jul 2026
+- Bakery Lane, Brisbane — Sun, 19 Jul 2026
+- Les Enfants Brillants, Barcelona — Sat, 27 Jun 2026
+- Doka, Amsterdam — Fri, 26 Jun 2026
+- Sunseabar Beach Club, Barcelona — Sun, 21 Jun 2026
+- Club der Visionaere, Berlin — Wed, 10 Jun 2026
+- Orlagh House, Dublin — Sat, 6 Jun 2026
+
+## Shares bills with
+
+Aline Umber, Automatic Writing, Aline Brooklyn
+
+*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/lamache/)*

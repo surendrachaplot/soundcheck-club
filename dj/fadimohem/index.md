@@ -1,6 +1,6 @@
 # Fadi Mohem
 
-Fadi Mohem is a Techno and House artist with 7 upcoming club dates listed on soundcheck as of Mon, 27 Jul 2026, next at BLITZ, Munich on Fri, 31 Jul 2026.
+Fadi Mohem is a Techno and House artist with 7 upcoming club dates listed on soundcheck as of Tue, 28 Jul 2026, next at BLITZ, Munich on Fri, 31 Jul 2026.
 
 Fadi Mohem is a techno and house artist tracked on soundcheck, with 218 sets logged across Amsterdam, Antwerp, Athens and Bali and 52 more. Often billed alongside Ben Klock, Ogazón and Philippa Pacho. Next up: BLITZ, Munich on Fri 31 Jul.
 
@@ -31,4 +31,4 @@ Fadi Mohem is a techno and house artist tracked on soundcheck, with 218 sets log
 
 Ben Klock, Ogazón, Philippa Pacho
 
-*Updated Mon, 27 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/fadimohem/)*
+*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/fadimohem/)*

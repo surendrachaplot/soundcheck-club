@@ -1,6 +1,6 @@
 # Steve Challier
 
-Steve Challier is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Mon, 27 Jul 2026, next at Kater, Berlin on Fri, 21 Aug 2026.
+Steve Challier is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Tue, 28 Jul 2026, next at Kater, Berlin on Fri, 21 Aug 2026.
 
 Steve Challier is a techno and house artist tracked on soundcheck, with 38 sets logged across Berlin, Hamburg, Newyorkcity and Zurich. Often billed alongside Britta Arnold, Mira and Peter Schumann. Next up: Kater, Berlin on Fri 21 Aug.
 
@@ -26,4 +26,4 @@ Steve Challier is a techno and house artist tracked on soundcheck, with 38 sets 
 
 Britta Arnold, Mira, Peter Schumann
 
-*Updated Mon, 27 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/stevechallier/)*
+*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/stevechallier/)*

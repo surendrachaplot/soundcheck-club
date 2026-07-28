@@ -1,6 +1,6 @@
 # Drama Club: Ginchy (ASOT/RESISTANCE) at UNDERCITY
 
-Drama Club: Ginchy (ASOT/RESISTANCE) at UNDERCITY on Fri 31 Jul, Seoul. 2 acts on the bill: Ginchy and Nathassia. Trance and Techno. Preview the line-up and save it on soundcheck.
+Drama Club: Ginchy (ASOT/RESISTANCE) at UNDERCITY on Fri 31 Jul, Seoul. 3 acts on the bill: Ginchy, Jiwoo Ahn and Nathassia. Trance and Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -11,6 +11,7 @@ Drama Club: Ginchy (ASOT/RESISTANCE) at UNDERCITY on Fri 31 Jul, Seoul. 2 acts o
 ## Line-up
 
 - Ginchy
+- Jiwoo Ahn
 - Nathassia
 
 *Source: [soundcheck](https://soundcheck.club/e/2483471-drama-club-ginchy-asot-resistance-at-undercity/)*

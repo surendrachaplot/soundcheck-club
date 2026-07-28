@@ -1,8 +1,8 @@
 # PENELOPE (DE)
 
-PENELOPE (DE) is a Techno and Trance artist with 2 upcoming club dates listed on soundcheck as of Mon, 27 Jul 2026, next at Nidderbad, Frankfurt on Sat, 22 Aug 2026.
+PENELOPE (DE) is a Techno and Trance artist with 3 upcoming club dates listed on soundcheck as of Tue, 28 Jul 2026, next at Nidderbad, Frankfurt on Sat, 22 Aug 2026.
 
-PENELOPE (DE) is a techno and trance artist tracked on soundcheck, with 35 sets logged across Amsterdam, Frankfurt, Hamburg and Toronto and 1 more. Often billed alongside Kacy, The Belgian Stallion and CiKi. Next up: Nidderbad, Frankfurt on Sat 22 Aug.
+PENELOPE (DE) is a techno and trance artist tracked on soundcheck, with 36 sets logged across Amsterdam, Frankfurt, Hamburg and Toronto and 1 more. Often billed alongside Kacy, The Belgian Stallion and CiKi. Next up: Nidderbad, Frankfurt on Sat 22 Aug.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ PENELOPE (DE) is a techno and trance artist tracked on soundcheck, with 35 sets 
 | --- | --- | --- |
 | Sat, 22 Aug 2026 | Nidderbad | Frankfurt |
 | Sat, 5 Sept 2026 | Ehemaliges Polizeipräsidium | Frankfurt |
+| Fri, 11 Sept 2026 | Gateway Gardens Ocean Club | Frankfurt |
 
 ## Recently played
 
@@ -26,4 +27,4 @@ PENELOPE (DE) is a techno and trance artist tracked on soundcheck, with 35 sets 
 
 Kacy, The Belgian Stallion, CiKi
 
-*Updated Mon, 27 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/penelopede/)*
+*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/penelopede/)*

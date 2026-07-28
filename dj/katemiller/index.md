@@ -1,8 +1,8 @@
 # Kate Miller
 
-Kate Miller is a Bass and Techno artist with 2 upcoming club dates listed on soundcheck as of Mon, 27 Jul 2026, next at Angel Music Bar, Melbourne on Fri, 31 Jul 2026.
+Kate Miller is a Bass and Techno artist with 3 upcoming club dates listed on soundcheck as of Tue, 28 Jul 2026, next at Angel Music Bar, Melbourne on Fri, 31 Jul 2026.
 
-Kate Miller is a bass and techno artist based in Australia, tracked on soundcheck, with 67 sets logged across Brisbane, Melbourne, Osaka and Strasbourg and 2 more. Often billed alongside Willis Anne, Emelyne and DJ PGZ. Next up: Angel Music Bar, Melbourne on Fri 31 Jul.
+Kate Miller is a bass and techno artist based in Australia, tracked on soundcheck, with 68 sets logged across Brisbane, Melbourne, Osaka and Strasbourg and 2 more. Often billed alongside Willis Anne, Emelyne and DJ PGZ. Next up: Angel Music Bar, Melbourne on Fri 31 Jul.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Kate Miller is a bass and techno artist based in Australia, tracked on soundchec
 | --- | --- | --- |
 | Fri, 31 Jul 2026 | Angel Music Bar | Melbourne |
 | Sat, 1 Aug 2026 | Solace | Melbourne |
+| Sat, 29 Aug 2026 | QQQ ST. Park | Melbourne |
 
 ## Recently played
 
@@ -26,4 +27,4 @@ Kate Miller is a bass and techno artist based in Australia, tracked on soundchec
 
 Willis Anne, Emelyne, DJ PGZ
 
-*Updated Mon, 27 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/katemiller/)*
+*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/katemiller/)*

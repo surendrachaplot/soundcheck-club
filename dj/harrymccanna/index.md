@@ -1,6 +1,6 @@
 # Harry McCanna
 
-Harry McCanna is a House and Tech House artist with 8 upcoming club dates listed on soundcheck as of Mon, 27 Jul 2026, next at Les Enfants Brillants, Barcelona on Fri, 31 Jul 2026.
+Harry McCanna is a House and Tech House artist with 8 upcoming club dates listed on soundcheck as of Tue, 28 Jul 2026, next at Les Enfants Brillants, Barcelona on Fri, 31 Jul 2026.
 
 Harry McCanna is a house and tech house artist tracked on soundcheck, with 131 sets logged across Amsterdam, Athens, Barcelona and Berlin and 20 more. Often billed alongside Sam Bangura, Dale Mussington and NorthSouth. Next up: Les Enfants Brillants, Barcelona on Fri 31 Jul.
 
@@ -32,4 +32,4 @@ Harry McCanna is a house and tech house artist tracked on soundcheck, with 131 s
 
 Sam Bangura, Dale Mussington, NorthSouth
 
-*Updated Mon, 27 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/harrymccanna/)*
+*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/harrymccanna/)*

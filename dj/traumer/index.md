@@ -1,6 +1,6 @@
 # Traumer
 
-Traumer is a House and Techno artist with 20 upcoming club dates listed on soundcheck as of Mon, 27 Jul 2026, next at TBA - Camp Summerdaze Montreal, Montreal on Thu, 30 Jul 2026.
+Traumer is a House and Techno artist with 20 upcoming club dates listed on soundcheck as of Tue, 28 Jul 2026, next at TBA - Camp Summerdaze Montreal, Montreal on Thu, 30 Jul 2026.
 
 Traumer is a house and techno artist tracked on soundcheck, with 299 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 65 more. Often billed alongside Enzo Siragusa, Shonky and Apollonia. Next up: TBA - Camp Summerdaze Montreal, Montreal on Thu 30 Jul.
 
@@ -36,4 +36,4 @@ Traumer is a house and techno artist tracked on soundcheck, with 299 sets logged
 
 Enzo Siragusa, Shonky, Apollonia
 
-*Updated Mon, 27 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/traumer/)*
+*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/traumer/)*

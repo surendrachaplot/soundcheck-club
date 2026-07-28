@@ -1,6 +1,6 @@
 # MUSICKLUNATIC
 
-MUSICKLUNATIC is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Mon, 27 Jul 2026, next at Aaja Basement, London on Fri, 31 Jul 2026.
+MUSICKLUNATIC is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Tue, 28 Jul 2026, next at Aaja Basement, London on Fri, 31 Jul 2026.
 
 MUSICKLUNATIC is a techno and house artist tracked on soundcheck, with 24 sets logged across London. Often billed alongside DungeonMaster, AMAR (UK) and Helios Manoeuvres. Next up: Aaja Basement, London on Fri 31 Jul.
 
@@ -27,4 +27,4 @@ MUSICKLUNATIC is a techno and house artist tracked on soundcheck, with 24 sets l
 
 DungeonMaster, AMAR (UK), Helios Manoeuvres
 
-*Updated Mon, 27 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/musicklunatic/)*
+*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/musicklunatic/)*

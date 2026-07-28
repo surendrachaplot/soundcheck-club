@@ -1,6 +1,6 @@
 # Uncle Dugs
 
-Uncle Dugs is a Drum & Bass and Jungle artist with 5 upcoming club dates listed on soundcheck as of Mon, 27 Jul 2026, next at Jaeger, Oslo on Fri, 31 Jul 2026.
+Uncle Dugs is a Drum & Bass and Jungle artist with 5 upcoming club dates listed on soundcheck as of Tue, 28 Jul 2026, next at Jaeger, Oslo on Fri, 31 Jul 2026.
 
 Uncle Dugs is a drum & bass and jungle artist tracked on soundcheck, with 61 sets logged across Amsterdam, Bangkok, Birmingham and Bristol and 3 more. Often billed alongside The Ragga Twins, Nicky Blackmarket and DJ Brockie. Next up: Jaeger, Oslo on Fri 31 Jul.
 
@@ -29,4 +29,4 @@ Uncle Dugs is a drum & bass and jungle artist tracked on soundcheck, with 61 set
 
 The Ragga Twins, Nicky Blackmarket, DJ Brockie
 
-*Updated Mon, 27 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/uncledugs/)*
+*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/uncledugs/)*

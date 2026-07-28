@@ -1,6 +1,6 @@
 # TBA - LAKE SPACE, Deptford
 
-TBA - LAKE SPACE, Deptford is a music venue in London with 1 upcoming night listed on soundcheck as of Mon, 27 Jul 2026; the next is "Lake Live 01: Sprachkörper  – Leonard Maassen" on Sat, 1 Aug 2026.
+TBA - LAKE SPACE, Deptford is a music venue in London with 1 upcoming night listed on soundcheck as of Tue, 28 Jul 2026; the next is "Lake Live 01: Sprachkörper  – Leonard Maassen" on Sat, 1 Aug 2026.
 
 TBA - LAKE SPACE, Deptford is a music venue in London listed on soundcheck. 1 upcoming night, with line-ups including Leonard Maassen. Browse upcoming dates, start times and who's playing.
 
@@ -10,4 +10,4 @@ TBA - LAKE SPACE, Deptford is a music venue in London listed on soundcheck. 1 up
 | --- | --- | --- |
 | Sat, 1 Aug 2026 | Lake Live 01: Sprachkörper  – Leonard Maassen | Leonard Maassen |
 
-*Updated Mon, 27 Jul 2026 · source: [soundcheck](https://soundcheck.club/london/club/tba-lake-space-deptford/)*
+*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/london/club/tba-lake-space-deptford/)*

@@ -1,6 +1,6 @@
 # Thabo
 
-Thabo is a House and Techno artist with 5 upcoming club dates listed on soundcheck as of Mon, 27 Jul 2026, next at Café am Neuen See, Berlin on Sat, 1 Aug 2026.
+Thabo is a House and Techno artist with 5 upcoming club dates listed on soundcheck as of Tue, 28 Jul 2026, next at Café am Neuen See, Berlin on Sat, 1 Aug 2026.
 
 Thabo is a house and techno artist tracked on soundcheck, with 79 sets logged across Amsterdam, Athens, Bali and Barcelona and 15 more. Often billed alongside Thalo Santana, Blame Anthony and DJ Butterhands. Next up: Café am Neuen See, Berlin on Sat 1 Aug.
 
@@ -29,4 +29,4 @@ Thabo is a house and techno artist tracked on soundcheck, with 79 sets logged ac
 
 Thalo Santana, Blame Anthony, DJ Butterhands
 
-*Updated Mon, 27 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/thabogetsome/)*
+*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/thabogetsome/)*

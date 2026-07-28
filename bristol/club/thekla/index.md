@@ -1,8 +1,8 @@
 # Thekla
 
-Thekla is a music venue in Bristol with 4 upcoming nights listed on soundcheck as of Mon, 27 Jul 2026; the next is "PIXELATE Bristol Beach" on Fri, 11 Sept 2026.
+Thekla is a music venue in Bristol with 5 upcoming nights listed on soundcheck as of Tue, 28 Jul 2026; the next is "PIXELATE Bristol Beach" on Fri, 11 Sept 2026.
 
-Thekla is a music venue in Bristol listed on soundcheck. 4 upcoming nights, with line-ups including Badger (UK), BEN GERRANS, blo rida and Compulsive Leia and 2 more. Browse upcoming dates, start times and who's playing. The Grove, East Mud Dock, Bristol BS1 4RB, United Kingdom.
+Thekla is a music venue in Bristol listed on soundcheck. 5 upcoming nights, with line-ups including Badger (UK), BEN GERRANS, blo rida and Compulsive Leia and 2 more. Browse upcoming dates, start times and who's playing. The Grove, East Mud Dock, Bristol BS1 4RB, United Kingdom.
 
 ## What's on
 
@@ -12,9 +12,10 @@ Thekla is a music venue in Bristol listed on soundcheck. 4 upcoming nights, with
 | Wed, 16 Sept 2026 | UWE Bristol Official Freshers - Garage Boat Party |  |
 | Fri, 25 Sept 2026 | Dazed Muzic presents: Sophia Violet | Drinks On Me, Sophia Violet |
 | Fri, 2 Oct 2026 | Dazed Muzic presents: Badger | BEN GERRANS, Badger (UK) |
+| Fri, 9 Oct 2026 | Dazed Muzic presents: Oh My Rosh & Friends |  |
 
 ## Address
 
 The Grove, East Mud Dock, Bristol BS1 4RB, United Kingdom, Bristol
 
-*Updated Mon, 27 Jul 2026 · source: [soundcheck](https://soundcheck.club/bristol/club/thekla/)*
+*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/bristol/club/thekla/)*

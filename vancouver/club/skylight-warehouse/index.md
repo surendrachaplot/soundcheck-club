@@ -1,6 +1,6 @@
 # Skylight Warehouse
 
-Skylight Warehouse is a music venue in Vancouver with 2 upcoming nights listed on soundcheck as of Mon, 27 Jul 2026; the next is "HARD KANDY (Pride Sunday Warehouse Party)" on Sun, 2 Aug 2026.
+Skylight Warehouse is a music venue in Vancouver with 2 upcoming nights listed on soundcheck as of Tue, 28 Jul 2026; the next is "HARD KANDY (Pride Sunday Warehouse Party)" on Sun, 2 Aug 2026.
 
 Skylight Warehouse is a music venue in Vancouver listed on soundcheck. 2 upcoming nights, with line-ups including Anna Morgan, Devønn, DJ Indifferent and NOS-talgia. Browse upcoming dates, start times and who's playing. 1800 Main St Back Entrance.
 
@@ -15,4 +15,4 @@ Skylight Warehouse is a music venue in Vancouver listed on soundcheck. 2 upcomin
 
 1800 Main St Back Entrance, Vancouver
 
-*Updated Mon, 27 Jul 2026 · source: [soundcheck](https://soundcheck.club/vancouver/club/skylight-warehouse/)*
+*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/vancouver/club/skylight-warehouse/)*

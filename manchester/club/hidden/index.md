@@ -1,6 +1,6 @@
 # Hidden
 
-Hidden is a music venue in Manchester with 11 upcoming nights listed on soundcheck as of Mon, 27 Jul 2026; the next is "Teletech Festival Pre Party" on Fri, 31 Jul 2026.
+Hidden is a music venue in Manchester with 11 upcoming nights listed on soundcheck as of Tue, 28 Jul 2026; the next is "Teletech Festival Pre Party" on Fri, 31 Jul 2026.
 
 Hidden is a music venue in Manchester listed on soundcheck. 11 upcoming nights, with line-ups including Charlie Shell, Chimpo, Christian AB and DJANGO (NL) and 2 more. Browse upcoming dates, start times and who's playing. 17 DownTex Mill, Mary Street, Manchester, M3 1DZ, United Kingdom.
 
@@ -23,4 +23,4 @@ Hidden is a music venue in Manchester listed on soundcheck. 11 upcoming nights, 
 
 17 DownTex Mill, Mary Street, Manchester, M3 1DZ, United Kingdom, Manchester
 
-*Updated Mon, 27 Jul 2026 · source: [soundcheck](https://soundcheck.club/manchester/club/hidden/)*
+*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/manchester/club/hidden/)*

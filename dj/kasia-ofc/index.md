@@ -1,6 +1,6 @@
 # Kasia (OFC)
 
-Kasia (OFC) is a Techno and House artist with 5 upcoming club dates listed on soundcheck as of Mon, 27 Jul 2026, next at Gianpula Village, Malta on Fri, 31 Jul 2026.
+Kasia (OFC) is a Techno and House artist with 5 upcoming club dates listed on soundcheck as of Tue, 28 Jul 2026, next at Gianpula Village, Malta on Fri, 31 Jul 2026.
 
 Kasia (OFC) is a techno and house artist tracked on soundcheck, with 75 sets logged across Amsterdam, Athens, Bali and Barcelona and 27 more. Often billed alongside Adam Beyer, Kevin de Vries and Chris Avantgarde. Next up: Gianpula Village, Malta on Fri 31 Jul.
 
@@ -29,4 +29,4 @@ Kasia (OFC) is a techno and house artist tracked on soundcheck, with 75 sets log
 
 Adam Beyer, Kevin de Vries, Chris Avantgarde
 
-*Updated Mon, 27 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/kasia-ofc/)*
+*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/kasia-ofc/)*

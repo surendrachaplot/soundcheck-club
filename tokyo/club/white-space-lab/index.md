@@ -1,6 +1,6 @@
 # White Space Lab
 
-White Space Lab is a music venue in Tokyo with 6 upcoming nights listed on soundcheck as of Mon, 27 Jul 2026; the next is "Polynasia" on Thu, 30 Jul 2026.
+White Space Lab is a music venue in Tokyo with 6 upcoming nights listed on soundcheck as of Tue, 28 Jul 2026; the next is "Polynasia" on Thu, 30 Jul 2026.
 
 White Space Lab is a music venue in Tokyo listed on soundcheck. 6 upcoming nights, with line-ups including 北極 / Ali NM, ALLY, amina (2) and Arao and 2 more. Browse upcoming dates, start times and who's playing. 2-20 Maruyama-cho, Shibuya-ku, Tokyo, 150-0044.
 
@@ -19,4 +19,4 @@ White Space Lab is a music venue in Tokyo listed on soundcheck. 6 upcoming night
 
 2-20 Maruyama-cho, Shibuya-ku, Tokyo, 150-0044, Tokyo
 
-*Updated Mon, 27 Jul 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/white-space-lab/)*
+*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/white-space-lab/)*

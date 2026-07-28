@@ -1,6 +1,6 @@
 # KLUB WARSZAWA
 
-KLUB WARSZAWA is a music venue in Warsaw with 1 upcoming night listed on soundcheck as of Mon, 27 Jul 2026; the next is "No.Party" on Fri, 31 Jul 2026.
+KLUB WARSZAWA is a music venue in Warsaw with 1 upcoming night listed on soundcheck as of Tue, 28 Jul 2026; the next is "No.Party" on Fri, 31 Jul 2026.
 
 KLUB WARSZAWA is a music venue in Warsaw listed on soundcheck. 1 upcoming night. Browse upcoming dates, start times and who's playing. Grzybowska 60, 00-844 Warszawa.
 
@@ -14,4 +14,4 @@ KLUB WARSZAWA is a music venue in Warsaw listed on soundcheck. 1 upcoming night.
 
 Grzybowska 60, 00-844 Warszawa, Warsaw
 
-*Updated Mon, 27 Jul 2026 · source: [soundcheck](https://soundcheck.club/warsaw/club/klub-warszawa/)*
+*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/warsaw/club/klub-warszawa/)*

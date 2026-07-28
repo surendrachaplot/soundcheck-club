@@ -1,15 +1,13 @@
 # Cross Club
 
-Cross Club is a music venue in Prague with 8 upcoming nights listed on soundcheck as of Mon, 27 Jul 2026; the next is "Los Tekkenos 232323" on Mon, 27 Jul 2026.
+Cross Club is a music venue in Prague with 6 upcoming nights listed on soundcheck as of Tue, 28 Jul 2026; the next is "DNB WARM UP" on Tue, 28 Jul 2026.
 
-Cross Club is a music venue in Prague listed on soundcheck. 8 upcoming nights, with line-ups including fleika. Browse upcoming dates, start times and who's playing. Plynární 1096/23, Praha 7, Czech Republic.
+Cross Club is a music venue in Prague listed on soundcheck. 6 upcoming nights, with line-ups including fleika. Browse upcoming dates, start times and who's playing. Plynární 1096/23, Praha 7, Czech Republic.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Mon, 27 Jul 2026 | Los Tekkenos 232323 |  |
-| Mon, 27 Jul 2026 | LOS TEKKENOS |  |
 | Tue, 28 Jul 2026 | DNB WARM UP |  |
 | Wed, 29 Jul 2026 | CROSS SQUARE with LA FANFARRIA DEL CAPITAN |  |
 | Fri, 31 Jul 2026 | CROSS SQUARE with BUTY |  |
@@ -21,4 +19,4 @@ Cross Club is a music venue in Prague listed on soundcheck. 8 upcoming nights, w
 
 Plynární 1096/23, Praha 7, Czech Republic, Prague
 
-*Updated Mon, 27 Jul 2026 · source: [soundcheck](https://soundcheck.club/prague/club/cross-club/)*
+*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/prague/club/cross-club/)*

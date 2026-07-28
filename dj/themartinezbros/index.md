@@ -1,6 +1,6 @@
 # The Martinez Brothers
 
-The Martinez Brothers is a House and Tech House artist with 7 upcoming club dates listed on soundcheck as of Mon, 27 Jul 2026, next at Pacha Ibiza, Ibiza on Fri, 31 Jul 2026.
+The Martinez Brothers is a House and Tech House artist with 7 upcoming club dates listed on soundcheck as of Tue, 28 Jul 2026, next at Pacha Ibiza, Ibiza on Fri, 31 Jul 2026.
 
 The Martinez Brothers is a house and tech house artist tracked on soundcheck, with 178 sets logged across Amsterdam, Austin, Bali and Barcelona and 34 more. Often billed alongside Paco Osuna, Seth Troxler and Jamie Jones. Next up: Pacha Ibiza, Ibiza on Fri 31 Jul.
 
@@ -31,4 +31,4 @@ The Martinez Brothers is a house and tech house artist tracked on soundcheck, wi
 
 Paco Osuna, Seth Troxler, Jamie Jones
 
-*Updated Mon, 27 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/themartinezbros/)*
+*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/themartinezbros/)*

@@ -1,6 +1,6 @@
 # Système
 
-Système is a music venue in Montreal with 21 upcoming nights listed on soundcheck as of Mon, 27 Jul 2026; the next is "Système Soundsystem x Sans Soleil" on Thu, 30 Jul 2026.
+Système is a music venue in Montreal with 21 upcoming nights listed on soundcheck as of Tue, 28 Jul 2026; the next is "Système Soundsystem x Sans Soleil" on Thu, 30 Jul 2026.
 
 Système is a music venue in Montreal listed on soundcheck. 21 upcoming nights, with line-ups including Anatohl, Andie, Anushka (UK) and Asha (4) and 2 more. Browse upcoming dates, start times and who's playing. 7119 Saint Hubert, Montreal QC H2S2N1 Canada.
 
@@ -9,7 +9,7 @@ Système is a music venue in Montreal listed on soundcheck. 21 upcoming nights, 
 | Date | Night | Line-up |
 | --- | --- | --- |
 | Thu, 30 Jul 2026 | Système Soundsystem x Sans Soleil | Andie, BisouBizou, DJ Hidi, Flleur |
-| Fri, 31 Jul 2026 | Système Saturday | Dj Hermano, Mok-T, The Grouch Dj |
+| Fri, 31 Jul 2026 | Système Saturday : Dj Hermano, The Grouch Dj, Mok-T | Dj Hermano, Mok-T, The Grouch Dj |
 | Sat, 1 Aug 2026 | FLUSH: DJ Mini & TWAN | Dijipoune, FLUSH, TWAN |
 | Sun, 2 Aug 2026 | Fella's Q-Tips: La Murga (Live) + Cal-C | Fella's Q-Tips |
 | Thu, 6 Aug 2026 | VIMBAI.LIVE |  |
@@ -23,4 +23,4 @@ Système is a music venue in Montreal listed on soundcheck. 21 upcoming nights, 
 
 7119 Saint Hubert, Montreal QC H2S2N1 Canada, Montreal
 
-*Updated Mon, 27 Jul 2026 · source: [soundcheck](https://soundcheck.club/montreal/club/syst-me/)*
+*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/montreal/club/syst-me/)*

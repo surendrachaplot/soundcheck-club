@@ -1,6 +1,6 @@
 # Ylia
 
-Ylia is a House and Disco artist with 3 upcoming club dates listed on soundcheck as of Mon, 27 Jul 2026, next at Dr. Banana Club, Sao Paulo on Sat, 1 Aug 2026.
+Ylia is a House and Disco artist with 3 upcoming club dates listed on soundcheck as of Tue, 28 Jul 2026, next at Dr. Banana Club, Sao Paulo on Sat, 1 Aug 2026.
 
 Ylia is a house and disco artist based in Spain, tracked on soundcheck, with 26 sets logged across Barcelona, Madrid, Malaga and Rome and 2 more. Often billed alongside Lucient, Phran and Meritxell De Soto. Next up: Dr. Banana Club, Saopaulo on Sat 1 Aug.
 
@@ -27,4 +27,4 @@ Ylia is a house and disco artist based in Spain, tracked on soundcheck, with 26 
 
 Lucient, Phran, Meritxell De Soto
 
-*Updated Mon, 27 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/ylia/)*
+*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/ylia/)*

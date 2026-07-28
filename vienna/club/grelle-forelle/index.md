@@ -1,6 +1,6 @@
 # Grelle Forelle
 
-Grelle Forelle is a music venue in Vienna with 5 upcoming nights listed on soundcheck as of Mon, 27 Jul 2026; the next is "Local Club Night" on Fri, 31 Jul 2026.
+Grelle Forelle is a music venue in Vienna with 5 upcoming nights listed on soundcheck as of Tue, 28 Jul 2026; the next is "Local Club Night" on Fri, 31 Jul 2026.
 
 Grelle Forelle is a music venue in Vienna listed on soundcheck. 5 upcoming nights, with line-ups including Aleta, Annika Stein, Caniche and Carmen Electro and 2 more. Browse upcoming dates, start times and who's playing. Spittelauer Lände 12; 1090 Vienna; Austria.
 
@@ -18,4 +18,4 @@ Grelle Forelle is a music venue in Vienna listed on soundcheck. 5 upcoming night
 
 Spittelauer Lände 12; 1090 Vienna; Austria, Vienna
 
-*Updated Mon, 27 Jul 2026 · source: [soundcheck](https://soundcheck.club/vienna/club/grelle-forelle/)*
+*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/vienna/club/grelle-forelle/)*

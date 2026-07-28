@@ -1,6 +1,6 @@
 # Kelly Lee Owens
 
-Kelly Lee Owens is a Techno and Electro artist with 2 upcoming club dates listed on soundcheck as of Mon, 27 Jul 2026, next at Old Royal Naval College, London on Sun, 2 Aug 2026.
+Kelly Lee Owens is a Techno and Electro artist with 2 upcoming club dates listed on soundcheck as of Tue, 28 Jul 2026, next at Old Royal Naval College, London on Sun, 2 Aug 2026.
 
 Kelly Lee Owens is a techno and electro artist tracked on soundcheck, with 50 sets logged across Barcelona, Brighton, Bristol and Budapest and 18 more. Often billed alongside George Daniel, Oscar Farrell and Leon Vynehall. Next up: Old Royal Naval College, London on Sun 2 Aug.
 
@@ -26,4 +26,4 @@ Kelly Lee Owens is a techno and electro artist tracked on soundcheck, with 50 se
 
 George Daniel, Oscar Farrell, Leon Vynehall
 
-*Updated Mon, 27 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/kellyleeowens/)*
+*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/kellyleeowens/)*

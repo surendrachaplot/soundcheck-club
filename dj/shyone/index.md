@@ -1,8 +1,8 @@
 # Shy One
 
-Shy One is a House and Techno artist with 5 upcoming club dates listed on soundcheck as of Mon, 27 Jul 2026, next at Hayling Island, London on Sun, 2 Aug 2026.
+Shy One is a House and Techno artist with 6 upcoming club dates listed on soundcheck as of Tue, 28 Jul 2026, next at Hayling Island, London on Sun, 2 Aug 2026.
 
-Shy One is a house and techno artist tracked on soundcheck, with 120 sets logged across Amsterdam, Antwerp, Bali and Barcelona and 24 more. Often billed alongside Ruby Savage, NIKS and Errol. Next up: Hayling Island, London on Sun 2 Aug.
+Shy One is a house and techno artist tracked on soundcheck, with 121 sets logged across Amsterdam, Antwerp, Bali and Barcelona and 24 more. Often billed alongside Ruby Savage, NIKS and Errol. Next up: Hayling Island, London on Sun 2 Aug.
 
 ## Upcoming shows
 
@@ -13,6 +13,7 @@ Shy One is a house and techno artist tracked on soundcheck, with 120 sets logged
 | Sat, 22 Aug 2026 | Queen Elizabeth Olympic Park | London |
 | Sat, 29 Aug 2026 | Knockdown Center | New York City |
 | Sat, 12 Sept 2026 | The Cause | London |
+| Sun, 20 Sept 2026 | The White Hotel | Manchester |
 
 ## Recently played
 
@@ -29,4 +30,4 @@ Shy One is a house and techno artist tracked on soundcheck, with 120 sets logged
 
 Ruby Savage, NIKS, Errol
 
-*Updated Mon, 27 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/shyone/)*
+*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/shyone/)*

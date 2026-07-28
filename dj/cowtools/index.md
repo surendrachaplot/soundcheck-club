@@ -1,6 +1,6 @@
 # Cow Tools
 
-Cow Tools is a Techno and Progressive House artist with 3 upcoming club dates listed on soundcheck as of Mon, 27 Jul 2026, next at Mood Ring, New York City on Wed, 29 Jul 2026.
+Cow Tools is a Techno and Progressive House artist with 3 upcoming club dates listed on soundcheck as of Tue, 28 Jul 2026, next at Mood Ring, New York City on Wed, 29 Jul 2026.
 
 Cow Tools is a techno and progressive house artist based in United States of America, tracked on soundcheck, with 9 sets logged across Newyorkcity. Often billed alongside R-DNA, COVE(US) and Simge. Next up: Mood Ring, Newyorkcity on Wed 29 Jul.
 
@@ -25,4 +25,4 @@ Cow Tools is a techno and progressive house artist based in United States of Ame
 
 R-DNA, COVE(US), Simge
 
-*Updated Mon, 27 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/cowtools/)*
+*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/cowtools/)*

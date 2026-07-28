@@ -1,8 +1,8 @@
 # DJ GUESTLIST
 
-DJ GUESTLIST is a Techno and Trance artist with 7 upcoming club dates listed on soundcheck as of Mon, 27 Jul 2026, next at TBA - Peißnitzinsel Halle, Leipzig on Sat, 1 Aug 2026.
+DJ GUESTLIST is a Techno and Trance artist with 9 upcoming club dates listed on soundcheck as of Tue, 28 Jul 2026, next at TBA - Peißnitzinsel Halle, Leipzig on Sat, 1 Aug 2026.
 
-DJ GUESTLIST is a techno and trance artist tracked on soundcheck, with 124 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 25 more. Often billed alongside Paraçek, DJ Traytex and KLING&KLANG. Next up: TBA - Peißnitzinsel Halle, Leipzig on Sat 1 Aug.
+DJ GUESTLIST is a techno and trance artist tracked on soundcheck, with 126 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 25 more. Often billed alongside Paraçek, DJ Traytex and KLING&KLANG. Next up: TBA - Peißnitzinsel Halle, Leipzig on Sat 1 Aug.
 
 ## Upcoming shows
 
@@ -12,6 +12,8 @@ DJ GUESTLIST is a techno and trance artist tracked on soundcheck, with 124 sets 
 | Fri, 7 Aug 2026 | Waschhaus | Berlin |
 | Sat, 8 Aug 2026 | Schrotty | Cologne |
 | Fri, 28 Aug 2026 | Lokschuppen Berlin | Berlin |
+| Sat, 5 Sept 2026 | Mia Mao | Paris |
+| Fri, 11 Sept 2026 | Gateway Gardens Ocean Club | Frankfurt |
 | Fri, 18 Sept 2026 | Superordinary | Brisbane |
 | Sat, 19 Sept 2026 | White Bay Power Station | Sydney |
 | Fri, 25 Sept 2026 | Pica (Port Melbourne Industrial Centre for the Arts) | Melbourne |
@@ -31,4 +33,4 @@ DJ GUESTLIST is a techno and trance artist tracked on soundcheck, with 124 sets 
 
 Paraçek, DJ Traytex, KLING&KLANG
 
-*Updated Mon, 27 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/djguestlist/)*
+*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/djguestlist/)*

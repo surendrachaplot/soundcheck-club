@@ -1,6 +1,6 @@
 # Aldonna
 
-Aldonna is a House and Techno artist with 5 upcoming club dates listed on soundcheck as of Mon, 27 Jul 2026, next at BRET, Amsterdam on Fri, 7 Aug 2026.
+Aldonna is a House and Techno artist with 5 upcoming club dates listed on soundcheck as of Tue, 28 Jul 2026, next at BRET, Amsterdam on Fri, 7 Aug 2026.
 
 Aldonna is a house and techno artist tracked on soundcheck, with 126 sets logged across Amsterdam, Bali, Berlin and Brisbane and 25 more. Often billed alongside Tjade, D Stone and DAWS. Next up: BRET, Amsterdam on Fri 7 Aug.
 
@@ -29,4 +29,4 @@ Aldonna is a house and techno artist tracked on soundcheck, with 126 sets logged
 
 Tjade, D Stone, DAWS
 
-*Updated Mon, 27 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/aldonna/)*
+*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/aldonna/)*

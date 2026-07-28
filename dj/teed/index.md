@@ -1,6 +1,6 @@
 # TEED
 
-TEED is a House and Bass artist with 5 upcoming club dates listed on soundcheck as of Mon, 27 Jul 2026, next at Monarch, San Francisco/Oakland on Fri, 31 Jul 2026.
+TEED is a House and Bass artist with 5 upcoming club dates listed on soundcheck as of Tue, 28 Jul 2026, next at Monarch, San Francisco/Oakland on Fri, 31 Jul 2026.
 
 TEED is a house and bass artist tracked on soundcheck, with 43 sets logged across Amsterdam, Berlin, Boston and Brisbane and 20 more. Often billed alongside Dom Dolla, Heidi Lawden and Oppidan. Next up: Monarch, Sanfrancisco on Fri 31 Jul.
 
@@ -29,4 +29,4 @@ TEED is a house and bass artist tracked on soundcheck, with 43 sets logged acros
 
 Dom Dolla, Heidi Lawden, Oppidan
 
-*Updated Mon, 27 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/teed/)*
+*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/teed/)*

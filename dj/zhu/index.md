@@ -1,6 +1,6 @@
 # ZHU
 
-ZHU is a House and Deep House artist with 5 upcoming club dates listed on soundcheck as of Mon, 27 Jul 2026, next at Navy Pier, Chicago on Sat, 15 Aug 2026.
+ZHU is a House and Deep House artist with 5 upcoming club dates listed on soundcheck as of Tue, 28 Jul 2026, next at Navy Pier, Chicago on Sat, 15 Aug 2026.
 
 ZHU is a house and deep house artist based in United States of America, tracked on soundcheck, with 26 sets logged across Austin, Chicago, Denver and Detroit and 10 more. Often billed alongside Diplo, Azzecca and Biscits. Next up: Navy Pier, Chicago on Sat 15 Aug.
 
@@ -29,4 +29,4 @@ ZHU is a house and deep house artist based in United States of America, tracked 
 
 Diplo, Azzecca, Biscits
 
-*Updated Mon, 27 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/zhu/)*
+*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/zhu/)*

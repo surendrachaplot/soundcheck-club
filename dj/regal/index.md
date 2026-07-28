@@ -1,6 +1,6 @@
 # Regal
 
-Regal is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Mon, 27 Jul 2026, next at IFEMA, Madrid on Fri, 18 Sept 2026.
+Regal is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Tue, 28 Jul 2026, next at IFEMA, Madrid on Fri, 18 Sept 2026.
 
 Regal is a techno and house artist tracked on soundcheck, with 125 sets logged across Amsterdam, Athens, Barcelona and Berlin and 41 more. Often billed alongside Amelie Lens, Daria Kolosova and Nuke. Next up: IFEMA, Madrid on Fri 18 Sept.
 
@@ -27,4 +27,4 @@ Regal is a techno and house artist tracked on soundcheck, with 125 sets logged a
 
 Amelie Lens, Daria Kolosova, Nuke
 
-*Updated Mon, 27 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/regal/)*
+*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/regal/)*

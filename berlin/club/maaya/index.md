@@ -1,6 +1,6 @@
 # Maaya
 
-Maaya is a music venue in Berlin with 13 upcoming nights listed on soundcheck as of Mon, 27 Jul 2026; the next is "FIESTAS PATRIAS PERÚ" on Tue, 28 Jul 2026.
+Maaya is a music venue in Berlin with 13 upcoming nights listed on soundcheck as of Tue, 28 Jul 2026; the next is "FIESTAS PATRIAS PERÚ" on Tue, 28 Jul 2026.
 
 Maaya is a music venue in Berlin listed on soundcheck. 13 upcoming nights, with line-ups including AMBRA, Amine K, dj latinchat and DJ STRAIGHT GIRL and 2 more. Browse upcoming dates, start times and who's playing. Revalerstr. 99, 10245 Berlin.
 
@@ -23,4 +23,4 @@ Maaya is a music venue in Berlin listed on soundcheck. 13 upcoming nights, with 
 
 Revalerstr. 99, 10245 Berlin, Berlin
 
-*Updated Mon, 27 Jul 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/maaya/)*
+*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/maaya/)*

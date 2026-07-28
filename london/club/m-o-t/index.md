@@ -1,8 +1,8 @@
 # M.O.T
 
-M.O.T is a music venue in London with 28 upcoming nights listed on soundcheck as of Mon, 27 Jul 2026; the next is "TECHNO IN LONDON - OPEN DECKS & SOCIAL - 1 YEAR BDAY  " on Thu, 30 Jul 2026.
+M.O.T is a music venue in London with 29 upcoming nights listed on soundcheck as of Tue, 28 Jul 2026; the next is "TECHNO IN LONDON - OPEN DECKS & SOCIAL - 1 YEAR BDAY  " on Thu, 30 Jul 2026.
 
-M.O.T is a music venue in London listed on soundcheck. 28 upcoming nights, with line-ups including Abby Daze, Achiya, Akanbi and ALCATRAZ and 2 more. Browse upcoming dates, start times and who's playing. Orion Business Centre, Surrey Canal Rd SE14 5RT.
+M.O.T is a music venue in London listed on soundcheck. 29 upcoming nights, with line-ups including Abby Daze, Achiya, Akanbi and ALCATRAZ and 2 more. Browse upcoming dates, start times and who's playing. Orion Business Centre, Surrey Canal Rd SE14 5RT.
 
 ## What's on
 
@@ -17,10 +17,10 @@ M.O.T is a music venue in London listed on soundcheck. 28 upcoming nights, with 
 | Thu, 6 Aug 2026 | [FREE] NON-STOP HEAVYWEIGHT NONSENSE - FORTRESS | Estevez (1), Nio-B |
 | Fri, 7 Aug 2026 | GROOVY GROOVY London — Akanbi, Neffa-T & Tailor Jae | Akanbi, Neffa-T, Tailor Jae |
 | Sat, 8 Aug 2026 | Maiden Voyage Afterparty: Live From Earth | ALCATRAZ, DJ Gigola, OSK (3), The Twins, dj g2g |
-| Fri, 14 Aug 2026 | Fly Life: Ploy & Bruce (All night long) | Bruce, Ploy |
+| Thu, 13 Aug 2026 | STEEP LONDON | LMajor |
 
 ## Address
 
 Orion Business Centre, Surrey Canal Rd SE14 5RT, London
 
-*Updated Mon, 27 Jul 2026 · source: [soundcheck](https://soundcheck.club/london/club/m-o-t/)*
+*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/london/club/m-o-t/)*

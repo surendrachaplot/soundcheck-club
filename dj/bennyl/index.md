@@ -1,6 +1,6 @@
 # Benny L
 
-Benny L is a Drum & Bass and Jungle artist with 2 upcoming club dates listed on soundcheck as of Mon, 27 Jul 2026, next at Unit 1, London on Sun, 23 Aug 2026.
+Benny L is a Drum & Bass and Jungle artist with 2 upcoming club dates listed on soundcheck as of Tue, 28 Jul 2026, next at Unit 1, London on Sun, 23 Aug 2026.
 
 Benny L is a drum & bass and jungle artist tracked on soundcheck, with 76 sets logged across Amsterdam, Antwerp, Auckland and Birmingham and 20 more. Often billed alongside Bladerunner, Carasel and Inja. Next up: Unit 1, London on Sun 23 Aug.
 
@@ -26,4 +26,4 @@ Benny L is a drum & bass and jungle artist tracked on soundcheck, with 76 sets l
 
 Bladerunner, Carasel, Inja
 
-*Updated Mon, 27 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/bennyl/)*
+*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/bennyl/)*

@@ -1,6 +1,6 @@
 # Dennis Cruz
 
-Dennis Cruz is a Tech House and House artist with 11 upcoming club dates listed on soundcheck as of Mon, 27 Jul 2026, next at Fitz Mallorca, Mallorca on Sun, 2 Aug 2026.
+Dennis Cruz is a Tech House and House artist with 11 upcoming club dates listed on soundcheck as of Tue, 28 Jul 2026, next at Fitz Mallorca, Mallorca on Sun, 2 Aug 2026.
 
 Dennis Cruz is a tech house and house artist tracked on soundcheck, with 174 sets logged across Amsterdam, Athens, Barcelona and Basel and 38 more. Often billed alongside PAWSA, Marco Carola and ANOTR. Next up: Fitz Mallorca, Mallorca on Sun 2 Aug.
 
@@ -35,4 +35,4 @@ Dennis Cruz is a tech house and house artist tracked on soundcheck, with 174 set
 
 PAWSA, Marco Carola, ANOTR
 
-*Updated Mon, 27 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/denniscruz/)*
+*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/denniscruz/)*

@@ -1,6 +1,6 @@
 # NAR
 
-NAR is a music venue in Utrecht with 6 upcoming nights listed on soundcheck as of Mon, 27 Jul 2026; the next is "DE DANSVLOER / DJ Hushpuppy & Hunter" on Thu, 30 Jul 2026.
+NAR is a music venue in Utrecht with 6 upcoming nights listed on soundcheck as of Tue, 28 Jul 2026; the next is "DE DANSVLOER / DJ Hushpuppy & Hunter" on Thu, 30 Jul 2026.
 
 NAR is a music venue in Utrecht listed on soundcheck. 6 upcoming nights, with line-ups including CHEWCHEW, Coco Coquelicot, David Vunk and Doppelgang and 2 more. Browse upcoming dates, start times and who's playing. Nijverheidsweg 6, 3534 AM Utrecht, Netherlands.
 
@@ -19,4 +19,4 @@ NAR is a music venue in Utrecht listed on soundcheck. 6 upcoming nights, with li
 
 Nijverheidsweg 6, 3534 AM Utrecht, Netherlands, Utrecht
 
-*Updated Mon, 27 Jul 2026 · source: [soundcheck](https://soundcheck.club/utrecht/club/nar/)*
+*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/utrecht/club/nar/)*

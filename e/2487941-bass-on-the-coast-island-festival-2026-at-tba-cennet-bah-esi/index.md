@@ -1,10 +1,10 @@
 # BASS ON THE COAST - ISLAND FESTIVAL 2026 at TBA - CENNET BAHÇESİ BURGAZADA
 
-BASS ON THE COAST - ISLAND FESTIVAL 2026 at TBA - CENNET BAHÇESİ BURGAZADA on Wed 5 Aug, Istanbul. 15 acts on the bill: BERENALP, dj s1s0, Ezkiel and Fatysh and 11 more. Drum & Bass and Experimental. Preview the line-up and save it on soundcheck.
+BASS ON THE COAST - ISLAND FESTIVAL 2026 at TBA - CENNET BAHÇESİ BURGAZADA on Thu 6 Aug, Istanbul. 15 acts on the bill: BERENALP, dj s1s0, Ezkiel and Fatysh and 11 more. Drum & Bass and Experimental. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
-| Date | Wed, 5 Aug 2026 |
+| Date | Thu, 6 Aug 2026 |
 | Venue | TBA - CENNET BAHÇESİ BURGAZADA |
 | City | Istanbul |
 

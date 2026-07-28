@@ -1,6 +1,6 @@
 # Alírio
 
-Alírio is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Mon, 27 Jul 2026, next at Razzmatazz, Barcelona on Fri, 31 Jul 2026.
+Alírio is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Tue, 28 Jul 2026, next at Razzmatazz, Barcelona on Fri, 31 Jul 2026.
 
 Alírio is a house and techno artist tracked on soundcheck, with 77 sets logged across Amsterdam, Athens, Barcelona and Berlin and 15 more. Often billed alongside Cashu, Tuxe and Kontronatura. Next up: Razzmatazz, Barcelona on Fri 31 Jul.
 
@@ -27,4 +27,4 @@ Alírio is a house and techno artist tracked on soundcheck, with 77 sets logged 
 
 Cashu, Tuxe, Kontronatura
 
-*Updated Mon, 27 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/alírio/)*
+*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/alírio/)*

@@ -1,6 +1,6 @@
 # Joshua Brooks
 
-Joshua Brooks is a music venue in Manchester with 10 upcoming nights listed on soundcheck as of Mon, 27 Jul 2026; the next is "Harriet Jaxxon presents: T1D // Manchester - A DnB Fundraiser" on Thu, 30 Jul 2026.
+Joshua Brooks is a music venue in Manchester with 10 upcoming nights listed on soundcheck as of Tue, 28 Jul 2026; the next is "Harriet Jaxxon presents: T1D // Manchester - A DnB Fundraiser" on Thu, 30 Jul 2026.
 
 Joshua Brooks is a music venue in Manchester listed on soundcheck. 10 upcoming nights, with line-ups including Because of Art, Chimpo, Doc Scott and Goldie and 2 more. Browse upcoming dates, start times and who's playing. 106 Princess Street; Manchester; M1 6NG, United Kingdom.
 
@@ -14,7 +14,7 @@ Joshua Brooks is a music venue in Manchester listed on soundcheck. 10 upcoming n
 | Sat, 8 Aug 2026 | Day Time Disco: Melvo Baptiste | Melvo Baptiste |
 | Fri, 21 Aug 2026 | Metalheadz: Goldie b2b Doc Scott - Manchester | Doc Scott, Goldie |
 | Sat, 29 Aug 2026 | Eric Luttrell - Summer Of Love Tour 2026 - Manchester | Because of Art, TDP (UK) |
-| Sat, 29 Aug 2026 | Eric Luttrell [Summer of Love Tour] - Joshua Brooks Manchester |  |
+| Sat, 29 Aug 2026 | Eric Luttrell [Summer of Love Tour] - Joshua Brooks Manchester | Luttrell |
 | Sun, 30 Aug 2026 | Supernature on Pride Sunday with Philippa Jarman//Jonjo Jury//Lil Miss Jackie//+ Secret Guesr | James Greenwood, Supernature Disco |
 | Sat, 5 Sept 2026 | Love Train (DJ Set) Day Time Disco with Brutus Gold Manchester |  |
 | Sat, 26 Sept 2026 | Tre Reynolds - Joshua Brooks Manchester |  |
@@ -23,4 +23,4 @@ Joshua Brooks is a music venue in Manchester listed on soundcheck. 10 upcoming n
 
 106 Princess Street; Manchester; M1 6NG, United Kingdom, Manchester
 
-*Updated Mon, 27 Jul 2026 · source: [soundcheck](https://soundcheck.club/manchester/club/joshua-brooks/)*
+*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/manchester/club/joshua-brooks/)*

@@ -1,6 +1,6 @@
 # Lost Horizon
 
-Lost Horizon is a music venue in Bristol with 2 upcoming nights listed on soundcheck as of Mon, 27 Jul 2026; the next is "ARTY PARTY" on Thu, 30 Jul 2026.
+Lost Horizon is a music venue in Bristol with 2 upcoming nights listed on soundcheck as of Tue, 28 Jul 2026; the next is "ARTY PARTY" on Thu, 30 Jul 2026.
 
 Lost Horizon is a music venue in Bristol listed on soundcheck. 2 upcoming nights, with line-ups including Jamie Rodigan, L-Vis 1990, Meg Ward and Om Unit and 1 more. Browse upcoming dates, start times and who's playing. 1-3 Elton Street BS2 9EH Bristol, UK.
 
@@ -15,4 +15,4 @@ Lost Horizon is a music venue in Bristol listed on soundcheck. 2 upcoming nights
 
 1-3 Elton Street BS2 9EH Bristol, UK, Bristol
 
-*Updated Mon, 27 Jul 2026 · source: [soundcheck](https://soundcheck.club/bristol/club/lost-horizon/)*
+*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/bristol/club/lost-horizon/)*

@@ -1,6 +1,6 @@
 # Paquita Gordon
 
-Paquita Gordon is a House and Techno artist with 4 upcoming club dates listed on soundcheck as of Mon, 27 Jul 2026, next at BLITZ, Munich on Fri, 31 Jul 2026.
+Paquita Gordon is a House and Techno artist with 4 upcoming club dates listed on soundcheck as of Tue, 28 Jul 2026, next at BLITZ, Munich on Fri, 31 Jul 2026.
 
 Paquita Gordon is a house and techno artist tracked on soundcheck, with 126 sets logged across Amsterdam, Antwerp, Barcelona and Berlin and 23 more. Often billed alongside BASHKKA, DVS1 and Francesco Del Garda. Next up: BLITZ, Munich on Fri 31 Jul.
 
@@ -28,4 +28,4 @@ Paquita Gordon is a house and techno artist tracked on soundcheck, with 126 sets
 
 BASHKKA, DVS1, Francesco Del Garda
 
-*Updated Mon, 27 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/paquitagordon/)*
+*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/paquitagordon/)*

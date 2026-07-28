@@ -1,6 +1,6 @@
 # De Fik Garden
 
-De Fik Garden is a music venue in Amsterdam with 12 upcoming nights listed on soundcheck as of Mon, 27 Jul 2026; the next is "RPU presents Lustrum" on Fri, 31 Jul 2026.
+De Fik Garden is a music venue in Amsterdam with 12 upcoming nights listed on soundcheck as of Tue, 28 Jul 2026; the next is "RPU presents Lustrum" on Fri, 31 Jul 2026.
 
 De Fik Garden is a music venue in Amsterdam listed on soundcheck. 12 upcoming nights, with line-ups including Anémi, Ben Kaczor, Chami and Cindy (CH) and 2 more. Browse upcoming dates, start times and who's playing. Sportparklaan 19, 1062 ZA Amsterdam, The Netherlands.
 
@@ -23,4 +23,4 @@ De Fik Garden is a music venue in Amsterdam listed on soundcheck. 12 upcoming ni
 
 Sportparklaan 19, 1062 ZA Amsterdam, The Netherlands, Amsterdam
 
-*Updated Mon, 27 Jul 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/de-fik-garden/)*
+*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/de-fik-garden/)*

@@ -1,6 +1,6 @@
 # Hotel Labtwentytwo
 
-Hotel Labtwentytwo is a music venue in Barcelona with 2 upcoming nights listed on soundcheck as of Mon, 27 Jul 2026; the next is "Funkey Rooftop (open air)" on Sat, 8 Aug 2026.
+Hotel Labtwentytwo is a music venue in Barcelona with 2 upcoming nights listed on soundcheck as of Tue, 28 Jul 2026; the next is "Funkey Rooftop (open air)" on Sat, 8 Aug 2026.
 
 Hotel Labtwentytwo is a music venue in Barcelona listed on soundcheck. 2 upcoming nights, with line-ups including Carol DOP. Browse upcoming dates, start times and who's playing. Calle de peru 102, Barcelona, 08018, Spain.
 
@@ -15,4 +15,4 @@ Hotel Labtwentytwo is a music venue in Barcelona listed on soundcheck. 2 upcomin
 
 Calle de peru 102, Barcelona, 08018, Spain, Barcelona
 
-*Updated Mon, 27 Jul 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/hotel-labtwentytwo/)*
+*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/hotel-labtwentytwo/)*

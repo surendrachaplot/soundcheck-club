@@ -1,6 +1,6 @@
 # Mall Grab
 
-Mall Grab is a Techno and House artist with 11 upcoming club dates listed on soundcheck as of Mon, 27 Jul 2026, next at Sønder Hoved, Copenhagen on Thu, 30 Jul 2026.
+Mall Grab is a Techno and House artist with 11 upcoming club dates listed on soundcheck as of Tue, 28 Jul 2026, next at Sønder Hoved, Copenhagen on Thu, 30 Jul 2026.
 
 Mall Grab is a techno and house artist tracked on soundcheck, with 200 sets logged across Aberdeen, Amsterdam, Antwerp and Athens and 62 more. Often billed alongside Effy, KETTAMA and Skin On Skin. Next up: Sønder Hoved, Copenhagen on Thu 30 Jul.
 
@@ -35,4 +35,4 @@ Mall Grab is a techno and house artist tracked on soundcheck, with 200 sets logg
 
 Effy, KETTAMA, Skin On Skin
 
-*Updated Mon, 27 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/mallgrab/)*
+*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/mallgrab/)*

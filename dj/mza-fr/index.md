@@ -1,6 +1,6 @@
 # MZA (FR)
 
-MZA (FR) is a Techno and Trance artist with 2 upcoming club dates listed on soundcheck as of Mon, 27 Jul 2026, next at Le Sucre, Lyon on Sun, 9 Aug 2026.
+MZA (FR) is a Techno and Trance artist with 2 upcoming club dates listed on soundcheck as of Tue, 28 Jul 2026, next at Le Sucre, Lyon on Sun, 9 Aug 2026.
 
 MZA (FR) is a techno and trance artist based in France, tracked on soundcheck, with 44 sets logged across Antwerp, Berlin, Brussels and Bucharest and 11 more. Often billed alongside Butschi, no.salt and Couedasse. Next up: Le Sucre, Lyon on Sun 9 Aug.
 
@@ -26,4 +26,4 @@ MZA (FR) is a techno and trance artist based in France, tracked on soundcheck, w
 
 Butschi, no.salt, Couedasse
 
-*Updated Mon, 27 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/mza-fr/)*
+*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/mza-fr/)*

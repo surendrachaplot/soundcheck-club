@@ -1,6 +1,6 @@
 # OOFT
 
-OOFT is a Disco and House artist with 5 upcoming club dates listed on soundcheck as of Mon, 27 Jul 2026, next at La Cheetah Club, Glasgow on Sun, 2 Aug 2026.
+OOFT is a Disco and House artist with 5 upcoming club dates listed on soundcheck as of Tue, 28 Jul 2026, next at La Cheetah Club, Glasgow on Sun, 2 Aug 2026.
 
 OOFT is a disco and house artist tracked on soundcheck, with 182 sets logged across Edinburgh, Glasgow and Leeds. Often billed alongside David Barbarossa, Charlotte Tuesday and Lárus. Next up: La Cheetah Club, Glasgow on Sun 2 Aug.
 
@@ -29,4 +29,4 @@ OOFT is a disco and house artist tracked on soundcheck, with 182 sets logged acr
 
 David Barbarossa, Charlotte Tuesday, Lárus
 
-*Updated Mon, 27 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/ooft/)*
+*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/ooft/)*

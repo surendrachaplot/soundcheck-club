@@ -1,6 +1,6 @@
 # Schacke
 
-Schacke is a Techno and Trance artist with 3 upcoming club dates listed on soundcheck as of Mon, 27 Jul 2026, next at TILLATEC, Amsterdam on Sat, 8 Aug 2026.
+Schacke is a Techno and Trance artist with 3 upcoming club dates listed on soundcheck as of Tue, 28 Jul 2026, next at TILLATEC, Amsterdam on Sat, 8 Aug 2026.
 
 Schacke is a techno and trance artist tracked on soundcheck, with 183 sets logged across Amsterdam, Antwerp, Athens and Austin and 45 more. Often billed alongside Peachlyfe, Vixen and Mohajer. Next up: TILLATEC, Amsterdam on Sat 8 Aug.
 
@@ -27,4 +27,4 @@ Schacke is a techno and trance artist tracked on soundcheck, with 183 sets logge
 
 Peachlyfe, Vixen, Mohajer
 
-*Updated Mon, 27 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/schacke/)*
+*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/schacke/)*

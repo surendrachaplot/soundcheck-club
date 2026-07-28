@@ -1,6 +1,6 @@
 # Rich NXT
 
-Rich NXT is a House and Tech House artist with 6 upcoming club dates listed on soundcheck as of Mon, 27 Jul 2026, next at XOYO, London on Sat, 1 Aug 2026.
+Rich NXT is a House and Tech House artist with 6 upcoming club dates listed on soundcheck as of Tue, 28 Jul 2026, next at XOYO, London on Sat, 1 Aug 2026.
 
 Rich NXT is a house and tech house artist tracked on soundcheck, with 104 sets logged across Amsterdam, Bali, Bangkok and Barcelona and 28 more. Often billed alongside Enzo Siragusa, Rossi and Laidlaw. Next up: XOYO, London on Sat 1 Aug.
 
@@ -30,4 +30,4 @@ Rich NXT is a house and tech house artist tracked on soundcheck, with 104 sets l
 
 Enzo Siragusa, Rossi, Laidlaw
 
-*Updated Mon, 27 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/richnxt/)*
+*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/richnxt/)*

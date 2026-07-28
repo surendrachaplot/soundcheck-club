@@ -1,8 +1,8 @@
 # Chunky
 
-Chunky is a Garage and House artist with 3 upcoming club dates listed on soundcheck as of Mon, 27 Jul 2026, next at Freight Island Newcastle, Newcastle on Sat, 1 Aug 2026.
+Chunky is a Garage and House artist with 4 upcoming club dates listed on soundcheck as of Tue, 28 Jul 2026, next at Freight Island Newcastle, Newcastle on Sat, 1 Aug 2026.
 
-Chunky is a garage and house artist tracked on soundcheck, with 94 sets logged across Antwerp, Barcelona, Brisbane and Bristol and 8 more. Often billed alongside Rich Reason, Tom Boogizm and Chimpo. Next up: Freight Island Newcastle, Newcastle on Sat 1 Aug.
+Chunky is a garage and house artist tracked on soundcheck, with 95 sets logged across Antwerp, Barcelona, Brisbane and Bristol and 8 more. Often billed alongside Rich Reason, Tom Boogizm and Chimpo. Next up: Freight Island Newcastle, Newcastle on Sat 1 Aug.
 
 ## Upcoming shows
 
@@ -11,6 +11,7 @@ Chunky is a garage and house artist tracked on soundcheck, with 94 sets logged a
 | Sat, 1 Aug 2026 | Freight Island Newcastle | Newcastle |
 | Sun, 30 Aug 2026 | The Shepherds Rest Inn. Todmorden | Manchester |
 | Sat, 5 Sept 2026 | Freight Brixton | London |
+| Sun, 20 Sept 2026 | The White Hotel | Manchester |
 
 ## Recently played
 
@@ -27,4 +28,4 @@ Chunky is a garage and house artist tracked on soundcheck, with 94 sets logged a
 
 Rich Reason, Tom Boogizm, Chimpo
 
-*Updated Mon, 27 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/chunky/)*
+*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/chunky/)*

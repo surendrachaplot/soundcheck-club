@@ -1,6 +1,6 @@
 # The Thirsty Crow
 
-The Thirsty Crow is a music venue in Los Angeles with 1 upcoming night listed on soundcheck as of Mon, 27 Jul 2026; the next is "BLOW UP DOLL BLOW OUT 2" on Fri, 31 Jul 2026.
+The Thirsty Crow is a music venue in Los Angeles with 1 upcoming night listed on soundcheck as of Tue, 28 Jul 2026; the next is "BLOW UP DOLL BLOW OUT 2" on Fri, 31 Jul 2026.
 
 The Thirsty Crow is a music venue in Losangeles listed on soundcheck. 1 upcoming night. Browse upcoming dates, start times and who's playing. 2939 Sunset Blvd, Los Angeles, CA 90026.
 
@@ -14,4 +14,4 @@ The Thirsty Crow is a music venue in Losangeles listed on soundcheck. 1 upcoming
 
 2939 Sunset Blvd, Los Angeles, CA 90026, Los Angeles
 
-*Updated Mon, 27 Jul 2026 · source: [soundcheck](https://soundcheck.club/losangeles/club/the-thirsty-crow/)*
+*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/losangeles/club/the-thirsty-crow/)*

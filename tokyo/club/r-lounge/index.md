@@ -1,6 +1,6 @@
 # R Lounge
 
-R Lounge is a music venue in Tokyo with 10 upcoming nights listed on soundcheck as of Mon, 27 Jul 2026; the next is "'PRISM' Elena Berry × SKYTOPIA Release Party (UKG / House / Bassline)" on Fri, 31 Jul 2026.
+R Lounge is a music venue in Tokyo with 10 upcoming nights listed on soundcheck as of Tue, 28 Jul 2026; the next is "'PRISM' Elena Berry × SKYTOPIA Release Party (UKG / House / Bassline)" on Fri, 31 Jul 2026.
 
 R Lounge is a music venue in Tokyo listed on soundcheck. 10 upcoming nights, with line-ups including DJ Shimamura, Dustvoxx, ecec and Ëmbyrblume and 2 more. Browse upcoming dates, start times and who's playing. Tosen Udagawa Bld. 6F/7F, 4-7, Udagawa, Shibuya, Tokyo, 150-0042, JPN.
 
@@ -23,4 +23,4 @@ R Lounge is a music venue in Tokyo listed on soundcheck. 10 upcoming nights, wit
 
 Tosen Udagawa Bld. 6F/7F, 4-7, Udagawa, Shibuya, Tokyo, 150-0042, JPN, Tokyo
 
-*Updated Mon, 27 Jul 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/r-lounge/)*
+*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/r-lounge/)*

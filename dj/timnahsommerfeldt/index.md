@@ -1,6 +1,6 @@
 # Timnah
 
-Timnah is a Techno and Ambient artist with 2 upcoming club dates listed on soundcheck as of Mon, 27 Jul 2026, next at Nowadays, New York City on Sat, 1 Aug 2026.
+Timnah is a Techno and Ambient artist with 2 upcoming club dates listed on soundcheck as of Tue, 28 Jul 2026, next at Nowadays, New York City on Sat, 1 Aug 2026.
 
 Timnah is a techno and ambient artist tracked on soundcheck, with 47 sets logged across Amsterdam, Barcelona, Basel and Berlin and 12 more. Often billed alongside Agonis, Garçon and Patrick Russell. Next up: Nowadays, Newyorkcity on Sat 1 Aug.
 
@@ -26,4 +26,4 @@ Timnah is a techno and ambient artist tracked on soundcheck, with 47 sets logged
 
 Agonis, Garçon, Patrick Russell
 
-*Updated Mon, 27 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/timnahsommerfeldt/)*
+*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/timnahsommerfeldt/)*

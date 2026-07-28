@@ -1,6 +1,6 @@
 # Felix Da Housecat
 
-Felix Da Housecat is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Mon, 27 Jul 2026, next at 528 Ibiza, Ibiza on Thu, 30 Jul 2026.
+Felix Da Housecat is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Tue, 28 Jul 2026, next at 528 Ibiza, Ibiza on Thu, 30 Jul 2026.
 
 Felix Da Housecat is a house and techno artist tracked on soundcheck, with 67 sets logged across Antwerp, Auckland, Berlin and Bristol and 19 more. Often billed alongside Roger Sanchez, DJ Paulette and Derrick Carter. Next up: 528 Ibiza, Ibiza on Thu 30 Jul.
 
@@ -27,4 +27,4 @@ Felix Da Housecat is a house and techno artist tracked on soundcheck, with 67 se
 
 Roger Sanchez, DJ Paulette, Derrick Carter
 
-*Updated Mon, 27 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/felixdahousecat/)*
+*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/felixdahousecat/)*

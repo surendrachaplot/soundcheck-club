@@ -1,6 +1,6 @@
 # Siu Mata (2)
 
-Siu Mata (2) is a Bass and Techno artist with 2 upcoming club dates listed on soundcheck as of Mon, 27 Jul 2026, next at TBA - Location With Ticket, Denver on Fri, 31 Jul 2026.
+Siu Mata (2) is a Bass and Techno artist with 2 upcoming club dates listed on soundcheck as of Tue, 28 Jul 2026, next at TBA - Location With Ticket, Denver on Fri, 31 Jul 2026.
 
 Siu Mata (2) is a bass and techno artist based in France, tracked on soundcheck, with 27 sets logged across Amsterdam, Barcelona, Berlin and Brussels and 14 more. Often billed alongside Amor Satyr, BNZ (2) and Benfika. Next up: TBA - Location With Ticket, Denver on Fri 31 Jul.
 
@@ -26,4 +26,4 @@ Siu Mata (2) is a bass and techno artist based in France, tracked on soundcheck,
 
 Amor Satyr, BNZ (2), Benfika
 
-*Updated Mon, 27 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/siumata-2/)*
+*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/siumata-2/)*

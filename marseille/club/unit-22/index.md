@@ -1,6 +1,6 @@
 # Unité.22
 
-Unité.22 is a music venue in Marseille with 6 upcoming nights listed on soundcheck as of Mon, 27 Jul 2026; the next is "U.22 x BASSES FRÉQUENCES: KIA, ROMANESCO, 42L" on Fri, 31 Jul 2026.
+Unité.22 is a music venue in Marseille with 6 upcoming nights listed on soundcheck as of Tue, 28 Jul 2026; the next is "U.22 x BASSES FRÉQUENCES: KIA, ROMANESCO, 42L" on Fri, 31 Jul 2026.
 
 Unité.22 is a music venue in Marseille listed on soundcheck. 6 upcoming nights, with line-ups including Ananda (BR), Andy4000, Hunkut and Kia (AU) and 2 more. Browse upcoming dates, start times and who's playing. 22 rue jobin, 13003 Marseille.
 
@@ -19,4 +19,4 @@ Unité.22 is a music venue in Marseille listed on soundcheck. 6 upcoming nights,
 
 22 rue jobin, 13003 Marseille, Marseille
 
-*Updated Mon, 27 Jul 2026 · source: [soundcheck](https://soundcheck.club/marseille/club/unit-22/)*
+*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/marseille/club/unit-22/)*

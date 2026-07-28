@@ -1,8 +1,8 @@
 # Kuniyuki
 
-Kuniyuki is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Mon, 27 Jul 2026, next at Amsterdamse Bos, Amsterdam on Wed, 29 Jul 2026.
+Kuniyuki is a House and Techno artist with 4 upcoming club dates listed on soundcheck as of Tue, 28 Jul 2026, next at Amsterdamse Bos, Amsterdam on Wed, 29 Jul 2026.
 
-Kuniyuki is a house and techno artist tracked on soundcheck, with 64 sets logged across Amsterdam, Bali, Denver and Hongkong and 16 more. Often billed alongside Toshiya Kawasaki, KZA and Christian AB. Next up: Amsterdamse Bos, Amsterdam on Wed 29 Jul.
+Kuniyuki is a house and techno artist tracked on soundcheck, with 65 sets logged across Amsterdam, Bali, Denver and Hongkong and 16 more. Often billed alongside Toshiya Kawasaki, KZA and Christian AB. Next up: Amsterdamse Bos, Amsterdam on Wed 29 Jul.
 
 ## Upcoming shows
 
@@ -11,6 +11,7 @@ Kuniyuki is a house and techno artist tracked on soundcheck, with 64 sets logged
 | Wed, 29 Jul 2026 | Amsterdamse Bos | Amsterdam |
 | Wed, 29 Jul 2026 | The Jazz Cafe | London |
 | Fri, 31 Jul 2026 | Amsterdamse Bos | Amsterdam |
+| Fri, 21 Aug 2026 | Potato Head Beach Club | Bali |
 
 ## Recently played
 
@@ -27,4 +28,4 @@ Kuniyuki is a house and techno artist tracked on soundcheck, with 64 sets logged
 
 Toshiya Kawasaki, KZA, Christian AB
 
-*Updated Mon, 27 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/kuniyuki/)*
+*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/kuniyuki/)*

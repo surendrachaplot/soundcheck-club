@@ -1,6 +1,6 @@
 # AgainstMe
 
-AgainstMe is a Techno and Minimal Techno artist with 2 upcoming club dates listed on soundcheck as of Mon, 27 Jul 2026, next at Else, Berlin on Sat, 1 Aug 2026.
+AgainstMe is a Techno and Minimal Techno artist with 2 upcoming club dates listed on soundcheck as of Tue, 28 Jul 2026, next at Else, Berlin on Sat, 1 Aug 2026.
 
 AgainstMe is a techno and minimal techno artist based in Greece, tracked on soundcheck, with 50 sets logged across Amsterdam, Athens, Berlin and Brussels and 12 more. Often billed alongside Red Rooms, Tommy Four Seven and Icarus in love. Next up: Else, Berlin on Sat 1 Aug.
 
@@ -26,4 +26,4 @@ AgainstMe is a techno and minimal techno artist based in Greece, tracked on soun
 
 Red Rooms, Tommy Four Seven, Icarus in love
 
-*Updated Mon, 27 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/againstme/)*
+*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/againstme/)*

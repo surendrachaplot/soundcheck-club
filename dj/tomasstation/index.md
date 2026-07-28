@@ -1,6 +1,6 @@
 # Tomas Station
 
-Tomas Station is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Mon, 27 Jul 2026, next at OXI, Berlin on Fri, 14 Aug 2026.
+Tomas Station is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Tue, 28 Jul 2026, next at OXI, Berlin on Fri, 14 Aug 2026.
 
 Tomas Station is a house and techno artist tracked on soundcheck, with 201 sets logged across Amsterdam, Barcelona, Berlin and Bucharest and 30 more. Often billed alongside O.BEE, Ricardo Villalobos and Sonja Moonear. Next up: OXI, Berlin on Fri 14 Aug.
 
@@ -27,4 +27,4 @@ Tomas Station is a house and techno artist tracked on soundcheck, with 201 sets 
 
 O.BEE, Ricardo Villalobos, Sonja Moonear
 
-*Updated Mon, 27 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/tomasstation/)*
+*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/tomasstation/)*

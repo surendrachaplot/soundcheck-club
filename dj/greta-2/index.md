@@ -1,6 +1,6 @@
 # GRETA (2)
 
-GRETA (2) is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Mon, 27 Jul 2026, next at Club der Visionaere, Berlin on Tue, 28 Jul 2026.
+GRETA (2) is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Tue, 28 Jul 2026, next at Club der Visionaere, Berlin on Tue, 28 Jul 2026.
 
 GRETA (2) is a house and techno artist based in Italy, tracked on soundcheck, with 58 sets logged across Barcelona, Berlin, London and Milan and 2 more. Often billed alongside ki:ke, Ramî and Julian Feierabend. Next up: Club der Visionaere, Berlin on Tue 28 Jul.
 
@@ -26,4 +26,4 @@ GRETA (2) is a house and techno artist based in Italy, tracked on soundcheck, wi
 
 ki:ke, Ramî, Julian Feierabend
 
-*Updated Mon, 27 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/greta-2/)*
+*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/greta-2/)*

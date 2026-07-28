@@ -1,6 +1,6 @@
 # Lola Edo
 
-Lola Edo is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Mon, 27 Jul 2026, next at Paradiso, Amsterdam on Fri, 31 Jul 2026.
+Lola Edo is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Tue, 28 Jul 2026, next at Paradiso, Amsterdam on Fri, 31 Jul 2026.
 
 Lola Edo is a house and techno artist tracked on soundcheck, with 93 sets logged across Amsterdam, Brussels, Leipzig and Nantes and 4 more. Often billed alongside Doppelgang, Lucky Done Gone and angelboy. Next up: Paradiso, Amsterdam on Fri 31 Jul.
 
@@ -26,4 +26,4 @@ Lola Edo is a house and techno artist tracked on soundcheck, with 93 sets logged
 
 Doppelgang, Lucky Done Gone, angelboy
 
-*Updated Mon, 27 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/lolaedo/)*
+*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/lolaedo/)*

@@ -1,6 +1,6 @@
 # Detroit In Effect
 
-Detroit In Effect is a Techno and Electro artist with 4 upcoming club dates listed on soundcheck as of Mon, 27 Jul 2026, next at Marble Bar, Detroit on Sat, 1 Aug 2026.
+Detroit In Effect is a Techno and Electro artist with 4 upcoming club dates listed on soundcheck as of Tue, 28 Jul 2026, next at Marble Bar, Detroit on Sat, 1 Aug 2026.
 
 Detroit In Effect is a techno and electro artist based in United States of America, tracked on soundcheck, with 105 sets logged across Amsterdam, Antwerp, Austin and Barcelona and 36 more. Often billed alongside Binh, Morgan and Serge. Next up: Marble Bar, Detroit on Sat 1 Aug.
 
@@ -28,4 +28,4 @@ Detroit In Effect is a techno and electro artist based in United States of Ameri
 
 Binh, Morgan, Serge
 
-*Updated Mon, 27 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/detroitineffect/)*
+*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/detroitineffect/)*

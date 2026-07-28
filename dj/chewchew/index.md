@@ -1,6 +1,6 @@
 # CHEWCHEW
 
-CHEWCHEW is a House and Disco artist with 2 upcoming club dates listed on soundcheck as of Mon, 27 Jul 2026, next at NAR, Utrecht on Fri, 31 Jul 2026.
+CHEWCHEW is a House and Disco artist with 2 upcoming club dates listed on soundcheck as of Tue, 28 Jul 2026, next at NAR, Utrecht on Fri, 31 Jul 2026.
 
 CHEWCHEW is a house and disco artist tracked on soundcheck, with 65 sets logged across Amsterdam, Antwerp, Berlin and Cologne and 15 more. Often billed alongside Ajuma, Mikey Gee and DJ Aficionado. Next up: NAR, Utrecht on Fri 31 Jul.
 
@@ -26,4 +26,4 @@ CHEWCHEW is a house and disco artist tracked on soundcheck, with 65 sets logged 
 
 Ajuma, Mikey Gee, DJ Aficionado
 
-*Updated Mon, 27 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/chewchew/)*
+*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/chewchew/)*

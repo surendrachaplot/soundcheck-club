@@ -1,6 +1,6 @@
 # Tripolism
 
-Tripolism is a House and Techno artist with 4 upcoming club dates listed on soundcheck as of Mon, 27 Jul 2026, next at Sønder Hoved, Copenhagen on Thu, 30 Jul 2026.
+Tripolism is a House and Techno artist with 4 upcoming club dates listed on soundcheck as of Tue, 28 Jul 2026, next at Sønder Hoved, Copenhagen on Thu, 30 Jul 2026.
 
 Tripolism is a house and techno artist tracked on soundcheck, with 70 sets logged across Amsterdam, Athens, Barcelona and Berlin and 25 more. Often billed alongside Bedouin, WhoMadeWho and Franky Wah. Next up: Sønder Hoved, Copenhagen on Thu 30 Jul.
 
@@ -28,4 +28,4 @@ Tripolism is a house and techno artist tracked on soundcheck, with 70 sets logge
 
 Bedouin, WhoMadeWho, Franky Wah
 
-*Updated Mon, 27 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/tripolism/)*
+*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/tripolism/)*

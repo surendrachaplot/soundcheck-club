@@ -1,6 +1,6 @@
 # Chinese Laundry
 
-Chinese Laundry is a music venue in Sydney with 11 upcoming nights listed on soundcheck as of Mon, 27 Jul 2026; the next is "Chinese Laundry Invites MASSI. EP Launch + Stev Zar [ALL NIGHT LONG]" on Fri, 31 Jul 2026.
+Chinese Laundry is a music venue in Sydney with 11 upcoming nights listed on soundcheck as of Tue, 28 Jul 2026; the next is "Chinese Laundry Invites MASSI. EP Launch + Stev Zar [ALL NIGHT LONG]" on Fri, 31 Jul 2026.
 
 Chinese Laundry is a music venue in Sydney listed on soundcheck. 11 upcoming nights, with line-ups including Bouki, Frank Booker, Jacques Greene and Kitty Amor and 2 more. Browse upcoming dates, start times and who's playing. 111 Sussex St; Sydney, NSW 2000; Australia.
 
@@ -23,4 +23,4 @@ Chinese Laundry is a music venue in Sydney listed on soundcheck. 11 upcoming nig
 
 111 Sussex St; Sydney, NSW 2000; Australia, Sydney
 
-*Updated Mon, 27 Jul 2026 · source: [soundcheck](https://soundcheck.club/sydney/club/chinese-laundry/)*
+*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/sydney/club/chinese-laundry/)*

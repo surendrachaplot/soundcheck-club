@@ -1,8 +1,8 @@
 # SELESSA T.
 
-SELESSA T. is a House and Techno artist with 4 upcoming club dates listed on soundcheck as of Mon, 27 Jul 2026, next at Atelier Rooftop, Berlin on Sat, 1 Aug 2026.
+SELESSA T. is a House and Techno artist with 5 upcoming club dates listed on soundcheck as of Tue, 28 Jul 2026, next at Atelier Rooftop, Berlin on Sat, 1 Aug 2026.
 
-SELESSA T. is a house and techno artist tracked on soundcheck, with 71 sets logged across Berlin and Hamburg. Often billed alongside Otal, Elie Bukassa and Viénce. Next up: Atelier Rooftop, Berlin on Sat 1 Aug.
+SELESSA T. is a house and techno artist tracked on soundcheck, with 72 sets logged across Berlin and Hamburg. Often billed alongside Otal, Elie Bukassa and Viénce. Next up: Atelier Rooftop, Berlin on Sat 1 Aug.
 
 ## Upcoming shows
 
@@ -11,6 +11,7 @@ SELESSA T. is a house and techno artist tracked on soundcheck, with 71 sets logg
 | Sat, 1 Aug 2026 | Atelier Rooftop | Berlin |
 | Fri, 7 Aug 2026 | Crack Bellmer | Berlin |
 | Sun, 9 Aug 2026 | Lokschuppen Berlin | Berlin |
+| Fri, 21 Aug 2026 | Hoppetosse | Berlin |
 | Sat, 22 Aug 2026 | Coco Boule | Berlin |
 
 ## Recently played
@@ -28,4 +29,4 @@ SELESSA T. is a house and techno artist tracked on soundcheck, with 71 sets logg
 
 Otal, Elie Bukassa, Viénce
 
-*Updated Mon, 27 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/selessat/)*
+*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/selessat/)*

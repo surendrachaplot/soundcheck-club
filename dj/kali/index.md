@@ -1,14 +1,15 @@
 # Kali
 
-Kali is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Mon, 27 Jul 2026, next at Angel Music Bar, Melbourne on Thu, 30 Jul 2026.
+Kali is a Techno and House artist with 4 upcoming club dates listed on soundcheck as of Tue, 28 Jul 2026, next at Angel Music Bar, Melbourne on Thu, 30 Jul 2026.
 
-Kali is a techno and house artist based in Australia, tracked on soundcheck, with 46 sets logged across Berlin, Budapest, Copenhagen and Geneva and 7 more. Often billed alongside Hayato Iwaki, Reenie and YANNY (1). Next up: Angel Music Bar, Melbourne on Thu 30 Jul.
+Kali is a techno and house artist based in Australia, tracked on soundcheck, with 47 sets logged across Berlin, Budapest, Copenhagen and Geneva and 7 more. Often billed alongside Hayato Iwaki, Reenie and YANNY (1). Next up: Angel Music Bar, Melbourne on Thu 30 Jul.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Thu, 30 Jul 2026 | Angel Music Bar | Melbourne |
+| Thu, 6 Aug 2026 | Eastern Bloc Records | Manchester |
 | Sat, 8 Aug 2026 | Den Anden Side | Copenhagen |
 | Sat, 5 Sept 2026 | The Beresford Hotel | Sydney |
 
@@ -27,4 +28,4 @@ Kali is a techno and house artist based in Australia, tracked on soundcheck, wit
 
 Hayato Iwaki, Reenie, YANNY (1)
 
-*Updated Mon, 27 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/kali/)*
+*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/kali/)*

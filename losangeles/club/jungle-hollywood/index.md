@@ -1,17 +1,18 @@
 # Jungle Hollywood
 
-Jungle Hollywood is a music venue in Los Angeles with 1 upcoming night listed on soundcheck as of Mon, 27 Jul 2026; the next is "Clinic x Big Terry Time feat. Thee Mike B" on Wed, 5 Aug 2026.
+Jungle Hollywood is a music venue in Los Angeles with 2 upcoming nights listed on soundcheck as of Tue, 28 Jul 2026; the next is "HAWT 20 Year Anniversary" on Sat, 1 Aug 2026.
 
-Jungle Hollywood is a music venue in Losangeles listed on soundcheck. 1 upcoming night, with line-ups including Thee Mike B. Browse upcoming dates, start times and who's playing. 1640 N Cahuenga Blvd, Los Angeles, CA 90028.
+Jungle Hollywood is a music venue in Losangeles listed on soundcheck. 2 upcoming nights, with line-ups including Blakkat, Eddie B, Larry Gamboa and Matthew Brian and 2 more. Browse upcoming dates, start times and who's playing. 1640 N Cahuenga Blvd, Los Angeles, CA 90028.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
+| Sat, 1 Aug 2026 | HAWT 20 Year Anniversary | Blakkat, Eddie B, Larry Gamboa, Matthew Brian, Mikey V, Mr. Haze |
 | Wed, 5 Aug 2026 | Clinic x Big Terry Time feat. Thee Mike B | Thee Mike B |
 
 ## Address
 
 1640 N Cahuenga Blvd, Los Angeles, CA 90028, Los Angeles
 
-*Updated Mon, 27 Jul 2026 · source: [soundcheck](https://soundcheck.club/losangeles/club/jungle-hollywood/)*
+*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/losangeles/club/jungle-hollywood/)*

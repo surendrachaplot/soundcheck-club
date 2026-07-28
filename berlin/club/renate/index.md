@@ -1,6 +1,6 @@
 # Renate
 
-Renate is a music venue in Berlin with 16 upcoming nights listed on soundcheck as of Mon, 27 Jul 2026; the next is "Renate x Dollhaus" on Thu, 30 Jul 2026.
+Renate is a music venue in Berlin with 16 upcoming nights listed on soundcheck as of Tue, 28 Jul 2026; the next is "Renate x Dollhaus" on Thu, 30 Jul 2026.
 
 Renate is a music venue in Berlin listed on soundcheck. 16 upcoming nights, with line-ups including Aceedo, Adis Is OK, Aidan and Alison Swing and 2 more. Browse upcoming dates, start times and who's playing. Alt Stralau 70; Friedrichshain; 10245 Berlin; Germany.
 
@@ -23,4 +23,4 @@ Renate is a music venue in Berlin listed on soundcheck. 16 upcoming nights, with
 
 Alt Stralau 70; Friedrichshain; 10245 Berlin; Germany, Berlin
 
-*Updated Mon, 27 Jul 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/renate/)*
+*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/renate/)*

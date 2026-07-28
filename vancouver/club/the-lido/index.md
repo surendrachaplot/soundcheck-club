@@ -1,6 +1,6 @@
 # The Lido
 
-The Lido is a music venue in Vancouver with 2 upcoming nights listed on soundcheck as of Mon, 27 Jul 2026; the next is "Habibi Paradise" on Thu, 30 Jul 2026.
+The Lido is a music venue in Vancouver with 2 upcoming nights listed on soundcheck as of Tue, 28 Jul 2026; the next is "Habibi Paradise" on Thu, 30 Jul 2026.
 
 The Lido is a music venue in Vancouver listed on soundcheck. 2 upcoming nights, with line-ups including Parmis and Roxy Motorola. Browse upcoming dates, start times and who's playing. 518 East Broadway, Vancouver.
 
@@ -15,4 +15,4 @@ The Lido is a music venue in Vancouver listed on soundcheck. 2 upcoming nights, 
 
 518 East Broadway, Vancouver, Vancouver
 
-*Updated Mon, 27 Jul 2026 · source: [soundcheck](https://soundcheck.club/vancouver/club/the-lido/)*
+*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/vancouver/club/the-lido/)*

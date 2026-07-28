@@ -1,6 +1,6 @@
 # Kopflos
 
-Kopflos is a Techno and Industrial artist with 2 upcoming club dates listed on soundcheck as of Mon, 27 Jul 2026, next at Der Weiße Hase, Berlin on Fri, 7 Aug 2026.
+Kopflos is a Techno and Industrial artist with 2 upcoming club dates listed on soundcheck as of Tue, 28 Jul 2026, next at Der Weiße Hase, Berlin on Fri, 7 Aug 2026.
 
 Kopflos is a techno and industrial artist based in Germany, tracked on soundcheck, with 81 sets logged across Berlin. Often billed alongside DaSoMaZo, DJ BenGalo and Brizze. Next up: Der Weiße Hase, Berlin on Fri 7 Aug.
 
@@ -26,4 +26,4 @@ Kopflos is a techno and industrial artist based in Germany, tracked on soundchec
 
 DaSoMaZo, DJ BenGalo, Brizze
 
-*Updated Mon, 27 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/kopflos-de/)*
+*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/kopflos-de/)*

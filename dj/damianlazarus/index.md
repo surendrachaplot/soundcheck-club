@@ -1,6 +1,6 @@
 # Damian Lazarus
 
-Damian Lazarus is a House and Techno artist with 7 upcoming club dates listed on soundcheck as of Mon, 27 Jul 2026, next at Amnesia Ibiza, Ibiza on Tue, 28 Jul 2026.
+Damian Lazarus is a House and Techno artist with 7 upcoming club dates listed on soundcheck as of Tue, 28 Jul 2026, next at Amnesia Ibiza, Ibiza on Tue, 28 Jul 2026.
 
 Damian Lazarus is a house and techno artist tracked on soundcheck, with 201 sets logged across Amsterdam, Antwerp, Athens and Bali and 33 more. Often billed alongside Black Coffee, Paul Reynolds and Cameron Jack. Next up: Amnesia Ibiza, Ibiza on Tue 28 Jul.
 
@@ -31,4 +31,4 @@ Damian Lazarus is a house and techno artist tracked on soundcheck, with 201 sets
 
 Black Coffee, Paul Reynolds, Cameron Jack
 
-*Updated Mon, 27 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/damianlazarus/)*
+*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/damianlazarus/)*

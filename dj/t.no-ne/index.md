@@ -1,6 +1,6 @@
 # T.NO
 
-T.NO is a Techno and Electronica artist with 2 upcoming club dates listed on soundcheck as of Mon, 27 Jul 2026, next at Amsterdamse Bos, Amsterdam on Wed, 29 Jul 2026.
+T.NO is a Techno and Electronica artist with 2 upcoming club dates listed on soundcheck as of Tue, 28 Jul 2026, next at Amsterdamse Bos, Amsterdam on Wed, 29 Jul 2026.
 
 T.NO is a techno and electronica artist based in Netherlands, tracked on soundcheck, with 50 sets logged across Amsterdam, Berlin, Bristol and Glasgow and 6 more. Often billed alongside Rozaly, Shinshan Salazar and Styn. Next up: Amsterdamse Bos, Amsterdam on Wed 29 Jul.
 
@@ -26,4 +26,4 @@ T.NO is a techno and electronica artist based in Netherlands, tracked on soundch
 
 Rozaly, Shinshan Salazar, Styn
 
-*Updated Mon, 27 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/t.no-ne/)*
+*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/t.no-ne/)*

@@ -1,6 +1,6 @@
 # DJ Possum
 
-DJ Possum is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Mon, 27 Jul 2026, next at Tresor / Globus, Berlin on Sat, 8 Aug 2026.
+DJ Possum is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Tue, 28 Jul 2026, next at Tresor / Globus, Berlin on Sat, 8 Aug 2026.
 
 DJ Possum is a house and techno artist tracked on soundcheck, with 81 sets logged across Berlin, Copenhagen, London and Losangeles and 4 more. Often billed alongside Myles Mac, Bex and Terri (2). Next up: Tresor / Globus, Berlin on Sat 8 Aug.
 
@@ -26,4 +26,4 @@ DJ Possum is a house and techno artist tracked on soundcheck, with 81 sets logge
 
 Myles Mac, Bex, Terri (2)
 
-*Updated Mon, 27 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/djpossum/)*
+*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/djpossum/)*

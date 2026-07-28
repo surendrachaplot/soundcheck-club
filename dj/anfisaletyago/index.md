@@ -1,6 +1,6 @@
 # Anfisa Letyago
 
-Anfisa Letyago is a Techno and House artist with 6 upcoming club dates listed on soundcheck as of Mon, 27 Jul 2026, next at Amnesia Ibiza, Ibiza on Tue, 4 Aug 2026.
+Anfisa Letyago is a Techno and House artist with 6 upcoming club dates listed on soundcheck as of Tue, 28 Jul 2026, next at Amnesia Ibiza, Ibiza on Tue, 4 Aug 2026.
 
 Anfisa Letyago is a techno and house artist tracked on soundcheck, with 155 sets logged across Amsterdam, Antwerp, Athens and Austin and 51 more. Often billed alongside Eli Brown, Enrico Sangiuliano and Héctor Oaks. Next up: Amnesia Ibiza, Ibiza on Tue 4 Aug.
 
@@ -30,4 +30,4 @@ Anfisa Letyago is a techno and house artist tracked on soundcheck, with 155 sets
 
 Eli Brown, Enrico Sangiuliano, Héctor Oaks
 
-*Updated Mon, 27 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/anfisaletyago/)*
+*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/anfisaletyago/)*

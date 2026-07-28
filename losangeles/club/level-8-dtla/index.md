@@ -1,6 +1,6 @@
 # Level 8 DTLA
 
-Level 8 DTLA is a music venue in Los Angeles with 11 upcoming nights listed on soundcheck as of Mon, 27 Jul 2026; the next is "SUNSET SESSIONS" on Fri, 31 Jul 2026.
+Level 8 DTLA is a music venue in Los Angeles with 11 upcoming nights listed on soundcheck as of Tue, 28 Jul 2026; the next is "SUNSET SESSIONS" on Fri, 31 Jul 2026.
 
 Level 8 DTLA is a music venue in Losangeles listed on soundcheck. 11 upcoming nights, with line-ups including Apache, Chambord, David Paul and Durante and 2 more. Browse upcoming dates, start times and who's playing. 1254 S Figueroa St, Los Angeles, CA 90015.
 
@@ -23,4 +23,4 @@ Level 8 DTLA is a music venue in Losangeles listed on soundcheck. 11 upcoming ni
 
 1254 S Figueroa St, Los Angeles, CA 90015, Los Angeles
 
-*Updated Mon, 27 Jul 2026 · source: [soundcheck](https://soundcheck.club/losangeles/club/level-8-dtla/)*
+*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/losangeles/club/level-8-dtla/)*

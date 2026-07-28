@@ -1,8 +1,8 @@
 # House of Yes
 
-House of Yes is a music venue in New York City with 13 upcoming nights listed on soundcheck as of Mon, 27 Jul 2026; the next is "Shore Thing: Spencer Brown, Saqib, Tone Troy" on Fri, 31 Jul 2026.
+House of Yes is a music venue in New York City with 15 upcoming nights listed on soundcheck as of Tue, 28 Jul 2026; the next is "Shore Thing: Spencer Brown, Saqib, Tone Troy" on Fri, 31 Jul 2026.
 
-House of Yes is a music venue in Newyorkcity listed on soundcheck. 13 upcoming nights, with line-ups including Atish, Bridge (NY), Echonomist and Egyptian Lover and 2 more. Browse upcoming dates, start times and who's playing. 2 Wyckoff Avenue; Brooklyn, NY 11237; USA.
+House of Yes is a music venue in Newyorkcity listed on soundcheck. 15 upcoming nights, with line-ups including Aluna, Atish, Brian Cid and Bridge (NY) and 2 more. Browse upcoming dates, start times and who's playing. 2 Wyckoff Avenue; Brooklyn, NY 11237; USA.
 
 ## What's on
 
@@ -11,16 +11,16 @@ House of Yes is a music venue in Newyorkcity listed on soundcheck. 13 upcoming n
 | Fri, 31 Jul 2026 | Shore Thing: Spencer Brown, Saqib, Tone Troy | Saqib, Spencer Brown, Tone Troy |
 | Sat, 1 Aug 2026 | HYPERSPACE: Atish & friends | Atish |
 | Fri, 7 Aug 2026 | House of Grooves: Stretch Armstrong + Sissies of Mercy All Night | Sissies of Mercy |
+| Sat, 8 Aug 2026 | Festival Dominicano: mundo + Brian Cid presents Ladobé | Brian Cid, DJ Ultra Violet, Dos Flakos, mundo |
 | Sat, 15 Aug 2026 | Heat Wave: Egyptian Lover, Stacey Hotwaxx Hale, Bridge | Bridge (NY), Egyptian Lover, Stacey Hotwaxx Hale |
 | Fri, 21 Aug 2026 | LEO RISING: Kyle Hall, Shaun J. Wright, TEE EM DEE | Kyle Hall, Shaun J. Wright, TEE EM DEE |
 | Sat, 22 Aug 2026 | Full Throttle: Township Rebellion | Township Rebellion |
 | Fri, 28 Aug 2026 | Slayyyland |  |
 | Sat, 29 Aug 2026 | ABC Party: Sponges & N2N | N2N (US) |
 | Fri, 4 Sept 2026 | House of Grooves: Eli Escobar All Night + Sissies of Mercy | Eli Escobar, Sissies of Mercy |
-| Sat, 19 Sept 2026 | Sonic Ceremony: Echonomist & OVEOUS | Echonomist, OVEOUS |
 
 ## Address
 
 2 Wyckoff Avenue; Brooklyn, NY 11237; USA, New York City
 
-*Updated Mon, 27 Jul 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/house-of-yes/)*
+*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/house-of-yes/)*

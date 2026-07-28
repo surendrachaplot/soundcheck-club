@@ -1,8 +1,8 @@
 # Chris Avantgarde
 
-Chris Avantgarde is a Techno and House artist with 4 upcoming club dates listed on soundcheck as of Mon, 27 Jul 2026, next at [UNVRS], Ibiza on Tue, 28 Jul 2026.
+Chris Avantgarde is a Techno and House artist with 5 upcoming club dates listed on soundcheck as of Tue, 28 Jul 2026, next at [UNVRS], Ibiza on Tue, 28 Jul 2026.
 
-Chris Avantgarde is a techno and house artist tracked on soundcheck, with 119 sets logged across Amsterdam, Austin, Barcelona and Basel and 33 more. Often billed alongside Kevin de Vries, Adam Beyer and Massano. Next up: [UNVRS], Ibiza on Tue 28 Jul.
+Chris Avantgarde is a techno and house artist tracked on soundcheck, with 120 sets logged across Amsterdam, Austin, Barcelona and Basel and 34 more. Often billed alongside Kevin de Vries, Adam Beyer and Massano. Next up: [UNVRS], Ibiza on Tue 28 Jul.
 
 ## Upcoming shows
 
@@ -12,6 +12,7 @@ Chris Avantgarde is a techno and house artist tracked on soundcheck, with 119 se
 | Sat, 8 Aug 2026 | Sloterpark | Amsterdam |
 | Wed, 26 Aug 2026 | Amnesia Ibiza | Ibiza |
 | Fri, 4 Sept 2026 | Union Park | Chicago |
+| Fri, 18 Sept 2026 | O der Klub | Vienna |
 
 ## Recently played
 
@@ -28,4 +29,4 @@ Chris Avantgarde is a techno and house artist tracked on soundcheck, with 119 se
 
 Kevin de Vries, Adam Beyer, Massano
 
-*Updated Mon, 27 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/chrisavantgarde/)*
+*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/chrisavantgarde/)*

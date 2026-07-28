@@ -1,6 +1,6 @@
 # Vuur
 
-Vuur is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Mon, 27 Jul 2026, next at Thuishaven, Amsterdam on Sat, 15 Aug 2026.
+Vuur is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Tue, 28 Jul 2026, next at Thuishaven, Amsterdam on Sat, 15 Aug 2026.
 
 Vuur is a house and techno artist tracked on soundcheck, with 109 sets logged across Amsterdam, Berlin, Brussels and London and 7 more. Often billed alongside Carlos Valdes, Bastienne and TITIA. Next up: Thuishaven, Amsterdam on Sat 15 Aug.
 
@@ -26,4 +26,4 @@ Vuur is a house and techno artist tracked on soundcheck, with 109 sets logged ac
 
 Carlos Valdes, Bastienne, TITIA
 
-*Updated Mon, 27 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/vuur/)*
+*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/vuur/)*

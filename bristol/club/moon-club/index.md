@@ -1,6 +1,6 @@
 # Moon Club
 
-Moon Club is a music venue in Bristol with 3 upcoming nights listed on soundcheck as of Mon, 27 Jul 2026; the next is "Rare Sounds presents: Mia Pia, Marswalkz + support" on Fri, 31 Jul 2026.
+Moon Club is a music venue in Bristol with 3 upcoming nights listed on soundcheck as of Tue, 28 Jul 2026; the next is "Rare Sounds presents: Mia Pia, Marswalkz + support" on Fri, 31 Jul 2026.
 
 Moon Club is a music venue in Bristol listed on soundcheck. 3 upcoming nights, with line-ups including Appleblim, Ben Pest, Kyle Starkey and MTOM and 2 more. Browse upcoming dates, start times and who's playing. 6 Upper York St, St Paul's, Bristol, BS2 8QN.
 
@@ -16,4 +16,4 @@ Moon Club is a music venue in Bristol listed on soundcheck. 3 upcoming nights, w
 
 6 Upper York St, St Paul's, Bristol, BS2 8QN, Bristol
 
-*Updated Mon, 27 Jul 2026 · source: [soundcheck](https://soundcheck.club/bristol/club/moon-club/)*
+*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/bristol/club/moon-club/)*

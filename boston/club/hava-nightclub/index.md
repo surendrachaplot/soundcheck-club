@@ -1,6 +1,6 @@
 # Hava Nightclub
 
-Hava Nightclub is a music venue in Boston with 1 upcoming night listed on soundcheck as of Mon, 27 Jul 2026; the next is "Elysian: Acid Groove" on Fri, 7 Aug 2026.
+Hava Nightclub is a music venue in Boston with 1 upcoming night listed on soundcheck as of Tue, 28 Jul 2026; the next is "Elysian: Acid Groove" on Fri, 7 Aug 2026.
 
 Hava Nightclub is a music venue in Boston listed on soundcheck. 1 upcoming night, with line-ups including DJ Dolla. Browse upcoming dates, start times and who's playing. 246 Tremont St, Boston, MA, 02216.
 
@@ -14,4 +14,4 @@ Hava Nightclub is a music venue in Boston listed on soundcheck. 1 upcoming night
 
 246 Tremont St, Boston, MA, 02216, Boston
 
-*Updated Mon, 27 Jul 2026 · source: [soundcheck](https://soundcheck.club/boston/club/hava-nightclub/)*
+*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/boston/club/hava-nightclub/)*

@@ -1,6 +1,6 @@
 # Ohm Hourani
 
-Ohm Hourani is a House and Minimal artist with 2 upcoming club dates listed on soundcheck as of Mon, 27 Jul 2026, next at Club der Visionaere, Berlin on Thu, 30 Jul 2026.
+Ohm Hourani is a House and Minimal artist with 2 upcoming club dates listed on soundcheck as of Tue, 28 Jul 2026, next at Club der Visionaere, Berlin on Thu, 30 Jul 2026.
 
 Ohm Hourani is a house and minimal artist based in Canada, tracked on soundcheck, with 100 sets logged across Belgrade, Berlin, Boston and Detroit and 13 more. Often billed alongside Tomas Station, Vincent Lemieux and O.BEE. Next up: Club der Visionaere, Berlin on Thu 30 Jul.
 
@@ -26,4 +26,4 @@ Ohm Hourani is a house and minimal artist based in Canada, tracked on soundcheck
 
 Tomas Station, Vincent Lemieux, O.BEE
 
-*Updated Mon, 27 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/ohmhourani/)*
+*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/ohmhourani/)*

@@ -1,6 +1,6 @@
 # ANDATA
 
-ANDATA is a Techno and Trance artist with 4 upcoming club dates listed on soundcheck as of Mon, 27 Jul 2026, next at Budapest Park, Budapest on Fri, 31 Jul 2026.
+ANDATA is a Techno and Trance artist with 4 upcoming club dates listed on soundcheck as of Tue, 28 Jul 2026, next at Budapest Park, Budapest on Fri, 31 Jul 2026.
 
 ANDATA is a techno and trance artist based in Germany, tracked on soundcheck, with 88 sets logged across Berlin, Budapest, Cologne and Frankfurt and 10 more. Often billed alongside HOTBOI2300, SKKIN VELVET and Cobb Douglas. Next up: Budapest Park, Budapest on Fri 31 Jul.
 
@@ -28,4 +28,4 @@ ANDATA is a techno and trance artist based in Germany, tracked on soundcheck, wi
 
 HOTBOI2300, SKKIN VELVET, Cobb Douglas
 
-*Updated Mon, 27 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/andata/)*
+*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/andata/)*

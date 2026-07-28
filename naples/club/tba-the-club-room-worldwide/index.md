@@ -1,6 +1,6 @@
 # TBA - The Club Room Worldwide
 
-TBA - The Club Room Worldwide is a music venue in Naples with 4 upcoming nights listed on soundcheck as of Mon, 27 Jul 2026; the next is "Mastering Sessions Black In Studio" on Wed, 29 Jul 2026.
+TBA - The Club Room Worldwide is a music venue in Naples with 4 upcoming nights listed on soundcheck as of Tue, 28 Jul 2026; the next is "Mastering Sessions Black In Studio" on Wed, 29 Jul 2026.
 
 TBA - The Club Room Worldwide is a music venue in Naples listed on soundcheck. 4 upcoming nights, with line-ups including TC Dj. Browse upcoming dates, start times and who's playing.
 
@@ -13,4 +13,4 @@ TBA - The Club Room Worldwide is a music venue in Naples listed on soundcheck. 4
 | Wed, 5 Aug 2026 | Mastering Sessions Black In Studio | TC Dj |
 | Sun, 9 Aug 2026 | Mastering Sessions Black In Studio | TC Dj |
 
-*Updated Mon, 27 Jul 2026 · source: [soundcheck](https://soundcheck.club/naples/club/tba-the-club-room-worldwide/)*
+*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/naples/club/tba-the-club-room-worldwide/)*

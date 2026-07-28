@@ -1,6 +1,6 @@
 # Kilbourne
 
-Kilbourne is a Techno and Hardcore artist with 2 upcoming club dates listed on soundcheck as of Mon, 27 Jul 2026, next at Quartier Des Spectacles, Montreal on Tue, 25 Aug 2026.
+Kilbourne is a Techno and Hardcore artist with 2 upcoming club dates listed on soundcheck as of Tue, 28 Jul 2026, next at Quartier Des Spectacles, Montreal on Tue, 25 Aug 2026.
 
 Kilbourne is a techno and hardcore artist based in United States of America, tracked on soundcheck, with 68 sets logged across Amsterdam, Antwerp, Bangkok and Barcelona and 18 more. Often billed alongside Relaxer, Buzzi and aka-Sol. Next up: Quartier Des Spectacles, Montreal on Tue 25 Aug.
 
@@ -26,4 +26,4 @@ Kilbourne is a techno and hardcore artist based in United States of America, tra
 
 Relaxer, Buzzi, aka-Sol
 
-*Updated Mon, 27 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/kilbourne/)*
+*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/kilbourne/)*

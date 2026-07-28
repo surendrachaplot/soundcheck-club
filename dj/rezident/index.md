@@ -1,6 +1,6 @@
 # Rezident
 
-Rezident is a Progressive House and House artist with 2 upcoming club dates listed on soundcheck as of Mon, 27 Jul 2026, next at EOS Lounge, Los Angeles on Fri, 31 Jul 2026.
+Rezident is a Progressive House and House artist with 2 upcoming club dates listed on soundcheck as of Tue, 28 Jul 2026, next at EOS Lounge, Los Angeles on Fri, 31 Jul 2026.
 
 Rezident is a progressive house and house artist tracked on soundcheck, with 41 sets logged across Amsterdam, Barcelona, Berlin and Brighton and 20 more. Often billed alongside Nicky Elisabeth, Braxton and Qrion. Next up: EOS Lounge, Losangeles on Fri 31 Jul.
 
@@ -26,4 +26,4 @@ Rezident is a progressive house and house artist tracked on soundcheck, with 41 
 
 Nicky Elisabeth, Braxton, Qrion
 
-*Updated Mon, 27 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/rezident/)*
+*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/rezident/)*

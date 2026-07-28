@@ -1,14 +1,15 @@
 # Alienata
 
-Alienata is a Techno and Electro artist with 3 upcoming club dates listed on soundcheck as of Mon, 27 Jul 2026, next at ://about blank, Berlin on Sat, 1 Aug 2026.
+Alienata is a Techno and Electro artist with 4 upcoming club dates listed on soundcheck as of Tue, 28 Jul 2026, next at ://about blank, Berlin on Sat, 1 Aug 2026.
 
-Alienata is a techno and electro artist tracked on soundcheck, with 95 sets logged across Amsterdam, Athens, Barcelona and Berlin and 20 more. Often billed alongside Bloody Mary, Ben Sims and L.F.T.. Next up: ://about blank, Berlin on Sat 1 Aug.
+Alienata is a techno and electro artist tracked on soundcheck, with 96 sets logged across Amsterdam, Athens, Barcelona and Berlin and 20 more. Often billed alongside Bloody Mary, Ben Sims and L.F.T.. Next up: ://about blank, Berlin on Sat 1 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 1 Aug 2026 | ://about blank | Berlin |
+| Thu, 27 Aug 2026 | Cadavra | Madrid |
 | Sat, 29 Aug 2026 | Razzmatazz | Barcelona |
 | Fri, 11 Sept 2026 | CLUB RAUM | Amsterdam |
 
@@ -27,4 +28,4 @@ Alienata is a techno and electro artist tracked on soundcheck, with 95 sets logg
 
 Bloody Mary, Ben Sims, L.F.T.
 
-*Updated Mon, 27 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/alienata/)*
+*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/alienata/)*

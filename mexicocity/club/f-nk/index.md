@@ -1,6 +1,6 @@
 # Fünk
 
-Fünk is a music venue in Mexico City with 8 upcoming nights listed on soundcheck as of Mon, 27 Jul 2026; the next is "Concilio x Fünk" on Thu, 30 Jul 2026.
+Fünk is a music venue in Mexico City with 8 upcoming nights listed on soundcheck as of Tue, 28 Jul 2026; the next is "Concilio x Fünk" on Thu, 30 Jul 2026.
 
 Fünk is a music venue in Mexicocity listed on soundcheck. 8 upcoming nights, with line-ups including Alena Vox, Alexis Yasky, Bluecommand and Daniel Bukara and 2 more. Browse upcoming dates, start times and who's playing. Av. Insurgentes Sur 377, Hipódromo, Cuauhtémoc, 06100 Ciudad de México, CDMX, Mexico.
 
@@ -21,4 +21,4 @@ Fünk is a music venue in Mexicocity listed on soundcheck. 8 upcoming nights, wi
 
 Av. Insurgentes Sur 377, Hipódromo, Cuauhtémoc, 06100 Ciudad de México, CDMX, Mexico, Mexico City
 
-*Updated Mon, 27 Jul 2026 · source: [soundcheck](https://soundcheck.club/mexicocity/club/f-nk/)*
+*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/mexicocity/club/f-nk/)*

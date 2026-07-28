@@ -1,6 +1,6 @@
 # KC Grad
 
-KC Grad is a music venue in Belgrade with 2 upcoming nights listed on soundcheck as of Mon, 27 Jul 2026; the next is "Domaja" on Fri, 31 Jul 2026.
+KC Grad is a music venue in Belgrade with 2 upcoming nights listed on soundcheck as of Tue, 28 Jul 2026; the next is "Domaja" on Fri, 31 Jul 2026.
 
 KC Grad is a music venue in Belgrade listed on soundcheck. 2 upcoming nights, with line-ups including Chokey, Cze (1), Matkec and SAUD. Browse upcoming dates, start times and who's playing. Belgrade, 11000, Serbia.
 
@@ -15,4 +15,4 @@ KC Grad is a music venue in Belgrade listed on soundcheck. 2 upcoming nights, wi
 
 Belgrade, 11000, Serbia, Belgrade
 
-*Updated Mon, 27 Jul 2026 · source: [soundcheck](https://soundcheck.club/belgrade/club/kc-grad/)*
+*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/belgrade/club/kc-grad/)*

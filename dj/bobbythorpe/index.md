@@ -1,8 +1,8 @@
 # Bobby Thorpe
 
-Bobby Thorpe is a House and Disco artist with 2 upcoming club dates listed on soundcheck as of Mon, 27 Jul 2026, next at Amber's, Manchester on Sat, 8 Aug 2026.
+Bobby Thorpe is a House and Disco artist with 3 upcoming club dates listed on soundcheck as of Tue, 28 Jul 2026, next at Amber's, Manchester on Sat, 8 Aug 2026.
 
-Bobby Thorpe is a house and disco artist based in United Kingdom, tracked on soundcheck, with 50 sets logged across Amsterdam, Berlin, Glasgow and Liverpool and 2 more. Often billed alongside Bijon, Kickin Pigeon and Psychederek. Next up: Amber's, Manchester on Sat 8 Aug.
+Bobby Thorpe is a house and disco artist based in United Kingdom, tracked on soundcheck, with 51 sets logged across Amsterdam, Berlin, Glasgow and Liverpool and 2 more. Often billed alongside Bijon, Kickin Pigeon and Royal Male. Next up: Amber's, Manchester on Sat 8 Aug.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Bobby Thorpe is a house and disco artist based in United Kingdom, tracked on sou
 | --- | --- | --- |
 | Sat, 8 Aug 2026 | Amber's | Manchester |
 | Thu, 27 Aug 2026 | Eastern Bloc Records | Manchester |
+| Sun, 30 Aug 2026 | The Carlton Club | Manchester |
 
 ## Recently played
 
@@ -24,6 +25,6 @@ Bobby Thorpe is a house and disco artist based in United Kingdom, tracked on sou
 
 ## Shares bills with
 
-Bijon, Kickin Pigeon, Psychederek
+Bijon, Kickin Pigeon, Royal Male
 
-*Updated Mon, 27 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/bobbythorpe/)*
+*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/bobbythorpe/)*

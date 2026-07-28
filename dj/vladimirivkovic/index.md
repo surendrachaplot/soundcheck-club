@@ -1,6 +1,6 @@
 # Vladimir Ivkovic
 
-Vladimir Ivkovic is a Techno and House artist with 7 upcoming club dates listed on soundcheck as of Mon, 27 Jul 2026, next at Gaffe, London on Sat, 1 Aug 2026.
+Vladimir Ivkovic is a Techno and House artist with 7 upcoming club dates listed on soundcheck as of Tue, 28 Jul 2026, next at Gaffe, London on Sat, 1 Aug 2026.
 
 Vladimir Ivkovic is a techno and house artist tracked on soundcheck, with 195 sets logged across Amsterdam, Athens, Auckland and Bali and 58 more. Often billed alongside Lena Willikens, Ivan Smagghe and Ben UFO. Next up: Gaffe, London on Sat 1 Aug.
 
@@ -31,4 +31,4 @@ Vladimir Ivkovic is a techno and house artist tracked on soundcheck, with 195 se
 
 Lena Willikens, Ivan Smagghe, Ben UFO
 
-*Updated Mon, 27 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/vladimirivkovic/)*
+*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/vladimirivkovic/)*

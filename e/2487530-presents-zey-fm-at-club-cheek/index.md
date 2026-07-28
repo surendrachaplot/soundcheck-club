@@ -1,6 +1,6 @@
 # Ø presents Zey FM at Club Cheek
 
-Ø presents Zey FM at Club Cheek on Sun 13 Sept, London. 3 acts on the bill: Anahita Shamsaei, Innerstice and Ryan Licchelli. Techno and Electro. Preview the line-up and save it on soundcheck.
+Ø presents Zey FM at Club Cheek on Sun 13 Sept, London. 4 acts on the bill: Anahita Shamsaei, Bilge, Innerstice and Ryan Licchelli. Techno and Electro. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -11,6 +11,7 @@
 ## Line-up
 
 - Anahita Shamsaei
+- Bilge
 - Innerstice
 - Ryan Licchelli
 

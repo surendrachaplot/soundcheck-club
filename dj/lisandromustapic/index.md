@@ -1,6 +1,6 @@
 # Lisandro Mustapic
 
-Lisandro Mustapic is a House and Minimal artist with 2 upcoming club dates listed on soundcheck as of Mon, 27 Jul 2026, next at TBA - Studio Stereo, close to pl. Catalunya, 08007, Barcelona, Barcelona on Fri, 14 Aug 2026.
+Lisandro Mustapic is a House and Minimal artist with 2 upcoming club dates listed on soundcheck as of Tue, 28 Jul 2026, next at TBA - Studio Stereo, close to pl. Catalunya, 08007, Barcelona, Barcelona on Fri, 14 Aug 2026.
 
 Lisandro Mustapic is a house and minimal artist based in Spain, tracked on soundcheck, with 45 sets logged across Barcelona and Madrid. Often billed alongside IVAN POSEIDON, MARYO and Derk. Next up: TBA - Studio Stereo, close to pl. Catalunya, 08007, Barcelona, Barcelona on Fri 14 Aug.
 
@@ -26,4 +26,4 @@ Lisandro Mustapic is a house and minimal artist based in Spain, tracked on sound
 
 IVAN POSEIDON, MARYO, Derk
 
-*Updated Mon, 27 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/lisandromustapic/)*
+*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/lisandromustapic/)*

@@ -1,6 +1,6 @@
 # Nettta
 
-Nettta is a Techno and Trance artist with 5 upcoming club dates listed on soundcheck as of Mon, 27 Jul 2026, next at Lokschuppen Berlin, Berlin on Wed, 29 Jul 2026.
+Nettta is a Techno and Trance artist with 5 upcoming club dates listed on soundcheck as of Tue, 28 Jul 2026, next at Lokschuppen Berlin, Berlin on Wed, 29 Jul 2026.
 
 Nettta is a techno and trance artist based in Germany, tracked on soundcheck, with 22 sets logged across Berlin, Hamburg and Paris. Often billed alongside Blossmbae, EZA (DE) and Alex Friday. Next up: Lokschuppen Berlin, Berlin on Wed 29 Jul.
 
@@ -29,4 +29,4 @@ Nettta is a techno and trance artist based in Germany, tracked on soundcheck, wi
 
 Blossmbae, EZA (DE), Alex Friday
 
-*Updated Mon, 27 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/nettta/)*
+*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/nettta/)*

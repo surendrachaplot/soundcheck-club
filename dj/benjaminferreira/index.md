@@ -1,6 +1,6 @@
 # Benjamin Ferreira
 
-Benjamin Ferreira is a House and Disco artist with 2 upcoming club dates listed on soundcheck as of Mon, 27 Jul 2026, next at Caracol Bar, Sao Paulo on Fri, 31 Jul 2026.
+Benjamin Ferreira is a House and Disco artist with 2 upcoming club dates listed on soundcheck as of Tue, 28 Jul 2026, next at Caracol Bar, Sao Paulo on Fri, 31 Jul 2026.
 
 Benjamin Ferreira is a house and disco artist based in Brazil, tracked on soundcheck, with 36 sets logged across Amsterdam and Saopaulo. Often billed alongside Mau Medeiros, Renato Cohen and Pedro Gariani. Next up: Caracol Bar, Saopaulo on Fri 31 Jul.
 
@@ -26,4 +26,4 @@ Benjamin Ferreira is a house and disco artist based in Brazil, tracked on soundc
 
 Mau Medeiros, Renato Cohen, Pedro Gariani
 
-*Updated Mon, 27 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/benjaminferreira/)*
+*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/benjaminferreira/)*

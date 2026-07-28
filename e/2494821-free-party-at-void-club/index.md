@@ -1,6 +1,6 @@
 # Free Party at Void Club
 
-Free Party at Void Club on Fri 7 Aug, Berlin. 3 acts on the bill: Dino S, Sagrivox and Upzet. Drum & Bass and Techno. Preview the line-up and save it on soundcheck.
+Free Party at Void Club on Fri 7 Aug, Berlin. 4 acts on the bill: Dino S, Ed Shepherd, Sagrivox and Upzet. Drum & Bass and Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -11,6 +11,7 @@ Free Party at Void Club on Fri 7 Aug, Berlin. 3 acts on the bill: Dino S, Sagriv
 ## Line-up
 
 - Dino S
+- Ed Shepherd
 - Sagrivox
 - Upzet
 

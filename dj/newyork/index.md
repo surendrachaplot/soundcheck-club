@@ -1,6 +1,6 @@
 # NEW YORK
 
-NEW YORK is a Electro and Pop artist with 3 upcoming club dates listed on soundcheck as of Mon, 27 Jul 2026, next at Amsterdamse Bos, Amsterdam on Wed, 29 Jul 2026.
+NEW YORK is a Electro and Pop artist with 3 upcoming club dates listed on soundcheck as of Tue, 28 Jul 2026, next at Amsterdamse Bos, Amsterdam on Wed, 29 Jul 2026.
 
 NEW YORK is an electro and pop artist based in United Kingdom, tracked on soundcheck, with 162 sets logged across Amsterdam, Bali, Barcelona and Berlin and 50 more. Often billed alongside AMEX (UK), APP and Alaska (2). Next up: Amsterdamse Bos, Amsterdam on Wed 29 Jul.
 
@@ -27,4 +27,4 @@ NEW YORK is an electro and pop artist based in United Kingdom, tracked on soundc
 
 AMEX (UK), APP, Alaska (2)
 
-*Updated Mon, 27 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/newyork/)*
+*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/newyork/)*

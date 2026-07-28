@@ -1,6 +1,6 @@
 # Freddy K
 
-Freddy K is a Techno and House artist with 13 upcoming club dates listed on soundcheck as of Mon, 27 Jul 2026, next at BLITZ, Munich on Fri, 31 Jul 2026.
+Freddy K is a Techno and House artist with 13 upcoming club dates listed on soundcheck as of Tue, 28 Jul 2026, next at BLITZ, Munich on Fri, 31 Jul 2026.
 
 Freddy K is a techno and house artist tracked on soundcheck, with 268 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 63 more. Often billed alongside Alarico, Blasha & Allatt and Chlär. Next up: BLITZ, Munich on Fri 31 Jul.
 
@@ -36,4 +36,4 @@ Freddy K is a techno and house artist tracked on soundcheck, with 268 sets logge
 
 Alarico, Blasha & Allatt, Chlär
 
-*Updated Mon, 27 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/freddyk/)*
+*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/freddyk/)*

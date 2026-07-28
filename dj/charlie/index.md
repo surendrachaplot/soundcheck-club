@@ -1,6 +1,6 @@
 # Charlie
 
-Charlie is a Techno and House artist with 4 upcoming club dates listed on soundcheck as of Mon, 27 Jul 2026, next at Shibuya Club Ball, Tokyo on Fri, 31 Jul 2026.
+Charlie is a Techno and House artist with 4 upcoming club dates listed on soundcheck as of Tue, 28 Jul 2026, next at Shibuya Club Ball, Tokyo on Fri, 31 Jul 2026.
 
 Charlie is a techno and house artist tracked on soundcheck, with 130 sets logged across Amsterdam, Barcelona, Berlin and Brighton and 22 more. Often billed alongside Marsman, Priku and Arapu. Next up: Shibuya Club Ball, Tokyo on Fri 31 Jul.
 
@@ -28,4 +28,4 @@ Charlie is a techno and house artist tracked on soundcheck, with 130 sets logged
 
 Marsman, Priku, Arapu
 
-*Updated Mon, 27 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/charlie/)*
+*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/charlie/)*

@@ -1,6 +1,6 @@
 # Nice N Sleazy
 
-Nice N Sleazy is a music venue in Glasgow with 10 upcoming nights listed on soundcheck as of Mon, 27 Jul 2026; the next is "Finesse — Supporting Scottish Huntington's Association" on Thu, 30 Jul 2026.
+Nice N Sleazy is a music venue in Glasgow with 10 upcoming nights listed on soundcheck as of Tue, 28 Jul 2026; the next is "Finesse — Supporting Scottish Huntington's Association" on Thu, 30 Jul 2026.
 
 Nice N Sleazy is a music venue in Glasgow listed on soundcheck. 10 upcoming nights, with line-ups including Aileron, Corran, Darkcore Truth and EL PADRE and 2 more. Browse upcoming dates, start times and who's playing. 421 Sauchiehall Street; Glasgow, G2 3LG; Scotland, United Kingdom.
 
@@ -23,4 +23,4 @@ Nice N Sleazy is a music venue in Glasgow listed on soundcheck. 10 upcoming nigh
 
 421 Sauchiehall Street; Glasgow, G2 3LG; Scotland, United Kingdom, Glasgow
 
-*Updated Mon, 27 Jul 2026 · source: [soundcheck](https://soundcheck.club/glasgow/club/nice-n-sleazy/)*
+*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/glasgow/club/nice-n-sleazy/)*

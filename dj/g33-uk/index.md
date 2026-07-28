@@ -1,6 +1,6 @@
 # G33 (UK)
 
-G33 (UK) is a Garage and Bass artist with 4 upcoming club dates listed on soundcheck as of Mon, 27 Jul 2026, next at Night Tales, London on Thu, 6 Aug 2026.
+G33 (UK) is a Garage and Bass artist with 4 upcoming club dates listed on soundcheck as of Tue, 28 Jul 2026, next at Night Tales, London on Thu, 6 Aug 2026.
 
 G33 (UK) is a garage and bass artist based in United Kingdom, tracked on soundcheck, with 25 sets logged across Bristol, Glasgow, Ibiza and Leeds and 4 more. Often billed alongside A.N.T, CITIZEN and Hanz. Next up: Night Tales, London on Thu 6 Aug.
 
@@ -28,4 +28,4 @@ G33 (UK) is a garage and bass artist based in United Kingdom, tracked on soundch
 
 A.N.T, CITIZEN, Hanz
 
-*Updated Mon, 27 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/g33-uk/)*
+*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/g33-uk/)*

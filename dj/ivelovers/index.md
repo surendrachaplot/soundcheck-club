@@ -1,6 +1,6 @@
 # Ive Lovers
 
-Ive Lovers is a House and Tech House artist with 2 upcoming club dates listed on soundcheck as of Mon, 27 Jul 2026, next at KIT Royal Tropical Institute, Amsterdam on Sat, 24 Oct 2026.
+Ive Lovers is a House and Tech House artist with 2 upcoming club dates listed on soundcheck as of Tue, 28 Jul 2026, next at KIT Royal Tropical Institute, Amsterdam on Sat, 24 Oct 2026.
 
 Ive Lovers is a house and tech house artist based in Netherlands, tracked on soundcheck, with 35 sets logged across Amsterdam, London, Manchester and Prague and 1 more. Often billed alongside Michael Pieterse, DJANGO (NL) and Julian Wijn. Next up: KIT Royal Tropical Institute, Amsterdam on Sat 24 Oct.
 
@@ -26,4 +26,4 @@ Ive Lovers is a house and tech house artist based in Netherlands, tracked on sou
 
 Michael Pieterse, DJANGO (NL), Julian Wijn
 
-*Updated Mon, 27 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/ivelovers/)*
+*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/ivelovers/)*

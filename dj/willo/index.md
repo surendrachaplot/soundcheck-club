@@ -1,6 +1,6 @@
 # Willo
 
-Willo is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Mon, 27 Jul 2026, next at Meraki, Liverpool on Sat, 1 Aug 2026.
+Willo is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Tue, 28 Jul 2026, next at Meraki, Liverpool on Sat, 1 Aug 2026.
 
 Willo is a house and techno artist tracked on soundcheck, with 27 sets logged across Brisbane, Dublin, Liverpool and London and 3 more. Often billed alongside 1tbsp, Ayebatonye and Duskus. Next up: Meraki, Liverpool on Sat 1 Aug.
 
@@ -26,4 +26,4 @@ Willo is a house and techno artist tracked on soundcheck, with 27 sets logged ac
 
 1tbsp, Ayebatonye, Duskus
 
-*Updated Mon, 27 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/willo/)*
+*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/willo/)*

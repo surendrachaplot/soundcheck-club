@@ -1,6 +1,6 @@
 # A.Well
 
-A.Well is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Mon, 27 Jul 2026, next at Section 8, Melbourne on Fri, 31 Jul 2026.
+A.Well is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Tue, 28 Jul 2026, next at Section 8, Melbourne on Fri, 31 Jul 2026.
 
 A.Well is a house and techno artist based in Australia, tracked on soundcheck, with 50 sets logged across Melbourne and Sydney. Often billed alongside Andrew88, Yugwan and J-OK. Next up: Section 8, Melbourne on Fri 31 Jul.
 
@@ -26,4 +26,4 @@ A.Well is a house and techno artist based in Australia, tracked on soundcheck, w
 
 Andrew88, Yugwan, J-OK
 
-*Updated Mon, 27 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/a.well/)*
+*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/a.well/)*

@@ -1,6 +1,6 @@
 # Aether Club Budapest
 
-Aether Club Budapest is a music venue in Budapest with 4 upcoming nights listed on soundcheck as of Mon, 27 Jul 2026; the next is "AETHER NO TOMORROW: Ipar, And/Or, dtnb, Gingershot" on Fri, 31 Jul 2026.
+Aether Club Budapest is a music venue in Budapest with 4 upcoming nights listed on soundcheck as of Tue, 28 Jul 2026; the next is "AETHER NO TOMORROW: Ipar, And/Or, dtnb, Gingershot" on Fri, 31 Jul 2026.
 
 Aether Club Budapest is a music venue in Budapest listed on soundcheck. 4 upcoming nights, with line-ups including ädene, Akác, And/Or and Arash Ete and 2 more. Browse upcoming dates, start times and who's playing. Király street 13, Budapest, 1075, Hungary.
 
@@ -17,4 +17,4 @@ Aether Club Budapest is a music venue in Budapest listed on soundcheck. 4 upcomi
 
 Király street 13, Budapest, 1075, Hungary, Budapest
 
-*Updated Mon, 27 Jul 2026 · source: [soundcheck](https://soundcheck.club/budapest/club/aether-club-budapest/)*
+*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/budapest/club/aether-club-budapest/)*

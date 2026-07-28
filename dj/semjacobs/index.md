@@ -1,6 +1,6 @@
 # Sem Jacobs
 
-Sem Jacobs is a House and Tech House artist with 6 upcoming club dates listed on soundcheck as of Mon, 27 Jul 2026, next at Blue Marlin Ibiza, Ibiza on Wed, 29 Jul 2026.
+Sem Jacobs is a House and Tech House artist with 6 upcoming club dates listed on soundcheck as of Tue, 28 Jul 2026, next at Blue Marlin Ibiza, Ibiza on Wed, 29 Jul 2026.
 
 Sem Jacobs is a house and tech house artist based in Netherlands, tracked on soundcheck, with 48 sets logged across Amsterdam, Athens, Austin and Brisbane and 16 more. Often billed alongside Franky Rizardo, Ranger Trucco and Dennis Ferrer. Next up: Blue Marlin Ibiza, Ibiza on Wed 29 Jul.
 
@@ -30,4 +30,4 @@ Sem Jacobs is a house and tech house artist based in Netherlands, tracked on sou
 
 Franky Rizardo, Ranger Trucco, Dennis Ferrer
 
-*Updated Mon, 27 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/semjacobs/)*
+*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/semjacobs/)*

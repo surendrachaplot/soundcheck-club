@@ -1,6 +1,6 @@
 # Alay
 
-Alay is a Techno and Afro House artist with 2 upcoming club dates listed on soundcheck as of Mon, 27 Jul 2026, next at Akasha Las Dalias Club - Ibiza, Ibiza on Wed, 29 Jul 2026.
+Alay is a Techno and Afro House artist with 2 upcoming club dates listed on soundcheck as of Tue, 28 Jul 2026, next at Akasha Las Dalias Club - Ibiza, Ibiza on Wed, 29 Jul 2026.
 
 Alay is a techno and afro house artist based in Switzerland, tracked on soundcheck, with 28 sets logged across Basel, Ibiza and Zurich. Often billed alongside Ambient Pino, AANN and Alok. Next up: Akasha Las Dalias Club - Ibiza, Ibiza on Wed 29 Jul.
 
@@ -26,4 +26,4 @@ Alay is a techno and afro house artist based in Switzerland, tracked on soundche
 
 Ambient Pino, AANN, Alok
 
-*Updated Mon, 27 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/alay/)*
+*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/alay/)*

@@ -1,6 +1,6 @@
 # TBA - Follow @BerlinFloraFestival & @Ousiasound to know exact locations
 
-TBA - Follow @BerlinFloraFestival & @Ousiasound to know exact locations is a music venue in Berlin with 6 upcoming nights listed on soundcheck as of Mon, 27 Jul 2026; the next is "FLORA Festival '26 [Session 6]" on Sun, 2 Aug 2026.
+TBA - Follow @BerlinFloraFestival & @Ousiasound to know exact locations is a music venue in Berlin with 6 upcoming nights listed on soundcheck as of Tue, 28 Jul 2026; the next is "FLORA Festival '26 [Session 6]" on Sun, 2 Aug 2026.
 
 TBA - Follow @BerlinFloraFestival & @Ousiasound to know exact locations is a music venue in Berlin listed on soundcheck. 6 upcoming nights, with line-ups including Alexa Strange, Bardo (1), colell and First Body and 2 more. Browse upcoming dates, start times and who's playing.
 
@@ -15,4 +15,4 @@ TBA - Follow @BerlinFloraFestival & @Ousiasound to know exact locations is a mus
 | Sat, 29 Aug 2026 | FLORA Festival '26 [Session 10] | colell |
 | Sat, 5 Sept 2026 | FLORA Festival '26 [Closing Session] | First Body, O.M.Theorem, Ousia Sound, Rodo Garcia |
 
-*Updated Mon, 27 Jul 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/tba-follow-berlinflorafestival-ousiasound-to-know-exact-locations/)*
+*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/tba-follow-berlinflorafestival-ousiasound-to-know-exact-locations/)*

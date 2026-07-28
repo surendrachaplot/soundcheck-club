@@ -1,6 +1,6 @@
 # DIFFUSE REALITY pres. Recondite [Live] at ://about blank
 
-DIFFUSE REALITY pres. Recondite [Live] at ://about blank on Thu 30 Jul, Berlin. 5 acts on the bill: ELLA WAX, Juan Cernadas, Nina de Koning and Recondite and 1 more. Techno. Preview the line-up and save it on soundcheck.
+DIFFUSE REALITY pres. Recondite [Live] at ://about blank on Thu 30 Jul, Berlin. 6 acts on the bill: ELLA WAX, Juan Cernadas, Nina de Koning and Recondite and 2 more. Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -14,6 +14,7 @@ DIFFUSE REALITY pres. Recondite [Live] at ://about blank on Thu 30 Jul, Berlin. 
 - Juan Cernadas
 - Nina de Koning
 - Recondite
+- Schwarzmalerei
 - Squaric
 
 *Source: [soundcheck](https://soundcheck.club/e/2382692-diffuse-reality-pres-recondite-live-at-about-blank/)*

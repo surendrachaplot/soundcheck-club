@@ -1,14 +1,13 @@
 # Royal Lounge
 
-Royal Lounge is a music venue in Tokyo with 7 upcoming nights listed on soundcheck as of Mon, 27 Jul 2026; the next is "ROYAL MONDAY" on Mon, 27 Jul 2026.
+Royal Lounge is a music venue in Tokyo with 6 upcoming nights listed on soundcheck as of Tue, 28 Jul 2026; the next is "DJ NIGHT-NEXUS-" on Tue, 28 Jul 2026.
 
-Royal Lounge is a music venue in Tokyo listed on soundcheck. 7 upcoming nights, with line-ups including ARISA, AYNA, HiToshi and KAIKAI and 2 more. Browse upcoming dates, start times and who's playing. 10F QPRAZA HARAJUKU, 6-28-6, JINGUUMAE, SHIBUYA-KU, Tokyo, 150-0001.
+Royal Lounge is a music venue in Tokyo listed on soundcheck. 6 upcoming nights, with line-ups including ARISA, AYNA, HiToshi and KAIKAI and 2 more. Browse upcoming dates, start times and who's playing. 10F QPRAZA HARAJUKU, 6-28-6, JINGUUMAE, SHIBUYA-KU, Tokyo, 150-0001.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Mon, 27 Jul 2026 | ROYAL MONDAY |  |
 | Tue, 28 Jul 2026 | DJ NIGHT-NEXUS- | HiToshi, Noa (DE), Nosh |
 | Wed, 29 Jul 2026 | ROYAL BAR |  |
 | Thu, 30 Jul 2026 | BITE | Ruki, YAMAG |
@@ -20,4 +19,4 @@ Royal Lounge is a music venue in Tokyo listed on soundcheck. 7 upcoming nights, 
 
 10F QPRAZA HARAJUKU, 6-28-6, JINGUUMAE, SHIBUYA-KU, Tokyo, 150-0001, Tokyo
 
-*Updated Mon, 27 Jul 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/royal-lounge/)*
+*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/royal-lounge/)*

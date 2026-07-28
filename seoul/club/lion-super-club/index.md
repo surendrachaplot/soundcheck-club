@@ -1,8 +1,8 @@
 # Lion Super Club
 
-Lion Super Club is a music venue in Seoul with 5 upcoming nights listed on soundcheck as of Mon, 27 Jul 2026; the next is "SOUNDCLASH THURSDAY'S" on Thu, 30 Jul 2026.
+Lion Super Club is a music venue in Seoul with 6 upcoming nights listed on soundcheck as of Tue, 28 Jul 2026; the next is "SOUNDCLASH THURSDAY'S" on Thu, 30 Jul 2026.
 
-Lion Super Club is a music venue in Seoul listed on soundcheck. 5 upcoming nights, with line-ups including KIMMY and Yuuki. Browse upcoming dates, start times and who's playing. 1F, 535 Dosan-daero, Gangnam-gu, Seoul 06011, South Korea.
+Lion Super Club is a music venue in Seoul listed on soundcheck. 6 upcoming nights, with line-ups including DALJAE, FUMI, KIMMY and Minehero and 2 more. Browse upcoming dates, start times and who's playing. 1F, 535 Dosan-daero, Gangnam-gu, Seoul 06011, South Korea.
 
 ## What's on
 
@@ -13,9 +13,10 @@ Lion Super Club is a music venue in Seoul listed on soundcheck. 5 upcoming night
 | Fri, 31 Jul 2026 | GLOBAL CALLING: MOVE YOUR BODY |  |
 | Sat, 1 Aug 2026 | CHEEZ & YUKA presents LIONESS | KIMMY |
 | Fri, 7 Aug 2026 | INITIAL MUSIC presents Yuuki Yoshiyama | Yuuki |
+| Sat, 8 Aug 2026 | KINETIC TEC Session 1: Hard Techno | DALJAE, FUMI, Minehero, Soraere Brocken |
 
 ## Address
 
 1F, 535 Dosan-daero, Gangnam-gu, Seoul 06011, South Korea, Seoul
 
-*Updated Mon, 27 Jul 2026 · source: [soundcheck](https://soundcheck.club/seoul/club/lion-super-club/)*
+*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/seoul/club/lion-super-club/)*

@@ -1,6 +1,6 @@
 # Point Ephémère
 
-Point Ephémère is a music venue in Paris with 4 upcoming nights listed on soundcheck as of Mon, 27 Jul 2026; the next is "After Party La Mulette & Co (Paris L'Été)" on Fri, 31 Jul 2026.
+Point Ephémère is a music venue in Paris with 4 upcoming nights listed on soundcheck as of Tue, 28 Jul 2026; the next is "After Party La Mulette & Co (Paris L'Été)" on Fri, 31 Jul 2026.
 
 Point Ephémère is a music venue in Paris listed on soundcheck. 4 upcoming nights, with line-ups including Calling Marian and Louise Chen. Browse upcoming dates, start times and who's playing. 200 quai de Valmy; 75010; Paris; France.
 
@@ -17,4 +17,4 @@ Point Ephémère is a music venue in Paris listed on soundcheck. 4 upcoming nigh
 
 200 quai de Valmy; 75010; Paris; France, Paris
 
-*Updated Mon, 27 Jul 2026 · source: [soundcheck](https://soundcheck.club/paris/club/point-eph-m-re/)*
+*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/paris/club/point-eph-m-re/)*

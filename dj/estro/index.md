@@ -1,14 +1,15 @@
 # estro
 
-estro is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Mon, 27 Jul 2026, next at Green Room NYC, New York City on Sat, 1 Aug 2026.
+estro is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Tue, 28 Jul 2026, next at Green Room NYC, New York City on Sat, 1 Aug 2026.
 
-estro is a techno and house artist based in United States of America, tracked on soundcheck, with 58 sets logged across London and Newyorkcity. Often billed alongside SENAIDA, Junkfile and A lana. Next up: Green Room NYC, Newyorkcity on Sat 1 Aug.
+estro is a techno and house artist based in United States of America, tracked on soundcheck, with 59 sets logged across London and Newyorkcity. Often billed alongside SENAIDA, Junkfile and A lana. Next up: Green Room NYC, Newyorkcity on Sat 1 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 1 Aug 2026 | Green Room NYC | New York City |
+| Sun, 9 Aug 2026 | ErF Studios | New York City |
 | Mon, 10 Aug 2026 | Bossa Nova Civic Club | New York City |
 
 ## Recently played
@@ -26,4 +27,4 @@ estro is a techno and house artist based in United States of America, tracked on
 
 SENAIDA, Junkfile, A lana
 
-*Updated Mon, 27 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/estro/)*
+*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/estro/)*

@@ -1,8 +1,8 @@
 # Finn
 
-Finn is a House and Garage artist with 2 upcoming club dates listed on soundcheck as of Mon, 27 Jul 2026, next at The Carpet Shop, London on Sat, 8 Aug 2026.
+Finn is a House and Garage artist with 3 upcoming club dates listed on soundcheck as of Tue, 28 Jul 2026, next at The Carpet Shop, London on Sat, 8 Aug 2026.
 
-Finn is a house and garage artist based in United Kingdom, tracked on soundcheck, with 78 sets logged across Edinburgh, Glasgow, Hamburg and Liverpool and 3 more. Often billed alongside Tom Boogizm, BFTT and Chunky. Next up: The Carpet Shop, London on Sat 8 Aug.
+Finn is a house and garage artist based in United Kingdom, tracked on soundcheck, with 79 sets logged across Edinburgh, Glasgow, Hamburg and Liverpool and 3 more. Often billed alongside Tom Boogizm, BFTT and Chunky. Next up: The Carpet Shop, London on Sat 8 Aug.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Finn is a house and garage artist based in United Kingdom, tracked on soundcheck
 | --- | --- | --- |
 | Sat, 8 Aug 2026 | The Carpet Shop | London |
 | Sun, 30 Aug 2026 | Botanical Gin Garden | Liverpool |
+| Sun, 20 Sept 2026 | The White Hotel | Manchester |
 
 ## Recently played
 
@@ -26,4 +27,4 @@ Finn is a house and garage artist based in United Kingdom, tracked on soundcheck
 
 Tom Boogizm, BFTT, Chunky
 
-*Updated Mon, 27 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/finnmccorry/)*
+*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/finnmccorry/)*

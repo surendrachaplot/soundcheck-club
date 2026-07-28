@@ -1,14 +1,13 @@
 # Rossi
 
-Rossi is a House and Tech House artist with 15 upcoming club dates listed on soundcheck as of Mon, 27 Jul 2026, next at DC-10, Ibiza on Mon, 27 Jul 2026.
+Rossi is a House and Tech House artist with 14 upcoming club dates listed on soundcheck as of Tue, 28 Jul 2026, next at BCM, Mallorca on Tue, 28 Jul 2026.
 
-Rossi is a house and tech house artist tracked on soundcheck, with 226 sets logged across Amsterdam, Auckland, Austin and Barcelona and 48 more. Often billed alongside Josh Baker, Enzo Siragusa and Jamie Jones. Next up: DC-10, Ibiza on Mon 27 Jul.
+Rossi is a house and tech house artist tracked on soundcheck, with 226 sets logged across Amsterdam, Auckland, Austin and Barcelona and 48 more. Often billed alongside Josh Baker, Enzo Siragusa and Jamie Jones. Next up: BCM, Mallorca on Tue 28 Jul.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Mon, 27 Jul 2026 | DC-10 | Ibiza |
 | Tue, 28 Jul 2026 | BCM | Mallorca |
 | Sun, 9 Aug 2026 | 528 Ibiza | Ibiza |
 | Fri, 21 Aug 2026 | BK Backyard | New York City |
@@ -20,9 +19,11 @@ Rossi is a house and tech house artist tracked on soundcheck, with 226 sets logg
 | Fri, 18 Sept 2026 | UNO MALTA | Malta |
 | Sat, 19 Sept 2026 | TBA - Ives Rd, London E16 4Sh | London |
 | Sat, 26 Sept 2026 | Waterfront Park in San Diego | San Diego |
+| Sun, 4 Oct 2026 | TBA - Secret location announced only to ticket holders | Ibiza |
 
 ## Recently played
 
+- DC-10, Ibiza — Mon, 27 Jul 2026
 - Flevopark, Amsterdam — Sat, 25 Jul 2026
 - KOKO, London — Sat, 18 Jul 2026
 - DC-10, Ibiza — Mon, 29 Jun 2026
@@ -30,10 +31,9 @@ Rossi is a house and tech house artist tracked on soundcheck, with 226 sets logg
 - TBA - Paradise City Festival, Brussels — Fri, 26 Jun 2026
 - Heaton Park, Manchester — Sat, 20 Jun 2026
 - Parc del Fòrum, Barcelona — Fri, 19 Jun 2026
-- Bosc Tancat / Diverbosc, Barcelona — Thu, 18 Jun 2026
 
 ## Shares bills with
 
 Josh Baker, Enzo Siragusa, Jamie Jones
 
-*Updated Mon, 27 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/rossi/)*
+*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/rossi/)*

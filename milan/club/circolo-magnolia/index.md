@@ -1,6 +1,6 @@
 # Circolo Magnolia
 
-Circolo Magnolia is a music venue in Milan with 3 upcoming nights listed on soundcheck as of Mon, 27 Jul 2026; the next is "VOID - TECHNO LOVERS - SUMMER EDITION" on Fri, 31 Jul 2026.
+Circolo Magnolia is a music venue in Milan with 3 upcoming nights listed on soundcheck as of Tue, 28 Jul 2026; the next is "VOID - TECHNO LOVERS - SUMMER EDITION" on Fri, 31 Jul 2026.
 
 Circolo Magnolia is a music venue in Milan listed on soundcheck. 3 upcoming nights, with line-ups including Andrea Isella, Ely Oaks, Norabee and Richey V and 2 more. Browse upcoming dates, start times and who's playing. Via Circonvallazione Idroscalo, 20090 Segrate (MI), Italy.
 
@@ -16,4 +16,4 @@ Circolo Magnolia is a music venue in Milan listed on soundcheck. 3 upcoming nigh
 
 Via Circonvallazione Idroscalo, 20090 Segrate (MI), Italy, Milan
 
-*Updated Mon, 27 Jul 2026 · source: [soundcheck](https://soundcheck.club/milan/club/circolo-magnolia/)*
+*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/milan/club/circolo-magnolia/)*

@@ -1,6 +1,6 @@
 # Ivy
 
-Ivy is a Club and Electronica artist with 3 upcoming club dates listed on soundcheck as of Mon, 27 Jul 2026, next at Forestlimit, Tokyo on Wed, 29 Jul 2026.
+Ivy is a Club and Electronica artist with 3 upcoming club dates listed on soundcheck as of Tue, 28 Jul 2026, next at Forestlimit, Tokyo on Wed, 29 Jul 2026.
 
 Ivy is a club and electronica artist based in United States of America, tracked on soundcheck, with 25 sets logged across Amsterdam, Barcelona, Bristol and Detroit and 8 more. Often billed alongside Freda, KAMIKAZE and Mefjus. Next up: Forestlimit, Tokyo on Wed 29 Jul.
 
@@ -27,4 +27,4 @@ Ivy is a club and electronica artist based in United States of America, tracked 
 
 Freda, KAMIKAZE, Mefjus
 
-*Updated Mon, 27 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/ivy/)*
+*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/ivy/)*

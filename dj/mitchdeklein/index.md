@@ -1,6 +1,6 @@
 # Mitch de Klein
 
-Mitch de Klein is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Mon, 27 Jul 2026, next at Yellow House, Amsterdam on Thu, 30 Jul 2026.
+Mitch de Klein is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Tue, 28 Jul 2026, next at Yellow House, Amsterdam on Thu, 30 Jul 2026.
 
 Mitch de Klein is a techno and house artist based in Netherlands, tracked on soundcheck, with 33 sets logged across Amsterdam, Istanbul, Rotterdam and Utrecht. Often billed alongside Hollt, Deeparture and Olivier Weiter. Next up: Yellow House, Amsterdam on Thu 30 Jul.
 
@@ -27,4 +27,4 @@ Mitch de Klein is a techno and house artist based in Netherlands, tracked on sou
 
 Hollt, Deeparture, Olivier Weiter
 
-*Updated Mon, 27 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/mitchdeklein/)*
+*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/mitchdeklein/)*

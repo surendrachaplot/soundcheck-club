@@ -1,6 +1,6 @@
 # Chris Liebing
 
-Chris Liebing is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Mon, 27 Jul 2026, next at Phantom Bar Berlin, Berlin on Thu, 30 Jul 2026.
+Chris Liebing is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Tue, 28 Jul 2026, next at Phantom Bar Berlin, Berlin on Thu, 30 Jul 2026.
 
 Chris Liebing is a techno and house artist tracked on soundcheck, with 175 sets logged across Amsterdam, Antwerp, Athens and Austin and 53 more. Often billed alongside Speedy J, Daria Kolosova and Ben Klock. Next up: Phantom Bar Berlin, Berlin on Thu 30 Jul.
 
@@ -27,4 +27,4 @@ Chris Liebing is a techno and house artist tracked on soundcheck, with 175 sets 
 
 Speedy J, Daria Kolosova, Ben Klock
 
-*Updated Mon, 27 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/chrisliebing/)*
+*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/chrisliebing/)*

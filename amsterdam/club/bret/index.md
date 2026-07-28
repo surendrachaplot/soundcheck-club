@@ -1,6 +1,6 @@
 # BRET
 
-BRET is a music venue in Amsterdam with 17 upcoming nights listed on soundcheck as of Mon, 27 Jul 2026; the next is "HOMOMONUMENT X BRET AFTERHOURS (18+)" on Fri, 31 Jul 2026.
+BRET is a music venue in Amsterdam with 17 upcoming nights listed on soundcheck as of Tue, 28 Jul 2026; the next is "HOMOMONUMENT X BRET AFTERHOURS (18+)" on Fri, 31 Jul 2026.
 
 BRET is a music venue in Amsterdam listed on soundcheck. 17 upcoming nights, with line-ups including Tadeusz, Aldonna, Alma Negrot and Andy Luff and 2 more. Browse upcoming dates, start times and who's playing. Orlyplein 76, 1043 DP Amsterdam, Netherlands.
 
@@ -23,4 +23,4 @@ BRET is a music venue in Amsterdam listed on soundcheck. 17 upcoming nights, wit
 
 Orlyplein 76, 1043 DP Amsterdam, Netherlands, Amsterdam
 
-*Updated Mon, 27 Jul 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/bret/)*
+*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/bret/)*

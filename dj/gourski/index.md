@@ -1,13 +1,14 @@
 # Gourski
 
-Gourski is a Drum & Bass and Techno artist with 4 upcoming club dates listed on soundcheck as of Mon, 27 Jul 2026, next at Bootshaus, Cologne on Sat, 1 Aug 2026.
+Gourski is a Drum & Bass and Techno artist with 5 upcoming club dates listed on soundcheck as of Tue, 28 Jul 2026, next at Let it Roll Festival @Lake Most, Prague on Fri, 31 Jul 2026.
 
-Gourski is a drum & bass and techno artist tracked on soundcheck, with 116 sets logged across Berlin, Cologne, Leipzig and Zurich. Often billed alongside Enaly, Jaycut and DELTA LABS. Next up: Bootshaus, Cologne on Sat 1 Aug.
+Gourski is a drum & bass and techno artist tracked on soundcheck, with 117 sets logged across Berlin, Cologne, Leipzig and Prague and 1 more. Often billed alongside Enaly, Jaycut and DELTA LABS. Next up: Let it Roll Festival @Lake Most, Prague on Fri 31 Jul.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 31 Jul 2026 | Let it Roll Festival @Lake Most | Prague |
 | Sat, 1 Aug 2026 | Bootshaus | Cologne |
 | Fri, 7 Aug 2026 | Odonien | Cologne |
 | Sat, 15 Aug 2026 | Odonien | Cologne |
@@ -28,4 +29,4 @@ Gourski is a drum & bass and techno artist tracked on soundcheck, with 116 sets 
 
 Enaly, Jaycut, DELTA LABS
 
-*Updated Mon, 27 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/gourski/)*
+*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/gourski/)*

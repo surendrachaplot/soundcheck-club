@@ -1,8 +1,8 @@
 # Moodymann
 
-Moodymann is a House and Techno artist with 5 upcoming club dates listed on soundcheck as of Mon, 27 Jul 2026, next at Amnesia Ibiza, Ibiza on Fri, 7 Aug 2026.
+Moodymann is a House and Techno artist with 7 upcoming club dates listed on soundcheck as of Tue, 28 Jul 2026, next at Amnesia Ibiza, Ibiza on Fri, 7 Aug 2026.
 
-Moodymann is a house and techno artist tracked on soundcheck, with 149 sets logged across Amsterdam, Antwerp, Athens and Bali and 35 more. Often billed alongside Carl Craig, DJ Holographic and Flo Real. Next up: Amnesia Ibiza, Ibiza on Fri 7 Aug.
+Moodymann is a house and techno artist tracked on soundcheck, with 151 sets logged across Amsterdam, Antwerp, Athens and Bali and 35 more. Often billed alongside Carl Craig, DJ Holographic and Flo Real. Next up: Amnesia Ibiza, Ibiza on Fri 7 Aug.
 
 ## Upcoming shows
 
@@ -10,8 +10,10 @@ Moodymann is a house and techno artist tracked on soundcheck, with 149 sets logg
 | --- | --- | --- |
 | Fri, 7 Aug 2026 | Amnesia Ibiza | Ibiza |
 | Sun, 9 Aug 2026 | ZIK Zeit IST Knapp (Walter-Schreiber-Platz 1) | Berlin |
+| Fri, 21 Aug 2026 | Potato Head Beach Club | Bali |
 | Fri, 4 Sept 2026 | Union Park | Chicago |
 | Sat, 12 Sept 2026 | Auditorium Parco della Musica | Rome |
+| Sun, 20 Sept 2026 | Umoya | Naples |
 | Sat, 3 Oct 2026 | Plaza Monumental de Barcelona | Barcelona |
 
 ## Recently played
@@ -29,4 +31,4 @@ Moodymann is a house and techno artist tracked on soundcheck, with 149 sets logg
 
 Carl Craig, DJ Holographic, Flo Real
 
-*Updated Mon, 27 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/moodymann/)*
+*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/moodymann/)*

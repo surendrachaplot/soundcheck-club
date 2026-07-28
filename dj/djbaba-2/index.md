@@ -1,13 +1,14 @@
 # Dj Babatr
 
-Dj Babatr is a Techno and House artist with 4 upcoming club dates listed on soundcheck as of Mon, 27 Jul 2026, next at Berghain | Panorama Bar | Säule, Berlin on Fri, 31 Jul 2026.
+Dj Babatr is a Techno and House artist with 5 upcoming club dates listed on soundcheck as of Tue, 28 Jul 2026, next at BarKa, Warsaw on Thu, 30 Jul 2026.
 
-Dj Babatr is a techno and house artist tracked on soundcheck, with 96 sets logged across Amsterdam, Barcelona, Berlin and Brussels and 19 more. Often billed alongside Ruiseñor, Dj Deep RH and Blawan. Next up: Berghain | Panorama Bar | Säule, Berlin on Fri 31 Jul.
+Dj Babatr is a techno and house artist tracked on soundcheck, with 97 sets logged across Amsterdam, Barcelona, Berlin and Brussels and 20 more. Often billed alongside Ruiseñor, Dj Deep RH and Blawan. Next up: BarKa, Warsaw on Thu 30 Jul.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Thu, 30 Jul 2026 | BarKa | Warsaw |
 | Fri, 31 Jul 2026 | Berghain / Panorama Bar / Säule | Berlin |
 | Fri, 21 Aug 2026 | PRST | Vienna |
 | Sun, 23 Aug 2026 | Else | Berlin |
@@ -28,4 +29,4 @@ Dj Babatr is a techno and house artist tracked on soundcheck, with 96 sets logge
 
 Ruiseñor, Dj Deep RH, Blawan
 
-*Updated Mon, 27 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/djbaba-2/)*
+*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/djbaba-2/)*

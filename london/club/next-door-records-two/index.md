@@ -1,6 +1,6 @@
 # Next Door Records Two
 
-Next Door Records Two is a music venue in London with 6 upcoming nights listed on soundcheck as of Mon, 27 Jul 2026; the next is "JoeJas' Left Handed Bandit Tour" on Thu, 30 Jul 2026.
+Next Door Records Two is a music venue in London with 6 upcoming nights listed on soundcheck as of Tue, 28 Jul 2026; the next is "JoeJas' Left Handed Bandit Tour" on Thu, 30 Jul 2026.
 
 Next Door Records Two is a music venue in London listed on soundcheck. 6 upcoming nights, with line-ups including anti.Net, Debba, Drum & Lace and Giulia Tess and 2 more. Browse upcoming dates, start times and who's playing. 182 Stoke Newington Rd, London N16 7UY.
 
@@ -19,4 +19,4 @@ Next Door Records Two is a music venue in London listed on soundcheck. 6 upcomin
 
 182 Stoke Newington Rd, London N16 7UY, London
 
-*Updated Mon, 27 Jul 2026 · source: [soundcheck](https://soundcheck.club/london/club/next-door-records-two/)*
+*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/london/club/next-door-records-two/)*

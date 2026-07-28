@@ -1,6 +1,6 @@
 # Fiona Zanetti
 
-Fiona Zanetti is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Mon, 27 Jul 2026, next at fabric, London on Sat, 1 Aug 2026.
+Fiona Zanetti is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Tue, 28 Jul 2026, next at fabric, London on Sat, 1 Aug 2026.
 
 Fiona Zanetti is a house and techno artist based in Switzerland, tracked on soundcheck, with 59 sets logged across Amsterdam, Barcelona, Berlin and Brussels and 15 more. Often billed alongside Simone de Kunovich, Gerd Janson and Helena Lauwaert. Next up: fabric, London on Sat 1 Aug.
 
@@ -26,4 +26,4 @@ Fiona Zanetti is a house and techno artist based in Switzerland, tracked on soun
 
 Simone de Kunovich, Gerd Janson, Helena Lauwaert
 
-*Updated Mon, 27 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/fionazanetti/)*
+*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/fionazanetti/)*

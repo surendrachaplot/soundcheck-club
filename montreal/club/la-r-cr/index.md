@@ -1,6 +1,6 @@
 # La Récré
 
-La Récré is a music venue in Montreal with 2 upcoming nights listed on soundcheck as of Mon, 27 Jul 2026; the next is "Montreal UK Garage Takeover" on Fri, 7 Aug 2026.
+La Récré is a music venue in Montreal with 2 upcoming nights listed on soundcheck as of Tue, 28 Jul 2026; the next is "Montreal UK Garage Takeover" on Fri, 7 Aug 2026.
 
 La Récré is a music venue in Montreal listed on soundcheck. 2 upcoming nights, with line-ups including IIITHRIII, Marie Davidson, Venus in Foil and WTCHCRFT. Browse upcoming dates, start times and who's playing. 5860 Av. De Lorimier, Montréal, QC H2G 2N9.
 
@@ -15,4 +15,4 @@ La Récré is a music venue in Montreal listed on soundcheck. 2 upcoming nights,
 
 5860 Av. De Lorimier, Montréal, QC H2G 2N9, Montreal
 
-*Updated Mon, 27 Jul 2026 · source: [soundcheck](https://soundcheck.club/montreal/club/la-r-cr/)*
+*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/montreal/club/la-r-cr/)*

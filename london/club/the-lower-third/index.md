@@ -1,6 +1,6 @@
 # The Lower Third
 
-The Lower Third is a music venue in London with 6 upcoming nights listed on soundcheck as of Mon, 27 Jul 2026; the next is "THREESTIXY - A FULL CIRCLE OF HOUSE & GARAGE" on Sat, 15 Aug 2026.
+The Lower Third is a music venue in London with 6 upcoming nights listed on soundcheck as of Tue, 28 Jul 2026; the next is "THREESTIXY - A FULL CIRCLE OF HOUSE & GARAGE" on Sat, 15 Aug 2026.
 
 The Lower Third is a music venue in London listed on soundcheck. 6 upcoming nights, with line-ups including bees & honey, Bronka, CHELO and MC CKP and 2 more. Browse upcoming dates, start times and who's playing. 26 Denmark St, London, WC2H 8NJ.
 
@@ -19,4 +19,4 @@ The Lower Third is a music venue in London listed on soundcheck. 6 upcoming nigh
 
 26 Denmark St, London, WC2H 8NJ, London
 
-*Updated Mon, 27 Jul 2026 · source: [soundcheck](https://soundcheck.club/london/club/the-lower-third/)*
+*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/london/club/the-lower-third/)*

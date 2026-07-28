@@ -1,6 +1,6 @@
 # The Warehouse
 
-The Warehouse is a music venue in Leeds with 5 upcoming nights listed on soundcheck as of Mon, 27 Jul 2026; the next is "Continental GT Steppers Leeds" on Sat, 8 Aug 2026.
+The Warehouse is a music venue in Leeds with 5 upcoming nights listed on soundcheck as of Tue, 28 Jul 2026; the next is "Continental GT Steppers Leeds" on Sat, 8 Aug 2026.
 
 The Warehouse is a music venue in Leeds listed on soundcheck. 5 upcoming nights, with line-ups including Big Ang, Champion, Clouds and Continental GT and 2 more. Browse upcoming dates, start times and who's playing. 19-21 Somers Street; Leeds; LS1 2RG; United Kingdom.
 
@@ -18,4 +18,4 @@ The Warehouse is a music venue in Leeds listed on soundcheck. 5 upcoming nights,
 
 19-21 Somers Street; Leeds; LS1 2RG; United Kingdom, Leeds
 
-*Updated Mon, 27 Jul 2026 · source: [soundcheck](https://soundcheck.club/leeds/club/the-warehouse/)*
+*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/leeds/club/the-warehouse/)*

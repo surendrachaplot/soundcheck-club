@@ -1,6 +1,6 @@
 # Beaver Works
 
-Beaver Works is a music venue in Leeds with 4 upcoming nights listed on soundcheck as of Mon, 27 Jul 2026; the next is "Northern Summer Sizzler" on Sat, 1 Aug 2026.
+Beaver Works is a music venue in Leeds with 4 upcoming nights listed on soundcheck as of Tue, 28 Jul 2026; the next is "Northern Summer Sizzler" on Sat, 1 Aug 2026.
 
 Beaver Works is a music venue in Leeds listed on soundcheck. 4 upcoming nights, with line-ups including Breakforce One, General Bounce, goreshit and Iration Steppas and 2 more. Browse upcoming dates, start times and who's playing. 36 Whitehouse Street; Leeds; LS10 1AD; United Kingdom.
 
@@ -17,4 +17,4 @@ Beaver Works is a music venue in Leeds listed on soundcheck. 4 upcoming nights, 
 
 36 Whitehouse Street; Leeds; LS10 1AD; United Kingdom, Leeds
 
-*Updated Mon, 27 Jul 2026 · source: [soundcheck](https://soundcheck.club/leeds/club/beaver-works/)*
+*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/leeds/club/beaver-works/)*

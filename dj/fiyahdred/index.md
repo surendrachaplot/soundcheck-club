@@ -1,6 +1,6 @@
 # Fiyahdred
 
-Fiyahdred is a Amapiano and House artist with 3 upcoming club dates listed on soundcheck as of Mon, 27 Jul 2026, next at Last Arch, London on Fri, 21 Aug 2026.
+Fiyahdred is a Amapiano and House artist with 3 upcoming club dates listed on soundcheck as of Tue, 28 Jul 2026, next at Last Arch, London on Fri, 21 Aug 2026.
 
 Fiyahdred is an amapiano and house artist based in United Kingdom, tracked on soundcheck, with 52 sets logged across Berlin, Bristol, Brussels and Copenhagen and 7 more. Often billed alongside Karen Nyame KG, Donnie Sunshine and Bok Bok. Next up: Last Arch, London on Fri 21 Aug.
 
@@ -27,4 +27,4 @@ Fiyahdred is an amapiano and house artist based in United Kingdom, tracked on so
 
 Karen Nyame KG, Donnie Sunshine, Bok Bok
 
-*Updated Mon, 27 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/fiyahdred/)*
+*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/fiyahdred/)*

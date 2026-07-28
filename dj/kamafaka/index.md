@@ -1,8 +1,8 @@
 # Kamafaka
 
-Kamafaka is a Techno and Trance artist with 2 upcoming club dates listed on soundcheck as of Mon, 27 Jul 2026, next at Kassa Boat, Budapest on Thu, 30 Jul 2026.
+Kamafaka is a Techno and Trance artist with 3 upcoming club dates listed on soundcheck as of Tue, 28 Jul 2026, next at Kassa Boat, Budapest on Thu, 30 Jul 2026.
 
-Kamafaka is a techno and trance artist tracked on soundcheck, with 80 sets logged across Amsterdam, Belgrade, Berlin and Budapest and 5 more. Often billed alongside Technokool, Akác and CRIME. Next up: Kassa Boat, Budapest on Thu 30 Jul.
+Kamafaka is a techno and trance artist tracked on soundcheck, with 81 sets logged across Amsterdam, Belgrade, Berlin and Budapest and 5 more. Often billed alongside Technokool, Akác and CRIME. Next up: Kassa Boat, Budapest on Thu 30 Jul.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Kamafaka is a techno and trance artist tracked on soundcheck, with 80 sets logge
 | --- | --- | --- |
 | Thu, 30 Jul 2026 | Kassa Boat | Budapest |
 | Sat, 1 Aug 2026 | Budapest Park | Budapest |
+| Fri, 14 Aug 2026 | Turbina | Budapest |
 
 ## Recently played
 
@@ -26,4 +27,4 @@ Kamafaka is a techno and trance artist tracked on soundcheck, with 80 sets logge
 
 Technokool, Akác, CRIME
 
-*Updated Mon, 27 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/kamafaka/)*
+*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/kamafaka/)*

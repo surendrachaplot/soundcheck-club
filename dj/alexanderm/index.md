@@ -1,14 +1,15 @@
 # ALEXANDER M
 
-ALEXANDER M is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Mon, 27 Jul 2026, next at DJ Bar Bridge, Tokyo on Thu, 6 Aug 2026.
+ALEXANDER M is a Techno and House artist with 4 upcoming club dates listed on soundcheck as of Tue, 28 Jul 2026, next at DJ Bar Bridge, Tokyo on Thu, 6 Aug 2026.
 
-ALEXANDER M is a techno and house artist tracked on soundcheck, with 128 sets logged across Barcelona, Ibiza, London and Manchester and 6 more. Often billed alongside Louis Shannon, EIGHT and GReY (1). Next up: DJ Bar Bridge, Tokyo on Thu 6 Aug.
+ALEXANDER M is a techno and house artist tracked on soundcheck, with 129 sets logged across Barcelona, Ibiza, London and Manchester and 6 more. Often billed alongside Louis Shannon, EIGHT and GReY (1). Next up: DJ Bar Bridge, Tokyo on Thu 6 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Thu, 6 Aug 2026 | DJ Bar Bridge | Tokyo |
+| Sat, 22 Aug 2026 | ZEROTOKYO | Tokyo |
 | Tue, 1 Sept 2026 | Amnesia Ibiza | Ibiza |
 | Sun, 27 Sept 2026 | 528 Ibiza | Ibiza |
 
@@ -27,4 +28,4 @@ ALEXANDER M is a techno and house artist tracked on soundcheck, with 128 sets lo
 
 Louis Shannon, EIGHT, GReY (1)
 
-*Updated Mon, 27 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/alexanderm/)*
+*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/alexanderm/)*

@@ -1,6 +1,6 @@
 # POSER at Green Room NYC
 
-POSER at Green Room NYC on Sat 1 Aug, Newyorkcity. 6 acts on the bill: Arvin T, cry$cross, estro and Griffin Maxwell Brooks and 2 more. Techno and House. Preview the line-up and save it on soundcheck.
+POSER at Green Room NYC on Sat 1 Aug, Newyorkcity. 7 acts on the bill: Arvin T, cry$cross, estro and Griffin Maxwell Brooks and 3 more. Techno and House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -14,6 +14,7 @@ POSER at Green Room NYC on Sat 1 Aug, Newyorkcity. 6 acts on the bill: Arvin T, 
 - cry$cross
 - estro
 - Griffin Maxwell Brooks
+- Physical Therapy
 - Saia
 - sim0ne
 

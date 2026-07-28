@@ -1,8 +1,8 @@
 # Bushbaby
 
-Bushbaby is a Garage and Bass artist with 7 upcoming club dates listed on soundcheck as of Mon, 27 Jul 2026, next at Substation, Seattle on Fri, 31 Jul 2026.
+Bushbaby is a Garage and Bass artist with 8 upcoming club dates listed on soundcheck as of Tue, 28 Jul 2026, next at Substation, Seattle on Fri, 31 Jul 2026.
 
-Bushbaby is a garage and bass artist tracked on soundcheck, with 84 sets logged across Aberdeen, Amsterdam, Auckland and Barcelona and 28 more. Often billed alongside MPH (1), Chris Stussy and Jackum. Next up: Substation, Seattle on Fri 31 Jul.
+Bushbaby is a garage and bass artist tracked on soundcheck, with 85 sets logged across Aberdeen, Amsterdam, Auckland and Barcelona and 29 more. Often billed alongside MPH (1), Chris Stussy and Jackum. Next up: Substation, Seattle on Fri 31 Jul.
 
 ## Upcoming shows
 
@@ -12,6 +12,7 @@ Bushbaby is a garage and bass artist tracked on soundcheck, with 84 sets logged 
 | Sat, 1 Aug 2026 | TBA - Hollywood Park adjacent to SoFi Stadium | Los Angeles |
 | Mon, 24 Aug 2026 | DC-10 | Ibiza |
 | Fri, 4 Sept 2026 | Union Park | Chicago |
+| Fri, 4 Sept 2026 | Newspeak | Montreal |
 | Sat, 3 Oct 2026 | Village Underground | London |
 | Thu, 8 Oct 2026 | The Loft | Manchester |
 | Sat, 17 Oct 2026 | Digital | Newcastle |
@@ -31,4 +32,4 @@ Bushbaby is a garage and bass artist tracked on soundcheck, with 84 sets logged 
 
 MPH (1), Chris Stussy, Jackum
 
-*Updated Mon, 27 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/bushbaby/)*
+*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/bushbaby/)*

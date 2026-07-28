@@ -1,6 +1,6 @@
 # Connect
 
-Connect is a Electronica and Progressive House artist with 5 upcoming club dates listed on soundcheck as of Mon, 27 Jul 2026, next at block., Dublin on Fri, 31 Jul 2026.
+Connect is a Electronica and Progressive House artist with 5 upcoming club dates listed on soundcheck as of Tue, 28 Jul 2026, next at block., Dublin on Fri, 31 Jul 2026.
 
 Connect is an electronica and progressive house artist based in Brazil, tracked on soundcheck, with 25 sets logged across Barcelona, Berlin, Cork and Dublin and 2 more. Often billed alongside Romanetto, Phil Bass and Leo Cardi. Next up: block., Dublin on Fri 31 Jul.
 
@@ -29,4 +29,4 @@ Connect is an electronica and progressive house artist based in Brazil, tracked 
 
 Romanetto, Phil Bass, Leo Cardi
 
-*Updated Mon, 27 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/connect/)*
+*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/connect/)*

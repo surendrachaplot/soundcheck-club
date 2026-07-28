@@ -1,6 +1,6 @@
 # The Big Romance
 
-The Big Romance is a music venue in Dublin with 4 upcoming nights listed on soundcheck as of Mon, 27 Jul 2026; the next is "Brian Gallagher" on Thu, 30 Jul 2026.
+The Big Romance is a music venue in Dublin with 4 upcoming nights listed on soundcheck as of Tue, 28 Jul 2026; the next is "Brian Gallagher" on Thu, 30 Jul 2026.
 
 The Big Romance is a music venue in Dublin listed on soundcheck. 4 upcoming nights. Browse upcoming dates, start times and who's playing. 98 Parnell St, Rotunda, Dublin, D01 T2T3, Ireland.
 
@@ -17,4 +17,4 @@ The Big Romance is a music venue in Dublin listed on soundcheck. 4 upcoming nigh
 
 98 Parnell St, Rotunda, Dublin, D01 T2T3, Ireland, Dublin
 
-*Updated Mon, 27 Jul 2026 · source: [soundcheck](https://soundcheck.club/dublin/club/the-big-romance/)*
+*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dublin/club/the-big-romance/)*

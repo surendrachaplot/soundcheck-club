@@ -1,6 +1,6 @@
 # Mandel Turner
 
-Mandel Turner is a House and Funk / Soul artist with 2 upcoming club dates listed on soundcheck as of Mon, 27 Jul 2026, next at Bar Neun, Berlin on Sat, 8 Aug 2026.
+Mandel Turner is a House and Funk / Soul artist with 2 upcoming club dates listed on soundcheck as of Tue, 28 Jul 2026, next at Bar Neun, Berlin on Sat, 8 Aug 2026.
 
 Mandel Turner is a house and funk / soul artist based in Germany, tracked on soundcheck, with 28 sets logged across Berlin. Often billed alongside Balthazar Martinez, Mat Fink and Mini Nik. Next up: Bar Neun, Berlin on Sat 8 Aug.
 
@@ -26,4 +26,4 @@ Mandel Turner is a house and funk / soul artist based in Germany, tracked on sou
 
 Balthazar Martinez, Mat Fink, Mini Nik
 
-*Updated Mon, 27 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/mandelturner/)*
+*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/mandelturner/)*

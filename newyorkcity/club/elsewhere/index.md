@@ -1,8 +1,8 @@
 # Elsewhere
 
-Elsewhere is a music venue in New York City with 45 upcoming nights listed on soundcheck as of Mon, 27 Jul 2026; the next is "Bad Tuner, gabby cocco" on Fri, 31 Jul 2026.
+Elsewhere is a music venue in New York City with 47 upcoming nights listed on soundcheck as of Tue, 28 Jul 2026; the next is "Bad Tuner, gabby cocco" on Fri, 31 Jul 2026.
 
-Elsewhere is a music venue in Newyorkcity listed on soundcheck. 45 upcoming nights, with line-ups including 444 (1), Aku, Amy Jor and ANDI WALL and 2 more. Browse upcoming dates, start times and who's playing. 599 Johnson Ave, Brooklyn, NY 11237 USA.
+Elsewhere is a music venue in Newyorkcity listed on soundcheck. 47 upcoming nights, with line-ups including 444 (1), Aku, Amy Jor and ANDI WALL and 2 more. Browse upcoming dates, start times and who's playing. 599 Johnson Ave, Brooklyn, NY 11237 USA.
 
 ## What's on
 
@@ -23,4 +23,4 @@ Elsewhere is a music venue in Newyorkcity listed on soundcheck. 45 upcoming nigh
 
 599 Johnson Ave, Brooklyn, NY 11237 USA, New York City
 
-*Updated Mon, 27 Jul 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/elsewhere/)*
+*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/elsewhere/)*

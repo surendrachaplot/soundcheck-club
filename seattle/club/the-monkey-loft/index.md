@@ -1,6 +1,6 @@
 # The Monkey Loft
 
-The Monkey Loft is a music venue in Seattle with 8 upcoming nights listed on soundcheck as of Mon, 27 Jul 2026; the next is "Habitat with Jon Lee & Black Velveteen" on Wed, 29 Jul 2026.
+The Monkey Loft is a music venue in Seattle with 8 upcoming nights listed on soundcheck as of Tue, 28 Jul 2026; the next is "Habitat with Jon Lee & Black Velveteen" on Wed, 29 Jul 2026.
 
 The Monkey Loft is a music venue in Seattle listed on soundcheck. 8 upcoming nights, with line-ups including Black Velveteen, Cami Jones, Dane Garfield and DJ Garth and 2 more. Browse upcoming dates, start times and who's playing. 2917 1st Ave So. Seattle WA 98134.
 
@@ -21,4 +21,4 @@ The Monkey Loft is a music venue in Seattle listed on soundcheck. 8 upcoming nig
 
 2917 1st Ave So. Seattle WA 98134, Seattle
 
-*Updated Mon, 27 Jul 2026 · source: [soundcheck](https://soundcheck.club/seattle/club/the-monkey-loft/)*
+*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/seattle/club/the-monkey-loft/)*

@@ -1,8 +1,8 @@
 # Recondite
 
-Recondite is a Techno and House artist with 4 upcoming club dates listed on soundcheck as of Mon, 27 Jul 2026, next at ://about blank, Berlin on Thu, 30 Jul 2026.
+Recondite is a Techno and House artist with 5 upcoming club dates listed on soundcheck as of Tue, 28 Jul 2026, next at ://about blank, Berlin on Thu, 30 Jul 2026.
 
-Recondite is a techno and house artist tracked on soundcheck, with 102 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 36 more. Often billed alongside Tale Of Us, Anyma and Dyzen. Next up: ://about blank, Berlin on Thu 30 Jul.
+Recondite is a techno and house artist tracked on soundcheck, with 103 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 36 more. Often billed alongside Tale Of Us, Anyma and Dyzen. Next up: ://about blank, Berlin on Thu 30 Jul.
 
 ## Upcoming shows
 
@@ -12,6 +12,7 @@ Recondite is a techno and house artist tracked on soundcheck, with 102 sets logg
 | Fri, 14 Aug 2026 | Phonox | London |
 | Tue, 25 Aug 2026 | [UNVRS] | Ibiza |
 | Sat, 5 Sept 2026 | Fridas Pier | Stuttgart |
+| Sat, 26 Sept 2026 | Ciudad Del Rock | Madrid |
 
 ## Recently played
 
@@ -28,4 +29,4 @@ Recondite is a techno and house artist tracked on soundcheck, with 102 sets logg
 
 Tale Of Us, Anyma, Dyzen
 
-*Updated Mon, 27 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/recondite/)*
+*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/recondite/)*

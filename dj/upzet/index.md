@@ -1,6 +1,6 @@
 # Upzet
 
-Upzet is a Drum & Bass and Techno artist with 4 upcoming club dates listed on soundcheck as of Mon, 27 Jul 2026, next at Void Club, Berlin on Sat, 1 Aug 2026.
+Upzet is a Drum & Bass and Techno artist with 4 upcoming club dates listed on soundcheck as of Tue, 28 Jul 2026, next at Void Club, Berlin on Sat, 1 Aug 2026.
 
 Upzet is a drum & bass and techno artist tracked on soundcheck, with 268 sets logged across Berlin. Often billed alongside Anton Quasi, Aynaet and Honschu Lee. Next up: Void Club, Berlin on Sat 1 Aug.
 
@@ -28,4 +28,4 @@ Upzet is a drum & bass and techno artist tracked on soundcheck, with 268 sets lo
 
 Anton Quasi, Aynaet, Honschu Lee
 
-*Updated Mon, 27 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/upzet/)*
+*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/upzet/)*

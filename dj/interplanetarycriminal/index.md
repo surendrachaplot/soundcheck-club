@@ -1,6 +1,6 @@
 # Interplanetary Criminal
 
-Interplanetary Criminal is a Garage and House artist with 9 upcoming club dates listed on soundcheck as of Mon, 27 Jul 2026, next at Knockdown Center, New York City on Fri, 31 Jul 2026.
+Interplanetary Criminal is a Garage and House artist with 9 upcoming club dates listed on soundcheck as of Tue, 28 Jul 2026, next at Knockdown Center, New York City on Fri, 31 Jul 2026.
 
 Interplanetary Criminal is a garage and house artist tracked on soundcheck, with 247 sets logged across Aberdeen, Amsterdam, Antwerp and Austin and 68 more. Often billed alongside Main Phase, MALUGI and DJ Heartstring. Next up: Knockdown Center, Newyorkcity on Fri 31 Jul.
 
@@ -33,4 +33,4 @@ Interplanetary Criminal is a garage and house artist tracked on soundcheck, with
 
 Main Phase, MALUGI, DJ Heartstring
 
-*Updated Mon, 27 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/interplanetarycriminal/)*
+*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/interplanetarycriminal/)*

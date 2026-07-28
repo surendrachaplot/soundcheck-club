@@ -1,6 +1,6 @@
 # Drea
 
-Drea is a Hip-Hop and Deep House artist with 2 upcoming club dates listed on soundcheck as of Mon, 27 Jul 2026, next at Razzmatazz, Barcelona on Sat, 1 Aug 2026.
+Drea is a Hip-Hop and Deep House artist with 2 upcoming club dates listed on soundcheck as of Tue, 28 Jul 2026, next at Razzmatazz, Barcelona on Sat, 1 Aug 2026.
 
 Drea is a hip-hop and deep house artist based in Switzerland, tracked on soundcheck, with 29 sets logged across Amsterdam, Barcelona, Geneva and London and 2 more. Often billed alongside Dirti Larita, CRKS290 and Umami. Next up: Razzmatazz, Barcelona on Sat 1 Aug.
 
@@ -26,4 +26,4 @@ Drea is a hip-hop and deep house artist based in Switzerland, tracked on soundch
 
 Dirti Larita, CRKS290, Umami
 
-*Updated Mon, 27 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/drea/)*
+*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/drea/)*

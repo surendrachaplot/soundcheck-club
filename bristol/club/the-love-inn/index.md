@@ -1,6 +1,6 @@
 # The Love Inn
 
-The Love Inn is a music venue in Bristol with 6 upcoming nights listed on soundcheck as of Mon, 27 Jul 2026; the next is "Public Affair: Mr. Ho & Monika Taneska" on Fri, 31 Jul 2026.
+The Love Inn is a music venue in Bristol with 6 upcoming nights listed on soundcheck as of Tue, 28 Jul 2026; the next is "Public Affair: Mr. Ho & Monika Taneska" on Fri, 31 Jul 2026.
 
 The Love Inn is a music venue in Bristol listed on soundcheck. 6 upcoming nights, with line-ups including Black Rave Culture, Charlie Dark, CHIDA and Monika Taneska and 2 more. Browse upcoming dates, start times and who's playing. 84 Stokes Croft, Stokes Croft, Bristol, BS1 3QY, United Kingdom.
 
@@ -19,4 +19,4 @@ The Love Inn is a music venue in Bristol listed on soundcheck. 6 upcoming nights
 
 84 Stokes Croft, Stokes Croft, Bristol, BS1 3QY, United Kingdom, Bristol
 
-*Updated Mon, 27 Jul 2026 · source: [soundcheck](https://soundcheck.club/bristol/club/the-love-inn/)*
+*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/bristol/club/the-love-inn/)*

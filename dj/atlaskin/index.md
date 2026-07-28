@@ -1,6 +1,6 @@
 # Atlaskin
 
-Atlaskin is a Techno and Tech House artist with 3 upcoming club dates listed on soundcheck as of Mon, 27 Jul 2026, next at Altenburg 1964, Prague on Thu, 6 Aug 2026.
+Atlaskin is a Techno and Tech House artist with 3 upcoming club dates listed on soundcheck as of Tue, 28 Jul 2026, next at Altenburg 1964, Prague on Thu, 6 Aug 2026.
 
 Atlaskin is a techno and tech house artist based in Czech Republic, tracked on soundcheck, with 27 sets logged across Prague. Often billed alongside VNNUK, Nastya Muravyova and Takē. Next up: Altenburg 1964, Prague on Thu 6 Aug.
 
@@ -27,4 +27,4 @@ Atlaskin is a techno and tech house artist based in Czech Republic, tracked on s
 
 VNNUK, Nastya Muravyova, Takē
 
-*Updated Mon, 27 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/atlaskin/)*
+*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/atlaskin/)*

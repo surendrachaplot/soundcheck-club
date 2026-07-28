@@ -1,6 +1,6 @@
 # hiroto yano
 
-hiroto yano is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Mon, 27 Jul 2026, next at Oath, Tokyo on Tue, 28 Jul 2026.
+hiroto yano is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Tue, 28 Jul 2026, next at Oath, Tokyo on Tue, 28 Jul 2026.
 
 hiroto yano is a house and techno artist based in Japan, tracked on soundcheck, with 127 sets logged across Tokyo. Often billed alongside Terax, kagurun and MINAMI. Next up: Oath, Tokyo on Tue 28 Jul.
 
@@ -26,4 +26,4 @@ hiroto yano is a house and techno artist based in Japan, tracked on soundcheck, 
 
 Terax, kagurun, MINAMI
 
-*Updated Mon, 27 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/hirotoyano/)*
+*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/hirotoyano/)*

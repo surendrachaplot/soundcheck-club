@@ -1,6 +1,6 @@
 # fka.m4a
 
-fka.m4a is a Techno and House artist with 4 upcoming club dates listed on soundcheck as of Mon, 27 Jul 2026, next at TILLATEC, Amsterdam on Sat, 1 Aug 2026.
+fka.m4a is a Techno and House artist with 4 upcoming club dates listed on soundcheck as of Tue, 28 Jul 2026, next at TILLATEC, Amsterdam on Sat, 1 Aug 2026.
 
 fka.m4a is a techno and house artist tracked on soundcheck, with 188 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 52 more. Often billed alongside Cormac, Elli Acula and Sedef Adasï. Next up: TILLATEC, Amsterdam on Sat 1 Aug.
 
@@ -28,4 +28,4 @@ fka.m4a is a techno and house artist tracked on soundcheck, with 188 sets logged
 
 Cormac, Elli Acula, Sedef Adasï
 
-*Updated Mon, 27 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/fkam4a/)*
+*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/fkam4a/)*

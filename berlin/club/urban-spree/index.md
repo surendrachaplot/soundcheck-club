@@ -1,6 +1,6 @@
 # Urban Spree
 
-Urban Spree is a music venue in Berlin with 7 upcoming nights listed on soundcheck as of Mon, 27 Jul 2026; the next is "VMO Violent Magic Orchestra + PΞB" on Wed, 29 Jul 2026.
+Urban Spree is a music venue in Berlin with 7 upcoming nights listed on soundcheck as of Tue, 28 Jul 2026; the next is "VMO Violent Magic Orchestra + PΞB" on Wed, 29 Jul 2026.
 
 Urban Spree is a music venue in Berlin listed on soundcheck. 7 upcoming nights, with line-ups including Blush Response, Flor Coto, Furz and GB (2) and 2 more. Browse upcoming dates, start times and who's playing. Revaler Str. 99, 10245 Berlin, Germany.
 
@@ -20,4 +20,4 @@ Urban Spree is a music venue in Berlin listed on soundcheck. 7 upcoming nights, 
 
 Revaler Str. 99, 10245 Berlin, Germany, Berlin
 
-*Updated Mon, 27 Jul 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/urban-spree/)*
+*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/urban-spree/)*

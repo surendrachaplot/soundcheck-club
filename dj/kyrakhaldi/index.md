@@ -1,6 +1,6 @@
 # Kyra Khaldi
 
-Kyra Khaldi is a House and Techno artist with 4 upcoming club dates listed on soundcheck as of Mon, 27 Jul 2026, next at Shelter Amsterdam, Amsterdam on Sat, 1 Aug 2026.
+Kyra Khaldi is a House and Techno artist with 4 upcoming club dates listed on soundcheck as of Tue, 28 Jul 2026, next at Shelter Amsterdam, Amsterdam on Sat, 1 Aug 2026.
 
 Kyra Khaldi is a house and techno artist tracked on soundcheck, with 133 sets logged across Amsterdam, Antwerp, Berlin and Brussels and 5 more. Often billed alongside Moody Mehran, Benny Rodrigues and Boris Coelman. Next up: Shelter Amsterdam, Amsterdam on Sat 1 Aug.
 
@@ -28,4 +28,4 @@ Kyra Khaldi is a house and techno artist tracked on soundcheck, with 133 sets lo
 
 Moody Mehran, Benny Rodrigues, Boris Coelman
 
-*Updated Mon, 27 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/kyrakhaldi/)*
+*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/kyrakhaldi/)*

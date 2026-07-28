@@ -1,6 +1,6 @@
 # Illegaal
 
-Illegaal is a music venue in Brussels with 1 upcoming night listed on soundcheck as of Mon, 27 Jul 2026; the next is "Groove Lab // DAY PARTY" on Sun, 20 Sept 2026.
+Illegaal is a music venue in Brussels with 1 upcoming night listed on soundcheck as of Tue, 28 Jul 2026; the next is "Groove Lab // DAY PARTY" on Sun, 20 Sept 2026.
 
 Illegaal is a music venue in Brussels listed on soundcheck. 1 upcoming night. Browse upcoming dates, start times and who's playing. Rue Bollinckx 300, 1190 Forest.
 
@@ -14,4 +14,4 @@ Illegaal is a music venue in Brussels listed on soundcheck. 1 upcoming night. Br
 
 Rue Bollinckx 300, 1190 Forest, Brussels
 
-*Updated Mon, 27 Jul 2026 · source: [soundcheck](https://soundcheck.club/brussels/club/illegaal/)*
+*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/brussels/club/illegaal/)*

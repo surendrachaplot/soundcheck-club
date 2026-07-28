@@ -1,6 +1,6 @@
 # The Third Room: Andy Martin, Constanza, Marcal, Felix Feer at KALT
 
-The Third Room: Andy Martin, Constanza, Marcal, Felix Feer at KALT on Sat 29 Aug, Strasbourg. 4 acts on the bill: Andy Martin, Dimë, Justine Perry and Marcal. Preview the line-up and save it on soundcheck.
+The Third Room: Andy Martin, Constanza, Marcal, Felix Feer at KALT on Sat 29 Aug, Strasbourg. 5 acts on the bill: Andy Martin, Dimë, Felix Fleer and Justine Perry and 1 more. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -12,6 +12,7 @@ The Third Room: Andy Martin, Constanza, Marcal, Felix Feer at KALT on Sat 29 Aug
 
 - Andy Martin
 - Dimë
+- Felix Fleer
 - Justine Perry
 - Marcal
 

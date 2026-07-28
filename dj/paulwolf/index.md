@@ -1,6 +1,6 @@
 # Paul Wolf
 
-Paul Wolf is a Techno and Hardcore artist with 3 upcoming club dates listed on soundcheck as of Mon, 27 Jul 2026, next at Waschhaus, Berlin on Fri, 7 Aug 2026.
+Paul Wolf is a Techno and Hardcore artist with 3 upcoming club dates listed on soundcheck as of Tue, 28 Jul 2026, next at Waschhaus, Berlin on Fri, 7 Aug 2026.
 
 Paul Wolf is a techno and hardcore artist based in Germany, tracked on soundcheck, with 35 sets logged across Berlin and Cologne. Often billed alongside monervo, Mark Dekoda and Thomas Lizzara. Next up: Waschhaus, Berlin on Fri 7 Aug.
 
@@ -27,4 +27,4 @@ Paul Wolf is a techno and hardcore artist based in Germany, tracked on soundchec
 
 monervo, Mark Dekoda, Thomas Lizzara
 
-*Updated Mon, 27 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/paulwolf/)*
+*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/paulwolf/)*

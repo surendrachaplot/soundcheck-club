@@ -1,6 +1,6 @@
 # The AM/AMX
 
-The AM/AMX is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Mon, 27 Jul 2026, next at The Eagle of Detroit, Detroit on Sat, 8 Aug 2026.
+The AM/AMX is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Tue, 28 Jul 2026, next at The Eagle of Detroit, Detroit on Sat, 8 Aug 2026.
 
 The AM/AMX is a techno and house artist tracked on soundcheck, with 81 sets logged across Berlin, Chicago, Detroit and Losangeles and 3 more. Often billed alongside Ash Lauryn, Isaac Prieto and Max Watts. Next up: The Eagle of Detroit, Detroit on Sat 8 Aug.
 
@@ -26,4 +26,4 @@ The AM/AMX is a techno and house artist tracked on soundcheck, with 81 sets logg
 
 Ash Lauryn, Isaac Prieto, Max Watts
 
-*Updated Mon, 27 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/AMX/)*
+*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/AMX/)*

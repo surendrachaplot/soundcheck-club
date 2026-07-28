@@ -1,6 +1,6 @@
 # Refuge
 
-Refuge is a music venue in New York City with 6 upcoming nights listed on soundcheck as of Mon, 27 Jul 2026; the next is "Refuge Saturday Daytime with Oliver Koletzki & Lauren Ritter" on Sat, 1 Aug 2026.
+Refuge is a music venue in New York City with 6 upcoming nights listed on soundcheck as of Tue, 28 Jul 2026; the next is "Refuge Saturday Daytime with Oliver Koletzki & Lauren Ritter" on Sat, 1 Aug 2026.
 
 Refuge is a music venue in Newyorkcity listed on soundcheck. 6 upcoming nights, with line-ups including 1morning, Adam Collins, Andrey Pushkarev and Connie and 2 more. Browse upcoming dates, start times and who's playing. 366 Ten Eyck St, Brooklyn, NY 11206.
 
@@ -19,4 +19,4 @@ Refuge is a music venue in Newyorkcity listed on soundcheck. 6 upcoming nights, 
 
 366 Ten Eyck St, Brooklyn, NY 11206, New York City
 
-*Updated Mon, 27 Jul 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/refuge/)*
+*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/refuge/)*

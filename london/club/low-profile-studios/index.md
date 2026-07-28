@@ -1,13 +1,14 @@
 # Low Profile Studios
 
-Low Profile Studios is a music venue in London with 4 upcoming nights listed on soundcheck as of Mon, 27 Jul 2026; the next is "Das Booty" on Sat, 5 Sept 2026.
+Low Profile Studios is a music venue in London with 5 upcoming nights listed on soundcheck as of Tue, 28 Jul 2026; the next is "Break Even Two Year Anniversary Party with Sunni D, Meena & Tane and Break Even Residents" on Fri, 14 Aug 2026.
 
-Low Profile Studios is a music venue in London listed on soundcheck. 4 upcoming nights, with line-ups including Kris Baha, Leaches, Ununu and Yazzus. Browse upcoming dates, start times and who's playing. 94 Vale Rd, Harringay Warehouse District, London N4 1PT.
+Low Profile Studios is a music venue in London listed on soundcheck. 5 upcoming nights, with line-ups including Henry Sears, Kris Baha, Leaches and Sunni D and 2 more. Browse upcoming dates, start times and who's playing. 94 Vale Rd, Harringay Warehouse District, London N4 1PT.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
+| Fri, 14 Aug 2026 | Break Even Two Year Anniversary Party with Sunni D, Meena & Tane and Break Even Residents | Henry Sears, Sunni D |
 | Sat, 5 Sept 2026 | Das Booty |  |
 | Sat, 26 Sept 2026 | EMAREUK & Saga Sonica PRESENT Yazzus & Kris Baha | Kris Baha, Leaches, Ununu, Yazzus |
 | Fri, 9 Oct 2026 | I Am An Alien 3 |  |
@@ -17,4 +18,4 @@ Low Profile Studios is a music venue in London listed on soundcheck. 4 upcoming 
 
 94 Vale Rd, Harringay Warehouse District, London N4 1PT, London
 
-*Updated Mon, 27 Jul 2026 · source: [soundcheck](https://soundcheck.club/london/club/low-profile-studios/)*
+*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/london/club/low-profile-studios/)*

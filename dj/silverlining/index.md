@@ -1,8 +1,8 @@
 # Silverlining
 
-Silverlining is a House and Tech House artist with 3 upcoming club dates listed on soundcheck as of Mon, 27 Jul 2026, next at Sunseabar Beach Club, Barcelona on Sat, 8 Aug 2026.
+Silverlining is a House and Tech House artist with 4 upcoming club dates listed on soundcheck as of Tue, 28 Jul 2026, next at Sunseabar Beach Club, Barcelona on Sat, 8 Aug 2026.
 
-Silverlining is a house and tech house artist based in United Kingdom, tracked on soundcheck, with 95 sets logged across Amsterdam, Auckland, Barcelona and Berlin and 18 more. Often billed alongside 3 Minds, Eddie Richards and HEAVEN-LEE. Next up: Sunseabar Beach Club, Barcelona on Sat 8 Aug.
+Silverlining is a house and tech house artist based in United Kingdom, tracked on soundcheck, with 96 sets logged across Amsterdam, Auckland, Barcelona and Berlin and 18 more. Often billed alongside 3 Minds, Eddie Richards and HEAVEN-LEE. Next up: Sunseabar Beach Club, Barcelona on Sat 8 Aug.
 
 ## Upcoming shows
 
@@ -11,6 +11,7 @@ Silverlining is a house and tech house artist based in United Kingdom, tracked o
 | Sat, 8 Aug 2026 | Sunseabar Beach Club | Barcelona |
 | Sun, 16 Aug 2026 | Hola Club Sitges (Cala Vallcarca) | Barcelona |
 | Fri, 11 Sept 2026 | NUMBER 90 LONDON | London |
+| Sat, 26 Sept 2026 | Spook Club | Valencia |
 
 ## Recently played
 
@@ -27,4 +28,4 @@ Silverlining is a house and tech house artist based in United Kingdom, tracked o
 
 3 Minds, Eddie Richards, HEAVEN-LEE
 
-*Updated Mon, 27 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/silverlining/)*
+*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/silverlining/)*

@@ -1,6 +1,6 @@
 # nd_baumecker
 
-nd_baumecker is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Mon, 27 Jul 2026, next at BLITZ, Munich on Fri, 31 Jul 2026.
+nd_baumecker is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Tue, 28 Jul 2026, next at BLITZ, Munich on Fri, 31 Jul 2026.
 
 nd_baumecker is a house and techno artist tracked on soundcheck, with 112 sets logged across Athens, Bali, Bangkok and Barcelona and 30 more. Often billed alongside Jorkes, Steffi and Efdemin. Next up: BLITZ, Munich on Fri 31 Jul.
 
@@ -26,4 +26,4 @@ nd_baumecker is a house and techno artist tracked on soundcheck, with 112 sets l
 
 Jorkes, Steffi, Efdemin
 
-*Updated Mon, 27 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/nd_baumecker/)*
+*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/nd_baumecker/)*

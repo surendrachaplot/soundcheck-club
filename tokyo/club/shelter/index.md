@@ -1,6 +1,6 @@
 # SHeLTeR
 
-SHeLTeR is a music venue in Tokyo with 3 upcoming nights listed on soundcheck as of Mon, 27 Jul 2026; the next is "ura;裏" on Tue, 28 Jul 2026.
+SHeLTeR is a music venue in Tokyo with 3 upcoming nights listed on soundcheck as of Tue, 28 Jul 2026; the next is "ura;裏" on Tue, 28 Jul 2026.
 
 SHeLTeR is a music venue in Tokyo listed on soundcheck. 3 upcoming nights, with line-ups including DORA and Yoshitake EXPE. Browse upcoming dates, start times and who's playing. 1-1 B1F NK bldg; Yokamachi Hachioji; Tokyo; Japan.
 
@@ -16,4 +16,4 @@ SHeLTeR is a music venue in Tokyo listed on soundcheck. 3 upcoming nights, with 
 
 1-1 B1F NK bldg; Yokamachi Hachioji; Tokyo; Japan, Tokyo
 
-*Updated Mon, 27 Jul 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/shelter/)*
+*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/shelter/)*

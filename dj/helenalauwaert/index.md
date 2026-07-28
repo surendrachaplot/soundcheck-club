@@ -1,6 +1,6 @@
 # Helena Lauwaert
 
-Helena Lauwaert is a Techno and Trance artist with 7 upcoming club dates listed on soundcheck as of Mon, 27 Jul 2026, next at Bowlers Exhibition Centre, Manchester on Sat, 1 Aug 2026.
+Helena Lauwaert is a Techno and Trance artist with 7 upcoming club dates listed on soundcheck as of Tue, 28 Jul 2026, next at Bowlers Exhibition Centre, Manchester on Sat, 1 Aug 2026.
 
 Helena Lauwaert is a techno and trance artist tracked on soundcheck, with 130 sets logged across Amsterdam, Antwerp, Barcelona and Berlin and 21 more. Often billed alongside Pegassi, EMILIJA and Faster Horses. Next up: Bowlers Exhibition Centre, Manchester on Sat 1 Aug.
 
@@ -31,4 +31,4 @@ Helena Lauwaert is a techno and trance artist tracked on soundcheck, with 130 se
 
 Pegassi, EMILIJA, Faster Horses
 
-*Updated Mon, 27 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/helenalauwaert/)*
+*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/helenalauwaert/)*

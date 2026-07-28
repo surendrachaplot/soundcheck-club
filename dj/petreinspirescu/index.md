@@ -1,6 +1,6 @@
 # Petre Inspirescu
 
-Petre Inspirescu is a Minimal and House artist with 2 upcoming club dates listed on soundcheck as of Mon, 27 Jul 2026, next at Supermarket, Zurich on Fri, 7 Aug 2026.
+Petre Inspirescu is a Minimal and House artist with 2 upcoming club dates listed on soundcheck as of Tue, 28 Jul 2026, next at Supermarket, Zurich on Fri, 7 Aug 2026.
 
 Petre Inspirescu is a minimal and house artist based in Romania, tracked on soundcheck, with 69 sets logged across Antwerp, Barcelona, Berlin and Brussels and 20 more. Often billed alongside Rhadoo, Raresh and RPR Soundsystem. Next up: Supermarket, Zurich on Fri 7 Aug.
 
@@ -26,4 +26,4 @@ Petre Inspirescu is a minimal and house artist based in Romania, tracked on soun
 
 Rhadoo, Raresh, RPR Soundsystem
 
-*Updated Mon, 27 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/petreinspirescu/)*
+*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/petreinspirescu/)*

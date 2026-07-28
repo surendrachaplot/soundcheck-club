@@ -1,6 +1,6 @@
 # AREA ØNE
 
-AREA ØNE is a Techno and Trance artist with 2 upcoming club dates listed on soundcheck as of Mon, 27 Jul 2026, next at Club Vaag, Antwerp on Fri, 31 Jul 2026.
+AREA ØNE is a Techno and Trance artist with 2 upcoming club dates listed on soundcheck as of Tue, 28 Jul 2026, next at Club Vaag, Antwerp on Fri, 31 Jul 2026.
 
 AREA ØNE is a techno and trance artist tracked on soundcheck, with 50 sets logged across Amsterdam, Antwerp, Athens and Belgrade and 18 more. Often billed alongside Niotech, HANÀ and THISO. Next up: Club Vaag, Antwerp on Fri 31 Jul.
 
@@ -26,4 +26,4 @@ AREA ØNE is a techno and trance artist tracked on soundcheck, with 50 sets logg
 
 Niotech, HANÀ, THISO
 
-*Updated Mon, 27 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/areaone/)*
+*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/areaone/)*

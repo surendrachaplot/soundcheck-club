@@ -1,6 +1,6 @@
 # TBA - Toronto
 
-TBA - Toronto is a music venue in Toronto with 7 upcoming nights listed on soundcheck as of Mon, 27 Jul 2026; the next is "Camp Summerdaze" on Thu, 30 Jul 2026.
+TBA - Toronto is a music venue in Toronto with 7 upcoming nights listed on soundcheck as of Tue, 28 Jul 2026; the next is "Camp Summerdaze" on Thu, 30 Jul 2026.
 
 TBA - Toronto is a music venue in Toronto listed on soundcheck. 7 upcoming nights, with line-ups including ALT8, A++, Barac and Joplyn and 2 more. Browse upcoming dates, start times and who's playing.
 
@@ -16,4 +16,4 @@ TBA - Toronto is a music venue in Toronto listed on soundcheck. 7 upcoming night
 | Sat, 12 Sept 2026 | ROTE8 EVENTS presents: TBA |  |
 | Sat, 12 Sept 2026 | Rhythmic Roots X Ritual Recall: Open Air Summer Closer |  |
 
-*Updated Mon, 27 Jul 2026 · source: [soundcheck](https://soundcheck.club/toronto/club/tba-toronto/)*
+*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/toronto/club/tba-toronto/)*

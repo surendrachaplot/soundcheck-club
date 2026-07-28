@@ -1,6 +1,6 @@
 # Ariel Rodz
 
-Ariel Rodz is a Tech House and Minimal artist with 2 upcoming club dates listed on soundcheck as of Mon, 27 Jul 2026, next at TBA - Tokyo Club, Costanera, Buenos Aires on Thu, 30 Jul 2026.
+Ariel Rodz is a Tech House and Minimal artist with 2 upcoming club dates listed on soundcheck as of Tue, 28 Jul 2026, next at TBA - Tokyo Club, Costanera, Buenos Aires on Thu, 30 Jul 2026.
 
 Ariel Rodz is a tech house and minimal artist based in Argentina, tracked on soundcheck, with 26 sets logged across Amsterdam, Barcelona, Buenosaires and Ibiza and 1 more. Often billed alongside Paco Osuna, The Martinez Brothers and AJ Christou. Next up: TBA - Tokyo Club, Costanera, Buenosaires on Thu 30 Jul.
 
@@ -26,4 +26,4 @@ Ariel Rodz is a tech house and minimal artist based in Argentina, tracked on sou
 
 Paco Osuna, The Martinez Brothers, AJ Christou
 
-*Updated Mon, 27 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/arielrodz/)*
+*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/arielrodz/)*

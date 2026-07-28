@@ -1,6 +1,6 @@
 # Benji King
 
-Benji King is a House and Tech House artist with 4 upcoming club dates listed on soundcheck as of Mon, 27 Jul 2026, next at Burgess Park, London on Sun, 9 Aug 2026.
+Benji King is a House and Tech House artist with 4 upcoming club dates listed on soundcheck as of Tue, 28 Jul 2026, next at Burgess Park, London on Sun, 9 Aug 2026.
 
 Benji King is a house and tech house artist tracked on soundcheck, with 73 sets logged across Amsterdam, Barcelona, Bristol and Dublin and 7 more. Often billed alongside Phill de Janeiro, Jude Lenihan and Truly Madly. Next up: Burgess Park, London on Sun 9 Aug.
 
@@ -28,4 +28,4 @@ Benji King is a house and tech house artist tracked on soundcheck, with 73 sets 
 
 Phill de Janeiro, Jude Lenihan, Truly Madly
 
-*Updated Mon, 27 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/benjiking/)*
+*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/benjiking/)*

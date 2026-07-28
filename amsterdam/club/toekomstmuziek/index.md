@@ -1,6 +1,6 @@
 # Toekomstmuziek
 
-Toekomstmuziek is a music venue in Amsterdam with 6 upcoming nights listed on soundcheck as of Mon, 27 Jul 2026; the next is "SouthSide Pride Edition" on Sat, 1 Aug 2026.
+Toekomstmuziek is a music venue in Amsterdam with 6 upcoming nights listed on soundcheck as of Tue, 28 Jul 2026; the next is "SouthSide Pride Edition" on Sat, 1 Aug 2026.
 
 Toekomstmuziek is a music venue in Amsterdam listed on soundcheck. 6 upcoming nights, with line-ups including Alex Breitling, ALLKNIGHT, Alycia Bezgo and Amøn and 2 more. Browse upcoming dates, start times and who's playing. Danzigerbocht 29, 1013 AM Amsterdam.
 
@@ -19,4 +19,4 @@ Toekomstmuziek is a music venue in Amsterdam listed on soundcheck. 6 upcoming ni
 
 Danzigerbocht 29, 1013 AM Amsterdam, Amsterdam
 
-*Updated Mon, 27 Jul 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/toekomstmuziek/)*
+*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/toekomstmuziek/)*

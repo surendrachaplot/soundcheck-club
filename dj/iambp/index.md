@@ -1,6 +1,6 @@
 # IAMBP
 
-IAMBP is a Electro and House artist with 2 upcoming club dates listed on soundcheck as of Mon, 27 Jul 2026, next at Ministerium Club, Lisbon on Sat, 8 Aug 2026.
+IAMBP is a Electro and House artist with 2 upcoming club dates listed on soundcheck as of Tue, 28 Jul 2026, next at Ministerium Club, Lisbon on Sat, 8 Aug 2026.
 
 IAMBP is an electro and house artist tracked on soundcheck, with 81 sets logged across Barcelona, Berlin, Brussels and Buenosaires and 14 more. Often billed alongside Occibel, Alyhas and HearThug. Next up: Ministerium Club, Lisbon on Sat 8 Aug.
 
@@ -26,4 +26,4 @@ IAMBP is an electro and house artist tracked on soundcheck, with 81 sets logged 
 
 Occibel, Alyhas, HearThug
 
-*Updated Mon, 27 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/iambp/)*
+*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/iambp/)*

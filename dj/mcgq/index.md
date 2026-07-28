@@ -1,6 +1,6 @@
 # MC GQ
 
-MC GQ is a Drum & Bass and Jungle artist with 4 upcoming club dates listed on soundcheck as of Mon, 27 Jul 2026, next at The Prospect Building, Bristol on Sat, 8 Aug 2026.
+MC GQ is a Drum & Bass and Jungle artist with 4 upcoming club dates listed on soundcheck as of Tue, 28 Jul 2026, next at The Prospect Building, Bristol on Sat, 8 Aug 2026.
 
 MC GQ is a drum & bass and jungle artist tracked on soundcheck, with 87 sets logged across Barcelona, Birmingham, Brighton and Bristol and 12 more. Often billed alongside SP:MC, Dillinja and Break. Next up: The Prospect Building, Bristol on Sat 8 Aug.
 
@@ -28,4 +28,4 @@ MC GQ is a drum & bass and jungle artist tracked on soundcheck, with 87 sets log
 
 SP:MC, Dillinja, Break
 
-*Updated Mon, 27 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/mcgq/)*
+*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/mcgq/)*

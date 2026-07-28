@@ -1,6 +1,6 @@
 # La Fabrica
 
-La Fabrica is a music venue in Washington DC with 1 upcoming night listed on soundcheck as of Mon, 27 Jul 2026; the next is "Lollipop DC - House Edition - SEDRICK - Micfreak - MAXIMILIANO - DJ SKUP" on Sat, 8 Aug 2026.
+La Fabrica is a music venue in Washington DC with 1 upcoming night listed on soundcheck as of Tue, 28 Jul 2026; the next is "Lollipop DC - House Edition - SEDRICK - Micfreak - MAXIMILIANO - DJ SKUP" on Sat, 8 Aug 2026.
 
 La Fabrica is a music venue in Washingtondc listed on soundcheck. 1 upcoming night, with line-ups including MAXIMILIANO (US), Micfreak and Sküp. Browse upcoming dates, start times and who's playing. 1124 Congress St NE, Washington DC 20002.
 
@@ -14,4 +14,4 @@ La Fabrica is a music venue in Washingtondc listed on soundcheck. 1 upcoming nig
 
 1124 Congress St NE, Washington DC 20002, Washington DC
 
-*Updated Mon, 27 Jul 2026 · source: [soundcheck](https://soundcheck.club/washingtondc/club/la-fabrica/)*
+*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/washingtondc/club/la-fabrica/)*

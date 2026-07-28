@@ -1,6 +1,6 @@
 # Klub Mechanik
 
-Klub Mechanik is a music venue in Warsaw with 3 upcoming nights listed on soundcheck as of Mon, 27 Jul 2026; the next is "Exclusive Interview: Evanora Unlimited, Nation" on Fri, 7 Aug 2026.
+Klub Mechanik is a music venue in Warsaw with 3 upcoming nights listed on soundcheck as of Tue, 28 Jul 2026; the next is "Exclusive Interview: Evanora Unlimited, Nation" on Fri, 7 Aug 2026.
 
 Klub Mechanik is a music venue in Warsaw listed on soundcheck. 3 upcoming nights, with line-ups including Evanora Unlimited and Inferno. Browse upcoming dates, start times and who's playing. Ludwika Narbutta 87, 02-525 Warszawa.
 
@@ -16,4 +16,4 @@ Klub Mechanik is a music venue in Warsaw listed on soundcheck. 3 upcoming nights
 
 Ludwika Narbutta 87, 02-525 Warszawa, Warsaw
 
-*Updated Mon, 27 Jul 2026 · source: [soundcheck](https://soundcheck.club/warsaw/club/klub-mechanik/)*
+*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/warsaw/club/klub-mechanik/)*

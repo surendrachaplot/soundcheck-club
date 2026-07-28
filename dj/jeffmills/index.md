@@ -1,6 +1,6 @@
 # Jeff Mills
 
-Jeff Mills is a Techno and House artist with 12 upcoming club dates listed on soundcheck as of Mon, 27 Jul 2026, next at Amsterdamse Bos, Amsterdam on Wed, 29 Jul 2026.
+Jeff Mills is a Techno and House artist with 12 upcoming club dates listed on soundcheck as of Tue, 28 Jul 2026, next at Amsterdamse Bos, Amsterdam on Wed, 29 Jul 2026.
 
 Jeff Mills is a techno and house artist tracked on soundcheck, with 177 sets logged across Amsterdam, Antwerp, Athens and Auckland and 56 more. Often billed alongside DVS1, Marcel Dettmann and Helena Hauff. Next up: Amsterdamse Bos, Amsterdam on Wed 29 Jul.
 
@@ -36,4 +36,4 @@ Jeff Mills is a techno and house artist tracked on soundcheck, with 177 sets log
 
 DVS1, Marcel Dettmann, Helena Hauff
 
-*Updated Mon, 27 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/jeffmills/)*
+*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/jeffmills/)*

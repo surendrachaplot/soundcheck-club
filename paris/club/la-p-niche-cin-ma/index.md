@@ -1,6 +1,6 @@
 # La Péniche Cinéma
 
-La Péniche Cinéma is a music venue in Paris with 1 upcoming night listed on soundcheck as of Mon, 27 Jul 2026; the next is "Shoe box party" on Fri, 31 Jul 2026.
+La Péniche Cinéma is a music venue in Paris with 1 upcoming night listed on soundcheck as of Tue, 28 Jul 2026; the next is "Shoe box party" on Fri, 31 Jul 2026.
 
 La Péniche Cinéma is a music venue in Paris listed on soundcheck. 1 upcoming night, with line-ups including Bassi-fr, Loulou Ferrari and Rakla Maté (2). Browse upcoming dates, start times and who's playing. Metro Porte de la Villette 59 bd Mc Donald 75019.
 
@@ -14,4 +14,4 @@ La Péniche Cinéma is a music venue in Paris listed on soundcheck. 1 upcoming n
 
 Metro Porte de la Villette 59 bd Mc Donald 75019, Paris
 
-*Updated Mon, 27 Jul 2026 · source: [soundcheck](https://soundcheck.club/paris/club/la-p-niche-cin-ma/)*
+*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/paris/club/la-p-niche-cin-ma/)*

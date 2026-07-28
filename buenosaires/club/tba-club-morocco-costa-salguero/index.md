@@ -1,6 +1,6 @@
 # TBA - Club Morocco, Costa Salguero
 
-TBA - Club Morocco, Costa Salguero is a music venue in Buenos Aires with 1 upcoming night listed on soundcheck as of Mon, 27 Jul 2026; the next is "Giorgia Angiuli + ROBERTO CERATTI - by 2GTHR, CLUB MOROCCO" on Fri, 31 Jul 2026.
+TBA - Club Morocco, Costa Salguero is a music venue in Buenos Aires with 1 upcoming night listed on soundcheck as of Tue, 28 Jul 2026; the next is "Giorgia Angiuli + ROBERTO CERATTI - by 2GTHR, CLUB MOROCCO" on Fri, 31 Jul 2026.
 
 TBA - Club Morocco, Costa Salguero is a music venue in Buenosaires listed on soundcheck. 1 upcoming night, with line-ups including Giorgia Angiuli. Browse upcoming dates, start times and who's playing.
 
@@ -10,4 +10,4 @@ TBA - Club Morocco, Costa Salguero is a music venue in Buenosaires listed on sou
 | --- | --- | --- |
 | Fri, 31 Jul 2026 | Giorgia Angiuli + ROBERTO CERATTI - by 2GTHR, CLUB MOROCCO | Giorgia Angiuli |
 
-*Updated Mon, 27 Jul 2026 · source: [soundcheck](https://soundcheck.club/buenosaires/club/tba-club-morocco-costa-salguero/)*
+*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/buenosaires/club/tba-club-morocco-costa-salguero/)*

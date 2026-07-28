@@ -1,6 +1,6 @@
 # Société des arts technologiques
 
-Société des arts technologiques is a music venue in Montreal with 17 upcoming nights listed on soundcheck as of Mon, 27 Jul 2026; the next is "Dômesicle x HomeBy6 — AceMo (US) • Casa Kobrae b2b Felix Patry" on Fri, 31 Jul 2026.
+Société des arts technologiques is a music venue in Montreal with 17 upcoming nights listed on soundcheck as of Tue, 28 Jul 2026; the next is "Dômesicle x HomeBy6 — AceMo (US) • Casa Kobrae b2b Felix Patry" on Fri, 31 Jul 2026.
 
 Société des arts technologiques is a music venue in Montreal listed on soundcheck. 17 upcoming nights, with line-ups including AceMo, A Guy Called Gerald, Alan Harman and Alina (MTL) and 2 more. Browse upcoming dates, start times and who's playing. 1201 Boulevard Saint-Laurent; Montréal, QC H2X 2S6; Canada.
 
@@ -23,4 +23,4 @@ Société des arts technologiques is a music venue in Montreal listed on soundch
 
 1201 Boulevard Saint-Laurent; Montréal, QC H2X 2S6; Canada, Montreal
 
-*Updated Mon, 27 Jul 2026 · source: [soundcheck](https://soundcheck.club/montreal/club/soci-t-des-arts-technologiques/)*
+*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/montreal/club/soci-t-des-arts-technologiques/)*

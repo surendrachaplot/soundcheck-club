@@ -1,6 +1,6 @@
 # Girls Don't Sync
 
-Girls Don't Sync is a Garage and House artist with 4 upcoming club dates listed on soundcheck as of Mon, 27 Jul 2026, next at Preston Park, Brighton, Berlin on Sat, 1 Aug 2026.
+Girls Don't Sync is a Garage and House artist with 4 upcoming club dates listed on soundcheck as of Tue, 28 Jul 2026, next at Preston Park, Brighton, Berlin on Sat, 1 Aug 2026.
 
 Girls Don't Sync is a garage and house artist tracked on soundcheck, with 115 sets logged across Aberdeen, Amsterdam, Antwerp and Bali and 26 more. Often billed alongside Interplanetary Criminal, Sophia Violet and Rich Reason. Next up: Preston Park, Brighton, Berlin on Sat 1 Aug.
 
@@ -28,4 +28,4 @@ Girls Don't Sync is a garage and house artist tracked on soundcheck, with 115 se
 
 Interplanetary Criminal, Sophia Violet, Rich Reason
 
-*Updated Mon, 27 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/girlsdontsync/)*
+*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/girlsdontsync/)*

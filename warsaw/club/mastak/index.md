@@ -1,6 +1,6 @@
 # Mastak
 
-Mastak is a music venue in Warsaw with 3 upcoming nights listed on soundcheck as of Mon, 27 Jul 2026; the next is "WOX DANCE" on Fri, 31 Jul 2026.
+Mastak is a music venue in Warsaw with 3 upcoming nights listed on soundcheck as of Tue, 28 Jul 2026; the next is "WOX DANCE" on Fri, 31 Jul 2026.
 
 Mastak is a music venue in Warsaw listed on soundcheck. 3 upcoming nights, with line-ups including anke schön, Be.roo, Heather Helix and Joseph Clarke and 2 more. Browse upcoming dates, start times and who's playing. Solec 81B, Wieżyca, 00-382 Warszawa.
 
@@ -16,4 +16,4 @@ Mastak is a music venue in Warsaw listed on soundcheck. 3 upcoming nights, with 
 
 Solec 81B, Wieżyca, 00-382 Warszawa, Warsaw
 
-*Updated Mon, 27 Jul 2026 · source: [soundcheck](https://soundcheck.club/warsaw/club/mastak/)*
+*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/warsaw/club/mastak/)*

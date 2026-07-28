@@ -1,8 +1,8 @@
 # Layla Benitez
 
-Layla Benitez is a Techno and House artist with 4 upcoming club dates listed on soundcheck as of Mon, 27 Jul 2026, next at Café del Mar Malta, Malta on Sat, 1 Aug 2026.
+Layla Benitez is a Techno and House artist with 5 upcoming club dates listed on soundcheck as of Tue, 28 Jul 2026, next at Café del Mar Malta, Malta on Sat, 1 Aug 2026.
 
-Layla Benitez is a techno and house artist tracked on soundcheck, with 154 sets logged across Amsterdam, Athens, Austin and Bali and 30 more. Often billed alongside CamelPhat, Adriatique and Max Stern. Next up: Café del Mar Malta, Malta on Sat 1 Aug.
+Layla Benitez is a techno and house artist tracked on soundcheck, with 155 sets logged across Amsterdam, Athens, Austin and Bali and 30 more. Often billed alongside CamelPhat, Adriatique and Max Stern. Next up: Café del Mar Malta, Malta on Sat 1 Aug.
 
 ## Upcoming shows
 
@@ -12,6 +12,7 @@ Layla Benitez is a techno and house artist tracked on soundcheck, with 154 sets 
 | Fri, 14 Aug 2026 | Magazine Open–Air | London |
 | Fri, 14 Aug 2026 | fabric | London |
 | Sat, 22 Aug 2026 | TBA - AMK Club, Almagro | Buenos Aires |
+| Sat, 26 Sept 2026 | Ciudad Del Rock | Madrid |
 
 ## Recently played
 
@@ -28,4 +29,4 @@ Layla Benitez is a techno and house artist tracked on soundcheck, with 154 sets 
 
 CamelPhat, Adriatique, Max Stern
 
-*Updated Mon, 27 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/laylabenitez/)*
+*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/laylabenitez/)*

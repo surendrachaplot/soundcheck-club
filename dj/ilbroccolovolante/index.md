@@ -1,6 +1,6 @@
 # ilbroccolovolante
 
-ilbroccolovolante is a Techno and Progressive House artist with 6 upcoming club dates listed on soundcheck as of Mon, 27 Jul 2026, next at Bike Jesus, Prague on Fri, 31 Jul 2026.
+ilbroccolovolante is a Techno and Progressive House artist with 6 upcoming club dates listed on soundcheck as of Tue, 28 Jul 2026, next at Bike Jesus, Prague on Fri, 31 Jul 2026.
 
 ilbroccolovolante is a techno and progressive house artist based in Italy, tracked on soundcheck, with 74 sets logged across Amsterdam, Barcelona, Berlin and Brussels and 5 more. Often billed alongside Kidcat, zikade and materia hache. Next up: Bike Jesus, Prague on Fri 31 Jul.
 
@@ -30,4 +30,4 @@ ilbroccolovolante is a techno and progressive house artist based in Italy, track
 
 Kidcat, zikade, materia hache
 
-*Updated Mon, 27 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/ilbroccolovolante/)*
+*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/ilbroccolovolante/)*

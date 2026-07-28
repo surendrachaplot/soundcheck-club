@@ -1,6 +1,6 @@
 # NOYB
 
-NOYB is a Disco and Balearic artist with 3 upcoming club dates listed on soundcheck as of Mon, 27 Jul 2026, next at Signature Brew Blackhorse Road, London on Sat, 1 Aug 2026.
+NOYB is a Disco and Balearic artist with 3 upcoming club dates listed on soundcheck as of Tue, 28 Jul 2026, next at Signature Brew Blackhorse Road, London on Sat, 1 Aug 2026.
 
 NOYB is a disco and balearic artist based in Italy, tracked on soundcheck, with 34 sets logged across Amsterdam and London. Often billed alongside MAÏS, Benebe and anxiousaaron. Next up: Signature Brew Blackhorse Road, London on Sat 1 Aug.
 
@@ -27,4 +27,4 @@ NOYB is a disco and balearic artist based in Italy, tracked on soundcheck, with 
 
 MAÏS, Benebe, anxiousaaron
 
-*Updated Mon, 27 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/noyb/)*
+*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/noyb/)*

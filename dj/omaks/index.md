@@ -1,8 +1,8 @@
 # OMAKS
 
-OMAKS is a Techno and Hardcore artist with 5 upcoming club dates listed on soundcheck as of Mon, 27 Jul 2026, next at Foro EX Normandie, Mexico City on Fri, 7 Aug 2026.
+OMAKS is a Techno and Hardcore artist with 6 upcoming club dates listed on soundcheck as of Tue, 28 Jul 2026, next at Foro EX Normandie, Mexico City on Fri, 7 Aug 2026.
 
-OMAKS is a techno and hardcore artist tracked on soundcheck, with 134 sets logged across Amsterdam, Antwerp, Barcelona and Belgrade and 38 more. Often billed alongside LESSSS, Shlømo and Basswell. Next up: Foro EX Normandie, Mexicocity on Fri 7 Aug.
+OMAKS is a techno and hardcore artist tracked on soundcheck, with 135 sets logged across Amsterdam, Antwerp, Barcelona and Belgrade and 38 more. Often billed alongside LESSSS, Shlømo and Basswell. Next up: Foro EX Normandie, Mexicocity on Fri 7 Aug.
 
 ## Upcoming shows
 
@@ -12,6 +12,7 @@ OMAKS is a techno and hardcore artist tracked on soundcheck, with 134 sets logge
 | Sat, 8 Aug 2026 | TBA - Toronto | Toronto |
 | Sat, 15 Aug 2026 | Arts Club | Liverpool |
 | Sat, 15 Aug 2026 | Room 2 Glasgow | Glasgow |
+| Sat, 26 Sept 2026 | Theata | London |
 | Sat, 10 Oct 2026 | Plage Privée Parc de Miribel | Lyon |
 
 ## Recently played
@@ -29,4 +30,4 @@ OMAKS is a techno and hardcore artist tracked on soundcheck, with 134 sets logge
 
 LESSSS, Shlømo, Basswell
 
-*Updated Mon, 27 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/omaks/)*
+*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/omaks/)*

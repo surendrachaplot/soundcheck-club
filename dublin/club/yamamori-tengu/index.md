@@ -1,6 +1,6 @@
 # Yamamori Tengu
 
-Yamamori Tengu is a music venue in Dublin with 12 upcoming nights listed on soundcheck as of Mon, 27 Jul 2026; the next is "Sunburst Sound presents: DJ MARFOX [Príncipe Discos]" on Fri, 7 Aug 2026.
+Yamamori Tengu is a music venue in Dublin with 12 upcoming nights listed on soundcheck as of Tue, 28 Jul 2026; the next is "Sunburst Sound presents: DJ MARFOX [Príncipe Discos]" on Fri, 7 Aug 2026.
 
 Yamamori Tengu is a music venue in Dublin listed on soundcheck. 12 upcoming nights, with line-ups including ANNĒ, Benson, DIEBYVEG and DJ Get Luc(y) and 2 more. Browse upcoming dates, start times and who's playing. 37 Strand Street Great, North City, Dublin 1, Ireland.
 
@@ -23,4 +23,4 @@ Yamamori Tengu is a music venue in Dublin listed on soundcheck. 12 upcoming nigh
 
 37 Strand Street Great, North City, Dublin 1, Ireland, Dublin
 
-*Updated Mon, 27 Jul 2026 · source: [soundcheck](https://soundcheck.club/dublin/club/yamamori-tengu/)*
+*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dublin/club/yamamori-tengu/)*

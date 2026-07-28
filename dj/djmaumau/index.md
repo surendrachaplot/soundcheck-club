@@ -1,6 +1,6 @@
 # Dj Mau Mau
 
-Dj Mau Mau is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Mon, 27 Jul 2026, next at Cineclube Cortina, Sao Paulo on Sat, 1 Aug 2026.
+Dj Mau Mau is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Tue, 28 Jul 2026, next at Cineclube Cortina, Sao Paulo on Sat, 1 Aug 2026.
 
 Dj Mau Mau is a house and techno artist based in Brazil, tracked on soundcheck, with 31 sets logged across Saopaulo. Often billed alongside Anderson Noise, Angelica Moller and ANNYL. Next up: Cineclube Cortina, Saopaulo on Sat 1 Aug.
 
@@ -26,4 +26,4 @@ Dj Mau Mau is a house and techno artist based in Brazil, tracked on soundcheck, 
 
 Anderson Noise, Angelica Moller, ANNYL
 
-*Updated Mon, 27 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/djmaumau/)*
+*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/djmaumau/)*

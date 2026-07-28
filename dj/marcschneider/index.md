@@ -1,6 +1,6 @@
 # Marc Schneider
 
-Marc Schneider is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Mon, 27 Jul 2026, next at Garage Noord, Amsterdam on Sun, 9 Aug 2026.
+Marc Schneider is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Tue, 28 Jul 2026, next at Garage Noord, Amsterdam on Sun, 9 Aug 2026.
 
 Marc Schneider is a house and techno artist tracked on soundcheck, with 30 sets logged across Amsterdam, Berlin, Hamburg and Portland. Often billed alongside Karina Schneider, Meat and Barbara Preisinger. Next up: Garage Noord, Amsterdam on Sun 9 Aug.
 
@@ -26,4 +26,4 @@ Marc Schneider is a house and techno artist tracked on soundcheck, with 30 sets 
 
 Karina Schneider, Meat, Barbara Preisinger
 
-*Updated Mon, 27 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/marcschneider/)*
+*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/marcschneider/)*

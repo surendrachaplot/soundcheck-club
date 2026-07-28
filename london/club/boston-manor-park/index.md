@@ -1,6 +1,6 @@
 # Boston Manor Park
 
-Boston Manor Park is a music venue in London with 3 upcoming nights listed on soundcheck as of Mon, 27 Jul 2026; the next is "Junction 2: Mall Grab, Effy, Ross From Friends" on Fri, 31 Jul 2026.
+Boston Manor Park is a music venue in London with 3 upcoming nights listed on soundcheck as of Tue, 28 Jul 2026; the next is "Junction 2: Mall Grab, Effy, Ross From Friends" on Fri, 31 Jul 2026.
 
 Boston Manor Park is a music venue in London listed on soundcheck. 3 upcoming nights, with line-ups including Howling, Âme, AMMARA and Azyr and 2 more. Browse upcoming dates, start times and who's playing. Boston Manor Park, Brentford, TW8 9JX, London.
 
@@ -16,4 +16,4 @@ Boston Manor Park is a music venue in London listed on soundcheck. 3 upcoming ni
 
 Boston Manor Park, Brentford, TW8 9JX, London, London
 
-*Updated Mon, 27 Jul 2026 · source: [soundcheck](https://soundcheck.club/london/club/boston-manor-park/)*
+*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/london/club/boston-manor-park/)*

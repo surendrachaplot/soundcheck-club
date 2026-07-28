@@ -1,6 +1,6 @@
 # Brent Burns
 
-Brent Burns is a House and Balearic artist with 2 upcoming club dates listed on soundcheck as of Mon, 27 Jul 2026, next at Bar Temp., Bangkok on Fri, 31 Jul 2026.
+Brent Burns is a House and Balearic artist with 2 upcoming club dates listed on soundcheck as of Tue, 28 Jul 2026, next at Bar Temp., Bangkok on Fri, 31 Jul 2026.
 
 Brent Burns is a house and balearic artist tracked on soundcheck, with 74 sets logged across Bangkok, Budapest, Hongkong and Seoul and 2 more. Often billed alongside Seelie, Mumsfilibaba and Mr.Mowgli. Next up: Bar Temp., Bangkok on Fri 31 Jul.
 
@@ -26,4 +26,4 @@ Brent Burns is a house and balearic artist tracked on soundcheck, with 74 sets l
 
 Seelie, Mumsfilibaba, Mr.Mowgli
 
-*Updated Mon, 27 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/brentburns/)*
+*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/brentburns/)*

@@ -1,6 +1,6 @@
 # TBA - Downtown Los Angeles
 
-TBA - Downtown Los Angeles is a music venue in Los Angeles with 6 upcoming nights listed on soundcheck as of Mon, 27 Jul 2026; the next is "Certified Groovers with Demuir, Juliet Mendoza & More…" on Sat, 1 Aug 2026.
+TBA - Downtown Los Angeles is a music venue in Los Angeles with 6 upcoming nights listed on soundcheck as of Tue, 28 Jul 2026; the next is "Certified Groovers with Demuir, Juliet Mendoza & More…" on Sat, 1 Aug 2026.
 
 TBA - Downtown Los Angeles is a music venue in Losangeles listed on soundcheck. 6 upcoming nights, with line-ups including Demuir, DJ Sneak, Force Placement and Gene On Earth and 2 more. Browse upcoming dates, start times and who's playing.
 
@@ -15,4 +15,4 @@ TBA - Downtown Los Angeles is a music venue in Losangeles listed on soundcheck. 
 | Sat, 5 Sept 2026 | Certified Groovers: DJ Sneak [All night - Vinyl Set] | DJ Sneak |
 | Fri, 25 Sept 2026 | Certified Groovers: Gene On Earth in LA | Gene On Earth |
 
-*Updated Mon, 27 Jul 2026 · source: [soundcheck](https://soundcheck.club/losangeles/club/tba-downtown-los-angeles/)*
+*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/losangeles/club/tba-downtown-los-angeles/)*

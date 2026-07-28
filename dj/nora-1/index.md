@@ -1,6 +1,6 @@
 # NORA (BR)
 
-NORA (BR) is a Techno and House artist with 4 upcoming club dates listed on soundcheck as of Mon, 27 Jul 2026, next at Waterkant, Amsterdam on Fri, 31 Jul 2026.
+NORA (BR) is a Techno and House artist with 4 upcoming club dates listed on soundcheck as of Tue, 28 Jul 2026, next at Waterkant, Amsterdam on Fri, 31 Jul 2026.
 
 NORA (BR) is a techno and house artist tracked on soundcheck, with 32 sets logged across Amsterdam, Berlin, Brussels and Hamburg and 5 more. Often billed alongside IDLIBRA, BADSISTA and Coco Cobra. Next up: Waterkant, Amsterdam on Fri 31 Jul.
 
@@ -28,4 +28,4 @@ NORA (BR) is a techno and house artist tracked on soundcheck, with 32 sets logge
 
 IDLIBRA, BADSISTA, Coco Cobra
 
-*Updated Mon, 27 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/nora-1/)*
+*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/nora-1/)*

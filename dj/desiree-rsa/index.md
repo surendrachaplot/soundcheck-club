@@ -1,14 +1,13 @@
 # DESIREE (RSA)
 
-DESIREE (RSA) is a House and Techno artist with 8 upcoming club dates listed on soundcheck as of Mon, 27 Jul 2026, next at DC-10, Ibiza on Mon, 27 Jul 2026.
+DESIREE (RSA) is a House and Techno artist with 7 upcoming club dates listed on soundcheck as of Tue, 28 Jul 2026, next at Galopprennbahn, Munich on Sat, 1 Aug 2026.
 
-DESIREE (RSA) is a house and techno artist tracked on soundcheck, with 113 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 38 more. Often billed alongside Sossa, Âme and Carlita. Next up: DC-10, Ibiza on Mon 27 Jul.
+DESIREE (RSA) is a house and techno artist tracked on soundcheck, with 113 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 38 more. Often billed alongside Sossa, Âme and Carlita. Next up: Galopprennbahn, Munich on Sat 1 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Mon, 27 Jul 2026 | DC-10 | Ibiza |
 | Sat, 1 Aug 2026 | Galopprennbahn | Munich |
 | Mon, 24 Aug 2026 | DC-10 | Ibiza |
 | Sat, 12 Sept 2026 | Lula Club | Madrid |
@@ -19,6 +18,7 @@ DESIREE (RSA) is a house and techno artist tracked on soundcheck, with 113 sets 
 
 ## Recently played
 
+- DC-10, Ibiza — Mon, 27 Jul 2026
 - Club Space Miami, Miami — Sat, 25 Jul 2026
 - Knockdown Center, New York City — Sat, 18 Jul 2026
 - Union Park, Chicago — Fri, 17 Jul 2026
@@ -26,10 +26,9 @@ DESIREE (RSA) is a house and techno artist tracked on soundcheck, with 113 sets 
 - DC-10, Ibiza — Mon, 1 Jun 2026
 - Peckham Rye Park, London — Fri, 22 May 2026
 - UNLOCKED, London — Fri, 22 May 2026
-- Uto Kulm, Zurich — Sat, 16 May 2026
 
 ## Shares bills with
 
 Sossa, Âme, Carlita
 
-*Updated Mon, 27 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/desiree-rsa/)*
+*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/desiree-rsa/)*

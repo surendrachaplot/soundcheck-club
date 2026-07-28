@@ -1,6 +1,6 @@
 # Else
 
-Else is a music venue in Berlin with 23 upcoming nights listed on soundcheck as of Mon, 27 Jul 2026; the next is "AOS W/ Egyptian Lover, X-Coast, DJ MELL G, DJ Spit, 3LNA, Stef de Haan & MANY MORE" on Fri, 31 Jul 2026.
+Else is a music venue in Berlin with 23 upcoming nights listed on soundcheck as of Tue, 28 Jul 2026; the next is "AOS W/ Egyptian Lover, X-Coast, DJ MELL G, DJ Spit, 3LNA, Stef de Haan & MANY MORE" on Fri, 31 Jul 2026.
 
 Else is a music venue in Berlin listed on soundcheck. 23 upcoming nights, with line-ups including 3LNA, AgainstMe, ain't Marco and ALCATRAZ and 2 more. Browse upcoming dates, start times and who's playing. An den Treptowers 10, 12435 Berlin.
 
@@ -23,4 +23,4 @@ Else is a music venue in Berlin listed on soundcheck. 23 upcoming nights, with l
 
 An den Treptowers 10, 12435 Berlin, Berlin
 
-*Updated Mon, 27 Jul 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/else/)*
+*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/else/)*

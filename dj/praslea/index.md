@@ -1,6 +1,6 @@
 # Praslea
 
-Praslea is a Minimal and House artist with 4 upcoming club dates listed on soundcheck as of Mon, 27 Jul 2026, next at Hola Club Sitges (Cala Vallcarca), Barcelona on Sat, 1 Aug 2026.
+Praslea is a Minimal and House artist with 4 upcoming club dates listed on soundcheck as of Tue, 28 Jul 2026, next at Hola Club Sitges (Cala Vallcarca), Barcelona on Sat, 1 Aug 2026.
 
 Praslea is a minimal and house artist tracked on soundcheck, with 93 sets logged across Amsterdam, Antwerp, Barcelona and Berlin and 21 more. Often billed alongside Raresh, CEZAR and Traumer. Next up: Hola Club Sitges (Cala Vallcarca), Barcelona on Sat 1 Aug.
 
@@ -28,4 +28,4 @@ Praslea is a minimal and house artist tracked on soundcheck, with 93 sets logged
 
 Raresh, CEZAR, Traumer
 
-*Updated Mon, 27 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/praslea/)*
+*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/praslea/)*

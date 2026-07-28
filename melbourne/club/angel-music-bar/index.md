@@ -1,6 +1,6 @@
 # Angel Music Bar
 
-Angel Music Bar is a music venue in Melbourne with 6 upcoming nights listed on soundcheck as of Mon, 27 Jul 2026; the next is "de cleurb x Curio Collective" on Thu, 30 Jul 2026.
+Angel Music Bar is a music venue in Melbourne with 6 upcoming nights listed on soundcheck as of Tue, 28 Jul 2026; the next is "de cleurb x Curio Collective" on Thu, 30 Jul 2026.
 
 Angel Music Bar is a music venue in Melbourne listed on soundcheck. 6 upcoming nights, with line-ups including Aaliyah Salem, b. caszh, Brown Suga Princess and Chino and 2 more. Browse upcoming dates, start times and who's playing. 12 Bourke Street Melbourne, Victoria, Australia.
 
@@ -19,4 +19,4 @@ Angel Music Bar is a music venue in Melbourne listed on soundcheck. 6 upcoming n
 
 12 Bourke Street Melbourne, Victoria, Australia, Melbourne
 
-*Updated Mon, 27 Jul 2026 · source: [soundcheck](https://soundcheck.club/melbourne/club/angel-music-bar/)*
+*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/melbourne/club/angel-music-bar/)*

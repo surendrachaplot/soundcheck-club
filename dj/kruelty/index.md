@@ -1,8 +1,8 @@
 # KRUELTY
 
-KRUELTY is a Techno and Hardcore artist with 5 upcoming club dates listed on soundcheck as of Mon, 27 Jul 2026, next at Bowlers Exhibition Centre, Manchester on Sat, 1 Aug 2026.
+KRUELTY is a Techno and Hardcore artist with 6 upcoming club dates listed on soundcheck as of Tue, 28 Jul 2026, next at Bowlers Exhibition Centre, Manchester on Sat, 1 Aug 2026.
 
-KRUELTY is a techno and hardcore artist based in Netherlands, tracked on soundcheck, with 70 sets logged across Amsterdam, Antwerp, Barcelona and Belfast and 27 more. Often billed alongside KLOFAMA, KARAH and SLVL. Next up: Bowlers Exhibition Centre, Manchester on Sat 1 Aug.
+KRUELTY is a techno and hardcore artist based in Netherlands, tracked on soundcheck, with 71 sets logged across Amsterdam, Antwerp, Barcelona and Belfast and 27 more. Often billed alongside KLOFAMA, KARAH and SLVL. Next up: Bowlers Exhibition Centre, Manchester on Sat 1 Aug.
 
 ## Upcoming shows
 
@@ -13,6 +13,7 @@ KRUELTY is a techno and hardcore artist based in Netherlands, tracked on soundch
 | Fri, 14 Aug 2026 | Airport Würzburg | Nürnberg |
 | Sat, 22 Aug 2026 | H7 Warehouse | Amsterdam |
 | Sun, 6 Sept 2026 | Brooklyn Storehouse | New York City |
+| Sat, 10 Oct 2026 | The Telegraph Building | Belfast |
 
 ## Recently played
 
@@ -29,4 +30,4 @@ KRUELTY is a techno and hardcore artist based in Netherlands, tracked on soundch
 
 KLOFAMA, KARAH, SLVL
 
-*Updated Mon, 27 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/kruelty/)*
+*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/kruelty/)*

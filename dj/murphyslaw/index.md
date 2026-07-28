@@ -1,6 +1,6 @@
 # Murphy's Law
 
-Murphy's Law is a House and Tech House artist with 3 upcoming club dates listed on soundcheck as of Mon, 27 Jul 2026, next at [UNVRS], Ibiza on Wed, 9 Sept 2026.
+Murphy's Law is a House and Tech House artist with 3 upcoming club dates listed on soundcheck as of Tue, 28 Jul 2026, next at [UNVRS], Ibiza on Wed, 9 Sept 2026.
 
 Murphy's Law is a house and tech house artist tracked on soundcheck, with 67 sets logged across Auckland, Austin, Brighton and Brisbane and 21 more. Often billed alongside RUZE, Darius Syrossian and Enzo is Burning. Next up: [UNVRS], Ibiza on Wed 9 Sept.
 
@@ -27,4 +27,4 @@ Murphy's Law is a house and tech house artist tracked on soundcheck, with 67 set
 
 RUZE, Darius Syrossian, Enzo is Burning
 
-*Updated Mon, 27 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/murphyslaw/)*
+*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/murphyslaw/)*

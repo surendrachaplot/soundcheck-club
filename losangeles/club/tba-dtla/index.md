@@ -1,14 +1,14 @@
 # TBA - DTLA
 
-TBA - DTLA is a music venue in Los Angeles with 9 upcoming nights listed on soundcheck as of Mon, 27 Jul 2026; the next is "CLUB PIVETE" on Sat, 1 Aug 2026.
+TBA - DTLA is a music venue in Los Angeles with 9 upcoming nights listed on soundcheck as of Tue, 28 Jul 2026; the next is "CLUB PIVETE" on Sat, 1 Aug 2026.
 
-TBA - DTLA is a music venue in Losangeles listed on soundcheck. 9 upcoming nights, with line-ups including Alxander Ivey, Daphni, deesco and DJ Perception and 2 more. Browse upcoming dates, start times and who's playing.
+TBA - DTLA is a music venue in Losangeles listed on soundcheck. 9 upcoming nights, with line-ups including Alxander Ivey, Bianca Oblivion, Daphni and deesco and 2 more. Browse upcoming dates, start times and who's playing.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Sat, 1 Aug 2026 | CLUB PIVETE |  |
+| Sat, 1 Aug 2026 | CLUB PIVETE | Bianca Oblivion, VICTORIA MOURA, felipe d |
 | Sat, 1 Aug 2026 | REVOLUTION 909 |  |
 | Sun, 2 Aug 2026 | CLOSER x TECHTONIK present THERMAL with KX CHR | KX CHR, Nina J, nat the f*kn rat |
 | Sun, 9 Aug 2026 | Dialogue: Shonky (extended set) - Day Party | Enzo Muro, Lubelski, Shonky, Silky |
@@ -18,4 +18,4 @@ TBA - DTLA is a music venue in Losangeles listed on soundcheck. 9 upcoming night
 | Sat, 19 Sept 2026 | IN BETWEEN: Secret Guests TBA |  |
 | Fri, 25 Sept 2026 | Wellness Check presents: Daphni (All Night) | Daphni |
 
-*Updated Mon, 27 Jul 2026 · source: [soundcheck](https://soundcheck.club/losangeles/club/tba-dtla/)*
+*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/losangeles/club/tba-dtla/)*

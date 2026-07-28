@@ -1,6 +1,6 @@
 # Switch Bar
 
-Switch Bar is a music venue in Barcelona with 5 upcoming nights listed on soundcheck as of Mon, 27 Jul 2026; the next is "MOP (Live) + Vultur" on Wed, 29 Jul 2026.
+Switch Bar is a music venue in Barcelona with 5 upcoming nights listed on soundcheck as of Tue, 28 Jul 2026; the next is "MOP (Live) + Vultur" on Wed, 29 Jul 2026.
 
 Switch Bar is a music venue in Barcelona listed on soundcheck. 5 upcoming nights, with line-ups including Alessa (ES), Edu C, LeMichael and NOBODYISALICE and 1 more. Browse upcoming dates, start times and who's playing. Carrer Francisco Giner, 24, 08012 Barcelona, Spain.
 
@@ -18,4 +18,4 @@ Switch Bar is a music venue in Barcelona listed on soundcheck. 5 upcoming nights
 
 Carrer Francisco Giner, 24, 08012 Barcelona, Spain, Barcelona
 
-*Updated Mon, 27 Jul 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/switch-bar/)*
+*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/switch-bar/)*

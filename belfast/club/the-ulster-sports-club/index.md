@@ -1,8 +1,8 @@
 # The Ulster Sports Club
 
-The Ulster Sports Club is a music venue in Belfast with 9 upcoming nights listed on soundcheck as of Mon, 27 Jul 2026; the next is "head above water // Welcomes Timmy Stewart" on Fri, 31 Jul 2026.
+The Ulster Sports Club is a music venue in Belfast with 11 upcoming nights listed on soundcheck as of Tue, 28 Jul 2026; the next is "head above water // Welcomes Timmy Stewart" on Fri, 31 Jul 2026.
 
-The Ulster Sports Club is a music venue in Belfast listed on soundcheck. 9 upcoming nights, with line-ups including Adam Munn, Blark, brawni and ByPhil and 2 more. Browse upcoming dates, start times and who's playing. The Ulster Sports Club 98 High St, Belfast BT1 2BE, Northern Ireland, United Kingdom.
+The Ulster Sports Club is a music venue in Belfast listed on soundcheck. 11 upcoming nights, with line-ups including Adam Munn, Blark, brawni and ByPhil and 2 more. Browse upcoming dates, start times and who's playing. The Ulster Sports Club 98 High St, Belfast BT1 2BE, Northern Ireland, United Kingdom.
 
 ## What's on
 
@@ -13,6 +13,7 @@ The Ulster Sports Club is a music venue in Belfast listed on soundcheck. 9 upcom
 | Sat, 1 Aug 2026 | Social Sounds: Hannah B2B Sophie All Night Long  | Hannah (1), Sophie (2) |
 | Fri, 7 Aug 2026 | Plain Sailing's Irish B2B Special | Matcha, Matheson, Plain Sailing DJs, Reger, Rhyzine, Sahana, brawni |
 | Sat, 8 Aug 2026 | Félíneach W/ Conor Schmtz & Matcha | Conor Schmtz, Matcha |
+| Fri, 21 Aug 2026 | TUUUNEz.INC PRES. HAPPY MUSIC |  |
 | Sat, 22 Aug 2026 | Crilli DNB presents Toby Ross (Shall Not Fade- Bristol) |  |
 | Sat, 29 Aug 2026 | Awesome Soundwave Live presents Phil Kieran Live @USC | Christopher Coe, Phil Kieran, Sturge |
 | Fri, 4 Sept 2026 | Coda 022: CRAVO | Adam Munn, Blark, CRAVO, Cricky Lyttle |
@@ -22,4 +23,4 @@ The Ulster Sports Club is a music venue in Belfast listed on soundcheck. 9 upcom
 
 The Ulster Sports Club 98 High St, Belfast BT1 2BE, Northern Ireland, United Kingdom, Belfast
 
-*Updated Mon, 27 Jul 2026 · source: [soundcheck](https://soundcheck.club/belfast/club/the-ulster-sports-club/)*
+*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/belfast/club/the-ulster-sports-club/)*

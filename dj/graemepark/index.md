@@ -1,6 +1,6 @@
 # Graeme Park
 
-Graeme Park is a House and Club artist with 3 upcoming club dates listed on soundcheck as of Mon, 27 Jul 2026, next at 528 Ibiza, Ibiza on Thu, 30 Jul 2026.
+Graeme Park is a House and Club artist with 3 upcoming club dates listed on soundcheck as of Tue, 28 Jul 2026, next at 528 Ibiza, Ibiza on Thu, 30 Jul 2026.
 
 Graeme Park is a house and club artist based in United Kingdom, tracked on soundcheck, with 41 sets logged across Aberdeen, Bristol, Dublin and Edinburgh and 9 more. Often billed alongside DJ Paulette, Greg Wilson and David Morales. Next up: 528 Ibiza, Ibiza on Thu 30 Jul.
 
@@ -27,4 +27,4 @@ Graeme Park is a house and club artist based in United Kingdom, tracked on sound
 
 DJ Paulette, Greg Wilson, David Morales
 
-*Updated Mon, 27 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/graemepark/)*
+*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/graemepark/)*

@@ -1,14 +1,13 @@
 # DJ Tennis
 
-DJ Tennis is a House and Techno artist with 10 upcoming club dates listed on soundcheck as of Mon, 27 Jul 2026, next at Santanna Mykonos, Mykonos on Mon, 27 Jul 2026.
+DJ Tennis is a House and Techno artist with 9 upcoming club dates listed on soundcheck as of Tue, 28 Jul 2026, next at Seehaus Hamburg, Hamburg on Wed, 29 Jul 2026.
 
-DJ Tennis is a house and techno artist tracked on soundcheck, with 290 sets logged across Amsterdam, Antwerp, Austin and Bali and 54 more. Often billed alongside Carlita, Seth Troxler and Chloé Caillet. Next up: Santanna Mykonos, Mykonos on Mon 27 Jul.
+DJ Tennis is a house and techno artist tracked on soundcheck, with 290 sets logged across Amsterdam, Antwerp, Austin and Bali and 54 more. Often billed alongside Carlita, Seth Troxler and Chloé Caillet. Next up: Seehaus Hamburg, Hamburg on Wed 29 Jul.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Mon, 27 Jul 2026 | Santanna Mykonos | Mykonos |
 | Wed, 29 Jul 2026 | Seehaus Hamburg | Hamburg |
 | Sat, 1 Aug 2026 | Hangaren | Copenhagen |
 | Sun, 2 Aug 2026 | W Barcelona | Barcelona |
@@ -21,6 +20,7 @@ DJ Tennis is a house and techno artist tracked on soundcheck, with 290 sets logg
 
 ## Recently played
 
+- Santanna Mykonos, Mykonos — Mon, 27 Jul 2026
 - Chinois Ibiza, Ibiza — Sun, 26 Jul 2026
 - Antonioli Hangar, Ibiza — Sun, 26 Jul 2026
 - TBA - Pferdesport Pfannenstiel Meilen, Zurich — Sat, 11 Jul 2026
@@ -28,10 +28,9 @@ DJ Tennis is a house and techno artist tracked on soundcheck, with 290 sets logg
 - Parco Dora, Turin — Fri, 3 Jul 2026
 - TBA - Castello di Rivoli - Museo di Arte Contemporanea, Turin — Thu, 2 Jul 2026
 - Parque de Enrique Tierno Galván, Madrid — Sun, 28 Jun 2026
-- The Bassement, Madrid — Sun, 28 Jun 2026
 
 ## Shares bills with
 
 Carlita, Seth Troxler, Chloé Caillet
 
-*Updated Mon, 27 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/djtennis/)*
+*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/djtennis/)*

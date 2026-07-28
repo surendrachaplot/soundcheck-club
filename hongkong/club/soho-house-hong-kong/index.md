@@ -1,6 +1,6 @@
 # Soho House Hong Kong
 
-Soho House Hong Kong is a music venue in Hong Kong with 2 upcoming nights listed on soundcheck as of Mon, 27 Jul 2026; the next is "Secret Lineup" on Sat, 1 Aug 2026.
+Soho House Hong Kong is a music venue in Hong Kong with 2 upcoming nights listed on soundcheck as of Tue, 28 Jul 2026; the next is "Secret Lineup" on Sat, 1 Aug 2026.
 
 Soho House Hong Kong is a music venue in Hongkong listed on soundcheck. 2 upcoming nights, with line-ups including LB aka LABAT and Oscar Days. Browse upcoming dates, start times and who's playing. 33 Des Voeux Rd W, Sheung Wan.
 
@@ -15,4 +15,4 @@ Soho House Hong Kong is a music venue in Hongkong listed on soundcheck. 2 upcomi
 
 33 Des Voeux Rd W, Sheung Wan, Hong Kong
 
-*Updated Mon, 27 Jul 2026 · source: [soundcheck](https://soundcheck.club/hongkong/club/soho-house-hong-kong/)*
+*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/hongkong/club/soho-house-hong-kong/)*

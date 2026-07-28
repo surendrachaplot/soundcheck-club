@@ -1,6 +1,6 @@
 # Haus der Visionäre
 
-Haus der Visionäre is a music venue in Berlin with 8 upcoming nights listed on soundcheck as of Mon, 27 Jul 2026; the next is "T4T LUV NRG x Haus der Visionäre" on Sun, 9 Aug 2026.
+Haus der Visionäre is a music venue in Berlin with 8 upcoming nights listed on soundcheck as of Tue, 28 Jul 2026; the next is "T4T LUV NRG x Haus der Visionäre" on Sun, 9 Aug 2026.
 
 Haus der Visionäre is a music venue in Berlin listed on soundcheck. 8 upcoming nights, with line-ups including ābnamā, Alexander Skancke, Amir Alexander and Anahita Sadighi and 2 more. Browse upcoming dates, start times and who's playing. Eichenstr. 4a, 12435 Berlin.
 
@@ -21,4 +21,4 @@ Haus der Visionäre is a music venue in Berlin listed on soundcheck. 8 upcoming 
 
 Eichenstr. 4a, 12435 Berlin, Berlin
 
-*Updated Mon, 27 Jul 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/haus-der-vision-re/)*
+*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/haus-der-vision-re/)*

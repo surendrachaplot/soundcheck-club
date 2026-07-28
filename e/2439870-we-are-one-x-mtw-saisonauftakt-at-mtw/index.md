@@ -1,11 +1,17 @@
 # WE ARE ONE x MTW – Saisonauftakt at MTW
 
-WE ARE ONE x MTW – Saisonauftakt on Sat 15 Aug, Frankfurt. Trance and Techno. Preview the line-up and save it on soundcheck.
+WE ARE ONE x MTW – Saisonauftakt on Sat 15 Aug, Frankfurt. 3 acts on the bill: ANN-LUX, CiKi and Kacy. Trance and Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
 | Date | Sat, 15 Aug 2026 |
 | Venue | MTW |
 | City | Frankfurt |
+
+## Line-up
+
+- ANN-LUX
+- CiKi
+- Kacy
 
 *Source: [soundcheck](https://soundcheck.club/e/2439870-we-are-one-x-mtw-saisonauftakt-at-mtw/)*
