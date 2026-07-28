@@ -1,6 +1,6 @@
 # Zug der Liebe (Afterparty) at Ritter Butzke
 
-Zug der Liebe (Afterparty) at Ritter Butzke on Sat 29 Aug, Berlin. 15 acts on the bill: Antic Soul, Asem Shama, Blame the Booker and Diskosport and 11 more. Techno. Preview the line-up and save it on soundcheck.
+Zug der Liebe (Afterparty) at Ritter Butzke on Sat 29 Aug, Berlin. 16 acts on the bill: Antic Soul, Asem Shama, Blame the Booker and Diskosport and 12 more. Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -24,6 +24,7 @@ Zug der Liebe (Afterparty) at Ritter Butzke on Sat 29 Aug, Berlin. 15 acts on th
 - Morelia
 - Phonique
 - Raj el Rey
+- Tiefundton
 - Trancy Chatman
 
 *Source: [soundcheck](https://soundcheck.club/e/2490687-zug-der-liebe-afterparty-at-ritter-butzke/)*

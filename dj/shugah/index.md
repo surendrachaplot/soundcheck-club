@@ -1,13 +1,14 @@
 # Shugah
 
-Shugah is a Techno and Industrial artist with 1 upcoming club date listed on soundcheck as of Tue, 28 Jul 2026, next at The Cause, London on Fri, 11 Sept 2026.
+Shugah is a Techno and Industrial artist with 2 upcoming club dates listed on soundcheck as of Tue, 28 Jul 2026, next at TBA - Venue MOT, London on Fri, 21 Aug 2026.
 
-Shugah is a techno and industrial artist based in Lithuania, tracked on soundcheck, with 11 sets logged across London and Madrid. Often billed alongside Labåzuy, Diana Bravo and JAWS. Next up: The Cause, London on Fri 11 Sept.
+Shugah is a techno and industrial artist based in Lithuania, tracked on soundcheck, with 12 sets logged across London and Madrid. Often billed alongside Labåzuy, Diana Bravo and JAWS. Next up: TBA - Venue MOT, London on Fri 21 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 21 Aug 2026 | TBA - Venue MOT | London |
 | Fri, 11 Sept 2026 | The Cause | London |
 
 ## Recently played

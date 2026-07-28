@@ -1,14 +1,15 @@
 # Robin Flux
 
-Robin Flux is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Tue, 28 Jul 2026, next at Golden Pudel Club, Hamburg on Sat, 1 Aug 2026.
+Robin Flux is a House and Techno artist with 4 upcoming club dates listed on soundcheck as of Tue, 28 Jul 2026, next at Golden Pudel Club, Hamburg on Sat, 1 Aug 2026.
 
-Robin Flux is a house and techno artist based in Germany, tracked on soundcheck, with 91 sets logged across Berlin, Cologne, Copenhagen and Detroit and 8 more. Often billed alongside DJ LoveCatt, Mari to the future and materia hache. Next up: Golden Pudel Club, Hamburg on Sat 1 Aug.
+Robin Flux is a house and techno artist based in Germany, tracked on soundcheck, with 92 sets logged across Amsterdam, Berlin, Cologne and Copenhagen and 9 more. Often billed alongside DJ LoveCatt, Mari to the future and materia hache. Next up: Golden Pudel Club, Hamburg on Sat 1 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 1 Aug 2026 | Golden Pudel Club | Hamburg |
+| Fri, 7 Aug 2026 | TILLATEC | Amsterdam |
 | Sat, 22 Aug 2026 | Marmorbar | Berlin |
 | Fri, 28 Aug 2026 | Kater | Berlin |
 

@@ -10,7 +10,7 @@
 | --- | --- | --- |
 | Tue, 28 Jul 2026 | ://sektgarten x Eva invites Aber DJ x Brandenburg Abend [free entry & open air] | Aber DJ, eva h. |
 | Wed, 29 Jul 2026 | ://sektgarten x tech punk, freak ass e mit Lesung [free entry & open air] | FreakAssE |
-| Thu, 30 Jul 2026 | DIFFUSE REALITY pres. Recondite [Live] | ELLA WAX, Juan Cernadas, Nina de Koning, Recondite, Schwarzmalerei, Squaric |
+| Thu, 30 Jul 2026 | DIFFUSE REALITY pres. Recondite [Live] | ELLA WAX, Juan Cernadas, Nina de Koning, Recondite, Schwarzmalerei, Squaric, Stereo (2) |
 | Thu, 30 Jul 2026 | ://sektgarten x diffuse reality [free entry & open air] | Josefina Tapia, Ludwig Mausberg, Mosh Project, Squaric |
 | Fri, 31 Jul 2026 | Unterm Techno liegt der Punk | Domovnika, FERRØMANCY, Hypermobil, K1KO, Karina Qanir, Kwaint, Lithium (2), Trancy Chatman, alemiko, r:xn |
 | Sat, 1 Aug 2026 | Blank Holidays Festival Weekender  | Aimé You, Alex.Do, Alienata, An On Bast, André Galluzzi, Anja Schneider, Anja Zaube, Barbara Hofmann, Biesmans, CHOREOPHILA, DJ Eivissa, Diwa, Hanna Baertig, Iron Curtis, Jessamine, Joel Mull, Kwaint, LUISELLE, Lydia Eisenblätter, Michael Mayer, Rosa Kante, Shubostar, Sportbrigade Sparwasser, Wasn & Wunderwaffel, eva h. |

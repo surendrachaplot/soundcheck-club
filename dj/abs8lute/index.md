@@ -1,8 +1,8 @@
 # abs8lute
 
-abs8lute is a Techno and Electro artist with 2 upcoming club dates listed on soundcheck as of Tue, 28 Jul 2026, next at Virage, Paris on Sat, 1 Aug 2026.
+abs8lute is a Techno and Electro artist with 3 upcoming club dates listed on soundcheck as of Tue, 28 Jul 2026, next at Virage, Paris on Sat, 1 Aug 2026.
 
-abs8lute is a techno and electro artist based in France, tracked on soundcheck, with 92 sets logged across Amsterdam, Athens, Barcelona and Berlin and 12 more. Often billed alongside Lea Occhi, Beste Hira and Fadi Mohem. Next up: Virage, Paris on Sat 1 Aug.
+abs8lute is a techno and electro artist based in France, tracked on soundcheck, with 93 sets logged across Amsterdam, Athens, Barcelona and Berlin and 12 more. Often billed alongside Fadi Mohem, Lea Occhi and Beste Hira. Next up: Virage, Paris on Sat 1 Aug.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ abs8lute is a techno and electro artist based in France, tracked on soundcheck, 
 | --- | --- | --- |
 | Sat, 1 Aug 2026 | Virage | Paris |
 | Fri, 14 Aug 2026 | TBA - Klingemühle | Berlin |
+| Fri, 18 Sept 2026 | Fvtvr | Paris |
 
 ## Recently played
 
@@ -24,6 +25,6 @@ abs8lute is a techno and electro artist based in France, tracked on soundcheck, 
 
 ## Shares bills with
 
-Lea Occhi, Beste Hira, Fadi Mohem
+Fadi Mohem, Lea Occhi, Beste Hira
 
 *Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/abs8lute/)*

@@ -1,14 +1,14 @@
 # Rheindaaa
 
-Rheindaaa is a Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 28 Jul 2026, next at Void Hall, Berlin on Fri, 31 Jul 2026.
+Rheindaaa is a Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 28 Jul 2026, next at Void Club, Berlin on Fri, 31 Jul 2026.
 
-Rheindaaa is a techno artist based in Germany, tracked on soundcheck, with 2 sets logged across Berlin. Often billed alongside EZA (DE), MILANCHOLIE and e.leptic. Next up: Void Hall, Berlin on Fri 31 Jul.
+Rheindaaa is a techno artist based in Germany, tracked on soundcheck, with 2 sets logged across Berlin. Often billed alongside EZA (DE), MILANCHOLIE and e.leptic. Next up: Void Club, Berlin on Fri 31 Jul.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 31 Jul 2026 | Void Hall | Berlin |
+| Fri, 31 Jul 2026 | Void Club | Berlin |
 
 ## Recently played
 

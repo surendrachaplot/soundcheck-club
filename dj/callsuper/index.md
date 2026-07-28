@@ -1,8 +1,8 @@
 # Call Super
 
-Call Super is a Techno and House artist with 12 upcoming club dates listed on soundcheck as of Tue, 28 Jul 2026, next at Amsterdamse Bos, Amsterdam on Wed, 29 Jul 2026.
+Call Super is a Techno and House artist with 13 upcoming club dates listed on soundcheck as of Tue, 28 Jul 2026, next at Amsterdamse Bos, Amsterdam on Wed, 29 Jul 2026.
 
-Call Super is a techno and house artist tracked on soundcheck, with 205 sets logged across Amsterdam, Antwerp, Bali and Barcelona and 61 more. Often billed alongside Anz, Shanti Celeste and Objekt. Next up: Amsterdamse Bos, Amsterdam on Wed 29 Jul.
+Call Super is a techno and house artist tracked on soundcheck, with 206 sets logged across Amsterdam, Antwerp, Bali and Barcelona and 61 more. Often billed alongside Anz, Shanti Celeste and Objekt. Next up: Amsterdamse Bos, Amsterdam on Wed 29 Jul.
 
 ## Upcoming shows
 
@@ -16,10 +16,10 @@ Call Super is a techno and house artist tracked on soundcheck, with 205 sets log
 | Sat, 12 Sept 2026 | The Cause | London |
 | Thu, 17 Sept 2026 | UNO MALTA | Malta |
 | Fri, 18 Sept 2026 | UNO MALTA | Malta |
+| Fri, 18 Sept 2026 | Fvtvr | Paris |
 | Sat, 26 Sept 2026 | The White Hotel | Manchester |
 | Sat, 3 Oct 2026 | Sidney Myer Music Bowl | Melbourne |
 | Sun, 4 Oct 2026 | Cockatoo Island | Sydney |
-| Sat, 24 Oct 2026 | Het Rijk van de Keizer | Amsterdam |
 
 ## Recently played
 

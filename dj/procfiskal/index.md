@@ -1,13 +1,14 @@
 # Proc Fiskal
 
-Proc Fiskal is a Experimental and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 28 Jul 2026, next at OIL Club, Shenzhen on Sat, 12 Sept 2026.
+Proc Fiskal is a Experimental and Techno artist with 2 upcoming club dates listed on soundcheck as of Tue, 28 Jul 2026, next at Panke, Berlin on Sat, 29 Aug 2026.
 
-Proc Fiskal is an experimental and techno artist based in United Kingdom, tracked on soundcheck, with 56 sets logged across Amsterdam, Barcelona, Berlin and Bristol and 12 more. Often billed alongside Creep Woland, Ship Sket and Feena. Next up: OIL Club, Shenzhen on Sat 12 Sept.
+Proc Fiskal is an experimental and techno artist based in United Kingdom, tracked on soundcheck, with 57 sets logged across Amsterdam, Barcelona, Berlin and Bristol and 12 more. Often billed alongside Creep Woland, Ship Sket and Feena. Next up: Panke, Berlin on Sat 29 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 29 Aug 2026 | Panke | Berlin |
 | Sat, 12 Sept 2026 | OIL Club | Shenzhen |
 
 ## Recently played

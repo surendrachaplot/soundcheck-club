@@ -1,13 +1,14 @@
 # Lazercat
 
-Lazercat is a Electro and Acid artist with 2 upcoming club dates listed on soundcheck as of Tue, 28 Jul 2026, next at Sameheads, Berlin on Sat, 5 Sept 2026.
+Lazercat is a Electro and Acid artist with 3 upcoming club dates listed on soundcheck as of Tue, 28 Jul 2026, next at Bar Neun, Berlin on Fri, 14 Aug 2026.
 
-Lazercat is an electro and acid artist based in Canada, tracked on soundcheck, with 24 sets logged across Berlin, Leipzig, Newyorkcity and Seattle and 1 more. Often billed alongside Naks, I-F and Benji DF. Next up: Sameheads, Berlin on Sat 5 Sept.
+Lazercat is an electro and acid artist based in Canada, tracked on soundcheck, with 25 sets logged across Berlin, Leipzig, Newyorkcity and Seattle and 1 more. Often billed alongside Naks, I-F and Benji DF. Next up: Bar Neun, Berlin on Fri 14 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 14 Aug 2026 | Bar Neun | Berlin |
 | Sat, 5 Sept 2026 | Sameheads | Berlin |
 | Sat, 5 Sept 2026 | Sameheads | Berlin |
 

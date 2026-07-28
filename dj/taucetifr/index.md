@@ -1,8 +1,8 @@
 # Tauceti (FR)
 
-Tauceti (FR) is a Techno and Experimental artist with 2 upcoming club dates listed on soundcheck as of Tue, 28 Jul 2026, next at TBA - Los Angeles (Warehouse), Los Angeles on Fri, 7 Aug 2026.
+Tauceti (FR) is a Techno and Experimental artist with 3 upcoming club dates listed on soundcheck as of Tue, 28 Jul 2026, next at TBA - Los Angeles (Warehouse), Los Angeles on Fri, 7 Aug 2026.
 
-Tauceti (FR) is a techno and experimental artist tracked on soundcheck, with 66 sets logged across Amsterdam, Barcelona, Belgrade and Berlin and 20 more. Often billed alongside Tommy Four Seven, Kangding Ray and Ben Klock. Next up: TBA - Los Angeles (Warehouse), Losangeles on Fri 7 Aug.
+Tauceti (FR) is a techno and experimental artist tracked on soundcheck, with 67 sets logged across Amsterdam, Barcelona, Belgrade and Berlin and 20 more. Often billed alongside Tommy Four Seven, Kangding Ray and Psyk. Next up: TBA - Los Angeles (Warehouse), Losangeles on Fri 7 Aug.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Tauceti (FR) is a techno and experimental artist tracked on soundcheck, with 66 
 | --- | --- | --- |
 | Fri, 7 Aug 2026 | TBA - Los Angeles (Warehouse) | Los Angeles |
 | Sat, 15 Aug 2026 | Lofi | Amsterdam |
+| Fri, 18 Sept 2026 | Fvtvr | Paris |
 
 ## Recently played
 
@@ -24,6 +25,6 @@ Tauceti (FR) is a techno and experimental artist tracked on soundcheck, with 66 
 
 ## Shares bills with
 
-Tommy Four Seven, Kangding Ray, Ben Klock
+Tommy Four Seven, Kangding Ray, Psyk
 
 *Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/taucetifr/)*

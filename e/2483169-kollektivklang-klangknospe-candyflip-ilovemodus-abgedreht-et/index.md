@@ -1,11 +1,11 @@
-# KollektivKlang - KlangKnospe - Candyflip - IloveModus - Abgedreht - Eternity - R3M - Lerm at Void Hall
+# KollektivKlang - KlangKnospe - Candyflip - IloveModus - Abgedreht - Eternity - R3M - Lerm at Void Club
 
-KollektivKlang - KlangKnospe - Candyflip - IloveModus - Abgedreht - Eternity - R3M - Lerm at Void Hall on Fri 31 Jul, Berlin. 16 acts on the bill: Callado, Cobb Douglas, DJ Parabolspiegel and Dj Wifi (3) and 12 more. Techno. Preview the line-up and save it on soundcheck.
+KollektivKlang - KlangKnospe - Candyflip - IloveModus - Abgedreht - Eternity - R3M - Lerm at Void Club on Fri 31 Jul, Berlin. 16 acts on the bill: Callado, Cobb Douglas, DJ Parabolspiegel and Dj Wifi (3) and 12 more. Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
 | Date | Fri, 31 Jul 2026 |
-| Venue | Void Hall |
+| Venue | Void Club |
 | City | Berlin |
 
 ## Line-up

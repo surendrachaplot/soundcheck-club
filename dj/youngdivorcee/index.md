@@ -1,14 +1,15 @@
 # Young Divorcée
 
-Young Divorcée is a Club and Bass artist with 1 upcoming club date listed on soundcheck as of Tue, 28 Jul 2026, next at TBA - Studio DB, Berlin on Thu, 30 Jul 2026.
+Young Divorcée is a Bass and Club artist with 2 upcoming club dates listed on soundcheck as of Tue, 28 Jul 2026, next at TBA - Studio DB, Berlin on Thu, 30 Jul 2026.
 
-Young Divorcée is a club and bass artist based in Germany, tracked on soundcheck, with 7 sets logged across Berlin. Often billed alongside NiKi K, Diva DJ and Blu:sh. Next up: TBA - Studio DB, Berlin on Thu 30 Jul.
+Young Divorcée is a bass and club artist based in Germany, tracked on soundcheck, with 8 sets logged across Berlin. Often billed alongside NiKi K, Diva DJ and Blu:sh. Next up: TBA - Studio DB, Berlin on Thu 30 Jul.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Thu, 30 Jul 2026 | TBA - Studio DB | Berlin |
+| Sun, 18 Oct 2026 | TBA - Neukölln | Berlin |
 
 ## Recently played
 

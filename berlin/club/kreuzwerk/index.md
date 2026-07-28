@@ -1,8 +1,8 @@
 # KREUZWERK
 
-KREUZWERK is a music venue in Berlin with 9 upcoming nights listed on soundcheck as of Tue, 28 Jul 2026; the next is "Miss Dreamz: Paradise Sessions" on Sun, 2 Aug 2026.
+KREUZWERK is a music venue in Berlin with 10 upcoming nights listed on soundcheck as of Tue, 28 Jul 2026; the next is "Miss Dreamz: Paradise Sessions" on Sun, 2 Aug 2026.
 
-KREUZWERK is a music venue in Berlin listed on soundcheck. 9 upcoming nights, with line-ups including 18:18, Alex Kassian, Amphia and Aunty Nora and 2 more. Browse upcoming dates, start times and who's playing. Lobeckstraße 30-35, 10969 Berlin, Deutschland.
+KREUZWERK is a music venue in Berlin listed on soundcheck. 10 upcoming nights, with line-ups including 18:18, Alex Kassian, Amphia and Aunty Nora and 2 more. Browse upcoming dates, start times and who's playing. Lobeckstraße 30-35, 10969 Berlin, Deutschland.
 
 ## What's on
 
@@ -14,6 +14,7 @@ KREUZWERK is a music venue in Berlin listed on soundcheck. 9 upcoming nights, wi
 | Fri, 21 Aug 2026 | Body Language |  |
 | Sun, 30 Aug 2026 | 2 Years In Balance I Open Air & Indoor |  |
 | Sat, 5 Sept 2026 | MÁS X PRIMAL INSTINCT | Amphia, Chlär, Connor Wall, Debbie, JKS, KONZ, MarcelDune, THC, TONI BA, VINVAR |
+| Fri, 18 Sept 2026 | ABOV FLINTA  |  |
 | Sat, 19 Sept 2026 | tracey |  |
 | Fri, 25 Sept 2026 | OVERLOAD #4 |  |
 | Fri, 9 Oct 2026 | Carmen Electro & BUTZ invite Laia, LYZA  | BUTZ, Carmen Electro, LYZA, Laia |

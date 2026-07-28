@@ -2,7 +2,7 @@
 
 Placebo eFx is a Techno and Tech House artist with 1 upcoming club date listed on soundcheck as of Tue, 28 Jul 2026, next at Bears Amsterdam, Amsterdam on Thu, 22 Oct 2026.
 
-Placebo eFx is a techno and tech house artist based in United States of America, tracked on soundcheck, with 8 sets logged across Amsterdam, Houston, Losangeles and Miami and 1 more. Often billed alongside Redux Saints, DJ IDeaL and GAWP. Next up: Bears Amsterdam, Amsterdam on Thu 22 Oct.
+Placebo eFx is a techno and tech house artist based in United States of America, tracked on soundcheck, with 8 sets logged across Amsterdam, Houston, Losangeles and Miami and 1 more. Often billed alongside Redux Saints, D. Ramirez and DJ IDeaL. Next up: Bears Amsterdam, Amsterdam on Thu 22 Oct.
 
 ## Upcoming shows
 
@@ -22,6 +22,6 @@ Placebo eFx is a techno and tech house artist based in United States of America,
 
 ## Shares bills with
 
-Redux Saints, DJ IDeaL, GAWP
+Redux Saints, D. Ramirez, DJ IDeaL
 
 *Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/placeboefx/)*

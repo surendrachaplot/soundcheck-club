@@ -1,14 +1,15 @@
 # Nanzhen Yang
 
-Nanzhen Yang is a Techno and Experimental artist with 2 upcoming club dates listed on soundcheck as of Tue, 28 Jul 2026, next at Altenburg 1964, Prague on Fri, 21 Aug 2026.
+Nanzhen Yang is a Techno and Experimental artist with 3 upcoming club dates listed on soundcheck as of Tue, 28 Jul 2026, next at Altenburg 1964, Prague on Fri, 21 Aug 2026.
 
-Nanzhen Yang is a techno and experimental artist tracked on soundcheck, with 83 sets logged across Bangkok, Berlin, Copenhagen and Glasgow and 12 more. Often billed alongside Samantha Togni, Becky Stroke and Lais Pattak. Next up: Altenburg 1964, Prague on Fri 21 Aug.
+Nanzhen Yang is a techno and experimental artist tracked on soundcheck, with 84 sets logged across Bangkok, Berlin, Copenhagen and Glasgow and 12 more. Often billed alongside Samantha Togni, Becky Stroke and Lais Pattak. Next up: Altenburg 1964, Prague on Fri 21 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 21 Aug 2026 | Altenburg 1964 | Prague |
+| Sat, 19 Sept 2026 | ROSA | Berlin |
 | Fri, 9 Oct 2026 | ÆDEN | Berlin |
 
 ## Recently played

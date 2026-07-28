@@ -1,8 +1,8 @@
 # BRET
 
-BRET is a music venue in Amsterdam with 17 upcoming nights listed on soundcheck as of Tue, 28 Jul 2026; the next is "HOMOMONUMENT X BRET AFTERHOURS (18+)" on Fri, 31 Jul 2026.
+BRET is a music venue in Amsterdam with 18 upcoming nights listed on soundcheck as of Tue, 28 Jul 2026; the next is "HOMOMONUMENT X BRET AFTERHOURS (18+)" on Fri, 31 Jul 2026.
 
-BRET is a music venue in Amsterdam listed on soundcheck. 17 upcoming nights, with line-ups including Tadeusz, Aldonna, Alma Negrot and Andy Luff and 2 more. Browse upcoming dates, start times and who's playing. Orlyplein 76, 1043 DP Amsterdam, Netherlands.
+BRET is a music venue in Amsterdam listed on soundcheck. 18 upcoming nights, with line-ups including Tadeusz, Aldonna, Alma Negrot and Andy Luff and 2 more. Browse upcoming dates, start times and who's playing. Orlyplein 76, 1043 DP Amsterdam, Netherlands.
 
 ## What's on
 
@@ -16,8 +16,8 @@ BRET is a music venue in Amsterdam listed on soundcheck. 17 upcoming nights, wit
 | Fri, 14 Aug 2026 | OG Records presents: bullet tooth | Kyra Khaldi, Melody RA+RE, Truly Madly, bullet tooth |
 | Fri, 14 Aug 2026 | OG Records with bullet tooth | Kyra Khaldi, Melody RA+RE, Truly Madly, bullet tooth |
 | Sat, 15 Aug 2026 | Picnic with Andy Luff, Moopie, nik-ey, Pelle (live) & Tadeusz  | Andy Luff, Moopie, Pelle (NL), Tadeusz, nik-ey |
+| Sat, 15 Aug 2026 | Picnic with Andy Luff, Moopie, nik-ey, Pelle (live) & Tadeusz | Andy Luff, Moopie, Pelle (NL), Tadeusz, nik-ey |
 | Sun, 16 Aug 2026 | De Reünie X AOS | Anton Jonathan, BAUGRUPPE90, Cybersex, EliaHaze, FORTUNATA, Schwesta P, T.PLAYBOI, TWIENA |
-| Sun, 16 Aug 2026 | DE REÜNIE & AOS | Anton Jonathan, BAUGRUPPE90, Cybersex, EliaHaze, FORTUNATA, Schwesta P, T.PLAYBOI, TWIENA |
 
 ## Address
 

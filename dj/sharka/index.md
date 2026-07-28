@@ -1,13 +1,14 @@
 # SHARKA
 
-SHARKA is a Techno and Industrial artist with 2 upcoming club dates listed on soundcheck as of Tue, 28 Jul 2026, next at Union Club, Vauxhall, London on Sat, 29 Aug 2026.
+SHARKA is a Techno and Industrial artist with 3 upcoming club dates listed on soundcheck as of Tue, 28 Jul 2026, next at TBA - Venue MOT, London on Fri, 21 Aug 2026.
 
-SHARKA is a techno and industrial artist based in Lithuania, tracked on soundcheck, with 20 sets logged across London. Often billed alongside Labåzuy, Lezcano and Lau.tastic. Next up: Union Club, Vauxhall, London on Sat 29 Aug.
+SHARKA is a techno and industrial artist based in Lithuania, tracked on soundcheck, with 21 sets logged across London. Often billed alongside Labåzuy, Lezcano and Lau.tastic. Next up: TBA - Venue MOT, London on Fri 21 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 21 Aug 2026 | TBA - Venue MOT | London |
 | Sat, 29 Aug 2026 | Union Club, Vauxhall | London |
 | Sun, 30 Aug 2026 | Union Club, Vauxhall | London |
 

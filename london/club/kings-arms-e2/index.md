@@ -16,7 +16,7 @@ Kings Arms E2 is a music venue in London listed on soundcheck. 16 upcoming night
 | Sun, 16 Aug 2026 | Vinyl Open Decks with George Kerr [16.08.2026] |  |
 | Sat, 22 Aug 2026 | Kings Turntable: Paul Cross [22.08.2022] |  |
 | Sun, 23 Aug 2026 | Kings Turntable: Paul Day [23.08.2022] |  |
-| Sat, 29 Aug 2026 | Kings Turntable: NOYB + special guest [29.08.2026] | NOYB |
+| Sat, 29 Aug 2026 | Kings Resident DJs [29.08.2026] | NOYB |
 | Sun, 30 Aug 2026 | Kings Turntable: nongfaye [30.08.2026] |  |
 
 ## Address
