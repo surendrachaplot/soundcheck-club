@@ -1,14 +1,15 @@
 # Dynoman
 
-Dynoman is a Techno and Club artist with 2 upcoming club dates listed on soundcheck as of Tue, 28 Jul 2026, next at Le Bain, New York City on Fri, 31 Jul 2026.
+Dynoman is a Techno and Club artist with 3 upcoming club dates listed on soundcheck as of Tue, 28 Jul 2026, next at Le Bain, New York City on Fri, 31 Jul 2026.
 
-Dynoman is a techno and club artist tracked on soundcheck, with 57 sets logged across Newyorkcity and Toronto. Often billed alongside Zara Dekho, Arianna Danae and JIALING. Next up: Le Bain, Newyorkcity on Fri 31 Jul.
+Dynoman is a techno and club artist tracked on soundcheck, with 58 sets logged across Newyorkcity and Toronto. Often billed alongside Zara Dekho, Arianna Danae and JIALING. Next up: Le Bain, Newyorkcity on Fri 31 Jul.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 31 Jul 2026 | Le Bain | New York City |
+| Mon, 10 Aug 2026 | Silence Please | New York City |
 | Sun, 23 Aug 2026 | Elsewhere | New York City |
 
 ## Recently played

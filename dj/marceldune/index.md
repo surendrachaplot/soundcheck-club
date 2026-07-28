@@ -1,13 +1,14 @@
 # MarcelDune
 
-MarcelDune is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Tue, 28 Jul 2026, next at Boston Manor Park, London on Sun, 2 Aug 2026.
+MarcelDune is a Techno and House artist with 4 upcoming club dates listed on soundcheck as of Tue, 28 Jul 2026, next at Phonox, London on Sat, 1 Aug 2026.
 
-MarcelDune is a techno and house artist tracked on soundcheck, with 60 sets logged across Amsterdam, Athens, Berlin and Brighton and 11 more. Often billed alongside Amphia, ASHTREY and Gloria Rose. Next up: Boston Manor Park, London on Sun 2 Aug.
+MarcelDune is a techno and house artist tracked on soundcheck, with 61 sets logged across Amsterdam, Athens, Berlin and Brighton and 11 more. Often billed alongside Amphia, ASHTREY and Gloria Rose. Next up: Phonox, London on Sat 1 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 1 Aug 2026 | Phonox | London |
 | Sun, 2 Aug 2026 | Boston Manor Park | London |
 | Sat, 8 Aug 2026 | TILLATEC | Amsterdam |
 | Sat, 5 Sept 2026 | KREUZWERK | Berlin |

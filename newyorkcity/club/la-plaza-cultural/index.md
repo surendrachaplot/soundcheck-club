@@ -1,6 +1,6 @@
 # La Plaza Cultural
 
-La Plaza Cultural is a music venue in New York City with 1 upcoming night listed on soundcheck as of Tue, 28 Jul 2026; the next is "QUEER NIGHT @ CUL DE SAC" on Tue, 28 Jul 2026.
+La Plaza Cultural is a music venue in New York City with 1 upcoming night listed on soundcheck as of Tue, 28 Jul 2026; the next is "QUEER NIGHT @ CUL DE SAC" on Wed, 29 Jul 2026.
 
 La Plaza Cultural is a music venue in Newyorkcity listed on soundcheck. 1 upcoming night. Browse upcoming dates, start times and who's playing. 674 East 9th Street, New York, NY 10009.
 
@@ -8,7 +8,7 @@ La Plaza Cultural is a music venue in Newyorkcity listed on soundcheck. 1 upcomi
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Tue, 28 Jul 2026 | QUEER NIGHT @ CUL DE SAC |  |
+| Wed, 29 Jul 2026 | QUEER NIGHT @ CUL DE SAC |  |
 
 ## Address
 

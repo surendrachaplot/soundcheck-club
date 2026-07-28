@@ -1,14 +1,15 @@
 # TIRTA
 
-TIRTA is a Techno and Bass artist with 1 upcoming club date listed on soundcheck as of Tue, 28 Jul 2026, next at M.O.T, London on Sat, 1 Aug 2026.
+TIRTA is a Bass and Disco artist with 2 upcoming club dates listed on soundcheck as of Tue, 28 Jul 2026, next at M.O.T, London on Sat, 1 Aug 2026.
 
-TIRTA is a techno and bass artist based in United Kingdom, tracked on soundcheck, with 21 sets logged across Bristol and London. Often billed alongside Deejay Nye, Vince Lam and Stella Z. Next up: M.O.T, London on Sat 1 Aug.
+TIRTA is a bass and disco artist based in United Kingdom, tracked on soundcheck, with 22 sets logged across Bristol and London. Often billed alongside Deejay Nye, Vince Lam and Stella Z. Next up: M.O.T, London on Sat 1 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 1 Aug 2026 | M.O.T | London |
+| Fri, 21 Aug 2026 | Nico's Bar at Hackney Bridge | London |
 
 ## Recently played
 

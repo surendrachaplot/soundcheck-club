@@ -1,8 +1,8 @@
 # Pancratio
 
-Pancratio is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Tue, 28 Jul 2026, next at Yamamori Tengu, Dublin on Fri, 14 Aug 2026.
+Pancratio is a House and Techno artist with 4 upcoming club dates listed on soundcheck as of Tue, 28 Jul 2026, next at Yamamori Tengu, Dublin on Fri, 14 Aug 2026.
 
-Pancratio is a house and techno artist tracked on soundcheck, with 53 sets logged across Amsterdam, Barcelona, Berlin and Brussels and 14 more. Often billed alongside Dante (H501), Fabrizio Sala and Leo Benassi. Next up: Yamamori Tengu, Dublin on Fri 14 Aug.
+Pancratio is a house and techno artist tracked on soundcheck, with 54 sets logged across Amsterdam, Barcelona, Berlin and Brussels and 14 more. Often billed alongside Dante (H501), Fabrizio Sala and Leo Benassi. Next up: Yamamori Tengu, Dublin on Fri 14 Aug.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Pancratio is a house and techno artist tracked on soundcheck, with 53 sets logge
 | --- | --- | --- |
 | Fri, 14 Aug 2026 | Yamamori Tengu | Dublin |
 | Sat, 5 Sept 2026 | Shelter Amsterdam | Amsterdam |
+| Thu, 22 Oct 2026 | Skatecafe | Amsterdam |
 | Fri, 23 Oct 2026 | Klaproos | Amsterdam |
 
 ## Recently played

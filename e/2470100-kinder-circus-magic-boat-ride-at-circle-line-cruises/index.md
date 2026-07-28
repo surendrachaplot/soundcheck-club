@@ -1,6 +1,6 @@
 # Kinder Circus - MAGIC BOAT RIDE at Circle Line Cruises
 
-Kinder Circus - MAGIC BOAT RIDE at Circle Line Cruises on Sun 16 Aug, Newyorkcity. 1 act on the bill: Jordi Iven. House. Preview the line-up and save it on soundcheck.
+Kinder Circus - MAGIC BOAT RIDE at Circle Line Cruises on Sun 16 Aug, Newyorkcity. 2 acts on the bill: C.M.A. and Jordi Iven. House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,6 +10,7 @@ Kinder Circus - MAGIC BOAT RIDE at Circle Line Cruises on Sun 16 Aug, Newyorkcit
 
 ## Line-up
 
+- C.M.A.
 - Jordi Iven
 
 *Source: [soundcheck](https://soundcheck.club/e/2470100-kinder-circus-magic-boat-ride-at-circle-line-cruises/)*

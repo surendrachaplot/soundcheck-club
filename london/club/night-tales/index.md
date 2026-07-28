@@ -1,15 +1,15 @@
 # Night Tales
 
-Night Tales is a music venue in London with 31 upcoming nights listed on soundcheck as of Tue, 28 Jul 2026; the next is "Rinse Summer Series ft. Heartless Crew, Storm Mollison, Lady Passion + more" on Thu, 30 Jul 2026.
+Night Tales is a music venue in London with 32 upcoming nights listed on soundcheck as of Tue, 28 Jul 2026; the next is "Rinse Summer Series ft. Heartless Crew, Storm Mollison, Lady Passion + more" on Thu, 30 Jul 2026.
 
-Night Tales is a music venue in London listed on soundcheck. 31 upcoming nights, with line-ups including KT, ADMNTi, Alexia Glensy and Barbara Boeing and 2 more. Browse upcoming dates, start times and who's playing. 14 Bohemia Pl, London E8 1DU, United Kingdom.
+Night Tales is a music venue in London listed on soundcheck. 32 upcoming nights, with line-ups including KT, ADMNTi, Alexia Glensy and Barbara Boeing and 2 more. Browse upcoming dates, start times and who's playing. 14 Bohemia Pl, London E8 1DU, United Kingdom.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
 | Thu, 30 Jul 2026 | Rinse Summer Series ft. Heartless Crew, Storm Mollison, Lady Passion + more | DJ Polo, Esk (UK), Lady Passion, Storm Mollison |
-| Fri, 31 Jul 2026 | Junki Inoue, Raphael Carrau & More TBA | Junki Inoue, Raphael Carrau |
+| Fri, 31 Jul 2026 | Junki Inoue, Raphael Carrau & Jhumka | Jhumka, Junki Inoue, Raphael Carrau |
 | Fri, 31 Jul 2026 | Night Tales: FREE Party |  |
 | Sat, 1 Aug 2026 | Night Tales: Olga Korol, Per Hammar, ADMNTi | ADMNTi, Olga Korol, Per Hammar |
 | Sat, 1 Aug 2026 | Gass Club Reunion - A One Night Stand |  |

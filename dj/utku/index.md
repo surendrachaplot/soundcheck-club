@@ -1,13 +1,14 @@
 # UTKU
 
-UTKU is a House and Experimental artist with 1 upcoming club date listed on soundcheck as of Tue, 28 Jul 2026, next at Escape, Amsterdam on Wed, 21 Oct 2026.
+UTKU is a House and Experimental artist with 2 upcoming club dates listed on soundcheck as of Tue, 28 Jul 2026, next at Kastel, Istanbul on Sat, 1 Aug 2026.
 
-UTKU is a house and experimental artist based in Turkey, tracked on soundcheck, with 23 sets logged across Amsterdam, Barcelona, Berlin and Hamburg and 5 more. Often billed alongside Hüma Utku, Arooj Aftab and Crystallmess. Next up: Escape, Amsterdam on Wed 21 Oct.
+UTKU is a house and experimental artist based in Turkey, tracked on soundcheck, with 24 sets logged across Amsterdam, Barcelona, Berlin and Hamburg and 5 more. Often billed alongside Hüma Utku, Arooj Aftab and Crystallmess. Next up: Kastel, Istanbul on Sat 1 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 1 Aug 2026 | Kastel | Istanbul |
 | Wed, 21 Oct 2026 | Escape | Amsterdam |
 
 ## Recently played

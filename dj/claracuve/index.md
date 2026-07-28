@@ -1,8 +1,8 @@
 # Clara Cuvé
 
-Clara Cuvé is a Techno and House artist with 13 upcoming club dates listed on soundcheck as of Tue, 28 Jul 2026, next at Eden, Ibiza on Tue, 28 Jul 2026.
+Clara Cuvé is a Techno and House artist with 14 upcoming club dates listed on soundcheck as of Tue, 28 Jul 2026, next at Eden, Ibiza on Tue, 28 Jul 2026.
 
-Clara Cuvé is a techno and house artist tracked on soundcheck, with 224 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 63 more. Often billed alongside Kobosil, MCR-T and 999999999. Next up: Eden, Ibiza on Tue 28 Jul.
+Clara Cuvé is a techno and house artist tracked on soundcheck, with 225 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 63 more. Often billed alongside Kobosil, MCR-T and 999999999. Next up: Eden, Ibiza on Tue 28 Jul.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Clara Cuvé is a techno and house artist tracked on soundcheck, with 224 sets lo
 | --- | --- | --- |
 | Tue, 28 Jul 2026 | Eden | Ibiza |
 | Sat, 1 Aug 2026 | Burgess Park | London |
+| Sat, 1 Aug 2026 | Phonox | London |
 | Sat, 8 Aug 2026 | Munich Beach Resort | Munich |
 | Tue, 11 Aug 2026 | Amnesia Ibiza | Ibiza |
 | Sun, 23 Aug 2026 | Amnesia Ibiza | Ibiza |
@@ -19,7 +20,6 @@ Clara Cuvé is a techno and house artist tracked on soundcheck, with 224 sets lo
 | Sat, 5 Sept 2026 | Industry City | New York City |
 | Fri, 11 Sept 2026 | Roxy | Prague |
 | Fri, 2 Oct 2026 | TBA - Port of Belgrade | Belgrade |
-| Thu, 8 Oct 2026 | Amnesia Ibiza | Ibiza |
 
 ## Recently played
 

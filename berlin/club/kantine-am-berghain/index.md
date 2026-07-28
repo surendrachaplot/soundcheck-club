@@ -10,7 +10,7 @@ Kantine am Berghain is a music venue in Berlin listed on soundcheck. 9 upcoming 
 | --- | --- | --- |
 | Thu, 6 Aug 2026 | S/HE IS STILL HER/E: Official Genesis P-Orridge Documentary Screening | Chloe Lula |
 | Fri, 7 Aug 2026 | S/HE IS STILL HER/E: Official Genesis P-Orridge Documentary 2nd Screening |  |
-| Mon, 7 Sept 2026 | One Leg One Eye |  |
+| Mon, 7 Sept 2026 | One Leg One Eye + Bridget Ferrill |  |
 | Thu, 10 Sept 2026 | A Colourful Storm: Christoph de Babalon, Mark, Florence | Christoph de Babalon, Mark (DE) |
 | Fri, 25 Sept 2026 | Blockhead, ProleteR, Arms and Sleepers | Blockhead |
 | Mon, 28 Sept 2026 | Aircraft in Kantine am Berghain | Aircraft |

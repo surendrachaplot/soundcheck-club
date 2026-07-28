@@ -1,8 +1,8 @@
 # Shanti Celeste
 
-Shanti Celeste is a House and Techno artist with 14 upcoming club dates listed on soundcheck as of Tue, 28 Jul 2026, next at 528 Ibiza, Ibiza on Tue, 28 Jul 2026.
+Shanti Celeste is a House and Techno artist with 15 upcoming club dates listed on soundcheck as of Tue, 28 Jul 2026, next at 528 Ibiza, Ibiza on Tue, 28 Jul 2026.
 
-Shanti Celeste is a house and techno artist tracked on soundcheck, with 208 sets logged across Amsterdam, Antwerp, Bali and Barcelona and 54 more. Often billed alongside Peach, Saoirse and Ogazón. Next up: 528 Ibiza, Ibiza on Tue 28 Jul.
+Shanti Celeste is a house and techno artist tracked on soundcheck, with 209 sets logged across Amsterdam, Antwerp, Bali and Barcelona and 54 more. Often billed alongside Peach, Saoirse and Ogazón. Next up: 528 Ibiza, Ibiza on Tue 28 Jul.
 
 ## Upcoming shows
 

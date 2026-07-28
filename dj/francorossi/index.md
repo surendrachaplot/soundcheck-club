@@ -1,14 +1,15 @@
 # Franco Rossi
 
-Franco Rossi is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Tue, 28 Jul 2026, next at Sunseabar Beach Club, Barcelona on Thu, 30 Jul 2026.
+Franco Rossi is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Tue, 28 Jul 2026, next at Sunseabar Beach Club, Barcelona on Thu, 30 Jul 2026.
 
-Franco Rossi is a techno and house artist tracked on soundcheck, with 52 sets logged across Amsterdam, Barcelona, Berlin and Buenosaires and 6 more. Often billed alongside JXXXO, ANDRØMEDA and Ana Alves. Next up: Sunseabar Beach Club, Barcelona on Thu 30 Jul.
+Franco Rossi is a techno and house artist tracked on soundcheck, with 53 sets logged across Amsterdam, Barcelona, Berlin and Buenosaires and 6 more. Often billed alongside JXXXO, ANDRØMEDA and Ana Alves. Next up: Sunseabar Beach Club, Barcelona on Thu 30 Jul.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Thu, 30 Jul 2026 | Sunseabar Beach Club | Barcelona |
+| Thu, 1 Oct 2026 | The White Hotel | Manchester |
 
 ## Recently played
 

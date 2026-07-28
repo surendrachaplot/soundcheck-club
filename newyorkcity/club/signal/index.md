@@ -2,7 +2,7 @@
 
 Signal is a music venue in New York City with 16 upcoming nights listed on soundcheck as of Tue, 28 Jul 2026; the next is "Binh, Max Sprauer" on Thu, 30 Jul 2026.
 
-Signal is a music venue in Newyorkcity listed on soundcheck. 16 upcoming nights, with line-ups including alexander:louis, Armii1n, Ash Lauryn and Auphoria and 2 more. Browse upcoming dates, start times and who's playing. 175 Morgan Ave, Brooklyn, NY 11237.
+Signal is a music venue in Newyorkcity listed on soundcheck. 16 upcoming nights, with line-ups including alexander:louis, Armii1n, Arvin T and Ash Lauryn and 2 more. Browse upcoming dates, start times and who's playing. 175 Morgan Ave, Brooklyn, NY 11237.
 
 ## What's on
 

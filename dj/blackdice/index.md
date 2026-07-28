@@ -1,8 +1,8 @@
 # Black Dice
 
-Black Dice is a Experimental and Hip-Hop artist with 1 upcoming club date listed on soundcheck as of Tue, 28 Jul 2026, next at Knockdown Center, New York City on Sat, 26 Sept 2026.
+Black Dice is a Hip-Hop and Experimental artist with 1 upcoming club date listed on soundcheck as of Tue, 28 Jul 2026, next at Knockdown Center, New York City on Sat, 26 Sept 2026.
 
-Black Dice is an experimental and hip-hop artist based in United States of America, tracked on soundcheck, with 1 set logged across Newyorkcity. Often billed alongside Carrier, Carrier (Aus) and Flying Lotus. Next up: Knockdown Center, Newyorkcity on Sat 26 Sept.
+Black Dice is a hip-hop and experimental artist based in United States of America, tracked on soundcheck, with 1 set logged across Newyorkcity. Often billed alongside Carrier, Carrier (Aus) and Flying Lotus. Next up: Knockdown Center, Newyorkcity on Sat 26 Sept.
 
 ## Upcoming shows
 

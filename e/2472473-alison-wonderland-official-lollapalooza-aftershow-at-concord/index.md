@@ -1,6 +1,6 @@
 # Alison Wonderland [Official Lollapalooza Aftershow] at Concord Music Hall
 
-Alison Wonderland [Official Lollapalooza Aftershow] at Concord Music Hall on Sat 1 Aug, Chicago. Preview the line-up and save it on soundcheck.
+Alison Wonderland [Official Lollapalooza Aftershow] at Concord Music Hall on Sat 1 Aug, Chicago. Bass. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

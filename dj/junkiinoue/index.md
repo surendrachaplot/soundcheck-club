@@ -1,14 +1,15 @@
 # Junki Inoue
 
-Junki Inoue is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 28 Jul 2026, next at Night Tales, London on Fri, 31 Jul 2026.
+Junki Inoue is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Tue, 28 Jul 2026, next at Night Tales, London on Fri, 31 Jul 2026.
 
-Junki Inoue is a house and techno artist tracked on soundcheck, with 121 sets logged across Amsterdam, Barcelona, Berlin and Bristol and 26 more. Often billed alongside Unai Trotti, Vass and Z@p. Next up: Night Tales, London on Fri 31 Jul.
+Junki Inoue is a house and techno artist tracked on soundcheck, with 122 sets logged across Amsterdam, Barcelona, Berlin and Bristol and 26 more. Often billed alongside Unai Trotti, Vass and Z@p. Next up: Night Tales, London on Fri 31 Jul.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 31 Jul 2026 | Night Tales | London |
+| Sat, 8 Aug 2026 | teller | Seoul |
 
 ## Recently played
 

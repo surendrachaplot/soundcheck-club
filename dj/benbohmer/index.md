@@ -1,14 +1,15 @@
 # Ben Böhmer
 
-Ben Böhmer is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Tue, 28 Jul 2026, next at Donauinsel, Vienna on Sat, 1 Aug 2026.
+Ben Böhmer is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Tue, 28 Jul 2026, next at Donauinsel, Vienna on Sat, 1 Aug 2026.
 
-Ben Böhmer is a techno and house artist tracked on soundcheck, with 79 sets logged across Amsterdam, Antwerp, Austin and Bali and 36 more. Often billed alongside Adriatique, Deer Jade and KI/KI. Next up: Donauinsel, Vienna on Sat 1 Aug.
+Ben Böhmer is a techno and house artist tracked on soundcheck, with 80 sets logged across Amsterdam, Antwerp, Austin and Bali and 36 more. Often billed alongside Adriatique, Deer Jade and KI/KI. Next up: Donauinsel, Vienna on Sat 1 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 1 Aug 2026 | Donauinsel | Vienna |
+| Thu, 22 Oct 2026 | The Concourse Project | Austin |
 
 ## Recently played
 

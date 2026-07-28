@@ -1,8 +1,8 @@
 # Monoak
 
-Monoak is a Techno and Bass artist with 1 upcoming club date listed on soundcheck as of Tue, 28 Jul 2026, next at The Glove That Fits, London on Sat, 22 Aug 2026.
+Monoak is a Bass and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 28 Jul 2026, next at The Glove That Fits, London on Sat, 22 Aug 2026.
 
-Monoak is a techno and bass artist based in United Kingdom, tracked on soundcheck, with 1 set logged across London. Often billed alongside Datassette, Equinox (UK) and Kid Drama. Next up: The Glove That Fits, London on Sat 22 Aug.
+Monoak is a bass and techno artist based in United Kingdom, tracked on soundcheck, with 1 set logged across London. Often billed alongside Datassette, Equinox (UK) and Kid Drama. Next up: The Glove That Fits, London on Sat 22 Aug.
 
 ## Upcoming shows
 

@@ -1,14 +1,15 @@
 # ceviché
 
-ceviché is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Tue, 28 Jul 2026, next at Music For A While, New York City on Fri, 31 Jul 2026.
+ceviché is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Tue, 28 Jul 2026, next at Music For A While, New York City on Fri, 31 Jul 2026.
 
-ceviché is a techno and house artist based in United States of America, tracked on soundcheck, with 54 sets logged across Newyorkcity and Tokyo. Often billed alongside SHRAY, Sam Valle and STEEN. Next up: Music For A While, Newyorkcity on Fri 31 Jul.
+ceviché is a techno and house artist based in United States of America, tracked on soundcheck, with 55 sets logged across Newyorkcity and Tokyo. Often billed alongside SHRAY, Sam Valle and STEEN. Next up: Music For A While, Newyorkcity on Fri 31 Jul.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 31 Jul 2026 | Music For A While | New York City |
+| Thu, 13 Aug 2026 | Jade | New York City |
 
 ## Recently played
 

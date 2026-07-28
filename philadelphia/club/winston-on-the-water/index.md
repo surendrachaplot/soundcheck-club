@@ -1,6 +1,6 @@
 # Winston On The Water
 
-Winston On The Water is a music venue in Philadelphia with 1 upcoming night listed on soundcheck as of Tue, 28 Jul 2026; the next is "Philadeep: INTRANSIT" on Sat, 22 Aug 2026.
+Winston On The Water is a music venue in Philadelphia with 1 upcoming night listed on soundcheck as of Tue, 28 Jul 2026; the next is "[CANCELLED] Philadeep: INTRANSIT" on Sat, 22 Aug 2026.
 
 Winston On The Water is a music venue in Philadelphia listed on soundcheck. 1 upcoming night, with line-ups including Miles Alexander. Browse upcoming dates, start times and who's playing. 325 N Christopher Columbus Blvd, Suite 100, Philadelphia, PA 19106, USA.
 
@@ -8,7 +8,7 @@ Winston On The Water is a music venue in Philadelphia listed on soundcheck. 1 up
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Sat, 22 Aug 2026 | Philadeep: INTRANSIT | Miles Alexander |
+| Sat, 22 Aug 2026 | [CANCELLED] Philadeep: INTRANSIT | Miles Alexander |
 
 ## Address
 

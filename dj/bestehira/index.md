@@ -1,8 +1,8 @@
 # Beste Hira
 
-Beste Hira is a Techno and House artist with 5 upcoming club dates listed on soundcheck as of Tue, 28 Jul 2026, next at Amsterdamse Bos, Amsterdam on Wed, 29 Jul 2026.
+Beste Hira is a Techno and House artist with 6 upcoming club dates listed on soundcheck as of Tue, 28 Jul 2026, next at Amsterdamse Bos, Amsterdam on Wed, 29 Jul 2026.
 
-Beste Hira is a techno and house artist tracked on soundcheck, with 169 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 33 more. Often billed alongside Rødhåd, Lobster (NL) and Freddy K. Next up: Amsterdamse Bos, Amsterdam on Wed 29 Jul.
+Beste Hira is a techno and house artist tracked on soundcheck, with 170 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 34 more. Often billed alongside Rødhåd, Lobster (NL) and Freddy K. Next up: Amsterdamse Bos, Amsterdam on Wed 29 Jul.
 
 ## Upcoming shows
 
@@ -12,6 +12,7 @@ Beste Hira is a techno and house artist tracked on soundcheck, with 169 sets log
 | Fri, 31 Jul 2026 | Amsterdamse Bos | Amsterdam |
 | Fri, 7 Aug 2026 | FOLD | London |
 | Sat, 29 Aug 2026 | BASEMENT | New York City |
+| Sat, 12 Sept 2026 | TBA - Los Angeles | Los Angeles |
 | Thu, 22 Oct 2026 | RADION | Amsterdam |
 
 ## Recently played

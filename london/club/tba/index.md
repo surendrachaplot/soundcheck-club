@@ -1,8 +1,8 @@
 # TBA
 
-TBA is a music venue in London with 258 upcoming nights listed on soundcheck as of Tue, 28 Jul 2026; the next is "LMCUK test event 5" on Tue, 28 Jul 2026.
+TBA is a music venue in London with 261 upcoming nights listed on soundcheck as of Tue, 28 Jul 2026; the next is "LMCUK test event 5" on Tue, 28 Jul 2026.
 
-TBA is a music venue in London listed on soundcheck. 258 upcoming nights, with line-ups including 2M (CH), 619!, 666.pastel and 999999999 and 2 more. Browse upcoming dates, start times and who's playing.
+TBA is a music venue in London listed on soundcheck. 261 upcoming nights, with line-ups including 2M (CH), 619!, 666.pastel and 999999999 and 2 more. Browse upcoming dates, start times and who's playing.
 
 ## What's on
 

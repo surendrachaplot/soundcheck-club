@@ -1,14 +1,15 @@
 # Big Ang
 
-Big Ang is a Bass and Garage artist with 2 upcoming club dates listed on soundcheck as of Tue, 28 Jul 2026, next at Burgess Park, London on Fri, 31 Jul 2026.
+Big Ang is a Bass and Garage artist with 3 upcoming club dates listed on soundcheck as of Tue, 28 Jul 2026, next at Burgess Park, London on Fri, 31 Jul 2026.
 
-Big Ang is a bass and garage artist based in United Kingdom, tracked on soundcheck, with 47 sets logged across Bristol, Leeds, London and Manchester and 2 more. Often billed alongside Jamie Duggan, Silva Bumpa and Chad Harrison. Next up: Burgess Park, London on Fri 31 Jul.
+Big Ang is a bass and garage artist based in United Kingdom, tracked on soundcheck, with 48 sets logged across Bristol, Leeds, London and Manchester and 2 more. Often billed alongside Jamie Duggan, Silva Bumpa and Chad Harrison. Next up: Burgess Park, London on Fri 31 Jul.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 31 Jul 2026 | Burgess Park | London |
+| Fri, 31 Jul 2026 | Phonox | London |
 | Fri, 9 Oct 2026 | The Warehouse | Leeds |
 
 ## Recently played

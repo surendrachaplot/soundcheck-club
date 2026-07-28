@@ -1,14 +1,15 @@
 # shimosoma
 
-shimosoma is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Tue, 28 Jul 2026, next at VENT, Tokyo on Mon, 10 Aug 2026.
+shimosoma is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Tue, 28 Jul 2026, next at VENT, Tokyo on Mon, 10 Aug 2026.
 
-shimosoma is a techno and house artist based in Japan, tracked on soundcheck, with 57 sets logged across Tokyo. Often billed alongside Rikuto Shibazaki, Rikuto and Kulage. Next up: VENT, Tokyo on Mon 10 Aug.
+shimosoma is a techno and house artist based in Japan, tracked on soundcheck, with 58 sets logged across Tokyo. Often billed alongside Rikuto Shibazaki, Rikuto and Kulage. Next up: VENT, Tokyo on Mon 10 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Mon, 10 Aug 2026 | VENT | Tokyo |
+| Fri, 21 Aug 2026 | clubasia | Tokyo |
 
 ## Recently played
 

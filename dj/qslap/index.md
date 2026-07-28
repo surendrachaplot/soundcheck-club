@@ -1,13 +1,14 @@
 # QSLAP
 
-QSLAP is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Tue, 28 Jul 2026, next at Hall, Tallinn on Fri, 4 Sept 2026.
+QSLAP is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Tue, 28 Jul 2026, next at Paavli Kultuurivabrik, Tallinn on Fri, 7 Aug 2026.
 
-QSLAP is a techno and house artist tracked on soundcheck, with 19 sets logged across Tallinn. Often billed alongside VLKN99, Labrighli and Lene Ma Rue. Next up: Hall, Tallinn on Fri 4 Sept.
+QSLAP is a techno and house artist tracked on soundcheck, with 20 sets logged across Tallinn. Often billed alongside VLKN99, Labrighli and Lene Ma Rue. Next up: Paavli Kultuurivabrik, Tallinn on Fri 7 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 7 Aug 2026 | Paavli Kultuurivabrik | Tallinn |
 | Fri, 4 Sept 2026 | Hall | Tallinn |
 
 ## Recently played

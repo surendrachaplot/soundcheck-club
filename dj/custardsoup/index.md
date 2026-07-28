@@ -1,8 +1,8 @@
 # Custard Soup
 
-Custard Soup is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Tue, 28 Jul 2026, next at The Glove That Fits, London on Fri, 31 Jul 2026.
+Custard Soup is a Disco and House artist with 1 upcoming club date listed on soundcheck as of Tue, 28 Jul 2026, next at The Glove That Fits, London on Fri, 31 Jul 2026.
 
-Custard Soup is a house and disco artist based in United Kingdom, tracked on soundcheck, with 1 set logged across London. Next up: The Glove That Fits, London on Fri 31 Jul.
+Custard Soup is a disco and house artist based in United Kingdom, tracked on soundcheck, with 1 set logged across London. Next up: The Glove That Fits, London on Fri 31 Jul.
 
 ## Upcoming shows
 

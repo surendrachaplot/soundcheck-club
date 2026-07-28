@@ -1,8 +1,8 @@
 # Doudou MD
 
-Doudou MD is a House and Techno artist with 10 upcoming club dates listed on soundcheck as of Tue, 28 Jul 2026, next at Amsterdamse Bos, Amsterdam on Wed, 29 Jul 2026.
+Doudou MD is a House and Techno artist with 11 upcoming club dates listed on soundcheck as of Tue, 28 Jul 2026, next at Amsterdamse Bos, Amsterdam on Wed, 29 Jul 2026.
 
-Doudou MD is a house and techno artist tracked on soundcheck, with 211 sets logged across Amsterdam, Austin, Bali and Barcelona and 44 more. Often billed alongside Samuel Deep, DJ Senc and Cap. Next up: Amsterdamse Bos, Amsterdam on Wed 29 Jul.
+Doudou MD is a house and techno artist tracked on soundcheck, with 212 sets logged across Amsterdam, Austin, Bali and Barcelona and 44 more. Often billed alongside Samuel Deep, DJ Senc and Cap. Next up: Amsterdamse Bos, Amsterdam on Wed 29 Jul.
 
 ## Upcoming shows
 
@@ -18,6 +18,7 @@ Doudou MD is a house and techno artist tracked on soundcheck, with 211 sets logg
 | Sat, 12 Sept 2026 | Fvtvr | Paris |
 | Fri, 18 Sept 2026 | UNO MALTA | Malta |
 | Sat, 19 Sept 2026 | Shelter Amsterdam | Amsterdam |
+| Thu, 22 Oct 2026 | Skatecafe | Amsterdam |
 
 ## Recently played
 

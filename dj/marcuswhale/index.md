@@ -1,14 +1,15 @@
 # Marcus Whale
 
-Marcus Whale is a Experimental and Bass artist with 1 upcoming club date listed on soundcheck as of Tue, 28 Jul 2026, next at The Red Rattler, Sydney on Fri, 7 Aug 2026.
+Marcus Whale is a Experimental and Bass artist with 2 upcoming club dates listed on soundcheck as of Tue, 28 Jul 2026, next at The Red Rattler, Sydney on Fri, 7 Aug 2026.
 
-Marcus Whale is an experimental and bass artist based in Australia, tracked on soundcheck, with 23 sets logged across Melbourne and Sydney. Often billed alongside Grasps, Rydeen (AU) and Jungist. Next up: The Red Rattler, Sydney on Fri 7 Aug.
+Marcus Whale is an experimental and bass artist based in Australia, tracked on soundcheck, with 24 sets logged across Melbourne and Sydney. Often billed alongside Grasps, Rydeen (AU) and Jungist. Next up: The Red Rattler, Sydney on Fri 7 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 7 Aug 2026 | The Red Rattler | Sydney |
+| Sun, 9 Aug 2026 | Suite7a | Sydney |
 
 ## Recently played
 

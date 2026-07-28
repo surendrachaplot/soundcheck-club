@@ -11,7 +11,7 @@ Standard Time is a music venue in Toronto listed on soundcheck. 13 upcoming nigh
 | Thu, 30 Jul 2026 | Breaking Borders with K-65: Communal Art Expo & Rave | DANTE (CA), K-65, slatergroves, wiwa |
 | Fri, 31 Jul 2026 | Odd Soul featuring Keys N Krates, A$H BANKS and House of Lords | A$H BANKS, House of Lords, Keys N Krates |
 | Sat, 1 Aug 2026 | Daphni OPEN-CLOSE | Daphni |
-| Sun, 2 Aug 2026 | YES YES YALL CARIBANA EDITION |  |
+| Sun, 2 Aug 2026 | YES YES YALL CARIBANA EDITION featuring JORDIOR, Nino Brown, POTATO and Young Teesh   | Nino Brown, Young Teesh |
 | Thu, 6 Aug 2026 | Daphni OPEN-CLOSE NIGHT 2 | Daphni |
 | Fri, 7 Aug 2026 | TEED DJ-Kicks Tour with Kiinjo | Kiinjo, TEED |
 | Sat, 8 Aug 2026 | LEO SZN / PRESENTED BY CITYPOOLWARRIOR  | DR 4SKYN, Delicious DJ, EMRYSLAZULI, XANGA |

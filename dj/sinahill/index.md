@@ -1,14 +1,15 @@
 # SINAHILL
 
-SINAHILL is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 28 Jul 2026, next at Hertz, Seoul on Fri, 31 Jul 2026.
+SINAHILL is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Tue, 28 Jul 2026, next at Hertz, Seoul on Fri, 31 Jul 2026.
 
-SINAHILL is a house and techno artist based in South Korea, tracked on soundcheck, with 82 sets logged across Seoul, Tokyo and Toronto. Often billed alongside DJ Funny, Oldshoes and bojvck. Next up: Hertz, Seoul on Fri 31 Jul.
+SINAHILL is a house and techno artist based in South Korea, tracked on soundcheck, with 83 sets logged across Seoul, Tokyo and Toronto. Often billed alongside DJ Funny, Oldshoes and bojvck. Next up: Hertz, Seoul on Fri 31 Jul.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 31 Jul 2026 | Hertz | Seoul |
+| Fri, 31 Jul 2026 | Bolero | Seoul |
 
 ## Recently played
 

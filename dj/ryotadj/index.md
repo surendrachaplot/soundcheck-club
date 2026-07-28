@@ -1,14 +1,15 @@
 # ryota dj
 
-ryota dj is a Bass and House artist with 3 upcoming club dates listed on soundcheck as of Tue, 28 Jul 2026, next at Burgess Park, London on Fri, 31 Jul 2026.
+ryota dj is a Bass and House artist with 4 upcoming club dates listed on soundcheck as of Tue, 28 Jul 2026, next at Burgess Park, London on Fri, 31 Jul 2026.
 
-ryota dj is a bass and house artist tracked on soundcheck, with 81 sets logged across Bali, Bangkok, Barcelona and Brighton and 15 more. Often billed alongside Ryota, SAMO (JP) and kengotaki. Next up: Burgess Park, London on Fri 31 Jul.
+ryota dj is a bass and house artist tracked on soundcheck, with 82 sets logged across Bali, Bangkok, Barcelona and Brighton and 15 more. Often billed alongside Ryota, SAMO (JP) and kengotaki. Next up: Burgess Park, London on Fri 31 Jul.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 31 Jul 2026 | Burgess Park | London |
+| Fri, 31 Jul 2026 | Phonox | London |
 | Thu, 6 Aug 2026 | Night Tales | London |
 | Tue, 22 Sept 2026 | Odaiba | Tokyo |
 

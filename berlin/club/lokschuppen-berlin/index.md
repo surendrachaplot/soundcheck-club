@@ -15,7 +15,7 @@ Lokschuppen Berlin is a music venue in Berlin listed on soundcheck. 79 upcoming 
 | Sat, 1 Aug 2026 | FLOORWÄRTS w/ DJ Tallboy, S.3000 (LIVE), DJ Mischkonsum and many more // OPEN AIR & INDOOR | Athina, Carotin, DJ HÖRDE, DJ Mischkonsum, DJ TIPSTER, DJ Tallboy, HØLLE (2), Krash Cora, S.3000, Sire Jonah, Trashabelle, XIMA |
 | Sat, 1 Aug 2026 | Feiern wie früher - nur früher |  |
 | Sun, 2 Aug 2026 | KDW X TRANCECORE - FREE OPEN AIR + MARKET + EXHIBITION |  |
-| Sun, 2 Aug 2026 | Trancecore X The Hotbox x KDW CHARITY DAY RAVE w/ zwilling., George Radsport, SZG, DICE | Amøn, DICE, DJ Nicelife, Fronsi, GEORGE aka DR.RADSPORT, Maschérie, Morelia, Pixie Dust, SZG, djvonnebenan, zwilling. |
+| Sun, 2 Aug 2026 | 5€ Charity Ticket / Trancecore X The Hotbox x KDW DAY RAVE w/ zwilling., George Radsport, SZG | Amøn, DICE, DJ Nicelife, Fronsi, GEORGE aka DR.RADSPORT, Maschérie, Morelia, Pixie Dust, SZG, djvonnebenan, zwilling. |
 | Sun, 2 Aug 2026 | wieder: BOILER ROOM SETUP + MARKETPLACE |  |
 | Tue, 4 Aug 2026 | PHASE:ONE | LEIA (2), Raw Image |
 

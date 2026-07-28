@@ -1,8 +1,8 @@
 # DIEGO VIERA
 
-DIEGO VIERA is a House and Electronica artist with 1 upcoming club date listed on soundcheck as of Tue, 28 Jul 2026, next at TBA, Barcelona on Sat, 1 Aug 2026.
+DIEGO VIERA is a Electronica and House artist with 1 upcoming club date listed on soundcheck as of Tue, 28 Jul 2026, next at TBA, Barcelona on Sat, 1 Aug 2026.
 
-DIEGO VIERA is a house and electronica artist based in Spain, tracked on soundcheck, with 1 set logged across Barcelona. Often billed alongside Borch, David Cabrera and Gerson. Next up: TBA, Barcelona on Sat 1 Aug.
+DIEGO VIERA is an electronica and house artist based in Spain, tracked on soundcheck, with 1 set logged across Barcelona. Often billed alongside Borch, David Cabrera and Gerson. Next up: TBA, Barcelona on Sat 1 Aug.
 
 ## Upcoming shows
 

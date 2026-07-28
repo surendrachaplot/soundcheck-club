@@ -1,8 +1,8 @@
 # Nineone
 
-Nineone is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Tue, 28 Jul 2026, next at Edelfettwerk, Hamburg on Sat, 1 Aug 2026.
+Nineone is a Trance and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 28 Jul 2026, next at Edelfettwerk, Hamburg on Sat, 1 Aug 2026.
 
-Nineone is a techno and trance artist based in Colombia, tracked on soundcheck, with 1 set logged across Hamburg. Often billed alongside Butschi, DJ Pinky Promise and Gusted. Next up: Edelfettwerk, Hamburg on Sat 1 Aug.
+Nineone is a trance and techno artist based in Colombia, tracked on soundcheck, with 1 set logged across Hamburg. Often billed alongside Butschi, DJ Pinky Promise and Gusted. Next up: Edelfettwerk, Hamburg on Sat 1 Aug.
 
 ## Upcoming shows
 

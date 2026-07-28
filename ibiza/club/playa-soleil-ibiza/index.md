@@ -10,7 +10,7 @@ Playa Soleil Ibiza is a music venue in Ibiza listed on soundcheck. 18 upcoming n
 | --- | --- | --- |
 | Tue, 28 Jul 2026 | LEHAR & FRIENDS |  |
 | Wed, 29 Jul 2026 | SW ♡ IBIZA 29 JULY | Alexander Skancke, Gojnea76, Inès Rau, Joe Vanditti, Neverdogs, PERSIC, Piticu |
-| Fri, 31 Jul 2026 | Astradanza Ibiza - Day & Night | EVGHENIIA, Pachanga Boys, Radio Slave, Red Axes, Tibi Dabo |
+| Fri, 31 Jul 2026 | Astradanza Day & Night : Pachanga Boys, Red Axes, Radio Slave | EVGHENIIA, Inès Rau, Pachanga Boys, Radio Slave, Red Axes, Tibi Dabo |
 | Sat, 1 Aug 2026 | Crême de Crême |  |
 | Wed, 5 Aug 2026 | SW ♡ IBIZA AUGUST 5 |  |
 | Sat, 8 Aug 2026 | Crême de Crême |  |

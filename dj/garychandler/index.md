@@ -1,14 +1,15 @@
 # Gary Chandler
 
-Gary Chandler is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 28 Jul 2026, next at TV Lounge, Detroit on Fri, 31 Jul 2026.
+Gary Chandler is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Tue, 28 Jul 2026, next at TV Lounge, Detroit on Fri, 31 Jul 2026.
 
-Gary Chandler is a house and techno artist based in United States of America, tracked on soundcheck, with 17 sets logged across Detroit. Often billed alongside Bruce Bailey, Al Ester and BLAAQGOLD. Next up: TV Lounge, Detroit on Fri 31 Jul.
+Gary Chandler is a house and techno artist based in United States of America, tracked on soundcheck, with 18 sets logged across Detroit. Often billed alongside Bruce Bailey, something blue and Al Ester. Next up: TV Lounge, Detroit on Fri 31 Jul.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 31 Jul 2026 | TV Lounge | Detroit |
+| Sat, 15 Aug 2026 | Marble Bar | Detroit |
 
 ## Recently played
 
@@ -23,6 +24,6 @@ Gary Chandler is a house and techno artist based in United States of America, tr
 
 ## Shares bills with
 
-Bruce Bailey, Al Ester, BLAAQGOLD
+Bruce Bailey, something blue, Al Ester
 
 *Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/garychandler/)*

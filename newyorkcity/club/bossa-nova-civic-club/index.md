@@ -1,8 +1,8 @@
 # Bossa Nova Civic Club
 
-Bossa Nova Civic Club is a music venue in New York City with 31 upcoming nights listed on soundcheck as of Tue, 28 Jul 2026; the next is "The Hardest Techno [MISS TOXIN EP RELEASE]" on Tue, 28 Jul 2026.
+Bossa Nova Civic Club is a music venue in New York City with 32 upcoming nights listed on soundcheck as of Tue, 28 Jul 2026; the next is "The Hardest Techno [MISS TOXIN EP RELEASE]" on Tue, 28 Jul 2026.
 
-Bossa Nova Civic Club is a music venue in Newyorkcity listed on soundcheck. 31 upcoming nights, with line-ups including The AM/AMX, a.gar, AK (US) and Aleska and 2 more. Browse upcoming dates, start times and who's playing. 1271 Myrtle Ave; Brooklyn, NY 11221; United States.
+Bossa Nova Civic Club is a music venue in Newyorkcity listed on soundcheck. 32 upcoming nights, with line-ups including The AM/AMX, a.gar, AK (US) and Aleska and 2 more. Browse upcoming dates, start times and who's playing. 1271 Myrtle Ave; Brooklyn, NY 11221; United States.
 
 ## What's on
 

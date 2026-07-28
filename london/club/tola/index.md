@@ -11,7 +11,7 @@ Tola is a music venue in London listed on soundcheck. 8 upcoming nights, with li
 | Thu, 30 Jul 2026 | Hang the DJ Vol.8 - Alternative Music and Contemporary Art |  |
 | Fri, 31 Jul 2026 | Family Affair - Golden Era Hip-Hop & RnB |  |
 | Sat, 1 Aug 2026 | EAT THE RICH: Summer Soirée |  |
-| Sat, 8 Aug 2026 | Basic Function's Second Birthday with Diz | Basic Function |
+| Sat, 8 Aug 2026 | Basic Function's Second Birthday with Public House Hifi | Basic Function |
 | Fri, 14 Aug 2026 | Caya DJ Clash Live | JuicySteamedHams, Mayowa |
 | Fri, 21 Aug 2026 | Kascade | CHICCA |
 | Fri, 18 Sept 2026 | Kohsa presents | Buddy. (2), Sunny D |

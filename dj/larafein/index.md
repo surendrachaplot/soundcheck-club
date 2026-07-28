@@ -1,14 +1,15 @@
 # Lara Fein
 
-Lara Fein is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Tue, 28 Jul 2026, next at OHM, Berlin on Fri, 7 Aug 2026.
+Lara Fein is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Tue, 28 Jul 2026, next at OHM, Berlin on Fri, 7 Aug 2026.
 
-Lara Fein is a techno and house artist tracked on soundcheck, with 37 sets logged across Amsterdam, Berlin, Cologne and London and 4 more. Often billed alongside Skee Mask, Stenny and Victor (DE). Next up: OHM, Berlin on Fri 7 Aug.
+Lara Fein is a techno and house artist tracked on soundcheck, with 38 sets logged across Amsterdam, Berlin, Cologne and London and 4 more. Often billed alongside Skee Mask, Stenny and Victor (DE). Next up: OHM, Berlin on Fri 7 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 7 Aug 2026 | OHM | Berlin |
+| Fri, 4 Sept 2026 | Gewölbe | Cologne |
 
 ## Recently played
 

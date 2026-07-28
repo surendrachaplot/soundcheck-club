@@ -1,6 +1,6 @@
 # PRIDE at Pangea at TBA
 
-PRIDE at Pangea at TBA on Sun 2 Aug, Vancouver. 2 acts on the bill: BINKY and DR BPM. Trance and Club. Preview the line-up and save it on soundcheck.
+PRIDE at Pangea at TBA on Sun 2 Aug, Vancouver. 2 acts on the bill: BINKY and DR BPM. Techno and Club. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,13 +1,14 @@
 # Reimond
 
-Reimond is a Garage and House artist with 1 upcoming club date listed on soundcheck as of Tue, 28 Jul 2026, next at Hidden, Manchester on Thu, 17 Sept 2026.
+Reimond is a Garage and House artist with 2 upcoming club dates listed on soundcheck as of Tue, 28 Jul 2026, next at Hidden, Manchester on Sat, 1 Aug 2026.
 
-Reimond is a garage and house artist based in United Kingdom, tracked on soundcheck, with 21 sets logged across Amsterdam, Leeds, London and Manchester and 2 more. Often billed alongside Junior Simba, Hanz and Blue Flower. Next up: Hidden, Manchester on Thu 17 Sept.
+Reimond is a garage and house artist based in United Kingdom, tracked on soundcheck, with 22 sets logged across Amsterdam, Leeds, London and Manchester and 2 more. Often billed alongside Hanz, Junior Simba and Syntax (2). Next up: Hidden, Manchester on Sat 1 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 1 Aug 2026 | Hidden | Manchester |
 | Thu, 17 Sept 2026 | Hidden | Manchester |
 
 ## Recently played
@@ -23,6 +24,6 @@ Reimond is a garage and house artist based in United Kingdom, tracked on soundch
 
 ## Shares bills with
 
-Junior Simba, Hanz, Blue Flower
+Hanz, Junior Simba, Syntax (2)
 
 *Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/reimond/)*

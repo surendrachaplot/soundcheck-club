@@ -1,13 +1,14 @@
 # KOLLIN
 
-KOLLIN is a Club and Bass artist with 2 upcoming club dates listed on soundcheck as of Tue, 28 Jul 2026, next at Burgess Park, London on Sat, 1 Aug 2026.
+KOLLIN is a Club and Bass artist with 3 upcoming club dates listed on soundcheck as of Tue, 28 Jul 2026, next at Phonox, London on Fri, 31 Jul 2026.
 
-KOLLIN is a club and bass artist tracked on soundcheck, with 47 sets logged across Amsterdam, Berlin, London and Paris and 3 more. Often billed alongside Kitty, DJ Co.kr and KISEWA. Next up: Burgess Park, London on Sat 1 Aug.
+KOLLIN is a club and bass artist tracked on soundcheck, with 48 sets logged across Amsterdam, Berlin, London and Paris and 3 more. Often billed alongside Kitty, DJ Co.kr and KISEWA. Next up: Phonox, London on Fri 31 Jul.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 31 Jul 2026 | Phonox | London |
 | Sat, 1 Aug 2026 | Burgess Park | London |
 | Fri, 2 Oct 2026 | fabric | London |
 

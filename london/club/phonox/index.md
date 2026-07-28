@@ -2,14 +2,14 @@
 
 Phonox is a music venue in London with 26 upcoming nights listed on soundcheck as of Tue, 28 Jul 2026; the next is "Boiler Room Festival Afterparty" on Fri, 31 Jul 2026.
 
-Phonox is a music venue in London listed on soundcheck. 26 upcoming nights, with line-ups including Abby Daze, Alan Fitzpatrick, Alba Heidari and A LOVE FROM OUTER SPACE and 2 more. Browse upcoming dates, start times and who's playing. 418 Brixton Road Brixton London SW9 7AY.
+Phonox is a music venue in London listed on soundcheck. 26 upcoming nights, with line-ups including Aayna, Abby Daze, Alan Fitzpatrick and Alba Heidari and 2 more. Browse upcoming dates, start times and who's playing. 418 Brixton Road Brixton London SW9 7AY.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Fri, 31 Jul 2026 | Boiler Room Festival Afterparty |  |
-| Sat, 1 Aug 2026 | Boiler Room Festival Afterparty |  |
+| Fri, 31 Jul 2026 | Boiler Room Festival Afterparty | Big Ang, KOLLIN, POLO JAFFA, ryota dj |
+| Sat, 1 Aug 2026 | Boiler Room Festival Afterparty | Aayna, Clara Cuvé, MarcelDune |
 | Fri, 7 Aug 2026 | DEADCORP PRESENTS: CASISDEAD, Sexy Lady Massive, Chinese Daughter | CASISDEAD, Chinese Daughter, Sexy Lady Massive |
 | Sat, 8 Aug 2026 | Phonox: Derrick Carter (All Night Long) | Derrick Carter |
 | Fri, 14 Aug 2026 | Recondite (Live) | Recondite |

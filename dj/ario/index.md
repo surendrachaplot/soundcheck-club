@@ -1,14 +1,15 @@
 # Ario
 
-Ario is a Techno and Ambient artist with 2 upcoming club dates listed on soundcheck as of Tue, 28 Jul 2026, next at Ministerium Club, Lisbon on Fri, 31 Jul 2026.
+Ario is a Techno and Ambient artist with 3 upcoming club dates listed on soundcheck as of Tue, 28 Jul 2026, next at Ministerium Club, Lisbon on Fri, 31 Jul 2026.
 
-Ario is a techno and ambient artist tracked on soundcheck, with 81 sets logged across Amsterdam, Bangkok, Barcelona and Belfast and 14 more. Often billed alongside F-on, Yoshitaka Shirakura and Endurance. Next up: Ministerium Club, Lisbon on Fri 31 Jul.
+Ario is a techno and ambient artist tracked on soundcheck, with 82 sets logged across Amsterdam, Bangkok, Barcelona and Belfast and 14 more. Often billed alongside F-on, Yoshitaka Shirakura and Endurance. Next up: Ministerium Club, Lisbon on Fri 31 Jul.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 31 Jul 2026 | Ministerium Club | Lisbon |
+| Sat, 1 Aug 2026 | Gare Porto | Porto |
 | Thu, 17 Sept 2026 | OHM | Berlin |
 
 ## Recently played

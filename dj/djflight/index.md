@@ -1,14 +1,15 @@
 # DJ Flight
 
-DJ Flight is a Drum & Bass and Jungle artist with 4 upcoming club dates listed on soundcheck as of Tue, 28 Jul 2026, next at The Prospect Building, Bristol on Sat, 8 Aug 2026.
+DJ Flight is a Drum & Bass and Jungle artist with 5 upcoming club dates listed on soundcheck as of Tue, 28 Jul 2026, next at The Prospect Building, Bristol on Sat, 8 Aug 2026.
 
-DJ Flight is a drum & bass and jungle artist tracked on soundcheck, with 105 sets logged across Amsterdam, Barcelona, Berlin and Brighton and 25 more. Often billed alongside Mantra, SP:MC and Dillinja. Next up: The Prospect Building, Bristol on Sat 8 Aug.
+DJ Flight is a drum & bass and jungle artist tracked on soundcheck, with 106 sets logged across Amsterdam, Barcelona, Berlin and Brighton and 25 more. Often billed alongside Mantra, SP:MC and Dillinja. Next up: The Prospect Building, Bristol on Sat 8 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 8 Aug 2026 | The Prospect Building | Bristol |
+| Sat, 8 Aug 2026 | Hidden | Manchester |
 | Sat, 22 Aug 2026 | The Cause | London |
 | Sat, 5 Sept 2026 | The Cause | London |
 | Sun, 20 Sept 2026 | The Carpet Shop | London |

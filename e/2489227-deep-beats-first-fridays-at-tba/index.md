@@ -1,6 +1,6 @@
 # Deep Beats First Fridays at TBA
 
-Deep Beats First Fridays at TBA on Fri 7 Aug, Losangeles. Breakbeat and Downtempo. Preview the line-up and save it on soundcheck.
+Deep Beats First Fridays at TBA on Fri 7 Aug, Losangeles. Hip-Hop and Downtempo. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

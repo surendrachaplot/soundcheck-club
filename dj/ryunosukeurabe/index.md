@@ -1,14 +1,15 @@
 # Ryunosuke Urabe
 
-Ryunosuke Urabe is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Tue, 28 Jul 2026, next at Mitsuki, Tokyo on Tue, 4 Aug 2026.
+Ryunosuke Urabe is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Tue, 28 Jul 2026, next at Mitsuki, Tokyo on Tue, 4 Aug 2026.
 
-Ryunosuke Urabe is a techno and house artist based in Japan, tracked on soundcheck, with 28 sets logged across Seoul and Tokyo. Often billed alongside Lupion, EVE (1) and KOSHIRO. Next up: Mitsuki, Tokyo on Tue 4 Aug.
+Ryunosuke Urabe is a techno and house artist based in Japan, tracked on soundcheck, with 29 sets logged across Seoul and Tokyo. Often billed alongside Lupion, EVE (1) and KOSHIRO. Next up: Mitsuki, Tokyo on Tue 4 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Tue, 4 Aug 2026 | Mitsuki | Tokyo |
+| Fri, 7 Aug 2026 | teller | Seoul |
 | Fri, 4 Sept 2026 | VENT | Tokyo |
 
 ## Recently played

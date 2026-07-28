@@ -1,8 +1,8 @@
 # Karolanne
 
-Karolanne is a Trance and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 28 Jul 2026, next at ://about blank, Berlin on Fri, 21 Aug 2026.
+Karolanne is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Tue, 28 Jul 2026, next at ://about blank, Berlin on Fri, 21 Aug 2026.
 
-Karolanne is a trance and techno artist based in Germany, tracked on soundcheck, with 1 set logged across Berlin. Often billed alongside BIJI ON DECKS, BOOTHBUNNY and Buday. Next up: ://about blank, Berlin on Fri 21 Aug.
+Karolanne is a techno and trance artist based in Germany, tracked on soundcheck, with 1 set logged across Berlin. Often billed alongside BIJI ON DECKS, BOOTHBUNNY and Buday. Next up: ://about blank, Berlin on Fri 21 Aug.
 
 ## Upcoming shows
 

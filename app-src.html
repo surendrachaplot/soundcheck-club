@@ -3567,6 +3567,41 @@
     .pf-seg-row{ display:flex; align-items:center; justify-content:space-between; gap:10px; flex-wrap:wrap; }
     .pf-seg-row .pf-seg{ margin:0; }
 
+    /* ── ADMIN back office ───────────────────────────────────────────────────
+       Editorial tooling, not a product surface: same tokens and the same
+       canonical .pf-btn, but denser than a public page because the job is
+       scanning and typing, not browsing. */
+    .adm-h { display:flex; align-items:baseline; gap:var(--sp-3); flex-wrap:wrap; margin-bottom:var(--sp-2); }
+    .adm-h .kick { font:600 var(--fs-2xs)/var(--lh-2xs) var(--font-mono); letter-spacing:.14em; text-transform:uppercase; color:var(--faint); }
+    .adm-tabs { display:flex; gap:var(--sp-5); border-bottom:1px solid var(--line); margin:var(--sp-4) 0 var(--sp-5); overflow-x:auto; overflow-y:hidden; }
+    .adm-tab { flex:0 0 auto; background:none; border:0; border-bottom:2px solid transparent; color:var(--muted); padding:0 0 var(--sp-3); font:700 var(--fs-xs)/var(--lh-xs) var(--body); letter-spacing:.06em; text-transform:uppercase; cursor:pointer; white-space:nowrap; }
+    .adm-tab.on { color:var(--fg); border-bottom-color:var(--accent); }
+    .adm-cols { display:grid; grid-template-columns:1fr; gap:var(--sp-5); }
+    @media (min-width:900px){ .adm-cols { grid-template-columns:300px minmax(0,1fr); gap:var(--sp-6); align-items:start; } }
+    .adm-panel { background:var(--surface); border:1px solid var(--border); border-radius:var(--radius); padding:var(--sp-4); }
+    .adm-res { display:flex; flex-direction:column; margin-top:var(--sp-3); max-height:420px; overflow-y:auto; }
+    .adm-res-row { display:block; width:100%; text-align:left; background:none; border:0; border-bottom:1px solid var(--line); color:var(--fg); padding:var(--sp-3) var(--sp-1); cursor:pointer; min-height:44px; }
+    .adm-res-row:last-child { border-bottom:0; }
+    .adm-res-row:hover, .adm-res-row.on { background:var(--surface-2); }
+    .adm-res-row b { display:block; font:700 var(--fs-sm)/var(--lh-sm) var(--body); }
+    .adm-res-row small { display:block; color:var(--faint); font:600 var(--fs-2xs)/var(--lh-2xs) var(--body); margin-top:2px; }
+    .adm-field { margin-bottom:var(--sp-4); }
+    .adm-field > label { display:block; font:700 var(--fs-2xs)/var(--lh-2xs) var(--body); letter-spacing:.09em; text-transform:uppercase; color:var(--muted); margin-bottom:var(--sp-2); }
+    .adm-field input, .adm-field textarea { width:100%; background:var(--surface-2); border:1px solid var(--border); border-radius:var(--radius); color:var(--fg); padding:10px 12px; font:500 var(--fs-sm)/var(--lh-sm) var(--body); }
+    .adm-field textarea { resize:vertical; min-height:88px; }
+    .adm-field input:focus, .adm-field textarea:focus { outline:none; border-color:var(--accent); }
+    /* the crawled value, shown under its field so an editor sees WHAT they override */
+    .adm-was { font:500 var(--fs-2xs)/var(--lh-2xs) var(--body); color:var(--faint); margin-top:var(--sp-2); word-break:break-word; }
+    .adm-was b { color:var(--muted); font-weight:700; }
+    .adm-acts { display:flex; gap:var(--sp-2); align-items:center; flex-wrap:wrap; margin-top:var(--sp-2); }
+    .adm-note { font:600 var(--fs-xs)/var(--lh-xs) var(--body); color:var(--muted); min-height:1.4em; }
+    .adm-note.bad { color:var(--accent); }
+    .adm-sec { border-top:1px solid var(--line); margin-top:var(--sp-6); padding-top:var(--sp-5); }
+    .adm-sec-t { font:800 var(--fs-md)/var(--lh-md) var(--head); letter-spacing:-0.01em; margin-bottom:var(--sp-1); }
+    .adm-sec-s { font:500 var(--fs-xs)/var(--lh-xs) var(--body); color:var(--faint); margin-bottom:var(--sp-4); }
+    .adm-area { border:1px solid var(--border); border-radius:var(--radius); padding:var(--sp-3); margin-bottom:var(--sp-3); }
+    .adm-miss { font:600 var(--fs-2xs)/var(--lh-2xs) var(--font-mono); color:var(--accent); margin-top:var(--sp-2); }
+
     /* ── MOBILE "BANDS" container layer ──────────────────────────────────────
        On phones the boxed-card chrome (1px border + radius + double insets)
        swaps for full-bleed surface bands separated by slivers of page bg —
@@ -3628,7 +3663,7 @@
   <!-- Umami analytics. defer so it never blocks first paint; the SPA rewrites
        history on navigation, which umami picks up automatically. -->
   <script defer src="https://cloud.umami.is/script.js" data-website-id="de210b6c-12e4-4819-95f6-f5120974855a"></script>
-<meta name="sc-build" content="1785249672186">
+<meta name="sc-build" content="1785258616643">
 </head>
 <body>
   <main class="wrap">
@@ -3677,7 +3712,7 @@
     <div class="grid" id="grid"></div>
     <!-- Per-city "what's on this week" date links, injected by build-club (canonical
          /<city>/<date>/ pages). Empty in the source; hidden on client-side city switch. -->
-    <section id="home-seo-more" class="home-seo-more" data-city="london"><h2>What&rsquo;s on in London this week</h2><ul class="home-seo-dates"><li><a href="/london/2026-07-28/">Tue 28 Jul <span class="c">4 events</span></a></li><li><a href="/london/2026-07-29/">Wed 29 Jul <span class="c">13 events</span></a></li><li><a href="/london/2026-07-30/">Thu 30 Jul <span class="c">28 events</span></a></li><li><a href="/london/2026-07-31/">Fri 31 Jul <span class="c">92 events</span></a></li><li><a href="/london/2026-08-01/">Sat 1 Aug <span class="c">120 events</span></a></li><li><a href="/london/2026-08-02/">Sun 2 Aug <span class="c">37 events</span></a></li><li><a href="/london/2026-08-05/">Wed 5 Aug <span class="c">5 events</span></a></li></ul><nav class="home-seo-nav" aria-label="More on soundcheck"><a href="/london/this-weekend/">This weekend in London</a> <a href="/london/scene/">London scene guide</a> <a href="/cities/">All 104 cities</a></nav></section>
+    <section id="home-seo-more" class="home-seo-more" data-city="london"><h2>What&rsquo;s on in London this week</h2><ul class="home-seo-dates"><li><a href="/london/2026-07-28/">Tue 28 Jul <span class="c">4 events</span></a></li><li><a href="/london/2026-07-29/">Wed 29 Jul <span class="c">13 events</span></a></li><li><a href="/london/2026-07-30/">Thu 30 Jul <span class="c">28 events</span></a></li><li><a href="/london/2026-07-31/">Fri 31 Jul <span class="c">92 events</span></a></li><li><a href="/london/2026-08-01/">Sat 1 Aug <span class="c">121 events</span></a></li><li><a href="/london/2026-08-02/">Sun 2 Aug <span class="c">37 events</span></a></li><li><a href="/london/2026-08-05/">Wed 5 Aug <span class="c">5 events</span></a></li></ul><nav class="home-seo-nav" aria-label="More on soundcheck"><a href="/london/this-weekend/">This weekend in London</a> <a href="/london/scene/">London scene guide</a> <a href="/cities/">All 104 cities</a></nav></section>
 
     <!-- Crawlable home content (H1 + intro) — moved to the bottom of the page. Still a real
          <h1> in the DOM so it's the page heading for SEO regardless of visual position.
@@ -9308,6 +9343,253 @@
     // ---- hash router (#u/<handle>, #feed, #a/<slug>, #v/<name>, #log) ----
     // The active route: entity pages come off the path (/a/<slug>), nav overlays
     // off the hash. '' = home (no overlay).
+    // ── ADMIN back office ────────────────────────────────────────────────────
+    // Find an entity, see the crawled row next to what we've overridden, edit the
+    // override. Writes go to entity_overrides (the same layer owner-edits use), so
+    // nothing here is lost to the next crawl.
+    // Admin-ness is decided server-side by ADMIN_EMAILS; this only hides the UI.
+    var admState={ kind:'artist', slug:null, city:null, guide:null, areas:[] };
+    var _admIsAdmin=null;
+    function admIsAdmin(){
+      if(_admIsAdmin!==null) return Promise.resolve(_admIsAdmin);
+      return authedFetch('/api/admin/me').then(function(r){ return r.json(); })
+        .then(function(j){ _admIsAdmin=!!(j&&j.admin); return _admIsAdmin; })
+        .catch(function(){ return false; });
+    }
+    var ADM_KINDS=[['artist','Artists'],['venue','Venues'],['event','Events'],['city','City guides']];
+    async function openAdmin(kind){
+      setRoute('admin');
+      if(!currentUser){ openAuth(); return; }
+      showPage('<div class="empty" style="padding:16px"><span class="spinner"></span> Checking&hellip;</div>');
+      if(!(await admIsAdmin())){
+        showPage('<div class="es"><span class="es-t">Not your door</span><p class="es-s">This is the editorial back office. If you should have access, the ADMIN_EMAILS list is where it&rsquo;s granted.</p></div>');
+        return;
+      }
+      admState.kind = kind || admState.kind || 'artist';
+      admState.slug=null; admState.city=null; admState.guide=null; admState.areas=[];
+      showPage(admShellHTML());
+      admWireTabs();
+      admRenderLeft();
+      admRenderRight();
+    }
+    function admShellHTML(){
+      return '<div class="adm-h"><span class="kick">Back office</span></div>'+
+        '<h2 class="page-title">Edit the catalogue</h2>'+
+        '<div class="sub">Edits are stored as an override on top of the crawled data &mdash; the nightly re-crawl can&rsquo;t undo them. Clear a field to fall back to what we crawled.</div>'+
+        '<div class="adm-tabs" id="adm-tabs">'+ADM_KINDS.map(function(k){
+          return '<button class="adm-tab'+(admState.kind===k[0]?' on':'')+'" type="button" data-kind="'+k[0]+'">'+esc(k[1])+'</button>';
+        }).join('')+'</div>'+
+        '<div class="adm-cols"><div class="adm-panel" id="adm-left"></div><div id="adm-right"></div></div>';
+    }
+    function admWireTabs(){
+      document.querySelectorAll('#adm-tabs .adm-tab').forEach(function(b){
+        b.addEventListener('click',function(){
+          admState.kind=b.dataset.kind; admState.slug=null; admState.city=null; admState.guide=null; admState.areas=[];
+          document.querySelectorAll('#adm-tabs .adm-tab').forEach(function(x){ x.classList.toggle('on', x===b); });
+          admRenderLeft(); admRenderRight();
+        });
+      });
+    }
+    // ── left column: pick something ─────────────────────────────────────────
+    function admRenderLeft(){
+      var el=document.getElementById('adm-left'); if(!el) return;
+      if(admState.kind==='city'){
+        el.innerHTML='<div class="adm-field" style="margin-bottom:0"><label>City</label>'+
+          '<div class="adm-res" id="adm-res">'+CITY_LIST.map(function(c){
+            return '<button class="adm-res-row" type="button" data-city="'+attrEsc(c.slug)+'"><b>'+esc(c.name)+'</b><small>'+esc(c.slug)+'</small></button>';
+          }).join('')+'</div></div>';
+        el.querySelectorAll('[data-city]').forEach(function(b){
+          b.addEventListener('click',function(){ admState.city=b.dataset.city; admMarkPicked(el,b); admLoadGuide(); });
+        });
+        return;
+      }
+      var ph = admState.kind==='event' ? 'Event title…' : (admState.kind==='venue' ? 'Venue name…' : 'Artist name…');
+      el.innerHTML='<div class="adm-field" style="margin-bottom:0"><label>Search</label>'+
+        '<input type="search" id="adm-q" placeholder="'+attrEsc(ph)+'" autocomplete="off" autocapitalize="off">'+
+        '<div class="adm-res" id="adm-res"></div></div>';
+      var q=document.getElementById('adm-q'), t=null;
+      q.addEventListener('input',function(){ clearTimeout(t); t=setTimeout(admSearch,220); });
+      q.focus();
+    }
+    function admMarkPicked(scope, btn){
+      scope.querySelectorAll('.adm-res-row').forEach(function(x){ x.classList.toggle('on', x===btn); });
+    }
+    async function admSearch(){
+      var box=document.getElementById('adm-res'), q=document.getElementById('adm-q');
+      if(!box||!q) return;
+      var term=q.value.trim();
+      if(term.length<2){ box.innerHTML=''; return; }
+      var kind=admState.kind;
+      var j={};
+      try{ j=await (await authedFetch('/api/admin/find?type='+encodeURIComponent(kind)+'&q='+encodeURIComponent(term))).json(); }catch(_){}
+      if(admState.kind!==kind) return;   // tab changed while we were fetching
+      var rows=(j&&j.rows)||[];
+      if(!rows.length){ box.innerHTML='<div class="adm-note">Nothing matched.</div>'; return; }
+      box.innerHTML=rows.map(function(r){
+        return '<button class="adm-res-row" type="button" data-slug="'+attrEsc(r.id)+'"><b>'+esc(r.label||r.id)+'</b><small>'+esc(r.sub||'')+'</small></button>';
+      }).join('');
+      box.querySelectorAll('[data-slug]').forEach(function(b){
+        b.addEventListener('click',function(){ admState.slug=b.dataset.slug; admMarkPicked(box,b); admLoadEntity(); });
+      });
+    }
+    // ── right column: the editor ────────────────────────────────────────────
+    function admRenderRight(html){
+      var el=document.getElementById('adm-right'); if(!el) return;
+      el.innerHTML = html || '<div class="es"><span class="es-t">Nothing selected</span><p class="es-s">'+
+        (admState.kind==='city' ? 'Pick a city to write its guide.' : 'Search on the left, then pick a result to edit it.')+'</p></div>';
+    }
+    // Field labels; the server decides what is actually accepted (EDIT_KEYS).
+    var ADM_LABELS={ blurb:'Blurb', website:'Website', instagram:'Instagram', soundcloud:'SoundCloud',
+      address:'Address', capacity:'Capacity', hours:'Opening hours', soundsystem:'Sound system',
+      bio:'Bio', booking_email:'Booking email', booking_hidden:'Hide booking email', lineup_note:'Line-up note' };
+    // Which crawled column backs each override key — shown under the input so an
+    // editor can see what they are replacing rather than guessing.
+    var ADM_CANON={ blurb:'content', bio:'bio', website:'website', instagram:'instagram', soundcloud:'soundcloud',
+      address:'address', soundsystem:'sound_system' };
+    async function admLoadEntity(){
+      admRenderRight('<div class="empty" style="padding:16px"><span class="spinner"></span> Loading&hellip;</div>');
+      var kind=admState.kind, slug=admState.slug, j=null;
+      try{ j=await (await authedFetch('/api/admin/entity?type='+encodeURIComponent(kind)+'&slug='+encodeURIComponent(slug))).json(); }catch(_){}
+      if(admState.slug!==slug) return;
+      if(!j||!j.canonical){ admRenderRight('<div class="es"><span class="es-t">Couldn&rsquo;t load that</span><p class="es-s">It may have been removed since the search ran.</p></div>'); return; }
+      var can=j.canonical, patch=j.patch||{}, fields=j.fields||{};
+      var body='<div class="adm-panel"><div class="adm-sec-t">'+esc(can.name||can.slug)+'</div>'+
+        '<div class="adm-sec-s">'+esc(kind)+' &middot; '+esc(can.slug)+(j.updatedAt?' &middot; last edited '+esc(String(j.updatedAt).slice(0,10)):'')+'</div>';
+      Object.keys(fields).forEach(function(k){
+        var isBool=fields[k]==='bool', val=patch[k]==null?'':patch[k];
+        var canonVal=ADM_CANON[k]?can[ADM_CANON[k]]:null;
+        body+='<div class="adm-field"><label for="adm-f-'+k+'">'+esc(ADM_LABELS[k]||k)+'</label>';
+        if(isBool){
+          body+='<input type="checkbox" id="adm-f-'+k+'" data-key="'+k+'" data-bool="1" style="width:auto"'+(val?' checked':'')+'>';
+        } else if(k==='blurb'||k==='bio'){
+          body+='<textarea id="adm-f-'+k+'" data-key="'+k+'" maxlength="'+(+fields[k]||600)+'">'+esc(val)+'</textarea>';
+        } else {
+          body+='<input type="text" id="adm-f-'+k+'" data-key="'+k+'" maxlength="'+(+fields[k]||200)+'" value="'+attrEsc(val)+'">';
+        }
+        if(canonVal) body+='<div class="adm-was"><b>Crawled:</b> '+esc(String(canonVal).slice(0,220))+'</div>';
+        body+='</div>';
+      });
+      body+='<div class="adm-acts"><button class="pf-btn primary" type="button" id="adm-save">Save override</button>'+
+        '<a class="pf-btn" id="adm-view" href="#">View page</a>'+
+        '<span class="adm-note" id="adm-msg"></span></div></div>';
+      admRenderRight(body);
+      var view=document.getElementById('adm-view');
+      view.setAttribute('href', SC_BASE + (kind==='artist'?'dj/'+encodeURIComponent(slug)+'/' : kind==='venue'?'club/'+encodeURIComponent(slug)+'/' : 'e/'+encodeURIComponent(slug)+'/'));
+      view.setAttribute('target','_blank'); view.setAttribute('rel','noopener');
+      document.getElementById('adm-save').addEventListener('click', function(){ admSaveEntity(kind, slug); });
+    }
+    async function admSaveEntity(kind, slug){
+      var msg=document.getElementById('adm-msg'), btn=document.getElementById('adm-save');
+      var patch={};
+      document.querySelectorAll('#adm-right [data-key]').forEach(function(f){
+        patch[f.dataset.key] = f.dataset.bool ? !!f.checked : f.value;
+      });
+      msg.className='adm-note'; msg.textContent='Saving…'; btn.disabled=true;
+      try{
+        var r=await authedFetch('/api/admin/entity-edit',{ method:'POST', headers:{'Content-Type':'application/json'},
+          body:JSON.stringify({ type:kind, slug:slug, patch:patch }) });
+        var j=await r.json();
+        if(!r.ok||!j.ok) throw new Error((j&&j.error)||('HTTP '+r.status));
+        msg.textContent='Saved. Live on the page now.';
+      }catch(e){ msg.className='adm-note bad'; msg.textContent='Not saved — '+e.message; }
+      btn.disabled=false;
+    }
+    // ── city guides ─────────────────────────────────────────────────────────
+    var ADM_PRACTICAL=[['door','Door policy'],['closing','Closing times'],['transport','Night transport'],['payment','Cash or card'],['age','Age limits']];
+    async function admLoadGuide(){
+      admRenderRight('<div class="empty" style="padding:16px"><span class="spinner"></span> Loading&hellip;</div>');
+      var city=admState.city, j=null;
+      try{ j=await (await authedFetch('/api/admin/city-guide?city='+encodeURIComponent(city))).json(); }catch(_){}
+      if(admState.city!==city) return;
+      if(!j||!j.doc){ admRenderRight('<div class="es"><span class="es-t">Couldn&rsquo;t load that guide</span></div>'); return; }
+      admState.guide=j.doc; admState.areas=(j.doc.areas||[]).slice();
+      admRenderGuide(j);
+    }
+    function admRenderGuide(j){
+      var d=admState.guide, cityName=(CITY_LIST.filter(function(c){ return c.slug===admState.city; })[0]||{}).name||admState.city;
+      var h='<div class="adm-panel"><div class="adm-sec-t">'+esc(cityName)+'</div>'+
+        '<div class="adm-sec-s">The hand-written layer on the city page. Every section is optional&nbsp;&mdash; save as you go.'+
+        (j&&j.updatedAt?' Last edited '+esc(String(j.updatedAt).slice(0,10))+'.':'')+'</div>'+
+        '<div class="adm-field"><label for="adm-g-intro">Intro</label>'+
+          '<textarea id="adm-g-intro" maxlength="1500" placeholder="What someone should know before their first night here.">'+esc(d.intro||'')+'</textarea></div>'+
+        '<div class="adm-field"><label for="adm-g-high">Highlights <small style="text-transform:none;letter-spacing:0;color:var(--faint)">one per line, up to 6</small></label>'+
+          '<textarea id="adm-g-high" placeholder="Nothing starts before 1am">'+esc((d.highlights||[]).join('\n'))+'</textarea></div>'+
+        '<div class="adm-sec"><div class="adm-sec-t">Practical</div><div class="adm-sec-s">The stuff nobody else publishes.</div>';
+      ADM_PRACTICAL.forEach(function(p){
+        h+='<div class="adm-field"><label for="adm-g-p-'+p[0]+'">'+esc(p[1])+'</label>'+
+          '<input type="text" id="adm-g-p-'+p[0]+'" maxlength="300" value="'+attrEsc((d.practical||{})[p[0]]||'')+'"></div>';
+      });
+      h+='</div><div class="adm-sec"><div class="adm-sec-t">Picks</div>'+
+        '<div class="adm-sec-s">Slugs, one per line. These override the computed popularity order.</div>'+
+        '<div class="adm-field"><label for="adm-g-pv">Venues</label><textarea id="adm-g-pv" placeholder="fabric">'+esc(((d.picks||{}).venues||[]).join('\n'))+'</textarea></div>'+
+        '<div class="adm-field"><label for="adm-g-pa">Artists</label><textarea id="adm-g-pa" placeholder="ben-klock">'+esc(((d.picks||{}).artists||[]).join('\n'))+'</textarea></div></div>'+
+        '<div class="adm-sec"><div class="adm-sec-t">Areas</div><div class="adm-sec-s">Neighbourhoods, and which rooms sit in them.</div>'+
+        '<div id="adm-g-areas"></div>'+
+        '<div class="adm-acts"><button class="pf-btn" type="button" id="adm-g-add">Add area</button></div></div>'+
+        '<div class="adm-acts" style="margin-top:var(--sp-5)"><button class="pf-btn primary" type="button" id="adm-g-save">Save guide</button>'+
+        '<span class="adm-note" id="adm-g-msg"></span></div>'+
+        '<div class="adm-miss" id="adm-g-miss"></div></div>';
+      admRenderRight(h);
+      admRenderAreas();
+      admShowMissing(j&&j.resolved);
+      document.getElementById('adm-g-add').addEventListener('click',function(){
+        admCaptureAreas(); admState.areas.push({name:'',note:'',venues:[]}); admRenderAreas();
+      });
+      document.getElementById('adm-g-save').addEventListener('click', admSaveGuide);
+    }
+    function admRenderAreas(){
+      var box=document.getElementById('adm-g-areas'); if(!box) return;
+      box.innerHTML=admState.areas.map(function(a,i){
+        return '<div class="adm-area">'+
+          '<div class="adm-field"><label for="adm-a-n-'+i+'">Name</label><input type="text" id="adm-a-n-'+i+'" data-ai="'+i+'" data-af="name" maxlength="80" value="'+attrEsc(a.name||'')+'"></div>'+
+          '<div class="adm-field"><label for="adm-a-t-'+i+'">Note</label><textarea id="adm-a-t-'+i+'" data-ai="'+i+'" data-af="note" maxlength="400">'+esc(a.note||'')+'</textarea></div>'+
+          '<div class="adm-field" style="margin-bottom:0"><label for="adm-a-v-'+i+'">Venue slugs <small style="text-transform:none;letter-spacing:0;color:var(--faint)">comma separated</small></label>'+
+            '<input type="text" id="adm-a-v-'+i+'" data-ai="'+i+'" data-af="venues" value="'+attrEsc((a.venues||[]).join(', '))+'"></div>'+
+          '<div class="adm-acts"><button class="pf-btn" type="button" data-arm="'+i+'">Remove</button></div></div>';
+      }).join('') || '<div class="adm-note">No areas yet.</div>';
+      box.querySelectorAll('[data-arm]').forEach(function(b){
+        b.addEventListener('click',function(){ admCaptureAreas(); admState.areas.splice(+b.dataset.arm,1); admRenderAreas(); });
+      });
+    }
+    // Read the area inputs back into state before any re-render, or typing is lost.
+    function admCaptureAreas(){
+      document.querySelectorAll('#adm-g-areas [data-ai]').forEach(function(f){
+        var a=admState.areas[+f.dataset.ai]; if(!a) return;
+        if(f.dataset.af==='venues') a.venues=f.value.split(',').map(function(s){ return s.trim(); }).filter(Boolean);
+        else a[f.dataset.af]=f.value;
+      });
+    }
+    function admShowMissing(res){
+      var el=document.getElementById('adm-g-miss'); if(!el) return;
+      var miss=(res&&res.missing)||[];
+      el.textContent = miss.length ? ('Unknown slugs (they will not render): '+miss.join(', ')) : '';
+    }
+    function admSaveGuide(){
+      admCaptureAreas();
+      var lines=function(id){ var e=document.getElementById(id); return e ? e.value.split('\n').map(function(s){ return s.trim(); }).filter(Boolean) : []; };
+      var practical={};
+      ADM_PRACTICAL.forEach(function(p){ var e=document.getElementById('adm-g-p-'+p[0]); practical[p[0]]=e?e.value:''; });
+      var doc={
+        intro:(document.getElementById('adm-g-intro')||{}).value||'',
+        highlights:lines('adm-g-high'),
+        practical:practical,
+        picks:{ venues:lines('adm-g-pv'), artists:lines('adm-g-pa') },
+        areas:admState.areas
+      };
+      var msg=document.getElementById('adm-g-msg'), btn=document.getElementById('adm-g-save');
+      msg.className='adm-note'; msg.textContent='Saving…'; btn.disabled=true;
+      authedFetch('/api/admin/city-guide',{ method:'POST', headers:{'Content-Type':'application/json'},
+        body:JSON.stringify({ city:admState.city, doc:doc }) })
+        .then(function(r){ return r.json().then(function(j){ return { ok:r.ok, j:j }; }); })
+        .then(function(o){
+          if(!o.ok||!o.j.ok) throw new Error((o.j&&o.j.error)||'save failed');
+          admState.guide=o.j.doc; admState.areas=(o.j.doc.areas||[]).slice();
+          msg.textContent='Saved.'; admShowMissing(o.j.resolved);
+        })
+        .catch(function(e){ msg.className='adm-note bad'; msg.textContent='Not saved — '+e.message; })
+        .then(function(){ btn.disabled=false; });
+    }
+
     function currentRoute(){ return pathRoute() || decodeURIComponent(location.hash.replace(/^#/,'')); }
     function handleRoute(){
       var hash=currentRoute();
@@ -9323,6 +9605,8 @@
       else if(hash==='feed') openFeed();
       else if(hash==='log') openLog();
       else if(hash==='import') openImport();
+      else if(hash==='admin') openAdmin();
+      else if(hash.indexOf('admin/')===0) openAdmin(hash.slice(6));
       else if(hash==='diary') openDiaryPage(currentUser&&currentUser.handle, true);
       else if(hash.indexOf('diary/')===0) openDiaryPage(hash.slice(6));
       else if(/^u\/[^/]+\/rotation$/.test(hash)) openProfile(hash.slice(2).replace(/\/rotation$/,''));

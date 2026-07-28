@@ -1,8 +1,8 @@
 # LeVin
 
-LeVin is a House and Minimal artist with 1 upcoming club date listed on soundcheck as of Tue, 28 Jul 2026, next at TBA, London on Mon, 31 Aug 2026.
+LeVin is a Minimal and House artist with 1 upcoming club date listed on soundcheck as of Tue, 28 Jul 2026, next at TBA, London on Mon, 31 Aug 2026.
 
-LeVin is a house and minimal artist based in United States of America, tracked on soundcheck, with 1 set logged across London. Often billed alongside Dale, Greg Nox and PR Department. Next up: TBA, London on Mon 31 Aug.
+LeVin is a minimal and house artist based in United States of America, tracked on soundcheck, with 1 set logged across London. Often billed alongside Dale, Greg Nox and PR Department. Next up: TBA, London on Mon 31 Aug.
 
 ## Upcoming shows
 

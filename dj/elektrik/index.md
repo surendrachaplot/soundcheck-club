@@ -1,8 +1,8 @@
 # Elektrik
 
-Elektrik is a Techno and Electro artist with 1 upcoming club date listed on soundcheck as of Tue, 28 Jul 2026, next at Rachdingue, Barcelona on Sat, 15 Aug 2026.
+Elektrik is a Electro and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 28 Jul 2026, next at Rachdingue, Barcelona on Sat, 15 Aug 2026.
 
-Elektrik is a techno and electro artist based in Spain, tracked on soundcheck, with 1 set logged across Barcelona. Often billed alongside Cucut, Damon Jee and Darlyn Vlys. Next up: Rachdingue, Barcelona on Sat 15 Aug.
+Elektrik is an electro and techno artist based in Spain, tracked on soundcheck, with 1 set logged across Barcelona. Often billed alongside Cucut, Damon Jee and Darlyn Vlys. Next up: Rachdingue, Barcelona on Sat 15 Aug.
 
 ## Upcoming shows
 

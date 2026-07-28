@@ -1,8 +1,8 @@
 # Gewölbe
 
-Gewölbe is a music venue in Cologne with 6 upcoming nights listed on soundcheck as of Tue, 28 Jul 2026; the next is "Klubnacht with Etane, Westbam" on Sat, 1 Aug 2026.
+Gewölbe is a music venue in Cologne with 7 upcoming nights listed on soundcheck as of Tue, 28 Jul 2026; the next is "Klubnacht with Etane, Westbam" on Sat, 1 Aug 2026.
 
-Gewölbe is a music venue in Cologne listed on soundcheck. 6 upcoming nights, with line-ups including Carl Craig, Domenik Deckert, Elli Acula and Etane and 2 more. Browse upcoming dates, start times and who's playing. Hans-Böckler Platz 2, 50672; Cologne; Germany.
+Gewölbe is a music venue in Cologne listed on soundcheck. 7 upcoming nights, with line-ups including Carl Craig, DCHM, Domenik Deckert and Elli Acula and 2 more. Browse upcoming dates, start times and who's playing. Hans-Böckler Platz 2, 50672; Cologne; Germany.
 
 ## What's on
 
@@ -14,6 +14,7 @@ Gewölbe is a music venue in Cologne listed on soundcheck. 6 upcoming nights, wi
 | Sat, 22 Aug 2026 | Klubnacht with Carl Craig, Marcel Janovsky | Carl Craig, Marcel Janovsky |
 | Fri, 28 Aug 2026 | Im Fokus with Chiara Kley & Hugo Helten, Freddy Deckert & Marcel Janovsky, Summe Total & Lena M | Hugo Helten, Marcel Janovsky, Summe Total |
 | Sat, 29 Aug 2026 | Next Level with AAMAA, Domenik Deckert, skathi, Vagabund | Domenik Deckert, Vagabund |
+| Fri, 4 Sept 2026 | Simple present with DCHM, Lara Fein, Ryan Elliott | DCHM, Lara Fein, Ryan Elliott |
 
 ## Address
 

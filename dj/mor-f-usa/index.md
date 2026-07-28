@@ -1,8 +1,8 @@
 # mor-f
 
-mor-f is a Techno and Bass artist with 1 upcoming club date listed on soundcheck as of Tue, 28 Jul 2026, next at TBA - Ming Lounge, Portland on Sat, 1 Aug 2026.
+mor-f is a Bass and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 28 Jul 2026, next at TBA - Ming Lounge, Portland on Sat, 1 Aug 2026.
 
-mor-f is a techno and bass artist based in United States of America, tracked on soundcheck, with 1 set logged across Portland. Often billed alongside DJ Eft, Succubass and Toma Kami. Next up: TBA - Ming Lounge, Portland on Sat 1 Aug.
+mor-f is a bass and techno artist based in United States of America, tracked on soundcheck, with 1 set logged across Portland. Often billed alongside DJ Eft, Succubass and Toma Kami. Next up: TBA - Ming Lounge, Portland on Sat 1 Aug.
 
 ## Upcoming shows
 

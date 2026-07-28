@@ -1,6 +1,6 @@
 # FIRST DAZE BEATS by Krit Su presents Bangkok Vinyl Junkies All Star at Culture Cafe
 
-FIRST DAZE BEATS by Krit Su presents Bangkok Vinyl Junkies All Star at Culture Cafe on Sat 1 Aug, Bangkok. 2 acts on the bill: Funkpheno and Krit Su. Techno and House. Preview the line-up and save it on soundcheck.
+FIRST DAZE BEATS by Krit Su presents Bangkok Vinyl Junkies All Star at Culture Cafe on Sat 1 Aug, Bangkok. 3 acts on the bill: Funkpheno, Krit Su and Kunanon. Techno and House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -12,5 +12,6 @@ FIRST DAZE BEATS by Krit Su presents Bangkok Vinyl Junkies All Star at Culture C
 
 - Funkpheno
 - Krit Su
+- Kunanon
 
 *Source: [soundcheck](https://soundcheck.club/e/2471621-first-daze-beats-by-krit-su-presents-bangkok-vinyl-junkies-a/)*

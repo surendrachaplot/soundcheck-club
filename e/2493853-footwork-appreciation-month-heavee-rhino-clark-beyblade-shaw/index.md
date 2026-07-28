@@ -1,6 +1,6 @@
 # Footwork Appreciation Month: Heavee, Rhino Clark, BEYBLADE SHAWTY, Petal, Chelsea at public records
 
-Footwork Appreciation Month: Heavee, Rhino Clark, BEYBLADE SHAWTY, Petal, Chelsea at public records on Thu 20 Aug, Newyorkcity. 4 acts on the bill: BEYBLADE SHAWTY, Heavee, Pètal and Rhino Clark. Preview the line-up and save it on soundcheck.
+Footwork Appreciation Month: Heavee, Rhino Clark, BEYBLADE SHAWTY, Petal, Chelsea at public records on Thu 20 Aug, Newyorkcity. 4 acts on the bill: BEYBLADE SHAWTY, Heavee, Petal and Rhino Clark. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -12,7 +12,7 @@ Footwork Appreciation Month: Heavee, Rhino Clark, BEYBLADE SHAWTY, Petal, Chelse
 
 - BEYBLADE SHAWTY
 - Heavee
-- Pètal
+- Petal
 - Rhino Clark
 
 *Source: [soundcheck](https://soundcheck.club/e/2493853-footwork-appreciation-month-heavee-rhino-clark-beyblade-shaw/)*

@@ -1,8 +1,8 @@
 # suki
 
-suki is a Techno and Progressive House artist with 2 upcoming club dates listed on soundcheck as of Tue, 28 Jul 2026, next at FLUCC, Vienna on Sat, 1 Aug 2026.
+suki is a Techno and Progressive House artist with 3 upcoming club dates listed on soundcheck as of Tue, 28 Jul 2026, next at FLUCC, Vienna on Sat, 1 Aug 2026.
 
-suki is a techno and progressive house artist tracked on soundcheck, with 65 sets logged across Amsterdam, Berlin, Copenhagen and Hobart and 14 more. Often billed alongside Mabel, Hannah D and Lex. Next up: FLUCC, Vienna on Sat 1 Aug.
+suki is a techno and progressive house artist tracked on soundcheck, with 66 sets logged across Amsterdam, Berlin, Copenhagen and Hobart and 14 more. Often billed alongside Mabel, Hannah D and Lex. Next up: FLUCC, Vienna on Sat 1 Aug.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ suki is a techno and progressive house artist tracked on soundcheck, with 65 set
 | --- | --- | --- |
 | Sat, 1 Aug 2026 | FLUCC | Vienna |
 | Fri, 28 Aug 2026 | Miscellania | Melbourne |
+| Sat, 29 Aug 2026 | Bahnwärter Thiel | Munich |
 
 ## Recently played
 

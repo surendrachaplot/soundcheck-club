@@ -1,8 +1,8 @@
 # Daniel Joseph
 
-Daniel Joseph is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Tue, 28 Jul 2026, next at Spin, San Diego on Fri, 31 Jul 2026.
+Daniel Joseph is a Tech House and House artist with 1 upcoming club date listed on soundcheck as of Tue, 28 Jul 2026, next at Spin, San Diego on Fri, 31 Jul 2026.
 
-Daniel Joseph is a house and tech house artist based in United Kingdom, tracked on soundcheck, with 1 set logged across Sandiego. Often billed alongside Kasama and Lito (1). Next up: Spin, Sandiego on Fri 31 Jul.
+Daniel Joseph is a tech house and house artist based in United Kingdom, tracked on soundcheck, with 1 set logged across Sandiego. Often billed alongside Kasama and Lito (1). Next up: Spin, Sandiego on Fri 31 Jul.
 
 ## Upcoming shows
 

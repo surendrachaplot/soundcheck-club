@@ -1,14 +1,15 @@
 # Hanz
 
-Hanz is a Bass and UK Funky artist with 3 upcoming club dates listed on soundcheck as of Tue, 28 Jul 2026, next at Eastern Bloc Records, Manchester on Thu, 30 Jul 2026.
+Hanz is a Bass and Garage artist with 4 upcoming club dates listed on soundcheck as of Tue, 28 Jul 2026, next at Eastern Bloc Records, Manchester on Thu, 30 Jul 2026.
 
-Hanz is a bass and uk funky artist based in United Kingdom, tracked on soundcheck, with 85 sets logged across Belfast, Glasgow, Losangeles and Manchester. Often billed alongside Syntax (2), aalice and Charlie Boy Manson. Next up: Eastern Bloc Records, Manchester on Thu 30 Jul.
+Hanz is a bass and garage artist based in United Kingdom, tracked on soundcheck, with 86 sets logged across Belfast, Glasgow, Losangeles and Manchester. Often billed alongside Syntax (2), aalice and Charlie Boy Manson. Next up: Eastern Bloc Records, Manchester on Thu 30 Jul.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Thu, 30 Jul 2026 | Eastern Bloc Records | Manchester |
+| Sat, 1 Aug 2026 | Hidden | Manchester |
 | Fri, 21 Aug 2026 | Hidden | Manchester |
 | Thu, 24 Sept 2026 | Hidden | Manchester |
 
