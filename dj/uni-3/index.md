@@ -1,8 +1,8 @@
 # Uni (3)
 
-Uni (3) is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Tue, 28 Jul 2026, next at Dual, Bangkok on Fri, 31 Jul 2026.
+Uni (3) is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Tue, 28 Jul 2026, next at Dual, Bangkok on Fri, 31 Jul 2026.
 
-Uni (3) is a techno and house artist based in South Korea, tracked on soundcheck, with 38 sets logged across Bangkok, Newyorkcity and Seoul. Often billed alongside Bolm, YAREE and DAMIE (KR). Next up: Dual, Bangkok on Fri 31 Jul.
+Uni (3) is a house and techno artist based in South Korea, tracked on soundcheck, with 38 sets logged across Bangkok, Newyorkcity and Seoul. Often billed alongside Bolm, YAREE and DAMIE (KR). Next up: Dual, Bangkok on Fri 31 Jul.
 
 ## Upcoming shows
 

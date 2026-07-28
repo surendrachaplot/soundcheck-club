@@ -12,7 +12,7 @@ Else is a music venue in Berlin listed on soundcheck. 23 upcoming nights, with l
 | Sat, 1 Aug 2026 | Else x Freddy K pres. KEY Vinyl [12:00 starting time] | AYLIN IDAH, AgainstMe, Annie Lew, Fergus Sweetland, Freddy K, Kim She, Mara Menace, Philippa Pacho, Sons Of Hidden, Toobris, ain't Marco |
 | Sun, 2 Aug 2026 | Else x Nachti | Courtesy, DJ MILLE, Danielle, Elias Mazian, Jenny Cara, MILLE, Mille (DE), Moopie |
 | Fri, 7 Aug 2026 | Else: TRANSITION x Smile Sessions | Amphia, BENZA, Bailey Ibbs, Gloria Rose, JKS, Lobster (NL), Ponygirl, Pōnky, Vilchezz |
-| Sat, 8 Aug 2026 | Else 13th Birthday Weekender: 40 hours nonstop | ALI3N, Angel D'lite, Blue Hour, COZi, Carl Bergé, Cecilia Tosh, DJ SOURCE, DJ SUN (CH/DE), DJ Sun, DJ TOOL, Dee Diggs, KVLR, Kameliia, Len Faki, Matrixxman, Nightmares on Wax, Stella Zekri, Stephanie Sykes, Talia Dorr, Thabo, Vincent Neumann, Young Marco, jiyun kim, nthng |
+| Sat, 8 Aug 2026 | Else Birthday: 40 hrs: Len Faki, Nightmares on Wax, Young Marco, Matrixxman, Kameliia | ALI3N, Angel D'lite, Blue Hour, COZi, Carl Bergé, Cecilia Tosh, DJ SOURCE, DJ SUN (CH/DE), DJ Sun, DJ TOOL, Dee Diggs, KVLR, Kameliia, Len Faki, Matrixxman, Nightmares on Wax, Stella Zekri, Stephanie Sykes, Talia Dorr, Thabo, Vincent Neumann, Young Marco, jiyun kim, nthng |
 | Fri, 14 Aug 2026 | Else x Hotlord Fest presented by LOVEFOXY | Bambounou, Eliza Rose, Kevin Saunderson, LACATY, LOVEFOXY |
 | Sat, 15 Aug 2026 | Else x Toy Tonics | Aroop Roy, Barbara Boeing, Emilia Callari, Laurence Guy, Max NRG Supply, Natalie Robinson, Stump Valley |
 | Fri, 21 Aug 2026 | Jackies Open Air Party Berlin - with Dennis Cruz | Aria Santillana, Dan Shake, Dennis Cruz, GIVIO, Nesi, Piem |

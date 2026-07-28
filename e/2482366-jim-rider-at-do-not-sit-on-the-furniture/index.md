@@ -1,0 +1,15 @@
+# Jim Rider at Do Not Sit On The Furniture
+
+Jim Rider at Do Not Sit On The Furniture on Fri 25 Sept, Miami. 1 act on the bill: Jim Rider. House and Deep House. Preview the line-up and save it on soundcheck.
+
+| Field | Value |
+| --- | --- |
+| Date | Fri, 25 Sept 2026 |
+| Venue | Do Not Sit On The Furniture |
+| City | Miami |
+
+## Line-up
+
+- Jim Rider
+
+*Source: [soundcheck](https://soundcheck.club/e/2482366-jim-rider-at-do-not-sit-on-the-furniture/)*

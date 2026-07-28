@@ -1,0 +1,28 @@
+# Dexy's Midnight
+
+Dexy's Midnight is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Tue, 28 Jul 2026, next at Lokschuppen Berlin, Berlin on Wed, 5 Aug 2026.
+
+Dexy's Midnight is a techno and trance artist based in Germany, tracked on soundcheck, with 44 sets logged across Berlin and Munich. Often billed alongside Alina Viktoria, SACID and DJ Henk. Next up: Lokschuppen Berlin, Berlin on Wed 5 Aug.
+
+## Upcoming shows
+
+| Date | Venue | City |
+| --- | --- | --- |
+| Wed, 5 Aug 2026 | Lokschuppen Berlin | Berlin |
+
+## Recently played
+
+- ÆDEN, Berlin — Sun, 21 Jun 2026
+- Humboldthain Club, Berlin — Fri, 29 May 2026
+- Rote Sonne, Munich — Sat, 21 Feb 2026
+- ://about blank, Berlin — Fri, 16 Jan 2026
+- Lokschuppen Berlin, Berlin — Sat, 27 Dec 2025
+- Lokschuppen Berlin, Berlin — Fri, 28 Nov 2025
+- Lokschuppen Berlin, Berlin — Sat, 11 Oct 2025
+- ://about blank, Berlin — Fri, 3 Oct 2025
+
+## Shares bills with
+
+Alina Viktoria, SACID, DJ Henk
+
+*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/dexysmidnight/)*

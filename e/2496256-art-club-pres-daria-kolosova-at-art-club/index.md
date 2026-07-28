@@ -1,0 +1,15 @@
+# Art Club pres. Daria Kolosova at Art Club
+
+Art Club pres. Daria Kolosova on Fri 11 Sept, Houston. 1 act on the bill: Daria Kolosova. Techno. Preview the line-up and save it on soundcheck.
+
+| Field | Value |
+| --- | --- |
+| Date | Fri, 11 Sept 2026 |
+| Venue | Art Club |
+| City | Houston |
+
+## Line-up
+
+- Daria Kolosova
+
+*Source: [soundcheck](https://soundcheck.club/e/2496256-art-club-pres-daria-kolosova-at-art-club/)*

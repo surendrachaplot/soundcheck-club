@@ -9,7 +9,7 @@ Misha Jaru is a techno and house artist tracked on soundcheck, with 61 sets logg
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 8 Aug 2026 | Ankali & Planeta Za | Prague |
-| Sat, 15 Aug 2026 | Ostrov Štvanice | Prague |
+| Sat, 15 Aug 2026 | Fuchs2 | Prague |
 
 ## Recently played
 

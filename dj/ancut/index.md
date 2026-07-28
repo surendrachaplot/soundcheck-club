@@ -1,8 +1,8 @@
 # Ancut
 
-Ancut is a Techno and Electro artist with 2 upcoming club dates listed on soundcheck as of Tue, 28 Jul 2026, next at Club der Visionaere, Berlin on Wed, 5 Aug 2026.
+Ancut is a Techno and Electro artist with 3 upcoming club dates listed on soundcheck as of Tue, 28 Jul 2026, next at Club der Visionaere, Berlin on Wed, 5 Aug 2026.
 
-Ancut is a techno and electro artist tracked on soundcheck, with 62 sets logged across Amsterdam, Barcelona, Berlin and Bucharest and 14 more. Often billed alongside Matthias (1), So-Fi and Alex Picone. Next up: Club der Visionaere, Berlin on Wed 5 Aug.
+Ancut is a techno and electro artist tracked on soundcheck, with 63 sets logged across Amsterdam, Barcelona, Berlin and Bucharest and 14 more. Often billed alongside Matthias (1), So-Fi and Alex Picone. Next up: Club der Visionaere, Berlin on Wed 5 Aug.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Ancut is a techno and electro artist tracked on soundcheck, with 62 sets logged 
 | --- | --- | --- |
 | Wed, 5 Aug 2026 | Club der Visionaere | Berlin |
 | Sat, 8 Aug 2026 | Platforma Wolff | Bucharest |
+| Sat, 29 Aug 2026 | Sonnenraum | Berlin |
 
 ## Recently played
 

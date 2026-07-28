@@ -1,8 +1,8 @@
 # Sabura
 
-Sabura is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Tue, 28 Jul 2026, next at Hinterhof Mitte, Berlin on Fri, 31 Jul 2026.
+Sabura is a Techno and House artist with 4 upcoming club dates listed on soundcheck as of Tue, 28 Jul 2026, next at Hinterhof Mitte, Berlin on Fri, 31 Jul 2026.
 
-Sabura is a techno and house artist based in Germany, tracked on soundcheck, with 102 sets logged across Berlin, Cologne, Frankfurt and Hamburg and 7 more. Often billed alongside Maurice Mino, Sin:port and Konfusia. Next up: Hinterhof Mitte, Berlin on Fri 31 Jul.
+Sabura is a techno and house artist based in Germany, tracked on soundcheck, with 103 sets logged across Berlin, Cologne, Frankfurt and Hamburg and 7 more. Often billed alongside Maurice Mino, Sin:port and Konfusia. Next up: Hinterhof Mitte, Berlin on Fri 31 Jul.
 
 ## Upcoming shows
 
@@ -11,6 +11,7 @@ Sabura is a techno and house artist based in Germany, tracked on soundcheck, wit
 | Fri, 31 Jul 2026 | Hinterhof Mitte | Berlin |
 | Fri, 31 Jul 2026 | Jonny Knüppel | Berlin |
 | Thu, 27 Aug 2026 | TBA - Schwing und Stampf Festival | Zurich |
+| Sat, 12 Sept 2026 | Fridas Pier | Stuttgart |
 
 ## Recently played
 

@@ -1,0 +1,28 @@
+# Aio
+
+Aio is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Tue, 28 Jul 2026, next at Hinterhof Mitte, Berlin on Fri, 31 Jul 2026.
+
+Aio is a techno and house artist tracked on soundcheck, with 64 sets logged across Auckland, Berlin, Cologne and Hamburg and 7 more. Often billed alongside Aender, Maurice Mino and Sin:port. Next up: Hinterhof Mitte, Berlin on Fri 31 Jul.
+
+## Upcoming shows
+
+| Date | Venue | City |
+| --- | --- | --- |
+| Fri, 31 Jul 2026 | Hinterhof Mitte | Berlin |
+
+## Recently played
+
+- Distillery, Leipzig — Sat, 11 Jul 2026
+- Westhafen, Leipzig — Sat, 6 Jun 2026
+- Ritter Butzke, Berlin — Fri, 5 Jun 2026
+- Odonien, Cologne — Sat, 30 May 2026
+- Bahnwärter Thiel, Munich — Sat, 23 May 2026
+- elipamanoke, Leipzig — Sat, 2 May 2026
+- Kater, Berlin — Sat, 18 Apr 2026
+- TBA - 30 Meadow St., Brooklyn, New York City — Sat, 4 Apr 2026
+
+## Shares bills with
+
+Aender, Maurice Mino, Sin:port
+
+*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/aio/)*

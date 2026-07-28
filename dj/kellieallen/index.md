@@ -1,8 +1,8 @@
 # Kellie Allen
 
-Kellie Allen is a House and Tech House artist with 9 upcoming club dates listed on soundcheck as of Tue, 28 Jul 2026, next at Cova Santa, Ibiza on Tue, 18 Aug 2026.
+Kellie Allen is a House and Tech House artist with 10 upcoming club dates listed on soundcheck as of Tue, 28 Jul 2026, next at Cova Santa, Ibiza on Tue, 18 Aug 2026.
 
-Kellie Allen is a house and tech house artist tracked on soundcheck, with 118 sets logged across Amsterdam, Antwerp, Bali and Barcelona and 21 more. Often billed alongside Prunk, Dennis Quin and M-High. Next up: Cova Santa, Ibiza on Tue 18 Aug.
+Kellie Allen is a house and tech house artist tracked on soundcheck, with 119 sets logged across Amsterdam, Antwerp, Bali and Barcelona and 21 more. Often billed alongside Prunk, Dennis Quin and M-High. Next up: Cova Santa, Ibiza on Tue 18 Aug.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Kellie Allen is a house and tech house artist tracked on soundcheck, with 118 se
 | --- | --- | --- |
 | Tue, 18 Aug 2026 | Cova Santa | Ibiza |
 | Sat, 29 Aug 2026 | Kelvedon Hall | London |
+| Sat, 29 Aug 2026 | fabric | London |
 | Sun, 6 Sept 2026 | Los Angeles State Historic Park | Los Angeles |
 | Sun, 6 Sept 2026 | Los Angeles State Historic Park | Los Angeles |
 | Thu, 10 Sept 2026 | Chinois Ibiza | Ibiza |

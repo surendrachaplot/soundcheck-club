@@ -1,0 +1,28 @@
+# Bryto
+
+Bryto is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 28 Jul 2026, next at Village Underground Lisboa, Lisbon on Thu, 13 Aug 2026.
+
+Bryto is a house and techno artist tracked on soundcheck, with 14 sets logged across Lisbon and Saopaulo. Often billed alongside Bryan Brito, Diogo Accioly and Fragoso. Next up: Village Underground Lisboa, Lisbon on Thu 13 Aug.
+
+## Upcoming shows
+
+| Date | Venue | City |
+| --- | --- | --- |
+| Thu, 13 Aug 2026 | Village Underground Lisboa | Lisbon |
+
+## Recently played
+
+- Backyard, Lisbon — Sun, 12 Jul 2026
+- Village Underground Lisboa, Lisbon — Thu, 9 Jul 2026
+- Village Underground Lisboa, Lisbon — Thu, 11 Jun 2026
+- Rūmu, Lisbon — Thu, 11 Jun 2026
+- Rūmu, Lisbon — Thu, 11 Jun 2026
+- Village Underground Lisboa, Lisbon — Thu, 14 May 2026
+- Backyard, Lisbon — Fri, 3 Apr 2026
+- AURA, Lisbon — Sat, 26 Jul 2025
+
+## Shares bills with
+
+Bryan Brito, Diogo Accioly, Fragoso
+
+*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/bryto/)*

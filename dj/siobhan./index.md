@@ -1,0 +1,28 @@
+# SIOBHAN.
+
+SIOBHAN. is a Techno and Industrial artist with 2 upcoming club dates listed on soundcheck as of Tue, 28 Jul 2026, next at The Glove That Fits, London on Sat, 8 Aug 2026.
+
+SIOBHAN. is a techno and industrial artist tracked on soundcheck, with 9 sets logged across London and Losangeles. Often billed alongside AAKAARA, Venetia May and Aero (1). Next up: The Glove That Fits, London on Sat 8 Aug.
+
+## Upcoming shows
+
+| Date | Venue | City |
+| --- | --- | --- |
+| Sat, 8 Aug 2026 | The Glove That Fits | London |
+| Sat, 12 Sept 2026 | Dalston Den | London |
+
+## Recently played
+
+- radial, London — Sat, 11 Jul 2026
+- The Glove That Fits, London — Sat, 16 May 2026
+- Pluto, Los Angeles — Sun, 12 Apr 2026
+- The Greyhound, London — Thu, 19 Mar 2026
+- Cu, London — Sat, 7 Jun 2025
+- Planet Wax, London — Thu, 3 Oct 2024
+- Planet Wax, London — Thu, 3 Oct 2024
+
+## Shares bills with
+
+AAKAARA, Venetia May, Aero (1)
+
+*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/siobhan./)*

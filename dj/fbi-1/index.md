@@ -1,13 +1,14 @@
 # fbi (1)
 
-fbi (1) is a House and Funk / Soul artist with 2 upcoming club dates listed on soundcheck as of Tue, 28 Jul 2026, next at Lokschuppen Berlin, Berlin on Sun, 9 Aug 2026.
+fbi (1) is a House and Funk / Soul artist with 3 upcoming club dates listed on soundcheck as of Tue, 28 Jul 2026, next at Humboldthain Club, Berlin on Sat, 8 Aug 2026.
 
-fbi (1) is a house and funk / soul artist based in Germany, tracked on soundcheck, with 30 sets logged across Berlin, Hamburg, Leipzig and Prague. Often billed alongside KVLR, DJ SOURCE and yamagucci42. Next up: Lokschuppen Berlin, Berlin on Sun 9 Aug.
+fbi (1) is a house and funk / soul artist based in Germany, tracked on soundcheck, with 31 sets logged across Berlin, Hamburg, Leipzig and Prague. Often billed alongside KVLR, DJ SOURCE and yamagucci42. Next up: Humboldthain Club, Berlin on Sat 8 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 8 Aug 2026 | Humboldthain Club | Berlin |
 | Sun, 9 Aug 2026 | Lokschuppen Berlin | Berlin |
 | Sat, 22 Aug 2026 | Phoxxi Green Area | Hamburg |
 

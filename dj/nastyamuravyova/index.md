@@ -1,14 +1,14 @@
 # Nastya Muravyova
 
-Nastya Muravyova is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Tue, 28 Jul 2026, next at Ostrov Štvanice, Prague on Sat, 15 Aug 2026.
+Nastya Muravyova is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Tue, 28 Jul 2026, next at Fuchs2, Prague on Sat, 15 Aug 2026.
 
-Nastya Muravyova is a techno and house artist based in Ukraine, tracked on soundcheck, with 94 sets logged across Amsterdam, Berlin, Brussels and Krakow and 6 more. Often billed alongside SJ Yellow, Nina Farrina and Tweeman. Next up: Ostrov Štvanice, Prague on Sat 15 Aug.
+Nastya Muravyova is a techno and house artist based in Ukraine, tracked on soundcheck, with 94 sets logged across Amsterdam, Berlin, Brussels and Krakow and 6 more. Often billed alongside SJ Yellow, Nina Farrina and Tweeman. Next up: Fuchs2, Prague on Sat 15 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 15 Aug 2026 | Ostrov Štvanice | Prague |
+| Sat, 15 Aug 2026 | Fuchs2 | Prague |
 | Sat, 19 Sept 2026 | TBA - Secret Location | Amsterdam |
 
 ## Recently played

@@ -1,0 +1,28 @@
+# Jeremy Reinhard
+
+Jeremy Reinhard is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 28 Jul 2026, next at Golden Gate, Berlin on Thu, 30 Jul 2026.
+
+Jeremy Reinhard is a house and techno artist based in Germany, tracked on soundcheck, with 31 sets logged across Barcelona, Berlin, Cologne and Dusseldorf and 2 more. Often billed alongside Eszter, Marc Brauner and Freydel. Next up: Golden Gate, Berlin on Thu 30 Jul.
+
+## Upcoming shows
+
+| Date | Venue | City |
+| --- | --- | --- |
+| Thu, 30 Jul 2026 | Golden Gate | Berlin |
+
+## Recently played
+
+- Neulich am Flughafen, Berlin — Sun, 26 Jul 2026
+- Reineke Fuchs, Cologne — Fri, 17 Jul 2026
+- TBA -  Fühlinger See, Cologne — Thu, 4 Jun 2026
+- Giselle, Düsseldorf — Sat, 30 May 2026
+- JAKI, Cologne — Fri, 24 Apr 2026
+- Golden Gate, Berlin — Fri, 9 Jan 2026
+- Suma Han, Istanbul — Wed, 31 Dec 2025
+- Renate, Berlin — Fri, 10 Oct 2025
+
+## Shares bills with
+
+Eszter, Marc Brauner, Freydel
+
+*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/jeremyreinhard/)*

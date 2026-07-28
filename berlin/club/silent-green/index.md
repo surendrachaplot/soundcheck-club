@@ -9,7 +9,7 @@ Silent Green is a music venue in Berlin listed on soundcheck. 7 upcoming nights,
 | Date | Night | Line-up |
 | --- | --- | --- |
 | Tue, 28 Jul 2026 | Silent Green Open Lab #8: AIEL + Xingqi Liu | AIEL, Edoardo Micheli |
-| Sun, 2 Aug 2026 | HTRK | HTRK |
+| Sun, 2 Aug 2026 | HTRK | HTRK, Loraine James |
 | Tue, 4 Aug 2026 | Silent Green Open Lab #9: JKZQ + franna |  |
 | Thu, 6 Aug 2026 | Exhibition Islands of Time by Niccolò Masini – Opening | JakoJako, Nicolas Bougaïeff, Pole |
 | Fri, 21 Aug 2026 | Psychic Liberation Night: Niloofar Asghary + Júlia Koffler |  |

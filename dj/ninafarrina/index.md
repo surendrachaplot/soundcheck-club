@@ -11,7 +11,7 @@ Nina Farrina is a techno and club artist tracked on soundcheck, with 132 sets lo
 | Sat, 1 Aug 2026 | Mia Mao | Paris |
 | Sat, 1 Aug 2026 | Mia Mao | Paris |
 | Sat, 8 Aug 2026 | Ankali & Planeta Za | Prague |
-| Sat, 15 Aug 2026 | Ostrov Štvanice | Prague |
+| Sat, 15 Aug 2026 | Fuchs2 | Prague |
 
 ## Recently played
 

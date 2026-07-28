@@ -1,8 +1,8 @@
 # GQ
 
-GQ is a Drum & Bass and Jungle artist with 3 upcoming club dates listed on soundcheck as of Tue, 28 Jul 2026, next at Hackney Wick Multiple Venues, London on Sat, 1 Aug 2026.
+GQ is a Drum & Bass and Jungle artist with 4 upcoming club dates listed on soundcheck as of Tue, 28 Jul 2026, next at Hackney Wick Multiple Venues, London on Sat, 1 Aug 2026.
 
-GQ is a drum & bass and jungle artist tracked on soundcheck, with 34 sets logged across Brighton, Bristol, London and Manchester and 1 more. Often billed alongside SP:MC, Dillinja and Break. Next up: Hackney Wick Multiple Venues, London on Sat 1 Aug.
+GQ is a drum & bass and jungle artist tracked on soundcheck, with 35 sets logged across Brighton, Bristol, London and Manchester and 1 more. Often billed alongside SP:MC, Dillinja and Break. Next up: Hackney Wick Multiple Venues, London on Sat 1 Aug.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ GQ is a drum & bass and jungle artist tracked on soundcheck, with 34 sets logged
 | --- | --- | --- |
 | Sat, 1 Aug 2026 | Hackney Wick Multiple Venues | London |
 | Sat, 1 Aug 2026 | Colour Factory | London |
+| Sat, 26 Sept 2026 | Studio 338 | London |
 | Fri, 9 Oct 2026 | Depot Mayfield | Manchester |
 
 ## Recently played

@@ -1,8 +1,8 @@
 # Culture Box
 
-Culture Box is a music venue in Copenhagen with 15 upcoming nights listed on soundcheck as of Tue, 28 Jul 2026; the next is "Roman Adam / AELVA K / Thyregod / SOLSTØV: Jokke / Æsteban / RÓS" on Fri, 31 Jul 2026.
+Culture Box is a music venue in Copenhagen with 17 upcoming nights listed on soundcheck as of Tue, 28 Jul 2026; the next is "Roman Adam / AELVA K / Thyregod / SOLSTØV: Jokke / Æsteban / RÓS" on Fri, 31 Jul 2026.
 
-Culture Box is a music venue in Copenhagen listed on soundcheck. 15 upcoming nights, with line-ups including AELVA K, Aja Gulris, Alex Stein and Ama Lien and 2 more. Browse upcoming dates, start times and who's playing. Kronprinsessegade 54; Copenhagen K. 1306; Denmark.
+Culture Box is a music venue in Copenhagen listed on soundcheck. 17 upcoming nights, with line-ups including AELVA K, Aja Gulris, Alex Stein and Ama Lien and 2 more. Browse upcoming dates, start times and who's playing. Kronprinsessegade 54; Copenhagen K. 1306; Denmark.
 
 ## What's on
 

@@ -1,0 +1,28 @@
+# Franklin DJ
+
+Franklin DJ is a Disco and House artist with 1 upcoming club date listed on soundcheck as of Tue, 28 Jul 2026, next at Two More Years, London on Sat, 15 Aug 2026.
+
+Franklin DJ is a disco and house artist based in United Kingdom, tracked on soundcheck, with 21 sets logged across London and Newcastle. Often billed alongside Megan Leo, Tronik Youth and Delano (UK). Next up: Two More Years, London on Sat 15 Aug.
+
+## Upcoming shows
+
+| Date | Venue | City |
+| --- | --- | --- |
+| Sat, 15 Aug 2026 | Two More Years | London |
+
+## Recently played
+
+- KOKO, London — Sat, 25 Jul 2026
+- The Glove That Fits, London — Sat, 30 May 2026
+- The Glove That Fits, London — Sat, 28 Mar 2026
+- The Glove That Fits, London — Sat, 22 Nov 2025
+- Last Arch, London — Sat, 20 Sept 2025
+- The Greyhound, London — Sat, 19 Jul 2025
+- The Glove That Fits, London — Sat, 31 May 2025
+- The Glove That Fits, London — Sat, 15 Mar 2025
+
+## Shares bills with
+
+Megan Leo, Tronik Youth, Delano (UK)
+
+*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/franklindj/)*

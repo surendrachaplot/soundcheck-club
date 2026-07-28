@@ -1,8 +1,8 @@
 # Paradiso
 
-Paradiso is a music venue in Amsterdam with 14 upcoming nights listed on soundcheck as of Tue, 28 Jul 2026; the next is "Thievery Corporation 30th Anniversary Tour | Sold Out" on Tue, 28 Jul 2026.
+Paradiso is a music venue in Amsterdam with 15 upcoming nights listed on soundcheck as of Tue, 28 Jul 2026; the next is "Thievery Corporation 30th Anniversary Tour | Sold Out" on Tue, 28 Jul 2026.
 
-Paradiso is a music venue in Amsterdam listed on soundcheck. 14 upcoming nights, with line-ups including Absoluut, Answer Code Request, Artefakt and ASHTATTZ and 2 more. Browse upcoming dates, start times and who's playing. Weteringschans 6; 1017 Binnenstad; Amsterdam; Netherlands.
+Paradiso is a music venue in Amsterdam listed on soundcheck. 15 upcoming nights, with line-ups including Absoluut, Answer Code Request, Artefakt and ASHTATTZ and 2 more. Browse upcoming dates, start times and who's playing. Weteringschans 6; 1017 Binnenstad; Amsterdam; Netherlands.
 
 ## What's on
 

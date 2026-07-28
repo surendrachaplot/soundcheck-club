@@ -1,0 +1,25 @@
+# Big Ace
+
+Big Ace is a Club and Ghetto Tech artist with 1 upcoming club date listed on soundcheck as of Tue, 28 Jul 2026, next at Kremwerk-Timbre Room-Cherry Complex, Seattle on Sat, 29 Aug 2026.
+
+Big Ace is a club and ghetto tech artist based in United States of America, tracked on soundcheck, with 6 sets logged across Houston, Losangeles, Seattle and Washingtondc. Often billed alongside HYPERFEMME, DJ Slugo and Morgan Morgan. Next up: Kremwerk-Timbre Room-Cherry Complex, Seattle on Sat 29 Aug.
+
+## Upcoming shows
+
+| Date | Venue | City |
+| --- | --- | --- |
+| Sat, 29 Aug 2026 | Kremwerk-Timbre Room-Cherry Complex | Seattle |
+
+## Recently played
+
+- TRANSMISSION DC, Washington DC — Fri, 19 Jun 2026
+- Boondocks, Houston — Sat, 28 Mar 2026
+- Boondocks, Houston — Sat, 29 Nov 2025
+- Boondocks, Houston — Sat, 29 Nov 2025
+- Soho Warehouse, Los Angeles — Sat, 16 Aug 2025
+
+## Shares bills with
+
+HYPERFEMME, DJ Slugo, Morgan Morgan
+
+*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/bigace/)*

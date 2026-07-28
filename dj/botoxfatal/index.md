@@ -1,0 +1,17 @@
+# BOTOX FATAL
+
+BOTOX FATAL is a Baile Funk and Latin Bass artist with 1 upcoming club date listed on soundcheck as of Tue, 28 Jul 2026, next at Phantom Bar Berlin, Berlin on Sat, 8 Aug 2026.
+
+BOTOX FATAL is a baile funk and latin bass artist based in Argentina, tracked on soundcheck, with 1 set logged across Berlin. Often billed alongside DJ LOUI FROM JUPITER4, IDLIBRA and Nuevo Prohibido. Next up: Phantom Bar Berlin, Berlin on Sat 8 Aug.
+
+## Upcoming shows
+
+| Date | Venue | City |
+| --- | --- | --- |
+| Sat, 8 Aug 2026 | Phantom Bar Berlin | Berlin |
+
+## Shares bills with
+
+DJ LOUI FROM JUPITER4, IDLIBRA, Nuevo Prohibido
+
+*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/botoxfatal/)*

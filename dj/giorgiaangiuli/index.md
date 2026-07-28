@@ -1,8 +1,8 @@
 # Giorgia Angiuli
 
-Giorgia Angiuli is a Techno and Tech House artist with 3 upcoming club dates listed on soundcheck as of Tue, 28 Jul 2026, next at TBA - Club Morocco, Costa Salguero, Buenos Aires on Fri, 31 Jul 2026.
+Giorgia Angiuli is a Techno and Tech House artist with 4 upcoming club dates listed on soundcheck as of Tue, 28 Jul 2026, next at TBA - Club Morocco, Costa Salguero, Buenos Aires on Fri, 31 Jul 2026.
 
-Giorgia Angiuli is a techno and tech house artist tracked on soundcheck, with 65 sets logged across Amsterdam, Austin, Barcelona and Berlin and 23 more. Often billed alongside Cambric, Indira Paganotto and Lino Fuso. Next up: TBA - Club Morocco, Costa Salguero, Buenosaires on Fri 31 Jul.
+Giorgia Angiuli is a techno and tech house artist tracked on soundcheck, with 66 sets logged across Amsterdam, Austin, Barcelona and Berlin and 23 more. Often billed alongside Lino Fuso, Cambric and Indira Paganotto. Next up: TBA - Club Morocco, Costa Salguero, Buenosaires on Fri 31 Jul.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Giorgia Angiuli is a techno and tech house artist tracked on soundcheck, with 65
 | --- | --- | --- |
 | Fri, 31 Jul 2026 | TBA - Club Morocco, Costa Salguero | Buenos Aires |
 | Sat, 5 Sept 2026 | Ritter Butzke | Berlin |
+| Fri, 23 Oct 2026 | E1 | London |
 | Sun, 25 Oct 2026 | John Doe | Amsterdam |
 
 ## Recently played
@@ -25,6 +26,6 @@ Giorgia Angiuli is a techno and tech house artist tracked on soundcheck, with 65
 
 ## Shares bills with
 
-Cambric, Indira Paganotto, Lino Fuso
+Lino Fuso, Cambric, Indira Paganotto
 
 *Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/giorgiaangiuli/)*

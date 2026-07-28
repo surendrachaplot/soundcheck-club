@@ -1,0 +1,22 @@
+# YOYO (UK)
+
+YOYO (UK) is a Techno and Guaracha artist with 2 upcoming club dates listed on soundcheck as of Tue, 28 Jul 2026, next at Volks, Brighton on Sun, 2 Aug 2026.
+
+YOYO (UK) is a techno and guaracha artist tracked on soundcheck, with 3 sets logged across Brighton and London. Often billed alongside Spinks, Tommy Tempo and arawzi. Next up: Volks, Brighton on Sun 2 Aug.
+
+## Upcoming shows
+
+| Date | Venue | City |
+| --- | --- | --- |
+| Sun, 2 Aug 2026 | Volks | Brighton |
+| Thu, 10 Sept 2026 | M.O.T | London |
+
+## Recently played
+
+- M.O.T, London — Thu, 7 May 2026
+
+## Shares bills with
+
+Spinks, Tommy Tempo, arawzi
+
+*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/yoyo-2/)*

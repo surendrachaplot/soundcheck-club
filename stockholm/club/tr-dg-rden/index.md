@@ -1,8 +1,8 @@
 # Trädgården
 
-Trädgården is a music venue in Stockholm with 14 upcoming nights listed on soundcheck as of Tue, 28 Jul 2026; the next is "PRIDE GARDEN: TUESDAY" on Tue, 28 Jul 2026.
+Trädgården is a music venue in Stockholm with 15 upcoming nights listed on soundcheck as of Tue, 28 Jul 2026; the next is "PRIDE GARDEN: TUESDAY" on Tue, 28 Jul 2026.
 
-Trädgården is a music venue in Stockholm listed on soundcheck. 14 upcoming nights, with line-ups including Amaliah, Anthony Linell, Behrang Mohammadi and Bella Sarris and 2 more. Browse upcoming dates, start times and who's playing. Hammarby Slussväg 2, 118 60 Stockholm, Sweden.
+Trädgården is a music venue in Stockholm listed on soundcheck. 15 upcoming nights, with line-ups including Amaliah, Anthony Linell, Behrang Mohammadi and Bella Sarris and 2 more. Browse upcoming dates, start times and who's playing. Hammarby Slussväg 2, 118 60 Stockholm, Sweden.
 
 ## What's on
 
@@ -16,8 +16,8 @@ Trädgården is a music venue in Stockholm listed on soundcheck. 14 upcoming nig
 | Thu, 6 Aug 2026 | Skin On Skin, Fatuma, L-Roy | Skin On Skin |
 | Fri, 7 Aug 2026 | Behrang Mohammadi, Nila Roe | Behrang Mohammadi |
 | Sat, 8 Aug 2026 | Amaliah & Mental DJs | Amaliah, Prescott, dj døden |
+| Thu, 13 Aug 2026 | Thursdays: Deckathon | Julian Artur, Malin Edvardsen |
 | Fri, 14 Aug 2026 | S-candalo, Bella Sarris | Bella Sarris, S-candalo |
-| Sat, 15 Aug 2026 | CRACKHOUSE with Niklopedia & Magnus Larsson | Magnus Larsson |
 
 ## Address
 

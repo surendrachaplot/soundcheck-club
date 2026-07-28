@@ -1,0 +1,28 @@
+# Guidomik
+
+Guidomik is a House and Afro House artist with 1 upcoming club date listed on soundcheck as of Tue, 28 Jul 2026, next at EL SÓTANO, Madrid on Fri, 21 Aug 2026.
+
+Guidomik is a house and afro house artist based in Argentina, tracked on soundcheck, with 45 sets logged across Berlin, Lisbon and Madrid. Often billed alongside Tucu (Tucu), Brisa Then and Yhago. Next up: EL SÓTANO, Madrid on Fri 21 Aug.
+
+## Upcoming shows
+
+| Date | Venue | City |
+| --- | --- | --- |
+| Fri, 21 Aug 2026 | EL SÓTANO | Madrid |
+
+## Recently played
+
+- berlinClub, Madrid — Sat, 16 May 2026
+- EL SÓTANO, Madrid — Sat, 2 May 2026
+- Arroz Estúdios, Lisbon — Sat, 11 Apr 2026
+- EL SÓTANO, Madrid — Sat, 4 Apr 2026
+- berlinClub, Madrid — Sat, 28 Mar 2026
+- Miradouro de Baixo, Lisbon — Fri, 13 Mar 2026
+- EL SÓTANO, Madrid — Fri, 23 Jan 2026
+- berlinClub, Madrid — Fri, 2 Jan 2026
+
+## Shares bills with
+
+Tucu (Tucu), Brisa Then, Yhago
+
+*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/guidomik/)*

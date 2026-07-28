@@ -11,7 +11,7 @@
 | Sat, 1 Aug 2026 | SUN CITY SUMMER SESSIONS |  |
 | Sat, 1 Aug 2026 | TRIBE |  |
 | Sat, 1 Aug 2026 | Escapada - 93 Feet East - SATURDAY 1ST AUGUST | Brian Smith, CHLO (UK), DRIA, Jerome Six, Lance Morgan, RAFE, RENZO. |
-| Sat, 22 Aug 2026 | Suburbia - Day into Night: Cam Stockman, Oldboy, ADR, LILI, James Lavelle B2B Morley & more | ADR (UK), Cam Stockman, James Lavelle, LILI, Oldboy |
+| Sat, 22 Aug 2026 | Cam Stockman, Oldboy, ADR, LILI, James Lavelle B2B Morley & more | ADR (UK), Cam Stockman, James Lavelle, LILI, Oldboy |
 | Sat, 22 Aug 2026 | DSTRICT | Miggi, Rhiavas |
 | Sat, 5 Sept 2026 | House Nation |  |
 | Sun, 13 Sept 2026 | NATIVES: Summer Closing Day Party with Vitoto, General C'Mamane, Hypaphonik & FATSO98 | CRUZ CTRL (3), General C'mamane, Golden Lady, INTUIT, Nésa Thea, OneThabs, Tadi.wav |

@@ -1,6 +1,6 @@
-# BAKALAO presenta: PONT AERI: DJ Skudero, Xavi Metralla, Monty at EL SÓTANO
+# BAKALAO presenta PONT AERI: DJ Skudero, Xavi Metralla, Monty at EL SÓTANO
 
-BAKALAO presenta: PONT AERI: DJ Skudero, Xavi Metralla, Monty at EL SÓTANO on Sat 24 Oct, Madrid. 2 acts on the bill: DJ Skudero and Xavi Metralla. Hardcore and Club. Preview the line-up and save it on soundcheck.
+BAKALAO presenta PONT AERI: DJ Skudero, Xavi Metralla, Monty at EL SÓTANO on Sat 24 Oct, Madrid. 2 acts on the bill: DJ Skudero and Xavi Metralla. Hardcore and Club. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

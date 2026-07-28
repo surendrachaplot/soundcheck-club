@@ -1,11 +1,11 @@
-# F2 DAY RAVE: Helena Hauff ★ Nina Farrina ★ Nastya Muravyova ★ Midirama at Ostrov Štvanice
+# F2 DAY RAVE: Helena Hauff ★ Nina Farrina ★ Nastya Muravyova ★ Midirama at Fuchs2
 
-F2 DAY RAVE: Helena Hauff ★ Nina Farrina ★ Nastya Muravyova ★ Midirama at Ostrov Štvanice on Sat 15 Aug, Prague. 17 acts on the bill: Dash (CZ), DDK (1), divinity statue and Helena Hauff and 13 more. Techno. Preview the line-up and save it on soundcheck.
+F2 DAY RAVE: Helena Hauff ★ Nina Farrina ★ Nastya Muravyova ★ Midirama at Fuchs2 on Sat 15 Aug, Prague. 17 acts on the bill: Dash (CZ), DDK (1), divinity statue and Helena Hauff and 13 more. Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
 | Date | Sat, 15 Aug 2026 |
-| Venue | Ostrov Štvanice |
+| Venue | Fuchs2 |
 | City | Prague |
 
 ## Line-up

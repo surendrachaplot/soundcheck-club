@@ -1,13 +1,14 @@
 # bela
 
-bela is a Experimental and Club artist with 2 upcoming club dates listed on soundcheck as of Tue, 28 Jul 2026, next at Panke, Berlin on Sat, 8 Aug 2026.
+bela is a Experimental and Club artist with 3 upcoming club dates listed on soundcheck as of Tue, 28 Jul 2026, next at Galeria Zé Dos Bois, Lisbon on Fri, 31 Jul 2026.
 
-bela is an experimental and club artist based in South Korea, tracked on soundcheck, with 48 sets logged across Amsterdam, Auckland, Basel and Berlin and 15 more. Often billed alongside Animistic Beliefs, Lord Spikeheart and 2K88. Next up: Panke, Berlin on Sat 8 Aug.
+bela is an experimental and club artist based in South Korea, tracked on soundcheck, with 49 sets logged across Amsterdam, Auckland, Basel and Berlin and 16 more. Often billed alongside Animistic Beliefs, Lord Spikeheart and 2K88. Next up: Galeria Zé Dos Bois, Lisbon on Fri 31 Jul.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 31 Jul 2026 | Galeria Zé Dos Bois | Lisbon |
 | Sat, 8 Aug 2026 | Panke | Berlin |
 | Thu, 24 Sept 2026 | TBA - Rotterdam Various Locations | Rotterdam |
 

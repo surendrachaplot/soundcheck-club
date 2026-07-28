@@ -1,0 +1,15 @@
+# LaDo - 2026 Season Closing at TBA - Rummelsburger Bucht
+
+LaDo - 2026 Season Closing at TBA - Rummelsburger Bucht on Thu 27 Aug, Berlin. 1 act on the bill: TBA. Drum & Bass and Jungle. Preview the line-up and save it on soundcheck.
+
+| Field | Value |
+| --- | --- |
+| Date | Thu, 27 Aug 2026 |
+| Venue | TBA - Rummelsburger Bucht |
+| City | Berlin |
+
+## Line-up
+
+- TBA
+
+*Source: [soundcheck](https://soundcheck.club/e/2477568-lado-2026-season-closing-at-tba-rummelsburger-bucht/)*

@@ -10,7 +10,7 @@ zazitech is a techno and tech house artist tracked on soundcheck, with 85 sets l
 | --- | --- | --- |
 | Fri, 31 Jul 2026 | Fuchs2 | Prague |
 | Sat, 8 Aug 2026 | Ankali & Planeta Za | Prague |
-| Sat, 15 Aug 2026 | Ostrov Štvanice | Prague |
+| Sat, 15 Aug 2026 | Fuchs2 | Prague |
 
 ## Recently played
 

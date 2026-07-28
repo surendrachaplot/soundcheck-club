@@ -1,14 +1,15 @@
 # Joe BRT
 
-Joe BRT is a House and Minimal artist with 3 upcoming club dates listed on soundcheck as of Tue, 28 Jul 2026, next at Golden Gate, Berlin on Thu, 27 Aug 2026.
+Joe BRT is a House and Minimal artist with 4 upcoming club dates listed on soundcheck as of Tue, 28 Jul 2026, next at Golden Gate, Berlin on Thu, 27 Aug 2026.
 
-Joe BRT is a house and minimal artist based in Germany, tracked on soundcheck, with 5 sets logged across Berlin. Often billed alongside Balthazar Martinez, Bézier and Christopher Lawrenz. Next up: Golden Gate, Berlin on Thu 27 Aug.
+Joe BRT is a house and minimal artist based in Germany, tracked on soundcheck, with 6 sets logged across Berlin. Often billed alongside Balthazar Martinez, Bézier and Christopher Lawrenz. Next up: Golden Gate, Berlin on Thu 27 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Thu, 27 Aug 2026 | Golden Gate | Berlin |
+| Sat, 5 Sept 2026 | Beate Uwe | Berlin |
 | Sat, 5 Sept 2026 | Beate Uwe | Berlin |
 | Sat, 5 Sept 2026 | Beate Uwe | Berlin |
 

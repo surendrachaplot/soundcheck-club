@@ -17,7 +17,7 @@ Palais is a music venue in London listed on soundcheck. 21 upcoming nights, with
 | Sun, 16 Aug 2026 | Palais: Bill Brewster's Birthday | Bill Brewster, Ray Mang |
 | Fri, 21 Aug 2026 | Palais: ÜBERKIKZ, HANAA & HEZEN | HEZEN, ÜBERKIKZ |
 | Sat, 22 Aug 2026 | Palais: Slam & ANNĒ   | ANNĒ, Slam |
-| Fri, 28 Aug 2026 | Palais: Make A Dance & Special Guest | Eden Burns, Make A Dance |
+| Fri, 28 Aug 2026 | Palais: Make A Dance & Eden Burns | Eden Burns, Make A Dance |
 
 ## Address
 

@@ -1,0 +1,11 @@
+# Mincode_ Nicolas Cetina Invites: XXXXXX - YULIËN at DETROIT CLUB
+
+Mincode_ Nicolas Cetina Invites: XXXXXX - YULIËN at DETROIT CLUB on Fri 18 Sept, Barcelona. Techno and Electronica. Preview the line-up and save it on soundcheck.
+
+| Field | Value |
+| --- | --- |
+| Date | Fri, 18 Sept 2026 |
+| Venue | DETROIT CLUB |
+| City | Barcelona |
+
+*Source: [soundcheck](https://soundcheck.club/e/2491516-mincode-nicolas-cetina-invites-xxxxxx-yuli-n-at-detroit-club/)*

@@ -1,8 +1,8 @@
 # Samtheman
 
-Samtheman is a Garage and House artist with 3 upcoming club dates listed on soundcheck as of Tue, 28 Jul 2026, next at Brixton Jamm, London on Fri, 31 Jul 2026.
+Samtheman is a Garage and House artist with 4 upcoming club dates listed on soundcheck as of Tue, 28 Jul 2026, next at Brixton Jamm, London on Fri, 31 Jul 2026.
 
-Samtheman is a garage and house artist based in United Kingdom, tracked on soundcheck, with 18 sets logged across Brighton, Bristol, Leeds and London. Often billed alongside Izco, Capo Lee and Liam Bailey. Next up: Brixton Jamm, London on Fri 31 Jul.
+Samtheman is a garage and house artist based in United Kingdom, tracked on soundcheck, with 19 sets logged across Brighton, Bristol, Leeds and London. Often billed alongside Izco, Capo Lee and Liam Bailey. Next up: Brixton Jamm, London on Fri 31 Jul.
 
 ## Upcoming shows
 
@@ -11,6 +11,7 @@ Samtheman is a garage and house artist based in United Kingdom, tracked on sound
 | Fri, 31 Jul 2026 | Brixton Jamm | London |
 | Sat, 8 Aug 2026 | Brixton Jamm | London |
 | Thu, 27 Aug 2026 | Night Tales | London |
+| Sat, 12 Sept 2026 | Night Tales Loft | London |
 
 ## Recently played
 

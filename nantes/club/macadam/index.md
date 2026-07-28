@@ -14,7 +14,7 @@ Macadam is a music venue in Nantes listed on soundcheck. 19 upcoming nights, wit
 | Thu, 6 Aug 2026 | Macadam x Collectif 4AEM • Drafter ~ DJ Mâchoire ~ NAR6 | NAR6 |
 | Fri, 7 Aug 2026 | Kluster x Macadam | Philippa Pacho |
 | Sat, 8 Aug 2026 | LENA Extended - Station Nuage+Macadam - Abr. live, YENKOV, Znzl | Abr., YENKOV, Znzl |
-| Sun, 9 Aug 2026 | Gloria with Grace Open Air • Tijana T ~ Maara ~ KEUT ~ Moksha ~ Soyoon ~ PALLAR ~ Boreal | KEUT, Maara, PALLAR, Soyoon, Tijana T |
+| Sun, 9 Aug 2026 | Gloria with Grace Open Air • Tijana T ~ Maara ~ KEUT ~ Moksha ~ Soyoon ~ Maripoza ~ Boreal | KEUT, Maara, Maripoza, PALLAR, Soyoon, Tijana T |
 | Thu, 13 Aug 2026 | Macadam x Shield Run • Poazik ~ Øbsess B2B Kay-P ~ ScarÖ ~ No one B2B Naomat ~ Draktar |  |
 | Fri, 14 Aug 2026 | DIVA x CHAT MANIK • STÜM ~ Nate S.U ~ Transki ~ DeeLali ~ Paromanormal ~ Soyoon… | Discostouf, FLEXI M, FLORA (fr), Nate S.U, Paromanormal, STÜM, Soyoon, Transki, Youps |
 | Thu, 20 Aug 2026 | Macadam x Ethos Records • Antilogic ~ Eendracht ~ Speechmaker | Antilogic, Eendracht, Speechmaker |

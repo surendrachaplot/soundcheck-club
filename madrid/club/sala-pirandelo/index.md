@@ -9,7 +9,7 @@ Sala Pirandelo is a music venue in Madrid listed on soundcheck. 6 upcoming night
 | Date | Night | Line-up |
 | --- | --- | --- |
 | Sat, 1 Aug 2026 | ITACA SUMMER EDITION WITH Miguel Rivas ND AMBRA | Miguel Rivas |
-| Sat, 8 Aug 2026 | ITACA SUMMER EDITION WITH Miguel Rivas, Nigabba ND MORA | Miguel Rivas, Nigabba |
+| Sat, 8 Aug 2026 | ITACA SUMMER EDITION WITH Miguel Rivas, Nigabba, Grami ND MORA | Miguel Rivas, Nigabba |
 | Sat, 15 Aug 2026 | ITACA SUMMER EDITION WITH Dyans, Pulpix, Djen ND SCARLETT | Djen, Dyans, Pulpix |
 | Sat, 22 Aug 2026 | ITACA SUMMER EDITION WITH P1P3, 6IXYOA ND MERAVIGLIA | P1P3 |
 | Sat, 29 Aug 2026 | ITACA SUMMER EDITION WITH ARTIIMANYA, SAIAX ND SERGIO GONZALEZ |  |

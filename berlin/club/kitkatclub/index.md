@@ -9,7 +9,7 @@ KitKatClub is a music venue in Berlin listed on soundcheck. 35 upcoming nights, 
 | Date | Night | Line-up |
 | --- | --- | --- |
 | Wed, 29 Jul 2026 | SYMBIOTIKKA at KitKat Club Berlin | Bonq, DJ Emerson, DJ Jordan |
-| Thu, 30 Jul 2026 | 4 Anniversary of Human Colours w/ Frankie Flowerz / Ricardo Rodriguez / Somaphon (2 Floors) | Frankie Flowerz, Milk N Coffee, Rene Oldenburg, Somaphon |
+| Thu, 30 Jul 2026 | 4 Years Human Colours @ KitKatClub (2 Floors) with Somaphon / Schnabeln & Saugen a. more | Frankie Flowerz, Milk N Coffee, Rene Oldenburg, Somaphon |
 | Thu, 30 Jul 2026 | Burlesque Inferno 'Midsummer Meltdown' @ KitKatClub with Harpy, Foxic Poison, Piccolettha  |  |
 | Fri, 31 Jul 2026 | Red Light Tisco | Acid Foxy, Blame the Booker, Franeva, Julian Shore, LISTORIO, LIZZN, MUKKIMIAU, Miss Unleashed, Paula Hilton, PyjamaMama, maniaclina, nuarrrrr, substitüt |
 | Sun, 2 Aug 2026 | Nachspiel | Fran-Cee, Onkel Tom |

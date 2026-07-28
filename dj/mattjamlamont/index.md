@@ -1,8 +1,8 @@
 # Matt Jam Lamont
 
-Matt Jam Lamont is a Garage and House artist with 2 upcoming club dates listed on soundcheck as of Tue, 28 Jul 2026, next at O Beach, Ibiza on Tue, 28 Jul 2026.
+Matt Jam Lamont is a Garage and House artist with 3 upcoming club dates listed on soundcheck as of Tue, 28 Jul 2026, next at O Beach, Ibiza on Tue, 28 Jul 2026.
 
-Matt Jam Lamont is a garage and house artist based in United Kingdom, tracked on soundcheck, with 38 sets logged across Birmingham, Bristol, Ibiza and Leeds and 4 more. Often billed alongside MC DT, MC CKP and Scott Garcia. Next up: O Beach, Ibiza on Tue 28 Jul.
+Matt Jam Lamont is a garage and house artist based in United Kingdom, tracked on soundcheck, with 39 sets logged across Birmingham, Bristol, Ibiza and Leeds and 4 more. Often billed alongside MC DT, MC CKP and Scott Garcia. Next up: O Beach, Ibiza on Tue 28 Jul.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Matt Jam Lamont is a garage and house artist based in United Kingdom, tracked on
 | --- | --- | --- |
 | Tue, 28 Jul 2026 | O Beach | Ibiza |
 | Sat, 29 Aug 2026 | Summer Outdoor Garage Festival - Wheelers Farm Chelmsford | London |
+| Sat, 26 Sept 2026 | Studio 338 | London |
 
 ## Recently played
 

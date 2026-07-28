@@ -1,8 +1,8 @@
 # Studio 338
 
-Studio 338 is a music venue in London with 13 upcoming nights listed on soundcheck as of Tue, 28 Jul 2026; the next is "HOUSE IS A FEELING PRESENTS THE SUMMER SHAKE DOWN (shine 879 & ravedays)" on Sat, 1 Aug 2026.
+Studio 338 is a music venue in London with 14 upcoming nights listed on soundcheck as of Tue, 28 Jul 2026; the next is "HOUSE IS A FEELING PRESENTS THE SUMMER SHAKE DOWN (shine 879 & ravedays)" on Sat, 1 Aug 2026.
 
-Studio 338 is a music venue in London listed on soundcheck. 13 upcoming nights, with line-ups including Anil Aras, Artful Dodger, Boss Priester and David Morales and 2 more. Browse upcoming dates, start times and who's playing. 338 Boord Street; Greenwich; London SE10 0PF; United Kingdom.
+Studio 338 is a music venue in London listed on soundcheck. 14 upcoming nights, with line-ups including Alex P, Anil Aras, Artful Dodger and Billy Daniel Bunter and 2 more. Browse upcoming dates, start times and who's playing. 338 Boord Street; Greenwich; London SE10 0PF; United Kingdom.
 
 ## What's on
 

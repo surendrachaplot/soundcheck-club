@@ -1,0 +1,28 @@
+# JONE OF ARX
+
+JONE OF ARX is a Techno and Neo Perreo artist with 1 upcoming club date listed on soundcheck as of Tue, 28 Jul 2026, next at Algha's Plantroom, London on Wed, 29 Jul 2026.
+
+JONE OF ARX is a techno and neo perreo artist tracked on soundcheck, with 47 sets logged across Amsterdam, Barcelona, Berlin and Leeds and 2 more. Often billed alongside TEDESCO, Ivicore and LOVECAT. Next up: Algha's Plantroom, London on Wed 29 Jul.
+
+## Upcoming shows
+
+| Date | Venue | City |
+| --- | --- | --- |
+| Wed, 29 Jul 2026 | Algha's Plantroom | London |
+
+## Recently played
+
+- FOLD, London — Sat, 11 Jul 2026
+- Hackney Wick Multiple Venues, London — Sat, 4 Jul 2026
+- NUMBER 90 LONDON, London — Sat, 4 Jul 2026
+- Village Underground, London — Fri, 3 Jul 2026
+- Hackney Wick Multiple Venues, London — Sat, 27 Jun 2026
+- The Cause, London — Fri, 12 Jun 2026
+- The Cause, London — Fri, 3 Apr 2026
+- The Cause, London — Sat, 21 Mar 2026
+
+## Shares bills with
+
+TEDESCO, Ivicore, LOVECAT
+
+*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/joneofarx/)*

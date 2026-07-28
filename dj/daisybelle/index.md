@@ -1,14 +1,15 @@
 # Daisybelle
 
-Daisybelle is a House and Disco artist with 3 upcoming club dates listed on soundcheck as of Tue, 28 Jul 2026, next at Amnesia Ibiza, Ibiza on Fri, 7 Aug 2026.
+Daisybelle is a House and Disco artist with 4 upcoming club dates listed on soundcheck as of Tue, 28 Jul 2026, next at Amnesia Ibiza, Ibiza on Fri, 7 Aug 2026.
 
-Daisybelle is a house and disco artist tracked on soundcheck, with 81 sets logged across Amsterdam, Bangkok, Barcelona and Berlin and 12 more. Often billed alongside Carly Foxx, MiNNA and STEWPOT. Next up: Amnesia Ibiza, Ibiza on Fri 7 Aug.
+Daisybelle is a house and disco artist tracked on soundcheck, with 82 sets logged across Amsterdam, Bangkok, Barcelona and Berlin and 12 more. Often billed alongside Carly Foxx, MiNNA and STEWPOT. Next up: Amnesia Ibiza, Ibiza on Fri 7 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 7 Aug 2026 | Amnesia Ibiza | Ibiza |
+| Sat, 12 Sept 2026 | Night Tales Loft | London |
 | Thu, 1 Oct 2026 | TBA - Various Venues | Malta |
 | Thu, 1 Oct 2026 | UNO MALTA | Malta |
 

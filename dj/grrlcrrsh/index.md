@@ -1,0 +1,28 @@
+# GRRLCRRSH
+
+GRRLCRRSH is a Techno and Bass artist with 1 upcoming club date listed on soundcheck as of Tue, 28 Jul 2026, next at Three Dollar Bill, Toronto on Sat, 1 Aug 2026.
+
+GRRLCRRSH is a techno and bass artist tracked on soundcheck, with 44 sets logged across Newyorkcity and Toronto. Often billed alongside Sappho.XD, Zellers and Hycastle. Next up: Three Dollar Bill, Toronto on Sat 1 Aug.
+
+## Upcoming shows
+
+| Date | Venue | City |
+| --- | --- | --- |
+| Sat, 1 Aug 2026 | Three Dollar Bill | Toronto |
+
+## Recently played
+
+- The Piston, Toronto — Wed, 24 Jun 2026
+- Cherry Beach, Toronto — Sun, 21 Jun 2026
+- Bsmt 254, Toronto — Fri, 19 Jun 2026
+- Buddies in Bad Times, Toronto — Sat, 6 Jun 2026
+- Buddies in Bad Times, Toronto — Sat, 11 Apr 2026
+- Bambi's, Toronto — Sat, 28 Mar 2026
+- TBA - Toronto, Toronto — Wed, 25 Mar 2026
+- Nickel9 Distillery, Toronto — Fri, 20 Feb 2026
+
+## Shares bills with
+
+Sappho.XD, Zellers, Hycastle
+
+*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/grrlcrrsh/)*

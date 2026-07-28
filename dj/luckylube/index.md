@@ -1,8 +1,8 @@
 # Lucky Lube
 
-Lucky Lube is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Tue, 28 Jul 2026, next at Kvarteret, Stockholm on Sat, 1 Aug 2026.
+Lucky Lube is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Tue, 28 Jul 2026, next at Kvarteret, Stockholm on Sat, 1 Aug 2026.
 
-Lucky Lube is a techno and house artist based in Denmark, tracked on soundcheck, with 84 sets logged across Berlin, Brussels, Copenhagen and Dublin and 7 more. Often billed alongside Frederik Tollund, Baltza and Cockwhore & Macho. Next up: Kvarteret, Stockholm on Sat 1 Aug.
+Lucky Lube is a house and techno artist based in Denmark, tracked on soundcheck, with 85 sets logged across Berlin, Brussels, Copenhagen and Dublin and 8 more. Often billed alongside Frederik Tollund, Baltza and Cockwhore & Macho. Next up: Kvarteret, Stockholm on Sat 1 Aug.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Lucky Lube is a techno and house artist based in Denmark, tracked on soundcheck,
 | --- | --- | --- |
 | Sat, 1 Aug 2026 | Kvarteret | Stockholm |
 | Sat, 15 Aug 2026 | Den Anden Side | Copenhagen |
+| Fri, 21 Aug 2026 | Ankali & Planeta Za | Prague |
 
 ## Recently played
 

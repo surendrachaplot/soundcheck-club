@@ -1,0 +1,28 @@
+# PEPIITA
+
+PEPIITA is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Tue, 28 Jul 2026, next at La Station - Gare des Mines, Paris on Fri, 7 Aug 2026.
+
+PEPIITA is a techno and house artist based in France, tracked on soundcheck, with 62 sets logged across Amsterdam, Berlin, Istanbul and Lyon and 2 more. Often billed alongside RAG, Lea Occhi and Nicol. Next up: La Station - Gare des Mines, Paris on Fri 7 Aug.
+
+## Upcoming shows
+
+| Date | Venue | City |
+| --- | --- | --- |
+| Fri, 7 Aug 2026 | La Station - Gare des Mines | Paris |
+
+## Recently played
+
+- Babour Sauvage, Paris — Sat, 25 Jul 2026
+- CLUB RAUM, Amsterdam — Sat, 11 Jul 2026
+- La Station - Gare des Mines, Paris — Sat, 27 Jun 2026
+- essaim, Paris — Sat, 6 Jun 2026
+- La Prairie du Canal, Paris — Sat, 2 May 2026
+- Wanderlust, Paris — Sat, 11 Apr 2026
+- Fitzroy, Berlin — Sun, 29 Mar 2026
+- La Station - Gare des Mines, Paris — Sat, 21 Mar 2026
+
+## Shares bills with
+
+RAG, Lea Occhi, Nicol
+
+*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/pepiita/)*

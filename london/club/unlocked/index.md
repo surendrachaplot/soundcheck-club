@@ -12,7 +12,7 @@ UNLOCKED is a music venue in London listed on soundcheck. 5 upcoming nights, wit
 | Thu, 3 Sept 2026 | Live Nation presents: SISTRA |  |
 | Sat, 5 Sept 2026 | The Soundgarden | Carina Lawrence, Eelke Kleijn, Lavie Au Soleil, Nick Warren, Sinca |
 | Fri, 2 Oct 2026 | Parable: KAS:ST at UNLOCKED | KAS:ST |
-| Sat, 3 Oct 2026 | High Fade presents 'Twice As Nice' - UNLOCKED London | High Fade |
+| Sat, 3 Oct 2026 | High Fade presents 'Twice As Nice' London | High Fade |
 
 ## Address
 

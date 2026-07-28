@@ -14,7 +14,7 @@ Karmen Camina is a music venue in Strasbourg listed on soundcheck. 10 upcoming n
 | Sat, 8 Aug 2026 | KC [Function (3H30 set) • Tommy Four Seven (3H set) • marie tonic • teinture-mère] | Function, Tommy Four Seven, marie tonic |
 | Fri, 14 Aug 2026 | Freeday Camina - 31 Hertz [USLSS • Alex Stingler & Syn • L'Ouïe • Lior] | USLSS |
 | Sat, 15 Aug 2026 | KC [DJ Godfather • Lisa More • C.K • Kelly Placard • Timeless Rhythms] | C.K, DJ Godfather, Kelly Placard, Lisa More, Timeless Rhythms |
-| Fri, 21 Aug 2026 | SOUND OF KARMEN [Bambounou (3h30 set) + TBC] | Bambounou |
+| Fri, 21 Aug 2026 | SOUND OF KARMEN [Bambounou (3Hs30 set), James Djinn] | Bambounou |
 | Sat, 29 Aug 2026 | BLINKD x CHROMA [NEUX • AMORAL • Shanda • Ponygirl • Don't Tell Mum • Lascar & Meursault] | AMORAL, Don't Tell Mum, NEUX, Ponygirl, Shanda |
 | Fri, 4 Sept 2026 | SOUND OF KARMEN [Peach (3h set) • Vio PRG (3h30 set)] | Peach, Vio PRG |
 | Fri, 18 Sept 2026 | SPECIAL GROOVE [Deadbeat & Tikiman • Diane Moe] | Deadbeat, Paul St. Hilaire, Tikiman |

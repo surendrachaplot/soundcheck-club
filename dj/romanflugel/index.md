@@ -1,8 +1,8 @@
 # Roman Flügel
 
-Roman Flügel is a Techno and House artist with 4 upcoming club dates listed on soundcheck as of Tue, 28 Jul 2026, next at Silencio, Paris on Fri, 21 Aug 2026.
+Roman Flügel is a Techno and House artist with 5 upcoming club dates listed on soundcheck as of Tue, 28 Jul 2026, next at Silencio, Paris on Fri, 21 Aug 2026.
 
-Roman Flügel is a techno and house artist tracked on soundcheck, with 197 sets logged across Amsterdam, Antwerp, Athens and Austin and 64 more. Often billed alongside Gerd Janson, Ivan Smagghe and Ogazón. Next up: Silencio, Paris on Fri 21 Aug.
+Roman Flügel is a techno and house artist tracked on soundcheck, with 198 sets logged across Amsterdam, Antwerp, Athens and Austin and 64 more. Often billed alongside Gerd Janson, Ivan Smagghe and Ogazón. Next up: Silencio, Paris on Fri 21 Aug.
 
 ## Upcoming shows
 
@@ -11,6 +11,7 @@ Roman Flügel is a techno and house artist tracked on soundcheck, with 197 sets 
 | Fri, 21 Aug 2026 | Silencio | Paris |
 | Sat, 29 Aug 2026 | Southwark Park | London |
 | Fri, 11 Sept 2026 | Hï Ibiza | Ibiza |
+| Fri, 2 Oct 2026 | FOLD | London |
 | Sun, 11 Oct 2026 | public records | New York City |
 
 ## Recently played

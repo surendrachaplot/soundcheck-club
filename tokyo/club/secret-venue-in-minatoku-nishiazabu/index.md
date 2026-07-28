@@ -11,6 +11,6 @@ Secret Venue in Minatoku-Nishiazabu is a music venue in Tokyo listed on soundche
 | Fri, 31 Jul 2026 | KiSEi | DJ Yazi, FELINE (JP), Lisa Mizuno, Usk°, Yuoto Saito |
 | Sat, 1 Aug 2026 | CNTRL ROOM: RAW & HYPNOTIC TECHNO • Best of 2026 | Anapol, Bruce Mennel, YU-S-KE |
 | Mon, 10 Aug 2026 | MEDUSA Invites Shogun: Hard Techno — Hard Industrial | AYANA KOSHIBA, DØLLHAUS, KAITO (5), Nono THING, Shogun, VÏVÏ |
-| Sat, 22 Aug 2026 | OTO -THE MUFFIN MAN- (TECHNO / HARD GROOVE) | ERIMIYA, SOGI, STRATAH, TheMuffinMan, XINOVI |
+| Sat, 22 Aug 2026 | OTO -THE MUFFIN MAN- (TECHNO / HARD GROOVE) | ERIMIYA, SOGI, STRATAH, The Muffin Man, XINOVI |
 
 *Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/secret-venue-in-minatoku-nishiazabu/)*

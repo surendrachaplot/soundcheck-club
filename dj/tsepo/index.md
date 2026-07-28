@@ -1,13 +1,14 @@
 # Tsepo
 
-Tsepo is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Tue, 28 Jul 2026, next at Pllek, Amsterdam on Fri, 23 Oct 2026.
+Tsepo is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Tue, 28 Jul 2026, next at Klaas Kompaan (Boat), Amsterdam on Sat, 15 Aug 2026.
 
-Tsepo is a house and techno artist tracked on soundcheck, with 118 sets logged across Amsterdam, Berlin, Budapest and Cologne and 8 more. Often billed alongside Lucky Done Gone, dj sweet6teen and Eversines. Next up: Pllek, Amsterdam on Fri 23 Oct.
+Tsepo is a house and techno artist tracked on soundcheck, with 119 sets logged across Amsterdam, Berlin, Budapest and Cologne and 8 more. Often billed alongside Lucky Done Gone, dj sweet6teen and Eversines. Next up: Klaas Kompaan (Boat), Amsterdam on Sat 15 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 15 Aug 2026 | Klaas Kompaan (Boat) | Amsterdam |
 | Fri, 23 Oct 2026 | Pllek | Amsterdam |
 | Sun, 25 Oct 2026 | Garage Noord | Amsterdam |
 

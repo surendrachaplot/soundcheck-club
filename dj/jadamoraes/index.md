@@ -1,0 +1,28 @@
+# JADA MORAES
+
+JADA MORAES is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 28 Jul 2026, next at Kampnagel, Hamburg on Fri, 14 Aug 2026.
+
+JADA MORAES is a house and techno artist tracked on soundcheck, with 184 sets logged across Amsterdam, Barcelona, Berlin and Cologne and 12 more. Often billed alongside DJ Soulscape, SKiiDA and ANDOW. Next up: Kampnagel, Hamburg on Fri 14 Aug.
+
+## Upcoming shows
+
+| Date | Venue | City |
+| --- | --- | --- |
+| Fri, 14 Aug 2026 | Kampnagel | Hamburg |
+
+## Recently played
+
+- Fitzroy, Berlin — Sat, 18 Jul 2026
+- Phantom Bar Berlin, Berlin — Sat, 13 Jun 2026
+- DSTRKT Club Berlin, Berlin — Fri, 12 Jun 2026
+- Golden Pudel Club, Hamburg — Thu, 11 Jun 2026
+- PARKS, Hamburg — Sat, 6 Jun 2026
+- Festsaal Kreuzberg, Berlin — Fri, 29 May 2026
+- Times, Seoul — Sat, 16 May 2026
+- Tokonoma Club, Frankfurt — Fri, 15 May 2026
+
+## Shares bills with
+
+DJ Soulscape, SKiiDA, ANDOW
+
+*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/jadamoraes/)*

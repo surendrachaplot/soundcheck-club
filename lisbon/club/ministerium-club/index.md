@@ -1,8 +1,8 @@
 # Ministerium Club
 
-Ministerium Club is a music venue in Lisbon with 6 upcoming nights listed on soundcheck as of Tue, 28 Jul 2026; the next is "Riktus Rebirth - The Anniversary Finale w/ Cynthia Spiering, Lolalita, Madson Carpenter " on Thu, 30 Jul 2026.
+Ministerium Club is a music venue in Lisbon with 7 upcoming nights listed on soundcheck as of Tue, 28 Jul 2026; the next is "Riktus Rebirth - The Anniversary Finale w/ Cynthia Spiering, Lolalita, Madson Carpenter " on Thu, 30 Jul 2026.
 
-Ministerium Club is a music venue in Lisbon listed on soundcheck. 6 upcoming nights, with line-ups including 7CIRCLE, Amulador, Ario and BØĘRY and 2 more. Browse upcoming dates, start times and who's playing. Praça Comércio 72, 1100-148, Lisboa, Portugal.
+Ministerium Club is a music venue in Lisbon listed on soundcheck. 7 upcoming nights, with line-ups including 7CIRCLE, Amulador, Ario and BØĘRY and 2 more. Browse upcoming dates, start times and who's playing. Praça Comércio 72, 1100-148, Lisboa, Portugal.
 
 ## What's on
 
@@ -10,6 +10,7 @@ Ministerium Club is a music venue in Lisbon listed on soundcheck. 6 upcoming nig
 | --- | --- | --- |
 | Thu, 30 Jul 2026 | Riktus Rebirth - The Anniversary Finale w/ Cynthia Spiering, Lolalita, Madson Carpenter  | Cynthia Spiering, DJINNMUSIC, Lolalita, Madson Carpenter, Taxsh |
 | Fri, 31 Jul 2026 | Ministerium Club // Ario, Amulador & Tiago | Amulador, Ario, Tíago |
+| Sat, 1 Aug 2026 | Ministerium Club // DAMIANA, Cosmo & Hélio | Cosmo (PT), DAMIANA, Helio |
 | Thu, 6 Aug 2026 | Riktus x MRC with BØĘRY b2b Sørenga, cassandrah, B-Killer, Felipão, RZVX | BØĘRY, RZVX, Sørenga, cassandrah |
 | Sat, 8 Aug 2026 | Cirque invites Chevry Agency (FR) W/ HearThug, IAMBP, Joel Rakoto & MURI | HearThug, IAMBP, Joel Rakoto, MURI |
 | Sat, 15 Aug 2026 | ADRENA +++ with Boris (Ostgut Ton - DE), 7CIRCLE, Taxsh, Bede Ben | 7CIRCLE, Boris, Taxsh |

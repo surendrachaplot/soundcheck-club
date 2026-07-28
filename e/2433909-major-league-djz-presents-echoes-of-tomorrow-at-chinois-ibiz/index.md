@@ -1,0 +1,15 @@
+# Major League Djz presents Echoes of Tomorrow at Chinois Ibiza
+
+Major League Djz presents Echoes of Tomorrow at Chinois Ibiza on Fri 9 Oct, Ibiza. 1 act on the bill: Major League Djz. House and Afro House. Preview the line-up and save it on soundcheck.
+
+| Field | Value |
+| --- | --- |
+| Date | Fri, 9 Oct 2026 |
+| Venue | Chinois Ibiza |
+| City | Ibiza |
+
+## Line-up
+
+- Major League Djz
+
+*Source: [soundcheck](https://soundcheck.club/e/2433909-major-league-djz-presents-echoes-of-tomorrow-at-chinois-ibiz/)*

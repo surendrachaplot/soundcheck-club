@@ -1,8 +1,8 @@
 # Deselecta
 
-Deselecta is a Jungle and Drum & Bass artist with 2 upcoming club dates listed on soundcheck as of Tue, 28 Jul 2026, next at The Clock Factory, Bristol on Fri, 7 Aug 2026.
+Deselecta is a Jungle and Drum & Bass artist with 3 upcoming club dates listed on soundcheck as of Tue, 28 Jul 2026, next at The Clock Factory, Bristol on Fri, 7 Aug 2026.
 
-Deselecta is a jungle and drum & bass artist tracked on soundcheck, with 63 sets logged across Bristol, Frankfurt, London and Manchester and 2 more. Often billed alongside Krash Dubs, 50CAL and Sleazebag. Next up: The Clock Factory, Bristol on Fri 7 Aug.
+Deselecta is a jungle and drum & bass artist tracked on soundcheck, with 64 sets logged across Bristol, Frankfurt, London and Manchester and 2 more. Often billed alongside Krash Dubs, 50CAL and Sleazebag. Next up: The Clock Factory, Bristol on Fri 7 Aug.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Deselecta is a jungle and drum & bass artist tracked on soundcheck, with 63 sets
 | --- | --- | --- |
 | Fri, 7 Aug 2026 | The Clock Factory | Bristol |
 | Fri, 14 Aug 2026 | Brixton Jamm | London |
+| Sat, 26 Sept 2026 | The Croft | Bristol |
 
 ## Recently played
 

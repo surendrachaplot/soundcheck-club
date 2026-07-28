@@ -1,8 +1,8 @@
 # The Black Box
 
-The Black Box is a music venue in Denver with 9 upcoming nights listed on soundcheck as of Tue, 28 Jul 2026; the next is "Cnopes" on Thu, 30 Jul 2026.
+The Black Box is a music venue in Denver with 10 upcoming nights listed on soundcheck as of Tue, 28 Jul 2026; the next is "Cnopes" on Thu, 30 Jul 2026.
 
-The Black Box is a music venue in Denver listed on soundcheck. 9 upcoming nights, with line-ups including Amit, Beard-o-Bees, Grym and Jen Tops and 2 more. Browse upcoming dates, start times and who's playing. 314 E. 13th Ave. Denver, CO 80203.
+The Black Box is a music venue in Denver listed on soundcheck. 10 upcoming nights, with line-ups including Amit, Beard-o-Bees, Grym and Jen Tops and 2 more. Browse upcoming dates, start times and who's playing. 314 E. 13th Ave. Denver, CO 80203.
 
 ## What's on
 
@@ -17,6 +17,7 @@ The Black Box is a music venue in Denver listed on soundcheck. 9 upcoming nights
 | Sat, 15 Aug 2026 | Sub.mission presents: Joker X Phaeleh | Joker, Phaeleh |
 | Sat, 15 Aug 2026 | Sub.mission presents: Joker & Para Nada | Joker |
 | Thu, 20 Aug 2026 | Alex Unger & Friends |  |
+| Sat, 5 Sept 2026 | The Black Box presents: Speedtek & Combine |  |
 
 ## Address
 

@@ -1,0 +1,27 @@
+# METALLIC LOVER
+
+METALLIC LOVER is a EBM and Italo Disco artist with 1 upcoming club date listed on soundcheck as of Tue, 28 Jul 2026, next at radial, London on Fri, 7 Aug 2026.
+
+METALLIC LOVER is an ebm and italo disco artist based in United Kingdom, tracked on soundcheck, with 8 sets logged across London. Often billed alongside Lais Pattak, Claudia Kane and Glotzer. Next up: radial, London on Fri 7 Aug.
+
+## Upcoming shows
+
+| Date | Venue | City |
+| --- | --- | --- |
+| Fri, 7 Aug 2026 | radial | London |
+
+## Recently played
+
+- The Steel Yard, London — Sat, 30 May 2026
+- The Waiting Room, London — Fri, 1 May 2026
+- The Waiting Room, London — Sat, 28 Feb 2026
+- The Waiting Room, London — Sat, 17 Jan 2026
+- Camden Assembly, London — Fri, 31 Oct 2025
+- Camden Assembly, London — Sat, 29 Mar 2025
+- Camden Assembly, London — Sat, 26 Oct 2024
+
+## Shares bills with
+
+Lais Pattak, Claudia Kane, Glotzer
+
+*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/metalliclover/)*

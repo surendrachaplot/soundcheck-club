@@ -12,7 +12,7 @@ XOYO is a music venue in London listed on soundcheck. 39 upcoming nights, with l
 | Thu, 30 Jul 2026 | Insomnia London: Rebekah Abdeen, DJelley, Goya b2b Half Cab | DJelley, Half Cab, Rebekah Abdeen |
 | Sat, 1 Aug 2026 | Ozzie Guven, Rich NXT, Boss Priester & Paisley Jensen | Boss Priester, Ozzie Guven, Paisley Jensen, Rich NXT |
 | Sun, 2 Aug 2026 | ANCESTORZ - XOYO  |  |
-| Mon, 3 Aug 2026 | MOTION Every Monday |  |
+| Mon, 3 Aug 2026 | MOTION Every Monday - [WHITE PARTY SPECIAL] |  |
 | Wed, 5 Aug 2026 | PARADOX |  |
 | Thu, 6 Aug 2026 | Insomnia London: Mosai, Adele Tondu, Jungle George | Adele Tondu, Mosai |
 | Sat, 8 Aug 2026 | The Foundation - XOYO Takeover Part 2 | B3, DRIA, Dominique Danielle, Jnr Windross, Lance Morgan, Mark Radford, Supa D |

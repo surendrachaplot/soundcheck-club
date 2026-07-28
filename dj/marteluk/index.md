@@ -1,0 +1,28 @@
+# Martel (UK)
+
+Martel (UK) is a House and Minimal Techno artist with 2 upcoming club dates listed on soundcheck as of Tue, 28 Jul 2026, next at Vittoria Wharf Studio, London on Fri, 14 Aug 2026.
+
+Martel (UK) is a house and minimal techno artist tracked on soundcheck, with 9 sets logged across London. Often billed alongside MARTEL, Paddy Cotter and Elleinad. Next up: Vittoria Wharf Studio, London on Fri 14 Aug.
+
+## Upcoming shows
+
+| Date | Venue | City |
+| --- | --- | --- |
+| Fri, 14 Aug 2026 | Vittoria Wharf Studio | London |
+| Sat, 15 Aug 2026 | TBA - Palace Vinyl - Brixton | London |
+
+## Recently played
+
+- Gaffe, London — Sat, 13 Jun 2026
+- Arch 535, London — Fri, 10 Apr 2026
+- Next Door Records Two, London — Sat, 7 Feb 2026
+- Next Door Records Two, London — Fri, 23 Jan 2026
+- Avalon Cafe Bermondsey, London — Sat, 3 Jan 2026
+- TBA - Secret East London Location, London — Sat, 8 Nov 2025
+- TBA - Secret Location, London — Sat, 31 May 2025
+
+## Shares bills with
+
+MARTEL, Paddy Cotter, Elleinad
+
+*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/marteluk/)*

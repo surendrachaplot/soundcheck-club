@@ -9,7 +9,7 @@ DNA Club is a music venue in Munich listed on soundcheck. 2 upcoming nights, wit
 | Date | Night | Line-up |
 | --- | --- | --- |
 | Fri, 31 Jul 2026 | SEXPRESSIONS VI with DJ SEXSTASY (BR), OZA (USA), Yasmin Regisford (FR), Imanix (BR) | DJ SEXSTASY, OZA, Yasmin Regisford |
-| Fri, 7 Aug 2026 | SCHRANZ is BACK München with Felix Kröcher | Felix Kröcher |
+| Fri, 7 Aug 2026 | (sold out) SCHRANZ is BACK München with Felix Kröcher | Felix Kröcher |
 
 ## Address
 

@@ -1,0 +1,11 @@
+# Downtempo City Funk - Ogród Letni at Łysy Pingwin - Ogród Letni
+
+Downtempo City Funk - Ogród Letni at Łysy Pingwin - Ogród Letni on Sat 1 Aug, Warsaw. Balearic and Electronica. Preview the line-up and save it on soundcheck.
+
+| Field | Value |
+| --- | --- |
+| Date | Sat, 1 Aug 2026 |
+| Venue | Łysy Pingwin - Ogród Letni |
+| City | Warsaw |
+
+*Source: [soundcheck](https://soundcheck.club/e/2499126-downtempo-city-funk-ogr-d-letni-at-ysy-pingwin-ogr-d-letni/)*

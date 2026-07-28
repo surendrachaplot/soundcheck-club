@@ -1,8 +1,8 @@
 # Locky
 
-Locky is a House and Tech House artist with 14 upcoming club dates listed on soundcheck as of Tue, 28 Jul 2026, next at Shelter Amsterdam, Amsterdam on Fri, 7 Aug 2026.
+Locky is a House and Tech House artist with 15 upcoming club dates listed on soundcheck as of Tue, 28 Jul 2026, next at Shelter Amsterdam, Amsterdam on Fri, 7 Aug 2026.
 
-Locky is a house and tech house artist tracked on soundcheck, with 134 sets logged across Amsterdam, Barcelona, Belgrade and Birmingham and 25 more. Often billed alongside Mad.Again (2), Liam Palmer and Elliot Schooling. Next up: Shelter Amsterdam, Amsterdam on Fri 7 Aug.
+Locky is a house and tech house artist tracked on soundcheck, with 135 sets logged across Amsterdam, Barcelona, Belgrade and Birmingham and 25 more. Often billed alongside Mad.Again (2), Liam Palmer and Elliot Schooling. Next up: Shelter Amsterdam, Amsterdam on Fri 7 Aug.
 
 ## Upcoming shows
 
@@ -15,11 +15,11 @@ Locky is a house and tech house artist tracked on soundcheck, with 134 sets logg
 | Sat, 22 Aug 2026 | Hï Ibiza | Ibiza |
 | Sun, 23 Aug 2026 | Colorado Charlie | The Hague |
 | Sat, 29 Aug 2026 | Kelvedon Hall | London |
+| Sun, 30 Aug 2026 | fabric | London |
 | Wed, 2 Sept 2026 | [UNVRS] | Ibiza |
 | Fri, 4 Sept 2026 | 528 Ibiza | Ibiza |
 | Sun, 13 Sept 2026 | Beach House San Diego | San Diego |
 | Wed, 16 Sept 2026 | [UNVRS] | Ibiza |
-| Fri, 18 Sept 2026 | UNO MALTA | Malta |
 
 ## Recently played
 

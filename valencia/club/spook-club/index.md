@@ -11,7 +11,7 @@ Spook Club is a music venue in Valencia listed on soundcheck. 15 upcoming nights
 | Sat, 1 Aug 2026 | Setaoc Mass + Adriana Lopez + invitados | Adriana Lopez, Setaoc Mass |
 | Sat, 1 Aug 2026 | Oven Garden en Spook Sunbox: Koseki - Caballeri - Varis - Camiel Daamen - Pizzicatto + Feedback | Caballeri, Camiel Daamen, Fabricio, Pizzicatto, Varis |
 | Sat, 8 Aug 2026 | Zisko + Mac Declos + invitados | Mac Declos, Zisko |
-| Sat, 8 Aug 2026 | Oven Garden en Spook Sunbox: Koseki - Caballeri - Varis - Camiel Daamen - Pizzicatto + Feedback | Dawidu |
+| Sat, 8 Aug 2026 | Oven Garden en Spook Sunbox: Tinno - Fran.Cis - Dawidu | Dawidu |
 | Sat, 15 Aug 2026 | DJ Sexstasy + Bicha + Biondo + Ariezzz & Oven Garden | Ariezzz, Biondo, DJ SEXSTASY |
 | Sat, 15 Aug 2026 | Oven Garden en Spook Sunbox: Sueezo - JM Aboga - Alana | Sueezo |
 | Sat, 22 Aug 2026 | KARAH + In Furcht + KIM SWIM | In Furcht, KARAH, KIM SWIM |

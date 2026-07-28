@@ -10,7 +10,7 @@ OXI is a music venue in Berlin listed on soundcheck. 28 upcoming nights, with li
 | --- | --- | --- |
 | Tue, 28 Jul 2026 | ✦encore.une.fois✦ / INDOOR RAVE + OPEN AIR CHILL GARDEN | BLACK ANTHEM RESTORE, Exos, KAMA, ZAKARE |
 | Thu, 30 Jul 2026 | [OPEN: 20:00h] OXI LIVE: MODULAR / SYNTHS - Amsterdam and Berlin | Chalita Claudine, Dave Mech, Jan Ritter, Jasmin Giovanazzi, Mattone, Sara Delirio, UniKhatu, s:mash |
-| Fri, 31 Jul 2026 | Down & Dirty - LESBERLIN Mud Wrestling Fundraiser | Trigger T |
+| Fri, 31 Jul 2026 | Down & Dirty - LESBERLIN Mud Wrestling Fundraiser | Haus of Ralph, Trigger T |
 | Fri, 31 Jul 2026 | Dyketopia Club Night / & Official Mud Wrestling After Party  | Alada, DJ Petite, Kiar Oscuro, Miss T Delight, Or_ion |
 | Sat, 1 Aug 2026 | Small Great House 'August Edition' (Open Air + Indoor) | Anna Schreit, Black Loops, Bruno Otranto, DJ Glitterelli, Eva Crystaltips, ICTV, Jay Ru, Jones, Lealaetitia, Luca Olivotto, Malte Süß, Nephews, Quadrakey, Shabi, Siggatunez, Small Great Things. Soundsystem |
 | Sun, 2 Aug 2026 | OXI presents: WRONG ERA (Slow Motion) (OPEN AIR & INDOOR) | Fabrizio Mammarella, Giulia Gutterer, Radondo |

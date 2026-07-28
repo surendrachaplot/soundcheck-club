@@ -9,7 +9,7 @@ NEW MAGIC MEDIA is a techno and bass artist based in Czech Republic, tracked on 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 7 Aug 2026 | Ankali & Planeta Za | Prague |
-| Sat, 15 Aug 2026 | Ostrov Štvanice | Prague |
+| Sat, 15 Aug 2026 | Fuchs2 | Prague |
 
 ## Recently played
 

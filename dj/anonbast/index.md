@@ -1,0 +1,29 @@
+# An On Bast
+
+An On Bast is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Tue, 28 Jul 2026, next at ://about blank, Berlin on Sat, 1 Aug 2026.
+
+An On Bast is a techno and house artist based in Poland, tracked on soundcheck, with 18 sets logged across Berlin, Cologne, Hamburg and Krakow and 3 more. Often billed alongside Cryptofauna, timodufner and Anja Schneider. Next up: ://about blank, Berlin on Sat 1 Aug.
+
+## Upcoming shows
+
+| Date | Venue | City |
+| --- | --- | --- |
+| Sat, 1 Aug 2026 | ://about blank | Berlin |
+| Fri, 25 Sept 2026 | Odonien | Cologne |
+
+## Recently played
+
+- TBA - NULL815 OUTDOOR, Stuttgart — Sun, 26 Jul 2026
+- Kater, Berlin — Fri, 6 Feb 2026
+- Ms Dockville, Hamburg — Fri, 15 Aug 2025
+- TBA - Berlin Victory Column (Siegessäule), Berlin — Sat, 17 Aug 2024
+- Kater, Berlin — Sat, 17 Aug 2024
+- TBA, Stuttgart — Sun, 28 Jul 2024
+- MS Artville, Hamburg — Sat, 20 Jul 2024
+- Else, Berlin — Thu, 20 Jun 2024
+
+## Shares bills with
+
+Cryptofauna, timodufner, Anja Schneider
+
+*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/anonbast/)*

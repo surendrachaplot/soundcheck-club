@@ -9,7 +9,7 @@ Sala ART is a music venue in Madrid listed on soundcheck. 3 upcoming nights, wit
 | Date | Night | Line-up |
 | --- | --- | --- |
 | Thu, 30 Jul 2026 | Antidoto Club: Trap Night |  |
-| Fri, 31 Jul 2026 | CHRØMA CLOSING SEASON: SPECIAL B3B (FREE TICKETS) | Costa (2), JAIROSKUN, Miguel Rivas, RODS (ES), Suko, Venus de Milo |
+| Fri, 31 Jul 2026 | CHRØMA CLOSING SEASON: SPECIAL B3B (LAST 500 FREE TICKETS) | Costa (2), JAIROSKUN, Miguel Rivas, RODS (ES), Suko, Venus de Milo |
 | Sat, 1 Aug 2026 | Antidoto Club: Closing Night | Diego Armando, Maxvll, Yosef |
 
 ## Address

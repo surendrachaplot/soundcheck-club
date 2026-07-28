@@ -10,7 +10,7 @@ Mena Berlin is a music venue in Berlin listed on soundcheck. 3 upcoming nights, 
 | --- | --- | --- |
 | Fri, 31 Jul 2026 | House Tapes Vol.04 | Adam Cooke, Hannes.., Joe Peck, Marco Ohboy |
 | Sat, 1 Aug 2026 | Bowlingbahn |  |
-| Sat, 15 Aug 2026 | RTP Afterparty |  |
+| Sat, 15 Aug 2026 | After All  |  |
 
 ## Address
 

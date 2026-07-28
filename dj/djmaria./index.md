@@ -1,8 +1,8 @@
 # DJ MARIA.
 
-DJ MARIA. is a Techno and Trance artist with 7 upcoming club dates listed on soundcheck as of Tue, 28 Jul 2026, next at Virage, Paris on Sat, 1 Aug 2026.
+DJ MARIA. is a Techno and Trance artist with 8 upcoming club dates listed on soundcheck as of Tue, 28 Jul 2026, next at Virage, Paris on Sat, 1 Aug 2026.
 
-DJ MARIA. is a techno and trance artist tracked on soundcheck, with 138 sets logged across Amsterdam, Athens, Barcelona and Basel and 32 more. Often billed alongside DJ Yazi, Spekki Webu and Takumi Inamoto. Next up: Virage, Paris on Sat 1 Aug.
+DJ MARIA. is a techno and trance artist tracked on soundcheck, with 139 sets logged across Amsterdam, Athens, Barcelona and Basel and 32 more. Often billed alongside DJ Yazi, Spekki Webu and Takumi Inamoto. Next up: Virage, Paris on Sat 1 Aug.
 
 ## Upcoming shows
 
@@ -11,6 +11,7 @@ DJ MARIA. is a techno and trance artist tracked on soundcheck, with 138 sets log
 | Sat, 1 Aug 2026 | Virage | Paris |
 | Sun, 2 Aug 2026 | RADION | Amsterdam |
 | Sat, 15 Aug 2026 | WOMB | Tokyo |
+| Fri, 21 Aug 2026 | Lux Fragil | Lisbon |
 | Sat, 22 Aug 2026 | Berghain / Panorama Bar / Säule | Berlin |
 | Fri, 18 Sept 2026 | Fort Mifflin | Philadelphia |
 | Fri, 18 Sept 2026 | TBA | San Francisco/Oakland |

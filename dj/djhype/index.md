@@ -1,8 +1,8 @@
 # DJ Hype
 
-DJ Hype is a Drum & Bass and Jungle artist with 2 upcoming club dates listed on soundcheck as of Tue, 28 Jul 2026, next at Brixton Jamm, London on Sat, 1 Aug 2026.
+DJ Hype is a Drum & Bass and Jungle artist with 3 upcoming club dates listed on soundcheck as of Tue, 28 Jul 2026, next at Brixton Jamm, London on Sat, 1 Aug 2026.
 
-DJ Hype is a drum & bass and jungle artist tracked on soundcheck, with 73 sets logged across Amsterdam, Bangkok, Berlin and Birmingham and 17 more. Often billed alongside IC3, Nicky Blackmarket and DJ Hazard. Next up: Brixton Jamm, London on Sat 1 Aug.
+DJ Hype is a drum & bass and jungle artist tracked on soundcheck, with 74 sets logged across Amsterdam, Bangkok, Berlin and Birmingham and 17 more. Often billed alongside IC3, Nicky Blackmarket and DJ Hazard. Next up: Brixton Jamm, London on Sat 1 Aug.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ DJ Hype is a drum & bass and jungle artist tracked on soundcheck, with 73 sets l
 | --- | --- | --- |
 | Sat, 1 Aug 2026 | Brixton Jamm | London |
 | Fri, 4 Sept 2026 | Phonox | London |
+| Sat, 26 Sept 2026 | Studio 338 | London |
 
 ## Recently played
 

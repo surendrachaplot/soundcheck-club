@@ -1,0 +1,28 @@
+# Bttologic
+
+Bttologic is a House and Minimal artist with 1 upcoming club date listed on soundcheck as of Tue, 28 Jul 2026, next at Seaseaclub Barcelona, Barcelona on Sat, 15 Aug 2026.
+
+Bttologic is a house and minimal artist tracked on soundcheck, with 49 sets logged across Barcelona, Denver, Newyorkcity and Riga. Often billed alongside John Karam, Fedo (UA) and Gera (3). Next up: Seaseaclub Barcelona, Barcelona on Sat 15 Aug.
+
+## Upcoming shows
+
+| Date | Venue | City |
+| --- | --- | --- |
+| Sat, 15 Aug 2026 | Seaseaclub Barcelona | Barcelona |
+
+## Recently played
+
+- TBA - Backstage - Carrer Casp, 33, Barcelona — Sat, 11 Jul 2026
+- 303 Audiophile Bar, Barcelona — Fri, 10 Jul 2026
+- TBA - Backstage - Carrer Casp, 33, Barcelona — Sat, 20 Jun 2026
+- Sunseabar Beach Club, Barcelona — Fri, 12 Jun 2026
+- 303 Audiophile Bar, Barcelona — Sun, 7 Jun 2026
+- TBA - Backstage - Carrer Casp, 33, Barcelona — Fri, 29 May 2026
+- TBA - Backstage - Carrer Casp,33, Barcelona — Fri, 22 May 2026
+- 303 Audiophile Bar, Barcelona — Sat, 9 May 2026
+
+## Shares bills with
+
+John Karam, Fedo (UA), Gera (3)
+
+*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/bttologic/)*

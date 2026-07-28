@@ -15,7 +15,7 @@ KALT is a music venue in Strasbourg listed on soundcheck. 12 upcoming nights, wi
 | Sat, 29 Aug 2026 | The Third Room: Andy Martin, Constanza, Marcal, Felix Feer | Andy Martin, Dimë, Felix Fleer, Justine Perry, Marcal |
 | Sat, 5 Sept 2026 | DINA | ANNUN, Arbo, DINA, Halès, Zhar |
 | Sat, 12 Sept 2026 | Steve Rachmad | Steve Rachmad |
-| Sat, 19 Sept 2026 | DJ Cringey | DJ Cringey |
+| Sat, 19 Sept 2026 | DJ Cringey & FJUSHA  | DJ Cringey, FJUSHA |
 | Sat, 26 Sept 2026 | Daniel Avery & Massimiliano Pagliara | Daniel Avery, Massimiliano Pagliara |
 | Sat, 3 Oct 2026 | X-Club. | Deetron, X CLUB. |
 

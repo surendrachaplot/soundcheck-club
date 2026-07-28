@@ -1,0 +1,28 @@
+# keks
+
+keks is a House and Garage artist with 1 upcoming club date listed on soundcheck as of Tue, 28 Jul 2026, next at Ouseburn Garden, Newcastle on Sat, 1 Aug 2026.
+
+keks is a house and garage artist based in United Kingdom, tracked on soundcheck, with 11 sets logged across London and Newcastle. Often billed alongside Molly Sinnott, PHJ.WAV and A.I.F.O.S.. Next up: Ouseburn Garden, Newcastle on Sat 1 Aug.
+
+## Upcoming shows
+
+| Date | Venue | City |
+| --- | --- | --- |
+| Sat, 1 Aug 2026 | Ouseburn Garden | Newcastle |
+
+## Recently played
+
+- Tokyo Bar, Newcastle — Sat, 28 Mar 2026
+- Hidden Heights Creative Studio, Newcastle — Sat, 7 Mar 2026
+- Ernest, Newcastle — Mon, 2 Mar 2026
+- NX Newcastle, Newcastle — Fri, 13 Feb 2026
+- Tokyo Bar, Newcastle — Fri, 6 Feb 2026
+- Top Floor, Newcastle — Thu, 5 Feb 2026
+- Top Floor, Newcastle — Sat, 31 Jan 2026
+- The Greyhound, London — Fri, 30 Jan 2026
+
+## Shares bills with
+
+Molly Sinnott, PHJ.WAV, A.I.F.O.S.
+
+*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/keks/)*

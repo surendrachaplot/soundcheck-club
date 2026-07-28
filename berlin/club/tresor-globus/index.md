@@ -10,7 +10,7 @@ Tresor / Globus is a music venue in Berlin listed on soundcheck. 27 upcoming nig
 | --- | --- | --- |
 | Wed, 29 Jul 2026 | Büro Siebzig: Takuya Nakamura LIVE | Takuya Nakamura |
 | Wed, 29 Jul 2026 | Tresor New Faces hosted by OPUS | Iman Janes, Livid (UK), NASTYA NVRSLP, Sparkling Water Dreams |
-| Fri, 31 Jul 2026 | Tresor meets Perc Trax | Cheriii, DJ Sotofett, Erik Jabari, Lacchesi, OlIV, Perc, Specific Objects |
+| Fri, 31 Jul 2026 | Tresor meets Perc Trax | Cheriii, DJ Sotofett, Erik Jabari, Lacchesi, OLIV, OlIV, Perc, Specific Objects |
 | Sat, 1 Aug 2026 | Tresor Klubnacht | DJ Plant Texture, Developer, Francesco Farfa, Hypnotic Black Magic, Janina, MAEDON, Malika |
 | Mon, 3 Aug 2026 | ◥◣4MP x SINGULARITY◥◣(TRESOR + AURORA BAR / 2 floors) | CAIVA, Koboyo, Mila Black, SALIMATA, VIVI909 |
 | Wed, 5 Aug 2026 | Büro Siebzig: PÖ LIVE - hosted by Nyege Nyege Festival |  |

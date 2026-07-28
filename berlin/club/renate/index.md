@@ -1,6 +1,6 @@
 # Renate
 
-Renate is a music venue in Berlin with 16 upcoming nights listed on soundcheck as of Tue, 28 Jul 2026; the next is "Renate x Dollhaus" on Thu, 30 Jul 2026.
+Renate is a music venue in Berlin with 16 upcoming nights listed on soundcheck as of Tue, 28 Jul 2026; the next is "Renate x Dollhaus x Don't Rush On A Wonk (Free Openair)" on Thu, 30 Jul 2026.
 
 Renate is a music venue in Berlin listed on soundcheck. 16 upcoming nights, with line-ups including Aceedo, Adis Is OK, Aidan and Alison Swing and 2 more. Browse upcoming dates, start times and who's playing. Alt Stralau 70; Friedrichshain; 10245 Berlin; Germany.
 
@@ -8,7 +8,7 @@ Renate is a music venue in Berlin listed on soundcheck. 16 upcoming nights, with
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Thu, 30 Jul 2026 | Renate x Dollhaus | Ayolxi, Gabrielle (DE), KLEA, Taurean |
+| Thu, 30 Jul 2026 | Renate x Dollhaus x Don't Rush On A Wonk (Free Openair) | Ayolxi, FoxMind, Gabrielle (DE), KLEA, Taurean |
 | Fri, 31 Jul 2026 | Renate Klubnacht + Open Air (Free Entry) with Craigie Knowes & Phuong Dan | Craigie Knowes, DJ Life, Dream_E, Eliza (2), Lyla, Nimb, Phuong Dan, The Burrell Connection, kairavi |
 | Sat, 1 Aug 2026 | Renate Klubnacht + Open Air (Free Entry) w/ FEIERAMT & Lush Lab | Aidan, CSILLA, Clovis, EMIRA, Edgar Peng, Enzio Etchaberri, Harrison (2), Harrison (UK), Heka, João Comazzi, Leo Roskovec, Lush Lab, Maris Shilton, Richii, Tristan Blach |
 | Thu, 6 Aug 2026 | Renate x Neer x Kollektiv Lost-In |  |

@@ -1,6 +1,6 @@
 # GutGezogen pres. Housenahmezustand Vol.2 at Ipse
 
-GutGezogen pres. Housenahmezustand Vol.2 at Ipse on Sat 8 Aug, Berlin. 2 acts on the bill: Sokool and Toni Clara. House and Deep House. Preview the line-up and save it on soundcheck.
+GutGezogen pres. Housenahmezustand Vol.2 at Ipse on Sat 8 Aug, Berlin. 3 acts on the bill: CreamyZound, Sokool and Toni Clara. House and Deep House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,6 +10,7 @@ GutGezogen pres. Housenahmezustand Vol.2 at Ipse on Sat 8 Aug, Berlin. 2 acts on
 
 ## Line-up
 
+- CreamyZound
 - Sokool
 - Toni Clara
 

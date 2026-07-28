@@ -13,7 +13,7 @@ Underground SF is a music venue in Sanfrancisco listed on soundcheck. 6 upcoming
 | Sat, 8 Aug 2026 | RAPRAVE presents INCUBATOR | DJ Audit, Discnogirl, Lonald J. Bandz, erika (SF), jmo corleone, lil laozi |
 | Fri, 14 Aug 2026 | CLUB MUSIC |  |
 | Fri, 11 Sept 2026 | PROX. Jason Kendig, Dr. Rek, Kenvulsion, M4RC0, Andrew Butcher | Dr. Rek, Jason Kendig |
-| Sat, 10 Oct 2026 | RM 303: Ghosts in the Shell | Jehnee |
+| Sat, 10 Oct 2026 | RM 303: Ghosts within the Shell | Jehnee |
 
 ## Address
 

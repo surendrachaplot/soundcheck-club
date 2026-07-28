@@ -1,6 +1,6 @@
 # THE UNKNOWN (𝘍𝘙𝘌𝘌 𝘌𝘕𝘛𝘙𝘠 𝘜𝘕𝘛𝘐𝘓 22:00 ⟶ 𝘛𝘏𝘙𝘌𝘌 𝘍𝘓𝘖𝘖𝘙𝘚) at Süss War Gestern
 
-THE UNKNOWN (𝘍𝘙𝘌𝘌 𝘌𝘕𝘛𝘙𝘠 𝘜𝘕𝘛𝘐𝘓 22:00 ⟶ 𝘛𝘏𝘙𝘌𝘌 𝘍𝘓𝘖𝘖𝘙𝘚) at Süss War Gestern on Sat 1 Aug, Berlin. 4 acts on the bill: Better Call Paul, Hemi, Mario Worgall and Nikklaas. House and Disco. Preview the line-up and save it on soundcheck.
+THE UNKNOWN (𝘍𝘙𝘌𝘌 𝘌𝘕𝘛𝘙𝘠 𝘜𝘕𝘛𝘐𝘓 22:00 ⟶ 𝘛𝘏𝘙𝘌𝘌 𝘍𝘓𝘖𝘖𝘙𝘚) at Süss War Gestern on Sat 1 Aug, Berlin. 6 acts on the bill: Better Call Paul, DAAS (1), Hemi and Mario Worgall and 2 more. House and Disco. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -11,8 +11,10 @@ THE UNKNOWN (𝘍𝘙𝘌𝘌 𝘌𝘕𝘛𝘙𝘠 𝘜𝘕𝘛𝘐𝘓 22:00 �
 ## Line-up
 
 - Better Call Paul
+- DAAS (1)
 - Hemi
 - Mario Worgall
 - Nikklaas
+- WEDER
 
 *Source: [soundcheck](https://soundcheck.club/e/2447577-the-unknown-22-00-at-s-ss-war-gestern/)*

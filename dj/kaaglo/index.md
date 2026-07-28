@@ -9,7 +9,7 @@ Kaa Glo is a club and techno artist based in Slovakia, tracked on soundcheck, wi
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 7 Aug 2026 | Ankali & Planeta Za | Prague |
-| Sat, 15 Aug 2026 | Ostrov Štvanice | Prague |
+| Sat, 15 Aug 2026 | Fuchs2 | Prague |
 
 ## Recently played
 

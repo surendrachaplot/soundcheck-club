@@ -1,14 +1,15 @@
 # Jovonn
 
-Jovonn is a House and Deep House artist with 2 upcoming club dates listed on soundcheck as of Tue, 28 Jul 2026, next at Punch Bowl Social 360-Bar, Chicago on Thu, 30 Jul 2026.
+Jovonn is a House and Deep House artist with 3 upcoming club dates listed on soundcheck as of Tue, 28 Jul 2026, next at Punch Bowl Social 360-Bar, Chicago on Thu, 30 Jul 2026.
 
-Jovonn is a house and deep house artist tracked on soundcheck, with 46 sets logged across Amsterdam, Berlin, Brussels and Chicago and 10 more. Often billed alongside Garrett David, Omer Mil and Vithz. Next up: Punch Bowl Social 360-Bar, Chicago on Thu 30 Jul.
+Jovonn is a house and deep house artist tracked on soundcheck, with 47 sets logged across Amsterdam, Berlin, Brussels and Chicago and 11 more. Often billed alongside Garrett David, Omer Mil and Vithz. Next up: Punch Bowl Social 360-Bar, Chicago on Thu 30 Jul.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Thu, 30 Jul 2026 | Punch Bowl Social 360-Bar | Chicago |
+| Fri, 14 Aug 2026 | Lux Fragil | Lisbon |
 | Sat, 12 Sept 2026 | Phono Lake | Amsterdam |
 
 ## Recently played

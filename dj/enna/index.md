@@ -1,0 +1,28 @@
+# ENNA
+
+ENNA is a Techno and Pop artist with 1 upcoming club date listed on soundcheck as of Tue, 28 Jul 2026, next at Garagen, Cologne on Fri, 28 Aug 2026.
+
+ENNA is a techno and pop artist based in Sweden, tracked on soundcheck, with 12 sets logged across Cologne and Copenhagen. Often billed alongside DJ 2LATE, ASTA MARI and Anna Logic. Next up: Garagen, Cologne on Fri 28 Aug.
+
+## Upcoming shows
+
+| Date | Venue | City |
+| --- | --- | --- |
+| Fri, 28 Aug 2026 | Garagen | Cologne |
+
+## Recently played
+
+- Odonien, Cologne — Sun, 24 May 2026
+- MODULE, Copenhagen — Sat, 28 Feb 2026
+- Hangaren, Copenhagen — Fri, 22 Aug 2025
+- MODULE, Copenhagen — Sat, 16 Aug 2025
+- MODULE, Copenhagen — Wed, 4 Jun 2025
+- Nachtigall, Cologne — Sat, 22 Feb 2025
+- Culture Box, Copenhagen — Fri, 21 Feb 2025
+- MODULE, Copenhagen — Sat, 11 Jan 2025
+
+## Shares bills with
+
+DJ 2LATE, ASTA MARI, Anna Logic
+
+*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/enna/)*

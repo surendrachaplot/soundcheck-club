@@ -10,7 +10,7 @@ Ritter Butzke is a music venue in Berlin listed on soundcheck. 22 upcoming night
 | --- | --- | --- |
 | Sat, 1 Aug 2026 | Super Flu (Open Air) - free entry until 7pm | Aaron Suiss, MUKKIMIAU, Max Joni, Super Flu |
 | Sat, 1 Aug 2026 | Foster The People presents FTP (DJ Set) - Ritter Butzke - 01.08.2026 | Foster The People, Manu Strasse, Svensøn |
-| Fri, 7 Aug 2026 | Unison with Zapped Records, Nizar Sarakbi, Josefina Tapia | Cyko, Josefina Tapia, Nizar Sarakbi, Paul K, Scoopsi, TRC, TRC (3) |
+| Fri, 7 Aug 2026 | Unison with Zapped Records, Nizar Sarakbi, Josefina Tapia | Cyko, HANAFIA', Josefina Tapia, Nizar Sarakbi, Papa K, Paul K, Scoopsi, TRC, TRC (3) |
 | Sat, 8 Aug 2026 | ZERB |  |
 | Sat, 8 Aug 2026 | Eli & Fur pres Dreams at Dusk (Open Air) | Eli & Fur |
 | Fri, 14 Aug 2026 | Keep My Letters | Hyunji-A, Max Hendricks, Rikken, Simon Vuarambon, Tantum |

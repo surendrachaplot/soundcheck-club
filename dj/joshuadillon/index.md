@@ -1,13 +1,14 @@
 # Joshua Dillon
 
-Joshua Dillon is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Tue, 28 Jul 2026, next at Mdlr, Singapore on Sat, 22 Aug 2026.
+Joshua Dillon is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Tue, 28 Jul 2026, next at Exit Reality, Singapore on Sat, 1 Aug 2026.
 
-Joshua Dillon is a techno and house artist based in Singapore, tracked on soundcheck, with 48 sets logged across Kualalumpur and Singapore. Often billed alongside Vinnie Stew, sho&tell and VAIBS. Next up: Mdlr, Singapore on Sat 22 Aug.
+Joshua Dillon is a techno and house artist based in Singapore, tracked on soundcheck, with 49 sets logged across Kualalumpur and Singapore. Often billed alongside Vinnie Stew, sho&tell and VAIBS. Next up: Exit Reality, Singapore on Sat 1 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 1 Aug 2026 | Exit Reality | Singapore |
 | Sat, 22 Aug 2026 | Mdlr | Singapore |
 | Sat, 3 Oct 2026 | TBA - XOX Arena | Kuala Lumpur |
 

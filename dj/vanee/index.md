@@ -1,0 +1,29 @@
+# Vanee
+
+Vanee is a Tech House and Techno artist with 2 upcoming club dates listed on soundcheck as of Tue, 28 Jul 2026, next at Amnesia Ibiza, Ibiza on Thu, 13 Aug 2026.
+
+Vanee is a tech house and techno artist tracked on soundcheck, with 24 sets logged across Barcelona, Frankfurt, Ibiza and London and 2 more. Often billed alongside Joseph Capriati, Mason Collective and AJ Christou. Next up: Amnesia Ibiza, Ibiza on Thu 13 Aug.
+
+## Upcoming shows
+
+| Date | Venue | City |
+| --- | --- | --- |
+| Thu, 13 Aug 2026 | Amnesia Ibiza | Ibiza |
+| Tue, 15 Sept 2026 | Amnesia Ibiza | Ibiza |
+
+## Recently played
+
+- [UNVRS], Ibiza — Wed, 22 Jul 2026
+- Amnesia Ibiza, Ibiza — Tue, 7 Jul 2026
+- Ku Barcelona, Barcelona — Sun, 21 Jun 2026
+- Parc del Fòrum, Barcelona — Sat, 20 Jun 2026
+- Ku Barcelona, Barcelona — Tue, 16 Jun 2026
+- Hola Club Sitges (Cala Vallcarca), Barcelona — Fri, 1 May 2026
+- KOKO, London — Fri, 3 Apr 2026
+- Fabrik, Madrid — Thu, 1 Jan 2026
+
+## Shares bills with
+
+Joseph Capriati, Mason Collective, AJ Christou
+
+*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/vanee/)*

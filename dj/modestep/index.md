@@ -1,0 +1,28 @@
+# Modestep
+
+Modestep is a Bass and Dubstep artist with 1 upcoming club date listed on soundcheck as of Tue, 28 Jul 2026, next at Dürener Badesee, Cologne on Fri, 28 Aug 2026.
+
+Modestep is a bass and dubstep artist based in United Kingdom, tracked on soundcheck, with 17 sets logged across Bristol, Budapest, Cologne and Denver and 11 more. Often billed alongside Enei, Koven and Mefjus. Next up: Dürener Badesee, Cologne on Fri 28 Aug.
+
+## Upcoming shows
+
+| Date | Venue | City |
+| --- | --- | --- |
+| Fri, 28 Aug 2026 | Dürener Badesee | Cologne |
+
+## Recently played
+
+- LAB theCLUB, Madrid — Fri, 6 Mar 2026
+- Zerotokyo, Tokyo — Fri, 28 Nov 2025
+- Civic Underground, Sydney — Sat, 4 Oct 2025
+- Hacienda Club, Rome — Fri, 16 May 2025
+- Kable Club, Manchester — Fri, 7 Mar 2025
+- The Clock Factory, Bristol — Sat, 16 Nov 2024
+- Camelot, Tokyo — Mon, 4 Nov 2024
+- TBA - Komplex 457, Zurich — Sat, 10 Aug 2024
+
+## Shares bills with
+
+Enei, Koven, Mefjus
+
+*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/modestep/)*

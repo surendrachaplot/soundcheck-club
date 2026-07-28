@@ -1,0 +1,25 @@
+# iNK MT
+
+iNK MT is a Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 28 Jul 2026, next at Liquid Club, Malta on Sun, 16 Aug 2026.
+
+iNK MT is a techno artist based in Malta, tracked on soundcheck, with 6 sets logged across Berlin and Malta. Often billed alongside OBLX, FIASKA and Joshua Calleja. Next up: Liquid Club, Malta on Sun 16 Aug.
+
+## Upcoming shows
+
+| Date | Venue | City |
+| --- | --- | --- |
+| Sun, 16 Aug 2026 | Liquid Club | Malta |
+
+## Recently played
+
+- Liquid Club, Malta — Sat, 20 Jun 2026
+- TBA, Malta — Fri, 5 Jun 2026
+- AVA Club, Berlin — Sat, 21 Feb 2026
+- BMX Warehouse, Malta — Sun, 1 Feb 2026
+- Liquid Club, Malta — Sat, 29 Nov 2025
+
+## Shares bills with
+
+OBLX, FIASKA, Joshua Calleja
+
+*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/inkmt/)*

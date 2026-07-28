@@ -1,8 +1,8 @@
 # Mitsuki
 
-Mitsuki is a music venue in Tokyo with 7 upcoming nights listed on soundcheck as of Tue, 28 Jul 2026; the next is "KEITA/koutaro/D@!K!/JITSUMITSU/YAMARCHY" on Tue, 28 Jul 2026.
+Mitsuki is a music venue in Tokyo with 11 upcoming nights listed on soundcheck as of Tue, 28 Jul 2026; the next is "KEITA/koutaro/D@!K!/JITSUMITSU/YAMARCHY" on Tue, 28 Jul 2026.
 
-Mitsuki is a music venue in Tokyo listed on soundcheck. 7 upcoming nights, with line-ups including Dr. Nishimura, In Ray, Itou and knny and 2 more. Browse upcoming dates, start times and who's playing. 1-22-12, Dogenzaka, Shibuya-Ku, Tokyo, 150-0043, Japan.
+Mitsuki is a music venue in Tokyo listed on soundcheck. 11 upcoming nights, with line-ups including 7e, DJ Garth, Dr. Nishimura and In Ray and 2 more. Browse upcoming dates, start times and who's playing. 1-22-12, Dogenzaka, Shibuya-Ku, Tokyo, 150-0043, Japan.
 
 ## What's on
 
@@ -13,8 +13,11 @@ Mitsuki is a music venue in Tokyo listed on soundcheck. 7 upcoming nights, with 
 | Thu, 30 Jul 2026 | Pretty Tomato Club | Dr. Nishimura, Savanna, knny |
 | Fri, 31 Jul 2026 | Inei Raisan | Itou, Nari (2), P-Man |
 | Sat, 1 Aug 2026 | studio mule | KZA, Shinya Okamoto, Toshiya Kawasaki |
+| Tue, 4 Aug 2026 | ORDER DISORDER | Ryunosuke Urabe, YUKIMASA |
+| Wed, 5 Aug 2026 | Luminous | 7e |
 | Thu, 6 Aug 2026 | InRay/SonnySun/Pico/teppei | In Ray, Sonny Sun, teppei |
-| Fri, 14 Aug 2026 | ALIEN SEX FRIENDS | Michelle, P-YAN, RYOKEI |
+| Fri, 7 Aug 2026 | Dependance | Ryosuke, Sakuma |
+| Sat, 8 Aug 2026 | RRD 30TH ANNIVERSARY | DJ Garth, YAMARCHY |
 
 ## Address
 

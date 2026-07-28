@@ -1,8 +1,8 @@
 # Secretsundaze
 
-Secretsundaze is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Tue, 28 Jul 2026, next at Armazén Solon, Sao Paulo on Sat, 8 Aug 2026.
+Secretsundaze is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Tue, 28 Jul 2026, next at Armazén Solon, Sao Paulo on Sat, 8 Aug 2026.
 
-Secretsundaze is a house and techno artist tracked on soundcheck, with 73 sets logged across Amsterdam, Bangkok, Barcelona and Berlin and 16 more. Often billed alongside Ariane V, Certain People and Manuel Darquart. Next up: Armazén Solon, Saopaulo on Sat 8 Aug.
+Secretsundaze is a house and techno artist tracked on soundcheck, with 74 sets logged across Amsterdam, Bangkok, Barcelona and Berlin and 16 more. Often billed alongside Ariane V, Certain People and Manuel Darquart. Next up: Armazén Solon, Saopaulo on Sat 8 Aug.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Secretsundaze is a house and techno artist tracked on soundcheck, with 73 sets l
 | --- | --- | --- |
 | Sat, 8 Aug 2026 | Armazén Solon | Sao Paulo |
 | Sat, 8 Aug 2026 | TBA | Sao Paulo |
+| Sat, 12 Sept 2026 | Big Penny Social | London |
 
 ## Recently played
 

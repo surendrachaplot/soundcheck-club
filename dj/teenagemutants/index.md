@@ -1,8 +1,8 @@
 # Teenage Mutants
 
-Teenage Mutants is a Techno and Tech House artist with 7 upcoming club dates listed on soundcheck as of Tue, 28 Jul 2026, next at TBA - Straße des 17. Juni & Großer Stern, Berlin on Sat, 15 Aug 2026.
+Teenage Mutants is a Techno and Tech House artist with 8 upcoming club dates listed on soundcheck as of Tue, 28 Jul 2026, next at TBA - Straße des 17. Juni & Großer Stern, Berlin on Sat, 15 Aug 2026.
 
-Teenage Mutants is a techno and tech house artist tracked on soundcheck, with 133 sets logged across Amsterdam, Bali, Bangkok and Barcelona and 30 more. Often billed alongside Techmo, Eric Wishes and Intaktogene. Next up: TBA - Straße des 17. Juni & Großer Stern, Berlin on Sat 15 Aug.
+Teenage Mutants is a techno and tech house artist tracked on soundcheck, with 134 sets logged across Amsterdam, Bali, Bangkok and Barcelona and 30 more. Often billed alongside Techmo, Eric Wishes and Intaktogene. Next up: TBA - Straße des 17. Juni & Großer Stern, Berlin on Sat 15 Aug.
 
 ## Upcoming shows
 
@@ -13,6 +13,7 @@ Teenage Mutants is a techno and tech house artist tracked on soundcheck, with 13
 | Sat, 22 Aug 2026 | Hangaren | Copenhagen |
 | Fri, 28 Aug 2026 | Budapest Park | Budapest |
 | Sat, 12 Sept 2026 | E1 | London |
+| Fri, 9 Oct 2026 | Fridas Pier | Stuttgart |
 | Fri, 16 Oct 2026 | Flux | Istanbul |
 | Wed, 21 Oct 2026 | Veronica Schip | Amsterdam |
 

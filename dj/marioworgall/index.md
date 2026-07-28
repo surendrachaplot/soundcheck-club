@@ -1,0 +1,28 @@
+# Mario Worgall
+
+Mario Worgall is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Tue, 28 Jul 2026, next at Süss War Gestern, Berlin on Sat, 1 Aug 2026.
+
+Mario Worgall is a techno and house artist based in Germany, tracked on soundcheck, with 24 sets logged across Berlin. Often billed alongside Nikklaas, Upzet and AYLIN IDAH. Next up: Süss War Gestern, Berlin on Sat 1 Aug.
+
+## Upcoming shows
+
+| Date | Venue | City |
+| --- | --- | --- |
+| Sat, 1 Aug 2026 | Süss War Gestern | Berlin |
+
+## Recently played
+
+- Süss War Gestern, Berlin — Tue, 7 Jul 2026
+- Tresor / Globus, Berlin — Mon, 6 Jul 2026
+- Süss War Gestern, Berlin — Tue, 10 Mar 2026
+- Süss War Gestern, Berlin — Tue, 23 Dec 2025
+- Mom's Limousine Service, Berlin — Sat, 16 Aug 2025
+- Tresor / Globus, Berlin — Mon, 21 Jul 2025
+- Süss War Gestern, Berlin — Tue, 8 Jul 2025
+- Süss War Gestern, Berlin — Tue, 1 Apr 2025
+
+## Shares bills with
+
+Nikklaas, Upzet, AYLIN IDAH
+
+*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/marioworgall/)*

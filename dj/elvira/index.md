@@ -1,8 +1,8 @@
 # Elvira
 
-Elvira is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Tue, 28 Jul 2026, next at MONKEY LOVE, Warsaw on Fri, 31 Jul 2026.
+Elvira is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Tue, 28 Jul 2026, next at MONKEY LOVE, Warsaw on Fri, 31 Jul 2026.
 
-Elvira is a house and techno artist based in Poland, tracked on soundcheck, with 38 sets logged across Berlin, Brussels, Frankfurt and Ghent and 6 more. Often billed alongside Samogulov, zenwerk and Bohan. Next up: MONKEY LOVE, Warsaw on Fri 31 Jul.
+Elvira is a house and techno artist based in Poland, tracked on soundcheck, with 39 sets logged across Berlin, Brussels, Frankfurt and Ghent and 6 more. Often billed alongside Samogulov, zenwerk and Bohan. Next up: MONKEY LOVE, Warsaw on Fri 31 Jul.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Elvira is a house and techno artist based in Poland, tracked on soundcheck, with
 | --- | --- | --- |
 | Fri, 31 Jul 2026 | MONKEY LOVE | Warsaw |
 | Thu, 13 Aug 2026 | Kulturcampus Frankfurt | Frankfurt |
+| Sat, 29 Aug 2026 | Jasna 1 | Warsaw |
 
 ## Recently played
 

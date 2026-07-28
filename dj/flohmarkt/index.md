@@ -1,0 +1,28 @@
+# Flohmarkt
+
+Flohmarkt is a Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 28 Jul 2026, next at Void Hall, Berlin on Fri, 31 Jul 2026.
+
+Flohmarkt is a techno artist based in Germany, tracked on soundcheck, with 12 sets logged across Berlin, Hamburg, Leipzig and Vienna. Often billed alongside MEKER, DJ Parabolspiegel and MILANCHOLIE. Next up: Void Hall, Berlin on Fri 31 Jul.
+
+## Upcoming shows
+
+| Date | Venue | City |
+| --- | --- | --- |
+| Fri, 31 Jul 2026 | Void Hall | Berlin |
+
+## Recently played
+
+- Skatehalle Berlin, Berlin — Sat, 30 May 2026
+- Skatehalle Berlin, Berlin — Fri, 15 May 2026
+- Void Club, Berlin — Sat, 11 Apr 2026
+- Void Club, Berlin — Sat, 21 Feb 2026
+- Void Club, Berlin — Fri, 16 Jan 2026
+- Void Club, Berlin — Sat, 6 Dec 2025
+- Void Club, Berlin — Sat, 27 Sept 2025
+- elipamanoke, Leipzig — Sat, 14 Jun 2025
+
+## Shares bills with
+
+MEKER, DJ Parabolspiegel, MILANCHOLIE
+
+*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/flohmarkt/)*

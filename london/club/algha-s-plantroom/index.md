@@ -8,7 +8,7 @@ Algha's Plantroom is a music venue in London listed on soundcheck. 6 upcoming ni
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Wed, 29 Jul 2026 | Arca: XXXXX Listening Party with 2CPERREA |  |
+| Wed, 29 Jul 2026 | Arca: XXXXX Listening Party with 2CPERREA | JONE OF ARX, LOVECAT, MaXXXim |
 | Sun, 9 Aug 2026 | RITUALS | 1000raks, Authentically Plastic, Broodoo Ramses, GUREY, LO-LOW, Mellowdramatics, Nsasi, ODERA, Vanille, dr. Mazza, secret luvvr |
 | Sun, 16 Aug 2026 | Rat Party | C.FRIM, Daskaran, Iyesha, Kontronatura, NSFW (3), Nina Pixina, RRUDEGIRLLL, RayRay, Roxanne (2), dr. Mazza, softchaos |
 | Sat, 29 Aug 2026 | B Sides Yourself | Ella Fayden, Matt Pond, Maxibon (2) |

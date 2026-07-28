@@ -1,0 +1,28 @@
+# Pre Silent
+
+Pre Silent is a Techno and Industrial artist with 1 upcoming club date listed on soundcheck as of Tue, 28 Jul 2026, next at Gaffe, London on Sat, 15 Aug 2026.
+
+Pre Silent is a techno and industrial artist tracked on soundcheck, with 31 sets logged across Berlin, London and Milan. Often billed alongside Antonio De Angelis, Gabriele Capponi and Laure Croft. Next up: Gaffe, London on Sat 15 Aug.
+
+## Upcoming shows
+
+| Date | Venue | City |
+| --- | --- | --- |
+| Sat, 15 Aug 2026 | Gaffe | London |
+
+## Recently played
+
+- Masada, Milan — Sun, 31 May 2026
+- E1, London — Fri, 12 Dec 2025
+- E1, London — Sat, 18 Oct 2025
+- Onyx (E1), London — Fri, 19 Sept 2025
+- E1, London — Sat, 19 Jul 2025
+- Giri, Berlin — Wed, 14 May 2025
+- Tempio del Futuro Perduto, Milan — Fri, 25 Apr 2025
+- Tempio del Futuro Perduto, Milan — Fri, 11 Apr 2025
+
+## Shares bills with
+
+Antonio De Angelis, Gabriele Capponi, Laure Croft
+
+*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/presilent/)*

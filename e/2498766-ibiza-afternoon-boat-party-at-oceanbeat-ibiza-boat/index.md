@@ -1,0 +1,11 @@
+# IBIZA AFTERNOON BOAT PARTY at Oceanbeat Ibiza Boat
+
+IBIZA AFTERNOON BOAT PARTY at Oceanbeat Ibiza Boat on Fri 28 Aug, Ibiza. Preview the line-up and save it on soundcheck.
+
+| Field | Value |
+| --- | --- |
+| Date | Fri, 28 Aug 2026 |
+| Venue | Oceanbeat Ibiza Boat |
+| City | Ibiza |
+
+*Source: [soundcheck](https://soundcheck.club/e/2498766-ibiza-afternoon-boat-party-at-oceanbeat-ibiza-boat/)*

@@ -1,0 +1,19 @@
+# Black to the Future at Queen Elizabeth Olympic Park
+
+Black to the Future at Queen Elizabeth Olympic Park on Sat 12 Sept, London. 5 acts on the bill: Cass Brewster, Elheist, fAt-lÏP and LISAKEEKS and 1 more. Hip-Hop and Electronica. Preview the line-up and save it on soundcheck.
+
+| Field | Value |
+| --- | --- |
+| Date | Sat, 12 Sept 2026 |
+| Venue | Queen Elizabeth Olympic Park |
+| City | London |
+
+## Line-up
+
+- Cass Brewster
+- Elheist
+- fAt-lÏP
+- LISAKEEKS
+- Masterpeace
+
+*Source: [soundcheck](https://soundcheck.club/e/2488782-black-to-the-future-at-queen-elizabeth-olympic-park/)*

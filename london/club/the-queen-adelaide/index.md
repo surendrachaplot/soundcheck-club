@@ -9,7 +9,7 @@ The Queen Adelaide is a music venue in London listed on soundcheck. 2 upcoming n
 | Date | Night | Line-up |
 | --- | --- | --- |
 | Fri, 14 Aug 2026 | The Blocks x Warme Brüder: Round 2 | Ivy F, fTronic, the butcher bird |
-| Fri, 21 Aug 2026 | NOUGHTIES - A queer multi-genre event (House, Garage, Trance/Euro-Dance, DnB, UK Hardcore) | Glitch (LDN), POLLY (UK), SwearyPrincess |
+| Fri, 21 Aug 2026 | NOUGHTIES - A queer multi-genre event (House, Garage, Trance/Euro-Dance, DnB, UK Hardcore) | Glitch (LDN), POLLY (UK), Px (UK), SwearyPrincess |
 
 ## Address
 

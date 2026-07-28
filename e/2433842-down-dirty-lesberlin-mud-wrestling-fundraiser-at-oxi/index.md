@@ -1,6 +1,6 @@
 # Down & Dirty - LESBERLIN Mud Wrestling Fundraiser at OXI
 
-Down & Dirty - LESBERLIN Mud Wrestling Fundraiser at OXI on Fri 31 Jul, Berlin. 1 act on the bill: Trigger T. Club. Preview the line-up and save it on soundcheck.
+Down & Dirty - LESBERLIN Mud Wrestling Fundraiser at OXI on Fri 31 Jul, Berlin. 2 acts on the bill: Haus of Ralph and Trigger T. Club. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,6 +10,7 @@ Down & Dirty - LESBERLIN Mud Wrestling Fundraiser at OXI on Fri 31 Jul, Berlin. 
 
 ## Line-up
 
+- Haus of Ralph
 - Trigger T
 
 *Source: [soundcheck](https://soundcheck.club/e/2433842-down-dirty-lesberlin-mud-wrestling-fundraiser-at-oxi/)*

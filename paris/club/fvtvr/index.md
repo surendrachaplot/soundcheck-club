@@ -14,7 +14,7 @@ Fvtvr is a music venue in Paris listed on soundcheck. 11 upcoming nights, with l
 | Sat, 8 Aug 2026 | Mødular x Fvtvr: Amotik, Deano, Jed, Olivia Mendez | Amotik, Deano, JED (ZA), Olivia Mendez |
 | Fri, 14 Aug 2026 | Fvtvr INVITES: Arthur Robert live, Nesa Azadikhah, Red Rooms | Arthur Robert, Nesa Azadikhah, Red Rooms |
 | Sat, 15 Aug 2026 | Fvtvr x ALTO: Gabriel Belabbas, LAMALICE, Massaï | Gabriel Belabbas, LAMALICE, Massaï |
-| Sat, 22 Aug 2026 | BCCO | DJ Hyperdrive, Sicion, Two Dots (FR), Yasmin Regisford |
+| Sat, 22 Aug 2026 | BCCO BERLIN: TWO DOTS, Yasmin Regisford, DJ HYPERDRIVE | DJ Hyperdrive, Iman Janes, Sicion, Two Dots (FR), Yasmin Regisford |
 | Fri, 28 Aug 2026 | Fvtvr INVITES: Chris Liebing, Sept, TSIEG | Chris Liebing, Sept |
 | Sat, 12 Sept 2026 | Yoyaku x SlapFunk Paris 24 hour Marathon | A.M. Project, DJ Senc, Doudou MD, Dr. Rubinstein, Dyed Soundorom, Ellen Allien, Garrett David, Krol, Laidlaw, Lea Occhi, Margaret Dygas, Mari.te, Samuel Deep, Sonja Moonear, Woddd, Zeina |
 | Sat, 26 Sept 2026 | LUST - CHAPTER XVIII | Litoshka, Pulso (2), Temudo |

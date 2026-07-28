@@ -1,6 +1,6 @@
 # HTRK at Silent Green
 
-HTRK at Silent Green on Sun 2 Aug, Berlin. 1 act on the bill: HTRK. Preview the line-up and save it on soundcheck.
+HTRK at Silent Green on Sun 2 Aug, Berlin. 2 acts on the bill: HTRK and Loraine James. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -11,5 +11,6 @@ HTRK at Silent Green on Sun 2 Aug, Berlin. 1 act on the bill: HTRK. Preview the 
 ## Line-up
 
 - HTRK
+- Loraine James
 
 *Source: [soundcheck](https://soundcheck.club/e/2478204-htrk-at-silent-green/)*

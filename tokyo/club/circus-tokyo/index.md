@@ -1,13 +1,14 @@
 # Circus Tokyo
 
-Circus Tokyo is a music venue in Tokyo with 8 upcoming nights listed on soundcheck as of Tue, 28 Jul 2026; the next is "Universal Music Box 3rd Anniversary" on Fri, 31 Jul 2026.
+Circus Tokyo is a music venue in Tokyo with 9 upcoming nights listed on soundcheck as of Tue, 28 Jul 2026; the next is "CLUB NOTHING" on Thu, 30 Jul 2026.
 
-Circus Tokyo is a music venue in Tokyo listed on soundcheck. 8 upcoming nights, with line-ups including Acidclank, ACKERMAN, ACKERMAN (2) and AKARI and 2 more. Browse upcoming dates, start times and who's playing. 3-26-16 Shibuya, Shibuya-ku, Tokyo, Japan, 150-0002.
+Circus Tokyo is a music venue in Tokyo listed on soundcheck. 9 upcoming nights, with line-ups including Acidclank, ACKERMAN, ACKERMAN (2) and AKARI and 2 more. Browse upcoming dates, start times and who's playing. 3-26-16 Shibuya, Shibuya-ku, Tokyo, Japan, 150-0002.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
+| Thu, 30 Jul 2026 | CLUB NOTHING | MoEPiKA, YUVIE, tamanaramen |
 | Fri, 31 Jul 2026 | Universal Music Box 3rd Anniversary | E.O.U, HAYATE, Merco Ben, Nikki Nair |
 | Sat, 1 Aug 2026 | HEAVEN'S GATE Vol.8 (Techno/Breaks/Electro) | ACKERMAN, ACKERMAN (2), Acidclank, In-Character, MOOTOE, NO WAY, SLEEPY HEVD |
 | Thu, 6 Aug 2026 | CULTURE SHIT RECORDS VOL.3 | AKARI, Lui (6), SAMO (JP), Sugar and Spice, TAKENOKO, YUVIE, Yukio Nohara, ecec, nasthug |

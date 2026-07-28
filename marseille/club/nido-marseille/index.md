@@ -1,8 +1,8 @@
 # Nido Marseille
 
-Nido Marseille is a music venue in Marseille with 13 upcoming nights listed on soundcheck as of Tue, 28 Jul 2026; the next is "Nido local session - Mesrod & Sink" on Fri, 31 Jul 2026.
+Nido Marseille is a music venue in Marseille with 14 upcoming nights listed on soundcheck as of Tue, 28 Jul 2026; the next is "Nido local session - Mesrod & Sink" on Fri, 31 Jul 2026.
 
-Nido Marseille is a music venue in Marseille listed on soundcheck. 13 upcoming nights, with line-ups including David Holmes, Edward, Markus Sommer and Onur Özer and 1 more. Browse upcoming dates, start times and who's playing. 20 boulevard fifi turin.
+Nido Marseille is a music venue in Marseille listed on soundcheck. 14 upcoming nights, with line-ups including David Holmes, Edward, Markus Sommer and Onur Özer and 1 more. Browse upcoming dates, start times and who's playing. 20 boulevard fifi turin.
 
 ## What's on
 
@@ -13,11 +13,11 @@ Nido Marseille is a music venue in Marseille listed on soundcheck. 13 upcoming n
 | Thu, 6 Aug 2026 | Nido club session - curated by les Ratz - Onur Ozër & Master Chiffon | Onur Özer |
 | Fri, 7 Aug 2026 | Nido local session - Barda takeover with Easy tiger & Vouiz |  |
 | Sat, 8 Aug 2026 | Nido club session - curated by Sea Of Sentiments with David Holmes | David Holmes |
+| Sat, 8 Aug 2026 | Sea Of Sentiments present Aquanest with David Holmes | David Holmes |
 | Thu, 13 Aug 2026 | Nido all night long - Kifran |  |
 | Fri, 14 Aug 2026 | Nido local session - C'est Gaël & Orel From Brazil |  |
 | Sat, 15 Aug 2026 | Nido club session - Naej & Odeon |  |
 | Sun, 16 Aug 2026 | Nido after hours - Subterra & Enfant Sauvage |  |
-| Thu, 20 Aug 2026 | Nido - Tintouin takeover  with Arthur Lastmann & Rashin |  |
 
 ## Address
 

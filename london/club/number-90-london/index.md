@@ -8,7 +8,7 @@ NUMBER 90 LONDON is a music venue in London listed on soundcheck. 8 upcoming nig
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Thu, 30 Jul 2026 | The Mixmag Lab London with La La, Papa Nugs & Aika Mal | Aika Mal, La La, Papa Nugs |
+| Thu, 30 Jul 2026 | The Mixmag Lab London with La La, Papa Nugs & Aika Mal | Aika Mal, La La, MADVILLA, Papa Nugs |
 | Sun, 9 Aug 2026 | Elata Collective 013: 26hours Summer Edition [AFTERHOURS] | 1BYAKKO, Aniaef, Deranged, GIZZI, H Grade, Hitam, James Harbrecht, Justine Perry, KETCH, TAARIS, Uväll, WINDFUHR, Ylia (UK), markellos |
 | Fri, 21 Aug 2026 | Kooky Ken: Label Launch Party | A.Wild, Benny Bysouth, Cam Harrop, Kennedy (UK), Redshift (2) |
 | Sat, 29 Aug 2026 | Half Baked x ReSolute w/ Raresh, Sibil & Luther Vine | Luther Vine, Praslea, Raresh, Sibil (1) |

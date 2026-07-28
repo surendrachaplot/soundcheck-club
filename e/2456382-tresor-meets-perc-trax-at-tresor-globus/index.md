@@ -1,6 +1,6 @@
 # Tresor meets Perc Trax at Tresor / Globus
 
-Tresor meets Perc Trax at Tresor / Globus on Fri 31 Jul, Berlin. 7 acts on the bill: Cheriii, DJ Sotofett, Erik Jabari and Lacchesi and 3 more. Preview the line-up and save it on soundcheck.
+Tresor meets Perc Trax at Tresor / Globus on Fri 31 Jul, Berlin. 8 acts on the bill: Cheriii, DJ Sotofett, Erik Jabari and Lacchesi and 4 more. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -15,6 +15,7 @@ Tresor meets Perc Trax at Tresor / Globus on Fri 31 Jul, Berlin. 7 acts on the b
 - Erik Jabari
 - Lacchesi
 - OlIV
+- OLIV
 - Perc
 - Specific Objects
 
