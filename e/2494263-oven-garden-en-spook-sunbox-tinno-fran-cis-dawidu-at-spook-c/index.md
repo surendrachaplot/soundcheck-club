@@ -1,6 +1,6 @@
 # Oven Garden en Spook Sunbox: Tinno - Fran.Cis - Dawidu at Spook Club
 
-Oven Garden en Spook Sunbox: Tinno - Fran.Cis - Dawidu at Spook Club on Sat 8 Aug, Valencia. 1 act on the bill: Dawidu. House and Deep House. Preview the line-up and save it on soundcheck.
+Oven Garden en Spook Sunbox: Tinno - Fran.Cis - Dawidu at Spook Club on Sat 8 Aug, Valencia. 2 acts on the bill: Dawidu and Fran.cis. House and Deep House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -11,5 +11,6 @@ Oven Garden en Spook Sunbox: Tinno - Fran.Cis - Dawidu at Spook Club on Sat 8 Au
 ## Line-up
 
 - Dawidu
+- Fran.cis
 
 *Source: [soundcheck](https://soundcheck.club/e/2494263-oven-garden-en-spook-sunbox-tinno-fran-cis-dawidu-at-spook-c/)*

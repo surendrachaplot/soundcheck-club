@@ -1,6 +1,6 @@
 # Dijital Drama 8th at Christians Brygge 31
 
-Dijital Drama 8th at Christians Brygge 31 on Sat 1 Aug, Copenhagen. 2 acts on the bill: Lucy Headburn and maurinstarr. Psytrance. Preview the line-up and save it on soundcheck.
+Dijital Drama 8th at Christians Brygge 31 on Sat 1 Aug, Copenhagen. 3 acts on the bill: Hasna, Lucy Headburn and maurinstarr. Psytrance. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,6 +10,7 @@ Dijital Drama 8th at Christians Brygge 31 on Sat 1 Aug, Copenhagen. 2 acts on th
 
 ## Line-up
 
+- Hasna
 - Lucy Headburn
 - maurinstarr
 

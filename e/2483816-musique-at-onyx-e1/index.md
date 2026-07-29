@@ -1,6 +1,6 @@
 # MUSIQUE at Onyx (E1)
 
-MUSIQUE at Onyx (E1) on Fri 31 Jul, London. 3 acts on the bill: LOKI (2), Ronnie Loko and Tribal Brothers. Afro House and Afro Tech. Preview the line-up and save it on soundcheck.
+MUSIQUE at Onyx (E1) on Fri 31 Jul, London. 4 acts on the bill: DJ Damo, LOKI (2), Ronnie Loko and Tribal Brothers. Afro House and Afro Tech. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,6 +10,7 @@ MUSIQUE at Onyx (E1) on Fri 31 Jul, London. 3 acts on the bill: LOKI (2), Ronnie
 
 ## Line-up
 
+- DJ Damo
 - LOKI (2)
 - Ronnie Loko
 - Tribal Brothers

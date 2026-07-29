@@ -1,6 +1,6 @@
 # NOS: Moonrise x Tides Vol. I Release Party at NWHR
 
-NOS: Moonrise x Tides Vol. I Release Party at NWHR on Fri 31 Jul, Montreal. 2 acts on the bill: Blake Walker MTL and Tyler Mesa. Preview the line-up and save it on soundcheck.
+NOS: Moonrise x Tides Vol. I Release Party at NWHR on Fri 31 Jul, Montreal. 3 acts on the bill: Blake Walker MTL, Joseph Nakouzi and Tyler Mesa. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -11,6 +11,7 @@ NOS: Moonrise x Tides Vol. I Release Party at NWHR on Fri 31 Jul, Montreal. 2 ac
 ## Line-up
 
 - Blake Walker MTL
+- Joseph Nakouzi
 - Tyler Mesa
 
 *Source: [soundcheck](https://soundcheck.club/e/2490110-nos-moonrise-x-tides-vol-i-release-party-at-nwhr/)*

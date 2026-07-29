@@ -9,7 +9,7 @@ Carriageworks is a music venue in Sydney listed on soundcheck. 2 upcoming nights
 | Date | Night | Line-up |
 | --- | --- | --- |
 | Sat, 3 Oct 2026 | move my way festival / eora / Carriageworks | Coco Maria, Ezra Collective, Jamz Supernova, Kokoroko, Luke Una, Mazzacles, Qendresa, Sampa The Great, Takuya Nakamura, Tash LC |
-| Sat, 10 Oct 2026 | Effy & Mall Grab present: Fragrance | ATARANGI, Attu, Claire O'Brien, DAYZZI, David Jackson, Effy, Mabel, Mall Grab, Oots, Prizefight, TRUSTEE |
+| Sat, 10 Oct 2026 | Effy & Mall Grab present: Fragrance | ATARANGI, Attu, Claire O'Brien, DAYZZI, David Jackson, Effy, Mabel, Mall Grab, Oots, Prizefight, TRUSTEE, homebody |
 
 ## Address
 

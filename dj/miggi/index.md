@@ -2,7 +2,7 @@
 
 Miggi is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at 93 Feet East, London on Sat, 22 Aug 2026.
 
-Miggi is a house and tech house artist based in Switzerland, tracked on soundcheck, with 4 sets logged across London. Often billed alongside Cristian Sirica and Rhiavas. Next up: 93 Feet East, London on Sat 22 Aug.
+Miggi is a house and tech house artist based in Switzerland, tracked on soundcheck, with 4 sets logged across London. Often billed alongside Cristian Sirica, F*ckabouts and Rhiavas. Next up: 93 Feet East, London on Sat 22 Aug.
 
 ## Upcoming shows
 
@@ -18,6 +18,6 @@ Miggi is a house and tech house artist based in Switzerland, tracked on soundche
 
 ## Shares bills with
 
-Cristian Sirica, Rhiavas
+Cristian Sirica, F*ckabouts, Rhiavas
 
 *Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/miggi/)*

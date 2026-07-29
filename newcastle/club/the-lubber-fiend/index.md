@@ -8,7 +8,7 @@ The Lubber Fiend is a music venue in Newcastle listed on soundcheck. 5 upcoming 
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Fri, 28 Aug 2026 | Holocene 2: Convextion with Madeera and Jeans and Lifestyle | Convextion |
+| Fri, 28 Aug 2026 | Holocene 2: Convextion with Madeera and Jeans and Lifestyle | Convextion, madeera |
 | Sat, 29 Aug 2026 | K!NK 3.0 club night |  |
 | Thu, 17 Sept 2026 | New Ruins: Lubber Fiend Festival | Alyssa, Cowper, Devon Rexi, Elena Colombi, Maria W Horn, Philipp Otterbach, Rashad Becker, Rezzett, Vanity Productions, Voice Actor, i-sha |
 | Tue, 29 Sept 2026 | Sweets |  |

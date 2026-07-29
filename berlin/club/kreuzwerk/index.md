@@ -14,7 +14,7 @@ KREUZWERK is a music venue in Berlin listed on soundcheck. 10 upcoming nights, w
 | Fri, 21 Aug 2026 | Body Language |  |
 | Sun, 30 Aug 2026 | 2 Years In Balance I Open Air & Indoor |  |
 | Sat, 5 Sept 2026 | MÁS X PRIMAL INSTINCT | Amphia, Chlär, Connor Wall, Debbie, JKS, KONZ, MarcelDune, THC, TONI BA, VINVAR |
-| Fri, 18 Sept 2026 | ABOV FLINTA  |  |
+| Fri, 18 Sept 2026 | ABOV - FLINTA* |  |
 | Sat, 19 Sept 2026 | tracey |  |
 | Fri, 25 Sept 2026 | OVERLOAD #4 |  |
 | Fri, 9 Oct 2026 | Carmen Electro & BUTZ invite Laia, LYZA  | BUTZ, Carmen Electro, LYZA, Laia |

@@ -1,6 +1,6 @@
 # Emotion Wave: Roy + Lo Five // B.A.G.S // Jez Thelwell at Commune
 
-Emotion Wave: Roy + Lo Five // B.A.G.S // Jez Thelwell at Commune on Thu 10 Sept, Liverpool. 1 act on the bill: Jez Thelwell. Experimental and Electronica. Preview the line-up and save it on soundcheck.
+Emotion Wave: Roy + Lo Five // B.A.G.S // Jez Thelwell at Commune on Thu 10 Sept, Liverpool. 2 acts on the bill: Jez Thelwell and Lo Five. Experimental and Electronica. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -11,5 +11,6 @@ Emotion Wave: Roy + Lo Five // B.A.G.S // Jez Thelwell at Commune on Thu 10 Sept
 ## Line-up
 
 - Jez Thelwell
+- Lo Five
 
 *Source: [soundcheck](https://soundcheck.club/e/2498955-emotion-wave-roy-lo-five-b-a-g-s-jez-thelwell-at-commune/)*

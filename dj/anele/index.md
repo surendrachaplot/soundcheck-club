@@ -1,14 +1,15 @@
 # Anele
 
-Anele is a House and Amapiano artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at Refuge Worldwide / Niemetzstraße, Berlin on Thu, 30 Jul 2026.
+Anele is a House and Amapiano artist with 2 upcoming club dates listed on soundcheck as of Wed, 29 Jul 2026, next at Refuge Worldwide / Niemetzstraße, Berlin on Thu, 30 Jul 2026.
 
-Anele is a house and amapiano artist based in South Africa, tracked on soundcheck, with 24 sets logged across Berlin. Often billed alongside Katerinha, Njeri and Khadija (DE). Next up: Refuge Worldwide / Niemetzstraße, Berlin on Thu 30 Jul.
+Anele is a house and amapiano artist based in South Africa, tracked on soundcheck, with 25 sets logged across Berlin. Often billed alongside Katerinha, Njeri and Khadija (DE). Next up: Refuge Worldwide / Niemetzstraße, Berlin on Thu 30 Jul.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Thu, 30 Jul 2026 | Refuge Worldwide / Niemetzstraße | Berlin |
+| Thu, 20 Aug 2026 | OHM | Berlin |
 
 ## Recently played
 

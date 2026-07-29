@@ -1,6 +1,6 @@
 # Longevity Rave x Zooz - SOBER DAY RAVE at Colours Hoxton
 
-Longevity Rave x Zooz - SOBER DAY RAVE at Colours Hoxton on Sat 22 Aug, London. 2 acts on the bill: Tina Technotic and Yukari. Techno and House. Preview the line-up and save it on soundcheck.
+Longevity Rave x Zooz - SOBER DAY RAVE at Colours Hoxton on Sat 22 Aug, London. 3 acts on the bill: Kazuki Takahashi, Tina Technotic and Yukari. Techno and House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,6 +10,7 @@ Longevity Rave x Zooz - SOBER DAY RAVE at Colours Hoxton on Sat 22 Aug, London. 
 
 ## Line-up
 
+- Kazuki Takahashi
 - Tina Technotic
 - Yukari
 

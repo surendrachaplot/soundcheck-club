@@ -1,8 +1,8 @@
 # Lobster (NL)
 
-Lobster (NL) is a Techno and House artist with 7 upcoming club dates listed on soundcheck as of Wed, 29 Jul 2026, next at BRET, Amsterdam on Sun, 2 Aug 2026.
+Lobster (NL) is a Techno and House artist with 8 upcoming club dates listed on soundcheck as of Wed, 29 Jul 2026, next at BRET, Amsterdam on Sun, 2 Aug 2026.
 
-Lobster (NL) is a techno and house artist tracked on soundcheck, with 143 sets logged across Amsterdam, Athens, Barcelona and Berlin and 31 more. Often billed alongside Grace Dahl, Phil Berg and Beste Hira. Next up: BRET, Amsterdam on Sun 2 Aug.
+Lobster (NL) is a techno and house artist tracked on soundcheck, with 144 sets logged across Amsterdam, Athens, Barcelona and Berlin and 31 more. Often billed alongside Grace Dahl, Phil Berg and Beste Hira. Next up: BRET, Amsterdam on Sun 2 Aug.
 
 ## Upcoming shows
 
@@ -11,6 +11,7 @@ Lobster (NL) is a techno and house artist tracked on soundcheck, with 143 sets l
 | Sun, 2 Aug 2026 | BRET | Amsterdam |
 | Fri, 7 Aug 2026 | Else | Berlin |
 | Fri, 28 Aug 2026 | Grelle Forelle | Vienna |
+| Sat, 5 Sept 2026 | RADION | Amsterdam |
 | Sat, 12 Sept 2026 | RSO.BERLIN | Berlin |
 | Sat, 26 Sept 2026 | Forge | Bucharest |
 | Sat, 10 Oct 2026 | PIP Den Haag | The Hague |

@@ -1,14 +1,16 @@
 # FU (JP)
 
-FU (JP) is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at HVEN, Tokyo on Fri, 31 Jul 2026.
+FU (JP) is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Wed, 29 Jul 2026, next at HVEN, Tokyo on Fri, 31 Jul 2026.
 
-FU (JP) is a house and techno artist based in Japan, tracked on soundcheck, with 62 sets logged across Bangkok, Hamburg, Istanbul and Melbourne and 3 more. Often billed alongside Joe O, CHIDA and Hanzo Tono. Next up: HVEN, Tokyo on Fri 31 Jul.
+FU (JP) is a house and techno artist based in Japan, tracked on soundcheck, with 64 sets logged across Bangkok, Hamburg, Istanbul and Melbourne and 3 more. Often billed alongside Joe O, CHIDA and Hanzo Tono. Next up: HVEN, Tokyo on Fri 31 Jul.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 31 Jul 2026 | HVEN | Tokyo |
+| Fri, 7 Aug 2026 | Enter Shibuya | Tokyo |
+| Fri, 14 Aug 2026 | COUNTER CLUB | Tokyo |
 
 ## Recently played
 

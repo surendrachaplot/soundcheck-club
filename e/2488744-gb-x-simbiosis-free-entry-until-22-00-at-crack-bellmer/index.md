@@ -1,6 +1,6 @@
 # ỌGBỌ x Simbiosis ✺ FREE ENTRY until 22:00 ✺ at Crack Bellmer
 
-ỌGBỌ x Simbiosis ✺ FREE ENTRY until 22:00 ✺ at Crack Bellmer on Thu 13 Aug, Berlin. 3 acts on the bill: Juan Diego Drouet, Neksi and QOPA'K. Techno and House. Preview the line-up and save it on soundcheck.
+ỌGBỌ x Simbiosis ✺ FREE ENTRY until 22:00 ✺ at Crack Bellmer on Thu 13 Aug, Berlin. 4 acts on the bill: Juan Diego Drouet, Neksi, QOPA'K and Sozart. Techno and House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -13,5 +13,6 @@
 - Juan Diego Drouet
 - Neksi
 - QOPA'K
+- Sozart
 
 *Source: [soundcheck](https://soundcheck.club/e/2488744-gb-x-simbiosis-free-entry-until-22-00-at-crack-bellmer/)*

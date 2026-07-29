@@ -1,14 +1,14 @@
 # Ross Harper
 
-Ross Harper is a Techno and Deep House artist with 3 upcoming club dates listed on soundcheck as of Wed, 29 Jul 2026, next at TBA - Various Venues, Brighton on Sat, 1 Aug 2026.
+Ross Harper is a Techno and Deep House artist with 3 upcoming club dates listed on soundcheck as of Wed, 29 Jul 2026, next at Tide Nightclub, Brighton on Sat, 1 Aug 2026.
 
-Ross Harper is a techno and deep house artist tracked on soundcheck, with 45 sets logged across Amsterdam, Brighton, Bristol and London and 1 more. Often billed alongside Nathan Godolphin, Døra and Gosia. Next up: TBA - Various Venues, Brighton on Sat 1 Aug.
+Ross Harper is a techno and deep house artist tracked on soundcheck, with 45 sets logged across Amsterdam, Brighton, Bristol and London and 1 more. Often billed alongside Nathan Godolphin, Døra and Gosia. Next up: Tide Nightclub, Brighton on Sat 1 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 1 Aug 2026 | TBA - Various Venues | Brighton |
+| Sat, 1 Aug 2026 | Tide Nightclub | Brighton |
 | Sat, 1 Aug 2026 | Hare & Hounds | Brighton |
 | Sat, 1 Aug 2026 | Tide Nightclub | Brighton |
 

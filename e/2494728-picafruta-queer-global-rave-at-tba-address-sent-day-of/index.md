@@ -1,6 +1,6 @@
 # PICAFRUTA Queer Global Rave at TBA - Address sent day of
 
-PICAFRUTA Queer Global Rave at TBA - Address sent day of on Sat 1 Aug, Losangeles. 1 act on the bill: Zuri Adia. Latin Bass and Guaracha. Preview the line-up and save it on soundcheck.
+PICAFRUTA Queer Global Rave at TBA - Address sent day of on Sat 1 Aug, Losangeles. 2 acts on the bill: Xochii and Zuri Adia. Latin Bass and Guaracha. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,6 +10,7 @@ PICAFRUTA Queer Global Rave at TBA - Address sent day of on Sat 1 Aug, Losangele
 
 ## Line-up
 
+- Xochii
 - Zuri Adia
 
 *Source: [soundcheck](https://soundcheck.club/e/2494728-picafruta-queer-global-rave-at-tba-address-sent-day-of/)*

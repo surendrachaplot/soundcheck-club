@@ -15,9 +15,9 @@ Oven Club is a music venue in Valencia listed on soundcheck. 20 upcoming nights,
 | Wed, 5 Aug 2026 | Volte b2b Giorgio Bonetti |  |
 | Thu, 6 Aug 2026 | Alpa + XaviChan + Cone | Cone |
 | Fri, 7 Aug 2026 | Velasco + Pin / Bar: Mardi & Depanachi | Pin, Velasco |
-| Sat, 8 Aug 2026 | Baloo + Pau Pérez + Blanch / Bar: Nomart & ViTo | Baloo, Blanch, Pau Pérez, ViTo |
+| Sat, 8 Aug 2026 | Baloo + Pau Pérez + Blanch / Bar: Dj Grip & Dystorizon | Baloo, Blanch, Dystorizon, Pau Pérez, ViTo |
 | Wed, 12 Aug 2026 | SOULEAST b2b Gregori | Gregori |
-| Thu, 13 Aug 2026 | ERA: F-Kid + Tatiana Roddrigo + Fran.Cis |  |
+| Thu, 13 Aug 2026 | ERA: F-Kid + Tatiana Roddrigo + Fran.Cis | Fran.cis |
 
 ## Address
 

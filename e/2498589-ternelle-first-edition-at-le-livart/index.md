@@ -1,6 +1,6 @@
 # ÉTERNELLE — FIRST EDITION at Le Livart
 
-ÉTERNELLE — FIRST EDITION at Le Livart on Sat 22 Aug, Montreal. 2 acts on the bill: Salomé (CA) and Vayia. House. Preview the line-up and save it on soundcheck.
+ÉTERNELLE — FIRST EDITION at Le Livart on Sat 22 Aug, Montreal. 4 acts on the bill: Atlas Heir, Prince Charli, Salomé (CA) and Vayia. House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,6 +10,8 @@
 
 ## Line-up
 
+- Atlas Heir
+- Prince Charli
 - Salomé (CA)
 - Vayia
 

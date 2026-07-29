@@ -14,7 +14,7 @@ Cadavra is a music venue in Madrid listed on soundcheck. 24 upcoming nights, wit
 | Thu, 6 Aug 2026 | Jesús Riaño b2b Unkle Fon at ANFANG | Jesus Riaño, Unkle Fon |
 | Fri, 7 Aug 2026 | CDVR invites VALENCIA | Ces-Q, Garai, Nurias, Pizzicatto, Varis |
 | Sat, 8 Aug 2026 | CDVR x Mad_WAX strictly vinyl | Eder Croket, Ninalash!, Simon Garcia |
-| Fri, 21 Aug 2026 | CDVR pres. Senda Festival | Certain People, Emi Koto, Luska |
+| Fri, 21 Aug 2026 | CDVR pres. Senda Festival | Certain People, Emi Koto, Joseph Platz, Luska |
 | Sat, 22 Aug 2026 | CDVR invites Hollywood | ARTIIC, TWO EX, Tanguy, guidlle |
 | Thu, 27 Aug 2026 | Alienata at Anfang | Alienata |
 | Fri, 28 Aug 2026 | CDVR invites Sigh.Club | Avo (ES), Cesc (ES), DANIL0 |

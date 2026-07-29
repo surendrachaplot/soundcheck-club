@@ -1,6 +1,6 @@
 # Komitee Rosé at Komitee
 
-Komitee Rosé on Sat 8 Aug, Munich. 5 acts on the bill: COEO, Julie Fleischer, Luvin'Lou and Morz Des Soundsystem and 1 more. House and Balearic. Preview the line-up and save it on soundcheck.
+Komitee Rosé on Sat 8 Aug, Munich. 7 acts on the bill: COEO, elwalajo, Julie Fleischer and Luvin'Lou and 3 more. House and Balearic. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -11,9 +11,11 @@ Komitee Rosé on Sat 8 Aug, Munich. 5 acts on the bill: COEO, Julie Fleischer, L
 ## Line-up
 
 - COEO
+- elwalajo
 - Julie Fleischer
 - Luvin'Lou
 - Morz Des Soundsystem
+- Printzi
 - Rollo3000
 
 *Source: [soundcheck](https://soundcheck.club/e/2499673-komitee-ros-at-komitee/)*

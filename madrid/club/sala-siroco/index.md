@@ -9,7 +9,7 @@ Sala Siroco is a music venue in Madrid listed on soundcheck. 9 upcoming nights, 
 | Date | Night | Line-up |
 | --- | --- | --- |
 | Thu, 30 Jul 2026 | From Disco to disco EN SIROCO | Kamboya |
-| Fri, 7 Aug 2026 | Tropic Hustle: Alvaro Ramos + Laorden |  |
+| Fri, 7 Aug 2026 | Tropic Hustle: Alvaro Ramos + Laorden | Laorden |
 | Fri, 7 Aug 2026 | Circuito Eléctrico at SIROCO SALA | Conio, Marina Antih, Sarcophago, alguien |
 | Fri, 28 Aug 2026 | SQUALO: Julia Pé, Luska, Fer Xplosion aka Giorgio Toalliter | Fer Xplosion, Julia Pé, Luska |
 | Sat, 29 Aug 2026 | REVERIE CLUB | Belkan, Djen |

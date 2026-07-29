@@ -11,7 +11,7 @@ Oath is a music venue in Tokyo listed on soundcheck. 5 upcoming nights, with lin
 | Wed, 29 Jul 2026 | OATH WEDNESDAY | Kota, Sasaki Daichi |
 | Thu, 30 Jul 2026 | FUNKTION | Ren Yokoi |
 | Fri, 31 Jul 2026 | THE OATH | Iori, KZA, Moodman |
-| Sat, 1 Aug 2026 | Vinyl Encounters | Connor, Robin Ordell, Yama, yama’ (JP) |
+| Sat, 1 Aug 2026 | Vinyl Encounters | Connor, Kazuki (2), Robin Ordell, Yama, yama’ (JP) |
 | Sat, 8 Aug 2026 | DESCENT | Bundo, Hayato Iwaki, KOSHIRO, tnseei |
 
 ## Address

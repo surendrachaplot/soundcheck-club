@@ -1,8 +1,8 @@
 # Amalie
 
-Amalie is a Techno and Trance artist with 4 upcoming club dates listed on soundcheck as of Wed, 29 Jul 2026, next at Parc des Etangs/Vijverspark, Brussels on Fri, 14 Aug 2026.
+Amalie is a Techno and Trance artist with 5 upcoming club dates listed on soundcheck as of Wed, 29 Jul 2026, next at Parc des Etangs/Vijverspark, Brussels on Fri, 14 Aug 2026.
 
-Amalie is a techno and trance artist based in Belgium, tracked on soundcheck, with 33 sets logged across Antwerp, Brussels and Ghent. Often billed alongside UGZR, Clara D and Hank (Be). Next up: Parc des Etangs/Vijverspark, Brussels on Fri 14 Aug.
+Amalie is a techno and trance artist based in Belgium, tracked on soundcheck, with 34 sets logged across Antwerp, Brussels and Ghent. Often billed alongside UGZR, Clara D and Hank (Be). Next up: Parc des Etangs/Vijverspark, Brussels on Fri 14 Aug.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Amalie is a techno and trance artist based in Belgium, tracked on soundcheck, wi
 | --- | --- | --- |
 | Fri, 14 Aug 2026 | Parc des Etangs/Vijverspark | Brussels |
 | Sat, 15 Aug 2026 | C12 | Brussels |
+| Fri, 21 Aug 2026 | Chinastraat | Ghent |
 | Sun, 30 Aug 2026 | TBA - Brussels | Brussels |
 | Fri, 11 Sept 2026 | TBA | Brussels |
 

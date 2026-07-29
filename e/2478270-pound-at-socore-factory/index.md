@@ -1,6 +1,6 @@
 # POUND at Socore Factory
 
-POUND at Socore Factory on Mon 10 Aug, Osaka. 3 acts on the bill: Itou, ONO (3) and Yudai Sugiyama. Minimal and Minimal Techno. Preview the line-up and save it on soundcheck.
+POUND at Socore Factory on Mon 10 Aug, Osaka. 4 acts on the bill: IKUZO, Itou, ONO (3) and Yudai Sugiyama. Minimal and Minimal Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,6 +10,7 @@ POUND at Socore Factory on Mon 10 Aug, Osaka. 3 acts on the bill: Itou, ONO (3) 
 
 ## Line-up
 
+- IKUZO
 - Itou
 - ONO (3)
 - Yudai Sugiyama

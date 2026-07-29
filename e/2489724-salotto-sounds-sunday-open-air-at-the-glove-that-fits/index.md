@@ -1,6 +1,6 @@
 # Salotto Sounds - Sunday Open Air at The Glove That Fits
 
-Salotto Sounds - Sunday Open Air at The Glove That Fits on Sun 16 Aug, London. 4 acts on the bill: Alfaz, Pandar, SCCO and Zak Miller. House. Preview the line-up and save it on soundcheck.
+Salotto Sounds - Sunday Open Air at The Glove That Fits on Sun 16 Aug, London. 5 acts on the bill: Alfaz, NOIDMATE, Pandar and SCCO and 1 more. House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -11,6 +11,7 @@ Salotto Sounds - Sunday Open Air at The Glove That Fits on Sun 16 Aug, London. 4
 ## Line-up
 
 - Alfaz
+- NOIDMATE
 - Pandar
 - SCCO
 - Zak Miller

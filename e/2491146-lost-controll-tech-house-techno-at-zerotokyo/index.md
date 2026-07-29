@@ -1,6 +1,6 @@
 # Lost Controll - TECH HOUSE / TECHNO - at ZEROTOKYO
 
-Lost Controll - TECH HOUSE / TECHNO - at ZEROTOKYO on Fri 14 Aug, Tokyo. 4 acts on the bill: FELINE (JP), Kijta, okadada and Yohji Igarashi. Techno and Tech House. Preview the line-up and save it on soundcheck.
+Lost Controll - TECH HOUSE / TECHNO - at ZEROTOKYO on Fri 14 Aug, Tokyo. 5 acts on the bill: FELINE (JP), HATSUYUKI, Kijta and okadada and 1 more. Techno and Tech House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -11,6 +11,7 @@ Lost Controll - TECH HOUSE / TECHNO - at ZEROTOKYO on Fri 14 Aug, Tokyo. 4 acts 
 ## Line-up
 
 - FELINE (JP)
+- HATSUYUKI
 - Kijta
 - okadada
 - Yohji Igarashi

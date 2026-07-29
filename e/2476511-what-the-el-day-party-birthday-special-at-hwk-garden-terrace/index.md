@@ -1,6 +1,6 @@
 # WHAT.THE.EL! Day Party Birthday Special at HWK Garden / Terrace
 
-WHAT.THE.EL! Day Party Birthday Special at HWK Garden / Terrace on Sat 29 Aug, London. 8 acts on the bill: CAMZ, El Cassar, Leon Michael and Mas Fuego and 4 more. Tech House and Minimal. Preview the line-up and save it on soundcheck.
+WHAT.THE.EL! Day Party Birthday Special at HWK Garden / Terrace on Sat 29 Aug, London. 9 acts on the bill: CAMZ, El Cassar, JUAN VEGA and Leon Michael and 5 more. Tech House and Minimal. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -12,6 +12,7 @@ WHAT.THE.EL! Day Party Birthday Special at HWK Garden / Terrace on Sat 29 Aug, L
 
 - CAMZ
 - El Cassar
+- JUAN VEGA
 - Leon Michael
 - Mas Fuego
 - Shiloh (UK)

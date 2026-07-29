@@ -1,14 +1,14 @@
 # vp allowed
 
-vp allowed is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at TBA, Berlin on Sat, 8 Aug 2026.
+vp allowed is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at TBA - Neukolln. 52.47736265617827, 13.4592885932799, Berlin on Sat, 8 Aug 2026.
 
-vp allowed is a techno and trance artist based in Italy, tracked on soundcheck, with 52 sets logged across Berlin, Budapest, Geneva and Oslo and 3 more. Often billed alongside Agata (PL), Elios and LUCKY4U. Next up: TBA, Berlin on Sat 8 Aug.
+vp allowed is a techno and trance artist based in Italy, tracked on soundcheck, with 52 sets logged across Berlin, Budapest, Geneva and Oslo and 3 more. Often billed alongside Agata (PL), Elios and LUCKY4U. Next up: TBA - Neukolln. 52.47736265617827, 13.4592885932799, Berlin on Sat 8 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 8 Aug 2026 | TBA | Berlin |
+| Sat, 8 Aug 2026 | TBA - Neukolln. 52.47736265617827, 13.4592885932799 | Berlin |
 
 ## Recently played
 

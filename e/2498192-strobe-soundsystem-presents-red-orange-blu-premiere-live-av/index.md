@@ -1,6 +1,6 @@
 # Strobe Soundsystem presents: Red Orange & Blu Premiere Live AV, Fresh Lov3, Vanio at Not For Sale Gallery
 
-Strobe Soundsystem presents: Red Orange & Blu Premiere Live AV, Fresh Lov3, Vanio at Not For Sale Gallery on Wed 19 Aug, London. 1 act on the bill: Fresh Lov3. Techno and Electro. Preview the line-up and save it on soundcheck.
+Strobe Soundsystem presents: Red Orange & Blu Premiere Live AV, Fresh Lov3, Vanio at Not For Sale Gallery on Wed 19 Aug, London. 2 acts on the bill: Fresh Lov3 and Vanio. Techno and Electro. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -11,5 +11,6 @@ Strobe Soundsystem presents: Red Orange & Blu Premiere Live AV, Fresh Lov3, Vani
 ## Line-up
 
 - Fresh Lov3
+- Vanio
 
 *Source: [soundcheck](https://soundcheck.club/e/2498192-strobe-soundsystem-presents-red-orange-blu-premiere-live-av/)*

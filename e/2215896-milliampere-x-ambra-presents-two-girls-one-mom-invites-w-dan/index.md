@@ -1,6 +1,6 @@
 # MILLIAMPERE x Ambra presents two girls one mom invites /w Danilo Filipe, George Radsport at Lokschuppen Berlin
 
-MILLIAMPERE x Ambra presents two girls one mom invites /w Danilo Filipe, George Radsport at Lokschuppen Berlin on Sat 5 Sept, Berlin. 13 acts on the bill: 3LEEZA, 4NOUK, Bobaz Lobster and Danilo Filipe and 9 more. Trance and Techno. Preview the line-up and save it on soundcheck.
+MILLIAMPERE x Ambra presents two girls one mom invites /w Danilo Filipe, George Radsport at Lokschuppen Berlin on Sat 5 Sept, Berlin. 14 acts on the bill: 3LEEZA, 4NOUK, Bobaz Lobster and Danilo Filipe and 10 more. Trance and Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -21,6 +21,7 @@ MILLIAMPERE x Ambra presents two girls one mom invites /w Danilo Filipe, George 
 - jeanska
 - m4tsch1
 - Scutta
+- tokenbeats
 - two girls one mom
 - YËDM
 

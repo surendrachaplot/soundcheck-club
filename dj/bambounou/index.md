@@ -1,8 +1,8 @@
 # Bambounou
 
-Bambounou is a Techno and House artist with 5 upcoming club dates listed on soundcheck as of Wed, 29 Jul 2026, next at Virage, Paris on Fri, 31 Jul 2026.
+Bambounou is a Techno and House artist with 6 upcoming club dates listed on soundcheck as of Wed, 29 Jul 2026, next at Virage, Paris on Fri, 31 Jul 2026.
 
-Bambounou is a techno and house artist tracked on soundcheck, with 161 sets logged across Amsterdam, Antwerp, Barcelona and Berlin and 48 more. Often billed alongside Sedef Adasï, Sossa and Bradley Zero. Next up: Virage, Paris on Fri 31 Jul.
+Bambounou is a techno and house artist tracked on soundcheck, with 162 sets logged across Amsterdam, Antwerp, Barcelona and Berlin and 48 more. Often billed alongside Sedef Adasï, Sossa and Bradley Zero. Next up: Virage, Paris on Fri 31 Jul.
 
 ## Upcoming shows
 
@@ -13,6 +13,7 @@ Bambounou is a techno and house artist tracked on soundcheck, with 161 sets logg
 | Fri, 21 Aug 2026 | Karmen Camina | Strasbourg |
 | Sat, 12 Sept 2026 | TBA | Washington DC |
 | Sat, 12 Sept 2026 | smartbar | Chicago |
+| Fri, 9 Oct 2026 | FOLD | London |
 
 ## Recently played
 

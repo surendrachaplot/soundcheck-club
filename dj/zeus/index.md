@@ -1,14 +1,15 @@
 # ZEUS
 
-ZEUS is a House and Electro artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at The Fox and Firkin, London on Sat, 1 Aug 2026.
+ZEUS is a House and Electro artist with 2 upcoming club dates listed on soundcheck as of Wed, 29 Jul 2026, next at The Fox and Firkin, London on Sat, 1 Aug 2026.
 
-ZEUS is a house and electro artist based in Spain, tracked on soundcheck, with 12 sets logged across Amsterdam, Barcelona, Berlin and Istanbul and 3 more. Often billed alongside Andy Luff, B.Love and Enzo Siragusa. Next up: The Fox and Firkin, London on Sat 1 Aug.
+ZEUS is a house and electro artist based in Spain, tracked on soundcheck, with 13 sets logged across Amsterdam, Barcelona, Berlin and Istanbul and 3 more. Often billed alongside Andy Luff, B.Love and Enzo Siragusa. Next up: The Fox and Firkin, London on Sat 1 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 1 Aug 2026 | The Fox and Firkin | London |
+| Sun, 23 Aug 2026 | Boat - MS Rhein / Boat Terminal: Mühlenstr. 70-71 / 10243 Berlin | Berlin |
 
 ## Recently played
 

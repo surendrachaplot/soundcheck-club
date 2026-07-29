@@ -1,6 +1,6 @@
 # Smoove: Continental GT, Supa D, Crazy Cousinz + more at Ministry Of Sound
 
-Smoove: Continental GT, Supa D, Crazy Cousinz + more at Ministry Of Sound on Fri 28 Aug, London. 8 acts on the bill: Continental GT, Crazy Cousinz, Daddy Chulo and Donch and 4 more. Hip-Hop and Garage. Preview the line-up and save it on soundcheck.
+Smoove: Continental GT, Supa D, Crazy Cousinz + more at Ministry Of Sound on Fri 28 Aug, London. 9 acts on the bill: Continental GT, Crazy Cousinz, Daddy Chulo and Donch and 5 more. Hip-Hop and Garage. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -15,6 +15,7 @@ Smoove: Continental GT, Supa D, Crazy Cousinz + more at Ministry Of Sound on Fri
 - Daddy Chulo
 - Donch
 - Emz (MC)
+- mastaque
 - Pioneer
 - Rampage
 - Supa D

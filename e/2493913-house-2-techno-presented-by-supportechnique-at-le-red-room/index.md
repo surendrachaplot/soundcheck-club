@@ -1,6 +1,6 @@
 # House 2 Techno presented by SupporTechnique at Le Red Room
 
-House 2 Techno presented by SupporTechnique at Le Red Room on Fri 31 Jul, Montreal. 3 acts on the bill: AYMÉ, Harry Trancer and Walji. Techno and Tech House. Preview the line-up and save it on soundcheck.
+House 2 Techno presented by SupporTechnique at Le Red Room on Fri 31 Jul, Montreal. 4 acts on the bill: Anomia, AYMÉ, Harry Trancer and Walji. Techno and Tech House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,6 +10,7 @@ House 2 Techno presented by SupporTechnique at Le Red Room on Fri 31 Jul, Montre
 
 ## Line-up
 
+- Anomia
 - AYMÉ
 - Harry Trancer
 - Walji

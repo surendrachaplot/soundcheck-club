@@ -1,8 +1,8 @@
 # Andre Zimmer
 
-Andre Zimmer is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Wed, 29 Jul 2026, next at Culture Box, Copenhagen on Sat, 8 Aug 2026.
+Andre Zimmer is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Wed, 29 Jul 2026, next at Culture Box, Copenhagen on Sat, 8 Aug 2026.
 
-Andre Zimmer is a house and techno artist tracked on soundcheck, with 53 sets logged across Amsterdam, Athens, Barcelona and Berlin and 10 more. Often billed alongside AKWA, Jacob de Hooge and Venus in Foil. Next up: Culture Box, Copenhagen on Sat 8 Aug.
+Andre Zimmer is a house and techno artist tracked on soundcheck, with 54 sets logged across Amsterdam, Athens, Barcelona and Berlin and 10 more. Often billed alongside AKWA, Jacob de Hooge and Venus in Foil. Next up: Culture Box, Copenhagen on Sat 8 Aug.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Andre Zimmer is a house and techno artist tracked on soundcheck, with 53 sets lo
 | --- | --- | --- |
 | Sat, 8 Aug 2026 | Culture Box | Copenhagen |
 | Sun, 9 Aug 2026 | OXI | Berlin |
+| Fri, 9 Oct 2026 | FOLD | London |
 
 ## Recently played
 

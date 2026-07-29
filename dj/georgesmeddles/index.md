@@ -1,14 +1,15 @@
 # George Smeddles
 
-George Smeddles is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at Chinois Ibiza, Ibiza on Thu, 13 Aug 2026.
+George Smeddles is a House and Tech House artist with 2 upcoming club dates listed on soundcheck as of Wed, 29 Jul 2026, next at Chinois Ibiza, Ibiza on Thu, 13 Aug 2026.
 
-George Smeddles is a house and tech house artist tracked on soundcheck, with 70 sets logged across Amsterdam, Austin, Bangkok and Brighton and 21 more. Often billed alongside Darius Syrossian, GW Harrison and Prunk. Next up: Chinois Ibiza, Ibiza on Thu 13 Aug.
+George Smeddles is a house and tech house artist tracked on soundcheck, with 71 sets logged across Amsterdam, Austin, Bangkok and Brighton and 21 more. Often billed alongside Darius Syrossian, GW Harrison and Prunk. Next up: Chinois Ibiza, Ibiza on Thu 13 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Thu, 13 Aug 2026 | Chinois Ibiza | Ibiza |
+| Sun, 16 Aug 2026 | Thuishaven | Amsterdam |
 
 ## Recently played
 

@@ -2,7 +2,7 @@
 
 KOKO is a music venue in London with 20 upcoming nights listed on soundcheck as of Wed, 29 Jul 2026; the next is "15 Years of Rhythm Section: Bradley Zero (All Night Long)" on Fri, 31 Jul 2026.
 
-KOKO is a music venue in London listed on soundcheck. 20 upcoming nights, with line-ups including Alan Dixon, Anane, Bradley Zero and Carla Martinez and 2 more. Browse upcoming dates, start times and who's playing. 1a Camden High Street; Camden Town; London NW1 7JE; United Kingdom.
+KOKO is a music venue in London listed on soundcheck. 20 upcoming nights, with line-ups including Alan Dixon, Anane, Benji B and Bradley Zero and 2 more. Browse upcoming dates, start times and who's playing. 1a Camden High Street; Camden Town; London NW1 7JE; United Kingdom.
 
 ## What's on
 
@@ -16,7 +16,7 @@ KOKO is a music venue in London listed on soundcheck. 20 upcoming nights, with l
 | Sat, 15 Aug 2026 | KOKO Electronic: Ewan McVicar | Ewan McVicar |
 | Fri, 21 Aug 2026 | KOKO Electronic: Summer Closing - House & Disco |  |
 | Sat, 22 Aug 2026 | KOKO Electronic: DJ Jazzy Jeff | Jazzy Jeff |
-| Fri, 28 Aug 2026 | KOKO Electronic: Paco Osuna | Mason Collective, Paco Osuna |
+| Fri, 28 Aug 2026 | KOKO Electronic: Paco Osuna | Joëlla Jackson, Mason Collective, Paco Osuna |
 | Sat, 29 Aug 2026 | KOKO Electronic: Mustard | DJ Mustard |
 
 ## Address

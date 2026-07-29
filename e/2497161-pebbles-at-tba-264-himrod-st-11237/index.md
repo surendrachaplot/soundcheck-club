@@ -1,6 +1,6 @@
 # Pebbles at TBA - 264 Himrod St 11237
 
-Pebbles at TBA - 264 Himrod St 11237 on Sun 2 Aug, Newyorkcity. 3 acts on the bill: CZ Wang, Spurge and Yibing. Preview the line-up and save it on soundcheck.
+Pebbles at TBA - 264 Himrod St 11237 on Sun 2 Aug, Newyorkcity. 4 acts on the bill: CZ Wang, joeyjoey, Spurge and Yibing. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -11,6 +11,7 @@ Pebbles at TBA - 264 Himrod St 11237 on Sun 2 Aug, Newyorkcity. 3 acts on the bi
 ## Line-up
 
 - CZ Wang
+- joeyjoey
 - Spurge
 - Yibing
 

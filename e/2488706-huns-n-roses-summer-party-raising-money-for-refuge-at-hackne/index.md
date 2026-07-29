@@ -1,6 +1,6 @@
 # Huns N' Roses: Summer Party (Raising Money for Refuge) at Hackney Bridge
 
-Huns N' Roses: Summer Party (Raising Money for Refuge) at Hackney Bridge on Fri 31 Jul, London. 2 acts on the bill: Huns N' Roses and RAW SILK. House and R&B. Preview the line-up and save it on soundcheck.
+Huns N' Roses: Summer Party (Raising Money for Refuge) at Hackney Bridge on Fri 31 Jul, London. 3 acts on the bill: Huns N' Roses, Molly Penney and RAW SILK. House and R&B. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -11,6 +11,7 @@ Huns N' Roses: Summer Party (Raising Money for Refuge) at Hackney Bridge on Fri 
 ## Line-up
 
 - Huns N' Roses
+- Molly Penney
 - RAW SILK
 
 *Source: [soundcheck](https://soundcheck.club/e/2488706-huns-n-roses-summer-party-raising-money-for-refuge-at-hackne/)*

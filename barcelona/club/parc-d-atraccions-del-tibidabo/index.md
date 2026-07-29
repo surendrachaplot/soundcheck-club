@@ -9,7 +9,7 @@ Parc d’Atraccions del Tibidabo is a music venue in Barcelona listed on soundch
 | Date | Night | Line-up |
 | --- | --- | --- |
 | Fri, 18 Sept 2026 | OFFWEEK presents Joseph Capriati, ZSS, Lea Kdoch, Vaert | Joseph Capriati, Vaert, Zamna Soundsystem |
-| Fri, 9 Oct 2026 | OFFWEEK presents Nina Kraviz, Quest, Christian AB and Lumiere | Christian AB, Lumiere, Nina Kraviz, Quest (IT) |
+| Fri, 9 Oct 2026 | OFFWEEK presents Nina Kraviz, Quest and Lumiere | Christian AB, Lumiere, Nina Kraviz, Quest (IT) |
 
 ## Address
 

@@ -11,7 +11,7 @@ Xanadu is a music venue in Newyorkcity listed on soundcheck. 8 upcoming nights, 
 | Sun, 2 Aug 2026 | Sunday Skate Club: RIDE THE SPACESHIP ft. Sebastian Posso, LivBpm, Malachi, & auden barbour  | LivBpm, Malachi (2), Sebastian Posso |
 | Sun, 9 Aug 2026 | Sunday Skate Club: Dominican Day feat. Charlie Chimi (skate all night) |  |
 | Sun, 16 Aug 2026 | Sunday Skate Club feat. Dirtyfinger, Club Flush: zzzzach, NEU NEU, WONNSSS, BABY VIRGO | Dirtyfinger, WONNSSS, zzzzach |
-| Sun, 23 Aug 2026 | Sunday Skate Club feat. Love Games with Lauren Murada, Finn Jones, Party Dad, | Andrew Lenox, Finn Jones, Lauren Murada, Party Dad |
+| Sun, 23 Aug 2026 | Sunday Skate Club feat. Love Games with Lauren Murada, Finn Jones, Party Dad, | Andrew Lenox, Finn Jones, Lauren Murada, Party Dad, lenox |
 | Sun, 30 Aug 2026 | Sunday Skate Club feat. David Paglia, Club Flush: ANICHE (skate all night) | ANICHE, David Paglia |
 | Sun, 6 Sept 2026 | Paradise Garage Reunion 2026 | Sting International |
 | Thu, 24 Sept 2026 | Twin Shadow (concert) |  |

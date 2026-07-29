@@ -10,7 +10,7 @@ Bar A Bar is a music venue in London listed on soundcheck. 4 upcoming nights, wi
 | --- | --- | --- |
 | Fri, 31 Jul 2026 | ZEM2 | Luc *, OllyK, Tasman-UK |
 | Sat, 15 Aug 2026 | Universe & Tropical Nomads: Bom Shanka Label night |  |
-| Sat, 26 Sept 2026 | ECHO 4 | Any Koh, D LAI, Folek, MPathy |
+| Sat, 26 Sept 2026 | ECHO 4 | Any Koh, D LAI, Folek, MPathy, SONI LOBO, winterburn |
 | Sat, 3 Oct 2026 | UNDERGROUND TALES | illus1on |
 
 ## Address

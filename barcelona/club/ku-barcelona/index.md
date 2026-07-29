@@ -9,7 +9,7 @@ Ku Barcelona is a music venue in Barcelona listed on soundcheck. 7 upcoming nigh
 | Date | Night | Line-up |
 | --- | --- | --- |
 | Wed, 29 Jul 2026 | AVALON: Monblaire, Rivellino, Andrea Castells, No Name, Gandalf, Darcia | Andrea Castells, Rivellino |
-| Sun, 2 Aug 2026 | SIGHT & Sinner pres. Claptone, Alexander Som, Luka Kuhnow, VITE b2b MIGANOVA | Claptone, MIGANOVA, VITE |
+| Sun, 2 Aug 2026 | SIGHT & Sinner pres. Claptone, Alexander Som, Luka Kuhnow, VITE b2b MIGANOVA, Tomi&Kesh | Claptone, MIGANOVA, VITE |
 | Wed, 5 Aug 2026 | AVALON x Dominik: Giorgio Stefano, Bruno Bona, Giordee, Greta Tima | Giorgio Stefano |
 | Sun, 9 Aug 2026 | SIGHT pres. James Hype, Alex Now, LA CINTIA, Pau Guilera | Alex Now, James Hype (UK), Pau Guilera |
 | Sun, 16 Aug 2026 | SIGHT & Bonbonniere pres. Sonny Fodera, Xandro, Marcel BS, jose fajardo | Marcel BS, Sonny Fodera, Xandro, jose fajardo |

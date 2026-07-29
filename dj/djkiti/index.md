@@ -1,13 +1,14 @@
 # DJ Kiti
 
-DJ Kiti is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at Revolver Upstairs, Melbourne on Fri, 28 Aug 2026.
+DJ Kiti is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Wed, 29 Jul 2026, next at Solace, Melbourne on Thu, 13 Aug 2026.
 
-DJ Kiti is a techno and house artist tracked on soundcheck, with 99 sets logged across Melbourne and Sydney. Often billed alongside Mike Callander, Acid Safari and Chiara Kickdrum. Next up: Revolver Upstairs, Melbourne on Fri 28 Aug.
+DJ Kiti is a techno and house artist tracked on soundcheck, with 100 sets logged across Melbourne and Sydney. Often billed alongside Mike Callander, Acid Safari and Chiara Kickdrum. Next up: Solace, Melbourne on Thu 13 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Thu, 13 Aug 2026 | Solace | Melbourne |
 | Fri, 28 Aug 2026 | Revolver Upstairs | Melbourne |
 
 ## Recently played

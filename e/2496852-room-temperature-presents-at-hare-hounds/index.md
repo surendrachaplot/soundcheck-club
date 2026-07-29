@@ -1,6 +1,6 @@
 # Room Temperature Presents at Hare & Hounds
 
-Room Temperature Presents at Hare & Hounds on Fri 31 Jul, Birmingham. 2 acts on the bill: Goose (3) and Sleepy Jean. House and Electro. Preview the line-up and save it on soundcheck.
+Room Temperature Presents at Hare & Hounds on Fri 31 Jul, Birmingham. 3 acts on the bill: eastside project, Goose (3) and Sleepy Jean. House and Electro. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,6 +10,7 @@ Room Temperature Presents at Hare & Hounds on Fri 31 Jul, Birmingham. 2 acts on 
 
 ## Line-up
 
+- eastside project
 - Goose (3)
 - Sleepy Jean
 

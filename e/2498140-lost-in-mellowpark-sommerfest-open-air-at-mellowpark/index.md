@@ -1,6 +1,6 @@
 # Lost In Mellowpark ☼ Sommerfest ☼ Open Air at Mellowpark
 
-Lost In Mellowpark ☼ Sommerfest ☼ Open Air on Sat 22 Aug, Berlin. 4 acts on the bill: Erosiv, krawallwitz, Little Nats and Stefoon. House and Disco. Preview the line-up and save it on soundcheck.
+Lost In Mellowpark ☼ Sommerfest ☼ Open Air on Sat 22 Aug, Berlin. 5 acts on the bill: Erosiv, Hannelore, krawallwitz and Little Nats and 1 more. House and Disco. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -11,6 +11,7 @@ Lost In Mellowpark ☼ Sommerfest ☼ Open Air on Sat 22 Aug, Berlin. 4 acts on 
 ## Line-up
 
 - Erosiv
+- Hannelore
 - krawallwitz
 - Little Nats
 - Stefoon

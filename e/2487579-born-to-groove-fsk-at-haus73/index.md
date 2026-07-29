@@ -1,6 +1,6 @@
 # Born to Groove - FSK at Haus73
 
-Born to Groove - FSK at Haus73 on Sat 8 Aug, Hamburg. 1 act on the bill: G-Lamour. Preview the line-up and save it on soundcheck.
+Born to Groove - FSK at Haus73 on Sat 8 Aug, Hamburg. 2 acts on the bill: G-Lamour and JIBS. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -11,5 +11,6 @@ Born to Groove - FSK at Haus73 on Sat 8 Aug, Hamburg. 1 act on the bill: G-Lamou
 ## Line-up
 
 - G-Lamour
+- JIBS
 
 *Source: [soundcheck](https://soundcheck.club/e/2487579-born-to-groove-fsk-at-haus73/)*

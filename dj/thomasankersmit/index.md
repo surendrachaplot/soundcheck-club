@@ -1,14 +1,14 @@
 # Thomas Ankersmit
 
-Thomas Ankersmit is a Experimental and Electro artist with 3 upcoming club dates listed on soundcheck as of Wed, 29 Jul 2026, next at TBA - Several venues in Basel, Basel on Thu, 17 Sept 2026.
+Thomas Ankersmit is a Experimental and Electro artist with 3 upcoming club dates listed on soundcheck as of Wed, 29 Jul 2026, next at Kaserne Basel, Basel on Thu, 17 Sept 2026.
 
-Thomas Ankersmit is an experimental and electro artist based in Germany, tracked on soundcheck, with 16 sets logged across Basel, Berlin, Glasgow and Hamburg and 7 more. Often billed alongside Deena Abdelwahed, Actress and Batu. Next up: TBA - Several venues in Basel, Basel on Thu 17 Sept.
+Thomas Ankersmit is an experimental and electro artist based in Germany, tracked on soundcheck, with 16 sets logged across Basel, Berlin, Glasgow and Hamburg and 7 more. Often billed alongside Deena Abdelwahed, Actress and Batu. Next up: Kaserne Basel, Basel on Thu 17 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Thu, 17 Sept 2026 | TBA - Several venues in Basel | Basel |
+| Thu, 17 Sept 2026 | Kaserne Basel | Basel |
 | Thu, 24 Sept 2026 | Venues Across Glasgow | Glasgow |
 | Sun, 27 Sept 2026 | The Listening House / Pollok House | Glasgow |
 

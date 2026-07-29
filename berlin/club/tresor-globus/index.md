@@ -2,7 +2,7 @@
 
 Tresor / Globus is a music venue in Berlin with 27 upcoming nights listed on soundcheck as of Wed, 29 Jul 2026; the next is "Büro Siebzig: Takuya Nakamura LIVE" on Wed, 29 Jul 2026.
 
-Tresor / Globus is a music venue in Berlin listed on soundcheck. 27 upcoming nights, with line-ups including ALIS., Anabel Arroyo, Arsenal Mikebe and Aura Nox and 2 more. Browse upcoming dates, start times and who's playing. Köpenickerstrasse 70; Mitte; 10179 Berlin; Germany.
+Tresor / Globus is a music venue in Berlin listed on soundcheck. 27 upcoming nights, with line-ups including 7CIRCLE, ALIS., Anabel Arroyo and Arsenal Mikebe and 2 more. Browse upcoming dates, start times and who's playing. Köpenickerstrasse 70; Mitte; 10179 Berlin; Germany.
 
 ## What's on
 

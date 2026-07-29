@@ -8,7 +8,7 @@ Gallery is a music venue in London listed on soundcheck. 14 upcoming nights, wit
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Thu, 30 Jul 2026 | Paradox Nexus: mark shadow - Thursdays at Gallery | Grittrip, mark shadow |
+| Thu, 30 Jul 2026 | Paradox Nexus: mark shadow - Thursdays at Gallery | Grittrip, SØLEIL, mark shadow |
 | Fri, 31 Jul 2026 | J2 x LWE pres. Benga & KE-YEN (Official J2 Afterparty) | Benga, KE-YEN |
 | Sat, 1 Aug 2026 | Gallery presents: Jaden Thompson | Jaden Thompson |
 | Thu, 6 Aug 2026 | Paradox Nexus - Thursdays |  |

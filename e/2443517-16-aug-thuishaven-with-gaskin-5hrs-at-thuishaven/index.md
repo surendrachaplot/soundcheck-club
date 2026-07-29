@@ -1,6 +1,6 @@
 # 16 AUG - Thuishaven with Gaskin 5HRS at Thuishaven
 
-16 AUG - Thuishaven with Gaskin 5HRS on Sun 16 Aug, Amsterdam. 4 acts on the bill: Ellia Jaya, Gaskin, Stef Davidse and Wildish. Preview the line-up and save it on soundcheck.
+16 AUG - Thuishaven with Gaskin 5HRS on Sun 16 Aug, Amsterdam. 8 acts on the bill: Ben Horton, Ellam, Ellia Jaya and Gaskin and 4 more. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,8 +10,12 @@
 
 ## Line-up
 
+- Ben Horton
+- Ellam
 - Ellia Jaya
 - Gaskin
+- George Smeddles
+- Lewis Taylor
 - Stef Davidse
 - Wildish
 

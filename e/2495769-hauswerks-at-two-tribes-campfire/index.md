@@ -1,6 +1,6 @@
 # HAUSWERKS at Two Tribes CAMPFIRE
 
-HAUSWERKS at Two Tribes CAMPFIRE on Fri 31 Jul, London. 4 acts on the bill: ELØ (1), GYS (TT), HOLL3 and Tris (UK). Progressive House and Deep House. Preview the line-up and save it on soundcheck.
+HAUSWERKS at Two Tribes CAMPFIRE on Fri 31 Jul, London. 5 acts on the bill: ELØ (1), GYS (TT), HOLL3 and MAYA LDN and 1 more. Progressive House and Deep House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -13,6 +13,7 @@ HAUSWERKS at Two Tribes CAMPFIRE on Fri 31 Jul, London. 4 acts on the bill: ELØ
 - ELØ (1)
 - GYS (TT)
 - HOLL3
+- MAYA LDN
 - Tris (UK)
 
 *Source: [soundcheck](https://soundcheck.club/e/2495769-hauswerks-at-two-tribes-campfire/)*

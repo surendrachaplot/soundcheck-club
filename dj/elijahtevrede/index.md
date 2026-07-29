@@ -1,0 +1,13 @@
+# Elijah Tevrede
+
+Elijah Tevrede is a Dancehall and Reggaeton artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at Bitterzoet, Amsterdam on Sat, 22 Aug 2026.
+
+Elijah Tevrede is a dancehall and reggaeton artist based in Netherlands, tracked on soundcheck, with 1 set logged across Amsterdam. Next up: Bitterzoet, Amsterdam on Sat 22 Aug.
+
+## Upcoming shows
+
+| Date | Venue | City |
+| --- | --- | --- |
+| Sat, 22 Aug 2026 | Bitterzoet | Amsterdam |
+
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/elijahtevrede/)*

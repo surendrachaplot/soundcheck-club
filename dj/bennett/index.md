@@ -1,8 +1,8 @@
 # BENNETT
 
-BENNETT is a Techno and Trance artist with 5 upcoming club dates listed on soundcheck as of Wed, 29 Jul 2026, next at Fridas Pier, Stuttgart on Sat, 1 Aug 2026.
+BENNETT is a Techno and Trance artist with 6 upcoming club dates listed on soundcheck as of Wed, 29 Jul 2026, next at Fridas Pier, Stuttgart on Sat, 1 Aug 2026.
 
-BENNETT is a techno and trance artist tracked on soundcheck, with 21 sets logged across Berlin, Cologne, Losangeles and Mexicocity and 4 more. Often billed alongside WAN.1, DJ Jordan and I Hate Models. Next up: Fridas Pier, Stuttgart on Sat 1 Aug.
+BENNETT is a techno and trance artist tracked on soundcheck, with 22 sets logged across Berlin, Cologne, Losangeles and Mexicocity and 4 more. Often billed alongside WAN.1, DJ Jordan and I Hate Models. Next up: Fridas Pier, Stuttgart on Sat 1 Aug.
 
 ## Upcoming shows
 
@@ -13,6 +13,7 @@ BENNETT is a techno and trance artist tracked on soundcheck, with 21 sets logged
 | Sun, 30 Aug 2026 | Sommerbad Neukölln | Berlin |
 | Sun, 30 Aug 2026 | Sommerbad Neuköln | Berlin |
 | Sat, 26 Sept 2026 | Echostage | Washington DC |
+| Fri, 16 Oct 2026 | Lokschuppen Berlin | Berlin |
 
 ## Recently played
 

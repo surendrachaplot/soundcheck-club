@@ -1,13 +1,14 @@
 # Mishka
 
-Mishka is a Downtempo and House artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at Public Works, San Francisco/Oakland on Sat, 19 Sept 2026.
+Mishka is a Downtempo and House artist with 2 upcoming club dates listed on soundcheck as of Wed, 29 Jul 2026, next at EXIL, Zurich on Sat, 1 Aug 2026.
 
-Mishka is a downtempo and house artist based in United States of America, tracked on soundcheck, with 15 sets logged across Amsterdam and Sanfrancisco. Often billed alongside Jeremy Castillo, Avalon Emerson and Loveshadow. Next up: Public Works, Sanfrancisco on Sat 19 Sept.
+Mishka is a downtempo and house artist based in United States of America, tracked on soundcheck, with 16 sets logged across Amsterdam, Sanfrancisco and Zurich. Often billed alongside Jeremy Castillo, Avalon Emerson and Loveshadow. Next up: EXIL, Zurich on Sat 1 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 1 Aug 2026 | EXIL | Zurich |
 | Sat, 19 Sept 2026 | Public Works | San Francisco/Oakland |
 
 ## Recently played

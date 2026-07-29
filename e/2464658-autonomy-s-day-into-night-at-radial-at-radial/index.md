@@ -1,6 +1,6 @@
 # Autonomy's Day into Night at radial at radial
 
-Autonomy's Day into Night at radial on Sat 8 Aug, London. 6 acts on the bill: Coinín Beag, Derv, DJ Love UK and EMMIE and 2 more. Techno and House. Preview the line-up and save it on soundcheck.
+Autonomy's Day into Night at radial on Sat 8 Aug, London. 7 acts on the bill: Coinín Beag, Derv, DJ Love UK and EMMIE and 3 more. Techno and House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -14,6 +14,7 @@ Autonomy's Day into Night at radial on Sat 8 Aug, London. 6 acts on the bill: Co
 - Derv
 - DJ Love UK
 - EMMIE
+- Jack Costello
 - notjack
 - Sean Nolan
 

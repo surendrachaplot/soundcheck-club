@@ -1,14 +1,14 @@
 # Neverglass
 
-Neverglass is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at Kulturstrand München, Munich on Fri, 7 Aug 2026.
+Neverglass is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at TBA, Munich on Fri, 7 Aug 2026.
 
-Neverglass is a house and tech house artist tracked on soundcheck, with 23 sets logged across Munich and Prague. Often billed alongside Artifex (DE), SloMo and 7IMMY. Next up: Kulturstrand München, Munich on Fri 7 Aug.
+Neverglass is a house and tech house artist tracked on soundcheck, with 23 sets logged across Munich and Prague. Often billed alongside Artifex (DE), SloMo and 7IMMY. Next up: TBA, Munich on Fri 7 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 7 Aug 2026 | Kulturstrand München | Munich |
+| Fri, 7 Aug 2026 | TBA | Munich |
 
 ## Recently played
 

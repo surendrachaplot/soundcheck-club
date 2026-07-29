@@ -11,7 +11,7 @@ elipamanoke is a music venue in Leipzig listed on soundcheck. 6 upcoming nights,
 | Wed, 29 Jul 2026 | between x Bar | DIRTY YOUTH, amalidakirsch, meowmeyer |
 | Fri, 31 Jul 2026 | Datsche #31 [indoor & outdoor] | DJ Pabloma Blanca, Enea Lu, Shellxbeats, marengo (2) |
 | Sat, 1 Aug 2026 | Raving Society w/ Tanith | Acid Goldee, LUNA.le, Ostbam, Tanith, VIVEX |
-| Wed, 5 Aug 2026 | between x KANTINE Suburbane Musikkultur | OutWithJane, T.Schaui |
+| Wed, 5 Aug 2026 | between x KANTINE Suburbane Musikkultur | Kalpea, OutWithJane, T.Schaui |
 | Sat, 8 Aug 2026 | ✺ SOMMERFEST ✺ w/ Cyan85 | Aivee, Cyan85, ELLI B, Fennek, MIDNXGHT, R-SOHR, SLANY, fatmuska |
 | Sun, 9 Aug 2026 | NACHLEGEN – with outdoor floor | Desperate House Guy, ESCALEA, s-ray |
 

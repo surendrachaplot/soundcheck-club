@@ -1,14 +1,15 @@
 # Kaeru
 
-Kaeru is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at Es Secret, Barcelona on Wed, 5 Aug 2026.
+Kaeru is a House and Deep House artist with 2 upcoming club dates listed on soundcheck as of Wed, 29 Jul 2026, next at Es Secret, Barcelona on Wed, 5 Aug 2026.
 
-Kaeru is a house and deep house artist based in Spain, tracked on soundcheck, with 54 sets logged across Amsterdam, Barcelona and Madrid. Often billed alongside Juarez, Gee Beat and Abas. Next up: Es Secret, Barcelona on Wed 5 Aug.
+Kaeru is a house and deep house artist based in Spain, tracked on soundcheck, with 55 sets logged across Amsterdam, Barcelona and Madrid. Often billed alongside Juarez, Gee Beat and Abas. Next up: Es Secret, Barcelona on Wed 5 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Wed, 5 Aug 2026 | Es Secret | Barcelona |
+| Sat, 15 Aug 2026 | BUS Hexperience | Barcelona |
 
 ## Recently played
 

@@ -13,7 +13,7 @@ The Model is a music venue in Nottingham listed on soundcheck. 8 upcoming nights
 | Sat, 8 Aug 2026 | Technolectrohouse: Dj WorldWide + L4!NE (FREE ENTRY) | dj come |
 | Fri, 14 Aug 2026 | Boundary Keys x The Lunar Snail Affair | Dylan Whicher, Markos (2) |
 | Sat, 15 Aug 2026 | The Witching Hours w/ Evil Woman, Alex Bong + Kit Fuzz | Evil Woman, Kit Bodine |
-| Fri, 21 Aug 2026 | DJ CLIP presents 'a sound place for sound' |  |
+| Fri, 21 Aug 2026 | A Sound Place For Sound |  |
 | Sat, 22 Aug 2026 | klub mush | Mush Love (UK) |
 | Fri, 18 Sept 2026 | Kylie Wears Berghaus (Nottingham Debut) | Kylie Wears Berghaus |
 

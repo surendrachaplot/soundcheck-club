@@ -1,13 +1,14 @@
 # The END Istanbul
 
-The END Istanbul is a music venue in Istanbul with 1 upcoming night listed on soundcheck as of Wed, 29 Jul 2026; the next is "15 August theend Istanbul  Thousand Fingers London" on Sat, 15 Aug 2026.
+The END Istanbul is a music venue in Istanbul with 2 upcoming nights listed on soundcheck as of Wed, 29 Jul 2026; the next is "Afterhours @The End" on Wed, 29 Jul 2026.
 
-The END Istanbul is a music venue in Istanbul listed on soundcheck. 1 upcoming night, with line-ups including Thousand Fingers. Browse upcoming dates, start times and who's playing. Küçükbayram sok. no:7/ BEYOĞLU İSTANBUL.
+The END Istanbul is a music venue in Istanbul listed on soundcheck. 2 upcoming nights, with line-ups including Tamer Hamza and Thousand Fingers. Browse upcoming dates, start times and who's playing. Küçükbayram sok. no:7/ BEYOĞLU İSTANBUL.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
+| Wed, 29 Jul 2026 | Afterhours @The End | Tamer Hamza |
 | Sat, 15 Aug 2026 | 15 August theend Istanbul  Thousand Fingers London | Thousand Fingers |
 
 ## Address

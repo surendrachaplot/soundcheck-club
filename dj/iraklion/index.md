@@ -1,13 +1,14 @@
 # Iraklion
 
-Iraklion is a Techno and Acid artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at Club Phoenix - Gianpula Village, Malta on Sat, 5 Sept 2026.
+Iraklion is a Techno and Acid artist with 2 upcoming club dates listed on soundcheck as of Wed, 29 Jul 2026, next at Meteor Studio, Tbilisi on Fri, 31 Jul 2026.
 
-Iraklion is a techno and acid artist based in Georgia, tracked on soundcheck, with 4 sets logged across Malta and Tbilisi. Often billed alongside Clinical Hates, AEREA and Ani Kvirkvelia. Next up: Club Phoenix - Gianpula Village, Malta on Sat 5 Sept.
+Iraklion is a techno and acid artist based in Georgia, tracked on soundcheck, with 5 sets logged across Malta and Tbilisi. Often billed alongside Clinical Hates, AEREA and Ani Kvirkvelia. Next up: Meteor Studio, Tbilisi on Fri 31 Jul.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 31 Jul 2026 | Meteor Studio | Tbilisi |
 | Sat, 5 Sept 2026 | Club Phoenix - Gianpula Village | Malta |
 
 ## Recently played

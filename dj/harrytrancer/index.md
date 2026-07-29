@@ -2,7 +2,7 @@
 
 Harry Trancer is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at Le Red Room, Montreal on Fri, 31 Jul 2026.
 
-Harry Trancer is a house and tech house artist based in Canada, tracked on soundcheck, with 4 sets logged across Montreal. Often billed alongside AYMÉ and Walji. Next up: Le Red Room, Montreal on Fri 31 Jul.
+Harry Trancer is a house and tech house artist based in Canada, tracked on soundcheck, with 4 sets logged across Montreal. Often billed alongside AYMÉ, Walji and Anomia. Next up: Le Red Room, Montreal on Fri 31 Jul.
 
 ## Upcoming shows
 
@@ -18,6 +18,6 @@ Harry Trancer is a house and tech house artist based in Canada, tracked on sound
 
 ## Shares bills with
 
-AYMÉ, Walji
+AYMÉ, Walji, Anomia
 
 *Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/harrytrancer/)*

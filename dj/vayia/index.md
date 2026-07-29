@@ -1,8 +1,8 @@
 # Vayia
 
-Vayia is a House and Techno artist with 5 upcoming club dates listed on soundcheck as of Wed, 29 Jul 2026, next at Jardins Gamelin, Montreal on Thu, 6 Aug 2026.
+Vayia is a House and Techno artist with 6 upcoming club dates listed on soundcheck as of Wed, 29 Jul 2026, next at Jardins Gamelin, Montreal on Thu, 6 Aug 2026.
 
-Vayia is a house and techno artist based in Canada, tracked on soundcheck, with 26 sets logged across Montreal. Often billed alongside Andrea de Tour, Queenie Jr and DJ Cinéma Quartier Latin. Next up: Jardins Gamelin, Montreal on Thu 6 Aug.
+Vayia is a house and techno artist based in Canada, tracked on soundcheck, with 27 sets logged across Montreal. Often billed alongside Andrea de Tour, Queenie Jr and DJ Cinéma Quartier Latin. Next up: Jardins Gamelin, Montreal on Thu 6 Aug.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Vayia is a house and techno artist based in Canada, tracked on soundcheck, with 
 | --- | --- | --- |
 | Thu, 6 Aug 2026 | Jardins Gamelin | Montreal |
 | Thu, 13 Aug 2026 | Bar Datcha | Montreal |
+| Fri, 21 Aug 2026 | Salon Daomé | Montreal |
 | Sat, 22 Aug 2026 | Le Livart | Montreal |
 | Fri, 28 Aug 2026 | Système | Montreal |
 | Sat, 12 Sept 2026 | Société des arts technologiques | Montreal |

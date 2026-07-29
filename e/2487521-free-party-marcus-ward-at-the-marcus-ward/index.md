@@ -1,6 +1,6 @@
 # Free Party - Marcus Ward at The Marcus Ward
 
-Free Party - Marcus Ward at The Marcus Ward on Sat 1 Aug, Belfast. 7 acts on the bill: Casual, CLERK., GUZZ. and HUTS and 3 more. Techno. Preview the line-up and save it on soundcheck.
+Free Party - Marcus Ward at The Marcus Ward on Sat 1 Aug, Belfast. 8 acts on the bill: Casual, CLERK., GUZZ. and HUTS and 4 more. Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -15,6 +15,7 @@ Free Party - Marcus Ward at The Marcus Ward on Sat 1 Aug, Belfast. 7 acts on the
 - GUZZ.
 - HUTS
 - KACPER
+- Mosaic DJs
 - Skellyoz
 - YARIS (2)
 

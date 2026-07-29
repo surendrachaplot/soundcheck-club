@@ -1,6 +1,6 @@
 # local.global presents: J GADGET at TBA - Secret Location
 
-local.global presents: J GADGET at TBA - Secret Location on Fri 31 Jul, Toronto. 3 acts on the bill: Adeo!a, Hangaelle and ISA.. Amapiano and Afro House. Preview the line-up and save it on soundcheck.
+local.global presents: J GADGET at TBA - Secret Location on Fri 31 Jul, Toronto. 4 acts on the bill: Adeo!a, ADEOLA, Hangaelle and ISA.. Amapiano and Afro House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -11,6 +11,7 @@ local.global presents: J GADGET at TBA - Secret Location on Fri 31 Jul, Toronto.
 ## Line-up
 
 - Adeo!a
+- ADEOLA
 - Hangaelle
 - ISA.
 

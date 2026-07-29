@@ -14,7 +14,7 @@ Setlist @ Somerset House is a music venue in London listed on soundcheck. 19 upc
 | Fri, 7 Aug 2026 | R&B FUNKY HOUSE NIGHT presents DJ Pied Piper | Pied Piper |
 | Sat, 8 Aug 2026 | SETLIFE presents Via Seri (VERI NECESSARI) | European 305, Leeda, Nésa Thea, OneThabs, S FLY, Via Seri |
 | Fri, 14 Aug 2026 | R&B AND FUNKY HOUSE NIGHT presents DJ STICKY |  |
-| Sat, 15 Aug 2026 | SETLIFE presents AFRO B |  |
+| Sat, 15 Aug 2026 | SETLIFE presents AFRO B | mastaque |
 | Sat, 15 Aug 2026 | SUMMER BBQ SESSIONS: Setlist London |  |
 | Fri, 21 Aug 2026 | R&B AND FUNKY HOUSE NIGHT presents INVASION CREW |  |
 | Sat, 22 Aug 2026 | R'n'B LDN Summer Day Party, SOMERSET HOUSE SETLIST |  |

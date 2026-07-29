@@ -1,14 +1,15 @@
 # Flits
 
-Flits is a Techno and Trance artist with 2 upcoming club dates listed on soundcheck as of Wed, 29 Jul 2026, next at Lokschuppen Berlin, Berlin on Sat, 8 Aug 2026.
+Flits is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Wed, 29 Jul 2026, next at Lokschuppen Berlin, Berlin on Sat, 8 Aug 2026.
 
-Flits is a techno and trance artist based in Netherlands, tracked on soundcheck, with 58 sets logged across Amsterdam, Berlin, Brussels and Cologne and 11 more. Often billed alongside Beau Didier, Isaiah (NL) and Lasse. Next up: Lokschuppen Berlin, Berlin on Sat 8 Aug.
+Flits is a techno and house artist based in Netherlands, tracked on soundcheck, with 59 sets logged across Amsterdam, Berlin, Brussels and Cologne and 11 more. Often billed alongside Beau Didier, Isaiah (NL) and Lasse. Next up: Lokschuppen Berlin, Berlin on Sat 8 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 8 Aug 2026 | Lokschuppen Berlin | Berlin |
+| Sat, 5 Sept 2026 | RADION | Amsterdam |
 | Thu, 22 Oct 2026 | RADION | Amsterdam |
 
 ## Recently played

@@ -10,7 +10,7 @@ M.O.T is a music venue in London listed on soundcheck. 29 upcoming nights, with 
 | --- | --- | --- |
 | Thu, 30 Jul 2026 | TECHNO IN LONDON - OPEN DECKS & SOCIAL - 1 YEAR BDAY   |  |
 | Fri, 31 Jul 2026 | guEst. invites 07050, SP:MC, Coza B2B Pent1, Raina + more | SP:MC |
-| Fri, 31 Jul 2026 | jungyals and gays PRESENTS: SOUND SANCTUARY FUNDRAISER | Achiya, MICKY XOV |
+| Fri, 31 Jul 2026 | [CANCELLED] jungyals and gays PRESENTS: SOUND SANCTUARY FUNDRAISER | Achiya, MICKY XOV |
 | Sat, 1 Aug 2026 | grounded *SUMMER MELT* w. Dual Monitor, Wordcolour, Delay Grounds, ohmydais | Delay Grounds, Djuar, Dual Monitor, Paul McManamon, Wordcolour, carmen (7), ohmydais |
 | Sat, 1 Aug 2026 | BLUE MOON | Auntie Klockwise, Deejay Nye, Stella Z, TIRTA, Vince Lam, ŌKAMI |
 | Sun, 2 Aug 2026 | 160 Unity Open Air: DJ Spinn & Jana Rush | BOMBO, Big Dope P, CRAIC DAVID, DJ Spinn, Jana Rush, Seb (Tropical Waste), Teddy Kitano, sohotsospicy |

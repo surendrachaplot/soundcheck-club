@@ -1,14 +1,14 @@
 # SuperCLAUD
 
-SuperCLAUD is a Techno and Deep House artist with 2 upcoming club dates listed on soundcheck as of Wed, 29 Jul 2026, next at TBA - Various Venues, Brighton on Sat, 1 Aug 2026.
+SuperCLAUD is a Techno and Deep House artist with 2 upcoming club dates listed on soundcheck as of Wed, 29 Jul 2026, next at Tide Nightclub, Brighton on Sat, 1 Aug 2026.
 
-SuperCLAUD is a techno and deep house artist tracked on soundcheck, with 9 sets logged across Brighton and London. Often billed alongside Ross Harper, Gosia and Koipinoxia. Next up: TBA - Various Venues, Brighton on Sat 1 Aug.
+SuperCLAUD is a techno and deep house artist tracked on soundcheck, with 9 sets logged across Brighton and London. Often billed alongside Ross Harper, Gosia and Koipinoxia. Next up: Tide Nightclub, Brighton on Sat 1 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 1 Aug 2026 | TBA - Various Venues | Brighton |
+| Sat, 1 Aug 2026 | Tide Nightclub | Brighton |
 | Sat, 1 Aug 2026 | Hare & Hounds | Brighton |
 
 ## Recently played

@@ -1,13 +1,14 @@
 # Chee Shimizu
 
-Chee Shimizu is a House and Balearic artist with 2 upcoming club dates listed on soundcheck as of Wed, 29 Jul 2026, next at Potato Head Beach Club, Bali on Fri, 21 Aug 2026.
+Chee Shimizu is a House and Balearic artist with 3 upcoming club dates listed on soundcheck as of Wed, 29 Jul 2026, next at SHeLTeR, Tokyo on Fri, 14 Aug 2026.
 
-Chee Shimizu is a house and balearic artist based in Japan, tracked on soundcheck, with 29 sets logged across Bali, Losangeles, Melbourne and Newyorkcity and 2 more. Often billed alongside AKIRAM EN, Justin Carter and Eamon Harkin. Next up: Potato Head Beach Club, Bali on Fri 21 Aug.
+Chee Shimizu is a house and balearic artist based in Japan, tracked on soundcheck, with 30 sets logged across Bali, Losangeles, Melbourne and Newyorkcity and 2 more. Often billed alongside AKIRAM EN, Justin Carter and Eamon Harkin. Next up: SHeLTeR, Tokyo on Fri 14 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 14 Aug 2026 | SHeLTeR | Tokyo |
 | Fri, 21 Aug 2026 | Potato Head Beach Club | Bali |
 | Fri, 18 Sept 2026 | Fort Mifflin | Philadelphia |
 

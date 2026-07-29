@@ -1,8 +1,8 @@
 # Nicolas Lutz
 
-Nicolas Lutz is a Techno and House artist with 9 upcoming club dates listed on soundcheck as of Wed, 29 Jul 2026, next at Amsterdamse Bos, Amsterdam on Wed, 29 Jul 2026.
+Nicolas Lutz is a Techno and House artist with 10 upcoming club dates listed on soundcheck as of Wed, 29 Jul 2026, next at Amsterdamse Bos, Amsterdam on Wed, 29 Jul 2026.
 
-Nicolas Lutz is a techno and house artist tracked on soundcheck, with 157 sets logged across Amsterdam, Barcelona, Belgrade and Berlin and 38 more. Often billed alongside Binh, DJ Masda and Craig Richards. Next up: Amsterdamse Bos, Amsterdam on Wed 29 Jul.
+Nicolas Lutz is a techno and house artist tracked on soundcheck, with 158 sets logged across Amsterdam, Barcelona, Belgrade and Berlin and 38 more. Often billed alongside Binh, DJ Masda and Craig Richards. Next up: Amsterdamse Bos, Amsterdam on Wed 29 Jul.
 
 ## Upcoming shows
 
@@ -13,6 +13,7 @@ Nicolas Lutz is a techno and house artist tracked on soundcheck, with 157 sets l
 | Sun, 2 Aug 2026 | ISOamsterdam | Amsterdam |
 | Mon, 3 Aug 2026 | DC-10 | Ibiza |
 | Sat, 15 Aug 2026 | Sophie Festival | Malaga |
+| Sat, 29 Aug 2026 | Platforma Wolff | Bucharest |
 | Sun, 30 Aug 2026 | Sonnenraum | Berlin |
 | Sat, 12 Sept 2026 | Bunker | Turin |
 | Fri, 18 Sept 2026 | Les Enfants Brillants | Barcelona |

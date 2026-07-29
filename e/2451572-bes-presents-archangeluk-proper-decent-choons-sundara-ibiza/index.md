@@ -1,6 +1,6 @@
 # BES presents: ArchangelUK & Proper Decent Choons @ Sundara Ibiza at Sundara Club
 
-BES presents: ArchangelUK & Proper Decent Choons @ Sundara Ibiza at Sundara Club on Sat 15 Aug, Ibiza. 3 acts on the bill: Chrisy Stebbeds, Nathassia and YELLODY. House and Balearic. Preview the line-up and save it on soundcheck.
+BES presents: ArchangelUK & Proper Decent Choons @ Sundara Ibiza at Sundara Club on Sat 15 Aug, Ibiza. 5 acts on the bill: Chrissy Meraki, Chrisy Stebbeds, Mr. Root and Nathassia and 1 more. Progressive House and House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,7 +10,9 @@ BES presents: ArchangelUK & Proper Decent Choons @ Sundara Ibiza at Sundara Club
 
 ## Line-up
 
+- Chrissy Meraki
 - Chrisy Stebbeds
+- Mr. Root
 - Nathassia
 - YELLODY
 

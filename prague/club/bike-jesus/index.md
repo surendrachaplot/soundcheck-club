@@ -12,7 +12,7 @@ Bike Jesus is a music venue in Prague listed on soundcheck. 5 upcoming nights, w
 | Fri, 31 Jul 2026 | OUTDOOR + INDOOR Part Time Locals REVOLUTION | Farahdiba, Harry Wills, KAWA, Rory Cochrane, Sam Gittis |
 | Sat, 1 Aug 2026 | LYRA with Axel Boman | ANĪC, Axel Boman, Dona, Mike.H, Ondrej Husak, Roman Rai, Silhouette, Theo (8), Täino, Unjack* |
 | Fri, 7 Aug 2026 | Queeriety Pride | Big Lil, Fembot, Kewu, LuLu (CZ), PRDELANZA, exegesis |
-| Fri, 18 Sept 2026 | Season opener: Fuchs2 x Bike Jesus | Alfred Czital, DC Salas, DDK (1), Dash (CZ), LULU (1), Midirama, Misha Jaru, Miss Univers, Perc, SJ Yellow, TRANSmisia, Zuzana Hakl, domizako, mʊdʌki |
+| Fri, 18 Sept 2026 | SEASON OPENING: Fuchs2 x Bike Jesus | Alfred Czital, DC Salas, DDK (1), Dash (CZ), LULU (1), Midirama, Misha Jaru, Miss Univers, Perc, SJ Yellow, TRANSmisia, Zuzana Hakl, domizako, mʊdʌki |
 
 ## Address
 

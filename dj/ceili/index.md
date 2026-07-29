@@ -9,7 +9,7 @@ Ceili is a techno and house artist based in Ireland, tracked on soundcheck, with
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 1 Aug 2026 | TBA - Warschauer Pl. 18, 10245 Berlin | Berlin |
-| Sat, 8 Aug 2026 | TBA | Berlin |
+| Sat, 8 Aug 2026 | TBA - Neukolln. 52.47736265617827, 13.4592885932799 | Berlin |
 
 ## Recently played
 

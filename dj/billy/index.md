@@ -1,8 +1,8 @@
 # BILLY
 
-BILLY is a Techno and Trance artist with 2 upcoming club dates listed on soundcheck as of Wed, 29 Jul 2026, next at Club Vaag, Antwerp on Fri, 31 Jul 2026.
+BILLY is a Techno and Trance artist with 3 upcoming club dates listed on soundcheck as of Wed, 29 Jul 2026, next at Club Vaag, Antwerp on Fri, 31 Jul 2026.
 
-BILLY is a techno and trance artist based in Peru, tracked on soundcheck, with 19 sets logged across Antwerp, Barcelona, Brussels and Ghent and 3 more. Often billed alongside Skeletor Yogi, Mario Ignacio and Martin Nait. Next up: Club Vaag, Antwerp on Fri 31 Jul.
+BILLY is a techno and trance artist based in Peru, tracked on soundcheck, with 20 sets logged across Antwerp, Barcelona, Brussels and Ghent and 3 more. Often billed alongside Skeletor Yogi, Mario Ignacio and Martin Nait. Next up: Club Vaag, Antwerp on Fri 31 Jul.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ BILLY is a techno and trance artist based in Peru, tracked on soundcheck, with 1
 | --- | --- | --- |
 | Fri, 31 Jul 2026 | Club Vaag | Antwerp |
 | Sat, 1 Aug 2026 | Circle Park | Brussels |
+| Thu, 20 Aug 2026 | SHeLTeR | Tokyo |
 
 ## Recently played
 

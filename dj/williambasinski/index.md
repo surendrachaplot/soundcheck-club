@@ -9,7 +9,7 @@ William Basinski is an ambient and experimental artist based in United States of
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 22 Aug 2026 | Royal Exhibition Building | Melbourne |
-| Thu, 17 Sept 2026 | TBA - Several venues in Basel | Basel |
+| Thu, 17 Sept 2026 | Kaserne Basel | Basel |
 | Sat, 19 Sept 2026 | Teatar 78 | Belgrade |
 
 ## Recently played

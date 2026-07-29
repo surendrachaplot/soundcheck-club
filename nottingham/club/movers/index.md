@@ -9,7 +9,7 @@ Movers is a music venue in Nottingham listed on soundcheck. 13 upcoming nights, 
 | Date | Night | Line-up |
 | --- | --- | --- |
 | Thu, 30 Jul 2026 | Cocktails Night: 241 + DJ Sets |  |
-| Fri, 31 Jul 2026 | Dunya |  |
+| Fri, 31 Jul 2026 | Dunya: UKG, Rap & Soul-ful House |  |
 | Sat, 1 Aug 2026 | Ordinary People: Jazz & Deep House |  |
 | Thu, 6 Aug 2026 | Tipcap presents Showcase: Live & DJs - Math Rock Night  |  |
 | Fri, 7 Aug 2026 | Lost in Detroit - Sounds from the Motor City w/ Beane |  |

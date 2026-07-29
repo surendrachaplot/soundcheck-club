@@ -1,13 +1,14 @@
 # Highkin'
 
-Highkin' is a House and Minimal artist with 2 upcoming club dates listed on soundcheck as of Wed, 29 Jul 2026, next at TBA - DTLA, Los Angeles on Fri, 14 Aug 2026.
+Highkin' is a House and Minimal artist with 3 upcoming club dates listed on soundcheck as of Wed, 29 Jul 2026, next at Paraiso Estereo, Miami on Sat, 8 Aug 2026.
 
-Highkin' is a house and minimal artist based in Russia, tracked on soundcheck, with 49 sets logged across Austin, Losangeles, Miami and Newyorkcity and 2 more. Often billed alongside Krane, PabloDiscobar and Dylan Payne. Next up: TBA - DTLA, Losangeles on Fri 14 Aug.
+Highkin' is a house and minimal artist based in Russia, tracked on soundcheck, with 50 sets logged across Austin, Losangeles, Miami and Newyorkcity and 2 more. Often billed alongside Krane, PabloDiscobar and Dylan Payne. Next up: Paraiso Estereo, Miami on Sat 8 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 8 Aug 2026 | Paraiso Estereo | Miami |
 | Fri, 14 Aug 2026 | TBA - DTLA | Los Angeles |
 | Sat, 15 Aug 2026 | Public Works | San Francisco/Oakland |
 

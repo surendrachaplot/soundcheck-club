@@ -1,8 +1,8 @@
 # Traumer
 
-Traumer is a House and Techno artist with 20 upcoming club dates listed on soundcheck as of Wed, 29 Jul 2026, next at TBA - Camp Summerdaze Montreal, Montreal on Thu, 30 Jul 2026.
+Traumer is a House and Techno artist with 21 upcoming club dates listed on soundcheck as of Wed, 29 Jul 2026, next at TBA - Camp Summerdaze Montreal, Montreal on Thu, 30 Jul 2026.
 
-Traumer is a house and techno artist tracked on soundcheck, with 299 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 65 more. Often billed alongside Enzo Siragusa, Shonky and Apollonia. Next up: TBA - Camp Summerdaze Montreal, Montreal on Thu 30 Jul.
+Traumer is a house and techno artist tracked on soundcheck, with 300 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 65 more. Often billed alongside Enzo Siragusa, Shonky and Apollonia. Next up: TBA - Camp Summerdaze Montreal, Montreal on Thu 30 Jul.
 
 ## Upcoming shows
 
@@ -17,9 +17,9 @@ Traumer is a house and techno artist tracked on soundcheck, with 299 sets logged
 | Tue, 18 Aug 2026 | Amnesia Ibiza | Ibiza |
 | Fri, 21 Aug 2026 | Santanna Mykonos | Mykonos |
 | Sat, 29 Aug 2026 | Kelvedon Hall | London |
+| Sat, 29 Aug 2026 | Maya Beach Experience | Naples |
 | Wed, 2 Sept 2026 | [UNVRS] | Ibiza |
 | Fri, 4 Sept 2026 | Union Park | Chicago |
-| Fri, 4 Sept 2026 | H0L0 | New York City |
 
 ## Recently played
 

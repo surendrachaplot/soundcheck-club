@@ -1,6 +1,6 @@
 # 11 years Special-K at Spook Club
 
-11 years Special-K at Spook Club on Sat 26 Sept, Valencia. 7 acts on the bill: Ines Cartas, Pizzicatto, Silverlining and Sueezo and 3 more. Deep House and Minimal Techno. Preview the line-up and save it on soundcheck.
+11 years Special-K at Spook Club on Sat 26 Sept, Valencia. 8 acts on the bill: Fran.cis, Ines Cartas, Pizzicatto and Silverlining and 4 more. Deep House and Minimal Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,6 +10,7 @@
 
 ## Line-up
 
+- Fran.cis
 - Ines Cartas
 - Pizzicatto
 - Silverlining

@@ -14,7 +14,7 @@ Rhythm is a music venue in Toronto listed on soundcheck. 8 upcoming nights, with
 | Fri, 14 Aug 2026 | r.hythmik invites: TBA |  |
 | Sat, 15 Aug 2026 | Kaleidoscope presents: Scan 7 - Antwon Faulkner - Marivs - AUX_ID | AUX_ID, Antwon Faulkner, Marivs, Scan 7 |
 | Sat, 22 Aug 2026 | FORMAT x BODYSHOP: Dimi Angelis / Measure Divide / Trailcam / Daragma | Daragma, Dimi Angelis, Measure Divide, Trailcam |
-| Fri, 28 Aug 2026 | Open House 8 | Art Behaviour, CZYN, FriendofaFriend, Loch, MEDDRY, Mrii |
+| Fri, 28 Aug 2026 | Open House 8 | Art Behaviour, CZYN, Dargan, FriendofaFriend, Loch, MEDDRY, Mrii |
 | Sat, 29 Aug 2026 | Rhythm Open Air After Party: Minimal & Tech House |  |
 
 ## Address

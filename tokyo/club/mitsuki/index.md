@@ -1,8 +1,8 @@
 # Mitsuki
 
-Mitsuki is a music venue in Tokyo with 11 upcoming nights listed on soundcheck as of Wed, 29 Jul 2026; the next is "OG Militant B/YELLOWUHURU/yodel/Akim/PIYO BAKE" on Wed, 29 Jul 2026.
+Mitsuki is a music venue in Tokyo with 12 upcoming nights listed on soundcheck as of Wed, 29 Jul 2026; the next is "OG Militant B/YELLOWUHURU/yodel/Akim/PIYO BAKE" on Wed, 29 Jul 2026.
 
-Mitsuki is a music venue in Tokyo listed on soundcheck. 11 upcoming nights, with line-ups including 7e, DJ Garth, Dr. Nishimura and In Ray and 2 more. Browse upcoming dates, start times and who's playing. 1-22-12, Dogenzaka, Shibuya-Ku, Tokyo, 150-0043, Japan.
+Mitsuki is a music venue in Tokyo listed on soundcheck. 12 upcoming nights, with line-ups including 7e, DJ Garth, Dr. Nishimura and In Ray and 2 more. Browse upcoming dates, start times and who's playing. 1-22-12, Dogenzaka, Shibuya-Ku, Tokyo, 150-0043, Japan.
 
 ## What's on
 

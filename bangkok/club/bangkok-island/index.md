@@ -9,13 +9,13 @@ Bangkok Island is a music venue in Bangkok listed on soundcheck. 8 upcoming nigh
 | Date | Night | Line-up |
 | --- | --- | --- |
 | Wed, 29 Jul 2026 | DJ COMMUNITY & PRODUCERS WORKSHOP - 29/07 |  |
+| Thu, 30 Jul 2026 | PlayGround |  |
 | Fri, 31 Jul 2026 | dawn of the dad 31 July |  |
 | Sat, 1 Aug 2026 | Bangkok Techno Boat Party x 2 Stages - SameSoul Takeover BKK Island |  |
 | Sun, 2 Aug 2026 | Geek Island - Lord of The Ring |  |
 | Sun, 2 Aug 2026 | Latin Fever on The Boat |  |
 | Fri, 7 Aug 2026 | Girls On Deck |  |
 | Fri, 7 Aug 2026 | scheizer, SightingArksebt & Diana Swing |  |
-| Sun, 30 Aug 2026 | PlayGround |  |
 
 ## Address
 

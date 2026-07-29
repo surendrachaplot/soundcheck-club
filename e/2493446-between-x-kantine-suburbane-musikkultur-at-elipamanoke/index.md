@@ -1,6 +1,6 @@
 # between x KANTINE Suburbane Musikkultur at elipamanoke
 
-between x KANTINE Suburbane Musikkultur at elipamanoke on Wed 5 Aug, Leipzig. 2 acts on the bill: OutWithJane and T.Schaui. Techno and House. Preview the line-up and save it on soundcheck.
+between x KANTINE Suburbane Musikkultur at elipamanoke on Wed 5 Aug, Leipzig. 3 acts on the bill: Kalpea, OutWithJane and T.Schaui. Techno and House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,6 +10,7 @@ between x KANTINE Suburbane Musikkultur at elipamanoke on Wed 5 Aug, Leipzig. 2 
 
 ## Line-up
 
+- Kalpea
 - OutWithJane
 - T.Schaui
 

@@ -1,6 +1,6 @@
-# SIGHT & Sinner pres. Claptone, Alexander Som, Luka Kuhnow, VITE b2b MIGANOVA at Ku Barcelona
+# SIGHT & Sinner pres. Claptone, Alexander Som, Luka Kuhnow, VITE b2b MIGANOVA, Tomi&Kesh at Ku Barcelona
 
-SIGHT & Sinner pres. Claptone, Alexander Som, Luka Kuhnow, VITE b2b MIGANOVA at Ku Barcelona on Sun 2 Aug, Barcelona. 3 acts on the bill: Claptone, MIGANOVA and VITE. House and Tech House. Preview the line-up and save it on soundcheck.
+SIGHT & Sinner pres. Claptone, Alexander Som, Luka Kuhnow, VITE b2b MIGANOVA, Tomi&Kesh at Ku Barcelona on Sun 2 Aug, Barcelona. 3 acts on the bill: Claptone, MIGANOVA and VITE. House and Tech House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

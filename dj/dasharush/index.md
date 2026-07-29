@@ -11,7 +11,7 @@ Dasha Rush is a techno and house artist tracked on soundcheck, with 153 sets log
 | Wed, 29 Jul 2026 | Amsterdamse Bos | Amsterdam |
 | Sat, 1 Aug 2026 | Amsterdamse Bos | Amsterdam |
 | Sat, 15 Aug 2026 | Razzmatazz | Barcelona |
-| Thu, 17 Sept 2026 | TBA - Several venues in Basel | Basel |
+| Thu, 17 Sept 2026 | Kaserne Basel | Basel |
 | Sat, 3 Oct 2026 | fabric | London |
 | Fri, 23 Oct 2026 | CLUB RAUM | Amsterdam |
 | Fri, 23 Oct 2026 | Melkweg | Amsterdam |

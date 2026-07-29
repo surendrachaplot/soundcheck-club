@@ -10,7 +10,7 @@ OST is a music venue in Berlin listed on soundcheck. 20 upcoming nights, with li
 | --- | --- | --- |
 | Thu, 30 Jul 2026 | Savory - Techno Every Thursday | CARGO, CARGO (DE), WAN.1, sellycious |
 | Fri, 31 Jul 2026 | OST Klubnacht | M4RY, The Kiss, Viscerale |
-| Sat, 1 Aug 2026 | OST Klubnacht | ZELIA |
+| Sat, 1 Aug 2026 | OST Klubnacht | FLACCO, ZELIA |
 | Fri, 7 Aug 2026 | Blasphemy w. Vieze Asbak, Neek, SaltySis, Elen Payne | DTEXX, Elen Payne, JUNO (3), SaltySis, Vieze Asbak |
 | Sat, 8 Aug 2026 | OST Klubnacht | Keyklau, WAN.1 |
 | Fri, 14 Aug 2026 | OST Klubnacht |  |

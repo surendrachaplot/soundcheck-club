@@ -1,6 +1,6 @@
 # Once upon a time at Fundbureau
 
-Once upon a time at Fundbureau on Fri 11 Sept, Hamburg. 8 acts on the bill: 3LEEZA, e.leptic, HANÀ and Linh (2) and 4 more. Trance and Techno. Preview the line-up and save it on soundcheck.
+Once upon a time at Fundbureau on Fri 11 Sept, Hamburg. 9 acts on the bill: 3LEEZA, e.leptic, HANÀ and Linh (2) and 5 more. Trance and Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -16,6 +16,7 @@ Once upon a time at Fundbureau on Fri 11 Sept, Hamburg. 8 acts on the bill: 3LEE
 - Linh (2)
 - sabenzzzo
 - SPORTMANN
+- Tariel
 - TWOFACEDKIMMY
 - vibemeister
 

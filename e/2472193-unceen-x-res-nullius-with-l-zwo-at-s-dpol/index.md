@@ -1,6 +1,6 @@
 # unceen x Res Nullius with L.zwo at Südpol
 
-unceen x Res Nullius with L.zwo at Südpol on Fri 21 Aug, Hamburg. 10 acts on the bill: Ani con Gas, Arlo Bell, BREITBAND and Charleen Herzig and 6 more. Trance and House. Preview the line-up and save it on soundcheck.
+unceen x Res Nullius with L.zwo at Südpol on Fri 21 Aug, Hamburg. 11 acts on the bill: Ani con Gas, Arlo Bell, BREITBAND and Charleen Herzig and 7 more. Trance and House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -18,6 +18,7 @@ unceen x Res Nullius with L.zwo at Südpol on Fri 21 Aug, Hamburg. 10 acts on th
 - L.zwo
 - Limoncello
 - LMTwo
+- SunnDior
 - Taskä
 - WAYRA
 

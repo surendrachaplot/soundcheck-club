@@ -1,6 +1,6 @@
 # Paradox Nexus: mark shadow - Thursdays at Gallery at Gallery
 
-Paradox Nexus: mark shadow - Thursdays at Gallery on Thu 30 Jul, London. 2 acts on the bill: Grittrip and mark shadow. Tech House and Deep House. Preview the line-up and save it on soundcheck.
+Paradox Nexus: mark shadow - Thursdays at Gallery on Thu 30 Jul, London. 3 acts on the bill: Grittrip, mark shadow and SØLEIL. Tech House and Deep House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -12,5 +12,6 @@ Paradox Nexus: mark shadow - Thursdays at Gallery on Thu 30 Jul, London. 2 acts 
 
 - Grittrip
 - mark shadow
+- SØLEIL
 
 *Source: [soundcheck](https://soundcheck.club/e/2472329-paradox-nexus-mark-shadow-thursdays-at-gallery-at-gallery/)*

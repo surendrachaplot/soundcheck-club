@@ -2,7 +2,7 @@
 
 Noisy Shaun is a Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at Akhnaton, Amsterdam on Wed, 21 Oct 2026.
 
-Noisy Shaun is a techno artist based in United Kingdom, tracked on soundcheck, with 2 sets logged across Amsterdam and Utrecht. Often billed alongside DJ Perroz, Rein (NL) and RobertS (NL). Next up: Akhnaton, Amsterdam on Wed 21 Oct.
+Noisy Shaun is a techno artist based in United Kingdom, tracked on soundcheck, with 2 sets logged across Amsterdam and Utrecht. Often billed alongside BALAI, DJ Perroz and Rein (NL). Next up: Akhnaton, Amsterdam on Wed 21 Oct.
 
 ## Upcoming shows
 
@@ -16,6 +16,6 @@ Noisy Shaun is a techno artist based in United Kingdom, tracked on soundcheck, w
 
 ## Shares bills with
 
-DJ Perroz, Rein (NL), RobertS (NL)
+BALAI, DJ Perroz, Rein (NL)
 
 *Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/noisyshaun/)*

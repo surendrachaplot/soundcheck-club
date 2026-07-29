@@ -8,7 +8,7 @@ Hackney Bridge is a music venue in London listed on soundcheck. 4 upcoming night
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Fri, 31 Jul 2026 | Huns N' Roses: Summer Party (Raising Money for Refuge) | Huns N' Roses, RAW SILK |
+| Fri, 31 Jul 2026 | Huns N' Roses: Summer Party (Raising Money for Refuge) | Huns N' Roses, Molly Penney, RAW SILK |
 | Sat, 22 Aug 2026 | Chaos In The CBD: All Day Long | Chaos In The CBD |
 | Sat, 29 Aug 2026 | Habibi Funk & Friends — Open Air Weekender in Hackney Wick (Bank Holiday Weekend) | DAR DISKU, Habibi Funk, Jamz Supernova |
 | Sat, 26 Sept 2026 | Labyrinth presents: Reznik Open Air Extended Set | Reznik |

@@ -1,6 +1,6 @@
 # New Grass: Green Spaces at Ikii
 
-New Grass: Green Spaces at Ikii on Thu 20 Aug, Berlin. 3 acts on the bill: azul, Romi and Toxido Mask. Ambient. Preview the line-up and save it on soundcheck.
+New Grass: Green Spaces at Ikii on Thu 20 Aug, Berlin. 4 acts on the bill: azul, inbuilt obsolescence, Romi and Toxido Mask. Ambient. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -11,6 +11,7 @@ New Grass: Green Spaces at Ikii on Thu 20 Aug, Berlin. 3 acts on the bill: azul,
 ## Line-up
 
 - azul
+- inbuilt obsolescence
 - Romi
 - Toxido Mask
 

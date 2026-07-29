@@ -2,7 +2,7 @@
 
 Club NYX is a music venue in Amsterdam with 6 upcoming nights listed on soundcheck as of Wed, 29 Jul 2026; the next is "Vodka Woensdag XXL: Night of the Diva's" on Wed, 29 Jul 2026.
 
-Club NYX is a music venue in Amsterdam listed on soundcheck. 6 upcoming nights, with line-ups including Alma Negrot, cera, Dangerous Rose and Emma Champagne Queen and 2 more. Browse upcoming dates, start times and who's playing. Reguliersdwarsstraat 42, 1017BM Amsterdam.
+Club NYX is a music venue in Amsterdam listed on soundcheck. 6 upcoming nights, with line-ups including Aiscream, Alma Negrot, Babs op de beat and cera and 2 more. Browse upcoming dates, start times and who's playing. Reguliersdwarsstraat 42, 1017BM Amsterdam.
 
 ## What's on
 
@@ -10,10 +10,10 @@ Club NYX is a music venue in Amsterdam listed on soundcheck. 6 upcoming nights, 
 | --- | --- | --- |
 | Wed, 29 Jul 2026 | Vodka Woensdag XXL: Night of the Diva's | Emma Champagne Queen, Heritage Listed, Kirilski, Matt Suave, The Groovejet, cera |
 | Sat, 1 Aug 2026 | 3xNYX: PRIDE | Joan Cute Sack |
-| Sat, 8 Aug 2026 | 3xNYX: WORLD PRIDE | Dangerous Rose, Just Jane, TEKNA |
+| Sat, 8 Aug 2026 | 3xNYX: WORLD PRIDE | Dangerous Rose, Diklipdaan, Edward Meunier, Jordy Jordos, Just Jane, Kutkyle, MeRas, TEKNA |
 | Sat, 15 Aug 2026 | 3xNYX: POP-UP hosted by Prince JayJay | Alma Negrot |
 | Sat, 22 Aug 2026 | 3xNYX: Burn the House Down | Emma Champagne Queen, The Groovejet |
-| Sat, 29 Aug 2026 | 3xNYX: In the Mix | Spikey Lee, The Heartbreaks |
+| Sat, 29 Aug 2026 | 3xNYX: In the Mix | Aiscream, Babs op de beat, Joseph Steel, Mika Akela, Soulfania, Spikey Lee, The Heartbreaks |
 
 ## Address
 

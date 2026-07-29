@@ -1,6 +1,6 @@
 # Subardo Takeover @Let It Roll Festival, CZ at Let it Roll Festival @Lake Most
 
-Subardo Takeover @Let It Roll Festival, CZ at Let it Roll Festival @Lake Most on Fri 31 Jul, Prague. 9 acts on the bill: audite, Benski, Filibration and Gourski and 5 more. Drum & Bass and Dubstep. Preview the line-up and save it on soundcheck.
+Subardo Takeover @Let It Roll Festival, CZ at Let it Roll Festival @Lake Most on Fri 31 Jul, Prague. 10 acts on the bill: anotha90skid, audite, Benski and Filibration and 6 more. Drum & Bass and Dubstep. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,6 +10,7 @@ Subardo Takeover @Let It Roll Festival, CZ at Let it Roll Festival @Lake Most on
 
 ## Line-up
 
+- anotha90skid
 - audite
 - Benski
 - Filibration

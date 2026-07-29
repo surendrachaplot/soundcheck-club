@@ -1,6 +1,6 @@
 # Club der Visionaere
 
-Club der Visionaere is a music venue in Berlin with 15 upcoming nights listed on soundcheck as of Wed, 29 Jul 2026; the next is "Elevate Records Birthday Edition" on Wed, 29 Jul 2026.
+Club der Visionaere is a music venue in Berlin with 15 upcoming nights listed on soundcheck as of Wed, 29 Jul 2026; the next is "Elevate Records: Cinthie & Robert Drewek Birthday" on Wed, 29 Jul 2026.
 
 Club der Visionaere is a music venue in Berlin listed on soundcheck. 15 upcoming nights, with line-ups including Pakkadej, Alex Picone, Alien Communications and Ancut and 2 more. Browse upcoming dates, start times and who's playing. Am Flutgraben 1, 12435 Berlin, Germany.
 
@@ -8,7 +8,7 @@ Club der Visionaere is a music venue in Berlin listed on soundcheck. 15 upcoming
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Wed, 29 Jul 2026 | Elevate Records Birthday Edition | Darwin Stapel, Johannes Albert, Meat, Monika Ross, Robert Drewek |
+| Wed, 29 Jul 2026 | Elevate Records: Cinthie & Robert Drewek Birthday | Darwin Stapel, Johannes Albert, Meat, Monika Ross, Robert Drewek |
 | Thu, 30 Jul 2026 | Electric Marmalade Shake | Andrea Fiorito, Daraio, Hreno, J Gabriel, Mike Shannon, Ohm Hourani |
 | Fri, 31 Jul 2026 | Wordless | Lobanov K., Masayuki Tomita, Serenne, Timur Basha, Yone-Ko, Yuzo Iwata |
 | Sat, 1 Aug 2026 | Dropout | Gebrüder Teichmann, Jackbox, Raymond Ernst, S-max |

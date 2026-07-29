@@ -1,6 +1,6 @@
 # PHASE:ONE at Lokschuppen Berlin
 
-PHASE:ONE at Lokschuppen Berlin on Tue 4 Aug, Berlin. 2 acts on the bill: LEIA (2) and Raw Image. Techno. Preview the line-up and save it on soundcheck.
+PHASE:ONE at Lokschuppen Berlin on Tue 4 Aug, Berlin. 3 acts on the bill: LEIA (2), lisa.wav and Raw Image. Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -11,6 +11,7 @@ PHASE:ONE at Lokschuppen Berlin on Tue 4 Aug, Berlin. 2 acts on the bill: LEIA (
 ## Line-up
 
 - LEIA (2)
+- lisa.wav
 - Raw Image
 
 *Source: [soundcheck](https://soundcheck.club/e/2495934-phase-one-at-lokschuppen-berlin/)*

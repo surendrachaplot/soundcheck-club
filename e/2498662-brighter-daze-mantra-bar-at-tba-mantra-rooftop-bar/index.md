@@ -1,6 +1,6 @@
 # Brighter Daze (Mantra Bar) at TBA - Mantra Rooftop & Bar
 
-Brighter Daze (Mantra Bar) at TBA - Mantra Rooftop & Bar on Sat 1 Aug, Kualalumpur. 5 acts on the bill: Emel, JonnyVicious, LZZY and Roshan and 1 more. House and Disco. Preview the line-up and save it on soundcheck.
+Brighter Daze (Mantra Bar) at TBA - Mantra Rooftop & Bar on Sat 1 Aug, Kualalumpur. 6 acts on the bill: Emel, JonnyVicious, LZZY and Odd (MY) and 2 more. House and Disco. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -13,6 +13,7 @@ Brighter Daze (Mantra Bar) at TBA - Mantra Rooftop & Bar on Sat 1 Aug, Kualalump
 - Emel
 - JonnyVicious
 - LZZY
+- Odd (MY)
 - Roshan
 - Saint Guel
 

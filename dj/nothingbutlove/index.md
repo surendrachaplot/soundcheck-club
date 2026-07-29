@@ -2,7 +2,7 @@
 
 Nothing But Love is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Wed, 29 Jul 2026, next at Lieberscholli, Munich on Sat, 15 Aug 2026.
 
-Nothing But Love is a techno and house artist based in Germany, tracked on soundcheck, with 10 sets logged across Amsterdam and Munich. Often billed alongside Alex Volta, lisa luka and Anni Herzer. Next up: Lieberscholli, Munich on Sat 15 Aug.
+Nothing But Love is a techno and house artist based in Germany, tracked on soundcheck, with 10 sets logged across Amsterdam and Munich. Often billed alongside Alex Volta, lisa luka and Addie Manson. Next up: Lieberscholli, Munich on Sat 15 Aug.
 
 ## Upcoming shows
 
@@ -24,6 +24,6 @@ Nothing But Love is a techno and house artist based in Germany, tracked on sound
 
 ## Shares bills with
 
-Alex Volta, lisa luka, Anni Herzer
+Alex Volta, lisa luka, Addie Manson
 
 *Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/nothingbutlove/)*

@@ -1,6 +1,6 @@
 # KONVERGE Open Air with Franca, Jackyboom (UK), Miss Drift & Kon Faber (DJ) at gART.n
 
-KONVERGE Open Air with Franca, Jackyboom (UK), Miss Drift & Kon Faber (DJ) at gART.n on Sun 9 Aug, Berlin. 3 acts on the bill: Franca, Jackyboom and Kon Faber. House and Deep House. Preview the line-up and save it on soundcheck.
+KONVERGE Open Air with Franca, Jackyboom (UK), Miss Drift & Kon Faber (DJ) at gART.n on Sun 9 Aug, Berlin. 4 acts on the bill: Franca, Jackyboom, Kon Faber and Miss Drift. House and Deep House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -13,5 +13,6 @@ KONVERGE Open Air with Franca, Jackyboom (UK), Miss Drift & Kon Faber (DJ) at gA
 - Franca
 - Jackyboom
 - Kon Faber
+- Miss Drift
 
 *Source: [soundcheck](https://soundcheck.club/e/2497662-konverge-open-air-with-franca-jackyboom-uk-miss-drift-kon-fa/)*

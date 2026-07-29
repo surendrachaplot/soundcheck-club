@@ -1,6 +1,6 @@
 # Making Time ∞ at Fort Mifflin
 
-Making Time ∞ at Fort Mifflin on Fri 18 Sept, Philadelphia. 113 acts on the bill: 1morning, Alex Zhang Hungtai, Arthur (DE) and Aurora Halal and 109 more. Techno and Electronica. Preview the line-up and save it on soundcheck.
+Making Time ∞ at Fort Mifflin on Fri 18 Sept, Philadelphia. 114 acts on the bill: 1morning, Alex Zhang Hungtai, Arthur (DE) and Aurora Halal and 110 more. Techno and Electronica. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -70,6 +70,7 @@ Making Time ∞ at Fort Mifflin on Fri 18 Sept, Philadelphia. 113 acts on the bi
 - Lena Willikens
 - Loidis
 - Loradeniz
+- Los Thuthanaka
 - Luke Mele
 - Ma Sha
 - Maara

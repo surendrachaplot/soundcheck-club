@@ -1,8 +1,8 @@
 # Frankhan Selectist
 
-Frankhan Selectist is a music venue in Istanbul with 6 upcoming nights listed on soundcheck as of Wed, 29 Jul 2026; the next is "Hip Hop All Night: Club Bronda - From Street to the ((Sound Room))" on Fri, 31 Jul 2026.
+Frankhan Selectist is a music venue in Istanbul with 7 upcoming nights listed on soundcheck as of Wed, 29 Jul 2026; the next is "Hip Hop All Night: Club Bronda - From Street to the ((Sound Room))" on Fri, 31 Jul 2026.
 
-Frankhan Selectist is a music venue in Istanbul listed on soundcheck. 6 upcoming nights, with line-ups including Arpy Brown, Cody Currie, Eden Burns and GARAN GARAN and 1 more. Browse upcoming dates, start times and who's playing. Kemankeş Karamustafa Paşa, Kemankeş Cd. No:73, 34425 Beyoğlu/İstanbul.
+Frankhan Selectist is a music venue in Istanbul listed on soundcheck. 7 upcoming nights, with line-ups including Arpy Brown, Cody Currie, Crazy P and Eden Burns and 2 more. Browse upcoming dates, start times and who's playing. Kemankeş Karamustafa Paşa, Kemankeş Cd. No:73, 34425 Beyoğlu/İstanbul.
 
 ## What's on
 
@@ -14,6 +14,7 @@ Frankhan Selectist is a music venue in Istanbul listed on soundcheck. 6 upcoming
 | Sat, 8 Aug 2026 | Midnight Baklava Club: Eden Burns & GARAN GARAN | Eden Burns, GARAN GARAN |
 | Sun, 9 Aug 2026 | Block Party: Frankhan x Tavern |  |
 | Thu, 20 Aug 2026 | Conway the Machine |  |
+| Sat, 22 Aug 2026 | Are You Disco? Crazy P | Crazy P |
 
 ## Address
 

@@ -8,7 +8,7 @@ Prince Charles is a music venue in Berlin listed on soundcheck. 3 upcoming night
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Sun, 2 Aug 2026 | Groove For Good & Refuge Worldwide: Ron Trent, CARISTA, Sofia Kourtesis | CARISTA, Cyan85, Holten, Pat, Ron Trent, Sofia Kourtesis |
+| Sun, 2 Aug 2026 | Groove For Good & Refuge Worldwide: Ron Trent, CARISTA, Sofia Kourtesis | CARISTA, Cyan85, Holten, Pat, Ron Trent, Sofia Kourtesis, livwutang |
 | Sat, 22 Aug 2026 | Primal Instinct presents: Ritua | Chlär, Ignez |
 | Fri, 11 Sept 2026 | Hungry4 ps Mall Grab  | Mall Grab |
 

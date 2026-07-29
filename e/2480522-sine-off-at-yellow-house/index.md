@@ -1,6 +1,6 @@
 # SINE OFF at Yellow House
 
-SINE OFF at Yellow House on Fri 31 Jul, Amsterdam. 1 act on the bill: Micky Hurts. House and Tech House. Preview the line-up and save it on soundcheck.
+SINE OFF at Yellow House on Fri 31 Jul, Amsterdam. 2 acts on the bill: Bastiaan and Micky Hurts. House and Tech House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,6 +10,7 @@ SINE OFF at Yellow House on Fri 31 Jul, Amsterdam. 1 act on the bill: Micky Hurt
 
 ## Line-up
 
+- Bastiaan
 - Micky Hurts
 
 *Source: [soundcheck](https://soundcheck.club/e/2480522-sine-off-at-yellow-house/)*

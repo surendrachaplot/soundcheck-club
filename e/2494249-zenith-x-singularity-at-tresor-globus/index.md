@@ -1,6 +1,6 @@
 # ◥◣ZENITH x SINGULARITY◥◣ at Tresor / Globus
 
-◥◣ZENITH x SINGULARITY◥◣ at Tresor / Globus on Mon 31 Aug, Berlin. 5 acts on the bill: Frazi.er, KLEA, Nizzari and Parallx and 1 more. Techno. Preview the line-up and save it on soundcheck.
+◥◣ZENITH x SINGULARITY◥◣ at Tresor / Globus on Mon 31 Aug, Berlin. 6 acts on the bill: 7CIRCLE, Frazi.er, KLEA and Nizzari and 2 more. Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,6 +10,7 @@
 
 ## Line-up
 
+- 7CIRCLE
 - Frazi.er
 - KLEA
 - Nizzari

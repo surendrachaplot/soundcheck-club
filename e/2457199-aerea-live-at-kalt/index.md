@@ -1,6 +1,6 @@
 # AEREA (Live) at KALT
 
-AEREA (Live) at KALT on Sat 1 Aug, Strasbourg. 2 acts on the bill: AEREA and Clarence Rise. Preview the line-up and save it on soundcheck.
+AEREA (Live) at KALT on Sat 1 Aug, Strasbourg. 3 acts on the bill: AEREA, Clarence Rise and Doudeh. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -12,5 +12,6 @@ AEREA (Live) at KALT on Sat 1 Aug, Strasbourg. 2 acts on the bill: AEREA and Cla
 
 - AEREA
 - Clarence Rise
+- Doudeh
 
 *Source: [soundcheck](https://soundcheck.club/e/2457199-aerea-live-at-kalt/)*

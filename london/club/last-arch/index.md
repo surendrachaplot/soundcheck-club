@@ -11,8 +11,8 @@ Last Arch is a music venue in London listed on soundcheck. 12 upcoming nights, w
 | Fri, 31 Jul 2026 | Last Arch invites: Tunnel with Desyn | Desyn, Dockett Eddy, Ella Fayden, Eltouss, Oscar Faivre |
 | Sat, 1 Aug 2026 | The Enchanted Forest |  |
 | Sat, 8 Aug 2026 | RITA: LAUNCH PARTY | Mack Maddox |
-| Fri, 14 Aug 2026 | TCG presents: NO DECAF w/ KODY (Leftwing:Kody) | Ale Grooves, Jo Cruz, KAYDNCE, Leftwing & Kody, Sonata Collective |
-| Sat, 15 Aug 2026 | Mystra x Woody van Eyden | Alythia Kwan, GYS (TT) |
+| Fri, 14 Aug 2026 | NO DECAF w/ KODY (Leftwing:Kody) | Ale Grooves, Jo Cruz, KAYDNCE, Leftwing & Kody, Sonata Collective |
+| Sat, 15 Aug 2026 | Mystra x Woody van Eyden | Alythia Kwan, GYS (TT), Tibor |
 | Sat, 15 Aug 2026 | Archie Holmes x Arts of the Unknown | Archie Holmes, Arts of the Unknown, Fredd Mann, Joe Tonic, Stresshead |
 | Sun, 16 Aug 2026 | Flurt. x Leftback | Josh Smith, Last Pines, Mortalyf, Oscar Jones, PiNG (UK) |
 | Fri, 21 Aug 2026 | EMBER: Fiyahdred All Night Long | Fiyahdred |

@@ -9,7 +9,7 @@ Ouseburn Garden is a music venue in Newcastle listed on soundcheck. 11 upcoming 
 | Date | Night | Line-up |
 | --- | --- | --- |
 | Fri, 31 Jul 2026 | Krazed w/ Scritts B2B Neenzy, DJ Royal Mail B2B PB Donk |  |
-| Sat, 1 Aug 2026 | UNDERGROUND SOUND: Record Sale & Free Party | Alousea, Emily Jacko, FroD, James Worker, Molly Sinnott, PHJ.WAV, keks |
+| Sat, 1 Aug 2026 | UNDERGROUND SOUND: Record Sale & Free Party | Alousea, DJ Beers, Emily Jacko, FroD, James Worker, Molly Sinnott, Moose In The Wild, PHJ.WAV, keks |
 | Sun, 2 Aug 2026 | DIGITAL presents: Tre Reynolds | Tre Reynolds |
 | Fri, 7 Aug 2026 | Prozak B2B Oldboy + Veritas  | Jack C (2), Oldboy, Prozak (IRL), VERITAS (UK) |
 | Sat, 15 Aug 2026 | DIGITAL presents: Joss Dean | Emma 2000, Joss Dean |

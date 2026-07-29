@@ -1,6 +1,6 @@
 # Block D8 Afters: Reeshy & Jamie Fielding at block.
 
-Block D8 Afters: Reeshy & Jamie Fielding at block. on Sat 8 Aug, Dublin. 2 acts on the bill: Jamie Fielding and Reeshy. Electronica. Preview the line-up and save it on soundcheck.
+Block D8 Afters: Reeshy & Jamie Fielding at block. on Sat 8 Aug, Dublin. 3 acts on the bill: ERNESTAS, Jamie Fielding and Reeshy. Electronica. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,6 +10,7 @@ Block D8 Afters: Reeshy & Jamie Fielding at block. on Sat 8 Aug, Dublin. 2 acts 
 
 ## Line-up
 
+- ERNESTAS
 - Jamie Fielding
 - Reeshy
 

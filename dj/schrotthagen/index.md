@@ -1,8 +1,8 @@
 # Schrotthagen
 
-Schrotthagen is a Techno and Trance artist with 7 upcoming club dates listed on soundcheck as of Wed, 29 Jul 2026, next at Donauinsel, Vienna on Sat, 1 Aug 2026.
+Schrotthagen is a Techno and Trance artist with 8 upcoming club dates listed on soundcheck as of Wed, 29 Jul 2026, next at Donauinsel, Vienna on Sat, 1 Aug 2026.
 
-Schrotthagen is a techno and trance artist tracked on soundcheck, with 41 sets logged across Amsterdam, Basel, Berlin and Cologne and 15 more. Often billed alongside A.N.I., PRADA2000 and Somewhen. Next up: Donauinsel, Vienna on Sat 1 Aug.
+Schrotthagen is a techno and trance artist tracked on soundcheck, with 42 sets logged across Amsterdam, Barcelona, Basel and Berlin and 16 more. Often billed alongside A.N.I., PRADA2000 and Somewhen. Next up: Donauinsel, Vienna on Sat 1 Aug.
 
 ## Upcoming shows
 
@@ -12,6 +12,7 @@ Schrotthagen is a techno and trance artist tracked on soundcheck, with 41 sets l
 | Fri, 28 Aug 2026 | Dürener Badesee | Cologne |
 | Sat, 29 Aug 2026 | Marienbergpark | Nürnberg |
 | Fri, 4 Sept 2026 | Fridas Pier | Stuttgart |
+| Sat, 19 Sept 2026 | INPUT High Fidelity Dance Club | Barcelona |
 | Fri, 9 Oct 2026 | Komplex Klub | Zurich |
 | Sat, 10 Oct 2026 | Plage Privée Parc de Miribel | Lyon |
 | Thu, 22 Oct 2026 | Noto Philadelphia | Philadelphia |

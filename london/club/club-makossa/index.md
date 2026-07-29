@@ -2,14 +2,14 @@
 
 Club Makossa is a music venue in London with 12 upcoming nights listed on soundcheck as of Wed, 29 Jul 2026; the next is "NEPTUNE - FREE UNDERGROUND HOUSE & UKG PARTY IN DALSTON" on Thu, 30 Jul 2026.
 
-Club Makossa is a music venue in London listed on soundcheck. 12 upcoming nights, with line-ups including 2WM (UK), babybear (2), BOA (1) and DAMPY and 2 more. Browse upcoming dates, start times and who's playing. 113 Kingsland High Street, London E8 2PB.
+Club Makossa is a music venue in London listed on soundcheck. 12 upcoming nights, with line-ups including 2WM (UK), Alex Haze UK, babybear (2) and BOA (1) and 2 more. Browse upcoming dates, start times and who's playing. 113 Kingsland High Street, London E8 2PB.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
 | Thu, 30 Jul 2026 | NEPTUNE - FREE UNDERGROUND HOUSE & UKG PARTY IN DALSTON | BOA (1), DAMPY, Kat Bendis, Steve Brown, Tibor |
-| Fri, 31 Jul 2026 | FRIYAYS at MAKOSSA (House, Tech House, UK Bass, Drum & Bass) |  |
+| Fri, 31 Jul 2026 | FRIYAYS at MAKOSSA (House, Tech House, UK Bass, Drum & Bass) | DIMV, JUNOHH, Stuck on 33 |
 | Sat, 1 Aug 2026 | Sound in Mind | David Beckett, Reeves (1), Wanderer, babybear (2) |
 | Thu, 6 Aug 2026 | GONE FISHIN' OPEN DECKS (ALL GENRES IN EAST LONDON) |  |
 | Fri, 7 Aug 2026 | FRIYAYS at MAKOSSA (House, Tech House, UK Bass, Drum & Bass) |  |

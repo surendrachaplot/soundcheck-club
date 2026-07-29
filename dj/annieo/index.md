@@ -1,13 +1,14 @@
 # Annie O
 
-Annie O is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at Alte Münze, Berlin on Sat, 24 Oct 2026.
+Annie O is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Wed, 29 Jul 2026, next at Ritter Butzke, Berlin on Sat, 8 Aug 2026.
 
-Annie O is a house and techno artist based in Germany, tracked on soundcheck, with 23 sets logged across Berlin, Copenhagen and Leipzig. Often billed alongside Multifuse, Any Mello and Arne Schattenberg. Next up: Alte Münze, Berlin on Sat 24 Oct.
+Annie O is a techno and house artist based in Germany, tracked on soundcheck, with 24 sets logged across Berlin, Copenhagen and Leipzig. Often billed alongside Multifuse, Any Mello and Arne Schattenberg. Next up: Ritter Butzke, Berlin on Sat 8 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 8 Aug 2026 | Ritter Butzke | Berlin |
 | Sat, 24 Oct 2026 | Alte Münze | Berlin |
 
 ## Recently played

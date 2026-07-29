@@ -11,7 +11,7 @@ block. is a music venue in Dublin listed on soundcheck. 6 upcoming nights, with 
 | Fri, 31 Jul 2026 | Block x Encore. Bart Skils | Bart Skils, Connect |
 | Sat, 1 Aug 2026 | Block D8 Afters: Danny P B2B Caleb Laurenson | Danny P |
 | Fri, 7 Aug 2026 | Block D8 Afters: LAMMER | Kayleigh Glynn, LAMMER |
-| Sat, 8 Aug 2026 | Block D8 Afters: Reeshy & Jamie Fielding | Jamie Fielding, Reeshy |
+| Sat, 8 Aug 2026 | Block D8 Afters: Reeshy & Jamie Fielding | ERNESTAS, Jamie Fielding, Reeshy |
 | Sat, 22 Aug 2026 | Block x Encore x Vibez Emotion. ANNA | ANNA, SOUZAC |
 | Fri, 11 Sept 2026 | Block. Marie Vaunt | Connect, Leo Cardi, Marie Vaunt |
 

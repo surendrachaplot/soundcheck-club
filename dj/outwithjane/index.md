@@ -2,7 +2,7 @@
 
 OutWithJane is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at elipamanoke, Leipzig on Wed, 5 Aug 2026.
 
-OutWithJane is a house and techno artist based in Germany, tracked on soundcheck, with 10 sets logged across Leipzig. Often billed alongside T.Schaui, Aio and Blank Vision. Next up: elipamanoke, Leipzig on Wed 5 Aug.
+OutWithJane is a house and techno artist based in Germany, tracked on soundcheck, with 10 sets logged across Leipzig. Often billed alongside T.Schaui, Kalpea and Aio. Next up: elipamanoke, Leipzig on Wed 5 Aug.
 
 ## Upcoming shows
 
@@ -23,6 +23,6 @@ OutWithJane is a house and techno artist based in Germany, tracked on soundcheck
 
 ## Shares bills with
 
-T.Schaui, Aio, Blank Vision
+T.Schaui, Kalpea, Aio
 
 *Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/outwithjane/)*

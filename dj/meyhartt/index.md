@@ -1,8 +1,8 @@
 # Meyhartt
 
-Meyhartt is a Techno and Trance artist with 2 upcoming club dates listed on soundcheck as of Wed, 29 Jul 2026, next at Absturz, Leipzig on Fri, 31 Jul 2026.
+Meyhartt is a Techno and Trance artist with 3 upcoming club dates listed on soundcheck as of Wed, 29 Jul 2026, next at Absturz, Leipzig on Fri, 31 Jul 2026.
 
-Meyhartt is a techno and trance artist based in Germany, tracked on soundcheck, with 22 sets logged across Berlin, Leipzig and Prague. Often billed alongside Jaszaloth, VLUNA and CAVVØ. Next up: Absturz, Leipzig on Fri 31 Jul.
+Meyhartt is a techno and trance artist based in Germany, tracked on soundcheck, with 23 sets logged across Berlin, Leipzig and Prague. Often billed alongside Jaszaloth, VLUNA and CAVVØ. Next up: Absturz, Leipzig on Fri 31 Jul.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Meyhartt is a techno and trance artist based in Germany, tracked on soundcheck, 
 | --- | --- | --- |
 | Fri, 31 Jul 2026 | Absturz | Leipzig |
 | Sat, 1 Aug 2026 | TBA - Peißnitzinsel Halle | Leipzig |
+| Fri, 14 Aug 2026 | Absturz | Leipzig |
 
 ## Recently played
 

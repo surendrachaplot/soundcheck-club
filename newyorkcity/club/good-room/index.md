@@ -1,8 +1,8 @@
 # Good Room
 
-Good Room is a music venue in New York City with 11 upcoming nights listed on soundcheck as of Wed, 29 Jul 2026; the next is "Matthew Dear, Arvin T, 4AM NYC (all night)" on Fri, 31 Jul 2026.
+Good Room is a music venue in New York City with 12 upcoming nights listed on soundcheck as of Wed, 29 Jul 2026; the next is "Matthew Dear, Arvin T, 4AM NYC (all night)" on Fri, 31 Jul 2026.
 
-Good Room is a music venue in Newyorkcity listed on soundcheck. 11 upcoming nights, with line-ups including 4AM NYC, Alex McCracken, Amelia Holt and Anish Kumar and 2 more. Browse upcoming dates, start times and who's playing. 98 Meserole Ave, Brooklyn, NY 11222 USA.
+Good Room is a music venue in Newyorkcity listed on soundcheck. 12 upcoming nights, with line-ups including 4AM NYC, Alex McCracken, Amelia Holt and Anish Kumar and 2 more. Browse upcoming dates, start times and who's playing. 98 Meserole Ave, Brooklyn, NY 11222 USA.
 
 ## What's on
 

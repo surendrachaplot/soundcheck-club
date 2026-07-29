@@ -12,7 +12,7 @@ The Bag Factory is a music venue in Manchester listed on soundcheck. 7 upcoming 
 | Sat, 1 Aug 2026 | Neighbours presents: SpongeRave HorsePants [Neigh-Bini Bottom Takeover] |  |
 | Thu, 6 Aug 2026 | Club Curated: Open Decks & Social |  |
 | Sat, 8 Aug 2026 | foxtrot romeo - A Classy Affair |  |
-| Sat, 22 Aug 2026 | DUCKPLATES. All day, all night | Coben, DREAD MC, imad:re |
+| Sat, 22 Aug 2026 | DUCKPLATES. All day, all night | Coben, DREAD MC, OWTLAW, imad:re |
 | Fri, 4 Sept 2026 | Into Orbit | Betty, Potts, Rob NG |
 | Fri, 11 Sept 2026 | Digitise x Bag Factory, Lowkonic, G-Breezy & Mr SoMuch |  |
 

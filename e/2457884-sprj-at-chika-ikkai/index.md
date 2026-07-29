@@ -1,6 +1,6 @@
 # sprj at Chika-Ikkai
 
-sprj at Chika-Ikkai on Sat 22 Aug, Osaka. 3 acts on the bill: Eichi Abe, HSC (1) and Yuto Takei. Techno and Bass. Preview the line-up and save it on soundcheck.
+sprj at Chika-Ikkai on Sat 22 Aug, Osaka. 4 acts on the bill: Eichi Abe, HSC (1), innertraffic and Yuto Takei. Techno and Bass. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -12,6 +12,7 @@ sprj at Chika-Ikkai on Sat 22 Aug, Osaka. 3 acts on the bill: Eichi Abe, HSC (1)
 
 - Eichi Abe
 - HSC (1)
+- innertraffic
 - Yuto Takei
 
 *Source: [soundcheck](https://soundcheck.club/e/2457884-sprj-at-chika-ikkai/)*

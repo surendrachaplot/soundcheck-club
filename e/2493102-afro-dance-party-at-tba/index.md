@@ -1,6 +1,6 @@
 # Afro Dance Party at TBA
 
-Afro Dance Party at TBA on Fri 21 Aug, London. 2 acts on the bill: Nettle Dj and Timon (2). Afro House and Afro Tech. Preview the line-up and save it on soundcheck.
+Afro Dance Party at TBA on Fri 21 Aug, London. 3 acts on the bill: ChrisCarter, Nettle Dj and Timon (2). Afro House and Afro Tech. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,6 +10,7 @@ Afro Dance Party at TBA on Fri 21 Aug, London. 2 acts on the bill: Nettle Dj and
 
 ## Line-up
 
+- ChrisCarter
 - Nettle Dj
 - Timon (2)
 

@@ -1,6 +1,6 @@
 # 'Syren' Listening Session at Shai Space
 
-'Syren' Listening Session at Shai Space on Wed 19 Aug, London. 1 act on the bill: SKETCH. Ambient and Downtempo. Preview the line-up and save it on soundcheck.
+'Syren' Listening Session at Shai Space on Wed 19 Aug, London. 2 acts on the bill: IMVN and SKETCH. Ambient and Downtempo. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,6 +10,7 @@
 
 ## Line-up
 
+- IMVN
 - SKETCH
 
 *Source: [soundcheck](https://soundcheck.club/e/2498202-syren-listening-session-at-shai-space/)*

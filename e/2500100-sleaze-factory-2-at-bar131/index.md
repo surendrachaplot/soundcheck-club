@@ -1,6 +1,6 @@
 # Sleaze Factory 2 at Bar131
 
-Sleaze Factory 2 at Bar131 on Thu 30 Jul, Berlin. 1 act on the bill: Locre. Club. Preview the line-up and save it on soundcheck.
+Sleaze Factory 2 at Bar131 on Thu 30 Jul, Berlin. 2 acts on the bill: Locre and Source01. Club. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -11,5 +11,6 @@ Sleaze Factory 2 at Bar131 on Thu 30 Jul, Berlin. 1 act on the bill: Locre. Club
 ## Line-up
 
 - Locre
+- Source01
 
 *Source: [soundcheck](https://soundcheck.club/e/2500100-sleaze-factory-2-at-bar131/)*

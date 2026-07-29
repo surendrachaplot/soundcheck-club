@@ -1,6 +1,6 @@
 # Off Centre 001 at White Space Lab
 
-Off Centre 001 at White Space Lab on Sat 1 Aug, Tokyo. 1 act on the bill: DJ Flexure. Garage. Preview the line-up and save it on soundcheck.
+Off Centre 001 at White Space Lab on Sat 1 Aug, Tokyo. 2 acts on the bill: DJ Flexure and Kamui Wada. Garage. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -11,5 +11,6 @@ Off Centre 001 at White Space Lab on Sat 1 Aug, Tokyo. 1 act on the bill: DJ Fle
 ## Line-up
 
 - DJ Flexure
+- Kamui Wada
 
 *Source: [soundcheck](https://soundcheck.club/e/2493188-off-centre-001-at-white-space-lab/)*

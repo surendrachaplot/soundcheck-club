@@ -1,6 +1,6 @@
 # Zwart Goud × Lex Eco In-Store: World Pride Takeover at Zwart Goud Record Store
 
-Zwart Goud × Lex Eco In-Store: World Pride Takeover at Zwart Goud Record Store on Sat 1 Aug, Amsterdam. 4 acts on the bill: DIORA, Jewel, Massimiliano Pagliara and Polli Panda. Techno and Acid. Preview the line-up and save it on soundcheck.
+Zwart Goud × Lex Eco In-Store: World Pride Takeover at Zwart Goud Record Store on Sat 1 Aug, Amsterdam. 5 acts on the bill: DIORA, Jewel, Lex Eco and Massimiliano Pagliara and 1 more. Techno and Acid. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -12,6 +12,7 @@ Zwart Goud × Lex Eco In-Store: World Pride Takeover at Zwart Goud Record Store 
 
 - DIORA
 - Jewel
+- Lex Eco
 - Massimiliano Pagliara
 - Polli Panda
 

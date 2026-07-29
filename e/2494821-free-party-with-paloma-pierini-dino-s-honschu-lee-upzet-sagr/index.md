@@ -1,6 +1,6 @@
 # Free Party with Paloma Pierini, Dino S, Honschu Lee, Upzet, Sagrivox, Ed Shepherd, buktuu at Void Club
 
-Free Party with Paloma Pierini, Dino S, Honschu Lee, Upzet, Sagrivox, Ed Shepherd, buktuu at Void Club on Fri 7 Aug, Berlin. 5 acts on the bill: Dino S, Ed Shepherd, Honschu Lee and Sagrivox and 1 more. Drum & Bass and Techno. Preview the line-up and save it on soundcheck.
+Free Party with Paloma Pierini, Dino S, Honschu Lee, Upzet, Sagrivox, Ed Shepherd, buktuu at Void Club on Fri 7 Aug, Berlin. 6 acts on the bill: buktuu, Dino S, Ed Shepherd and Honschu Lee and 2 more. Drum & Bass and Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,6 +10,7 @@ Free Party with Paloma Pierini, Dino S, Honschu Lee, Upzet, Sagrivox, Ed Shepher
 
 ## Line-up
 
+- buktuu
 - Dino S
 - Ed Shepherd
 - Honschu Lee

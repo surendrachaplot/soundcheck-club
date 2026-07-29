@@ -1,6 +1,6 @@
 # Peckham Day Into Night 12HR Special w/ Profound Sound & Juiced at Peckham Arches
 
-Peckham Day Into Night 12HR Special w/ Profound Sound & Juiced at Peckham Arches on Sun 30 Aug, London. 10 acts on the bill: Brick Top, Groooves, James Worker and Josh Wuf and 6 more. House and Garage. Preview the line-up and save it on soundcheck.
+Peckham Day Into Night 12HR Special w/ Profound Sound & Juiced at Peckham Arches on Sun 30 Aug, London. 11 acts on the bill: Brick Top, Groooves, Holyoake and James Worker and 7 more. House and Garage. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -12,6 +12,7 @@ Peckham Day Into Night 12HR Special w/ Profound Sound & Juiced at Peckham Arches
 
 - Brick Top
 - Groooves
+- Holyoake
 - James Worker
 - Josh Wuf
 - Livvy Loo

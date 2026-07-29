@@ -1,13 +1,14 @@
 # Doudeh
 
-Doudeh is a Minimal and Tech House artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at L'orée 85, Strasbourg on Sun, 16 Aug 2026.
+Doudeh is a Minimal and Tech House artist with 2 upcoming club dates listed on soundcheck as of Wed, 29 Jul 2026, next at KALT, Strasbourg on Sat, 1 Aug 2026.
 
-Doudeh is a minimal and tech house artist based in France, tracked on soundcheck, with 25 sets logged across Lyon, Paris and Strasbourg. Often billed alongside Sunpr, Beignet and Joey 808. Next up: L'orée 85, Strasbourg on Sun 16 Aug.
+Doudeh is a minimal and tech house artist based in France, tracked on soundcheck, with 26 sets logged across Lyon, Paris and Strasbourg. Often billed alongside Sunpr, Beignet and Joey 808. Next up: KALT, Strasbourg on Sat 1 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 1 Aug 2026 | KALT | Strasbourg |
 | Sun, 16 Aug 2026 | L'orée 85 | Strasbourg |
 
 ## Recently played

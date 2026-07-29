@@ -13,7 +13,7 @@ export is a music venue in Rotterdam listed on soundcheck. 7 upcoming nights, wi
 | Fri, 14 Aug 2026 | Pure Venom: Kontronatura, XAKALELE, DJ Shahmaran | DJ Shahmaran, Kontronatura |
 | Sat, 15 Aug 2026 | I-RO, Ozzo, ROD | I-RO, ROD |
 | Fri, 28 Aug 2026 | Interdimensional Transmissions x Clone Records | BMG, Ectomorph, Erika, Serge, jannah |
-| Sat, 29 Aug 2026 | IN TUNE ~~ | Ben Diggins, Frits Wentink, Infinite Pleasure, LIMA (NL), Steven Pieters, select motion |
+| Sat, 29 Aug 2026 | IN TUNE ~~ | Ben Diggins, Frits Wentink, Infinite Pleasure, Jessin Neijts, LIMA (NL), Steven Pieters, select motion |
 | Sat, 26 Sept 2026 | Kult Funktion |  |
 
 ## Address

@@ -1,0 +1,11 @@
+# HYPER HOLLE with VABU, NIKIIJA at Club Frau Holle
+
+HYPER HOLLE with VABU, NIKIIJA at Club Frau Holle on Fri 21 Aug, Hamburg. Techno and House. Preview the line-up and save it on soundcheck.
+
+| Field | Value |
+| --- | --- |
+| Date | Fri, 21 Aug 2026 |
+| Venue | Club Frau Holle |
+| City | Hamburg |
+
+*Source: [soundcheck](https://soundcheck.club/e/2500541-hyper-holle-with-vabu-nikiija-at-club-frau-holle/)*

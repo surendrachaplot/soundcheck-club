@@ -1,6 +1,6 @@
 # THAT'S ALL FOLKS: CHAPTER 1 CLOSED [FRI 31/07 18:00 - MON 03/08] at BLITZ
 
-THAT'S ALL FOLKS: CHAPTER 1 CLOSED [FRI 31/07 18:00 - MON 03/08] at BLITZ on Fri 31 Jul, Munich. 72 acts on the bill: 600-cell, Akua, Alessio Barletta and Alles Andere and 68 more. Preview the line-up and save it on soundcheck.
+THAT'S ALL FOLKS: CHAPTER 1 CLOSED [FRI 31/07 18:00 - MON 03/08] at BLITZ on Fri 31 Jul, Munich. 75 acts on the bill: 600-cell, Akua, Alessio Barletta and Alles Andere and 71 more. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -25,6 +25,7 @@ THAT'S ALL FOLKS: CHAPTER 1 CLOSED [FRI 31/07 18:00 - MON 03/08] at BLITZ on Fri
 - Chez Damier
 - Denny Voltage
 - DJ Deep
+- DJ Spence
 - dj sweet6teen
 - Don Williams
 - DVS1
@@ -44,6 +45,7 @@ THAT'S ALL FOLKS: CHAPTER 1 CLOSED [FRI 31/07 18:00 - MON 03/08] at BLITZ on Fri
 - Kuduxxti
 - Lavandonia
 - limbic sis
+- Lou Velvet
 - Marcel Dettmann
 - MARRØN
 - Mike D
@@ -56,6 +58,7 @@ THAT'S ALL FOLKS: CHAPTER 1 CLOSED [FRI 31/07 18:00 - MON 03/08] at BLITZ on Fri
 - Ouissam
 - Paquita Gordon
 - Partok
+- PLO Man
 - Polygonia
 - Quelza
 - Reduks

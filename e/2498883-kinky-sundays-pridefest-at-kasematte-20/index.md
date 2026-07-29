@@ -1,6 +1,6 @@
 # KINKY SUNDAYS PRIDEFEST at Kasematte 20
 
-KINKY SUNDAYS PRIDEFEST at Kasematte 20 on Sun 2 Aug, Hamburg. 1 act on the bill: Dj handbag. Techno and House. Preview the line-up and save it on soundcheck.
+KINKY SUNDAYS PRIDEFEST at Kasematte 20 on Sun 2 Aug, Hamburg. 2 acts on the bill: Dj handbag and Tariel. Techno and House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -11,5 +11,6 @@ KINKY SUNDAYS PRIDEFEST at Kasematte 20 on Sun 2 Aug, Hamburg. 1 act on the bill
 ## Line-up
 
 - Dj handbag
+- Tariel
 
 *Source: [soundcheck](https://soundcheck.club/e/2498883-kinky-sundays-pridefest-at-kasematte-20/)*

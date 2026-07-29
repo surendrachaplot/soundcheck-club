@@ -1,6 +1,6 @@
 # HERZFREQUENZ: SUMMER BOUNCE EDITION at Das Werk
 
-HERZFREQUENZ: SUMMER BOUNCE EDITION at Das Werk on Fri 14 Aug, Vienna. 9 acts on the bill: Crystal O, DJ WIFI, DJ Wolle and DORAH and 5 more. Trance and Techno. Preview the line-up and save it on soundcheck.
+HERZFREQUENZ: SUMMER BOUNCE EDITION at Das Werk on Fri 14 Aug, Vienna. 10 acts on the bill: Crystal O, DJ WIFI, DJ Wolle and DORAH and 6 more. Trance and Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -17,6 +17,7 @@ HERZFREQUENZ: SUMMER BOUNCE EDITION at Das Werk on Fri 14 Aug, Vienna. 9 acts on
 - Joey (2)
 - KILIÅN
 - Limoncello
+- Melle
 - Pixie Dust
 - SAYA
 

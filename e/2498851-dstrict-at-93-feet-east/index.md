@@ -1,6 +1,6 @@
 # DSTRICT at 93 Feet East
 
-DSTRICT at 93 Feet East on Sat 22 Aug, London. 2 acts on the bill: Miggi and Rhiavas. House and Deep House. Preview the line-up and save it on soundcheck.
+DSTRICT at 93 Feet East on Sat 22 Aug, London. 3 acts on the bill: F*ckabouts, Miggi and Rhiavas. House and Deep House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,6 +10,7 @@ DSTRICT at 93 Feet East on Sat 22 Aug, London. 2 acts on the bill: Miggi and Rhi
 
 ## Line-up
 
+- F*ckabouts
 - Miggi
 - Rhiavas
 

@@ -1,6 +1,6 @@
 # Uffie (DJ Set) + CFCF (DJ Set), Doecaine, CLUB VS TRANCE + more at Elsewhere
 
-Uffie (DJ Set) + CFCF (DJ Set), Doecaine, CLUB VS TRANCE + more at Elsewhere on Sat 1 Aug, Newyorkcity. 4 acts on the bill: Aster, Malcolm XL, Soo Intoit and Uffie. Preview the line-up and save it on soundcheck.
+Uffie (DJ Set) + CFCF (DJ Set), Doecaine, CLUB VS TRANCE + more at Elsewhere on Sat 1 Aug, Newyorkcity. 5 acts on the bill: Aster, hideyoshi.v94, Malcolm XL and Soo Intoit and 1 more. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -11,6 +11,7 @@ Uffie (DJ Set) + CFCF (DJ Set), Doecaine, CLUB VS TRANCE + more at Elsewhere on 
 ## Line-up
 
 - Aster
+- hideyoshi.v94
 - Malcolm XL
 - Soo Intoit
 - Uffie

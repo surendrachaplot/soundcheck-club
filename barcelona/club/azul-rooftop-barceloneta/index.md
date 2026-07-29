@@ -9,7 +9,7 @@ Azul Rooftop Barceloneta is a music venue in Barcelona listed on soundcheck. 2 u
 | Date | Night | Line-up |
 | --- | --- | --- |
 | Fri, 31 Jul 2026 | WAVES X AZUL ROOFTOP |  |
-| Sun, 2 Aug 2026 | Sunset Rooftop Party - [Free Access] | Dimarziio, Fat-P, Lucas Frank |
+| Sun, 2 Aug 2026 | Sunset Rooftop Party - Barceloneta [Free Access] | Dimarziio, Fat-P, Lucas Frank |
 
 ## Address
 

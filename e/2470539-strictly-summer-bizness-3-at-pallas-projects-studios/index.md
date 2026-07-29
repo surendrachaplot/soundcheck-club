@@ -1,6 +1,6 @@
 # STRICTLY SUMMER BIZNESS #3 at Pallas Projects Studios
 
-STRICTLY SUMMER BIZNESS #3 at Pallas Projects Studios on Sat 8 Aug, Dublin. 1 act on the bill: DJ Egg. Bass and Club. Preview the line-up and save it on soundcheck.
+STRICTLY SUMMER BIZNESS #3 at Pallas Projects Studios on Sat 8 Aug, Dublin. 2 acts on the bill: DJ Egg and Jr Spesh. Bass and Club. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -11,5 +11,6 @@ STRICTLY SUMMER BIZNESS #3 at Pallas Projects Studios on Sat 8 Aug, Dublin. 1 ac
 ## Line-up
 
 - DJ Egg
+- Jr Spesh
 
 *Source: [soundcheck](https://soundcheck.club/e/2470539-strictly-summer-bizness-3-at-pallas-projects-studios/)*

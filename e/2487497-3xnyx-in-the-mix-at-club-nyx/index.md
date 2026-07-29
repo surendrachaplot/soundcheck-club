@@ -1,6 +1,6 @@
 # 3xNYX: In the Mix at Club NYX
 
-3xNYX: In the Mix at Club NYX on Sat 29 Aug, Amsterdam. 2 acts on the bill: Spikey Lee and The Heartbreaks. Electro and Pop. Preview the line-up and save it on soundcheck.
+3xNYX: In the Mix at Club NYX on Sat 29 Aug, Amsterdam. 7 acts on the bill: Aiscream, Babs op de beat, Joseph Steel and Mika Akela and 3 more. Electro and Pop. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,6 +10,11 @@
 
 ## Line-up
 
+- Aiscream
+- Babs op de beat
+- Joseph Steel
+- Mika Akela
+- Soulfania
 - Spikey Lee
 - The Heartbreaks
 

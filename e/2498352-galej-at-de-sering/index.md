@@ -1,6 +1,6 @@
 # GALEJ at De Sering
 
-GALEJ at De Sering on Fri 4 Sept, Amsterdam. 4 acts on the bill: Eylon, GATTOMUSiC, grosen and issagirl. Techno and Electro. Preview the line-up and save it on soundcheck.
+GALEJ at De Sering on Fri 4 Sept, Amsterdam. 5 acts on the bill: Eylon, GATTOMUSiC, grosen and issagirl and 1 more. Techno and Electro. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -14,5 +14,6 @@ GALEJ at De Sering on Fri 4 Sept, Amsterdam. 4 acts on the bill: Eylon, GATTOMUS
 - GATTOMUSiC
 - grosen
 - issagirl
+- YOJIBERI
 
 *Source: [soundcheck](https://soundcheck.club/e/2498352-galej-at-de-sering/)*

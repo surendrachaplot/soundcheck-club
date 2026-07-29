@@ -11,7 +11,7 @@ DJ Seoul is a techno and house artist based in United States of America, tracked
 | Thu, 13 Aug 2026 | TV Lounge | Detroit |
 | Thu, 13 Aug 2026 | Tangent Gallery | Detroit |
 | Fri, 14 Aug 2026 | Lincoln Factory | Detroit |
-| Sat, 29 Aug 2026 | TBA - Main Event @ Broad Hall - 699 N Broad St, Philadelphia, PA 19123. Afters Addy Will be Emailed to Ticket Holders | Philadelphia |
+| Sat, 29 Aug 2026 | broad hall. | Philadelphia |
 
 ## Recently played
 

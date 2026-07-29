@@ -1,8 +1,8 @@
 # The Steel Yard
 
-The Steel Yard is a music venue in London with 12 upcoming nights listed on soundcheck as of Wed, 29 Jul 2026; the next is "Klub Verboten x STEELYARD x LONDON" on Fri, 7 Aug 2026.
+The Steel Yard is a music venue in London with 13 upcoming nights listed on soundcheck as of Wed, 29 Jul 2026; the next is "Klub Verboten x STEELYARD x LONDON" on Fri, 7 Aug 2026.
 
-The Steel Yard is a music venue in London listed on soundcheck. 12 upcoming nights, with line-ups including AVANTIME, Bassface, CITYTRONIX and Dari-A and 2 more. Browse upcoming dates, start times and who's playing. 13-16 Allhallows Lane, London, EC4R 3UL.
+The Steel Yard is a music venue in London listed on soundcheck. 13 upcoming nights, with line-ups including AVANTIME, Bassface, CITYTRONIX and Dari-A and 2 more. Browse upcoming dates, start times and who's playing. 13-16 Allhallows Lane, London, EC4R 3UL.
 
 ## What's on
 
@@ -15,9 +15,9 @@ The Steel Yard is a music venue in London listed on soundcheck. 12 upcoming nigh
 | Fri, 28 Aug 2026 | City Splash: Carnival Warm Up Party |  |
 | Fri, 4 Sept 2026 | 10 YEARS OF Klub Verboten x LONDON - SOFT | Oliver Scala, SORAYA*, Steffi, Wes Baggaley |
 | Sat, 5 Sept 2026 | 10 YEARS OF Klub Verboten x LONDON - HARD | CITYTRONIX, Diana Isi, Laure Croft, Simik, nohexcode |
+| Fri, 11 Sept 2026 | Habibis y Azizams: A Middle Eastern / SWANA RAVE (CENTRAL LDN) | Milli, rára |
 | Fri, 25 Sept 2026 | James Zabiela, Henry Saiz  | AVANTIME, Dari-A, Henry Saiz, James Zabiela |
 | Thu, 1 Oct 2026 | Devlin - London |  |
-| Sat, 3 Oct 2026 | Virus - Face 2 Face |  |
 
 ## Address
 

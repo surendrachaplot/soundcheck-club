@@ -1,6 +1,6 @@
 # UNDERGROUND SOUND: Record Sale & Free Party at Ouseburn Garden
 
-UNDERGROUND SOUND: Record Sale & Free Party at Ouseburn Garden on Sat 1 Aug, Newcastle. 7 acts on the bill: Alousea, Emily Jacko, FroD and James Worker and 3 more. Tech House and Deep House. Preview the line-up and save it on soundcheck.
+UNDERGROUND SOUND: Record Sale & Free Party at Ouseburn Garden on Sat 1 Aug, Newcastle. 9 acts on the bill: Alousea, DJ Beers, Emily Jacko and FroD and 5 more. Tech House and Deep House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -11,11 +11,13 @@ UNDERGROUND SOUND: Record Sale & Free Party at Ouseburn Garden on Sat 1 Aug, New
 ## Line-up
 
 - Alousea
+- DJ Beers
 - Emily Jacko
 - FroD
 - James Worker
 - keks
 - Molly Sinnott
+- Moose In The Wild
 - PHJ.WAV
 
 *Source: [soundcheck](https://soundcheck.club/e/2486815-underground-sound-record-sale-free-party-at-ouseburn-garden/)*

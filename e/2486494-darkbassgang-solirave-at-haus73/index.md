@@ -1,6 +1,6 @@
 # DarkBassGang Solirave at Haus73
 
-DarkBassGang Solirave at Haus73 on Sat 1 Aug, Hamburg. 6 acts on the bill: LAURIX (DE), MANTIS, mi and PASSA and 2 more. Trance and House. Preview the line-up and save it on soundcheck.
+DarkBassGang Solirave at Haus73 on Sat 1 Aug, Hamburg. 7 acts on the bill: LAURIX (DE), MANTIS, mi and PASSA and 3 more. Trance and House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -14,6 +14,7 @@ DarkBassGang Solirave at Haus73 on Sat 1 Aug, Hamburg. 6 acts on the bill: LAURI
 - MANTIS
 - mi
 - PASSA
+- Qualle
 - Techlex
 - unjani
 

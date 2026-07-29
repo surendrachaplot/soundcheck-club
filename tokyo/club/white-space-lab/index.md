@@ -9,7 +9,7 @@ White Space Lab is a music venue in Tokyo listed on soundcheck. 6 upcoming night
 | Date | Night | Line-up |
 | --- | --- | --- |
 | Thu, 30 Jul 2026 | Polynasia | Arao, NullDaSensei |
-| Sat, 1 Aug 2026 | Off Centre 001 | DJ Flexure |
+| Sat, 1 Aug 2026 | Off Centre 001 | DJ Flexure, Kamui Wada |
 | Fri, 7 Aug 2026 | PALM DISCO | amina (2) |
 | Sat, 8 Aug 2026 | ishin | Kanamemandala, Shun Mizuki, yugo |
 | Fri, 14 Aug 2026 | CORM [live] | ALLY, JagdAngel, Sojourna, TECSTONE |

@@ -11,7 +11,7 @@ Ikii is a music venue in Berlin listed on soundcheck. 4 upcoming nights, with li
 | Tue, 4 Aug 2026 | Listening Session with Decoder, APRS, Endrew, nil | APRS, Am Nil, Decoder, Endrew |
 | Thu, 6 Aug 2026 | Passing Signals | Fergus Clark, MR TC, The Burrell Connection |
 | Sat, 8 Aug 2026 | à escuta | Delikwe, Delta Division, Ossios, SALTI |
-| Thu, 20 Aug 2026 | New Grass: Green Spaces | Romi, Toxido Mask, azul |
+| Thu, 20 Aug 2026 | New Grass: Green Spaces | Romi, Toxido Mask, azul, inbuilt obsolescence |
 
 ## Address
 

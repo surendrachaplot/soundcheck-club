@@ -2,12 +2,12 @@
 
 TBA - Address sent day of is a music venue in Los Angeles with 1 upcoming night listed on soundcheck as of Wed, 29 Jul 2026; the next is "PICAFRUTA Queer Global Rave" on Sat, 1 Aug 2026.
 
-TBA - Address sent day of is a music venue in Losangeles listed on soundcheck. 1 upcoming night, with line-ups including Zuri Adia. Browse upcoming dates, start times and who's playing.
+TBA - Address sent day of is a music venue in Losangeles listed on soundcheck. 1 upcoming night, with line-ups including Xochii and Zuri Adia. Browse upcoming dates, start times and who's playing.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Sat, 1 Aug 2026 | PICAFRUTA Queer Global Rave | Zuri Adia |
+| Sat, 1 Aug 2026 | PICAFRUTA Queer Global Rave | Xochii, Zuri Adia |
 
 *Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/losangeles/club/tba-address-sent-day-of/)*

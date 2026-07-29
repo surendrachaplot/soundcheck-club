@@ -1,6 +1,6 @@
 # Tous Les Fruits pres. Vitamin Dance at Haus73
 
-Tous Les Fruits pres. Vitamin Dance at Haus73 on Fri 31 Jul, Hamburg. 2 acts on the bill: NIEKO and Schott. House and Disco. Preview the line-up and save it on soundcheck.
+Tous Les Fruits pres. Vitamin Dance at Haus73 on Fri 31 Jul, Hamburg. 3 acts on the bill: NIEKO, Schott and SunnDior. House and Disco. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -12,5 +12,6 @@ Tous Les Fruits pres. Vitamin Dance at Haus73 on Fri 31 Jul, Hamburg. 2 acts on 
 
 - NIEKO
 - Schott
+- SunnDior
 
 *Source: [soundcheck](https://soundcheck.club/e/2472290-tous-les-fruits-pres-vitamin-dance-at-haus73/)*

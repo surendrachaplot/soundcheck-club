@@ -9,9 +9,9 @@ Südpol is a music venue in Hamburg listed on soundcheck. 5 upcoming nights, wit
 | Date | Night | Line-up |
 | --- | --- | --- |
 | Fri, 31 Jul 2026 | Juicy Süd | Nassstya |
-| Sat, 1 Aug 2026 | Queerpool XXX.orgy | Charlie Vaux, Chinyere, Coco Cobra, DSGNRPSSY, High Future, Introspekt, Khloe, Kilopatrah Jones, La Carpio, Liad Krispin, Merve, NORA (BR), Sharlese, Vanta V Black, oiko, yung_womb |
+| Sat, 1 Aug 2026 | Queerpool XXX.orgy | Charlie Vaux, Chinyere, Coco Cobra, DSGNRPSSY, High Future, Introspekt, Khloe, Kilopatrah Jones, La Carpio, Liad Krispin, Merve, NORA (BR), Pantheress, Prosecco Babes, Sharlese, Vanta V Black, oiko, yung_womb |
 | Fri, 7 Aug 2026 | Demorave Preparty | Anne-Lu, Eva.nyx, Mischa (AT), PUSS1 BABA, Schall und Rauch |
-| Fri, 21 Aug 2026 | unceen x Res Nullius with L.zwo | Ani con Gas, Arlo Bell, BREITBAND, Charleen Herzig, Dr. G, L.zwo, LMTwo, Limoncello, Taskä, WAYRA |
+| Fri, 21 Aug 2026 | unceen x Res Nullius with L.zwo | Ani con Gas, Arlo Bell, BREITBAND, Charleen Herzig, Dr. G, L.zwo, LMTwo, Limoncello, SunnDior, Taskä, WAYRA |
 | Sat, 5 Sept 2026 | Planet Pluto Afterhour x Biscuits | MILLE |
 
 ## Address

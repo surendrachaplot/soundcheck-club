@@ -9,7 +9,7 @@ Das Werk is a music venue in Vienna listed on soundcheck. 6 upcoming nights, wit
 | Date | Night | Line-up |
 | --- | --- | --- |
 | Sat, 1 Aug 2026 | TECHNO OBSCENE #32 - NINE O NINE x LSH - Das Werk Wien | Albin Brezlan, Huebl |
-| Fri, 14 Aug 2026 | HERZFREQUENZ: SUMMER BOUNCE EDITION | Crystal O, DJ WIFI, DJ Wolle, DORAH, Joey (2), KILIÅN, Limoncello, Pixie Dust, SAYA |
+| Fri, 14 Aug 2026 | HERZFREQUENZ: SUMMER BOUNCE EDITION | Crystal O, DJ WIFI, DJ Wolle, DORAH, Joey (2), KILIÅN, Limoncello, Melle, Pixie Dust, SAYA |
 | Sat, 15 Aug 2026 | SYNERGY RAVE x Trance + Hard Techno |  |
 | Fri, 11 Sept 2026 | HERZFREQUENZ: NIGHT | Crystal O, DJ Wolle, DORAH, Joey (2), KILIÅN, Kat Ze, Kø:lab, SEKTOR69, WO.IZZY, YØNDER, carlo kalu |
 | Fri, 9 Oct 2026 | HERZFREQUENZ | Joey (2) |

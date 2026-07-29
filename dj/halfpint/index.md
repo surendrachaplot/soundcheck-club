@@ -1,8 +1,8 @@
 # HALFPINT
 
-HALFPINT is a House and Techno artist with 5 upcoming club dates listed on soundcheck as of Wed, 29 Jul 2026, next at DC-10, Ibiza on Mon, 3 Aug 2026.
+HALFPINT is a House and Techno artist with 6 upcoming club dates listed on soundcheck as of Wed, 29 Jul 2026, next at DC-10, Ibiza on Mon, 3 Aug 2026.
 
-HALFPINT is a house and techno artist tracked on soundcheck, with 41 sets logged across Amsterdam, Brighton, Dublin and Hamburg and 2 more. Often billed alongside Sossa, Seth Troxler and Jamback. Next up: DC-10, Ibiza on Mon 3 Aug.
+HALFPINT is a house and techno artist tracked on soundcheck, with 42 sets logged across Amsterdam, Brighton, Dublin and Hamburg and 2 more. Often billed alongside Sossa, Seth Troxler and Jamback. Next up: DC-10, Ibiza on Mon 3 Aug.
 
 ## Upcoming shows
 
@@ -13,6 +13,7 @@ HALFPINT is a house and techno artist tracked on soundcheck, with 41 sets logged
 | Mon, 24 Aug 2026 | DC-10 | Ibiza |
 | Sat, 29 Aug 2026 | Kelvedon Hall | London |
 | Sat, 29 Aug 2026 | fabric | London |
+| Fri, 16 Oct 2026 | fabric | London |
 
 ## Recently played
 

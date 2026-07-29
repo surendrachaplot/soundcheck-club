@@ -8,7 +8,7 @@ The Marcus Ward is a music venue in Belfast listed on soundcheck. 1 upcoming nig
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Sat, 1 Aug 2026 | Free Party - Marcus Ward | CLERK., Casual, GUZZ., HUTS, KACPER, Skellyoz, YARIS (2) |
+| Sat, 1 Aug 2026 | Free Party - Marcus Ward | CLERK., Casual, GUZZ., HUTS, KACPER, Mosaic DJs, Skellyoz, YARIS (2) |
 
 ## Address
 

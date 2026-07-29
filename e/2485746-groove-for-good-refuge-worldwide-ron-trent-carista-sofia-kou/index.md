@@ -1,6 +1,6 @@
 # Groove For Good & Refuge Worldwide: Ron Trent, CARISTA, Sofia Kourtesis at Prince Charles
 
-Groove For Good & Refuge Worldwide: Ron Trent, CARISTA, Sofia Kourtesis at Prince Charles on Sun 2 Aug, Berlin. 6 acts on the bill: CARISTA, Cyan85, Holten and Pat and 2 more. Preview the line-up and save it on soundcheck.
+Groove For Good & Refuge Worldwide: Ron Trent, CARISTA, Sofia Kourtesis at Prince Charles on Sun 2 Aug, Berlin. 7 acts on the bill: CARISTA, Cyan85, Holten and livwutang and 3 more. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -13,6 +13,7 @@ Groove For Good & Refuge Worldwide: Ron Trent, CARISTA, Sofia Kourtesis at Princ
 - CARISTA
 - Cyan85
 - Holten
+- livwutang
 - Pat
 - Ron Trent
 - Sofia Kourtesis

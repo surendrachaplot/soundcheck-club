@@ -1,6 +1,6 @@
-# ABOV FLINTA at KREUZWERK
+# ABOV - FLINTA* at KREUZWERK
 
-ABOV FLINTA at KREUZWERK on Fri 18 Sept, Berlin. Techno. Preview the line-up and save it on soundcheck.
+ABOV - FLINTA* at KREUZWERK on Fri 18 Sept, Berlin. Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

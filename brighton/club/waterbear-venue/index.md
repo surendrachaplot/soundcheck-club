@@ -9,7 +9,7 @@ WaterBear Venue is a music venue in Brighton listed on soundcheck. 5 upcoming ni
 | Date | Night | Line-up |
 | --- | --- | --- |
 | Sat, 15 Aug 2026 | CONNECTED BRIGHTON |  |
-| Fri, 21 Aug 2026 | Deep Transmission 8 - DT 808 | Sp.oon |
+| Fri, 21 Aug 2026 | Deep Transmission 8 - DT 808 | Matt Bird aka Birdman, Sp.oon |
 | Sat, 29 Aug 2026 | UNDERGROUND TECHNO SOCIETY PRESENTS Raymundo Rodriguez | Cage (1), DSD uk, Raymundo Rodriguez |
 | Sat, 19 Sept 2026 | Berlin presents Juliet Sikora | Caroline Banx, Heiko Geritzmann, Juliet Sikora, Markus Saarländer, Nolan |
 | Sat, 3 Oct 2026 | Underground Playground: Dave Angel | Dave Angel |

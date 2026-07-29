@@ -1,6 +1,6 @@
 # Gallery x Anza presents: KARABA at Gallery
 
-Gallery x Anza presents: KARABA on Fri 28 Aug, London. 4 acts on the bill: KARABA, Leeda, Nicky Summers and S FLY. Afro House. Preview the line-up and save it on soundcheck.
+Gallery x Anza presents: KARABA on Fri 28 Aug, London. 5 acts on the bill: KARABA, Leeda, Nicky Summers and S FLY and 1 more. Afro House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -14,5 +14,6 @@ Gallery x Anza presents: KARABA on Fri 28 Aug, London. 4 acts on the bill: KARAB
 - Leeda
 - Nicky Summers
 - S FLY
+- Shena
 
 *Source: [soundcheck](https://soundcheck.club/e/2499143-gallery-x-anza-presents-karaba-at-gallery/)*

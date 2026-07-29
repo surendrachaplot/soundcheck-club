@@ -1,6 +1,6 @@
 # PRIDE AFTERS at TBA - Private Location
 
-PRIDE AFTERS at TBA - Private Location on Fri 31 Jul, Vancouver. 3 acts on the bill: 2flowers, DF Cuke and LVT. Techno and Disco. Preview the line-up and save it on soundcheck.
+PRIDE AFTERS at TBA - Private Location on Fri 31 Jul, Vancouver. 4 acts on the bill: 2flowers, DF Cuke, Kasha T and LVT. Techno and Disco. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -12,6 +12,7 @@ PRIDE AFTERS at TBA - Private Location on Fri 31 Jul, Vancouver. 3 acts on the b
 
 - 2flowers
 - DF Cuke
+- Kasha T
 - LVT
 
 *Source: [soundcheck](https://soundcheck.club/e/2499771-pride-afters-at-tba-private-location/)*

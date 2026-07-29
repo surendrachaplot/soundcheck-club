@@ -1,8 +1,8 @@
 # Enter Shibuya
 
-Enter Shibuya is a music venue in Tokyo with 11 upcoming nights listed on soundcheck as of Wed, 29 Jul 2026; the next is "VAMOS" on Wed, 29 Jul 2026.
+Enter Shibuya is a music venue in Tokyo with 14 upcoming nights listed on soundcheck as of Wed, 29 Jul 2026; the next is "VAMOS" on Wed, 29 Jul 2026.
 
-Enter Shibuya is a music venue in Tokyo listed on soundcheck. 11 upcoming nights, with line-ups including AllA, COCOLY, CYBERHACKSYSTEM and DJ Moro and 2 more. Browse upcoming dates, start times and who's playing. 6F GEMS Jingumae, 6-19-17,  Jingumae,Shibuya-ku, Tokyo 150-0001 Japan.
+Enter Shibuya is a music venue in Tokyo listed on soundcheck. 14 upcoming nights, with line-ups including 7e, AKIRAM EN, Albino Sound and AllA and 2 more. Browse upcoming dates, start times and who's playing. 6F GEMS Jingumae, 6-19-17,  Jingumae,Shibuya-ku, Tokyo 150-0001 Japan.
 
 ## What's on
 
@@ -15,9 +15,9 @@ Enter Shibuya is a music venue in Tokyo listed on soundcheck. 11 upcoming nights
 | Mon, 3 Aug 2026 | BB | CYBERHACKSYSTEM, OKAMOTO REIJI, S.H.V, ryuu (2) |
 | Tue, 4 Aug 2026 | Dance Dance Dance | FELINE (JP), NordOst, 宇宙チンチラ |
 | Wed, 5 Aug 2026 | SHELL WE ENTER | UG (1), lostbaggage |
+| Fri, 7 Aug 2026 | lit-ing Room -Living Room x lit Special- | DJ Quietstorm, FU (JP), JUN TANAKA, Yosuke |
+| Sat, 8 Aug 2026 | The Dreamers EP37 | Louis Shannon, Rickey Shannon |
 | Wed, 12 Aug 2026 | Denki vol.2 | Eichi Abe, Pointhope, Tui (1) |
-| Fri, 14 Aug 2026 | HIRAKE GOMA -Leefia KUMAGOYA RELEASE PARTY- | COCOLY, J.A.K.A.M., Leefia, Mamazu, michika |
-| Thu, 20 Aug 2026 | BS0xtra | MEGURO, Mars89, NullDaSensei, ykah |
 
 ## Address
 

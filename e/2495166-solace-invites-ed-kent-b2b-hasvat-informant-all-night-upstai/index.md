@@ -1,6 +1,6 @@
 # Solace Invites Ed Kent B2B Hasvat Informant All Night Upstairs + Rosax All Night Downstairs at Solace
 
-Solace Invites Ed Kent B2B Hasvat Informant All Night Upstairs + Rosax All Night Downstairs on Fri 14 Aug, Melbourne. 2 acts on the bill: Ed Kent and Hasvat Informant. Techno. Preview the line-up and save it on soundcheck.
+Solace Invites Ed Kent B2B Hasvat Informant All Night Upstairs + Rosax All Night Downstairs on Fri 14 Aug, Melbourne. 3 acts on the bill: Ed Kent, Hasvat Informant and Rosax. Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -12,5 +12,6 @@ Solace Invites Ed Kent B2B Hasvat Informant All Night Upstairs + Rosax All Night
 
 - Ed Kent
 - Hasvat Informant
+- Rosax
 
 *Source: [soundcheck](https://soundcheck.club/e/2495166-solace-invites-ed-kent-b2b-hasvat-informant-all-night-upstai/)*

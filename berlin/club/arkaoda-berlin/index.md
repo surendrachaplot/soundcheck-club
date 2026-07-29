@@ -13,7 +13,7 @@ arkaoda Berlin is a music venue in Berlin listed on soundcheck. 10 upcoming nigh
 | Sat, 1 Aug 2026 | Batukizer & Kabulom at arkaoda | Batukizer, Kabulom |
 | Sun, 2 Aug 2026 | Vinyl Market with Batukizer |  |
 | Thu, 6 Aug 2026 | Noche Cierva en Arkaoda | CRUHDA, Kappa Cat, Kasja |
-| Fri, 7 Aug 2026 | X-Kalay with COZi, DJ Life, evin, Georgia Bird, Sam | COZi, DJ Life, Georgia Bird, evin |
+| Fri, 7 Aug 2026 | X-Kalay with *Special Guest*, DJ Life, evin, Georgia Bird, Sam | COZi, DJ Life, Georgia Bird, evin |
 | Sat, 8 Aug 2026 | Braygray — 1 Year　A.Wild , Diamin b2b Sean Gates , SONOKI | A.Wild, Diamin, SONOKI |
 | Thu, 27 Aug 2026 | Wormhole 005 | Emanuele Barilli, Josefina Tapia (2), Sean Gonzalez |
 | Sat, 3 Oct 2026 | LEYA / Berlin Concert | LEYA |

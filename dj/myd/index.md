@@ -1,8 +1,8 @@
 # Myd
 
-Myd is a House and Electro artist with 3 upcoming club dates listed on soundcheck as of Wed, 29 Jul 2026, next at Amnesia Ibiza, Ibiza on Fri, 31 Jul 2026.
+Myd is a House and Electro artist with 4 upcoming club dates listed on soundcheck as of Wed, 29 Jul 2026, next at Amnesia Ibiza, Ibiza on Fri, 31 Jul 2026.
 
-Myd is a house and electro artist tracked on soundcheck, with 104 sets logged across Amsterdam, Antwerp, Barcelona and Berlin and 27 more. Often billed alongside Busy P, Breakbot and Cassius. Next up: Amnesia Ibiza, Ibiza on Fri 31 Jul.
+Myd is a house and electro artist tracked on soundcheck, with 105 sets logged across Amsterdam, Antwerp, Barcelona and Berlin and 27 more. Often billed alongside Busy P, Breakbot and Cassius. Next up: Amnesia Ibiza, Ibiza on Fri 31 Jul.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Myd is a house and electro artist tracked on soundcheck, with 104 sets logged ac
 | --- | --- | --- |
 | Fri, 31 Jul 2026 | Amnesia Ibiza | Ibiza |
 | Sat, 8 Aug 2026 | Cova Santa | Ibiza |
+| Thu, 27 Aug 2026 | ZeyZey | Miami |
 | Sat, 10 Oct 2026 | DRUMSHEDS | London |
 
 ## Recently played

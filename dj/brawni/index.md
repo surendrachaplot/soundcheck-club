@@ -1,14 +1,15 @@
 # brawni
 
-brawni is a Techno and Experimental artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at The Ulster Sports Club, Belfast on Fri, 7 Aug 2026.
+brawni is a Techno and Experimental artist with 2 upcoming club dates listed on soundcheck as of Wed, 29 Jul 2026, next at The Ulster Sports Club, Belfast on Fri, 7 Aug 2026.
 
-brawni is a techno and experimental artist tracked on soundcheck, with 21 sets logged across Belfast, Dublin, Galway and Limerick. Often billed alongside Chaz Moloney, Tadhg K and Efa O'Neill. Next up: The Ulster Sports Club, Belfast on Fri 7 Aug.
+brawni is a techno and experimental artist tracked on soundcheck, with 22 sets logged across Belfast, Dublin, Galway and Limerick. Often billed alongside Chaz Moloney, Tadhg K and Barker. Next up: The Ulster Sports Club, Belfast on Fri 7 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 7 Aug 2026 | The Ulster Sports Club | Belfast |
+| Sat, 10 Oct 2026 | Mandela Hall | Belfast |
 
 ## Recently played
 
@@ -23,6 +24,6 @@ brawni is a techno and experimental artist tracked on soundcheck, with 21 sets l
 
 ## Shares bills with
 
-Chaz Moloney, Tadhg K, Efa O'Neill
+Chaz Moloney, Tadhg K, Barker
 
 *Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/brawni/)*

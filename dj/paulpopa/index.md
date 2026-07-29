@@ -1,14 +1,15 @@
 # Paul Popa
 
-Paul Popa is a Techno and Electro artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at Les Enfants Brillants, Barcelona on Fri, 31 Jul 2026.
+Paul Popa is a Techno and Electro artist with 2 upcoming club dates listed on soundcheck as of Wed, 29 Jul 2026, next at Les Enfants Brillants, Barcelona on Fri, 31 Jul 2026.
 
-Paul Popa is a techno and electro artist based in Romania, tracked on soundcheck, with 25 sets logged across Barcelona and Bucharest. Often billed alongside Mianda, Teodor Ghita and Syntelman. Next up: Les Enfants Brillants, Barcelona on Fri 31 Jul.
+Paul Popa is a techno and electro artist based in Romania, tracked on soundcheck, with 26 sets logged across Barcelona and Bucharest. Often billed alongside Mianda, Teodor Ghita and Nicolas Lutz. Next up: Les Enfants Brillants, Barcelona on Fri 31 Jul.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 31 Jul 2026 | Les Enfants Brillants | Barcelona |
+| Sat, 29 Aug 2026 | Platforma Wolff | Bucharest |
 
 ## Recently played
 
@@ -23,6 +24,6 @@ Paul Popa is a techno and electro artist based in Romania, tracked on soundcheck
 
 ## Shares bills with
 
-Mianda, Teodor Ghita, Syntelman
+Mianda, Teodor Ghita, Nicolas Lutz
 
 *Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/paulpopa/)*

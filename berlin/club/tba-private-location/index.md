@@ -8,7 +8,7 @@ TBA - Private Location is a music venue in Berlin listed on soundcheck. 4 upcomi
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Fri, 31 Jul 2026 | PRIDE AFTERS | 2flowers, DF Cuke, LVT |
+| Fri, 31 Jul 2026 | PRIDE AFTERS | 2flowers, DF Cuke, Kasha T, LVT |
 | Sat, 1 Aug 2026 | DOLLY X PPRZ Pride 2026 | 2flowers, Annika Wolfe, DJ Hockey, LVT |
 | Fri, 14 Aug 2026 | MI4L 15 YEAR ft Deep Dish (Dubfire & Sharam) | AMIRA, Ali Gria, DJ IDeaL, Deep Dish, Jimbo James, Mitch Dodge, Ramin Majlessi, SAAND, Susio, Terry Jasinto, Tyler Chase |
 | Sun, 13 Sept 2026 | SOLUNE ft Gorje Hewek | Gorje Hewek, Megalina, SAAND |

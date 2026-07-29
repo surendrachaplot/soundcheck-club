@@ -1,6 +1,6 @@
 # Foundation 09 at Tiki Rock
 
-Foundation 09 at Tiki Rock on Thu 30 Jul, Boston. 2 acts on the bill: Alex Slater and Màrelle. House and Deep House. Preview the line-up and save it on soundcheck.
+Foundation 09 at Tiki Rock on Thu 30 Jul, Boston. 3 acts on the bill: Alex Slater, Brushwerk and Màrelle. House and Deep House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -11,6 +11,7 @@ Foundation 09 at Tiki Rock on Thu 30 Jul, Boston. 2 acts on the bill: Alex Slate
 ## Line-up
 
 - Alex Slater
+- Brushwerk
 - Màrelle
 
 *Source: [soundcheck](https://soundcheck.club/e/2498238-foundation-09-at-tiki-rock/)*

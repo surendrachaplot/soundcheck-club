@@ -1,14 +1,15 @@
 # Domenico Crisci
 
-Domenico Crisci is a Techno and Electro artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at Mejan, Bali on Fri, 31 Jul 2026.
+Domenico Crisci is a Techno and Electro artist with 2 upcoming club dates listed on soundcheck as of Wed, 29 Jul 2026, next at Mejan, Bali on Fri, 31 Jul 2026.
 
-Domenico Crisci is a techno and electro artist based in Italy, tracked on soundcheck, with 12 sets logged across Bali, London, Naples and Paris and 1 more. Often billed alongside Panzer, Rebecca Delle Piane and 400 Coups, Minuit. Next up: Mejan, Bali on Fri 31 Jul.
+Domenico Crisci is a techno and electro artist based in Italy, tracked on soundcheck, with 13 sets logged across Bali, Hongkong, London and Naples and 2 more. Often billed alongside Panzer, Rebecca Delle Piane and 400 Coups, Minuit. Next up: Mejan, Bali on Fri 31 Jul.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 31 Jul 2026 | Mejan | Bali |
+| Sat, 1 Aug 2026 | Casa Dao | Hong Kong |
 
 ## Recently played
 

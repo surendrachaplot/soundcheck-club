@@ -1,8 +1,8 @@
 # Tasha
 
-Tasha is a Techno and House artist with 8 upcoming club dates listed on soundcheck as of Wed, 29 Jul 2026, next at Amsterdamse Bos, Amsterdam on Wed, 29 Jul 2026.
+Tasha is a Techno and House artist with 9 upcoming club dates listed on soundcheck as of Wed, 29 Jul 2026, next at Amsterdamse Bos, Amsterdam on Wed, 29 Jul 2026.
 
-Tasha is a techno and house artist tracked on soundcheck, with 184 sets logged across Amsterdam, Athens, Barcelona and Basel and 36 more. Often billed alongside Steffi, Blasha & Allatt and DVS1. Next up: Amsterdamse Bos, Amsterdam on Wed 29 Jul.
+Tasha is a techno and house artist tracked on soundcheck, with 185 sets logged across Amsterdam, Athens, Barcelona and Basel and 36 more. Often billed alongside Steffi, Blasha & Allatt and DVS1. Next up: Amsterdamse Bos, Amsterdam on Wed 29 Jul.
 
 ## Upcoming shows
 
@@ -13,6 +13,7 @@ Tasha is a techno and house artist tracked on soundcheck, with 184 sets logged a
 | Sat, 1 Aug 2026 | Amsterdamse Bos | Amsterdam |
 | Fri, 7 Aug 2026 | The Cause | London |
 | Sat, 8 Aug 2026 | The Prospect Building | Bristol |
+| Thu, 27 Aug 2026 | OHM | Berlin |
 | Fri, 4 Sept 2026 | HERE | London |
 | Thu, 10 Sept 2026 | Barragem da Queimadela | Porto |
 | Sat, 12 Sept 2026 | Palais | London |

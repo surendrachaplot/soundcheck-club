@@ -1,6 +1,6 @@
 # DownLoad at the Divine Lorrain at broad hall.
 
-DownLoad at the Divine Lorrain at broad hall. on Fri 14 Aug, Philadelphia. 1 act on the bill: Self Talk. Techno and Deep House. Preview the line-up and save it on soundcheck.
+DownLoad at the Divine Lorrain at broad hall. on Fri 14 Aug, Philadelphia. 2 acts on the bill: Self Talk and soycupid. Techno and Deep House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -11,5 +11,6 @@ DownLoad at the Divine Lorrain at broad hall. on Fri 14 Aug, Philadelphia. 1 act
 ## Line-up
 
 - Self Talk
+- soycupid
 
 *Source: [soundcheck](https://soundcheck.club/e/2500332-download-at-the-divine-lorrain-at-broad-hall/)*

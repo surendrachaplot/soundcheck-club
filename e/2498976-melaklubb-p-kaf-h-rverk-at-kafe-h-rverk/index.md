@@ -1,6 +1,6 @@
 # MelaKlubb på Kafé Hærverk at Kafe Hærverk
 
-MelaKlubb på Kafé Hærverk at Kafe Hærverk on Fri 14 Aug, Oslo. 1 act on the bill: Arsenal Mikebe. Preview the line-up and save it on soundcheck.
+MelaKlubb på Kafé Hærverk at Kafe Hærverk on Fri 14 Aug, Oslo. 2 acts on the bill: Arsenal Mikebe and Nora Pagu. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -11,5 +11,6 @@ MelaKlubb på Kafé Hærverk at Kafe Hærverk on Fri 14 Aug, Oslo. 1 act on the 
 ## Line-up
 
 - Arsenal Mikebe
+- Nora Pagu
 
 *Source: [soundcheck](https://soundcheck.club/e/2498976-melaklubb-p-kaf-h-rverk-at-kafe-h-rverk/)*

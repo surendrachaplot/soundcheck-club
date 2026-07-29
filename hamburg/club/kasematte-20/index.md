@@ -2,13 +2,13 @@
 
 Kasematte 20 is a music venue in Hamburg with 1 upcoming night listed on soundcheck as of Wed, 29 Jul 2026; the next is "KINKY SUNDAYS PRIDEFEST" on Sun, 2 Aug 2026.
 
-Kasematte 20 is a music venue in Hamburg listed on soundcheck. 1 upcoming night, with line-ups including Dj handbag. Browse upcoming dates, start times and who's playing. Alsterglacis 20, 20354 Hamburg, Germany.
+Kasematte 20 is a music venue in Hamburg listed on soundcheck. 1 upcoming night, with line-ups including Dj handbag and Tariel. Browse upcoming dates, start times and who's playing. Alsterglacis 20, 20354 Hamburg, Germany.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Sun, 2 Aug 2026 | KINKY SUNDAYS PRIDEFEST | Dj handbag |
+| Sun, 2 Aug 2026 | KINKY SUNDAYS PRIDEFEST | Dj handbag, Tariel |
 
 ## Address
 

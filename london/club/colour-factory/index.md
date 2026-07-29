@@ -14,10 +14,10 @@ Colour Factory is a music venue in London listed on soundcheck. 16 upcoming nigh
 | Fri, 7 Aug 2026 | Club Voices Radio x Colour Factory: A Club Friendly Free Party (Femme Special) | CITYTRONIX, the butcher bird |
 | Sat, 8 Aug 2026 | Melodies International presents Ariwa Sounds release party with Mad Professor & special guests | Mad Professor |
 | Sat, 8 Aug 2026 | BAILE TRAMA w/ CIANA, MANUKA HONEY, DAZLBOY, YAS, JCVS ˚ˋঌ˖ | DAZLBØY, JCVS, Manuka Honey, YAS (9) |
-| Fri, 14 Aug 2026 | Playlist LDN - AFRO SOUNDS - HOUSE - FUNK - HIP HOP |  |
-| Fri, 14 Aug 2026 | Nitecawr | Dazegxd |
+| Fri, 14 Aug 2026 | Playlist LDN - FREE ENTRY |  |
+| Fri, 14 Aug 2026 | Nitecawr | Dazegxd, Soma (2), Soulgem (1) |
 | Sat, 15 Aug 2026 | Soulstice Day-to-Night 2026: Conducta, Danielle b2b Jossy Mitsu, Ghoulish, Lu.Re & More | Cable!, Conducta, Danielle, GRACE.., Ghoulish, Jamie Joy, Jossy Mitsu, Lu.Re, Selassie TBC, VNEE |
-| Sun, 16 Aug 2026 | Distant Planet & Hornsey Hardcore - Summer madness | Equinox (UK), Hughesee, Jerome Hill, Louise Plus One |
+| Sun, 16 Aug 2026 | Distant Planet & Hornsey Hardcore - Summer Madness - outdoor day-time session | Equinox (UK), Hughesee, Jerome Hill, Louise Plus One |
 
 ## Address
 

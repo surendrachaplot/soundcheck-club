@@ -1,6 +1,6 @@
 # NOUGHTIES - A queer multi-genre event (House, Garage, Trance/Euro-Dance, DnB, UK Hardcore) at The Queen Adelaide
 
-NOUGHTIES - A queer multi-genre event (House, Garage, Trance/Euro-Dance, DnB, UK Hardcore) at The Queen Adelaide on Fri 21 Aug, London. 4 acts on the bill: Glitch (LDN), POLLY (UK), Px (UK) and SwearyPrincess. Trance and Garage. Preview the line-up and save it on soundcheck.
+NOUGHTIES - A queer multi-genre event (House, Garage, Trance/Euro-Dance, DnB, UK Hardcore) at The Queen Adelaide on Fri 21 Aug, London. 5 acts on the bill: Glitch (LDN), JUNOHH, POLLY (UK) and Px (UK) and 1 more. Trance and Garage. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -11,6 +11,7 @@ NOUGHTIES - A queer multi-genre event (House, Garage, Trance/Euro-Dance, DnB, UK
 ## Line-up
 
 - Glitch (LDN)
+- JUNOHH
 - POLLY (UK)
 - Px (UK)
 - SwearyPrincess

@@ -1,6 +1,6 @@
 # Locker Room feat.Lee Ann Roberts - HARD TECHNO / TECHNO - at ZEROTOKYO
 
-Locker Room feat.Lee Ann Roberts - HARD TECHNO / TECHNO - at ZEROTOKYO on Fri 31 Jul, Tokyo. 10 acts on the bill: Aloetic, ASIN, CHIKA and DALJAE and 6 more. Techno. Preview the line-up and save it on soundcheck.
+Locker Room feat.Lee Ann Roberts - HARD TECHNO / TECHNO - at ZEROTOKYO on Fri 31 Jul, Tokyo. 11 acts on the bill: Aloetic, ASIN, CHIKA and DALJAE and 7 more. Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -14,6 +14,7 @@ Locker Room feat.Lee Ann Roberts - HARD TECHNO / TECHNO - at ZEROTOKYO on Fri 31
 - ASIN
 - CHIKA
 - DALJAE
+- HATSUYUKI
 - Lee Ann Roberts
 - O.Goo
 - Ryuga Nomoto

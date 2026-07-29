@@ -8,7 +8,7 @@ Atno is a music venue in Budapest listed on soundcheck. 4 upcoming nights, with 
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Fri, 31 Jul 2026 | 4tune invites Slayphex Twins | 96zen, Helena Lua, Slayphex Twins |
+| Fri, 31 Jul 2026 | 4tune invites Slayphex Twins | 96zen, Helena Lua, Slayphex Twins, penge |
 | Sat, 1 Aug 2026 | OÁZIS INVITES Vass (UK) | KINGA, Krics, ML91, Nermo, Vass, quasi quasi |
 | Fri, 7 Aug 2026 | Csillag | CQUE, Kin Teal, ZOL |
 | Fri, 14 Aug 2026 | House Oázis | Electric Boutique, Noumena, Octile, Rolo (3) |

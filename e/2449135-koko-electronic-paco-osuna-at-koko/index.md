@@ -1,6 +1,6 @@
 # KOKO Electronic: Paco Osuna at KOKO
 
-KOKO Electronic: Paco Osuna on Fri 28 Aug, London. 2 acts on the bill: Mason Collective and Paco Osuna. Preview the line-up and save it on soundcheck.
+KOKO Electronic: Paco Osuna on Fri 28 Aug, London. 3 acts on the bill: Joëlla Jackson, Mason Collective and Paco Osuna. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,6 +10,7 @@ KOKO Electronic: Paco Osuna on Fri 28 Aug, London. 2 acts on the bill: Mason Col
 
 ## Line-up
 
+- Joëlla Jackson
 - Mason Collective
 - Paco Osuna
 

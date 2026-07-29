@@ -11,7 +11,7 @@ La Java is a music venue in Paris listed on soundcheck. 4 upcoming nights, with 
 | Sat, 29 Aug 2026 | C7 1year: Known Artist, Dielli, Club Eterno & More | Dielli, KnownArtist |
 | Sat, 5 Sept 2026 | Le Club House : Occibel, Bousti, Numero 6 & More | Numero 6, Occibel |
 | Fri, 11 Sept 2026 | Pastel, Baka G, Mely & More: Groovy Celebration | Baka G, Mely, Pastel |
-| Sat, 12 Sept 2026 | Dj Angel, Rin La Dalle, Succubus & More: Groove your body |  |
+| Sat, 12 Sept 2026 | Dj Angel, Rin La Dalle, Succubus & More: Groove your body | Mia Ovaa |
 
 ## Address
 

@@ -1,8 +1,8 @@
 # Nathassia
 
-Nathassia is a Techno and House artist with 4 upcoming club dates listed on soundcheck as of Wed, 29 Jul 2026, next at UNDERCITY, Seoul on Fri, 31 Jul 2026.
+Nathassia is a Techno and Progressive House artist with 4 upcoming club dates listed on soundcheck as of Wed, 29 Jul 2026, next at UNDERCITY, Seoul on Fri, 31 Jul 2026.
 
-Nathassia is a techno and house artist based in Netherlands, tracked on soundcheck, with 8 sets logged across Amsterdam, Ibiza, London and Seoul. Often billed alongside Ginchy, EL PADRE and P.O.U. Next up: UNDERCITY, Seoul on Fri 31 Jul.
+Nathassia is a techno and progressive house artist based in Netherlands, tracked on soundcheck, with 8 sets logged across Amsterdam, Ibiza, London and Seoul. Often billed alongside Ginchy, EL PADRE and P.O.U. Next up: UNDERCITY, Seoul on Fri 31 Jul.
 
 ## Upcoming shows
 

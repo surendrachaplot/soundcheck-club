@@ -2,13 +2,13 @@
 
 Sundara Club is a music venue in Ibiza with 4 upcoming nights listed on soundcheck as of Wed, 29 Jul 2026; the next is "BES presents: ArchangelUK & Proper Decent Choons @ Sundara Ibiza" on Sat, 15 Aug 2026.
 
-Sundara Club is a music venue in Ibiza listed on soundcheck. 4 upcoming nights, with line-ups including Chrisy Stebbeds, Nathassia, Nekro and Philip Ackowsky and 1 more. Browse upcoming dates, start times and who's playing. Carrer Badajoz, 10, 07829 Sant Josep de sa Talaia, Ibiza San Antonio bay.
+Sundara Club is a music venue in Ibiza listed on soundcheck. 4 upcoming nights, with line-ups including Chrissy Meraki, Chrisy Stebbeds, Mr. Root and Nathassia and 2 more. Browse upcoming dates, start times and who's playing. Carrer Badajoz, 10, 07829 Sant Josep de sa Talaia, Ibiza San Antonio bay.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Sat, 15 Aug 2026 | BES presents: ArchangelUK & Proper Decent Choons @ Sundara Ibiza | Chrisy Stebbeds, Nathassia, YELLODY |
+| Sat, 15 Aug 2026 | BES presents: ArchangelUK & Proper Decent Choons @ Sundara Ibiza | Chrissy Meraki, Chrisy Stebbeds, Mr. Root, Nathassia, YELLODY |
 | Sat, 15 Aug 2026 | BES presents ArchangelUK & Proper Decent Choons | YELLODY |
 | Sat, 5 Sept 2026 | Techno Agency x O.S.M.W.S.T.A x T6E RESILIENCE | Nekro, Philip Ackowsky |
 | Mon, 28 Sept 2026 | Back To The Groove Ibiza |  |

@@ -1,6 +1,6 @@
 # Vinyl Encounters at Oath
 
-Vinyl Encounters at Oath on Sat 1 Aug, Tokyo. 4 acts on the bill: Connor, Robin Ordell, Yama and yama’ (JP). House and Electro. Preview the line-up and save it on soundcheck.
+Vinyl Encounters at Oath on Sat 1 Aug, Tokyo. 5 acts on the bill: Connor, Kazuki (2), Robin Ordell and Yama and 1 more. House and Electro. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -11,6 +11,7 @@ Vinyl Encounters at Oath on Sat 1 Aug, Tokyo. 4 acts on the bill: Connor, Robin 
 ## Line-up
 
 - Connor
+- Kazuki (2)
 - Robin Ordell
 - Yama
 - yama’ (JP)

@@ -15,7 +15,7 @@
 | Thu, 6 Aug 2026 | NOX CULTURA EVENTS | Fazi, GM1 (IT), Kizu, MISSTAKEN, Take1More |
 | Fri, 7 Aug 2026 | Ten Years SYNOID | Acierate, AnD, PINKBOIALWAYSCRY, Rebekah, SLV |
 | Sat, 8 Aug 2026 | TRINITY pt. IV w/ Lukas Meunier & David Strasser | BENDOM, David Strasser, FRËIHERR, Lukas Meunier, Nilinski, Phil Biehler, Schleo, SchokoZitrone, Yokio, kutscher, loumo |
-| Sun, 9 Aug 2026 | PALMAHOUSICA |  |
+| Sun, 9 Aug 2026 | PALMAHOUSICA | DJ Ramoco |
 | Thu, 13 Aug 2026 | FREENETICA CREW at ÆDEN with Tarkno - 7CIRCLE - Caniche - Mython | 7CIRCLE, Caniche, Jacopo Forli, Linda shiro, Mat Hex, Mython, NKK (IT), Phreenetic, Soffice, Tarkno |
 | Fri, 21 Aug 2026 | BPM x Anechoic: Summer Ride | August Kind, B.R.K.Ø., Bruno Brero, Deltapeak, E.T., Eli Bot, Hanne B, MIMI404, OnlyWithYou, bbymeister, e.leptic, jeanska, k4mi, sterni (DE) |
 

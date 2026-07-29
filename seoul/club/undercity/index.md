@@ -1,15 +1,16 @@
 # UNDERCITY
 
-UNDERCITY is a music venue in Seoul with 2 upcoming nights listed on soundcheck as of Wed, 29 Jul 2026; the next is "Drama Club: Ginchy (ASOT/RESISTANCE)" on Fri, 31 Jul 2026.
+UNDERCITY is a music venue in Seoul with 3 upcoming nights listed on soundcheck as of Wed, 29 Jul 2026; the next is "Drama Club: Ginchy (ASOT/RESISTANCE)" on Fri, 31 Jul 2026.
 
-UNDERCITY is a music venue in Seoul listed on soundcheck. 2 upcoming nights, with line-ups including Ginchy, Jiwoo Ahn, KIMNA and Nathassia and 2 more. Browse upcoming dates, start times and who's playing. Basement, 61 Seongsui-ro 22-gil, Seongdong-gu, Seoul.
+UNDERCITY is a music venue in Seoul listed on soundcheck. 3 upcoming nights, with line-ups including DAMIE (KR), Ginchy, Jiwoo Ahn and KIMNA and 2 more. Browse upcoming dates, start times and who's playing. Basement, 61 Seongsui-ro 22-gil, Seongdong-gu, Seoul.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Fri, 31 Jul 2026 | Drama Club: Ginchy (ASOT/RESISTANCE) | Ginchy, Jiwoo Ahn, Nathassia |
+| Fri, 31 Jul 2026 | Drama Club: Ginchy (ASOT/RESISTANCE) | Ginchy, Jiwoo Ahn, Nathassia, Terry Golden |
 | Sat, 8 Aug 2026 | CORE #009 by UNDERCITY | KIMNA, No/ah, Vorus, YJ(KOR) |
+| Sat, 15 Aug 2026 | UNDERCITY presents Simone Zino | DAMIE (KR), KIMNA, Mukthi, No/ah, Simone Zino, Vorus |
 
 ## Address
 

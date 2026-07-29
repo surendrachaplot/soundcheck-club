@@ -10,7 +10,7 @@ Elsewhere is a music venue in Newyorkcity listed on soundcheck. 49 upcoming nigh
 | --- | --- | --- |
 | Fri, 31 Jul 2026 | Bad Tuner, gabby cocco | Bad Tuner, gabby cocco |
 | Fri, 31 Jul 2026 | Locklead, Lance Savali, DELACOUR, Amy Jor b2b Connie, Eavesdrop Records | ANDI WALL, Amy Jor, Connie, DELACOUR, Locklead |
-| Sat, 1 Aug 2026 | Uffie (DJ Set) + CFCF (DJ Set), Doecaine, CLUB VS TRANCE + more | Aster, Malcolm XL, Soo Intoit, Uffie |
+| Sat, 1 Aug 2026 | Uffie (DJ Set) + CFCF (DJ Set), Doecaine, CLUB VS TRANCE + more | Aster, Malcolm XL, Soo Intoit, Uffie, hideyoshi.v94 |
 | Sat, 1 Aug 2026 | DESCENDANTS | Meedy |
 | Sun, 2 Aug 2026 | Haza Summer Jam - DJ Sets by Carmen Sandiego, Myyuh, Fursa, Sarah Sadaka, Vibes by Sam Burriss | Fursa, Myyuh, Sarah Sadaka |
 | Thu, 6 Aug 2026 | San Junipero - A Retrowave Party: Valentine, Faith in the Glitch, GreenTeaWasted | Valentine |

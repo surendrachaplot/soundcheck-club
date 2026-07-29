@@ -9,7 +9,7 @@ World Headquarters is a music venue in Newcastle listed on soundcheck. 11 upcomi
 | Date | Night | Line-up |
 | --- | --- | --- |
 | Fri, 31 Jul 2026 | Containment - CADZOW, MDDLTN and Support | CADZOW |
-| Fri, 31 Jul 2026 | Bloom Summer Series - Hardcore Rave Heritage |  |
+| Fri, 31 Jul 2026 | [CANCELLED] Bloom Summer Series - Hardcore Rave Heritage |  |
 | Sat, 1 Aug 2026 | Shindig: Sasha | Neil Bainbridge, Sasha, Scott Bradford |
 | Sat, 8 Aug 2026 | BLITZ - Techno/Hardgroove/Trance/Hard Dance - FREE RAVE |  |
 | Sat, 15 Aug 2026 | BLITZ - Techno/Hardgroove/Trance/Hard Dance - FREE RAVE |  |

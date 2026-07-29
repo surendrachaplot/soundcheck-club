@@ -8,7 +8,7 @@ KALT is a music venue in Strasbourg listed on soundcheck. 12 upcoming nights, wi
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Sat, 1 Aug 2026 | AEREA (Live) | AEREA, Clarence Rise |
+| Sat, 1 Aug 2026 | AEREA (Live) | AEREA, Clarence Rise, Doudeh |
 | Sat, 8 Aug 2026 | Faster Horses | Faster Horses, Tatlo |
 | Sat, 15 Aug 2026 | GRÜV : Len Faki, Tigerhead, Beau Didier, Alex Antaya // KALT | Alex Nantaya, Beau Didier, Dima Roas, Len Faki, Tigerhead |
 | Sat, 22 Aug 2026 | Ben Sims & Merve | Ben Sims, Justine Maze, Merve, Schaed |
