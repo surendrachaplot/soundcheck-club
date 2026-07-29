@@ -1,6 +1,6 @@
 # Kaotic
 
-Kaotic is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Tue, 28 Jul 2026, next at Ankali & Planeta Za, Prague on Fri, 31 Jul 2026.
+Kaotic is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at Ankali & Planeta Za, Prague on Fri, 31 Jul 2026.
 
 Kaotic is a techno and trance artist based in Italy, tracked on soundcheck, with 19 sets logged across Amsterdam, Budapest and Prague. Often billed alongside Fembot, Big Lil and S.Tian. Next up: Ankali & Planeta Za, Prague on Fri 31 Jul.
 
@@ -25,4 +25,4 @@ Kaotic is a techno and trance artist based in Italy, tracked on soundcheck, with
 
 Fembot, Big Lil, S.Tian
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/kaotic/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/kaotic/)*

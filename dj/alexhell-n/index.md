@@ -1,6 +1,6 @@
 # Alex Hell-n
 
-Alex Hell-n is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Tue, 28 Jul 2026, next at SILO, New York City on Thu, 30 Jul 2026.
+Alex Hell-n is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at SILO, New York City on Thu, 30 Jul 2026.
 
 Alex Hell-n is a techno and house artist based in United States of America, tracked on soundcheck, with 13 sets logged across Newyorkcity. Often billed alongside LTE (1), K Cap and Preacher's Daughter. Next up: SILO, Newyorkcity on Thu 30 Jul.
 
@@ -25,4 +25,4 @@ Alex Hell-n is a techno and house artist based in United States of America, trac
 
 LTE (1), K Cap, Preacher's Daughter
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/alexhell-n/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/alexhell-n/)*

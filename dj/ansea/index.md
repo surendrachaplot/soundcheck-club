@@ -1,6 +1,6 @@
 # Ansea
 
-Ansea is a Techno and Tech House artist with 1 upcoming club date listed on soundcheck as of Tue, 28 Jul 2026, next at Altenburg 1964, Prague on Sat, 8 Aug 2026.
+Ansea is a Techno and Tech House artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at Altenburg 1964, Prague on Sat, 8 Aug 2026.
 
 Ansea is a techno and tech house artist based in Czech Republic, tracked on soundcheck, with 32 sets logged across Krakow and Prague. Often billed alongside Lars Beckett, Patricio Strix and KikiDontCry. Next up: Altenburg 1964, Prague on Sat 8 Aug.
 
@@ -25,4 +25,4 @@ Ansea is a techno and tech house artist based in Czech Republic, tracked on soun
 
 Lars Beckett, Patricio Strix, KikiDontCry
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/ansea/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/ansea/)*

@@ -1,8 +1,8 @@
 # Nina Kraviz
 
-Nina Kraviz is a Techno and House artist with 8 upcoming club dates listed on soundcheck as of Tue, 28 Jul 2026, next at Gianpula Village, Malta on Fri, 31 Jul 2026.
+Nina Kraviz is a Techno and House artist with 9 upcoming club dates listed on soundcheck as of Wed, 29 Jul 2026, next at Gianpula Village, Malta on Fri, 31 Jul 2026.
 
-Nina Kraviz is a techno and house artist tracked on soundcheck, with 147 sets logged across Amsterdam, Athens, Austin and Bali and 44 more. Often billed alongside Adiel, Héctor Oaks and Richie Hawtin. Next up: Gianpula Village, Malta on Fri 31 Jul.
+Nina Kraviz is a techno and house artist tracked on soundcheck, with 148 sets logged across Amsterdam, Athens, Austin and Bali and 44 more. Often billed alongside Adiel, Héctor Oaks and Richie Hawtin. Next up: Gianpula Village, Malta on Fri 31 Jul.
 
 ## Upcoming shows
 
@@ -11,6 +11,7 @@ Nina Kraviz is a techno and house artist tracked on soundcheck, with 147 sets lo
 | Fri, 31 Jul 2026 | Gianpula Village | Malta |
 | Sun, 2 Aug 2026 | Amnesia Ibiza | Ibiza |
 | Sun, 30 Aug 2026 | Amnesia Ibiza | Ibiza |
+| Fri, 4 Sept 2026 | Forte Antenne | Rome |
 | Fri, 11 Sept 2026 | TBA | Brussels |
 | Fri, 11 Sept 2026 | Palmerstown House Estate | Dublin |
 | Sun, 13 Sept 2026 | Amnesia Ibiza | Ibiza |
@@ -32,4 +33,4 @@ Nina Kraviz is a techno and house artist tracked on soundcheck, with 147 sets lo
 
 Adiel, Héctor Oaks, Richie Hawtin
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/ninakraviz/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/ninakraviz/)*

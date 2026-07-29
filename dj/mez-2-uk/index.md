@@ -1,6 +1,6 @@
 # Mez (2)
 
-Mez (2) is a Techno and Deep House artist with 1 upcoming club date listed on soundcheck as of Tue, 28 Jul 2026, next at The Purple Owl, London on Sun, 2 Aug 2026.
+Mez (2) is a Techno and Deep House artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at The Purple Owl, London on Sun, 2 Aug 2026.
 
 Mez (2) is a techno and deep house artist based in United Kingdom, tracked on soundcheck, with 6 sets logged across London and Paris. Often billed alongside MEZ (2), Acidus and Anya (UK). Next up: The Purple Owl, London on Sun 2 Aug.
 
@@ -22,4 +22,4 @@ Mez (2) is a techno and deep house artist based in United Kingdom, tracked on so
 
 MEZ (2), Acidus, Anya (UK)
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/mez-2-uk/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/mez-2-uk/)*

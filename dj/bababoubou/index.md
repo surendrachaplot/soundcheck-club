@@ -1,6 +1,6 @@
 # Baba Boubou
 
-Baba Boubou is a Club and Bass artist with 1 upcoming club date listed on soundcheck as of Tue, 28 Jul 2026, next at Divine Playhouse, Sydney on Fri, 7 Aug 2026.
+Baba Boubou is a Club and Bass artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at Divine Playhouse, Sydney on Fri, 7 Aug 2026.
 
 Baba Boubou is a club and bass artist based in Australia, tracked on soundcheck, with 8 sets logged across Sydney. Often billed alongside Cristal No.5, Attu and D-Grade. Next up: Divine Playhouse, Sydney on Fri 7 Aug.
 
@@ -24,4 +24,4 @@ Baba Boubou is a club and bass artist based in Australia, tracked on soundcheck,
 
 Cristal No.5, Attu, D-Grade
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/bababoubou/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/bababoubou/)*

@@ -1,6 +1,6 @@
 # niko the nuisance
 
-niko the nuisance is a Techno and Club artist with 1 upcoming club date listed on soundcheck as of Tue, 28 Jul 2026, next at Mood Ring, New York City on Wed, 29 Jul 2026.
+niko the nuisance is a Techno and Club artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at Mood Ring, New York City on Wed, 29 Jul 2026.
 
 niko the nuisance is a techno and club artist based in United States of America, tracked on soundcheck, with 10 sets logged across Newyorkcity. Often billed alongside elle xxo, CMD+JAZMINE and Clit.hub. Next up: Mood Ring, Newyorkcity on Wed 29 Jul.
 
@@ -25,4 +25,4 @@ niko the nuisance is a techno and club artist based in United States of America,
 
 elle xxo, CMD+JAZMINE, Clit.hub
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/nikothenuisance/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/nikothenuisance/)*

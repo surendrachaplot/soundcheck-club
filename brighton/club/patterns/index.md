@@ -1,8 +1,8 @@
 # Patterns
 
-Patterns is a music venue in Brighton with 7 upcoming nights listed on soundcheck as of Tue, 28 Jul 2026; the next is "Pride After Party: Kylie Wears Berghaus & Jake Reed" on Fri, 31 Jul 2026.
+Patterns is a music venue in Brighton with 8 upcoming nights listed on soundcheck as of Wed, 29 Jul 2026; the next is "Pride After Party: Kylie Wears Berghaus & Jake Reed" on Fri, 31 Jul 2026.
 
-Patterns is a music venue in Brighton listed on soundcheck. 7 upcoming nights, with line-ups including Al Bradley, CC:DISCO!, Dave Gallier and Discokid and 2 more. Browse upcoming dates, start times and who's playing. 10 Marine Parade, BN2 1TL, Brighton, United Kingdom.
+Patterns is a music venue in Brighton listed on soundcheck. 8 upcoming nights, with line-ups including Al Bradley, CC:DISCO!, Dave Gallier and Discokid and 2 more. Browse upcoming dates, start times and who's playing. 10 Marine Parade, BN2 1TL, Brighton, United Kingdom.
 
 ## What's on
 
@@ -11,6 +11,7 @@ Patterns is a music venue in Brighton listed on soundcheck. 7 upcoming nights, w
 | Fri, 31 Jul 2026 | Pride After Party: Kylie Wears Berghaus & Jake Reed | Kylie Wears Berghaus |
 | Sat, 1 Aug 2026 | Brighton Pride After Party: Horse Meat Disco | Horse Meat Disco |
 | Sat, 8 Aug 2026 | Bora Bora Music | Al Bradley, Dave Gallier, Gee Moore, Pete Bones |
+| Fri, 28 Aug 2026 | 10 Years of Sunshine Soul: Luke Solomon & Marcia Carr | Luke Solomon, Marcia Carr, Mylo Harvey |
 | Sun, 30 Aug 2026 | CC:DISCO! Terrace Party | CC:DISCO!, Discokid, Wildblood and Queenie |
 | Sun, 6 Sept 2026 | Brighton Sundae with Matthew Herbert (DJ set) | Matthew Herbert |
 | Sat, 19 Sept 2026 | Memory Box: Disco in The House with Joe Goddard (Hot Chip) | Hot Chip, Joe Goddard |
@@ -20,4 +21,4 @@ Patterns is a music venue in Brighton listed on soundcheck. 7 upcoming nights, w
 
 10 Marine Parade, BN2 1TL, Brighton, United Kingdom, Brighton
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/brighton/club/patterns/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/brighton/club/patterns/)*

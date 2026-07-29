@@ -1,6 +1,6 @@
 # Deer Jade
 
-Deer Jade is a House and Techno artist with 6 upcoming club dates listed on soundcheck as of Tue, 28 Jul 2026, next at Parc del Fòrum, Barcelona on Fri, 7 Aug 2026.
+Deer Jade is a House and Techno artist with 6 upcoming club dates listed on soundcheck as of Wed, 29 Jul 2026, next at Parc del Fòrum, Barcelona on Fri, 7 Aug 2026.
 
 Deer Jade is a house and techno artist tracked on soundcheck, with 107 sets logged across Amsterdam, Antwerp, Austin and Bali and 28 more. Often billed alongside Adriatique, Ben Böhmer and LP Giobbi. Next up: Parc del Fòrum, Barcelona on Fri 7 Aug.
 
@@ -30,4 +30,4 @@ Deer Jade is a house and techno artist tracked on soundcheck, with 107 sets logg
 
 Adriatique, Ben Böhmer, LP Giobbi
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/deerjade/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/deerjade/)*

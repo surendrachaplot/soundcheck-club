@@ -1,6 +1,6 @@
 # Romansoff
 
-Romansoff is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 28 Jul 2026, next at Platforma Wolff, Bucharest on Fri, 31 Jul 2026.
+Romansoff is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at Platforma Wolff, Bucharest on Fri, 31 Jul 2026.
 
 Romansoff is a house and techno artist tracked on soundcheck, with 27 sets logged across Bucharest. Often billed alongside Bogman, Eirwud Mudwasser and Khidja. Next up: Platforma Wolff, Bucharest on Fri 31 Jul.
 
@@ -25,4 +25,4 @@ Romansoff is a house and techno artist tracked on soundcheck, with 27 sets logge
 
 Bogman, Eirwud Mudwasser, Khidja
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/romansoff/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/romansoff/)*

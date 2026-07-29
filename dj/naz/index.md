@@ -1,6 +1,6 @@
 # N/A(Z)
 
-N/A(Z) is a Experimental and Acid artist with 1 upcoming club date listed on soundcheck as of Tue, 28 Jul 2026, next at 314 Scholes, New York City on Thu, 6 Aug 2026.
+N/A(Z) is a Experimental and Acid artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at 314 Scholes, New York City on Thu, 6 Aug 2026.
 
 N/A(Z) is an experimental and acid artist based in Turkey, tracked on soundcheck, with 7 sets logged across Newyorkcity. Often billed alongside LUCIENNE, Brooke Steele and COVE(US). Next up: 314 Scholes, Newyorkcity on Thu 6 Aug.
 
@@ -23,4 +23,4 @@ N/A(Z) is an experimental and acid artist based in Turkey, tracked on soundcheck
 
 LUCIENNE, Brooke Steele, COVE(US)
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/naz/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/naz/)*

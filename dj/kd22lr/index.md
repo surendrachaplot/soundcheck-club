@@ -1,6 +1,6 @@
 # KD22LR
 
-KD22LR is a Dub and Grime artist with 1 upcoming club date listed on soundcheck as of Tue, 28 Jul 2026, next at Spanners, London on Fri, 7 Aug 2026.
+KD22LR is a Dub and Grime artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at Spanners, London on Fri, 7 Aug 2026.
 
 KD22LR is a dub and grime artist based in United Kingdom, tracked on soundcheck, with 49 sets logged across Berlin, Glasgow, Leeds and London and 1 more. Often billed alongside Tom Boogizm, Sockethead and Chunky. Next up: Spanners, London on Fri 7 Aug.
 
@@ -25,4 +25,4 @@ KD22LR is a dub and grime artist based in United Kingdom, tracked on soundcheck,
 
 Tom Boogizm, Sockethead, Chunky
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/kd22lr/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/kd22lr/)*

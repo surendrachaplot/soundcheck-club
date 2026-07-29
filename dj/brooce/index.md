@@ -1,6 +1,6 @@
 # Brooce
 
-Brooce is a Club and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 28 Jul 2026, next at Upstairs at the 700, Philadelphia on Fri, 7 Aug 2026.
+Brooce is a Club and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at Upstairs at the 700, Philadelphia on Fri, 7 Aug 2026.
 
 Brooce is a club and techno artist based in United States of America, tracked on soundcheck, with 4 sets logged across Philadelphia and Washingtondc. Often billed alongside Cowa, Andrea Burns and Brian Thabault. Next up: Upstairs at the 700, Philadelphia on Fri 7 Aug.
 
@@ -20,4 +20,4 @@ Brooce is a club and techno artist based in United States of America, tracked on
 
 Cowa, Andrea Burns, Brian Thabault
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/brooce/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/brooce/)*

@@ -1,6 +1,6 @@
 # Martha van Straaten
 
-Martha van Straaten is a Downtempo and House artist with 1 upcoming club date listed on soundcheck as of Tue, 28 Jul 2026, next at Fridas Pier, Stuttgart on Sat, 8 Aug 2026.
+Martha van Straaten is a Downtempo and House artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at Fridas Pier, Stuttgart on Sat, 8 Aug 2026.
 
 Martha van Straaten is a downtempo and house artist based in Germany, tracked on soundcheck, with 52 sets logged across Basel, Berlin, Brisbane and Cologne and 14 more. Often billed alongside Heimlich Knüller, Chris Schwarzwälder and Philipp Fein. Next up: Fridas Pier, Stuttgart on Sat 8 Aug.
 
@@ -25,4 +25,4 @@ Martha van Straaten is a downtempo and house artist based in Germany, tracked on
 
 Heimlich Knüller, Chris Schwarzwälder, Philipp Fein
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/marthavanstraaten/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/marthavanstraaten/)*

@@ -1,6 +1,6 @@
 # Viyee
 
-Viyee is a Minimal Techno and Experimental artist with 1 upcoming club date listed on soundcheck as of Tue, 28 Jul 2026, next at OIL Club, Shenzhen on Sat, 1 Aug 2026.
+Viyee is a Minimal Techno and Experimental artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at OIL Club, Shenzhen on Sat, 1 Aug 2026.
 
 Viyee is a minimal techno and experimental artist based in China, tracked on soundcheck, with 5 sets logged across Seoul and Shenzhen. Often billed alongside Funkie, DJ 86 and 3ASiC. Next up: OIL Club, Shenzhen on Sat 1 Aug.
 
@@ -21,4 +21,4 @@ Viyee is a minimal techno and experimental artist based in China, tracked on sou
 
 Funkie, DJ 86, 3ASiC
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/viyee/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/viyee/)*

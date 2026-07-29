@@ -1,6 +1,6 @@
 # Sophie van Hayden
 
-Sophie van Hayden is a Techno and House artist with 5 upcoming club dates listed on soundcheck as of Tue, 28 Jul 2026, next at Freilichtbühne im Harburger Stadtpark, Hamburg on Sat, 8 Aug 2026.
+Sophie van Hayden is a Techno and House artist with 5 upcoming club dates listed on soundcheck as of Wed, 29 Jul 2026, next at Freilichtbühne im Harburger Stadtpark, Hamburg on Sat, 8 Aug 2026.
 
 Sophie van Hayden is a techno and house artist based in Germany, tracked on soundcheck, with 18 sets logged across Berlin, Copenhagen and Hamburg. Often billed alongside Fnatik, F!NN and MILAN MILANO. Next up: Freilichtbühne im Harburger Stadtpark, Hamburg on Sat 8 Aug.
 
@@ -29,4 +29,4 @@ Sophie van Hayden is a techno and house artist based in Germany, tracked on soun
 
 Fnatik, F!NN, MILAN MILANO
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/sophievanhayden/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/sophievanhayden/)*

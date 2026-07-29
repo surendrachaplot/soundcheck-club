@@ -1,6 +1,6 @@
 # Krenz
 
-Krenz is a Bass and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 28 Jul 2026, next at Paavli Kultuurivabrik, Tallinn on Fri, 7 Aug 2026.
+Krenz is a Bass and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at Paavli Kultuurivabrik, Tallinn on Fri, 7 Aug 2026.
 
 Krenz is a bass and techno artist based in Poland, tracked on soundcheck, with 12 sets logged across Krakow, Tallinn and Warsaw. Often billed alongside 2K88, Hermeneia and k:i:o:s:k. Next up: Paavli Kultuurivabrik, Tallinn on Fri 7 Aug.
 
@@ -25,4 +25,4 @@ Krenz is a bass and techno artist based in Poland, tracked on soundcheck, with 1
 
 2K88, Hermeneia, k:i:o:s:k
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/krenz/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/krenz/)*

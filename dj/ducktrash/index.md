@@ -1,8 +1,8 @@
 # Duck Trash
 
-Duck Trash is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Tue, 28 Jul 2026, next at The Eagle of Detroit, Detroit on Sat, 1 Aug 2026.
+Duck Trash is a Techno and House artist with 4 upcoming club dates listed on soundcheck as of Wed, 29 Jul 2026, next at The Eagle of Detroit, Detroit on Sat, 1 Aug 2026.
 
-Duck Trash is a techno and house artist tracked on soundcheck, with 115 sets logged across Chicago, Detroit and Newyorkcity. Often billed alongside Amino, Garrison XR and Disc Jockey George. Next up: The Eagle of Detroit, Detroit on Sat 1 Aug.
+Duck Trash is a techno and house artist tracked on soundcheck, with 116 sets logged across Chicago, Detroit and Newyorkcity. Often billed alongside Amino, Disc Jockey George and Garrison XR. Next up: The Eagle of Detroit, Detroit on Sat 1 Aug.
 
 ## Upcoming shows
 
@@ -11,6 +11,7 @@ Duck Trash is a techno and house artist tracked on soundcheck, with 115 sets log
 | Sat, 1 Aug 2026 | The Eagle of Detroit | Detroit |
 | Thu, 13 Aug 2026 | TV Lounge | Detroit |
 | Thu, 13 Aug 2026 | Tangent Gallery | Detroit |
+| Sat, 15 Aug 2026 | Tangent Gallery | Detroit |
 
 ## Recently played
 
@@ -25,6 +26,6 @@ Duck Trash is a techno and house artist tracked on soundcheck, with 115 sets log
 
 ## Shares bills with
 
-Amino, Garrison XR, Disc Jockey George
+Amino, Disc Jockey George, Garrison XR
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/ducktrash/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/ducktrash/)*

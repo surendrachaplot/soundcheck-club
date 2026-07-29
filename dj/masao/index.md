@@ -1,6 +1,6 @@
 # masao
 
-masao is a Hip-Hop and House artist with 1 upcoming club date listed on soundcheck as of Tue, 28 Jul 2026, next at Garage 442, Barcelona on Wed, 29 Jul 2026.
+masao is a Hip-Hop and House artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at Garage 442, Barcelona on Wed, 29 Jul 2026.
 
 masao is a hip-hop and house artist based in Georgia, tracked on soundcheck, with 4 sets logged across Barcelona, Seoul and Tbilisi. Often billed alongside Cillian, DJ Co.kr and Dual Pistols. Next up: Garage 442, Barcelona on Wed 29 Jul.
 
@@ -20,4 +20,4 @@ masao is a hip-hop and house artist based in Georgia, tracked on soundcheck, wit
 
 Cillian, DJ Co.kr, Dual Pistols
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/masao/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/masao/)*

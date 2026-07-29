@@ -1,14 +1,15 @@
 # Silva Bumpa
 
-Silva Bumpa is a Garage and House artist with 13 upcoming club dates listed on soundcheck as of Tue, 28 Jul 2026, next at Palmerstown House Estate, Dublin on Sat, 1 Aug 2026.
+Silva Bumpa is a Garage and House artist with 15 upcoming club dates listed on soundcheck as of Wed, 29 Jul 2026, next at Palmerstown House Estate, Dublin on Sat, 1 Aug 2026.
 
-Silva Bumpa is a garage and house artist tracked on soundcheck, with 199 sets logged across Aberdeen, Amsterdam, Antwerp and Austin and 49 more. Often billed alongside Soul Mass Transit System, Main Phase and Prozak (IRL). Next up: Palmerstown House Estate, Dublin on Sat 1 Aug.
+Silva Bumpa is a garage and house artist tracked on soundcheck, with 201 sets logged across Aberdeen, Amsterdam, Antwerp and Austin and 49 more. Often billed alongside Soul Mass Transit System, Main Phase and Prozak (IRL). Next up: Palmerstown House Estate, Dublin on Sat 1 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 1 Aug 2026 | Palmerstown House Estate | Dublin |
+| Sat, 1 Aug 2026 | Index | Dublin |
 | Sun, 9 Aug 2026 | Amnesia Ibiza | Ibiza |
 | Wed, 12 Aug 2026 | Gianpula Village | Malta |
 | Thu, 20 Aug 2026 | Amnesia Ibiza | Ibiza |
@@ -19,7 +20,6 @@ Silva Bumpa is a garage and house artist tracked on soundcheck, with 199 sets lo
 | Sat, 26 Sept 2026 | TBA - Pier 80 | San Francisco/Oakland |
 | Sat, 26 Sept 2026 | Circle Line Cruises | New York City |
 | Fri, 2 Oct 2026 | The Roundhouse | London |
-| Sat, 10 Oct 2026 | Depot Mayfield | Manchester |
 
 ## Recently played
 
@@ -36,4 +36,4 @@ Silva Bumpa is a garage and house artist tracked on soundcheck, with 199 sets lo
 
 Soul Mass Transit System, Main Phase, Prozak (IRL)
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/silvabumpa/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/silvabumpa/)*

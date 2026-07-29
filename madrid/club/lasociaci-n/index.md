@@ -1,6 +1,6 @@
 # Lasociaciøn
 
-Lasociaciøn is a music venue in Madrid with 2 upcoming nights listed on soundcheck as of Tue, 28 Jul 2026; the next is "CLUBLARM" on Sat, 12 Sept 2026.
+Lasociaciøn is a music venue in Madrid with 2 upcoming nights listed on soundcheck as of Wed, 29 Jul 2026; the next is "CLUBLARM" on Sat, 12 Sept 2026.
 
 Lasociaciøn is a music venue in Madrid listed on soundcheck. 2 upcoming nights, with line-ups including ADRI.G, Greick Jhøzsu, MAL_HOMBRE and Oscar Blue. Browse upcoming dates, start times and who's playing. C. Gamonal, 5, 28031 Madrid.
 
@@ -15,4 +15,4 @@ Lasociaciøn is a music venue in Madrid listed on soundcheck. 2 upcoming nights,
 
 C. Gamonal, 5, 28031 Madrid, Madrid
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/madrid/club/lasociaci-n/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/madrid/club/lasociaci-n/)*

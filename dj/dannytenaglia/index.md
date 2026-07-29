@@ -1,6 +1,6 @@
 # Danny Tenaglia
 
-Danny Tenaglia is a House and Techno artist with 5 upcoming club dates listed on soundcheck as of Tue, 28 Jul 2026, next at Belmont Veterans Memorial Pier, Los Angeles on Sun, 16 Aug 2026.
+Danny Tenaglia is a House and Techno artist with 5 upcoming club dates listed on soundcheck as of Wed, 29 Jul 2026, next at Belmont Veterans Memorial Pier, Los Angeles on Sun, 16 Aug 2026.
 
 Danny Tenaglia is a house and techno artist tracked on soundcheck, with 104 sets logged across Amsterdam, Auckland, Austin and Barcelona and 24 more. Often billed alongside Brandon Block, DJ Chus and Darren Emerson. Next up: Belmont Veterans Memorial Pier, Losangeles on Sun 16 Aug.
 
@@ -29,4 +29,4 @@ Danny Tenaglia is a house and techno artist tracked on soundcheck, with 104 sets
 
 Brandon Block, DJ Chus, Darren Emerson
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/dannytenaglia/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/dannytenaglia/)*

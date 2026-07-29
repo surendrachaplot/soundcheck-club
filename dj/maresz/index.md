@@ -1,6 +1,6 @@
 # Maresz
 
-Maresz is a House and Garage artist with 1 upcoming club date listed on soundcheck as of Tue, 28 Jul 2026, next at Toldi Klub, Budapest on Sat, 1 Aug 2026.
+Maresz is a House and Garage artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at Toldi Klub, Budapest on Sat, 1 Aug 2026.
 
 Maresz is a house and garage artist tracked on soundcheck, with 19 sets logged across Budapest. Often billed alongside baeker, NIKOØ and Kiqo. Next up: Toldi Klub, Budapest on Sat 1 Aug.
 
@@ -25,4 +25,4 @@ Maresz is a house and garage artist tracked on soundcheck, with 19 sets logged a
 
 baeker, NIKOØ, Kiqo
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/maresz/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/maresz/)*

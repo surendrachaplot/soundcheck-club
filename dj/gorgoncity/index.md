@@ -1,6 +1,6 @@
 # Gorgon City
 
-Gorgon City is a House and Tech House artist with 4 upcoming club dates listed on soundcheck as of Tue, 28 Jul 2026, next at 528 Ibiza, Ibiza on Fri, 31 Jul 2026.
+Gorgon City is a House and Tech House artist with 4 upcoming club dates listed on soundcheck as of Wed, 29 Jul 2026, next at 528 Ibiza, Ibiza on Fri, 31 Jul 2026.
 
 Gorgon City is a house and tech house artist tracked on soundcheck, with 149 sets logged across Amsterdam, Austin, Bali and Barcelona and 34 more. Often billed alongside Danny Howard, Sonny Fodera and Azzecca. Next up: 528 Ibiza, Ibiza on Fri 31 Jul.
 
@@ -28,4 +28,4 @@ Gorgon City is a house and tech house artist tracked on soundcheck, with 149 set
 
 Danny Howard, Sonny Fodera, Azzecca
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/gorgoncity/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/gorgoncity/)*

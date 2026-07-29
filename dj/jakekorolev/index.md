@@ -1,6 +1,6 @@
 # Jake Korolev
 
-Jake Korolev is a Pop and Breakcore artist with 1 upcoming club date listed on soundcheck as of Tue, 28 Jul 2026, next at Mood Ring, New York City on Fri, 7 Aug 2026.
+Jake Korolev is a Pop and Breakcore artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at Mood Ring, New York City on Fri, 7 Aug 2026.
 
 Jake Korolev is a pop and breakcore artist based in United States of America, tracked on soundcheck, with 5 sets logged across Newyorkcity. Often billed alongside FI-LO. Next up: Mood Ring, Newyorkcity on Fri 7 Aug.
 
@@ -21,4 +21,4 @@ Jake Korolev is a pop and breakcore artist based in United States of America, tr
 
 FI-LO
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/jakekorolev/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/jakekorolev/)*

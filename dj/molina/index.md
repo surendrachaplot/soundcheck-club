@@ -1,6 +1,6 @@
 # Molina
 
-Molina is a Electronica and Progressive House artist with 2 upcoming club dates listed on soundcheck as of Tue, 28 Jul 2026, next at Amsterdamse Bos, Amsterdam on Wed, 29 Jul 2026.
+Molina is a Electronica and Progressive House artist with 2 upcoming club dates listed on soundcheck as of Wed, 29 Jul 2026, next at Amsterdamse Bos, Amsterdam on Wed, 29 Jul 2026.
 
 Molina is an electronica and progressive house artist based in Colombia, tracked on soundcheck, with 5 sets logged across Amsterdam, Leeds, Mexicocity and Paris. Often billed alongside Christian AB, DARKSIDE and Death in Vegas. Next up: Amsterdamse Bos, Amsterdam on Wed 29 Jul.
 
@@ -21,4 +21,4 @@ Molina is an electronica and progressive house artist based in Colombia, tracked
 
 Christian AB, DARKSIDE, Death in Vegas
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/molina/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/molina/)*

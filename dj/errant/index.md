@@ -1,6 +1,6 @@
 # ERRANT
 
-ERRANT is a Deep House and Afro House artist with 2 upcoming club dates listed on soundcheck as of Tue, 28 Jul 2026, next at Macarena Club, Barcelona on Tue, 4 Aug 2026.
+ERRANT is a Deep House and Afro House artist with 2 upcoming club dates listed on soundcheck as of Wed, 29 Jul 2026, next at Macarena Club, Barcelona on Tue, 4 Aug 2026.
 
 ERRANT is a deep house and afro house artist tracked on soundcheck, with 69 sets logged across Barcelona and Milan. Often billed alongside Althoff, NIIXII and Jazz K. Next up: Macarena Club, Barcelona on Tue 4 Aug.
 
@@ -26,4 +26,4 @@ ERRANT is a deep house and afro house artist tracked on soundcheck, with 69 sets
 
 Althoff, NIIXII, Jazz K
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/errant/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/errant/)*

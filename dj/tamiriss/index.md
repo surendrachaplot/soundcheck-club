@@ -1,6 +1,6 @@
 # TAMIRISS
 
-TAMIRISS is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Tue, 28 Jul 2026, next at Smolna, Warsaw on Thu, 30 Jul 2026.
+TAMIRISS is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at Smolna, Warsaw on Thu, 30 Jul 2026.
 
 TAMIRISS is a techno and house artist based in Ukraine, tracked on soundcheck, with 9 sets logged across Krakow and Warsaw. Often billed alongside PIØTR, Theviacya and VIGILANT. Next up: Smolna, Warsaw on Thu 30 Jul.
 
@@ -25,4 +25,4 @@ TAMIRISS is a techno and house artist based in Ukraine, tracked on soundcheck, w
 
 PIØTR, Theviacya, VIGILANT
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/tamiriss/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/tamiriss/)*

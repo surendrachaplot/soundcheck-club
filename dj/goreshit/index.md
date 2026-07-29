@@ -1,6 +1,6 @@
 # goreshit
 
-goreshit is a Breakcore and Hardcore artist with 1 upcoming club date listed on soundcheck as of Tue, 28 Jul 2026, next at Beaver Works, Leeds on Sat, 1 Aug 2026.
+goreshit is a Breakcore and Hardcore artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at Beaver Works, Leeds on Sat, 1 Aug 2026.
 
 goreshit is a breakcore and hardcore artist tracked on soundcheck, with 28 sets logged across Antwerp, Berlin, Bristol and Glasgow and 10 more. Often billed alongside IFFYHYPE, LustSickPuppy and Bye2. Next up: Beaver Works, Leeds on Sat 1 Aug.
 
@@ -25,4 +25,4 @@ goreshit is a breakcore and hardcore artist tracked on soundcheck, with 28 sets 
 
 IFFYHYPE, LustSickPuppy, Bye2
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/goreshit/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/goreshit/)*

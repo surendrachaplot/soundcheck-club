@@ -1,6 +1,6 @@
 # Baggi Begovic
 
-Baggi Begovic is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Tue, 28 Jul 2026, next at Kralingse Bos, Rotterdam on Sat, 12 Sept 2026.
+Baggi Begovic is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at Kralingse Bos, Rotterdam on Sat, 12 Sept 2026.
 
 Baggi Begovic is a techno and house artist based in Netherlands, tracked on soundcheck, with 9 sets logged across Amsterdam, Bucharest, Ibiza and Miami and 1 more. Often billed alongside Benny Rodrigues, Michel de Hey and Ammé. Next up: Kralingse Bos, Rotterdam on Sat 12 Sept.
 
@@ -25,4 +25,4 @@ Baggi Begovic is a techno and house artist based in Netherlands, tracked on soun
 
 Benny Rodrigues, Michel de Hey, Ammé
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/baggibegovic/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/baggibegovic/)*

@@ -1,6 +1,6 @@
 # Cze (1)
 
-Cze (1) is a Drum & Bass and Bass artist with 1 upcoming club date listed on soundcheck as of Tue, 28 Jul 2026, next at KC Grad, Belgrade on Fri, 31 Jul 2026.
+Cze (1) is a Drum & Bass and Bass artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at KC Grad, Belgrade on Fri, 31 Jul 2026.
 
 Cze (1) is a drum & bass and bass artist based in Serbia, tracked on soundcheck, with 3 sets logged across Belgrade. Often billed alongside Chokey, Matkec and SAUD. Next up: KC Grad, Belgrade on Fri 31 Jul.
 
@@ -19,4 +19,4 @@ Cze (1) is a drum & bass and bass artist based in Serbia, tracked on soundcheck,
 
 Chokey, Matkec, SAUD
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/cze-1/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/cze-1/)*

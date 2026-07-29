@@ -1,6 +1,6 @@
 # AllA
 
-AllA is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Tue, 28 Jul 2026, next at Enter Shibuya, Tokyo on Wed, 29 Jul 2026.
+AllA is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at Enter Shibuya, Tokyo on Wed, 29 Jul 2026.
 
 AllA is a techno and house artist based in Japan, tracked on soundcheck, with 30 sets logged across Tokyo. Often billed alongside YUTA, Mari Sakurai and XINOVI. Next up: Enter Shibuya, Tokyo on Wed 29 Jul.
 
@@ -25,4 +25,4 @@ AllA is a techno and house artist based in Japan, tracked on soundcheck, with 30
 
 YUTA, Mari Sakurai, XINOVI
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/alla-jp/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/alla-jp/)*

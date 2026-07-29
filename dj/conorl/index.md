@@ -1,6 +1,6 @@
 # Conor L
 
-Conor L is a Disco and House artist with 2 upcoming club dates listed on soundcheck as of Tue, 28 Jul 2026, next at The Eagle, London on Sun, 9 Aug 2026.
+Conor L is a Disco and House artist with 2 upcoming club dates listed on soundcheck as of Wed, 29 Jul 2026, next at The Eagle, London on Sun, 9 Aug 2026.
 
 Conor L is a disco and house artist based in Ireland, tracked on soundcheck, with 5 sets logged across Berlin, Dublin and London. Often billed alongside Horse Meat Disco, Finn Johannsen and BAUGRUPPE90. Next up: The Eagle, London on Sun 9 Aug.
 
@@ -21,4 +21,4 @@ Conor L is a disco and house artist based in Ireland, tracked on soundcheck, wit
 
 Horse Meat Disco, Finn Johannsen, BAUGRUPPE90
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/conorl/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/conorl/)*

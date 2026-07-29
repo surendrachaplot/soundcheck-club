@@ -1,6 +1,6 @@
 # Bow Miller
 
-Bow Miller is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Tue, 28 Jul 2026, next at MODULE, Copenhagen on Sat, 1 Aug 2026.
+Bow Miller is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Wed, 29 Jul 2026, next at MODULE, Copenhagen on Sat, 1 Aug 2026.
 
 Bow Miller is a house and techno artist based in Denmark, tracked on soundcheck, with 6 sets logged across Copenhagen. Often billed alongside Eski, Gerssein and Anders HP. Next up: MODULE, Copenhagen on Sat 1 Aug.
 
@@ -22,4 +22,4 @@ Bow Miller is a house and techno artist based in Denmark, tracked on soundcheck,
 
 Eski, Gerssein, Anders HP
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/bowmiller/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/bowmiller/)*

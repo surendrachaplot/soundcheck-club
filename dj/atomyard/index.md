@@ -1,6 +1,6 @@
 # Atomyard
 
-Atomyard is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Tue, 28 Jul 2026, next at TBA - Bayshore Landing (Monty's Coconut Grove), Miami on Sat, 1 Aug 2026.
+Atomyard is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at TBA - Bayshore Landing (Monty's Coconut Grove), Miami on Sat, 1 Aug 2026.
 
 Atomyard is a house and deep house artist based in United States of America, tracked on soundcheck, with 44 sets logged across Miami. Often billed alongside Kike Roldan, Soto Music and Penny Lane. Next up: TBA - Bayshore Landing (Monty's Coconut Grove), Miami on Sat 1 Aug.
 
@@ -25,4 +25,4 @@ Atomyard is a house and deep house artist based in United States of America, tra
 
 Kike Roldan, Soto Music, Penny Lane
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/atomyard/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/atomyard/)*

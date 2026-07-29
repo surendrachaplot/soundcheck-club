@@ -1,6 +1,6 @@
 # Mr. Haze
 
-Mr. Haze is a House and Tech House artist with 2 upcoming club dates listed on soundcheck as of Tue, 28 Jul 2026, next at Jungle Hollywood, Los Angeles on Sat, 1 Aug 2026.
+Mr. Haze is a House and Tech House artist with 2 upcoming club dates listed on soundcheck as of Wed, 29 Jul 2026, next at Jungle Hollywood, Los Angeles on Sat, 1 Aug 2026.
 
 Mr. Haze is a house and tech house artist based in Canada, tracked on soundcheck, with 21 sets logged across Losangeles and Toronto. Often billed alongside Jason Hodges, Jay NuFunk and Yogi. Next up: Jungle Hollywood, Losangeles on Sat 1 Aug.
 
@@ -26,4 +26,4 @@ Mr. Haze is a house and tech house artist based in Canada, tracked on soundcheck
 
 Jason Hodges, Jay NuFunk, Yogi
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/mr.haze/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/mr.haze/)*

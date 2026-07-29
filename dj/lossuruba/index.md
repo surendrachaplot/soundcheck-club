@@ -1,6 +1,6 @@
 # Los Suruba
 
-Los Suruba is a House and Progressive House artist with 1 upcoming club date listed on soundcheck as of Tue, 28 Jul 2026, next at Esbirra Ibiza, Ibiza on Sat, 1 Aug 2026.
+Los Suruba is a House and Progressive House artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at Esbirra Ibiza, Ibiza on Sat, 1 Aug 2026.
 
 Los Suruba is a house and progressive house artist based in Spain, tracked on soundcheck, with 38 sets logged across Barcelona, Buenosaires, Ibiza and Madrid and 1 more. Often billed alongside Amadori, Calabasa and Chelu Garcia. Next up: Esbirra Ibiza, Ibiza on Sat 1 Aug.
 
@@ -25,4 +25,4 @@ Los Suruba is a house and progressive house artist based in Spain, tracked on so
 
 Amadori, Calabasa, Chelu Garcia
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/lossuruba/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/lossuruba/)*

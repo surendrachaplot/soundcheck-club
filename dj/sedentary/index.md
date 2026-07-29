@@ -1,6 +1,6 @@
 # SEDENTARY
 
-SEDENTARY is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Tue, 28 Jul 2026, next at Honey's, New York City on Sun, 23 Aug 2026.
+SEDENTARY is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at Honey's, New York City on Sun, 23 Aug 2026.
 
 SEDENTARY is a techno and house artist tracked on soundcheck, with 14 sets logged across Newyorkcity. Often billed alongside R-DNA, 1ol1v1a and masha latte. Next up: Honey's, Newyorkcity on Sun 23 Aug.
 
@@ -25,4 +25,4 @@ SEDENTARY is a techno and house artist tracked on soundcheck, with 14 sets logge
 
 R-DNA, 1ol1v1a, masha latte
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/sedentary/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/sedentary/)*

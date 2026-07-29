@@ -1,6 +1,6 @@
 # AVANTIME
 
-AVANTIME is a Progressive House and House artist with 1 upcoming club date listed on soundcheck as of Tue, 28 Jul 2026, next at The Steel Yard, London on Fri, 25 Sept 2026.
+AVANTIME is a Progressive House and House artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at The Steel Yard, London on Fri, 25 Sept 2026.
 
 AVANTIME is a progressive house and house artist based in United Kingdom, tracked on soundcheck, with 36 sets logged across London and Munich. Often billed alongside Gus Emmett, Marksman and Altayef. Next up: The Steel Yard, London on Fri 25 Sept.
 
@@ -25,4 +25,4 @@ AVANTIME is a progressive house and house artist based in United Kingdom, tracke
 
 Gus Emmett, Marksman, Altayef
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/avantime/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/avantime/)*

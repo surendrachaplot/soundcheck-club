@@ -1,6 +1,6 @@
 # Rema Mukena
 
-Rema Mukena is a Garage and Amapiano artist with 1 upcoming club date listed on soundcheck as of Tue, 28 Jul 2026, next at Jumbi, London on Fri, 31 Jul 2026.
+Rema Mukena is a Garage and Amapiano artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at Jumbi, London on Fri, 31 Jul 2026.
 
 Rema Mukena is a garage and amapiano artist based in United Kingdom, tracked on soundcheck, with 7 sets logged across Bristol, London, Newyorkcity and Washingtondc. Often billed alongside Chiedza, Bindās and DJ Polo. Next up: Jumbi, London on Fri 31 Jul.
 
@@ -23,4 +23,4 @@ Rema Mukena is a garage and amapiano artist based in United Kingdom, tracked on 
 
 Chiedza, Bindās, DJ Polo
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/remamukena/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/remamukena/)*

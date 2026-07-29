@@ -1,6 +1,6 @@
 # mi
 
-mi is a Trance and House artist with 1 upcoming club date listed on soundcheck as of Tue, 28 Jul 2026, next at Haus73, Hamburg on Sat, 1 Aug 2026.
+mi is a Trance and House artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at Haus73, Hamburg on Sat, 1 Aug 2026.
 
 mi is a trance and house artist based in United States of America, tracked on soundcheck, with 2 sets logged across Barcelona and Hamburg. Often billed alongside Ana Alves, Joey Stella and LAURIX (DE). Next up: Haus73, Hamburg on Sat 1 Aug.
 
@@ -18,4 +18,4 @@ mi is a trance and house artist based in United States of America, tracked on so
 
 Ana Alves, Joey Stella, LAURIX (DE)
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/mi/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/mi/)*

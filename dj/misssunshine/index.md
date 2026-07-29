@@ -1,6 +1,6 @@
 # Miss Sunshine
 
-Miss Sunshine is a Jungle and Garage artist with 1 upcoming club date listed on soundcheck as of Tue, 28 Jul 2026, next at The Lord Gladstone, Sydney on Sat, 1 Aug 2026.
+Miss Sunshine is a Jungle and Garage artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at The Lord Gladstone, Sydney on Sat, 1 Aug 2026.
 
 Miss Sunshine is a jungle and garage artist based in Croatia, tracked on soundcheck, with 9 sets logged across Berlin and Sydney. Often billed alongside Deverence, Fashionably Late and Jane Decks. Next up: The Lord Gladstone, Sydney on Sat 1 Aug.
 
@@ -25,4 +25,4 @@ Miss Sunshine is a jungle and garage artist based in Croatia, tracked on soundch
 
 Deverence, Fashionably Late, Jane Decks
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/misssunshine/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/misssunshine/)*

@@ -1,6 +1,6 @@
 # Chinnamasta
 
-Chinnamasta is a House and Club artist with 1 upcoming club date listed on soundcheck as of Tue, 28 Jul 2026, next at La Station - Gare des Mines, Paris on Fri, 31 Jul 2026.
+Chinnamasta is a House and Club artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at La Station - Gare des Mines, Paris on Fri, 31 Jul 2026.
 
 Chinnamasta is a house and club artist based in Netherlands, tracked on soundcheck, with 68 sets logged across Amsterdam, Berlin, Brussels and Geneva and 6 more. Often billed alongside Rozaly, YoungWoman and Prince Pasensi. Next up: La Station - Gare des Mines, Paris on Fri 31 Jul.
 
@@ -25,4 +25,4 @@ Chinnamasta is a house and club artist based in Netherlands, tracked on soundche
 
 Rozaly, YoungWoman, Prince Pasensi
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/chinnamasta/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/chinnamasta/)*

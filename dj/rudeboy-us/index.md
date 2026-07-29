@@ -1,8 +1,8 @@
 # RUDE BOY (US)
 
-RUDE BOY (US) is a Club and Dembow artist with 2 upcoming club dates listed on soundcheck as of Tue, 28 Jul 2026, next at Over Under, Miami on Sat, 1 Aug 2026.
+RUDE BOY (US) is a Club and Dembow artist with 3 upcoming club dates listed on soundcheck as of Wed, 29 Jul 2026, next at Over Under, Miami on Sat, 1 Aug 2026.
 
-RUDE BOY (US) is a club and dembow artist based in United States of America, tracked on soundcheck, with 16 sets logged across Miami. Often billed alongside 1-800-Lolita, SDRV and XANA (US). Next up: Over Under, Miami on Sat 1 Aug.
+RUDE BOY (US) is a club and dembow artist based in United States of America, tracked on soundcheck, with 17 sets logged across Miami. Often billed alongside 1-800-Lolita, XANA (US) and SDRV. Next up: Over Under, Miami on Sat 1 Aug.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ RUDE BOY (US) is a club and dembow artist based in United States of America, tra
 | --- | --- | --- |
 | Sat, 1 Aug 2026 | Over Under | Miami |
 | Thu, 20 Aug 2026 | Jolene Downtown Miami | Miami |
+| Sat, 22 Aug 2026 | Floyd | Miami |
 
 ## Recently played
 
@@ -24,6 +25,6 @@ RUDE BOY (US) is a club and dembow artist based in United States of America, tra
 
 ## Shares bills with
 
-1-800-Lolita, SDRV, XANA (US)
+1-800-Lolita, XANA (US), SDRV
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/rudeboy-us/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/rudeboy-us/)*

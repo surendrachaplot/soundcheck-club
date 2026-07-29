@@ -1,6 +1,6 @@
 # Dino (2)
 
-Dino (2) is a Techno and Electronica artist with 1 upcoming club date listed on soundcheck as of Tue, 28 Jul 2026, next at nachbar, Amsterdam on Thu, 30 Jul 2026.
+Dino (2) is a Techno and Electronica artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at nachbar, Amsterdam on Thu, 30 Jul 2026.
 
 Dino (2) is a techno and electronica artist based in Italy, tracked on soundcheck, with 19 sets logged across Amsterdam, Barcelona, Berlin and Bucharest and 7 more. Often billed alongside Denise Luzzi, Aton and Ivan Iacobucci. Next up: nachbar, Amsterdam on Thu 30 Jul.
 
@@ -25,4 +25,4 @@ Dino (2) is a techno and electronica artist based in Italy, tracked on soundchec
 
 Denise Luzzi, Aton, Ivan Iacobucci
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/dino-2/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/dino-2/)*

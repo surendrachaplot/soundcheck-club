@@ -1,6 +1,6 @@
 # TH;EN
 
-TH;EN is a Techno and Progressive House artist with 2 upcoming club dates listed on soundcheck as of Tue, 28 Jul 2026, next at Hï Ibiza, Ibiza on Thu, 27 Aug 2026.
+TH;EN is a Techno and Progressive House artist with 2 upcoming club dates listed on soundcheck as of Wed, 29 Jul 2026, next at Hï Ibiza, Ibiza on Thu, 27 Aug 2026.
 
 TH;EN is a techno and progressive house artist tracked on soundcheck, with 30 sets logged across Amsterdam, Athens, Berlin and Budapest and 12 more. Often billed alongside Diode Eins, Alchemiah and AVANT. Next up: Hï Ibiza, Ibiza on Thu 27 Aug.
 
@@ -26,4 +26,4 @@ TH;EN is a techno and progressive house artist tracked on soundcheck, with 30 se
 
 Diode Eins, Alchemiah, AVANT
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/then/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/then/)*

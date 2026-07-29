@@ -1,6 +1,6 @@
 # Minor Forms
 
-Minor Forms is a Jungle and Drum & Bass artist with 1 upcoming club date listed on soundcheck as of Tue, 28 Jul 2026, next at Hackney Wick Multiple Venues, London on Sat, 1 Aug 2026.
+Minor Forms is a Jungle and Drum & Bass artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at Hackney Wick Multiple Venues, London on Sat, 1 Aug 2026.
 
 Minor Forms is a jungle and drum & bass artist tracked on soundcheck, with 20 sets logged across Brighton, Bristol, London and Manchester and 1 more. Often billed alongside Kublai, MC Gusto and Sweetpea. Next up: Hackney Wick Multiple Venues, London on Sat 1 Aug.
 
@@ -25,4 +25,4 @@ Minor Forms is a jungle and drum & bass artist tracked on soundcheck, with 20 se
 
 Kublai, MC Gusto, Sweetpea
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/minorforms/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/minorforms/)*

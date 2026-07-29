@@ -1,6 +1,6 @@
 # oddeen
 
-oddeen is a Bass and Jungle artist with 1 upcoming club date listed on soundcheck as of Tue, 28 Jul 2026, next at Cakeshop, Seoul on Sat, 1 Aug 2026.
+oddeen is a Bass and Jungle artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at Cakeshop, Seoul on Sat, 1 Aug 2026.
 
 oddeen is a bass and jungle artist based in South Korea, tracked on soundcheck, with 10 sets logged across Seoul. Often billed alongside Easymind, KISEWA and ABOPF. Next up: Cakeshop, Seoul on Sat 1 Aug.
 
@@ -25,4 +25,4 @@ oddeen is a bass and jungle artist based in South Korea, tracked on soundcheck, 
 
 Easymind, KISEWA, ABOPF
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/oddeen/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/oddeen/)*

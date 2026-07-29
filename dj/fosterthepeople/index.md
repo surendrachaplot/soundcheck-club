@@ -1,6 +1,6 @@
 # Foster The People
 
-Foster The People is a House and Tech House artist with 3 upcoming club dates listed on soundcheck as of Tue, 28 Jul 2026, next at Chinois Ibiza, Ibiza on Wed, 29 Jul 2026.
+Foster The People is a House and Tech House artist with 3 upcoming club dates listed on soundcheck as of Wed, 29 Jul 2026, next at Chinois Ibiza, Ibiza on Wed, 29 Jul 2026.
 
 Foster The People is a house and tech house artist based in United States of America, tracked on soundcheck, with 7 sets logged across Barcelona, Berlin, Ibiza and Lisbon and 2 more. Often billed alongside Ale Hope, Flavio Folco and Mahmut Orhan. Next up: Chinois Ibiza, Ibiza on Wed 29 Jul.
 
@@ -23,4 +23,4 @@ Foster The People is a house and tech house artist based in United States of Ame
 
 Ale Hope, Flavio Folco, Mahmut Orhan
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/fosterthepeople/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/fosterthepeople/)*

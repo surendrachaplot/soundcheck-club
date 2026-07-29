@@ -1,6 +1,6 @@
 # Laila Sakini
 
-Laila Sakini is a Experimental and Electronica artist with 1 upcoming club date listed on soundcheck as of Tue, 28 Jul 2026, next at Cafe OTO, London on Wed, 29 Jul 2026.
+Laila Sakini is a Experimental and Electronica artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at Cafe OTO, London on Wed, 29 Jul 2026.
 
 Laila Sakini is an experimental and electronica artist based in United Kingdom, tracked on soundcheck, with 15 sets logged across Berlin, Bristol, Copenhagen and London and 3 more. Often billed alongside Kenichi Iwasa, ojoo and Aa Sudd. Next up: Cafe OTO, London on Wed 29 Jul.
 
@@ -25,4 +25,4 @@ Laila Sakini is an experimental and electronica artist based in United Kingdom, 
 
 Kenichi Iwasa, ojoo, Aa Sudd
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/lailasakini/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/lailasakini/)*

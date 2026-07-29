@@ -1,6 +1,6 @@
 # Motorist
 
-Motorist is a Jungle and Drum & Bass artist with 1 upcoming club date listed on soundcheck as of Tue, 28 Jul 2026, next at The Offbeat Bar, Los Angeles on Wed, 29 Jul 2026.
+Motorist is a Jungle and Drum & Bass artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at The Offbeat Bar, Los Angeles on Wed, 29 Jul 2026.
 
 Motorist is a jungle and drum & bass artist based in United States of America, tracked on soundcheck, with 24 sets logged across Kyoto, Losangeles, Newyorkcity and Osaka and 1 more. Often billed alongside Drowncast, DateNite and Ishio Dai. Next up: The Offbeat Bar, Losangeles on Wed 29 Jul.
 
@@ -25,4 +25,4 @@ Motorist is a jungle and drum & bass artist based in United States of America, t
 
 Drowncast, DateNite, Ishio Dai
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/motorist/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/motorist/)*

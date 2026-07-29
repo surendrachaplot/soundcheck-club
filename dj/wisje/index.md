@@ -1,6 +1,6 @@
 # wisje
 
-wisje is a Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 28 Jul 2026, next at ÆDEN, Berlin on Thu, 3 Sept 2026.
+wisje is a Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at ÆDEN, Berlin on Thu, 3 Sept 2026.
 
 wisje is a techno artist based in Spain, tracked on soundcheck, with 2 sets logged across Berlin and Madrid. Often billed alongside Pylerinstinct1, Blosvenn and DMZ (DE). Next up: ÆDEN, Berlin on Thu 3 Sept.
 
@@ -18,4 +18,4 @@ wisje is a techno artist based in Spain, tracked on soundcheck, with 2 sets logg
 
 Pylerinstinct1, Blosvenn, DMZ (DE)
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/wisje/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/wisje/)*

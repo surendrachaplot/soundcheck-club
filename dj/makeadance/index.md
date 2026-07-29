@@ -1,8 +1,8 @@
 # Make A Dance
 
-Make A Dance is a House and Disco artist with 3 upcoming club dates listed on soundcheck as of Tue, 28 Jul 2026, next at Rumore Nightclub Capri, Naples on Sat, 8 Aug 2026.
+Make A Dance is a House and Disco artist with 4 upcoming club dates listed on soundcheck as of Wed, 29 Jul 2026, next at Rumore Nightclub Capri, Naples on Sat, 8 Aug 2026.
 
-Make A Dance is a house and disco artist tracked on soundcheck, with 109 sets logged across Amsterdam, Auckland, Bali and Bangkok and 26 more. Often billed alongside Paula Tape, Tash LC and Thom Parris. Next up: Rumore Nightclub Capri, Naples on Sat 8 Aug.
+Make A Dance is a house and disco artist tracked on soundcheck, with 110 sets logged across Amsterdam, Auckland, Bali and Bangkok and 26 more. Often billed alongside Paula Tape, Tash LC and Thom Parris. Next up: Rumore Nightclub Capri, Naples on Sat 8 Aug.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Make A Dance is a house and disco artist tracked on soundcheck, with 109 sets lo
 | --- | --- | --- |
 | Sat, 8 Aug 2026 | Rumore Nightclub Capri | Naples |
 | Fri, 28 Aug 2026 | Palais | London |
+| Fri, 23 Oct 2026 | Sub Club | Glasgow |
 | Fri, 23 Oct 2026 | Sub Club | Glasgow |
 
 ## Recently played
@@ -27,4 +28,4 @@ Make A Dance is a house and disco artist tracked on soundcheck, with 109 sets lo
 
 Paula Tape, Tash LC, Thom Parris
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/makeadance/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/makeadance/)*

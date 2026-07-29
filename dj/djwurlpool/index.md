@@ -1,6 +1,6 @@
 # DJ Würlpool
 
-DJ Würlpool is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Tue, 28 Jul 2026, next at Ilses Erika, Leipzig on Fri, 31 Jul 2026.
+DJ Würlpool is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at Ilses Erika, Leipzig on Fri, 31 Jul 2026.
 
 DJ Würlpool is a techno and trance artist based in Germany, tracked on soundcheck, with 19 sets logged across Berlin and Leipzig. Often billed alongside DJ SeXex, CARGO (DE) and Felix Schwarzenberger. Next up: Ilses Erika, Leipzig on Fri 31 Jul.
 
@@ -25,4 +25,4 @@ DJ Würlpool is a techno and trance artist based in Germany, tracked on soundche
 
 DJ SeXex, CARGO (DE), Felix Schwarzenberger
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/djwurlpool/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/djwurlpool/)*

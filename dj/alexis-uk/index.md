@@ -1,6 +1,6 @@
 # Alexis
 
-Alexis is a House and Bass artist with 1 upcoming club date listed on soundcheck as of Tue, 28 Jul 2026, next at BarKa, Warsaw on Wed, 29 Jul 2026.
+Alexis is a House and Bass artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at BarKa, Warsaw on Wed, 29 Jul 2026.
 
 Alexis is a house and bass artist tracked on soundcheck, with 30 sets logged across Berlin, Hamburg, Ibiza and London and 2 more. Often billed alongside Speckman, Ariane V and GEM (UK). Next up: BarKa, Warsaw on Wed 29 Jul.
 
@@ -25,4 +25,4 @@ Alexis is a house and bass artist tracked on soundcheck, with 30 sets logged acr
 
 Speckman, Ariane V, GEM (UK)
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/alexis-uk/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/alexis-uk/)*

@@ -1,14 +1,15 @@
 # Dimarziio
 
-Dimarziio is a House and Electro artist with 1 upcoming club date listed on soundcheck as of Tue, 28 Jul 2026, next at Crack Bellmer, Berlin on Thu, 30 Jul 2026.
+Dimarziio is a House and Afro House artist with 2 upcoming club dates listed on soundcheck as of Wed, 29 Jul 2026, next at Crack Bellmer, Berlin on Thu, 30 Jul 2026.
 
-Dimarziio is a house and electro artist based in Spain, tracked on soundcheck, with 32 sets logged across Barcelona and Berlin. Often billed alongside Ale Hope, Crisalide and BERNOUT. Next up: Crack Bellmer, Berlin on Thu 30 Jul.
+Dimarziio is a house and afro house artist based in Spain, tracked on soundcheck, with 33 sets logged across Barcelona and Berlin. Often billed alongside Ale Hope, Crisalide and BERNOUT. Next up: Crack Bellmer, Berlin on Thu 30 Jul.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Thu, 30 Jul 2026 | Crack Bellmer | Berlin |
+| Sun, 2 Aug 2026 | Azul Rooftop Barceloneta | Barcelona |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ Dimarziio is a house and electro artist based in Spain, tracked on soundcheck, w
 
 Ale Hope, Crisalide, BERNOUT
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/dimarziio/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/dimarziio/)*

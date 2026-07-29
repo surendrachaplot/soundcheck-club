@@ -1,6 +1,6 @@
 # Olivia Lauren
 
-Olivia Lauren is a Club and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 28 Jul 2026, next at The Stud, San Francisco/Oakland on Thu, 30 Jul 2026.
+Olivia Lauren is a Club and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at The Stud, San Francisco/Oakland on Thu, 30 Jul 2026.
 
 Olivia Lauren is a club and techno artist based in United States of America, tracked on soundcheck, with 8 sets logged across Sanfrancisco. Often billed alongside arktoi, ANDYLAND and ELA MENTAL. Next up: The Stud, Sanfrancisco on Thu 30 Jul.
 
@@ -24,4 +24,4 @@ Olivia Lauren is a club and techno artist based in United States of America, tra
 
 arktoi, ANDYLAND, ELA MENTAL
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/olivialauren/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/olivialauren/)*

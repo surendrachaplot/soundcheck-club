@@ -1,6 +1,6 @@
 # Night Tube Returns // Crazy P (DJ Set) at Cabaret Voltaire
 
-Night Tube Returns // Crazy P (DJ Set) at Cabaret Voltaire on Wed 16 Sept, Edinburgh. 2 acts on the bill: Crazy P and Pheebs. House and Disco. Preview the line-up and save it on soundcheck.
+Night Tube Returns // Crazy P (DJ Set) at Cabaret Voltaire on Wed 16 Sept, Edinburgh. 3 acts on the bill: Ben Kok (2), Crazy P and Pheebs. House and Disco. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,6 +10,7 @@ Night Tube Returns // Crazy P (DJ Set) at Cabaret Voltaire on Wed 16 Sept, Edinb
 
 ## Line-up
 
+- Ben Kok (2)
 - Crazy P
 - Pheebs
 

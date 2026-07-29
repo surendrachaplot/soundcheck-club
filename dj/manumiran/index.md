@@ -1,6 +1,6 @@
 # Manu Miran
 
-Manu Miran is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Tue, 28 Jul 2026, next at Club Rawhide, New York City on Fri, 31 Jul 2026.
+Manu Miran is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Wed, 29 Jul 2026, next at Club Rawhide, New York City on Fri, 31 Jul 2026.
 
 Manu Miran is a techno and house artist based in Venezuela, tracked on soundcheck, with 62 sets logged across Amsterdam, Bangkok, Boston and Chicago and 6 more. Often billed alongside Josh Steers, Junior M (US) and Concrete Husband. Next up: Club Rawhide, Newyorkcity on Fri 31 Jul.
 
@@ -26,4 +26,4 @@ Manu Miran is a techno and house artist based in Venezuela, tracked on soundchec
 
 Josh Steers, Junior M (US), Concrete Husband
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/manumiran/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/manumiran/)*

@@ -1,6 +1,6 @@
 # Marcus Meinhardt
 
-Marcus Meinhardt is a Techno and Tech House artist with 3 upcoming club dates listed on soundcheck as of Tue, 28 Jul 2026, next at Fundbureau, Hamburg on Fri, 31 Jul 2026.
+Marcus Meinhardt is a Techno and Tech House artist with 3 upcoming club dates listed on soundcheck as of Wed, 29 Jul 2026, next at Fundbureau, Hamburg on Fri, 31 Jul 2026.
 
 Marcus Meinhardt is a techno and tech house artist based in Germany, tracked on soundcheck, with 60 sets logged across Barcelona, Berlin, Cologne and Copenhagen and 8 more. Often billed alongside Pauli Pocket, Urem and Just Emma. Next up: Fundbureau, Hamburg on Fri 31 Jul.
 
@@ -27,4 +27,4 @@ Marcus Meinhardt is a techno and tech house artist based in Germany, tracked on 
 
 Pauli Pocket, Urem, Just Emma
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/marcusmeinhardt/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/marcusmeinhardt/)*

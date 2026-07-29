@@ -1,6 +1,6 @@
 # wnchnz
 
-wnchnz is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 28 Jul 2026, next at Bukanyr Boat, Prague on Fri, 31 Jul 2026.
+wnchnz is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at Bukanyr Boat, Prague on Fri, 31 Jul 2026.
 
 wnchnz is a house and techno artist based in Slovakia, tracked on soundcheck, with 16 sets logged across Prague. Often billed alongside Manntracs, Biodan and Equi. Next up: Bukanyr Boat, Prague on Fri 31 Jul.
 
@@ -25,4 +25,4 @@ wnchnz is a house and techno artist based in Slovakia, tracked on soundcheck, wi
 
 Manntracs, Biodan, Equi
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/wnchnz/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/wnchnz/)*

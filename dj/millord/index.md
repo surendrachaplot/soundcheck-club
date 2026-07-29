@@ -1,6 +1,6 @@
 # Millord
 
-Millord is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Tue, 28 Jul 2026, next at Macadam, Nantes on Thu, 30 Jul 2026.
+Millord is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at Macadam, Nantes on Thu, 30 Jul 2026.
 
 Millord is a techno and trance artist based in France, tracked on soundcheck, with 4 sets logged across Nantes and Paris. Often billed alongside Kasar, AliXx and B-B (1). Next up: Macadam, Nantes on Thu 30 Jul.
 
@@ -20,4 +20,4 @@ Millord is a techno and trance artist based in France, tracked on soundcheck, wi
 
 Kasar, AliXx, B-B (1)
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/millord/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/millord/)*

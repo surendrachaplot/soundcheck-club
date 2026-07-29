@@ -1,6 +1,6 @@
 # Aron (CH)
 
-Aron (CH) is a Minimal and House artist with 1 upcoming club date listed on soundcheck as of Tue, 28 Jul 2026, next at Supermarket, Zurich on Fri, 7 Aug 2026.
+Aron (CH) is a Minimal and House artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at Supermarket, Zurich on Fri, 7 Aug 2026.
 
 Aron (CH) is a minimal and house artist based in Switzerland, tracked on soundcheck, with 34 sets logged across Basel, Bristol, Brussels and Bucharest and 3 more. Often billed alongside Zefzeed, Flavio (CH) and Bohnenblust. Next up: Supermarket, Zurich on Fri 7 Aug.
 
@@ -25,4 +25,4 @@ Aron (CH) is a minimal and house artist based in Switzerland, tracked on soundch
 
 Zefzeed, Flavio (CH), Bohnenblust
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/aron-ch/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/aron-ch/)*

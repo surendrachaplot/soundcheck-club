@@ -1,6 +1,6 @@
 # Cosmina
 
-Cosmina is a Minimal and House artist with 2 upcoming club dates listed on soundcheck as of Tue, 28 Jul 2026, next at Platforma Wolff, Bucharest on Sat, 1 Aug 2026.
+Cosmina is a Minimal and House artist with 2 upcoming club dates listed on soundcheck as of Wed, 29 Jul 2026, next at Platforma Wolff, Bucharest on Sat, 1 Aug 2026.
 
 Cosmina is a minimal and house artist tracked on soundcheck, with 11 sets logged across Birmingham, Bucharest, Copenhagen and Liverpool and 2 more. Often billed alongside BILA, Dan Andrei and Mihnea Rog. Next up: Platforma Wolff, Bucharest on Sat 1 Aug.
 
@@ -26,4 +26,4 @@ Cosmina is a minimal and house artist tracked on soundcheck, with 11 sets logged
 
 BILA, Dan Andrei, Mihnea Rog
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/cosmina/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/cosmina/)*

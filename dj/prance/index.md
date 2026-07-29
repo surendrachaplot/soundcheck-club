@@ -1,6 +1,6 @@
 # Prance
 
-Prance is a Techno and House artist with 4 upcoming club dates listed on soundcheck as of Tue, 28 Jul 2026, next at Madam, Amsterdam on Sat, 1 Aug 2026.
+Prance is a Techno and House artist with 4 upcoming club dates listed on soundcheck as of Wed, 29 Jul 2026, next at Madam, Amsterdam on Sat, 1 Aug 2026.
 
 Prance is a techno and house artist based in Netherlands, tracked on soundcheck, with 65 sets logged across Amsterdam, Berlin, Brussels and Lisbon and 4 more. Often billed alongside Joya Astou, Najel Monteiro and Hashashin. Next up: Madam, Amsterdam on Sat 1 Aug.
 
@@ -28,4 +28,4 @@ Prance is a techno and house artist based in Netherlands, tracked on soundcheck,
 
 Joya Astou, Najel Monteiro, Hashashin
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/prance/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/prance/)*

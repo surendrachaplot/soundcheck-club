@@ -1,13 +1,14 @@
 # Zed Bias
 
-Zed Bias is a Garage and Jungle artist with 2 upcoming club dates listed on soundcheck as of Tue, 28 Jul 2026, next at Burgess Park, London on Sun, 9 Aug 2026.
+Zed Bias is a Garage and Jungle artist with 3 upcoming club dates listed on soundcheck as of Wed, 29 Jul 2026, next at The Globe, Glossop, Manchester on Sat, 8 Aug 2026.
 
-Zed Bias is a garage and jungle artist based in United Kingdom, tracked on soundcheck, with 52 sets logged across Amsterdam, Auckland, Birmingham and Brighton and 10 more. Often billed alongside Bakey, Chimpo and Chinese Daughter. Next up: Burgess Park, London on Sun 9 Aug.
+Zed Bias is a garage and jungle artist based in United Kingdom, tracked on soundcheck, with 53 sets logged across Amsterdam, Auckland, Birmingham and Brighton and 10 more. Often billed alongside Chunky, Bakey and Chimpo. Next up: The Globe, Glossop, Manchester on Sat 8 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 8 Aug 2026 | The Globe, Glossop | Manchester |
 | Sun, 9 Aug 2026 | Burgess Park | London |
 | Sat, 22 Aug 2026 | The Cause | London |
 
@@ -24,6 +25,6 @@ Zed Bias is a garage and jungle artist based in United Kingdom, tracked on sound
 
 ## Shares bills with
 
-Bakey, Chimpo, Chinese Daughter
+Chunky, Bakey, Chimpo
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/zedbias/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/zedbias/)*

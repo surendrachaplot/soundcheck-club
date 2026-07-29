@@ -1,6 +1,6 @@
 # Konakov
 
-Konakov is a Electro and Experimental artist with 1 upcoming club date listed on soundcheck as of Tue, 28 Jul 2026, next at 20nine30, Berlin on Fri, 31 Jul 2026.
+Konakov is a Electro and Experimental artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at 20nine30, Berlin on Fri, 31 Jul 2026.
 
 Konakov is an electro and experimental artist based in Ukraine, tracked on soundcheck, with 14 sets logged across Berlin, Glasgow, Liverpool and London and 1 more. Often billed alongside Andriy K., Neue Medecina and Ilya Gurin-Babayeu. Next up: 20nine30, Berlin on Fri 31 Jul.
 
@@ -25,4 +25,4 @@ Konakov is an electro and experimental artist based in Ukraine, tracked on sound
 
 Andriy K., Neue Medecina, Ilya Gurin-Babayeu
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/konakov-ua/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/konakov-ua/)*

@@ -1,6 +1,6 @@
 # Reezar
 
-Reezar is a electronic artist with 1 upcoming club date listed on soundcheck as of Tue, 28 Jul 2026, next at Macarena Club, Barcelona on Wed, 29 Jul 2026.
+Reezar is a electronic artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at Macarena Club, Barcelona on Wed, 29 Jul 2026.
 
 Reezar is an electronic artist tracked on soundcheck, with 59 sets logged across Barcelona. Often billed alongside Ivan Pugliares, Cipy and ERRANT. Next up: Macarena Club, Barcelona on Wed 29 Jul.
 
@@ -25,4 +25,4 @@ Reezar is an electronic artist tracked on soundcheck, with 59 sets logged across
 
 Ivan Pugliares, Cipy, ERRANT
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/reezar/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/reezar/)*

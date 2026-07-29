@@ -1,6 +1,6 @@
 # WE.LL
 
-WE.LL is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Tue, 28 Jul 2026, next at Den Anden Side, Copenhagen on Fri, 14 Aug 2026.
+WE.LL is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at Den Anden Side, Copenhagen on Fri, 14 Aug 2026.
 
 WE.LL is a techno and trance artist based in United States of America, tracked on soundcheck, with 10 sets logged across Copenhagen and Newyorkcity. Often billed alongside kuini2000, Mama Snake and ABOINAMEDTROY. Next up: Den Anden Side, Copenhagen on Fri 14 Aug.
 
@@ -25,4 +25,4 @@ WE.LL is a techno and trance artist based in United States of America, tracked o
 
 kuini2000, Mama Snake, ABOINAMEDTROY
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/we.ll/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/we.ll/)*

@@ -1,6 +1,6 @@
 # CARAVEL
 
-CARAVEL is a Techno and Industrial artist with 1 upcoming club date listed on soundcheck as of Tue, 28 Jul 2026, next at Boston Manor Park, London on Sun, 2 Aug 2026.
+CARAVEL is a Techno and Industrial artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at Boston Manor Park, London on Sun, 2 Aug 2026.
 
 CARAVEL is a techno and industrial artist tracked on soundcheck, with 118 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 39 more. Often billed alongside Tham, Cassie Raptor and KØZLØV. Next up: Boston Manor Park, London on Sun 2 Aug.
 
@@ -25,4 +25,4 @@ CARAVEL is a techno and industrial artist tracked on soundcheck, with 118 sets l
 
 Tham, Cassie Raptor, KØZLØV
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/caravel/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/caravel/)*

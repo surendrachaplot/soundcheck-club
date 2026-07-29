@@ -1,6 +1,6 @@
 # Phuong Dan
 
-Phuong Dan is a Techno and Club artist with 1 upcoming club date listed on soundcheck as of Tue, 28 Jul 2026, next at Renate, Berlin on Fri, 31 Jul 2026.
+Phuong Dan is a Techno and Club artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at Renate, Berlin on Fri, 31 Jul 2026.
 
 Phuong Dan is a techno and club artist based in Germany, tracked on soundcheck, with 44 sets logged across Amsterdam, Antwerp, Athens and Bangkok and 13 more. Often billed alongside Cloud Management, Yadin Moha and 404.zero. Next up: Renate, Berlin on Fri 31 Jul.
 
@@ -25,4 +25,4 @@ Phuong Dan is a techno and club artist based in Germany, tracked on soundcheck, 
 
 Cloud Management, Yadin Moha, 404.zero
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/phuongdan/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/phuongdan/)*

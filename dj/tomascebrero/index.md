@@ -1,6 +1,6 @@
 # Tomás Cebrero
 
-Tomás Cebrero is a Minimal and House artist with 1 upcoming club date listed on soundcheck as of Tue, 28 Jul 2026, next at Baggen, Copenhagen on Wed, 29 Jul 2026.
+Tomás Cebrero is a Minimal and House artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at Baggen, Copenhagen on Wed, 29 Jul 2026.
 
 Tomás Cebrero is a minimal and house artist based in Argentina, tracked on soundcheck, with 20 sets logged across Barcelona and Copenhagen. Often billed alongside lowfek, Adrat and Dudd. Next up: Baggen, Copenhagen on Wed 29 Jul.
 
@@ -25,4 +25,4 @@ Tomás Cebrero is a minimal and house artist based in Argentina, tracked on soun
 
 lowfek, Adrat, Dudd
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/tomascebrero/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/tomascebrero/)*

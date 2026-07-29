@@ -1,6 +1,6 @@
 # Solah
 
-Solah is a Drum & Bass and Jungle artist with 1 upcoming club date listed on soundcheck as of Tue, 28 Jul 2026, next at Hackney Wick Multiple Venues, London on Sat, 1 Aug 2026.
+Solah is a Drum & Bass and Jungle artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at Hackney Wick Multiple Venues, London on Sat, 1 Aug 2026.
 
 Solah is a drum & bass and jungle artist based in United Kingdom, tracked on soundcheck, with 26 sets logged across Amsterdam, Brighton, Bristol and Ibiza and 7 more. Often billed alongside Whiney, Flava D and P Money. Next up: Hackney Wick Multiple Venues, London on Sat 1 Aug.
 
@@ -25,4 +25,4 @@ Solah is a drum & bass and jungle artist based in United Kingdom, tracked on sou
 
 Whiney, Flava D, P Money
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/solah/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/solah/)*

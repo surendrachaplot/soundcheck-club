@@ -1,6 +1,6 @@
 # TTX (GER)
 
-TTX (GER) is a House and Bass artist with 3 upcoming club dates listed on soundcheck as of Tue, 28 Jul 2026, next at Uebel & Gefährlich, Hamburg on Fri, 7 Aug 2026.
+TTX (GER) is a House and Bass artist with 3 upcoming club dates listed on soundcheck as of Wed, 29 Jul 2026, next at Uebel & Gefährlich, Hamburg on Fri, 7 Aug 2026.
 
 TTX (GER) is a house and bass artist based in Germany, tracked on soundcheck, with 25 sets logged across Hamburg. Often billed alongside Tana (2), DJ Babyblade and DJ Hochzeit. Next up: Uebel & Gefährlich, Hamburg on Fri 7 Aug.
 
@@ -27,4 +27,4 @@ TTX (GER) is a house and bass artist based in Germany, tracked on soundcheck, wi
 
 Tana (2), DJ Babyblade, DJ Hochzeit
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/ttxger/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/ttxger/)*

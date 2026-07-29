@@ -1,6 +1,6 @@
 # EVGHENIIA
 
-EVGHENIIA is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Tue, 28 Jul 2026, next at Playa Soleil Ibiza, Ibiza on Fri, 31 Jul 2026.
+EVGHENIIA is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at Playa Soleil Ibiza, Ibiza on Fri, 31 Jul 2026.
 
 EVGHENIIA is a house and deep house artist tracked on soundcheck, with 21 sets logged across Berlin, Geneva, Ibiza and Lisbon and 4 more. Often billed alongside Mathew Jonson, Antilope and DJ STRANGELOVE. Next up: Playa Soleil Ibiza, Ibiza on Fri 31 Jul.
 
@@ -25,4 +25,4 @@ EVGHENIIA is a house and deep house artist tracked on soundcheck, with 21 sets l
 
 Mathew Jonson, Antilope, DJ STRANGELOVE
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/evgheniia/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/evgheniia/)*

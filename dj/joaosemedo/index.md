@@ -1,14 +1,15 @@
 # Joao Semedo
 
-Joao Semedo is a House and Electronica artist with 1 upcoming club date listed on soundcheck as of Tue, 28 Jul 2026, next at Lux Fragil, Lisbon on Sat, 15 Aug 2026.
+Joao Semedo is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Wed, 29 Jul 2026, next at Lux Fragil, Lisbon on Sat, 15 Aug 2026.
 
-Joao Semedo is a house and electronica artist tracked on soundcheck, with 34 sets logged across Lisbon and Porto. Often billed alongside Klin Klop, Let (3) and Moullinex. Next up: Lux Fragil, Lisbon on Sat 15 Aug.
+Joao Semedo is a house and techno artist tracked on soundcheck, with 35 sets logged across Lisbon and Porto. Often billed alongside Klin Klop, Let (3) and Moullinex. Next up: Lux Fragil, Lisbon on Sat 15 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 15 Aug 2026 | Lux Fragil | Lisbon |
+| Sat, 22 Aug 2026 | Plano B | Porto |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ Joao Semedo is a house and electronica artist tracked on soundcheck, with 34 set
 
 Klin Klop, Let (3), Moullinex
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/joaosemedo/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/joaosemedo/)*

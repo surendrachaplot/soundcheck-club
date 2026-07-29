@@ -1,6 +1,6 @@
 # Throw Social DC
 
-Throw Social DC is a music venue in Washington DC with 3 upcoming nights listed on soundcheck as of Tue, 28 Jul 2026; the next is "Rick Ross" on Sat, 15 Aug 2026.
+Throw Social DC is a music venue in Washington DC with 3 upcoming nights listed on soundcheck as of Wed, 29 Jul 2026; the next is "Rick Ross" on Sat, 15 Aug 2026.
 
 Throw Social DC is a music venue in Washingtondc listed on soundcheck. 3 upcoming nights. Browse upcoming dates, start times and who's playing. 1401 Okie St NE, Ste #102 Washington D.C. 20002.
 
@@ -16,4 +16,4 @@ Throw Social DC is a music venue in Washingtondc listed on soundcheck. 3 upcomin
 
 1401 Okie St NE, Ste #102 Washington D.C. 20002, Washington DC
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/washingtondc/club/throw-social-dc/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/washingtondc/club/throw-social-dc/)*

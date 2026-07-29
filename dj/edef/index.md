@@ -1,6 +1,6 @@
 # EDEF
 
-EDEF is a Tech House and Deep House artist with 1 upcoming club date listed on soundcheck as of Tue, 28 Jul 2026, next at XOYO, London on Wed, 29 Jul 2026.
+EDEF is a Tech House and Deep House artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at XOYO, London on Wed, 29 Jul 2026.
 
 EDEF is a tech house and deep house artist based in United Kingdom, tracked on soundcheck, with 35 sets logged across London, Malaga, Miami and Milan. Often billed alongside MADAMA, NOFEX and DEFILE. Next up: XOYO, London on Wed 29 Jul.
 
@@ -25,4 +25,4 @@ EDEF is a tech house and deep house artist based in United Kingdom, tracked on s
 
 MADAMA, NOFEX, DEFILE
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/edef/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/edef/)*

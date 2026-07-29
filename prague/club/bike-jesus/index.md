@@ -1,8 +1,8 @@
 # Bike Jesus
 
-Bike Jesus is a music venue in Prague with 4 upcoming nights listed on soundcheck as of Tue, 28 Jul 2026; the next is "Acide Technotheka goes Prague" on Fri, 31 Jul 2026.
+Bike Jesus is a music venue in Prague with 5 upcoming nights listed on soundcheck as of Wed, 29 Jul 2026; the next is "Acide Technotheka goes Prague" on Fri, 31 Jul 2026.
 
-Bike Jesus is a music venue in Prague listed on soundcheck. 4 upcoming nights, with line-ups including ANĪC, Axel Boman, Barbora and Big Lil and 2 more. Browse upcoming dates, start times and who's playing. ostrov Štvanice 1125, 170 00 Praha 7-Holešovice, Czechia.
+Bike Jesus is a music venue in Prague listed on soundcheck. 5 upcoming nights, with line-ups including Alfred Czital, ANĪC, Axel Boman and Barbora and 2 more. Browse upcoming dates, start times and who's playing. ostrov Štvanice 1125, 170 00 Praha 7-Holešovice, Czechia.
 
 ## What's on
 
@@ -12,9 +12,10 @@ Bike Jesus is a music venue in Prague listed on soundcheck. 4 upcoming nights, w
 | Fri, 31 Jul 2026 | OUTDOOR + INDOOR Part Time Locals REVOLUTION | Farahdiba, Harry Wills, KAWA, Rory Cochrane, Sam Gittis |
 | Sat, 1 Aug 2026 | LYRA with Axel Boman | ANĪC, Axel Boman, Dona, Mike.H, Ondrej Husak, Roman Rai, Silhouette, Theo (8), Täino, Unjack* |
 | Fri, 7 Aug 2026 | Queeriety Pride | Big Lil, Fembot, Kewu, LuLu (CZ), PRDELANZA, exegesis |
+| Fri, 18 Sept 2026 | Season opener: Fuchs2 x Bike Jesus | Alfred Czital, DC Salas, DDK (1), Dash (CZ), LULU (1), Midirama, Misha Jaru, Miss Univers, Perc, SJ Yellow, TRANSmisia, Zuzana Hakl, domizako, mʊdʌki |
 
 ## Address
 
 ostrov Štvanice 1125, 170 00 Praha 7-Holešovice, Czechia, Prague
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/prague/club/bike-jesus/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/prague/club/bike-jesus/)*

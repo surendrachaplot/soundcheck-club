@@ -1,13 +1,14 @@
 # Hayato Iwaki
 
-Hayato Iwaki is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 28 Jul 2026, next at DJ Bar Bridge Shinjuku, Tokyo on Mon, 17 Aug 2026.
+Hayato Iwaki is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Wed, 29 Jul 2026, next at Oath, Tokyo on Sat, 8 Aug 2026.
 
-Hayato Iwaki is a house and techno artist tracked on soundcheck, with 130 sets logged across Tokyo. Often billed alongside Leo Gabriel, Hayato and RIHO ASAEDA. Next up: DJ Bar Bridge Shinjuku, Tokyo on Mon 17 Aug.
+Hayato Iwaki is a house and techno artist tracked on soundcheck, with 131 sets logged across Tokyo. Often billed alongside Leo Gabriel, Hayato and RIHO ASAEDA. Next up: Oath, Tokyo on Sat 8 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 8 Aug 2026 | Oath | Tokyo |
 | Mon, 17 Aug 2026 | DJ Bar Bridge Shinjuku | Tokyo |
 
 ## Recently played
@@ -25,4 +26,4 @@ Hayato Iwaki is a house and techno artist tracked on soundcheck, with 130 sets l
 
 Leo Gabriel, Hayato, RIHO ASAEDA
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/hayatoiwaki/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/hayatoiwaki/)*

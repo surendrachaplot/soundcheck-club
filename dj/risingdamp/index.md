@@ -1,6 +1,6 @@
 # Rising Damp
 
-Rising Damp is a Experimental and Electronica artist with 1 upcoming club date listed on soundcheck as of Tue, 28 Jul 2026, next at Pallas Projects Studios, Dublin on Sat, 22 Aug 2026.
+Rising Damp is a Experimental and Electronica artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at Pallas Projects Studios, Dublin on Sat, 22 Aug 2026.
 
 Rising Damp is an experimental and electronica artist based in Ireland, tracked on soundcheck, with 5 sets logged across Berlin, Cork, Dublin and Glasgow. Often billed alongside -Doubt, Bull Horris and BÁHDO. Next up: Pallas Projects Studios, Dublin on Sat 22 Aug.
 
@@ -21,4 +21,4 @@ Rising Damp is an experimental and electronica artist based in Ireland, tracked 
 
 -Doubt, Bull Horris, BÁHDO
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/risingdamp/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/risingdamp/)*

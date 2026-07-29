@@ -1,6 +1,6 @@
 # Patrischa
 
-Patrischa is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Tue, 28 Jul 2026, next at Hardturm Areal, Zurich on Sat, 1 Aug 2026.
+Patrischa is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at Hardturm Areal, Zurich on Sat, 1 Aug 2026.
 
 Patrischa is a house and tech house artist based in Switzerland, tracked on soundcheck, with 24 sets logged across Basel and Zurich. Often billed alongside Daughter In Law, Juli Lee and Qebeq. Next up: Hardturm Areal, Zurich on Sat 1 Aug.
 
@@ -25,4 +25,4 @@ Patrischa is a house and tech house artist based in Switzerland, tracked on soun
 
 Daughter In Law, Juli Lee, Qebeq
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/patrischa/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/patrischa/)*

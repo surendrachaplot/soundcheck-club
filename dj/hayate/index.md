@@ -1,6 +1,6 @@
 # HAYATE
 
-HAYATE is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Tue, 28 Jul 2026, next at Circus Tokyo, Tokyo on Fri, 31 Jul 2026.
+HAYATE is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at Circus Tokyo, Tokyo on Fri, 31 Jul 2026.
 
 HAYATE is a techno and house artist based in Japan, tracked on soundcheck, with 64 sets logged across Kyoto, Seoul and Tokyo. Often billed alongside SOUND BRAIN, JUN INAGAWA and MoEPiKA. Next up: Circus Tokyo, Tokyo on Fri 31 Jul.
 
@@ -25,4 +25,4 @@ HAYATE is a techno and house artist based in Japan, tracked on soundcheck, with 
 
 SOUND BRAIN, JUN INAGAWA, MoEPiKA
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/hayate/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/hayate/)*

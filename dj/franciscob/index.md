@@ -1,6 +1,6 @@
 # Francisco B
 
-Francisco B is a Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 28 Jul 2026, next at Garage 442, Barcelona on Fri, 31 Jul 2026.
+Francisco B is a Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at Garage 442, Barcelona on Fri, 31 Jul 2026.
 
 Francisco B is a techno artist based in Spain, tracked on soundcheck, with 10 sets logged across Barcelona. Often billed alongside Lardin, Guillem Cotto and IZAN CRAMER. Next up: Garage 442, Barcelona on Fri 31 Jul.
 
@@ -25,4 +25,4 @@ Francisco B is a techno artist based in Spain, tracked on soundcheck, with 10 se
 
 Lardin, Guillem Cotto, IZAN CRAMER
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/franciscob/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/franciscob/)*

@@ -1,6 +1,6 @@
 # Monokultur
 
-Monokultur is a House and Disco artist with 2 upcoming club dates listed on soundcheck as of Tue, 28 Jul 2026, next at Maislabyrinth Liederbach, Frankfurt on Sat, 1 Aug 2026.
+Monokultur is a House and Disco artist with 2 upcoming club dates listed on soundcheck as of Wed, 29 Jul 2026, next at Maislabyrinth Liederbach, Frankfurt on Sat, 1 Aug 2026.
 
 Monokultur is a house and disco artist based in Lebanon, tracked on soundcheck, with 13 sets logged across Amsterdam, Berlin, Frankfurt and Paris. Often billed alongside Pascal Fischer, Ronin (LB) and Ana Molina. Next up: Maislabyrinth Liederbach, Frankfurt on Sat 1 Aug.
 
@@ -26,4 +26,4 @@ Monokultur is a house and disco artist based in Lebanon, tracked on soundcheck, 
 
 Pascal Fischer, Ronin (LB), Ana Molina
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/monokultur/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/monokultur/)*

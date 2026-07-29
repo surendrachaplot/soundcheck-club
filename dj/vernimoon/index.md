@@ -1,6 +1,6 @@
 # vernimoon
 
-vernimoon is a House artist with 1 upcoming club date listed on soundcheck as of Tue, 28 Jul 2026, next at Minimal Bar, Berlin on Tue, 25 Aug 2026.
+vernimoon is a House artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at Minimal Bar, Berlin on Tue, 25 Aug 2026.
 
 vernimoon is a house artist based in Germany, tracked on soundcheck, with 11 sets logged across Berlin. Often billed alongside Vlad Yaki, Paul Wheaten and Kere (2). Next up: Minimal Bar, Berlin on Tue 25 Aug.
 
@@ -25,4 +25,4 @@ vernimoon is a house artist based in Germany, tracked on soundcheck, with 11 set
 
 Vlad Yaki, Paul Wheaten, Kere (2)
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/vernimoon/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/vernimoon/)*

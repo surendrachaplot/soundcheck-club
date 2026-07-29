@@ -1,6 +1,6 @@
 # Space Ghost
 
-Space Ghost is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Tue, 28 Jul 2026, next at Colour Factory, London on Sat, 1 Aug 2026.
+Space Ghost is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at Colour Factory, London on Sat, 1 Aug 2026.
 
 Space Ghost is a house and deep house artist tracked on soundcheck, with 26 sets logged across Berlin, Copenhagen, London and Losangeles and 9 more. Often billed alongside nina sol, Sangsih and Sánlo. Next up: Colour Factory, London on Sat 1 Aug.
 
@@ -25,4 +25,4 @@ Space Ghost is a house and deep house artist tracked on soundcheck, with 26 sets
 
 nina sol, Sangsih, Sánlo
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/spaceghost-2/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/spaceghost-2/)*

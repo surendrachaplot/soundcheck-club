@@ -1,6 +1,6 @@
 # Billy Nasty
 
-Billy Nasty is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Tue, 28 Jul 2026, next at The Old Blue Last, London on Sat, 12 Sept 2026.
+Billy Nasty is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at The Old Blue Last, London on Sat, 12 Sept 2026.
 
 Billy Nasty is a techno and house artist tracked on soundcheck, with 21 sets logged across Amsterdam, Barcelona, Birmingham and Brighton and 3 more. Often billed alongside Charles Green, ADRIANNA and Lino Fuso. Next up: The Old Blue Last, London on Sat 12 Sept.
 
@@ -25,4 +25,4 @@ Billy Nasty is a techno and house artist tracked on soundcheck, with 21 sets log
 
 Charles Green, ADRIANNA, Lino Fuso
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/billynasty/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/billynasty/)*

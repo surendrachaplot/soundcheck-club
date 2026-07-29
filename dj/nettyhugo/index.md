@@ -1,6 +1,6 @@
 # Netty Hugo
 
-Netty Hugo is a Techno and Electro artist with 1 upcoming club date listed on soundcheck as of Tue, 28 Jul 2026, next at De Fik Garden, Amsterdam on Sat, 1 Aug 2026.
+Netty Hugo is a Techno and Electro artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at De Fik Garden, Amsterdam on Sat, 1 Aug 2026.
 
 Netty Hugo is a techno and electro artist based in Luxembourg, tracked on soundcheck, with 11 sets logged across Amsterdam, Berlin, Brussels and Cologne and 1 more. Often billed alongside Bolster, Jayzo and Rallo. Next up: De Fik Garden, Amsterdam on Sat 1 Aug.
 
@@ -25,4 +25,4 @@ Netty Hugo is a techno and electro artist based in Luxembourg, tracked on soundc
 
 Bolster, Jayzo, Rallo
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/nettyhugo/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/nettyhugo/)*

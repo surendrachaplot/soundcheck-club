@@ -1,6 +1,6 @@
 # Bassolino
 
-Bassolino is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Tue, 28 Jul 2026, next at Calatheabeachclub, Naples on Sat, 1 Aug 2026.
+Bassolino is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at Calatheabeachclub, Naples on Sat, 1 Aug 2026.
 
 Bassolino is a house and disco artist based in Italy, tracked on soundcheck, with 15 sets logged across Barcelona, London, Milan and Naples and 1 more. Often billed alongside Curcio, Giorgia Angiuli and Mugman. Next up: Calatheabeachclub, Naples on Sat 1 Aug.
 
@@ -25,4 +25,4 @@ Bassolino is a house and disco artist based in Italy, tracked on soundcheck, wit
 
 Curcio, Giorgia Angiuli, Mugman
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/bassolino/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/bassolino/)*

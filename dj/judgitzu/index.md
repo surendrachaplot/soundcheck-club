@@ -1,6 +1,6 @@
 # JUDGITZU
 
-JUDGITZU is a Singeli and Experimental artist with 1 upcoming club date listed on soundcheck as of Tue, 28 Jul 2026, next at TBA - Apiro, Marche IT, Milan on Thu, 30 Jul 2026.
+JUDGITZU is a Singeli and Experimental artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at TBA - Apiro, Marche IT, Milan on Thu, 30 Jul 2026.
 
 JUDGITZU is a singeli and experimental artist based in France, tracked on soundcheck, with 6 sets logged across Amsterdam, Barcelona, Milan and Oslo and 1 more. Often billed alongside Authentically Plastic, Catu Diosis and DJ Diaki. Next up: TBA - Apiro, Marche IT, Milan on Thu 30 Jul.
 
@@ -22,4 +22,4 @@ JUDGITZU is a singeli and experimental artist based in France, tracked on soundc
 
 Authentically Plastic, Catu Diosis, DJ Diaki
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/judgitzu/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/judgitzu/)*

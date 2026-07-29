@@ -1,6 +1,6 @@
 # Warrior Queen
 
-Warrior Queen is a Techno and Dub artist with 2 upcoming club dates listed on soundcheck as of Tue, 28 Jul 2026, next at Amsterdamse Bos, Amsterdam on Wed, 29 Jul 2026.
+Warrior Queen is a Techno and Dub artist with 2 upcoming club dates listed on soundcheck as of Wed, 29 Jul 2026, next at Amsterdamse Bos, Amsterdam on Wed, 29 Jul 2026.
 
 Warrior Queen is a techno and dub artist based in Jamaica, tracked on soundcheck, with 18 sets logged across Amsterdam, Athens, Berlin and Brussels and 8 more. Often billed alongside The Bug, Mia Koden and Nazar. Next up: Amsterdamse Bos, Amsterdam on Wed 29 Jul.
 
@@ -26,4 +26,4 @@ Warrior Queen is a techno and dub artist based in Jamaica, tracked on soundcheck
 
 The Bug, Mia Koden, Nazar
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/warriorqueen/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/warriorqueen/)*

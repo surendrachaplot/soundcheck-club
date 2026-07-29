@@ -1,13 +1,14 @@
 # cliff
 
-cliff is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Tue, 28 Jul 2026, next at CLUB OST & RENATE BERLIN, Berlin on Fri, 21 Aug 2026.
+cliff is a House and Afro House artist with 2 upcoming club dates listed on soundcheck as of Wed, 29 Jul 2026, next at Tausend, Berlin on Sat, 1 Aug 2026.
 
-cliff is a techno and trance artist based in Germany, tracked on soundcheck, with 23 sets logged across Berlin and Melbourne. Often billed alongside Cyranotaurus Cortex, Emma Keks and Goldenaxe. Next up: CLUB OST & RENATE BERLIN, Berlin on Fri 21 Aug.
+cliff is a house and afro house artist based in Germany, tracked on soundcheck, with 24 sets logged across Berlin and Melbourne. Often billed alongside Cyranotaurus Cortex, Emma Keks and Goldenaxe. Next up: Tausend, Berlin on Sat 1 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 1 Aug 2026 | Tausend | Berlin |
 | Fri, 21 Aug 2026 | CLUB OST & RENATE BERLIN | Berlin |
 
 ## Recently played
@@ -25,4 +26,4 @@ cliff is a techno and trance artist based in Germany, tracked on soundcheck, wit
 
 Cyranotaurus Cortex, Emma Keks, Goldenaxe
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/cliff/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/cliff/)*

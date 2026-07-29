@@ -1,6 +1,6 @@
 # D.O.S
 
-D.O.S is a House and Minimal artist with 1 upcoming club date listed on soundcheck as of Tue, 28 Jul 2026, next at Flash, Washington DC on Fri, 14 Aug 2026.
+D.O.S is a House and Minimal artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at Flash, Washington DC on Fri, 14 Aug 2026.
 
 D.O.S is a house and minimal artist based in United States of America, tracked on soundcheck, with 5 sets logged across Boston and Washingtondc. Often billed alongside Arroyo, Dusty Digital and FRANZIV. Next up: Flash, Washingtondc on Fri 14 Aug.
 
@@ -21,4 +21,4 @@ D.O.S is a house and minimal artist based in United States of America, tracked o
 
 Arroyo, Dusty Digital, FRANZIV
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/d.o.s/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/d.o.s/)*

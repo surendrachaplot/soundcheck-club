@@ -1,6 +1,6 @@
 # Kulage
 
-Kulage is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Tue, 28 Jul 2026, next at VENT, Tokyo on Fri, 7 Aug 2026.
+Kulage is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at VENT, Tokyo on Fri, 7 Aug 2026.
 
 Kulage is a techno and house artist based in Japan, tracked on soundcheck, with 103 sets logged across Seoul and Tokyo. Often billed alongside WAKA XINXI, DJ AKi and YELLOCK. Next up: VENT, Tokyo on Fri 7 Aug.
 
@@ -25,4 +25,4 @@ Kulage is a techno and house artist based in Japan, tracked on soundcheck, with 
 
 WAKA XINXI, DJ AKi, YELLOCK
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/kulage/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/kulage/)*

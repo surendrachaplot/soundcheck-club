@@ -1,6 +1,6 @@
 # RenzNiro
 
-RenzNiro is a Grime and Bass artist with 1 upcoming club date listed on soundcheck as of Tue, 28 Jul 2026, next at The Golden Lion, Manchester on Sat, 1 Aug 2026.
+RenzNiro is a Grime and Bass artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at The Golden Lion, Manchester on Sat, 1 Aug 2026.
 
 RenzNiro is a grime and bass artist tracked on soundcheck, with 15 sets logged across Brussels, London, Manchester and Milan and 1 more. Often billed alongside Ship Sket, iced lattina and Adele Tondu. Next up: The Golden Lion, Manchester on Sat 1 Aug.
 
@@ -25,4 +25,4 @@ RenzNiro is a grime and bass artist tracked on soundcheck, with 15 sets logged a
 
 Ship Sket, iced lattina, Adele Tondu
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/renzniro/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/renzniro/)*

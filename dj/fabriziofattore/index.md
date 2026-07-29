@@ -1,6 +1,6 @@
 # Fabrizio Fattore
 
-Fabrizio Fattore is a Funk / Soul and House artist with 2 upcoming club dates listed on soundcheck as of Tue, 28 Jul 2026, next at Calatheabeachclub, Naples on Sat, 1 Aug 2026.
+Fabrizio Fattore is a Funk / Soul and House artist with 2 upcoming club dates listed on soundcheck as of Wed, 29 Jul 2026, next at Calatheabeachclub, Naples on Sat, 1 Aug 2026.
 
 Fabrizio Fattore is a funk / soul and house artist tracked on soundcheck, with 25 sets logged across Naples. Often billed alongside Angelo Perna, assu and Aldo Rosati. Next up: Calatheabeachclub, Naples on Sat 1 Aug.
 
@@ -26,4 +26,4 @@ Fabrizio Fattore is a funk / soul and house artist tracked on soundcheck, with 2
 
 Angelo Perna, assu, Aldo Rosati
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/fabriziofattore/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/fabriziofattore/)*

@@ -1,6 +1,6 @@
 # Vís (1)
 
-Vís (1) is a Techno and Dub artist with 2 upcoming club dates listed on soundcheck as of Tue, 28 Jul 2026, next at BnA Alter Museum, Kyoto on Sat, 1 Aug 2026.
+Vís (1) is a Techno and Dub artist with 2 upcoming club dates listed on soundcheck as of Wed, 29 Jul 2026, next at BnA Alter Museum, Kyoto on Sat, 1 Aug 2026.
 
 Vís (1) is a techno and dub artist tracked on soundcheck, with 123 sets logged across Kyoto, Osaka and Tokyo. Often billed alongside Ryogo, Chanaz and E.O.U. Next up: BnA Alter Museum, Kyoto on Sat 1 Aug.
 
@@ -26,4 +26,4 @@ Vís (1) is a techno and dub artist tracked on soundcheck, with 123 sets logged 
 
 Ryogo, Chanaz, E.O.U
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/vís-1/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/vís-1/)*

@@ -1,6 +1,6 @@
 # El Pájaro Negro
 
-El Pájaro Negro is a House and Electro artist with 1 upcoming club date listed on soundcheck as of Tue, 28 Jul 2026, next at EL SÓTANO, Madrid on Fri, 31 Jul 2026.
+El Pájaro Negro is a House and Electro artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at EL SÓTANO, Madrid on Fri, 31 Jul 2026.
 
 El Pájaro Negro is a house and electro artist based in Spain, tracked on soundcheck, with 6 sets logged across Madrid. Often billed alongside Brisa Then, Tucu (Tucu) and Alexis mayer. Next up: EL SÓTANO, Madrid on Fri 31 Jul.
 
@@ -22,4 +22,4 @@ El Pájaro Negro is a house and electro artist based in Spain, tracked on soundc
 
 Brisa Then, Tucu (Tucu), Alexis mayer
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/elpajaronegro/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/elpajaronegro/)*

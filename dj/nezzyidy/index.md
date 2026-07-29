@@ -1,6 +1,6 @@
 # Nezzy Idy
 
-Nezzy Idy is a Acid and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 28 Jul 2026, next at F8 1192 Folsom, San Francisco/Oakland on Wed, 29 Jul 2026.
+Nezzy Idy is a Acid and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at F8 1192 Folsom, San Francisco/Oakland on Wed, 29 Jul 2026.
 
 Nezzy Idy is an acid and techno artist based in United States of America, tracked on soundcheck, with 11 sets logged across Sanfrancisco. Often billed alongside Solar, Beyond the Black Hole and C.L.A.W.S.. Next up: F8 1192 Folsom, Sanfrancisco on Wed 29 Jul.
 
@@ -25,4 +25,4 @@ Nezzy Idy is an acid and techno artist based in United States of America, tracke
 
 Solar, Beyond the Black Hole, C.L.A.W.S.
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/nezzyidy/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/nezzyidy/)*

@@ -1,6 +1,6 @@
 # HW BINGO
 
-HW BINGO is a Bass and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 28 Jul 2026, next at Enter Shibuya, Tokyo on Thu, 30 Jul 2026.
+HW BINGO is a Bass and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at Enter Shibuya, Tokyo on Thu, 30 Jul 2026.
 
 HW BINGO is a bass and techno artist based in Japan, tracked on soundcheck, with 27 sets logged across Seoul and Tokyo. Often billed alongside mitokon, CYBERHACKSYSTEM and K8 (TYO GQOM). Next up: Enter Shibuya, Tokyo on Thu 30 Jul.
 
@@ -25,4 +25,4 @@ HW BINGO is a bass and techno artist based in Japan, tracked on soundcheck, with
 
 mitokon, CYBERHACKSYSTEM, K8 (TYO GQOM)
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/hwbingo/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/hwbingo/)*

@@ -1,6 +1,6 @@
 # Audio SF
 
-Audio SF is a music venue in San Francisco/Oakland with 16 upcoming nights listed on soundcheck as of Tue, 28 Jul 2026; the next is "SORAYA" on Fri, 31 Jul 2026.
+Audio SF is a music venue in San Francisco/Oakland with 16 upcoming nights listed on soundcheck as of Wed, 29 Jul 2026; the next is "SORAYA" on Fri, 31 Jul 2026.
 
 Audio SF is a music venue in Sanfrancisco listed on soundcheck. 16 upcoming nights, with line-ups including Chris Luno, DREVO, EMBRZ (IE) and N2N (US) and 2 more. Browse upcoming dates, start times and who's playing. 316 11th St; San Francisco CA 94103; United States.
 
@@ -23,4 +23,4 @@ Audio SF is a music venue in Sanfrancisco listed on soundcheck. 16 upcoming nigh
 
 316 11th St; San Francisco CA 94103; United States, San Francisco/Oakland
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/sanfrancisco/club/audio-sf/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/sanfrancisco/club/audio-sf/)*

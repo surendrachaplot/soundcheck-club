@@ -1,6 +1,6 @@
 # Veeps
 
-Veeps is a House and Funk / Soul artist with 1 upcoming club date listed on soundcheck as of Tue, 28 Jul 2026, next at Jupiter Disco, New York City on Sun, 16 Aug 2026.
+Veeps is a House and Funk / Soul artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at Jupiter Disco, New York City on Sun, 16 Aug 2026.
 
 Veeps is a house and funk / soul artist based in United States of America, tracked on soundcheck, with 23 sets logged across Mexicocity, Miami and Newyorkcity. Often billed alongside Hard Boiled Babe, JNGLEJ and Nina Moss. Next up: Jupiter Disco, Newyorkcity on Sun 16 Aug.
 
@@ -25,4 +25,4 @@ Veeps is a house and funk / soul artist based in United States of America, track
 
 Hard Boiled Babe, JNGLEJ, Nina Moss
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/veeps/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/veeps/)*

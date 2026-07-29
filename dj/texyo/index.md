@@ -1,6 +1,6 @@
 # Texyo
 
-Texyo is a Garage and Bass artist with 1 upcoming club date listed on soundcheck as of Tue, 28 Jul 2026, next at Sneaky Pete's, Edinburgh on Thu, 30 Jul 2026.
+Texyo is a Garage and Bass artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at Sneaky Pete's, Edinburgh on Thu, 30 Jul 2026.
 
 Texyo is a garage and bass artist based in United Kingdom, tracked on soundcheck, with 38 sets logged across Edinburgh and Glasgow. Often billed alongside Gilbo, billybawbags and ZO3 (1). Next up: Sneaky Pete's, Edinburgh on Thu 30 Jul.
 
@@ -25,4 +25,4 @@ Texyo is a garage and bass artist based in United Kingdom, tracked on soundcheck
 
 Gilbo, billybawbags, ZO3 (1)
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/texyo/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/texyo/)*

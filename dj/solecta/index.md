@@ -1,6 +1,6 @@
 # SOLECTA
 
-SOLECTA is a Drum & Bass and Jungle artist with 1 upcoming club date listed on soundcheck as of Tue, 28 Jul 2026, next at The Mash House, Edinburgh on Fri, 31 Jul 2026.
+SOLECTA is a Drum & Bass and Jungle artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at The Mash House, Edinburgh on Fri, 31 Jul 2026.
 
 SOLECTA is a drum & bass and jungle artist based in United Kingdom, tracked on soundcheck, with 20 sets logged across Edinburgh and Glasgow. Often billed alongside Corran, Hex (UK) and Akintore. Next up: The Mash House, Edinburgh on Fri 31 Jul.
 
@@ -25,4 +25,4 @@ SOLECTA is a drum & bass and jungle artist based in United Kingdom, tracked on s
 
 Corran, Hex (UK), Akintore
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/solecta/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/solecta/)*

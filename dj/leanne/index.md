@@ -1,6 +1,6 @@
 # LEANNE
 
-LEANNE is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Tue, 28 Jul 2026, next at Void Club, Berlin on Sat, 8 Aug 2026.
+LEANNE is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at Void Club, Berlin on Sat, 8 Aug 2026.
 
 LEANNE is a techno and trance artist based in Slovenia, tracked on soundcheck, with 2 sets logged across Berlin and Vienna. Often billed alongside AliA, Arman Shadow and Dxpe. Next up: Void Club, Berlin on Sat 8 Aug.
 
@@ -18,4 +18,4 @@ LEANNE is a techno and trance artist based in Slovenia, tracked on soundcheck, w
 
 AliA, Arman Shadow, Dxpe
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/leanne/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/leanne/)*

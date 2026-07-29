@@ -1,6 +1,6 @@
 # Benja
 
-Benja is a Tech House and House artist with 3 upcoming club dates listed on soundcheck as of Tue, 28 Jul 2026, next at Chinois Ibiza, Ibiza on Wed, 5 Aug 2026.
+Benja is a Tech House and House artist with 3 upcoming club dates listed on soundcheck as of Wed, 29 Jul 2026, next at Chinois Ibiza, Ibiza on Wed, 5 Aug 2026.
 
 Benja is a tech house and house artist based in Switzerland, tracked on soundcheck, with 18 sets logged across Amsterdam, Barcelona, Basel and Hamburg and 5 more. Often billed alongside Franc Fala, Cincity and ALISHA. Next up: Chinois Ibiza, Ibiza on Wed 5 Aug.
 
@@ -27,4 +27,4 @@ Benja is a tech house and house artist based in Switzerland, tracked on soundche
 
 Franc Fala, Cincity, ALISHA
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/benja/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/benja/)*

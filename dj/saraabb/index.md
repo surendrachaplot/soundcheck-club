@@ -1,6 +1,6 @@
 # Saraabb
 
-Saraabb is a Downtempo and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 28 Jul 2026, next at Jonny Knüppel, Berlin on Fri, 31 Jul 2026.
+Saraabb is a Downtempo and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at Jonny Knüppel, Berlin on Fri, 31 Jul 2026.
 
 Saraabb is a downtempo and techno artist based in Syria, tracked on soundcheck, with 18 sets logged across Berlin, Leipzig and Paris. Often billed alongside Raphael Hofman, AMO and Amount (DE). Next up: Jonny Knüppel, Berlin on Fri 31 Jul.
 
@@ -25,4 +25,4 @@ Saraabb is a downtempo and techno artist based in Syria, tracked on soundcheck, 
 
 Raphael Hofman, AMO, Amount (DE)
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/saraabb/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/saraabb/)*

@@ -1,6 +1,6 @@
 # Javonntte
 
-Javonntte is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 28 Jul 2026, next at Spkrbox, Detroit on Sat, 1 Aug 2026.
+Javonntte is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at Spkrbox, Detroit on Sat, 1 Aug 2026.
 
 Javonntte is a house and techno artist tracked on soundcheck, with 33 sets logged across Chicago, Detroit and Newyorkcity. Often billed alongside Isaac Prieto, Donna Gardner and something blue. Next up: Spkrbox, Detroit on Sat 1 Aug.
 
@@ -25,4 +25,4 @@ Javonntte is a house and techno artist tracked on soundcheck, with 33 sets logge
 
 Isaac Prieto, Donna Gardner, something blue
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/javonntte/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/javonntte/)*

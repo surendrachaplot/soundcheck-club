@@ -1,6 +1,6 @@
 # Wiggle Room
 
-Wiggle Room is a music venue in Toronto with 5 upcoming nights listed on soundcheck as of Tue, 28 Jul 2026; the next is "WR Records: LITTLE BAD ASS [LBA] EP Release Party" on Fri, 31 Jul 2026.
+Wiggle Room is a music venue in Toronto with 5 upcoming nights listed on soundcheck as of Wed, 29 Jul 2026; the next is "WR Records: LITTLE BAD ASS [LBA] EP Release Party" on Fri, 31 Jul 2026.
 
 Wiggle Room is a music venue in Toronto listed on soundcheck. 5 upcoming nights, with line-ups including Addy, Barroness, Dick Diamonds and Jason Hodges and 2 more. Browse upcoming dates, start times and who's playing. 772 Dundas St W, Toronto, ON M6J 1V1, Canada.
 
@@ -18,4 +18,4 @@ Wiggle Room is a music venue in Toronto listed on soundcheck. 5 upcoming nights,
 
 772 Dundas St W, Toronto, ON M6J 1V1, Canada, Toronto
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/toronto/club/wiggle-room/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/toronto/club/wiggle-room/)*

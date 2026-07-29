@@ -1,6 +1,6 @@
 # Fayli
 
-Fayli is a Afro Tech and Afro House artist with 1 upcoming club date listed on soundcheck as of Tue, 28 Jul 2026, next at Unit 58, London on Sat, 1 Aug 2026.
+Fayli is a Afro Tech and Afro House artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at Unit 58, London on Sat, 1 Aug 2026.
 
 Fayli is an afro tech and afro house artist tracked on soundcheck, with 9 sets logged across London. Often billed alongside HÎMBA, Artist Lebo and Bushman (UK). Next up: Unit 58, London on Sat 1 Aug.
 
@@ -25,4 +25,4 @@ Fayli is an afro tech and afro house artist tracked on soundcheck, with 9 sets l
 
 HÎMBA, Artist Lebo, Bushman (UK)
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/fayli/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/fayli/)*

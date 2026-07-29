@@ -1,6 +1,6 @@
 # Rafiki
 
-Rafiki is a House and Hip-Hop artist with 1 upcoming club date listed on soundcheck as of Tue, 28 Jul 2026, next at The Jazz Cafe, London on Wed, 29 Jul 2026.
+Rafiki is a House and Hip-Hop artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at The Jazz Cafe, London on Wed, 29 Jul 2026.
 
 Rafiki is a house and hip-hop artist based in France, tracked on soundcheck, with 16 sets logged across Berlin, Cologne, Hongkong and Houston and 5 more. Often billed alongside Noey Lopez, Mab'ish and $ombi. Next up: The Jazz Cafe, London on Wed 29 Jul.
 
@@ -25,4 +25,4 @@ Rafiki is a house and hip-hop artist based in France, tracked on soundcheck, wit
 
 Noey Lopez, Mab'ish, $ombi
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/rafiki/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/rafiki/)*

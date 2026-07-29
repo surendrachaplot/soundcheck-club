@@ -1,6 +1,6 @@
 # SLIC Unit
 
-SLIC Unit is a Bass and Club artist with 1 upcoming club date listed on soundcheck as of Tue, 28 Jul 2026, next at Sonnenraum, Berlin on Sun, 16 Aug 2026.
+SLIC Unit is a Bass and Club artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at Sonnenraum, Berlin on Sun, 16 Aug 2026.
 
 SLIC Unit is a bass and club artist based in Germany, tracked on soundcheck, with 29 sets logged across Berlin, Cologne, Hamburg and Leipzig and 3 more. Often billed alongside yung_womb, Slimgirl fat and JAXX TMS. Next up: Sonnenraum, Berlin on Sun 16 Aug.
 
@@ -25,4 +25,4 @@ SLIC Unit is a bass and club artist based in Germany, tracked on soundcheck, wit
 
 yung_womb, Slimgirl fat, JAXX TMS
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/slicunit/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/slicunit/)*

@@ -1,13 +1,14 @@
 # Am Nil
 
-Am Nil is a Ambient and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 28 Jul 2026, next at Genezareth-Kirche, Berlin on Thu, 3 Sept 2026.
+Am Nil is a Ambient and Experimental artist with 2 upcoming club dates listed on soundcheck as of Wed, 29 Jul 2026, next at Ikii, Berlin on Tue, 4 Aug 2026.
 
-Am Nil is an ambient and techno artist based in Germany, tracked on soundcheck, with 13 sets logged across Amsterdam and Berlin. Often billed alongside Serenus, APRS and superamas. Next up: Genezareth-Kirche, Berlin on Thu 3 Sept.
+Am Nil is an ambient and experimental artist based in Germany, tracked on soundcheck, with 14 sets logged across Amsterdam and Berlin. Often billed alongside APRS, Serenus and superamas. Next up: Ikii, Berlin on Tue 4 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Tue, 4 Aug 2026 | Ikii | Berlin |
 | Thu, 3 Sept 2026 | Genezareth-Kirche | Berlin |
 
 ## Recently played
@@ -23,6 +24,6 @@ Am Nil is an ambient and techno artist based in Germany, tracked on soundcheck, 
 
 ## Shares bills with
 
-Serenus, APRS, superamas
+APRS, Serenus, superamas
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/amnil/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/amnil/)*

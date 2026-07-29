@@ -1,6 +1,6 @@
 # MANNIO
 
-MANNIO is a Techno and Electro artist with 2 upcoming club dates listed on soundcheck as of Tue, 28 Jul 2026, next at ÆDEN, Berlin on Fri, 31 Jul 2026.
+MANNIO is a Techno and Electro artist with 2 upcoming club dates listed on soundcheck as of Wed, 29 Jul 2026, next at ÆDEN, Berlin on Fri, 31 Jul 2026.
 
 MANNIO is a techno and electro artist tracked on soundcheck, with 20 sets logged across Berlin, Dublin, Galway and Manchester. Often billed alongside Culchee, Niall Kelly and Peadar. Next up: ÆDEN, Berlin on Fri 31 Jul.
 
@@ -26,4 +26,4 @@ MANNIO is a techno and electro artist tracked on soundcheck, with 20 sets logged
 
 Culchee, Niall Kelly, Peadar
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/mannio/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/mannio/)*

@@ -1,6 +1,6 @@
 # Buckmonster
 
-Buckmonster is a Club and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 28 Jul 2026, next at TBA, Los Angeles on Sun, 2 Aug 2026.
+Buckmonster is a Club and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at TBA, Los Angeles on Sun, 2 Aug 2026.
 
 Buckmonster is a club and techno artist based in United States of America, tracked on soundcheck, with 11 sets logged across Losangeles. Often billed alongside BROWNSKINHAZEL, BAE BAE and Physical Therapy. Next up: TBA, Losangeles on Sun 2 Aug.
 
@@ -25,4 +25,4 @@ Buckmonster is a club and techno artist based in United States of America, track
 
 BROWNSKINHAZEL, BAE BAE, Physical Therapy
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/buckmonster/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/buckmonster/)*

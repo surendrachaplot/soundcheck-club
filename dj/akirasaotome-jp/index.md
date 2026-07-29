@@ -1,6 +1,6 @@
 # Akira Saotome
 
-Akira Saotome is a Minimal and Minimal Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 28 Jul 2026, next at Socore Factory, Osaka on Sat, 15 Aug 2026.
+Akira Saotome is a Minimal and Minimal Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at Socore Factory, Osaka on Sat, 15 Aug 2026.
 
 Akira Saotome is a minimal and minimal techno artist based in Japan, tracked on soundcheck, with 4 sets logged across Osaka, Seoul and Tokyo. Often billed alongside Kibum, Oviduct and SPOT (JPN). Next up: Socore Factory, Osaka on Sat 15 Aug.
 
@@ -20,4 +20,4 @@ Akira Saotome is a minimal and minimal techno artist based in Japan, tracked on 
 
 Kibum, Oviduct, SPOT (JPN)
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/akirasaotome-jp/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/akirasaotome-jp/)*

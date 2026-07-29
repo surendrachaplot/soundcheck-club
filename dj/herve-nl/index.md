@@ -1,6 +1,6 @@
 # Hervé
 
-Hervé is a Techno and Experimental artist with 4 upcoming club dates listed on soundcheck as of Tue, 28 Jul 2026, next at TBA - Deventer Outdoor | Molbergsweg 3c , Amsterdam on Fri, 7 Aug 2026.
+Hervé is a Techno and Experimental artist with 4 upcoming club dates listed on soundcheck as of Wed, 29 Jul 2026, next at TBA - Deventer Outdoor | Molbergsweg 3c , Amsterdam on Fri, 7 Aug 2026.
 
 Hervé is a techno and experimental artist based in Netherlands, tracked on soundcheck, with 41 sets logged across Amsterdam, Barcelona, Berlin and Brussels and 7 more. Often billed alongside Noord Loop, Oberman and Octo Octa. Next up: TBA - Deventer Outdoor | Molbergsweg 3c , Amsterdam on Fri 7 Aug.
 
@@ -28,4 +28,4 @@ Hervé is a techno and experimental artist based in Netherlands, tracked on soun
 
 Noord Loop, Oberman, Octo Octa
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/herve-nl/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/herve-nl/)*

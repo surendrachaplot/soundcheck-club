@@ -1,6 +1,6 @@
 # Basswell
 
-Basswell is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Tue, 28 Jul 2026, next at Donauinsel, Vienna on Sat, 1 Aug 2026.
+Basswell is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at Donauinsel, Vienna on Sat, 1 Aug 2026.
 
 Basswell is a techno and trance artist tracked on soundcheck, with 168 sets logged across Aberdeen, Amsterdam, Antwerp and Barcelona and 53 more. Often billed alongside Shlømo, Alignment and DYEN. Next up: Donauinsel, Vienna on Sat 1 Aug.
 
@@ -25,4 +25,4 @@ Basswell is a techno and trance artist tracked on soundcheck, with 168 sets logg
 
 Shlømo, Alignment, DYEN
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/basswell/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/basswell/)*

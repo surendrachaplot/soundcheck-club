@@ -1,6 +1,6 @@
 # Ormside Projects
 
-Ormside Projects is a music venue in London with 15 upcoming nights listed on soundcheck as of Tue, 28 Jul 2026; the next is "Knee Deep in Custard x Great Area" on Wed, 29 Jul 2026.
+Ormside Projects is a music venue in London with 15 upcoming nights listed on soundcheck as of Wed, 29 Jul 2026; the next is "Knee Deep in Custard x Great Area" on Wed, 29 Jul 2026.
 
 Ormside Projects is a music venue in London listed on soundcheck. 15 upcoming nights, with line-ups including Ab.Diablo, A-Sides, Azu Tiwaline and basic chanel and 2 more. Browse upcoming dates, start times and who's playing. 32 Ormside St, London SE15 1TR, UK.
 
@@ -23,4 +23,4 @@ Ormside Projects is a music venue in London listed on soundcheck. 15 upcoming ni
 
 32 Ormside St, London SE15 1TR, UK, London
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/london/club/ormside-projects/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/london/club/ormside-projects/)*

@@ -1,6 +1,6 @@
 # Taking Back Sundance
 
-Taking Back Sundance is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Tue, 28 Jul 2026, next at Hawthorn, San Francisco/Oakland on Thu, 6 Aug 2026.
+Taking Back Sundance is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at Hawthorn, San Francisco/Oakland on Thu, 6 Aug 2026.
 
 Taking Back Sundance is a house and tech house artist based in United States of America, tracked on soundcheck, with 24 sets logged across Sanfrancisco. Often billed alongside Emanate, JustJovani and MOSTASH. Next up: Hawthorn, Sanfrancisco on Thu 6 Aug.
 
@@ -25,4 +25,4 @@ Taking Back Sundance is a house and tech house artist based in United States of 
 
 Emanate, JustJovani, MOSTASH
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/takingbacksundance/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/takingbacksundance/)*

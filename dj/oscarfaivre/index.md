@@ -1,6 +1,6 @@
 # Oscar Faivre
 
-Oscar Faivre is a House and Electronica artist with 1 upcoming club date listed on soundcheck as of Tue, 28 Jul 2026, next at Last Arch, London on Fri, 31 Jul 2026.
+Oscar Faivre is a House and Electronica artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at Last Arch, London on Fri, 31 Jul 2026.
 
 Oscar Faivre is a house and electronica artist based in France, tracked on soundcheck, with 32 sets logged across Barcelona, Berlin, Frankfurt and Leeds and 6 more. Often billed alongside Quim Clausell, Walrus and Alex Picone. Next up: Last Arch, London on Fri 31 Jul.
 
@@ -25,4 +25,4 @@ Oscar Faivre is a house and electronica artist based in France, tracked on sound
 
 Quim Clausell, Walrus, Alex Picone
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/oscarfaivre/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/oscarfaivre/)*

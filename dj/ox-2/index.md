@@ -1,6 +1,6 @@
 # OX (2)
 
-OX (2) is a Experimental and Drum & Bass artist with 1 upcoming club date listed on soundcheck as of Tue, 28 Jul 2026, next at TBA - CENNET BAHÇESİ BURGAZADA, Istanbul on Thu, 6 Aug 2026.
+OX (2) is a Experimental and Drum & Bass artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at TBA - CENNET BAHÇESİ BURGAZADA, Istanbul on Thu, 6 Aug 2026.
 
 OX (2) is an experimental and drum & bass artist based in Spain, tracked on soundcheck, with 5 sets logged across Berlin, Istanbul and London. Often billed alongside Neidex, Arnold (UK) and BERENALP. Next up: TBA - CENNET BAHÇESİ BURGAZADA, Istanbul on Thu 6 Aug.
 
@@ -21,4 +21,4 @@ OX (2) is an experimental and drum & bass artist based in Spain, tracked on soun
 
 Neidex, Arnold (UK), BERENALP
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/ox-2/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/ox-2/)*

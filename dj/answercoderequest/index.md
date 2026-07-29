@@ -1,6 +1,6 @@
 # Answer Code Request
 
-Answer Code Request is a Techno and House artist with 4 upcoming club dates listed on soundcheck as of Tue, 28 Jul 2026, next at OMA, Hong Kong on Fri, 31 Jul 2026.
+Answer Code Request is a Techno and House artist with 4 upcoming club dates listed on soundcheck as of Wed, 29 Jul 2026, next at OMA, Hong Kong on Fri, 31 Jul 2026.
 
 Answer Code Request is a techno and house artist tracked on soundcheck, with 116 sets logged across Amsterdam, Athens, Bali and Bangkok and 38 more. Often billed alongside Amotik, Oracy and Barker. Next up: OMA, Hongkong on Fri 31 Jul.
 
@@ -28,4 +28,4 @@ Answer Code Request is a techno and house artist tracked on soundcheck, with 116
 
 Amotik, Oracy, Barker
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/answercoderequest/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/answercoderequest/)*

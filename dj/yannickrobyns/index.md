@@ -1,6 +1,6 @@
 # Yannick Robyns
 
-Yannick Robyns is a electronic artist with 1 upcoming club date listed on soundcheck as of Tue, 28 Jul 2026, next at Golden Gate, Berlin on Thu, 30 Jul 2026.
+Yannick Robyns is a electronic artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at Golden Gate, Berlin on Thu, 30 Jul 2026.
 
 Yannick Robyns is an electronic artist based in Germany, tracked on soundcheck, with 17 sets logged across Berlin and Ghent. Often billed alongside Aubrey, DALOG and Dick Jockey. Next up: Golden Gate, Berlin on Thu 30 Jul.
 
@@ -25,4 +25,4 @@ Yannick Robyns is an electronic artist based in Germany, tracked on soundcheck, 
 
 Aubrey, DALOG, Dick Jockey
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/yannickrobyns/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/yannickrobyns/)*

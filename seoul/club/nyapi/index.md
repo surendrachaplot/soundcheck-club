@@ -1,6 +1,6 @@
 # Nyapi
 
-Nyapi is a music venue in Seoul with 16 upcoming nights listed on soundcheck as of Tue, 28 Jul 2026; the next is "Jama & chukimaandal" on Thu, 30 Jul 2026.
+Nyapi is a music venue in Seoul with 16 upcoming nights listed on soundcheck as of Wed, 29 Jul 2026; the next is "Jama & chukimaandal" on Thu, 30 Jul 2026.
 
 Nyapi is a music venue in Seoul listed on soundcheck. 16 upcoming nights, with line-ups including .2ndfloor, Juncheol, ARUY and ASIANPAYDAY and 2 more. Browse upcoming dates, start times and who's playing. 187 Itaewon-ro Yongsan-gu, Seoul South Korea.
 
@@ -23,4 +23,4 @@ Nyapi is a music venue in Seoul listed on soundcheck. 16 upcoming nights, with l
 
 187 Itaewon-ro Yongsan-gu, Seoul South Korea, Seoul
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/seoul/club/nyapi/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/seoul/club/nyapi/)*

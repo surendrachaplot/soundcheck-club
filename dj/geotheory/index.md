@@ -1,6 +1,6 @@
 # GEOTHEORY
 
-GEOTHEORY is a Deep House and House artist with 1 upcoming club date listed on soundcheck as of Tue, 28 Jul 2026, next at Jupiter Disco, New York City on Sun, 2 Aug 2026.
+GEOTHEORY is a Deep House and House artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at Jupiter Disco, New York City on Sun, 2 Aug 2026.
 
 GEOTHEORY is a deep house and house artist based in United States of America, tracked on soundcheck, with 11 sets logged across Newyorkcity. Often billed alongside IKAROS ESCAPE, Aysun and BLCKLST. Next up: Jupiter Disco, Newyorkcity on Sun 2 Aug.
 
@@ -25,4 +25,4 @@ GEOTHEORY is a deep house and house artist based in United States of America, tr
 
 IKAROS ESCAPE, Aysun, BLCKLST
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/geotheory/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/geotheory/)*

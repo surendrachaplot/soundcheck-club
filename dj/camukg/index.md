@@ -1,6 +1,6 @@
 # camukg
 
-camukg is a Garage and House artist with 1 upcoming club date listed on soundcheck as of Tue, 28 Jul 2026, next at Lakota, Bristol on Fri, 18 Sept 2026.
+camukg is a Garage and House artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at Lakota, Bristol on Fri, 18 Sept 2026.
 
 camukg is a garage and house artist tracked on soundcheck, with 13 sets logged across Bristol, Leeds, London and Southampton. Often billed alongside whoswill, AVA (3) and B-HIND. Next up: Lakota, Bristol on Fri 18 Sept.
 
@@ -25,4 +25,4 @@ camukg is a garage and house artist tracked on soundcheck, with 13 sets logged a
 
 whoswill, AVA (3), B-HIND
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/camukg/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/camukg/)*

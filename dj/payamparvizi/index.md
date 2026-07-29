@@ -1,6 +1,6 @@
 # Payam Parvizi
 
-Payam Parvizi is a Techno and Acid artist with 1 upcoming club date listed on soundcheck as of Tue, 28 Jul 2026, next at Left Bank, Tbilisi on Sat, 1 Aug 2026.
+Payam Parvizi is a Techno and Acid artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at Left Bank, Tbilisi on Sat, 1 Aug 2026.
 
 Payam Parvizi is a techno and acid artist based in Iran, tracked on soundcheck, with 26 sets logged across Berlin, Budapest, Istanbul and Strasbourg and 1 more. Often billed alongside amiraLii, Borna Farshid and Kamyar Keramati. Next up: Left Bank, Tbilisi on Sat 1 Aug.
 
@@ -25,4 +25,4 @@ Payam Parvizi is a techno and acid artist based in Iran, tracked on soundcheck, 
 
 amiraLii, Borna Farshid, Kamyar Keramati
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/payamparvizi/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/payamparvizi/)*

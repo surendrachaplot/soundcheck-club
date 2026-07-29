@@ -1,6 +1,6 @@
 # O.Goo
 
-O.Goo is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Tue, 28 Jul 2026, next at ZEROTOKYO, Tokyo on Fri, 31 Jul 2026.
+O.Goo is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at ZEROTOKYO, Tokyo on Fri, 31 Jul 2026.
 
 O.Goo is a techno and house artist based in Japan, tracked on soundcheck, with 43 sets logged across Amsterdam and Tokyo. Often billed alongside AY (10), TAKUTO (2) and Mary-chan. Next up: ZEROTOKYO, Tokyo on Fri 31 Jul.
 
@@ -25,4 +25,4 @@ O.Goo is a techno and house artist based in Japan, tracked on soundcheck, with 4
 
 AY (10), TAKUTO (2), Mary-chan
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/o.goo/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/o.goo/)*

@@ -1,6 +1,6 @@
 # Organ Bar
 
-Organ Bar is a music venue in Tokyo with 1 upcoming night listed on soundcheck as of Tue, 28 Jul 2026; the next is "Lit It Beat! Vol.4" on Sat, 1 Aug 2026.
+Organ Bar is a music venue in Tokyo with 1 upcoming night listed on soundcheck as of Wed, 29 Jul 2026; the next is "Lit It Beat! Vol.4" on Sat, 1 Aug 2026.
 
 Organ Bar is a music venue in Tokyo listed on soundcheck. 1 upcoming night. Browse upcoming dates, start times and who's playing. 4-9 3F Udagawacho, Shibuya-ku, Tokyo, 150-0042 Japan.
 
@@ -14,4 +14,4 @@ Organ Bar is a music venue in Tokyo listed on soundcheck. 1 upcoming night. Brow
 
 4-9 3F Udagawacho, Shibuya-ku, Tokyo, 150-0042 Japan, Tokyo
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/organ-bar/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/organ-bar/)*

@@ -1,6 +1,6 @@
 # Doggy Klœb
 
-Doggy Klœb is a music venue in Malaga with 8 upcoming nights listed on soundcheck as of Tue, 28 Jul 2026; the next is "Doggy & Friends: Noctive" on Thu, 30 Jul 2026.
+Doggy Klœb is a music venue in Malaga with 8 upcoming nights listed on soundcheck as of Wed, 29 Jul 2026; the next is "Doggy & Friends: Noctive" on Thu, 30 Jul 2026.
 
 Doggy Klœb is a music venue in Malaga listed on soundcheck. 8 upcoming nights, with line-ups including Andrés Sancho, Joe Dylan, Jorgge Decar and Nitrile Affair and 2 more. Browse upcoming dates, start times and who's playing. C. Casablanca, 13, 29620 Torremolinos, Málaga, Spain.
 
@@ -21,4 +21,4 @@ Doggy Klœb is a music venue in Malaga listed on soundcheck. 8 upcoming nights, 
 
 C. Casablanca, 13, 29620 Torremolinos, Málaga, Spain, Malaga
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/malaga/club/doggy-kl-b/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/malaga/club/doggy-kl-b/)*

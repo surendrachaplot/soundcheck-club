@@ -1,6 +1,6 @@
 # FLOCO
 
-FLOCO is a Experimental and Techno artist with 2 upcoming club dates listed on soundcheck as of Tue, 28 Jul 2026, next at The Hope and Ruin, Brighton on Thu, 30 Jul 2026.
+FLOCO is a Experimental and Techno artist with 2 upcoming club dates listed on soundcheck as of Wed, 29 Jul 2026, next at The Hope and Ruin, Brighton on Thu, 30 Jul 2026.
 
 FLOCO is an experimental and techno artist based in United Kingdom, tracked on soundcheck, with 7 sets logged across Brighton, Bristol, London and Manchester. Often billed alongside Aria SL, Stolen Velour and ALEX/ALYA. Next up: The Hope and Ruin, Brighton on Thu 30 Jul.
 
@@ -23,4 +23,4 @@ FLOCO is an experimental and techno artist based in United Kingdom, tracked on s
 
 Aria SL, Stolen Velour, ALEX/ALYA
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/floco/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/floco/)*

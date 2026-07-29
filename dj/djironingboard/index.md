@@ -1,6 +1,6 @@
 # DJ Ironing Board
 
-DJ Ironing Board is a Garage and House artist with 1 upcoming club date listed on soundcheck as of Tue, 28 Jul 2026, next at Brixton Jamm, London on Fri, 14 Aug 2026.
+DJ Ironing Board is a Garage and House artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at Brixton Jamm, London on Fri, 14 Aug 2026.
 
 DJ Ironing Board is a garage and house artist based in United Kingdom, tracked on soundcheck, with 3 sets logged across London. Often billed alongside &DREI, Joe Rose and Karim Bitar. Next up: Brixton Jamm, London on Fri 14 Aug.
 
@@ -19,4 +19,4 @@ DJ Ironing Board is a garage and house artist based in United Kingdom, tracked o
 
 &DREI, Joe Rose, Karim Bitar
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/djironingboard/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/djironingboard/)*

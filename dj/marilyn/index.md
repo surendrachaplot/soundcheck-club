@@ -1,6 +1,6 @@
 # marilyn
 
-marilyn is a Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 28 Jul 2026, next at TBA - location sent to ticket holders at 6pm on August 1st, Philadelphia on Sat, 1 Aug 2026.
+marilyn is a Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at TBA - location sent to ticket holders at 6pm on August 1st, Philadelphia on Sat, 1 Aug 2026.
 
 marilyn is a techno artist based in United States of America, tracked on soundcheck, with 1 set logged across Philadelphia. Often billed alongside Ana Rs and PHIL TY. Next up: TBA - location sent to ticket holders at 6pm on August 1st, Philadelphia on Sat 1 Aug.
 
@@ -14,4 +14,4 @@ marilyn is a techno artist based in United States of America, tracked on soundch
 
 Ana Rs, PHIL TY
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/marilyn/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/marilyn/)*

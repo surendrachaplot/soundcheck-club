@@ -1,8 +1,8 @@
 # Gerd Janson
 
-Gerd Janson is a House and Techno artist with 17 upcoming club dates listed on soundcheck as of Tue, 28 Jul 2026, next at BLITZ, Munich on Fri, 31 Jul 2026.
+Gerd Janson is a House and Techno artist with 18 upcoming club dates listed on soundcheck as of Wed, 29 Jul 2026, next at BLITZ, Munich on Fri, 31 Jul 2026.
 
-Gerd Janson is a house and techno artist tracked on soundcheck, with 290 sets logged across Amsterdam, Antwerp, Athens and Austin and 66 more. Often billed alongside Marcel Dettmann, DJ Tennis and Âme. Next up: BLITZ, Munich on Fri 31 Jul.
+Gerd Janson is a house and techno artist tracked on soundcheck, with 291 sets logged across Amsterdam, Antwerp, Athens and Austin and 66 more. Often billed alongside Marcel Dettmann, DJ Tennis and Âme. Next up: BLITZ, Munich on Fri 31 Jul.
 
 ## Upcoming shows
 
@@ -13,13 +13,13 @@ Gerd Janson is a house and techno artist tracked on soundcheck, with 290 sets lo
 | Mon, 10 Aug 2026 | La Pinilla Ski Resort | Madrid |
 | Mon, 10 Aug 2026 | DC-10 | Ibiza |
 | Fri, 14 Aug 2026 | Hangaren | Copenhagen |
+| Sat, 15 Aug 2026 | TBA | Glasgow |
 | Sat, 15 Aug 2026 | Sub Club | Glasgow |
 | Fri, 21 Aug 2026 | YuYu Cine Club | Mexico City |
 | Sat, 22 Aug 2026 | Jolene Downtown Miami | Miami |
 | Sun, 23 Aug 2026 | public records | New York City |
 | Fri, 28 Aug 2026 | Jaeger | Oslo |
 | Sat, 29 Aug 2026 | NAR | Utrecht |
-| Sun, 30 Aug 2026 | Are You Affiliated | Newcastle |
 
 ## Recently played
 
@@ -36,4 +36,4 @@ Gerd Janson is a house and techno artist tracked on soundcheck, with 290 sets lo
 
 Marcel Dettmann, DJ Tennis, Âme
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/gerdjanson/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/gerdjanson/)*

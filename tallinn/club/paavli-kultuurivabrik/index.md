@@ -1,6 +1,6 @@
 # Paavli Kultuurivabrik
 
-Paavli Kultuurivabrik is a music venue in Tallinn with 3 upcoming nights listed on soundcheck as of Tue, 28 Jul 2026; the next is "National Road 2" on Fri, 31 Jul 2026.
+Paavli Kultuurivabrik is a music venue in Tallinn with 3 upcoming nights listed on soundcheck as of Wed, 29 Jul 2026; the next is "National Road 2" on Fri, 31 Jul 2026.
 
 Paavli Kultuurivabrik is a music venue in Tallinn listed on soundcheck. 3 upcoming nights, with line-ups including 2K88, alabama, Brenna Ryan and Brett Rästas and 2 more. Browse upcoming dates, start times and who's playing. Paavli 7a, 10412 Tallinn, Estonia.
 
@@ -16,4 +16,4 @@ Paavli Kultuurivabrik is a music venue in Tallinn listed on soundcheck. 3 upcomi
 
 Paavli 7a, 10412 Tallinn, Estonia, Tallinn
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/tallinn/club/paavli-kultuurivabrik/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/tallinn/club/paavli-kultuurivabrik/)*

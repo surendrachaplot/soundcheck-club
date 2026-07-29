@@ -1,6 +1,6 @@
 # tigermilk
 
-tigermilk is a Club and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 28 Jul 2026, next at Whistler, Chicago on Sat, 22 Aug 2026.
+tigermilk is a Club and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at Whistler, Chicago on Sat, 22 Aug 2026.
 
 tigermilk is a club and techno artist based in United States of America, tracked on soundcheck, with 9 sets logged across Chicago. Often billed alongside COBRA B, Floor Supervisor and CQQCHiFRUIT. Next up: Whistler, Chicago on Sat 22 Aug.
 
@@ -25,4 +25,4 @@ tigermilk is a club and techno artist based in United States of America, tracked
 
 COBRA B, Floor Supervisor, CQQCHiFRUIT
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/tigermilk/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/tigermilk/)*

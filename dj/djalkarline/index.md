@@ -1,6 +1,6 @@
 # ALKARLINE
 
-ALKARLINE is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 28 Jul 2026, next at Golden Pudel Club, Hamburg on Thu, 30 Jul 2026.
+ALKARLINE is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at Golden Pudel Club, Hamburg on Thu, 30 Jul 2026.
 
 ALKARLINE is a house and techno artist tracked on soundcheck, with 38 sets logged across Berlin and Hamburg. Often billed alongside Momo Femi, BBetriebswirt and Revolucien. Next up: Golden Pudel Club, Hamburg on Thu 30 Jul.
 
@@ -25,4 +25,4 @@ ALKARLINE is a house and techno artist tracked on soundcheck, with 38 sets logge
 
 Momo Femi, BBetriebswirt, Revolucien
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/djalkarline/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/djalkarline/)*

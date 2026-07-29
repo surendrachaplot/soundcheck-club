@@ -1,6 +1,6 @@
 # Mikey V
 
-Mikey V is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Tue, 28 Jul 2026, next at Jungle Hollywood, Los Angeles on Sat, 1 Aug 2026.
+Mikey V is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at Jungle Hollywood, Los Angeles on Sat, 1 Aug 2026.
 
 Mikey V is a house and deep house artist based in United States of America, tracked on soundcheck, with 6 sets logged across Losangeles, Seattle and Toronto. Often billed alongside Mr. Haze, Adam Davis and Aivilo. Next up: Jungle Hollywood, Losangeles on Sat 1 Aug.
 
@@ -22,4 +22,4 @@ Mikey V is a house and deep house artist based in United States of America, trac
 
 Mr. Haze, Adam Davis, Aivilo
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/mikeyv/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/mikeyv/)*

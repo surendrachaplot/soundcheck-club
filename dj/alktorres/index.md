@@ -1,6 +1,6 @@
 # Alk Torres
 
-Alk Torres is a House and Tech House artist with 2 upcoming club dates listed on soundcheck as of Tue, 28 Jul 2026, next at PRST, Vienna on Sat, 1 Aug 2026.
+Alk Torres is a House and Tech House artist with 2 upcoming club dates listed on soundcheck as of Wed, 29 Jul 2026, next at PRST, Vienna on Sat, 1 Aug 2026.
 
 Alk Torres is a house and tech house artist based in Spain, tracked on soundcheck, with 13 sets logged across Vienna. Often billed alongside PATRIK HOUR, BELLA (AT) and Luuk van Dijk. Next up: PRST, Vienna on Sat 1 Aug.
 
@@ -26,4 +26,4 @@ Alk Torres is a house and tech house artist based in Spain, tracked on soundchec
 
 PATRIK HOUR, BELLA (AT), Luuk van Dijk
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/alktorres/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/alktorres/)*

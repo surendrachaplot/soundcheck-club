@@ -1,6 +1,6 @@
 # Adult Hits
 
-Adult Hits is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Tue, 28 Jul 2026, next at TBA - Hollywood Park adjacent to SoFi Stadium, Los Angeles on Sat, 1 Aug 2026.
+Adult Hits is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at TBA - Hollywood Park adjacent to SoFi Stadium, Los Angeles on Sat, 1 Aug 2026.
 
 Adult Hits is a house and disco artist based in United States of America, tracked on soundcheck, with 19 sets logged across Chicago and Losangeles. Often billed alongside Capes, Club Tularosa and Etari. Next up: TBA - Hollywood Park adjacent to SoFi Stadium, Losangeles on Sat 1 Aug.
 
@@ -25,4 +25,4 @@ Adult Hits is a house and disco artist based in United States of America, tracke
 
 Capes, Club Tularosa, Etari
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/adulthits/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/adulthits/)*

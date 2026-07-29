@@ -1,6 +1,6 @@
 # DUO (UK)
 
-DUO (UK) is a Afro House and Tech House artist with 1 upcoming club date listed on soundcheck as of Tue, 28 Jul 2026, next at Bread & Butter Arch, London on Thu, 30 Jul 2026.
+DUO (UK) is a Afro House and Tech House artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at Bread & Butter Arch, London on Thu, 30 Jul 2026.
 
 DUO (UK) is an afro house and tech house artist based in United Kingdom, tracked on soundcheck, with 5 sets logged across London. Often billed alongside Adiba, Duo and Kidflo. Next up: Bread & Butter Arch, London on Thu 30 Jul.
 
@@ -21,4 +21,4 @@ DUO (UK) is an afro house and tech house artist based in United Kingdom, tracked
 
 Adiba, Duo, Kidflo
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/duouk/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/duouk/)*

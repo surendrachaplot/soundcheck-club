@@ -1,6 +1,6 @@
 # TEDDY JX
 
-TEDDY JX is a Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 28 Jul 2026, next at Republik Club, Madrid on Sat, 1 Aug 2026.
+TEDDY JX is a Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at Republik Club, Madrid on Sat, 1 Aug 2026.
 
 TEDDY JX is a techno artist based in Spain, tracked on soundcheck, with 8 sets logged across Madrid. Often billed alongside Vulker, Dave Urania and Diego A-K. Next up: Republik Club, Madrid on Sat 1 Aug.
 
@@ -24,4 +24,4 @@ TEDDY JX is a techno artist based in Spain, tracked on soundcheck, with 8 sets l
 
 Vulker, Dave Urania, Diego A-K
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/teddyjx/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/teddyjx/)*

@@ -1,6 +1,6 @@
 # KEEO.FM
 
-KEEO.FM is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Tue, 28 Jul 2026, next at TBA - Paradies Garten Festival - Schloß Prugg 2, 2460 Gemeinde Bruck an der Leitha, Vienna on Fri, 31 Jul 2026.
+KEEO.FM is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at TBA - Paradies Garten Festival - Schloß Prugg 2, 2460 Gemeinde Bruck an der Leitha, Vienna on Fri, 31 Jul 2026.
 
 KEEO.FM is a house and disco artist based in Austria, tracked on soundcheck, with 4 sets logged across Vienna. Often billed alongside CHERCHES, COBRA and FX-31. Next up: TBA - Paradies Garten Festival - Schloß Prugg 2, 2460 Gemeinde Bruck an der Leitha, Vienna on Fri 31 Jul.
 
@@ -20,4 +20,4 @@ KEEO.FM is a house and disco artist based in Austria, tracked on soundcheck, wit
 
 CHERCHES, COBRA, FX-31
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/keeo.fm/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/keeo.fm/)*

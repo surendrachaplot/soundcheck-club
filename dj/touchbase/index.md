@@ -1,6 +1,6 @@
 # Touch Base
 
-Touch Base is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Tue, 28 Jul 2026, next at SILO, New York City on Thu, 30 Jul 2026.
+Touch Base is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at SILO, New York City on Thu, 30 Jul 2026.
 
 Touch Base is a techno and house artist tracked on soundcheck, with 16 sets logged across Manchester, Newyorkcity and Tokyo. Often billed alongside Sam Valle, ceviché and Choo Choo. Next up: SILO, Newyorkcity on Thu 30 Jul.
 
@@ -25,4 +25,4 @@ Touch Base is a techno and house artist tracked on soundcheck, with 16 sets logg
 
 Sam Valle, ceviché, Choo Choo
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/touchbase/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/touchbase/)*

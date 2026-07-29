@@ -1,6 +1,6 @@
 # Lady Tazz
 
-Lady Tazz is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Tue, 28 Jul 2026, next at TBA, Mexico City on Sat, 1 Aug 2026.
+Lady Tazz is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at TBA, Mexico City on Sat, 1 Aug 2026.
 
 Lady Tazz is a techno and house artist tracked on soundcheck, with 17 sets logged across Amsterdam, Athens, Berlin and Buenosaires and 7 more. Often billed alongside Sinistermind, KXAH and Octoptic. Next up: TBA, Mexicocity on Sat 1 Aug.
 
@@ -25,4 +25,4 @@ Lady Tazz is a techno and house artist tracked on soundcheck, with 17 sets logge
 
 Sinistermind, KXAH, Octoptic
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/ladytazz/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/ladytazz/)*

@@ -1,6 +1,6 @@
 # SittinOnTurtles
 
-SittinOnTurtles is a House and Minimal artist with 1 upcoming club date listed on soundcheck as of Tue, 28 Jul 2026, next at Secret Grove, Portland on Sat, 8 Aug 2026.
+SittinOnTurtles is a House and Minimal artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at Secret Grove, Portland on Sat, 8 Aug 2026.
 
 SittinOnTurtles is a house and minimal artist based in United States of America, tracked on soundcheck, with 2 sets logged across Portland. Often billed alongside Jordan Brando. Next up: Secret Grove, Portland on Sat 8 Aug.
 
@@ -18,4 +18,4 @@ SittinOnTurtles is a house and minimal artist based in United States of America,
 
 Jordan Brando
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/sittinonturtles/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/sittinonturtles/)*

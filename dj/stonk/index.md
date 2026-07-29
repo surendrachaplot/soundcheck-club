@@ -1,6 +1,6 @@
 # STONK
 
-STONK is a Techno artist with 2 upcoming club dates listed on soundcheck as of Tue, 28 Jul 2026, next at La Cheetah Club, Glasgow on Fri, 31 Jul 2026.
+STONK is a Techno artist with 2 upcoming club dates listed on soundcheck as of Wed, 29 Jul 2026, next at La Cheetah Club, Glasgow on Fri, 31 Jul 2026.
 
 STONK is a techno artist based in United Kingdom, tracked on soundcheck, with 4 sets logged across Edinburgh, Glasgow and Manchester. Often billed alongside E.DN, Arkane and COHĒSION. Next up: La Cheetah Club, Glasgow on Fri 31 Jul.
 
@@ -20,4 +20,4 @@ STONK is a techno artist based in United Kingdom, tracked on soundcheck, with 4 
 
 E.DN, Arkane, COHĒSION
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/stonk/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/stonk/)*

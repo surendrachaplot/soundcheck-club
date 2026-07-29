@@ -1,6 +1,6 @@
 # Yeadon
 
-Yeadon is a Progressive House and House artist with 1 upcoming club date listed on soundcheck as of Tue, 28 Jul 2026, next at Saint Judes, Glasgow on Sat, 22 Aug 2026.
+Yeadon is a Progressive House and House artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at Saint Judes, Glasgow on Sat, 22 Aug 2026.
 
 Yeadon is a progressive house and house artist based in United Kingdom, tracked on soundcheck, with 10 sets logged across Birmingham, Glasgow, Liverpool and London and 2 more. Often billed alongside Belms, Blank Page and Bound to Divide. Next up: Saint Judes, Glasgow on Sat 22 Aug.
 
@@ -25,4 +25,4 @@ Yeadon is a progressive house and house artist based in United Kingdom, tracked 
 
 Belms, Blank Page, Bound to Divide
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/yeadon/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/yeadon/)*

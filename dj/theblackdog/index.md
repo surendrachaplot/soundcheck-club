@@ -1,6 +1,6 @@
 # The Black Dog
 
-The Black Dog is a Ambient and Acid artist with 2 upcoming club dates listed on soundcheck as of Tue, 28 Jul 2026, next at Amsterdamse Bos, Amsterdam on Wed, 29 Jul 2026.
+The Black Dog is a Ambient and Acid artist with 2 upcoming club dates listed on soundcheck as of Wed, 29 Jul 2026, next at Amsterdamse Bos, Amsterdam on Wed, 29 Jul 2026.
 
 The Black Dog is an ambient and acid artist based in United Kingdom, tracked on soundcheck, with 9 sets logged across Amsterdam, Chicago, London and Manchester and 1 more. Often billed alongside Richard Akingbehin, 96 Back and A Guy Called Gerald. Next up: Amsterdamse Bos, Amsterdam on Wed 29 Jul.
 
@@ -25,4 +25,4 @@ The Black Dog is an ambient and acid artist based in United Kingdom, tracked on 
 
 Richard Akingbehin, 96 Back, A Guy Called Gerald
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/theblackdog/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/theblackdog/)*

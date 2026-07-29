@@ -1,6 +1,6 @@
 # Ital Power
 
-Ital Power is a Dub and Dubstep artist with 2 upcoming club dates listed on soundcheck as of Tue, 28 Jul 2026, next at The Dominion Centre, London on Sat, 15 Aug 2026.
+Ital Power is a Dub and Dubstep artist with 2 upcoming club dates listed on soundcheck as of Wed, 29 Jul 2026, next at The Dominion Centre, London on Sat, 15 Aug 2026.
 
 Ital Power is a dub and dubstep artist based in United Kingdom, tracked on soundcheck, with 11 sets logged across Bristol, Leeds and London. Often billed alongside Iration Steppas, Mantra and Blackeye MC. Next up: The Dominion Centre, London on Sat 15 Aug.
 
@@ -26,4 +26,4 @@ Ital Power is a dub and dubstep artist based in United Kingdom, tracked on sound
 
 Iration Steppas, Mantra, Blackeye MC
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/italpower/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/italpower/)*

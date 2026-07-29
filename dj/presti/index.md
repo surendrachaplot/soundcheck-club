@@ -1,6 +1,6 @@
 # PRESTi
 
-PRESTi is a Garage and Jungle artist with 1 upcoming club date listed on soundcheck as of Tue, 28 Jul 2026, next at Paloma, Berlin on Sat, 8 Aug 2026.
+PRESTi is a Garage and Jungle artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at Paloma, Berlin on Sat, 8 Aug 2026.
 
 PRESTi is a garage and jungle artist based in United Kingdom, tracked on soundcheck, with 22 sets logged across Berlin, Brighton, Bristol and Leeds and 4 more. Often billed alongside Girls Don't Sync, Oldboy and Sam Deeley. Next up: Paloma, Berlin on Sat 8 Aug.
 
@@ -25,4 +25,4 @@ PRESTi is a garage and jungle artist based in United Kingdom, tracked on soundch
 
 Girls Don't Sync, Oldboy, Sam Deeley
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/presti/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/presti/)*

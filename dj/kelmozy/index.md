@@ -1,6 +1,6 @@
 # Kel Mozy
 
-Kel Mozy is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Tue, 28 Jul 2026, next at Toffler, Rotterdam on Sat, 1 Aug 2026.
+Kel Mozy is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at Toffler, Rotterdam on Sat, 1 Aug 2026.
 
 Kel Mozy is a house and tech house artist tracked on soundcheck, with 4 sets logged across Amsterdam, Ibiza, Rotterdam and Utrecht. Often billed alongside Cici Daze, DAF (UK) and Dale Howard. Next up: Toffler, Rotterdam on Sat 1 Aug.
 
@@ -20,4 +20,4 @@ Kel Mozy is a house and tech house artist tracked on soundcheck, with 4 sets log
 
 Cici Daze, DAF (UK), Dale Howard
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/kelmozy/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/kelmozy/)*

@@ -1,6 +1,6 @@
 # DJ Tuco
 
-DJ Tuco is a electronic artist with 1 upcoming club date listed on soundcheck as of Tue, 28 Jul 2026, next at Altenburg 1964, Prague on Thu, 30 Jul 2026.
+DJ Tuco is a electronic artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at Altenburg 1964, Prague on Thu, 30 Jul 2026.
 
 DJ Tuco is an electronic artist based in Czech Republic, tracked on soundcheck, with 5 sets logged across Prague. Often billed alongside Name Does Not Matter, C-Motion and Chippy Nonstop. Next up: Altenburg 1964, Prague on Thu 30 Jul.
 
@@ -21,4 +21,4 @@ DJ Tuco is an electronic artist based in Czech Republic, tracked on soundcheck, 
 
 Name Does Not Matter, C-Motion, Chippy Nonstop
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/djtuco/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/djtuco/)*

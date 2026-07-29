@@ -1,6 +1,6 @@
 # FLUSH
 
-FLUSH is a electronic artist with 1 upcoming club date listed on soundcheck as of Tue, 28 Jul 2026, next at Système, Montreal on Sat, 1 Aug 2026.
+FLUSH is a electronic artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at Système, Montreal on Sat, 1 Aug 2026.
 
 FLUSH is an electronic artist based in Colombia, tracked on soundcheck, with 5 sets logged across Berlin and Montreal. Often billed alongside Dijipoune, Field Note and 1111hz. Next up: Système, Montreal on Sat 1 Aug.
 
@@ -21,4 +21,4 @@ FLUSH is an electronic artist based in Colombia, tracked on soundcheck, with 5 s
 
 Dijipoune, Field Note, 1111hz
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/flush/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/flush/)*

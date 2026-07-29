@@ -1,6 +1,6 @@
 # Earth2Sam
 
-Earth2Sam is a Electro and House artist with 1 upcoming club date listed on soundcheck as of Tue, 28 Jul 2026, next at Secret Location, London on Sat, 1 Aug 2026.
+Earth2Sam is a Electro and House artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at Secret Location, London on Sat, 1 Aug 2026.
 
 Earth2Sam is an electro and house artist based in United Kingdom, tracked on soundcheck, with 9 sets logged across London and Manchester. Often billed alongside Finn Nelson, Alexandra and Andrew James Gustav. Next up: Secret Location, London on Sat 1 Aug.
 
@@ -25,4 +25,4 @@ Earth2Sam is an electro and house artist based in United Kingdom, tracked on sou
 
 Finn Nelson, Alexandra, Andrew James Gustav
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/earth2sam/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/earth2sam/)*

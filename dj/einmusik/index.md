@@ -1,6 +1,6 @@
 # Einmusik
 
-Einmusik is a Techno and Progressive House artist with 5 upcoming club dates listed on soundcheck as of Tue, 28 Jul 2026, next at Wolkezwei, Leipzig on Sat, 1 Aug 2026.
+Einmusik is a Techno and Progressive House artist with 5 upcoming club dates listed on soundcheck as of Wed, 29 Jul 2026, next at Wolkezwei, Leipzig on Sat, 1 Aug 2026.
 
 Einmusik is a techno and progressive house artist tracked on soundcheck, with 126 sets logged across Amsterdam, Barcelona, Basel and Berlin and 36 more. Often billed alongside Prismode, Solvane and Markus Klee. Next up: Wolkezwei, Leipzig on Sat 1 Aug.
 
@@ -29,4 +29,4 @@ Einmusik is a techno and progressive house artist tracked on soundcheck, with 12
 
 Prismode, Solvane, Markus Klee
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/einmusik/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/einmusik/)*

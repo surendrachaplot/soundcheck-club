@@ -1,6 +1,6 @@
 # XipNoize
 
-XipNoize is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Tue, 28 Jul 2026, next at Forum Station, Barcelona on Sun, 2 Aug 2026.
+XipNoize is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at Forum Station, Barcelona on Sun, 2 Aug 2026.
 
 XipNoize is a techno and house artist based in Spain, tracked on soundcheck, with 36 sets logged across Barcelona and Porto. Often billed alongside Gabo Oliveira, PAZ WAZ HERE and Soulvoyeur. Next up: Forum Station, Barcelona on Sun 2 Aug.
 
@@ -25,4 +25,4 @@ XipNoize is a techno and house artist based in Spain, tracked on soundcheck, wit
 
 Gabo Oliveira, PAZ WAZ HERE, Soulvoyeur
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/xipnoize/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/xipnoize/)*

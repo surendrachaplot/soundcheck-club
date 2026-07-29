@@ -1,6 +1,6 @@
 # Marvel Gold
 
-Marvel Gold is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Tue, 28 Jul 2026, next at Insomnia, Berlin on Fri, 14 Aug 2026.
+Marvel Gold is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Wed, 29 Jul 2026, next at Insomnia, Berlin on Fri, 14 Aug 2026.
 
 Marvel Gold is a techno and house artist based in Germany, tracked on soundcheck, with 56 sets logged across Berlin. Often billed alongside Wiebe Roose, Nikklaas and Epicx. Next up: Insomnia, Berlin on Fri 14 Aug.
 
@@ -26,4 +26,4 @@ Marvel Gold is a techno and house artist based in Germany, tracked on soundcheck
 
 Wiebe Roose, Nikklaas, Epicx
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/marvelgold/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/marvelgold/)*

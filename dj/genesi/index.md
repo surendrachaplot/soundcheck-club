@@ -1,8 +1,8 @@
 # GENESI
 
-GENESI is a House and Techno artist with 5 upcoming club dates listed on soundcheck as of Tue, 28 Jul 2026, next at Downsview Park, Toronto on Fri, 31 Jul 2026.
+GENESI is a House and Techno artist with 6 upcoming club dates listed on soundcheck as of Wed, 29 Jul 2026, next at Downsview Park, Toronto on Fri, 31 Jul 2026.
 
-GENESI is a house and techno artist tracked on soundcheck, with 50 sets logged across Amsterdam, Austin, Bali and Barcelona and 18 more. Often billed alongside Meduza, James Hype (UK) and David Guetta. Next up: Downsview Park, Toronto on Fri 31 Jul.
+GENESI is a house and techno artist tracked on soundcheck, with 51 sets logged across Amsterdam, Austin, Bali and Barcelona and 18 more. Often billed alongside Meduza, James Hype (UK) and David Guetta. Next up: Downsview Park, Toronto on Fri 31 Jul.
 
 ## Upcoming shows
 
@@ -13,6 +13,7 @@ GENESI is a house and techno artist tracked on soundcheck, with 50 sets logged a
 | Thu, 20 Aug 2026 | Hï Ibiza | Ibiza |
 | Sat, 29 Aug 2026 | Savaya Bali | Bali |
 | Fri, 4 Sept 2026 | Union Park | Chicago |
+| Sun, 11 Oct 2026 | Knockdown Center | New York City |
 
 ## Recently played
 
@@ -29,4 +30,4 @@ GENESI is a house and techno artist tracked on soundcheck, with 50 sets logged a
 
 Meduza, James Hype (UK), David Guetta
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/genesi/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/genesi/)*

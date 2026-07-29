@@ -1,6 +1,6 @@
 # Beau Beaumont
 
-Beau Beaumont is a Techno and Electronica artist with 1 upcoming club date listed on soundcheck as of Tue, 28 Jul 2026, next at The Black-E, Liverpool on Thu, 6 Aug 2026.
+Beau Beaumont is a Techno and Electronica artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at The Black-E, Liverpool on Thu, 6 Aug 2026.
 
 Beau Beaumont is a techno and electronica artist based in United Kingdom, tracked on soundcheck, with 8 sets logged across Bristol, Leeds, Liverpool and Tokyo. Often billed alongside AM sin, Abbie Morris and Astma. Next up: The Black-E, Liverpool on Thu 6 Aug.
 
@@ -24,4 +24,4 @@ Beau Beaumont is a techno and electronica artist based in United Kingdom, tracke
 
 AM sin, Abbie Morris, Astma
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/beaubeaumont/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/beaubeaumont/)*

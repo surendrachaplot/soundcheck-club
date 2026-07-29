@@ -1,6 +1,6 @@
 # Atsuo the Pineapple Donkey
 
-Atsuo the Pineapple Donkey is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 28 Jul 2026, next at TBA - Paradies Garten Festival - Schloß Prugg 2, 2460 Gemeinde Bruck an der Leitha, Vienna on Fri, 31 Jul 2026.
+Atsuo the Pineapple Donkey is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at TBA - Paradies Garten Festival - Schloß Prugg 2, 2460 Gemeinde Bruck an der Leitha, Vienna on Fri, 31 Jul 2026.
 
 Atsuo the Pineapple Donkey is a house and techno artist tracked on soundcheck, with 9 sets logged across Amsterdam, Hongkong, London and Melbourne and 4 more. Often billed alongside Mac Declos, 1tbsp and Benwal. Next up: TBA - Paradies Garten Festival - Schloß Prugg 2, 2460 Gemeinde Bruck an der Leitha, Vienna on Fri 31 Jul.
 
@@ -25,4 +25,4 @@ Atsuo the Pineapple Donkey is a house and techno artist tracked on soundcheck, w
 
 Mac Declos, 1tbsp, Benwal
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/atsuothepineappledonkey/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/atsuothepineappledonkey/)*

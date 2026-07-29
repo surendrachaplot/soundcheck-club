@@ -1,6 +1,6 @@
 # Chase Wilson
 
-Chase Wilson is a House and Minimal artist with 1 upcoming club date listed on soundcheck as of Tue, 28 Jul 2026, next at The Walk Inn, New York City on Fri, 31 Jul 2026.
+Chase Wilson is a House and Minimal artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at The Walk Inn, New York City on Fri, 31 Jul 2026.
 
 Chase Wilson is a house and minimal artist based in United States of America, tracked on soundcheck, with 14 sets logged across Newyorkcity, Philadelphia and Washingtondc. Often billed alongside Cassia, Adam Braiman and Bridget B. Next up: The Walk Inn, Newyorkcity on Fri 31 Jul.
 
@@ -25,4 +25,4 @@ Chase Wilson is a house and minimal artist based in United States of America, tr
 
 Cassia, Adam Braiman, Bridget B
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/chasewilson/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/chasewilson/)*

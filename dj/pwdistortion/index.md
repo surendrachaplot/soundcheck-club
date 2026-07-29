@@ -1,6 +1,6 @@
 # PW DISTORTION
 
-PW DISTORTION is a Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 28 Jul 2026, next at ÆDEN, Berlin on Thu, 3 Sept 2026.
+PW DISTORTION is a Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at ÆDEN, Berlin on Thu, 3 Sept 2026.
 
 PW DISTORTION is a techno artist based in Spain, tracked on soundcheck, with 5 sets logged across Berlin and Madrid. Often billed alongside Fgdj, H0H and Redondoo. Next up: ÆDEN, Berlin on Thu 3 Sept.
 
@@ -21,4 +21,4 @@ PW DISTORTION is a techno artist based in Spain, tracked on soundcheck, with 5 s
 
 Fgdj, H0H, Redondoo
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/pwdistortion/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/pwdistortion/)*

@@ -1,6 +1,6 @@
 # DAF (UK)
 
-DAF (UK) is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Tue, 28 Jul 2026, next at Toffler, Rotterdam on Sat, 1 Aug 2026.
+DAF (UK) is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at Toffler, Rotterdam on Sat, 1 Aug 2026.
 
 DAF (UK) is a techno and house artist based in United Kingdom, tracked on soundcheck, with 4 sets logged across Amsterdam and Rotterdam. Often billed alongside 18+, Abstract Division and Adam Beyer. Next up: Toffler, Rotterdam on Sat 1 Aug.
 
@@ -20,4 +20,4 @@ DAF (UK) is a techno and house artist based in United Kingdom, tracked on soundc
 
 18+, Abstract Division, Adam Beyer
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/dafuk/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/dafuk/)*

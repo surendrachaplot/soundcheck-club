@@ -1,6 +1,6 @@
 # Chez Damier
 
-Chez Damier is a House and Deep House artist with 9 upcoming club dates listed on soundcheck as of Tue, 28 Jul 2026, next at Punch Bowl Social 360-Bar, Chicago on Thu, 30 Jul 2026.
+Chez Damier is a House and Deep House artist with 9 upcoming club dates listed on soundcheck as of Wed, 29 Jul 2026, next at Punch Bowl Social 360-Bar, Chicago on Thu, 30 Jul 2026.
 
 Chez Damier is a house and deep house artist tracked on soundcheck, with 144 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 41 more. Often billed alongside Eddie Leader, DJ Deep and Dennis Ferrer. Next up: Punch Bowl Social 360-Bar, Chicago on Thu 30 Jul.
 
@@ -33,4 +33,4 @@ Chez Damier is a house and deep house artist tracked on soundcheck, with 144 set
 
 Eddie Leader, DJ Deep, Dennis Ferrer
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/chezdamier/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/chezdamier/)*

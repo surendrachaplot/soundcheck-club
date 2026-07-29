@@ -1,6 +1,6 @@
 # C'mon
 
-C'mon is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 28 Jul 2026, next at Straße des 17. Juni, Berlin on Sat, 15 Aug 2026.
+C'mon is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at Straße des 17. Juni, Berlin on Sat, 15 Aug 2026.
 
 C'mon is a house and techno artist based in Germany, tracked on soundcheck, with 27 sets logged across Berlin, Frankfurt, Lisbon and Mexicocity and 2 more. Often billed alongside DJ Jordan, Katzengold and Ana Cover. Next up: Straße des 17. Juni, Berlin on Sat 15 Aug.
 
@@ -25,4 +25,4 @@ C'mon is a house and techno artist based in Germany, tracked on soundcheck, with
 
 DJ Jordan, Katzengold, Ana Cover
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/cmon-de/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/cmon-de/)*

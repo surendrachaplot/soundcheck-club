@@ -1,6 +1,6 @@
 # OKBOY
 
-OKBOY is a Hip-Hop and Bass artist with 1 upcoming club date listed on soundcheck as of Tue, 28 Jul 2026, next at Heavy Sick Zero, Tokyo on Wed, 29 Jul 2026.
+OKBOY is a Hip-Hop and Bass artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at Heavy Sick Zero, Tokyo on Wed, 29 Jul 2026.
 
 OKBOY is a hip-hop and bass artist based in Japan, tracked on soundcheck, with 9 sets logged across Tokyo. Often billed alongside Dogwoods, MonoGoi and 7e. Next up: Heavy Sick Zero, Tokyo on Wed 29 Jul.
 
@@ -25,4 +25,4 @@ OKBOY is a hip-hop and bass artist based in Japan, tracked on soundcheck, with 9
 
 Dogwoods, MonoGoi, 7e
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/okboy/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/okboy/)*

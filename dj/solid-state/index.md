@@ -1,6 +1,6 @@
 # Solid-State
 
-Solid-State is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Tue, 28 Jul 2026, next at Steelyard Kelham, Sheffield on Sat, 1 Aug 2026.
+Solid-State is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at Steelyard Kelham, Sheffield on Sat, 1 Aug 2026.
 
 Solid-State is a house and disco artist based in United Kingdom, tracked on soundcheck, with 8 sets logged across London and Sheffield. Often billed alongside Horse Meat Disco, Joi La Frique and Nonna Fab. Next up: Steelyard Kelham, Sheffield on Sat 1 Aug.
 
@@ -24,4 +24,4 @@ Solid-State is a house and disco artist based in United Kingdom, tracked on soun
 
 Horse Meat Disco, Joi La Frique, Nonna Fab
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/solid-state/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/solid-state/)*

@@ -1,6 +1,6 @@
 # Yung (2)
 
-Yung (2) is a Techno and Industrial artist with 1 upcoming club date listed on soundcheck as of Tue, 28 Jul 2026, next at Acadana, Hong Kong on Sat, 8 Aug 2026.
+Yung (2) is a Techno and Industrial artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at Acadana, Hong Kong on Sat, 8 Aug 2026.
 
 Yung (2) is a techno and industrial artist based in China, tracked on soundcheck, with 8 sets logged across Berlin and Hongkong. Often billed alongside Nanogram, MarcoYu and 3.14. Next up: Acadana, Hongkong on Sat 8 Aug.
 
@@ -24,4 +24,4 @@ Yung (2) is a techno and industrial artist based in China, tracked on soundcheck
 
 Nanogram, MarcoYu, 3.14
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/yung-2/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/yung-2/)*

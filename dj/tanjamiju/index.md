@@ -1,6 +1,6 @@
 # TANJA MIJU
 
-TANJA MIJU is a Techno and Trance artist with 5 upcoming club dates listed on soundcheck as of Tue, 28 Jul 2026, next at Le point fort d'Aubervilliers, Paris on Sat, 1 Aug 2026.
+TANJA MIJU is a Techno and Trance artist with 5 upcoming club dates listed on soundcheck as of Wed, 29 Jul 2026, next at Le point fort d'Aubervilliers, Paris on Sat, 1 Aug 2026.
 
 TANJA MIJU is a techno and trance artist tracked on soundcheck, with 67 sets logged across Berlin, Budapest, Cologne and Dusseldorf and 15 more. Often billed alongside Johannes Schuster, Neon Graveyard and Trancestrudel. Next up: Le point fort d'Aubervilliers, Paris on Sat 1 Aug.
 
@@ -29,4 +29,4 @@ TANJA MIJU is a techno and trance artist tracked on soundcheck, with 67 sets log
 
 Johannes Schuster, Neon Graveyard, Trancestrudel
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/tanjamiju/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/tanjamiju/)*

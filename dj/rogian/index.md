@@ -1,6 +1,6 @@
 # Rogian
 
-Rogian is a Electro and Breakbeat artist with 1 upcoming club date listed on soundcheck as of Tue, 28 Jul 2026, next at TBA - Several venues in Basel, Basel on Thu, 17 Sept 2026.
+Rogian is a Electro and Breakbeat artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at TBA - Several venues in Basel, Basel on Thu, 17 Sept 2026.
 
 Rogian is an electro and breakbeat artist based in Switzerland, tracked on soundcheck, with 9 sets logged across Basel, Milan and Zurich. Often billed alongside Jabrome, Calicá and Hermeth. Next up: TBA - Several venues in Basel, Basel on Thu 17 Sept.
 
@@ -25,4 +25,4 @@ Rogian is an electro and breakbeat artist based in Switzerland, tracked on sound
 
 Jabrome, Calicá, Hermeth
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/rogian/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/rogian/)*

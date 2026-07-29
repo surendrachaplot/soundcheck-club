@@ -1,6 +1,6 @@
 # Ferg
 
-Ferg is a House and Tech House artist with 2 upcoming club dates listed on soundcheck as of Tue, 28 Jul 2026, next at Porto Pollo, Vienna on Sat, 1 Aug 2026.
+Ferg is a House and Tech House artist with 2 upcoming club dates listed on soundcheck as of Wed, 29 Jul 2026, next at Porto Pollo, Vienna on Sat, 1 Aug 2026.
 
 Ferg is a house and tech house artist based in United Kingdom, tracked on soundcheck, with 11 sets logged across Barcelona, Cardiff, Ibiza and London and 2 more. Often billed alongside Brennan, Brennan (2) and James Andrew. Next up: Porto Pollo, Vienna on Sat 1 Aug.
 
@@ -26,4 +26,4 @@ Ferg is a house and tech house artist based in United Kingdom, tracked on soundc
 
 Brennan, Brennan (2), James Andrew
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/ferg/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/ferg/)*

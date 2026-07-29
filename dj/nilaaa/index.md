@@ -1,6 +1,6 @@
 # NILAAA
 
-NILAAA is a Techno and Minimal Techno artist with 2 upcoming club dates listed on soundcheck as of Tue, 28 Jul 2026, next at The Workmans Club, Dublin on Sun, 2 Aug 2026.
+NILAAA is a Techno and Minimal Techno artist with 2 upcoming club dates listed on soundcheck as of Wed, 29 Jul 2026, next at The Workmans Club, Dublin on Sun, 2 Aug 2026.
 
 NILAAA is a techno and minimal techno artist based in Ireland, tracked on soundcheck, with 17 sets logged across Dublin. Often billed alongside Phil Bass, Romanetto and Connect. Next up: The Workmans Club, Dublin on Sun 2 Aug.
 
@@ -26,4 +26,4 @@ NILAAA is a techno and minimal techno artist based in Ireland, tracked on soundc
 
 Phil Bass, Romanetto, Connect
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/nilaaa/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/nilaaa/)*

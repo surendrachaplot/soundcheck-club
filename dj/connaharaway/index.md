@@ -1,6 +1,6 @@
 # Conna Haraway
 
-Conna Haraway is a Experimental and Ambient artist with 2 upcoming club dates listed on soundcheck as of Tue, 28 Jul 2026, next at The Horse Hospital, London on Sun, 2 Aug 2026.
+Conna Haraway is a Experimental and Ambient artist with 2 upcoming club dates listed on soundcheck as of Wed, 29 Jul 2026, next at The Horse Hospital, London on Sun, 2 Aug 2026.
 
 Conna Haraway is an experimental and ambient artist tracked on soundcheck, with 37 sets logged across Berlin, Copenhagen, Glasgow and Lisbon and 12 more. Often billed alongside VASE, CYBERMISSION and King Softy. Next up: The Horse Hospital, London on Sun 2 Aug.
 
@@ -26,4 +26,4 @@ Conna Haraway is an experimental and ambient artist tracked on soundcheck, with 
 
 VASE, CYBERMISSION, King Softy
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/connaharaway/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/connaharaway/)*

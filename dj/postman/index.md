@@ -1,6 +1,6 @@
 # POSTMAN
 
-POSTMAN is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 28 Jul 2026, next at San Francisco, Amsterdam on Fri, 31 Jul 2026.
+POSTMAN is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at San Francisco, Amsterdam on Fri, 31 Jul 2026.
 
 POSTMAN is a house and techno artist based in Japan, tracked on soundcheck, with 16 sets logged across Amsterdam and Tokyo. Often billed alongside YOSHIMASA, ATAMI and AY (10). Next up: San Francisco, Amsterdam on Fri 31 Jul.
 
@@ -25,4 +25,4 @@ POSTMAN is a house and techno artist based in Japan, tracked on soundcheck, with
 
 YOSHIMASA, ATAMI, AY (10)
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/postman/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/postman/)*

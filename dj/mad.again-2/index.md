@@ -1,6 +1,6 @@
 # Mad.Again (2)
 
-Mad.Again (2) is a House and Tech House artist with 6 upcoming club dates listed on soundcheck as of Tue, 28 Jul 2026, next at Eden, Ibiza on Sun, 2 Aug 2026.
+Mad.Again (2) is a House and Tech House artist with 6 upcoming club dates listed on soundcheck as of Wed, 29 Jul 2026, next at Eden, Ibiza on Sun, 2 Aug 2026.
 
 Mad.Again (2) is a house and tech house artist tracked on soundcheck, with 62 sets logged across Amsterdam, Barcelona, Birmingham and Bristol and 13 more. Often billed alongside Locky, Liam Palmer and Elliot Schooling. Next up: Eden, Ibiza on Sun 2 Aug.
 
@@ -30,4 +30,4 @@ Mad.Again (2) is a house and tech house artist tracked on soundcheck, with 62 se
 
 Locky, Liam Palmer, Elliot Schooling
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/mad.again-2/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/mad.again-2/)*

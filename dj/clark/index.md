@@ -1,6 +1,6 @@
 # Clark
 
-Clark is a Techno and Electronica artist with 1 upcoming club date listed on soundcheck as of Tue, 28 Jul 2026, next at Amsterdamse Bos, Amsterdam on Wed, 29 Jul 2026.
+Clark is a Techno and Electronica artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at Amsterdamse Bos, Amsterdam on Wed, 29 Jul 2026.
 
 Clark is a techno and electronica artist based in United Kingdom, tracked on soundcheck, with 55 sets logged across Amsterdam, Athens, Barcelona and Berlin and 20 more. Often billed alongside THNK PNK, ALFREDT and Job Jobse. Next up: Amsterdamse Bos, Amsterdam on Wed 29 Jul.
 
@@ -25,4 +25,4 @@ Clark is a techno and electronica artist based in United Kingdom, tracked on sou
 
 THNK PNK, ALFREDT, Job Jobse
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/clark/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/clark/)*

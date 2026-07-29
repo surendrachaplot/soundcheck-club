@@ -1,6 +1,6 @@
 # SIMOFF
 
-SIMOFF is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Tue, 28 Jul 2026, next at M01, Berlin on Fri, 7 Aug 2026.
+SIMOFF is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at M01, Berlin on Fri, 7 Aug 2026.
 
 SIMOFF is a techno and trance artist based in Switzerland, tracked on soundcheck, with 6 sets logged across Berlin. Often billed alongside MEGUROLOVE, DJ SUN (CH/DE) and UNORDNUNGSAMT. Next up: M01, Berlin on Fri 7 Aug.
 
@@ -22,4 +22,4 @@ SIMOFF is a techno and trance artist based in Switzerland, tracked on soundcheck
 
 MEGUROLOVE, DJ SUN (CH/DE), UNORDNUNGSAMT
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/simoff/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/simoff/)*

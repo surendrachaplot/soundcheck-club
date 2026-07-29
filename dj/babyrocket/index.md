@@ -1,6 +1,6 @@
 # Baby Rocket
 
-Baby Rocket is a Gabber and Hardcore artist with 1 upcoming club date listed on soundcheck as of Tue, 28 Jul 2026, next at Astra Kulturhaus, Berlin on Fri, 31 Jul 2026.
+Baby Rocket is a Gabber and Hardcore artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at Astra Kulturhaus, Berlin on Fri, 31 Jul 2026.
 
 Baby Rocket is a gabber and hardcore artist based in Germany, tracked on soundcheck, with 15 sets logged across Amsterdam and Berlin. Often billed alongside Angel Rider, Makinarium and ZYNTAX. Next up: Astra Kulturhaus, Berlin on Fri 31 Jul.
 
@@ -25,4 +25,4 @@ Baby Rocket is a gabber and hardcore artist based in Germany, tracked on soundch
 
 Angel Rider, Makinarium, ZYNTAX
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/babyrocket/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/babyrocket/)*

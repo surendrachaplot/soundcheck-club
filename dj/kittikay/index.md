@@ -1,6 +1,6 @@
 # Kitti Kay
 
-Kitti Kay is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Tue, 28 Jul 2026, next at Arzenal, Budapest on Fri, 31 Jul 2026.
+Kitti Kay is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at Arzenal, Budapest on Fri, 31 Jul 2026.
 
 Kitti Kay is a techno and trance artist based in Hungary, tracked on soundcheck, with 32 sets logged across Barcelona, Budapest, Glasgow and Ibiza and 4 more. Often billed alongside Svetec, Sonic Rain and Mateo & Spirit. Next up: Arzenal, Budapest on Fri 31 Jul.
 
@@ -25,4 +25,4 @@ Kitti Kay is a techno and trance artist based in Hungary, tracked on soundcheck,
 
 Svetec, Sonic Rain, Mateo & Spirit
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/kittikay/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/kittikay/)*

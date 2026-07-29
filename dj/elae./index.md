@@ -1,6 +1,6 @@
 # ELA E.
 
-ELA E. is a Trance and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 28 Jul 2026, next at M01, Berlin on Fri, 7 Aug 2026.
+ELA E. is a Trance and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at M01, Berlin on Fri, 7 Aug 2026.
 
 ELA E. is a trance and techno artist based in Germany, tracked on soundcheck, with 12 sets logged across Berlin. Often billed alongside Bonzo (2), DJ Keyframe and HØLLE (2). Next up: M01, Berlin on Fri 7 Aug.
 
@@ -25,4 +25,4 @@ ELA E. is a trance and techno artist based in Germany, tracked on soundcheck, wi
 
 Bonzo (2), DJ Keyframe, HØLLE (2)
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/elae./)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/elae./)*

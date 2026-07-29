@@ -1,6 +1,6 @@
 # Julia van Praag
 
-Julia van Praag is a House and Disco artist with 2 upcoming club dates listed on soundcheck as of Tue, 28 Jul 2026, next at NAR, Utrecht on Sat, 1 Aug 2026.
+Julia van Praag is a House and Disco artist with 2 upcoming club dates listed on soundcheck as of Wed, 29 Jul 2026, next at NAR, Utrecht on Sat, 1 Aug 2026.
 
 Julia van Praag is a house and disco artist based in Netherlands, tracked on soundcheck, with 7 sets logged across Amsterdam and Utrecht. Often billed alongside Mario Marini, Annebel and Another Taste. Next up: NAR, Utrecht on Sat 1 Aug.
 
@@ -23,4 +23,4 @@ Julia van Praag is a house and disco artist based in Netherlands, tracked on sou
 
 Mario Marini, Annebel, Another Taste
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/juliavanpraag/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/juliavanpraag/)*

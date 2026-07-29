@@ -1,6 +1,6 @@
 # Edward
 
-Edward is a House and Minimal artist with 6 upcoming club dates listed on soundcheck as of Tue, 28 Jul 2026, next at TBA - Secret Location, New York City on Sat, 1 Aug 2026.
+Edward is a House and Minimal artist with 6 upcoming club dates listed on soundcheck as of Wed, 29 Jul 2026, next at TBA - Secret Location, New York City on Sat, 1 Aug 2026.
 
 Edward is a house and minimal artist tracked on soundcheck, with 128 sets logged across Amsterdam, Antwerp, Barcelona and Basel and 27 more. Often billed alongside Konstantin, Leafar Legov and Yamour. Next up: TBA - Secret Location, Newyorkcity on Sat 1 Aug.
 
@@ -30,4 +30,4 @@ Edward is a house and minimal artist tracked on soundcheck, with 128 sets logged
 
 Konstantin, Leafar Legov, Yamour
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/edward/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/edward/)*

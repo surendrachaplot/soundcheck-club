@@ -1,6 +1,6 @@
 # Leo Cologna
 
-Leo Cologna is a Techno and Experimental artist with 1 upcoming club date listed on soundcheck as of Tue, 28 Jul 2026, next at Spreefeld Bootshaus, Berlin on Wed, 29 Jul 2026.
+Leo Cologna is a Techno and Experimental artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at Spreefeld Bootshaus, Berlin on Wed, 29 Jul 2026.
 
 Leo Cologna is a techno and experimental artist based in Germany, tracked on soundcheck, with 9 sets logged across Amsterdam and Berlin. Often billed alongside Dj Iryna, MOE (LB) and Mohaym. Next up: Spreefeld Bootshaus, Berlin on Wed 29 Jul.
 
@@ -25,4 +25,4 @@ Leo Cologna is a techno and experimental artist based in Germany, tracked on sou
 
 Dj Iryna, MOE (LB), Mohaym
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/leocologna/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/leocologna/)*

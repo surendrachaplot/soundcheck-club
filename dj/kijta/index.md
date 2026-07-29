@@ -1,6 +1,6 @@
 # Kijta
 
-Kijta is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Tue, 28 Jul 2026, next at Z Maruyama, Tokyo on Sat, 1 Aug 2026.
+Kijta is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Wed, 29 Jul 2026, next at Z Maruyama, Tokyo on Sat, 1 Aug 2026.
 
 Kijta is a house and techno artist based in Japan, tracked on soundcheck, with 76 sets logged across Tokyo. Often billed alongside TokiToki, OPTIMIST and CRAZYHYUGA. Next up: Z Maruyama, Tokyo on Sat 1 Aug.
 
@@ -26,4 +26,4 @@ Kijta is a house and techno artist based in Japan, tracked on soundcheck, with 7
 
 TokiToki, OPTIMIST, CRAZYHYUGA
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/kijta/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/kijta/)*

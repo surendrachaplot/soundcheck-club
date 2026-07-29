@@ -1,6 +1,6 @@
 # Transki
 
-Transki is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Tue, 28 Jul 2026, next at Macadam, Nantes on Fri, 14 Aug 2026.
+Transki is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at Macadam, Nantes on Fri, 14 Aug 2026.
 
 Transki is a techno and trance artist based in Austria, tracked on soundcheck, with 12 sets logged across Berlin, Budapest, Munich and Nantes and 1 more. Often billed alongside Tom of Terram, Hektisch Sprengen DJs and 1luu. Next up: Macadam, Nantes on Fri 14 Aug.
 
@@ -25,4 +25,4 @@ Transki is a techno and trance artist based in Austria, tracked on soundcheck, w
 
 Tom of Terram, Hektisch Sprengen DJs, 1luu
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/transki/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/transki/)*

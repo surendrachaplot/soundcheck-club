@@ -1,6 +1,6 @@
 # NotMeghan
 
-NotMeghan is a electronic artist with 1 upcoming club date listed on soundcheck as of Tue, 28 Jul 2026, next at Reelworks Denver, Denver on Sat, 26 Sept 2026.
+NotMeghan is a electronic artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at Reelworks Denver, Denver on Sat, 26 Sept 2026.
 
 NotMeghan is an electronic artist based in United States of America, tracked on soundcheck, with 2 sets logged across Amsterdam and Denver. Often billed alongside AKIVA, Aubrey Fry and Cris-H. Next up: Reelworks Denver, Denver on Sat 26 Sept.
 
@@ -18,4 +18,4 @@ NotMeghan is an electronic artist based in United States of America, tracked on 
 
 AKIVA, Aubrey Fry, Cris-H
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/notmeghan/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/notmeghan/)*

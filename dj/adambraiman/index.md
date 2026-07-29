@@ -1,6 +1,6 @@
 # Adam Braiman
 
-Adam Braiman is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 28 Jul 2026, next at The Walk Inn, New York City on Fri, 31 Jul 2026.
+Adam Braiman is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at The Walk Inn, New York City on Fri, 31 Jul 2026.
 
 Adam Braiman is a house and techno artist based in United States of America, tracked on soundcheck, with 34 sets logged across Miami and Newyorkcity. Often billed alongside Rupert Wall, Mike Berardi and Dalton Taylor. Next up: The Walk Inn, Newyorkcity on Fri 31 Jul.
 
@@ -25,4 +25,4 @@ Adam Braiman is a house and techno artist based in United States of America, tra
 
 Rupert Wall, Mike Berardi, Dalton Taylor
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/adambraiman/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/adambraiman/)*

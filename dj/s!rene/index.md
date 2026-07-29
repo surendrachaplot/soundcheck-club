@@ -1,6 +1,6 @@
 # S!RENE
 
-S!RENE is a Hip-Hop and House artist with 1 upcoming club date listed on soundcheck as of Tue, 28 Jul 2026, next at Openluchttheater Amersfoort, Amsterdam on Fri, 18 Sept 2026.
+S!RENE is a Hip-Hop and House artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at Openluchttheater Amersfoort, Amsterdam on Fri, 18 Sept 2026.
 
 S!RENE is a hip-hop and house artist tracked on soundcheck, with 60 sets logged across Amsterdam, Antwerp, Bali and Bangkok and 21 more. Often billed alongside Cezaire, Helina and Eileen (NL). Next up: Openluchttheater Amersfoort, Amsterdam on Fri 18 Sept.
 
@@ -25,4 +25,4 @@ S!RENE is a hip-hop and house artist tracked on soundcheck, with 60 sets logged 
 
 Cezaire, Helina, Eileen (NL)
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/s!rene/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/s!rene/)*

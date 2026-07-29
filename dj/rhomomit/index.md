@@ -1,6 +1,6 @@
 # Rhom Omit
 
-Rhom Omit is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Tue, 28 Jul 2026, next at TBA - Berlin - Secret Location - Neukölln, Berlin on Fri, 7 Aug 2026.
+Rhom Omit is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Wed, 29 Jul 2026, next at TBA - Berlin - Secret Location - Neukölln, Berlin on Fri, 7 Aug 2026.
 
 Rhom Omit is a house and techno artist based in Germany, tracked on soundcheck, with 24 sets logged across Bangkok, Barcelona, Berlin and Prague and 1 more. Often billed alongside Cesare vs Disorder, Weg (DE) and Isaac Elejalde. Next up: TBA - Berlin - Secret Location - Neukölln, Berlin on Fri 7 Aug.
 
@@ -26,4 +26,4 @@ Rhom Omit is a house and techno artist based in Germany, tracked on soundcheck, 
 
 Cesare vs Disorder, Weg (DE), Isaac Elejalde
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/rhomomit/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/rhomomit/)*

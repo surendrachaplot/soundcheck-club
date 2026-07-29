@@ -1,6 +1,6 @@
 # CRRDR
 
-CRRDR is a Latin Bass and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 28 Jul 2026, next at Karmen Camina, Strasbourg on Sat, 1 Aug 2026.
+CRRDR is a Latin Bass and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at Karmen Camina, Strasbourg on Sat, 1 Aug 2026.
 
 CRRDR is a latin bass and techno artist tracked on soundcheck, with 105 sets logged across Barcelona, Belgrade, Berlin and Boston and 38 more. Often billed alongside Linapary, PAULAH and BZZHOUND. Next up: Karmen Camina, Strasbourg on Sat 1 Aug.
 
@@ -25,4 +25,4 @@ CRRDR is a latin bass and techno artist tracked on soundcheck, with 105 sets log
 
 Linapary, PAULAH, BZZHOUND
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/crrdr/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/crrdr/)*

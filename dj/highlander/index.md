@@ -1,6 +1,6 @@
 # Highlander
 
-Highlander is a Hardcore and Jungle artist with 1 upcoming club date listed on soundcheck as of Tue, 28 Jul 2026, next at Dalston Den, London on Fri, 31 Jul 2026.
+Highlander is a Hardcore and Jungle artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at Dalston Den, London on Fri, 31 Jul 2026.
 
 Highlander is a hardcore and jungle artist based in United Kingdom, tracked on soundcheck, with 46 sets logged across London, Manchester, Newcastle and Newyorkcity and 1 more. Often billed alongside CICELY, J Bentley and BHV2099. Next up: Dalston Den, London on Fri 31 Jul.
 
@@ -25,4 +25,4 @@ Highlander is a hardcore and jungle artist based in United Kingdom, tracked on s
 
 CICELY, J Bentley, BHV2099
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/highlander/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/highlander/)*

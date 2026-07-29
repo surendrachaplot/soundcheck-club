@@ -1,6 +1,6 @@
 # Greentea Peng
 
-Greentea Peng is a House and Jazz artist with 1 upcoming club date listed on soundcheck as of Tue, 28 Jul 2026, next at Burgess Park, London on Sun, 2 Aug 2026.
+Greentea Peng is a House and Jazz artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at Burgess Park, London on Sun, 2 Aug 2026.
 
 Greentea Peng is a house and jazz artist based in United Kingdom, tracked on soundcheck, with 7 sets logged across Birmingham, Copenhagen, Istanbul and Leeds and 2 more. Often billed alongside Barry Can't Swim, Floating Points and Justice. Next up: Burgess Park, London on Sun 2 Aug.
 
@@ -23,4 +23,4 @@ Greentea Peng is a house and jazz artist based in United Kingdom, tracked on sou
 
 Barry Can't Swim, Floating Points, Justice
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/greenteapeng/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/greenteapeng/)*

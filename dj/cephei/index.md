@@ -1,6 +1,6 @@
 # Cepheì
 
-Cepheì is a Techno and Experimental artist with 1 upcoming club date listed on soundcheck as of Tue, 28 Jul 2026, next at TBA - Several venues in Basel, Basel on Thu, 17 Sept 2026.
+Cepheì is a Techno and Experimental artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at TBA - Several venues in Basel, Basel on Thu, 17 Sept 2026.
 
 Cepheì is a techno and experimental artist based in Switzerland, tracked on soundcheck, with 15 sets logged across Basel. Often billed alongside Gomorra, Herrrouine and Jelena. Next up: TBA - Several venues in Basel, Basel on Thu 17 Sept.
 
@@ -25,4 +25,4 @@ Cepheì is a techno and experimental artist based in Switzerland, tracked on sou
 
 Gomorra, Herrrouine, Jelena
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/cephei/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/cephei/)*

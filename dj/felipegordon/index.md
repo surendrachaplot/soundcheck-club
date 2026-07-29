@@ -1,6 +1,6 @@
 # Felipe Gordon
 
-Felipe Gordon is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Tue, 28 Jul 2026, next at Lux Fragil, Lisbon on Sat, 15 Aug 2026.
+Felipe Gordon is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at Lux Fragil, Lisbon on Sat, 15 Aug 2026.
 
 Felipe Gordon is a house and disco artist tracked on soundcheck, with 47 sets logged across Barcelona, Belgrade, Berlin and Boston and 25 more. Often billed alongside Ryu (2), Crjs and Diesco. Next up: Lux Fragil, Lisbon on Sat 15 Aug.
 
@@ -25,4 +25,4 @@ Felipe Gordon is a house and disco artist tracked on soundcheck, with 47 sets lo
 
 Ryu (2), Crjs, Diesco
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/felipegordon/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/felipegordon/)*

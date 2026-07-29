@@ -1,6 +1,6 @@
 # Monika Taneska
 
-Monika Taneska is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Tue, 28 Jul 2026, next at The Love Inn, Bristol on Fri, 31 Jul 2026.
+Monika Taneska is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at The Love Inn, Bristol on Fri, 31 Jul 2026.
 
 Monika Taneska is a techno and house artist based in United Kingdom, tracked on soundcheck, with 30 sets logged across Bristol and London. Often billed alongside Forever, A For Alpha and Ollie Kirk. Next up: The Love Inn, Bristol on Fri 31 Jul.
 
@@ -25,4 +25,4 @@ Monika Taneska is a techno and house artist based in United Kingdom, tracked on 
 
 Forever, A For Alpha, Ollie Kirk
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/monikataneska/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/monikataneska/)*

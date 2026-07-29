@@ -1,6 +1,6 @@
 # Jess Nash
 
-Jess Nash is a House and Ambient artist with 1 upcoming club date listed on soundcheck as of Tue, 28 Jul 2026, next at Spreefeld Bootshaus, Berlin on Wed, 29 Jul 2026.
+Jess Nash is a House and Ambient artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at Spreefeld Bootshaus, Berlin on Wed, 29 Jul 2026.
 
 Jess Nash is a house and ambient artist based in United Kingdom, tracked on soundcheck, with 8 sets logged across Berlin and Manchester. Often billed alongside Isabel Soto, Sarah Wreath and ALNA. Next up: Spreefeld Bootshaus, Berlin on Wed 29 Jul.
 
@@ -24,4 +24,4 @@ Jess Nash is a house and ambient artist based in United Kingdom, tracked on soun
 
 Isabel Soto, Sarah Wreath, ALNA
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/jessnash/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/jessnash/)*

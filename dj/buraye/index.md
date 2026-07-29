@@ -1,6 +1,6 @@
 # Buraye
 
-Buraye is a Techno and Electro artist with 1 upcoming club date listed on soundcheck as of Tue, 28 Jul 2026, next at Les Enfants Brillants, Barcelona on Fri, 18 Sept 2026.
+Buraye is a Techno and Electro artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at Les Enfants Brillants, Barcelona on Fri, 18 Sept 2026.
 
 Buraye is a techno and electro artist based in Colombia, tracked on soundcheck, with 1 set logged across Barcelona. Often billed alongside Lumiere and Nicolas Lutz. Next up: Les Enfants Brillants, Barcelona on Fri 18 Sept.
 
@@ -14,4 +14,4 @@ Buraye is a techno and electro artist based in Colombia, tracked on soundcheck, 
 
 Lumiere, Nicolas Lutz
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/buraye/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/buraye/)*

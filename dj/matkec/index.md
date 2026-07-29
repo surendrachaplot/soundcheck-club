@@ -1,6 +1,6 @@
 # Matkec
 
-Matkec is a Techno and Bass artist with 1 upcoming club date listed on soundcheck as of Tue, 28 Jul 2026, next at KC Grad, Belgrade on Fri, 31 Jul 2026.
+Matkec is a Techno and Bass artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at KC Grad, Belgrade on Fri, 31 Jul 2026.
 
 Matkec is a techno and bass artist based in Serbia, tracked on soundcheck, with 22 sets logged across Belgrade. Often billed alongside Chokey, Essio and Leshutler. Next up: KC Grad, Belgrade on Fri 31 Jul.
 
@@ -25,4 +25,4 @@ Matkec is a techno and bass artist based in Serbia, tracked on soundcheck, with 
 
 Chokey, Essio, Leshutler
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/matkec/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/matkec/)*

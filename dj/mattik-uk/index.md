@@ -1,6 +1,6 @@
 # Mattik (UK)
 
-Mattik (UK) is a Garage and Bass artist with 1 upcoming club date listed on soundcheck as of Tue, 28 Jul 2026, next at The Blues Kitchen Manchester, Manchester on Sun, 30 Aug 2026.
+Mattik (UK) is a Garage and Bass artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at The Blues Kitchen Manchester, Manchester on Sun, 30 Aug 2026.
 
 Mattik (UK) is a garage and bass artist tracked on soundcheck, with 55 sets logged across Antwerp, Bangkok, Bristol and Cardiff and 8 more. Often billed alongside Mattik UK, Seb Skint and Rich Reason. Next up: The Blues Kitchen Manchester, Manchester on Sun 30 Aug.
 
@@ -25,4 +25,4 @@ Mattik (UK) is a garage and bass artist tracked on soundcheck, with 55 sets logg
 
 Mattik UK, Seb Skint, Rich Reason
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/mattik-uk/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/mattik-uk/)*

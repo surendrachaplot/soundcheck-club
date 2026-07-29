@@ -1,6 +1,6 @@
 # Doka
 
-Doka is a music venue in Amsterdam with 6 upcoming nights listed on soundcheck as of Tue, 28 Jul 2026; the next is "Doka Studio x As The World Turns with Tama Sumo - Rob Manga (World Pride)" on Thu, 30 Jul 2026.
+Doka is a music venue in Amsterdam with 6 upcoming nights listed on soundcheck as of Wed, 29 Jul 2026; the next is "Doka Studio x As The World Turns with Tama Sumo - Rob Manga (World Pride)" on Thu, 30 Jul 2026.
 
 Doka is a music venue in Amsterdam listed on soundcheck. 6 upcoming nights, with line-ups including Coco Coquelicot, Intergalactic Gary, MMIV and Rob Manga and 2 more. Browse upcoming dates, start times and who's playing. Wibautstraat 150, 1091 GR Amsterdam, Netherlands.
 
@@ -19,4 +19,4 @@ Doka is a music venue in Amsterdam listed on soundcheck. 6 upcoming nights, with
 
 Wibautstraat 150, 1091 GR Amsterdam, Netherlands, Amsterdam
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/doka/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/doka/)*

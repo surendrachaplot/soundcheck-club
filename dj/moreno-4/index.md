@@ -1,6 +1,6 @@
 # Moreno (4)
 
-Moreno (4) is a Techno and Bass artist with 1 upcoming club date listed on soundcheck as of Tue, 28 Jul 2026, next at Péniche Loupika, Lyon on Sun, 2 Aug 2026.
+Moreno (4) is a Techno and Bass artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at Péniche Loupika, Lyon on Sun, 2 Aug 2026.
 
 Moreno (4) is a techno and bass artist based in Colombia, tracked on soundcheck, with 4 sets logged across Lyon. Often billed alongside Rivda, HBB (MA) and Klefman. Next up: Péniche Loupika, Lyon on Sun 2 Aug.
 
@@ -20,4 +20,4 @@ Moreno (4) is a techno and bass artist based in Colombia, tracked on soundcheck,
 
 Rivda, HBB (MA), Klefman
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/moreno-4/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/moreno-4/)*

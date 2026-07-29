@@ -1,6 +1,6 @@
 # Nizzari
 
-Nizzari is a Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 28 Jul 2026, next at Tresor / Globus, Berlin on Mon, 31 Aug 2026.
+Nizzari is a Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at Tresor / Globus, Berlin on Mon, 31 Aug 2026.
 
 Nizzari is a techno artist tracked on soundcheck, with 3 sets logged across Berlin. Often billed alongside Berlin Bunny, Boris and Eyesdice. Next up: Tresor / Globus, Berlin on Mon 31 Aug.
 
@@ -19,4 +19,4 @@ Nizzari is a techno artist tracked on soundcheck, with 3 sets logged across Berl
 
 Berlin Bunny, Boris, Eyesdice
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/nizzari/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/nizzari/)*

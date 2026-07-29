@@ -1,6 +1,6 @@
 # Jacob Matthews
 
-Jacob Matthews is a House and Tech House artist with 2 upcoming club dates listed on soundcheck as of Tue, 28 Jul 2026, next at The Sound House, Dublin on Sat, 8 Aug 2026.
+Jacob Matthews is a House and Tech House artist with 2 upcoming club dates listed on soundcheck as of Wed, 29 Jul 2026, next at The Sound House, Dublin on Sat, 8 Aug 2026.
 
 Jacob Matthews is a house and tech house artist based in United Kingdom, tracked on soundcheck, with 4 sets logged across Bristol, Dublin and Manchester. Often billed alongside ADR (US), Alex Culross and Alexandria. Next up: The Sound House, Dublin on Sat 8 Aug.
 
@@ -20,4 +20,4 @@ Jacob Matthews is a house and tech house artist based in United Kingdom, tracked
 
 ADR (US), Alex Culross, Alexandria
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/jacobmatthews/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/jacobmatthews/)*

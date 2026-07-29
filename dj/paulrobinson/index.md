@@ -1,6 +1,6 @@
 # Paul Robinson
 
-Paul Robinson is a Dubstep and Jungle artist with 1 upcoming club date listed on soundcheck as of Tue, 28 Jul 2026, next at Protocol, London on Fri, 28 Aug 2026.
+Paul Robinson is a Dubstep and Jungle artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at Protocol, London on Fri, 28 Aug 2026.
 
 Paul Robinson is a dubstep and jungle artist based in United Kingdom, tracked on soundcheck, with 19 sets logged across London. Often billed alongside Braindead, DFUSE and Jack Burt. Next up: Protocol, London on Fri 28 Aug.
 
@@ -25,4 +25,4 @@ Paul Robinson is a dubstep and jungle artist based in United Kingdom, tracked on
 
 Braindead, DFUSE, Jack Burt
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/paulrobinson/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/paulrobinson/)*

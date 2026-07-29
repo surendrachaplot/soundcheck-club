@@ -1,6 +1,6 @@
 # Paolo Askia
 
-Paolo Askia is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Tue, 28 Jul 2026, next at Village au Pied-du-Courant, Montreal on Sun, 2 Aug 2026.
+Paolo Askia is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at Village au Pied-du-Courant, Montreal on Sun, 2 Aug 2026.
 
 Paolo Askia is a techno and house artist based in France, tracked on soundcheck, with 37 sets logged across Montreal and Toronto. Often billed alongside Field Note, Monib and Destiny (CA). Next up: Village au Pied-du-Courant, Montreal on Sun 2 Aug.
 
@@ -25,4 +25,4 @@ Paolo Askia is a techno and house artist based in France, tracked on soundcheck,
 
 Field Note, Monib, Destiny (CA)
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/paoloaskia/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/paoloaskia/)*

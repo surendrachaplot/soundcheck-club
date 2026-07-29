@@ -1,6 +1,6 @@
 # System Olympia
 
-System Olympia is a House and Disco artist with 2 upcoming club dates listed on soundcheck as of Tue, 28 Jul 2026, next at Burgess Park, London on Sun, 2 Aug 2026.
+System Olympia is a House and Disco artist with 2 upcoming club dates listed on soundcheck as of Wed, 29 Jul 2026, next at Burgess Park, London on Sun, 2 Aug 2026.
 
 System Olympia is a house and disco artist tracked on soundcheck, with 70 sets logged across Amsterdam, Barcelona, Belfast and Berlin and 16 more. Often billed alongside Move D, Attila and Crazy P. Next up: Burgess Park, London on Sun 2 Aug.
 
@@ -26,4 +26,4 @@ System Olympia is a house and disco artist tracked on soundcheck, with 70 sets l
 
 Move D, Attila, Crazy P
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/systemolympia/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/systemolympia/)*

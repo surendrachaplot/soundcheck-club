@@ -1,6 +1,6 @@
 # Marion O (2)
 
-Marion O (2) is a Bass and Drum & Bass artist with 1 upcoming club date listed on soundcheck as of Tue, 28 Jul 2026, next at YuYu Cine Club, Mexico City on Sat, 8 Aug 2026.
+Marion O (2) is a Bass and Drum & Bass artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at YuYu Cine Club, Mexico City on Sat, 8 Aug 2026.
 
 Marion O (2) is a bass and drum & bass artist based in Mexico, tracked on soundcheck, with 3 sets logged across Mexicocity. Often billed alongside Ana Armada, Astroboii and Avant-Garde Institute. Next up: YuYu Cine Club, Mexicocity on Sat 8 Aug.
 
@@ -19,4 +19,4 @@ Marion O (2) is a bass and drum & bass artist based in Mexico, tracked on soundc
 
 Ana Armada, Astroboii, Avant-Garde Institute
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/mariono-2/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/mariono-2/)*

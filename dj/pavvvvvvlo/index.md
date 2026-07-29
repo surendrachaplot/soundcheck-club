@@ -1,6 +1,6 @@
 # pavvvvvvlo
 
-pavvvvvvlo is a Techno and Trance artist with 2 upcoming club dates listed on soundcheck as of Tue, 28 Jul 2026, next at Barrio Cafe, Brussels on Fri, 7 Aug 2026.
+pavvvvvvlo is a Techno and Trance artist with 2 upcoming club dates listed on soundcheck as of Wed, 29 Jul 2026, next at Barrio Cafe, Brussels on Fri, 7 Aug 2026.
 
 pavvvvvvlo is a techno and trance artist tracked on soundcheck, with 51 sets logged across Berlin, Brussels, Lisbon and Madrid and 1 more. Often billed alongside Gerardo Niva, Alba Franch and Cobb Douglas. Next up: Barrio Cafe, Brussels on Fri 7 Aug.
 
@@ -26,4 +26,4 @@ pavvvvvvlo is a techno and trance artist tracked on soundcheck, with 51 sets log
 
 Gerardo Niva, Alba Franch, Cobb Douglas
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/pavvvvvvlo/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/pavvvvvvlo/)*

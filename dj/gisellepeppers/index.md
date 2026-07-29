@@ -1,6 +1,6 @@
 # Giselle Peppers
 
-Giselle Peppers is a Reggaeton and House artist with 2 upcoming club dates listed on soundcheck as of Tue, 28 Jul 2026, next at The Broken Shaker Los Angeles, Los Angeles on Sun, 2 Aug 2026.
+Giselle Peppers is a Reggaeton and House artist with 2 upcoming club dates listed on soundcheck as of Wed, 29 Jul 2026, next at The Broken Shaker Los Angeles, Los Angeles on Sun, 2 Aug 2026.
 
 Giselle Peppers is a reggaeton and house artist tracked on soundcheck, with 85 sets logged across Chicago, Losangeles, Newyorkcity and Sandiego and 1 more. Often billed alongside Cquestt, 88. (1) and DINABN. Next up: The Broken Shaker Los Angeles, Losangeles on Sun 2 Aug.
 
@@ -26,4 +26,4 @@ Giselle Peppers is a reggaeton and house artist tracked on soundcheck, with 85 s
 
 Cquestt, 88. (1), DINABN
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/gisellepeppers/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/gisellepeppers/)*

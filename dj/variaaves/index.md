@@ -1,6 +1,6 @@
 # Varia Aves
 
-Varia Aves is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 28 Jul 2026, next at AMT, Berlin on Fri, 7 Aug 2026.
+Varia Aves is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at AMT, Berlin on Fri, 7 Aug 2026.
 
 Varia Aves is a house and techno artist based in Germany, tracked on soundcheck, with 17 sets logged across Berlin. Often billed alongside BAHAA AL DEEN, SURCO and Oskar Knickelbein. Next up: AMT, Berlin on Fri 7 Aug.
 
@@ -25,4 +25,4 @@ Varia Aves is a house and techno artist based in Germany, tracked on soundcheck,
 
 BAHAA AL DEEN, SURCO, Oskar Knickelbein
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/variaaves/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/variaaves/)*

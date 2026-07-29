@@ -1,6 +1,6 @@
 # Santos.
 
-Santos. is a Techno and Progressive House artist with 1 upcoming club date listed on soundcheck as of Tue, 28 Jul 2026, next at ÆDEN, Berlin on Sat, 22 Aug 2026.
+Santos. is a Techno and Progressive House artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at ÆDEN, Berlin on Sat, 22 Aug 2026.
 
 Santos. is a techno and progressive house artist based in Spain, tracked on soundcheck, with 12 sets logged across Barcelona, Berlin, Buenosaires and Madrid and 1 more. Often billed alongside PØVE, VOICEX and DJ Lolo. Next up: ÆDEN, Berlin on Sat 22 Aug.
 
@@ -25,4 +25,4 @@ Santos. is a techno and progressive house artist based in Spain, tracked on soun
 
 PØVE, VOICEX, DJ Lolo
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/santos./)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/santos./)*

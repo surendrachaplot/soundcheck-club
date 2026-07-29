@@ -1,6 +1,6 @@
 # Eva.nyx
 
-Eva.nyx is a Techno and Electro artist with 1 upcoming club date listed on soundcheck as of Tue, 28 Jul 2026, next at Südpol, Hamburg on Fri, 7 Aug 2026.
+Eva.nyx is a Techno and Electro artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at Südpol, Hamburg on Fri, 7 Aug 2026.
 
 Eva.nyx is a techno and electro artist based in Germany, tracked on soundcheck, with 22 sets logged across Hamburg. Often billed alongside VIĆERO, rodmor and Costa. Next up: Südpol, Hamburg on Fri 7 Aug.
 
@@ -25,4 +25,4 @@ Eva.nyx is a techno and electro artist based in Germany, tracked on soundcheck, 
 
 VIĆERO, rodmor, Costa
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/eva.nyx/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/eva.nyx/)*

@@ -1,6 +1,6 @@
 # DJ Die
 
-DJ Die is a Jungle and Drum & Bass artist with 1 upcoming club date listed on soundcheck as of Tue, 28 Jul 2026, next at Hackney Wick Multiple Venues, London on Sat, 1 Aug 2026.
+DJ Die is a Jungle and Drum & Bass artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at Hackney Wick Multiple Venues, London on Sat, 1 Aug 2026.
 
 DJ Die is a jungle and drum & bass artist tracked on soundcheck, with 31 sets logged across Bristol, London and Manchester. Often billed alongside Bryan Gee, Krust and Chimpo. Next up: Hackney Wick Multiple Venues, London on Sat 1 Aug.
 
@@ -25,4 +25,4 @@ DJ Die is a jungle and drum & bass artist tracked on soundcheck, with 31 sets lo
 
 Bryan Gee, Krust, Chimpo
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/djdie/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/djdie/)*

@@ -1,6 +1,6 @@
 # ElectroDon
 
-ElectroDon is a Electro and Acid artist with 1 upcoming club date listed on soundcheck as of Tue, 28 Jul 2026, next at Tresor / Globus, Berlin on Fri, 7 Aug 2026.
+ElectroDon is a Electro and Acid artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at Tresor / Globus, Berlin on Fri, 7 Aug 2026.
 
 ElectroDon is an electro and acid artist tracked on soundcheck, with 30 sets logged across Athens, Berlin, Hamburg and Istanbul and 1 more. Often billed alongside Milan Hermess, Mejle and Aura Nox. Next up: Tresor / Globus, Berlin on Fri 7 Aug.
 
@@ -25,4 +25,4 @@ ElectroDon is an electro and acid artist tracked on soundcheck, with 30 sets log
 
 Milan Hermess, Mejle, Aura Nox
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/electrodon/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/electrodon/)*

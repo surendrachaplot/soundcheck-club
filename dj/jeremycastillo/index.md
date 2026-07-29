@@ -1,6 +1,6 @@
 # Jeremy Castillo
 
-Jeremy Castillo is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Tue, 28 Jul 2026, next at Public Works, San Francisco/Oakland on Sat, 19 Sept 2026.
+Jeremy Castillo is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at Public Works, San Francisco/Oakland on Sat, 19 Sept 2026.
 
 Jeremy Castillo is a house and disco artist based in United States of America, tracked on soundcheck, with 37 sets logged across Losangeles, Mexicocity, Miami and Newyorkcity and 2 more. Often billed alongside DJ D.Dee, Mishka and Seedy J. Next up: Public Works, Sanfrancisco on Sat 19 Sept.
 
@@ -25,4 +25,4 @@ Jeremy Castillo is a house and disco artist based in United States of America, t
 
 DJ D.Dee, Mishka, Seedy J
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/jeremycastillo/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/jeremycastillo/)*

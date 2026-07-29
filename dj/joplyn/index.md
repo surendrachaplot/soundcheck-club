@@ -1,6 +1,6 @@
 # Joplyn
 
-Joplyn is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Tue, 28 Jul 2026, next at TBA - Camp Summerdaze Montreal, Montreal on Thu, 30 Jul 2026.
+Joplyn is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Wed, 29 Jul 2026, next at TBA - Camp Summerdaze Montreal, Montreal on Thu, 30 Jul 2026.
 
 Joplyn is a house and techno artist based in Germany, tracked on soundcheck, with 65 sets logged across Amsterdam, Barcelona, Berlin and Copenhagen and 21 more. Often billed alongside Agents Of Time, Colyn and Deer Jade. Next up: TBA - Camp Summerdaze Montreal, Montreal on Thu 30 Jul.
 
@@ -26,4 +26,4 @@ Joplyn is a house and techno artist based in Germany, tracked on soundcheck, wit
 
 Agents Of Time, Colyn, Deer Jade
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/joplyn/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/joplyn/)*

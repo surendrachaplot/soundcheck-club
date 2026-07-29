@@ -1,6 +1,6 @@
 # Fatima Hajji
 
-Fatima Hajji is a Techno and House artist with 10 upcoming club dates listed on soundcheck as of Tue, 28 Jul 2026, next at Son Fusteret, Mallorca on Sat, 1 Aug 2026.
+Fatima Hajji is a Techno and House artist with 10 upcoming club dates listed on soundcheck as of Wed, 29 Jul 2026, next at Son Fusteret, Mallorca on Sat, 1 Aug 2026.
 
 Fatima Hajji is a techno and house artist tracked on soundcheck, with 186 sets logged across Amsterdam, Athens, Austin and Barcelona and 57 more. Often billed alongside Alignment, Shlømo and Trym. Next up: Son Fusteret, Mallorca on Sat 1 Aug.
 
@@ -34,4 +34,4 @@ Fatima Hajji is a techno and house artist tracked on soundcheck, with 186 sets l
 
 Alignment, Shlømo, Trym
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/fatimahajji/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/fatimahajji/)*

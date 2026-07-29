@@ -1,6 +1,6 @@
 # Luc *
 
-Luc * is a Techno and Electro artist with 2 upcoming club dates listed on soundcheck as of Tue, 28 Jul 2026, next at Bar A Bar, London on Fri, 31 Jul 2026.
+Luc * is a Techno and Electro artist with 2 upcoming club dates listed on soundcheck as of Wed, 29 Jul 2026, next at Bar A Bar, London on Fri, 31 Jul 2026.
 
 Luc * is a techno and electro artist based in United Kingdom, tracked on soundcheck, with 9 sets logged across Berlin, London, Mexicocity and Milan and 1 more. Often billed alongside OllyK, AINA.KRU and Alhena_. Next up: Bar A Bar, London on Fri 31 Jul.
 
@@ -25,4 +25,4 @@ Luc * is a techno and electro artist based in United Kingdom, tracked on soundch
 
 OllyK, AINA.KRU, Alhena_
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/luc/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/luc/)*

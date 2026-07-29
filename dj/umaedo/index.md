@@ -1,6 +1,6 @@
 # Umaedo
 
-Umaedo is a Tech House and Deep House artist with 1 upcoming club date listed on soundcheck as of Tue, 28 Jul 2026, next at Ibiza Jet, Ibiza on Thu, 30 Jul 2026.
+Umaedo is a Tech House and Deep House artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at Ibiza Jet, Ibiza on Thu, 30 Jul 2026.
 
 Umaedo is a tech house and deep house artist tracked on soundcheck, with 16 sets logged across Ibiza, London and Miami. Often billed alongside Liam Black, DEFILE and Billa Bazz. Next up: Ibiza Jet, Ibiza on Thu 30 Jul.
 
@@ -25,4 +25,4 @@ Umaedo is a tech house and deep house artist tracked on soundcheck, with 16 sets
 
 Liam Black, DEFILE, Billa Bazz
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/umaedo/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/umaedo/)*

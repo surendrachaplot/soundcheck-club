@@ -1,6 +1,6 @@
 # Miguel Clark
 
-Miguel Clark is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 28 Jul 2026, next at MAD Club Live, Miami on Sat, 22 Aug 2026.
+Miguel Clark is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at MAD Club Live, Miami on Sat, 22 Aug 2026.
 
 Miguel Clark is a house and techno artist based in Venezuela, tracked on soundcheck, with 12 sets logged across Miami and Newyorkcity. Often billed alongside Naim Zarzour, Ultrathem and Gabo Escalona. Next up: MAD Club Live, Miami on Sat 22 Aug.
 
@@ -25,4 +25,4 @@ Miguel Clark is a house and techno artist based in Venezuela, tracked on soundch
 
 Naim Zarzour, Ultrathem, Gabo Escalona
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/miguelclark/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/miguelclark/)*

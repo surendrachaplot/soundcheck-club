@@ -1,6 +1,6 @@
 # Cocoa
 
-Cocoa is a Deep House and Bass artist with 1 upcoming club date listed on soundcheck as of Tue, 28 Jul 2026, next at Forestlimit, Tokyo on Wed, 29 Jul 2026.
+Cocoa is a Deep House and Bass artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at Forestlimit, Tokyo on Wed, 29 Jul 2026.
 
 Cocoa is a deep house and bass artist based in China, tracked on soundcheck, with 10 sets logged across Hongkong and Tokyo. Often billed alongside deadfish eyes, Alex Nude and CVN (1). Next up: Forestlimit, Tokyo on Wed 29 Jul.
 
@@ -25,4 +25,4 @@ Cocoa is a deep house and bass artist based in China, tracked on soundcheck, wit
 
 deadfish eyes, Alex Nude, CVN (1)
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/cocoa/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/cocoa/)*

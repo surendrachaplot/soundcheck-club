@@ -1,6 +1,6 @@
-# From House to Disco Club presents Romain Fx at Edifício Martinelli
+# From House to Disco Club presents Romain FX at Edifício Martinelli
 
-From House to Disco Club presents Romain Fx at Edifício Martinelli on Sat 8 Aug, Saopaulo. 4 acts on the bill: From House to Disco, Renato Cohen, Romain Fx and Tessuto. House and Disco. Preview the line-up and save it on soundcheck.
+From House to Disco Club presents Romain FX at Edifício Martinelli on Sat 8 Aug, Saopaulo. 4 acts on the bill: From House to Disco, Renato Cohen, Romain Fx and Tessuto. House and Disco. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

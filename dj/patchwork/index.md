@@ -1,6 +1,6 @@
 # Patchwork
 
-Patchwork is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Tue, 28 Jul 2026, next at Manray, Boston on Thu, 30 Jul 2026.
+Patchwork is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at Manray, Boston on Thu, 30 Jul 2026.
 
 Patchwork is a house and disco artist based in United States of America, tracked on soundcheck, with 14 sets logged across Boston. Often billed alongside Private Dancer, Rasaaq and Wiersma. Next up: Manray, Boston on Thu 30 Jul.
 
@@ -25,4 +25,4 @@ Patchwork is a house and disco artist based in United States of America, tracked
 
 Private Dancer, Rasaaq, Wiersma
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/patchwork/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/patchwork/)*

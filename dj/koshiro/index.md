@@ -1,14 +1,15 @@
 # KOSHIRO
 
-KOSHIRO is a Techno and Trance artist with 2 upcoming club dates listed on soundcheck as of Tue, 28 Jul 2026, next at MIDNIGHT EAST, Tokyo on Fri, 31 Jul 2026.
+KOSHIRO is a Techno and Trance artist with 3 upcoming club dates listed on soundcheck as of Wed, 29 Jul 2026, next at MIDNIGHT EAST, Tokyo on Fri, 31 Jul 2026.
 
-KOSHIRO is a techno and trance artist based in Japan, tracked on soundcheck, with 47 sets logged across Osaka and Tokyo. Often billed alongside YANNY (1), Lynta and AI (10). Next up: MIDNIGHT EAST, Tokyo on Fri 31 Jul.
+KOSHIRO is a techno and trance artist based in Japan, tracked on soundcheck, with 48 sets logged across Osaka and Tokyo. Often billed alongside YANNY (1), Lynta and AI (10). Next up: MIDNIGHT EAST, Tokyo on Fri 31 Jul.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 31 Jul 2026 | MIDNIGHT EAST | Tokyo |
+| Sat, 8 Aug 2026 | Oath | Tokyo |
 | Mon, 10 Aug 2026 | ZEROTOKYO | Tokyo |
 
 ## Recently played
@@ -26,4 +27,4 @@ KOSHIRO is a techno and trance artist based in Japan, tracked on soundcheck, wit
 
 YANNY (1), Lynta, AI (10)
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/koshiro/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/koshiro/)*

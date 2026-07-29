@@ -1,6 +1,6 @@
 # Karlos (2)
 
-Karlos (2) is a Techno and Breakbeat artist with 1 upcoming club date listed on soundcheck as of Tue, 28 Jul 2026, next at B2 Rīga, Riga on Fri, 31 Jul 2026.
+Karlos (2) is a Techno and Breakbeat artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at B2 Rīga, Riga on Fri, 31 Jul 2026.
 
 Karlos (2) is a techno and breakbeat artist based in Netherlands, tracked on soundcheck, with 6 sets logged across Brussels and Riga. Often billed alongside Pulss, Slepe and Aeden (1). Next up: B2 Rīga, Riga on Fri 31 Jul.
 
@@ -22,4 +22,4 @@ Karlos (2) is a techno and breakbeat artist based in Netherlands, tracked on sou
 
 Pulss, Slepe, Aeden (1)
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/karlos-2/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/karlos-2/)*

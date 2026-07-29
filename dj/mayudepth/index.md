@@ -1,6 +1,6 @@
 # MAYUDEPTH
 
-MAYUDEPTH is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Tue, 28 Jul 2026, next at clubasia, Tokyo on Fri, 21 Aug 2026.
+MAYUDEPTH is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at clubasia, Tokyo on Fri, 21 Aug 2026.
 
 MAYUDEPTH is a techno and house artist tracked on soundcheck, with 111 sets logged across Berlin, Hongkong, Kyoto and London and 4 more. Often billed alongside XINOVI, the2$ and Golpe Mortal. Next up: clubasia, Tokyo on Fri 21 Aug.
 
@@ -25,4 +25,4 @@ MAYUDEPTH is a techno and house artist tracked on soundcheck, with 111 sets logg
 
 XINOVI, the2$, Golpe Mortal
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/mayudepth/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/mayudepth/)*

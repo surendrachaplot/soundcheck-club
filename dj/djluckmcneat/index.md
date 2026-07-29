@@ -1,6 +1,6 @@
 # DJ Luck & MC Neat
 
-DJ Luck & MC Neat is a Garage and Pop artist with 1 upcoming club date listed on soundcheck as of Tue, 28 Jul 2026, next at Between The Bridges, London on Sat, 22 Aug 2026.
+DJ Luck & MC Neat is a Garage and Pop artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at Between The Bridges, London on Sat, 22 Aug 2026.
 
 DJ Luck & MC Neat are a garage and pop duo based in United Kingdom, tracked on soundcheck, with 35 sets logged across Amsterdam, Birmingham, Leeds and London and 1 more. Often billed alongside Artful Dodger, MC Kie and Kele Le Roc. Next up: Between The Bridges, London on Sat 22 Aug.
 
@@ -25,4 +25,4 @@ DJ Luck & MC Neat are a garage and pop duo based in United Kingdom, tracked on s
 
 Artful Dodger, MC Kie, Kele Le Roc
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/djluckmcneat/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/djluckmcneat/)*

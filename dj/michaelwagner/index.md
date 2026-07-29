@@ -1,6 +1,6 @@
 # Michael Wagner
 
-Michael Wagner is a House and Deep House artist with 2 upcoming club dates listed on soundcheck as of Tue, 28 Jul 2026, next at Level 8 DTLA, Los Angeles on Fri, 31 Jul 2026.
+Michael Wagner is a House and Deep House artist with 2 upcoming club dates listed on soundcheck as of Wed, 29 Jul 2026, next at Level 8 DTLA, Los Angeles on Fri, 31 Jul 2026.
 
 Michael Wagner is a house and deep house artist based in Austria, tracked on soundcheck, with 12 sets logged across Berlin, Hamburg, Losangeles and Manchester and 1 more. Often billed alongside Stipo, Fabiano José and IZZA (SI). Next up: Level 8 DTLA, Losangeles on Fri 31 Jul.
 
@@ -26,4 +26,4 @@ Michael Wagner is a house and deep house artist based in Austria, tracked on sou
 
 Stipo, Fabiano José, IZZA (SI)
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/michaelwagner/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/michaelwagner/)*

@@ -1,6 +1,6 @@
 # Ken Cloud
 
-Ken Cloud is a Deep House and House artist with 1 upcoming club date listed on soundcheck as of Tue, 28 Jul 2026, next at Portugal Madeira Club, Sydney on Sat, 1 Aug 2026.
+Ken Cloud is a Deep House and House artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at Portugal Madeira Club, Sydney on Sat, 1 Aug 2026.
 
 Ken Cloud is a deep house and house artist based in Australia, tracked on soundcheck, with 8 sets logged across Sydney. Often billed alongside Simon Caldwell, Alfa Mist and Autogenesis. Next up: Portugal Madeira Club, Sydney on Sat 1 Aug.
 
@@ -24,4 +24,4 @@ Ken Cloud is a deep house and house artist based in Australia, tracked on soundc
 
 Simon Caldwell, Alfa Mist, Autogenesis
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/kencloud/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/kencloud/)*

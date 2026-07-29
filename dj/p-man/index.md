@@ -1,6 +1,6 @@
 # P-Man
 
-P-Man is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 28 Jul 2026, next at Mitsuki, Tokyo on Fri, 31 Jul 2026.
+P-Man is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at Mitsuki, Tokyo on Fri, 31 Jul 2026.
 
 P-Man is a house and techno artist based in United Kingdom, tracked on soundcheck, with 12 sets logged across Leeds, London, Mexicocity and Tokyo. Often billed alongside Bruno Schmidt, Emerald and Bastard Love. Next up: Mitsuki, Tokyo on Fri 31 Jul.
 
@@ -25,4 +25,4 @@ P-Man is a house and techno artist based in United Kingdom, tracked on soundchec
 
 Bruno Schmidt, Emerald, Bastard Love
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/p-man/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/p-man/)*

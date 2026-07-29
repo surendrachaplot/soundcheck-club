@@ -1,6 +1,6 @@
 # JED (ZA)
 
-JED (ZA) is a Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 28 Jul 2026, next at Fvtvr, Paris on Sat, 8 Aug 2026.
+JED (ZA) is a Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at Fvtvr, Paris on Sat, 8 Aug 2026.
 
 JED (ZA) is a techno artist based in South Africa, tracked on soundcheck, with 2 sets logged across Berlin and Paris. Often billed alongside Amotik, B. Ashra and Deano. Next up: Fvtvr, Paris on Sat 8 Aug.
 
@@ -18,4 +18,4 @@ JED (ZA) is a techno artist based in South Africa, tracked on soundcheck, with 2
 
 Amotik, B. Ashra, Deano
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/jed-za/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/jed-za/)*

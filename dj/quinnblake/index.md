@@ -1,6 +1,6 @@
 # Quinn Blake
 
-Quinn Blake is a Baile Funk and Reggaeton artist with 1 upcoming club date listed on soundcheck as of Tue, 28 Jul 2026, next at TBA - Hollywood Park adjacent to SoFi Stadium, Los Angeles on Sat, 1 Aug 2026.
+Quinn Blake is a Baile Funk and Reggaeton artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at TBA - Hollywood Park adjacent to SoFi Stadium, Los Angeles on Sat, 1 Aug 2026.
 
 Quinn Blake is a baile funk and reggaeton artist based in United States of America, tracked on soundcheck, with 17 sets logged across Losangeles and Sandiego. Often billed alongside Cquestt, DINABN and Mez Monty. Next up: TBA - Hollywood Park adjacent to SoFi Stadium, Losangeles on Sat 1 Aug.
 
@@ -25,4 +25,4 @@ Quinn Blake is a baile funk and reggaeton artist based in United States of Ameri
 
 Cquestt, DINABN, Mez Monty
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/quinnblake/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/quinnblake/)*

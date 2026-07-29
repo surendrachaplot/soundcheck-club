@@ -1,6 +1,6 @@
 # Alex Vieira
 
-Alex Vieira is a Disco and House artist with 2 upcoming club dates listed on soundcheck as of Tue, 28 Jul 2026, next at Music Room, Melbourne on Thu, 30 Jul 2026.
+Alex Vieira is a Disco and House artist with 2 upcoming club dates listed on soundcheck as of Wed, 29 Jul 2026, next at Music Room, Melbourne on Thu, 30 Jul 2026.
 
 Alex Vieira is a disco and house artist based in Portugal, tracked on soundcheck, with 8 sets logged across Melbourne and Sydney. Often billed alongside Inkswel, Edseven and Landscapes. Next up: Music Room, Melbourne on Thu 30 Jul.
 
@@ -24,4 +24,4 @@ Alex Vieira is a disco and house artist based in Portugal, tracked on soundcheck
 
 Inkswel, Edseven, Landscapes
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/alexvieira/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/alexvieira/)*

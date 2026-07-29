@@ -1,6 +1,6 @@
 # LØST
 
-LØST is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Tue, 28 Jul 2026, next at WOMB, Tokyo on Sat, 15 Aug 2026.
+LØST is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at WOMB, Tokyo on Sat, 15 Aug 2026.
 
 LØST is a techno and trance artist based in Japan, tracked on soundcheck, with 73 sets logged across Tokyo. Often billed alongside savezearth, TEI TEI and comm. Next up: WOMB, Tokyo on Sat 15 Aug.
 
@@ -25,4 +25,4 @@ LØST is a techno and trance artist based in Japan, tracked on soundcheck, with 
 
 savezearth, TEI TEI, comm
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/lost-jp/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/lost-jp/)*

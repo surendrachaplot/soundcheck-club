@@ -1,8 +1,8 @@
 # CYBERHACKSYSTEM
 
-CYBERHACKSYSTEM is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Tue, 28 Jul 2026, next at clubasia, Tokyo on Wed, 29 Jul 2026.
+CYBERHACKSYSTEM is a Techno and House artist with 4 upcoming club dates listed on soundcheck as of Wed, 29 Jul 2026, next at clubasia, Tokyo on Wed, 29 Jul 2026.
 
-CYBERHACKSYSTEM is a techno and house artist tracked on soundcheck, with 67 sets logged across Osaka, Seoul and Tokyo. Often billed alongside ecec, HIMAWARI and JUN INAGAWA. Next up: clubasia, Tokyo on Wed 29 Jul.
+CYBERHACKSYSTEM is a techno and house artist tracked on soundcheck, with 68 sets logged across Osaka, Seoul and Tokyo. Often billed alongside ecec, HIMAWARI and JUN INAGAWA. Next up: clubasia, Tokyo on Wed 29 Jul.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ CYBERHACKSYSTEM is a techno and house artist tracked on soundcheck, with 67 sets
 | --- | --- | --- |
 | Wed, 29 Jul 2026 | clubasia | Tokyo |
 | Mon, 3 Aug 2026 | Enter Shibuya | Tokyo |
+| Tue, 4 Aug 2026 | 不眠遊戯ライオン - Music Bar Lion | Tokyo |
 | Sat, 15 Aug 2026 | clubasia | Tokyo |
 
 ## Recently played
@@ -27,4 +28,4 @@ CYBERHACKSYSTEM is a techno and house artist tracked on soundcheck, with 67 sets
 
 ecec, HIMAWARI, JUN INAGAWA
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/cyberhacksystem/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/cyberhacksystem/)*

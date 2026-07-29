@@ -1,6 +1,6 @@
 # Daniel Bukara
 
-Daniel Bukara is a House and Classical artist with 1 upcoming club date listed on soundcheck as of Tue, 28 Jul 2026, next at Fünk, Mexico City on Thu, 30 Jul 2026.
+Daniel Bukara is a House and Classical artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at Fünk, Mexico City on Thu, 30 Jul 2026.
 
 Daniel Bukara is a house and classical artist based in Mexico, tracked on soundcheck, with 2 sets logged across Mexicocity. Often billed alongside Harfush, Rubinskee and Alexis Yasky. Next up: Fünk, Mexicocity on Thu 30 Jul.
 
@@ -18,4 +18,4 @@ Daniel Bukara is a house and classical artist based in Mexico, tracked on soundc
 
 Harfush, Rubinskee, Alexis Yasky
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/danielbukara/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/danielbukara/)*

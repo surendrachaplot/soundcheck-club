@@ -1,6 +1,6 @@
 # Kazumichi Komatsu
 
-Kazumichi Komatsu is a Club and Ambient artist with 1 upcoming club date listed on soundcheck as of Tue, 28 Jul 2026, next at BnA Alter Museum, Kyoto on Sat, 1 Aug 2026.
+Kazumichi Komatsu is a Club and Ambient artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at BnA Alter Museum, Kyoto on Sat, 1 Aug 2026.
 
 Kazumichi Komatsu is a club and ambient artist based in Japan, tracked on soundcheck, with 33 sets logged across Kyoto, Osaka, Seoul and Tokyo. Often billed alongside Whatman, Le Makeup and Vís (1). Next up: BnA Alter Museum, Kyoto on Sat 1 Aug.
 
@@ -25,4 +25,4 @@ Kazumichi Komatsu is a club and ambient artist based in Japan, tracked on soundc
 
 Whatman, Le Makeup, Vís (1)
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/kazumichikomatsu/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/kazumichikomatsu/)*

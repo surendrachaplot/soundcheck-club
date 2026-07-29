@@ -1,6 +1,6 @@
 # LOUVE (DE)
 
-LOUVE (DE) is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Tue, 28 Jul 2026, next at Schrotty, Cologne on Sat, 8 Aug 2026.
+LOUVE (DE) is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at Schrotty, Cologne on Sat, 8 Aug 2026.
 
 LOUVE (DE) is a techno and trance artist based in Germany, tracked on soundcheck, with 19 sets logged across Berlin, Cologne and Dusseldorf. Often billed alongside HWRD, HUELLE and Amilli. Next up: Schrotty, Cologne on Sat 8 Aug.
 
@@ -25,4 +25,4 @@ LOUVE (DE) is a techno and trance artist based in Germany, tracked on soundcheck
 
 HWRD, HUELLE, Amilli
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/louve-de/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/louve-de/)*

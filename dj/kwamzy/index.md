@@ -1,6 +1,6 @@
 # Kwamzy
 
-Kwamzy is a Afrobeats and Afro House artist with 2 upcoming club dates listed on soundcheck as of Tue, 28 Jul 2026, next at The Jazz Cafe, London on Fri, 7 Aug 2026.
+Kwamzy is a Afrobeats and Afro House artist with 2 upcoming club dates listed on soundcheck as of Wed, 29 Jul 2026, next at The Jazz Cafe, London on Fri, 7 Aug 2026.
 
 Kwamzy is an afrobeats and afro house artist based in United Kingdom, tracked on soundcheck, with 20 sets logged across London and Toronto. Often billed alongside DJ Kwamzy, Golden Lady and Duo. Next up: The Jazz Cafe, London on Fri 7 Aug.
 
@@ -26,4 +26,4 @@ Kwamzy is an afrobeats and afro house artist based in United Kingdom, tracked on
 
 DJ Kwamzy, Golden Lady, Duo
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/kwamzy/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/kwamzy/)*

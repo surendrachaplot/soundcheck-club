@@ -1,6 +1,6 @@
 # Aloetic
 
-Aloetic is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Tue, 28 Jul 2026, next at ZEROTOKYO, Tokyo on Fri, 31 Jul 2026.
+Aloetic is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at ZEROTOKYO, Tokyo on Fri, 31 Jul 2026.
 
 Aloetic is a techno and house artist based in Japan, tracked on soundcheck, with 8 sets logged across Tokyo. Often billed alongside DALJAE, YOXIKI and ceza. Next up: ZEROTOKYO, Tokyo on Fri 31 Jul.
 
@@ -24,4 +24,4 @@ Aloetic is a techno and house artist based in Japan, tracked on soundcheck, with
 
 DALJAE, YOXIKI, ceza
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/aloetic/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/aloetic/)*

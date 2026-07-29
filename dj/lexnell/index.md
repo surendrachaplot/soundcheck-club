@@ -1,6 +1,6 @@
 # Lex Nell
 
-Lex Nell is a Electronica and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 28 Jul 2026, next at TRANSMISSION DC, Washington DC on Fri, 31 Jul 2026.
+Lex Nell is a Electronica and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at TRANSMISSION DC, Washington DC on Fri, 31 Jul 2026.
 
 Lex Nell is an electronica and techno artist based in United States of America, tracked on soundcheck, with 1 set logged across Washingtondc. Often billed alongside Alexandre Docouto, DJ Dextro and Solidare. Next up: TRANSMISSION DC, Washingtondc on Fri 31 Jul.
 
@@ -14,4 +14,4 @@ Lex Nell is an electronica and techno artist based in United States of America, 
 
 Alexandre Docouto, DJ Dextro, Solidare
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/lexnell/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/lexnell/)*

@@ -1,6 +1,6 @@
 # Cortese
 
-Cortese is a Garage and House artist with 1 upcoming club date listed on soundcheck as of Tue, 28 Jul 2026, next at Dream Bags Jaguar Shoes, London on Fri, 31 Jul 2026.
+Cortese is a Garage and House artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at Dream Bags Jaguar Shoes, London on Fri, 31 Jul 2026.
 
 Cortese is a garage and house artist based in United Kingdom, tracked on soundcheck, with 14 sets logged across Amsterdam, Brighton, Cardiff and London and 2 more. Often billed alongside Just Her, Bop and Sattam. Next up: Dream Bags Jaguar Shoes, London on Fri 31 Jul.
 
@@ -25,4 +25,4 @@ Cortese is a garage and house artist based in United Kingdom, tracked on soundch
 
 Just Her, Bop, Sattam
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/cortese/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/cortese/)*

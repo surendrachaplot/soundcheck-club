@@ -1,6 +1,6 @@
 # Miluhska
 
-Miluhska is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Tue, 28 Jul 2026, next at TBA - Hollywood Park adjacent to SoFi Stadium, Los Angeles on Sat, 1 Aug 2026.
+Miluhska is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at TBA - Hollywood Park adjacent to SoFi Stadium, Los Angeles on Sat, 1 Aug 2026.
 
 Miluhska is a house and tech house artist tracked on soundcheck, with 64 sets logged across Austin, Barcelona, Boston and Buenosaires and 9 more. Often billed alongside Bedouin, Jamie Jones and Max Stern. Next up: TBA - Hollywood Park adjacent to SoFi Stadium, Losangeles on Sat 1 Aug.
 
@@ -25,4 +25,4 @@ Miluhska is a house and tech house artist tracked on soundcheck, with 64 sets lo
 
 Bedouin, Jamie Jones, Max Stern
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/miluhska/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/miluhska/)*

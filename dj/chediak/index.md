@@ -1,6 +1,6 @@
 # Chediak
 
-Chediak is a Baile Funk and Garage artist with 1 upcoming club date listed on soundcheck as of Tue, 28 Jul 2026, next at Bonobo, Tokyo on Sat, 1 Aug 2026.
+Chediak is a Baile Funk and Garage artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at Bonobo, Tokyo on Sat, 1 Aug 2026.
 
 Chediak is a baile funk and garage artist based in Brazil, tracked on soundcheck, with 14 sets logged across Barcelona, Berlin, Lisbon and London and 4 more. Often billed alongside Crosstalk (BR), ANTCONSTANTINO and ceza. Next up: Bonobo, Tokyo on Sat 1 Aug.
 
@@ -25,4 +25,4 @@ Chediak is a baile funk and garage artist based in Brazil, tracked on soundcheck
 
 Crosstalk (BR), ANTCONSTANTINO, ceza
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/chediak/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/chediak/)*

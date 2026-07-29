@@ -1,6 +1,6 @@
 # Larry G
 
-Larry G is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Tue, 28 Jul 2026, next at Badaboum, Paris on Sat, 1 Aug 2026.
+Larry G is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at Badaboum, Paris on Sat, 1 Aug 2026.
 
 Larry G is a house and disco artist based in France, tracked on soundcheck, with 59 sets logged across Amsterdam, Athens, Barcelona and Copenhagen and 4 more. Often billed alongside Chinau, Knuckle G and Dielli. Next up: Badaboum, Paris on Sat 1 Aug.
 
@@ -25,4 +25,4 @@ Larry G is a house and disco artist based in France, tracked on soundcheck, with
 
 Chinau, Knuckle G, Dielli
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/larryg/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/larryg/)*

@@ -1,6 +1,6 @@
 # Alex Bohemien
 
-Alex Bohemien is a Tech House and House artist with 1 upcoming club date listed on soundcheck as of Tue, 28 Jul 2026, next at Dunes, Ibiza on Wed, 29 Jul 2026.
+Alex Bohemien is a Tech House and House artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at Dunes, Ibiza on Wed, 29 Jul 2026.
 
 Alex Bohemien is a tech house and house artist tracked on soundcheck, with 53 sets logged across Amsterdam, Barcelona, Ibiza and London and 2 more. Often billed alongside Key Eff, Broosk and Redical. Next up: Dunes, Ibiza on Wed 29 Jul.
 
@@ -25,4 +25,4 @@ Alex Bohemien is a tech house and house artist tracked on soundcheck, with 53 se
 
 Key Eff, Broosk, Redical
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/alexbohemien/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/alexbohemien/)*

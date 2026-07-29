@@ -1,6 +1,6 @@
 # Mission Architect
 
-Mission Architect is a Minimal and Disco artist with 1 upcoming club date listed on soundcheck as of Tue, 28 Jul 2026, next at KABUL à GoGo, Utrecht on Sat, 8 Aug 2026.
+Mission Architect is a Minimal and Disco artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at KABUL à GoGo, Utrecht on Sat, 8 Aug 2026.
 
 Mission Architect is a minimal and disco artist based in Austria, tracked on soundcheck, with 6 sets logged across Amsterdam, Utrecht and Vienna. Often billed alongside Nicola Piva, AnnaM (NL) and Be.a.son. Next up: KABUL à GoGo, Utrecht on Sat 8 Aug.
 
@@ -22,4 +22,4 @@ Mission Architect is a minimal and disco artist based in Austria, tracked on sou
 
 Nicola Piva, AnnaM (NL), Be.a.son
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/missionarchitect/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/missionarchitect/)*

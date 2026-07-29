@@ -1,6 +1,6 @@
 # B-TUR (2)
 
-B-TUR (2) is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Tue, 28 Jul 2026, next at TBA - Peißnitzinsel Halle, Leipzig on Sat, 1 Aug 2026.
+B-TUR (2) is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at TBA - Peißnitzinsel Halle, Leipzig on Sat, 1 Aug 2026.
 
 B-TUR (2) is a techno and trance artist based in Germany, tracked on soundcheck, with 7 sets logged across Leipzig. Often billed alongside MLDC, VLUNA and ESCALEA. Next up: TBA - Peißnitzinsel Halle, Leipzig on Sat 1 Aug.
 
@@ -23,4 +23,4 @@ B-TUR (2) is a techno and trance artist based in Germany, tracked on soundcheck,
 
 MLDC, VLUNA, ESCALEA
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/b-tur-2/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/b-tur-2/)*

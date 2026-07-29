@@ -1,6 +1,6 @@
 # Philipp Fein
 
-Philipp Fein is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Tue, 28 Jul 2026, next at Fridas Pier, Stuttgart on Sat, 8 Aug 2026.
+Philipp Fein is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at Fridas Pier, Stuttgart on Sat, 8 Aug 2026.
 
 Philipp Fein is a techno and house artist based in Germany, tracked on soundcheck, with 36 sets logged across Berlin, Cologne, Stuttgart and Vienna. Often billed alongside keikee, Heimlich Knüller and Martha van Straaten. Next up: Fridas Pier, Stuttgart on Sat 8 Aug.
 
@@ -25,4 +25,4 @@ Philipp Fein is a techno and house artist based in Germany, tracked on soundchec
 
 keikee, Heimlich Knüller, Martha van Straaten
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/philippfein/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/philippfein/)*

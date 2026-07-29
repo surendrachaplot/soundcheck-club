@@ -1,6 +1,6 @@
 # Chemical Adam
 
-Chemical Adam is a Experimental and Electronica artist with 1 upcoming club date listed on soundcheck as of Tue, 28 Jul 2026, next at Lauschangriff, Berlin on Thu, 30 Jul 2026.
+Chemical Adam is a Experimental and Electronica artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at Lauschangriff, Berlin on Thu, 30 Jul 2026.
 
 Chemical Adam is an experimental and electronica artist based in United Kingdom, tracked on soundcheck, with 3 sets logged across Berlin. Often billed alongside Hellotrip, Mars Vertigo and Milosin. Next up: Lauschangriff, Berlin on Thu 30 Jul.
 
@@ -19,4 +19,4 @@ Chemical Adam is an experimental and electronica artist based in United Kingdom,
 
 Hellotrip, Mars Vertigo, Milosin
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/chemicaladam/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/chemicaladam/)*

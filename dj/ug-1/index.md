@@ -1,18 +1,18 @@
 # UG (1)
 
-UG (1) is a Techno and Experimental artist with 2 upcoming club dates listed on soundcheck as of Tue, 28 Jul 2026, next at Enter Shibuya, Tokyo on Tue, 28 Jul 2026.
+UG (1) is a Techno and Experimental artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at Enter Shibuya, Tokyo on Wed, 5 Aug 2026.
 
-UG (1) is a techno and experimental artist based in Japan, tracked on soundcheck, with 7 sets logged across Seoul and Tokyo. Often billed alongside Sakuma, age (1) and AI (10). Next up: Enter Shibuya, Tokyo on Tue 28 Jul.
+UG (1) is a techno and experimental artist based in Japan, tracked on soundcheck, with 7 sets logged across Seoul and Tokyo. Often billed alongside Sakuma, age (1) and AI (10). Next up: Enter Shibuya, Tokyo on Wed 5 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Tue, 28 Jul 2026 | Enter Shibuya | Tokyo |
 | Wed, 5 Aug 2026 | Enter Shibuya | Tokyo |
 
 ## Recently played
 
+- Enter Shibuya, Tokyo — Tue, 28 Jul 2026
 - Volnost, Seoul — Sat, 25 Jul 2026
 - Enter Shibuya, Tokyo — Fri, 26 Jun 2026
 - Enter Shibuya, Tokyo — Fri, 12 Jun 2026
@@ -23,4 +23,4 @@ UG (1) is a techno and experimental artist based in Japan, tracked on soundcheck
 
 Sakuma, age (1), AI (10)
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/ug-1/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/ug-1/)*

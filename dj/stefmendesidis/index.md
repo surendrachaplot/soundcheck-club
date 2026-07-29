@@ -1,6 +1,6 @@
 # Stef Mendesidis
 
-Stef Mendesidis is a Techno and House artist with 4 upcoming club dates listed on soundcheck as of Tue, 28 Jul 2026, next at Gianpula Village, Malta on Wed, 12 Aug 2026.
+Stef Mendesidis is a Techno and House artist with 4 upcoming club dates listed on soundcheck as of Wed, 29 Jul 2026, next at Gianpula Village, Malta on Wed, 12 Aug 2026.
 
 Stef Mendesidis is a techno and house artist tracked on soundcheck, with 138 sets logged across Amsterdam, Athens, Barcelona and Belgrade and 41 more. Often billed alongside DAX J, Nastia and SHDW. Next up: Gianpula Village, Malta on Wed 12 Aug.
 
@@ -28,4 +28,4 @@ Stef Mendesidis is a techno and house artist tracked on soundcheck, with 138 set
 
 DAX J, Nastia, SHDW
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/stefmendesidis/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/stefmendesidis/)*

@@ -1,6 +1,6 @@
 # DJ SWISHERMAN
 
-DJ SWISHERMAN is a Techno and House artist with 7 upcoming club dates listed on soundcheck as of Tue, 28 Jul 2026, next at Else, Berlin on Fri, 31 Jul 2026.
+DJ SWISHERMAN is a Techno and House artist with 7 upcoming club dates listed on soundcheck as of Wed, 29 Jul 2026, next at Else, Berlin on Fri, 31 Jul 2026.
 
 DJ SWISHERMAN is a techno and house artist tracked on soundcheck, with 114 sets logged across Amsterdam, Antwerp, Barcelona and Belfast and 27 more. Often billed alongside Gerardo Niva, Benwal and EliaHaze. Next up: Else, Berlin on Fri 31 Jul.
 
@@ -31,4 +31,4 @@ DJ SWISHERMAN is a techno and house artist tracked on soundcheck, with 114 sets 
 
 Gerardo Niva, Benwal, EliaHaze
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/djswisherman/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/djswisherman/)*

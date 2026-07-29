@@ -1,6 +1,6 @@
 # Ponygirl
 
-Ponygirl is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Tue, 28 Jul 2026, next at Else, Berlin on Fri, 7 Aug 2026.
+Ponygirl is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Wed, 29 Jul 2026, next at Else, Berlin on Fri, 7 Aug 2026.
 
 Ponygirl is a techno and house artist based in Germany, tracked on soundcheck, with 47 sets logged across Berlin, Brussels, Cologne and Copenhagen and 4 more. Often billed alongside Sylvie Maziarz, alemiko and BAUGRUPPE90. Next up: Else, Berlin on Fri 7 Aug.
 
@@ -26,4 +26,4 @@ Ponygirl is a techno and house artist based in Germany, tracked on soundcheck, w
 
 Sylvie Maziarz, alemiko, BAUGRUPPE90
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/ponygirl/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/ponygirl/)*

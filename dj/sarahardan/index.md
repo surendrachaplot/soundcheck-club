@@ -1,6 +1,6 @@
 # Sara Hardan
 
-Sara Hardan is a Disco and House artist with 1 upcoming club date listed on soundcheck as of Tue, 28 Jul 2026, next at Nocturna, Ibiza on Wed, 29 Jul 2026.
+Sara Hardan is a Disco and House artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at Nocturna, Ibiza on Wed, 29 Jul 2026.
 
 Sara Hardan is a disco and house artist based in Lebanon, tracked on soundcheck, with 2 sets logged across Ibiza and Naples. Often billed alongside Byron Yeates, Inès Rau and Regularfantasy. Next up: Nocturna, Ibiza on Wed 29 Jul.
 
@@ -18,4 +18,4 @@ Sara Hardan is a disco and house artist based in Lebanon, tracked on soundcheck,
 
 Byron Yeates, Inès Rau, Regularfantasy
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/sarahardan/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/sarahardan/)*

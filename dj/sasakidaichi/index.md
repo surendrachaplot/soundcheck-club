@@ -1,6 +1,6 @@
 # Sasaki Daichi
 
-Sasaki Daichi is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 28 Jul 2026, next at Oath, Tokyo on Wed, 29 Jul 2026.
+Sasaki Daichi is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at Oath, Tokyo on Wed, 29 Jul 2026.
 
 Sasaki Daichi is a house and techno artist based in Japan, tracked on soundcheck, with 24 sets logged across Tokyo. Often billed alongside Rikuto, hiroto yano and DSKE. Next up: Oath, Tokyo on Wed 29 Jul.
 
@@ -25,4 +25,4 @@ Sasaki Daichi is a house and techno artist based in Japan, tracked on soundcheck
 
 Rikuto, hiroto yano, DSKE
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/sasakidaichi/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/sasakidaichi/)*

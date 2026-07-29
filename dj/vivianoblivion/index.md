@@ -1,6 +1,6 @@
 # Vivian Oblivion
 
-Vivian Oblivion is a Techno and Club artist with 2 upcoming club dates listed on soundcheck as of Tue, 28 Jul 2026, next at TRANSMISSION DC, Washington DC on Thu, 30 Jul 2026.
+Vivian Oblivion is a Techno and Club artist with 2 upcoming club dates listed on soundcheck as of Wed, 29 Jul 2026, next at TRANSMISSION DC, Washington DC on Thu, 30 Jul 2026.
 
 Vivian Oblivion is a techno and club artist based in United States of America, tracked on soundcheck, with 34 sets logged across Washingtondc. Often billed alongside Mrs. Qbert, Solidare and Franxx. Next up: TRANSMISSION DC, Washingtondc on Thu 30 Jul.
 
@@ -26,4 +26,4 @@ Vivian Oblivion is a techno and club artist based in United States of America, t
 
 Mrs. Qbert, Solidare, Franxx
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/vivianoblivion/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/vivianoblivion/)*

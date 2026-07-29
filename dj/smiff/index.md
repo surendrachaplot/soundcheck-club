@@ -1,6 +1,6 @@
 # Smiff
 
-Smiff is a Bass and Breakbeat artist with 1 upcoming club date listed on soundcheck as of Tue, 28 Jul 2026, next at TBA - Edinburgh, Edinburgh on Fri, 7 Aug 2026.
+Smiff is a Bass and Breakbeat artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at TBA - Edinburgh, Edinburgh on Fri, 7 Aug 2026.
 
 Smiff is a bass and breakbeat artist based in United Kingdom, tracked on soundcheck, with 138 sets logged across Aberdeen, Athens, Berlin and Bristol and 3 more. Often billed alongside JI_2001, Wrisk and Sea Urchin. Next up: TBA - Edinburgh, Edinburgh on Fri 7 Aug.
 
@@ -25,4 +25,4 @@ Smiff is a bass and breakbeat artist based in United Kingdom, tracked on soundch
 
 JI_2001, Wrisk, Sea Urchin
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/smiff/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/smiff/)*

@@ -1,6 +1,6 @@
 # Wesley Wise
 
-Wesley Wise is a Electro and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 28 Jul 2026, next at KHIDI, Tbilisi on Fri, 31 Jul 2026.
+Wesley Wise is a Electro and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at KHIDI, Tbilisi on Fri, 31 Jul 2026.
 
 Wesley Wise is an electro and techno artist tracked on soundcheck, with 69 sets logged across Berlin and Tbilisi. Often billed alongside Sportsmanship, Dali (GE) and Esi (De Re). Next up: KHIDI, Tbilisi on Fri 31 Jul.
 
@@ -25,4 +25,4 @@ Wesley Wise is an electro and techno artist tracked on soundcheck, with 69 sets 
 
 Sportsmanship, Dali (GE), Esi (De Re)
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/wesleywise/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/wesleywise/)*

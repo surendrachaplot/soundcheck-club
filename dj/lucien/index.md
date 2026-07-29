@@ -1,6 +1,6 @@
 # Lucien
 
-Lucien is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 28 Jul 2026, next at Zsiráf, Budapest on Sat, 1 Aug 2026.
+Lucien is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at Zsiráf, Budapest on Sat, 1 Aug 2026.
 
 Lucien is a house and techno artist based in United Kingdom, tracked on soundcheck, with 21 sets logged across Amsterdam, Barcelona, Budapest and Lyon and 2 more. Often billed alongside Justrice, Davko and Coeus. Next up: Zsiráf, Budapest on Sat 1 Aug.
 
@@ -25,4 +25,4 @@ Lucien is a house and techno artist based in United Kingdom, tracked on soundche
 
 Justrice, Davko, Coeus
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/lucien/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/lucien/)*

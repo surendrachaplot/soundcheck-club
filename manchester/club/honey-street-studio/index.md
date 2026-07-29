@@ -1,8 +1,8 @@
 # Honey Street Studio
 
-Honey Street Studio is a music venue in Manchester with 9 upcoming nights listed on soundcheck as of Tue, 28 Jul 2026; the next is "DAT_URA 002: Progressive House, Techno, Trance" on Fri, 31 Jul 2026.
+Honey Street Studio is a music venue in Manchester with 10 upcoming nights listed on soundcheck as of Wed, 29 Jul 2026; the next is "DAT_URA 002: Progressive House, Techno, Trance" on Fri, 31 Jul 2026.
 
-Honey Street Studio is a music venue in Manchester listed on soundcheck. 9 upcoming nights, with line-ups including Admin, Anop, chlo333e and Deventi and 2 more. Browse upcoming dates, start times and who's playing. Honey St, Cheetham Hill, Manchester M8 8RG.
+Honey Street Studio is a music venue in Manchester listed on soundcheck. 10 upcoming nights, with line-ups including Admin, Anop, chlo333e and Deventi and 2 more. Browse upcoming dates, start times and who's playing. Honey St, Cheetham Hill, Manchester M8 8RG.
 
 ## What's on
 
@@ -16,10 +16,11 @@ Honey Street Studio is a music venue in Manchester listed on soundcheck. 9 upcom
 | Fri, 21 Aug 2026 | DREAMLAND X GIRLCORE | Anop, Hollyamorous, MintJuulPod, Triff (2), chlo333e, fUnlistenable |
 | Sat, 22 Aug 2026 | And Beyond // Adhesive Audio presents Eden Burns, Giorja, Sookie & Ultrasonic Future Outlaw | Eden Burns, Sookie (3) |
 | Sat, 29 Aug 2026 | MSM AUDIO // BANK HOLIDAY SUMMER SPECIAL |  |
+| Sat, 5 Sept 2026 | Revamp x senses |  |
 | Sat, 12 Sept 2026 | Outside Looking In #007 | Deventi, Girlfriend, Max Ctrl, skywalka |
 
 ## Address
 
 Honey St, Cheetham Hill, Manchester M8 8RG, Manchester
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/manchester/club/honey-street-studio/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/manchester/club/honey-street-studio/)*

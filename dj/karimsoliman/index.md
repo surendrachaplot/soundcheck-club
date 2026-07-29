@@ -1,6 +1,6 @@
 # Karim Soliman
 
-Karim Soliman is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Tue, 28 Jul 2026, next at Boomerang Beach, The Hague on Sun, 23 Aug 2026.
+Karim Soliman is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at Boomerang Beach, The Hague on Sun, 23 Aug 2026.
 
 Karim Soliman is a house and tech house artist tracked on soundcheck, with 61 sets logged across Amsterdam, Barcelona, Paris and Rotterdam and 2 more. Often billed alongside Benny Rodrigues, MENESIX and Michel de Hey. Next up: Boomerang Beach, Thehague on Sun 23 Aug.
 
@@ -25,4 +25,4 @@ Karim Soliman is a house and tech house artist tracked on soundcheck, with 61 se
 
 Benny Rodrigues, MENESIX, Michel de Hey
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/karimsoliman/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/karimsoliman/)*

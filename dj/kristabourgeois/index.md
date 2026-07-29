@@ -1,6 +1,6 @@
 # Krista Bourgeois
 
-Krista Bourgeois is a Techno and Industrial artist with 1 upcoming club date listed on soundcheck as of Tue, 28 Jul 2026, next at Levenslang Amsterdam, Amsterdam on Sat, 1 Aug 2026.
+Krista Bourgeois is a Techno and Industrial artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at Levenslang Amsterdam, Amsterdam on Sat, 1 Aug 2026.
 
 Krista Bourgeois is a techno and industrial artist tracked on soundcheck, with 47 sets logged across Amsterdam, Antwerp, Berlin and Brussels and 19 more. Often billed alongside Thrasher, Manu Le Malin and Kilbourne. Next up: Levenslang Amsterdam, Amsterdam on Sat 1 Aug.
 
@@ -25,4 +25,4 @@ Krista Bourgeois is a techno and industrial artist tracked on soundcheck, with 4
 
 Thrasher, Manu Le Malin, Kilbourne
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/kristabourgeois/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/kristabourgeois/)*

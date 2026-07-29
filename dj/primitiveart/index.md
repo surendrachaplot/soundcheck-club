@@ -1,6 +1,6 @@
 # Primitive Art
 
-Primitive Art is a Dub Techno and Experimental artist with 1 upcoming club date listed on soundcheck as of Tue, 28 Jul 2026, next at TBA - Apiro, Marche IT, Milan on Thu, 30 Jul 2026.
+Primitive Art is a Dub Techno and Experimental artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at TBA - Apiro, Marche IT, Milan on Thu, 30 Jul 2026.
 
 Primitive Art is a dub techno and experimental artist based in Italy, tracked on soundcheck, with 7 sets logged across Berlin, London, Milan and Zurich. Often billed alongside STILL, AGOSTINO and Al Paino. Next up: TBA - Apiro, Marche IT, Milan on Thu 30 Jul.
 
@@ -23,4 +23,4 @@ Primitive Art is a dub techno and experimental artist based in Italy, tracked on
 
 STILL, AGOSTINO, Al Paino
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/primitiveart/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/primitiveart/)*

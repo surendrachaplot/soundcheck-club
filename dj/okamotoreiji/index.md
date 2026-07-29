@@ -1,8 +1,8 @@
 # OKAMOTO REIJI
 
-OKAMOTO REIJI is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Tue, 28 Jul 2026, next at ZEROTOKYO, Tokyo on Sat, 1 Aug 2026.
+OKAMOTO REIJI is a House and Techno artist with 4 upcoming club dates listed on soundcheck as of Wed, 29 Jul 2026, next at ZEROTOKYO, Tokyo on Sat, 1 Aug 2026.
 
-OKAMOTO REIJI is a house and techno artist based in Japan, tracked on soundcheck, with 47 sets logged across Melbourne, Osaka, Seoul and Sydney and 1 more. Often billed alongside ecec, JUN INAGAWA and CYBERHACKSYSTEM. Next up: ZEROTOKYO, Tokyo on Sat 1 Aug.
+OKAMOTO REIJI is a house and techno artist based in Japan, tracked on soundcheck, with 48 sets logged across Melbourne, Osaka, Seoul and Sydney and 1 more. Often billed alongside ecec, JUN INAGAWA and CYBERHACKSYSTEM. Next up: ZEROTOKYO, Tokyo on Sat 1 Aug.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ OKAMOTO REIJI is a house and techno artist based in Japan, tracked on soundcheck
 | --- | --- | --- |
 | Sat, 1 Aug 2026 | ZEROTOKYO | Tokyo |
 | Mon, 3 Aug 2026 | Enter Shibuya | Tokyo |
+| Tue, 4 Aug 2026 | 不眠遊戯ライオン - Music Bar Lion | Tokyo |
 | Mon, 31 Aug 2026 | Enter Shibuya | Tokyo |
 
 ## Recently played
@@ -27,4 +28,4 @@ OKAMOTO REIJI is a house and techno artist based in Japan, tracked on soundcheck
 
 ecec, JUN INAGAWA, CYBERHACKSYSTEM
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/okamotoreiji/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/okamotoreiji/)*

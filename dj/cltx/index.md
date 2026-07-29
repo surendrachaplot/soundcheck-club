@@ -1,6 +1,6 @@
 # CLTX
 
-CLTX is a Techno and Trance artist with 3 upcoming club dates listed on soundcheck as of Tue, 28 Jul 2026, next at TBA - secret location, Barcelona on Fri, 31 Jul 2026.
+CLTX is a Techno and Trance artist with 3 upcoming club dates listed on soundcheck as of Wed, 29 Jul 2026, next at TBA - secret location, Barcelona on Fri, 31 Jul 2026.
 
 CLTX is a techno and trance artist tracked on soundcheck, with 163 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 48 more. Often billed alongside DYEN, Alignment and Charlie Sparks. Next up: TBA - secret location, Barcelona on Fri 31 Jul.
 
@@ -27,4 +27,4 @@ CLTX is a techno and trance artist tracked on soundcheck, with 163 sets logged a
 
 DYEN, Alignment, Charlie Sparks
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/cltx/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/cltx/)*

@@ -1,6 +1,6 @@
 # Narciss
 
-Narciss is a Techno and House artist with 4 upcoming club dates listed on soundcheck as of Tue, 28 Jul 2026, next at PRST, Vienna on Fri, 31 Jul 2026.
+Narciss is a Techno and House artist with 4 upcoming club dates listed on soundcheck as of Wed, 29 Jul 2026, next at PRST, Vienna on Fri, 31 Jul 2026.
 
 Narciss is a techno and house artist tracked on soundcheck, with 188 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 51 more. Often billed alongside MALUGI, DJ Gigola and Morphena. Next up: PRST, Vienna on Fri 31 Jul.
 
@@ -28,4 +28,4 @@ Narciss is a techno and house artist tracked on soundcheck, with 188 sets logged
 
 MALUGI, DJ Gigola, Morphena
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/narciss-de/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/narciss-de/)*

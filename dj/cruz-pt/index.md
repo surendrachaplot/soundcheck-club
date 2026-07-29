@@ -1,6 +1,6 @@
 # Cruz (PT)
 
-Cruz (PT) is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 28 Jul 2026, next at TBA - Alfagar Prestige - Estrada de Santa Eulalia - Albufeira, Lisbon on Thu, 30 Jul 2026.
+Cruz (PT) is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at TBA - Alfagar Prestige - Estrada de Santa Eulalia - Albufeira, Lisbon on Thu, 30 Jul 2026.
 
 Cruz (PT) is a house and techno artist based in Portugal, tracked on soundcheck, with 77 sets logged across Barcelona, Dublin, Lisbon and London and 2 more. Often billed alongside Kaesar, Ze Salvador and Anah. Next up: TBA - Alfagar Prestige - Estrada de Santa Eulalia - Albufeira, Lisbon on Thu 30 Jul.
 
@@ -25,4 +25,4 @@ Cruz (PT) is a house and techno artist based in Portugal, tracked on soundcheck,
 
 Kaesar, Ze Salvador, Anah
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/cruz-pt/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/cruz-pt/)*

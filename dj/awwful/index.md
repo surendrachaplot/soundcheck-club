@@ -1,6 +1,6 @@
 # Awwful
 
-Awwful is a Pop and Techno artist with 2 upcoming club dates listed on soundcheck as of Tue, 28 Jul 2026, next at Club Soda, Montreal on Sat, 1 Aug 2026.
+Awwful is a Pop and Techno artist with 2 upcoming club dates listed on soundcheck as of Wed, 29 Jul 2026, next at Club Soda, Montreal on Sat, 1 Aug 2026.
 
 Awwful is a pop and techno artist based in Canada, tracked on soundcheck, with 14 sets logged across Montreal and Toronto. Often billed alongside SISI SUPERSTAR, nastygloss and Blue Hawaii. Next up: Club Soda, Montreal on Sat 1 Aug.
 
@@ -26,4 +26,4 @@ Awwful is a pop and techno artist based in Canada, tracked on soundcheck, with 1
 
 SISI SUPERSTAR, nastygloss, Blue Hawaii
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/awwful/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/awwful/)*

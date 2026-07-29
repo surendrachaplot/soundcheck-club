@@ -1,6 +1,6 @@
 # Raef
 
-Raef is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Tue, 28 Jul 2026, next at Sans Soleil, Montreal on Thu, 30 Jul 2026.
+Raef is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at Sans Soleil, Montreal on Thu, 30 Jul 2026.
 
 Raef is a techno and house artist tracked on soundcheck, with 20 sets logged across Birmingham, London and Montreal. Often billed alongside Revstreet, Asha and Fisha. Next up: Sans Soleil, Montreal on Thu 30 Jul.
 
@@ -25,4 +25,4 @@ Raef is a techno and house artist tracked on soundcheck, with 20 sets logged acr
 
 Revstreet, Asha, Fisha
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/raef/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/raef/)*

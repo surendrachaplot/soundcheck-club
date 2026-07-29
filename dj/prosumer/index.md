@@ -1,6 +1,6 @@
 # Prosumer
 
-Prosumer is a House and Techno artist with 9 upcoming club dates listed on soundcheck as of Tue, 28 Jul 2026, next at Trädgården, Stockholm on Fri, 31 Jul 2026.
+Prosumer is a House and Techno artist with 9 upcoming club dates listed on soundcheck as of Wed, 29 Jul 2026, next at Trädgården, Stockholm on Fri, 31 Jul 2026.
 
 Prosumer is a house and techno artist tracked on soundcheck, with 166 sets logged across Amsterdam, Athens, Barcelona and Belfast and 45 more. Often billed alongside Horse Meat Disco, Peach and Job Jobse. Next up: Trädgården, Stockholm on Fri 31 Jul.
 
@@ -33,4 +33,4 @@ Prosumer is a house and techno artist tracked on soundcheck, with 166 sets logge
 
 Horse Meat Disco, Peach, Job Jobse
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/prosumer/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/prosumer/)*

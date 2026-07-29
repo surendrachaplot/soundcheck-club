@@ -1,6 +1,6 @@
 # Miane
 
-Miane is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Tue, 28 Jul 2026, next at Hï Ibiza, Ibiza on Wed, 29 Jul 2026.
+Miane is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at Hï Ibiza, Ibiza on Wed, 29 Jul 2026.
 
 Miane is a house and tech house artist tracked on soundcheck, with 32 sets logged across Amsterdam, Austin, Bangkok and Barcelona and 10 more. Often billed alongside Andrea Oliva, Francisco Allendes and Ilario Alicante. Next up: Hï Ibiza, Ibiza on Wed 29 Jul.
 
@@ -25,4 +25,4 @@ Miane is a house and tech house artist tracked on soundcheck, with 32 sets logge
 
 Andrea Oliva, Francisco Allendes, Ilario Alicante
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/miane/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/miane/)*

@@ -1,6 +1,6 @@
 # Tristan Dufrene
 
-Tristan Dufrene is a Techno and Electro artist with 1 upcoming club date listed on soundcheck as of Tue, 28 Jul 2026, next at Swig, Chicago on Thu, 30 Jul 2026.
+Tristan Dufrene is a Techno and Electro artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at Swig, Chicago on Thu, 30 Jul 2026.
 
 Tristan Dufrene is a techno and electro artist based in United States of America, tracked on soundcheck, with 8 sets logged across Austin, Chicago, Detroit and Mexicocity and 1 more. Often billed alongside Alby Esc, Bill Converse and Bézier. Next up: Swig, Chicago on Thu 30 Jul.
 
@@ -24,4 +24,4 @@ Tristan Dufrene is a techno and electro artist based in United States of America
 
 Alby Esc, Bill Converse, Bézier
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/tristandufrene/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/tristandufrene/)*

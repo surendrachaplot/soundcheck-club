@@ -1,6 +1,6 @@
 # NIKUSH
 
-NIKUSH is a Trance and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 28 Jul 2026, next at Schlachthof Wiesbaden, Frankfurt on Sat, 29 Aug 2026.
+NIKUSH is a Trance and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at Schlachthof Wiesbaden, Frankfurt on Sat, 29 Aug 2026.
 
 NIKUSH is a trance and techno artist tracked on soundcheck, with 31 sets logged across Berlin, Frankfurt and Munich. Often billed alongside cravings320, Boltcore and Kacy. Next up: Schlachthof Wiesbaden, Frankfurt on Sat 29 Aug.
 
@@ -25,4 +25,4 @@ NIKUSH is a trance and techno artist tracked on soundcheck, with 31 sets logged 
 
 cravings320, Boltcore, Kacy
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/nikush/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/nikush/)*

@@ -1,6 +1,6 @@
 # Nesi
 
-Nesi is a House and Tech House artist with 9 upcoming club dates listed on soundcheck as of Tue, 28 Jul 2026, next at Noxe Barcelona, Barcelona on Thu, 30 Jul 2026.
+Nesi is a House and Tech House artist with 9 upcoming club dates listed on soundcheck as of Wed, 29 Jul 2026, next at Noxe Barcelona, Barcelona on Thu, 30 Jul 2026.
 
 Nesi is a house and tech house artist tracked on soundcheck, with 222 sets logged across Barcelona, Berlin, Madrid and Munich and 1 more. Often billed alongside Piem, Alice Youngling and Alex Silva. Next up: Noxe Barcelona, Barcelona on Thu 30 Jul.
 
@@ -33,4 +33,4 @@ Nesi is a house and tech house artist tracked on soundcheck, with 222 sets logge
 
 Piem, Alice Youngling, Alex Silva
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/nesi/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/nesi/)*

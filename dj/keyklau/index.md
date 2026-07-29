@@ -1,6 +1,6 @@
 # Keyklau
 
-Keyklau is a Techno artist with 2 upcoming club dates listed on soundcheck as of Tue, 28 Jul 2026, next at OST, Berlin on Sat, 8 Aug 2026.
+Keyklau is a Techno artist with 2 upcoming club dates listed on soundcheck as of Wed, 29 Jul 2026, next at OST, Berlin on Sat, 8 Aug 2026.
 
 Keyklau is a techno artist based in Spain, tracked on soundcheck, with 20 sets logged across Barcelona, Berlin and Madrid. Often billed alongside Giusseppi, Felinae and Matt.p. Next up: OST, Berlin on Sat 8 Aug.
 
@@ -26,4 +26,4 @@ Keyklau is a techno artist based in Spain, tracked on soundcheck, with 20 sets l
 
 Giusseppi, Felinae, Matt.p
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/keyklau/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/keyklau/)*

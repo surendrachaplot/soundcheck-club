@@ -1,8 +1,8 @@
 # TRANSmisia
 
-TRANSmisia is a Techno and Experimental artist with 2 upcoming club dates listed on soundcheck as of Tue, 28 Jul 2026, next at Fuchs2, Prague on Fri, 7 Aug 2026.
+TRANSmisia is a Techno and Experimental artist with 3 upcoming club dates listed on soundcheck as of Wed, 29 Jul 2026, next at Fuchs2, Prague on Fri, 7 Aug 2026.
 
-TRANSmisia is a techno and experimental artist tracked on soundcheck, with 25 sets logged across Barcelona, London, Prague and Vienna. Often billed alongside neon.kotze, Nastya Muravyova and Nina Farrina. Next up: Fuchs2, Prague on Fri 7 Aug.
+TRANSmisia is a techno and experimental artist tracked on soundcheck, with 26 sets logged across Barcelona, London, Prague and Vienna. Often billed alongside neon.kotze, Miss Univers and Nastya Muravyova. Next up: Fuchs2, Prague on Fri 7 Aug.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ TRANSmisia is a techno and experimental artist tracked on soundcheck, with 25 se
 | --- | --- | --- |
 | Fri, 7 Aug 2026 | Fuchs2 | Prague |
 | Sat, 15 Aug 2026 | Fuchs2 | Prague |
+| Fri, 18 Sept 2026 | Bike Jesus | Prague |
 
 ## Recently played
 
@@ -24,6 +25,6 @@ TRANSmisia is a techno and experimental artist tracked on soundcheck, with 25 se
 
 ## Shares bills with
 
-neon.kotze, Nastya Muravyova, Nina Farrina
+neon.kotze, Miss Univers, Nastya Muravyova
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/transmisia/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/transmisia/)*

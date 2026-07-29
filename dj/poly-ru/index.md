@@ -1,6 +1,6 @@
 # Poly
 
-Poly is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Tue, 28 Jul 2026, next at TBA - Peißnitzinsel Halle, Leipzig on Sat, 1 Aug 2026.
+Poly is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at TBA - Peißnitzinsel Halle, Leipzig on Sat, 1 Aug 2026.
 
 Poly is a techno and trance artist based in Russia, tracked on soundcheck, with 6 sets logged across Berlin, Budapest, Leipzig and Mexicocity. Often billed alongside ESCALEA, JUNiQUE and humae. Next up: TBA - Peißnitzinsel Halle, Leipzig on Sat 1 Aug.
 
@@ -22,4 +22,4 @@ Poly is a techno and trance artist based in Russia, tracked on soundcheck, with 
 
 ESCALEA, JUNiQUE, humae
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/poly-ru/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/poly-ru/)*

@@ -1,6 +1,6 @@
 # NANO
 
-NANO is a Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 28 Jul 2026, next at Cinetol, Amsterdam on Fri, 31 Jul 2026.
+NANO is a Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at Cinetol, Amsterdam on Fri, 31 Jul 2026.
 
 NANO is a techno artist based in Germany, tracked on soundcheck, with 8 sets logged across Amsterdam, Berlin, Buenosaires and Prague and 1 more. Often billed alongside Art (AU), Bruno Caro and Bruno Ledesma. Next up: Cinetol, Amsterdam on Fri 31 Jul.
 
@@ -24,4 +24,4 @@ NANO is a techno artist based in Germany, tracked on soundcheck, with 8 sets log
 
 Art (AU), Bruno Caro, Bruno Ledesma
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/nano/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/nano/)*

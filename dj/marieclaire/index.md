@@ -1,6 +1,6 @@
 # MARIE CLAIRE
 
-MARIE CLAIRE is a Tech House and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 28 Jul 2026, next at TBA - telegram @klangsubstanz, Berlin on Sat, 15 Aug 2026.
+MARIE CLAIRE is a Tech House and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at TBA - telegram @klangsubstanz, Berlin on Sat, 15 Aug 2026.
 
 MARIE CLAIRE is a tech house and techno artist based in United Kingdom, tracked on soundcheck, with 1 set logged across Berlin. Often billed alongside BERLIN, Clarissa Gnade and HANNAHHANSEN. Next up: TBA - telegram @klangsubstanz, Berlin on Sat 15 Aug.
 
@@ -14,4 +14,4 @@ MARIE CLAIRE is a tech house and techno artist based in United Kingdom, tracked 
 
 BERLIN, Clarissa Gnade, HANNAHHANSEN
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/marieclaire/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/marieclaire/)*

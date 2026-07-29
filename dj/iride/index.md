@@ -1,6 +1,6 @@
 # IRIDE
 
-IRIDE is a Techno and Electro artist with 1 upcoming club date listed on soundcheck as of Tue, 28 Jul 2026, next at Auditorium Parco della Musica, Rome on Sat, 12 Sept 2026.
+IRIDE is a Techno and Electro artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at Auditorium Parco della Musica, Rome on Sat, 12 Sept 2026.
 
 IRIDE is a techno and electro artist based in Italy, tracked on soundcheck, with 45 sets logged across Milan and Rome. Often billed alongside GNMR, Marcolino and Marc Anthony Bowen. Next up: Auditorium Parco della Musica, Rome on Sat 12 Sept.
 
@@ -25,4 +25,4 @@ IRIDE is a techno and electro artist based in Italy, tracked on soundcheck, with
 
 GNMR, Marcolino, Marc Anthony Bowen
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/iride/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/iride/)*

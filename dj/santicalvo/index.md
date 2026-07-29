@@ -1,13 +1,14 @@
 # Santi Calvo
 
-Santi Calvo is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Tue, 28 Jul 2026, next at Crack Bellmer, Berlin on Thu, 20 Aug 2026.
+Santi Calvo is a House and Electro artist with 2 upcoming club dates listed on soundcheck as of Wed, 29 Jul 2026, next at PETER'S, Berlin on Sat, 8 Aug 2026.
 
-Santi Calvo is a house and deep house artist based in Argentina, tracked on soundcheck, with 18 sets logged across Berlin. Often billed alongside No Silver Bullet, DJ Haribo and Al_Massimo. Next up: Crack Bellmer, Berlin on Thu 20 Aug.
+Santi Calvo is a house and electro artist based in Argentina, tracked on soundcheck, with 19 sets logged across Berlin. Often billed alongside No Silver Bullet, DJ Haribo and Al_Massimo. Next up: PETER'S, Berlin on Sat 8 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 8 Aug 2026 | PETER'S | Berlin |
 | Thu, 20 Aug 2026 | Crack Bellmer | Berlin |
 
 ## Recently played
@@ -25,4 +26,4 @@ Santi Calvo is a house and deep house artist based in Argentina, tracked on soun
 
 No Silver Bullet, DJ Haribo, Al_Massimo
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/santicalvo/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/santicalvo/)*

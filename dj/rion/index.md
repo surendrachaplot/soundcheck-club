@@ -1,14 +1,15 @@
 # RION
 
-RION is a Bass and House artist with 1 upcoming club date listed on soundcheck as of Tue, 28 Jul 2026, next at ZEROTOKYO, Tokyo on Fri, 7 Aug 2026.
+RION is a Bass and House artist with 2 upcoming club dates listed on soundcheck as of Wed, 29 Jul 2026, next at ZEROTOKYO, Tokyo on Fri, 7 Aug 2026.
 
-RION is a bass and house artist based in Japan, tracked on soundcheck, with 19 sets logged across Tokyo. Often billed alongside MOOTOE, Tinker and ATAMI. Next up: ZEROTOKYO, Tokyo on Fri 7 Aug.
+RION is a bass and house artist based in Japan, tracked on soundcheck, with 20 sets logged across Tokyo. Often billed alongside MOOTOE, ATAMI and NAKiD. Next up: ZEROTOKYO, Tokyo on Fri 7 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 7 Aug 2026 | ZEROTOKYO | Tokyo |
+| Sat, 29 Aug 2026 | Camelot | Tokyo |
 
 ## Recently played
 
@@ -23,6 +24,6 @@ RION is a bass and house artist based in Japan, tracked on soundcheck, with 19 s
 
 ## Shares bills with
 
-MOOTOE, Tinker, ATAMI
+MOOTOE, ATAMI, NAKiD
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/rion/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/rion/)*

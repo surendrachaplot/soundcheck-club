@@ -1,6 +1,6 @@
 # Mok-T
 
-Mok-T is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 28 Jul 2026, next at Système, Montreal on Fri, 31 Jul 2026.
+Mok-T is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at Système, Montreal on Fri, 31 Jul 2026.
 
 Mok-T is a house and techno artist tracked on soundcheck, with 53 sets logged across Lyon, Marseille, Mexicocity and Montreal. Often billed alongside somebody3lse, Dj Hermano and D.B.Y.. Next up: Système, Montreal on Fri 31 Jul.
 
@@ -25,4 +25,4 @@ Mok-T is a house and techno artist tracked on soundcheck, with 53 sets logged ac
 
 somebody3lse, Dj Hermano, D.B.Y.
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/mok-t/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/mok-t/)*

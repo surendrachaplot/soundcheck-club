@@ -1,6 +1,6 @@
 # Seen
 
-Seen is a Bass and Dubstep artist with 1 upcoming club date listed on soundcheck as of Tue, 28 Jul 2026, next at The Model, Nottingham on Sat, 1 Aug 2026.
+Seen is a Bass and Dubstep artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at The Model, Nottingham on Sat, 1 Aug 2026.
 
 Seen is a bass and dubstep artist based in United Kingdom, tracked on soundcheck, with 10 sets logged across Glasgow and Nottingham. Often billed alongside Dom Carlo, FEMINEM and M75 (1). Next up: The Model, Nottingham on Sat 1 Aug.
 
@@ -25,4 +25,4 @@ Seen is a bass and dubstep artist based in United Kingdom, tracked on soundcheck
 
 Dom Carlo, FEMINEM, M75 (1)
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/seen/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/seen/)*

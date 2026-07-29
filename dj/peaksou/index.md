@@ -1,6 +1,6 @@
 # PEAKSOU
 
-PEAKSOU is a Trance and Techno artist with 2 upcoming club dates listed on soundcheck as of Tue, 28 Jul 2026, next at La Rotonde Stalingrad, Paris on Fri, 31 Jul 2026.
+PEAKSOU is a Trance and Techno artist with 2 upcoming club dates listed on soundcheck as of Wed, 29 Jul 2026, next at La Rotonde Stalingrad, Paris on Fri, 31 Jul 2026.
 
 PEAKSOU is a trance and techno artist based in France, tracked on soundcheck, with 20 sets logged across Berlin, Cologne, Marseille and Nantes and 1 more. Often billed alongside 25EMEHEURE, AISHA and Bones 33. Next up: La Rotonde Stalingrad, Paris on Fri 31 Jul.
 
@@ -26,4 +26,4 @@ PEAKSOU is a trance and techno artist based in France, tracked on soundcheck, wi
 
 25EMEHEURE, AISHA, Bones 33
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/peaksou/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/peaksou/)*

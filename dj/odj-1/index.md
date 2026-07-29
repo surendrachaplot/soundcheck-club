@@ -1,6 +1,6 @@
 # ODJ (1)
 
-ODJ (1) is a electronic artist with 1 upcoming club date listed on soundcheck as of Tue, 28 Jul 2026, next at Night Tales Loft, London on Sat, 12 Sept 2026.
+ODJ (1) is a electronic artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at Night Tales Loft, London on Sat, 12 Sept 2026.
 
 ODJ (1) is an electronic artist based in United Kingdom, tracked on soundcheck, with 7 sets logged across London. Often billed alongside Millian, By. Jansz and Creano. Next up: Night Tales Loft, London on Sat 12 Sept.
 
@@ -23,4 +23,4 @@ ODJ (1) is an electronic artist based in United Kingdom, tracked on soundcheck, 
 
 Millian, By. Jansz, Creano
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/odj-1/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/odj-1/)*

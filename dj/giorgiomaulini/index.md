@@ -1,6 +1,6 @@
 # Giorgio Maulini
 
-Giorgio Maulini is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Tue, 28 Jul 2026, next at Sophie Festival, Malaga on Sat, 15 Aug 2026.
+Giorgio Maulini is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Wed, 29 Jul 2026, next at Sophie Festival, Malaga on Sat, 15 Aug 2026.
 
 Giorgio Maulini is a house and techno artist tracked on soundcheck, with 26 sets logged across Barcelona, Berlin, Buenosaires and Madrid and 3 more. Often billed alongside Nicolas Duvoisin, Sonja Moonear and Apollonia. Next up: Sophie Festival, Malaga on Sat 15 Aug.
 
@@ -26,4 +26,4 @@ Giorgio Maulini is a house and techno artist tracked on soundcheck, with 26 sets
 
 Nicolas Duvoisin, Sonja Moonear, Apollonia
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/giorgiomaulini/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/giorgiomaulini/)*

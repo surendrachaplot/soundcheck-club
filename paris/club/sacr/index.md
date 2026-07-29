@@ -1,6 +1,6 @@
 # Sacré
 
-Sacré is a music venue in Paris with 15 upcoming nights listed on soundcheck as of Tue, 28 Jul 2026; the next is "Sacré présente: TWOFACED (Curated by Lumia)" on Fri, 31 Jul 2026.
+Sacré is a music venue in Paris with 15 upcoming nights listed on soundcheck as of Wed, 29 Jul 2026; the next is "Sacré présente: TWOFACED (Curated by Lumia)" on Fri, 31 Jul 2026.
 
 Sacré is a music venue in Paris listed on soundcheck. 15 upcoming nights, with line-ups including Aldonna, Autograf, Basile de Suresnes and Black Rave Culture and 2 more. Browse upcoming dates, start times and who's playing. 142 rue montmartre 75002 Paris.
 
@@ -23,4 +23,4 @@ Sacré is a music venue in Paris listed on soundcheck. 15 upcoming nights, with 
 
 142 rue montmartre 75002 Paris, Paris
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/paris/club/sacr/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/paris/club/sacr/)*

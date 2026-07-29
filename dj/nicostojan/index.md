@@ -1,6 +1,6 @@
 # Nico Stojan
 
-Nico Stojan is a House and Deep House artist with 2 upcoming club dates listed on soundcheck as of Tue, 28 Jul 2026, next at TBA - Camp Summerdaze Montreal, Montreal on Thu, 30 Jul 2026.
+Nico Stojan is a House and Deep House artist with 2 upcoming club dates listed on soundcheck as of Wed, 29 Jul 2026, next at TBA - Camp Summerdaze Montreal, Montreal on Thu, 30 Jul 2026.
 
 Nico Stojan is a house and deep house artist based in Germany, tracked on soundcheck, with 35 sets logged across Berlin, Budapest, Ibiza and Lisbon and 14 more. Often billed alongside Atish, Barac and Joplyn. Next up: TBA - Camp Summerdaze Montreal, Montreal on Thu 30 Jul.
 
@@ -26,4 +26,4 @@ Nico Stojan is a house and deep house artist based in Germany, tracked on soundc
 
 Atish, Barac, Joplyn
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/nicostojan/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/nicostojan/)*

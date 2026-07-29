@@ -1,6 +1,6 @@
 # Laurence Guy
 
-Laurence Guy is a House and Disco artist with 5 upcoming club dates listed on soundcheck as of Tue, 28 Jul 2026, next at Freight Brixton, London on Sat, 8 Aug 2026.
+Laurence Guy is a House and Disco artist with 5 upcoming club dates listed on soundcheck as of Wed, 29 Jul 2026, next at Freight Brixton, London on Sat, 8 Aug 2026.
 
 Laurence Guy is a house and disco artist based in United Kingdom, tracked on soundcheck, with 92 sets logged across Amsterdam, Austin, Bali and Bangkok and 27 more. Often billed alongside Arpy Brown, Hayden James and 1-800 GIRLS. Next up: Freight Brixton, London on Sat 8 Aug.
 
@@ -29,4 +29,4 @@ Laurence Guy is a house and disco artist based in United Kingdom, tracked on sou
 
 Arpy Brown, Hayden James, 1-800 GIRLS
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/laurenceguy/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/laurenceguy/)*

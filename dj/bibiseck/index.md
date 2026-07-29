@@ -1,8 +1,8 @@
 # Bibi Seck
 
-Bibi Seck is a House and Techno artist with 6 upcoming club dates listed on soundcheck as of Tue, 28 Jul 2026, next at Kulturcampus Frankfurt, Frankfurt on Thu, 13 Aug 2026.
+Bibi Seck is a House and Disco artist with 6 upcoming club dates listed on soundcheck as of Wed, 29 Jul 2026, next at Kulturcampus Frankfurt, Frankfurt on Thu, 13 Aug 2026.
 
-Bibi Seck is a house and techno artist tracked on soundcheck, with 114 sets logged across Amsterdam, Antwerp, Barcelona and Berlin and 17 more. Often billed alongside John Noseda, BAVR and Faisal. Next up: Kulturcampus Frankfurt, Frankfurt on Thu 13 Aug.
+Bibi Seck is a house and disco artist tracked on soundcheck, with 114 sets logged across Amsterdam, Antwerp, Barcelona and Berlin and 17 more. Often billed alongside John Noseda, BAVR and Faisal. Next up: Kulturcampus Frankfurt, Frankfurt on Thu 13 Aug.
 
 ## Upcoming shows
 
@@ -30,4 +30,4 @@ Bibi Seck is a house and techno artist tracked on soundcheck, with 114 sets logg
 
 John Noseda, BAVR, Faisal
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/bibiseck/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/bibiseck/)*

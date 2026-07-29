@@ -1,14 +1,13 @@
 # [UNVRS]
 
-[UNVRS] is a music venue in Ibiza with 72 upcoming nights listed on soundcheck as of Tue, 28 Jul 2026; the next is "Anyma presents ÆDEN" on Tue, 28 Jul 2026.
+[UNVRS] is a music venue in Ibiza with 71 upcoming nights listed on soundcheck as of Wed, 29 Jul 2026; the next is "Jamie Jones Paradise" on Wed, 29 Jul 2026.
 
-[UNVRS] is a music venue in Ibiza listed on soundcheck. 72 upcoming nights, with line-ups including Artbat, Adriatique, Agents Of Time and AJ Christou and 2 more. Browse upcoming dates, start times and who's playing. Urbanización San Rafael, s/n, 07816 Sant Antoni de Portmany, Balearic Islands.
+[UNVRS] is a music venue in Ibiza listed on soundcheck. 71 upcoming nights, with line-ups including Artbat, Adriatique, Agents Of Time and AJ Christou and 2 more. Browse upcoming dates, start times and who's playing. Urbanización San Rafael, s/n, 07816 Sant Antoni de Portmany, Balearic Islands.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Tue, 28 Jul 2026 | Anyma presents ÆDEN | Anyma, Chris Avantgarde, Miss Monique, Volkoder |
 | Wed, 29 Jul 2026 | Jamie Jones Paradise | Bedouin, Bontan, Jamie Jones, Laidlaw, M-High, Omar+, Salomé Le Chat |
 | Thu, 30 Jul 2026 | FISHER | EdiP, FISHER, Jason Bye, Paco Osuna |
 | Fri, 31 Jul 2026 | David Guetta presents Galactic Circus | David Guetta, Kolter |
@@ -18,9 +17,10 @@
 | Tue, 4 Aug 2026 | Anyma presents ÆDEN | Anyma, Cloonee, Kasia (OFC), Rivo |
 | Wed, 5 Aug 2026 | Jamie Jones Paradise | Archie Hamilton, Chris Stussy, Fleur Shore, Jamie Jones, Joe Rolét, Late Replies, Manda Moor, Marian, Seb Zito |
 | Thu, 6 Aug 2026 | FISHER | FISHER, Loco Dice, Rafael Cerato |
+| Fri, 7 Aug 2026 | David Guetta presents Galactic Circus | David Guetta, Marten Hørger, Morten |
 
 ## Address
 
 Urbanización San Rafael, s/n, 07816 Sant Antoni de Portmany, Balearic Islands, Ibiza
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/ibiza/club/unvrs/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/ibiza/club/unvrs/)*

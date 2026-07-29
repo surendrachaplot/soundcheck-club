@@ -1,6 +1,6 @@
 # UJ/DV
 
-UJ/DV is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 28 Jul 2026, next at TBA - NOMA ISLAND, Malta on Fri, 31 Jul 2026.
+UJ/DV is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at TBA - NOMA ISLAND, Malta on Fri, 31 Jul 2026.
 
 UJ/DV is a house and techno artist based in Malta, tracked on soundcheck, with 8 sets logged across Malta. Often billed alongside Owen Jay, Brawther and Carlos Valdes. Next up: TBA - NOMA ISLAND, Malta on Fri 31 Jul.
 
@@ -24,4 +24,4 @@ UJ/DV is a house and techno artist based in Malta, tracked on soundcheck, with 8
 
 Owen Jay, Brawther, Carlos Valdes
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/ujdv/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/ujdv/)*

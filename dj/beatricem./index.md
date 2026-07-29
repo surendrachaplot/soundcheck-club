@@ -1,6 +1,6 @@
 # Beatrice M.
 
-Beatrice M. is a Dubstep and Bass artist with 7 upcoming club dates listed on soundcheck as of Tue, 28 Jul 2026, next at The Old Church, London on Fri, 31 Jul 2026.
+Beatrice M. is a Dubstep and Bass artist with 7 upcoming club dates listed on soundcheck as of Wed, 29 Jul 2026, next at The Old Church, London on Fri, 31 Jul 2026.
 
 Beatrice M. is a dubstep and bass artist tracked on soundcheck, with 118 sets logged across Amsterdam, Berlin, Brighton and Bristol and 25 more. Often billed alongside Tim Reaper, EMA (1) and Mia Koden. Next up: The Old Church, London on Fri 31 Jul.
 
@@ -31,4 +31,4 @@ Beatrice M. is a dubstep and bass artist tracked on soundcheck, with 118 sets lo
 
 Tim Reaper, EMA (1), Mia Koden
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/beatricem./)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/beatricem./)*

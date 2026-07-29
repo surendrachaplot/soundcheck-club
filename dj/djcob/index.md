@@ -1,6 +1,6 @@
 # djcob
 
-djcob is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Tue, 28 Jul 2026, next at Baalsaal, Hamburg on Sat, 1 Aug 2026.
+djcob is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Wed, 29 Jul 2026, next at Baalsaal, Hamburg on Sat, 1 Aug 2026.
 
 djcob is a techno and house artist based in Germany, tracked on soundcheck, with 14 sets logged across Berlin and Hamburg. Often billed alongside Alex Benz, Madman and dannycookin. Next up: Baalsaal, Hamburg on Sat 1 Aug.
 
@@ -26,4 +26,4 @@ djcob is a techno and house artist based in Germany, tracked on soundcheck, with
 
 Alex Benz, Madman, dannycookin
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/djcob/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/djcob/)*

@@ -1,6 +1,6 @@
 # Wordcolour
 
-Wordcolour is a Bass and Experimental artist with 1 upcoming club date listed on soundcheck as of Tue, 28 Jul 2026, next at M.O.T, London on Sat, 1 Aug 2026.
+Wordcolour is a Bass and Experimental artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at M.O.T, London on Sat, 1 Aug 2026.
 
 Wordcolour is a bass and experimental artist based in United Kingdom, tracked on soundcheck, with 22 sets logged across Berlin, Bristol, Dublin and London and 2 more. Often billed alongside Ikävä Pii, St. Amp and Beatrice M.. Next up: M.O.T, London on Sat 1 Aug.
 
@@ -25,4 +25,4 @@ Wordcolour is a bass and experimental artist based in United Kingdom, tracked on
 
 Ikävä Pii, St. Amp, Beatrice M.
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/wordcolour/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/wordcolour/)*

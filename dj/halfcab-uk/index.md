@@ -1,6 +1,6 @@
 # Half Cab
 
-Half Cab is a Drum & Bass and Jungle artist with 1 upcoming club date listed on soundcheck as of Tue, 28 Jul 2026, next at XOYO, London on Thu, 30 Jul 2026.
+Half Cab is a Drum & Bass and Jungle artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at XOYO, London on Thu, 30 Jul 2026.
 
 Half Cab is a drum & bass and jungle artist tracked on soundcheck, with 18 sets logged across London. Often billed alongside DJelley, Silloh and DETEKT. Next up: XOYO, London on Thu 30 Jul.
 
@@ -25,4 +25,4 @@ Half Cab is a drum & bass and jungle artist tracked on soundcheck, with 18 sets 
 
 DJelley, Silloh, DETEKT
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/halfcab-uk/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/halfcab-uk/)*

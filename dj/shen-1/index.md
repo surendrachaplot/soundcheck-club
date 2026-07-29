@@ -1,6 +1,6 @@
 # Shen (1)
 
-Shen (1) is a Baile Funk and House artist with 1 upcoming club date listed on soundcheck as of Tue, 28 Jul 2026, next at Oculist, Brighton on Fri, 31 Jul 2026.
+Shen (1) is a Baile Funk and House artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at Oculist, Brighton on Fri, 31 Jul 2026.
 
 Shen (1) is a baile funk and house artist based in United States of America, tracked on soundcheck, with 4 sets logged across Brighton and Utrecht. Often billed alongside Mauro Moreno, Bastienne and Coco Bryce. Next up: Oculist, Brighton on Fri 31 Jul.
 
@@ -20,4 +20,4 @@ Shen (1) is a baile funk and house artist based in United States of America, tra
 
 Mauro Moreno, Bastienne, Coco Bryce
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/shen-1/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/shen-1/)*

@@ -1,6 +1,6 @@
 # Qoqnut
 
-Qoqnut is a Bass and Latin Bass artist with 2 upcoming club dates listed on soundcheck as of Tue, 28 Jul 2026, next at Honey Street Studio, Manchester on Fri, 14 Aug 2026.
+Qoqnut is a Bass and Latin Bass artist with 2 upcoming club dates listed on soundcheck as of Wed, 29 Jul 2026, next at Honey Street Studio, Manchester on Fri, 14 Aug 2026.
 
 Qoqnut is a bass and latin bass artist based in United Kingdom, tracked on soundcheck, with 16 sets logged across Manchester. Often billed alongside Jess Rose, atalaya and Deventi. Next up: Honey Street Studio, Manchester on Fri 14 Aug.
 
@@ -26,4 +26,4 @@ Qoqnut is a bass and latin bass artist based in United Kingdom, tracked on sound
 
 Jess Rose, atalaya, Deventi
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/qoqnut/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/qoqnut/)*

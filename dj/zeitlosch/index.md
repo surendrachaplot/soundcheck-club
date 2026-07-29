@@ -1,6 +1,6 @@
 # zeitlos (CH)
 
-zeitlos (CH) is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 28 Jul 2026, next at Zürichsee, Zurich on Sat, 8 Aug 2026.
+zeitlos (CH) is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at Zürichsee, Zurich on Sat, 8 Aug 2026.
 
 zeitlos (CH) is a house and techno artist based in Switzerland, tracked on soundcheck, with 2 sets logged across Berlin and Zurich. Often billed alongside Avnu, Beroshima and Hackatone. Next up: Zürichsee, Zurich on Sat 8 Aug.
 
@@ -18,4 +18,4 @@ zeitlos (CH) is a house and techno artist based in Switzerland, tracked on sound
 
 Avnu, Beroshima, Hackatone
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/zeitlosch/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/zeitlosch/)*

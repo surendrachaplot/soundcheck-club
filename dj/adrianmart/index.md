@@ -1,6 +1,6 @@
 # Adrian Mart
 
-Adrian Mart is a Club and House artist with 1 upcoming club date listed on soundcheck as of Tue, 28 Jul 2026, next at EL SÓTANO, Madrid on Fri, 7 Aug 2026.
+Adrian Mart is a Club and House artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at EL SÓTANO, Madrid on Fri, 7 Aug 2026.
 
 Adrian Mart is a club and house artist based in Spain, tracked on soundcheck, with 11 sets logged across Madrid. Often billed alongside Danjers, Alexis mayer and BLANKET. Next up: EL SÓTANO, Madrid on Fri 7 Aug.
 
@@ -25,4 +25,4 @@ Adrian Mart is a club and house artist based in Spain, tracked on soundcheck, wi
 
 Danjers, Alexis mayer, BLANKET
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/adrianmart/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/adrianmart/)*

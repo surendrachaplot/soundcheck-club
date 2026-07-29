@@ -1,13 +1,14 @@
 # Bundo
 
-Bundo is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Tue, 28 Jul 2026, next at WOMB, Tokyo on Sat, 15 Aug 2026.
+Bundo is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Wed, 29 Jul 2026, next at Oath, Tokyo on Sat, 8 Aug 2026.
 
-Bundo is a techno and house artist based in Japan, tracked on soundcheck, with 57 sets logged across Miami and Tokyo. Often billed alongside NITA, Arao and Monna Lisa. Next up: WOMB, Tokyo on Sat 15 Aug.
+Bundo is a techno and house artist based in Japan, tracked on soundcheck, with 58 sets logged across Miami and Tokyo. Often billed alongside NITA, Arao and Monna Lisa. Next up: Oath, Tokyo on Sat 8 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 8 Aug 2026 | Oath | Tokyo |
 | Sat, 15 Aug 2026 | WOMB | Tokyo |
 
 ## Recently played
@@ -25,4 +26,4 @@ Bundo is a techno and house artist based in Japan, tracked on soundcheck, with 5
 
 NITA, Arao, Monna Lisa
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/bundo/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/bundo/)*

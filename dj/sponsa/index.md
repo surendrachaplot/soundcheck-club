@@ -1,6 +1,6 @@
 # sponsa
 
-sponsa is a Latin Bass and Neo Perreo artist with 1 upcoming club date listed on soundcheck as of Tue, 28 Jul 2026, next at BarKa, Warsaw on Wed, 29 Jul 2026.
+sponsa is a Latin Bass and Neo Perreo artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at BarKa, Warsaw on Wed, 29 Jul 2026.
 
 sponsa is a latin bass and neo perreo artist based in Poland, tracked on soundcheck, with 4 sets logged across Warsaw. Often billed alongside iffi, kertua and Alexis. Next up: BarKa, Warsaw on Wed 29 Jul.
 
@@ -20,4 +20,4 @@ sponsa is a latin bass and neo perreo artist based in Poland, tracked on soundch
 
 iffi, kertua, Alexis
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/sponsa/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/sponsa/)*

@@ -1,6 +1,6 @@
 # Fundbureau
 
-Fundbureau is a music venue in Hamburg with 15 upcoming nights listed on soundcheck as of Tue, 28 Jul 2026; the next is "Marcus Meinhardt // VIVI" on Fri, 31 Jul 2026.
+Fundbureau is a music venue in Hamburg with 15 upcoming nights listed on soundcheck as of Wed, 29 Jul 2026; the next is "Marcus Meinhardt // VIVI" on Fri, 31 Jul 2026.
 
 Fundbureau is a music venue in Hamburg listed on soundcheck. 15 upcoming nights, with line-ups including 3LEEZA, Andreas Henneberg, Avocado and Charlie Tee and 2 more. Browse upcoming dates, start times and who's playing. Altländer Str. 1120095 Hamburg, Germany.
 
@@ -23,4 +23,4 @@ Fundbureau is a music venue in Hamburg listed on soundcheck. 15 upcoming nights,
 
 Altländer Str. 1120095 Hamburg, Germany, Hamburg
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/hamburg/club/fundbureau/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/hamburg/club/fundbureau/)*

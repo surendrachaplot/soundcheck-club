@@ -1,6 +1,6 @@
 # Sancho
 
-Sancho is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Tue, 28 Jul 2026, next at Elsewhere, Bangkok on Sat, 1 Aug 2026.
+Sancho is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at Elsewhere, Bangkok on Sat, 1 Aug 2026.
 
 Sancho is a house and disco artist based in Canada, tracked on soundcheck, with 10 sets logged across Bangkok and Montreal. Often billed alongside Ledisko, kirillz and Balinsky. Next up: Elsewhere, Bangkok on Sat 1 Aug.
 
@@ -25,4 +25,4 @@ Sancho is a house and disco artist based in Canada, tracked on soundcheck, with 
 
 Ledisko, kirillz, Balinsky
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/sancho/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/sancho/)*

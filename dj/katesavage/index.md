@@ -1,6 +1,6 @@
 # Kate Savage
 
-Kate Savage is a Drum & Bass and Bass artist with 1 upcoming club date listed on soundcheck as of Tue, 28 Jul 2026, next at Civic Underground, Sydney on Sat, 1 Aug 2026.
+Kate Savage is a Drum & Bass and Bass artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at Civic Underground, Sydney on Sat, 1 Aug 2026.
 
 Kate Savage is a drum & bass and bass artist tracked on soundcheck, with 20 sets logged across London and Sydney. Often billed alongside Thierry D, Jay See and Andrew Wowk. Next up: Civic Underground, Sydney on Sat 1 Aug.
 
@@ -25,4 +25,4 @@ Kate Savage is a drum & bass and bass artist tracked on soundcheck, with 20 sets
 
 Thierry D, Jay See, Andrew Wowk
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/katesavage/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/katesavage/)*

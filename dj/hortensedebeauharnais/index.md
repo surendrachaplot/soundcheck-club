@@ -1,6 +1,6 @@
 # Hortense de Beauharnais
 
-Hortense de Beauharnais is a Techno and Trance artist with 2 upcoming club dates listed on soundcheck as of Tue, 28 Jul 2026, next at Mia Mao, Paris on Fri, 31 Jul 2026.
+Hortense de Beauharnais is a Techno and Trance artist with 2 upcoming club dates listed on soundcheck as of Wed, 29 Jul 2026, next at Mia Mao, Paris on Fri, 31 Jul 2026.
 
 Hortense de Beauharnais is a techno and trance artist based in France, tracked on soundcheck, with 17 sets logged across Berlin, London, Lyon and Madrid and 4 more. Often billed alongside uphoria, Christie and FLKN. Next up: Mia Mao, Paris on Fri 31 Jul.
 
@@ -26,4 +26,4 @@ Hortense de Beauharnais is a techno and trance artist based in France, tracked o
 
 uphoria, Christie, FLKN
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/hortensedebeauharnais/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/hortensedebeauharnais/)*

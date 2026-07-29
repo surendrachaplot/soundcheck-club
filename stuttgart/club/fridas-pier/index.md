@@ -1,6 +1,6 @@
 # Fridas Pier
 
-Fridas Pier is a music venue in Stuttgart with 17 upcoming nights listed on soundcheck as of Tue, 28 Jul 2026; the next is "NECKARFESTIVAL 2026 - DAY 1" on Sat, 1 Aug 2026.
+Fridas Pier is a music venue in Stuttgart with 17 upcoming nights listed on soundcheck as of Wed, 29 Jul 2026; the next is "NECKARFESTIVAL 2026 - DAY 1" on Sat, 1 Aug 2026.
 
 Fridas Pier is a music venue in Stuttgart listed on soundcheck. 17 upcoming nights, with line-ups including Acid Pauli, A.D.H.S., Alex Kassian and Analog Crystal and 2 more. Browse upcoming dates, start times and who's playing. Uferstraße 107, 70188 Stuttgart, Germany.
 
@@ -23,4 +23,4 @@ Fridas Pier is a music venue in Stuttgart listed on soundcheck. 17 upcoming nigh
 
 Uferstraße 107, 70188 Stuttgart, Germany, Stuttgart
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/stuttgart/club/fridas-pier/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/stuttgart/club/fridas-pier/)*

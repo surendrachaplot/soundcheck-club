@@ -1,8 +1,8 @@
 # Pheebs
 
-Pheebs is a House and Garage artist with 2 upcoming club dates listed on soundcheck as of Tue, 28 Jul 2026, next at fabric, London on Sat, 22 Aug 2026.
+Pheebs is a House and Garage artist with 2 upcoming club dates listed on soundcheck as of Wed, 29 Jul 2026, next at fabric, London on Sat, 22 Aug 2026.
 
-Pheebs is a house and garage artist based in United Kingdom, tracked on soundcheck, with 22 sets logged across Edinburgh, London and Melbourne. Often billed alongside BASTI(UK), Ben Kok (2) and Discgrace. Next up: fabric, London on Sat 22 Aug.
+Pheebs is a house and garage artist based in United Kingdom, tracked on soundcheck, with 22 sets logged across Edinburgh, London and Melbourne. Often billed alongside Ben Kok (2), BASTI(UK) and Discgrace. Next up: fabric, London on Sat 22 Aug.
 
 ## Upcoming shows
 
@@ -24,6 +24,6 @@ Pheebs is a house and garage artist based in United Kingdom, tracked on soundche
 
 ## Shares bills with
 
-BASTI(UK), Ben Kok (2), Discgrace
+Ben Kok (2), BASTI(UK), Discgrace
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/pheebs/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/pheebs/)*

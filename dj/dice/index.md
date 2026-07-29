@@ -1,6 +1,6 @@
 # DICE
 
-DICE is a Techno and Industrial artist with 5 upcoming club dates listed on soundcheck as of Tue, 28 Jul 2026, next at Lokschuppen Berlin, Berlin on Sun, 2 Aug 2026.
+DICE is a Techno and Industrial artist with 5 upcoming club dates listed on soundcheck as of Wed, 29 Jul 2026, next at Lokschuppen Berlin, Berlin on Sun, 2 Aug 2026.
 
 DICE is a techno and industrial artist based in Germany, tracked on soundcheck, with 45 sets logged across Amsterdam, Basel, Berlin and Cologne and 11 more. Often billed alongside DETOXX, Amøn and DALJAE. Next up: Lokschuppen Berlin, Berlin on Sun 2 Aug.
 
@@ -29,4 +29,4 @@ DICE is a techno and industrial artist based in Germany, tracked on soundcheck, 
 
 DETOXX, Amøn, DALJAE
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/dice/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/dice/)*

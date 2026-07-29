@@ -1,6 +1,6 @@
 # Ryan Ingleby
 
-Ryan Ingleby is a Electro and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 28 Jul 2026, next at Concept Haus, Manchester on Fri, 31 Jul 2026.
+Ryan Ingleby is a Electro and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at Concept Haus, Manchester on Fri, 31 Jul 2026.
 
 Ryan Ingleby is an electro and techno artist tracked on soundcheck, with 46 sets logged across Leeds, London, Manchester and Valencia. Often billed alongside Louie G, Ethan McNamara and Ethan.. Next up: Concept Haus, Manchester on Fri 31 Jul.
 
@@ -25,4 +25,4 @@ Ryan Ingleby is an electro and techno artist tracked on soundcheck, with 46 sets
 
 Louie G, Ethan McNamara, Ethan.
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/ryaningleby/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/ryaningleby/)*

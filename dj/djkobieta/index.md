@@ -1,6 +1,6 @@
 # DJ Kobieta
 
-DJ Kobieta is a Latin Bass and Footwork artist with 1 upcoming club date listed on soundcheck as of Tue, 28 Jul 2026, next at BarKa, Warsaw on Wed, 29 Jul 2026.
+DJ Kobieta is a Latin Bass and Footwork artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at BarKa, Warsaw on Wed, 29 Jul 2026.
 
 DJ Kobieta is a latin bass and footwork artist based in Poland, tracked on soundcheck, with 8 sets logged across Berlin and Warsaw. Often billed alongside KarateKnur, eylau and Adobo (PL). Next up: BarKa, Warsaw on Wed 29 Jul.
 
@@ -24,4 +24,4 @@ DJ Kobieta is a latin bass and footwork artist based in Poland, tracked on sound
 
 KarateKnur, eylau, Adobo (PL)
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/djkobieta/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/djkobieta/)*

@@ -1,6 +1,6 @@
 # Coinín Beag
 
-Coinín Beag is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Tue, 28 Jul 2026, next at radial, London on Sat, 8 Aug 2026.
+Coinín Beag is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at radial, London on Sat, 8 Aug 2026.
 
 Coinín Beag is a techno and house artist based in Ireland, tracked on soundcheck, with 6 sets logged across Dublin and London. Often billed alongside DJ-CK, Becky (2) and DJ Love UK. Next up: radial, London on Sat 8 Aug.
 
@@ -22,4 +22,4 @@ Coinín Beag is a techno and house artist based in Ireland, tracked on soundchec
 
 DJ-CK, Becky (2), DJ Love UK
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/coinínbeag/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/coinínbeag/)*

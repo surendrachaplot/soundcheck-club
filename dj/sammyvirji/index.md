@@ -1,6 +1,6 @@
 # Sammy Virji
 
-Sammy Virji is a Garage and House artist with 8 upcoming club dates listed on soundcheck as of Tue, 28 Jul 2026, next at Brooklyn Army Terminal, New York City on Fri, 31 Jul 2026.
+Sammy Virji is a Garage and House artist with 8 upcoming club dates listed on soundcheck as of Wed, 29 Jul 2026, next at Brooklyn Army Terminal, New York City on Fri, 31 Jul 2026.
 
 Sammy Virji is a garage and house artist tracked on soundcheck, with 123 sets logged across Amsterdam, Antwerp, Austin and Barcelona and 40 more. Often billed alongside Oppidan, Interplanetary Criminal and salute. Next up: Brooklyn Army Terminal, Newyorkcity on Fri 31 Jul.
 
@@ -32,4 +32,4 @@ Sammy Virji is a garage and house artist tracked on soundcheck, with 123 sets lo
 
 Oppidan, Interplanetary Criminal, salute
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/sammyvirji/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/sammyvirji/)*

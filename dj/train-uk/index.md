@@ -1,6 +1,6 @@
 # Train (UK)
 
-Train (UK) is a electronic artist with 2 upcoming club dates listed on soundcheck as of Tue, 28 Jul 2026, next at TBA, Nashville on Fri, 31 Jul 2026.
+Train (UK) is a electronic artist with 2 upcoming club dates listed on soundcheck as of Wed, 29 Jul 2026, next at TBA, Nashville on Fri, 31 Jul 2026.
 
 Train (UK) is an electronic artist tracked on soundcheck, with 3 sets logged across London, Nashville and Sanfrancisco. Often billed alongside Danism, Davide Del Vecchio and Faro. Next up: TBA, Nashville on Fri 31 Jul.
 
@@ -19,4 +19,4 @@ Train (UK) is an electronic artist tracked on soundcheck, with 3 sets logged acr
 
 Danism, Davide Del Vecchio, Faro
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/train-uk/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/train-uk/)*

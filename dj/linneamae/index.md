@@ -1,6 +1,6 @@
 # Linnea Mae
 
-Linnea Mae is a Electro and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 28 Jul 2026, next at Renate, Berlin on Sat, 29 Aug 2026.
+Linnea Mae is a Electro and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at Renate, Berlin on Sat, 29 Aug 2026.
 
 Linnea Mae is an electro and techno artist tracked on soundcheck, with 8 sets logged across Berlin and Prague. Often billed alongside anna andersrum, KaraKara and Mick Jäger. Next up: Renate, Berlin on Sat 29 Aug.
 
@@ -24,4 +24,4 @@ Linnea Mae is an electro and techno artist tracked on soundcheck, with 8 sets lo
 
 anna andersrum, KaraKara, Mick Jäger
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/linneamae/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/linneamae/)*

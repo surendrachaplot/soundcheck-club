@@ -1,6 +1,6 @@
 # Neonlichter
 
-Neonlichter is a Experimental and Dub Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 28 Jul 2026, next at TBA - 75 Pelham Street, Toronto on Sat, 8 Aug 2026.
+Neonlichter is a Experimental and Dub Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at TBA - 75 Pelham Street, Toronto on Sat, 8 Aug 2026.
 
 Neonlichter is an experimental and dub techno artist based in Canada, tracked on soundcheck, with 22 sets logged across Montreal, Newyorkcity, Sanfrancisco and Toronto. Often billed alongside Mahmood Schricker, MMRI and Dastgamachine. Next up: TBA - 75 Pelham Street, Toronto on Sat 8 Aug.
 
@@ -25,4 +25,4 @@ Neonlichter is an experimental and dub techno artist based in Canada, tracked on
 
 Mahmood Schricker, MMRI, Dastgamachine
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/neonlichter/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/neonlichter/)*

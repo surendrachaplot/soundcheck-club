@@ -1,6 +1,6 @@
 # Mike Berardi
 
-Mike Berardi is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 28 Jul 2026, next at The Walk Inn, New York City on Fri, 31 Jul 2026.
+Mike Berardi is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at The Walk Inn, New York City on Fri, 31 Jul 2026.
 
 Mike Berardi is a house and techno artist based in Italy, tracked on soundcheck, with 22 sets logged across Newyorkcity. Often billed alongside Adam Braiman, Ari El and Dalton Taylor. Next up: The Walk Inn, Newyorkcity on Fri 31 Jul.
 
@@ -25,4 +25,4 @@ Mike Berardi is a house and techno artist based in Italy, tracked on soundcheck,
 
 Adam Braiman, Ari El, Dalton Taylor
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/mikeberardi/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/mikeberardi/)*

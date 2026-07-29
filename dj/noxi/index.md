@@ -1,6 +1,6 @@
 # NOXI
 
-NOXI is a Techno and Hardcore artist with 1 upcoming club date listed on soundcheck as of Tue, 28 Jul 2026, next at Der Weiße Hase, Berlin on Fri, 31 Jul 2026.
+NOXI is a Techno and Hardcore artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at Der Weiße Hase, Berlin on Fri, 31 Jul 2026.
 
 NOXI is a techno and hardcore artist based in Poland, tracked on soundcheck, with 14 sets logged across Bangkok, Berlin, Malta and Warsaw. Often billed alongside SINTHER, Józef Keuner and MARTINEZ0. Next up: Der Weiße Hase, Berlin on Fri 31 Jul.
 
@@ -25,4 +25,4 @@ NOXI is a techno and hardcore artist based in Poland, tracked on soundcheck, wit
 
 SINTHER, Józef Keuner, MARTINEZ0
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/noxi/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/noxi/)*

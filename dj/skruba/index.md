@@ -1,6 +1,6 @@
 # skruba
 
-skruba is a Dubstep and Drum & Bass artist with 1 upcoming club date listed on soundcheck as of Tue, 28 Jul 2026, next at Munster Munch, London on Sat, 1 Aug 2026.
+skruba is a Dubstep and Drum & Bass artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at Munster Munch, London on Sat, 1 Aug 2026.
 
 skruba is a dubstep and drum & bass artist based in United Kingdom, tracked on soundcheck, with 3 sets logged across London. Often billed alongside Bread & Butter, Carien and DJ 2C. Next up: Munster Munch, London on Sat 1 Aug.
 
@@ -19,4 +19,4 @@ skruba is a dubstep and drum & bass artist based in United Kingdom, tracked on s
 
 Bread & Butter, Carien, DJ 2C
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/skruba/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/skruba/)*

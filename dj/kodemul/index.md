@@ -1,6 +1,6 @@
 # Kodemul
 
-Kodemul is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Tue, 28 Jul 2026, next at Madreams, Madrid on Fri, 18 Sept 2026.
+Kodemul is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at Madreams, Madrid on Fri, 18 Sept 2026.
 
 Kodemul is a techno and house artist tracked on soundcheck, with 128 sets logged across Barcelona, Berlin, Bristol and Buenosaires and 8 more. Often billed alongside Eliel Capa, PAURRO and Perfect Lovers. Next up: Madreams, Madrid on Fri 18 Sept.
 
@@ -25,4 +25,4 @@ Kodemul is a techno and house artist tracked on soundcheck, with 128 sets logged
 
 Eliel Capa, PAURRO, Perfect Lovers
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/kodemul/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/kodemul/)*

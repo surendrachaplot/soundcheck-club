@@ -1,6 +1,6 @@
 # LArA (5)
 
-LArA (5) is a House and Electronica artist with 1 upcoming club date listed on soundcheck as of Tue, 28 Jul 2026, next at Three Dollar Bill, Toronto on Sat, 1 Aug 2026.
+LArA (5) is a House and Electronica artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at Three Dollar Bill, Toronto on Sat, 1 Aug 2026.
 
 LArA (5) is a house and electronica artist based in Mexico, tracked on soundcheck, with 10 sets logged across Toronto. Often billed alongside Prince Batrick, Delicious DJ and 'PAVV'. Next up: Three Dollar Bill, Toronto on Sat 1 Aug.
 
@@ -25,4 +25,4 @@ LArA (5) is a house and electronica artist based in Mexico, tracked on soundchec
 
 Prince Batrick, Delicious DJ, 'PAVV'
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/lara-5/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/lara-5/)*

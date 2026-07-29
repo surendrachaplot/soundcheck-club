@@ -1,6 +1,6 @@
 # Víctor Güell
 
-Víctor Güell is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Tue, 28 Jul 2026, next at The Rooftop at Gianpula Village, Malta on Sun, 2 Aug 2026.
+Víctor Güell is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at The Rooftop at Gianpula Village, Malta on Sun, 2 Aug 2026.
 
 Víctor Güell is a techno and house artist based in Spain, tracked on soundcheck, with 21 sets logged across Malta. Often billed alongside Limón, OBLX and DJ Ruby. Next up: The Rooftop at Gianpula Village, Malta on Sun 2 Aug.
 
@@ -25,4 +25,4 @@ Víctor Güell is a techno and house artist based in Spain, tracked on soundchec
 
 Limón, OBLX, DJ Ruby
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/víctorguell/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/víctorguell/)*

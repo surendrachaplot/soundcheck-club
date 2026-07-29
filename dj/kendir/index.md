@@ -1,6 +1,6 @@
 # KENDIR
 
-KENDIR is a Techno and Deep House artist with 1 upcoming club date listed on soundcheck as of Tue, 28 Jul 2026, next at Basing House, London on Fri, 11 Sept 2026.
+KENDIR is a Techno and Deep House artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at Basing House, London on Fri, 11 Sept 2026.
 
 KENDIR is a techno and deep house artist based in Kazakhstan, tracked on soundcheck, with 2 sets logged across London. Often billed alongside AALEX, Adela and Alythia Kwan. Next up: Basing House, London on Fri 11 Sept.
 
@@ -18,4 +18,4 @@ KENDIR is a techno and deep house artist based in Kazakhstan, tracked on soundch
 
 AALEX, Adela, Alythia Kwan
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/kendir/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/kendir/)*

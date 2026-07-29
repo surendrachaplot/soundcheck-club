@@ -1,6 +1,6 @@
 # DOUG
 
-DOUG is a Afro House and Amapiano artist with 1 upcoming club date listed on soundcheck as of Tue, 28 Jul 2026, next at Le Bain, New York City on Wed, 29 Jul 2026.
+DOUG is a Afro House and Amapiano artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at Le Bain, New York City on Wed, 29 Jul 2026.
 
 DOUG is an afro house and amapiano artist based in United States of America, tracked on soundcheck, with 5 sets logged across Newyorkcity. Often billed alongside Vonnie Mack, Andre Power and Black Noi$e. Next up: Le Bain, Newyorkcity on Wed 29 Jul.
 
@@ -21,4 +21,4 @@ DOUG is an afro house and amapiano artist based in United States of America, tra
 
 Vonnie Mack, Andre Power, Black Noi$e
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/doug-us/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/doug-us/)*

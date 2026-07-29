@@ -1,6 +1,6 @@
 # Joe Nice
 
-Joe Nice is a Dubstep and Bass artist with 1 upcoming club date listed on soundcheck as of Tue, 28 Jul 2026, next at TBA, Toronto on Sat, 12 Sept 2026.
+Joe Nice is a Dubstep and Bass artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at TBA, Toronto on Sat, 12 Sept 2026.
 
 Joe Nice is a dubstep and bass artist tracked on soundcheck, with 20 sets logged across Berlin, Bristol, Hongkong and Houston and 11 more. Often billed alongside Mala, Breakfake and Daniel Power. Next up: TBA, Toronto on Sat 12 Sept.
 
@@ -25,4 +25,4 @@ Joe Nice is a dubstep and bass artist tracked on soundcheck, with 20 sets logged
 
 Mala, Breakfake, Daniel Power
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/joenice/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/joenice/)*

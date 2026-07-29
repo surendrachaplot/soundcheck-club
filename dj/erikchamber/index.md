@@ -1,6 +1,6 @@
 # Erik Chamber
 
-Erik Chamber is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Tue, 28 Jul 2026, next at Den Anden Side, Copenhagen on Fri, 31 Jul 2026.
+Erik Chamber is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at Den Anden Side, Copenhagen on Fri, 31 Jul 2026.
 
 Erik Chamber is a techno and house artist based in Spain, tracked on soundcheck, with 4 sets logged across Barcelona, Copenhagen and Manchester. Often billed alongside Sushinigami, Blasha & Allatt and Butschi. Next up: Den Anden Side, Copenhagen on Fri 31 Jul.
 
@@ -20,4 +20,4 @@ Erik Chamber is a techno and house artist based in Spain, tracked on soundcheck,
 
 Sushinigami, Blasha & Allatt, Butschi
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/erikchamber/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/erikchamber/)*

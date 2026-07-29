@@ -1,6 +1,6 @@
 # Hen Borton
 
-Hen Borton is a Disco and House artist with 1 upcoming club date listed on soundcheck as of Tue, 28 Jul 2026, next at Kaiho, London on Sat, 1 Aug 2026.
+Hen Borton is a Disco and House artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at Kaiho, London on Sat, 1 Aug 2026.
 
 Hen Borton is a disco and house artist based in United Kingdom, tracked on soundcheck, with 1 set logged across London. Often billed alongside JEEM, K-SLICE and fat hands. Next up: Kaiho, London on Sat 1 Aug.
 
@@ -14,4 +14,4 @@ Hen Borton is a disco and house artist based in United Kingdom, tracked on sound
 
 JEEM, K-SLICE, fat hands
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/henborton/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/henborton/)*

@@ -1,6 +1,6 @@
 # Helmond Lang
 
-Helmond Lang is a Techno and Breakbeat artist with 1 upcoming club date listed on soundcheck as of Tue, 28 Jul 2026, next at Amsterdamse Bos, Amsterdam on Wed, 29 Jul 2026.
+Helmond Lang is a Techno and Breakbeat artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at Amsterdamse Bos, Amsterdam on Wed, 29 Jul 2026.
 
 Helmond Lang is a techno and breakbeat artist based in Netherlands, tracked on soundcheck, with 35 sets logged across Amsterdam, London, Rotterdam and Thehague and 1 more. Often billed alongside dirtydms, Cheyanne Hudson and DEY.REY. Next up: Amsterdamse Bos, Amsterdam on Wed 29 Jul.
 
@@ -25,4 +25,4 @@ Helmond Lang is a techno and breakbeat artist based in Netherlands, tracked on s
 
 dirtydms, Cheyanne Hudson, DEY.REY
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/helmondlang/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/helmondlang/)*

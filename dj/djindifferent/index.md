@@ -1,6 +1,6 @@
 # DJ Indifferent
 
-DJ Indifferent is a Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 28 Jul 2026, next at Skylight Warehouse, Vancouver on Sat, 8 Aug 2026.
+DJ Indifferent is a Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at Skylight Warehouse, Vancouver on Sat, 8 Aug 2026.
 
 DJ Indifferent is a techno artist based in Germany, tracked on soundcheck, with 1 set logged across Vancouver. Often billed alongside Devønn and NOS-talgia. Next up: Skylight Warehouse, Vancouver on Sat 8 Aug.
 
@@ -14,4 +14,4 @@ DJ Indifferent is a techno artist based in Germany, tracked on soundcheck, with 
 
 Devønn, NOS-talgia
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/djindifferent/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/djindifferent/)*

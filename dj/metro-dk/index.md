@@ -1,6 +1,6 @@
 # Mëtro
 
-Mëtro is a Techno and Industrial artist with 2 upcoming club dates listed on soundcheck as of Tue, 28 Jul 2026, next at MODULE, Copenhagen on Fri, 31 Jul 2026.
+Mëtro is a Techno and Industrial artist with 2 upcoming club dates listed on soundcheck as of Wed, 29 Jul 2026, next at MODULE, Copenhagen on Fri, 31 Jul 2026.
 
 Mëtro is a techno and industrial artist based in Denmark, tracked on soundcheck, with 12 sets logged across Copenhagen and Hamburg. Often billed alongside KAMIKAZEM, Midele and Strichkot. Next up: MODULE, Copenhagen on Fri 31 Jul.
 
@@ -26,4 +26,4 @@ Mëtro is a techno and industrial artist based in Denmark, tracked on soundcheck
 
 KAMIKAZEM, Midele, Strichkot
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/metro-dk/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/metro-dk/)*

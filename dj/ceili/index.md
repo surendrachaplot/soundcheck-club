@@ -1,6 +1,6 @@
 # Ceili
 
-Ceili is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Tue, 28 Jul 2026, next at TBA - Warschauer Pl. 18, 10245 Berlin, Berlin on Sat, 1 Aug 2026.
+Ceili is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Wed, 29 Jul 2026, next at TBA - Warschauer Pl. 18, 10245 Berlin, Berlin on Sat, 1 Aug 2026.
 
 Ceili is a techno and house artist based in Ireland, tracked on soundcheck, with 10 sets logged across Berlin, Cork, Dublin and Glasgow and 1 more. Often billed alongside GAEL, MEJMI and PAX (2). Next up: TBA - Warschauer Pl. 18, 10245 Berlin, Berlin on Sat 1 Aug.
 
@@ -26,4 +26,4 @@ Ceili is a techno and house artist based in Ireland, tracked on soundcheck, with
 
 GAEL, MEJMI, PAX (2)
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/ceili/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/ceili/)*

@@ -1,13 +1,15 @@
 # Weston
 
-Weston is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 28 Jul 2026, next at Cobalt Studios, Newcastle on Sun, 30 Aug 2026.
+Weston is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Wed, 29 Jul 2026, next at Ernest, Newcastle on Fri, 31 Jul 2026.
 
-Weston is a house and techno artist based in United Kingdom, tracked on soundcheck, with 38 sets logged across Edinburgh, London, Manchester and Newcastle. Often billed alongside PIP., Jude Race and Westy. Next up: Cobalt Studios, Newcastle on Sun 30 Aug.
+Weston is a house and techno artist based in United Kingdom, tracked on soundcheck, with 40 sets logged across Edinburgh, London, Manchester and Newcastle. Often billed alongside PIP., Jude Race and Westy. Next up: Ernest, Newcastle on Fri 31 Jul.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 31 Jul 2026 | Ernest | Newcastle |
+| Fri, 31 Jul 2026 | Ernest | Newcastle |
 | Sun, 30 Aug 2026 | Cobalt Studios | Newcastle |
 
 ## Recently played
@@ -25,4 +27,4 @@ Weston is a house and techno artist based in United Kingdom, tracked on soundche
 
 PIP., Jude Race, Westy
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/weston/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/weston/)*

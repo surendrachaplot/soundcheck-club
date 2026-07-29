@@ -1,6 +1,6 @@
 # Mianda
 
-Mianda is a Electro and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 28 Jul 2026, next at Les Enfants Brillants, Barcelona on Fri, 31 Jul 2026.
+Mianda is a Electro and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at Les Enfants Brillants, Barcelona on Fri, 31 Jul 2026.
 
 Mianda is an electro and techno artist based in Romania, tracked on soundcheck, with 31 sets logged across Barcelona, Bucharest, London and Paris. Often billed alongside Teodor Ghita, Paul Popa and Obre. Next up: Les Enfants Brillants, Barcelona on Fri 31 Jul.
 
@@ -25,4 +25,4 @@ Mianda is an electro and techno artist based in Romania, tracked on soundcheck, 
 
 Teodor Ghita, Paul Popa, Obre
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/mianda/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/mianda/)*

@@ -1,6 +1,6 @@
 # Tokyo Sexwale
 
-Tokyo Sexwale is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 28 Jul 2026, next at The Beresford Hotel, Sydney on Sat, 5 Sept 2026.
+Tokyo Sexwale is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at The Beresford Hotel, Sydney on Sat, 5 Sept 2026.
 
 Tokyo Sexwale is a house and techno artist tracked on soundcheck, with 35 sets logged across Melbourne, Sandiego and Sydney. Often billed alongside Elijah Something, Caleb Jackson and Silly Lily. Next up: The Beresford Hotel, Sydney on Sat 5 Sept.
 
@@ -25,4 +25,4 @@ Tokyo Sexwale is a house and techno artist tracked on soundcheck, with 35 sets l
 
 Elijah Something, Caleb Jackson, Silly Lily
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/tokyosexwale/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/tokyosexwale/)*

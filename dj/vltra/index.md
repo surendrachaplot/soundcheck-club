@@ -1,6 +1,6 @@
 # VLTRA (IT)
 
-VLTRA (IT) is a Tech House and House artist with 2 upcoming club dates listed on soundcheck as of Tue, 28 Jul 2026, next at Jolene Downtown Miami, Miami on Thu, 30 Jul 2026.
+VLTRA (IT) is a Tech House and House artist with 2 upcoming club dates listed on soundcheck as of Wed, 29 Jul 2026, next at Jolene Downtown Miami, Miami on Thu, 30 Jul 2026.
 
 VLTRA (IT) is a tech house and house artist tracked on soundcheck, with 22 sets logged across Amsterdam, Barcelona, Chicago and Cologne and 8 more. Often billed alongside Eddy M, Ferreck Dawn and GENESI. Next up: Jolene Downtown Miami, Miami on Thu 30 Jul.
 
@@ -26,4 +26,4 @@ VLTRA (IT) is a tech house and house artist tracked on soundcheck, with 22 sets 
 
 Eddy M, Ferreck Dawn, GENESI
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/vltra/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/vltra/)*

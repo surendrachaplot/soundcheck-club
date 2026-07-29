@@ -1,6 +1,6 @@
 # In Abyss
 
-In Abyss is a Ambient and Downtempo artist with 1 upcoming club date listed on soundcheck as of Tue, 28 Jul 2026, next at Tendance, Prague on Wed, 29 Jul 2026.
+In Abyss is a Ambient and Downtempo artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at Tendance, Prague on Wed, 29 Jul 2026.
 
 In Abyss is an ambient and downtempo artist based in Czech Republic, tracked on soundcheck, with 11 sets logged across Prague. Often billed alongside Citty, Høll and Adamatron. Next up: Tendance, Prague on Wed 29 Jul.
 
@@ -25,4 +25,4 @@ In Abyss is an ambient and downtempo artist based in Czech Republic, tracked on 
 
 Citty, Høll, Adamatron
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/inabyss/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/inabyss/)*

@@ -1,6 +1,6 @@
 # Tatiana Rodrigo
 
-Tatiana Rodrigo is a House and Afro House artist with 1 upcoming club date listed on soundcheck as of Tue, 28 Jul 2026, next at Resume Valencia, Valencia on Sat, 1 Aug 2026.
+Tatiana Rodrigo is a House and Afro House artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at Resume Valencia, Valencia on Sat, 1 Aug 2026.
 
 Tatiana Rodrigo is a house and afro house artist based in Philippines, tracked on soundcheck, with 2 sets logged across Valencia. Next up: Resume Valencia, Valencia on Sat 1 Aug.
 
@@ -14,4 +14,4 @@ Tatiana Rodrigo is a house and afro house artist based in Philippines, tracked o
 
 - Restaurante Jardines del Palau, Valencia — Sun, 29 Mar 2026
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/tatianarodrigo/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/tatianarodrigo/)*

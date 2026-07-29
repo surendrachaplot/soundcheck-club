@@ -1,6 +1,6 @@
 # Gartzzea
 
-Gartzzea is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Tue, 28 Jul 2026, next at TBA - Studio Stereo, close to pl. Catalunya, 08007, Barcelona, Barcelona on Sat, 1 Aug 2026.
+Gartzzea is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Wed, 29 Jul 2026, next at TBA - Studio Stereo, close to pl. Catalunya, 08007, Barcelona, Barcelona on Sat, 1 Aug 2026.
 
 Gartzzea is a house and techno artist based in Brazil, tracked on soundcheck, with 35 sets logged across Barcelona, London and Saopaulo. Often billed alongside Andre Salata, Andre Torquato and DJ Magal. Next up: TBA - Studio Stereo, close to pl. Catalunya, 08007, Barcelona, Barcelona on Sat 1 Aug.
 
@@ -26,4 +26,4 @@ Gartzzea is a house and techno artist based in Brazil, tracked on soundcheck, wi
 
 Andre Salata, Andre Torquato, DJ Magal
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/gartzzea/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/gartzzea/)*

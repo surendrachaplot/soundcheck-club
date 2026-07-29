@@ -1,6 +1,6 @@
 # Mr. Pauer
 
-Mr. Pauer is a Afro House and House artist with 1 upcoming club date listed on soundcheck as of Tue, 28 Jul 2026, next at Bodega Taqueria Y Tequila, Miami on Thu, 30 Jul 2026.
+Mr. Pauer is a Afro House and House artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at Bodega Taqueria Y Tequila, Miami on Thu, 30 Jul 2026.
 
 Mr. Pauer is an afro house and house artist based in United States of America, tracked on soundcheck, with 10 sets logged across Miami and Nashville. Often billed alongside Lazaro Casanova, Oscar G and Hector Romero. Next up: Bodega Taqueria Y Tequila, Miami on Thu 30 Jul.
 
@@ -25,4 +25,4 @@ Mr. Pauer is an afro house and house artist based in United States of America, t
 
 Lazaro Casanova, Oscar G, Hector Romero
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/mr.pauer/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/mr.pauer/)*

@@ -1,6 +1,6 @@
 # Ben Pavlidis
 
-Ben Pavlidis is a Hip-Hop and Bass artist with 1 upcoming club date listed on soundcheck as of Tue, 28 Jul 2026, next at Klunkerkranich, Berlin on Tue, 4 Aug 2026.
+Ben Pavlidis is a Hip-Hop and Bass artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at Klunkerkranich, Berlin on Tue, 4 Aug 2026.
 
 Ben Pavlidis is a hip-hop and bass artist based in Germany, tracked on soundcheck, with 6 sets logged across Berlin. Often billed alongside Kotoe. Next up: Klunkerkranich, Berlin on Tue 4 Aug.
 
@@ -22,4 +22,4 @@ Ben Pavlidis is a hip-hop and bass artist based in Germany, tracked on soundchec
 
 Kotoe
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/benpavlidis/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/benpavlidis/)*

@@ -1,6 +1,6 @@
 # Rowsi
 
-Rowsi is a Techno and Trance artist with 4 upcoming club dates listed on soundcheck as of Tue, 28 Jul 2026, next at INPUT High Fidelity Dance Club, Barcelona on Thu, 30 Jul 2026.
+Rowsi is a Techno and Trance artist with 4 upcoming club dates listed on soundcheck as of Wed, 29 Jul 2026, next at INPUT High Fidelity Dance Club, Barcelona on Thu, 30 Jul 2026.
 
 Rowsi is a techno and trance artist tracked on soundcheck, with 80 sets logged across Amsterdam, Barcelona and Madrid. Often billed alongside JOANNA COELHO, DIDIXX and Felinae. Next up: INPUT High Fidelity Dance Club, Barcelona on Thu 30 Jul.
 
@@ -28,4 +28,4 @@ Rowsi is a techno and trance artist tracked on soundcheck, with 80 sets logged a
 
 JOANNA COELHO, DIDIXX, Felinae
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/rowsi/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/rowsi/)*

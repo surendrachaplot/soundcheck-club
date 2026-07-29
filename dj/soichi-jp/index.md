@@ -1,6 +1,6 @@
 # SOICHI
 
-SOICHI is a House and Minimal artist with 2 upcoming club dates listed on soundcheck as of Tue, 28 Jul 2026, next at Daikanyama ORD., Tokyo on Fri, 31 Jul 2026.
+SOICHI is a House and Minimal artist with 2 upcoming club dates listed on soundcheck as of Wed, 29 Jul 2026, next at Daikanyama ORD., Tokyo on Fri, 31 Jul 2026.
 
 SOICHI is a house and minimal artist based in Japan, tracked on soundcheck, with 17 sets logged across Kyoto, Osaka and Tokyo. Often billed alongside Akemi Hino, Ebo and Kensuke Fukushima. Next up: Daikanyama ORD., Tokyo on Fri 31 Jul.
 
@@ -26,4 +26,4 @@ SOICHI is a house and minimal artist based in Japan, tracked on soundcheck, with
 
 Akemi Hino, Ebo, Kensuke Fukushima
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/soichi-jp/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/soichi-jp/)*

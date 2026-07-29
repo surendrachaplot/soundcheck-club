@@ -1,6 +1,6 @@
 # A6IIR
 
-A6IIR is a Techno and Electro artist with 1 upcoming club date listed on soundcheck as of Tue, 28 Jul 2026, next at Phantom Bar Berlin, Berlin on Thu, 30 Jul 2026.
+A6IIR is a Techno and Electro artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at Phantom Bar Berlin, Berlin on Thu, 30 Jul 2026.
 
 A6IIR is a techno and electro artist based in South Korea, tracked on soundcheck, with 20 sets logged across Amsterdam, Berlin, Prague and Seoul and 1 more. Often billed alongside HYUNHXEE, Short Finger and Berlin Bunny. Next up: Phantom Bar Berlin, Berlin on Thu 30 Jul.
 
@@ -25,4 +25,4 @@ A6IIR is a techno and electro artist based in South Korea, tracked on soundcheck
 
 HYUNHXEE, Short Finger, Berlin Bunny
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/a6iir/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/a6iir/)*

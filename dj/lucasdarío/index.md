@@ -1,6 +1,6 @@
 # Lucas Darío
 
-Lucas Darío is a House and Minimal Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 28 Jul 2026, next at Innside Hafen Hamburg, Hamburg on Sat, 1 Aug 2026.
+Lucas Darío is a House and Minimal Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at Innside Hafen Hamburg, Hamburg on Sat, 1 Aug 2026.
 
 Lucas Darío is a house and minimal techno artist based in Germany, tracked on soundcheck, with 9 sets logged across Berlin and Hamburg. Often billed alongside Cosmokat, Jakob Zed and Nacho Carbajal. Next up: Innside Hafen Hamburg, Hamburg on Sat 1 Aug.
 
@@ -25,4 +25,4 @@ Lucas Darío is a house and minimal techno artist based in Germany, tracked on s
 
 Cosmokat, Jakob Zed, Nacho Carbajal
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/lucasdarío/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/lucasdarío/)*

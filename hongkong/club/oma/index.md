@@ -1,6 +1,6 @@
 # OMA
 
-OMA is a music venue in Hong Kong with 2 upcoming nights listed on soundcheck as of Tue, 28 Jul 2026; the next is "Answer Code Request" on Fri, 31 Jul 2026.
+OMA is a music venue in Hong Kong with 2 upcoming nights listed on soundcheck as of Wed, 29 Jul 2026; the next is "Answer Code Request" on Fri, 31 Jul 2026.
 
 OMA is a music venue in Hongkong listed on soundcheck. 2 upcoming nights, with line-ups including Answer Code Request, Casey Anderson, DJ Anthony2 and Jeremy Cheung and 1 more. Browse upcoming dates, start times and who's playing. Lower Basement, Harilela House, 79 Wyndham Street, Central District, Hong Kong.
 
@@ -15,4 +15,4 @@ OMA is a music venue in Hongkong listed on soundcheck. 2 upcoming nights, with l
 
 Lower Basement, Harilela House, 79 Wyndham Street, Central District, Hong Kong, Hong Kong
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/hongkong/club/oma/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/hongkong/club/oma/)*

@@ -1,6 +1,6 @@
 # Olive T
 
-Olive T is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Tue, 28 Jul 2026, next at BRET, Amsterdam on Fri, 31 Jul 2026.
+Olive T is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at BRET, Amsterdam on Fri, 31 Jul 2026.
 
 Olive T is a house and disco artist based in United States of America, tracked on soundcheck, with 11 sets logged across Amsterdam, Berlin, Geneva and London and 2 more. Often billed alongside Adrianal, Alma Negrot and Beeches. Next up: BRET, Amsterdam on Fri 31 Jul.
 
@@ -25,4 +25,4 @@ Olive T is a house and disco artist based in United States of America, tracked o
 
 Adrianal, Alma Negrot, Beeches
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/olivet/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/olivet/)*

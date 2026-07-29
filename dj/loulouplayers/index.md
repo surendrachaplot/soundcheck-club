@@ -1,6 +1,6 @@
 # Loulou Players
 
-Loulou Players is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Tue, 28 Jul 2026, next at Eden, Ibiza on Thu, 30 Jul 2026.
+Loulou Players is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at Eden, Ibiza on Thu, 30 Jul 2026.
 
 Loulou Players is a house and tech house artist based in Belgium, tracked on soundcheck, with 14 sets logged across Amsterdam, Barcelona, Brussels and Buenosaires and 2 more. Often billed alongside Tobias DL, Belben and Festa Bros. Next up: Eden, Ibiza on Thu 30 Jul.
 
@@ -25,4 +25,4 @@ Loulou Players is a house and tech house artist based in Belgium, tracked on sou
 
 Tobias DL, Belben, Festa Bros
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/loulouplayers/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/loulouplayers/)*

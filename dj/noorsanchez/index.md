@@ -1,6 +1,6 @@
 # Noor Sanchez
 
-Noor Sanchez is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 28 Jul 2026, next at KitKatClub, Berlin on Fri, 7 Aug 2026.
+Noor Sanchez is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at KitKatClub, Berlin on Fri, 7 Aug 2026.
 
 Noor Sanchez is a house and techno artist based in Germany, tracked on soundcheck, with 15 sets logged across Berlin. Often billed alongside Andeel, Dennis Beutler and Bombata. Next up: KitKatClub, Berlin on Fri 7 Aug.
 
@@ -25,4 +25,4 @@ Noor Sanchez is a house and techno artist based in Germany, tracked on soundchec
 
 Andeel, Dennis Beutler, Bombata
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/noorsanchez/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/noorsanchez/)*

@@ -1,6 +1,6 @@
 # Gaston Fiore
 
-Gaston Fiore is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Tue, 28 Jul 2026, next at Dvnepark, Buenos Aires on Sat, 15 Aug 2026.
+Gaston Fiore is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at Dvnepark, Buenos Aires on Sat, 15 Aug 2026.
 
 Gaston Fiore is a techno and trance artist based in Argentina, tracked on soundcheck, with 31 sets logged across Amsterdam, Berlin, Buenosaires and Copenhagen and 6 more. Often billed alongside Dist, TINKERHELL and Ana Hagen. Next up: Dvnepark, Buenosaires on Sat 15 Aug.
 
@@ -25,4 +25,4 @@ Gaston Fiore is a techno and trance artist based in Argentina, tracked on soundc
 
 Dist, TINKERHELL, Ana Hagen
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/gastonfiore/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/gastonfiore/)*

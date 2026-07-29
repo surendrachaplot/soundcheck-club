@@ -1,6 +1,6 @@
 # Praag
 
-Praag is a Techno and Progressive House artist with 1 upcoming club date listed on soundcheck as of Tue, 28 Jul 2026, next at Rusty Bar, Malta on Fri, 28 Aug 2026.
+Praag is a Techno and Progressive House artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at Rusty Bar, Malta on Fri, 28 Aug 2026.
 
 Praag is a techno and progressive house artist based in Malta, tracked on soundcheck, with 32 sets logged across Malta. Often billed alongside Sercan Aslan, Adel dj and Carl Lautier. Next up: Rusty Bar, Malta on Fri 28 Aug.
 
@@ -25,4 +25,4 @@ Praag is a techno and progressive house artist based in Malta, tracked on soundc
 
 Sercan Aslan, Adel dj, Carl Lautier
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/praag/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/praag/)*

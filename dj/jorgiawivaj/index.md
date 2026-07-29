@@ -1,6 +1,6 @@
 # Jorgia wiva J
 
-Jorgia wiva J is a Garage and Jungle artist with 1 upcoming club date listed on soundcheck as of Tue, 28 Jul 2026, next at Green Works, Bristol on Sat, 1 Aug 2026.
+Jorgia wiva J is a Garage and Jungle artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at Green Works, Bristol on Sat, 1 Aug 2026.
 
 Jorgia wiva J is a garage and jungle artist based in United Kingdom, tracked on soundcheck, with 6 sets logged across Bristol, Liverpool and London. Often billed alongside F3rg13, Fat Neast and GARNELE. Next up: Green Works, Bristol on Sat 1 Aug.
 
@@ -22,4 +22,4 @@ Jorgia wiva J is a garage and jungle artist based in United Kingdom, tracked on 
 
 F3rg13, Fat Neast, GARNELE
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/jorgiawivaj/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/jorgiawivaj/)*

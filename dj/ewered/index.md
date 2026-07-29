@@ -1,6 +1,6 @@
 # EWERED
 
-EWERED is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Tue, 28 Jul 2026, next at Simmons Bar | Shoreditch, London on Wed, 12 Aug 2026.
+EWERED is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at Simmons Bar | Shoreditch, London on Wed, 12 Aug 2026.
 
 EWERED is a techno and house artist based in United Kingdom, tracked on soundcheck, with 1 set logged across London. Often billed alongside Chito and la piscine. Next up: Simmons Bar | Shoreditch, London on Wed 12 Aug.
 
@@ -14,4 +14,4 @@ EWERED is a techno and house artist based in United Kingdom, tracked on soundche
 
 Chito, la piscine
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/ewered/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/ewered/)*

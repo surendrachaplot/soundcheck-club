@@ -1,6 +1,6 @@
 # Inès Rau
 
-Inès Rau is a House and Disco artist with 4 upcoming club dates listed on soundcheck as of Tue, 28 Jul 2026, next at Playa Soleil Ibiza, Ibiza on Wed, 29 Jul 2026.
+Inès Rau is a House and Disco artist with 4 upcoming club dates listed on soundcheck as of Wed, 29 Jul 2026, next at Playa Soleil Ibiza, Ibiza on Wed, 29 Jul 2026.
 
 Inès Rau is a house and disco artist based in France, tracked on soundcheck, with 10 sets logged across Ibiza, London, Miami and Newyorkcity and 1 more. Often billed alongside ALEJO (US), ANDREA VANDALL and ATRIP. Next up: Playa Soleil Ibiza, Ibiza on Wed 29 Jul.
 
@@ -26,4 +26,4 @@ Inès Rau is a house and disco artist based in France, tracked on soundcheck, wi
 
 ALEJO (US), ANDREA VANDALL, ATRIP
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/inesrau/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/inesrau/)*

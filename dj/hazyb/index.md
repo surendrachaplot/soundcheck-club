@@ -1,6 +1,6 @@
 # Hazy B
 
-Hazy B is a Dubstep and Garage artist with 1 upcoming club date listed on soundcheck as of Tue, 28 Jul 2026, next at Planet Wax, London on Thu, 6 Aug 2026.
+Hazy B is a Dubstep and Garage artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at Planet Wax, London on Thu, 6 Aug 2026.
 
 Hazy B is a dubstep and garage artist based in United Kingdom, tracked on soundcheck, with 7 sets logged across London. Often billed alongside Leenoz, bangus and Benton. Next up: Planet Wax, London on Thu 6 Aug.
 
@@ -23,4 +23,4 @@ Hazy B is a dubstep and garage artist based in United Kingdom, tracked on soundc
 
 Leenoz, bangus, Benton
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/hazyb/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/hazyb/)*

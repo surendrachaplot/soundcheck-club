@@ -1,6 +1,6 @@
 # joven
 
-joven is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Tue, 28 Jul 2026, next at Forum Station, Barcelona on Sun, 2 Aug 2026.
+joven is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at Forum Station, Barcelona on Sun, 2 Aug 2026.
 
 joven is a techno and house artist based in Spain, tracked on soundcheck, with 6 sets logged across Barcelona. Often billed alongside Isa Rojas, Amalia Balbontin and Conor Brophy. Next up: Forum Station, Barcelona on Sun 2 Aug.
 
@@ -22,4 +22,4 @@ joven is a techno and house artist based in Spain, tracked on soundcheck, with 6
 
 Isa Rojas, Amalia Balbontin, Conor Brophy
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/joven/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/joven/)*

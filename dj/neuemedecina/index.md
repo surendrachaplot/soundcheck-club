@@ -1,6 +1,6 @@
 # Neue Medecina
 
-Neue Medecina is a Experimental and Ambient artist with 1 upcoming club date listed on soundcheck as of Tue, 28 Jul 2026, next at 20nine30, Berlin on Fri, 31 Jul 2026.
+Neue Medecina is a Experimental and Ambient artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at 20nine30, Berlin on Fri, 31 Jul 2026.
 
 Neue Medecina is an experimental and ambient artist based in Finland, tracked on soundcheck, with 14 sets logged across Berlin and Prague. Often billed alongside Triš, Sasha Zlykh and XTCLVR. Next up: 20nine30, Berlin on Fri 31 Jul.
 
@@ -25,4 +25,4 @@ Neue Medecina is an experimental and ambient artist based in Finland, tracked on
 
 Triš, Sasha Zlykh, XTCLVR
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/neuemedecina/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/neuemedecina/)*

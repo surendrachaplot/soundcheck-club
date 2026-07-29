@@ -1,6 +1,6 @@
 # Leonardo Tou
 
-Leonardo Tou is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Tue, 28 Jul 2026, next at Under Club, Buenos Aires on Fri, 31 Jul 2026.
+Leonardo Tou is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at Under Club, Buenos Aires on Fri, 31 Jul 2026.
 
 Leonardo Tou is a house and deep house artist based in Argentina, tracked on soundcheck, with 12 sets logged across Buenosaires. Often billed alongside Lepablot, Istvan Roux and Jay West. Next up: Under Club, Buenosaires on Fri 31 Jul.
 
@@ -25,4 +25,4 @@ Leonardo Tou is a house and deep house artist based in Argentina, tracked on sou
 
 Lepablot, Istvan Roux, Jay West
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/leonardotou/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/leonardotou/)*

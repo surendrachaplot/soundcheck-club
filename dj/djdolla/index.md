@@ -1,6 +1,6 @@
 # DJ Dolla
 
-DJ Dolla is a Club and Ghetto Tech artist with 1 upcoming club date listed on soundcheck as of Tue, 28 Jul 2026, next at Hava Nightclub, Boston on Fri, 7 Aug 2026.
+DJ Dolla is a Club and Ghetto Tech artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at Hava Nightclub, Boston on Fri, 7 Aug 2026.
 
 DJ Dolla is a club and ghetto tech artist based in United States of America, tracked on soundcheck, with 10 sets logged across Boston, Detroit, Leeds and Newyorkcity and 1 more. Often billed alongside Tromac, Izzy Holmes and cash.liss. Next up: Hava Nightclub, Boston on Fri 7 Aug.
 
@@ -25,4 +25,4 @@ DJ Dolla is a club and ghetto tech artist based in United States of America, tra
 
 Tromac, Izzy Holmes, cash.liss
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/djdolla/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/djdolla/)*

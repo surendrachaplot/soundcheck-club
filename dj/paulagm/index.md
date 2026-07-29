@@ -1,6 +1,6 @@
 # PAULA GM
 
-PAULA GM is a House and Electro artist with 1 upcoming club date listed on soundcheck as of Tue, 28 Jul 2026, next at Sunseabar Beach Club, Barcelona on Fri, 31 Jul 2026.
+PAULA GM is a House and Electro artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at Sunseabar Beach Club, Barcelona on Fri, 31 Jul 2026.
 
 PAULA GM is a house and electro artist tracked on soundcheck, with 76 sets logged across Barcelona, Dublin and Madrid. Often billed alongside FRAXA, PILAR MOLINERO and PABLO MANY. Next up: Sunseabar Beach Club, Barcelona on Fri 31 Jul.
 
@@ -25,4 +25,4 @@ PAULA GM is a house and electro artist tracked on soundcheck, with 76 sets logge
 
 FRAXA, PILAR MOLINERO, PABLO MANY
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/paulagm/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/paulagm/)*

@@ -1,6 +1,6 @@
 # ARWIN AZIZ
 
-ARWIN AZIZ is a Tech House and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 28 Jul 2026, next at Supermarket, Zurich on Sat, 1 Aug 2026.
+ARWIN AZIZ is a Tech House and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at Supermarket, Zurich on Sat, 1 Aug 2026.
 
 ARWIN AZIZ is a tech house and techno artist tracked on soundcheck, with 16 sets logged across Zurich. Often billed alongside And Hazel, De La Maso and Alessio da Silva. Next up: Supermarket, Zurich on Sat 1 Aug.
 
@@ -25,4 +25,4 @@ ARWIN AZIZ is a tech house and techno artist tracked on soundcheck, with 16 sets
 
 And Hazel, De La Maso, Alessio da Silva
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/arwinaziz/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/arwinaziz/)*

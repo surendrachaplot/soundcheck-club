@@ -1,6 +1,6 @@
 # Gabriele
 
-Gabriele is a electronic artist with 1 upcoming club date listed on soundcheck as of Tue, 28 Jul 2026, next at THE MAGICK BAR, Rome on Fri, 31 Jul 2026.
+Gabriele is a electronic artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at THE MAGICK BAR, Rome on Fri, 31 Jul 2026.
 
 Gabriele is an electronic artist based in Italy, tracked on soundcheck, with 15 sets logged across Milan and Rome. Often billed alongside Nicola Mazzetti, Dove Quiete and Jane Fitz. Next up: THE MAGICK BAR, Rome on Fri 31 Jul.
 
@@ -25,4 +25,4 @@ Gabriele is an electronic artist based in Italy, tracked on soundcheck, with 15 
 
 Nicola Mazzetti, Dove Quiete, Jane Fitz
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/gabriele-it/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/gabriele-it/)*

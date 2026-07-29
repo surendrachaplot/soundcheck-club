@@ -1,6 +1,6 @@
 # Sploofi
 
-Sploofi is a Techno and Experimental artist with 1 upcoming club date listed on soundcheck as of Tue, 28 Jul 2026, next at Bossa Nova Civic Club, New York City on Sat, 1 Aug 2026.
+Sploofi is a Techno and Experimental artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at Bossa Nova Civic Club, New York City on Sat, 1 Aug 2026.
 
 Sploofi is a techno and experimental artist based in United States of America, tracked on soundcheck, with 43 sets logged across Berlin, Montreal and Newyorkcity. Often billed alongside Nicolò Bernardi, Ron Like Hell and Haruka. Next up: Bossa Nova Civic Club, Newyorkcity on Sat 1 Aug.
 
@@ -25,4 +25,4 @@ Sploofi is a techno and experimental artist based in United States of America, t
 
 Nicolò Bernardi, Ron Like Hell, Haruka
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/sploofi/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/sploofi/)*

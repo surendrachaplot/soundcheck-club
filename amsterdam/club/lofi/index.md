@@ -1,6 +1,6 @@
 # Lofi
 
-Lofi is a music venue in Amsterdam with 23 upcoming nights listed on soundcheck as of Tue, 28 Jul 2026; the next is "LAUNDRETTE ...IsBurning" on Fri, 31 Jul 2026.
+Lofi is a music venue in Amsterdam with 23 upcoming nights listed on soundcheck as of Wed, 29 Jul 2026; the next is "LAUNDRETTE ...IsBurning" on Fri, 31 Jul 2026.
 
 Lofi is a music venue in Amsterdam listed on soundcheck. 23 upcoming nights, with line-ups including 1991 (UK), Yulia Niko, AC13 and Agonis and 2 more. Browse upcoming dates, start times and who's playing. Basisweg 63, Amsterdam 1043AN, Netherlands.
 
@@ -23,4 +23,4 @@ Lofi is a music venue in Amsterdam listed on soundcheck. 23 upcoming nights, wit
 
 Basisweg 63, Amsterdam 1043AN, Netherlands, Amsterdam
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/lofi/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/lofi/)*

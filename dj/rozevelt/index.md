@@ -1,6 +1,6 @@
 # Rozevelt
 
-Rozevelt is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 28 Jul 2026, next at Schans van Landmolen, Antwerp on Sat, 1 Aug 2026.
+Rozevelt is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at Schans van Landmolen, Antwerp on Sat, 1 Aug 2026.
 
 Rozevelt is a house and techno artist tracked on soundcheck, with 28 sets logged across Amsterdam, Antwerp, Brussels and Ghent and 1 more. Often billed alongside Rick Baguette, r.omy and Ilias. Next up: Schans van Landmolen, Antwerp on Sat 1 Aug.
 
@@ -25,4 +25,4 @@ Rozevelt is a house and techno artist tracked on soundcheck, with 28 sets logged
 
 Rick Baguette, r.omy, Ilias
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/rozevelt/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/rozevelt/)*

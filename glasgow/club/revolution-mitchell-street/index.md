@@ -1,6 +1,6 @@
 # Revolution Mitchell Street
 
-Revolution Mitchell Street is a music venue in Glasgow with 3 upcoming nights listed on soundcheck as of Tue, 28 Jul 2026; the next is "All Night Long - SummerJam w/ Michael Kilkie & Special Guest" on Fri, 31 Jul 2026.
+Revolution Mitchell Street is a music venue in Glasgow with 3 upcoming nights listed on soundcheck as of Wed, 29 Jul 2026; the next is "All Night Long - SummerJam w/ Michael Kilkie & Special Guest" on Fri, 31 Jul 2026.
 
 Revolution Mitchell Street is a music venue in Glasgow listed on soundcheck. 3 upcoming nights. Browse upcoming dates, start times and who's playing. 84 Mitchell St, Glasgow G1 3NA.
 
@@ -16,4 +16,4 @@ Revolution Mitchell Street is a music venue in Glasgow listed on soundcheck. 3 u
 
 84 Mitchell St, Glasgow G1 3NA, Glasgow
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/glasgow/club/revolution-mitchell-street/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/glasgow/club/revolution-mitchell-street/)*

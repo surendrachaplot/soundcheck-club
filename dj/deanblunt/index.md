@@ -1,6 +1,6 @@
 # Dean Blunt
 
-Dean Blunt is a electronic artist with 1 upcoming club date listed on soundcheck as of Tue, 28 Jul 2026, next at Silence Please, New York City on Wed, 29 Jul 2026.
+Dean Blunt is a electronic artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at Silence Please, New York City on Wed, 29 Jul 2026.
 
 Dean Blunt is an electronic artist based in United Kingdom, tracked on soundcheck, with 3 sets logged across Bali, Newyorkcity and Turin. Often billed alongside John Glacier, A. G. Cook and Amaliah. Next up: Silence Please, Newyorkcity on Wed 29 Jul.
 
@@ -19,4 +19,4 @@ Dean Blunt is an electronic artist based in United Kingdom, tracked on soundchec
 
 John Glacier, A. G. Cook, Amaliah
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/deanblunt/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/deanblunt/)*

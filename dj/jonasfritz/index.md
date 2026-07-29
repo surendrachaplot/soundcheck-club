@@ -1,6 +1,6 @@
 # Jonas Fritz
 
-Jonas Fritz is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Tue, 28 Jul 2026, next at Odonien, Cologne on Sat, 15 Aug 2026.
+Jonas Fritz is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at Odonien, Cologne on Sat, 15 Aug 2026.
 
 Jonas Fritz is a techno and house artist based in Germany, tracked on soundcheck, with 7 sets logged across Berlin, Cologne and Stuttgart. Often billed alongside Badlokk, Bellville and Cosmic Dance. Next up: Odonien, Cologne on Sat 15 Aug.
 
@@ -23,4 +23,4 @@ Jonas Fritz is a techno and house artist based in Germany, tracked on soundcheck
 
 Badlokk, Bellville, Cosmic Dance
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/jonasfritz/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/jonasfritz/)*

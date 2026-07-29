@@ -1,6 +1,6 @@
 # ML91
 
-ML91 is a Techno and Minimal artist with 1 upcoming club date listed on soundcheck as of Tue, 28 Jul 2026, next at Atno, Budapest on Sat, 1 Aug 2026.
+ML91 is a Techno and Minimal artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at Atno, Budapest on Sat, 1 Aug 2026.
 
 ML91 is a techno and minimal artist based in Slovakia, tracked on soundcheck, with 42 sets logged across Budapest. Often billed alongside Maron, Acsa and Adam Krasz. Next up: Atno, Budapest on Sat 1 Aug.
 
@@ -25,4 +25,4 @@ ML91 is a techno and minimal artist based in Slovakia, tracked on soundcheck, wi
 
 Maron, Acsa, Adam Krasz
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/ml91/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/ml91/)*

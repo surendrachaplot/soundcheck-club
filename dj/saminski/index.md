@@ -1,6 +1,6 @@
 # Saminski
 
-Saminski is a Trance and Techno artist with 2 upcoming club dates listed on soundcheck as of Tue, 28 Jul 2026, next at Bahnwärter Thiel, Munich on Fri, 31 Jul 2026.
+Saminski is a Trance and Techno artist with 2 upcoming club dates listed on soundcheck as of Wed, 29 Jul 2026, next at Bahnwärter Thiel, Munich on Fri, 31 Jul 2026.
 
 Saminski is a trance and techno artist based in Germany, tracked on soundcheck, with 22 sets logged across Berlin, Munich and Stuttgart. Often billed alongside Listenblondie, 9LALEY and Jan Minnerup. Next up: Bahnwärter Thiel, Munich on Fri 31 Jul.
 
@@ -26,4 +26,4 @@ Saminski is a trance and techno artist based in Germany, tracked on soundcheck, 
 
 Listenblondie, 9LALEY, Jan Minnerup
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/saminski/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/saminski/)*

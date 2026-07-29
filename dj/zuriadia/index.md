@@ -1,6 +1,6 @@
 # Zuri Adia
 
-Zuri Adia is a Guaracha and Latin Bass artist with 1 upcoming club date listed on soundcheck as of Tue, 28 Jul 2026, next at TBA - Address sent day of, Los Angeles on Sat, 1 Aug 2026.
+Zuri Adia is a Guaracha and Latin Bass artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at TBA - Address sent day of, Los Angeles on Sat, 1 Aug 2026.
 
 Zuri Adia is a guaracha and latin bass artist based in United States of America, tracked on soundcheck, with 7 sets logged across Losangeles. Often billed alongside Alxander Ivey, AndreasOne and Azure. Next up: TBA - Address sent day of, Losangeles on Sat 1 Aug.
 
@@ -23,4 +23,4 @@ Zuri Adia is a guaracha and latin bass artist based in United States of America,
 
 Alxander Ivey, AndreasOne, Azure
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/zuriadia/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/zuriadia/)*

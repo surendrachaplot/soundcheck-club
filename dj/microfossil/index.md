@@ -1,6 +1,6 @@
 # microfossil
 
-microfossil is a House and Club artist with 1 upcoming club date listed on soundcheck as of Tue, 28 Jul 2026, next at Bossa Nova Civic Club, New York City on Sun, 9 Aug 2026.
+microfossil is a House and Club artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at Bossa Nova Civic Club, New York City on Sun, 9 Aug 2026.
 
 microfossil is a house and club artist based in United States of America, tracked on soundcheck, with 12 sets logged across Newyorkcity. Often billed alongside maenad, Major Gruv and Cassi-DJ. Next up: Bossa Nova Civic Club, Newyorkcity on Sun 9 Aug.
 
@@ -25,4 +25,4 @@ microfossil is a house and club artist based in United States of America, tracke
 
 maenad, Major Gruv, Cassi-DJ
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/microfossil/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/microfossil/)*

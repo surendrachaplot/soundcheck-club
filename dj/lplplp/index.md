@@ -1,6 +1,6 @@
 # LPLPLP
 
-LPLPLP is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Tue, 28 Jul 2026, next at THE MAGICK BAR, Rome on Wed, 29 Jul 2026.
+LPLPLP is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at THE MAGICK BAR, Rome on Wed, 29 Jul 2026.
 
 LPLPLP is a techno and house artist tracked on soundcheck, with 22 sets logged across Rome and Turin. Often billed alongside Luca Viola, Gattonero and AMANDA LEAN. Next up: THE MAGICK BAR, Rome on Wed 29 Jul.
 
@@ -25,4 +25,4 @@ LPLPLP is a techno and house artist tracked on soundcheck, with 22 sets logged a
 
 Luca Viola, Gattonero, AMANDA LEAN
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/lplplp/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/lplplp/)*

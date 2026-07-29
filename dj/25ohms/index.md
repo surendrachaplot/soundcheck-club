@@ -1,6 +1,6 @@
 # 25ohms
 
-25ohms is a Hardcore and Bass artist with 1 upcoming club date listed on soundcheck as of Tue, 28 Jul 2026, next at TBA - Toronto outdoor location- info sent via email, on the 1st after 4pm, Toronto on Sat, 1 Aug 2026.
+25ohms is a Hardcore and Bass artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at TBA - Toronto outdoor location- info sent via email, on the 1st after 4pm, Toronto on Sat, 1 Aug 2026.
 
 25ohms is a hardcore and bass artist based in Canada, tracked on soundcheck, with 4 sets logged across Toronto. Often billed alongside Audi Étoffe, 666.pastel and Baby Bimbo. Next up: TBA - Toronto outdoor location- info sent via email, on the 1st after 4pm, Toronto on Sat 1 Aug.
 
@@ -20,4 +20,4 @@
 
 Audi Étoffe, 666.pastel, Baby Bimbo
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/25ohms/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/25ohms/)*

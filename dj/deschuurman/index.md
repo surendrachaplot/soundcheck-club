@@ -1,6 +1,6 @@
 # De Schuurman
 
-De Schuurman is a Techno and House artist with 4 upcoming club dates listed on soundcheck as of Tue, 28 Jul 2026, next at BarKa, Warsaw on Thu, 30 Jul 2026.
+De Schuurman is a Techno and House artist with 4 upcoming club dates listed on soundcheck as of Wed, 29 Jul 2026, next at BarKa, Warsaw on Thu, 30 Jul 2026.
 
 De Schuurman is a techno and house artist tracked on soundcheck, with 55 sets logged across Amsterdam, Athens, Barcelona and Berlin and 17 more. Often billed alongside Catu Diosis, Nsasi and BASHKKA. Next up: BarKa, Warsaw on Thu 30 Jul.
 
@@ -28,4 +28,4 @@ De Schuurman is a techno and house artist tracked on soundcheck, with 55 sets lo
 
 Catu Diosis, Nsasi, BASHKKA
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/deschuurman/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/deschuurman/)*

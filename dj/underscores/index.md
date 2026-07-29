@@ -1,6 +1,6 @@
 # underscores
 
-underscores is a Club and Electro artist with 2 upcoming club dates listed on soundcheck as of Tue, 28 Jul 2026, next at TBA - Mission Four (Ace*Mission Studios) 560 S Mission Rd, Los Angeles, CA 90033, Los Angeles on Fri, 31 Jul 2026.
+underscores is a Club and Electro artist with 2 upcoming club dates listed on soundcheck as of Wed, 29 Jul 2026, next at TBA - Mission Four (Ace*Mission Studios) 560 S Mission Rd, Los Angeles, CA 90033, Los Angeles on Fri, 31 Jul 2026.
 
 underscores is a club and electro artist based in United States of America, tracked on soundcheck, with 5 sets logged across Chicago, Losangeles, Sanfrancisco and Toronto. Often billed alongside umru, ALISHA and Airwolf Paradise. Next up: TBA - Mission Four (Ace*Mission Studios) 560 S Mission Rd, Los Angeles, CA 90033, Losangeles on Fri 31 Jul.
 
@@ -21,4 +21,4 @@ underscores is a club and electro artist based in United States of America, trac
 
 umru, ALISHA, Airwolf Paradise
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/underscores/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/underscores/)*

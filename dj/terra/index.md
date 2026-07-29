@@ -1,6 +1,6 @@
 # Terra
 
-Terra is a Techno and Psytrance artist with 1 upcoming club date listed on soundcheck as of Tue, 28 Jul 2026, next at Dürener Badesee, Cologne on Fri, 28 Aug 2026.
+Terra is a Techno and Psytrance artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at Dürener Badesee, Cologne on Fri, 28 Aug 2026.
 
 Terra is a techno and psytrance artist based in Japan, tracked on soundcheck, with 14 sets logged across Berlin, Cologne, London and Losangeles and 4 more. Often billed alongside Ambient Pino, Infected Mushroom and Neon Graveyard. Next up: Dürener Badesee, Cologne on Fri 28 Aug.
 
@@ -25,4 +25,4 @@ Terra is a techno and psytrance artist based in Japan, tracked on soundcheck, wi
 
 Ambient Pino, Infected Mushroom, Neon Graveyard
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/terra/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/terra/)*

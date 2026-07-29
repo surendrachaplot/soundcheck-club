@@ -1,6 +1,6 @@
 # Goosensei
 
-Goosensei is a Dubstep and Drum & Bass artist with 1 upcoming club date listed on soundcheck as of Tue, 28 Jul 2026, next at Temper and Brown, Birmingham on Fri, 31 Jul 2026.
+Goosensei is a Dubstep and Drum & Bass artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at Temper and Brown, Birmingham on Fri, 31 Jul 2026.
 
 Goosensei is a dubstep and drum & bass artist based in United Kingdom, tracked on soundcheck, with 2 sets logged across Birmingham. Often billed alongside Freeza Chin, Jayemkayem and Objectiv. Next up: Temper and Brown, Birmingham on Fri 31 Jul.
 
@@ -18,4 +18,4 @@ Goosensei is a dubstep and drum & bass artist based in United Kingdom, tracked o
 
 Freeza Chin, Jayemkayem, Objectiv
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/goosensei/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/goosensei/)*

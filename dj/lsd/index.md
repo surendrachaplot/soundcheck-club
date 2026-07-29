@@ -1,6 +1,6 @@
 # LSD
 
-LSD is a Techno and Electronica artist with 1 upcoming club date listed on soundcheck as of Tue, 28 Jul 2026, next at Amsterdamse Bos, Amsterdam on Wed, 29 Jul 2026.
+LSD is a Techno and Electronica artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at Amsterdamse Bos, Amsterdam on Wed, 29 Jul 2026.
 
 LSD is a techno and electronica artist based in United Kingdom, tracked on soundcheck, with 5 sets logged across Amsterdam, Athens, Berlin and Paris. Often billed alongside Ben UFO, Beste Hira and Blasha & Allatt. Next up: Amsterdamse Bos, Amsterdam on Wed 29 Jul.
 
@@ -21,4 +21,4 @@ LSD is a techno and electronica artist based in United Kingdom, tracked on sound
 
 Ben UFO, Beste Hira, Blasha & Allatt
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/lsd/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/lsd/)*

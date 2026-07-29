@@ -1,6 +1,6 @@
 # Rami Nassif
 
-Rami Nassif is a Pop and House artist with 1 upcoming club date listed on soundcheck as of Tue, 28 Jul 2026, next at Cafeteria, Toronto on Fri, 31 Jul 2026.
+Rami Nassif is a Pop and House artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at Cafeteria, Toronto on Fri, 31 Jul 2026.
 
 Rami Nassif is a pop and house artist based in Canada, tracked on soundcheck, with 22 sets logged across Montreal and Toronto. Often billed alongside Shen (2), 999ADJ and Ana Luisa. Next up: Cafeteria, Toronto on Fri 31 Jul.
 
@@ -25,4 +25,4 @@ Rami Nassif is a pop and house artist based in Canada, tracked on soundcheck, wi
 
 Shen (2), 999ADJ, Ana Luisa
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/raminassif/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/raminassif/)*

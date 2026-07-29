@@ -1,6 +1,6 @@
 # Vampire Sex
 
-Vampire Sex is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Tue, 28 Jul 2026, next at Edge Miami, Miami on Fri, 31 Jul 2026.
+Vampire Sex is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at Edge Miami, Miami on Fri, 31 Jul 2026.
 
 Vampire Sex is a house and tech house artist based in Colombia, tracked on soundcheck, with 12 sets logged across Denver and Miami. Often billed alongside Gettoblaster, Charles Meyer (US) and Harry Romero. Next up: Edge Miami, Miami on Fri 31 Jul.
 
@@ -25,4 +25,4 @@ Vampire Sex is a house and tech house artist based in Colombia, tracked on sound
 
 Gettoblaster, Charles Meyer (US), Harry Romero
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/vampiresex/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/vampiresex/)*

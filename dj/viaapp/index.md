@@ -1,6 +1,6 @@
 # Via App
 
-Via App is a Techno and Experimental artist with 1 upcoming club date listed on soundcheck as of Tue, 28 Jul 2026, next at Bossa Nova Civic Club, New York City on Tue, 25 Aug 2026.
+Via App is a Techno and Experimental artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at Bossa Nova Civic Club, New York City on Tue, 25 Aug 2026.
 
 Via App is a techno and experimental artist based in United States of America, tracked on soundcheck, with 44 sets logged across Austin, Berlin, Milan and Montreal and 3 more. Often billed alongside Juliana Huxtable, Sausha and LOKA (US). Next up: Bossa Nova Civic Club, Newyorkcity on Tue 25 Aug.
 
@@ -25,4 +25,4 @@ Via App is a techno and experimental artist based in United States of America, t
 
 Juliana Huxtable, Sausha, LOKA (US)
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/viaapp/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/viaapp/)*

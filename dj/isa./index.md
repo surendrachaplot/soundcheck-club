@@ -1,6 +1,6 @@
 # ISA.
 
-ISA. is a Amapiano and Afrobeats artist with 1 upcoming club date listed on soundcheck as of Tue, 28 Jul 2026, next at TBA - Secret Location, Toronto on Fri, 31 Jul 2026.
+ISA. is a Amapiano and Afrobeats artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at TBA - Secret Location, Toronto on Fri, 31 Jul 2026.
 
 ISA. is an amapiano and afrobeats artist based in Nigeria, tracked on soundcheck, with 13 sets logged across Mexicocity and Toronto. Often billed alongside ADEOLA, Hangaelle and Orè (Sample Chief). Next up: TBA - Secret Location, Toronto on Fri 31 Jul.
 
@@ -25,4 +25,4 @@ ISA. is an amapiano and afrobeats artist based in Nigeria, tracked on soundcheck
 
 ADEOLA, Hangaelle, Orè (Sample Chief)
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/isa./)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/isa./)*

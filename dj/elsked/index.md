@@ -1,6 +1,6 @@
 # Elsked
 
-Elsked is a electronic artist with 2 upcoming club dates listed on soundcheck as of Tue, 28 Jul 2026, next at Byhaven, Copenhagen on Wed, 29 Jul 2026.
+Elsked is a electronic artist with 2 upcoming club dates listed on soundcheck as of Wed, 29 Jul 2026, next at Byhaven, Copenhagen on Wed, 29 Jul 2026.
 
 Elsked is an electronic artist based in Denmark, tracked on soundcheck, with 4 sets logged across Copenhagen. Often billed alongside Astrid Engberg, Bambii and Buraka Som Sistema. Next up: Byhaven, Copenhagen on Wed 29 Jul.
 
@@ -20,4 +20,4 @@ Elsked is an electronic artist based in Denmark, tracked on soundcheck, with 4 s
 
 Astrid Engberg, Bambii, Buraka Som Sistema
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/elsked/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/elsked/)*

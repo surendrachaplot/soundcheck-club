@@ -1,6 +1,6 @@
 # Bab Klover
 
-Bab Klover is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Tue, 28 Jul 2026, next at Guíxols Arena, Barcelona on Sat, 22 Aug 2026.
+Bab Klover is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at Guíxols Arena, Barcelona on Sat, 22 Aug 2026.
 
 Bab Klover is a house and tech house artist tracked on soundcheck, with 24 sets logged across Barcelona and Ibiza. Often billed alongside Yotu Meneo, Bastian Bux and IULS. Next up: Guíxols Arena, Barcelona on Sat 22 Aug.
 
@@ -25,4 +25,4 @@ Bab Klover is a house and tech house artist tracked on soundcheck, with 24 sets 
 
 Yotu Meneo, Bastian Bux, IULS
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/babklover/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/babklover/)*

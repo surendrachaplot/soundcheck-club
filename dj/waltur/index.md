@@ -1,6 +1,6 @@
 # waltur
 
-waltur is a Techno and Hardcore artist with 1 upcoming club date listed on soundcheck as of Tue, 28 Jul 2026, next at MAS - Museum aan de Stroom, Antwerp on Sat, 1 Aug 2026.
+waltur is a Techno and Hardcore artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at MAS - Museum aan de Stroom, Antwerp on Sat, 1 Aug 2026.
 
 waltur is a techno and hardcore artist based in Belgium, tracked on soundcheck, with 52 sets logged across Amsterdam, Antwerp, Berlin and Brussels and 6 more. Often billed alongside Lolalita, myu:sa and instar. Next up: MAS - Museum aan de Stroom, Antwerp on Sat 1 Aug.
 
@@ -25,4 +25,4 @@ waltur is a techno and hardcore artist based in Belgium, tracked on soundcheck, 
 
 Lolalita, myu:sa, instar
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/waltur/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/waltur/)*

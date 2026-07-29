@@ -1,6 +1,6 @@
 # Davina Moss
 
-Davina Moss is a Techno and Deep House artist with 2 upcoming club dates listed on soundcheck as of Tue, 28 Jul 2026, next at Amnesia Ibiza, Ibiza on Wed, 29 Jul 2026.
+Davina Moss is a Techno and Deep House artist with 2 upcoming club dates listed on soundcheck as of Wed, 29 Jul 2026, next at Amnesia Ibiza, Ibiza on Wed, 29 Jul 2026.
 
 Davina Moss is a techno and deep house artist based in Spain, tracked on soundcheck, with 20 sets logged across Barcelona, Ibiza and London. Often billed alongside Defex, Felix Da Funk and Oscar Colorado. Next up: Amnesia Ibiza, Ibiza on Wed 29 Jul.
 
@@ -26,4 +26,4 @@ Davina Moss is a techno and deep house artist based in Spain, tracked on soundch
 
 Defex, Felix Da Funk, Oscar Colorado
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/davinamoss/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/davinamoss/)*

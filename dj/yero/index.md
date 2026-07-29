@@ -1,6 +1,6 @@
 # YERO
 
-YERO is a electronic artist with 1 upcoming club date listed on soundcheck as of Tue, 28 Jul 2026, next at Cavo Paradiso, Mykonos on Wed, 29 Jul 2026.
+YERO is a electronic artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at Cavo Paradiso, Mykonos on Wed, 29 Jul 2026.
 
 YERO is an electronic artist based in Greece, tracked on soundcheck, with 9 sets logged across Athens, Copenhagen and Mykonos. Often billed alongside BRB, Cloonee and Freespirit. Next up: Cavo Paradiso, Mykonos on Wed 29 Jul.
 
@@ -25,4 +25,4 @@ YERO is an electronic artist based in Greece, tracked on soundcheck, with 9 sets
 
 BRB, Cloonee, Freespirit
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/yero/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/yero/)*

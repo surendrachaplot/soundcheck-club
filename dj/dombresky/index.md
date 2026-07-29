@@ -1,6 +1,6 @@
 # Dombresky
 
-Dombresky is a House and Tech House artist with 6 upcoming club dates listed on soundcheck as of Tue, 28 Jul 2026, next at Smoke & Mirrors, Chicago on Sun, 2 Aug 2026.
+Dombresky is a House and Tech House artist with 6 upcoming club dates listed on soundcheck as of Wed, 29 Jul 2026, next at Smoke & Mirrors, Chicago on Sun, 2 Aug 2026.
 
 Dombresky is a house and tech house artist tracked on soundcheck, with 138 sets logged across Austin, Bali, Barcelona and Boston and 29 more. Often billed alongside Jaded (UK), Cassian and Eli Brown. Next up: Smoke & Mirrors, Chicago on Sun 2 Aug.
 
@@ -30,4 +30,4 @@ Dombresky is a house and tech house artist tracked on soundcheck, with 138 sets 
 
 Jaded (UK), Cassian, Eli Brown
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/dombresky/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/dombresky/)*

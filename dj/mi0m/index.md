@@ -1,6 +1,6 @@
 # mi0m
 
-mi0m is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Tue, 28 Jul 2026, next at Let it Roll Festival @Lake Most, Prague on Fri, 31 Jul 2026.
+mi0m is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at Let it Roll Festival @Lake Most, Prague on Fri, 31 Jul 2026.
 
 mi0m is a techno and trance artist based in Germany, tracked on soundcheck, with 8 sets logged across Berlin, Prague and Stuttgart. Often billed alongside Tamara Wirth, Benski and Coco Cobra. Next up: Let it Roll Festival @Lake Most, Prague on Fri 31 Jul.
 
@@ -24,4 +24,4 @@ mi0m is a techno and trance artist based in Germany, tracked on soundcheck, with
 
 Tamara Wirth, Benski, Coco Cobra
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/mi0m/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/mi0m/)*

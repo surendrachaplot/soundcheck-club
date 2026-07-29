@@ -1,6 +1,6 @@
 # SoundSex
 
-SoundSex is a Afro House and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 28 Jul 2026, next at TBA - HUMV, Denver on Fri, 31 Jul 2026.
+SoundSex is a Afro House and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at TBA - HUMV, Denver on Fri, 31 Jul 2026.
 
 SoundSex is an afro house and techno artist based in United States of America, tracked on soundcheck, with 6 sets logged across Boston, Denver, Losangeles and Sandiego and 1 more. Often billed alongside Katya C, Keoki and LL Bishop. Next up: TBA - HUMV, Denver on Fri 31 Jul.
 
@@ -22,4 +22,4 @@ SoundSex is an afro house and techno artist based in United States of America, t
 
 Katya C, Keoki, LL Bishop
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/soundsex/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/soundsex/)*

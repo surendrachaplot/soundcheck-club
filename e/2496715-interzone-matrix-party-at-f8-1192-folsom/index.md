@@ -1,6 +1,6 @@
 # INTERZONE - MATRIX PARTY at F8 1192 Folsom
 
-INTERZONE - MATRIX PARTY at F8 1192 Folsom on Tue 25 Aug, Sanfrancisco. 2 acts on the bill: Hex Embrace and Hopelesss. Club and EBM. Preview the line-up and save it on soundcheck.
+INTERZONE - MATRIX PARTY at F8 1192 Folsom on Tue 25 Aug, Sanfrancisco. 3 acts on the bill: Byter, Hex Embrace and Hopelesss. Club and EBM. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,6 +10,7 @@ INTERZONE - MATRIX PARTY at F8 1192 Folsom on Tue 25 Aug, Sanfrancisco. 2 acts o
 
 ## Line-up
 
+- Byter
 - Hex Embrace
 - Hopelesss
 

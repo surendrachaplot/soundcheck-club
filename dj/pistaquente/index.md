@@ -1,6 +1,6 @@
 # Pista Quente
 
-Pista Quente is a House and Balearic artist with 2 upcoming club dates listed on soundcheck as of Tue, 28 Jul 2026, next at Casinha cc, Sao Paulo on Sat, 1 Aug 2026.
+Pista Quente is a House and Balearic artist with 2 upcoming club dates listed on soundcheck as of Wed, 29 Jul 2026, next at Casinha cc, Sao Paulo on Sat, 1 Aug 2026.
 
 Pista Quente is a house and balearic artist based in Brazil, tracked on soundcheck, with 51 sets logged across Lisbon and Saopaulo. Often billed alongside Akin/Non Exist, Benjamin Sallum and Capetini. Next up: Casinha cc, Saopaulo on Sat 1 Aug.
 
@@ -26,4 +26,4 @@ Pista Quente is a house and balearic artist based in Brazil, tracked on soundche
 
 Akin/Non Exist, Benjamin Sallum, Capetini
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/pistaquente/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/pistaquente/)*

@@ -1,6 +1,6 @@
 # PFDA
 
-PFDA is a Techno and Breakbeat artist with 1 upcoming club date listed on soundcheck as of Tue, 28 Jul 2026, next at Green Room NYC, New York City on Wed, 29 Jul 2026.
+PFDA is a Techno and Breakbeat artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at Green Room NYC, New York City on Wed, 29 Jul 2026.
 
 PFDA is a techno and breakbeat artist based in Georgia, tracked on soundcheck, with 12 sets logged across Ibiza, Newyorkcity and Tbilisi. Often billed alongside Firebunny, Neon Warrior and Nikitaurech. Next up: Green Room NYC, Newyorkcity on Wed 29 Jul.
 
@@ -25,4 +25,4 @@ PFDA is a techno and breakbeat artist based in Georgia, tracked on soundcheck, w
 
 Firebunny, Neon Warrior, Nikitaurech
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/pfda/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/pfda/)*

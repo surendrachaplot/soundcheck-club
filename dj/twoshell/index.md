@@ -1,6 +1,6 @@
 # Two Shell
 
-Two Shell is a Techno and Experimental artist with 4 upcoming club dates listed on soundcheck as of Tue, 28 Jul 2026, next at Unité.22, Marseille on Fri, 7 Aug 2026.
+Two Shell is a Techno and Experimental artist with 4 upcoming club dates listed on soundcheck as of Wed, 29 Jul 2026, next at Unité.22, Marseille on Fri, 7 Aug 2026.
 
 Two Shell is a techno and experimental artist tracked on soundcheck, with 76 sets logged across Amsterdam, Barcelona, Berlin and Bristol and 26 more. Often billed alongside Ogazón, Avalon Emerson and Call Super. Next up: Unité.22, Marseille on Fri 7 Aug.
 
@@ -28,4 +28,4 @@ Two Shell is a techno and experimental artist tracked on soundcheck, with 76 set
 
 Ogazón, Avalon Emerson, Call Super
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/twoshell/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/twoshell/)*

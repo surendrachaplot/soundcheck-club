@@ -1,8 +1,8 @@
 # Claudio PRC
 
-Claudio PRC is a Techno and House artist with 4 upcoming club dates listed on soundcheck as of Tue, 28 Jul 2026, next at De Fik Garden, Amsterdam on Sun, 30 Aug 2026.
+Claudio PRC is a Techno and House artist with 5 upcoming club dates listed on soundcheck as of Wed, 29 Jul 2026, next at De Fik Garden, Amsterdam on Sun, 30 Aug 2026.
 
-Claudio PRC is a techno and house artist based in Italy, tracked on soundcheck, with 144 sets logged across Amsterdam, Athens, Bali and Barcelona and 40 more. Often billed alongside Luigi Tozzi, Isabel Soto and Laura BCR. Next up: De Fik Garden, Amsterdam on Sun 30 Aug.
+Claudio PRC is a techno and house artist based in Italy, tracked on soundcheck, with 145 sets logged across Amsterdam, Athens, Bali and Barcelona and 40 more. Often billed alongside Luigi Tozzi, Isabel Soto and Adriana Lopez. Next up: De Fik Garden, Amsterdam on Sun 30 Aug.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Claudio PRC is a techno and house artist based in Italy, tracked on soundcheck, 
 | --- | --- | --- |
 | Sun, 30 Aug 2026 | De Fik Garden | Amsterdam |
 | Fri, 4 Sept 2026 | Trädgården | Stockholm |
+| Sat, 5 Sept 2026 | Europa Boat | Budapest |
 | Fri, 18 Sept 2026 | Paradiso | Amsterdam |
 | Fri, 23 Oct 2026 | Levenslang Amsterdam | Amsterdam |
 
@@ -26,6 +27,6 @@ Claudio PRC is a techno and house artist based in Italy, tracked on soundcheck, 
 
 ## Shares bills with
 
-Luigi Tozzi, Isabel Soto, Laura BCR
+Luigi Tozzi, Isabel Soto, Adriana Lopez
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/claudioprc/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/claudioprc/)*

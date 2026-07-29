@@ -1,6 +1,6 @@
 # Salo (2)
 
-Salo (2) is a Club artist with 1 upcoming club date listed on soundcheck as of Tue, 28 Jul 2026, next at The Cause, London on Sun, 2 Aug 2026.
+Salo (2) is a Club artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at The Cause, London on Sun, 2 Aug 2026.
 
 Salo (2) is a club artist based in Canada, tracked on soundcheck, with 3 sets logged across London, Lyon and Manchester. Often billed alongside 4am Kru, Decibella and Guido YZ. Next up: The Cause, London on Sun 2 Aug.
 
@@ -19,4 +19,4 @@ Salo (2) is a club artist based in Canada, tracked on soundcheck, with 3 sets lo
 
 4am Kru, Decibella, Guido YZ
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/salo-2/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/salo-2/)*

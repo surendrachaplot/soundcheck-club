@@ -1,6 +1,6 @@
 # Six Trees Bar And Kitchen Manchester
 
-Six Trees Bar And Kitchen Manchester is a music venue in Manchester with 6 upcoming nights listed on soundcheck as of Tue, 28 Jul 2026; the next is "Hotline X BackOnTrack Presents: Jentzen & Kai Saunders" on Sat, 1 Aug 2026.
+Six Trees Bar And Kitchen Manchester is a music venue in Manchester with 6 upcoming nights listed on soundcheck as of Wed, 29 Jul 2026; the next is "Hotline X BackOnTrack Presents: Jentzen & Kai Saunders" on Sat, 1 Aug 2026.
 
 Six Trees Bar And Kitchen Manchester is a music venue in Manchester listed on soundcheck. 6 upcoming nights, with line-ups including Adam Be (1), Electric Gigi, Grace Sands and Jamie Stevens and 2 more. Browse upcoming dates, start times and who's playing. Trafford Park Rd, Trafford Park, Stretford, Manchester M17 1BN.
 
@@ -19,4 +19,4 @@ Six Trees Bar And Kitchen Manchester is a music venue in Manchester listed on so
 
 Trafford Park Rd, Trafford Park, Stretford, Manchester M17 1BN, Manchester
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/manchester/club/six-trees-bar-and-kitchen-manchester/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/manchester/club/six-trees-bar-and-kitchen-manchester/)*

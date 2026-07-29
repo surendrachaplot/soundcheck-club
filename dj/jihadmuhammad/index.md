@@ -1,6 +1,6 @@
 # Jihad Muhammad
 
-Jihad Muhammad is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Tue, 28 Jul 2026, next at Mo's Bar, New York City on Sat, 1 Aug 2026.
+Jihad Muhammad is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at Mo's Bar, New York City on Sat, 1 Aug 2026.
 
 Jihad Muhammad is a house and deep house artist based in United States of America, tracked on soundcheck, with 23 sets logged across Chicago, Detroit, London and Munich and 2 more. Often billed alongside Anane, Bruce Bailey and DJ Beloved. Next up: Mo's Bar, Newyorkcity on Sat 1 Aug.
 
@@ -25,4 +25,4 @@ Jihad Muhammad is a house and deep house artist based in United States of Americ
 
 Anane, Bruce Bailey, DJ Beloved
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/jihadmuhammad/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/jihadmuhammad/)*

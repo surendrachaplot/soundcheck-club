@@ -1,6 +1,6 @@
 # Tuxe
 
-Tuxe is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 28 Jul 2026, next at Distillery N17, London on Fri, 31 Jul 2026.
+Tuxe is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at Distillery N17, London on Fri, 31 Jul 2026.
 
 Tuxe is a house and techno artist based in Brazil, tracked on soundcheck, with 29 sets logged across Amsterdam, Berlin, Brussels and Copenhagen and 4 more. Often billed alongside Alírio, Ananda (BR) and Guza. Next up: Distillery N17, London on Fri 31 Jul.
 
@@ -25,4 +25,4 @@ Tuxe is a house and techno artist based in Brazil, tracked on soundcheck, with 2
 
 Alírio, Ananda (BR), Guza
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/tuxe/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/tuxe/)*

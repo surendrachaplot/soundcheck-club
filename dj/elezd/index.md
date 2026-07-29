@@ -1,6 +1,6 @@
 # ElezD
 
-ElezD is a Techno and Acid artist with 1 upcoming club date listed on soundcheck as of Tue, 28 Jul 2026, next at EQ San Diego, San Diego on Thu, 30 Jul 2026.
+ElezD is a Techno and Acid artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at EQ San Diego, San Diego on Thu, 30 Jul 2026.
 
 ElezD is a techno and acid artist based in United States of America, tracked on soundcheck, with 12 sets logged across Sandiego. Often billed alongside AKONA, KatesNotHere and Killmor. Next up: EQ San Diego, Sandiego on Thu 30 Jul.
 
@@ -25,4 +25,4 @@ ElezD is a techno and acid artist based in United States of America, tracked on 
 
 AKONA, KatesNotHere, Killmor
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/elezd/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/elezd/)*

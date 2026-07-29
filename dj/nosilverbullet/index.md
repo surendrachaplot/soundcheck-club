@@ -1,6 +1,6 @@
 # No Silver Bullet
 
-No Silver Bullet is a House and Deep House artist with 2 upcoming club dates listed on soundcheck as of Tue, 28 Jul 2026, next at Crack Bellmer, Berlin on Thu, 20 Aug 2026.
+No Silver Bullet is a House and Deep House artist with 2 upcoming club dates listed on soundcheck as of Wed, 29 Jul 2026, next at Crack Bellmer, Berlin on Thu, 20 Aug 2026.
 
 No Silver Bullet is a house and deep house artist tracked on soundcheck, with 36 sets logged across Berlin. Often billed alongside MARIE.MOON, DAAS (1) and Santi Calvo. Next up: Crack Bellmer, Berlin on Thu 20 Aug.
 
@@ -26,4 +26,4 @@ No Silver Bullet is a house and deep house artist tracked on soundcheck, with 36
 
 MARIE.MOON, DAAS (1), Santi Calvo
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/nosilverbullet/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/nosilverbullet/)*

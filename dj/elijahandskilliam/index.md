@@ -1,6 +1,6 @@
 # Elijah and Skilliam
 
-Elijah and Skilliam is a Bass and Drum & Bass artist with 1 upcoming club date listed on soundcheck as of Tue, 28 Jul 2026, next at Cu, London on Sat, 19 Sept 2026.
+Elijah and Skilliam is a Bass and Drum & Bass artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at Cu, London on Sat, 19 Sept 2026.
 
 Elijah and Skilliam are a bass and drum & bass duo based in United Kingdom, tracked on soundcheck, with 7 sets logged across London. Often billed alongside mixtress, Big Ang and Charisse C. Next up: Cu, London on Sat 19 Sept.
 
@@ -23,4 +23,4 @@ Elijah and Skilliam are a bass and drum & bass duo based in United Kingdom, trac
 
 mixtress, Big Ang, Charisse C
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/elijahandskilliam/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/elijahandskilliam/)*

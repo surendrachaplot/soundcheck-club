@@ -1,6 +1,6 @@
 # Shaven
 
-Shaven is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Tue, 28 Jul 2026, next at Spreefeld Bootshaus, Berlin on Wed, 29 Jul 2026.
+Shaven is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at Spreefeld Bootshaus, Berlin on Wed, 29 Jul 2026.
 
 Shaven is a techno and trance artist based in Italy, tracked on soundcheck, with 19 sets logged across Bangkok, Berlin, Budapest and Copenhagen and 3 more. Often billed alongside Shugo Noss, VEL (MA) and Aveen. Next up: Spreefeld Bootshaus, Berlin on Wed 29 Jul.
 
@@ -25,4 +25,4 @@ Shaven is a techno and trance artist based in Italy, tracked on soundcheck, with
 
 Shugo Noss, VEL (MA), Aveen
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/shaven/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/shaven/)*

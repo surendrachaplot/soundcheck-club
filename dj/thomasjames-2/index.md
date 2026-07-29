@@ -1,6 +1,6 @@
 # Thomas James (2)
 
-Thomas James (2) is a House and Minimal artist with 1 upcoming club date listed on soundcheck as of Tue, 28 Jul 2026, next at Rhythm, Toronto on Wed, 29 Jul 2026.
+Thomas James (2) is a House and Minimal artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at Rhythm, Toronto on Wed, 29 Jul 2026.
 
 Thomas James (2) is a house and minimal artist based in Canada, tracked on soundcheck, with 25 sets logged across Toronto. Often billed alongside Greg Burke, Fauren and Hair Gel. Next up: Rhythm, Toronto on Wed 29 Jul.
 
@@ -25,4 +25,4 @@ Thomas James (2) is a house and minimal artist based in Canada, tracked on sound
 
 Greg Burke, Fauren, Hair Gel
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/thomasjames-2/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/thomasjames-2/)*

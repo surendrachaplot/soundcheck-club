@@ -1,6 +1,6 @@
 # GEO LINN
 
-GEO LINN is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Tue, 28 Jul 2026, next at Bar Oriente, Mexico City on Wed, 29 Jul 2026.
+GEO LINN is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at Bar Oriente, Mexico City on Wed, 29 Jul 2026.
 
 GEO LINN is a techno and trance artist based in Mexico, tracked on soundcheck, with 10 sets logged across Mexicocity. Often billed alongside ARIS (MX), Dig-it and Fixon. Next up: Bar Oriente, Mexicocity on Wed 29 Jul.
 
@@ -25,4 +25,4 @@ GEO LINN is a techno and trance artist based in Mexico, tracked on soundcheck, w
 
 ARIS (MX), Dig-it, Fixon
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/geolinn/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/geolinn/)*

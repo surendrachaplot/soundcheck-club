@@ -1,6 +1,6 @@
 # Ben Sleia
 
-Ben Sleia is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 28 Jul 2026, next at Giri, Berlin on Thu, 6 Aug 2026.
+Ben Sleia is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at Giri, Berlin on Thu, 6 Aug 2026.
 
 Ben Sleia is a house and techno artist tracked on soundcheck, with 30 sets logged across Berlin, Bristol, Brussels and Leipzig and 2 more. Often billed alongside kawasaki2000, Denham Audio and Freigeist. Next up: Giri, Berlin on Thu 6 Aug.
 
@@ -25,4 +25,4 @@ Ben Sleia is a house and techno artist tracked on soundcheck, with 30 sets logge
 
 kawasaki2000, Denham Audio, Freigeist
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/bensleia/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/bensleia/)*

@@ -1,6 +1,6 @@
 # TiLA
 
-TiLA is a Techno artist with 2 upcoming club dates listed on soundcheck as of Tue, 28 Jul 2026, next at Nice N Sleazy, Glasgow on Thu, 30 Jul 2026.
+TiLA is a Techno artist with 2 upcoming club dates listed on soundcheck as of Wed, 29 Jul 2026, next at Nice N Sleazy, Glasgow on Thu, 30 Jul 2026.
 
 TiLA is a techno artist based in United Kingdom, tracked on soundcheck, with 2 sets logged across Glasgow. Often billed alongside Aileron, ITEM9 and Julz Lever. Next up: Nice N Sleazy, Glasgow on Thu 30 Jul.
 
@@ -15,4 +15,4 @@ TiLA is a techno artist based in United Kingdom, tracked on soundcheck, with 2 s
 
 Aileron, ITEM9, Julz Lever
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/tila/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/tila/)*

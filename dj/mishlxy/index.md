@@ -1,6 +1,6 @@
 # mishLXY
 
-mishLXY is a Techno and Dub Techno artist with 2 upcoming club dates listed on soundcheck as of Tue, 28 Jul 2026, next at Collingwood Basement, Melbourne on Fri, 31 Jul 2026.
+mishLXY is a Techno and Dub Techno artist with 2 upcoming club dates listed on soundcheck as of Wed, 29 Jul 2026, next at Collingwood Basement, Melbourne on Fri, 31 Jul 2026.
 
 mishLXY is a techno and dub techno artist based in Australia, tracked on soundcheck, with 10 sets logged across Melbourne. Often billed alongside Steve Pan, Aaliyah Salem and Aidan Rudd. Next up: Collingwood Basement, Melbourne on Fri 31 Jul.
 
@@ -26,4 +26,4 @@ mishLXY is a techno and dub techno artist based in Australia, tracked on soundch
 
 Steve Pan, Aaliyah Salem, Aidan Rudd
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/mishlxy/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/mishlxy/)*

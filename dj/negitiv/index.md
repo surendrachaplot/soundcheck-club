@@ -1,6 +1,6 @@
 # NEGITIV
 
-NEGITIV is a Techno and Trance artist with 9 upcoming club dates listed on soundcheck as of Tue, 28 Jul 2026, next at Donauinsel, Vienna on Sat, 1 Aug 2026.
+NEGITIV is a Techno and Trance artist with 9 upcoming club dates listed on soundcheck as of Wed, 29 Jul 2026, next at Donauinsel, Vienna on Sat, 1 Aug 2026.
 
 NEGITIV is a techno and trance artist tracked on soundcheck, with 92 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 39 more. Often billed alongside Alex Farell, SANTØS and Onlynumbers. Next up: Donauinsel, Vienna on Sat 1 Aug.
 
@@ -33,4 +33,4 @@ NEGITIV is a techno and trance artist tracked on soundcheck, with 92 sets logged
 
 Alex Farell, SANTØS, Onlynumbers
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/negitiv/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/negitiv/)*

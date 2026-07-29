@@ -1,6 +1,6 @@
 # Paolo Rocco
 
-Paolo Rocco is a House and Minimal artist with 1 upcoming club date listed on soundcheck as of Tue, 28 Jul 2026, next at NWHR, Montreal on Sat, 1 Aug 2026.
+Paolo Rocco is a House and Minimal artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at NWHR, Montreal on Sat, 1 Aug 2026.
 
 Paolo Rocco is a house and minimal artist based in Canada, tracked on soundcheck, with 26 sets logged across Amsterdam, Brussels, Hamburg and London and 5 more. Often billed alongside Chris Stussy, MAHAR and Lessi S.. Next up: NWHR, Montreal on Sat 1 Aug.
 
@@ -25,4 +25,4 @@ Paolo Rocco is a house and minimal artist based in Canada, tracked on soundcheck
 
 Chris Stussy, MAHAR, Lessi S.
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/paolorocco/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/paolorocco/)*

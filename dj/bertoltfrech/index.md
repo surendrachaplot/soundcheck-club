@@ -1,6 +1,6 @@
 # Bertolt Frech
 
-Bertolt Frech is a electronic artist with 1 upcoming club date listed on soundcheck as of Tue, 28 Jul 2026, next at Bahnwärter Thiel, Munich on Sat, 8 Aug 2026.
+Bertolt Frech is a electronic artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at Bahnwärter Thiel, Munich on Sat, 8 Aug 2026.
 
 Bertolt Frech is an electronic artist based in Germany, tracked on soundcheck, with 12 sets logged across Hamburg and Munich. Often billed alongside Moritz Butschek, Wanda Wild and Frida Darko. Next up: Bahnwärter Thiel, Munich on Sat 8 Aug.
 
@@ -25,4 +25,4 @@ Bertolt Frech is an electronic artist based in Germany, tracked on soundcheck, w
 
 Moritz Butschek, Wanda Wild, Frida Darko
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/bertoltfrech/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/bertoltfrech/)*

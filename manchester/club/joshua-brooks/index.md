@@ -1,6 +1,6 @@
 # Joshua Brooks
 
-Joshua Brooks is a music venue in Manchester with 10 upcoming nights listed on soundcheck as of Tue, 28 Jul 2026; the next is "Harriet Jaxxon presents: T1D // Manchester - A DnB Fundraiser" on Thu, 30 Jul 2026.
+Joshua Brooks is a music venue in Manchester with 10 upcoming nights listed on soundcheck as of Wed, 29 Jul 2026; the next is "Harriet Jaxxon presents: T1D // Manchester - A DnB Fundraiser" on Thu, 30 Jul 2026.
 
 Joshua Brooks is a music venue in Manchester listed on soundcheck. 10 upcoming nights, with line-ups including Because of Art, Chimpo, Doc Scott and Goldie and 2 more. Browse upcoming dates, start times and who's playing. 106 Princess Street; Manchester; M1 6NG, United Kingdom.
 
@@ -23,4 +23,4 @@ Joshua Brooks is a music venue in Manchester listed on soundcheck. 10 upcoming n
 
 106 Princess Street; Manchester; M1 6NG, United Kingdom, Manchester
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/manchester/club/joshua-brooks/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/manchester/club/joshua-brooks/)*

@@ -1,6 +1,6 @@
 # MrD
 
-MrD is a Techno and Trance artist with 2 upcoming club dates listed on soundcheck as of Tue, 28 Jul 2026, next at Tempelhof Airport, Berlin on Sat, 22 Aug 2026.
+MrD is a Techno and Trance artist with 2 upcoming club dates listed on soundcheck as of Wed, 29 Jul 2026, next at Tempelhof Airport, Berlin on Sat, 22 Aug 2026.
 
 MrD is a techno and trance artist based in Qatar, tracked on soundcheck, with 96 sets logged across Amsterdam, Antwerp, Barcelona and Basel and 40 more. Often billed alongside MRD (NO), MCR-T and DJ Gigola. Next up: Tempelhof Airport, Berlin on Sat 22 Aug.
 
@@ -26,4 +26,4 @@ MrD is a techno and trance artist based in Qatar, tracked on soundcheck, with 96
 
 MRD (NO), MCR-T, DJ Gigola
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/mrd/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/mrd/)*

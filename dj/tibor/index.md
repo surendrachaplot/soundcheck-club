@@ -1,6 +1,6 @@
 # Tibor
 
-Tibor is a House and Bass artist with 2 upcoming club dates listed on soundcheck as of Tue, 28 Jul 2026, next at Club Makossa, London on Thu, 30 Jul 2026.
+Tibor is a House and Bass artist with 2 upcoming club dates listed on soundcheck as of Wed, 29 Jul 2026, next at Club Makossa, London on Thu, 30 Jul 2026.
 
 Tibor is a house and bass artist based in United Kingdom, tracked on soundcheck, with 22 sets logged across Leeds and London. Often billed alongside MJK, Sharnie and Sheriff Boo. Next up: Club Makossa, London on Thu 30 Jul.
 
@@ -26,4 +26,4 @@ Tibor is a house and bass artist based in United Kingdom, tracked on soundcheck,
 
 MJK, Sharnie, Sheriff Boo
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/tibor/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/tibor/)*

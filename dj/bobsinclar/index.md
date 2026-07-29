@@ -1,6 +1,6 @@
 # Bob Sinclar
 
-Bob Sinclar is a House and Electro artist with 4 upcoming club dates listed on soundcheck as of Tue, 28 Jul 2026, next at BCM, Mallorca on Fri, 31 Jul 2026.
+Bob Sinclar is a House and Electro artist with 4 upcoming club dates listed on soundcheck as of Wed, 29 Jul 2026, next at BCM, Mallorca on Fri, 31 Jul 2026.
 
 Bob Sinclar is a house and electro artist based in France, tracked on soundcheck, with 41 sets logged across Barcelona, Chicago, Geneva and Ibiza and 11 more. Often billed alongside DJ Gregory, DJ Yellow and DJ Cam. Next up: BCM, Mallorca on Fri 31 Jul.
 
@@ -28,4 +28,4 @@ Bob Sinclar is a house and electro artist based in France, tracked on soundcheck
 
 DJ Gregory, DJ Yellow, DJ Cam
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/bobsinclar/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/bobsinclar/)*

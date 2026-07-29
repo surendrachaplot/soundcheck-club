@@ -1,6 +1,6 @@
 # DAAS (1)
 
-DAAS (1) is a House and Deep House artist with 3 upcoming club dates listed on soundcheck as of Tue, 28 Jul 2026, next at Süss War Gestern, Berlin on Sat, 1 Aug 2026.
+DAAS (1) is a House and Deep House artist with 3 upcoming club dates listed on soundcheck as of Wed, 29 Jul 2026, next at Süss War Gestern, Berlin on Sat, 1 Aug 2026.
 
 DAAS (1) is a house and deep house artist tracked on soundcheck, with 12 sets logged across Berlin. Often billed alongside MARIE.MOON, No Silver Bullet and WEDER. Next up: Süss War Gestern, Berlin on Sat 1 Aug.
 
@@ -27,4 +27,4 @@ DAAS (1) is a house and deep house artist tracked on soundcheck, with 12 sets lo
 
 MARIE.MOON, No Silver Bullet, WEDER
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/daas-1/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/daas-1/)*

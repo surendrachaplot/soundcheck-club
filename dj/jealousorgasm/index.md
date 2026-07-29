@@ -1,6 +1,6 @@
 # Jealous Orgasm
 
-Jealous Orgasm is a Electro and Experimental artist with 1 upcoming club date listed on soundcheck as of Tue, 28 Jul 2026, next at Start.Bahn - Genezarethkirche, Berlin on Thu, 30 Jul 2026.
+Jealous Orgasm is a Electro and Experimental artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at Start.Bahn - Genezarethkirche, Berlin on Thu, 30 Jul 2026.
 
 Jealous Orgasm is an electro and experimental artist based in United States of America, tracked on soundcheck, with 15 sets logged across Berlin and Newyorkcity. Often billed alongside Juliana Huxtable, Via App and Assyouti. Next up: Start.Bahn - Genezarethkirche, Berlin on Thu 30 Jul.
 
@@ -25,4 +25,4 @@ Jealous Orgasm is an electro and experimental artist based in United States of A
 
 Juliana Huxtable, Via App, Assyouti
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/jealousorgasm/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/jealousorgasm/)*

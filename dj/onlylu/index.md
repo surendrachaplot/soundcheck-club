@@ -1,6 +1,6 @@
 # ONLYLU
 
-ONLYLU is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Tue, 28 Jul 2026, next at Kampnagel, Hamburg on Sat, 15 Aug 2026.
+ONLYLU is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Wed, 29 Jul 2026, next at Kampnagel, Hamburg on Sat, 15 Aug 2026.
 
 ONLYLU is a techno and house artist based in Germany, tracked on soundcheck, with 63 sets logged across Hamburg and Leipzig. Often billed alongside DJ SOURCE, Roses OD and dj fako. Next up: Kampnagel, Hamburg on Sat 15 Aug.
 
@@ -26,4 +26,4 @@ ONLYLU is a techno and house artist based in Germany, tracked on soundcheck, wit
 
 DJ SOURCE, Roses OD, dj fako
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/onlylu/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/onlylu/)*

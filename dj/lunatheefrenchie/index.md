@@ -1,6 +1,6 @@
 # Luna Thee Frenchie
 
-Luna Thee Frenchie is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Tue, 28 Jul 2026, next at 24 Kitchen Street, Liverpool on Fri, 2 Oct 2026.
+Luna Thee Frenchie is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at 24 Kitchen Street, Liverpool on Fri, 2 Oct 2026.
 
 Luna Thee Frenchie is a techno and house artist based in United Kingdom, tracked on soundcheck, with 46 sets logged across Liverpool and Manchester. Often billed alongside Miggs, Sound of Drowning and Alien Izz. Next up: 24 Kitchen Street, Liverpool on Fri 2 Oct.
 
@@ -25,4 +25,4 @@ Luna Thee Frenchie is a techno and house artist based in United Kingdom, tracked
 
 Miggs, Sound of Drowning, Alien Izz
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/lunatheefrenchie/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/lunatheefrenchie/)*

@@ -1,6 +1,6 @@
 # KLIPKILLA
 
-KLIPKILLA is a Club and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 28 Jul 2026, next at Mood Ring, New York City on Thu, 30 Jul 2026.
+KLIPKILLA is a Club and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at Mood Ring, New York City on Thu, 30 Jul 2026.
 
 KLIPKILLA is a club and techno artist based in United States of America, tracked on soundcheck, with 8 sets logged across Leeds, London and Newyorkcity. Often billed alongside Chinnamasta, Talia Goddess and ARKNGL. Next up: Mood Ring, Newyorkcity on Thu 30 Jul.
 
@@ -24,4 +24,4 @@ KLIPKILLA is a club and techno artist based in United States of America, tracked
 
 Chinnamasta, Talia Goddess, ARKNGL
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/klipkilla/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/klipkilla/)*

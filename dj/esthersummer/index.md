@@ -1,6 +1,6 @@
 # Esther Summer
 
-Esther Summer is a Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 28 Jul 2026, next at EL SÓTANO, Madrid on Sat, 1 Aug 2026.
+Esther Summer is a Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at EL SÓTANO, Madrid on Sat, 1 Aug 2026.
 
 Esther Summer is a techno artist based in Spain, tracked on soundcheck, with 11 sets logged across Madrid. Often billed alongside Pulpix, 3polar and ADRI.G. Next up: EL SÓTANO, Madrid on Sat 1 Aug.
 
@@ -25,4 +25,4 @@ Esther Summer is a techno artist based in Spain, tracked on soundcheck, with 11 
 
 Pulpix, 3polar, ADRI.G
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/esthersummer/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/esthersummer/)*

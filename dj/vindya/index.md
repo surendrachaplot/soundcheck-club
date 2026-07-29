@@ -1,6 +1,6 @@
 # Vindya
 
-Vindya is a Techno and Trance artist with 2 upcoming club dates listed on soundcheck as of Tue, 28 Jul 2026, next at Starlane Pizza Bar, London on Sun, 16 Aug 2026.
+Vindya is a Techno and Trance artist with 2 upcoming club dates listed on soundcheck as of Wed, 29 Jul 2026, next at Starlane Pizza Bar, London on Sun, 16 Aug 2026.
 
 Vindya is a techno and trance artist tracked on soundcheck, with 40 sets logged across Amsterdam, Berlin, Liverpool and London and 3 more. Often billed alongside LOCKS, Nakamo and Bethan. Next up: Starlane Pizza Bar, London on Sun 16 Aug.
 
@@ -26,4 +26,4 @@ Vindya is a techno and trance artist tracked on soundcheck, with 40 sets logged 
 
 LOCKS, Nakamo, Bethan
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/vindya/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/vindya/)*

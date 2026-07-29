@@ -1,6 +1,6 @@
 # Hamburger Bahnhof - Museum für Gegenwart
 
-Hamburger Bahnhof - Museum für Gegenwart is a music venue in Berlin with 5 upcoming nights listed on soundcheck as of Tue, 28 Jul 2026; the next is "Berlin Beats: Ben Klock" on Thu, 30 Jul 2026.
+Hamburger Bahnhof - Museum für Gegenwart is a music venue in Berlin with 5 upcoming nights listed on soundcheck as of Wed, 29 Jul 2026; the next is "Berlin Beats: Ben Klock" on Thu, 30 Jul 2026.
 
 Hamburger Bahnhof - Museum für Gegenwart is a music venue in Berlin listed on soundcheck. 5 upcoming nights, with line-ups including BASHKKA, Ben Klock, Nene H and ODA HALITI and 2 more. Browse upcoming dates, start times and who's playing. Invalidenstraße 50-51, 10557 Berlin.
 
@@ -18,4 +18,4 @@ Hamburger Bahnhof - Museum für Gegenwart is a music venue in Berlin listed on s
 
 Invalidenstraße 50-51, 10557 Berlin, Berlin
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/hamburger-bahnhof-museum-f-r-gegenwart/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/hamburger-bahnhof-museum-f-r-gegenwart/)*

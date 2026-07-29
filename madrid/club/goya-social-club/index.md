@@ -1,6 +1,6 @@
 # Goya Social Club
 
-Goya Social Club is a music venue in Madrid with 3 upcoming nights listed on soundcheck as of Tue, 28 Jul 2026; the next is "Neotika G-0098" on Wed, 29 Jul 2026.
+Goya Social Club is a music venue in Madrid with 3 upcoming nights listed on soundcheck as of Wed, 29 Jul 2026; the next is "Neotika G-0098" on Wed, 29 Jul 2026.
 
 Goya Social Club is a music venue in Madrid listed on soundcheck. 3 upcoming nights, with line-ups including ALEX$€¥ and Werner. Browse upcoming dates, start times and who's playing. Calle de Goya, 43, 28001 Madrid, Spain.
 
@@ -16,4 +16,4 @@ Goya Social Club is a music venue in Madrid listed on soundcheck. 3 upcoming nig
 
 Calle de Goya, 43, 28001 Madrid, Spain, Madrid
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/madrid/club/goya-social-club/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/madrid/club/goya-social-club/)*

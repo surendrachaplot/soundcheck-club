@@ -1,6 +1,6 @@
 # KINTEL
 
-KINTEL is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Tue, 28 Jul 2026, next at Sensorium, Berlin on Fri, 31 Jul 2026.
+KINTEL is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at Sensorium, Berlin on Fri, 31 Jul 2026.
 
 KINTEL is a house and disco artist based in Germany, tracked on soundcheck, with 12 sets logged across Berlin. Often billed alongside cliff, BUTZ and Amin Fallaha. Next up: Sensorium, Berlin on Fri 31 Jul.
 
@@ -25,4 +25,4 @@ KINTEL is a house and disco artist based in Germany, tracked on soundcheck, with
 
 cliff, BUTZ, Amin Fallaha
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/kintel/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/kintel/)*

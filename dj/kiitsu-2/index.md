@@ -1,6 +1,6 @@
 # Kiitsu (2)
 
-Kiitsu (2) is a Dub Techno and House artist with 1 upcoming club date listed on soundcheck as of Tue, 28 Jul 2026, next at TBA - Secret Location, New York City on Sat, 1 Aug 2026.
+Kiitsu (2) is a Dub Techno and House artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at TBA - Secret Location, New York City on Sat, 1 Aug 2026.
 
 Kiitsu (2) is a dub techno and house artist based in Japan, tracked on soundcheck, with 4 sets logged across Newyorkcity and Toronto. Often billed alongside Alien D, Apok and Edward. Next up: TBA - Secret Location, Newyorkcity on Sat 1 Aug.
 
@@ -20,4 +20,4 @@ Kiitsu (2) is a dub techno and house artist based in Japan, tracked on soundchec
 
 Alien D, Apok, Edward
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/kiitsu-2/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/kiitsu-2/)*

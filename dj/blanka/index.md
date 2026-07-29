@@ -1,8 +1,8 @@
 # BLANKA
 
-BLANKA is a Techno and House artist with 6 upcoming club dates listed on soundcheck as of Tue, 28 Jul 2026, next at Gianpula Village, Malta on Wed, 12 Aug 2026.
+BLANKA is a Techno and House artist with 7 upcoming club dates listed on soundcheck as of Wed, 29 Jul 2026, next at Gianpula Village, Malta on Wed, 12 Aug 2026.
 
-BLANKA is a techno and house artist tracked on soundcheck, with 135 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 44 more. Often billed alongside Angioma, Quelza and Setaoc Mass. Next up: Gianpula Village, Malta on Wed 12 Aug.
+BLANKA is a techno and house artist tracked on soundcheck, with 136 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 44 more. Often billed alongside Angioma, Quelza and Setaoc Mass. Next up: Gianpula Village, Malta on Wed 12 Aug.
 
 ## Upcoming shows
 
@@ -14,6 +14,7 @@ BLANKA is a techno and house artist tracked on soundcheck, with 135 sets logged 
 | Fri, 18 Sept 2026 | Gate Milano | Milan |
 | Sat, 19 Sept 2026 | Spook Club | Valencia |
 | Sat, 24 Oct 2026 | Bajes Amsterdam | Amsterdam |
+| Tue, 27 Oct 2026 | AUX Club | Athens |
 
 ## Recently played
 
@@ -30,4 +31,4 @@ BLANKA is a techno and house artist tracked on soundcheck, with 135 sets logged 
 
 Angioma, Quelza, Setaoc Mass
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/blanka/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/blanka/)*

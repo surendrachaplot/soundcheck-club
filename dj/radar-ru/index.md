@@ -1,6 +1,6 @@
 # Radar (RU)
 
-Radar (RU) is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Tue, 28 Jul 2026, next at Mia Mao, Paris on Sat, 29 Aug 2026.
+Radar (RU) is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at Mia Mao, Paris on Sat, 29 Aug 2026.
 
 Radar (RU) is a techno and trance artist based in Russia, tracked on soundcheck, with 6 sets logged across Lyon, Miami and Paris. Often billed alongside AREA ØNE, Blame (EC) and DJ Fitness. Next up: Mia Mao, Paris on Sat 29 Aug.
 
@@ -22,4 +22,4 @@ Radar (RU) is a techno and trance artist based in Russia, tracked on soundcheck,
 
 AREA ØNE, Blame (EC), DJ Fitness
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/radar-ru/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/radar-ru/)*

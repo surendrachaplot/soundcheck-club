@@ -1,6 +1,6 @@
 # OMFDAN
 
-OMFDAN is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 28 Jul 2026, next at Versalles 64, Mexico City on Sat, 8 Aug 2026.
+OMFDAN is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at Versalles 64, Mexico City on Sat, 8 Aug 2026.
 
 OMFDAN is a house and techno artist based in Mexico, tracked on soundcheck, with 29 sets logged across Mexicocity. Often billed alongside Macarena, daveh00d and Alby Esc. Next up: Versalles 64, Mexicocity on Sat 8 Aug.
 
@@ -25,4 +25,4 @@ OMFDAN is a house and techno artist based in Mexico, tracked on soundcheck, with
 
 Macarena, daveh00d, Alby Esc
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/omfdan/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/omfdan/)*

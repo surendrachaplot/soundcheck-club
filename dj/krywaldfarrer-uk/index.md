@@ -1,6 +1,6 @@
 # Krywald & Farrer
 
-Krywald & Farrer is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 28 Jul 2026, next at HWK, London on Sat, 1 Aug 2026.
+Krywald & Farrer is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at HWK, London on Sat, 1 Aug 2026.
 
 Krywald & Farrer are a house and techno duo based in United Kingdom, tracked on soundcheck, with 13 sets logged across London. Often billed alongside Kmya, Lulah Francs and RAW SILK. Next up: HWK, London on Sat 1 Aug.
 
@@ -25,4 +25,4 @@ Krywald & Farrer are a house and techno duo based in United Kingdom, tracked on 
 
 Kmya, Lulah Francs, RAW SILK
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/krywaldfarrer-uk/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/krywaldfarrer-uk/)*

@@ -1,6 +1,6 @@
 # Acid Foxy
 
-Acid Foxy is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Tue, 28 Jul 2026, next at KitKatClub, Berlin on Fri, 31 Jul 2026.
+Acid Foxy is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Wed, 29 Jul 2026, next at KitKatClub, Berlin on Fri, 31 Jul 2026.
 
 Acid Foxy is a house and techno artist based in Germany, tracked on soundcheck, with 20 sets logged across Berlin, Nurnberg and Stuttgart. Often billed alongside Mømentum, Pussy Paradise and Ligal Tamir. Next up: KitKatClub, Berlin on Fri 31 Jul.
 
@@ -26,4 +26,4 @@ Acid Foxy is a house and techno artist based in Germany, tracked on soundcheck, 
 
 Mømentum, Pussy Paradise, Ligal Tamir
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/acidfoxy/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/acidfoxy/)*

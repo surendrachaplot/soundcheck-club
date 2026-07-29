@@ -1,6 +1,6 @@
 # Sava (3)
 
-Sava (3) is a electronic artist with 1 upcoming club date listed on soundcheck as of Tue, 28 Jul 2026, next at Jasna 1, Warsaw on Sat, 1 Aug 2026.
+Sava (3) is a electronic artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at Jasna 1, Warsaw on Sat, 1 Aug 2026.
 
 Sava (3) is an electronic artist tracked on soundcheck, with 18 sets logged across Berlin, Krakow and Warsaw. Often billed alongside nuarrrrr, DANZA_RI and Dasha Atom. Next up: Jasna 1, Warsaw on Sat 1 Aug.
 
@@ -25,4 +25,4 @@ Sava (3) is an electronic artist tracked on soundcheck, with 18 sets logged acro
 
 nuarrrrr, DANZA_RI, Dasha Atom
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/sava-3/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/sava-3/)*

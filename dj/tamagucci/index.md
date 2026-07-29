@@ -1,6 +1,6 @@
 # Tama Gucci
 
-Tama Gucci is a Club and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 28 Jul 2026, next at Little Island, New York City on Fri, 31 Jul 2026.
+Tama Gucci is a Club and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at Little Island, New York City on Fri, 31 Jul 2026.
 
 Tama Gucci is a club and techno artist based in United States of America, tracked on soundcheck, with 24 sets logged across Amsterdam, Berlin, Boston and Brussels and 6 more. Often billed alongside Mazurbate, BEARCAT and Byrell The Great. Next up: Little Island, Newyorkcity on Fri 31 Jul.
 
@@ -25,4 +25,4 @@ Tama Gucci is a club and techno artist based in United States of America, tracke
 
 Mazurbate, BEARCAT, Byrell The Great
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/tamagucci/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/tamagucci/)*

@@ -1,6 +1,6 @@
 # NOFEX
 
-NOFEX is a Deep House and Tech House artist with 1 upcoming club date listed on soundcheck as of Tue, 28 Jul 2026, next at XOYO, London on Wed, 29 Jul 2026.
+NOFEX is a Deep House and Tech House artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at XOYO, London on Wed, 29 Jul 2026.
 
 NOFEX is a deep house and tech house artist based in Italy, tracked on soundcheck, with 21 sets logged across London and Rome. Often billed alongside EDEF, Francesco Poggi and Liam Black. Next up: XOYO, London on Wed 29 Jul.
 
@@ -25,4 +25,4 @@ NOFEX is a deep house and tech house artist based in Italy, tracked on soundchec
 
 EDEF, Francesco Poggi, Liam Black
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/nofex/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/nofex/)*

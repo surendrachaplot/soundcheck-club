@@ -1,6 +1,6 @@
 # Pressure (2)
 
-Pressure (2) is a Latin Bass and Club artist with 1 upcoming club date listed on soundcheck as of Tue, 28 Jul 2026, next at BarKa, Warsaw on Wed, 29 Jul 2026.
+Pressure (2) is a Latin Bass and Club artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at BarKa, Warsaw on Wed, 29 Jul 2026.
 
 Pressure (2) is a latin bass and club artist based in Poland, tracked on soundcheck, with 4 sets logged across Detroit, Liverpool and Warsaw. Often billed alongside Ivy, SWDEJAY and Adobo (PL). Next up: BarKa, Warsaw on Wed 29 Jul.
 
@@ -20,4 +20,4 @@ Pressure (2) is a latin bass and club artist based in Poland, tracked on soundch
 
 Ivy, SWDEJAY, Adobo (PL)
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/pressure-2/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/pressure-2/)*

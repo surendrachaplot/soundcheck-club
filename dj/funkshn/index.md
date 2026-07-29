@@ -1,6 +1,6 @@
 # funkshn
 
-funkshn is a Experimental and Electronica artist with 1 upcoming club date listed on soundcheck as of Tue, 28 Jul 2026, next at HWK, London on Sat, 22 Aug 2026.
+funkshn is a Experimental and Electronica artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at HWK, London on Sat, 22 Aug 2026.
 
 funkshn is an experimental and electronica artist based in United Kingdom, tracked on soundcheck, with 7 sets logged across Belgrade and London. Often billed alongside Rapid Antics, HIKIING and Moa Pillar. Next up: HWK, London on Sat 22 Aug.
 
@@ -23,4 +23,4 @@ funkshn is an experimental and electronica artist based in United Kingdom, track
 
 Rapid Antics, HIKIING, Moa Pillar
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/funkshn/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/funkshn/)*

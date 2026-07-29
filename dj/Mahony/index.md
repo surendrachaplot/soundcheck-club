@@ -1,6 +1,6 @@
 # Mahony
 
-Mahony is a Tech House and House artist with 1 upcoming club date listed on soundcheck as of Tue, 28 Jul 2026, next at Pacha Ibiza, Ibiza on Fri, 11 Sept 2026.
+Mahony is a Tech House and House artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at Pacha Ibiza, Ibiza on Fri, 11 Sept 2026.
 
 Mahony is a tech house and house artist tracked on soundcheck, with 83 sets logged across Amsterdam, Athens, Austin and Barcelona and 18 more. Often billed alongside Yaya, Paco Osuna and Marco Carola. Next up: Pacha Ibiza, Ibiza on Fri 11 Sept.
 
@@ -25,4 +25,4 @@ Mahony is a tech house and house artist tracked on soundcheck, with 83 sets logg
 
 Yaya, Paco Osuna, Marco Carola
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/Mahony/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/Mahony/)*

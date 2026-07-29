@@ -1,6 +1,6 @@
 # Paradise Palms
 
-Paradise Palms is a music venue in Edinburgh with 3 upcoming nights listed on soundcheck as of Tue, 28 Jul 2026; the next is "Zoe from Finance and Pako Vega" on Fri, 31 Jul 2026.
+Paradise Palms is a music venue in Edinburgh with 3 upcoming nights listed on soundcheck as of Wed, 29 Jul 2026; the next is "Zoe from Finance and Pako Vega" on Fri, 31 Jul 2026.
 
 Paradise Palms is a music venue in Edinburgh listed on soundcheck. 3 upcoming nights, with line-ups including Pako Vega, Sara Delirio, Toni McVey and Zoe from Finance. Browse upcoming dates, start times and who's playing. 41 Lothian Street, EH6 6BU, Edinburgh, Scotland, United Kingdom.
 
@@ -16,4 +16,4 @@ Paradise Palms is a music venue in Edinburgh listed on soundcheck. 3 upcoming ni
 
 41 Lothian Street, EH6 6BU, Edinburgh, Scotland, United Kingdom, Edinburgh
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/edinburgh/club/paradise-palms/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/edinburgh/club/paradise-palms/)*

@@ -1,16 +1,16 @@
 # Spkrbox
 
-Spkrbox is a music venue in Detroit with 15 upcoming nights listed on soundcheck as of Tue, 28 Jul 2026; the next is "Future Visions" on Tue, 28 Jul 2026.
+Spkrbox is a music venue in Detroit with 15 upcoming nights listed on soundcheck as of Wed, 29 Jul 2026; the next is "Nightcap Detroit 4 Year Anniversary" on Wed, 29 Jul 2026.
 
-Spkrbox is a music venue in Detroit listed on soundcheck. 15 upcoming nights, with line-ups including Anubis, autogyro, Brent Shay and Dj Ryte Nou and 2 more. Browse upcoming dates, start times and who's playing. 200 Grand River Ave, Detroit, MI 48226, United States.
+Spkrbox is a music venue in Detroit listed on soundcheck. 15 upcoming nights, with line-ups including Al Ester, Anubis, autogyro and Brent Shay and 2 more. Browse upcoming dates, start times and who's playing. 200 Grand River Ave, Detroit, MI 48226, United States.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Tue, 28 Jul 2026 | Future Visions | Gary Martin, Human Robot, Lo Dazz |
 | Wed, 29 Jul 2026 | Nightcap Detroit 4 Year Anniversary | Donna Gardner, Isaac Prieto, MGUN, Whodat |
 | Thu, 30 Jul 2026 | Quixotic | Tylr, autogyro |
+| Thu, 30 Jul 2026 | Groove Night | Al Ester |
 | Fri, 31 Jul 2026 | Mean Dean on the Mezzanine | Mean Dean |
 | Sat, 1 Aug 2026 | Saturday Grind |  |
 | Sat, 1 Aug 2026 | Deep Dive |  |
@@ -23,4 +23,4 @@ Spkrbox is a music venue in Detroit listed on soundcheck. 15 upcoming nights, wi
 
 200 Grand River Ave, Detroit, MI 48226, United States, Detroit
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/detroit/club/spkrbox/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/detroit/club/spkrbox/)*

@@ -1,6 +1,6 @@
 # Dirtyfinger
 
-Dirtyfinger is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Tue, 28 Jul 2026, next at Xanadu, New York City on Sun, 16 Aug 2026.
+Dirtyfinger is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at Xanadu, New York City on Sun, 16 Aug 2026.
 
 Dirtyfinger is a house and disco artist based in United States of America, tracked on soundcheck, with 19 sets logged across Newyorkcity. Often billed alongside Acid Eastern, Andi and BUNZ. Next up: Xanadu, Newyorkcity on Sun 16 Aug.
 
@@ -25,4 +25,4 @@ Dirtyfinger is a house and disco artist based in United States of America, track
 
 Acid Eastern, Andi, BUNZ
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/dirtyfinger/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/dirtyfinger/)*

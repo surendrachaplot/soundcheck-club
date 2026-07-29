@@ -1,6 +1,6 @@
 # MIKLEI
 
-MIKLEI is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Tue, 28 Jul 2026, next at Altenburg 1964, Prague on Fri, 31 Jul 2026.
+MIKLEI is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at Altenburg 1964, Prague on Fri, 31 Jul 2026.
 
 MIKLEI is a techno and house artist based in Ukraine, tracked on soundcheck, with 19 sets logged across Amsterdam, Berlin, Copenhagen and Prague and 1 more. Often billed alongside SPACER (SK), SJ Yellow and Baime. Next up: Altenburg 1964, Prague on Fri 31 Jul.
 
@@ -25,4 +25,4 @@ MIKLEI is a techno and house artist based in Ukraine, tracked on soundcheck, wit
 
 SPACER (SK), SJ Yellow, Baime
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/miklei/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/miklei/)*

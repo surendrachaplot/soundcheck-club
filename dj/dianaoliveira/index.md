@@ -1,6 +1,6 @@
 # Diana Oliveira
 
-Diana Oliveira is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Tue, 28 Jul 2026, next at TBA - RDZ BOAT - MILENIO DO DOURO - CAIS DA RIBEIRA, PORTO, Porto on Fri, 31 Jul 2026.
+Diana Oliveira is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at TBA - RDZ BOAT - MILENIO DO DOURO - CAIS DA RIBEIRA, PORTO, Porto on Fri, 31 Jul 2026.
 
 Diana Oliveira is a techno and house artist based in Portugal, tracked on soundcheck, with 45 sets logged across Lisbon and Porto. Often billed alongside Rui Vargas, David Moreira (2) and Tiago Carvalho. Next up: TBA - RDZ BOAT - MILENIO DO DOURO - CAIS DA RIBEIRA, PORTO, Porto on Fri 31 Jul.
 
@@ -25,4 +25,4 @@ Diana Oliveira is a techno and house artist based in Portugal, tracked on soundc
 
 Rui Vargas, David Moreira (2), Tiago Carvalho
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/dianaoliveira/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/dianaoliveira/)*

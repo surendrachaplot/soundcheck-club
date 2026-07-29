@@ -1,6 +1,6 @@
 # Anthorp
 
-Anthorp is a Techno and Electro artist with 2 upcoming club dates listed on soundcheck as of Tue, 28 Jul 2026, next at Paragon, New York City on Fri, 31 Jul 2026.
+Anthorp is a Techno and Electro artist with 2 upcoming club dates listed on soundcheck as of Wed, 29 Jul 2026, next at Paragon, New York City on Fri, 31 Jul 2026.
 
 Anthorp is a techno and electro artist based in United States of America, tracked on soundcheck, with 18 sets logged across Newyorkcity. Often billed alongside Jorge Sanders, LTE (1) and SSG_. Next up: Paragon, Newyorkcity on Fri 31 Jul.
 
@@ -26,4 +26,4 @@ Anthorp is a techno and electro artist based in United States of America, tracke
 
 Jorge Sanders, LTE (1), SSG_
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/anthorp/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/anthorp/)*

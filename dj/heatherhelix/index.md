@@ -1,6 +1,6 @@
 # Heather Helix
 
-Heather Helix is a Trance and House artist with 1 upcoming club date listed on soundcheck as of Tue, 28 Jul 2026, next at Mastak, Warsaw on Fri, 31 Jul 2026.
+Heather Helix is a Trance and House artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at Mastak, Warsaw on Fri, 31 Jul 2026.
 
 Heather Helix is a trance and house artist based in Poland, tracked on soundcheck, with 9 sets logged across Krakow and Warsaw. Often billed alongside Edvvin, margas and AKOMPANIAMENT. Next up: Mastak, Warsaw on Fri 31 Jul.
 
@@ -25,4 +25,4 @@ Heather Helix is a trance and house artist based in Poland, tracked on soundchec
 
 Edvvin, margas, AKOMPANIAMENT
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/heatherhelix/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/heatherhelix/)*

@@ -1,6 +1,6 @@
 # Business Risky
 
-Business Risky is a House and Club artist with 1 upcoming club date listed on soundcheck as of Tue, 28 Jul 2026, next at MODULE, Copenhagen on Fri, 14 Aug 2026.
+Business Risky is a House and Club artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at MODULE, Copenhagen on Fri, 14 Aug 2026.
 
 Business Risky is a house and club artist based in Denmark, tracked on soundcheck, with 14 sets logged across Copenhagen. Often billed alongside Anders HP, CERJ and NILU. Next up: MODULE, Copenhagen on Fri 14 Aug.
 
@@ -25,4 +25,4 @@ Business Risky is a house and club artist based in Denmark, tracked on soundchec
 
 Anders HP, CERJ, NILU
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/businessrisky/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/businessrisky/)*

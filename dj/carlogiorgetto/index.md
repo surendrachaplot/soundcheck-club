@@ -1,6 +1,6 @@
 # Carlo Giorgetto
 
-Carlo Giorgetto is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Tue, 28 Jul 2026, next at Discoteca Paradiso, Naples on Thu, 30 Jul 2026.
+Carlo Giorgetto is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at Discoteca Paradiso, Naples on Thu, 30 Jul 2026.
 
 Carlo Giorgetto is a house and tech house artist based in Italy, tracked on soundcheck, with 2 sets logged across Naples. Often billed alongside ALDAVE, Call Super and Deep Futuristic. Next up: Discoteca Paradiso, Naples on Thu 30 Jul.
 
@@ -18,4 +18,4 @@ Carlo Giorgetto is a house and tech house artist based in Italy, tracked on soun
 
 ALDAVE, Call Super, Deep Futuristic
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/carlogiorgetto/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/carlogiorgetto/)*

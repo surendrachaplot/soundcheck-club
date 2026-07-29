@@ -1,6 +1,6 @@
 # Tracey
 
-Tracey is a House and Electronica artist with 2 upcoming club dates listed on soundcheck as of Tue, 28 Jul 2026, next at RSO.BERLIN, Berlin on Sat, 8 Aug 2026.
+Tracey is a House and Electronica artist with 2 upcoming club dates listed on soundcheck as of Wed, 29 Jul 2026, next at RSO.BERLIN, Berlin on Sat, 8 Aug 2026.
 
 Tracey is a house and electronica artist tracked on soundcheck, with 14 sets logged across Amsterdam, Berlin, London and Madrid and 1 more. Often billed alongside Blawan, Malibu and Ahadadream. Next up: RSO.BERLIN, Berlin on Sat 8 Aug.
 
@@ -26,4 +26,4 @@ Tracey is a house and electronica artist tracked on soundcheck, with 14 sets log
 
 Blawan, Malibu, Ahadadream
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/tracey/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/tracey/)*

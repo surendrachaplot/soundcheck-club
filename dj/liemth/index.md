@@ -1,6 +1,6 @@
 # Liem (TH)
 
-Liem (TH) is a Minimal and House artist with 1 upcoming club date listed on soundcheck as of Tue, 28 Jul 2026, next at Dual, Bangkok on Sat, 1 Aug 2026.
+Liem (TH) is a Minimal and House artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at Dual, Bangkok on Sat, 1 Aug 2026.
 
 Liem (TH) is a minimal and house artist based in Thailand, tracked on soundcheck, with 15 sets logged across Bangkok. Often billed alongside 77Mushrooms, April and DJ Casper. Next up: Dual, Bangkok on Sat 1 Aug.
 
@@ -25,4 +25,4 @@ Liem (TH) is a minimal and house artist based in Thailand, tracked on soundcheck
 
 77Mushrooms, April, DJ Casper
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/liemth/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/liemth/)*

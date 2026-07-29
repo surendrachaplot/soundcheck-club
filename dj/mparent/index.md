@@ -1,6 +1,6 @@
 # M Parent
 
-M Parent is a Electro and Acid artist with 1 upcoming club date listed on soundcheck as of Tue, 28 Jul 2026, next at Bossa Nova Civic Club, New York City on Thu, 30 Jul 2026.
+M Parent is a Electro and Acid artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at Bossa Nova Civic Club, New York City on Thu, 30 Jul 2026.
 
 M Parent is an electro and acid artist based in United States of America, tracked on soundcheck, with 5 sets logged across Newyorkcity and Thehague. Often billed alongside Rob Seurat, UPRFXR and A.M.D.. Next up: Bossa Nova Civic Club, Newyorkcity on Thu 30 Jul.
 
@@ -21,4 +21,4 @@ M Parent is an electro and acid artist based in United States of America, tracke
 
 Rob Seurat, UPRFXR, A.M.D.
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/mparent/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/mparent/)*

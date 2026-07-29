@@ -1,6 +1,6 @@
 # D-Formation
 
-D-Formation is a Techno and Progressive House artist with 1 upcoming club date listed on soundcheck as of Tue, 28 Jul 2026, next at John Doe, Amsterdam on Fri, 23 Oct 2026.
+D-Formation is a Techno and Progressive House artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at John Doe, Amsterdam on Fri, 23 Oct 2026.
 
 D-Formation is a techno and progressive house artist based in Spain, tracked on soundcheck, with 11 sets logged across Amsterdam, Berlin, Brussels and Madrid and 2 more. Often billed alongside Alex Sharp, Alex Medina and GRAZZE. Next up: John Doe, Amsterdam on Fri 23 Oct.
 
@@ -25,4 +25,4 @@ D-Formation is a techno and progressive house artist based in Spain, tracked on 
 
 Alex Sharp, Alex Medina, GRAZZE
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/d-formation/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/d-formation/)*

@@ -1,6 +1,6 @@
 # Høll
 
-Høll is a Techno and Ambient artist with 1 upcoming club date listed on soundcheck as of Tue, 28 Jul 2026, next at Ankali & Planeta Za, Prague on Fri, 31 Jul 2026.
+Høll is a Techno and Ambient artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at Ankali & Planeta Za, Prague on Fri, 31 Jul 2026.
 
 Høll is a techno and ambient artist based in Czech Republic, tracked on soundcheck, with 23 sets logged across Prague. Often billed alongside Nevinnost, Nior and Atch22. Next up: Ankali & Planeta Za, Prague on Fri 31 Jul.
 
@@ -25,4 +25,4 @@ Høll is a techno and ambient artist based in Czech Republic, tracked on soundch
 
 Nevinnost, Nior, Atch22
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/holl/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/holl/)*

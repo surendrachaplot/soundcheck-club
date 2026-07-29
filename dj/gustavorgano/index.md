@@ -1,6 +1,6 @@
 # Gustav Ørgano
 
-Gustav Ørgano is a Psytrance and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 28 Jul 2026, next at Dürener Badesee, Cologne on Fri, 28 Aug 2026.
+Gustav Ørgano is a Psytrance and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at Dürener Badesee, Cologne on Fri, 28 Aug 2026.
 
 Gustav Ørgano is a psytrance and techno artist tracked on soundcheck, with 5 sets logged across Cologne and Stuttgart. Often billed alongside Johannes Schuster, Serafina and TSAVAGE. Next up: Dürener Badesee, Cologne on Fri 28 Aug.
 
@@ -21,4 +21,4 @@ Gustav Ørgano is a psytrance and techno artist tracked on soundcheck, with 5 se
 
 Johannes Schuster, Serafina, TSAVAGE
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/gustavorgano/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/gustavorgano/)*

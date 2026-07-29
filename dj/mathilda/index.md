@@ -1,6 +1,6 @@
 # Mathilda
 
-Mathilda is a Techno and Breakcore artist with 2 upcoming club dates listed on soundcheck as of Tue, 28 Jul 2026, next at Golden Pudel Club, Hamburg on Thu, 30 Jul 2026.
+Mathilda is a Techno and Breakcore artist with 2 upcoming club dates listed on soundcheck as of Wed, 29 Jul 2026, next at Golden Pudel Club, Hamburg on Thu, 30 Jul 2026.
 
 Mathilda is a techno and breakcore artist based in Finland, tracked on soundcheck, with 14 sets logged across Berlin, Hamburg, Istanbul and London. Often billed alongside Carluschka, BNZN and ALKARLINE. Next up: Golden Pudel Club, Hamburg on Thu 30 Jul.
 
@@ -26,4 +26,4 @@ Mathilda is a techno and breakcore artist based in Finland, tracked on soundchec
 
 Carluschka, BNZN, ALKARLINE
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/mathilda/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/mathilda/)*

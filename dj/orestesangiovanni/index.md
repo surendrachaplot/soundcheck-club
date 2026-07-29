@@ -1,6 +1,6 @@
 # Oreste Sangiovanni
 
-Oreste Sangiovanni is a Experimental and Ambient artist with 1 upcoming club date listed on soundcheck as of Tue, 28 Jul 2026, next at Spreefeld Bootshaus, Berlin on Wed, 29 Jul 2026.
+Oreste Sangiovanni is a Experimental and Ambient artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at Spreefeld Bootshaus, Berlin on Wed, 29 Jul 2026.
 
 Oreste Sangiovanni is an experimental and ambient artist based in Colombia, tracked on soundcheck, with 3 sets logged across Amsterdam and Berlin. Often billed alongside ADHDJ (2), Amanda Mussi and Daraio. Next up: Spreefeld Bootshaus, Berlin on Wed 29 Jul.
 
@@ -19,4 +19,4 @@ Oreste Sangiovanni is an experimental and ambient artist based in Colombia, trac
 
 ADHDJ (2), Amanda Mussi, Daraio
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/orestesangiovanni/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/orestesangiovanni/)*

@@ -1,6 +1,6 @@
 # Connor Wrong
 
-Connor Wrong is a Techno and Bass artist with 1 upcoming club date listed on soundcheck as of Tue, 28 Jul 2026, next at Nowadays, New York City on Fri, 21 Aug 2026.
+Connor Wrong is a Techno and Bass artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at Nowadays, New York City on Fri, 21 Aug 2026.
 
 Connor Wrong is a techno and bass artist based in United States of America, tracked on soundcheck, with 42 sets logged across Montreal, Newyorkcity and Philadelphia. Often billed alongside DJ DEADNAME, Male Merge and Miss Parker. Next up: Nowadays, Newyorkcity on Fri 21 Aug.
 
@@ -25,4 +25,4 @@ Connor Wrong is a techno and bass artist based in United States of America, trac
 
 DJ DEADNAME, Male Merge, Miss Parker
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/connorwrong/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/connorwrong/)*

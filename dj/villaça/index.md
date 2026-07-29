@@ -1,6 +1,6 @@
 # Villaça
 
-Villaça is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Tue, 28 Jul 2026, next at TBA - Studio Stereo, close to pl. Catalunya, 08007, Barcelona, Barcelona on Sat, 8 Aug 2026.
+Villaça is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Wed, 29 Jul 2026, next at TBA - Studio Stereo, close to pl. Catalunya, 08007, Barcelona, Barcelona on Sat, 8 Aug 2026.
 
 Villaça is a house and techno artist tracked on soundcheck, with 46 sets logged across Barcelona, Losangeles, Madrid and Saopaulo. Often billed alongside TRAJANO, Reizko and Flo Massé. Next up: TBA - Studio Stereo, close to pl. Catalunya, 08007, Barcelona, Barcelona on Sat 8 Aug.
 
@@ -26,4 +26,4 @@ Villaça is a house and techno artist tracked on soundcheck, with 46 sets logged
 
 TRAJANO, Reizko, Flo Massé
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/villaça/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/villaça/)*

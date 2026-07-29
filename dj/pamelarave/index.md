@@ -1,6 +1,6 @@
 # Pamela Rave
 
-Pamela Rave is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Tue, 28 Jul 2026, next at Odonien, Cologne on Wed, 29 Jul 2026.
+Pamela Rave is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at Odonien, Cologne on Wed, 29 Jul 2026.
 
 Pamela Rave is a techno and trance artist based in Germany, tracked on soundcheck, with 21 sets logged across Berlin, Cologne and Frankfurt. Often billed alongside Bouncy Bitch, DJ Discostoff and SPEEDO (2). Next up: Odonien, Cologne on Wed 29 Jul.
 
@@ -25,4 +25,4 @@ Pamela Rave is a techno and trance artist based in Germany, tracked on soundchec
 
 Bouncy Bitch, DJ Discostoff, SPEEDO (2)
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/pamelarave/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/pamelarave/)*

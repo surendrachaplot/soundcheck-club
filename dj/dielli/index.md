@@ -1,6 +1,6 @@
 # Dielli
 
-Dielli is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Tue, 28 Jul 2026, next at La Java, Paris on Sat, 29 Aug 2026.
+Dielli is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at La Java, Paris on Sat, 29 Aug 2026.
 
 Dielli is a house and deep house artist based in France, tracked on soundcheck, with 42 sets logged across Amsterdam, Liverpool, London and Madrid and 2 more. Often billed alongside Chinau, Larry G and Knuckle G. Next up: La Java, Paris on Sat 29 Aug.
 
@@ -25,4 +25,4 @@ Dielli is a house and deep house artist based in France, tracked on soundcheck, 
 
 Chinau, Larry G, Knuckle G
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/dielli/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/dielli/)*

@@ -1,6 +1,6 @@
 # LienNaigel
 
-LienNaigel is a Hip-Hop and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 28 Jul 2026, next at ZEROTOKYO, Tokyo on Sun, 9 Aug 2026.
+LienNaigel is a Hip-Hop and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at ZEROTOKYO, Tokyo on Sun, 9 Aug 2026.
 
 LienNaigel is a hip-hop and techno artist based in Japan, tracked on soundcheck, with 61 sets logged across Brighton and Tokyo. Often billed alongside FUJI TRILL, DJ HOKUTO and DJ KOUJIRO. Next up: ZEROTOKYO, Tokyo on Sun 9 Aug.
 
@@ -25,4 +25,4 @@ LienNaigel is a hip-hop and techno artist based in Japan, tracked on soundcheck,
 
 FUJI TRILL, DJ HOKUTO, DJ KOUJIRO
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/liennaigel/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/liennaigel/)*

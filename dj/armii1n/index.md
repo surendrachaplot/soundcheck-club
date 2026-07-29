@@ -1,8 +1,8 @@
 # Armii1n
 
-Armii1n is a House and Deep House artist with 7 upcoming club dates listed on soundcheck as of Tue, 28 Jul 2026, next at Outer Heaven, New York City on Thu, 30 Jul 2026.
+Armii1n is a House and Deep House artist with 8 upcoming club dates listed on soundcheck as of Wed, 29 Jul 2026, next at Outer Heaven, New York City on Thu, 30 Jul 2026.
 
-Armii1n is a house and deep house artist tracked on soundcheck, with 117 sets logged across Miami and Newyorkcity. Often billed alongside Choukroun, Zayd and Monk (2). Next up: Outer Heaven, Newyorkcity on Thu 30 Jul.
+Armii1n is a house and deep house artist tracked on soundcheck, with 118 sets logged across Miami and Newyorkcity. Often billed alongside Choukroun, Zayd and Monk (2). Next up: Outer Heaven, Newyorkcity on Thu 30 Jul.
 
 ## Upcoming shows
 
@@ -13,6 +13,7 @@ Armii1n is a house and deep house artist tracked on soundcheck, with 117 sets lo
 | Fri, 7 Aug 2026 | Outer Heaven | New York City |
 | Sat, 8 Aug 2026 | Good Room | New York City |
 | Sat, 8 Aug 2026 | Dead Letter No. 9 | New York City |
+| Thu, 13 Aug 2026 | Dead Letter No. 9 | New York City |
 | Sat, 15 Aug 2026 | Apollo Studio | New York City |
 | Thu, 27 Aug 2026 | Signal | New York City |
 
@@ -31,4 +32,4 @@ Armii1n is a house and deep house artist tracked on soundcheck, with 117 sets lo
 
 Choukroun, Zayd, Monk (2)
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/armii1n/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/armii1n/)*

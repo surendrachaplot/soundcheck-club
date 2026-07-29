@@ -1,6 +1,6 @@
 # Hicham (FR)
 
-Hicham (FR) is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Tue, 28 Jul 2026, next at Tokonoma Club, Frankfurt on Sat, 1 Aug 2026.
+Hicham (FR) is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Wed, 29 Jul 2026, next at Tokonoma Club, Frankfurt on Sat, 1 Aug 2026.
 
 Hicham (FR) is a house and techno artist tracked on soundcheck, with 57 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 31 more. Often billed alongside Walrus, Tomas Station and Arto. Next up: Tokonoma Club, Frankfurt on Sat 1 Aug.
 
@@ -26,4 +26,4 @@ Hicham (FR) is a house and techno artist tracked on soundcheck, with 57 sets log
 
 Walrus, Tomas Station, Arto
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/hicham-fr/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/hicham-fr/)*

@@ -1,6 +1,6 @@
 # mckelv
 
-mckelv is a House and Garage artist with 1 upcoming club date listed on soundcheck as of Tue, 28 Jul 2026, next at Waterhouse Studios, Amsterdam on Sat, 29 Aug 2026.
+mckelv is a House and Garage artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at Waterhouse Studios, Amsterdam on Sat, 29 Aug 2026.
 
 mckelv is a house and garage artist based in Ireland, tracked on soundcheck, with 11 sets logged across Amsterdam. Often billed alongside Raph Ikiyaga, Taylor Taylor and Polli Panda. Next up: Waterhouse Studios, Amsterdam on Sat 29 Aug.
 
@@ -25,4 +25,4 @@ mckelv is a house and garage artist based in Ireland, tracked on soundcheck, wit
 
 Raph Ikiyaga, Taylor Taylor, Polli Panda
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/mckelv/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/mckelv/)*

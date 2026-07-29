@@ -1,6 +1,6 @@
 # Racci
 
-Racci is a Neo Perreo and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 28 Jul 2026, next at Supernatural Haus, Miami on Thu, 30 Jul 2026.
+Racci is a Neo Perreo and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at Supernatural Haus, Miami on Thu, 30 Jul 2026.
 
 Racci is a neo perreo and techno artist based in United States of America, tracked on soundcheck, with 25 sets logged across Miami. Often billed alongside Lady Narcisse, FORESEER and GRUE5OME. Next up: Supernatural Haus, Miami on Thu 30 Jul.
 
@@ -25,4 +25,4 @@ Racci is a neo perreo and techno artist based in United States of America, track
 
 Lady Narcisse, FORESEER, GRUE5OME
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/racci/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/racci/)*

@@ -1,6 +1,6 @@
 # Hotsteppa
 
-Hotsteppa is a Afro House and House artist with 1 upcoming club date listed on soundcheck as of Tue, 28 Jul 2026, next at Ministry Of Sound, London on Sat, 15 Aug 2026.
+Hotsteppa is a Afro House and House artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at Ministry Of Sound, London on Sat, 15 Aug 2026.
 
 Hotsteppa is an afro house and house artist based in France, tracked on soundcheck, with 12 sets logged across London. Often billed alongside Supa D, Pioneer and DJ S (UK). Next up: Ministry Of Sound, London on Sat 15 Aug.
 
@@ -25,4 +25,4 @@ Hotsteppa is an afro house and house artist based in France, tracked on soundche
 
 Supa D, Pioneer, DJ S (UK)
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/hotsteppa/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/hotsteppa/)*

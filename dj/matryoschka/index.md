@@ -1,6 +1,6 @@
 # Matryoschka
 
-Matryoschka is a Dubstep and Drum & Bass artist with 1 upcoming club date listed on soundcheck as of Tue, 28 Jul 2026, next at Let it Roll Festival @Lake Most, Prague on Fri, 31 Jul 2026.
+Matryoschka is a Dubstep and Drum & Bass artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at Let it Roll Festival @Lake Most, Prague on Fri, 31 Jul 2026.
 
 Matryoschka is a dubstep and drum & bass artist based in Germany, tracked on soundcheck, with 17 sets logged across Berlin, Hamburg and Prague. Often billed alongside Phauna, Anton Quasi and ENOME. Next up: Let it Roll Festival @Lake Most, Prague on Fri 31 Jul.
 
@@ -25,4 +25,4 @@ Matryoschka is a dubstep and drum & bass artist based in Germany, tracked on sou
 
 Phauna, Anton Quasi, ENOME
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/matryoschka/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/matryoschka/)*

@@ -1,6 +1,6 @@
 # GAOLAO
 
-GAOLAO is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 28 Jul 2026, next at 12 x 12, Bangkok on Fri, 31 Jul 2026.
+GAOLAO is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at 12 x 12, Bangkok on Fri, 31 Jul 2026.
 
 GAOLAO is a house and techno artist tracked on soundcheck, with 37 sets logged across Bangkok. Often billed alongside Gishiyama, Mizuyo and Sunga. Next up: 12 x 12, Bangkok on Fri 31 Jul.
 
@@ -25,4 +25,4 @@ GAOLAO is a house and techno artist tracked on soundcheck, with 37 sets logged a
 
 Gishiyama, Mizuyo, Sunga
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/gaolao/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/gaolao/)*

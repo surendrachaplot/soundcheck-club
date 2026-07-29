@@ -1,6 +1,6 @@
 # Wandler
 
-Wandler is a electronic artist with 1 upcoming club date listed on soundcheck as of Tue, 28 Jul 2026, next at Hive Club, Zurich on Fri, 28 Aug 2026.
+Wandler is a electronic artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at Hive Club, Zurich on Fri, 28 Aug 2026.
 
 Wandler is an electronic artist based in Switzerland, tracked on soundcheck, with 5 sets logged across Zurich. Often billed alongside Luka (CH), arbër and AVEM. Next up: Hive Club, Zurich on Fri 28 Aug.
 
@@ -21,4 +21,4 @@ Wandler is an electronic artist based in Switzerland, tracked on soundcheck, wit
 
 Luka (CH), arbër, AVEM
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/wandler/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/wandler/)*

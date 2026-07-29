@@ -1,6 +1,6 @@
 # Radiosus
 
-Radiosus is a House artist with 1 upcoming club date listed on soundcheck as of Tue, 28 Jul 2026, next at Amstelhaven, Amsterdam on Sat, 1 Aug 2026.
+Radiosus is a House artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at Amstelhaven, Amsterdam on Sat, 1 Aug 2026.
 
 Radiosus is a house artist based in Netherlands, tracked on soundcheck, with 2 sets logged across Amsterdam. Often billed alongside LoPoll. Next up: Amstelhaven, Amsterdam on Sat 1 Aug.
 
@@ -18,4 +18,4 @@ Radiosus is a house artist based in Netherlands, tracked on soundcheck, with 2 s
 
 LoPoll
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/radiosus/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/radiosus/)*

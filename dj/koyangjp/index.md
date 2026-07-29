@@ -1,6 +1,6 @@
 # Ko Yang (JP)
 
-Ko Yang (JP) is a House and Club artist with 2 upcoming club dates listed on soundcheck as of Tue, 28 Jul 2026, next at B.O.H., Osaka on Sat, 1 Aug 2026.
+Ko Yang (JP) is a House and Club artist with 2 upcoming club dates listed on soundcheck as of Wed, 29 Jul 2026, next at B.O.H., Osaka on Sat, 1 Aug 2026.
 
 Ko Yang (JP) is a house and club artist based in Japan, tracked on soundcheck, with 17 sets logged across Kyoto, Osaka and Tokyo. Often billed alongside CityBoyLounge, Mori Ra and Ancut. Next up: B.O.H., Osaka on Sat 1 Aug.
 
@@ -26,4 +26,4 @@ Ko Yang (JP) is a house and club artist based in Japan, tracked on soundcheck, w
 
 CityBoyLounge, Mori Ra, Ancut
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/koyangjp/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/koyangjp/)*

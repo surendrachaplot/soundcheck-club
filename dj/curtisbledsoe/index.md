@@ -1,6 +1,6 @@
 # Curtis Bledsoe
 
-Curtis Bledsoe is a Deep House and House artist with 1 upcoming club date listed on soundcheck as of Tue, 28 Jul 2026, next at Stardust Garage, Austin on Fri, 31 Jul 2026.
+Curtis Bledsoe is a Deep House and House artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at Stardust Garage, Austin on Fri, 31 Jul 2026.
 
 Curtis Bledsoe is a deep house and house artist based in United States of America, tracked on soundcheck, with 8 sets logged across Austin and Chicago. Often billed alongside Dj Jes, Mauricio Meade and Doc Martin. Next up: Stardust Garage, Austin on Fri 31 Jul.
 
@@ -24,4 +24,4 @@ Curtis Bledsoe is a deep house and house artist based in United States of Americ
 
 Dj Jes, Mauricio Meade, Doc Martin
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/curtisbledsoe/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/curtisbledsoe/)*

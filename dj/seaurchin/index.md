@@ -1,6 +1,6 @@
 # Sea Urchin
 
-Sea Urchin is a Techno and Hardcore artist with 1 upcoming club date listed on soundcheck as of Tue, 28 Jul 2026, next at Sneaky Pete's, Edinburgh on Sat, 8 Aug 2026.
+Sea Urchin is a Techno and Hardcore artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at Sneaky Pete's, Edinburgh on Sat, 8 Aug 2026.
 
 Sea Urchin is a techno and hardcore artist based in United Kingdom, tracked on soundcheck, with 58 sets logged across Edinburgh. Often billed alongside DV60, Wrisk and Casement. Next up: Sneaky Pete's, Edinburgh on Sat 8 Aug.
 
@@ -25,4 +25,4 @@ Sea Urchin is a techno and hardcore artist based in United Kingdom, tracked on s
 
 DV60, Wrisk, Casement
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/seaurchin/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/seaurchin/)*

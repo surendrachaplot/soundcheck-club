@@ -1,6 +1,6 @@
 # J.Rocc
 
-J.Rocc is a Hip-Hop and House artist with 1 upcoming club date listed on soundcheck as of Tue, 28 Jul 2026, next at The Midway, San Francisco/Oakland on Sat, 8 Aug 2026.
+J.Rocc is a Hip-Hop and House artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at The Midway, San Francisco/Oakland on Sat, 8 Aug 2026.
 
 J.Rocc is a hip-hop and house artist based in United States of America, tracked on soundcheck, with 13 sets logged across Hamburg, London, Losangeles and Miami and 6 more. Often billed alongside Muro, Gara and Peanut Butter Wolf. Next up: The Midway, Sanfrancisco on Sat 8 Aug.
 
@@ -25,4 +25,4 @@ J.Rocc is a hip-hop and house artist based in United States of America, tracked 
 
 Muro, Gara, Peanut Butter Wolf
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/j-rocc-us/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/j-rocc-us/)*

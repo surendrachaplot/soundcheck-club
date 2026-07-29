@@ -1,6 +1,6 @@
 # Scope (2)
 
-Scope (2) is a Psytrance and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 28 Jul 2026, next at Planet Wax, London on Fri, 31 Jul 2026.
+Scope (2) is a Psytrance and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at Planet Wax, London on Fri, 31 Jul 2026.
 
 Scope (2) is a psytrance and techno artist based in Germany, tracked on soundcheck, with 2 sets logged across Dusseldorf and London. Often billed alongside Frank Waldmann and Spooky. Next up: Planet Wax, London on Fri 31 Jul.
 
@@ -18,4 +18,4 @@ Scope (2) is a psytrance and techno artist based in Germany, tracked on soundche
 
 Frank Waldmann, Spooky
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/scope-2/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/scope-2/)*

@@ -1,6 +1,6 @@
 # DJ Re:Code
 
-DJ Re:Code is a Techno and Club artist with 1 upcoming club date listed on soundcheck as of Tue, 28 Jul 2026, next at TRANSMISSION DC, Washington DC on Thu, 6 Aug 2026.
+DJ Re:Code is a Techno and Club artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at TRANSMISSION DC, Washington DC on Thu, 6 Aug 2026.
 
 DJ Re:Code is a techno and club artist based in United States of America, tracked on soundcheck, with 15 sets logged across Losangeles, Newyorkcity, Philadelphia and Washingtondc. Often billed alongside TS Julien, Creep-P and America Loves Me. Next up: TRANSMISSION DC, Washingtondc on Thu 6 Aug.
 
@@ -25,4 +25,4 @@ DJ Re:Code is a techno and club artist based in United States of America, tracke
 
 TS Julien, Creep-P, America Loves Me
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/djrecode/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/djrecode/)*

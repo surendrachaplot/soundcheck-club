@@ -1,6 +1,6 @@
 # Kraftwerk
 
-Kraftwerk is a music venue in Zurich with 3 upcoming nights listed on soundcheck as of Tue, 28 Jul 2026; the next is "Illegitimate DNB" on Fri, 28 Aug 2026.
+Kraftwerk is a music venue in Zurich with 3 upcoming nights listed on soundcheck as of Wed, 29 Jul 2026; the next is "Illegitimate DNB" on Fri, 28 Aug 2026.
 
 Kraftwerk is a music venue in Zurich listed on soundcheck. 3 upcoming nights. Browse upcoming dates, start times and who's playing. Selnaustrasse 25, 8001 Zürich, Switzerland.
 
@@ -16,4 +16,4 @@ Kraftwerk is a music venue in Zurich listed on soundcheck. 3 upcoming nights. Br
 
 Selnaustrasse 25, 8001 Zürich, Switzerland, Zurich
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/zurich/club/kraftwerk/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/zurich/club/kraftwerk/)*

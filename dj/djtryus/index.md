@@ -1,6 +1,6 @@
 # DJ Try (US)
 
-DJ Try (US) is a Trance and Techno artist with 4 upcoming club dates listed on soundcheck as of Tue, 28 Jul 2026, next at Stage and Radio, Manchester on Fri, 14 Aug 2026.
+DJ Try (US) is a Trance and Techno artist with 4 upcoming club dates listed on soundcheck as of Wed, 29 Jul 2026, next at Stage and Radio, Manchester on Fri, 14 Aug 2026.
 
 DJ Try (US) is a trance and techno artist based in United States of America, tracked on soundcheck, with 6 sets logged across Berlin, Ibiza, Manchester and Newyorkcity and 2 more. Often billed alongside ASTER (DJ), CITYSPROBLEM and CYNTHESZR. Next up: Stage and Radio, Manchester on Fri 14 Aug.
 
@@ -22,4 +22,4 @@ DJ Try (US) is a trance and techno artist based in United States of America, tra
 
 ASTER (DJ), CITYSPROBLEM, CYNTHESZR
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/djtryus/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/djtryus/)*

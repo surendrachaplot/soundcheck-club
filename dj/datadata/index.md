@@ -1,6 +1,6 @@
 # datadata
 
-datadata is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 28 Jul 2026, next at Jupiter Disco, New York City on Wed, 29 Jul 2026.
+datadata is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at Jupiter Disco, New York City on Wed, 29 Jul 2026.
 
 datadata is a house and techno artist tracked on soundcheck, with 27 sets logged across Newyorkcity. Often billed alongside DJ Fang, K.mal and Quantreau. Next up: Jupiter Disco, Newyorkcity on Wed 29 Jul.
 
@@ -25,4 +25,4 @@ datadata is a house and techno artist tracked on soundcheck, with 27 sets logged
 
 DJ Fang, K.mal, Quantreau
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/datadata/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/datadata/)*

@@ -1,6 +1,6 @@
 # Rudolf C
 
-Rudolf C is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 28 Jul 2026, next at TBA - Klingemühle, Berlin on Fri, 14 Aug 2026.
+Rudolf C is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at TBA - Klingemühle, Berlin on Fri, 14 Aug 2026.
 
 Rudolf C is a house and techno artist tracked on soundcheck, with 34 sets logged across Berlin, Dublin, Leipzig and Madrid and 8 more. Often billed alongside Alfred Czital, Ashikaga and Balthazar Martinez. Next up: TBA - Klingemühle, Berlin on Fri 14 Aug.
 
@@ -25,4 +25,4 @@ Rudolf C is a house and techno artist tracked on soundcheck, with 34 sets logged
 
 Alfred Czital, Ashikaga, Balthazar Martinez
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/rudolfc/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/rudolfc/)*

@@ -1,6 +1,6 @@
 # Alec Fursman
 
-Alec Fursman is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Tue, 28 Jul 2026, next at Process PDX, Portland on Thu, 30 Jul 2026.
+Alec Fursman is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at Process PDX, Portland on Thu, 30 Jul 2026.
 
 Alec Fursman is a techno and house artist based in United States of America, tracked on soundcheck, with 16 sets logged across Portland, Sanfrancisco and Seattle. Often billed alongside DJ Raine, Jason Code and Sharlese. Next up: Process PDX, Portland on Thu 30 Jul.
 
@@ -25,4 +25,4 @@ Alec Fursman is a techno and house artist based in United States of America, tra
 
 DJ Raine, Jason Code, Sharlese
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/alecfursman/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/alecfursman/)*

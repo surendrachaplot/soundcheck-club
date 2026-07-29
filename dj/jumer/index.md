@@ -1,6 +1,6 @@
 # JUMER
 
-JUMER is a Trance and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 28 Jul 2026, next at Nitsa Club, Barcelona on Fri, 31 Jul 2026.
+JUMER is a Trance and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at Nitsa Club, Barcelona on Fri, 31 Jul 2026.
 
 JUMER is a trance and techno artist based in Spain, tracked on soundcheck, with 53 sets logged across Barcelona, Glasgow, London and Madrid and 3 more. Often billed alongside Julietta Ferrari, CRKS290 and Umami. Next up: Nitsa Club, Barcelona on Fri 31 Jul.
 
@@ -25,4 +25,4 @@ JUMER is a trance and techno artist based in Spain, tracked on soundcheck, with 
 
 Julietta Ferrari, CRKS290, Umami
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/jumer/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/jumer/)*

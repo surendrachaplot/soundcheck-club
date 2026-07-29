@@ -1,6 +1,6 @@
 # Dmitry Molosh
 
-Dmitry Molosh is a Techno and Electronica artist with 1 upcoming club date listed on soundcheck as of Tue, 28 Jul 2026, next at WaV, Liverpool on Sat, 24 Oct 2026.
+Dmitry Molosh is a Techno and Electronica artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at WaV, Liverpool on Sat, 24 Oct 2026.
 
 Dmitry Molosh is a techno and electronica artist based in Belarus, tracked on soundcheck, with 16 sets logged across Amsterdam, Barcelona, Buenosaires and Glasgow and 5 more. Often billed alongside Angelo Mike, Cid Inc and Cris-H. Next up: WaV, Liverpool on Sat 24 Oct.
 
@@ -25,4 +25,4 @@ Dmitry Molosh is a techno and electronica artist based in Belarus, tracked on so
 
 Angelo Mike, Cid Inc, Cris-H
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/dmitrymolosh/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/dmitrymolosh/)*

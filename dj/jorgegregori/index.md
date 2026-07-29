@@ -1,6 +1,6 @@
 # Gregori
 
-Gregori is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Tue, 28 Jul 2026, next at Oven Club, Valencia on Wed, 12 Aug 2026.
+Gregori is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at Oven Club, Valencia on Wed, 12 Aug 2026.
 
 Gregori is a house and tech house artist based in Spain, tracked on soundcheck, with 19 sets logged across Valencia. Often billed alongside Goalmaker, AAPAES and Boranimals. Next up: Oven Club, Valencia on Wed 12 Aug.
 
@@ -25,4 +25,4 @@ Gregori is a house and tech house artist based in Spain, tracked on soundcheck, 
 
 Goalmaker, AAPAES, Boranimals
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/jorgegregori/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/jorgegregori/)*

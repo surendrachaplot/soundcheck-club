@@ -1,6 +1,6 @@
 # PRAANA
 
-PRAANA is a Progressive House and Deep House artist with 1 upcoming club date listed on soundcheck as of Tue, 28 Jul 2026, next at The Great Northern, San Francisco/Oakland on Fri, 31 Jul 2026.
+PRAANA is a Progressive House and Deep House artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at The Great Northern, San Francisco/Oakland on Fri, 31 Jul 2026.
 
 PRAANA is a progressive house and deep house artist based in United States of America, tracked on soundcheck, with 9 sets logged across Amsterdam, Austin, Chicago and London and 4 more. Often billed alongside Matt Fax, Braxton and Datskie. Next up: The Great Northern, Sanfrancisco on Fri 31 Jul.
 
@@ -25,4 +25,4 @@ PRAANA is a progressive house and deep house artist based in United States of Am
 
 Matt Fax, Braxton, Datskie
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/praana/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/praana/)*

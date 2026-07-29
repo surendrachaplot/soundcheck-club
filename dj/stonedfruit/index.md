@@ -1,6 +1,6 @@
 # Stōned Früit
 
-Stōned Früit is a House and Club artist with 1 upcoming club date listed on soundcheck as of Tue, 28 Jul 2026, next at F8 1192 Folsom, San Francisco/Oakland on Sat, 1 Aug 2026.
+Stōned Früit is a House and Club artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at F8 1192 Folsom, San Francisco/Oakland on Sat, 1 Aug 2026.
 
 Stōned Früit is a house and club artist based in United States of America, tracked on soundcheck, with 13 sets logged across Sanfrancisco. Often billed alongside Chuck Gunn, Carrieondisco and DJ M3. Next up: F8 1192 Folsom, Sanfrancisco on Sat 1 Aug.
 
@@ -25,4 +25,4 @@ Stōned Früit is a house and club artist based in United States of America, tra
 
 Chuck Gunn, Carrieondisco, DJ M3
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/stonedfruit/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/stonedfruit/)*

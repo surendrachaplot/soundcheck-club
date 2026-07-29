@@ -1,14 +1,14 @@
 # CHEZA LUCINA
 
-CHEZA LUCINA is a Jungle and Drum & Bass artist with 2 upcoming club dates listed on soundcheck as of Tue, 28 Jul 2026, next at Secret Location, London on Fri, 31 Jul 2026.
+CHEZA LUCINA is a Jungle and Drum & Bass artist with 2 upcoming club dates listed on soundcheck as of Wed, 29 Jul 2026, next at Gaffe, London on Fri, 31 Jul 2026.
 
-CHEZA LUCINA is a jungle and drum & bass artist based in United Kingdom, tracked on soundcheck, with 53 sets logged across Brighton, London and Paris. Often billed alongside THEMPRESS, Princess Xixi and Ivicore. Next up: Secret Location, London on Fri 31 Jul.
+CHEZA LUCINA is a jungle and drum & bass artist based in United Kingdom, tracked on soundcheck, with 53 sets logged across Brighton, London and Paris. Often billed alongside THEMPRESS, Princess Xixi and Ivicore. Next up: Gaffe, London on Fri 31 Jul.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 31 Jul 2026 | Secret Location | London |
+| Fri, 31 Jul 2026 | Gaffe | London |
 | Sat, 5 Sept 2026 | The Cause | London |
 
 ## Recently played
@@ -26,4 +26,4 @@ CHEZA LUCINA is a jungle and drum & bass artist based in United Kingdom, tracked
 
 THEMPRESS, Princess Xixi, Ivicore
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/chezalucina/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/chezalucina/)*

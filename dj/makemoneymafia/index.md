@@ -1,6 +1,6 @@
 # Make Money Mafia
 
-Make Money Mafia is a Bass and House artist with 1 upcoming club date listed on soundcheck as of Tue, 28 Jul 2026, next at Signature Brew Blackhorse Road, London on Sat, 1 Aug 2026.
+Make Money Mafia is a Bass and House artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at Signature Brew Blackhorse Road, London on Sat, 1 Aug 2026.
 
 Make Money Mafia is a bass and house artist tracked on soundcheck, with 25 sets logged across London. Often billed alongside MAÏS, Mutley Mutimer and Faded Society. Next up: Signature Brew Blackhorse Road, London on Sat 1 Aug.
 
@@ -25,4 +25,4 @@ Make Money Mafia is a bass and house artist tracked on soundcheck, with 25 sets 
 
 MAÏS, Mutley Mutimer, Faded Society
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/makemoneymafia/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/makemoneymafia/)*

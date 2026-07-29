@@ -1,6 +1,6 @@
 # Quetamine
 
-Quetamine is a Techno and Club artist with 1 upcoming club date listed on soundcheck as of Tue, 28 Jul 2026, next at Mood Ring, New York City on Fri, 31 Jul 2026.
+Quetamine is a Techno and Club artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at Mood Ring, New York City on Fri, 31 Jul 2026.
 
 Quetamine is a techno and club artist based in United States of America, tracked on soundcheck, with 48 sets logged across Chicago, Miami, Newyorkcity and Toronto and 1 more. Often billed alongside SATURNSARii, Ultrathem and Vyper. Next up: Mood Ring, Newyorkcity on Fri 31 Jul.
 
@@ -25,4 +25,4 @@ Quetamine is a techno and club artist based in United States of America, tracked
 
 SATURNSARii, Ultrathem, Vyper
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/quetamine/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/quetamine/)*

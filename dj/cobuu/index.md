@@ -1,6 +1,6 @@
 # COBUU
 
-COBUU is a Disco and House artist with 1 upcoming club date listed on soundcheck as of Tue, 28 Jul 2026, next at Mezzanine - Tooting, London on Fri, 7 Aug 2026.
+COBUU is a Disco and House artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at Mezzanine - Tooting, London on Fri, 7 Aug 2026.
 
 COBUU is a disco and house artist based in United Kingdom, tracked on soundcheck, with 7 sets logged across London. Often billed alongside Jim Bow, Cassius Taylor and Cem Ozden. Next up: Mezzanine - Tooting, London on Fri 7 Aug.
 
@@ -23,4 +23,4 @@ COBUU is a disco and house artist based in United Kingdom, tracked on soundcheck
 
 Jim Bow, Cassius Taylor, Cem Ozden
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/cobuu/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/cobuu/)*

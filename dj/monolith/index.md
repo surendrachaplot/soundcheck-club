@@ -1,6 +1,6 @@
 # Monolith
 
-Monolith is a Acid and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 28 Jul 2026, next at Forestlimit, Tokyo on Sun, 9 Aug 2026.
+Monolith is a Acid and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at Forestlimit, Tokyo on Sun, 9 Aug 2026.
 
 Monolith is an acid and techno artist tracked on soundcheck, with 5 sets logged across Barcelona, Manchester and Tokyo. Often billed alongside Annechoic, Chino and Linja. Next up: Forestlimit, Tokyo on Sun 9 Aug.
 
@@ -21,4 +21,4 @@ Monolith is an acid and techno artist tracked on soundcheck, with 5 sets logged 
 
 Annechoic, Chino, Linja
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/monolith/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/monolith/)*

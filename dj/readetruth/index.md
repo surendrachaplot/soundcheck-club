@@ -1,6 +1,6 @@
 # Reade Truth
 
-Reade Truth is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Tue, 28 Jul 2026, next at Bossa Nova Civic Club, New York City on Tue, 4 Aug 2026.
+Reade Truth is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at Bossa Nova Civic Club, New York City on Tue, 4 Aug 2026.
 
 Reade Truth is a techno and house artist based in United States of America, tracked on soundcheck, with 13 sets logged across Berlin, Ghent, Montreal and Newyorkcity and 1 more. Often billed alongside Adam X, Richard Hinge and Frankie Bones. Next up: Bossa Nova Civic Club, Newyorkcity on Tue 4 Aug.
 
@@ -25,4 +25,4 @@ Reade Truth is a techno and house artist based in United States of America, trac
 
 Adam X, Richard Hinge, Frankie Bones
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/readetruth/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/readetruth/)*

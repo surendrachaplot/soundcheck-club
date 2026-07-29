@@ -1,6 +1,6 @@
 # Jess Rose
 
-Jess Rose is a House and Drum & Bass artist with 2 upcoming club dates listed on soundcheck as of Tue, 28 Jul 2026, next at The DBA, Manchester on Sat, 29 Aug 2026.
+Jess Rose is a House and Drum & Bass artist with 2 upcoming club dates listed on soundcheck as of Wed, 29 Jul 2026, next at The DBA, Manchester on Sat, 29 Aug 2026.
 
 Jess Rose is a house and drum & bass artist based in United Kingdom, tracked on soundcheck, with 32 sets logged across Barcelona, Glasgow, London and Manchester. Often billed alongside Princess Elf Bar, Qoqnut and ASHTYLR. Next up: The DBA, Manchester on Sat 29 Aug.
 
@@ -26,4 +26,4 @@ Jess Rose is a house and drum & bass artist based in United Kingdom, tracked on 
 
 Princess Elf Bar, Qoqnut, ASHTYLR
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/jessrose/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/jessrose/)*

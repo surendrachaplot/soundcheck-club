@@ -1,6 +1,6 @@
 # Night Tales Loft
 
-Night Tales Loft is a music venue in London with 25 upcoming nights listed on soundcheck as of Tue, 28 Jul 2026; the next is "E9 to W14" on Thu, 30 Jul 2026.
+Night Tales Loft is a music venue in London with 25 upcoming nights listed on soundcheck as of Wed, 29 Jul 2026; the next is "E9 to W14" on Thu, 30 Jul 2026.
 
 Night Tales Loft is a music venue in London listed on soundcheck. 25 upcoming nights, with line-ups including 6 SENSE, Alexander Nut, Ash Lauryn and Ayanna Heaven and 2 more. Browse upcoming dates, start times and who's playing. 207, 1 Westgate St, Hackney, London E8 3RL.
 
@@ -23,4 +23,4 @@ Night Tales Loft is a music venue in London listed on soundcheck. 25 upcoming ni
 
 207, 1 Westgate St, Hackney, London E8 3RL, London
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/london/club/night-tales-loft/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/london/club/night-tales-loft/)*

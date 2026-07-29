@@ -1,6 +1,6 @@
 # SAVANNAHH
 
-SAVANNAHH is a Deep House and House artist with 2 upcoming club dates listed on soundcheck as of Tue, 28 Jul 2026, next at Ramona, Manchester on Sat, 1 Aug 2026.
+SAVANNAHH is a Deep House and House artist with 2 upcoming club dates listed on soundcheck as of Wed, 29 Jul 2026, next at Ramona, Manchester on Sat, 1 Aug 2026.
 
 SAVANNAHH is a deep house and house artist based in United Kingdom, tracked on soundcheck, with 15 sets logged across Manchester. Often billed alongside Urbi, A Little Bit Orange and Sam Pratt. Next up: Ramona, Manchester on Sat 1 Aug.
 
@@ -26,4 +26,4 @@ SAVANNAHH is a deep house and house artist based in United Kingdom, tracked on s
 
 Urbi, A Little Bit Orange, Sam Pratt
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/savannahh/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/savannahh/)*

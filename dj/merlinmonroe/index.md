@@ -1,6 +1,6 @@
 # Merlin Monroe
 
-Merlin Monroe is a Disco and House artist with 1 upcoming club date listed on soundcheck as of Tue, 28 Jul 2026, next at fi, Cologne on Sat, 1 Aug 2026.
+Merlin Monroe is a Disco and House artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at fi, Cologne on Sat, 1 Aug 2026.
 
 Merlin Monroe is a disco and house artist based in Germany, tracked on soundcheck, with 15 sets logged across Berlin and Cologne. Often billed alongside Tom Kutsche, Diskohengst and HiHat. Next up: fi, Cologne on Sat 1 Aug.
 
@@ -25,4 +25,4 @@ Merlin Monroe is a disco and house artist based in Germany, tracked on soundchec
 
 Tom Kutsche, Diskohengst, HiHat
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/merlinmonroe/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/merlinmonroe/)*

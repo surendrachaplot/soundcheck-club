@@ -1,6 +1,6 @@
 # Guzman (2)
 
-Guzman (2) is a Electro and House artist with 1 upcoming club date listed on soundcheck as of Tue, 28 Jul 2026, next at Secret Location, London on Sat, 1 Aug 2026.
+Guzman (2) is a Electro and House artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at Secret Location, London on Sat, 1 Aug 2026.
 
 Guzman (2) is an electro and house artist based in United Kingdom, tracked on soundcheck, with 8 sets logged across London. Often billed alongside Calla, Roman (3) and Adi (CO). Next up: Secret Location, London on Sat 1 Aug.
 
@@ -24,4 +24,4 @@ Guzman (2) is an electro and house artist based in United Kingdom, tracked on so
 
 Calla, Roman (3), Adi (CO)
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/guzman-2/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/guzman-2/)*

@@ -1,6 +1,6 @@
 # Rote Fabrik
 
-Rote Fabrik is a music venue in Zurich with 1 upcoming night listed on soundcheck as of Tue, 28 Jul 2026; the next is "Lethargy Festival 2026" on Fri, 7 Aug 2026.
+Rote Fabrik is a music venue in Zurich with 1 upcoming night listed on soundcheck as of Wed, 29 Jul 2026; the next is "Lethargy Festival 2026" on Fri, 7 Aug 2026.
 
 Rote Fabrik is a music venue in Zurich listed on soundcheck. 1 upcoming night, with line-ups including After Cooking, A Guy Called Gerald, Anna Wall and Catching Flies and 2 more. Browse upcoming dates, start times and who's playing. Seestrasse 395; 8038, Zürich; Switzerland.
 
@@ -14,4 +14,4 @@ Rote Fabrik is a music venue in Zurich listed on soundcheck. 1 upcoming night, w
 
 Seestrasse 395; 8038, Zürich; Switzerland, Zurich
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/zurich/club/rote-fabrik/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/zurich/club/rote-fabrik/)*

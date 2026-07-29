@@ -1,6 +1,6 @@
 # DJ Freegah
 
-DJ Freegah is a Afro House and Afrobeat artist with 1 upcoming club date listed on soundcheck as of Tue, 28 Jul 2026, next at Odonien, Cologne on Sat, 22 Aug 2026.
+DJ Freegah is a Afro House and Afrobeat artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at Odonien, Cologne on Sat, 22 Aug 2026.
 
 DJ Freegah is an afro house and afrobeat artist based in Germany, tracked on soundcheck, with 12 sets logged across Berlin and Cologne. Often billed alongside DORITOS DJ, Bun Xapa and Cajoux. Next up: Odonien, Cologne on Sat 22 Aug.
 
@@ -25,4 +25,4 @@ DJ Freegah is an afro house and afrobeat artist based in Germany, tracked on sou
 
 DORITOS DJ, Bun Xapa, Cajoux
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/djfreegah/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/djfreegah/)*

@@ -1,6 +1,6 @@
 # FreakAssE
 
-FreakAssE is a Electro artist with 1 upcoming club date listed on soundcheck as of Tue, 28 Jul 2026, next at ://about blank, Berlin on Wed, 29 Jul 2026.
+FreakAssE is a Electro artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at ://about blank, Berlin on Wed, 29 Jul 2026.
 
 FreakAssE is an electro artist based in Germany, tracked on soundcheck, with 2 sets logged across Berlin. Often billed alongside Amuleto Manuela. Next up: ://about blank, Berlin on Wed 29 Jul.
 
@@ -18,4 +18,4 @@ FreakAssE is an electro artist based in Germany, tracked on soundcheck, with 2 s
 
 Amuleto Manuela
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/freakasse/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/freakasse/)*

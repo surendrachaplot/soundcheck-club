@@ -1,6 +1,6 @@
 # Makito
 
-Makito is a Hip-Hop artist with 1 upcoming club date listed on soundcheck as of Tue, 28 Jul 2026, next at Royal Lounge, Tokyo on Fri, 31 Jul 2026.
+Makito is a Hip-Hop artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at Royal Lounge, Tokyo on Fri, 31 Jul 2026.
 
 Makito is a hip-hop artist based in Serbia, tracked on soundcheck, with 1 set logged across Tokyo. Often billed alongside AYNA, YANA and Yuuki. Next up: Royal Lounge, Tokyo on Fri 31 Jul.
 
@@ -14,4 +14,4 @@ Makito is a hip-hop artist based in Serbia, tracked on soundcheck, with 1 set lo
 
 AYNA, YANA, Yuuki
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/makito/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/makito/)*

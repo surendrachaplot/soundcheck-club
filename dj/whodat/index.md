@@ -1,6 +1,6 @@
 # Whodat
 
-Whodat is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 28 Jul 2026, next at Spkrbox, Detroit on Wed, 29 Jul 2026.
+Whodat is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at Spkrbox, Detroit on Wed, 29 Jul 2026.
 
 Whodat is a house and techno artist tracked on soundcheck, with 119 sets logged across Berlin, Bristol, Chicago and Cork and 9 more. Often billed alongside Stacey Hotwaxx Hale, Father Dukes and Isaac Prieto. Next up: Spkrbox, Detroit on Wed 29 Jul.
 
@@ -25,4 +25,4 @@ Whodat is a house and techno artist tracked on soundcheck, with 119 sets logged 
 
 Stacey Hotwaxx Hale, Father Dukes, Isaac Prieto
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/whodat/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/whodat/)*

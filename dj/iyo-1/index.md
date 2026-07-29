@@ -1,6 +1,6 @@
 # IYO (1)
 
-IYO (1) is a Garage and House artist with 1 upcoming club date listed on soundcheck as of Tue, 28 Jul 2026, next at Aoyama Hachi, Tokyo on Sun, 2 Aug 2026.
+IYO (1) is a Garage and House artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at Aoyama Hachi, Tokyo on Sun, 2 Aug 2026.
 
 IYO (1) is a garage and house artist based in Japan, tracked on soundcheck, with 2 sets logged across Osaka and Tokyo. Often billed alongside BANANA-CHAN, Frankie $ and Hibish (2). Next up: Aoyama Hachi, Tokyo on Sun 2 Aug.
 
@@ -18,4 +18,4 @@ IYO (1) is a garage and house artist based in Japan, tracked on soundcheck, with
 
 BANANA-CHAN, Frankie $, Hibish (2)
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/iyo-1/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/iyo-1/)*

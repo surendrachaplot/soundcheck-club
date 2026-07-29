@@ -1,6 +1,6 @@
 # Ely Oaks
 
-Ely Oaks is a Techno and House artist with 5 upcoming club dates listed on soundcheck as of Tue, 28 Jul 2026, next at Dürener Badesee, Cologne on Fri, 28 Aug 2026.
+Ely Oaks is a Techno and House artist with 5 upcoming club dates listed on soundcheck as of Wed, 29 Jul 2026, next at Dürener Badesee, Cologne on Fri, 28 Aug 2026.
 
 Ely Oaks is a techno and house artist tracked on soundcheck, with 33 sets logged across Aberdeen, Amsterdam, Antwerp and Austin and 20 more. Often billed alongside BOVSKI, Dimension and SUPERSTRINGS. Next up: Dürener Badesee, Cologne on Fri 28 Aug.
 
@@ -29,4 +29,4 @@ Ely Oaks is a techno and house artist tracked on soundcheck, with 33 sets logged
 
 BOVSKI, Dimension, SUPERSTRINGS
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/elyoaks/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/elyoaks/)*

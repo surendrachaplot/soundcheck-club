@@ -1,6 +1,6 @@
 # Joe Armon-Jones
 
-Joe Armon-Jones is a Jazz and Garage artist with 1 upcoming club date listed on soundcheck as of Tue, 28 Jul 2026, next at Sønder Hoved, Copenhagen on Thu, 30 Jul 2026.
+Joe Armon-Jones is a Jazz and Garage artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at Sønder Hoved, Copenhagen on Thu, 30 Jul 2026.
 
 Joe Armon-Jones is a jazz and garage artist tracked on soundcheck, with 12 sets logged across Berlin, Bristol, Copenhagen and London. Often billed alongside Maxwell Owin, Bakey and Dave Harvey. Next up: Sønder Hoved, Copenhagen on Thu 30 Jul.
 
@@ -25,4 +25,4 @@ Joe Armon-Jones is a jazz and garage artist tracked on soundcheck, with 12 sets 
 
 Maxwell Owin, Bakey, Dave Harvey
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/joearmon-jones/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/joearmon-jones/)*

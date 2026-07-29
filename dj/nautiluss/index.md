@@ -1,6 +1,6 @@
 # Nautiluss
 
-Nautiluss is a House and Minimal artist with 1 upcoming club date listed on soundcheck as of Tue, 28 Jul 2026, next at Paradise Grapevine Winery, Toronto on Fri, 31 Jul 2026.
+Nautiluss is a House and Minimal artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at Paradise Grapevine Winery, Toronto on Fri, 31 Jul 2026.
 
 Nautiluss is a house and minimal artist based in Canada, tracked on soundcheck, with 18 sets logged across Toronto and Vancouver. Often billed alongside Rabzi, Chinelo and Ensoul. Next up: Paradise Grapevine Winery, Toronto on Fri 31 Jul.
 
@@ -25,4 +25,4 @@ Nautiluss is a house and minimal artist based in Canada, tracked on soundcheck, 
 
 Rabzi, Chinelo, Ensoul
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/nautiluss/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/nautiluss/)*

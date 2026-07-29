@@ -1,6 +1,6 @@
 # Hawthorn
 
-Hawthorn is a music venue in San Francisco/Oakland with 3 upcoming nights listed on soundcheck as of Tue, 28 Jul 2026; the next is "Velvet Rudiments" on Thu, 30 Jul 2026.
+Hawthorn is a music venue in San Francisco/Oakland with 3 upcoming nights listed on soundcheck as of Wed, 29 Jul 2026; the next is "Velvet Rudiments" on Thu, 30 Jul 2026.
 
 Hawthorn is a music venue in Sanfrancisco listed on soundcheck. 3 upcoming nights, with line-ups including Alkemiss Erika, Combover, Dean Samaras and Good Question and 2 more. Browse upcoming dates, start times and who's playing. 46 Geary Street, San Francisco, CA 94108.
 
@@ -16,4 +16,4 @@ Hawthorn is a music venue in Sanfrancisco listed on soundcheck. 3 upcoming night
 
 46 Geary Street, San Francisco, CA 94108, San Francisco/Oakland
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/sanfrancisco/club/hawthorn/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/sanfrancisco/club/hawthorn/)*

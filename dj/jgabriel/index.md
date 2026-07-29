@@ -1,6 +1,6 @@
 # J Gabriel
 
-J Gabriel is a Minimal and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 28 Jul 2026, next at Club der Visionaere, Berlin on Thu, 30 Jul 2026.
+J Gabriel is a Minimal and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at Club der Visionaere, Berlin on Thu, 30 Jul 2026.
 
 J Gabriel is a minimal and techno artist based in United States of America, tracked on soundcheck, with 5 sets logged across Berlin, Hongkong and Newyorkcity. Often billed alongside Connie, David Berrie and Andrea Fiorito. Next up: Club der Visionaere, Berlin on Thu 30 Jul.
 
@@ -21,4 +21,4 @@ J Gabriel is a minimal and techno artist based in United States of America, trac
 
 Connie, David Berrie, Andrea Fiorito
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/jgabriel/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/jgabriel/)*

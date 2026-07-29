@@ -1,6 +1,6 @@
 # Vanessa Sa
 
-Vanessa Sa is a Techno and Electro artist with 1 upcoming club date listed on soundcheck as of Tue, 28 Jul 2026, next at Hinterhof Mitte, Berlin on Fri, 31 Jul 2026.
+Vanessa Sa is a Techno and Electro artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at Hinterhof Mitte, Berlin on Fri, 31 Jul 2026.
 
 Vanessa Sa is a techno and electro artist based in Austria, tracked on soundcheck, with 25 sets logged across Berlin, London and Vienna. Often billed alongside BRX (2), Who is ela¿ and Aleta. Next up: Hinterhof Mitte, Berlin on Fri 31 Jul.
 
@@ -25,4 +25,4 @@ Vanessa Sa is a techno and electro artist based in Austria, tracked on soundchec
 
 BRX (2), Who is ela¿, Aleta
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/vanessasa/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/vanessasa/)*

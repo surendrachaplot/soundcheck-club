@@ -1,6 +1,6 @@
 # Mija
 
-Mija is a Techno and House artist with 5 upcoming club dates listed on soundcheck as of Tue, 28 Jul 2026, next at Mondo, Madrid on Thu, 30 Jul 2026.
+Mija is a Techno and House artist with 5 upcoming club dates listed on soundcheck as of Wed, 29 Jul 2026, next at Mondo, Madrid on Thu, 30 Jul 2026.
 
 Mija is a techno and house artist tracked on soundcheck, with 120 sets logged across Amsterdam, Antwerp, Austin and Barcelona and 42 more. Often billed alongside Bad Boombox, Mischluft and Janis Zielinski. Next up: Mondo, Madrid on Thu 30 Jul.
 
@@ -29,4 +29,4 @@ Mija is a techno and house artist tracked on soundcheck, with 120 sets logged ac
 
 Bad Boombox, Mischluft, Janis Zielinski
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/mija/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/mija/)*

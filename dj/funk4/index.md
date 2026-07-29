@@ -1,6 +1,6 @@
 # funk4
 
-funk4 is a Trance and House artist with 1 upcoming club date listed on soundcheck as of Tue, 28 Jul 2026, next at Späti 4 You, Berlin on Sat, 1 Aug 2026.
+funk4 is a Trance and House artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at Späti 4 You, Berlin on Sat, 1 Aug 2026.
 
 funk4 is a trance and house artist based in Germany, tracked on soundcheck, with 8 sets logged across Berlin. Often billed alongside FUNIC, Amorelie and Armaville. Next up: Späti 4 You, Berlin on Sat 1 Aug.
 
@@ -24,4 +24,4 @@ funk4 is a trance and house artist based in Germany, tracked on soundcheck, with
 
 FUNIC, Amorelie, Armaville
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/funk4/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/funk4/)*

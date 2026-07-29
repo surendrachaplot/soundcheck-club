@@ -1,6 +1,6 @@
 # Freeza Chin
 
-Freeza Chin is a Garage and UK Funky artist with 1 upcoming club date listed on soundcheck as of Tue, 28 Jul 2026, next at Temper and Brown, Birmingham on Fri, 31 Jul 2026.
+Freeza Chin is a Garage and UK Funky artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at Temper and Brown, Birmingham on Fri, 31 Jul 2026.
 
 Freeza Chin is a garage and uk funky artist tracked on soundcheck, with 20 sets logged across Birmingham, London and Toronto. Often billed alongside Jayemkayem, KATIE COOPER and Ana Luisa. Next up: Temper and Brown, Birmingham on Fri 31 Jul.
 
@@ -25,4 +25,4 @@ Freeza Chin is a garage and uk funky artist tracked on soundcheck, with 20 sets 
 
 Jayemkayem, KATIE COOPER, Ana Luisa
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/freezachin/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/freezachin/)*

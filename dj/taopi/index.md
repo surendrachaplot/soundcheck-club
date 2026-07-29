@@ -1,6 +1,6 @@
 # Taopi
 
-Taopi is a House and Minimal artist with 1 upcoming club date listed on soundcheck as of Tue, 28 Jul 2026, next at Monkeybar, Tokyo on Sat, 1 Aug 2026.
+Taopi is a House and Minimal artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at Monkeybar, Tokyo on Sat, 1 Aug 2026.
 
 Taopi is a house and minimal artist based in Japan, tracked on soundcheck, with 59 sets logged across Tokyo. Often billed alongside Bi-Polar, Rimo and Air.. Next up: Monkeybar, Tokyo on Sat 1 Aug.
 
@@ -25,4 +25,4 @@ Taopi is a house and minimal artist based in Japan, tracked on soundcheck, with 
 
 Bi-Polar, Rimo, Air.
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/taopi/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/taopi/)*

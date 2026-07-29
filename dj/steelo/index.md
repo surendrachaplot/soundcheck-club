@@ -1,6 +1,6 @@
 # Steelo
 
-Steelo is a Afro House and House artist with 1 upcoming club date listed on soundcheck as of Tue, 28 Jul 2026, next at Basing House, London on Sat, 15 Aug 2026.
+Steelo is a Afro House and House artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at Basing House, London on Sat, 15 Aug 2026.
 
 Steelo is an afro house and house artist based in Netherlands, tracked on soundcheck, with 5 sets logged across Detroit, London and Riga. Often billed alongside Aumy Raggo, Bobby Davis and Gavin Wilson. Next up: Basing House, London on Sat 15 Aug.
 
@@ -21,4 +21,4 @@ Steelo is an afro house and house artist based in Netherlands, tracked on soundc
 
 Aumy Raggo, Bobby Davis, Gavin Wilson
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/steelo/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/steelo/)*

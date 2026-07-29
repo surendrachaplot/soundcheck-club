@@ -1,6 +1,6 @@
 # Secret Act
 
-Secret Act is a Techno and Tech House artist with 1 upcoming club date listed on soundcheck as of Tue, 28 Jul 2026, next at Hinterhof Mitte, Berlin on Fri, 31 Jul 2026.
+Secret Act is a Techno and Tech House artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at Hinterhof Mitte, Berlin on Fri, 31 Jul 2026.
 
 Secret Act is a techno and tech house artist based in Germany, tracked on soundcheck, with 13 sets logged across Berlin, Cologne and Hamburg. Often billed alongside 2cute2destroy, AGILY and Adi. Next up: Hinterhof Mitte, Berlin on Fri 31 Jul.
 
@@ -25,4 +25,4 @@ Secret Act is a techno and tech house artist based in Germany, tracked on soundc
 
 2cute2destroy, AGILY, Adi
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/secretact/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/secretact/)*

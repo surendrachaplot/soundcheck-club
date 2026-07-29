@@ -1,8 +1,8 @@
 # Spin
 
-Spin is a music venue in San Diego with 13 upcoming nights listed on soundcheck as of Tue, 28 Jul 2026; the next is "ELEVATE: D. GRAY B2B Kasama" on Fri, 31 Jul 2026.
+Spin is a music venue in San Diego with 14 upcoming nights listed on soundcheck as of Wed, 29 Jul 2026; the next is "ELEVATE: D. GRAY B2B Kasama" on Fri, 31 Jul 2026.
 
-Spin is a music venue in Sandiego listed on soundcheck. 13 upcoming nights, with line-ups including aali, Apache, Borgore and Bump and Ugly and 2 more. Browse upcoming dates, start times and who's playing. 2028 Hancock Street; San Diego, CA 92110, USA.
+Spin is a music venue in Sandiego listed on soundcheck. 14 upcoming nights, with line-ups including aali, Apache, Borgore and Bump and Ugly and 2 more. Browse upcoming dates, start times and who's playing. 2028 Hancock Street; San Diego, CA 92110, USA.
 
 ## What's on
 
@@ -13,14 +13,14 @@ Spin is a music venue in Sandiego listed on soundcheck. 13 upcoming nights, with
 | Sat, 1 Aug 2026 | Spin X NEW LIFE X STEPPIN TIL CHECKOUT: MADGRRL | MADGRRL |
 | Sat, 8 Aug 2026 | FNGRS CRSSD presents Mall Grab | Mall Grab |
 | Thu, 20 Aug 2026 | RISE: Trance Thursday Nightclub - AKV |  |
+| Thu, 20 Aug 2026 | Headroom Listening Sessions: San Diego |  |
 | Fri, 21 Aug 2026 | LED presents Nitefreak with Corkidi | Nitefreak |
 | Sun, 23 Aug 2026 | SUNLIGHT SOCIAL W/ Oliver Koletzki | Oliver Koletzki, aali |
 | Fri, 28 Aug 2026 | LED presents Borgore | Borgore |
 | Sat, 29 Aug 2026 | Rays from Above - Spin Rooftop Day Party | Bump and Ugly |
-| Sat, 5 Sept 2026 | LED presents Distant Matter |  |
 
 ## Address
 
 2028 Hancock Street; San Diego, CA 92110, USA, San Diego
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/sandiego/club/spin/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/sandiego/club/spin/)*

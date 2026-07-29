@@ -1,6 +1,6 @@
 # NØELLE
 
-NØELLE is a Experimental and Classical artist with 1 upcoming club date listed on soundcheck as of Tue, 28 Jul 2026, next at Altogether Otherwise, Manchester on Thu, 6 Aug 2026.
+NØELLE is a Experimental and Classical artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at Altogether Otherwise, Manchester on Thu, 6 Aug 2026.
 
 NØELLE is an experimental and classical artist based in United Kingdom, tracked on soundcheck, with 12 sets logged across London and Manchester. Often billed alongside AM sin, Twin Complex and Alien Alarms. Next up: Altogether Otherwise, Manchester on Thu 6 Aug.
 
@@ -25,4 +25,4 @@ NØELLE is an experimental and classical artist based in United Kingdom, tracked
 
 AM sin, Twin Complex, Alien Alarms
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/noelle/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/noelle/)*

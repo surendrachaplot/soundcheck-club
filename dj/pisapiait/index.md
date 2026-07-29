@@ -1,6 +1,6 @@
 # PISAPIA (IT)
 
-PISAPIA (IT) is a Techno and Industrial artist with 1 upcoming club date listed on soundcheck as of Tue, 28 Jul 2026, next at Entrepôts Dominion, Les, Montreal on Fri, 11 Sept 2026.
+PISAPIA (IT) is a Techno and Industrial artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at Entrepôts Dominion, Les, Montreal on Fri, 11 Sept 2026.
 
 PISAPIA (IT) is a techno and industrial artist based in Italy, tracked on soundcheck, with 40 sets logged across Amsterdam, Barcelona, Berlin and Cologne and 19 more. Often billed alongside DIMENSION 9, Gianni Di Bernardo and GADDAM. Next up: Entrepôts Dominion, Les, Montreal on Fri 11 Sept.
 
@@ -25,4 +25,4 @@ PISAPIA (IT) is a techno and industrial artist based in Italy, tracked on soundc
 
 DIMENSION 9, Gianni Di Bernardo, GADDAM
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/pisapiait/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/pisapiait/)*

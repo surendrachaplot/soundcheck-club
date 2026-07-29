@@ -1,6 +1,6 @@
 # KLEM SDN
 
-KLEM SDN is a Tech House and House artist with 1 upcoming club date listed on soundcheck as of Tue, 28 Jul 2026, next at Village du Soir, Geneva on Fri, 31 Jul 2026.
+KLEM SDN is a Tech House and House artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at Village du Soir, Geneva on Fri, 31 Jul 2026.
 
 KLEM SDN is a tech house and house artist based in Switzerland, tracked on soundcheck, with 7 sets logged across Geneva. Often billed alongside Hector Moreno, Master M and SamC. Next up: Village du Soir, Geneva on Fri 31 Jul.
 
@@ -23,4 +23,4 @@ KLEM SDN is a tech house and house artist based in Switzerland, tracked on sound
 
 Hector Moreno, Master M, SamC
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/klemsdn/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/klemsdn/)*

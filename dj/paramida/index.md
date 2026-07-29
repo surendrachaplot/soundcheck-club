@@ -1,6 +1,6 @@
 # PARAMIDA
 
-PARAMIDA is a House and Techno artist with 7 upcoming club dates listed on soundcheck as of Tue, 28 Jul 2026, next at Burgess Park, London on Fri, 31 Jul 2026.
+PARAMIDA is a House and Techno artist with 7 upcoming club dates listed on soundcheck as of Wed, 29 Jul 2026, next at Burgess Park, London on Fri, 31 Jul 2026.
 
 PARAMIDA is a house and techno artist tracked on soundcheck, with 241 sets logged across Amsterdam, Athens, Bali and Barcelona and 45 more. Often billed alongside Alex Kassian, Ryan Elliott and tINI. Next up: Burgess Park, London on Fri 31 Jul.
 
@@ -31,4 +31,4 @@ PARAMIDA is a house and techno artist tracked on soundcheck, with 241 sets logge
 
 Alex Kassian, Ryan Elliott, tINI
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/paramida/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/paramida/)*

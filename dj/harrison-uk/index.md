@@ -1,6 +1,6 @@
 # Harrison (UK)
 
-Harrison (UK) is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Tue, 28 Jul 2026, next at Renate, Berlin on Sat, 1 Aug 2026.
+Harrison (UK) is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at Renate, Berlin on Sat, 1 Aug 2026.
 
 Harrison (UK) is a techno and house artist tracked on soundcheck, with 9 sets logged across Berlin, London and Sheffield. Often billed alongside Harrison (2), Sam J and Cimmerian. Next up: Renate, Berlin on Sat 1 Aug.
 
@@ -25,4 +25,4 @@ Harrison (UK) is a techno and house artist tracked on soundcheck, with 9 sets lo
 
 Harrison (2), Sam J, Cimmerian
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/harrison-uk/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/harrison-uk/)*

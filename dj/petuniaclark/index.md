@@ -1,6 +1,6 @@
 # Petunia Clark
 
-Petunia Clark is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 28 Jul 2026, next at Under Bridge Madrid, Madrid on Sat, 1 Aug 2026.
+Petunia Clark is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at Under Bridge Madrid, Madrid on Sat, 1 Aug 2026.
 
 Petunia Clark is a house and techno artist based in Spain, tracked on soundcheck, with 2 sets logged across Madrid. Often billed alongside ESTRELLA OR, Falsx and Kamboya. Next up: Under Bridge Madrid, Madrid on Sat 1 Aug.
 
@@ -18,4 +18,4 @@ Petunia Clark is a house and techno artist based in Spain, tracked on soundcheck
 
 ESTRELLA OR, Falsx, Kamboya
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/petuniaclark/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/petuniaclark/)*

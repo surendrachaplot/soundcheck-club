@@ -1,6 +1,6 @@
 # Arweenn
 
-Arweenn is a Techno and Industrial artist with 1 upcoming club date listed on soundcheck as of Tue, 28 Jul 2026, next at Luka, Seoul on Sat, 1 Aug 2026.
+Arweenn is a Techno and Industrial artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at Luka, Seoul on Sat, 1 Aug 2026.
 
 Arweenn is a techno and industrial artist based in Italy, tracked on soundcheck, with 16 sets logged across Berlin, Copenhagen, Lisbon and Madrid and 5 more. Often billed alongside MMANU, Loren Plipki and Monk000. Next up: Luka, Seoul on Sat 1 Aug.
 
@@ -25,4 +25,4 @@ Arweenn is a techno and industrial artist based in Italy, tracked on soundcheck,
 
 MMANU, Loren Plipki, Monk000
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/arweenn/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/arweenn/)*

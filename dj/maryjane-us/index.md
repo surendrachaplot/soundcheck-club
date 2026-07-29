@@ -1,6 +1,6 @@
 # Mary Jane (US)
 
-Mary Jane (US) is a House and Deep House artist with 2 upcoming club dates listed on soundcheck as of Tue, 28 Jul 2026, next at TBA - YAANGA PARK, Los Angeles on Sat, 1 Aug 2026.
+Mary Jane (US) is a House and Deep House artist with 2 upcoming club dates listed on soundcheck as of Wed, 29 Jul 2026, next at TBA - YAANGA PARK, Los Angeles on Sat, 1 Aug 2026.
 
 Mary Jane (US) is a house and deep house artist based in United States of America, tracked on soundcheck, with 21 sets logged across Losangeles, Miami, Newyorkcity and Sanfrancisco. Often billed alongside Dude Skywalker, Nii Tei and Kike Roldan. Next up: TBA - YAANGA PARK, Losangeles on Sat 1 Aug.
 
@@ -26,4 +26,4 @@ Mary Jane (US) is a house and deep house artist based in United States of Americ
 
 Dude Skywalker, Nii Tei, Kike Roldan
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/maryjane-us/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/maryjane-us/)*

@@ -1,6 +1,6 @@
 # VAP1D
 
-VAP1D is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Tue, 28 Jul 2026, next at Acud Macht NEU, Berlin on Fri, 21 Aug 2026.
+VAP1D is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at Acud Macht NEU, Berlin on Fri, 21 Aug 2026.
 
 VAP1D is a techno and house artist based in United States of America, tracked on soundcheck, with 13 sets logged across Berlin and Losangeles. Often billed alongside Kitty Logic, French For Drugs and AuruM.. Next up: Acud Macht NEU, Berlin on Fri 21 Aug.
 
@@ -25,4 +25,4 @@ VAP1D is a techno and house artist based in United States of America, tracked on
 
 Kitty Logic, French For Drugs, AuruM.
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/vap1d/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/vap1d/)*

@@ -1,6 +1,6 @@
 # Drupe Jam
 
-Drupe Jam is a House and Bass artist with 1 upcoming club date listed on soundcheck as of Tue, 28 Jul 2026, next at Mansions, New York City on Thu, 30 Jul 2026.
+Drupe Jam is a House and Bass artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at Mansions, New York City on Thu, 30 Jul 2026.
 
 Drupe Jam is a house and bass artist based in United States of America, tracked on soundcheck, with 25 sets logged across Newyorkcity. Often billed alongside Ladiez Drink Free, Mariposa and Perna. Next up: Mansions, Newyorkcity on Thu 30 Jul.
 
@@ -25,4 +25,4 @@ Drupe Jam is a house and bass artist based in United States of America, tracked 
 
 Ladiez Drink Free, Mariposa, Perna
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/drupejam/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/drupejam/)*

@@ -1,6 +1,6 @@
 # Flore
 
-Flore is a Techno and Bass artist with 1 upcoming club date listed on soundcheck as of Tue, 28 Jul 2026, next at Berghain | Panorama Bar | Säule, Berlin on Fri, 31 Jul 2026.
+Flore is a Techno and Bass artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at Berghain | Panorama Bar | Säule, Berlin on Fri, 31 Jul 2026.
 
 Flore is a techno and bass artist based in France, tracked on soundcheck, with 45 sets logged across Amsterdam, Barcelona, Belgrade and Berlin and 9 more. Often billed alongside Ehua, upsammy and ojoo. Next up: Berghain | Panorama Bar | Säule, Berlin on Fri 31 Jul.
 
@@ -25,4 +25,4 @@ Flore is a techno and bass artist based in France, tracked on soundcheck, with 4
 
 Ehua, upsammy, ojoo
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/flore/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/flore/)*

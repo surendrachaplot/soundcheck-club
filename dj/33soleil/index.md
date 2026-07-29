@@ -1,6 +1,6 @@
 # 33Soleil
 
-33Soleil is a Techno and Breakbeat artist with 2 upcoming club dates listed on soundcheck as of Tue, 28 Jul 2026, next at Karmen Camina, Strasbourg on Sat, 1 Aug 2026.
+33Soleil is a Techno and Breakbeat artist with 2 upcoming club dates listed on soundcheck as of Wed, 29 Jul 2026, next at Karmen Camina, Strasbourg on Sat, 1 Aug 2026.
 
 33Soleil is a techno and breakbeat artist based in France, tracked on soundcheck, with 9 sets logged across Strasbourg. Often billed alongside Gabi., sans lune ni ciel and 1client. Next up: Karmen Camina, Strasbourg on Sat 1 Aug.
 
@@ -25,4 +25,4 @@
 
 Gabi., sans lune ni ciel, 1client
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/33soleil/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/33soleil/)*

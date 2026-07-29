@@ -1,6 +1,6 @@
 # Kallaloo
 
-Kallaloo is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 28 Jul 2026, next at Kater, Berlin on Fri, 31 Jul 2026.
+Kallaloo is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at Kater, Berlin on Fri, 31 Jul 2026.
 
 Kallaloo is a house and techno artist based in Trinidad and Tobago, tracked on soundcheck, with 21 sets logged across Berlin. Often billed alongside Janna N, Budg and Johanna Elias. Next up: Kater, Berlin on Fri 31 Jul.
 
@@ -25,4 +25,4 @@ Kallaloo is a house and techno artist based in Trinidad and Tobago, tracked on s
 
 Janna N, Budg, Johanna Elias
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/kallaloo/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/kallaloo/)*

@@ -1,6 +1,6 @@
 # Refilled
 
-Refilled is a Club and House artist with 1 upcoming club date listed on soundcheck as of Tue, 28 Jul 2026, next at Jolene Sound Room Brooklyn, New York City on Fri, 31 Jul 2026.
+Refilled is a Club and House artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at Jolene Sound Room Brooklyn, New York City on Fri, 31 Jul 2026.
 
 Refilled is a club and house artist based in United States of America, tracked on soundcheck, with 11 sets logged across Newyorkcity and Philadelphia. Often billed alongside Flash Gea, Traps N Trees and shekdash. Next up: Jolene Sound Room Brooklyn, Newyorkcity on Fri 31 Jul.
 
@@ -25,4 +25,4 @@ Refilled is a club and house artist based in United States of America, tracked o
 
 Flash Gea, Traps N Trees, shekdash
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/refilled/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/refilled/)*

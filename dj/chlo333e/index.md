@@ -1,6 +1,6 @@
 # chlo333e
 
-chlo333e is a Trance and Hardcore artist with 1 upcoming club date listed on soundcheck as of Tue, 28 Jul 2026, next at Honey Street Studio, Manchester on Fri, 21 Aug 2026.
+chlo333e is a Trance and Hardcore artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at Honey Street Studio, Manchester on Fri, 21 Aug 2026.
 
 chlo333e is a trance and hardcore artist tracked on soundcheck, with 11 sets logged across Leeds and Manchester. Often billed alongside Princess Elf Bar, Willow J and Anop. Next up: Honey Street Studio, Manchester on Fri 21 Aug.
 
@@ -25,4 +25,4 @@ chlo333e is a trance and hardcore artist tracked on soundcheck, with 11 sets log
 
 Princess Elf Bar, Willow J, Anop
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/chlo333e/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/chlo333e/)*

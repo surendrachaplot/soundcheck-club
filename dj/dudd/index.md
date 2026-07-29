@@ -1,6 +1,6 @@
 # Dudd
 
-Dudd is a Minimal and House artist with 1 upcoming club date listed on soundcheck as of Tue, 28 Jul 2026, next at Jolene, Copenhagen on Fri, 31 Jul 2026.
+Dudd is a Minimal and House artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at Jolene, Copenhagen on Fri, 31 Jul 2026.
 
 Dudd is a minimal and house artist based in Denmark, tracked on soundcheck, with 19 sets logged across Copenhagen, Hamburg and Paris. Often billed alongside DORMA21, Ana Karla and Tomás Cebrero. Next up: Jolene, Copenhagen on Fri 31 Jul.
 
@@ -25,4 +25,4 @@ Dudd is a minimal and house artist based in Denmark, tracked on soundcheck, with
 
 DORMA21, Ana Karla, Tomás Cebrero
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/dudd/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/dudd/)*

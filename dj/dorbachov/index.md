@@ -1,6 +1,6 @@
 # Dorbachov
 
-Dorbachov is a Techno and Deep House artist with 2 upcoming club dates listed on soundcheck as of Tue, 28 Jul 2026, next at TBA, Manchester on Sat, 1 Aug 2026.
+Dorbachov is a Techno and Deep House artist with 2 upcoming club dates listed on soundcheck as of Wed, 29 Jul 2026, next at TBA, Manchester on Sat, 1 Aug 2026.
 
 Dorbachov is a techno and deep house artist based in United Kingdom, tracked on soundcheck, with 10 sets logged across Antwerp and Manchester. Often billed alongside Thomas Oven, CEEKAY and CMPND (BE). Next up: TBA, Manchester on Sat 1 Aug.
 
@@ -26,4 +26,4 @@ Dorbachov is a techno and deep house artist based in United Kingdom, tracked on 
 
 Thomas Oven, CEEKAY, CMPND (BE)
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/dorbachov/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/dorbachov/)*

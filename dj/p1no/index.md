@@ -1,6 +1,6 @@
 # p1no
 
-p1no is a Club and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 28 Jul 2026, next at Supernatural Haus, Miami on Thu, 30 Jul 2026.
+p1no is a Club and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at Supernatural Haus, Miami on Thu, 30 Jul 2026.
 
 p1no is a club and techno artist based in United States of America, tracked on soundcheck, with 38 sets logged across Boston, Miami, Newyorkcity and Philadelphia. Often billed alongside Chelita, DJ maddog and Roiju. Next up: Supernatural Haus, Miami on Thu 30 Jul.
 
@@ -25,4 +25,4 @@ p1no is a club and techno artist based in United States of America, tracked on s
 
 Chelita, DJ maddog, Roiju
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/p1no/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/p1no/)*

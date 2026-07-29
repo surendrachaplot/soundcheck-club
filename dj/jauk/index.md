@@ -1,6 +1,6 @@
 # JA (UK)
 
-JA (UK) is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Tue, 28 Jul 2026, next at The Bulstrode, London on Sat, 8 Aug 2026.
+JA (UK) is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at The Bulstrode, London on Sat, 8 Aug 2026.
 
 JA (UK) is a house and tech house artist based in United Kingdom, tracked on soundcheck, with 7 sets logged across Copenhagen and London. Often billed alongside DYLZY, Deams and Arthur Keen. Next up: The Bulstrode, London on Sat 8 Aug.
 
@@ -23,4 +23,4 @@ JA (UK) is a house and tech house artist based in United Kingdom, tracked on sou
 
 DYLZY, Deams, Arthur Keen
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/jauk/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/jauk/)*

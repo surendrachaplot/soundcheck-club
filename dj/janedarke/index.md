@@ -1,6 +1,6 @@
 # Jane Darke
 
-Jane Darke is a Techno and EBM artist with 2 upcoming club dates listed on soundcheck as of Tue, 28 Jul 2026, next at radial, London on Fri, 7 Aug 2026.
+Jane Darke is a Techno and EBM artist with 2 upcoming club dates listed on soundcheck as of Wed, 29 Jul 2026, next at radial, London on Fri, 7 Aug 2026.
 
 Jane Darke is a techno and ebm artist based in United Kingdom, tracked on soundcheck, with 18 sets logged across Brighton, Edinburgh and London. Often billed alongside JON KRIEGER, Arrosa and Claudia Kane. Next up: radial, London on Fri 7 Aug.
 
@@ -26,4 +26,4 @@ Jane Darke is a techno and ebm artist based in United Kingdom, tracked on soundc
 
 JON KRIEGER, Arrosa, Claudia Kane
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/janedarke/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/janedarke/)*

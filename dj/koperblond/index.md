@@ -1,6 +1,6 @@
 # Koperblond
 
-Koperblond is a House and Trance artist with 1 upcoming club date listed on soundcheck as of Tue, 28 Jul 2026, next at SISSI'S Amsterdam, Amsterdam on Fri, 21 Aug 2026.
+Koperblond is a House and Trance artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at SISSI'S Amsterdam, Amsterdam on Fri, 21 Aug 2026.
 
 Koperblond is a house and trance artist based in Netherlands, tracked on soundcheck, with 40 sets logged across Amsterdam, Rotterdam and Utrecht. Often billed alongside Merel Helderman, Pelanoir and Rayzir. Next up: SISSI'S Amsterdam, Amsterdam on Fri 21 Aug.
 
@@ -25,4 +25,4 @@ Koperblond is a house and trance artist based in Netherlands, tracked on soundch
 
 Merel Helderman, Pelanoir, Rayzir
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/koperblond/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/koperblond/)*

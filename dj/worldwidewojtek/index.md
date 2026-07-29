@@ -1,6 +1,6 @@
 # Worldwide Wojtek
 
-Worldwide Wojtek is a House and Club artist with 1 upcoming club date listed on soundcheck as of Tue, 28 Jul 2026, next at TBA, Vancouver on Sun, 9 Aug 2026.
+Worldwide Wojtek is a House and Club artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at TBA, Vancouver on Sun, 9 Aug 2026.
 
 Worldwide Wojtek is a house and club artist based in Poland, tracked on soundcheck, with 7 sets logged across Vancouver. Often billed alongside Andre Rose, electrocabbage and DJ Skytrain. Next up: TBA, Vancouver on Sun 9 Aug.
 
@@ -23,4 +23,4 @@ Worldwide Wojtek is a house and club artist based in Poland, tracked on soundche
 
 Andre Rose, electrocabbage, DJ Skytrain
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/worldwidewojtek/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/worldwidewojtek/)*

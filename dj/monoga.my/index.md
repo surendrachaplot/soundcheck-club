@@ -1,6 +1,6 @@
 # monoga.my
 
-monoga.my is a Techno and Club artist with 2 upcoming club dates listed on soundcheck as of Tue, 28 Jul 2026, next at Whammy Bar/Double Whammy/Public Bar, Auckland on Fri, 7 Aug 2026.
+monoga.my is a Techno and Club artist with 2 upcoming club dates listed on soundcheck as of Wed, 29 Jul 2026, next at Whammy Bar/Double Whammy/Public Bar, Auckland on Fri, 7 Aug 2026.
 
 monoga.my is a techno and club artist based in New Zealand, tracked on soundcheck, with 13 sets logged across Auckland and Melbourne. Often billed alongside Burna, Caru (NZ) and Sub Sahara. Next up: Whammy Bar/Double Whammy/Public Bar, Auckland on Fri 7 Aug.
 
@@ -26,4 +26,4 @@ monoga.my is a techno and club artist based in New Zealand, tracked on soundchec
 
 Burna, Caru (NZ), Sub Sahara
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/monoga.my/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/monoga.my/)*

@@ -1,6 +1,6 @@
 # Yves Meyer
 
-Yves Meyer is a Techno and Progressive House artist with 1 upcoming club date listed on soundcheck as of Tue, 28 Jul 2026, next at Birgit, Berlin on Sat, 29 Aug 2026.
+Yves Meyer is a Techno and Progressive House artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at Birgit, Berlin on Sat, 29 Aug 2026.
 
 Yves Meyer is a techno and progressive house artist based in Germany, tracked on soundcheck, with 45 sets logged across Berlin and Hamburg. Often billed alongside Pascale Voltaire, KEN (DE) and DJ PayPaul. Next up: Birgit, Berlin on Sat 29 Aug.
 
@@ -25,4 +25,4 @@ Yves Meyer is a techno and progressive house artist based in Germany, tracked on
 
 Pascale Voltaire, KEN (DE), DJ PayPaul
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/yvesmeyer/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/yvesmeyer/)*

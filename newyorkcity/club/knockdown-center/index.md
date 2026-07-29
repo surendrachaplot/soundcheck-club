@@ -1,8 +1,8 @@
 # Knockdown Center
 
-Knockdown Center is a music venue in New York City with 27 upcoming nights listed on soundcheck as of Tue, 28 Jul 2026; the next is "Interplanetary Criminal & Main Phase present: ATW New York" on Fri, 31 Jul 2026.
+Knockdown Center is a music venue in New York City with 28 upcoming nights listed on soundcheck as of Wed, 29 Jul 2026; the next is "Interplanetary Criminal & Main Phase present: ATW New York" on Fri, 31 Jul 2026.
 
-Knockdown Center is a music venue in Newyorkcity listed on soundcheck. 27 upcoming nights, with line-ups including 19:26, 999999999, adobeprincess and Afem Syko and 2 more. Browse upcoming dates, start times and who's playing. 52-19 Flushing Ave., Queens, NY 11378 USA.
+Knockdown Center is a music venue in Newyorkcity listed on soundcheck. 28 upcoming nights, with line-ups including 19:26, 999999999, adobeprincess and Afem Syko and 2 more. Browse upcoming dates, start times and who's playing. 52-19 Flushing Ave., Queens, NY 11378 USA.
 
 ## What's on
 
@@ -23,4 +23,4 @@ Knockdown Center is a music venue in Newyorkcity listed on soundcheck. 27 upcomi
 
 52-19 Flushing Ave., Queens, NY 11378 USA, New York City
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/knockdown-center/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/knockdown-center/)*

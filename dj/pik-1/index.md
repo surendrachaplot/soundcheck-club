@@ -1,6 +1,6 @@
 # pik (1)
 
-pik (1) is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Tue, 28 Jul 2026, next at Odonien, Cologne on Fri, 31 Jul 2026.
+pik (1) is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Wed, 29 Jul 2026, next at Odonien, Cologne on Fri, 31 Jul 2026.
 
 pik (1) is a techno and house artist tracked on soundcheck, with 9 sets logged across Berlin and Cologne. Often billed alongside Nick Deeken, makahaun and Aino DJ. Next up: Odonien, Cologne on Fri 31 Jul.
 
@@ -25,4 +25,4 @@ pik (1) is a techno and house artist tracked on soundcheck, with 9 sets logged a
 
 Nick Deeken, makahaun, Aino DJ
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/pik-1/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/pik-1/)*

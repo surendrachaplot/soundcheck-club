@@ -1,6 +1,6 @@
 # Dame Area
 
-Dame Area is a Experimental and Post-Punk artist with 1 upcoming club date listed on soundcheck as of Tue, 28 Jul 2026, next at Rote Fabrik, Zurich on Fri, 7 Aug 2026.
+Dame Area is a Experimental and Post-Punk artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at Rote Fabrik, Zurich on Fri, 7 Aug 2026.
 
 Dame Area is an experimental and post-punk artist based in Spain, tracked on soundcheck, with 35 sets logged across Athens, Barcelona, Berlin and Bristol and 18 more. Often billed alongside aya, mad miran and Alessandro Adriani. Next up: Rote Fabrik, Zurich on Fri 7 Aug.
 
@@ -25,4 +25,4 @@ Dame Area is an experimental and post-punk artist based in Spain, tracked on sou
 
 aya, mad miran, Alessandro Adriani
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/damearea/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/damearea/)*

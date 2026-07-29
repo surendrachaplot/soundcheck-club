@@ -1,6 +1,6 @@
 # Sans Soleil
 
-Sans Soleil is a music venue in Montreal with 3 upcoming nights listed on soundcheck as of Tue, 28 Jul 2026; the next is "Sans Soleil w/ Raef" on Thu, 30 Jul 2026.
+Sans Soleil is a music venue in Montreal with 3 upcoming nights listed on soundcheck as of Wed, 29 Jul 2026; the next is "Sans Soleil w/ Raef" on Thu, 30 Jul 2026.
 
 Sans Soleil is a music venue in Montreal listed on soundcheck. 3 upcoming nights, with line-ups including bell.pierre, Kozue, Kris Guilty and Raef. Browse upcoming dates, start times and who's playing. 1002 Rue Saint-Urbain (Basement), Montreal, Quebec H2Z 1K6.
 
@@ -16,4 +16,4 @@ Sans Soleil is a music venue in Montreal listed on soundcheck. 3 upcoming nights
 
 1002 Rue Saint-Urbain (Basement), Montreal, Quebec H2Z 1K6, Montreal
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/montreal/club/sans-soleil/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/montreal/club/sans-soleil/)*

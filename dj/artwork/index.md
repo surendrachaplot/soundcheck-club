@@ -1,6 +1,6 @@
 # Artwork
 
-Artwork is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 28 Jul 2026, next at Good Room, New York City on Fri, 28 Aug 2026.
+Artwork is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at Good Room, New York City on Fri, 28 Aug 2026.
 
 Artwork is a house and techno artist based in United Kingdom, tracked on soundcheck, with 75 sets logged across Athens, Berlin, Bristol and Ibiza and 11 more. Often billed alongside Dark Disco, An Dy and Eats Everything. Next up: Good Room, Newyorkcity on Fri 28 Aug.
 
@@ -25,4 +25,4 @@ Artwork is a house and techno artist based in United Kingdom, tracked on soundch
 
 Dark Disco, An Dy, Eats Everything
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/artwork/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/artwork/)*

@@ -1,6 +1,6 @@
 # JACK ROOTS
 
-JACK ROOTS is a Techno and Psytrance artist with 1 upcoming club date listed on soundcheck as of Tue, 28 Jul 2026, next at TBA - Marrickville Location TBA per E-Mail to ticket holders, Sydney on Sat, 8 Aug 2026.
+JACK ROOTS is a Techno and Psytrance artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at TBA - Marrickville Location TBA per E-Mail to ticket holders, Sydney on Sat, 8 Aug 2026.
 
 JACK ROOTS is a techno and psytrance artist based in Australia, tracked on soundcheck, with 17 sets logged across Sydney. Often billed alongside Bryan Ro, Kurly and Michael Scheppert. Next up: TBA - Marrickville Location TBA per E-Mail to ticket holders, Sydney on Sat 8 Aug.
 
@@ -25,4 +25,4 @@ JACK ROOTS is a techno and psytrance artist based in Australia, tracked on sound
 
 Bryan Ro, Kurly, Michael Scheppert
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/jackroots/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/jackroots/)*

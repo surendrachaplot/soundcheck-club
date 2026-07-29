@@ -1,6 +1,6 @@
 # enereph
 
-enereph is a Techno and Experimental artist with 2 upcoming club dates listed on soundcheck as of Tue, 28 Jul 2026, next at TBA - Ming Lounge, Portland on Sat, 1 Aug 2026.
+enereph is a Techno and Experimental artist with 2 upcoming club dates listed on soundcheck as of Wed, 29 Jul 2026, next at TBA - Ming Lounge, Portland on Sat, 1 Aug 2026.
 
 enereph is a techno and experimental artist based in United States of America, tracked on soundcheck, with 18 sets logged across Portland, Seattle, Toronto and Vancouver. Often billed alongside IHA (CA), Succubass and ephemeral objects. Next up: TBA - Ming Lounge, Portland on Sat 1 Aug.
 
@@ -26,4 +26,4 @@ enereph is a techno and experimental artist based in United States of America, t
 
 IHA (CA), Succubass, ephemeral objects
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/enereph/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/enereph/)*

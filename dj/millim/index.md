@@ -1,6 +1,6 @@
 # Millim
 
-Millim is a House and Minimal artist with 1 upcoming club date listed on soundcheck as of Tue, 28 Jul 2026, next at Atdge Seoul, Seoul on Sat, 1 Aug 2026.
+Millim is a House and Minimal artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at Atdge Seoul, Seoul on Sat, 1 Aug 2026.
 
 Millim is a house and minimal artist based in South Korea, tracked on soundcheck, with 25 sets logged across Seoul. Often billed alongside KYVU, FOI (SK) and Gio (KR). Next up: Atdge Seoul, Seoul on Sat 1 Aug.
 
@@ -25,4 +25,4 @@ Millim is a house and minimal artist based in South Korea, tracked on soundcheck
 
 KYVU, FOI (SK), Gio (KR)
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/millim/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/millim/)*

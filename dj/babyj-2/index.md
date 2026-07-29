@@ -1,6 +1,6 @@
 # Baby J (2)
 
-Baby J (2) is a Baile Funk and Bass artist with 2 upcoming club dates listed on soundcheck as of Tue, 28 Jul 2026, next at Circus Osaka, Osaka on Fri, 21 Aug 2026.
+Baby J (2) is a Baile Funk and Bass artist with 2 upcoming club dates listed on soundcheck as of Wed, 29 Jul 2026, next at Circus Osaka, Osaka on Fri, 21 Aug 2026.
 
 Baby J (2) is a baile funk and bass artist based in Australia, tracked on soundcheck, with 15 sets logged across Birmingham, Bristol, Hongkong and Jakarta and 6 more. Often billed alongside Tye Turner, LARISHKA (UK) and IN PARALLEL. Next up: Circus Osaka, Osaka on Fri 21 Aug.
 
@@ -26,4 +26,4 @@ Baby J (2) is a baile funk and bass artist based in Australia, tracked on soundc
 
 Tye Turner, LARISHKA (UK), IN PARALLEL
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/babyj-2/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/babyj-2/)*

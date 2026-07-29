@@ -1,6 +1,6 @@
 # Peven Everett
 
-Peven Everett is a House and Garage artist with 1 upcoming club date listed on soundcheck as of Tue, 28 Jul 2026, next at TBA - Secret Location, Berkeley, San Francisco/Oakland on Sat, 8 Aug 2026.
+Peven Everett is a House and Garage artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at TBA - Secret Location, Berkeley, San Francisco/Oakland on Sat, 8 Aug 2026.
 
 Peven Everett is a house and garage artist based in United States of America, tracked on soundcheck, with 11 sets logged across Chicago, Lisbon, London and Losangeles and 3 more. Often billed alongside Ameer Brooks, Coflo and Conrad Lee. Next up: TBA - Secret Location, Berkeley, Sanfrancisco on Sat 8 Aug.
 
@@ -25,4 +25,4 @@ Peven Everett is a house and garage artist based in United States of America, tr
 
 Ameer Brooks, Coflo, Conrad Lee
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/peveneverett/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/peveneverett/)*

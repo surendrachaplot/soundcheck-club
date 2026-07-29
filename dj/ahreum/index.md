@@ -1,6 +1,6 @@
 # AHREUM
 
-AHREUM is a Techno and Progressive House artist with 1 upcoming club date listed on soundcheck as of Tue, 28 Jul 2026, next at WOMB, Tokyo on Fri, 7 Aug 2026.
+AHREUM is a Techno and Progressive House artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at WOMB, Tokyo on Fri, 7 Aug 2026.
 
 AHREUM is a techno and progressive house artist tracked on soundcheck, with 56 sets logged across Tokyo. Often billed alongside U:ICHI, Shogo Ito and Drunken Kong. Next up: WOMB, Tokyo on Fri 7 Aug.
 
@@ -25,4 +25,4 @@ AHREUM is a techno and progressive house artist tracked on soundcheck, with 56 s
 
 U:ICHI, Shogo Ito, Drunken Kong
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/ahreum/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/ahreum/)*

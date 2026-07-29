@@ -1,6 +1,6 @@
 # ROLO (NYC)
 
-ROLO (NYC) is a Minimal and Deep House artist with 1 upcoming club date listed on soundcheck as of Tue, 28 Jul 2026, next at The Local NY, New York City on Sat, 1 Aug 2026.
+ROLO (NYC) is a Minimal and Deep House artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at The Local NY, New York City on Sat, 1 Aug 2026.
 
 ROLO (NYC) is a minimal and deep house artist based in United States of America, tracked on soundcheck, with 13 sets logged across Newyorkcity and Washingtondc. Often billed alongside Alex Raouf, Amba and Rupert Wall. Next up: The Local NY, Newyorkcity on Sat 1 Aug.
 
@@ -25,4 +25,4 @@ ROLO (NYC) is a minimal and deep house artist based in United States of America,
 
 Alex Raouf, Amba, Rupert Wall
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/rolo-nyc/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/rolo-nyc/)*

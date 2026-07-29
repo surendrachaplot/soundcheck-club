@@ -1,6 +1,6 @@
 # Surgeons Girl
 
-Surgeons Girl is a Experimental and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 28 Jul 2026, next at HÖR Berlin, Berlin on Thu, 6 Aug 2026.
+Surgeons Girl is a Experimental and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at HÖR Berlin, Berlin on Thu, 6 Aug 2026.
 
 Surgeons Girl is an experimental and techno artist based in United Kingdom, tracked on soundcheck, with 24 sets logged across Amsterdam, Barcelona, Berlin and Birmingham and 5 more. Often billed alongside Rrose, A Sagittariun and Aba Shanti-I. Next up: HÖR Berlin, Berlin on Thu 6 Aug.
 
@@ -25,4 +25,4 @@ Surgeons Girl is an experimental and techno artist based in United Kingdom, trac
 
 Rrose, A Sagittariun, Aba Shanti-I
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/surgeonsgirl/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/surgeonsgirl/)*

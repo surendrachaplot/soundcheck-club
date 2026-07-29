@@ -1,6 +1,6 @@
 # West Harlem
 
-West Harlem is a music venue in Kyoto with 9 upcoming nights listed on soundcheck as of Tue, 28 Jul 2026; the next is "Citta" on Wed, 29 Jul 2026.
+West Harlem is a music venue in Kyoto with 9 upcoming nights listed on soundcheck as of Wed, 29 Jul 2026; the next is "Citta" on Wed, 29 Jul 2026.
 
 West Harlem is a music venue in Kyoto listed on soundcheck. 9 upcoming nights, with line-ups including ast midori, BIG MATSUMURA, Chanaz and 春麗 Chun Li and 2 more. Browse upcoming dates, start times and who's playing. Wisteria Coat 2F, 123-1 Ishiyacho, Nakagyo-ku, Kyoto-shi, Kyoto, Japan 6048002.
 
@@ -22,4 +22,4 @@ West Harlem is a music venue in Kyoto listed on soundcheck. 9 upcoming nights, w
 
 Wisteria Coat 2F, 123-1 Ishiyacho, Nakagyo-ku, Kyoto-shi, Kyoto, Japan 6048002, Kyoto
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/kyoto/club/west-harlem/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/kyoto/club/west-harlem/)*

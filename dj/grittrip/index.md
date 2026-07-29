@@ -1,6 +1,6 @@
 # Grittrip
 
-Grittrip is a Deep House and Tech House artist with 1 upcoming club date listed on soundcheck as of Tue, 28 Jul 2026, next at Gallery, London on Thu, 30 Jul 2026.
+Grittrip is a Deep House and Tech House artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at Gallery, London on Thu, 30 Jul 2026.
 
 Grittrip is a deep house and tech house artist based in Italy, tracked on soundcheck, with 49 sets logged across Barcelona, Ibiza, London and Madrid and 1 more. Often billed alongside Andrea Giudice, Piticu and Larry Cadge. Next up: Gallery, London on Thu 30 Jul.
 
@@ -25,4 +25,4 @@ Grittrip is a deep house and tech house artist based in Italy, tracked on soundc
 
 Andrea Giudice, Piticu, Larry Cadge
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/grittrip/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/grittrip/)*

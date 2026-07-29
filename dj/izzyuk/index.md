@@ -1,6 +1,6 @@
 # IZZY (UK)
 
-IZZY (UK) is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 28 Jul 2026, next at NUMBER 90 LONDON, London on Fri, 11 Sept 2026.
+IZZY (UK) is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at NUMBER 90 LONDON, London on Fri, 11 Sept 2026.
 
 IZZY (UK) is a house and techno artist based in United Kingdom, tracked on soundcheck, with 43 sets logged across Amsterdam, London and Thehague. Often billed alongside Lola So, Armând and ASHOJU. Next up: NUMBER 90 LONDON, London on Fri 11 Sept.
 
@@ -25,4 +25,4 @@ IZZY (UK) is a house and techno artist based in United Kingdom, tracked on sound
 
 Lola So, Armând, ASHOJU
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/izzyuk/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/izzyuk/)*

@@ -1,6 +1,6 @@
 # Bonnie Spacey
 
-Bonnie Spacey is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 28 Jul 2026, next at Signal, New York City on Sat, 1 Aug 2026.
+Bonnie Spacey is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at Signal, New York City on Sat, 1 Aug 2026.
 
 Bonnie Spacey is a house and techno artist tracked on soundcheck, with 55 sets logged across Berlin, Brussels, Frankfurt and Leipzig and 7 more. Often billed alongside Franz Matthews, gizA djs and Barbur. Next up: Signal, Newyorkcity on Sat 1 Aug.
 
@@ -25,4 +25,4 @@ Bonnie Spacey is a house and techno artist tracked on soundcheck, with 55 sets l
 
 Franz Matthews, gizA djs, Barbur
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/bonniespacey/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/bonniespacey/)*

@@ -1,6 +1,6 @@
 # Oh See
 
-Oh See is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 28 Jul 2026, next at Village Underground, London on Fri, 31 Jul 2026.
+Oh See is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at Village Underground, London on Fri, 31 Jul 2026.
 
 Oh See is a house and techno artist tracked on soundcheck, with 38 sets logged across Brighton, Cardiff and London. Often billed alongside Minister Ballantine, Tiffany Quinn and Myriad.. Next up: Village Underground, London on Fri 31 Jul.
 
@@ -25,4 +25,4 @@ Oh See is a house and techno artist tracked on soundcheck, with 38 sets logged a
 
 Minister Ballantine, Tiffany Quinn, Myriad.
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/ohsee/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/ohsee/)*

@@ -1,6 +1,6 @@
 # Fergus Sweetland
 
-Fergus Sweetland is a Techno and Electro artist with 1 upcoming club date listed on soundcheck as of Tue, 28 Jul 2026, next at Else, Berlin on Sat, 1 Aug 2026.
+Fergus Sweetland is a Techno and Electro artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at Else, Berlin on Sat, 1 Aug 2026.
 
 Fergus Sweetland is a techno and electro artist tracked on soundcheck, with 32 sets logged across Athens, Belgrade, Berlin and Brisbane and 8 more. Often billed alongside .Paragon, Bailey Ibbs and Chiara Kickdrum. Next up: Else, Berlin on Sat 1 Aug.
 
@@ -25,4 +25,4 @@ Fergus Sweetland is a techno and electro artist tracked on soundcheck, with 32 s
 
 .Paragon, Bailey Ibbs, Chiara Kickdrum
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/fergussweetland/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/fergussweetland/)*

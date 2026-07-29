@@ -1,6 +1,6 @@
 # Wigs
 
-Wigs is a Progressive House and Trance artist with 1 upcoming club date listed on soundcheck as of Tue, 28 Jul 2026, next at Honey Street Studio, Manchester on Fri, 31 Jul 2026.
+Wigs is a Progressive House and Trance artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at Honey Street Studio, Manchester on Fri, 31 Jul 2026.
 
 Wigs is a progressive house and trance artist based in United Kingdom, tracked on soundcheck, with 15 sets logged across Hamburg, London and Manchester. Often billed alongside Body Clinic, Aiden Francis and DJ AV. Next up: Honey Street Studio, Manchester on Fri 31 Jul.
 
@@ -25,4 +25,4 @@ Wigs is a progressive house and trance artist based in United Kingdom, tracked o
 
 Body Clinic, Aiden Francis, DJ AV
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/wigs-uk/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/wigs-uk/)*

@@ -1,6 +1,6 @@
 # Young Draco
 
-Young Draco is a Techno and Breakbeat artist with 1 upcoming club date listed on soundcheck as of Tue, 28 Jul 2026, next at RSO.BERLIN, Berlin on Thu, 13 Aug 2026.
+Young Draco is a Techno and Breakbeat artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at RSO.BERLIN, Berlin on Thu, 13 Aug 2026.
 
 Young Draco is a techno and breakbeat artist based in Germany, tracked on soundcheck, with 5 sets logged across Berlin and Cologne. Often billed alongside Byetone, ENNIO and Ellen Allien. Next up: RSO.BERLIN, Berlin on Thu 13 Aug.
 
@@ -21,4 +21,4 @@ Young Draco is a techno and breakbeat artist based in Germany, tracked on soundc
 
 Byetone, ENNIO, Ellen Allien
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/youngdraco/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/youngdraco/)*

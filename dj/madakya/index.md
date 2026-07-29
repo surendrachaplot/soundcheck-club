@@ -1,6 +1,6 @@
 # MADAKYA
 
-MADAKYA is a Experimental and Ambient artist with 1 upcoming club date listed on soundcheck as of Tue, 28 Jul 2026, next at TBA - Tendermesh, Tetlestrasse 11-16, Berlin on Tue, 4 Aug 2026.
+MADAKYA is a Experimental and Ambient artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at TBA - Tendermesh, Tetlestrasse 11-16, Berlin on Tue, 4 Aug 2026.
 
 MADAKYA is an experimental and ambient artist based in Germany, tracked on soundcheck, with 4 sets logged across Berlin. Often billed alongside DJ Trade Trainer, Alada and Asphodèle. Next up: TBA - Tendermesh, Tetlestrasse 11-16, Berlin on Tue 4 Aug.
 
@@ -20,4 +20,4 @@ MADAKYA is an experimental and ambient artist based in Germany, tracked on sound
 
 DJ Trade Trainer, Alada, Asphodèle
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/madakya/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/madakya/)*

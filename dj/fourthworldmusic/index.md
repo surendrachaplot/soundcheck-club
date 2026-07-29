@@ -1,6 +1,6 @@
 # Fourth World Music
 
-Fourth World Music is a Latin Bass and Hard Drum artist with 2 upcoming club dates listed on soundcheck as of Tue, 28 Jul 2026, next at BarKa, Warsaw on Wed, 29 Jul 2026.
+Fourth World Music is a Latin Bass and Hard Drum artist with 2 upcoming club dates listed on soundcheck as of Wed, 29 Jul 2026, next at BarKa, Warsaw on Wed, 29 Jul 2026.
 
 Fourth World Music is a latin bass and hard drum artist based in Poland, tracked on soundcheck, with 30 sets logged across Krakow and Warsaw. Often billed alongside KarateKnur, eylau and Cosaco. Next up: BarKa, Warsaw on Wed 29 Jul.
 
@@ -26,4 +26,4 @@ Fourth World Music is a latin bass and hard drum artist based in Poland, tracked
 
 KarateKnur, eylau, Cosaco
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/fourthworldmusic/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/fourthworldmusic/)*

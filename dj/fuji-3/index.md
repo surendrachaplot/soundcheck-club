@@ -1,6 +1,6 @@
 # FUJI (3)
 
-FUJI (3) is a Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 28 Jul 2026, next at VENT, Tokyo on Mon, 10 Aug 2026.
+FUJI (3) is a Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at VENT, Tokyo on Mon, 10 Aug 2026.
 
 FUJI (3) is a techno artist based in United States of America, tracked on soundcheck, with 2 sets logged across London and Tokyo. Often billed alongside DJ Sodeyama, Kent Oria and Kosei Okumura. Next up: VENT, Tokyo on Mon 10 Aug.
 
@@ -18,4 +18,4 @@ FUJI (3) is a techno artist based in United States of America, tracked on soundc
 
 DJ Sodeyama, Kent Oria, Kosei Okumura
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/fuji-3/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/fuji-3/)*

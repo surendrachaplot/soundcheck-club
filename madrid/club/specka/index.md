@@ -1,6 +1,6 @@
 # Specka
 
-Specka is a music venue in Madrid with 7 upcoming nights listed on soundcheck as of Tue, 28 Jul 2026; the next is "Destruktion #07 - Industrial Attack #02 I Specka Club" on Fri, 31 Jul 2026.
+Specka is a music venue in Madrid with 7 upcoming nights listed on soundcheck as of Wed, 29 Jul 2026; the next is "Destruktion #07 - Industrial Attack #02 I Specka Club" on Fri, 31 Jul 2026.
 
 Specka is a music venue in Madrid listed on soundcheck. 7 upcoming nights, with line-ups including Anthony Rother, Brody (2), David Ponziano and Erik Luebs and 2 more. Browse upcoming dates, start times and who's playing. Calle Orense, 26 bajos Madrid 28020.
 
@@ -20,4 +20,4 @@ Specka is a music venue in Madrid listed on soundcheck. 7 upcoming nights, with 
 
 Calle Orense, 26 bajos Madrid 28020, Madrid
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/madrid/club/specka/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/madrid/club/specka/)*

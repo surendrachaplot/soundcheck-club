@@ -1,6 +1,6 @@
 # Kohra
 
-Kohra is a Techno and Electronica artist with 2 upcoming club dates listed on soundcheck as of Tue, 28 Jul 2026, next at La Station - Gare des Mines, Paris on Sat, 1 Aug 2026.
+Kohra is a Techno and Electronica artist with 2 upcoming club dates listed on soundcheck as of Wed, 29 Jul 2026, next at La Station - Gare des Mines, Paris on Sat, 1 Aug 2026.
 
 Kohra is a techno and electronica artist tracked on soundcheck, with 17 sets logged across Bangkok, Berlin, Bristol and Hongkong and 7 more. Often billed alongside Inner Zone, James Selva and Monophonik. Next up: La Station - Gare des Mines, Paris on Sat 1 Aug.
 
@@ -26,4 +26,4 @@ Kohra is a techno and electronica artist tracked on soundcheck, with 17 sets log
 
 Inner Zone, James Selva, Monophonik
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/kohra/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/kohra/)*

@@ -1,6 +1,6 @@
 # phasebound
 
-phasebound is a Jungle and Drum & Bass artist with 1 upcoming club date listed on soundcheck as of Tue, 28 Jul 2026, next at Void Club, Berlin on Sat, 8 Aug 2026.
+phasebound is a Jungle and Drum & Bass artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at Void Club, Berlin on Sat, 8 Aug 2026.
 
 phasebound is a jungle and drum & bass artist based in Austria, tracked on soundcheck, with 11 sets logged across Berlin and Munich. Often billed alongside Hovercat, IHOPEIEXIST and Aynaet. Next up: Void Club, Berlin on Sat 8 Aug.
 
@@ -25,4 +25,4 @@ phasebound is a jungle and drum & bass artist based in Austria, tracked on sound
 
 Hovercat, IHOPEIEXIST, Aynaet
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/phasebound/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/phasebound/)*

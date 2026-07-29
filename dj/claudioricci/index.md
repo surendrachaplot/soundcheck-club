@@ -1,6 +1,6 @@
 # Claudio Ricci
 
-Claudio Ricci is a electronic artist with 2 upcoming club dates listed on soundcheck as of Tue, 28 Jul 2026, next at Akasha Las Dalias Club - Ibiza, Ibiza on Sat, 1 Aug 2026.
+Claudio Ricci is a electronic artist with 2 upcoming club dates listed on soundcheck as of Wed, 29 Jul 2026, next at Akasha Las Dalias Club - Ibiza, Ibiza on Sat, 1 Aug 2026.
 
 Claudio Ricci is an electronic artist tracked on soundcheck, with 13 sets logged across Barcelona, Berlin, Ibiza and Munich and 1 more. Often billed alongside AN5 (SP), Ander Race and Andrea Castells. Next up: Akasha Las Dalias Club - Ibiza, Ibiza on Sat 1 Aug.
 
@@ -26,4 +26,4 @@ Claudio Ricci is an electronic artist tracked on soundcheck, with 13 sets logged
 
 AN5 (SP), Ander Race, Andrea Castells
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/claudioricci/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/claudioricci/)*

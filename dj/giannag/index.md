@@ -1,6 +1,6 @@
 # Gianna G
 
-Gianna G is a House and Electro artist with 1 upcoming club date listed on soundcheck as of Tue, 28 Jul 2026, next at Good Room, New York City on Sat, 1 Aug 2026.
+Gianna G is a House and Electro artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at Good Room, New York City on Sat, 1 Aug 2026.
 
 Gianna G is a house and electro artist based in United States of America, tracked on soundcheck, with 6 sets logged across Newyorkcity. Often billed alongside Fabiola, Arjun Shah and Baltra. Next up: Good Room, Newyorkcity on Sat 1 Aug.
 
@@ -22,4 +22,4 @@ Gianna G is a house and electro artist based in United States of America, tracke
 
 Fabiola, Arjun Shah, Baltra
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/giannag/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/giannag/)*

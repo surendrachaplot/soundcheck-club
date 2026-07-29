@@ -1,6 +1,6 @@
 # Mr. Funghi
 
-Mr. Funghi is a Italo Disco and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 28 Jul 2026, next at Bike Jesus, Prague on Fri, 31 Jul 2026.
+Mr. Funghi is a Italo Disco and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at Bike Jesus, Prague on Fri, 31 Jul 2026.
 
 Mr. Funghi is an italo disco and techno artist based in Germany, tracked on soundcheck, with 40 sets logged across Barcelona, Berlin, Lisbon and Paris and 1 more. Often billed alongside Lorenza Laserstein, Desolate Discotheque and Xpresso Martina. Next up: Bike Jesus, Prague on Fri 31 Jul.
 
@@ -25,4 +25,4 @@ Mr. Funghi is an italo disco and techno artist based in Germany, tracked on soun
 
 Lorenza Laserstein, Desolate Discotheque, Xpresso Martina
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/mr.funghi/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/mr.funghi/)*

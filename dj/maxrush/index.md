@@ -1,6 +1,6 @@
 # Max Rush
 
-Max Rush is a House and Minimal artist with 1 upcoming club date listed on soundcheck as of Tue, 28 Jul 2026, next at TBA - Location Link in Bio on Instagram @recollectunderground, Los Angeles on Thu, 30 Jul 2026.
+Max Rush is a House and Minimal artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at TBA - Location Link in Bio on Instagram @recollectunderground, Los Angeles on Thu, 30 Jul 2026.
 
 Max Rush is a house and minimal artist based in United States of America, tracked on soundcheck, with 76 sets logged across Losangeles, Sandiego and Tokyo. Often billed alongside Lavenge, BLANC MAMBA and Aplex. Next up: TBA - Location Link in Bio on Instagram @recollectunderground, Losangeles on Thu 30 Jul.
 
@@ -25,4 +25,4 @@ Max Rush is a house and minimal artist based in United States of America, tracke
 
 Lavenge, BLANC MAMBA, Aplex
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/maxrush/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/maxrush/)*

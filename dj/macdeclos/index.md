@@ -1,6 +1,6 @@
 # Mac Declos
 
-Mac Declos is a Techno and House artist with 8 upcoming club dates listed on soundcheck as of Tue, 28 Jul 2026, next at EXIL, Zurich on Fri, 31 Jul 2026.
+Mac Declos is a Techno and House artist with 8 upcoming club dates listed on soundcheck as of Wed, 29 Jul 2026, next at EXIL, Zurich on Fri, 31 Jul 2026.
 
 Mac Declos is a techno and house artist tracked on soundcheck, with 178 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 48 more. Often billed alongside Anetha, Lacchesi and Pablo Bozzi. Next up: EXIL, Zurich on Fri 31 Jul.
 
@@ -32,4 +32,4 @@ Mac Declos is a techno and house artist tracked on soundcheck, with 178 sets log
 
 Anetha, Lacchesi, Pablo Bozzi
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/macdeclos/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/macdeclos/)*

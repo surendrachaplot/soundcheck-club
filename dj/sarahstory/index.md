@@ -1,6 +1,6 @@
 # Sarah Story
 
-Sarah Story is a House and Techno artist with 4 upcoming club dates listed on soundcheck as of Tue, 28 Jul 2026, next at 528 Ibiza, Ibiza on Fri, 31 Jul 2026.
+Sarah Story is a House and Techno artist with 4 upcoming club dates listed on soundcheck as of Wed, 29 Jul 2026, next at 528 Ibiza, Ibiza on Fri, 31 Jul 2026.
 
 Sarah Story is a house and techno artist based in United Kingdom, tracked on soundcheck, with 89 sets logged across Amsterdam, Barcelona, Belfast and Berlin and 25 more. Often billed alongside Eats Everything, Arielle Free and Danny Howard. Next up: 528 Ibiza, Ibiza on Fri 31 Jul.
 
@@ -28,4 +28,4 @@ Sarah Story is a house and techno artist based in United Kingdom, tracked on sou
 
 Eats Everything, Arielle Free, Danny Howard
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/sarahstory/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/sarahstory/)*

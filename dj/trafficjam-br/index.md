@@ -1,6 +1,6 @@
 # Traffic Jam
 
-Traffic Jam is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Tue, 28 Jul 2026, next at Café am Neuen See, Berlin on Sat, 1 Aug 2026.
+Traffic Jam is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at Café am Neuen See, Berlin on Sat, 1 Aug 2026.
 
 Traffic Jam is a techno and house artist based in Brazil, tracked on soundcheck, with 5 sets logged across Berlin, Seoul and Tokyo. Often billed alongside Shelly, Taichi Kawahira and Kojiro. Next up: Café am Neuen See, Berlin on Sat 1 Aug.
 
@@ -21,4 +21,4 @@ Traffic Jam is a techno and house artist based in Brazil, tracked on soundcheck,
 
 Shelly, Taichi Kawahira, Kojiro
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/trafficjam-br/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/trafficjam-br/)*

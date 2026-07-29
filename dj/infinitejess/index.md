@@ -1,6 +1,6 @@
 # Infinite Jess
 
-Infinite Jess is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 28 Jul 2026, next at Underground SF, San Francisco/Oakland on Sat, 1 Aug 2026.
+Infinite Jess is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at Underground SF, San Francisco/Oakland on Sat, 1 Aug 2026.
 
 Infinite Jess is a house and techno artist based in United States of America, tracked on soundcheck, with 40 sets logged across Losangeles, Newyorkcity and Sanfrancisco. Often billed alongside Carlos Souffront, Eichef and Galen. Next up: Underground SF, Sanfrancisco on Sat 1 Aug.
 
@@ -25,4 +25,4 @@ Infinite Jess is a house and techno artist based in United States of America, tr
 
 Carlos Souffront, Eichef, Galen
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/infinitejess/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/infinitejess/)*

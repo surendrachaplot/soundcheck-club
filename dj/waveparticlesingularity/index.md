@@ -1,6 +1,6 @@
 # Wave Particle Singularity
 
-Wave Particle Singularity is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Tue, 28 Jul 2026, next at Club der Visionaere, Berlin on Fri, 7 Aug 2026.
+Wave Particle Singularity is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at Club der Visionaere, Berlin on Fri, 7 Aug 2026.
 
 Wave Particle Singularity is a house and deep house artist based in Algeria, tracked on soundcheck, with 10 sets logged across Berlin and Leipzig. Often billed alongside SID MEHANI, Julie Marghilano and Ady Toledano. Next up: Club der Visionaere, Berlin on Fri 7 Aug.
 
@@ -25,4 +25,4 @@ Wave Particle Singularity is a house and deep house artist based in Algeria, tra
 
 SID MEHANI, Julie Marghilano, Ady Toledano
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/waveparticlesingularity/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/waveparticlesingularity/)*

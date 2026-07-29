@@ -1,14 +1,13 @@
 # Yanamaste
 
-Yanamaste is a Techno and House artist with 17 upcoming club dates listed on soundcheck as of Tue, 28 Jul 2026, next at Amnesia Ibiza, Ibiza on Tue, 28 Jul 2026.
+Yanamaste is a Techno and House artist with 17 upcoming club dates listed on soundcheck as of Wed, 29 Jul 2026, next at TBA - Hollywood Park adjacent to SoFi Stadium, Los Angeles on Sat, 1 Aug 2026.
 
-Yanamaste is a techno and house artist tracked on soundcheck, with 211 sets logged across Amsterdam, Athens, Barcelona and Basel and 57 more. Often billed alongside Alarico, Chlär and Grace Dahl. Next up: Amnesia Ibiza, Ibiza on Tue 28 Jul.
+Yanamaste is a techno and house artist tracked on soundcheck, with 212 sets logged across Amsterdam, Athens, Barcelona and Basel and 57 more. Often billed alongside Alarico, Chlär and Grace Dahl. Next up: TBA - Hollywood Park adjacent to SoFi Stadium, Losangeles on Sat 1 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Tue, 28 Jul 2026 | Amnesia Ibiza | Ibiza |
 | Sat, 1 Aug 2026 | TBA - Hollywood Park adjacent to SoFi Stadium | Los Angeles |
 | Sun, 9 Aug 2026 | Amnesia Ibiza | Ibiza |
 | Thu, 13 Aug 2026 | RSO.BERLIN | Berlin |
@@ -20,9 +19,11 @@ Yanamaste is a techno and house artist tracked on soundcheck, with 211 sets logg
 | Sat, 12 Sept 2026 | Else | Berlin |
 | Tue, 15 Sept 2026 | Amnesia Ibiza | Ibiza |
 | Fri, 18 Sept 2026 | IFEMA | Madrid |
+| Fri, 18 Sept 2026 | IFEMA | Madrid |
 
 ## Recently played
 
+- Amnesia Ibiza, Ibiza — Tue, 28 Jul 2026
 - Rebstockpark, Frankfurt — Sat, 25 Jul 2026
 - Amnesia Ibiza, Ibiza — Tue, 21 Jul 2026
 - Radius, Chicago — Sun, 19 Jul 2026
@@ -30,10 +31,9 @@ Yanamaste is a techno and house artist tracked on soundcheck, with 211 sets logg
 - Amnesia Ibiza, Ibiza — Tue, 14 Jul 2026
 - Fabrik, Madrid — Sat, 11 Jul 2026
 - Amnesia Ibiza, Ibiza — Tue, 30 Jun 2026
-- KHIDI, Tbilisi — Fri, 26 Jun 2026
 
 ## Shares bills with
 
 Alarico, Chlär, Grace Dahl
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/yanamaste/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/yanamaste/)*

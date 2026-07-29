@@ -1,6 +1,6 @@
 # Moupe
 
-Moupe is a Techno and Acid artist with 1 upcoming club date listed on soundcheck as of Tue, 28 Jul 2026, next at Tigullio, Malta on Thu, 30 Jul 2026.
+Moupe is a Techno and Acid artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at Tigullio, Malta on Thu, 30 Jul 2026.
 
 Moupe is a techno and acid artist based in France, tracked on soundcheck, with 14 sets logged across Brussels, Istanbul, Lyon and Malta and 2 more. Often billed alongside YKAi, Susano and Dissonne. Next up: Tigullio, Malta on Thu 30 Jul.
 
@@ -25,4 +25,4 @@ Moupe is a techno and acid artist based in France, tracked on soundcheck, with 1
 
 YKAi, Susano, Dissonne
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/moupe/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/moupe/)*

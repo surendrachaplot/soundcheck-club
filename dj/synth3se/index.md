@@ -1,6 +1,6 @@
 # SYNTH3SE
 
-SYNTH3SE is a Gabber and Hardcore artist with 1 upcoming club date listed on soundcheck as of Tue, 28 Jul 2026, next at Lehmann Club, Stuttgart on Fri, 14 Aug 2026.
+SYNTH3SE is a Gabber and Hardcore artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at Lehmann Club, Stuttgart on Fri, 14 Aug 2026.
 
 SYNTH3SE is a gabber and hardcore artist based in Germany, tracked on soundcheck, with 1 set logged across Stuttgart. Often billed alongside Edgerunner, IceLipzz and LØUS. Next up: Lehmann Club, Stuttgart on Fri 14 Aug.
 
@@ -14,4 +14,4 @@ SYNTH3SE is a gabber and hardcore artist based in Germany, tracked on soundcheck
 
 Edgerunner, IceLipzz, LØUS
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/synth3se/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/synth3se/)*

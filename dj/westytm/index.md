@@ -1,6 +1,6 @@
 # Westy™️
 
-Westy™️ is a Electronica and Tech House artist with 1 upcoming club date listed on soundcheck as of Tue, 28 Jul 2026, next at Cobalt Studios, Newcastle on Sun, 30 Aug 2026.
+Westy™️ is a Electronica and Tech House artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at Cobalt Studios, Newcastle on Sun, 30 Aug 2026.
 
 Westy™️ is an electronica and tech house artist based in United Kingdom, tracked on soundcheck, with 1 set logged across Newcastle. Often billed alongside PIP. and Weston. Next up: Cobalt Studios, Newcastle on Sun 30 Aug.
 
@@ -14,4 +14,4 @@ Westy™️ is an electronica and tech house artist based in United Kingdom, tra
 
 PIP., Weston
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/westytm/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/westytm/)*

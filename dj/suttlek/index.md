@@ -1,6 +1,6 @@
 # SuttleK
 
-SuttleK is a Techno and Hardcore artist with 3 upcoming club dates listed on soundcheck as of Tue, 28 Jul 2026, next at City Hall, Barcelona on Fri, 31 Jul 2026.
+SuttleK is a Techno and Hardcore artist with 3 upcoming club dates listed on soundcheck as of Wed, 29 Jul 2026, next at City Hall, Barcelona on Fri, 31 Jul 2026.
 
 SuttleK is a techno and hardcore artist tracked on soundcheck, with 46 sets logged across Barcelona. Often billed alongside Hysteria, Leo Cotrozo and Revenja. Next up: City Hall, Barcelona on Fri 31 Jul.
 
@@ -27,4 +27,4 @@ SuttleK is a techno and hardcore artist tracked on soundcheck, with 46 sets logg
 
 Hysteria, Leo Cotrozo, Revenja
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/suttlek/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/suttlek/)*

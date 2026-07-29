@@ -1,6 +1,6 @@
 # Keoki
 
-Keoki is a House and Electronica artist with 1 upcoming club date listed on soundcheck as of Tue, 28 Jul 2026, next at TBA - HUMV, Denver on Fri, 31 Jul 2026.
+Keoki is a House and Electronica artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at TBA - HUMV, Denver on Fri, 31 Jul 2026.
 
 Keoki is a house and electronica artist based in United States of America, tracked on soundcheck, with 16 sets logged across Chicago, Denver, Detroit and Houston and 6 more. Often billed alongside Alexander Technique, Brent Shay and Decibel Flekx. Next up: TBA - HUMV, Denver on Fri 31 Jul.
 
@@ -25,4 +25,4 @@ Keoki is a house and electronica artist based in United States of America, track
 
 Alexander Technique, Brent Shay, Decibel Flekx
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/keoki/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/keoki/)*

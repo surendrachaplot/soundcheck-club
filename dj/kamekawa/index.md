@@ -1,6 +1,6 @@
 # Kamekawa
 
-Kamekawa is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Tue, 28 Jul 2026, next at WOMB, Tokyo on Fri, 7 Aug 2026.
+Kamekawa is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Wed, 29 Jul 2026, next at WOMB, Tokyo on Fri, 7 Aug 2026.
 
 Kamekawa is a techno and house artist based in Japan, tracked on soundcheck, with 95 sets logged across Tokyo. Often billed alongside SIGNAL (JP), DJ NECO and AHREUM. Next up: WOMB, Tokyo on Fri 7 Aug.
 
@@ -27,4 +27,4 @@ Kamekawa is a techno and house artist based in Japan, tracked on soundcheck, wit
 
 SIGNAL (JP), DJ NECO, AHREUM
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/kamekawa/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/kamekawa/)*

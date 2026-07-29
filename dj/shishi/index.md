@@ -1,6 +1,6 @@
 # ShiShi
 
-ShiShi is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 28 Jul 2026, next at Process PDX, Portland on Sat, 1 Aug 2026.
+ShiShi is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at Process PDX, Portland on Sat, 1 Aug 2026.
 
 ShiShi is a house and techno artist based in United States of America, tracked on soundcheck, with 7 sets logged across London, Mexicocity, Newyorkcity and Portland. Often billed alongside Vik Toreus, C Powers and Cquestt. Next up: Process PDX, Portland on Sat 1 Aug.
 
@@ -23,4 +23,4 @@ ShiShi is a house and techno artist based in United States of America, tracked o
 
 Vik Toreus, C Powers, Cquestt
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/shishi/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/shishi/)*

@@ -1,6 +1,6 @@
 # Woody
 
-Woody is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 28 Jul 2026, next at BLITZ, Munich on Fri, 31 Jul 2026.
+Woody is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at BLITZ, Munich on Fri, 31 Jul 2026.
 
 Woody is a house and techno artist tracked on soundcheck, with 12 sets logged across Berlin, Budapest, Lisbon and Mexicocity and 3 more. Often billed alongside Yamour, Muallem and Polygonia. Next up: BLITZ, Munich on Fri 31 Jul.
 
@@ -25,4 +25,4 @@ Woody is a house and techno artist tracked on soundcheck, with 12 sets logged ac
 
 Yamour, Muallem, Polygonia
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/woody/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/woody/)*

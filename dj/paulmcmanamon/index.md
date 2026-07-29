@@ -1,6 +1,6 @@
 # Paul McManamon
 
-Paul McManamon is a Bass and Experimental artist with 1 upcoming club date listed on soundcheck as of Tue, 28 Jul 2026, next at M.O.T, London on Sat, 1 Aug 2026.
+Paul McManamon is a Bass and Experimental artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at M.O.T, London on Sat, 1 Aug 2026.
 
 Paul McManamon is a bass and experimental artist based in United Kingdom, tracked on soundcheck, with 5 sets logged across London. Often billed alongside Delay Grounds, Djuar and LO-LOW. Next up: M.O.T, London on Sat 1 Aug.
 
@@ -21,4 +21,4 @@ Paul McManamon is a bass and experimental artist based in United Kingdom, tracke
 
 Delay Grounds, Djuar, LO-LOW
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/paulmcmanamon/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/paulmcmanamon/)*

@@ -1,6 +1,6 @@
 # ACKERMAN
 
-ACKERMAN is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 28 Jul 2026, next at Circus Tokyo, Tokyo on Sat, 1 Aug 2026.
+ACKERMAN is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at Circus Tokyo, Tokyo on Sat, 1 Aug 2026.
 
 ACKERMAN is a house and techno artist based in Ireland, tracked on soundcheck, with 26 sets logged across Dublin and Tokyo. Often billed alongside Murchadh, ÓIR (1) and Aero (1). Next up: Circus Tokyo, Tokyo on Sat 1 Aug.
 
@@ -25,4 +25,4 @@ ACKERMAN is a house and techno artist based in Ireland, tracked on soundcheck, w
 
 Murchadh, ÓIR (1), Aero (1)
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/ackerman/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/ackerman/)*

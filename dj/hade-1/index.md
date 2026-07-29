@@ -1,6 +1,6 @@
 # HADE (1)
 
-HADE (1) is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Tue, 28 Jul 2026, next at fi, Cologne on Sat, 8 Aug 2026.
+HADE (1) is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at fi, Cologne on Sat, 8 Aug 2026.
 
 HADE (1) is a techno and house artist based in Germany, tracked on soundcheck, with 12 sets logged across Cologne, Leipzig and Munich. Often billed alongside Nikity, Aino DJ and AMSL. Next up: fi, Cologne on Sat 8 Aug.
 
@@ -25,4 +25,4 @@ HADE (1) is a techno and house artist based in Germany, tracked on soundcheck, w
 
 Nikity, Aino DJ, AMSL
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/hade-1/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/hade-1/)*

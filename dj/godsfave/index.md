@@ -1,6 +1,6 @@
 # Godsfave
 
-Godsfave is a Bass and Afro Tech artist with 1 upcoming club date listed on soundcheck as of Tue, 28 Jul 2026, next at OHM, Berlin on Fri, 31 Jul 2026.
+Godsfave is a Bass and Afro Tech artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at OHM, Berlin on Fri, 31 Jul 2026.
 
 Godsfave is a bass and afro tech artist tracked on soundcheck, with 9 sets logged across Berlin and London. Often billed alongside GUREY, Kontronatura and Rafush. Next up: OHM, Berlin on Fri 31 Jul.
 
@@ -25,4 +25,4 @@ Godsfave is a bass and afro tech artist tracked on soundcheck, with 9 sets logge
 
 GUREY, Kontronatura, Rafush
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/godsfave/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/godsfave/)*

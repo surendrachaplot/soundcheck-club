@@ -1,6 +1,6 @@
 # La Terrrazza
 
-La Terrrazza is a music venue in Barcelona with 30 upcoming nights listed on soundcheck as of Tue, 28 Jul 2026; the next is "SUMMER HEROES meets OTHERSIDE: Open Air with LondonGround" on Thu, 30 Jul 2026.
+La Terrrazza is a music venue in Barcelona with 30 upcoming nights listed on soundcheck as of Wed, 29 Jul 2026; the next is "SUMMER HEROES meets OTHERSIDE: Open Air with LondonGround" on Thu, 30 Jul 2026.
 
 La Terrrazza is a music venue in Barcelona listed on soundcheck. 30 upcoming nights, with line-ups including Acidnena, Alice Caroline, Belu Rodriguez and Bennet and 2 more. Browse upcoming dates, start times and who's playing. Avinguda Francesc Ferrer i Guardia, 13, 08038.
 
@@ -23,4 +23,4 @@ La Terrrazza is a music venue in Barcelona listed on soundcheck. 30 upcoming nig
 
 Avinguda Francesc Ferrer i Guardia, 13, 08038, Barcelona
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/la-terrrazza/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/la-terrrazza/)*

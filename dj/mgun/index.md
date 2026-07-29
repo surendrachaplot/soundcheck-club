@@ -1,6 +1,6 @@
 # MGUN
 
-MGUN is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Tue, 28 Jul 2026, next at Spkrbox, Detroit on Wed, 29 Jul 2026.
+MGUN is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at Spkrbox, Detroit on Wed, 29 Jul 2026.
 
 MGUN is a techno and house artist based in United States of America, tracked on soundcheck, with 86 sets logged across Detroit, Newyorkcity, Sanfrancisco and Washingtondc. Often billed alongside Ryan Spencer, Max Watts and Anthony Jasper. Next up: Spkrbox, Detroit on Wed 29 Jul.
 
@@ -25,4 +25,4 @@ MGUN is a techno and house artist based in United States of America, tracked on 
 
 Ryan Spencer, Max Watts, Anthony Jasper
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/mgun/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/mgun/)*

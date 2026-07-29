@@ -1,6 +1,6 @@
 # MAMI (AU)
 
-MAMI (AU) is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Tue, 28 Jul 2026, next at Birgit, Berlin on Fri, 31 Jul 2026.
+MAMI (AU) is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at Birgit, Berlin on Fri, 31 Jul 2026.
 
 MAMI (AU) is a techno and house artist based in Australia, tracked on soundcheck, with 22 sets logged across Amsterdam, Berlin, Melbourne and Tokyo. Often billed alongside Christian Kamitsis, DOBE and Jack Colletta. Next up: Birgit, Berlin on Fri 31 Jul.
 
@@ -25,4 +25,4 @@ MAMI (AU) is a techno and house artist based in Australia, tracked on soundcheck
 
 Christian Kamitsis, DOBE, Jack Colletta
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/mami-au/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/mami-au/)*

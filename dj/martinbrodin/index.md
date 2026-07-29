@@ -1,6 +1,6 @@
 # Martin Brodin
 
-Martin Brodin is a House and Electronica artist with 2 upcoming club dates listed on soundcheck as of Tue, 28 Jul 2026, next at Klunkerkranich, Berlin on Sat, 8 Aug 2026.
+Martin Brodin is a House and Electronica artist with 2 upcoming club dates listed on soundcheck as of Wed, 29 Jul 2026, next at Klunkerkranich, Berlin on Sat, 8 Aug 2026.
 
 Martin Brodin is a house and electronica artist based in Sweden, tracked on soundcheck, with 3 sets logged across Berlin. Often billed alongside Jesper Aubin, Kaldera and Raj Shindi. Next up: Klunkerkranich, Berlin on Sat 8 Aug.
 
@@ -19,4 +19,4 @@ Martin Brodin is a house and electronica artist based in Sweden, tracked on soun
 
 Jesper Aubin, Kaldera, Raj Shindi
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/martinbrodin/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/martinbrodin/)*

@@ -1,6 +1,6 @@
 # Cetratelli
 
-Cetratelli is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 28 Jul 2026, next at La Terrrazza, Barcelona on Thu, 30 Jul 2026.
+Cetratelli is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at La Terrrazza, Barcelona on Thu, 30 Jul 2026.
 
 Cetratelli is a house and techno artist based in Spain, tracked on soundcheck, with 21 sets logged across Barcelona and Geneva. Often billed alongside Babo, Brenda Cast and Frucula. Next up: La Terrrazza, Barcelona on Thu 30 Jul.
 
@@ -25,4 +25,4 @@ Cetratelli is a house and techno artist based in Spain, tracked on soundcheck, w
 
 Babo, Brenda Cast, Frucula
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/cetratelli/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/cetratelli/)*

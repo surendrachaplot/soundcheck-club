@@ -1,6 +1,6 @@
 # ASHTATTZ
 
-ASHTATTZ is a Electronica and Tech House artist with 1 upcoming club date listed on soundcheck as of Tue, 28 Jul 2026, next at Paradiso, Amsterdam on Sat, 8 Aug 2026.
+ASHTATTZ is a Electronica and Tech House artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at Paradiso, Amsterdam on Sat, 8 Aug 2026.
 
 ASHTATTZ is an electronica and tech house artist tracked on soundcheck, with 13 sets logged across Amsterdam, Barcelona, Berlin and Vienna. Often billed alongside Absoluut, Doppelgang and Protopapa. Next up: Paradiso, Amsterdam on Sat 8 Aug.
 
@@ -25,4 +25,4 @@ ASHTATTZ is an electronica and tech house artist tracked on soundcheck, with 13 
 
 Absoluut, Doppelgang, Protopapa
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/ashtattz/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/ashtattz/)*

@@ -1,6 +1,6 @@
 # LOFTUS
 
-LOFTUS is a House and Club artist with 1 upcoming club date listed on soundcheck as of Tue, 28 Jul 2026, next at C'mon Everybody, New York City on Sat, 1 Aug 2026.
+LOFTUS is a House and Club artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at C'mon Everybody, New York City on Sat, 1 Aug 2026.
 
 LOFTUS is a house and club artist based in United States of America, tracked on soundcheck, with 17 sets logged across Newyorkcity and Sanfrancisco. Often billed alongside Delilah At Night, Ryan Farr and Thee Aries. Next up: C'mon Everybody, Newyorkcity on Sat 1 Aug.
 
@@ -25,4 +25,4 @@ LOFTUS is a house and club artist based in United States of America, tracked on 
 
 Delilah At Night, Ryan Farr, Thee Aries
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/loftus/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/loftus/)*

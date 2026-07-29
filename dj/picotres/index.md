@@ -1,6 +1,6 @@
 # Picotres
 
-Picotres is a Techno and Acid artist with 1 upcoming club date listed on soundcheck as of Tue, 28 Jul 2026, next at TBA - Velvet Rose , Madrid on Sat, 8 Aug 2026.
+Picotres is a Techno and Acid artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at TBA - Velvet Rose , Madrid on Sat, 8 Aug 2026.
 
 Picotres is a techno and acid artist based in Spain, tracked on soundcheck, with 17 sets logged across Madrid. Often billed alongside Pulpix, JayVi and Nigabba. Next up: TBA - Velvet Rose , Madrid on Sat 8 Aug.
 
@@ -25,4 +25,4 @@ Picotres is a techno and acid artist based in Spain, tracked on soundcheck, with
 
 Pulpix, JayVi, Nigabba
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/picotres/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/picotres/)*

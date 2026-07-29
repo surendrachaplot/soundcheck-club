@@ -1,0 +1,18 @@
+# BUMPAH'S 2ND BDAY at Gaffe
+
+BUMPAH'S 2ND BDAY at Gaffe on Fri 31 Jul, London. 4 acts on the bill: CHEZA LUCINA, Fliss Mayo, Princess Xixi and THEMPRESS. Jungle and Ghetto Tech. Preview the line-up and save it on soundcheck.
+
+| Field | Value |
+| --- | --- |
+| Date | Fri, 31 Jul 2026 |
+| Venue | Gaffe |
+| City | London |
+
+## Line-up
+
+- CHEZA LUCINA
+- Fliss Mayo
+- Princess Xixi
+- THEMPRESS
+
+*Source: [soundcheck](https://soundcheck.club/e/2461995-bumpah-s-2nd-bday-at-gaffe/)*

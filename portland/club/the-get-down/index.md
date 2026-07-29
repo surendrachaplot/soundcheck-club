@@ -1,6 +1,6 @@
 # The Get Down
 
-The Get Down is a music venue in Portland with 8 upcoming nights listed on soundcheck as of Tue, 28 Jul 2026; the next is "Deadhead Disco: Jerry's Birthday Celebration" on Fri, 31 Jul 2026.
+The Get Down is a music venue in Portland with 8 upcoming nights listed on soundcheck as of Wed, 29 Jul 2026; the next is "Deadhead Disco: Jerry's Birthday Celebration" on Fri, 31 Jul 2026.
 
 The Get Down is a music venue in Portland listed on soundcheck. 8 upcoming nights. Browse upcoming dates, start times and who's playing. 615 SE Alder St Suite B, Portland, OR 97214, United States.
 
@@ -21,4 +21,4 @@ The Get Down is a music venue in Portland listed on soundcheck. 8 upcoming night
 
 615 SE Alder St Suite B, Portland, OR 97214, United States, Portland
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/portland/club/the-get-down/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/portland/club/the-get-down/)*

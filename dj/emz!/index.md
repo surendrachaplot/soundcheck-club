@@ -1,6 +1,6 @@
 # EMZ!
 
-EMZ! is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Tue, 28 Jul 2026, next at Honey's, New York City on Sat, 8 Aug 2026.
+EMZ! is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at Honey's, New York City on Sat, 8 Aug 2026.
 
 EMZ! is a techno and house artist based in United States of America, tracked on soundcheck, with 18 sets logged across London and Newyorkcity. Often billed alongside WILHELMINA, DJ Erewhon and KA WAI. Next up: Honey's, Newyorkcity on Sat 8 Aug.
 
@@ -25,4 +25,4 @@ EMZ! is a techno and house artist based in United States of America, tracked on 
 
 WILHELMINA, DJ Erewhon, KA WAI
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/emz!/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/emz!/)*

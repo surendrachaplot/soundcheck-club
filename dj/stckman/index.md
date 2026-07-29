@@ -1,6 +1,6 @@
 # Stckman
 
-Stckman is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 28 Jul 2026, next at TBA - Comporta, Lisbon on Sat, 1 Aug 2026.
+Stckman is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at TBA - Comporta, Lisbon on Sat, 1 Aug 2026.
 
 Stckman is a house and techno artist based in Portugal, tracked on soundcheck, with 46 sets logged across Barcelona, Berlin, Lisbon and London and 4 more. Often billed alongside Guigas, ozmin and Raphael Carrau. Next up: TBA - Comporta, Lisbon on Sat 1 Aug.
 
@@ -25,4 +25,4 @@ Stckman is a house and techno artist based in Portugal, tracked on soundcheck, w
 
 Guigas, ozmin, Raphael Carrau
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/stckman/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/stckman/)*

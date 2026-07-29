@@ -1,8 +1,8 @@
 # Koshari
 
-Koshari is a Club and Experimental artist with 1 upcoming club date listed on soundcheck as of Tue, 28 Jul 2026, next at Panke, Berlin on Fri, 31 Jul 2026.
+Koshari is a Club and Experimental artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at Panke, Berlin on Fri, 31 Jul 2026.
 
-Koshari is a club and experimental artist tracked on soundcheck, with 4 sets logged across Berlin and London. Often billed alongside Sha3by Chic, Kabir and Chaia. Next up: Panke, Berlin on Fri 31 Jul.
+Koshari is a club and experimental artist tracked on soundcheck, with 4 sets logged across Berlin and London. Often billed alongside Sha3by Chic, Kabir and DJ Trigger Happy Ticket Finger. Next up: Panke, Berlin on Fri 31 Jul.
 
 ## Upcoming shows
 
@@ -18,6 +18,6 @@ Koshari is a club and experimental artist tracked on soundcheck, with 4 sets log
 
 ## Shares bills with
 
-Sha3by Chic, Kabir, Chaia
+Sha3by Chic, Kabir, DJ Trigger Happy Ticket Finger
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/koshari/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/koshari/)*

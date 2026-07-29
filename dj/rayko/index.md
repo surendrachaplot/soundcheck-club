@@ -1,6 +1,6 @@
 # Rayko
 
-Rayko is a House and Electronica artist with 1 upcoming club date listed on soundcheck as of Tue, 28 Jul 2026, next at Sala Villanos, Madrid on Fri, 2 Oct 2026.
+Rayko is a House and Electronica artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at Sala Villanos, Madrid on Fri, 2 Oct 2026.
 
 Rayko is a house and electronica artist based in Spain, tracked on soundcheck, with 8 sets logged across Madrid and Nantes. Often billed alongside Kamboya, Dan Bono and Eagles & Butterflies. Next up: Sala Villanos, Madrid on Fri 2 Oct.
 
@@ -24,4 +24,4 @@ Rayko is a house and electronica artist based in Spain, tracked on soundcheck, w
 
 Kamboya, Dan Bono, Eagles & Butterflies
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/rayko/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/rayko/)*

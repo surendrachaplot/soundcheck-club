@@ -1,6 +1,6 @@
 # Holten
 
-Holten is a electronic artist with 1 upcoming club date listed on soundcheck as of Tue, 28 Jul 2026, next at Prince Charles, Berlin on Sun, 2 Aug 2026.
+Holten is a electronic artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at Prince Charles, Berlin on Sun, 2 Aug 2026.
 
 Holten is an electronic artist based in Ireland, tracked on soundcheck, with 24 sets logged across Berlin, Dublin, Ibiza and London and 1 more. Often billed alongside Dar Molloy (2), Spraoi Mór and Sound Metaphors Djs. Next up: Prince Charles, Berlin on Sun 2 Aug.
 
@@ -25,4 +25,4 @@ Holten is an electronic artist based in Ireland, tracked on soundcheck, with 24 
 
 Dar Molloy (2), Spraoi Mór, Sound Metaphors Djs
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/holten/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/holten/)*

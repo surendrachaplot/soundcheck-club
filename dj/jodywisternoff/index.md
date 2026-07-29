@@ -1,6 +1,6 @@
 # Jody Wisternoff
 
-Jody Wisternoff is a Progressive House and House artist with 5 upcoming club dates listed on soundcheck as of Tue, 28 Jul 2026, next at Life Park, Istanbul on Sat, 1 Aug 2026.
+Jody Wisternoff is a Progressive House and House artist with 5 upcoming club dates listed on soundcheck as of Wed, 29 Jul 2026, next at Life Park, Istanbul on Sat, 1 Aug 2026.
 
 Jody Wisternoff is a progressive house and house artist tracked on soundcheck, with 94 sets logged across Auckland, Austin, Barcelona and Belfast and 32 more. Often billed alongside Marsh, Nicky Elisabeth and Dosem. Next up: Life Park, Istanbul on Sat 1 Aug.
 
@@ -29,4 +29,4 @@ Jody Wisternoff is a progressive house and house artist tracked on soundcheck, w
 
 Marsh, Nicky Elisabeth, Dosem
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/jodywisternoff/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/jodywisternoff/)*

@@ -1,6 +1,6 @@
 # Ito (DE)
 
-Ito (DE) is a Hip-Hop and Electronica artist with 1 upcoming club date listed on soundcheck as of Tue, 28 Jul 2026, next at Cadavra, Madrid on Fri, 31 Jul 2026.
+Ito (DE) is a Hip-Hop and Electronica artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at Cadavra, Madrid on Fri, 31 Jul 2026.
 
 Ito (DE) is a hip-hop and electronica artist based in Germany, tracked on soundcheck, with 8 sets logged across Madrid and Tokyo. Often billed alongside Pol K, Almuedo and Alvaro Medina. Next up: Cadavra, Madrid on Fri 31 Jul.
 
@@ -24,4 +24,4 @@ Ito (DE) is a hip-hop and electronica artist based in Germany, tracked on soundc
 
 Pol K, Almuedo, Alvaro Medina
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/ito-de/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/ito-de/)*

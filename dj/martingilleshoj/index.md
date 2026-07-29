@@ -1,6 +1,6 @@
 # Martin Gilleshøj
 
-Martin Gilleshøj is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Tue, 28 Jul 2026, next at Den Anden Side, Copenhagen on Sat, 22 Aug 2026.
+Martin Gilleshøj is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at Den Anden Side, Copenhagen on Sat, 22 Aug 2026.
 
 Martin Gilleshøj is a techno and trance artist tracked on soundcheck, with 59 sets logged across Berlin, Copenhagen, Lyon and Nantes and 3 more. Often billed alongside Kasper Marott, Popmix and Alfredo92. Next up: Den Anden Side, Copenhagen on Sat 22 Aug.
 
@@ -25,4 +25,4 @@ Martin Gilleshøj is a techno and trance artist tracked on soundcheck, with 59 s
 
 Kasper Marott, Popmix, Alfredo92
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/martingilleshoj/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/martingilleshoj/)*

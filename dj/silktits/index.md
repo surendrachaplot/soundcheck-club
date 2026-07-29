@@ -1,6 +1,6 @@
 # Silktits
 
-Silktits is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 28 Jul 2026, next at Système, Montreal on Sat, 29 Aug 2026.
+Silktits is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at Système, Montreal on Sat, 29 Aug 2026.
 
 Silktits is a house and techno artist tracked on soundcheck, with 33 sets logged across Detroit, Mexicocity, Montreal and Newyorkcity and 1 more. Often billed alongside Alina (MTL), DJ Hidi and Doc'trin. Next up: Système, Montreal on Sat 29 Aug.
 
@@ -25,4 +25,4 @@ Silktits is a house and techno artist tracked on soundcheck, with 33 sets logged
 
 Alina (MTL), DJ Hidi, Doc'trin
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/silktits/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/silktits/)*

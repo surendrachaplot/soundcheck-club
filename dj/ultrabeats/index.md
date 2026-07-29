@@ -1,6 +1,6 @@
 # Ultrabeats
 
-Ultrabeats is a UK Funky and Electro artist with 1 upcoming club date listed on soundcheck as of Tue, 28 Jul 2026, next at City Hall, Barcelona on Tue, 11 Aug 2026.
+Ultrabeats is a UK Funky and Electro artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at City Hall, Barcelona on Tue, 11 Aug 2026.
 
 Ultrabeats is an uk funky and electro artist based in Argentina, tracked on soundcheck, with 8 sets logged across Barcelona and Liverpool. Often billed alongside Benja Millan, Agustina Aliaga and Ann Lee. Next up: City Hall, Barcelona on Tue 11 Aug.
 
@@ -24,4 +24,4 @@ Ultrabeats is an uk funky and electro artist based in Argentina, tracked on soun
 
 Benja Millan, Agustina Aliaga, Ann Lee
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/ultrabeats/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/ultrabeats/)*

@@ -1,6 +1,6 @@
 # juicy
 
-juicy is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Tue, 28 Jul 2026, next at ÆDEN, Berlin on Fri, 31 Jul 2026.
+juicy is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Wed, 29 Jul 2026, next at ÆDEN, Berlin on Fri, 31 Jul 2026.
 
 juicy is a house and techno artist based in United States of America, tracked on soundcheck, with 17 sets logged across Berlin, Brussels, Detroit and Lisbon and 3 more. Often billed alongside Disc Jockey George, JMT (2) and JUICY (DE). Next up: ÆDEN, Berlin on Fri 31 Jul.
 
@@ -26,4 +26,4 @@ juicy is a house and techno artist based in United States of America, tracked on
 
 Disc Jockey George, JMT (2), JUICY (DE)
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/juicy/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/juicy/)*

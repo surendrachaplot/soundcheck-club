@@ -1,6 +1,6 @@
 # Tia Cousins
 
-Tia Cousins is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Tue, 28 Jul 2026, next at The Red Church, Bristol on Sun, 30 Aug 2026.
+Tia Cousins is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Wed, 29 Jul 2026, next at The Red Church, Bristol on Sun, 30 Aug 2026.
 
 Tia Cousins is a house and techno artist tracked on soundcheck, with 104 sets logged across Amsterdam, Bangkok, Belfast and Belgrade and 22 more. Often billed alongside Matt Cowell, Ruf Dug and babyschön. Next up: The Red Church, Bristol on Sun 30 Aug.
 
@@ -27,4 +27,4 @@ Tia Cousins is a house and techno artist tracked on soundcheck, with 104 sets lo
 
 Matt Cowell, Ruf Dug, babyschön
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/tiacousins/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/tiacousins/)*

@@ -1,6 +1,6 @@
 # Starr Bar
 
-Starr Bar is a music venue in New York City with 1 upcoming night listed on soundcheck as of Tue, 28 Jul 2026; the next is "SWEAT RIOT: Mutual Aid Rager (8 Oily Dykes X The Party Is Not Over!)" on Fri, 31 Jul 2026.
+Starr Bar is a music venue in New York City with 1 upcoming night listed on soundcheck as of Wed, 29 Jul 2026; the next is "SWEAT RIOT: Mutual Aid Rager (8 Oily Dykes X The Party Is Not Over!)" on Fri, 31 Jul 2026.
 
 Starr Bar is a music venue in Newyorkcity listed on soundcheck. 1 upcoming night. Browse upcoming dates, start times and who's playing. 214 Starr Street, Brooklyn, NY 11237, USA.
 
@@ -14,4 +14,4 @@ Starr Bar is a music venue in Newyorkcity listed on soundcheck. 1 upcoming night
 
 214 Starr Street, Brooklyn, NY 11237, USA, New York City
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/starr-bar/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/starr-bar/)*

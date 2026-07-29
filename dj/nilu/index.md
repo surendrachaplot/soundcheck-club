@@ -1,6 +1,6 @@
 # NILU
 
-NILU is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Tue, 28 Jul 2026, next at Hangaren, Copenhagen on Sat, 1 Aug 2026.
+NILU is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Wed, 29 Jul 2026, next at Hangaren, Copenhagen on Sat, 1 Aug 2026.
 
 NILU is a house and techno artist tracked on soundcheck, with 107 sets logged across Amsterdam, Berlin, Copenhagen and Geneva and 4 more. Often billed alongside Aja Gulris, Tim Andresen and Frede (NO). Next up: Hangaren, Copenhagen on Sat 1 Aug.
 
@@ -27,4 +27,4 @@ NILU is a house and techno artist tracked on soundcheck, with 107 sets logged ac
 
 Aja Gulris, Tim Andresen, Frede (NO)
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/nilu/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/nilu/)*

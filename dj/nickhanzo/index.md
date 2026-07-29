@@ -1,6 +1,6 @@
 # Nick Hanzo
 
-Nick Hanzo is a Disco and Acid artist with 1 upcoming club date listed on soundcheck as of Tue, 28 Jul 2026, next at TBA, Vienna on Sat, 1 Aug 2026.
+Nick Hanzo is a Disco and Acid artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at TBA, Vienna on Sat, 1 Aug 2026.
 
 Nick Hanzo is a disco and acid artist based in Austria, tracked on soundcheck, with 27 sets logged across Berlin, Budapest and Vienna. Often billed alongside Kormos, Kim Wexler and Joyce Muniz. Next up: TBA, Vienna on Sat 1 Aug.
 
@@ -25,4 +25,4 @@ Nick Hanzo is a disco and acid artist based in Austria, tracked on soundcheck, w
 
 Kormos, Kim Wexler, Joyce Muniz
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/nickhanzo/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/nickhanzo/)*

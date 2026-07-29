@@ -1,6 +1,6 @@
 # Grub Records
 
-Grub Records is a music venue in Sheffield with 3 upcoming nights listed on soundcheck as of Tue, 28 Jul 2026; the next is "Open decks showcase" on Fri, 31 Jul 2026.
+Grub Records is a music venue in Sheffield with 3 upcoming nights listed on soundcheck as of Wed, 29 Jul 2026; the next is "Open decks showcase" on Fri, 31 Jul 2026.
 
 Grub Records is a music venue in Sheffield listed on soundcheck. 3 upcoming nights, with line-ups including Bod Min and Danny Cruise. Browse upcoming dates, start times and who's playing. Grub Records, 586 Queens Road, Lowfield, Sheffield, S2 4DU.
 
@@ -16,4 +16,4 @@ Grub Records is a music venue in Sheffield listed on soundcheck. 3 upcoming nigh
 
 Grub Records, 586 Queens Road, Lowfield, Sheffield, S2 4DU, Sheffield
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/sheffield/club/grub-records/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/sheffield/club/grub-records/)*

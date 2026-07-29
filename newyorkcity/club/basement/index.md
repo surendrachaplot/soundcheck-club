@@ -1,6 +1,6 @@
 # BASEMENT
 
-BASEMENT is a music venue in New York City with 7 upcoming nights listed on soundcheck as of Tue, 28 Jul 2026; the next is "Altær: Lars Huismann / Lindsey Herbert / Auspex /Jason Kendig /Will Automagic /Cosmo /Ryan Farr" on Fri, 31 Jul 2026.
+BASEMENT is a music venue in New York City with 7 upcoming nights listed on soundcheck as of Wed, 29 Jul 2026; the next is "Altær: Lars Huismann / Lindsey Herbert / Auspex /Jason Kendig /Will Automagic /Cosmo /Ryan Farr" on Fri, 31 Jul 2026.
 
 BASEMENT is a music venue in Newyorkcity listed on soundcheck. 7 upcoming nights, with line-ups including Analog Soul, Annie Lew, Auspex and Beste Hira and 2 more. Browse upcoming dates, start times and who's playing. 52-19 Flushing Ave., Maspeth, NY 11378 USA.
 
@@ -11,7 +11,7 @@ BASEMENT is a music venue in Newyorkcity listed on soundcheck. 7 upcoming nights
 | Fri, 31 Jul 2026 | Altær: Lars Huismann / Lindsey Herbert / Auspex /Jason Kendig /Will Automagic /Cosmo /Ryan Farr | Auspex, Cosmo (NY), Jason Kendig, Lars Huismann, Lindsey Herbert, Ryan Farr, Will Automagic |
 | Sat, 1 Aug 2026 | Locals Night | Analog Soul, Concrete Husband, Holden Federico, Justin Cudmore, Katie Rex, Kim Anh, Manu Miran, Mos (NYC), Ne/Re/A |
 | Sat, 8 Aug 2026 | WRECKED: Sterling Juan Diaz / Mister Wallace / Jellyfish / Ron Like Hell b2b Ryan Smith | Jellyfish, Mister Wallace, Ron Like Hell, Ryan Smith, Sterling Juan Diaz |
-| Sat, 15 Aug 2026 | Function / LOLSNAKE / Elle Dee / Tom Peters / Dee Diggs / Miracles | Dee Diggs, Elle Dee, Function, LOLSNAKE, Miracles, Tom Peters |
+| Sat, 15 Aug 2026 | Function / LOLSNAKE / Elle Dee / Tom Peters / Dee Diggs / Michael Cignarale | Dee Diggs, Elle Dee, Function, LOLSNAKE, Michael Cignarale, Miracles, Tom Peters |
 | Sat, 22 Aug 2026 | Dustin Zahn / Nastia Reigel / NEUX / / Eau De Cologne: Natuta / MVHY / Mutualism | Dustin Zahn, MVHY, Mutualism, NEUX, Nastia Reigel, Natuta |
 | Sat, 29 Aug 2026 | Yonti / Beste Hira / Annie Lew / Jason Kendig b2b James Axon / Kilopatrah Jones / Immy | Annie Lew, Beste Hira, Immy, James Axon, Jason Kendig, Kilopatrah Jones, Yonti |
 | Tue, 1 Sept 2026 | Twitch live with zamvoil |  |
@@ -20,4 +20,4 @@ BASEMENT is a music venue in Newyorkcity listed on soundcheck. 7 upcoming nights
 
 52-19 Flushing Ave., Maspeth, NY 11378 USA, New York City
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/basement/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/basement/)*

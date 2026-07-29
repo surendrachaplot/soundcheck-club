@@ -1,6 +1,6 @@
 # DREVO
 
-DREVO is a House and Baile Funk artist with 1 upcoming club date listed on soundcheck as of Tue, 28 Jul 2026, next at Audio SF, San Francisco/Oakland on Sun, 2 Aug 2026.
+DREVO is a House and Baile Funk artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at Audio SF, San Francisco/Oakland on Sun, 2 Aug 2026.
 
 DREVO is a house and baile funk artist based in United States of America, tracked on soundcheck, with 5 sets logged across Sanfrancisco. Often billed alongside Dany Donowitz, ValouFlex and sosicksosad. Next up: Audio SF, Sanfrancisco on Sun 2 Aug.
 
@@ -21,4 +21,4 @@ DREVO is a house and baile funk artist based in United States of America, tracke
 
 Dany Donowitz, ValouFlex, sosicksosad
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/drevo/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/drevo/)*

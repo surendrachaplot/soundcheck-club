@@ -1,6 +1,6 @@
 # SuperNova (US)
 
-SuperNova (US) is a Amapiano and Dancehall artist with 1 upcoming club date listed on soundcheck as of Tue, 28 Jul 2026, next at White Owl Social Club, Portland on Sun, 9 Aug 2026.
+SuperNova (US) is a Amapiano and Dancehall artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at White Owl Social Club, Portland on Sun, 9 Aug 2026.
 
 SuperNova (US) is an amapiano and dancehall artist based in United States of America, tracked on soundcheck, with 29 sets logged across Austin, Losangeles, Mexicocity and Newyorkcity and 2 more. Often billed alongside Falcons, JOAQU.N and Giselle Peppers. Next up: White Owl Social Club, Portland on Sun 9 Aug.
 
@@ -25,4 +25,4 @@ SuperNova (US) is an amapiano and dancehall artist based in United States of Ame
 
 Falcons, JOAQU.N, Giselle Peppers
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/supernovaus/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/supernovaus/)*

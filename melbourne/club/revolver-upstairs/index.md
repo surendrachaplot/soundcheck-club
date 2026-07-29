@@ -1,6 +1,6 @@
 # Revolver Upstairs
 
-Revolver Upstairs is a music venue in Melbourne with 20 upcoming nights listed on soundcheck as of Tue, 28 Jul 2026; the next is "Village Sound & Friends 'All Night Long' — LOVED & 3181 Thursdays" on Thu, 30 Jul 2026.
+Revolver Upstairs is a music venue in Melbourne with 20 upcoming nights listed on soundcheck as of Wed, 29 Jul 2026; the next is "Village Sound & Friends 'All Night Long' — LOVED & 3181 Thursdays" on Thu, 30 Jul 2026.
 
 Revolver Upstairs is a music venue in Melbourne listed on soundcheck. 20 upcoming nights, with line-ups including Acid Safari, Agent 86, Alex Wann and ARTISAH and 2 more. Browse upcoming dates, start times and who's playing. 229 Chapel St, Prahran VIC 3181, Australia.
 
@@ -23,4 +23,4 @@ Revolver Upstairs is a music venue in Melbourne listed on soundcheck. 20 upcomin
 
 229 Chapel St, Prahran VIC 3181, Australia, Melbourne
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/melbourne/club/revolver-upstairs/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/melbourne/club/revolver-upstairs/)*

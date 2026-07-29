@@ -1,6 +1,6 @@
 # Edmondson
 
-Edmondson is a House and Jazz artist with 1 upcoming club date listed on soundcheck as of Tue, 28 Jul 2026, next at Oxygenic, Newcastle on Sat, 8 Aug 2026.
+Edmondson is a House and Jazz artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at Oxygenic, Newcastle on Sat, 8 Aug 2026.
 
 Edmondson is a house and jazz artist based in United Kingdom, tracked on soundcheck, with 10 sets logged across London and Newcastle. Often billed alongside Dom Apes, Seb Wildblood and 1-800 GIRLS. Next up: Oxygenic, Newcastle on Sat 8 Aug.
 
@@ -25,4 +25,4 @@ Edmondson is a house and jazz artist based in United Kingdom, tracked on soundch
 
 Dom Apes, Seb Wildblood, 1-800 GIRLS
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/edmondson/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/edmondson/)*

@@ -1,6 +1,6 @@
 # Jumbi
 
-Jumbi is a music venue in London with 8 upcoming nights listed on soundcheck as of Tue, 28 Jul 2026; the next is "Jus Now presents - CouSouMay (A West Indian Celebration of Freedom)" on Thu, 30 Jul 2026.
+Jumbi is a music venue in London with 8 upcoming nights listed on soundcheck as of Wed, 29 Jul 2026; the next is "Jus Now presents - CouSouMay (A West Indian Celebration of Freedom)" on Thu, 30 Jul 2026.
 
 Jumbi is a music venue in London listed on soundcheck. 8 upcoming nights, with line-ups including Bindās, Derrick Carter, Jitwam and Jumping Jack Frost and 2 more. Browse upcoming dates, start times and who's playing. Unit 4.1, Copeland Park, 133 Copeland Rd, London SE15 3SN.
 
@@ -21,4 +21,4 @@ Jumbi is a music venue in London listed on soundcheck. 8 upcoming nights, with l
 
 Unit 4.1, Copeland Park, 133 Copeland Rd, London SE15 3SN, London
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/london/club/jumbi/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/london/club/jumbi/)*

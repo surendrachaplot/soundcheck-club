@@ -1,6 +1,6 @@
 # Mac Rattana
 
-Mac Rattana is a Minimal and House artist with 1 upcoming club date listed on soundcheck as of Tue, 28 Jul 2026, next at Dual, Bangkok on Sat, 1 Aug 2026.
+Mac Rattana is a Minimal and House artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at Dual, Bangkok on Sat, 1 Aug 2026.
 
 Mac Rattana is a minimal and house artist based in Thailand, tracked on soundcheck, with 23 sets logged across Bangkok. Often billed alongside Krit Su, Gishiyama and DJ Krit Morton. Next up: Dual, Bangkok on Sat 1 Aug.
 
@@ -25,4 +25,4 @@ Mac Rattana is a minimal and house artist based in Thailand, tracked on soundche
 
 Krit Su, Gishiyama, DJ Krit Morton
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/macrattana/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/macrattana/)*

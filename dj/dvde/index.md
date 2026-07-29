@@ -1,6 +1,6 @@
 # DVDE
 
-DVDE is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 28 Jul 2026, next at AURA, Lisbon on Sat, 1 Aug 2026.
+DVDE is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at AURA, Lisbon on Sat, 1 Aug 2026.
 
 DVDE is a house and techno artist based in France, tracked on soundcheck, with 103 sets logged across Amsterdam, Bangkok, Barcelona and Berlin and 15 more. Often billed alongside Maison Blanche, Cinthie and DMX Krew. Next up: AURA, Lisbon on Sat 1 Aug.
 
@@ -25,4 +25,4 @@ DVDE is a house and techno artist based in France, tracked on soundcheck, with 1
 
 Maison Blanche, Cinthie, DMX Krew
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/dvde/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/dvde/)*

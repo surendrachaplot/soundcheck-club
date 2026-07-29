@@ -1,6 +1,6 @@
 # Weiss
 
-Weiss is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Tue, 28 Jul 2026, next at Ushuaïa Ibiza, Ibiza on Fri, 31 Jul 2026.
+Weiss is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at Ushuaïa Ibiza, Ibiza on Fri, 31 Jul 2026.
 
 Weiss is a house and tech house artist based in United Kingdom, tracked on soundcheck, with 21 sets logged across Auckland, Brisbane, Dublin and Ibiza and 12 more. Often billed alongside Yamariki, AR (UK) and Anabel Englund. Next up: Ushuaïa Ibiza, Ibiza on Fri 31 Jul.
 
@@ -25,4 +25,4 @@ Weiss is a house and tech house artist based in United Kingdom, tracked on sound
 
 Yamariki, AR (UK), Anabel Englund
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/weiss/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/weiss/)*

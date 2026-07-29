@@ -1,6 +1,6 @@
 # Matt Suave
 
-Matt Suave is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Tue, 28 Jul 2026, next at Club NYX, Amsterdam on Wed, 29 Jul 2026.
+Matt Suave is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at Club NYX, Amsterdam on Wed, 29 Jul 2026.
 
 Matt Suave is a house and tech house artist based in United States of America, tracked on soundcheck, with 13 sets logged across Amsterdam, Chicago, Denver and Losangeles and 5 more. Often billed alongside Alby Esc, Alex Costa and Aluna. Next up: Club NYX, Amsterdam on Wed 29 Jul.
 
@@ -25,4 +25,4 @@ Matt Suave is a house and tech house artist based in United States of America, t
 
 Alby Esc, Alex Costa, Aluna
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/mattsuave/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/mattsuave/)*

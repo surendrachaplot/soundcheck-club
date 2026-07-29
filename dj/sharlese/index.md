@@ -1,6 +1,6 @@
 # Sharlese
 
-Sharlese is a Techno and House artist with 7 upcoming club dates listed on soundcheck as of Tue, 28 Jul 2026, next at Südpol, Hamburg on Sat, 1 Aug 2026.
+Sharlese is a Techno and House artist with 7 upcoming club dates listed on soundcheck as of Wed, 29 Jul 2026, next at Südpol, Hamburg on Sat, 1 Aug 2026.
 
 Sharlese is a techno and house artist based in United States of America, tracked on soundcheck, with 140 sets logged across Amsterdam, Belgrade, Berlin and Boston and 14 more. Often billed alongside DJ SH1-TR, Lord Phatrick and Kadeejah Streets. Next up: Südpol, Hamburg on Sat 1 Aug.
 
@@ -31,4 +31,4 @@ Sharlese is a techno and house artist based in United States of America, tracked
 
 DJ SH1-TR, Lord Phatrick, Kadeejah Streets
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/sharlese/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/sharlese/)*

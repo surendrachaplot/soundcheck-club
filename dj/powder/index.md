@@ -1,8 +1,8 @@
 # Powder
 
-Powder is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Tue, 28 Jul 2026, next at Myra, Lisbon on Fri, 31 Jul 2026.
+Powder is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Wed, 29 Jul 2026, next at Myra, Lisbon on Fri, 31 Jul 2026.
 
-Powder is a house and techno artist tracked on soundcheck, with 57 sets logged across Amsterdam, Bangkok, Berlin and Boston and 20 more. Often billed alongside 5ive, KOOLMFL and Helena Hauff. Next up: Myra, Lisbon on Fri 31 Jul.
+Powder is a house and techno artist tracked on soundcheck, with 58 sets logged across Amsterdam, Bangkok, Berlin and Boston and 21 more. Often billed alongside 5ive, KOOLMFL and Helena Hauff. Next up: Myra, Lisbon on Fri 31 Jul.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Powder is a house and techno artist tracked on soundcheck, with 57 sets logged a
 | --- | --- | --- |
 | Fri, 31 Jul 2026 | Myra | Lisbon |
 | Sat, 15 Aug 2026 | The Cause | London |
+| Fri, 4 Sept 2026 | TBA - Downtown | Los Angeles |
 
 ## Recently played
 
@@ -26,4 +27,4 @@ Powder is a house and techno artist tracked on soundcheck, with 57 sets logged a
 
 5ive, KOOLMFL, Helena Hauff
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/powder/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/powder/)*

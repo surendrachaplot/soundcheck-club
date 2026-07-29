@@ -1,6 +1,6 @@
 # Nibius
 
-Nibius is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 28 Jul 2026, next at TBA - Comporta, Lisbon on Sat, 1 Aug 2026.
+Nibius is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at TBA - Comporta, Lisbon on Sat, 1 Aug 2026.
 
 Nibius is a house and techno artist tracked on soundcheck, with 20 sets logged across Lisbon. Often billed alongside Pitcho, Fonzi (2) and Kokeshi. Next up: TBA - Comporta, Lisbon on Sat 1 Aug.
 
@@ -25,4 +25,4 @@ Nibius is a house and techno artist tracked on soundcheck, with 20 sets logged a
 
 Pitcho, Fonzi (2), Kokeshi
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/nibius/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/nibius/)*

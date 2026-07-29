@@ -1,6 +1,6 @@
 # Eva Selezneva
 
-Eva Selezneva is a House and EBM artist with 1 upcoming club date listed on soundcheck as of Tue, 28 Jul 2026, next at Tausend, Berlin on Fri, 31 Jul 2026.
+Eva Selezneva is a House and EBM artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at Tausend, Berlin on Fri, 31 Jul 2026.
 
 Eva Selezneva is a house and ebm artist based in Ukraine, tracked on soundcheck, with 24 sets logged across Amsterdam, Berlin and Warsaw. Often billed alongside Miura, Bae Blade and Thabo. Next up: Tausend, Berlin on Fri 31 Jul.
 
@@ -25,4 +25,4 @@ Eva Selezneva is a house and ebm artist based in Ukraine, tracked on soundcheck,
 
 Miura, Bae Blade, Thabo
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/evaselezneva/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/evaselezneva/)*

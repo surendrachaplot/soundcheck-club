@@ -1,6 +1,6 @@
 # Dave Shichman
 
-Dave Shichman is a Drum & Bass and Jungle artist with 1 upcoming club date listed on soundcheck as of Tue, 28 Jul 2026, next at H0L0, New York City on Fri, 7 Aug 2026.
+Dave Shichman is a Drum & Bass and Jungle artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at H0L0, New York City on Fri, 7 Aug 2026.
 
 Dave Shichman is a drum & bass and jungle artist based in United States of America, tracked on soundcheck, with 43 sets logged across Boston, Miami, Newyorkcity and Philadelphia and 2 more. Often billed alongside Agent 137, Dieselboy and DJ Strife. Next up: H0L0, Newyorkcity on Fri 7 Aug.
 
@@ -25,4 +25,4 @@ Dave Shichman is a drum & bass and jungle artist based in United States of Ameri
 
 Agent 137, Dieselboy, DJ Strife
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/daveshichman/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/daveshichman/)*

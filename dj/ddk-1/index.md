@@ -1,14 +1,15 @@
 # DDK (1)
 
-DDK (1) is a Techno and Tech House artist with 1 upcoming club date listed on soundcheck as of Tue, 28 Jul 2026, next at Fuchs2, Prague on Sat, 15 Aug 2026.
+DDK (1) is a Techno and Tech House artist with 2 upcoming club dates listed on soundcheck as of Wed, 29 Jul 2026, next at Fuchs2, Prague on Sat, 15 Aug 2026.
 
-DDK (1) is a techno and tech house artist tracked on soundcheck, with 53 sets logged across Berlin, Prague and Stuttgart. Often billed alongside zazitech, RADYK and Nina Farrina. Next up: Fuchs2, Prague on Sat 15 Aug.
+DDK (1) is a techno and tech house artist tracked on soundcheck, with 54 sets logged across Berlin, Prague and Stuttgart. Often billed alongside zazitech, RADYK and Nina Farrina. Next up: Fuchs2, Prague on Sat 15 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 15 Aug 2026 | Fuchs2 | Prague |
+| Fri, 18 Sept 2026 | Bike Jesus | Prague |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ DDK (1) is a techno and tech house artist tracked on soundcheck, with 53 sets lo
 
 zazitech, RADYK, Nina Farrina
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/ddk-1/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/ddk-1/)*

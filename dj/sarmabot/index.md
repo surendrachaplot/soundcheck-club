@@ -1,6 +1,6 @@
 # Sarmabot
 
-Sarmabot is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Tue, 28 Jul 2026, next at BLITZ, Munich on Fri, 31 Jul 2026.
+Sarmabot is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at BLITZ, Munich on Fri, 31 Jul 2026.
 
 Sarmabot is a house and tech house artist tracked on soundcheck, with 22 sets logged across Cologne and Munich. Often billed alongside Kiawash, Stenny and Lara Fein. Next up: BLITZ, Munich on Fri 31 Jul.
 
@@ -25,4 +25,4 @@ Sarmabot is a house and tech house artist tracked on soundcheck, with 22 sets lo
 
 Kiawash, Stenny, Lara Fein
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/sarmabot/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/sarmabot/)*

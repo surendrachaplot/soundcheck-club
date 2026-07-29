@@ -1,6 +1,6 @@
 # Sonalie Solar
 
-Sonalie Solar is a Tech House and House artist with 1 upcoming club date listed on soundcheck as of Tue, 28 Jul 2026, next at Rote Sonne, Munich on Wed, 29 Jul 2026.
+Sonalie Solar is a Tech House and House artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at Rote Sonne, Munich on Wed, 29 Jul 2026.
 
 Sonalie Solar is a tech house and house artist based in Germany, tracked on soundcheck, with 16 sets logged across Munich. Often billed alongside Alicea, Cottí Larje and ANXA. Next up: Rote Sonne, Munich on Wed 29 Jul.
 
@@ -25,4 +25,4 @@ Sonalie Solar is a tech house and house artist based in Germany, tracked on soun
 
 Alicea, Cottí Larje, ANXA
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/sonaliesolar/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/sonaliesolar/)*

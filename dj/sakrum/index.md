@@ -1,6 +1,6 @@
 # Sakrum
 
-Sakrum is a Electro and Electronica artist with 2 upcoming club dates listed on soundcheck as of Tue, 28 Jul 2026, next at Sekta Selekta, Krakow on Thu, 30 Jul 2026.
+Sakrum is a Electro and Electronica artist with 2 upcoming club dates listed on soundcheck as of Wed, 29 Jul 2026, next at Sekta Selekta, Krakow on Thu, 30 Jul 2026.
 
 Sakrum is an electro and electronica artist tracked on soundcheck, with 45 sets logged across Berlin, Krakow and Warsaw. Often billed alongside Chugajstra, vagt and Aim Ana. Next up: Sekta Selekta, Krakow on Thu 30 Jul.
 
@@ -26,4 +26,4 @@ Sakrum is an electro and electronica artist tracked on soundcheck, with 45 sets 
 
 Chugajstra, vagt, Aim Ana
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/sakrum/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/sakrum/)*

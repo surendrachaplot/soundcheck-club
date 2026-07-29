@@ -1,6 +1,6 @@
 # UNiiQU3
 
-UNiiQU3 is a Club and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 28 Jul 2026, next at Société des arts technologiques, Montreal on Sat, 8 Aug 2026.
+UNiiQU3 is a Club and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at Société des arts technologiques, Montreal on Sat, 8 Aug 2026.
 
 UNiiQU3 is a club and techno artist tracked on soundcheck, with 98 sets logged across Amsterdam, Barcelona, Berlin and Boston and 32 more. Often billed alongside ARMANA KHAN, Bambii and Bianca Oblivion. Next up: Société des arts technologiques, Montreal on Sat 8 Aug.
 
@@ -25,4 +25,4 @@ UNiiQU3 is a club and techno artist tracked on soundcheck, with 98 sets logged a
 
 ARMANA KHAN, Bambii, Bianca Oblivion
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/uniiqu3/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/uniiqu3/)*

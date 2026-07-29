@@ -1,6 +1,6 @@
 # Enzo Leep
 
-Enzo Leep is a House and Electronica artist with 1 upcoming club date listed on soundcheck as of Tue, 28 Jul 2026, next at Hola Club Sitges (Cala Vallcarca), Barcelona on Sat, 1 Aug 2026.
+Enzo Leep is a House and Electronica artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at Hola Club Sitges (Cala Vallcarca), Barcelona on Sat, 1 Aug 2026.
 
 Enzo Leep is a house and electronica artist based in Spain, tracked on soundcheck, with 59 sets logged across Amsterdam, Barcelona, Belgrade and Berlin and 11 more. Often billed alongside ELVI (SE), Ion Pananides and Alvaro Medina. Next up: Hola Club Sitges (Cala Vallcarca), Barcelona on Sat 1 Aug.
 
@@ -25,4 +25,4 @@ Enzo Leep is a house and electronica artist based in Spain, tracked on soundchec
 
 ELVI (SE), Ion Pananides, Alvaro Medina
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/enzoleep/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/enzoleep/)*

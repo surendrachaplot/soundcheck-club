@@ -1,6 +1,6 @@
 # AMBIENTES KOLLEKTIV
 
-AMBIENTES KOLLEKTIV is a Experimental and Ambient artist with 1 upcoming club date listed on soundcheck as of Tue, 28 Jul 2026, next at Astral Junction, Berlin on Wed, 29 Jul 2026.
+AMBIENTES KOLLEKTIV is a Experimental and Ambient artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at Astral Junction, Berlin on Wed, 29 Jul 2026.
 
 AMBIENTES KOLLEKTIV is an experimental and ambient artist based in Germany, tracked on soundcheck, with 34 sets logged across Berlin. Often billed alongside Saumeth, Qualia and 3rd Party Influence. Next up: Astral Junction, Berlin on Wed 29 Jul.
 
@@ -25,4 +25,4 @@ AMBIENTES KOLLEKTIV is an experimental and ambient artist based in Germany, trac
 
 Saumeth, Qualia, 3rd Party Influence
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/ambienteskollektiv/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/ambienteskollektiv/)*

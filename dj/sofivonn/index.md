@@ -1,6 +1,6 @@
 # Sofi Vonn
 
-Sofi Vonn is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 28 Jul 2026, next at Mood Ring, New York City on Wed, 5 Aug 2026.
+Sofi Vonn is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at Mood Ring, New York City on Wed, 5 Aug 2026.
 
 Sofi Vonn is a house and techno artist based in United States of America, tracked on soundcheck, with 7 sets logged across London and Newyorkcity. Often billed alongside 2 boots, Afr0delic and Atomheartmommy. Next up: Mood Ring, Newyorkcity on Wed 5 Aug.
 
@@ -23,4 +23,4 @@ Sofi Vonn is a house and techno artist based in United States of America, tracke
 
 2 boots, Afr0delic, Atomheartmommy
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/sofivonn/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/sofivonn/)*

@@ -1,6 +1,6 @@
 # Piticu
 
-Piticu is a Minimal and House artist with 1 upcoming club date listed on soundcheck as of Tue, 28 Jul 2026, next at Playa Soleil Ibiza, Ibiza on Wed, 29 Jul 2026.
+Piticu is a Minimal and House artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at Playa Soleil Ibiza, Ibiza on Wed, 29 Jul 2026.
 
 Piticu is a minimal and house artist tracked on soundcheck, with 53 sets logged across Barcelona, Berlin, Brussels and Geneva and 7 more. Often billed alongside Grittrip, Janina and Nima Gorji. Next up: Playa Soleil Ibiza, Ibiza on Wed 29 Jul.
 
@@ -25,4 +25,4 @@ Piticu is a minimal and house artist tracked on soundcheck, with 53 sets logged 
 
 Grittrip, Janina, Nima Gorji
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/piticu/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/piticu/)*

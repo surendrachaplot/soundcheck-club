@@ -1,6 +1,6 @@
 # WILDERÍCH
 
-WILDERÍCH is a Techno and Trance artist with 8 upcoming club dates listed on soundcheck as of Tue, 28 Jul 2026, next at TBA - Peißnitzinsel Halle, Leipzig on Sat, 1 Aug 2026.
+WILDERÍCH is a Techno and Trance artist with 8 upcoming club dates listed on soundcheck as of Wed, 29 Jul 2026, next at TBA - Peißnitzinsel Halle, Leipzig on Sat, 1 Aug 2026.
 
 WILDERÍCH is a techno and trance artist tracked on soundcheck, with 86 sets logged across Amsterdam, Barcelona, Basel and Berlin and 21 more. Often billed alongside zwilling., Serafina and Adrian Mills. Next up: TBA - Peißnitzinsel Halle, Leipzig on Sat 1 Aug.
 
@@ -32,4 +32,4 @@ WILDERÍCH is a techno and trance artist tracked on soundcheck, with 86 sets log
 
 zwilling., Serafina, Adrian Mills
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/wilderich/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/wilderich/)*

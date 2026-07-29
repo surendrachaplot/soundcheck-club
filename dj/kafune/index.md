@@ -1,6 +1,6 @@
 # Kafuné
 
-Kafuné is a Downtempo and House artist with 1 upcoming club date listed on soundcheck as of Tue, 28 Jul 2026, next at Crack Bellmer, Berlin on Thu, 30 Jul 2026.
+Kafuné is a Downtempo and House artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at Crack Bellmer, Berlin on Thu, 30 Jul 2026.
 
 Kafuné is a downtempo and house artist tracked on soundcheck, with 10 sets logged across Berlin. Often billed alongside Tom Pavicich, anna G and Monsai. Next up: Crack Bellmer, Berlin on Thu 30 Jul.
 
@@ -25,4 +25,4 @@ Kafuné is a downtempo and house artist tracked on soundcheck, with 10 sets logg
 
 Tom Pavicich, anna G, Monsai
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/kafune/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/kafune/)*

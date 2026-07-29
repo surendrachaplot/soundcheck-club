@@ -1,6 +1,6 @@
 # Tonser
 
-Tonser is a Hip-Hop and Electro artist with 1 upcoming club date listed on soundcheck as of Tue, 28 Jul 2026, next at Pumpehuset, Copenhagen on Sat, 19 Sept 2026.
+Tonser is a Hip-Hop and Electro artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at Pumpehuset, Copenhagen on Sat, 19 Sept 2026.
 
 Tonser is a hip-hop and electro artist based in Denmark, tracked on soundcheck, with 8 sets logged across Copenhagen, London, Seoul and Tokyo and 1 more. Often billed alongside Gweilo Ghost, Mayh3mp and Oatmilkandcodeine. Next up: Pumpehuset, Copenhagen on Sat 19 Sept.
 
@@ -24,4 +24,4 @@ Tonser is a hip-hop and electro artist based in Denmark, tracked on soundcheck, 
 
 Gweilo Ghost, Mayh3mp, Oatmilkandcodeine
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/tonser/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/tonser/)*

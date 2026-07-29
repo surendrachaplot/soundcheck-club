@@ -1,6 +1,6 @@
 # KACPER
 
-KACPER is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Tue, 28 Jul 2026, next at The Marcus Ward, Belfast on Sat, 1 Aug 2026.
+KACPER is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at The Marcus Ward, Belfast on Sat, 1 Aug 2026.
 
 KACPER is a techno and house artist based in Poland, tracked on soundcheck, with 6 sets logged across Belfast and Glasgow. Often billed alongside mkbest, Chris Flannigan and Divergence. Next up: The Marcus Ward, Belfast on Sat 1 Aug.
 
@@ -22,4 +22,4 @@ KACPER is a techno and house artist based in Poland, tracked on soundcheck, with
 
 mkbest, Chris Flannigan, Divergence
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/kacper/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/kacper/)*

@@ -1,6 +1,6 @@
 # HIHATDANCER
 
-HIHATDANCER is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Tue, 28 Jul 2026, next at Melt Underground, Buenos Aires on Sat, 1 Aug 2026.
+HIHATDANCER is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at Melt Underground, Buenos Aires on Sat, 1 Aug 2026.
 
 HIHATDANCER is a techno and house artist based in Argentina, tracked on soundcheck, with 35 sets logged across Barcelona, Berlin and Buenosaires. Often billed alongside Camila Isabel, Victoria Arena and @ConradoStein. Next up: Melt Underground, Buenosaires on Sat 1 Aug.
 
@@ -25,4 +25,4 @@ HIHATDANCER is a techno and house artist based in Argentina, tracked on soundche
 
 Camila Isabel, Victoria Arena, @ConradoStein
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/hihatdancer/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/hihatdancer/)*

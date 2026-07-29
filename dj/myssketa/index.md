@@ -1,6 +1,6 @@
 # MYSS KETA
 
-MYSS KETA is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Tue, 28 Jul 2026, next at Schrotty, Cologne on Fri, 28 Aug 2026.
+MYSS KETA is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at Schrotty, Cologne on Fri, 28 Aug 2026.
 
 MYSS KETA is a techno and house artist based in Italy, tracked on soundcheck, with 8 sets logged across Berlin, Cologne, Leipzig and Madrid and 3 more. Often billed alongside 131bpm, ADAM MUNNINGS and AGY3NA. Next up: Schrotty, Cologne on Fri 28 Aug.
 
@@ -24,4 +24,4 @@ MYSS KETA is a techno and house artist based in Italy, tracked on soundcheck, wi
 
 131bpm, ADAM MUNNINGS, AGY3NA
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/myssketa/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/myssketa/)*

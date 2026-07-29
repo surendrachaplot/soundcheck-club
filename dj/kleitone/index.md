@@ -1,6 +1,6 @@
 # Kleitone
 
-Kleitone is a Afro House and House artist with 1 upcoming club date listed on soundcheck as of Tue, 28 Jul 2026, next at Sky Lounge 360, Prague on Sat, 1 Aug 2026.
+Kleitone is a Afro House and House artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at Sky Lounge 360, Prague on Sat, 1 Aug 2026.
 
 Kleitone is an afro house and house artist based in Czech Republic, tracked on soundcheck, with 12 sets logged across Prague. Often billed alongside Hugorieri, Ansea and Marvel83'. Next up: Sky Lounge 360, Prague on Sat 1 Aug.
 
@@ -25,4 +25,4 @@ Kleitone is an afro house and house artist based in Czech Republic, tracked on s
 
 Hugorieri, Ansea, Marvel83'
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/kleitone/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/kleitone/)*

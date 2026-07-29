@@ -1,6 +1,6 @@
 # Jan Ketel
 
-Jan Ketel is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 28 Jul 2026, next at Kater, Berlin on Sat, 8 Aug 2026.
+Jan Ketel is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at Kater, Berlin on Sat, 8 Aug 2026.
 
 Jan Ketel is a house and techno artist based in Germany, tracked on soundcheck, with 5 sets logged across Berlin. Often billed alongside Siggatunez, Meriem S and Quadrakey. Next up: Kater, Berlin on Sat 8 Aug.
 
@@ -21,4 +21,4 @@ Jan Ketel is a house and techno artist based in Germany, tracked on soundcheck, 
 
 Siggatunez, Meriem S, Quadrakey
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/janketel/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/janketel/)*

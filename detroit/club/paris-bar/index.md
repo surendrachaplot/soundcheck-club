@@ -1,6 +1,6 @@
 # Paris Bar
 
-Paris Bar is a music venue in Detroit with 2 upcoming nights listed on soundcheck as of Tue, 28 Jul 2026; the next is "SIREN: Indie Sleaze Night" on Sat, 8 Aug 2026.
+Paris Bar is a music venue in Detroit with 2 upcoming nights listed on soundcheck as of Wed, 29 Jul 2026; the next is "SIREN: Indie Sleaze Night" on Sat, 8 Aug 2026.
 
 Paris Bar is a music venue in Detroit listed on soundcheck. 2 upcoming nights, with line-ups including Auntie Chanel, Cherriel, DykeChow and Savannah G. Browse upcoming dates, start times and who's playing. 2961 E McNichols Rd, Hamtramck, MI 48212, United States.
 
@@ -15,4 +15,4 @@ Paris Bar is a music venue in Detroit listed on soundcheck. 2 upcoming nights, w
 
 2961 E McNichols Rd, Hamtramck, MI 48212, United States, Detroit
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/detroit/club/paris-bar/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/detroit/club/paris-bar/)*

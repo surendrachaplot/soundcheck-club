@@ -1,6 +1,6 @@
 # HOLL3
 
-HOLL3 is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 28 Jul 2026, next at Two Tribes CAMPFIRE, London on Fri, 31 Jul 2026.
+HOLL3 is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at Two Tribes CAMPFIRE, London on Fri, 31 Jul 2026.
 
 HOLL3 is a house and techno artist based in United Kingdom, tracked on soundcheck, with 22 sets logged across Ibiza, London, Nottingham and Sheffield. Often billed alongside ACT ON, George Mensah and Luke Wolfman. Next up: Two Tribes CAMPFIRE, London on Fri 31 Jul.
 
@@ -25,4 +25,4 @@ HOLL3 is a house and techno artist based in United Kingdom, tracked on soundchec
 
 ACT ON, George Mensah, Luke Wolfman
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/holl3/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/holl3/)*

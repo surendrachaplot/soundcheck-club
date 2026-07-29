@@ -1,6 +1,6 @@
 # Antaares
 
-Antaares is a Downtempo and Techno artist with 2 upcoming club dates listed on soundcheck as of Tue, 28 Jul 2026, next at Jonny Knüppel, Berlin on Fri, 31 Jul 2026.
+Antaares is a Downtempo and Techno artist with 2 upcoming club dates listed on soundcheck as of Wed, 29 Jul 2026, next at Jonny Knüppel, Berlin on Fri, 31 Jul 2026.
 
 Antaares is a downtempo and techno artist based in Mexico, tracked on soundcheck, with 29 sets logged across Auckland, Barcelona, Basel and Berlin and 8 more. Often billed alongside bawab, Alacrán del Amor and Cedro. Next up: Jonny Knüppel, Berlin on Fri 31 Jul.
 
@@ -26,4 +26,4 @@ Antaares is a downtempo and techno artist based in Mexico, tracked on soundcheck
 
 bawab, Alacrán del Amor, Cedro
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/antaares/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/antaares/)*

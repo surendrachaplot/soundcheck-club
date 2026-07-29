@@ -1,6 +1,6 @@
 # Manu Villas
 
-Manu Villas is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Tue, 28 Jul 2026, next at Bar do Netão, Sao Paulo on Wed, 29 Jul 2026.
+Manu Villas is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at Bar do Netão, Sao Paulo on Wed, 29 Jul 2026.
 
 Manu Villas is a techno and house artist based in Brazil, tracked on soundcheck, with 16 sets logged across Saopaulo. Often billed alongside Anders (BR), CIOFFI and Dannie. Next up: Bar do Netão, Saopaulo on Wed 29 Jul.
 
@@ -25,4 +25,4 @@ Manu Villas is a techno and house artist based in Brazil, tracked on soundcheck,
 
 Anders (BR), CIOFFI, Dannie
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/manuvillas/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/manuvillas/)*

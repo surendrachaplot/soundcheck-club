@@ -1,6 +1,6 @@
 # Oscar Wandel
 
-Oscar Wandel is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 28 Jul 2026, next at Klunkerkranich, Berlin on Sat, 1 Aug 2026.
+Oscar Wandel is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at Klunkerkranich, Berlin on Sat, 1 Aug 2026.
 
 Oscar Wandel is a house and techno artist based in Germany, tracked on soundcheck, with 11 sets logged across Berlin. Often billed alongside K.EULE, Leon Licht and Memo.. Next up: Klunkerkranich, Berlin on Sat 1 Aug.
 
@@ -25,4 +25,4 @@ Oscar Wandel is a house and techno artist based in Germany, tracked on soundchec
 
 K.EULE, Leon Licht, Memo.
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/oscarwandel/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/oscarwandel/)*

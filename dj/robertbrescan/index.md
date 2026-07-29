@@ -1,6 +1,6 @@
 # Robert Brescan
 
-Robert Brescan is a Minimal and Tech House artist with 1 upcoming club date listed on soundcheck as of Tue, 28 Jul 2026, next at Club Frau Holle, Hamburg on Sat, 1 Aug 2026.
+Robert Brescan is a Minimal and Tech House artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at Club Frau Holle, Hamburg on Sat, 1 Aug 2026.
 
 Robert Brescan is a minimal and tech house artist based in Germany, tracked on soundcheck, with 15 sets logged across Hamburg. Often billed alongside Alex Caruso, VIĆERO and Anton Jonathan. Next up: Club Frau Holle, Hamburg on Sat 1 Aug.
 
@@ -25,4 +25,4 @@ Robert Brescan is a minimal and tech house artist based in Germany, tracked on s
 
 Alex Caruso, VIĆERO, Anton Jonathan
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/robertbrescan/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/robertbrescan/)*

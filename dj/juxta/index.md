@@ -1,6 +1,6 @@
 # JUXTA
 
-JUXTA is a Tech House and Minimal Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 28 Jul 2026, next at Amber's, Manchester on Sat, 1 Aug 2026.
+JUXTA is a Tech House and Minimal Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at Amber's, Manchester on Sat, 1 Aug 2026.
 
 JUXTA is a tech house and minimal techno artist tracked on soundcheck, with 3 sets logged across London and Manchester. Often billed alongside Connor Male, Dig This and Grace Sands. Next up: Amber's, Manchester on Sat 1 Aug.
 
@@ -19,4 +19,4 @@ JUXTA is a tech house and minimal techno artist tracked on soundcheck, with 3 se
 
 Connor Male, Dig This, Grace Sands
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/juxta/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/juxta/)*

@@ -1,6 +1,6 @@
 # Clint Lee
 
-Clint Lee is a House and Afro House artist with 1 upcoming club date listed on soundcheck as of Tue, 28 Jul 2026, next at Beachouse, Ibiza on Wed, 29 Jul 2026.
+Clint Lee is a House and Afro House artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at Beachouse, Ibiza on Wed, 29 Jul 2026.
 
 Clint Lee is a house and afro house artist tracked on soundcheck, with 26 sets logged across Ibiza, Istanbul and Mykonos. Often billed alongside Satori, ETNA and MËSTIZA. Next up: Beachouse, Ibiza on Wed 29 Jul.
 
@@ -25,4 +25,4 @@ Clint Lee is a house and afro house artist tracked on soundcheck, with 26 sets l
 
 Satori, ETNA, MËSTIZA
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/clintlee/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/clintlee/)*

@@ -1,6 +1,6 @@
 # Shallou
 
-Shallou is a House and Ambient artist with 1 upcoming club date listed on soundcheck as of Tue, 28 Jul 2026, next at Westlight Rooftop at The William Vale, New York City on Fri, 7 Aug 2026.
+Shallou is a House and Ambient artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at Westlight Rooftop at The William Vale, New York City on Fri, 7 Aug 2026.
 
 Shallou is a house and ambient artist tracked on soundcheck, with 14 sets logged across Austin, Chicago, Losangeles and Newyorkcity and 3 more. Often billed alongside Bakermat, Chromeo and Blonde Maze. Next up: Westlight Rooftop at The William Vale, Newyorkcity on Fri 7 Aug.
 
@@ -25,4 +25,4 @@ Shallou is a house and ambient artist tracked on soundcheck, with 14 sets logged
 
 Bakermat, Chromeo, Blonde Maze
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/shallou/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/shallou/)*

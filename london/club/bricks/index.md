@@ -1,6 +1,6 @@
 # Bricks
 
-Bricks is a music venue in London with 7 upcoming nights listed on soundcheck as of Tue, 28 Jul 2026; the next is "SYCAMORE.club" on Fri, 31 Jul 2026.
+Bricks is a music venue in London with 7 upcoming nights listed on soundcheck as of Wed, 29 Jul 2026; the next is "SYCAMORE.club" on Fri, 31 Jul 2026.
 
 Bricks is a music venue in London listed on soundcheck. 7 upcoming nights, with line-ups including Alfaz, BIDOIS, DJ Leeloo and Henson and 2 more. Browse upcoming dates, start times and who's playing. 414 Coldharbour Lane, London, United Kingdom SW9 8LF.
 
@@ -20,4 +20,4 @@ Bricks is a music venue in London listed on soundcheck. 7 upcoming nights, with 
 
 414 Coldharbour Lane, London, United Kingdom SW9 8LF, London
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/london/club/bricks/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/london/club/bricks/)*

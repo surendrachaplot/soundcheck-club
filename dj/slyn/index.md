@@ -1,6 +1,6 @@
 # slyn
 
-slyn is a Techno and Electro artist with 1 upcoming club date listed on soundcheck as of Tue, 28 Jul 2026, next at Aaja Basement, London on Sat, 15 Aug 2026.
+slyn is a Techno and Electro artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at Aaja Basement, London on Sat, 15 Aug 2026.
 
 slyn is a techno and electro artist based in Netherlands, tracked on soundcheck, with 48 sets logged across Amsterdam, Berlin, Glasgow and London and 2 more. Often billed alongside JayJay, Noise Hz and Akimat. Next up: Aaja Basement, London on Sat 15 Aug.
 
@@ -25,4 +25,4 @@ slyn is a techno and electro artist based in Netherlands, tracked on soundcheck,
 
 JayJay, Noise Hz, Akimat
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/slyn/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/slyn/)*

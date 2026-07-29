@@ -1,6 +1,6 @@
 # Shuta
 
-Shuta is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 28 Jul 2026, next at Live Haus, Tokyo on Sat, 1 Aug 2026.
+Shuta is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at Live Haus, Tokyo on Sat, 1 Aug 2026.
 
 Shuta is a house and techno artist based in Japan, tracked on soundcheck, with 16 sets logged across Tokyo. Often billed alongside 35DH-1, COSMOGANG and Chrumi. Next up: Live Haus, Tokyo on Sat 1 Aug.
 
@@ -25,4 +25,4 @@ Shuta is a house and techno artist based in Japan, tracked on soundcheck, with 1
 
 35DH-1, COSMOGANG, Chrumi
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/shuta/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/shuta/)*

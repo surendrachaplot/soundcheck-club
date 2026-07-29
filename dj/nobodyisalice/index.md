@@ -1,6 +1,6 @@
 # NOBODYISALICE
 
-NOBODYISALICE is a House and Electro artist with 2 upcoming club dates listed on soundcheck as of Tue, 28 Jul 2026, next at TBA - Studio Stereo, close to pl. Catalunya, 08007, Barcelona, Barcelona on Thu, 30 Jul 2026.
+NOBODYISALICE is a House and Electro artist with 2 upcoming club dates listed on soundcheck as of Wed, 29 Jul 2026, next at TBA - Studio Stereo, close to pl. Catalunya, 08007, Barcelona, Barcelona on Thu, 30 Jul 2026.
 
 NOBODYISALICE is a house and electro artist based in Spain, tracked on soundcheck, with 26 sets logged across Barcelona. Often billed alongside Lauriee, PAZ WAZ HERE and XipNoize. Next up: TBA - Studio Stereo, close to pl. Catalunya, 08007, Barcelona, Barcelona on Thu 30 Jul.
 
@@ -26,4 +26,4 @@ NOBODYISALICE is a house and electro artist based in Spain, tracked on soundchec
 
 Lauriee, PAZ WAZ HERE, XipNoize
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/nobodyisalice/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/nobodyisalice/)*

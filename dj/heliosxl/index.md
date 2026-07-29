@@ -1,6 +1,6 @@
 # Helios XL
 
-Helios XL is a Jungle and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 28 Jul 2026, next at The Pantry, Singapore on Sat, 8 Aug 2026.
+Helios XL is a Jungle and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at The Pantry, Singapore on Sat, 8 Aug 2026.
 
 Helios XL is a jungle and techno artist based in Singapore, tracked on soundcheck, with 25 sets logged across Hongkong, Kualalumpur and Singapore. Often billed alongside Dexter Colt, TASHASAN and MIA (MY). Next up: The Pantry, Singapore on Sat 8 Aug.
 
@@ -25,4 +25,4 @@ Helios XL is a jungle and techno artist based in Singapore, tracked on soundchec
 
 Dexter Colt, TASHASAN, MIA (MY)
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/heliosxl/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/heliosxl/)*

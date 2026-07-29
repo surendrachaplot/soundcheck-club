@@ -1,6 +1,6 @@
 # The Ulster Sports Club
 
-The Ulster Sports Club is a music venue in Belfast with 11 upcoming nights listed on soundcheck as of Tue, 28 Jul 2026; the next is "head above water // Welcomes Timmy Stewart" on Fri, 31 Jul 2026.
+The Ulster Sports Club is a music venue in Belfast with 11 upcoming nights listed on soundcheck as of Wed, 29 Jul 2026; the next is "head above water // Welcomes Timmy Stewart" on Fri, 31 Jul 2026.
 
 The Ulster Sports Club is a music venue in Belfast listed on soundcheck. 11 upcoming nights, with line-ups including Adam Munn, Blark, brawni and ByPhil and 2 more. Browse upcoming dates, start times and who's playing. The Ulster Sports Club 98 High St, Belfast BT1 2BE, Northern Ireland, United Kingdom.
 
@@ -23,4 +23,4 @@ The Ulster Sports Club is a music venue in Belfast listed on soundcheck. 11 upco
 
 The Ulster Sports Club 98 High St, Belfast BT1 2BE, Northern Ireland, United Kingdom, Belfast
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/belfast/club/the-ulster-sports-club/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/belfast/club/the-ulster-sports-club/)*

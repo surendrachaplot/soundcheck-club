@@ -1,6 +1,6 @@
 # Jason Voon
 
-Jason Voon is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Tue, 28 Jul 2026, next at Under9, Kuala Lumpur on Sat, 1 Aug 2026.
+Jason Voon is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at Under9, Kuala Lumpur on Sat, 1 Aug 2026.
 
 Jason Voon is a techno and house artist based in Malaysia, tracked on soundcheck, with 42 sets logged across Bali, Bangkok, Kualalumpur and Singapore. Often billed alongside Jaehaan, 96000hz and Greystick. Next up: Under9, Kualalumpur on Sat 1 Aug.
 
@@ -25,4 +25,4 @@ Jason Voon is a techno and house artist based in Malaysia, tracked on soundcheck
 
 Jaehaan, 96000hz, Greystick
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/jasonvoon/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/jasonvoon/)*

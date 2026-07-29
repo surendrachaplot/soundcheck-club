@@ -1,6 +1,6 @@
 # YARIS (2)
 
-YARIS (2) is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Tue, 28 Jul 2026, next at The Marcus Ward, Belfast on Sat, 1 Aug 2026.
+YARIS (2) is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at The Marcus Ward, Belfast on Sat, 1 Aug 2026.
 
 YARIS (2) is a techno and house artist based in United Kingdom, tracked on soundcheck, with 2 sets logged across Belfast. Often billed alongside KACPER, CLERK. and Casual. Next up: The Marcus Ward, Belfast on Sat 1 Aug.
 
@@ -18,4 +18,4 @@ YARIS (2) is a techno and house artist based in United Kingdom, tracked on sound
 
 KACPER, CLERK., Casual
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/yaris-2/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/yaris-2/)*

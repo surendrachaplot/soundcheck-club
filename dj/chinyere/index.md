@@ -1,6 +1,6 @@
 # Chinyere
 
-Chinyere is a House and Funk / Soul artist with 1 upcoming club date listed on soundcheck as of Tue, 28 Jul 2026, next at Südpol, Hamburg on Sat, 1 Aug 2026.
+Chinyere is a House and Funk / Soul artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at Südpol, Hamburg on Sat, 1 Aug 2026.
 
 Chinyere is a house and funk / soul artist based in Germany, tracked on soundcheck, with 32 sets logged across Berlin and Hamburg. Often billed alongside Cho Room, fluence and Laetizia. Next up: Südpol, Hamburg on Sat 1 Aug.
 
@@ -25,4 +25,4 @@ Chinyere is a house and funk / soul artist based in Germany, tracked on soundche
 
 Cho Room, fluence, Laetizia
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/chinyere/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/chinyere/)*

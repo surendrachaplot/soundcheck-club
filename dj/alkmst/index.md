@@ -1,6 +1,6 @@
 # ALKMST
 
-ALKMST is a House and Electronica artist with 1 upcoming club date listed on soundcheck as of Tue, 28 Jul 2026, next at 3oz Dive Club, San Diego on Fri, 31 Jul 2026.
+ALKMST is a House and Electronica artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at 3oz Dive Club, San Diego on Fri, 31 Jul 2026.
 
 ALKMST is a house and electronica artist tracked on soundcheck, with 62 sets logged across Austin, Boston, Chicago and Losangeles and 4 more. Often billed alongside Krane, Annika Wolfe and Arthur Onni. Next up: 3oz Dive Club, Sandiego on Fri 31 Jul.
 
@@ -25,4 +25,4 @@ ALKMST is a house and electronica artist tracked on soundcheck, with 62 sets log
 
 Krane, Annika Wolfe, Arthur Onni
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/alkmst/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/alkmst/)*

@@ -1,6 +1,6 @@
 # Kuduxxti
 
-Kuduxxti is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 28 Jul 2026, next at BLITZ, Munich on Fri, 31 Jul 2026.
+Kuduxxti is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at BLITZ, Munich on Fri, 31 Jul 2026.
 
 Kuduxxti is a house and techno artist tracked on soundcheck, with 15 sets logged across Munich, Stuttgart and Tbilisi. Often billed alongside Alles Andere, Lavandonia and Muallem. Next up: BLITZ, Munich on Fri 31 Jul.
 
@@ -25,4 +25,4 @@ Kuduxxti is a house and techno artist tracked on soundcheck, with 15 sets logged
 
 Alles Andere, Lavandonia, Muallem
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/kuduxxti/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/kuduxxti/)*

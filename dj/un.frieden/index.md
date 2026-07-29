@@ -1,6 +1,6 @@
 # Un.Frieden
 
-Un.Frieden is a Techno and R&B artist with 1 upcoming club date listed on soundcheck as of Tue, 28 Jul 2026, next at Void Club, Berlin on Fri, 31 Jul 2026.
+Un.Frieden is a Techno and R&B artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at Void Club, Berlin on Fri, 31 Jul 2026.
 
 Un.Frieden is a techno and r&b artist based in Germany, tracked on soundcheck, with 6 sets logged across Berlin. Often billed alongside DJ Parabolspiegel, Flohmarkt and JASSEL. Next up: Void Club, Berlin on Fri 31 Jul.
 
@@ -22,4 +22,4 @@ Un.Frieden is a techno and r&b artist based in Germany, tracked on soundcheck, w
 
 DJ Parabolspiegel, Flohmarkt, JASSEL
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/un.frieden/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/un.frieden/)*

@@ -1,6 +1,6 @@
 # Aaron Leviz
 
-Aaron Leviz is a electronic artist with 1 upcoming club date listed on soundcheck as of Tue, 28 Jul 2026, next at Bahnwärter Thiel, Munich on Thu, 30 Jul 2026.
+Aaron Leviz is a electronic artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at Bahnwärter Thiel, Munich on Thu, 30 Jul 2026.
 
 Aaron Leviz is an electronic artist based in Germany, tracked on soundcheck, with 14 sets logged across Amsterdam, Berlin and Munich. Often billed alongside RIØ (DE), Sarica and Juan.Caballo. Next up: Bahnwärter Thiel, Munich on Thu 30 Jul.
 
@@ -25,4 +25,4 @@ Aaron Leviz is an electronic artist based in Germany, tracked on soundcheck, wit
 
 RIØ (DE), Sarica, Juan.Caballo
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/aaronleviz/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/aaronleviz/)*

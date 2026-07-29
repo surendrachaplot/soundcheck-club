@@ -1,6 +1,6 @@
 # Lucia Lu
 
-Lucia Lu is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Tue, 28 Jul 2026, next at Grelle Forelle, Vienna on Fri, 4 Sept 2026.
+Lucia Lu is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at Grelle Forelle, Vienna on Fri, 4 Sept 2026.
 
 Lucia Lu is a techno and house artist based in Germany, tracked on soundcheck, with 128 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 36 more. Often billed alongside Charlie Sparks, 999999999 and DJ Hyperdrive. Next up: Grelle Forelle, Vienna on Fri 4 Sept.
 
@@ -25,4 +25,4 @@ Lucia Lu is a techno and house artist based in Germany, tracked on soundcheck, w
 
 Charlie Sparks, 999999999, DJ Hyperdrive
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/lucialu/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/lucialu/)*

@@ -1,6 +1,6 @@
 # Levi Swarn (2)
 
-Levi Swarn (2) is a Tech House and House artist with 1 upcoming club date listed on soundcheck as of Tue, 28 Jul 2026, next at Lab11, Birmingham on Sat, 8 Aug 2026.
+Levi Swarn (2) is a Tech House and House artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at Lab11, Birmingham on Sat, 8 Aug 2026.
 
 Levi Swarn (2) is a tech house and house artist tracked on soundcheck, with 16 sets logged across Amsterdam, Birmingham, Ibiza and London and 2 more. Often billed alongside Ryan Resso, Chopper (UK) and Stef Davidse. Next up: Lab11, Birmingham on Sat 8 Aug.
 
@@ -25,4 +25,4 @@ Levi Swarn (2) is a tech house and house artist tracked on soundcheck, with 16 s
 
 Ryan Resso, Chopper (UK), Stef Davidse
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/leviswarn-2/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/leviswarn-2/)*

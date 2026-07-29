@@ -1,6 +1,6 @@
 # Stereo
 
-Stereo is a music venue in Montreal with 11 upcoming nights listed on soundcheck as of Tue, 28 Jul 2026; the next is "Adiel - Bianca Badita" on Fri, 31 Jul 2026.
+Stereo is a music venue in Montreal with 11 upcoming nights listed on soundcheck as of Wed, 29 Jul 2026; the next is "Adiel - Bianca Badita" on Fri, 31 Jul 2026.
 
 Stereo is a music venue in Montreal listed on soundcheck. 11 upcoming nights, with line-ups including Abel Aguilera, Adiel, Avision and Bianca Badita and 2 more. Browse upcoming dates, start times and who's playing. 858 Saint-Catherine Street East; Montreal, QC H2L 2E3; Canada.
 
@@ -23,4 +23,4 @@ Stereo is a music venue in Montreal listed on soundcheck. 11 upcoming nights, wi
 
 858 Saint-Catherine Street East; Montreal, QC H2L 2E3; Canada, Montreal
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/montreal/club/stereo/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/montreal/club/stereo/)*

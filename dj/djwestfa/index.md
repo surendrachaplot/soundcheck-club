@@ -1,6 +1,6 @@
 # DJ Westfa
 
-DJ Westfa is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 28 Jul 2026, next at Melkweg, Amsterdam on Fri, 7 Aug 2026.
+DJ Westfa is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at Melkweg, Amsterdam on Fri, 7 Aug 2026.
 
 DJ Westfa is a house and techno artist based in Germany, tracked on soundcheck, with 67 sets logged across Amsterdam, Berlin, Leipzig and Lisbon and 2 more. Often billed alongside Wendel Sield, JAXX TMS and Garnett. Next up: Melkweg, Amsterdam on Fri 7 Aug.
 
@@ -25,4 +25,4 @@ DJ Westfa is a house and techno artist based in Germany, tracked on soundcheck, 
 
 Wendel Sield, JAXX TMS, Garnett
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/djwestfa/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/djwestfa/)*

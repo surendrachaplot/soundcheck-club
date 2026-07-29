@@ -1,6 +1,6 @@
 # Chloe Martinez
 
-Chloe Martinez is a Techno and Tech House artist with 1 upcoming club date listed on soundcheck as of Tue, 28 Jul 2026, next at Village du Soir, Geneva on Fri, 31 Jul 2026.
+Chloe Martinez is a Techno and Tech House artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at Village du Soir, Geneva on Fri, 31 Jul 2026.
 
 Chloe Martinez is a techno and tech house artist based in France, tracked on soundcheck, with 22 sets logged across Amsterdam and Geneva. Often billed alongside La Forêt, ANouch and DJ Reas. Next up: Village du Soir, Geneva on Fri 31 Jul.
 
@@ -25,4 +25,4 @@ Chloe Martinez is a techno and tech house artist based in France, tracked on sou
 
 La Forêt, ANouch, DJ Reas
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/chloemartinez/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/chloemartinez/)*

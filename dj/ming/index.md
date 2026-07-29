@@ -1,6 +1,6 @@
 # Ming
 
-Ming is a Tech House and House artist with 1 upcoming club date listed on soundcheck as of Tue, 28 Jul 2026, next at Butter, San Francisco/Oakland on Sun, 2 Aug 2026.
+Ming is a Tech House and House artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at Butter, San Francisco/Oakland on Sun, 2 Aug 2026.
 
 Ming is a tech house and house artist based in United States of America, tracked on soundcheck, with 1 set logged across Sanfrancisco. Often billed alongside Jeff Straw. Next up: Butter, Sanfrancisco on Sun 2 Aug.
 
@@ -14,4 +14,4 @@ Ming is a tech house and house artist based in United States of America, tracked
 
 Jeff Straw
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/ming/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/ming/)*

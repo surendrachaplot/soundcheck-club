@@ -1,6 +1,6 @@
 # Paul St. Hilaire
 
-Paul St. Hilaire is a Dub and Dub Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 28 Jul 2026, next at Karmen Camina, Strasbourg on Fri, 18 Sept 2026.
+Paul St. Hilaire is a Dub and Dub Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at Karmen Camina, Strasbourg on Fri, 18 Sept 2026.
 
 Paul St. Hilaire is a dub and dub techno artist based in Dominican Republic, tracked on soundcheck, with 7 sets logged across Berlin, Brussels, Glasgow and London and 2 more. Often billed alongside Tikiman, Deadbeat and Richard Akingbehin. Next up: Karmen Camina, Strasbourg on Fri 18 Sept.
 
@@ -23,4 +23,4 @@ Paul St. Hilaire is a dub and dub techno artist based in Dominican Republic, tra
 
 Tikiman, Deadbeat, Richard Akingbehin
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/paulsthilaire/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/paulsthilaire/)*

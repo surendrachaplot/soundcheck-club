@@ -1,6 +1,6 @@
 # nap(JP)
 
-nap(JP) is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 28 Jul 2026, next at West Harlem, Kyoto on Fri, 31 Jul 2026.
+nap(JP) is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at West Harlem, Kyoto on Fri, 31 Jul 2026.
 
 nap(JP) is a house and techno artist based in Japan, tracked on soundcheck, with 14 sets logged across Kyoto and Osaka. Often billed alongside ish (JP), Kross Section and kimryo. Next up: West Harlem, Kyoto on Fri 31 Jul.
 
@@ -25,4 +25,4 @@ nap(JP) is a house and techno artist based in Japan, tracked on soundcheck, with
 
 ish (JP), Kross Section, kimryo
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/napjp/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/napjp/)*

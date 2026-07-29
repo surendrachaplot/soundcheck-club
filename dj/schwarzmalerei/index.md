@@ -1,6 +1,6 @@
 # Schwarzmalerei
 
-Schwarzmalerei is a Ambient and Electronica artist with 1 upcoming club date listed on soundcheck as of Tue, 28 Jul 2026, next at ://about blank, Berlin on Thu, 30 Jul 2026.
+Schwarzmalerei is a Ambient and Electronica artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at ://about blank, Berlin on Thu, 30 Jul 2026.
 
 Schwarzmalerei is an ambient and electronica artist based in Germany, tracked on soundcheck, with 5 sets logged across Berlin and Prague. Often billed alongside Romi, Stereo (2) and Alejandro Mosso. Next up: ://about blank, Berlin on Thu 30 Jul.
 
@@ -21,4 +21,4 @@ Schwarzmalerei is an ambient and electronica artist based in Germany, tracked on
 
 Romi, Stereo (2), Alejandro Mosso
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/schwarzmalerei/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/schwarzmalerei/)*

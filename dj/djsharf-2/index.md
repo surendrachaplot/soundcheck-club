@@ -1,6 +1,6 @@
 # DJ Sharf
 
-DJ Sharf is a Techno and Electronica artist with 1 upcoming club date listed on soundcheck as of Tue, 28 Jul 2026, next at Paragon, New York City on Fri, 11 Sept 2026.
+DJ Sharf is a Techno and Electronica artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at Paragon, New York City on Fri, 11 Sept 2026.
 
 DJ Sharf is a techno and electronica artist based in United States of America, tracked on soundcheck, with 28 sets logged across Miami and Newyorkcity. Often billed alongside Katie Rex, LISAS and Sausha. Next up: Paragon, Newyorkcity on Fri 11 Sept.
 
@@ -25,4 +25,4 @@ DJ Sharf is a techno and electronica artist based in United States of America, t
 
 Katie Rex, LISAS, Sausha
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/djsharf-2/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/djsharf-2/)*

@@ -1,14 +1,13 @@
 # DJ Bar Bridge Shinjuku
 
-DJ Bar Bridge Shinjuku is a music venue in Tokyo with 46 upcoming nights listed on soundcheck as of Tue, 28 Jul 2026; the next is "Toshiyuki Goto & Dubyama Jazzo" on Tue, 28 Jul 2026.
+DJ Bar Bridge Shinjuku is a music venue in Tokyo with 45 upcoming nights listed on soundcheck as of Wed, 29 Jul 2026; the next is "CMT, MOYO & SKNHDZ" on Wed, 29 Jul 2026.
 
-DJ Bar Bridge Shinjuku is a music venue in Tokyo listed on soundcheck. 46 upcoming nights, with line-ups including 7e, Dazzle Drums, Dictionally and DJ Nori and 2 more. Browse upcoming dates, start times and who's playing. B1F KADO BILD., 2-19-9 SHINJUKU, SHINJUKU-KU, Tokyo Japan.
+DJ Bar Bridge Shinjuku is a music venue in Tokyo listed on soundcheck. 45 upcoming nights, with line-ups including 7e, Dazzle Drums, Dictionally and DJ Nori and 2 more. Browse upcoming dates, start times and who's playing. B1F KADO BILD., 2-19-9 SHINJUKU, SHINJUKU-KU, Tokyo Japan.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Tue, 28 Jul 2026 | Toshiyuki Goto & Dubyama Jazzo | Toshiyuki Goto |
 | Wed, 29 Jul 2026 | CMT, MOYO & SKNHDZ | SKNHDZ |
 | Thu, 30 Jul 2026 | SHOWHEY, JUJUMARU & shochan |  |
 | Fri, 31 Jul 2026 | wOrld connection - DJ JON SA TRINXA Japan tour 2026 - |  |
@@ -18,9 +17,10 @@ DJ Bar Bridge Shinjuku is a music venue in Tokyo listed on soundcheck. 46 upcomi
 | Thu, 6 Aug 2026 | PIRANHA, MINAMI & monielu.h | MINAMI, PIRANHA, monielu.h |
 | Sat, 8 Aug 2026 | SHOWHEY, MALKÖ & Gyusco | Gyusco, MALKÖ |
 | Mon, 10 Aug 2026 | ZUKIE |  |
+| Tue, 11 Aug 2026 | Toshiyuki Goto & TSU→ | Toshiyuki Goto |
 
 ## Address
 
 B1F KADO BILD., 2-19-9 SHINJUKU, SHINJUKU-KU, Tokyo Japan, Tokyo
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/dj-bar-bridge-shinjuku/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/dj-bar-bridge-shinjuku/)*

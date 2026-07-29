@@ -1,6 +1,6 @@
 # Sol tornasol
 
-Sol tornasol is a Club and House artist with 2 upcoming club dates listed on soundcheck as of Tue, 28 Jul 2026, next at TBA - Studio DB, Berlin on Thu, 30 Jul 2026.
+Sol tornasol is a Club and House artist with 2 upcoming club dates listed on soundcheck as of Wed, 29 Jul 2026, next at TBA - Studio DB, Berlin on Thu, 30 Jul 2026.
 
 Sol tornasol is a club and house artist based in Colombia, tracked on soundcheck, with 11 sets logged across Barcelona, Berlin, Madrid and Mexicocity and 1 more. Often billed alongside EDGAR KERRI, LOVEFOXY and Miqui Brightside. Next up: TBA - Studio DB, Berlin on Thu 30 Jul.
 
@@ -26,4 +26,4 @@ Sol tornasol is a club and house artist based in Colombia, tracked on soundcheck
 
 EDGAR KERRI, LOVEFOXY, Miqui Brightside
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/soltornasol/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/soltornasol/)*

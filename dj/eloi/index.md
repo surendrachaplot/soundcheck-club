@@ -1,6 +1,6 @@
 # Eloi
 
-Eloi is a Electro and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 28 Jul 2026, next at Super5, Lyon on Wed, 29 Jul 2026.
+Eloi is a Electro and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at Super5, Lyon on Wed, 29 Jul 2026.
 
 Eloi is an electro and techno artist based in France, tracked on soundcheck, with 12 sets logged across Brussels, Geneva, Hamburg and Lisbon and 4 more. Often billed alongside SHAY, AGY3NA and Alexi Shell. Next up: Super5, Lyon on Wed 29 Jul.
 
@@ -25,4 +25,4 @@ Eloi is an electro and techno artist based in France, tracked on soundcheck, wit
 
 SHAY, AGY3NA, Alexi Shell
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/eloi/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/eloi/)*

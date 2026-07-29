@@ -1,6 +1,6 @@
 # Omar+
 
-Omar+ is a House and Tech House artist with 5 upcoming club dates listed on soundcheck as of Tue, 28 Jul 2026, next at [UNVRS], Ibiza on Wed, 29 Jul 2026.
+Omar+ is a House and Tech House artist with 5 upcoming club dates listed on soundcheck as of Wed, 29 Jul 2026, next at [UNVRS], Ibiza on Wed, 29 Jul 2026.
 
 Omar+ is a house and tech house artist tracked on soundcheck, with 65 sets logged across Aberdeen, Amsterdam, Barcelona and Birmingham and 26 more. Often billed alongside Obskur, Joss Dean and Prospa. Next up: [UNVRS], Ibiza on Wed 29 Jul.
 
@@ -29,4 +29,4 @@ Omar+ is a house and tech house artist tracked on soundcheck, with 65 sets logge
 
 Obskur, Joss Dean, Prospa
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/omar+/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/omar+/)*

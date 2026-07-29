@@ -1,6 +1,6 @@
 # Daisuke Kazaoka
 
-Daisuke Kazaoka is a Dub and Pop artist with 1 upcoming club date listed on soundcheck as of Tue, 28 Jul 2026, next at 88block, Tokyo on Fri, 31 Jul 2026.
+Daisuke Kazaoka is a Dub and Pop artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at 88block, Tokyo on Fri, 31 Jul 2026.
 
 Daisuke Kazaoka is a dub and pop artist based in Japan, tracked on soundcheck, with 5 sets logged across Tokyo. Often billed alongside DJ B2B, Dawn Ever and HAYATE. Next up: 88block, Tokyo on Fri 31 Jul.
 
@@ -21,4 +21,4 @@ Daisuke Kazaoka is a dub and pop artist based in Japan, tracked on soundcheck, w
 
 DJ B2B, Dawn Ever, HAYATE
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/daisukekazaoka/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/daisukekazaoka/)*

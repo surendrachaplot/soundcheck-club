@@ -1,6 +1,6 @@
 # Sophie Forrest
 
-Sophie Forrest is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Tue, 28 Jul 2026, next at QQQ ST. Park, Melbourne on Fri, 31 Jul 2026.
+Sophie Forrest is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at QQQ ST. Park, Melbourne on Fri, 31 Jul 2026.
 
 Sophie Forrest is a techno and house artist based in Australia, tracked on soundcheck, with 43 sets logged across Melbourne and Sydney. Often billed alongside Mike Callander, 3rd Orbit and Jo Christy. Next up: QQQ ST. Park, Melbourne on Fri 31 Jul.
 
@@ -25,4 +25,4 @@ Sophie Forrest is a techno and house artist based in Australia, tracked on sound
 
 Mike Callander, 3rd Orbit, Jo Christy
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/sophieforrest/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/sophieforrest/)*

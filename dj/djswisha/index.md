@@ -1,6 +1,6 @@
 # DJ SWISHA
 
-DJ SWISHA is a Techno and House artist with 6 upcoming club dates listed on soundcheck as of Tue, 28 Jul 2026, next at TBA - Downtown, Los Angeles on Thu, 30 Jul 2026.
+DJ SWISHA is a Techno and House artist with 6 upcoming club dates listed on soundcheck as of Wed, 29 Jul 2026, next at TBA - Downtown, Los Angeles on Thu, 30 Jul 2026.
 
 DJ SWISHA is a techno and house artist tracked on soundcheck, with 187 sets logged across Amsterdam, Auckland, Austin and Barcelona and 42 more. Often billed alongside Kush Jones, AceMo and MoMA Ready. Next up: TBA - Downtown, Losangeles on Thu 30 Jul.
 
@@ -30,4 +30,4 @@ DJ SWISHA is a techno and house artist tracked on soundcheck, with 187 sets logg
 
 Kush Jones, AceMo, MoMA Ready
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/djswisha/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/djswisha/)*

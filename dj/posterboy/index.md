@@ -1,6 +1,6 @@
 # Posterboy
 
-Posterboy is a Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 28 Jul 2026, next at Yamamori Tengu, Dublin on Fri, 21 Aug 2026.
+Posterboy is a Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at Yamamori Tengu, Dublin on Fri, 21 Aug 2026.
 
 Posterboy is a techno artist based in Ireland, tracked on soundcheck, with 8 sets logged across Dublin. Often billed alongside Derv, Ayolxi and Jon Hussey. Next up: Yamamori Tengu, Dublin on Fri 21 Aug.
 
@@ -24,4 +24,4 @@ Posterboy is a techno artist based in Ireland, tracked on soundcheck, with 8 set
 
 Derv, Ayolxi, Jon Hussey
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/posterboy/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/posterboy/)*

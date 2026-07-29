@@ -1,6 +1,6 @@
 # Stephen Brown
 
-Stephen Brown is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Tue, 28 Jul 2026, next at The Safari Lounge, Edinburgh on Fri, 31 Jul 2026.
+Stephen Brown is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at The Safari Lounge, Edinburgh on Fri, 31 Jul 2026.
 
 Stephen Brown is a techno and house artist based in United Kingdom, tracked on soundcheck, with 20 sets logged across Edinburgh, Glasgow, Hamburg and London and 1 more. Often billed alongside Keyte, Frazi.er and Jack Brown (2). Next up: The Safari Lounge, Edinburgh on Fri 31 Jul.
 
@@ -25,4 +25,4 @@ Stephen Brown is a techno and house artist based in United Kingdom, tracked on s
 
 Keyte, Frazi.er, Jack Brown (2)
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/stephenbrown/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/stephenbrown/)*

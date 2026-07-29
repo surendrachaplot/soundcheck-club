@@ -1,6 +1,6 @@
 # CYRK
 
-CYRK is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Tue, 28 Jul 2026, next at Phantom Bar Berlin, Berlin on Thu, 30 Jul 2026.
+CYRK is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at Phantom Bar Berlin, Berlin on Thu, 30 Jul 2026.
 
 CYRK is a techno and house artist based in Germany, tracked on soundcheck, with 29 sets logged across Bali, Bangkok, Berlin and Ibiza and 7 more. Often billed alongside Jorkes, Muallem and Sedef Adasï. Next up: Phantom Bar Berlin, Berlin on Thu 30 Jul.
 
@@ -25,4 +25,4 @@ CYRK is a techno and house artist based in Germany, tracked on soundcheck, with 
 
 Jorkes, Muallem, Sedef Adasï
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/cyrk-de/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/cyrk-de/)*

@@ -1,6 +1,6 @@
 # BABY-B
 
-BABY-B is a Club and Baile Funk artist with 1 upcoming club date listed on soundcheck as of Tue, 28 Jul 2026, next at Wanderlust, Paris on Thu, 30 Jul 2026.
+BABY-B is a Club and Baile Funk artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at Wanderlust, Paris on Thu, 30 Jul 2026.
 
 BABY-B is a club and baile funk artist based in France, tracked on soundcheck, with 14 sets logged across Manchester, Paris and Strasbourg. Often billed alongside Olympe4000, Lüma-G and Stella K. Next up: Wanderlust, Paris on Thu 30 Jul.
 
@@ -25,4 +25,4 @@ BABY-B is a club and baile funk artist based in France, tracked on soundcheck, w
 
 Olympe4000, Lüma-G, Stella K
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/baby-b/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/baby-b/)*

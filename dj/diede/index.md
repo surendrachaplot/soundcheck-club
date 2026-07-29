@@ -1,6 +1,6 @@
 # DIEDE
 
-DIEDE is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 28 Jul 2026, next at BRET, Amsterdam on Sat, 1 Aug 2026.
+DIEDE is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at BRET, Amsterdam on Sat, 1 Aug 2026.
 
 DIEDE is a house and techno artist based in Netherlands, tracked on soundcheck, with 18 sets logged across Amsterdam, Berlin, Munich and Rotterdam and 1 more. Often billed alongside Basic Instinct, Foghan and GHEIST. Next up: BRET, Amsterdam on Sat 1 Aug.
 
@@ -25,4 +25,4 @@ DIEDE is a house and techno artist based in Netherlands, tracked on soundcheck, 
 
 Basic Instinct, Foghan, GHEIST
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/diede/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/diede/)*

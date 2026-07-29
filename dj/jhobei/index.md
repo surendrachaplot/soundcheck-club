@@ -1,6 +1,6 @@
 # Jhobei
 
-Jhobei is a House and Electro artist with 7 upcoming club dates listed on soundcheck as of Tue, 28 Jul 2026, next at The Fox and Firkin, London on Sat, 1 Aug 2026.
+Jhobei is a House and Electro artist with 7 upcoming club dates listed on soundcheck as of Wed, 29 Jul 2026, next at The Fox and Firkin, London on Sat, 1 Aug 2026.
 
 Jhobei is a house and electro artist based in United Kingdom, tracked on soundcheck, with 66 sets logged across Amsterdam, Barcelona, Berlin and Edinburgh and 9 more. Often billed alongside B.Love, Julian Anthony and Reeshy. Next up: The Fox and Firkin, London on Sat 1 Aug.
 
@@ -31,4 +31,4 @@ Jhobei is a house and electro artist based in United Kingdom, tracked on soundch
 
 B.Love, Julian Anthony, Reeshy
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/jhobei/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/jhobei/)*

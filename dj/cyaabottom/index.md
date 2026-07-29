@@ -1,6 +1,6 @@
 # cyaabottom
 
-cyaabottom is a Gabber and Trance artist with 1 upcoming club date listed on soundcheck as of Tue, 28 Jul 2026, next at Lehmann Club, Stuttgart on Fri, 14 Aug 2026.
+cyaabottom is a Gabber and Trance artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at Lehmann Club, Stuttgart on Fri, 14 Aug 2026.
 
 cyaabottom is a gabber and trance artist based in Germany, tracked on soundcheck, with 11 sets logged across Berlin, Leipzig, Nurnberg and Stuttgart. Often billed alongside Edgerunner, LØUS and Medusa. Next up: Lehmann Club, Stuttgart on Fri 14 Aug.
 
@@ -25,4 +25,4 @@ cyaabottom is a gabber and trance artist based in Germany, tracked on soundcheck
 
 Edgerunner, LØUS, Medusa
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/cyaabottom/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/cyaabottom/)*

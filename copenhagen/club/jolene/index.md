@@ -1,6 +1,6 @@
 # Jolene
 
-Jolene is a music venue in Copenhagen with 4 upcoming nights listed on soundcheck as of Tue, 28 Jul 2026; the next is "Emotional Boys" on Thu, 30 Jul 2026.
+Jolene is a music venue in Copenhagen with 4 upcoming nights listed on soundcheck as of Wed, 29 Jul 2026; the next is "Emotional Boys" on Thu, 30 Jul 2026.
 
 Jolene is a music venue in Copenhagen listed on soundcheck. 4 upcoming nights, with line-ups including Alin, Baltza, Daniel Savi and Dilâ and 2 more. Browse upcoming dates, start times and who's playing. Flaesketorvet 81; Copenhagen V. 1711; Denmark.
 
@@ -17,4 +17,4 @@ Jolene is a music venue in Copenhagen listed on soundcheck. 4 upcoming nights, w
 
 Flaesketorvet 81; Copenhagen V. 1711; Denmark, Copenhagen
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/copenhagen/club/jolene/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/copenhagen/club/jolene/)*

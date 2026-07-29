@@ -1,6 +1,6 @@
 # CALiTALO DiSCO at Make-Out Room
 
-CALiTALO DiSCO at Make-Out Room on Wed 29 Jul, Sanfrancisco. 1 act on the bill: Nino Msk. Acid and Deep House. Preview the line-up and save it on soundcheck.
+CALiTALO DiSCO at Make-Out Room on Wed 29 Jul, Sanfrancisco. 1 act on the bill: Nino Msk. Deep House and Acid. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # logeybear
 
-logeybear is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 28 Jul 2026, next at Lella Alimentari, New York City on Fri, 31 Jul 2026.
+logeybear is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at Lella Alimentari, New York City on Fri, 31 Jul 2026.
 
 logeybear is a house and techno artist based in United States of America, tracked on soundcheck, with 10 sets logged across Newyorkcity. Often billed alongside Scribble, LoKho and Sam Valle. Next up: Lella Alimentari, Newyorkcity on Fri 31 Jul.
 
@@ -25,4 +25,4 @@ logeybear is a house and techno artist based in United States of America, tracke
 
 Scribble, LoKho, Sam Valle
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/logeybear/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/logeybear/)*

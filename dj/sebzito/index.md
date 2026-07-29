@@ -1,6 +1,6 @@
 # Seb Zito
 
-Seb Zito is a House and Tech House artist with 5 upcoming club dates listed on soundcheck as of Tue, 28 Jul 2026, next at Eden, Ibiza on Wed, 29 Jul 2026.
+Seb Zito is a House and Tech House artist with 5 upcoming club dates listed on soundcheck as of Wed, 29 Jul 2026, next at Eden, Ibiza on Wed, 29 Jul 2026.
 
 Seb Zito is a house and tech house artist tracked on soundcheck, with 123 sets logged across Amsterdam, Bali, Barcelona and Belgrade and 27 more. Often billed alongside Rossko, ACA (YU) and East End Dubs. Next up: Eden, Ibiza on Wed 29 Jul.
 
@@ -29,4 +29,4 @@ Seb Zito is a house and tech house artist tracked on soundcheck, with 123 sets l
 
 Rossko, ACA (YU), East End Dubs
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/sebzito/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/sebzito/)*

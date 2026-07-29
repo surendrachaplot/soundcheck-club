@@ -1,14 +1,13 @@
 # East End Dubs
 
-East End Dubs is a House and Tech House artist with 21 upcoming club dates listed on soundcheck as of Tue, 28 Jul 2026, next at Hï Ibiza, Ibiza on Tue, 28 Jul 2026.
+East End Dubs is a House and Tech House artist with 20 upcoming club dates listed on soundcheck as of Wed, 29 Jul 2026, next at Santanna Mykonos, Mykonos on Wed, 29 Jul 2026.
 
-East End Dubs is a house and tech house artist tracked on soundcheck, with 270 sets logged across Amsterdam, Antwerp, Austin and Barcelona and 47 more. Often billed alongside ALISHA, Jamback and Max Dean. Next up: Hï Ibiza, Ibiza on Tue 28 Jul.
+East End Dubs is a house and tech house artist tracked on soundcheck, with 270 sets logged across Amsterdam, Antwerp, Austin and Barcelona and 47 more. Often billed alongside ALISHA, Jamback and Max Dean. Next up: Santanna Mykonos, Mykonos on Wed 29 Jul.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Tue, 28 Jul 2026 | Hï Ibiza | Ibiza |
 | Wed, 29 Jul 2026 | Santanna Mykonos | Mykonos |
 | Sat, 1 Aug 2026 | Malta Fairs & Conventions Centre | Malta |
 | Sun, 2 Aug 2026 | Colorado Charlie | The Hague |
@@ -20,9 +19,11 @@ East End Dubs is a house and tech house artist tracked on soundcheck, with 270 s
 | Tue, 18 Aug 2026 | Hï Ibiza | Ibiza |
 | Tue, 25 Aug 2026 | Hï Ibiza | Ibiza |
 | Sun, 30 Aug 2026 | Jardins de Joan Brossa | Barcelona |
+| Tue, 1 Sept 2026 | Hï Ibiza | Ibiza |
 
 ## Recently played
 
+- Hï Ibiza, Ibiza — Tue, 28 Jul 2026
 - Hï Ibiza, Ibiza — Tue, 21 Jul 2026
 - Sunset Park Rooftop, New York City — Fri, 17 Jul 2026
 - [UNVRS], Ibiza — Wed, 15 Jul 2026
@@ -30,10 +31,9 @@ East End Dubs is a house and tech house artist tracked on soundcheck, with 270 s
 - Hï Ibiza, Ibiza — Tue, 7 Jul 2026
 - Son Fusteret, Mallorca — Sat, 4 Jul 2026
 - Hï Ibiza, Ibiza — Tue, 30 Jun 2026
-- Hï Ibiza, Ibiza — Tue, 23 Jun 2026
 
 ## Shares bills with
 
 ALISHA, Jamback, Max Dean
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/eastenddubs/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/eastenddubs/)*

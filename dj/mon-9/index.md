@@ -1,6 +1,6 @@
 # MON (9)
 
-MON (9) is a Dubstep and R&B artist with 1 upcoming club date listed on soundcheck as of Tue, 28 Jul 2026, next at Bar Oriente, Mexico City on Thu, 30 Jul 2026.
+MON (9) is a Dubstep and R&B artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at Bar Oriente, Mexico City on Thu, 30 Jul 2026.
 
 MON (9) is a dubstep and r&b artist based in United Kingdom, tracked on soundcheck, with 4 sets logged across London, Mexicocity, Sydney and Tokyo. Often billed alongside AMIDAdrive, Andy (1984) and Bobo. Next up: Bar Oriente, Mexicocity on Thu 30 Jul.
 
@@ -20,4 +20,4 @@ MON (9) is a dubstep and r&b artist based in United Kingdom, tracked on soundche
 
 AMIDAdrive, Andy (1984), Bobo
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/mon-9/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/mon-9/)*

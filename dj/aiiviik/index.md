@@ -1,6 +1,6 @@
 # AIIVIIK
 
-AIIVIIK is a Tech House artist with 1 upcoming club date listed on soundcheck as of Tue, 28 Jul 2026, next at Seaseaclub Barcelona, Barcelona on Sat, 1 Aug 2026.
+AIIVIIK is a Tech House artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at Seaseaclub Barcelona, Barcelona on Sat, 1 Aug 2026.
 
 AIIVIIK is a tech house artist based in Spain, tracked on soundcheck, with 1 set logged across Barcelona. Often billed alongside Abdon, Jorgesyn and Kidoo. Next up: Seaseaclub Barcelona, Barcelona on Sat 1 Aug.
 
@@ -14,4 +14,4 @@ AIIVIIK is a tech house artist based in Spain, tracked on soundcheck, with 1 set
 
 Abdon, Jorgesyn, Kidoo
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/aiiviik/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/aiiviik/)*

@@ -1,6 +1,6 @@
 # duboisi
 
-duboisi is a House and Club artist with 1 upcoming club date listed on soundcheck as of Tue, 28 Jul 2026, next at Tendance, Prague on Fri, 31 Jul 2026.
+duboisi is a House and Club artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at Tendance, Prague on Fri, 31 Jul 2026.
 
 duboisi is a house and club artist based in Slovakia, tracked on soundcheck, with 39 sets logged across Prague. Often billed alongside Wuss, Kirill Astra and SAAB. Next up: Tendance, Prague on Fri 31 Jul.
 
@@ -25,4 +25,4 @@ duboisi is a house and club artist based in Slovakia, tracked on soundcheck, wit
 
 Wuss, Kirill Astra, SAAB
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/duboisi/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/duboisi/)*

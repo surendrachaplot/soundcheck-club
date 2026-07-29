@@ -1,13 +1,14 @@
 # .2ndfloor
 
-.2ndfloor is a House and Tech House artist with 2 upcoming club dates listed on soundcheck as of Tue, 28 Jul 2026, next at Nyapi, Seoul on Thu, 20 Aug 2026.
+.2ndfloor is a House and Tech House artist with 3 upcoming club dates listed on soundcheck as of Wed, 29 Jul 2026, next at Modeci, Seoul on Sat, 1 Aug 2026.
 
-.2ndfloor is a house and tech house artist tracked on soundcheck, with 114 sets logged across Seoul. Often billed alongside Lyumin, Young Sun and Mihak. Next up: Nyapi, Seoul on Thu 20 Aug.
+.2ndfloor is a house and tech house artist tracked on soundcheck, with 115 sets logged across Seoul. Often billed alongside Lyumin, Young Sun and Mihak. Next up: Modeci, Seoul on Sat 1 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 1 Aug 2026 | Modeci | Seoul |
 | Thu, 20 Aug 2026 | Nyapi | Seoul |
 | Sat, 29 Aug 2026 | Nyapi | Seoul |
 
@@ -26,4 +27,4 @@
 
 Lyumin, Young Sun, Mihak
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/.2ndfloor/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/.2ndfloor/)*

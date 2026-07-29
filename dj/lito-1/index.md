@@ -1,6 +1,6 @@
 # Lito (1)
 
-Lito (1) is a Tech House and House artist with 1 upcoming club date listed on soundcheck as of Tue, 28 Jul 2026, next at Spin, San Diego on Fri, 31 Jul 2026.
+Lito (1) is a Tech House and House artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at Spin, San Diego on Fri, 31 Jul 2026.
 
 Lito (1) is a tech house and house artist based in France, tracked on soundcheck, with 5 sets logged across Barcelona, Mexicocity and Sandiego. Often billed alongside Arnau, Arnau Ariza and Daniel Joseph. Next up: Spin, Sandiego on Fri 31 Jul.
 
@@ -21,4 +21,4 @@ Lito (1) is a tech house and house artist based in France, tracked on soundcheck
 
 Arnau, Arnau Ariza, Daniel Joseph
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/lito-1/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/lito-1/)*

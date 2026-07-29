@@ -1,6 +1,6 @@
 # RUK (2)
 
-RUK (2) is a Drum & Bass and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 28 Jul 2026, next at TBA - CENNET BAHÇESİ BURGAZADA, Istanbul on Thu, 6 Aug 2026.
+RUK (2) is a Drum & Bass and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at TBA - CENNET BAHÇESİ BURGAZADA, Istanbul on Thu, 6 Aug 2026.
 
 RUK (2) is a drum & bass and techno artist based in Turkey, tracked on soundcheck, with 9 sets logged across Istanbul and Tbilisi. Often billed alongside BERENALP, Semi and Granul. Next up: TBA - CENNET BAHÇESİ BURGAZADA, Istanbul on Thu 6 Aug.
 
@@ -25,4 +25,4 @@ RUK (2) is a drum & bass and techno artist based in Turkey, tracked on soundchec
 
 BERENALP, Semi, Granul
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/ruk-2/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/ruk-2/)*

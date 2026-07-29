@@ -1,6 +1,6 @@
 # Narciss (RO)
 
-Narciss (RO) is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Tue, 28 Jul 2026, next at TBA - Paradies Garten Festival - Schloß Prugg 2, 2460 Gemeinde Bruck an der Leitha, Vienna on Fri, 31 Jul 2026.
+Narciss (RO) is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Wed, 29 Jul 2026, next at TBA - Paradies Garten Festival - Schloß Prugg 2, 2460 Gemeinde Bruck an der Leitha, Vienna on Fri, 31 Jul 2026.
 
 Narciss (RO) is a house and techno artist based in Romania, tracked on soundcheck, with 19 sets logged across Amsterdam, Berlin, Cologne and Leipzig and 8 more. Often billed alongside 36framez, Bambounou and DJ Gigola. Next up: TBA - Paradies Garten Festival - Schloß Prugg 2, 2460 Gemeinde Bruck an der Leitha, Vienna on Fri 31 Jul.
 
@@ -26,4 +26,4 @@ Narciss (RO) is a house and techno artist based in Romania, tracked on soundchec
 
 36framez, Bambounou, DJ Gigola
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/narciss-ro/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/narciss-ro/)*

@@ -1,6 +1,6 @@
 # Lillou
 
-Lillou is a House and Minimal artist with 1 upcoming club date listed on soundcheck as of Tue, 28 Jul 2026, next at Burza #4, Prague on Fri, 31 Jul 2026.
+Lillou is a House and Minimal artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at Burza #4, Prague on Fri, 31 Jul 2026.
 
 Lillou is a house and minimal artist tracked on soundcheck, with 65 sets logged across Prague. Often billed alongside Thomas Tesla, Lucas Hulan and Icarian PB1. Next up: Burza #4, Prague on Fri 31 Jul.
 
@@ -25,4 +25,4 @@ Lillou is a house and minimal artist tracked on soundcheck, with 65 sets logged 
 
 Thomas Tesla, Lucas Hulan, Icarian PB1
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/lillou/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/lillou/)*

@@ -1,6 +1,6 @@
 # Usk°
 
-Usk° is a Techno and Bass artist with 1 upcoming club date listed on soundcheck as of Tue, 28 Jul 2026, next at Secret Venue in Minatoku-Nishiazabu, Tokyo on Fri, 31 Jul 2026.
+Usk° is a Techno and Bass artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at Secret Venue in Minatoku-Nishiazabu, Tokyo on Fri, 31 Jul 2026.
 
 Usk° is a techno and bass artist based in Japan, tracked on soundcheck, with 38 sets logged across Tokyo. Often billed alongside manato, Yuoto Saito and SAITO. Next up: Secret Venue in Minatoku-Nishiazabu, Tokyo on Fri 31 Jul.
 
@@ -25,4 +25,4 @@ Usk° is a techno and bass artist based in Japan, tracked on soundcheck, with 38
 
 manato, Yuoto Saito, SAITO
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/usk-jp/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/usk-jp/)*

@@ -1,6 +1,6 @@
 # Emmanuel K
 
-Emmanuel K is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Tue, 28 Jul 2026, next at Kater, Berlin on Sat, 8 Aug 2026.
+Emmanuel K is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at Kater, Berlin on Sat, 8 Aug 2026.
 
 Emmanuel K is a techno and house artist based in France, tracked on soundcheck, with 3 sets logged across Berlin and Newyorkcity. Often billed alongside ALP (DE), Adriana Ruas and Alfonsvs. Next up: Kater, Berlin on Sat 8 Aug.
 
@@ -19,4 +19,4 @@ Emmanuel K is a techno and house artist based in France, tracked on soundcheck, 
 
 ALP (DE), Adriana Ruas, Alfonsvs
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/emmanuelk/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/emmanuelk/)*

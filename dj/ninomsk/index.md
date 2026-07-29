@@ -1,6 +1,6 @@
 # Nino Msk
 
-Nino Msk is a Italo Disco and Deep House artist with 2 upcoming club dates listed on soundcheck as of Tue, 28 Jul 2026, next at Make-Out Room, San Francisco/Oakland on Wed, 29 Jul 2026.
+Nino Msk is a Italo Disco and Deep House artist with 2 upcoming club dates listed on soundcheck as of Wed, 29 Jul 2026, next at Make-Out Room, San Francisco/Oakland on Wed, 29 Jul 2026.
 
 Nino Msk is an italo disco and deep house artist based in Italy, tracked on soundcheck, with 75 sets logged across Sanfrancisco. Often billed alongside AGROPOL, DJ Panderer and Pap.. Next up: Make-Out Room, Sanfrancisco on Wed 29 Jul.
 
@@ -26,4 +26,4 @@ Nino Msk is an italo disco and deep house artist based in Italy, tracked on soun
 
 AGROPOL, DJ Panderer, Pap.
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/ninomsk/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/ninomsk/)*

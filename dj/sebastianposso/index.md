@@ -1,6 +1,6 @@
 # Sebastian Posso
 
-Sebastian Posso is a Disco and House artist with 1 upcoming club date listed on soundcheck as of Tue, 28 Jul 2026, next at Xanadu, New York City on Sun, 2 Aug 2026.
+Sebastian Posso is a Disco and House artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at Xanadu, New York City on Sun, 2 Aug 2026.
 
 Sebastian Posso is a disco and house artist tracked on soundcheck, with 14 sets logged across Losangeles, Mexicocity and Newyorkcity. Often billed alongside Borbón, JKriv and Aaron Dae. Next up: Xanadu, Newyorkcity on Sun 2 Aug.
 
@@ -25,4 +25,4 @@ Sebastian Posso is a disco and house artist tracked on soundcheck, with 14 sets 
 
 Borbón, JKriv, Aaron Dae
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/sebastianposso/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/sebastianposso/)*

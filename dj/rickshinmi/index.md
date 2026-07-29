@@ -1,6 +1,6 @@
 # Rickshinmi
 
-Rickshinmi is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Tue, 28 Jul 2026, next at Bonobo, Tokyo on Wed, 29 Jul 2026.
+Rickshinmi is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at Bonobo, Tokyo on Wed, 29 Jul 2026.
 
 Rickshinmi is a techno and house artist tracked on soundcheck, with 55 sets logged across Seoul and Tokyo. Often billed alongside EMILIO (3), EVE (1) and KAMIKAZE. Next up: Bonobo, Tokyo on Wed 29 Jul.
 
@@ -25,4 +25,4 @@ Rickshinmi is a techno and house artist tracked on soundcheck, with 55 sets logg
 
 EMILIO (3), EVE (1), KAMIKAZE
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/rickshinmi/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/rickshinmi/)*

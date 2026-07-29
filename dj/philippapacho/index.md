@@ -1,8 +1,8 @@
 # Philippa Pacho
 
-Philippa Pacho is a Techno and House artist with 8 upcoming club dates listed on soundcheck as of Tue, 28 Jul 2026, next at Amsterdamse Bos, Amsterdam on Wed, 29 Jul 2026.
+Philippa Pacho is a Techno and House artist with 9 upcoming club dates listed on soundcheck as of Wed, 29 Jul 2026, next at Amsterdamse Bos, Amsterdam on Wed, 29 Jul 2026.
 
-Philippa Pacho is a techno and house artist tracked on soundcheck, with 210 sets logged across Amsterdam, Antwerp, Athens and Bangkok and 55 more. Often billed alongside Blue Hour, Fadi Mohem and Freddy K. Next up: Amsterdamse Bos, Amsterdam on Wed 29 Jul.
+Philippa Pacho is a techno and house artist tracked on soundcheck, with 211 sets logged across Amsterdam, Antwerp, Athens and Bangkok and 55 more. Often billed alongside Blue Hour, Fadi Mohem and Freddy K. Next up: Amsterdamse Bos, Amsterdam on Wed 29 Jul.
 
 ## Upcoming shows
 
@@ -16,6 +16,7 @@ Philippa Pacho is a techno and house artist tracked on soundcheck, with 210 sets
 | Fri, 14 Aug 2026 | Parc des Etangs/Vijverspark | Brussels |
 | Tue, 22 Sept 2026 | Amnesia Ibiza | Ibiza |
 | Sat, 24 Oct 2026 | H7 Warehouse | Amsterdam |
+| Tue, 27 Oct 2026 | AUX Club | Athens |
 
 ## Recently played
 
@@ -32,4 +33,4 @@ Philippa Pacho is a techno and house artist tracked on soundcheck, with 210 sets
 
 Blue Hour, Fadi Mohem, Freddy K
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/philippapacho/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/philippapacho/)*

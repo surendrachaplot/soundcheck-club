@@ -1,6 +1,6 @@
 # SOLARYTHM
 
-SOLARYTHM is a Techno and Ambient artist with 1 upcoming club date listed on soundcheck as of Tue, 28 Jul 2026, next at La Station - Gare des Mines, Paris on Sat, 1 Aug 2026.
+SOLARYTHM is a Techno and Ambient artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at La Station - Gare des Mines, Paris on Sat, 1 Aug 2026.
 
 SOLARYTHM is a techno and ambient artist based in France, tracked on soundcheck, with 11 sets logged across Berlin, Brussels, London and Marseille and 2 more. Often billed alongside Andy Pi, Aérienne and Bobbi Watson. Next up: La Station - Gare des Mines, Paris on Sat 1 Aug.
 
@@ -25,4 +25,4 @@ SOLARYTHM is a techno and ambient artist based in France, tracked on soundcheck,
 
 Andy Pi, Aérienne, Bobbi Watson
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/solarythm/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/solarythm/)*

@@ -1,6 +1,6 @@
 # B!B!
 
-B!B! is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Tue, 28 Jul 2026, next at Garagen Club, Cologne on Fri, 31 Jul 2026.
+B!B! is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at Garagen Club, Cologne on Fri, 31 Jul 2026.
 
 B!B! is a techno and trance artist based in Germany, tracked on soundcheck, with 6 sets logged across Berlin and Cologne. Often billed alongside Bouncy Bitch, A² and Bass. Next up: Garagen Club, Cologne on Fri 31 Jul.
 
@@ -22,4 +22,4 @@ B!B! is a techno and trance artist based in Germany, tracked on soundcheck, with
 
 Bouncy Bitch, A², Bass
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/b!b!/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/b!b!/)*

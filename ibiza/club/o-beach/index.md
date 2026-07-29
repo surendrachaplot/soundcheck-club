@@ -1,14 +1,13 @@
 # O Beach
 
-O Beach is a music venue in Ibiza with 79 upcoming nights listed on soundcheck as of Tue, 28 Jul 2026; the next is "KISSTORY WITH MATT JAM LAMONT" on Tue, 28 Jul 2026.
+O Beach is a music venue in Ibiza with 78 upcoming nights listed on soundcheck as of Wed, 29 Jul 2026; the next is "HOUSE IN PARADISE" on Wed, 29 Jul 2026.
 
-O Beach is a music venue in Ibiza listed on soundcheck. 79 upcoming nights, with line-ups including A K, Beyond Chicago, Bo Conquest and David Penn and 2 more. Browse upcoming dates, start times and who's playing. Carrer des Molí, 12-14, 07820 Ibiza, Illes Balears, España.
+O Beach is a music venue in Ibiza listed on soundcheck. 78 upcoming nights, with line-ups including A K, Beyond Chicago, Bo Conquest and David Penn and 2 more. Browse upcoming dates, start times and who's playing. Carrer des Molí, 12-14, 07820 Ibiza, Illes Balears, España.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Tue, 28 Jul 2026 | KISSTORY WITH MATT JAM LAMONT | Matt Jam Lamont |
 | Wed, 29 Jul 2026 | HOUSE IN PARADISE | Jamie Love, Perry Martin |
 | Thu, 30 Jul 2026 | O BEACH MUSIC WITH MAJESTIC - BEYOND CHICAGO | Beyond Chicago, Bo Conquest, Majestic |
 | Fri, 31 Jul 2026 | POOL PARTY | Jamie Love, Parris Taylor |
@@ -18,9 +17,10 @@ O Beach is a music venue in Ibiza listed on soundcheck. 79 upcoming nights, with
 | Mon, 3 Aug 2026 | FORWARD MOTION |  |
 | Tue, 4 Aug 2026 | KISSTORY WITH O BEACH RESIDENTS |  |
 | Wed, 5 Aug 2026 | HOUSE IN PARADISE | Jamie Love, Perry Martin |
+| Thu, 6 Aug 2026 | O BEACH MUSIC |  |
 
 ## Address
 
 Carrer des Molí, 12-14, 07820 Ibiza, Illes Balears, España, Ibiza
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/ibiza/club/o-beach/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/ibiza/club/o-beach/)*

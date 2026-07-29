@@ -1,6 +1,6 @@
 # Neksi
 
-Neksi is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Tue, 28 Jul 2026, next at Zu Mir Oder Zu Dir, Berlin on Thu, 30 Jul 2026.
+Neksi is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Wed, 29 Jul 2026, next at Zu Mir Oder Zu Dir, Berlin on Thu, 30 Jul 2026.
 
 Neksi is a house and techno artist based in Romania, tracked on soundcheck, with 6 sets logged across Berlin. Often billed alongside Bärtaub, Elli.on and Frank Furto. Next up: Zu Mir Oder Zu Dir, Berlin on Thu 30 Jul.
 
@@ -22,4 +22,4 @@ Neksi is a house and techno artist based in Romania, tracked on soundcheck, with
 
 Bärtaub, Elli.on, Frank Furto
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/neksi/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/neksi/)*

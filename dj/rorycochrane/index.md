@@ -1,6 +1,6 @@
 # Rory Cochrane
 
-Rory Cochrane is a Deep House and House artist with 1 upcoming club date listed on soundcheck as of Tue, 28 Jul 2026, next at Bike Jesus, Prague on Fri, 31 Jul 2026.
+Rory Cochrane is a Deep House and House artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at Bike Jesus, Prague on Fri, 31 Jul 2026.
 
 Rory Cochrane is a deep house and house artist based in United Kingdom, tracked on soundcheck, with 13 sets logged across Barcelona, London, Newcastle and Prague. Often billed alongside Hunter. S, Dean Mir and Retza. Next up: Bike Jesus, Prague on Fri 31 Jul.
 
@@ -25,4 +25,4 @@ Rory Cochrane is a deep house and house artist based in United Kingdom, tracked 
 
 Hunter. S, Dean Mir, Retza
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/rorycochrane/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/rorycochrane/)*

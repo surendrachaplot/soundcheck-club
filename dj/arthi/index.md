@@ -1,6 +1,6 @@
 # Arthi
 
-Arthi is a Garage and House artist with 1 upcoming club date listed on soundcheck as of Tue, 28 Jul 2026, next at Burgess Park, London on Sun, 2 Aug 2026.
+Arthi is a Garage and House artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at Burgess Park, London on Sun, 2 Aug 2026.
 
 Arthi is a garage and house artist tracked on soundcheck, with 99 sets logged across Amsterdam, Bangkok, Barcelona and Berlin and 26 more. Often billed alongside Bakey, Katy B and Skeptic. Next up: Burgess Park, London on Sun 2 Aug.
 
@@ -25,4 +25,4 @@ Arthi is a garage and house artist tracked on soundcheck, with 99 sets logged ac
 
 Bakey, Katy B, Skeptic
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/arthi/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/arthi/)*

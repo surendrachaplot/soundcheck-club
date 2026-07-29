@@ -1,6 +1,6 @@
 # Train To Eltanin
 
-Train To Eltanin is a Dub Techno and Experimental artist with 1 upcoming club date listed on soundcheck as of Tue, 28 Jul 2026, next at TBA - Apiro, Marche IT, Milan on Thu, 30 Jul 2026.
+Train To Eltanin is a Dub Techno and Experimental artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at TBA - Apiro, Marche IT, Milan on Thu, 30 Jul 2026.
 
 Train To Eltanin is a dub techno and experimental artist based in Italy, tracked on soundcheck, with 12 sets logged across Belgrade, Milan and Rome. Often billed alongside Gattonero, Binh and DANAE. Next up: TBA - Apiro, Marche IT, Milan on Thu 30 Jul.
 
@@ -25,4 +25,4 @@ Train To Eltanin is a dub techno and experimental artist based in Italy, tracked
 
 Gattonero, Binh, DANAE
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/traintoeltanin/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/traintoeltanin/)*

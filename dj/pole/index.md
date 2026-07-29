@@ -1,6 +1,6 @@
 # Pole
 
-Pole is a Bass and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 28 Jul 2026, next at Silent Green, Berlin on Thu, 6 Aug 2026.
+Pole is a Bass and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at Silent Green, Berlin on Thu, 6 Aug 2026.
 
 Pole is a bass and techno artist based in Germany, tracked on soundcheck, with 11 sets logged across Berlin, Brighton, London and Malta and 2 more. Often billed alongside Andrea, Ayesha and Kode9. Next up: Silent Green, Berlin on Thu 6 Aug.
 
@@ -25,4 +25,4 @@ Pole is a bass and techno artist based in Germany, tracked on soundcheck, with 1
 
 Andrea, Ayesha, Kode9
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/pole/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/pole/)*

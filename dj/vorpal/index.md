@@ -1,6 +1,6 @@
 # VORPAL
 
-VORPAL is a Techno and Psytrance artist with 1 upcoming club date listed on soundcheck as of Tue, 28 Jul 2026, next at TBA - Marrickville Location TBA per E-Mail to ticket holders, Sydney on Sat, 8 Aug 2026.
+VORPAL is a Techno and Psytrance artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at TBA - Marrickville Location TBA per E-Mail to ticket holders, Sydney on Sat, 8 Aug 2026.
 
 VORPAL is a techno and psytrance artist based in Australia, tracked on soundcheck, with 17 sets logged across Berlin, Melbourne and Sydney. Often billed alongside Shepz, Sian Ramirez and Gwyn. Next up: TBA - Marrickville Location TBA per E-Mail to ticket holders, Sydney on Sat 8 Aug.
 
@@ -25,4 +25,4 @@ VORPAL is a techno and psytrance artist based in Australia, tracked on soundchec
 
 Shepz, Sian Ramirez, Gwyn
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/vorpal/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/vorpal/)*

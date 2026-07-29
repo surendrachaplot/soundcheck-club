@@ -1,6 +1,6 @@
 # Bogus Trumper
 
-Bogus Trumper is a House and Downtempo artist with 1 upcoming club date listed on soundcheck as of Tue, 28 Jul 2026, next at Stuck Kantine, Munich on Thu, 30 Jul 2026.
+Bogus Trumper is a House and Downtempo artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at Stuck Kantine, Munich on Thu, 30 Jul 2026.
 
 Bogus Trumper is a house and downtempo artist based in Germany, tracked on soundcheck, with 39 sets logged across Athens, Berlin, Munich and Stuttgart and 1 more. Often billed alongside 600-cell, DJoy and Benjamin Roeder. Next up: Stuck Kantine, Munich on Thu 30 Jul.
 
@@ -25,4 +25,4 @@ Bogus Trumper is a house and downtempo artist based in Germany, tracked on sound
 
 600-cell, DJoy, Benjamin Roeder
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/bogustrumper/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/bogustrumper/)*

@@ -1,6 +1,6 @@
 # Leftfield
 
-Leftfield is a Electronica and House artist with 1 upcoming club date listed on soundcheck as of Tue, 28 Jul 2026, next at DRUMSHEDS, London on Sat, 10 Oct 2026.
+Leftfield is a Electronica and House artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at DRUMSHEDS, London on Sat, 10 Oct 2026.
 
 Leftfield is an electronica and house artist tracked on soundcheck, with 44 sets logged across Amsterdam, Auckland, Belfast and Birmingham and 17 more. Often billed alongside Posthuman, Batu and Ben Sims. Next up: DRUMSHEDS, London on Sat 10 Oct.
 
@@ -25,4 +25,4 @@ Leftfield is an electronica and house artist tracked on soundcheck, with 44 sets
 
 Posthuman, Batu, Ben Sims
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/leftfield/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/leftfield/)*

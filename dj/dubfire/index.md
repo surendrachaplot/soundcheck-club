@@ -1,6 +1,6 @@
 # Dubfire
 
-Dubfire is a Techno and House artist with 5 upcoming club dates listed on soundcheck as of Tue, 28 Jul 2026, next at fabric, London on Fri, 31 Jul 2026.
+Dubfire is a Techno and House artist with 5 upcoming club dates listed on soundcheck as of Wed, 29 Jul 2026, next at fabric, London on Fri, 31 Jul 2026.
 
 Dubfire is a techno and house artist tracked on soundcheck, with 144 sets logged across Amsterdam, Athens, Austin and Bangkok and 47 more. Often billed alongside Joseph Capriati, Cristoph and Anfisa Letyago. Next up: fabric, London on Fri 31 Jul.
 
@@ -29,4 +29,4 @@ Dubfire is a techno and house artist tracked on soundcheck, with 144 sets logged
 
 Joseph Capriati, Cristoph, Anfisa Letyago
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/dubfire/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/dubfire/)*

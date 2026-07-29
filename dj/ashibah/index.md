@@ -1,6 +1,6 @@
 # Ashibah
 
-Ashibah is a Deep House and House artist with 4 upcoming club dates listed on soundcheck as of Tue, 28 Jul 2026, next at Waterfront Park in San Diego, San Diego on Sun, 9 Aug 2026.
+Ashibah is a Deep House and House artist with 4 upcoming club dates listed on soundcheck as of Wed, 29 Jul 2026, next at Waterfront Park in San Diego, San Diego on Sun, 9 Aug 2026.
 
 Ashibah is a deep house and house artist tracked on soundcheck, with 14 sets logged across Amsterdam, Copenhagen, Ibiza and London and 4 more. Often billed alongside Lane 8, Sultan + Shepard and Colyn. Next up: Waterfront Park in San Diego, Sandiego on Sun 9 Aug.
 
@@ -28,4 +28,4 @@ Ashibah is a deep house and house artist tracked on soundcheck, with 14 sets log
 
 Lane 8, Sultan + Shepard, Colyn
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/ashibah/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/ashibah/)*

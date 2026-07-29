@@ -1,6 +1,6 @@
 # bela
 
-bela is a Experimental and Club artist with 3 upcoming club dates listed on soundcheck as of Tue, 28 Jul 2026, next at Galeria Zé Dos Bois, Lisbon on Fri, 31 Jul 2026.
+bela is a Experimental and Club artist with 3 upcoming club dates listed on soundcheck as of Wed, 29 Jul 2026, next at Galeria Zé Dos Bois, Lisbon on Fri, 31 Jul 2026.
 
 bela is an experimental and club artist based in South Korea, tracked on soundcheck, with 49 sets logged across Amsterdam, Auckland, Basel and Berlin and 16 more. Often billed alongside Animistic Beliefs, Lord Spikeheart and 2K88. Next up: Galeria Zé Dos Bois, Lisbon on Fri 31 Jul.
 
@@ -27,4 +27,4 @@ bela is an experimental and club artist based in South Korea, tracked on soundch
 
 Animistic Beliefs, Lord Spikeheart, 2K88
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/bela-kr/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/bela-kr/)*

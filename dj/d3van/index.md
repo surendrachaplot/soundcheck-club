@@ -1,6 +1,6 @@
 # D3VAN
 
-D3VAN is a Techno and Disco artist with 1 upcoming club date listed on soundcheck as of Tue, 28 Jul 2026, next at ÆDEN, Berlin on Thu, 30 Jul 2026.
+D3VAN is a Techno and Disco artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at ÆDEN, Berlin on Thu, 30 Jul 2026.
 
 D3VAN is a techno and disco artist based in Spain, tracked on soundcheck, with 16 sets logged across Berlin. Often billed alongside DJ Lolo, Doiléir and Karashò. Next up: ÆDEN, Berlin on Thu 30 Jul.
 
@@ -25,4 +25,4 @@ D3VAN is a techno and disco artist based in Spain, tracked on soundcheck, with 1
 
 DJ Lolo, Doiléir, Karashò
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/d3van/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/d3van/)*

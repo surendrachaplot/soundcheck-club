@@ -1,6 +1,6 @@
 # DJ Ace
 
-DJ Ace is a R&B and Hip-Hop artist with 1 upcoming club date listed on soundcheck as of Tue, 28 Jul 2026, next at The Cause, London on Sun, 9 Aug 2026.
+DJ Ace is a R&B and Hip-Hop artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at The Cause, London on Sun, 9 Aug 2026.
 
 DJ Ace is a r&b and hip-hop artist based in United States of America, tracked on soundcheck, with 15 sets logged across Detroit, Ibiza and London. Often billed alongside DJ Godfather, Supa D and Braindead. Next up: The Cause, London on Sun 9 Aug.
 
@@ -25,4 +25,4 @@ DJ Ace is a r&b and hip-hop artist based in United States of America, tracked on
 
 DJ Godfather, Supa D, Braindead
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/djace/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/djace/)*

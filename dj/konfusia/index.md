@@ -1,6 +1,6 @@
 # Konfusia
 
-Konfusia is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Tue, 28 Jul 2026, next at Hinterhof Mitte, Berlin on Fri, 31 Jul 2026.
+Konfusia is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Wed, 29 Jul 2026, next at Hinterhof Mitte, Berlin on Fri, 31 Jul 2026.
 
 Konfusia is a techno and house artist tracked on soundcheck, with 99 sets logged across Amsterdam, Berlin, Cologne and Copenhagen and 15 more. Often billed alongside Sabura, Maurice Mino and Sin:port. Next up: Hinterhof Mitte, Berlin on Fri 31 Jul.
 
@@ -26,4 +26,4 @@ Konfusia is a techno and house artist tracked on soundcheck, with 99 sets logged
 
 Sabura, Maurice Mino, Sin:port
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/konfusia/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/konfusia/)*

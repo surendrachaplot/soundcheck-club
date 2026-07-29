@@ -1,6 +1,6 @@
 # Pavelo Promillo
 
-Pavelo Promillo is a Trance and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 28 Jul 2026, next at ://about blank, Berlin on Sat, 15 Aug 2026.
+Pavelo Promillo is a Trance and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at ://about blank, Berlin on Sat, 15 Aug 2026.
 
 Pavelo Promillo is a trance and techno artist tracked on soundcheck, with 51 sets logged across Berlin, Cologne, Hamburg and Leipzig and 1 more. Often billed alongside Lenny Fuck, Multifun and Bamela Paywatch. Next up: ://about blank, Berlin on Sat 15 Aug.
 
@@ -25,4 +25,4 @@ Pavelo Promillo is a trance and techno artist tracked on soundcheck, with 51 set
 
 Lenny Fuck, Multifun, Bamela Paywatch
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/pavelopromillo/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/pavelopromillo/)*

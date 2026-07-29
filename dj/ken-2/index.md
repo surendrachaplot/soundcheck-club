@@ -1,6 +1,6 @@
 # Ken (2)
 
-Ken (2) is a Hip-Hop and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 28 Jul 2026, next at ZUBAR, Tokyo on Sat, 8 Aug 2026.
+Ken (2) is a Hip-Hop and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at ZUBAR, Tokyo on Sat, 8 Aug 2026.
 
 Ken (2) is a hip-hop and techno artist based in United States of America, tracked on soundcheck, with 15 sets logged across Ghent, London, Melbourne and Tokyo. Often billed alongside Cheshire Yums, EMpTy and KANT. Next up: ZUBAR, Tokyo on Sat 8 Aug.
 
@@ -25,4 +25,4 @@ Ken (2) is a hip-hop and techno artist based in United States of America, tracke
 
 Cheshire Yums, EMpTy, KANT
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/ken-2/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/ken-2/)*

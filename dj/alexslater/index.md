@@ -1,6 +1,6 @@
 # Alex Slater
 
-Alex Slater is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 28 Jul 2026, next at Tiki Rock, Boston on Thu, 30 Jul 2026.
+Alex Slater is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at Tiki Rock, Boston on Thu, 30 Jul 2026.
 
 Alex Slater is a house and techno artist based in United States of America, tracked on soundcheck, with 8 sets logged across Boston. Often billed alongside Màrelle, Wiersma and Your Friend Brett. Next up: Tiki Rock, Boston on Thu 30 Jul.
 
@@ -24,4 +24,4 @@ Alex Slater is a house and techno artist based in United States of America, trac
 
 Màrelle, Wiersma, Your Friend Brett
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/alexslater/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/alexslater/)*

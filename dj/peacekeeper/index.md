@@ -1,6 +1,6 @@
 # Peace Keeper
 
-Peace Keeper is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Tue, 28 Jul 2026, next at Faust, Seoul on Fri, 31 Jul 2026.
+Peace Keeper is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at Faust, Seoul on Fri, 31 Jul 2026.
 
 Peace Keeper is a techno and house artist based in South Korea, tracked on soundcheck, with 24 sets logged across Seoul. Often billed alongside Kuro, HAO(KR) and HARDNENDZ. Next up: Faust, Seoul on Fri 31 Jul.
 
@@ -25,4 +25,4 @@ Peace Keeper is a techno and house artist based in South Korea, tracked on sound
 
 Kuro, HAO(KR), HARDNENDZ
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/peacekeeper/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/peacekeeper/)*

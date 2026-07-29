@@ -1,6 +1,6 @@
 # Nalamazon
 
-Nalamazon is a Electronica and Disco artist with 1 upcoming club date listed on soundcheck as of Tue, 28 Jul 2026, next at gART.n, Berlin on Sat, 8 Aug 2026.
+Nalamazon is a Electronica and Disco artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at gART.n, Berlin on Sat, 8 Aug 2026.
 
 Nalamazon is an electronica and disco artist tracked on soundcheck, with 13 sets logged across Berlin and Leipzig. Often billed alongside Habitat Shaking, JADA MORAES and ANOMALISA. Next up: gART.n, Berlin on Sat 8 Aug.
 
@@ -25,4 +25,4 @@ Nalamazon is an electronica and disco artist tracked on soundcheck, with 13 sets
 
 Habitat Shaking, JADA MORAES, ANOMALISA
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/nalamazon/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/nalamazon/)*

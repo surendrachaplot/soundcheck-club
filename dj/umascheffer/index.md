@@ -1,6 +1,6 @@
 # Uma Scheffer
 
-Uma Scheffer is a Techno and Electronica artist with 2 upcoming club dates listed on soundcheck as of Tue, 28 Jul 2026, next at Sunseabar Beach Club, Barcelona on Thu, 30 Jul 2026.
+Uma Scheffer is a Techno and Electronica artist with 2 upcoming club dates listed on soundcheck as of Wed, 29 Jul 2026, next at Sunseabar Beach Club, Barcelona on Thu, 30 Jul 2026.
 
 Uma Scheffer is a techno and electronica artist based in Argentina, tracked on soundcheck, with 27 sets logged across Amsterdam, Barcelona, Berlin and Buenosaires and 3 more. Often billed alongside Deimov, Julieta Kopp and oyokai. Next up: Sunseabar Beach Club, Barcelona on Thu 30 Jul.
 
@@ -26,4 +26,4 @@ Uma Scheffer is a techno and electronica artist based in Argentina, tracked on s
 
 Deimov, Julieta Kopp, oyokai
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/umascheffer/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/umascheffer/)*

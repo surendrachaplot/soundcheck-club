@@ -1,6 +1,6 @@
 # Keen
 
-Keen is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 28 Jul 2026, next at Fringe Bar, Philadelphia on Sat, 8 Aug 2026.
+Keen is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at Fringe Bar, Philadelphia on Sat, 8 Aug 2026.
 
 Keen is a house and techno artist tracked on soundcheck, with 66 sets logged across Austin, Boston, Dublin and Lisbon and 7 more. Often billed alongside John Raffaele, Rob Paine and Sweater. Next up: Fringe Bar, Philadelphia on Sat 8 Aug.
 
@@ -25,4 +25,4 @@ Keen is a house and techno artist tracked on soundcheck, with 66 sets logged acr
 
 John Raffaele, Rob Paine, Sweater
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/keen-phl/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/keen-phl/)*

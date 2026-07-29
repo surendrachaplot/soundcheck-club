@@ -1,6 +1,6 @@
 # EWAVE
 
-EWAVE is a Techno and Tech House artist with 1 upcoming club date listed on soundcheck as of Tue, 28 Jul 2026, next at Village du Soir, Geneva on Fri, 31 Jul 2026.
+EWAVE is a Techno and Tech House artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at Village du Soir, Geneva on Fri, 31 Jul 2026.
 
 EWAVE is a techno and tech house artist based in Switzerland, tracked on soundcheck, with 3 sets logged across Geneva. Often billed alongside Galluxy, ANouch and Boris Way. Next up: Village du Soir, Geneva on Fri 31 Jul.
 
@@ -19,4 +19,4 @@ EWAVE is a techno and tech house artist based in Switzerland, tracked on soundch
 
 Galluxy, ANouch, Boris Way
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/ewave/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/ewave/)*

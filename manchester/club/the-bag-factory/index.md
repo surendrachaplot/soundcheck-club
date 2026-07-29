@@ -1,6 +1,6 @@
 # The Bag Factory
 
-The Bag Factory is a music venue in Manchester with 7 upcoming nights listed on soundcheck as of Tue, 28 Jul 2026; the next is "Dankashire Soundsystem at BAG FACTORY" on Fri, 31 Jul 2026.
+The Bag Factory is a music venue in Manchester with 7 upcoming nights listed on soundcheck as of Wed, 29 Jul 2026; the next is "Dankashire Soundsystem at BAG FACTORY" on Fri, 31 Jul 2026.
 
 The Bag Factory is a music venue in Manchester listed on soundcheck. 7 upcoming nights, with line-ups including Betty, Coben, DREAD MC and imad:re and 2 more. Browse upcoming dates, start times and who's playing. Dickinson St, Manchester M3 7LW.
 
@@ -20,4 +20,4 @@ The Bag Factory is a music venue in Manchester listed on soundcheck. 7 upcoming 
 
 Dickinson St, Manchester M3 7LW, Manchester
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/manchester/club/the-bag-factory/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/manchester/club/the-bag-factory/)*

@@ -1,6 +1,6 @@
 # Kelbail
 
-Kelbail is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Tue, 28 Jul 2026, next at Glazart, Paris on Sat, 1 Aug 2026.
+Kelbail is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at Glazart, Paris on Sat, 1 Aug 2026.
 
 Kelbail is a house and tech house artist based in France, tracked on soundcheck, with 24 sets logged across Paris. Often billed alongside In-Tan, Artifak and Cattoni. Next up: Glazart, Paris on Sat 1 Aug.
 
@@ -25,4 +25,4 @@ Kelbail is a house and tech house artist based in France, tracked on soundcheck,
 
 In-Tan, Artifak, Cattoni
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/kelbail/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/kelbail/)*

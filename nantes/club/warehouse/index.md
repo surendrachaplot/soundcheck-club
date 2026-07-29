@@ -1,8 +1,8 @@
 # Warehouse
 
-Warehouse is a music venue in Nantes with 7 upcoming nights listed on soundcheck as of Tue, 28 Jul 2026; the next is "TRACKNIGHT x VIVALLURE x NO LIMIT EVENT présentent Hard Legacy with Tatanka, Sakyra" on Fri, 31 Jul 2026.
+Warehouse is a music venue in Nantes with 8 upcoming nights listed on soundcheck as of Wed, 29 Jul 2026; the next is "TRACKNIGHT x VIVALLURE x NO LIMIT EVENT présentent Hard Legacy with Tatanka, Sakyra" on Fri, 31 Jul 2026.
 
-Warehouse is a music venue in Nantes listed on soundcheck. 7 upcoming nights, with line-ups including 25EMEHEURE, Bob Sinclar, Corentin Mab and Dan Bono and 2 more. Browse upcoming dates, start times and who's playing. 21 quai des Antilles 44200 Nantes.
+Warehouse is a music venue in Nantes listed on soundcheck. 8 upcoming nights, with line-ups including 25EMEHEURE, Bob Sinclar, Corentin Mab and Dan Bono and 2 more. Browse upcoming dates, start times and who's playing. 21 quai des Antilles 44200 Nantes.
 
 ## What's on
 
@@ -14,10 +14,11 @@ Warehouse is a music venue in Nantes listed on soundcheck. 7 upcoming nights, wi
 | Fri, 4 Sept 2026 | Rave in Da Club x Wolf City: Hysta, Lekkerfaces, Ophidian, RDØ Nantes | EVN (2), Lekkerfaces, Ophidian |
 | Sat, 26 Sept 2026 | Club de Jour invite GUTS |  |
 | Fri, 2 Oct 2026 | Warehouse 9 ans avec Bob Sinclar | Bob Sinclar, Corentin Mab, Dan Bono, Quentin Schneider |
+| Sat, 10 Oct 2026 | THE RING x CLUB DE JOUR with Yann Muller, Trio Cover |  |
 | Fri, 16 Oct 2026 | PANDEMIC W/ Vortek's - Dr Donk - Noiseflow - Kruella - Pa//ra - Nemesys | Dr Donk, Vortek's |
 
 ## Address
 
 21 quai des Antilles 44200 Nantes, Nantes
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/nantes/club/warehouse/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/nantes/club/warehouse/)*

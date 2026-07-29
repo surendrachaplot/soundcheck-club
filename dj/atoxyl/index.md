@@ -1,6 +1,6 @@
 # Atoxyl
 
-Atoxyl is a Techno and Dub Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 28 Jul 2026, next at Volks, Brighton on Sun, 2 Aug 2026.
+Atoxyl is a Techno and Dub Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at Volks, Brighton on Sun, 2 Aug 2026.
 
 Atoxyl is a techno and dub techno artist tracked on soundcheck, with 25 sets logged across Berlin, Brighton, London and Melbourne. Often billed alongside Spinks, Yiota and DSD uk. Next up: Volks, Brighton on Sun 2 Aug.
 
@@ -25,4 +25,4 @@ Atoxyl is a techno and dub techno artist tracked on soundcheck, with 25 sets log
 
 Spinks, Yiota, DSD uk
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/atoxyl/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/atoxyl/)*

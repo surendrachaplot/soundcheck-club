@@ -1,6 +1,6 @@
 # Katie Hill
 
-Katie Hill is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Tue, 28 Jul 2026, next at Killing Time, Melbourne on Sat, 8 Aug 2026.
+Katie Hill is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at Killing Time, Melbourne on Sat, 8 Aug 2026.
 
 Katie Hill is a house and deep house artist based in Australia, tracked on soundcheck, with 48 sets logged across Melbourne. Often billed alongside Adam Trace, Jay Ramon and Amber Ferraro. Next up: Killing Time, Melbourne on Sat 8 Aug.
 
@@ -25,4 +25,4 @@ Katie Hill is a house and deep house artist based in Australia, tracked on sound
 
 Adam Trace, Jay Ramon, Amber Ferraro
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/katiehill/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/katiehill/)*

@@ -1,6 +1,6 @@
 # Blkvirgo
 
-Blkvirgo is a House and Deep House artist with 2 upcoming club dates listed on soundcheck as of Tue, 28 Jul 2026, next at The Jama, Toronto on Fri, 31 Jul 2026.
+Blkvirgo is a House and Deep House artist with 2 upcoming club dates listed on soundcheck as of Wed, 29 Jul 2026, next at The Jama, Toronto on Fri, 31 Jul 2026.
 
 Blkvirgo is a house and deep house artist tracked on soundcheck, with 15 sets logged across Toronto. Often billed alongside Chinelo, HVN (1) and Amedeo (CA). Next up: The Jama, Toronto on Fri 31 Jul.
 
@@ -26,4 +26,4 @@ Blkvirgo is a house and deep house artist tracked on soundcheck, with 15 sets lo
 
 Chinelo, HVN (1), Amedeo (CA)
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/blkvirgo/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/blkvirgo/)*

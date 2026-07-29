@@ -1,6 +1,6 @@
 # TONITON
 
-TONITON is a Trance and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 28 Jul 2026, next at ://about blank, Berlin on Fri, 21 Aug 2026.
+TONITON is a Trance and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at ://about blank, Berlin on Fri, 21 Aug 2026.
 
 TONITON is a trance and techno artist based in Germany, tracked on soundcheck, with 1 set logged across Berlin. Often billed alongside BIJI ON DECKS, BOOTHBUNNY and Buday. Next up: ://about blank, Berlin on Fri 21 Aug.
 
@@ -14,4 +14,4 @@ TONITON is a trance and techno artist based in Germany, tracked on soundcheck, w
 
 BIJI ON DECKS, BOOTHBUNNY, Buday
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/toniton/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/toniton/)*

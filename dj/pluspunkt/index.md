@@ -1,6 +1,6 @@
 # PLUSPUNKT
 
-PLUSPUNKT is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Tue, 28 Jul 2026, next at Humboldthain Club, Berlin on Fri, 31 Jul 2026.
+PLUSPUNKT is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at Humboldthain Club, Berlin on Fri, 31 Jul 2026.
 
 PLUSPUNKT is a techno and trance artist tracked on soundcheck, with 15 sets logged across Berlin and Hamburg. Often billed alongside Deltapeak, August Kind and Bruno Brero. Next up: Humboldthain Club, Berlin on Fri 31 Jul.
 
@@ -25,4 +25,4 @@ PLUSPUNKT is a techno and trance artist tracked on soundcheck, with 15 sets logg
 
 Deltapeak, August Kind, Bruno Brero
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/pluspunkt/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/pluspunkt/)*

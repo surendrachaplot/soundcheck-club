@@ -1,6 +1,6 @@
 # FORGE
 
-FORGE is a music venue in Sheffield with 2 upcoming nights listed on soundcheck as of Tue, 28 Jul 2026; the next is "Kitchen Radio Bank Holiday Day Party" on Sat, 29 Aug 2026.
+FORGE is a music venue in Sheffield with 2 upcoming nights listed on soundcheck as of Wed, 29 Jul 2026; the next is "Kitchen Radio Bank Holiday Day Party" on Sat, 29 Aug 2026.
 
 FORGE is a music venue in Sheffield listed on soundcheck. 2 upcoming nights, with line-ups including Freddie Grisbi. Browse upcoming dates, start times and who's playing. 148 Effingham Road, Sheffield, S4 7YS.
 
@@ -15,4 +15,4 @@ FORGE is a music venue in Sheffield listed on soundcheck. 2 upcoming nights, wit
 
 148 Effingham Road, Sheffield, S4 7YS, Sheffield
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/sheffield/club/forge/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/sheffield/club/forge/)*

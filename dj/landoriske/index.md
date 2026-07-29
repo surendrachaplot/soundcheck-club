@@ -1,6 +1,6 @@
 # Lando Riské
 
-Lando Riské is a Techno and Industrial artist with 1 upcoming club date listed on soundcheck as of Tue, 28 Jul 2026, next at Club Vaag, Antwerp on Fri, 31 Jul 2026.
+Lando Riské is a Techno and Industrial artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at Club Vaag, Antwerp on Fri, 31 Jul 2026.
 
 Lando Riské is a techno and industrial artist based in Belgium, tracked on soundcheck, with 25 sets logged across Amsterdam, Antwerp, Brussels and Ghent and 1 more. Often billed alongside Jane Muss, Auk. and BYØRN. Next up: Club Vaag, Antwerp on Fri 31 Jul.
 
@@ -25,4 +25,4 @@ Lando Riské is a techno and industrial artist based in Belgium, tracked on soun
 
 Jane Muss, Auk., BYØRN
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/landoriske/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/landoriske/)*

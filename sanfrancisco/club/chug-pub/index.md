@@ -1,6 +1,6 @@
 # Chug Pub
 
-Chug Pub is a music venue in San Francisco/Oakland with 1 upcoming night listed on soundcheck as of Tue, 28 Jul 2026; the next is "Parkside Boogie: Unofficial Outside Lands Afterparty" on Fri, 7 Aug 2026.
+Chug Pub is a music venue in San Francisco/Oakland with 1 upcoming night listed on soundcheck as of Wed, 29 Jul 2026; the next is "Parkside Boogie: Unofficial Outside Lands Afterparty" on Fri, 7 Aug 2026.
 
 Chug Pub is a music venue in Sanfrancisco listed on soundcheck. 1 upcoming night, with line-ups including AKA DISK. Browse upcoming dates, start times and who's playing. 1849 Lincoln Way, San Francisco, CA 94122.
 
@@ -14,4 +14,4 @@ Chug Pub is a music venue in Sanfrancisco listed on soundcheck. 1 upcoming night
 
 1849 Lincoln Way, San Francisco, CA 94122, San Francisco/Oakland
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/sanfrancisco/club/chug-pub/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/sanfrancisco/club/chug-pub/)*

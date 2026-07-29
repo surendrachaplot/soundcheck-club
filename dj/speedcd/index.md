@@ -1,6 +1,6 @@
 # Speed CD
 
-Speed CD is a Garage and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 28 Jul 2026, next at The Lord Gladstone, Sydney on Sat, 1 Aug 2026.
+Speed CD is a Garage and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at The Lord Gladstone, Sydney on Sat, 1 Aug 2026.
 
 Speed CD is a garage and techno artist based in Australia, tracked on soundcheck, with 7 sets logged across Sydney. Often billed alongside Bella Bella, Bouki and Fashionably Late. Next up: The Lord Gladstone, Sydney on Sat 1 Aug.
 
@@ -23,4 +23,4 @@ Speed CD is a garage and techno artist based in Australia, tracked on soundcheck
 
 Bella Bella, Bouki, Fashionably Late
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/speedcd/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/speedcd/)*

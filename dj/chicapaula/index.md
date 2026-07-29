@@ -1,6 +1,6 @@
 # Chica Paula
 
-Chica Paula is a Techno and Minimal Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 28 Jul 2026, next at Club der Visionaere, Berlin on Sun, 2 Aug 2026.
+Chica Paula is a Techno and Minimal Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at Club der Visionaere, Berlin on Sun, 2 Aug 2026.
 
 Chica Paula is a techno and minimal techno artist based in Germany, tracked on soundcheck, with 14 sets logged across Berlin and Geneva. Often billed alongside Ramona Yacef, Dandy Jack and Ponura. Next up: Club der Visionaere, Berlin on Sun 2 Aug.
 
@@ -25,4 +25,4 @@ Chica Paula is a techno and minimal techno artist based in Germany, tracked on s
 
 Ramona Yacef, Dandy Jack, Ponura
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/chicapaula/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/chicapaula/)*

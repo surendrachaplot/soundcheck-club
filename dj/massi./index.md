@@ -1,6 +1,6 @@
 # MASSI.
 
-MASSI. is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Tue, 28 Jul 2026, next at Chinese Laundry, Sydney on Fri, 31 Jul 2026.
+MASSI. is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at Chinese Laundry, Sydney on Fri, 31 Jul 2026.
 
 MASSI. is a techno and house artist tracked on soundcheck, with 35 sets logged across Melbourne and Sydney. Often billed alongside DAYZZI, 6 SENSE and Ned Bennett. Next up: Chinese Laundry, Sydney on Fri 31 Jul.
 
@@ -25,4 +25,4 @@ MASSI. is a techno and house artist tracked on soundcheck, with 35 sets logged a
 
 DAYZZI, 6 SENSE, Ned Bennett
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/massi./)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/massi./)*

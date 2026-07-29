@@ -1,6 +1,6 @@
 # Giri
 
-Giri is a music venue in Berlin with 11 upcoming nights listed on soundcheck as of Tue, 28 Jul 2026; the next is "Giri x Smile Sessions" on Thu, 30 Jul 2026.
+Giri is a music venue in Berlin with 11 upcoming nights listed on soundcheck as of Wed, 29 Jul 2026; the next is "Giri x Smile Sessions" on Thu, 30 Jul 2026.
 
 Giri is a music venue in Berlin listed on soundcheck. 11 upcoming nights, with line-ups including Andriy K., A Strange Wedding, Ben Sleia and Carmen Electro and 2 more. Browse upcoming dates, start times and who's playing. Hermannstrasse 14, 12049 Berlin.
 
@@ -23,4 +23,4 @@ Giri is a music venue in Berlin listed on soundcheck. 11 upcoming nights, with l
 
 Hermannstrasse 14, 12049 Berlin, Berlin
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/giri/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/giri/)*

@@ -1,6 +1,6 @@
 # KANTA
 
-KANTA is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Tue, 28 Jul 2026, next at ZEROTOKYO, Tokyo on Thu, 30 Jul 2026.
+KANTA is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at ZEROTOKYO, Tokyo on Thu, 30 Jul 2026.
 
 KANTA is a techno and house artist tracked on soundcheck, with 86 sets logged across Kyoto, Osaka, Seoul and Tokyo. Often billed alongside BiBiYUA, Astro Boy and Akira. Next up: ZEROTOKYO, Tokyo on Thu 30 Jul.
 
@@ -25,4 +25,4 @@ KANTA is a techno and house artist tracked on soundcheck, with 86 sets logged ac
 
 BiBiYUA, Astro Boy, Akira
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/kanta/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/kanta/)*

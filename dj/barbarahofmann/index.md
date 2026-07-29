@@ -1,6 +1,6 @@
 # Barbara Hofmann
 
-Barbara Hofmann is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 28 Jul 2026, next at ://about blank, Berlin on Sat, 1 Aug 2026.
+Barbara Hofmann is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at ://about blank, Berlin on Sat, 1 Aug 2026.
 
 Barbara Hofmann is a house and techno artist based in Germany, tracked on soundcheck, with 25 sets logged across Berlin, Cologne, Dusseldorf and Hamburg and 1 more. Often billed alongside Jessamine, Kwaint and fr. JPLA. Next up: ://about blank, Berlin on Sat 1 Aug.
 
@@ -25,4 +25,4 @@ Barbara Hofmann is a house and techno artist based in Germany, tracked on soundc
 
 Jessamine, Kwaint, fr. JPLA
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/barbarahofmann/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/barbarahofmann/)*

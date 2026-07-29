@@ -1,6 +1,6 @@
 # Evissimax
 
-Evissimax is a Techno and Hardcore artist with 1 upcoming club date listed on soundcheck as of Tue, 28 Jul 2026, next at Bowlers Exhibition Centre, Manchester on Sat, 1 Aug 2026.
+Evissimax is a Techno and Hardcore artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at Bowlers Exhibition Centre, Manchester on Sat, 1 Aug 2026.
 
 Evissimax is a techno and hardcore artist based in Italy, tracked on soundcheck, with 25 sets logged across Amsterdam, Athens, Berlin and Glasgow and 6 more. Often billed alongside Slim Soledad, Aiden (DE) and Faster Horses. Next up: Bowlers Exhibition Centre, Manchester on Sat 1 Aug.
 
@@ -25,4 +25,4 @@ Evissimax is a techno and hardcore artist based in Italy, tracked on soundcheck,
 
 Slim Soledad, Aiden (DE), Faster Horses
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/evissimax/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/evissimax/)*

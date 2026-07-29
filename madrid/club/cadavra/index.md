@@ -1,6 +1,6 @@
 # Cadavra
 
-Cadavra is a music venue in Madrid with 24 upcoming nights listed on soundcheck as of Tue, 28 Jul 2026; the next is "Cynth & Irazu at ANFANG" on Thu, 30 Jul 2026.
+Cadavra is a music venue in Madrid with 24 upcoming nights listed on soundcheck as of Wed, 29 Jul 2026; the next is "Cynth & Irazu at ANFANG" on Thu, 30 Jul 2026.
 
 Cadavra is a music venue in Madrid listed on soundcheck. 24 upcoming nights, with line-ups including Aedis, Alienata, Alvaro Cabana and Amaliah and 2 more. Browse upcoming dates, start times and who's playing. C. del Caballero de Gracia, 10, Centro, 28013 Madrid, Spain.
 
@@ -23,4 +23,4 @@ Cadavra is a music venue in Madrid listed on soundcheck. 24 upcoming nights, wit
 
 C. del Caballero de Gracia, 10, Centro, 28013 Madrid, Spain, Madrid
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/madrid/club/cadavra/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/madrid/club/cadavra/)*

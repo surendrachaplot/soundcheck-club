@@ -1,6 +1,6 @@
 # MATEO BERGOGLIO
 
-MATEO BERGOGLIO is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 28 Jul 2026, next at Bikini Club, Barcelona on Fri, 31 Jul 2026.
+MATEO BERGOGLIO is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at Bikini Club, Barcelona on Fri, 31 Jul 2026.
 
 MATEO BERGOGLIO is a house and techno artist based in Argentina, tracked on soundcheck, with 11 sets logged across Barcelona. Often billed alongside Kid Moss, Guedes (ES) and IVAN POSEIDON. Next up: Bikini Club, Barcelona on Fri 31 Jul.
 
@@ -25,4 +25,4 @@ MATEO BERGOGLIO is a house and techno artist based in Argentina, tracked on soun
 
 Kid Moss, Guedes (ES), IVAN POSEIDON
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/mateobergoglio/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/mateobergoglio/)*

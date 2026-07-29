@@ -1,6 +1,6 @@
 # Kfeelz
 
-Kfeelz is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 28 Jul 2026, next at Jupiter Disco, New York City on Fri, 14 Aug 2026.
+Kfeelz is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at Jupiter Disco, New York City on Fri, 14 Aug 2026.
 
 Kfeelz is a house and techno artist based in United States of America, tracked on soundcheck, with 56 sets logged across Boston and Newyorkcity. Often billed alongside RAQX, Andrew Devlin and Kat Offline. Next up: Jupiter Disco, Newyorkcity on Fri 14 Aug.
 
@@ -25,4 +25,4 @@ Kfeelz is a house and techno artist based in United States of America, tracked o
 
 RAQX, Andrew Devlin, Kat Offline
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/kfeelz/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/kfeelz/)*

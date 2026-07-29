@@ -1,6 +1,6 @@
 # Mia Mendi
 
-Mia Mendi is a Techno and Progressive House artist with 2 upcoming club dates listed on soundcheck as of Tue, 28 Jul 2026, next at Hï Ibiza, Ibiza on Thu, 30 Jul 2026.
+Mia Mendi is a Techno and Progressive House artist with 2 upcoming club dates listed on soundcheck as of Wed, 29 Jul 2026, next at Hï Ibiza, Ibiza on Thu, 30 Jul 2026.
 
 Mia Mendi is a techno and progressive house artist based in United Kingdom, tracked on soundcheck, with 13 sets logged across Amsterdam, Berlin, Copenhagen and Ibiza and 4 more. Often billed alongside Baime, widerberg and Julia Linkogel. Next up: Hï Ibiza, Ibiza on Thu 30 Jul.
 
@@ -26,4 +26,4 @@ Mia Mendi is a techno and progressive house artist based in United Kingdom, trac
 
 Baime, widerberg, Julia Linkogel
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/miamendi/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/miamendi/)*

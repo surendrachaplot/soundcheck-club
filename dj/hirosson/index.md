@@ -1,6 +1,6 @@
 # Hirosson
 
-Hirosson is a Hip-Hop and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 28 Jul 2026, next at clubasia, Tokyo on Wed, 29 Jul 2026.
+Hirosson is a Hip-Hop and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at clubasia, Tokyo on Wed, 29 Jul 2026.
 
 Hirosson is a hip-hop and techno artist tracked on soundcheck, with 30 sets logged across Tokyo. Often billed alongside Blabla, FUJI TRILL and Jellyf!sh. Next up: clubasia, Tokyo on Wed 29 Jul.
 
@@ -25,4 +25,4 @@ Hirosson is a hip-hop and techno artist tracked on soundcheck, with 30 sets logg
 
 Blabla, FUJI TRILL, Jellyf!sh
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/hirosson/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/hirosson/)*

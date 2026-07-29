@@ -1,6 +1,6 @@
 # Paradaux
 
-Paradaux is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Tue, 28 Jul 2026, next at Subspace, Denver on Sat, 1 Aug 2026.
+Paradaux is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at Subspace, Denver on Sat, 1 Aug 2026.
 
 Paradaux is a techno and house artist based in United States of America, tracked on soundcheck, with 3 sets logged across Denver. Often billed alongside Atalef, Daed and FCKDSKO. Next up: Subspace, Denver on Sat 1 Aug.
 
@@ -19,4 +19,4 @@ Paradaux is a techno and house artist based in United States of America, tracked
 
 Atalef, Daed, FCKDSKO
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/paradaux/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/paradaux/)*

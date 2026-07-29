@@ -1,6 +1,6 @@
 # Kabinett
 
-Kabinett is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Tue, 28 Jul 2026, next at MAD Radio NYC, New York City on Fri, 31 Jul 2026.
+Kabinett is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Wed, 29 Jul 2026, next at MAD Radio NYC, New York City on Fri, 31 Jul 2026.
 
 Kabinett is a house and techno artist based in Colombia, tracked on soundcheck, with 20 sets logged across Barcelona, Berlin, Bucharest and London and 6 more. Often billed alongside Nuclear Digital Transistor, Intruso and Martin Noise. Next up: MAD Radio NYC, Newyorkcity on Fri 31 Jul.
 
@@ -27,4 +27,4 @@ Kabinett is a house and techno artist based in Colombia, tracked on soundcheck, 
 
 Nuclear Digital Transistor, Intruso, Martin Noise
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/kabinett-1/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/kabinett-1/)*

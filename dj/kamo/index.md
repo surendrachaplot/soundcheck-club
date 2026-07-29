@@ -1,6 +1,6 @@
 # Kamo
 
-Kamo is a Techno and Hardcore artist with 2 upcoming club dates listed on soundcheck as of Tue, 28 Jul 2026, next at City Hall, Barcelona on Wed, 29 Jul 2026.
+Kamo is a Techno and Hardcore artist with 2 upcoming club dates listed on soundcheck as of Wed, 29 Jul 2026, next at City Hall, Barcelona on Wed, 29 Jul 2026.
 
 Kamo is a techno and hardcore artist based in United Kingdom, tracked on soundcheck, with 9 sets logged across Barcelona, Munich, Tallinn and Tokyo. Often billed alongside SHAJAN, RAPH and Dolan. Next up: City Hall, Barcelona on Wed 29 Jul.
 
@@ -25,4 +25,4 @@ Kamo is a techno and hardcore artist based in United Kingdom, tracked on soundch
 
 SHAJAN, RAPH, Dolan
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/kamo/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/kamo/)*

@@ -1,6 +1,6 @@
 # CÛLTÛS VÎS
 
-CÛLTÛS VÎS is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Tue, 28 Jul 2026, next at Paraiso Estereo, Miami on Fri, 31 Jul 2026.
+CÛLTÛS VÎS is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at Paraiso Estereo, Miami on Fri, 31 Jul 2026.
 
 CÛLTÛS VÎS is a techno and trance artist based in United States of America, tracked on soundcheck, with 12 sets logged across Miami. Often billed alongside Dadrev, DomnRob and iCKY. Next up: Paraiso Estereo, Miami on Fri 31 Jul.
 
@@ -25,4 +25,4 @@ CÛLTÛS VÎS is a techno and trance artist based in United States of America, t
 
 Dadrev, DomnRob, iCKY
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/cultusvîs/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/cultusvîs/)*

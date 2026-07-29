@@ -1,6 +1,6 @@
 # BLESSTONIO
 
-BLESSTONIO is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 28 Jul 2026, next at Masada, Chicago on Sat, 8 Aug 2026.
+BLESSTONIO is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at Masada, Chicago on Sat, 8 Aug 2026.
 
 BLESSTONIO is a house and techno artist based in United States of America, tracked on soundcheck, with 54 sets logged across Chicago, Detroit, Mexicocity and Newyorkcity. Often billed alongside CTRLZORA, Kenjiro and BLACKCLUB. Next up: Masada, Chicago on Sat 8 Aug.
 
@@ -25,4 +25,4 @@ BLESSTONIO is a house and techno artist based in United States of America, track
 
 CTRLZORA, Kenjiro, BLACKCLUB
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/blesstonio/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/blesstonio/)*

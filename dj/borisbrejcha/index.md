@@ -1,6 +1,6 @@
 # Boris Brejcha
 
-Boris Brejcha is a Techno and Minimal Techno artist with 9 upcoming club dates listed on soundcheck as of Tue, 28 Jul 2026, next at Radius, Chicago on Wed, 29 Jul 2026.
+Boris Brejcha is a Techno and Minimal Techno artist with 9 upcoming club dates listed on soundcheck as of Wed, 29 Jul 2026, next at Radius, Chicago on Wed, 29 Jul 2026.
 
 Boris Brejcha is a techno and minimal techno artist tracked on soundcheck, with 110 sets logged across Amsterdam, Athens, Austin and Bali and 44 more. Often billed alongside Moritz Hofbauer, Deniz Bul and Ann Clue. Next up: Radius, Chicago on Wed 29 Jul.
 
@@ -33,4 +33,4 @@ Boris Brejcha is a techno and minimal techno artist tracked on soundcheck, with 
 
 Moritz Hofbauer, Deniz Bul, Ann Clue
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/borisbrejcha/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/borisbrejcha/)*

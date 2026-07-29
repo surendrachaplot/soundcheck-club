@@ -1,6 +1,6 @@
 # De La Maso
 
-De La Maso is a Electronica and House artist with 2 upcoming club dates listed on soundcheck as of Tue, 28 Jul 2026, next at Supermarket, Zurich on Sat, 1 Aug 2026.
+De La Maso is a Electronica and House artist with 2 upcoming club dates listed on soundcheck as of Wed, 29 Jul 2026, next at Supermarket, Zurich on Sat, 1 Aug 2026.
 
 De La Maso is an electronica and house artist based in Switzerland, tracked on soundcheck, with 21 sets logged across Basel, Berlin, Frankfurt and Zurich. Often billed alongside And Hazel, ARWIN AZIZ and Capt'n. Next up: Supermarket, Zurich on Sat 1 Aug.
 
@@ -26,4 +26,4 @@ De La Maso is an electronica and house artist based in Switzerland, tracked on s
 
 And Hazel, ARWIN AZIZ, Capt'n
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/delamaso/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/delamaso/)*

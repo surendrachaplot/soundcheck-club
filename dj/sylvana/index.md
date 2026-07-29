@@ -1,6 +1,6 @@
 # Sylvana
 
-Sylvana is a House artist with 1 upcoming club date listed on soundcheck as of Tue, 28 Jul 2026, next at MAD Radio NYC, New York City on Sat, 1 Aug 2026.
+Sylvana is a House artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at MAD Radio NYC, New York City on Sat, 1 Aug 2026.
 
 Sylvana is a house artist based in Colombia, tracked on soundcheck, with 1 set logged across Newyorkcity. Often billed alongside Rana Iravani. Next up: MAD Radio NYC, Newyorkcity on Sat 1 Aug.
 
@@ -14,4 +14,4 @@ Sylvana is a house artist based in Colombia, tracked on soundcheck, with 1 set l
 
 Rana Iravani
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/sylvana/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/sylvana/)*

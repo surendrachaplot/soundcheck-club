@@ -1,6 +1,6 @@
 # Ian Crane
 
-Ian Crane is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 28 Jul 2026, next at Paragon, New York City on Fri, 31 Jul 2026.
+Ian Crane is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at Paragon, New York City on Fri, 31 Jul 2026.
 
 Ian Crane is a house and techno artist based in United States of America, tracked on soundcheck, with 37 sets logged across Newyorkcity. Often billed alongside Meilgaarden, LYDO and CHOQUE. Next up: Paragon, Newyorkcity on Fri 31 Jul.
 
@@ -25,4 +25,4 @@ Ian Crane is a house and techno artist based in United States of America, tracke
 
 Meilgaarden, LYDO, CHOQUE
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/iancrane/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/iancrane/)*

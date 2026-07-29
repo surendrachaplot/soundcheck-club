@@ -1,6 +1,6 @@
 # Nik Colk Void
 
-Nik Colk Void is a Experimental and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 28 Jul 2026, next at The Glove That Fits, London on Sat, 22 Aug 2026.
+Nik Colk Void is a Experimental and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at The Glove That Fits, London on Sat, 22 Aug 2026.
 
 Nik Colk Void is an experimental and techno artist based in United Kingdom, tracked on soundcheck, with 25 sets logged across Amsterdam, Barcelona, Berlin and Bristol and 7 more. Often billed alongside Klara Lewis, Finlay Shakespeare and Pedro Maia. Next up: The Glove That Fits, London on Sat 22 Aug.
 
@@ -25,4 +25,4 @@ Nik Colk Void is an experimental and techno artist based in United Kingdom, trac
 
 Klara Lewis, Finlay Shakespeare, Pedro Maia
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/nikcolkvoid/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/nikcolkvoid/)*

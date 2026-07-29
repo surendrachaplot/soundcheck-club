@@ -1,6 +1,6 @@
 # FANNY (SE)
 
-FANNY (SE) is a House and Electro artist with 1 upcoming club date listed on soundcheck as of Tue, 28 Jul 2026, next at SISSI'S Amsterdam, Amsterdam on Fri, 7 Aug 2026.
+FANNY (SE) is a House and Electro artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at SISSI'S Amsterdam, Amsterdam on Fri, 7 Aug 2026.
 
 FANNY (SE) is a house and electro artist based in Sweden, tracked on soundcheck, with 30 sets logged across Amsterdam, Barcelona, London and Mexicocity and 3 more. Often billed alongside MASSEILOT, Ms. Renegade and Adam Spielman. Next up: SISSI'S Amsterdam, Amsterdam on Fri 7 Aug.
 
@@ -25,4 +25,4 @@ FANNY (SE) is a house and electro artist based in Sweden, tracked on soundcheck,
 
 MASSEILOT, Ms. Renegade, Adam Spielman
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/fanny-se/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/fanny-se/)*

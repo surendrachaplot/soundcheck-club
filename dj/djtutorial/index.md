@@ -1,6 +1,6 @@
 # DJ Tutorial
 
-DJ Tutorial is a Dub Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 28 Jul 2026, next at The Greyhound, London on Fri, 14 Aug 2026.
+DJ Tutorial is a Dub Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at The Greyhound, London on Fri, 14 Aug 2026.
 
 DJ Tutorial is a dub techno artist based in United Kingdom, tracked on soundcheck, with 6 sets logged across London. Often billed alongside FRNTLEFT, flxclxc and sports. Next up: The Greyhound, London on Fri 14 Aug.
 
@@ -22,4 +22,4 @@ DJ Tutorial is a dub techno artist based in United Kingdom, tracked on soundchec
 
 FRNTLEFT, flxclxc, sports
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/djtutorial/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/djtutorial/)*

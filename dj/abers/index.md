@@ -1,6 +1,6 @@
 # abers
 
-abers is a Jungle and Bass artist with 1 upcoming club date listed on soundcheck as of Tue, 28 Jul 2026, next at Village Studios, Vancouver on Sun, 2 Aug 2026.
+abers is a Jungle and Bass artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at Village Studios, Vancouver on Sun, 2 Aug 2026.
 
 abers is a jungle and bass artist based in Mexico, tracked on soundcheck, with 9 sets logged across Mexicocity and Vancouver. Often billed alongside Phanta, 1OO1O and ADAKEO. Next up: Village Studios, Vancouver on Sun 2 Aug.
 
@@ -25,4 +25,4 @@ abers is a jungle and bass artist based in Mexico, tracked on soundcheck, with 9
 
 Phanta, 1OO1O, ADAKEO
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/abers/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/abers/)*

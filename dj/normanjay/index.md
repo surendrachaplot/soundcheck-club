@@ -1,6 +1,6 @@
 # Norman Jay
 
-Norman Jay is a Disco and House artist with 1 upcoming club date listed on soundcheck as of Tue, 28 Jul 2026, next at Prospect Park, London on Sat, 15 Aug 2026.
+Norman Jay is a Disco and House artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at Prospect Park, London on Sat, 15 Aug 2026.
 
 Norman Jay is a disco and house artist tracked on soundcheck, with 51 sets logged across Birmingham, Brighton, Bristol and Edinburgh and 7 more. Often billed alongside Rob Alldritt, Si Kurrage and Mr Shiver. Next up: Prospect Park, London on Sat 15 Aug.
 
@@ -25,4 +25,4 @@ Norman Jay is a disco and house artist tracked on soundcheck, with 51 sets logge
 
 Rob Alldritt, Si Kurrage, Mr Shiver
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/normanjay/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/normanjay/)*

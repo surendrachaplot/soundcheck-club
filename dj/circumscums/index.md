@@ -1,6 +1,6 @@
 # Circumscums
 
-Circumscums is a Techno and Minimal Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 28 Jul 2026, next at 131 Mccormack St, Toronto on Fri, 25 Sept 2026.
+Circumscums is a Techno and Minimal Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at 131 Mccormack St, Toronto on Fri, 25 Sept 2026.
 
 Circumscums is a techno and minimal techno artist based in Canada, tracked on soundcheck, with 29 sets logged across Barcelona, Losangeles and Toronto. Often billed alongside Measure Divide, DVS1 and Emily Nicoll. Next up: 131 Mccormack St, Toronto on Fri 25 Sept.
 
@@ -25,4 +25,4 @@ Circumscums is a techno and minimal techno artist based in Canada, tracked on so
 
 Measure Divide, DVS1, Emily Nicoll
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/circumscums/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/circumscums/)*

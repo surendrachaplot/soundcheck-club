@@ -1,6 +1,6 @@
 # Martien V.
 
-Martien V. is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Tue, 28 Jul 2026, next at Madam, Amsterdam on Fri, 31 Jul 2026.
+Martien V. is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at Madam, Amsterdam on Fri, 31 Jul 2026.
 
 Martien V. is a house and deep house artist based in Netherlands, tracked on soundcheck, with 2 sets logged across Amsterdam. Often billed alongside Dirk Schot. Next up: Madam, Amsterdam on Fri 31 Jul.
 
@@ -18,4 +18,4 @@ Martien V. is a house and deep house artist based in Netherlands, tracked on sou
 
 Dirk Schot
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/martienv/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/martienv/)*

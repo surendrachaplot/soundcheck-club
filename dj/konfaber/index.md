@@ -1,6 +1,6 @@
 # Kon Faber
 
-Kon Faber is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Tue, 28 Jul 2026, next at Tanzhaus West, Frankfurt on Sat, 1 Aug 2026.
+Kon Faber is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Wed, 29 Jul 2026, next at Tanzhaus West, Frankfurt on Sat, 1 Aug 2026.
 
 Kon Faber is a house and techno artist based in Germany, tracked on soundcheck, with 35 sets logged across Berlin, Brisbane, Copenhagen and Frankfurt and 8 more. Often billed alongside DirdyGerdi, Fabian Krooss and Isabeau Fort. Next up: Tanzhaus West, Frankfurt on Sat 1 Aug.
 
@@ -26,4 +26,4 @@ Kon Faber is a house and techno artist based in Germany, tracked on soundcheck, 
 
 DirdyGerdi, Fabian Krooss, Isabeau Fort
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/konfaber/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/konfaber/)*

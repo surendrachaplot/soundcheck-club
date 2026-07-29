@@ -1,6 +1,6 @@
 # Anaïs Ley
 
-Anaïs Ley is a Progressive House artist with 1 upcoming club date listed on soundcheck as of Tue, 28 Jul 2026, next at Piknic Électronik / Parc Jean Drapeau, Montreal on Sun, 23 Aug 2026.
+Anaïs Ley is a Progressive House artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at Piknic Électronik / Parc Jean Drapeau, Montreal on Sun, 23 Aug 2026.
 
 Anaïs Ley is a progressive house artist based in Canada, tracked on soundcheck, with 3 sets logged across Montreal. Often billed alongside Bryan Wolf Ear, Dowden and Jares. Next up: Piknic Électronik / Parc Jean Drapeau, Montreal on Sun 23 Aug.
 
@@ -19,4 +19,4 @@ Anaïs Ley is a progressive house artist based in Canada, tracked on soundcheck,
 
 Bryan Wolf Ear, Dowden, Jares
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/anaïsley/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/anaïsley/)*

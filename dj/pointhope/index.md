@@ -1,6 +1,6 @@
 # Pointhope
 
-Pointhope is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Tue, 28 Jul 2026, next at Enter Shibuya, Tokyo on Wed, 12 Aug 2026.
+Pointhope is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at Enter Shibuya, Tokyo on Wed, 12 Aug 2026.
 
 Pointhope is a techno and trance artist based in Japan, tracked on soundcheck, with 14 sets logged across Tokyo. Often billed alongside JUN INAGAWA, Eichi Abe and Mari Sakurai. Next up: Enter Shibuya, Tokyo on Wed 12 Aug.
 
@@ -25,4 +25,4 @@ Pointhope is a techno and trance artist based in Japan, tracked on soundcheck, w
 
 JUN INAGAWA, Eichi Abe, Mari Sakurai
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/pointhope/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/pointhope/)*

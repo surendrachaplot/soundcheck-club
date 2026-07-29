@@ -1,6 +1,6 @@
 # Hermans
 
-Hermans is a Tech House and Minimal artist with 1 upcoming club date listed on soundcheck as of Tue, 28 Jul 2026, next at TBA - Address Released to Ticket Holders, Denver on Fri, 14 Aug 2026.
+Hermans is a Tech House and Minimal artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at TBA - Address Released to Ticket Holders, Denver on Fri, 14 Aug 2026.
 
 Hermans is a tech house and minimal artist based in Canada, tracked on soundcheck, with 7 sets logged across Denver. Often billed alongside AM (8), Billy Bevevino and Brittz. Next up: TBA - Address Released to Ticket Holders, Denver on Fri 14 Aug.
 
@@ -23,4 +23,4 @@ Hermans is a tech house and minimal artist based in Canada, tracked on soundchec
 
 AM (8), Billy Bevevino, Brittz
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/hermans/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/hermans/)*

@@ -1,6 +1,6 @@
 # Zeravla
 
-Zeravla is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 28 Jul 2026, next at The Local NY, New York City on Sat, 1 Aug 2026.
+Zeravla is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at The Local NY, New York City on Sat, 1 Aug 2026.
 
 Zeravla is a house and techno artist based in Ecuador, tracked on soundcheck, with 14 sets logged across Newyorkcity. Often billed alongside Camila Wolf, Armii1n and Ostara. Next up: The Local NY, Newyorkcity on Sat 1 Aug.
 
@@ -25,4 +25,4 @@ Zeravla is a house and techno artist based in Ecuador, tracked on soundcheck, wi
 
 Camila Wolf, Armii1n, Ostara
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/zeravla/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/zeravla/)*

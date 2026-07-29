@@ -1,6 +1,6 @@
 # JulesBo
 
-JulesBo is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 28 Jul 2026, next at Baalsaal, Hamburg on Sat, 1 Aug 2026.
+JulesBo is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at Baalsaal, Hamburg on Sat, 1 Aug 2026.
 
 JulesBo is a house and techno artist based in Germany, tracked on soundcheck, with 4 sets logged across Hamburg. Often billed alongside Alibi (5), dannycookin and djcob. Next up: Baalsaal, Hamburg on Sat 1 Aug.
 
@@ -20,4 +20,4 @@ JulesBo is a house and techno artist based in Germany, tracked on soundcheck, wi
 
 Alibi (5), dannycookin, djcob
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/julesbo/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/julesbo/)*

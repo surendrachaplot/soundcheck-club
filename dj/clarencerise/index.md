@@ -1,6 +1,6 @@
 # Clarence Rise
 
-Clarence Rise is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Tue, 28 Jul 2026, next at KALT, Strasbourg on Sat, 1 Aug 2026.
+Clarence Rise is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at KALT, Strasbourg on Sat, 1 Aug 2026.
 
 Clarence Rise is a techno and house artist based in France, tracked on soundcheck, with 16 sets logged across London, Lyon, Paris and Strasbourg. Often billed alongside STU (FR), Sklaer and Amarou. Next up: KALT, Strasbourg on Sat 1 Aug.
 
@@ -25,4 +25,4 @@ Clarence Rise is a techno and house artist based in France, tracked on soundchec
 
 STU (FR), Sklaer, Amarou
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/clarencerise/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/clarencerise/)*

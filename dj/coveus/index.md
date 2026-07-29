@@ -1,6 +1,6 @@
 # COVE(US)
 
-COVE(US) is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Tue, 28 Jul 2026, next at 314 Scholes, New York City on Thu, 6 Aug 2026.
+COVE(US) is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Wed, 29 Jul 2026, next at 314 Scholes, New York City on Thu, 6 Aug 2026.
 
 COVE(US) is a techno and house artist based in United States of America, tracked on soundcheck, with 7 sets logged across Newyorkcity. Often billed alongside Cow Tools, R-DNA and masha latte. Next up: 314 Scholes, Newyorkcity on Thu 6 Aug.
 
@@ -23,4 +23,4 @@ COVE(US) is a techno and house artist based in United States of America, tracked
 
 Cow Tools, R-DNA, masha latte
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/coveus/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/coveus/)*

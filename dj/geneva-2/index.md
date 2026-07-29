@@ -1,6 +1,6 @@
 # Geneva (2)
 
-Geneva (2) is a Techno and Electro artist with 1 upcoming club date listed on soundcheck as of Tue, 28 Jul 2026, next at Bambi's, Toronto on Fri, 21 Aug 2026.
+Geneva (2) is a Techno and Electro artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at Bambi's, Toronto on Fri, 21 Aug 2026.
 
 Geneva (2) is a techno and electro artist based in Canada, tracked on soundcheck, with 18 sets logged across Detroit, Paris and Toronto. Often billed alongside Circumscums, Program Sam and /ASYNC. Next up: Bambi's, Toronto on Fri 21 Aug.
 
@@ -25,4 +25,4 @@ Geneva (2) is a techno and electro artist based in Canada, tracked on soundcheck
 
 Circumscums, Program Sam, /ASYNC
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/geneva-2/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/geneva-2/)*

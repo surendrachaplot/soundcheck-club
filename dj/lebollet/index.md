@@ -1,6 +1,6 @@
 # lebollet
 
-lebollet is a House and Electronica artist with 1 upcoming club date listed on soundcheck as of Tue, 28 Jul 2026, next at The Club (Málaga), Malaga on Fri, 31 Jul 2026.
+lebollet is a House and Electronica artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at The Club (Málaga), Malaga on Fri, 31 Jul 2026.
 
 lebollet is a house and electronica artist based in Spain, tracked on soundcheck, with 64 sets logged across Barcelona, Madrid, Malaga and Mexicocity. Often billed alongside Fuentes-Guerra, Toni Aparisi and Kamboya. Next up: The Club (Málaga), Malaga on Fri 31 Jul.
 
@@ -25,4 +25,4 @@ lebollet is a house and electronica artist based in Spain, tracked on soundcheck
 
 Fuentes-Guerra, Toni Aparisi, Kamboya
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/lebollet/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/lebollet/)*

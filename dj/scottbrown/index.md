@@ -1,14 +1,15 @@
 # Scott Brown
 
-Scott Brown is a Hardcore and Gabber artist with 2 upcoming club dates listed on soundcheck as of Tue, 28 Jul 2026, next at P36 Terminal 1 Busparkplatz  / Sonic-Warrior Festival Tours Abfahrt, Frankfurt on Sat, 8 Aug 2026.
+Scott Brown is a Hardcore and Gabber artist with 3 upcoming club dates listed on soundcheck as of Wed, 29 Jul 2026, next at P36 Terminal 1 Busparkplatz  / Sonic-Warrior Festival Tours Abfahrt, Frankfurt on Sat, 8 Aug 2026.
 
-Scott Brown is a hardcore and gabber artist based in United Kingdom, tracked on soundcheck, with 32 sets logged across Amsterdam, Barcelona, Berlin and Birmingham and 10 more. Often billed alongside Dougal, Mark Breeze and Evian Christ. Next up: P36 Terminal 1 Busparkplatz  / Sonic-Warrior Festival Tours Abfahrt, Frankfurt on Sat 8 Aug.
+Scott Brown is a hardcore and gabber artist based in United Kingdom, tracked on soundcheck, with 33 sets logged across Amsterdam, Barcelona, Berlin and Birmingham and 11 more. Often billed alongside Dougal, Mark Breeze and Evian Christ. Next up: P36 Terminal 1 Busparkplatz  / Sonic-Warrior Festival Tours Abfahrt, Frankfurt on Sat 8 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 8 Aug 2026 | P36 Terminal 1 Busparkplatz  / Sonic-Warrior Festival Tours Abfahrt | Frankfurt |
+| Sat, 22 Aug 2026 | ESC | Montreal |
 | Fri, 28 Aug 2026 | Club 69 | Glasgow |
 
 ## Recently played
@@ -26,4 +27,4 @@ Scott Brown is a hardcore and gabber artist based in United Kingdom, tracked on 
 
 Dougal, Mark Breeze, Evian Christ
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/scottbrown/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/scottbrown/)*

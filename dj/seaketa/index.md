@@ -1,6 +1,6 @@
 # seaketa
 
-seaketa is a Electronica and Club artist with 1 upcoming club date listed on soundcheck as of Tue, 28 Jul 2026, next at Forestlimit, Tokyo on Wed, 29 Jul 2026.
+seaketa is a Electronica and Club artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at Forestlimit, Tokyo on Wed, 29 Jul 2026.
 
 seaketa is an electronica and club artist based in Japan, tracked on soundcheck, with 22 sets logged across Kyoto and Tokyo. Often billed alongside NordOst, pnnikin and okadada. Next up: Forestlimit, Tokyo on Wed 29 Jul.
 
@@ -25,4 +25,4 @@ seaketa is an electronica and club artist based in Japan, tracked on soundcheck,
 
 NordOst, pnnikin, okadada
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/seaketa/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/seaketa/)*

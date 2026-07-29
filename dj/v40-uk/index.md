@@ -1,6 +1,6 @@
 # V.40
 
-V.40 is a Techno and Industrial artist with 2 upcoming club dates listed on soundcheck as of Tue, 28 Jul 2026, next at Ormside Projects, London on Fri, 31 Jul 2026.
+V.40 is a Techno and Industrial artist with 2 upcoming club dates listed on soundcheck as of Wed, 29 Jul 2026, next at Ormside Projects, London on Fri, 31 Jul 2026.
 
 V.40 is a techno and industrial artist based in United Kingdom, tracked on soundcheck, with 7 sets logged across London. Often billed alongside Denise Rabe, Keti Monro and Laura MRLS. Next up: Ormside Projects, London on Fri 31 Jul.
 
@@ -23,4 +23,4 @@ V.40 is a techno and industrial artist based in United Kingdom, tracked on sound
 
 Denise Rabe, Keti Monro, Laura MRLS
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/v40-uk/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/v40-uk/)*

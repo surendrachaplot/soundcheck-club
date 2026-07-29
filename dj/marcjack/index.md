@@ -1,6 +1,6 @@
 # Marcjack
 
-Marcjack is a Tech House artist with 1 upcoming club date listed on soundcheck as of Tue, 28 Jul 2026, next at Ibiza Jet, Ibiza on Thu, 30 Jul 2026.
+Marcjack is a Tech House artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at Ibiza Jet, Ibiza on Thu, 30 Jul 2026.
 
 Marcjack is a tech house artist based in Spain, tracked on soundcheck, with 1 set logged across Ibiza. Often billed alongside Oxy (Ro) and Umaedo. Next up: Ibiza Jet, Ibiza on Thu 30 Jul.
 
@@ -14,4 +14,4 @@ Marcjack is a tech house artist based in Spain, tracked on soundcheck, with 1 se
 
 Oxy (Ro), Umaedo
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/marcjack/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/marcjack/)*

@@ -1,6 +1,6 @@
 # Aazure
 
-Aazure is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Tue, 28 Jul 2026, next at Superior Ingredients, New York City on Sun, 2 Aug 2026.
+Aazure is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at Superior Ingredients, New York City on Sun, 2 Aug 2026.
 
 Aazure is a house and disco artist based in United States of America, tracked on soundcheck, with 15 sets logged across Newyorkcity. Often billed alongside James Juke, Kipp and eskay. Next up: Superior Ingredients, Newyorkcity on Sun 2 Aug.
 
@@ -25,4 +25,4 @@ Aazure is a house and disco artist based in United States of America, tracked on
 
 James Juke, Kipp, eskay
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/aazure/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/aazure/)*

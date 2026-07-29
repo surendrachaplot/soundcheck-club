@@ -1,6 +1,6 @@
 # Nicolas Binder
 
-Nicolas Binder is a Trance and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 28 Jul 2026, next at Gateway Gardens Ocean Club, Frankfurt on Fri, 11 Sept 2026.
+Nicolas Binder is a Trance and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at Gateway Gardens Ocean Club, Frankfurt on Fri, 11 Sept 2026.
 
 Nicolas Binder is a trance and techno artist based in Germany, tracked on soundcheck, with 4 sets logged across Basel, Berlin and Frankfurt. Often billed alongside ANN-LUX, AVAION and DJ GUESTLIST. Next up: Gateway Gardens Ocean Club, Frankfurt on Fri 11 Sept.
 
@@ -20,4 +20,4 @@ Nicolas Binder is a trance and techno artist based in Germany, tracked on soundc
 
 ANN-LUX, AVAION, DJ GUESTLIST
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/nicolasbinder/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/nicolasbinder/)*

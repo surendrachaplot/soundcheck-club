@@ -1,6 +1,6 @@
 # harmo:nika
 
-harmo:nika is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 28 Jul 2026, next at River Ship Vecrīga, Riga on Fri, 7 Aug 2026.
+harmo:nika is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at River Ship Vecrīga, Riga on Fri, 7 Aug 2026.
 
 harmo:nika is a house and techno artist based in Latvia, tracked on soundcheck, with 4 sets logged across Riga. Often billed alongside Adam Blake, Bttologic and D I N. Next up: River Ship Vecrīga, Riga on Fri 7 Aug.
 
@@ -20,4 +20,4 @@ harmo:nika is a house and techno artist based in Latvia, tracked on soundcheck, 
 
 Adam Blake, Bttologic, D I N
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/harmonika/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/harmonika/)*

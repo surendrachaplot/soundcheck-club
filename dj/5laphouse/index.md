@@ -1,6 +1,6 @@
 # 5LAPHOUSE
 
-5LAPHOUSE is a Club and Ghetto Tech artist with 1 upcoming club date listed on soundcheck as of Tue, 28 Jul 2026, next at Jupiter Disco, New York City on Thu, 30 Jul 2026.
+5LAPHOUSE is a Club and Ghetto Tech artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at Jupiter Disco, New York City on Thu, 30 Jul 2026.
 
 5LAPHOUSE is a club and ghetto tech artist based in United States of America, tracked on soundcheck, with 4 sets logged across Chicago and Newyorkcity. Often billed alongside AG (1), LITA DA DOLL and Loqum. Next up: Jupiter Disco, Newyorkcity on Thu 30 Jul.
 
@@ -20,4 +20,4 @@
 
 AG (1), LITA DA DOLL, Loqum
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/5laphouse/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/5laphouse/)*

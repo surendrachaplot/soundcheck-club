@@ -1,6 +1,6 @@
 # dyspony
 
-dyspony is a Hardcore and Club artist with 1 upcoming club date listed on soundcheck as of Tue, 28 Jul 2026, next at TBA - Toronto outdoor location- info sent via email, on the 1st after 4pm, Toronto on Sat, 1 Aug 2026.
+dyspony is a Hardcore and Club artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at TBA - Toronto outdoor location- info sent via email, on the 1st after 4pm, Toronto on Sat, 1 Aug 2026.
 
 dyspony is a hardcore and club artist based in Canada, tracked on soundcheck, with 9 sets logged across Toronto. Often billed alongside GUSSYEE, xeon æon and Miss Bible. Next up: TBA - Toronto outdoor location- info sent via email, on the 1st after 4pm, Toronto on Sat 1 Aug.
 
@@ -25,4 +25,4 @@ dyspony is a hardcore and club artist based in Canada, tracked on soundcheck, wi
 
 GUSSYEE, xeon æon, Miss Bible
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/dyspony/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/dyspony/)*

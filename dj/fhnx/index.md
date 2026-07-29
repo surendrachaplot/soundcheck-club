@@ -1,6 +1,6 @@
 # FHNX
 
-FHNX is a Industrial and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 28 Jul 2026, next at Noct Club, Paris on Sat, 19 Sept 2026.
+FHNX is a Industrial and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at Noct Club, Paris on Sat, 19 Sept 2026.
 
 FHNX is an industrial and techno artist based in Netherlands, tracked on soundcheck, with 7 sets logged across Amsterdam and Paris. Often billed alongside JXLN, MILØW and MURYOKU. Next up: Noct Club, Paris on Sat 19 Sept.
 
@@ -23,4 +23,4 @@ FHNX is an industrial and techno artist based in Netherlands, tracked on soundch
 
 JXLN, MILØW, MURYOKU
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/fhnx/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/fhnx/)*

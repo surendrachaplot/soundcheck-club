@@ -1,6 +1,6 @@
 # Jamaimoi
 
-Jamaimoi is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Tue, 28 Jul 2026, next at Lorosae Bar, Lisbon on Sat, 1 Aug 2026.
+Jamaimoi is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at Lorosae Bar, Lisbon on Sat, 1 Aug 2026.
 
 Jamaimoi is a house and deep house artist based in France, tracked on soundcheck, with 20 sets logged across Lisbon and Madrid. Often billed alongside Black Pomade, Larry Quest and AlanJames. Next up: Lorosae Bar, Lisbon on Sat 1 Aug.
 
@@ -25,4 +25,4 @@ Jamaimoi is a house and deep house artist based in France, tracked on soundcheck
 
 Black Pomade, Larry Quest, AlanJames
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/jamaimoi/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/jamaimoi/)*

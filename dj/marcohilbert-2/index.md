@@ -1,6 +1,6 @@
 # Marco Hilbert (2)
 
-Marco Hilbert (2) is a electronic artist with 1 upcoming club date listed on soundcheck as of Tue, 28 Jul 2026, next at Odonien, Cologne on Fri, 31 Jul 2026.
+Marco Hilbert (2) is a electronic artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at Odonien, Cologne on Fri, 31 Jul 2026.
 
 Marco Hilbert (2) is an electronic artist based in Germany, tracked on soundcheck, with 2 sets logged across Cologne. Often billed alongside Annemalie, Elisen and HiHat. Next up: Odonien, Cologne on Fri 31 Jul.
 
@@ -18,4 +18,4 @@ Marco Hilbert (2) is an electronic artist based in Germany, tracked on soundchec
 
 Annemalie, Elisen, HiHat
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/marcohilbert-2/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/marcohilbert-2/)*

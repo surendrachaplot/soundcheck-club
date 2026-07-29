@@ -1,14 +1,15 @@
 # Arca
 
-Arca is a Experimental and Electronica artist with 1 upcoming club date listed on soundcheck as of Tue, 28 Jul 2026, next at Spazio Maiocchi, Milan on Wed, 29 Jul 2026.
+Arca is a Experimental and Electronica artist with 2 upcoming club dates listed on soundcheck as of Wed, 29 Jul 2026, next at Spazio Maiocchi, Milan on Wed, 29 Jul 2026.
 
-Arca is an experimental and electronica artist based in United States of America, tracked on soundcheck, with 29 sets logged across Athens, Barcelona, Berlin and Chicago and 11 more. Often billed alongside Nick León, Peggy Gou and Romy. Next up: Spazio Maiocchi, Milan on Wed 29 Jul.
+Arca is an experimental and electronica artist based in United States of America, tracked on soundcheck, with 30 sets logged across Athens, Barcelona, Berlin and Chicago and 11 more. Often billed alongside Nick León, Peggy Gou and Romy. Next up: Spazio Maiocchi, Milan on Wed 29 Jul.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Wed, 29 Jul 2026 | Spazio Maiocchi | Milan |
+| Thu, 30 Jul 2026 | CHICO | Mexico City |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ Arca is an experimental and electronica artist based in United States of America
 
 Nick León, Peggy Gou, Romy
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/arca/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/arca/)*

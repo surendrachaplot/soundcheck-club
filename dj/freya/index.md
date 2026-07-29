@@ -1,6 +1,6 @@
 # Freya
 
-Freya is a Techno and Psytrance artist with 1 upcoming club date listed on soundcheck as of Tue, 28 Jul 2026, next at Adventure Coast, Southport, Liverpool on Sun, 2 Aug 2026.
+Freya is a Techno and Psytrance artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at Adventure Coast, Southport, Liverpool on Sun, 2 Aug 2026.
 
 Freya is a techno and psytrance artist based in Australia, tracked on soundcheck, with 9 sets logged across Brisbane, Liverpool, London and Melbourne and 2 more. Often billed alongside Andrea Guadalupi, Andrew88 and Anja Schneider. Next up: Adventure Coast, Southport, Liverpool on Sun 2 Aug.
 
@@ -25,4 +25,4 @@ Freya is a techno and psytrance artist based in Australia, tracked on soundcheck
 
 Andrea Guadalupi, Andrew88, Anja Schneider
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/freya/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/freya/)*

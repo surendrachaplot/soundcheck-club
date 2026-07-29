@@ -1,6 +1,6 @@
 # Rick Nicolini
 
-Rick Nicolini is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Tue, 28 Jul 2026, next at Amsterdamse Bos, Amsterdam on Fri, 31 Jul 2026.
+Rick Nicolini is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at Amsterdamse Bos, Amsterdam on Fri, 31 Jul 2026.
 
 Rick Nicolini is a techno and house artist based in Italy, tracked on soundcheck, with 1 set logged across Amsterdam. Often billed alongside Christian AB, Actress and Beste Hira. Next up: Amsterdamse Bos, Amsterdam on Fri 31 Jul.
 
@@ -14,4 +14,4 @@ Rick Nicolini is a techno and house artist based in Italy, tracked on soundcheck
 
 Christian AB, Actress, Beste Hira
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/ricknicolini/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/ricknicolini/)*

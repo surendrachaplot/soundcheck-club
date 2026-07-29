@@ -1,13 +1,14 @@
 # Corinita
 
-Corinita is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Tue, 28 Jul 2026, next at Piknic Électronik / Parc Jean Drapeau, Montreal on Sun, 4 Oct 2026.
+Corinita is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Wed, 29 Jul 2026, next at Société des arts technologiques, Montreal on Fri, 4 Sept 2026.
 
-Corinita is a techno and house artist based in Canada, tracked on soundcheck, with 39 sets logged across Montreal and Toronto. Often billed alongside Xia (2), No Police and Meen Moreen. Next up: Piknic Électronik / Parc Jean Drapeau, Montreal on Sun 4 Oct.
+Corinita is a techno and house artist based in Canada, tracked on soundcheck, with 40 sets logged across Montreal and Toronto. Often billed alongside No Police, Xia (2) and Meen Moreen. Next up: Société des arts technologiques, Montreal on Fri 4 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 4 Sept 2026 | Société des arts technologiques | Montreal |
 | Sun, 4 Oct 2026 | Piknic Électronik / Parc Jean Drapeau | Montreal |
 
 ## Recently played
@@ -23,6 +24,6 @@ Corinita is a techno and house artist based in Canada, tracked on soundcheck, wi
 
 ## Shares bills with
 
-Xia (2), No Police, Meen Moreen
+No Police, Xia (2), Meen Moreen
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/corinita/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/corinita/)*

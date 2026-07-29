@@ -1,6 +1,6 @@
 # dnbtherapy: SUMMER SESSIONS: Carnival WarmUp at Distillery N17
 
-dnbtherapy: SUMMER SESSIONS: Carnival WarmUp at Distillery N17 on Fri 28 Aug, London. 2 acts on the bill: DJ Kane (1) and MC Gusto. Drum & Bass and Jungle. Preview the line-up and save it on soundcheck.
+dnbtherapy: SUMMER SESSIONS: Carnival WarmUp at Distillery N17 on Fri 28 Aug, London. 3 acts on the bill: DJ Kane (1), MC Gusto and Moscow T. Drum & Bass and Jungle. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -12,5 +12,6 @@ dnbtherapy: SUMMER SESSIONS: Carnival WarmUp at Distillery N17 on Fri 28 Aug, Lo
 
 - DJ Kane (1)
 - MC Gusto
+- Moscow T
 
 *Source: [soundcheck](https://soundcheck.club/e/2471696-dnbtherapy-summer-sessions-carnival-warmup-at-distillery-n17/)*

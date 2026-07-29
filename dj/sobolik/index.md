@@ -1,6 +1,6 @@
 # Sobolik
 
-Sobolik is a Bass and Techno artist with 2 upcoming club dates listed on soundcheck as of Tue, 28 Jul 2026, next at Trans-Pecos, New York City on Tue, 4 Aug 2026.
+Sobolik is a Bass and Techno artist with 2 upcoming club dates listed on soundcheck as of Wed, 29 Jul 2026, next at Trans-Pecos, New York City on Tue, 4 Aug 2026.
 
 Sobolik is a bass and techno artist based in United States of America, tracked on soundcheck, with 79 sets logged across Boston, Brisbane, London and Losangeles and 8 more. Often billed alongside Ma Sha, Lychee and Eva Loveless. Next up: Trans-Pecos, Newyorkcity on Tue 4 Aug.
 
@@ -26,4 +26,4 @@ Sobolik is a bass and techno artist based in United States of America, tracked o
 
 Ma Sha, Lychee, Eva Loveless
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/sobolik/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/sobolik/)*

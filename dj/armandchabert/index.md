@@ -1,6 +1,6 @@
 # Armand Chabert
 
-Armand Chabert is a House and UK Funky artist with 1 upcoming club date listed on soundcheck as of Tue, 28 Jul 2026, next at Brewpub Reijngoud, Rotterdam on Sat, 15 Aug 2026.
+Armand Chabert is a House and UK Funky artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at Brewpub Reijngoud, Rotterdam on Sat, 15 Aug 2026.
 
 Armand Chabert is a house and uk funky artist based in Netherlands, tracked on soundcheck, with 8 sets logged across Rotterdam. Often billed alongside Florezoon, Ben Diggins and Ansjowvis. Next up: Brewpub Reijngoud, Rotterdam on Sat 15 Aug.
 
@@ -24,4 +24,4 @@ Armand Chabert is a house and uk funky artist based in Netherlands, tracked on s
 
 Florezoon, Ben Diggins, Ansjowvis
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/armandchabert/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/armandchabert/)*

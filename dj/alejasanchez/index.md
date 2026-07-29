@@ -1,6 +1,6 @@
 # Aleja Sanchez
 
-Aleja Sanchez is a Techno and Dub Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 28 Jul 2026, next at Les Enfants Brillants, Barcelona on Thu, 30 Jul 2026.
+Aleja Sanchez is a Techno and Dub Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at Les Enfants Brillants, Barcelona on Thu, 30 Jul 2026.
 
 Aleja Sanchez is a techno and dub techno artist based in Colombia, tracked on soundcheck, with 10 sets logged across Amsterdam, Barcelona and Berlin. Often billed alongside Claudio PRC, !nertia and Agonis. Next up: Les Enfants Brillants, Barcelona on Thu 30 Jul.
 
@@ -25,4 +25,4 @@ Aleja Sanchez is a techno and dub techno artist based in Colombia, tracked on so
 
 Claudio PRC, !nertia, Agonis
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/alejasanchez/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/alejasanchez/)*

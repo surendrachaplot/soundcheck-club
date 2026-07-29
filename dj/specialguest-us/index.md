@@ -1,6 +1,6 @@
 # Special Guest (US)
 
-Special Guest (US) is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Tue, 28 Jul 2026, next at Audio SF, San Francisco/Oakland on Sat, 1 Aug 2026.
+Special Guest (US) is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Wed, 29 Jul 2026, next at Audio SF, San Francisco/Oakland on Sat, 1 Aug 2026.
 
 Special Guest (US) is a house and techno artist tracked on soundcheck, with 142 sets logged across Amsterdam, Antwerp, Athens and Auckland and 35 more. Often billed alongside Carasel, DJ S (UK) and SP:MC. Next up: Audio SF, Sanfrancisco on Sat 1 Aug.
 
@@ -27,4 +27,4 @@ Special Guest (US) is a house and techno artist tracked on soundcheck, with 142 
 
 Carasel, DJ S (UK), SP:MC
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/specialguest-us/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/specialguest-us/)*

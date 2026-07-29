@@ -1,6 +1,6 @@
 # K-LALA
 
-K-LALA is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 28 Jul 2026, next at Spkrbox, Detroit on Sun, 2 Aug 2026.
+K-LALA is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at Spkrbox, Detroit on Sun, 2 Aug 2026.
 
 K-LALA is a house and techno artist based in United States of America, tracked on soundcheck, with 7 sets logged across Detroit. Often billed alongside DUBYAH, Brent Shay and Govan Jones. Next up: Spkrbox, Detroit on Sun 2 Aug.
 
@@ -23,4 +23,4 @@ K-LALA is a house and techno artist based in United States of America, tracked o
 
 DUBYAH, Brent Shay, Govan Jones
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/k-lala/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/k-lala/)*

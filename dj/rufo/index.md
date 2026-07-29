@@ -1,6 +1,6 @@
 # Rufo
 
-Rufo is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 28 Jul 2026, next at 303 Audiophile Bar, Barcelona on Fri, 31 Jul 2026.
+Rufo is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at 303 Audiophile Bar, Barcelona on Fri, 31 Jul 2026.
 
 Rufo is a house and techno artist tracked on soundcheck, with 45 sets logged across Barcelona, Edinburgh, Lisbon and London and 4 more. Often billed alongside Onoffon, Sebastián and Christian Arcila. Next up: 303 Audiophile Bar, Barcelona on Fri 31 Jul.
 
@@ -25,4 +25,4 @@ Rufo is a house and techno artist tracked on soundcheck, with 45 sets logged acr
 
 Onoffon, Sebastián, Christian Arcila
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/rufo/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/rufo/)*

@@ -1,6 +1,6 @@
 # Blaame
 
-Blaame is a Techno and Acid artist with 1 upcoming club date listed on soundcheck as of Tue, 28 Jul 2026, next at Mia Mao, Paris on Fri, 31 Jul 2026.
+Blaame is a Techno and Acid artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at Mia Mao, Paris on Fri, 31 Jul 2026.
 
 Blaame is a techno and acid artist based in Belgium, tracked on soundcheck, with 9 sets logged across Brussels, Ghent and Paris. Often billed alongside Amor Satyr, Antidot and Bae Blade. Next up: Mia Mao, Paris on Fri 31 Jul.
 
@@ -25,4 +25,4 @@ Blaame is a techno and acid artist based in Belgium, tracked on soundcheck, with
 
 Amor Satyr, Antidot, Bae Blade
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/blaame/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/blaame/)*

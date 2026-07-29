@@ -1,6 +1,6 @@
 # ROWANA
 
-ROWANA is a Trance and Progressive House artist with 1 upcoming club date listed on soundcheck as of Tue, 28 Jul 2026, next at Moon Club, Bristol on Thu, 17 Sept 2026.
+ROWANA is a Trance and Progressive House artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at Moon Club, Bristol on Thu, 17 Sept 2026.
 
 ROWANA is a trance and progressive house artist based in United Kingdom, tracked on soundcheck, with 9 sets logged across Bristol. Often billed alongside Neil And I, BBY GOOSE and Bacavi. Next up: Moon Club, Bristol on Thu 17 Sept.
 
@@ -25,4 +25,4 @@ ROWANA is a trance and progressive house artist based in United Kingdom, tracked
 
 Neil And I, BBY GOOSE, Bacavi
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/rowana/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/rowana/)*

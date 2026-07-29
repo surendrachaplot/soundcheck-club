@@ -1,6 +1,6 @@
 # Michael Magnan
 
-Michael Magnan is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 28 Jul 2026, next at Dead Letter No. 9, New York City on Sat, 8 Aug 2026.
+Michael Magnan is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at Dead Letter No. 9, New York City on Sat, 8 Aug 2026.
 
 Michael Magnan is a house and techno artist based in United States of America, tracked on soundcheck, with 81 sets logged across Losangeles, Mexicocity, Newyorkcity and Sanfrancisco and 2 more. Often billed alongside Physical Therapy, Nita Aviance and Fatherhood. Next up: Dead Letter No. 9, Newyorkcity on Sat 8 Aug.
 
@@ -25,4 +25,4 @@ Michael Magnan is a house and techno artist based in United States of America, t
 
 Physical Therapy, Nita Aviance, Fatherhood
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/michaelmagnan/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/michaelmagnan/)*

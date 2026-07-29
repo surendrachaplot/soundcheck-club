@@ -1,6 +1,6 @@
 # Enish Glasgow
 
-Enish Glasgow is a music venue in Glasgow with 2 upcoming nights listed on soundcheck as of Tue, 28 Jul 2026; the next is "DJ Xclusive Performing in Glasgow" on Fri, 31 Jul 2026.
+Enish Glasgow is a music venue in Glasgow with 2 upcoming nights listed on soundcheck as of Wed, 29 Jul 2026; the next is "DJ Xclusive Performing in Glasgow" on Fri, 31 Jul 2026.
 
 Enish Glasgow is a music venue in Glasgow listed on soundcheck. 2 upcoming nights. Browse upcoming dates, start times and who's playing. 186 Bath St, Glasgow G2 4HG.
 
@@ -15,4 +15,4 @@ Enish Glasgow is a music venue in Glasgow listed on soundcheck. 2 upcoming night
 
 186 Bath St, Glasgow G2 4HG, Glasgow
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/glasgow/club/enish-glasgow/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/glasgow/club/enish-glasgow/)*

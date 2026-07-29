@@ -1,6 +1,6 @@
 # Joules
 
-Joules is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 28 Jul 2026, next at Under Bridge Madrid, Madrid on Sat, 8 Aug 2026.
+Joules is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at Under Bridge Madrid, Madrid on Sat, 8 Aug 2026.
 
 Joules is a house and techno artist based in Spain, tracked on soundcheck, with 21 sets logged across London, Madrid and Vienna. Often billed alongside David Page, Giorgio Robles and Giulia Mad. Next up: Under Bridge Madrid, Madrid on Sat 8 Aug.
 
@@ -25,4 +25,4 @@ Joules is a house and techno artist based in Spain, tracked on soundcheck, with 
 
 David Page, Giorgio Robles, Giulia Mad
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/joules/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/joules/)*

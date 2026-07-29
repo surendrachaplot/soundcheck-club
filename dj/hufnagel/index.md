@@ -1,6 +1,6 @@
 # Hufnagel
 
-Hufnagel is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Tue, 28 Jul 2026, next at Golden Pudel Club, Hamburg on Sat, 1 Aug 2026.
+Hufnagel is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at Golden Pudel Club, Hamburg on Sat, 1 Aug 2026.
 
 Hufnagel is a house and disco artist based in Germany, tracked on soundcheck, with 25 sets logged across Hamburg. Often billed alongside DJ Dreams, cmp (1) and david bay. Next up: Golden Pudel Club, Hamburg on Sat 1 Aug.
 
@@ -25,4 +25,4 @@ Hufnagel is a house and disco artist based in Germany, tracked on soundcheck, wi
 
 DJ Dreams, cmp (1), david bay
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/hufnagel/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/hufnagel/)*

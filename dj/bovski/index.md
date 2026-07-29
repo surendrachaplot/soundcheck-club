@@ -1,6 +1,6 @@
 # BOVSKI
 
-BOVSKI is a Techno and House artist with 5 upcoming club dates listed on soundcheck as of Tue, 28 Jul 2026, next at Waschhaus, Berlin on Fri, 7 Aug 2026.
+BOVSKI is a Techno and House artist with 5 upcoming club dates listed on soundcheck as of Wed, 29 Jul 2026, next at Waschhaus, Berlin on Fri, 7 Aug 2026.
 
 BOVSKI is a techno and house artist based in Germany, tracked on soundcheck, with 16 sets logged across Berlin, Cologne, Dusseldorf and Frankfurt and 6 more. Often billed alongside A.N.I., Johannes Schuster and Noel Holler. Next up: Waschhaus, Berlin on Fri 7 Aug.
 
@@ -29,4 +29,4 @@ BOVSKI is a techno and house artist based in Germany, tracked on soundcheck, wit
 
 A.N.I., Johannes Schuster, Noel Holler
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/bovski/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/bovski/)*

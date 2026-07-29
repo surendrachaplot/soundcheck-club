@@ -1,6 +1,6 @@
 # Yung Prado
 
-Yung Prado is a House and Electronica artist with 2 upcoming club dates listed on soundcheck as of Tue, 28 Jul 2026, next at La Terrrazza, Barcelona on Sat, 1 Aug 2026.
+Yung Prado is a House and Electronica artist with 2 upcoming club dates listed on soundcheck as of Wed, 29 Jul 2026, next at La Terrrazza, Barcelona on Sat, 1 Aug 2026.
 
 Yung Prado is a house and electronica artist tracked on soundcheck, with 40 sets logged across Barcelona, Berlin, Ibiza and Lisbon and 4 more. Often billed alongside Nile Fee, Adria (ES) and Baldman. Next up: La Terrrazza, Barcelona on Sat 1 Aug.
 
@@ -26,4 +26,4 @@ Yung Prado is a house and electronica artist tracked on soundcheck, with 40 sets
 
 Nile Fee, Adria (ES), Baldman
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/yungprado/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/yungprado/)*

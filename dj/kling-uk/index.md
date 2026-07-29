@@ -1,6 +1,6 @@
 # Kling
 
-Kling is a Techno and Tech House artist with 2 upcoming club dates listed on soundcheck as of Tue, 28 Jul 2026, next at TBA, London on Sat, 1 Aug 2026.
+Kling is a Techno and Tech House artist with 2 upcoming club dates listed on soundcheck as of Wed, 29 Jul 2026, next at TBA, London on Sat, 1 Aug 2026.
 
 Kling is a techno and tech house artist tracked on soundcheck, with 32 sets logged across Cologne, London, Paris and Tallinn. Often billed alongside Almeida Moura, Duwat? and Monnay. Next up: TBA, London on Sat 1 Aug.
 
@@ -26,4 +26,4 @@ Kling is a techno and tech house artist tracked on soundcheck, with 32 sets logg
 
 Almeida Moura, Duwat?, Monnay
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/kling-uk/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/kling-uk/)*

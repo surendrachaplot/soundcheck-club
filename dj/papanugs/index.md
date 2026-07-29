@@ -1,6 +1,6 @@
 # Papa Nugs
 
-Papa Nugs is a House and Techno artist with 4 upcoming club dates listed on soundcheck as of Tue, 28 Jul 2026, next at NUMBER 90 LONDON, London on Thu, 30 Jul 2026.
+Papa Nugs is a House and Techno artist with 4 upcoming club dates listed on soundcheck as of Wed, 29 Jul 2026, next at NUMBER 90 LONDON, London on Thu, 30 Jul 2026.
 
 Papa Nugs is a house and techno artist tracked on soundcheck, with 153 sets logged across Aberdeen, Amsterdam, Auckland and Barcelona and 24 more. Often billed alongside A For Alpha, KT and DJ ADHD. Next up: NUMBER 90 LONDON, London on Thu 30 Jul.
 
@@ -28,4 +28,4 @@ Papa Nugs is a house and techno artist tracked on soundcheck, with 153 sets logg
 
 A For Alpha, KT, DJ ADHD
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/papanugs/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/papanugs/)*

@@ -1,6 +1,6 @@
 # MILI (2)
 
-MILI (2) is a Afro House and Afro Tech artist with 1 upcoming club date listed on soundcheck as of Tue, 28 Jul 2026, next at Monarca, Vancouver on Sat, 1 Aug 2026.
+MILI (2) is a Afro House and Afro Tech artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at Monarca, Vancouver on Sat, 1 Aug 2026.
 
 MILI (2) is an afro house and afro tech artist based in Canada, tracked on soundcheck, with 7 sets logged across Ibiza, Toronto and Vancouver. Often billed alongside Bardia Ghobadi, Hoomance and Sam Haze. Next up: Monarca, Vancouver on Sat 1 Aug.
 
@@ -23,4 +23,4 @@ MILI (2) is an afro house and afro tech artist based in Canada, tracked on sound
 
 Bardia Ghobadi, Hoomance, Sam Haze
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/mili-2/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/mili-2/)*

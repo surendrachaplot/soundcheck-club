@@ -1,6 +1,6 @@
 # Nevinnost
 
-Nevinnost is a Bass and Electronica artist with 1 upcoming club date listed on soundcheck as of Tue, 28 Jul 2026, next at Ankali & Planeta Za, Prague on Fri, 31 Jul 2026.
+Nevinnost is a Bass and Electronica artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at Ankali & Planeta Za, Prague on Fri, 31 Jul 2026.
 
 Nevinnost is a bass and electronica artist based in Czech Republic, tracked on soundcheck, with 17 sets logged across Prague. Often billed alongside Høll, Cosmodan and Kaa Glo. Next up: Ankali & Planeta Za, Prague on Fri 31 Jul.
 
@@ -25,4 +25,4 @@ Nevinnost is a bass and electronica artist based in Czech Republic, tracked on s
 
 Høll, Cosmodan, Kaa Glo
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/nevinnost/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/nevinnost/)*

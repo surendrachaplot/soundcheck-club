@@ -1,6 +1,6 @@
 # Mauro Picotto
 
-Mauro Picotto is a Trance and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 28 Jul 2026, next at Darby Street Station, Auckland on Fri, 31 Jul 2026.
+Mauro Picotto is a Trance and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at Darby Street Station, Auckland on Fri, 31 Jul 2026.
 
 Mauro Picotto is a trance and techno artist tracked on soundcheck, with 32 sets logged across Aberdeen, Amsterdam, Auckland and Budapest and 15 more. Often billed alongside Billy Gillies, Judge Jules and Amy Wiles. Next up: Darby Street Station, Auckland on Fri 31 Jul.
 
@@ -25,4 +25,4 @@ Mauro Picotto is a trance and techno artist tracked on soundcheck, with 32 sets 
 
 Billy Gillies, Judge Jules, Amy Wiles
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/mauropicotto/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/mauropicotto/)*

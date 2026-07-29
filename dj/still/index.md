@@ -1,6 +1,6 @@
 # STILL
 
-STILL is a Bass and Experimental artist with 1 upcoming club date listed on soundcheck as of Tue, 28 Jul 2026, next at TBA - Apiro, Marche IT, Milan on Thu, 30 Jul 2026.
+STILL is a Bass and Experimental artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at TBA - Apiro, Marche IT, Milan on Thu, 30 Jul 2026.
 
 STILL is a bass and experimental artist tracked on soundcheck, with 33 sets logged across Athens, Barcelona, Berlin and Lisbon and 5 more. Often billed alongside MBODJ, Bill Kouligas and Covco. Next up: TBA - Apiro, Marche IT, Milan on Thu 30 Jul.
 
@@ -25,4 +25,4 @@ STILL is a bass and experimental artist tracked on soundcheck, with 33 sets logg
 
 MBODJ, Bill Kouligas, Covco
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/still/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/still/)*

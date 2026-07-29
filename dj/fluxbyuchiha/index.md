@@ -1,6 +1,6 @@
 # Flux By Uchiha
 
-Flux By Uchiha is a Techno and Downtempo artist with 1 upcoming club date listed on soundcheck as of Tue, 28 Jul 2026, next at TBA - Apiro, Marche IT, Milan on Thu, 30 Jul 2026.
+Flux By Uchiha is a Techno and Downtempo artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at TBA - Apiro, Marche IT, Milan on Thu, 30 Jul 2026.
 
 Flux By Uchiha is a techno and downtempo artist based in Italy, tracked on soundcheck, with 17 sets logged across Belgrade, Milan and Rome. Often billed alongside Hans Arsen, Giesse and Dove Quiete. Next up: TBA - Apiro, Marche IT, Milan on Thu 30 Jul.
 
@@ -25,4 +25,4 @@ Flux By Uchiha is a techno and downtempo artist based in Italy, tracked on sound
 
 Hans Arsen, Giesse, Dove Quiete
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/fluxbyuchiha/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/fluxbyuchiha/)*

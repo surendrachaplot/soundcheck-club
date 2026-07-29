@@ -1,6 +1,6 @@
 # CHELO
 
-CHELO is a Hip-Hop and R&B artist with 2 upcoming club dates listed on soundcheck as of Tue, 28 Jul 2026, next at Say No More Madrid, Madrid on Fri, 31 Jul 2026.
+CHELO is a Hip-Hop and R&B artist with 2 upcoming club dates listed on soundcheck as of Wed, 29 Jul 2026, next at Say No More Madrid, Madrid on Fri, 31 Jul 2026.
 
 CHELO is a hip-hop and r&b artist based in Germany, tracked on soundcheck, with 18 sets logged across Berlin, Copenhagen, Frankfurt and Leipzig and 6 more. Often billed alongside Chadee, Cafgar and DISTORT (ES). Next up: Say No More Madrid, Madrid on Fri 31 Jul.
 
@@ -26,4 +26,4 @@ CHELO is a hip-hop and r&b artist based in Germany, tracked on soundcheck, with 
 
 Chadee, Cafgar, DISTORT (ES)
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/chelo/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/chelo/)*

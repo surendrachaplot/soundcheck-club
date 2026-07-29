@@ -1,6 +1,6 @@
 # solito caleb
 
-solito caleb is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Tue, 28 Jul 2026, next at TBA, Berlin on Sat, 8 Aug 2026.
+solito caleb is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at TBA, Berlin on Sat, 8 Aug 2026.
 
 solito caleb is a techno and house artist based in Italy, tracked on soundcheck, with 14 sets logged across Berlin. Often billed alongside Atlas Mob, Jeune Louve and Petru B. Next up: TBA, Berlin on Sat 8 Aug.
 
@@ -25,4 +25,4 @@ solito caleb is a techno and house artist based in Italy, tracked on soundcheck,
 
 Atlas Mob, Jeune Louve, Petru B
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/solitocaleb/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/solitocaleb/)*

@@ -1,8 +1,8 @@
 # Bruce
 
-Bruce is a Techno and Bass artist with 2 upcoming club dates listed on soundcheck as of Tue, 28 Jul 2026, next at Strange Brew, Bristol on Sat, 8 Aug 2026.
+Bruce is a Techno and Bass artist with 3 upcoming club dates listed on soundcheck as of Wed, 29 Jul 2026, next at Strange Brew, Bristol on Sat, 8 Aug 2026.
 
-Bruce is a techno and bass artist based in United Kingdom, tracked on soundcheck, with 39 sets logged across Amsterdam, Berlin, Bristol and Edinburgh and 9 more. Often billed alongside Ploy, Alicia (UK) and Allecto. Next up: Strange Brew, Bristol on Sat 8 Aug.
+Bruce is a techno and bass artist based in United Kingdom, tracked on soundcheck, with 40 sets logged across Amsterdam, Berlin, Bristol and Edinburgh and 9 more. Often billed alongside Ploy, Alicia (UK) and Allecto. Next up: Strange Brew, Bristol on Sat 8 Aug.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Bruce is a techno and bass artist based in United Kingdom, tracked on soundcheck
 | --- | --- | --- |
 | Sat, 8 Aug 2026 | Strange Brew | Bristol |
 | Fri, 14 Aug 2026 | M.O.T | London |
+| Sat, 15 Aug 2026 | The Cider Box | Bristol |
 
 ## Recently played
 
@@ -26,4 +27,4 @@ Bruce is a techno and bass artist based in United Kingdom, tracked on soundcheck
 
 Ploy, Alicia (UK), Allecto
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/bruce/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/bruce/)*

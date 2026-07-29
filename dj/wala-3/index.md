@@ -1,6 +1,6 @@
 # Wala
 
-Wala is a Techno artist with 3 upcoming club dates listed on soundcheck as of Tue, 28 Jul 2026, next at FOLD, London on Fri, 31 Jul 2026.
+Wala is a Techno artist with 3 upcoming club dates listed on soundcheck as of Wed, 29 Jul 2026, next at FOLD, London on Fri, 31 Jul 2026.
 
 Wala is a techno artist based in Belgium, tracked on soundcheck, with 12 sets logged across Amsterdam, Athens, Berlin and Brussels and 4 more. Often billed alongside Ignez, Inox Traxx and Altinbas. Next up: FOLD, London on Fri 31 Jul.
 
@@ -27,4 +27,4 @@ Wala is a techno artist based in Belgium, tracked on soundcheck, with 12 sets lo
 
 Ignez, Inox Traxx, Altinbas
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/wala-3/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/wala-3/)*

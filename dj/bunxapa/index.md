@@ -1,6 +1,6 @@
 # Bun Xapa
 
-Bun Xapa is a Afro House and House artist with 1 upcoming club date listed on soundcheck as of Tue, 28 Jul 2026, next at Chinois Ibiza, Ibiza on Fri, 4 Sept 2026.
+Bun Xapa is a Afro House and House artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at Chinois Ibiza, Ibiza on Fri, 4 Sept 2026.
 
 Bun Xapa is an afro house and house artist tracked on soundcheck, with 37 sets logged across Amsterdam, Athens, Berlin and Brussels and 13 more. Often billed alongside Rancido, DJ BREYTH and AWEN. Next up: Chinois Ibiza, Ibiza on Fri 4 Sept.
 
@@ -25,4 +25,4 @@ Bun Xapa is an afro house and house artist tracked on soundcheck, with 37 sets l
 
 Rancido, DJ BREYTH, AWEN
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/bunxapa/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/bunxapa/)*

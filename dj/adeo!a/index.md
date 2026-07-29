@@ -1,6 +1,6 @@
 # Adeo!a
 
-Adeo!a is a Afrobeats and Club artist with 1 upcoming club date listed on soundcheck as of Tue, 28 Jul 2026, next at TBA - Secret Location, Toronto on Fri, 31 Jul 2026.
+Adeo!a is a Afrobeats and Club artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at TBA - Secret Location, Toronto on Fri, 31 Jul 2026.
 
 Adeo!a is an afrobeats and club artist based in Canada, tracked on soundcheck, with 7 sets logged across Toronto. Often billed alongside baby mmune, Hangaelle and ISA.. Next up: TBA - Secret Location, Toronto on Fri 31 Jul.
 
@@ -23,4 +23,4 @@ Adeo!a is an afrobeats and club artist based in Canada, tracked on soundcheck, w
 
 baby mmune, Hangaelle, ISA.
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/adeo!a/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/adeo!a/)*

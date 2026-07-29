@@ -1,6 +1,6 @@
 # AKKI (DE)
 
-AKKI (DE) is a Techno and Psytrance artist with 1 upcoming club date listed on soundcheck as of Tue, 28 Jul 2026, next at Dürener Badesee, Cologne on Fri, 28 Aug 2026.
+AKKI (DE) is a Techno and Psytrance artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at Dürener Badesee, Cologne on Fri, 28 Aug 2026.
 
 AKKI (DE) is a techno and psytrance artist tracked on soundcheck, with 29 sets logged across Amsterdam, Berlin, Cologne and Frankfurt and 9 more. Often billed alongside Alfred Heinrichs, Klanglos and A.N.I.. Next up: Dürener Badesee, Cologne on Fri 28 Aug.
 
@@ -25,4 +25,4 @@ AKKI (DE) is a techno and psytrance artist tracked on soundcheck, with 29 sets l
 
 Alfred Heinrichs, Klanglos, A.N.I.
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/akkide/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/akkide/)*

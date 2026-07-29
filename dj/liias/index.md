@@ -1,6 +1,6 @@
 # LIIAS
 
-LIIAS is a Trance and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 28 Jul 2026, next at TBA - Near Berlin (Secret Forest), Berlin on Thu, 6 Aug 2026.
+LIIAS is a Trance and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at TBA - Near Berlin (Secret Forest), Berlin on Thu, 6 Aug 2026.
 
 LIIAS is a trance and techno artist based in Germany, tracked on soundcheck, with 12 sets logged across Berlin. Often billed alongside BENITO (DE), Filialleiter and Niotech. Next up: TBA - Near Berlin (Secret Forest), Berlin on Thu 6 Aug.
 
@@ -25,4 +25,4 @@ LIIAS is a trance and techno artist based in Germany, tracked on soundcheck, wit
 
 BENITO (DE), Filialleiter, Niotech
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/liias/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/liias/)*

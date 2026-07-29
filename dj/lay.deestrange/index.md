@@ -1,6 +1,6 @@
 # Lay.Dee Strange
 
-Lay.Dee Strange is a Drum & Bass and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 28 Jul 2026, next at Void Club, Berlin on Fri, 28 Aug 2026.
+Lay.Dee Strange is a Drum & Bass and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at Void Club, Berlin on Fri, 28 Aug 2026.
 
 Lay.Dee Strange is a drum & bass and techno artist based in Germany, tracked on soundcheck, with 31 sets logged across Berlin and Leipzig. Often billed alongside Upzet, Honschu Lee and Modulatos. Next up: Void Club, Berlin on Fri 28 Aug.
 
@@ -25,4 +25,4 @@ Lay.Dee Strange is a drum & bass and techno artist based in Germany, tracked on 
 
 Upzet, Honschu Lee, Modulatos
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/lay.deestrange/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/lay.deestrange/)*

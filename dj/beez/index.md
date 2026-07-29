@@ -1,6 +1,6 @@
 # Beez
 
-Beez is a Techno and Electro artist with 1 upcoming club date listed on soundcheck as of Tue, 28 Jul 2026, next at Hive Club, Zurich on Sat, 15 Aug 2026.
+Beez is a Techno and Electro artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at Hive Club, Zurich on Sat, 15 Aug 2026.
 
 Beez is a techno and electro artist based in United Kingdom, tracked on soundcheck, with 7 sets logged across Bristol and Zurich. Often billed alongside And Hazel, Dajk and Dario La Mazza. Next up: Hive Club, Zurich on Sat 15 Aug.
 
@@ -23,4 +23,4 @@ Beez is a techno and electro artist based in United Kingdom, tracked on soundche
 
 And Hazel, Dajk, Dario La Mazza
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/beez/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/beez/)*

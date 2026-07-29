@@ -1,6 +1,6 @@
 # TAKASON
 
-TAKASON is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Tue, 28 Jul 2026, next at Ginza Records & Audio Kuramae, Tokyo on Wed, 29 Jul 2026.
+TAKASON is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at Ginza Records & Audio Kuramae, Tokyo on Wed, 29 Jul 2026.
 
 TAKASON is a techno and house artist based in Japan, tracked on soundcheck, with 13 sets logged across Tokyo. Often billed alongside Dia Dora 10, Yohei Hibiki and Arao. Next up: Ginza Records & Audio Kuramae, Tokyo on Wed 29 Jul.
 
@@ -25,4 +25,4 @@ TAKASON is a techno and house artist based in Japan, tracked on soundcheck, with
 
 Dia Dora 10, Yohei Hibiki, Arao
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/takason/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/takason/)*

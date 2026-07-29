@@ -1,6 +1,6 @@
 # PARALLELL
 
-PARALLELL is a House and Tech House artist with 2 upcoming club dates listed on soundcheck as of Tue, 28 Jul 2026, next at Beachouse, Ibiza on Wed, 29 Jul 2026.
+PARALLELL is a House and Tech House artist with 2 upcoming club dates listed on soundcheck as of Wed, 29 Jul 2026, next at Beachouse, Ibiza on Wed, 29 Jul 2026.
 
 PARALLELL is a house and tech house artist based in Colombia, tracked on soundcheck, with 14 sets logged across Ibiza, Malaga and Toronto. Often billed alongside Chloe J, Mateo Blanco and SHERA. Next up: Beachouse, Ibiza on Wed 29 Jul.
 
@@ -26,4 +26,4 @@ PARALLELL is a house and tech house artist based in Colombia, tracked on soundch
 
 Chloe J, Mateo Blanco, SHERA
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/parallell/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/parallell/)*

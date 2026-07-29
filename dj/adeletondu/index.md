@@ -1,6 +1,6 @@
 # Adele Tondu
 
-Adele Tondu is a Bass and Garage artist with 1 upcoming club date listed on soundcheck as of Tue, 28 Jul 2026, next at XOYO, London on Thu, 6 Aug 2026.
+Adele Tondu is a Bass and Garage artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at XOYO, London on Thu, 6 Aug 2026.
 
 Adele Tondu is a bass and garage artist based in United Kingdom, tracked on soundcheck, with 27 sets logged across Liverpool, London and Manchester. Often billed alongside Sham Steele, Atiké and Amber Rose. Next up: XOYO, London on Thu 6 Aug.
 
@@ -25,4 +25,4 @@ Adele Tondu is a bass and garage artist based in United Kingdom, tracked on soun
 
 Sham Steele, Atiké, Amber Rose
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/adeletondu/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/adeletondu/)*

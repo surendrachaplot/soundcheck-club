@@ -1,6 +1,6 @@
 # Sinistermind
 
-Sinistermind is a Techno and Electronica artist with 1 upcoming club date listed on soundcheck as of Tue, 28 Jul 2026, next at TBA, Mexico City on Sat, 1 Aug 2026.
+Sinistermind is a Techno and Electronica artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at TBA, Mexico City on Sat, 1 Aug 2026.
 
 Sinistermind is a techno and electronica artist based in Colombia, tracked on soundcheck, with 25 sets logged across Mexicocity and Newyorkcity. Often billed alongside Lady Tazz, Bluecommand and Octoptic. Next up: TBA, Mexicocity on Sat 1 Aug.
 
@@ -25,4 +25,4 @@ Sinistermind is a techno and electronica artist based in Colombia, tracked on so
 
 Lady Tazz, Bluecommand, Octoptic
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/sinistermind/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/sinistermind/)*

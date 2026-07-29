@@ -1,6 +1,6 @@
 # SENGA
 
-SENGA is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Tue, 28 Jul 2026, next at The Chocolate Factory, New York City on Fri, 31 Jul 2026.
+SENGA is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at The Chocolate Factory, New York City on Fri, 31 Jul 2026.
 
 SENGA is a techno and house artist based in United States of America, tracked on soundcheck, with 99 sets logged across Antwerp, Berlin, Newyorkcity and Washingtondc. Often billed alongside Dundar, TS Julien and Wren's Lullaby. Next up: The Chocolate Factory, Newyorkcity on Fri 31 Jul.
 
@@ -25,4 +25,4 @@ SENGA is a techno and house artist based in United States of America, tracked on
 
 Dundar, TS Julien, Wren's Lullaby
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/senga/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/senga/)*

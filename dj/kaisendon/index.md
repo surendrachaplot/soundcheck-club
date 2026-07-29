@@ -1,6 +1,6 @@
 # KAISENDON
 
-KAISENDON is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Tue, 28 Jul 2026, next at Atdge Seoul, Seoul on Wed, 29 Jul 2026.
+KAISENDON is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at Atdge Seoul, Seoul on Wed, 29 Jul 2026.
 
 KAISENDON is a techno and house artist based in South Korea, tracked on soundcheck, with 20 sets logged across Seoul. Often billed alongside Hii., Hogun and NON IDENTITY. Next up: Atdge Seoul, Seoul on Wed 29 Jul.
 
@@ -25,4 +25,4 @@ KAISENDON is a techno and house artist based in South Korea, tracked on soundche
 
 Hii., Hogun, NON IDENTITY
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/kaisendon/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/kaisendon/)*

@@ -1,6 +1,6 @@
 # Phillippe
 
-Phillippe is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Tue, 28 Jul 2026, next at TBA - 3rd & Ontario, Vancouver on Sat, 1 Aug 2026.
+Phillippe is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Wed, 29 Jul 2026, next at TBA - 3rd & Ontario, Vancouver on Sat, 1 Aug 2026.
 
 Phillippe is a house and techno artist tracked on soundcheck, with 71 sets logged across Mexicocity, Montreal, Toronto and Vancouver. Often billed alongside Karim Olen Ash, Jaw Jones and Jeremy Glenn. Next up: TBA - 3rd & Ontario, Vancouver on Sat 1 Aug.
 
@@ -27,4 +27,4 @@ Phillippe is a house and techno artist tracked on soundcheck, with 71 sets logge
 
 Karim Olen Ash, Jaw Jones, Jeremy Glenn
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/phillippe/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/phillippe/)*

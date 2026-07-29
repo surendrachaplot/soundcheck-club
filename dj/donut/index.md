@@ -1,6 +1,6 @@
 # Donut
 
-Donut is a Broken Beat and House artist with 1 upcoming club date listed on soundcheck as of Tue, 28 Jul 2026, next at The Carpet Shop, London on Sat, 1 Aug 2026.
+Donut is a Broken Beat and House artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at The Carpet Shop, London on Sat, 1 Aug 2026.
 
 Donut is a broken beat and house artist tracked on soundcheck, with 41 sets logged across Bristol and London. Often billed alongside Rohan Rakhit, Cam Joon and LORA S. Next up: The Carpet Shop, London on Sat 1 Aug.
 
@@ -25,4 +25,4 @@ Donut is a broken beat and house artist tracked on soundcheck, with 41 sets logg
 
 Rohan Rakhit, Cam Joon, LORA S
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/donut/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/donut/)*

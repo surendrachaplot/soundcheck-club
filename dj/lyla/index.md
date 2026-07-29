@@ -1,6 +1,6 @@
 # Lyla
 
-Lyla is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Tue, 28 Jul 2026, next at Renate, Berlin on Fri, 31 Jul 2026.
+Lyla is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at Renate, Berlin on Fri, 31 Jul 2026.
 
 Lyla is a house and disco artist based in United Kingdom, tracked on soundcheck, with 23 sets logged across Berlin, Edinburgh, Glasgow and London and 5 more. Often billed alongside Percy Main, Dilly Joints and Jessy Nimni. Next up: Renate, Berlin on Fri 31 Jul.
 
@@ -25,4 +25,4 @@ Lyla is a house and disco artist based in United Kingdom, tracked on soundcheck,
 
 Percy Main, Dilly Joints, Jessy Nimni
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/lyla/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/lyla/)*

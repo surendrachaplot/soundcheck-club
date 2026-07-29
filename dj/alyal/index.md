@@ -1,6 +1,6 @@
 # ALYA L
 
-ALYA L is a Bass and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 28 Jul 2026, next at Strange Brew, Bristol on Fri, 31 Jul 2026.
+ALYA L is a Bass and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at Strange Brew, Bristol on Fri, 31 Jul 2026.
 
 ALYA L is a bass and techno artist tracked on soundcheck, with 27 sets logged across Berlin, Bristol, Leeds and London and 1 more. Often billed alongside Jurango, fig (4) and k means. Next up: Strange Brew, Bristol on Fri 31 Jul.
 
@@ -25,4 +25,4 @@ ALYA L is a bass and techno artist tracked on soundcheck, with 27 sets logged ac
 
 Jurango, fig (4), k means
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/alyal/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/alyal/)*

@@ -1,6 +1,6 @@
 # RIVKA R3 NYC
 
-RIVKA R3 NYC is a Deep House and House artist with 2 upcoming club dates listed on soundcheck as of Tue, 28 Jul 2026, next at MAD Radio NYC, New York City on Wed, 29 Jul 2026.
+RIVKA R3 NYC is a Deep House and House artist with 2 upcoming club dates listed on soundcheck as of Wed, 29 Jul 2026, next at MAD Radio NYC, New York City on Wed, 29 Jul 2026.
 
 RIVKA R3 NYC is a deep house and house artist based in United States of America, tracked on soundcheck, with 21 sets logged across Newyorkcity. Often billed alongside Melowdee, Rebel Fusion NYC and RUBI (R3, NYC). Next up: MAD Radio NYC, Newyorkcity on Wed 29 Jul.
 
@@ -26,4 +26,4 @@ RIVKA R3 NYC is a deep house and house artist based in United States of America,
 
 Melowdee, Rebel Fusion NYC, RUBI (R3, NYC)
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/rivkar3nyc/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/rivkar3nyc/)*

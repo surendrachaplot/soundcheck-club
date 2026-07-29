@@ -1,6 +1,6 @@
 # Marcus L
 
-Marcus L is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Tue, 28 Jul 2026, next at Faust, Seoul on Fri, 31 Jul 2026.
+Marcus L is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at Faust, Seoul on Fri, 31 Jul 2026.
 
 Marcus L is a techno and house artist tracked on soundcheck, with 152 sets logged across Amsterdam, Bangkok, Berlin and Cologne and 12 more. Often billed alongside Suman, Stann Lumo and Mars Parck. Next up: Faust, Seoul on Fri 31 Jul.
 
@@ -25,4 +25,4 @@ Marcus L is a techno and house artist tracked on soundcheck, with 152 sets logge
 
 Suman, Stann Lumo, Mars Parck
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/marcusl/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/marcusl/)*

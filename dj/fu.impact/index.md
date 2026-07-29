@@ -1,6 +1,6 @@
 # fU.impact
 
-fU.impact is a Trance and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 28 Jul 2026, next at ://about blank, Berlin on Fri, 21 Aug 2026.
+fU.impact is a Trance and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at ://about blank, Berlin on Fri, 21 Aug 2026.
 
 fU.impact is a trance and techno artist based in Germany, tracked on soundcheck, with 1 set logged across Berlin. Often billed alongside BIJI ON DECKS, BOOTHBUNNY and Buday. Next up: ://about blank, Berlin on Fri 21 Aug.
 
@@ -14,4 +14,4 @@ fU.impact is a trance and techno artist based in Germany, tracked on soundcheck,
 
 BIJI ON DECKS, BOOTHBUNNY, Buday
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/fu.impact/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/fu.impact/)*

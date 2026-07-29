@@ -1,6 +1,6 @@
 # Ottagone
 
-Ottagone is a Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 28 Jul 2026, next at RADION, Amsterdam on Sat, 1 Aug 2026.
+Ottagone is a Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at RADION, Amsterdam on Sat, 1 Aug 2026.
 
 Ottagone is a techno artist based in Netherlands, tracked on soundcheck, with 3 sets logged across Amsterdam, London and Milan. Often billed alongside AMORAL, Decoder and Double O. Next up: RADION, Amsterdam on Sat 1 Aug.
 
@@ -19,4 +19,4 @@ Ottagone is a techno artist based in Netherlands, tracked on soundcheck, with 3 
 
 AMORAL, Decoder, Double O
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/ottagone/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/ottagone/)*

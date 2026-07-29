@@ -1,6 +1,6 @@
 # Tsunami
 
-Tsunami is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Tue, 28 Jul 2026, next at Razzmatazz, Barcelona on Fri, 28 Aug 2026.
+Tsunami is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at Razzmatazz, Barcelona on Fri, 28 Aug 2026.
 
 Tsunami is a house and tech house artist based in Georgia, tracked on soundcheck, with 9 sets logged across Barcelona, Chicago, Kyoto and Losangeles and 2 more. Often billed alongside Nikho, 999999999 and A-Trak. Next up: Razzmatazz, Barcelona on Fri 28 Aug.
 
@@ -25,4 +25,4 @@ Tsunami is a house and tech house artist based in Georgia, tracked on soundcheck
 
 Nikho, 999999999, A-Trak
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/tsunami/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/tsunami/)*

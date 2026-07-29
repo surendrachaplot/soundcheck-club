@@ -1,6 +1,6 @@
 # EQ (Estratosfera + Qiri)
 
-EQ (Estratosfera + Qiri) is a Techno and Electro artist with 1 upcoming club date listed on soundcheck as of Tue, 28 Jul 2026, next at WaV, Liverpool on Fri, 31 Jul 2026.
+EQ (Estratosfera + Qiri) is a Techno and Electro artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at WaV, Liverpool on Fri, 31 Jul 2026.
 
 EQ (Estratosfera + Qiri) are a techno and electro duo based in Argentina, tracked on soundcheck, with 12 sets logged across Amsterdam, Barcelona, Berlin and Liverpool and 6 more. Often billed alongside Bclip, Ahadadream and Bakey. Next up: WaV, Liverpool on Fri 31 Jul.
 
@@ -25,4 +25,4 @@ EQ (Estratosfera + Qiri) are a techno and electro duo based in Argentina, tracke
 
 Bclip, Ahadadream, Bakey
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/eqestratosferaqiri/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/eqestratosferaqiri/)*

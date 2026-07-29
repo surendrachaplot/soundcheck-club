@@ -1,6 +1,6 @@
 # Bastet
 
-Bastet is a music venue in Philadelphia with 5 upcoming nights listed on soundcheck as of Tue, 28 Jul 2026; the next is "DJ Sylo (All Night)" on Fri, 31 Jul 2026.
+Bastet is a music venue in Philadelphia with 5 upcoming nights listed on soundcheck as of Wed, 29 Jul 2026; the next is "DJ Sylo (All Night)" on Fri, 31 Jul 2026.
 
 Bastet is a music venue in Philadelphia listed on soundcheck. 5 upcoming nights, with line-ups including Carl Michaels, da 445.ceo, Dj Danifox and DJ Lycox and 2 more. Browse upcoming dates, start times and who's playing. 601 Spring Garden St, Philadelphia PA 19123.
 
@@ -18,4 +18,4 @@ Bastet is a music venue in Philadelphia listed on soundcheck. 5 upcoming nights,
 
 601 Spring Garden St, Philadelphia PA 19123, Philadelphia
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/philadelphia/club/bastet/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/philadelphia/club/bastet/)*

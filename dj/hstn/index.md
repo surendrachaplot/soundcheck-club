@@ -1,6 +1,6 @@
 # HSTN
 
-HSTN is a House and Garage artist with 2 upcoming club dates listed on soundcheck as of Tue, 28 Jul 2026, next at The Rose & Monkey, Manchester on Thu, 30 Jul 2026.
+HSTN is a House and Garage artist with 2 upcoming club dates listed on soundcheck as of Wed, 29 Jul 2026, next at The Rose & Monkey, Manchester on Thu, 30 Jul 2026.
 
 HSTN is a house and garage artist based in Australia, tracked on soundcheck, with 9 sets logged across Manchester. Often billed alongside RYLO (UK), imad:re and D-LIA. Next up: The Rose & Monkey, Manchester on Thu 30 Jul.
 
@@ -25,4 +25,4 @@ HSTN is a house and garage artist based in Australia, tracked on soundcheck, wit
 
 RYLO (UK), imad:re, D-LIA
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/hstn/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/hstn/)*

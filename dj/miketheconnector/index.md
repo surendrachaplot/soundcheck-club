@@ -1,6 +1,6 @@
 # Mike The Connector
 
-Mike The Connector is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Tue, 28 Jul 2026, next at TBA - Schwing und Stampf Festival, Zurich on Thu, 27 Aug 2026.
+Mike The Connector is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at TBA - Schwing und Stampf Festival, Zurich on Thu, 27 Aug 2026.
 
 Mike The Connector is a house and tech house artist tracked on soundcheck, with 18 sets logged across Basel, Berlin, Geneva and Zurich. Often billed alongside AANN, Alex Belluscio and Andreas Ramos. Next up: TBA - Schwing und Stampf Festival, Zurich on Thu 27 Aug.
 
@@ -25,4 +25,4 @@ Mike The Connector is a house and tech house artist tracked on soundcheck, with 
 
 AANN, Alex Belluscio, Andreas Ramos
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/miketheconnector/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/miketheconnector/)*

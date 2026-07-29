@@ -1,14 +1,15 @@
 # Zuzana Hakl
 
-Zuzana Hakl is a Techno and Club artist with 1 upcoming club date listed on soundcheck as of Tue, 28 Jul 2026, next at Altenburg 1964, Prague on Sat, 8 Aug 2026.
+Zuzana Hakl is a Techno and Trance artist with 2 upcoming club dates listed on soundcheck as of Wed, 29 Jul 2026, next at Altenburg 1964, Prague on Sat, 8 Aug 2026.
 
-Zuzana Hakl is a techno and club artist based in Czech Republic, tracked on soundcheck, with 66 sets logged across Lisbon and Prague. Often billed alongside TerminusTechnikus, Epoché and SJ Yellow. Next up: Altenburg 1964, Prague on Sat 8 Aug.
+Zuzana Hakl is a techno and trance artist based in Czech Republic, tracked on soundcheck, with 67 sets logged across Lisbon and Prague. Often billed alongside TerminusTechnikus, Epoché and SJ Yellow. Next up: Altenburg 1964, Prague on Sat 8 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 8 Aug 2026 | Altenburg 1964 | Prague |
+| Fri, 18 Sept 2026 | Bike Jesus | Prague |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ Zuzana Hakl is a techno and club artist based in Czech Republic, tracked on soun
 
 TerminusTechnikus, Epoché, SJ Yellow
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/zuzanahakl/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/zuzanahakl/)*

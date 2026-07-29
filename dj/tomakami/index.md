@@ -1,6 +1,6 @@
 # Toma Kami
 
-Toma Kami is a Techno and Bass artist with 2 upcoming club dates listed on soundcheck as of Tue, 28 Jul 2026, next at TRANSMISSION DC, Washington DC on Fri, 31 Jul 2026.
+Toma Kami is a Techno and Bass artist with 2 upcoming club dates listed on soundcheck as of Wed, 29 Jul 2026, next at TRANSMISSION DC, Washington DC on Fri, 31 Jul 2026.
 
 Toma Kami is a techno and bass artist based in France, tracked on soundcheck, with 82 sets logged across Amsterdam, Austin, Barcelona and Berlin and 29 more. Often billed alongside ojoo, Ehua and re:ni. Next up: TRANSMISSION DC, Washingtondc on Fri 31 Jul.
 
@@ -26,4 +26,4 @@ Toma Kami is a techno and bass artist based in France, tracked on soundcheck, wi
 
 ojoo, Ehua, re:ni
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/tomakami/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/tomakami/)*

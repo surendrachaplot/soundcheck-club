@@ -1,6 +1,6 @@
 # p1nkstar
 
-p1nkstar is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 28 Jul 2026, next at Nowadays, New York City on Thu, 30 Jul 2026.
+p1nkstar is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at Nowadays, New York City on Thu, 30 Jul 2026.
 
 p1nkstar is a house and techno artist tracked on soundcheck, with 38 sets logged across Austin, Chicago, Mexicocity and Newyorkcity and 1 more. Often billed alongside Coyado, Pauli Cakes and Amarji King. Next up: Nowadays, Newyorkcity on Thu 30 Jul.
 
@@ -25,4 +25,4 @@ p1nkstar is a house and techno artist tracked on soundcheck, with 38 sets logged
 
 Coyado, Pauli Cakes, Amarji King
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/p1nkstar/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/p1nkstar/)*

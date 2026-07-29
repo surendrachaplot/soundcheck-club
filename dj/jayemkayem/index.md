@@ -1,6 +1,6 @@
 # Jayemkayem
 
-Jayemkayem is a UK Funky and Garage artist with 1 upcoming club date listed on soundcheck as of Tue, 28 Jul 2026, next at Temper and Brown, Birmingham on Fri, 31 Jul 2026.
+Jayemkayem is a UK Funky and Garage artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at Temper and Brown, Birmingham on Fri, 31 Jul 2026.
 
 Jayemkayem is an uk funky and garage artist based in Canada, tracked on soundcheck, with 20 sets logged across Birmingham, London, Montreal and Toronto. Often billed alongside Freeza Chin, Ana Luisa and Choirboi. Next up: Temper and Brown, Birmingham on Fri 31 Jul.
 
@@ -25,4 +25,4 @@ Jayemkayem is an uk funky and garage artist based in Canada, tracked on soundche
 
 Freeza Chin, Ana Luisa, Choirboi
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/jayemkayem/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/jayemkayem/)*

@@ -1,6 +1,6 @@
 # DJ Deep
 
-DJ Deep is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 28 Jul 2026, next at BLITZ, Munich on Fri, 31 Jul 2026.
+DJ Deep is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at BLITZ, Munich on Fri, 31 Jul 2026.
 
 DJ Deep is a house and techno artist tracked on soundcheck, with 80 sets logged across Amsterdam, Athens, Bangkok and Barcelona and 24 more. Often billed alongside Kerri Chandler, Chez Damier and DJ Reas. Next up: BLITZ, Munich on Fri 31 Jul.
 
@@ -25,4 +25,4 @@ DJ Deep is a house and techno artist tracked on soundcheck, with 80 sets logged 
 
 Kerri Chandler, Chez Damier, DJ Reas
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/djdeep/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/djdeep/)*

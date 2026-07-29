@@ -1,6 +1,6 @@
 # ALMOST HUMAN
 
-ALMOST HUMAN is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Tue, 28 Jul 2026, next at Liquid Club, Malta on Wed, 29 Jul 2026.
+ALMOST HUMAN is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Wed, 29 Jul 2026, next at Liquid Club, Malta on Wed, 29 Jul 2026.
 
 ALMOST HUMAN is a techno and house artist based in United States of America, tracked on soundcheck, with 5 sets logged across Barcelona, Malta and Valencia. Often billed alongside Billy Hills, Edu Imbernon and Ilixan Iris. Next up: Liquid Club, Malta on Wed 29 Jul.
 
@@ -21,4 +21,4 @@ ALMOST HUMAN is a techno and house artist based in United States of America, tra
 
 Billy Hills, Edu Imbernon, Ilixan Iris
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/almosthuman/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/almosthuman/)*

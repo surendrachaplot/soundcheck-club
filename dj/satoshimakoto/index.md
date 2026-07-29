@@ -1,6 +1,6 @@
 # Satoshi & Makoto
 
-Satoshi & Makoto is a Ambient and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 28 Jul 2026, next at Ginza Records & Audio Kuramae, Tokyo on Sat, 1 Aug 2026.
+Satoshi & Makoto is a Ambient and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at Ginza Records & Audio Kuramae, Tokyo on Sat, 1 Aug 2026.
 
 Satoshi & Makoto are an ambient and techno duo based in Japan, tracked on soundcheck, with 9 sets logged across Tokyo. Often billed alongside Lifelong Request and Sayuri (2). Next up: Ginza Records & Audio Kuramae, Tokyo on Sat 1 Aug.
 
@@ -25,4 +25,4 @@ Satoshi & Makoto are an ambient and techno duo based in Japan, tracked on soundc
 
 Lifelong Request, Sayuri (2)
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/satoshimakoto/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/satoshimakoto/)*

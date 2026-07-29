@@ -1,6 +1,6 @@
 # DAVI
 
-DAVI is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Tue, 28 Jul 2026, next at Do Not Sit On The Furniture, Miami on Fri, 31 Jul 2026.
+DAVI is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at Do Not Sit On The Furniture, Miami on Fri, 31 Jul 2026.
 
 DAVI is a house and deep house artist tracked on soundcheck, with 66 sets logged across Kyoto, Losangeles, Mexicocity and Miami and 7 more. Often billed alongside Anton Tumas, Ray Kash and Doc Martin. Next up: Do Not Sit On The Furniture, Miami on Fri 31 Jul.
 
@@ -25,4 +25,4 @@ DAVI is a house and deep house artist tracked on soundcheck, with 66 sets logged
 
 Anton Tumas, Ray Kash, Doc Martin
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/davi/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/davi/)*

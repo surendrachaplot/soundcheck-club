@@ -1,6 +1,6 @@
 # bahar khadem
 
-bahar khadem is a Club and House artist with 2 upcoming club dates listed on soundcheck as of Tue, 28 Jul 2026, next at TBA - Koreatown, Los Angeles, Los Angeles on Fri, 31 Jul 2026.
+bahar khadem is a Club and House artist with 2 upcoming club dates listed on soundcheck as of Wed, 29 Jul 2026, next at TBA - Koreatown, Los Angeles, Los Angeles on Fri, 31 Jul 2026.
 
 bahar khadem is a club and house artist based in United States of America, tracked on soundcheck, with 23 sets logged across Losangeles. Often billed alongside Mapamota, Daddy Kev and Goddollars. Next up: TBA - Koreatown, Los Angeles, Losangeles on Fri 31 Jul.
 
@@ -26,4 +26,4 @@ bahar khadem is a club and house artist based in United States of America, track
 
 Mapamota, Daddy Kev, Goddollars
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/baharkhadem/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/baharkhadem/)*

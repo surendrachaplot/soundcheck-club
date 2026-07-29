@@ -1,6 +1,6 @@
 # Doss
 
-Doss is a Club and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 28 Jul 2026, next at The Bentway, Toronto on Sat, 15 Aug 2026.
+Doss is a Club and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at The Bentway, Toronto on Sat, 15 Aug 2026.
 
 Doss is a club and techno artist tracked on soundcheck, with 50 sets logged across Athens, Austin, Berlin and Brisbane and 18 more. Often billed alongside Yves Tumor, 1NN3R53LF and CFCF. Next up: The Bentway, Toronto on Sat 15 Aug.
 
@@ -25,4 +25,4 @@ Doss is a club and techno artist tracked on soundcheck, with 50 sets logged acro
 
 Yves Tumor, 1NN3R53LF, CFCF
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/doss/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/doss/)*

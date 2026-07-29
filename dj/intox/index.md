@@ -1,6 +1,6 @@
 # INTOX
 
-INTOX is a Techno and Hardcore artist with 1 upcoming club date listed on soundcheck as of Tue, 28 Jul 2026, next at M-BIA, Berlin on Fri, 31 Jul 2026.
+INTOX is a Techno and Hardcore artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at M-BIA, Berlin on Fri, 31 Jul 2026.
 
 INTOX is a techno and hardcore artist based in Germany, tracked on soundcheck, with 17 sets logged across Berlin. Often billed alongside Refl3ction, DJ BenGalo and EAX030. Next up: M-BIA, Berlin on Fri 31 Jul.
 
@@ -25,4 +25,4 @@ INTOX is a techno and hardcore artist based in Germany, tracked on soundcheck, w
 
 Refl3ction, DJ BenGalo, EAX030
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/intox/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/intox/)*

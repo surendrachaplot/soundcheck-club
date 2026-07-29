@@ -1,6 +1,6 @@
 # CARISTA
 
-CARISTA is a House and Techno artist with 11 upcoming club dates listed on soundcheck as of Tue, 28 Jul 2026, next at TILLATEC, Amsterdam on Sat, 1 Aug 2026.
+CARISTA is a House and Techno artist with 11 upcoming club dates listed on soundcheck as of Wed, 29 Jul 2026, next at TILLATEC, Amsterdam on Sat, 1 Aug 2026.
 
 CARISTA is a house and techno artist tracked on soundcheck, with 179 sets logged across Amsterdam, Antwerp, Bali and Barcelona and 36 more. Often billed alongside Job Jobse, Eris Drew and Suze Ijó. Next up: TILLATEC, Amsterdam on Sat 1 Aug.
 
@@ -35,4 +35,4 @@ CARISTA is a house and techno artist tracked on soundcheck, with 179 sets logged
 
 Job Jobse, Eris Drew, Suze Ijó
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/carista/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/carista/)*

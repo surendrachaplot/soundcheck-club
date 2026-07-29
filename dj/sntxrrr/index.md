@@ -1,6 +1,6 @@
 # sntxrrr
 
-sntxrrr is a Gabber and Drum & Bass artist with 1 upcoming club date listed on soundcheck as of Tue, 28 Jul 2026, next at Astra Kulturhaus, Berlin on Fri, 31 Jul 2026.
+sntxrrr is a Gabber and Drum & Bass artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at Astra Kulturhaus, Berlin on Fri, 31 Jul 2026.
 
 sntxrrr is a gabber and drum & bass artist based in Germany, tracked on soundcheck, with 6 sets logged across Berlin. Often billed alongside Makinarium, Marcie (2) and Upzet. Next up: Astra Kulturhaus, Berlin on Fri 31 Jul.
 
@@ -22,4 +22,4 @@ sntxrrr is a gabber and drum & bass artist based in Germany, tracked on soundche
 
 Makinarium, Marcie (2), Upzet
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/sntxrrr/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/sntxrrr/)*

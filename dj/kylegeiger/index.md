@@ -1,6 +1,6 @@
 # Kyle Geiger
 
-Kyle Geiger is a Techno and Dub Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 28 Jul 2026, next at Lincoln Factory, Detroit on Sat, 22 Aug 2026.
+Kyle Geiger is a Techno and Dub Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at Lincoln Factory, Detroit on Sat, 22 Aug 2026.
 
 Kyle Geiger is a techno and dub techno artist based in United States of America, tracked on soundcheck, with 31 sets logged across Berlin, Chicago, Denver and Detroit and 6 more. Often billed alongside Dustin Zahn, Fadi Mohem and Hiroko Yamamura. Next up: Lincoln Factory, Detroit on Sat 22 Aug.
 
@@ -25,4 +25,4 @@ Kyle Geiger is a techno and dub techno artist based in United States of America,
 
 Dustin Zahn, Fadi Mohem, Hiroko Yamamura
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/kylegeiger/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/kylegeiger/)*

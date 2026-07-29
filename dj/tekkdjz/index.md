@@ -1,6 +1,6 @@
 # Tekk DJ'z
 
-Tekk DJ'z is a Techno and Hardcore artist with 1 upcoming club date listed on soundcheck as of Tue, 28 Jul 2026, next at Museumspark Rüdersdorf, Berlin on Sat, 1 Aug 2026.
+Tekk DJ'z is a Techno and Hardcore artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at Museumspark Rüdersdorf, Berlin on Sat, 1 Aug 2026.
 
 Tekk DJ'z is a techno and hardcore artist tracked on soundcheck, with 5 sets logged across Berlin. Often billed alongside Bass, Techno Frühstück and Tekk. Next up: Museumspark Rüdersdorf, Berlin on Sat 1 Aug.
 
@@ -21,4 +21,4 @@ Tekk DJ'z is a techno and hardcore artist tracked on soundcheck, with 5 sets log
 
 Bass, Techno Frühstück, Tekk
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/tekkdjz/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/tekkdjz/)*

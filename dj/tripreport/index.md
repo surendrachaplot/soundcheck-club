@@ -1,6 +1,6 @@
 # Trip Report
 
-Trip Report is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Tue, 28 Jul 2026, next at Phoenix Landing, Boston on Wed, 29 Jul 2026.
+Trip Report is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Wed, 29 Jul 2026, next at Phoenix Landing, Boston on Wed, 29 Jul 2026.
 
 Trip Report is a house and techno artist based in United States of America, tracked on soundcheck, with 50 sets logged across Boston, Detroit and Newyorkcity. Often billed alongside Brianna Paon, Soul Clap and DJ Kon. Next up: Phoenix Landing, Boston on Wed 29 Jul.
 
@@ -26,4 +26,4 @@ Trip Report is a house and techno artist based in United States of America, trac
 
 Brianna Paon, Soul Clap, DJ Kon
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/tripreport/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/tripreport/)*

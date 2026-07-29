@@ -1,6 +1,6 @@
 # Ko Mu
 
-Ko Mu is a House and Minimal artist with 1 upcoming club date listed on soundcheck as of Tue, 28 Jul 2026, next at Sigma, Ibiza on Sat, 1 Aug 2026.
+Ko Mu is a House and Minimal artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at Sigma, Ibiza on Sat, 1 Aug 2026.
 
 Ko Mu is a house and minimal artist based in Ukraine, tracked on soundcheck, with 10 sets logged across Ibiza and Paris. Often billed alongside The Liquid Dude, Woodson and Ekonopolis. Next up: Sigma, Ibiza on Sat 1 Aug.
 
@@ -25,4 +25,4 @@ Ko Mu is a house and minimal artist based in Ukraine, tracked on soundcheck, wit
 
 The Liquid Dude, Woodson, Ekonopolis
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/komu/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/komu/)*

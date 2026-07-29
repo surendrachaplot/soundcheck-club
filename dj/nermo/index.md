@@ -1,6 +1,6 @@
 # Nermo
 
-Nermo is a House and Electro artist with 1 upcoming club date listed on soundcheck as of Tue, 28 Jul 2026, next at Atno, Budapest on Sat, 1 Aug 2026.
+Nermo is a House and Electro artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at Atno, Budapest on Sat, 1 Aug 2026.
 
 Nermo is a house and electro artist based in Hungary, tracked on soundcheck, with 7 sets logged across Budapest. Often billed alongside Claudio Imperatrice, Kvrk and Adx. Next up: Atno, Budapest on Sat 1 Aug.
 
@@ -23,4 +23,4 @@ Nermo is a house and electro artist based in Hungary, tracked on soundcheck, wit
 
 Claudio Imperatrice, Kvrk, Adx
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/nermo/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/nermo/)*

@@ -1,6 +1,6 @@
 # Wax Witch
 
-Wax Witch is a Club and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 28 Jul 2026, next at The Monkey Loft, Seattle on Thu, 6 Aug 2026.
+Wax Witch is a Club and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at The Monkey Loft, Seattle on Thu, 6 Aug 2026.
 
 Wax Witch is a club and techno artist based in United States of America, tracked on soundcheck, with 42 sets logged across Seattle. Often billed alongside Sharlese, Lily g and Mirin Doja. Next up: The Monkey Loft, Seattle on Thu 6 Aug.
 
@@ -25,4 +25,4 @@ Wax Witch is a club and techno artist based in United States of America, tracked
 
 Sharlese, Lily g, Mirin Doja
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/waxwitch/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/waxwitch/)*

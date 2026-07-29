@@ -1,6 +1,6 @@
 # Dyed Soundorom
 
-Dyed Soundorom is a House and Tech House artist with 10 upcoming club dates listed on soundcheck as of Tue, 28 Jul 2026, next at TBA - Alfagar Prestige - Estrada de Santa Eulalia - Albufeira, Lisbon on Thu, 30 Jul 2026.
+Dyed Soundorom is a House and Tech House artist with 10 upcoming club dates listed on soundcheck as of Wed, 29 Jul 2026, next at TBA - Alfagar Prestige - Estrada de Santa Eulalia - Albufeira, Lisbon on Thu, 30 Jul 2026.
 
 Dyed Soundorom is a house and tech house artist tracked on soundcheck, with 218 sets logged across Amsterdam, Antwerp, Athens and Auckland and 50 more. Often billed alongside Shonky, Apollonia and Gene On Earth. Next up: TBA - Alfagar Prestige - Estrada de Santa Eulalia - Albufeira, Lisbon on Thu 30 Jul.
 
@@ -34,4 +34,4 @@ Dyed Soundorom is a house and tech house artist tracked on soundcheck, with 218 
 
 Shonky, Apollonia, Gene On Earth
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/dyedsoundorom/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/dyedsoundorom/)*

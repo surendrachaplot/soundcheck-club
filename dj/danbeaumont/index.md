@@ -1,6 +1,6 @@
 # Dan Beaumont
 
-Dan Beaumont is a House and Balearic artist with 1 upcoming club date listed on soundcheck as of Tue, 28 Jul 2026, next at Southwark Park, London on Sun, 30 Aug 2026.
+Dan Beaumont is a House and Balearic artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at Southwark Park, London on Sun, 30 Aug 2026.
 
 Dan Beaumont is a house and balearic artist tracked on soundcheck, with 26 sets logged across Amsterdam, Ibiza, London and Manchester. Often billed alongside Nadia Ksaiba, THEMPRESS and Amaliah. Next up: Southwark Park, London on Sun 30 Aug.
 
@@ -25,4 +25,4 @@ Dan Beaumont is a house and balearic artist tracked on soundcheck, with 26 sets 
 
 Nadia Ksaiba, THEMPRESS, Amaliah
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/danbeaumont/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/danbeaumont/)*

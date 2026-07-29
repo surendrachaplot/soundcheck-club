@@ -1,6 +1,6 @@
 # 3LNA
 
-3LNA is a Techno and Breakbeat artist with 1 upcoming club date listed on soundcheck as of Tue, 28 Jul 2026, next at Else, Berlin on Fri, 31 Jul 2026.
+3LNA is a Techno and Breakbeat artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at Else, Berlin on Fri, 31 Jul 2026.
 
 3LNA is a techno and breakbeat artist based in Germany, tracked on soundcheck, with 44 sets logged across Basel, Berlin, Cologne and Frankfurt and 8 more. Often billed alongside Hello Sasy, P.Vanillaboy and EliaHaze. Next up: Else, Berlin on Fri 31 Jul.
 
@@ -25,4 +25,4 @@
 
 Hello Sasy, P.Vanillaboy, EliaHaze
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/3lna/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/3lna/)*

@@ -1,6 +1,6 @@
 # Iván Harte
 
-Iván Harte is a electronic artist with 1 upcoming club date listed on soundcheck as of Tue, 28 Jul 2026, next at Garage 442, Barcelona on Wed, 29 Jul 2026.
+Iván Harte is a electronic artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at Garage 442, Barcelona on Wed, 29 Jul 2026.
 
 Iván Harte is an electronic artist tracked on soundcheck, with 7 sets logged across Barcelona. Often billed alongside Acidnena, Blackmist and HEDDA. Next up: Garage 442, Barcelona on Wed 29 Jul.
 
@@ -23,4 +23,4 @@ Iván Harte is an electronic artist tracked on soundcheck, with 7 sets logged ac
 
 Acidnena, Blackmist, HEDDA
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/ivanharte/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/ivanharte/)*

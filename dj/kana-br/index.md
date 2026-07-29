@@ -1,6 +1,6 @@
 # Kana (BR)
 
-Kana (BR) is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Tue, 28 Jul 2026, next at ZUBAR, Tokyo on Sat, 1 Aug 2026.
+Kana (BR) is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at ZUBAR, Tokyo on Sat, 1 Aug 2026.
 
 Kana (BR) is a techno and trance artist based in Brazil, tracked on soundcheck, with 6 sets logged across Berlin and Tokyo. Often billed alongside Tsuyoshi Suzuki, Artwork and BEPPU. Next up: ZUBAR, Tokyo on Sat 1 Aug.
 
@@ -22,4 +22,4 @@ Kana (BR) is a techno and trance artist based in Brazil, tracked on soundcheck, 
 
 Tsuyoshi Suzuki, Artwork, BEPPU
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/kana-br/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/kana-br/)*

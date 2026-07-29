@@ -1,6 +1,6 @@
 # agls
 
-agls is a Techno and Electro artist with 1 upcoming club date listed on soundcheck as of Tue, 28 Jul 2026, next at TBA, Düsseldorf on Fri, 31 Jul 2026.
+agls is a Techno and Electro artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at TBA, Düsseldorf on Fri, 31 Jul 2026.
 
 agls is a techno and electro artist based in Germany, tracked on soundcheck, with 8 sets logged across Amsterdam, Berlin, Dusseldorf and Frankfurt and 1 more. Often billed alongside BECKSHAM, Dino Islamagic and ADEZ. Next up: TBA, Dusseldorf on Fri 31 Jul.
 
@@ -24,4 +24,4 @@ agls is a techno and electro artist based in Germany, tracked on soundcheck, wit
 
 BECKSHAM, Dino Islamagic, ADEZ
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/agls/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/agls/)*

@@ -1,6 +1,6 @@
 # Troppo Daffy
 
-Troppo Daffy is a Techno and Afro House artist with 1 upcoming club date listed on soundcheck as of Tue, 28 Jul 2026, next at Nico's Bar at Hackney Bridge, London on Fri, 31 Jul 2026.
+Troppo Daffy is a Techno and Afro House artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at Nico's Bar at Hackney Bridge, London on Fri, 31 Jul 2026.
 
 Troppo Daffy is a techno and afro house artist based in United Kingdom, tracked on soundcheck, with 12 sets logged across London. Often billed alongside Omari King, leverson and Mango Park. Next up: Nico's Bar at Hackney Bridge, London on Fri 31 Jul.
 
@@ -25,4 +25,4 @@ Troppo Daffy is a techno and afro house artist based in United Kingdom, tracked 
 
 Omari King, leverson, Mango Park
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/troppodaffy/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/troppodaffy/)*

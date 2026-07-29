@@ -1,6 +1,6 @@
 # ACHAMA
 
-ACHAMA is a Club and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 28 Jul 2026, next at TBA - Private Campground, Seattle on Fri, 21 Aug 2026.
+ACHAMA is a Club and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at TBA - Private Campground, Seattle on Fri, 21 Aug 2026.
 
 ACHAMA is a club and techno artist tracked on soundcheck, with 17 sets logged across Portland, Seattle and Tokyo. Often billed alongside N SO, MUNÉO and Jason Code. Next up: TBA - Private Campground, Seattle on Fri 21 Aug.
 
@@ -25,4 +25,4 @@ ACHAMA is a club and techno artist tracked on soundcheck, with 17 sets logged ac
 
 N SO, MUNÉO, Jason Code
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/achama/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/achama/)*

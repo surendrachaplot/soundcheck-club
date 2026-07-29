@@ -1,6 +1,6 @@
 # Delicious DJ
 
-Delicious DJ is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Tue, 28 Jul 2026, next at Standard Time, Toronto on Sat, 8 Aug 2026.
+Delicious DJ is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at Standard Time, Toronto on Sat, 8 Aug 2026.
 
 Delicious DJ is a house and disco artist based in Canada, tracked on soundcheck, with 24 sets logged across Toronto. Often billed alongside Prince Batrick, DR 4SKYN and MS.MYLES. Next up: Standard Time, Toronto on Sat 8 Aug.
 
@@ -25,4 +25,4 @@ Delicious DJ is a house and disco artist based in Canada, tracked on soundcheck,
 
 Prince Batrick, DR 4SKYN, MS.MYLES
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/deliciousdj/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/deliciousdj/)*

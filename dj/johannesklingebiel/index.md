@@ -1,6 +1,6 @@
 # Johannes Klingebiel
 
-Johannes Klingebiel is a House and Balearic artist with 1 upcoming club date listed on soundcheck as of Tue, 28 Jul 2026, next at HÖR Berlin, Berlin on Thu, 6 Aug 2026.
+Johannes Klingebiel is a House and Balearic artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at HÖR Berlin, Berlin on Thu, 6 Aug 2026.
 
 Johannes Klingebiel is a house and balearic artist based in Germany, tracked on soundcheck, with 10 sets logged across Berlin, Cologne and Hamburg. Often billed alongside Philipp Fein, keikee and Alejandro Molinari. Next up: HÖR Berlin, Berlin on Thu 6 Aug.
 
@@ -25,4 +25,4 @@ Johannes Klingebiel is a house and balearic artist based in Germany, tracked on 
 
 Philipp Fein, keikee, Alejandro Molinari
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/johannesklingebiel/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/johannesklingebiel/)*

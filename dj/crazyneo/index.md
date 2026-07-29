@@ -1,6 +1,6 @@
 # Crazy Neo
 
-Crazy Neo is a Techno and Minimal artist with 1 upcoming club date listed on soundcheck as of Tue, 28 Jul 2026, next at Monkeybar, Tokyo on Sat, 1 Aug 2026.
+Crazy Neo is a Techno and Minimal artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at Monkeybar, Tokyo on Sat, 1 Aug 2026.
 
 Crazy Neo is a techno and minimal artist based in Japan, tracked on soundcheck, with 28 sets logged across Tokyo. Often billed alongside ayaka, Monna Lisa and Neon Noir. Next up: Monkeybar, Tokyo on Sat 1 Aug.
 
@@ -25,4 +25,4 @@ Crazy Neo is a techno and minimal artist based in Japan, tracked on soundcheck, 
 
 ayaka, Monna Lisa, Neon Noir
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/crazyneo/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/crazyneo/)*

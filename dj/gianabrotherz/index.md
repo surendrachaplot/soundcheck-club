@@ -1,6 +1,6 @@
 # Giana Brotherz
 
-Giana Brotherz is a Drum & Bass and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 28 Jul 2026, next at Odonien, Cologne on Sat, 15 Aug 2026.
+Giana Brotherz is a Drum & Bass and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at Odonien, Cologne on Sat, 15 Aug 2026.
 
 Giana Brotherz is a drum & bass and techno artist based in Germany, tracked on soundcheck, with 10 sets logged across Berlin and Cologne. Often billed alongside Sonair, Upzet and Antiquis Anima. Next up: Odonien, Cologne on Sat 15 Aug.
 
@@ -25,4 +25,4 @@ Giana Brotherz is a drum & bass and techno artist based in Germany, tracked on s
 
 Sonair, Upzet, Antiquis Anima
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/gianabrotherz/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/gianabrotherz/)*

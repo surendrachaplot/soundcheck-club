@@ -1,6 +1,6 @@
 # Parsec
 
-Parsec is a Trance and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 28 Jul 2026, next at Ilses Erika, Leipzig on Fri, 31 Jul 2026.
+Parsec is a Trance and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at Ilses Erika, Leipzig on Fri, 31 Jul 2026.
 
 Parsec is a trance and techno artist based in Germany, tracked on soundcheck, with 7 sets logged across Cologne, Leipzig and Paris. Often billed alongside gin (DE), VALENTIN FRAIS and adamoandiamo. Next up: Ilses Erika, Leipzig on Fri 31 Jul.
 
@@ -23,4 +23,4 @@ Parsec is a trance and techno artist based in Germany, tracked on soundcheck, wi
 
 gin (DE), VALENTIN FRAIS, adamoandiamo
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/parsec/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/parsec/)*

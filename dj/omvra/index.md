@@ -1,6 +1,6 @@
 # Omvra
 
-Omvra is a Techno and Electro artist with 1 upcoming club date listed on soundcheck as of Tue, 28 Jul 2026, next at LAUT, Barcelona on Fri, 28 Aug 2026.
+Omvra is a Techno and Electro artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at LAUT, Barcelona on Fri, 28 Aug 2026.
 
 Omvra is a techno and electro artist based in Italy, tracked on soundcheck, with 21 sets logged across Barcelona and Berlin. Often billed alongside Aura Nox, C.MØ and Carmilla Sioux. Next up: LAUT, Barcelona on Fri 28 Aug.
 
@@ -25,4 +25,4 @@ Omvra is a techno and electro artist based in Italy, tracked on soundcheck, with
 
 Aura Nox, C.MØ, Carmilla Sioux
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/omvra/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/omvra/)*

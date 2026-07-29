@@ -1,6 +1,6 @@
 # Casey Anderson
 
-Casey Anderson is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Tue, 28 Jul 2026, next at OMA, Hong Kong on Fri, 31 Jul 2026.
+Casey Anderson is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at OMA, Hong Kong on Fri, 31 Jul 2026.
 
 Casey Anderson is a techno and house artist based in China, tracked on soundcheck, with 37 sets logged across Hongkong and Shenzhen. Often billed alongside DJ Anthony2, Jeremy Cheung and Mill.H. Next up: OMA, Hongkong on Fri 31 Jul.
 
@@ -25,4 +25,4 @@ Casey Anderson is a techno and house artist based in China, tracked on soundchec
 
 DJ Anthony2, Jeremy Cheung, Mill.H
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/caseyanderson/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/caseyanderson/)*

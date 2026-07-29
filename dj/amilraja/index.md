@@ -1,6 +1,6 @@
 # amil raja
 
-amil raja is a Techno and Club artist with 1 upcoming club date listed on soundcheck as of Tue, 28 Jul 2026, next at FOLD, London on Sat, 29 Aug 2026.
+amil raja is a Techno and Club artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at FOLD, London on Sat, 29 Aug 2026.
 
 amil raja is a techno and club artist tracked on soundcheck, with 9 sets logged across Amsterdam, London, Paris and Tokyo. Often billed alongside The Twins (waitareyoutwins), 10cust and AMVN. Next up: FOLD, London on Sat 29 Aug.
 
@@ -25,4 +25,4 @@ amil raja is a techno and club artist tracked on soundcheck, with 9 sets logged 
 
 The Twins (waitareyoutwins), 10cust, AMVN
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/amilraja/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/amilraja/)*

@@ -1,6 +1,6 @@
 # Marcie (2)
 
-Marcie (2) is a Hardcore and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 28 Jul 2026, next at Astra Kulturhaus, Berlin on Fri, 31 Jul 2026.
+Marcie (2) is a Hardcore and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at Astra Kulturhaus, Berlin on Fri, 31 Jul 2026.
 
 Marcie (2) is a hardcore and techno artist based in Germany, tracked on soundcheck, with 10 sets logged across Berlin and Leipzig. Often billed alongside ZYNTAX, Makinarium and daschka. Next up: Astra Kulturhaus, Berlin on Fri 31 Jul.
 
@@ -25,4 +25,4 @@ Marcie (2) is a hardcore and techno artist based in Germany, tracked on soundche
 
 ZYNTAX, Makinarium, daschka
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/marcie-2/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/marcie-2/)*

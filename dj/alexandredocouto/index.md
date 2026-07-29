@@ -1,6 +1,6 @@
 # Alexandre Docouto
 
-Alexandre Docouto is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Tue, 28 Jul 2026, next at TRANSMISSION DC, Washington DC on Fri, 31 Jul 2026.
+Alexandre Docouto is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at TRANSMISSION DC, Washington DC on Fri, 31 Jul 2026.
 
 Alexandre Docouto is a house and deep house artist based in United States of America, tracked on soundcheck, with 4 sets logged across Washingtondc. Often billed alongside Chris Nitti, Hoppa and Armen Miran. Next up: TRANSMISSION DC, Washingtondc on Fri 31 Jul.
 
@@ -20,4 +20,4 @@ Alexandre Docouto is a house and deep house artist based in United States of Ame
 
 Chris Nitti, Hoppa, Armen Miran
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/alexandredocouto/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/alexandredocouto/)*

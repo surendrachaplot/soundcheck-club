@@ -1,6 +1,6 @@
 # Ruby Jane
 
-Ruby Jane is a Disco and Funk / Soul artist with 1 upcoming club date listed on soundcheck as of Tue, 28 Jul 2026, next at Vino Disco, Montreal on Fri, 31 Jul 2026.
+Ruby Jane is a Disco and Funk / Soul artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at Vino Disco, Montreal on Fri, 31 Jul 2026.
 
 Ruby Jane is a disco and funk / soul artist based in Canada, tracked on soundcheck, with 9 sets logged across Montreal. Often billed alongside GrandHuit, Kris Guilty and Walla P. Next up: Vino Disco, Montreal on Fri 31 Jul.
 
@@ -25,4 +25,4 @@ Ruby Jane is a disco and funk / soul artist based in Canada, tracked on soundche
 
 GrandHuit, Kris Guilty, Walla P
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/rubyjane/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/rubyjane/)*

@@ -1,6 +1,6 @@
 # Rii5
 
-Rii5 is a Electro and House artist with 1 upcoming club date listed on soundcheck as of Tue, 28 Jul 2026, next at Very Small Club, Budapest on Fri, 7 Aug 2026.
+Rii5 is a Electro and House artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at Very Small Club, Budapest on Fri, 7 Aug 2026.
 
 Rii5 is an electro and house artist based in Hungary, tracked on soundcheck, with 6 sets logged across Budapest. Often billed alongside Acsa, Dorota and Akos V. Next up: Very Small Club, Budapest on Fri 7 Aug.
 
@@ -22,4 +22,4 @@ Rii5 is an electro and house artist based in Hungary, tracked on soundcheck, wit
 
 Acsa, Dorota, Akos V
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/rii5/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/rii5/)*

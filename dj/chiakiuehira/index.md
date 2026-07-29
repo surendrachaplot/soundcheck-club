@@ -1,6 +1,6 @@
 # Chiaki Uehira
 
-Chiaki Uehira is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 28 Jul 2026, next at B.O.H., Osaka on Sat, 1 Aug 2026.
+Chiaki Uehira is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at B.O.H., Osaka on Sat, 1 Aug 2026.
 
 Chiaki Uehira is a house and techno artist based in Japan, tracked on soundcheck, with 6 sets logged across Osaka. Often billed alongside kafuka, CAPTAIN HOOK Jr. and WÖNDER GIRL. Next up: B.O.H., Osaka on Sat 1 Aug.
 
@@ -22,4 +22,4 @@ Chiaki Uehira is a house and techno artist based in Japan, tracked on soundcheck
 
 kafuka, CAPTAIN HOOK Jr., WÖNDER GIRL
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/chiakiuehira/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/chiakiuehira/)*

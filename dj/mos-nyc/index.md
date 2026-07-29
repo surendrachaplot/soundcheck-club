@@ -1,6 +1,6 @@
 # Mos (NYC)
 
-Mos (NYC) is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Tue, 28 Jul 2026, next at BASEMENT, New York City on Sat, 1 Aug 2026.
+Mos (NYC) is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at BASEMENT, New York City on Sat, 1 Aug 2026.
 
 Mos (NYC) is a techno and house artist based in United States of America, tracked on soundcheck, with 39 sets logged across Berlin, Boston, Hamburg and Newyorkcity and 1 more. Often billed alongside Annie Lew, Aseptic and Concrete Husband. Next up: BASEMENT, Newyorkcity on Sat 1 Aug.
 
@@ -25,4 +25,4 @@ Mos (NYC) is a techno and house artist based in United States of America, tracke
 
 Annie Lew, Aseptic, Concrete Husband
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/mos-nyc/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/mos-nyc/)*

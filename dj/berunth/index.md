@@ -1,6 +1,6 @@
 # Berunth
 
-Berunth is a House artist with 2 upcoming club dates listed on soundcheck as of Tue, 28 Jul 2026, next at Golden Gate, Berlin on Fri, 31 Jul 2026.
+Berunth is a House artist with 2 upcoming club dates listed on soundcheck as of Wed, 29 Jul 2026, next at Golden Gate, Berlin on Fri, 31 Jul 2026.
 
 Berunth is a house artist based in Germany, tracked on soundcheck, with 12 sets logged across Berlin. Often billed alongside Dyslexi, HAMZA and Ciao 3lla. Next up: Golden Gate, Berlin on Fri 31 Jul.
 
@@ -26,4 +26,4 @@ Berunth is a house artist based in Germany, tracked on soundcheck, with 12 sets 
 
 Dyslexi, HAMZA, Ciao 3lla
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/berunth/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/berunth/)*

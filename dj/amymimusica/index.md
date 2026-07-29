@@ -1,6 +1,6 @@
 # AMYMI MUSICA
 
-AMYMI MUSICA is a Techno and Progressive House artist with 1 upcoming club date listed on soundcheck as of Tue, 28 Jul 2026, next at TBA - EVENT SPACE - Buikslotermeerplein 82, 1025 EW, Amsterdam, Amsterdam on Fri, 23 Oct 2026.
+AMYMI MUSICA is a Techno and Progressive House artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at TBA - EVENT SPACE - Buikslotermeerplein 82, 1025 EW, Amsterdam, Amsterdam on Fri, 23 Oct 2026.
 
 AMYMI MUSICA is a techno and progressive house artist based in Lebanon, tracked on soundcheck, with 1 set logged across Amsterdam. Often billed alongside Ornery. Next up: TBA - EVENT SPACE - Buikslotermeerplein 82, 1025 EW, Amsterdam, Amsterdam on Fri 23 Oct.
 
@@ -14,4 +14,4 @@ AMYMI MUSICA is a techno and progressive house artist based in Lebanon, tracked 
 
 Ornery
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/amymimusica/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/amymimusica/)*

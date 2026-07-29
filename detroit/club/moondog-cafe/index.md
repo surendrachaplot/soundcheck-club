@@ -1,6 +1,6 @@
 # Moondog Cafe
 
-Moondog Cafe is a music venue in Detroit with 1 upcoming night listed on soundcheck as of Tue, 28 Jul 2026; the next is "[CANCELLED] Fire Music Green-House + Hurley/Taylor/Detroit Bureau of Sound Percussion Trio" on Mon, 14 Sept 2026.
+Moondog Cafe is a music venue in Detroit with 1 upcoming night listed on soundcheck as of Wed, 29 Jul 2026; the next is "[CANCELLED] Fire Music Green-House + Hurley/Taylor/Detroit Bureau of Sound Percussion Trio" on Mon, 14 Sept 2026.
 
 Moondog Cafe is a music venue in Detroit listed on soundcheck. 1 upcoming night, with line-ups including Detroit Bureau of Sound. Browse upcoming dates, start times and who's playing. 8045 Linwood St #2, Detroit, MI 48206.
 
@@ -14,4 +14,4 @@ Moondog Cafe is a music venue in Detroit listed on soundcheck. 1 upcoming night,
 
 8045 Linwood St #2, Detroit, MI 48206, Detroit
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/detroit/club/moondog-cafe/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/detroit/club/moondog-cafe/)*

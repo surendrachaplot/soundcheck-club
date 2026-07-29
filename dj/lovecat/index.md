@@ -1,6 +1,6 @@
 # LOVECAT
 
-LOVECAT is a Techno and Experimental artist with 1 upcoming club date listed on soundcheck as of Tue, 28 Jul 2026, next at Algha's Plantroom, London on Wed, 29 Jul 2026.
+LOVECAT is a Techno and Experimental artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at Algha's Plantroom, London on Wed, 29 Jul 2026.
 
 LOVECAT is a techno and experimental artist tracked on soundcheck, with 28 sets logged across Athens, Leeds and London. Often billed alongside JONE OF ARX, TEDESCO and HASZNAT. Next up: Algha's Plantroom, London on Wed 29 Jul.
 
@@ -25,4 +25,4 @@ LOVECAT is a techno and experimental artist tracked on soundcheck, with 28 sets 
 
 JONE OF ARX, TEDESCO, HASZNAT
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/lovecat/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/lovecat/)*

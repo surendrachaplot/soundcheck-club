@@ -1,6 +1,6 @@
 # Kindness
 
-Kindness is a electronic artist with 1 upcoming club date listed on soundcheck as of Tue, 28 Jul 2026, next at Los Globos, Los Angeles on Sat, 1 Aug 2026.
+Kindness is a electronic artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at Los Globos, Los Angeles on Sat, 1 Aug 2026.
 
 Kindness is an electronic artist based in United Kingdom, tracked on soundcheck, with 2 sets logged across Copenhagen and Losangeles. Often billed alongside Atusa, Bianca Lexis and Goddollars. Next up: Los Globos, Losangeles on Sat 1 Aug.
 
@@ -18,4 +18,4 @@ Kindness is an electronic artist based in United Kingdom, tracked on soundcheck,
 
 Atusa, Bianca Lexis, Goddollars
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/kindness/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/kindness/)*

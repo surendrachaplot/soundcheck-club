@@ -1,6 +1,6 @@
 # nox
 
-nox is a Tech House and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 28 Jul 2026, next at Bahnwärter Thiel, Munich on Fri, 31 Jul 2026.
+nox is a Tech House and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at Bahnwärter Thiel, Munich on Fri, 31 Jul 2026.
 
 nox is a tech house and techno artist based in Germany, tracked on soundcheck, with 15 sets logged across Berlin, Chicago, Lisbon and Melbourne and 3 more. Often billed alongside Akuma, 9LALEY and ACE [DE]. Next up: Bahnwärter Thiel, Munich on Fri 31 Jul.
 
@@ -25,4 +25,4 @@ nox is a tech house and techno artist based in Germany, tracked on soundcheck, w
 
 Akuma, 9LALEY, ACE [DE]
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/nox/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/nox/)*

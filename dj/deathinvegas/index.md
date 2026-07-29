@@ -1,6 +1,6 @@
 # Death in Vegas
 
-Death in Vegas is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Tue, 28 Jul 2026, next at Amsterdamse Bos, Amsterdam on Wed, 29 Jul 2026.
+Death in Vegas is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Wed, 29 Jul 2026, next at Amsterdamse Bos, Amsterdam on Wed, 29 Jul 2026.
 
 Death in Vegas is a techno and house artist based in United Kingdom, tracked on soundcheck, with 7 sets logged across Amsterdam, Dublin, London and Manchester. Often billed alongside Christian AB, DARKSIDE and Devon Rexi. Next up: Amsterdamse Bos, Amsterdam on Wed 29 Jul.
 
@@ -23,4 +23,4 @@ Death in Vegas is a techno and house artist based in United Kingdom, tracked on 
 
 Christian AB, DARKSIDE, Devon Rexi
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/deathinvegas/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/deathinvegas/)*

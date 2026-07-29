@@ -1,6 +1,6 @@
 # Eulalia
 
-Eulalia is a Techno and Electronica artist with 1 upcoming club date listed on soundcheck as of Tue, 28 Jul 2026, next at Smoke & Mirrors, Chicago on Fri, 31 Jul 2026.
+Eulalia is a Techno and Electronica artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at Smoke & Mirrors, Chicago on Fri, 31 Jul 2026.
 
 Eulalia is a techno and electronica artist based in United States of America, tracked on soundcheck, with 25 sets logged across Chicago and Detroit. Often billed alongside Siann, xtelma and Juski. Next up: Smoke & Mirrors, Chicago on Fri 31 Jul.
 
@@ -25,4 +25,4 @@ Eulalia is a techno and electronica artist based in United States of America, tr
 
 Siann, xtelma, Juski
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/eulalia/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/eulalia/)*

@@ -1,6 +1,6 @@
 # Emrrld
 
-Emrrld is a Garage and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 28 Jul 2026, next at TBA, Vancouver on Sat, 1 Aug 2026.
+Emrrld is a Garage and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at TBA, Vancouver on Sat, 1 Aug 2026.
 
 Emrrld is a garage and techno artist based in Canada, tracked on soundcheck, with 8 sets logged across Vancouver. Often billed alongside Michael Red, ladylucki and Donna Dada. Next up: TBA, Vancouver on Sat 1 Aug.
 
@@ -24,4 +24,4 @@ Emrrld is a garage and techno artist based in Canada, tracked on soundcheck, wit
 
 Michael Red, ladylucki, Donna Dada
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/emrrld/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/emrrld/)*

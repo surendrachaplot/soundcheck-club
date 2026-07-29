@@ -1,14 +1,13 @@
 # Eden
 
-Eden is a music venue in Ibiza with 43 upcoming nights listed on soundcheck as of Tue, 28 Jul 2026; the next is "Galactica Ibiza with Clara Cuvé, Nikolina, Kander, Lucia Gea" on Tue, 28 Jul 2026.
+Eden is a music venue in Ibiza with 42 upcoming nights listed on soundcheck as of Wed, 29 Jul 2026; the next is "DJ EZ" on Wed, 29 Jul 2026.
 
-Eden is a music venue in Ibiza listed on soundcheck. 43 upcoming nights, with line-ups including 6EJOU, Alle Farben, Andres Campo and Angerfist and 2 more. Browse upcoming dates, start times and who's playing. Carrer Salvador Espriu,  07820 San Antonio, Ibiza, Spain.
+Eden is a music venue in Ibiza listed on soundcheck. 42 upcoming nights, with line-ups including 6EJOU, Alle Farben, Andres Campo and Angerfist and 2 more. Browse upcoming dates, start times and who's playing. Carrer Salvador Espriu,  07820 San Antonio, Ibiza, Spain.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Tue, 28 Jul 2026 | Galactica Ibiza with Clara Cuvé, Nikolina, Kander, Lucia Gea | Clara Cuvé, Kander, Lucía Gea, Nikolina |
 | Wed, 29 Jul 2026 | DJ EZ | DJ EZ, Seb Zito, The Menendez Brothers |
 | Thu, 30 Jul 2026 | LA DISTURBIA WEEK 5 | Crusy, Loulou Players |
 | Fri, 31 Jul 2026 | FIRE IN THE CLUB WEEK 9 |  |
@@ -18,9 +17,10 @@ Eden is a music venue in Ibiza listed on soundcheck. 43 upcoming nights, with li
 | Tue, 4 Aug 2026 | Galactica Ibiza with Holy Priest, KISTENBRÜGGER b2b Karamustan, ANKKH | ANKKH, Holy Priest, Karamustan |
 | Wed, 5 Aug 2026 | GARAGE NATION OPENING PARTY |  |
 | Thu, 6 Aug 2026 | LA DISTURBIA WEEK 6 | James Hurr |
+| Fri, 7 Aug 2026 | FIRE IN THE CLUB WEEK 10 |  |
 
 ## Address
 
 Carrer Salvador Espriu,  07820 San Antonio, Ibiza, Spain, Ibiza
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/ibiza/club/eden/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/ibiza/club/eden/)*

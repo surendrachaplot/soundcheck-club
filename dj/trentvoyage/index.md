@@ -1,6 +1,6 @@
 # Trent Voyage
 
-Trent Voyage is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Tue, 28 Jul 2026, next at Haus der Visionäre, Berlin on Sat, 22 Aug 2026.
+Trent Voyage is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at Haus der Visionäre, Berlin on Sat, 22 Aug 2026.
 
 Trent Voyage is a house and tech house artist based in Ireland, tracked on soundcheck, with 19 sets logged across Berlin, Glasgow, Leeds and London and 3 more. Often billed alongside Elena Moroder, Alexander Skancke and Henriku. Next up: Haus der Visionäre, Berlin on Sat 22 Aug.
 
@@ -25,4 +25,4 @@ Trent Voyage is a house and tech house artist based in Ireland, tracked on sound
 
 Elena Moroder, Alexander Skancke, Henriku
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/trentvoyage/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/trentvoyage/)*

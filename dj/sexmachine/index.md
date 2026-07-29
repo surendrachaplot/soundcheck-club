@@ -1,6 +1,6 @@
 # SEXMACHINE
 
-SEXMACHINE is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 28 Jul 2026, next at Playa Condesa, Mexico City on Sat, 1 Aug 2026.
+SEXMACHINE is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at Playa Condesa, Mexico City on Sat, 1 Aug 2026.
 
 SEXMACHINE is a house and techno artist based in Mexico, tracked on soundcheck, with 10 sets logged across Berlin, Mexicocity and Milan. Often billed alongside 2FARO, Amowia and Aura Nox. Next up: Playa Condesa, Mexicocity on Sat 1 Aug.
 
@@ -25,4 +25,4 @@ SEXMACHINE is a house and techno artist based in Mexico, tracked on soundcheck, 
 
 2FARO, Amowia, Aura Nox
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/sexmachine/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/sexmachine/)*

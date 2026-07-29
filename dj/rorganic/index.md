@@ -1,6 +1,6 @@
 # Rorganic
 
-Rorganic is a Techno and Industrial artist with 1 upcoming club date listed on soundcheck as of Tue, 28 Jul 2026, next at 131 Mccormack St, Toronto on Sat, 15 Aug 2026.
+Rorganic is a Techno and Industrial artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at 131 Mccormack St, Toronto on Sat, 15 Aug 2026.
 
 Rorganic is a techno and industrial artist based in France, tracked on soundcheck, with 38 sets logged across Amsterdam, Antwerp, Bangkok and Barcelona and 18 more. Often billed alongside 6EJOU, DEBBIE (IT) and MARCO GINELLI. Next up: 131 Mccormack St, Toronto on Sat 15 Aug.
 
@@ -25,4 +25,4 @@ Rorganic is a techno and industrial artist based in France, tracked on soundchec
 
 6EJOU, DEBBIE (IT), MARCO GINELLI
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/rorganic/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/rorganic/)*

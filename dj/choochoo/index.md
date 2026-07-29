@@ -1,6 +1,6 @@
 # Choo Choo
 
-Choo Choo is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 28 Jul 2026, next at SILO, New York City on Thu, 30 Jul 2026.
+Choo Choo is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at SILO, New York City on Thu, 30 Jul 2026.
 
 Choo Choo is a house and techno artist based in United States of America, tracked on soundcheck, with 31 sets logged across Newyorkcity, Sanfrancisco, Tokyo and Vienna. Often billed alongside Sam Valle, SHRAY and ceviché. Next up: SILO, Newyorkcity on Thu 30 Jul.
 
@@ -25,4 +25,4 @@ Choo Choo is a house and techno artist based in United States of America, tracke
 
 Sam Valle, SHRAY, ceviché
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/choochoo/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/choochoo/)*

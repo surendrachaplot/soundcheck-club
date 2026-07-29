@@ -1,6 +1,6 @@
 # Maison Blanche
 
-Maison Blanche is a House and Electro artist with 1 upcoming club date listed on soundcheck as of Tue, 28 Jul 2026, next at La Cité Fertile, Paris on Fri, 31 Jul 2026.
+Maison Blanche is a House and Electro artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at La Cité Fertile, Paris on Fri, 31 Jul 2026.
 
 Maison Blanche is a house and electro artist based in France, tracked on soundcheck, with 37 sets logged across Berlin, London and Paris. Often billed alongside Mira Ló, Blanche and Tour-Maubourg. Next up: La Cité Fertile, Paris on Fri 31 Jul.
 
@@ -25,4 +25,4 @@ Maison Blanche is a house and electro artist based in France, tracked on soundch
 
 Mira Ló, Blanche, Tour-Maubourg
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/maisonblanche/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/maisonblanche/)*

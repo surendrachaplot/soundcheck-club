@@ -1,6 +1,6 @@
 # veryt
 
-veryt is a House and Jazz artist with 1 upcoming club date listed on soundcheck as of Tue, 28 Jul 2026, next at The Fox and Firkin, London on Fri, 31 Jul 2026.
+veryt is a House and Jazz artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at The Fox and Firkin, London on Fri, 31 Jul 2026.
 
 veryt is a house and jazz artist based in United Kingdom, tracked on soundcheck, with 10 sets logged across Amsterdam and London. Often billed alongside Tekhole, Moina Moin and Phoebe Massey. Next up: The Fox and Firkin, London on Fri 31 Jul.
 
@@ -25,4 +25,4 @@ veryt is a house and jazz artist based in United Kingdom, tracked on soundcheck,
 
 Tekhole, Moina Moin, Phoebe Massey
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/veryt/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/veryt/)*

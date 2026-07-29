@@ -1,6 +1,6 @@
 # VAPERROR
 
-VAPERROR is a Vaporwave and Drum & Bass artist with 1 upcoming club date listed on soundcheck as of Tue, 28 Jul 2026, next at Decades, Washington DC on Fri, 31 Jul 2026.
+VAPERROR is a Vaporwave and Drum & Bass artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at Decades, Washington DC on Fri, 31 Jul 2026.
 
 VAPERROR is a vaporwave and drum & bass artist based in United States of America, tracked on soundcheck, with 15 sets logged across Chicago, Losangeles, Newyorkcity and Osaka and 4 more. Often billed alongside Purity Filter, Unknown Caller (2) and 3mouth. Next up: Decades, Washingtondc on Fri 31 Jul.
 
@@ -25,4 +25,4 @@ VAPERROR is a vaporwave and drum & bass artist based in United States of America
 
 Purity Filter, Unknown Caller (2), 3mouth
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/vaperror/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/vaperror/)*

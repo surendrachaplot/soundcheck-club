@@ -1,6 +1,6 @@
 # Roy Comanchero
 
-Roy Comanchero is a Disco and House artist with 1 upcoming club date listed on soundcheck as of Tue, 28 Jul 2026, next at Teranoma Tidepool, Osaka on Sun, 23 Aug 2026.
+Roy Comanchero is a Disco and House artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at Teranoma Tidepool, Osaka on Sun, 23 Aug 2026.
 
 Roy Comanchero is a disco and house artist based in Japan, tracked on soundcheck, with 6 sets logged across Osaka. Often billed alongside Mori Ra, Black Pomade and Daisuke Kakimoto. Next up: Teranoma Tidepool, Osaka on Sun 23 Aug.
 
@@ -22,4 +22,4 @@ Roy Comanchero is a disco and house artist based in Japan, tracked on soundcheck
 
 Mori Ra, Black Pomade, Daisuke Kakimoto
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/roycomanchero/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/roycomanchero/)*

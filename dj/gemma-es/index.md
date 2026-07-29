@@ -1,6 +1,6 @@
 # GEMMA (ES)
 
-GEMMA (ES) is a Electro and House artist with 1 upcoming club date listed on soundcheck as of Tue, 28 Jul 2026, next at Almar Beach Club, Barcelona on Fri, 31 Jul 2026.
+GEMMA (ES) is a Electro and House artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at Almar Beach Club, Barcelona on Fri, 31 Jul 2026.
 
 GEMMA (ES) is an electro and house artist based in Spain, tracked on soundcheck, with 35 sets logged across Amsterdam, Barcelona and Tokyo. Often billed alongside Andrea Love, Cabana and Alice Youngling. Next up: Almar Beach Club, Barcelona on Fri 31 Jul.
 
@@ -25,4 +25,4 @@ GEMMA (ES) is an electro and house artist based in Spain, tracked on soundcheck,
 
 Andrea Love, Cabana, Alice Youngling
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/gemma-es/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/gemma-es/)*

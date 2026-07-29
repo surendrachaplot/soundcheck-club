@@ -1,6 +1,6 @@
 # DJ Pabloma Blanca
 
-DJ Pabloma Blanca is a Trance and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 28 Jul 2026, next at elipamanoke, Leipzig on Fri, 31 Jul 2026.
+DJ Pabloma Blanca is a Trance and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at elipamanoke, Leipzig on Fri, 31 Jul 2026.
 
 DJ Pabloma Blanca is a trance and techno artist based in Germany, tracked on soundcheck, with 12 sets logged across Leipzig. Often billed alongside DJ Bürgergeld, parallelprocess and Emmski98. Next up: elipamanoke, Leipzig on Fri 31 Jul.
 
@@ -25,4 +25,4 @@ DJ Pabloma Blanca is a trance and techno artist based in Germany, tracked on sou
 
 DJ Bürgergeld, parallelprocess, Emmski98
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/djpablomablanca/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/djpablomablanca/)*

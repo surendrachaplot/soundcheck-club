@@ -1,6 +1,6 @@
 # Kirakingkong
 
-Kirakingkong is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 28 Jul 2026, next at Culture Box, Copenhagen on Fri, 18 Sept 2026.
+Kirakingkong is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at Culture Box, Copenhagen on Fri, 18 Sept 2026.
 
 Kirakingkong is a house and techno artist based in Denmark, tracked on soundcheck, with 26 sets logged across Copenhagen and Detroit. Often billed alongside Enterthevoigt, Bokéh and NILU. Next up: Culture Box, Copenhagen on Fri 18 Sept.
 
@@ -25,4 +25,4 @@ Kirakingkong is a house and techno artist based in Denmark, tracked on soundchec
 
 Enterthevoigt, Bokéh, NILU
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/kirakingkong/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/kirakingkong/)*

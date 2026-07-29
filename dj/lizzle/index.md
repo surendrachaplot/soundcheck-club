@@ -1,6 +1,6 @@
 # Lizzle
 
-Lizzle is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 28 Jul 2026, next at Odonien, Cologne on Fri, 31 Jul 2026.
+Lizzle is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at Odonien, Cologne on Fri, 31 Jul 2026.
 
 Lizzle is a house and techno artist based in Germany, tracked on soundcheck, with 5 sets logged across Berlin and Cologne. Often billed alongside 3Hertz, Annemalie and Borai. Next up: Odonien, Cologne on Fri 31 Jul.
 
@@ -21,4 +21,4 @@ Lizzle is a house and techno artist based in Germany, tracked on soundcheck, wit
 
 3Hertz, Annemalie, Borai
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/lizzle/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/lizzle/)*

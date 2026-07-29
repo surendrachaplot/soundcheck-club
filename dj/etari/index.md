@@ -1,6 +1,6 @@
 # Etari
 
-Etari is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Tue, 28 Jul 2026, next at TBA - Hollywood Park adjacent to SoFi Stadium, Los Angeles on Sat, 1 Aug 2026.
+Etari is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Wed, 29 Jul 2026, next at TBA - Hollywood Park adjacent to SoFi Stadium, Los Angeles on Sat, 1 Aug 2026.
 
 Etari is a techno and house artist based in United States of America, tracked on soundcheck, with 54 sets logged across Chicago, Detroit, Losangeles and Newyorkcity and 3 more. Often billed alongside fun2bjane, Capes and OZA. Next up: TBA - Hollywood Park adjacent to SoFi Stadium, Losangeles on Sat 1 Aug.
 
@@ -27,4 +27,4 @@ Etari is a techno and house artist based in United States of America, tracked on
 
 fun2bjane, Capes, OZA
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/etari/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/etari/)*

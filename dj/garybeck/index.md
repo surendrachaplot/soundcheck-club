@@ -1,6 +1,6 @@
 # Gary Beck
 
-Gary Beck is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Tue, 28 Jul 2026, next at The Old Fruitmarket, Glasgow on Sat, 1 Aug 2026.
+Gary Beck is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Wed, 29 Jul 2026, next at The Old Fruitmarket, Glasgow on Sat, 1 Aug 2026.
 
 Gary Beck is a techno and house artist tracked on soundcheck, with 38 sets logged across Aberdeen, Antwerp, Barcelona and Berlin and 14 more. Often billed alongside Co-Accused, Frazi.er and Dave Clarke. Next up: The Old Fruitmarket, Glasgow on Sat 1 Aug.
 
@@ -27,4 +27,4 @@ Gary Beck is a techno and house artist tracked on soundcheck, with 38 sets logge
 
 Co-Accused, Frazi.er, Dave Clarke
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/garybeck/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/garybeck/)*

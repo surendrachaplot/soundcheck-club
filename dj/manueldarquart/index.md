@@ -1,6 +1,6 @@
 # Manuel Darquart
 
-Manuel Darquart is a House and Italo Disco artist with 1 upcoming club date listed on soundcheck as of Tue, 28 Jul 2026, next at Colour Factory, London on Sat, 1 Aug 2026.
+Manuel Darquart is a House and Italo Disco artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at Colour Factory, London on Sat, 1 Aug 2026.
 
 Manuel Darquart is a house and italo disco artist tracked on soundcheck, with 46 sets logged across Auckland, Berlin, Bucharest and Edinburgh and 8 more. Often billed alongside Hollick, Ariane V and Secretsundaze. Next up: Colour Factory, London on Sat 1 Aug.
 
@@ -25,4 +25,4 @@ Manuel Darquart is a house and italo disco artist tracked on soundcheck, with 46
 
 Hollick, Ariane V, Secretsundaze
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/manueldarquart/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/manueldarquart/)*

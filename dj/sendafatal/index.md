@@ -1,6 +1,6 @@
 # SENDA FATAL
 
-SENDA FATAL is a Techno and Minimal artist with 2 upcoming club dates listed on soundcheck as of Tue, 28 Jul 2026, next at Say No More Madrid, Madrid on Fri, 31 Jul 2026.
+SENDA FATAL is a Techno and Minimal artist with 2 upcoming club dates listed on soundcheck as of Wed, 29 Jul 2026, next at Say No More Madrid, Madrid on Fri, 31 Jul 2026.
 
 SENDA FATAL is a techno and minimal artist based in Spain, tracked on soundcheck, with 4 sets logged across Madrid. Often billed alongside Baldman, Bibi and Bleach. Next up: Say No More Madrid, Madrid on Fri 31 Jul.
 
@@ -20,4 +20,4 @@ SENDA FATAL is a techno and minimal artist based in Spain, tracked on soundcheck
 
 Baldman, Bibi, Bleach
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/sendafatal/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/sendafatal/)*

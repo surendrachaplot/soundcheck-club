@@ -1,6 +1,6 @@
 # la piscine
 
-la piscine is a Experimental and Afrobeats artist with 1 upcoming club date listed on soundcheck as of Tue, 28 Jul 2026, next at Simmons Bar | Shoreditch, London on Wed, 12 Aug 2026.
+la piscine is a Experimental and Afrobeats artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at Simmons Bar | Shoreditch, London on Wed, 12 Aug 2026.
 
 la piscine is an experimental and afrobeats artist tracked on soundcheck, with 4 sets logged across London. Often billed alongside MIZNIK, Misura and Chito. Next up: Simmons Bar | Shoreditch, London on Wed 12 Aug.
 
@@ -20,4 +20,4 @@ la piscine is an experimental and afrobeats artist tracked on soundcheck, with 4
 
 MIZNIK, Misura, Chito
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/lapiscine/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/lapiscine/)*

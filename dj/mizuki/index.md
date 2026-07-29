@@ -1,6 +1,6 @@
 # Mizuki
 
-Mizuki is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Tue, 28 Jul 2026, next at Aoyama Tunnel, Tokyo on Wed, 29 Jul 2026.
+Mizuki is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Wed, 29 Jul 2026, next at Aoyama Tunnel, Tokyo on Wed, 29 Jul 2026.
 
 Mizuki is a house and techno artist based in United Kingdom, tracked on soundcheck, with 23 sets logged across Mexicocity, Newyorkcity and Tokyo. Often billed alongside DJ Sodeyama, Leo Gabriel and Andre McLeod. Next up: Aoyama Tunnel, Tokyo on Wed 29 Jul.
 
@@ -26,4 +26,4 @@ Mizuki is a house and techno artist based in United Kingdom, tracked on soundche
 
 DJ Sodeyama, Leo Gabriel, Andre McLeod
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/mizuki/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/mizuki/)*

@@ -1,6 +1,6 @@
 # Plea5urepul5e
 
-Plea5urepul5e is a Trance and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 28 Jul 2026, next at M-BIA, Berlin on Fri, 14 Aug 2026.
+Plea5urepul5e is a Trance and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at M-BIA, Berlin on Fri, 14 Aug 2026.
 
 Plea5urepul5e is a trance and techno artist based in Germany, tracked on soundcheck, with 5 sets logged across Berlin, Hamburg and Vienna. Often billed alongside IAM (2), Jenay and Neonlight. Next up: M-BIA, Berlin on Fri 14 Aug.
 
@@ -21,4 +21,4 @@ Plea5urepul5e is a trance and techno artist based in Germany, tracked on soundch
 
 IAM (2), Jenay, Neonlight
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/plea5urepul5e/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/plea5urepul5e/)*

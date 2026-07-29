@@ -1,6 +1,6 @@
 # cera
 
-cera is a Techno and Bass artist with 1 upcoming club date listed on soundcheck as of Tue, 28 Jul 2026, next at Club NYX, Amsterdam on Wed, 29 Jul 2026.
+cera is a Techno and Bass artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at Club NYX, Amsterdam on Wed, 29 Jul 2026.
 
 cera is a techno and bass artist based in Japan, tracked on soundcheck, with 28 sets logged across Amsterdam and Tokyo. Often billed alongside yulisco, shu (4) and Aliceyuki. Next up: Club NYX, Amsterdam on Wed 29 Jul.
 
@@ -25,4 +25,4 @@ cera is a techno and bass artist based in Japan, tracked on soundcheck, with 28 
 
 yulisco, shu (4), Aliceyuki
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/cera/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/cera/)*

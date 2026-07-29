@@ -1,6 +1,6 @@
 # Racing Nokia
 
-Racing Nokia is a Techno and Bass artist with 1 upcoming club date listed on soundcheck as of Tue, 28 Jul 2026, next at Unité.22, Marseille on Sat, 1 Aug 2026.
+Racing Nokia is a Techno and Bass artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at Unité.22, Marseille on Sat, 1 Aug 2026.
 
 Racing Nokia is a techno and bass artist based in France, tracked on soundcheck, with 34 sets logged across Berlin, Lisbon, London and Lyon and 5 more. Often billed alongside Dario (DE), VOST (3) and Laze. Next up: Unité.22, Marseille on Sat 1 Aug.
 
@@ -25,4 +25,4 @@ Racing Nokia is a techno and bass artist based in France, tracked on soundcheck,
 
 Dario (DE), VOST (3), Laze
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/racingnokia/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/racingnokia/)*

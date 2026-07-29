@@ -1,6 +1,6 @@
 # Tommy Soul
 
-Tommy Soul is a Disco and House artist with 1 upcoming club date listed on soundcheck as of Tue, 28 Jul 2026, next at TBA, Liverpool on Sat, 1 Aug 2026.
+Tommy Soul is a Disco and House artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at TBA, Liverpool on Sat, 1 Aug 2026.
 
 Tommy Soul is a disco and house artist based in Italy, tracked on soundcheck, with 15 sets logged across Berlin, Liverpool, London and Milan and 3 more. Often billed alongside Davide Del Vecchio, Duappo and Kapote. Next up: TBA, Liverpool on Sat 1 Aug.
 
@@ -25,4 +25,4 @@ Tommy Soul is a disco and house artist based in Italy, tracked on soundcheck, wi
 
 Davide Del Vecchio, Duappo, Kapote
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/tommysoul/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/tommysoul/)*

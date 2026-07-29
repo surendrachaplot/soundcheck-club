@@ -1,6 +1,6 @@
 # Karina Qanir
 
-Karina Qanir is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Tue, 28 Jul 2026, next at ://about blank, Berlin on Fri, 31 Jul 2026.
+Karina Qanir is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at ://about blank, Berlin on Fri, 31 Jul 2026.
 
 Karina Qanir is a techno and trance artist based in Germany, tracked on soundcheck, with 5 sets logged across Berlin. Often billed alongside Julio Paradise, Anja Zaube and Benjamin Fehr. Next up: ://about blank, Berlin on Fri 31 Jul.
 
@@ -21,4 +21,4 @@ Karina Qanir is a techno and trance artist based in Germany, tracked on soundche
 
 Julio Paradise, Anja Zaube, Benjamin Fehr
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/karinaqanir/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/karinaqanir/)*

@@ -1,6 +1,6 @@
 # Cvrdwell
 
-Cvrdwell is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Tue, 28 Jul 2026, next at Arzenal, Budapest on Fri, 18 Sept 2026.
+Cvrdwell is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at Arzenal, Budapest on Fri, 18 Sept 2026.
 
 Cvrdwell is a techno and house artist tracked on soundcheck, with 48 sets logged across Budapest. Often billed alongside AGA2L, Indirect Movement and isu. Next up: Arzenal, Budapest on Fri 18 Sept.
 
@@ -25,4 +25,4 @@ Cvrdwell is a techno and house artist tracked on soundcheck, with 48 sets logged
 
 AGA2L, Indirect Movement, isu
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/cvrdwell/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/cvrdwell/)*

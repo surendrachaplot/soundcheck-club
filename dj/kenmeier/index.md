@@ -1,6 +1,6 @@
 # Ken Meier
 
-Ken Meier is a Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 28 Jul 2026, next at vurt., Seoul on Fri, 31 Jul 2026.
+Ken Meier is a Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at vurt., Seoul on Fri, 31 Jul 2026.
 
 Ken Meier is a techno artist based in United States of America, tracked on soundcheck, with 2 sets logged across Seoul. Often billed alongside Djilogue, Inger and Philipp Kim. Next up: vurt., Seoul on Fri 31 Jul.
 
@@ -18,4 +18,4 @@ Ken Meier is a techno artist based in United States of America, tracked on sound
 
 Djilogue, Inger, Philipp Kim
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/kenmeier/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/kenmeier/)*

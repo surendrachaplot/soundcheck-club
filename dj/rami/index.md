@@ -1,6 +1,6 @@
 # Rami
 
-Rami is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 28 Jul 2026, next at Chinois Ibiza, Ibiza on Wed, 26 Aug 2026.
+Rami is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at Chinois Ibiza, Ibiza on Wed, 26 Aug 2026.
 
 Rami is a house and techno artist based in Jordan, tracked on soundcheck, with 13 sets logged across Bangkok, Berlin, Ibiza and Mexicocity and 1 more. Often billed alongside 5harpy, 7e and Aimz. Next up: Chinois Ibiza, Ibiza on Wed 26 Aug.
 
@@ -25,4 +25,4 @@ Rami is a house and techno artist based in Jordan, tracked on soundcheck, with 1
 
 5harpy, 7e, Aimz
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/rami/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/rami/)*

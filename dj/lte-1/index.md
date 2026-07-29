@@ -1,14 +1,15 @@
 # LTE (1)
 
-LTE (1) is a Techno and Experimental artist with 2 upcoming club dates listed on soundcheck as of Tue, 28 Jul 2026, next at Happyfun Hideaway, New York City on Sat, 1 Aug 2026.
+LTE (1) is a Techno and Experimental artist with 3 upcoming club dates listed on soundcheck as of Wed, 29 Jul 2026, next at Happyfun Hideaway, New York City on Sat, 1 Aug 2026.
 
-LTE (1) is a techno and experimental artist based in United States of America, tracked on soundcheck, with 17 sets logged across Newyorkcity. Often billed alongside Jalpari, Alex Hell-n and Petal. Next up: Happyfun Hideaway, Newyorkcity on Sat 1 Aug.
+LTE (1) is a techno and experimental artist based in United States of America, tracked on soundcheck, with 18 sets logged across Newyorkcity. Often billed alongside Jalpari, Alex Hell-n and Petal. Next up: Happyfun Hideaway, Newyorkcity on Sat 1 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 1 Aug 2026 | Happyfun Hideaway | New York City |
+| Sat, 15 Aug 2026 | Mood Ring | New York City |
 | Fri, 21 Aug 2026 | Newtown Radio | New York City |
 
 ## Recently played
@@ -26,4 +27,4 @@ LTE (1) is a techno and experimental artist based in United States of America, t
 
 Jalpari, Alex Hell-n, Petal
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/lte-1/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/lte-1/)*

@@ -1,13 +1,14 @@
 # YANNI
 
-YANNI is a Techno and Club artist with 1 upcoming club date listed on soundcheck as of Tue, 28 Jul 2026, next at F8 1192 Folsom, San Francisco/Oakland on Sat, 5 Sept 2026.
+YANNI is a Techno and Club artist with 2 upcoming club dates listed on soundcheck as of Wed, 29 Jul 2026, next at Blondie's, San Francisco/Oakland on Fri, 31 Jul 2026.
 
-YANNI is a techno and club artist based in United States of America, tracked on soundcheck, with 16 sets logged across Sanfrancisco. Often billed alongside Kaytree, Milli Meng and QUEENIE (US). Next up: F8 1192 Folsom, Sanfrancisco on Sat 5 Sept.
+YANNI is a techno and club artist based in United States of America, tracked on soundcheck, with 17 sets logged across Sanfrancisco. Often billed alongside Kaytree, Milli Meng and QUEENIE (US). Next up: Blondie's, Sanfrancisco on Fri 31 Jul.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 31 Jul 2026 | Blondie's | San Francisco/Oakland |
 | Sat, 5 Sept 2026 | F8 1192 Folsom | San Francisco/Oakland |
 
 ## Recently played
@@ -25,4 +26,4 @@ YANNI is a techno and club artist based in United States of America, tracked on 
 
 Kaytree, Milli Meng, QUEENIE (US)
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/yanni/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/yanni/)*

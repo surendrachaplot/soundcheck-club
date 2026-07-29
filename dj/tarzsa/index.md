@@ -1,6 +1,6 @@
 # Tarzsa
 
-Tarzsa is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 28 Jul 2026, next at Boston Manor Park, London on Fri, 31 Jul 2026.
+Tarzsa is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at Boston Manor Park, London on Fri, 31 Jul 2026.
 
 Tarzsa is a house and techno artist based in United Kingdom, tracked on soundcheck, with 82 sets logged across Amsterdam, Antwerp, Barcelona and Belfast and 19 more. Often billed alongside Bradley Zero, Joy Orbison and NIKS. Next up: Boston Manor Park, London on Fri 31 Jul.
 
@@ -25,4 +25,4 @@ Tarzsa is a house and techno artist based in United Kingdom, tracked on soundche
 
 Bradley Zero, Joy Orbison, NIKS
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/tarzsa/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/tarzsa/)*

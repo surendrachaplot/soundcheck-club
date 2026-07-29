@@ -1,6 +1,6 @@
 # EMilio (2)
 
-EMilio (2) is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Tue, 28 Jul 2026, next at Village Underground Barcelona, Barcelona on Fri, 31 Jul 2026.
+EMilio (2) is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at Village Underground Barcelona, Barcelona on Fri, 31 Jul 2026.
 
 EMilio (2) is a techno and house artist based in Uruguay, tracked on soundcheck, with 52 sets logged across Barcelona, Liverpool, London and Madrid and 3 more. Often billed alongside Z@p, KINO (UY) and Lyonel. Next up: Village Underground Barcelona, Barcelona on Fri 31 Jul.
 
@@ -25,4 +25,4 @@ EMilio (2) is a techno and house artist based in Uruguay, tracked on soundcheck,
 
 Z@p, KINO (UY), Lyonel
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/emilio-2/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/emilio-2/)*

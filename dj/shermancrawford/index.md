@@ -1,6 +1,6 @@
 # Sherman Crawford
 
-Sherman Crawford is a House and Minimal artist with 1 upcoming club date listed on soundcheck as of Tue, 28 Jul 2026, next at TBA - Private Campground, Seattle on Fri, 21 Aug 2026.
+Sherman Crawford is a House and Minimal artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at TBA - Private Campground, Seattle on Fri, 21 Aug 2026.
 
 Sherman Crawford is a house and minimal artist based in United States of America, tracked on soundcheck, with 16 sets logged across Detroit, Sanfrancisco, Seattle and Washingtondc. Often billed alongside Justin Collins (2), Quarterdef and Cy Hanson. Next up: TBA - Private Campground, Seattle on Fri 21 Aug.
 
@@ -25,4 +25,4 @@ Sherman Crawford is a house and minimal artist based in United States of America
 
 Justin Collins (2), Quarterdef, Cy Hanson
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/shermancrawford/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/shermancrawford/)*

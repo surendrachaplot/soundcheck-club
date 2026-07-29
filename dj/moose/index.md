@@ -1,6 +1,6 @@
 # Moose
 
-Moose is a Drum & Bass and Jungle artist with 4 upcoming club dates listed on soundcheck as of Tue, 28 Jul 2026, next at Riverside East, London on Sat, 15 Aug 2026.
+Moose is a Drum & Bass and Jungle artist with 4 upcoming club dates listed on soundcheck as of Wed, 29 Jul 2026, next at Riverside East, London on Sat, 15 Aug 2026.
 
 Moose is a drum & bass and jungle artist tracked on soundcheck, with 48 sets logged across Bristol, London, Manchester and Melbourne and 1 more. Often billed alongside Jumping Jack Frost, Funsta and IC3. Next up: Riverside East, London on Sat 15 Aug.
 
@@ -28,4 +28,4 @@ Moose is a drum & bass and jungle artist tracked on soundcheck, with 48 sets log
 
 Jumping Jack Frost, Funsta, IC3
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/moose/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/moose/)*

@@ -1,6 +1,6 @@
 # Roll Dann
 
-Roll Dann is a Techno and Acid artist with 5 upcoming club dates listed on soundcheck as of Tue, 28 Jul 2026, next at Arzenal, Budapest on Fri, 31 Jul 2026.
+Roll Dann is a Techno and Acid artist with 5 upcoming club dates listed on soundcheck as of Wed, 29 Jul 2026, next at Arzenal, Budapest on Fri, 31 Jul 2026.
 
 Roll Dann is a techno and acid artist tracked on soundcheck, with 74 sets logged across Amsterdam, Barcelona, Berlin and Budapest and 10 more. Often billed alongside Laia, Shadow Hrym (ES) and Philippa Pacho. Next up: Arzenal, Budapest on Fri 31 Jul.
 
@@ -29,4 +29,4 @@ Roll Dann is a techno and acid artist tracked on soundcheck, with 74 sets logged
 
 Laia, Shadow Hrym (ES), Philippa Pacho
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/rolldann/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/rolldann/)*

@@ -1,6 +1,6 @@
 # The Bakery
 
-The Bakery is a music venue in Liverpool with 2 upcoming nights listed on soundcheck as of Tue, 28 Jul 2026; the next is "Different Levels" on Sat, 1 Aug 2026.
+The Bakery is a music venue in Liverpool with 2 upcoming nights listed on soundcheck as of Wed, 29 Jul 2026; the next is "Different Levels" on Sat, 1 Aug 2026.
 
 The Bakery is a music venue in Liverpool listed on soundcheck. 2 upcoming nights. Browse upcoming dates, start times and who's playing. Marvin St, Kensington, Liverpool L6 1NF.
 
@@ -15,4 +15,4 @@ The Bakery is a music venue in Liverpool listed on soundcheck. 2 upcoming nights
 
 Marvin St, Kensington, Liverpool L6 1NF, Liverpool
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/liverpool/club/the-bakery/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/liverpool/club/the-bakery/)*

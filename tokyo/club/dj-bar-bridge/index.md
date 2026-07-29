@@ -1,14 +1,13 @@
 # DJ Bar Bridge
 
-DJ Bar Bridge is a music venue in Tokyo with 57 upcoming nights listed on soundcheck as of Tue, 28 Jul 2026; the next is "EZ & YOSHIROTTEN" on Tue, 28 Jul 2026.
+DJ Bar Bridge is a music venue in Tokyo with 56 upcoming nights listed on soundcheck as of Wed, 29 Jul 2026; the next is "HIROSHI KAWANABE & KUBOTA,TAKESHI" on Wed, 29 Jul 2026.
 
-DJ Bar Bridge is a music venue in Tokyo listed on soundcheck. 57 upcoming nights, with line-ups including ALEXANDER M, DJ Emma, DJ Nori and DNG (1) and 2 more. Browse upcoming dates, start times and who's playing. Park Side Kyoudou Bldg.10F, 1-25-6 Shibuya, Shibuya-ku, Tokyo, 150-0002, Japan.
+DJ Bar Bridge is a music venue in Tokyo listed on soundcheck. 56 upcoming nights, with line-ups including ALEXANDER M, DJ Emma, DJ Nori and DNG (1) and 2 more. Browse upcoming dates, start times and who's playing. Park Side Kyoudou Bldg.10F, 1-25-6 Shibuya, Shibuya-ku, Tokyo, 150-0002, Japan.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Tue, 28 Jul 2026 | EZ & YOSHIROTTEN | YOSHIROTTEN |
 | Wed, 29 Jul 2026 | HIROSHI KAWANABE & KUBOTA,TAKESHI | KUBOTA |
 | Thu, 30 Jul 2026 | HOUSE-TEX | DJ Emma |
 | Fri, 31 Jul 2026 | DJ Nori, LB3 & Lui | DJ Nori, Lui (6) |
@@ -18,9 +17,10 @@ DJ Bar Bridge is a music venue in Tokyo listed on soundcheck. 57 upcoming nights
 | Tue, 4 Aug 2026 | PRIMAL DUB, hayato hattori, Sakura & YAYAKO |  |
 | Wed, 5 Aug 2026 | HIROSHI KAWANABE & OG Militant B | OG Militant B |
 | Thu, 6 Aug 2026 | HOUSE-TEX | ALEXANDER M, DJ Emma |
+| Fri, 7 Aug 2026 | DJ Nori & Lil Mofo | DJ Nori, Lil Mofo |
 
 ## Address
 
 Park Side Kyoudou Bldg.10F, 1-25-6 Shibuya, Shibuya-ku, Tokyo, 150-0002, Japan, Tokyo
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/dj-bar-bridge/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/dj-bar-bridge/)*

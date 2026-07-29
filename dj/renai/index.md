@@ -1,6 +1,6 @@
 # renai
 
-renai is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 28 Jul 2026, next at TBA - 16915 Darnestown Road, Boyds, Maryland 20841, Washington DC on Sat, 17 Oct 2026.
+renai is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at TBA - 16915 Darnestown Road, Boyds, Maryland 20841, Washington DC on Sat, 17 Oct 2026.
 
 renai is a house and techno artist based in United States of America, tracked on soundcheck, with 23 sets logged across Chicago, Detroit, Newyorkcity and Washingtondc. Often billed alongside My Friend Jack, nikolo and Garrett David. Next up: TBA - 16915 Darnestown Road, Boyds, Maryland 20841, Washingtondc on Sat 17 Oct.
 
@@ -25,4 +25,4 @@ renai is a house and techno artist based in United States of America, tracked on
 
 My Friend Jack, nikolo, Garrett David
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/renai/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/renai/)*

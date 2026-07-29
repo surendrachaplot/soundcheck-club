@@ -1,6 +1,6 @@
 # deadright
 
-deadright is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Tue, 28 Jul 2026, next at TBA - Various Venues, Brighton on Sat, 1 Aug 2026.
+deadright is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Wed, 29 Jul 2026, next at TBA - Various Venues, Brighton on Sat, 1 Aug 2026.
 
 deadright is a techno and house artist based in Ireland, tracked on soundcheck, with 17 sets logged across Brighton and London. Often billed alongside Ross Harper, Gosia and Just Her. Next up: TBA - Various Venues, Brighton on Sat 1 Aug.
 
@@ -26,4 +26,4 @@ deadright is a techno and house artist based in Ireland, tracked on soundcheck, 
 
 Ross Harper, Gosia, Just Her
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/deadright/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/deadright/)*

@@ -1,6 +1,6 @@
 # Dress
 
-Dress is a Techno and Electro artist with 1 upcoming club date listed on soundcheck as of Tue, 28 Jul 2026, next at TBA - Neukölln, Berlin on Fri, 14 Aug 2026.
+Dress is a Techno and Electro artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at TBA - Neukölln, Berlin on Fri, 14 Aug 2026.
 
 Dress is a techno and electro artist based in United States of America, tracked on soundcheck, with 5 sets logged across Berlin, Brussels and Ghent. Often billed alongside Bambounou, Blain and Border One. Next up: TBA - Neukölln, Berlin on Fri 14 Aug.
 
@@ -21,4 +21,4 @@ Dress is a techno and electro artist based in United States of America, tracked 
 
 Bambounou, Blain, Border One
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/dress-usa/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/dress-usa/)*

@@ -1,6 +1,6 @@
 # Zankee Gulati
 
-Zankee Gulati is a Progressive House and Deep House artist with 1 upcoming club date listed on soundcheck as of Tue, 28 Jul 2026, next at TBA - 2.5 Hours from Sydney, Sydney on Sat, 3 Oct 2026.
+Zankee Gulati is a Progressive House and Deep House artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at TBA - 2.5 Hours from Sydney, Sydney on Sat, 3 Oct 2026.
 
 Zankee Gulati is a progressive house and deep house artist based in Australia, tracked on soundcheck, with 25 sets logged across Glasgow, Lisbon, Manchester and Melbourne and 1 more. Often billed alongside Amháin, Caleb Jackson and Doppel. Next up: TBA - 2.5 Hours from Sydney, Sydney on Sat 3 Oct.
 
@@ -25,4 +25,4 @@ Zankee Gulati is a progressive house and deep house artist based in Australia, t
 
 Amháin, Caleb Jackson, Doppel
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/zankeegulati-au/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/zankeegulati-au/)*

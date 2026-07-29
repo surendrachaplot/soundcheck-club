@@ -1,6 +1,6 @@
 # Thaiboy Digital
 
-Thaiboy Digital is a Experimental and Pop artist with 1 upcoming club date listed on soundcheck as of Tue, 28 Jul 2026, next at TBA, Los Angeles on Sat, 26 Sept 2026.
+Thaiboy Digital is a Experimental and Pop artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at TBA, Los Angeles on Sat, 26 Sept 2026.
 
 Thaiboy Digital is an experimental and pop artist tracked on soundcheck, with 17 sets logged across Bangkok, Barcelona, Berlin and Copenhagen and 9 more. Often billed alongside 10cust, Frost Children and Ali RQ. Next up: TBA, Losangeles on Sat 26 Sept.
 
@@ -25,4 +25,4 @@ Thaiboy Digital is an experimental and pop artist tracked on soundcheck, with 17
 
 10cust, Frost Children, Ali RQ
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/thaiboydigital/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/thaiboydigital/)*

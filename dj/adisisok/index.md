@@ -1,6 +1,6 @@
 # Adis Is OK
 
-Adis Is OK is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 28 Jul 2026, next at Renate, Berlin on Sat, 8 Aug 2026.
+Adis Is OK is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at Renate, Berlin on Sat, 8 Aug 2026.
 
 Adis Is OK is a house and techno artist tracked on soundcheck, with 80 sets logged across Amsterdam, Bangkok, Berlin and Budapest and 3 more. Often billed alongside Switch Nollie, MAROSI and Badaro. Next up: Renate, Berlin on Sat 8 Aug.
 
@@ -25,4 +25,4 @@ Adis Is OK is a house and techno artist tracked on soundcheck, with 80 sets logg
 
 Switch Nollie, MAROSI, Badaro
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/adisisok/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/adisisok/)*

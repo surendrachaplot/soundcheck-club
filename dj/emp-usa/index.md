@@ -1,6 +1,6 @@
 # EMP
 
-EMP is a Techno and Electro artist with 1 upcoming club date listed on soundcheck as of Tue, 28 Jul 2026, next at Domicile, Miami on Fri, 28 Aug 2026.
+EMP is a Techno and Electro artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at Domicile, Miami on Fri, 28 Aug 2026.
 
 EMP is a techno and electro artist based in United States of America, tracked on soundcheck, with 8 sets logged across Miami and Newyorkcity. Often billed alongside Adrian Hex, Secret Raver and Virus. Next up: Domicile, Miami on Fri 28 Aug.
 
@@ -24,4 +24,4 @@ EMP is a techno and electro artist based in United States of America, tracked on
 
 Adrian Hex, Secret Raver, Virus
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/emp-usa/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/emp-usa/)*

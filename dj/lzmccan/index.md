@@ -1,6 +1,6 @@
 # Lz MC Can
 
-Lz MC Can is a Dub and Jazz artist with 1 upcoming club date listed on soundcheck as of Tue, 28 Jul 2026, next at Mysliwska, Berlin on Fri, 31 Jul 2026.
+Lz MC Can is a Dub and Jazz artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at Mysliwska, Berlin on Fri, 31 Jul 2026.
 
 Lz MC Can is a dub and jazz artist based in Turkey, tracked on soundcheck, with 15 sets logged across Amsterdam, Berlin, Istanbul and Rotterdam. Often billed alongside DJ Regret, Potkid and Second Storey. Next up: Mysliwska, Berlin on Fri 31 Jul.
 
@@ -25,4 +25,4 @@ Lz MC Can is a dub and jazz artist based in Turkey, tracked on soundcheck, with 
 
 DJ Regret, Potkid, Second Storey
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/lzmccan/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/lzmccan/)*

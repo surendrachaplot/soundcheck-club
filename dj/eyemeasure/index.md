@@ -1,6 +1,6 @@
 # Eye Measure
 
-Eye Measure is a Experimental and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 28 Jul 2026, next at Sidney & Matilda, Sheffield on Thu, 30 Jul 2026.
+Eye Measure is a Experimental and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at Sidney & Matilda, Sheffield on Thu, 30 Jul 2026.
 
 Eye Measure is an experimental and techno artist tracked on soundcheck, with 11 sets logged across Bristol, London, Manchester and Sheffield. Often billed alongside Yaxu, Damu and Rian Treanor. Next up: Sidney & Matilda, Sheffield on Thu 30 Jul.
 
@@ -25,4 +25,4 @@ Eye Measure is an experimental and techno artist tracked on soundcheck, with 11 
 
 Yaxu, Damu, Rian Treanor
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/eyemeasure/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/eyemeasure/)*

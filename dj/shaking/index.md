@@ -1,6 +1,6 @@
 # SHAKING
 
-SHAKING is a House and Garage artist with 2 upcoming club dates listed on soundcheck as of Tue, 28 Jul 2026, next at TBA - Hollywood Park adjacent to SoFi Stadium, Los Angeles on Sat, 1 Aug 2026.
+SHAKING is a House and Garage artist with 2 upcoming club dates listed on soundcheck as of Wed, 29 Jul 2026, next at TBA - Hollywood Park adjacent to SoFi Stadium, Los Angeles on Sat, 1 Aug 2026.
 
 SHAKING is a house and garage artist tracked on soundcheck, with 19 sets logged across Losangeles, Newyorkcity, Sandiego and Sanfrancisco. Often billed alongside Clearcast, AMZEL and Main Phase. Next up: TBA - Hollywood Park adjacent to SoFi Stadium, Losangeles on Sat 1 Aug.
 
@@ -26,4 +26,4 @@ SHAKING is a house and garage artist tracked on soundcheck, with 19 sets logged 
 
 Clearcast, AMZEL, Main Phase
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/shaking/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/shaking/)*

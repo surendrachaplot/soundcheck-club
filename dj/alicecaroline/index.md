@@ -1,6 +1,6 @@
 # Alice Caroline
 
-Alice Caroline is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Tue, 28 Jul 2026, next at La Terrrazza, Barcelona on Sat, 8 Aug 2026.
+Alice Caroline is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at La Terrrazza, Barcelona on Sat, 8 Aug 2026.
 
 Alice Caroline is a techno and house artist based in Ukraine, tracked on soundcheck, with 36 sets logged across Barcelona, Bucharest, Buenosaires and Paris. Often billed alongside Onna Boo, Sash (BCN) and TC80. Next up: La Terrrazza, Barcelona on Sat 8 Aug.
 
@@ -25,4 +25,4 @@ Alice Caroline is a techno and house artist based in Ukraine, tracked on soundch
 
 Onna Boo, Sash (BCN), TC80
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/alicecaroline/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/alicecaroline/)*

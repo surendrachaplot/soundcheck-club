@@ -1,6 +1,6 @@
 # Dj Poperz
 
-Dj Poperz is a Electronica and Progressive House artist with 2 upcoming club dates listed on soundcheck as of Tue, 28 Jul 2026, next at Ankali & Planeta Za, Prague on Fri, 31 Jul 2026.
+Dj Poperz is a Electronica and Progressive House artist with 2 upcoming club dates listed on soundcheck as of Wed, 29 Jul 2026, next at Ankali & Planeta Za, Prague on Fri, 31 Jul 2026.
 
 Dj Poperz is an electronica and progressive house artist tracked on soundcheck, with 11 sets logged across Prague. Often billed alongside CEREAL, Feenicks and Axis Alpha. Next up: Ankali & Planeta Za, Prague on Fri 31 Jul.
 
@@ -26,4 +26,4 @@ Dj Poperz is an electronica and progressive house artist tracked on soundcheck, 
 
 CEREAL, Feenicks, Axis Alpha
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/djpoperz/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/djpoperz/)*

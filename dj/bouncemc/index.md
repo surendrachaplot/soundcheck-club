@@ -1,6 +1,6 @@
 # Bounce MC
 
-Bounce MC is a Trance and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 28 Jul 2026, next at Odonien, Cologne on Wed, 29 Jul 2026.
+Bounce MC is a Trance and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at Odonien, Cologne on Wed, 29 Jul 2026.
 
 Bounce MC is a trance and techno artist based in Germany, tracked on soundcheck, with 17 sets logged across Berlin, Cologne and Nurnberg. Often billed alongside HugoBass303, Speedo and ADEMES. Next up: Odonien, Cologne on Wed 29 Jul.
 
@@ -25,4 +25,4 @@ Bounce MC is a trance and techno artist based in Germany, tracked on soundcheck,
 
 HugoBass303, Speedo, ADEMES
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/bouncemc/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/bouncemc/)*

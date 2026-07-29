@@ -1,6 +1,6 @@
 # KLOSSY
 
-KLOSSY is a Hardcore and Gabber artist with 1 upcoming club date listed on soundcheck as of Tue, 28 Jul 2026, next at Astra Kulturhaus, Berlin on Fri, 31 Jul 2026.
+KLOSSY is a Hardcore and Gabber artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at Astra Kulturhaus, Berlin on Fri, 31 Jul 2026.
 
 KLOSSY is a hardcore and gabber artist based in Germany, tracked on soundcheck, with 9 sets logged across Berlin and Leipzig. Often billed alongside Dagobird, DiskoJochen and LØUS. Next up: Astra Kulturhaus, Berlin on Fri 31 Jul.
 
@@ -25,4 +25,4 @@ KLOSSY is a hardcore and gabber artist based in Germany, tracked on soundcheck, 
 
 Dagobird, DiskoJochen, LØUS
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/klossy/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/klossy/)*

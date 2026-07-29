@@ -1,6 +1,6 @@
 # Carlo Ciferni
 
-Carlo Ciferni is a Techno and Hardcore artist with 1 upcoming club date listed on soundcheck as of Tue, 28 Jul 2026, next at Spazio Cavea, Rome on Sat, 1 Aug 2026.
+Carlo Ciferni is a Techno and Hardcore artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at Spazio Cavea, Rome on Sat, 1 Aug 2026.
 
 Carlo Ciferni is a techno and hardcore artist based in Italy, tracked on soundcheck, with 14 sets logged across Lisbon and Rome. Often billed alongside Jalex, NOTAX (IT) and Veronique. Next up: Spazio Cavea, Rome on Sat 1 Aug.
 
@@ -25,4 +25,4 @@ Carlo Ciferni is a techno and hardcore artist based in Italy, tracked on soundch
 
 Jalex, NOTAX (IT), Veronique
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/carlociferni/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/carlociferni/)*

@@ -1,6 +1,6 @@
 # Prest
 
-Prest is a Techno and Electronica artist with 1 upcoming club date listed on soundcheck as of Tue, 28 Jul 2026, next at Spazio Cavea, Rome on Fri, 31 Jul 2026.
+Prest is a Techno and Electronica artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at Spazio Cavea, Rome on Fri, 31 Jul 2026.
 
 Prest is a techno and electronica artist based in Italy, tracked on soundcheck, with 53 sets logged across Barcelona, Edinburgh, Glasgow and Milan and 1 more. Often billed alongside XL Regular, Her Nice Too and F L V X X X. Next up: Spazio Cavea, Rome on Fri 31 Jul.
 
@@ -25,4 +25,4 @@ Prest is a techno and electronica artist based in Italy, tracked on soundcheck, 
 
 XL Regular, Her Nice Too, F L V X X X
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/Prest-it/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/Prest-it/)*

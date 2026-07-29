@@ -1,6 +1,6 @@
 # Phillie P
 
-Phillie P is a House and Bass artist with 1 upcoming club date listed on soundcheck as of Tue, 28 Jul 2026, next at Karmakoma, Belgrade on Sat, 1 Aug 2026.
+Phillie P is a House and Bass artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at Karmakoma, Belgrade on Sat, 1 Aug 2026.
 
 Phillie P is a house and bass artist based in Serbia, tracked on soundcheck, with 31 sets logged across Amsterdam, Belgrade, Tokyo and Vienna. Often billed alongside Feloneezy, Stevie Whisper and Leshutler. Next up: Karmakoma, Belgrade on Sat 1 Aug.
 
@@ -25,4 +25,4 @@ Phillie P is a house and bass artist based in Serbia, tracked on soundcheck, wit
 
 Feloneezy, Stevie Whisper, Leshutler
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/philliep/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/philliep/)*

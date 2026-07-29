@@ -1,6 +1,6 @@
 # SASKiA SASSE
 
-SASKiA SASSE is a Bass and House artist with 1 upcoming club date listed on soundcheck as of Tue, 28 Jul 2026, next at CLUB OST & RENATE BERLIN, Berlin on Fri, 21 Aug 2026.
+SASKiA SASSE is a Bass and House artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at CLUB OST & RENATE BERLIN, Berlin on Fri, 21 Aug 2026.
 
 SASKiA SASSE is a bass and house artist based in Germany, tracked on soundcheck, with 23 sets logged across Berlin, Bristol, Copenhagen and Paris and 2 more. Often billed alongside Cyranotaurus Cortex, Goldenaxe and Stephan Licha. Next up: CLUB OST & RENATE BERLIN, Berlin on Fri 21 Aug.
 
@@ -25,4 +25,4 @@ SASKiA SASSE is a bass and house artist based in Germany, tracked on soundcheck,
 
 Cyranotaurus Cortex, Goldenaxe, Stephan Licha
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/saskiasasse/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/saskiasasse/)*

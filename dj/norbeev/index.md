@@ -1,6 +1,6 @@
 # Norbeev
 
-Norbeev is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Tue, 28 Jul 2026, next at Holdudvar, Budapest on Thu, 30 Jul 2026.
+Norbeev is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Wed, 29 Jul 2026, next at Holdudvar, Budapest on Thu, 30 Jul 2026.
 
 Norbeev is a house and techno artist based in Hungary, tracked on soundcheck, with 15 sets logged across Budapest and Cologne. Often billed alongside Noven, Antique (HU) and Gabriel Dancer. Next up: Holdudvar, Budapest on Thu 30 Jul.
 
@@ -26,4 +26,4 @@ Norbeev is a house and techno artist based in Hungary, tracked on soundcheck, wi
 
 Noven, Antique (HU), Gabriel Dancer
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/norbeev/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/norbeev/)*

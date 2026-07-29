@@ -1,6 +1,6 @@
 # Soraya
 
-Soraya is a House and Reggaeton artist with 2 upcoming club dates listed on soundcheck as of Tue, 28 Jul 2026, next at Tresor / Globus, Berlin on Sat, 22 Aug 2026.
+Soraya is a House and Reggaeton artist with 2 upcoming club dates listed on soundcheck as of Wed, 29 Jul 2026, next at Tresor / Globus, Berlin on Sat, 22 Aug 2026.
 
 Soraya is a house and reggaeton artist tracked on soundcheck, with 6 sets logged across Amsterdam, Berlin, Losangeles and Marseille and 1 more. Often billed alongside Ardalan, Blaq PAGES and Cardo. Next up: Tresor / Globus, Berlin on Sat 22 Aug.
 
@@ -22,4 +22,4 @@ Soraya is a house and reggaeton artist tracked on soundcheck, with 6 sets logged
 
 Ardalan, Blaq PAGES, Cardo
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/soraya/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/soraya/)*

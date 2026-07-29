@@ -1,8 +1,8 @@
 # Gettoblaster
 
-Gettoblaster is a House and Tech House artist with 2 upcoming club dates listed on soundcheck as of Tue, 28 Jul 2026, next at TV Lounge, Detroit on Thu, 13 Aug 2026.
+Gettoblaster is a House and Tech House artist with 3 upcoming club dates listed on soundcheck as of Wed, 29 Jul 2026, next at TV Lounge, Detroit on Thu, 13 Aug 2026.
 
-Gettoblaster is a house and tech house artist based in United States of America, tracked on soundcheck, with 72 sets logged across Amsterdam, Chicago, Detroit and Houston and 9 more. Often billed alongside J.Phlip, Junior Sanchez and Microdot. Next up: TV Lounge, Detroit on Thu 13 Aug.
+Gettoblaster is a house and tech house artist based in United States of America, tracked on soundcheck, with 73 sets logged across Amsterdam, Chicago, Detroit and Houston and 9 more. Often billed alongside J.Phlip, Junior Sanchez and Microdot. Next up: TV Lounge, Detroit on Thu 13 Aug.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Gettoblaster is a house and tech house artist based in United States of America,
 | --- | --- | --- |
 | Thu, 13 Aug 2026 | TV Lounge | Detroit |
 | Thu, 13 Aug 2026 | Tangent Gallery | Detroit |
+| Sat, 15 Aug 2026 | Tangent Gallery | Detroit |
 
 ## Recently played
 
@@ -26,4 +27,4 @@ Gettoblaster is a house and tech house artist based in United States of America,
 
 J.Phlip, Junior Sanchez, Microdot
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/gettoblaster/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/gettoblaster/)*

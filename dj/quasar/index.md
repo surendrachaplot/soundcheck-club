@@ -1,6 +1,6 @@
 # Quasar
 
-Quasar is a Bass and Dub artist with 1 upcoming club date listed on soundcheck as of Tue, 28 Jul 2026, next at The Black Box, Denver on Fri, 31 Jul 2026.
+Quasar is a Bass and Dub artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at The Black Box, Denver on Fri, 31 Jul 2026.
 
 Quasar is a bass and dub artist based in Switzerland, tracked on soundcheck, with 4 sets logged across Denver, Lisbon, Paris and Sanfrancisco. Often billed alongside Mayflo, Qant (2) and Sorun. Next up: The Black Box, Denver on Fri 31 Jul.
 
@@ -20,4 +20,4 @@ Quasar is a bass and dub artist based in Switzerland, tracked on soundcheck, wit
 
 Mayflo, Qant (2), Sorun
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/quasar/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/quasar/)*

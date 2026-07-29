@@ -1,6 +1,6 @@
 # JKS
 
-JKS is a Techno and House artist with 6 upcoming club dates listed on soundcheck as of Tue, 28 Jul 2026, next at Giri, Berlin on Thu, 30 Jul 2026.
+JKS is a Techno and House artist with 6 upcoming club dates listed on soundcheck as of Wed, 29 Jul 2026, next at Giri, Berlin on Thu, 30 Jul 2026.
 
 JKS is a techno and house artist tracked on soundcheck, with 141 sets logged across Aberdeen, Amsterdam, Athens and Berlin and 46 more. Often billed alongside Bailey Ibbs, BENZA and CAIVA. Next up: Giri, Berlin on Thu 30 Jul.
 
@@ -30,4 +30,4 @@ JKS is a techno and house artist tracked on soundcheck, with 141 sets logged acr
 
 Bailey Ibbs, BENZA, CAIVA
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/jks/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/jks/)*

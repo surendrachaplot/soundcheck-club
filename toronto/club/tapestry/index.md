@@ -1,6 +1,6 @@
 # Tapestry
 
-Tapestry is a music venue in Toronto with 2 upcoming nights listed on soundcheck as of Tue, 28 Jul 2026; the next is "Luxure Showcase 001" on Sun, 16 Aug 2026.
+Tapestry is a music venue in Toronto with 2 upcoming nights listed on soundcheck as of Wed, 29 Jul 2026; the next is "Luxure Showcase 001" on Sun, 16 Aug 2026.
 
 Tapestry is a music venue in Toronto listed on soundcheck. 2 upcoming nights, with line-ups including Dance Committee. Browse upcoming dates, start times and who's playing. 224 Augusta Ave..
 
@@ -15,4 +15,4 @@ Tapestry is a music venue in Toronto listed on soundcheck. 2 upcoming nights, wi
 
 224 Augusta Ave., Toronto
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/toronto/club/tapestry/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/toronto/club/tapestry/)*

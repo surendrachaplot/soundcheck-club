@@ -1,6 +1,6 @@
 # Geneva_
 
-Geneva_ is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Tue, 28 Jul 2026, next at People's Leisure Club, Edinburgh on Fri, 7 Aug 2026.
+Geneva_ is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Wed, 29 Jul 2026, next at People's Leisure Club, Edinburgh on Fri, 7 Aug 2026.
 
 Geneva_ is a house and techno artist based in France, tracked on soundcheck, with 10 sets logged across Berlin, Edinburgh, Munich and Nantes and 1 more. Often billed alongside Adrien Calvet, Aidan and Akua. Next up: People's Leisure Club, Edinburgh on Fri 7 Aug.
 
@@ -26,4 +26,4 @@ Geneva_ is a house and techno artist based in France, tracked on soundcheck, wit
 
 Adrien Calvet, Aidan, Akua
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/geneva_/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/geneva_/)*

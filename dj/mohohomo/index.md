@@ -1,6 +1,6 @@
 # MOHOHOMO
 
-MOHOHOMO is a Bass and Club artist with 1 upcoming club date listed on soundcheck as of Tue, 28 Jul 2026, next at Cakeshop, Seoul on Fri, 31 Jul 2026.
+MOHOHOMO is a Bass and Club artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at Cakeshop, Seoul on Fri, 31 Jul 2026.
 
 MOHOHOMO is a bass and club artist based in South Korea, tracked on soundcheck, with 25 sets logged across Newyorkcity and Seoul. Often billed alongside O.od, KISEWA and mokhzolla. Next up: Cakeshop, Seoul on Fri 31 Jul.
 
@@ -25,4 +25,4 @@ MOHOHOMO is a bass and club artist based in South Korea, tracked on soundcheck, 
 
 O.od, KISEWA, mokhzolla
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/mohohomo/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/mohohomo/)*

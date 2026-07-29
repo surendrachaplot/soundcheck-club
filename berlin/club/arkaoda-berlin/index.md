@@ -1,6 +1,6 @@
 # arkaoda Berlin
 
-arkaoda Berlin is a music venue in Berlin with 10 upcoming nights listed on soundcheck as of Tue, 28 Jul 2026; the next is "Signal To Noise: Vicente Yáñez, Kėkė Søl, Guro Kverndokk" on Thu, 30 Jul 2026.
+arkaoda Berlin is a music venue in Berlin with 10 upcoming nights listed on soundcheck as of Wed, 29 Jul 2026; the next is "Signal To Noise: Vicente Yáñez, Kėkė Søl, Guro Kverndokk" on Thu, 30 Jul 2026.
 
 arkaoda Berlin is a music venue in Berlin listed on soundcheck. 10 upcoming nights, with line-ups including A.Wild, Batukizer, COZi and CRUHDA and 2 more. Browse upcoming dates, start times and who's playing. Karl-Marx Platz 16 12043 Berlin, Germany.
 
@@ -23,4 +23,4 @@ arkaoda Berlin is a music venue in Berlin listed on soundcheck. 10 upcoming nigh
 
 Karl-Marx Platz 16 12043 Berlin, Germany, Berlin
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/arkaoda-berlin/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/arkaoda-berlin/)*

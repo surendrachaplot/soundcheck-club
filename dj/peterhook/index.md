@@ -1,6 +1,6 @@
 # Peter Hook
 
-Peter Hook is a House artist with 1 upcoming club date listed on soundcheck as of Tue, 28 Jul 2026, next at 528 Ibiza, Ibiza on Thu, 30 Jul 2026.
+Peter Hook is a House artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at 528 Ibiza, Ibiza on Thu, 30 Jul 2026.
 
 Peter Hook is a house artist based in United Kingdom, tracked on soundcheck, with 7 sets logged across Amsterdam, Brussels, Ibiza and London and 1 more. Often billed alongside Graeme Park, DJ Paulette and Greg Wilson. Next up: 528 Ibiza, Ibiza on Thu 30 Jul.
 
@@ -23,4 +23,4 @@ Peter Hook is a house artist based in United Kingdom, tracked on soundcheck, wit
 
 Graeme Park, DJ Paulette, Greg Wilson
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/peterhook/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/peterhook/)*

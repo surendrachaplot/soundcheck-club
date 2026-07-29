@@ -1,6 +1,6 @@
 # Butchqueen.fm
 
-Butchqueen.fm is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 28 Jul 2026, next at KREUZWERK, Berlin on Sun, 2 Aug 2026.
+Butchqueen.fm is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at KREUZWERK, Berlin on Sun, 2 Aug 2026.
 
 Butchqueen.fm is a house and techno artist based in United States of America, tracked on soundcheck, with 12 sets logged across Berlin and Leipzig. Often billed alongside Carly Zeng, Sub Sahara and Aunty Nora. Next up: KREUZWERK, Berlin on Sun 2 Aug.
 
@@ -25,4 +25,4 @@ Butchqueen.fm is a house and techno artist based in United States of America, tr
 
 Carly Zeng, Sub Sahara, Aunty Nora
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/butchqueenfm/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/butchqueenfm/)*

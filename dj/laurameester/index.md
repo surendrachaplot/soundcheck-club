@@ -1,6 +1,6 @@
 # Laura Meester
 
-Laura Meester is a House and Disco artist with 6 upcoming club dates listed on soundcheck as of Tue, 28 Jul 2026, next at Shelter Amsterdam, Amsterdam on Fri, 31 Jul 2026.
+Laura Meester is a House and Disco artist with 6 upcoming club dates listed on soundcheck as of Wed, 29 Jul 2026, next at Shelter Amsterdam, Amsterdam on Fri, 31 Jul 2026.
 
 Laura Meester is a house and disco artist tracked on soundcheck, with 97 sets logged across Amsterdam, Antwerp, Berlin and London and 2 more. Often billed alongside Tonno Disko, Moody Mehran and Boris Coelman. Next up: Shelter Amsterdam, Amsterdam on Fri 31 Jul.
 
@@ -30,4 +30,4 @@ Laura Meester is a house and disco artist tracked on soundcheck, with 97 sets lo
 
 Tonno Disko, Moody Mehran, Boris Coelman
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/laurameester/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/laurameester/)*

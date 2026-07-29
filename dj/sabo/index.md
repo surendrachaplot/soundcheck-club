@@ -1,6 +1,6 @@
 # Sabo
 
-Sabo is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Tue, 28 Jul 2026, next at Flash, Washington DC on Sun, 2 Aug 2026.
+Sabo is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at Flash, Washington DC on Sun, 2 Aug 2026.
 
 Sabo is a house and deep house artist based in United States of America, tracked on soundcheck, with 57 sets logged across Austin, Berlin, Chicago and Denver and 14 more. Often billed alongside Goldcap, ELIF and SATICA. Next up: Flash, Washingtondc on Sun 2 Aug.
 
@@ -25,4 +25,4 @@ Sabo is a house and deep house artist based in United States of America, tracked
 
 Goldcap, ELIF, SATICA
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/sabo/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/sabo/)*

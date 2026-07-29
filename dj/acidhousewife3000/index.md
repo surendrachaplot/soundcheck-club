@@ -1,6 +1,6 @@
 # acidhousewife3000
 
-acidhousewife3000 is a Electronica and Experimental artist with 2 upcoming club dates listed on soundcheck as of Tue, 28 Jul 2026, next at HWK, London on Sat, 22 Aug 2026.
+acidhousewife3000 is a Electronica and Experimental artist with 2 upcoming club dates listed on soundcheck as of Wed, 29 Jul 2026, next at HWK, London on Sat, 22 Aug 2026.
 
 acidhousewife3000 is an electronica and experimental artist based in United Kingdom, tracked on soundcheck, with 8 sets logged across London. Often billed alongside dbeater, Vlad Zinn and ttttttttt. Next up: HWK, London on Sat 22 Aug.
 
@@ -24,4 +24,4 @@ acidhousewife3000 is an electronica and experimental artist based in United King
 
 dbeater, Vlad Zinn, ttttttttt
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/acidhousewife3000/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/acidhousewife3000/)*

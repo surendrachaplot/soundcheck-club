@@ -1,6 +1,6 @@
 # Eric Modz
 
-Eric Modz is a House and Electronica artist with 1 upcoming club date listed on soundcheck as of Tue, 28 Jul 2026, next at Dead Letter No. 9, New York City on Fri, 7 Aug 2026.
+Eric Modz is a House and Electronica artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at Dead Letter No. 9, New York City on Fri, 7 Aug 2026.
 
 Eric Modz is a house and electronica artist based in United States of America, tracked on soundcheck, with 4 sets logged across Newyorkcity. Often billed alongside Anahit Vardanyan, CatLadyHi and MAMICANA. Next up: Dead Letter No. 9, Newyorkcity on Fri 7 Aug.
 
@@ -20,4 +20,4 @@ Eric Modz is a house and electronica artist based in United States of America, t
 
 Anahit Vardanyan, CatLadyHi, MAMICANA
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/ericmodz/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/ericmodz/)*

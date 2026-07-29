@@ -1,6 +1,6 @@
 # Luke McKeehan
 
-Luke McKeehan is a Deep House and Disco artist with 2 upcoming club dates listed on soundcheck as of Tue, 28 Jul 2026, next at TBA - The Penthouse Nightclub (Upstairs), 1019 Seymour St, Vancouver BC, Vancouver on Sun, 2 Aug 2026.
+Luke McKeehan is a Deep House and Disco artist with 2 upcoming club dates listed on soundcheck as of Wed, 29 Jul 2026, next at TBA - The Penthouse Nightclub (Upstairs), 1019 Seymour St, Vancouver BC, Vancouver on Sun, 2 Aug 2026.
 
 Luke McKeehan is a deep house and disco artist tracked on soundcheck, with 27 sets logged across Vancouver. Often billed alongside Jesse Hills, DJ Heather and DJ Sneak. Next up: TBA - The Penthouse Nightclub (Upstairs), 1019 Seymour St, Vancouver BC, Vancouver on Sun 2 Aug.
 
@@ -26,4 +26,4 @@ Luke McKeehan is a deep house and disco artist tracked on soundcheck, with 27 se
 
 Jesse Hills, DJ Heather, DJ Sneak
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/lukemckeehan/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/lukemckeehan/)*

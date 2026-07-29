@@ -1,6 +1,6 @@
 # Sam Ruffillo
 
-Sam Ruffillo is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Tue, 28 Jul 2026, next at Amber's, Manchester on Sat, 3 Oct 2026.
+Sam Ruffillo is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at Amber's, Manchester on Sat, 3 Oct 2026.
 
 Sam Ruffillo is a house and disco artist tracked on soundcheck, with 108 sets logged across Amsterdam, Auckland, Bali and Barcelona and 32 more. Often billed alongside Kapote, Gee Lane and Stump Valley. Next up: Amber's, Manchester on Sat 3 Oct.
 
@@ -25,4 +25,4 @@ Sam Ruffillo is a house and disco artist tracked on soundcheck, with 108 sets lo
 
 Kapote, Gee Lane, Stump Valley
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/samruffillo/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/samruffillo/)*

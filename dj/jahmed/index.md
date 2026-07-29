@@ -1,6 +1,6 @@
 # Jahmed
 
-Jahmed is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Tue, 28 Jul 2026, next at TBA - EAST LONDON - Announced to ticket holders on the day, London on Fri, 14 Aug 2026.
+Jahmed is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at TBA - EAST LONDON - Announced to ticket holders on the day, London on Fri, 14 Aug 2026.
 
 Jahmed is a house and disco artist based in United Kingdom, tracked on soundcheck, with 19 sets logged across London. Often billed alongside SUGARLOAF, GENIETUNES and Arnie Wrong. Next up: TBA - EAST LONDON - Announced to ticket holders on the day, London on Fri 14 Aug.
 
@@ -25,4 +25,4 @@ Jahmed is a house and disco artist based in United Kingdom, tracked on soundchec
 
 SUGARLOAF, GENIETUNES, Arnie Wrong
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/jahmed/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/jahmed/)*

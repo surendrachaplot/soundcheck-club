@@ -1,6 +1,6 @@
 # Kat Ze
 
-Kat Ze is a Techno and Trance artist with 2 upcoming club dates listed on soundcheck as of Tue, 28 Jul 2026, next at Das Werk, Vienna on Fri, 11 Sept 2026.
+Kat Ze is a Techno and Trance artist with 2 upcoming club dates listed on soundcheck as of Wed, 29 Jul 2026, next at Das Werk, Vienna on Fri, 11 Sept 2026.
 
 Kat Ze is a techno and trance artist based in Austria, tracked on soundcheck, with 37 sets logged across Berlin and Vienna. Often billed alongside Max Wagner, maro and GOLDI (AT). Next up: Das Werk, Vienna on Fri 11 Sept.
 
@@ -26,4 +26,4 @@ Kat Ze is a techno and trance artist based in Austria, tracked on soundcheck, wi
 
 Max Wagner, maro, GOLDI (AT)
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/katzedj/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/katzedj/)*

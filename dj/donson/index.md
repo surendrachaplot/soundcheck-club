@@ -1,6 +1,6 @@
 # Don Son
 
-Don Son is a Techno and Electronica artist with 2 upcoming club dates listed on soundcheck as of Tue, 28 Jul 2026, next at Jonny Knüppel, Berlin on Fri, 31 Jul 2026.
+Don Son is a Techno and Electronica artist with 2 upcoming club dates listed on soundcheck as of Wed, 29 Jul 2026, next at Jonny Knüppel, Berlin on Fri, 31 Jul 2026.
 
 Don Son is a techno and electronica artist based in Switzerland, tracked on soundcheck, with 19 sets logged across Barcelona, Basel, Berlin and London and 4 more. Often billed alongside DMITRI ABSINTHE, MAX PELA and Michael Ritter. Next up: Jonny Knüppel, Berlin on Fri 31 Jul.
 
@@ -26,4 +26,4 @@ Don Son is a techno and electronica artist based in Switzerland, tracked on soun
 
 DMITRI ABSINTHE, MAX PELA, Michael Ritter
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/donson/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/donson/)*

@@ -1,6 +1,6 @@
 # Ugur Project
 
-Ugur Project is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 28 Jul 2026, next at Kastel, Istanbul on Fri, 31 Jul 2026.
+Ugur Project is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at Kastel, Istanbul on Fri, 31 Jul 2026.
 
 Ugur Project is a house and techno artist based in Turkey, tracked on soundcheck, with 20 sets logged across Amsterdam and Istanbul. Often billed alongside Alan Cutt, BUSSI and CARBONE BLACK. Next up: Kastel, Istanbul on Fri 31 Jul.
 
@@ -25,4 +25,4 @@ Ugur Project is a house and techno artist based in Turkey, tracked on soundcheck
 
 Alan Cutt, BUSSI, CARBONE BLACK
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/ugurproject/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/ugurproject/)*

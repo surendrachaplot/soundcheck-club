@@ -1,8 +1,8 @@
 # Hybrid Minds
 
-Hybrid Minds is a Drum & Bass and Bass artist with 5 upcoming club dates listed on soundcheck as of Tue, 28 Jul 2026, next at 45 East, Portland on Fri, 31 Jul 2026.
+Hybrid Minds is a Drum & Bass and Garage artist with 5 upcoming club dates listed on soundcheck as of Wed, 29 Jul 2026, next at 45 East, Portland on Fri, 31 Jul 2026.
 
-Hybrid Minds is a drum & bass and bass artist tracked on soundcheck, with 109 sets logged across Amsterdam, Auckland, Austin and Birmingham and 31 more. Often billed alongside K Motionz, Tempza and Andy C. Next up: 45 East, Portland on Fri 31 Jul.
+Hybrid Minds is a drum & bass and garage artist tracked on soundcheck, with 109 sets logged across Amsterdam, Auckland, Austin and Birmingham and 31 more. Often billed alongside K Motionz, Tempza and Andy C. Next up: 45 East, Portland on Fri 31 Jul.
 
 ## Upcoming shows
 
@@ -29,4 +29,4 @@ Hybrid Minds is a drum & bass and bass artist tracked on soundcheck, with 109 se
 
 K Motionz, Tempza, Andy C
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/hybridminds/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/hybridminds/)*

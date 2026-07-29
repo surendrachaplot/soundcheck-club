@@ -1,6 +1,6 @@
 # Katayoun
 
-Katayoun is a Downtempo and Minimal artist with 1 upcoming club date listed on soundcheck as of Tue, 28 Jul 2026, next at Haus der Visionäre, Berlin on Fri, 11 Sept 2026.
+Katayoun is a Downtempo and Minimal artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at Haus der Visionäre, Berlin on Fri, 11 Sept 2026.
 
 Katayoun is a downtempo and minimal artist based in Netherlands, tracked on soundcheck, with 9 sets logged across Amsterdam, Berlin, Paris and Utrecht. Often billed alongside Noise Diva, 33EMYBW and ARN4L2. Next up: Haus der Visionäre, Berlin on Fri 11 Sept.
 
@@ -25,4 +25,4 @@ Katayoun is a downtempo and minimal artist based in Netherlands, tracked on soun
 
 Noise Diva, 33EMYBW, ARN4L2
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/katayoun/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/katayoun/)*

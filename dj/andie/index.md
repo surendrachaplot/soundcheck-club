@@ -1,6 +1,6 @@
 # Andie
 
-Andie is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Tue, 28 Jul 2026, next at Système, Montreal on Thu, 30 Jul 2026.
+Andie is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at Système, Montreal on Thu, 30 Jul 2026.
 
 Andie is a house and disco artist based in Canada, tracked on soundcheck, with 28 sets logged across Montreal and Tokyo. Often billed alongside BisouBizou, Ferias and Alina (MTL). Next up: Système, Montreal on Thu 30 Jul.
 
@@ -25,4 +25,4 @@ Andie is a house and disco artist based in Canada, tracked on soundcheck, with 2
 
 BisouBizou, Ferias, Alina (MTL)
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/andie/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/andie/)*

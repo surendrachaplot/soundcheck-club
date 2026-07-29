@@ -1,6 +1,6 @@
 # RHAPSODIE
 
-RHAPSODIE is a Techno and Psytrance artist with 3 upcoming club dates listed on soundcheck as of Tue, 28 Jul 2026, next at Village du Soir, Geneva on Fri, 31 Jul 2026.
+RHAPSODIE is a Techno and Psytrance artist with 3 upcoming club dates listed on soundcheck as of Wed, 29 Jul 2026, next at Village du Soir, Geneva on Fri, 31 Jul 2026.
 
 RHAPSODIE is a techno and psytrance artist tracked on soundcheck, with 21 sets logged across Amsterdam, Berlin and Geneva. Often billed alongside DJ Jordan, maniaclina and Charlotte Lion. Next up: Village du Soir, Geneva on Fri 31 Jul.
 
@@ -27,4 +27,4 @@ RHAPSODIE is a techno and psytrance artist tracked on soundcheck, with 21 sets l
 
 DJ Jordan, maniaclina, Charlotte Lion
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/rhapsodie/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/rhapsodie/)*

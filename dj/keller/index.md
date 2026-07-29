@@ -1,6 +1,6 @@
 # keller
 
-keller is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Tue, 28 Jul 2026, next at TBA - Rua Inácio Pereira da Rocha, 359 - Pinheiros, São Paulo - SP, 05432-011, Brazil, Sao Paulo on Sat, 1 Aug 2026.
+keller is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at TBA - Rua Inácio Pereira da Rocha, 359 - Pinheiros, São Paulo - SP, 05432-011, Brazil, Sao Paulo on Sat, 1 Aug 2026.
 
 keller is a techno and house artist based in Germany, tracked on soundcheck, with 52 sets logged across Berlin, Frankfurt, Hamburg and Leipzig and 3 more. Often billed alongside Andre Keller, Fabian Kaa and Anna Reusch. Next up: TBA - Rua Inácio Pereira da Rocha, 359 - Pinheiros, São Paulo - SP, 05432-011, Brazil, Saopaulo on Sat 1 Aug.
 
@@ -25,4 +25,4 @@ keller is a techno and house artist based in Germany, tracked on soundcheck, wit
 
 Andre Keller, Fabian Kaa, Anna Reusch
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/keller/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/keller/)*

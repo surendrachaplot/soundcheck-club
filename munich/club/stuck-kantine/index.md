@@ -1,6 +1,6 @@
 # Stuck Kantine
 
-Stuck Kantine is a music venue in Munich with 1 upcoming night listed on soundcheck as of Tue, 28 Jul 2026; the next is "Charlie Stuck Kantine - SCHOOLS OUT" on Thu, 30 Jul 2026.
+Stuck Kantine is a music venue in Munich with 1 upcoming night listed on soundcheck as of Wed, 29 Jul 2026; the next is "Charlie Stuck Kantine - SCHOOLS OUT" on Thu, 30 Jul 2026.
 
 Stuck Kantine is a music venue in Munich listed on soundcheck. 1 upcoming night, with line-ups including Benjamin Roeder and Bogus Trumper. Browse upcoming dates, start times and who's playing. Prinzregentenstr. 60, 81675 Munich.
 
@@ -14,4 +14,4 @@ Stuck Kantine is a music venue in Munich listed on soundcheck. 1 upcoming night,
 
 Prinzregentenstr. 60, 81675 Munich, Munich
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/munich/club/stuck-kantine/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/munich/club/stuck-kantine/)*

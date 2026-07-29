@@ -1,6 +1,6 @@
 # Dangermami
 
-Dangermami is a Bass and Breakbeat artist with 1 upcoming club date listed on soundcheck as of Tue, 28 Jul 2026, next at RSO.BERLIN, Berlin on Thu, 13 Aug 2026.
+Dangermami is a Bass and Breakbeat artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at RSO.BERLIN, Berlin on Thu, 13 Aug 2026.
 
 Dangermami is a bass and breakbeat artist tracked on soundcheck, with 87 sets logged across Amsterdam, Antwerp, Barcelona and Basel and 20 more. Often billed alongside MSJY, Marie Midori and DJ Fuckoff. Next up: RSO.BERLIN, Berlin on Thu 13 Aug.
 
@@ -25,4 +25,4 @@ Dangermami is a bass and breakbeat artist tracked on soundcheck, with 87 sets lo
 
 MSJY, Marie Midori, DJ Fuckoff
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/dangermami/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/dangermami/)*

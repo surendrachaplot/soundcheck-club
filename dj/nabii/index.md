@@ -1,6 +1,6 @@
 # nabii
 
-nabii is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Tue, 28 Jul 2026, next at TBA - INNER WEST, Sydney on Sat, 8 Aug 2026.
+nabii is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at TBA - INNER WEST, Sydney on Sat, 8 Aug 2026.
 
 nabii is a techno and trance artist tracked on soundcheck, with 39 sets logged across Brisbane, Melbourne and Sydney. Often billed alongside syrup-E, Chaotiic Good and Lost Memories. Next up: TBA - INNER WEST, Sydney on Sat 8 Aug.
 
@@ -25,4 +25,4 @@ nabii is a techno and trance artist tracked on soundcheck, with 39 sets logged a
 
 syrup-E, Chaotiic Good, Lost Memories
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/nabii/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/nabii/)*

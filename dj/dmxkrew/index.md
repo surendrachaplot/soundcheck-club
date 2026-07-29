@@ -1,6 +1,6 @@
 # DMX Krew
 
-DMX Krew is a Electro and House artist with 2 upcoming club dates listed on soundcheck as of Tue, 28 Jul 2026, next at Platforma Wolff, Bucharest on Fri, 28 Aug 2026.
+DMX Krew is a Electro and House artist with 2 upcoming club dates listed on soundcheck as of Wed, 29 Jul 2026, next at Platforma Wolff, Bucharest on Fri, 28 Aug 2026.
 
 DMX Krew is an electro and house artist tracked on soundcheck, with 91 sets logged across Amsterdam, Athens, Bali and Barcelona and 24 more. Often billed alongside Alien Communications, Andre King and DVDE. Next up: Platforma Wolff, Bucharest on Fri 28 Aug.
 
@@ -26,4 +26,4 @@ DMX Krew is an electro and house artist tracked on soundcheck, with 91 sets logg
 
 Alien Communications, Andre King, DVDE
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/dmxkrew/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/dmxkrew/)*

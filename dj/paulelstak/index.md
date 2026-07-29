@@ -1,6 +1,6 @@
 # Paul Elstak
 
-Paul Elstak is a Hardcore and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 28 Jul 2026, next at Electrisize, Düsseldorf on Fri, 7 Aug 2026.
+Paul Elstak is a Hardcore and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at Electrisize, Düsseldorf on Fri, 7 Aug 2026.
 
 Paul Elstak is a hardcore and techno artist based in Netherlands, tracked on soundcheck, with 22 sets logged across Amsterdam, Antwerp, Berlin and Cologne and 6 more. Often billed alongside Angerfist, Dual Damage and Brennan Heart. Next up: Electrisize, Dusseldorf on Fri 7 Aug.
 
@@ -25,4 +25,4 @@ Paul Elstak is a hardcore and techno artist based in Netherlands, tracked on sou
 
 Angerfist, Dual Damage, Brennan Heart
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/paulelstak/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/paulelstak/)*

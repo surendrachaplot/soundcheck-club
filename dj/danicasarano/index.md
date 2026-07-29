@@ -1,6 +1,6 @@
 # Dani Casarano
 
-Dani Casarano is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 28 Jul 2026, next at TBA, Mallorca on Sun, 2 Aug 2026.
+Dani Casarano is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at TBA, Mallorca on Sun, 2 Aug 2026.
 
 Dani Casarano is a house and techno artist tracked on soundcheck, with 28 sets logged across Amsterdam, Barcelona, Berlin and Boston and 6 more. Often billed alongside Felipe Valenzuela, Abscal and Momo Trosman. Next up: TBA, Mallorca on Sun 2 Aug.
 
@@ -25,4 +25,4 @@ Dani Casarano is a house and techno artist tracked on soundcheck, with 28 sets l
 
 Felipe Valenzuela, Abscal, Momo Trosman
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/danicasarano/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/danicasarano/)*

@@ -1,6 +1,6 @@
 # DJ BinBag
 
-DJ BinBag is a EBM and Hardcore artist with 1 upcoming club date listed on soundcheck as of Tue, 28 Jul 2026, next at Vauxhall Arches, London on Fri, 31 Jul 2026.
+DJ BinBag is a EBM and Hardcore artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at Vauxhall Arches, London on Fri, 31 Jul 2026.
 
 DJ BinBag is an ebm and hardcore artist based in United Kingdom, tracked on soundcheck, with 2 sets logged across London. Often billed alongside Amor Ante, Compulsive Leia and EVIL THWEK. Next up: Vauxhall Arches, London on Fri 31 Jul.
 
@@ -18,4 +18,4 @@ DJ BinBag is an ebm and hardcore artist based in United Kingdom, tracked on soun
 
 Amor Ante, Compulsive Leia, EVIL THWEK
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/djbinbag/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/djbinbag/)*

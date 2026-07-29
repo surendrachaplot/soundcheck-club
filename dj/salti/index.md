@@ -1,6 +1,6 @@
 # SALTI
 
-SALTI is a Dub and House artist with 1 upcoming club date listed on soundcheck as of Tue, 28 Jul 2026, next at Ikii, Berlin on Sat, 8 Aug 2026.
+SALTI is a Dub and House artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at Ikii, Berlin on Sat, 8 Aug 2026.
 
 SALTI is a dub and house artist based in Portugal, tracked on soundcheck, with 25 sets logged across Berlin and Lisbon. Often billed alongside Delikwe, DTM Funk and Margaux Gazur. Next up: Ikii, Berlin on Sat 8 Aug.
 
@@ -25,4 +25,4 @@ SALTI is a dub and house artist based in Portugal, tracked on soundcheck, with 2
 
 Delikwe, DTM Funk, Margaux Gazur
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/salti/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/salti/)*

@@ -1,6 +1,6 @@
 # dj unt.il
 
-dj unt.il is a Club and House artist with 2 upcoming club dates listed on soundcheck as of Tue, 28 Jul 2026, next at Jupiter Disco, New York City on Thu, 30 Jul 2026.
+dj unt.il is a Club and House artist with 2 upcoming club dates listed on soundcheck as of Wed, 29 Jul 2026, next at Jupiter Disco, New York City on Thu, 30 Jul 2026.
 
 dj unt.il is a club and house artist based in United States of America, tracked on soundcheck, with 19 sets logged across Newyorkcity and Washingtondc. Often billed alongside Tromac, Izzy Holmes and lady lavender. Next up: Jupiter Disco, Newyorkcity on Thu 30 Jul.
 
@@ -26,4 +26,4 @@ dj unt.il is a club and house artist based in United States of America, tracked 
 
 Tromac, Izzy Holmes, lady lavender
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/djunt-il/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/djunt-il/)*

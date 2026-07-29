@@ -1,6 +1,6 @@
 # ZE:NA
 
-ZE:NA is a Dub and Ambient artist with 1 upcoming club date listed on soundcheck as of Tue, 28 Jul 2026, next at TBA - Secret Location (near Frankfurter Allee), Berlin on Wed, 29 Jul 2026.
+ZE:NA is a Dub and Ambient artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at TBA - Secret Location (near Frankfurter Allee), Berlin on Wed, 29 Jul 2026.
 
 ZE:NA is a dub and ambient artist based in United Kingdom, tracked on soundcheck, with 28 sets logged across Amsterdam, Berlin and Hamburg. Often billed alongside Distal_, PJ Bridger and zunz. Next up: TBA - Secret Location (near Frankfurter Allee), Berlin on Wed 29 Jul.
 
@@ -25,4 +25,4 @@ ZE:NA is a dub and ambient artist based in United Kingdom, tracked on soundcheck
 
 Distal_, PJ Bridger, zunz
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/zena-de/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/zena-de/)*

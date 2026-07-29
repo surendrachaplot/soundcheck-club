@@ -1,6 +1,6 @@
 # Jiwoo Ahn
 
-Jiwoo Ahn is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 28 Jul 2026, next at UNDERCITY, Seoul on Fri, 31 Jul 2026.
+Jiwoo Ahn is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at UNDERCITY, Seoul on Fri, 31 Jul 2026.
 
 Jiwoo Ahn is a house and techno artist based in South Korea, tracked on soundcheck, with 10 sets logged across Seoul. Often billed alongside Gyusco, Youngseok and Airbear. Next up: UNDERCITY, Seoul on Fri 31 Jul.
 
@@ -25,4 +25,4 @@ Jiwoo Ahn is a house and techno artist based in South Korea, tracked on soundche
 
 Gyusco, Youngseok, Airbear
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/jiwooahn/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/jiwooahn/)*

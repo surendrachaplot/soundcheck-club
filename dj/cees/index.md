@@ -1,6 +1,6 @@
 # Cees
 
-Cees is a House and Afro House artist with 1 upcoming club date listed on soundcheck as of Tue, 28 Jul 2026, next at Museum Angewandte Kunst, Frankfurt on Sat, 1 Aug 2026.
+Cees is a House and Afro House artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at Museum Angewandte Kunst, Frankfurt on Sat, 1 Aug 2026.
 
 Cees is a house and afro house artist tracked on soundcheck, with 17 sets logged across Amsterdam, Basel, Berlin and Copenhagen and 3 more. Often billed alongside LevyM, David Mackay and SHANNIN. Next up: Museum Angewandte Kunst, Frankfurt on Sat 1 Aug.
 
@@ -25,4 +25,4 @@ Cees is a house and afro house artist tracked on soundcheck, with 17 sets logged
 
 LevyM, David Mackay, SHANNIN
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/cees/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/cees/)*

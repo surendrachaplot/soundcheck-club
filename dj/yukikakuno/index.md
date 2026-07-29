@@ -1,6 +1,6 @@
 # Yuki Kakuno
 
-Yuki Kakuno is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 28 Jul 2026, next at Red Bar, Tokyo on Sun, 2 Aug 2026.
+Yuki Kakuno is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at Red Bar, Tokyo on Sun, 2 Aug 2026.
 
 Yuki Kakuno is a house and techno artist tracked on soundcheck, with 20 sets logged across Tokyo. Often billed alongside Kengo, Satoshi Matsui and Kaory. Next up: Red Bar, Tokyo on Sun 2 Aug.
 
@@ -25,4 +25,4 @@ Yuki Kakuno is a house and techno artist tracked on soundcheck, with 20 sets log
 
 Kengo, Satoshi Matsui, Kaory
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/yukikakuno/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/yukikakuno/)*

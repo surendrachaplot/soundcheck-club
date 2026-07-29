@@ -1,6 +1,6 @@
 # Cone
 
-Cone is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Tue, 28 Jul 2026, next at Oven Club, Valencia on Thu, 6 Aug 2026.
+Cone is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at Oven Club, Valencia on Thu, 6 Aug 2026.
 
 Cone is a house and tech house artist based in Denmark, tracked on soundcheck, with 3 sets logged across Liverpool, London and Valencia. Often billed alongside Cadence (1), Danny Vito and Fredd Mann. Next up: Oven Club, Valencia on Thu 6 Aug.
 
@@ -19,4 +19,4 @@ Cone is a house and tech house artist based in Denmark, tracked on soundcheck, w
 
 Cadence (1), Danny Vito, Fredd Mann
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/cone/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/cone/)*

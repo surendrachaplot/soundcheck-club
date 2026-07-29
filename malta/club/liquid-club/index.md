@@ -1,8 +1,8 @@
 # Liquid Club
 
-Liquid Club is a music venue in Malta with 20 upcoming nights listed on soundcheck as of Tue, 28 Jul 2026; the next is "BARNYARD WEEK 9 [hosted by REVOLVER]" on Wed, 29 Jul 2026.
+Liquid Club is a music venue in Malta with 21 upcoming nights listed on soundcheck as of Wed, 29 Jul 2026; the next is "BARNYARD WEEK 9 [hosted by REVOLVER]" on Wed, 29 Jul 2026.
 
-Liquid Club is a music venue in Malta listed on soundcheck. 20 upcoming nights, with line-ups including A.Paul, Abdy, ALMOST HUMAN and Billy Hills and 2 more. Browse upcoming dates, start times and who's playing. Triq Hal-Gharghur, San Ġwann, Malta.
+Liquid Club is a music venue in Malta listed on soundcheck. 21 upcoming nights, with line-ups including A.Paul, Abdy, ALMOST HUMAN and Billy Hills and 2 more. Browse upcoming dates, start times and who's playing. Triq Hal-Gharghur, San Ġwann, Malta.
 
 ## What's on
 
@@ -23,4 +23,4 @@ Liquid Club is a music venue in Malta listed on soundcheck. 20 upcoming nights, 
 
 Triq Hal-Gharghur, San Ġwann, Malta, Malta
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/malta/club/liquid-club/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/malta/club/liquid-club/)*

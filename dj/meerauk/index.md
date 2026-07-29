@@ -1,6 +1,6 @@
 # MEERA (UK)
 
-MEERA (UK) is a House and Garage artist with 2 upcoming club dates listed on soundcheck as of Tue, 28 Jul 2026, next at fabric, London on Sat, 26 Sept 2026.
+MEERA (UK) is a House and Garage artist with 2 upcoming club dates listed on soundcheck as of Wed, 29 Jul 2026, next at fabric, London on Sat, 26 Sept 2026.
 
 MEERA (UK) is a house and garage artist based in United Kingdom, tracked on soundcheck, with 25 sets logged across Amsterdam and London. Often billed alongside Picep, Simon Alfred and Bradley Skeng. Next up: fabric, London on Sat 26 Sept.
 
@@ -26,4 +26,4 @@ MEERA (UK) is a house and garage artist based in United Kingdom, tracked on soun
 
 Picep, Simon Alfred, Bradley Skeng
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/meerauk/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/meerauk/)*

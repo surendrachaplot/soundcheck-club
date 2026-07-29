@@ -1,6 +1,6 @@
 # SWARMM
 
-SWARMM is a Experimental and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 28 Jul 2026, next at radial, London on Fri, 31 Jul 2026.
+SWARMM is a Experimental and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at radial, London on Fri, 31 Jul 2026.
 
 SWARMM is an experimental and techno artist based in United Kingdom, tracked on soundcheck, with 26 sets logged across Brussels, Lisbon, London and Tokyo. Often billed alongside Karolina Magnusson Murray, Ship Sket and Akiko Haruna. Next up: radial, London on Fri 31 Jul.
 
@@ -25,4 +25,4 @@ SWARMM is an experimental and techno artist based in United Kingdom, tracked on 
 
 Karolina Magnusson Murray, Ship Sket, Akiko Haruna
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/swarmm/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/swarmm/)*

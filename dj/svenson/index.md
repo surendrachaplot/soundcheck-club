@@ -1,6 +1,6 @@
 # Svensøn
 
-Svensøn is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Tue, 28 Jul 2026, next at Ritter Butzke, Berlin on Sat, 1 Aug 2026.
+Svensøn is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at Ritter Butzke, Berlin on Sat, 1 Aug 2026.
 
 Svensøn is a techno and house artist based in Germany, tracked on soundcheck, with 11 sets logged across Berlin, Cologne, Dusseldorf and Leipzig. Often billed alongside Marek Hemmann, Niconé and Bebetta. Next up: Ritter Butzke, Berlin on Sat 1 Aug.
 
@@ -25,4 +25,4 @@ Svensøn is a techno and house artist based in Germany, tracked on soundcheck, w
 
 Marek Hemmann, Niconé, Bebetta
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/svenson/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/svenson/)*

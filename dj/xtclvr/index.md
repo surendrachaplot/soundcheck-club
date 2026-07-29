@@ -1,6 +1,6 @@
 # XTCLVR
 
-XTCLVR is a Bass and Experimental artist with 1 upcoming club date listed on soundcheck as of Tue, 28 Jul 2026, next at TBA - Warschauer Pl. 18, 10245 Berlin, Berlin on Sat, 1 Aug 2026.
+XTCLVR is a Bass and Experimental artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at TBA - Warschauer Pl. 18, 10245 Berlin, Berlin on Sat, 1 Aug 2026.
 
 XTCLVR is a bass and experimental artist tracked on soundcheck, with 8 sets logged across Berlin. Often billed alongside Neue Medecina, èvia and Sariim. Next up: TBA - Warschauer Pl. 18, 10245 Berlin, Berlin on Sat 1 Aug.
 
@@ -24,4 +24,4 @@ XTCLVR is a bass and experimental artist tracked on soundcheck, with 8 sets logg
 
 Neue Medecina, èvia, Sariim
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/xtclvr/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/xtclvr/)*

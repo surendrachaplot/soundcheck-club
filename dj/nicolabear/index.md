@@ -1,6 +1,6 @@
 # Nicola Bear
 
-Nicola Bear is a House and Balearic artist with 1 upcoming club date listed on soundcheck as of Tue, 28 Jul 2026, next at Amber's, Manchester on Sat, 8 Aug 2026.
+Nicola Bear is a House and Balearic artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at Amber's, Manchester on Sat, 8 Aug 2026.
 
 Nicola Bear is a house and balearic artist tracked on soundcheck, with 11 sets logged across London and Manchester. Often billed alongside Aletha, Bakey and Bou (UK). Next up: Amber's, Manchester on Sat 8 Aug.
 
@@ -25,4 +25,4 @@ Nicola Bear is a house and balearic artist tracked on soundcheck, with 11 sets l
 
 Aletha, Bakey, Bou (UK)
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/nicolabear/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/nicolabear/)*

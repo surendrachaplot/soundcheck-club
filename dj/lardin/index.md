@@ -1,6 +1,6 @@
 # Lardin
 
-Lardin is a Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 28 Jul 2026, next at Garage 442, Barcelona on Fri, 31 Jul 2026.
+Lardin is a Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at Garage 442, Barcelona on Fri, 31 Jul 2026.
 
 Lardin is a techno artist based in Spain, tracked on soundcheck, with 6 sets logged across Barcelona. Often billed alongside Francisco B, VIKTOR DURDEN and Guillem Cotto. Next up: Garage 442, Barcelona on Fri 31 Jul.
 
@@ -22,4 +22,4 @@ Lardin is a techno artist based in Spain, tracked on soundcheck, with 6 sets log
 
 Francisco B, VIKTOR DURDEN, Guillem Cotto
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/lardin/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/lardin/)*

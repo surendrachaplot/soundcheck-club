@@ -1,6 +1,6 @@
 # 5harpy
 
-5harpy is a House and Dub artist with 2 upcoming club dates listed on soundcheck as of Tue, 28 Jul 2026, next at Aoyama Hachi, Tokyo on Fri, 31 Jul 2026.
+5harpy is a House and Dub artist with 2 upcoming club dates listed on soundcheck as of Wed, 29 Jul 2026, next at Aoyama Hachi, Tokyo on Fri, 31 Jul 2026.
 
 5harpy is a house and dub artist based in Japan, tracked on soundcheck, with 43 sets logged across Kyoto, Osaka and Tokyo. Often billed alongside bungo, jima and OG Militant B. Next up: Aoyama Hachi, Tokyo on Fri 31 Jul.
 
@@ -26,4 +26,4 @@
 
 bungo, jima, OG Militant B
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/5harpy/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/5harpy/)*

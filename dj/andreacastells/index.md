@@ -1,6 +1,6 @@
 # Andrea Castells
 
-Andrea Castells is a Techno and Deep House artist with 1 upcoming club date listed on soundcheck as of Tue, 28 Jul 2026, next at Ku Barcelona, Barcelona on Wed, 29 Jul 2026.
+Andrea Castells is a Techno and Deep House artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at Ku Barcelona, Barcelona on Wed, 29 Jul 2026.
 
 Andrea Castells is a techno and deep house artist tracked on soundcheck, with 59 sets logged across Barcelona, Berlin, Copenhagen and Frankfurt and 3 more. Often billed alongside Rivellino, K:ROL and Lea Corio. Next up: Ku Barcelona, Barcelona on Wed 29 Jul.
 
@@ -25,4 +25,4 @@ Andrea Castells is a techno and deep house artist tracked on soundcheck, with 59
 
 Rivellino, K:ROL, Lea Corio
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/andreacastells/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/andreacastells/)*

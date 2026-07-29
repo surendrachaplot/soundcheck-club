@@ -1,6 +1,6 @@
 # GVMEDNA
 
-GVMEDNA is a Techno artist with 2 upcoming club dates listed on soundcheck as of Tue, 28 Jul 2026, next at ://about blank, Berlin on Thu, 6 Aug 2026.
+GVMEDNA is a Techno artist with 2 upcoming club dates listed on soundcheck as of Wed, 29 Jul 2026, next at ://about blank, Berlin on Thu, 6 Aug 2026.
 
 GVMEDNA is a techno artist based in Germany, tracked on soundcheck, with 11 sets logged across Berlin. Often billed alongside DEN!SE, TAKT130 and BRT.C. Next up: ://about blank, Berlin on Thu 6 Aug.
 
@@ -26,4 +26,4 @@ GVMEDNA is a techno artist based in Germany, tracked on soundcheck, with 11 sets
 
 DEN!SE, TAKT130, BRT.C
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/gvmedna/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/gvmedna/)*

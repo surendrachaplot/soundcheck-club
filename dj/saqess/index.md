@@ -1,6 +1,6 @@
 # saqess
 
-saqess is a Bass and Garage artist with 1 upcoming club date listed on soundcheck as of Tue, 28 Jul 2026, next at Asagaya Drift, Tokyo on Sat, 8 Aug 2026.
+saqess is a Bass and Garage artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at Asagaya Drift, Tokyo on Sat, 8 Aug 2026.
 
 saqess is a bass and garage artist based in Japan, tracked on soundcheck, with 4 sets logged across Tokyo. Often billed alongside DUCK, Genick and HALU(Tribal Connection). Next up: Asagaya Drift, Tokyo on Sat 8 Aug.
 
@@ -20,4 +20,4 @@ saqess is a bass and garage artist based in Japan, tracked on soundcheck, with 4
 
 DUCK, Genick, HALU(Tribal Connection)
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/saqess/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/saqess/)*

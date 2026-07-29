@@ -1,6 +1,6 @@
 # Uta
 
-Uta is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Tue, 28 Jul 2026, next at OHM, Berlin on Thu, 13 Aug 2026.
+Uta is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at OHM, Berlin on Thu, 13 Aug 2026.
 
 Uta is a techno and house artist based in Germany, tracked on soundcheck, with 22 sets logged across Berlin, Prague and Tokyo. Often billed alongside DJ Normal 4, Deadbeat and EVE (1). Next up: OHM, Berlin on Thu 13 Aug.
 
@@ -25,4 +25,4 @@ Uta is a techno and house artist based in Germany, tracked on soundcheck, with 2
 
 DJ Normal 4, Deadbeat, EVE (1)
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/uta/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/uta/)*

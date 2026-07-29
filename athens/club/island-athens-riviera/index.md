@@ -1,6 +1,6 @@
 # Island Athens Riviera
 
-Island Athens Riviera is a music venue in Athens with 1 upcoming night listed on soundcheck as of Tue, 28 Jul 2026; the next is "VALERON" on Fri, 4 Sept 2026.
+Island Athens Riviera is a music venue in Athens with 1 upcoming night listed on soundcheck as of Wed, 29 Jul 2026; the next is "VALERON" on Fri, 4 Sept 2026.
 
 Island Athens Riviera is a music venue in Athens listed on soundcheck. 1 upcoming night. Browse upcoming dates, start times and who's playing. Leoforos Poseidonos, 16672 Várkiza, Attiki, Greece.
 
@@ -14,4 +14,4 @@ Island Athens Riviera is a music venue in Athens listed on soundcheck. 1 upcomin
 
 Leoforos Poseidonos, 16672 Várkiza, Attiki, Greece, Athens
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/athens/club/island-athens-riviera/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/athens/club/island-athens-riviera/)*

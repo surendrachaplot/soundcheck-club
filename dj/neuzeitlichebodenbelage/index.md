@@ -1,6 +1,6 @@
 # Neuzeitliche Bodenbeläge
 
-Neuzeitliche Bodenbeläge is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Tue, 28 Jul 2026, next at TBA - Klingemühle, Berlin on Fri, 14 Aug 2026.
+Neuzeitliche Bodenbeläge is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at TBA - Klingemühle, Berlin on Fri, 14 Aug 2026.
 
 Neuzeitliche Bodenbeläge is a techno and trance artist based in Germany, tracked on soundcheck, with 14 sets logged across Berlin, Cologne, Dusseldorf and Leipzig and 1 more. Often billed alongside Niklas Wandt, Jamira Estrada and Miss Take. Next up: TBA - Klingemühle, Berlin on Fri 14 Aug.
 
@@ -25,4 +25,4 @@ Neuzeitliche Bodenbeläge is a techno and trance artist based in Germany, tracke
 
 Niklas Wandt, Jamira Estrada, Miss Take
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/neuzeitlichebodenbelage/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/neuzeitlichebodenbelage/)*

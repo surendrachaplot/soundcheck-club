@@ -1,6 +1,6 @@
 # BRIIZV
 
-BRIIZV is a Club and Reggaeton artist with 1 upcoming club date listed on soundcheck as of Tue, 28 Jul 2026, next at F8 1192 Folsom, San Francisco/Oakland on Fri, 31 Jul 2026.
+BRIIZV is a Club and Reggaeton artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at F8 1192 Folsom, San Francisco/Oakland on Fri, 31 Jul 2026.
 
 BRIIZV is a club and reggaeton artist based in United States of America, tracked on soundcheck, with 18 sets logged across Losangeles and Sanfrancisco. Often billed alongside Profesito, Brown Amy and Blu Moon. Next up: F8 1192 Folsom, Sanfrancisco on Fri 31 Jul.
 
@@ -25,4 +25,4 @@ BRIIZV is a club and reggaeton artist based in United States of America, tracked
 
 Profesito, Brown Amy, Blu Moon
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/briizv/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/briizv/)*

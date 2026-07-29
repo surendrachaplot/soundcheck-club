@@ -1,6 +1,6 @@
 # Meth Math
 
-Meth Math is a Reggaeton and Experimental artist with 1 upcoming club date listed on soundcheck as of Tue, 28 Jul 2026, next at YuYu Cine Club, Mexico City on Thu, 6 Aug 2026.
+Meth Math is a Reggaeton and Experimental artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at YuYu Cine Club, Mexico City on Thu, 6 Aug 2026.
 
 Meth Math is a reggaeton and experimental artist tracked on soundcheck, with 59 sets logged across Amsterdam, Barcelona, Brussels and Buenosaires and 18 more. Often billed alongside Dinamarca, Dj Fucci and TAYHANA. Next up: YuYu Cine Club, Mexicocity on Thu 6 Aug.
 
@@ -25,4 +25,4 @@ Meth Math is a reggaeton and experimental artist tracked on soundcheck, with 59 
 
 Dinamarca, Dj Fucci, TAYHANA
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/methmath/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/methmath/)*

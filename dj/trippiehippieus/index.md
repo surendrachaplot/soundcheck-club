@@ -1,6 +1,6 @@
 # Trippie Hippie (US)
 
-Trippie Hippie (US) is a Reggaeton and Neo Perreo artist with 2 upcoming club dates listed on soundcheck as of Tue, 28 Jul 2026, next at Supernatural Haus, Miami on Thu, 30 Jul 2026.
+Trippie Hippie (US) is a Reggaeton and Neo Perreo artist with 2 upcoming club dates listed on soundcheck as of Wed, 29 Jul 2026, next at Supernatural Haus, Miami on Thu, 30 Jul 2026.
 
 Trippie Hippie (US) is a reggaeton and neo perreo artist based in United States of America, tracked on soundcheck, with 14 sets logged across Miami. Often billed alongside DJ SABI, HAZÓN and Violeta. Next up: Supernatural Haus, Miami on Thu 30 Jul.
 
@@ -26,4 +26,4 @@ Trippie Hippie (US) is a reggaeton and neo perreo artist based in United States 
 
 DJ SABI, HAZÓN, Violeta
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/trippiehippieus/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/trippiehippieus/)*

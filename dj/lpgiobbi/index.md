@@ -1,13 +1,14 @@
 # LP Giobbi
 
-LP Giobbi is a House and Tech House artist with 3 upcoming club dates listed on soundcheck as of Tue, 28 Jul 2026, next at Parc del Fòrum, Barcelona on Fri, 7 Aug 2026.
+LP Giobbi is a House and Tech House artist with 4 upcoming club dates listed on soundcheck as of Wed, 29 Jul 2026, next at Cova Santa, Ibiza on Thu, 30 Jul 2026.
 
-LP Giobbi is a house and tech house artist tracked on soundcheck, with 161 sets logged across Amsterdam, Athens, Auckland and Austin and 42 more. Often billed alongside DJ Tennis, AMÉMÉ and Purple Disco Machine. Next up: Parc del Fòrum, Barcelona on Fri 7 Aug.
+LP Giobbi is a house and tech house artist tracked on soundcheck, with 162 sets logged across Amsterdam, Athens, Auckland and Austin and 42 more. Often billed alongside DJ Tennis, AMÉMÉ and Purple Disco Machine. Next up: Cova Santa, Ibiza on Thu 30 Jul.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Thu, 30 Jul 2026 | Cova Santa | Ibiza |
 | Fri, 7 Aug 2026 | Parc del Fòrum | Barcelona |
 | Sat, 15 Aug 2026 | Akasha Las Dalias Club - Ibiza | Ibiza |
 | Sat, 3 Oct 2026 | Santa Monica Pier | Los Angeles |
@@ -27,4 +28,4 @@ LP Giobbi is a house and tech house artist tracked on soundcheck, with 161 sets 
 
 DJ Tennis, AMÉMÉ, Purple Disco Machine
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/lpgiobbi/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/lpgiobbi/)*

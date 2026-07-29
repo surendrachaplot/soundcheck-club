@@ -1,6 +1,6 @@
 # MARK MILA
 
-MARK MILA is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Tue, 28 Jul 2026, next at Enter Shibuya, Tokyo on Sat, 1 Aug 2026.
+MARK MILA is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at Enter Shibuya, Tokyo on Sat, 1 Aug 2026.
 
 MARK MILA is a techno and house artist based in Australia, tracked on soundcheck, with 37 sets logged across Tokyo. Often billed alongside VALENCIAGA, CLESENT and Daitto. Next up: Enter Shibuya, Tokyo on Sat 1 Aug.
 
@@ -25,4 +25,4 @@ MARK MILA is a techno and house artist based in Australia, tracked on soundcheck
 
 VALENCIAGA, CLESENT, Daitto
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/markmila/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/markmila/)*

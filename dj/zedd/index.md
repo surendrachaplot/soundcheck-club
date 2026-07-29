@@ -1,6 +1,6 @@
 # Zedd
 
-Zedd is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 28 Jul 2026, next at TBA - Hollywood Park adjacent to SoFi Stadium, Los Angeles on Sat, 1 Aug 2026.
+Zedd is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at TBA - Hollywood Park adjacent to SoFi Stadium, Los Angeles on Sat, 1 Aug 2026.
 
 Zedd is a house and techno artist tracked on soundcheck, with 27 sets logged across Bali, Bangkok, Berlin and Buenosaires and 12 more. Often billed alongside Dom Dolla, Galantis and SOFI TUKKER. Next up: TBA - Hollywood Park adjacent to SoFi Stadium, Losangeles on Sat 1 Aug.
 
@@ -25,4 +25,4 @@ Zedd is a house and techno artist tracked on soundcheck, with 27 sets logged acr
 
 Dom Dolla, Galantis, SOFI TUKKER
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/zedd/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/zedd/)*

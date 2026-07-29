@@ -1,6 +1,6 @@
 # nicky brown snout
 
-nicky brown snout is a House and Bass artist with 1 upcoming club date listed on soundcheck as of Tue, 28 Jul 2026, next at Two Tribes CAMPFIRE, London on Fri, 21 Aug 2026.
+nicky brown snout is a House and Bass artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at Two Tribes CAMPFIRE, London on Fri, 21 Aug 2026.
 
 nicky brown snout is a house and bass artist tracked on soundcheck, with 16 sets logged across London. Often billed alongside Binary Operator, Basement Maxx and Nicky B. Next up: Two Tribes CAMPFIRE, London on Fri 21 Aug.
 
@@ -25,4 +25,4 @@ nicky brown snout is a house and bass artist tracked on soundcheck, with 16 sets
 
 Binary Operator, Basement Maxx, Nicky B
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/nickybrownsnout/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/nickybrownsnout/)*

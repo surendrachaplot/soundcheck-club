@@ -1,6 +1,6 @@
 # MarcelDune
 
-MarcelDune is a Techno and House artist with 4 upcoming club dates listed on soundcheck as of Tue, 28 Jul 2026, next at Phonox, London on Sat, 1 Aug 2026.
+MarcelDune is a Techno and House artist with 4 upcoming club dates listed on soundcheck as of Wed, 29 Jul 2026, next at Phonox, London on Sat, 1 Aug 2026.
 
 MarcelDune is a techno and house artist tracked on soundcheck, with 61 sets logged across Amsterdam, Athens, Berlin and Brighton and 11 more. Often billed alongside Amphia, ASHTREY and Gloria Rose. Next up: Phonox, London on Sat 1 Aug.
 
@@ -28,4 +28,4 @@ MarcelDune is a techno and house artist tracked on soundcheck, with 61 sets logg
 
 Amphia, ASHTREY, Gloria Rose
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/marceldune/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/marceldune/)*

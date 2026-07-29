@@ -1,6 +1,6 @@
 # Dorian Electra
 
-Dorian Electra is a Pop and Experimental artist with 1 upcoming club date listed on soundcheck as of Tue, 28 Jul 2026, next at Petit CAB, Marseille on Fri, 31 Jul 2026.
+Dorian Electra is a Pop and Experimental artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at Petit CAB, Marseille on Fri, 31 Jul 2026.
 
 Dorian Electra is a pop and experimental artist based in Czech Republic, tracked on soundcheck, with 32 sets logged across Barcelona, Berlin, Brussels and Chicago and 17 more. Often billed alongside Count Baldor, Frost Children and COUCOU CHLOE. Next up: Petit CAB, Marseille on Fri 31 Jul.
 
@@ -25,4 +25,4 @@ Dorian Electra is a pop and experimental artist based in Czech Republic, tracked
 
 Count Baldor, Frost Children, COUCOU CHLOE
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/dorianelectra/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/dorianelectra/)*

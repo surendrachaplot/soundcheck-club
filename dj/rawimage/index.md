@@ -1,6 +1,6 @@
 # Raw Image
 
-Raw Image is a Techno artist with 2 upcoming club dates listed on soundcheck as of Tue, 28 Jul 2026, next at Lokschuppen Berlin, Berlin on Tue, 4 Aug 2026.
+Raw Image is a Techno artist with 2 upcoming club dates listed on soundcheck as of Wed, 29 Jul 2026, next at Lokschuppen Berlin, Berlin on Tue, 4 Aug 2026.
 
 Raw Image is a techno artist based in Germany, tracked on soundcheck, with 3 sets logged across Berlin. Often billed alongside CSL, Fac3less and LEIA (2). Next up: Lokschuppen Berlin, Berlin on Tue 4 Aug.
 
@@ -19,4 +19,4 @@ Raw Image is a techno artist based in Germany, tracked on soundcheck, with 3 set
 
 CSL, Fac3less, LEIA (2)
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/rawimage/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/rawimage/)*

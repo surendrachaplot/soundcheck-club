@@ -1,6 +1,6 @@
 # Justin Cudmore
 
-Justin Cudmore is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 28 Jul 2026, next at BASEMENT, New York City on Sat, 1 Aug 2026.
+Justin Cudmore is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at BASEMENT, New York City on Sat, 1 Aug 2026.
 
 Justin Cudmore is a house and techno artist based in United States of America, tracked on soundcheck, with 100 sets logged across Amsterdam, Berlin, Chicago and Detroit and 6 more. Often billed alongside Mike Servito, Lauren Flax and JADALAREIGN. Next up: BASEMENT, Newyorkcity on Sat 1 Aug.
 
@@ -25,4 +25,4 @@ Justin Cudmore is a house and techno artist based in United States of America, t
 
 Mike Servito, Lauren Flax, JADALAREIGN
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/justincudmore/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/justincudmore/)*

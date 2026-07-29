@@ -1,6 +1,6 @@
 # Dan Shake
 
-Dan Shake is a House and Disco artist with 11 upcoming club dates listed on soundcheck as of Tue, 28 Jul 2026, next at Burgess Park, London on Sun, 2 Aug 2026.
+Dan Shake is a House and Disco artist with 11 upcoming club dates listed on soundcheck as of Wed, 29 Jul 2026, next at Burgess Park, London on Sun, 2 Aug 2026.
 
 Dan Shake is a house and disco artist tracked on soundcheck, with 185 sets logged across Amsterdam, Antwerp, Bali and Bangkok and 44 more. Often billed alongside Eliza Rose, Eats Everything and MiNNA. Next up: Burgess Park, London on Sun 2 Aug.
 
@@ -35,4 +35,4 @@ Dan Shake is a house and disco artist tracked on soundcheck, with 185 sets logge
 
 Eliza Rose, Eats Everything, MiNNA
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/danshake/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/danshake/)*

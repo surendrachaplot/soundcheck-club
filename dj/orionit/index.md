@@ -1,6 +1,6 @@
 # ORION (IT)
 
-ORION (IT) is a Techno and Deep House artist with 1 upcoming club date listed on soundcheck as of Tue, 28 Jul 2026, next at OHM, Berlin on Fri, 7 Aug 2026.
+ORION (IT) is a Techno and Deep House artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at OHM, Berlin on Fri, 7 Aug 2026.
 
 ORION (IT) is a techno and deep house artist based in Italy, tracked on soundcheck, with 26 sets logged across Amsterdam, Berlin, Brussels and Leipzig and 5 more. Often billed alongside ATEQ, Ben Kaczor and Hame (1). Next up: OHM, Berlin on Fri 7 Aug.
 
@@ -25,4 +25,4 @@ ORION (IT) is a techno and deep house artist based in Italy, tracked on soundche
 
 ATEQ, Ben Kaczor, Hame (1)
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/orionit/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/orionit/)*

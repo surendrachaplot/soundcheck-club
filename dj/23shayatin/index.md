@@ -1,6 +1,6 @@
 # 23Shayatin
 
-23Shayatin is a Hardcore and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 28 Jul 2026, next at Chinastraat, Ghent on Sat, 1 Aug 2026.
+23Shayatin is a Hardcore and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at Chinastraat, Ghent on Sat, 1 Aug 2026.
 
 23Shayatin is a hardcore and techno artist based in Belgium, tracked on soundcheck, with 14 sets logged across Antwerp, Brussels and Ghent. Often billed alongside Kalki, Gorebehead and JAEL. Next up: Chinastraat, Ghent on Sat 1 Aug.
 
@@ -25,4 +25,4 @@
 
 Kalki, Gorebehead, JAEL
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/23shayatin/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/23shayatin/)*

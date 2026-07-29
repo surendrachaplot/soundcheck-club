@@ -1,6 +1,6 @@
 # SEN10ZA
 
-SEN10ZA is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Tue, 28 Jul 2026, next at Dear Breakfast, Lisbon on Sat, 1 Aug 2026.
+SEN10ZA is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at Dear Breakfast, Lisbon on Sat, 1 Aug 2026.
 
 SEN10ZA is a house and disco artist based in France, tracked on soundcheck, with 5 sets logged across Hongkong, Lisbon and Lyon. Often billed alongside Cora M., Di Linh and Saint Bernard. Next up: Dear Breakfast, Lisbon on Sat 1 Aug.
 
@@ -21,4 +21,4 @@ SEN10ZA is a house and disco artist based in France, tracked on soundcheck, with
 
 Cora M., Di Linh, Saint Bernard
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/sen10za/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/sen10za/)*

@@ -1,6 +1,6 @@
 # Giouann
 
-Giouann is a Dancehall and Dub artist with 1 upcoming club date listed on soundcheck as of Tue, 28 Jul 2026, next at Plattenvereinigung, Berlin on Sun, 16 Aug 2026.
+Giouann is a Dancehall and Dub artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at Plattenvereinigung, Berlin on Sun, 16 Aug 2026.
 
 Giouann is a dancehall and dub artist based in Italy, tracked on soundcheck, with 31 sets logged across Berlin, Milan and Warsaw. Often billed alongside Carl Luis, Arthur (DE) and Tropic Disco Sound System. Next up: Plattenvereinigung, Berlin on Sun 16 Aug.
 
@@ -25,4 +25,4 @@ Giouann is a dancehall and dub artist based in Italy, tracked on soundcheck, wit
 
 Carl Luis, Arthur (DE), Tropic Disco Sound System
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/giouann/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/giouann/)*

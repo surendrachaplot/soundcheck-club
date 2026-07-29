@@ -1,6 +1,6 @@
 # 36birds
 
-36birds is a Techno and Bass artist with 1 upcoming club date listed on soundcheck as of Tue, 28 Jul 2026, next at Gessnerallee, Zurich on Fri, 2 Oct 2026.
+36birds is a Techno and Bass artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at Gessnerallee, Zurich on Fri, 2 Oct 2026.
 
 36birds is a techno and bass artist based in Switzerland, tracked on soundcheck, with 20 sets logged across Basel, Geneva and Zurich. Often billed alongside Luka (CH), Adolpho & Franky and KYLIE. Next up: Gessnerallee, Zurich on Fri 2 Oct.
 
@@ -25,4 +25,4 @@
 
 Luka (CH), Adolpho & Franky, KYLIE
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/36birds/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/36birds/)*

@@ -1,6 +1,6 @@
 # Cabizbajo
 
-Cabizbajo is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Tue, 28 Jul 2026, next at Kater, Berlin on Sat, 1 Aug 2026.
+Cabizbajo is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at Kater, Berlin on Sat, 1 Aug 2026.
 
 Cabizbajo is a techno and house artist tracked on soundcheck, with 50 sets logged across Berlin, Ibiza, Losangeles and Mexicocity and 3 more. Often billed alongside Andre VII, Colossio and Zombies In Miami. Next up: Kater, Berlin on Sat 1 Aug.
 
@@ -25,4 +25,4 @@ Cabizbajo is a techno and house artist tracked on soundcheck, with 50 sets logge
 
 Andre VII, Colossio, Zombies In Miami
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/cabizbajo/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/cabizbajo/)*

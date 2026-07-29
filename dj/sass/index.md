@@ -1,6 +1,6 @@
 # Sass
 
-Sass is a Techno and Electronica artist with 1 upcoming club date listed on soundcheck as of Tue, 28 Jul 2026, next at Amsterdamse Bos, Amsterdam on Wed, 29 Jul 2026.
+Sass is a Techno and Electronica artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at Amsterdamse Bos, Amsterdam on Wed, 29 Jul 2026.
 
 Sass is a techno and electronica artist based in Germany, tracked on soundcheck, with 5 sets logged across Amsterdam, Oslo, Tallinn and Vancouver. Often billed alongside Christian AB, A Guy Called Gerald and AMORAL. Next up: Amsterdamse Bos, Amsterdam on Wed 29 Jul.
 
@@ -21,4 +21,4 @@ Sass is a techno and electronica artist based in Germany, tracked on soundcheck,
 
 Christian AB, A Guy Called Gerald, AMORAL
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/sass/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/sass/)*

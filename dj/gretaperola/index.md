@@ -1,6 +1,6 @@
 # Greta Perola
 
-Greta Perola is a House artist with 1 upcoming club date listed on soundcheck as of Tue, 28 Jul 2026, next at Südbrücke, Cologne on Sat, 15 Aug 2026.
+Greta Perola is a House artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at Südbrücke, Cologne on Sat, 15 Aug 2026.
 
 Greta Perola is a house artist based in Germany, tracked on soundcheck, with 2 sets logged across Cologne. Often billed alongside Annemalie, EMILIJA and Felix Monreal. Next up: Südbrücke, Cologne on Sat 15 Aug.
 
@@ -18,4 +18,4 @@ Greta Perola is a house artist based in Germany, tracked on soundcheck, with 2 s
 
 Annemalie, EMILIJA, Felix Monreal
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/gretaperola/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/gretaperola/)*

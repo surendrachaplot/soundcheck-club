@@ -1,6 +1,6 @@
 # ÆDEN
 
-ÆDEN is a music venue in Berlin with 27 upcoming nights listed on soundcheck as of Tue, 28 Jul 2026; the next is "Lilith" on Wed, 29 Jul 2026.
+ÆDEN is a music venue in Berlin with 27 upcoming nights listed on soundcheck as of Wed, 29 Jul 2026; the next is "ＬＩＬＩＴＨ: FULL MOON" on Wed, 29 Jul 2026.
 
 ÆDEN is a music venue in Berlin listed on soundcheck. 27 upcoming nights, with line-ups including 7CIRCLE, KIV., Acierate and Alexa Fluor and 2 more. Browse upcoming dates, start times and who's playing. Schleusenufer 2, 10997 Berlin.
 
@@ -8,7 +8,7 @@
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Wed, 29 Jul 2026 | Lilith |  |
+| Wed, 29 Jul 2026 | ＬＩＬＩＴＨ: FULL MOON |  |
 | Thu, 30 Jul 2026 | OBXENE  | Alex Pastore, Azkonar, D3VAN, F DRAXIS, La Rod's, OSKAR., UNT3N |
 | Fri, 31 Jul 2026 | ♢ GROOVE STREET ♢ | Ancient Alien, Bélavie, CLEO, Cleo (AU), DJ BOTOX, Dollushka, JUICY (DE), KIKE Friday, Kike, LENZI, Lisatrix, MANNIO, Najka, Niklas Delhey, Roots (ES), Roots., Violetta (1), juicy, krawallin, mae.ly, somnus |
 | Sat, 1 Aug 2026 | silikon w/ ALIS. • ELOISA • GIANNI • NASTYA NVRSLP • YENKOV  | ALIS., Alexa Fluor, DJ Gianni, ELOISA, Melanchromie, NASTYA NVRSLP, Razzle Dazzler, YENKOV |
@@ -23,4 +23,4 @@
 
 Schleusenufer 2, 10997 Berlin, Berlin
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/den/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/den/)*

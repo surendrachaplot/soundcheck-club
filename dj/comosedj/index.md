@@ -1,6 +1,6 @@
 # como se DJ
 
-como se DJ is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Tue, 28 Jul 2026, next at Biltmore Cabaret, Vancouver on Sun, 2 Aug 2026.
+como se DJ is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at Biltmore Cabaret, Vancouver on Sun, 2 Aug 2026.
 
 como se DJ is a techno and house artist based in United States of America, tracked on soundcheck, with 41 sets logged across Montreal, Newyorkcity, Portland and Toronto and 1 more. Often billed alongside DJ DEADNAME, Eugenia and Matas. Next up: Biltmore Cabaret, Vancouver on Sun 2 Aug.
 
@@ -25,4 +25,4 @@ como se DJ is a techno and house artist based in United States of America, track
 
 DJ DEADNAME, Eugenia, Matas
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/comosedj/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/comosedj/)*

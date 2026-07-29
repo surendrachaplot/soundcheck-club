@@ -1,6 +1,6 @@
 # Hard Boiled Babe
 
-Hard Boiled Babe is a House and Club artist with 1 upcoming club date listed on soundcheck as of Tue, 28 Jul 2026, next at Jupiter Disco, New York City on Sun, 16 Aug 2026.
+Hard Boiled Babe is a House and Club artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at Jupiter Disco, New York City on Sun, 16 Aug 2026.
 
 Hard Boiled Babe is a house and club artist based in United States of America, tracked on soundcheck, with 8 sets logged across Newyorkcity. Often billed alongside Nina Moss, Veeps and Amber Valentine. Next up: Jupiter Disco, Newyorkcity on Sun 16 Aug.
 
@@ -24,4 +24,4 @@ Hard Boiled Babe is a house and club artist based in United States of America, t
 
 Nina Moss, Veeps, Amber Valentine
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/hardboiledbabe/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/hardboiledbabe/)*

@@ -1,13 +1,14 @@
 # Thomas Stieler
 
-Thomas Stieler is a House and Minimal artist with 2 upcoming club dates listed on soundcheck as of Tue, 28 Jul 2026, next at Turbina, Budapest on Fri, 7 Aug 2026.
+Thomas Stieler is a House and Minimal artist with 3 upcoming club dates listed on soundcheck as of Wed, 29 Jul 2026, next at Pimpernel, Munich on Mon, 3 Aug 2026.
 
-Thomas Stieler is a house and minimal artist tracked on soundcheck, with 215 sets logged across Berlin, Budapest, Cologne and Frankfurt and 5 more. Often billed alongside Submod, Elli Altenberger and Phil2. Next up: Turbina, Budapest on Fri 7 Aug.
+Thomas Stieler is a house and minimal artist tracked on soundcheck, with 216 sets logged across Berlin, Budapest, Cologne and Frankfurt and 5 more. Often billed alongside Submod, Elli Altenberger and Phil2. Next up: Pimpernel, Munich on Mon 3 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Mon, 3 Aug 2026 | Pimpernel | Munich |
 | Fri, 7 Aug 2026 | Turbina | Budapest |
 | Sat, 8 Aug 2026 | SASS Music Club | Vienna |
 
@@ -26,4 +27,4 @@ Thomas Stieler is a house and minimal artist tracked on soundcheck, with 215 set
 
 Submod, Elli Altenberger, Phil2
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/thomasstieler/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/thomasstieler/)*

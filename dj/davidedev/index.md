@@ -1,6 +1,6 @@
 # Davide Dev
 
-Davide Dev is a Disco and House artist with 1 upcoming club date listed on soundcheck as of Tue, 28 Jul 2026, next at Bar15, Stockholm on Sat, 10 Oct 2026.
+Davide Dev is a Disco and House artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at Bar15, Stockholm on Sat, 10 Oct 2026.
 
 Davide Dev is a disco and house artist based in Italy, tracked on soundcheck, with 16 sets logged across Barcelona, Berlin, Milan and Rome and 1 more. Often billed alongside Kapote, Barbara Boeing and Sam Ruffillo. Next up: Bar15, Stockholm on Sat 10 Oct.
 
@@ -25,4 +25,4 @@ Davide Dev is a disco and house artist based in Italy, tracked on soundcheck, wi
 
 Kapote, Barbara Boeing, Sam Ruffillo
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/davidedev/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/davidedev/)*

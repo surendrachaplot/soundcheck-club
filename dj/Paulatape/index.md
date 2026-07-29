@@ -1,6 +1,6 @@
 # Paula Tape
 
-Paula Tape is a House and Techno artist with 4 upcoming club dates listed on soundcheck as of Tue, 28 Jul 2026, next at TBA - Villa di Fiorano - Via di Fioranello 18, Rome on Sun, 2 Aug 2026.
+Paula Tape is a House and Techno artist with 4 upcoming club dates listed on soundcheck as of Wed, 29 Jul 2026, next at TBA - Villa di Fiorano - Via di Fioranello 18, Rome on Sun, 2 Aug 2026.
 
 Paula Tape is a house and techno artist tracked on soundcheck, with 153 sets logged across Amsterdam, Bali, Bangkok and Barcelona and 47 more. Often billed alongside Avalon Emerson, Bonobo and Bradley Zero. Next up: TBA - Villa di Fiorano - Via di Fioranello 18, Rome on Sun 2 Aug.
 
@@ -28,4 +28,4 @@ Paula Tape is a house and techno artist tracked on soundcheck, with 153 sets log
 
 Avalon Emerson, Bonobo, Bradley Zero
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/Paulatape/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/Paulatape/)*

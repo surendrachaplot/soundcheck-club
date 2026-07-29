@@ -1,6 +1,6 @@
 # Mad Rey
 
-Mad Rey is a House and Electro artist with 1 upcoming club date listed on soundcheck as of Tue, 28 Jul 2026, next at La Cité Fertile, Paris on Fri, 31 Jul 2026.
+Mad Rey is a House and Electro artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at La Cité Fertile, Paris on Fri, 31 Jul 2026.
 
 Mad Rey is a house and electro artist tracked on soundcheck, with 55 sets logged across Berlin, Geneva, Lisbon and London and 3 more. Often billed alongside Mézigue, GGGG and Flabaire. Next up: La Cité Fertile, Paris on Fri 31 Jul.
 
@@ -25,4 +25,4 @@ Mad Rey is a house and electro artist tracked on soundcheck, with 55 sets logged
 
 Mézigue, GGGG, Flabaire
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/madrey/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/madrey/)*

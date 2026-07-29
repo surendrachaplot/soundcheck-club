@@ -1,6 +1,6 @@
 # Carla Löffler
 
-Carla Löffler is a electronic artist with 1 upcoming club date listed on soundcheck as of Tue, 28 Jul 2026, next at Macarena Club, Barcelona on Wed, 29 Jul 2026.
+Carla Löffler is a electronic artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at Macarena Club, Barcelona on Wed, 29 Jul 2026.
 
 Carla Löffler is an electronic artist based in Germany, tracked on soundcheck, with 14 sets logged across Barcelona. Often billed alongside Reezar, A.Fruit and CHRIS RAZZ. Next up: Macarena Club, Barcelona on Wed 29 Jul.
 
@@ -25,4 +25,4 @@ Carla Löffler is an electronic artist based in Germany, tracked on soundcheck, 
 
 Reezar, A.Fruit, CHRIS RAZZ
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/carlaloffler/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/carlaloffler/)*

@@ -1,6 +1,6 @@
 # ALY
 
-ALY is a Trance and Progressive House artist with 1 upcoming club date listed on soundcheck as of Tue, 28 Jul 2026, next at Le Red Room, Montreal on Wed, 29 Jul 2026.
+ALY is a Trance and Progressive House artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at Le Red Room, Montreal on Wed, 29 Jul 2026.
 
 ALY is a trance and progressive house artist based in Israel, tracked on soundcheck, with 2 sets logged across Malta and Montreal. Often billed alongside Agnelli & Nelson, Amy Wiles and Andy Moor. Next up: Le Red Room, Montreal on Wed 29 Jul.
 
@@ -18,4 +18,4 @@ ALY is a trance and progressive house artist based in Israel, tracked on soundch
 
 Agnelli & Nelson, Amy Wiles, Andy Moor
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/aly/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/aly/)*

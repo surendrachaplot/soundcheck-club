@@ -1,6 +1,6 @@
 # Casnova
 
-Casnova is a Garage and House artist with 1 upcoming club date listed on soundcheck as of Tue, 28 Jul 2026, next at Red Arch, Manchester on Sat, 1 Aug 2026.
+Casnova is a Garage and House artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at Red Arch, Manchester on Sat, 1 Aug 2026.
 
 Casnova is a garage and house artist tracked on soundcheck, with 33 sets logged across Belfast, Bristol, London and Manchester. Often billed alongside p-rallel, Laelo Black and Tommy Gold. Next up: Red Arch, Manchester on Sat 1 Aug.
 
@@ -25,4 +25,4 @@ Casnova is a garage and house artist tracked on soundcheck, with 33 sets logged 
 
 p-rallel, Laelo Black, Tommy Gold
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/casnova/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/casnova/)*

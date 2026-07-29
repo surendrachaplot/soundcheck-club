@@ -1,6 +1,6 @@
 # Pianeti Sintetici
 
-Pianeti Sintetici is a Techno and Experimental artist with 1 upcoming club date listed on soundcheck as of Tue, 28 Jul 2026, next at TBA, San Francisco/Oakland on Fri, 18 Sept 2026.
+Pianeti Sintetici is a Techno and Experimental artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at TBA, San Francisco/Oakland on Fri, 18 Sept 2026.
 
 Pianeti Sintetici is a techno and experimental artist based in Italy, tracked on soundcheck, with 21 sets logged across Amsterdam, Barcelona, London and Lyon and 5 more. Often billed alongside ojoo, Konduku and Forest Drive West. Next up: TBA, Sanfrancisco on Fri 18 Sept.
 
@@ -25,4 +25,4 @@ Pianeti Sintetici is a techno and experimental artist based in Italy, tracked on
 
 ojoo, Konduku, Forest Drive West
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/pianetisintetici/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/pianetisintetici/)*

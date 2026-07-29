@@ -1,6 +1,6 @@
 # Demuir
 
-Demuir is a House and Deep House artist with 2 upcoming club dates listed on soundcheck as of Tue, 28 Jul 2026, next at TBA - Downtown Los Angeles, Los Angeles on Sat, 1 Aug 2026.
+Demuir is a House and Deep House artist with 2 upcoming club dates listed on soundcheck as of Wed, 29 Jul 2026, next at TBA - Downtown Los Angeles, Los Angeles on Sat, 1 Aug 2026.
 
 Demuir is a house and deep house artist tracked on soundcheck, with 43 sets logged across Auckland, Austin, Chicago and Denver and 9 more. Often billed alongside Boys Don't Disco, Ian Llorens and Paul Najera. Next up: TBA - Downtown Los Angeles, Losangeles on Sat 1 Aug.
 
@@ -26,4 +26,4 @@ Demuir is a house and deep house artist tracked on soundcheck, with 43 sets logg
 
 Boys Don't Disco, Ian Llorens, Paul Najera
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/demuir/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/demuir/)*

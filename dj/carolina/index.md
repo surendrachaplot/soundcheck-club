@@ -1,6 +1,6 @@
 # Carolina
 
-Carolina is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 28 Jul 2026, next at Razzmatazz, Barcelona on Sat, 1 Aug 2026.
+Carolina is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at Razzmatazz, Barcelona on Sat, 1 Aug 2026.
 
 Carolina is a house and techno artist based in United States of America, tracked on soundcheck, with 18 sets logged across Amsterdam, Barcelona, Copenhagen and Miami and 2 more. Often billed alongside Doppelganger, Drazzit and Fillo Deportaberta. Next up: Razzmatazz, Barcelona on Sat 1 Aug.
 
@@ -25,4 +25,4 @@ Carolina is a house and techno artist based in United States of America, tracked
 
 Doppelganger, Drazzit, Fillo Deportaberta
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/carolina/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/carolina/)*

@@ -1,6 +1,6 @@
 # Daroach
 
-Daroach is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Tue, 28 Jul 2026, next at Le Red Room, Montreal on Sun, 2 Aug 2026.
+Daroach is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at Le Red Room, Montreal on Sun, 2 Aug 2026.
 
 Daroach is a techno and trance artist based in Canada, tracked on soundcheck, with 7 sets logged across Montreal. Often billed alongside InFiltr and Samira. Next up: Le Red Room, Montreal on Sun 2 Aug.
 
@@ -23,4 +23,4 @@ Daroach is a techno and trance artist based in Canada, tracked on soundcheck, wi
 
 InFiltr, Samira
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/daroach/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/daroach/)*

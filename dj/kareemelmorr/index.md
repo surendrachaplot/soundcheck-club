@@ -1,6 +1,6 @@
 # Kareem El Morr
 
-Kareem El Morr is a Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 28 Jul 2026, next at BLITZ, Munich on Fri, 31 Jul 2026.
+Kareem El Morr is a Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at BLITZ, Munich on Fri, 31 Jul 2026.
 
 Kareem El Morr is a techno artist based in Germany, tracked on soundcheck, with 42 sets logged across Amsterdam, Munich and Tbilisi. Often billed alongside Polygonia, VSSL and Muallem. Next up: BLITZ, Munich on Fri 31 Jul.
 
@@ -25,4 +25,4 @@ Kareem El Morr is a techno artist based in Germany, tracked on soundcheck, with 
 
 Polygonia, VSSL, Muallem
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/kareemelmorr/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/kareemelmorr/)*

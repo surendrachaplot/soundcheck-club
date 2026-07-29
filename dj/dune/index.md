@@ -1,6 +1,6 @@
 # Dune
 
-Dune is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Tue, 28 Jul 2026, next at Public Arts, New York City on Sat, 1 Aug 2026.
+Dune is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at Public Arts, New York City on Sat, 1 Aug 2026.
 
 Dune is a techno and house artist based in United States of America, tracked on soundcheck, with 30 sets logged across Antwerp, Miami and Newyorkcity. Often billed alongside Enssembl, Jordi Iven and NURAN. Next up: Public Arts, Newyorkcity on Sat 1 Aug.
 
@@ -25,4 +25,4 @@ Dune is a techno and house artist based in United States of America, tracked on 
 
 Enssembl, Jordi Iven, NURAN
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/dune/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/dune/)*

@@ -1,6 +1,6 @@
 # BODII
 
-BODII is a Hip-Hop and House artist with 1 upcoming club date listed on soundcheck as of Tue, 28 Jul 2026, next at The Broken Shaker Los Angeles, Los Angeles on Sun, 2 Aug 2026.
+BODII is a Hip-Hop and House artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at The Broken Shaker Los Angeles, Los Angeles on Sun, 2 Aug 2026.
 
 BODII is a hip-hop and house artist based in United States of America, tracked on soundcheck, with 25 sets logged across Losangeles. Often billed alongside Terrell Brooke, DeFacto X and Cquestt. Next up: The Broken Shaker Los Angeles, Losangeles on Sun 2 Aug.
 
@@ -25,4 +25,4 @@ BODII is a hip-hop and house artist based in United States of America, tracked o
 
 Terrell Brooke, DeFacto X, Cquestt
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/bodii/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/bodii/)*

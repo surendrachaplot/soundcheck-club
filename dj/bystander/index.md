@@ -1,6 +1,6 @@
 # bystander
 
-bystander is a Techno and EBM artist with 1 upcoming club date listed on soundcheck as of Tue, 28 Jul 2026, next at The Well Studios, Vancouver on Sat, 1 Aug 2026.
+bystander is a Techno and EBM artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at The Well Studios, Vancouver on Sat, 1 Aug 2026.
 
 bystander is a techno and ebm artist based in Morocco, tracked on soundcheck, with 25 sets logged across Berlin, Paris and Vancouver. Often billed alongside Blck-Swan, Ilyas S and Al Aslan. Next up: The Well Studios, Vancouver on Sat 1 Aug.
 
@@ -25,4 +25,4 @@ bystander is a techno and ebm artist based in Morocco, tracked on soundcheck, wi
 
 Blck-Swan, Ilyas S, Al Aslan
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/bystander/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/bystander/)*

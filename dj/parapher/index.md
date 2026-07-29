@@ -1,6 +1,6 @@
 # PARAPHER
 
-PARAPHER is a Techno and Industrial artist with 1 upcoming club date listed on soundcheck as of Tue, 28 Jul 2026, next at H7 Warehouse, Amsterdam on Sat, 22 Aug 2026.
+PARAPHER is a Techno and Industrial artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at H7 Warehouse, Amsterdam on Sat, 22 Aug 2026.
 
 PARAPHER is a techno and industrial artist based in Greece, tracked on soundcheck, with 53 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 14 more. Often billed alongside MMCCCXCIX, Sørenga and D|K|OXY. Next up: H7 Warehouse, Amsterdam on Sat 22 Aug.
 
@@ -25,4 +25,4 @@ PARAPHER is a techno and industrial artist based in Greece, tracked on soundchec
 
 MMCCCXCIX, Sørenga, D|K|OXY
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/parapher/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/parapher/)*

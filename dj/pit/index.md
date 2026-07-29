@@ -1,6 +1,6 @@
 # Pit
 
-Pit is a Breakcore and Experimental artist with 1 upcoming club date listed on soundcheck as of Tue, 28 Jul 2026, next at TBA - Apiro, Marche IT, Milan on Thu, 30 Jul 2026.
+Pit is a Breakcore and Experimental artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at TBA - Apiro, Marche IT, Milan on Thu, 30 Jul 2026.
 
 Pit is a breakcore and experimental artist based in Germany, tracked on soundcheck, with 4 sets logged across Copenhagen, Milan, Rome and Tokyo. Often billed alongside Al Paino, Amazon and Atoloi. Next up: TBA - Apiro, Marche IT, Milan on Thu 30 Jul.
 
@@ -20,4 +20,4 @@ Pit is a breakcore and experimental artist based in Germany, tracked on soundche
 
 Al Paino, Amazon, Atoloi
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/pit/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/pit/)*

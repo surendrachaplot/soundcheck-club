@@ -1,6 +1,6 @@
 # TOXE
 
-TOXE is a Club and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 28 Jul 2026, next at MoMA PS1, New York City on Fri, 7 Aug 2026.
+TOXE is a Club and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at MoMA PS1, New York City on Fri, 7 Aug 2026.
 
 TOXE is a club and techno artist based in Sweden, tracked on soundcheck, with 27 sets logged across Amsterdam, Berlin, Brussels and Copenhagen and 7 more. Often billed alongside Mechatok, Fakethias and Oli XL. Next up: MoMA PS1, Newyorkcity on Fri 7 Aug.
 
@@ -25,4 +25,4 @@ TOXE is a club and techno artist based in Sweden, tracked on soundcheck, with 27
 
 Mechatok, Fakethias, Oli XL
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/toxe/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/toxe/)*

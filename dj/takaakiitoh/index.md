@@ -1,6 +1,6 @@
 # Takaaki Itoh
 
-Takaaki Itoh is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Tue, 28 Jul 2026, next at TBA - Los Angeles, Los Angeles on Sat, 12 Sept 2026.
+Takaaki Itoh is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at TBA - Los Angeles, Los Angeles on Sat, 12 Sept 2026.
 
 Takaaki Itoh is a techno and house artist tracked on soundcheck, with 99 sets logged across Amsterdam, Athens, Barcelona and Belgrade and 29 more. Often billed alongside DANA NADA, DANDAN and Vulkanski. Next up: TBA - Los Angeles, Losangeles on Sat 12 Sept.
 
@@ -25,4 +25,4 @@ Takaaki Itoh is a techno and house artist tracked on soundcheck, with 99 sets lo
 
 DANA NADA, DANDAN, Vulkanski
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/takaakiitoh/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/takaakiitoh/)*

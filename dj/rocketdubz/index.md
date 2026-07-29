@@ -1,6 +1,6 @@
 # Rocket Dubz
 
-Rocket Dubz is a Garage and House artist with 1 upcoming club date listed on soundcheck as of Tue, 28 Jul 2026, next at Planet Wax, London on Thu, 30 Jul 2026.
+Rocket Dubz is a Garage and House artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at Planet Wax, London on Thu, 30 Jul 2026.
 
 Rocket Dubz is a garage and house artist based in United Kingdom, tracked on soundcheck, with 12 sets logged across London. Often billed alongside DJ Listener, Daniel Ward and Hermit. Next up: Planet Wax, London on Thu 30 Jul.
 
@@ -25,4 +25,4 @@ Rocket Dubz is a garage and house artist based in United Kingdom, tracked on sou
 
 DJ Listener, Daniel Ward, Hermit
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/rocketdubz/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/rocketdubz/)*

@@ -1,6 +1,6 @@
 # Chiara Kickdrum
 
-Chiara Kickdrum is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Tue, 28 Jul 2026, next at My Aeon, Melbourne on Sat, 1 Aug 2026.
+Chiara Kickdrum is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at My Aeon, Melbourne on Sat, 1 Aug 2026.
 
 Chiara Kickdrum is a techno and house artist based in Australia, tracked on soundcheck, with 48 sets logged across Melbourne. Often billed alongside Mike Callander, Acid Safari and DJ Kiti. Next up: My Aeon, Melbourne on Sat 1 Aug.
 
@@ -25,4 +25,4 @@ Chiara Kickdrum is a techno and house artist based in Australia, tracked on soun
 
 Mike Callander, Acid Safari, DJ Kiti
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/chiarakickdrum/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/chiarakickdrum/)*

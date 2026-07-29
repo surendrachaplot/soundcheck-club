@@ -1,6 +1,6 @@
 # IGLO
 
-IGLO is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Tue, 28 Jul 2026, next at Holešovická Tržnice, Prague on Sat, 1 Aug 2026.
+IGLO is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at Holešovická Tržnice, Prague on Sat, 1 Aug 2026.
 
 IGLO is a techno and house artist based in Germany, tracked on soundcheck, with 6 sets logged across Berlin, Leipzig, Prague and Zurich. Often billed alongside Pink Concrete, 1morning and AZIL. Next up: Holešovická Tržnice, Prague on Sat 1 Aug.
 
@@ -22,4 +22,4 @@ IGLO is a techno and house artist based in Germany, tracked on soundcheck, with 
 
 Pink Concrete, 1morning, AZIL
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/iglo/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/iglo/)*

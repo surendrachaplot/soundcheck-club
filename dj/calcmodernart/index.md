@@ -1,6 +1,6 @@
 # Cal C (Modern Art)
 
-Cal C (Modern Art) is a House and Balearic artist with 1 upcoming club date listed on soundcheck as of Tue, 28 Jul 2026, next at Village au Pied-du-Courant, Montreal on Thu, 30 Jul 2026.
+Cal C (Modern Art) is a House and Balearic artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at Village au Pied-du-Courant, Montreal on Thu, 30 Jul 2026.
 
 Cal C (Modern Art) is a house and balearic artist based in Canada, tracked on soundcheck, with 35 sets logged across Mexicocity, Montreal, Sanfrancisco and Toronto and 1 more. Often billed alongside Ensoul, Milch (1) and Moon King. Next up: Village au Pied-du-Courant, Montreal on Thu 30 Jul.
 
@@ -25,4 +25,4 @@ Cal C (Modern Art) is a house and balearic artist based in Canada, tracked on so
 
 Ensoul, Milch (1), Moon King
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/calcmodernart/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/calcmodernart/)*

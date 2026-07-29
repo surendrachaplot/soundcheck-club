@@ -1,6 +1,6 @@
 # Claramonte
 
-Claramonte is a Hardcore and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 28 Jul 2026, next at City Hall, Barcelona on Wed, 29 Jul 2026.
+Claramonte is a Hardcore and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at City Hall, Barcelona on Wed, 29 Jul 2026.
 
 Claramonte is a hardcore and techno artist based in Spain, tracked on soundcheck, with 18 sets logged across Barcelona, Dublin, Mallorca and Porto. Often billed alongside Leo Cotrozo, ARDZ. and Alex TB. Next up: City Hall, Barcelona on Wed 29 Jul.
 
@@ -25,4 +25,4 @@ Claramonte is a hardcore and techno artist based in Spain, tracked on soundcheck
 
 Leo Cotrozo, ARDZ., Alex TB
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/claramonte/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/claramonte/)*

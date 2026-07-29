@@ -1,6 +1,6 @@
 # Jason Rault
 
-Jason Rault is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Tue, 28 Jul 2026, next at Lion's Den, Miami on Fri, 31 Jul 2026.
+Jason Rault is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at Lion's Den, Miami on Fri, 31 Jul 2026.
 
 Jason Rault is a house and tech house artist based in Mauritius, tracked on soundcheck, with 43 sets logged across Miami. Often billed alongside Grove Shaman, Soto Music and Bakke. Next up: Lion's Den, Miami on Fri 31 Jul.
 
@@ -25,4 +25,4 @@ Jason Rault is a house and tech house artist based in Mauritius, tracked on soun
 
 Grove Shaman, Soto Music, Bakke
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/jasonrault/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/jasonrault/)*

@@ -1,6 +1,6 @@
 # bambinodj
 
-bambinodj is a Experimental and Pop artist with 1 upcoming club date listed on soundcheck as of Tue, 28 Jul 2026, next at RSO.BERLIN, Berlin on Sat, 8 Aug 2026.
+bambinodj is a Experimental and Pop artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at RSO.BERLIN, Berlin on Sat, 8 Aug 2026.
 
 bambinodj is an experimental and pop artist based in Germany, tracked on soundcheck, with 9 sets logged across Barcelona, Berlin, London and Newyorkcity and 1 more. Often billed alongside DJ KILLING, DJ Python and Meg10. Next up: RSO.BERLIN, Berlin on Sat 8 Aug.
 
@@ -25,4 +25,4 @@ bambinodj is an experimental and pop artist based in Germany, tracked on soundch
 
 DJ KILLING, DJ Python, Meg10
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/bambinodj/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/bambinodj/)*

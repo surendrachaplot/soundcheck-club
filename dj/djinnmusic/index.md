@@ -1,6 +1,6 @@
 # DJINNMUSIC
 
-DJINNMUSIC is a Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 28 Jul 2026, next at Ministerium Club, Lisbon on Thu, 30 Jul 2026.
+DJINNMUSIC is a Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at Ministerium Club, Lisbon on Thu, 30 Jul 2026.
 
 DJINNMUSIC is a techno artist based in Portugal, tracked on soundcheck, with 17 sets logged across Lisbon. Often billed alongside Ana Dimco, Anastasiya Ty and Carol d'Souza. Next up: Ministerium Club, Lisbon on Thu 30 Jul.
 
@@ -25,4 +25,4 @@ DJINNMUSIC is a techno artist based in Portugal, tracked on soundcheck, with 17 
 
 Ana Dimco, Anastasiya Ty, Carol d'Souza
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/djinnmusic/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/djinnmusic/)*

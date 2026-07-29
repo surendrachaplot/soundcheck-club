@@ -1,6 +1,6 @@
 # Will Clarke
 
-Will Clarke is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Tue, 28 Jul 2026, next at Night We Met, Nashville on Fri, 31 Jul 2026.
+Will Clarke is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at Night We Met, Nashville on Fri, 31 Jul 2026.
 
 Will Clarke is a techno and house artist tracked on soundcheck, with 88 sets logged across Amsterdam, Austin, Barcelona and Berlin and 26 more. Often billed alongside DJ Minx, Dombresky and Boys Noize. Next up: Night We Met, Nashville on Fri 31 Jul.
 
@@ -25,4 +25,4 @@ Will Clarke is a techno and house artist tracked on soundcheck, with 88 sets log
 
 DJ Minx, Dombresky, Boys Noize
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/willclarke/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/willclarke/)*

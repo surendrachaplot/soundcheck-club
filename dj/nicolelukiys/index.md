@@ -1,6 +1,6 @@
 # nicole lukiys
 
-nicole lukiys is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Tue, 28 Jul 2026, next at Toffler, Rotterdam on Fri, 31 Jul 2026.
+nicole lukiys is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at Toffler, Rotterdam on Fri, 31 Jul 2026.
 
 nicole lukiys is a techno and trance artist tracked on soundcheck, with 20 sets logged across Berlin, Lisbon, London and Rotterdam and 1 more. Often billed alongside Madson Carpenter, Cruxado and DJ Paradox. Next up: Toffler, Rotterdam on Fri 31 Jul.
 
@@ -25,4 +25,4 @@ nicole lukiys is a techno and trance artist tracked on soundcheck, with 20 sets 
 
 Madson Carpenter, Cruxado, DJ Paradox
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/nicolelukiys/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/nicolelukiys/)*

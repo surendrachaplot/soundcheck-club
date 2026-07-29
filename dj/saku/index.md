@@ -1,6 +1,6 @@
 # Saku
 
-Saku is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 28 Jul 2026, next at Vila Štvanice, Prague on Sat, 1 Aug 2026.
+Saku is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at Vila Štvanice, Prague on Sat, 1 Aug 2026.
 
 Saku is a house and techno artist based in Czech Republic, tracked on soundcheck, with 18 sets logged across Budapest, Prague and Tokyo. Often billed alongside OIEE, Ghandi and Surrealita. Next up: Vila Štvanice, Prague on Sat 1 Aug.
 
@@ -25,4 +25,4 @@ Saku is a house and techno artist based in Czech Republic, tracked on soundcheck
 
 OIEE, Ghandi, Surrealita
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/saku/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/saku/)*

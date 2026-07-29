@@ -1,6 +1,6 @@
 # sif.b
 
-sif.b is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Tue, 28 Jul 2026, next at Ballroom at Palais, London on Fri, 31 Jul 2026.
+sif.b is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at Ballroom at Palais, London on Fri, 31 Jul 2026.
 
 sif.b is a house and disco artist based in United Kingdom, tracked on soundcheck, with 6 sets logged across Bristol, London and Newcastle. Often billed alongside DDERHAM, Loren Heer and Mahnoor. Next up: Ballroom at Palais, London on Fri 31 Jul.
 
@@ -22,4 +22,4 @@ sif.b is a house and disco artist based in United Kingdom, tracked on soundcheck
 
 DDERHAM, Loren Heer, Mahnoor
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/sif.b/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/sif.b/)*

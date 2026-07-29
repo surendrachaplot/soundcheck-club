@@ -1,6 +1,6 @@
 # Flash
 
-Flash is a music venue in Washington DC with 21 upcoming nights listed on soundcheck as of Tue, 28 Jul 2026; the next is "Barac" on Fri, 31 Jul 2026.
+Flash is a music venue in Washington DC with 21 upcoming nights listed on soundcheck as of Wed, 29 Jul 2026; the next is "Barac" on Fri, 31 Jul 2026.
 
 Flash is a music venue in Washingtondc listed on soundcheck. 21 upcoming nights, with line-ups including Adrian Collazo, Andrew Azara, Andrey Pushkarev and Apollo Dust and 2 more. Browse upcoming dates, start times and who's playing. 645 Florida Ave, NW, Washington, D.C. 20001.
 
@@ -23,4 +23,4 @@ Flash is a music venue in Washingtondc listed on soundcheck. 21 upcoming nights,
 
 645 Florida Ave, NW, Washington, D.C. 20001, Washington DC
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/washingtondc/club/flash/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/washingtondc/club/flash/)*

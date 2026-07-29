@@ -1,6 +1,6 @@
 # wilt
 
-wilt is a Techno and Electro artist with 1 upcoming club date listed on soundcheck as of Tue, 28 Jul 2026, next at Karmen Camina, Strasbourg on Fri, 31 Jul 2026.
+wilt is a Techno and Electro artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at Karmen Camina, Strasbourg on Fri, 31 Jul 2026.
 
 wilt is a techno and electro artist based in France, tracked on soundcheck, with 12 sets logged across Strasbourg. Often billed alongside 1client, Vod Kasat and itako. Next up: Karmen Camina, Strasbourg on Fri 31 Jul.
 
@@ -25,4 +25,4 @@ wilt is a techno and electro artist based in France, tracked on soundcheck, with
 
 1client, Vod Kasat, itako
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/wilt/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/wilt/)*

@@ -1,6 +1,6 @@
 # Jamie G
 
-Jamie G is a Drum & Bass and Jungle artist with 2 upcoming club dates listed on soundcheck as of Tue, 28 Jul 2026, next at Brixton Jamm, London on Sat, 1 Aug 2026.
+Jamie G is a Drum & Bass and Jungle artist with 2 upcoming club dates listed on soundcheck as of Wed, 29 Jul 2026, next at Brixton Jamm, London on Sat, 1 Aug 2026.
 
 Jamie G is a drum & bass and jungle artist tracked on soundcheck, with 18 sets logged across Barcelona, Lisbon, Liverpool and London. Often billed alongside Funsta, Nicky Blackmarket and The Ragga Twins. Next up: Brixton Jamm, London on Sat 1 Aug.
 
@@ -26,4 +26,4 @@ Jamie G is a drum & bass and jungle artist tracked on soundcheck, with 18 sets l
 
 Funsta, Nicky Blackmarket, The Ragga Twins
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/jamieguk/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/jamieguk/)*

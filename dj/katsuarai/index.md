@@ -1,6 +1,6 @@
 # Katsu Arai
 
-Katsu Arai is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Tue, 28 Jul 2026, next at WOMB, Tokyo on Wed, 29 Jul 2026.
+Katsu Arai is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at WOMB, Tokyo on Wed, 29 Jul 2026.
 
 Katsu Arai is a techno and house artist based in Japan, tracked on soundcheck, with 20 sets logged across Berlin and Tokyo. Often billed alongside AMG SAIMURA (TECHVANE), EIGHT and Kojiro. Next up: WOMB, Tokyo on Wed 29 Jul.
 
@@ -25,4 +25,4 @@ Katsu Arai is a techno and house artist based in Japan, tracked on soundcheck, w
 
 AMG SAIMURA (TECHVANE), EIGHT, Kojiro
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/katsuarai/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/katsuarai/)*

@@ -1,6 +1,6 @@
 # SARA
 
-SARA is a House and Hip-Hop artist with 1 upcoming club date listed on soundcheck as of Tue, 28 Jul 2026, next at RADION, Amsterdam on Sat, 8 Aug 2026.
+SARA is a House and Hip-Hop artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at RADION, Amsterdam on Sat, 8 Aug 2026.
 
 SARA is a house and hip-hop artist based in Colombia, tracked on soundcheck, with 37 sets logged across Amsterdam, Barcelona, Berlin and Frankfurt and 4 more. Often billed alongside MAO, PUNK N MATRIX and Roy (PT). Next up: RADION, Amsterdam on Sat 8 Aug.
 
@@ -25,4 +25,4 @@ SARA is a house and hip-hop artist based in Colombia, tracked on soundcheck, wit
 
 MAO, PUNK N MATRIX, Roy (PT)
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/sara/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/sara/)*

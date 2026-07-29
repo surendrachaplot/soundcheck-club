@@ -1,6 +1,6 @@
 # Fritz Funke
 
-Fritz Funke is a electronic artist with 1 upcoming club date listed on soundcheck as of Tue, 28 Jul 2026, next at Minimal Bar, Berlin on Fri, 11 Sept 2026.
+Fritz Funke is a electronic artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at Minimal Bar, Berlin on Fri, 11 Sept 2026.
 
 Fritz Funke is an electronic artist based in Germany, tracked on soundcheck, with 24 sets logged across Berlin. Often billed alongside Kat Kat Tat. Next up: Minimal Bar, Berlin on Fri 11 Sept.
 
@@ -25,4 +25,4 @@ Fritz Funke is an electronic artist based in Germany, tracked on soundcheck, wit
 
 Kat Kat Tat
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/fritzfunke/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/fritzfunke/)*

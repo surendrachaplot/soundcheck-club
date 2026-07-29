@@ -1,6 +1,6 @@
 # Kormos
 
-Kormos is a Minimal and Funk / Soul artist with 1 upcoming club date listed on soundcheck as of Tue, 28 Jul 2026, next at TBA, Vienna on Sat, 1 Aug 2026.
+Kormos is a Minimal and Funk / Soul artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at TBA, Vienna on Sat, 1 Aug 2026.
 
 Kormos is a minimal and funk / soul artist based in Turkey, tracked on soundcheck, with 16 sets logged across Budapest, Prague and Vienna. Often billed alongside Nick Hanzo, Sam Gittis and Nizar Sarakbi. Next up: TBA, Vienna on Sat 1 Aug.
 
@@ -25,4 +25,4 @@ Kormos is a minimal and funk / soul artist based in Turkey, tracked on soundchec
 
 Nick Hanzo, Sam Gittis, Nizar Sarakbi
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/kormos/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/kormos/)*

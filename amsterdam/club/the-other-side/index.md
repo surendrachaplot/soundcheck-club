@@ -1,6 +1,6 @@
 # THE OTHER SIDE
 
-THE OTHER SIDE is a music venue in Amsterdam with 8 upcoming nights listed on soundcheck as of Tue, 28 Jul 2026; the next is "F U L L C Y C L E presents: FUSE" on Wed, 29 Jul 2026.
+THE OTHER SIDE is a music venue in Amsterdam with 8 upcoming nights listed on soundcheck as of Wed, 29 Jul 2026; the next is "F U L L C Y C L E presents: FUSE" on Wed, 29 Jul 2026.
 
 THE OTHER SIDE is a music venue in Amsterdam listed on soundcheck. 8 upcoming nights, with line-ups including 1000raks, Absoluut, Aron Friedman and Borella and 2 more. Browse upcoming dates, start times and who's playing. Rigakade 10, 1013BC, Amsterdam, The Netherlands.
 
@@ -21,4 +21,4 @@ THE OTHER SIDE is a music venue in Amsterdam listed on soundcheck. 8 upcoming ni
 
 Rigakade 10, 1013BC, Amsterdam, The Netherlands, Amsterdam
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/the-other-side/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/the-other-side/)*

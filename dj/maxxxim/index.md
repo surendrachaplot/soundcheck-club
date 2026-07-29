@@ -1,6 +1,6 @@
 # MaXXXim
 
-MaXXXim is a Experimental and Neo Perreo artist with 1 upcoming club date listed on soundcheck as of Tue, 28 Jul 2026, next at Algha's Plantroom, London on Wed, 29 Jul 2026.
+MaXXXim is a Experimental and Neo Perreo artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at Algha's Plantroom, London on Wed, 29 Jul 2026.
 
 MaXXXim is an experimental and neo perreo artist based in United Kingdom, tracked on soundcheck, with 5 sets logged across London. Often billed alongside Amor Ante, DJ S (UK) and FAFF. Next up: Algha's Plantroom, London on Wed 29 Jul.
 
@@ -21,4 +21,4 @@ MaXXXim is an experimental and neo perreo artist based in United Kingdom, tracke
 
 Amor Ante, DJ S (UK), FAFF
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/maxxxim/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/maxxxim/)*

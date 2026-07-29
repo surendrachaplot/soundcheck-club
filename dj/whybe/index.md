@@ -1,6 +1,6 @@
 # Why Be
 
-Why Be is a Techno and Club artist with 1 upcoming club date listed on soundcheck as of Tue, 28 Jul 2026, next at Deutsche Oper Berlin, Berlin on Sat, 29 Aug 2026.
+Why Be is a Techno and Club artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at Deutsche Oper Berlin, Berlin on Sat, 29 Aug 2026.
 
 Why Be is a techno and club artist based in Denmark, tracked on soundcheck, with 44 sets logged across Amsterdam, Berlin, Brussels and Copenhagen and 11 more. Often billed alongside DJ TOOL, Yazzus and D.Dan. Next up: Deutsche Oper Berlin, Berlin on Sat 29 Aug.
 
@@ -25,4 +25,4 @@ Why Be is a techno and club artist based in Denmark, tracked on soundcheck, with
 
 DJ TOOL, Yazzus, D.Dan
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/whybe/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/whybe/)*

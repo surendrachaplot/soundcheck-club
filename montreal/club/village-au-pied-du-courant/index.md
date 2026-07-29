@@ -1,6 +1,6 @@
 # Village au Pied-du-Courant
 
-Village au Pied-du-Courant is a music venue in Montreal with 18 upcoming nights listed on soundcheck as of Tue, 28 Jul 2026; the next is "Village au Pied-du-Courant - Seer Record Co presents" on Thu, 30 Jul 2026.
+Village au Pied-du-Courant is a music venue in Montreal with 18 upcoming nights listed on soundcheck as of Wed, 29 Jul 2026; the next is "Village au Pied-du-Courant - Seer Record Co presents" on Thu, 30 Jul 2026.
 
 Village au Pied-du-Courant is a music venue in Montreal listed on soundcheck. 18 upcoming nights, with line-ups including Awwful, Cal C (Modern Art), Dijipoune and Dj Hermano and 2 more. Browse upcoming dates, start times and who's playing. 2100 rue Notre-Dame Est, Montréal H2K 4K3.
 
@@ -23,4 +23,4 @@ Village au Pied-du-Courant is a music venue in Montreal listed on soundcheck. 18
 
 2100 rue Notre-Dame Est, Montréal H2K 4K3, Montreal
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/montreal/club/village-au-pied-du-courant/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/montreal/club/village-au-pied-du-courant/)*

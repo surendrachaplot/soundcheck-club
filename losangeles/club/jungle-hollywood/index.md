@@ -1,6 +1,6 @@
 # Jungle Hollywood
 
-Jungle Hollywood is a music venue in Los Angeles with 2 upcoming nights listed on soundcheck as of Tue, 28 Jul 2026; the next is "HAWT 20 Year Anniversary" on Sat, 1 Aug 2026.
+Jungle Hollywood is a music venue in Los Angeles with 2 upcoming nights listed on soundcheck as of Wed, 29 Jul 2026; the next is "HAWT 20 Year Anniversary" on Sat, 1 Aug 2026.
 
 Jungle Hollywood is a music venue in Losangeles listed on soundcheck. 2 upcoming nights, with line-ups including Blakkat, Eddie B, Larry Gamboa and Matthew Brian and 2 more. Browse upcoming dates, start times and who's playing. 1640 N Cahuenga Blvd, Los Angeles, CA 90028.
 
@@ -15,4 +15,4 @@ Jungle Hollywood is a music venue in Losangeles listed on soundcheck. 2 upcoming
 
 1640 N Cahuenga Blvd, Los Angeles, CA 90028, Los Angeles
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/losangeles/club/jungle-hollywood/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/losangeles/club/jungle-hollywood/)*

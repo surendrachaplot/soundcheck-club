@@ -1,6 +1,6 @@
 # Unkompress
 
-Unkompress is a music venue in Berlin with 8 upcoming nights listed on soundcheck as of Tue, 28 Jul 2026; the next is "Unkompress Deep Dive: Heatwave" on Wed, 29 Jul 2026.
+Unkompress is a music venue in Berlin with 8 upcoming nights listed on soundcheck as of Wed, 29 Jul 2026; the next is "Unkompress Deep Dive: Heatwave" on Wed, 29 Jul 2026.
 
 Unkompress is a music venue in Berlin listed on soundcheck. 8 upcoming nights, with line-ups including JINI and Lovellious. Browse upcoming dates, start times and who's playing. Fichtestrasse 23, 10967 Berlin.
 
@@ -21,4 +21,4 @@ Unkompress is a music venue in Berlin listed on soundcheck. 8 upcoming nights, w
 
 Fichtestrasse 23, 10967 Berlin, Berlin
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/unkompress/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/unkompress/)*

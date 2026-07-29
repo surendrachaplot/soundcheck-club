@@ -1,6 +1,6 @@
 # Roman Adam
 
-Roman Adam is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Tue, 28 Jul 2026, next at Culture Box, Copenhagen on Fri, 31 Jul 2026.
+Roman Adam is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at Culture Box, Copenhagen on Fri, 31 Jul 2026.
 
 Roman Adam is a techno and house artist based in Germany, tracked on soundcheck, with 40 sets logged across Berlin, Cologne, Copenhagen and Hamburg and 2 more. Often billed alongside Kaufmann, TiM TASTE and Baba The Knife. Next up: Culture Box, Copenhagen on Fri 31 Jul.
 
@@ -25,4 +25,4 @@ Roman Adam is a techno and house artist based in Germany, tracked on soundcheck,
 
 Kaufmann, TiM TASTE, Baba The Knife
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/romanadam/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/romanadam/)*

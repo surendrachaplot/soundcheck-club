@@ -1,6 +1,6 @@
 # Cindy (CH)
 
-Cindy (CH) is a Bass and Techno artist with 2 upcoming club dates listed on soundcheck as of Tue, 28 Jul 2026, next at De Fik Garden, Amsterdam on Fri, 31 Jul 2026.
+Cindy (CH) is a Bass and Techno artist with 2 upcoming club dates listed on soundcheck as of Wed, 29 Jul 2026, next at De Fik Garden, Amsterdam on Fri, 31 Jul 2026.
 
 Cindy (CH) is a bass and techno artist based in Albania, tracked on soundcheck, with 5 sets logged across Amsterdam and Zurich. Often billed alongside A Strange Wedding, ADO (DE) and Add FM. Next up: De Fik Garden, Amsterdam on Fri 31 Jul.
 
@@ -21,4 +21,4 @@ Cindy (CH) is a bass and techno artist based in Albania, tracked on soundcheck, 
 
 A Strange Wedding, ADO (DE), Add FM
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/cindy-ch/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/cindy-ch/)*

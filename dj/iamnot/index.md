@@ -1,6 +1,6 @@
 # IAmNøt
 
-IAmNøt is a Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 28 Jul 2026, next at Altenburg 1964, Prague on Fri, 21 Aug 2026.
+IAmNøt is a Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at Altenburg 1964, Prague on Fri, 21 Aug 2026.
 
 IAmNøt is a techno artist based in Slovakia, tracked on soundcheck, with 5 sets logged across Prague. Often billed alongside Patricio Strix, Zuzana Hakl and 2NDRA. Next up: Altenburg 1964, Prague on Fri 21 Aug.
 
@@ -21,4 +21,4 @@ IAmNøt is a techno artist based in Slovakia, tracked on soundcheck, with 5 sets
 
 Patricio Strix, Zuzana Hakl, 2NDRA
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/iamnot/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/iamnot/)*

@@ -1,6 +1,6 @@
 # Mori Mori
 
-Mori Mori is a Experimental and Club artist with 1 upcoming club date listed on soundcheck as of Tue, 28 Jul 2026, next at Unit 58, London on Fri, 9 Oct 2026.
+Mori Mori is a Experimental and Club artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at Unit 58, London on Fri, 9 Oct 2026.
 
 Mori Mori is an experimental and club artist based in Latvia, tracked on soundcheck, with 11 sets logged across Barcelona, Berlin, London and Manchester and 2 more. Often billed alongside mu tate, Discka and NEXCYIA. Next up: Unit 58, London on Fri 9 Oct.
 
@@ -25,4 +25,4 @@ Mori Mori is an experimental and club artist based in Latvia, tracked on soundch
 
 mu tate, Discka, NEXCYIA
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/morimori/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/morimori/)*

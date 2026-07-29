@@ -1,6 +1,6 @@
 # ILUSM
 
-ILUSM is a Club and Hardcore artist with 1 upcoming club date listed on soundcheck as of Tue, 28 Jul 2026, next at Zeba Bar, Washington DC on Sat, 1 Aug 2026.
+ILUSM is a Club and Hardcore artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at Zeba Bar, Washington DC on Sat, 1 Aug 2026.
 
 ILUSM is a club and hardcore artist based in United States of America, tracked on soundcheck, with 17 sets logged across Washingtondc. Often billed alongside DJ KORIS, Franxx and Girlypop Princess. Next up: Zeba Bar, Washingtondc on Sat 1 Aug.
 
@@ -25,4 +25,4 @@ ILUSM is a club and hardcore artist based in United States of America, tracked o
 
 DJ KORIS, Franxx, Girlypop Princess
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/ilusm/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/ilusm/)*

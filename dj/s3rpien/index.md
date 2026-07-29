@@ -1,6 +1,6 @@
 # s3rpien
 
-s3rpien is a Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 28 Jul 2026, next at radial, London on Fri, 31 Jul 2026.
+s3rpien is a Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at radial, London on Fri, 31 Jul 2026.
 
 s3rpien is a techno artist tracked on soundcheck, with 5 sets logged across Glasgow and London. Often billed alongside TRSSX, Brandon Lee Vear and manu_facturer. Next up: radial, London on Fri 31 Jul.
 
@@ -21,4 +21,4 @@ s3rpien is a techno artist tracked on soundcheck, with 5 sets logged across Glas
 
 TRSSX, Brandon Lee Vear, manu_facturer
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/s3rpien/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/s3rpien/)*

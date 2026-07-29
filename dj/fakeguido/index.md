@@ -1,6 +1,6 @@
 # Fakeguido
 
-Fakeguido is a electronic artist with 1 upcoming club date listed on soundcheck as of Tue, 28 Jul 2026, next at Razzmatazz, Barcelona on Sat, 1 Aug 2026.
+Fakeguido is a electronic artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at Razzmatazz, Barcelona on Sat, 1 Aug 2026.
 
 Fakeguido is an electronic artist based in Spain, tracked on soundcheck, with 18 sets logged across Barcelona and Madrid. Often billed alongside Sushinigami, Dirti Larita and DJ2D2. Next up: Razzmatazz, Barcelona on Sat 1 Aug.
 
@@ -25,4 +25,4 @@ Fakeguido is an electronic artist based in Spain, tracked on soundcheck, with 18
 
 Sushinigami, Dirti Larita, DJ2D2
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/fakeguido/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/fakeguido/)*

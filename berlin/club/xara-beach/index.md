@@ -1,6 +1,6 @@
 # Xara Beach
 
-Xara Beach is a music venue in Berlin with 1 upcoming night listed on soundcheck as of Tue, 28 Jul 2026; the next is "AFRER BAILE XXL + FIFONHA 808 EURO TOUR" on Sat, 1 Aug 2026.
+Xara Beach is a music venue in Berlin with 1 upcoming night listed on soundcheck as of Wed, 29 Jul 2026; the next is "AFRER BAILE XXL + FIFONHA 808 EURO TOUR" on Sat, 1 Aug 2026.
 
 Xara Beach is a music venue in Berlin listed on soundcheck. 1 upcoming night. Browse upcoming dates, start times and who's playing. Adalbertstraße 98, 10999 Berlin, Germany.
 
@@ -14,4 +14,4 @@ Xara Beach is a music venue in Berlin listed on soundcheck. 1 upcoming night. Br
 
 Adalbertstraße 98, 10999 Berlin, Germany, Berlin
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/xara-beach/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/xara-beach/)*

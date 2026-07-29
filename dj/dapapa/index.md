@@ -1,6 +1,6 @@
 # Dapapa
 
-Dapapa is a House and Electro artist with 1 upcoming club date listed on soundcheck as of Tue, 28 Jul 2026, next at Bar Datcha, Montreal on Fri, 7 Aug 2026.
+Dapapa is a House and Electro artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at Bar Datcha, Montreal on Fri, 7 Aug 2026.
 
 Dapapa is a house and electro artist based in Canada, tracked on soundcheck, with 20 sets logged across Montreal. Often billed alongside Ellxandra, Pitza Dave and AKAntu. Next up: Bar Datcha, Montreal on Fri 7 Aug.
 
@@ -25,4 +25,4 @@ Dapapa is a house and electro artist based in Canada, tracked on soundcheck, wit
 
 Ellxandra, Pitza Dave, AKAntu
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/dapapa/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/dapapa/)*

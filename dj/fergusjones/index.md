@@ -1,6 +1,6 @@
 # Fergus Jones
 
-Fergus Jones is a Techno and Experimental artist with 1 upcoming club date listed on soundcheck as of Tue, 28 Jul 2026, next at The Carpet Shop, London on Sat, 8 Aug 2026.
+Fergus Jones is a Techno and Experimental artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at The Carpet Shop, London on Sat, 8 Aug 2026.
 
 Fergus Jones is a techno and experimental artist based in United Kingdom, tracked on soundcheck, with 55 sets logged across Barcelona, Berlin, Chicago and Copenhagen and 15 more. Often billed alongside Alif Hilal, Mia Koden and Ryong. Next up: The Carpet Shop, London on Sat 8 Aug.
 
@@ -25,4 +25,4 @@ Fergus Jones is a techno and experimental artist based in United Kingdom, tracke
 
 Alif Hilal, Mia Koden, Ryong
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/fergusjones/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/fergusjones/)*

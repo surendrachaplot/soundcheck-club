@@ -1,6 +1,6 @@
 # Ada
 
-Ada is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 28 Jul 2026, next at fi, Cologne on Fri, 25 Sept 2026.
+Ada is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at fi, Cologne on Fri, 25 Sept 2026.
 
 Ada is a house and techno artist based in Germany, tracked on soundcheck, with 30 sets logged across Amsterdam, Barcelona, Berlin and Cologne and 7 more. Often billed alongside Michael Mayer, Robag Wruhme and DJ Koze. Next up: fi, Cologne on Fri 25 Sept.
 
@@ -25,4 +25,4 @@ Ada is a house and techno artist based in Germany, tracked on soundcheck, with 3
 
 Michael Mayer, Robag Wruhme, DJ Koze
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/ada/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/ada/)*

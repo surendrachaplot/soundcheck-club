@@ -1,6 +1,6 @@
 # KTB DJž
 
-KTB DJž is a Techno and Electro artist with 1 upcoming club date listed on soundcheck as of Tue, 28 Jul 2026, next at TBA - EAST LONDON - Announced to ticket holders on the day, London on Fri, 14 Aug 2026.
+KTB DJž is a Techno and Electro artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at TBA - EAST LONDON - Announced to ticket holders on the day, London on Fri, 14 Aug 2026.
 
 KTB DJž is a techno and electro artist based in United Kingdom, tracked on soundcheck, with 5 sets logged across London. Often billed alongside Lady Roc, CHNDRA and Danny Walia. Next up: TBA - EAST LONDON - Announced to ticket holders on the day, London on Fri 14 Aug.
 
@@ -21,4 +21,4 @@ KTB DJž is a techno and electro artist based in United Kingdom, tracked on soun
 
 Lady Roc, CHNDRA, Danny Walia
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/ktbdjz/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/ktbdjz/)*

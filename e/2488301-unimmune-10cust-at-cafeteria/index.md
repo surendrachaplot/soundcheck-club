@@ -1,6 +1,6 @@
 # unimmune: 10cust at Cafeteria
 
-unimmune: 10cust at Cafeteria on Fri 21 Aug, Toronto. 2 acts on the bill: 10cust and sopretty. Bass. Preview the line-up and save it on soundcheck.
+unimmune: 10cust at Cafeteria on Fri 21 Aug, Toronto. 2 acts on the bill: 10cust and sopretty. Bass and Experimental. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

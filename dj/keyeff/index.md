@@ -1,6 +1,6 @@
 # Key Eff
 
-Key Eff is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Tue, 28 Jul 2026, next at Dunes, Ibiza on Wed, 29 Jul 2026.
+Key Eff is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at Dunes, Ibiza on Wed, 29 Jul 2026.
 
 Key Eff is a house and tech house artist based in Italy, tracked on soundcheck, with 25 sets logged across Frankfurt, Ibiza, London and Naples. Often billed alongside Alex Bohemien, Marco Tuccillo and Gabriele Ranucci. Next up: Dunes, Ibiza on Wed 29 Jul.
 
@@ -25,4 +25,4 @@ Key Eff is a house and tech house artist based in Italy, tracked on soundcheck, 
 
 Alex Bohemien, Marco Tuccillo, Gabriele Ranucci
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/keyeff/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/keyeff/)*

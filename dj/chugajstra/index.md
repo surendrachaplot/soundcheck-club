@@ -1,6 +1,6 @@
 # Chugajstra
 
-Chugajstra is a Electro and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 28 Jul 2026, next at Sekta Selekta, Krakow on Thu, 30 Jul 2026.
+Chugajstra is a Electro and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at Sekta Selekta, Krakow on Thu, 30 Jul 2026.
 
 Chugajstra is an electro and techno artist tracked on soundcheck, with 33 sets logged across Berlin, Krakow and Warsaw. Often billed alongside Sakrum, Nadezh No and Prosto Dre. Next up: Sekta Selekta, Krakow on Thu 30 Jul.
 
@@ -25,4 +25,4 @@ Chugajstra is an electro and techno artist tracked on soundcheck, with 33 sets l
 
 Sakrum, Nadezh No, Prosto Dre
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/chugajstra/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/chugajstra/)*

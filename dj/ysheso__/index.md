@@ -1,6 +1,6 @@
 # ysheso__
 
-ysheso__ is a House and Breakbeat artist with 1 upcoming club date listed on soundcheck as of Tue, 28 Jul 2026, next at Paloma, Berlin on Sat, 1 Aug 2026.
+ysheso__ is a House and Breakbeat artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at Paloma, Berlin on Sat, 1 Aug 2026.
 
 ysheso__ is a house and breakbeat artist based in United States of America, tracked on soundcheck, with 12 sets logged across Barcelona, Berlin, Lisbon and Nashville and 2 more. Often billed alongside BEARCAT, D.T.H. and D4N (1). Next up: Paloma, Berlin on Sat 1 Aug.
 
@@ -25,4 +25,4 @@ ysheso__ is a house and breakbeat artist based in United States of America, trac
 
 BEARCAT, D.T.H., D4N (1)
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/ysheso__/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/ysheso__/)*

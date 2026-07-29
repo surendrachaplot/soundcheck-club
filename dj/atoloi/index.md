@@ -1,6 +1,6 @@
 # Atoloi
 
-Atoloi is a Dub Techno and Experimental artist with 2 upcoming club dates listed on soundcheck as of Tue, 28 Jul 2026, next at TBA - Apiro, Marche IT, Milan on Thu, 30 Jul 2026.
+Atoloi is a Dub Techno and Experimental artist with 2 upcoming club dates listed on soundcheck as of Wed, 29 Jul 2026, next at TBA - Apiro, Marche IT, Milan on Thu, 30 Jul 2026.
 
 Atoloi is a dub techno and experimental artist based in Italy, tracked on soundcheck, with 22 sets logged across Berlin, Geneva, Houston and Lisbon and 4 more. Often billed alongside Entangled Auch, Box of Tangerine and Hagva. Next up: TBA - Apiro, Marche IT, Milan on Thu 30 Jul.
 
@@ -26,4 +26,4 @@ Atoloi is a dub techno and experimental artist based in Italy, tracked on soundc
 
 Entangled Auch, Box of Tangerine, Hagva
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/atoloi/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/atoloi/)*

@@ -1,6 +1,6 @@
 # Koipinoxia
 
-Koipinoxia is a Techno and Progressive House artist with 2 upcoming club dates listed on soundcheck as of Tue, 28 Jul 2026, next at TBA - Various Venues, Brighton on Sat, 1 Aug 2026.
+Koipinoxia is a Techno and Progressive House artist with 2 upcoming club dates listed on soundcheck as of Wed, 29 Jul 2026, next at TBA - Various Venues, Brighton on Sat, 1 Aug 2026.
 
 Koipinoxia is a techno and progressive house artist tracked on soundcheck, with 16 sets logged across Brighton and London. Often billed alongside Markus Saarländer, POoK and Ross Harper. Next up: TBA - Various Venues, Brighton on Sat 1 Aug.
 
@@ -26,4 +26,4 @@ Koipinoxia is a techno and progressive house artist tracked on soundcheck, with 
 
 Markus Saarländer, POoK, Ross Harper
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/Koipinoxia/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/Koipinoxia/)*

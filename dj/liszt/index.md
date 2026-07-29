@@ -1,6 +1,6 @@
 # Liszt
 
-Liszt is a Techno and Dub Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 28 Jul 2026, next at The Bassement, Madrid on Sat, 5 Sept 2026.
+Liszt is a Techno and Dub Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at The Bassement, Madrid on Sat, 5 Sept 2026.
 
 Liszt is a techno and dub techno artist based in Spain, tracked on soundcheck, with 18 sets logged across Barcelona and Madrid. Often billed alongside Dzeko, Flaco Bengala and Guest. Next up: The Bassement, Madrid on Sat 5 Sept.
 
@@ -25,4 +25,4 @@ Liszt is a techno and dub techno artist based in Spain, tracked on soundcheck, w
 
 Dzeko, Flaco Bengala, Guest
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/liszt/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/liszt/)*

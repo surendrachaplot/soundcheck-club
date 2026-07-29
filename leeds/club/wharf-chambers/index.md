@@ -1,6 +1,6 @@
 # Wharf Chambers
 
-Wharf Chambers is a music venue in Leeds with 2 upcoming nights listed on soundcheck as of Tue, 28 Jul 2026; the next is "HEAT CTRL" on Fri, 31 Jul 2026.
+Wharf Chambers is a music venue in Leeds with 2 upcoming nights listed on soundcheck as of Wed, 29 Jul 2026; the next is "HEAT CTRL" on Fri, 31 Jul 2026.
 
 Wharf Chambers is a music venue in Leeds listed on soundcheck. 2 upcoming nights, with line-ups including LEWCIFER. Browse upcoming dates, start times and who's playing. 23-25 Wharf Street, Leeds, LS2 7EQ, United Kingdom.
 
@@ -15,4 +15,4 @@ Wharf Chambers is a music venue in Leeds listed on soundcheck. 2 upcoming nights
 
 23-25 Wharf Street, Leeds, LS2 7EQ, United Kingdom, Leeds
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/leeds/club/wharf-chambers/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/leeds/club/wharf-chambers/)*

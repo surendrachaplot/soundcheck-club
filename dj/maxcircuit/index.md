@@ -1,6 +1,6 @@
 # Max Circuit
 
-Max Circuit is a Industrial and Electronica artist with 1 upcoming club date listed on soundcheck as of Tue, 28 Jul 2026, next at DETROIT CLUB, Barcelona on Fri, 31 Jul 2026.
+Max Circuit is a Industrial and Electronica artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at DETROIT CLUB, Barcelona on Fri, 31 Jul 2026.
 
 Max Circuit is an industrial and electronica artist based in Colombia, tracked on soundcheck, with 38 sets logged across Barcelona. Often billed alongside Mahe, SuttleK and EUPHORIX.bcn. Next up: DETROIT CLUB, Barcelona on Fri 31 Jul.
 
@@ -25,4 +25,4 @@ Max Circuit is an industrial and electronica artist based in Colombia, tracked o
 
 Mahe, SuttleK, EUPHORIX.bcn
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/maxcircuit/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/maxcircuit/)*

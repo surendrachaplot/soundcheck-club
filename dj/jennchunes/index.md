@@ -1,6 +1,6 @@
 # Jenn Chunes
 
-Jenn Chunes is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 28 Jul 2026, next at The Pantry, Singapore on Sat, 8 Aug 2026.
+Jenn Chunes is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at The Pantry, Singapore on Sat, 8 Aug 2026.
 
 Jenn Chunes is a house and techno artist based in Malaysia, tracked on soundcheck, with 14 sets logged across Kualalumpur, Melbourne and Singapore. Often billed alongside Bongomann, Dexter Colt and Babycino. Next up: The Pantry, Singapore on Sat 8 Aug.
 
@@ -25,4 +25,4 @@ Jenn Chunes is a house and techno artist based in Malaysia, tracked on soundchec
 
 Bongomann, Dexter Colt, Babycino
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/jennchunes/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/jennchunes/)*

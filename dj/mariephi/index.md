@@ -1,6 +1,6 @@
 # mariephi
 
-mariephi is a Tech House and House artist with 1 upcoming club date listed on soundcheck as of Tue, 28 Jul 2026, next at PRST, Vienna on Fri, 31 Jul 2026.
+mariephi is a Tech House and House artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at PRST, Vienna on Fri, 31 Jul 2026.
 
 mariephi is a tech house and house artist based in Austria, tracked on soundcheck, with 10 sets logged across Vienna. Often billed alongside Artemuse, Lefteris and Anni Herzer. Next up: PRST, Vienna on Fri 31 Jul.
 
@@ -25,4 +25,4 @@ mariephi is a tech house and house artist based in Austria, tracked on soundchec
 
 Artemuse, Lefteris, Anni Herzer
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/mariephi/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/mariephi/)*

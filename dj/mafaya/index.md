@@ -1,6 +1,6 @@
 # MAFAYA
 
-MAFAYA is a Trance and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 28 Jul 2026, next at Quinta Mira Rio, Lisbon on Fri, 31 Jul 2026.
+MAFAYA is a Trance and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at Quinta Mira Rio, Lisbon on Fri, 31 Jul 2026.
 
 MAFAYA is a trance and techno artist based in Germany, tracked on soundcheck, with 3 sets logged across Lisbon. Often billed alongside GTH (FR), GADDAM and Afem Syko. Next up: Quinta Mira Rio, Lisbon on Fri 31 Jul.
 
@@ -19,4 +19,4 @@ MAFAYA is a trance and techno artist based in Germany, tracked on soundcheck, wi
 
 GTH (FR), GADDAM, Afem Syko
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/mafaya/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/mafaya/)*

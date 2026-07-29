@@ -1,6 +1,6 @@
 # Packim
 
-Packim is a Disco and House artist with 1 upcoming club date listed on soundcheck as of Tue, 28 Jul 2026, next at Macarena Club, Barcelona on Wed, 29 Jul 2026.
+Packim is a Disco and House artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at Macarena Club, Barcelona on Wed, 29 Jul 2026.
 
 Packim is a disco and house artist based in Italy, tracked on soundcheck, with 5 sets logged across Barcelona, Lisbon and Naples. Often billed alongside Dario Dea, Reezar and Althoff. Next up: Macarena Club, Barcelona on Wed 29 Jul.
 
@@ -21,4 +21,4 @@ Packim is a disco and house artist based in Italy, tracked on soundcheck, with 5
 
 Dario Dea, Reezar, Althoff
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/packim/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/packim/)*

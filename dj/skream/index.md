@@ -1,14 +1,13 @@
 # Skream
 
-Skream is a House and Techno artist with 12 upcoming club dates listed on soundcheck as of Tue, 28 Jul 2026, next at Hï Ibiza, Ibiza on Tue, 28 Jul 2026.
+Skream is a House and Techno artist with 11 upcoming club dates listed on soundcheck as of Wed, 29 Jul 2026, next at Studio Club Malaga, Malaga on Sat, 8 Aug 2026.
 
-Skream is a house and techno artist tracked on soundcheck, with 208 sets logged across Amsterdam, Antwerp, Bali and Bangkok and 57 more. Often billed alongside Seth Troxler, Benga and DJ Tennis. Next up: Hï Ibiza, Ibiza on Tue 28 Jul.
+Skream is a house and techno artist tracked on soundcheck, with 208 sets logged across Amsterdam, Antwerp, Bali and Bangkok and 57 more. Often billed alongside Seth Troxler, Benga and DJ Tennis. Next up: Studio Club Malaga, Malaga on Sat 8 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Tue, 28 Jul 2026 | Hï Ibiza | Ibiza |
 | Sat, 8 Aug 2026 | Studio Club Malaga | Malaga |
 | Sun, 9 Aug 2026 | Burgess Park | London |
 | Tue, 11 Aug 2026 | Pacha Ibiza | Ibiza |
@@ -23,6 +22,7 @@ Skream is a house and techno artist tracked on soundcheck, with 208 sets logged 
 
 ## Recently played
 
+- Hï Ibiza, Ibiza — Tue, 28 Jul 2026
 - Chinois Ibiza, Ibiza — Tue, 21 Jul 2026
 - Club Space Miami, Miami — Sat, 11 Jul 2026
 - Parco Dora, Turin — Fri, 3 Jul 2026
@@ -30,10 +30,9 @@ Skream is a house and techno artist tracked on soundcheck, with 208 sets logged 
 - Amok Club, Mallorca — Sat, 27 Jun 2026
 - Pacha New York, New York City — Sat, 20 Jun 2026
 - W Barcelona, Barcelona — Sun, 14 Jun 2026
-- Expirat Halele Carol, Bucharest — Thu, 11 Jun 2026
 
 ## Shares bills with
 
 Seth Troxler, Benga, DJ Tennis
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/skream/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/skream/)*

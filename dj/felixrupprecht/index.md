@@ -1,6 +1,6 @@
 # Felix Rupprecht
 
-Felix Rupprecht is a Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 28 Jul 2026, next at BLITZ, Munich on Fri, 31 Jul 2026.
+Felix Rupprecht is a Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at BLITZ, Munich on Fri, 31 Jul 2026.
 
 Felix Rupprecht is a techno artist based in Germany, tracked on soundcheck, with 31 sets logged across Munich and Vienna. Often billed alongside vince, Katia Curie and Muallem. Next up: BLITZ, Munich on Fri 31 Jul.
 
@@ -25,4 +25,4 @@ Felix Rupprecht is a techno artist based in Germany, tracked on soundcheck, with
 
 vince, Katia Curie, Muallem
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/felixrupprecht/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/felixrupprecht/)*

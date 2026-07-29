@@ -1,6 +1,6 @@
 # Wretla
 
-Wretla is a House and Electronica artist with 1 upcoming club date listed on soundcheck as of Tue, 28 Jul 2026, next at Liquidrom, Berlin on Fri, 31 Jul 2026.
+Wretla is a House and Electronica artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at Liquidrom, Berlin on Fri, 31 Jul 2026.
 
 Wretla is a house and electronica artist based in Australia, tracked on soundcheck, with 9 sets logged across Berlin, Melbourne and Sydney. Often billed alongside Andrew88, Blossom Hill and A.Well. Next up: Liquidrom, Berlin on Fri 31 Jul.
 
@@ -25,4 +25,4 @@ Wretla is a house and electronica artist based in Australia, tracked on soundche
 
 Andrew88, Blossom Hill, A.Well
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/wretla/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/wretla/)*

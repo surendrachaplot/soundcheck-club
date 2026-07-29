@@ -1,6 +1,6 @@
 # Quarters
 
-Quarters is a music venue in Brighton with 10 upcoming nights listed on soundcheck as of Tue, 28 Jul 2026; the next is "Quarters presents Pride" on Sat, 1 Aug 2026.
+Quarters is a music venue in Brighton with 10 upcoming nights listed on soundcheck as of Wed, 29 Jul 2026; the next is "Quarters presents Pride" on Sat, 1 Aug 2026.
 
 Quarters is a music venue in Brighton listed on soundcheck. 10 upcoming nights, with line-ups including 2ManyDJs, A For Alpha, Alix Perez and Cesco and 2 more. Browse upcoming dates, start times and who's playing. 187-193 Kings Road, Brighton, BN1 1NB.
 
@@ -23,4 +23,4 @@ Quarters is a music venue in Brighton listed on soundcheck. 10 upcoming nights, 
 
 187-193 Kings Road, Brighton, BN1 1NB, Brighton
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/brighton/club/quarters/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/brighton/club/quarters/)*

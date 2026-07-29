@@ -1,6 +1,6 @@
 # Tegh
 
-Tegh is a Electronica and House artist with 1 upcoming club date listed on soundcheck as of Tue, 28 Jul 2026, next at Arcana, San Francisco/Oakland on Fri, 7 Aug 2026.
+Tegh is a Electronica and House artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at Arcana, San Francisco/Oakland on Fri, 7 Aug 2026.
 
 Tegh is an electronica and house artist based in Iran, tracked on soundcheck, with 9 sets logged across Berlin, Mexicocity, Paris and Sanfrancisco. Often billed alongside Alejandro Paz, Alo and Alois. Next up: Arcana, Sanfrancisco on Fri 7 Aug.
 
@@ -25,4 +25,4 @@ Tegh is an electronica and house artist based in Iran, tracked on soundcheck, wi
 
 Alejandro Paz, Alo, Alois
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/tegh/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/tegh/)*

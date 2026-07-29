@@ -1,6 +1,6 @@
 # Bolero
 
-Bolero is a music venue in Seoul with 3 upcoming nights listed on soundcheck as of Tue, 28 Jul 2026; the next is "Bolero: DRUM LANGUAGE PRESENTS: JEDAIAH VS. THE WORLD" on Thu, 30 Jul 2026.
+Bolero is a music venue in Seoul with 3 upcoming nights listed on soundcheck as of Wed, 29 Jul 2026; the next is "Bolero: DRUM LANGUAGE PRESENTS: JEDAIAH VS. THE WORLD" on Thu, 30 Jul 2026.
 
 Bolero is a music venue in Seoul listed on soundcheck. 3 upcoming nights, with line-ups including AUS10, DJ POOL, Nsw (1) and SINAHILL. Browse upcoming dates, start times and who's playing. B1, 220, Itaewon-ro, Yongsan-gu, Seoul, South Korea.
 
@@ -16,4 +16,4 @@ Bolero is a music venue in Seoul listed on soundcheck. 3 upcoming nights, with l
 
 B1, 220, Itaewon-ro, Yongsan-gu, Seoul, South Korea, Seoul
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/seoul/club/bolero/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/seoul/club/bolero/)*

@@ -1,6 +1,6 @@
 # Guido YZ
 
-Guido YZ is a Jungle and Hardcore artist with 1 upcoming club date listed on soundcheck as of Tue, 28 Jul 2026, next at The Cause, London on Sun, 2 Aug 2026.
+Guido YZ is a Jungle and Hardcore artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at The Cause, London on Sun, 2 Aug 2026.
 
 Guido YZ is a jungle and hardcore artist based in United Kingdom, tracked on soundcheck, with 28 sets logged across Amsterdam, Bristol, Lisbon and London and 1 more. Often billed alongside Janaway, The Bass Injector and Mousai. Next up: The Cause, London on Sun 2 Aug.
 
@@ -25,4 +25,4 @@ Guido YZ is a jungle and hardcore artist based in United Kingdom, tracked on sou
 
 Janaway, The Bass Injector, Mousai
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/guidoyz/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/guidoyz/)*

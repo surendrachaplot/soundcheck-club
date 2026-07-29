@@ -1,6 +1,6 @@
 # Zero Idea
 
-Zero Idea is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Tue, 28 Jul 2026, next at The Midway, San Francisco/Oakland on Sun, 13 Sept 2026.
+Zero Idea is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at The Midway, San Francisco/Oakland on Sun, 13 Sept 2026.
 
 Zero Idea is a techno and house artist based in United States of America, tracked on soundcheck, with 39 sets logged across Sanfrancisco and Vancouver. Often billed alongside Trauma Unit, Online Narcotics and Skiis. Next up: The Midway, Sanfrancisco on Sun 13 Sept.
 
@@ -25,4 +25,4 @@ Zero Idea is a techno and house artist based in United States of America, tracke
 
 Trauma Unit, Online Narcotics, Skiis
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/zeroidea/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/zeroidea/)*

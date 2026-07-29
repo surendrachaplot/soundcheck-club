@@ -376,7 +376,7 @@
     .rad-h1 { font-family:var(--head); font-weight:800; font-size:var(--fs-2xl);
       letter-spacing:var(--ls-2xl); line-height:var(--lh-2xl); margin:3px 0 5px; }
     .rad-sub { color:var(--muted); font-size:var(--fs-sm); line-height:var(--lh-sm); margin:0 0 var(--sp-4); max-width:52ch; }
-    .rad-rack + .sec-h { margin-top:var(--sp-5); }
+    .rad-rack + .sec-h { margin-top:var(--sp-6); }   /* same section rhythm as everywhere else */
     .rad-rack { display:flex; flex-direction:column; gap:8px; padding:0; }
     .rad-st { display:flex; align-items:center; gap:12px; width:100%; text-align:left;
       background:var(--surface); border:1px solid var(--border); border-radius:var(--r-2);
@@ -682,7 +682,10 @@
     .email-err { color:var(--accent); font-size:var(--fs-sm); margin-top:10px; min-height:1.2em; }
 
     /* player dock — media bar (video left when expanded, controls + scrubber centered) */
-    .dock { position:fixed; left:0; right:0; bottom:0; z-index:60; background:#15131a; border-top:2px solid var(--accent); transform:translateY(115%); transition:transform .32s cubic-bezier(.4,0,.2,1); box-shadow:0 -14px 44px rgba(0,0,0,0.5); }
+    /* The dock is part of the page, not a foreign panel: it uses the page ground,
+       not the neutral #15131a it shipped with. That grey read as a different app
+       sitting on top of a purple site — the hue was the whole tell. */
+    .dock { position:fixed; left:0; right:0; bottom:0; z-index:60; background:var(--bg); border-top:2px solid var(--accent); transform:translateY(115%); transition:transform var(--dur-3) var(--ease-emphasized); box-shadow:0 -14px 44px rgba(0,0,0,0.5); }
     .dock.show { transform:translateY(0); }
     .panel { position:relative; padding:16px 22px calc(16px + env(safe-area-inset-bottom)); }
     .corner { position:absolute; top:12px; right:14px; display:flex; gap:6px; z-index:3; }
@@ -1097,13 +1100,17 @@
     /* Page title (style C): big Bricolage title + short coral underline. */
     /* DS: page title — large display headline (~2× the old size), clamped for mobile. Global. */
     .page-title { font-family:var(--head); font-weight:800; font-size:clamp(2.5rem, 7vw, 4rem); letter-spacing:-0.04em; line-height:1.0; margin:0 0 18px; }
-    .sub { color:var(--muted); font-size:var(--fs-base); line-height:1.55; }   /* page subtitle — was unstyled (rendered full-brightness) */
+    .sub { color:var(--muted); font:500 var(--fs-base)/var(--lh-base) var(--body); margin:0 0 var(--sp-4); }   /* page subtitle — the 16px bottom gap was pasted inline at 4 call sites; it belongs here */
     .page-title::after { content:""; display:block; width:72px; height:6px; background:var(--accent); border-radius:var(--radius-2xs); margin-top:14px; }
     /* Section header (style 1): coral tick + title + count pill, control pushed right. */
     /* DS: section header (continent tags, "Find your venue", "Venues", shelves…) — ~2× larger. Global. */
     /* section header — CONVERGED to one look (matches .pf-h / .pb-p-head): head title + mono count
        + accent action; accent bar dropped, count pill → mono text so every header reads the same. */
-    .sec-h { font-family:var(--head); font-weight:800; font-size:var(--fs-md); letter-spacing:-0.01em; margin:0 0 14px; display:flex; align-items:center; gap:10px; line-height:1.1; }
+    .sec-h { font-family:var(--head); font-weight:800; font-size:var(--fs-md); letter-spacing:-0.01em; margin:0 0 var(--sp-4); display:flex; align-items:center; gap:10px; line-height:1.1; }
+    /* The ONE section rhythm. Every rail that follows another gets exactly this;
+       a heading that opens a page omits .gap. Previously each caller passed its
+       own inline margin-top and they had drifted to four different values. */
+    .sec-h.gap { margin-top:var(--sp-6); }
     .sec-h .ct { font:600 var(--fs-2xs)/var(--lh-2xs) var(--font-mono); color:var(--muted); letter-spacing:.1em; padding:0; }
     .sec-h .more { margin-left:auto; font:700 var(--fs-xs)/var(--lh-xs) var(--body); letter-spacing:0; text-transform:none; color:var(--accent); cursor:pointer; }
     .sec-h .ev-radio { margin-left:auto; }
@@ -2090,7 +2097,7 @@
     /* Liquid-glass floating tab bar (iOS) — also the cross-platform
        glassmorphism look on Android Chrome via backdrop-filter. */
     .bnav { display:none; position:fixed; left:16px; right:16px; bottom:calc(10px + env(safe-area-inset-bottom)); z-index:70; border-radius:var(--radius-xl); padding:4px 5px; gap:2px;
-      background:rgba(30,28,36,0.42);
+      background:rgba(22,16,42,0.42);
       backdrop-filter:blur(30px) saturate(200%); -webkit-backdrop-filter:blur(30px) saturate(200%);
       border:1px solid rgba(255,255,255,0.14);
       box-shadow:0 8px 26px rgba(0,0,0,0.38), inset 0 1px 0 rgba(255,255,255,0.22), inset 0 -1px 1px rgba(0,0,0,0.22); }
@@ -2112,7 +2119,7 @@
       /* Player + nav = ONE merged glass unit: the player card sits flush on top
          of the nav, sharing the same glass; only the outer corners round. */
       .dock { left:16px; right:16px; bottom:calc(62px + env(safe-area-inset-bottom)); z-index:69;   /* 62 (not 66) so the dock's square bottom tucks ~4px behind the nav (z70) — no seam, one glass unit */
-        background:rgba(30,28,36,0.55); backdrop-filter:blur(30px) saturate(200%); -webkit-backdrop-filter:blur(30px) saturate(200%);
+        background:rgba(22,16,42,0.55); backdrop-filter:blur(30px) saturate(200%); -webkit-backdrop-filter:blur(30px) saturate(200%);
         border:1px solid rgba(255,255,255,0.14); border-bottom:none; border-radius:var(--r-3) var(--r-3) 0 0;
         box-shadow:0 -6px 22px rgba(0,0,0,0.28); overflow:hidden;
         transform:translateY(calc(100% + 76px + env(safe-area-inset-bottom))); }  /* hidden: clear the 66px bottom offset too */
@@ -2123,7 +2130,7 @@
          flush on top of the nav (not a floating corner pill). */
       body.radio-on .fab-stack { left:16px; right:16px; bottom:calc(62px + env(safe-area-inset-bottom)); z-index:69; display:flex; align-items:stretch; gap:0; }   /* match the dock: tuck ~4px behind the nav, no seam */
       body.radio-on .radio-fab { width:100%; max-width:none; padding:11px 14px; border-radius:var(--r-3) var(--r-3) 0 0; border:1px solid rgba(255,255,255,0.14); border-bottom:none;
-        background:rgba(30,28,36,0.55); backdrop-filter:blur(30px) saturate(200%); -webkit-backdrop-filter:blur(30px) saturate(200%);
+        background:rgba(22,16,42,0.55); backdrop-filter:blur(30px) saturate(200%); -webkit-backdrop-filter:blur(30px) saturate(200%);
         box-shadow:0 -6px 22px rgba(0,0,0,0.28); color:var(--accent); }
       body.radio-on .radio-fab .rf-tx { flex:1; min-width:0; }
       body.radio-on .radio-fab .rf-t, body.radio-on .radio-fab .rf-sub { max-width:none; }
@@ -2134,7 +2141,7 @@
        dock (no bottom nav here, so it sits at the very bottom like .dock). */
     @media (min-width:621px){
       body.radio-on .fab-stack { left:0; right:0; bottom:0; z-index:60; display:flex; align-items:stretch; }
-      body.radio-on .radio-fab { width:100%; max-width:none; border:none; border-top:2px solid var(--accent); border-radius:0; background:#15131a; padding:13px 22px; box-shadow:0 -14px 44px rgba(0,0,0,0.5); color:var(--accent); }
+      body.radio-on .radio-fab { width:100%; max-width:none; border:none; border-top:2px solid var(--accent); border-radius:0; background:var(--bg); padding:13px 22px; box-shadow:0 -14px 44px rgba(0,0,0,0.5); color:var(--accent); }
       /* web: artist name + "next playing at venue" share one row (mobile stays stacked) */
       body.radio-on .radio-fab .rf-tx { flex:1; min-width:0; flex-direction:row; align-items:baseline; gap:16px; }
       body.radio-on .radio-fab .rf-t, body.radio-on .radio-fab .rf-sub { max-width:none; }
@@ -2230,7 +2237,7 @@
     /* venue map */
     /* isolate traps Leaflet's high internal z-indexes (panes/controls/popups ~200–1000)
        in the map's own stacking context, so the player dock (z-index 60) always sits on top. */
-    .venue-map { width:100%; height:min(72vh,640px); border-radius:var(--radius-md); overflow:hidden; border:1px solid var(--border); background:#15131a; position:relative; z-index:0; isolation:isolate; }
+    .venue-map { width:100%; height:min(72vh,640px); border-radius:var(--radius-md); overflow:hidden; border:1px solid var(--border); background:var(--bg); position:relative; z-index:0; isolation:isolate; }
     .venue-map .leaflet-tile-pane { filter:saturate(0.9); }
     .leaflet-popup-content-wrapper, .leaflet-popup-tip { background:var(--surface); color:var(--fg); box-shadow:0 8px 24px rgba(0,0,0,0.5); }
     .leaflet-popup-content { font:500 var(--fs-base)/var(--lh-base) var(--body); margin:11px 13px; }
@@ -3679,7 +3686,7 @@
   <!-- Umami analytics. defer so it never blocks first paint; the SPA rewrites
        history on navigation, which umami picks up automatically. -->
   <script defer src="https://cloud.umami.is/script.js" data-website-id="de210b6c-12e4-4819-95f6-f5120974855a"></script>
-<meta name="sc-build" content="1785260383720">
+<meta name="sc-build" content="1785293173294">
 </head>
 <body>
   <main class="wrap">
@@ -3728,7 +3735,7 @@
     <div class="grid" id="grid"></div>
     <!-- Per-city "what's on this week" date links, injected by build-club (canonical
          /<city>/<date>/ pages). Empty in the source; hidden on client-side city switch. -->
-    <section id="home-seo-more" class="home-seo-more" data-city="london"><h2>What&rsquo;s on in London this week</h2><ul class="home-seo-dates"><li><a href="/london/2026-07-28/">Tue 28 Jul <span class="c">4 events</span></a></li><li><a href="/london/2026-07-29/">Wed 29 Jul <span class="c">13 events</span></a></li><li><a href="/london/2026-07-30/">Thu 30 Jul <span class="c">28 events</span></a></li><li><a href="/london/2026-07-31/">Fri 31 Jul <span class="c">94 events</span></a></li><li><a href="/london/2026-08-01/">Sat 1 Aug <span class="c">121 events</span></a></li><li><a href="/london/2026-08-02/">Sun 2 Aug <span class="c">37 events</span></a></li><li><a href="/london/2026-08-05/">Wed 5 Aug <span class="c">5 events</span></a></li></ul><nav class="home-seo-nav" aria-label="More on soundcheck"><a href="/london/this-weekend/">This weekend in London</a> <a href="/london/scene/">London scene guide</a> <a href="/cities/">All 104 cities</a></nav></section>
+    <section id="home-seo-more" class="home-seo-more" data-city="london"><h2>What&rsquo;s on in London this week</h2><ul class="home-seo-dates"><li><a href="/london/2026-07-29/">Wed 29 Jul <span class="c">13 events</span></a></li><li><a href="/london/2026-07-30/">Thu 30 Jul <span class="c">28 events</span></a></li><li><a href="/london/2026-07-31/">Fri 31 Jul <span class="c">95 events</span></a></li><li><a href="/london/2026-08-01/">Sat 1 Aug <span class="c">121 events</span></a></li><li><a href="/london/2026-08-02/">Sun 2 Aug <span class="c">37 events</span></a></li><li><a href="/london/2026-08-05/">Wed 5 Aug <span class="c">5 events</span></a></li><li><a href="/london/2026-08-06/">Thu 6 Aug <span class="c">27 events</span></a></li></ul><nav class="home-seo-nav" aria-label="More on soundcheck"><a href="/london/this-weekend/">This weekend in London</a> <a href="/london/scene/">London scene guide</a> <a href="/cities/">All 104 cities</a></nav></section>
 
     <!-- Crawlable home content (H1 + intro) — moved to the bottom of the page. Still a real
          <h1> in the DOM so it's the page heading for SEO regardless of visual position.
@@ -4345,6 +4352,7 @@
     (function(){ var b=document.getElementById('dock-tl-btn'); if(b) b.addEventListener('click',openTracklistSheet); })();
     function stopActive(){
       if(typeof radio!=='undefined' && radio.on) radioStop();
+      _curStation=null;   // nothing is on air once the dock is torn down
       scQ=null;
       curTracklist=[]; curVideoId=null; dock.classList.remove('has-tl');
       if(!active) return;
@@ -4640,6 +4648,26 @@
     }
     // Join the broadcast where it is right now (mid-set). If the scheduled
     // artist has no findable set, fall forward to the next who does.
+    // Every station — weekend, event, shelf — plays through the SAME dock as a
+    // tapped set. There is one player in this app; "radio" is a queue, not a
+    // second playback mode.
+    //
+    // The old path had its own hidden iframe and its own bottom bar, and relied
+    // on prewarming a player then unlocking it with the tap. That handshake is
+    // what made radio silently not play: any station started without a direct
+    // user gesture on the same tick (a fetch resolving first, an await, the
+    // async station build) lost the gesture and autoplay was refused — no error,
+    // just silence. Handing the queue to playYtList removes the whole mechanism.
+    function radioHandOff(){
+      if(!radio.on || !radio.queue.length) return;
+      // Join the broadcast where the city is: the same DJ everyone else hears.
+      var start = 0;
+      try { start = broadcastPos(radio.queue.length).idx || 0; } catch (_) {}
+      var q = radio.queue.slice(), st = radio.station;   // playYtList tears down radio.*
+      playYtList(q, start);
+      _curStation = st;                                  // ...so record the station AFTER
+      if(_radRepaint) try{ _radRepaint(); }catch(_){}     // light the row that's now on air
+    }
     async function radioTuneIn(startIdx){
       if(!radio.on) return;
       var i=(startIdx!=null?startIdx:broadcastPos(radio.queue.length).idx), tries=0; // which DJ is "on now" for the city
@@ -4705,7 +4733,9 @@
       // time on mobile this only succeeds when called from a tap.
       if(radioYt && radioWidgetReady){ try{ radioYt.loadVideoById({ videoId:entry.yt, startSeconds:360 }); }catch(_){} }
       else { radioBuildWidget(entry, function(){ try{ radioYt.playVideo(); }catch(_){} }); }
-      document.body.classList.add('radio-on');
+      // NOT adding body.radio-on: the separate radio bar is retired. Stations play
+      // in the shared dock (see radioHandOff). Left here only because this legacy
+      // path is still reachable from radioAdvance's ENDED handler on an old session.
       radioFabUpdate(entry);
       if(_radRepaint) try{ _radRepaint(); }catch(_){}
       if(radio.tick) clearInterval(radio.tick);
@@ -4772,14 +4802,14 @@
         radio.on=true; radio.i=-1; radio.station='weekend';
         radioWarm.queue=radio.queue; radioWarm.key=key; // remember for next time
         if(hb) hb.classList.add('on');
-        radioTuneIn();
+        radioHandOff();
       }catch(err){ showToast('Radio error: '+((err&&err.message)||err)); try{ radioHeroReset(); }catch(_){} }
     }
     // Per-event station: the event's own lineup as a little broadcast — same
     // wall-clock rules, so "tune in" joins whatever of the lineup is on now.
     async function startEventRadio(ev){
       if(!ev || !(ev.artists||[]).length){ showToast('No lineup to play yet.'); return; }
-      if(radio.on && radio.station==='event:'+ev.id){ stopActive(); return; } // toggle off
+      if(radioStationOn('event:'+ev.id)){ stopActive(); return; }   // toggle off (dock queue is the truth)
       if(!(await gateForPlay())) return;
       var q=[];
       (ev.artists||[]).forEach(function(a){
@@ -4791,18 +4821,18 @@
       radio.queue=seededShuffle(q, 'ev|'+ev.id);
       radio.on=true; radio.i=-1; radio.station='event:'+ev.id;
       var hb=document.getElementById('hero-radio'); if(hb) hb.classList.add('on');
-      radioTuneIn();
+      radioHandOff();
     }
     // Station from an arbitrary artist list — e.g. a profile's wanna-see / seen shelf.
     async function startListRadio(list, stationId){
       list=(list||[]).filter(function(a){ return a && a.slug; });
       if(!list.length){ showToast('No artists to play yet.'); return; }
-      if(radio.on && radio.station===stationId){ stopActive(); return; } // toggle off
+      if(radioStationOn(stationId)){ stopActive(); return; }   // toggle off (dock queue is the truth)
       if(!(await gateForPlay())) return;
       var q=list.map(function(a){ return { slug:a.slug, name:a.name||a.slug, yt:null, tried:false, venue:'', day:'', poster:a.image||'', eventId:null }; });
       stopActive();
       radio.queue=seededShuffle(q, stationId); radio.on=true; radio.i=-1; radio.station=stationId;
-      radioTuneIn();
+      radioHandOff();
     }
 
     // "More music" — play an event's line-up as a radio station from anywhere an event
@@ -4884,7 +4914,13 @@
                from:days[0], to:days[2], cityPosters:city.map(function(c){ return c.poster; }).filter(Boolean).slice(0,4) };
       return _wkIdx;
     }
-    function radioStationOn(id){ return radio.on && radio.station===id; }
+    // Which station is on air. Tracked separately from `radio.on` because playback
+    // now lives in the dock: handing the queue over runs the dock's own teardown,
+    // which clears radio.* — so the old `radio.on && radio.station===id` test went
+    // false the instant a station started, and no row ever showed as playing.
+    // The dock queue (scQ) is the source of truth for "is anything playing".
+    var _curStation=null;
+    function radioStationOn(id){ return !!(_curStation && _curStation===id && scQ && scQ.length); }
     var _radRepaint=null;   // set while the radio page is mounted (see renderRadioPage)
     async function openRadio(){
       setRoute('radio');
@@ -5840,7 +5876,7 @@
     function openMyPicks(){
       setRoute('picks');
       var has=pickCount()>0;
-      var h='<h2 class="page-title">My picks</h2><div class="sub" style="margin-bottom:14px">'+(currentUser?('Synced to u/'+esc(currentUser.handle)+' across your devices.'):'Saved on this device &mdash; sign in to keep them.')+'</div>';
+      var h='<h2 class="page-title">My picks</h2><div class="sub">'+(currentUser?('Synced to u/'+esc(currentUser.handle)+' across your devices.'):'Saved on this device &mdash; sign in to keep them.')+'</div>';
       if(has) h+='<div style="display:flex;gap:9px;margin-bottom:20px;max-width:520px"><button class="btn solid" id="mp-share" type="button" style="flex:1;border:none;border-radius:var(--radius-pill);background:var(--accent);color:var(--accent-ink);font:700 var(--fs-xs)/var(--lh-xs) var(--body);letter-spacing:0.08em;text-transform:uppercase;padding:11px;cursor:pointer">Share my picks</button><button class="btn ghost" id="mp-copy" type="button" style="flex:1;background:transparent;color:var(--fg);border:1px solid var(--border);border-radius:var(--radius-pill);font:700 var(--fs-xs)/var(--lh-xs) var(--body);letter-spacing:0.08em;text-transform:uppercase;padding:11px;cursor:pointer">Copy link</button></div>';
       var hasArt=Object.keys(picks.artists).length>0;
       if(hasArt) h+='<button class="tc-cta" id="mp-taste" type="button">◆ Share your taste card</button>';
@@ -6573,9 +6609,9 @@
       }); });
       // Saved events → poster rail; following venues → venue-card rail (city-scene look)
       var evBox=body.querySelector('#shelf-events');
-      if(evBox && s.events && s.events.length) mountEventRail(evBox, s.events.map(function(e){ return { id:e.id, title:e.title, venue:e.venue, event_date:e.day||e.event_date, poster_url:e.poster_url, lineup:e.lineup }; }), { title:'Interested', count:s.events.length, mt:'22px' });
+      if(evBox && s.events && s.events.length) mountEventRail(evBox, s.events.map(function(e){ return { id:e.id, title:e.title, venue:e.venue, event_date:e.day||e.event_date, poster_url:e.poster_url, lineup:e.lineup }; }), { title:'Interested', count:s.events.length, mt:1 });
       var vnBox=body.querySelector('#shelf-venues');
-      if(vnBox && s.venues && s.venues.length) mountVenueRail(vnBox, s.venues.map(function(v){ return { venue:v.name, venue_slug:v.slug, image:v.image }; }), { title:'Following venues', count:s.venues.length, mt:'22px' });
+      if(vnBox && s.venues && s.venues.length) mountVenueRail(vnBox, s.venues.map(function(v){ return { venue:v.name, venue_slug:v.slug, image:v.image }; }), { title:'Following venues', count:s.venues.length, mt:1 });
       body.querySelectorAll('[data-shelf-radio]').forEach(function(b){ b.addEventListener('click',function(e){ e.stopPropagation(); var w=b.dataset.shelfRadio; startListRadio(w==='wanna'?s.wannaSee:s.seen, 'shelf:'+handle+':'+w).then(function(){ var st='shelf:'+handle+':'+w; var sp=b.querySelector('span'); if(sp) sp.textContent=(radio.on&&radio.station===st)?'On air':'Radio'; }); }); });
     }
     // ══════════════ Profile v2 — share-first "passport" (pb) ══════════════
@@ -7483,7 +7519,18 @@
     // One builder per rail type, shared by Discover and every city scene guide. Edit the
     // markup or behaviour here and it changes everywhere the rail is used. Each renders a
     // section header + the .srail strip into `el` and wires its own clicks/plays.
-    function secH(title, mt, extra){ if(!title && !extra) return ''; return '<div class="sec-h"'+(mt?(' style="margin-top:'+mt+'"'):'')+'>'+esc(title||'')+(extra||'')+'</div>'; }
+    // Section heading. `gap` is a BOOLEAN, not a length: truthy = "this section
+    // follows another, give it the standard section gap", falsy = "this opens the
+    // page, sit tight under the header".
+    //
+    // It used to take a CSS length and paste it inline, so every caller invented
+    // its own: 8px, 20px, 24px and 26px were all in play at once and Discover
+    // showed three different section gaps down one screen. One token, one rule —
+    // a heading can no longer carry a bespoke margin.
+    function secH(title, gap, extra){
+      if(!title && !extra) return '';
+      return '<div class="sec-h'+(gap?' gap':'')+'">'+esc(title||'')+(extra||'')+'</div>';
+    }
     // Shimmer placeholder for a rail while its data loads — reserves the exact tile size so
     // nothing jumps, then the real rail (.srail-anim) eases in over it. opts:{kind,n,title,mt,wide}.
     function railSkeleton(el, opts){
@@ -7573,11 +7620,11 @@
     // Fallback events rail — what's on in the current city (no personalisation), so the
     // page always has events even before there's any taste to score against.
     function loadCityUpcoming(box){
-      dcScene().then(function(s){ mountEventRail(box, (s.upcomingEvents||[]), {title:'Upcoming in '+cityMeta().name, mt:'8px'}); });
+      dcScene().then(function(s){ mountEventRail(box, (s.upcomingEvents||[]), {title:'Upcoming in '+cityMeta().name, mt:0}); });
     }
     // Venues rail — the venues in the current city (reuses mountVenueRail, same as the guide).
     function loadDcVenues(){
-      dcScene().then(function(s){ mountVenueRail(document.getElementById('dc-venues'), (s.bestVenues||[]), {title:'Venues in '+cityMeta().name, city:currentCity, mt:'24px'}); });
+      dcScene().then(function(s){ mountVenueRail(document.getElementById('dc-venues'), (s.bestVenues||[]), {title:'Venues in '+cityMeta().name, city:currentCity, mt:1}); });
     }
     // For-you rail — personalised event posters (match % + play the line-up as a youtube
     // queue). Resolves the taste-CTA, and falls back to city-upcoming when there's nothing
@@ -7590,7 +7637,7 @@
         renderTasteCTA(true); // has taste → no prompt
         var evs=j.events||[];
         if(!evs.length){ loadCityUpcoming(box); return; } // onboarded but nothing scored here
-        mountEventRail(box, evs, {title:'For you', withMatch:true, mt:'8px'});
+        mountEventRail(box, evs, {title:'For you', withMatch:true, mt:0});
       }).catch(function(){ loadCityUpcoming(box); });
     }
     async function openDiscover(){
@@ -7600,17 +7647,17 @@
       try{
         var r=await authedFetch('/api/discover'); var j=await r.json();
         var arts=j.artists||[];
-        var h='<h2 class="page-title">Discover</h2><div class="sub" style="margin-bottom:16px">Tonight, tuned to you.</div>';
+        var h='<h2 class="page-title">Discover</h2><div class="sub">Tonight, tuned to you.</div>';
         h+='<div id="dc-taste"></div><div id="dc-feed"></div><div id="dc-artists"></div><div id="dc-recs"></div><div id="dc-venues"></div><div id="dc-scenes"></div>';
         openPanel(h);
         // Reserve each async rail's space with a shimmer skeleton so nothing jumps; the real
         // content eases in (.srail-anim) as each fetch resolves.
-        railSkeleton(document.getElementById('dc-feed'), { kind:'event', n:5, mt:'8px' });
-        railSkeleton(document.getElementById('dc-venues'), { kind:'venue', n:4, title:'Venues in '+cityMeta().name, mt:'24px' });
-        railSkeleton(document.getElementById('dc-scenes'), { kind:'venue', n:6, title:'Scene guides', mt:'24px' });
+        railSkeleton(document.getElementById('dc-feed'), { kind:'event', n:5, mt:0 });
+        railSkeleton(document.getElementById('dc-venues'), { kind:'venue', n:4, title:'Venues in '+cityMeta().name, mt:1 });
+        railSkeleton(document.getElementById('dc-scenes'), { kind:'venue', n:6, title:'Scene guides', mt:1 });
         // Same template as the artist page's "More like X": round wide tiles + next gig.
         // Artists arrive with the /api/discover payload, so this rail renders (and fades in) now.
-        mountArtistRail(document.getElementById('dc-artists'), arts.map(function(x){ return { slug:x.slug, name:x.name, image:x.image, nextDate:(x.next&&x.next.event_date)||null, nextVenue:(x.next&&x.next.venue)||null, nextCity:(x.next&&x.next.city)||null }; }), {title:'Artists for you', wrap:true, wide:true, mt:'24px', emptyLabel:'No upcoming dates'}); // wraps on web, scrolls on mobile
+        mountArtistRail(document.getElementById('dc-artists'), arts.map(function(x){ return { slug:x.slug, name:x.name, image:x.image, nextDate:(x.next&&x.next.event_date)||null, nextVenue:(x.next&&x.next.venue)||null, nextCity:(x.next&&x.next.city)||null }; }), {title:'Artists for you', wrap:true, wide:true, mt:1, emptyLabel:'No upcoming dates'}); // wraps on web, scrolls on mobile
         loadDcVenues();          // venues in the current city
         loadDcScenes();          // scene-guides entry rail
         loadForYou();            // for-you posters (toggles the taste prompt; city fallback otherwise)
@@ -7620,7 +7667,7 @@
         if(currentUser){
           authedFetch('/api/recs').then(function(r){ return r.ok?r.json():null; }).then(function(j){
             var list=(j&&j.artists)||[]; if(!list.length) return;
-            mountArtistRail(document.getElementById('dc-recs'), list.map(function(x){ return { slug:x.slug, name:x.name, image:x.image, nextDate:(x.next&&x.next.event_date)||null, nextVenue:(x.next&&x.next.venue)||null, nextCity:(x.next&&x.next.city)||null }; }), {title:'Rated by people with your taste', wrap:true, wide:true, mt:'24px', emptyLabel:'No upcoming dates'});
+            mountArtistRail(document.getElementById('dc-recs'), list.map(function(x){ return { slug:x.slug, name:x.name, image:x.image, nextDate:(x.next&&x.next.event_date)||null, nextVenue:(x.next&&x.next.venue)||null, nextCity:(x.next&&x.next.city)||null }; }), {title:'Rated by people with your taste', wrap:true, wide:true, mt:1, emptyLabel:'No upcoming dates'});
           }).catch(function(){});
         }
       }catch(_){ openPanel('<h2 class="page-title">Discover</h2><div class="empty">Couldn&rsquo;t load Discover.</div>'); }
@@ -7736,7 +7783,7 @@
     async function openMap(){
       setRoute('map');
       var cm=cityMeta();
-      showPage('<h2 class="page-title">Venue map</h2><div class="sub" style="margin-bottom:14px">'+esc(cm.name)+' clubs &amp; venues with upcoming nights &mdash; tap a pin.</div><div id="venue-map" class="venue-map"></div>');
+      showPage('<h2 class="page-title">Venue map</h2><div class="sub">'+esc(cm.name)+' clubs &amp; venues with upcoming nights &mdash; tap a pin.</div><div id="venue-map" class="venue-map"></div>');
       mountVenueMap(document.getElementById('venue-map'), currentCity, { center:[cm.lat||51.5074, cm.lng||-0.1278] });
     }
     // Reusable club map: CARTO dark tiles + hybrid dot/date-pill markers from /api/venues/map
@@ -8106,7 +8153,7 @@
       try{
         var r=await authedFetch('/api/scenes'); var j=await r.json();
         var cs=j.cities||[];
-        var h='<h2 class="page-title">Scene guides</h2><div class="sub" style="margin-bottom:18px">Pick a city — the clubs, the sounds, and who&rsquo;s playing this month.</div>';
+        var h='<h2 class="page-title">Scene guides</h2><div class="sub">Pick a city — the clubs, the sounds, and who&rsquo;s playing this month.</div>';
         var byCont={};
         cs.forEach(function(c){ var k=SCENE_CONT[(c.country||'').toUpperCase()]||'Other'; (byCont[k]=byCont[k]||[]).push(c); });
         SCENE_CONT_ORDER.forEach(function(k){ var list=byCont[k]; if(!list||!list.length) return;
@@ -8133,7 +8180,7 @@
       try{
         var r=await authedFetch('/api/city/scene?city='+encodeURIComponent(city)); var s=await r.json();
         var nm=s.cityName||city;
-        var h='<button class="scene-back" id="cs-all" type="button">&larr; All scene guides</button><h2 class="page-title">'+esc(nm)+' scene guide</h2><div class="sub" style="margin-bottom:16px">Who&rsquo;s playing, the venues they&rsquo;re in, and what&rsquo;s on — hit play on anything.</div>';
+        var h='<button class="scene-back" id="cs-all" type="button">&larr; All scene guides</button><h2 class="page-title">'+esc(nm)+' scene guide</h2><div class="sub">Who&rsquo;s playing, the venues they&rsquo;re in, and what&rsquo;s on — hit play on anything.</div>';
         h+='<div id="cs-playing"></div><div id="cs-posters"></div><div id="cs-venues"></div><div id="cs-routes"></div>';
         h+='<div class="sec-h" style="margin-top:26px">On the map</div><div id="cs-map" class="cs-map-hero"></div><div class="cs-map-cap">The busiest venues in '+esc(nm)+' — clubs with 5+ upcoming nights. Tap a pin.</div>';
         openPanel(h);
@@ -8143,9 +8190,9 @@
         // Playing this month / Upcoming / Venues — all three reuse the shared rail builders.
         // Same round-tile template as the other artist rails, but the subtitle is just the
         // venue name (no date/city — the guide is already city-scoped).
-        mountArtistRail(document.getElementById('cs-playing'), (s.playing||[]), { title:'Playing this month', city:city, mt:'20px', wide:true });
-        mountEventRail(document.getElementById('cs-posters'), (s.upcomingEvents||[]), { title:'Upcoming', mt:'26px' });
-        mountVenueRail(document.getElementById('cs-venues'), (s.bestVenues||[]), { title:'Venues', city:city, mt:'26px' });
+        mountArtistRail(document.getElementById('cs-playing'), (s.playing||[]), { title:'Playing this month', city:city, mt:1, wide:true });
+        mountEventRail(document.getElementById('cs-posters'), (s.upcomingEvents||[]), { title:'Upcoming', mt:1 });
+        mountVenueRail(document.getElementById('cs-venues'), (s.bestVenues||[]), { title:'Venues', city:city, mt:1 });
 
         // Find your venue (sound → venues)
         var yr=(s.yourRoutes||[]), rts=(s.routes||[]), croute=document.getElementById('cs-routes');
@@ -8563,7 +8610,7 @@
     function logFormHTML(){
       return '<h2 class="page-title">Log a gig</h2>'+
         (_logHint?'<div class="lg-hint"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M20 6 9 17l-5-5"/></svg>Find the night you '+(_logHintAt?'had at':'caught')+' <b>'+esc(_logHint)+'</b></div>':'')+
-        '<div class="sub" style="margin-bottom:16px">Find the night you went to &mdash; pick it and the venue &amp; lineup fill themselves in.</div>'+
+        '<div class="sub">Find the night you went to &mdash; pick it and the venue &amp; lineup fill themselves in.</div>'+
         '<div style="max-width:600px">'+
           '<div class="pf-box">'+
             '<div class="lg-field" style="margin-bottom:12px"><label>City</label>'+cityPickerHTML('lg-city', currentCity)+'</div>'+
@@ -9287,7 +9334,7 @@
     var imArtists=[];
     function importFormHTML(){
       return '<h2 class="page-title">Add an event</h2>'+
-        '<div class="sub" style="margin-bottom:16px">On a ticket site we don&rsquo;t list yet? Paste the link &mdash; we&rsquo;ll grab what we can &mdash; then confirm the details and it goes live on soundcheck.</div>'+
+        '<div class="sub">On a ticket site we don&rsquo;t list yet? Paste the link &mdash; we&rsquo;ll grab what we can &mdash; then confirm the details and it goes live on soundcheck.</div>'+
         '<div style="max-width:540px">'+
           '<div class="lg-field"><label>Event link <small style="text-transform:none;letter-spacing:0;color:var(--muted)">(optional)</small></label>'+
             '<div style="display:flex;gap:8px"><input type="url" id="im-url" placeholder="https://…" autocomplete="off" style="flex:1"><button id="im-fetch" type="button" style="flex:0 0 auto;background:var(--surface-2);color:var(--fg);border:1px solid var(--border);border-radius:var(--radius);padding:0 16px;font:700 var(--fs-xs)/var(--lh-xs) var(--body);text-transform:uppercase;letter-spacing:0.08em;cursor:pointer">Fetch</button></div>'+

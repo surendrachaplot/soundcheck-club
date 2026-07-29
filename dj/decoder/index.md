@@ -1,6 +1,6 @@
 # Decoder
 
-Decoder is a Techno and Minimal Techno artist with 3 upcoming club dates listed on soundcheck as of Tue, 28 Jul 2026, next at RADION, Amsterdam on Sat, 1 Aug 2026.
+Decoder is a Techno and Minimal Techno artist with 3 upcoming club dates listed on soundcheck as of Wed, 29 Jul 2026, next at RADION, Amsterdam on Sat, 1 Aug 2026.
 
 Decoder is a techno and minimal techno artist tracked on soundcheck, with 80 sets logged across Amsterdam, Athens, Austin and Barcelona and 28 more. Often billed alongside jay york, Barbosa and Lindsey Herbert. Next up: RADION, Amsterdam on Sat 1 Aug.
 
@@ -27,4 +27,4 @@ Decoder is a techno and minimal techno artist tracked on soundcheck, with 80 set
 
 jay york, Barbosa, Lindsey Herbert
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/decoder/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/decoder/)*

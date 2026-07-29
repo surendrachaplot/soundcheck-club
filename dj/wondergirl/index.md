@@ -1,6 +1,6 @@
 # WÖNDER GIRL
 
-WÖNDER GIRL is a Techno and Bass artist with 1 upcoming club date listed on soundcheck as of Tue, 28 Jul 2026, next at Teranoma Tidepool, Osaka on Sat, 1 Aug 2026.
+WÖNDER GIRL is a Techno and Bass artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at Teranoma Tidepool, Osaka on Sat, 1 Aug 2026.
 
 WÖNDER GIRL is a techno and bass artist based in Japan, tracked on soundcheck, with 12 sets logged across Kyoto and Osaka. Often billed alongside Chiaki Uehira, Lhinen and ZAGUN. Next up: Teranoma Tidepool, Osaka on Sat 1 Aug.
 
@@ -25,4 +25,4 @@ WÖNDER GIRL is a techno and bass artist based in Japan, tracked on soundcheck, 
 
 Chiaki Uehira, Lhinen, ZAGUN
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/wondergirl/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/wondergirl/)*

@@ -1,6 +1,6 @@
 # Speed.FM
 
-Speed.FM is a Techno and Club artist with 1 upcoming club date listed on soundcheck as of Tue, 28 Jul 2026, next at Red Gate Arts Society, Vancouver on Sat, 1 Aug 2026.
+Speed.FM is a Techno and Club artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at Red Gate Arts Society, Vancouver on Sat, 1 Aug 2026.
 
 Speed.FM is a techno and club artist based in United States of America, tracked on soundcheck, with 8 sets logged across Philadelphia, Vancouver and Washingtondc. Often billed alongside Obreezy Beats, RESONATE.JPEG and Abby J.. Next up: Red Gate Arts Society, Vancouver on Sat 1 Aug.
 
@@ -24,4 +24,4 @@ Speed.FM is a techno and club artist based in United States of America, tracked 
 
 Obreezy Beats, RESONATE.JPEG, Abby J.
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/speed.fm/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/speed.fm/)*

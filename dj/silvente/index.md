@@ -1,6 +1,6 @@
 # Silvente
 
-Silvente is a House and Electro artist with 2 upcoming club dates listed on soundcheck as of Tue, 28 Jul 2026, next at TBA - Rasquera, Terres de l'Ebre, provincia de Tarragona, Barcelona on Wed, 12 Aug 2026.
+Silvente is a House and Electro artist with 2 upcoming club dates listed on soundcheck as of Wed, 29 Jul 2026, next at TBA - Rasquera, Terres de l'Ebre, provincia de Tarragona, Barcelona on Wed, 12 Aug 2026.
 
 Silvente is a house and electro artist based in Spain, tracked on soundcheck, with 15 sets logged across Barcelona, London and Tallinn. Often billed alongside DJ Service, Driahn and Liang Carrillo. Next up: TBA - Rasquera, Terres de l'Ebre, provincia de Tarragona, Barcelona on Wed 12 Aug.
 
@@ -26,4 +26,4 @@ Silvente is a house and electro artist based in Spain, tracked on soundcheck, wi
 
 DJ Service, Driahn, Liang Carrillo
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/silvente/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/silvente/)*

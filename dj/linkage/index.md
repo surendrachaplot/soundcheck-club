@@ -1,6 +1,6 @@
 # Linkage
 
-Linkage is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Tue, 28 Jul 2026, next at Sooki Lounge, Melbourne on Sat, 8 Aug 2026.
+Linkage is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at Sooki Lounge, Melbourne on Sat, 8 Aug 2026.
 
 Linkage is a techno and house artist based in Australia, tracked on soundcheck, with 2 sets logged across Melbourne. Often billed alongside CAITY WATSON, ALIEN-A and Flud. Next up: Sooki Lounge, Melbourne on Sat 8 Aug.
 
@@ -18,4 +18,4 @@ Linkage is a techno and house artist based in Australia, tracked on soundcheck, 
 
 CAITY WATSON, ALIEN-A, Flud
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/linkage/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/linkage/)*

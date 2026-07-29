@@ -1,6 +1,6 @@
 # Turtle Bugg
 
-Turtle Bugg is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Tue, 28 Jul 2026, next at Locust Grove, New York City on Fri, 31 Jul 2026.
+Turtle Bugg is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at Locust Grove, New York City on Fri, 31 Jul 2026.
 
 Turtle Bugg is a techno and house artist tracked on soundcheck, with 46 sets logged across Chicago, Detroit, Newyorkcity and Toronto. Often billed alongside Shigeto, Kenjiro and Ryan Spencer. Next up: Locust Grove, Newyorkcity on Fri 31 Jul.
 
@@ -25,4 +25,4 @@ Turtle Bugg is a techno and house artist tracked on soundcheck, with 46 sets log
 
 Shigeto, Kenjiro, Ryan Spencer
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/turtlebugg/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/turtlebugg/)*

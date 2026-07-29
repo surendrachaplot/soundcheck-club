@@ -1,6 +1,6 @@
 # Ni-am
 
-Ni-am is a Trance and Bass artist with 2 upcoming club dates listed on soundcheck as of Tue, 28 Jul 2026, next at Dream Bags Jaguar Shoes, London on Fri, 31 Jul 2026.
+Ni-am is a Trance and Bass artist with 2 upcoming club dates listed on soundcheck as of Wed, 29 Jul 2026, next at Dream Bags Jaguar Shoes, London on Fri, 31 Jul 2026.
 
 Ni-am is a trance and bass artist based in United Kingdom, tracked on soundcheck, with 6 sets logged across London. Often billed alongside Alien Izz, Mary X and Sleepy Jean. Next up: Dream Bags Jaguar Shoes, London on Fri 31 Jul.
 
@@ -22,4 +22,4 @@ Ni-am is a trance and bass artist based in United Kingdom, tracked on soundcheck
 
 Alien Izz, Mary X, Sleepy Jean
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/ni-am/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/ni-am/)*

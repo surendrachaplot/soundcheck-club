@@ -1,6 +1,6 @@
 # Phantom Bar Berlin
 
-Phantom Bar Berlin is a music venue in Berlin with 3 upcoming nights listed on soundcheck as of Tue, 28 Jul 2026; the next is "Keyi Magazine Fundraiser with Chris Liebing, Alinka, Eyes Dice & Berlin Bunny and More" on Thu, 30 Jul 2026.
+Phantom Bar Berlin is a music venue in Berlin with 3 upcoming nights listed on soundcheck as of Wed, 29 Jul 2026; the next is "Keyi Magazine Fundraiser with Chris Liebing, Alinka, Eyes Dice & Berlin Bunny and More" on Thu, 30 Jul 2026.
 
 Phantom Bar Berlin is a music venue in Berlin listed on soundcheck. 3 upcoming nights, with line-ups including A6IIR, Alinka, Berlin Bunny and BOTOX FATAL and 2 more. Browse upcoming dates, start times and who's playing. Torstraße 231, 10115 Berlin Germany.
 
@@ -16,4 +16,4 @@ Phantom Bar Berlin is a music venue in Berlin listed on soundcheck. 3 upcoming n
 
 Torstraße 231, 10115 Berlin Germany, Berlin
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/phantom-bar-berlin/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/phantom-bar-berlin/)*

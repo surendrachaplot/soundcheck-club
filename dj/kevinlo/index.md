@@ -1,6 +1,6 @@
 # Kevin Lo
 
-Kevin Lo is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Tue, 28 Jul 2026, next at Shelter Amsterdam, Amsterdam on Fri, 31 Jul 2026.
+Kevin Lo is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Wed, 29 Jul 2026, next at Shelter Amsterdam, Amsterdam on Fri, 31 Jul 2026.
 
 Kevin Lo is a house and techno artist based in Netherlands, tracked on soundcheck, with 33 sets logged across Amsterdam, Antwerp, Berlin and Cologne and 3 more. Often billed alongside Pelanoir, Eileen (NL) and Cyberboy. Next up: Shelter Amsterdam, Amsterdam on Fri 31 Jul.
 
@@ -26,4 +26,4 @@ Kevin Lo is a house and techno artist based in Netherlands, tracked on soundchec
 
 Pelanoir, Eileen (NL), Cyberboy
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/kevinlo/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/kevinlo/)*

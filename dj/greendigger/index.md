@@ -1,6 +1,6 @@
 # green digger
 
-green digger is a Garage and Bass artist with 1 upcoming club date listed on soundcheck as of Tue, 28 Jul 2026, next at Next Door Records Two, London on Sat, 1 Aug 2026.
+green digger is a Garage and Bass artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at Next Door Records Two, London on Sat, 1 Aug 2026.
 
 green digger is a garage and bass artist based in South Korea, tracked on soundcheck, with 19 sets logged across London and Seoul. Often billed alongside Dabin, Shins and Surge. Next up: Next Door Records Two, London on Sat 1 Aug.
 
@@ -25,4 +25,4 @@ green digger is a garage and bass artist based in South Korea, tracked on soundc
 
 Dabin, Shins, Surge
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/greendigger/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/greendigger/)*

@@ -1,6 +1,6 @@
 # Pako Vega
 
-Pako Vega is a Acid and Disco artist with 1 upcoming club date listed on soundcheck as of Tue, 28 Jul 2026, next at Paradise Palms, Edinburgh on Fri, 31 Jul 2026.
+Pako Vega is a Acid and Disco artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at Paradise Palms, Edinburgh on Fri, 31 Jul 2026.
 
 Pako Vega is an acid and disco artist based in Spain, tracked on soundcheck, with 18 sets logged across Berlin, Edinburgh, Glasgow and Leeds and 1 more. Often billed alongside Anna Vs June, Jan Van Angelopoulos and Slacky [Space Ritual]. Next up: Paradise Palms, Edinburgh on Fri 31 Jul.
 
@@ -25,4 +25,4 @@ Pako Vega is an acid and disco artist based in Spain, tracked on soundcheck, wit
 
 Anna Vs June, Jan Van Angelopoulos, Slacky [Space Ritual]
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/pakovega/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/pakovega/)*

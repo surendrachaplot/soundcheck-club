@@ -1,6 +1,6 @@
 # ERACLIO
 
-ERACLIO is a Dub Techno and Experimental artist with 1 upcoming club date listed on soundcheck as of Tue, 28 Jul 2026, next at TBA - Apiro, Marche IT, Milan on Thu, 30 Jul 2026.
+ERACLIO is a Dub Techno and Experimental artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at TBA - Apiro, Marche IT, Milan on Thu, 30 Jul 2026.
 
 ERACLIO is a dub techno and experimental artist tracked on soundcheck, with 1 set logged across Milan. Often billed alongside Al Paino, Amazon and Atoloi. Next up: TBA - Apiro, Marche IT, Milan on Thu 30 Jul.
 
@@ -14,4 +14,4 @@ ERACLIO is a dub techno and experimental artist tracked on soundcheck, with 1 se
 
 Al Paino, Amazon, Atoloi
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/eraclio/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/eraclio/)*

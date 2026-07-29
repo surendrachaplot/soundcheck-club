@@ -1,6 +1,6 @@
 # CYBERFUNK BERLIN at Urban Spree
 
-CYBERFUNK BERLIN at Urban Spree on Fri 28 Aug, Berlin. 6 acts on the bill: Flor Coto, Furz, Guile and LUKAS (4) and 2 more. House and Electro. Preview the line-up and save it on soundcheck.
+CYBERFUNK BERLIN at Urban Spree on Fri 28 Aug, Berlin. 7 acts on the bill: Flor Coto, Furz, Guile and Juli Gago and 3 more. House and Electro. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -13,6 +13,7 @@ CYBERFUNK BERLIN at Urban Spree on Fri 28 Aug, Berlin. 6 acts on the bill: Flor 
 - Flor Coto
 - Furz
 - Guile
+- Juli Gago
 - LUKAS (4)
 - Manu Oubiña
 - Szew

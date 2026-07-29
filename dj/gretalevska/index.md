@@ -1,6 +1,6 @@
 # Greta Levska
 
-Greta Levska is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Tue, 28 Jul 2026, next at Terraza Catedral, Mexico City on Sat, 1 Aug 2026.
+Greta Levska is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Wed, 29 Jul 2026, next at Terraza Catedral, Mexico City on Sat, 1 Aug 2026.
 
 Greta Levska is a house and techno artist based in Spain, tracked on soundcheck, with 43 sets logged across Amsterdam, Barcelona, Berlin and Bristol and 3 more. Often billed alongside Danny Howard, Sonny Fodera and Gorgon City. Next up: Terraza Catedral, Mexicocity on Sat 1 Aug.
 
@@ -27,4 +27,4 @@ Greta Levska is a house and techno artist based in Spain, tracked on soundcheck,
 
 Danny Howard, Sonny Fodera, Gorgon City
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/gretalevska/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/gretalevska/)*

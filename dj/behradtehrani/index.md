@@ -1,6 +1,6 @@
 # Behrad Tehrani
 
-Behrad Tehrani is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Tue, 28 Jul 2026, next at TBA - Secret Location, Vancouver on Sat, 1 Aug 2026.
+Behrad Tehrani is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at TBA - Secret Location, Vancouver on Sat, 1 Aug 2026.
 
 Behrad Tehrani is a techno and house artist tracked on soundcheck, with 76 sets logged across Montreal, Toronto and Vancouver. Often billed alongside POPU, DK PAU and C-Star. Next up: TBA - Secret Location, Vancouver on Sat 1 Aug.
 
@@ -25,4 +25,4 @@ Behrad Tehrani is a techno and house artist tracked on soundcheck, with 76 sets 
 
 POPU, DK PAU, C-Star
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/behradtehrani/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/behradtehrani/)*

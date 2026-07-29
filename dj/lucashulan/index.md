@@ -1,6 +1,6 @@
 # Lucas Hulan
 
-Lucas Hulan is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Tue, 28 Jul 2026, next at Czech Boat, Prague on Sat, 22 Aug 2026.
+Lucas Hulan is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Wed, 29 Jul 2026, next at Czech Boat, Prague on Sat, 22 Aug 2026.
 
 Lucas Hulan is a techno and house artist tracked on soundcheck, with 94 sets logged across Berlin and Prague. Often billed alongside Schneider Lounge, Dona and Stessie Tfgn. Next up: Czech Boat, Prague on Sat 22 Aug.
 
@@ -26,4 +26,4 @@ Lucas Hulan is a techno and house artist tracked on soundcheck, with 94 sets log
 
 Schneider Lounge, Dona, Stessie Tfgn
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/lucashulan/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/lucashulan/)*

@@ -1,6 +1,6 @@
 # Luca Olivotto
 
-Luca Olivotto is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Tue, 28 Jul 2026, next at OXI, Berlin on Sat, 1 Aug 2026.
+Luca Olivotto is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at OXI, Berlin on Sat, 1 Aug 2026.
 
 Luca Olivotto is a house and disco artist based in Germany, tracked on soundcheck, with 70 sets logged across Berlin, Cologne, Leipzig and Munich and 2 more. Often billed alongside Eva Crystaltips, Quadrakey and Nephews. Next up: OXI, Berlin on Sat 1 Aug.
 
@@ -25,4 +25,4 @@ Luca Olivotto is a house and disco artist based in Germany, tracked on soundchec
 
 Eva Crystaltips, Quadrakey, Nephews
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/lucaolivotto/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/lucaolivotto/)*

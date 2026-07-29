@@ -1,6 +1,6 @@
 # Deverence
 
-Deverence is a Jungle and Drum & Bass artist with 1 upcoming club date listed on soundcheck as of Tue, 28 Jul 2026, next at The Lord Gladstone, Sydney on Sat, 1 Aug 2026.
+Deverence is a Jungle and Drum & Bass artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at The Lord Gladstone, Sydney on Sat, 1 Aug 2026.
 
 Deverence is a jungle and drum & bass artist based in Australia, tracked on soundcheck, with 17 sets logged across Sydney. Often billed alongside Hotel 84, Fashionably Late and King Henry. Next up: The Lord Gladstone, Sydney on Sat 1 Aug.
 
@@ -25,4 +25,4 @@ Deverence is a jungle and drum & bass artist based in Australia, tracked on soun
 
 Hotel 84, Fashionably Late, King Henry
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/deverence/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/deverence/)*

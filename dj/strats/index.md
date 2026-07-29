@@ -1,6 +1,6 @@
 # STraTS
 
-STraTS is a House and Electro artist with 1 upcoming club date listed on soundcheck as of Tue, 28 Jul 2026, next at Lost Cat / Found, Manchester on Fri, 31 Jul 2026.
+STraTS is a House and Electro artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at Lost Cat / Found, Manchester on Fri, 31 Jul 2026.
 
 STraTS is a house and electro artist based in United Kingdom, tracked on soundcheck, with 1 set logged across Manchester. Next up: Lost Cat / Found, Manchester on Fri 31 Jul.
 
@@ -10,4 +10,4 @@ STraTS is a house and electro artist based in United Kingdom, tracked on soundch
 | --- | --- | --- |
 | Fri, 31 Jul 2026 | Lost Cat / Found | Manchester |
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/strats/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/strats/)*

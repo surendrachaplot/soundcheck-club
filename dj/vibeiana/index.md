@@ -1,14 +1,15 @@
 # Vibeiana
 
-Vibeiana is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 28 Jul 2026, next at Le Bain, New York City on Thu, 30 Jul 2026.
+Vibeiana is a House and Electro artist with 2 upcoming club dates listed on soundcheck as of Wed, 29 Jul 2026, next at Le Bain, New York City on Thu, 30 Jul 2026.
 
-Vibeiana is a house and techno artist based in United States of America, tracked on soundcheck, with 13 sets logged across Newyorkcity. Often billed alongside Matt FX, Mona Matsuoka and Christian Tokyo. Next up: Le Bain, Newyorkcity on Thu 30 Jul.
+Vibeiana is a house and electro artist based in United States of America, tracked on soundcheck, with 14 sets logged across Newyorkcity. Often billed alongside Matt FX, Mona Matsuoka and Tim Lucent. Next up: Le Bain, Newyorkcity on Thu 30 Jul.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Thu, 30 Jul 2026 | Le Bain | New York City |
+| Fri, 14 Aug 2026 | Dead Letter No. 9 | New York City |
 
 ## Recently played
 
@@ -23,6 +24,6 @@ Vibeiana is a house and techno artist based in United States of America, tracked
 
 ## Shares bills with
 
-Matt FX, Mona Matsuoka, Christian Tokyo
+Matt FX, Mona Matsuoka, Tim Lucent
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/vibeiana/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/vibeiana/)*

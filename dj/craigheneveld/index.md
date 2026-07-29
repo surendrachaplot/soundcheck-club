@@ -1,6 +1,6 @@
 # Craig Heneveld
 
-Craig Heneveld is a Techno and Electronica artist with 1 upcoming club date listed on soundcheck as of Tue, 28 Jul 2026, next at TBA - Denver, Denver on Fri, 31 Jul 2026.
+Craig Heneveld is a Techno and Electronica artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at TBA - Denver, Denver on Fri, 31 Jul 2026.
 
 Craig Heneveld is a techno and electronica artist based in United States of America, tracked on soundcheck, with 5 sets logged across Denver and Mexicocity. Often billed alongside ALX-106, Alala.One and Andrew Bon Bosher. Next up: TBA - Denver, Denver on Fri 31 Jul.
 
@@ -21,4 +21,4 @@ Craig Heneveld is a techno and electronica artist based in United States of Amer
 
 ALX-106, Alala.One, Andrew Bon Bosher
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/craigheneveld/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/craigheneveld/)*

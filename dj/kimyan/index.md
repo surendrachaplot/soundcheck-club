@@ -1,6 +1,6 @@
 # Kimyan
 
-Kimyan is a Jungle and Drum & Bass artist with 1 upcoming club date listed on soundcheck as of Tue, 28 Jul 2026, next at Hackney Wick Multiple Venues, London on Sat, 1 Aug 2026.
+Kimyan is a Jungle and Drum & Bass artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at Hackney Wick Multiple Venues, London on Sat, 1 Aug 2026.
 
 Kimyan is a jungle and drum & bass artist based in Austria, tracked on soundcheck, with 7 sets logged across Bali, London, Prague and Strasbourg and 1 more. Often billed alongside Dynamite MC, Jakes and Technimatic. Next up: Hackney Wick Multiple Venues, London on Sat 1 Aug.
 
@@ -23,4 +23,4 @@ Kimyan is a jungle and drum & bass artist based in Austria, tracked on soundchec
 
 Dynamite MC, Jakes, Technimatic
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/kimyan/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/kimyan/)*

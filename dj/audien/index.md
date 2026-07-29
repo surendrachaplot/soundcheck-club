@@ -1,6 +1,6 @@
 # Audien
 
-Audien is a Progressive House and House artist with 1 upcoming club date listed on soundcheck as of Tue, 28 Jul 2026, next at The Concourse Project, Austin on Fri, 14 Aug 2026.
+Audien is a Progressive House and House artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at The Concourse Project, Austin on Fri, 14 Aug 2026.
 
 Audien is a progressive house and house artist tracked on soundcheck, with 29 sets logged across Austin, Boston, Chicago and Denver and 13 more. Often billed alongside DJ Snake, Kaskade and Oliver Heldens. Next up: The Concourse Project, Austin on Fri 14 Aug.
 
@@ -25,4 +25,4 @@ Audien is a progressive house and house artist tracked on soundcheck, with 29 se
 
 DJ Snake, Kaskade, Oliver Heldens
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/audien/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/audien/)*

@@ -1,6 +1,6 @@
 # Maizon DJs
 
-Maizon DJs is a Deep House and Afro House artist with 1 upcoming club date listed on soundcheck as of Tue, 28 Jul 2026, next at The Horse & Groom, London on Sat, 1 Aug 2026.
+Maizon DJs is a Deep House and Afro House artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at The Horse & Groom, London on Sat, 1 Aug 2026.
 
 Maizon DJs is a deep house and afro house artist based in United Kingdom, tracked on soundcheck, with 11 sets logged across London. Often billed alongside Zaki, Clive From Accounts and Faro. Next up: The Horse & Groom, London on Sat 1 Aug.
 
@@ -25,4 +25,4 @@ Maizon DJs is a deep house and afro house artist based in United Kingdom, tracke
 
 Zaki, Clive From Accounts, Faro
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/maizondjs/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/maizondjs/)*

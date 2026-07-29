@@ -1,6 +1,6 @@
 # Cellarman
 
-Cellarman is a Drum & Bass artist with 1 upcoming club date listed on soundcheck as of Tue, 28 Jul 2026, next at La Source Beer Co, Brussels on Fri, 31 Jul 2026.
+Cellarman is a Drum & Bass artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at La Source Beer Co, Brussels on Fri, 31 Jul 2026.
 
 Cellarman is a drum & bass artist based in Belgium, tracked on soundcheck, with 18 sets logged across Brussels. Often billed alongside Hyzno, Arthychoc and Castor W.. Next up: La Source Beer Co, Brussels on Fri 31 Jul.
 
@@ -25,4 +25,4 @@ Cellarman is a drum & bass artist based in Belgium, tracked on soundcheck, with 
 
 Hyzno, Arthychoc, Castor W.
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/cellarman/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/cellarman/)*

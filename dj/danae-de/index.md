@@ -1,6 +1,6 @@
 # Danae
 
-Danae is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 28 Jul 2026, next at Bunker, Turin on Sat, 12 Sept 2026.
+Danae is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at Bunker, Turin on Sat, 12 Sept 2026.
 
 Danae is a house and techno artist based in Chile, tracked on soundcheck, with 8 sets logged across Berlin, Mexicocity, Milan and Rome and 1 more. Often billed alongside DONALD - BIIG_DONNY, Die Grillen and Dizzy. Next up: Bunker, Turin on Sat 12 Sept.
 
@@ -24,4 +24,4 @@ Danae is a house and techno artist based in Chile, tracked on soundcheck, with 8
 
 DONALD - BIIG_DONNY, Die Grillen, Dizzy
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/danae-de/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/danae-de/)*

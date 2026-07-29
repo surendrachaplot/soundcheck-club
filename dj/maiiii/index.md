@@ -1,6 +1,6 @@
 # maiiii
 
-maiiii is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Tue, 28 Jul 2026, next at Cafeteria, Toronto on Fri, 31 Jul 2026.
+maiiii is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Wed, 29 Jul 2026, next at Cafeteria, Toronto on Fri, 31 Jul 2026.
 
 maiiii is a house and techno artist based in Canada, tracked on soundcheck, with 8 sets logged across Barcelona, Newyorkcity and Toronto. Often billed alongside BOOTYCORNFED, Ciel and Dan Only. Next up: Cafeteria, Toronto on Fri 31 Jul.
 
@@ -24,4 +24,4 @@ maiiii is a house and techno artist based in Canada, tracked on soundcheck, with
 
 BOOTYCORNFED, Ciel, Dan Only
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/maiiii/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/maiiii/)*

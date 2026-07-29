@@ -1,6 +1,6 @@
 # Tim Baresko
 
-Tim Baresko is a Tech House and House artist with 1 upcoming club date listed on soundcheck as of Tue, 28 Jul 2026, next at D-EDGE, Sao Paulo on Thu, 30 Jul 2026.
+Tim Baresko is a Tech House and House artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at D-EDGE, Sao Paulo on Thu, 30 Jul 2026.
 
 Tim Baresko is a tech house and house artist based in France, tracked on soundcheck, with 5 sets logged across Brussels, Lisbon and Saopaulo. Often billed alongside Belben and Viot. Next up: D-EDGE, Saopaulo on Thu 30 Jul.
 
@@ -21,4 +21,4 @@ Tim Baresko is a tech house and house artist based in France, tracked on soundch
 
 Belben, Viot
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/timbaresko/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/timbaresko/)*

@@ -1,6 +1,6 @@
 # Petit CAB
 
-Petit CAB is a music venue in Marseille with 5 upcoming nights listed on soundcheck as of Tue, 28 Jul 2026; the next is "Error.Tpg invite Dorian Electra & Count Baldor" on Fri, 31 Jul 2026.
+Petit CAB is a music venue in Marseille with 5 upcoming nights listed on soundcheck as of Wed, 29 Jul 2026; the next is "Error.Tpg invite Dorian Electra & Count Baldor" on Fri, 31 Jul 2026.
 
 Petit CAB is a music venue in Marseille listed on soundcheck. 5 upcoming nights, with line-ups including Count Baldor, Dorian Electra, DouceSoeur and Doza and 2 more. Browse upcoming dates, start times and who's playing. 41 rue Jobin, 13003 MARSEILLE.
 
@@ -18,4 +18,4 @@ Petit CAB is a music venue in Marseille listed on soundcheck. 5 upcoming nights,
 
 41 rue Jobin, 13003 MARSEILLE, Marseille
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/marseille/club/petit-cab/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/marseille/club/petit-cab/)*

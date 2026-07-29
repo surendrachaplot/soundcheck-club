@@ -1,6 +1,6 @@
 # Izata
 
-Izata is a Pop and Bass artist with 2 upcoming club dates listed on soundcheck as of Tue, 28 Jul 2026, next at Colombian Hotel, Sydney on Fri, 21 Aug 2026.
+Izata is a Pop and Bass artist with 2 upcoming club dates listed on soundcheck as of Wed, 29 Jul 2026, next at Colombian Hotel, Sydney on Fri, 21 Aug 2026.
 
 Izata is a pop and bass artist based in Australia, tracked on soundcheck, with 3 sets logged across Sydney. Often billed alongside 0800KIN, Attu and BASS SLVT. Next up: Colombian Hotel, Sydney on Fri 21 Aug.
 
@@ -19,4 +19,4 @@ Izata is a pop and bass artist based in Australia, tracked on soundcheck, with 3
 
 0800KIN, Attu, BASS SLVT
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/izata/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/izata/)*

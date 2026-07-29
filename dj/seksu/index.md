@@ -1,6 +1,6 @@
 # Seksu
 
-Seksu is a Afro Tech and Baile Funk artist with 1 upcoming club date listed on soundcheck as of Tue, 28 Jul 2026, next at Oculist, Brighton on Fri, 31 Jul 2026.
+Seksu is a Afro Tech and Baile Funk artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at Oculist, Brighton on Fri, 31 Jul 2026.
 
 Seksu is an afro tech and baile funk artist based in United Kingdom, tracked on soundcheck, with 9 sets logged across Brighton and London. Often billed alongside Disco Monde, 3DMA and ASHTREY. Next up: Oculist, Brighton on Fri 31 Jul.
 
@@ -25,4 +25,4 @@ Seksu is an afro tech and baile funk artist based in United Kingdom, tracked on 
 
 Disco Monde, 3DMA, ASHTREY
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/seksu/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/seksu/)*

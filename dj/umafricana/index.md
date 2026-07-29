@@ -1,6 +1,6 @@
 # UMAFRICANA
 
-UMAFRICANA is a Electronica and House artist with 1 upcoming club date listed on soundcheck as of Tue, 28 Jul 2026, next at Duro de Matar, Lisbon on Fri, 31 Jul 2026.
+UMAFRICANA is a Electronica and House artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at Duro de Matar, Lisbon on Fri, 31 Jul 2026.
 
 UMAFRICANA is an electronica and house artist based in Portugal, tracked on soundcheck, with 24 sets logged across Lisbon and Paris. Often billed alongside Marcolan, Von Di and Banu. Next up: Duro de Matar, Lisbon on Fri 31 Jul.
 
@@ -25,4 +25,4 @@ UMAFRICANA is an electronica and house artist based in Portugal, tracked on soun
 
 Marcolan, Von Di, Banu
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/umafricana/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/umafricana/)*

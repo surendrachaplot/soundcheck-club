@@ -1,6 +1,6 @@
 # Micfreak
 
-Micfreak is a House and Deep House artist with 2 upcoming club dates listed on soundcheck as of Tue, 28 Jul 2026, next at The BBE Store, London on Sun, 2 Aug 2026.
+Micfreak is a House and Deep House artist with 2 upcoming club dates listed on soundcheck as of Wed, 29 Jul 2026, next at The BBE Store, London on Sun, 2 Aug 2026.
 
 Micfreak is a house and deep house artist based in United States of America, tracked on soundcheck, with 22 sets logged across London, Losangeles, Newyorkcity and Osaka and 2 more. Often billed alongside DJ Spen, Benjy Bradshaw and MAXIMILIANO (US). Next up: The BBE Store, London on Sun 2 Aug.
 
@@ -26,4 +26,4 @@ Micfreak is a house and deep house artist based in United States of America, tra
 
 DJ Spen, Benjy Bradshaw, MAXIMILIANO (US)
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/micfreak-us/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/micfreak-us/)*

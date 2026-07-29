@@ -1,6 +1,6 @@
 # Private Dancer
 
-Private Dancer is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Tue, 28 Jul 2026, next at Manray, Boston on Thu, 30 Jul 2026.
+Private Dancer is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at Manray, Boston on Thu, 30 Jul 2026.
 
 Private Dancer is a house and disco artist based in United States of America, tracked on soundcheck, with 5 sets logged across Berlin and Boston. Often billed alongside Patchwork, Alfredo Rico-Dimas and Azzeddine. Next up: Manray, Boston on Thu 30 Jul.
 
@@ -21,4 +21,4 @@ Private Dancer is a house and disco artist based in United States of America, tr
 
 Patchwork, Alfredo Rico-Dimas, Azzeddine
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/privatedancer/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/privatedancer/)*

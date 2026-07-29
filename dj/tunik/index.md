@@ -1,6 +1,6 @@
 # Tunik
 
-Tunik is a Electro and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 28 Jul 2026, next at Club der Visionaere, Berlin on Fri, 14 Aug 2026.
+Tunik is a Electro and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at Club der Visionaere, Berlin on Fri, 14 Aug 2026.
 
 Tunik is an electro and techno artist based in Argentina, tracked on soundcheck, with 64 sets logged across Amsterdam, Bali, Bangkok and Barcelona and 19 more. Often billed alongside tINI, Hitch and Alex (ES). Next up: Club der Visionaere, Berlin on Fri 14 Aug.
 
@@ -25,4 +25,4 @@ Tunik is an electro and techno artist based in Argentina, tracked on soundcheck,
 
 tINI, Hitch, Alex (ES)
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/tunik/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/tunik/)*

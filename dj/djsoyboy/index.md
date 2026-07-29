@@ -1,6 +1,6 @@
 # DJ Soyboy
 
-DJ Soyboy is a Breakbeat and House artist with 1 upcoming club date listed on soundcheck as of Tue, 28 Jul 2026, next at KABUL à GoGo, Utrecht on Sat, 12 Sept 2026.
+DJ Soyboy is a Breakbeat and House artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at KABUL à GoGo, Utrecht on Sat, 12 Sept 2026.
 
 DJ Soyboy is a breakbeat and house artist based in Netherlands, tracked on soundcheck, with 2 sets logged across Utrecht. Often billed alongside Mocrosoft, Polli Panda and Rayven Lux. Next up: KABUL à GoGo, Utrecht on Sat 12 Sept.
 
@@ -18,4 +18,4 @@ DJ Soyboy is a breakbeat and house artist based in Netherlands, tracked on sound
 
 Mocrosoft, Polli Panda, Rayven Lux
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/djsoyboy/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/djsoyboy/)*

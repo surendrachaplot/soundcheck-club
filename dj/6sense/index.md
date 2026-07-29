@@ -1,6 +1,6 @@
 # 6 SENSE
 
-6 SENSE is a Techno and House artist with 4 upcoming club dates listed on soundcheck as of Tue, 28 Jul 2026, next at Neck of the Woods, Auckland on Sat, 1 Aug 2026.
+6 SENSE is a Techno and House artist with 4 upcoming club dates listed on soundcheck as of Wed, 29 Jul 2026, next at Neck of the Woods, Auckland on Sat, 1 Aug 2026.
 
 6 SENSE is a techno and house artist based in Australia, tracked on soundcheck, with 42 sets logged across Amsterdam, Antwerp, Auckland and Berlin and 9 more. Often billed alongside Ned Bennett, KSMBA and Ollie Lishman. Next up: Neck of the Woods, Auckland on Sat 1 Aug.
 
@@ -28,4 +28,4 @@
 
 Ned Bennett, KSMBA, Ollie Lishman
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/6sense/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/6sense/)*

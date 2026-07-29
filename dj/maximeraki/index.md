@@ -1,6 +1,6 @@
 # Maxi Meraki
 
-Maxi Meraki is a House and Afro House artist with 4 upcoming club dates listed on soundcheck as of Tue, 28 Jul 2026, next at Oxford Art Factory, Sydney on Sat, 1 Aug 2026.
+Maxi Meraki is a House and Afro House artist with 4 upcoming club dates listed on soundcheck as of Wed, 29 Jul 2026, next at Oxford Art Factory, Sydney on Sat, 1 Aug 2026.
 
 Maxi Meraki is a house and afro house artist tracked on soundcheck, with 89 sets logged across Antwerp, Athens, Austin and Bali and 33 more. Often billed alongside Mahmut Orhan, AJNA and Adriatique. Next up: Oxford Art Factory, Sydney on Sat 1 Aug.
 
@@ -28,4 +28,4 @@ Maxi Meraki is a house and afro house artist tracked on soundcheck, with 89 sets
 
 Mahmut Orhan, AJNA, Adriatique
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/maximeraki/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/maximeraki/)*

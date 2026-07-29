@@ -1,6 +1,6 @@
 # Andy Pye
 
-Andy Pye is a Balearic and New Wave artist with 1 upcoming club date listed on soundcheck as of Tue, 28 Jul 2026, next at The Robin Hood, Leeds on Sat, 22 Aug 2026.
+Andy Pye is a Balearic and New Wave artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at The Robin Hood, Leeds on Sat, 22 Aug 2026.
 
 Andy Pye is a balearic and new wave artist based in United Kingdom, tracked on soundcheck, with 11 sets logged across Leeds and Manchester. Often billed alongside Baz and Nova, Cabañistas and Justin Robertson. Next up: The Robin Hood, Leeds on Sat 22 Aug.
 
@@ -25,4 +25,4 @@ Andy Pye is a balearic and new wave artist based in United Kingdom, tracked on s
 
 Baz and Nova, Cabañistas, Justin Robertson
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/andypye/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/andypye/)*

@@ -1,6 +1,6 @@
 # Sumofdem
 
-Sumofdem is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 28 Jul 2026, next at Zsiráf, Budapest on Sat, 1 Aug 2026.
+Sumofdem is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at Zsiráf, Budapest on Sat, 1 Aug 2026.
 
 Sumofdem is a house and techno artist based in Hungary, tracked on soundcheck, with 2 sets logged across Budapest. Often billed alongside Lucien, Davko and Volkoder. Next up: Zsiráf, Budapest on Sat 1 Aug.
 
@@ -18,4 +18,4 @@ Sumofdem is a house and techno artist based in Hungary, tracked on soundcheck, w
 
 Lucien, Davko, Volkoder
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/sumofdem/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/sumofdem/)*

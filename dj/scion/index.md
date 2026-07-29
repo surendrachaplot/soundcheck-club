@@ -1,6 +1,6 @@
 # Scion
 
-Scion is a electronic artist with 2 upcoming club dates listed on soundcheck as of Tue, 28 Jul 2026, next at Berghain | Panorama Bar | Säule, Berlin on Fri, 31 Jul 2026.
+Scion is a electronic artist with 2 upcoming club dates listed on soundcheck as of Wed, 29 Jul 2026, next at Berghain | Panorama Bar | Säule, Berlin on Fri, 31 Jul 2026.
 
 Scion is an electronic artist based in Germany, tracked on soundcheck, with 13 sets logged across Amsterdam, Barcelona, Berlin and Milan and 2 more. Often billed alongside Substance, Vainqueur and Tikiman. Next up: Berghain | Panorama Bar | Säule, Berlin on Fri 31 Jul.
 
@@ -26,4 +26,4 @@ Scion is an electronic artist based in Germany, tracked on soundcheck, with 13 s
 
 Substance, Vainqueur, Tikiman
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/scion/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/scion/)*

@@ -1,6 +1,6 @@
 # branqueeno
 
-branqueeno is a House and Tech House artist with 3 upcoming club dates listed on soundcheck as of Tue, 28 Jul 2026, next at SILO, New York City on Fri, 31 Jul 2026.
+branqueeno is a House and Tech House artist with 3 upcoming club dates listed on soundcheck as of Wed, 29 Jul 2026, next at SILO, New York City on Fri, 31 Jul 2026.
 
 branqueeno is a house and tech house artist based in United States of America, tracked on soundcheck, with 63 sets logged across Mexicocity, Miami and Newyorkcity. Often billed alongside Remniqe, Bustin' Loose and E-Mood. Next up: SILO, Newyorkcity on Fri 31 Jul.
 
@@ -27,4 +27,4 @@ branqueeno is a house and tech house artist based in United States of America, t
 
 Remniqe, Bustin' Loose, E-Mood
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/branqueeno/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/branqueeno/)*

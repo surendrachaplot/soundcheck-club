@@ -1,6 +1,6 @@
 # Baby Uniq
 
-Baby Uniq is a Techno and Latin Bass artist with 1 upcoming club date listed on soundcheck as of Tue, 28 Jul 2026, next at The Love Song, Los Angeles on Thu, 30 Jul 2026.
+Baby Uniq is a Techno and Latin Bass artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at The Love Song, Los Angeles on Thu, 30 Jul 2026.
 
 Baby Uniq is a techno and latin bass artist based in United States of America, tracked on soundcheck, with 13 sets logged across Losangeles. Often billed alongside BL4ZE, Songco and Nikes. Next up: The Love Song, Losangeles on Thu 30 Jul.
 
@@ -25,4 +25,4 @@ Baby Uniq is a techno and latin bass artist based in United States of America, t
 
 BL4ZE, Songco, Nikes
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/babyuniq/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/babyuniq/)*

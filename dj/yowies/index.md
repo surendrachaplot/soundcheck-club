@@ -1,6 +1,6 @@
 # Yowies
 
-Yowies is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Tue, 28 Jul 2026, next at OneSixOne, Melbourne on Fri, 31 Jul 2026.
+Yowies is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at OneSixOne, Melbourne on Fri, 31 Jul 2026.
 
 Yowies is a house and tech house artist based in Australia, tracked on soundcheck, with 10 sets logged across Melbourne. Often billed alongside Ango (AU), 925 (AU) and A.Well. Next up: OneSixOne, Melbourne on Fri 31 Jul.
 
@@ -25,4 +25,4 @@ Yowies is a house and tech house artist based in Australia, tracked on soundchec
 
 Ango (AU), 925 (AU), A.Well
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/yowies/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/yowies/)*

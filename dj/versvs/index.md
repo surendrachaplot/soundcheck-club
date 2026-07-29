@@ -1,6 +1,6 @@
 # VERSVS
 
-VERSVS is a Electronica and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 28 Jul 2026, next at Specka, Madrid on Sat, 1 Aug 2026.
+VERSVS is a Electronica and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at Specka, Madrid on Sat, 1 Aug 2026.
 
 VERSVS is an electronica and techno artist based in Spain, tracked on soundcheck, with 6 sets logged across Berlin and Madrid. Often billed alongside DJ Lolo, Dyans and FIGUREX. Next up: Specka, Madrid on Sat 1 Aug.
 
@@ -22,4 +22,4 @@ VERSVS is an electronica and techno artist based in Spain, tracked on soundcheck
 
 DJ Lolo, Dyans, FIGUREX
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/versvs/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/versvs/)*

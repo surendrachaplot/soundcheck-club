@@ -1,6 +1,6 @@
 # kimmy6.6.6
 
-kimmy6.6.6 is a Techno and Acid artist with 1 upcoming club date listed on soundcheck as of Tue, 28 Jul 2026, next at OMA, Hong Kong on Thu, 22 Oct 2026.
+kimmy6.6.6 is a Techno and Acid artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at OMA, Hong Kong on Thu, 22 Oct 2026.
 
 kimmy6.6.6 is a techno and acid artist based in China, tracked on soundcheck, with 26 sets logged across Hongkong. Often billed alongside Will Elixr. Next up: OMA, Hongkong on Thu 22 Oct.
 
@@ -25,4 +25,4 @@ kimmy6.6.6 is a techno and acid artist based in China, tracked on soundcheck, wi
 
 Will Elixr
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/kimmy6.6.6/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/kimmy6.6.6/)*

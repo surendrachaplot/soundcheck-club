@@ -1,6 +1,6 @@
 # Carloooza
 
-Carloooza is a Trance and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 28 Jul 2026, next at Macadam, Nantes on Thu, 30 Jul 2026.
+Carloooza is a Trance and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at Macadam, Nantes on Thu, 30 Jul 2026.
 
 Carloooza is a trance and techno artist tracked on soundcheck, with 7 sets logged across Nantes. Often billed alongside 131bpm, Arman John and Bambi (FR). Next up: Macadam, Nantes on Thu 30 Jul.
 
@@ -23,4 +23,4 @@ Carloooza is a trance and techno artist tracked on soundcheck, with 7 sets logge
 
 131bpm, Arman John, Bambi (FR)
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/carloooza/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/carloooza/)*

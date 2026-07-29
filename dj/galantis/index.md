@@ -1,6 +1,6 @@
 # Galantis
 
-Galantis is a House and Progressive House artist with 2 upcoming club dates listed on soundcheck as of Tue, 28 Jul 2026, next at Downsview Park, Toronto on Fri, 31 Jul 2026.
+Galantis is a House and Progressive House artist with 2 upcoming club dates listed on soundcheck as of Wed, 29 Jul 2026, next at Downsview Park, Toronto on Fri, 31 Jul 2026.
 
 Galantis is a house and progressive house artist tracked on soundcheck, with 22 sets logged across Austin, Boston, Chicago and Ibiza and 10 more. Often billed alongside Zedd, Coco & Breezy and LP Giobbi. Next up: Downsview Park, Toronto on Fri 31 Jul.
 
@@ -26,4 +26,4 @@ Galantis is a house and progressive house artist tracked on soundcheck, with 22 
 
 Zedd, Coco & Breezy, LP Giobbi
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/galantis/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/galantis/)*

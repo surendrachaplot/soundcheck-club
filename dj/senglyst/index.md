@@ -1,6 +1,6 @@
 # Senglyst
 
-Senglyst is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 28 Jul 2026, next at Jolene, Copenhagen on Fri, 31 Jul 2026.
+Senglyst is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at Jolene, Copenhagen on Fri, 31 Jul 2026.
 
 Senglyst is a house and techno artist based in Denmark, tracked on soundcheck, with 3 sets logged across Copenhagen. Often billed alongside Alin, Lentza and Ricq. Next up: Jolene, Copenhagen on Fri 31 Jul.
 
@@ -19,4 +19,4 @@ Senglyst is a house and techno artist based in Denmark, tracked on soundcheck, w
 
 Alin, Lentza, Ricq
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/senglyst/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/senglyst/)*

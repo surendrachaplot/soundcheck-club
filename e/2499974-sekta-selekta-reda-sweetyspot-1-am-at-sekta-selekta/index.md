@@ -1,6 +1,6 @@
 # Sekta Selekta: REDA, Sweetyspot, 1 AM at Sekta Selekta
 
-Sekta Selekta: REDA, Sweetyspot, 1 AM on Sat 1 Aug, Krakow. 3 acts on the bill: 1 AM (1), REDA and Sweetyspot. Breakbeat and Minimal. Preview the line-up and save it on soundcheck.
+Sekta Selekta: REDA, Sweetyspot, 1 AM on Sat 1 Aug, Krakow. 3 acts on the bill: 1 AM (1), REDA and Sweetyspot. Tech House and Minimal. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

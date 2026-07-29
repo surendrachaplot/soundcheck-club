@@ -1,6 +1,6 @@
 # Jimi Handtrix
 
-Jimi Handtrix is a Drum & Bass and Dubstep artist with 2 upcoming club dates listed on soundcheck as of Tue, 28 Jul 2026, next at Void Club, Berlin on Fri, 28 Aug 2026.
+Jimi Handtrix is a Drum & Bass and Dubstep artist with 2 upcoming club dates listed on soundcheck as of Wed, 29 Jul 2026, next at Void Club, Berlin on Fri, 28 Aug 2026.
 
 Jimi Handtrix is a drum & bass and dubstep artist based in Germany, tracked on soundcheck, with 25 sets logged across Berlin. Often billed alongside Tommy Lexxus, Upzet and Dub Isotope. Next up: Void Club, Berlin on Fri 28 Aug.
 
@@ -26,4 +26,4 @@ Jimi Handtrix is a drum & bass and dubstep artist based in Germany, tracked on s
 
 Tommy Lexxus, Upzet, Dub Isotope
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/jimihandtrix/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/jimihandtrix/)*

@@ -1,6 +1,6 @@
 # Craigie Knowes
 
-Craigie Knowes is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Tue, 28 Jul 2026, next at Renate, Berlin on Fri, 31 Jul 2026.
+Craigie Knowes is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Wed, 29 Jul 2026, next at Renate, Berlin on Fri, 31 Jul 2026.
 
 Craigie Knowes is a techno and house artist based in United Kingdom, tracked on soundcheck, with 60 sets logged across Aberdeen, Amsterdam, Barcelona and Berlin and 12 more. Often billed alongside Domenic Cappello, Fantastic Man and The Burrell Connection. Next up: Renate, Berlin on Fri 31 Jul.
 
@@ -26,4 +26,4 @@ Craigie Knowes is a techno and house artist based in United Kingdom, tracked on 
 
 Domenic Cappello, Fantastic Man, The Burrell Connection
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/craigieknowes/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/craigieknowes/)*

@@ -1,6 +1,6 @@
 # Demdike Stare
 
-Demdike Stare is a Experimental and Dub artist with 1 upcoming club date listed on soundcheck as of Tue, 28 Jul 2026, next at Garage Noord, Amsterdam on Fri, 7 Aug 2026.
+Demdike Stare is a Experimental and Dub artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at Garage Noord, Amsterdam on Fri, 7 Aug 2026.
 
 Demdike Stare is an experimental and dub artist based in United Kingdom, tracked on soundcheck, with 47 sets logged across Amsterdam, Athens, Barcelona and Berlin and 14 more. Often billed alongside Andy Stott, Abul Mogard and Al Wootton. Next up: Garage Noord, Amsterdam on Fri 7 Aug.
 
@@ -25,4 +25,4 @@ Demdike Stare is an experimental and dub artist based in United Kingdom, tracked
 
 Andy Stott, Abul Mogard, Al Wootton
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/demdikestare/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/demdikestare/)*

@@ -1,6 +1,6 @@
 # Ayra Nishati
 
-Ayra Nishati is a Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 28 Jul 2026, next at 33/45 Club, Valencia on Sat, 1 Aug 2026.
+Ayra Nishati is a Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at 33/45 Club, Valencia on Sat, 1 Aug 2026.
 
 Ayra Nishati is a techno artist based in Spain, tracked on soundcheck, with 9 sets logged across Berlin, Madrid and Valencia. Often billed alongside ALI3N, Ania Bruster and Bea Moy. Next up: 33/45 Club, Valencia on Sat 1 Aug.
 
@@ -25,4 +25,4 @@ Ayra Nishati is a techno artist based in Spain, tracked on soundcheck, with 9 se
 
 ALI3N, Ania Bruster, Bea Moy
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/ayranishati/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/ayranishati/)*

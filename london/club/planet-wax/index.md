@@ -1,6 +1,6 @@
 # Planet Wax
 
-Planet Wax is a music venue in London with 23 upcoming nights listed on soundcheck as of Tue, 28 Jul 2026; the next is "OPEN DECKS" on Wed, 29 Jul 2026.
+Planet Wax is a music venue in London with 23 upcoming nights listed on soundcheck as of Wed, 29 Jul 2026; the next is "OPEN DECKS" on Wed, 29 Jul 2026.
 
 Planet Wax is a music venue in London listed on soundcheck. 23 upcoming nights, with line-ups including Blue Ringed Baby, Booker T, CATLADY and Channell and 2 more. Browse upcoming dates, start times and who's playing. 318 NEW CROSS ROAD LONDON SE14 6AF.
 
@@ -23,4 +23,4 @@ Planet Wax is a music venue in London listed on soundcheck. 23 upcoming nights, 
 
 318 NEW CROSS ROAD LONDON SE14 6AF, London
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/london/club/planet-wax/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/london/club/planet-wax/)*

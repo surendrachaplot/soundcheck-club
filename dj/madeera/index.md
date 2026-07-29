@@ -1,6 +1,6 @@
 # madeera
 
-madeera is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Tue, 28 Jul 2026, next at The Sultan Room, New York City on Sat, 1 Aug 2026.
+madeera is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Wed, 29 Jul 2026, next at The Sultan Room, New York City on Sat, 1 Aug 2026.
 
 madeera is a techno and house artist based in United States of America, tracked on soundcheck, with 12 sets logged across Detroit and Newyorkcity. Often billed alongside Brent Shay, Antikkka and Tormented. Next up: The Sultan Room, Newyorkcity on Sat 1 Aug.
 
@@ -26,4 +26,4 @@ madeera is a techno and house artist based in United States of America, tracked 
 
 Brent Shay, Antikkka, Tormented
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/madeera/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/madeera/)*

@@ -1,6 +1,6 @@
 # Giusseppi
 
-Giusseppi is a Techno and Industrial artist with 1 upcoming club date listed on soundcheck as of Tue, 28 Jul 2026, next at INPUT High Fidelity Dance Club, Barcelona on Thu, 10 Sept 2026.
+Giusseppi is a Techno and Industrial artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at INPUT High Fidelity Dance Club, Barcelona on Thu, 10 Sept 2026.
 
 Giusseppi is a techno and industrial artist tracked on soundcheck, with 34 sets logged across Barcelona. Often billed alongside BRUCE GEE, Ody.ssey and nyxzr. Next up: INPUT High Fidelity Dance Club, Barcelona on Thu 10 Sept.
 
@@ -25,4 +25,4 @@ Giusseppi is a techno and industrial artist tracked on soundcheck, with 34 sets 
 
 BRUCE GEE, Ody.ssey, nyxzr
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/giusseppi/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/giusseppi/)*

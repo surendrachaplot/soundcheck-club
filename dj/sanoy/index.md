@@ -1,6 +1,6 @@
 # SANOY
 
-SANOY is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Tue, 28 Jul 2026, next at Grow, London on Fri, 7 Aug 2026.
+SANOY is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at Grow, London on Fri, 7 Aug 2026.
 
 SANOY is a house and disco artist based in Italy, tracked on soundcheck, with 13 sets logged across London and Paris. Often billed alongside Cosmo Sofi, Marlon George and ARLYSS. Next up: Grow, London on Fri 7 Aug.
 
@@ -25,4 +25,4 @@ SANOY is a house and disco artist based in Italy, tracked on soundcheck, with 13
 
 Cosmo Sofi, Marlon George, ARLYSS
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/sanoy/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/sanoy/)*

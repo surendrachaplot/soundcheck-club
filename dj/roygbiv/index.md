@@ -1,6 +1,6 @@
 # Roygbiv
 
-Roygbiv is a Ambient and Experimental artist with 1 upcoming club date listed on soundcheck as of Tue, 28 Jul 2026, next at Fluxbau, Berlin on Sun, 9 Aug 2026.
+Roygbiv is a Ambient and Experimental artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at Fluxbau, Berlin on Sun, 9 Aug 2026.
 
 Roygbiv is an ambient and experimental artist based in Germany, tracked on soundcheck, with 3 sets logged across Berlin. Often billed alongside Electro Magnetic Goldstar, Marc Oller and Marco Bellacozza (2). Next up: Fluxbau, Berlin on Sun 9 Aug.
 
@@ -19,4 +19,4 @@ Roygbiv is an ambient and experimental artist based in Germany, tracked on sound
 
 Electro Magnetic Goldstar, Marc Oller, Marco Bellacozza (2)
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/roygbiv/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/roygbiv/)*

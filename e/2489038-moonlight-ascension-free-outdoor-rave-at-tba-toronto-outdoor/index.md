@@ -1,6 +1,6 @@
 # Moonlight Ascension - Free Outdoor Rave at TBA - Toronto outdoor location- info sent via email, on the 1st after 4pm
 
-Moonlight Ascension - Free Outdoor Rave at TBA - Toronto outdoor location- info sent via email, on the 1st after 4pm on Sat 1 Aug, Toronto. 7 acts on the bill: 25ohms, Audi Étoffe, dyspony and moodyjooly and 3 more. Hardcore and Bass. Preview the line-up and save it on soundcheck.
+Moonlight Ascension - Free Outdoor Rave at TBA - Toronto outdoor location- info sent via email, on the 1st after 4pm on Sat 1 Aug, Toronto. 8 acts on the bill: 25ohms, Audi Étoffe, dyspony and Midnight Snack (TO) and 4 more. Hardcore and Bass. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -13,6 +13,7 @@ Moonlight Ascension - Free Outdoor Rave at TBA - Toronto outdoor location- info 
 - 25ohms
 - Audi Étoffe
 - dyspony
+- Midnight Snack (TO)
 - moodyjooly
 - Niikkii.Tee
 - Sixtroke

@@ -1,6 +1,6 @@
 # Yibing
 
-Yibing is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Tue, 28 Jul 2026, next at TBA - 264 Himrod St 11237, New York City on Sun, 2 Aug 2026.
+Yibing is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at TBA - 264 Himrod St 11237, New York City on Sun, 2 Aug 2026.
 
 Yibing is a techno and house artist based in United States of America, tracked on soundcheck, with 57 sets logged across Berlin, Miami, Montreal and Newyorkcity. Often billed alongside Alien D, Andrew Devlin and No Sir. Next up: TBA - 264 Himrod St 11237, Newyorkcity on Sun 2 Aug.
 
@@ -25,4 +25,4 @@ Yibing is a techno and house artist based in United States of America, tracked o
 
 Alien D, Andrew Devlin, No Sir
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/yibing/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/yibing/)*

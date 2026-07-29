@@ -1,6 +1,6 @@
 # Mr. Proper
 
-Mr. Proper is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Tue, 28 Jul 2026, next at Paraiso Estereo, Miami on Fri, 31 Jul 2026.
+Mr. Proper is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at Paraiso Estereo, Miami on Fri, 31 Jul 2026.
 
 Mr. Proper is a techno and trance artist based in United States of America, tracked on soundcheck, with 16 sets logged across Berlin and Miami. Often billed alongside Dadrev, DomnRob and PROLETAR. Next up: Paraiso Estereo, Miami on Fri 31 Jul.
 
@@ -25,4 +25,4 @@ Mr. Proper is a techno and trance artist based in United States of America, trac
 
 Dadrev, DomnRob, PROLETAR
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/mr.proper/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/mr.proper/)*

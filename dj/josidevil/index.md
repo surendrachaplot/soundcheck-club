@@ -1,6 +1,6 @@
 # Josi Devil
 
-Josi Devil is a Garage and Dubstep artist with 2 upcoming club dates listed on soundcheck as of Tue, 28 Jul 2026, next at Village Underground Barcelona, Barcelona on Fri, 14 Aug 2026.
+Josi Devil is a Garage and Dubstep artist with 2 upcoming club dates listed on soundcheck as of Wed, 29 Jul 2026, next at Village Underground Barcelona, Barcelona on Fri, 14 Aug 2026.
 
 Josi Devil is a garage and dubstep artist based in United Kingdom, tracked on soundcheck, with 19 sets logged across Amsterdam, Barcelona, Berlin and Brighton and 6 more. Often billed alongside Joy Orbison, Just Jane and TSVI. Next up: Village Underground Barcelona, Barcelona on Fri 14 Aug.
 
@@ -26,4 +26,4 @@ Josi Devil is a garage and dubstep artist based in United Kingdom, tracked on so
 
 Joy Orbison, Just Jane, TSVI
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/josidevil/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/josidevil/)*

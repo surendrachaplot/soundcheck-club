@@ -1,6 +1,6 @@
 # Hex Girlfriend
 
-Hex Girlfriend is a Ambient and Experimental artist with 1 upcoming club date listed on soundcheck as of Tue, 28 Jul 2026, next at TBA - Rees/Haldern, Düsseldorf on Wed, 5 Aug 2026.
+Hex Girlfriend is a Ambient and Experimental artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at TBA - Rees/Haldern, Düsseldorf on Wed, 5 Aug 2026.
 
 Hex Girlfriend is an ambient and experimental artist based in United Kingdom, tracked on soundcheck, with 5 sets logged across Berlin, Dusseldorf and London. Often billed alongside Hex (UK), Anushka Chkheidze and Cardinals. Next up: TBA - Rees/Haldern, Dusseldorf on Wed 5 Aug.
 
@@ -21,4 +21,4 @@ Hex Girlfriend is an ambient and experimental artist based in United Kingdom, tr
 
 Hex (UK), Anushka Chkheidze, Cardinals
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/hexgirlfriend/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/hexgirlfriend/)*

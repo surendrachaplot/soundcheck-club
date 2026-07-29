@@ -1,6 +1,6 @@
 # Han G
 
-Han G is a Progressive House and House artist with 1 upcoming club date listed on soundcheck as of Tue, 28 Jul 2026, next at Music For A While, New York City on Fri, 31 Jul 2026.
+Han G is a Progressive House and House artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at Music For A While, New York City on Fri, 31 Jul 2026.
 
 Han G is a progressive house and house artist based in United States of America, tracked on soundcheck, with 5 sets logged across Bristol and Newyorkcity. Often billed alongside Eau Yang, Jake From State Pharm and Achiya. Next up: Music For A While, Newyorkcity on Fri 31 Jul.
 
@@ -21,4 +21,4 @@ Han G is a progressive house and house artist based in United States of America,
 
 Eau Yang, Jake From State Pharm, Achiya
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/hang/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/hang/)*

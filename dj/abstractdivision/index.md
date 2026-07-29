@@ -1,6 +1,6 @@
 # Abstract Division
 
-Abstract Division is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Tue, 28 Jul 2026, next at INPUT High Fidelity Dance Club, Barcelona on Sat, 8 Aug 2026.
+Abstract Division is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at INPUT High Fidelity Dance Club, Barcelona on Sat, 8 Aug 2026.
 
 Abstract Division is a techno and house artist based in Netherlands, tracked on soundcheck, with 42 sets logged across Amsterdam, Barcelona, Berlin and Budapest and 9 more. Often billed alongside Beste Hira, Grace Dahl and JakoJako. Next up: INPUT High Fidelity Dance Club, Barcelona on Sat 8 Aug.
 
@@ -25,4 +25,4 @@ Abstract Division is a techno and house artist based in Netherlands, tracked on 
 
 Beste Hira, Grace Dahl, JakoJako
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/abstractdivision/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/abstractdivision/)*

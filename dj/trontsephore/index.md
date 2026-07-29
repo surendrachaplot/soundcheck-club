@@ -1,6 +1,6 @@
 # Trontsephore
 
-Trontsephore is a Acid and Electronica artist with 1 upcoming club date listed on soundcheck as of Tue, 28 Jul 2026, next at Pawn Shop, Dublin on Fri, 31 Jul 2026.
+Trontsephore is a Acid and Electronica artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at Pawn Shop, Dublin on Fri, 31 Jul 2026.
 
 Trontsephore is an acid and electronica artist based in Ireland, tracked on soundcheck, with 10 sets logged across Dublin and Leeds. Often billed alongside Nessa Johnston, John Paynter and Aero (1). Next up: Pawn Shop, Dublin on Fri 31 Jul.
 
@@ -25,4 +25,4 @@ Trontsephore is an acid and electronica artist based in Ireland, tracked on soun
 
 Nessa Johnston, John Paynter, Aero (1)
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/trontsephore/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/trontsephore/)*

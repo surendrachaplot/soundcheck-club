@@ -1,6 +1,6 @@
 # Dietroiter
 
-Dietroiter is a electronic artist with 1 upcoming club date listed on soundcheck as of Tue, 28 Jul 2026, next at Golden Pudel Club, Hamburg on Fri, 31 Jul 2026.
+Dietroiter is a electronic artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at Golden Pudel Club, Hamburg on Fri, 31 Jul 2026.
 
 Dietroiter is an electronic artist based in Germany, tracked on soundcheck, with 4 sets logged across Hamburg. Often billed alongside Boris Dlugosch, Dieter and Kasper. Next up: Golden Pudel Club, Hamburg on Fri 31 Jul.
 
@@ -20,4 +20,4 @@ Dietroiter is an electronic artist based in Germany, tracked on soundcheck, with
 
 Boris Dlugosch, Dieter, Kasper
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/dietroiter/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/dietroiter/)*

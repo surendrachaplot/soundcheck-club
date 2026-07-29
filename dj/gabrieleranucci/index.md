@@ -1,6 +1,6 @@
 # Gabriele Ranucci
 
-Gabriele Ranucci is a Tech House and House artist with 1 upcoming club date listed on soundcheck as of Tue, 28 Jul 2026, next at Dunes, Ibiza on Wed, 29 Jul 2026.
+Gabriele Ranucci is a Tech House and House artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at Dunes, Ibiza on Wed, 29 Jul 2026.
 
 Gabriele Ranucci is a tech house and house artist based in Italy, tracked on soundcheck, with 13 sets logged across Amsterdam, Ibiza, London and Naples. Often billed alongside Key Eff, Alex Bohemien and Diego Cardarelli. Next up: Dunes, Ibiza on Wed 29 Jul.
 
@@ -25,4 +25,4 @@ Gabriele Ranucci is a tech house and house artist based in Italy, tracked on sou
 
 Key Eff, Alex Bohemien, Diego Cardarelli
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/gabrieleranucci/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/gabrieleranucci/)*

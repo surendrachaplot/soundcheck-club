@@ -1,6 +1,6 @@
 # Kenneth Scott
 
-Kenneth Scott is a House and Experimental artist with 1 upcoming club date listed on soundcheck as of Tue, 28 Jul 2026, next at Gaswerksiedlung, Berlin on Sat, 1 Aug 2026.
+Kenneth Scott is a House and Experimental artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at Gaswerksiedlung, Berlin on Sat, 1 Aug 2026.
 
 Kenneth Scott is a house and experimental artist based in United States of America, tracked on soundcheck, with 13 sets logged across Berlin, Losangeles, Newyorkcity and Sanfrancisco. Often billed alongside DJ NOB, Dave Aju and Deadbeat. Next up: Gaswerksiedlung, Berlin on Sat 1 Aug.
 
@@ -25,4 +25,4 @@ Kenneth Scott is a house and experimental artist based in United States of Ameri
 
 DJ NOB, Dave Aju, Deadbeat
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/kennethscott/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/kennethscott/)*

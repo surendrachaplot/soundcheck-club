@@ -1,14 +1,15 @@
 # GorpoPap
 
-GorpoPap is a Techno and Electro artist with 1 upcoming club date listed on soundcheck as of Tue, 28 Jul 2026, next at Ulana's, Philadelphia on Fri, 7 Aug 2026.
+GorpoPap is a Techno and Electro artist with 2 upcoming club dates listed on soundcheck as of Wed, 29 Jul 2026, next at Ulana's, Philadelphia on Fri, 7 Aug 2026.
 
-GorpoPap is a techno and electro artist based in United States of America, tracked on soundcheck, with 10 sets logged across Philadelphia. Often billed alongside Caiya, Blueverbs and Lev Sterling. Next up: Ulana's, Philadelphia on Fri 7 Aug.
+GorpoPap is a techno and electro artist based in United States of America, tracked on soundcheck, with 11 sets logged across Philadelphia. Often billed alongside Caiya, Blueverbs and Lev Sterling. Next up: Ulana's, Philadelphia on Fri 7 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 7 Aug 2026 | Ulana's | Philadelphia |
+| Mon, 10 Aug 2026 | Nikki Lopez | Philadelphia |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ GorpoPap is a techno and electro artist based in United States of America, track
 
 Caiya, Blueverbs, Lev Sterling
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/gorpopap/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/gorpopap/)*

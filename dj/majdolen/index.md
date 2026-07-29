@@ -1,6 +1,6 @@
 # Majdolen
 
-Majdolen is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Tue, 28 Jul 2026, next at Trädgården, Stockholm on Fri, 31 Jul 2026.
+Majdolen is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Wed, 29 Jul 2026, next at Trädgården, Stockholm on Fri, 31 Jul 2026.
 
 Majdolen is a techno and house artist based in Germany, tracked on soundcheck, with 53 sets logged across Amsterdam, Athens, Berlin and Budapest and 4 more. Often billed alongside Dirty Daddy Don, Khloe and Luigi Di Venere. Next up: Trädgården, Stockholm on Fri 31 Jul.
 
@@ -26,4 +26,4 @@ Majdolen is a techno and house artist based in Germany, tracked on soundcheck, w
 
 Dirty Daddy Don, Khloe, Luigi Di Venere
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/majdolen/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/majdolen/)*

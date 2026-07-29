@@ -1,6 +1,6 @@
 # Charlie Soul Clap
 
-Charlie Soul Clap is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Tue, 28 Jul 2026, next at Middlesex, Boston on Thu, 30 Jul 2026.
+Charlie Soul Clap is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at Middlesex, Boston on Thu, 30 Jul 2026.
 
 Charlie Soul Clap is a house and disco artist based in United States of America, tracked on soundcheck, with 9 sets logged across Boston, Chicago, Detroit and Miami and 1 more. Often billed alongside Devon James, Soul Clap and Beki Powell. Next up: Middlesex, Boston on Thu 30 Jul.
 
@@ -25,4 +25,4 @@ Charlie Soul Clap is a house and disco artist based in United States of America,
 
 Devon James, Soul Clap, Beki Powell
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/charliesoulclap/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/charliesoulclap/)*

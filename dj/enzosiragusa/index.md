@@ -1,6 +1,6 @@
 # Enzo Siragusa
 
-Enzo Siragusa is a House and Tech House artist with 11 upcoming club dates listed on soundcheck as of Tue, 28 Jul 2026, next at Burgess Park, London on Fri, 31 Jul 2026.
+Enzo Siragusa is a House and Tech House artist with 11 upcoming club dates listed on soundcheck as of Wed, 29 Jul 2026, next at Burgess Park, London on Fri, 31 Jul 2026.
 
 Enzo Siragusa is a house and tech house artist tracked on soundcheck, with 190 sets logged across Amsterdam, Austin, Bali and Barcelona and 41 more. Often billed alongside Laidlaw, Traumer and Josh Baker. Next up: Burgess Park, London on Fri 31 Jul.
 
@@ -35,4 +35,4 @@ Enzo Siragusa is a house and tech house artist tracked on soundcheck, with 190 s
 
 Laidlaw, Traumer, Josh Baker
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/enzosiragusa/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/enzosiragusa/)*

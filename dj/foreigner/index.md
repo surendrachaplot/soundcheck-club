@@ -1,6 +1,6 @@
 # foreigner
 
-foreigner is a Afrobeats and Amapiano artist with 1 upcoming club date listed on soundcheck as of Tue, 28 Jul 2026, next at Ryman Auditorium, Nashville on Tue, 11 Aug 2026.
+foreigner is a Afrobeats and Amapiano artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at Ryman Auditorium, Nashville on Tue, 11 Aug 2026.
 
 foreigner is an afrobeats and amapiano artist tracked on soundcheck, with 68 sets logged across Amsterdam, Berlin, Chicago and London and 7 more. Often billed alongside Jon Trini, Blaq PAGES and Crooks. Next up: Ryman Auditorium, Nashville on Tue 11 Aug.
 
@@ -25,4 +25,4 @@ foreigner is an afrobeats and amapiano artist tracked on soundcheck, with 68 set
 
 Jon Trini, Blaq PAGES, Crooks
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/foreigner/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/foreigner/)*

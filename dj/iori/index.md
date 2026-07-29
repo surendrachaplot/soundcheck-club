@@ -1,6 +1,6 @@
 # Iori
 
-Iori is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Tue, 28 Jul 2026, next at Oath, Tokyo on Fri, 31 Jul 2026.
+Iori is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Wed, 29 Jul 2026, next at Oath, Tokyo on Fri, 31 Jul 2026.
 
 Iori is a techno and house artist based in Japan, tracked on soundcheck, with 61 sets logged across Osaka, Seoul and Tokyo. Often billed alongside Sakuma, YouForgot and Celter. Next up: Oath, Tokyo on Fri 31 Jul.
 
@@ -26,4 +26,4 @@ Iori is a techno and house artist based in Japan, tracked on soundcheck, with 61
 
 Sakuma, YouForgot, Celter
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/iori/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/iori/)*

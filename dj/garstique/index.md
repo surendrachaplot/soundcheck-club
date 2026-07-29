@@ -1,6 +1,6 @@
 # Garstique
 
-Garstique is a Downtempo and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 28 Jul 2026, next at Jonny Knüppel, Berlin on Fri, 31 Jul 2026.
+Garstique is a Downtempo and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at Jonny Knüppel, Berlin on Fri, 31 Jul 2026.
 
 Garstique is a downtempo and techno artist based in Germany, tracked on soundcheck, with 8 sets logged across Berlin, Hamburg, Leipzig and Nurnberg. Often billed alongside Bonnie Ford, Maria Theresia von Eberg and Acud. Next up: Jonny Knüppel, Berlin on Fri 31 Jul.
 
@@ -24,4 +24,4 @@ Garstique is a downtempo and techno artist based in Germany, tracked on soundche
 
 Bonnie Ford, Maria Theresia von Eberg, Acud
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/garstique/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/garstique/)*

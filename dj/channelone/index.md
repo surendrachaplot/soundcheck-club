@@ -1,6 +1,6 @@
 # Channel One
 
-Channel One is a Dub and Drum & Bass artist with 2 upcoming club dates listed on soundcheck as of Tue, 28 Jul 2026, next at Amsterdamse Bos, Amsterdam on Wed, 29 Jul 2026.
+Channel One is a Dub and Drum & Bass artist with 2 upcoming club dates listed on soundcheck as of Wed, 29 Jul 2026, next at Amsterdamse Bos, Amsterdam on Wed, 29 Jul 2026.
 
 Channel One is a dub and drum & bass artist tracked on soundcheck, with 19 sets logged across Amsterdam, Berlin, Brighton and Bristol and 4 more. Often billed alongside Iration Steppas, Christian AB and General Levy. Next up: Amsterdamse Bos, Amsterdam on Wed 29 Jul.
 
@@ -26,4 +26,4 @@ Channel One is a dub and drum & bass artist tracked on soundcheck, with 19 sets 
 
 Iration Steppas, Christian AB, General Levy
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/channelone/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/channelone/)*

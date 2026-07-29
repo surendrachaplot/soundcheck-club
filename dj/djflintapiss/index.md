@@ -1,6 +1,6 @@
 # DJ flintapiss
 
-DJ flintapiss is a House and Latin Bass artist with 1 upcoming club date listed on soundcheck as of Tue, 28 Jul 2026, next at Marmorbar, Berlin on Sat, 22 Aug 2026.
+DJ flintapiss is a House and Latin Bass artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at Marmorbar, Berlin on Sat, 22 Aug 2026.
 
 DJ flintapiss is a house and latin bass artist tracked on soundcheck, with 5 sets logged across Berlin. Often billed alongside DJ titka, Triqi and Kotyk Murkotyk. Next up: Marmorbar, Berlin on Sat 22 Aug.
 
@@ -21,4 +21,4 @@ DJ flintapiss is a house and latin bass artist tracked on soundcheck, with 5 set
 
 DJ titka, Triqi, Kotyk Murkotyk
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/djflintapiss/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/djflintapiss/)*

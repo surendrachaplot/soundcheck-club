@@ -1,6 +1,6 @@
 # Maxibon (2)
 
-Maxibon (2) is a Downtempo and Deep House artist with 1 upcoming club date listed on soundcheck as of Tue, 28 Jul 2026, next at Algha's Plantroom, London on Sat, 29 Aug 2026.
+Maxibon (2) is a Downtempo and Deep House artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at Algha's Plantroom, London on Sat, 29 Aug 2026.
 
 Maxibon (2) is a downtempo and deep house artist based in United Kingdom, tracked on soundcheck, with 5 sets logged across London and Manchester. Often billed alongside Ella Fayden, Blason and Bunney. Next up: Algha's Plantroom, London on Sat 29 Aug.
 
@@ -21,4 +21,4 @@ Maxibon (2) is a downtempo and deep house artist based in United Kingdom, tracke
 
 Ella Fayden, Blason, Bunney
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/maxibon-2/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/maxibon-2/)*

@@ -1,6 +1,6 @@
 # Cage (1)
 
-Cage (1) is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Tue, 28 Jul 2026, next at TBA - Various Venues, Brighton on Sat, 1 Aug 2026.
+Cage (1) is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Wed, 29 Jul 2026, next at TBA - Various Venues, Brighton on Sat, 1 Aug 2026.
 
 Cage (1) is a techno and house artist tracked on soundcheck, with 16 sets logged across Brighton and London. Often billed alongside DSD uk, Jack Jeffrey and POoK. Next up: TBA - Various Venues, Brighton on Sat 1 Aug.
 
@@ -27,4 +27,4 @@ Cage (1) is a techno and house artist tracked on soundcheck, with 16 sets logged
 
 DSD uk, Jack Jeffrey, POoK
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/cage-1/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/cage-1/)*

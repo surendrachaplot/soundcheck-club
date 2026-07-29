@@ -1,6 +1,6 @@
 # Madame Charlie
 
-Madame Charlie is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Tue, 28 Jul 2026, next at KitKatClub, Berlin on Mon, 10 Aug 2026.
+Madame Charlie is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at KitKatClub, Berlin on Mon, 10 Aug 2026.
 
 Madame Charlie is a techno and house artist based in Germany, tracked on soundcheck, with 10 sets logged across Belgrade, Berlin and Paris. Often billed alongside EZA (DE), DJ Spaßgetränk and Dj Sunflash. Next up: KitKatClub, Berlin on Mon 10 Aug.
 
@@ -25,4 +25,4 @@ Madame Charlie is a techno and house artist based in Germany, tracked on soundch
 
 EZA (DE), DJ Spaßgetränk, Dj Sunflash
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/madamecharlie/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/madamecharlie/)*

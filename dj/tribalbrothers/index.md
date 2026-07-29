@@ -1,6 +1,6 @@
 # Tribal Brothers
 
-Tribal Brothers is a Afro House and Amapiano artist with 1 upcoming club date listed on soundcheck as of Tue, 28 Jul 2026, next at Onyx (E1), London on Fri, 31 Jul 2026.
+Tribal Brothers is a Afro House and Amapiano artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at Onyx (E1), London on Fri, 31 Jul 2026.
 
 Tribal Brothers is an afro house and amapiano artist tracked on soundcheck, with 12 sets logged across London. Often billed alongside LOKI (2), Fiyahdred and N Fostell. Next up: Onyx (E1), London on Fri 31 Jul.
 
@@ -25,4 +25,4 @@ Tribal Brothers is an afro house and amapiano artist tracked on soundcheck, with
 
 LOKI (2), Fiyahdred, N Fostell
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/tribalbrothers/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/tribalbrothers/)*

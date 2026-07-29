@@ -1,13 +1,14 @@
 # Fat-P
 
-Fat-P is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Tue, 28 Jul 2026, next at La Terrrazza, Barcelona on Thu, 6 Aug 2026.
+Fat-P is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Wed, 29 Jul 2026, next at Azul Rooftop Barceloneta, Barcelona on Sun, 2 Aug 2026.
 
-Fat-P is a techno and house artist based in Argentina, tracked on soundcheck, with 21 sets logged across Barcelona. Often billed alongside Jo Kazan, Alphanova and Eze k. Next up: La Terrrazza, Barcelona on Thu 6 Aug.
+Fat-P is a techno and house artist based in Argentina, tracked on soundcheck, with 22 sets logged across Barcelona. Often billed alongside Jo Kazan, Alphanova and Eze k. Next up: Azul Rooftop Barceloneta, Barcelona on Sun 2 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sun, 2 Aug 2026 | Azul Rooftop Barceloneta | Barcelona |
 | Thu, 6 Aug 2026 | La Terrrazza | Barcelona |
 
 ## Recently played
@@ -25,4 +26,4 @@ Fat-P is a techno and house artist based in Argentina, tracked on soundcheck, wi
 
 Jo Kazan, Alphanova, Eze k
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/fat-p/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/fat-p/)*

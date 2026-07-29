@@ -1,6 +1,6 @@
 # Joyhauser
 
-Joyhauser is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Tue, 28 Jul 2026, next at Fridas Pier, Stuttgart on Fri, 4 Sept 2026.
+Joyhauser is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at Fridas Pier, Stuttgart on Fri, 4 Sept 2026.
 
 Joyhauser is a techno and trance artist based in Belgium, tracked on soundcheck, with 113 sets logged across Amsterdam, Antwerp, Athens and Austin and 36 more. Often billed alongside Juliet Fox, Pan-Pot and Bart Skils. Next up: Fridas Pier, Stuttgart on Fri 4 Sept.
 
@@ -25,4 +25,4 @@ Joyhauser is a techno and trance artist based in Belgium, tracked on soundcheck,
 
 Juliet Fox, Pan-Pot, Bart Skils
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/joyhauser/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/joyhauser/)*

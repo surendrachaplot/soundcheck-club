@@ -1,6 +1,6 @@
 # Howling
 
-Howling is a Electronica artist with 1 upcoming club date listed on soundcheck as of Tue, 28 Jul 2026, next at Boston Manor Park, London on Sat, 1 Aug 2026.
+Howling is a Electronica artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at Boston Manor Park, London on Sat, 1 Aug 2026.
 
 Howling is an electronica artist based in Germany, tracked on soundcheck, with 2 sets logged across Berlin and London. Often billed alongside AMBIENTES KOLLEKTIV, Dixon and Ivory. Next up: Boston Manor Park, London on Sat 1 Aug.
 
@@ -18,4 +18,4 @@ Howling is an electronica artist based in Germany, tracked on soundcheck, with 2
 
 AMBIENTES KOLLEKTIV, Dixon, Ivory
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/Howling/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/Howling/)*

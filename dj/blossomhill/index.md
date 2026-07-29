@@ -1,6 +1,6 @@
 # Blossom Hill
 
-Blossom Hill is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Tue, 28 Jul 2026, next at Liquidrom, Berlin on Fri, 31 Jul 2026.
+Blossom Hill is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Wed, 29 Jul 2026, next at Liquidrom, Berlin on Fri, 31 Jul 2026.
 
 Blossom Hill is a house and techno artist based in United Kingdom, tracked on soundcheck, with 25 sets logged across Bangkok, Berlin, Copenhagen and London and 4 more. Often billed alongside Seb Wildblood, schulze and ||||||||||||||||||||. Next up: Liquidrom, Berlin on Fri 31 Jul.
 
@@ -26,4 +26,4 @@ Blossom Hill is a house and techno artist based in United Kingdom, tracked on so
 
 Seb Wildblood, schulze, ||||||||||||||||||||
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/blossomhill/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/blossomhill/)*

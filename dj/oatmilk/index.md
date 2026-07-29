@@ -1,6 +1,6 @@
 # OatMilk
 
-OatMilk is a House and Psytrance artist with 1 upcoming club date listed on soundcheck as of Tue, 28 Jul 2026, next at SOBs, New York City on Fri, 7 Aug 2026.
+OatMilk is a House and Psytrance artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at SOBs, New York City on Fri, 7 Aug 2026.
 
 OatMilk is a house and psytrance artist based in Germany, tracked on soundcheck, with 8 sets logged across Berlin, Newyorkcity and Sydney. Often billed alongside Andrew Wowk, Fiona (2) and Alfalfa (2). Next up: SOBs, Newyorkcity on Fri 7 Aug.
 
@@ -24,4 +24,4 @@ OatMilk is a house and psytrance artist based in Germany, tracked on soundcheck,
 
 Andrew Wowk, Fiona (2), Alfalfa (2)
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/oatmilk/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/oatmilk/)*

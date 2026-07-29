@@ -1,6 +1,6 @@
 # Mursal
 
-Mursal is a Techno and Latin Bass artist with 1 upcoming club date listed on soundcheck as of Tue, 28 Jul 2026, next at Otto Wagner Areal, Vienna on Sat, 8 Aug 2026.
+Mursal is a Techno and Latin Bass artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at Otto Wagner Areal, Vienna on Sat, 8 Aug 2026.
 
 Mursal is a techno and latin bass artist based in Austria, tracked on soundcheck, with 16 sets logged across Vienna. Often billed alongside MARAws, Amblio and DJ DIAMOND (2). Next up: Otto Wagner Areal, Vienna on Sat 8 Aug.
 
@@ -25,4 +25,4 @@ Mursal is a techno and latin bass artist based in Austria, tracked on soundcheck
 
 MARAws, Amblio, DJ DIAMOND (2)
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/mursal/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/mursal/)*

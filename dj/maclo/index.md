@@ -1,6 +1,6 @@
 # MACLO
 
-MACLO is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Tue, 28 Jul 2026, next at The White Hotel, Manchester on Fri, 31 Jul 2026.
+MACLO is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at The White Hotel, Manchester on Fri, 31 Jul 2026.
 
 MACLO is a house and deep house artist based in United Kingdom, tracked on soundcheck, with 31 sets logged across Ibiza, Leeds, London and Manchester. Often billed alongside Burnski, Cinthie and Coyle. Next up: The White Hotel, Manchester on Fri 31 Jul.
 
@@ -25,4 +25,4 @@ MACLO is a house and deep house artist based in United Kingdom, tracked on sound
 
 Burnski, Cinthie, Coyle
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/maclo/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/maclo/)*

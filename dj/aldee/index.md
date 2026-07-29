@@ -1,6 +1,6 @@
 # Aldee
 
-Aldee is a Minimal and Electro artist with 1 upcoming club date listed on soundcheck as of Tue, 28 Jul 2026, next at Kaņepes Kultūras Centrs, Riga on Sat, 1 Aug 2026.
+Aldee is a Minimal and Electro artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at Kaņepes Kultūras Centrs, Riga on Sat, 1 Aug 2026.
 
 Aldee is a minimal and electro artist based in Latvia, tracked on soundcheck, with 4 sets logged across Bali and Riga. Often billed alongside iOAN (LV), Adroit and D I N. Next up: Kaņepes Kultūras Centrs, Riga on Sat 1 Aug.
 
@@ -20,4 +20,4 @@ Aldee is a minimal and electro artist based in Latvia, tracked on soundcheck, wi
 
 iOAN (LV), Adroit, D I N
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/aldee/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/aldee/)*

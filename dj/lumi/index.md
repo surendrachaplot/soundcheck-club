@@ -1,6 +1,6 @@
 # LUMI
 
-LUMI is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Tue, 28 Jul 2026, next at Odonien, Cologne on Wed, 29 Jul 2026.
+LUMI is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at Odonien, Cologne on Wed, 29 Jul 2026.
 
 LUMI is a techno and house artist based in Finland, tracked on soundcheck, with 17 sets logged across Barcelona, Berlin, Cologne and Losangeles and 4 more. Often billed alongside Wax Witch, Ctrl.mp3 and Kadeejah Streets. Next up: Odonien, Cologne on Wed 29 Jul.
 
@@ -25,4 +25,4 @@ LUMI is a techno and house artist based in Finland, tracked on soundcheck, with 
 
 Wax Witch, Ctrl.mp3, Kadeejah Streets
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/lumi/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/lumi/)*

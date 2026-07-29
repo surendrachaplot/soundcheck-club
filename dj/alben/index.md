@@ -1,6 +1,6 @@
 # Alben
 
-Alben is a Drum & Bass and Bass artist with 1 upcoming club date listed on soundcheck as of Tue, 28 Jul 2026, next at TBA - Secret Location, Berlin on Fri, 7 Aug 2026.
+Alben is a Drum & Bass and Bass artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at TBA - Secret Location, Berlin on Fri, 7 Aug 2026.
 
 Alben is a drum & bass and bass artist based in France, tracked on soundcheck, with 9 sets logged across Berlin and Paris. Often billed alongside LAJE, Balthazar Martinez and DJ Houseum. Next up: TBA - Secret Location, Berlin on Fri 7 Aug.
 
@@ -25,4 +25,4 @@ Alben is a drum & bass and bass artist based in France, tracked on soundcheck, w
 
 LAJE, Balthazar Martinez, DJ Houseum
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/alben/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/alben/)*

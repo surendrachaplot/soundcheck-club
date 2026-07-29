@@ -1,6 +1,6 @@
 # Usatov
 
-Usatov is a House and Progressive House artist with 1 upcoming club date listed on soundcheck as of Tue, 28 Jul 2026, next at Madam, Amsterdam on Fri, 21 Aug 2026.
+Usatov is a House and Progressive House artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at Madam, Amsterdam on Fri, 21 Aug 2026.
 
 Usatov is a house and progressive house artist based in Netherlands, tracked on soundcheck, with 17 sets logged across Amsterdam and Hamburg. Often billed alongside Natx, DJ Pulu and Ertug Karakas. Next up: Madam, Amsterdam on Fri 21 Aug.
 
@@ -25,4 +25,4 @@ Usatov is a house and progressive house artist based in Netherlands, tracked on 
 
 Natx, DJ Pulu, Ertug Karakas
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/usatov/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/usatov/)*

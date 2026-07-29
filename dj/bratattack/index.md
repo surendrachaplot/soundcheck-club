@@ -1,6 +1,6 @@
 # BRATATTACK
 
-BRATATTACK is a Club and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 28 Jul 2026, next at TBA - Call Infoline for Secret Location, Boston on Fri, 7 Aug 2026.
+BRATATTACK is a Club and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at TBA - Call Infoline for Secret Location, Boston on Fri, 7 Aug 2026.
 
 BRATATTACK is a club and techno artist tracked on soundcheck, with 18 sets logged across Boston, Losangeles, Nashville and Newyorkcity and 1 more. Often billed alongside Bullosa, YULIA (US) and BASSBEAR!!. Next up: TBA - Call Infoline for Secret Location, Boston on Fri 7 Aug.
 
@@ -25,4 +25,4 @@ BRATATTACK is a club and techno artist tracked on soundcheck, with 18 sets logge
 
 Bullosa, YULIA (US), BASSBEAR!!
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/bratattack/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/bratattack/)*

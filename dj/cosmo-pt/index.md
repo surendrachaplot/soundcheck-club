@@ -1,6 +1,6 @@
 # Cosmo (PT)
 
-Cosmo (PT) is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Tue, 28 Jul 2026, next at Ministerium Club, Lisbon on Sat, 1 Aug 2026.
+Cosmo (PT) is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at Ministerium Club, Lisbon on Sat, 1 Aug 2026.
 
 Cosmo (PT) is a techno and house artist based in Portugal, tracked on soundcheck, with 9 sets logged across Lisbon. Often billed alongside MYSS LETA, Taxsh and 2AT. Next up: Ministerium Club, Lisbon on Sat 1 Aug.
 
@@ -25,4 +25,4 @@ Cosmo (PT) is a techno and house artist based in Portugal, tracked on soundcheck
 
 MYSS LETA, Taxsh, 2AT
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/cosmo-pt/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/cosmo-pt/)*

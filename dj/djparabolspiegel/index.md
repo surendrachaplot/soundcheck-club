@@ -1,6 +1,6 @@
 # DJ Parabolspiegel
 
-DJ Parabolspiegel is a Techno and R&B artist with 1 upcoming club date listed on soundcheck as of Tue, 28 Jul 2026, next at Void Club, Berlin on Fri, 31 Jul 2026.
+DJ Parabolspiegel is a Techno and R&B artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at Void Club, Berlin on Fri, 31 Jul 2026.
 
 DJ Parabolspiegel is a techno and r&b artist based in Germany, tracked on soundcheck, with 7 sets logged across Berlin. Often billed alongside Un.Frieden, Flohmarkt and JASSEL. Next up: Void Club, Berlin on Fri 31 Jul.
 
@@ -23,4 +23,4 @@ DJ Parabolspiegel is a techno and r&b artist based in Germany, tracked on soundc
 
 Un.Frieden, Flohmarkt, JASSEL
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/djparabolspiegel/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/djparabolspiegel/)*

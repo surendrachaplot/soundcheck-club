@@ -1,6 +1,6 @@
 # SISSI'S Amsterdam
 
-SISSI'S Amsterdam is a music venue in Amsterdam with 12 upcoming nights listed on soundcheck as of Tue, 28 Jul 2026; the next is "Sissi's Friday with David Vunk, Floris Fahrenheit, Polli Panda, Abiba & Yonic" on Fri, 31 Jul 2026.
+SISSI'S Amsterdam is a music venue in Amsterdam with 12 upcoming nights listed on soundcheck as of Wed, 29 Jul 2026; the next is "Sissi's Friday with David Vunk, Floris Fahrenheit, Polli Panda, Abiba & Yonic" on Fri, 31 Jul 2026.
 
 SISSI'S Amsterdam is a music venue in Amsterdam listed on soundcheck. 12 upcoming nights, with line-ups including Abiba Sokoto, Benny2, David Vunk and DJ Split and 2 more. Browse upcoming dates, start times and who's playing. Anthony Fokkerweg 3, 1059 CM Amsterdam.
 
@@ -23,4 +23,4 @@ SISSI'S Amsterdam is a music venue in Amsterdam listed on soundcheck. 12 upcomin
 
 Anthony Fokkerweg 3, 1059 CM Amsterdam, Amsterdam
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/sissi-s-amsterdam/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/sissi-s-amsterdam/)*

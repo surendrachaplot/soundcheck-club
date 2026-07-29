@@ -1,6 +1,6 @@
 # VECSILLE
 
-VECSILLE is a Garage and Bass artist with 1 upcoming club date listed on soundcheck as of Tue, 28 Jul 2026, next at R Lounge, Tokyo on Fri, 31 Jul 2026.
+VECSILLE is a Garage and Bass artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at R Lounge, Tokyo on Fri, 31 Jul 2026.
 
 VECSILLE is a garage and bass artist tracked on soundcheck, with 67 sets logged across Hongkong and Tokyo. Often billed alongside MOOTOE, ATAMI and Ogasawara. Next up: R Lounge, Tokyo on Fri 31 Jul.
 
@@ -25,4 +25,4 @@ VECSILLE is a garage and bass artist tracked on soundcheck, with 67 sets logged 
 
 MOOTOE, ATAMI, Ogasawara
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/vecsille/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/vecsille/)*

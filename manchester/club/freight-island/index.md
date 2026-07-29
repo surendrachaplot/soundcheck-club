@@ -1,6 +1,6 @@
 # Freight Island
 
-Freight Island is a music venue in Manchester with 2 upcoming nights listed on soundcheck as of Tue, 28 Jul 2026; the next is "Hit & Run: Summer Session with Alix Perez & Paige Julia - FREE Tickets" on Sun, 2 Aug 2026.
+Freight Island is a music venue in Manchester with 2 upcoming nights listed on soundcheck as of Wed, 29 Jul 2026; the next is "Hit & Run: Summer Session with Alix Perez & Paige Julia - FREE Tickets" on Sun, 2 Aug 2026.
 
 Freight Island is a music venue in Manchester listed on soundcheck. 2 upcoming nights, with line-ups including Alix Perez, DAIZ, Paige Julia and Rich Reason. Browse upcoming dates, start times and who's playing. 11 Baring St, Manchester M1 2PZ.
 
@@ -15,4 +15,4 @@ Freight Island is a music venue in Manchester listed on soundcheck. 2 upcoming n
 
 11 Baring St, Manchester M1 2PZ, Manchester
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/manchester/club/freight-island/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/manchester/club/freight-island/)*

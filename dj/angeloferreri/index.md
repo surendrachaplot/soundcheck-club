@@ -1,6 +1,6 @@
 # Angelo Ferreri
 
-Angelo Ferreri is a House and Tech House artist with 2 upcoming club dates listed on soundcheck as of Tue, 28 Jul 2026, next at TBA - indoor / outdoor Toronto warehouse venue to be announced to ticket holders, Toronto on Sat, 1 Aug 2026.
+Angelo Ferreri is a House and Tech House artist with 2 upcoming club dates listed on soundcheck as of Wed, 29 Jul 2026, next at TBA - indoor / outdoor Toronto warehouse venue to be announced to ticket holders, Toronto on Sat, 1 Aug 2026.
 
 Angelo Ferreri is a house and tech house artist based in Italy, tracked on soundcheck, with 21 sets logged across Amsterdam, Barcelona, Berlin and Brighton and 7 more. Often billed alongside Hatiras, Vincent Caira and Black Legend. Next up: TBA - indoor / outdoor Toronto warehouse venue to be announced to ticket holders, Toronto on Sat 1 Aug.
 
@@ -26,4 +26,4 @@ Angelo Ferreri is a house and tech house artist based in Italy, tracked on sound
 
 Hatiras, Vincent Caira, Black Legend
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/angeloferreri/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/angeloferreri/)*

@@ -1,6 +1,6 @@
 # Fold
 
-Fold is a Bass and Techno artist with 2 upcoming club dates listed on soundcheck as of Tue, 28 Jul 2026, next at Razzmatazz, Barcelona on Sat, 15 Aug 2026.
+Fold is a Bass and Techno artist with 2 upcoming club dates listed on soundcheck as of Wed, 29 Jul 2026, next at Razzmatazz, Barcelona on Sat, 15 Aug 2026.
 
 Fold is a bass and techno artist tracked on soundcheck, with 34 sets logged across Barcelona, Brisbane, Copenhagen and Dublin and 10 more. Often billed alongside Joy Orbison, Y U QT and George FitzGerald. Next up: Razzmatazz, Barcelona on Sat 15 Aug.
 
@@ -26,4 +26,4 @@ Fold is a bass and techno artist tracked on soundcheck, with 34 sets logged acro
 
 Joy Orbison, Y U QT, George FitzGerald
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/fold/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/fold/)*

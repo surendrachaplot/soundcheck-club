@@ -1,6 +1,6 @@
 # Daesmith
 
-Daesmith is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Tue, 28 Jul 2026, next at Viadukt Bar, Budapest on Wed, 29 Jul 2026.
+Daesmith is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Wed, 29 Jul 2026, next at Viadukt Bar, Budapest on Wed, 29 Jul 2026.
 
 Daesmith is a house and techno artist based in Hungary, tracked on soundcheck, with 8 sets logged across Budapest and Zurich. Often billed alongside Peter Makto, AANN and Ae:ther. Next up: Viadukt Bar, Budapest on Wed 29 Jul.
 
@@ -24,4 +24,4 @@ Daesmith is a house and techno artist based in Hungary, tracked on soundcheck, w
 
 Peter Makto, AANN, Ae:ther
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/daesmith/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/daesmith/)*

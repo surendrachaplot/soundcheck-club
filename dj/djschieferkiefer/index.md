@@ -1,6 +1,6 @@
 # DJ Schieferkiefer
 
-DJ Schieferkiefer is a Trance and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 28 Jul 2026, next at Der Weiße Hase, Berlin on Tue, 4 Aug 2026.
+DJ Schieferkiefer is a Trance and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at Der Weiße Hase, Berlin on Tue, 4 Aug 2026.
 
 DJ Schieferkiefer is a trance and techno artist based in Germany, tracked on soundcheck, with 7 sets logged across Berlin. Often billed alongside August Kind, Klangpusch and MARRE. Next up: Der Weiße Hase, Berlin on Tue 4 Aug.
 
@@ -23,4 +23,4 @@ DJ Schieferkiefer is a trance and techno artist based in Germany, tracked on sou
 
 August Kind, Klangpusch, MARRE
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/djschieferkiefer/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/djschieferkiefer/)*

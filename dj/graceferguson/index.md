@@ -1,6 +1,6 @@
 # Grace Ferguson
 
-Grace Ferguson is a Classical and Experimental artist with 1 upcoming club date listed on soundcheck as of Tue, 28 Jul 2026, next at High Note, Melbourne on Thu, 6 Aug 2026.
+Grace Ferguson is a Classical and Experimental artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at High Note, Melbourne on Thu, 6 Aug 2026.
 
 Grace Ferguson is a classical and experimental artist based in Australia, tracked on soundcheck, with 4 sets logged across Melbourne. Often billed alongside Antal, Coco Maria and Penelope Trappes. Next up: High Note, Melbourne on Thu 6 Aug.
 
@@ -20,4 +20,4 @@ Grace Ferguson is a classical and experimental artist based in Australia, tracke
 
 Antal, Coco Maria, Penelope Trappes
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/graceferguson/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/graceferguson/)*

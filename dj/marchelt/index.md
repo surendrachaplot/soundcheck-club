@@ -1,6 +1,6 @@
 # Marc Helt
 
-Marc Helt is a Bass and Tech House artist with 1 upcoming club date listed on soundcheck as of Tue, 28 Jul 2026, next at Jolene, Copenhagen on Thu, 30 Jul 2026.
+Marc Helt is a Bass and Tech House artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at Jolene, Copenhagen on Thu, 30 Jul 2026.
 
 Marc Helt is a bass and tech house artist based in Denmark, tracked on soundcheck, with 7 sets logged across Copenhagen. Often billed alongside Ludvig Poll, FRSS and Jaime Frias. Next up: Jolene, Copenhagen on Thu 30 Jul.
 
@@ -23,4 +23,4 @@ Marc Helt is a bass and tech house artist based in Denmark, tracked on soundchec
 
 Ludvig Poll, FRSS, Jaime Frias
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/marchelt/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/marchelt/)*

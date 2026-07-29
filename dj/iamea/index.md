@@ -1,6 +1,6 @@
 # IAMEA
 
-IAMEA is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Tue, 28 Jul 2026, next at Bassiani, Tbilisi on Fri, 31 Jul 2026.
+IAMEA is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at Bassiani, Tbilisi on Fri, 31 Jul 2026.
 
 IAMEA is a techno and trance artist tracked on soundcheck, with 37 sets logged across Berlin, Hamburg, Stuttgart and Tbilisi. Often billed alongside Mtvare, Vakho and Zurkin. Next up: Bassiani, Tbilisi on Fri 31 Jul.
 
@@ -25,4 +25,4 @@ IAMEA is a techno and trance artist tracked on soundcheck, with 37 sets logged a
 
 Mtvare, Vakho, Zurkin
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/iamea/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/iamea/)*

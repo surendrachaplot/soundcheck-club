@@ -1,6 +1,6 @@
 # 1TK (1)
 
-1TK (1) is a Garage and Breakbeat artist with 1 upcoming club date listed on soundcheck as of Tue, 28 Jul 2026, next at TBA - The Painted Lady, Toronto on Wed, 29 Jul 2026.
+1TK (1) is a Garage and Breakbeat artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at TBA - The Painted Lady, Toronto on Wed, 29 Jul 2026.
 
 1TK (1) is a garage and breakbeat artist based in Canada, tracked on soundcheck, with 6 sets logged across Toronto. Often billed alongside Operator P, NUNI and Terror Tone. Next up: TBA - The Painted Lady, Toronto on Wed 29 Jul.
 
@@ -22,4 +22,4 @@
 
 Operator P, NUNI, Terror Tone
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/1tk-1/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/1tk-1/)*

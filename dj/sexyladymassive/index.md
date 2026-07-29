@@ -1,6 +1,6 @@
 # Sexy Lady Massive
 
-Sexy Lady Massive is a Jungle and Garage artist with 4 upcoming club dates listed on soundcheck as of Tue, 28 Jul 2026, next at Phonox, London on Fri, 7 Aug 2026.
+Sexy Lady Massive is a Jungle and Garage artist with 4 upcoming club dates listed on soundcheck as of Wed, 29 Jul 2026, next at Phonox, London on Fri, 7 Aug 2026.
 
 Sexy Lady Massive is a jungle and garage artist tracked on soundcheck, with 67 sets logged across Barcelona, Berlin, Brighton and Bristol and 7 more. Often billed alongside 4am Kru, Betsy Mae and Missy P. Next up: Phonox, London on Fri 7 Aug.
 
@@ -28,4 +28,4 @@ Sexy Lady Massive is a jungle and garage artist tracked on soundcheck, with 67 s
 
 4am Kru, Betsy Mae, Missy P
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/sexyladymassive/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/sexyladymassive/)*

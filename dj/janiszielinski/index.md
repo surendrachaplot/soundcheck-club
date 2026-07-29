@@ -1,6 +1,6 @@
 # Janis Zielinski
 
-Janis Zielinski is a Techno and Trance artist with 6 upcoming club dates listed on soundcheck as of Tue, 28 Jul 2026, next at INPUT High Fidelity Dance Club, Barcelona on Fri, 31 Jul 2026.
+Janis Zielinski is a Techno and Trance artist with 6 upcoming club dates listed on soundcheck as of Wed, 29 Jul 2026, next at INPUT High Fidelity Dance Club, Barcelona on Fri, 31 Jul 2026.
 
 Janis Zielinski is a techno and trance artist tracked on soundcheck, with 137 sets logged across Amsterdam, Antwerp, Barcelona and Basel and 26 more. Often billed alongside Bad Boombox, Mischluft and Ollie Lishman. Next up: INPUT High Fidelity Dance Club, Barcelona on Fri 31 Jul.
 
@@ -30,4 +30,4 @@ Janis Zielinski is a techno and trance artist tracked on soundcheck, with 137 se
 
 Bad Boombox, Mischluft, Ollie Lishman
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/janiszielinski/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/janiszielinski/)*

@@ -1,6 +1,6 @@
 # HIJINX
 
-HIJINX is a Dubstep and Drum & Bass artist with 1 upcoming club date listed on soundcheck as of Tue, 28 Jul 2026, next at HERE, London on Fri, 4 Sept 2026.
+HIJINX is a Dubstep and Drum & Bass artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at HERE, London on Fri, 4 Sept 2026.
 
 HIJINX is a dubstep and drum & bass artist tracked on soundcheck, with 22 sets logged across Berlin, Bristol, Leeds and London and 6 more. Often billed alongside SGT Pokes, Alix Perez and Cesco. Next up: HERE, London on Fri 4 Sept.
 
@@ -25,4 +25,4 @@ HIJINX is a dubstep and drum & bass artist tracked on soundcheck, with 22 sets l
 
 SGT Pokes, Alix Perez, Cesco
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/hijinx/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/hijinx/)*

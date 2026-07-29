@@ -1,6 +1,6 @@
 # F DRAXIS
 
-F DRAXIS is a Acid and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 28 Jul 2026, next at ÆDEN, Berlin on Thu, 30 Jul 2026.
+F DRAXIS is a Acid and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at ÆDEN, Berlin on Thu, 30 Jul 2026.
 
 F DRAXIS is an acid and techno artist based in Spain, tracked on soundcheck, with 4 sets logged across Berlin. Often billed alongside Aero (1), Al Aslan and Alex Pastore. Next up: ÆDEN, Berlin on Thu 30 Jul.
 
@@ -20,4 +20,4 @@ F DRAXIS is an acid and techno artist based in Spain, tracked on soundcheck, wit
 
 Aero (1), Al Aslan, Alex Pastore
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/fdraxis/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/fdraxis/)*

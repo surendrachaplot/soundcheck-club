@@ -1,6 +1,6 @@
 # 2M (CH)
 
-2M (CH) is a House and Electronica artist with 1 upcoming club date listed on soundcheck as of Tue, 28 Jul 2026, next at TBA, Zurich on Sat, 8 Aug 2026.
+2M (CH) is a House and Electronica artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at TBA, Zurich on Sat, 8 Aug 2026.
 
 2M (CH) is a house and electronica artist based in Switzerland, tracked on soundcheck, with 28 sets logged across Amsterdam, Brussels, Madrid and Saopaulo and 1 more. Often billed alongside Alex Dallas, KAYYAK and Chloé Caillet. Next up: TBA, Zurich on Sat 8 Aug.
 
@@ -25,4 +25,4 @@
 
 Alex Dallas, KAYYAK, Chloé Caillet
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/2m-ch/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/2m-ch/)*

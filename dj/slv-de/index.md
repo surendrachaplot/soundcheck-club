@@ -1,6 +1,6 @@
 # SLV
 
-SLV is a Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 28 Jul 2026, next at ÆDEN, Berlin on Fri, 7 Aug 2026.
+SLV is a Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at ÆDEN, Berlin on Fri, 7 Aug 2026.
 
 SLV is a techno artist based in Italy, tracked on soundcheck, with 5 sets logged across Berlin and Ibiza. Often billed alongside SEMREH, Acierate and AnD. Next up: ÆDEN, Berlin on Fri 7 Aug.
 
@@ -21,4 +21,4 @@ SLV is a techno artist based in Italy, tracked on soundcheck, with 5 sets logged
 
 SEMREH, Acierate, AnD
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/slv-de/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/slv-de/)*

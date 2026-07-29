@@ -1,6 +1,6 @@
 # Steve Kennedy
 
-Steve Kennedy is a Techno and Tech House artist with 1 upcoming club date listed on soundcheck as of Tue, 28 Jul 2026, next at Nescio - by Generator Amsterdam, Amsterdam on Sat, 1 Aug 2026.
+Steve Kennedy is a Techno and Tech House artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at Nescio - by Generator Amsterdam, Amsterdam on Sat, 1 Aug 2026.
 
 Steve Kennedy is a techno and tech house artist based in Netherlands, tracked on soundcheck, with 8 sets logged across Amsterdam and Barcelona. Often billed alongside Alex Sharp, ARTE-MAS and KUKO. Next up: Nescio - by Generator Amsterdam, Amsterdam on Sat 1 Aug.
 
@@ -24,4 +24,4 @@ Steve Kennedy is a techno and tech house artist based in Netherlands, tracked on
 
 Alex Sharp, ARTE-MAS, KUKO
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/stevekennedy/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/stevekennedy/)*

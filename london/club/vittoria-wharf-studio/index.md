@@ -1,6 +1,6 @@
 # Vittoria Wharf Studio
 
-Vittoria Wharf Studio is a music venue in London with 7 upcoming nights listed on soundcheck as of Tue, 28 Jul 2026; the next is "Alien Communications b2b Radioactive Man" on Fri, 31 Jul 2026.
+Vittoria Wharf Studio is a music venue in London with 7 upcoming nights listed on soundcheck as of Wed, 29 Jul 2026; the next is "Alien Communications b2b Radioactive Man" on Fri, 31 Jul 2026.
 
 Vittoria Wharf Studio is a music venue in London listed on soundcheck. 7 upcoming nights, with line-ups including Alfie Aukett, Alien Communications, Amaliah and Bailey Ibbs and 2 more. Browse upcoming dates, start times and who's playing. Vittoria Wharf Yard, Hackney Wick, E3 2NT.
 
@@ -20,4 +20,4 @@ Vittoria Wharf Studio is a music venue in London listed on soundcheck. 7 upcomin
 
 Vittoria Wharf Yard, Hackney Wick, E3 2NT, London
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/london/club/vittoria-wharf-studio/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/london/club/vittoria-wharf-studio/)*

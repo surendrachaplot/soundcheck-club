@@ -1,6 +1,6 @@
 # Say No More Madrid
 
-Say No More Madrid is a music venue in Madrid with 1 upcoming night listed on soundcheck as of Tue, 28 Jul 2026; the next is "DJ Set by CHELO x Say No More (R&B Night)" on Fri, 31 Jul 2026.
+Say No More Madrid is a music venue in Madrid with 1 upcoming night listed on soundcheck as of Wed, 29 Jul 2026; the next is "DJ Set by CHELO x Say No More (R&B Night)" on Fri, 31 Jul 2026.
 
 Say No More Madrid is a music venue in Madrid listed on soundcheck. 1 upcoming night, with line-ups including CHELO and SENDA FATAL. Browse upcoming dates, start times and who's playing. Gran Vía, 11, Centro, 28013 Madrid.
 
@@ -14,4 +14,4 @@ Say No More Madrid is a music venue in Madrid listed on soundcheck. 1 upcoming n
 
 Gran Vía, 11, Centro, 28013 Madrid, Madrid
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/madrid/club/say-no-more-madrid/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/madrid/club/say-no-more-madrid/)*

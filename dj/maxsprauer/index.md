@@ -1,6 +1,6 @@
 # Max Sprauer
 
-Max Sprauer is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 28 Jul 2026, next at Signal, New York City on Thu, 30 Jul 2026.
+Max Sprauer is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at Signal, New York City on Thu, 30 Jul 2026.
 
 Max Sprauer is a house and techno artist tracked on soundcheck, with 99 sets logged across Berlin, Boston, Brussels and Chicago and 8 more. Often billed alongside Shvili, Rama NYC and Rasho. Next up: Signal, Newyorkcity on Thu 30 Jul.
 
@@ -25,4 +25,4 @@ Max Sprauer is a house and techno artist tracked on soundcheck, with 99 sets log
 
 Shvili, Rama NYC, Rasho
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/maxsprauer/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/maxsprauer/)*

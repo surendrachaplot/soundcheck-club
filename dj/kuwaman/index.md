@@ -1,6 +1,6 @@
 # KUWAMAN
 
-KUWAMAN is a Minimal and House artist with 1 upcoming club date listed on soundcheck as of Tue, 28 Jul 2026, next at flo Soakin, Osaka on Mon, 10 Aug 2026.
+KUWAMAN is a Minimal and House artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at flo Soakin, Osaka on Mon, 10 Aug 2026.
 
 KUWAMAN is a minimal and house artist based in Japan, tracked on soundcheck, with 37 sets logged across Osaka and Tokyo. Often billed alongside YU-MA, Takuto and HSC (1). Next up: flo Soakin, Osaka on Mon 10 Aug.
 
@@ -25,4 +25,4 @@ KUWAMAN is a minimal and house artist based in Japan, tracked on soundcheck, wit
 
 YU-MA, Takuto, HSC (1)
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/kuwaman/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/kuwaman/)*

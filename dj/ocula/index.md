@@ -1,6 +1,6 @@
 # Ocula
 
-Ocula is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Tue, 28 Jul 2026, next at E1, London on Sat, 10 Oct 2026.
+Ocula is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at E1, London on Sat, 10 Oct 2026.
 
 Ocula is a house and deep house artist tracked on soundcheck, with 29 sets logged across Amsterdam, Belfast, Chicago and Denver and 10 more. Often billed alongside ALLKNIGHT, Estiva and EMBRZ (IE). Next up: E1, London on Sat 10 Oct.
 
@@ -25,4 +25,4 @@ Ocula is a house and deep house artist tracked on soundcheck, with 29 sets logge
 
 ALLKNIGHT, Estiva, EMBRZ (IE)
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/ocula/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/ocula/)*

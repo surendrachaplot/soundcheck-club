@@ -1,6 +1,6 @@
 # Nachtwasser
 
-Nachtwasser is a Trance artist with 1 upcoming club date listed on soundcheck as of Tue, 28 Jul 2026, next at Schrotty, Cologne on Sat, 1 Aug 2026.
+Nachtwasser is a Trance artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at Schrotty, Cologne on Sat, 1 Aug 2026.
 
 Nachtwasser is a trance artist based in Germany, tracked on soundcheck, with 8 sets logged across Berlin, Cologne and Vienna. Often billed alongside BabaBass3000, SUITSIDE and Atzendent. Next up: Schrotty, Cologne on Sat 1 Aug.
 
@@ -24,4 +24,4 @@ Nachtwasser is a trance artist based in Germany, tracked on soundcheck, with 8 s
 
 BabaBass3000, SUITSIDE, Atzendent
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/nachtwasser/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/nachtwasser/)*

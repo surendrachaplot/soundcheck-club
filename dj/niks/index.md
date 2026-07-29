@@ -1,6 +1,6 @@
 # NIKS
 
-NIKS is a House and Techno artist with 4 upcoming club dates listed on soundcheck as of Tue, 28 Jul 2026, next at Amsterdamse Bos, Amsterdam on Wed, 29 Jul 2026.
+NIKS is a House and Techno artist with 4 upcoming club dates listed on soundcheck as of Wed, 29 Jul 2026, next at Amsterdamse Bos, Amsterdam on Wed, 29 Jul 2026.
 
 NIKS is a house and techno artist tracked on soundcheck, with 155 sets logged across Amsterdam, Antwerp, Barcelona and Berlin and 35 more. Often billed alongside Amaliah, Josh Caffé and Moxie. Next up: Amsterdamse Bos, Amsterdam on Wed 29 Jul.
 
@@ -28,4 +28,4 @@ NIKS is a house and techno artist tracked on soundcheck, with 155 sets logged ac
 
 Amaliah, Josh Caffé, Moxie
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/niks/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/niks/)*

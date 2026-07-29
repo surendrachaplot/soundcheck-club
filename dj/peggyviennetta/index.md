@@ -1,6 +1,6 @@
 # Peggy Viennetta
 
-Peggy Viennetta is a Hardcore and Trance artist with 1 upcoming club date listed on soundcheck as of Tue, 28 Jul 2026, next at Green Works, Bristol on Sat, 1 Aug 2026.
+Peggy Viennetta is a Hardcore and Trance artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at Green Works, Bristol on Sat, 1 Aug 2026.
 
 Peggy Viennetta is a hardcore and trance artist based in United Kingdom, tracked on soundcheck, with 55 sets logged across Barcelona, Berlin, Brighton and Bristol and 14 more. Often billed alongside Trancey Beaker, DJ Fingerblast and Holly Warcup. Next up: Green Works, Bristol on Sat 1 Aug.
 
@@ -25,4 +25,4 @@ Peggy Viennetta is a hardcore and trance artist based in United Kingdom, tracked
 
 Trancey Beaker, DJ Fingerblast, Holly Warcup
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/peggyviennetta/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/peggyviennetta/)*

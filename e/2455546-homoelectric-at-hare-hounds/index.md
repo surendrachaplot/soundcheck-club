@@ -1,6 +1,6 @@
 # Homoelectric at Hare & Hounds
 
-Homoelectric at Hare & Hounds on Fri 14 Aug, Birmingham. Balearic and Disco. Preview the line-up and save it on soundcheck.
+Homoelectric at Hare & Hounds on Fri 14 Aug, Birmingham. Disco and Balearic. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

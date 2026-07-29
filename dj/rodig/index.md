@@ -1,6 +1,6 @@
 # Rødig
 
-Rødig is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Tue, 28 Jul 2026, next at Motel Campo, Geneva on Sat, 8 Aug 2026.
+Rødig is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at Motel Campo, Geneva on Sat, 8 Aug 2026.
 
 Rødig is a techno and house artist based in Switzerland, tracked on soundcheck, with 13 sets logged across Berlin, Geneva and Paris. Often billed alongside DJ SUN (CH/DE), Alarico and Carmen Electro. Next up: Motel Campo, Geneva on Sat 8 Aug.
 
@@ -25,4 +25,4 @@ Rødig is a techno and house artist based in Switzerland, tracked on soundcheck,
 
 DJ SUN (CH/DE), Alarico, Carmen Electro
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/rodig/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/rodig/)*

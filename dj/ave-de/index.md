@@ -1,6 +1,6 @@
 # Ave (DE)
 
-Ave (DE) is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Tue, 28 Jul 2026, next at Waschhaus, Berlin on Fri, 7 Aug 2026.
+Ave (DE) is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at Waschhaus, Berlin on Fri, 7 Aug 2026.
 
 Ave (DE) is a techno and house artist based in Germany, tracked on soundcheck, with 19 sets logged across Berlin, Cologne, Frankfurt and Nurnberg and 1 more. Often billed alongside ZEUZ, A.N.I. and DAZA. Next up: Waschhaus, Berlin on Fri 7 Aug.
 
@@ -25,4 +25,4 @@ Ave (DE) is a techno and house artist based in Germany, tracked on soundcheck, w
 
 ZEUZ, A.N.I., DAZA
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/ave-de/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/ave-de/)*

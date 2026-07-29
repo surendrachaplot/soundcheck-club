@@ -1,6 +1,6 @@
 # VHOOR
 
-VHOOR is a Baile Funk and House artist with 2 upcoming club dates listed on soundcheck as of Tue, 28 Jul 2026, next at Komplexo Tempo, Sao Paulo on Fri, 14 Aug 2026.
+VHOOR is a Baile Funk and House artist with 2 upcoming club dates listed on soundcheck as of Wed, 29 Jul 2026, next at Komplexo Tempo, Sao Paulo on Fri, 14 Aug 2026.
 
 VHOOR is a baile funk and house artist tracked on soundcheck, with 65 sets logged across Amsterdam, Bangkok, Barcelona and Berlin and 24 more. Often billed alongside Deekapz, Florentino and Bieu. Next up: Komplexo Tempo, Saopaulo on Fri 14 Aug.
 
@@ -26,4 +26,4 @@ VHOOR is a baile funk and house artist tracked on soundcheck, with 65 sets logge
 
 Deekapz, Florentino, Bieu
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/vhoor/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/vhoor/)*

@@ -1,6 +1,6 @@
 # Simeon Orbis
 
-Simeon Orbis is a Tech House and Drum & Bass artist with 1 upcoming club date listed on soundcheck as of Tue, 28 Jul 2026, next at TBA - The Painted Lady, Toronto on Wed, 29 Jul 2026.
+Simeon Orbis is a Tech House and Drum & Bass artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at TBA - The Painted Lady, Toronto on Wed, 29 Jul 2026.
 
 Simeon Orbis is a tech house and drum & bass artist based in Canada, tracked on soundcheck, with 36 sets logged across Toronto. Often billed alongside 1TK (1), AKWA and AMV.3. Next up: TBA - The Painted Lady, Toronto on Wed 29 Jul.
 
@@ -25,4 +25,4 @@ Simeon Orbis is a tech house and drum & bass artist based in Canada, tracked on 
 
 1TK (1), AKWA, AMV.3
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/simeonorbis/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/simeonorbis/)*

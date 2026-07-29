@@ -1,6 +1,6 @@
 # mae.ly
 
-mae.ly is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Tue, 28 Jul 2026, next at ÆDEN, Berlin on Fri, 31 Jul 2026.
+mae.ly is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at ÆDEN, Berlin on Fri, 31 Jul 2026.
 
 mae.ly is a techno and house artist based in Germany, tracked on soundcheck, with 12 sets logged across Berlin and Cologne. Often billed alongside FORKLYFTER, Bélavie and Prossowski. Next up: ÆDEN, Berlin on Fri 31 Jul.
 
@@ -25,4 +25,4 @@ mae.ly is a techno and house artist based in Germany, tracked on soundcheck, wit
 
 FORKLYFTER, Bélavie, Prossowski
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/mae.ly/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/mae.ly/)*

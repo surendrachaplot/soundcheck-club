@@ -1,6 +1,6 @@
 # Génie
 
-Génie is a Techno and Drum & Bass artist with 1 upcoming club date listed on soundcheck as of Tue, 28 Jul 2026, next at XOYO, London on Thu, 13 Aug 2026.
+Génie is a Techno and Drum & Bass artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at XOYO, London on Thu, 13 Aug 2026.
 
 Génie is a techno and drum & bass artist based in United Kingdom, tracked on soundcheck, with 8 sets logged across Glasgow and London. Often billed alongside Babyccino, DRUMA and Brody James. Next up: XOYO, London on Thu 13 Aug.
 
@@ -24,4 +24,4 @@ Génie is a techno and drum & bass artist based in United Kingdom, tracked on so
 
 Babyccino, DRUMA, Brody James
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/genie/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/genie/)*

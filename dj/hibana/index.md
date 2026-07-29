@@ -1,6 +1,6 @@
 # Hibana
 
-Hibana is a Techno and Electro artist with 1 upcoming club date listed on soundcheck as of Tue, 28 Jul 2026, next at TBA - LOVE LOFT Berlin, Berlin on Fri, 31 Jul 2026.
+Hibana is a Techno and Electro artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at TBA - LOVE LOFT Berlin, Berlin on Fri, 31 Jul 2026.
 
 Hibana is a techno and electro artist based in Puerto Rico, tracked on soundcheck, with 1 set logged across Berlin. Often billed alongside Professor Dictabeat, Sholinger and The Dark Wasp. Next up: TBA - LOVE LOFT Berlin, Berlin on Fri 31 Jul.
 
@@ -14,4 +14,4 @@ Hibana is a techno and electro artist based in Puerto Rico, tracked on soundchec
 
 Professor Dictabeat, Sholinger, The Dark Wasp
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/hibana/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/hibana/)*

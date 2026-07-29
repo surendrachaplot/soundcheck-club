@@ -1,6 +1,6 @@
 # olasconola
 
-olasconola is a Experimental and Funk / Soul artist with 1 upcoming club date listed on soundcheck as of Tue, 28 Jul 2026, next at Bambi's, Toronto on Fri, 31 Jul 2026.
+olasconola is a Experimental and Funk / Soul artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at Bambi's, Toronto on Fri, 31 Jul 2026.
 
 olasconola is an experimental and funk / soul artist based in Canada, tracked on soundcheck, with 8 sets logged across Toronto. Often billed alongside Anzola, Carlos Estebban and Critter. Next up: Bambi's, Toronto on Fri 31 Jul.
 
@@ -24,4 +24,4 @@ olasconola is an experimental and funk / soul artist based in Canada, tracked on
 
 Anzola, Carlos Estebban, Critter
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/olasconola/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/olasconola/)*

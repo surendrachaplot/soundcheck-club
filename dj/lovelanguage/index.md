@@ -1,6 +1,6 @@
 # Love Language
 
-Love Language is a House and Ballroom artist with 1 upcoming club date listed on soundcheck as of Tue, 28 Jul 2026, next at Arcana, San Francisco/Oakland on Fri, 7 Aug 2026.
+Love Language is a House and Ballroom artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at Arcana, San Francisco/Oakland on Fri, 7 Aug 2026.
 
 Love Language is a house and ballroom artist based in New Zealand, tracked on soundcheck, with 23 sets logged across Auckland, Boston, Mexicocity and Montreal and 2 more. Often billed alongside Dj Raw (MX), Gallō and Light IDR. Next up: Arcana, Sanfrancisco on Fri 7 Aug.
 
@@ -25,4 +25,4 @@ Love Language is a house and ballroom artist based in New Zealand, tracked on so
 
 Dj Raw (MX), Gallō, Light IDR
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/lovelanguage/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/lovelanguage/)*

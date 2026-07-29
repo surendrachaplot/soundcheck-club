@@ -1,6 +1,6 @@
 # Ku Barcelona
 
-Ku Barcelona is a music venue in Barcelona with 7 upcoming nights listed on soundcheck as of Tue, 28 Jul 2026; the next is "AVALON: Monblaire, Rivellino, Andrea Castells, No Name, Gandalf, Darcia" on Wed, 29 Jul 2026.
+Ku Barcelona is a music venue in Barcelona with 7 upcoming nights listed on soundcheck as of Wed, 29 Jul 2026; the next is "AVALON: Monblaire, Rivellino, Andrea Castells, No Name, Gandalf, Darcia" on Wed, 29 Jul 2026.
 
 Ku Barcelona is a music venue in Barcelona listed on soundcheck. 7 upcoming nights, with line-ups including Alex Now, Andrea Castells, Claptone and Giorgio Stefano and 2 more. Browse upcoming dates, start times and who's playing. Passeig Marítim de la Barceloneta 38, 08003, Barcelona, Spain.
 
@@ -20,4 +20,4 @@ Ku Barcelona is a music venue in Barcelona listed on soundcheck. 7 upcoming nigh
 
 Passeig Marítim de la Barceloneta 38, 08003, Barcelona, Spain, Barcelona
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/ku-barcelona/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/ku-barcelona/)*

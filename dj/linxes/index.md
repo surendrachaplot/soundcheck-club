@@ -1,6 +1,6 @@
 # Linxes
 
-Linxes is a Electronica and House artist with 1 upcoming club date listed on soundcheck as of Tue, 28 Jul 2026, next at Es Secret, Barcelona on Wed, 5 Aug 2026.
+Linxes is a Electronica and House artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at Es Secret, Barcelona on Wed, 5 Aug 2026.
 
 Linxes is an electronica and house artist based in Spain, tracked on soundcheck, with 6 sets logged across Barcelona. Often billed alongside Kele (ES), Kaeru and Baum. Next up: Es Secret, Barcelona on Wed 5 Aug.
 
@@ -22,4 +22,4 @@ Linxes is an electronica and house artist based in Spain, tracked on soundcheck,
 
 Kele (ES), Kaeru, Baum
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/linxes/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/linxes/)*

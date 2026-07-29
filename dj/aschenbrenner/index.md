@@ -1,6 +1,6 @@
 # ASCHENBRENNER
 
-ASCHENBRENNER is a Trance and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 28 Jul 2026, next at FLUCC, Vienna on Sat, 1 Aug 2026.
+ASCHENBRENNER is a Trance and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at FLUCC, Vienna on Sat, 1 Aug 2026.
 
 ASCHENBRENNER is a trance and techno artist based in Germany, tracked on soundcheck, with 46 sets logged across Berlin, Cologne, Hamburg and Lisbon and 2 more. Often billed alongside SUITSIDE, BabaBass3000 and THURI. Next up: FLUCC, Vienna on Sat 1 Aug.
 
@@ -25,4 +25,4 @@ ASCHENBRENNER is a trance and techno artist based in Germany, tracked on soundch
 
 SUITSIDE, BabaBass3000, THURI
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/aschenbrenner/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/aschenbrenner/)*

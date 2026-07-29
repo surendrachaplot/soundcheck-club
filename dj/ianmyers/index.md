@@ -1,6 +1,6 @@
 # Ian Myers
 
-Ian Myers is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Tue, 28 Jul 2026, next at TBA - 1029 E 4th St, Long Beach, CA 90802, Los Angeles on Sat, 1 Aug 2026.
+Ian Myers is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at TBA - 1029 E 4th St, Long Beach, CA 90802, Los Angeles on Sat, 1 Aug 2026.
 
 Ian Myers is a house and deep house artist based in United States of America, tracked on soundcheck, with 3 sets logged across Losangeles. Often billed alongside Kellen James. Next up: TBA - 1029 E 4th St, Long Beach, CA 90802, Losangeles on Sat 1 Aug.
 
@@ -19,4 +19,4 @@ Ian Myers is a house and deep house artist based in United States of America, tr
 
 Kellen James
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/ianmyers/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/ianmyers/)*

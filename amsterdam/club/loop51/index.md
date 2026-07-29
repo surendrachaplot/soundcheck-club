@@ -1,6 +1,6 @@
 # Loop51
 
-Loop51 is a music venue in Amsterdam with 1 upcoming night listed on soundcheck as of Tue, 28 Jul 2026; the next is "Boogie House ADE 2026 SHOWCASE" on Sat, 24 Oct 2026.
+Loop51 is a music venue in Amsterdam with 1 upcoming night listed on soundcheck as of Wed, 29 Jul 2026; the next is "Boogie House ADE 2026 SHOWCASE" on Sat, 24 Oct 2026.
 
 Loop51 is a music venue in Amsterdam listed on soundcheck. 1 upcoming night. Browse upcoming dates, start times and who's playing. Dusartstraat 51.
 
@@ -14,4 +14,4 @@ Loop51 is a music venue in Amsterdam listed on soundcheck. 1 upcoming night. Bro
 
 Dusartstraat 51, Amsterdam
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/loop51/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/loop51/)*

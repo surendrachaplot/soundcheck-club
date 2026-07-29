@@ -1,6 +1,6 @@
 # Nic David
 
-Nic David is a Electro and House artist with 1 upcoming club date listed on soundcheck as of Tue, 28 Jul 2026, next at TBA - Studio Stereo, close to pl. Catalunya, 08007, Barcelona, Barcelona on Thu, 30 Jul 2026.
+Nic David is a Electro and House artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at TBA - Studio Stereo, close to pl. Catalunya, 08007, Barcelona, Barcelona on Thu, 30 Jul 2026.
 
 Nic David is an electro and house artist based in United Kingdom, tracked on soundcheck, with 7 sets logged across Barcelona, Hamburg and London. Often billed alongside Adam Romo, BEGGSY and Bear Winder. Next up: TBA - Studio Stereo, close to pl. Catalunya, 08007, Barcelona, Barcelona on Thu 30 Jul.
 
@@ -23,4 +23,4 @@ Nic David is an electro and house artist based in United Kingdom, tracked on sou
 
 Adam Romo, BEGGSY, Bear Winder
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/nicdavid/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/nicdavid/)*

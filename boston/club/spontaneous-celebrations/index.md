@@ -1,6 +1,6 @@
 # Spontaneous Celebrations
 
-Spontaneous Celebrations is a music venue in Boston with 1 upcoming night listed on soundcheck as of Tue, 28 Jul 2026; the next is "Evanescent" on Sat, 1 Aug 2026.
+Spontaneous Celebrations is a music venue in Boston with 1 upcoming night listed on soundcheck as of Wed, 29 Jul 2026; the next is "Evanescent" on Sat, 1 Aug 2026.
 
 Spontaneous Celebrations is a music venue in Boston listed on soundcheck. 1 upcoming night, with line-ups including DJ Brian Halligan. Browse upcoming dates, start times and who's playing. 45 Danforth St, Jamaica Plain, MA 02130.
 
@@ -14,4 +14,4 @@ Spontaneous Celebrations is a music venue in Boston listed on soundcheck. 1 upco
 
 45 Danforth St, Jamaica Plain, MA 02130, Boston
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/boston/club/spontaneous-celebrations/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/boston/club/spontaneous-celebrations/)*

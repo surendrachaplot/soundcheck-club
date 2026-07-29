@@ -1,6 +1,6 @@
 # Atdge Seoul
 
-Atdge Seoul is a music venue in Seoul with 7 upcoming nights listed on soundcheck as of Tue, 28 Jul 2026; the next is "Saeong, Silnoir" on Wed, 29 Jul 2026.
+Atdge Seoul is a music venue in Seoul with 7 upcoming nights listed on soundcheck as of Wed, 29 Jul 2026; the next is "Saeong, Silnoir" on Wed, 29 Jul 2026.
 
 Atdge Seoul is a music venue in Seoul listed on soundcheck. 7 upcoming nights, with line-ups including ASYNC, FFAN, Haeterna and Jooheon and 2 more. Browse upcoming dates, start times and who's playing. 29, Bogwang-ro 59-gil, Yongsan-gu, Seoul.
 
@@ -20,4 +20,4 @@ Atdge Seoul is a music venue in Seoul listed on soundcheck. 7 upcoming nights, w
 
 29, Bogwang-ro 59-gil, Yongsan-gu, Seoul, Seoul
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/seoul/club/atdge-seoul/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/seoul/club/atdge-seoul/)*

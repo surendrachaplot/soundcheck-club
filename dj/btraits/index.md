@@ -1,6 +1,6 @@
 # B.Traits
 
-B.Traits is a Drum & Bass and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 28 Jul 2026, next at Tunnel Club, Birmingham on Fri, 31 Jul 2026.
+B.Traits is a Drum & Bass and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at Tunnel Club, Birmingham on Fri, 31 Jul 2026.
 
 B.Traits is a drum & bass and techno artist tracked on soundcheck, with 1 set logged across Birmingham. Often billed alongside Lemon D, Regis and Rrose. Next up: Tunnel Club, Birmingham on Fri 31 Jul.
 
@@ -14,4 +14,4 @@ B.Traits is a drum & bass and techno artist tracked on soundcheck, with 1 set lo
 
 Lemon D, Regis, Rrose
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/btraits/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/btraits/)*

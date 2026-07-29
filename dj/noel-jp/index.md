@@ -1,6 +1,6 @@
 # NØEL (JP)
 
-NØEL (JP) is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Tue, 28 Jul 2026, next at Odonien, Cologne on Wed, 29 Jul 2026.
+NØEL (JP) is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at Odonien, Cologne on Wed, 29 Jul 2026.
 
 NØEL (JP) is a techno and house artist based in Japan, tracked on soundcheck, with 15 sets logged across Cologne and Tokyo. Often billed alongside MARU (3), HOTARU (2) and IPPØ. Next up: Odonien, Cologne on Wed 29 Jul.
 
@@ -25,4 +25,4 @@ NØEL (JP) is a techno and house artist based in Japan, tracked on soundcheck, w
 
 MARU (3), HOTARU (2), IPPØ
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/noel-jp/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/noel-jp/)*

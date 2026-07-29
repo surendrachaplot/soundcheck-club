@@ -1,6 +1,6 @@
 # Vakho
 
-Vakho is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 28 Jul 2026, next at Kafe Hærverk, Oslo on Sat, 1 Aug 2026.
+Vakho is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at Kafe Hærverk, Oslo on Sat, 1 Aug 2026.
 
 Vakho is a house and techno artist tracked on soundcheck, with 33 sets logged across Berlin, Copenhagen, Hamburg and Oslo and 1 more. Often billed alongside Zurkin, IAMEA and Jd J. Next up: Kafe Hærverk, Oslo on Sat 1 Aug.
 
@@ -25,4 +25,4 @@ Vakho is a house and techno artist tracked on soundcheck, with 33 sets logged ac
 
 Zurkin, IAMEA, Jd J
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/vakho/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/vakho/)*

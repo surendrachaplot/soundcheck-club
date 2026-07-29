@@ -1,6 +1,6 @@
 # Yeonju
 
-Yeonju is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 28 Jul 2026, next at Atdge Seoul, Seoul on Fri, 31 Jul 2026.
+Yeonju is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at Atdge Seoul, Seoul on Fri, 31 Jul 2026.
 
 Yeonju is a house and techno artist based in South Korea, tracked on soundcheck, with 59 sets logged across Seoul. Often billed alongside Jooheon, FFAN and Hender. Next up: Atdge Seoul, Seoul on Fri 31 Jul.
 
@@ -25,4 +25,4 @@ Yeonju is a house and techno artist based in South Korea, tracked on soundcheck,
 
 Jooheon, FFAN, Hender
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/yeonju/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/yeonju/)*

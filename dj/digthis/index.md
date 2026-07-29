@@ -1,6 +1,6 @@
 # Dig This
 
-Dig This is a House and Electro artist with 1 upcoming club date listed on soundcheck as of Tue, 28 Jul 2026, next at Amber's, Manchester on Sat, 1 Aug 2026.
+Dig This is a House and Electro artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at Amber's, Manchester on Sat, 1 Aug 2026.
 
 Dig This is a house and electro artist based in United Kingdom, tracked on soundcheck, with 67 sets logged across Amsterdam, Barcelona, Brighton and Bristol and 9 more. Often billed alongside Ben Pugh, Aerofunk and Tarde Loco. Next up: Amber's, Manchester on Sat 1 Aug.
 
@@ -25,4 +25,4 @@ Dig This is a house and electro artist based in United Kingdom, tracked on sound
 
 Ben Pugh, Aerofunk, Tarde Loco
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/digthis/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/digthis/)*

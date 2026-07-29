@@ -1,6 +1,6 @@
 # PERSIC
 
-PERSIC is a Tech House and Minimal artist with 1 upcoming club date listed on soundcheck as of Tue, 28 Jul 2026, next at Playa Soleil Ibiza, Ibiza on Wed, 29 Jul 2026.
+PERSIC is a Tech House and Minimal artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at Playa Soleil Ibiza, Ibiza on Wed, 29 Jul 2026.
 
 PERSIC is a tech house and minimal artist based in Romania, tracked on soundcheck, with 7 sets logged across Bucharest, Ibiza, Istanbul and London. Often billed alongside Alexander Skancke, Alexis Cabrera and Bianca Mandoiu. Next up: Playa Soleil Ibiza, Ibiza on Wed 29 Jul.
 
@@ -23,4 +23,4 @@ PERSIC is a tech house and minimal artist based in Romania, tracked on soundchec
 
 Alexander Skancke, Alexis Cabrera, Bianca Mandoiu
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/persic/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/persic/)*

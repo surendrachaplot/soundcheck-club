@@ -1,6 +1,6 @@
 # Moli (2)
 
-Moli (2) is a House and Afro House artist with 1 upcoming club date listed on soundcheck as of Tue, 28 Jul 2026, next at Strange Brew, Bristol on Sat, 1 Aug 2026.
+Moli (2) is a House and Afro House artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at Strange Brew, Bristol on Sat, 1 Aug 2026.
 
 Moli (2) is a house and afro house artist based in United Kingdom, tracked on soundcheck, with 4 sets logged across Barcelona, Bristol and Mexicocity. Often billed alongside Chez de Milo, Dominique Costa and Javi Lago. Next up: Strange Brew, Bristol on Sat 1 Aug.
 
@@ -20,4 +20,4 @@ Moli (2) is a house and afro house artist based in United Kingdom, tracked on so
 
 Chez de Milo, Dominique Costa, Javi Lago
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/moli-2/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/moli-2/)*

@@ -1,6 +1,6 @@
 # Percü
 
-Percü is a electronic artist with 1 upcoming club date listed on soundcheck as of Tue, 28 Jul 2026, next at StereoBar, Montreal on Sat, 1 Aug 2026.
+Percü is a electronic artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at StereoBar, Montreal on Sat, 1 Aug 2026.
 
 Percü is an electronic artist based in Tunisia, tracked on soundcheck, with 2 sets logged across Montreal. Often billed alongside Binh, Ricardo Rocco and Zoftei. Next up: StereoBar, Montreal on Sat 1 Aug.
 
@@ -18,4 +18,4 @@ Percü is an electronic artist based in Tunisia, tracked on soundcheck, with 2 s
 
 Binh, Ricardo Rocco, Zoftei
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/percu/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/percu/)*

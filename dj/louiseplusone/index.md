@@ -1,14 +1,15 @@
 # Louise Plus One
 
-Louise Plus One is a Jungle and Hardcore artist with 1 upcoming club date listed on soundcheck as of Tue, 28 Jul 2026, next at Four Quarters, London on Fri, 14 Aug 2026.
+Louise Plus One is a Jungle and Hardcore artist with 2 upcoming club dates listed on soundcheck as of Wed, 29 Jul 2026, next at Four Quarters, London on Fri, 14 Aug 2026.
 
-Louise Plus One is a jungle and hardcore artist tracked on soundcheck, with 110 sets logged across Amsterdam, Berlin, Bristol and Glasgow and 5 more. Often billed alongside Hughesee, Equinox (UK) and DJ Azure. Next up: Four Quarters, London on Fri 14 Aug.
+Louise Plus One is a jungle and hardcore artist tracked on soundcheck, with 111 sets logged across Amsterdam, Berlin, Bristol and Glasgow and 5 more. Often billed alongside Hughesee, Equinox (UK) and DJ Azure. Next up: Four Quarters, London on Fri 14 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 14 Aug 2026 | Four Quarters | London |
+| Sun, 16 Aug 2026 | Colour Factory | London |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ Louise Plus One is a jungle and hardcore artist tracked on soundcheck, with 110 
 
 Hughesee, Equinox (UK), DJ Azure
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/louiseplusone/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/louiseplusone/)*

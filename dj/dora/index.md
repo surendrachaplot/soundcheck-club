@@ -1,6 +1,6 @@
 # DORA
 
-DORA is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Tue, 28 Jul 2026, next at SHeLTeR, Tokyo on Wed, 29 Jul 2026.
+DORA is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Wed, 29 Jul 2026, next at SHeLTeR, Tokyo on Wed, 29 Jul 2026.
 
 DORA is a house and techno artist based in Romania, tracked on soundcheck, with 20 sets logged across Amsterdam, Athens, Barcelona and Budapest and 6 more. Often billed alongside 96zen, CRIME and A. Square. Next up: SHeLTeR, Tokyo on Wed 29 Jul.
 
@@ -26,4 +26,4 @@ DORA is a house and techno artist based in Romania, tracked on soundcheck, with 
 
 96zen, CRIME, A. Square
 
-*Updated Tue, 28 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/dora/)*
+*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/dora/)*
