@@ -9,7 +9,7 @@ RAPHAËL (2) is a techno and house artist based in United States of America, tra
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 1 Aug 2026 | Hizz Lounge | Detroit |
-| Sat, 15 Aug 2026 | Marble Bar | Detroit |
+| Sat, 15 Aug 2026 | Lincoln Factory | Detroit |
 
 ## Recently played
 

@@ -1,14 +1,14 @@
 # Anubis
 
-Anubis is a House and Drum & Bass artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at Spkrbox, Detroit on Sun, 30 Aug 2026.
+Anubis is a House and Drum & Bass artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at Spkrbox, Detroit on Thu, 30 Jul 2026.
 
-Anubis is a house and drum & bass artist based in United States of America, tracked on soundcheck, with 8 sets logged across Antwerp, Austin, Detroit and Frankfurt and 1 more. Often billed alongside Sober (1), Proxy and AG (NYC). Next up: Spkrbox, Detroit on Sun 30 Aug.
+Anubis is a house and drum & bass artist based in United States of America, tracked on soundcheck, with 8 sets logged across Antwerp, Austin, Detroit and Frankfurt and 1 more. Often billed alongside Sober (1), Proxy and AG (NYC). Next up: Spkrbox, Detroit on Thu 30 Jul.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sun, 30 Aug 2026 | Spkrbox | Detroit |
+| Thu, 30 Jul 2026 | Spkrbox | Detroit |
 
 ## Recently played
 

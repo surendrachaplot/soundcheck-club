@@ -1,10 +1,10 @@
 # Flac: Residency Program at Flac
 
-Flac: Residency Program on Sat 1 Aug, Seoul. 1 act on the bill: DARIMI TABLE. House and Afro House. Preview the line-up and save it on soundcheck.
+Flac: Residency Program on Fri 31 Jul, Seoul. 1 act on the bill: DARIMI TABLE. House and Afro House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
-| Date | Sat, 1 Aug 2026 |
+| Date | Fri, 31 Jul 2026 |
 | Venue | Flac |
 | City | Seoul |
 

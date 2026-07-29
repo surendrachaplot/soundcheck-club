@@ -1,14 +1,15 @@
 # Arielle Lana
 
-Arielle Lana is a Club and Footwork artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at The Meadows, New York City on Sat, 1 Aug 2026.
+Arielle Lana is a Club and Footwork artist with 2 upcoming club dates listed on soundcheck as of Wed, 29 Jul 2026, next at The Meadows, New York City on Sat, 1 Aug 2026.
 
-Arielle Lana is a club and footwork artist based in United States of America, tracked on soundcheck, with 37 sets logged across Losangeles, Newyorkcity, Philadelphia and Sanfrancisco. Often billed alongside JEWELSSEA, Tromac and nextdimensional. Next up: The Meadows, Newyorkcity on Sat 1 Aug.
+Arielle Lana is a club and footwork artist based in United States of America, tracked on soundcheck, with 38 sets logged across Losangeles, Newyorkcity, Philadelphia and Sanfrancisco. Often billed alongside JEWELSSEA, Tromac and nextdimensional. Next up: The Meadows, Newyorkcity on Sat 1 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 1 Aug 2026 | The Meadows | New York City |
+| Sat, 26 Sept 2026 | Paragon | New York City |
 
 ## Recently played
 

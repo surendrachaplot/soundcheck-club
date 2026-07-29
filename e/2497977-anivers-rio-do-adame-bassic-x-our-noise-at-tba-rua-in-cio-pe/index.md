@@ -1,6 +1,6 @@
 # Aniversário Do Adame · Bassic X Our Noise at TBA - Rua Inácio Pereira da Rocha, 359 - Pinheiros, São Paulo - SP, 05432-011, Brazil
 
-Aniversário Do Adame · Bassic X Our Noise at TBA - Rua Inácio Pereira da Rocha, 359 - Pinheiros, São Paulo - SP, 05432-011, Brazil on Sat 1 Aug, Saopaulo. 2 acts on the bill: ADAME (MX) and keller. Baile Funk and Garage. Preview the line-up and save it on soundcheck.
+Aniversário Do Adame · Bassic X Our Noise at TBA - Rua Inácio Pereira da Rocha, 359 - Pinheiros, São Paulo - SP, 05432-011, Brazil on Sat 1 Aug, Saopaulo. 2 acts on the bill: ADAME (MX) and keller. Garage and Baile Funk. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

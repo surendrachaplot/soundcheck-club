@@ -1,8 +1,8 @@
 # F8 1192 Folsom
 
-F8 1192 Folsom is a music venue in San Francisco/Oakland with 19 upcoming nights listed on soundcheck as of Wed, 29 Jul 2026; the next is "Acid Summer ft Tyrel, Solar, Mozhgan and more" on Wed, 29 Jul 2026.
+F8 1192 Folsom is a music venue in San Francisco/Oakland with 20 upcoming nights listed on soundcheck as of Wed, 29 Jul 2026; the next is "Acid Summer ft Tyrel, Solar, Mozhgan and more" on Wed, 29 Jul 2026.
 
-F8 1192 Folsom is a music venue in Sanfrancisco listed on soundcheck. 19 upcoming nights, with line-ups including 2dahlia, Aepricity, Akumen and Amatric and 2 more. Browse upcoming dates, start times and who's playing. 1192 Folsom St, San Francisco, CA 94103.
+F8 1192 Folsom is a music venue in Sanfrancisco listed on soundcheck. 20 upcoming nights, with line-ups including 2dahlia, Aepricity, Akumen and Amatric and 2 more. Browse upcoming dates, start times and who's playing. 1192 Folsom St, San Francisco, CA 94103.
 
 ## What's on
 

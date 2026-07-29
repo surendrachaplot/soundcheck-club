@@ -9,7 +9,7 @@ something blue is a techno and house artist based in United States of America, t
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 15 Aug 2026 | TV Lounge | Detroit |
-| Sat, 15 Aug 2026 | Marble Bar | Detroit |
+| Sat, 15 Aug 2026 | Lincoln Factory | Detroit |
 
 ## Recently played
 

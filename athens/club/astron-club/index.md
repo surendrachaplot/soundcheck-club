@@ -10,7 +10,7 @@ Astron Club is a music venue in Athens listed on soundcheck. 3 upcoming nights, 
 | --- | --- | --- |
 | Fri, 31 Jul 2026 | ACN with Hezma // ROENTGEN // Eleusinia Mysteria | Eleusinia Mysteria, Hezma |
 | Sat, 1 Aug 2026 | ACN with BMSK // Icarus in love | BMSK, Icarus in love |
-| Sat, 8 Aug 2026 | ACN with Reka [KHIRON Techno Therapy / Bite / Fleisch] / Outermost | Outermost, Reka |
+| Sat, 8 Aug 2026 | ACN with Reka [Bite / Fleisch] // Outermost | Outermost, Reka |
 
 ## Address
 

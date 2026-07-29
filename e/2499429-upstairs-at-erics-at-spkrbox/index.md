@@ -1,10 +1,10 @@
 # Upstairs at Erics at Spkrbox
 
-Upstairs at Erics at Spkrbox on Sun 30 Aug, Detroit. 1 act on the bill: Anubis. Techno and House. Preview the line-up and save it on soundcheck.
+Upstairs at Erics at Spkrbox on Thu 30 Jul, Detroit. 1 act on the bill: Anubis. Techno and House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
-| Date | Sun, 30 Aug 2026 |
+| Date | Thu, 30 Jul 2026 |
 | Venue | Spkrbox |
 | City | Detroit |
 

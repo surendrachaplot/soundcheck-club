@@ -10,6 +10,7 @@ Spkrbox is a music venue in Detroit listed on soundcheck. 15 upcoming nights, wi
 | --- | --- | --- |
 | Wed, 29 Jul 2026 | Nightcap Detroit 4 Year Anniversary | Donna Gardner, Isaac Prieto, MGUN, Whodat |
 | Thu, 30 Jul 2026 | Quixotic | Tylr, autogyro |
+| Thu, 30 Jul 2026 | Upstairs at Erics | Anubis |
 | Thu, 30 Jul 2026 | Groove Night | Al Ester |
 | Fri, 31 Jul 2026 | Mean Dean on the Mezzanine | Mean Dean |
 | Sat, 1 Aug 2026 | Saturday Grind |  |
@@ -17,7 +18,6 @@ Spkrbox is a music venue in Detroit listed on soundcheck. 15 upcoming nights, wi
 | Sat, 1 Aug 2026 | SKR PEOPLE | Brent Shay, Javonntte, Rick Wade |
 | Sun, 2 Aug 2026 | SPKR BRNCH |  |
 | Sun, 2 Aug 2026 | Unity-In Music Festival Pre-Party | K-LALA, Kiwii |
-| Sun, 2 Aug 2026 | Foggy Sunday | Erikk Raphael, Tylr |
 
 ## Address
 

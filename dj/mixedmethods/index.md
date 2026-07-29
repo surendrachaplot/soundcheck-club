@@ -1,14 +1,15 @@
 # Mixed Methods
 
-Mixed Methods is a House and Tech House artist with 2 upcoming club dates listed on soundcheck as of Wed, 29 Jul 2026, next at Straße des 17. Juni, Berlin on Sat, 15 Aug 2026.
+Mixed Methods is a House and Tech House artist with 3 upcoming club dates listed on soundcheck as of Wed, 29 Jul 2026, next at Straße des 17. Juni, Berlin on Sat, 15 Aug 2026.
 
-Mixed Methods is a house and tech house artist based in Australia, tracked on soundcheck, with 66 sets logged across Amsterdam, Bali, Berlin and Milan and 4 more. Often billed alongside Callyy, Jarred Baker and André Müller. Next up: Straße des 17. Juni, Berlin on Sat 15 Aug.
+Mixed Methods is a house and tech house artist based in Australia, tracked on soundcheck, with 67 sets logged across Amsterdam, Bali, Berlin and Melbourne and 5 more. Often billed alongside Callyy, Jarred Baker and André Müller. Next up: Straße des 17. Juni, Berlin on Sat 15 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 15 Aug 2026 | Straße des 17. Juni | Berlin |
+| Sun, 6 Sept 2026 | Revolver Upstairs | Melbourne |
 | Sat, 3 Oct 2026 | TBA - 2.5 Hours from Sydney | Sydney |
 
 ## Recently played

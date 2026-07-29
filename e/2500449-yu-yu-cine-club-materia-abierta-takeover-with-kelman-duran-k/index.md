@@ -1,0 +1,17 @@
+# Yu Yu Cine Club: Materia Abierta takeover with Kelman Duran, KEBRA at YuYu Cine Club
+
+Yu Yu Cine Club: Materia Abierta takeover with Kelman Duran, KEBRA at YuYu Cine Club on Sat 22 Aug, Mexicocity. 3 acts on the bill: Concepción Huerta, KEBRA and Kelman Duran. Preview the line-up and save it on soundcheck.
+
+| Field | Value |
+| --- | --- |
+| Date | Sat, 22 Aug 2026 |
+| Venue | YuYu Cine Club |
+| City | Mexico City |
+
+## Line-up
+
+- Concepción Huerta
+- KEBRA
+- Kelman Duran
+
+*Source: [soundcheck](https://soundcheck.club/e/2500449-yu-yu-cine-club-materia-abierta-takeover-with-kelman-duran-k/)*

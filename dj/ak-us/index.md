@@ -11,7 +11,7 @@ AK (US) is a techno and ghetto tech artist based in United States of America, tr
 | Fri, 31 Jul 2026 | Bossa Nova Civic Club | New York City |
 | Sat, 8 Aug 2026 | Northern Lights Lounge | Detroit |
 | Fri, 14 Aug 2026 | Lincoln Factory | Detroit |
-| Sat, 15 Aug 2026 | Marble Bar | Detroit |
+| Sat, 15 Aug 2026 | Lincoln Factory | Detroit |
 
 ## Recently played
 

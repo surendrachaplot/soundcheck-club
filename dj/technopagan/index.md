@@ -1,14 +1,15 @@
 # Technopagan
 
-Technopagan is a Hardcore and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at TBA - Secret Warehouse Location, Denver on Fri, 21 Aug 2026.
+Technopagan is a Hardcore and Techno artist with 2 upcoming club dates listed on soundcheck as of Wed, 29 Jul 2026, next at TBA - Secret Warehouse Location, Denver on Fri, 21 Aug 2026.
 
-Technopagan is a hardcore and techno artist based in United States of America, tracked on soundcheck, with 71 sets logged across Barcelona, Birmingham, Chicago and Denver and 11 more. Often billed alongside Outback, Tall CEO and EXTEENG. Next up: TBA - Secret Warehouse Location, Denver on Fri 21 Aug.
+Technopagan is a hardcore and techno artist based in United States of America, tracked on soundcheck, with 72 sets logged across Barcelona, Birmingham, Chicago and Denver and 11 more. Often billed alongside Outback, Tall CEO and EXTEENG. Next up: TBA - Secret Warehouse Location, Denver on Fri 21 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 21 Aug 2026 | TBA - Secret Warehouse Location | Denver |
+| Sat, 22 Aug 2026 | F8 1192 Folsom | San Francisco/Oakland |
 
 ## Recently played
 

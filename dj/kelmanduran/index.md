@@ -1,8 +1,8 @@
 # Kelman Duran
 
-Kelman Duran is a Experimental and Club artist with 2 upcoming club dates listed on soundcheck as of Wed, 29 Jul 2026, next at public records, New York City on Thu, 6 Aug 2026.
+Kelman Duran is a Experimental and Club artist with 3 upcoming club dates listed on soundcheck as of Wed, 29 Jul 2026, next at public records, New York City on Thu, 6 Aug 2026.
 
-Kelman Duran is an experimental and club artist based in Dominican Republic, tracked on soundcheck, with 76 sets logged across Amsterdam, Austin, Barcelona and Berlin and 19 more. Often billed alongside BAE BAE, Nick León and DJ Nobu. Next up: public records, Newyorkcity on Thu 6 Aug.
+Kelman Duran is an experimental and club artist based in Dominican Republic, tracked on soundcheck, with 77 sets logged across Amsterdam, Austin, Barcelona and Berlin and 19 more. Often billed alongside BAE BAE, Nick León and DJ Nobu. Next up: public records, Newyorkcity on Thu 6 Aug.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Kelman Duran is an experimental and club artist based in Dominican Republic, tra
 | --- | --- | --- |
 | Thu, 6 Aug 2026 | public records | New York City |
 | Sat, 15 Aug 2026 | YuYu Cine Club | Mexico City |
+| Sat, 22 Aug 2026 | YuYu Cine Club | Mexico City |
 
 ## Recently played
 

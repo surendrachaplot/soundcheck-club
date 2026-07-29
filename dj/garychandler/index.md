@@ -9,7 +9,7 @@ Gary Chandler is a house and techno artist based in United States of America, tr
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 31 Jul 2026 | TV Lounge | Detroit |
-| Sat, 15 Aug 2026 | Marble Bar | Detroit |
+| Sat, 15 Aug 2026 | Lincoln Factory | Detroit |
 
 ## Recently played
 

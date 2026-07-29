@@ -1,0 +1,20 @@
+# ORIGIN(AL)S OF BOOTY at Lincoln Factory
+
+ORIGIN(AL)S OF BOOTY at Lincoln Factory on Sat 15 Aug, Detroit. 6 acts on the bill: AK (US), DJ Fingers, Gary Chandler and Nick Speed and 2 more. Preview the line-up and save it on soundcheck.
+
+| Field | Value |
+| --- | --- |
+| Date | Sat, 15 Aug 2026 |
+| Venue | Lincoln Factory |
+| City | Detroit |
+
+## Line-up
+
+- AK (US)
+- DJ Fingers
+- Gary Chandler
+- Nick Speed
+- RAPHAËL (2)
+- something blue
+
+*Source: [soundcheck](https://soundcheck.club/e/2500075-origin-al-s-of-booty-at-lincoln-factory/)*
