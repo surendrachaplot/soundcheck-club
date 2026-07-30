@@ -1,8 +1,8 @@
 # 93 Feet East
 
-93 Feet East is a music venue in London with 11 upcoming nights listed on soundcheck as of Thu, 30 Jul 2026; the next is "SUN CITY SUMMER SESSIONS" on Sat, 1 Aug 2026.
+93 Feet East is a music venue in London with 12 upcoming nights listed on soundcheck as of Thu, 30 Jul 2026; the next is "SUN CITY SUMMER SESSIONS" on Sat, 1 Aug 2026.
 
-93 Feet East is a music venue in London listed on soundcheck. 11 upcoming nights, with line-ups including KT, ADR (UK), AM (8) and Brands and 2 more. Browse upcoming dates, start times and who's playing. The Old Truman Brewery, 150 Brick Lane; Shoreditch; London E1 6RU; United Kingdom.
+93 Feet East is a music venue in London listed on soundcheck. 12 upcoming nights, with line-ups including KT, ADR (UK), AM (8) and Brands and 2 more. Browse upcoming dates, start times and who's playing. The Old Truman Brewery, 150 Brick Lane; Shoreditch; London E1 6RU; United Kingdom.
 
 ## What's on
 

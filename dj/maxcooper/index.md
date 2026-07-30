@@ -1,13 +1,14 @@
 # Max Cooper
 
-Max Cooper is a Techno and Electronica artist with 3 upcoming club dates listed on soundcheck as of Thu, 30 Jul 2026, next at Vrachon Theater, Athens on Thu, 24 Sept 2026.
+Max Cooper is a Techno and Electronica artist with 4 upcoming club dates listed on soundcheck as of Thu, 30 Jul 2026, next at Rex Club, Paris on Fri, 18 Sept 2026.
 
-Max Cooper is a techno and electronica artist tracked on soundcheck, with 119 sets logged across Amsterdam, Athens, Austin and Barcelona and 47 more. Often billed alongside Actress, Logic1000 and Or:la. Next up: Vrachon Theater, Athens on Thu 24 Sept.
+Max Cooper is a techno and electronica artist tracked on soundcheck, with 120 sets logged across Amsterdam, Athens, Austin and Barcelona and 47 more. Often billed alongside Actress, Logic1000 and Or:la. Next up: Rex Club, Paris on Fri 18 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 18 Sept 2026 | Rex Club | Paris |
 | Thu, 24 Sept 2026 | Vrachon Theater | Athens |
 | Sat, 26 Sept 2026 | Button Factory | Dublin |
 | Sat, 3 Oct 2026 | fabric | London |

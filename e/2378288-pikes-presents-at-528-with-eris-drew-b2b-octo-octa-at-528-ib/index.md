@@ -1,6 +1,6 @@
 # PIKES PRESENTS AT 528 WITH Eris Drew B2B Octo Octa at 528 Ibiza
 
-PIKES PRESENTS AT 528 WITH Eris Drew B2B Octo Octa at 528 Ibiza on Tue 1 Sept, Ibiza. 4 acts on the bill: Bushwacka!, Eris Drew, Octo Octa and Sally C. House. Preview the line-up and save it on soundcheck.
+PIKES PRESENTS AT 528 WITH Eris Drew B2B Octo Octa at 528 Ibiza on Tue 1 Sept, Ibiza. 6 acts on the bill: Bushwacka!, Eris Drew, Faited and GIDEÖN and 2 more. House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -12,6 +12,8 @@ PIKES PRESENTS AT 528 WITH Eris Drew B2B Octo Octa at 528 Ibiza on Tue 1 Sept, I
 
 - Bushwacka!
 - Eris Drew
+- Faited
+- GIDEÖN
 - Octo Octa
 - Sally C
 

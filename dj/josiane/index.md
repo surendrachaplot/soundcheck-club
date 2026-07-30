@@ -1,8 +1,8 @@
 # Josiane
 
-Josiane is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Thu, 30 Jul 2026, next at Kater, Berlin on Sat, 1 Aug 2026.
+Josiane is a House and Techno artist with 4 upcoming club dates listed on soundcheck as of Thu, 30 Jul 2026, next at Kater, Berlin on Sat, 1 Aug 2026.
 
-Josiane is a house and techno artist tracked on soundcheck, with 113 sets logged across Berlin, Cologne, Dusseldorf and Hamburg and 1 more. Often billed alongside Lena Brecht, LeVe and Mad Shivers. Next up: Kater, Berlin on Sat 1 Aug.
+Josiane is a house and techno artist tracked on soundcheck, with 114 sets logged across Berlin, Cologne, Dusseldorf and Hamburg and 1 more. Often billed alongside Lena Brecht, LeVe and Mad Shivers. Next up: Kater, Berlin on Sat 1 Aug.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Josiane is a house and techno artist tracked on soundcheck, with 113 sets logged
 | --- | --- | --- |
 | Sat, 1 Aug 2026 | Kater | Berlin |
 | Sat, 1 Aug 2026 | Tempelhof Airport | Berlin |
+| Sun, 30 Aug 2026 | KREUZWERK | Berlin |
 | Sat, 5 Sept 2026 | Gestrandet An Der Jannowitzbrücke | Berlin |
 
 ## Recently played

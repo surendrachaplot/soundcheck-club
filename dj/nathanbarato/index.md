@@ -1,14 +1,15 @@
 # Nathan Barato
 
-Nathan Barato is a Tech House and House artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at Story Toronto, Toronto on Sat, 8 Aug 2026.
+Nathan Barato is a Tech House and House artist with 2 upcoming club dates listed on soundcheck as of Thu, 30 Jul 2026, next at Story Toronto, Toronto on Sat, 8 Aug 2026.
 
-Nathan Barato is a tech house and house artist based in Canada, tracked on soundcheck, with 51 sets logged across Detroit, Lisbon, Losangeles and Miami and 5 more. Often billed alongside Carlo Lio, RUDEE NIK and TAKiN. Next up: Story Toronto, Toronto on Sat 8 Aug.
+Nathan Barato is a tech house and house artist based in Canada, tracked on soundcheck, with 52 sets logged across Detroit, Lisbon, Losangeles and Miami and 5 more. Often billed alongside Carlo Lio, RUDEE NIK and Pasha. Next up: Story Toronto, Toronto on Sat 8 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 8 Aug 2026 | Story Toronto | Toronto |
+| Sat, 15 Aug 2026 | Valerie Toronto | Toronto |
 
 ## Recently played
 
@@ -23,6 +24,6 @@ Nathan Barato is a tech house and house artist based in Canada, tracked on sound
 
 ## Shares bills with
 
-Carlo Lio, RUDEE NIK, TAKiN
+Carlo Lio, RUDEE NIK, Pasha
 
 *Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/nathanbarato/)*

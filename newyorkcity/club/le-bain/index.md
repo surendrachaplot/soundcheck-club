@@ -9,7 +9,7 @@ Le Bain is a music venue in Newyorkcity listed on soundcheck. 17 upcoming nights
 | Date | Night | Line-up |
 | --- | --- | --- |
 | Thu, 30 Jul 2026 | ON TOP by Susanne Bartsch | Kandylion, SPRFRK, Vibeiana, boyyyish |
-| Thu, 30 Jul 2026 | Sauce Radio X Sunset Le Bain | The Whooligan |
+| Thu, 30 Jul 2026 | Sauced Radio X Sunset Le Bain | The Whooligan |
 | Fri, 31 Jul 2026 | TARKA X Le Bain | Bea Trinidad, Dynoman, Nabihah Iqbal, VARSHA, Zara Dekho |
 | Sat, 1 Aug 2026 | Tony Humphries' RESIDENCY | Tony Humphries |
 | Sun, 2 Aug 2026 | WORLD OF ECHOES presents Ian Friday | Francois K |

@@ -11,7 +11,7 @@ Mena Berlin is a music venue in Berlin listed on soundcheck. 4 upcoming nights, 
 | Fri, 31 Jul 2026 | House Tapes Vol.04 | Adam Cooke, Hannes.., Joe Peck, Marco Ohboy |
 | Sat, 1 Aug 2026 | Bowlingbahn |  |
 | Sat, 15 Aug 2026 | After All  | Bøgen, CATAWR, Gonzalo Lavin (Chile), Miguel Silva, No Silver Bullet, Not Stereo, SOLE LLORENTE, Zuleta M |
-| Fri, 21 Aug 2026 | Sound Therapy | Davidlab, Guido Iacovitti, disttler |
+| Fri, 21 Aug 2026 | Sound Therapy | Davidlab, Guido Iacovitti, Hellotrip, disttler |
 
 ## Address
 

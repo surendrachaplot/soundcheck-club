@@ -15,7 +15,7 @@ Sensorium is a music venue in Berlin listed on soundcheck. 25 upcoming nights, w
 | Sun, 9 Aug 2026 | TRIG: FROM 23:00 - XXX | Loco (IT) |
 | Wed, 12 Aug 2026 | TECHNO MITTWOCH: TAKE YOUR TICKETS | Eleonor Bianchi, UniKhatu, Zaphy |
 | Fri, 14 Aug 2026 | ETHER |  |
-| Fri, 14 Aug 2026 | ETHER |  |
+| Fri, 14 Aug 2026 | ETHER | DaSoMaZo, Erøx, Groove, Michi, Sonse, k.meower |
 | Sun, 16 Aug 2026 | TRIG: FROM 23:00 - XXX | Viktor Kampf |
 | Wed, 19 Aug 2026 | TECHNO MITTWOCH: TAKE YOUR TICKETS | Blck-Swan, PETDuo, Viktor Kampf |
 

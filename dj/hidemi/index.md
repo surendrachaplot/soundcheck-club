@@ -1,8 +1,8 @@
 # hidemi
 
-hidemi is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Thu, 30 Jul 2026, next at VENT, Tokyo on Fri, 31 Jul 2026.
+hidemi is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Thu, 30 Jul 2026, next at VENT, Tokyo on Fri, 31 Jul 2026.
 
-hidemi is a techno and house artist based in Japan, tracked on soundcheck, with 140 sets logged across Osaka and Tokyo. Often billed alongside Takami, cosmolady and AHREUM. Next up: VENT, Tokyo on Fri 31 Jul.
+hidemi is a techno and house artist based in Japan, tracked on soundcheck, with 141 sets logged across Osaka and Tokyo. Often billed alongside Takami, cosmolady and AHREUM. Next up: VENT, Tokyo on Fri 31 Jul.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ hidemi is a techno and house artist based in Japan, tracked on soundcheck, with 
 | --- | --- | --- |
 | Fri, 31 Jul 2026 | VENT | Tokyo |
 | Thu, 6 Aug 2026 | UTOPIA / DYSTOPIA | Tokyo |
+| Sat, 8 Aug 2026 | DeTour | Tokyo |
 
 ## Recently played
 

@@ -1,13 +1,14 @@
 # GNMR
 
-GNMR is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Thu, 30 Jul 2026, next at Gaffe, London on Sun, 6 Sept 2026.
+GNMR is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Thu, 30 Jul 2026, next at Club der Visionaere, Berlin on Wed, 12 Aug 2026.
 
-GNMR is a techno and house artist tracked on soundcheck, with 135 sets logged across Amsterdam, Bali, Barcelona and Berlin and 21 more. Often billed alongside Marcolino, IRIDE and Giammarco Orsini. Next up: Gaffe, London on Sun 6 Sept.
+GNMR is a techno and house artist tracked on soundcheck, with 136 sets logged across Amsterdam, Bali, Barcelona and Berlin and 21 more. Often billed alongside Marcolino, IRIDE and Giammarco Orsini. Next up: Club der Visionaere, Berlin on Wed 12 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Wed, 12 Aug 2026 | Club der Visionaere | Berlin |
 | Sun, 6 Sept 2026 | Gaffe | London |
 | Sat, 12 Sept 2026 | Auditorium Parco della Musica | Rome |
 

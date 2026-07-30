@@ -1,8 +1,8 @@
-# TBA - Chausseestraße 131A 10115 Berlin
+# TBA - Chausseestraße 131A, 10115 Berlin
 
-TBA - Chausseestraße 131A 10115 Berlin is a music venue in Berlin with 4 upcoming nights listed on soundcheck as of Thu, 30 Jul 2026; the next is "SALON OPERA presents [8]  w/ Wonders of Modern Medicine, Regularfantasy, Discka, bod [包家巷] & co" on Fri, 31 Jul 2026.
+TBA - Chausseestraße 131A, 10115 Berlin is a music venue in Berlin with 4 upcoming nights listed on soundcheck as of Thu, 30 Jul 2026; the next is "SALON OPERA presents [8]  w/ Wonders of Modern Medicine, Regularfantasy, Discka, bod [包家巷] & co" on Fri, 31 Jul 2026.
 
-TBA - Chausseestraße 131A 10115 Berlin is a music venue in Berlin listed on soundcheck. 4 upcoming nights, with line-ups including Aliar, bod [包家巷], Discka and Dmitra and 1 more. Browse upcoming dates, start times and who's playing.
+TBA - Chausseestraße 131A, 10115 Berlin is a music venue in Berlin listed on soundcheck. 4 upcoming nights, with line-ups including Aliar, bod [包家巷], Discka and Dmitra and 1 more. Browse upcoming dates, start times and who's playing.
 
 ## What's on
 

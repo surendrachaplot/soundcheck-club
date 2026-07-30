@@ -1,8 +1,8 @@
 # Mehanata Bar
 
-Mehanata Bar is a music venue in New York City with 48 upcoming nights listed on soundcheck as of Thu, 30 Jul 2026; the next is "CLÜBSESSION VOL.08 WE THE BADDIES" on Thu, 30 Jul 2026.
+Mehanata Bar is a music venue in New York City with 49 upcoming nights listed on soundcheck as of Thu, 30 Jul 2026; the next is "CLÜBSESSION VOL.08 WE THE BADDIES" on Thu, 30 Jul 2026.
 
-Mehanata Bar is a music venue in Newyorkcity listed on soundcheck. 48 upcoming nights, with line-ups including DJ Sauci Soni, MAXWELL HöUSE and MISS VEE. Browse upcoming dates, start times and who's playing. 113, Ludlow street.
+Mehanata Bar is a music venue in Newyorkcity listed on soundcheck. 49 upcoming nights, with line-ups including DJ Sauci Soni, MAXWELL HöUSE and MISS VEE. Browse upcoming dates, start times and who's playing. 113, Ludlow street.
 
 ## What's on
 

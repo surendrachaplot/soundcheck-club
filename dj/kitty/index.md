@@ -1,8 +1,8 @@
 # Kitty
 
-Kitty is a Bass and Club artist with 2 upcoming club dates listed on soundcheck as of Thu, 30 Jul 2026, next at Kockiri, Seoul on Thu, 30 Jul 2026.
+Kitty is a Bass and Club artist with 3 upcoming club dates listed on soundcheck as of Thu, 30 Jul 2026, next at Kockiri, Seoul on Thu, 30 Jul 2026.
 
-Kitty is a bass and club artist tracked on soundcheck, with 55 sets logged across Buenosaires, Hongkong, Newyorkcity and Seoul and 3 more. Often billed alongside KISEWA, NET GALA and Ligrye. Next up: Kockiri, Seoul on Thu 30 Jul.
+Kitty is a bass and club artist tracked on soundcheck, with 56 sets logged across Buenosaires, Hongkong, Newyorkcity and Seoul and 3 more. Often billed alongside KISEWA, NET GALA and Ligrye. Next up: Kockiri, Seoul on Thu 30 Jul.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Kitty is a bass and club artist tracked on soundcheck, with 55 sets logged acros
 | --- | --- | --- |
 | Thu, 30 Jul 2026 | Kockiri | Seoul |
 | Fri, 31 Jul 2026 | Cakeshop | Seoul |
+| Sat, 8 Aug 2026 | Grain Haus | Seoul |
 
 ## Recently played
 

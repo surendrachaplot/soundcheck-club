@@ -1,14 +1,15 @@
 # Madeleine
 
-Madeleine is a Techno and Jazz artist with 2 upcoming club dates listed on soundcheck as of Thu, 30 Jul 2026, next at Ankali & Planeta Za, Prague on Fri, 31 Jul 2026.
+Madeleine is a Techno and Jazz artist with 3 upcoming club dates listed on soundcheck as of Thu, 30 Jul 2026, next at Ankali & Planeta Za, Prague on Fri, 31 Jul 2026.
 
-Madeleine is a techno and jazz artist based in Slovakia, tracked on soundcheck, with 31 sets logged across Amsterdam, Berlin, Bristol and London and 3 more. Often billed alongside Atch22, Kobayashi Maru and Inger Illel. Next up: Ankali & Planeta Za, Prague on Fri 31 Jul.
+Madeleine is a techno and jazz artist based in Slovakia, tracked on soundcheck, with 32 sets logged across Amsterdam, Berlin, Bristol and London and 3 more. Often billed alongside Atch22, Kobayashi Maru and Inger Illel. Next up: Ankali & Planeta Za, Prague on Fri 31 Jul.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 31 Jul 2026 | Ankali & Planeta Za | Prague |
+| Fri, 14 Aug 2026 | Ankali & Planeta Za | Prague |
 | Fri, 25 Sept 2026 | Ankali & Planeta Za | Prague |
 
 ## Recently played

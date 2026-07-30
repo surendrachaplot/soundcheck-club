@@ -1,14 +1,15 @@
 # Koboyo
 
-Koboyo is a Techno and Dub Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at Tresor / Globus, Berlin on Mon, 3 Aug 2026.
+Koboyo is a Techno and Dub Techno artist with 2 upcoming club dates listed on soundcheck as of Thu, 30 Jul 2026, next at Tresor / Globus, Berlin on Mon, 3 Aug 2026.
 
-Koboyo is a techno and dub techno artist tracked on soundcheck, with 92 sets logged across Amsterdam, Antwerp, Barcelona and Belgrade and 19 more. Often billed alongside Amelie Lens, Ahl Iver and KUSS. Next up: Tresor / Globus, Berlin on Mon 3 Aug.
+Koboyo is a techno and dub techno artist tracked on soundcheck, with 93 sets logged across Amsterdam, Antwerp, Barcelona and Belgrade and 20 more. Often billed alongside Amelie Lens, Ahl Iver and KUSS. Next up: Tresor / Globus, Berlin on Mon 3 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Mon, 3 Aug 2026 | Tresor / Globus | Berlin |
+| Fri, 25 Sept 2026 | Friche Belle de Mai | Marseille |
 
 ## Recently played
 

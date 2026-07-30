@@ -1,8 +1,8 @@
 # Amtrac
 
-Amtrac is a House and Deep House artist with 2 upcoming club dates listed on soundcheck as of Thu, 30 Jul 2026, next at Night We Met, Nashville on Sat, 22 Aug 2026.
+Amtrac is a House and Deep House artist with 3 upcoming club dates listed on soundcheck as of Thu, 30 Jul 2026, next at Night We Met, Nashville on Sat, 22 Aug 2026.
 
-Amtrac is a house and deep house artist tracked on soundcheck, with 63 sets logged across Austin, Chicago, Denver and Detroit and 17 more. Often billed alongside Totally Enormous Extinct Dinosaurs, Tourist and Jacques Greene. Next up: Night We Met, Nashville on Sat 22 Aug.
+Amtrac is a house and deep house artist tracked on soundcheck, with 64 sets logged across Austin, Chicago, Denver and Detroit and 17 more. Often billed alongside Totally Enormous Extinct Dinosaurs, Tourist and CRi. Next up: Night We Met, Nashville on Sat 22 Aug.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Amtrac is a house and deep house artist tracked on soundcheck, with 63 sets logg
 | --- | --- | --- |
 | Sat, 22 Aug 2026 | Night We Met | Nashville |
 | Thu, 8 Oct 2026 | UNO MALTA | Malta |
+| Sat, 24 Oct 2026 | Ministry Of Sound | London |
 
 ## Recently played
 
@@ -24,6 +25,6 @@ Amtrac is a house and deep house artist tracked on soundcheck, with 63 sets logg
 
 ## Shares bills with
 
-Totally Enormous Extinct Dinosaurs, Tourist, Jacques Greene
+Totally Enormous Extinct Dinosaurs, Tourist, CRi
 
 *Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/amtrac/)*

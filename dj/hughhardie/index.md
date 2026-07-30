@@ -1,14 +1,15 @@
 # Hugh Hardie
 
-Hugh Hardie is a Drum & Bass and Jungle artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at Hackney Wick Multiple Venues, London on Sat, 1 Aug 2026.
+Hugh Hardie is a Drum & Bass and Jungle artist with 2 upcoming club dates listed on soundcheck as of Thu, 30 Jul 2026, next at Hackney Wick Multiple Venues, London on Sat, 1 Aug 2026.
 
-Hugh Hardie is a drum & bass and jungle artist tracked on soundcheck, with 24 sets logged across Amsterdam, Austin, Barcelona and Denver and 8 more. Often billed alongside Etherwood, Solah and Ruthless. Next up: Hackney Wick Multiple Venues, London on Sat 1 Aug.
+Hugh Hardie is a drum & bass and jungle artist tracked on soundcheck, with 25 sets logged across Amsterdam, Austin, Barcelona and Denver and 9 more. Often billed alongside Etherwood, Solah and Ruthless. Next up: Hackney Wick Multiple Venues, London on Sat 1 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 1 Aug 2026 | Hackney Wick Multiple Venues | London |
+| Sat, 29 Aug 2026 | Cakeshop | Seoul |
 
 ## Recently played
 

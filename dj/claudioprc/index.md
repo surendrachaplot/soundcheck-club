@@ -1,16 +1,18 @@
 # Claudio PRC
 
-Claudio PRC is a Techno and House artist with 5 upcoming club dates listed on soundcheck as of Thu, 30 Jul 2026, next at De Fik Garden, Amsterdam on Sun, 30 Aug 2026.
+Claudio PRC is a Techno and House artist with 7 upcoming club dates listed on soundcheck as of Thu, 30 Jul 2026, next at Club der Visionaere, Berlin on Wed, 12 Aug 2026.
 
-Claudio PRC is a techno and house artist based in Italy, tracked on soundcheck, with 145 sets logged across Amsterdam, Athens, Bali and Barcelona and 40 more. Often billed alongside Luigi Tozzi, Isabel Soto and Adriana Lopez. Next up: De Fik Garden, Amsterdam on Sun 30 Aug.
+Claudio PRC is a techno and house artist based in Italy, tracked on soundcheck, with 147 sets logged across Amsterdam, Athens, Bali and Barcelona and 40 more. Often billed alongside Luigi Tozzi, Isabel Soto and Adriana Lopez. Next up: Club der Visionaere, Berlin on Wed 12 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Wed, 12 Aug 2026 | Club der Visionaere | Berlin |
 | Sun, 30 Aug 2026 | De Fik Garden | Amsterdam |
 | Fri, 4 Sept 2026 | Trädgården | Stockholm |
 | Sat, 5 Sept 2026 | Europa Boat | Budapest |
+| Fri, 11 Sept 2026 | Jasna 1 | Warsaw |
 | Fri, 18 Sept 2026 | Paradiso | Amsterdam |
 | Fri, 23 Oct 2026 | Levenslang Amsterdam | Amsterdam |
 

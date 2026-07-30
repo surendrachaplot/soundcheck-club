@@ -1,14 +1,15 @@
 # Elisa Batti
 
-Elisa Batti is a Techno and Ambient artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at public records, New York City on Fri, 21 Aug 2026.
+Elisa Batti is a Techno and Ambient artist with 2 upcoming club dates listed on soundcheck as of Thu, 30 Jul 2026, next at public records, New York City on Fri, 21 Aug 2026.
 
-Elisa Batti is a techno and ambient artist based in Netherlands, tracked on soundcheck, with 44 sets logged across Amsterdam, Athens, Barcelona and Berlin and 6 more. Often billed alongside Laura van Hal, Argie and Carmen Lisa (2). Next up: public records, Newyorkcity on Fri 21 Aug.
+Elisa Batti is a techno and ambient artist based in Netherlands, tracked on soundcheck, with 45 sets logged across Amsterdam, Athens, Barcelona and Berlin and 6 more. Often billed alongside Laura van Hal, Thoms Traxx and Argie. Next up: public records, Newyorkcity on Fri 21 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 21 Aug 2026 | public records | New York City |
+| Sat, 29 Aug 2026 | ISOamsterdam | Amsterdam |
 
 ## Recently played
 
@@ -23,6 +24,6 @@ Elisa Batti is a techno and ambient artist based in Netherlands, tracked on soun
 
 ## Shares bills with
 
-Laura van Hal, Argie, Carmen Lisa (2)
+Laura van Hal, Thoms Traxx, Argie
 
 *Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/elisabatti/)*

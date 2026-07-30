@@ -8,6 +8,6 @@ Hinterhof Mitte is a music venue in Berlin listed on soundcheck. 1 upcoming nigh
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Fri, 31 Jul 2026 | Rave Mitte(n) in Berlin /w Konfusia, Secret Act, Mehr is Mehr, Aio, Leon Licht, Mino, Sabura | Aio, Carlo Bonanza, Ele Luz, JUSTICE (DE), Katzenohr, Konfusia, Leon Licht, Martin Ka, Maurice Mino, Mehr is Mehr, Mr.Ciao, Sabura, Secret Act, Sin:port, Vanessa Sa, Who is ela¿, ZweiE, lisa luka |
+| Fri, 31 Jul 2026 | Rave Mitte(n) in Berlin /w Konfusia, Secret Act, Mehr is Mehr, Aio, Leon Licht, Mino, Sabura | Aio, Carlo Bonanza, Ele Luz, JUSTICE (DE), Katzenohr, Konfusia, Leon Licht, Martin Ka, Maurice Mino, Mehr is Mehr, Mr.Ciao, Sabura, Secret Act, Sin:port, Vanessa Sa, WIEK, Who is ela¿, ZweiE, lisa luka |
 
 *Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/hinterhof-mitte/)*

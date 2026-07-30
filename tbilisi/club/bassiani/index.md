@@ -16,7 +16,7 @@ Bassiani is a music venue in Tbilisi listed on soundcheck. 11 upcoming nights, w
 | Sat, 15 Aug 2026 | Horoom – Sat, 15.08.2026 | G.Kura, Hamatsuki, Hiroko Yamamura, Valley Dolly |
 | Fri, 21 Aug 2026 | Horoom – Fri, 21.08.2026 | Kvanchi, Moopie, ninasupsa |
 | Sat, 22 Aug 2026 | Horoom – Sat, 22.08.2026 | DJ Nah Care, DJ Sense, Ezy, Peachlyfe, Rydeen (2) |
-| Fri, 28 Aug 2026 | Horoom | Anthony Linell, K.pal, Shvili, Snad |
+| Fri, 28 Aug 2026 | Horoom – Fri, 28.08.2026 | Anthony Linell, K.pal, Shvili, Snad |
 | Sat, 29 Aug 2026 | Horoom – Sat, 29.08.2026 | CAMILLA, Mancho, Memotech, Seqta, Sophie Phare |
 
 ## Address

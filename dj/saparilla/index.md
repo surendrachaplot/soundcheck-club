@@ -1,8 +1,8 @@
 # saparilla
 
-saparilla is a Electro and Club artist with 3 upcoming club dates listed on soundcheck as of Thu, 30 Jul 2026, next at Stereo, Glasgow on Fri, 31 Jul 2026.
+saparilla is a Club and Electro artist with 4 upcoming club dates listed on soundcheck as of Thu, 30 Jul 2026, next at Stereo, Glasgow on Fri, 31 Jul 2026.
 
-saparilla is an electro and club artist tracked on soundcheck, with 24 sets logged across Edinburgh, Glasgow and London. Often billed alongside Kinz Luiz, makaya and spxo. Next up: Stereo, Glasgow on Fri 31 Jul.
+saparilla is a club and electro artist tracked on soundcheck, with 25 sets logged across Edinburgh, Glasgow and London. Often billed alongside Kinz Luiz, makaya and spxo. Next up: Stereo, Glasgow on Fri 31 Jul.
 
 ## Upcoming shows
 
@@ -11,6 +11,7 @@ saparilla is an electro and club artist tracked on soundcheck, with 24 sets logg
 | Fri, 31 Jul 2026 | Stereo | Glasgow |
 | Sat, 8 Aug 2026 | Stereo | Glasgow |
 | Fri, 18 Sept 2026 | EXIT Glasgow | Glasgow |
+| Fri, 18 Sept 2026 | Stereo | Glasgow |
 
 ## Recently played
 

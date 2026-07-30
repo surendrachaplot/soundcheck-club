@@ -1,14 +1,15 @@
 # Beau Wanzer
 
-Beau Wanzer is a Experimental and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at The California Clipper, Chicago on Tue, 4 Aug 2026.
+Beau Wanzer is a Experimental and Techno artist with 2 upcoming club dates listed on soundcheck as of Thu, 30 Jul 2026, next at The California Clipper, Chicago on Tue, 4 Aug 2026.
 
-Beau Wanzer is an experimental and techno artist tracked on soundcheck, with 103 sets logged across Amsterdam, Antwerp, Austin and Barcelona and 28 more. Often billed alongside Amber Gris, Dretraxx and L.F.T.. Next up: The California Clipper, Chicago on Tue 4 Aug.
+Beau Wanzer is an experimental and techno artist tracked on soundcheck, with 104 sets logged across Amsterdam, Antwerp, Austin and Barcelona and 28 more. Often billed alongside Amber Gris, Dretraxx and L.F.T.. Next up: The California Clipper, Chicago on Tue 4 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Tue, 4 Aug 2026 | The California Clipper | Chicago |
+| Wed, 19 Aug 2026 | Podlasie Club | Chicago |
 
 ## Recently played
 

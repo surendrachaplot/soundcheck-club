@@ -1,6 +1,6 @@
 # Groove Tracker Nights (Rooftop) at Honey's
 
-Groove Tracker Nights (Rooftop) at Honey's on Sun 2 Aug, Newyorkcity. 5 acts on the bill: Isadora, Nick Boyd, nycp and Perna and 1 more. House and Experimental. Preview the line-up and save it on soundcheck.
+Groove Tracker Nights (Rooftop) at Honey's on Sun 2 Aug, Newyorkcity. 3 acts on the bill: Nick Boyd, Perna and The Hefker Girl. House and Experimental. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,9 +10,7 @@ Groove Tracker Nights (Rooftop) at Honey's on Sun 2 Aug, Newyorkcity. 5 acts on 
 
 ## Line-up
 
-- Isadora
 - Nick Boyd
-- nycp
 - Perna
 - The Hefker Girl
 

@@ -1,13 +1,14 @@
 # DaSoMaZo
 
-DaSoMaZo is a Techno and Industrial artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at Void Club, Berlin on Fri, 11 Sept 2026.
+DaSoMaZo is a Techno and Industrial artist with 2 upcoming club dates listed on soundcheck as of Thu, 30 Jul 2026, next at Sensorium, Berlin on Fri, 14 Aug 2026.
 
-DaSoMaZo is a techno and industrial artist tracked on soundcheck, with 126 sets logged across Berlin. Often billed alongside Brizze, Kopflos and Wachbär. Next up: Void Club, Berlin on Fri 11 Sept.
+DaSoMaZo is a techno and industrial artist tracked on soundcheck, with 127 sets logged across Berlin. Often billed alongside Brizze, Kopflos and Wachbär. Next up: Sensorium, Berlin on Fri 14 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 14 Aug 2026 | Sensorium | Berlin |
 | Fri, 11 Sept 2026 | Void Club | Berlin |
 
 ## Recently played

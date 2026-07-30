@@ -1,14 +1,15 @@
 # Acidwork
 
-Acidwork is a House and Club artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at Hertz, Seoul on Fri, 31 Jul 2026.
+Acidwork is a House and Club artist with 2 upcoming club dates listed on soundcheck as of Thu, 30 Jul 2026, next at Hertz, Seoul on Fri, 31 Jul 2026.
 
-Acidwork is a house and club artist tracked on soundcheck, with 131 sets logged across Seoul and Tokyo. Often billed alongside Jesse You, Jucid and Jimin. Next up: Hertz, Seoul on Fri 31 Jul.
+Acidwork is a house and club artist tracked on soundcheck, with 132 sets logged across Seoul and Tokyo. Often billed alongside Jesse You, Jucid and Jimin. Next up: Hertz, Seoul on Fri 31 Jul.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 31 Jul 2026 | Hertz | Seoul |
+| Fri, 7 Aug 2026 | Modeci | Seoul |
 
 ## Recently played
 

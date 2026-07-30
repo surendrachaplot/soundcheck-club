@@ -12,7 +12,7 @@ Panama is a music venue in Amsterdam listed on soundcheck. 7 upcoming nights. Br
 | Sat, 1 Aug 2026 | Bear Necessity – World Pride |  |
 | Sun, 2 Aug 2026 | Bear Necessity T-Dance |  |
 | Fri, 7 Aug 2026 | Backdoor x We Party – World Pride |  |
-| Sat, 8 Aug 2026 | RAVING CHARLIE: Hard Techno / Rave |  |
+| Sat, 8 Aug 2026 | RAVING CHARLIE: Hard Techno / Rave w/ TOMAGAN [AT] / ØLCZYK / BRIZZIA   |  |
 | Sat, 15 Aug 2026 | RAVING CHARLIE: Hard Techno / Rave |  |
 | Sat, 5 Sept 2026 | R&B Lovers - Panama Amsterdam |  |
 

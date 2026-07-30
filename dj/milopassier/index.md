@@ -1,13 +1,14 @@
 # Milo Passier
 
-Milo Passier is a House and Tech House artist with 2 upcoming club dates listed on soundcheck as of Thu, 30 Jul 2026, next at KIT Royal Tropical Institute, Amsterdam on Thu, 22 Oct 2026.
+Milo Passier is a House and Tech House artist with 3 upcoming club dates listed on soundcheck as of Thu, 30 Jul 2026, next at Club Up, Amsterdam on Sat, 1 Aug 2026.
 
-Milo Passier is a house and tech house artist based in Netherlands, tracked on soundcheck, with 19 sets logged across Amsterdam, Barcelona, Lisbon and Rotterdam and 1 more. Often billed alongside Lasse Top, Camikazy Uzi and Julian Wijn. Next up: KIT Royal Tropical Institute, Amsterdam on Thu 22 Oct.
+Milo Passier is a house and tech house artist based in Netherlands, tracked on soundcheck, with 20 sets logged across Amsterdam, Barcelona, Lisbon and Rotterdam and 1 more. Often billed alongside Lasse Top, Camikazy Uzi and Julian Wijn. Next up: Club Up, Amsterdam on Sat 1 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 1 Aug 2026 | Club Up | Amsterdam |
 | Thu, 22 Oct 2026 | KIT Royal Tropical Institute | Amsterdam |
 | Thu, 22 Oct 2026 | KIT Royal Tropical Institute | Amsterdam |
 

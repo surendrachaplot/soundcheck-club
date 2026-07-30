@@ -1,8 +1,8 @@
 # public records
 
-public records is a music venue in New York City with 31 upcoming nights listed on soundcheck as of Thu, 30 Jul 2026; the next is "Anetha, 320" on Thu, 30 Jul 2026.
+public records is a music venue in New York City with 32 upcoming nights listed on soundcheck as of Thu, 30 Jul 2026; the next is "Anetha, 320" on Thu, 30 Jul 2026.
 
-public records is a music venue in Newyorkcity listed on soundcheck. 31 upcoming nights, with line-ups including 30000AD, 320 (1), Ana Rs and Andrey Pushkarev and 2 more. Browse upcoming dates, start times and who's playing. 233 Butler St, Brooklyn, NY 11217, USA.
+public records is a music venue in Newyorkcity listed on soundcheck. 32 upcoming nights, with line-ups including 30000AD, 320 (1), Ana Rs and Andrey Pushkarev and 2 more. Browse upcoming dates, start times and who's playing. 233 Butler St, Brooklyn, NY 11217, USA.
 
 ## What's on
 

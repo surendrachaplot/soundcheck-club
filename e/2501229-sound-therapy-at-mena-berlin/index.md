@@ -1,6 +1,6 @@
 # Sound Therapy at Mena Berlin
 
-Sound Therapy at Mena Berlin on Fri 21 Aug, Berlin. 3 acts on the bill: Davidlab, disttler and Guido Iacovitti. Techno and House. Preview the line-up and save it on soundcheck.
+Sound Therapy at Mena Berlin on Fri 21 Aug, Berlin. 4 acts on the bill: Davidlab, disttler, Guido Iacovitti and Hellotrip. Techno and House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -13,5 +13,6 @@ Sound Therapy at Mena Berlin on Fri 21 Aug, Berlin. 3 acts on the bill: Davidlab
 - Davidlab
 - disttler
 - Guido Iacovitti
+- Hellotrip
 
 *Source: [soundcheck](https://soundcheck.club/e/2501229-sound-therapy-at-mena-berlin/)*

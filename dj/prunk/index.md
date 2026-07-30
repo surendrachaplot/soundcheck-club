@@ -1,8 +1,8 @@
 # Prunk
 
-Prunk is a House and Tech House artist with 19 upcoming club dates listed on soundcheck as of Thu, 30 Jul 2026, next at Colorado Charlie, The Hague on Fri, 7 Aug 2026.
+Prunk is a House and Tech House artist with 20 upcoming club dates listed on soundcheck as of Thu, 30 Jul 2026, next at Colorado Charlie, The Hague on Fri, 7 Aug 2026.
 
-Prunk is a house and tech house artist tracked on soundcheck, with 292 sets logged across Amsterdam, Antwerp, Austin and Bali and 41 more. Often billed alongside Kellie Allen, M-High and Robbie Doherty. Next up: Colorado Charlie, Thehague on Fri 7 Aug.
+Prunk is a house and tech house artist tracked on soundcheck, with 293 sets logged across Amsterdam, Antwerp, Austin and Bali and 41 more. Often billed alongside Kellie Allen, M-High and Robbie Doherty. Next up: Colorado Charlie, Thehague on Fri 7 Aug.
 
 ## Upcoming shows
 

@@ -9,7 +9,7 @@ De Fik Garden is a music venue in Amsterdam listed on soundcheck. 12 upcoming ni
 | Date | Night | Line-up |
 | --- | --- | --- |
 | Fri, 31 Jul 2026 | RPU presents Lustrum | Cindy (CH), Pjenné, Random Spirit, Tangela, geri (NL) |
-| Sat, 1 Aug 2026 | EAST: Summer Night Party (Indoor + Outdoor) | Delguero, Jayzo, Netty Hugo, RawB, Steven Shade |
+| Sat, 1 Aug 2026 | EAST Summer Night Rave | Delguero, Jayzo, Netty Hugo, RawB, Steven Shade |
 | Sat, 8 Aug 2026 | SOTO | Ben Kaczor, Kaikaina, Montse, Voss |
 | Sun, 9 Aug 2026 | SERVE Eurosummer | Jensen Interceptor |
 | Sat, 15 Aug 2026 | Scene |  |

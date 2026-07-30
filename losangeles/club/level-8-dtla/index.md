@@ -10,7 +10,7 @@ Level 8 DTLA is a music venue in Losangeles listed on soundcheck. 11 upcoming ni
 | --- | --- | --- |
 | Fri, 31 Jul 2026 | SUNSET SESSIONS | Michael Wagner, SAAND, Tamara Lanza |
 | Sat, 1 Aug 2026 | FLOAT Rooftop Pool Party ft. Chambord [2-8 PM] | Chambord |
-| Sun, 2 Aug 2026 | Summer Club LA Pool Party - Young Hollywood Pop-Up @ The Moxy Hotel Rooftop |  |
+| Sun, 2 Aug 2026 | Summer Club LA's Annual Young Hollywood Pool Party |  |
 | Fri, 7 Aug 2026 | SUNSET SESSIONS presents: 'GOOD GIRL' Release Party | David Paul, Tamara Lanza |
 | Sat, 8 Aug 2026 | Phantoms POOL PARTY at Level 8 | Phantoms |
 | Sat, 15 Aug 2026 | FLOAT Rooftop Pool Party feat. Massane [2-8 PM] | Massane |

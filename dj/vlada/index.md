@@ -1,8 +1,8 @@
 # Vlada
 
-Vlada is a Techno and House artist with 9 upcoming club dates listed on soundcheck as of Thu, 30 Jul 2026, next at Lux Fragil, Lisbon on Fri, 31 Jul 2026.
+Vlada is a Techno and House artist with 10 upcoming club dates listed on soundcheck as of Thu, 30 Jul 2026, next at Lux Fragil, Lisbon on Fri, 31 Jul 2026.
 
-Vlada is a techno and house artist tracked on soundcheck, with 190 sets logged across Amsterdam, Antwerp, Bali and Bangkok and 49 more. Often billed alongside Vaahzer, Konduku and Kia (AU). Next up: Lux Fragil, Lisbon on Fri 31 Jul.
+Vlada is a techno and house artist tracked on soundcheck, with 191 sets logged across Amsterdam, Antwerp, Bali and Bangkok and 49 more. Often billed alongside Vaahzer, Konduku and Kia (AU). Next up: Lux Fragil, Lisbon on Fri 31 Jul.
 
 ## Upcoming shows
 
@@ -17,6 +17,7 @@ Vlada is a techno and house artist tracked on soundcheck, with 190 sets logged a
 | Fri, 18 Sept 2026 | Fort Mifflin | Philadelphia |
 | Sun, 20 Sept 2026 | TBA | Montreal |
 | Thu, 24 Sept 2026 | TBA - Out ‘n’ About Treesort | Portland |
+| Sat, 17 Oct 2026 | fabric | London |
 
 ## Recently played
 

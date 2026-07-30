@@ -1,6 +1,6 @@
 # Späti Buff at TBA
 
-Späti Buff at TBA on Sat 1 Aug, Berlin. 4 acts on the bill: Bridontknow, Katia Fis, Moodrich and SKAIN. Breakbeat and House. Preview the line-up and save it on soundcheck.
+Späti Buff at TBA on Sat 1 Aug, Berlin. 5 acts on the bill: Bridontknow, Katia Fis, Moodrich and SKAIN and 1 more. Breakbeat and House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -14,5 +14,6 @@ Späti Buff at TBA on Sat 1 Aug, Berlin. 4 acts on the bill: Bridontknow, Katia 
 - Katia Fis
 - Moodrich
 - SKAIN
+- Sophti
 
 *Source: [soundcheck](https://soundcheck.club/e/2500893-sp-ti-buff-at-tba/)*

@@ -1,8 +1,8 @@
 # Brixton Jamm
 
-Brixton Jamm is a music venue in London with 15 upcoming nights listed on soundcheck as of Thu, 30 Jul 2026; the next is "Reek0 presents: Step Back and Whine" on Fri, 31 Jul 2026.
+Brixton Jamm is a music venue in London with 16 upcoming nights listed on soundcheck as of Thu, 30 Jul 2026; the next is "Reek0 presents: Step Back and Whine" on Fri, 31 Jul 2026.
 
-Brixton Jamm is a music venue in London listed on soundcheck. 15 upcoming nights, with line-ups including Amber Rose, AUDIO DUNE, Deselecta and DJ Brockie and 2 more. Browse upcoming dates, start times and who's playing. 261 Brixton Road; Brixton; London SW9 6LH; United Kingdom.
+Brixton Jamm is a music venue in London listed on soundcheck. 16 upcoming nights, with line-ups including Amber Rose, AUDIO DUNE, Deselecta and DJ Brockie and 2 more. Browse upcoming dates, start times and who's playing. 261 Brixton Road; Brixton; London SW9 6LH; United Kingdom.
 
 ## What's on
 

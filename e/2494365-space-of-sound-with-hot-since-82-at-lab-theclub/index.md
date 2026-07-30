@@ -1,6 +1,6 @@
 # Space of Sound with Hot Since 82 at LAB theCLUB
 
-Space of Sound with Hot Since 82 at LAB theCLUB on Sat 3 Oct, Madrid. 1 act on the bill: Hot Since 82. Preview the line-up and save it on soundcheck.
+Space of Sound with Hot Since 82 at LAB theCLUB on Sat 3 Oct, Madrid. 1 act on the bill: Hot Since 82. House and Tech House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

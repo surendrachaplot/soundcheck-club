@@ -1,8 +1,8 @@
 # Seth Troxler
 
-Seth Troxler is a House and Techno artist with 12 upcoming club dates listed on soundcheck as of Thu, 30 Jul 2026, next at BLITZ, Munich on Fri, 31 Jul 2026.
+Seth Troxler is a House and Techno artist with 13 upcoming club dates listed on soundcheck as of Thu, 30 Jul 2026, next at BLITZ, Munich on Fri, 31 Jul 2026.
 
-Seth Troxler is a house and techno artist tracked on soundcheck, with 297 sets logged across Amsterdam, Athens, Austin and Bali and 49 more. Often billed alongside DJ Tennis, Sossa and Prospa. Next up: BLITZ, Munich on Fri 31 Jul.
+Seth Troxler is a house and techno artist tracked on soundcheck, with 298 sets logged across Amsterdam, Athens, Austin and Bali and 49 more. Often billed alongside DJ Tennis, Sossa and Prospa. Next up: BLITZ, Munich on Fri 31 Jul.
 
 ## Upcoming shows
 
@@ -17,9 +17,9 @@ Seth Troxler is a house and techno artist tracked on soundcheck, with 297 sets l
 | Fri, 21 Aug 2026 | Pacha New York | New York City |
 | Mon, 24 Aug 2026 | DC-10 | Ibiza |
 | Tue, 8 Sept 2026 | Amnesia Ibiza | Ibiza |
+| Sat, 19 Sept 2026 | Sophie Festival | Malaga |
 | Fri, 25 Sept 2026 | Pacha Ibiza | Ibiza |
 | Sat, 3 Oct 2026 | Depot Mayfield | Manchester |
-| Sun, 4 Oct 2026 | Amnesia Ibiza | Ibiza |
 
 ## Recently played
 

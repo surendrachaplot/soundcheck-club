@@ -1,14 +1,15 @@
 # Miss Twink USA
 
-Miss Twink USA is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at The California Clipper, Chicago on Sat, 8 Aug 2026.
+Miss Twink USA is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Thu, 30 Jul 2026, next at The California Clipper, Chicago on Sat, 8 Aug 2026.
 
-Miss Twink USA is a techno and house artist based in United States of America, tracked on soundcheck, with 155 sets logged across Amsterdam, Athens, Berlin and Chicago and 11 more. Often billed alongside Ariel Zetina, Flores Negras and Vesolo. Next up: The California Clipper, Chicago on Sat 8 Aug.
+Miss Twink USA is a techno and house artist based in United States of America, tracked on soundcheck, with 156 sets logged across Amsterdam, Athens, Berlin and Chicago and 11 more. Often billed alongside Ariel Zetina, Flores Negras and Vesolo. Next up: The California Clipper, Chicago on Sat 8 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 8 Aug 2026 | The California Clipper | Chicago |
+| Fri, 21 Aug 2026 | Podlasie Club | Chicago |
 
 ## Recently played
 

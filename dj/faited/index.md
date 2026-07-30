@@ -1,13 +1,14 @@
 # Faited
 
-Faited is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Thu, 30 Jul 2026, next at Renate, Berlin on Fri, 11 Sept 2026.
+Faited is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Thu, 30 Jul 2026, next at 528 Ibiza, Ibiza on Tue, 1 Sept 2026.
 
-Faited is a techno and house artist tracked on soundcheck, with 27 sets logged across Amsterdam, Berlin, Boston and Chicago and 5 more. Often billed alongside Octo Octa, 1morning and Lauren Flax. Next up: Renate, Berlin on Fri 11 Sept.
+Faited is a techno and house artist tracked on soundcheck, with 28 sets logged across Amsterdam, Berlin, Boston and Chicago and 6 more. Often billed alongside Octo Octa, 1morning and Eris Drew. Next up: 528 Ibiza, Ibiza on Tue 1 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Tue, 1 Sept 2026 | 528 Ibiza | Ibiza |
 | Fri, 11 Sept 2026 | Renate | Berlin |
 | Fri, 11 Sept 2026 | Doka | Amsterdam |
 
@@ -24,6 +25,6 @@ Faited is a techno and house artist tracked on soundcheck, with 27 sets logged a
 
 ## Shares bills with
 
-Octo Octa, 1morning, Lauren Flax
+Octo Octa, 1morning, Eris Drew
 
 *Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/faited/)*

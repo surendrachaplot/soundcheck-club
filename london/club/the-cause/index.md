@@ -15,7 +15,7 @@ The Cause is a music venue in London listed on soundcheck. 22 upcoming nights, w
 | Sat, 8 Aug 2026 | Boat Club Open Air | G CHASE, HARTY, Mazos, Mike Younger, Ninetree, Sonny Kane |
 | Sun, 9 Aug 2026 | Summer 90s & 00s R&B Outdoor Festival | DJ Ace |
 | Sun, 9 Aug 2026 | Gin & Juice: Old School Hip-Hop Outdoor Summer Festival |  |
-| Sat, 15 Aug 2026 | Cooking with Palms Trax: Day & Night | Call Super, John Talabot, MAYURASHKA, OK Williams, Palms Trax, Powder, Prosumer, Rosie Ama |
+| Sat, 15 Aug 2026 | Cooking with Palms Trax with Call Super, Prosumer, OK Williams, John Talabot & More | Call Super, John Talabot, MAYURASHKA, OK Williams, Palms Trax, Powder, Prosumer, Rosie Ama |
 | Sat, 22 Aug 2026 | SIGNAL FESTIVAL 2026 | AliA, Ant TC1, Blackeye MC, Break, Carré, Chinese Daughter, Cleveland Watkiss, Coki, DJ Chef, DJ Flight, DJ Storm, Dillinja, Doc Scott, Echo Brown, Ehua, Fabio, Forest Drive West, GLXY, Goldie, Grooverider, Halogenix, JAZ IMSKY, Joker, Kira (3), LSB, Lenzman, Loefah, MC Fox, MC GQ, Mantra, Photek, SGT Pokes, Satl, Skeptical, T-Man (UK), Takuya Nakamura, Vanity Roxane, Workforce, Zed Bias, Zero T, dBridge |
 | Sun, 23 Aug 2026 | Christian Löffler presents 'Until We Meet Again' | Christian Löffler, Meredi, Sofia Ilyas, TWO LANES |
 

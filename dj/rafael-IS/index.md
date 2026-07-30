@@ -1,14 +1,15 @@
 # Rafael (IS)
 
-Rafael (IS) is a Tech House and House artist with 2 upcoming club dates listed on soundcheck as of Thu, 30 Jul 2026, next at Coda, Toronto on Fri, 31 Jul 2026.
+Rafael (IS) is a Tech House and House artist with 3 upcoming club dates listed on soundcheck as of Thu, 30 Jul 2026, next at Coda, Toronto on Fri, 31 Jul 2026.
 
-Rafael (IS) is a tech house and house artist tracked on soundcheck, with 22 sets logged across Austin, Berlin, Brisbane and Budapest and 12 more. Often billed alongside Jamie Jones, Afriqua and Daizy. Next up: Coda, Toronto on Fri 31 Jul.
+Rafael (IS) is a tech house and house artist tracked on soundcheck, with 23 sets logged across Austin, Barcelona, Berlin and Brisbane and 13 more. Often billed alongside Jamie Jones, Afriqua and Daizy. Next up: Coda, Toronto on Fri 31 Jul.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 31 Jul 2026 | Coda | Toronto |
+| Sat, 22 Aug 2026 | Luz De Gas | Barcelona |
 | Sat, 26 Sept 2026 | Waterfront Park in San Diego | San Diego |
 
 ## Recently played

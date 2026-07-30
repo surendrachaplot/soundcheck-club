@@ -1,8 +1,8 @@
 # Wax Music Lounge
 
-Wax Music Lounge is a music venue in Melbourne with 13 upcoming nights listed on soundcheck as of Thu, 30 Jul 2026; the next is "BIONIC BOOGIE: THE ONLY CHILD MUSIC APPRECIATION SOCIETY" on Fri, 31 Jul 2026.
+Wax Music Lounge is a music venue in Melbourne with 14 upcoming nights listed on soundcheck as of Thu, 30 Jul 2026; the next is "BIONIC BOOGIE: THE ONLY CHILD MUSIC APPRECIATION SOCIETY" on Fri, 31 Jul 2026.
 
-Wax Music Lounge is a music venue in Melbourne listed on soundcheck. 13 upcoming nights, with line-ups including Chris NG, Mullen and Tanya George. Browse upcoming dates, start times and who's playing. 250 Flinders St (basement), Melbourne, VIC, Australia, Victoria.
+Wax Music Lounge is a music venue in Melbourne listed on soundcheck. 14 upcoming nights, with line-ups including Chris NG, Mullen and Tanya George. Browse upcoming dates, start times and who's playing. 250 Flinders St (basement), Melbourne, VIC, Australia, Victoria.
 
 ## What's on
 

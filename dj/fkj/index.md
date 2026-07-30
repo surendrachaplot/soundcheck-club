@@ -1,13 +1,14 @@
 # FKJ
 
-FKJ is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at Astra Kulturhaus, Berlin on Wed, 21 Oct 2026.
+FKJ is a House and Disco artist with 2 upcoming club dates listed on soundcheck as of Thu, 30 Jul 2026, next at VEGA, Copenhagen on Tue, 20 Oct 2026.
 
-FKJ is a house and disco artist based in France, tracked on soundcheck, with 10 sets logged across Barcelona, Berlin, Hongkong and Istanbul and 3 more. Often billed alongside Hot Chip, ANOTR and Alexandre Laeddis. Next up: Astra Kulturhaus, Berlin on Wed 21 Oct.
+FKJ is a house and disco artist based in France, tracked on soundcheck, with 11 sets logged across Barcelona, Berlin, Copenhagen and Hongkong and 4 more. Often billed alongside Hot Chip, ANOTR and Alexandre Laeddis. Next up: VEGA, Copenhagen on Tue 20 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Tue, 20 Oct 2026 | VEGA | Copenhagen |
 | Wed, 21 Oct 2026 | Astra Kulturhaus | Berlin |
 
 ## Recently played

@@ -8,7 +8,7 @@ Humboldthain Club is a music venue in Berlin listed on soundcheck. 23 upcoming n
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Fri, 31 Jul 2026 | TRIEBWERK Community Party / Live Acts + Art Exhibition | KERT (DE), PHLOXO, PLUSPUNKT, Wieko, Winston Choppa, elvito |
+| Fri, 31 Jul 2026 | TRIEBWERK Community Party / Live Acts + Art Exhibition | KERT (DE), PHLOXO, PLUSPUNKT, Wieko, Winston Choppa, e.leptic, elvito |
 | Sat, 1 Aug 2026 | FOREVER - HUMBI BLEIBT / after demo parade | Wall Ra, cun_t |
 | Tue, 4 Aug 2026 | Open Decks & Tischtennis |  |
 | Fri, 7 Aug 2026 | CHB Collective - SUMMERPARTY |  |

@@ -1,14 +1,14 @@
 # CLAUDIX
 
-CLAUDIX is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at TBA - Secret Location, Washington DC on Sat, 1 Aug 2026.
+CLAUDIX is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at TBA - Secret Location, Washington DC on Fri, 7 Aug 2026.
 
-CLAUDIX is a techno and house artist tracked on soundcheck, with 17 sets logged across Washingtondc. Often billed alongside JADE CAO, KRØK and .Flag.. Next up: TBA - Secret Location, Washingtondc on Sat 1 Aug.
+CLAUDIX is a techno and house artist tracked on soundcheck, with 17 sets logged across Washingtondc. Often billed alongside JADE CAO, KRØK and .Flag.. Next up: TBA - Secret Location, Washingtondc on Fri 7 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 1 Aug 2026 | TBA - Secret Location | Washington DC |
+| Fri, 7 Aug 2026 | TBA - Secret Location | Washington DC |
 
 ## Recently played
 

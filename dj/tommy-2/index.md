@@ -1,13 +1,14 @@
 # Tommy (2)
 
-Tommy (2) is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at UTOPIA / DYSTOPIA, Tokyo on Mon, 10 Aug 2026.
+Tommy (2) is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Thu, 30 Jul 2026, next at Forte Antenne, Rome on Fri, 31 Jul 2026.
 
-Tommy (2) is a techno and house artist based in Japan, tracked on soundcheck, with 38 sets logged across Berlin, Copenhagen, Dublin and Ibiza and 3 more. Often billed alongside Yonenaga, Satoshi Matsui and Wataru Sakuraba. Next up: UTOPIA / DYSTOPIA, Tokyo on Mon 10 Aug.
+Tommy (2) is a techno and house artist based in Japan, tracked on soundcheck, with 39 sets logged across Berlin, Copenhagen, Dublin and Ibiza and 4 more. Often billed alongside Yonenaga, Satoshi Matsui and Wataru Sakuraba. Next up: Forte Antenne, Rome on Fri 31 Jul.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 31 Jul 2026 | Forte Antenne | Rome |
 | Mon, 10 Aug 2026 | UTOPIA / DYSTOPIA | Tokyo |
 
 ## Recently played

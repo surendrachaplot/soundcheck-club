@@ -1,13 +1,14 @@
 # Olefonken
 
-Olefonken is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Thu, 30 Jul 2026, next at The Villa, Oslo on Sat, 1 Aug 2026.
+Olefonken is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Thu, 30 Jul 2026, next at Gehør, Oslo on Fri, 31 Jul 2026.
 
-Olefonken is a house and techno artist tracked on soundcheck, with 73 sets logged across Oslo. Often billed alongside Øyvind Morken, G-HA and Olanskii. Next up: The Villa, Oslo on Sat 1 Aug.
+Olefonken is a house and techno artist tracked on soundcheck, with 74 sets logged across Oslo. Often billed alongside Øyvind Morken, G-HA and Olanskii. Next up: Gehør, Oslo on Fri 31 Jul.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 31 Jul 2026 | Gehør | Oslo |
 | Sat, 1 Aug 2026 | The Villa | Oslo |
 | Sat, 8 Aug 2026 | Blå | Oslo |
 

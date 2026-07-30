@@ -16,7 +16,7 @@ radial is a music venue in London listed on soundcheck. 9 upcoming nights, with 
 | Fri, 21 Aug 2026 | Adult Party | Meg Ward |
 | Sat, 22 Aug 2026 | Faux Poly: Day & Night Party w Kassian, Joe Milli, Danny Goliger, Rose Holland + Special Guests | D.D. Curry, Danny Goliger, Joe Milli, Kassian, Rose Holland |
 | Fri, 28 Aug 2026 | Minor Science ✼ Nose Dive | Genzun, Minor Science, Nose Dive |
-| Sun, 30 Aug 2026 | POUFFE #1 | Daskaran, teleopath |
+| Sun, 30 Aug 2026 | POUFFE #1 | Daskaran, LO-LOW, teleopath |
 
 ## Address
 

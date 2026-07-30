@@ -1,13 +1,14 @@
 # Khadija (DE)
 
-Khadija (DE) is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at Paal69, Amsterdam on Sun, 16 Aug 2026.
+Khadija (DE) is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Thu, 30 Jul 2026, next at Zürich - Various Venues, Zurich on Mon, 3 Aug 2026.
 
-Khadija (DE) is a house and techno artist based in Germany, tracked on soundcheck, with 27 sets logged across Amsterdam, Berlin, Brussels and Frankfurt and 2 more. Often billed alongside Njeri, Anele and Katerinha. Next up: Paal69, Amsterdam on Sun 16 Aug.
+Khadija (DE) is a house and techno artist based in Germany, tracked on soundcheck, with 28 sets logged across Amsterdam, Berlin, Brussels and Frankfurt and 2 more. Often billed alongside Njeri, Anele and Katerinha. Next up: Zürich - Various Venues, Zurich on Mon 3 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Mon, 3 Aug 2026 | Zürich - Various Venues | Zurich |
 | Sun, 16 Aug 2026 | Paal69 | Amsterdam |
 
 ## Recently played

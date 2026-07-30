@@ -1,8 +1,8 @@
 # angelboy
 
-angelboy is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Thu, 30 Jul 2026, next at TILLATEC, Amsterdam on Fri, 31 Jul 2026.
+angelboy is a Techno and House artist with 4 upcoming club dates listed on soundcheck as of Thu, 30 Jul 2026, next at TILLATEC, Amsterdam on Fri, 31 Jul 2026.
 
-angelboy is a techno and house artist tracked on soundcheck, with 107 sets logged across Amsterdam, Barcelona, Berlin and Cologne and 11 more. Often billed alongside Slimfit, DIORA and Lola Edo. Next up: TILLATEC, Amsterdam on Fri 31 Jul.
+angelboy is a techno and house artist tracked on soundcheck, with 108 sets logged across Amsterdam, Barcelona, Berlin and Cologne and 11 more. Often billed alongside Slimfit, DIORA and Lola Edo. Next up: TILLATEC, Amsterdam on Fri 31 Jul.
 
 ## Upcoming shows
 
@@ -11,6 +11,7 @@ angelboy is a techno and house artist tracked on soundcheck, with 107 sets logge
 | Fri, 31 Jul 2026 | TILLATEC | Amsterdam |
 | Sat, 8 Aug 2026 | Parallel | Amsterdam |
 | Fri, 21 Aug 2026 | TILLATEC | Amsterdam |
+| Fri, 28 Aug 2026 | nachbar | Amsterdam |
 
 ## Recently played
 

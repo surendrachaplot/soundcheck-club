@@ -1,13 +1,14 @@
 # Esbirra Ibiza
 
-Esbirra Ibiza is a music venue in Ibiza with 5 upcoming nights listed on soundcheck as of Thu, 30 Jul 2026; the next is "TIMEMACHINE presents Los Suruba — 7-Hour Vinyl Set" on Sat, 1 Aug 2026.
+Esbirra Ibiza is a music venue in Ibiza with 6 upcoming nights listed on soundcheck as of Thu, 30 Jul 2026; the next is "RAW STATE" on Fri, 31 Jul 2026.
 
-Esbirra Ibiza is a music venue in Ibiza listed on soundcheck. 5 upcoming nights, with line-ups including Chelu Garcia, Francesco Mami, John Acquaviva and Los Suruba and 2 more. Browse upcoming dates, start times and who's playing. Avinguda Punta Arabí, 228, 07849 es Canar, Illes Balears.
+Esbirra Ibiza is a music venue in Ibiza listed on soundcheck. 6 upcoming nights, with line-ups including Chelu Garcia, Francesco Mami, John Acquaviva and Los Suruba and 2 more. Browse upcoming dates, start times and who's playing. Avinguda Punta Arabí, 228, 07849 es Canar, Illes Balears.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
+| Fri, 31 Jul 2026 | RAW STATE |  |
 | Sat, 1 Aug 2026 | TIMEMACHINE presents Los Suruba — 7-Hour Vinyl Set | Los Suruba |
 | Sat, 8 Aug 2026 | TIMEmACHINE presents Timo Maas & Francesco Mami | Francesco Mami, Timo Maas |
 | Sat, 15 Aug 2026 | TIMEmACHINE presents Luna City Express & Nima Gorji | Luna City Express, Nima Gorji |

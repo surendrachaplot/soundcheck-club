@@ -1,13 +1,14 @@
 # Hekt
 
-Hekt is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Thu, 30 Jul 2026, next at RSO.BERLIN, Berlin on Sat, 8 Aug 2026.
+Hekt is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Thu, 30 Jul 2026, next at Poolen, Copenhagen on Thu, 30 Jul 2026.
 
-Hekt is a house and techno artist based in Denmark, tracked on soundcheck, with 14 sets logged across Barcelona, Berlin, Copenhagen and Glasgow and 1 more. Often billed alongside Blawan, Ingrate and DJ Pipe. Next up: RSO.BERLIN, Berlin on Sat 8 Aug.
+Hekt is a house and techno artist based in Denmark, tracked on soundcheck, with 15 sets logged across Barcelona, Berlin, Copenhagen and Glasgow and 1 more. Often billed alongside Ingrate, Blawan and DJ Pipe. Next up: Poolen, Copenhagen on Thu 30 Jul.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Thu, 30 Jul 2026 | Poolen | Copenhagen |
 | Sat, 8 Aug 2026 | RSO.BERLIN | Berlin |
 | Sat, 8 Aug 2026 | RSO.BERLIN | Berlin |
 
@@ -24,6 +25,6 @@ Hekt is a house and techno artist based in Denmark, tracked on soundcheck, with 
 
 ## Shares bills with
 
-Blawan, Ingrate, DJ Pipe
+Ingrate, Blawan, DJ Pipe
 
 *Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/hekt/)*

@@ -1,13 +1,14 @@
 # JEWELSSEA
 
-JEWELSSEA is a Club and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at Fort Mifflin, Philadelphia on Fri, 18 Sept 2026.
+JEWELSSEA is a Club and Techno artist with 2 upcoming club dates listed on soundcheck as of Thu, 30 Jul 2026, next at Bastet, Philadelphia on Sat, 15 Aug 2026.
 
-JEWELSSEA is a club and techno artist based in United States of America, tracked on soundcheck, with 114 sets logged across Losangeles, Mexicocity, Miami and Newyorkcity and 3 more. Often billed alongside low iron, Phreakwency and SHUGAZI. Next up: Fort Mifflin, Philadelphia on Fri 18 Sept.
+JEWELSSEA is a club and techno artist based in United States of America, tracked on soundcheck, with 115 sets logged across Losangeles, Mexicocity, Miami and Newyorkcity and 3 more. Often billed alongside low iron, Phreakwency and SHUGAZI. Next up: Bastet, Philadelphia on Sat 15 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 15 Aug 2026 | Bastet | Philadelphia |
 | Fri, 18 Sept 2026 | Fort Mifflin | Philadelphia |
 
 ## Recently played

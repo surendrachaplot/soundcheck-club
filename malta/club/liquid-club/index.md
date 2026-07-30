@@ -13,7 +13,7 @@ Liquid Club is a music venue in Malta listed on soundcheck. 21 upcoming nights, 
 | Sun, 2 Aug 2026 | Lil Texas // BASSTEK | ALMOST HUMAN, Billy Hills, Lil Texas |
 | Fri, 7 Aug 2026 | VAMPA SUMMONS: N00M1 - Liquid Club MALTA | Billy Hills, N00M1, Naomi Baldacchino |
 | Sat, 8 Aug 2026 | Kore Hypnotica - CHAPTER THREE - Tina, Chouhal, Sofried |  |
-| Tue, 11 Aug 2026 | MÖKINA x Trance Italy (MALTA) | CHVZ, DOCTOR MÜCKE, EDJM, FØBIA, MAMO (2), THIBO VERKEBE |
+| Tue, 11 Aug 2026 | MÖKINA x Trance Italy (MALTA) | CHVZ, DOCTOR MÜCKE, EDJM, FØBIA, MAMO (2), Thibo Verbeke |
 | Sun, 16 Aug 2026 | BLITZ - OBLX BDAY BASH 2026 | FIASKA, Joshua Calleja, NOOG, OBLX, iNK MT |
 | Fri, 21 Aug 2026 | BRAVE at Liquid - TBC |  |
 | Fri, 21 Aug 2026 | HARD NIGHT IN MALTA |  |

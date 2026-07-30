@@ -1,6 +1,6 @@
 # RRC presents -DRIFT- at Grub Records
 
-RRC presents -DRIFT- at Grub Records on Sat 15 Aug, Sheffield. Acid and Disco. Preview the line-up and save it on soundcheck.
+RRC presents -DRIFT- at Grub Records on Sat 15 Aug, Sheffield. Disco and Acid. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

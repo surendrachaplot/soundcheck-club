@@ -1,13 +1,14 @@
 # Luisa
 
-Luisa is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Thu, 30 Jul 2026, next at Barragem da Queimadela, Porto on Thu, 10 Sept 2026.
+Luisa is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Thu, 30 Jul 2026, next at Rūmu, Lisbon on Fri, 31 Jul 2026.
 
-Luisa is a techno and house artist tracked on soundcheck, with 102 sets logged across Amsterdam, Antwerp, Barcelona and Berlin and 11 more. Often billed alongside Solid-Funk, Worm Class and Cruz (PT). Next up: Barragem da Queimadela, Porto on Thu 10 Sept.
+Luisa is a techno and house artist tracked on soundcheck, with 103 sets logged across Amsterdam, Antwerp, Barcelona and Berlin and 11 more. Often billed alongside Solid-Funk, Worm Class and Cruz (PT). Next up: Rūmu, Lisbon on Fri 31 Jul.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 31 Jul 2026 | Rūmu | Lisbon |
 | Thu, 10 Sept 2026 | Barragem da Queimadela | Porto |
 | Sat, 10 Oct 2026 | Cadavra | Madrid |
 

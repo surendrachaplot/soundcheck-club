@@ -2,13 +2,13 @@
 
 Leith Social Club is a music venue in Edinburgh with 1 upcoming night listed on soundcheck as of Thu, 30 Jul 2026; the next is "WOE is us - Festival Day Party" on Sat, 29 Aug 2026.
 
-Leith Social Club is a music venue in Edinburgh listed on soundcheck. 1 upcoming night, with line-ups including DJ LG. Browse upcoming dates, start times and who's playing. 39 Great Jct St, Edinburgh EH6 5HX, United.
+Leith Social Club is a music venue in Edinburgh listed on soundcheck. 1 upcoming night, with line-ups including DJ LG and WOE is us. Browse upcoming dates, start times and who's playing. 39 Great Jct St, Edinburgh EH6 5HX, United.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Sat, 29 Aug 2026 | WOE is us - Festival Day Party | DJ LG |
+| Sat, 29 Aug 2026 | WOE is us - Festival Day Party | DJ LG, WOE is us |
 
 ## Address
 

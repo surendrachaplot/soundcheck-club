@@ -1,13 +1,14 @@
 # SKALA
 
-SKALA is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Thu, 30 Jul 2026, next at UNO MALTA, Malta on Thu, 3 Sept 2026.
+SKALA is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Thu, 30 Jul 2026, next at Zürich - Various Venues, Zurich on Mon, 3 Aug 2026.
 
-SKALA is a techno and house artist tracked on soundcheck, with 86 sets logged across Amsterdam, Athens, Barcelona and Berlin and 19 more. Often billed alongside Theologos, ELIF and Mila Stern. Next up: UNO MALTA, Malta on Thu 3 Sept.
+SKALA is a techno and house artist tracked on soundcheck, with 87 sets logged across Amsterdam, Athens, Barcelona and Berlin and 19 more. Often billed alongside Theologos, ELIF and Mila Stern. Next up: Zürich - Various Venues, Zurich on Mon 3 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Mon, 3 Aug 2026 | Zürich - Various Venues | Zurich |
 | Thu, 3 Sept 2026 | UNO MALTA | Malta |
 | Sat, 12 Sept 2026 | The Cause | London |
 

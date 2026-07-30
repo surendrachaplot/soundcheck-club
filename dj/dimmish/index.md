@@ -1,14 +1,15 @@
 # Dimmish
 
-Dimmish is a Tech House and House artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at UNO MALTA, Malta on Sat, 8 Aug 2026.
+Dimmish is a Tech House and House artist with 2 upcoming club dates listed on soundcheck as of Thu, 30 Jul 2026, next at UNO MALTA, Malta on Sat, 8 Aug 2026.
 
-Dimmish is a tech house and house artist tracked on soundcheck, with 75 sets logged across Amsterdam, Barcelona, Buenosaires and Chicago and 19 more. Often billed alongside ACA (YU), Stefano Noferini and ALISHA. Next up: UNO MALTA, Malta on Sat 8 Aug.
+Dimmish is a tech house and house artist tracked on soundcheck, with 76 sets logged across Amsterdam, Barcelona, Buenosaires and Chicago and 19 more. Often billed alongside ACA (YU), Stefano Noferini and ALISHA. Next up: UNO MALTA, Malta on Sat 8 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 8 Aug 2026 | UNO MALTA | Malta |
+| Sun, 27 Sept 2026 | Cova Santa | Ibiza |
 
 ## Recently played
 

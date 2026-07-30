@@ -1,14 +1,15 @@
 # YU-S-KE
 
-YU-S-KE is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at Secret Venue in Minatoku-Nishiazabu, Tokyo on Sat, 1 Aug 2026.
+YU-S-KE is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Thu, 30 Jul 2026, next at Secret Venue in Minatoku-Nishiazabu, Tokyo on Sat, 1 Aug 2026.
 
-YU-S-KE is a techno and house artist tracked on soundcheck, with 56 sets logged across Tokyo. Often billed alongside Q'hey, Takami and ni-21. Next up: Secret Venue in Minatoku-Nishiazabu, Tokyo on Sat 1 Aug.
+YU-S-KE is a techno and house artist tracked on soundcheck, with 57 sets logged across Tokyo. Often billed alongside BEPPU, Q'hey and Takami. Next up: Secret Venue in Minatoku-Nishiazabu, Tokyo on Sat 1 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 1 Aug 2026 | Secret Venue in Minatoku-Nishiazabu | Tokyo |
+| Sun, 9 Aug 2026 | DeTour | Tokyo |
 
 ## Recently played
 
@@ -23,6 +24,6 @@ YU-S-KE is a techno and house artist tracked on soundcheck, with 56 sets logged 
 
 ## Shares bills with
 
-Q'hey, Takami, ni-21
+BEPPU, Q'hey, Takami
 
 *Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/yu-s-ke/)*

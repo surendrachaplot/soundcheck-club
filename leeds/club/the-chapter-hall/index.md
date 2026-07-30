@@ -2,14 +2,14 @@
 
 The Chapter Hall is a music venue in Leeds with 2 upcoming nights listed on soundcheck as of Thu, 30 Jul 2026; the next is "Summer soirée" on Sat, 22 Aug 2026.
 
-The Chapter Hall is a music venue in Leeds listed on soundcheck. 2 upcoming nights. Browse upcoming dates, start times and who's playing. Marshalls Mill, Northern Monk Refectory and Garden LDS, Marshall St, Leeds LS11 9YJ.
+The Chapter Hall is a music venue in Leeds listed on soundcheck. 2 upcoming nights, with line-ups including Jordan Walker, Luke Foulkes and The Darrs. Browse upcoming dates, start times and who's playing. Marshalls Mill, Northern Monk Refectory and Garden LDS, Marshall St, Leeds LS11 9YJ.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
 | Sat, 22 Aug 2026 | Summer soirée |  |
-| Sat, 22 Aug 2026 | Peppermint Records Summer soirée After Party w/TBA |  |
+| Sat, 22 Aug 2026 | Peppermint Records Summer soirée After Party w/The Darrs | Jordan Walker, Luke Foulkes, The Darrs |
 
 ## Address
 

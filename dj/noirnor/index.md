@@ -1,13 +1,14 @@
 # Noirnor
 
-Noirnor is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Thu, 30 Jul 2026, next at ://about blank, Berlin on Sat, 8 Aug 2026.
+Noirnor is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Thu, 30 Jul 2026, next at Ikii, Berlin on Tue, 4 Aug 2026.
 
-Noirnor is a techno and house artist based in Ukraine, tracked on soundcheck, with 39 sets logged across Berlin and London. Often billed alongside Frozilla, Stanislav Tolkachev and Travis or Alice. Next up: ://about blank, Berlin on Sat 8 Aug.
+Noirnor is a techno and house artist based in Ukraine, tracked on soundcheck, with 40 sets logged across Berlin and London. Often billed alongside Frozilla, Stanislav Tolkachev and Travis or Alice. Next up: Ikii, Berlin on Tue 4 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Tue, 4 Aug 2026 | Ikii | Berlin |
 | Sat, 8 Aug 2026 | ://about blank | Berlin |
 | Sat, 22 Aug 2026 | ://about blank | Berlin |
 

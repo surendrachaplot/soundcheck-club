@@ -1,14 +1,15 @@
 # DJ Love UK
 
-DJ Love UK is a Techno and Garage artist with 2 upcoming club dates listed on soundcheck as of Thu, 30 Jul 2026, next at radial, London on Sat, 8 Aug 2026.
+DJ Love UK is a Techno and Garage artist with 3 upcoming club dates listed on soundcheck as of Thu, 30 Jul 2026, next at radial, London on Sat, 8 Aug 2026.
 
-DJ Love UK is a techno and garage artist tracked on soundcheck, with 47 sets logged across Amsterdam, Belfast, Berlin and Bristol and 9 more. Often billed alongside Dusty Dan, Gemi (UK) and THELMA. Next up: radial, London on Sat 8 Aug.
+DJ Love UK is a techno and garage artist tracked on soundcheck, with 48 sets logged across Amsterdam, Belfast, Berlin and Bristol and 9 more. Often billed alongside Dusty Dan, Gemi (UK) and THELMA. Next up: radial, London on Sat 8 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 8 Aug 2026 | radial | London |
+| Fri, 14 Aug 2026 | Unit 58 | London |
 | Thu, 20 Aug 2026 | Night Tales | London |
 
 ## Recently played

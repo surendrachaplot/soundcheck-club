@@ -1,14 +1,15 @@
 # Stereociti
 
-Stereociti is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at Klunkerkranich, Berlin on Thu, 30 Jul 2026.
+Stereociti is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Thu, 30 Jul 2026, next at Klunkerkranich, Berlin on Thu, 30 Jul 2026.
 
-Stereociti is a house and techno artist based in Japan, tracked on soundcheck, with 10 sets logged across Berlin, Kyoto, Lisbon and Osaka and 1 more. Often billed alongside Akatana, 3LIAS and 95 STEPS. Next up: Klunkerkranich, Berlin on Thu 30 Jul.
+Stereociti is a house and techno artist based in Japan, tracked on soundcheck, with 11 sets logged across Berlin, Kyoto, Lisbon and Osaka and 1 more. Often billed alongside Akatana, 3LIAS and 95 STEPS. Next up: Klunkerkranich, Berlin on Thu 30 Jul.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Thu, 30 Jul 2026 | Klunkerkranich | Berlin |
+| Fri, 11 Sept 2026 | Club der Visionaere | Berlin |
 
 ## Recently played
 

@@ -1,10 +1,10 @@
 # Shjva all night long at Mastak
 
-Shjva all night long at Mastak on Sat 1 Aug, Warsaw. 1 act on the bill: Shjva. Preview the line-up and save it on soundcheck.
+Shjva all night long at Mastak on Fri 21 Aug, Warsaw. 1 act on the bill: Shjva. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
-| Date | Sat, 1 Aug 2026 |
+| Date | Fri, 21 Aug 2026 |
 | Venue | Mastak |
 | City | Warsaw |
 

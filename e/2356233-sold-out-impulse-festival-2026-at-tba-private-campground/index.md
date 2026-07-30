@@ -1,6 +1,6 @@
 # SOLD OUT - Impulse Festival 2026 at TBA - Private Campground
 
-SOLD OUT - Impulse Festival 2026 at TBA - Private Campground on Fri 21 Aug, Seattle. 18 acts on the bill: ACHAMA, alexia.f, BAD JUUJU and CHKLTE and 14 more. Techno and House. Preview the line-up and save it on soundcheck.
+SOLD OUT - Impulse Festival 2026 at TBA - Private Campground on Fri 21 Aug, Seattle. 20 acts on the bill: ACHAMA, Alessandro Carrabba, alexia.f and BAD JUUJU and 16 more. Techno and House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -11,6 +11,7 @@ SOLD OUT - Impulse Festival 2026 at TBA - Private Campground on Fri 21 Aug, Seat
 ## Line-up
 
 - ACHAMA
+- Alessandro Carrabba
 - alexia.f
 - BAD JUUJU
 - CHKLTE
@@ -18,6 +19,7 @@ SOLD OUT - Impulse Festival 2026 at TBA - Private Campground on Fri 21 Aug, Seat
 - CYBER1A
 - Freddy M
 - Jason Code
+- JENN GREEN
 - KJ3 (US)
 - N SO
 - Nick Carroll

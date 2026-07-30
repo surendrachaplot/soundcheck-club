@@ -15,6 +15,6 @@ MÖKINA x Trance Italy (MALTA) at Liquid Club on Tue 11 Aug, Malta. 6 acts on th
 - EDJM
 - FØBIA
 - MAMO (2)
-- THIBO VERKEBE
+- Thibo Verbeke
 
 *Source: [soundcheck](https://soundcheck.club/e/2369178-m-kina-x-trance-italy-malta-at-liquid-club/)*

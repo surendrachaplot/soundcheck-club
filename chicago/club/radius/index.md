@@ -1,14 +1,15 @@
 # Radius
 
-Radius is a music venue in Chicago with 19 upcoming nights listed on soundcheck as of Thu, 30 Jul 2026; the next is "Lollapalooza After: boost+++ at Cermak Hall" on Thu, 30 Jul 2026.
+Radius is a music venue in Chicago with 20 upcoming nights listed on soundcheck as of Thu, 30 Jul 2026; the next is "Lollapalooza After: boost+++ at Cermak Hall" on Thu, 30 Jul 2026.
 
-Radius is a music venue in Chicago listed on soundcheck. 19 upcoming nights, with line-ups including 1tbsp, Afrojack, AMAYAH and Cesco and 2 more. Browse upcoming dates, start times and who's playing. 640 West Cermak Road Chicago, Illinois 60616, USA.
+Radius is a music venue in Chicago listed on soundcheck. 20 upcoming nights, with line-ups including 1tbsp, Afrojack, AMAYAH and Cesco and 2 more. Browse upcoming dates, start times and who's playing. 640 West Cermak Road Chicago, Illinois 60616, USA.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
 | Thu, 30 Jul 2026 | Lollapalooza After: boost+++ at Cermak Hall | 1tbsp, DJ Planet Express, David Löhlein, HOTPRETTY |
+| Thu, 30 Jul 2026 | Lollapalooza After: John Summit at Radius | John Summit |
 | Fri, 31 Jul 2026 | Lollapalooza After: horsegiirL | horsegiirL |
 | Fri, 31 Jul 2026 | Lollapalooza After: DJ Trixie Mattel at Cermak Hall |  |
 | Sat, 1 Aug 2026 | Lollapalooza After: Max Styler | Max Styler |
@@ -17,7 +18,6 @@ Radius is a music venue in Chicago listed on soundcheck. 19 upcoming nights, wit
 | Sat, 15 Aug 2026 | Ranger Trucco presents range | Ranger Trucco |
 | Sun, 16 Aug 2026 | ChaseWest presents chaste | ChaseWest |
 | Sat, 12 Sept 2026 | oskar med k | oskar med k |
-| Sat, 12 Sept 2026 | UNREAL NA TOUR: CHICAGO | AMAYAH, Johannes Schuster, KUKO, Kobosil, Winson |
 
 ## Address
 

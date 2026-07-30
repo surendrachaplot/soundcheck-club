@@ -1,6 +1,6 @@
 # MELT: Andrey Pushkarev, Taimur, Dvvid at TBA - Downtown LA
 
-MELT: Andrey Pushkarev, Taimur, Dvvid at TBA - Downtown LA on Sat 15 Aug, Losangeles. 2 acts on the bill: Andrey Pushkarev and Taimur. Techno and Deep House. Preview the line-up and save it on soundcheck.
+MELT: Andrey Pushkarev, Taimur, Dvvid at TBA - Downtown LA on Sat 15 Aug, Losangeles. 3 acts on the bill: Andrey Pushkarev, DVViD and Taimur. Techno and Deep House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -11,6 +11,7 @@ MELT: Andrey Pushkarev, Taimur, Dvvid at TBA - Downtown LA on Sat 15 Aug, Losang
 ## Line-up
 
 - Andrey Pushkarev
+- DVViD
 - Taimur
 
 *Source: [soundcheck](https://soundcheck.club/e/2490595-melt-andrey-pushkarev-taimur-dvvid-at-tba-downtown-la/)*

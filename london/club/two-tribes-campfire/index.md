@@ -13,7 +13,7 @@ Two Tribes CAMPFIRE is a music venue in London listed on soundcheck. 7 upcoming 
 | Sat, 8 Aug 2026 | Midnight Runner presents: Summer In The City with Heléna Star, JAXX TMS, Selassie TBC & more | Heléna Star, JAXX TMS, Kanem, Mr. Redley, P-Lucas, Selassie TBC |
 | Sat, 15 Aug 2026 | Persimmon Sound: Day to Night Party II | Gus de Silva, Martini, Wan Tu |
 | Fri, 21 Aug 2026 | Mission Control: B2B (Birthday 2 Birthday) | Ardishko, DATTA, Joe Tyler, Mary X, Sleepy Jean, babydj, nicky brown snout |
-| Fri, 4 Sept 2026 | PURR: House, Tech House, Techno, Electro, Funky (by Ragdoll Rhythms) | Sands Spheric |
+| Fri, 4 Sept 2026 | PURR: House, Bass, Techno, Electro, Funky (by Ragdoll Rhythms) | Sands Spheric, Tees |
 | Sat, 5 Sept 2026 | Point Blank Radio's End of Summer Jam | Braaks |
 
 ## Address

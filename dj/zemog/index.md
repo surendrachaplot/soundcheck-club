@@ -1,14 +1,15 @@
 # Zemög
 
-Zemög is a Techno and Dub Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at Berghain | Panorama Bar | Säule, Berlin on Thu, 30 Jul 2026.
+Zemög is a Techno and Electronica artist with 2 upcoming club dates listed on soundcheck as of Thu, 30 Jul 2026, next at Berghain | Panorama Bar | Säule, Berlin on Thu, 30 Jul 2026.
 
-Zemög is a techno and dub techno artist based in Colombia, tracked on soundcheck, with 12 sets logged across Amsterdam, Berlin, Buenosaires and Madrid and 6 more. Often billed alongside Inger, SUZAN (2) and AllA. Next up: Berghain | Panorama Bar | Säule, Berlin on Thu 30 Jul.
+Zemög is a techno and electronica artist based in Colombia, tracked on soundcheck, with 13 sets logged across Amsterdam, Berlin, Buenosaires and Madrid and 6 more. Often billed alongside Inger, SUZAN (2) and AllA. Next up: Berghain | Panorama Bar | Säule, Berlin on Thu 30 Jul.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Thu, 30 Jul 2026 | Berghain / Panorama Bar / Säule | Berlin |
+| Sat, 22 Aug 2026 | Gare Porto | Porto |
 
 ## Recently played
 

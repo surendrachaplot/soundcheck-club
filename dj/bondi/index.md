@@ -1,13 +1,14 @@
 # Bondi (DE)
 
-Bondi (DE) is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at Zürich - Various Venues, Zurich on Mon, 3 Aug 2026.
+Bondi (DE) is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Thu, 30 Jul 2026, next at Zürich - Various Venues, Zurich on Mon, 3 Aug 2026.
 
-Bondi (DE) is a house and techno artist based in Germany, tracked on soundcheck, with 32 sets logged across Berlin, Ibiza, Istanbul and Mexicocity and 7 more. Often billed alongside Nikklaas, SKALA and Anna Schreit. Next up: Zürich - Various Venues, Zurich on Mon 3 Aug.
+Bondi (DE) is a house and techno artist based in Germany, tracked on soundcheck, with 33 sets logged across Berlin, Ibiza, Istanbul and Mexicocity and 7 more. Often billed alongside SKALA, Nikklaas and Anna Schreit. Next up: Zürich - Various Venues, Zurich on Mon 3 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Mon, 3 Aug 2026 | Zürich - Various Venues | Zurich |
 | Mon, 3 Aug 2026 | Zürich - Various Venues | Zurich |
 
 ## Recently played
@@ -23,6 +24,6 @@ Bondi (DE) is a house and techno artist based in Germany, tracked on soundcheck,
 
 ## Shares bills with
 
-Nikklaas, SKALA, Anna Schreit
+SKALA, Nikklaas, Anna Schreit
 
 *Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/bondi/)*

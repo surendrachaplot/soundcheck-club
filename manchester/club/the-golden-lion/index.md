@@ -1,8 +1,8 @@
 # The Golden Lion
 
-The Golden Lion is a music venue in Manchester with 6 upcoming nights listed on soundcheck as of Thu, 30 Jul 2026; the next is ".aiff Open Mic: July Edition" on Thu, 30 Jul 2026.
+The Golden Lion is a music venue in Manchester with 7 upcoming nights listed on soundcheck as of Thu, 30 Jul 2026; the next is ".aiff Open Mic: July Edition" on Thu, 30 Jul 2026.
 
-The Golden Lion is a music venue in Manchester listed on soundcheck. 6 upcoming nights, with line-ups including Ana K Miller, Goldie, Henzo and Iration Steppas and 2 more. Browse upcoming dates, start times and who's playing. Fielden Square, Todmorden, OL14 6LZ, United Kingdom.
+The Golden Lion is a music venue in Manchester listed on soundcheck. 7 upcoming nights, with line-ups including Ana K Miller, Goldie, Henzo and Iration Steppas and 2 more. Browse upcoming dates, start times and who's playing. Fielden Square, Todmorden, OL14 6LZ, United Kingdom.
 
 ## What's on
 
@@ -13,6 +13,7 @@ The Golden Lion is a music venue in Manchester listed on soundcheck. 6 upcoming 
 | Sat, 1 Aug 2026 | BLADED ARTICLE | Henzo, RenzNiro, Ship Sket |
 | Sun, 23 Aug 2026 |  Metalheadz presents Blue Note Sessions With Goldie | Goldie |
 | Sat, 5 Sept 2026 | Space Ritual with Jamie Paton, Ana K Miller & Slacky | Ana K Miller, Jamie Paton, Slacky [Space Ritual] |
+| Fri, 18 Sept 2026 | Dance Therapy with DJs Mark Turner and Karl Roscoe | Mark Turner |
 | Fri, 9 Oct 2026 | SUBDUB - Iration Steppas Sound System, Simon Scott & guests  | Iration Steppas, Simon Scott |
 
 ## Address

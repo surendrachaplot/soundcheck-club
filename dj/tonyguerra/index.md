@@ -1,14 +1,15 @@
 # Tony Guerra
 
-Tony Guerra is a Tech House and House artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at Fabrik, Madrid on Sat, 5 Sept 2026.
+Tony Guerra is a Tech House and House artist with 2 upcoming club dates listed on soundcheck as of Thu, 30 Jul 2026, next at Fabrik, Madrid on Sat, 5 Sept 2026.
 
-Tony Guerra is a tech house and house artist tracked on soundcheck, with 43 sets logged across Amsterdam, Austin, Barcelona and Boston and 8 more. Often billed alongside Mason Collective, CESAR ALMENA and Karretero. Next up: Fabrik, Madrid on Sat 5 Sept.
+Tony Guerra is a tech house and house artist tracked on soundcheck, with 44 sets logged across Amsterdam, Austin, Barcelona and Boston and 8 more. Often billed alongside Mason Collective, CESAR ALMENA and Karretero. Next up: Fabrik, Madrid on Sat 5 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 5 Sept 2026 | Fabrik | Madrid |
+| Sun, 27 Sept 2026 | Cova Santa | Ibiza |
 
 ## Recently played
 

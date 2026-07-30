@@ -12,7 +12,7 @@ AUX Club is a music venue in Athens listed on soundcheck. 5 upcoming nights, wit
 | Fri, 25 Sept 2026 | null |  |
 | Sat, 26 Sept 2026 | VLCT x SIGNAL w/ SPFDJ & KTK at aux: club | KTK (DE), SALIN, SPFDJ |
 | Fri, 2 Oct 2026 | aux: velocity opening with Speedy J | Até., Cirkle, Speedy J |
-| Tue, 27 Oct 2026 | VLCT ZERO x SIGNAL w/ Function, Philippa Pacho, BLANKA | BLANKA, Cirkle, Danya (DE), Function, Phil Berg, Philippa Pacho, Toobris |
+| Tue, 27 Oct 2026 | VLCT ZERO x SIGNAL 12 HOURS w/ Function, Philippa Pacho, BLANKA | BLANKA, Cirkle, Danya (DE), Function, Phil Berg, Philippa Pacho, Toobris |
 
 ## Address
 

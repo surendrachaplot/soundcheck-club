@@ -1,8 +1,8 @@
 # Jasna 1
 
-Jasna 1 is a music venue in Warsaw with 14 upcoming nights listed on soundcheck as of Thu, 30 Jul 2026; the next is "JASNA 4 ALL OPEN DECKS" on Thu, 30 Jul 2026.
+Jasna 1 is a music venue in Warsaw with 15 upcoming nights listed on soundcheck as of Thu, 30 Jul 2026; the next is "JASNA 4 ALL OPEN DECKS" on Thu, 30 Jul 2026.
 
-Jasna 1 is a music venue in Warsaw listed on soundcheck. 14 upcoming nights, with line-ups including 2K88, Abuelita, Adelina and Badalian and 2 more. Browse upcoming dates, start times and who's playing. Jasna 1, 00-013 Warszawa.
+Jasna 1 is a music venue in Warsaw listed on soundcheck. 15 upcoming nights, with line-ups including 2K88, Abuelita, Adelina and Badalian and 2 more. Browse upcoming dates, start times and who's playing. Jasna 1, 00-013 Warszawa.
 
 ## What's on
 

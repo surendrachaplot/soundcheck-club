@@ -1,8 +1,8 @@
 # RXVEGRL
 
-RXVEGRL is a Garage and Techno artist with 2 upcoming club dates listed on soundcheck as of Thu, 30 Jul 2026, next at TBA - To be given to ticket holders prior to the event., Glasgow on Fri, 7 Aug 2026.
+RXVEGRL is a Electronica and Garage artist with 2 upcoming club dates listed on soundcheck as of Thu, 30 Jul 2026, next at TBA - To be given to ticket holders prior to the event., Glasgow on Fri, 7 Aug 2026.
 
-RXVEGRL is a garage and techno artist based in United Kingdom, tracked on soundcheck, with 4 sets logged across Glasgow. Often billed alongside 4KitSake, Angel Cake and Swedger. Next up: TBA - To be given to ticket holders prior to the event., Glasgow on Fri 7 Aug.
+RXVEGRL is an electronica and garage artist based in United Kingdom, tracked on soundcheck, with 4 sets logged across Glasgow. Often billed alongside 4KitSake, Angel Cake and Kinz Luiz. Next up: TBA - To be given to ticket holders prior to the event., Glasgow on Fri 7 Aug.
 
 ## Upcoming shows
 
@@ -18,6 +18,6 @@ RXVEGRL is a garage and techno artist based in United Kingdom, tracked on soundc
 
 ## Shares bills with
 
-4KitSake, Angel Cake, Swedger
+4KitSake, Angel Cake, Kinz Luiz
 
 *Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/rxvegrl/)*

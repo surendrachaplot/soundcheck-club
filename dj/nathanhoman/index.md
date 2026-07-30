@@ -1,13 +1,14 @@
 # Nathan Homan
 
-Nathan Homan is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Thu, 30 Jul 2026, next at Shelter Amsterdam, Amsterdam on Sat, 19 Sept 2026.
+Nathan Homan is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Thu, 30 Jul 2026, next at nachbar, Amsterdam on Fri, 21 Aug 2026.
 
-Nathan Homan is a house and techno artist tracked on soundcheck, with 44 sets logged across Amsterdam, Paris, Rotterdam and Thehague. Often billed alongside Tsepo, Merel Helderman and Andy (NL). Next up: Shelter Amsterdam, Amsterdam on Sat 19 Sept.
+Nathan Homan is a house and techno artist tracked on soundcheck, with 45 sets logged across Amsterdam, Paris, Rotterdam and Thehague. Often billed alongside Tsepo, Merel Helderman and SOLIT. Next up: nachbar, Amsterdam on Fri 21 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 21 Aug 2026 | nachbar | Amsterdam |
 | Sat, 19 Sept 2026 | Shelter Amsterdam | Amsterdam |
 | Sun, 25 Oct 2026 | Garage Noord | Amsterdam |
 
@@ -24,6 +25,6 @@ Nathan Homan is a house and techno artist tracked on soundcheck, with 44 sets lo
 
 ## Shares bills with
 
-Tsepo, Merel Helderman, Andy (NL)
+Tsepo, Merel Helderman, SOLIT
 
 *Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/nathanhoman/)*

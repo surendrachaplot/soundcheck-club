@@ -1,8 +1,8 @@
 # DJ Tennis
 
-DJ Tennis is a House and Techno artist with 9 upcoming club dates listed on soundcheck as of Thu, 30 Jul 2026, next at Hangaren, Copenhagen on Sat, 1 Aug 2026.
+DJ Tennis is a House and Techno artist with 10 upcoming club dates listed on soundcheck as of Thu, 30 Jul 2026, next at Hangaren, Copenhagen on Sat, 1 Aug 2026.
 
-DJ Tennis is a house and techno artist tracked on soundcheck, with 291 sets logged across Amsterdam, Antwerp, Austin and Bali and 54 more. Often billed alongside Carlita, Seth Troxler and Chloé Caillet. Next up: Hangaren, Copenhagen on Sat 1 Aug.
+DJ Tennis is a house and techno artist tracked on soundcheck, with 292 sets logged across Amsterdam, Antwerp, Austin and Bali and 54 more. Often billed alongside Carlita, Seth Troxler and Chloé Caillet. Next up: Hangaren, Copenhagen on Sat 1 Aug.
 
 ## Upcoming shows
 
@@ -16,6 +16,7 @@ DJ Tennis is a house and techno artist tracked on soundcheck, with 291 sets logg
 | Sat, 19 Sept 2026 | Gin Ling Way, Chinatown | Los Angeles |
 | Fri, 9 Oct 2026 | FOLD | London |
 | Wed, 21 Oct 2026 | A'DAM Toren | Amsterdam |
+| Sat, 24 Oct 2026 | Thuishaven | Amsterdam |
 | Sat, 24 Oct 2026 | Shelter Amsterdam | Amsterdam |
 
 ## Recently played

@@ -1,8 +1,8 @@
 # Nene H
 
-Nene H is a Techno and House artist with 5 upcoming club dates listed on soundcheck as of Thu, 30 Jul 2026, next at Kilomètre25, Paris on Fri, 31 Jul 2026.
+Nene H is a Techno and House artist with 6 upcoming club dates listed on soundcheck as of Thu, 30 Jul 2026, next at Kilomètre25, Paris on Fri, 31 Jul 2026.
 
-Nene H is a techno and house artist tracked on soundcheck, with 199 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 46 more. Often billed alongside Hyperaktivist, Mama Snake and Mary Lake. Next up: Kilomètre25, Paris on Fri 31 Jul.
+Nene H is a techno and house artist tracked on soundcheck, with 200 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 46 more. Often billed alongside Hyperaktivist, Mama Snake and Mary Lake. Next up: Kilomètre25, Paris on Fri 31 Jul.
 
 ## Upcoming shows
 
@@ -12,6 +12,7 @@ Nene H is a techno and house artist tracked on soundcheck, with 199 sets logged 
 | Sat, 1 Aug 2026 | Razzmatazz | Barcelona |
 | Thu, 6 Aug 2026 | Hamburger Bahnhof - Museum für Gegenwart | Berlin |
 | Sat, 8 Aug 2026 | TRAUM | Antwerp |
+| Sat, 22 Aug 2026 | export | Rotterdam |
 | Sat, 29 Aug 2026 | SMUT Athens | Athens |
 
 ## Recently played

@@ -1,8 +1,8 @@
 # Am Nil
 
-Am Nil is a Ambient and Experimental artist with 2 upcoming club dates listed on soundcheck as of Thu, 30 Jul 2026, next at Ikii, Berlin on Tue, 4 Aug 2026.
+Am Nil is a Ambient and Techno artist with 2 upcoming club dates listed on soundcheck as of Thu, 30 Jul 2026, next at Ikii, Berlin on Tue, 4 Aug 2026.
 
-Am Nil is an ambient and experimental artist based in Germany, tracked on soundcheck, with 14 sets logged across Amsterdam and Berlin. Often billed alongside APRS, Serenus and superamas. Next up: Ikii, Berlin on Tue 4 Aug.
+Am Nil is an ambient and techno artist based in Germany, tracked on soundcheck, with 14 sets logged across Amsterdam and Berlin. Often billed alongside APRS, Serenus and superamas. Next up: Ikii, Berlin on Tue 4 Aug.
 
 ## Upcoming shows
 

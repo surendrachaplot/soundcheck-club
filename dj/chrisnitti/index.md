@@ -1,13 +1,14 @@
 # Chris Nitti
 
-Chris Nitti is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at Flash, Washington DC on Sat, 15 Aug 2026.
+Chris Nitti is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Thu, 30 Jul 2026, next at La Fabrica, Washington DC on Fri, 7 Aug 2026.
 
-Chris Nitti is a house and techno artist based in United States of America, tracked on soundcheck, with 40 sets logged across Washingtondc. Often billed alongside Rich Thomas, DR MILLER and KayLaSoul. Next up: Flash, Washingtondc on Sat 15 Aug.
+Chris Nitti is a house and techno artist based in United States of America, tracked on soundcheck, with 41 sets logged across Washingtondc. Often billed alongside Rich Thomas, DR MILLER and KayLaSoul. Next up: La Fabrica, Washingtondc on Fri 7 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 7 Aug 2026 | La Fabrica | Washington DC |
 | Sat, 15 Aug 2026 | Flash | Washington DC |
 
 ## Recently played

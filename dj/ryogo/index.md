@@ -1,14 +1,15 @@
 # Ryogo
 
-Ryogo is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at Club Daphnia, Osaka on Sat, 8 Aug 2026.
+Ryogo is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Thu, 30 Jul 2026, next at Club Daphnia, Osaka on Sat, 8 Aug 2026.
 
-Ryogo is a techno and house artist tracked on soundcheck, with 148 sets logged across Hongkong, Kyoto, Osaka and Tokyo. Often billed alongside Vís (1), imazutsubasa and Naco (2). Next up: Club Daphnia, Osaka on Sat 8 Aug.
+Ryogo is a techno and house artist tracked on soundcheck, with 149 sets logged across Hongkong, Kyoto, Osaka and Tokyo. Often billed alongside Vís (1), imazutsubasa and Naco (2). Next up: Club Daphnia, Osaka on Sat 8 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 8 Aug 2026 | Club Daphnia | Osaka |
+| Fri, 21 Aug 2026 | West Harlem | Kyoto |
 
 ## Recently played
 

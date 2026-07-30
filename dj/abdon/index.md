@@ -1,14 +1,15 @@
 # Abdon
 
-Abdon is a Tech House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at Seaseaclub Barcelona, Barcelona on Sat, 1 Aug 2026.
+Abdon is a Tech House and Techno artist with 2 upcoming club dates listed on soundcheck as of Thu, 30 Jul 2026, next at Seaseaclub Barcelona, Barcelona on Sat, 1 Aug 2026.
 
-Abdon is a tech house and techno artist tracked on soundcheck, with 63 sets logged across Barcelona, Ibiza, Madrid and Mallorca and 1 more. Often billed alongside Pau Guilera, De La Swing and Vidaloca. Next up: Seaseaclub Barcelona, Barcelona on Sat 1 Aug.
+Abdon is a tech house and techno artist tracked on soundcheck, with 64 sets logged across Barcelona, Ibiza, Madrid and Mallorca and 1 more. Often billed alongside Pau Guilera, De La Swing and Vidaloca. Next up: Seaseaclub Barcelona, Barcelona on Sat 1 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 1 Aug 2026 | Seaseaclub Barcelona | Barcelona |
+| Sun, 27 Sept 2026 | Cova Santa | Ibiza |
 
 ## Recently played
 

@@ -1,13 +1,14 @@
 # Deceit
 
-Deceit is a Techno and Minimal artist with 2 upcoming club dates listed on soundcheck as of Thu, 30 Jul 2026, next at La Pinilla Ski Resort, Madrid on Mon, 10 Aug 2026.
+Deceit is a House and Electronica artist with 3 upcoming club dates listed on soundcheck as of Thu, 30 Jul 2026, next at El Internacional, Madrid on Sat, 1 Aug 2026.
 
-Deceit is a techno and minimal artist based in Spain, tracked on soundcheck, with 14 sets logged across Barcelona, Madrid and Rome. Often billed alongside Anso, Axis Mundi and Baldman. Next up: La Pinilla Ski Resort, Madrid on Mon 10 Aug.
+Deceit is a house and electronica artist based in Spain, tracked on soundcheck, with 15 sets logged across Barcelona, Madrid and Rome. Often billed alongside Anso, Axis Mundi and Baldman. Next up: El Internacional, Madrid on Sat 1 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 1 Aug 2026 | El Internacional | Madrid |
 | Mon, 10 Aug 2026 | La Pinilla Ski Resort | Madrid |
 | Fri, 25 Sept 2026 | Heave Festival | Madrid |
 

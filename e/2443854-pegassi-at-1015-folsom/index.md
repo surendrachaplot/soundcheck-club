@@ -1,6 +1,6 @@
 # Pegassi at 1015 Folsom
 
-Pegassi at 1015 Folsom on Fri 31 Jul, Sanfrancisco. 1 act on the bill: Pegassi. Preview the line-up and save it on soundcheck.
+Pegassi at 1015 Folsom on Fri 31 Jul, Sanfrancisco. 2 acts on the bill: CASPII and Pegassi. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,6 +10,7 @@ Pegassi at 1015 Folsom on Fri 31 Jul, Sanfrancisco. 1 act on the bill: Pegassi. 
 
 ## Line-up
 
+- CASPII
 - Pegassi
 
 *Source: [soundcheck](https://soundcheck.club/e/2443854-pegassi-at-1015-folsom/)*

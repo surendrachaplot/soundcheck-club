@@ -1,6 +1,6 @@
 # Tengu presents: Sunil Sharpe All Night Long at Yamamori Tengu
 
-Tengu presents: Sunil Sharpe All Night Long at Yamamori Tengu on Sat 5 Sept, Dublin. 1 act on the bill: Sunil Sharpe. Techno and Hardcore. Preview the line-up and save it on soundcheck.
+Tengu presents: Sunil Sharpe All Night Long at Yamamori Tengu on Sat 5 Sept, Dublin. 1 act on the bill: Sunil Sharpe. Techno and Electro. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

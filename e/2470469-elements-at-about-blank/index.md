@@ -1,6 +1,6 @@
 # ://elements at ://about blank
 
-://elements at ://about blank on Sat 8 Aug, Berlin. 8 acts on the bill: Artifex (DE), EMAILLE, Franz Jäger and Kontinum and 4 more. Techno and Ambient. Preview the line-up and save it on soundcheck.
+://elements at ://about blank on Sat 8 Aug, Berlin. 10 acts on the bill: a:tok, Artifex (DE), EMAILLE and Franz Jäger and 6 more. Techno and Ambient. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,6 +10,7 @@
 
 ## Line-up
 
+- a:tok
 - Artifex (DE)
 - EMAILLE
 - Franz Jäger
@@ -18,5 +19,6 @@
 - Shimmy Robin
 - THNTS
 - vauna
+- Vivian Koch
 
 *Source: [soundcheck](https://soundcheck.club/e/2470469-elements-at-about-blank/)*

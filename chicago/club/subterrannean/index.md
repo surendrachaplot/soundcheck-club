@@ -1,13 +1,14 @@
 # Subterrannean
 
-Subterrannean is a music venue in Chicago with 1 upcoming night listed on soundcheck as of Thu, 30 Jul 2026; the next is "DIGITAL DREAM" on Sat, 8 Aug 2026.
+Subterrannean is a music venue in Chicago with 2 upcoming nights listed on soundcheck as of Thu, 30 Jul 2026; the next is "A TEKNOIR POP UP" on Thu, 6 Aug 2026.
 
-Subterrannean is a music venue in Chicago listed on soundcheck. 1 upcoming night, with line-ups including BiLatinBby, Constantine (US), Dj Nico and Mo Mami and 1 more. Browse upcoming dates, start times and who's playing. 2011 W North Ave, Chicago, IL 60622, USA.
+Subterrannean is a music venue in Chicago listed on soundcheck. 2 upcoming nights, with line-ups including BiLatinBby, Constantine (US), Dj Nico and Gabriel Palomo and 2 more. Browse upcoming dates, start times and who's playing. 2011 W North Ave, Chicago, IL 60622, USA.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
+| Thu, 6 Aug 2026 | A TEKNOIR POP UP | Gabriel Palomo, Mr. Bobby, Pat Fee, samantha rad |
 | Sat, 8 Aug 2026 | DIGITAL DREAM | BiLatinBby, Constantine (US), Dj Nico, Mo Mami, WILHELMINA |
 
 ## Address

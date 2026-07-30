@@ -1,6 +1,6 @@
 # Rave Mitte(n) in Berlin /w Konfusia, Secret Act, Mehr is Mehr, Aio, Leon Licht, Mino, Sabura at Hinterhof Mitte
 
-Rave Mitte(n) in Berlin /w Konfusia, Secret Act, Mehr is Mehr, Aio, Leon Licht, Mino, Sabura at Hinterhof Mitte on Fri 31 Jul, Berlin. 18 acts on the bill: Aio, Carlo Bonanza, Ele Luz and JUSTICE (DE) and 14 more. Techno and Tech House. Preview the line-up and save it on soundcheck.
+Rave Mitte(n) in Berlin /w Konfusia, Secret Act, Mehr is Mehr, Aio, Leon Licht, Mino, Sabura at Hinterhof Mitte on Fri 31 Jul, Berlin. 19 acts on the bill: Aio, Carlo Bonanza, Ele Luz and JUSTICE (DE) and 15 more. Techno and Tech House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -27,6 +27,7 @@ Rave Mitte(n) in Berlin /w Konfusia, Secret Act, Mehr is Mehr, Aio, Leon Licht, 
 - Sin:port
 - Vanessa Sa
 - Who is ela¿
+- WIEK
 - ZweiE
 
 *Source: [soundcheck](https://soundcheck.club/e/2467739-rave-mitte-n-in-berlin-w-konfusia-secret-act-mehr-is-mehr-ai/)*

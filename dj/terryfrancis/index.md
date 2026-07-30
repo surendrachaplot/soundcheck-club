@@ -1,14 +1,15 @@
 # Terry Francis
 
-Terry Francis is a House and Tech House artist with 2 upcoming club dates listed on soundcheck as of Thu, 30 Jul 2026, next at The View From The Shard, London on Fri, 21 Aug 2026.
+Terry Francis is a House and Tech House artist with 3 upcoming club dates listed on soundcheck as of Thu, 30 Jul 2026, next at The View From The Shard, London on Fri, 21 Aug 2026.
 
-Terry Francis is a house and tech house artist tracked on soundcheck, with 57 sets logged across Aberdeen, Berlin, Birmingham and Brighton and 7 more. Often billed alongside 3 Minds, Eddie Richards and Jake Beautyman. Next up: The View From The Shard, London on Fri 21 Aug.
+Terry Francis is a house and tech house artist tracked on soundcheck, with 58 sets logged across Aberdeen, Berlin, Birmingham and Brighton and 7 more. Often billed alongside 3 Minds, Eddie Richards and Jake Beautyman. Next up: The View From The Shard, London on Fri 21 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 21 Aug 2026 | The View From The Shard | London |
+| Sun, 27 Sept 2026 | 93 Feet East | London |
 | Fri, 2 Oct 2026 | Eiger Studios | Leeds |
 
 ## Recently played

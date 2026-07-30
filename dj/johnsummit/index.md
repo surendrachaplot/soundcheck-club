@@ -1,13 +1,14 @@
 # John Summit
 
-John Summit is a House and Tech House artist with 3 upcoming club dates listed on soundcheck as of Thu, 30 Jul 2026, next at Grant Park, Chicago on Fri, 31 Jul 2026.
+John Summit is a House and Tech House artist with 4 upcoming club dates listed on soundcheck as of Thu, 30 Jul 2026, next at Radius, Chicago on Thu, 30 Jul 2026.
 
-John Summit is a house and tech house artist tracked on soundcheck, with 109 sets logged across Amsterdam, Austin, Bali and Barcelona and 21 more. Often billed alongside Eli Brown, Layton Giordani and Loco Dice. Next up: Grant Park, Chicago on Fri 31 Jul.
+John Summit is a house and tech house artist tracked on soundcheck, with 110 sets logged across Amsterdam, Austin, Bali and Barcelona and 21 more. Often billed alongside Eli Brown, Layton Giordani and Loco Dice. Next up: Radius, Chicago on Thu 30 Jul.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Thu, 30 Jul 2026 | Radius | Chicago |
 | Fri, 31 Jul 2026 | Grant Park | Chicago |
 | Sat, 12 Sept 2026 | TBA - Mandarine Tent, Punta Carrasco | Buenos Aires |
 | Sat, 19 Sept 2026 | Randall's Island | New York City |

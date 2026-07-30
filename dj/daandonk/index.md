@@ -1,14 +1,15 @@
 # Daan Donk
 
-Daan Donk is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at Het Salon, Amsterdam on Sun, 2 Aug 2026.
+Daan Donk is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Thu, 30 Jul 2026, next at Het Salon, Amsterdam on Sun, 2 Aug 2026.
 
-Daan Donk is a house and techno artist tracked on soundcheck, with 63 sets logged across Amsterdam, Barcelona, Berlin and Brussels and 8 more. Often billed alongside Desyn, Mia Cecille and Yela. Next up: Het Salon, Amsterdam on Sun 2 Aug.
+Daan Donk is a house and techno artist tracked on soundcheck, with 64 sets logged across Amsterdam, Barcelona, Berlin and Brussels and 8 more. Often billed alongside Desyn, Mia Cecille and Yela. Next up: Het Salon, Amsterdam on Sun 2 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sun, 2 Aug 2026 | Het Salon | Amsterdam |
+| Sat, 22 Aug 2026 | BRET | Amsterdam |
 
 ## Recently played
 

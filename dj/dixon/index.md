@@ -10,8 +10,8 @@ Dixon is a house and techno artist tracked on soundcheck, with 184 sets logged a
 | --- | --- | --- |
 | Thu, 30 Jul 2026 | Scorpios | Mykonos |
 | Sat, 1 Aug 2026 | Boston Manor Park | London |
-| Sat, 1 Aug 2026 | Fitz Mallorca | Mallorca |
 | Sun, 2 Aug 2026 | Pacha Ibiza | Ibiza |
+| Sun, 9 Aug 2026 | Fitz Mallorca | Mallorca |
 | Mon, 10 Aug 2026 | DC-10 | Ibiza |
 | Sun, 6 Sept 2026 | Woodstock'69 | Amsterdam |
 

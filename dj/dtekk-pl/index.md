@@ -1,8 +1,8 @@
 # dtekk
 
-dtekk is a Techno and Electro artist with 4 upcoming club dates listed on soundcheck as of Thu, 30 Jul 2026, next at Noce KRK, Krakow on Fri, 31 Jul 2026.
+dtekk is a Techno and Electro artist with 5 upcoming club dates listed on soundcheck as of Thu, 30 Jul 2026, next at Noce KRK, Krakow on Fri, 31 Jul 2026.
 
-dtekk is a techno and electro artist based in Poland, tracked on soundcheck, with 56 sets logged across Berlin, Krakow, Lisbon and Oslo and 2 more. Often billed alongside Kovvalsky, Blazej Malinowski and MATRIX3K. Next up: Noce KRK, Krakow on Fri 31 Jul.
+dtekk is a techno and electro artist based in Poland, tracked on soundcheck, with 57 sets logged across Berlin, Krakow, Lisbon and Oslo and 2 more. Often billed alongside Kovvalsky, Blazej Malinowski and MATRIX3K. Next up: Noce KRK, Krakow on Fri 31 Jul.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ dtekk is a techno and electro artist based in Poland, tracked on soundcheck, wit
 | --- | --- | --- |
 | Fri, 31 Jul 2026 | Noce KRK | Krakow |
 | Fri, 14 Aug 2026 | Kaskada | Warsaw |
+| Fri, 11 Sept 2026 | Jasna 1 | Warsaw |
 | Sat, 19 Sept 2026 | Forum Horyzonty | Krakow |
 | Fri, 2 Oct 2026 | Jasna 1 | Warsaw |
 

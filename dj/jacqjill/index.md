@@ -1,13 +1,14 @@
 # Jacq Jill
 
-Jacq Jill is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at TBA - Camp Tall Timbers, WV, Washington DC on Fri, 4 Sept 2026.
+Jacq Jill is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Thu, 30 Jul 2026, next at Mess Hall, Washington DC on Sun, 16 Aug 2026.
 
-Jacq Jill is a techno and house artist based in United States of America, tracked on soundcheck, with 59 sets logged across Amsterdam, Losangeles, Newyorkcity and Seattle and 1 more. Often billed alongside Joyce Lim, Baronhawk Poitier and flotussin. Next up: TBA - Camp Tall Timbers, WV, Washingtondc on Fri 4 Sept.
+Jacq Jill is a techno and house artist based in United States of America, tracked on soundcheck, with 60 sets logged across Amsterdam, Losangeles, Newyorkcity and Seattle and 1 more. Often billed alongside Joyce Lim, Baronhawk Poitier and flotussin. Next up: Mess Hall, Washingtondc on Sun 16 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sun, 16 Aug 2026 | Mess Hall | Washington DC |
 | Fri, 4 Sept 2026 | TBA - Camp Tall Timbers, WV | Washington DC |
 
 ## Recently played

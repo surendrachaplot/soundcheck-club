@@ -1,14 +1,15 @@
 # Vera Logdanidi
 
-Vera Logdanidi is a Techno and Ambient artist with 2 upcoming club dates listed on soundcheck as of Thu, 30 Jul 2026, next at TILLATEC, Amsterdam on Sat, 15 Aug 2026.
+Vera Logdanidi is a Techno and Ambient artist with 3 upcoming club dates listed on soundcheck as of Thu, 30 Jul 2026, next at TILLATEC, Amsterdam on Sat, 15 Aug 2026.
 
-Vera Logdanidi is a techno and ambient artist tracked on soundcheck, with 58 sets logged across Amsterdam, Antwerp, Barcelona and Basel and 18 more. Often billed alongside Na Nich, Altinbas and Efdemin. Next up: TILLATEC, Amsterdam on Sat 15 Aug.
+Vera Logdanidi is a techno and ambient artist tracked on soundcheck, with 59 sets logged across Amsterdam, Antwerp, Barcelona and Basel and 18 more. Often billed alongside Na Nich, Altinbas and Efdemin. Next up: TILLATEC, Amsterdam on Sat 15 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 15 Aug 2026 | TILLATEC | Amsterdam |
+| Fri, 11 Sept 2026 | Jasna 1 | Warsaw |
 | Sat, 26 Sept 2026 | Lofi | Amsterdam |
 
 ## Recently played

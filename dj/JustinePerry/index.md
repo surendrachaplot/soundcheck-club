@@ -1,8 +1,8 @@
 # Justine Perry
 
-Justine Perry is a Techno and House artist with 7 upcoming club dates listed on soundcheck as of Thu, 30 Jul 2026, next at RADION, Amsterdam on Fri, 7 Aug 2026.
+Justine Perry is a Techno and House artist with 8 upcoming club dates listed on soundcheck as of Thu, 30 Jul 2026, next at RADION, Amsterdam on Fri, 7 Aug 2026.
 
-Justine Perry is a techno and house artist tracked on soundcheck, with 155 sets logged across Amsterdam, Athens, Barcelona and Basel and 42 more. Often billed alongside Paula Koski, Kangding Ray and Altinbas. Next up: RADION, Amsterdam on Fri 7 Aug.
+Justine Perry is a techno and house artist tracked on soundcheck, with 156 sets logged across Amsterdam, Athens, Barcelona and Basel and 42 more. Often billed alongside Paula Koski, Kangding Ray and Altinbas. Next up: RADION, Amsterdam on Fri 7 Aug.
 
 ## Upcoming shows
 
@@ -13,6 +13,7 @@ Justine Perry is a techno and house artist tracked on soundcheck, with 155 sets 
 | Sat, 8 Aug 2026 | RADION | Amsterdam |
 | Sun, 9 Aug 2026 | NUMBER 90 LONDON | London |
 | Sat, 29 Aug 2026 | KALT | Strasbourg |
+| Fri, 25 Sept 2026 | Friche Belle de Mai | Marseille |
 | Thu, 22 Oct 2026 | TILLATEC | Amsterdam |
 | Fri, 23 Oct 2026 | RADION | Amsterdam |
 

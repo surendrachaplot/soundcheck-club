@@ -16,7 +16,7 @@ fabric is a music venue in London listed on soundcheck. 28 upcoming nights, with
 | Sun, 9 Aug 2026 | CAYA by fabric: Tamango - Yaya (All Night Long) | Yaya |
 | Fri, 14 Aug 2026 | Broadwick Live presents: Cristoph, Giolì & Assia, hitty, Low Steppa, Layla Benitez + more | Brina Knauss, Cristoph, Giolì & Assia, Layla Benitez, Lowsteppa, Paisley Jensen, hitty |
 | Sat, 15 Aug 2026 | fabric: Seb Zito, Jamie Fielding, Goosey, FLORENTIA, Danny Snowden | Danny Snowden, FLORENTIA, Goosey, Jamie Fielding, Seb Zito |
-| Sun, 16 Aug 2026 | CAYA by fabric: Step Inside |  |
+| Sun, 16 Aug 2026 | CAYA by fabric: Step Inside - Wax Material, Jordan Masters, Jelsen, simmo, MUNNI | Jelsen, Jordan Masters, MUNNI, Wax Material, simmo |
 | Fri, 21 Aug 2026 | fabric: Sven Väth, Ben Sterling, Ms Mada, Dale Mussington, DELASFLORES, Regan Funk & Oma | Ben Sterling, DELASFLORES, Dale Mussington, Ms. Mada, Oma (UK), Regan Funk, Sven Vath |
 
 ## Address

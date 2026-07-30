@@ -1,13 +1,14 @@
 # FUKHED
 
-FUKHED is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at Preston Warehouse, Melbourne on Sat, 5 Sept 2026.
+FUKHED is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Thu, 30 Jul 2026, next at Thuishaven, Amsterdam on Sun, 9 Aug 2026.
 
-FUKHED is a techno and house artist tracked on soundcheck, with 54 sets logged across Amsterdam, Bangkok, Berlin and Brisbane and 9 more. Often billed alongside SPFDJ, cera and dameeeela. Next up: Preston Warehouse, Melbourne on Sat 5 Sept.
+FUKHED is a techno and house artist tracked on soundcheck, with 55 sets logged across Amsterdam, Bangkok, Berlin and Brisbane and 9 more. Often billed alongside SPFDJ, cera and dameeeela. Next up: Thuishaven, Amsterdam on Sun 9 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sun, 9 Aug 2026 | Thuishaven | Amsterdam |
 | Sat, 5 Sept 2026 | Preston Warehouse | Melbourne |
 
 ## Recently played

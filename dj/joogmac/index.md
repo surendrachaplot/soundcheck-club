@@ -1,8 +1,8 @@
 # Joogmac
 
-Joogmac is a Club and House artist with 2 upcoming club dates listed on soundcheck as of Thu, 30 Jul 2026, next at White Rabbit, San Francisco/Oakland on Thu, 30 Jul 2026.
+Joogmac is a Club and House artist with 3 upcoming club dates listed on soundcheck as of Thu, 30 Jul 2026, next at White Rabbit, San Francisco/Oakland on Thu, 30 Jul 2026.
 
-Joogmac is a club and house artist based in United States of America, tracked on soundcheck, with 15 sets logged across Losangeles, Newyorkcity and Sanfrancisco. Often billed alongside rogue.wav, Beverly Chills and Castillonaire. Next up: White Rabbit, Sanfrancisco on Thu 30 Jul.
+Joogmac is a club and house artist based in United States of America, tracked on soundcheck, with 16 sets logged across Losangeles, Newyorkcity and Sanfrancisco. Often billed alongside rogue.wav, Beverly Chills and Castillonaire. Next up: White Rabbit, Sanfrancisco on Thu 30 Jul.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Joogmac is a club and house artist based in United States of America, tracked on
 | --- | --- | --- |
 | Thu, 30 Jul 2026 | White Rabbit | San Francisco/Oakland |
 | Fri, 31 Jul 2026 | F8 1192 Folsom | San Francisco/Oakland |
+| Fri, 14 Aug 2026 | Mood Ring | New York City |
 
 ## Recently played
 

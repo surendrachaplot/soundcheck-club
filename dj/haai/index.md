@@ -1,8 +1,8 @@
 # HAAi
 
-HAAi is a Techno and House artist with 8 upcoming club dates listed on soundcheck as of Thu, 30 Jul 2026, next at TILLATEC, Amsterdam on Sat, 1 Aug 2026.
+HAAi is a Techno and House artist with 9 upcoming club dates listed on soundcheck as of Thu, 30 Jul 2026, next at TILLATEC, Amsterdam on Sat, 1 Aug 2026.
 
-HAAi is a techno and house artist tracked on soundcheck, with 196 sets logged across Amsterdam, Antwerp, Athens and Bali and 52 more. Often billed alongside DJ Tennis, Saoirse and Gabrielle Kwarteng. Next up: TILLATEC, Amsterdam on Sat 1 Aug.
+HAAi is a techno and house artist tracked on soundcheck, with 197 sets logged across Amsterdam, Antwerp, Athens and Bali and 52 more. Often billed alongside DJ Tennis, Saoirse and Gabrielle Kwarteng. Next up: TILLATEC, Amsterdam on Sat 1 Aug.
 
 ## Upcoming shows
 
@@ -11,6 +11,7 @@ HAAi is a techno and house artist tracked on soundcheck, with 196 sets logged ac
 | Sat, 1 Aug 2026 | TILLATEC | Amsterdam |
 | Sat, 1 Aug 2026 | Preston Park, Brighton | Berlin |
 | Sat, 8 Aug 2026 | Burgess Park | London |
+| Sat, 29 Aug 2026 | Serpentine Galleries | London |
 | Sun, 30 Aug 2026 | Are You Affiliated | Newcastle |
 | Sat, 19 Sept 2026 | 528 Ibiza | Ibiza |
 | Sat, 10 Oct 2026 | Depot Mayfield | Manchester |

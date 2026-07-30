@@ -10,14 +10,14 @@ Mastak is a music venue in Warsaw listed on soundcheck. 13 upcoming nights, with
 | --- | --- | --- |
 | Fri, 31 Jul 2026 | WOX DANCE | Heather Helix, Petar Tverkal, anke schön |
 | Sat, 1 Aug 2026 | OEM | Be.roo, Joseph Clarke, Matthew Neequaye, Pridi |
-| Sat, 1 Aug 2026 | Shjva all night long | Shjva |
 | Sun, 2 Aug 2026 | SUNDAY | Slowmode, user228322 |
-| Fri, 7 Aug 2026 | Butwho AilinDeSha* Gagarin Nosal | AilinDeSha*, Butwho, Gagarin |
+| Fri, 7 Aug 2026 | Nosal Butwho AilinDeSha* Gagarin | AilinDeSha*, Butwho, Gagarin |
 | Sat, 8 Aug 2026 | they | Lyor Kalt, SBCSLY |
 | Sun, 9 Aug 2026 | ECLECTIC | Halo Y, Nana_k, Xim (BY) |
 | Fri, 14 Aug 2026 | Label Night | Dim Rive, Salat, Slowmode |
 | Sat, 15 Aug 2026 | L.A.N.L. II – Live Acts All Night Long II |  |
 | Sat, 15 Aug 2026 | L.A.N.L. II – Live Production & Modular Workshops |  |
+| Sun, 16 Aug 2026 | SUNDAY |  |
 
 ## Address
 

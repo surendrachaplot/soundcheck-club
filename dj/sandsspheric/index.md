@@ -1,8 +1,8 @@
 # Sands Spheric
 
-Sands Spheric is a Dubstep and Electro artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at Two Tribes CAMPFIRE, London on Fri, 4 Sept 2026.
+Sands Spheric is a Dubstep and House artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at Two Tribes CAMPFIRE, London on Fri, 4 Sept 2026.
 
-Sands Spheric is a dubstep and electro artist based in United Kingdom, tracked on soundcheck, with 12 sets logged across London. Often billed alongside Mingulitka, Akira (3) and HERO SHIMOJI. Next up: Two Tribes CAMPFIRE, London on Fri 4 Sept.
+Sands Spheric is a dubstep and house artist based in United Kingdom, tracked on soundcheck, with 12 sets logged across London. Often billed alongside Mingulitka, Akira (3) and HERO SHIMOJI. Next up: Two Tribes CAMPFIRE, London on Fri 4 Sept.
 
 ## Upcoming shows
 

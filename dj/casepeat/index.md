@@ -1,14 +1,15 @@
 # Casepeat
 
-Casepeat is a Trance and Techno artist with 2 upcoming club dates listed on soundcheck as of Thu, 30 Jul 2026, next at Luka, Seoul on Sun, 2 Aug 2026.
+Casepeat is a Trance and Techno artist with 3 upcoming club dates listed on soundcheck as of Thu, 30 Jul 2026, next at Luka, Seoul on Sun, 2 Aug 2026.
 
-Casepeat is a trance and techno artist based in South Korea, tracked on soundcheck, with 17 sets logged across Seoul and Tokyo. Often billed alongside Kataploks, M42 (1) and Purple Rabbit. Next up: Luka, Seoul on Sun 2 Aug.
+Casepeat is a trance and techno artist based in South Korea, tracked on soundcheck, with 18 sets logged across Seoul and Tokyo. Often billed alongside Kataploks, M42 (1) and Purple Rabbit. Next up: Luka, Seoul on Sun 2 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sun, 2 Aug 2026 | Luka | Seoul |
+| Fri, 7 Aug 2026 | Luka | Seoul |
 | Sat, 8 Aug 2026 | Ximxim Bar | Seoul |
 
 ## Recently played

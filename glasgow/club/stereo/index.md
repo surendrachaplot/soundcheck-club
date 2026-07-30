@@ -1,8 +1,8 @@
 # Stereo
 
-Stereo is a music venue in Glasgow with 12 upcoming nights listed on soundcheck as of Thu, 30 Jul 2026; the next is "Rites: Pat Riarchy, >body, Eden Dodd, Samm ANGA, Shawn Nayar" on Thu, 30 Jul 2026.
+Stereo is a music venue in Glasgow with 14 upcoming nights listed on soundcheck as of Thu, 30 Jul 2026; the next is "Rites: Pat Riarchy, >body, Eden Dodd, Samm ANGA, Shawn Nayar" on Thu, 30 Jul 2026.
 
-Stereo is a music venue in Glasgow listed on soundcheck. 12 upcoming nights, with line-ups including -Doubt, 4KitSake, Angel Cake and Asphodèle and 2 more. Browse upcoming dates, start times and who's playing. 20-28 Renfield Lane; Glasgow, G2 6PH; Scotland; United Kingdom.
+Stereo is a music venue in Glasgow listed on soundcheck. 14 upcoming nights, with line-ups including -Doubt, 4KitSake, Aderayo and Angel Cake and 2 more. Browse upcoming dates, start times and who's playing. 20-28 Renfield Lane; Glasgow, G2 6PH; Scotland; United Kingdom.
 
 ## What's on
 

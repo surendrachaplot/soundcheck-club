@@ -1,13 +1,14 @@
 # CIOZ
 
-CIOZ is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at Melkweg, Amsterdam on Fri, 23 Oct 2026.
+CIOZ is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Thu, 30 Jul 2026, next at Luz De Gas, Barcelona on Fri, 7 Aug 2026.
 
-CIOZ is a techno and house artist based in Italy, tracked on soundcheck, with 51 sets logged across Amsterdam, Auckland, Barcelona and Berlin and 24 more. Often billed alongside Oliver Koletzki, Kotoe and Madmotormiquel. Next up: Melkweg, Amsterdam on Fri 23 Oct.
+CIOZ is a techno and house artist based in Italy, tracked on soundcheck, with 52 sets logged across Amsterdam, Auckland, Barcelona and Berlin and 24 more. Often billed alongside Oliver Koletzki, Kotoe and Madmotormiquel. Next up: Luz De Gas, Barcelona on Fri 7 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 7 Aug 2026 | Luz De Gas | Barcelona |
 | Fri, 23 Oct 2026 | Melkweg | Amsterdam |
 
 ## Recently played

@@ -1,13 +1,14 @@
 # Kokeshi
 
-Kokeshi is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Thu, 30 Jul 2026, next at Lux Fragil, Lisbon on Sat, 8 Aug 2026.
+Kokeshi is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Thu, 30 Jul 2026, next at Harbour Music Shelter, Lisbon on Sun, 2 Aug 2026.
 
-Kokeshi is a techno and house artist tracked on soundcheck, with 97 sets logged across Lisbon, London, Munich and Porto and 1 more. Often billed alongside John-E, Kaesar and Bernardo Vaz. Next up: Lux Fragil, Lisbon on Sat 8 Aug.
+Kokeshi is a techno and house artist tracked on soundcheck, with 98 sets logged across Lisbon, London, Munich and Porto and 1 more. Often billed alongside John-E, Kaesar and Bernardo Vaz. Next up: Harbour Music Shelter, Lisbon on Sun 2 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sun, 2 Aug 2026 | Harbour Music Shelter | Lisbon |
 | Sat, 8 Aug 2026 | Lux Fragil | Lisbon |
 | Sun, 9 Aug 2026 | Quinta do Miratejo | Lisbon |
 

@@ -1,8 +1,8 @@
 # Alexa Strange
 
-Alexa Strange is a Techno and Ambient artist with 2 upcoming club dates listed on soundcheck as of Thu, 30 Jul 2026, next at TBA - Follow @BerlinFloraFestival & @Ousiasound to know exact locations, Berlin on Sat, 8 Aug 2026.
+Alexa Strange is a Techno and Electronica artist with 3 upcoming club dates listed on soundcheck as of Thu, 30 Jul 2026, next at TBA - Follow @BerlinFloraFestival & @Ousiasound to know exact locations, Berlin on Sat, 8 Aug 2026.
 
-Alexa Strange is a techno and ambient artist based in Colombia, tracked on soundcheck, with 3 sets logged across Amsterdam, Berlin and Buenosaires. Often billed alongside A.R.T., Bardo (1) and Dexon. Next up: TBA - Follow @BerlinFloraFestival & @Ousiasound to know exact locations, Berlin on Sat 8 Aug.
+Alexa Strange is a techno and electronica artist based in Colombia, tracked on soundcheck, with 4 sets logged across Amsterdam, Berlin, Buenosaires and Porto. Often billed alongside TheRipped, A.R.T. and Bardo (1). Next up: TBA - Follow @BerlinFloraFestival & @Ousiasound to know exact locations, Berlin on Sat 8 Aug.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Alexa Strange is a techno and ambient artist based in Colombia, tracked on sound
 | --- | --- | --- |
 | Sat, 8 Aug 2026 | TBA - Follow @BerlinFloraFestival & @Ousiasound to know exact locations | Berlin |
 | Tue, 11 Aug 2026 | Melkweg | Amsterdam |
+| Fri, 21 Aug 2026 | Gare Porto | Porto |
 
 ## Recently played
 
@@ -17,6 +18,6 @@ Alexa Strange is a techno and ambient artist based in Colombia, tracked on sound
 
 ## Shares bills with
 
-A.R.T., Bardo (1), Dexon
+TheRipped, A.R.T., Bardo (1)
 
 *Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/alexastrange-/)*

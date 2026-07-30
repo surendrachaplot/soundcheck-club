@@ -1,14 +1,15 @@
 # Kaesar
 
-Kaesar is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Thu, 30 Jul 2026, next at TBA - Alfagar Prestige - Estrada de Santa Eulalia - Albufeira, Lisbon on Thu, 30 Jul 2026.
+Kaesar is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Thu, 30 Jul 2026, next at TBA - Alfagar Prestige - Estrada de Santa Eulalia - Albufeira, Lisbon on Thu, 30 Jul 2026.
 
-Kaesar is a techno and house artist based in Portugal, tracked on soundcheck, with 95 sets logged across Lisbon, Malaga, Porto and Tbilisi. Often billed alongside Bernardo Vaz, Gear and Kokeshi. Next up: TBA - Alfagar Prestige - Estrada de Santa Eulalia - Albufeira, Lisbon on Thu 30 Jul.
+Kaesar is a techno and house artist based in Portugal, tracked on soundcheck, with 96 sets logged across Lisbon, Malaga, Porto and Tbilisi. Often billed alongside Bernardo Vaz, Gear and Kokeshi. Next up: TBA - Alfagar Prestige - Estrada de Santa Eulalia - Albufeira, Lisbon on Thu 30 Jul.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Thu, 30 Jul 2026 | TBA - Alfagar Prestige - Estrada de Santa Eulalia - Albufeira | Lisbon |
+| Sun, 2 Aug 2026 | Harbour Music Shelter | Lisbon |
 | Thu, 10 Sept 2026 | Collect LX Factory | Lisbon |
 
 ## Recently played

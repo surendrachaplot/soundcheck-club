@@ -1,6 +1,6 @@
 # Pyramid at Amnesia Ibiza
 
-Pyramid at Amnesia Ibiza on Sun 30 Aug, Ibiza. 7 acts on the bill: 999999999, Ben Sterling, Gaskin and Katnada and 3 more. Techno and Tech House. Preview the line-up and save it on soundcheck.
+Pyramid at Amnesia Ibiza on Sun 30 Aug, Ibiza. 8 acts on the bill: 999999999, Ben Sterling, Gaskin and Katnada and 4 more. Techno and Tech House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -14,6 +14,7 @@ Pyramid at Amnesia Ibiza on Sun 30 Aug, Ibiza. 7 acts on the bill: 999999999, Be
 - Ben Sterling
 - Gaskin
 - Katnada
+- Kim April
 - Nina Kraviz
 - Saraga
 - Yanamaste

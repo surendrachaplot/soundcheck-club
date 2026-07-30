@@ -2,7 +2,7 @@
 
 Kapusta is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Thu, 30 Jul 2026, next at Misisipi River Boat, Riga on Sat, 8 Aug 2026.
 
-Kapusta is a house and techno artist tracked on soundcheck, with 33 sets logged across Riga and Tallinn. Often billed alongside Rexton, Kelvin and Nicolas Barnes. Next up: Misisipi River Boat, Riga on Sat 8 Aug.
+Kapusta is a house and techno artist tracked on soundcheck, with 33 sets logged across Riga and Tallinn. Often billed alongside Nicolas Barnes, Rexton and Kelvin. Next up: Misisipi River Boat, Riga on Sat 8 Aug.
 
 ## Upcoming shows
 
@@ -24,6 +24,6 @@ Kapusta is a house and techno artist tracked on soundcheck, with 33 sets logged 
 
 ## Shares bills with
 
-Rexton, Kelvin, Nicolas Barnes
+Nicolas Barnes, Rexton, Kelvin
 
 *Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/kapusta/)*

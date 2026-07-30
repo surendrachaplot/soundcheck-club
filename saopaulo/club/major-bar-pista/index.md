@@ -2,14 +2,14 @@
 
 Major Bar & Pista is a music venue in Sao Paulo with 2 upcoming nights listed on soundcheck as of Thu, 30 Jul 2026; the next is "Major recebe Cabanka" on Thu, 30 Jul 2026.
 
-Major Bar & Pista is a music venue in Saopaulo listed on soundcheck. 2 upcoming nights. Browse upcoming dates, start times and who's playing. Rua Major Sertório, 347.
+Major Bar & Pista is a music venue in Saopaulo listed on soundcheck. 2 upcoming nights, with line-ups including Ney Faustini and Rafael Moraes. Browse upcoming dates, start times and who's playing. Rua Major Sertório, 347.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
 | Thu, 30 Jul 2026 | Major recebe Cabanka |  |
-| Fri, 31 Jul 2026 | Major recebe Can You Feel It (ney + rafa) |  |
+| Fri, 31 Jul 2026 | Major recebe Can You Feel It | Ney Faustini, Rafael Moraes |
 
 ## Address
 

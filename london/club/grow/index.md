@@ -14,7 +14,7 @@ Grow is a music venue in London listed on soundcheck. 11 upcoming nights, with l
 | Sat, 8 Aug 2026 | GIRLZ B LIKE: MARCIA DAVINYLMC - OPEN TO CLOSE | Marcia Carr |
 | Fri, 14 Aug 2026 | Beirut Groove Collective Summer Club: Natalie Shooter // Ernesto Chahoud // + Guests | Ernesto Chahoud, Natalie Shooter |
 | Sat, 22 Aug 2026 | DeepDig: Harri Pepper (4 Hours) // Sky Rivers | Harri Pepper, Sky Rivers |
-| Fri, 28 Aug 2026 | Grow presents: Kamar & Friends | Kamar, Seiji Ono |
+| Fri, 28 Aug 2026 | Grow presents: Kamar & Friends | Kamar, Miss Mash, Seiji Ono |
 | Sat, 29 Aug 2026 | Cengiz presents 'End Of Summer Special' | Cengiz, Cosmo Sofi, Oliver Night |
 | Sun, 30 Aug 2026 | DeepDig Bank Holiday Special: Mr Bongo (4 Hour Set) + Liminal People | Alfie Panaiotis, Liminal People, Mr Bongo, Paloma (DJ) |
 | Fri, 4 Sept 2026 | SWEET ONES: DONSURF // Ben hauke [LIVE] // KANE // Komanche | Ben hauke, KANE., Komanche |

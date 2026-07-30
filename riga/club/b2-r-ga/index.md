@@ -9,7 +9,7 @@ B2 Rīga is a music venue in Riga listed on soundcheck. 2 upcoming nights, with 
 | Date | Night | Line-up |
 | --- | --- | --- |
 | Fri, 31 Jul 2026 | SMOKE SHED CREW: out of office still in town | Johnny Depo, Karlos (2), Nina Elektrichka |
-| Sat, 8 Aug 2026 | KEEPEESCH 008 - PRE-REGISTER FOR FREE TICKETS | D I N, Kapusta, Rexton, Riposte, Tony (LV) |
+| Sat, 8 Aug 2026 | KEEPEESCH 008 - PRE-REGISTER FOR FREE TICKETS | D I N, Kapusta, Nicolas Barnes, Rexton, Riposte, Tony (LV) |
 
 ## Address
 

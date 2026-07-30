@@ -1,13 +1,14 @@
 # DJ Frank
 
-DJ Frank is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at Sloterpark, Amsterdam on Sat, 8 Aug 2026.
+DJ Frank is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Thu, 30 Jul 2026, next at nachbar, Amsterdam on Fri, 7 Aug 2026.
 
-DJ Frank is a house and techno artist tracked on soundcheck, with 55 sets logged across Amsterdam, Berlin, Cologne and Hamburg and 5 more. Often billed alongside paaradoxx, Narciss and Maruhni. Next up: Sloterpark, Amsterdam on Sat 8 Aug.
+DJ Frank is a house and techno artist tracked on soundcheck, with 56 sets logged across Amsterdam, Berlin, Cologne and Hamburg and 5 more. Often billed alongside paaradoxx, Narciss and Maruhni. Next up: nachbar, Amsterdam on Fri 7 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 7 Aug 2026 | nachbar | Amsterdam |
 | Sat, 8 Aug 2026 | Sloterpark | Amsterdam |
 
 ## Recently played

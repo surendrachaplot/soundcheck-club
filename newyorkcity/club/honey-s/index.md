@@ -9,7 +9,7 @@ Honey's is a music venue in Newyorkcity listed on soundcheck. 10 upcoming nights
 | Date | Night | Line-up |
 | --- | --- | --- |
 | Sat, 1 Aug 2026 | UNIONMODO (Hi-fi Rooftop Party) | Suasimodo, Union (US) |
-| Sun, 2 Aug 2026 | Groove Tracker Nights (Rooftop) | Isadora, Nick Boyd, Perna, The Hefker Girl, nycp |
+| Sun, 2 Aug 2026 | Groove Tracker Nights (HiFi Rooftop Party) | Isadora, Nick Boyd, Perna, The Hefker Girl, nycp |
 | Wed, 5 Aug 2026 | Swallowed Open Decks | DJ girlcrush, bossy boots |
 | Fri, 7 Aug 2026 | Oscil | Oscil |
 | Fri, 7 Aug 2026 | Floor Tactics | Emsho, Kindred (2), okDUNC |

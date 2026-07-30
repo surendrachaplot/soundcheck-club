@@ -1,13 +1,14 @@
 # Ben Tactic
 
-Ben Tactic is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at Holocene, Portland on Sat, 8 Aug 2026.
+Ben Tactic is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Thu, 30 Jul 2026, next at Realm PDX, Portland on Fri, 7 Aug 2026.
 
-Ben Tactic is a house and techno artist based in United States of America, tracked on soundcheck, with 22 sets logged across Portland. Often billed alongside Nathan Detroit, DJ DISSOLVE and leeonn. Next up: Holocene, Portland on Sat 8 Aug.
+Ben Tactic is a house and techno artist based in United States of America, tracked on soundcheck, with 23 sets logged across Portland. Often billed alongside Nathan Detroit, DJ DISSOLVE and leeonn. Next up: Realm PDX, Portland on Fri 7 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 7 Aug 2026 | Realm PDX | Portland |
 | Sat, 8 Aug 2026 | Holocene | Portland |
 
 ## Recently played

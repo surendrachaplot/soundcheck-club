@@ -1,6 +1,6 @@
 # SHAMELESS feat. DJ Seoul at broad hall.
 
-SHAMELESS feat. DJ Seoul at broad hall. on Sat 29 Aug, Philadelphia. 1 act on the bill: DJ Seoul. Techno and House. Preview the line-up and save it on soundcheck.
+SHAMELESS feat. DJ Seoul at broad hall. on Sat 29 Aug, Philadelphia. 2 acts on the bill: DJ Kalin and DJ Seoul. Techno and House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,6 +10,7 @@ SHAMELESS feat. DJ Seoul at broad hall. on Sat 29 Aug, Philadelphia. 1 act on th
 
 ## Line-up
 
+- DJ Kalin
 - DJ Seoul
 
 *Source: [soundcheck](https://soundcheck.club/e/2432428-shameless-feat-dj-seoul-at-broad-hall/)*

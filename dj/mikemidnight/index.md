@@ -1,8 +1,8 @@
 # Mike Midnight
 
-Mike Midnight is a Electronica and Downtempo artist with 3 upcoming club dates listed on soundcheck as of Thu, 30 Jul 2026, next at The Villa, Oslo on Sat, 8 Aug 2026.
+Mike Midnight is a Downtempo and Electronica artist with 4 upcoming club dates listed on soundcheck as of Thu, 30 Jul 2026, next at The Villa, Oslo on Sat, 8 Aug 2026.
 
-Mike Midnight is an electronica and downtempo artist based in Australia, tracked on soundcheck, with 34 sets logged across Athens, Berlin, Copenhagen and Lisbon and 9 more. Often billed alongside Paper-Cuts, Miscmeg and Roza Terenzi. Next up: The Villa, Oslo on Sat 8 Aug.
+Mike Midnight is a downtempo and electronica artist based in Australia, tracked on soundcheck, with 35 sets logged across Athens, Berlin, Copenhagen and Lisbon and 9 more. Often billed alongside Paper-Cuts, Miscmeg and Roza Terenzi. Next up: The Villa, Oslo on Sat 8 Aug.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Mike Midnight is an electronica and downtempo artist based in Australia, tracked
 | --- | --- | --- |
 | Sat, 8 Aug 2026 | The Villa | Oslo |
 | Mon, 24 Aug 2026 | Club der Visionaere | Berlin |
+| Thu, 17 Sept 2026 | public records | New York City |
 | Fri, 18 Sept 2026 | Fort Mifflin | Philadelphia |
 
 ## Recently played

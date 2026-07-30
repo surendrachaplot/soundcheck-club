@@ -1,8 +1,8 @@
 # Satin Jackets
 
-Satin Jackets is a House and Disco artist with 4 upcoming club dates listed on soundcheck as of Thu, 30 Jul 2026, next at Loo Loo, Mexico City on Sat, 8 Aug 2026.
+Satin Jackets is a House and Disco artist with 5 upcoming club dates listed on soundcheck as of Thu, 30 Jul 2026, next at Loo Loo, Mexico City on Sat, 8 Aug 2026.
 
-Satin Jackets is a house and disco artist tracked on soundcheck, with 47 sets logged across Amsterdam, Austin, Barcelona and Berlin and 18 more. Often billed alongside Undercatt, clavette and Amiti. Next up: Loo Loo, Mexicocity on Sat 8 Aug.
+Satin Jackets is a house and disco artist tracked on soundcheck, with 48 sets logged across Amsterdam, Austin, Barcelona and Berlin and 18 more. Often billed alongside Undercatt, clavette and Amiti. Next up: Loo Loo, Mexicocity on Sat 8 Aug.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Satin Jackets is a house and disco artist tracked on soundcheck, with 47 sets lo
 | --- | --- | --- |
 | Sat, 8 Aug 2026 | Loo Loo | Mexico City |
 | Fri, 11 Sept 2026 | Elsewhere | New York City |
+| Sat, 12 Sept 2026 | ZeyZey | Miami |
 | Fri, 18 Sept 2026 | Music Box | San Diego |
 | Sat, 10 Oct 2026 | Nectar Lounge | Seattle |
 

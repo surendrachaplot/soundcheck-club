@@ -9,7 +9,7 @@ Nether Club is a music venue in Bucharest listed on soundcheck. 10 upcoming nigh
 | Date | Night | Line-up |
 | --- | --- | --- |
 | Fri, 31 Jul 2026 | STEP INTO THE VOID x URBAN RUMBLE: BERLIN TECHNO 8 | FAUST (1), Nilya |
-| Sat, 8 Aug 2026 | THE GENDER DEVIL / GENDER BLENDER 2 YEAR ANNIVERSARY |  |
+| Sat, 8 Aug 2026 | THE GENDER DEVIL / GENDER BLENDER 2 YEAR ANNIVERSARY | FAUST (1), NTHR |
 | Fri, 14 Aug 2026 | M.I.L.K - MILAN RUNWAY | AMEDEUS, Amnesico, KATHERYNE, LVUR, Olimpia, Sandraz, Stefan Hernandez |
 | Sat, 22 Aug 2026 | THE DEVIL IS BACK |  |
 | Fri, 4 Sept 2026 | ALPHA SPECTRUM: PRØJECT MORPHEUS ALL NIGHT LONG | Project Morpheus |

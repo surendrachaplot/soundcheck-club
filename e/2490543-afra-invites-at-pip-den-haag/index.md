@@ -1,6 +1,6 @@
 # Afra invites at PIP Den Haag
 
-Afra invites at PIP Den Haag on Sat 19 Sept, Thehague. 1 act on the bill: Afra. Electro and Acid. Preview the line-up and save it on soundcheck.
+Afra invites at PIP Den Haag on Sat 19 Sept, Thehague. 1 act on the bill: Afra. Acid and Electro. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

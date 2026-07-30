@@ -1,8 +1,8 @@
 # O.BEE
 
-O.BEE is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Thu, 30 Jul 2026, next at OXI, Berlin on Fri, 14 Aug 2026.
+O.BEE is a House and Techno artist with 5 upcoming club dates listed on soundcheck as of Thu, 30 Jul 2026, next at OXI, Berlin on Fri, 14 Aug 2026.
 
-O.BEE is a house and techno artist tracked on soundcheck, with 206 sets logged across Amsterdam, Barcelona, Berlin and Bucharest and 28 more. Often billed alongside Tomas Station, Jonny Rock and Konstantin. Next up: OXI, Berlin on Fri 14 Aug.
+O.BEE is a house and techno artist tracked on soundcheck, with 208 sets logged across Amsterdam, Barcelona, Berlin and Bucharest and 29 more. Often billed alongside Tomas Station, Jonny Rock and Ricardo Villalobos. Next up: OXI, Berlin on Fri 14 Aug.
 
 ## Upcoming shows
 
@@ -11,6 +11,8 @@ O.BEE is a house and techno artist tracked on soundcheck, with 206 sets logged a
 | Fri, 14 Aug 2026 | OXI | Berlin |
 | Mon, 17 Aug 2026 | DC-10 | Ibiza |
 | Fri, 18 Sept 2026 | UNO MALTA | Malta |
+| Fri, 25 Sept 2026 | The Loft | Manchester |
+| Sat, 17 Oct 2026 | fabric | London |
 
 ## Recently played
 
@@ -25,6 +27,6 @@ O.BEE is a house and techno artist tracked on soundcheck, with 206 sets logged a
 
 ## Shares bills with
 
-Tomas Station, Jonny Rock, Konstantin
+Tomas Station, Jonny Rock, Ricardo Villalobos
 
 *Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/o.bee/)*

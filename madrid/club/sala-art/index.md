@@ -1,6 +1,6 @@
 # Sala ART
 
-Sala ART is a music venue in Madrid with 3 upcoming nights listed on soundcheck as of Thu, 30 Jul 2026; the next is "Antidoto Club: Trap Night" on Thu, 30 Jul 2026.
+Sala ART is a music venue in Madrid with 3 upcoming nights listed on soundcheck as of Thu, 30 Jul 2026; the next is "Antidoto Club: Bao G + Noah + Dj Javs + Diego Armando (Hip-Hop, Trap)" on Thu, 30 Jul 2026.
 
 Sala ART is a music venue in Madrid listed on soundcheck. 3 upcoming nights, with line-ups including Costa (2), Diego Armando, JAIROSKUN and Maxvll and 2 more. Browse upcoming dates, start times and who's playing. P.º de la Florida, 2, 28008 Madrid.
 
@@ -8,8 +8,8 @@ Sala ART is a music venue in Madrid listed on soundcheck. 3 upcoming nights, wit
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Thu, 30 Jul 2026 | Antidoto Club: Trap Night |  |
-| Fri, 31 Jul 2026 | CHRØMA CLOSING SEASON: SPECIAL B3B (LAST 309 FREE TICKETS) | Costa (2), JAIROSKUN, Miguel Rivas, RODS (ES), Suko, Venus de Milo |
+| Thu, 30 Jul 2026 | Antidoto Club: Bao G + Noah + Dj Javs + Diego Armando (Hip-Hop, Trap) |  |
+| Fri, 31 Jul 2026 | CHRØMA CLOSING SEASON: SPECIAL B3B (LAST 162 FREE TICKETS) | Costa (2), JAIROSKUN, Miguel Rivas, RODS (ES), Suko, Venus de Milo |
 | Sat, 1 Aug 2026 | Antidoto Club: Closing Night | Diego Armando, Maxvll, Yosef |
 
 ## Address

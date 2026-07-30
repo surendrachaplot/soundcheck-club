@@ -1,8 +1,8 @@
 # Bart Skils
 
-Bart Skils is a Techno and House artist with 9 upcoming club dates listed on soundcheck as of Thu, 30 Jul 2026, next at block., Dublin on Fri, 31 Jul 2026.
+Bart Skils is a Techno and House artist with 10 upcoming club dates listed on soundcheck as of Thu, 30 Jul 2026, next at block., Dublin on Fri, 31 Jul 2026.
 
-Bart Skils is a techno and house artist tracked on soundcheck, with 123 sets logged across Amsterdam, Athens, Bali and Bangkok and 40 more. Often billed alongside Adam Beyer, Eli Brown and Victor Ruiz. Next up: block., Dublin on Fri 31 Jul.
+Bart Skils is a techno and house artist tracked on soundcheck, with 124 sets logged across Amsterdam, Athens, Bali and Bangkok and 40 more. Often billed alongside Adam Beyer, Eli Brown and Victor Ruiz. Next up: block., Dublin on Fri 31 Jul.
 
 ## Upcoming shows
 
@@ -14,6 +14,7 @@ Bart Skils is a techno and house artist tracked on soundcheck, with 123 sets log
 | Sat, 8 Aug 2026 | Zürichsee | Zurich |
 | Sat, 8 Aug 2026 | X-Tra | Zurich |
 | Sat, 8 Aug 2026 | Lofi | Amsterdam |
+| Sun, 9 Aug 2026 | Lofi | Amsterdam |
 | Fri, 14 Aug 2026 | Schrotty | Cologne |
 | Fri, 4 Sept 2026 | Crobar - Buenos Aires | Buenos Aires |
 | Fri, 25 Sept 2026 | Lofi | Amsterdam |

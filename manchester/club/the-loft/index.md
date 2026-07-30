@@ -1,8 +1,8 @@
 # The Loft
 
-The Loft is a music venue in Manchester with 12 upcoming nights listed on soundcheck as of Thu, 30 Jul 2026; the next is "The Loft: Nicola Cruz, Matthias & Larushkin" on Fri, 7 Aug 2026.
+The Loft is a music venue in Manchester with 13 upcoming nights listed on soundcheck as of Thu, 30 Jul 2026; the next is "The Loft: Nicola Cruz, Matthias & Larushkin" on Fri, 7 Aug 2026.
 
-The Loft is a music venue in Manchester listed on soundcheck. 12 upcoming nights, with line-ups including KT, ADMNTi, Boss Priester and Burnski and 2 more. Browse upcoming dates, start times and who's playing. Unit 1, New Street, Manchester, M40 8AW.
+The Loft is a music venue in Manchester listed on soundcheck. 13 upcoming nights, with line-ups including KT, ADMNTi, Boss Priester and Burnski and 2 more. Browse upcoming dates, start times and who's playing. Unit 1, New Street, Manchester, M40 8AW.
 
 ## What's on
 

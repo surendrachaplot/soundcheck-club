@@ -1,14 +1,15 @@
 # Alessandro Carrabba
 
-Alessandro Carrabba is a House and Balearic artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at Myrtle Edwards Park, Seattle on Sun, 9 Aug 2026.
+Alessandro Carrabba is a House and Balearic artist with 2 upcoming club dates listed on soundcheck as of Thu, 30 Jul 2026, next at Myrtle Edwards Park, Seattle on Sun, 9 Aug 2026.
 
-Alessandro Carrabba is a house and balearic artist based in United States of America, tracked on soundcheck, with 2 sets logged across Seattle. Often billed alongside Ash Lauryn, Bridge (NY) and Casewag. Next up: Myrtle Edwards Park, Seattle on Sun 9 Aug.
+Alessandro Carrabba is a house and balearic artist based in United States of America, tracked on soundcheck, with 3 sets logged across Seattle. Often billed alongside ACHAMA, Ash Lauryn and BAD JUUJU. Next up: Myrtle Edwards Park, Seattle on Sun 9 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sun, 9 Aug 2026 | Myrtle Edwards Park | Seattle |
+| Fri, 21 Aug 2026 | TBA - Private Campground | Seattle |
 
 ## Recently played
 
@@ -16,6 +17,6 @@ Alessandro Carrabba is a house and balearic artist based in United States of Ame
 
 ## Shares bills with
 
-Ash Lauryn, Bridge (NY), Casewag
+ACHAMA, Ash Lauryn, BAD JUUJU
 
 *Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/alessandrocarrabba/)*

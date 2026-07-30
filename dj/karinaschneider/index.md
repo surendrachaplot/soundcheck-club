@@ -1,14 +1,15 @@
 # Karina Schneider
 
-Karina Schneider is a Techno and House artist with 5 upcoming club dates listed on soundcheck as of Thu, 30 Jul 2026, next at Garage Noord, Amsterdam on Sun, 9 Aug 2026.
+Karina Schneider is a Techno and House artist with 6 upcoming club dates listed on soundcheck as of Thu, 30 Jul 2026, next at Garage Noord, Amsterdam on Sun, 9 Aug 2026.
 
-Karina Schneider is a techno and house artist tracked on soundcheck, with 67 sets logged across Amsterdam, Berlin, Hamburg and Munich and 2 more. Often billed alongside Beau Didier, Flits and Isaiah (NL). Next up: Garage Noord, Amsterdam on Sun 9 Aug.
+Karina Schneider is a techno and house artist tracked on soundcheck, with 68 sets logged across Amsterdam, Berlin, Hamburg and Munich and 2 more. Often billed alongside Beau Didier, Marc Schneider and Flits. Next up: Garage Noord, Amsterdam on Sun 9 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sun, 9 Aug 2026 | Garage Noord | Amsterdam |
+| Thu, 13 Aug 2026 | Club der Visionaere | Berlin |
 | Fri, 14 Aug 2026 | Jasna 1 | Warsaw |
 | Sat, 15 Aug 2026 | Renate | Berlin |
 | Fri, 21 Aug 2026 | Kater | Berlin |
@@ -27,6 +28,6 @@ Karina Schneider is a techno and house artist tracked on soundcheck, with 67 set
 
 ## Shares bills with
 
-Beau Didier, Flits, Isaiah (NL)
+Beau Didier, Marc Schneider, Flits
 
 *Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/karinaschneider/)*

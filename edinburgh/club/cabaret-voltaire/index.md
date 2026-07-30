@@ -9,7 +9,7 @@ Cabaret Voltaire is a music venue in Edinburgh listed on soundcheck. 13 upcoming
 | Date | Night | Line-up |
 | --- | --- | --- |
 | Fri, 31 Jul 2026 | EASTBOUND: Seb Zito | GALLY, HOTRIBS, Seb Zito |
-| Sat, 1 Aug 2026 | NCTRN015: Club Nocturne presents Rendezvouss |  |
+| Sat, 1 Aug 2026 | NCTRN015: Club Nocturne presents Rendezvous |  |
 | Fri, 7 Aug 2026 | FLY Fringe - Us Two [no art] - 5am Licence | Us Two |
 | Fri, 14 Aug 2026 | FLY Fringe Day + Night with Dean Turnley - 5am Licence | Dean Turnley |
 | Fri, 21 Aug 2026 | FLY Fringe Day + Night w/ MALUGI - 5am Licence | MALUGI |

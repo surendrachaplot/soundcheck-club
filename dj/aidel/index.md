@@ -1,13 +1,14 @@
 # AIDEL
 
-AIDEL is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at The Eagle of Detroit, Detroit on Sat, 8 Aug 2026.
+AIDEL is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Thu, 30 Jul 2026, next at Paramita Sound, Detroit on Fri, 31 Jul 2026.
 
-AIDEL is a techno and house artist based in United States of America, tracked on soundcheck, with 27 sets logged across Detroit. Often billed alongside Amino, Wax Assassin and we1sman. Next up: The Eagle of Detroit, Detroit on Sat 8 Aug.
+AIDEL is a techno and house artist based in United States of America, tracked on soundcheck, with 28 sets logged across Detroit. Often billed alongside Amino, Wax Assassin and we1sman. Next up: Paramita Sound, Detroit on Fri 31 Jul.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 31 Jul 2026 | Paramita Sound | Detroit |
 | Sat, 8 Aug 2026 | The Eagle of Detroit | Detroit |
 
 ## Recently played

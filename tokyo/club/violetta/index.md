@@ -1,13 +1,14 @@
 # Violetta
 
-Violetta is a music venue in Tokyo with 1 upcoming night listed on soundcheck as of Thu, 30 Jul 2026; the next is "【in the mix -FREE FORM HOUSE MUSIC-】 Collaboration with 'Violetta LiNK'" on Sun, 16 Aug 2026.
+Violetta is a music venue in Tokyo with 2 upcoming nights listed on soundcheck as of Thu, 30 Jul 2026; the next is "TOKYO × HONG KONG" on Fri, 7 Aug 2026.
 
-Violetta is a music venue in Tokyo listed on soundcheck. 1 upcoming night, with line-ups including DJ MOCHIZUKI, KAMIYA. and Masayoshi Kimura. Browse upcoming dates, start times and who's playing. B1F 3-1-9 Shibuya, Shibuya-ku, 150-0002 Tokyo.
+Violetta is a music venue in Tokyo listed on soundcheck. 2 upcoming nights, with line-ups including Blue Flower, DJ MOCHIZUKI, FT (JP) and KAMIYA. and 2 more. Browse upcoming dates, start times and who's playing. B1F 3-1-9 Shibuya, Shibuya-ku, 150-0002 Tokyo.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
+| Fri, 7 Aug 2026 | TOKYO × HONG KONG | Blue Flower, DJ MOCHIZUKI, FT (JP), Waisty |
 | Sun, 16 Aug 2026 | 【in the mix -FREE FORM HOUSE MUSIC-】 Collaboration with 'Violetta LiNK' | DJ MOCHIZUKI, KAMIYA., Masayoshi Kimura |
 
 ## Address

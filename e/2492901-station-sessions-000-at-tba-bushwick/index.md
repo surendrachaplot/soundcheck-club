@@ -1,6 +1,6 @@
 # Station Sessions: 000 at TBA - Bushwick
 
-Station Sessions: 000 at TBA - Bushwick on Fri 31 Jul, Newyorkcity. 4 acts on the bill: BLAIZE, DEE-MEE, jo_sway and Pètal. Club and Footwork. Preview the line-up and save it on soundcheck.
+Station Sessions: 000 at TBA - Bushwick on Fri 31 Jul, Newyorkcity. 4 acts on the bill: BLAIZE, DEE-MEE, jo_sway and Petal. Club and Footwork. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -13,6 +13,6 @@ Station Sessions: 000 at TBA - Bushwick on Fri 31 Jul, Newyorkcity. 4 acts on th
 - BLAIZE
 - DEE-MEE
 - jo_sway
-- Pètal
+- Petal
 
 *Source: [soundcheck](https://soundcheck.club/e/2492901-station-sessions-000-at-tba-bushwick/)*

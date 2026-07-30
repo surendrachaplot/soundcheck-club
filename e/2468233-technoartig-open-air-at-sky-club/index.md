@@ -1,6 +1,6 @@
 # TechnoARTig! Open Air at Sky Club
 
-TechnoARTig! Open Air at Sky Club on Sat 22 Aug, Leipzig. 1 act on the bill: DeGuzman. Techno. Preview the line-up and save it on soundcheck.
+TechnoARTig! Open Air at Sky Club on Sat 22 Aug, Leipzig. 1 act on the bill: DeGuzman. Techno and House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

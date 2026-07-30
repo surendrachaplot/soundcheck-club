@@ -1,8 +1,8 @@
 # Archie Hamilton
 
-Archie Hamilton is a House and Tech House artist with 10 upcoming club dates listed on soundcheck as of Thu, 30 Jul 2026, next at [UNVRS], Ibiza on Wed, 5 Aug 2026.
+Archie Hamilton is a House and Tech House artist with 12 upcoming club dates listed on soundcheck as of Thu, 30 Jul 2026, next at [UNVRS], Ibiza on Wed, 5 Aug 2026.
 
-Archie Hamilton is a house and tech house artist tracked on soundcheck, with 200 sets logged across Amsterdam, Athens, Barcelona and Basel and 43 more. Often billed alongside Jamie Jones, East End Dubs and Fleur Shore. Next up: [UNVRS], Ibiza on Wed 5 Aug.
+Archie Hamilton is a house and tech house artist tracked on soundcheck, with 202 sets logged across Amsterdam, Athens, Barcelona and Basel and 44 more. Often billed alongside Jamie Jones, East End Dubs and Prunk. Next up: [UNVRS], Ibiza on Wed 5 Aug.
 
 ## Upcoming shows
 
@@ -15,9 +15,11 @@ Archie Hamilton is a house and tech house artist tracked on soundcheck, with 200
 | Tue, 25 Aug 2026 | Amnesia Ibiza | Ibiza |
 | Sun, 30 Aug 2026 | Los Angeles State Historic Park | Los Angeles |
 | Fri, 4 Sept 2026 | 528 Ibiza | Ibiza |
+| Fri, 11 Sept 2026 | Tunnel | Milan |
 | Wed, 16 Sept 2026 | [UNVRS] | Ibiza |
 | Sat, 26 Sept 2026 | Shelter Amsterdam | Amsterdam |
 | Tue, 6 Oct 2026 | Cova Santa | Ibiza |
+| Sat, 24 Oct 2026 | Thuishaven | Amsterdam |
 
 ## Recently played
 
@@ -32,6 +34,6 @@ Archie Hamilton is a house and tech house artist tracked on soundcheck, with 200
 
 ## Shares bills with
 
-Jamie Jones, East End Dubs, Fleur Shore
+Jamie Jones, East End Dubs, Prunk
 
 *Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/archiehamilton/)*

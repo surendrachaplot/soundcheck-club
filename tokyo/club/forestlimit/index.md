@@ -1,8 +1,8 @@
 # Forestlimit
 
-Forestlimit is a music venue in Tokyo with 21 upcoming nights listed on soundcheck as of Thu, 30 Jul 2026; the next is "原野商法(八)" on Thu, 30 Jul 2026.
+Forestlimit is a music venue in Tokyo with 23 upcoming nights listed on soundcheck as of Thu, 30 Jul 2026; the next is "原野商法(八)" on Thu, 30 Jul 2026.
 
-Forestlimit is a music venue in Tokyo listed on soundcheck. 21 upcoming nights, with line-ups including ANiIIIIiiiKii, Ascalypso, Can (8) and Chad and 2 more. Browse upcoming dates, start times and who's playing. 2-8-15 B15 Hatagaya K3 Building, Shibuya-ku Hatagaya, Tokyo.
+Forestlimit is a music venue in Tokyo listed on soundcheck. 23 upcoming nights, with line-ups including ANiIIIIiiiKii, Ascalypso, Can (8) and Chad and 2 more. Browse upcoming dates, start times and who's playing. 2-8-15 B15 Hatagaya K3 Building, Shibuya-ku Hatagaya, Tokyo.
 
 ## What's on
 

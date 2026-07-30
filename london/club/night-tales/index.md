@@ -1,8 +1,8 @@
 # Night Tales
 
-Night Tales is a music venue in London with 33 upcoming nights listed on soundcheck as of Thu, 30 Jul 2026; the next is "Rinse Summer Series ft. Heartless Crew, Storm Mollison, Lady Passion + more" on Thu, 30 Jul 2026.
+Night Tales is a music venue in London with 37 upcoming nights listed on soundcheck as of Thu, 30 Jul 2026; the next is "Rinse Summer Series ft. Heartless Crew, Storm Mollison, Lady Passion + more" on Thu, 30 Jul 2026.
 
-Night Tales is a music venue in London listed on soundcheck. 33 upcoming nights, with line-ups including KT, ADMNTi, Alexia Glensy and Alex Neri and 2 more. Browse upcoming dates, start times and who's playing. 14 Bohemia Pl, London E8 1DU, United Kingdom.
+Night Tales is a music venue in London listed on soundcheck. 37 upcoming nights, with line-ups including KT, ADMNTi, Alexia Glensy and Alex Neri and 2 more. Browse upcoming dates, start times and who's playing. 14 Bohemia Pl, London E8 1DU, United Kingdom.
 
 ## What's on
 

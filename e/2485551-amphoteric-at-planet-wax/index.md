@@ -1,6 +1,6 @@
 # Amphoteric at Planet Wax
 
-Amphoteric at Planet Wax on Fri 7 Aug, London. Techno and House. Preview the line-up and save it on soundcheck.
+Amphoteric at Planet Wax on Fri 7 Aug, London. Drum & Bass and House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # TRIEBWERK Community Party / Live Acts + Art Exhibition at Humboldthain Club
 
-TRIEBWERK Community Party / Live Acts + Art Exhibition at Humboldthain Club on Fri 31 Jul, Berlin. 6 acts on the bill: elvito, KERT (DE), PHLOXO and PLUSPUNKT and 2 more. Techno. Preview the line-up and save it on soundcheck.
+TRIEBWERK Community Party / Live Acts + Art Exhibition at Humboldthain Club on Fri 31 Jul, Berlin. 7 acts on the bill: e.leptic, elvito, KERT (DE) and PHLOXO and 3 more. Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,6 +10,7 @@ TRIEBWERK Community Party / Live Acts + Art Exhibition at Humboldthain Club on F
 
 ## Line-up
 
+- e.leptic
 - elvito
 - KERT (DE)
 - PHLOXO
