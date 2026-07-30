@@ -1,6 +1,6 @@
 # Random B
 
-Random B is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at Myra, Lisbon on Fri, 31 Jul 2026.
+Random B is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at Myra, Lisbon on Fri, 31 Jul 2026.
 
 Random B is a house and techno artist tracked on soundcheck, with 21 sets logged across Berlin, Brussels, Lisbon and Madrid. Often billed alongside Carmelina, DJ Pipe and DJ Tjizza. Next up: Myra, Lisbon on Fri 31 Jul.
 
@@ -25,4 +25,4 @@ Random B is a house and techno artist tracked on soundcheck, with 21 sets logged
 
 Carmelina, DJ Pipe, DJ Tjizza
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/randomb/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/randomb/)*

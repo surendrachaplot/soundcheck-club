@@ -1,6 +1,6 @@
 # Gretchen
 
-Gretchen is a music venue in Berlin with 26 upcoming nights listed on soundcheck as of Wed, 29 Jul 2026; the next is "CELE ARRABAL at BERLIN - INTERLUDE X LA TRIBU" on Fri, 31 Jul 2026.
+Gretchen is a music venue in Berlin with 26 upcoming nights listed on soundcheck as of Thu, 30 Jul 2026; the next is "CELE ARRABAL at BERLIN - INTERLUDE X LA TRIBU" on Fri, 31 Jul 2026.
 
 Gretchen is a music venue in Berlin listed on soundcheck. 26 upcoming nights, with line-ups including Acid Arab, Allynx, DJ Krush and DRS and 2 more. Browse upcoming dates, start times and who's playing. Obentrautstr.19-21; 10963 Kreuzberg; Berlin; Germany.
 
@@ -23,4 +23,4 @@ Gretchen is a music venue in Berlin listed on soundcheck. 26 upcoming nights, wi
 
 Obentrautstr.19-21; 10963 Kreuzberg; Berlin; Germany, Berlin
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/gretchen/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/gretchen/)*

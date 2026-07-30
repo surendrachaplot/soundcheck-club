@@ -1,14 +1,13 @@
 # Enter Shibuya
 
-Enter Shibuya is a music venue in Tokyo with 14 upcoming nights listed on soundcheck as of Wed, 29 Jul 2026; the next is "VAMOS" on Wed, 29 Jul 2026.
+Enter Shibuya is a music venue in Tokyo with 14 upcoming nights listed on soundcheck as of Thu, 30 Jul 2026; the next is "Gravity Bongo" on Thu, 30 Jul 2026.
 
-Enter Shibuya is a music venue in Tokyo listed on soundcheck. 14 upcoming nights, with line-ups including 7e, AKIRAM EN, Albino Sound and AllA and 2 more. Browse upcoming dates, start times and who's playing. 6F GEMS Jingumae, 6-19-17,  Jingumae,Shibuya-ku, Tokyo 150-0001 Japan.
+Enter Shibuya is a music venue in Tokyo listed on soundcheck. 14 upcoming nights, with line-ups including 7e, AKIRAM EN, Albino Sound and COCOLY and 2 more. Browse upcoming dates, start times and who's playing. 6F GEMS Jingumae, 6-19-17,  Jingumae,Shibuya-ku, Tokyo 150-0001 Japan.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Wed, 29 Jul 2026 | VAMOS | AllA, HIBIKI |
 | Thu, 30 Jul 2026 | Gravity Bongo | DJ Moro, HW BINGO, K8 (TYO GQOM), mitokon |
 | Fri, 31 Jul 2026 | PAX PROJECT | JOMMY, MoEPiKA, Sekitova |
 | Sat, 1 Aug 2026 | FOCUS | KUNPEI, LogicBeat, Louis Shannon, MARK MILA, Rickey Shannon, SATICA |
@@ -18,9 +17,10 @@ Enter Shibuya is a music venue in Tokyo listed on soundcheck. 14 upcoming nights
 | Fri, 7 Aug 2026 | lit-ing Room -Living Room x lit Special- | DJ Quietstorm, FU (JP), JUN TANAKA, Yosuke |
 | Sat, 8 Aug 2026 | The Dreamers EP37 | Louis Shannon, Rickey Shannon |
 | Wed, 12 Aug 2026 | Denki vol.2 | Eichi Abe, Pointhope, Tui (1) |
+| Fri, 14 Aug 2026 | HIRAKE GOMA -Leefia KUMAGOYA RELEASE PARTY- | COCOLY, J.A.K.A.M., Leefia, Mamazu, michika |
 
 ## Address
 
 6F GEMS Jingumae, 6-19-17,  Jingumae,Shibuya-ku, Tokyo 150-0001 Japan, Tokyo
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/enter-shibuya/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/enter-shibuya/)*

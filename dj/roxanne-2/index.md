@@ -1,6 +1,6 @@
 # Roxanne (2)
 
-Roxanne (2) is a Techno and Club artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at Algha's Plantroom, London on Sun, 16 Aug 2026.
+Roxanne (2) is a Techno and Club artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at Algha's Plantroom, London on Sun, 16 Aug 2026.
 
 Roxanne (2) is a techno and club artist based in United Kingdom, tracked on soundcheck, with 8 sets logged across Leeds, London, Manchester and Sheffield. Often billed alongside Iyesha, NSFW (3) and C.FRIM. Next up: Algha's Plantroom, London on Sun 16 Aug.
 
@@ -24,4 +24,4 @@ Roxanne (2) is a techno and club artist based in United Kingdom, tracked on soun
 
 Iyesha, NSFW (3), C.FRIM
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/roxanne-2/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/roxanne-2/)*

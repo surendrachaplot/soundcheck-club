@@ -1,6 +1,6 @@
 # Kino Todo
 
-Kino Todo is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at Madarae San Francisco, San Francisco/Oakland on Fri, 31 Jul 2026.
+Kino Todo is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at Madarae San Francisco, San Francisco/Oakland on Fri, 31 Jul 2026.
 
 Kino Todo is a house and techno artist based in Israel, tracked on soundcheck, with 11 sets logged across Boston, Budapest, Chicago and Ibiza and 3 more. Often billed alongside Daniel Santiago, Adis Is OK and Alan Dixon. Next up: Madarae San Francisco, Sanfrancisco on Fri 31 Jul.
 
@@ -25,4 +25,4 @@ Kino Todo is a house and techno artist based in Israel, tracked on soundcheck, w
 
 Daniel Santiago, Adis Is OK, Alan Dixon
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/kinotodo/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/kinotodo/)*

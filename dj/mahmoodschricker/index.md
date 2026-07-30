@@ -1,6 +1,6 @@
 # Mahmood Schricker
 
-Mahmood Schricker is a Experimental and Dub Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at TBA - 75 Pelham Street, Toronto on Sat, 8 Aug 2026.
+Mahmood Schricker is a Experimental and Dub Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at TBA - 75 Pelham Street, Toronto on Sat, 8 Aug 2026.
 
 Mahmood Schricker is an experimental and dub techno artist based in Canada, tracked on soundcheck, with 15 sets logged across Toronto. Often billed alongside Neonlichter, Dastgamachine and MMRI. Next up: TBA - 75 Pelham Street, Toronto on Sat 8 Aug.
 
@@ -25,4 +25,4 @@ Mahmood Schricker is an experimental and dub techno artist based in Canada, trac
 
 Neonlichter, Dastgamachine, MMRI
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/mahmoodschricker/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/mahmoodschricker/)*

@@ -1,6 +1,6 @@
 # Peter Eilmes
 
-Peter Eilmes is a electronic artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at Tanzhaus West, Frankfurt on Sat, 8 Aug 2026.
+Peter Eilmes is a electronic artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at Tanzhaus West, Frankfurt on Sat, 8 Aug 2026.
 
 Peter Eilmes is an electronic artist based in Germany, tracked on soundcheck, with 6 sets logged across Frankfurt. Often billed alongside Drag & Drop, Otis and DJ 069. Next up: Tanzhaus West, Frankfurt on Sat 8 Aug.
 
@@ -22,4 +22,4 @@ Peter Eilmes is an electronic artist based in Germany, tracked on soundcheck, wi
 
 Drag & Drop, Otis, DJ 069
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/petereilmes/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/petereilmes/)*

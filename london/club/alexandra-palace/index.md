@@ -1,6 +1,6 @@
 # Alexandra Palace
 
-Alexandra Palace is a music venue in London with 3 upcoming nights listed on soundcheck as of Wed, 29 Jul 2026; the next is "ANOTR at Ally Pally" on Thu, 17 Sept 2026.
+Alexandra Palace is a music venue in London with 3 upcoming nights listed on soundcheck as of Thu, 30 Jul 2026; the next is "Labyrinth presents: ANOTR at Ally Pally" on Thu, 17 Sept 2026.
 
 Alexandra Palace is a music venue in London listed on soundcheck. 3 upcoming nights, with line-ups including Ann Clue, ANOTR and Boris Brejcha. Browse upcoming dates, start times and who's playing. Alexandra Palace Way; Alexandra Palace; London N22 7AY; United Kingdom.
 
@@ -8,12 +8,12 @@ Alexandra Palace is a music venue in London listed on soundcheck. 3 upcoming nig
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Thu, 17 Sept 2026 | ANOTR at Ally Pally | ANOTR |
-| Fri, 18 Sept 2026 | ANOTR at Ally Pally | ANOTR |
-| Sat, 19 Sept 2026 | Boris Brejcha Reflections Tour 2026 | Ann Clue, Boris Brejcha |
+| Thu, 17 Sept 2026 | Labyrinth presents: ANOTR at Ally Pally | ANOTR |
+| Fri, 18 Sept 2026 | Labyrinth presents: ANOTR at Ally Pally | ANOTR |
+| Sat, 19 Sept 2026 | Labyrinth presents: Boris Brejcha Reflections Tour 2026 | Ann Clue, Boris Brejcha |
 
 ## Address
 
 Alexandra Palace Way; Alexandra Palace; London N22 7AY; United Kingdom, London
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/london/club/alexandra-palace/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/london/club/alexandra-palace/)*

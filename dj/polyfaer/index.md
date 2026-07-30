@@ -1,6 +1,6 @@
 # Polyfaer
 
-Polyfaer is a Techno and Electro artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at Mejan, Bali on Fri, 31 Jul 2026.
+Polyfaer is a Techno and Electro artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at Mejan, Bali on Fri, 31 Jul 2026.
 
 Polyfaer is a techno and electro artist based in Russia, tracked on soundcheck, with 15 sets logged across Bali, Hongkong and Kualalumpur. Often billed alongside YOGV, Anelle and Caze (2). Next up: Mejan, Bali on Fri 31 Jul.
 
@@ -25,4 +25,4 @@ Polyfaer is a techno and electro artist based in Russia, tracked on soundcheck, 
 
 YOGV, Anelle, Caze (2)
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/polyfaer/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/polyfaer/)*

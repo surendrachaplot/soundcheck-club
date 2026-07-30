@@ -1,6 +1,6 @@
 # Dana Vicci
 
-Dana Vicci is a Techno and Ghetto Tech artist with 2 upcoming club dates listed on soundcheck as of Wed, 29 Jul 2026, next at Downsview Park, Toronto on Fri, 31 Jul 2026.
+Dana Vicci is a Techno and Ghetto Tech artist with 2 upcoming club dates listed on soundcheck as of Thu, 30 Jul 2026, next at Downsview Park, Toronto on Fri, 31 Jul 2026.
 
 Dana Vicci is a techno and ghetto tech artist based in Canada, tracked on soundcheck, with 6 sets logged across Toronto and Vancouver. Often billed alongside Above & Beyond, Armin van Buuren and Black Tiger Sex Machine. Next up: Downsview Park, Toronto on Fri 31 Jul.
 
@@ -22,4 +22,4 @@ Dana Vicci is a techno and ghetto tech artist based in Canada, tracked on soundc
 
 Above & Beyond, Armin van Buuren, Black Tiger Sex Machine
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/danavicci/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/danavicci/)*

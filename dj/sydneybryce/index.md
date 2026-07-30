@@ -1,6 +1,6 @@
 # Sydney Bryce
 
-Sydney Bryce is a Drum & Bass and Jungle artist with 3 upcoming club dates listed on soundcheck as of Wed, 29 Jul 2026, next at Hackney Wick Multiple Venues, London on Sat, 1 Aug 2026.
+Sydney Bryce is a Drum & Bass and Jungle artist with 3 upcoming club dates listed on soundcheck as of Thu, 30 Jul 2026, next at Hackney Wick Multiple Venues, London on Sat, 1 Aug 2026.
 
 Sydney Bryce is a drum & bass and jungle artist based in United Kingdom, tracked on soundcheck, with 22 sets logged across Berlin, Bristol, Edinburgh and London and 2 more. Often billed alongside Amoss, KRÆK and Minor Forms. Next up: Hackney Wick Multiple Venues, London on Sat 1 Aug.
 
@@ -27,4 +27,4 @@ Sydney Bryce is a drum & bass and jungle artist based in United Kingdom, tracked
 
 Amoss, KRÆK, Minor Forms
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/sydneybryce/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/sydneybryce/)*

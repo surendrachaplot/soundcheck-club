@@ -1,6 +1,6 @@
 # Aaiste
 
-Aaiste is a Progressive House and House artist with 2 upcoming club dates listed on soundcheck as of Wed, 29 Jul 2026, next at The Mothership, Auckland on Sat, 22 Aug 2026.
+Aaiste is a Progressive House and House artist with 2 upcoming club dates listed on soundcheck as of Thu, 30 Jul 2026, next at The Mothership, Auckland on Sat, 22 Aug 2026.
 
 Aaiste is a progressive house and house artist tracked on soundcheck, with 19 sets logged across Auckland, Melbourne and Sydney. Often billed alongside Asanga, Ben Nott and Covsky. Next up: The Mothership, Auckland on Sat 22 Aug.
 
@@ -26,4 +26,4 @@ Aaiste is a progressive house and house artist tracked on soundcheck, with 19 se
 
 Asanga, Ben Nott, Covsky
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/aaiste/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/aaiste/)*

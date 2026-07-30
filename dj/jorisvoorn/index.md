@@ -1,14 +1,13 @@
 # Joris Voorn
 
-Joris Voorn is a Techno and House artist with 11 upcoming club dates listed on soundcheck as of Wed, 29 Jul 2026, next at Amnesia Ibiza, Ibiza on Wed, 29 Jul 2026.
+Joris Voorn is a Techno and House artist with 10 upcoming club dates listed on soundcheck as of Thu, 30 Jul 2026, next at Sloterpark, Amsterdam on Sat, 8 Aug 2026.
 
-Joris Voorn is a techno and house artist tracked on soundcheck, with 184 sets logged across Amsterdam, Antwerp, Athens and Bangkok and 48 more. Often billed alongside Adam Beyer, Kevin de Vries and Artbat. Next up: Amnesia Ibiza, Ibiza on Wed 29 Jul.
+Joris Voorn is a techno and house artist tracked on soundcheck, with 184 sets logged across Amsterdam, Antwerp, Athens and Bangkok and 48 more. Often billed alongside Adam Beyer, Kevin de Vries and Artbat. Next up: Sloterpark, Amsterdam on Sat 8 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Wed, 29 Jul 2026 | Amnesia Ibiza | Ibiza |
 | Sat, 8 Aug 2026 | Sloterpark | Amsterdam |
 | Tue, 11 Aug 2026 | Obudai Island | Budapest |
 | Sat, 22 Aug 2026 | TBA - Los Angeles | Los Angeles |
@@ -22,6 +21,7 @@ Joris Voorn is a techno and house artist tracked on soundcheck, with 184 sets lo
 
 ## Recently played
 
+- Amnesia Ibiza, Ibiza — Wed, 29 Jul 2026
 - Castelo de Sesimbra, Lisbon — Fri, 17 Jul 2026
 - Lofi, Amsterdam — Sat, 27 Jun 2026
 - INPUT High Fidelity Dance Club, Barcelona — Fri, 19 Jun 2026
@@ -29,10 +29,9 @@ Joris Voorn is a techno and house artist tracked on soundcheck, with 184 sets lo
 - Stadion Legii Warszawa im. Marszałka Józefa Piłsudskiego, Warsaw — Sat, 13 Jun 2026
 - Ushuaïa Ibiza, Ibiza — Sat, 23 May 2026
 - Spaarnwoude (Deelplan Houtrak), Amsterdam — Sat, 16 May 2026
-- TBA, Mallorca — Fri, 8 May 2026
 
 ## Shares bills with
 
 Adam Beyer, Kevin de Vries, Artbat
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/jorisvoorn/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/jorisvoorn/)*

@@ -1,6 +1,6 @@
 # babybear (2)
 
-babybear (2) is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at Club Makossa, London on Sat, 1 Aug 2026.
+babybear (2) is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at Club Makossa, London on Sat, 1 Aug 2026.
 
 babybear (2) is a house and techno artist based in United Kingdom, tracked on soundcheck, with 3 sets logged across London. Often billed alongside David Beckett, Wanderer and Reeves (1). Next up: Club Makossa, London on Sat 1 Aug.
 
@@ -19,4 +19,4 @@ babybear (2) is a house and techno artist based in United Kingdom, tracked on so
 
 David Beckett, Wanderer, Reeves (1)
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/babybear-2/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/babybear-2/)*

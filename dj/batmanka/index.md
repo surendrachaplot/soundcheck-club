@@ -1,6 +1,6 @@
 # batmanka
 
-batmanka is a House and Funk / Soul artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at Refuge Worldwide / Niemetzstraße, Berlin on Thu, 30 Jul 2026.
+batmanka is a House and Funk / Soul artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at Refuge Worldwide / Niemetzstraße, Berlin on Thu, 30 Jul 2026.
 
 batmanka is a house and funk / soul artist based in Germany, tracked on soundcheck, with 10 sets logged across Berlin. Often billed alongside Anele, Ramy Hasnawe and ADAM REC.. Next up: Refuge Worldwide / Niemetzstraße, Berlin on Thu 30 Jul.
 
@@ -25,4 +25,4 @@ batmanka is a house and funk / soul artist based in Germany, tracked on soundche
 
 Anele, Ramy Hasnawe, ADAM REC.
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/batmanka/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/batmanka/)*

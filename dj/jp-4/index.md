@@ -1,6 +1,6 @@
 # JP (4)
 
-JP (4) is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at Spaarnwoude (Deelplan Houtrak), Amsterdam on Sat, 29 Aug 2026.
+JP (4) is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at Spaarnwoude (Deelplan Houtrak), Amsterdam on Sat, 29 Aug 2026.
 
 JP (4) is a house and tech house artist based in United Kingdom, tracked on soundcheck, with 26 sets logged across Amsterdam, Ghent, Liverpool and London and 5 more. Often billed alongside Alexander Koning, Erick E and Remy Unger. Next up: Spaarnwoude (Deelplan Houtrak), Amsterdam on Sat 29 Aug.
 
@@ -25,4 +25,4 @@ JP (4) is a house and tech house artist based in United Kingdom, tracked on soun
 
 Alexander Koning, Erick E, Remy Unger
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/jp-4/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/jp-4/)*

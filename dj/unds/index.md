@@ -1,6 +1,6 @@
 # unDs
 
-unDs is a Tech House and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at Bulbul Berlin, Berlin on Fri, 31 Jul 2026.
+unDs is a Tech House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at Bulbul Berlin, Berlin on Fri, 31 Jul 2026.
 
 unDs is a tech house and techno artist based in Germany, tracked on soundcheck, with 24 sets logged across Berlin. Often billed alongside Leon Licht, Fast (DE) and Kaufmann. Next up: Bulbul Berlin, Berlin on Fri 31 Jul.
 
@@ -25,4 +25,4 @@ unDs is a tech house and techno artist based in Germany, tracked on soundcheck, 
 
 Leon Licht, Fast (DE), Kaufmann
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/unds/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/unds/)*

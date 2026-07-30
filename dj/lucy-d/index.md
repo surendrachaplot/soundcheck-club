@@ -1,6 +1,6 @@
 # Lucy D
 
-Lucy D is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at Solace, Melbourne on Thu, 13 Aug 2026.
+Lucy D is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at Solace, Melbourne on Thu, 13 Aug 2026.
 
 Lucy D is a techno and house artist tracked on soundcheck, with 8 sets logged across Melbourne. Often billed alongside Craig McWhinney, Matt Radovich and ADMINISTRATOR. Next up: Solace, Melbourne on Thu 13 Aug.
 
@@ -24,4 +24,4 @@ Lucy D is a techno and house artist tracked on soundcheck, with 8 sets logged ac
 
 Craig McWhinney, Matt Radovich, ADMINISTRATOR
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/lucy-d/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/lucy-d/)*

@@ -1,8 +1,8 @@
 # Dantiez
 
-Dantiez is a House and Techno artist with 4 upcoming club dates listed on soundcheck as of Wed, 29 Jul 2026, next at TV Lounge, Detroit on Thu, 13 Aug 2026.
+Dantiez is a House and Techno artist with 5 upcoming club dates listed on soundcheck as of Thu, 30 Jul 2026, next at TV Lounge, Detroit on Thu, 13 Aug 2026.
 
-Dantiez is a house and techno artist based in United States of America, tracked on soundcheck, with 45 sets logged across Detroit, Losangeles, Miami and Montreal and 1 more. Often billed alongside Damarii Saunderson, Kevin Saunderson and The Saunderson Brothers. Next up: TV Lounge, Detroit on Thu 13 Aug.
+Dantiez is a house and techno artist based in United States of America, tracked on soundcheck, with 46 sets logged across Detroit, Losangeles, Miami and Montreal and 1 more. Often billed alongside Damarii Saunderson, Kevin Saunderson and The Saunderson Brothers. Next up: TV Lounge, Detroit on Thu 13 Aug.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Dantiez is a house and techno artist based in United States of America, tracked 
 | --- | --- | --- |
 | Thu, 13 Aug 2026 | TV Lounge | Detroit |
 | Thu, 13 Aug 2026 | Tangent Gallery | Detroit |
+| Sat, 22 Aug 2026 | TV Lounge | Detroit |
 | Fri, 11 Sept 2026 | Elektricity | Detroit |
 | Fri, 11 Sept 2026 | Elektricity | Detroit |
 
@@ -28,4 +29,4 @@ Dantiez is a house and techno artist based in United States of America, tracked 
 
 Damarii Saunderson, Kevin Saunderson, The Saunderson Brothers
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/dantiez/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/dantiez/)*

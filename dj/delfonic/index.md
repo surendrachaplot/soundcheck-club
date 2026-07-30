@@ -1,6 +1,6 @@
 # Delfonic
 
-Delfonic is a Disco and House artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at OXI, Berlin on Sat, 22 Aug 2026.
+Delfonic is a Disco and House artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at OXI, Berlin on Sat, 22 Aug 2026.
 
 Delfonic is a disco and house artist tracked on soundcheck, with 59 sets logged across Barcelona, Berlin, Cologne and Edinburgh and 7 more. Often billed alongside Kapote, Daniel Best and Andrea Dama. Next up: OXI, Berlin on Sat 22 Aug.
 
@@ -25,4 +25,4 @@ Delfonic is a disco and house artist tracked on soundcheck, with 59 sets logged 
 
 Kapote, Daniel Best, Andrea Dama
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/delfonic/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/delfonic/)*

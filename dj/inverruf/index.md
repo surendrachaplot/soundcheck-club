@@ -1,6 +1,6 @@
 # In Verruf
 
-In Verruf is a Techno and Industrial artist with 8 upcoming club dates listed on soundcheck as of Wed, 29 Jul 2026, next at Donauinsel, Vienna on Sat, 1 Aug 2026.
+In Verruf is a Techno and Industrial artist with 8 upcoming club dates listed on soundcheck as of Thu, 30 Jul 2026, next at Donauinsel, Vienna on Sat, 1 Aug 2026.
 
 In Verruf is a techno and industrial artist tracked on soundcheck, with 132 sets logged across Amsterdam, Barcelona, Basel and Belgrade and 37 more. Often billed alongside Kobosil, Somewhen and Afem Syko. Next up: Donauinsel, Vienna on Sat 1 Aug.
 
@@ -32,4 +32,4 @@ In Verruf is a techno and industrial artist tracked on soundcheck, with 132 sets
 
 Kobosil, Somewhen, Afem Syko
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/inverruf/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/inverruf/)*

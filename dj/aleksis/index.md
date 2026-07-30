@@ -1,6 +1,6 @@
 # Alek Sis
 
-Alek Sis is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at Kollage Kollectiv, Berlin on Sat, 1 Aug 2026.
+Alek Sis is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at Kollage Kollectiv, Berlin on Sat, 1 Aug 2026.
 
 Alek Sis is a techno and trance artist based in Germany, tracked on soundcheck, with 9 sets logged across Berlin and Paris. Often billed alongside Break A Leg, 131bpm and 3ple Kix. Next up: Kollage Kollectiv, Berlin on Sat 1 Aug.
 
@@ -25,4 +25,4 @@ Alek Sis is a techno and trance artist based in Germany, tracked on soundcheck, 
 
 Break A Leg, 131bpm, 3ple Kix
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/aleksis/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/aleksis/)*

@@ -1,6 +1,6 @@
 # Black Pomade
 
-Black Pomade is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at TBA - Secret Brooklyn rooftop, New York City on Sat, 8 Aug 2026.
+Black Pomade is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at TBA - Secret Brooklyn rooftop, New York City on Sat, 8 Aug 2026.
 
 Black Pomade is a house and disco artist based in Italy, tracked on soundcheck, with 94 sets logged across Bangkok, Barcelona, Berlin and Bristol and 15 more. Often billed alongside CAMILLA, Joiah and Jamaimoi. Next up: TBA - Secret Brooklyn rooftop, Newyorkcity on Sat 8 Aug.
 
@@ -25,4 +25,4 @@ Black Pomade is a house and disco artist based in Italy, tracked on soundcheck, 
 
 CAMILLA, Joiah, Jamaimoi
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/blackpomade/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/blackpomade/)*

@@ -1,6 +1,6 @@
 # Esperanza
 
-Esperanza is a House and Electro artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at Oculist, Brighton on Sun, 2 Aug 2026.
+Esperanza is a House and Electro artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at Oculist, Brighton on Sun, 2 Aug 2026.
 
 Esperanza is a house and electro artist based in Italy, tracked on soundcheck, with 2 sets logged across Brighton and London. Often billed alongside Deekline, Flakes and Konetix. Next up: Oculist, Brighton on Sun 2 Aug.
 
@@ -18,4 +18,4 @@ Esperanza is a house and electro artist based in Italy, tracked on soundcheck, w
 
 Deekline, Flakes, Konetix
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/esperanza/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/esperanza/)*

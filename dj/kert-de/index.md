@@ -1,6 +1,6 @@
 # KERT (DE)
 
-KERT (DE) is a Techno and Tech House artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at Humboldthain Club, Berlin on Fri, 31 Jul 2026.
+KERT (DE) is a Techno and Tech House artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at Humboldthain Club, Berlin on Fri, 31 Jul 2026.
 
 KERT (DE) is a techno and tech house artist based in Germany, tracked on soundcheck, with 13 sets logged across Berlin. Often billed alongside ZÖ (1), PHLOXO and elvito. Next up: Humboldthain Club, Berlin on Fri 31 Jul.
 
@@ -25,4 +25,4 @@ KERT (DE) is a techno and tech house artist based in Germany, tracked on soundch
 
 ZÖ (1), PHLOXO, elvito
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/kert-de/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/kert-de/)*

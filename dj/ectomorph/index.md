@@ -1,6 +1,6 @@
 # Ectomorph
 
-Ectomorph is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Wed, 29 Jul 2026, next at Marble Bar, Detroit on Sat, 1 Aug 2026.
+Ectomorph is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Thu, 30 Jul 2026, next at Marble Bar, Detroit on Sat, 1 Aug 2026.
 
 Ectomorph is a techno and house artist based in United States of America, tracked on soundcheck, with 13 sets logged across Berlin, Detroit, London and Rome and 2 more. Often billed alongside BMG, Erika and DJ Stingray 313. Next up: Marble Bar, Detroit on Sat 1 Aug.
 
@@ -26,4 +26,4 @@ Ectomorph is a techno and house artist based in United States of America, tracke
 
 BMG, Erika, DJ Stingray 313
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/ectomorph/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/ectomorph/)*

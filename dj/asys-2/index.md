@@ -1,6 +1,6 @@
 # A*S*Y*S (2)
 
-A*S*Y*S (2) is a Techno and Acid artist with 2 upcoming club dates listed on soundcheck as of Wed, 29 Jul 2026, next at Kilomètre25, Paris on Sat, 1 Aug 2026.
+A*S*Y*S (2) is a Techno and Acid artist with 2 upcoming club dates listed on soundcheck as of Thu, 30 Jul 2026, next at Kilomètre25, Paris on Sat, 1 Aug 2026.
 
 A*S*Y*S (2) is a techno and acid artist tracked on soundcheck, with 16 sets logged across Amsterdam, Birmingham, Cologne and Frankfurt and 7 more. Often billed alongside Bartu, Behrad Tehrani and C-Star. Next up: Kilomètre25, Paris on Sat 1 Aug.
 
@@ -26,4 +26,4 @@ A*S*Y*S (2) is a techno and acid artist tracked on soundcheck, with 16 sets logg
 
 Bartu, Behrad Tehrani, C-Star
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/asys-2/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/asys-2/)*

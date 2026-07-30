@@ -1,6 +1,6 @@
 # Boomerang Beach
 
-Boomerang Beach is a music venue in The Hague with 8 upcoming nights listed on soundcheck as of Wed, 29 Jul 2026; the next is "Rotterdam Rave Beach Sessions with Nikolina" on Sun, 2 Aug 2026.
+Boomerang Beach is a music venue in The Hague with 8 upcoming nights listed on soundcheck as of Thu, 30 Jul 2026; the next is "Rotterdam Rave Beach Sessions with Nikolina" on Sun, 2 Aug 2026.
 
 Boomerang Beach is a music venue in Thehague listed on soundcheck. 8 upcoming nights, with line-ups including Kepler, Boss Priester, CLAESSENS and Cloudy and 2 more. Browse upcoming dates, start times and who's playing. Zwarte Pad 63 2586JM Scheveningen, Zuid-Holland, Netherlands.
 
@@ -21,4 +21,4 @@ Boomerang Beach is a music venue in Thehague listed on soundcheck. 8 upcoming ni
 
 Zwarte Pad 63 2586JM Scheveningen, Zuid-Holland, Netherlands, The Hague
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/thehague/club/boomerang-beach/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/thehague/club/boomerang-beach/)*

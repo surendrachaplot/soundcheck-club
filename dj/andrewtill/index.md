@@ -1,6 +1,6 @@
 # Andrew Till
 
-Andrew Till is a Techno and Psytrance artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at My Aeon, Melbourne on Sat, 1 Aug 2026.
+Andrew Till is a Techno and Psytrance artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at My Aeon, Melbourne on Sat, 1 Aug 2026.
 
 Andrew Till is a techno and psytrance artist based in Australia, tracked on soundcheck, with 14 sets logged across Athens and Melbourne. Often billed alongside Simon Slieker, Ranjit Nijjer and Olivas. Next up: My Aeon, Melbourne on Sat 1 Aug.
 
@@ -25,4 +25,4 @@ Andrew Till is a techno and psytrance artist based in Australia, tracked on soun
 
 Simon Slieker, Ranjit Nijjer, Olivas
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/andrewtill/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/andrewtill/)*

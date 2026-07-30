@@ -1,6 +1,6 @@
 # Max Shen
 
-Max Shen is a Techno and Club artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at KitKatClub, Berlin on Fri, 11 Sept 2026.
+Max Shen is a Techno and Club artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at KitKatClub, Berlin on Fri, 11 Sept 2026.
 
 Max Shen is a techno and club artist based in China, tracked on soundcheck, with 8 sets logged across Athens, Berlin, Seoul and Shanghai and 1 more. Often billed alongside 3.14, Alma Negrot and Ana Lilia. Next up: KitKatClub, Berlin on Fri 11 Sept.
 
@@ -24,4 +24,4 @@ Max Shen is a techno and club artist based in China, tracked on soundcheck, with
 
 3.14, Alma Negrot, Ana Lilia
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/maxshen/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/maxshen/)*

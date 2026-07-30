@@ -1,6 +1,6 @@
 # Nojan
 
-Nojan is a Tech House and Reggaeton artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at XOYO, London on Wed, 5 Aug 2026.
+Nojan is a Tech House and Reggaeton artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at XOYO, London on Wed, 5 Aug 2026.
 
 Nojan is a tech house and reggaeton artist based in United Kingdom, tracked on soundcheck, with 23 sets logged across Amsterdam and London. Often billed alongside P2UYA, Juandez and Wellzee. Next up: XOYO, London on Wed 5 Aug.
 
@@ -25,4 +25,4 @@ Nojan is a tech house and reggaeton artist based in United Kingdom, tracked on s
 
 P2UYA, Juandez, Wellzee
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/nojan/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/nojan/)*

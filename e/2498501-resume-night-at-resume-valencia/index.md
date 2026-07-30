@@ -1,6 +1,6 @@
 # RESUME NIGHT at Resume Valencia
 
-RESUME NIGHT at Resume Valencia on Sat 29 Aug, Valencia. 1 act on the bill: Argenis Brito. Tech House and Electro. Preview the line-up and save it on soundcheck.
+RESUME NIGHT at Resume Valencia on Sat 29 Aug, Valencia. 2 acts on the bill: Argenis Brito and IKAKO. Tech House and Electro. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -11,5 +11,6 @@ RESUME NIGHT at Resume Valencia on Sat 29 Aug, Valencia. 1 act on the bill: Arge
 ## Line-up
 
 - Argenis Brito
+- IKAKO
 
 *Source: [soundcheck](https://soundcheck.club/e/2498501-resume-night-at-resume-valencia/)*

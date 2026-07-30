@@ -1,6 +1,6 @@
 # Rafael
 
-Rafael is a House and Tech House artist with 5 upcoming club dates listed on soundcheck as of Wed, 29 Jul 2026, next at Gestrandet An Der Jannowitzbrücke, Berlin on Fri, 14 Aug 2026.
+Rafael is a House and Tech House artist with 5 upcoming club dates listed on soundcheck as of Thu, 30 Jul 2026, next at Gestrandet An Der Jannowitzbrücke, Berlin on Fri, 14 Aug 2026.
 
 Rafael is a house and tech house artist tracked on soundcheck, with 34 sets logged across Austin, Berlin, Chicago and Dublin and 10 more. Often billed alongside Flor Coto, Szew and Jamie Jones. Next up: Gestrandet An Der Jannowitzbrücke, Berlin on Fri 14 Aug.
 
@@ -29,4 +29,4 @@ Rafael is a house and tech house artist tracked on soundcheck, with 34 sets logg
 
 Flor Coto, Szew, Jamie Jones
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/rafael/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/rafael/)*

@@ -1,6 +1,6 @@
 # h1bou
 
-h1bou is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Wed, 29 Jul 2026, next at Bar Datcha, Montreal on Thu, 30 Jul 2026.
+h1bou is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Thu, 30 Jul 2026, next at Bar Datcha, Montreal on Thu, 30 Jul 2026.
 
 h1bou is a techno and house artist based in Canada, tracked on soundcheck, with 31 sets logged across Montreal and Toronto. Often billed alongside Field Note, Dijipoune and zi!. Next up: Bar Datcha, Montreal on Thu 30 Jul.
 
@@ -26,4 +26,4 @@ h1bou is a techno and house artist based in Canada, tracked on soundcheck, with 
 
 Field Note, Dijipoune, zi!
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/h1bou/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/h1bou/)*

@@ -1,6 +1,6 @@
 # Judith van Waterkant
 
-Judith van Waterkant is a House and Downtempo artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at gART.n, Berlin on Sun, 16 Aug 2026.
+Judith van Waterkant is a House and Downtempo artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at gART.n, Berlin on Sun, 16 Aug 2026.
 
 Judith van Waterkant is a house and downtempo artist based in Germany, tracked on soundcheck, with 54 sets logged across Berlin, Cologne, Copenhagen and Hamburg and 5 more. Often billed alongside Danilo Kupfernagel, Alma Linda and ELIZEN THE EMPEROR. Next up: gART.n, Berlin on Sun 16 Aug.
 
@@ -25,4 +25,4 @@ Judith van Waterkant is a house and downtempo artist based in Germany, tracked o
 
 Danilo Kupfernagel, Alma Linda, ELIZEN THE EMPEROR
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/judithvanwaterkant/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/judithvanwaterkant/)*

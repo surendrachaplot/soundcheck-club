@@ -1,6 +1,6 @@
 # Fabich
 
-Fabich is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at Hootananny Brixton, London on Fri, 31 Jul 2026.
+Fabich is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at Hootananny Brixton, London on Fri, 31 Jul 2026.
 
 Fabich is a house and tech house artist tracked on soundcheck, with 24 sets logged across Bangkok, Ibiza, Istanbul and Lisbon and 1 more. Often billed alongside Moulin.music, Juju Manju and Moulin. Next up: Hootananny Brixton, London on Fri 31 Jul.
 
@@ -25,4 +25,4 @@ Fabich is a house and tech house artist tracked on soundcheck, with 24 sets logg
 
 Moulin.music, Juju Manju, Moulin
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/fabich/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/fabich/)*

@@ -1,6 +1,6 @@
 # newfriend
 
-newfriend is a Techno and Bass artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at TBA, Montreal on Fri, 31 Jul 2026.
+newfriend is a Techno and Bass artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at TBA, Montreal on Fri, 31 Jul 2026.
 
 newfriend is a techno and bass artist based in Canada, tracked on soundcheck, with 9 sets logged across Montreal. Often billed alongside Boomy, CrisseMarqueur and Esther Côté. Next up: TBA, Montreal on Fri 31 Jul.
 
@@ -25,4 +25,4 @@ newfriend is a techno and bass artist based in Canada, tracked on soundcheck, wi
 
 Boomy, CrisseMarqueur, Esther Côté
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/newfriend/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/newfriend/)*

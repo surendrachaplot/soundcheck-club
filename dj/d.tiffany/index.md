@@ -1,6 +1,6 @@
 # D. Tiffany
 
-D. Tiffany is a Techno and House artist with 5 upcoming club dates listed on soundcheck as of Wed, 29 Jul 2026, next at CLUB RAUM, Amsterdam on Fri, 31 Jul 2026.
+D. Tiffany is a Techno and House artist with 5 upcoming club dates listed on soundcheck as of Thu, 30 Jul 2026, next at CLUB RAUM, Amsterdam on Fri, 31 Jul 2026.
 
 D. Tiffany is a techno and house artist tracked on soundcheck, with 176 sets logged across Amsterdam, Athens, Austin and Bali and 48 more. Often billed alongside Roza Terenzi, Regularfantasy and Job Jobse. Next up: CLUB RAUM, Amsterdam on Fri 31 Jul.
 
@@ -29,4 +29,4 @@ D. Tiffany is a techno and house artist tracked on soundcheck, with 176 sets log
 
 Roza Terenzi, Regularfantasy, Job Jobse
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/d.tiffany/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/d.tiffany/)*

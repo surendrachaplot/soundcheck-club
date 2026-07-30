@@ -1,6 +1,6 @@
 # arbër
 
-arbër is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at ÆDEN, Berlin on Sun, 23 Aug 2026.
+arbër is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at ÆDEN, Berlin on Sun, 23 Aug 2026.
 
 arbër is a techno and house artist based in Germany, tracked on soundcheck, with 15 sets logged across Berlin and Zurich. Often billed alongside No Auer, GCOD and Luka (CH). Next up: ÆDEN, Berlin on Sun 23 Aug.
 
@@ -25,4 +25,4 @@ arbër is a techno and house artist based in Germany, tracked on soundcheck, wit
 
 No Auer, GCOD, Luka (CH)
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/arber/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/arber/)*

@@ -1,6 +1,6 @@
 # no service
 
-no service is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at BLITZ, Munich on Fri, 31 Jul 2026.
+no service is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at BLITZ, Munich on Fri, 31 Jul 2026.
 
 no service is a techno and house artist based in Netherlands, tracked on soundcheck, with 29 sets logged across Amsterdam, Berlin, Cologne and Dublin and 6 more. Often billed alongside Ogazón, Fadi Mohem and Victor (DE). Next up: BLITZ, Munich on Fri 31 Jul.
 
@@ -25,4 +25,4 @@ no service is a techno and house artist based in Netherlands, tracked on soundch
 
 Ogazón, Fadi Mohem, Victor (DE)
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/noservice/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/noservice/)*

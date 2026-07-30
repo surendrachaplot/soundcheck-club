@@ -1,8 +1,8 @@
 # Radio Radio
 
-Radio Radio is a music venue in Amsterdam with 12 upcoming nights listed on soundcheck as of Wed, 29 Jul 2026; the next is "ISAbella • Dee Diggs" on Fri, 31 Jul 2026.
+Radio Radio is a music venue in Amsterdam with 14 upcoming nights listed on soundcheck as of Thu, 30 Jul 2026; the next is "ISAbella • Dee Diggs" on Fri, 31 Jul 2026.
 
-Radio Radio is a music venue in Amsterdam listed on soundcheck. 12 upcoming nights, with line-ups including 36framez, Alexia Glensy, Andy Luff and Carlos Valdes and 2 more. Browse upcoming dates, start times and who's playing. Pazzanistraat 3.
+Radio Radio is a music venue in Amsterdam listed on soundcheck. 14 upcoming nights, with line-ups including 36framez, ADEZ, Alexia Glensy and Andy Luff and 2 more. Browse upcoming dates, start times and who's playing. Pazzanistraat 3.
 
 ## What's on
 
@@ -15,12 +15,12 @@ Radio Radio is a music venue in Amsterdam listed on soundcheck. 12 upcoming nigh
 | Thu, 13 Aug 2026 | FERMI presents... Dita & Ezza | DITA (ID), Jiminal (2), Meniac |
 | Fri, 14 Aug 2026 | Doudou MD • mad miran | Doudou MD, mad miran |
 | Sat, 15 Aug 2026 | Samuel Deep • Cinnaman | Cinnaman, Samuel Deep |
+| Sat, 15 Aug 2026 | Canapa-x present: 'Follow The Cat Recordings showcase' | ADEZ, Gabriele Peveri |
+| Sun, 16 Aug 2026 | Canapa-x present: 'OFFSET party by GENE' | GENE, Rolmar, Voicila Alin |
 | Wed, 19 Aug 2026 | Tokyo Underground: Avant-garde Art of the Far East |  |
-| Fri, 21 Aug 2026 | Andy Luff • Alexia Glensy | Alexia Glensy, Andy Luff |
-| Sat, 22 Aug 2026 | DJ Life • Moxes • lizz.e | DJ Life, Moxes, lizz.e |
 
 ## Address
 
 Pazzanistraat 3, Amsterdam
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/radio-radio/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/radio-radio/)*

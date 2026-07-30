@@ -1,14 +1,15 @@
 # Katarina Especial
 
-Katarina Especial is a Club and House artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at Bastet, Philadelphia on Sat, 8 Aug 2026.
+Katarina Especial is a Club and House artist with 2 upcoming club dates listed on soundcheck as of Thu, 30 Jul 2026, next at Bastet, Philadelphia on Sat, 8 Aug 2026.
 
-Katarina Especial is a club and house artist based in Portugal, tracked on soundcheck, with 27 sets logged across Newyorkcity, Philadelphia, Porto and Washingtondc. Often billed alongside Nave Mãe, Jandro and KayLaSoul. Next up: Bastet, Philadelphia on Sat 8 Aug.
+Katarina Especial is a club and house artist based in Portugal, tracked on soundcheck, with 28 sets logged across Newyorkcity, Philadelphia, Porto and Washingtondc. Often billed alongside Nave Mãe, Jandro and KayLaSoul. Next up: Bastet, Philadelphia on Sat 8 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 8 Aug 2026 | Bastet | Philadelphia |
+| Sat, 15 Aug 2026 | The Dolphin | Philadelphia |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ Katarina Especial is a club and house artist based in Portugal, tracked on sound
 
 Nave Mãe, Jandro, KayLaSoul
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/katarinaespecial/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/katarinaespecial/)*

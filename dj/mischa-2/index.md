@@ -1,6 +1,6 @@
 # Mischa (2)
 
-Mischa (2) is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at Promenaden Eck, Berlin on Sat, 1 Aug 2026.
+Mischa (2) is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at Promenaden Eck, Berlin on Sat, 1 Aug 2026.
 
 Mischa (2) is a house and disco artist based in Germany, tracked on soundcheck, with 6 sets logged across Berlin and Hamburg. Often billed alongside Navid Asadi (DE), Rafa Paella and Bailey Brown. Next up: Promenaden Eck, Berlin on Sat 1 Aug.
 
@@ -22,4 +22,4 @@ Mischa (2) is a house and disco artist based in Germany, tracked on soundcheck, 
 
 Navid Asadi (DE), Rafa Paella, Bailey Brown
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/mischa-2/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/mischa-2/)*

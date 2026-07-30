@@ -1,6 +1,6 @@
 # SaPu
 
-SaPu is a electronic artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at Golden Gate, Berlin on Sat, 1 Aug 2026.
+SaPu is a electronic artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at Golden Gate, Berlin on Sat, 1 Aug 2026.
 
 SaPu is an electronic artist based in Germany, tracked on soundcheck, with 12 sets logged across Amsterdam, Berlin and Lisbon. Often billed alongside Alex Grebe, Tripmastaz and Alessia Ceruti. Next up: Golden Gate, Berlin on Sat 1 Aug.
 
@@ -25,4 +25,4 @@ SaPu is an electronic artist based in Germany, tracked on soundcheck, with 12 se
 
 Alex Grebe, Tripmastaz, Alessia Ceruti
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/sapu/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/sapu/)*

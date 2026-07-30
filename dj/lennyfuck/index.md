@@ -1,6 +1,6 @@
 # Lenny Fuck
 
-Lenny Fuck is a Trance and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at M01, Berlin on Fri, 7 Aug 2026.
+Lenny Fuck is a Trance and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at M01, Berlin on Fri, 7 Aug 2026.
 
 Lenny Fuck is a trance and techno artist tracked on soundcheck, with 65 sets logged across Basel, Berlin, Cologne and Frankfurt and 5 more. Often billed alongside Multifun, S.3000 and Pavelo Promillo. Next up: M01, Berlin on Fri 7 Aug.
 
@@ -25,4 +25,4 @@ Lenny Fuck is a trance and techno artist tracked on soundcheck, with 65 sets log
 
 Multifun, S.3000, Pavelo Promillo
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/lennyfuck/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/lennyfuck/)*

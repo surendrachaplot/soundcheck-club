@@ -1,6 +1,6 @@
 # Alesso
 
-Alesso is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Wed, 29 Jul 2026, next at Brooklyn Army Terminal, New York City on Sat, 22 Aug 2026.
+Alesso is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Thu, 30 Jul 2026, next at Brooklyn Army Terminal, New York City on Sat, 22 Aug 2026.
 
 Alesso is a house and techno artist tracked on soundcheck, with 29 sets logged across Amsterdam, Bangkok, Brisbane and Buenosaires and 13 more. Often billed alongside The Chainsmokers, Gryffin and Steve Aoki. Next up: Brooklyn Army Terminal, Newyorkcity on Sat 22 Aug.
 
@@ -26,4 +26,4 @@ Alesso is a house and techno artist tracked on soundcheck, with 29 sets logged a
 
 The Chainsmokers, Gryffin, Steve Aoki
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/alesso/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/alesso/)*

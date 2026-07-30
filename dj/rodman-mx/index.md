@@ -1,6 +1,6 @@
 # rodman
 
-rodman is a Techno and Electronica artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at Fünk, Mexico City on Fri, 31 Jul 2026.
+rodman is a Techno and Electronica artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at Fünk, Mexico City on Fri, 31 Jul 2026.
 
 rodman is a techno and electronica artist based in Mexico, tracked on soundcheck, with 51 sets logged across Ibiza and Mexicocity. Often billed alongside Fig (DYN), IRONBOARD and Maseriche. Next up: Fünk, Mexicocity on Fri 31 Jul.
 
@@ -25,4 +25,4 @@ rodman is a techno and electronica artist based in Mexico, tracked on soundcheck
 
 Fig (DYN), IRONBOARD, Maseriche
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/rodman-mx/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/rodman-mx/)*

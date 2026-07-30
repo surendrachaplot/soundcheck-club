@@ -1,6 +1,6 @@
 # Die Rakete
 
-Die Rakete is a music venue in Nürnberg with 3 upcoming nights listed on soundcheck as of Wed, 29 Jul 2026; the next is "NASTY pres The Reason Y" on Sat, 1 Aug 2026.
+Die Rakete is a music venue in Nürnberg with 3 upcoming nights listed on soundcheck as of Thu, 30 Jul 2026; the next is "NASTY pres The Reason Y" on Sat, 1 Aug 2026.
 
 Die Rakete is a music venue in Nurnberg listed on soundcheck. 3 upcoming nights, with line-ups including Bernhard Groeger, Rishka and The Reason Y. Browse upcoming dates, start times and who's playing. Vogelweiherstraße 64, 90441 Nürnberg.
 
@@ -16,4 +16,4 @@ Die Rakete is a music venue in Nurnberg listed on soundcheck. 3 upcoming nights,
 
 Vogelweiherstraße 64, 90441 Nürnberg, Nürnberg
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/nurnberg/club/die-rakete/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/nurnberg/club/die-rakete/)*

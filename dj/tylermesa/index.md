@@ -1,6 +1,6 @@
 # Tyler Mesa
 
-Tyler Mesa is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at NWHR, Montreal on Fri, 31 Jul 2026.
+Tyler Mesa is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at NWHR, Montreal on Fri, 31 Jul 2026.
 
 Tyler Mesa is a house and deep house artist based in Canada, tracked on soundcheck, with 7 sets logged across Amsterdam and Montreal. Often billed alongside Blake Walker MTL, Cocho and Emotional Tourist. Next up: NWHR, Montreal on Fri 31 Jul.
 
@@ -23,4 +23,4 @@ Tyler Mesa is a house and deep house artist based in Canada, tracked on soundche
 
 Blake Walker MTL, Cocho, Emotional Tourist
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/tylermesa/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/tylermesa/)*

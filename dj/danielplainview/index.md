@@ -1,6 +1,6 @@
 # Daniel Plainview
 
-Daniel Plainview is a Deep House and House artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at BASIS, Utrecht on Fri, 31 Jul 2026.
+Daniel Plainview is a Deep House and House artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at BASIS, Utrecht on Fri, 31 Jul 2026.
 
 Daniel Plainview is a deep house and house artist based in Ireland, tracked on soundcheck, with 3 sets logged across Amsterdam and Utrecht. Often billed alongside Hedemann, Jssst and Leap Glos. Next up: BASIS, Utrecht on Fri 31 Jul.
 
@@ -19,4 +19,4 @@ Daniel Plainview is a deep house and house artist based in Ireland, tracked on s
 
 Hedemann, Jssst, Leap Glos
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/danielplainview/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/danielplainview/)*

@@ -1,6 +1,6 @@
 # carmen (7)
 
-carmen (7) is a Bass and Electronica artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at M.O.T, London on Sat, 1 Aug 2026.
+carmen (7) is a Bass and Electronica artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at M.O.T, London on Sat, 1 Aug 2026.
 
 carmen (7) is a bass and electronica artist tracked on soundcheck, with 6 sets logged across London. Often billed alongside Delay Grounds, Djuar and Ian DPM. Next up: M.O.T, London on Sat 1 Aug.
 
@@ -22,4 +22,4 @@ carmen (7) is a bass and electronica artist tracked on soundcheck, with 6 sets l
 
 Delay Grounds, Djuar, Ian DPM
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/carmen-7/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/carmen-7/)*

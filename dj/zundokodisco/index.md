@@ -1,6 +1,6 @@
 # ZUNDOKO DISCO
 
-ZUNDOKO DISCO is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at WOMB, Tokyo on Fri, 31 Jul 2026.
+ZUNDOKO DISCO is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at WOMB, Tokyo on Fri, 31 Jul 2026.
 
 ZUNDOKO DISCO is a techno and house artist based in Japan, tracked on soundcheck, with 25 sets logged across Osaka, Seoul and Tokyo. Often billed alongside YAMARCHY, teppei and DJ Krush. Next up: WOMB, Tokyo on Fri 31 Jul.
 
@@ -25,4 +25,4 @@ ZUNDOKO DISCO is a techno and house artist based in Japan, tracked on soundcheck
 
 YAMARCHY, teppei, DJ Krush
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/zundokodisco/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/zundokodisco/)*

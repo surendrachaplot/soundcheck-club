@@ -1,6 +1,6 @@
 # Von Rouge
 
-Von Rouge is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at Coda Club, Hamburg on Fri, 31 Jul 2026.
+Von Rouge is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at Coda Club, Hamburg on Fri, 31 Jul 2026.
 
 Von Rouge is a house and techno artist based in Germany, tracked on soundcheck, with 4 sets logged across Hamburg. Often billed alongside Majandra, Rausch & Farbe and SKADI. Next up: Coda Club, Hamburg on Fri 31 Jul.
 
@@ -20,4 +20,4 @@ Von Rouge is a house and techno artist based in Germany, tracked on soundcheck, 
 
 Majandra, Rausch & Farbe, SKADI
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/vonrouge/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/vonrouge/)*

@@ -1,6 +1,6 @@
 # ailin
 
-ailin is a Trance and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at Klunkerkranich, Berlin on Thu, 30 Jul 2026.
+ailin is a Trance and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at Klunkerkranich, Berlin on Thu, 30 Jul 2026.
 
 ailin is a trance and techno artist based in Germany, tracked on soundcheck, with 6 sets logged across Berlin. Often billed alongside Ailin Liefeldt, ARCHERY and An On Bast. Next up: Klunkerkranich, Berlin on Thu 30 Jul.
 
@@ -22,4 +22,4 @@ ailin is a trance and techno artist based in Germany, tracked on soundcheck, wit
 
 Ailin Liefeldt, ARCHERY, An On Bast
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/ailin/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/ailin/)*

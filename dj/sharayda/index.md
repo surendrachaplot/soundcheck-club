@@ -1,6 +1,6 @@
 # Sharayda
 
-Sharayda is a Bass and Garage artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at The Rose & Monkey, Manchester on Thu, 30 Jul 2026.
+Sharayda is a Bass and Garage artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at The Rose & Monkey, Manchester on Thu, 30 Jul 2026.
 
 Sharayda is a bass and garage artist tracked on soundcheck, with 14 sets logged across Manchester. Often billed alongside krioso, Javan and BANSHII. Next up: The Rose & Monkey, Manchester on Thu 30 Jul.
 
@@ -25,4 +25,4 @@ Sharayda is a bass and garage artist tracked on soundcheck, with 14 sets logged 
 
 krioso, Javan, BANSHII
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/sharayda/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/sharayda/)*

@@ -1,6 +1,6 @@
 # Justyyna
 
-Justyyna is a Club artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at Stereo, Glasgow on Sat, 15 Aug 2026.
+Justyyna is a Club artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at Stereo, Glasgow on Sat, 15 Aug 2026.
 
 Justyyna is a club artist based in United Kingdom, tracked on soundcheck, with 2 sets logged across Glasgow. Often billed alongside eurokels, Anna Barrie and Hollyamorous. Next up: Stereo, Glasgow on Sat 15 Aug.
 
@@ -18,4 +18,4 @@ Justyyna is a club artist based in United Kingdom, tracked on soundcheck, with 2
 
 eurokels, Anna Barrie, Hollyamorous
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/justyyna/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/justyyna/)*

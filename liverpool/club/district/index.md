@@ -1,6 +1,6 @@
 # District
 
-District is a music venue in Liverpool with 6 upcoming nights listed on soundcheck as of Wed, 29 Jul 2026; the next is "Threshold was Here - The reunion" on Sat, 1 Aug 2026.
+District is a music venue in Liverpool with 6 upcoming nights listed on soundcheck as of Thu, 30 Jul 2026; the next is "Threshold was Here - The reunion" on Sat, 1 Aug 2026.
 
 District is a music venue in Liverpool listed on soundcheck. 6 upcoming nights, with line-ups including Die Verletzt and Jezebel. Browse upcoming dates, start times and who's playing. 61 Jordan St, Liverpool, L1 0BW.
 
@@ -19,4 +19,4 @@ District is a music venue in Liverpool listed on soundcheck. 6 upcoming nights, 
 
 61 Jordan St, Liverpool, L1 0BW, Liverpool
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/liverpool/club/district/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/liverpool/club/district/)*

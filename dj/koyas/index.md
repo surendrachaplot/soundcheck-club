@@ -1,6 +1,6 @@
 # Koyas
 
-Koyas is a Techno and Electronica artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at Cube, Tokyo on Fri, 31 Jul 2026.
+Koyas is a Techno and Electronica artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at Cube, Tokyo on Fri, 31 Jul 2026.
 
 Koyas is a techno and electronica artist based in Japan, tracked on soundcheck, with 16 sets logged across Tokyo. Often billed alongside CD HATA, SAKURA TSURUTA and ReFuCafé. Next up: Cube, Tokyo on Fri 31 Jul.
 
@@ -25,4 +25,4 @@ Koyas is a techno and electronica artist based in Japan, tracked on soundcheck, 
 
 CD HATA, SAKURA TSURUTA, ReFuCafé
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/koyas/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/koyas/)*

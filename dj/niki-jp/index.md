@@ -1,6 +1,6 @@
 # NIKI (JP)
 
-NIKI (JP) is a Techno and Industrial artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at Z Maruyama, Tokyo on Thu, 30 Jul 2026.
+NIKI (JP) is a Techno and Industrial artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at Z Maruyama, Tokyo on Thu, 30 Jul 2026.
 
 NIKI (JP) is a techno and industrial artist based in Japan, tracked on soundcheck, with 20 sets logged across Amsterdam, Ghent and Tokyo. Often billed alongside DJ JAKE, SWAGGER and BLACK(JP). Next up: Z Maruyama, Tokyo on Thu 30 Jul.
 
@@ -25,4 +25,4 @@ NIKI (JP) is a techno and industrial artist based in Japan, tracked on soundchec
 
 DJ JAKE, SWAGGER, BLACK(JP)
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/niki-jp/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/niki-jp/)*

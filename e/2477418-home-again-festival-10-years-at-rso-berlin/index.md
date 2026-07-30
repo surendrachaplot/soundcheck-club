@@ -1,6 +1,6 @@
 # Home Again Festival - 10 Years at RSO.BERLIN
 
-Home Again Festival - 10 Years at RSO.BERLIN on Sat 12 Sept, Berlin. 34 acts on the bill: Andra, Blame Anthony, Cassy and Chris Stussy and 30 more. Techno and House. Preview the line-up and save it on soundcheck.
+Home Again Festival - 10 Years at RSO.BERLIN on Sat 12 Sept, Berlin. 34 acts on the bill: Andra, Blame Anthony, Butterhands and Cassy and 30 more. Techno and House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -12,11 +12,11 @@ Home Again Festival - 10 Years at RSO.BERLIN on Sat 12 Sept, Berlin. 34 acts on 
 
 - Andra
 - Blame Anthony
+- Butterhands
 - Cassy
 - Chris Stussy
 - Dan Ghenacia
 - Disguised
-- DJ Butterhands
 - Dj Norma
 - DJ Split
 - Eris Drew

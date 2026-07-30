@@ -1,6 +1,6 @@
 # Bruce Mennel
 
-Bruce Mennel is a Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at Secret Venue in Minatoku-Nishiazabu, Tokyo on Sat, 1 Aug 2026.
+Bruce Mennel is a Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at Secret Venue in Minatoku-Nishiazabu, Tokyo on Sat, 1 Aug 2026.
 
 Bruce Mennel is a techno artist based in Japan, tracked on soundcheck, with 1 set logged across Tokyo. Often billed alongside Anapol and YU-S-KE. Next up: Secret Venue in Minatoku-Nishiazabu, Tokyo on Sat 1 Aug.
 
@@ -14,4 +14,4 @@ Bruce Mennel is a techno artist based in Japan, tracked on soundcheck, with 1 se
 
 Anapol, YU-S-KE
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/brucemennel/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/brucemennel/)*

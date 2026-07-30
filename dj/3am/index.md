@@ -1,6 +1,6 @@
 # 3AM
 
-3AM is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at Left Bank, Tbilisi on Fri, 31 Jul 2026.
+3AM is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at Left Bank, Tbilisi on Fri, 31 Jul 2026.
 
 3AM is a techno and house artist based in Belgium, tracked on soundcheck, with 20 sets logged across Detroit, London, Losangeles and Mexicocity and 3 more. Often billed alongside BLANC MAMBA, Giorgi Pipia and KA WAI. Next up: Left Bank, Tbilisi on Fri 31 Jul.
 
@@ -25,4 +25,4 @@
 
 BLANC MAMBA, Giorgi Pipia, KA WAI
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/3am/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/3am/)*

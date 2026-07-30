@@ -1,6 +1,6 @@
 # Daria Kolosova
 
-Daria Kolosova is a Techno and House artist with 18 upcoming club dates listed on soundcheck as of Wed, 29 Jul 2026, next at Burgess Park, London on Sat, 1 Aug 2026.
+Daria Kolosova is a Techno and House artist with 18 upcoming club dates listed on soundcheck as of Thu, 30 Jul 2026, next at Burgess Park, London on Sat, 1 Aug 2026.
 
 Daria Kolosova is a techno and house artist tracked on soundcheck, with 273 sets logged across Amsterdam, Antwerp, Athens and Austin and 65 more. Often billed alongside DAX J, KlangKuenstler and Patrick Mason. Next up: Burgess Park, London on Sat 1 Aug.
 
@@ -36,4 +36,4 @@ Daria Kolosova is a techno and house artist tracked on soundcheck, with 273 sets
 
 DAX J, KlangKuenstler, Patrick Mason
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/dariakolosova/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/dariakolosova/)*

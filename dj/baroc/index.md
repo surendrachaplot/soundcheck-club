@@ -1,6 +1,6 @@
 # Baroć
 
-Baroć is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at OXI, Berlin on Sat, 8 Aug 2026.
+Baroć is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at OXI, Berlin on Sat, 8 Aug 2026.
 
 Baroć is a techno and house artist based in Turkey, tracked on soundcheck, with 12 sets logged across Berlin, Istanbul and Prague. Often billed alongside 4-i, Adam BFD and Alison Swing. Next up: OXI, Berlin on Sat 8 Aug.
 
@@ -25,4 +25,4 @@ Baroć is a techno and house artist based in Turkey, tracked on soundcheck, with
 
 4-i, Adam BFD, Alison Swing
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/baroc/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/baroc/)*

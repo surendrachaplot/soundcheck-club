@@ -1,6 +1,6 @@
 # mogli (2)
 
-mogli (2) is a electronic artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at Südbrücke, Cologne on Sat, 5 Sept 2026.
+mogli (2) is a electronic artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at Südbrücke, Cologne on Sat, 5 Sept 2026.
 
 mogli (2) is an electronic artist based in Germany, tracked on soundcheck, with 3 sets logged across Cologne and Munich. Often billed alongside Aries, Feldberg and Christian Löffler. Next up: Südbrücke, Cologne on Sat 5 Sept.
 
@@ -19,4 +19,4 @@ mogli (2) is an electronic artist based in Germany, tracked on soundcheck, with 
 
 Aries, Feldberg, Christian Löffler
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/mogli-2/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/mogli-2/)*

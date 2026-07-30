@@ -1,6 +1,6 @@
 # Mobutai
 
-Mobutai is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at Crack Bellmer, Berlin on Fri, 31 Jul 2026.
+Mobutai is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at Crack Bellmer, Berlin on Fri, 31 Jul 2026.
 
 Mobutai is a house and disco artist tracked on soundcheck, with 8 sets logged across Berlin. Often billed alongside Sciarada, Solco privato and Aidan. Next up: Crack Bellmer, Berlin on Fri 31 Jul.
 
@@ -24,4 +24,4 @@ Mobutai is a house and disco artist tracked on soundcheck, with 8 sets logged ac
 
 Sciarada, Solco privato, Aidan
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/mobutai/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/mobutai/)*

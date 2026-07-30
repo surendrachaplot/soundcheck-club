@@ -1,16 +1,15 @@
 # Algha's Plantroom
 
-Algha's Plantroom is a music venue in London with 8 upcoming nights listed on soundcheck as of Wed, 29 Jul 2026; the next is "Arca: XXXXX Listening Party with 2CPERREA" on Wed, 29 Jul 2026.
+Algha's Plantroom is a music venue in London with 7 upcoming nights listed on soundcheck as of Thu, 30 Jul 2026; the next is "RITUALS" on Sun, 9 Aug 2026.
 
-Algha's Plantroom is a music venue in London listed on soundcheck. 8 upcoming nights, with line-ups including 1000raks, Amphia, ANTIPODES and Authentically Plastic and 2 more. Browse upcoming dates, start times and who's playing. Floor 2 Algha Works, 83 Smeed Road, E3 2NR.
+Algha's Plantroom is a music venue in London listed on soundcheck. 7 upcoming nights, with line-ups including 1000raks, Amphia, ANTIPODES and Authentically Plastic and 2 more. Browse upcoming dates, start times and who's playing. Floor 2 Algha Works, 83 Smeed Road, E3 2NR.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Wed, 29 Jul 2026 | Arca: XXXXX Listening Party with 2CPERREA | JONE OF ARX, LOVECAT, MaXXXim |
 | Sun, 9 Aug 2026 | RITUALS | 1000raks, Authentically Plastic, Broodoo Ramses, GUREY, LO-LOW, Mellowdramatics, Nsasi, ODERA, Vanille, dr. Mazza, secret luvvr |
-| Sat, 15 Aug 2026 | Mask4Mask  | Amphia, FUKCNORMAL, Technoslave_69, sweetestcape |
+| Sat, 15 Aug 2026 | Mask4Mask  | Amphia, FUKCNORMAL, Nina Pixina, Oliver Scala, Technoslave_69, sweetestcape |
 | Sun, 16 Aug 2026 | Rat Party | C.FRIM, Daskaran, Iyesha, Kontronatura, NSFW (3), Nina Pixina, RRUDEGIRLLL, RayRay, Roxanne (2), dr. Mazza, softchaos |
 | Sat, 29 Aug 2026 | B Sides Yourself | Ella Fayden, Matt Pond, Maxibon (2) |
 | Sat, 12 Sept 2026 | Fragment  | ANTIPODES, CITYTRONIX, Gia Genesis, Nina Pixina, Noah Tauber, SBBS, TAHA ONE, Varanasi, WVRM POOL, dj people's princess, nohexcode |
@@ -21,4 +20,4 @@ Algha's Plantroom is a music venue in London listed on soundcheck. 8 upcoming ni
 
 Floor 2 Algha Works, 83 Smeed Road, E3 2NR, London
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/london/club/algha-s-plantroom/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/london/club/algha-s-plantroom/)*

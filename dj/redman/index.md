@@ -1,6 +1,6 @@
 # Redman
 
-Redman is a Amapiano and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at Vespers Club, London on Fri, 31 Jul 2026.
+Redman is a Amapiano and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at Vespers Club, London on Fri, 31 Jul 2026.
 
 Redman is an amapiano and techno artist based in United Kingdom, tracked on soundcheck, with 2 sets logged across London and Sydney. Often billed alongside Dexter Dooley, Francis Xavier and Santamaria. Next up: Vespers Club, London on Fri 31 Jul.
 
@@ -18,4 +18,4 @@ Redman is an amapiano and techno artist based in United Kingdom, tracked on soun
 
 Dexter Dooley, Francis Xavier, Santamaria
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/redman/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/redman/)*

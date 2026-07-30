@@ -1,6 +1,6 @@
 # CATRONICA
 
-CATRONICA is a Psytrance and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at Cave, Tokyo on Fri, 7 Aug 2026.
+CATRONICA is a Psytrance and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at Cave, Tokyo on Fri, 7 Aug 2026.
 
 CATRONICA is a psytrance and techno artist based in Japan, tracked on soundcheck, with 35 sets logged across Tokyo. Often billed alongside Kodai, Niko Silencio and BEPPU. Next up: Cave, Tokyo on Fri 7 Aug.
 
@@ -25,4 +25,4 @@ CATRONICA is a psytrance and techno artist based in Japan, tracked on soundcheck
 
 Kodai, Niko Silencio, BEPPU
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/catronica/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/catronica/)*

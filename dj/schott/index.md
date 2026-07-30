@@ -1,6 +1,6 @@
 # Schott
 
-Schott is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at Haus73, Hamburg on Fri, 31 Jul 2026.
+Schott is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at Haus73, Hamburg on Fri, 31 Jul 2026.
 
 Schott is a techno and house artist based in Germany, tracked on soundcheck, with 11 sets logged across Hamburg, Leipzig and Munich. Often billed alongside Alicea, DJ Yugo and ENERGY TAPE. Next up: Haus73, Hamburg on Fri 31 Jul.
 
@@ -25,4 +25,4 @@ Schott is a techno and house artist based in Germany, tracked on soundcheck, wit
 
 Alicea, DJ Yugo, ENERGY TAPE
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/schott/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/schott/)*

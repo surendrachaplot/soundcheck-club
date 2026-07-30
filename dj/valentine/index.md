@@ -1,6 +1,6 @@
 # Valentine
 
-Valentine is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at Elsewhere, New York City on Thu, 6 Aug 2026.
+Valentine is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at Elsewhere, New York City on Thu, 6 Aug 2026.
 
 Valentine is a house and techno artist based in Germany, tracked on soundcheck, with 4 sets logged across Lyon, Madrid and Newyorkcity. Often billed alongside Baume, Apollonia and Bellona. Next up: Elsewhere, Newyorkcity on Thu 6 Aug.
 
@@ -20,4 +20,4 @@ Valentine is a house and techno artist based in Germany, tracked on soundcheck, 
 
 Baume, Apollonia, Bellona
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/valentine/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/valentine/)*

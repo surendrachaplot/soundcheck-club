@@ -1,6 +1,6 @@
 # Rolbac
 
-Rolbac is a House and Minimal Techno artist with 2 upcoming club dates listed on soundcheck as of Wed, 29 Jul 2026, next at TBA - Istanbul ( KARAKOY,BEYOGLU ), Istanbul on Sun, 2 Aug 2026.
+Rolbac is a House and Minimal Techno artist with 2 upcoming club dates listed on soundcheck as of Thu, 30 Jul 2026, next at TBA - Istanbul ( KARAKOY,BEYOGLU ), Istanbul on Sun, 2 Aug 2026.
 
 Rolbac is a house and minimal techno artist based in Lebanon, tracked on soundcheck, with 9 sets logged across Amsterdam, Ibiza, Istanbul and Lisbon and 2 more. Often billed alongside Jade, Marino Canal and Rafael Cerato. Next up: TBA - Istanbul ( KARAKOY,BEYOGLU ), Istanbul on Sun 2 Aug.
 
@@ -25,4 +25,4 @@ Rolbac is a house and minimal techno artist based in Lebanon, tracked on soundch
 
 Jade, Marino Canal, Rafael Cerato
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/rolbac/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/rolbac/)*

@@ -1,6 +1,6 @@
 # ZANIAH
 
-ZANIAH is a Reggaeton and Bass artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at Kampnagel, Hamburg on Sat, 8 Aug 2026.
+ZANIAH is a Reggaeton and Bass artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at Kampnagel, Hamburg on Sat, 8 Aug 2026.
 
 ZANIAH is a reggaeton and bass artist based in Germany, tracked on soundcheck, with 15 sets logged across Berlin and Hamburg. Often billed alongside yung_womb, Meg10 and SLIC Unit. Next up: Kampnagel, Hamburg on Sat 8 Aug.
 
@@ -25,4 +25,4 @@ ZANIAH is a reggaeton and bass artist based in Germany, tracked on soundcheck, w
 
 yung_womb, Meg10, SLIC Unit
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/zaniah/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/zaniah/)*

@@ -1,6 +1,6 @@
 # Violante
 
-Violante is a Dub Techno and Experimental artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at TBA - Apiro, Marche IT, Milan on Thu, 30 Jul 2026.
+Violante is a Dub Techno and Experimental artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at TBA - Apiro, Marche IT, Milan on Thu, 30 Jul 2026.
 
 Violante is a dub techno and experimental artist based in Italy, tracked on soundcheck, with 2 sets logged across Milan and Warsaw. Often billed alongside Abrew, Al Paino and Amazon. Next up: TBA - Apiro, Marche IT, Milan on Thu 30 Jul.
 
@@ -18,4 +18,4 @@ Violante is a dub techno and experimental artist based in Italy, tracked on soun
 
 Abrew, Al Paino, Amazon
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/violante/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/violante/)*

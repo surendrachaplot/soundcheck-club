@@ -1,6 +1,6 @@
 # Hashman Deejay
 
-Hashman Deejay is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Wed, 29 Jul 2026, next at Homage Brewing, Los Angeles on Fri, 31 Jul 2026.
+Hashman Deejay is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Thu, 30 Jul 2026, next at Homage Brewing, Los Angeles on Fri, 31 Jul 2026.
 
 Hashman Deejay is a house and techno artist tracked on soundcheck, with 30 sets logged across Austin, Berlin, Losangeles and Melbourne and 8 more. Often billed alongside PLO Man, DJ Trystero and Ben Fester. Next up: Homage Brewing, Losangeles on Fri 31 Jul.
 
@@ -26,4 +26,4 @@ Hashman Deejay is a house and techno artist tracked on soundcheck, with 30 sets 
 
 PLO Man, DJ Trystero, Ben Fester
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/hashmandeejay/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/hashmandeejay/)*

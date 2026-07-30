@@ -1,6 +1,6 @@
 # Diana Franco
 
-Diana Franco is a Techno and Experimental artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at Domicile, Miami on Fri, 28 Aug 2026.
+Diana Franco is a Techno and Experimental artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at Domicile, Miami on Fri, 28 Aug 2026.
 
 Diana Franco is a techno and experimental artist based in United States of America, tracked on soundcheck, with 8 sets logged across Miami. Often billed alongside Low Earth Orbit, Radar and EMP. Next up: Domicile, Miami on Fri 28 Aug.
 
@@ -24,4 +24,4 @@ Diana Franco is a techno and experimental artist based in United States of Ameri
 
 Low Earth Orbit, Radar, EMP
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/dianafranco/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/dianafranco/)*

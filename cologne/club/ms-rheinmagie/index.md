@@ -1,18 +1,18 @@
 # MS RheinMagie
 
-MS RheinMagie is a music venue in Cologne with 2 upcoming nights listed on soundcheck as of Wed, 29 Jul 2026; the next is "Bootshaus on a Ship Vol. III" on Sun, 9 Aug 2026.
+MS RheinMagie is a music venue in Cologne with 2 upcoming nights listed on soundcheck as of Thu, 30 Jul 2026; the next is "Bootshaus on a Ship Vol. III" on Sun, 9 Aug 2026.
 
-MS RheinMagie is a music venue in Cologne listed on soundcheck. 2 upcoming nights. Browse upcoming dates, start times and who's playing. Konrad Adenauer Ufer 80 50688 Köln.
+MS RheinMagie is a music venue in Cologne listed on soundcheck. 2 upcoming nights, with line-ups including Danth. Browse upcoming dates, start times and who's playing. Konrad Adenauer Ufer 80 50688 Köln.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
 | Sun, 9 Aug 2026 | Bootshaus on a Ship Vol. III |  |
-| Sun, 13 Sept 2026 | Bootshaus on a Ship Vol. IV |  |
+| Sun, 13 Sept 2026 | Bootshaus on a Ship Vol. IV | Danth |
 
 ## Address
 
 Konrad Adenauer Ufer 80 50688 Köln, Cologne
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/cologne/club/ms-rheinmagie/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/cologne/club/ms-rheinmagie/)*

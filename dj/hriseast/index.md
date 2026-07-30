@@ -1,6 +1,6 @@
 # Hris East
 
-Hris East is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at Het Sieraad, Amsterdam on Fri, 31 Jul 2026.
+Hris East is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at Het Sieraad, Amsterdam on Fri, 31 Jul 2026.
 
 Hris East is a house and disco artist based in Netherlands, tracked on soundcheck, with 4 sets logged across Amsterdam. Often billed alongside Kirilski, Emma Champagne Queen and Lidia Lo. Next up: Het Sieraad, Amsterdam on Fri 31 Jul.
 
@@ -20,4 +20,4 @@ Hris East is a house and disco artist based in Netherlands, tracked on soundchec
 
 Kirilski, Emma Champagne Queen, Lidia Lo
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/hriseast/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/hriseast/)*

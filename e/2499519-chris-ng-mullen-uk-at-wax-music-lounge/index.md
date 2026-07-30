@@ -1,6 +1,6 @@
-# Chris NG • Mullen (UK) at Wax Music Lounge
+# CHRIS NG • Mullen (UK) at Wax Music Lounge
 
-Chris NG • Mullen (UK) at Wax Music Lounge on Sat 1 Aug, Melbourne. 2 acts on the bill: Chris NG and Mullen. Deep House and Funk / Soul. Preview the line-up and save it on soundcheck.
+CHRIS NG • Mullen (UK) at Wax Music Lounge on Sat 1 Aug, Melbourne. 2 acts on the bill: Chris NG and Mullen. Deep House and Funk / Soul. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

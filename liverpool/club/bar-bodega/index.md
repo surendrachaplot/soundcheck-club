@@ -1,6 +1,6 @@
 # Bar Bodega
 
-Bar Bodega is a music venue in Liverpool with 2 upcoming nights listed on soundcheck as of Wed, 29 Jul 2026; the next is "Pulse_Control Events" on Fri, 31 Jul 2026.
+Bar Bodega is a music venue in Liverpool with 2 upcoming nights listed on soundcheck as of Thu, 30 Jul 2026; the next is "Pulse_Control Events" on Fri, 31 Jul 2026.
 
 Bar Bodega is a music venue in Liverpool listed on soundcheck. 2 upcoming nights, with line-ups including Lingy. Browse upcoming dates, start times and who's playing. 14 Colquitt Street, Liverpool, L1 4DE.
 
@@ -15,4 +15,4 @@ Bar Bodega is a music venue in Liverpool listed on soundcheck. 2 upcoming nights
 
 14 Colquitt Street, Liverpool, L1 4DE, Liverpool
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/liverpool/club/bar-bodega/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/liverpool/club/bar-bodega/)*

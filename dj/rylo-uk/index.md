@@ -1,6 +1,6 @@
 # RYLO (UK)
 
-RYLO (UK) is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at Honey Street Studio, Manchester on Sat, 15 Aug 2026.
+RYLO (UK) is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at Honey Street Studio, Manchester on Sat, 15 Aug 2026.
 
 RYLO (UK) is a house and techno artist based in United Kingdom, tracked on soundcheck, with 10 sets logged across Manchester. Often billed alongside HSTN, imad:re and FXCKBOUT. Next up: Honey Street Studio, Manchester on Sat 15 Aug.
 
@@ -25,4 +25,4 @@ RYLO (UK) is a house and techno artist based in United Kingdom, tracked on sound
 
 HSTN, imad:re, FXCKBOUT
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/rylo-uk/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/rylo-uk/)*

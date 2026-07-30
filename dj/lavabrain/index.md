@@ -1,6 +1,6 @@
 # Lava Brain
 
-Lava Brain is a House and Dub Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at Dr. Dou Social Club, Barcelona on Fri, 31 Jul 2026.
+Lava Brain is a House and Dub Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at Dr. Dou Social Club, Barcelona on Fri, 31 Jul 2026.
 
 Lava Brain is a house and dub techno artist based in Australia, tracked on soundcheck, with 12 sets logged across Barcelona, Melbourne and Newyorkcity. Often billed alongside Cilla (AU), DJ Possum and Myles Mac. Next up: Dr. Dou Social Club, Barcelona on Fri 31 Jul.
 
@@ -25,4 +25,4 @@ Lava Brain is a house and dub techno artist based in Australia, tracked on sound
 
 Cilla (AU), DJ Possum, Myles Mac
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/lavabrain/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/lavabrain/)*

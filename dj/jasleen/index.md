@@ -1,6 +1,6 @@
 # Jasleen
 
-Jasleen is a House and Disco artist with 2 upcoming club dates listed on soundcheck as of Wed, 29 Jul 2026, next at Société des arts technologiques, Montreal on Fri, 31 Jul 2026.
+Jasleen is a House and Disco artist with 2 upcoming club dates listed on soundcheck as of Thu, 30 Jul 2026, next at Société des arts technologiques, Montreal on Fri, 31 Jul 2026.
 
 Jasleen is a house and disco artist tracked on soundcheck, with 6 sets logged across London, Montreal and Toronto. Often billed alongside Boogaloo Jones, CrisseMarqueur and Ellen Arkbro. Next up: Société des arts technologiques, Montreal on Fri 31 Jul.
 
@@ -22,4 +22,4 @@ Jasleen is a house and disco artist tracked on soundcheck, with 6 sets logged ac
 
 Boogaloo Jones, CrisseMarqueur, Ellen Arkbro
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/jasleen/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/jasleen/)*

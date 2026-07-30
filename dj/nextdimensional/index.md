@@ -1,6 +1,6 @@
 # nextdimensional
 
-nextdimensional is a Techno and Club artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at SILO, New York City on Thu, 30 Jul 2026.
+nextdimensional is a Techno and Club artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at SILO, New York City on Thu, 30 Jul 2026.
 
 nextdimensional is a techno and club artist based in United States of America, tracked on soundcheck, with 89 sets logged across Chicago, Montreal, Newyorkcity and Paris and 5 more. Often billed alongside HONEY B, RITCHRD and DJ CARO. Next up: SILO, Newyorkcity on Thu 30 Jul.
 
@@ -25,4 +25,4 @@ nextdimensional is a techno and club artist based in United States of America, t
 
 HONEY B, RITCHRD, DJ CARO
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/nextdimensional/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/nextdimensional/)*

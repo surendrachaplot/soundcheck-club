@@ -1,6 +1,6 @@
 # Lil Vän
 
-Lil Vän is a Disco and Italo Disco artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at 7833 Soundlab, Barcelona on Thu, 30 Jul 2026.
+Lil Vän is a Disco and Italo Disco artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at 7833 Soundlab, Barcelona on Thu, 30 Jul 2026.
 
 Lil Vän is a disco and italo disco artist tracked on soundcheck, with 15 sets logged across Barcelona, Berlin, Madrid and Marseille. Often billed alongside Billy Idle, Bizarre Billy and Budget Jones. Next up: 7833 Soundlab, Barcelona on Thu 30 Jul.
 
@@ -25,4 +25,4 @@ Lil Vän is a disco and italo disco artist tracked on soundcheck, with 15 sets l
 
 Billy Idle, Bizarre Billy, Budget Jones
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/lilvan/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/lilvan/)*

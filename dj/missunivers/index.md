@@ -1,6 +1,6 @@
 # Miss Univers
 
-Miss Univers is a Techno and Trance artist with 2 upcoming club dates listed on soundcheck as of Wed, 29 Jul 2026, next at Ankali & Planeta Za, Prague on Fri, 7 Aug 2026.
+Miss Univers is a Techno and Trance artist with 2 upcoming club dates listed on soundcheck as of Thu, 30 Jul 2026, next at Ankali & Planeta Za, Prague on Fri, 7 Aug 2026.
 
 Miss Univers is a techno and trance artist based in Czech Republic, tracked on soundcheck, with 18 sets logged across Prague. Often billed alongside domizako, Feenicks and Misha Jaru. Next up: Ankali & Planeta Za, Prague on Fri 7 Aug.
 
@@ -26,4 +26,4 @@ Miss Univers is a techno and trance artist based in Czech Republic, tracked on s
 
 domizako, Feenicks, Misha Jaru
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/missunivers/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/missunivers/)*

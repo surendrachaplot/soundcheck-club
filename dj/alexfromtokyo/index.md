@@ -1,6 +1,6 @@
 # Alex From Tokyo
 
-Alex From Tokyo is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at Bar Franca, Los Angeles on Thu, 30 Jul 2026.
+Alex From Tokyo is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at Bar Franca, Los Angeles on Thu, 30 Jul 2026.
 
 Alex From Tokyo is a house and disco artist based in France, tracked on soundcheck, with 50 sets logged across Amsterdam, Barcelona, Berlin and Cologne and 9 more. Often billed alongside Man Called Dylan, Budino and DJ Deep. Next up: Bar Franca, Losangeles on Thu 30 Jul.
 
@@ -25,4 +25,4 @@ Alex From Tokyo is a house and disco artist based in France, tracked on soundche
 
 Man Called Dylan, Budino, DJ Deep
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/alexfromtokyo/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/alexfromtokyo/)*

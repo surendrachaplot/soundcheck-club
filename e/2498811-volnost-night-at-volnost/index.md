@@ -1,6 +1,6 @@
 # Volnost Night at Volnost
 
-Volnost Night on Fri 28 Aug, Seoul. 3 acts on the bill: CHICHI (2), Knaif and mizae lim. Techno and Industrial. Preview the line-up and save it on soundcheck.
+Volnost Night on Fri 28 Aug, Seoul. 4 acts on the bill: CHICHI (2), CHICHI (KR), Knaif and mizae lim. Techno and Industrial. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -11,6 +11,7 @@ Volnost Night on Fri 28 Aug, Seoul. 3 acts on the bill: CHICHI (2), Knaif and mi
 ## Line-up
 
 - CHICHI (2)
+- CHICHI (KR)
 - Knaif
 - mizae lim
 

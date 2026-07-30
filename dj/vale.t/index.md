@@ -1,6 +1,6 @@
 # Vale.T
 
-Vale.T is a Techno and Afro House artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at TBA, Amsterdam on Sat, 29 Aug 2026.
+Vale.T is a Techno and Afro House artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at TBA, Amsterdam on Sat, 29 Aug 2026.
 
 Vale.T is a techno and afro house artist based in Netherlands, tracked on soundcheck, with 11 sets logged across Amsterdam and Berlin. Often billed alongside Caelestis, Federico Patafi and Robert De Neer. Next up: TBA, Amsterdam on Sat 29 Aug.
 
@@ -25,4 +25,4 @@ Vale.T is a techno and afro house artist based in Netherlands, tracked on soundc
 
 Caelestis, Federico Patafi, Robert De Neer
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/vale.t/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/vale.t/)*

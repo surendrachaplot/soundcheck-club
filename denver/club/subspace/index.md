@@ -1,6 +1,6 @@
 # Subspace
 
-Subspace is a music venue in Denver with 3 upcoming nights listed on soundcheck as of Wed, 29 Jul 2026; the next is "Sub-Discern" on Sat, 1 Aug 2026.
+Subspace is a music venue in Denver with 3 upcoming nights listed on soundcheck as of Thu, 30 Jul 2026; the next is "Sub-Discern" on Sat, 1 Aug 2026.
 
 Subspace is a music venue in Denver listed on soundcheck. 3 upcoming nights, with line-ups including Drumcell, Hypoxia, Mozhgan and Paradaux and 1 more. Browse upcoming dates, start times and who's playing. Denver, Colorado, USA, 80219.
 
@@ -16,4 +16,4 @@ Subspace is a music venue in Denver listed on soundcheck. 3 upcoming nights, wit
 
 Denver, Colorado, USA, 80219, Denver
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/denver/club/subspace/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/denver/club/subspace/)*

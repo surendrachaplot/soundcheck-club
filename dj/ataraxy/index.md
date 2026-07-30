@@ -1,6 +1,6 @@
 # ATARAXY
 
-ATARAXY is a Trance and House artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at Circle Park, Brussels on Sat, 1 Aug 2026.
+ATARAXY is a Trance and House artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at Circle Park, Brussels on Sat, 1 Aug 2026.
 
 ATARAXY is a trance and house artist tracked on soundcheck, with 23 sets logged across Antwerp and Brussels. Often billed alongside JEKKAMAÏ, Maëlle and bemira. Next up: Circle Park, Brussels on Sat 1 Aug.
 
@@ -25,4 +25,4 @@ ATARAXY is a trance and house artist tracked on soundcheck, with 23 sets logged 
 
 JEKKAMAÏ, Maëlle, bemira
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/ataraxy/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/ataraxy/)*

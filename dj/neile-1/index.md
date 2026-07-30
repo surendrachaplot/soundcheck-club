@@ -1,6 +1,6 @@
 # Neil E
 
-Neil E is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Wed, 29 Jul 2026, next at Angel Music Bar, Melbourne on Fri, 31 Jul 2026.
+Neil E is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Thu, 30 Jul 2026, next at Angel Music Bar, Melbourne on Fri, 31 Jul 2026.
 
 Neil E is a techno and house artist based in Australia, tracked on soundcheck, with 23 sets logged across Bangkok, Berlin, Melbourne and Sydney. Often billed alongside Billus, DJ Camov and Snad. Next up: Angel Music Bar, Melbourne on Fri 31 Jul.
 
@@ -26,4 +26,4 @@ Neil E is a techno and house artist based in Australia, tracked on soundcheck, w
 
 Billus, DJ Camov, Snad
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/neile-1/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/neile-1/)*

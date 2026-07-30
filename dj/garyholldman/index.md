@@ -1,6 +1,6 @@
 # Gary Holldman
 
-Gary Holldman is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at Smolna, Warsaw on Fri, 7 Aug 2026.
+Gary Holldman is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at Smolna, Warsaw on Fri, 7 Aug 2026.
 
 Gary Holldman is a techno and house artist based in Poland, tracked on soundcheck, with 6 sets logged across Krakow and Warsaw. Often billed alongside Kuba Sojka, D-knox and Jurek Przezdziecki. Next up: Smolna, Warsaw on Fri 7 Aug.
 
@@ -22,4 +22,4 @@ Gary Holldman is a techno and house artist based in Poland, tracked on soundchec
 
 Kuba Sojka, D-knox, Jurek Przezdziecki
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/garyholldman/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/garyholldman/)*

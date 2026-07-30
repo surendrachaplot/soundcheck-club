@@ -1,6 +1,6 @@
 # Kilo Vee
 
-Kilo Vee is a Bass and Experimental artist with 3 upcoming club dates listed on soundcheck as of Wed, 29 Jul 2026, next at Razzmatazz, Barcelona on Fri, 7 Aug 2026.
+Kilo Vee is a Bass and Experimental artist with 3 upcoming club dates listed on soundcheck as of Thu, 30 Jul 2026, next at Razzmatazz, Barcelona on Fri, 7 Aug 2026.
 
 Kilo Vee is a bass and experimental artist based in China, tracked on soundcheck, with 13 sets logged across Bangkok, Barcelona, Berlin and Hamburg and 6 more. Often billed alongside ALEX WANG, Rui Ho and 8Kitoo. Next up: Razzmatazz, Barcelona on Fri 7 Aug.
 
@@ -27,4 +27,4 @@ Kilo Vee is a bass and experimental artist based in China, tracked on soundcheck
 
 ALEX WANG, Rui Ho, 8Kitoo
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/kilovee/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/kilovee/)*

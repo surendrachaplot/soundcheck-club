@@ -1,6 +1,6 @@
-# Yu Yu × Knockout × AIFF: Conducta, Valeriana, cowntrydog at YuYu Cine Club
+# Yu Yu × Knockout × AIFF: Conducta, VALERIANA, cowntrydog at YuYu Cine Club
 
-Yu Yu × Knockout × AIFF: Conducta, Valeriana, cowntrydog at YuYu Cine Club on Sat 1 Aug, Mexicocity. 3 acts on the bill: Conducta, cowntrydog and Valeriana. Preview the line-up and save it on soundcheck.
+Yu Yu × Knockout × AIFF: Conducta, VALERIANA, cowntrydog at YuYu Cine Club on Sat 1 Aug, Mexicocity. 3 acts on the bill: Conducta, cowntrydog and Valeriana. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

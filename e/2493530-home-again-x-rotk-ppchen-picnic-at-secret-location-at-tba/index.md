@@ -1,6 +1,6 @@
 # Home Again x Rotkäppchen Picnic at Secret Location at TBA
 
-Home Again x Rotkäppchen Picnic at Secret Location at TBA on Sat 15 Aug, Berlin. 5 acts on the bill: Andra (DE), Blame Anthony, DJ Butterhands and Ian Pooley and 1 more. House. Preview the line-up and save it on soundcheck.
+Home Again x Rotkäppchen Picnic at Secret Location at TBA on Sat 15 Aug, Berlin. 5 acts on the bill: Andra (DE), Blame Anthony, Butterhands and Ian Pooley and 1 more. House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -12,7 +12,7 @@ Home Again x Rotkäppchen Picnic at Secret Location at TBA on Sat 15 Aug, Berlin
 
 - Andra (DE)
 - Blame Anthony
-- DJ Butterhands
+- Butterhands
 - Ian Pooley
 - Thabo
 

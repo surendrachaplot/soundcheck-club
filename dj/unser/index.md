@@ -1,6 +1,6 @@
 # UN/SER
 
-UN/SER is a Italo Disco and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at Phantom Bar Berlin, Berlin on Thu, 30 Jul 2026.
+UN/SER is a Italo Disco and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at Phantom Bar Berlin, Berlin on Thu, 30 Jul 2026.
 
 UN/SER is an italo disco and techno artist based in Poland, tracked on soundcheck, with 2 sets logged across Berlin. Often billed alongside A6IIR, Alinka and Berlin Bunny. Next up: Phantom Bar Berlin, Berlin on Thu 30 Jul.
 
@@ -18,4 +18,4 @@ UN/SER is an italo disco and techno artist based in Poland, tracked on soundchec
 
 A6IIR, Alinka, Berlin Bunny
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/unser/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/unser/)*

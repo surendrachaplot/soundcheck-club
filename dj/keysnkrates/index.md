@@ -1,6 +1,6 @@
 # Keys N Krates
 
-Keys N Krates is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at Standard Time, Toronto on Fri, 31 Jul 2026.
+Keys N Krates is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at Standard Time, Toronto on Fri, 31 Jul 2026.
 
 Keys N Krates is a house and disco artist based in Canada, tracked on soundcheck, with 27 sets logged across Denver, Losangeles, Lyon and Mexicocity and 5 more. Often billed alongside Pat Lok, Sabrosito and Black Daria. Next up: Standard Time, Toronto on Fri 31 Jul.
 
@@ -25,4 +25,4 @@ Keys N Krates is a house and disco artist based in Canada, tracked on soundcheck
 
 Pat Lok, Sabrosito, Black Daria
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/keysnkrates/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/keysnkrates/)*

@@ -1,6 +1,6 @@
 # Danny Goliger
 
-Danny Goliger is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at radial, London on Sat, 22 Aug 2026.
+Danny Goliger is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at radial, London on Sat, 22 Aug 2026.
 
 Danny Goliger is a techno and house artist based in United States of America, tracked on soundcheck, with 31 sets logged across Denver, London, Losangeles and Mexicocity and 3 more. Often billed alongside Farsight, Gay Felony and sysk. Next up: radial, London on Sat 22 Aug.
 
@@ -25,4 +25,4 @@ Danny Goliger is a techno and house artist based in United States of America, tr
 
 Farsight, Gay Felony, sysk
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/dannygoliger/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/dannygoliger/)*

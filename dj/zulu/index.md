@@ -1,6 +1,6 @@
 # Zulu
 
-Zulu is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at TBA - Marseille, Marseille on Fri, 7 Aug 2026.
+Zulu is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at TBA - Marseille, Marseille on Fri, 7 Aug 2026.
 
 Zulu is a techno and trance artist tracked on soundcheck, with 50 sets logged across Berlin, Hamburg, Lyon and Marseille and 3 more. Often billed alongside BNZN, Elon Bass and co:co. Next up: TBA - Marseille, Marseille on Fri 7 Aug.
 
@@ -25,4 +25,4 @@ Zulu is a techno and trance artist tracked on soundcheck, with 50 sets logged ac
 
 BNZN, Elon Bass, co:co
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/zulu/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/zulu/)*

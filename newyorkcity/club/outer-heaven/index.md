@@ -1,14 +1,13 @@
 # Outer Heaven
 
-Outer Heaven is a music venue in New York City with 19 upcoming nights listed on soundcheck as of Wed, 29 Jul 2026; the next is "Outer Heaven presents: RAAUL" on Wed, 29 Jul 2026.
+Outer Heaven is a music venue in New York City with 18 upcoming nights listed on soundcheck as of Thu, 30 Jul 2026; the next is "Pregame presents: Armii1n + Friends" on Thu, 30 Jul 2026.
 
-Outer Heaven is a music venue in Newyorkcity listed on soundcheck. 19 upcoming nights, with line-ups including Amy Jor, André Baum, Armii1n and Aurora Halal and 2 more. Browse upcoming dates, start times and who's playing. 191 Chrystie Street, New York, NY 10002.
+Outer Heaven is a music venue in Newyorkcity listed on soundcheck. 18 upcoming nights, with line-ups including Amy Jor, André Baum, Armii1n and Aurora Halal and 2 more. Browse upcoming dates, start times and who's playing. 191 Chrystie Street, New York, NY 10002.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Wed, 29 Jul 2026 | Outer Heaven presents: RAAUL | RAAUL |
 | Thu, 30 Jul 2026 | Pregame presents: Armii1n + Friends | Armii1n, CAMILLA, Tim Lucent |
 | Fri, 31 Jul 2026 | Outer Heaven presents: Jack Mulqueen b2b Zayd | Choukroun, Jack Mulqueen, Rana Iravani, Zayd |
 | Sat, 1 Aug 2026 | Outer Heaven presents: Orson | beewack |
@@ -18,9 +17,10 @@ Outer Heaven is a music venue in Newyorkcity listed on soundcheck. 19 upcoming n
 | Sat, 8 Aug 2026 | Outer Heaven presents: Amy Jor + DJ Brian | Amy Jor |
 | Wed, 12 Aug 2026 | Outer Heaven presents: RAAUL | RAAUL |
 | Thu, 13 Aug 2026 | Outer Heaven presents: Mona Matsuoka | Mona Matsuoka |
+| Fri, 14 Aug 2026 | Outer Heaven presents: Jack Mulqueen | Jack Mulqueen |
 
 ## Address
 
 191 Chrystie Street, New York, NY 10002, New York City
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/outer-heaven/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/outer-heaven/)*

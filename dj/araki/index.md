@@ -1,6 +1,6 @@
 # araki
 
-araki is a Techno and Psytrance artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at Cave, Tokyo on Sat, 1 Aug 2026.
+araki is a Techno and Psytrance artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at Cave, Tokyo on Sat, 1 Aug 2026.
 
 araki is a techno and psytrance artist based in Netherlands, tracked on soundcheck, with 3 sets logged across Tokyo. Often billed alongside BEATSEX, Beano and Da Yama. Next up: Cave, Tokyo on Sat 1 Aug.
 
@@ -19,4 +19,4 @@ araki is a techno and psytrance artist based in Netherlands, tracked on soundche
 
 BEATSEX, Beano, Da Yama
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/araki/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/araki/)*

@@ -1,8 +1,8 @@
 # EMMIE
 
-EMMIE is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Wed, 29 Jul 2026, next at radial, London on Sat, 8 Aug 2026.
+EMMIE is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Thu, 30 Jul 2026, next at radial, London on Sat, 8 Aug 2026.
 
-EMMIE is a techno and house artist based in Ireland, tracked on soundcheck, with 45 sets logged across Belfast, Berlin, Cork and Dublin and 3 more. Often billed alongside Tr One, Ayolxi and Offtrack. Next up: radial, London on Sat 8 Aug.
+EMMIE is a techno and house artist based in Ireland, tracked on soundcheck, with 46 sets logged across Belfast, Berlin, Cork and Dublin and 3 more. Often billed alongside Tr One, Ayolxi and Offtrack. Next up: radial, London on Sat 8 Aug.
 
 ## Upcoming shows
 
@@ -14,6 +14,7 @@ EMMIE is a techno and house artist based in Ireland, tracked on soundcheck, with
 
 ## Recently played
 
+- Pawn Shop, Dublin — Wed, 29 Jul 2026
 - Yamamori Tengu, Dublin — Fri, 24 Jul 2026
 - Electric Garden, Dublin — Sat, 18 Jul 2026
 - Yamamori Tengu, Dublin — Fri, 3 Jul 2026
@@ -21,10 +22,9 @@ EMMIE is a techno and house artist based in Ireland, tracked on soundcheck, with
 - The Ulster Sports Club, Belfast — Fri, 10 Apr 2026
 - Frame, Dublin — Sun, 5 Apr 2026
 - Pawn Shop, Dublin — Thu, 22 Jan 2026
-- Slane Castle, Dublin — Wed, 31 Dec 2025
 
 ## Shares bills with
 
 Tr One, Ayolxi, Offtrack
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/emmie/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/emmie/)*

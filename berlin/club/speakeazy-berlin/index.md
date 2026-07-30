@@ -1,6 +1,6 @@
 # Speakeazy Berlin
 
-Speakeazy Berlin is a music venue in Berlin with 1 upcoming night listed on soundcheck as of Wed, 29 Jul 2026; the next is "EP Release Party - Zora Kirin with Gözde and Hibana" on Sat, 15 Aug 2026.
+Speakeazy Berlin is a music venue in Berlin with 1 upcoming night listed on soundcheck as of Thu, 30 Jul 2026; the next is "EP Release Party - Zora Kirin with Gözde and Hibana" on Sat, 15 Aug 2026.
 
 Speakeazy Berlin is a music venue in Berlin listed on soundcheck. 1 upcoming night, with line-ups including Jazz (AU). Browse upcoming dates, start times and who's playing.
 
@@ -10,4 +10,4 @@ Speakeazy Berlin is a music venue in Berlin listed on soundcheck. 1 upcoming nig
 | --- | --- | --- |
 | Sat, 15 Aug 2026 | EP Release Party - Zora Kirin with Gözde and Hibana | Jazz (AU) |
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/speakeazy-berlin/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/speakeazy-berlin/)*

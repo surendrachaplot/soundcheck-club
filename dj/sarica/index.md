@@ -1,6 +1,6 @@
 # Sarica
 
-Sarica is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at Lieberscholli, Munich on Fri, 7 Aug 2026.
+Sarica is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at Lieberscholli, Munich on Fri, 7 Aug 2026.
 
 Sarica is a techno and house artist tracked on soundcheck, with 71 sets logged across Amsterdam, Belgrade, Berlin and Hongkong and 9 more. Often billed alongside RIØ (DE), Sub.Vision and Rosan. Next up: Lieberscholli, Munich on Fri 7 Aug.
 
@@ -25,4 +25,4 @@ Sarica is a techno and house artist tracked on soundcheck, with 71 sets logged a
 
 RIØ (DE), Sub.Vision, Rosan
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/sarica/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/sarica/)*

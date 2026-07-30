@@ -1,6 +1,6 @@
 # Kyle Cortis
 
-Kyle Cortis is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at Gianpula Village, Malta on Wed, 12 Aug 2026.
+Kyle Cortis is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at Gianpula Village, Malta on Wed, 12 Aug 2026.
 
 Kyle Cortis is a techno and house artist tracked on soundcheck, with 31 sets logged across Berlin, Malta and Rotterdam. Often billed alongside Human Safari, YAZMIN (MT) and Georg MT. Next up: Gianpula Village, Malta on Wed 12 Aug.
 
@@ -25,4 +25,4 @@ Kyle Cortis is a techno and house artist tracked on soundcheck, with 31 sets log
 
 Human Safari, YAZMIN (MT), Georg MT
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/kylecortis/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/kylecortis/)*

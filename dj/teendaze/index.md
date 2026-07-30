@@ -1,6 +1,6 @@
 # Teen Daze
 
-Teen Daze is a House and Balearic artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at TBA - Sidekick Brewing, Vancouver on Fri, 7 Aug 2026.
+Teen Daze is a House and Balearic artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at TBA - Sidekick Brewing, Vancouver on Fri, 7 Aug 2026.
 
 Teen Daze is a house and balearic artist based in Canada, tracked on soundcheck, with 37 sets logged across Austin, Denver, Losangeles and Montreal and 5 more. Often billed alongside Pacific Coliseum, DJ D.Dee and Kozue. Next up: TBA - Sidekick Brewing, Vancouver on Fri 7 Aug.
 
@@ -25,4 +25,4 @@ Teen Daze is a house and balearic artist based in Canada, tracked on soundcheck,
 
 Pacific Coliseum, DJ D.Dee, Kozue
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/teendaze/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/teendaze/)*

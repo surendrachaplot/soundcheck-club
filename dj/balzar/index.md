@@ -1,6 +1,6 @@
 # Balzar
 
-Balzar is a Techno and Progressive House artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at Maya Beach Experience, Naples on Sat, 1 Aug 2026.
+Balzar is a Techno and Progressive House artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at Maya Beach Experience, Naples on Sat, 1 Aug 2026.
 
 Balzar is a techno and progressive house artist based in United Kingdom, tracked on soundcheck, with 22 sets logged across Bangkok, Brussels, London and Naples and 2 more. Often billed alongside Antares (UK), Auric and STATE (GB). Next up: Maya Beach Experience, Naples on Sat 1 Aug.
 
@@ -25,4 +25,4 @@ Balzar is a techno and progressive house artist based in United Kingdom, tracked
 
 Antares (UK), Auric, STATE (GB)
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/balzar/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/balzar/)*

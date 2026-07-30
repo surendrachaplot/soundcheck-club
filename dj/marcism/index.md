@@ -1,13 +1,14 @@
 # MARCISM
 
-MARCISM is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at Button Factory, Dublin on Sat, 22 Aug 2026.
+MARCISM is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Thu, 30 Jul 2026, next at Zürich - Various Venues, Zurich on Mon, 3 Aug 2026.
 
-MARCISM is a techno and house artist tracked on soundcheck, with 80 sets logged across Amsterdam, Bangkok, Basel and Berlin and 9 more. Often billed alongside kso12, Megix and Andy Katz. Next up: Button Factory, Dublin on Sat 22 Aug.
+MARCISM is a techno and house artist tracked on soundcheck, with 81 sets logged across Amsterdam, Bangkok, Basel and Berlin and 9 more. Often billed alongside kso12, Megix and Andy Katz. Next up: Zürich - Various Venues, Zurich on Mon 3 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Mon, 3 Aug 2026 | Zürich - Various Venues | Zurich |
 | Sat, 22 Aug 2026 | Button Factory | Dublin |
 
 ## Recently played
@@ -25,4 +26,4 @@ MARCISM is a techno and house artist tracked on soundcheck, with 80 sets logged 
 
 kso12, Megix, Andy Katz
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/marcism/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/marcism/)*

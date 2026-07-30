@@ -1,6 +1,6 @@
 # Olly Brady
 
-Olly Brady is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at Starlane Pizza Bar, London on Sat, 1 Aug 2026.
+Olly Brady is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at Starlane Pizza Bar, London on Sat, 1 Aug 2026.
 
 Olly Brady is a house and tech house artist tracked on soundcheck, with 17 sets logged across London. Often billed alongside MTRG, SAM PHONIC and BOA (1). Next up: Starlane Pizza Bar, London on Sat 1 Aug.
 
@@ -25,4 +25,4 @@ Olly Brady is a house and tech house artist tracked on soundcheck, with 17 sets 
 
 MTRG, SAM PHONIC, BOA (1)
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/ollybrady/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/ollybrady/)*

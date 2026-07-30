@@ -1,6 +1,6 @@
 # Kesh (1)
 
-Kesh (1) is a Minimal and House artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at TBA, London on Sat, 1 Aug 2026.
+Kesh (1) is a Minimal and House artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at TBA, London on Sat, 1 Aug 2026.
 
 Kesh (1) is a minimal and house artist tracked on soundcheck, with 79 sets logged across Bristol, Dusseldorf, Frankfurt and Ibiza and 7 more. Often billed alongside LUUD, Myriam and Ludgero Costa. Next up: TBA, London on Sat 1 Aug.
 
@@ -25,4 +25,4 @@ Kesh (1) is a minimal and house artist tracked on soundcheck, with 79 sets logge
 
 LUUD, Myriam, Ludgero Costa
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/kesh-1/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/kesh-1/)*

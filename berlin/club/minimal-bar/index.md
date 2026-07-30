@@ -1,14 +1,13 @@
 # Minimal Bar
 
-Minimal Bar is a music venue in Berlin with 73 upcoming nights listed on soundcheck as of Wed, 29 Jul 2026; the next is "mittendrin mit Gaamer" on Wed, 29 Jul 2026.
+Minimal Bar is a music venue in Berlin with 76 upcoming nights listed on soundcheck as of Thu, 30 Jul 2026; the next is "electronic.thursday mit Pablo Cornejo (Chile)" on Thu, 30 Jul 2026.
 
-Minimal Bar is a music venue in Berlin listed on soundcheck. 73 upcoming nights, with line-ups including Andi de Luxe, Beta Basti, Bin Okin and CEEE and 2 more. Browse upcoming dates, start times and who's playing. Rigaer Strasse 31; Friedrichshain; 10247 Berlin; Germany.
+Minimal Bar is a music venue in Berlin listed on soundcheck. 76 upcoming nights, with line-ups including Andi de Luxe, Beta Basti, Bin Okin and CEEE and 2 more. Browse upcoming dates, start times and who's playing. Rigaer Strasse 31; Friedrichshain; 10247 Berlin; Germany.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Wed, 29 Jul 2026 | mittendrin mit Gaamer | Gaamer |
 | Thu, 30 Jul 2026 | electronic.thursday mit Pablo Cornejo (Chile) | Pablo Cornejo |
 | Fri, 31 Jul 2026 | friends.zone mit Sciarada & freunde | Sciarada |
 | Sat, 1 Aug 2026 | sturmfrei mit Mario Lauriano and friends | Mario Lauriano, friend |
@@ -18,9 +17,10 @@ Minimal Bar is a music venue in Berlin listed on soundcheck. 73 upcoming nights,
 | Thu, 6 Aug 2026 | electronic.thursday mit Pablo Cornejo (Chile) | Pablo Cornejo |
 | Fri, 7 Aug 2026 | BEATHEIM night with Bruno Otranto & Friends |  |
 | Sat, 8 Aug 2026 | DAZA & freunde | DAZA |
+| Sun, 9 Aug 2026 | lazy.sunday mit Flip Marlou | Flip Marlou |
 
 ## Address
 
 Rigaer Strasse 31; Friedrichshain; 10247 Berlin; Germany, Berlin
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/minimal-bar/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/minimal-bar/)*

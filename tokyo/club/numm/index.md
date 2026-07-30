@@ -1,14 +1,13 @@
 # Numm
 
-Numm is a music venue in Tokyo with 5 upcoming nights listed on soundcheck as of Wed, 29 Jul 2026; the next is "REDEMPTION" on Wed, 29 Jul 2026.
+Numm is a music venue in Tokyo with 4 upcoming nights listed on soundcheck as of Thu, 30 Jul 2026; the next is "ON YOUR SIDE" on Thu, 30 Jul 2026.
 
-Numm is a music venue in Tokyo listed on soundcheck. 5 upcoming nights, with line-ups including Calm, Camacho, Dazzle Drums and DNG (1) and 2 more. Browse upcoming dates, start times and who's playing. B1F AiiA ANEX bld 2-9-13 Shibuya, Shibuya-ku, Tokyo-to 150-0002 Japan.
+Numm is a music venue in Tokyo listed on soundcheck. 4 upcoming nights, with line-ups including Calm, Camacho, Dazzle Drums and DNG (1) and 2 more. Browse upcoming dates, start times and who's playing. B1F AiiA ANEX bld 2-9-13 Shibuya, Shibuya-ku, Tokyo-to 150-0002 Japan.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Wed, 29 Jul 2026 | REDEMPTION | TAT2K |
 | Thu, 30 Jul 2026 | ON YOUR SIDE | Camacho, Gara |
 | Fri, 31 Jul 2026 | Numm 2th Anniversary party DAY 1 | Kitano, TOYO |
 | Sat, 1 Aug 2026 | Numm 2th Anniversary party DAY 2 | Calm, DNG (1), Kaoru Inoue, TAT2K |
@@ -18,4 +17,4 @@ Numm is a music venue in Tokyo listed on soundcheck. 5 upcoming nights, with lin
 
 B1F AiiA ANEX bld 2-9-13 Shibuya, Shibuya-ku, Tokyo-to 150-0002 Japan, Tokyo
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/numm/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/numm/)*

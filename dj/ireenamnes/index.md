@@ -1,6 +1,6 @@
 # Ireen Amnes
 
-Ireen Amnes is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at Ormside Projects, London on Fri, 31 Jul 2026.
+Ireen Amnes is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at Ormside Projects, London on Fri, 31 Jul 2026.
 
 Ireen Amnes is a techno and house artist tracked on soundcheck, with 68 sets logged across Amsterdam, Athens, Berlin and Bristol and 10 more. Often billed alongside Faux Naif, Infinity Division and Key Clef. Next up: Ormside Projects, London on Fri 31 Jul.
 
@@ -25,4 +25,4 @@ Ireen Amnes is a techno and house artist tracked on soundcheck, with 68 sets log
 
 Faux Naif, Infinity Division, Key Clef
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/ireenamnes/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/ireenamnes/)*

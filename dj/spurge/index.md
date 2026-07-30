@@ -1,6 +1,6 @@
 # Spurge
 
-Spurge is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at TBA - 264 Himrod St 11237, New York City on Sun, 2 Aug 2026.
+Spurge is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at TBA - 264 Himrod St 11237, New York City on Sun, 2 Aug 2026.
 
 Spurge is a house and techno artist based in United States of America, tracked on soundcheck, with 37 sets logged across Bangkok, Losangeles, Newyorkcity and Singapore and 1 more. Often billed alongside Marco Weibel, Noah Prebish and 1morning. Next up: TBA - 264 Himrod St 11237, Newyorkcity on Sun 2 Aug.
 
@@ -25,4 +25,4 @@ Spurge is a house and techno artist based in United States of America, tracked o
 
 Marco Weibel, Noah Prebish, 1morning
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/spurge/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/spurge/)*

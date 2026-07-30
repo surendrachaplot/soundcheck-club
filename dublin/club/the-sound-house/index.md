@@ -1,6 +1,6 @@
 # The Sound House
 
-The Sound House is a music venue in Dublin with 7 upcoming nights listed on soundcheck as of Wed, 29 Jul 2026; the next is "Fuze Events - The Sound House" on Thu, 30 Jul 2026.
+The Sound House is a music venue in Dublin with 7 upcoming nights listed on soundcheck as of Thu, 30 Jul 2026; the next is "Fuze Events - The Sound House" on Thu, 30 Jul 2026.
 
 The Sound House is a music venue in Dublin listed on soundcheck. 7 upcoming nights, with line-ups including ALPER SKR, Bláthnaid, Cody Wong and Girls of the Internet and 2 more. Browse upcoming dates, start times and who's playing. 28 Eden Quay, Dublin, Ireland..
 
@@ -20,4 +20,4 @@ The Sound House is a music venue in Dublin listed on soundcheck. 7 upcoming nigh
 
 28 Eden Quay, Dublin, Ireland., Dublin
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dublin/club/the-sound-house/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dublin/club/the-sound-house/)*

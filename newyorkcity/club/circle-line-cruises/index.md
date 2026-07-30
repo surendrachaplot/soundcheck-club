@@ -1,6 +1,6 @@
 # Circle Line Cruises
 
-Circle Line Cruises is a music venue in New York City with 4 upcoming nights listed on soundcheck as of Wed, 29 Jul 2026; the next is "Zero presents: The Dusty Boat with ELIF" on Sat, 15 Aug 2026.
+Circle Line Cruises is a music venue in New York City with 4 upcoming nights listed on soundcheck as of Thu, 30 Jul 2026; the next is "Zero presents: The Dusty Boat with ELIF" on Sat, 15 Aug 2026.
 
 Circle Line Cruises is a music venue in Newyorkcity listed on soundcheck. 4 upcoming nights, with line-ups including C.M.A., Danny Krivit, ELIF and Joe Claussell and 2 more. Browse upcoming dates, start times and who's playing. West 42nd Street; New York, NY 10011; United States.
 
@@ -17,4 +17,4 @@ Circle Line Cruises is a music venue in Newyorkcity listed on soundcheck. 4 upco
 
 West 42nd Street; New York, NY 10011; United States, New York City
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/circle-line-cruises/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/circle-line-cruises/)*

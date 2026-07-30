@@ -1,6 +1,6 @@
 # Dmitra
 
-Dmitra is a Bass and Electro artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at TBA - Chausseestraße 131A, 10115 Berlin, Berlin on Fri, 31 Jul 2026.
+Dmitra is a Bass and Electro artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at TBA - Chausseestraße 131A, 10115 Berlin, Berlin on Fri, 31 Jul 2026.
 
 Dmitra is a bass and electro artist based in United States of America, tracked on soundcheck, with 45 sets logged across Amsterdam, Bangkok, Berlin and Brussels and 3 more. Often billed alongside soraya (DE), REBE and griefeater. Next up: TBA - Chausseestraße 131A, 10115 Berlin, Berlin on Fri 31 Jul.
 
@@ -25,4 +25,4 @@ Dmitra is a bass and electro artist based in United States of America, tracked o
 
 soraya (DE), REBE, griefeater
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/dmitra/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/dmitra/)*

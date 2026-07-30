@@ -1,6 +1,6 @@
 # Filibration
 
-Filibration is a Drum & Bass and Dubstep artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at Let it Roll Festival @Lake Most, Prague on Fri, 31 Jul 2026.
+Filibration is a Drum & Bass and Dubstep artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at Let it Roll Festival @Lake Most, Prague on Fri, 31 Jul 2026.
 
 Filibration is a drum & bass and dubstep artist based in Germany, tracked on soundcheck, with 3 sets logged across Cologne, Dusseldorf and Prague. Often billed alongside Gourski, BBK and Badlokk. Next up: Let it Roll Festival @Lake Most, Prague on Fri 31 Jul.
 
@@ -19,4 +19,4 @@ Filibration is a drum & bass and dubstep artist based in Germany, tracked on sou
 
 Gourski, BBK, Badlokk
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/filibration/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/filibration/)*

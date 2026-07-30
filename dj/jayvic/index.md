@@ -1,6 +1,6 @@
 # Jay Vic
 
-Jay Vic is a House and Afro House artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at The Onyx Room at House of Yes, New York City on Fri, 31 Jul 2026.
+Jay Vic is a House and Afro House artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at The Onyx Room at House of Yes, New York City on Fri, 31 Jul 2026.
 
 Jay Vic is a house and afro house artist based in United States of America, tracked on soundcheck, with 17 sets logged across Miami and Newyorkcity. Often billed alongside Anthony Romano, LEFTI and Eli Fola. Next up: The Onyx Room at House of Yes, Newyorkcity on Fri 31 Jul.
 
@@ -25,4 +25,4 @@ Jay Vic is a house and afro house artist based in United States of America, trac
 
 Anthony Romano, LEFTI, Eli Fola
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/jayvic/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/jayvic/)*

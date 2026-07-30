@@ -1,6 +1,6 @@
 # D1 x Samir (DVS)
 
-D1 x Samir (DVS) is a Tech House and House artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at fabric, London on Sun, 2 Aug 2026.
+D1 x Samir (DVS) is a Tech House and House artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at fabric, London on Sun, 2 Aug 2026.
 
 D1 x Samir (DVS) are a tech house and house duo tracked on soundcheck, with 19 sets logged across London. Often billed alongside Samir (DVS), Billa Bazz and Azire. Next up: fabric, London on Sun 2 Aug.
 
@@ -25,4 +25,4 @@ D1 x Samir (DVS) are a tech house and house duo tracked on soundcheck, with 19 s
 
 Samir (DVS), Billa Bazz, Azire
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/d1xsamirdvs/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/d1xsamirdvs/)*

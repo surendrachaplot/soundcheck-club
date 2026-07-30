@@ -1,6 +1,6 @@
 # Cassia
 
-Cassia is a House and Deep House artist with 2 upcoming club dates listed on soundcheck as of Wed, 29 Jul 2026, next at TBA - DC, Washington DC on Fri, 31 Jul 2026.
+Cassia is a House and Deep House artist with 2 upcoming club dates listed on soundcheck as of Thu, 30 Jul 2026, next at TBA - DC, Washington DC on Fri, 31 Jul 2026.
 
 Cassia is a house and deep house artist tracked on soundcheck, with 62 sets logged across Budapest, Hamburg, Leipzig and London and 3 more. Often billed alongside SPCL.K, Cloud Ary and DURFY. Next up: TBA - DC, Washingtondc on Fri 31 Jul.
 
@@ -26,4 +26,4 @@ Cassia is a house and deep house artist tracked on soundcheck, with 62 sets logg
 
 SPCL.K, Cloud Ary, DURFY
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/cassia/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/cassia/)*

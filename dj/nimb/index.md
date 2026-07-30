@@ -1,6 +1,6 @@
 # Nimb
 
-Nimb is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at Renate, Berlin on Fri, 31 Jul 2026.
+Nimb is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at Renate, Berlin on Fri, 31 Jul 2026.
 
 Nimb is a techno and house artist based in Austria, tracked on soundcheck, with 9 sets logged across Berlin, Leipzig, Vienna and Warsaw. Often billed alongside Jewels., Eliza (2) and Flœr. Next up: Renate, Berlin on Fri 31 Jul.
 
@@ -25,4 +25,4 @@ Nimb is a techno and house artist based in Austria, tracked on soundcheck, with 
 
 Jewels., Eliza (2), Flœr
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/nimb/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/nimb/)*

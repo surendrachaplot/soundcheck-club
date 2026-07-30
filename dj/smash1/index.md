@@ -1,6 +1,6 @@
 # s:mash
 
-s:mash is a Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at OXI, Berlin on Thu, 30 Jul 2026.
+s:mash is a Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at OXI, Berlin on Thu, 30 Jul 2026.
 
 s:mash is a techno artist tracked on soundcheck, with 9 sets logged across Berlin. Often billed alongside Dave Mech, Jasmin Giovanazzi and Mattone. Next up: OXI, Berlin on Thu 30 Jul.
 
@@ -25,4 +25,4 @@ s:mash is a techno artist tracked on soundcheck, with 9 sets logged across Berli
 
 Dave Mech, Jasmin Giovanazzi, Mattone
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/smash1/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/smash1/)*

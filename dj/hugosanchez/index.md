@@ -1,6 +1,6 @@
 # Hugo Sanchez
 
-Hugo Sanchez is a Experimental and Downtempo artist with 2 upcoming club dates listed on soundcheck as of Wed, 29 Jul 2026, next at TBA - Apiro, Marche IT, Milan on Thu, 30 Jul 2026.
+Hugo Sanchez is a Experimental and Downtempo artist with 2 upcoming club dates listed on soundcheck as of Thu, 30 Jul 2026, next at TBA - Apiro, Marche IT, Milan on Thu, 30 Jul 2026.
 
 Hugo Sanchez is an experimental and downtempo artist based in Italy, tracked on soundcheck, with 34 sets logged across Milan and Rome. Often billed alongside Simona Beat, Vladimir Ivkovic and Bluemarina. Next up: TBA - Apiro, Marche IT, Milan on Thu 30 Jul.
 
@@ -26,4 +26,4 @@ Hugo Sanchez is an experimental and downtempo artist based in Italy, tracked on 
 
 Simona Beat, Vladimir Ivkovic, Bluemarina
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/hugosanchez/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/hugosanchez/)*

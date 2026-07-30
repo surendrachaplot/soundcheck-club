@@ -1,6 +1,6 @@
 # Wuss
 
-Wuss is a House and Club artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at Tendance, Prague on Fri, 31 Jul 2026.
+Wuss is a House and Club artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at Tendance, Prague on Fri, 31 Jul 2026.
 
 Wuss is a house and club artist based in Slovakia, tracked on soundcheck, with 36 sets logged across Prague. Often billed alongside duboisi, Kirill Astra and DJ Zurückbleiben Bitte. Next up: Tendance, Prague on Fri 31 Jul.
 
@@ -25,4 +25,4 @@ Wuss is a house and club artist based in Slovakia, tracked on soundcheck, with 3
 
 duboisi, Kirill Astra, DJ Zurückbleiben Bitte
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/wuss/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/wuss/)*

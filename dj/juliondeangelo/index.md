@@ -1,6 +1,6 @@
 # Julion De'Angelo
 
-Julion De'Angelo is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at public records, New York City on Sat, 1 Aug 2026.
+Julion De'Angelo is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at public records, New York City on Sat, 1 Aug 2026.
 
 Julion De'Angelo is a house and techno artist based in United States of America, tracked on soundcheck, with 49 sets logged across Amsterdam, Berlin, Chicago and Copenhagen and 5 more. Often billed alongside Meftah, Whodat and Deon Jamar. Next up: public records, Newyorkcity on Sat 1 Aug.
 
@@ -25,4 +25,4 @@ Julion De'Angelo is a house and techno artist based in United States of America,
 
 Meftah, Whodat, Deon Jamar
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/juliondeangelo/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/juliondeangelo/)*

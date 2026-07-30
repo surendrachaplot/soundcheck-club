@@ -1,6 +1,6 @@
 # Ecke & Hugo
 
-Ecke & Hugo is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at ://about blank, Berlin on Sat, 15 Aug 2026.
+Ecke & Hugo is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at ://about blank, Berlin on Sat, 15 Aug 2026.
 
 Ecke & Hugo are a techno and house duo based in Germany, tracked on soundcheck, with 15 sets logged across Berlin and Lisbon. Often billed alongside Tatse, Nein oh Nein and Pavelo Promillo. Next up: ://about blank, Berlin on Sat 15 Aug.
 
@@ -25,4 +25,4 @@ Ecke & Hugo are a techno and house duo based in Germany, tracked on soundcheck, 
 
 Tatse, Nein oh Nein, Pavelo Promillo
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/eckehugo/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/eckehugo/)*

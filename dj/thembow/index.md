@@ -1,6 +1,6 @@
 # thembow
 
-thembow is a Club and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at Nowadays, New York City on Thu, 30 Jul 2026.
+thembow is a Club and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at Nowadays, New York City on Thu, 30 Jul 2026.
 
 thembow is a club and techno artist based in Dominican Republic, tracked on soundcheck, with 13 sets logged across Newyorkcity. Often billed alongside Caín Lima, Feonix (2) and ANNA PURA. Next up: Nowadays, Newyorkcity on Thu 30 Jul.
 
@@ -25,4 +25,4 @@ thembow is a club and techno artist based in Dominican Republic, tracked on soun
 
 Caín Lima, Feonix (2), ANNA PURA
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/thembow/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/thembow/)*

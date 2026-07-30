@@ -1,6 +1,6 @@
 # Syd (2)
 
-Syd (2) is a Bass and Electro artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at Lincoln Factory, Detroit on Fri, 31 Jul 2026.
+Syd (2) is a Bass and Electro artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at Lincoln Factory, Detroit on Fri, 31 Jul 2026.
 
 Syd (2) is a bass and electro artist based in United States of America, tracked on soundcheck, with 5 sets logged across Detroit and Newyorkcity. Often billed alongside AG (1), DJ Assault and DJ Godfather. Next up: Lincoln Factory, Detroit on Fri 31 Jul.
 
@@ -21,4 +21,4 @@ Syd (2) is a bass and electro artist based in United States of America, tracked 
 
 AG (1), DJ Assault, DJ Godfather
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/syd-2/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/syd-2/)*

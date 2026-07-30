@@ -1,6 +1,6 @@
 # Ramiel II
 
-Ramiel II is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at Brutal Mx, Mexico City on Sat, 8 Aug 2026.
+Ramiel II is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at Brutal Mx, Mexico City on Sat, 8 Aug 2026.
 
 Ramiel II is a techno and trance artist based in Mexico, tracked on soundcheck, with 18 sets logged across Mexicocity. Often billed alongside Cabe, NAHAN and Praqqa. Next up: Brutal Mx, Mexicocity on Sat 8 Aug.
 
@@ -25,4 +25,4 @@ Ramiel II is a techno and trance artist based in Mexico, tracked on soundcheck, 
 
 Cabe, NAHAN, Praqqa
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/ramielii/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/ramielii/)*

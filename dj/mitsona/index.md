@@ -1,6 +1,6 @@
 # MITSONA
 
-MITSONA is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at Collingwood Basement, Melbourne on Fri, 14 Aug 2026.
+MITSONA is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at Collingwood Basement, Melbourne on Fri, 14 Aug 2026.
 
 MITSONA is a techno and house artist based in Australia, tracked on soundcheck, with 7 sets logged across Melbourne. Often billed alongside STAGEFRIGHT, AK-97 and Acid Safari. Next up: Collingwood Basement, Melbourne on Fri 14 Aug.
 
@@ -23,4 +23,4 @@ MITSONA is a techno and house artist based in Australia, tracked on soundcheck, 
 
 STAGEFRIGHT, AK-97, Acid Safari
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/mitsona/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/mitsona/)*

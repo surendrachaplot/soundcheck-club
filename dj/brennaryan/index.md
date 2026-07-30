@@ -1,6 +1,6 @@
 # Brenna Ryan
 
-Brenna Ryan is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at Paavli Kultuurivabrik, Tallinn on Fri, 21 Aug 2026.
+Brenna Ryan is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at Paavli Kultuurivabrik, Tallinn on Fri, 21 Aug 2026.
 
 Brenna Ryan is a techno and house artist based in Japan, tracked on soundcheck, with 8 sets logged across Tallinn and Tokyo. Often billed alongside SIGNAL (JP), Cly/Suva and George King. Next up: Paavli Kultuurivabrik, Tallinn on Fri 21 Aug.
 
@@ -24,4 +24,4 @@ Brenna Ryan is a techno and house artist based in Japan, tracked on soundcheck, 
 
 SIGNAL (JP), Cly/Suva, George King
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/brennaryan/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/brennaryan/)*

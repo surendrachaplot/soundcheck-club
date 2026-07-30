@@ -1,6 +1,6 @@
 # Nick León
 
-Nick León is a Techno and Club artist with 6 upcoming club dates listed on soundcheck as of Wed, 29 Jul 2026, next at TBA - Hollywood Park adjacent to SoFi Stadium, Los Angeles on Sat, 1 Aug 2026.
+Nick León is a Techno and Club artist with 6 upcoming club dates listed on soundcheck as of Thu, 30 Jul 2026, next at TBA - Hollywood Park adjacent to SoFi Stadium, Los Angeles on Sat, 1 Aug 2026.
 
 Nick León is a techno and club artist tracked on soundcheck, with 200 sets logged across Amsterdam, Austin, Barcelona and Belfast and 50 more. Often billed alongside DJ Python, Bitter Babe and Jonny From Space. Next up: TBA - Hollywood Park adjacent to SoFi Stadium, Losangeles on Sat 1 Aug.
 
@@ -30,4 +30,4 @@ Nick León is a techno and club artist tracked on soundcheck, with 200 sets logg
 
 DJ Python, Bitter Babe, Jonny From Space
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/nickleon/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/nickleon/)*

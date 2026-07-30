@@ -1,6 +1,6 @@
 # Alex Narrow
 
-Alex Narrow is a Progressive House and House artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at Gestrandet An Der Jannowitzbrücke, Berlin on Sat, 1 Aug 2026.
+Alex Narrow is a Progressive House and House artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at Gestrandet An Der Jannowitzbrücke, Berlin on Sat, 1 Aug 2026.
 
 Alex Narrow is a progressive house and house artist based in Germany, tracked on soundcheck, with 4 sets logged across Berlin. Often billed alongside Die Jane, Michael Ritter and Mike Koglin. Next up: Gestrandet An Der Jannowitzbrücke, Berlin on Sat 1 Aug.
 
@@ -20,4 +20,4 @@ Alex Narrow is a progressive house and house artist based in Germany, tracked on
 
 Die Jane, Michael Ritter, Mike Koglin
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/alexnarrow/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/alexnarrow/)*

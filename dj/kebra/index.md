@@ -1,6 +1,6 @@
 # KEBRA
 
-KEBRA is a Baile Funk and Club artist with 2 upcoming club dates listed on soundcheck as of Wed, 29 Jul 2026, next at CHICO, Mexico City on Thu, 30 Jul 2026.
+KEBRA is a Baile Funk and Club artist with 2 upcoming club dates listed on soundcheck as of Thu, 30 Jul 2026, next at CHICO, Mexico City on Thu, 30 Jul 2026.
 
 KEBRA is a baile funk and club artist based in Brazil, tracked on soundcheck, with 67 sets logged across Barcelona, Berlin, Lisbon and London and 8 more. Often billed alongside Babybruise, Basho and Lyo XS. Next up: CHICO, Mexicocity on Thu 30 Jul.
 
@@ -26,4 +26,4 @@ KEBRA is a baile funk and club artist based in Brazil, tracked on soundcheck, wi
 
 Babybruise, Basho, Lyo XS
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/kebra/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/kebra/)*

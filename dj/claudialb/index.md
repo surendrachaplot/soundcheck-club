@@ -1,6 +1,6 @@
 # Claudia LB
 
-Claudia LB is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Wed, 29 Jul 2026, next at Process PDX, Portland on Thu, 30 Jul 2026.
+Claudia LB is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Thu, 30 Jul 2026, next at Process PDX, Portland on Thu, 30 Jul 2026.
 
 Claudia LB is a techno and house artist based in United States of America, tracked on soundcheck, with 21 sets logged across Portland and Seattle. Often billed alongside La Mala Noche, N SO and Alec Fursman. Next up: Process PDX, Portland on Thu 30 Jul.
 
@@ -26,4 +26,4 @@ Claudia LB is a techno and house artist based in United States of America, track
 
 La Mala Noche, N SO, Alec Fursman
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/claudialb/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/claudialb/)*

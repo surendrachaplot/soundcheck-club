@@ -1,6 +1,6 @@
 # CORE #009 by UNDERCITY at UNDERCITY
 
-CORE #009 by UNDERCITY on Sat 8 Aug, Seoul. 4 acts on the bill: KIMNA, No/ah, Vorus and YJ(KOR). Techno. Preview the line-up and save it on soundcheck.
+CORE #009 by UNDERCITY on Sat 8 Aug, Seoul. 5 acts on the bill: JIA, KIMNA, No/ah and Vorus and 1 more. Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,6 +10,7 @@ CORE #009 by UNDERCITY on Sat 8 Aug, Seoul. 4 acts on the bill: KIMNA, No/ah, 
 
 ## Line-up
 
+- JIA
 - KIMNA
 - No/ah
 - Vorus

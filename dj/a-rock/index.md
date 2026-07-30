@@ -1,6 +1,6 @@
 # A-Rock
 
-A-Rock is a Electro and House artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at Vino Disco, Montreal on Sat, 1 Aug 2026.
+A-Rock is a Electro and House artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at Vino Disco, Montreal on Sat, 1 Aug 2026.
 
 A-Rock is an electro and house artist based in United States of America, tracked on soundcheck, with 3 sets logged across Montreal and Tokyo. Often billed alongside Shaydakiss, Akira (IT) and Hiroto. Next up: Vino Disco, Montreal on Sat 1 Aug.
 
@@ -19,4 +19,4 @@ A-Rock is an electro and house artist based in United States of America, tracked
 
 Shaydakiss, Akira (IT), Hiroto
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/a-rock/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/a-rock/)*

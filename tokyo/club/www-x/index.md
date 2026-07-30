@@ -1,6 +1,6 @@
 # WWW X
 
-WWW X is a music venue in Tokyo with 2 upcoming nights listed on soundcheck as of Wed, 29 Jul 2026; the next is "光に向かって / Toward the Light - Foodman One Man Show -" on Thu, 30 Jul 2026.
+WWW X is a music venue in Tokyo with 2 upcoming nights listed on soundcheck as of Thu, 30 Jul 2026; the next is "光に向かって / Toward the Light - Foodman One Man Show -" on Thu, 30 Jul 2026.
 
 WWW X is a music venue in Tokyo listed on soundcheck. 2 upcoming nights. Browse upcoming dates, start times and who's playing. 13-7 Udagawacho, Shibuya-ku, Tokyo, 150-0042.
 
@@ -15,4 +15,4 @@ WWW X is a music venue in Tokyo listed on soundcheck. 2 upcoming nights. Browse 
 
 13-7 Udagawacho, Shibuya-ku, Tokyo, 150-0042, Tokyo
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/www-x/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/www-x/)*

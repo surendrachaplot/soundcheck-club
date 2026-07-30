@@ -1,6 +1,6 @@
 # DAF
 
-DAF is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at Boomerang Beach, The Hague on Sun, 23 Aug 2026.
+DAF is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at Boomerang Beach, The Hague on Sun, 23 Aug 2026.
 
 DAF is a house and tech house artist tracked on soundcheck, with 34 sets logged across Amsterdam, Athens, Berlin and Glasgow and 5 more. Often billed alongside Benny Rodrigues, Boss Priester and Job de Jong. Next up: Boomerang Beach, Thehague on Sun 23 Aug.
 
@@ -25,4 +25,4 @@ DAF is a house and tech house artist tracked on soundcheck, with 34 sets logged 
 
 Benny Rodrigues, Boss Priester, Job de Jong
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/daf/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/daf/)*

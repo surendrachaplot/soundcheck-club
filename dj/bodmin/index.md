@@ -1,6 +1,6 @@
 # Bod Min
 
-Bod Min is a House and Acid artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at Grub Records, Sheffield on Sat, 1 Aug 2026.
+Bod Min is a House and Acid artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at Grub Records, Sheffield on Sat, 1 Aug 2026.
 
 Bod Min is a house and acid artist based in United Kingdom, tracked on soundcheck, with 27 sets logged across Berlin, Leeds, Manchester and Sheffield. Often billed alongside Danny Cruise, Sam Pratt and Roya Brehl. Next up: Grub Records, Sheffield on Sat 1 Aug.
 
@@ -25,4 +25,4 @@ Bod Min is a house and acid artist based in United Kingdom, tracked on soundchec
 
 Danny Cruise, Sam Pratt, Roya Brehl
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/bodmin/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/bodmin/)*

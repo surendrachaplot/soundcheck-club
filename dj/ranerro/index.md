@@ -1,6 +1,6 @@
 # Ranerro
 
-Ranerro is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at Club der Visionaere, Berlin on Wed, 5 Aug 2026.
+Ranerro is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at Club der Visionaere, Berlin on Wed, 5 Aug 2026.
 
 Ranerro is a house and deep house artist based in Slovenia, tracked on soundcheck, with 9 sets logged across Amsterdam, Berlin, Budapest and Paris and 1 more. Often billed alongside Alex Picone, Ancut and Andrew James Gustav. Next up: Club der Visionaere, Berlin on Wed 5 Aug.
 
@@ -25,4 +25,4 @@ Ranerro is a house and deep house artist based in Slovenia, tracked on soundchec
 
 Alex Picone, Ancut, Andrew James Gustav
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/ranerro/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/ranerro/)*

@@ -1,6 +1,6 @@
 # Voltaire
 
-Voltaire is a Techno and Electro artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at La Citadelle de Marseille, Marseille on Fri, 14 Aug 2026.
+Voltaire is a Techno and Electro artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at La Citadelle de Marseille, Marseille on Fri, 14 Aug 2026.
 
 Voltaire is a techno and electro artist based in France, tracked on soundcheck, with 20 sets logged across Geneva, Lyon, Marseille and Paris. Often billed alongside Alys LF, Eastel and Toscan Haas. Next up: La Citadelle de Marseille, Marseille on Fri 14 Aug.
 
@@ -25,4 +25,4 @@ Voltaire is a techno and electro artist based in France, tracked on soundcheck, 
 
 Alys LF, Eastel, Toscan Haas
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/voltaire-fr/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/voltaire-fr/)*

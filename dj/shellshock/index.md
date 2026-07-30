@@ -1,6 +1,6 @@
 # Shell Shock
 
-Shell Shock is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at Revolver Upstairs, Melbourne on Wed, 12 Aug 2026.
+Shell Shock is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at Revolver Upstairs, Melbourne on Wed, 12 Aug 2026.
 
 Shell Shock is a techno and house artist based in Australia, tracked on soundcheck, with 32 sets logged across Melbourne. Often billed alongside CAITY WATSON, BDE and ALIEN-A. Next up: Revolver Upstairs, Melbourne on Wed 12 Aug.
 
@@ -25,4 +25,4 @@ Shell Shock is a techno and house artist based in Australia, tracked on soundche
 
 CAITY WATSON, BDE, ALIEN-A
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/shellshock/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/shellshock/)*

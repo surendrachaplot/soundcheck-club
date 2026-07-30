@@ -1,6 +1,6 @@
 # PANDALOGIA
 
-PANDALOGIA is a Experimental and Dub Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at TBA - Apiro, Marche IT, Milan on Thu, 30 Jul 2026.
+PANDALOGIA is a Experimental and Dub Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at TBA - Apiro, Marche IT, Milan on Thu, 30 Jul 2026.
 
 PANDALOGIA is an experimental and dub techno artist based in Italy, tracked on soundcheck, with 3 sets logged across Milan and Rome. Often billed alongside Achieh, Al Paino and Amazon. Next up: TBA - Apiro, Marche IT, Milan on Thu 30 Jul.
 
@@ -19,4 +19,4 @@ PANDALOGIA is an experimental and dub techno artist based in Italy, tracked on s
 
 Achieh, Al Paino, Amazon
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/pandalogia/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/pandalogia/)*

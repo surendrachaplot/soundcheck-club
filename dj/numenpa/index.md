@@ -1,6 +1,6 @@
 # Numen (PA)
 
-Numen (PA) is a Progressive House and Afro House artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at Berlin, Los Angeles on Sat, 1 Aug 2026.
+Numen (PA) is a Progressive House and Afro House artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at Berlin, Los Angeles on Sat, 1 Aug 2026.
 
 Numen (PA) is a progressive house and afro house artist based in United States of America, tracked on soundcheck, with 2 sets logged across Losangeles. Often billed alongside ELIF and Niki Sadeki. Next up: Berlin, Losangeles on Sat 1 Aug.
 
@@ -18,4 +18,4 @@ Numen (PA) is a progressive house and afro house artist based in United States o
 
 ELIF, Niki Sadeki
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/numenpa/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/numenpa/)*

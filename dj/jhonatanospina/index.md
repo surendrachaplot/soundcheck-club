@@ -1,6 +1,6 @@
 # JHONATAN OSPINA
 
-JHONATAN OSPINA is a Techno and Tech House artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at John Doe, Amsterdam on Wed, 21 Oct 2026.
+JHONATAN OSPINA is a Techno and Tech House artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at John Doe, Amsterdam on Wed, 21 Oct 2026.
 
 JHONATAN OSPINA is a techno and tech house artist tracked on soundcheck, with 13 sets logged across Amsterdam, Miami and Saopaulo. Often billed alongside Alex Sharp, Jhon Rios and ENTYRUTZ. Next up: John Doe, Amsterdam on Wed 21 Oct.
 
@@ -25,4 +25,4 @@ JHONATAN OSPINA is a techno and tech house artist tracked on soundcheck, with 13
 
 Alex Sharp, Jhon Rios, ENTYRUTZ
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/jhonatanospina/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/jhonatanospina/)*

@@ -1,6 +1,6 @@
 # Plage 84
 
-Plage 84 is a Deep House and Acid artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at Badaboum, Paris on Fri, 31 Jul 2026.
+Plage 84 is a Deep House and Acid artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at Badaboum, Paris on Fri, 31 Jul 2026.
 
 Plage 84 is a deep house and acid artist based in France, tracked on soundcheck, with 5 sets logged across Paris. Often billed alongside LeLeon, Didi Han and Anastazja. Next up: Badaboum, Paris on Fri 31 Jul.
 
@@ -21,4 +21,4 @@ Plage 84 is a deep house and acid artist based in France, tracked on soundcheck,
 
 LeLeon, Didi Han, Anastazja
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/plage84/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/plage84/)*

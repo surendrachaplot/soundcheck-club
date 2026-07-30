@@ -1,8 +1,8 @@
 # The Dolphin
 
-The Dolphin is a music venue in Philadelphia with 3 upcoming nights listed on soundcheck as of Wed, 29 Jul 2026; the next is "IN DUST WE TRUST: THE CHEMICAL BROTHERS NIGHT" on Fri, 31 Jul 2026.
+The Dolphin is a music venue in Philadelphia with 4 upcoming nights listed on soundcheck as of Thu, 30 Jul 2026; the next is "IN DUST WE TRUST: THE CHEMICAL BROTHERS NIGHT" on Fri, 31 Jul 2026.
 
-The Dolphin is a music venue in Philadelphia listed on soundcheck. 3 upcoming nights, with line-ups including Dave Tidey, G I N A, Dj incognito mode and Mario Cotto and 1 more. Browse upcoming dates, start times and who's playing. 1539 S Broad St, Philadelphia, PA 19147.
+The Dolphin is a music venue in Philadelphia listed on soundcheck. 4 upcoming nights, with line-ups including Dave Tidey, G I N A, Dj incognito mode and Katarina Especial and 2 more. Browse upcoming dates, start times and who's playing. 1539 S Broad St, Philadelphia, PA 19147.
 
 ## What's on
 
@@ -10,10 +10,11 @@ The Dolphin is a music venue in Philadelphia listed on soundcheck. 3 upcoming ni
 | --- | --- | --- |
 | Fri, 31 Jul 2026 | IN DUST WE TRUST: THE CHEMICAL BROTHERS NIGHT | Mario Cotto, Zillas on Acid |
 | Fri, 7 Aug 2026 | RHYTHM OF THE NIGHT [90'S HOUSE/UKG/TRANCE] | Dave Tidey, Dj incognito mode, G I N A |
+| Sat, 15 Aug 2026 | Drum Load: Katarina Especial + Teeyam | Katarina Especial, Teeyam |
 | Fri, 21 Aug 2026 | SUNDAY SCARIES |  |
 
 ## Address
 
 1539 S Broad St, Philadelphia, PA 19147, Philadelphia
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/philadelphia/club/the-dolphin/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/philadelphia/club/the-dolphin/)*

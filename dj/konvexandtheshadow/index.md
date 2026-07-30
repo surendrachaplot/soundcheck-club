@@ -1,6 +1,6 @@
 # Konvex & the Shadow
 
-Konvex & the Shadow is a Tech House and Deep House artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at L'ilienne (Croisière Marseille Calanques), Marseille on Sat, 1 Aug 2026.
+Konvex & the Shadow is a Tech House and Deep House artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at L'ilienne (Croisière Marseille Calanques), Marseille on Sat, 1 Aug 2026.
 
 Konvex & the Shadow are a tech house and deep house duo based in France, tracked on soundcheck, with 6 sets logged across Berlin, Hongkong and Marseille. Often billed alongside Michael Ritter, Daniel Neuland and Intaktogene. Next up: L'ilienne (Croisière Marseille Calanques), Marseille on Sat 1 Aug.
 
@@ -22,4 +22,4 @@ Konvex & the Shadow are a tech house and deep house duo based in France, tracked
 
 Michael Ritter, Daniel Neuland, Intaktogene
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/konvexandtheshadow/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/konvexandtheshadow/)*

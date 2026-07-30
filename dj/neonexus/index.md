@@ -1,6 +1,6 @@
 # Neonexus
 
-Neonexus is a Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at 33/45 Club, Valencia on Sat, 1 Aug 2026.
+Neonexus is a Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at 33/45 Club, Valencia on Sat, 1 Aug 2026.
 
 Neonexus is a techno artist tracked on soundcheck, with 3 sets logged across Valencia. Often billed alongside OKTAY (2), Ayra Nishati and Kene. Next up: 33/45 Club, Valencia on Sat 1 Aug.
 
@@ -19,4 +19,4 @@ Neonexus is a techno artist tracked on soundcheck, with 3 sets logged across Val
 
 OKTAY (2), Ayra Nishati, Kene
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/neonexus/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/neonexus/)*

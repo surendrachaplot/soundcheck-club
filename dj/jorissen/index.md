@@ -1,6 +1,6 @@
 # Jorissen
 
-Jorissen is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at Temple Bar, Detroit on Fri, 31 Jul 2026.
+Jorissen is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at Temple Bar, Detroit on Fri, 31 Jul 2026.
 
 Jorissen is a house and techno artist based in United States of America, tracked on soundcheck, with 96 sets logged across Berlin, Chicago, Detroit and Newyorkcity. Often billed alongside Andrea Ghita, James (6) and Fusegrade. Next up: Temple Bar, Detroit on Fri 31 Jul.
 
@@ -25,4 +25,4 @@ Jorissen is a house and techno artist based in United States of America, tracked
 
 Andrea Ghita, James (6), Fusegrade
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/jorissen/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/jorissen/)*

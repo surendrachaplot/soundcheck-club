@@ -1,6 +1,6 @@
 # Jamie Funk
 
-Jamie Funk is a Tech House and Deep House artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at Next Door Records, London on Sun, 30 Aug 2026.
+Jamie Funk is a Tech House and Deep House artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at Next Door Records, London on Sun, 30 Aug 2026.
 
 Jamie Funk is a tech house and deep house artist based in United Kingdom, tracked on soundcheck, with 2 sets logged across London. Often billed alongside Drew Karma, Daniel Dutts and Mr Shiver. Next up: Next Door Records, London on Sun 30 Aug.
 
@@ -18,4 +18,4 @@ Jamie Funk is a tech house and deep house artist based in United Kingdom, tracke
 
 Drew Karma, Daniel Dutts, Mr Shiver
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/jamiefunk/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/jamiefunk/)*

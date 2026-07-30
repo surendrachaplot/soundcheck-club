@@ -1,15 +1,15 @@
 # Adria (ES)
 
-Adria (ES) is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Wed, 29 Jul 2026, next at TBA - Studio Stereo, close to pl. Catalunya, 08007, Barcelona, Barcelona on Fri, 31 Jul 2026.
+Adria (ES) is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Thu, 30 Jul 2026, next at Studio Stereo, Barcelona on Fri, 31 Jul 2026.
 
-Adria (ES) is a house and techno artist tracked on soundcheck, with 132 sets logged across Barcelona, Bucharest, Ibiza and Lisbon and 2 more. Often billed alongside Pau Rosés, Vince Void and Alex Garcia (2). Next up: TBA - Studio Stereo, close to pl. Catalunya, 08007, Barcelona, Barcelona on Fri 31 Jul.
+Adria (ES) is a house and techno artist tracked on soundcheck, with 132 sets logged across Barcelona, Bucharest, Ibiza and Lisbon and 2 more. Often billed alongside Pau Rosés, Vince Void and Alex Garcia (2). Next up: Studio Stereo, Barcelona on Fri 31 Jul.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 31 Jul 2026 | TBA - Studio Stereo, close to pl. Catalunya, 08007, Barcelona | Barcelona |
-| Sat, 15 Aug 2026 | TBA - Studio Stereo, close to pl. Catalunya, 08007, Barcelona | Barcelona |
+| Fri, 31 Jul 2026 | Studio Stereo | Barcelona |
+| Sat, 15 Aug 2026 | Studio Stereo | Barcelona |
 
 ## Recently played
 
@@ -26,4 +26,4 @@ Adria (ES) is a house and techno artist tracked on soundcheck, with 132 sets log
 
 Pau Rosés, Vince Void, Alex Garcia (2)
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/adria-es/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/adria-es/)*

@@ -1,6 +1,6 @@
 # Steve Brown
 
-Steve Brown is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at Club Makossa, London on Thu, 30 Jul 2026.
+Steve Brown is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at Club Makossa, London on Thu, 30 Jul 2026.
 
 Steve Brown is a house and tech house artist tracked on soundcheck, with 14 sets logged across London. Often billed alongside BOA (1), DAMPY and Kat Bendis. Next up: Club Makossa, London on Thu 30 Jul.
 
@@ -25,4 +25,4 @@ Steve Brown is a house and tech house artist tracked on soundcheck, with 14 sets
 
 BOA (1), DAMPY, Kat Bendis
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/stevebrown/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/stevebrown/)*

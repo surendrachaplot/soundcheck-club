@@ -1,6 +1,6 @@
 # raina (2)
 
-raina (2) is a Drum & Bass and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at XOYO, London on Thu, 27 Aug 2026.
+raina (2) is a Drum & Bass and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at XOYO, London on Thu, 27 Aug 2026.
 
 raina (2) is a drum & bass and techno artist based in United Kingdom, tracked on soundcheck, with 3 sets logged across London. Often billed alongside El-B, FITS ME FUNNY and Nancy June. Next up: XOYO, London on Thu 27 Aug.
 
@@ -19,4 +19,4 @@ raina (2) is a drum & bass and techno artist based in United Kingdom, tracked on
 
 El-B, FITS ME FUNNY, Nancy June
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/raina-2/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/raina-2/)*

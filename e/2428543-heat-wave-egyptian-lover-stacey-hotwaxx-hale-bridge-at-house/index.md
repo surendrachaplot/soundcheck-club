@@ -1,6 +1,6 @@
-# Heat Wave: Egyptian Lover, Stacey Hotwaxx Hale, Bridge at House of Yes
+# Heat Wave: Egyptian Lover, Stacey Hotwaxx Hale, BRIDGE at House of Yes
 
-Heat Wave: Egyptian Lover, Stacey Hotwaxx Hale, Bridge at House of Yes on Sat 15 Aug, Newyorkcity. 3 acts on the bill: Bridge (NY), Egyptian Lover and Stacey Hotwaxx Hale. House and Electro. Preview the line-up and save it on soundcheck.
+Heat Wave: Egyptian Lover, Stacey Hotwaxx Hale, BRIDGE at House of Yes on Sat 15 Aug, Newyorkcity. 3 acts on the bill: Bridge (NY), Egyptian Lover and Stacey Hotwaxx Hale. House and Electro. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

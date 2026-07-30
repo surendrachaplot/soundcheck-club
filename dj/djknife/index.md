@@ -1,6 +1,6 @@
 # DJ Knife
 
-DJ Knife is a Deep House and House artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at YuYu Cine Club, Mexico City on Fri, 31 Jul 2026.
+DJ Knife is a Deep House and House artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at YuYu Cine Club, Mexico City on Fri, 31 Jul 2026.
 
 DJ Knife is a deep house and house artist based in Mexico, tracked on soundcheck, with 21 sets logged across Boston and Mexicocity. Often billed alongside DJ OYSTER, PHONYFAKE and DJ FIASCO. Next up: YuYu Cine Club, Mexicocity on Fri 31 Jul.
 
@@ -25,4 +25,4 @@ DJ Knife is a deep house and house artist based in Mexico, tracked on soundcheck
 
 DJ OYSTER, PHONYFAKE, DJ FIASCO
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/djknife/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/djknife/)*

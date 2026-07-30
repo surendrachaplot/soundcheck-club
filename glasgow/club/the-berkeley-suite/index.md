@@ -1,8 +1,8 @@
 # The Berkeley Suite
 
-The Berkeley Suite is a music venue in Glasgow with 20 upcoming nights listed on soundcheck as of Wed, 29 Jul 2026; the next is "Céleste W/ ALWAYS 8:15" on Fri, 31 Jul 2026.
+The Berkeley Suite is a music venue in Glasgow with 22 upcoming nights listed on soundcheck as of Thu, 30 Jul 2026; the next is "Céleste W/ ALWAYS 8:15" on Fri, 31 Jul 2026.
 
-The Berkeley Suite is a music venue in Glasgow listed on soundcheck. 20 upcoming nights, with line-ups including AKA DISPLAY, ALWAYS 8:15, Angel Negrin and Bonzai Bonner and 2 more. Browse upcoming dates, start times and who's playing. 237 North Street; Glasgow, G3 7DL, Scotland, United Kingdom.
+The Berkeley Suite is a music venue in Glasgow listed on soundcheck. 22 upcoming nights, with line-ups including AKA DISPLAY, ALWAYS 8:15, Angel Negrin and Austin Ato and 2 more. Browse upcoming dates, start times and who's playing. 237 North Street; Glasgow, G3 7DL, Scotland, United Kingdom.
 
 ## What's on
 
@@ -16,11 +16,11 @@ The Berkeley Suite is a music venue in Glasgow listed on soundcheck. 20 upcoming
 | Sat, 15 Aug 2026 | George FitzGerald: Free Time – Glasgow | George FitzGerald |
 | Sat, 15 Aug 2026 | Shoot Your Shot | Bonzai Bonner, Danse Atmos, David Scott, Joe Morrison |
 | Fri, 21 Aug 2026 | Co-Accused with L.F.T. & Ángel Negrín | Angel Negrin, Co-Accused, L.F.T. |
+| Sat, 22 Aug 2026 | Hot Towel 10th Birthday with Gigi Testa & Moira Salt | Gigi Testa |
 | Tue, 25 Aug 2026 | Swagfest x B16: Afters Exhibition W/ Dazegxd | Dazegxd |
-| Thu, 3 Sept 2026 | VICE VERSA & Friends | AKA DISPLAY, Bruce Sangster, DEJA, Dev Kandak, Johnny Greig, SKEEN, WEE WADS |
 
 ## Address
 
 237 North Street; Glasgow, G3 7DL, Scotland, United Kingdom, Glasgow
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/glasgow/club/the-berkeley-suite/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/glasgow/club/the-berkeley-suite/)*

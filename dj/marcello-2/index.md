@@ -1,6 +1,6 @@
 # Marcello (2)
 
-Marcello (2) is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at Thuishaven, Amsterdam on Sat, 1 Aug 2026.
+Marcello (2) is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at Thuishaven, Amsterdam on Sat, 1 Aug 2026.
 
 Marcello (2) is a house and techno artist tracked on soundcheck, with 26 sets logged across Amsterdam, Berlin and Milan. Often billed alongside Nicola Mazzetti, Alexander Koning and Divine. Next up: Thuishaven, Amsterdam on Sat 1 Aug.
 
@@ -25,4 +25,4 @@ Marcello (2) is a house and techno artist tracked on soundcheck, with 26 sets lo
 
 Nicola Mazzetti, Alexander Koning, Divine
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/marcello-2/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/marcello-2/)*

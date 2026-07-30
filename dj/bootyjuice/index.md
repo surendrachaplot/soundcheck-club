@@ -1,6 +1,6 @@
 # Booty Juice
 
-Booty Juice is a House and Disco artist with 3 upcoming club dates listed on soundcheck as of Wed, 29 Jul 2026, next at The Stud, San Francisco/Oakland on Sun, 2 Aug 2026.
+Booty Juice is a House and Disco artist with 3 upcoming club dates listed on soundcheck as of Thu, 30 Jul 2026, next at The Stud, San Francisco/Oakland on Sun, 2 Aug 2026.
 
 Booty Juice is a house and disco artist tracked on soundcheck, with 15 sets logged across Portland and Sanfrancisco. Often billed alongside vRok, Carrieondisco and DJ M3. Next up: The Stud, Sanfrancisco on Sun 2 Aug.
 
@@ -27,4 +27,4 @@ Booty Juice is a house and disco artist tracked on soundcheck, with 15 sets logg
 
 vRok, Carrieondisco, DJ M3
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/bootyjuice/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/bootyjuice/)*

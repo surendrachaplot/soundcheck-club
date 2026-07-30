@@ -1,6 +1,6 @@
 # RYUGO
 
-RYUGO is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at MIDNIGHT EAST, Tokyo on Fri, 31 Jul 2026.
+RYUGO is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at MIDNIGHT EAST, Tokyo on Fri, 31 Jul 2026.
 
 RYUGO is a techno and house artist based in Japan, tracked on soundcheck, with 24 sets logged across Osaka, Prague and Tokyo. Often billed alongside Yui (JP), Kazu and Kurea. Next up: MIDNIGHT EAST, Tokyo on Fri 31 Jul.
 
@@ -25,4 +25,4 @@ RYUGO is a techno and house artist based in Japan, tracked on soundcheck, with 2
 
 Yui (JP), Kazu, Kurea
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/ryugo/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/ryugo/)*

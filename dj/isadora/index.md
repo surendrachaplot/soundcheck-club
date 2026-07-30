@@ -1,14 +1,15 @@
 # Isadora
 
-Isadora is a Electronica and House artist with 3 upcoming club dates listed on soundcheck as of Wed, 29 Jul 2026, next at Cova Santa, Ibiza on Fri, 31 Jul 2026.
+Isadora is a House and Electronica artist with 4 upcoming club dates listed on soundcheck as of Thu, 30 Jul 2026, next at Cova Santa, Ibiza on Fri, 31 Jul 2026.
 
-Isadora is an electronica and house artist tracked on soundcheck, with 10 sets logged across Dublin, Ibiza, Newyorkcity and Saopaulo. Often billed alongside Conduit, ESPIA and Iggy Nuclear. Next up: Cova Santa, Ibiza on Fri 31 Jul.
+Isadora is a house and electronica artist tracked on soundcheck, with 11 sets logged across Dublin, Ibiza, Newyorkcity and Saopaulo. Often billed alongside Conduit, ESPIA and Iggy Nuclear. Next up: Cova Santa, Ibiza on Fri 31 Jul.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 31 Jul 2026 | Cova Santa | Ibiza |
+| Sun, 2 Aug 2026 | Honey's | New York City |
 | Wed, 12 Aug 2026 | Cova Santa | Ibiza |
 | Fri, 2 Oct 2026 | Cova Santa | Ibiza |
 
@@ -26,4 +27,4 @@ Isadora is an electronica and house artist tracked on soundcheck, with 10 sets l
 
 Conduit, ESPIA, Iggy Nuclear
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/isadora/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/isadora/)*

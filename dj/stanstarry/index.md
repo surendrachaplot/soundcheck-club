@@ -1,6 +1,6 @@
 # Stan Starry
 
-Stan Starry is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at Kater, Berlin on Fri, 21 Aug 2026.
+Stan Starry is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at Kater, Berlin on Fri, 21 Aug 2026.
 
 Stan Starry is a techno and house artist based in Germany, tracked on soundcheck, with 52 sets logged across Berlin, Cologne, Hamburg and Montreal and 1 more. Often billed alongside Mona Moore, justUS and Empro. Next up: Kater, Berlin on Fri 21 Aug.
 
@@ -25,4 +25,4 @@ Stan Starry is a techno and house artist based in Germany, tracked on soundcheck
 
 Mona Moore, justUS, Empro
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/stanstarry/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/stanstarry/)*

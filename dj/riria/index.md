@@ -1,6 +1,6 @@
 # RIRIA
 
-RIRIA is a Techno and Bass artist with 10 upcoming club dates listed on soundcheck as of Wed, 29 Jul 2026, next at Burgess Park, London on Fri, 31 Jul 2026.
+RIRIA is a Techno and Bass artist with 10 upcoming club dates listed on soundcheck as of Thu, 30 Jul 2026, next at Burgess Park, London on Fri, 31 Jul 2026.
 
 RIRIA is a techno and bass artist tracked on soundcheck, with 86 sets logged across Amsterdam, Antwerp, Bali and Bangkok and 31 more. Often billed alongside Diffrent, ryota dj and Ryota. Next up: Burgess Park, London on Fri 31 Jul.
 
@@ -34,4 +34,4 @@ RIRIA is a techno and bass artist tracked on soundcheck, with 86 sets logged acr
 
 Diffrent, ryota dj, Ryota
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/riria/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/riria/)*

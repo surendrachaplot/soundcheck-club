@@ -1,6 +1,6 @@
 # Diesco
 
-Diesco is a House and Electro artist with 2 upcoming club dates listed on soundcheck as of Wed, 29 Jul 2026, next at Sunseabar Beach Club, Barcelona on Fri, 31 Jul 2026.
+Diesco is a House and Electro artist with 2 upcoming club dates listed on soundcheck as of Thu, 30 Jul 2026, next at Sunseabar Beach Club, Barcelona on Fri, 31 Jul 2026.
 
 Diesco is a house and electro artist tracked on soundcheck, with 55 sets logged across Amsterdam, Barcelona, Berlin and Ibiza and 3 more. Often billed alongside Vince Void, Pau Rosés and Adria (ES). Next up: Sunseabar Beach Club, Barcelona on Fri 31 Jul.
 
@@ -9,7 +9,7 @@ Diesco is a house and electro artist tracked on soundcheck, with 55 sets logged 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 31 Jul 2026 | Sunseabar Beach Club | Barcelona |
-| Sat, 15 Aug 2026 | TBA - Studio Stereo, close to pl. Catalunya, 08007, Barcelona | Barcelona |
+| Sat, 15 Aug 2026 | Studio Stereo | Barcelona |
 
 ## Recently played
 
@@ -26,4 +26,4 @@ Diesco is a house and electro artist tracked on soundcheck, with 55 sets logged 
 
 Vince Void, Pau Rosés, Adria (ES)
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/diesco/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/diesco/)*

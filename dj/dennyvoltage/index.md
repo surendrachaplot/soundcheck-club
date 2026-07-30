@@ -1,6 +1,6 @@
 # Denny Voltage
 
-Denny Voltage is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at BLITZ, Munich on Fri, 31 Jul 2026.
+Denny Voltage is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at BLITZ, Munich on Fri, 31 Jul 2026.
 
 Denny Voltage is a techno and house artist tracked on soundcheck, with 23 sets logged across Berlin, Edinburgh, Frankfurt and Munich and 3 more. Often billed alongside Jorkes, Muallem and Ryan Elliott. Next up: BLITZ, Munich on Fri 31 Jul.
 
@@ -25,4 +25,4 @@ Denny Voltage is a techno and house artist tracked on soundcheck, with 23 sets l
 
 Jorkes, Muallem, Ryan Elliott
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/dennyvoltage/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/dennyvoltage/)*

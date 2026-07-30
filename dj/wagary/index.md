@@ -1,6 +1,6 @@
 # Wagary
 
-Wagary is a Techno and Tech House artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at Sekta Selekta, Krakow on Fri, 31 Jul 2026.
+Wagary is a Techno and Tech House artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at Sekta Selekta, Krakow on Fri, 31 Jul 2026.
 
 Wagary is a techno and tech house artist based in Poland, tracked on soundcheck, with 24 sets logged across Berlin, Krakow and Warsaw. Often billed alongside Meke, Kondrat and Badalian. Next up: Sekta Selekta, Krakow on Fri 31 Jul.
 
@@ -25,4 +25,4 @@ Wagary is a techno and tech house artist based in Poland, tracked on soundcheck,
 
 Meke, Kondrat, Badalian
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/wagary/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/wagary/)*

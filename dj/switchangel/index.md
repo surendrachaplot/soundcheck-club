@@ -1,6 +1,6 @@
 # Switch Angel
 
-Switch Angel is a Electronica and Experimental artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at Sidney & Matilda, Sheffield on Thu, 30 Jul 2026.
+Switch Angel is a Electronica and Experimental artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at Sidney & Matilda, Sheffield on Thu, 30 Jul 2026.
 
 Switch Angel is an electronica and experimental artist tracked on soundcheck, with 7 sets logged across Austin, Boston, London and Losangeles and 3 more. Often billed alongside Alice Longyu Gao, Ava Blank and DJ_Dave. Next up: Sidney & Matilda, Sheffield on Thu 30 Jul.
 
@@ -23,4 +23,4 @@ Switch Angel is an electronica and experimental artist tracked on soundcheck, wi
 
 Alice Longyu Gao, Ava Blank, DJ_Dave
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/switchangel/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/switchangel/)*

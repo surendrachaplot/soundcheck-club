@@ -1,6 +1,6 @@
 # TOOT
 
-TOOT is a Deep House and Disco artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at The White Hotel, Manchester on Fri, 7 Aug 2026.
+TOOT is a Deep House and Disco artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at The White Hotel, Manchester on Fri, 7 Aug 2026.
 
 TOOT is a deep house and disco artist based in United Kingdom, tracked on soundcheck, with 8 sets logged across Leeds and Manchester. Often billed alongside Kop-Z, Flames Disperse and sclews. Next up: The White Hotel, Manchester on Fri 7 Aug.
 
@@ -24,4 +24,4 @@ TOOT is a deep house and disco artist based in United Kingdom, tracked on soundc
 
 Kop-Z, Flames Disperse, sclews
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/toot/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/toot/)*

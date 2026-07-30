@@ -1,6 +1,6 @@
 # Cristian Ebasta
 
-Cristian Ebasta is a Tech House and Techno artist with 2 upcoming club dates listed on soundcheck as of Wed, 29 Jul 2026, next at Union Club, Vauxhall, London on Fri, 31 Jul 2026.
+Cristian Ebasta is a Tech House and Techno artist with 2 upcoming club dates listed on soundcheck as of Thu, 30 Jul 2026, next at Union Club, Vauxhall, London on Fri, 31 Jul 2026.
 
 Cristian Ebasta is a tech house and techno artist tracked on soundcheck, with 40 sets logged across London and Madrid. Often billed alongside Enrico Chirchiello, Francesco Poggi and El Cassar. Next up: Union Club, Vauxhall, London on Fri 31 Jul.
 
@@ -26,4 +26,4 @@ Cristian Ebasta is a tech house and techno artist tracked on soundcheck, with 40
 
 Enrico Chirchiello, Francesco Poggi, El Cassar
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/cristianebasta/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/cristianebasta/)*

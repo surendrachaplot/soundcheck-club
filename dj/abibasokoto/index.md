@@ -1,6 +1,6 @@
 # Abiba Sokoto
 
-Abiba Sokoto is a House and Italo Disco artist with 2 upcoming club dates listed on soundcheck as of Wed, 29 Jul 2026, next at SISSI'S Amsterdam, Amsterdam on Fri, 31 Jul 2026.
+Abiba Sokoto is a House and Italo Disco artist with 2 upcoming club dates listed on soundcheck as of Thu, 30 Jul 2026, next at SISSI'S Amsterdam, Amsterdam on Fri, 31 Jul 2026.
 
 Abiba Sokoto is a house and italo disco artist based in Germany, tracked on soundcheck, with 17 sets logged across Amsterdam and Rotterdam. Often billed alongside Elias Mazian, BASHKKA and David Vunk. Next up: SISSI'S Amsterdam, Amsterdam on Fri 31 Jul.
 
@@ -26,4 +26,4 @@ Abiba Sokoto is a house and italo disco artist based in Germany, tracked on soun
 
 Elias Mazian, BASHKKA, David Vunk
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/abibasokoto/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/abibasokoto/)*

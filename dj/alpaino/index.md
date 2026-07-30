@@ -1,6 +1,6 @@
 # Al Paino
 
-Al Paino is a Techno and Dub Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at TBA - Apiro, Marche IT, Milan on Thu, 30 Jul 2026.
+Al Paino is a Techno and Dub Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at TBA - Apiro, Marche IT, Milan on Thu, 30 Jul 2026.
 
 Al Paino is a techno and dub techno artist tracked on soundcheck, with 15 sets logged across Milan and Rome. Often billed alongside Giesse, Kara (3) and Monica Witty. Next up: TBA - Apiro, Marche IT, Milan on Thu 30 Jul.
 
@@ -25,4 +25,4 @@ Al Paino is a techno and dub techno artist tracked on soundcheck, with 15 sets l
 
 Giesse, Kara (3), Monica Witty
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/alpaino/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/alpaino/)*

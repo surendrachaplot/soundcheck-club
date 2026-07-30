@@ -1,6 +1,6 @@
 # Vradial
 
-Vradial is a Tech House and House artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at Jardin21, Paris on Thu, 30 Jul 2026.
+Vradial is a Tech House and House artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at Jardin21, Paris on Thu, 30 Jul 2026.
 
 Vradial is a tech house and house artist based in France, tracked on soundcheck, with 4 sets logged across Paris. Next up: Jardin21, Paris on Thu 30 Jul.
 
@@ -16,4 +16,4 @@ Vradial is a tech house and house artist based in France, tracked on soundcheck,
 - Les Nautes, Paris — Fri, 16 Jan 2026
 - Les Nautes, Paris — Fri, 5 Dec 2025
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/vradial/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/vradial/)*

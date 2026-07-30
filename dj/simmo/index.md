@@ -1,6 +1,6 @@
 # simmo
 
-simmo is a House and Tech House artist with 2 upcoming club dates listed on soundcheck as of Wed, 29 Jul 2026, next at Depot Mayfield, Manchester on Sat, 3 Oct 2026.
+simmo is a House and Tech House artist with 2 upcoming club dates listed on soundcheck as of Thu, 30 Jul 2026, next at Depot Mayfield, Manchester on Sat, 3 Oct 2026.
 
 simmo is a house and tech house artist based in United Kingdom, tracked on soundcheck, with 21 sets logged across Leeds, London and Manchester. Often billed alongside Jelsen, Ghoulish and Josh Baker. Next up: Depot Mayfield, Manchester on Sat 3 Oct.
 
@@ -26,4 +26,4 @@ simmo is a house and tech house artist based in United Kingdom, tracked on sound
 
 Jelsen, Ghoulish, Josh Baker
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/simmo/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/simmo/)*

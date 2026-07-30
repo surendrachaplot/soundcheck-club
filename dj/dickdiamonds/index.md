@@ -1,6 +1,6 @@
 # Dick Diamonds
 
-Dick Diamonds is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at Wiggle Room, Toronto on Sun, 2 Aug 2026.
+Dick Diamonds is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at Wiggle Room, Toronto on Sun, 2 Aug 2026.
 
 Dick Diamonds is a house and tech house artist tracked on soundcheck, with 25 sets logged across Toronto. Often billed alongside Manzone & Strong, Barroness and Tyler Hill. Next up: Wiggle Room, Toronto on Sun 2 Aug.
 
@@ -25,4 +25,4 @@ Dick Diamonds is a house and tech house artist tracked on soundcheck, with 25 se
 
 Manzone & Strong, Barroness, Tyler Hill
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/dickdiamonds/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/dickdiamonds/)*

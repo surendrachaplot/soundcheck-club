@@ -1,8 +1,8 @@
 # Faust
 
-Faust is a music venue in Seoul with 2 upcoming nights listed on soundcheck as of Wed, 29 Jul 2026; the next is "INVITES: Marcal" on Fri, 31 Jul 2026.
+Faust is a music venue in Seoul with 3 upcoming nights listed on soundcheck as of Thu, 30 Jul 2026; the next is "INVITES: Marcal" on Fri, 31 Jul 2026.
 
-Faust is a music venue in Seoul listed on soundcheck. 2 upcoming nights, with line-ups including BootyWagon, Kim Bo Yeon, Marcal and Marcus L and 2 more. Browse upcoming dates, start times and who's playing. 3F, 127-15, Itaewon, Yongsan, Seoul 04406, South Korea.
+Faust is a music venue in Seoul listed on soundcheck. 3 upcoming nights, with line-ups including BootyWagon, Ginger (KR), Kim Bo Yeon and Marcal and 2 more. Browse upcoming dates, start times and who's playing. 3F, 127-15, Itaewon, Yongsan, Seoul 04406, South Korea.
 
 ## What's on
 
@@ -10,9 +10,10 @@ Faust is a music venue in Seoul listed on soundcheck. 2 upcoming nights, with li
 | --- | --- | --- |
 | Fri, 31 Jul 2026 | INVITES: Marcal | Marcal, Marcus L, Mars Parck, Peace Keeper, Stann Lumo |
 | Sat, 1 Aug 2026 | nacht | BootyWagon, Kim Bo Yeon, Minish, Nocturnal (KR), Stann Lumo |
+| Fri, 7 Aug 2026 | INVITES: Phil Berg | Ginger (KR), Marcus L, NUKiD, NUSNOOM, Phil Berg |
 
 ## Address
 
 3F, 127-15, Itaewon, Yongsan, Seoul 04406, South Korea, Seoul
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/seoul/club/faust/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/seoul/club/faust/)*

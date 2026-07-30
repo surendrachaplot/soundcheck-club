@@ -1,6 +1,6 @@
 # LYSSN UP
 
-LYSSN UP is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at Hawthorn, San Francisco/Oakland on Thu, 6 Aug 2026.
+LYSSN UP is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at Hawthorn, San Francisco/Oakland on Thu, 6 Aug 2026.
 
 LYSSN UP is a techno and house artist based in United States of America, tracked on soundcheck, with 13 sets logged across Sanfrancisco. Often billed alongside Dean Samaras, Space 92 and Hunter Green. Next up: Hawthorn, Sanfrancisco on Thu 6 Aug.
 
@@ -25,4 +25,4 @@ LYSSN UP is a techno and house artist based in United States of America, tracked
 
 Dean Samaras, Space 92, Hunter Green
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/lyssnup/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/lyssnup/)*

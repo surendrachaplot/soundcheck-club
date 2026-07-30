@@ -1,6 +1,6 @@
 # La Mala Noche
 
-La Mala Noche is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at The Monkey Loft, Seattle on Thu, 30 Jul 2026.
+La Mala Noche is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at The Monkey Loft, Seattle on Thu, 30 Jul 2026.
 
 La Mala Noche is a techno and house artist tracked on soundcheck, with 40 sets logged across Losangeles, Portland and Seattle. Often billed alongside Claudia LB, DJ Raine and Succubass. Next up: The Monkey Loft, Seattle on Thu 30 Jul.
 
@@ -25,4 +25,4 @@ La Mala Noche is a techno and house artist tracked on soundcheck, with 40 sets l
 
 Claudia LB, DJ Raine, Succubass
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/lamalanoche/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/lamalanoche/)*

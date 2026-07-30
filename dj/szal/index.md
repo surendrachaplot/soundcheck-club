@@ -1,6 +1,6 @@
 # SZAL
 
-SZAL is a Baile Funk and Bass artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at E1, London on Sat, 1 Aug 2026.
+SZAL is a Baile Funk and Bass artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at E1, London on Sat, 1 Aug 2026.
 
 SZAL is a baile funk and bass artist tracked on soundcheck, with 9 sets logged across Berlin, Birmingham, London and Porto and 1 more. Often billed alongside Don Lino, GUS (4) and JCVS. Next up: E1, London on Sat 1 Aug.
 
@@ -25,4 +25,4 @@ SZAL is a baile funk and bass artist tracked on soundcheck, with 9 sets logged a
 
 Don Lino, GUS (4), JCVS
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/szal/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/szal/)*

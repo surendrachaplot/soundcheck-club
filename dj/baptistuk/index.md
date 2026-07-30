@@ -1,6 +1,6 @@
 # Baptist (UK)
 
-Baptist (UK) is a Gabber and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at OXI, Berlin on Sat, 8 Aug 2026.
+Baptist (UK) is a Gabber and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at OXI, Berlin on Sat, 8 Aug 2026.
 
 Baptist (UK) is a gabber and techno artist based in United Kingdom, tracked on soundcheck, with 34 sets logged across Berlin and London. Often billed alongside Synapsefirer, Lau.tastic and Dres Codex. Next up: OXI, Berlin on Sat 8 Aug.
 
@@ -25,4 +25,4 @@ Baptist (UK) is a gabber and techno artist based in United Kingdom, tracked on s
 
 Synapsefirer, Lau.tastic, Dres Codex
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/baptistuk/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/baptistuk/)*

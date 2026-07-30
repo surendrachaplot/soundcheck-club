@@ -1,13 +1,14 @@
 # Flaaviø
 
-Flaaviø is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at Bulbul Berlin, Berlin on Thu, 13 Aug 2026.
+Flaaviø is a House and Disco artist with 2 upcoming club dates listed on soundcheck as of Thu, 30 Jul 2026, next at Maaya, Berlin on Thu, 30 Jul 2026.
 
-Flaaviø is a house and disco artist tracked on soundcheck, with 49 sets logged across Barcelona, Berlin and London. Often billed alongside Daniel Wang, Adam Cooke and Ale Hope. Next up: Bulbul Berlin, Berlin on Thu 13 Aug.
+Flaaviø is a house and disco artist tracked on soundcheck, with 50 sets logged across Barcelona, Berlin and London. Often billed alongside Daniel Wang, Adam Cooke and Ale Hope. Next up: Maaya, Berlin on Thu 30 Jul.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Thu, 30 Jul 2026 | Maaya | Berlin |
 | Thu, 13 Aug 2026 | Bulbul Berlin | Berlin |
 
 ## Recently played
@@ -25,4 +26,4 @@ Flaaviø is a house and disco artist tracked on soundcheck, with 49 sets logged 
 
 Daniel Wang, Adam Cooke, Ale Hope
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/flaavio/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/flaavio/)*

@@ -1,6 +1,6 @@
 # Jonny Romero
 
-Jonny Romero is a Deep House and Post-Punk artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at Locust Grove, New York City on Fri, 31 Jul 2026.
+Jonny Romero is a Deep House and Post-Punk artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at Locust Grove, New York City on Fri, 31 Jul 2026.
 
 Jonny Romero is a deep house and post-punk artist based in United States of America, tracked on soundcheck, with 4 sets logged across Newyorkcity. Often billed alongside Paul Nickerson, Shawn Dub and Tom of England. Next up: Locust Grove, Newyorkcity on Fri 31 Jul.
 
@@ -20,4 +20,4 @@ Jonny Romero is a deep house and post-punk artist based in United States of Amer
 
 Paul Nickerson, Shawn Dub, Tom of England
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/jonnyromero/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/jonnyromero/)*

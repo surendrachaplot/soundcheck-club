@@ -1,6 +1,6 @@
 # BLØEM
 
-BLØEM is a Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at ÆDEN, Berlin on Thu, 24 Sept 2026.
+BLØEM is a Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at ÆDEN, Berlin on Thu, 24 Sept 2026.
 
 BLØEM is a techno artist based in Italy, tracked on soundcheck, with 7 sets logged across Amsterdam and Berlin. Often billed alongside Cosmic, Mordred and Rosati. Next up: ÆDEN, Berlin on Thu 24 Sept.
 
@@ -23,4 +23,4 @@ BLØEM is a techno artist based in Italy, tracked on soundcheck, with 7 sets log
 
 Cosmic, Mordred, Rosati
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/bloem-nl/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/bloem-nl/)*

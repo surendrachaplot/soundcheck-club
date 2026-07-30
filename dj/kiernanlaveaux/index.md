@@ -1,6 +1,6 @@
 # Kiernan Laveaux
 
-Kiernan Laveaux is a Techno and House artist with 4 upcoming club dates listed on soundcheck as of Wed, 29 Jul 2026, next at Bossa Nova Civic Club, New York City on Fri, 31 Jul 2026.
+Kiernan Laveaux is a Techno and House artist with 4 upcoming club dates listed on soundcheck as of Thu, 30 Jul 2026, next at Bossa Nova Civic Club, New York City on Fri, 31 Jul 2026.
 
 Kiernan Laveaux is a techno and house artist tracked on soundcheck, with 130 sets logged across Amsterdam, Barcelona, Berlin and Bristol and 23 more. Often billed alongside ADAB, CCL and Clarisa Kimskii. Next up: Bossa Nova Civic Club, Newyorkcity on Fri 31 Jul.
 
@@ -28,4 +28,4 @@ Kiernan Laveaux is a techno and house artist tracked on soundcheck, with 130 set
 
 ADAB, CCL, Clarisa Kimskii
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/kiernanlaveaux/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/kiernanlaveaux/)*

@@ -1,6 +1,6 @@
 # Paige Tomlinson
 
-Paige Tomlinson is a House and Tech House artist with 9 upcoming club dates listed on soundcheck as of Wed, 29 Jul 2026, next at Mondo, Madrid on Sat, 1 Aug 2026.
+Paige Tomlinson is a House and Tech House artist with 9 upcoming club dates listed on soundcheck as of Thu, 30 Jul 2026, next at Mondo, Madrid on Sat, 1 Aug 2026.
 
 Paige Tomlinson is a house and tech house artist tracked on soundcheck, with 152 sets logged across Aberdeen, Amsterdam, Antwerp and Barcelona and 32 more. Often billed alongside Prunk, L.P. Rhythm and Gaskin. Next up: Mondo, Madrid on Sat 1 Aug.
 
@@ -33,4 +33,4 @@ Paige Tomlinson is a house and tech house artist tracked on soundcheck, with 152
 
 Prunk, L.P. Rhythm, Gaskin
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/paigetomlinson/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/paigetomlinson/)*

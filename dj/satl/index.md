@@ -1,6 +1,6 @@
 # Satl
 
-Satl is a Drum & Bass and Jungle artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at The Cause, London on Sat, 22 Aug 2026.
+Satl is a Drum & Bass and Jungle artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at The Cause, London on Sat, 22 Aug 2026.
 
 Satl is a drum & bass and jungle artist tracked on soundcheck, with 41 sets logged across Amsterdam, Antwerp, Auckland and Berlin and 16 more. Often billed alongside Lenzman, MC Fox and Fabio. Next up: The Cause, London on Sat 22 Aug.
 
@@ -25,4 +25,4 @@ Satl is a drum & bass and jungle artist tracked on soundcheck, with 41 sets logg
 
 Lenzman, MC Fox, Fabio
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/satl/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/satl/)*

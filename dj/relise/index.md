@@ -1,6 +1,6 @@
 # r:elise
 
-r:elise is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at Vittoria Wharf Studio, London on Sat, 15 Aug 2026.
+r:elise is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at Vittoria Wharf Studio, London on Sat, 15 Aug 2026.
 
 r:elise is a house and techno artist tracked on soundcheck, with 5 sets logged across London. Often billed alongside ASHTREY, DJ AYA and Elkka. Next up: Vittoria Wharf Studio, London on Sat 15 Aug.
 
@@ -21,4 +21,4 @@ r:elise is a house and techno artist tracked on soundcheck, with 5 sets logged a
 
 ASHTREY, DJ AYA, Elkka
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/relise/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/relise/)*

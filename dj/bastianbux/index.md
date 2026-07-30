@@ -1,6 +1,6 @@
 # Bastian Bux
 
-Bastian Bux is a Tech House and House artist with 7 upcoming club dates listed on soundcheck as of Wed, 29 Jul 2026, next at Coda, Toronto on Sat, 1 Aug 2026.
+Bastian Bux is a Tech House and House artist with 7 upcoming club dates listed on soundcheck as of Thu, 30 Jul 2026, next at Coda, Toronto on Sat, 1 Aug 2026.
 
 Bastian Bux is a tech house and house artist based in Spain, tracked on soundcheck, with 87 sets logged across Amsterdam, Bali, Barcelona and Boston and 19 more. Often billed alongside Tini Gessler, Eats Everything and Ilario Alicante. Next up: Coda, Toronto on Sat 1 Aug.
 
@@ -31,4 +31,4 @@ Bastian Bux is a tech house and house artist based in Spain, tracked on soundche
 
 Tini Gessler, Eats Everything, Ilario Alicante
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/bastianbux/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/bastianbux/)*

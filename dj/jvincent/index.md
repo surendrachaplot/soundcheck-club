@@ -1,6 +1,6 @@
 # JVINCENT
 
-JVINCENT is a Baile Funk and Club artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at The Fox and Firkin, London on Sat, 15 Aug 2026.
+JVINCENT is a Baile Funk and Club artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at The Fox and Firkin, London on Sat, 15 Aug 2026.
 
 JVINCENT is a baile funk and club artist tracked on soundcheck, with 29 sets logged across Copenhagen, Hongkong, London and Paris. Often billed alongside ZEE-2, HARUNA (2) and Tsunamy. Next up: The Fox and Firkin, London on Sat 15 Aug.
 
@@ -25,4 +25,4 @@ JVINCENT is a baile funk and club artist tracked on soundcheck, with 29 sets log
 
 ZEE-2, HARUNA (2), Tsunamy
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/jvincent/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/jvincent/)*

@@ -1,6 +1,6 @@
 # Yannick Müller
 
-Yannick Müller is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at Birgit, Berlin on Fri, 31 Jul 2026.
+Yannick Müller is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at Birgit, Berlin on Fri, 31 Jul 2026.
 
 Yannick Müller is a techno and house artist based in Switzerland, tracked on soundcheck, with 20 sets logged across Barcelona, Berlin, Copenhagen and Frankfurt and 4 more. Often billed alongside MøønkiZa, Pascale Voltaire and Paula Hilton. Next up: Birgit, Berlin on Fri 31 Jul.
 
@@ -25,4 +25,4 @@ Yannick Müller is a techno and house artist based in Switzerland, tracked on so
 
 MøønkiZa, Pascale Voltaire, Paula Hilton
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/yannickmuller/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/yannickmuller/)*

@@ -1,6 +1,6 @@
 # flirty800
 
-flirty800 is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at Razzmatazz, Barcelona on Fri, 31 Jul 2026.
+flirty800 is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at Razzmatazz, Barcelona on Fri, 31 Jul 2026.
 
 flirty800 is a techno and house artist based in United States of America, tracked on soundcheck, with 50 sets logged across Barcelona, Chicago, London and Losangeles and 4 more. Often billed alongside DJ USA, DJ Thank You and Word of Command. Next up: Razzmatazz, Barcelona on Fri 31 Jul.
 
@@ -25,4 +25,4 @@ flirty800 is a techno and house artist based in United States of America, tracke
 
 DJ USA, DJ Thank You, Word of Command
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/flirty800/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/flirty800/)*

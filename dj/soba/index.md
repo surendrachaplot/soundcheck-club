@@ -1,6 +1,6 @@
 # SOBA
 
-SOBA is a Jungle and Garage artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at Trans-Pecos, New York City on Sat, 8 Aug 2026.
+SOBA is a Jungle and Garage artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at Trans-Pecos, New York City on Sat, 8 Aug 2026.
 
 SOBA is a jungle and garage artist based in United States of America, tracked on soundcheck, with 77 sets logged across Berlin, Losangeles, Newyorkcity and Sanfrancisco. Often billed alongside Keishaboy, M27 (1) and PJ Sleeps. Next up: Trans-Pecos, Newyorkcity on Sat 8 Aug.
 
@@ -25,4 +25,4 @@ SOBA is a jungle and garage artist based in United States of America, tracked on
 
 Keishaboy, M27 (1), PJ Sleeps
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/soba/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/soba/)*

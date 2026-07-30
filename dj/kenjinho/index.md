@@ -1,6 +1,6 @@
 # Kenjinho
 
-Kenjinho is a House and Baile Funk artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at Bonobo, Tokyo on Sat, 1 Aug 2026.
+Kenjinho is a House and Baile Funk artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at Bonobo, Tokyo on Sat, 1 Aug 2026.
 
 Kenjinho is a house and baile funk artist based in Brazil, tracked on soundcheck, with 23 sets logged across Bangkok and Tokyo. Often billed alongside 7e, Baru and DJ PS2 DESBLOQUEADO. Next up: Bonobo, Tokyo on Sat 1 Aug.
 
@@ -25,4 +25,4 @@ Kenjinho is a house and baile funk artist based in Brazil, tracked on soundcheck
 
 7e, Baru, DJ PS2 DESBLOQUEADO
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/kenjinho/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/kenjinho/)*

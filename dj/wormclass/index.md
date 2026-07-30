@@ -1,6 +1,6 @@
 # Worm Class
 
-Worm Class is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Wed, 29 Jul 2026, next at Lux Fragil, Lisbon on Fri, 31 Jul 2026.
+Worm Class is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Thu, 30 Jul 2026, next at Lux Fragil, Lisbon on Fri, 31 Jul 2026.
 
 Worm Class is a techno and house artist tracked on soundcheck, with 41 sets logged across Lisbon and Porto. Often billed alongside Schlingen, Solid-Funk and Luisa. Next up: Lux Fragil, Lisbon on Fri 31 Jul.
 
@@ -27,4 +27,4 @@ Worm Class is a techno and house artist tracked on soundcheck, with 41 sets logg
 
 Schlingen, Solid-Funk, Luisa
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/wormclass/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/wormclass/)*

@@ -1,6 +1,6 @@
 # Chlär
 
-Chlär is a Techno and House artist with 12 upcoming club dates listed on soundcheck as of Wed, 29 Jul 2026, next at Arzenal, Budapest on Fri, 31 Jul 2026.
+Chlär is a Techno and House artist with 12 upcoming club dates listed on soundcheck as of Thu, 30 Jul 2026, next at Arzenal, Budapest on Fri, 31 Jul 2026.
 
 Chlär is a techno and house artist tracked on soundcheck, with 244 sets logged across Aberdeen, Amsterdam, Antwerp and Athens and 56 more. Often billed alongside Alarico, Funk Assault and Freddy K. Next up: Arzenal, Budapest on Fri 31 Jul.
 
@@ -36,4 +36,4 @@ Chlär is a techno and house artist tracked on soundcheck, with 244 sets logged 
 
 Alarico, Funk Assault, Freddy K
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/chlar/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/chlar/)*

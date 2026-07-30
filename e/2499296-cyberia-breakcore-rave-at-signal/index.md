@@ -1,6 +1,6 @@
 # CYBERIA - Breakcore Rave at Signal
 
-CYBERIA - Breakcore Rave at Signal on Thu 13 Aug, Newyorkcity. 4 acts on the bill: Creep-P, cybr.nova, Jonquar and TIMETRICKSTER. Hardcore and Breakcore. Preview the line-up and save it on soundcheck.
+CYBERIA - Breakcore Rave at Signal on Thu 13 Aug, Newyorkcity. 5 acts on the bill: Creep-P, cybr.nova, Donna Summer and Jonquar and 1 more. Hardcore and Breakcore. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -12,6 +12,7 @@ CYBERIA - Breakcore Rave at Signal on Thu 13 Aug, Newyorkcity. 4 acts on the bil
 
 - Creep-P
 - cybr.nova
+- Donna Summer
 - Jonquar
 - TIMETRICKSTER
 

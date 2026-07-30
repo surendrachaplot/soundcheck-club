@@ -1,6 +1,6 @@
 # KANON (1)
 
-KANON (1) is a Techno and Hardcore artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at Circus Tokyo, Tokyo on Sat, 8 Aug 2026.
+KANON (1) is a Techno and Hardcore artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at Circus Tokyo, Tokyo on Sat, 8 Aug 2026.
 
 KANON (1) is a techno and hardcore artist based in Japan, tracked on soundcheck, with 43 sets logged across Cologne, Frankfurt, Glasgow and London and 4 more. Often billed alongside KAMIKAZE, EVE (1) and Sonia Lagoon (2). Next up: Circus Tokyo, Tokyo on Sat 8 Aug.
 
@@ -25,4 +25,4 @@ KANON (1) is a techno and hardcore artist based in Japan, tracked on soundcheck,
 
 KAMIKAZE, EVE (1), Sonia Lagoon (2)
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/kanon-1/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/kanon-1/)*

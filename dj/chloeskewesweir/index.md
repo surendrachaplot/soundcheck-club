@@ -1,6 +1,6 @@
 # Chloe Skewesweir
 
-Chloe Skewesweir is a Techno and Hardcore artist with 2 upcoming club dates listed on soundcheck as of Wed, 29 Jul 2026, next at TBA - Inner West Location, Sydney on Fri, 31 Jul 2026.
+Chloe Skewesweir is a Techno and Hardcore artist with 2 upcoming club dates listed on soundcheck as of Thu, 30 Jul 2026, next at TBA - Inner West Location, Sydney on Fri, 31 Jul 2026.
 
 Chloe Skewesweir is a techno and hardcore artist based in Australia, tracked on soundcheck, with 19 sets logged across Sydney. Often billed alongside I-SO, LeStrange and ACED. Next up: TBA - Inner West Location, Sydney on Fri 31 Jul.
 
@@ -26,4 +26,4 @@ Chloe Skewesweir is a techno and hardcore artist based in Australia, tracked on 
 
 I-SO, LeStrange, ACED
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/chloeskewesweir/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/chloeskewesweir/)*

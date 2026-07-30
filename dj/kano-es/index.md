@@ -1,6 +1,6 @@
 # KANØ (ES)
 
-KANØ (ES) is a Techno and Electronica artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at Specka, Madrid on Sat, 1 Aug 2026.
+KANØ (ES) is a Techno and Electronica artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at Specka, Madrid on Sat, 1 Aug 2026.
 
 KANØ (ES) is a techno and electronica artist based in Spain, tracked on soundcheck, with 15 sets logged across Madrid. Often billed alongside Ari Jani, S.o.k.a.r and Trasto. Next up: Specka, Madrid on Sat 1 Aug.
 
@@ -25,4 +25,4 @@ KANØ (ES) is a techno and electronica artist based in Spain, tracked on soundch
 
 Ari Jani, S.o.k.a.r, Trasto
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/kano-es/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/kano-es/)*

@@ -1,6 +1,6 @@
 # Levi Love
 
-Levi Love is a House and Funk / Soul artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at renae, Manchester on Sat, 1 Aug 2026.
+Levi Love is a House and Funk / Soul artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at renae, Manchester on Sat, 1 Aug 2026.
 
 Levi Love is a house and funk / soul artist based in United Kingdom, tracked on soundcheck, with 63 sets logged across Liverpool, London and Manchester. Often billed alongside Joey T, Stallone (UK) and Marley Reid. Next up: renae, Manchester on Sat 1 Aug.
 
@@ -25,4 +25,4 @@ Levi Love is a house and funk / soul artist based in United Kingdom, tracked on 
 
 Joey T, Stallone (UK), Marley Reid
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/levilove-uk/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/levilove-uk/)*

@@ -1,6 +1,6 @@
 # OCCA
 
-OCCA is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at Berghain | Panorama Bar | Säule, Berlin on Thu, 30 Jul 2026.
+OCCA is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at Berghain | Panorama Bar | Säule, Berlin on Thu, 30 Jul 2026.
 
 OCCA is a techno and house artist based in Japan, tracked on soundcheck, with 129 sets logged across Amsterdam, Athens, Bangkok and Barcelona and 18 more. Often billed alongside Spekki Webu, DJ Sodeyama and OSHALEY. Next up: Berghain | Panorama Bar | Säule, Berlin on Thu 30 Jul.
 
@@ -25,4 +25,4 @@ OCCA is a techno and house artist based in Japan, tracked on soundcheck, with 12
 
 Spekki Webu, DJ Sodeyama, OSHALEY
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/occa/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/occa/)*

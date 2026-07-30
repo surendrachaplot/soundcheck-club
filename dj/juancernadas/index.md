@@ -1,6 +1,6 @@
 # Juan Cernadas
 
-Juan Cernadas is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at ://about blank, Berlin on Thu, 30 Jul 2026.
+Juan Cernadas is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at ://about blank, Berlin on Thu, 30 Jul 2026.
 
 Juan Cernadas is a techno and house artist based in Spain, tracked on soundcheck, with 23 sets logged across Berlin and Madrid. Often billed alongside Zomkrad, BIXBITA and Belen Zer. Next up: ://about blank, Berlin on Thu 30 Jul.
 
@@ -25,4 +25,4 @@ Juan Cernadas is a techno and house artist based in Spain, tracked on soundcheck
 
 Zomkrad, BIXBITA, Belen Zer
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/juancernadas/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/juancernadas/)*

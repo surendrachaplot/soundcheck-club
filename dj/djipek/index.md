@@ -1,6 +1,6 @@
 # DJ Ipek
 
-DJ Ipek is a House and Afrobeat artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at Import Export, Munich on Sat, 1 Aug 2026.
+DJ Ipek is a House and Afrobeat artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at Import Export, Munich on Sat, 1 Aug 2026.
 
 DJ Ipek is a house and afrobeat artist based in Germany, tracked on soundcheck, with 10 sets logged across Berlin, Munich and Vienna. Often billed alongside Acud, Alma Linda and Arnau. Next up: Import Export, Munich on Sat 1 Aug.
 
@@ -25,4 +25,4 @@ DJ Ipek is a house and afrobeat artist based in Germany, tracked on soundcheck, 
 
 Acud, Alma Linda, Arnau
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/djipek/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/djipek/)*

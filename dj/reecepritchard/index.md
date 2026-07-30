@@ -1,6 +1,6 @@
 # Reece Pritchard
 
-Reece Pritchard is a Techno and Hardcore artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at La Cheetah Club, Glasgow on Thu, 30 Jul 2026.
+Reece Pritchard is a Techno and Hardcore artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at La Cheetah Club, Glasgow on Thu, 30 Jul 2026.
 
 Reece Pritchard is a techno and hardcore artist based in United Kingdom, tracked on soundcheck, with 8 sets logged across Berlin, Edinburgh, Glasgow and London. Often billed alongside DREIAN, 999999999 and ASLO. Next up: La Cheetah Club, Glasgow on Thu 30 Jul.
 
@@ -24,4 +24,4 @@ Reece Pritchard is a techno and hardcore artist based in United Kingdom, tracked
 
 DREIAN, 999999999, ASLO
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/reecepritchard/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/reecepritchard/)*

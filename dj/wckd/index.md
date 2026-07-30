@@ -1,6 +1,6 @@
 # WCKD
 
-WCKD is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at Lane 23, Kuala Lumpur on Sat, 8 Aug 2026.
+WCKD is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at Lane 23, Kuala Lumpur on Sat, 8 Aug 2026.
 
 WCKD is a techno and house artist based in Malaysia, tracked on soundcheck, with 16 sets logged across Kualalumpur. Often billed alongside Jason Voon, Alam and Meliha. Next up: Lane 23, Kualalumpur on Sat 8 Aug.
 
@@ -25,4 +25,4 @@ WCKD is a techno and house artist based in Malaysia, tracked on soundcheck, with
 
 Jason Voon, Alam, Meliha
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/wckd/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/wckd/)*

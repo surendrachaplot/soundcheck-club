@@ -1,6 +1,6 @@
 # HUTS
 
-HUTS is a Techno and Acid artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at The Marcus Ward, Belfast on Sat, 1 Aug 2026.
+HUTS is a Techno and Acid artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at The Marcus Ward, Belfast on Sat, 1 Aug 2026.
 
 HUTS is a techno and acid artist based in United Kingdom, tracked on soundcheck, with 10 sets logged across Belfast, London and Newyorkcity. Often billed alongside GUZZ., ROGUE MYSTICK and Scott Matthews. Next up: The Marcus Ward, Belfast on Sat 1 Aug.
 
@@ -25,4 +25,4 @@ HUTS is a techno and acid artist based in United Kingdom, tracked on soundcheck,
 
 GUZZ., ROGUE MYSTICK, Scott Matthews
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/huts/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/huts/)*

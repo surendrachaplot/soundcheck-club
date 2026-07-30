@@ -1,6 +1,6 @@
 # Kamikatze
 
-Kamikatze is a Bass and Drum & Bass artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at Let it Roll Festival @Lake Most, Prague on Fri, 31 Jul 2026.
+Kamikatze is a Bass and Drum & Bass artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at Let it Roll Festival @Lake Most, Prague on Fri, 31 Jul 2026.
 
 Kamikatze is a bass and drum & bass artist based in Germany, tracked on soundcheck, with 19 sets logged across Leipzig, Munich and Prague. Often billed alongside Polaster, Cosimoto and Tyra. Next up: Let it Roll Festival @Lake Most, Prague on Fri 31 Jul.
 
@@ -25,4 +25,4 @@ Kamikatze is a bass and drum & bass artist based in Germany, tracked on soundche
 
 Polaster, Cosimoto, Tyra
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/kamikatze/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/kamikatze/)*

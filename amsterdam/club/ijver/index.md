@@ -1,6 +1,6 @@
 # Ijver
 
-Ijver is a music venue in Amsterdam with 2 upcoming nights listed on soundcheck as of Wed, 29 Jul 2026; the next is "Kompakt ADE" on Fri, 23 Oct 2026.
+Ijver is a music venue in Amsterdam with 2 upcoming nights listed on soundcheck as of Thu, 30 Jul 2026; the next is "Kompakt ADE" on Fri, 23 Oct 2026.
 
 Ijver is a music venue in Amsterdam listed on soundcheck. 2 upcoming nights, with line-ups including Extrawelt, Michael Mayer, Robag Wruhme and Roy Rosenfeld and 1 more. Browse upcoming dates, start times and who's playing. Scheepsbouwkade 72, 1033 WM Amsterdam.
 
@@ -15,4 +15,4 @@ Ijver is a music venue in Amsterdam listed on soundcheck. 2 upcoming nights, wit
 
 Scheepsbouwkade 72, 1033 WM Amsterdam, Amsterdam
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/ijver/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/ijver/)*

@@ -1,6 +1,6 @@
 # Rock Bottom
 
-Rock Bottom is a Techno and Drum & Bass artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at Sooki Lounge, Melbourne on Sat, 1 Aug 2026.
+Rock Bottom is a Techno and Drum & Bass artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at Sooki Lounge, Melbourne on Sat, 1 Aug 2026.
 
 Rock Bottom is a techno and drum & bass artist based in Sweden, tracked on soundcheck, with 3 sets logged across Melbourne. Often billed alongside BDE, CAITY WATSON and Cydia. Next up: Sooki Lounge, Melbourne on Sat 1 Aug.
 
@@ -19,4 +19,4 @@ Rock Bottom is a techno and drum & bass artist based in Sweden, tracked on sound
 
 BDE, CAITY WATSON, Cydia
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/rockbottom/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/rockbottom/)*

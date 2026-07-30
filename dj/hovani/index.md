@@ -1,6 +1,6 @@
 # Hovani
 
-Hovani is a Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at TILLATEC, Amsterdam on Sat, 22 Aug 2026.
+Hovani is a Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at TILLATEC, Amsterdam on Sat, 22 Aug 2026.
 
 Hovani is a techno artist based in Armenia, tracked on soundcheck, with 5 sets logged across Amsterdam and Rotterdam. Often billed alongside Arkan, Harald Uunk and James Harbrecht. Next up: TILLATEC, Amsterdam on Sat 22 Aug.
 
@@ -21,4 +21,4 @@ Hovani is a techno artist based in Armenia, tracked on soundcheck, with 5 sets l
 
 Arkan, Harald Uunk, James Harbrecht
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/hovani/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/hovani/)*

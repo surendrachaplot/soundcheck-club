@@ -1,6 +1,6 @@
 # Krafty Kuts
 
-Krafty Kuts is a Breakbeat and House artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at Europa Boat, Budapest on Sat, 22 Aug 2026.
+Krafty Kuts is a Breakbeat and House artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at Europa Boat, Budapest on Sat, 22 Aug 2026.
 
 Krafty Kuts is a breakbeat and house artist based in United Kingdom, tracked on soundcheck, with 26 sets logged across Auckland, Brighton, Brisbane and Budapest and 7 more. Often billed alongside Plump DJs, Freestylers and Stanton Warriors. Next up: Europa Boat, Budapest on Sat 22 Aug.
 
@@ -25,4 +25,4 @@ Krafty Kuts is a breakbeat and house artist based in United Kingdom, tracked on 
 
 Plump DJs, Freestylers, Stanton Warriors
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/kraftykuts/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/kraftykuts/)*

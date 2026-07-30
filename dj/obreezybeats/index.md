@@ -1,6 +1,6 @@
 # Obreezy Beats
 
-Obreezy Beats is a Techno and Club artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at Red Gate Arts Society, Vancouver on Sat, 1 Aug 2026.
+Obreezy Beats is a Techno and Club artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at Red Gate Arts Society, Vancouver on Sat, 1 Aug 2026.
 
 Obreezy Beats is a techno and club artist based in United States of America, tracked on soundcheck, with 9 sets logged across Philadelphia and Vancouver. Often billed alongside Kissel, RESONATE.JPEG and Speed.FM. Next up: Red Gate Arts Society, Vancouver on Sat 1 Aug.
 
@@ -25,4 +25,4 @@ Obreezy Beats is a techno and club artist based in United States of America, tra
 
 Kissel, RESONATE.JPEG, Speed.FM
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/obreezybeats/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/obreezybeats/)*

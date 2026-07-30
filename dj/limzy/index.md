@@ -1,6 +1,6 @@
 # LIMZy
 
-LIMZy is a electronic artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at fabric, London on Fri, 28 Aug 2026.
+LIMZy is a electronic artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at fabric, London on Fri, 28 Aug 2026.
 
 LIMZy is an electronic artist based in South Africa, tracked on soundcheck, with 3 sets logged across London. Often billed alongside Krys TN, Mixolis and MöRDA. Next up: fabric, London on Fri 28 Aug.
 
@@ -19,4 +19,4 @@ LIMZy is an electronic artist based in South Africa, tracked on soundcheck, with
 
 Krys TN, Mixolis, MöRDA
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/limzy/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/limzy/)*

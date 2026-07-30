@@ -1,6 +1,6 @@
 # Gremlinz
 
-Gremlinz is a Drum & Bass and Jungle artist with 4 upcoming club dates listed on soundcheck as of Wed, 29 Jul 2026, next at Boogie, Toronto on Sat, 1 Aug 2026.
+Gremlinz is a Drum & Bass and Jungle artist with 4 upcoming club dates listed on soundcheck as of Thu, 30 Jul 2026, next at Boogie, Toronto on Sat, 1 Aug 2026.
 
 Gremlinz is a drum & bass and jungle artist based in Canada, tracked on soundcheck, with 37 sets logged across Bristol, Denver, London and Miami and 6 more. Often billed alongside Jesta, Rumbleton and Marcus Visionary. Next up: Boogie, Toronto on Sat 1 Aug.
 
@@ -28,4 +28,4 @@ Gremlinz is a drum & bass and jungle artist based in Canada, tracked on soundche
 
 Jesta, Rumbleton, Marcus Visionary
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/gremlinz/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/gremlinz/)*

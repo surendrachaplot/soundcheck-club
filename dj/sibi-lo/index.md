@@ -1,6 +1,6 @@
 # sibi-lo
 
-sibi-lo is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at Distillery N17, London on Sat, 1 Aug 2026.
+sibi-lo is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at Distillery N17, London on Sat, 1 Aug 2026.
 
 sibi-lo is a techno and trance artist based in United Kingdom, tracked on soundcheck, with 11 sets logged across Lisbon and London. Often billed alongside DELARA, LO-LOW and Nina Pixina. Next up: Distillery N17, London on Sat 1 Aug.
 
@@ -25,4 +25,4 @@ sibi-lo is a techno and trance artist based in United Kingdom, tracked on soundc
 
 DELARA, LO-LOW, Nina Pixina
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/sibi-lo/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/sibi-lo/)*

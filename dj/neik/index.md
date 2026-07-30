@@ -1,6 +1,6 @@
 # Neik
 
-Neik is a House and Electro artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at Boat - MS Rhein / Boat Terminal: Mühlenstr. 70-71 / 10243 Berlin, Berlin on Sun, 23 Aug 2026.
+Neik is a House and Electro artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at Boat - MS Rhein / Boat Terminal: Mühlenstr. 70-71 / 10243 Berlin, Berlin on Sun, 23 Aug 2026.
 
 Neik is a house and electro artist based in Argentina, tracked on soundcheck, with 11 sets logged across Amsterdam, Berlin and Buenosaires. Often billed alongside ASIA (DE), DJ Koolt and Agonis. Next up: Boat - MS Rhein / Boat Terminal: Mühlenstr. 70-71 / 10243 Berlin, Berlin on Sun 23 Aug.
 
@@ -25,4 +25,4 @@ Neik is a house and electro artist based in Argentina, tracked on soundcheck, wi
 
 ASIA (DE), DJ Koolt, Agonis
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/neik/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/neik/)*

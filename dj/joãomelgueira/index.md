@@ -1,6 +1,6 @@
 # João Melgueira
 
-João Melgueira is a Techno and House artist with 4 upcoming club dates listed on soundcheck as of Wed, 29 Jul 2026, next at TBA - Pensão Amor, Lisbon on Sat, 1 Aug 2026.
+João Melgueira is a Techno and House artist with 4 upcoming club dates listed on soundcheck as of Thu, 30 Jul 2026, next at TBA - Pensão Amor, Lisbon on Sat, 1 Aug 2026.
 
 João Melgueira is a techno and house artist based in Portugal, tracked on soundcheck, with 130 sets logged across Lisbon. Often billed alongside Vitor Domingos, Paixão and FURAVIA. Next up: TBA - Pensão Amor, Lisbon on Sat 1 Aug.
 
@@ -28,4 +28,4 @@ João Melgueira is a techno and house artist based in Portugal, tracked on sound
 
 Vitor Domingos, Paixão, FURAVIA
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/joãomelgueira/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/joãomelgueira/)*

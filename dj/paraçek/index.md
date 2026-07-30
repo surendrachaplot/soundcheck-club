@@ -1,6 +1,6 @@
 # Paraçek
 
-Paraçek is a Techno and Trance artist with 11 upcoming club dates listed on soundcheck as of Wed, 29 Jul 2026, next at Donauinsel, Vienna on Sat, 1 Aug 2026.
+Paraçek is a Techno and Trance artist with 11 upcoming club dates listed on soundcheck as of Thu, 30 Jul 2026, next at Donauinsel, Vienna on Sat, 1 Aug 2026.
 
 Paraçek is a techno and trance artist tracked on soundcheck, with 149 sets logged across Amsterdam, Barcelona, Berlin and Cologne and 10 more. Often billed alongside A.N.I., KLING&KLANG and DJ WASSERFALL. Next up: Donauinsel, Vienna on Sat 1 Aug.
 
@@ -35,4 +35,4 @@ Paraçek is a techno and trance artist tracked on soundcheck, with 149 sets logg
 
 A.N.I., KLING&KLANG, DJ WASSERFALL
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/paraçek/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/paraçek/)*

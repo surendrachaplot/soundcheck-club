@@ -1,6 +1,6 @@
 # DJ Gregory
 
-DJ Gregory is a House and Afro House artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at Chinois Ibiza, Ibiza on Thu, 30 Jul 2026.
+DJ Gregory is a House and Afro House artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at Chinois Ibiza, Ibiza on Thu, 30 Jul 2026.
 
 DJ Gregory is a house and afro house artist tracked on soundcheck, with 21 sets logged across Birmingham, Geneva, Ibiza and Kualalumpur and 5 more. Often billed alongside Bob Sinclar, Laurent Garnier and Marina Trench. Next up: Chinois Ibiza, Ibiza on Thu 30 Jul.
 
@@ -25,4 +25,4 @@ DJ Gregory is a house and afro house artist tracked on soundcheck, with 21 sets 
 
 Bob Sinclar, Laurent Garnier, Marina Trench
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/djgregory/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/djgregory/)*

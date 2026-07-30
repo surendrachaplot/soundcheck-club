@@ -1,6 +1,6 @@
 # Yoofee
 
-Yoofee is a Bass and Breakbeat artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at The Carpet Shop, London on Sun, 23 Aug 2026.
+Yoofee is a Bass and Breakbeat artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at The Carpet Shop, London on Sun, 23 Aug 2026.
 
 Yoofee is a bass and breakbeat artist based in Germany, tracked on soundcheck, with 17 sets logged across Berlin, Brighton, Bristol and Brussels and 3 more. Often billed alongside DUKU, yungfya and Clearlight. Next up: The Carpet Shop, London on Sun 23 Aug.
 
@@ -25,4 +25,4 @@ Yoofee is a bass and breakbeat artist based in Germany, tracked on soundcheck, w
 
 DUKU, yungfya, Clearlight
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/yoofee/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/yoofee/)*

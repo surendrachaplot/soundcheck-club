@@ -1,6 +1,6 @@
 # Sona
 
-Sona is a Afro House and House artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at Chinois Ibiza, Ibiza on Fri, 31 Jul 2026.
+Sona is a Afro House and House artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at Chinois Ibiza, Ibiza on Fri, 31 Jul 2026.
 
 Sona is an afro house and house artist tracked on soundcheck, with 12 sets logged across Amsterdam, Antwerp, Houston and Ibiza and 5 more. Often billed alongside AMÉMÉ, BARON (UK) and Benja. Next up: Chinois Ibiza, Ibiza on Fri 31 Jul.
 
@@ -25,4 +25,4 @@ Sona is an afro house and house artist tracked on soundcheck, with 12 sets logge
 
 AMÉMÉ, BARON (UK), Benja
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/sona/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/sona/)*

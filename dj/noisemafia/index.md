@@ -1,8 +1,8 @@
 # Noise Mafia
 
-Noise Mafia is a Techno and Trance artist with 5 upcoming club dates listed on soundcheck as of Wed, 29 Jul 2026, next at Le point fort d'Aubervilliers, Paris on Sat, 1 Aug 2026.
+Noise Mafia is a Techno and Trance artist with 6 upcoming club dates listed on soundcheck as of Thu, 30 Jul 2026, next at Le point fort d'Aubervilliers, Paris on Sat, 1 Aug 2026.
 
-Noise Mafia is a techno and trance artist tracked on soundcheck, with 58 sets logged across Amsterdam, Barcelona, Basel and Belfast and 25 more. Often billed alongside Afem Syko, Adrian Mills and PETERBLUE. Next up: Le point fort d'Aubervilliers, Paris on Sat 1 Aug.
+Noise Mafia is a techno and trance artist tracked on soundcheck, with 59 sets logged across Amsterdam, Barcelona, Basel and Belfast and 25 more. Often billed alongside Afem Syko, PETERBLUE and Adrian Mills. Next up: Le point fort d'Aubervilliers, Paris on Sat 1 Aug.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Noise Mafia is a techno and trance artist tracked on soundcheck, with 58 sets lo
 | --- | --- | --- |
 | Sat, 1 Aug 2026 | Le point fort d'Aubervilliers | Paris |
 | Fri, 7 Aug 2026 | Artheater | Cologne |
+| Sat, 29 Aug 2026 | Loo Loo | Mexico City |
 | Fri, 11 Sept 2026 | Else | Berlin |
 | Sat, 12 Sept 2026 | Fabrik | Madrid |
 | Thu, 22 Oct 2026 | Melkweg | Amsterdam |
@@ -27,6 +28,6 @@ Noise Mafia is a techno and trance artist tracked on soundcheck, with 58 sets lo
 
 ## Shares bills with
 
-Afem Syko, Adrian Mills, PETERBLUE
+Afem Syko, PETERBLUE, Adrian Mills
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/noisemafia/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/noisemafia/)*

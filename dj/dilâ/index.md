@@ -1,6 +1,6 @@
 # Dilâ
 
-Dilâ is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at Jolene, Copenhagen on Fri, 31 Jul 2026.
+Dilâ is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at Jolene, Copenhagen on Fri, 31 Jul 2026.
 
 Dilâ is a techno and house artist based in Austria, tracked on soundcheck, with 7 sets logged across Copenhagen and Vienna. Often billed alongside Aimé, Alin and Bias. Next up: Jolene, Copenhagen on Fri 31 Jul.
 
@@ -23,4 +23,4 @@ Dilâ is a techno and house artist based in Austria, tracked on soundcheck, with
 
 Aimé, Alin, Bias
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/dilâ/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/dilâ/)*

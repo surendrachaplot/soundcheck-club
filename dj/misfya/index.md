@@ -1,6 +1,6 @@
 # MISFYA
 
-MISFYA is a Club and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at Jumbi, London on Sun, 2 Aug 2026.
+MISFYA is a Club and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at Jumbi, London on Sun, 2 Aug 2026.
 
 MISFYA is a club and techno artist tracked on soundcheck, with 33 sets logged across Amsterdam, Glasgow, Leeds and Lisbon and 3 more. Often billed alongside BEARCAT, Andras_2020 and BABYNYMPH777. Next up: Jumbi, London on Sun 2 Aug.
 
@@ -25,4 +25,4 @@ MISFYA is a club and techno artist tracked on soundcheck, with 33 sets logged ac
 
 BEARCAT, Andras_2020, BABYNYMPH777
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/misfya/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/misfya/)*

@@ -1,6 +1,6 @@
 # TBA - Skyward Budapest, Szérűraktár u. 53, 1212 
 
-TBA - Skyward Budapest, Szérűraktár u. 53, 1212  is a music venue in Budapest with 1 upcoming night listed on soundcheck as of Wed, 29 Jul 2026; the next is "ALTITUDE" on Fri, 31 Jul 2026.
+TBA - Skyward Budapest, Szérűraktár u. 53, 1212  is a music venue in Budapest with 1 upcoming night listed on soundcheck as of Thu, 30 Jul 2026; the next is "ALTITUDE" on Fri, 31 Jul 2026.
 
 TBA - Skyward Budapest, Szérűraktár u. 53, 1212  is a music venue in Budapest listed on soundcheck. 1 upcoming night. Browse upcoming dates, start times and who's playing.
 
@@ -10,4 +10,4 @@ TBA - Skyward Budapest, Szérűraktár u. 53, 1212  is a music venue in Budapest
 | --- | --- | --- |
 | Fri, 31 Jul 2026 | ALTITUDE |  |
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/budapest/club/tba-skyward-budapest-sz-r-rakt-r-u-53-1212/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/budapest/club/tba-skyward-budapest-sz-r-rakt-r-u-53-1212/)*

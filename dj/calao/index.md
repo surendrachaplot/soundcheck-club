@@ -1,6 +1,6 @@
 # Calao
 
-Calao is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at La Clairière, Paris on Sat, 5 Sept 2026.
+Calao is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at La Clairière, Paris on Sat, 5 Sept 2026.
 
 Calao is a techno and house artist tracked on soundcheck, with 12 sets logged across Antwerp, Brussels and Paris. Often billed alongside Fiona Zanetti, Mooglie and NTO. Next up: La Clairière, Paris on Sat 5 Sept.
 
@@ -25,4 +25,4 @@ Calao is a techno and house artist tracked on soundcheck, with 12 sets logged ac
 
 Fiona Zanetti, Mooglie, NTO
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/calao/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/calao/)*

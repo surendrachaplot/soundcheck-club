@@ -1,6 +1,6 @@
 # Bradley Skeng
 
-Bradley Skeng is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at Paradiso, Amsterdam on Fri, 31 Jul 2026.
+Bradley Skeng is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at Paradiso, Amsterdam on Fri, 31 Jul 2026.
 
 Bradley Skeng is a house and tech house artist tracked on soundcheck, with 31 sets logged across Amsterdam, Bristol, Cardiff and London and 1 more. Often billed alongside Joshua James, HE.RA and KaYa (UK). Next up: Paradiso, Amsterdam on Fri 31 Jul.
 
@@ -25,4 +25,4 @@ Bradley Skeng is a house and tech house artist tracked on soundcheck, with 31 se
 
 Joshua James, HE.RA, KaYa (UK)
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/bradleyskeng/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/bradleyskeng/)*

@@ -1,6 +1,6 @@
 # Otto Wagner Areal
 
-Otto Wagner Areal is a music venue in Vienna with 1 upcoming night listed on soundcheck as of Wed, 29 Jul 2026; the next is "Tender Matter pres. Hot Summer" on Sat, 8 Aug 2026.
+Otto Wagner Areal is a music venue in Vienna with 1 upcoming night listed on soundcheck as of Thu, 30 Jul 2026; the next is "Tender Matter pres. Hot Summer" on Sat, 8 Aug 2026.
 
 Otto Wagner Areal is a music venue in Vienna listed on soundcheck. 1 upcoming night, with line-ups including isocialbutterflyy and Mursal. Browse upcoming dates, start times and who's playing. Baumgartner Höhe 1, 1140 Wien.
 
@@ -14,4 +14,4 @@ Otto Wagner Areal is a music venue in Vienna listed on soundcheck. 1 upcoming ni
 
 Baumgartner Höhe 1, 1140 Wien, Vienna
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/vienna/club/otto-wagner-areal/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/vienna/club/otto-wagner-areal/)*

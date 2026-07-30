@@ -1,6 +1,6 @@
 # Samuel Richter
 
-Samuel Richter is a House and Breakbeat artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at All My Friends, London on Thu, 30 Jul 2026.
+Samuel Richter is a House and Breakbeat artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at All My Friends, London on Thu, 30 Jul 2026.
 
 Samuel Richter is a house and breakbeat artist based in Austria, tracked on soundcheck, with 2 sets logged across London. Often billed alongside Sleazy_G, Elysium Waves and Thoma Bulwer. Next up: All My Friends, London on Thu 30 Jul.
 
@@ -18,4 +18,4 @@ Samuel Richter is a house and breakbeat artist based in Austria, tracked on soun
 
 Sleazy_G, Elysium Waves, Thoma Bulwer
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/samuelrichter/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/samuelrichter/)*

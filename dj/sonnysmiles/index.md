@@ -1,6 +1,6 @@
 # Sonny Smiles
 
-Sonny Smiles is a Trance and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at Lokschuppen Berlin, Berlin on Fri, 11 Sept 2026.
+Sonny Smiles is a Trance and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at Lokschuppen Berlin, Berlin on Fri, 11 Sept 2026.
 
 Sonny Smiles is a trance and techno artist based in Japan, tracked on soundcheck, with 10 sets logged across Berlin. Often billed alongside Aexhy, DJ Henk and LŸBRA. Next up: Lokschuppen Berlin, Berlin on Fri 11 Sept.
 
@@ -25,4 +25,4 @@ Sonny Smiles is a trance and techno artist based in Japan, tracked on soundcheck
 
 Aexhy, DJ Henk, LŸBRA
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/sonnysmiles/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/sonnysmiles/)*

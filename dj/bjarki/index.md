@@ -1,6 +1,6 @@
 # Bjarki
 
-Bjarki is a Techno and Electro artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at TILLATEC, Amsterdam on Sun, 2 Aug 2026.
+Bjarki is a Techno and Electro artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at TILLATEC, Amsterdam on Sun, 2 Aug 2026.
 
 Bjarki is a techno and electro artist based in Iceland, tracked on soundcheck, with 43 sets logged across Amsterdam, Antwerp, Berlin and Boston and 15 more. Often billed alongside Disguised, Tweeman and Adriana Lopez. Next up: TILLATEC, Amsterdam on Sun 2 Aug.
 
@@ -25,4 +25,4 @@ Bjarki is a techno and electro artist based in Iceland, tracked on soundcheck, w
 
 Disguised, Tweeman, Adriana Lopez
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/bjarki/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/bjarki/)*

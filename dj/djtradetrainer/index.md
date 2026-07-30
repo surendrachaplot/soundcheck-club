@@ -1,6 +1,6 @@
 # DJ Trade Trainer
 
-DJ Trade Trainer is a Ambient and Experimental artist with 2 upcoming club dates listed on soundcheck as of Wed, 29 Jul 2026, next at Paloma, Berlin on Fri, 31 Jul 2026.
+DJ Trade Trainer is a Ambient and Experimental artist with 2 upcoming club dates listed on soundcheck as of Thu, 30 Jul 2026, next at Paloma, Berlin on Fri, 31 Jul 2026.
 
 DJ Trade Trainer is an ambient and experimental artist based in United States of America, tracked on soundcheck, with 18 sets logged across Berlin. Often billed alongside MADAKYA, Organza and Sub Sahara. Next up: Paloma, Berlin on Fri 31 Jul.
 
@@ -26,4 +26,4 @@ DJ Trade Trainer is an ambient and experimental artist based in United States of
 
 MADAKYA, Organza, Sub Sahara
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/djtradetrainer/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/djtradetrainer/)*

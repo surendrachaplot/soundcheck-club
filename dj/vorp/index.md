@@ -1,6 +1,6 @@
 # Vorp
 
-Vorp is a Techno and Electro artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at Swig, Chicago on Thu, 30 Jul 2026.
+Vorp is a Techno and Electro artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at Swig, Chicago on Thu, 30 Jul 2026.
 
 Vorp is a techno and electro artist based in United States of America, tracked on soundcheck, with 34 sets logged across Berlin, Chicago, Nashville and Newyorkcity. Often billed alongside Asha Rahaylia, Angelia Word and JS Alvarez. Next up: Swig, Chicago on Thu 30 Jul.
 
@@ -25,4 +25,4 @@ Vorp is a techno and electro artist based in United States of America, tracked o
 
 Asha Rahaylia, Angelia Word, JS Alvarez
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/vorp/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/vorp/)*

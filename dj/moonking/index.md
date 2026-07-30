@@ -1,6 +1,6 @@
 # Moon King
 
-Moon King is a House and Electro artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at Bambi's, Toronto on Fri, 14 Aug 2026.
+Moon King is a House and Electro artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at Bambi's, Toronto on Fri, 14 Aug 2026.
 
 Moon King is a house and electro artist based in Canada, tracked on soundcheck, with 35 sets logged across Detroit and Toronto. Often billed alongside Ensoul, Kiki LeFreak and Milch (1). Next up: Bambi's, Toronto on Fri 14 Aug.
 
@@ -25,4 +25,4 @@ Moon King is a house and electro artist based in Canada, tracked on soundcheck, 
 
 Ensoul, Kiki LeFreak, Milch (1)
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/moonking/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/moonking/)*

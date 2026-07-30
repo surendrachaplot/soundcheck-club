@@ -1,6 +1,6 @@
 # Lamimixa
 
-Lamimixa is a Bass and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at BarKa, Warsaw on Thu, 30 Jul 2026.
+Lamimixa is a Bass and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at BarKa, Warsaw on Thu, 30 Jul 2026.
 
 Lamimixa is a bass and techno artist based in Poland, tracked on soundcheck, with 17 sets logged across Warsaw. Often billed alongside Some Guest, Zły Pies and faron. Next up: BarKa, Warsaw on Thu 30 Jul.
 
@@ -25,4 +25,4 @@ Lamimixa is a bass and techno artist based in Poland, tracked on soundcheck, wit
 
 Some Guest, Zły Pies, faron
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/lamimixa/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/lamimixa/)*

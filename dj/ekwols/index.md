@@ -1,6 +1,6 @@
 # Ekwols
 
-Ekwols is a Drum & Bass and Jungle artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at Estraperlo, Barcelona on Fri, 25 Sept 2026.
+Ekwols is a Drum & Bass and Jungle artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at Estraperlo, Barcelona on Fri, 25 Sept 2026.
 
 Ekwols is a drum & bass and jungle artist based in United Kingdom, tracked on soundcheck, with 13 sets logged across Barcelona, Glasgow, London and Prague and 2 more. Often billed alongside Magnetude, Task Horizon and Beast Jane. Next up: Estraperlo, Barcelona on Fri 25 Sept.
 
@@ -25,4 +25,4 @@ Ekwols is a drum & bass and jungle artist based in United Kingdom, tracked on so
 
 Magnetude, Task Horizon, Beast Jane
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/ekwols/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/ekwols/)*

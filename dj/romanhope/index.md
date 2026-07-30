@@ -1,6 +1,6 @@
 # Roman Hope
 
-Roman Hope is a Progressive House and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at Local Support, Buenos Aires on Sat, 1 Aug 2026.
+Roman Hope is a Progressive House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at Local Support, Buenos Aires on Sat, 1 Aug 2026.
 
 Roman Hope is a progressive house and techno artist based in Argentina, tracked on soundcheck, with 7 sets logged across Amsterdam, Buenosaires, Osaka and Tokyo. Often billed alongside AHREUM, Conures (DJ Tokunaga) and DJ NECO. Next up: Local Support, Buenosaires on Sat 1 Aug.
 
@@ -23,4 +23,4 @@ Roman Hope is a progressive house and techno artist based in Argentina, tracked 
 
 AHREUM, Conures (DJ Tokunaga), DJ NECO
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/romanhope/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/romanhope/)*

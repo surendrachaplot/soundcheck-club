@@ -1,6 +1,6 @@
 # S.U.R.E.
 
-S.U.R.E. is a Deep House and House artist with 2 upcoming club dates listed on soundcheck as of Wed, 29 Jul 2026, next at Crown Pier, London on Sat, 15 Aug 2026.
+S.U.R.E. is a Deep House and House artist with 2 upcoming club dates listed on soundcheck as of Thu, 30 Jul 2026, next at Crown Pier, London on Sat, 15 Aug 2026.
 
 S.U.R.E. is a deep house and house artist based in United Kingdom, tracked on soundcheck, with 18 sets logged across Berlin, Bristol and London. Often billed alongside Sharpson, Simon Alfred and BRUSS. Next up: Crown Pier, London on Sat 15 Aug.
 
@@ -26,4 +26,4 @@ S.U.R.E. is a deep house and house artist based in United Kingdom, tracked on so
 
 Sharpson, Simon Alfred, BRUSS
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/sure/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/sure/)*

@@ -1,6 +1,6 @@
 # Yesterdayneverhappened
 
-Yesterdayneverhappened is a Jungle and House artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at The Burlington, Chicago on Sat, 22 Aug 2026.
+Yesterdayneverhappened is a Jungle and House artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at The Burlington, Chicago on Sat, 22 Aug 2026.
 
 Yesterdayneverhappened is a jungle and house artist based in United States of America, tracked on soundcheck, with 51 sets logged across Boston, Chicago, Detroit and Losangeles and 6 more. Often billed alongside Dazegxd, 3mouth and migeru. Next up: The Burlington, Chicago on Sat 22 Aug.
 
@@ -25,4 +25,4 @@ Yesterdayneverhappened is a jungle and house artist based in United States of Am
 
 Dazegxd, 3mouth, migeru
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/yesterdayneverhappened/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/yesterdayneverhappened/)*

@@ -1,6 +1,6 @@
 # Mattia Scolaro
 
-Mattia Scolaro is a Tech House and House artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at Luz De Gas, Barcelona on Sat, 1 Aug 2026.
+Mattia Scolaro is a Tech House and House artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at Luz De Gas, Barcelona on Sat, 1 Aug 2026.
 
 Mattia Scolaro is a tech house and house artist tracked on soundcheck, with 10 sets logged across Barcelona. Often billed alongside ACA (YU), Reelow and Daes. Next up: Luz De Gas, Barcelona on Sat 1 Aug.
 
@@ -25,4 +25,4 @@ Mattia Scolaro is a tech house and house artist tracked on soundcheck, with 10 s
 
 ACA (YU), Reelow, Daes
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/mattiascolaro/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/mattiascolaro/)*

@@ -1,6 +1,6 @@
 # NØ TiME
 
-NØ TiME is a Trance artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at TBA - Near Berlin (Secret Forest), Berlin on Thu, 6 Aug 2026.
+NØ TiME is a Trance artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at TBA - Near Berlin (Secret Forest), Berlin on Thu, 6 Aug 2026.
 
 NØ TiME is a trance artist based in Germany, tracked on soundcheck, with 9 sets logged across Berlin. Often billed alongside AINA.KRU, Cobb Douglas and ZOEVITA. Next up: TBA - Near Berlin (Secret Forest), Berlin on Thu 6 Aug.
 
@@ -25,4 +25,4 @@ NØ TiME is a trance artist based in Germany, tracked on soundcheck, with 9 sets
 
 AINA.KRU, Cobb Douglas, ZOEVITA
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/notime/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/notime/)*

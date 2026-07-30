@@ -1,6 +1,6 @@
 # SHEA (2)
 
-SHEA (2) is a Techno and Hardcore artist with 2 upcoming club dates listed on soundcheck as of Wed, 29 Jul 2026, next at The Comfort Zone, Toronto on Fri, 31 Jul 2026.
+SHEA (2) is a Techno and Hardcore artist with 2 upcoming club dates listed on soundcheck as of Thu, 30 Jul 2026, next at The Comfort Zone, Toronto on Fri, 31 Jul 2026.
 
 SHEA (2) is a techno and hardcore artist based in Canada, tracked on soundcheck, with 3 sets logged across Toronto. Often billed alongside Alley Kay, DJ Minx and KAYN. Next up: The Comfort Zone, Toronto on Fri 31 Jul.
 
@@ -19,4 +19,4 @@ SHEA (2) is a techno and hardcore artist based in Canada, tracked on soundcheck,
 
 Alley Kay, DJ Minx, KAYN
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/shea-2/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/shea-2/)*

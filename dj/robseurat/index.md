@@ -1,6 +1,6 @@
 # Rob Seurat
 
-Rob Seurat is a Electro and Acid artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at Bossa Nova Civic Club, New York City on Thu, 30 Jul 2026.
+Rob Seurat is a Electro and Acid artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at Bossa Nova Civic Club, New York City on Thu, 30 Jul 2026.
 
 Rob Seurat is an electro and acid artist based in United States of America, tracked on soundcheck, with 30 sets logged across Detroit and Newyorkcity. Often billed alongside UPRFXR, Arvin T and Heidi Sabertooth. Next up: Bossa Nova Civic Club, Newyorkcity on Thu 30 Jul.
 
@@ -25,4 +25,4 @@ Rob Seurat is an electro and acid artist based in United States of America, trac
 
 UPRFXR, Arvin T, Heidi Sabertooth
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/robseurat/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/robseurat/)*

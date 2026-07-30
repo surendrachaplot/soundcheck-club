@@ -1,6 +1,6 @@
 # aist (LT)
 
-aist (LT) is a Tech House and House artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at MONKEY LOVE, Warsaw on Fri, 31 Jul 2026.
+aist (LT) is a Tech House and House artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at MONKEY LOVE, Warsaw on Fri, 31 Jul 2026.
 
 aist (LT) is a tech house and house artist based in Lithuania, tracked on soundcheck, with 32 sets logged across Krakow and Warsaw. Often billed alongside zenwerk, Badalian and anke schön. Next up: MONKEY LOVE, Warsaw on Fri 31 Jul.
 
@@ -25,4 +25,4 @@ aist (LT) is a tech house and house artist based in Lithuania, tracked on soundc
 
 zenwerk, Badalian, anke schön
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/aistlt/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/aistlt/)*

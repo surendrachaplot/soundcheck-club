@@ -1,6 +1,6 @@
 # Mystic Mind
 
-Mystic Mind is a Progressive House and House artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at Evergreen Brick Works, Toronto on Sun, 27 Sept 2026.
+Mystic Mind is a Progressive House and House artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at Evergreen Brick Works, Toronto on Sun, 27 Sept 2026.
 
 Mystic Mind is a progressive house and house artist based in Canada, tracked on soundcheck, with 8 sets logged across Toronto. Often billed alongside Jonathan Rosa, Nick Warren and Addy. Next up: Evergreen Brick Works, Toronto on Sun 27 Sept.
 
@@ -24,4 +24,4 @@ Mystic Mind is a progressive house and house artist based in Canada, tracked on 
 
 Jonathan Rosa, Nick Warren, Addy
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/mysticmind/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/mysticmind/)*

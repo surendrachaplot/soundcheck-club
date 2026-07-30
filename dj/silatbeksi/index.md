@@ -1,6 +1,6 @@
 # Silat Beksi
 
-Silat Beksi is a Minimal and House artist with 2 upcoming club dates listed on soundcheck as of Wed, 29 Jul 2026, next at Innside Hafen Hamburg, Hamburg on Sat, 1 Aug 2026.
+Silat Beksi is a Minimal and House artist with 2 upcoming club dates listed on soundcheck as of Thu, 30 Jul 2026, next at Innside Hafen Hamburg, Hamburg on Sat, 1 Aug 2026.
 
 Silat Beksi is a minimal and house artist based in Ukraine, tracked on soundcheck, with 45 sets logged across Barcelona, Berlin, Brussels and Bucharest and 14 more. Often billed alongside Bttologic, David Delgado and Fedo (UA). Next up: Innside Hafen Hamburg, Hamburg on Sat 1 Aug.
 
@@ -26,4 +26,4 @@ Silat Beksi is a minimal and house artist based in Ukraine, tracked on soundchec
 
 Bttologic, David Delgado, Fedo (UA)
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/silatbeksi/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/silatbeksi/)*

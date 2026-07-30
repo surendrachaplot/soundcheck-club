@@ -1,6 +1,6 @@
 # RL Grime
 
-RL Grime is a Bass and Dubstep artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at TBA - Hollywood Park adjacent to SoFi Stadium, Los Angeles on Sat, 1 Aug 2026.
+RL Grime is a Bass and Dubstep artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at TBA - Hollywood Park adjacent to SoFi Stadium, Los Angeles on Sat, 1 Aug 2026.
 
 RL Grime is a bass and dubstep artist based in United States of America, tracked on soundcheck, with 13 sets logged across Boston, Brisbane, Chicago and Losangeles and 6 more. Often billed alongside Benny Benassi, Dimension and Zedd. Next up: TBA - Hollywood Park adjacent to SoFi Stadium, Losangeles on Sat 1 Aug.
 
@@ -25,4 +25,4 @@ RL Grime is a bass and dubstep artist based in United States of America, tracked
 
 Benny Benassi, Dimension, Zedd
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/rlgrime/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/rlgrime/)*

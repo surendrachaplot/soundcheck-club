@@ -1,6 +1,6 @@
 # Kilomètre25
 
-Kilomètre25 is a music venue in Paris with 18 upcoming nights listed on soundcheck as of Wed, 29 Jul 2026; the next is "TAKE HIT: Rian Wood, Zaphy, KD/MS, Mon.To" on Thu, 30 Jul 2026.
+Kilomètre25 is a music venue in Paris with 18 upcoming nights listed on soundcheck as of Thu, 30 Jul 2026; the next is "TAKE HIT: Rian Wood, Zaphy, KD/MS, Mon.To" on Thu, 30 Jul 2026.
 
 Kilomètre25 is a music venue in Paris listed on soundcheck. 18 upcoming nights, with line-ups including Airod, ALT8, Angie (FR) and A*S*Y*S (2) and 2 more. Browse upcoming dates, start times and who's playing. 8 Boulevard MacDonald 75019 Paris.
 
@@ -23,4 +23,4 @@ Kilomètre25 is a music venue in Paris listed on soundcheck. 18 upcoming nights,
 
 8 Boulevard MacDonald 75019 Paris, Paris
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/paris/club/kilom-tre25/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/paris/club/kilom-tre25/)*

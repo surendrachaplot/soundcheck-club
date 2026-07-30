@@ -1,6 +1,6 @@
 # ZOBAYDA
 
-ZOBAYDA is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at Shunter, Rotterdam on Sat, 22 Aug 2026.
+ZOBAYDA is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at Shunter, Rotterdam on Sat, 22 Aug 2026.
 
 ZOBAYDA is a techno and house artist tracked on soundcheck, with 45 sets logged across Amsterdam, Berlin, Brussels and Leipzig and 3 more. Often billed alongside YoungWoman, DIORA and Slimfit. Next up: Shunter, Rotterdam on Sat 22 Aug.
 
@@ -25,4 +25,4 @@ ZOBAYDA is a techno and house artist tracked on soundcheck, with 45 sets logged 
 
 YoungWoman, DIORA, Slimfit
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/zobayda/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/zobayda/)*

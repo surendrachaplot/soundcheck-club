@@ -1,6 +1,6 @@
 # Kontronatura
 
-Kontronatura is a Baile Funk and Techno artist with 5 upcoming club dates listed on soundcheck as of Wed, 29 Jul 2026, next at OHM, Berlin on Fri, 31 Jul 2026.
+Kontronatura is a Baile Funk and Techno artist with 5 upcoming club dates listed on soundcheck as of Thu, 30 Jul 2026, next at OHM, Berlin on Fri, 31 Jul 2026.
 
 Kontronatura is a baile funk and techno artist tracked on soundcheck, with 88 sets logged across Amsterdam, Barcelona, Berlin and Brussels and 14 more. Often billed alongside Cashu, Alírio and EVEHIVE. Next up: OHM, Berlin on Fri 31 Jul.
 
@@ -29,4 +29,4 @@ Kontronatura is a baile funk and techno artist tracked on soundcheck, with 88 se
 
 Cashu, Alírio, EVEHIVE
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/kontronatura/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/kontronatura/)*

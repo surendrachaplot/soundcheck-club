@@ -1,6 +1,6 @@
 # Nanako Yamane
 
-Nanako Yamane is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at Casablanca Riverside, Osaka on Sat, 1 Aug 2026.
+Nanako Yamane is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at Casablanca Riverside, Osaka on Sat, 1 Aug 2026.
 
 Nanako Yamane is a house and techno artist based in Japan, tracked on soundcheck, with 44 sets logged across Osaka and Tokyo. Often billed alongside SIGNAL (JP), YU-MA and DMITRI ABSINTHE. Next up: Casablanca Riverside, Osaka on Sat 1 Aug.
 
@@ -25,4 +25,4 @@ Nanako Yamane is a house and techno artist based in Japan, tracked on soundcheck
 
 SIGNAL (JP), YU-MA, DMITRI ABSINTHE
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/nanakoyamane/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/nanakoyamane/)*

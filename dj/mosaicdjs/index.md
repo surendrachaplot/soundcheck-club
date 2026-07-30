@@ -1,6 +1,6 @@
 # Mosaic DJs
 
-Mosaic DJs is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at The Marcus Ward, Belfast on Sat, 1 Aug 2026.
+Mosaic DJs is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at The Marcus Ward, Belfast on Sat, 1 Aug 2026.
 
 Mosaic DJs is a techno and house artist based in Ireland, tracked on soundcheck, with 2 sets logged across Belfast. Often billed alongside CLERK., Casual and GUZZ.. Next up: The Marcus Ward, Belfast on Sat 1 Aug.
 
@@ -18,4 +18,4 @@ Mosaic DJs is a techno and house artist based in Ireland, tracked on soundcheck,
 
 CLERK., Casual, GUZZ.
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/mosaicdjs/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/mosaicdjs/)*

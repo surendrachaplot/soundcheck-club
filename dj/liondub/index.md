@@ -1,6 +1,6 @@
 # Liondub
 
-Liondub is a Drum & Bass and Jungle artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at Miss Lilys 7A, New York City on Thu, 30 Jul 2026.
+Liondub is a Drum & Bass and Jungle artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at Miss Lilys 7A, New York City on Thu, 30 Jul 2026.
 
 Liondub is a drum & bass and jungle artist based in United States of America, tracked on soundcheck, with 15 sets logged across Amsterdam, London, Newyorkcity and Philadelphia. Often billed alongside Ultra DNB, A$HLEY and ANDROMEDA. Next up: Miss Lilys 7A, Newyorkcity on Thu 30 Jul.
 
@@ -25,4 +25,4 @@ Liondub is a drum & bass and jungle artist based in United States of America, tr
 
 Ultra DNB, A$HLEY, ANDROMEDA
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/liondub/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/liondub/)*

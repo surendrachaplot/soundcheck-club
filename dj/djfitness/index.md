@@ -1,6 +1,6 @@
 # DJ Fitness
 
-DJ Fitness is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at Jolene Downtown Miami, Miami on Sat, 15 Aug 2026.
+DJ Fitness is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at Jolene Downtown Miami, Miami on Sat, 15 Aug 2026.
 
 DJ Fitness is a house and techno artist based in Mexico, tracked on soundcheck, with 24 sets logged across Berlin, Denver, Miami and Newyorkcity. Often billed alongside Brother Dan, EZ Dee and Jonny From Space. Next up: Jolene Downtown Miami, Miami on Sat 15 Aug.
 
@@ -25,4 +25,4 @@ DJ Fitness is a house and techno artist based in Mexico, tracked on soundcheck, 
 
 Brother Dan, EZ Dee, Jonny From Space
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/djfitness/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/djfitness/)*

@@ -1,6 +1,6 @@
 # SAM. C
 
-SAM. C is a Acid and Tech House artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at Village du Soir, Geneva on Fri, 31 Jul 2026.
+SAM. C is a Acid and Tech House artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at Village du Soir, Geneva on Fri, 31 Jul 2026.
 
 SAM. C is an acid and tech house artist based in Netherlands, tracked on soundcheck, with 3 sets logged across Amsterdam, Geneva and Utrecht. Often billed alongside ANouch, Boris Way and Brady. Next up: Village du Soir, Geneva on Fri 31 Jul.
 
@@ -19,4 +19,4 @@ SAM. C is an acid and tech house artist based in Netherlands, tracked on soundch
 
 ANouch, Boris Way, Brady
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/sam.c/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/sam.c/)*

@@ -1,6 +1,6 @@
 # 宀 Club
 
-宀 Club is a music venue in Hong Kong with 19 upcoming nights listed on soundcheck as of Wed, 29 Jul 2026; the next is "宀 Invites Taku Hirayama (Junction, Da Nang) B2B Konnection (Liminal Space, Hong Kong)" on Fri, 31 Jul 2026.
+宀 Club is a music venue in Hong Kong with 19 upcoming nights listed on soundcheck as of Thu, 30 Jul 2026; the next is "宀 Invites Taku Hirayama (Junction, Da Nang) B2B Konnection (Liminal Space, Hong Kong)" on Fri, 31 Jul 2026.
 
 宀 Club is a music venue in Hongkong listed on soundcheck. 19 upcoming nights, with line-ups including 69DB, Albino Sound, A Strange Wedding and Charlieowo and 2 more. Browse upcoming dates, start times and who's playing. 4F, 279 Des Voeux Road Central, Sheung Wan, Hong Kong.
 
@@ -23,4 +23,4 @@
 
 4F, 279 Des Voeux Road Central, Sheung Wan, Hong Kong, Hong Kong
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/hongkong/club/club/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/hongkong/club/club/)*

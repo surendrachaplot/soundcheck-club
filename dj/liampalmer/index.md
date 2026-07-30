@@ -1,14 +1,13 @@
 # Liam Palmer
 
-Liam Palmer is a House and Tech House artist with 8 upcoming club dates listed on soundcheck as of Wed, 29 Jul 2026, next at Blue Marlin Ibiza, Ibiza on Wed, 29 Jul 2026.
+Liam Palmer is a House and Tech House artist with 7 upcoming club dates listed on soundcheck as of Thu, 30 Jul 2026, next at [UNVRS], Ibiza on Wed, 12 Aug 2026.
 
-Liam Palmer is a house and tech house artist tracked on soundcheck, with 155 sets logged across Amsterdam, Auckland, Barcelona and Berlin and 25 more. Often billed alongside Elliot Schooling, Locky and L.P. Rhythm. Next up: Blue Marlin Ibiza, Ibiza on Wed 29 Jul.
+Liam Palmer is a house and tech house artist tracked on soundcheck, with 155 sets logged across Amsterdam, Auckland, Barcelona and Berlin and 25 more. Often billed alongside Elliot Schooling, Locky and L.P. Rhythm. Next up: [UNVRS], Ibiza on Wed 12 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Wed, 29 Jul 2026 | Blue Marlin Ibiza | Ibiza |
 | Wed, 12 Aug 2026 | [UNVRS] | Ibiza |
 | Fri, 14 Aug 2026 | Night We Met | Nashville |
 | Sat, 29 Aug 2026 | Kelvedon Hall | London |
@@ -19,6 +18,7 @@ Liam Palmer is a house and tech house artist tracked on soundcheck, with 155 set
 
 ## Recently played
 
+- Blue Marlin Ibiza, Ibiza — Wed, 29 Jul 2026
 - Chinois Ibiza, Ibiza — Tue, 28 Jul 2026
 - Chinois Ibiza, Ibiza — Tue, 21 Jul 2026
 - FORGE, Sheffield — Sun, 19 Jul 2026
@@ -26,10 +26,9 @@ Liam Palmer is a house and tech house artist tracked on soundcheck, with 155 set
 - Piknic Électronik / Parc Jean Drapeau, Montreal — Sat, 11 Jul 2026
 - Chinois Ibiza, Ibiza — Tue, 7 Jul 2026
 - LA-YAM Rooftop, London — Sat, 4 Jul 2026
-- Parc del Fòrum, Barcelona — Fri, 19 Jun 2026
 
 ## Shares bills with
 
 Elliot Schooling, Locky, L.P. Rhythm
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/liampalmer/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/liampalmer/)*

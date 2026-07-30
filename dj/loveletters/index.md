@@ -1,6 +1,6 @@
 # Love Letters
 
-Love Letters is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at Nowadays, New York City on Sat, 8 Aug 2026.
+Love Letters is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at Nowadays, New York City on Sat, 8 Aug 2026.
 
 Love Letters is a techno and house artist based in United States of America, tracked on soundcheck, with 59 sets logged across Losangeles, Montreal, Newyorkcity and Toronto and 1 more. Often billed alongside Mike Servito, Lauren Flax and JADALAREIGN. Next up: Nowadays, Newyorkcity on Sat 8 Aug.
 
@@ -25,4 +25,4 @@ Love Letters is a techno and house artist based in United States of America, tra
 
 Mike Servito, Lauren Flax, JADALAREIGN
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/loveletters/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/loveletters/)*

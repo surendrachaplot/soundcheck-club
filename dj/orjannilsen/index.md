@@ -1,6 +1,6 @@
 # Orjan Nilsen
 
-Orjan Nilsen is a Trance and Electronica artist with 2 upcoming club dates listed on soundcheck as of Wed, 29 Jul 2026, next at Zurich Lake, Zurich on Sat, 8 Aug 2026.
+Orjan Nilsen is a Trance and Electronica artist with 2 upcoming club dates listed on soundcheck as of Thu, 30 Jul 2026, next at Zurich Lake, Zurich on Sat, 8 Aug 2026.
 
 Orjan Nilsen is a trance and electronica artist based in Norway, tracked on soundcheck, with 15 sets logged across Amsterdam, Budapest, Buenosaires and London and 7 more. Often billed alongside Daxson, Mauro Picotto and Aly & Fila. Next up: Zurich Lake, Zurich on Sat 8 Aug.
 
@@ -26,4 +26,4 @@ Orjan Nilsen is a trance and electronica artist based in Norway, tracked on soun
 
 Daxson, Mauro Picotto, Aly & Fila
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/orjannilsen/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/orjannilsen/)*

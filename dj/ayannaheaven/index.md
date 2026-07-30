@@ -1,14 +1,13 @@
 # Ayanna Heaven
 
-Ayanna Heaven is a Dancehall and House artist with 6 upcoming club dates listed on soundcheck as of Wed, 29 Jul 2026, next at Le Bain, New York City on Wed, 29 Jul 2026.
+Ayanna Heaven is a Dancehall and House artist with 5 upcoming club dates listed on soundcheck as of Thu, 30 Jul 2026, next at Bossa Nova Civic Club, New York City on Fri, 31 Jul 2026.
 
-Ayanna Heaven is a dancehall and house artist based in United States of America, tracked on soundcheck, with 71 sets logged across Athens, London, Manchester and Newyorkcity and 2 more. Often billed alongside Honey Bun, Akanbi and Lovie. Next up: Le Bain, Newyorkcity on Wed 29 Jul.
+Ayanna Heaven is a dancehall and house artist based in United States of America, tracked on soundcheck, with 71 sets logged across Athens, London, Manchester and Newyorkcity and 2 more. Often billed alongside Honey Bun, Akanbi and Lovie. Next up: Bossa Nova Civic Club, Newyorkcity on Fri 31 Jul.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Wed, 29 Jul 2026 | Le Bain | New York City |
 | Fri, 31 Jul 2026 | Bossa Nova Civic Club | New York City |
 | Tue, 4 Aug 2026 | Silence Please | New York City |
 | Sat, 8 Aug 2026 | Night Tales Loft | London |
@@ -17,6 +16,7 @@ Ayanna Heaven is a dancehall and house artist based in United States of America,
 
 ## Recently played
 
+- Le Bain, New York City — Wed, 29 Jul 2026
 - Signal, New York City — Sun, 26 Jul 2026
 - public records, New York City — Sat, 18 Jul 2026
 - Honey's, New York City — Thu, 9 Jul 2026
@@ -24,10 +24,9 @@ Ayanna Heaven is a dancehall and house artist based in United States of America,
 - Silence Please, New York City — Wed, 1 Jul 2026
 - Πεδίον του Άρεως / Pedion Areos, Athens — Fri, 26 Jun 2026
 - Sunset Park Rooftop, New York City — Sat, 20 Jun 2026
-- Le Bain, New York City — Wed, 17 Jun 2026
 
 ## Shares bills with
 
 Honey Bun, Akanbi, Lovie
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/ayannaheaven/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/ayannaheaven/)*

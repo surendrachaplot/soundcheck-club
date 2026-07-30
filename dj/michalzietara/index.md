@@ -1,6 +1,6 @@
 # Michal Zietara
 
-Michal Zietara is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Wed, 29 Jul 2026, next at OXI, Berlin on Sun, 9 Aug 2026.
+Michal Zietara is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Thu, 30 Jul 2026, next at OXI, Berlin on Sun, 9 Aug 2026.
 
 Michal Zietara is a house and techno artist based in Germany, tracked on soundcheck, with 35 sets logged across Berlin, Hamburg, Leipzig and Munich and 2 more. Often billed alongside Momo, Marie Lung and DJ MILLE. Next up: OXI, Berlin on Sun 9 Aug.
 
@@ -26,4 +26,4 @@ Michal Zietara is a house and techno artist based in Germany, tracked on soundch
 
 Momo, Marie Lung, DJ MILLE
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/michalzietara/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/michalzietara/)*

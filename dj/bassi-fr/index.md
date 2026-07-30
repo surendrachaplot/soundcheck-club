@@ -1,6 +1,6 @@
 # Bassi-fr
 
-Bassi-fr is a Club and Electro artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at La Péniche Cinéma, Paris on Fri, 31 Jul 2026.
+Bassi-fr is a Club and Electro artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at La Péniche Cinéma, Paris on Fri, 31 Jul 2026.
 
 Bassi-fr is a club and electro artist based in France, tracked on soundcheck, with 20 sets logged across Paris. Often billed alongside Vitaline, Eskha and Joe Lewandowski. Next up: La Péniche Cinéma, Paris on Fri 31 Jul.
 
@@ -25,4 +25,4 @@ Bassi-fr is a club and electro artist based in France, tracked on soundcheck, wi
 
 Vitaline, Eskha, Joe Lewandowski
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/bassi-fr/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/bassi-fr/)*

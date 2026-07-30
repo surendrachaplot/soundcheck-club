@@ -1,6 +1,6 @@
 # DJ KAIDO
 
-DJ KAIDO is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at Gwuni Mopera Zentrum Leipzig, Leipzig on Sat, 1 Aug 2026.
+DJ KAIDO is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at Gwuni Mopera Zentrum Leipzig, Leipzig on Sat, 1 Aug 2026.
 
 DJ KAIDO is a techno and trance artist based in Germany, tracked on soundcheck, with 11 sets logged across Berlin, Cologne and Leipzig. Often billed alongside 3LEEZA, DaSoMaZo and Dj Sunflash. Next up: Gwuni Mopera Zentrum Leipzig, Leipzig on Sat 1 Aug.
 
@@ -25,4 +25,4 @@ DJ KAIDO is a techno and trance artist based in Germany, tracked on soundcheck, 
 
 3LEEZA, DaSoMaZo, Dj Sunflash
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/djkaido-de/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/djkaido-de/)*

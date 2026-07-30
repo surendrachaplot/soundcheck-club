@@ -1,6 +1,6 @@
 # Club Frau Holle
 
-Club Frau Holle is a music venue in Hamburg with 11 upcoming nights listed on soundcheck as of Wed, 29 Jul 2026; the next is "RELAX or ROLEX - Free Entry For Students" on Thu, 30 Jul 2026.
+Club Frau Holle is a music venue in Hamburg with 11 upcoming nights listed on soundcheck as of Thu, 30 Jul 2026; the next is "RELAX or ROLEX - Free Entry For Students" on Thu, 30 Jul 2026.
 
 Club Frau Holle is a music venue in Hamburg listed on soundcheck. 11 upcoming nights, with line-ups including Elbstrõm, Frank Leder, lexpon and Robert Brescan and 2 more. Browse upcoming dates, start times and who's playing. Friedrichsstrasse 9, 20359 Hamburg.
 
@@ -23,4 +23,4 @@ Club Frau Holle is a music venue in Hamburg listed on soundcheck. 11 upcoming ni
 
 Friedrichsstrasse 9, 20359 Hamburg, Hamburg
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/hamburg/club/club-frau-holle/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/hamburg/club/club-frau-holle/)*

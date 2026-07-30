@@ -1,8 +1,8 @@
 # Melanchromie
 
-Melanchromie is a Techno and Trance artist with 2 upcoming club dates listed on soundcheck as of Wed, 29 Jul 2026, next at ÆDEN, Berlin on Sat, 1 Aug 2026.
+Melanchromie is a Techno and Trance artist with 3 upcoming club dates listed on soundcheck as of Thu, 30 Jul 2026, next at ÆDEN, Berlin on Sat, 1 Aug 2026.
 
-Melanchromie is a techno and trance artist tracked on soundcheck, with 67 sets logged across Berlin, Hamburg and Leipzig. Often billed alongside Millie Forsberg, A.N.I. and Krash Cora. Next up: ÆDEN, Berlin on Sat 1 Aug.
+Melanchromie is a techno and trance artist tracked on soundcheck, with 68 sets logged across Berlin, Hamburg and Leipzig. Often billed alongside Millie Forsberg, A.N.I. and Krash Cora. Next up: ÆDEN, Berlin on Sat 1 Aug.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Melanchromie is a techno and trance artist tracked on soundcheck, with 67 sets l
 | --- | --- | --- |
 | Sat, 1 Aug 2026 | ÆDEN | Berlin |
 | Wed, 5 Aug 2026 | KitKatClub | Berlin |
+| Sat, 8 Aug 2026 | OST | Berlin |
 
 ## Recently played
 
@@ -26,4 +27,4 @@ Melanchromie is a techno and trance artist tracked on soundcheck, with 67 sets l
 
 Millie Forsberg, A.N.I., Krash Cora
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/melanchromie/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/melanchromie/)*

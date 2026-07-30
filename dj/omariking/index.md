@@ -1,6 +1,6 @@
 # Omari King
 
-Omari King is a Afro House and UK Funky artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at Nico's Bar at Hackney Bridge, London on Fri, 31 Jul 2026.
+Omari King is a Afro House and UK Funky artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at Nico's Bar at Hackney Bridge, London on Fri, 31 Jul 2026.
 
 Omari King is an afro house and uk funky artist based in United Kingdom, tracked on soundcheck, with 17 sets logged across London. Often billed alongside Omari, leverson and Troppo Daffy. Next up: Nico's Bar at Hackney Bridge, London on Fri 31 Jul.
 
@@ -25,4 +25,4 @@ Omari King is an afro house and uk funky artist based in United Kingdom, tracked
 
 Omari, leverson, Troppo Daffy
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/omariking/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/omariking/)*

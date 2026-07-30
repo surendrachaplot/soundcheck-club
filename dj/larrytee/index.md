@@ -1,6 +1,6 @@
 # Larry Tee
 
-Larry Tee is a House and Electro artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at BRET, Amsterdam on Fri, 31 Jul 2026.
+Larry Tee is a House and Electro artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at BRET, Amsterdam on Fri, 31 Jul 2026.
 
 Larry Tee is a house and electro artist based in Germany, tracked on soundcheck, with 10 sets logged across Amsterdam, Berlin, Losangeles and Mexicocity and 2 more. Often billed alongside Beverly Chills, Adam Kraft and Ah-Mer-Ah-Su. Next up: BRET, Amsterdam on Fri 31 Jul.
 
@@ -25,4 +25,4 @@ Larry Tee is a house and electro artist based in Germany, tracked on soundcheck,
 
 Beverly Chills, Adam Kraft, Ah-Mer-Ah-Su
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/larrytee/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/larrytee/)*

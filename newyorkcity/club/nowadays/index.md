@@ -1,6 +1,6 @@
 # Nowadays
 
-Nowadays is a music venue in New York City with 28 upcoming nights listed on soundcheck as of Wed, 29 Jul 2026; the next is "Body Hack: thembow, ADAIR, DJ Delish, Caín Lima, p1nkstar, & TRAP SELYNA (live)" on Thu, 30 Jul 2026.
+Nowadays is a music venue in New York City with 28 upcoming nights listed on soundcheck as of Thu, 30 Jul 2026; the next is "Body Hack: thembow, ADAIR, DJ Delish, Caín Lima, p1nkstar, & TRAP SELYNA (live)" on Thu, 30 Jul 2026.
 
 Nowadays is a music venue in Newyorkcity listed on soundcheck. 28 upcoming nights, with line-ups including Akanbi, Ali Coleman, Ayesha and Baalti and 2 more. Browse upcoming dates, start times and who's playing. 56-06 Cooper Ave. Ridgewood, NY 11385 USA.
 
@@ -23,4 +23,4 @@ Nowadays is a music venue in Newyorkcity listed on soundcheck. 28 upcoming night
 
 56-06 Cooper Ave. Ridgewood, NY 11385 USA, New York City
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/nowadays/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/nowadays/)*

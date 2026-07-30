@@ -1,6 +1,6 @@
 # Dockett Eddy
 
-Dockett Eddy is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Wed, 29 Jul 2026, next at Last Arch, London on Fri, 31 Jul 2026.
+Dockett Eddy is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Thu, 30 Jul 2026, next at Last Arch, London on Fri, 31 Jul 2026.
 
 Dockett Eddy is a house and techno artist tracked on soundcheck, with 12 sets logged across Leeds, London and Manchester. Often billed alongside Bunney, Ella Fayden and Avsluta. Next up: Last Arch, London on Fri 31 Jul.
 
@@ -26,4 +26,4 @@ Dockett Eddy is a house and techno artist tracked on soundcheck, with 12 sets lo
 
 Bunney, Ella Fayden, Avsluta
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/docketteddy/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/docketteddy/)*

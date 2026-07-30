@@ -1,6 +1,6 @@
 # MILANCHOLIE
 
-MILANCHOLIE is a Techno and Trance artist with 2 upcoming club dates listed on soundcheck as of Wed, 29 Jul 2026, next at Void Club, Berlin on Fri, 31 Jul 2026.
+MILANCHOLIE is a Techno and Trance artist with 2 upcoming club dates listed on soundcheck as of Thu, 30 Jul 2026, next at Void Club, Berlin on Fri, 31 Jul 2026.
 
 MILANCHOLIE is a techno and trance artist tracked on soundcheck, with 30 sets logged across Berlin. Often billed alongside Zukunftsfritze, DJ Jetset and senaitstar. Next up: Void Club, Berlin on Fri 31 Jul.
 
@@ -26,4 +26,4 @@ MILANCHOLIE is a techno and trance artist tracked on soundcheck, with 30 sets lo
 
 Zukunftsfritze, DJ Jetset, senaitstar
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/milancholie/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/milancholie/)*

@@ -1,6 +1,6 @@
 # how2fly
 
-how2fly is a House and Trance artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at Badaboum, Paris on Fri, 28 Aug 2026.
+how2fly is a House and Trance artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at Badaboum, Paris on Fri, 28 Aug 2026.
 
 how2fly is a house and trance artist based in France, tracked on soundcheck, with 9 sets logged across London and Paris. Often billed alongside Asaya, ADB (FR) and Acid Arab. Next up: Badaboum, Paris on Fri 28 Aug.
 
@@ -25,4 +25,4 @@ how2fly is a house and trance artist based in France, tracked on soundcheck, wit
 
 Asaya, ADB (FR), Acid Arab
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/how2fly/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/how2fly/)*

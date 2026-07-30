@@ -1,6 +1,6 @@
 # George Bolton
 
-George Bolton is a House and Hip-Hop artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at 不眠遊戯ライオン - Music Bar Lion, Tokyo on Tue, 11 Aug 2026.
+George Bolton is a House and Hip-Hop artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at 不眠遊戯ライオン - Music Bar Lion, Tokyo on Tue, 11 Aug 2026.
 
 George Bolton is a house and hip-hop artist tracked on soundcheck, with 53 sets logged across Osaka, Paris and Tokyo. Often billed alongside WASP, ecec and Shunpei (Beebar). Next up: 不眠遊戯ライオン - Music Bar Lion, Tokyo on Tue 11 Aug.
 
@@ -25,4 +25,4 @@ George Bolton is a house and hip-hop artist tracked on soundcheck, with 53 sets 
 
 WASP, ecec, Shunpei (Beebar)
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/georgebolton/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/georgebolton/)*

@@ -1,6 +1,6 @@
 # DJ IZA
 
-DJ IZA is a Reggaeton and Dembow artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at El Club, Detroit on Sat, 1 Aug 2026.
+DJ IZA is a Reggaeton and Dembow artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at El Club, Detroit on Sat, 1 Aug 2026.
 
 DJ IZA is a reggaeton and dembow artist based in United States of America, tracked on soundcheck, with 38 sets logged across Detroit. Often billed alongside SWDEJAY, Dylán Gomez and Just Shacoi. Next up: El Club, Detroit on Sat 1 Aug.
 
@@ -25,4 +25,4 @@ DJ IZA is a reggaeton and dembow artist based in United States of America, track
 
 SWDEJAY, Dylán Gomez, Just Shacoi
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/djiza/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/djiza/)*

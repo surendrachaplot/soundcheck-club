@@ -1,0 +1,28 @@
+# fangsie
+
+fangsie is a Techno and Hardcore artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at ESC, Montreal on Fri, 31 Jul 2026.
+
+fangsie is a techno and hardcore artist based in Canada, tracked on soundcheck, with 18 sets logged across Montreal and Newyorkcity. Often billed alongside the bald girl, sineila and Baby Bimbo. Next up: ESC, Montreal on Fri 31 Jul.
+
+## Upcoming shows
+
+| Date | Venue | City |
+| --- | --- | --- |
+| Fri, 31 Jul 2026 | ESC | Montreal |
+
+## Recently played
+
+- ESC, Montreal — Sat, 25 Jul 2026
+- Bar Le Ritz PDB, Montreal — Sat, 11 Jul 2026
+- Le Belmont, Montreal — Fri, 10 Jul 2026
+- Le Red Room, Montreal — Wed, 24 Jun 2026
+- Union Française de Montréal, Montreal — Sat, 23 May 2026
+- ESC, Montreal — Fri, 22 May 2026
+- Union Française de Montréal, Montreal — Fri, 8 May 2026
+- ESC, Montreal — Sat, 2 May 2026
+
+## Shares bills with
+
+the bald girl, sineila, Baby Bimbo
+
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/fangsie/)*

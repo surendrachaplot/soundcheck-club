@@ -1,6 +1,6 @@
 # Brennan
 
-Brennan is a House and Tech House artist with 2 upcoming club dates listed on soundcheck as of Wed, 29 Jul 2026, next at Porto Pollo, Vienna on Sat, 1 Aug 2026.
+Brennan is a House and Tech House artist with 2 upcoming club dates listed on soundcheck as of Thu, 30 Jul 2026, next at Porto Pollo, Vienna on Sat, 1 Aug 2026.
 
 Brennan is a house and tech house artist based in United Kingdom, tracked on soundcheck, with 21 sets logged across Barcelona, Ibiza, London and Madrid and 2 more. Often billed alongside Ferg, James Andrew and Allius. Next up: Porto Pollo, Vienna on Sat 1 Aug.
 
@@ -26,4 +26,4 @@ Brennan is a house and tech house artist based in United Kingdom, tracked on sou
 
 Ferg, James Andrew, Allius
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/brennan/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/brennan/)*

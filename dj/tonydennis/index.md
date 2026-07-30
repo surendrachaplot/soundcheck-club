@@ -1,6 +1,6 @@
 # Tony Dennis
 
-Tony Dennis is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at TV Lounge, Detroit on Sat, 15 Aug 2026.
+Tony Dennis is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at TV Lounge, Detroit on Sat, 15 Aug 2026.
 
 Tony Dennis is a techno and house artist based in United States of America, tracked on soundcheck, with 13 sets logged across Detroit. Often billed alongside Bruce Bailey, DJ RIGHTEOUS and Jesse Cory. Next up: TV Lounge, Detroit on Sat 15 Aug.
 
@@ -25,4 +25,4 @@ Tony Dennis is a techno and house artist based in United States of America, trac
 
 Bruce Bailey, DJ RIGHTEOUS, Jesse Cory
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/tonydennis/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/tonydennis/)*

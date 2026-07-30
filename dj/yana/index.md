@@ -1,6 +1,6 @@
 # YANA
 
-YANA is a Hip-Hop and Tech House artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at Royal Lounge, Tokyo on Fri, 31 Jul 2026.
+YANA is a Hip-Hop and Tech House artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at Royal Lounge, Tokyo on Fri, 31 Jul 2026.
 
 YANA is a hip-hop and tech house artist based in Germany, tracked on soundcheck, with 18 sets logged across Berlin and Tokyo. Often billed alongside ATAMI, DA BOOK and DJ B2B. Next up: Royal Lounge, Tokyo on Fri 31 Jul.
 
@@ -25,4 +25,4 @@ YANA is a hip-hop and tech house artist based in Germany, tracked on soundcheck,
 
 ATAMI, DA BOOK, DJ B2B
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/yana/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/yana/)*

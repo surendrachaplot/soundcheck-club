@@ -1,6 +1,6 @@
 # yama’ (JP)
 
-yama’ (JP) is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at Oath, Tokyo on Sat, 1 Aug 2026.
+yama’ (JP) is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at Oath, Tokyo on Sat, 1 Aug 2026.
 
 yama’ (JP) is a techno and house artist based in Japan, tracked on soundcheck, with 17 sets logged across Osaka, Seoul and Tokyo. Often billed alongside Celter, Wada Yosuke and Mihak. Next up: Oath, Tokyo on Sat 1 Aug.
 
@@ -25,4 +25,4 @@ yama’ (JP) is a techno and house artist based in Japan, tracked on soundcheck,
 
 Celter, Wada Yosuke, Mihak
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/yama-jp/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/yama-jp/)*

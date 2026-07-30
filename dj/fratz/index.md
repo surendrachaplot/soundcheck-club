@@ -1,6 +1,6 @@
 # Fratz
 
-Fratz is a House artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at Yan Gastro, Istanbul on Fri, 31 Jul 2026.
+Fratz is a House artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at Yan Gastro, Istanbul on Fri, 31 Jul 2026.
 
 Fratz is a house artist based in Turkey, tracked on soundcheck, with 4 sets logged across Istanbul. Often billed alongside Bayram Ozcan, Pekiner and SALİ. Next up: Yan Gastro, Istanbul on Fri 31 Jul.
 
@@ -20,4 +20,4 @@ Fratz is a house artist based in Turkey, tracked on soundcheck, with 4 sets logg
 
 Bayram Ozcan, Pekiner, SALİ
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/fratz/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/fratz/)*

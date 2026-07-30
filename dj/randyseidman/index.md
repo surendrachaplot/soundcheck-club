@@ -1,6 +1,6 @@
 # Randy Seidman
 
-Randy Seidman is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at Red Ruby, Bali on Sat, 1 Aug 2026.
+Randy Seidman is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at Red Ruby, Bali on Sat, 1 Aug 2026.
 
 Randy Seidman is a house and techno artist based in United States of America, tracked on soundcheck, with 14 sets logged across Bali, Bangkok, Losangeles and Mexicocity and 5 more. Often billed alongside Infected Mushroom, Syd Gris and André Pillar. Next up: Red Ruby, Bali on Sat 1 Aug.
 
@@ -25,4 +25,4 @@ Randy Seidman is a house and techno artist based in United States of America, tr
 
 Infected Mushroom, Syd Gris, André Pillar
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/randyseidman/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/randyseidman/)*

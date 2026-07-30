@@ -1,13 +1,14 @@
 # ELIZEN THE EMPEROR
 
-ELIZEN THE EMPEROR is a Downtempo and House artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at Kater, Berlin on Fri, 21 Aug 2026.
+ELIZEN THE EMPEROR is a Downtempo and House artist with 2 upcoming club dates listed on soundcheck as of Thu, 30 Jul 2026, next at Südpol, Hamburg on Sat, 8 Aug 2026.
 
-ELIZEN THE EMPEROR is a downtempo and house artist based in Germany, tracked on soundcheck, with 59 sets logged across Berlin, Copenhagen, Hamburg and Leipzig and 3 more. Often billed alongside Alma Linda, Foolik and Peter Schumann. Next up: Kater, Berlin on Fri 21 Aug.
+ELIZEN THE EMPEROR is a downtempo and house artist based in Germany, tracked on soundcheck, with 60 sets logged across Berlin, Copenhagen, Hamburg and Leipzig and 3 more. Often billed alongside Alma Linda, Foolik and Peter Schumann. Next up: Südpol, Hamburg on Sat 8 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 8 Aug 2026 | Südpol | Hamburg |
 | Fri, 21 Aug 2026 | Kater | Berlin |
 
 ## Recently played
@@ -25,4 +26,4 @@ ELIZEN THE EMPEROR is a downtempo and house artist based in Germany, tracked on 
 
 Alma Linda, Foolik, Peter Schumann
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/elizentheemperor/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/elizentheemperor/)*

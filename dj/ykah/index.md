@@ -1,6 +1,6 @@
 # ykah
 
-ykah is a Dub and Techno artist with 2 upcoming club dates listed on soundcheck as of Wed, 29 Jul 2026, next at West Harlem, Kyoto on Sat, 8 Aug 2026.
+ykah is a Dub and Techno artist with 2 upcoming club dates listed on soundcheck as of Thu, 30 Jul 2026, next at West Harlem, Kyoto on Sat, 8 Aug 2026.
 
 ykah is a dub and techno artist tracked on soundcheck, with 72 sets logged across Kyoto, Osaka and Tokyo. Often billed alongside Mars89, Ryogo and Vís (1). Next up: West Harlem, Kyoto on Sat 8 Aug.
 
@@ -26,4 +26,4 @@ ykah is a dub and techno artist tracked on soundcheck, with 72 sets logged acros
 
 Mars89, Ryogo, Vís (1)
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/ykah/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/ykah/)*

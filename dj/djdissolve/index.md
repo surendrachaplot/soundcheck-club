@@ -1,6 +1,6 @@
 # DJ DISSOLVE
 
-DJ DISSOLVE is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at TBA - Bat Country, Portland on Fri, 7 Aug 2026.
+DJ DISSOLVE is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at TBA - Bat Country, Portland on Fri, 7 Aug 2026.
 
 DJ DISSOLVE is a techno and house artist based in United States of America, tracked on soundcheck, with 37 sets logged across Portland, Sanfrancisco and Seattle. Often billed alongside Aaron Davis, Andy Warren and Ben Tactic. Next up: TBA - Bat Country, Portland on Fri 7 Aug.
 
@@ -25,4 +25,4 @@ DJ DISSOLVE is a techno and house artist based in United States of America, trac
 
 Aaron Davis, Andy Warren, Ben Tactic
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/djdissolve/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/djdissolve/)*

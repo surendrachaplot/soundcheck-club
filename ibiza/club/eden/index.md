@@ -1,14 +1,13 @@
 # Eden
 
-Eden is a music venue in Ibiza with 51 upcoming nights listed on soundcheck as of Wed, 29 Jul 2026; the next is "DJ EZ" on Wed, 29 Jul 2026.
+Eden is a music venue in Ibiza with 50 upcoming nights listed on soundcheck as of Thu, 30 Jul 2026; the next is "LA DISTURBIA WEEK 5" on Thu, 30 Jul 2026.
 
-Eden is a music venue in Ibiza listed on soundcheck. 51 upcoming nights, with line-ups including 6EJOU, Alberto Costa, Alle Farben and Andres Campo and 2 more. Browse upcoming dates, start times and who's playing. Carrer Salvador Espriu,  07820 San Antonio, Ibiza, Spain.
+Eden is a music venue in Ibiza listed on soundcheck. 50 upcoming nights, with line-ups including 6EJOU, Alberto Costa, Alle Farben and Andres Campo and 2 more. Browse upcoming dates, start times and who's playing. Carrer Salvador Espriu,  07820 San Antonio, Ibiza, Spain.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Wed, 29 Jul 2026 | DJ EZ | DJ EZ, Seb Zito, The Menendez Brothers |
 | Thu, 30 Jul 2026 | LA DISTURBIA WEEK 5 | Crusy, Loulou Players |
 | Fri, 31 Jul 2026 | FIRE IN THE CLUB WEEK 9 |  |
 | Sat, 1 Aug 2026 | FUEGO WEEK 10 | PALO MAIN, Sebastian Ledher |
@@ -18,9 +17,10 @@ Eden is a music venue in Ibiza listed on soundcheck. 51 upcoming nights, with li
 | Wed, 5 Aug 2026 | GARAGE NATION OPENING PARTY |  |
 | Thu, 6 Aug 2026 | LA DISTURBIA WEEK 6 | James Hurr |
 | Fri, 7 Aug 2026 | FIRE IN THE CLUB WEEK 10 |  |
+| Sat, 8 Aug 2026 | FUEGO WEEK 11 |  |
 
 ## Address
 
 Carrer Salvador Espriu,  07820 San Antonio, Ibiza, Spain, Ibiza
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/ibiza/club/eden/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/ibiza/club/eden/)*

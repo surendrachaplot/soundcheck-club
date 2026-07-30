@@ -1,14 +1,13 @@
 # Paradiso
 
-Paradiso is a music venue in Amsterdam with 14 upcoming nights listed on soundcheck as of Wed, 29 Jul 2026; the next is "Thievery Corporation - Extra Show" on Wed, 29 Jul 2026.
+Paradiso is a music venue in Amsterdam with 13 upcoming nights listed on soundcheck as of Thu, 30 Jul 2026; the next is "Dekmantel Festival x STOOR Live - Into The City - Thursday" on Thu, 30 Jul 2026.
 
-Paradiso is a music venue in Amsterdam listed on soundcheck. 14 upcoming nights, with line-ups including Absoluut, Answer Code Request, Artefakt and ASHTATTZ and 2 more. Browse upcoming dates, start times and who's playing. Weteringschans 6; 1017 Binnenstad; Amsterdam; Netherlands.
+Paradiso is a music venue in Amsterdam listed on soundcheck. 13 upcoming nights, with line-ups including Absoluut, Answer Code Request, Artefakt and ASHTATTZ and 2 more. Browse upcoming dates, start times and who's playing. Weteringschans 6; 1017 Binnenstad; Amsterdam; Netherlands.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Wed, 29 Jul 2026 | Thievery Corporation - Extra Show | Thievery Corporation |
 | Thu, 30 Jul 2026 | Dekmantel Festival x STOOR Live - Into The City - Thursday | Aurora Halal, Azu Tiwaline, Barker, DJ Spence, PLO Man, Speedy J |
 | Fri, 31 Jul 2026 | DJ Bone presents: FURTHER x HE.SHE.THEY. World Pride | Azucy, Bradley Skeng, DJ Bone, Derrick Carter, Lola Edo, SYREETA |
 | Sun, 2 Aug 2026 | RAPIDO - The World Pride Edition | Tom Stephan |
@@ -18,9 +17,10 @@ Paradiso is a music venue in Amsterdam listed on soundcheck. 14 upcoming nights,
 | Fri, 18 Sept 2026 | Delsin: 30 Years Anniversary | .VRIL, Answer Code Request, Artefakt, Claudio PRC, Conforce, Dave Huismans, Delta Funktionen, Laima Adelaide, Mattikk, Newworldaquarium, STERAC, Sandrien |
 | Wed, 21 Oct 2026 | MALUGI - ADE | MALUGI |
 | Thu, 22 Oct 2026 | State OFFF // ADE | State OFFF |
+| Thu, 22 Oct 2026 | Lawrence Hart - ADE | Lawrence Hart |
 
 ## Address
 
 Weteringschans 6; 1017 Binnenstad; Amsterdam; Netherlands, Amsterdam
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/paradiso/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/paradiso/)*

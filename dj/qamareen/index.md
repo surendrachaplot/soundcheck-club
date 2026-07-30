@@ -1,6 +1,6 @@
 # Qamareen
 
-Qamareen is a Club artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at Soulkitchen Vienna, Vienna on Sat, 1 Aug 2026.
+Qamareen is a Club artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at Soulkitchen Vienna, Vienna on Sat, 1 Aug 2026.
 
 Qamareen is a club artist tracked on soundcheck, with 17 sets logged across Berlin and Vienna. Often billed alongside Abu Naima, মm. and zey. Next up: Soulkitchen Vienna, Vienna on Sat 1 Aug.
 
@@ -25,4 +25,4 @@ Qamareen is a club artist tracked on soundcheck, with 17 sets logged across Berl
 
 Abu Naima, মm., zey
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/qamareen/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/qamareen/)*

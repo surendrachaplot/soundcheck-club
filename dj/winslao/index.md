@@ -1,6 +1,6 @@
 # WINSLAO
 
-WINSLAO is a Trance and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at The Sound House, Dublin on Fri, 31 Jul 2026.
+WINSLAO is a Trance and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at The Sound House, Dublin on Fri, 31 Jul 2026.
 
 WINSLAO is a trance and techno artist based in Spain, tracked on soundcheck, with 8 sets logged across Dublin. Often billed alongside ALPER SKR, SAMUX and Connect. Next up: The Sound House, Dublin on Fri 31 Jul.
 
@@ -24,4 +24,4 @@ WINSLAO is a trance and techno artist based in Spain, tracked on soundcheck, wit
 
 ALPER SKR, SAMUX, Connect
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/winslao/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/winslao/)*

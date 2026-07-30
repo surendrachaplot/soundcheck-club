@@ -1,6 +1,6 @@
 # CAVEA SESSIONS FEST 01.08 at Spazio Cavea
 
-CAVEA SESSIONS FEST 01.08 at Spazio Cavea on Sat 1 Aug, Rome. 1 act on the bill: Carlo Ciferni. Dub Techno. Preview the line-up and save it on soundcheck.
+CAVEA SESSIONS FEST 01.08 at Spazio Cavea on Sat 1 Aug, Rome. 2 acts on the bill: Carlo Ciferni and Filippo Borini. Dub Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -11,5 +11,6 @@ CAVEA SESSIONS FEST 01.08 at Spazio Cavea on Sat 1 Aug, Rome. 1 act on the bill:
 ## Line-up
 
 - Carlo Ciferni
+- Filippo Borini
 
 *Source: [soundcheck](https://soundcheck.club/e/2498724-cavea-sessions-fest-01-08-at-spazio-cavea/)*

@@ -1,6 +1,6 @@
 # Kike
 
-Kike is a House and Club artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at ÆDEN, Berlin on Fri, 31 Jul 2026.
+Kike is a House and Club artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at ÆDEN, Berlin on Fri, 31 Jul 2026.
 
 Kike is a house and club artist tracked on soundcheck, with 15 sets logged across Berlin, Miami and Toronto. Often billed alongside Ard1n, 999ADJ and EMRYSLAZULI. Next up: ÆDEN, Berlin on Fri 31 Jul.
 
@@ -25,4 +25,4 @@ Kike is a house and club artist tracked on soundcheck, with 15 sets logged acros
 
 Ard1n, 999ADJ, EMRYSLAZULI
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/kike-ca/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/kike-ca/)*

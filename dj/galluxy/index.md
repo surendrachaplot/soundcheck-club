@@ -1,6 +1,6 @@
 # Galluxy
 
-Galluxy is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Wed, 29 Jul 2026, next at Village du Soir, Geneva on Fri, 31 Jul 2026.
+Galluxy is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Thu, 30 Jul 2026, next at Village du Soir, Geneva on Fri, 31 Jul 2026.
 
 Galluxy is a techno and house artist based in France, tracked on soundcheck, with 12 sets logged across Bali, Geneva, Ibiza and London and 1 more. Often billed alongside EWAVE, Chloe Martinez and OC & Verde. Next up: Village du Soir, Geneva on Fri 31 Jul.
 
@@ -26,4 +26,4 @@ Galluxy is a techno and house artist based in France, tracked on soundcheck, wit
 
 EWAVE, Chloe Martinez, OC & Verde
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/galluxy/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/galluxy/)*

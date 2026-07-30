@@ -1,6 +1,6 @@
 # Silverbo1
 
-Silverbo1 is a House and Breakbeat artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at Vila Štvanice, Prague on Sat, 1 Aug 2026.
+Silverbo1 is a House and Breakbeat artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at Vila Štvanice, Prague on Sat, 1 Aug 2026.
 
 Silverbo1 is a house and breakbeat artist based in Czech Republic, tracked on soundcheck, with 14 sets logged across Prague. Often billed alongside SMB (1), Meldaboi and Fatty M. Next up: Vila Štvanice, Prague on Sat 1 Aug.
 
@@ -25,4 +25,4 @@ Silverbo1 is a house and breakbeat artist based in Czech Republic, tracked on so
 
 SMB (1), Meldaboi, Fatty M
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/silverbo1/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/silverbo1/)*

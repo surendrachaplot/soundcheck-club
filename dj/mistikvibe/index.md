@@ -1,6 +1,6 @@
 # Mistikvibe
 
-Mistikvibe is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at Brutal Mx, Mexico City on Sat, 8 Aug 2026.
+Mistikvibe is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at Brutal Mx, Mexico City on Sat, 8 Aug 2026.
 
 Mistikvibe is a techno and house artist based in Mexico, tracked on soundcheck, with 4 sets logged across Mexicocity. Often billed alongside Cabe, Ramiel II and NAHAN. Next up: Brutal Mx, Mexicocity on Sat 8 Aug.
 
@@ -20,4 +20,4 @@ Mistikvibe is a techno and house artist based in Mexico, tracked on soundcheck, 
 
 Cabe, Ramiel II, NAHAN
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/mistikvibe/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/mistikvibe/)*

@@ -1,6 +1,6 @@
 # costi (1)
 
-costi (1) is a Experimental and Post-Punk artist with 2 upcoming club dates listed on soundcheck as of Wed, 29 Jul 2026, next at L'estaminet Matinal, Marseille on Fri, 31 Jul 2026.
+costi (1) is a Experimental and Post-Punk artist with 2 upcoming club dates listed on soundcheck as of Thu, 30 Jul 2026, next at L'estaminet Matinal, Marseille on Fri, 31 Jul 2026.
 
 costi (1) is an experimental and post-punk artist based in United Kingdom, tracked on soundcheck, with 5 sets logged across London and Marseille. Often billed alongside Ushko, kemitstry and BJ Holy. Next up: L'estaminet Matinal, Marseille on Fri 31 Jul.
 
@@ -21,4 +21,4 @@ costi (1) is an experimental and post-punk artist based in United Kingdom, track
 
 Ushko, kemitstry, BJ Holy
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/costi-1/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/costi-1/)*

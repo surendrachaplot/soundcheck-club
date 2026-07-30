@@ -1,6 +1,6 @@
 # Blipsy Bar
 
-Blipsy Bar is a music venue in Los Angeles with 2 upcoming nights listed on soundcheck as of Wed, 29 Jul 2026; the next is "Blips n Bass vol 13" on Thu, 30 Jul 2026.
+Blipsy Bar is a music venue in Los Angeles with 2 upcoming nights listed on soundcheck as of Thu, 30 Jul 2026; the next is "Blips n Bass vol 13" on Thu, 30 Jul 2026.
 
 Blipsy Bar is a music venue in Losangeles listed on soundcheck. 2 upcoming nights. Browse upcoming dates, start times and who's playing. 369 N Western Ave, Los Angeles, CA 90004.
 
@@ -15,4 +15,4 @@ Blipsy Bar is a music venue in Losangeles listed on soundcheck. 2 upcoming night
 
 369 N Western Ave, Los Angeles, CA 90004, Los Angeles
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/losangeles/club/blipsy-bar/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/losangeles/club/blipsy-bar/)*

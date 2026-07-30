@@ -1,8 +1,8 @@
 # Knockdown Center
 
-Knockdown Center is a music venue in New York City with 28 upcoming nights listed on soundcheck as of Wed, 29 Jul 2026; the next is "Interplanetary Criminal & Main Phase present: ATW New York" on Fri, 31 Jul 2026.
+Knockdown Center is a music venue in New York City with 29 upcoming nights listed on soundcheck as of Thu, 30 Jul 2026; the next is "Interplanetary Criminal & Main Phase present: ATW New York" on Fri, 31 Jul 2026.
 
-Knockdown Center is a music venue in Newyorkcity listed on soundcheck. 28 upcoming nights, with line-ups including 19:26, 999999999, adobeprincess and Afem Syko and 2 more. Browse upcoming dates, start times and who's playing. 52-19 Flushing Ave., Queens, NY 11378 USA.
+Knockdown Center is a music venue in Newyorkcity listed on soundcheck. 29 upcoming nights, with line-ups including 19:26, 999999999, adobeprincess and Afem Syko and 2 more. Browse upcoming dates, start times and who's playing. 52-19 Flushing Ave., Queens, NY 11378 USA.
 
 ## What's on
 
@@ -10,7 +10,7 @@ Knockdown Center is a music venue in Newyorkcity listed on soundcheck. 28 upcomi
 | --- | --- | --- |
 | Fri, 31 Jul 2026 | Interplanetary Criminal & Main Phase present: ATW New York | Interplanetary Criminal, Main Phase |
 | Fri, 7 Aug 2026 | Claude VonStroke in The Ruins | Claude VonStroke |
-| Fri, 7 Aug 2026 | Charlotte de Witte | Charlotte de Witte |
+| Fri, 7 Aug 2026 | Charlotte de Witte, Lindsey Herbert, Mos | Charlotte de Witte, Lindsey Herbert, Mos (NYC) |
 | Sat, 8 Aug 2026 | Josh Baker: DAY AND NIGHT | Cole Terrazas, Josh Baker, Laidlaw, Natalia Roth, Rana Iravani |
 | Sun, 9 Aug 2026 | Pablo Bozzi, Boris, Lauren Flax | Boris, Lauren Flax, Pablo Bozzi |
 | Thu, 13 Aug 2026 | clipping., SPELLLING, Shabazz Palaces +: Splendor & Misery Fest |  |
@@ -23,4 +23,4 @@ Knockdown Center is a music venue in Newyorkcity listed on soundcheck. 28 upcomi
 
 52-19 Flushing Ave., Queens, NY 11378 USA, New York City
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/knockdown-center/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/knockdown-center/)*

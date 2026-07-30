@@ -1,6 +1,6 @@
 # Cynth
 
-Cynth is a Techno and Minimal Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at Cadavra, Madrid on Thu, 30 Jul 2026.
+Cynth is a Techno and Minimal Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at Cadavra, Madrid on Thu, 30 Jul 2026.
 
 Cynth is a techno and minimal techno artist based in Spain, tracked on soundcheck, with 32 sets logged across Madrid. Often billed alongside Hector MAD, JALA and Null Pointer. Next up: Cadavra, Madrid on Thu 30 Jul.
 
@@ -25,4 +25,4 @@ Cynth is a techno and minimal techno artist based in Spain, tracked on soundchec
 
 Hector MAD, JALA, Null Pointer
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/cynth/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/cynth/)*

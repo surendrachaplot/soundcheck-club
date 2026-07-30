@@ -1,6 +1,6 @@
 # Snax
 
-Snax is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at Planet Wax, London on Thu, 6 Aug 2026.
+Snax is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at Planet Wax, London on Thu, 6 Aug 2026.
 
 Snax is a house and disco artist based in Germany, tracked on soundcheck, with 14 sets logged across Berlin, London, Stuttgart and Vienna. Often billed alongside Gustuff, Orik and Adam Cooke. Next up: Planet Wax, London on Thu 6 Aug.
 
@@ -25,4 +25,4 @@ Snax is a house and disco artist based in Germany, tracked on soundcheck, with 1
 
 Gustuff, Orik, Adam Cooke
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/snax/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/snax/)*

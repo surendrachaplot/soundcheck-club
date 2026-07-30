@@ -1,6 +1,6 @@
 # Barbu
 
-Barbu is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Wed, 29 Jul 2026, next at Platforma Wolff, Bucharest on Thu, 30 Jul 2026.
+Barbu is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Thu, 30 Jul 2026, next at Platforma Wolff, Bucharest on Thu, 30 Jul 2026.
 
 Barbu is a house and techno artist tracked on soundcheck, with 29 sets logged across Bucharest. Often billed alongside Twodoor, Evan Baggs and Miss I. Next up: Platforma Wolff, Bucharest on Thu 30 Jul.
 
@@ -26,4 +26,4 @@ Barbu is a house and techno artist tracked on soundcheck, with 29 sets logged ac
 
 Twodoor, Evan Baggs, Miss I
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/barbu/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/barbu/)*

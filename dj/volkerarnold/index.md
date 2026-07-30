@@ -1,6 +1,6 @@
 # Volker Arnold
 
-Volker Arnold is a Techno and Downtempo artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at Hangaren, Copenhagen on Thu, 27 Aug 2026.
+Volker Arnold is a Techno and Downtempo artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at Hangaren, Copenhagen on Thu, 27 Aug 2026.
 
 Volker Arnold is a techno and downtempo artist based in Germany, tracked on soundcheck, with 5 sets logged across Berlin, Copenhagen and Vienna. Often billed alongside Kollektiv Sheesh, Acid Pauli and Amelie Lens. Next up: Hangaren, Copenhagen on Thu 27 Aug.
 
@@ -21,4 +21,4 @@ Volker Arnold is a techno and downtempo artist based in Germany, tracked on soun
 
 Kollektiv Sheesh, Acid Pauli, Amelie Lens
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/volkerarnold/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/volkerarnold/)*

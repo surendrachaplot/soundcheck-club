@@ -1,6 +1,6 @@
 # Aaron Davis
 
-Aaron Davis is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at TBA - Bat Country, Portland on Fri, 7 Aug 2026.
+Aaron Davis is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at TBA - Bat Country, Portland on Fri, 7 Aug 2026.
 
 Aaron Davis is a house and techno artist based in United States of America, tracked on soundcheck, with 12 sets logged across Losangeles, Newyorkcity, Portland and Sanfrancisco. Often billed alongside Ms. Ed, Peter Sheppard and Andy Warren. Next up: TBA - Bat Country, Portland on Fri 7 Aug.
 
@@ -25,4 +25,4 @@ Aaron Davis is a house and techno artist based in United States of America, trac
 
 Ms. Ed, Peter Sheppard, Andy Warren
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/aarondavis/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/aarondavis/)*

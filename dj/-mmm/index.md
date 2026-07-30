@@ -1,6 +1,6 @@
 # :MUMM
 
-:MUMM is a Trance and House artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at Distillery, Leipzig on Sat, 1 Aug 2026.
+:MUMM is a Trance and House artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at Distillery, Leipzig on Sat, 1 Aug 2026.
 
 :MUMM is a trance and house artist based in Germany, tracked on soundcheck, with 38 sets logged across Berlin and Leipzig. Often billed alongside s-ray, KRUE and DJ Ferrari (2). Next up: Distillery, Leipzig on Sat 1 Aug.
 
@@ -25,4 +25,4 @@
 
 s-ray, KRUE, DJ Ferrari (2)
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/-mmm/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/-mmm/)*

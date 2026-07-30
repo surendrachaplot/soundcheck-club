@@ -1,6 +1,6 @@
 # Chrissy Meraki
 
-Chrissy Meraki is a House and Progressive House artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at Sundara Club, Ibiza on Sat, 15 Aug 2026.
+Chrissy Meraki is a House and Progressive House artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at Sundara Club, Ibiza on Sat, 15 Aug 2026.
 
 Chrissy Meraki is a house and progressive house artist based in United Kingdom, tracked on soundcheck, with 4 sets logged across Ibiza and London. Often billed alongside Chrisy Stebbeds, Cosmic Bob and Denney. Next up: Sundara Club, Ibiza on Sat 15 Aug.
 
@@ -20,4 +20,4 @@ Chrissy Meraki is a house and progressive house artist based in United Kingdom, 
 
 Chrisy Stebbeds, Cosmic Bob, Denney
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/chrissymeraki/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/chrissymeraki/)*

@@ -1,6 +1,6 @@
 # KDT
 
-KDT is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Wed, 29 Jul 2026, next at DJ Bar Bridge Shinjuku, Tokyo on Mon, 3 Aug 2026.
+KDT is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Thu, 30 Jul 2026, next at DJ Bar Bridge Shinjuku, Tokyo on Mon, 3 Aug 2026.
 
 KDT is a house and techno artist based in Japan, tracked on soundcheck, with 150 sets logged across Tokyo. Often billed alongside TOYO, Ryuichi and Issyo. Next up: DJ Bar Bridge Shinjuku, Tokyo on Mon 3 Aug.
 
@@ -26,4 +26,4 @@ KDT is a house and techno artist based in Japan, tracked on soundcheck, with 150
 
 TOYO, Ryuichi, Issyo
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/kdt/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/kdt/)*

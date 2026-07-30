@@ -1,6 +1,6 @@
 # Carien
 
-Carien is a Dubstep and Drum & Bass artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at Munster Munch, London on Sat, 1 Aug 2026.
+Carien is a Dubstep and Drum & Bass artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at Munster Munch, London on Sat, 1 Aug 2026.
 
 Carien is a dubstep and drum & bass artist based in United Kingdom, tracked on soundcheck, with 3 sets logged across London. Often billed alongside Sophia Nicole, Betty Bender and Blackromeo. Next up: Munster Munch, London on Sat 1 Aug.
 
@@ -19,4 +19,4 @@ Carien is a dubstep and drum & bass artist based in United Kingdom, tracked on s
 
 Sophia Nicole, Betty Bender, Blackromeo
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/carien/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/carien/)*

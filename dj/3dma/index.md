@@ -1,6 +1,6 @@
 # 3DMA
 
-3DMA is a Hardcore and Trance artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at El Pumarejo Barcelona, Barcelona on Sat, 1 Aug 2026.
+3DMA is a Hardcore and Trance artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at El Pumarejo Barcelona, Barcelona on Sat, 1 Aug 2026.
 
 3DMA is a hardcore and trance artist based in United Kingdom, tracked on soundcheck, with 44 sets logged across Barcelona, Berlin, Brighton and Bristol and 18 more. Often billed alongside Holly Warcup, alterum and Peggy Viennetta. Next up: El Pumarejo Barcelona, Barcelona on Sat 1 Aug.
 
@@ -25,4 +25,4 @@
 
 Holly Warcup, alterum, Peggy Viennetta
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/3dma/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/3dma/)*

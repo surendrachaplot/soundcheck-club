@@ -1,6 +1,6 @@
 # Blackship
 
-Blackship is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at WOMB, Tokyo on Fri, 7 Aug 2026.
+Blackship is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at WOMB, Tokyo on Fri, 7 Aug 2026.
 
 Blackship is a techno and house artist based in Japan, tracked on soundcheck, with 27 sets logged across Tokyo. Often billed alongside Drunken Kong, U:ICHI and AHREUM. Next up: WOMB, Tokyo on Fri 7 Aug.
 
@@ -25,4 +25,4 @@ Blackship is a techno and house artist based in Japan, tracked on soundcheck, wi
 
 Drunken Kong, U:ICHI, AHREUM
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/blackship/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/blackship/)*

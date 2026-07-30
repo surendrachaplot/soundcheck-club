@@ -1,6 +1,6 @@
 # Joseph Capriati
 
-Joseph Capriati is a Techno and House artist with 19 upcoming club dates listed on soundcheck as of Wed, 29 Jul 2026, next at Son Fusteret, Mallorca on Sat, 1 Aug 2026.
+Joseph Capriati is a Techno and House artist with 19 upcoming club dates listed on soundcheck as of Thu, 30 Jul 2026, next at Son Fusteret, Mallorca on Sat, 1 Aug 2026.
 
 Joseph Capriati is a techno and house artist tracked on soundcheck, with 214 sets logged across Amsterdam, Athens, Austin and Bali and 43 more. Often billed alongside Jamie Jones, Indira Paganotto and Dennis Cruz. Next up: Son Fusteret, Mallorca on Sat 1 Aug.
 
@@ -36,4 +36,4 @@ Joseph Capriati is a techno and house artist tracked on soundcheck, with 214 set
 
 Jamie Jones, Indira Paganotto, Dennis Cruz
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/josephcapriati/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/josephcapriati/)*

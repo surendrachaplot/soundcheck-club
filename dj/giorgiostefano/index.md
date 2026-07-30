@@ -1,6 +1,6 @@
 # Giorgio Stefano
 
-Giorgio Stefano is a House and Tech House artist with 2 upcoming club dates listed on soundcheck as of Wed, 29 Jul 2026, next at Sunseabar Beach Club, Barcelona on Sat, 1 Aug 2026.
+Giorgio Stefano is a House and Tech House artist with 2 upcoming club dates listed on soundcheck as of Thu, 30 Jul 2026, next at Sunseabar Beach Club, Barcelona on Sat, 1 Aug 2026.
 
 Giorgio Stefano is a house and tech house artist based in Spain, tracked on soundcheck, with 8 sets logged across Barcelona, Frankfurt, Mexicocity and Miami. Often billed alongside Alejandra Rosales, Baum and Claudius (DE). Next up: Sunseabar Beach Club, Barcelona on Sat 1 Aug.
 
@@ -24,4 +24,4 @@ Giorgio Stefano is a house and tech house artist based in Spain, tracked on soun
 
 Alejandra Rosales, Baum, Claudius (DE)
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/giorgiostefano/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/giorgiostefano/)*

@@ -1,6 +1,6 @@
 # DEAR MONDAY, vol.297 at rake?raka?
 
-DEAR MONDAY, vol.297 at rake?raka? on Mon 3 Aug, Osaka. 2 acts on the bill: ast midori and HSC (1). Psytrance and Minimal Techno. Preview the line-up and save it on soundcheck.
+DEAR MONDAY, vol.297 at rake?raka? on Mon 3 Aug, Osaka. 2 acts on the bill: ast midori and HSC (1). Deep House and Minimal Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

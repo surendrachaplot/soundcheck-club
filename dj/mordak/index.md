@@ -1,14 +1,14 @@
 # Mordak
 
-Mordak is a House and Electronica artist with 3 upcoming club dates listed on soundcheck as of Wed, 29 Jul 2026, next at Secret Location, London on Sun, 2 Aug 2026.
+Mordak is a House and Electronica artist with 3 upcoming club dates listed on soundcheck as of Thu, 30 Jul 2026, next at TBA - Secret Location, London on Sun, 2 Aug 2026.
 
-Mordak is a house and electronica artist based in Italy, tracked on soundcheck, with 47 sets logged across London, Milan and Rome. Often billed alongside Fabrizio Sala, DANAE and Lorenzo Dada. Next up: Secret Location, London on Sun 2 Aug.
+Mordak is a house and electronica artist based in Italy, tracked on soundcheck, with 47 sets logged across London, Milan and Rome. Often billed alongside Fabrizio Sala, DANAE and Lorenzo Dada. Next up: TBA - Secret Location, London on Sun 2 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sun, 2 Aug 2026 | Secret Location | London |
+| Sun, 2 Aug 2026 | TBA - Secret Location | London |
 | Tue, 4 Aug 2026 | THE MAGICK BAR | Rome |
 | Tue, 15 Sept 2026 | THE MAGICK BAR | Rome |
 
@@ -27,4 +27,4 @@ Mordak is a house and electronica artist based in Italy, tracked on soundcheck, 
 
 Fabrizio Sala, DANAE, Lorenzo Dada
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/mordak/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/mordak/)*

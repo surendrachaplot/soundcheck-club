@@ -1,6 +1,6 @@
 # The Barbary
 
-The Barbary is a music venue in Philadelphia with 4 upcoming nights listed on soundcheck as of Wed, 29 Jul 2026; the next is "Avision x BREAKAWAY PRESENTS" on Fri, 31 Jul 2026.
+The Barbary is a music venue in Philadelphia with 4 upcoming nights listed on soundcheck as of Thu, 30 Jul 2026; the next is "Avision x BREAKAWAY PRESENTS" on Fri, 31 Jul 2026.
 
 The Barbary is a music venue in Philadelphia listed on soundcheck. 4 upcoming nights, with line-ups including Avision, Joshwa, JULS (US) and sersol and 1 more. Browse upcoming dates, start times and who's playing. 951 Frankford Avenue; Philadelphia, PA 19125; United States.
 
@@ -17,4 +17,4 @@ The Barbary is a music venue in Philadelphia listed on soundcheck. 4 upcoming ni
 
 951 Frankford Avenue; Philadelphia, PA 19125; United States, Philadelphia
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/philadelphia/club/the-barbary/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/philadelphia/club/the-barbary/)*

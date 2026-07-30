@@ -1,17 +1,17 @@
 # Onder Hans
 
-Onder Hans is a music venue in Amsterdam with 1 upcoming night listed on soundcheck as of Wed, 29 Jul 2026; the next is "Perspectives x Melodic Room x VVISSIONN ADE Showcase" on Fri, 23 Oct 2026.
+Onder Hans is a music venue in Amsterdam with 1 upcoming night listed on soundcheck as of Thu, 30 Jul 2026; the next is "Perspectives x Melodic Room x VVISSIONN ADE Showcase" on Fri, 23 Oct 2026.
 
-Onder Hans is a music venue in Amsterdam listed on soundcheck. 1 upcoming night. Browse upcoming dates, start times and who's playing. Kerkstraat 136-138, 1017 GR Amsterdam.
+Onder Hans is a music venue in Amsterdam listed on soundcheck. 1 upcoming night, with line-ups including Almost Human (DJ), Cris-H, Darin Epsilon and Emanate and 2 more. Browse upcoming dates, start times and who's playing. Kerkstraat 136-138, 1017 GR Amsterdam.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Fri, 23 Oct 2026 | Perspectives x Melodic Room x VVISSIONN ADE Showcase |  |
+| Fri, 23 Oct 2026 | Perspectives x Melodic Room x VVISSIONN ADE Showcase | Almost Human (DJ), Cris-H, Darin Epsilon, Emanate, Jono Stephenson, Joshlane, KARINSMATIC, Min the Universe, OIBAF, Olivier Weiter, SHAZZE, Tumzz, Turako |
 
 ## Address
 
 Kerkstraat 136-138, 1017 GR Amsterdam, Amsterdam
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/onder-hans/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/onder-hans/)*

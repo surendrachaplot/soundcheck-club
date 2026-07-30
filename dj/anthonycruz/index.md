@@ -1,6 +1,6 @@
 # Anthony Cruz
 
-Anthony Cruz is a House and Minimal artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at TBA - UAC, Chicago on Sat, 1 Aug 2026.
+Anthony Cruz is a House and Minimal artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at TBA - UAC, Chicago on Sat, 1 Aug 2026.
 
 Anthony Cruz is a house and minimal artist based in United States of America, tracked on soundcheck, with 27 sets logged across Chicago and Detroit. Often billed alongside Double Dipp, Adorio and Buen Viaje. Next up: TBA - UAC, Chicago on Sat 1 Aug.
 
@@ -25,4 +25,4 @@ Anthony Cruz is a house and minimal artist based in United States of America, tr
 
 Double Dipp, Adorio, Buen Viaje
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/anthonycruz/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/anthonycruz/)*

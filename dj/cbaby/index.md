@@ -1,6 +1,6 @@
 # CBABY
 
-CBABY is a Hardcore and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at The DBA, Manchester on Fri, 31 Jul 2026.
+CBABY is a Hardcore and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at The DBA, Manchester on Fri, 31 Jul 2026.
 
 CBABY is a hardcore and techno artist tracked on soundcheck, with 18 sets logged across Leeds, Liverpool and Manchester. Often billed alongside Wor Lass, Princess Elf Bar and ASHTYLR. Next up: The DBA, Manchester on Fri 31 Jul.
 
@@ -25,4 +25,4 @@ CBABY is a hardcore and techno artist tracked on soundcheck, with 18 sets logged
 
 Wor Lass, Princess Elf Bar, ASHTYLR
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/cbaby/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/cbaby/)*

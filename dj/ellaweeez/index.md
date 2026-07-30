@@ -1,14 +1,15 @@
 # Ellaweeez
 
-Ellaweeez is a House and Garage artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at Colour Factory, London on Sun, 2 Aug 2026.
+Ellaweeez is a House and Garage artist with 2 upcoming club dates listed on soundcheck as of Thu, 30 Jul 2026, next at Colour Factory, London on Sun, 2 Aug 2026.
 
-Ellaweeez is a house and garage artist based in United Kingdom, tracked on soundcheck, with 12 sets logged across Amsterdam, Antwerp and London. Often billed alongside Ariane V, DJ Bone and DJ Flight. Next up: Colour Factory, London on Sun 2 Aug.
+Ellaweeez is a house and garage artist based in United Kingdom, tracked on soundcheck, with 13 sets logged across Amsterdam, Antwerp and London. Often billed alongside Ariane V, DJ Bone and DJ Flight. Next up: Colour Factory, London on Sun 2 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sun, 2 Aug 2026 | Colour Factory | London |
+| Fri, 25 Sept 2026 | Ormside Projects | London |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ Ellaweeez is a house and garage artist based in United Kingdom, tracked on sound
 
 Ariane V, DJ Bone, DJ Flight
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/ellaweeez/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/ellaweeez/)*

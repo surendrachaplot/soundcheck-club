@@ -1,6 +1,6 @@
 # Angelica Moller
 
-Angelica Moller is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Wed, 29 Jul 2026, next at Cineclube Cortina, Sao Paulo on Sat, 1 Aug 2026.
+Angelica Moller is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Thu, 30 Jul 2026, next at Cineclube Cortina, Sao Paulo on Sat, 1 Aug 2026.
 
 Angelica Moller is a techno and house artist based in Brazil, tracked on soundcheck, with 18 sets logged across Miami and Saopaulo. Often billed alongside Renato Cohen, Dj Mau Mau and Lolly Stardusty. Next up: Cineclube Cortina, Saopaulo on Sat 1 Aug.
 
@@ -26,4 +26,4 @@ Angelica Moller is a techno and house artist based in Brazil, tracked on soundch
 
 Renato Cohen, Dj Mau Mau, Lolly Stardusty
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/angelicamoller/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/angelicamoller/)*

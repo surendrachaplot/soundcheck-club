@@ -1,6 +1,6 @@
 # The Room
 
-The Room is a music venue in Tokyo with 2 upcoming nights listed on soundcheck as of Wed, 29 Jul 2026; the next is "ESPECIAL RECORDS SESSION - ERS BRAZILIAN SPECIAL 2026" on Sat, 1 Aug 2026.
+The Room is a music venue in Tokyo with 2 upcoming nights listed on soundcheck as of Thu, 30 Jul 2026; the next is "ESPECIAL RECORDS SESSION - ERS BRAZILIAN SPECIAL 2026" on Sat, 1 Aug 2026.
 
 The Room is a music venue in Tokyo listed on soundcheck. 2 upcoming nights, with line-ups including AMARI, cosmolady, Kyoto Jazz Massive and Yoshihiro Okino. Browse upcoming dates, start times and who's playing. B1, 15-19, Sakuragaokacho, Shibuya Ku, Tokyo To, 150-003.
 
@@ -15,4 +15,4 @@ The Room is a music venue in Tokyo listed on soundcheck. 2 upcoming nights, with
 
 B1, 15-19, Sakuragaokacho, Shibuya Ku, Tokyo To, 150-003, Tokyo
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/the-room/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/the-room/)*

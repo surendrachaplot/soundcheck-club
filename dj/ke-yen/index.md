@@ -1,6 +1,6 @@
 # KE-YEN
 
-KE-YEN is a Garage and Trance artist with 2 upcoming club dates listed on soundcheck as of Wed, 29 Jul 2026, next at Boston Manor Park, London on Fri, 31 Jul 2026.
+KE-YEN is a Garage and Trance artist with 2 upcoming club dates listed on soundcheck as of Thu, 30 Jul 2026, next at Boston Manor Park, London on Fri, 31 Jul 2026.
 
 KE-YEN is a garage and trance artist based in Australia, tracked on soundcheck, with 19 sets logged across Bali, Bangkok, Barcelona and Berlin and 10 more. Often billed alongside Maruwa, Benga and LAMMER. Next up: Boston Manor Park, London on Fri 31 Jul.
 
@@ -26,4 +26,4 @@ KE-YEN is a garage and trance artist based in Australia, tracked on soundcheck, 
 
 Maruwa, Benga, LAMMER
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/ke-yen/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/ke-yen/)*

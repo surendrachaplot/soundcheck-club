@@ -1,6 +1,6 @@
 # Bizarre Billy
 
-Bizarre Billy is a Post-Punk and Italo Disco artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at 7833 Soundlab, Barcelona on Thu, 30 Jul 2026.
+Bizarre Billy is a Post-Punk and Italo Disco artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at 7833 Soundlab, Barcelona on Thu, 30 Jul 2026.
 
 Bizarre Billy is a post-punk and italo disco artist based in Germany, tracked on soundcheck, with 10 sets logged across Barcelona, Berlin, Milan and Stockholm. Often billed alongside Billy Idle, Lil Vän and Shimanski. Next up: 7833 Soundlab, Barcelona on Thu 30 Jul.
 
@@ -25,4 +25,4 @@ Bizarre Billy is a post-punk and italo disco artist based in Germany, tracked on
 
 Billy Idle, Lil Vän, Shimanski
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/bizarrebilly/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/bizarrebilly/)*

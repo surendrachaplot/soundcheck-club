@@ -1,6 +1,6 @@
 # Niyx
 
-Niyx is a Club and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at Mood Ring, New York City on Sat, 1 Aug 2026.
+Niyx is a Club and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at Mood Ring, New York City on Sat, 1 Aug 2026.
 
 Niyx is a club and techno artist based in United States of America, tracked on soundcheck, with 3 sets logged across Newyorkcity. Often billed alongside HOPESTARXX, LUN★ and stress tess. Next up: Mood Ring, Newyorkcity on Sat 1 Aug.
 
@@ -19,4 +19,4 @@ Niyx is a club and techno artist based in United States of America, tracked on s
 
 HOPESTARXX, LUN★, stress tess
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/niyx/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/niyx/)*

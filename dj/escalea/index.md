@@ -1,6 +1,6 @@
 # ESCALEA
 
-ESCALEA is a Techno and Trance artist with 4 upcoming club dates listed on soundcheck as of Wed, 29 Jul 2026, next at TBA - Peißnitzinsel Halle, Leipzig on Sat, 1 Aug 2026.
+ESCALEA is a Techno and Trance artist with 4 upcoming club dates listed on soundcheck as of Thu, 30 Jul 2026, next at TBA - Peißnitzinsel Halle, Leipzig on Sat, 1 Aug 2026.
 
 ESCALEA is a techno and trance artist based in Germany, tracked on soundcheck, with 22 sets logged across Berlin and Leipzig. Often billed alongside humae, jeanska and JUNiQUE. Next up: TBA - Peißnitzinsel Halle, Leipzig on Sat 1 Aug.
 
@@ -28,4 +28,4 @@ ESCALEA is a techno and trance artist based in Germany, tracked on soundcheck, w
 
 humae, jeanska, JUNiQUE
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/escalea/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/escalea/)*

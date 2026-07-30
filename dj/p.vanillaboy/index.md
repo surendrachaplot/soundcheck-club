@@ -1,6 +1,6 @@
 # P.Vanillaboy
 
-P.Vanillaboy is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at Phoxxi Green Area, Hamburg on Sat, 22 Aug 2026.
+P.Vanillaboy is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at Phoxxi Green Area, Hamburg on Sat, 22 Aug 2026.
 
 P.Vanillaboy is a techno and house artist based in Germany, tracked on soundcheck, with 66 sets logged across Amsterdam, Basel, Berlin and Cologne and 9 more. Often billed alongside Penglord, EliaHaze and BBetriebswirt. Next up: Phoxxi Green Area, Hamburg on Sat 22 Aug.
 
@@ -25,4 +25,4 @@ P.Vanillaboy is a techno and house artist based in Germany, tracked on soundchec
 
 Penglord, EliaHaze, BBetriebswirt
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/p.vanillaboy/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/p.vanillaboy/)*

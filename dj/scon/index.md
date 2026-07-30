@@ -1,6 +1,6 @@
 # Scon
 
-Scon is a House and Garage artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at Meraki, Liverpool on Sat, 1 Aug 2026.
+Scon is a House and Garage artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at Meraki, Liverpool on Sat, 1 Aug 2026.
 
 Scon is a house and garage artist tracked on soundcheck, with 19 sets logged across Glasgow, Leeds, Liverpool and London and 1 more. Often billed alongside Reeshy, Charlotte Ord and Bella Boo. Next up: Meraki, Liverpool on Sat 1 Aug.
 
@@ -25,4 +25,4 @@ Scon is a house and garage artist tracked on soundcheck, with 19 sets logged acr
 
 Reeshy, Charlotte Ord, Bella Boo
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/scon/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/scon/)*

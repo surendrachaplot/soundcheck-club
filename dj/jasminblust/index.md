@@ -1,6 +1,6 @@
 # Jasmin Blust
 
-Jasmin Blust is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at Electrisize, Düsseldorf on Fri, 7 Aug 2026.
+Jasmin Blust is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at Electrisize, Düsseldorf on Fri, 7 Aug 2026.
 
 Jasmin Blust is a techno and house artist based in Germany, tracked on soundcheck, with 8 sets logged across Basel, Berlin, Cologne and Dusseldorf and 2 more. Often billed alongside Lilly Palmer, A.N.I. and Alle Farben. Next up: Electrisize, Dusseldorf on Fri 7 Aug.
 
@@ -24,4 +24,4 @@ Jasmin Blust is a techno and house artist based in Germany, tracked on soundchec
 
 Lilly Palmer, A.N.I., Alle Farben
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/jasminblust/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/jasminblust/)*

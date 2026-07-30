@@ -1,6 +1,6 @@
 # AVÖ (PT)
 
-AVÖ (PT) is a Afro House and House artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at Hï Ibiza, Ibiza on Mon, 3 Aug 2026.
+AVÖ (PT) is a Afro House and House artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at Hï Ibiza, Ibiza on Mon, 3 Aug 2026.
 
 AVÖ (PT) is an afro house and house artist tracked on soundcheck, with 6 sets logged across Ibiza, Lisbon, London and Lyon and 2 more. Often billed alongside Francis Mercier, MoBlack and ARYMÉ. Next up: Hï Ibiza, Ibiza on Mon 3 Aug.
 
@@ -22,4 +22,4 @@ AVÖ (PT) is an afro house and house artist tracked on soundcheck, with 6 sets l
 
 Francis Mercier, MoBlack, ARYMÉ
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/avopt/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/avopt/)*

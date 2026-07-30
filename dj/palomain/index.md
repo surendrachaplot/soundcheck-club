@@ -1,6 +1,6 @@
 # PALO MAIN
 
-PALO MAIN is a Tech House and Latin Bass artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at Eden, Ibiza on Sat, 1 Aug 2026.
+PALO MAIN is a Tech House and Latin Bass artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at Eden, Ibiza on Sat, 1 Aug 2026.
 
 PALO MAIN is a tech house and latin bass artist based in Spain, tracked on soundcheck, with 19 sets logged across Barcelona and Ibiza. Often billed alongside DAGZZ, Marco G (3) and Denoir. Next up: Eden, Ibiza on Sat 1 Aug.
 
@@ -25,4 +25,4 @@ PALO MAIN is a tech house and latin bass artist based in Spain, tracked on sound
 
 DAGZZ, Marco G (3), Denoir
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/palomain/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/palomain/)*

@@ -1,14 +1,13 @@
 # Isabel Soto
 
-Isabel Soto is a Techno and House artist with 6 upcoming club dates listed on soundcheck as of Wed, 29 Jul 2026, next at Spreefeld Bootshaus, Berlin on Wed, 29 Jul 2026.
+Isabel Soto is a Techno and House artist with 5 upcoming club dates listed on soundcheck as of Thu, 30 Jul 2026, next at Rote Sonne, Munich on Fri, 7 Aug 2026.
 
-Isabel Soto is a techno and house artist tracked on soundcheck, with 92 sets logged across Amsterdam, Athens, Barcelona and Basel and 27 more. Often billed alongside Claudio PRC, Mike Larry and Oscar Mulero. Next up: Spreefeld Bootshaus, Berlin on Wed 29 Jul.
+Isabel Soto is a techno and house artist tracked on soundcheck, with 92 sets logged across Amsterdam, Athens, Barcelona and Basel and 27 more. Often billed alongside Claudio PRC, Mike Larry and Oscar Mulero. Next up: Rote Sonne, Munich on Fri 7 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Wed, 29 Jul 2026 | Spreefeld Bootshaus | Berlin |
 | Fri, 7 Aug 2026 | Rote Sonne | Munich |
 | Fri, 7 Aug 2026 | Rote Sonne | Munich |
 | Sat, 8 Aug 2026 | Berghain / Panorama Bar / Säule | Berlin |
@@ -17,6 +16,7 @@ Isabel Soto is a techno and house artist tracked on soundcheck, with 92 sets log
 
 ## Recently played
 
+- Spreefeld Bootshaus, Berlin — Wed, 29 Jul 2026
 - Funke, Ghent — Fri, 17 Jul 2026
 - Under Club, Buenos Aires — Sat, 4 Jul 2026
 - Radio - Wine, Food & Music Bar, Mexico City — Fri, 26 Jun 2026
@@ -24,10 +24,9 @@ Isabel Soto is a techno and house artist tracked on soundcheck, with 92 sets log
 - Stereo, Montreal — Fri, 5 Jun 2026
 - Distillery, Leipzig — Sat, 16 May 2026
 - TBA - Los Angeles, Los Angeles — Sun, 3 May 2026
-- TBA - Denver, Denver — Sat, 2 May 2026
 
 ## Shares bills with
 
 Claudio PRC, Mike Larry, Oscar Mulero
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/isabelsoto/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/isabelsoto/)*

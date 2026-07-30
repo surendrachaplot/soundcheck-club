@@ -1,6 +1,6 @@
 # Hreno
 
-Hreno is a Electronica and Disco artist with 2 upcoming club dates listed on soundcheck as of Wed, 29 Jul 2026, next at Club der Visionaere, Berlin on Thu, 30 Jul 2026.
+Hreno is a Electronica and Disco artist with 2 upcoming club dates listed on soundcheck as of Thu, 30 Jul 2026, next at Club der Visionaere, Berlin on Thu, 30 Jul 2026.
 
 Hreno is an electronica and disco artist based in Germany, tracked on soundcheck, with 5 sets logged across Berlin, Lisbon and Tokyo. Often billed alongside Mike Shannon, Alland Byallo and Andrea Fiorito. Next up: Club der Visionaere, Berlin on Thu 30 Jul.
 
@@ -21,4 +21,4 @@ Hreno is an electronica and disco artist based in Germany, tracked on soundcheck
 
 Mike Shannon, Alland Byallo, Andrea Fiorito
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/hreno/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/hreno/)*

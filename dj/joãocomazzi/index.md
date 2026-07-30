@@ -1,6 +1,6 @@
 # João Comazzi
 
-João Comazzi is a House and Balearic artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at Renate, Berlin on Sat, 1 Aug 2026.
+João Comazzi is a House and Balearic artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at Renate, Berlin on Sat, 1 Aug 2026.
 
 João Comazzi is a house and balearic artist tracked on soundcheck, with 20 sets logged across Berlin and Milan. Often billed alongside Richii, Alicia Carrera and Camilo Miranda. Next up: Renate, Berlin on Sat 1 Aug.
 
@@ -25,4 +25,4 @@ João Comazzi is a house and balearic artist tracked on soundcheck, with 20 sets
 
 Richii, Alicia Carrera, Camilo Miranda
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/joãocomazzi/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/joãocomazzi/)*

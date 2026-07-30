@@ -1,6 +1,6 @@
 # RAILROAD MAN
 
-RAILROAD MAN is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at Dual, Bangkok on Sat, 1 Aug 2026.
+RAILROAD MAN is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at Dual, Bangkok on Sat, 1 Aug 2026.
 
 RAILROAD MAN is a house and techno artist based in South Korea, tracked on soundcheck, with 46 sets logged across Bangkok, Hongkong and Seoul. Often billed alongside Jucid, Jesse You and Oho (1). Next up: Dual, Bangkok on Sat 1 Aug.
 
@@ -25,4 +25,4 @@ RAILROAD MAN is a house and techno artist based in South Korea, tracked on sound
 
 Jucid, Jesse You, Oho (1)
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/railroadman/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/railroadman/)*

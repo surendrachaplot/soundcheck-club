@@ -1,6 +1,6 @@
 # Misha (3)
 
-Misha (3) is a Tech House and Club artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at Bar Oriente, Mexico City on Thu, 30 Jul 2026.
+Misha (3) is a Tech House and Club artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at Bar Oriente, Mexico City on Thu, 30 Jul 2026.
 
 Misha (3) is a tech house and club artist based in Germany, tracked on soundcheck, with 8 sets logged across Amsterdam, Berlin, London and Mexicocity and 2 more. Often billed alongside BOTHEN, Bailey Ibbs and Bambounou. Next up: Bar Oriente, Mexicocity on Thu 30 Jul.
 
@@ -24,4 +24,4 @@ Misha (3) is a tech house and club artist based in Germany, tracked on soundchec
 
 BOTHEN, Bailey Ibbs, Bambounou
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/misha-3/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/misha-3/)*

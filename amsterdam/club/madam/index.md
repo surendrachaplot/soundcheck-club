@@ -1,6 +1,6 @@
 # Madam
 
-Madam is a music venue in Amsterdam with 25 upcoming nights listed on soundcheck as of Wed, 29 Jul 2026; the next is "Madam by Night: Pride" on Fri, 31 Jul 2026.
+Madam is a music venue in Amsterdam with 25 upcoming nights listed on soundcheck as of Thu, 30 Jul 2026; the next is "Madam by Night: Pride" on Fri, 31 Jul 2026.
 
 Madam is a music venue in Amsterdam listed on soundcheck. 25 upcoming nights, with line-ups including Aline Rocha, Carl Craig, Chris Di Perri and Crystal Touch and 2 more. Browse upcoming dates, start times and who's playing. Overhoeksplein 3, 1031 KS Amsterdam, Netherlands.
 
@@ -23,4 +23,4 @@ Madam is a music venue in Amsterdam listed on soundcheck. 25 upcoming nights, wi
 
 Overhoeksplein 3, 1031 KS Amsterdam, Netherlands, Amsterdam
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/madam/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/madam/)*

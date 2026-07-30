@@ -1,6 +1,6 @@
 # Brown Suga Princess
 
-Brown Suga Princess is a Bass and Club artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at Angel Music Bar, Melbourne on Thu, 30 Jul 2026.
+Brown Suga Princess is a Bass and Club artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at Angel Music Bar, Melbourne on Thu, 30 Jul 2026.
 
 Brown Suga Princess is a bass and club artist based in Australia, tracked on soundcheck, with 36 sets logged across Melbourne and Sydney. Often billed alongside Rakhi, DJ Mum and rita bass. Next up: Angel Music Bar, Melbourne on Thu 30 Jul.
 
@@ -25,4 +25,4 @@ Brown Suga Princess is a bass and club artist based in Australia, tracked on sou
 
 Rakhi, DJ Mum, rita bass
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/brownsugaprincess/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/brownsugaprincess/)*

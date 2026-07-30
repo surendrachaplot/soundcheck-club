@@ -1,6 +1,6 @@
 # Lene Ma Rue
 
-Lene Ma Rue is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at Valley, Berlin on Sun, 2 Aug 2026.
+Lene Ma Rue is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at Valley, Berlin on Sun, 2 Aug 2026.
 
 Lene Ma Rue is a techno and trance artist based in Estonia, tracked on soundcheck, with 47 sets logged across Amsterdam, Antwerp, Basel and Berlin and 14 more. Often billed alongside Labrighli, BIIA and Don Woezik. Next up: Valley, Berlin on Sun 2 Aug.
 
@@ -25,4 +25,4 @@ Lene Ma Rue is a techno and trance artist based in Estonia, tracked on soundchec
 
 Labrighli, BIIA, Don Woezik
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/lenemarue/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/lenemarue/)*

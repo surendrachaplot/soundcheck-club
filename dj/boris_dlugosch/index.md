@@ -1,6 +1,6 @@
 # Boris Dlugosch
 
-Boris Dlugosch is a House and Italo Disco artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at Golden Pudel Club, Hamburg on Fri, 31 Jul 2026.
+Boris Dlugosch is a House and Italo Disco artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at Golden Pudel Club, Hamburg on Fri, 31 Jul 2026.
 
 Boris Dlugosch is a house and italo disco artist based in Germany, tracked on soundcheck, with 15 sets logged across Hamburg, Mexicocity, Munich and Tokyo and 1 more. Often billed alongside Dietroiter, Anton Jonathan and Aiste Regina. Next up: Golden Pudel Club, Hamburg on Fri 31 Jul.
 
@@ -25,4 +25,4 @@ Boris Dlugosch is a house and italo disco artist based in Germany, tracked on so
 
 Dietroiter, Anton Jonathan, Aiste Regina
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/boris_dlugosch/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/boris_dlugosch/)*

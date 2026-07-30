@@ -1,6 +1,6 @@
 # Amelia Leigh
 
-Amelia Leigh is a Jungle and Garage artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at Hal25, Amsterdam on Sat, 8 Aug 2026.
+Amelia Leigh is a Jungle and Garage artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at Hal25, Amsterdam on Sat, 8 Aug 2026.
 
 Amelia Leigh is a jungle and garage artist based in United Kingdom, tracked on soundcheck, with 46 sets logged across Amsterdam, Bristol, Leeds and Liverpool and 4 more. Often billed alongside NEENZY (UK), Sweetly and DJ BootyShake. Next up: Hal25, Amsterdam on Sat 8 Aug.
 
@@ -25,4 +25,4 @@ Amelia Leigh is a jungle and garage artist based in United Kingdom, tracked on s
 
 NEENZY (UK), Sweetly, DJ BootyShake
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/amelialeigh/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/amelialeigh/)*

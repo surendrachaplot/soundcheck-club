@@ -1,6 +1,6 @@
 # Shall Ocin
 
-Shall Ocin is a Techno and Tech House artist with 2 upcoming club dates listed on soundcheck as of Wed, 29 Jul 2026, next at Luz De Gas, Barcelona on Sun, 9 Aug 2026.
+Shall Ocin is a Techno and Tech House artist with 2 upcoming club dates listed on soundcheck as of Thu, 30 Jul 2026, next at Luz De Gas, Barcelona on Sun, 9 Aug 2026.
 
 Shall Ocin is a techno and tech house artist based in Argentina, tracked on soundcheck, with 25 sets logged across Amsterdam, Barcelona, Buenosaires and Ibiza and 6 more. Often billed alongside Artbat, no_ip and Greta Levska. Next up: Luz De Gas, Barcelona on Sun 9 Aug.
 
@@ -26,4 +26,4 @@ Shall Ocin is a techno and tech house artist based in Argentina, tracked on soun
 
 Artbat, no_ip, Greta Levska
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/shallocin/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/shallocin/)*

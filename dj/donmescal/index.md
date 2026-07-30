@@ -1,6 +1,6 @@
 # Don Mescal
 
-Don Mescal is a Downtempo and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at TBA, Barcelona on Sat, 1 Aug 2026.
+Don Mescal is a Downtempo and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at TBA, Barcelona on Sat, 1 Aug 2026.
 
 Don Mescal is a downtempo and techno artist based in Canada, tracked on soundcheck, with 15 sets logged across Barcelona, Berlin, Brussels and Kyoto and 3 more. Often billed alongside Caterina Infinity, El Extravagante and ANDI.ANDEAN. Next up: TBA, Barcelona on Sat 1 Aug.
 
@@ -25,4 +25,4 @@ Don Mescal is a downtempo and techno artist based in Canada, tracked on soundche
 
 Caterina Infinity, El Extravagante, ANDI.ANDEAN
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/donmescal/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/donmescal/)*

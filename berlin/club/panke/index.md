@@ -1,6 +1,6 @@
 # Panke
 
-Panke is a music venue in Berlin with 9 upcoming nights listed on soundcheck as of Wed, 29 Jul 2026; the next is "Sonora de Llegar in Berlin / Special Guest: Kumbia Ambassadors & Tio Natcho" on Thu, 30 Jul 2026.
+Panke is a music venue in Berlin with 9 upcoming nights listed on soundcheck as of Thu, 30 Jul 2026; the next is "Sonora de Llegar in Berlin / Special Guest: Kumbia Ambassadors & Tio Natcho" on Thu, 30 Jul 2026.
 
 Panke is a music venue in Berlin listed on soundcheck. 9 upcoming nights, with line-ups including ALEX WANG, Assyouti, bela and Chris Imler and 2 more. Browse upcoming dates, start times and who's playing. Gerichtstraße 23, 13347 Berlin.
 
@@ -22,4 +22,4 @@ Panke is a music venue in Berlin listed on soundcheck. 9 upcoming nights, with l
 
 Gerichtstraße 23, 13347 Berlin, Berlin
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/panke/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/panke/)*

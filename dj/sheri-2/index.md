@@ -1,6 +1,6 @@
 # SHERI (2)
 
-SHERI (2) is a Trance and Grime artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at The White Hotel, Manchester on Sat, 1 Aug 2026.
+SHERI (2) is a Trance and Grime artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at The White Hotel, Manchester on Sat, 1 Aug 2026.
 
 SHERI (2) is a trance and grime artist tracked on soundcheck, with 13 sets logged across Manchester. Often billed alongside Anop, Jase Jeffery and Kusasa. Next up: The White Hotel, Manchester on Sat 1 Aug.
 
@@ -25,4 +25,4 @@ SHERI (2) is a trance and grime artist tracked on soundcheck, with 13 sets logge
 
 Anop, Jase Jeffery, Kusasa
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/sheri-2/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/sheri-2/)*

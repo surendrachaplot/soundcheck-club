@@ -1,6 +1,6 @@
 # Conor Schmtz
 
-Conor Schmtz is a House and Electronica artist with 3 upcoming club dates listed on soundcheck as of Wed, 29 Jul 2026, next at Titanic Distillers, Belfast on Fri, 31 Jul 2026.
+Conor Schmtz is a House and Electronica artist with 3 upcoming club dates listed on soundcheck as of Thu, 30 Jul 2026, next at Titanic Distillers, Belfast on Fri, 31 Jul 2026.
 
 Conor Schmtz is a house and electronica artist tracked on soundcheck, with 32 sets logged across Belfast, Berlin, Dublin and London. Often billed alongside Marion Hawkes, ByPhil and Matcha. Next up: Titanic Distillers, Belfast on Fri 31 Jul.
 
@@ -27,4 +27,4 @@ Conor Schmtz is a house and electronica artist tracked on soundcheck, with 32 se
 
 Marion Hawkes, ByPhil, Matcha
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/conorschmtz/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/conorschmtz/)*

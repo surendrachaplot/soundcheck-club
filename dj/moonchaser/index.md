@@ -1,6 +1,6 @@
 # Moon Chaser
 
-Moon Chaser is a Electro and House artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at Avalon Cafe Bermondsey, London on Fri, 31 Jul 2026.
+Moon Chaser is a Electro and House artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at Avalon Cafe Bermondsey, London on Fri, 31 Jul 2026.
 
 Moon Chaser is an electro and house artist based in United Kingdom, tracked on soundcheck, with 10 sets logged across Leeds and London. Often billed alongside Paddy Cotter, Midnight Lounge and Revstreet. Next up: Avalon Cafe Bermondsey, London on Fri 31 Jul.
 
@@ -25,4 +25,4 @@ Moon Chaser is an electro and house artist based in United Kingdom, tracked on s
 
 Paddy Cotter, Midnight Lounge, Revstreet
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/moonchaser/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/moonchaser/)*

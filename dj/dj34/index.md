@@ -1,6 +1,6 @@
 # DJ 34
 
-DJ 34 is a Trance and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at Z Maruyama, Tokyo on Mon, 10 Aug 2026.
+DJ 34 is a Trance and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at Z Maruyama, Tokyo on Mon, 10 Aug 2026.
 
 DJ 34 is a trance and techno artist based in Japan, tracked on soundcheck, with 54 sets logged across Osaka and Tokyo. Often billed alongside FUMOFFU, YOSHIMASA and BEPPU. Next up: Z Maruyama, Tokyo on Mon 10 Aug.
 
@@ -25,4 +25,4 @@ DJ 34 is a trance and techno artist based in Japan, tracked on soundcheck, with 
 
 FUMOFFU, YOSHIMASA, BEPPU
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/dj34/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/dj34/)*

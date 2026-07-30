@@ -1,14 +1,15 @@
 # Treibende Kraft
 
-Treibende Kraft is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at OST, Berlin on Sat, 19 Sept 2026.
+Treibende Kraft is a Techno and Trance artist with 2 upcoming club dates listed on soundcheck as of Thu, 30 Jul 2026, next at OST, Berlin on Sat, 19 Sept 2026.
 
-Treibende Kraft is a techno and trance artist based in Germany, tracked on soundcheck, with 2 sets logged across Berlin. Often billed alongside AREA ØNE, Ali James and Anuuk. Next up: OST, Berlin on Sat 19 Sept.
+Treibende Kraft is a techno and trance artist based in Germany, tracked on soundcheck, with 3 sets logged across Berlin. Often billed alongside Niotech, AREA ØNE and Ali James. Next up: OST, Berlin on Sat 19 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 19 Sept 2026 | OST | Berlin |
+| Fri, 16 Oct 2026 | Lokschuppen Berlin | Berlin |
 
 ## Recently played
 
@@ -16,6 +17,6 @@ Treibende Kraft is a techno and trance artist based in Germany, tracked on sound
 
 ## Shares bills with
 
-AREA ØNE, Ali James, Anuuk
+Niotech, AREA ØNE, Ali James
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/treibendekraft/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/treibendekraft/)*

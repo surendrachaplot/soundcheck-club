@@ -1,6 +1,6 @@
 # Lewba
 
-Lewba is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at Tokyo Sing Song, Sydney on Fri, 31 Jul 2026.
+Lewba is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at Tokyo Sing Song, Sydney on Fri, 31 Jul 2026.
 
 Lewba is a house and techno artist based in Australia, tracked on soundcheck, with 31 sets logged across Bangkok, Melbourne, Seoul and Sydney and 1 more. Often billed alongside Accent', Bortzo and Magda Bytnerowicz. Next up: Tokyo Sing Song, Sydney on Fri 31 Jul.
 
@@ -25,4 +25,4 @@ Lewba is a house and techno artist based in Australia, tracked on soundcheck, wi
 
 Accent', Bortzo, Magda Bytnerowicz
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/lewba/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/lewba/)*

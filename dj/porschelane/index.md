@@ -1,6 +1,6 @@
 # Porschelane
 
-Porschelane is a Club and Electro artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at Plex, Athens on Sat, 1 Aug 2026.
+Porschelane is a Club and Electro artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at Plex, Athens on Sat, 1 Aug 2026.
 
 Porschelane is a club and electro artist based in Greece, tracked on soundcheck, with 15 sets logged across Athens and Berlin. Often billed alongside BABYNYMPH777, Nyennea and Joseph Mouzakitis. Next up: Plex, Athens on Sat 1 Aug.
 
@@ -25,4 +25,4 @@ Porschelane is a club and electro artist based in Greece, tracked on soundcheck,
 
 BABYNYMPH777, Nyennea, Joseph Mouzakitis
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/porschelane/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/porschelane/)*

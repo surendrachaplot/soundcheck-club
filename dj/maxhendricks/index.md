@@ -1,6 +1,6 @@
 # Max Hendricks
 
-Max Hendricks is a Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at Ritter Butzke, Berlin on Fri, 14 Aug 2026.
+Max Hendricks is a Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at Ritter Butzke, Berlin on Fri, 14 Aug 2026.
 
 Max Hendricks is a techno artist based in Germany, tracked on soundcheck, with 3 sets logged across Berlin. Often billed alongside Hyunji-A, Rikken and Tantum. Next up: Ritter Butzke, Berlin on Fri 14 Aug.
 
@@ -19,4 +19,4 @@ Max Hendricks is a techno artist based in Germany, tracked on soundcheck, with 3
 
 Hyunji-A, Rikken, Tantum
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/maxhendricks/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/maxhendricks/)*

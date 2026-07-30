@@ -1,6 +1,6 @@
 # Standard Time
 
-Standard Time is a music venue in Toronto with 13 upcoming nights listed on soundcheck as of Wed, 29 Jul 2026; the next is "Breaking Borders with K-65: Communal Art Expo & Rave" on Thu, 30 Jul 2026.
+Standard Time is a music venue in Toronto with 13 upcoming nights listed on soundcheck as of Thu, 30 Jul 2026; the next is "Breaking Borders with K-65: Communal Art Expo & Rave" on Thu, 30 Jul 2026.
 
 Standard Time is a music venue in Toronto listed on soundcheck. 13 upcoming nights, with line-ups including A$H BANKS, Benski, Benski (CA) and Dameer and 2 more. Browse upcoming dates, start times and who's playing. 165 Geary Ave Toronto, ON M6H 2B8, Canada.
 
@@ -23,4 +23,4 @@ Standard Time is a music venue in Toronto listed on soundcheck. 13 upcoming nigh
 
 165 Geary Ave Toronto, ON M6H 2B8, Canada, Toronto
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/toronto/club/standard-time/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/toronto/club/standard-time/)*

@@ -1,6 +1,6 @@
 # Julez (live)
 
-Julez (live) is a Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at Straße des 17. Juni, Berlin on Sat, 15 Aug 2026.
+Julez (live) is a Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at Straße des 17. Juni, Berlin on Sat, 15 Aug 2026.
 
 Julez (live) is a techno artist based in Germany, tracked on soundcheck, with 7 sets logged across Berlin. Often billed alongside Dshanna, Dr. Spree and Gray Contrast. Next up: Straße des 17. Juni, Berlin on Sat 15 Aug.
 
@@ -23,4 +23,4 @@ Julez (live) is a techno artist based in Germany, tracked on soundcheck, with 7 
 
 Dshanna, Dr. Spree, Gray Contrast
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/julezlive/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/julezlive/)*

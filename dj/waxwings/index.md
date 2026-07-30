@@ -1,6 +1,6 @@
 # Wax Wings
 
-Wax Wings is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at Distillery N17, London on Sat, 15 Aug 2026.
+Wax Wings is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at Distillery N17, London on Sat, 15 Aug 2026.
 
 Wax Wings is a techno and house artist tracked on soundcheck, with 36 sets logged across Amsterdam, Antwerp, Barcelona and Berlin and 6 more. Often billed alongside Lewis G. Burton, Brother of Set and Samantha Togni. Next up: Distillery N17, London on Sat 15 Aug.
 
@@ -25,4 +25,4 @@ Wax Wings is a techno and house artist tracked on soundcheck, with 36 sets logge
 
 Lewis G. Burton, Brother of Set, Samantha Togni
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/waxwings/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/waxwings/)*

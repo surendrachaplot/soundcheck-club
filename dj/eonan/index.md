@@ -1,6 +1,6 @@
 # EÒNAN
 
-EÒNAN is a Techno and Electronica artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at TBA - River Spree, Berlin, Berlin on Sat, 1 Aug 2026.
+EÒNAN is a Techno and Electronica artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at TBA - River Spree, Berlin, Berlin on Sat, 1 Aug 2026.
 
 EÒNAN is a techno and electronica artist based in Germany, tracked on soundcheck, with 13 sets logged across Berlin and Newyorkcity. Often billed alongside Young Male, Bokaric and Kangding Ray. Next up: TBA - River Spree, Berlin, Berlin on Sat 1 Aug.
 
@@ -25,4 +25,4 @@ EÒNAN is a techno and electronica artist based in Germany, tracked on soundchec
 
 Young Male, Bokaric, Kangding Ray
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/eonan/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/eonan/)*

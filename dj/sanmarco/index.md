@@ -1,6 +1,6 @@
 # San Marco
 
-San Marco is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at Kauz, Zurich on Fri, 31 Jul 2026.
+San Marco is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at Kauz, Zurich on Fri, 31 Jul 2026.
 
 San Marco is a house and techno artist based in Switzerland, tracked on soundcheck, with 9 sets logged across Amsterdam, Athens, Saopaulo and Zurich. Often billed alongside Ajele, Juli Lee and O/Y. Next up: Kauz, Zurich on Fri 31 Jul.
 
@@ -25,4 +25,4 @@ San Marco is a house and techno artist based in Switzerland, tracked on soundche
 
 Ajele, Juli Lee, O/Y
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/sanmarco/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/sanmarco/)*

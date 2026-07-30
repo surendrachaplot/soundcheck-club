@@ -1,6 +1,6 @@
 # Rhiavas
 
-Rhiavas is a House and Afro House artist with 5 upcoming club dates listed on soundcheck as of Wed, 29 Jul 2026, next at Club Cheek, London on Fri, 31 Jul 2026.
+Rhiavas is a House and Afro House artist with 5 upcoming club dates listed on soundcheck as of Thu, 30 Jul 2026, next at Club Cheek, London on Fri, 31 Jul 2026.
 
 Rhiavas is a house and afro house artist based in United Kingdom, tracked on soundcheck, with 11 sets logged across London. Often billed alongside FLORA THA EXPLORA, DRIA and Duo. Next up: Club Cheek, London on Fri 31 Jul.
 
@@ -27,4 +27,4 @@ Rhiavas is a house and afro house artist based in United Kingdom, tracked on sou
 
 FLORA THA EXPLORA, DRIA, Duo
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/rhiavas/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/rhiavas/)*

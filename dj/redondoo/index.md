@@ -1,6 +1,6 @@
 # Redondoo
 
-Redondoo is a Techno and Electronica artist with 2 upcoming club dates listed on soundcheck as of Wed, 29 Jul 2026, next at Specka, Madrid on Sat, 1 Aug 2026.
+Redondoo is a Techno and Electronica artist with 2 upcoming club dates listed on soundcheck as of Thu, 30 Jul 2026, next at Specka, Madrid on Sat, 1 Aug 2026.
 
 Redondoo is a techno and electronica artist based in Spain, tracked on soundcheck, with 19 sets logged across Berlin and Madrid. Often billed alongside K1000o, Yiye and Liszt. Next up: Specka, Madrid on Sat 1 Aug.
 
@@ -26,4 +26,4 @@ Redondoo is a techno and electronica artist based in Spain, tracked on soundchec
 
 K1000o, Yiye, Liszt
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/redondoo/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/redondoo/)*

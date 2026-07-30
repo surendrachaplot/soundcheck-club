@@ -1,6 +1,6 @@
 # Mehr is Mehr
 
-Mehr is Mehr is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at Hinterhof Mitte, Berlin on Fri, 31 Jul 2026.
+Mehr is Mehr is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at Hinterhof Mitte, Berlin on Fri, 31 Jul 2026.
 
 Mehr is Mehr is a techno and house artist based in Germany, tracked on soundcheck, with 65 sets logged across Berlin, Hamburg, Leipzig and Munich and 4 more. Often billed alongside Sin:port, Kaufmann and Maurice Mino. Next up: Hinterhof Mitte, Berlin on Fri 31 Jul.
 
@@ -25,4 +25,4 @@ Mehr is Mehr is a techno and house artist based in Germany, tracked on soundchec
 
 Sin:port, Kaufmann, Maurice Mino
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/mehrismehr/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/mehrismehr/)*

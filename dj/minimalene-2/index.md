@@ -1,6 +1,6 @@
 # MiniMalene (2)
 
-MiniMalene (2) is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at MODULE, Copenhagen on Sat, 1 Aug 2026.
+MiniMalene (2) is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at MODULE, Copenhagen on Sat, 1 Aug 2026.
 
 MiniMalene (2) is a techno and house artist based in Denmark, tracked on soundcheck, with 18 sets logged across Berlin and Copenhagen. Often billed alongside Eski, Bongo & Pusk and Tim Andresen. Next up: MODULE, Copenhagen on Sat 1 Aug.
 
@@ -25,4 +25,4 @@ MiniMalene (2) is a techno and house artist based in Denmark, tracked on soundch
 
 Eski, Bongo & Pusk, Tim Andresen
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/minimalene-2/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/minimalene-2/)*

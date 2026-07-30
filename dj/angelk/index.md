@@ -1,6 +1,6 @@
 # Angel K
 
-Angel K is a House and Funk / Soul artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at Haus der Kunst, Munich on Fri, 31 Jul 2026.
+Angel K is a House and Funk / Soul artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at Haus der Kunst, Munich on Fri, 31 Jul 2026.
 
 Angel K is a house and funk / soul artist based in Germany, tracked on soundcheck, with 38 sets logged across Belgrade, Munich, Paris and Stuttgart and 1 more. Often billed alongside Andi Britz, luxus and sianza. Next up: Haus der Kunst, Munich on Fri 31 Jul.
 
@@ -25,4 +25,4 @@ Angel K is a house and funk / soul artist based in Germany, tracked on soundchec
 
 Andi Britz, luxus, sianza
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/angelk/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/angelk/)*

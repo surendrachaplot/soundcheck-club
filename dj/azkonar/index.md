@@ -1,6 +1,6 @@
 # Azkonar
 
-Azkonar is a electronic artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at ÆDEN, Berlin on Thu, 30 Jul 2026.
+Azkonar is a electronic artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at ÆDEN, Berlin on Thu, 30 Jul 2026.
 
 Azkonar is an electronic artist based in Spain, tracked on soundcheck, with 1 set logged across Berlin. Often billed alongside Alex Pastore, D3VAN and F DRAXIS. Next up: ÆDEN, Berlin on Thu 30 Jul.
 
@@ -14,4 +14,4 @@ Azkonar is an electronic artist based in Spain, tracked on soundcheck, with 1 se
 
 Alex Pastore, D3VAN, F DRAXIS
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/azkonar/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/azkonar/)*

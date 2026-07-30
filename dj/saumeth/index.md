@@ -1,17 +1,18 @@
 # Saumeth
 
-Saumeth is a Ambient and Experimental artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at Astral Junction, Berlin on Wed, 29 Jul 2026.
+Saumeth is a Ambient and Experimental artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at Astral Junction, Berlin on Wed, 5 Aug 2026.
 
-Saumeth is an ambient and experimental artist based in Germany, tracked on soundcheck, with 62 sets logged across Berlin. Often billed alongside AMBIENTES KOLLEKTIV, E-Chord and DJ BONEY S. Next up: Astral Junction, Berlin on Wed 29 Jul.
+Saumeth is an ambient and experimental artist based in Germany, tracked on soundcheck, with 63 sets logged across Berlin. Often billed alongside AMBIENTES KOLLEKTIV, E-Chord and DJ BONEY S. Next up: Astral Junction, Berlin on Wed 5 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Wed, 29 Jul 2026 | Astral Junction | Berlin |
+| Wed, 5 Aug 2026 | Astral Junction | Berlin |
 
 ## Recently played
 
+- Astral Junction, Berlin — Wed, 29 Jul 2026
 - Astral Junction, Berlin — Wed, 15 Jul 2026
 - Astral Junction, Berlin — Wed, 27 May 2026
 - Astral Junction, Berlin — Wed, 8 Apr 2026
@@ -19,10 +20,9 @@ Saumeth is an ambient and experimental artist based in Germany, tracked on sound
 - Astral Junction, Berlin — Thu, 12 Feb 2026
 - Astral Junction, Berlin — Wed, 10 Dec 2025
 - Astral Junction, Berlin — Wed, 24 Sept 2025
-- Astral Junction, Berlin — Wed, 17 Sept 2025
 
 ## Shares bills with
 
 AMBIENTES KOLLEKTIV, E-Chord, DJ BONEY S
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/saumeth/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/saumeth/)*

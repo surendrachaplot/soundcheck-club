@@ -1,6 +1,6 @@
 # yergurl
 
-yergurl is a Techno and Pop artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at TBA - Bell City , Melbourne on Sat, 1 Aug 2026.
+yergurl is a Techno and Pop artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at TBA - Bell City , Melbourne on Sat, 1 Aug 2026.
 
 yergurl is a techno and pop artist based in Australia, tracked on soundcheck, with 6 sets logged across Melbourne. Often billed alongside AKEYLAH, Chaotiic Good and Denim. Next up: TBA - Bell City , Melbourne on Sat 1 Aug.
 
@@ -22,4 +22,4 @@ yergurl is a techno and pop artist based in Australia, tracked on soundcheck, wi
 
 AKEYLAH, Chaotiic Good, Denim
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/yergurl/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/yergurl/)*

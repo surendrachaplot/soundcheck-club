@@ -1,6 +1,6 @@
 # Andrew Moore
 
-Andrew Moore is a Techno and House artist with 4 upcoming club dates listed on soundcheck as of Wed, 29 Jul 2026, next at OIL Club, Shenzhen on Thu, 30 Jul 2026.
+Andrew Moore is a Techno and House artist with 4 upcoming club dates listed on soundcheck as of Thu, 30 Jul 2026, next at OIL Club, Shenzhen on Thu, 30 Jul 2026.
 
 Andrew Moore is a techno and house artist based in United Kingdom, tracked on soundcheck, with 26 sets logged across Bangkok, Berlin, Cologne and Glasgow and 6 more. Often billed alongside PLATTER, Echoes Of October and Inverse Element. Next up: OIL Club, Shenzhen on Thu 30 Jul.
 
@@ -28,4 +28,4 @@ Andrew Moore is a techno and house artist based in United Kingdom, tracked on so
 
 PLATTER, Echoes Of October, Inverse Element
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/andrewmoore/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/andrewmoore/)*

@@ -1,6 +1,6 @@
 # Zen Freeman
 
-Zen Freeman is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at Sunset at EDITION, Los Angeles on Sat, 15 Aug 2026.
+Zen Freeman is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at Sunset at EDITION, Los Angeles on Sat, 15 Aug 2026.
 
 Zen Freeman is a house and disco artist based in United Kingdom, tracked on soundcheck, with 10 sets logged across Losangeles. Often billed alongside Gavin Turek, Juliet Mendoza and Ampersounds. Next up: Sunset at EDITION, Losangeles on Sat 15 Aug.
 
@@ -25,4 +25,4 @@ Zen Freeman is a house and disco artist based in United Kingdom, tracked on soun
 
 Gavin Turek, Juliet Mendoza, Ampersounds
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/zenfreeman/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/zenfreeman/)*

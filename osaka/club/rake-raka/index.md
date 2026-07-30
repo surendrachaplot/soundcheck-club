@@ -1,14 +1,13 @@
 # rake?raka?
 
-rake?raka? is a music venue in Osaka with 9 upcoming nights listed on soundcheck as of Wed, 29 Jul 2026; the next is "Jul.29th Wed muteppou" on Wed, 29 Jul 2026.
+rake?raka? is a music venue in Osaka with 8 upcoming nights listed on soundcheck as of Thu, 30 Jul 2026; the next is "DJ Stick All Night Long 'Psy tech night '" on Thu, 30 Jul 2026.
 
-rake?raka? is a music venue in Osaka listed on soundcheck. 9 upcoming nights, with line-ups including ALTF4, ast midori, beatman and DMITRI ABSINTHE and 2 more. Browse upcoming dates, start times and who's playing. 6-2-8 Soemoncho, Chuo-ku, Osaka-shi, Osaka, 542-0084 Japan.
+rake?raka? is a music venue in Osaka listed on soundcheck. 8 upcoming nights, with line-ups including ALTF4, ast midori, beatman and DMITRI ABSINTHE and 2 more. Browse upcoming dates, start times and who's playing. 6-2-8 Soemoncho, Chuo-ku, Osaka-shi, Osaka, 542-0084 Japan.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Wed, 29 Jul 2026 | Jul.29th Wed muteppou |  |
 | Thu, 30 Jul 2026 | DJ Stick All Night Long 'Psy tech night ' |  |
 | Mon, 3 Aug 2026 | DEAR MONDAY, vol.297 | HSC (1), ast midori |
 | Fri, 7 Aug 2026 | HOUSE OF GARDEN | Tokumoto, beatman, fb5 (1) |
@@ -22,4 +21,4 @@ rake?raka? is a music venue in Osaka listed on soundcheck. 9 upcoming nights, wi
 
 6-2-8 Soemoncho, Chuo-ku, Osaka-shi, Osaka, 542-0084 Japan, Osaka
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/osaka/club/rake-raka/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/osaka/club/rake-raka/)*

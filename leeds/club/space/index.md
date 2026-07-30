@@ -1,6 +1,6 @@
 # Space
 
-Space is a music venue in Leeds with 1 upcoming night listed on soundcheck as of Wed, 29 Jul 2026; the next is "Retro Heaven" on Sat, 12 Sept 2026.
+Space is a music venue in Leeds with 1 upcoming night listed on soundcheck as of Thu, 30 Jul 2026; the next is "Retro Heaven" on Sat, 12 Sept 2026.
 
 Space is a music venue in Leeds listed on soundcheck. 1 upcoming night, with line-ups including Slipmatt. Browse upcoming dates, start times and who's playing. Basement, 11-13 Hirst's Yard; Leeds; LS1 6NJ; United Kingdom.
 
@@ -14,4 +14,4 @@ Space is a music venue in Leeds listed on soundcheck. 1 upcoming night, with lin
 
 Basement, 11-13 Hirst's Yard; Leeds; LS1 6NJ; United Kingdom, Leeds
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/leeds/club/space/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/leeds/club/space/)*

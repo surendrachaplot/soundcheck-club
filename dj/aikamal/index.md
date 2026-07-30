@@ -1,6 +1,6 @@
 # Aika Mal
 
-Aika Mal is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at NUMBER 90 LONDON, London on Thu, 30 Jul 2026.
+Aika Mal is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at NUMBER 90 LONDON, London on Thu, 30 Jul 2026.
 
 Aika Mal is a house and techno artist based in Ireland, tracked on soundcheck, with 24 sets logged across Amsterdam, Belfast, London and Manchester. Often billed alongside Holly Lester, Body Clinic and DJ BORING. Next up: NUMBER 90 LONDON, London on Thu 30 Jul.
 
@@ -25,4 +25,4 @@ Aika Mal is a house and techno artist based in Ireland, tracked on soundcheck, w
 
 Holly Lester, Body Clinic, DJ BORING
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/aikamal/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/aikamal/)*

@@ -1,6 +1,6 @@
 # Magupi
 
-Magupi is a House and Tech House artist with 2 upcoming club dates listed on soundcheck as of Wed, 29 Jul 2026, next at Praia de Esmoriz Beach, Porto on Sat, 1 Aug 2026.
+Magupi is a House and Tech House artist with 2 upcoming club dates listed on soundcheck as of Thu, 30 Jul 2026, next at Praia de Esmoriz Beach, Porto on Sat, 1 Aug 2026.
 
 Magupi is a house and tech house artist based in Portugal, tracked on soundcheck, with 23 sets logged across Lisbon and Porto. Often billed alongside Ohxalá, Chima Isaaro and John Woods. Next up: Praia de Esmoriz Beach, Porto on Sat 1 Aug.
 
@@ -26,4 +26,4 @@ Magupi is a house and tech house artist based in Portugal, tracked on soundcheck
 
 Ohxalá, Chima Isaaro, John Woods
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/magupi/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/magupi/)*

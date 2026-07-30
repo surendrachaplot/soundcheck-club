@@ -1,6 +1,6 @@
 # TSNR
 
-TSNR is a Pop and House artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at SAGE, Berlin on Sat, 1 Aug 2026.
+TSNR is a Pop and House artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at SAGE, Berlin on Sat, 1 Aug 2026.
 
 TSNR is a pop and house artist based in India, tracked on soundcheck, with 2 sets logged across Berlin. Next up: SAGE, Berlin on Sat 1 Aug.
 
@@ -14,4 +14,4 @@ TSNR is a pop and house artist based in India, tracked on soundcheck, with 2 set
 
 - Amano Grand Central, Berlin — Fri, 30 May 2025
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/tsnr/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/tsnr/)*

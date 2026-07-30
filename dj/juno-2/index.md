@@ -1,8 +1,8 @@
 # Juno (NY)
 
-Juno (NY) is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Wed, 29 Jul 2026, next at Cinetol, Amsterdam on Fri, 31 Jul 2026.
+Juno (NY) is a Techno and House artist with 4 upcoming club dates listed on soundcheck as of Thu, 30 Jul 2026, next at Cinetol, Amsterdam on Fri, 31 Jul 2026.
 
-Juno (NY) is a techno and house artist tracked on soundcheck, with 31 sets logged across Amsterdam, Berlin, Cologne and Ibiza and 2 more. Often billed alongside LINDA (US), KYRUH and 1morning. Next up: Cinetol, Amsterdam on Fri 31 Jul.
+Juno (NY) is a techno and house artist tracked on soundcheck, with 32 sets logged across Amsterdam, Berlin, Cologne and Ibiza and 2 more. Often billed alongside LINDA (US), KYRUH and 1morning. Next up: Cinetol, Amsterdam on Fri 31 Jul.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Juno (NY) is a techno and house artist tracked on soundcheck, with 31 sets logge
 | --- | --- | --- |
 | Fri, 31 Jul 2026 | Cinetol | Amsterdam |
 | Fri, 28 Aug 2026 | Paragon | New York City |
+| Fri, 9 Oct 2026 | CLUB OST & RENATE BERLIN | Berlin |
 | Sat, 10 Oct 2026 | OST | Berlin |
 
 ## Recently played
@@ -27,4 +28,4 @@ Juno (NY) is a techno and house artist tracked on soundcheck, with 31 sets logge
 
 LINDA (US), KYRUH, 1morning
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/juno-2/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/juno-2/)*

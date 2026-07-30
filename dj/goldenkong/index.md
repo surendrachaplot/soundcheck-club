@@ -1,6 +1,6 @@
 # Golden Kong
 
-Golden Kong is a House and Baile Funk artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at Dr. Banana Club, Sao Paulo on Sat, 1 Aug 2026.
+Golden Kong is a House and Baile Funk artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at Dr. Banana Club, Sao Paulo on Sat, 1 Aug 2026.
 
 Golden Kong is a house and baile funk artist based in Brazil, tracked on soundcheck, with 22 sets logged across Berlin, Newyorkcity and Saopaulo. Often billed alongside Felip L Jones, Marcio S and ANNA PURA. Next up: Dr. Banana Club, Saopaulo on Sat 1 Aug.
 
@@ -25,4 +25,4 @@ Golden Kong is a house and baile funk artist based in Brazil, tracked on soundch
 
 Felip L Jones, Marcio S, ANNA PURA
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/goldenkong/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/goldenkong/)*

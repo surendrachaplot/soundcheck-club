@@ -1,6 +1,6 @@
 # Suko
 
-Suko is a Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at Sala ART, Madrid on Fri, 31 Jul 2026.
+Suko is a Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at Sala ART, Madrid on Fri, 31 Jul 2026.
 
 Suko is a techno artist based in Spain, tracked on soundcheck, with 10 sets logged across Dublin and Madrid. Often billed alongside Miguel Rivas, Renderkid and ANJELIKA SAHAKIAN. Next up: Sala ART, Madrid on Fri 31 Jul.
 
@@ -25,4 +25,4 @@ Suko is a techno artist based in Spain, tracked on soundcheck, with 10 sets logg
 
 Miguel Rivas, Renderkid, ANJELIKA SAHAKIAN
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/suko/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/suko/)*

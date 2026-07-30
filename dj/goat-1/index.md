@@ -1,6 +1,6 @@
 # Goat (1)
 
-Goat (1) is a House and Hip-Hop artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at COUNTER CLUB, Tokyo on Fri, 31 Jul 2026.
+Goat (1) is a House and Hip-Hop artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at COUNTER CLUB, Tokyo on Fri, 31 Jul 2026.
 
 Goat (1) is a house and hip-hop artist based in United Kingdom, tracked on soundcheck, with 12 sets logged across Bristol, Miami, Thehague and Tokyo. Often billed alongside 33EMYBW, Amor Muere and Audio. Next up: COUNTER CLUB, Tokyo on Fri 31 Jul.
 
@@ -25,4 +25,4 @@ Goat (1) is a house and hip-hop artist based in United Kingdom, tracked on sound
 
 33EMYBW, Amor Muere, Audio
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/goat-1/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/goat-1/)*

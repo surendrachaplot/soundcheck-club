@@ -1,6 +1,6 @@
 # THE MAGICK BAR
 
-THE MAGICK BAR is a music venue in Rome with 14 upcoming nights listed on soundcheck as of Wed, 29 Jul 2026; the next is "THE MAGICK BAR presents: Gattonero, LPLPLP" on Wed, 29 Jul 2026.
+THE MAGICK BAR is a music venue in Rome with 14 upcoming nights listed on soundcheck as of Thu, 30 Jul 2026; the next is "THE MAGICK BAR presents: Hugo Sanchez, Las Shivas Del Ritmo, Lola Kola" on Thu, 30 Jul 2026.
 
 THE MAGICK BAR is a music venue in Rome listed on soundcheck. 14 upcoming nights, with line-ups including Brasi, DJ Red, Donato Dozzy and Franzoh and 2 more. Browse upcoming dates, start times and who's playing. Via Lungotevere Oberdan, 2 Rome, Italy 00195.
 
@@ -8,7 +8,6 @@ THE MAGICK BAR is a music venue in Rome listed on soundcheck. 14 upcoming nights
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Wed, 29 Jul 2026 | THE MAGICK BAR presents: Gattonero, LPLPLP | Gattonero, LPLPLP |
 | Thu, 30 Jul 2026 | THE MAGICK BAR presents: Hugo Sanchez, Las Shivas Del Ritmo, Lola Kola | Hugo Sanchez |
 | Fri, 31 Jul 2026 | Anarchy In The Club with Jane Fitz, Gabriele | Gabriele, Jane Fitz |
 | Sat, 1 Aug 2026 | incoherent debts with Jorge Escribano, Brasi | Brasi, Jorge Escribano, Sunday Bath |
@@ -16,6 +15,7 @@ THE MAGICK BAR is a music venue in Rome listed on soundcheck. 14 upcoming nights
 | Tue, 4 Aug 2026 | Jungle at Magick bar | Matteo Canori, Mordak, Nadir____, Uabos |
 | Thu, 6 Aug 2026 | Singularity | Manlio, marielou |
 | Fri, 7 Aug 2026 | Anarchy In The Club with DJ Red | DJ Red |
+| Sat, 8 Aug 2026 | wax4breakfast | Luca Piermattei, Rond (1) |
 | Tue, 18 Aug 2026 | Jungle at Magick bar | Matteo Canori, Petra (4) |
 | Tue, 1 Sept 2026 | Jungle at Magick bar with Franzoh | Franzoh, Matteo Canori, Nadir____ |
 
@@ -23,4 +23,4 @@ THE MAGICK BAR is a music venue in Rome listed on soundcheck. 14 upcoming nights
 
 Via Lungotevere Oberdan, 2 Rome, Italy 00195, Rome
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/rome/club/the-magick-bar/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/rome/club/the-magick-bar/)*

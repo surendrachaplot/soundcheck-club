@@ -1,6 +1,6 @@
 # Tommy Value
 
-Tommy Value is a Electronica and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at Next Door Records Two, London on Sat, 8 Aug 2026.
+Tommy Value is a Electronica and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at Next Door Records Two, London on Sat, 8 Aug 2026.
 
 Tommy Value is an electronica and techno artist based in United States of America, tracked on soundcheck, with 12 sets logged across Amsterdam, Berlin, Boston and London and 1 more. Often billed alongside Drum & Lace, KXAH and Telesforo. Next up: Next Door Records Two, London on Sat 8 Aug.
 
@@ -25,4 +25,4 @@ Tommy Value is an electronica and techno artist based in United States of Americ
 
 Drum & Lace, KXAH, Telesforo
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/tommyvalue/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/tommyvalue/)*

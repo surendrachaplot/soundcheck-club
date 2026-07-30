@@ -1,6 +1,6 @@
 # Kuta
 
-Kuta is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at The Golden Age, Sydney on Sat, 1 Aug 2026.
+Kuta is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at The Golden Age, Sydney on Sat, 1 Aug 2026.
 
 Kuta is a house and techno artist based in Australia, tracked on soundcheck, with 16 sets logged across Brisbane, Melbourne and Sydney. Often billed alongside Daniel Lupica, Hannah D and Miki (3). Next up: The Golden Age, Sydney on Sat 1 Aug.
 
@@ -25,4 +25,4 @@ Kuta is a house and techno artist based in Australia, tracked on soundcheck, wit
 
 Daniel Lupica, Hannah D, Miki (3)
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/kuta/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/kuta/)*

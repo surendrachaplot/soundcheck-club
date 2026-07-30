@@ -1,6 +1,6 @@
 # Pistil
 
-Pistil is a music venue in Seoul with 3 upcoming nights listed on soundcheck as of Wed, 29 Jul 2026; the next is "CNSTRCT" on Fri, 31 Jul 2026.
+Pistil is a music venue in Seoul with 3 upcoming nights listed on soundcheck as of Thu, 30 Jul 2026; the next is "CNSTRCT" on Fri, 31 Jul 2026.
 
 Pistil is a music venue in Seoul listed on soundcheck. 3 upcoming nights, with line-ups including Dan Dara, HASHTAGPOPE, JIHEE KIM and KoiKoi and 2 more. Browse upcoming dates, start times and who's playing. 130- 5 Itaewon-dong, Seoul, South Korea.
 
@@ -16,4 +16,4 @@ Pistil is a music venue in Seoul listed on soundcheck. 3 upcoming nights, with l
 
 130- 5 Itaewon-dong, Seoul, South Korea, Seoul
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/seoul/club/pistil/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/seoul/club/pistil/)*

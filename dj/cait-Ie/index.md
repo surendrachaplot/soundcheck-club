@@ -1,6 +1,6 @@
 # Cait
 
-Cait is a House and Drum & Bass artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at TBA - The Tunnel, Liverpool on Fri, 31 Jul 2026.
+Cait is a House and Drum & Bass artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at TBA - The Tunnel, Liverpool on Fri, 31 Jul 2026.
 
 Cait is a house and drum & bass artist tracked on soundcheck, with 5 sets logged across Dublin, Liverpool, Manchester and Toronto. Often billed alongside Chris Gialanze, Dan Costello and Eldon (1). Next up: TBA - The Tunnel, Liverpool on Fri 31 Jul.
 
@@ -21,4 +21,4 @@ Cait is a house and drum & bass artist tracked on soundcheck, with 5 sets logged
 
 Chris Gialanze, Dan Costello, Eldon (1)
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/cait-Ie/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/cait-Ie/)*

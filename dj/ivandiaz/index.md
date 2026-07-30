@@ -1,6 +1,6 @@
 # Ivan Diaz
 
-Ivan Diaz is a Techno and Deep House artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at Versalles 64, Mexico City on Sat, 1 Aug 2026.
+Ivan Diaz is a Techno and Deep House artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at Versalles 64, Mexico City on Sat, 1 Aug 2026.
 
 Ivan Diaz is a techno and deep house artist based in United States of America, tracked on soundcheck, with 3 sets logged across Brussels and Mexicocity. Often billed alongside Aili, Belben and GRCA.. Next up: Versalles 64, Mexicocity on Sat 1 Aug.
 
@@ -19,4 +19,4 @@ Ivan Diaz is a techno and deep house artist based in United States of America, t
 
 Aili, Belben, GRCA.
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/ivandiaz/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/ivandiaz/)*

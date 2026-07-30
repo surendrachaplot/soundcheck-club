@@ -1,6 +1,6 @@
 # Takashi Mori
 
-Takashi Mori is a Techno and Experimental artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at Club Metro, Kyoto on Thu, 30 Jul 2026.
+Takashi Mori is a Techno and Experimental artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at Club Metro, Kyoto on Thu, 30 Jul 2026.
 
 Takashi Mori is a techno and experimental artist based in Japan, tracked on soundcheck, with 20 sets logged across Kyoto, Osaka and Tokyo. Often billed alongside ACID NAGATA, Arao and NAGATA. Next up: Club Metro, Kyoto on Thu 30 Jul.
 
@@ -25,4 +25,4 @@ Takashi Mori is a techno and experimental artist based in Japan, tracked on soun
 
 ACID NAGATA, Arao, NAGATA
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/takashimori/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/takashimori/)*

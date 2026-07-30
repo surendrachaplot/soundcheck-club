@@ -1,6 +1,6 @@
 # nohexcode
 
-nohexcode is a Techno and Acid artist with 3 upcoming club dates listed on soundcheck as of Wed, 29 Jul 2026, next at radial, London on Fri, 31 Jul 2026.
+nohexcode is a Techno and Acid artist with 3 upcoming club dates listed on soundcheck as of Thu, 30 Jul 2026, next at radial, London on Fri, 31 Jul 2026.
 
 nohexcode is a techno and acid artist tracked on soundcheck, with 28 sets logged across Berlin, Brighton and London. Often billed alongside CITYTRONIX, Noah Tauber and dj people's princess. Next up: radial, London on Fri 31 Jul.
 
@@ -27,4 +27,4 @@ nohexcode is a techno and acid artist tracked on soundcheck, with 28 sets logged
 
 CITYTRONIX, Noah Tauber, dj people's princess
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/nohexcode/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/nohexcode/)*

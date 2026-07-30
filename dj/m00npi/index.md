@@ -1,6 +1,6 @@
 # M00N PI
 
-M00N PI is a Techno and Club artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at Northern Lights Lounge, Detroit on Sat, 8 Aug 2026.
+M00N PI is a Techno and Club artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at Northern Lights Lounge, Detroit on Sat, 8 Aug 2026.
 
 M00N PI is a techno and club artist based in United States of America, tracked on soundcheck, with 7 sets logged across Detroit. Often billed alongside we1sman, jamea. and AK (US). Next up: Northern Lights Lounge, Detroit on Sat 8 Aug.
 
@@ -23,4 +23,4 @@ M00N PI is a techno and club artist based in United States of America, tracked o
 
 we1sman, jamea., AK (US)
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/m00npi/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/m00npi/)*

@@ -1,6 +1,6 @@
 # sellycious
 
-sellycious is a Techno and Trance artist with 2 upcoming club dates listed on soundcheck as of Wed, 29 Jul 2026, next at OST, Berlin on Thu, 30 Jul 2026.
+sellycious is a Techno and Trance artist with 2 upcoming club dates listed on soundcheck as of Thu, 30 Jul 2026, next at OST, Berlin on Thu, 30 Jul 2026.
 
 sellycious is a techno and trance artist based in Germany, tracked on soundcheck, with 13 sets logged across Berlin and Cologne. Often billed alongside Annemalie, DJ ASS TITS and Melanchromie. Next up: OST, Berlin on Thu 30 Jul.
 
@@ -26,4 +26,4 @@ sellycious is a techno and trance artist based in Germany, tracked on soundcheck
 
 Annemalie, DJ ASS TITS, Melanchromie
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/sellycious/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/sellycious/)*

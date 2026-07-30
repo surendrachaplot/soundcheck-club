@@ -1,6 +1,6 @@
 # Relaxer
 
-Relaxer is a Techno and Experimental artist with 2 upcoming club dates listed on soundcheck as of Wed, 29 Jul 2026, next at Quartier Des Spectacles, Montreal on Tue, 25 Aug 2026.
+Relaxer is a Techno and Experimental artist with 2 upcoming club dates listed on soundcheck as of Thu, 30 Jul 2026, next at Quartier Des Spectacles, Montreal on Tue, 25 Aug 2026.
 
 Relaxer is a techno and experimental artist tracked on soundcheck, with 62 sets logged across Chicago, Krakow, Losangeles and Montreal and 6 more. Often billed alongside aka-Sol, Baby Leo and Kilbourne. Next up: Quartier Des Spectacles, Montreal on Tue 25 Aug.
 
@@ -26,4 +26,4 @@ Relaxer is a techno and experimental artist tracked on soundcheck, with 62 sets 
 
 aka-Sol, Baby Leo, Kilbourne
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/relaxer/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/relaxer/)*

@@ -1,6 +1,6 @@
 # Revenja
 
-Revenja is a Techno and Hardcore artist with 2 upcoming club dates listed on soundcheck as of Wed, 29 Jul 2026, next at City Hall, Barcelona on Fri, 31 Jul 2026.
+Revenja is a Techno and Hardcore artist with 2 upcoming club dates listed on soundcheck as of Thu, 30 Jul 2026, next at City Hall, Barcelona on Fri, 31 Jul 2026.
 
 Revenja is a techno and hardcore artist based in Spain, tracked on soundcheck, with 18 sets logged across Barcelona and Madrid. Often billed alongside SuttleK, Vieze Asbak and BLNK. Next up: City Hall, Barcelona on Fri 31 Jul.
 
@@ -26,4 +26,4 @@ Revenja is a techno and hardcore artist based in Spain, tracked on soundcheck, w
 
 SuttleK, Vieze Asbak, BLNK
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/revenja/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/revenja/)*

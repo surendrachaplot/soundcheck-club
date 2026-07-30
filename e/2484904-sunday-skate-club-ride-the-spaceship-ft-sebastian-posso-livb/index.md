@@ -1,6 +1,6 @@
 # Sunday Skate Club: RIDE THE SPACESHIP ft. Sebastian Posso, LivBpm, Malachi, & auden barbour at Xanadu
 
-Sunday Skate Club: RIDE THE SPACESHIP ft. Sebastian Posso, LivBpm, Malachi, & auden barbour at Xanadu on Sun 2 Aug, Newyorkcity. 3 acts on the bill: LivBpm, Malachi (2) and Sebastian Posso. House and Disco. Preview the line-up and save it on soundcheck.
+Sunday Skate Club: RIDE THE SPACESHIP ft. Sebastian Posso, LivBpm, Malachi, & auden barbour at Xanadu on Sun 2 Aug, Newyorkcity. 5 acts on the bill: Felipe From BK, LivBpm, Malachi and Malachi (2) and 1 more. House and Disco. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,7 +10,9 @@ Sunday Skate Club: RIDE THE SPACESHIP ft. Sebastian Posso, LivBpm, Malachi, & au
 
 ## Line-up
 
+- Felipe From BK
 - LivBpm
+- Malachi
 - Malachi (2)
 - Sebastian Posso
 

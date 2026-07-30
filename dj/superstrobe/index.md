@@ -1,6 +1,6 @@
 # Superstrobe
 
-Superstrobe is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at Cassiopeia, Berlin on Sat, 15 Aug 2026.
+Superstrobe is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at Cassiopeia, Berlin on Sat, 15 Aug 2026.
 
 Superstrobe is a techno and house artist based in Germany, tracked on soundcheck, with 2 sets logged across Berlin. Often billed alongside Dominik Vaillant, Andy Walden and Bee Lincoln. Next up: Cassiopeia, Berlin on Sat 15 Aug.
 
@@ -18,4 +18,4 @@ Superstrobe is a techno and house artist based in Germany, tracked on soundcheck
 
 Dominik Vaillant, Andy Walden, Bee Lincoln
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/superstrobe/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/superstrobe/)*

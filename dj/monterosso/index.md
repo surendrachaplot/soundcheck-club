@@ -1,6 +1,6 @@
 # Monterosso
 
-Monterosso is a Minimal Techno and Electro artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at Starlane Pizza Bar, London on Fri, 31 Jul 2026.
+Monterosso is a Minimal Techno and Electro artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at Starlane Pizza Bar, London on Fri, 31 Jul 2026.
 
 Monterosso is a minimal techno and electro artist based in United Kingdom, tracked on soundcheck, with 21 sets logged across London. Often billed alongside Desuba, Ughe and Greg Nox. Next up: Starlane Pizza Bar, London on Fri 31 Jul.
 
@@ -25,4 +25,4 @@ Monterosso is a minimal techno and electro artist based in United Kingdom, track
 
 Desuba, Ughe, Greg Nox
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/monterosso/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/monterosso/)*

@@ -1,8 +1,8 @@
 # TYGAPAW
 
-TYGAPAW is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Wed, 29 Jul 2026, next at Burgess Park, London on Sat, 8 Aug 2026.
+TYGAPAW is a Techno and House artist with 4 upcoming club dates listed on soundcheck as of Thu, 30 Jul 2026, next at Burgess Park, London on Sat, 8 Aug 2026.
 
-TYGAPAW is a techno and house artist based in United States of America, tracked on soundcheck, with 94 sets logged across Amsterdam, Athens, Barcelona and Berlin and 23 more. Often billed alongside Juliana Huxtable, Shyboi and CEM. Next up: Burgess Park, London on Sat 8 Aug.
+TYGAPAW is a techno and house artist based in United States of America, tracked on soundcheck, with 95 sets logged across Amsterdam, Athens, Barcelona and Berlin and 23 more. Often billed alongside Juliana Huxtable, Shyboi and CEM. Next up: Burgess Park, London on Sat 8 Aug.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ TYGAPAW is a techno and house artist based in United States of America, tracked 
 | --- | --- | --- |
 | Sat, 8 Aug 2026 | Burgess Park | London |
 | Sat, 22 Aug 2026 | Shunter | Rotterdam |
+| Sat, 29 Aug 2026 | La Machine Du Moulin Rouge | Paris |
 | Fri, 25 Sept 2026 | The San Francisco Mint | San Francisco/Oakland |
 
 ## Recently played
@@ -27,4 +28,4 @@ TYGAPAW is a techno and house artist based in United States of America, tracked 
 
 Juliana Huxtable, Shyboi, CEM
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/tygapaw/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/tygapaw/)*

@@ -1,6 +1,6 @@
 # LDN East
 
-LDN East is a music venue in London with 8 upcoming nights listed on soundcheck as of Wed, 29 Jul 2026; the next is "A day with LF SYSTEM [Summer Open Air]" on Sat, 15 Aug 2026.
+LDN East is a music venue in London with 8 upcoming nights listed on soundcheck as of Thu, 30 Jul 2026; the next is "A day with LF SYSTEM [Summer Open Air]" on Sat, 15 Aug 2026.
 
 LDN East is a music venue in London listed on soundcheck. 8 upcoming nights, with line-ups including Crazy P and LF SYSTEM. Browse upcoming dates, start times and who's playing. 30 Bidder Street, London, England, E16 4SH, United Kingdom.
 
@@ -21,4 +21,4 @@ LDN East is a music venue in London listed on soundcheck. 8 upcoming nights, wit
 
 30 Bidder Street, London, England, E16 4SH, United Kingdom, London
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/london/club/ldn-east/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/london/club/ldn-east/)*

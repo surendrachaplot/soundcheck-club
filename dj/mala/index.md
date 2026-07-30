@@ -1,14 +1,13 @@
 # Mala
 
-Mala is a Dubstep and Bass artist with 6 upcoming club dates listed on soundcheck as of Wed, 29 Jul 2026, next at Amsterdamse Bos, Amsterdam on Wed, 29 Jul 2026.
+Mala is a Dubstep and Bass artist with 5 upcoming club dates listed on soundcheck as of Thu, 30 Jul 2026, next at Amsterdamse Bos, Amsterdam on Sun, 2 Aug 2026.
 
-Mala is a dubstep and bass artist tracked on soundcheck, with 101 sets logged across Amsterdam, Antwerp, Auckland and Barcelona and 37 more. Often billed alongside Mia Koden, SGT Pokes and DjRUM. Next up: Amsterdamse Bos, Amsterdam on Wed 29 Jul.
+Mala is a dubstep and bass artist tracked on soundcheck, with 101 sets logged across Amsterdam, Antwerp, Auckland and Barcelona and 37 more. Often billed alongside Mia Koden, SGT Pokes and DjRUM. Next up: Amsterdamse Bos, Amsterdam on Sun 2 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Wed, 29 Jul 2026 | Amsterdamse Bos | Amsterdam |
 | Sun, 2 Aug 2026 | Amsterdamse Bos | Amsterdam |
 | Thu, 27 Aug 2026 | TBA - Schwing und Stampf Festival | Zurich |
 | Fri, 4 Sept 2026 | Slaktkyrkan | Stockholm |
@@ -17,6 +16,7 @@ Mala is a dubstep and bass artist tracked on soundcheck, with 101 sets logged ac
 
 ## Recently played
 
+- Amsterdamse Bos, Amsterdam — Wed, 29 Jul 2026
 - Parc Nou. El Prat de Llobregat, Barcelona — Fri, 17 Jul 2026
 - Parco Dora, Turin — Fri, 3 Jul 2026
 - Phonox, London — Fri, 19 Jun 2026
@@ -24,10 +24,9 @@ Mala is a dubstep and bass artist tracked on soundcheck, with 101 sets logged ac
 - Phonox, London — Fri, 5 Jun 2026
 - Peckham Rye Park, London — Fri, 22 May 2026
 - TBA - Les Grandes Locos , Lyon — Wed, 13 May 2026
-- The White Hotel, Manchester — Sat, 9 May 2026
 
 ## Shares bills with
 
 Mia Koden, SGT Pokes, DjRUM
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/mala/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/mala/)*

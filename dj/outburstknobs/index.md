@@ -1,6 +1,6 @@
 # Outburst Knobs
 
-Outburst Knobs is a Techno and Electronica artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at Gare Porto, Porto on Fri, 31 Jul 2026.
+Outburst Knobs is a Techno and Electronica artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at Gare Porto, Porto on Fri, 31 Jul 2026.
 
 Outburst Knobs is a techno and electronica artist based in Italy, tracked on soundcheck, with 43 sets logged across Berlin, Brussels, Milan and Porto and 1 more. Often billed alongside Münch, Viels and Dixie. Next up: Gare Porto, Porto on Fri 31 Jul.
 
@@ -25,4 +25,4 @@ Outburst Knobs is a techno and electronica artist based in Italy, tracked on sou
 
 Münch, Viels, Dixie
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/outburstknobs/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/outburstknobs/)*

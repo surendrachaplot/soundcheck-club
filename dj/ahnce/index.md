@@ -1,6 +1,6 @@
 # Ahnce
 
-Ahnce is a Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at Modeci, Seoul on Sat, 1 Aug 2026.
+Ahnce is a Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at Modeci, Seoul on Sat, 1 Aug 2026.
 
 Ahnce is a techno artist based in South Korea, tracked on soundcheck, with 22 sets logged across Seoul. Often billed alongside PARRK, DJ Co.kr and Mimiq. Next up: Modeci, Seoul on Sat 1 Aug.
 
@@ -25,4 +25,4 @@ Ahnce is a techno artist based in South Korea, tracked on soundcheck, with 22 se
 
 PARRK, DJ Co.kr, Mimiq
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/ahnce/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/ahnce/)*

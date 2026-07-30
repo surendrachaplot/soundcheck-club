@@ -1,6 +1,6 @@
 # Nita Key
 
-Nita Key is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at INPUT High Fidelity Dance Club, Barcelona on Fri, 31 Jul 2026.
+Nita Key is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at INPUT High Fidelity Dance Club, Barcelona on Fri, 31 Jul 2026.
 
 Nita Key is a techno and trance artist based in Spain, tracked on soundcheck, with 20 sets logged across Barcelona. Often billed alongside CRONEKIA, INEXXSTABLE and Janis Zielinski. Next up: INPUT High Fidelity Dance Club, Barcelona on Fri 31 Jul.
 
@@ -25,4 +25,4 @@ Nita Key is a techno and trance artist based in Spain, tracked on soundcheck, wi
 
 CRONEKIA, INEXXSTABLE, Janis Zielinski
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/nitakey/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/nitakey/)*

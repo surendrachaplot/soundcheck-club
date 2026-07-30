@@ -1,6 +1,6 @@
 # Brett Rästas
 
-Brett Rästas is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Wed, 29 Jul 2026, next at Paavli Kultuurivabrik, Tallinn on Fri, 31 Jul 2026.
+Brett Rästas is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Thu, 30 Jul 2026, next at Paavli Kultuurivabrik, Tallinn on Fri, 31 Jul 2026.
 
 Brett Rästas is a techno and house artist based in Estonia, tracked on soundcheck, with 17 sets logged across Tallinn. Often billed alongside Micaela Saraceno, Katja Adrikova and Arto. Next up: Paavli Kultuurivabrik, Tallinn on Fri 31 Jul.
 
@@ -27,4 +27,4 @@ Brett Rästas is a techno and house artist based in Estonia, tracked on soundche
 
 Micaela Saraceno, Katja Adrikova, Arto
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/brettrastas/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/brettrastas/)*

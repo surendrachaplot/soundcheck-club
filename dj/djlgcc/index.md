@@ -1,6 +1,6 @@
 # DJ Lgcc
 
-DJ Lgcc is a Acid and Ambient artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at WKDU 91.7FM, Philadelphia on Thu, 30 Jul 2026.
+DJ Lgcc is a Acid and Ambient artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at WKDU 91.7FM, Philadelphia on Thu, 30 Jul 2026.
 
 DJ Lgcc is an acid and ambient artist tracked on soundcheck, with 18 sets logged across Chicago and Philadelphia. Often billed alongside m50, r.ss and IT-XPO. Next up: WKDU 91.7FM, Philadelphia on Thu 30 Jul.
 
@@ -25,4 +25,4 @@ DJ Lgcc is an acid and ambient artist tracked on soundcheck, with 18 sets logged
 
 m50, r.ss, IT-XPO
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/djlgcc/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/djlgcc/)*

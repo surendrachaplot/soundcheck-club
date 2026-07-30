@@ -1,14 +1,13 @@
 # ZUBAR
 
-ZUBAR is a music venue in Tokyo with 15 upcoming nights listed on soundcheck as of Wed, 29 Jul 2026; the next is "笠井爾示 and friends" on Wed, 29 Jul 2026.
+ZUBAR is a music venue in Tokyo with 14 upcoming nights listed on soundcheck as of Thu, 30 Jul 2026; the next is "MAGIC BUS vol.1" on Thu, 30 Jul 2026.
 
-ZUBAR is a music venue in Tokyo listed on soundcheck. 15 upcoming nights, with line-ups including AKARI, Eda, Emerson and Kana (BR) and 2 more. Browse upcoming dates, start times and who's playing. ZU Bldg 1F 2-54-4 Kitamagome Ota-ku Tokyo, 143-0021.
+ZUBAR is a music venue in Tokyo listed on soundcheck. 14 upcoming nights, with line-ups including AKARI, Eda, Emerson and Kana (BR) and 2 more. Browse upcoming dates, start times and who's playing. ZU Bldg 1F 2-54-4 Kitamagome Ota-ku Tokyo, 143-0021.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Wed, 29 Jul 2026 | 笠井爾示 and friends |  |
 | Thu, 30 Jul 2026 | MAGIC BUS vol.1 |  |
 | Fri, 31 Jul 2026 | 頭BAR DUB |  |
 | Sat, 1 Aug 2026 | DIRTY | Kana (BR), TOSHIHISA HIRANO |
@@ -18,9 +17,10 @@ ZUBAR is a music venue in Tokyo listed on soundcheck. 15 upcoming nights, with l
 | Fri, 7 Aug 2026 | SO WHAT | Eda, TOSHIHISA HIRANO |
 | Sat, 8 Aug 2026 | MAGOME IS GOOD | Ken (2) |
 | Sun, 9 Aug 2026 | Vital |  |
+| Mon, 10 Aug 2026 | マサミーナイト | TOSHIHISA HIRANO |
 
 ## Address
 
 ZU Bldg 1F 2-54-4 Kitamagome Ota-ku Tokyo, 143-0021, Tokyo
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/zubar/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/zubar/)*

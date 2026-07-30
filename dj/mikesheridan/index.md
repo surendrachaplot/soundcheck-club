@@ -1,6 +1,6 @@
 # Mike Sheridan
 
-Mike Sheridan is a electronic artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at ALICE, Copenhagen on Thu, 10 Sept 2026.
+Mike Sheridan is a electronic artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at ALICE, Copenhagen on Thu, 10 Sept 2026.
 
 Mike Sheridan is an electronic artist based in Denmark, tracked on soundcheck, with 8 sets logged across Copenhagen and Stockholm. Often billed alongside Anastasia Kristensen, Atk.141 and Boogie Rookie. Next up: ALICE, Copenhagen on Thu 10 Sept.
 
@@ -24,4 +24,4 @@ Mike Sheridan is an electronic artist based in Denmark, tracked on soundcheck, w
 
 Anastasia Kristensen, Atk.141, Boogie Rookie
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/mikesheridan/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/mikesheridan/)*

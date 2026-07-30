@@ -1,6 +1,6 @@
 # anna G
 
-anna G is a House and Drum & Bass artist with 2 upcoming club dates listed on soundcheck as of Wed, 29 Jul 2026, next at Crack Bellmer, Berlin on Thu, 30 Jul 2026.
+anna G is a House and Drum & Bass artist with 2 upcoming club dates listed on soundcheck as of Thu, 30 Jul 2026, next at Crack Bellmer, Berlin on Thu, 30 Jul 2026.
 
 anna G is a house and drum & bass artist tracked on soundcheck, with 21 sets logged across Berlin. Often billed alongside Lobo (DE), Monsai and Lola Brennt. Next up: Crack Bellmer, Berlin on Thu 30 Jul.
 
@@ -26,4 +26,4 @@ anna G is a house and drum & bass artist tracked on soundcheck, with 21 sets log
 
 Lobo (DE), Monsai, Lola Brennt
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/annag/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/annag/)*

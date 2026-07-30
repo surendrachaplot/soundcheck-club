@@ -1,6 +1,6 @@
 # wiwa
 
-wiwa is a Breakbeat and House artist with 2 upcoming club dates listed on soundcheck as of Wed, 29 Jul 2026, next at Standard Time, Toronto on Thu, 30 Jul 2026.
+wiwa is a Breakbeat and House artist with 2 upcoming club dates listed on soundcheck as of Thu, 30 Jul 2026, next at Standard Time, Toronto on Thu, 30 Jul 2026.
 
 wiwa is a breakbeat and house artist based in Canada, tracked on soundcheck, with 10 sets logged across Montreal, Thehague, Toronto and Vancouver. Often billed alongside DANTE (CA), K-65 and /ASYNC. Next up: Standard Time, Toronto on Thu 30 Jul.
 
@@ -26,4 +26,4 @@ wiwa is a breakbeat and house artist based in Canada, tracked on soundcheck, wit
 
 DANTE (CA), K-65, /ASYNC
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/wiwa/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/wiwa/)*

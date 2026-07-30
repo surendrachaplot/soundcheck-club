@@ -1,6 +1,6 @@
 # B 4ME
 
-B 4ME is a Techno and Tech House artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at BLITZ, Munich on Fri, 31 Jul 2026.
+B 4ME is a Techno and Tech House artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at BLITZ, Munich on Fri, 31 Jul 2026.
 
 B 4ME is a techno and tech house artist based in Germany, tracked on soundcheck, with 35 sets logged across Berlin, London, Munich and Stuttgart and 1 more. Often billed alongside Erhyc, Jorkes and Muallem. Next up: BLITZ, Munich on Fri 31 Jul.
 
@@ -25,4 +25,4 @@ B 4ME is a techno and tech house artist based in Germany, tracked on soundcheck,
 
 Erhyc, Jorkes, Muallem
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/b4me/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/b4me/)*

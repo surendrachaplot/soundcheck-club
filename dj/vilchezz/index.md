@@ -1,6 +1,6 @@
 # Vilchezz
 
-Vilchezz is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Wed, 29 Jul 2026, next at Else, Berlin on Fri, 7 Aug 2026.
+Vilchezz is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Thu, 30 Jul 2026, next at Else, Berlin on Fri, 7 Aug 2026.
 
 Vilchezz is a techno and house artist tracked on soundcheck, with 39 sets logged across Amsterdam, Antwerp, Barcelona and Berlin and 9 more. Often billed alongside BENZA, Grace Dahl and NDSTPS. Next up: Else, Berlin on Fri 7 Aug.
 
@@ -26,4 +26,4 @@ Vilchezz is a techno and house artist tracked on soundcheck, with 39 sets logged
 
 BENZA, Grace Dahl, NDSTPS
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/vilchezz/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/vilchezz/)*

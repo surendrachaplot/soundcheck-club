@@ -1,6 +1,6 @@
 # Champion
 
-Champion is a Garage and Bass artist with 2 upcoming club dates listed on soundcheck as of Wed, 29 Jul 2026, next at TBA - Paradies Garten Festival - Schloß Prugg 2, 2460 Gemeinde Bruck an der Leitha, Vienna on Fri, 31 Jul 2026.
+Champion is a Garage and Bass artist with 2 upcoming club dates listed on soundcheck as of Thu, 30 Jul 2026, next at TBA - Paradies Garten Festival - Schloß Prugg 2, 2460 Gemeinde Bruck an der Leitha, Vienna on Fri, 31 Jul 2026.
 
 Champion is a garage and bass artist tracked on soundcheck, with 46 sets logged across Amsterdam, Antwerp, Barcelona and Brighton and 15 more. Often billed alongside Oppidan, Bakey and MPH (1). Next up: TBA - Paradies Garten Festival - Schloß Prugg 2, 2460 Gemeinde Bruck an der Leitha, Vienna on Fri 31 Jul.
 
@@ -26,4 +26,4 @@ Champion is a garage and bass artist tracked on soundcheck, with 46 sets logged 
 
 Oppidan, Bakey, MPH (1)
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/champion/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/champion/)*

@@ -1,6 +1,6 @@
 # DJ Anthony2
 
-DJ Anthony2 is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at OMA, Hong Kong on Fri, 31 Jul 2026.
+DJ Anthony2 is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at OMA, Hong Kong on Fri, 31 Jul 2026.
 
 DJ Anthony2 is a house and techno artist based in China, tracked on soundcheck, with 72 sets logged across Bali, Barcelona, Hongkong and Ibiza. Often billed alongside Casey Anderson, Jeremy Cheung and Ocean Lam. Next up: OMA, Hongkong on Fri 31 Jul.
 
@@ -25,4 +25,4 @@ DJ Anthony2 is a house and techno artist based in China, tracked on soundcheck, 
 
 Casey Anderson, Jeremy Cheung, Ocean Lam
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/djanthony2/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/djanthony2/)*

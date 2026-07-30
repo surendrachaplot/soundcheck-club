@@ -1,6 +1,6 @@
 # the butcher bird
 
-the butcher bird is a Bass and Electronica artist with 4 upcoming club dates listed on soundcheck as of Wed, 29 Jul 2026, next at The Greyhound, London on Thu, 6 Aug 2026.
+the butcher bird is a Bass and Electronica artist with 4 upcoming club dates listed on soundcheck as of Thu, 30 Jul 2026, next at The Greyhound, London on Thu, 6 Aug 2026.
 
 the butcher bird is a bass and electronica artist tracked on soundcheck, with 18 sets logged across London and Sheffield. Often billed alongside MF Ceól, Sway Of The Verses and D.N.S. Next up: The Greyhound, London on Thu 6 Aug.
 
@@ -28,4 +28,4 @@ the butcher bird is a bass and electronica artist tracked on soundcheck, with 18
 
 MF Ceól, Sway Of The Verses, D.N.S
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/thebutcherbird/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/thebutcherbird/)*

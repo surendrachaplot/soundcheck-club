@@ -1,6 +1,6 @@
 # franck
 
-franck is a Techno and Trance artist with 2 upcoming club dates listed on soundcheck as of Wed, 29 Jul 2026, next at Club 69, Glasgow on Fri, 31 Jul 2026.
+franck is a Techno and Trance artist with 2 upcoming club dates listed on soundcheck as of Thu, 30 Jul 2026, next at Club 69, Glasgow on Fri, 31 Jul 2026.
 
 franck is a techno and trance artist tracked on soundcheck, with 198 sets logged across Aberdeen, Amsterdam, Antwerp and Austin and 54 more. Often billed alongside Charlie Sparks, 999999999 and Cloudy. Next up: Club 69, Glasgow on Fri 31 Jul.
 
@@ -26,4 +26,4 @@ franck is a techno and trance artist tracked on soundcheck, with 198 sets logged
 
 Charlie Sparks, 999999999, Cloudy
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/franck/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/franck/)*

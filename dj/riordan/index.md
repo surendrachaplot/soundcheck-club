@@ -1,6 +1,6 @@
 # Riordan
 
-Riordan is a House and Tech House artist with 7 upcoming club dates listed on soundcheck as of Wed, 29 Jul 2026, next at Burgess Park, London on Fri, 31 Jul 2026.
+Riordan is a House and Tech House artist with 7 upcoming club dates listed on soundcheck as of Thu, 30 Jul 2026, next at Burgess Park, London on Fri, 31 Jul 2026.
 
 Riordan is a house and tech house artist tracked on soundcheck, with 116 sets logged across Amsterdam, Austin, Barcelona and Belfast and 35 more. Often billed alongside Gorgon City, Prunk and Hot Since 82. Next up: Burgess Park, London on Fri 31 Jul.
 
@@ -31,4 +31,4 @@ Riordan is a house and tech house artist tracked on soundcheck, with 116 sets lo
 
 Gorgon City, Prunk, Hot Since 82
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/riordan/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/riordan/)*

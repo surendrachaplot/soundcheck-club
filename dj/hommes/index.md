@@ -1,6 +1,6 @@
 # Hommes
 
-Hommes is a Techno and Latin Bass artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at Holocene, Portland on Sat, 1 Aug 2026.
+Hommes is a Techno and Latin Bass artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at Holocene, Portland on Sat, 1 Aug 2026.
 
 Hommes is a techno and latin bass artist based in United States of America, tracked on soundcheck, with 8 sets logged across Losangeles, Paris and Portland. Often billed alongside Almostdecent, Regal86 and 1morning. Next up: Holocene, Portland on Sat 1 Aug.
 
@@ -24,4 +24,4 @@ Hommes is a techno and latin bass artist based in United States of America, trac
 
 Almostdecent, Regal86, 1morning
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/hommes/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/hommes/)*

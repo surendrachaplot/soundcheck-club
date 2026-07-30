@@ -1,8 +1,8 @@
 # Simon Vuarambon
 
-Simon Vuarambon is a Progressive House and Deep House artist with 6 upcoming club dates listed on soundcheck as of Wed, 29 Jul 2026, next at Motorworld, Palma de Mallorca, Mallorca on Sun, 2 Aug 2026.
+Simon Vuarambon is a Progressive House and Deep House artist with 7 upcoming club dates listed on soundcheck as of Thu, 30 Jul 2026, next at Motorworld, Palma de Mallorca, Mallorca on Sun, 2 Aug 2026.
 
-Simon Vuarambon is a progressive house and deep house artist tracked on soundcheck, with 67 sets logged across Amsterdam, Barcelona, Berlin and Bristol and 23 more. Often billed alongside Guy Mantzur, John Digweed and Henry Saiz. Next up: Motorworld, Palma de Mallorca, Mallorca on Sun 2 Aug.
+Simon Vuarambon is a progressive house and deep house artist tracked on soundcheck, with 68 sets logged across Amsterdam, Barcelona, Berlin and Bristol and 23 more. Often billed alongside Guy Mantzur, John Digweed and Henry Saiz. Next up: Motorworld, Palma de Mallorca, Mallorca on Sun 2 Aug.
 
 ## Upcoming shows
 
@@ -12,6 +12,7 @@ Simon Vuarambon is a progressive house and deep house artist tracked on soundche
 | Fri, 14 Aug 2026 | Ritter Butzke | Berlin |
 | Sat, 15 Aug 2026 | The Grand Social | Dublin |
 | Sat, 22 Aug 2026 | VENT | Tokyo |
+| Sat, 26 Sept 2026 | TBA - Native Beach Club, Cardales | Buenos Aires |
 | Fri, 23 Oct 2026 | WestWeelde | Amsterdam |
 | Sat, 24 Oct 2026 | Brixton Jamm | London |
 
@@ -30,4 +31,4 @@ Simon Vuarambon is a progressive house and deep house artist tracked on soundche
 
 Guy Mantzur, John Digweed, Henry Saiz
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/simonvuarambon/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/simonvuarambon/)*

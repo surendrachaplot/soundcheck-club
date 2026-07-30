@@ -1,6 +1,6 @@
 # Queenie Jr / Charle Poulin at Salon Daomé
 
-Queenie Jr / Charle Poulin at Salon Daomé on Sat 8 Aug, Montreal. 1 act on the bill: Queenie Jr. Preview the line-up and save it on soundcheck.
+Queenie Jr / Charle Poulin at Salon Daomé on Sat 8 Aug, Montreal. 1 act on the bill: Queenie Jr. House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # Monnay
 
-Monnay is a Techno and Tech House artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at E1, London on Sat, 1 Aug 2026.
+Monnay is a Techno and Tech House artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at E1, London on Sat, 1 Aug 2026.
 
 Monnay is a techno and tech house artist tracked on soundcheck, with 13 sets logged across Dublin and London. Often billed alongside Kling, Vortex (BR) and Loora. Next up: E1, London on Sat 1 Aug.
 
@@ -25,4 +25,4 @@ Monnay is a techno and tech house artist tracked on soundcheck, with 13 sets log
 
 Kling, Vortex (BR), Loora
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/monnay/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/monnay/)*

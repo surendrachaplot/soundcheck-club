@@ -1,6 +1,6 @@
 # FUNKA04
 
-FUNKA04 is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at TBA - Eden Ulm , Stuttgart on Fri, 31 Jul 2026.
+FUNKA04 is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at TBA - Eden Ulm , Stuttgart on Fri, 31 Jul 2026.
 
 FUNKA04 is a techno and trance artist tracked on soundcheck, with 13 sets logged across Amsterdam, Berlin, Frankfurt and Hamburg and 2 more. Often billed alongside solar2k, Basti Thielburg and CALiACRA. Next up: TBA - Eden Ulm , Stuttgart on Fri 31 Jul.
 
@@ -25,4 +25,4 @@ FUNKA04 is a techno and trance artist tracked on soundcheck, with 13 sets logged
 
 solar2k, Basti Thielburg, CALiACRA
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/funka04/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/funka04/)*

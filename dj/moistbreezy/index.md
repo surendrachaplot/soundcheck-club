@@ -1,6 +1,6 @@
 # moistbreezy
 
-moistbreezy is a Trance and Techno artist with 3 upcoming club dates listed on soundcheck as of Wed, 29 Jul 2026, next at Wanderlust, Paris on Thu, 30 Jul 2026.
+moistbreezy is a Trance and Techno artist with 3 upcoming club dates listed on soundcheck as of Thu, 30 Jul 2026, next at Wanderlust, Paris on Thu, 30 Jul 2026.
 
 moistbreezy is a trance and techno artist based in United States of America, tracked on soundcheck, with 48 sets logged across Amsterdam, Barcelona, Boston and Detroit and 11 more. Often billed alongside CITYSPROBLEM, Princess Elf Bar and sh4dows. Next up: Wanderlust, Paris on Thu 30 Jul.
 
@@ -27,4 +27,4 @@ moistbreezy is a trance and techno artist based in United States of America, tra
 
 CITYSPROBLEM, Princess Elf Bar, sh4dows
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/moistbreezy/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/moistbreezy/)*

@@ -1,6 +1,6 @@
 # Hunkut
 
-Hunkut is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Wed, 29 Jul 2026, next at Unité.22, Marseille on Fri, 21 Aug 2026.
+Hunkut is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Thu, 30 Jul 2026, next at Unité.22, Marseille on Fri, 21 Aug 2026.
 
 Hunkut is a techno and house artist based in France, tracked on soundcheck, with 11 sets logged across Bangkok, Berlin, Marseille and Paris. Often billed alongside Feroui, Nymed and Vulva Vitamina. Next up: Unité.22, Marseille on Fri 21 Aug.
 
@@ -26,4 +26,4 @@ Hunkut is a techno and house artist based in France, tracked on soundcheck, with
 
 Feroui, Nymed, Vulva Vitamina
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/hunkut/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/hunkut/)*

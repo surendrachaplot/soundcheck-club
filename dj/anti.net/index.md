@@ -1,6 +1,6 @@
 # anti.Net
 
-anti.Net is a Hip-Hop and Experimental artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at Next Door Records Two, London on Thu, 30 Jul 2026.
+anti.Net is a Hip-Hop and Experimental artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at Next Door Records Two, London on Thu, 30 Jul 2026.
 
 anti.Net is a hip-hop and experimental artist based in United Kingdom, tracked on soundcheck, with 14 sets logged across Berlin, Leeds and London. Often billed alongside JoeJas, retropxssy and Nammy Wams. Next up: Next Door Records Two, London on Thu 30 Jul.
 
@@ -25,4 +25,4 @@ anti.Net is a hip-hop and experimental artist based in United Kingdom, tracked o
 
 JoeJas, retropxssy, Nammy Wams
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/anti.net/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/anti.net/)*

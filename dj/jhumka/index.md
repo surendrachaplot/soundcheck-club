@@ -1,6 +1,6 @@
 # Jhumka
 
-Jhumka is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at Night Tales, London on Fri, 31 Jul 2026.
+Jhumka is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at Night Tales, London on Fri, 31 Jul 2026.
 
 Jhumka is a house and techno artist tracked on soundcheck, with 54 sets logged across Basel, Berlin, Chicago and London. Often billed alongside fae (UK), Leo Gosh and Osmaan. Next up: Night Tales, London on Fri 31 Jul.
 
@@ -25,4 +25,4 @@ Jhumka is a house and techno artist tracked on soundcheck, with 54 sets logged a
 
 fae (UK), Leo Gosh, Osmaan
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/jhumka/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/jhumka/)*

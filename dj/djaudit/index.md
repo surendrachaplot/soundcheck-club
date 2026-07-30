@@ -1,6 +1,6 @@
 # DJ Audit
 
-DJ Audit is a Club and Ghetto Tech artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at Underground SF, San Francisco/Oakland on Sat, 8 Aug 2026.
+DJ Audit is a Club and Ghetto Tech artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at Underground SF, San Francisco/Oakland on Sat, 8 Aug 2026.
 
 DJ Audit is a club and ghetto tech artist based in United States of America, tracked on soundcheck, with 23 sets logged across Newyorkcity and Sanfrancisco. Often billed alongside lil laozi, LANSUH and AG (1). Next up: Underground SF, Sanfrancisco on Sat 8 Aug.
 
@@ -25,4 +25,4 @@ DJ Audit is a club and ghetto tech artist based in United States of America, tra
 
 lil laozi, LANSUH, AG (1)
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/djaudit/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/djaudit/)*

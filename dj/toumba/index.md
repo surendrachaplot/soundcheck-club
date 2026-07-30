@@ -1,6 +1,6 @@
 # Toumba
 
-Toumba is a Bass and Club artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at Shunter, Rotterdam on Sat, 22 Aug 2026.
+Toumba is a Bass and Club artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at Shunter, Rotterdam on Sat, 22 Aug 2026.
 
 Toumba is a bass and club artist tracked on soundcheck, with 47 sets logged across Amsterdam, Antwerp, Berlin and Bristol and 19 more. Often billed alongside ojoo, DJ Plead and Nihal El Aasar. Next up: Shunter, Rotterdam on Sat 22 Aug.
 
@@ -25,4 +25,4 @@ Toumba is a bass and club artist tracked on soundcheck, with 47 sets logged acro
 
 ojoo, DJ Plead, Nihal El Aasar
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/toumba/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/toumba/)*

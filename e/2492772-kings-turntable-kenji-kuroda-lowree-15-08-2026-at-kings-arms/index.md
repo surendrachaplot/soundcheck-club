@@ -1,6 +1,6 @@
 # Kings Turntable: Kenji Kuroda & Lowree [15.08.2026] at Kings Arms E2
 
-Kings Turntable: Kenji Kuroda & Lowree [15.08.2026] at Kings Arms E2 on Sat 15 Aug, London. 1 act on the bill: Lowree. Disco and Balearic. Preview the line-up and save it on soundcheck.
+Kings Turntable: Kenji Kuroda & Lowree [15.08.2026] at Kings Arms E2 on Sat 15 Aug, London. 2 acts on the bill: Kenji Kuroda and Lowree. Disco and Balearic. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,6 +10,7 @@ Kings Turntable: Kenji Kuroda & Lowree [15.08.2026] at Kings Arms E2 on Sat 15 A
 
 ## Line-up
 
+- Kenji Kuroda
 - Lowree
 
 *Source: [soundcheck](https://soundcheck.club/e/2492772-kings-turntable-kenji-kuroda-lowree-15-08-2026-at-kings-arms/)*

@@ -1,6 +1,6 @@
 # 不眠遊戯ライオン - Music Bar Lion
 
-不眠遊戯ライオン - Music Bar Lion is a music venue in Tokyo with 2 upcoming nights listed on soundcheck as of Wed, 29 Jul 2026; the next is "Mehve" on Tue, 4 Aug 2026.
+不眠遊戯ライオン - Music Bar Lion is a music venue in Tokyo with 2 upcoming nights listed on soundcheck as of Thu, 30 Jul 2026; the next is "Mehve" on Tue, 4 Aug 2026.
 
 不眠遊戯ライオン - Music Bar Lion is a music venue in Tokyo listed on soundcheck. 2 upcoming nights, with line-ups including Big Animal Theory, bojvck, CYBERHACKSYSTEM and George Bolton and 2 more. Browse upcoming dates, start times and who's playing. GEMSJingu-mae7F, 6-19-17Jingu-mae, Shibuya-ku, Tokyo.
 
@@ -15,4 +15,4 @@
 
 GEMSJingu-mae7F, 6-19-17Jingu-mae, Shibuya-ku, Tokyo, Tokyo
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/music-bar-lion/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/music-bar-lion/)*

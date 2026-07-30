@@ -1,6 +1,6 @@
 # Krissy Marchante
 
-Krissy Marchante is a Club and Baile Funk artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at TBA, Los Angeles on Sun, 2 Aug 2026.
+Krissy Marchante is a Club and Baile Funk artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at TBA, Los Angeles on Sun, 2 Aug 2026.
 
 Krissy Marchante is a club and baile funk artist based in United States of America, tracked on soundcheck, with 13 sets logged across Losangeles and Sandiego. Often billed alongside baby.com, BL4ZE and Banoffee. Next up: TBA, Losangeles on Sun 2 Aug.
 
@@ -25,4 +25,4 @@ Krissy Marchante is a club and baile funk artist based in United States of Ameri
 
 baby.com, BL4ZE, Banoffee
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/krissymarchante/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/krissymarchante/)*

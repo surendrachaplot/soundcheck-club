@@ -1,6 +1,6 @@
 # MEKER
 
-MEKER is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at Void Club, Berlin on Fri, 31 Jul 2026.
+MEKER is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at Void Club, Berlin on Fri, 31 Jul 2026.
 
 MEKER is a techno and trance artist based in Germany, tracked on soundcheck, with 9 sets logged across Berlin. Often billed alongside Flohmarkt, DJ Parabolspiegel and MILANCHOLIE. Next up: Void Club, Berlin on Fri 31 Jul.
 
@@ -25,4 +25,4 @@ MEKER is a techno and trance artist based in Germany, tracked on soundcheck, wit
 
 Flohmarkt, DJ Parabolspiegel, MILANCHOLIE
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/meker/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/meker/)*

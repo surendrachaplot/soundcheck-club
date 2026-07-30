@@ -1,6 +1,6 @@
 # Left Hand Loz
 
-Left Hand Loz is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at Whammy Bar, Auckland on Fri, 31 Jul 2026.
+Left Hand Loz is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at Whammy Bar, Auckland on Fri, 31 Jul 2026.
 
 Left Hand Loz is a techno and trance artist based in New Zealand, tracked on soundcheck, with 6 sets logged across Auckland. Often billed alongside BLUSH.MP3, Chazz and DJ Bax. Next up: Whammy Bar, Auckland on Fri 31 Jul.
 
@@ -22,4 +22,4 @@ Left Hand Loz is a techno and trance artist based in New Zealand, tracked on sou
 
 BLUSH.MP3, Chazz, DJ Bax
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/lefthandloz/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/lefthandloz/)*

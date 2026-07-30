@@ -1,6 +1,6 @@
 # Marian BR
 
-Marian BR is a Tech House artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at Seaseaclub Barcelona, Barcelona on Sat, 1 Aug 2026.
+Marian BR is a Tech House artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at Seaseaclub Barcelona, Barcelona on Sat, 1 Aug 2026.
 
 Marian BR is a tech house artist based in Brazil, tracked on soundcheck, with 2 sets logged across Barcelona. Often billed alongside AIIVIIK, Abdon and Jorgesyn. Next up: Seaseaclub Barcelona, Barcelona on Sat 1 Aug.
 
@@ -18,4 +18,4 @@ Marian BR is a tech house artist based in Brazil, tracked on soundcheck, with 2 
 
 AIIVIIK, Abdon, Jorgesyn
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/marianbr/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/marianbr/)*

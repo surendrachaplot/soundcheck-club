@@ -1,6 +1,6 @@
 # Trilucid
 
-Trilucid is a Progressive House and Deep House artist with 2 upcoming club dates listed on soundcheck as of Wed, 29 Jul 2026, next at Nico's Bar at Hackney Bridge, London on Sat, 8 Aug 2026.
+Trilucid is a Progressive House and Deep House artist with 2 upcoming club dates listed on soundcheck as of Thu, 30 Jul 2026, next at Nico's Bar at Hackney Bridge, London on Sat, 8 Aug 2026.
 
 Trilucid is a progressive house and deep house artist based in United Kingdom, tracked on soundcheck, with 12 sets logged across Amsterdam, London and Nottingham. Often billed alongside MXV (UK), Tris (UK) and ALLKNIGHT. Next up: Nico's Bar at Hackney Bridge, London on Sat 8 Aug.
 
@@ -26,4 +26,4 @@ Trilucid is a progressive house and deep house artist based in United Kingdom, t
 
 MXV (UK), Tris (UK), ALLKNIGHT
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/trilucid/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/trilucid/)*

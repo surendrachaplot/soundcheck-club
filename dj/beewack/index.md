@@ -1,14 +1,15 @@
 # beewack
 
-beewack is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at Outer Heaven, New York City on Sat, 1 Aug 2026.
+beewack is a House and Disco artist with 2 upcoming club dates listed on soundcheck as of Thu, 30 Jul 2026, next at Outer Heaven, New York City on Sat, 1 Aug 2026.
 
-beewack is a house and disco artist based in United States of America, tracked on soundcheck, with 109 sets logged across Athens, Berlin, Detroit and Lisbon and 9 more. Often billed alongside Benjamin Roeder, Honey Bun and Planet B. Next up: Outer Heaven, Newyorkcity on Sat 1 Aug.
+beewack is a house and disco artist based in United States of America, tracked on soundcheck, with 110 sets logged across Athens, Berlin, Detroit and Lisbon and 9 more. Often billed alongside Planet B, Benjamin Roeder and Honey Bun. Next up: Outer Heaven, Newyorkcity on Sat 1 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 1 Aug 2026 | Outer Heaven | New York City |
+| Sat, 22 Aug 2026 | public records | New York City |
 
 ## Recently played
 
@@ -23,6 +24,6 @@ beewack is a house and disco artist based in United States of America, tracked o
 
 ## Shares bills with
 
-Benjamin Roeder, Honey Bun, Planet B
+Planet B, Benjamin Roeder, Honey Bun
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/beewack/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/beewack/)*

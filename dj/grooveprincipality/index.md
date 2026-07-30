@@ -1,6 +1,6 @@
 # Groove Principality
 
-Groove Principality is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at Place D'espagne, Brussels on Sun, 16 Aug 2026.
+Groove Principality is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at Place D'espagne, Brussels on Sun, 16 Aug 2026.
 
 Groove Principality is a techno and house artist based in France, tracked on soundcheck, with 5 sets logged across Brussels. Often billed alongside Mombo, AMARE and Souldust. Next up: Place D'espagne, Brussels on Sun 16 Aug.
 
@@ -21,4 +21,4 @@ Groove Principality is a techno and house artist based in France, tracked on sou
 
 Mombo, AMARE, Souldust
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/grooveprincipality/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/grooveprincipality/)*

@@ -1,6 +1,6 @@
 # Tyrellativ
 
-Tyrellativ is a Techno and Gabber artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at Rote Sonne, Munich on Fri, 31 Jul 2026.
+Tyrellativ is a Techno and Gabber artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at Rote Sonne, Munich on Fri, 31 Jul 2026.
 
 Tyrellativ is a techno and gabber artist based in Germany, tracked on soundcheck, with 26 sets logged across Berlin, Munich, Nurnberg and Stuttgart. Often billed alongside SpanierMitAuto, SpanierOhneAuto and pnk pnthr. Next up: Rote Sonne, Munich on Fri 31 Jul.
 
@@ -25,4 +25,4 @@ Tyrellativ is a techno and gabber artist based in Germany, tracked on soundcheck
 
 SpanierMitAuto, SpanierOhneAuto, pnk pnthr
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/tyrellativ/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/tyrellativ/)*

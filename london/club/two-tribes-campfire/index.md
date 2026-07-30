@@ -1,8 +1,8 @@
 # Two Tribes CAMPFIRE
 
-Two Tribes CAMPFIRE is a music venue in London with 6 upcoming nights listed on soundcheck as of Wed, 29 Jul 2026; the next is "HAUSWERKS LONDON" on Fri, 31 Jul 2026.
+Two Tribes CAMPFIRE is a music venue in London with 7 upcoming nights listed on soundcheck as of Thu, 30 Jul 2026; the next is "HAUSWERKS LONDON" on Fri, 31 Jul 2026.
 
-Two Tribes CAMPFIRE is a music venue in London listed on soundcheck. 6 upcoming nights, with line-ups including Ardishko, babydj, Braaks and DATTA and 2 more. Browse upcoming dates, start times and who's playing. Tile Yard Studios, Tileyard Road, Kings Cross, London N7 9AH.
+Two Tribes CAMPFIRE is a music venue in London listed on soundcheck. 7 upcoming nights, with line-ups including Ardishko, babydj, Braaks and DATTA and 2 more. Browse upcoming dates, start times and who's playing. Tile Yard Studios, Tileyard Road, Kings Cross, London N7 9AH.
 
 ## What's on
 
@@ -13,10 +13,11 @@ Two Tribes CAMPFIRE is a music venue in London listed on soundcheck. 6 upcoming 
 | Sat, 8 Aug 2026 | Midnight Runner presents: Summer In The City with Heléna Star, JAXX TMS, Selassie TBC & more | Heléna Star, JAXX TMS, Kanem, Mr. Redley, P-Lucas, Selassie TBC |
 | Sat, 15 Aug 2026 | Persimmon Sound: Day to Night Party II | Gus de Silva, Martini, Wan Tu |
 | Fri, 21 Aug 2026 | Mission Control: B2B (Birthday 2 Birthday) | Ardishko, DATTA, Joe Tyler, Mary X, Sleepy Jean, babydj, nicky brown snout |
+| Fri, 4 Sept 2026 | PURR: House, Tech House, Techno, Electro, Funky (by Ragdoll Rhythms) | Sands Spheric |
 | Sat, 5 Sept 2026 | Point Blank Radio's End of Summer Jam | Braaks |
 
 ## Address
 
 Tile Yard Studios, Tileyard Road, Kings Cross, London N7 9AH, London
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/london/club/two-tribes-campfire/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/london/club/two-tribes-campfire/)*

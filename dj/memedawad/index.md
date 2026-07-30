@@ -1,6 +1,6 @@
 # Memed Awad
 
-Memed Awad is a House and Minimal artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at fabric, London on Sun, 2 Aug 2026.
+Memed Awad is a House and Minimal artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at fabric, London on Sun, 2 Aug 2026.
 
 Memed Awad is a house and minimal artist based in United Arab Emirates, tracked on soundcheck, with 16 sets logged across Barcelona, Berlin, London and Madrid and 2 more. Often billed alongside Moruki, Arval and Hessa. Next up: fabric, London on Sun 2 Aug.
 
@@ -25,4 +25,4 @@ Memed Awad is a house and minimal artist based in United Arab Emirates, tracked 
 
 Moruki, Arval, Hessa
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/memedawad/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/memedawad/)*

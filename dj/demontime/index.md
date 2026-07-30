@@ -1,6 +1,6 @@
 # Demontime
 
-Demontime is a Trance and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at R25 Kulturschlachthof, Düsseldorf on Fri, 31 Jul 2026.
+Demontime is a Trance and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at R25 Kulturschlachthof, Düsseldorf on Fri, 31 Jul 2026.
 
 Demontime is a trance and techno artist based in Germany, tracked on soundcheck, with 6 sets logged across Berlin, Cologne, Dusseldorf and Ghent. Often billed alongside ZOMBIE1000, KACHU2K and Amorelie. Next up: R25 Kulturschlachthof, Dusseldorf on Fri 31 Jul.
 
@@ -22,4 +22,4 @@ Demontime is a trance and techno artist based in Germany, tracked on soundcheck,
 
 ZOMBIE1000, KACHU2K, Amorelie
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/demontime/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/demontime/)*

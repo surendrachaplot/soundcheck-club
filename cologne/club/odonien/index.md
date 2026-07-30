@@ -1,14 +1,13 @@
 # Odonien
 
-Odonien is a music venue in Cologne with 12 upcoming nights listed on soundcheck as of Wed, 29 Jul 2026; the next is "#MITTWOCHENENDE in Odonien" on Wed, 29 Jul 2026.
+Odonien is a music venue in Cologne with 11 upcoming nights listed on soundcheck as of Thu, 30 Jul 2026; the next is "Gewölbe" on Fri, 31 Jul 2026.
 
-Odonien is a music venue in Cologne listed on soundcheck. 12 upcoming nights, with line-ups including Alarico, Angie (FR), Anja Schneider and Annemalie and 2 more. Browse upcoming dates, start times and who's playing. Hornstrasse 85; 50825 Cologne; Germany.
+Odonien is a music venue in Cologne listed on soundcheck. 11 upcoming nights, with line-ups including Alarico, Angie (FR), Anja Schneider and Annemalie and 2 more. Browse upcoming dates, start times and who's playing. Hornstrasse 85; 50825 Cologne; Germany.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Wed, 29 Jul 2026 | #MITTWOCHENENDE in Odonien | Bounce MC, LUMI, NØEL (JP), Pamela Rave, Paranormila |
 | Fri, 31 Jul 2026 | Gewölbe | Annemalie, Elisen, HiHat, Lizzle, Ly Sas, Marcel Janovsky, Marco Hilbert (2), Mike Momburg, OLIVIA LENSEN, Shumi, pik (1) |
 | Sat, 1 Aug 2026 | WIR Schwestern with LOLSNAKE, RACHEL RAW, ESZTER, REDFOCKS, GRETA PEROLA, VIBE & VIPER & LEYA |  |
 | Fri, 7 Aug 2026 | Electronic Summer of Love 2026 - The Odonien Festival Part XIV | Bass, DJ SODBRENNEN, EDNA, Enaly, Gourski, In Furcht, Isabelle Beaucamp, LIEKS, Limoncello, Lola Cerise, SUP (3) |
@@ -18,9 +17,10 @@ Odonien is a music venue in Cologne listed on soundcheck. 12 upcoming nights, wi
 | Sat, 22 Aug 2026 | SUMMER RAVE in Odonien by ART OF URBAN LIFE & ONLYRAVES | Empathogen |
 | Fri, 28 Aug 2026 | Moonbootica x Odonien | Moonbootica |
 | Sat, 29 Aug 2026 | Petrified Phoenix Showcase in Odonien | Avocado, Baerbel, Daniel Neuland, Danito, Dave Dinger, Justice, NUAH, Nic Lorenz, Pauli Pocket, Rallo, Susi&Paula, derderwandert, vivi, vom Feisten |
+| Fri, 4 Sept 2026 | Aura with ÜBERKIKZ & Alarico | Alarico, ÜBERKIKZ |
 
 ## Address
 
 Hornstrasse 85; 50825 Cologne; Germany, Cologne
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/cologne/club/odonien/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/cologne/club/odonien/)*

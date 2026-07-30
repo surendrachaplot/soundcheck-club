@@ -1,6 +1,6 @@
 # groovian peruvian
 
-groovian peruvian is a Tech House artist with 4 upcoming club dates listed on soundcheck as of Wed, 29 Jul 2026, next at Aahhh Rooftop, Munich on Sat, 1 Aug 2026.
+groovian peruvian is a Tech House artist with 4 upcoming club dates listed on soundcheck as of Thu, 30 Jul 2026, next at Aahhh Rooftop, Munich on Sat, 1 Aug 2026.
 
 groovian peruvian is a tech house artist based in Peru, tracked on soundcheck, with 14 sets logged across Amsterdam, Berlin, Frankfurt and Munich. Often billed alongside mafiii, DJ SEXSTASY and Katopodis. Next up: Aahhh Rooftop, Munich on Sat 1 Aug.
 
@@ -28,4 +28,4 @@ groovian peruvian is a tech house artist based in Peru, tracked on soundcheck, w
 
 mafiii, DJ SEXSTASY, Katopodis
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/groovianperuvian/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/groovianperuvian/)*

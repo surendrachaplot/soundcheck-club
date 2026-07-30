@@ -1,6 +1,6 @@
 # jayah
 
-jayah is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at Punch Bowl Social 360-Bar, Chicago on Thu, 30 Jul 2026.
+jayah is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at Punch Bowl Social 360-Bar, Chicago on Thu, 30 Jul 2026.
 
 jayah is a house and techno artist based in United States of America, tracked on soundcheck, with 56 sets logged across Amsterdam, Chicago, Detroit and Losangeles and 1 more. Often billed alongside DJ BORING, Ricardo Roessel and Azzecca. Next up: Punch Bowl Social 360-Bar, Chicago on Thu 30 Jul.
 
@@ -25,4 +25,4 @@ jayah is a house and techno artist based in United States of America, tracked on
 
 DJ BORING, Ricardo Roessel, Azzecca
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/jayah/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/jayah/)*

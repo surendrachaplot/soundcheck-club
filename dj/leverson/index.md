@@ -1,6 +1,6 @@
 # leverson
 
-leverson is a Hip-Hop and R&B artist with 8 upcoming club dates listed on soundcheck as of Wed, 29 Jul 2026, next at New Forms, London on Thu, 30 Jul 2026.
+leverson is a Hip-Hop and R&B artist with 8 upcoming club dates listed on soundcheck as of Thu, 30 Jul 2026, next at New Forms, London on Thu, 30 Jul 2026.
 
 leverson is a hip-hop and r&b artist tracked on soundcheck, with 167 sets logged across Amsterdam, Birmingham, London and Tokyo. Often billed alongside Signorina, Omari King and Omari. Next up: New Forms, London on Thu 30 Jul.
 
@@ -32,4 +32,4 @@ leverson is a hip-hop and r&b artist tracked on soundcheck, with 167 sets logged
 
 Signorina, Omari King, Omari
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/leverson/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/leverson/)*

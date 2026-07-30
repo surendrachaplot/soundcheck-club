@@ -1,6 +1,6 @@
 # Alkemiss Erika
 
-Alkemiss Erika is a Deep House and House artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at Hawthorn, San Francisco/Oakland on Sat, 1 Aug 2026.
+Alkemiss Erika is a Deep House and House artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at Hawthorn, San Francisco/Oakland on Sat, 1 Aug 2026.
 
 Alkemiss Erika is a deep house and house artist based in United States of America, tracked on soundcheck, with 35 sets logged across Miami and Sanfrancisco. Often billed alongside Joseph Lee, IZIK and SAGMO. Next up: Hawthorn, Sanfrancisco on Sat 1 Aug.
 
@@ -25,4 +25,4 @@ Alkemiss Erika is a deep house and house artist based in United States of Americ
 
 Joseph Lee, IZIK, SAGMO
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/alkemisserika/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/alkemisserika/)*

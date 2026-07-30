@@ -1,6 +1,6 @@
 # RACH
 
-RACH is a Dubstep and Jungle artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at Oculist, Brighton on Sat, 1 Aug 2026.
+RACH is a Dubstep and Jungle artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at Oculist, Brighton on Sat, 1 Aug 2026.
 
 RACH is a dubstep and jungle artist based in Colombia, tracked on soundcheck, with 6 sets logged across Amsterdam, Brighton and London. Often billed alongside AUDIO DUNE, Cartridge (UK) and Charla Green. Next up: Oculist, Brighton on Sat 1 Aug.
 
@@ -22,4 +22,4 @@ RACH is a dubstep and jungle artist based in Colombia, tracked on soundcheck, wi
 
 AUDIO DUNE, Cartridge (UK), Charla Green
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/rach/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/rach/)*

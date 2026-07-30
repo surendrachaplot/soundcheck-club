@@ -1,6 +1,6 @@
 # Domek
 
-Domek is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Wed, 29 Jul 2026, next at Roxy, Prague on Sat, 1 Aug 2026.
+Domek is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Thu, 30 Jul 2026, next at Roxy, Prague on Sat, 1 Aug 2026.
 
 Domek is a techno and house artist based in Czech Republic, tracked on soundcheck, with 20 sets logged across London and Prague. Often billed alongside NFKS, Orbith and Daria. Next up: Roxy, Prague on Sat 1 Aug.
 
@@ -26,4 +26,4 @@ Domek is a techno and house artist based in Czech Republic, tracked on soundchec
 
 NFKS, Orbith, Daria
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/domek/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/domek/)*

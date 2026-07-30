@@ -1,6 +1,6 @@
 # YeshaYahu
 
-YeshaYahu is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at Do Not Sit On The Furniture, Miami on Thu, 30 Jul 2026.
+YeshaYahu is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at Do Not Sit On The Furniture, Miami on Thu, 30 Jul 2026.
 
 YeshaYahu is a house and deep house artist based in United States of America, tracked on soundcheck, with 3 sets logged across Miami. Often billed alongside Jessy Nimni and Mori. Next up: Do Not Sit On The Furniture, Miami on Thu 30 Jul.
 
@@ -19,4 +19,4 @@ YeshaYahu is a house and deep house artist based in United States of America, tr
 
 Jessy Nimni, Mori
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/yeshayahu/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/yeshayahu/)*

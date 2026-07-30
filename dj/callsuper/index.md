@@ -1,14 +1,13 @@
 # Call Super
 
-Call Super is a Techno and House artist with 13 upcoming club dates listed on soundcheck as of Wed, 29 Jul 2026, next at Amsterdamse Bos, Amsterdam on Wed, 29 Jul 2026.
+Call Super is a Techno and House artist with 12 upcoming club dates listed on soundcheck as of Thu, 30 Jul 2026, next at Amsterdamse Bos, Amsterdam on Sun, 2 Aug 2026.
 
-Call Super is a techno and house artist tracked on soundcheck, with 206 sets logged across Amsterdam, Antwerp, Bali and Barcelona and 61 more. Often billed alongside Anz, Shanti Celeste and Objekt. Next up: Amsterdamse Bos, Amsterdam on Wed 29 Jul.
+Call Super is a techno and house artist tracked on soundcheck, with 206 sets logged across Amsterdam, Antwerp, Bali and Barcelona and 61 more. Often billed alongside Anz, Shanti Celeste and Objekt. Next up: Amsterdamse Bos, Amsterdam on Sun 2 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Wed, 29 Jul 2026 | Amsterdamse Bos | Amsterdam |
 | Sun, 2 Aug 2026 | Amsterdamse Bos | Amsterdam |
 | Sun, 9 Aug 2026 | 528 Ibiza | Ibiza |
 | Sat, 15 Aug 2026 | The Cause | London |
@@ -20,9 +19,11 @@ Call Super is a techno and house artist tracked on soundcheck, with 206 sets log
 | Sat, 26 Sept 2026 | The White Hotel | Manchester |
 | Sat, 3 Oct 2026 | Sidney Myer Music Bowl | Melbourne |
 | Sun, 4 Oct 2026 | Cockatoo Island | Sydney |
+| Sat, 24 Oct 2026 | Het Rijk van de Keizer | Amsterdam |
 
 ## Recently played
 
+- Amsterdamse Bos, Amsterdam — Wed, 29 Jul 2026
 - Sophie Festival, Malaga — Sat, 25 Jul 2026
 - DC-10, Ibiza — Mon, 20 Jul 2026
 - Umoya, Naples — Sun, 12 Jul 2026
@@ -30,10 +31,9 @@ Call Super is a techno and house artist tracked on soundcheck, with 206 sets log
 - Sawmills, Bristol — Sat, 13 Jun 2026
 - Garage Noord, Amsterdam — Sun, 24 May 2026
 - Het Twiske, Amsterdam — Sat, 23 May 2026
-- Peckham Rye Park, London — Fri, 22 May 2026
 
 ## Shares bills with
 
 Anz, Shanti Celeste, Objekt
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/callsuper/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/callsuper/)*

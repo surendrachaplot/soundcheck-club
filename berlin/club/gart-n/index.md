@@ -1,8 +1,8 @@
 # gART.n
 
-gART.n is a music venue in Berlin with 8 upcoming nights listed on soundcheck as of Wed, 29 Jul 2026; the next is "Out of Office: Open Air" on Sat, 8 Aug 2026.
+gART.n is a music venue in Berlin with 9 upcoming nights listed on soundcheck as of Thu, 30 Jul 2026; the next is "Out of Office: Open Air" on Sat, 8 Aug 2026.
 
-gART.n is a music venue in Berlin listed on soundcheck. 8 upcoming nights, with line-ups including Alexia (2), ANNAWAFFEL, C.love and Die Ruhe and 2 more. Browse upcoming dates, start times and who's playing. Blockdammweg 1, 10317 Berlin.
+gART.n is a music venue in Berlin listed on soundcheck. 9 upcoming nights, with line-ups including Ada, Alexia (2), ANNAWAFFEL and Caleesi and 2 more. Browse upcoming dates, start times and who's playing. Blockdammweg 1, 10317 Berlin.
 
 ## What's on
 
@@ -14,11 +14,12 @@ gART.n is a music venue in Berlin listed on soundcheck. 8 upcoming nights, with 
 | Sun, 16 Aug 2026 | Sonntags by Judith van Waterkant | ANNAWAFFEL, Die Ruhe, Judith van Waterkant |
 | Sat, 22 Aug 2026 | Kalipo presents: Garden of Synths (open-air daytime rave w. Italo Brutalo, Kalipo...) | Italo Brutalo, Kalipo |
 | Sun, 23 Aug 2026 | Sonntags by Lotte Ahoi | C.love, Lotte Ahoi, Luis Rosenberg, Neobeo |
-| Sun, 6 Sept 2026 | Sonntags by Leni |  |
+| Sun, 30 Aug 2026 | OewerSause im gART.n | Martha van Straaten, Saraabb |
+| Sun, 6 Sept 2026 | Sonntags by Caleesi & Kreis | Ada, Caleesi, Gina Sabatini, Sarah Kreis |
 | Sat, 19 Sept 2026 | Rebellion der Träumer* X Afterhour Sounds - Glitter and Glue the Soli-Raveatory | Horst Haller, LEENI, Maria Theresia von Eberg, Moontalk, Tummetott |
 
 ## Address
 
 Blockdammweg 1, 10317 Berlin, Berlin
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/gart-n/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/gart-n/)*

@@ -1,6 +1,6 @@
 # Apple B
 
-Apple B is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at Jardim do Èden, Lisbon on Fri, 31 Jul 2026.
+Apple B is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at Jardim do Èden, Lisbon on Fri, 31 Jul 2026.
 
 Apple B is a house and techno artist based in United Kingdom, tracked on soundcheck, with 38 sets logged across Bristol, Lisbon and London. Often billed alongside Hazr, Velvet Velour and Hamish & Toby. Next up: Jardim do Èden, Lisbon on Fri 31 Jul.
 
@@ -25,4 +25,4 @@ Apple B is a house and techno artist based in United Kingdom, tracked on soundch
 
 Hazr, Velvet Velour, Hamish & Toby
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/appleb/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/appleb/)*

@@ -1,6 +1,6 @@
 # MLDC
 
-MLDC is a Trance and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at TBA - Peißnitzinsel Halle, Leipzig on Sat, 1 Aug 2026.
+MLDC is a Trance and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at TBA - Peißnitzinsel Halle, Leipzig on Sat, 1 Aug 2026.
 
 MLDC is a trance and techno artist based in Germany, tracked on soundcheck, with 5 sets logged across Leipzig. Often billed alongside B-TUR (2), VLUNA and ELOISA. Next up: TBA - Peißnitzinsel Halle, Leipzig on Sat 1 Aug.
 
@@ -21,4 +21,4 @@ MLDC is a trance and techno artist based in Germany, tracked on soundcheck, with
 
 B-TUR (2), VLUNA, ELOISA
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/mldc/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/mldc/)*

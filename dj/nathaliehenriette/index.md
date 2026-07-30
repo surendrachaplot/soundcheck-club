@@ -1,6 +1,6 @@
 # Nathalie Henriette
 
-Nathalie Henriette is a Techno and Tech House artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at WestWeelde, Amsterdam on Sat, 1 Aug 2026.
+Nathalie Henriette is a Techno and Tech House artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at WestWeelde, Amsterdam on Sat, 1 Aug 2026.
 
 Nathalie Henriette is a techno and tech house artist based in Netherlands, tracked on soundcheck, with 6 sets logged across Amsterdam. Often billed alongside Anthity, Alejandro Alvarez and BASSIKS. Next up: WestWeelde, Amsterdam on Sat 1 Aug.
 
@@ -22,4 +22,4 @@ Nathalie Henriette is a techno and tech house artist based in Netherlands, track
 
 Anthity, Alejandro Alvarez, BASSIKS
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/nathaliehenriette/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/nathaliehenriette/)*

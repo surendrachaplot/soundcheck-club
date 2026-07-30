@@ -1,6 +1,6 @@
 # Roel de Boer
 
-Roel de Boer is a electronic artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at Studio 508, Amsterdam on Sat, 8 Aug 2026.
+Roel de Boer is a electronic artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at Studio 508, Amsterdam on Sat, 8 Aug 2026.
 
 Roel de Boer is an electronic artist based in Netherlands, tracked on soundcheck, with 8 sets logged across Amsterdam. Often billed alongside Robert Bergman, Abel Minnee and Cinnaman. Next up: Studio 508, Amsterdam on Sat 8 Aug.
 
@@ -24,4 +24,4 @@ Roel de Boer is an electronic artist based in Netherlands, tracked on soundcheck
 
 Robert Bergman, Abel Minnee, Cinnaman
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/roeldeboer/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/roeldeboer/)*

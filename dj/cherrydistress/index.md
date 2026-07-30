@@ -1,6 +1,6 @@
 # Cherry Distress
 
-Cherry Distress is a House and Club artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at SMUT Athens, Athens on Sat, 8 Aug 2026.
+Cherry Distress is a House and Club artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at SMUT Athens, Athens on Sat, 8 Aug 2026.
 
 Cherry Distress is a house and club artist tracked on soundcheck, with 27 sets logged across Athens, Berlin and Hamburg. Often billed alongside ClubKid, Miss Trouli and ZANNT. Next up: SMUT Athens, Athens on Sat 8 Aug.
 
@@ -25,4 +25,4 @@ Cherry Distress is a house and club artist tracked on soundcheck, with 27 sets l
 
 ClubKid, Miss Trouli, ZANNT
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/cherrydistress/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/cherrydistress/)*

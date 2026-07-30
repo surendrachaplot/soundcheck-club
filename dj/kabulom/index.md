@@ -1,6 +1,6 @@
 # Kabulom
 
-Kabulom is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Wed, 29 Jul 2026, next at arkaoda Berlin, Berlin on Sat, 1 Aug 2026.
+Kabulom is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Thu, 30 Jul 2026, next at arkaoda Berlin, Berlin on Sat, 1 Aug 2026.
 
 Kabulom is a house and techno artist tracked on soundcheck, with 19 sets logged across Berlin, Leipzig, Lisbon and Saopaulo. Often billed alongside OMOLOKO, Paulete Lindacelva and BADSISTA. Next up: arkaoda Berlin, Berlin on Sat 1 Aug.
 
@@ -26,4 +26,4 @@ Kabulom is a house and techno artist tracked on soundcheck, with 19 sets logged 
 
 OMOLOKO, Paulete Lindacelva, BADSISTA
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/kabulom/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/kabulom/)*

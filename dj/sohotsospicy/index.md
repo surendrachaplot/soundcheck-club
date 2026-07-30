@@ -1,6 +1,6 @@
 # sohotsospicy
 
-sohotsospicy is a Club and Footwork artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at M.O.T, London on Sun, 2 Aug 2026.
+sohotsospicy is a Club and Footwork artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at M.O.T, London on Sun, 2 Aug 2026.
 
 sohotsospicy is a club and footwork artist tracked on soundcheck, with 19 sets logged across Berlin, Brighton, Dublin and London. Often billed alongside CRAIC DAVID, Big Dope P and Seb (Tropical Waste). Next up: M.O.T, London on Sun 2 Aug.
 
@@ -25,4 +25,4 @@ sohotsospicy is a club and footwork artist tracked on soundcheck, with 19 sets l
 
 CRAIC DAVID, Big Dope P, Seb (Tropical Waste)
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/sohotsospicy/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/sohotsospicy/)*

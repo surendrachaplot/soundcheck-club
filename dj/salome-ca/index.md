@@ -1,6 +1,6 @@
 # Salomé (CA)
 
-Salomé (CA) is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at Le Livart, Montreal on Sat, 22 Aug 2026.
+Salomé (CA) is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at Le Livart, Montreal on Sat, 22 Aug 2026.
 
 Salomé (CA) is a house and disco artist based in Canada, tracked on soundcheck, with 13 sets logged across Amsterdam, Berlin, Montreal and Paris. Often billed alongside Cristina Lazic, Duality and Miroloja. Next up: Le Livart, Montreal on Sat 22 Aug.
 
@@ -25,4 +25,4 @@ Salomé (CA) is a house and disco artist based in Canada, tracked on soundcheck,
 
 Cristina Lazic, Duality, Miroloja
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/salome-ca/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/salome-ca/)*

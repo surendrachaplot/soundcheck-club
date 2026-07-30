@@ -1,6 +1,6 @@
 # Kalpea
 
-Kalpea is a House and Downtempo artist with 2 upcoming club dates listed on soundcheck as of Wed, 29 Jul 2026, next at CUBE, Düsseldorf on Sat, 1 Aug 2026.
+Kalpea is a House and Downtempo artist with 2 upcoming club dates listed on soundcheck as of Thu, 30 Jul 2026, next at CUBE, Düsseldorf on Sat, 1 Aug 2026.
 
 Kalpea is a house and downtempo artist based in Germany, tracked on soundcheck, with 4 sets logged across Dusseldorf and Leipzig. Often billed alongside OutWithJane, Adam Charaf and Carotin. Next up: CUBE, Dusseldorf on Sat 1 Aug.
 
@@ -20,4 +20,4 @@ Kalpea is a house and downtempo artist based in Germany, tracked on soundcheck, 
 
 OutWithJane, Adam Charaf, Carotin
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/kalpea/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/kalpea/)*

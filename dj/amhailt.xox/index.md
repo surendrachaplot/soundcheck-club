@@ -1,6 +1,6 @@
 # amhailt.xox
 
-amhailt.xox is a Hardcore and Drum & Bass artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at Sneaky Pete's, Edinburgh on Sun, 30 Aug 2026.
+amhailt.xox is a Hardcore and Drum & Bass artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at Sneaky Pete's, Edinburgh on Sun, 30 Aug 2026.
 
 amhailt.xox is a hardcore and drum & bass artist based in Ireland, tracked on soundcheck, with 58 sets logged across Dundee, Edinburgh, Glasgow and Seoul. Often billed alongside CELTIC TERROR SQUAD, Sea Urchin and TWOCANNDANN. Next up: Sneaky Pete's, Edinburgh on Sun 30 Aug.
 
@@ -25,4 +25,4 @@ amhailt.xox is a hardcore and drum & bass artist based in Ireland, tracked on so
 
 CELTIC TERROR SQUAD, Sea Urchin, TWOCANNDANN
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/amhailt.xox/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/amhailt.xox/)*

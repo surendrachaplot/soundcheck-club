@@ -1,6 +1,6 @@
 # Stan Zeff
 
-Stan Zeff is a Afro House and Deep House artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at The Onyx Room at House of Yes, New York City on Fri, 31 Jul 2026.
+Stan Zeff is a Afro House and Deep House artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at The Onyx Room at House of Yes, New York City on Fri, 31 Jul 2026.
 
 Stan Zeff is an afro house and deep house artist based in United Kingdom, tracked on soundcheck, with 10 sets logged across Chicago, Miami, Newyorkcity and Toronto. Often billed alongside Yogi, Jay Vic and Dvize. Next up: The Onyx Room at House of Yes, Newyorkcity on Fri 31 Jul.
 
@@ -25,4 +25,4 @@ Stan Zeff is an afro house and deep house artist based in United Kingdom, tracke
 
 Yogi, Jay Vic, Dvize
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/stanzeff-us/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/stanzeff-us/)*

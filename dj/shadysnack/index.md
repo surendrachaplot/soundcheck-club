@@ -1,6 +1,6 @@
 # Shadysnack
 
-Shadysnack is a electronic artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at RADION, Amsterdam on Sat, 8 Aug 2026.
+Shadysnack is a electronic artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at RADION, Amsterdam on Sat, 8 Aug 2026.
 
 Shadysnack is an electronic artist tracked on soundcheck, with 31 sets logged across Amsterdam, Berlin, Cologne and Hamburg and 3 more. Often billed alongside BOYCA, Khloe and Cristian Marras. Next up: RADION, Amsterdam on Sat 8 Aug.
 
@@ -25,4 +25,4 @@ Shadysnack is an electronic artist tracked on soundcheck, with 31 sets logged ac
 
 BOYCA, Khloe, Cristian Marras
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/shadysnack/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/shadysnack/)*

@@ -1,6 +1,6 @@
 # Sailor Malice
 
-Sailor Malice is a Techno and Hardcore artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at The Chocolate Factory, New York City on Fri, 31 Jul 2026.
+Sailor Malice is a Techno and Hardcore artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at The Chocolate Factory, New York City on Fri, 31 Jul 2026.
 
 Sailor Malice is a techno and hardcore artist based in United States of America, tracked on soundcheck, with 22 sets logged across Newyorkcity. Often billed alongside Soo Intoit, Vyper and Misa Molly. Next up: The Chocolate Factory, Newyorkcity on Fri 31 Jul.
 
@@ -25,4 +25,4 @@ Sailor Malice is a techno and hardcore artist based in United States of America,
 
 Soo Intoit, Vyper, Misa Molly
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/sailormalice/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/sailormalice/)*

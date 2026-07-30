@@ -1,6 +1,6 @@
 # Trias Kinetica
 
-Trias Kinetica is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at Hal25, Amsterdam on Sat, 8 Aug 2026.
+Trias Kinetica is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at Hal25, Amsterdam on Sat, 8 Aug 2026.
 
 Trias Kinetica is a techno and house artist based in Netherlands, tracked on soundcheck, with 3 sets logged across Amsterdam and Utrecht. Often billed alongside AIS (2), Aiden Francis and Amelia Leigh. Next up: Hal25, Amsterdam on Sat 8 Aug.
 
@@ -19,4 +19,4 @@ Trias Kinetica is a techno and house artist based in Netherlands, tracked on sou
 
 AIS (2), Aiden Francis, Amelia Leigh
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/triaskinetica/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/triaskinetica/)*

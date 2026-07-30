@@ -1,8 +1,8 @@
 # Budapest Park
 
-Budapest Park is a music venue in Budapest with 14 upcoming nights listed on soundcheck as of Wed, 29 Jul 2026; the next is "dead end with ANDATA (DE), support: Paralich, THIRD 2HIFT, Valenthin ⏾ Nights of Budapest Park" on Fri, 31 Jul 2026.
+Budapest Park is a music venue in Budapest with 15 upcoming nights listed on soundcheck as of Thu, 30 Jul 2026; the next is "dead end with ANDATA (DE), support: Paralich, THIRD 2HIFT, Valenthin ⏾ Nights of Budapest Park" on Fri, 31 Jul 2026.
 
-Budapest Park is a music venue in Budapest listed on soundcheck. 14 upcoming nights, with line-ups including Acid Pauli, ädene, ANDATA and Ellen Allien and 2 more. Browse upcoming dates, start times and who's playing. 1095 Budapest, Fábián Juli tér 1..
+Budapest Park is a music venue in Budapest listed on soundcheck. 15 upcoming nights, with line-ups including Acid Pauli, ädene, ANDATA and Ellen Allien and 2 more. Browse upcoming dates, start times and who's playing. 1095 Budapest, Fábián Juli tér 1..
 
 ## What's on
 
@@ -15,12 +15,12 @@ Budapest Park is a music venue in Budapest listed on soundcheck. 14 upcoming nig
 | Sat, 1 Aug 2026 | Maximum Drum and Bass with John B (UK) ⏾ Nights of Budapest Park | Markov, Reza |
 | Sat, 1 Aug 2026 | Maximum DNB with John B |  |
 | Fri, 7 Aug 2026 | Shangri-La with Malive (BRA), support: Sviatko, MANDIN ⏾ Nights of Budapest Park | MANDIN, Malive |
+| Fri, 7 Aug 2026 | UV Party with DJ Endy, DJ Gomes ⏾ Nights of Budapest Park |  |
 | Sat, 8 Aug 2026 | Next Level pres.: SHIVERZ (UK) ⏾ Nights of Budapest Park |  |
 | Fri, 14 Aug 2026 | Luxfunk with Big Mo, DJ Sampler ⏾ Nights of Budapest Park |  |
-| Fri, 14 Aug 2026 | Stranger Synths by Quixotic ⏾ Nights of Budapest Park | Quixotic (1) |
 
 ## Address
 
 1095 Budapest, Fábián Juli tér 1., Budapest
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/budapest/club/budapest-park/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/budapest/club/budapest-park/)*

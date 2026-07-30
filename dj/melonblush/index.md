@@ -1,6 +1,6 @@
 # Melon Blush
 
-Melon Blush is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at KitKatClub, Berlin on Mon, 3 Aug 2026.
+Melon Blush is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at KitKatClub, Berlin on Mon, 3 Aug 2026.
 
 Melon Blush is a house and techno artist based in Brazil, tracked on soundcheck, with 9 sets logged across Athens, Berlin, Lisbon and Saopaulo. Often billed alongside Frankie Flowerz, Adron_ and Amanda Mussi. Next up: KitKatClub, Berlin on Mon 3 Aug.
 
@@ -25,4 +25,4 @@ Melon Blush is a house and techno artist based in Brazil, tracked on soundcheck,
 
 Frankie Flowerz, Adron_, Amanda Mussi
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/melonblush/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/melonblush/)*

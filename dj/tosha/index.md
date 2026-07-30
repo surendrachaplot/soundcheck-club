@@ -1,6 +1,6 @@
 # Tosha
 
-Tosha is a Techno and Tech House artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at AMT, Berlin on Sat, 15 Aug 2026.
+Tosha is a Techno and Tech House artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at AMT, Berlin on Sat, 15 Aug 2026.
 
 Tosha is a techno and tech house artist based in United States of America, tracked on soundcheck, with 11 sets logged across Berlin, London, Philadelphia and Washingtondc. Often billed alongside DJ T.E.C., Pervasive and 2theT. Next up: AMT, Berlin on Sat 15 Aug.
 
@@ -25,4 +25,4 @@ Tosha is a techno and tech house artist based in United States of America, track
 
 DJ T.E.C., Pervasive, 2theT
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/tosha/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/tosha/)*

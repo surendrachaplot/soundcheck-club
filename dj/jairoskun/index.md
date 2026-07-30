@@ -1,6 +1,6 @@
 # JAIROSKUN
 
-JAIROSKUN is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at Sala ART, Madrid on Fri, 31 Jul 2026.
+JAIROSKUN is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at Sala ART, Madrid on Fri, 31 Jul 2026.
 
 JAIROSKUN is a techno and trance artist tracked on soundcheck, with 32 sets logged across Madrid. Often billed alongside Møstroh, JRG and Tasuik. Next up: Sala ART, Madrid on Fri 31 Jul.
 
@@ -25,4 +25,4 @@ JAIROSKUN is a techno and trance artist tracked on soundcheck, with 32 sets logg
 
 Møstroh, JRG, Tasuik
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/jairoskun/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/jairoskun/)*

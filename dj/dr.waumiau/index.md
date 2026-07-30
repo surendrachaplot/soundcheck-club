@@ -1,6 +1,6 @@
 # Dr.Waumiau
 
-Dr.Waumiau is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at ://about blank, Berlin on Fri, 21 Aug 2026.
+Dr.Waumiau is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at ://about blank, Berlin on Fri, 21 Aug 2026.
 
 Dr.Waumiau is a techno and trance artist based in Germany, tracked on soundcheck, with 6 sets logged across Berlin. Often billed alongside Armaville, FAballert and F O R E S I G H T. Next up: ://about blank, Berlin on Fri 21 Aug.
 
@@ -22,4 +22,4 @@ Dr.Waumiau is a techno and trance artist based in Germany, tracked on soundcheck
 
 Armaville, FAballert, F O R E S I G H T
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/dr.waumiau/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/dr.waumiau/)*

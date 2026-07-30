@@ -1,6 +1,6 @@
 # Enssembl
 
-Enssembl is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at Public Arts, New York City on Sat, 1 Aug 2026.
+Enssembl is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at Public Arts, New York City on Sat, 1 Aug 2026.
 
 Enssembl is a techno and house artist based in France, tracked on soundcheck, with 25 sets logged across Newyorkcity. Often billed alongside Dune, Alchemist Spider and Karina Anda. Next up: Public Arts, Newyorkcity on Sat 1 Aug.
 
@@ -25,4 +25,4 @@ Enssembl is a techno and house artist based in France, tracked on soundcheck, wi
 
 Dune, Alchemist Spider, Karina Anda
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/enssembl/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/enssembl/)*

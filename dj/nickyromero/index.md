@@ -1,6 +1,6 @@
 # Nicky Romero
 
-Nicky Romero is a Progressive House and Club artist with 2 upcoming club dates listed on soundcheck as of Wed, 29 Jul 2026, next at LIV Nightclub Miami, Miami on Sat, 15 Aug 2026.
+Nicky Romero is a Progressive House and Club artist with 2 upcoming club dates listed on soundcheck as of Thu, 30 Jul 2026, next at LIV Nightclub Miami, Miami on Sat, 15 Aug 2026.
 
 Nicky Romero is a progressive house and club artist based in Netherlands, tracked on soundcheck, with 28 sets logged across Amsterdam, Bangkok, Boston and Denver and 12 more. Often billed alongside Afrojack, Alesso and Alignment. Next up: LIV Nightclub Miami, Miami on Sat 15 Aug.
 
@@ -26,4 +26,4 @@ Nicky Romero is a progressive house and club artist based in Netherlands, tracke
 
 Afrojack, Alesso, Alignment
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/nickyromero/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/nickyromero/)*

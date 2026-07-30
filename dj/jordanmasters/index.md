@@ -1,13 +1,14 @@
 # Jordan Masters
 
-Jordan Masters is a House and Tech House artist with 3 upcoming club dates listed on soundcheck as of Wed, 29 Jul 2026, next at Mint Warehouse, Leeds on Sun, 30 Aug 2026.
+Jordan Masters is a House and Tech House artist with 4 upcoming club dates listed on soundcheck as of Thu, 30 Jul 2026, next at Crate Brewery, London on Sun, 16 Aug 2026.
 
-Jordan Masters is a house and tech house artist tracked on soundcheck, with 21 sets logged across Birmingham, Bristol, Leeds and Liverpool and 1 more. Often billed alongside ADMNTi, Julian Anthony and Just Jam. Next up: Mint Warehouse, Leeds on Sun 30 Aug.
+Jordan Masters is a house and tech house artist tracked on soundcheck, with 22 sets logged across Birmingham, Bristol, Leeds and Liverpool and 1 more. Often billed alongside ADMNTi, Julian Anthony and Just Jam. Next up: Crate Brewery, London on Sun 16 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sun, 16 Aug 2026 | Crate Brewery | London |
 | Sun, 30 Aug 2026 | Mint Warehouse | Leeds |
 | Sun, 30 Aug 2026 | Mint Warehouse | Leeds |
 | Sat, 5 Sept 2026 | Starlane Pizza Bar | London |
@@ -27,4 +28,4 @@ Jordan Masters is a house and tech house artist tracked on soundcheck, with 21 s
 
 ADMNTi, Julian Anthony, Just Jam
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/jordanmasters/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/jordanmasters/)*

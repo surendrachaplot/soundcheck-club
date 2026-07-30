@@ -1,6 +1,6 @@
 # Jesse Zotti
 
-Jesse Zotti is a Tech House and House artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at NWHR, Montreal on Sat, 1 Aug 2026.
+Jesse Zotti is a Tech House and House artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at NWHR, Montreal on Sat, 1 Aug 2026.
 
 Jesse Zotti is a tech house and house artist tracked on soundcheck, with 35 sets logged across Montreal and Vancouver. Often billed alongside Tal Fussman, Crescenzo and Greg Gow. Next up: NWHR, Montreal on Sat 1 Aug.
 
@@ -25,4 +25,4 @@ Jesse Zotti is a tech house and house artist tracked on soundcheck, with 35 sets
 
 Tal Fussman, Crescenzo, Greg Gow
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/jessezotti/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/jessezotti/)*

@@ -1,6 +1,6 @@
 # Karmel Jäger
 
-Karmel Jäger is a Techno and Bass artist with 2 upcoming club dates listed on soundcheck as of Wed, 29 Jul 2026, next at Der Weiße Hase, Berlin on Sat, 8 Aug 2026.
+Karmel Jäger is a Techno and Bass artist with 2 upcoming club dates listed on soundcheck as of Thu, 30 Jul 2026, next at Der Weiße Hase, Berlin on Sat, 8 Aug 2026.
 
 Karmel Jäger is a techno and bass artist based in Australia, tracked on soundcheck, with 30 sets logged across Berlin, London and Sydney. Often billed alongside Floga, S Smurf and Hotel 84. Next up: Der Weiße Hase, Berlin on Sat 8 Aug.
 
@@ -26,4 +26,4 @@ Karmel Jäger is a techno and bass artist based in Australia, tracked on soundch
 
 Floga, S Smurf, Hotel 84
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/karmeljager/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/karmeljager/)*

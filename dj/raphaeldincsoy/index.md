@@ -1,14 +1,15 @@
 # Raphael Dincsoy
 
-Raphael Dincsoy is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Wed, 29 Jul 2026, next at Lehmann Club, Stuttgart on Sat, 1 Aug 2026.
+Raphael Dincsoy is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Thu, 30 Jul 2026, next at Lehmann Club, Stuttgart on Sat, 1 Aug 2026.
 
-Raphael Dincsoy is a techno and house artist tracked on soundcheck, with 131 sets logged across Amsterdam, Basel, Berlin and Dusseldorf and 7 more. Often billed alongside Tamara Wirth, David Löhlein and Sibel. Next up: Lehmann Club, Stuttgart on Sat 1 Aug.
+Raphael Dincsoy is a techno and house artist tracked on soundcheck, with 132 sets logged across Amsterdam, Basel, Berlin and Dusseldorf and 7 more. Often billed alongside Tamara Wirth, David Löhlein and Sibel. Next up: Lehmann Club, Stuttgart on Sat 1 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 1 Aug 2026 | Lehmann Club | Stuttgart |
+| Sun, 2 Aug 2026 | Romantica | Stuttgart |
 | Sat, 15 Aug 2026 | Lehmann Club | Stuttgart |
 
 ## Recently played
@@ -26,4 +27,4 @@ Raphael Dincsoy is a techno and house artist tracked on soundcheck, with 131 set
 
 Tamara Wirth, David Löhlein, Sibel
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/raphaeldincsoy/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/raphaeldincsoy/)*

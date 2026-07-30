@@ -1,6 +1,6 @@
 # Ronnie Loko
 
-Ronnie Loko is a Afro House and Amapiano artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at Onyx (E1), London on Fri, 31 Jul 2026.
+Ronnie Loko is a Afro House and Amapiano artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at Onyx (E1), London on Fri, 31 Jul 2026.
 
 Ronnie Loko is an afro house and amapiano artist tracked on soundcheck, with 21 sets logged across London and Newyorkcity. Often billed alongside D3NIM, AYAYA and Ase Manual. Next up: Onyx (E1), London on Fri 31 Jul.
 
@@ -25,4 +25,4 @@ Ronnie Loko is an afro house and amapiano artist tracked on soundcheck, with 21 
 
 D3NIM, AYAYA, Ase Manual
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/ronnieloko/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/ronnieloko/)*

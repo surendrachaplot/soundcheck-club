@@ -1,6 +1,6 @@
 # DJ LIL-E
 
-DJ LIL-E is a Club and Drum & Bass artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at Camden Lock Market, London on Fri, 31 Jul 2026.
+DJ LIL-E is a Club and Drum & Bass artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at Camden Lock Market, London on Fri, 31 Jul 2026.
 
 DJ LIL-E is a club and drum & bass artist based in United Kingdom, tracked on soundcheck, with 73 sets logged across London. Often billed alongside Eseccaro, 10:35 and CARO (3). Next up: Camden Lock Market, London on Fri 31 Jul.
 
@@ -25,4 +25,4 @@ DJ LIL-E is a club and drum & bass artist based in United Kingdom, tracked on so
 
 Eseccaro, 10:35, CARO (3)
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/djlil-e/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/djlil-e/)*

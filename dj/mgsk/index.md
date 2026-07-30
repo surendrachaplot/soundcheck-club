@@ -1,6 +1,6 @@
 # MGSK
 
-MGSK is a electronic artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at Smolna, Warsaw on Sat, 15 Aug 2026.
+MGSK is a electronic artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at Smolna, Warsaw on Sat, 15 Aug 2026.
 
 MGSK is an electronic artist based in Poland, tracked on soundcheck, with 2 sets logged across Warsaw. Often billed alongside BarTech, Claude Degas and Mordeaux. Next up: Smolna, Warsaw on Sat 15 Aug.
 
@@ -18,4 +18,4 @@ MGSK is an electronic artist based in Poland, tracked on soundcheck, with 2 sets
 
 BarTech, Claude Degas, Mordeaux
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/mgsk/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/mgsk/)*

@@ -1,6 +1,6 @@
 # Hizz Lounge
 
-Hizz Lounge is a music venue in Detroit with 1 upcoming night listed on soundcheck as of Wed, 29 Jul 2026; the next is "Interference x 400°F presents Amor Satyr and Siu Mata" on Sat, 1 Aug 2026.
+Hizz Lounge is a music venue in Detroit with 1 upcoming night listed on soundcheck as of Thu, 30 Jul 2026; the next is "Interference x 400°F presents Amor Satyr and Siu Mata" on Sat, 1 Aug 2026.
 
 Hizz Lounge is a music venue in Detroit listed on soundcheck. 1 upcoming night, with line-ups including Amor Satyr, hypemelo, Nick Dagher and RAPHAËL (2) and 2 more. Browse upcoming dates, start times and who's playing. 2475 W Grand Blvd, Detroit, MI 48208.
 
@@ -14,4 +14,4 @@ Hizz Lounge is a music venue in Detroit listed on soundcheck. 1 upcoming night, 
 
 2475 W Grand Blvd, Detroit, MI 48208, Detroit
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/detroit/club/hizz-lounge/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/detroit/club/hizz-lounge/)*

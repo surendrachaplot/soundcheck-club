@@ -1,6 +1,6 @@
 # Caleb ESC
 
-Caleb ESC is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at TBA - secret venue [ask your local network], Leipzig on Sat, 15 Aug 2026.
+Caleb ESC is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at TBA - secret venue [ask your local network], Leipzig on Sat, 15 Aug 2026.
 
 Caleb ESC is a techno and house artist based in Germany, tracked on soundcheck, with 7 sets logged across Berlin and Leipzig. Often billed alongside Anja Zaube, Eluzid and Hang Aoki. Next up: TBA - secret venue [ask your local network], Leipzig on Sat 15 Aug.
 
@@ -23,4 +23,4 @@ Caleb ESC is a techno and house artist based in Germany, tracked on soundcheck, 
 
 Anja Zaube, Eluzid, Hang Aoki
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/calebesc/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/calebesc/)*

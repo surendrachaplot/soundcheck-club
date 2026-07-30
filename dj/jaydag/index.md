@@ -1,6 +1,6 @@
 # Jayda G
 
-Jayda G is a House and Techno artist with 9 upcoming club dates listed on soundcheck as of Wed, 29 Jul 2026, next at Sønder Hoved, Copenhagen on Thu, 30 Jul 2026.
+Jayda G is a House and Techno artist with 9 upcoming club dates listed on soundcheck as of Thu, 30 Jul 2026, next at Sønder Hoved, Copenhagen on Thu, 30 Jul 2026.
 
 Jayda G is a house and techno artist tracked on soundcheck, with 124 sets logged across Amsterdam, Bali, Barcelona and Belfast and 46 more. Often billed alongside Melvo Baptiste, Barry Can't Swim and Eliza Rose. Next up: Sønder Hoved, Copenhagen on Thu 30 Jul.
 
@@ -33,4 +33,4 @@ Jayda G is a house and techno artist tracked on soundcheck, with 124 sets logged
 
 Melvo Baptiste, Barry Can't Swim, Eliza Rose
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/jaydag/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/jaydag/)*

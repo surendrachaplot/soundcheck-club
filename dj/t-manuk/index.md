@@ -1,6 +1,6 @@
 # T-Man (UK)
 
-T-Man (UK) is a Drum & Bass and Bass artist with 3 upcoming club dates listed on soundcheck as of Wed, 29 Jul 2026, next at Freight Island, Manchester on Sun, 2 Aug 2026.
+T-Man (UK) is a Drum & Bass and Bass artist with 3 upcoming club dates listed on soundcheck as of Thu, 30 Jul 2026, next at Freight Island, Manchester on Sun, 2 Aug 2026.
 
 T-Man (UK) is a drum & bass and bass artist based in United Kingdom, tracked on soundcheck, with 62 sets logged across Brighton, Bristol, Ghent and London and 2 more. Often billed alongside Rich Reason, LARISHKA (UK) and MC Fox. Next up: Freight Island, Manchester on Sun 2 Aug.
 
@@ -27,4 +27,4 @@ T-Man (UK) is a drum & bass and bass artist based in United Kingdom, tracked on 
 
 Rich Reason, LARISHKA (UK), MC Fox
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/t-manuk/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/t-manuk/)*

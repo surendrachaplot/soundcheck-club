@@ -1,6 +1,6 @@
 # Chopper (UK)
 
-Chopper (UK) is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at Lab11, Birmingham on Sat, 8 Aug 2026.
+Chopper (UK) is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at Lab11, Birmingham on Sat, 8 Aug 2026.
 
 Chopper (UK) is a house and tech house artist tracked on soundcheck, with 53 sets logged across Amsterdam, Antwerp, Birmingham and Ibiza and 7 more. Often billed alongside Ryan Resso, Stef Davidse and EVIE UK. Next up: Lab11, Birmingham on Sat 8 Aug.
 
@@ -25,4 +25,4 @@ Chopper (UK) is a house and tech house artist tracked on soundcheck, with 53 set
 
 Ryan Resso, Stef Davidse, EVIE UK
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/chopper-2/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/chopper-2/)*

@@ -1,6 +1,6 @@
 # Total Freedom
 
-Total Freedom is a Club and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at public records, New York City on Thu, 6 Aug 2026.
+Total Freedom is a Club and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at public records, New York City on Thu, 6 Aug 2026.
 
 Total Freedom is a club and techno artist tracked on soundcheck, with 56 sets logged across Amsterdam, Athens, Bangkok and Barcelona and 17 more. Often billed alongside BAE BAE, Bapari and Evian Christ. Next up: public records, Newyorkcity on Thu 6 Aug.
 
@@ -25,4 +25,4 @@ Total Freedom is a club and techno artist tracked on soundcheck, with 56 sets lo
 
 BAE BAE, Bapari, Evian Christ
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/totalfreedom/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/totalfreedom/)*

@@ -1,6 +1,6 @@
 # Eric Leonardis
 
-Eric Leonardis is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at The Air Conditioned Lounge, San Diego on Fri, 7 Aug 2026.
+Eric Leonardis is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at The Air Conditioned Lounge, San Diego on Fri, 7 Aug 2026.
 
 Eric Leonardis is a house and deep house artist based in United States of America, tracked on soundcheck, with 31 sets logged across Losangeles and Sandiego. Often billed alongside Matthew Brian, Jesse Austin and DJ Xboyfriend. Next up: The Air Conditioned Lounge, Sandiego on Fri 7 Aug.
 
@@ -25,4 +25,4 @@ Eric Leonardis is a house and deep house artist based in United States of Americ
 
 Matthew Brian, Jesse Austin, DJ Xboyfriend
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/ericleonardis/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/ericleonardis/)*

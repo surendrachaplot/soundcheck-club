@@ -1,6 +1,6 @@
 # Tomu DJ
 
-Tomu DJ is a Club and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at Arcana, San Francisco/Oakland on Sat, 1 Aug 2026.
+Tomu DJ is a Club and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at Arcana, San Francisco/Oakland on Sat, 1 Aug 2026.
 
 Tomu DJ is a club and techno artist based in United States of America, tracked on soundcheck, with 55 sets logged across Newyorkcity, Sanfrancisco and Tokyo. Often billed alongside 40split, RITCHRD and SOBA. Next up: Arcana, Sanfrancisco on Sat 1 Aug.
 
@@ -25,4 +25,4 @@ Tomu DJ is a club and techno artist based in United States of America, tracked o
 
 40split, RITCHRD, SOBA
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/tomudj/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/tomudj/)*

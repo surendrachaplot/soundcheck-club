@@ -1,6 +1,6 @@
 # Oli XL
 
-Oli XL is a Club and Experimental artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at Paavli Kultuurivabrik, Tallinn on Fri, 7 Aug 2026.
+Oli XL is a Club and Experimental artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at Paavli Kultuurivabrik, Tallinn on Fri, 7 Aug 2026.
 
 Oli XL is a club and experimental artist tracked on soundcheck, with 53 sets logged across Amsterdam, Berlin, Brisbane and Bristol and 22 more. Often billed alongside Mechatok, NET GALA and Evian Christ. Next up: Paavli Kultuurivabrik, Tallinn on Fri 7 Aug.
 
@@ -25,4 +25,4 @@ Oli XL is a club and experimental artist tracked on soundcheck, with 53 sets log
 
 Mechatok, NET GALA, Evian Christ
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/olixl/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/olixl/)*

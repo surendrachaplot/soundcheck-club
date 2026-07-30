@@ -1,14 +1,15 @@
 # Ruby Ruby
 
-Ruby Ruby is a House and Electro artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at The Glove That Fits, London on Fri, 14 Aug 2026.
+Ruby Ruby is a House and Electro artist with 2 upcoming club dates listed on soundcheck as of Thu, 30 Jul 2026, next at The Glove That Fits, London on Fri, 14 Aug 2026.
 
-Ruby Ruby is a house and electro artist tracked on soundcheck, with 27 sets logged across Leeds, London and Manchester. Often billed alongside Oscar (MITHA), Jive Talk and Gabbs. Next up: The Glove That Fits, London on Fri 14 Aug.
+Ruby Ruby is a house and electro artist tracked on soundcheck, with 28 sets logged across Leeds, London and Manchester. Often billed alongside Oscar (MITHA), Jive Talk and Gabbs. Next up: The Glove That Fits, London on Fri 14 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 14 Aug 2026 | The Glove That Fits | London |
+| Sat, 15 Aug 2026 | The Jericho Cafe (Oxford) | London |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ Ruby Ruby is a house and electro artist tracked on soundcheck, with 27 sets logg
 
 Oscar (MITHA), Jive Talk, Gabbs
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/rubyruby/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/rubyruby/)*

@@ -1,6 +1,6 @@
 # KAGATE
 
-KAGATE is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at Teritorija, Riga on Fri, 7 Aug 2026.
+KAGATE is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at Teritorija, Riga on Fri, 7 Aug 2026.
 
 KAGATE is a techno and house artist based in Latvia, tracked on soundcheck, with 4 sets logged across Riga. Often billed alongside Ksenia Kamikaza, Ben Spalding and Chich. Next up: Teritorija, Riga on Fri 7 Aug.
 
@@ -20,4 +20,4 @@ KAGATE is a techno and house artist based in Latvia, tracked on soundcheck, with
 
 Ksenia Kamikaza, Ben Spalding, Chich
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/kagate/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/kagate/)*

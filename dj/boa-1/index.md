@@ -1,6 +1,6 @@
 # BOA (1)
 
-BOA (1) is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at Club Makossa, London on Thu, 30 Jul 2026.
+BOA (1) is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at Club Makossa, London on Thu, 30 Jul 2026.
 
 BOA (1) is a house and tech house artist tracked on soundcheck, with 12 sets logged across Ibiza, London and Manchester. Often billed alongside MTRG, Olly Brady and SAM PHONIC. Next up: Club Makossa, London on Thu 30 Jul.
 
@@ -25,4 +25,4 @@ BOA (1) is a house and tech house artist tracked on soundcheck, with 12 sets log
 
 MTRG, Olly Brady, SAM PHONIC
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/boa-1/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/boa-1/)*

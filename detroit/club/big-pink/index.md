@@ -1,6 +1,6 @@
 # Big Pink
 
-Big Pink is a music venue in Detroit with 8 upcoming nights listed on soundcheck as of Wed, 29 Jul 2026; the next is "HIPHOP NIGHT: DRAKE VS. THE WEEKND (DJ MIA + CELEX THE DJ)" on Fri, 31 Jul 2026.
+Big Pink is a music venue in Detroit with 8 upcoming nights listed on soundcheck as of Thu, 30 Jul 2026; the next is "HIPHOP NIGHT: DRAKE VS. THE WEEKND (DJ MIA + CELEX THE DJ)" on Fri, 31 Jul 2026.
 
 Big Pink is a music venue in Detroit listed on soundcheck. 8 upcoming nights. Browse upcoming dates, start times and who's playing. 6440 Wight St, Detroit, MI 48207, USA.
 
@@ -21,4 +21,4 @@ Big Pink is a music venue in Detroit listed on soundcheck. 8 upcoming nights. Br
 
 6440 Wight St, Detroit, MI 48207, USA, Detroit
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/detroit/club/big-pink/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/detroit/club/big-pink/)*

@@ -1,6 +1,6 @@
 # Qino
 
-Qino is a Funk / Soul and House artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at TBA - Ballers Social Sports, Philadelphia on Fri, 31 Jul 2026.
+Qino is a Funk / Soul and House artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at TBA - Ballers Social Sports, Philadelphia on Fri, 31 Jul 2026.
 
 Qino is a funk / soul and house artist based in United States of America, tracked on soundcheck, with 2 sets logged across Philadelphia. Often billed alongside tj groover. Next up: TBA - Ballers Social Sports, Philadelphia on Fri 31 Jul.
 
@@ -18,4 +18,4 @@ Qino is a funk / soul and house artist based in United States of America, tracke
 
 tj groover
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/qino/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/qino/)*

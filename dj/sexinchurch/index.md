@@ -1,6 +1,6 @@
 # SEXINCHURCH
 
-SEXINCHURCH is a Techno and Club artist with 2 upcoming club dates listed on soundcheck as of Wed, 29 Jul 2026, next at The Bush Dyke Bar, New York City on Fri, 31 Jul 2026.
+SEXINCHURCH is a Techno and Club artist with 2 upcoming club dates listed on soundcheck as of Thu, 30 Jul 2026, next at The Bush Dyke Bar, New York City on Fri, 31 Jul 2026.
 
 SEXINCHURCH is a techno and club artist based in United States of America, tracked on soundcheck, with 26 sets logged across Newyorkcity. Often billed alongside DJ Sour, BLAIZE and Ms Carrie Stacks. Next up: The Bush Dyke Bar, Newyorkcity on Fri 31 Jul.
 
@@ -26,4 +26,4 @@ SEXINCHURCH is a techno and club artist based in United States of America, track
 
 DJ Sour, BLAIZE, Ms Carrie Stacks
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/sexinchurch/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/sexinchurch/)*

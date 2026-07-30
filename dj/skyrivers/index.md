@@ -1,6 +1,6 @@
 # Sky Rivers
 
-Sky Rivers is a House and Minimal artist with 3 upcoming club dates listed on soundcheck as of Wed, 29 Jul 2026, next at Lost and Found, Los Angeles on Fri, 31 Jul 2026.
+Sky Rivers is a House and Minimal artist with 3 upcoming club dates listed on soundcheck as of Thu, 30 Jul 2026, next at Lost and Found, Los Angeles on Fri, 31 Jul 2026.
 
 Sky Rivers is a house and minimal artist tracked on soundcheck, with 57 sets logged across London, Losangeles, Newyorkcity and Sandiego and 2 more. Often billed alongside Hazy, Ian Llorens and Highkin'. Next up: Lost and Found, Losangeles on Fri 31 Jul.
 
@@ -27,4 +27,4 @@ Sky Rivers is a house and minimal artist tracked on soundcheck, with 57 sets log
 
 Hazy, Ian Llorens, Highkin'
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/skyrivers/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/skyrivers/)*

@@ -1,6 +1,6 @@
 # Oldboy (UK)
 
-Oldboy (UK) is a House and Garage artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at The Bongo Club, Edinburgh on Thu, 17 Sept 2026.
+Oldboy (UK) is a House and Garage artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at The Bongo Club, Edinburgh on Thu, 17 Sept 2026.
 
 Oldboy (UK) is a house and garage artist based in United Kingdom, tracked on soundcheck, with 2 sets logged across Brighton and Edinburgh. Often billed alongside DJ Cosworth, Oldboy (2) and Rònan White. Next up: The Bongo Club, Edinburgh on Thu 17 Sept.
 
@@ -18,4 +18,4 @@ Oldboy (UK) is a house and garage artist based in United Kingdom, tracked on sou
 
 DJ Cosworth, Oldboy (2), Rònan White
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/oldboytrax/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/oldboytrax/)*

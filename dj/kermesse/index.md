@@ -1,6 +1,6 @@
 # Kermesse
 
-Kermesse is a Electronica and Downtempo artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at Import Export, Munich on Sun, 2 Aug 2026.
+Kermesse is a Electronica and Downtempo artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at Import Export, Munich on Sun, 2 Aug 2026.
 
 Kermesse is an electronica and downtempo artist based in Argentina, tracked on soundcheck, with 7 sets logged across Bali, Berlin, Buenosaires and Lisbon and 3 more. Often billed alongside B.o.T, Cedro and Daniel Sehnawi. Next up: Import Export, Munich on Sun 2 Aug.
 
@@ -23,4 +23,4 @@ Kermesse is an electronica and downtempo artist based in Argentina, tracked on s
 
 B.o.T, Cedro, Daniel Sehnawi
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/kermesse/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/kermesse/)*

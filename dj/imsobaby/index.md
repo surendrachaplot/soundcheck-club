@@ -1,6 +1,6 @@
 # Imsobaby
 
-Imsobaby is a Baile Funk and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at La Station - Gare des Mines, Paris on Fri, 31 Jul 2026.
+Imsobaby is a Baile Funk and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at La Station - Gare des Mines, Paris on Fri, 31 Jul 2026.
 
 Imsobaby is a baile funk and techno artist based in Switzerland, tracked on soundcheck, with 21 sets logged across Amsterdam, Brussels, Geneva and Paris and 1 more. Often billed alongside Esengo, Hirma and Chinnamasta. Next up: La Station - Gare des Mines, Paris on Fri 31 Jul.
 
@@ -25,4 +25,4 @@ Imsobaby is a baile funk and techno artist based in Switzerland, tracked on soun
 
 Esengo, Hirma, Chinnamasta
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/imsobaby/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/imsobaby/)*

@@ -1,6 +1,6 @@
 # Isimo!
 
-Isimo! is a Deep House and Tech House artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at Lost and Found, Los Angeles on Fri, 31 Jul 2026.
+Isimo! is a Deep House and Tech House artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at Lost and Found, Los Angeles on Fri, 31 Jul 2026.
 
 Isimo! is a deep house and tech house artist based in United States of America, tracked on soundcheck, with 4 sets logged across Losangeles. Often billed alongside Dave Aju and Sky Rivers. Next up: Lost and Found, Losangeles on Fri 31 Jul.
 
@@ -20,4 +20,4 @@ Isimo! is a deep house and tech house artist based in United States of America, 
 
 Dave Aju, Sky Rivers
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/isimo!/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/isimo!/)*

@@ -1,6 +1,6 @@
 # Nita Aviance
 
-Nita Aviance is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Wed, 29 Jul 2026, next at Little Island, New York City on Fri, 31 Jul 2026.
+Nita Aviance is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Thu, 30 Jul 2026, next at Little Island, New York City on Fri, 31 Jul 2026.
 
 Nita Aviance is a house and techno artist based in United States of America, tracked on soundcheck, with 91 sets logged across Chicago, Detroit, Leipzig and London and 2 more. Often billed alongside Will Automagic, The Carry Nation and Alissa Brianna. Next up: Little Island, Newyorkcity on Fri 31 Jul.
 
@@ -27,4 +27,4 @@ Nita Aviance is a house and techno artist based in United States of America, tra
 
 Will Automagic, The Carry Nation, Alissa Brianna
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/nitaaviance/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/nitaaviance/)*

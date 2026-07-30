@@ -1,6 +1,6 @@
 # Alessio Barletta
 
-Alessio Barletta is a electronic artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at BLITZ, Munich on Fri, 31 Jul 2026.
+Alessio Barletta is a electronic artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at BLITZ, Munich on Fri, 31 Jul 2026.
 
 Alessio Barletta is an electronic artist based in Italy, tracked on soundcheck, with 15 sets logged across Milan, Munich and Rome. Often billed alongside Lavandonia, Alles Andere and Marcel Dettmann. Next up: BLITZ, Munich on Fri 31 Jul.
 
@@ -25,4 +25,4 @@ Alessio Barletta is an electronic artist based in Italy, tracked on soundcheck, 
 
 Lavandonia, Alles Andere, Marcel Dettmann
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/alessiobarletta/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/alessiobarletta/)*

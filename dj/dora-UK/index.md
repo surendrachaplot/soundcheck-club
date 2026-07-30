@@ -1,6 +1,6 @@
 # Døra
 
-Døra is a Techno and Deep House artist with 2 upcoming club dates listed on soundcheck as of Wed, 29 Jul 2026, next at Tide Nightclub, Brighton on Sat, 1 Aug 2026.
+Døra is a Techno and Deep House artist with 2 upcoming club dates listed on soundcheck as of Thu, 30 Jul 2026, next at Tide Nightclub, Brighton on Sat, 1 Aug 2026.
 
 Døra is a techno and deep house artist based in United Kingdom, tracked on soundcheck, with 17 sets logged across Athens, Brighton and London. Often billed alongside HARLØW, Jack Jeffrey and Ross Harper. Next up: Tide Nightclub, Brighton on Sat 1 Aug.
 
@@ -26,4 +26,4 @@ Døra is a techno and deep house artist based in United Kingdom, tracked on soun
 
 HARLØW, Jack Jeffrey, Ross Harper
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/dora-UK/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/dora-UK/)*

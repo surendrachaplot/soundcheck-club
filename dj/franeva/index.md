@@ -1,14 +1,15 @@
 # Franeva
 
-Franeva is a electronic artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at KitKatClub, Berlin on Fri, 31 Jul 2026.
+Franeva is a Techno artist with 2 upcoming club dates listed on soundcheck as of Thu, 30 Jul 2026, next at KitKatClub, Berlin on Fri, 31 Jul 2026.
 
-Franeva is an electronic artist based in United States of America, tracked on soundcheck, with 45 sets logged across Berlin and Paris. Often billed alongside DJ EFE, .JKM and Inverse Element. Next up: KitKatClub, Berlin on Fri 31 Jul.
+Franeva is a techno artist based in United States of America, tracked on soundcheck, with 46 sets logged across Berlin and Paris. Often billed alongside DJ EFE, .JKM and Inverse Element. Next up: KitKatClub, Berlin on Fri 31 Jul.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 31 Jul 2026 | KitKatClub | Berlin |
+| Fri, 14 Aug 2026 | OST | Berlin |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ Franeva is an electronic artist based in United States of America, tracked on so
 
 DJ EFE, .JKM, Inverse Element
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/franeva/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/franeva/)*

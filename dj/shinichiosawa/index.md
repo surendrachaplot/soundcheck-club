@@ -1,6 +1,6 @@
 # Shinichi Osawa
 
-Shinichi Osawa is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at WOMB, Tokyo on Sun, 9 Aug 2026.
+Shinichi Osawa is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at WOMB, Tokyo on Sun, 9 Aug 2026.
 
 Shinichi Osawa is a techno and house artist based in Japan, tracked on soundcheck, with 55 sets logged across Kyoto, Mexicocity, Osaka and Tokyo. Often billed alongside JUN INAGAWA, Takkyu Ishino and DJ Emma. Next up: WOMB, Tokyo on Sun 9 Aug.
 
@@ -25,4 +25,4 @@ Shinichi Osawa is a techno and house artist based in Japan, tracked on soundchec
 
 JUN INAGAWA, Takkyu Ishino, DJ Emma
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/shinichiosawa/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/shinichiosawa/)*

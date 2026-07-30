@@ -1,8 +1,8 @@
 # SISSI'S Amsterdam
 
-SISSI'S Amsterdam is a music venue in Amsterdam with 12 upcoming nights listed on soundcheck as of Wed, 29 Jul 2026; the next is "Sissi's Friday with David Vunk, Floris Fahrenheit, Polli Panda, Abiba & Yonic" on Fri, 31 Jul 2026.
+SISSI'S Amsterdam is a music venue in Amsterdam with 13 upcoming nights listed on soundcheck as of Thu, 30 Jul 2026; the next is "Sissi's Friday with David Vunk, Floris Fahrenheit, Polli Panda, Abiba & Yonic" on Fri, 31 Jul 2026.
 
-SISSI'S Amsterdam is a music venue in Amsterdam listed on soundcheck. 12 upcoming nights, with line-ups including Abiba Sokoto, Benny2, David Vunk and DJ Split and 2 more. Browse upcoming dates, start times and who's playing. Anthony Fokkerweg 3, 1059 CM Amsterdam.
+SISSI'S Amsterdam is a music venue in Amsterdam listed on soundcheck. 13 upcoming nights, with line-ups including Abiba Sokoto, Benny2, David Vunk and DJ Split and 2 more. Browse upcoming dates, start times and who's playing. Anthony Fokkerweg 3, 1059 CM Amsterdam.
 
 ## What's on
 
@@ -16,11 +16,11 @@ SISSI'S Amsterdam is a music venue in Amsterdam listed on soundcheck. 12 upcomin
 | Sat, 15 Aug 2026 | Sissi's x Kurashi: Kurashi 4Y Anniversary block party |  |
 | Fri, 21 Aug 2026 | Sissi's Friday with Benny2, Eva Bon, Koperblond | Benny2, Koperblond |
 | Sat, 22 Aug 2026 | Sissi's Saturday by Naked Records with Dennis Quin & Shanne |  |
+| Thu, 27 Aug 2026 | Rythym Amsterdam | Lasse Top, Michel de Hey |
 | Fri, 28 Aug 2026 | Sissi's Friday by Huru-Hara: TASHASAN, Mia & XUNAT | MIA (MY), TASHASAN, XUNAT |
-| Sat, 29 Aug 2026 | Sissi's by Closecall x Ghosts of Garage |  |
 
 ## Address
 
 Anthony Fokkerweg 3, 1059 CM Amsterdam, Amsterdam
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/sissi-s-amsterdam/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/sissi-s-amsterdam/)*

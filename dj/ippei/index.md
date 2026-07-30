@@ -1,6 +1,6 @@
 # Ippei
 
-Ippei is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at Koara, Tokyo on Fri, 31 Jul 2026.
+Ippei is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at Koara, Tokyo on Fri, 31 Jul 2026.
 
 Ippei is a house and techno artist based in Japan, tracked on soundcheck, with 54 sets logged across Tokyo. Often billed alongside guro.det, DAIZEN and Kenjamode. Next up: Koara, Tokyo on Fri 31 Jul.
 
@@ -25,4 +25,4 @@ Ippei is a house and techno artist based in Japan, tracked on soundcheck, with 5
 
 guro.det, DAIZEN, Kenjamode
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/ippei/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/ippei/)*

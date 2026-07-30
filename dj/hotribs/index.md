@@ -1,6 +1,6 @@
 # HOTRIBS
 
-HOTRIBS is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at Cabaret Voltaire, Edinburgh on Fri, 31 Jul 2026.
+HOTRIBS is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at Cabaret Voltaire, Edinburgh on Fri, 31 Jul 2026.
 
 HOTRIBS is a house and tech house artist based in United Kingdom, tracked on soundcheck, with 4 sets logged across Edinburgh and Glasgow. Often billed alongside CIem_, DJ Bz and Danny Snowden. Next up: Cabaret Voltaire, Edinburgh on Fri 31 Jul.
 
@@ -20,4 +20,4 @@ HOTRIBS is a house and tech house artist based in United Kingdom, tracked on sou
 
 CIem_, DJ Bz, Danny Snowden
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/hotribs/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/hotribs/)*

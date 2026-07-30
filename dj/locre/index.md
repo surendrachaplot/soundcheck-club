@@ -1,6 +1,6 @@
 # Locre
 
-Locre is a Club artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at Bar131, Berlin on Thu, 30 Jul 2026.
+Locre is a Club artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at Bar131, Berlin on Thu, 30 Jul 2026.
 
 Locre is a club artist based in Germany, tracked on soundcheck, with 11 sets logged across Berlin. Often billed alongside DJ LOSER, Franarchy and Freestyler (2). Next up: Bar131, Berlin on Thu 30 Jul.
 
@@ -25,4 +25,4 @@ Locre is a club artist based in Germany, tracked on soundcheck, with 11 sets log
 
 DJ LOSER, Franarchy, Freestyler (2)
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/locre/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/locre/)*

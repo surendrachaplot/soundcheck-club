@@ -1,13 +1,14 @@
 # Ceri
 
-Ceri is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Wed, 29 Jul 2026, next at Nocturna, Ibiza on Wed, 2 Sept 2026.
+Ceri is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Thu, 30 Jul 2026, next at The Halley Space, London on Thu, 20 Aug 2026.
 
-Ceri is a house and techno artist based in United Kingdom, tracked on soundcheck, with 38 sets logged across Amsterdam, Austin, Berlin and Bristol and 10 more. Often billed alongside Kerri Chandler, DJ BORING and DJ Deep. Next up: Nocturna, Ibiza on Wed 2 Sept.
+Ceri is a house and techno artist based in United Kingdom, tracked on soundcheck, with 39 sets logged across Amsterdam, Austin, Berlin and Bristol and 10 more. Often billed alongside Kerri Chandler, DJ BORING and DJ Deep. Next up: The Halley Space, London on Thu 20 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Thu, 20 Aug 2026 | The Halley Space | London |
 | Wed, 2 Sept 2026 | Nocturna | Ibiza |
 | Thu, 10 Sept 2026 | Chinois Ibiza | Ibiza |
 
@@ -26,4 +27,4 @@ Ceri is a house and techno artist based in United Kingdom, tracked on soundcheck
 
 Kerri Chandler, DJ BORING, DJ Deep
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/ceri/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/ceri/)*

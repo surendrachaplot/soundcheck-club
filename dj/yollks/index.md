@@ -1,6 +1,6 @@
 # Yollks
 
-Yollks is a Techno and Bass artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at Revolver Upstairs, Melbourne on Fri, 28 Aug 2026.
+Yollks is a Techno and Bass artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at Revolver Upstairs, Melbourne on Fri, 28 Aug 2026.
 
 Yollks is a techno and bass artist based in Australia, tracked on soundcheck, with 49 sets logged across Hobart, London, Melbourne and Sydney. Often billed alongside House Mum, Monfreaq and BDE. Next up: Revolver Upstairs, Melbourne on Fri 28 Aug.
 
@@ -25,4 +25,4 @@ Yollks is a techno and bass artist based in Australia, tracked on soundcheck, wi
 
 House Mum, Monfreaq, BDE
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/yollks/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/yollks/)*

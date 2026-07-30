@@ -1,14 +1,13 @@
 # Jaeger
 
-Jaeger is a music venue in Oslo with 16 upcoming nights listed on soundcheck as of Wed, 29 Jul 2026; the next is "Karmaklubb* & Friends x Frozen Jungle — Garden gathering, Vol. 3 (6)" on Wed, 29 Jul 2026.
+Jaeger is a music venue in Oslo with 15 upcoming nights listed on soundcheck as of Thu, 30 Jul 2026; the next is "VITALITY - This is Inja, DJ SS, Uncle Dugs, MC TODDLAH" on Fri, 31 Jul 2026.
 
-Jaeger is a music venue in Oslo listed on soundcheck. 16 upcoming nights, with line-ups including Alexander Skancke, Alix Perez, blichfeldt and Cody Currie and 2 more. Browse upcoming dates, start times and who's playing. Grensen 9; 0159 Oslo; Norway,.
+Jaeger is a music venue in Oslo listed on soundcheck. 15 upcoming nights, with line-ups including Alexander Skancke, Alix Perez, blichfeldt and Cody Currie and 2 more. Browse upcoming dates, start times and who's playing. Grensen 9; 0159 Oslo; Norway,.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Wed, 29 Jul 2026 | Karmaklubb* & Friends x Frozen Jungle — Garden gathering, Vol. 3 (6) | Ronya |
 | Fri, 31 Jul 2026 | VITALITY - This is Inja, DJ SS, Uncle Dugs, MC TODDLAH | DJ SS, Inja, Uncle Dugs |
 | Fri, 7 Aug 2026 | Frædag: Eden Burns + G-HA & Olanskii + Øyvind Morken + Strangefruit | Eden Burns, G-HA, Olanskii, Øyvind Morken |
 | Sat, 8 Aug 2026 | Nightflight x Fanterier | Tâmitan |
@@ -18,9 +17,10 @@ Jaeger is a music venue in Oslo listed on soundcheck. 16 upcoming nights, with l
 | Sat, 15 Aug 2026 | Øyanatt x Syunkissed: Alexander Skancke | Alexander Skancke, G-HA, Olanskii, Vinny Villbass |
 | Fri, 21 Aug 2026 | Frædag x Basement: Simon Field Release party | Finnebassen, G-HA, Olanskii, Simon Field, blichfeldt |
 | Sat, 22 Aug 2026 | Futoria |  |
+| Fri, 28 Aug 2026 | Frædag: Gerd Janson | G-HA, Gerd Janson, Olanskii, Øyvind Morken |
 
 ## Address
 
 Grensen 9; 0159 Oslo; Norway,, Oslo
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/oslo/club/jaeger/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/oslo/club/jaeger/)*

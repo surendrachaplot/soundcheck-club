@@ -1,6 +1,6 @@
 # NAP (MX)
 
-NAP (MX) is a House and Downtempo artist with 3 upcoming club dates listed on soundcheck as of Wed, 29 Jul 2026, next at Plaza Nightclub, Los Angeles on Thu, 30 Jul 2026.
+NAP (MX) is a House and Downtempo artist with 3 upcoming club dates listed on soundcheck as of Thu, 30 Jul 2026, next at Plaza Nightclub, Los Angeles on Thu, 30 Jul 2026.
 
 NAP (MX) is a house and downtempo artist based in United States of America, tracked on soundcheck, with 49 sets logged across Amsterdam, Berlin, Copenhagen and Lisbon and 12 more. Often billed alongside rodman, Ana Armada and Jimeno Arnaud. Next up: Plaza Nightclub, Losangeles on Thu 30 Jul.
 
@@ -27,4 +27,4 @@ NAP (MX) is a house and downtempo artist based in United States of America, trac
 
 rodman, Ana Armada, Jimeno Arnaud
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/nap-mx/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/nap-mx/)*

@@ -1,6 +1,6 @@
 # Common Occupation
 
-Common Occupation is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at Basing House, London on Fri, 31 Jul 2026.
+Common Occupation is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at Basing House, London on Fri, 31 Jul 2026.
 
 Common Occupation is a house and techno artist based in United Kingdom, tracked on soundcheck, with 4 sets logged across London. Often billed alongside Andre Gabriel, Gus Emmett and Icarus. Next up: Basing House, London on Fri 31 Jul.
 
@@ -20,4 +20,4 @@ Common Occupation is a house and techno artist based in United Kingdom, tracked 
 
 Andre Gabriel, Gus Emmett, Icarus
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/commonoccupation/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/commonoccupation/)*

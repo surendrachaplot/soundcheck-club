@@ -1,6 +1,6 @@
 # Papu Raf
 
-Papu Raf is a Afrobeat and Amapiano artist with 3 upcoming club dates listed on soundcheck as of Wed, 29 Jul 2026, next at The Jazz Cafe, London on Fri, 7 Aug 2026.
+Papu Raf is a Afrobeat and Amapiano artist with 3 upcoming club dates listed on soundcheck as of Thu, 30 Jul 2026, next at The Jazz Cafe, London on Fri, 7 Aug 2026.
 
 Papu Raf is an afrobeat and amapiano artist based in United Kingdom, tracked on soundcheck, with 48 sets logged across Liverpool, London and Manchester. Often billed alongside Amber Rose, Larizzle and Miggs. Next up: The Jazz Cafe, London on Fri 7 Aug.
 
@@ -27,4 +27,4 @@ Papu Raf is an afrobeat and amapiano artist based in United Kingdom, tracked on 
 
 Amber Rose, Larizzle, Miggs
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/papuraf/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/papuraf/)*

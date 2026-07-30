@@ -1,6 +1,6 @@
 # Negativ
 
-Negativ is a Hip-Hop and Electro artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at Boucher Road Fields, Belfast on Sun, 30 Aug 2026.
+Negativ is a Hip-Hop and Electro artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at Boucher Road Fields, Belfast on Sun, 30 Aug 2026.
 
 Negativ is a hip-hop and electro artist tracked on soundcheck, with 10 sets logged across Amsterdam, Belfast, Frankfurt and Warsaw. Often billed alongside A.N.I., Adelix and Azyr. Next up: Boucher Road Fields, Belfast on Sun 30 Aug.
 
@@ -25,4 +25,4 @@ Negativ is a hip-hop and electro artist tracked on soundcheck, with 10 sets logg
 
 A.N.I., Adelix, Azyr
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/negativ/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/negativ/)*

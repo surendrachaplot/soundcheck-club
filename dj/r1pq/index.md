@@ -1,6 +1,6 @@
 # R1pq
 
-R1pq is a Bass and Dubstep artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at ZEROTOKYO, Tokyo on Fri, 7 Aug 2026.
+R1pq is a Bass and Dubstep artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at ZEROTOKYO, Tokyo on Fri, 7 Aug 2026.
 
 R1pq is a bass and dubstep artist based in Japan, tracked on soundcheck, with 28 sets logged across Tokyo. Often billed alongside CRAZYHYUGA, Altemica and SAKO. Next up: ZEROTOKYO, Tokyo on Fri 7 Aug.
 
@@ -25,4 +25,4 @@ R1pq is a bass and dubstep artist based in Japan, tracked on soundcheck, with 28
 
 CRAZYHYUGA, Altemica, SAKO
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/r1pq/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/r1pq/)*

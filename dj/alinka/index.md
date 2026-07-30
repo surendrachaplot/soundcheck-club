@@ -1,6 +1,6 @@
 # Alinka
 
-Alinka is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at Phantom Bar Berlin, Berlin on Thu, 30 Jul 2026.
+Alinka is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at Phantom Bar Berlin, Berlin on Thu, 30 Jul 2026.
 
 Alinka is a house and techno artist tracked on soundcheck, with 109 sets logged across Amsterdam, Athens, Bali and Barcelona and 34 more. Often billed alongside Massimiliano Pagliara, Sara Miller and Shaun J. Wright. Next up: Phantom Bar Berlin, Berlin on Thu 30 Jul.
 
@@ -25,4 +25,4 @@ Alinka is a house and techno artist tracked on soundcheck, with 109 sets logged 
 
 Massimiliano Pagliara, Sara Miller, Shaun J. Wright
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/alinka/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/alinka/)*

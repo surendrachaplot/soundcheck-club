@@ -1,6 +1,6 @@
 # Con Pani
 
-Con Pani is a Experimental and Ambient artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at TBA, Sydney on Thu, 30 Jul 2026.
+Con Pani is a Experimental and Ambient artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at TBA, Sydney on Thu, 30 Jul 2026.
 
 Con Pani is an experimental and ambient artist based in Australia, tracked on soundcheck, with 8 sets logged across Sydney. Often billed alongside Paramat (2), 404.zero and Coki. Next up: TBA, Sydney on Thu 30 Jul.
 
@@ -24,4 +24,4 @@ Con Pani is an experimental and ambient artist based in Australia, tracked on so
 
 Paramat (2), 404.zero, Coki
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/conpani/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/conpani/)*

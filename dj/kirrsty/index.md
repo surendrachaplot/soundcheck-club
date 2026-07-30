@@ -1,6 +1,6 @@
 # kiяsty
 
-kiяsty is a Techno and Industrial artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at Club Phoenix - Gianpula Village, Malta on Sat, 1 Aug 2026.
+kiяsty is a Techno and Industrial artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at Club Phoenix - Gianpula Village, Malta on Sat, 1 Aug 2026.
 
 kiяsty is a techno and industrial artist based in Malta, tracked on soundcheck, with 6 sets logged across Malta. Often billed alongside Eaub, NEVYALC and TRÏÏSS. Next up: Club Phoenix - Gianpula Village, Malta on Sat 1 Aug.
 
@@ -22,4 +22,4 @@ kiяsty is a techno and industrial artist based in Malta, tracked on soundcheck,
 
 Eaub, NEVYALC, TRÏÏSS
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/kirrsty/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/kirrsty/)*

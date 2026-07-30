@@ -1,6 +1,6 @@
 # tanggero
 
-tanggero is a Deep House and Dub Techno artist with 2 upcoming club dates listed on soundcheck as of Wed, 29 Jul 2026, next at Bordello Aperitivo, Amsterdam on Fri, 7 Aug 2026.
+tanggero is a Deep House and Dub Techno artist with 2 upcoming club dates listed on soundcheck as of Thu, 30 Jul 2026, next at Bordello Aperitivo, Amsterdam on Fri, 7 Aug 2026.
 
 tanggero is a deep house and dub techno artist based in Philippines, tracked on soundcheck, with 6 sets logged across Amsterdam. Often billed alongside The Silentist, Giovane Filippo and Frissonn. Next up: Bordello Aperitivo, Amsterdam on Fri 7 Aug.
 
@@ -22,4 +22,4 @@ tanggero is a deep house and dub techno artist based in Philippines, tracked on 
 
 The Silentist, Giovane Filippo, Frissonn
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/tanggero/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/tanggero/)*

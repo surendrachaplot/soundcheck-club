@@ -1,6 +1,6 @@
 # FeR (IT)
 
-FeR (IT) is a Electro and House artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at Born 2B Music Bar, Barcelona on Fri, 7 Aug 2026.
+FeR (IT) is a Electro and House artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at Born 2B Music Bar, Barcelona on Fri, 7 Aug 2026.
 
 FeR (IT) is an electro and house artist based in Italy, tracked on soundcheck, with 19 sets logged across Amsterdam, Barcelona, Berlin and Brighton and 5 more. Often billed alongside DotDe, Oren (IT) and Luval. Next up: Born 2B Music Bar, Barcelona on Fri 7 Aug.
 
@@ -25,4 +25,4 @@ FeR (IT) is an electro and house artist based in Italy, tracked on soundcheck, w
 
 DotDe, Oren (IT), Luval
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/ferit-it/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/ferit-it/)*

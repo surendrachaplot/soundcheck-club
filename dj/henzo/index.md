@@ -1,6 +1,6 @@
 # Henzo
 
-Henzo is a Bass and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at The Golden Lion, Manchester on Sat, 1 Aug 2026.
+Henzo is a Bass and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at The Golden Lion, Manchester on Sat, 1 Aug 2026.
 
 Henzo is a bass and techno artist tracked on soundcheck, with 44 sets logged across Amsterdam, Berlin, Birmingham and Bristol and 9 more. Often billed alongside Emby, Korzi and Aletha. Next up: The Golden Lion, Manchester on Sat 1 Aug.
 
@@ -25,4 +25,4 @@ Henzo is a bass and techno artist tracked on soundcheck, with 44 sets logged acr
 
 Emby, Korzi, Aletha
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/henzo/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/henzo/)*

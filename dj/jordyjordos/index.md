@@ -1,6 +1,6 @@
 # Jordy Jordos
 
-Jordy Jordos is a Techno and Pop artist with 2 upcoming club dates listed on soundcheck as of Wed, 29 Jul 2026, next at Club NYX, Amsterdam on Sat, 8 Aug 2026.
+Jordy Jordos is a Techno and Pop artist with 2 upcoming club dates listed on soundcheck as of Thu, 30 Jul 2026, next at Club NYX, Amsterdam on Sat, 8 Aug 2026.
 
 Jordy Jordos is a techno and pop artist based in Netherlands, tracked on soundcheck, with 2 sets logged across Amsterdam and Rotterdam. Often billed alongside Dangerous Rose, Diklipdaan and Edward Meunier. Next up: Club NYX, Amsterdam on Sat 8 Aug.
 
@@ -15,4 +15,4 @@ Jordy Jordos is a techno and pop artist based in Netherlands, tracked on soundch
 
 Dangerous Rose, Diklipdaan, Edward Meunier
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/jordyjordos/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/jordyjordos/)*

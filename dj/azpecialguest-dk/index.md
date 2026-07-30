@@ -1,6 +1,6 @@
 # Azpecialguest
 
-Azpecialguest is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Wed, 29 Jul 2026, next at Culture Box, Copenhagen on Fri, 7 Aug 2026.
+Azpecialguest is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Thu, 30 Jul 2026, next at Culture Box, Copenhagen on Fri, 7 Aug 2026.
 
 Azpecialguest is a house and techno artist tracked on soundcheck, with 42 sets logged across Amsterdam, Barcelona, Copenhagen and Frankfurt and 2 more. Often billed alongside Aja Gulris, NILU and SCHAARUP. Next up: Culture Box, Copenhagen on Fri 7 Aug.
 
@@ -26,4 +26,4 @@ Azpecialguest is a house and techno artist tracked on soundcheck, with 42 sets l
 
 Aja Gulris, NILU, SCHAARUP
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/azpecialguest-dk/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/azpecialguest-dk/)*

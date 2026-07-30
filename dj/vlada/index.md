@@ -1,14 +1,13 @@
 # Vlada
 
-Vlada is a Techno and House artist with 10 upcoming club dates listed on soundcheck as of Wed, 29 Jul 2026, next at Amsterdamse Bos, Amsterdam on Wed, 29 Jul 2026.
+Vlada is a Techno and House artist with 9 upcoming club dates listed on soundcheck as of Thu, 30 Jul 2026, next at Lux Fragil, Lisbon on Fri, 31 Jul 2026.
 
-Vlada is a techno and house artist tracked on soundcheck, with 190 sets logged across Amsterdam, Antwerp, Bali and Bangkok and 49 more. Often billed alongside Vaahzer, Konduku and Kia (AU). Next up: Amsterdamse Bos, Amsterdam on Wed 29 Jul.
+Vlada is a techno and house artist tracked on soundcheck, with 190 sets logged across Amsterdam, Antwerp, Bali and Bangkok and 49 more. Often billed alongside Vaahzer, Konduku and Kia (AU). Next up: Lux Fragil, Lisbon on Fri 31 Jul.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Wed, 29 Jul 2026 | Amsterdamse Bos | Amsterdam |
 | Fri, 31 Jul 2026 | Lux Fragil | Lisbon |
 | Sat, 1 Aug 2026 | Amsterdamse Bos | Amsterdam |
 | Fri, 14 Aug 2026 | TBA - Klingemühle | Berlin |
@@ -21,6 +20,7 @@ Vlada is a techno and house artist tracked on soundcheck, with 190 sets logged a
 
 ## Recently played
 
+- Amsterdamse Bos, Amsterdam — Wed, 29 Jul 2026
 - Parc Nou. El Prat de Llobregat, Barcelona — Fri, 17 Jul 2026
 - THE MAGICK BAR, Rome — Fri, 17 Jul 2026
 - Made In Cloister, Naples — Thu, 16 Jul 2026
@@ -28,10 +28,9 @@ Vlada is a techno and house artist tracked on soundcheck, with 190 sets logged a
 - TBA, Amsterdam — Thu, 2 Jul 2026
 - OHM, Berlin — Sat, 27 Jun 2026
 - Palais, London — Fri, 26 Jun 2026
-- PAV - Parco Arte Vivente, Turin — Sat, 6 Jun 2026
 
 ## Shares bills with
 
 Vaahzer, Konduku, Kia (AU)
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/vlada/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/vlada/)*

@@ -1,6 +1,6 @@
 # MAHA
 
-MAHA is a electronic artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at Import Export, Munich on Fri, 31 Jul 2026.
+MAHA is a electronic artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at Import Export, Munich on Fri, 31 Jul 2026.
 
 MAHA is an electronic artist based in Germany, tracked on soundcheck, with 5 sets logged across Amsterdam, Berlin, Cologne and Munich. Often billed alongside Tarkan, CLAVD and Cristel Ball. Next up: Import Export, Munich on Fri 31 Jul.
 
@@ -21,4 +21,4 @@ MAHA is an electronic artist based in Germany, tracked on soundcheck, with 5 set
 
 Tarkan, CLAVD, Cristel Ball
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/maha/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/maha/)*

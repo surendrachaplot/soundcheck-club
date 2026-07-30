@@ -1,6 +1,6 @@
 # Civic Underground
 
-Civic Underground is a music venue in Sydney with 6 upcoming nights listed on soundcheck as of Wed, 29 Jul 2026; the next is "The Nexus (Sydney)" on Sat, 1 Aug 2026.
+Civic Underground is a music venue in Sydney with 6 upcoming nights listed on soundcheck as of Thu, 30 Jul 2026; the next is "The Nexus (Sydney)" on Sat, 1 Aug 2026.
 
 Civic Underground is a music venue in Sydney listed on soundcheck. 6 upcoming nights, with line-ups including Cece, Eddy Wells, Ekko and Flowidus and 2 more. Browse upcoming dates, start times and who's playing. 388 Pitt St; Sydney, NSW 2000; Australia.
 
@@ -19,4 +19,4 @@ Civic Underground is a music venue in Sydney listed on soundcheck. 6 upcoming ni
 
 388 Pitt St; Sydney, NSW 2000; Australia, Sydney
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/sydney/club/civic-underground/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/sydney/club/civic-underground/)*

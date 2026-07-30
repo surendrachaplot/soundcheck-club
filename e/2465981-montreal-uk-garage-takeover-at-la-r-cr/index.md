@@ -1,6 +1,6 @@
 # Montreal UK Garage Takeover at La Récré
 
-Montreal UK Garage Takeover at La Récré on Fri 7 Aug, Montreal. 2 acts on the bill: Dargan and IIITHRIII. Drum & Bass and Garage. Preview the line-up and save it on soundcheck.
+Montreal UK Garage Takeover at La Récré on Fri 7 Aug, Montreal. 3 acts on the bill: Dargan, IIITHRIII and KUN (3). Drum & Bass and Garage. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -12,5 +12,6 @@ Montreal UK Garage Takeover at La Récré on Fri 7 Aug, Montreal. 2 acts on the 
 
 - Dargan
 - IIITHRIII
+- KUN (3)
 
 *Source: [soundcheck](https://soundcheck.club/e/2465981-montreal-uk-garage-takeover-at-la-r-cr/)*

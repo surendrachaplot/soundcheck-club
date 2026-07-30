@@ -1,6 +1,6 @@
 # Bby Eco
 
-Bby Eco is a Experimental and Electronica artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at Vespers Club, London on Thu, 30 Jul 2026.
+Bby Eco is a Experimental and Electronica artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at Vespers Club, London on Thu, 30 Jul 2026.
 
 Bby Eco is an experimental and electronica artist tracked on soundcheck, with 16 sets logged across Amsterdam, Barcelona, Berlin and Bristol and 7 more. Often billed alongside Aaron Dilloway, Actress and Akira. Next up: Vespers Club, London on Thu 30 Jul.
 
@@ -25,4 +25,4 @@ Bby Eco is an experimental and electronica artist tracked on soundcheck, with 16
 
 Aaron Dilloway, Actress, Akira
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/bbyeco/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/bbyeco/)*

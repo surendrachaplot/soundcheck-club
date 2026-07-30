@@ -1,14 +1,15 @@
 # moodyjooly
 
-moodyjooly is a Club and House artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at TBA - Toronto outdoor location- info sent via email, on the 1st after 4pm, Toronto on Sat, 1 Aug 2026.
+moodyjooly is a Club and House artist with 2 upcoming club dates listed on soundcheck as of Thu, 30 Jul 2026, next at TBA - Toronto outdoor location- info sent via email, on the 1st after 4pm, Toronto on Sat, 1 Aug 2026.
 
-moodyjooly is a club and house artist tracked on soundcheck, with 31 sets logged across Philadelphia and Toronto. Often billed alongside Coco de Mol, ENSIDER (2) and GUSSYEE. Next up: TBA - Toronto outdoor location- info sent via email, on the 1st after 4pm, Toronto on Sat 1 Aug.
+moodyjooly is a club and house artist tracked on soundcheck, with 32 sets logged across Philadelphia and Toronto. Often billed alongside Coco de Mol, ENSIDER (2) and GUSSYEE. Next up: TBA - Toronto outdoor location- info sent via email, on the 1st after 4pm, Toronto on Sat 1 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 1 Aug 2026 | TBA - Toronto outdoor location- info sent via email, on the 1st after 4pm | Toronto |
+| Sat, 8 Aug 2026 | Cafeteria | Toronto |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ moodyjooly is a club and house artist tracked on soundcheck, with 31 sets logged
 
 Coco de Mol, ENSIDER (2), GUSSYEE
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/moodyjooly/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/moodyjooly/)*

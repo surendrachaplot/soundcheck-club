@@ -1,6 +1,6 @@
 # MystyMoon
 
-MystyMoon is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at Hawthorn, San Francisco/Oakland on Thu, 6 Aug 2026.
+MystyMoon is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at Hawthorn, San Francisco/Oakland on Thu, 6 Aug 2026.
 
 MystyMoon is a techno and house artist based in United States of America, tracked on soundcheck, with 20 sets logged across Sanfrancisco. Often billed alongside JustJovani, SNAQ and Dean Samaras. Next up: Hawthorn, Sanfrancisco on Thu 6 Aug.
 
@@ -25,4 +25,4 @@ MystyMoon is a techno and house artist based in United States of America, tracke
 
 JustJovani, SNAQ, Dean Samaras
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/mystymoon/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/mystymoon/)*

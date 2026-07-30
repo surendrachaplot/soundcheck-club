@@ -1,6 +1,6 @@
 # Garbo (2)
 
-Garbo (2) is a House and Electro artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at Ouseburn Garden, Newcastle on Sat, 12 Sept 2026.
+Garbo (2) is a House and Electro artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at Ouseburn Garden, Newcastle on Sat, 12 Sept 2026.
 
 Garbo (2) is a house and electro artist based in United Kingdom, tracked on soundcheck, with 11 sets logged across Berlin, Liverpool, Manchester and Newcastle. Often billed alongside TriForm, Allius and Cersy. Next up: Ouseburn Garden, Newcastle on Sat 12 Sept.
 
@@ -25,4 +25,4 @@ Garbo (2) is a house and electro artist based in United Kingdom, tracked on soun
 
 TriForm, Allius, Cersy
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/garbo-2/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/garbo-2/)*

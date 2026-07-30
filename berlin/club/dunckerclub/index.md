@@ -1,6 +1,6 @@
 # Dunckerclub
 
-Dunckerclub is a music venue in Berlin with 13 upcoming nights listed on soundcheck as of Wed, 29 Jul 2026; the next is "SØMMERFEST by DJ Ørlög" on Fri, 31 Jul 2026.
+Dunckerclub is a music venue in Berlin with 13 upcoming nights listed on soundcheck as of Thu, 30 Jul 2026; the next is "SØMMERFEST by DJ Ørlög" on Fri, 31 Jul 2026.
 
 Dunckerclub is a music venue in Berlin listed on soundcheck. 13 upcoming nights, with line-ups including Neue K. Browse upcoming dates, start times and who's playing. Dunckerstrasse 64, 10439 Berlin.
 
@@ -23,4 +23,4 @@ Dunckerclub is a music venue in Berlin listed on soundcheck. 13 upcoming nights,
 
 Dunckerstrasse 64, 10439 Berlin, Berlin
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/dunckerclub/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/dunckerclub/)*

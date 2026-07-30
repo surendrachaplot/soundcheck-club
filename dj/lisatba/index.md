@@ -1,6 +1,6 @@
 # lisa tba
 
-lisa tba is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at Tempelhof Airport, Berlin on Sat, 1 Aug 2026.
+lisa tba is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at Tempelhof Airport, Berlin on Sat, 1 Aug 2026.
 
 lisa tba is a techno and trance artist based in Germany, tracked on soundcheck, with 33 sets logged across Berlin, Hamburg, Leipzig and Tbilisi. Often billed alongside Bamela Paywatch, Gwen Wayne and AGILY. Next up: Tempelhof Airport, Berlin on Sat 1 Aug.
 
@@ -25,4 +25,4 @@ lisa tba is a techno and trance artist based in Germany, tracked on soundcheck, 
 
 Bamela Paywatch, Gwen Wayne, AGILY
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/lisatba/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/lisatba/)*

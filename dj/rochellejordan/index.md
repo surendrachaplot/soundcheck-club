@@ -1,6 +1,6 @@
 # Rochelle Jordan
 
-Rochelle Jordan is a House and R&B artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at Button Factory, Dublin on Tue, 25 Aug 2026.
+Rochelle Jordan is a House and R&B artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at Button Factory, Dublin on Tue, 25 Aug 2026.
 
 Rochelle Jordan is a house and r&b artist based in Canada, tracked on soundcheck, with 22 sets logged across Austin, Chicago, Dublin and London and 8 more. Often billed alongside TOKiMONSTA, Bored Lord and CHRYSALIS. Next up: Button Factory, Dublin on Tue 25 Aug.
 
@@ -25,4 +25,4 @@ Rochelle Jordan is a house and r&b artist based in Canada, tracked on soundcheck
 
 TOKiMONSTA, Bored Lord, CHRYSALIS
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/rochellejordan/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/rochellejordan/)*

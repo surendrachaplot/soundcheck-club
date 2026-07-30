@@ -1,6 +1,6 @@
 # Auntie Klockwise
 
-Auntie Klockwise is a Bass and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at M.O.T, London on Sat, 1 Aug 2026.
+Auntie Klockwise is a Bass and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at M.O.T, London on Sat, 1 Aug 2026.
 
 Auntie Klockwise is a bass and techno artist based in Taiwan, tracked on soundcheck, with 9 sets logged across London. Often billed alongside bejeebe, Vince Lam and classtraitor. Next up: M.O.T, London on Sat 1 Aug.
 
@@ -25,4 +25,4 @@ Auntie Klockwise is a bass and techno artist based in Taiwan, tracked on soundch
 
 bejeebe, Vince Lam, classtraitor
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/auntieklockwise/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/auntieklockwise/)*

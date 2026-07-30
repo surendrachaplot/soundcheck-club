@@ -1,6 +1,6 @@
 # PinkPantheress
 
-PinkPantheress is a Pop and Garage artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at Sønder Hoved, Copenhagen on Thu, 30 Jul 2026.
+PinkPantheress is a Pop and Garage artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at Sønder Hoved, Copenhagen on Thu, 30 Jul 2026.
 
 PinkPantheress is a pop and garage artist based in United Kingdom, tracked on soundcheck, with 11 sets logged across Brussels, Copenhagen, Glasgow and London and 5 more. Often billed alongside Bambii, Channel Tres and Jayda G. Next up: Sønder Hoved, Copenhagen on Thu 30 Jul.
 
@@ -25,4 +25,4 @@ PinkPantheress is a pop and garage artist based in United Kingdom, tracked on so
 
 Bambii, Channel Tres, Jayda G
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/pinkpantheress/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/pinkpantheress/)*

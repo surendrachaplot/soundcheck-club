@@ -1,6 +1,6 @@
 # Art of Fighters
 
-Art of Fighters is a Hardcore and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at Parc de la Serra de Mollerussa (Lérida), Barcelona on Sat, 5 Sept 2026.
+Art of Fighters is a Hardcore and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at Parc de la Serra de Mollerussa (Lérida), Barcelona on Sat, 5 Sept 2026.
 
 Art of Fighters is a hardcore and techno artist based in Italy, tracked on soundcheck, with 19 sets logged across Amsterdam, Barcelona, Frankfurt and Geneva and 8 more. Often billed alongside Korsakoff, Tommyknocker and Endymion. Next up: Parc de la Serra de Mollerussa (Lérida), Barcelona on Sat 5 Sept.
 
@@ -25,4 +25,4 @@ Art of Fighters is a hardcore and techno artist based in Italy, tracked on sound
 
 Korsakoff, Tommyknocker, Endymion
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/artoffighters/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/artoffighters/)*

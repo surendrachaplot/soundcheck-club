@@ -1,6 +1,6 @@
 # XTRATAKI
 
-XTRATAKI is a electronic artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at Wanderlust, Paris on Thu, 6 Aug 2026.
+XTRATAKI is a electronic artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at Wanderlust, Paris on Thu, 6 Aug 2026.
 
 XTRATAKI is an electronic artist based in France, tracked on soundcheck, with 16 sets logged across Paris. Often billed alongside Psyber Angel, H.I.A and Techno-Blondy. Next up: Wanderlust, Paris on Thu 6 Aug.
 
@@ -25,4 +25,4 @@ XTRATAKI is an electronic artist based in France, tracked on soundcheck, with 16
 
 Psyber Angel, H.I.A, Techno-Blondy
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/xtrataki/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/xtrataki/)*

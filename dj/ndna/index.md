@@ -1,6 +1,6 @@
 # NDNA
 
-NDNA is a Techno and Tech House artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at Insomnia, Berlin on Fri, 21 Aug 2026.
+NDNA is a Techno and Tech House artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at Insomnia, Berlin on Fri, 21 Aug 2026.
 
 NDNA is a techno and tech house artist tracked on soundcheck, with 12 sets logged across Berlin. Often billed alongside BOHO, Miss Unleashed and Bäggy. Next up: Insomnia, Berlin on Fri 21 Aug.
 
@@ -25,4 +25,4 @@ NDNA is a techno and tech house artist tracked on soundcheck, with 12 sets logge
 
 BOHO, Miss Unleashed, Bäggy
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/ndna/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/ndna/)*

@@ -1,6 +1,6 @@
 # Wheats
 
-Wheats is a Tech House and House artist with 2 upcoming club dates listed on soundcheck as of Wed, 29 Jul 2026, next at Button Factory, Dublin on Sat, 1 Aug 2026.
+Wheats is a Tech House and House artist with 2 upcoming club dates listed on soundcheck as of Thu, 30 Jul 2026, next at Button Factory, Dublin on Sat, 1 Aug 2026.
 
 Wheats is a tech house and house artist tracked on soundcheck, with 124 sets logged across Amsterdam, Austin, Barcelona and Birmingham and 24 more. Often billed alongside ALISHA, East End Dubs and wAFF. Next up: Button Factory, Dublin on Sat 1 Aug.
 
@@ -26,4 +26,4 @@ Wheats is a tech house and house artist tracked on soundcheck, with 124 sets log
 
 ALISHA, East End Dubs, wAFF
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/wheats/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/wheats/)*

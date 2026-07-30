@@ -1,6 +1,6 @@
 # Birgits WEEKENDER at Birgit
 
-Birgits WEEKENDER on Fri 21 Aug, Berlin. 2 acts on the bill: Mabu and Predex. Techno and House. Preview the line-up and save it on soundcheck.
+Birgits WEEKENDER on Fri 21 Aug, Berlin. 4 acts on the bill: Gioski, LOUPING, Mabu and Predex. Techno and House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,6 +10,8 @@ Birgits WEEKENDER on Fri 21 Aug, Berlin. 2 acts on the bill: Mabu and Predex. Te
 
 ## Line-up
 
+- Gioski
+- LOUPING
 - Mabu
 - Predex
 

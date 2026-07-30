@@ -1,6 +1,6 @@
 # 8108STN
 
-8108STN is a Techno and Tech House artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at Union Club, Vauxhall, London on Thu, 30 Jul 2026.
+8108STN is a Techno and Tech House artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at Union Club, Vauxhall, London on Thu, 30 Jul 2026.
 
 8108STN is a techno and tech house artist based in Ireland, tracked on soundcheck, with 2 sets logged across London. Often billed alongside Cosmic Caz, Dhez and Duwat?. Next up: Union Club, Vauxhall, London on Thu 30 Jul.
 
@@ -18,4 +18,4 @@
 
 Cosmic Caz, Dhez, Duwat?
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/8108stn/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/8108stn/)*

@@ -1,6 +1,6 @@
 # nohlim
 
-nohlim is a Drum & Bass and Dubstep artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at Distillery, Leipzig on Fri, 14 Aug 2026.
+nohlim is a Drum & Bass and Dubstep artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at Distillery, Leipzig on Fri, 14 Aug 2026.
 
 nohlim is a drum & bass and dubstep artist based in Germany, tracked on soundcheck, with 6 sets logged across Leipzig. Often billed alongside Relict, audite and ACE. Next up: Distillery, Leipzig on Fri 14 Aug.
 
@@ -22,4 +22,4 @@ nohlim is a drum & bass and dubstep artist based in Germany, tracked on soundche
 
 Relict, audite, ACE
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/nohlim/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/nohlim/)*

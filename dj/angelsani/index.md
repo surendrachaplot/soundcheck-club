@@ -1,14 +1,14 @@
 # Angel Sani
 
-Angel Sani is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at TBA - Studio Stereo, close to pl. Catalunya, 08007, Barcelona, Barcelona on Fri, 14 Aug 2026.
+Angel Sani is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at Studio Stereo, Barcelona on Fri, 14 Aug 2026.
 
-Angel Sani is a house and tech house artist based in Spain, tracked on soundcheck, with 16 sets logged across Barcelona, Ibiza, Madrid and Valencia. Often billed alongside 4Pleasure, Alex Pott and Ion Pananides. Next up: TBA - Studio Stereo, close to pl. Catalunya, 08007, Barcelona, Barcelona on Fri 14 Aug.
+Angel Sani is a house and tech house artist based in Spain, tracked on soundcheck, with 16 sets logged across Barcelona, Ibiza, Madrid and Valencia. Often billed alongside 4Pleasure, Alex Pott and Ion Pananides. Next up: Studio Stereo, Barcelona on Fri 14 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 14 Aug 2026 | TBA - Studio Stereo, close to pl. Catalunya, 08007, Barcelona | Barcelona |
+| Fri, 14 Aug 2026 | Studio Stereo | Barcelona |
 
 ## Recently played
 
@@ -25,4 +25,4 @@ Angel Sani is a house and tech house artist based in Spain, tracked on soundchec
 
 4Pleasure, Alex Pott, Ion Pananides
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/angelsani/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/angelsani/)*

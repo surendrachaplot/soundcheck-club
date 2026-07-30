@@ -1,6 +1,6 @@
 # InsideInfo
 
-InsideInfo is a Drum & Bass and Bass artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at Hackney Wick Multiple Venues, London on Sat, 1 Aug 2026.
+InsideInfo is a Drum & Bass and Bass artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at Hackney Wick Multiple Venues, London on Sat, 1 Aug 2026.
 
 InsideInfo is a drum & bass and bass artist based in United Kingdom, tracked on soundcheck, with 9 sets logged across Berlin, London, Prague and Utrecht. Often billed alongside Black Sun Empire, Ed Rush and Optical. Next up: Hackney Wick Multiple Venues, London on Sat 1 Aug.
 
@@ -25,4 +25,4 @@ InsideInfo is a drum & bass and bass artist based in United Kingdom, tracked on 
 
 Black Sun Empire, Ed Rush, Optical
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/insideinfo/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/insideinfo/)*

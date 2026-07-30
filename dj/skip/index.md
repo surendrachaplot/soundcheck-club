@@ -1,6 +1,6 @@
 # Skip
 
-Skip is a Progressive House and Tech House artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at Piccadilly Central, Manchester on Sat, 29 Aug 2026.
+Skip is a Progressive House and Tech House artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at Piccadilly Central, Manchester on Sat, 29 Aug 2026.
 
 Skip is a progressive house and tech house artist based in United Kingdom, tracked on soundcheck, with 4 sets logged across Berlin and Manchester. Often billed alongside The Brokers, Demetae and Róisín W. Next up: Piccadilly Central, Manchester on Sat 29 Aug.
 
@@ -20,4 +20,4 @@ Skip is a progressive house and tech house artist based in United Kingdom, track
 
 The Brokers, Demetae, Róisín W
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/skip/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/skip/)*

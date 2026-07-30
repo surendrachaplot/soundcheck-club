@@ -1,6 +1,6 @@
 # Peter Adjaye
 
-Peter Adjaye is a Deep House and Afro House artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at Secret Location, London on Sat, 1 Aug 2026.
+Peter Adjaye is a Deep House and Afro House artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at Secret Location, London on Sat, 1 Aug 2026.
 
 Peter Adjaye is a deep house and afro house artist based in Ghana, tracked on soundcheck, with 2 sets logged across London. Often billed alongside Awkward Moments, Bekefi and DJ Knowledge. Next up: Secret Location, London on Sat 1 Aug.
 
@@ -18,4 +18,4 @@ Peter Adjaye is a deep house and afro house artist based in Ghana, tracked on so
 
 Awkward Moments, Bekefi, DJ Knowledge
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/peteradjaye/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/peteradjaye/)*

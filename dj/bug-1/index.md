@@ -1,6 +1,6 @@
 # Bug (1)
 
-Bug (1) is a Trance and New Wave artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at Zuiderpark, Rotterdam on Fri, 11 Sept 2026.
+Bug (1) is a Trance and New Wave artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at Zuiderpark, Rotterdam on Fri, 11 Sept 2026.
 
 Bug (1) is a trance and new wave artist tracked on soundcheck, with 8 sets logged across Amsterdam, Budapest, Rotterdam and Tokyo. Often billed alongside Kiqo, baeker and Bakey. Next up: Zuiderpark, Rotterdam on Fri 11 Sept.
 
@@ -24,4 +24,4 @@ Bug (1) is a trance and new wave artist tracked on soundcheck, with 8 sets logge
 
 Kiqo, baeker, Bakey
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/bug-1/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/bug-1/)*

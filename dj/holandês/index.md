@@ -1,6 +1,6 @@
 # holandês
 
-holandês is a Bass and Baile Funk artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at La Gravière, Geneva on Sat, 1 Aug 2026.
+holandês is a Bass and Baile Funk artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at La Gravière, Geneva on Sat, 1 Aug 2026.
 
 holandês is a bass and baile funk artist based in Brazil, tracked on soundcheck, with 7 sets logged across Berlin, Bristol, Geneva and Hamburg and 3 more. Often billed alongside Rythme Brisé, Aliceyuki and BADSISTA. Next up: La Gravière, Geneva on Sat 1 Aug.
 
@@ -23,4 +23,4 @@ holandês is a bass and baile funk artist based in Brazil, tracked on soundcheck
 
 Rythme Brisé, Aliceyuki, BADSISTA
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/holandês/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/holandês/)*

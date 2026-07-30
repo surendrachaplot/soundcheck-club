@@ -1,6 +1,6 @@
 # Jade Rolt
 
-Jade Rolt is a House and Downtempo artist with 2 upcoming club dates listed on soundcheck as of Wed, 29 Jul 2026, next at TBA, Barcelona on Sat, 1 Aug 2026.
+Jade Rolt is a House and Downtempo artist with 2 upcoming club dates listed on soundcheck as of Thu, 30 Jul 2026, next at TBA, Barcelona on Sat, 1 Aug 2026.
 
 Jade Rolt is a house and downtempo artist based in Spain, tracked on soundcheck, with 23 sets logged across Barcelona. Often billed alongside Eli Kapowski, Isa Rojas and Dixon. Next up: TBA, Barcelona on Sat 1 Aug.
 
@@ -9,7 +9,7 @@ Jade Rolt is a house and downtempo artist based in Spain, tracked on soundcheck,
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 1 Aug 2026 | TBA | Barcelona |
-| Thu, 6 Aug 2026 | TBA - Studio Stereo, close to pl. Catalunya, 08007, Barcelona | Barcelona |
+| Thu, 6 Aug 2026 | Studio Stereo | Barcelona |
 
 ## Recently played
 
@@ -26,4 +26,4 @@ Jade Rolt is a house and downtempo artist based in Spain, tracked on soundcheck,
 
 Eli Kapowski, Isa Rojas, Dixon
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/jaderolt/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/jaderolt/)*

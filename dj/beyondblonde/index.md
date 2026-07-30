@@ -1,6 +1,6 @@
 # Beyond Blonde
 
-Beyond Blonde is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at Basing House, London on Sun, 2 Aug 2026.
+Beyond Blonde is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at Basing House, London on Sun, 2 Aug 2026.
 
 Beyond Blonde is a house and tech house artist based in United Kingdom, tracked on soundcheck, with 6 sets logged across London. Often billed alongside House of Allegro, 10:35 and Clara Vox. Next up: Basing House, London on Sun 2 Aug.
 
@@ -22,4 +22,4 @@ Beyond Blonde is a house and tech house artist based in United Kingdom, tracked 
 
 House of Allegro, 10:35, Clara Vox
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/beyondblonde/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/beyondblonde/)*

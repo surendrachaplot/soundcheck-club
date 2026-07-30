@@ -1,6 +1,6 @@
 # The Crystal Method
 
-The Crystal Method is a Breakbeat and Electronica artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at Scout Bar, Houston on Sat, 1 Aug 2026.
+The Crystal Method is a Breakbeat and Electronica artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at Scout Bar, Houston on Sat, 1 Aug 2026.
 
 The Crystal Method is a breakbeat and electronica artist based in United States of America, tracked on soundcheck, with 11 sets logged across Austin, Denver, Detroit and Houston and 5 more. Often billed alongside Paul Oakenfold, Orbital and DJ Hyper. Next up: Scout Bar, Houston on Sat 1 Aug.
 
@@ -25,4 +25,4 @@ The Crystal Method is a breakbeat and electronica artist based in United States 
 
 Paul Oakenfold, Orbital, DJ Hyper
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/thecrystalmethod/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/thecrystalmethod/)*

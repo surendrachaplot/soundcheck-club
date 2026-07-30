@@ -1,6 +1,6 @@
 # Tíago
 
-Tíago is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at Ministerium Club, Lisbon on Fri, 31 Jul 2026.
+Tíago is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at Ministerium Club, Lisbon on Fri, 31 Jul 2026.
 
 Tíago is a house and techno artist based in Portugal, tracked on soundcheck, with 75 sets logged across Lisbon and Porto. Often billed alongside Helio, Manuel Cotta and Solid-Funk. Next up: Ministerium Club, Lisbon on Fri 31 Jul.
 
@@ -25,4 +25,4 @@ Tíago is a house and techno artist based in Portugal, tracked on soundcheck, wi
 
 Helio, Manuel Cotta, Solid-Funk
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/tiago-pt/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/tiago-pt/)*

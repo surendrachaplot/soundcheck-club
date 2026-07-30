@@ -1,6 +1,6 @@
 # Phoebe Massey
 
-Phoebe Massey is a Funk / Soul and Ambient artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at The Fox and Firkin, London on Fri, 31 Jul 2026.
+Phoebe Massey is a Funk / Soul and Ambient artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at The Fox and Firkin, London on Fri, 31 Jul 2026.
 
 Phoebe Massey is a funk / soul and ambient artist tracked on soundcheck, with 6 sets logged across London. Often billed alongside Tekhole, veryt and Moina Moin. Next up: The Fox and Firkin, London on Fri 31 Jul.
 
@@ -22,4 +22,4 @@ Phoebe Massey is a funk / soul and ambient artist tracked on soundcheck, with 6 
 
 Tekhole, veryt, Moina Moin
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/phoebemassey/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/phoebemassey/)*

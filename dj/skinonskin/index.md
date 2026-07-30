@@ -1,14 +1,13 @@
 # Skin On Skin
 
-Skin On Skin is a Techno and House artist with 16 upcoming club dates listed on soundcheck as of Wed, 29 Jul 2026, next at Amsterdamse Bos, Amsterdam on Wed, 29 Jul 2026.
+Skin On Skin is a Techno and House artist with 15 upcoming club dates listed on soundcheck as of Thu, 30 Jul 2026, next at Amsterdamse Bos, Amsterdam on Fri, 31 Jul 2026.
 
-Skin On Skin is a techno and house artist tracked on soundcheck, with 128 sets logged across Aberdeen, Amsterdam, Antwerp and Auckland and 51 more. Often billed alongside KETTAMA, Mall Grab and CRUSH3d. Next up: Amsterdamse Bos, Amsterdam on Wed 29 Jul.
+Skin On Skin is a techno and house artist tracked on soundcheck, with 128 sets logged across Aberdeen, Amsterdam, Antwerp and Auckland and 51 more. Often billed alongside KETTAMA, Mall Grab and CRUSH3d. Next up: Amsterdamse Bos, Amsterdam on Fri 31 Jul.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Wed, 29 Jul 2026 | Amsterdamse Bos | Amsterdam |
 | Fri, 31 Jul 2026 | Amsterdamse Bos | Amsterdam |
 | Sun, 2 Aug 2026 | Palmerstown House Estate | Dublin |
 | Thu, 6 Aug 2026 | Trädgården | Stockholm |
@@ -20,9 +19,11 @@ Skin On Skin is a techno and house artist tracked on soundcheck, with 128 sets l
 | Sat, 12 Sept 2026 | TBA | Washington DC |
 | Fri, 25 Sept 2026 | The Warehouse | Leeds |
 | Fri, 2 Oct 2026 | Cité du Cinéma | Paris |
+| Sat, 10 Oct 2026 | Depot Mayfield | Manchester |
 
 ## Recently played
 
+- Amsterdamse Bos, Amsterdam — Wed, 29 Jul 2026
 - Amnesia Ibiza, Ibiza — Mon, 27 Jul 2026
 - Tivoli, Brisbane — Fri, 17 Jul 2026
 - Carriageworks, Sydney — Fri, 12 Jun 2026
@@ -30,10 +31,9 @@ Skin On Skin is a techno and house artist tracked on soundcheck, with 128 sets l
 - Fortune Sound Club, Vancouver — Sat, 23 May 2026
 - The Locale, Glasgow — Sun, 29 Mar 2026
 - The Berkeley Suite, Glasgow — Sun, 29 Mar 2026
-- Den Anden Side, Copenhagen — Fri, 27 Mar 2026
 
 ## Shares bills with
 
 KETTAMA, Mall Grab, CRUSH3d
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/skinonskin/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/skinonskin/)*

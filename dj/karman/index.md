@@ -1,6 +1,6 @@
 # Karman
 
-Karman is a Industrial and Electronica artist with 2 upcoming club dates listed on soundcheck as of Wed, 29 Jul 2026, next at Quarry, Liverpool on Fri, 7 Aug 2026.
+Karman is a Industrial and Electronica artist with 2 upcoming club dates listed on soundcheck as of Thu, 30 Jul 2026, next at Quarry, Liverpool on Fri, 7 Aug 2026.
 
 Karman is an industrial and electronica artist based in United Kingdom, tracked on soundcheck, with 5 sets logged across Liverpool and London. Often billed alongside Crimewave, Insurrect and MYOHMY. Next up: Quarry, Liverpool on Fri 7 Aug.
 
@@ -21,4 +21,4 @@ Karman is an industrial and electronica artist based in United Kingdom, tracked 
 
 Crimewave, Insurrect, MYOHMY
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/karman/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/karman/)*

@@ -1,6 +1,6 @@
 # Chino Latino
 
-Chino Latino is a electronic artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at Macarena Club, Barcelona on Thu, 6 Aug 2026.
+Chino Latino is a electronic artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at Macarena Club, Barcelona on Thu, 6 Aug 2026.
 
 Chino Latino is an electronic artist based in Argentina, tracked on soundcheck, with 10 sets logged across Barcelona. Often billed alongside Mariano Cima, enem and Aleski. Next up: Macarena Club, Barcelona on Thu 6 Aug.
 
@@ -25,4 +25,4 @@ Chino Latino is an electronic artist based in Argentina, tracked on soundcheck, 
 
 Mariano Cima, enem, Aleski
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/chinolatino/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/chinolatino/)*

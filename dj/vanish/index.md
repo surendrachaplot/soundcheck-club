@@ -1,6 +1,6 @@
 # Vanish
 
-Vanish is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at Continental Club, San Francisco/Oakland on Sat, 1 Aug 2026.
+Vanish is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at Continental Club, San Francisco/Oakland on Sat, 1 Aug 2026.
 
 Vanish is a house and techno artist based in Germany, tracked on soundcheck, with 7 sets logged across Munich and Sanfrancisco. Often billed alongside Ele Luz, Hannes Turm and Kotoe. Next up: Continental Club, Sanfrancisco on Sat 1 Aug.
 
@@ -23,4 +23,4 @@ Vanish is a house and techno artist based in Germany, tracked on soundcheck, wit
 
 Ele Luz, Hannes Turm, Kotoe
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/vanish/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/vanish/)*

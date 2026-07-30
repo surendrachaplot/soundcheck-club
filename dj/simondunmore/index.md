@@ -1,6 +1,6 @@
 # Simon Dunmore
 
-Simon Dunmore is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at The Horse & Groom, London on Sat, 1 Aug 2026.
+Simon Dunmore is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at The Horse & Groom, London on Sat, 1 Aug 2026.
 
 Simon Dunmore is a house and disco artist based in United Kingdom, tracked on soundcheck, with 17 sets logged across Auckland, Bali, Brisbane and Ibiza and 3 more. Often billed alongside Natasha Diggs, Melvo Baptiste and DJ EZ. Next up: The Horse & Groom, London on Sat 1 Aug.
 
@@ -25,4 +25,4 @@ Simon Dunmore is a house and disco artist based in United Kingdom, tracked on so
 
 Natasha Diggs, Melvo Baptiste, DJ EZ
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/simondunmore/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/simondunmore/)*

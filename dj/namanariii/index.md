@@ -1,13 +1,14 @@
 # namanariii
 
-namanariii is a Techno and Breakbeat artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at Le Red Room, Montreal on Sun, 16 Aug 2026.
+namanariii is a Techno and Breakbeat artist with 2 upcoming club dates listed on soundcheck as of Thu, 30 Jul 2026, next at ESC, Montreal on Sat, 8 Aug 2026.
 
-namanariii is a techno and breakbeat artist based in Lebanon, tracked on soundcheck, with 22 sets logged across Montreal and Prague. Often billed alongside jiimi, ucanquit and BUYMEFLOVVERS. Next up: Le Red Room, Montreal on Sun 16 Aug.
+namanariii is a techno and breakbeat artist based in Lebanon, tracked on soundcheck, with 23 sets logged across Montreal and Prague. Often billed alongside jiimi, ucanquit and BUYMEFLOVVERS. Next up: ESC, Montreal on Sat 8 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 8 Aug 2026 | ESC | Montreal |
 | Sun, 16 Aug 2026 | Le Red Room | Montreal |
 
 ## Recently played
@@ -25,4 +26,4 @@ namanariii is a techno and breakbeat artist based in Lebanon, tracked on soundch
 
 jiimi, ucanquit, BUYMEFLOVVERS
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/namanariii/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/namanariii/)*

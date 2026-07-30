@@ -1,6 +1,6 @@
 # flik
 
-flik is a House and Garage artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at The Ivy, Sydney on Sat, 1 Aug 2026.
+flik is a House and Garage artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at The Ivy, Sydney on Sat, 1 Aug 2026.
 
 flik is a house and garage artist based in Australia, tracked on soundcheck, with 3 sets logged across Sydney. Often billed alongside Keavsz, Yemisul and pip-pi. Next up: The Ivy, Sydney on Sat 1 Aug.
 
@@ -19,4 +19,4 @@ flik is a house and garage artist based in Australia, tracked on soundcheck, wit
 
 Keavsz, Yemisul, pip-pi
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/flik/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/flik/)*

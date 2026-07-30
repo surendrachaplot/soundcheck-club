@@ -1,6 +1,6 @@
 # CRUHDA
 
-CRUHDA is a Experimental and Pop artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at arkaoda Berlin, Berlin on Thu, 6 Aug 2026.
+CRUHDA is a Experimental and Pop artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at arkaoda Berlin, Berlin on Thu, 6 Aug 2026.
 
 CRUHDA is an experimental and pop artist based in Spain, tracked on soundcheck, with 2 sets logged across Berlin. Often billed alongside Cocktail Twinks, ECACCIO and Irakli. Next up: arkaoda Berlin, Berlin on Thu 6 Aug.
 
@@ -18,4 +18,4 @@ CRUHDA is an experimental and pop artist based in Spain, tracked on soundcheck, 
 
 Cocktail Twinks, ECACCIO, Irakli
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/cruhda/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/cruhda/)*

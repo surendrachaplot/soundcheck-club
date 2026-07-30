@@ -1,6 +1,6 @@
 # Maroje T
 
-Maroje T is a New Wave and Balearic artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at Bossa Nova Civic Club, New York City on Thu, 30 Jul 2026.
+Maroje T is a New Wave and Balearic artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at Bossa Nova Civic Club, New York City on Thu, 30 Jul 2026.
 
 Maroje T is a new wave and balearic artist based in United States of America, tracked on soundcheck, with 17 sets logged across Newyorkcity. Often billed alongside Amourette, Intergalactic Gary and JDH & Dave P. Next up: Bossa Nova Civic Club, Newyorkcity on Thu 30 Jul.
 
@@ -25,4 +25,4 @@ Maroje T is a new wave and balearic artist based in United States of America, tr
 
 Amourette, Intergalactic Gary, JDH & Dave P
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/marojet/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/marojet/)*

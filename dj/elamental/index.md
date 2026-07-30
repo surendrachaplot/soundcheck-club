@@ -1,6 +1,6 @@
 # ELA MENTAL
 
-ELA MENTAL is a Techno and Trance artist with 2 upcoming club dates listed on soundcheck as of Wed, 29 Jul 2026, next at The Stud, San Francisco/Oakland on Thu, 30 Jul 2026.
+ELA MENTAL is a Techno and Trance artist with 2 upcoming club dates listed on soundcheck as of Thu, 30 Jul 2026, next at The Stud, San Francisco/Oakland on Thu, 30 Jul 2026.
 
 ELA MENTAL is a techno and trance artist based in United States of America, tracked on soundcheck, with 13 sets logged across Sanfrancisco. Often billed alongside Lil Laurie, Axela and CASPII. Next up: The Stud, Sanfrancisco on Thu 30 Jul.
 
@@ -26,4 +26,4 @@ ELA MENTAL is a techno and trance artist based in United States of America, trac
 
 Lil Laurie, Axela, CASPII
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/elamental/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/elamental/)*

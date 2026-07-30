@@ -1,6 +1,6 @@
 # Decimel
 
-Decimel is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at McCarren Park, New York City on Sat, 1 Aug 2026.
+Decimel is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at McCarren Park, New York City on Sat, 1 Aug 2026.
 
 Decimel is a house and tech house artist based in United States of America, tracked on soundcheck, with 10 sets logged across London and Newyorkcity. Often billed alongside Astro Raw, Bianca and Cali Lanauze. Next up: McCarren Park, Newyorkcity on Sat 1 Aug.
 
@@ -25,4 +25,4 @@ Decimel is a house and tech house artist based in United States of America, trac
 
 Astro Raw, Bianca, Cali Lanauze
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/decimel/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/decimel/)*

@@ -1,14 +1,13 @@
 # CCL
 
-CCL is a Techno and House artist with 10 upcoming club dates listed on soundcheck as of Wed, 29 Jul 2026, next at Amsterdamse Bos, Amsterdam on Wed, 29 Jul 2026.
+CCL is a Techno and House artist with 9 upcoming club dates listed on soundcheck as of Thu, 30 Jul 2026, next at Amsterdamse Bos, Amsterdam on Sat, 1 Aug 2026.
 
-CCL is a techno and house artist tracked on soundcheck, with 200 sets logged across Amsterdam, Auckland, Austin and Barcelona and 56 more. Often billed alongside Objekt, Eris Drew and Octo Octa. Next up: Amsterdamse Bos, Amsterdam on Wed 29 Jul.
+CCL is a techno and house artist tracked on soundcheck, with 200 sets logged across Amsterdam, Auckland, Austin and Barcelona and 56 more. Often billed alongside Objekt, Eris Drew and Octo Octa. Next up: Amsterdamse Bos, Amsterdam on Sat 1 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Wed, 29 Jul 2026 | Amsterdamse Bos | Amsterdam |
 | Sat, 1 Aug 2026 | Amsterdamse Bos | Amsterdam |
 | Sun, 2 Aug 2026 | Amsterdamse Bos | Amsterdam |
 | Sun, 2 Aug 2026 | Garage Noord | Amsterdam |
@@ -21,6 +20,7 @@ CCL is a techno and house artist tracked on soundcheck, with 200 sets logged acr
 
 ## Recently played
 
+- Amsterdamse Bos, Amsterdam — Wed, 29 Jul 2026
 - OXI, Berlin — Fri, 24 Jul 2026
 - 90mil, Berlin — Thu, 23 Jul 2026
 - Parc Nou. El Prat de Llobregat, Barcelona — Fri, 17 Jul 2026
@@ -28,10 +28,9 @@ CCL is a techno and house artist tracked on soundcheck, with 200 sets logged acr
 - Brutus, Rotterdam — Sat, 27 Jun 2026
 - RSO.BERLIN, Berlin — Sat, 27 Jun 2026
 - Centro Cultural Conde Duque, Madrid — Sat, 13 Jun 2026
-- Tresor / Globus, Berlin — Fri, 12 Jun 2026
 
 ## Shares bills with
 
 Objekt, Eris Drew, Octo Octa
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/ccl/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/ccl/)*

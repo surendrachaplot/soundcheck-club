@@ -1,8 +1,8 @@
 # SUSKA
 
-SUSKA is a Techno and Psytrance artist with 3 upcoming club dates listed on soundcheck as of Wed, 29 Jul 2026, next at Dürener Badesee, Cologne on Fri, 28 Aug 2026.
+SUSKA is a Techno and Psytrance artist with 4 upcoming club dates listed on soundcheck as of Thu, 30 Jul 2026, next at Dürener Badesee, Cologne on Fri, 28 Aug 2026.
 
-SUSKA is a techno and psytrance artist tracked on soundcheck, with 15 sets logged across Berlin, Cologne and Ghent. Often billed alongside Johannes Schuster, Alignment and Vagabund. Next up: Dürener Badesee, Cologne on Fri 28 Aug.
+SUSKA is a techno and psytrance artist tracked on soundcheck, with 16 sets logged across Berlin, Cologne and Ghent. Often billed alongside Johannes Schuster, Alignment and Vagabund. Next up: Dürener Badesee, Cologne on Fri 28 Aug.
 
 ## Upcoming shows
 
@@ -11,6 +11,7 @@ SUSKA is a techno and psytrance artist tracked on soundcheck, with 15 sets logge
 | Fri, 28 Aug 2026 | Dürener Badesee | Cologne |
 | Fri, 28 Aug 2026 | Dürener Badesee | Cologne |
 | Fri, 9 Oct 2026 | OST | Berlin |
+| Fri, 9 Oct 2026 | CLUB OST & RENATE BERLIN | Berlin |
 
 ## Recently played
 
@@ -27,4 +28,4 @@ SUSKA is a techno and psytrance artist tracked on soundcheck, with 15 sets logge
 
 Johannes Schuster, Alignment, Vagabund
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/suska/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/suska/)*

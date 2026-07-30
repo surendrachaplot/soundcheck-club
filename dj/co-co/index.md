@@ -1,6 +1,6 @@
 # co:co
 
-co:co is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at Lehmann Club, Stuttgart on Fri, 31 Jul 2026.
+co:co is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at Lehmann Club, Stuttgart on Fri, 31 Jul 2026.
 
 co:co is a techno and trance artist tracked on soundcheck, with 50 sets logged across Berlin, Cologne, Hamburg and Leipzig and 1 more. Often billed alongside AKIIM, Elon Bass and SPORTMANN. Next up: Lehmann Club, Stuttgart on Fri 31 Jul.
 
@@ -25,4 +25,4 @@ co:co is a techno and trance artist tracked on soundcheck, with 50 sets logged a
 
 AKIIM, Elon Bass, SPORTMANN
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/co-co/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/co-co/)*

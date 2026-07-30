@@ -1,6 +1,6 @@
 # Ike Release
 
-Ike Release is a Acid and House artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at Bossa Nova Civic Club, New York City on Sun, 16 Aug 2026.
+Ike Release is a Acid and House artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at Bossa Nova Civic Club, New York City on Sun, 16 Aug 2026.
 
 Ike Release is an acid and house artist based in United States of America, tracked on soundcheck, with 17 sets logged across Chicago, Newyorkcity and Washingtondc. Often billed alongside Lårry, Mike Servito and m50. Next up: Bossa Nova Civic Club, Newyorkcity on Sun 16 Aug.
 
@@ -25,4 +25,4 @@ Ike Release is an acid and house artist based in United States of America, track
 
 Lårry, Mike Servito, m50
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/ikerelease/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/ikerelease/)*

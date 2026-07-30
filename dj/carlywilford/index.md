@@ -1,6 +1,6 @@
 # Carly Wilford
 
-Carly Wilford is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at Egg London, London on Sat, 22 Aug 2026.
+Carly Wilford is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at Egg London, London on Sat, 22 Aug 2026.
 
 Carly Wilford is a house and tech house artist based in United Kingdom, tracked on soundcheck, with 28 sets logged across Amsterdam, Brighton, Ibiza and Leeds and 1 more. Often billed alongside Alexis Knox, BIIANCO and Chrisy Stebbeds. Next up: Egg London, London on Sat 22 Aug.
 
@@ -25,4 +25,4 @@ Carly Wilford is a house and tech house artist based in United Kingdom, tracked 
 
 Alexis Knox, BIIANCO, Chrisy Stebbeds
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/carlywilford/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/carlywilford/)*

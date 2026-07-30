@@ -1,6 +1,6 @@
 # otisworming
 
-otisworming is a Electronica and Club artist with 2 upcoming club dates listed on soundcheck as of Wed, 29 Jul 2026, next at The Outhouse, Edinburgh on Sat, 8 Aug 2026.
+otisworming is a Electronica and Club artist with 2 upcoming club dates listed on soundcheck as of Thu, 30 Jul 2026, next at The Outhouse, Edinburgh on Sat, 8 Aug 2026.
 
 otisworming is an electronica and club artist based in United Kingdom, tracked on soundcheck, with 19 sets logged across Edinburgh. Often billed alongside Ravelston, Ann Tweak and al gu. Next up: The Outhouse, Edinburgh on Sat 8 Aug.
 
@@ -26,4 +26,4 @@ otisworming is an electronica and club artist based in United Kingdom, tracked o
 
 Ravelston, Ann Tweak, al gu
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/otisworming/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/otisworming/)*

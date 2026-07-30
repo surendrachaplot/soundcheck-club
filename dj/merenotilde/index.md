@@ -1,6 +1,6 @@
 # Mere Notilde
 
-Mere Notilde is a House and Experimental artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at Cloud & Spirits, Boston on Sat, 1 Aug 2026.
+Mere Notilde is a House and Experimental artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at Cloud & Spirits, Boston on Sat, 1 Aug 2026.
 
 Mere Notilde is a house and experimental artist based in United States of America, tracked on soundcheck, with 5 sets logged across Boston and Toronto. Often billed alongside destracshn, BRATATTACK and Fibre. Next up: Cloud & Spirits, Boston on Sat 1 Aug.
 
@@ -21,4 +21,4 @@ Mere Notilde is a house and experimental artist based in United States of Americ
 
 destracshn, BRATATTACK, Fibre
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/merenotilde/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/merenotilde/)*

@@ -1,6 +1,6 @@
 # Rausch & Farbe
 
-Rausch & Farbe is a Techno and Tech House artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at Coda Club, Hamburg on Fri, 31 Jul 2026.
+Rausch & Farbe is a Techno and Tech House artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at Coda Club, Hamburg on Fri, 31 Jul 2026.
 
 Rausch & Farbe are a techno and tech house duo based in Germany, tracked on soundcheck, with 11 sets logged across Berlin and Hamburg. Often billed alongside Wiebe Roose, BOHO and Calypsis. Next up: Coda Club, Hamburg on Fri 31 Jul.
 
@@ -25,4 +25,4 @@ Rausch & Farbe are a techno and tech house duo based in Germany, tracked on soun
 
 Wiebe Roose, BOHO, Calypsis
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/rauschfarbe/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/rauschfarbe/)*

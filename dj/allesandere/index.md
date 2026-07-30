@@ -1,6 +1,6 @@
 # Alles Andere
 
-Alles Andere is a Electronica and Progressive House artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at BLITZ, Munich on Fri, 31 Jul 2026.
+Alles Andere is a Electronica and Progressive House artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at BLITZ, Munich on Fri, 31 Jul 2026.
 
 Alles Andere is an electronica and progressive house artist based in Italy, tracked on soundcheck, with 19 sets logged across Berlin, Frankfurt, Munich and Naples. Often billed alongside Lavandonia, Alessio Barletta and Olli Rubber. Next up: BLITZ, Munich on Fri 31 Jul.
 
@@ -25,4 +25,4 @@ Alles Andere is an electronica and progressive house artist based in Italy, trac
 
 Lavandonia, Alessio Barletta, Olli Rubber
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/allesandere/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/allesandere/)*

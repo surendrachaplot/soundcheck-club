@@ -1,6 +1,6 @@
 # Gerard Not Gerald
 
-Gerard Not Gerald is a Techno and Acid artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at TBA - Los Angeles (Warehouse), Los Angeles on Fri, 7 Aug 2026.
+Gerard Not Gerald is a Techno and Acid artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at TBA - Los Angeles (Warehouse), Los Angeles on Fri, 7 Aug 2026.
 
 Gerard Not Gerald is a techno and acid artist tracked on soundcheck, with 27 sets logged across Austin, Losangeles and Sandiego. Often billed alongside Aundreja, Ben Klock and Joel Mull. Next up: TBA - Los Angeles (Warehouse), Losangeles on Fri 7 Aug.
 
@@ -25,4 +25,4 @@ Gerard Not Gerald is a techno and acid artist tracked on soundcheck, with 27 set
 
 Aundreja, Ben Klock, Joel Mull
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/gerardnotgerald/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/gerardnotgerald/)*

@@ -1,6 +1,6 @@
 # Katie Baxter
 
-Katie Baxter is a House and Garage artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at Dalston Superstore, London on Fri, 31 Jul 2026.
+Katie Baxter is a House and Garage artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at Dalston Superstore, London on Fri, 31 Jul 2026.
 
 Katie Baxter is a house and garage artist based in United Kingdom, tracked on soundcheck, with 15 sets logged across Bristol and London. Often billed alongside Jess Hands, Jaguar and Jessie Mac. Next up: Dalston Superstore, London on Fri 31 Jul.
 
@@ -25,4 +25,4 @@ Katie Baxter is a house and garage artist based in United Kingdom, tracked on so
 
 Jess Hands, Jaguar, Jessie Mac
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/katiebaxter/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/katiebaxter/)*

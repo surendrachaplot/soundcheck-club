@@ -1,6 +1,6 @@
 # Soria
 
-Soria is a Minimal and Dub artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at Blue Room, Montreal on Thu, 30 Jul 2026.
+Soria is a Minimal and Dub artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at Blue Room, Montreal on Thu, 30 Jul 2026.
 
 Soria is a minimal and dub artist tracked on soundcheck, with 11 sets logged across Buenosaires and Montreal. Often billed alongside Luminescu, Moox and Ohm Hourani. Next up: Blue Room, Montreal on Thu 30 Jul.
 
@@ -25,4 +25,4 @@ Soria is a minimal and dub artist tracked on soundcheck, with 11 sets logged acr
 
 Luminescu, Moox, Ohm Hourani
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/soria-ca/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/soria-ca/)*

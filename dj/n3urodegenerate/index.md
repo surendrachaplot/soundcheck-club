@@ -1,6 +1,6 @@
 # N3urodegenerate
 
-N3urodegenerate is a Techno and Experimental artist with 2 upcoming club dates listed on soundcheck as of Wed, 29 Jul 2026, next at Sinners and Saints, Washington DC on Fri, 31 Jul 2026.
+N3urodegenerate is a Techno and Experimental artist with 2 upcoming club dates listed on soundcheck as of Thu, 30 Jul 2026, next at Sinners and Saints, Washington DC on Fri, 31 Jul 2026.
 
 N3urodegenerate is a techno and experimental artist based in United States of America, tracked on soundcheck, with 9 sets logged across Newyorkcity and Washingtondc. Often billed alongside Ether Pleaser, Vivian Oblivion and Adrian Hex. Next up: Sinners and Saints, Washingtondc on Fri 31 Jul.
 
@@ -25,4 +25,4 @@ N3urodegenerate is a techno and experimental artist based in United States of Am
 
 Ether Pleaser, Vivian Oblivion, Adrian Hex
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/n3urodegenerate/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/n3urodegenerate/)*

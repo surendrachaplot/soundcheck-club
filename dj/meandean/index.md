@@ -1,6 +1,6 @@
 # Mean Dean
 
-Mean Dean is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at Spkrbox, Detroit on Fri, 31 Jul 2026.
+Mean Dean is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at Spkrbox, Detroit on Fri, 31 Jul 2026.
 
 Mean Dean is a house and techno artist based in United States of America, tracked on soundcheck, with 48 sets logged across Berlin and Detroit. Often billed alongside Mike Agent X Clark, Ashton Swinton and DJ Psycho. Next up: Spkrbox, Detroit on Fri 31 Jul.
 
@@ -25,4 +25,4 @@ Mean Dean is a house and techno artist based in United States of America, tracke
 
 Mike Agent X Clark, Ashton Swinton, DJ Psycho
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/meandean/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/meandean/)*

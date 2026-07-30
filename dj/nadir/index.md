@@ -1,14 +1,14 @@
 # Nadir
 
-Nadir is a Techno and Tech House artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at Secret Location, London on Sun, 2 Aug 2026.
+Nadir is a Techno and Tech House artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at TBA - Secret Location, London on Sun, 2 Aug 2026.
 
-Nadir is a techno and tech house artist based in Italy, tracked on soundcheck, with 11 sets logged across London, Milan and Rome. Often billed alongside Mordak, Kodacci and Petra. Next up: Secret Location, London on Sun 2 Aug.
+Nadir is a techno and tech house artist based in Italy, tracked on soundcheck, with 11 sets logged across London, Milan and Rome. Often billed alongside Mordak, Kodacci and Petra. Next up: TBA - Secret Location, London on Sun 2 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sun, 2 Aug 2026 | Secret Location | London |
+| Sun, 2 Aug 2026 | TBA - Secret Location | London |
 
 ## Recently played
 
@@ -25,4 +25,4 @@ Nadir is a techno and tech house artist based in Italy, tracked on soundcheck, w
 
 Mordak, Kodacci, Petra
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/nadir/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/nadir/)*

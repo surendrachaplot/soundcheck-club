@@ -1,6 +1,6 @@
 # Ree.K
 
-Ree.K is a Techno and Psytrance artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at Ooba Camping Village, Tokyo on Mon, 21 Sept 2026.
+Ree.K is a Techno and Psytrance artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at Ooba Camping Village, Tokyo on Mon, 21 Sept 2026.
 
 Ree.K is a techno and psytrance artist based in Japan, tracked on soundcheck, with 41 sets logged across Athens, Berlin, Osaka and Tokyo. Often billed alongside Kojiro, TEI TEI and Tsutomu. Next up: Ooba Camping Village, Tokyo on Mon 21 Sept.
 
@@ -25,4 +25,4 @@ Ree.K is a techno and psytrance artist based in Japan, tracked on soundcheck, wi
 
 Kojiro, TEI TEI, Tsutomu
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/ree.k/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/ree.k/)*

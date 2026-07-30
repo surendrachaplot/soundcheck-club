@@ -1,6 +1,6 @@
 # S Olbricht
 
-S Olbricht is a IDM and Experimental artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at Pontoon Budapest, Budapest on Thu, 6 Aug 2026.
+S Olbricht is a IDM and Experimental artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at Pontoon Budapest, Budapest on Thu, 6 Aug 2026.
 
 S Olbricht is an idm and experimental artist based in Hungary, tracked on soundcheck, with 12 sets logged across Budapest. Often billed alongside Max Sinclair, Imre Kiss and Vatsanah. Next up: Pontoon Budapest, Budapest on Thu 6 Aug.
 
@@ -25,4 +25,4 @@ S Olbricht is an idm and experimental artist based in Hungary, tracked on soundc
 
 Max Sinclair, Imre Kiss, Vatsanah
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/solbricht/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/solbricht/)*

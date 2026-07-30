@@ -1,6 +1,6 @@
 # Leo Sosa
 
-Leo Sosa is a Techno artist with 2 upcoming club dates listed on soundcheck as of Wed, 29 Jul 2026, next at Domicile, Miami on Fri, 31 Jul 2026.
+Leo Sosa is a Techno artist with 2 upcoming club dates listed on soundcheck as of Thu, 30 Jul 2026, next at Domicile, Miami on Fri, 31 Jul 2026.
 
 Leo Sosa is a techno artist based in United States of America, tracked on soundcheck, with 4 sets logged across Miami. Often billed alongside Radar, Mila Gama and X13F. Next up: Domicile, Miami on Fri 31 Jul.
 
@@ -20,4 +20,4 @@ Leo Sosa is a techno artist based in United States of America, tracked on soundc
 
 Radar, Mila Gama, X13F
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/leososa/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/leososa/)*

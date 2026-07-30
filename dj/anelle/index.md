@@ -1,6 +1,6 @@
 # Anelle
 
-Anelle is a Techno and Broken Beat artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at Mejan, Bali on Fri, 31 Jul 2026.
+Anelle is a Techno and Broken Beat artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at Mejan, Bali on Fri, 31 Jul 2026.
 
 Anelle is a techno and broken beat artist based in Kazakhstan, tracked on soundcheck, with 27 sets logged across Bali and Seoul. Often billed alongside Karim T, Latex (1) and Polyfaer. Next up: Mejan, Bali on Fri 31 Jul.
 
@@ -25,4 +25,4 @@ Anelle is a techno and broken beat artist based in Kazakhstan, tracked on soundc
 
 Karim T, Latex (1), Polyfaer
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/anelle/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/anelle/)*

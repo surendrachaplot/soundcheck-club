@@ -1,14 +1,13 @@
 # Jane Fitz
 
-Jane Fitz is a Techno and House artist with 7 upcoming club dates listed on soundcheck as of Wed, 29 Jul 2026, next at Amsterdamse Bos, Amsterdam on Wed, 29 Jul 2026.
+Jane Fitz is a Techno and House artist with 6 upcoming club dates listed on soundcheck as of Thu, 30 Jul 2026, next at THE MAGICK BAR, Rome on Fri, 31 Jul 2026.
 
-Jane Fitz is a techno and house artist tracked on soundcheck, with 165 sets logged across Amsterdam, Antwerp, Barcelona and Basel and 31 more. Often billed alongside Marco Shuttle, Francesco Del Garda and Diamin. Next up: Amsterdamse Bos, Amsterdam on Wed 29 Jul.
+Jane Fitz is a techno and house artist tracked on soundcheck, with 165 sets logged across Amsterdam, Antwerp, Barcelona and Basel and 31 more. Often billed alongside Marco Shuttle, Francesco Del Garda and Diamin. Next up: THE MAGICK BAR, Rome on Fri 31 Jul.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Wed, 29 Jul 2026 | Amsterdamse Bos | Amsterdam |
 | Fri, 31 Jul 2026 | THE MAGICK BAR | Rome |
 | Sun, 2 Aug 2026 | Amsterdamse Bos | Amsterdam |
 | Fri, 14 Aug 2026 | Platforma Wolff | Bucharest |
@@ -18,6 +17,7 @@ Jane Fitz is a techno and house artist tracked on soundcheck, with 165 sets logg
 
 ## Recently played
 
+- Amsterdamse Bos, Amsterdam — Wed, 29 Jul 2026
 - Parco Dora, Turin — Fri, 3 Jul 2026
 - Colour Factory, London — Sat, 27 Jun 2026
 - TBA - Paradise City Festival, Brussels — Fri, 26 Jun 2026
@@ -25,10 +25,9 @@ Jane Fitz is a techno and house artist tracked on soundcheck, with 165 sets logg
 - Zt Hotel + Wolf Club, Barcelona — Thu, 18 Jun 2026
 - Trädgården, Stockholm — Sat, 13 Jun 2026
 - Umoya, Naples — Fri, 5 Jun 2026
-- TBA - Floraliënlaan 111, 2020 Antwerpen, België, Antwerp — Wed, 20 May 2026
 
 ## Shares bills with
 
 Marco Shuttle, Francesco Del Garda, Diamin
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/janefitz/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/janefitz/)*

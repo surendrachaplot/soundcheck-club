@@ -1,6 +1,6 @@
 # Ethel
 
-Ethel is a House and Electro artist with 2 upcoming club dates listed on soundcheck as of Wed, 29 Jul 2026, next at The Fox and Firkin, London on Sat, 1 Aug 2026.
+Ethel is a House and Electro artist with 2 upcoming club dates listed on soundcheck as of Thu, 30 Jul 2026, next at The Fox and Firkin, London on Sat, 1 Aug 2026.
 
 Ethel is a house and electro artist tracked on soundcheck, with 47 sets logged across Barcelona, Berlin, Brussels and Bucharest and 13 more. Often billed alongside Melody RA+RE, ABI (FR) and Harmonic. Next up: The Fox and Firkin, London on Sat 1 Aug.
 
@@ -26,4 +26,4 @@ Ethel is a house and electro artist tracked on soundcheck, with 47 sets logged a
 
 Melody RA+RE, ABI (FR), Harmonic
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/ethel/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/ethel/)*

@@ -1,6 +1,6 @@
 # cstr
 
-cstr is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Wed, 29 Jul 2026, next at Arcana, San Francisco/Oakland on Sat, 5 Sept 2026.
+cstr is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Thu, 30 Jul 2026, next at Arcana, San Francisco/Oakland on Sat, 5 Sept 2026.
 
 cstr is a techno and house artist based in United States of America, tracked on soundcheck, with 21 sets logged across Nottingham and Sanfrancisco. Often billed alongside Karl Havok, Saffaire and Jobert Rowney Dunior. Next up: Arcana, Sanfrancisco on Sat 5 Sept.
 
@@ -26,4 +26,4 @@ cstr is a techno and house artist based in United States of America, tracked on 
 
 Karl Havok, Saffaire, Jobert Rowney Dunior
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/cstr/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/cstr/)*

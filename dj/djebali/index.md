@@ -1,6 +1,6 @@
 # Djebali
 
-Djebali is a House and Minimal artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at 77, London on Sat, 1 Aug 2026.
+Djebali is a House and Minimal artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at 77, London on Sat, 1 Aug 2026.
 
 Djebali is a house and minimal artist based in France, tracked on soundcheck, with 65 sets logged across Amsterdam, Austin, Barcelona and Brussels and 23 more. Often billed alongside Guti, Alex (ES) and Apollonia. Next up: 77, London on Sat 1 Aug.
 
@@ -25,4 +25,4 @@ Djebali is a house and minimal artist based in France, tracked on soundcheck, wi
 
 Guti, Alex (ES), Apollonia
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/djebali/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/djebali/)*

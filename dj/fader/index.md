@@ -1,6 +1,6 @@
 # Fader
 
-Fader is a Jungle and Electro artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at Brixton Jamm, London on Sat, 1 Aug 2026.
+Fader is a Jungle and Electro artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at Brixton Jamm, London on Sat, 1 Aug 2026.
 
 Fader is a jungle and electro artist based in Belgium, tracked on soundcheck, with 6 sets logged across London and Nantes. Often billed alongside Funsta, Jamie G and Remarc. Next up: Brixton Jamm, London on Sat 1 Aug.
 
@@ -22,4 +22,4 @@ Fader is a jungle and electro artist based in Belgium, tracked on soundcheck, wi
 
 Funsta, Jamie G, Remarc
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/fader/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/fader/)*

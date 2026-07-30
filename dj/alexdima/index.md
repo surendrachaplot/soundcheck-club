@@ -1,6 +1,6 @@
 # Alex Dima
 
-Alex Dima is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Wed, 29 Jul 2026, next at Sunseabar Beach Club, Barcelona on Sun, 9 Aug 2026.
+Alex Dima is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Thu, 30 Jul 2026, next at Sunseabar Beach Club, Barcelona on Sun, 9 Aug 2026.
 
 Alex Dima is a house and techno artist tracked on soundcheck, with 102 sets logged across Amsterdam, Athens, Bangkok and Barcelona and 26 more. Often billed alongside Alexia Glensy, Cristian Sarde and Munir Nadir. Next up: Sunseabar Beach Club, Barcelona on Sun 9 Aug.
 
@@ -27,4 +27,4 @@ Alex Dima is a house and techno artist tracked on soundcheck, with 102 sets logg
 
 Alexia Glensy, Cristian Sarde, Munir Nadir
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/alexdima/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/alexdima/)*

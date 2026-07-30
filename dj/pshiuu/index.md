@@ -1,6 +1,6 @@
 # pshiuu
 
-pshiuu is a Downtempo and Minimal artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at CUBE, Düsseldorf on Sat, 1 Aug 2026.
+pshiuu is a Downtempo and Minimal artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at CUBE, Düsseldorf on Sat, 1 Aug 2026.
 
 pshiuu is a downtempo and minimal artist based in Germany, tracked on soundcheck, with 11 sets logged across Berlin, Dusseldorf, Riga and Zurich. Often billed alongside Riyoon, Athenaïs and Kahl & Kæmena. Next up: CUBE, Dusseldorf on Sat 1 Aug.
 
@@ -25,4 +25,4 @@ pshiuu is a downtempo and minimal artist based in Germany, tracked on soundcheck
 
 Riyoon, Athenaïs, Kahl & Kæmena
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/pshiuu/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/pshiuu/)*

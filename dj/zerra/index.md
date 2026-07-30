@@ -1,6 +1,6 @@
 # Zerra
 
-Zerra is a Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at John Doe, Amsterdam on Tue, 4 Aug 2026.
+Zerra is a Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at John Doe, Amsterdam on Tue, 4 Aug 2026.
 
 Zerra is a techno artist based in Netherlands, tracked on soundcheck, with 8 sets logged across Amsterdam. Often billed alongside TRANZ, 2LS (1) and Atoll. Next up: John Doe, Amsterdam on Tue 4 Aug.
 
@@ -24,4 +24,4 @@ Zerra is a techno artist based in Netherlands, tracked on soundcheck, with 8 set
 
 TRANZ, 2LS (1), Atoll
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/zerra/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/zerra/)*

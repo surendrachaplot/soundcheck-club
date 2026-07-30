@@ -1,6 +1,6 @@
 # NenaHalena
 
-NenaHalena is a House and Afrobeat artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at Cova Santa, Ibiza on Thu, 30 Jul 2026.
+NenaHalena is a House and Afrobeat artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at Cova Santa, Ibiza on Thu, 30 Jul 2026.
 
 NenaHalena is a house and afrobeat artist tracked on soundcheck, with 23 sets logged across Amsterdam, Berlin, Geneva and Ibiza and 3 more. Often billed alongside AMÉMÉ, Philou Louzolo and LP Giobbi. Next up: Cova Santa, Ibiza on Thu 30 Jul.
 
@@ -25,4 +25,4 @@ NenaHalena is a house and afrobeat artist tracked on soundcheck, with 23 sets lo
 
 AMÉMÉ, Philou Louzolo, LP Giobbi
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/nenahalena/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/nenahalena/)*

@@ -1,6 +1,6 @@
 # Bar Fader
 
-Bar Fader is a music venue in Osaka with 3 upcoming nights listed on soundcheck as of Wed, 29 Jul 2026; the next is "U.N.D. (Unity will Never Die)" on Sat, 1 Aug 2026.
+Bar Fader is a music venue in Osaka with 3 upcoming nights listed on soundcheck as of Thu, 30 Jul 2026; the next is "U.N.D. (Unity will Never Die)" on Sat, 1 Aug 2026.
 
 Bar Fader is a music venue in Osaka listed on soundcheck. 3 upcoming nights, with line-ups including DJ Shimamura, Rëgret, U:4 (1) and WILLHOUS3. Browse upcoming dates, start times and who's playing. 〒541-0054 Osaka, Chuo Ward, Minamihonmachi, 2 Chome−6−8 メルパシオ本町ビル B1.
 
@@ -16,4 +16,4 @@ Bar Fader is a music venue in Osaka listed on soundcheck. 3 upcoming nights, wit
 
 〒541-0054 Osaka, Chuo Ward, Minamihonmachi, 2 Chome−6−8 メルパシオ本町ビル B1, Osaka
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/osaka/club/bar-fader/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/osaka/club/bar-fader/)*

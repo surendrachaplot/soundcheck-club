@@ -1,6 +1,6 @@
 # Art Department
 
-Art Department is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at 77, London on Sat, 8 Aug 2026.
+Art Department is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at 77, London on Sat, 8 Aug 2026.
 
 Art Department is a house and techno artist based in Canada, tracked on soundcheck, with 37 sets logged across Detroit, Geneva, Ibiza and London and 7 more. Often billed alongside Kenny Glasgow, Shaun Reeves and Serge Devant. Next up: 77, London on Sat 8 Aug.
 
@@ -25,4 +25,4 @@ Art Department is a house and techno artist based in Canada, tracked on soundche
 
 Kenny Glasgow, Shaun Reeves, Serge Devant
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/artdepartment/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/artdepartment/)*

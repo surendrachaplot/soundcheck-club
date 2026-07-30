@@ -1,6 +1,6 @@
 # Jorgesyn
 
-Jorgesyn is a Tech House and Techno artist with 2 upcoming club dates listed on soundcheck as of Wed, 29 Jul 2026, next at Seaseaclub Barcelona, Barcelona on Sat, 1 Aug 2026.
+Jorgesyn is a Tech House and Techno artist with 2 upcoming club dates listed on soundcheck as of Thu, 30 Jul 2026, next at Seaseaclub Barcelona, Barcelona on Sat, 1 Aug 2026.
 
 Jorgesyn is a tech house and techno artist based in Spain, tracked on soundcheck, with 20 sets logged across Barcelona. Often billed alongside Dani Corberó, Pau Guilera and ART NO LOGIA. Next up: Seaseaclub Barcelona, Barcelona on Sat 1 Aug.
 
@@ -26,4 +26,4 @@ Jorgesyn is a tech house and techno artist based in Spain, tracked on soundcheck
 
 Dani Corberó, Pau Guilera, ART NO LOGIA
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/jorgesyn/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/jorgesyn/)*

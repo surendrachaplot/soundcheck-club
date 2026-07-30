@@ -1,6 +1,6 @@
 # Dave Aju
 
-Dave Aju is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at Lost and Found, Los Angeles on Fri, 31 Jul 2026.
+Dave Aju is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at Lost and Found, Los Angeles on Fri, 31 Jul 2026.
 
 Dave Aju is a house and disco artist based in United States of America, tracked on soundcheck, with 25 sets logged across Berlin, Losangeles, Sandiego and Sanfrancisco. Often billed alongside Tavish, SONNS and Nomadico. Next up: Lost and Found, Losangeles on Fri 31 Jul.
 
@@ -25,4 +25,4 @@ Dave Aju is a house and disco artist based in United States of America, tracked 
 
 Tavish, SONNS, Nomadico
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/daveaju/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/daveaju/)*

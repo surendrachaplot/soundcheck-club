@@ -1,8 +1,8 @@
 # Kolter
 
-Kolter is a House and Tech House artist with 7 upcoming club dates listed on soundcheck as of Wed, 29 Jul 2026, next at [UNVRS], Ibiza on Fri, 31 Jul 2026.
+Kolter is a House and Tech House artist with 8 upcoming club dates listed on soundcheck as of Thu, 30 Jul 2026, next at [UNVRS], Ibiza on Fri, 31 Jul 2026.
 
-Kolter is a house and tech house artist tracked on soundcheck, with 151 sets logged across Amsterdam, Bali, Barcelona and Basel and 40 more. Often billed alongside East End Dubs, Jamback and M-High. Next up: [UNVRS], Ibiza on Fri 31 Jul.
+Kolter is a house and tech house artist tracked on soundcheck, with 152 sets logged across Amsterdam, Bali, Barcelona and Basel and 40 more. Often billed alongside East End Dubs, Jamback and M-High. Next up: [UNVRS], Ibiza on Fri 31 Jul.
 
 ## Upcoming shows
 
@@ -15,6 +15,7 @@ Kolter is a house and tech house artist tracked on soundcheck, with 151 sets log
 | Sun, 6 Sept 2026 | Thuishaven | Amsterdam |
 | Sun, 20 Sept 2026 | Amnesia Ibiza | Ibiza |
 | Sat, 26 Sept 2026 | The Cause | London |
+| Sat, 10 Oct 2026 | INPUT High Fidelity Dance Club | Barcelona |
 
 ## Recently played
 
@@ -31,4 +32,4 @@ Kolter is a house and tech house artist tracked on soundcheck, with 151 sets log
 
 East End Dubs, Jamback, M-High
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/kolter/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/kolter/)*

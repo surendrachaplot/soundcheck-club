@@ -1,6 +1,6 @@
 # Vainqueur
 
-Vainqueur is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Wed, 29 Jul 2026, next at Berghain | Panorama Bar | Säule, Berlin on Fri, 31 Jul 2026.
+Vainqueur is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Thu, 30 Jul 2026, next at Berghain | Panorama Bar | Säule, Berlin on Fri, 31 Jul 2026.
 
 Vainqueur is a techno and house artist tracked on soundcheck, with 9 sets logged across Barcelona, Berlin and Porto. Often billed alongside Substance, Scion and Afra. Next up: Berghain | Panorama Bar | Säule, Berlin on Fri 31 Jul.
 
@@ -25,4 +25,4 @@ Vainqueur is a techno and house artist tracked on soundcheck, with 9 sets logged
 
 Substance, Scion, Afra
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/vainqueur/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/vainqueur/)*

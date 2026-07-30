@@ -1,6 +1,6 @@
 # SEBSIS
 
-SEBSIS is a Tech House and House artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at SASS Music Club, Vienna on Sat, 1 Aug 2026.
+SEBSIS is a Tech House and House artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at SASS Music Club, Vienna on Sat, 1 Aug 2026.
 
 SEBSIS is a tech house and house artist based in Austria, tracked on soundcheck, with 12 sets logged across Vienna. Often billed alongside PATRIK HOUR, CHRIS KAPLANER and BELLA (AT). Next up: SASS Music Club, Vienna on Sat 1 Aug.
 
@@ -25,4 +25,4 @@ SEBSIS is a tech house and house artist based in Austria, tracked on soundcheck,
 
 PATRIK HOUR, CHRIS KAPLANER, BELLA (AT)
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/sebsis/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/sebsis/)*

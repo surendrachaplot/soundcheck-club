@@ -1,6 +1,6 @@
 # Kazimier Stockroom
 
-Kazimier Stockroom is a music venue in Liverpool with 5 upcoming nights listed on soundcheck as of Wed, 29 Jul 2026; the next is "MIST Presents James Gerard, Searching For Alaska, Jack Heidstrom" on Thu, 30 Jul 2026.
+Kazimier Stockroom is a music venue in Liverpool with 5 upcoming nights listed on soundcheck as of Thu, 30 Jul 2026; the next is "MIST Presents James Gerard, Searching For Alaska, Jack Heidstrom" on Thu, 30 Jul 2026.
 
 Kazimier Stockroom is a music venue in Liverpool listed on soundcheck. 5 upcoming nights. Browse upcoming dates, start times and who's playing. 32 Seel Street, Liverpool, L1 4JJ, United Kingdom.
 
@@ -18,4 +18,4 @@ Kazimier Stockroom is a music venue in Liverpool listed on soundcheck. 5 upcomin
 
 32 Seel Street, Liverpool, L1 4JJ, United Kingdom, Liverpool
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/liverpool/club/kazimier-stockroom/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/liverpool/club/kazimier-stockroom/)*

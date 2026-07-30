@@ -1,6 +1,6 @@
 # Gia Fu
 
-Gia Fu is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at Night Tales Loft, London on Fri, 21 Aug 2026.
+Gia Fu is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at Night Tales Loft, London on Fri, 21 Aug 2026.
 
 Gia Fu is a house and disco artist based in China, tracked on soundcheck, with 14 sets logged across Barcelona, Bristol, London and Madrid and 6 more. Often billed alongside Sonido Tupinamba, Andy Votel and Atiké. Next up: Night Tales Loft, London on Fri 21 Aug.
 
@@ -25,4 +25,4 @@ Gia Fu is a house and disco artist based in China, tracked on soundcheck, with 1
 
 Sonido Tupinamba, Andy Votel, Atiké
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/giafu/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/giafu/)*

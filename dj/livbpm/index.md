@@ -1,8 +1,8 @@
 # LivBpm
 
-LivBpm is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at Xanadu, New York City on Sun, 2 Aug 2026.
+LivBpm is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at Xanadu, New York City on Sun, 2 Aug 2026.
 
-LivBpm is a house and disco artist based in United States of America, tracked on soundcheck, with 2 sets logged across Newyorkcity. Often billed alongside Malachi (2) and Sebastian Posso. Next up: Xanadu, Newyorkcity on Sun 2 Aug.
+LivBpm is a house and disco artist based in United States of America, tracked on soundcheck, with 2 sets logged across Newyorkcity. Often billed alongside Felipe From BK, Malachi and Malachi (2). Next up: Xanadu, Newyorkcity on Sun 2 Aug.
 
 ## Upcoming shows
 
@@ -16,6 +16,6 @@ LivBpm is a house and disco artist based in United States of America, tracked on
 
 ## Shares bills with
 
-Malachi (2), Sebastian Posso
+Felipe From BK, Malachi, Malachi (2)
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/livbpm/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/livbpm/)*

@@ -1,6 +1,6 @@
 # Helena Lua
 
-Helena Lua is a House and Garage artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at Atno, Budapest on Fri, 31 Jul 2026.
+Helena Lua is a House and Garage artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at Atno, Budapest on Fri, 31 Jul 2026.
 
 Helena Lua is a house and garage artist tracked on soundcheck, with 14 sets logged across Berlin and Budapest. Often billed alongside baeker, 96zen and Kiqo. Next up: Atno, Budapest on Fri 31 Jul.
 
@@ -25,4 +25,4 @@ Helena Lua is a house and garage artist tracked on soundcheck, with 14 sets logg
 
 baeker, 96zen, Kiqo
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/helenalua/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/helenalua/)*

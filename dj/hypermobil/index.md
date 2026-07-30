@@ -1,6 +1,6 @@
 # Hypermobil
 
-Hypermobil is a Techno and Trance artist with 2 upcoming club dates listed on soundcheck as of Wed, 29 Jul 2026, next at ://about blank, Berlin on Fri, 31 Jul 2026.
+Hypermobil is a Techno and Trance artist with 2 upcoming club dates listed on soundcheck as of Thu, 30 Jul 2026, next at ://about blank, Berlin on Fri, 31 Jul 2026.
 
 Hypermobil is a techno and trance artist based in Germany, tracked on soundcheck, with 6 sets logged across Berlin and Hamburg. Often billed alongside alemiko, maniaclina and 1luu. Next up: ://about blank, Berlin on Fri 31 Jul.
 
@@ -22,4 +22,4 @@ Hypermobil is a techno and trance artist based in Germany, tracked on soundcheck
 
 alemiko, maniaclina, 1luu
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/hypermobil/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/hypermobil/)*

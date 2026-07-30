@@ -1,6 +1,6 @@
 # Marie Nyx
 
-Marie Nyx is a Techno and Electro artist with 2 upcoming club dates listed on soundcheck as of Wed, 29 Jul 2026, next at TBA, Los Angeles on Sat, 1 Aug 2026.
+Marie Nyx is a Techno and Electro artist with 2 upcoming club dates listed on soundcheck as of Thu, 30 Jul 2026, next at TBA, Los Angeles on Sat, 1 Aug 2026.
 
 Marie Nyx is a techno and electro artist based in United States of America, tracked on soundcheck, with 34 sets logged across Losangeles and Sandiego. Often billed alongside BB Shaine, Etari and Materielle. Next up: TBA, Losangeles on Sat 1 Aug.
 
@@ -26,4 +26,4 @@ Marie Nyx is a techno and electro artist based in United States of America, trac
 
 BB Shaine, Etari, Materielle
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/marienyx/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/marienyx/)*

@@ -1,6 +1,6 @@
 # Rome (IT)
 
-Rome (IT) is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Wed, 29 Jul 2026, next at TBA, Lisbon on Fri, 18 Sept 2026.
+Rome (IT) is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Thu, 30 Jul 2026, next at TBA, Lisbon on Fri, 18 Sept 2026.
 
 Rome (IT) is a house and techno artist tracked on soundcheck, with 20 sets logged across Amsterdam, Barcelona, Berlin and Brussels and 8 more. Often billed alongside Lorenzo (IT), Antonio Aiello and Flavio (CH). Next up: TBA, Lisbon on Fri 18 Sept.
 
@@ -9,7 +9,7 @@ Rome (IT) is a house and techno artist tracked on soundcheck, with 20 sets logge
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 18 Sept 2026 | TBA | Lisbon |
-| Sat, 26 Sept 2026 | TBA - Studio Stereo, close to pl. Catalunya, 08007, Barcelona | Barcelona |
+| Sat, 26 Sept 2026 | Studio Stereo | Barcelona |
 
 ## Recently played
 
@@ -26,4 +26,4 @@ Rome (IT) is a house and techno artist tracked on soundcheck, with 20 sets logge
 
 Lorenzo (IT), Antonio Aiello, Flavio (CH)
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/rome-it/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/rome-it/)*

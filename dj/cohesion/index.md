@@ -1,6 +1,6 @@
 # COHĒSION
 
-COHĒSION is a Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at Honeystreet Studios, Manchester on Sat, 8 Aug 2026.
+COHĒSION is a Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at Honeystreet Studios, Manchester on Sat, 8 Aug 2026.
 
 COHĒSION is a techno artist based in United Kingdom, tracked on soundcheck, with 5 sets logged across Manchester. Often billed alongside INLIMEN, Arkane and KeepKeep. Next up: Honeystreet Studios, Manchester on Sat 8 Aug.
 
@@ -21,4 +21,4 @@ COHĒSION is a techno artist based in United Kingdom, tracked on soundcheck, wit
 
 INLIMEN, Arkane, KeepKeep
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/cohesion/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/cohesion/)*

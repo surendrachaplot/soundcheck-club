@@ -1,6 +1,6 @@
 # Guza
 
-Guza is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at TBA - Rua Coronel Euclides Machado, 1066 - Limão, São Paulo - SP, 02713-000, Brasil, Sao Paulo on Sat, 1 Aug 2026.
+Guza is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at TBA - Rua Coronel Euclides Machado, 1066 - Limão, São Paulo - SP, 02713-000, Brasil, Sao Paulo on Sat, 1 Aug 2026.
 
 Guza is a house and techno artist based in Brazil, tracked on soundcheck, with 15 sets logged across Berlin and Saopaulo. Often billed alongside Alírio, Ananda (BR) and Tuxe. Next up: TBA - Rua Coronel Euclides Machado, 1066 - Limão, São Paulo - SP, 02713-000, Brasil, Saopaulo on Sat 1 Aug.
 
@@ -25,4 +25,4 @@ Guza is a house and techno artist based in Brazil, tracked on soundcheck, with 1
 
 Alírio, Ananda (BR), Tuxe
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/guza/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/guza/)*

@@ -1,6 +1,6 @@
 # FKJ
 
-FKJ is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at Astra Kulturhaus, Berlin on Wed, 21 Oct 2026.
+FKJ is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at Astra Kulturhaus, Berlin on Wed, 21 Oct 2026.
 
 FKJ is a house and disco artist based in France, tracked on soundcheck, with 10 sets logged across Barcelona, Berlin, Hongkong and Istanbul and 3 more. Often billed alongside Hot Chip, ANOTR and Alexandre Laeddis. Next up: Astra Kulturhaus, Berlin on Wed 21 Oct.
 
@@ -25,4 +25,4 @@ FKJ is a house and disco artist based in France, tracked on soundcheck, with 10 
 
 Hot Chip, ANOTR, Alexandre Laeddis
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/fkj/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/fkj/)*

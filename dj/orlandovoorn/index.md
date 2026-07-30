@@ -1,6 +1,6 @@
 # Orlando Voorn
 
-Orlando Voorn is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at OIL Club, Shenzhen on Fri, 31 Jul 2026.
+Orlando Voorn is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at OIL Club, Shenzhen on Fri, 31 Jul 2026.
 
 Orlando Voorn is a techno and house artist tracked on soundcheck, with 8 sets logged across Amsterdam, Chicago, Detroit and London and 3 more. Often billed alongside ANGEL-A, AZA and Adam X. Next up: OIL Club, Shenzhen on Fri 31 Jul.
 
@@ -24,4 +24,4 @@ Orlando Voorn is a techno and house artist tracked on soundcheck, with 8 sets lo
 
 ANGEL-A, AZA, Adam X
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/orlandovoorn/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/orlandovoorn/)*

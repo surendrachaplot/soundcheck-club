@@ -1,6 +1,6 @@
 # Ludvig Poll
 
-Ludvig Poll is a Tech House and Electro artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at Jolene, Copenhagen on Thu, 30 Jul 2026.
+Ludvig Poll is a Tech House and Electro artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at Jolene, Copenhagen on Thu, 30 Jul 2026.
 
 Ludvig Poll is a tech house and electro artist based in Denmark, tracked on soundcheck, with 23 sets logged across Copenhagen. Often billed alongside A.dixen, Marc Helt and Téa. Next up: Jolene, Copenhagen on Thu 30 Jul.
 
@@ -25,4 +25,4 @@ Ludvig Poll is a tech house and electro artist based in Denmark, tracked on soun
 
 A.dixen, Marc Helt, Téa
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/ludvigpoll/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/ludvigpoll/)*

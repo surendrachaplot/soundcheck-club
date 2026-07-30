@@ -1,6 +1,6 @@
 # Reeves (1)
 
-Reeves (1) is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at Club Makossa, London on Sat, 1 Aug 2026.
+Reeves (1) is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at Club Makossa, London on Sat, 1 Aug 2026.
 
 Reeves (1) is a house and deep house artist based in Australia, tracked on soundcheck, with 2 sets logged across London. Often billed alongside David Beckett, Wanderer and babybear (2). Next up: Club Makossa, London on Sat 1 Aug.
 
@@ -18,4 +18,4 @@ Reeves (1) is a house and deep house artist based in Australia, tracked on sound
 
 David Beckett, Wanderer, babybear (2)
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/reeves/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/reeves/)*

@@ -1,6 +1,6 @@
 # Karson Ross
 
-Karson Ross is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at Club 69, Glasgow on Fri, 31 Jul 2026.
+Karson Ross is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at Club 69, Glasgow on Fri, 31 Jul 2026.
 
 Karson Ross is a techno and trance artist based in United Kingdom, tracked on soundcheck, with 10 sets logged across Glasgow. Often billed alongside Stephen Taggart, Chris Kerr and GUBBY. Next up: Club 69, Glasgow on Fri 31 Jul.
 
@@ -25,4 +25,4 @@ Karson Ross is a techno and trance artist based in United Kingdom, tracked on so
 
 Stephen Taggart, Chris Kerr, GUBBY
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/karsonross/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/karsonross/)*

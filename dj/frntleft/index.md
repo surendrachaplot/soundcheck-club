@@ -1,6 +1,6 @@
 # FRNTLEFT
 
-FRNTLEFT is a Dub Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at The Greyhound, London on Fri, 14 Aug 2026.
+FRNTLEFT is a Dub Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at The Greyhound, London on Fri, 14 Aug 2026.
 
 FRNTLEFT is a dub techno artist based in United Kingdom, tracked on soundcheck, with 9 sets logged across London. Often billed alongside flxclxc, DJ Tutorial and jb sport. Next up: The Greyhound, London on Fri 14 Aug.
 
@@ -25,4 +25,4 @@ FRNTLEFT is a dub techno artist based in United Kingdom, tracked on soundcheck, 
 
 flxclxc, DJ Tutorial, jb sport
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/frntleft/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/frntleft/)*

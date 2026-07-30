@@ -1,6 +1,6 @@
 # soapy
 
-soapy is a Techno and Bass artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at The Model, Nottingham on Fri, 31 Jul 2026.
+soapy is a Techno and Bass artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at The Model, Nottingham on Fri, 31 Jul 2026.
 
 soapy is a techno and bass artist tracked on soundcheck, with 14 sets logged across Nottingham. Often billed alongside Evil Woman, Mush Love (UK) and Golden Lights. Next up: The Model, Nottingham on Fri 31 Jul.
 
@@ -25,4 +25,4 @@ soapy is a techno and bass artist tracked on soundcheck, with 14 sets logged acr
 
 Evil Woman, Mush Love (UK), Golden Lights
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/soapy/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/soapy/)*

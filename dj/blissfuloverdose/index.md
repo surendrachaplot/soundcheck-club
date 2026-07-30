@@ -1,6 +1,6 @@
 # blissfuloverdose
 
-blissfuloverdose is a Hardcore and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at Teritorija, Riga on Fri, 31 Jul 2026.
+blissfuloverdose is a Hardcore and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at Teritorija, Riga on Fri, 31 Jul 2026.
 
 blissfuloverdose is a hardcore and techno artist based in Latvia, tracked on soundcheck, with 31 sets logged across Riga and Tallinn. Often billed alongside hitomori, maniken05 and MVKO. Next up: Teritorija, Riga on Fri 31 Jul.
 
@@ -25,4 +25,4 @@ blissfuloverdose is a hardcore and techno artist based in Latvia, tracked on sou
 
 hitomori, maniken05, MVKO
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/blissfuloverdose/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/blissfuloverdose/)*

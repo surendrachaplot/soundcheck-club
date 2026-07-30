@@ -1,6 +1,6 @@
 # Coe (1)
 
-Coe (1) is a Club and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at Ormside Projects, London on Sat, 1 Aug 2026.
+Coe (1) is a Club and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at Ormside Projects, London on Sat, 1 Aug 2026.
 
 Coe (1) is a club and techno artist based in United Kingdom, tracked on soundcheck, with 20 sets logged across Amsterdam, Berlin, Bristol and Glasgow and 3 more. Often billed alongside Simkin, DJ Pitch and DE SILVA. Next up: Ormside Projects, London on Sat 1 Aug.
 
@@ -25,4 +25,4 @@ Coe (1) is a club and techno artist based in United Kingdom, tracked on soundche
 
 Simkin, DJ Pitch, DE SILVA
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/coe-1/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/coe-1/)*

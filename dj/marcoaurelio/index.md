@@ -1,6 +1,6 @@
 # Marco Aurelio
 
-Marco Aurelio is a Electronica and Breakbeat artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at Recreo Bar, Barcelona on Thu, 30 Jul 2026.
+Marco Aurelio is a Electronica and Breakbeat artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at Recreo Bar, Barcelona on Thu, 30 Jul 2026.
 
 Marco Aurelio is an electronica and breakbeat artist tracked on soundcheck, with 3 sets logged across Amsterdam and Barcelona. Often billed alongside Civaro, Daniel Englisch and Djoan. Next up: Recreo Bar, Barcelona on Thu 30 Jul.
 
@@ -19,4 +19,4 @@ Marco Aurelio is an electronica and breakbeat artist tracked on soundcheck, with
 
 Civaro, Daniel Englisch, Djoan
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/marcoaurelio/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/marcoaurelio/)*

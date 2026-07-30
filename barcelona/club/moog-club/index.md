@@ -1,14 +1,13 @@
 # Moog Club
 
-Moog Club is a music venue in Barcelona with 34 upcoming nights listed on soundcheck as of Wed, 29 Jul 2026; the next is "CRAVO + Serkin" on Wed, 29 Jul 2026.
+Moog Club is a music venue in Barcelona with 33 upcoming nights listed on soundcheck as of Thu, 30 Jul 2026; the next is "MOOG HISTORY: Juan B + uroz" on Thu, 30 Jul 2026.
 
-Moog Club is a music venue in Barcelona listed on soundcheck. 34 upcoming nights, with line-ups including Andres Campo, BAMBI (BE), carlota. and Cora Novoa and 2 more. Browse upcoming dates, start times and who's playing. Arc del Teatre, 3; 08001 Barcelona; Spain.
+Moog Club is a music venue in Barcelona listed on soundcheck. 33 upcoming nights, with line-ups including Andres Campo, BAMBI (BE), carlota. and Cora Novoa and 2 more. Browse upcoming dates, start times and who's playing. Arc del Teatre, 3; 08001 Barcelona; Spain.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Wed, 29 Jul 2026 | CRAVO + Serkin | CRAVO, Serkin |
 | Thu, 30 Jul 2026 | MOOG HISTORY: Juan B + uroz | uroz |
 | Fri, 31 Jul 2026 | Men (L-Men-T) | DJ MEN |
 | Sat, 1 Aug 2026 | Javi gOn | Javi gOn |
@@ -18,9 +17,10 @@ Moog Club is a music venue in Barcelona listed on soundcheck. 34 upcoming nights
 | Wed, 5 Aug 2026 | Pyramidal Decode + Rubén Seoane | Pyramidal Decode, Rubén Seoane |
 | Thu, 6 Aug 2026 | Carlota | carlota. |
 | Fri, 7 Aug 2026 | Bambi | BAMBI (BE) |
+| Sat, 8 Aug 2026 | Rodmun + Javi gOn | Javi gOn, Rodmun |
 
 ## Address
 
 Arc del Teatre, 3; 08001 Barcelona; Spain, Barcelona
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/moog-club/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/moog-club/)*

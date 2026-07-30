@@ -1,14 +1,13 @@
 # Mozhgan
 
-Mozhgan is a Techno and Acid artist with 5 upcoming club dates listed on soundcheck as of Wed, 29 Jul 2026, next at F8 1192 Folsom, San Francisco/Oakland on Wed, 29 Jul 2026.
+Mozhgan is a Techno and Acid artist with 4 upcoming club dates listed on soundcheck as of Thu, 30 Jul 2026, next at TBA - Laytonville, CA, San Francisco/Oakland on Fri, 11 Sept 2026.
 
-Mozhgan is a techno and acid artist tracked on soundcheck, with 88 sets logged across Amsterdam, Austin, Bali and Berlin and 20 more. Often billed alongside Solar, Carlos Souffront and BMG. Next up: F8 1192 Folsom, Sanfrancisco on Wed 29 Jul.
+Mozhgan is a techno and acid artist tracked on soundcheck, with 88 sets logged across Amsterdam, Austin, Bali and Berlin and 20 more. Often billed alongside Solar, Carlos Souffront and BMG. Next up: TBA - Laytonville, CA, Sanfrancisco on Fri 11 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Wed, 29 Jul 2026 | F8 1192 Folsom | San Francisco/Oakland |
 | Fri, 11 Sept 2026 | TBA - Laytonville, CA | San Francisco/Oakland |
 | Fri, 18 Sept 2026 | TBA | San Francisco/Oakland |
 | Sat, 19 Sept 2026 | Subspace | Denver |
@@ -16,6 +15,7 @@ Mozhgan is a techno and acid artist tracked on soundcheck, with 88 sets logged a
 
 ## Recently played
 
+- F8 1192 Folsom, San Francisco/Oakland — Wed, 29 Jul 2026
 - Berghain | Panorama Bar | Säule, Berlin — Fri, 17 Jul 2026
 - The Cobalt, Vancouver — Sat, 27 Jun 2026
 - Société des arts technologiques, Montreal — Fri, 5 Jun 2026
@@ -23,10 +23,9 @@ Mozhgan is a techno and acid artist tracked on soundcheck, with 88 sets logged a
 - Public Works, San Francisco/Oakland — Fri, 8 May 2026
 - Public Works, San Francisco/Oakland — Fri, 20 Feb 2026
 - F8 1192 Folsom, San Francisco/Oakland — Wed, 24 Dec 2025
-- Mitsuki, Tokyo — Fri, 5 Dec 2025
 
 ## Shares bills with
 
 Solar, Carlos Souffront, BMG
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/mozhgan-us/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/mozhgan-us/)*

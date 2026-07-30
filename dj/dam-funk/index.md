@@ -1,6 +1,6 @@
 # DāM FunK
 
-DāM FunK is a House and Funk / Soul artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at The Matchbox, Denver on Sat, 8 Aug 2026.
+DāM FunK is a House and Funk / Soul artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at The Matchbox, Denver on Sat, 8 Aug 2026.
 
 DāM FunK is a house and funk / soul artist based in United States of America, tracked on soundcheck, with 12 sets logged across Denver, Losangeles, Miami and Newyorkcity and 1 more. Often billed alongside Abraham Othwell, Donny Burlin and John Swan. Next up: The Matchbox, Denver on Sat 8 Aug.
 
@@ -25,4 +25,4 @@ DāM FunK is a house and funk / soul artist based in United States of America, t
 
 Abraham Othwell, Donny Burlin, John Swan
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/dam-funk/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/dam-funk/)*

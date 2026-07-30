@@ -1,6 +1,6 @@
 # Sunil Sharpe
 
-Sunil Sharpe is a Techno and Electro artist with 3 upcoming club dates listed on soundcheck as of Wed, 29 Jul 2026, next at La Cheetah Club, Glasgow on Fri, 28 Aug 2026.
+Sunil Sharpe is a Techno and Electro artist with 3 upcoming club dates listed on soundcheck as of Thu, 30 Jul 2026, next at La Cheetah Club, Glasgow on Fri, 28 Aug 2026.
 
 Sunil Sharpe is a techno and electro artist based in Ireland, tracked on soundcheck, with 95 sets logged across Amsterdam, Athens, Barcelona and Belfast and 28 more. Often billed alongside Kerrie, Newa and IMOGEN. Next up: La Cheetah Club, Glasgow on Fri 28 Aug.
 
@@ -27,4 +27,4 @@ Sunil Sharpe is a techno and electro artist based in Ireland, tracked on soundch
 
 Kerrie, Newa, IMOGEN
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/sunilsharpe/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/sunilsharpe/)*

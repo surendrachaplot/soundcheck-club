@@ -1,6 +1,6 @@
 # Madame Excuse
 
-Madame Excuse is a Electronica and House artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at Sala Villanos, Madrid on Fri, 2 Oct 2026.
+Madame Excuse is a Electronica and House artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at Sala Villanos, Madrid on Fri, 2 Oct 2026.
 
 Madame Excuse is an electronica and house artist based in Spain, tracked on soundcheck, with 6 sets logged across Madrid. Often billed alongside Bat (US), Carlos Willengton and David Ponziano. Next up: Sala Villanos, Madrid on Fri 2 Oct.
 
@@ -22,4 +22,4 @@ Madame Excuse is an electronica and house artist based in Spain, tracked on soun
 
 Bat (US), Carlos Willengton, David Ponziano
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/madameexcuse/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/madameexcuse/)*

@@ -1,6 +1,6 @@
 # Maliman
 
-Maliman is a Dub and Bass artist with 2 upcoming club dates listed on soundcheck as of Wed, 29 Jul 2026, next at Petit CAB, Marseille on Sat, 1 Aug 2026.
+Maliman is a Dub and Bass artist with 2 upcoming club dates listed on soundcheck as of Thu, 30 Jul 2026, next at Petit CAB, Marseille on Sat, 1 Aug 2026.
 
 Maliman is a dub and bass artist based in Belgium, tracked on soundcheck, with 17 sets logged across Antwerp, Brussels, Marseille and Paris. Often billed alongside STDJ, DJ Rino and EliseThere. Next up: Petit CAB, Marseille on Sat 1 Aug.
 
@@ -26,4 +26,4 @@ Maliman is a dub and bass artist based in Belgium, tracked on soundcheck, with 1
 
 STDJ, DJ Rino, EliseThere
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/maliman/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/maliman/)*

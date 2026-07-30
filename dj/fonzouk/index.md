@@ -1,6 +1,6 @@
 # Fonzo (UK)
 
-Fonzo (UK) is a Garage and Bass artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at The Greyhound, London on Fri, 31 Jul 2026.
+Fonzo (UK) is a Garage and Bass artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at The Greyhound, London on Fri, 31 Jul 2026.
 
 Fonzo (UK) is a garage and bass artist based in United Kingdom, tracked on soundcheck, with 33 sets logged across Amsterdam, Auckland, Barcelona and Brisbane and 9 more. Often billed alongside Yemz, Notion and REA (UK). Next up: The Greyhound, London on Fri 31 Jul.
 
@@ -25,4 +25,4 @@ Fonzo (UK) is a garage and bass artist based in United Kingdom, tracked on sound
 
 Yemz, Notion, REA (UK)
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/fonzouk/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/fonzouk/)*

@@ -1,6 +1,6 @@
 # LAJE
 
-LAJE is a Minimal and House artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at TBA - Secret Location, Berlin on Fri, 7 Aug 2026.
+LAJE is a Minimal and House artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at TBA - Secret Location, Berlin on Fri, 7 Aug 2026.
 
 LAJE is a minimal and house artist based in France, tracked on soundcheck, with 6 sets logged across Berlin and Paris. Often billed alongside Alben, Balthazar Martinez and Lobster. Next up: TBA - Secret Location, Berlin on Fri 7 Aug.
 
@@ -22,4 +22,4 @@ LAJE is a minimal and house artist based in France, tracked on soundcheck, with 
 
 Alben, Balthazar Martinez, Lobster
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/laje/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/laje/)*

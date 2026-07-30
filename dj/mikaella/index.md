@@ -1,14 +1,14 @@
 # Mikaella
 
-Mikaella is a Electro and Downtempo artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at TBA - Studio Stereo, close to pl. Catalunya, 08007, Barcelona, Barcelona on Thu, 30 Jul 2026.
+Mikaella is a Electro and Downtempo artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at Studio Stereo, Barcelona on Thu, 30 Jul 2026.
 
-Mikaella is an electro and downtempo artist based in Spain, tracked on soundcheck, with 17 sets logged across Barcelona, Berlin, Madrid and Mexicocity. Often billed alongside Breezy S, Djoan and Miguel Silva. Next up: TBA - Studio Stereo, close to pl. Catalunya, 08007, Barcelona, Barcelona on Thu 30 Jul.
+Mikaella is an electro and downtempo artist based in Spain, tracked on soundcheck, with 17 sets logged across Barcelona, Berlin, Madrid and Mexicocity. Often billed alongside Breezy S, Djoan and Miguel Silva. Next up: Studio Stereo, Barcelona on Thu 30 Jul.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Thu, 30 Jul 2026 | TBA - Studio Stereo, close to pl. Catalunya, 08007, Barcelona | Barcelona |
+| Thu, 30 Jul 2026 | Studio Stereo | Barcelona |
 
 ## Recently played
 
@@ -25,4 +25,4 @@ Mikaella is an electro and downtempo artist based in Spain, tracked on soundchec
 
 Breezy S, Djoan, Miguel Silva
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/mikaella/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/mikaella/)*

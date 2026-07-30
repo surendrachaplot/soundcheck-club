@@ -1,6 +1,6 @@
 # Kivi (2)
 
-Kivi (2) is a Drum & Bass and Jungle artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at TBA - Peißnitzinsel Halle, Leipzig on Sat, 1 Aug 2026.
+Kivi (2) is a Drum & Bass and Jungle artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at TBA - Peißnitzinsel Halle, Leipzig on Sat, 1 Aug 2026.
 
 Kivi (2) is a drum & bass and jungle artist based in United Kingdom, tracked on soundcheck, with 13 sets logged across Bangkok, Frankfurt, Leipzig and Liverpool and 2 more. Often billed alongside Deekline, Killa P and Serial Killaz. Next up: TBA - Peißnitzinsel Halle, Leipzig on Sat 1 Aug.
 
@@ -25,4 +25,4 @@ Kivi (2) is a drum & bass and jungle artist based in United Kingdom, tracked on 
 
 Deekline, Killa P, Serial Killaz
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/kivi-2/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/kivi-2/)*

@@ -1,6 +1,6 @@
 # Richy Ahmed
 
-Richy Ahmed is a Tech House and House artist with 2 upcoming club dates listed on soundcheck as of Wed, 29 Jul 2026, next at Knockdown Center, New York City on Fri, 14 Aug 2026.
+Richy Ahmed is a Tech House and House artist with 2 upcoming club dates listed on soundcheck as of Thu, 30 Jul 2026, next at Knockdown Center, New York City on Fri, 14 Aug 2026.
 
 Richy Ahmed is a tech house and house artist tracked on soundcheck, with 138 sets logged across Amsterdam, Bali, Barcelona and Berlin and 33 more. Often billed alongside Jamie Jones, ALISHA and wAFF. Next up: Knockdown Center, Newyorkcity on Fri 14 Aug.
 
@@ -26,4 +26,4 @@ Richy Ahmed is a tech house and house artist tracked on soundcheck, with 138 set
 
 Jamie Jones, ALISHA, wAFF
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/richyahmed/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/richyahmed/)*

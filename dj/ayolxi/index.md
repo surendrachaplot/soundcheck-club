@@ -1,6 +1,6 @@
 # Ayolxi
 
-Ayolxi is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at Renate, Berlin on Thu, 30 Jul 2026.
+Ayolxi is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at Renate, Berlin on Thu, 30 Jul 2026.
 
 Ayolxi is a techno and house artist tracked on soundcheck, with 51 sets logged across Berlin, Cork, Dublin and Krakow and 1 more. Often billed alongside Rustal, Aeron and Dahveed. Next up: Renate, Berlin on Thu 30 Jul.
 
@@ -25,4 +25,4 @@ Ayolxi is a techno and house artist tracked on soundcheck, with 51 sets logged a
 
 Rustal, Aeron, Dahveed
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/ayolxi/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/ayolxi/)*

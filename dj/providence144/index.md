@@ -1,6 +1,6 @@
 # providence144
 
-providence144 is a Experimental and Breakbeat artist with 3 upcoming club dates listed on soundcheck as of Wed, 29 Jul 2026, next at Audio, Glasgow on Mon, 24 Aug 2026.
+providence144 is a Experimental and Breakbeat artist with 3 upcoming club dates listed on soundcheck as of Thu, 30 Jul 2026, next at Audio, Glasgow on Mon, 24 Aug 2026.
 
 providence144 is an experimental and breakbeat artist based in United Kingdom, tracked on soundcheck, with 6 sets logged across Belfast, Dublin, Glasgow and Manchester. Often billed alongside zumtru, Selvasolstice and BFTT. Next up: Audio, Glasgow on Mon 24 Aug.
 
@@ -10,7 +10,7 @@ providence144 is an experimental and breakbeat artist based in United Kingdom, t
 | --- | --- | --- |
 | Mon, 24 Aug 2026 | Audio | Glasgow |
 | Thu, 27 Aug 2026 | The Black Box | Belfast |
-| Sat, 29 Aug 2026 | Upstairs at Whelan's | Dublin |
+| Sat, 29 Aug 2026 | TBA - DM for Address | Dublin |
 
 ## Recently played
 
@@ -22,4 +22,4 @@ providence144 is an experimental and breakbeat artist based in United Kingdom, t
 
 zumtru, Selvasolstice, BFTT
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/providence144/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/providence144/)*

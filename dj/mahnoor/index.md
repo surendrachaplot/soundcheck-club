@@ -1,6 +1,6 @@
 # Mahnoor
 
-Mahnoor is a Garage and UK Funky artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at Ballroom at Palais, London on Fri, 31 Jul 2026.
+Mahnoor is a Garage and UK Funky artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at Ballroom at Palais, London on Fri, 31 Jul 2026.
 
 Mahnoor is a garage and uk funky artist based in United Kingdom, tracked on soundcheck, with 29 sets logged across London. Often billed alongside Ab.Diablo, Arthi and Izzi. Next up: Ballroom at Palais, London on Fri 31 Jul.
 
@@ -25,4 +25,4 @@ Mahnoor is a garage and uk funky artist based in United Kingdom, tracked on soun
 
 Ab.Diablo, Arthi, Izzi
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/mahnoor/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/mahnoor/)*

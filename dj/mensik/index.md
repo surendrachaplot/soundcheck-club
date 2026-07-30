@@ -1,6 +1,6 @@
 # Mensik
 
-Mensik is a Techno and Club artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at CHICO, Mexico City on Thu, 30 Jul 2026.
+Mensik is a Techno and Club artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at CHICO, Mexico City on Thu, 30 Jul 2026.
 
 Mensik is a techno and club artist tracked on soundcheck, with 76 sets logged across Barcelona, Berlin, Ghent and Kualalumpur and 4 more. Often billed alongside fka phaedra, Per.la and Héctor Marino. Next up: CHICO, Mexicocity on Thu 30 Jul.
 
@@ -25,4 +25,4 @@ Mensik is a techno and club artist tracked on soundcheck, with 76 sets logged ac
 
 fka phaedra, Per.la, Héctor Marino
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/mensik/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/mensik/)*

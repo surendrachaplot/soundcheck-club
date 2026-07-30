@@ -1,6 +1,6 @@
 # Jen Cardini
 
-Jen Cardini is a Techno and House artist with 8 upcoming club dates listed on soundcheck as of Wed, 29 Jul 2026, next at Kvarteret, Stockholm on Sat, 1 Aug 2026.
+Jen Cardini is a Techno and House artist with 8 upcoming club dates listed on soundcheck as of Thu, 30 Jul 2026, next at Kvarteret, Stockholm on Sat, 1 Aug 2026.
 
 Jen Cardini is a techno and house artist tracked on soundcheck, with 243 sets logged across Amsterdam, Antwerp, Athens and Auckland and 56 more. Often billed alongside Pablo Bozzi, BASHKKA and KI/KI. Next up: Kvarteret, Stockholm on Sat 1 Aug.
 
@@ -32,4 +32,4 @@ Jen Cardini is a techno and house artist tracked on soundcheck, with 243 sets lo
 
 Pablo Bozzi, BASHKKA, KI/KI
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/jencardini/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/jencardini/)*

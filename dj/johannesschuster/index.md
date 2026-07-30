@@ -1,8 +1,8 @@
 # Johannes Schuster
 
-Johannes Schuster is a Techno and Trance artist with 21 upcoming club dates listed on soundcheck as of Wed, 29 Jul 2026, next at RSO.BERLIN, Berlin on Sat, 1 Aug 2026.
+Johannes Schuster is a Techno and Trance artist with 22 upcoming club dates listed on soundcheck as of Thu, 30 Jul 2026, next at RSO.BERLIN, Berlin on Sat, 1 Aug 2026.
 
-Johannes Schuster is a techno and trance artist tracked on soundcheck, with 189 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 42 more. Often billed alongside KUKO, Cloudy and Neon Graveyard. Next up: RSO.BERLIN, Berlin on Sat 1 Aug.
+Johannes Schuster is a techno and trance artist tracked on soundcheck, with 190 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 42 more. Often billed alongside KUKO, Cloudy and Neon Graveyard. Next up: RSO.BERLIN, Berlin on Sat 1 Aug.
 
 ## Upcoming shows
 
@@ -36,4 +36,4 @@ Johannes Schuster is a techno and trance artist tracked on soundcheck, with 189 
 
 KUKO, Cloudy, Neon Graveyard
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/johannesschuster/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/johannesschuster/)*

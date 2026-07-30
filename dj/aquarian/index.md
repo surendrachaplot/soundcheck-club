@@ -1,6 +1,6 @@
 # Aquarian
 
-Aquarian is a Techno and Experimental artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at Berghain | Panorama Bar | Säule, Berlin on Fri, 31 Jul 2026.
+Aquarian is a Techno and Experimental artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at Berghain | Panorama Bar | Säule, Berlin on Fri, 31 Jul 2026.
 
 Aquarian is a techno and experimental artist based in Canada, tracked on soundcheck, with 32 sets logged across Bangkok, Barcelona, Berlin and Denver and 19 more. Often billed alongside Cardopusher, Fever Ray and Manuka Honey. Next up: Berghain | Panorama Bar | Säule, Berlin on Fri 31 Jul.
 
@@ -25,4 +25,4 @@ Aquarian is a techno and experimental artist based in Canada, tracked on soundch
 
 Cardopusher, Fever Ray, Manuka Honey
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/aquarian/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/aquarian/)*

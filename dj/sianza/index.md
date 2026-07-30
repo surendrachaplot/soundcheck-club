@@ -1,6 +1,6 @@
 # sianza
 
-sianza is a House and Downtempo artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at Public Possession, Munich on Thu, 30 Jul 2026.
+sianza is a House and Downtempo artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at Public Possession, Munich on Thu, 30 Jul 2026.
 
 sianza is a house and downtempo artist tracked on soundcheck, with 98 sets logged across Amsterdam, Berlin, Cologne and Frankfurt and 9 more. Often billed alongside Benjamin Roeder, Bogus Trumper and DJoy. Next up: Public Possession, Munich on Thu 30 Jul.
 
@@ -25,4 +25,4 @@ sianza is a house and downtempo artist tracked on soundcheck, with 98 sets logge
 
 Benjamin Roeder, Bogus Trumper, DJoy
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/sianza/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/sianza/)*

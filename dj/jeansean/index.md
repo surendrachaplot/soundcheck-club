@@ -1,6 +1,6 @@
 # Jean Sean
 
-Jean Sean is a Baile Funk and Bass artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at The Corner, Miami on Sat, 1 Aug 2026.
+Jean Sean is a Baile Funk and Bass artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at The Corner, Miami on Sat, 1 Aug 2026.
 
 Jean Sean is a baile funk and bass artist based in United States of America, tracked on soundcheck, with 7 sets logged across Miami. Often billed alongside //DLM, Bonita Applebumz and GRUE5OME. Next up: The Corner, Miami on Sat 1 Aug.
 
@@ -23,4 +23,4 @@ Jean Sean is a baile funk and bass artist based in United States of America, tra
 
 //DLM, Bonita Applebumz, GRUE5OME
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/jeansean/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/jeansean/)*

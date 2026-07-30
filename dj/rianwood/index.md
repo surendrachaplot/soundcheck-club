@@ -1,6 +1,6 @@
 # Rian Wood
 
-Rian Wood is a Techno and Industrial artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at Kilomètre25, Paris on Thu, 30 Jul 2026.
+Rian Wood is a Techno and Industrial artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at Kilomètre25, Paris on Thu, 30 Jul 2026.
 
 Rian Wood is a techno and industrial artist based in Italy, tracked on soundcheck, with 67 sets logged across Barcelona, Berlin, Brussels and Chicago and 23 more. Often billed alongside 999999999, cassandrah and Rispoli Benito. Next up: Kilomètre25, Paris on Thu 30 Jul.
 
@@ -25,4 +25,4 @@ Rian Wood is a techno and industrial artist based in Italy, tracked on soundchec
 
 999999999, cassandrah, Rispoli Benito
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/rianwood/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/rianwood/)*

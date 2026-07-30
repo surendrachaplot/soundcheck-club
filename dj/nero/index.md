@@ -1,6 +1,6 @@
 # Nero
 
-Nero is a Dubstep and Bass artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at Finsbury Park, London on Sun, 2 Aug 2026.
+Nero is a Dubstep and Bass artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at Finsbury Park, London on Sun, 2 Aug 2026.
 
 Nero is a dubstep and bass artist based in United Kingdom, tracked on soundcheck, with 17 sets logged across Athens, Austin, Brighton and Bristol and 10 more. Often billed alongside Mau P, Anaïs and Delta Heavy. Next up: Finsbury Park, London on Sun 2 Aug.
 
@@ -25,4 +25,4 @@ Nero is a dubstep and bass artist based in United Kingdom, tracked on soundcheck
 
 Mau P, Anaïs, Delta Heavy
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/nero/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/nero/)*

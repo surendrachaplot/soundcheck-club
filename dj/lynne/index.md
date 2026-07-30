@@ -1,6 +1,6 @@
 # Lynne
 
-Lynne is a Techno and Experimental artist with 2 upcoming club dates listed on soundcheck as of Wed, 29 Jul 2026, next at FOLD, London on Sat, 15 Aug 2026.
+Lynne is a Techno and Experimental artist with 2 upcoming club dates listed on soundcheck as of Thu, 30 Jul 2026, next at FOLD, London on Sat, 15 Aug 2026.
 
 Lynne is a techno and experimental artist based in Japan, tracked on soundcheck, with 40 sets logged across Amsterdam, Barcelona, Berlin and Bristol and 6 more. Often billed alongside DB1, Ario and Toner(JP). Next up: FOLD, London on Sat 15 Aug.
 
@@ -26,4 +26,4 @@ Lynne is a techno and experimental artist based in Japan, tracked on soundcheck,
 
 DB1, Ario, Toner(JP)
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/lynne/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/lynne/)*

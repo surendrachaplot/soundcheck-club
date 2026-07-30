@@ -1,6 +1,6 @@
 # GiB & Hakke Berlin pres - 'The HARDCORE Live Edition' at OXI
 
-GiB & Hakke Berlin pres - 'The HARDCORE Live Edition' at OXI on Sat 8 Aug, Berlin. 11 acts on the bill: Baptist (UK), Dagobird, daschka and Dj Cvntface and 7 more. Techno and Gabber. Preview the line-up and save it on soundcheck.
+GiB & Hakke Berlin pres - 'The HARDCORE Live Edition' at OXI on Sat 8 Aug, Berlin. 12 acts on the bill: Baptist (UK), Basilisque, Dagobird and daschka and 8 more. Techno and Gabber. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -11,6 +11,7 @@ GiB & Hakke Berlin pres - 'The HARDCORE Live Edition' at OXI on Sat 8 Aug, Berli
 ## Line-up
 
 - Baptist (UK)
+- Basilisque
 - Dagobird
 - daschka
 - Dj Cvntface

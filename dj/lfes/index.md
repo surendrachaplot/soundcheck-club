@@ -1,6 +1,6 @@
 # LFES
 
-LFES is a House and Electro artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at PETER'S, Berlin on Sat, 8 Aug 2026.
+LFES is a House and Electro artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at PETER'S, Berlin on Sat, 8 Aug 2026.
 
 LFES is a house and electro artist based in Germany, tracked on soundcheck, with 8 sets logged across Berlin. Often billed alongside Santi Calvo, Max(imus) and 10961. Next up: PETER'S, Berlin on Sat 8 Aug.
 
@@ -24,4 +24,4 @@ LFES is a house and electro artist based in Germany, tracked on soundcheck, with
 
 Santi Calvo, Max(imus), 10961
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/lfes/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/lfes/)*

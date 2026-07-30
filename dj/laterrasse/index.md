@@ -1,6 +1,6 @@
 # La Terrasse
 
-La Terrasse is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at Bulbul Berlin, Berlin on Thu, 13 Aug 2026.
+La Terrasse is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at Bulbul Berlin, Berlin on Thu, 13 Aug 2026.
 
 La Terrasse is a house and techno artist based in France, tracked on soundcheck, with 16 sets logged across Berlin and Paris. Often billed alongside Dino!, Kat_Es and KaraKara. Next up: Bulbul Berlin, Berlin on Thu 13 Aug.
 
@@ -25,4 +25,4 @@ La Terrasse is a house and techno artist based in France, tracked on soundcheck,
 
 Dino!, Kat_Es, KaraKara
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/laterrasse/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/laterrasse/)*

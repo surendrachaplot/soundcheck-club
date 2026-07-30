@@ -1,6 +1,6 @@
 # loufo
 
-loufo is a Downtempo and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at Jonny Knüppel, Berlin on Fri, 31 Jul 2026.
+loufo is a Downtempo and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at Jonny Knüppel, Berlin on Fri, 31 Jul 2026.
 
 loufo is a downtempo and techno artist based in Germany, tracked on soundcheck, with 14 sets logged across Berlin. Often billed alongside Manta, Qualia Trax and Bonnie Ford. Next up: Jonny Knüppel, Berlin on Fri 31 Jul.
 
@@ -25,4 +25,4 @@ loufo is a downtempo and techno artist based in Germany, tracked on soundcheck, 
 
 Manta, Qualia Trax, Bonnie Ford
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/loufo/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/loufo/)*

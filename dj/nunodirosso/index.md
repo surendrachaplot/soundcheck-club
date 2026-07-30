@@ -1,6 +1,6 @@
 # Nuno di Rosso
 
-Nuno di Rosso is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at Plano B, Porto on Fri, 14 Aug 2026.
+Nuno di Rosso is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at Plano B, Porto on Fri, 14 Aug 2026.
 
 Nuno di Rosso is a house and techno artist tracked on soundcheck, with 46 sets logged across Barcelona, Lisbon and Porto. Often billed alongside Pedro Tabuada, Ludovic and Francisco AP. Next up: Plano B, Porto on Fri 14 Aug.
 
@@ -25,4 +25,4 @@ Nuno di Rosso is a house and techno artist tracked on soundcheck, with 46 sets l
 
 Pedro Tabuada, Ludovic, Francisco AP
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/nunodirosso/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/nunodirosso/)*

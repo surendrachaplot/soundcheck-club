@@ -1,6 +1,6 @@
 # Baumeister98
 
-Baumeister98 is a Trance artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at Schrotty, Cologne on Sat, 1 Aug 2026.
+Baumeister98 is a Trance artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at Schrotty, Cologne on Sat, 1 Aug 2026.
 
 Baumeister98 is a trance artist based in Germany, tracked on soundcheck, with 15 sets logged across Berlin, Cologne, Hamburg and Vienna. Often billed alongside BabaBass3000, OSKAMAXX and Pueblo Gelb. Next up: Schrotty, Cologne on Sat 1 Aug.
 
@@ -25,4 +25,4 @@ Baumeister98 is a trance artist based in Germany, tracked on soundcheck, with 15
 
 BabaBass3000, OSKAMAXX, Pueblo Gelb
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/baumeister98/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/baumeister98/)*

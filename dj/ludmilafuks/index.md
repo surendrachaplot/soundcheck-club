@@ -1,6 +1,6 @@
 # Ludmila Fuks
 
-Ludmila Fuks is a House and Electronica artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at Dune Park, Buenos Aires on Sat, 1 Aug 2026.
+Ludmila Fuks is a House and Electronica artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at Dune Park, Buenos Aires on Sat, 1 Aug 2026.
 
 Ludmila Fuks is a house and electronica artist based in Argentina, tracked on soundcheck, with 6 sets logged across Berlin, Buenosaires and Paris. Often billed alongside BIKATRONIKA, Andy Somoza and Colapso. Next up: Dune Park, Buenosaires on Sat 1 Aug.
 
@@ -22,4 +22,4 @@ Ludmila Fuks is a house and electronica artist based in Argentina, tracked on so
 
 BIKATRONIKA, Andy Somoza, Colapso
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/ludmilafuks/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/ludmilafuks/)*

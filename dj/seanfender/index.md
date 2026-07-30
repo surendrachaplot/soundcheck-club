@@ -1,6 +1,6 @@
 # Sean Fender
 
-Sean Fender is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at Slaktkyrkan, Stockholm on Fri, 25 Sept 2026.
+Sean Fender is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at Slaktkyrkan, Stockholm on Fri, 25 Sept 2026.
 
 Sean Fender is a house and techno artist based in Sweden, tracked on soundcheck, with 21 sets logged across Berlin, Copenhagen and Stockholm. Often billed alongside Queen E, Dgeral and Abstraxion. Next up: Slaktkyrkan, Stockholm on Fri 25 Sept.
 
@@ -25,4 +25,4 @@ Sean Fender is a house and techno artist based in Sweden, tracked on soundcheck,
 
 Queen E, Dgeral, Abstraxion
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/seanfender/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/seanfender/)*

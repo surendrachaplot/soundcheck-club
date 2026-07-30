@@ -1,6 +1,6 @@
 # TRAGOS
 
-TRAGOS is a Techno and Gabber artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at TBA - DAY OFFFFFFFFFFFFFF ;3, Chicago on Fri, 31 Jul 2026.
+TRAGOS is a Techno and Gabber artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at TBA - DAY OFFFFFFFFFFFFFF ;3, Chicago on Fri, 31 Jul 2026.
 
 TRAGOS is a techno and gabber artist based in United States of America, tracked on soundcheck, with 9 sets logged across Chicago and Krakow. Often billed alongside PRVR, innominepatrix and BOM83L. Next up: TBA - DAY OFFFFFFFFFFFFFF ;3, Chicago on Fri 31 Jul.
 
@@ -25,4 +25,4 @@ TRAGOS is a techno and gabber artist based in United States of America, tracked 
 
 PRVR, innominepatrix, BOM83L
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/tragos/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/tragos/)*

@@ -1,6 +1,6 @@
 # Marco Ragni
 
-Marco Ragni is a Dub Techno and Experimental artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at TBA - Apiro, Marche IT, Milan on Thu, 30 Jul 2026.
+Marco Ragni is a Dub Techno and Experimental artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at TBA - Apiro, Marche IT, Milan on Thu, 30 Jul 2026.
 
 Marco Ragni is a dub techno and experimental artist tracked on soundcheck, with 9 sets logged across Barcelona, Berlin, Milan and Rome. Often billed alongside Christian Duka, Hagva and Sandra Mason. Next up: TBA - Apiro, Marche IT, Milan on Thu 30 Jul.
 
@@ -25,4 +25,4 @@ Marco Ragni is a dub techno and experimental artist tracked on soundcheck, with 
 
 Christian Duka, Hagva, Sandra Mason
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/marcoragni/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/marcoragni/)*

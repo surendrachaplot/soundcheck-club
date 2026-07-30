@@ -1,6 +1,6 @@
 # Georj
 
-Georj is a Electronica and Minimal artist with 2 upcoming club dates listed on soundcheck as of Wed, 29 Jul 2026, next at Sneaky Pete's, Edinburgh on Thu, 30 Jul 2026.
+Georj is a Electronica and Minimal artist with 2 upcoming club dates listed on soundcheck as of Thu, 30 Jul 2026, next at Sneaky Pete's, Edinburgh on Thu, 30 Jul 2026.
 
 Georj is an electronica and minimal artist based in Romania, tracked on soundcheck, with 4 sets logged across Bucharest and Edinburgh. Often billed alongside Casement, Denham Audio and Drumheller. Next up: Sneaky Pete's, Edinburgh on Thu 30 Jul.
 
@@ -20,4 +20,4 @@ Georj is an electronica and minimal artist based in Romania, tracked on soundche
 
 Casement, Denham Audio, Drumheller
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/georj/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/georj/)*

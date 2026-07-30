@@ -1,6 +1,6 @@
 # Amir Javasoul
 
-Amir Javasoul is a House and Minimal artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at TBA - Los Angeles, Los Angeles on Fri, 31 Jul 2026.
+Amir Javasoul is a House and Minimal artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at TBA - Los Angeles, Los Angeles on Fri, 31 Jul 2026.
 
 Amir Javasoul is a house and minimal artist based in Iran, tracked on soundcheck, with 14 sets logged across Losangeles, Miami, Montreal and Sandiego. Often billed alongside Krane, Artur (US) and Chemtrail Johnny. Next up: TBA - Los Angeles, Losangeles on Fri 31 Jul.
 
@@ -25,4 +25,4 @@ Amir Javasoul is a house and minimal artist based in Iran, tracked on soundcheck
 
 Krane, Artur (US), Chemtrail Johnny
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/amirjavasoul/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/amirjavasoul/)*

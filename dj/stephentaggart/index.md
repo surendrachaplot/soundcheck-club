@@ -1,6 +1,6 @@
 # Stephen Taggart
 
-Stephen Taggart is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at Club 69, Glasgow on Fri, 31 Jul 2026.
+Stephen Taggart is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at Club 69, Glasgow on Fri, 31 Jul 2026.
 
 Stephen Taggart is a house and techno artist based in United Kingdom, tracked on soundcheck, with 14 sets logged across Glasgow. Often billed alongside Karson Ross, Daniel Anderson and Elliott Skeoch. Next up: Club 69, Glasgow on Fri 31 Jul.
 
@@ -25,4 +25,4 @@ Stephen Taggart is a house and techno artist based in United Kingdom, tracked on
 
 Karson Ross, Daniel Anderson, Elliott Skeoch
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/stephentaggart/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/stephentaggart/)*

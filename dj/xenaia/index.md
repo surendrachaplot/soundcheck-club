@@ -1,6 +1,6 @@
 # Xenaia
 
-Xenaia is a Techno and Electro artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at Innside Hafen Hamburg, Hamburg on Sat, 1 Aug 2026.
+Xenaia is a Techno and Electro artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at Innside Hafen Hamburg, Hamburg on Sat, 1 Aug 2026.
 
 Xenaia is a techno and electro artist based in Germany, tracked on soundcheck, with 34 sets logged across Berlin, Hamburg and Leipzig. Often billed alongside Antoine Baiser, Melbo and Surreal (DE). Next up: Innside Hafen Hamburg, Hamburg on Sat 1 Aug.
 
@@ -25,4 +25,4 @@ Xenaia is a techno and electro artist based in Germany, tracked on soundcheck, w
 
 Antoine Baiser, Melbo, Surreal (DE)
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/xenaia/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/xenaia/)*

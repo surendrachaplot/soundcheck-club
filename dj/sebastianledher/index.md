@@ -1,6 +1,6 @@
 # Sebastian Ledher
 
-Sebastian Ledher is a Tech House and House artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at Eden, Ibiza on Sat, 1 Aug 2026.
+Sebastian Ledher is a Tech House and House artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at Eden, Ibiza on Sat, 1 Aug 2026.
 
 Sebastian Ledher is a tech house and house artist based in Spain, tracked on soundcheck, with 24 sets logged across Barcelona, Boston, Buenosaires and Ibiza and 4 more. Often billed alongside Freddy Bello, Shahar and fajardo. Next up: Eden, Ibiza on Sat 1 Aug.
 
@@ -25,4 +25,4 @@ Sebastian Ledher is a tech house and house artist based in Spain, tracked on sou
 
 Freddy Bello, Shahar, fajardo
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/sebastianledher/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/sebastianledher/)*

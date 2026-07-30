@@ -1,13 +1,14 @@
 # MUNNI
 
-MUNNI is a Club and Experimental artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at XOYO, London on Sat, 12 Sept 2026.
+MUNNI is a Club and Experimental artist with 2 upcoming club dates listed on soundcheck as of Thu, 30 Jul 2026, next at Crate Brewery, London on Sun, 16 Aug 2026.
 
-MUNNI is a club and experimental artist tracked on soundcheck, with 23 sets logged across Bristol and London. Often billed alongside Jelsen, Madjestic Kasual and Organ Tapes. Next up: XOYO, London on Sat 12 Sept.
+MUNNI is a club and experimental artist tracked on soundcheck, with 24 sets logged across Bristol and London. Often billed alongside Jelsen, Madjestic Kasual and Organ Tapes. Next up: Crate Brewery, London on Sun 16 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sun, 16 Aug 2026 | Crate Brewery | London |
 | Sat, 12 Sept 2026 | XOYO | London |
 
 ## Recently played
@@ -25,4 +26,4 @@ MUNNI is a club and experimental artist tracked on soundcheck, with 23 sets logg
 
 Jelsen, Madjestic Kasual, Organ Tapes
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/munni/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/munni/)*

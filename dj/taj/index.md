@@ -1,6 +1,6 @@
 # Taj
 
-Taj is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at Jupiter Disco, New York City on Thu, 27 Aug 2026.
+Taj is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at Jupiter Disco, New York City on Thu, 27 Aug 2026.
 
 Taj is a house and disco artist based in Lebanon, tracked on soundcheck, with 33 sets logged across Amsterdam, Miami and Newyorkcity. Often billed alongside Frny, John Patrick and Taimur. Next up: Jupiter Disco, Newyorkcity on Thu 27 Aug.
 
@@ -25,4 +25,4 @@ Taj is a house and disco artist based in Lebanon, tracked on soundcheck, with 33
 
 Frny, John Patrick, Taimur
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/taj/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/taj/)*

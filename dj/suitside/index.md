@@ -1,14 +1,15 @@
 # SUITSIDE
 
-SUITSIDE is a Techno and Trance artist with 2 upcoming club dates listed on soundcheck as of Wed, 29 Jul 2026, next at Schrotty, Cologne on Sat, 1 Aug 2026.
+SUITSIDE is a Techno and Trance artist with 3 upcoming club dates listed on soundcheck as of Thu, 30 Jul 2026, next at Schrotty, Cologne on Sat, 1 Aug 2026.
 
-SUITSIDE is a techno and trance artist based in Austria, tracked on soundcheck, with 60 sets logged across Berlin, Cologne, Munich and Vienna. Often billed alongside Joey (2), ASCHENBRENNER and Crystal O. Next up: Schrotty, Cologne on Sat 1 Aug.
+SUITSIDE is a techno and trance artist based in Austria, tracked on soundcheck, with 61 sets logged across Berlin, Cologne, Munich and Vienna. Often billed alongside Joey (2), ASCHENBRENNER and Crystal O. Next up: Schrotty, Cologne on Sat 1 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 1 Aug 2026 | Schrotty | Cologne |
+| Sat, 5 Sept 2026 | Grelle Forelle | Vienna |
 | Sat, 12 Sept 2026 | The Yard Vienna | Vienna |
 
 ## Recently played
@@ -26,4 +27,4 @@ SUITSIDE is a techno and trance artist based in Austria, tracked on soundcheck, 
 
 Joey (2), ASCHENBRENNER, Crystal O
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/suitside/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/suitside/)*

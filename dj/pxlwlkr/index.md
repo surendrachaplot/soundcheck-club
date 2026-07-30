@@ -1,6 +1,6 @@
 # pxlwlkr
 
-pxlwlkr is a Baile Funk and Bass artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at F8 1192 Folsom, San Francisco/Oakland on Fri, 31 Jul 2026.
+pxlwlkr is a Baile Funk and Bass artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at F8 1192 Folsom, San Francisco/Oakland on Fri, 31 Jul 2026.
 
 pxlwlkr is a baile funk and bass artist based in United States of America, tracked on soundcheck, with 13 sets logged across Newyorkcity and Sanfrancisco. Often billed alongside jaag (US), day astro and 40split. Next up: F8 1192 Folsom, Sanfrancisco on Fri 31 Jul.
 
@@ -25,4 +25,4 @@ pxlwlkr is a baile funk and bass artist based in United States of America, track
 
 jaag (US), day astro, 40split
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/pxlwlkr/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/pxlwlkr/)*

@@ -1,6 +1,6 @@
 # NEURON at WOMB
 
-NEURON at WOMB on Sat 8 Aug, Tokyo. 8 acts on the bill: ANDY DEDE, EIGHT, HIZAT and IRODORI and 4 more. Techno and Tech House. Preview the line-up and save it on soundcheck.
+NEURON at WOMB on Sat 8 Aug, Tokyo. 9 acts on the bill: ANDY DEDE, EIGHT, HERO (JPN) and HIZAT and 5 more. Techno and Tech House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -12,6 +12,7 @@ NEURON at WOMB on Sat 8 Aug, Tokyo. 8 acts on the bill: ANDY DEDE, EIGHT, HIZAT 
 
 - ANDY DEDE
 - EIGHT
+- HERO (JPN)
 - HIZAT
 - IRODORI
 - Kandarta

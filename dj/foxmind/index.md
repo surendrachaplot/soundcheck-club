@@ -1,6 +1,6 @@
 # FoxMind
 
-FoxMind is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at Renate, Berlin on Thu, 30 Jul 2026.
+FoxMind is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at Renate, Berlin on Thu, 30 Jul 2026.
 
 FoxMind is a house and techno artist based in United Kingdom, tracked on soundcheck, with 26 sets logged across Berlin. Often billed alongside Janosch (2), Serving Suggestions and Aezron. Next up: Renate, Berlin on Thu 30 Jul.
 
@@ -25,4 +25,4 @@ FoxMind is a house and techno artist based in United Kingdom, tracked on soundch
 
 Janosch (2), Serving Suggestions, Aezron
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/foxmind/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/foxmind/)*

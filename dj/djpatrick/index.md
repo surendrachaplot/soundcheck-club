@@ -1,6 +1,6 @@
 # DJ Patrick
 
-DJ Patrick is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at Arcana, San Francisco/Oakland on Fri, 7 Aug 2026.
+DJ Patrick is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at Arcana, San Francisco/Oakland on Fri, 7 Aug 2026.
 
 DJ Patrick is a house and disco artist based in United States of America, tracked on soundcheck, with 9 sets logged across Sanfrancisco. Often billed alongside Eichef, Infinite Jess and Jason Kendig. Next up: Arcana, Sanfrancisco on Fri 7 Aug.
 
@@ -25,4 +25,4 @@ DJ Patrick is a house and disco artist based in United States of America, tracke
 
 Eichef, Infinite Jess, Jason Kendig
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/djpatrick/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/djpatrick/)*

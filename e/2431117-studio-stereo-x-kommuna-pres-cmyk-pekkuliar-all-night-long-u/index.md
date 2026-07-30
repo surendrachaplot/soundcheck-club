@@ -1,11 +1,11 @@
-# Studio Stereo x Kommuna pres. CMYK & pekkuliar (all night long) (until 4am) at TBA - Studio Stereo, close to pl. Catalunya, 08007, Barcelona
+# Studio Stereo x Kommuna pres. CMYK & pekkuliar (all night long) (until 4am) at Studio Stereo
 
-Studio Stereo x Kommuna pres. CMYK & pekkuliar (all night long) (until 4am) at TBA - Studio Stereo, close to pl. Catalunya, 08007, Barcelona on Fri 7 Aug, Barcelona. 3 acts on the bill: Bumpy Jones, CMYK and pekkuliar. House and Electro. Preview the line-up and save it on soundcheck.
+Studio Stereo x Kommuna pres. CMYK & pekkuliar (all night long) (until 4am) on Fri 7 Aug, Barcelona. 3 acts on the bill: Bumpy Jones, CMYK and pekkuliar. House and Electro. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
 | Date | Fri, 7 Aug 2026 |
-| Venue | TBA - Studio Stereo, close to pl. Catalunya, 08007, Barcelona |
+| Venue | Studio Stereo |
 | City | Barcelona |
 
 ## Line-up

@@ -1,6 +1,6 @@
 # Vaneska
 
-Vaneska is a Trance and Techno artist with 2 upcoming club dates listed on soundcheck as of Wed, 29 Jul 2026, next at Bahnwärter Thiel, Munich on Fri, 31 Jul 2026.
+Vaneska is a Trance and Techno artist with 2 upcoming club dates listed on soundcheck as of Thu, 30 Jul 2026, next at Bahnwärter Thiel, Munich on Fri, 31 Jul 2026.
 
 Vaneska is a trance and techno artist tracked on soundcheck, with 33 sets logged across Berlin, Cologne, Hamburg and Leipzig and 1 more. Often billed alongside NAGINI, Praun and 9LALEY. Next up: Bahnwärter Thiel, Munich on Fri 31 Jul.
 
@@ -26,4 +26,4 @@ Vaneska is a trance and techno artist tracked on soundcheck, with 33 sets logged
 
 NAGINI, Praun, 9LALEY
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/vaneska/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/vaneska/)*

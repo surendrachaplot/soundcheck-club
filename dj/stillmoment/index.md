@@ -1,6 +1,6 @@
 # Stillmoment
 
-Stillmoment is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at Aoyama Hachi, Tokyo on Fri, 31 Jul 2026.
+Stillmoment is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at Aoyama Hachi, Tokyo on Fri, 31 Jul 2026.
 
 Stillmoment is a house and techno artist based in Japan, tracked on soundcheck, with 31 sets logged across Kyoto, Osaka and Tokyo. Often billed alongside Haruka Katagata, Nari (2) and YO.AN. Next up: Aoyama Hachi, Tokyo on Fri 31 Jul.
 
@@ -25,4 +25,4 @@ Stillmoment is a house and techno artist based in Japan, tracked on soundcheck, 
 
 Haruka Katagata, Nari (2), YO.AN
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/stillmoment/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/stillmoment/)*

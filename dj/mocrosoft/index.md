@@ -1,6 +1,6 @@
 # Mocrosoft
 
-Mocrosoft is a Electro and House artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at KABUL à GoGo, Utrecht on Sat, 12 Sept 2026.
+Mocrosoft is a Electro and House artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at KABUL à GoGo, Utrecht on Sat, 12 Sept 2026.
 
 Mocrosoft is an electro and house artist based in Netherlands, tracked on soundcheck, with 12 sets logged across Amsterdam and Utrecht. Often billed alongside 36framez, Ada and Ambu Bambu. Next up: KABUL à GoGo, Utrecht on Sat 12 Sept.
 
@@ -25,4 +25,4 @@ Mocrosoft is an electro and house artist based in Netherlands, tracked on soundc
 
 36framez, Ada, Ambu Bambu
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/mocrosoft/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/mocrosoft/)*

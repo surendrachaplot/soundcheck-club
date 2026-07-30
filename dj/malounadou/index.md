@@ -1,6 +1,6 @@
 # Malounadou
 
-Malounadou is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at TBA - Paradies Garten Festival - Schloß Prugg 2, 2460 Gemeinde Bruck an der Leitha, Vienna on Fri, 31 Jul 2026.
+Malounadou is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at TBA - Paradies Garten Festival - Schloß Prugg 2, 2460 Gemeinde Bruck an der Leitha, Vienna on Fri, 31 Jul 2026.
 
 Malounadou is a house and disco artist based in Germany, tracked on soundcheck, with 4 sets logged across Vienna. Often billed alongside Anna Ullrich, Atsuo the Pineapple Donkey and Bad Boombox. Next up: TBA - Paradies Garten Festival - Schloß Prugg 2, 2460 Gemeinde Bruck an der Leitha, Vienna on Fri 31 Jul.
 
@@ -20,4 +20,4 @@ Malounadou is a house and disco artist based in Germany, tracked on soundcheck, 
 
 Anna Ullrich, Atsuo the Pineapple Donkey, Bad Boombox
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/malounadou/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/malounadou/)*

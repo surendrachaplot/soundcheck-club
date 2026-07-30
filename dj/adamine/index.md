@@ -1,6 +1,6 @@
 # adamine
 
-adamine is a Jungle and Drum & Bass artist with 2 upcoming club dates listed on soundcheck as of Wed, 29 Jul 2026, next at Brick Street, Liverpool on Sat, 26 Sept 2026.
+adamine is a Jungle and Drum & Bass artist with 2 upcoming club dates listed on soundcheck as of Thu, 30 Jul 2026, next at Brick Street, Liverpool on Sat, 26 Sept 2026.
 
 adamine is a jungle and drum & bass artist tracked on soundcheck, with 13 sets logged across Liverpool and Manchester. Often billed alongside Sweetly, Donya B Bass and Hardcore Babes. Next up: Brick Street, Liverpool on Sat 26 Sept.
 
@@ -26,4 +26,4 @@ adamine is a jungle and drum & bass artist tracked on soundcheck, with 13 sets l
 
 Sweetly, Donya B Bass, Hardcore Babes
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/adamine/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/adamine/)*

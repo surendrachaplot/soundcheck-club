@@ -1,6 +1,6 @@
 # Cufme
 
-Cufme is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at Phoxxi Green Area, Hamburg on Sat, 22 Aug 2026.
+Cufme is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at Phoxxi Green Area, Hamburg on Sat, 22 Aug 2026.
 
 Cufme is a techno and house artist based in Germany, tracked on soundcheck, with 16 sets logged across Berlin, Hamburg, Munich and Nurnberg and 1 more. Often billed alongside Bernossi, Penglord and Cyan85. Next up: Phoxxi Green Area, Hamburg on Sat 22 Aug.
 
@@ -25,4 +25,4 @@ Cufme is a techno and house artist based in Germany, tracked on soundcheck, with
 
 Bernossi, Penglord, Cyan85
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/cufme/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/cufme/)*

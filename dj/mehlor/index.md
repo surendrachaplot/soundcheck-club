@@ -1,6 +1,6 @@
 # Mehlor
 
-Mehlor is a House and Garage artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at The 212 Café & Bar, Leeds on Fri, 21 Aug 2026.
+Mehlor is a House and Garage artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at The 212 Café & Bar, Leeds on Fri, 21 Aug 2026.
 
 Mehlor is a house and garage artist based in United Kingdom, tracked on soundcheck, with 31 sets logged across Leeds, Manchester and Sheffield. Often billed alongside Max Le Louche, Joe Reece and Kinso. Next up: The 212 Café & Bar, Leeds on Fri 21 Aug.
 
@@ -25,4 +25,4 @@ Mehlor is a house and garage artist based in United Kingdom, tracked on soundche
 
 Max Le Louche, Joe Reece, Kinso
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/mehlor/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/mehlor/)*

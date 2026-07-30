@@ -1,14 +1,13 @@
 # Azumaya
 
-Azumaya is a music venue in Tokyo with 9 upcoming nights listed on soundcheck as of Wed, 29 Jul 2026; the next is "SubCurrent Vol.16" on Wed, 29 Jul 2026.
+Azumaya is a music venue in Tokyo with 8 upcoming nights listed on soundcheck as of Thu, 30 Jul 2026; the next is "Azumaya -Thursday-" on Thu, 30 Jul 2026.
 
-Azumaya is a music venue in Tokyo listed on soundcheck. 9 upcoming nights, with line-ups including Acrocanthosaurus, akii, arow and AVION and 2 more. Browse upcoming dates, start times and who's playing. 2F, 2-14-8 , Dogenzaka, Shibuya-ku, Tokyo, 150-0043, Japan.
+Azumaya is a music venue in Tokyo listed on soundcheck. 8 upcoming nights, with line-ups including Acrocanthosaurus, akii, arow and AVION and 2 more. Browse upcoming dates, start times and who's playing. 2F, 2-14-8 , Dogenzaka, Shibuya-ku, Tokyo, 150-0043, Japan.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Wed, 29 Jul 2026 | SubCurrent Vol.16 | KCT (1), Rt3mis, SolaNino, eurlica |
 | Thu, 30 Jul 2026 | Azumaya -Thursday- | Bonnie, Dihi, Kengo Yuasa, arow |
 | Sat, 1 Aug 2026 | Smoke Edge | Acrocanthosaurus, BLUEMEW, M.I.O, akii |
 | Mon, 3 Aug 2026 | Azumaya -Monday- | DJ EYELASH |
@@ -22,4 +21,4 @@ Azumaya is a music venue in Tokyo listed on soundcheck. 9 upcoming nights, with 
 
 2F, 2-14-8 , Dogenzaka, Shibuya-ku, Tokyo, 150-0043, Japan, Tokyo
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/azumaya/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/azumaya/)*

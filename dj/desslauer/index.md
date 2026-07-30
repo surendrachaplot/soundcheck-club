@@ -1,6 +1,6 @@
 # Desslauer
 
-Desslauer is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at Dot Club, Hamburg on Fri, 31 Jul 2026.
+Desslauer is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at Dot Club, Hamburg on Fri, 31 Jul 2026.
 
 Desslauer is a techno and house artist based in Germany, tracked on soundcheck, with 3 sets logged across Hamburg. Often billed alongside Teenage Mutants, Armian and CARBON NEGATIV. Next up: Dot Club, Hamburg on Fri 31 Jul.
 
@@ -19,4 +19,4 @@ Desslauer is a techno and house artist based in Germany, tracked on soundcheck, 
 
 Teenage Mutants, Armian, CARBON NEGATIV
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/desslauer/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/desslauer/)*

@@ -1,6 +1,6 @@
 # Mihai Popoviciu
 
-Mihai Popoviciu is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at Czech Boat, Prague on Sat, 19 Sept 2026.
+Mihai Popoviciu is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at Czech Boat, Prague on Sat, 19 Sept 2026.
 
 Mihai Popoviciu is a house and deep house artist tracked on soundcheck, with 66 sets logged across Amsterdam, Barcelona, Belgrade and Berlin and 28 more. Often billed alongside Andrey Pushkarev, Lola Palmer and Janeret. Next up: Czech Boat, Prague on Sat 19 Sept.
 
@@ -25,4 +25,4 @@ Mihai Popoviciu is a house and deep house artist tracked on soundcheck, with 66 
 
 Andrey Pushkarev, Lola Palmer, Janeret
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/mihaipopoviciu/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/mihaipopoviciu/)*

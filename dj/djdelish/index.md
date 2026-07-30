@@ -1,6 +1,6 @@
 # DJ Delish
 
-DJ Delish is a House and Ballroom artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at Nowadays, New York City on Thu, 30 Jul 2026.
+DJ Delish is a House and Ballroom artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at Nowadays, New York City on Thu, 30 Jul 2026.
 
 DJ Delish is a house and ballroom artist based in United States of America, tracked on soundcheck, with 37 sets logged across Newyorkcity, Philadelphia and Washingtondc. Often billed alongside DJ Dommis, Archangel and Cisne. Next up: Nowadays, Newyorkcity on Thu 30 Jul.
 
@@ -25,4 +25,4 @@ DJ Delish is a house and ballroom artist based in United States of America, trac
 
 DJ Dommis, Archangel, Cisne
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/djdelish/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/djdelish/)*

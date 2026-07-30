@@ -1,6 +1,6 @@
 # La Gosse
 
-La Gosse is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at Arch 535, London on Sat, 8 Aug 2026.
+La Gosse is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at Arch 535, London on Sat, 8 Aug 2026.
 
 La Gosse is a house and tech house artist tracked on soundcheck, with 28 sets logged across London and Marseille. Often billed alongside Samantha Blackburn, DeRizzio and Kesh (1). Next up: Arch 535, London on Sat 8 Aug.
 
@@ -25,4 +25,4 @@ La Gosse is a house and tech house artist tracked on soundcheck, with 28 sets lo
 
 Samantha Blackburn, DeRizzio, Kesh (1)
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/lagosse/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/lagosse/)*

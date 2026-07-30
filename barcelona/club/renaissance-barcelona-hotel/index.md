@@ -1,6 +1,6 @@
 # Renaissance Barcelona Hotel
 
-Renaissance Barcelona Hotel is a music venue in Barcelona with 1 upcoming night listed on soundcheck as of Wed, 29 Jul 2026; the next is "Goja Rooftop: THE AFTERWORK with Sonia Heis (3h disco set)" on Thu, 30 Jul 2026.
+Renaissance Barcelona Hotel is a music venue in Barcelona with 1 upcoming night listed on soundcheck as of Thu, 30 Jul 2026; the next is "Goja Rooftop: THE AFTERWORK with Sonia Heis (3h disco set)" on Thu, 30 Jul 2026.
 
 Renaissance Barcelona Hotel is a music venue in Barcelona listed on soundcheck. 1 upcoming night, with line-ups including Sonia Heis. Browse upcoming dates, start times and who's playing. C. Pau Claris 122, Barcelona.
 
@@ -14,4 +14,4 @@ Renaissance Barcelona Hotel is a music venue in Barcelona listed on soundcheck. 
 
 C. Pau Claris 122, Barcelona, Barcelona
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/renaissance-barcelona-hotel/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/renaissance-barcelona-hotel/)*

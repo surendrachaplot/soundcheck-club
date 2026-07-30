@@ -1,14 +1,15 @@
 # Emanate
 
-Emanate is a Techno and Progressive House artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at Escape, Amsterdam on Wed, 21 Oct 2026.
+Emanate is a Techno and Progressive House artist with 2 upcoming club dates listed on soundcheck as of Thu, 30 Jul 2026, next at Escape, Amsterdam on Wed, 21 Oct 2026.
 
-Emanate is a techno and progressive house artist based in United States of America, tracked on soundcheck, with 129 sets logged across Amsterdam, Berlin, Chicago and Copenhagen and 5 more. Often billed alongside HIDRA, Damienn and Matony. Next up: Escape, Amsterdam on Wed 21 Oct.
+Emanate is a techno and progressive house artist based in United States of America, tracked on soundcheck, with 130 sets logged across Amsterdam, Berlin, Chicago and Copenhagen and 5 more. Often billed alongside HIDRA, Damienn and Matony. Next up: Escape, Amsterdam on Wed 21 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Wed, 21 Oct 2026 | Escape | Amsterdam |
+| Fri, 23 Oct 2026 | Onder Hans | Amsterdam |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ Emanate is a techno and progressive house artist based in United States of Ameri
 
 HIDRA, Damienn, Matony
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/emanate/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/emanate/)*

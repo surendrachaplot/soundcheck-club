@@ -1,6 +1,6 @@
 # KONDO Mitsuo
 
-KONDO Mitsuo is a Deep House and House artist with 2 upcoming club dates listed on soundcheck as of Wed, 29 Jul 2026, next at Casablanca Riverside, Osaka on Sat, 1 Aug 2026.
+KONDO Mitsuo is a Deep House and House artist with 2 upcoming club dates listed on soundcheck as of Thu, 30 Jul 2026, next at Casablanca Riverside, Osaka on Sat, 1 Aug 2026.
 
 KONDO Mitsuo is a deep house and house artist based in Japan, tracked on soundcheck, with 98 sets logged across Osaka. Often billed alongside yu-more, Junki Akutagawa and aqtagawa. Next up: Casablanca Riverside, Osaka on Sat 1 Aug.
 
@@ -26,4 +26,4 @@ KONDO Mitsuo is a deep house and house artist based in Japan, tracked on soundch
 
 yu-more, Junki Akutagawa, aqtagawa
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/kondomitsuo/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/kondomitsuo/)*

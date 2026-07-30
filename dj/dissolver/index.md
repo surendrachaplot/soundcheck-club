@@ -1,6 +1,6 @@
 # Dissolver
 
-Dissolver is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at Beton-T, Utrecht on Sat, 1 Aug 2026.
+Dissolver is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at Beton-T, Utrecht on Sat, 1 Aug 2026.
 
 Dissolver is a techno and trance artist based in Netherlands, tracked on soundcheck, with 46 sets logged across Amsterdam, Berlin, Cologne and Dublin and 8 more. Often billed alongside Garbage Delight, Cynthia Spiering and Bad Boombox. Next up: Beton-T, Utrecht on Sat 1 Aug.
 
@@ -25,4 +25,4 @@ Dissolver is a techno and trance artist based in Netherlands, tracked on soundch
 
 Garbage Delight, Cynthia Spiering, Bad Boombox
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/dissolver/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/dissolver/)*

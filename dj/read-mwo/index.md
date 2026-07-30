@@ -1,6 +1,6 @@
 # মm.
 
-মm. is a Techno and Club artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at Praterbrücke, Vienna on Fri, 31 Jul 2026.
+মm. is a Techno and Club artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at Praterbrücke, Vienna on Fri, 31 Jul 2026.
 
 মm. is a techno and club artist tracked on soundcheck, with 29 sets logged across London, Prague and Vienna. Often billed alongside zey, Gawdesque and Qamareen. Next up: Praterbrücke, Vienna on Fri 31 Jul.
 
@@ -25,4 +25,4 @@
 
 zey, Gawdesque, Qamareen
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/read-mwo/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/read-mwo/)*

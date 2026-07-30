@@ -1,6 +1,6 @@
 # Alex Pastore
 
-Alex Pastore is a Experimental and Drum & Bass artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at ÆDEN, Berlin on Thu, 30 Jul 2026.
+Alex Pastore is a Experimental and Drum & Bass artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at ÆDEN, Berlin on Thu, 30 Jul 2026.
 
 Alex Pastore is an experimental and drum & bass artist based in Germany, tracked on soundcheck, with 4 sets logged across Berlin. Often billed alongside Unknown (Knife), Allexandra and Azkonar. Next up: ÆDEN, Berlin on Thu 30 Jul.
 
@@ -20,4 +20,4 @@ Alex Pastore is an experimental and drum & bass artist based in Germany, tracked
 
 Unknown (Knife), Allexandra, Azkonar
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/alexpastore/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/alexpastore/)*

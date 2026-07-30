@@ -1,6 +1,6 @@
 # Samo
 
-Samo is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at TBA - Secret Location, New York City on Sat, 1 Aug 2026.
+Samo is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at TBA - Secret Location, New York City on Sat, 1 Aug 2026.
 
 Samo is a house and techno artist based in Denmark, tracked on soundcheck, with 86 sets logged across Hongkong, Kyoto, London and Mexicocity and 4 more. Often billed alongside YUVIE, kengotaki and r1ku. Next up: TBA - Secret Location, Newyorkcity on Sat 1 Aug.
 
@@ -25,4 +25,4 @@ Samo is a house and techno artist based in Denmark, tracked on soundcheck, with 
 
 YUVIE, kengotaki, r1ku
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/samo/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/samo/)*

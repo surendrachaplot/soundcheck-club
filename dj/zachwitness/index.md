@@ -1,6 +1,6 @@
 # Zach Witness
 
-Zach Witness is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at Amnesia Ibiza, Ibiza on Fri, 14 Aug 2026.
+Zach Witness is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at Amnesia Ibiza, Ibiza on Fri, 14 Aug 2026.
 
 Zach Witness is a house and techno artist tracked on soundcheck, with 24 sets logged across Denver, Detroit, Ibiza and London and 4 more. Often billed alongside Melvo Baptiste, Yasmin and DJ Spen. Next up: Amnesia Ibiza, Ibiza on Fri 14 Aug.
 
@@ -25,4 +25,4 @@ Zach Witness is a house and techno artist tracked on soundcheck, with 24 sets lo
 
 Melvo Baptiste, Yasmin, DJ Spen
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/zachwitness/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/zachwitness/)*

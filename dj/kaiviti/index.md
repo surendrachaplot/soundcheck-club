@@ -1,6 +1,6 @@
 # Kaiviti
 
-Kaiviti is a House and Hip-Hop artist with 2 upcoming club dates listed on soundcheck as of Wed, 29 Jul 2026, next at Whammy Bar, Auckland on Sat, 1 Aug 2026.
+Kaiviti is a House and Hip-Hop artist with 2 upcoming club dates listed on soundcheck as of Thu, 30 Jul 2026, next at Whammy Bar, Auckland on Sat, 1 Aug 2026.
 
 Kaiviti is a house and hip-hop artist based in New Zealand, tracked on soundcheck, with 4 sets logged across Auckland. Often billed alongside AJ Honeysuckle, Andwahn and BBYFACEKILLA. Next up: Whammy Bar, Auckland on Sat 1 Aug.
 
@@ -20,4 +20,4 @@ Kaiviti is a house and hip-hop artist based in New Zealand, tracked on soundchec
 
 AJ Honeysuckle, Andwahn, BBYFACEKILLA
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/kaiviti/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/kaiviti/)*

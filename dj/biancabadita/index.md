@@ -1,6 +1,6 @@
 # Bianca Badita
 
-Bianca Badita is a Techno and Electro artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at Stereo, Montreal on Fri, 31 Jul 2026.
+Bianca Badita is a Techno and Electro artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at Stereo, Montreal on Fri, 31 Jul 2026.
 
 Bianca Badita is a techno and electro artist tracked on soundcheck, with 44 sets logged across Montreal. Often billed alongside Mike Larry, MPHS and CrisseMarqueur. Next up: Stereo, Montreal on Fri 31 Jul.
 
@@ -25,4 +25,4 @@ Bianca Badita is a techno and electro artist tracked on soundcheck, with 44 sets
 
 Mike Larry, MPHS, CrisseMarqueur
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/biancabadita/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/biancabadita/)*

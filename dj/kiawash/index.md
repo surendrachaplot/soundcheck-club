@@ -1,6 +1,6 @@
 # Kiawash
 
-Kiawash is a Bass and Electro artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at BLITZ, Munich on Fri, 31 Jul 2026.
+Kiawash is a Bass and Electro artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at BLITZ, Munich on Fri, 31 Jul 2026.
 
 Kiawash is a bass and electro artist based in Germany, tracked on soundcheck, with 23 sets logged across Cologne, Munich and Stuttgart. Often billed alongside Sarmabot, tbhase and Kareem El Morr. Next up: BLITZ, Munich on Fri 31 Jul.
 
@@ -25,4 +25,4 @@ Kiawash is a bass and electro artist based in Germany, tracked on soundcheck, wi
 
 Sarmabot, tbhase, Kareem El Morr
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/kiawash/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/kiawash/)*

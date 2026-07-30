@@ -1,6 +1,6 @@
 # Technymph
 
-Technymph is a Techno and Tech House artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at TBA, Stockholm on Sat, 1 Aug 2026.
+Technymph is a Techno and Tech House artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at TBA, Stockholm on Sat, 1 Aug 2026.
 
 Technymph is a techno and tech house artist based in Netherlands, tracked on soundcheck, with 2 sets logged across Copenhagen and Stockholm. Often billed alongside CC Luna, DJ KILLING and Dj handbag. Next up: TBA, Stockholm on Sat 1 Aug.
 
@@ -18,4 +18,4 @@ Technymph is a techno and tech house artist based in Netherlands, tracked on sou
 
 CC Luna, DJ KILLING, Dj handbag
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/technymph/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/technymph/)*

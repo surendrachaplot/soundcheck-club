@@ -1,6 +1,6 @@
 # Pjenné
 
-Pjenné is a Techno and Tech House artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at De Fik Garden, Amsterdam on Fri, 31 Jul 2026.
+Pjenné is a Techno and Tech House artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at De Fik Garden, Amsterdam on Fri, 31 Jul 2026.
 
 Pjenné is a techno and tech house artist tracked on soundcheck, with 74 sets logged across Amsterdam, Berlin, London and Melbourne and 4 more. Often billed alongside Millú, Andy Hart and Hybrid Man. Next up: De Fik Garden, Amsterdam on Fri 31 Jul.
 
@@ -25,4 +25,4 @@ Pjenné is a techno and tech house artist tracked on soundcheck, with 74 sets lo
 
 Millú, Andy Hart, Hybrid Man
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/pjenne-au/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/pjenne-au/)*

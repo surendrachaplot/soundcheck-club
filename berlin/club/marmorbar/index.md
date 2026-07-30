@@ -1,6 +1,6 @@
 # Marmorbar
 
-Marmorbar is a music venue in Berlin with 7 upcoming nights listed on soundcheck as of Wed, 29 Jul 2026; the next is "how to break your heart EP Release" on Fri, 31 Jul 2026.
+Marmorbar is a music venue in Berlin with 7 upcoming nights listed on soundcheck as of Thu, 30 Jul 2026; the next is "how to break your heart EP Release" on Fri, 31 Jul 2026.
 
 Marmorbar is a music venue in Berlin listed on soundcheck. 7 upcoming nights, with line-ups including 131bpm, ABIBA, Ananda (BR) and auto_timer and 2 more. Browse upcoming dates, start times and who's playing. Vor dem Schlesischen Tor 3  10997 Berlin.
 
@@ -20,4 +20,4 @@ Marmorbar is a music venue in Berlin listed on soundcheck. 7 upcoming nights, wi
 
 Vor dem Schlesischen Tor 3  10997 Berlin, Berlin
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/marmorbar/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/marmorbar/)*

@@ -1,6 +1,6 @@
 # Shellxbeats
 
-Shellxbeats is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at elipamanoke, Leipzig on Fri, 31 Jul 2026.
+Shellxbeats is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at elipamanoke, Leipzig on Fri, 31 Jul 2026.
 
 Shellxbeats is a techno and house artist based in Germany, tracked on soundcheck, with 4 sets logged across Leipzig. Often billed alongside Boni-Tii, DJ Pabloma Blanca and Enea Lu. Next up: elipamanoke, Leipzig on Fri 31 Jul.
 
@@ -20,4 +20,4 @@ Shellxbeats is a techno and house artist based in Germany, tracked on soundcheck
 
 Boni-Tii, DJ Pabloma Blanca, Enea Lu
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/shellxbeats/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/shellxbeats/)*

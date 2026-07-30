@@ -1,6 +1,6 @@
 # SEIGI.
 
-SEIGI. is a Hardcore and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at Nakano Heavysick Zero, Tokyo on Sat, 12 Sept 2026.
+SEIGI. is a Hardcore and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at Nakano Heavysick Zero, Tokyo on Sat, 12 Sept 2026.
 
 SEIGI. is a hardcore and techno artist based in Japan, tracked on soundcheck, with 4 sets logged across Tokyo. Often billed alongside HiroHiro, ATMK and Daniel Seven. Next up: Nakano Heavysick Zero, Tokyo on Sat 12 Sept.
 
@@ -20,4 +20,4 @@ SEIGI. is a hardcore and techno artist based in Japan, tracked on soundcheck, wi
 
 HiroHiro, ATMK, Daniel Seven
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/seigi./)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/seigi./)*

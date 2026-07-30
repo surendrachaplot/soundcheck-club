@@ -1,6 +1,6 @@
 # Sneaky Pete's
 
-Sneaky Pete's is a music venue in Edinburgh with 35 upcoming nights listed on soundcheck as of Wed, 29 Jul 2026; the next is "YBZ Invites Denham Audio" on Thu, 30 Jul 2026.
+Sneaky Pete's is a music venue in Edinburgh with 35 upcoming nights listed on soundcheck as of Thu, 30 Jul 2026; the next is "YBZ Invites Denham Audio" on Thu, 30 Jul 2026.
 
 Sneaky Pete's is a music venue in Edinburgh listed on soundcheck. 35 upcoming nights, with line-ups including Alexis Taylor, al gu, amhailt.xox and ANNX and 2 more. Browse upcoming dates, start times and who's playing. 73 Cowgate; Edinburgh, EH1 1JW; Scotland; United Kingdom.
 
@@ -23,4 +23,4 @@ Sneaky Pete's is a music venue in Edinburgh listed on soundcheck. 35 upcoming ni
 
 73 Cowgate; Edinburgh, EH1 1JW; Scotland; United Kingdom, Edinburgh
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/edinburgh/club/sneaky-pete-s/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/edinburgh/club/sneaky-pete-s/)*

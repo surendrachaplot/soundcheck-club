@@ -1,6 +1,6 @@
 # Ginchy
 
-Ginchy is a Afro House and Techno artist with 2 upcoming club dates listed on soundcheck as of Wed, 29 Jul 2026, next at UNDERCITY, Seoul on Fri, 31 Jul 2026.
+Ginchy is a Afro House and Techno artist with 2 upcoming club dates listed on soundcheck as of Thu, 30 Jul 2026, next at UNDERCITY, Seoul on Fri, 31 Jul 2026.
 
 Ginchy is an afro house and techno artist based in United Kingdom, tracked on soundcheck, with 12 sets logged across Amsterdam, Edinburgh, Ibiza and London and 1 more. Often billed alongside Human Rias, Nathassia and P.O.U. Next up: UNDERCITY, Seoul on Fri 31 Jul.
 
@@ -26,4 +26,4 @@ Ginchy is an afro house and techno artist based in United Kingdom, tracked on so
 
 Human Rias, Nathassia, P.O.U
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/ginchy/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/ginchy/)*

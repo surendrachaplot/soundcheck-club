@@ -1,6 +1,6 @@
 # Arzenal
 
-Arzenal is a music venue in Budapest with 10 upcoming nights listed on soundcheck as of Wed, 29 Jul 2026; the next is "LASTER x Mixmag x Arzenal BUDAPEST with Chlär, Philippa Pacho, Roll Dann B2B Kameliia & LAIA" on Fri, 31 Jul 2026.
+Arzenal is a music venue in Budapest with 10 upcoming nights listed on soundcheck as of Thu, 30 Jul 2026; the next is "LASTER x Mixmag x Arzenal BUDAPEST with Chlär, Philippa Pacho, Roll Dann B2B Kameliia & LAIA" on Fri, 31 Jul 2026.
 
 Arzenal is a music venue in Budapest listed on soundcheck. 10 upcoming nights, with line-ups including AEREA, Chlär, Cloudy and Cvrdwell and 2 more. Browse upcoming dates, start times and who's playing. Soroksári út 158/C Budapest, Hungary 1095.
 
@@ -9,7 +9,7 @@ Arzenal is a music venue in Budapest listed on soundcheck. 10 upcoming nights, w
 | Date | Night | Line-up |
 | --- | --- | --- |
 | Fri, 31 Jul 2026 | LASTER x Mixmag x Arzenal BUDAPEST with Chlär, Philippa Pacho, Roll Dann B2B Kameliia & LAIA | Chlär, Kameliia, Laia, Philippa Pacho, Roll Dann |
-| Fri, 31 Jul 2026 | Nachtwerk Pres. USH (NL) I FUMI (JP)  | FUMI, Kitti Kay |
+| Fri, 31 Jul 2026 | Nachtwerk Free Event | FUMI, Kitti Kay |
 | Wed, 19 Aug 2026 | Arzenál vs Katlan: The Summer Festival 2026 | JAPAU, Johannes Schuster, KUKO, OGUZ, Part Time Killer, Raxeller, Restricted, Ueberrest, elMefti |
 | Fri, 28 Aug 2026 | Nachtwerk Pres. Vieze Asbak I Juul Exler I Anoluxx | Vieze Asbak |
 | Sat, 5 Sept 2026 | ELYSIUM SUMMER CLOSING with Neon Graveyard + Technokool | Neon Graveyard, Technokool |
@@ -23,4 +23,4 @@ Arzenal is a music venue in Budapest listed on soundcheck. 10 upcoming nights, w
 
 Soroksári út 158/C Budapest, Hungary 1095, Budapest
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/budapest/club/arzenal/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/budapest/club/arzenal/)*

@@ -1,6 +1,6 @@
 # OUTLAND: Slay Society Goth/Industrial/Dark Techno/DnB Dance Night at Belltown Yacht Club
 
-OUTLAND: Slay Society Goth/Industrial/Dark Techno/DnB Dance Night at Belltown Yacht Club on Sat 22 Aug, Seattle. 1 act on the bill: Jordana. Techno and Industrial. Preview the line-up and save it on soundcheck.
+OUTLAND: Slay Society Goth/Industrial/Dark Techno/DnB Dance Night at Belltown Yacht Club on Sat 22 Aug, Seattle. 2 acts on the bill: Jordana and Sophixi. Techno and Industrial. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -11,5 +11,6 @@ OUTLAND: Slay Society Goth/Industrial/Dark Techno/DnB Dance Night at Belltown Ya
 ## Line-up
 
 - Jordana
+- Sophixi
 
 *Source: [soundcheck](https://soundcheck.club/e/2497209-outland-slay-society-goth-industrial-dark-techno-dnb-dance-n/)*

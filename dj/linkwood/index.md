@@ -1,6 +1,6 @@
 # Linkwood
 
-Linkwood is a House and Electronica artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at TBA - Secret Location, Glasgow on Sat, 29 Aug 2026.
+Linkwood is a House and Electronica artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at TBA - Secret Location, Glasgow on Sat, 29 Aug 2026.
 
 Linkwood is a house and electronica artist based in United Kingdom, tracked on soundcheck, with 19 sets logged across Barcelona, Edinburgh, Glasgow and Ibiza and 1 more. Often billed alongside DJ Dribbler, damside and noodle. Next up: TBA - Secret Location, Glasgow on Sat 29 Aug.
 
@@ -25,4 +25,4 @@ Linkwood is a house and electronica artist based in United Kingdom, tracked on s
 
 DJ Dribbler, damside, noodle
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/linkwood/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/linkwood/)*

@@ -1,6 +1,6 @@
 # Kathleen C
 
-Kathleen C is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at Schans van Landmolen, Antwerp on Sat, 1 Aug 2026.
+Kathleen C is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at Schans van Landmolen, Antwerp on Sat, 1 Aug 2026.
 
 Kathleen C is a techno and house artist based in Belgium, tracked on soundcheck, with 28 sets logged across Antwerp, Brussels, Strasbourg and Thehague. Often billed alongside Vera Moro, Azo and Stanislawa. Next up: Schans van Landmolen, Antwerp on Sat 1 Aug.
 
@@ -25,4 +25,4 @@ Kathleen C is a techno and house artist based in Belgium, tracked on soundcheck,
 
 Vera Moro, Azo, Stanislawa
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/kathleenc/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/kathleenc/)*

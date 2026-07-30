@@ -1,6 +1,6 @@
 # Evelyn Jaz
 
-Evelyn Jaz is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at EL SÓTANO, Madrid on Fri, 31 Jul 2026.
+Evelyn Jaz is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at EL SÓTANO, Madrid on Fri, 31 Jul 2026.
 
 Evelyn Jaz is a house and techno artist based in Argentina, tracked on soundcheck, with 7 sets logged across Madrid. Often billed alongside Brisa Then, Nahuel Farina and Nico Spina. Next up: EL SÓTANO, Madrid on Fri 31 Jul.
 
@@ -23,4 +23,4 @@ Evelyn Jaz is a house and techno artist based in Argentina, tracked on soundchec
 
 Brisa Then, Nahuel Farina, Nico Spina
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/evelynjaz/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/evelynjaz/)*

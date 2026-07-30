@@ -1,6 +1,6 @@
 # swisherman
 
-swisherman is a Techno and Bass artist with 2 upcoming club dates listed on soundcheck as of Wed, 29 Jul 2026, next at TBA - Brumby Bar Jindabyne, Sydney on Fri, 31 Jul 2026.
+swisherman is a Techno and Bass artist with 2 upcoming club dates listed on soundcheck as of Thu, 30 Jul 2026, next at TBA - Brumby Bar Jindabyne, Sydney on Fri, 31 Jul 2026.
 
 swisherman is a techno and bass artist based in Australia, tracked on soundcheck, with 9 sets logged across Sydney. Often billed alongside Lopro, Pinz and Quakes. Next up: TBA - Brumby Bar Jindabyne, Sydney on Fri 31 Jul.
 
@@ -25,4 +25,4 @@ swisherman is a techno and bass artist based in Australia, tracked on soundcheck
 
 Lopro, Pinz, Quakes
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/swisherman/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/swisherman/)*

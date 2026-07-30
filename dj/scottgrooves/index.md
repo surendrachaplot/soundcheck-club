@@ -1,6 +1,6 @@
 # Scott Grooves
 
-Scott Grooves is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at public records, New York City on Sat, 1 Aug 2026.
+Scott Grooves is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at public records, New York City on Sat, 1 Aug 2026.
 
 Scott Grooves is a house and techno artist based in United States of America, tracked on soundcheck, with 28 sets logged across Berlin, Detroit, Hamburg and Melbourne and 1 more. Often billed alongside Andrés, DJ Cent and Delano Smith. Next up: public records, Newyorkcity on Sat 1 Aug.
 
@@ -25,4 +25,4 @@ Scott Grooves is a house and techno artist based in United States of America, tr
 
 Andrés, DJ Cent, Delano Smith
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/scottgrooves/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/scottgrooves/)*

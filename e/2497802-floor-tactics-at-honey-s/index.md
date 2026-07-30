@@ -1,6 +1,6 @@
 # Floor Tactics at Honey's
 
-Floor Tactics at Honey's on Fri 7 Aug, Newyorkcity. 2 acts on the bill: Emsho and okDUNC. Progressive House. Preview the line-up and save it on soundcheck.
+Floor Tactics at Honey's on Fri 7 Aug, Newyorkcity. 3 acts on the bill: Emsho, Kindred (2) and okDUNC. Progressive House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -11,6 +11,7 @@ Floor Tactics at Honey's on Fri 7 Aug, Newyorkcity. 2 acts on the bill: Emsho an
 ## Line-up
 
 - Emsho
+- Kindred (2)
 - okDUNC
 
 *Source: [soundcheck](https://soundcheck.club/e/2497802-floor-tactics-at-honey-s/)*

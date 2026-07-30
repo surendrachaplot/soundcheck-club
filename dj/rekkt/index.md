@@ -1,6 +1,6 @@
 # Rekkt
 
-Rekkt is a Drum & Bass and Trance artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at Le Kilowatt, Paris on Sat, 8 Aug 2026.
+Rekkt is a Drum & Bass and Trance artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at Le Kilowatt, Paris on Sat, 8 Aug 2026.
 
 Rekkt is a drum & bass and trance artist based in Belgium, tracked on soundcheck, with 2 sets logged across Berlin and Paris. Often billed alongside DNNS, FLKN and Flymeon. Next up: Le Kilowatt, Paris on Sat 8 Aug.
 
@@ -18,4 +18,4 @@ Rekkt is a drum & bass and trance artist based in Belgium, tracked on soundcheck
 
 DNNS, FLKN, Flymeon
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/rekkt/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/rekkt/)*

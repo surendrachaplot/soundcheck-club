@@ -1,6 +1,6 @@
 # Soup snakeS
 
-Soup snakeS is a Techno and Experimental artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at OIL Club, Shenzhen on Fri, 4 Sept 2026.
+Soup snakeS is a Techno and Experimental artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at OIL Club, Shenzhen on Fri, 4 Sept 2026.
 
 Soup snakeS is a techno and experimental artist tracked on soundcheck, with 39 sets logged across Bangkok, Berlin and Shenzhen. Often billed alongside Sriracha Czaddy, Club Mascot and Wanton Witch. Next up: OIL Club, Shenzhen on Fri 4 Sept.
 
@@ -25,4 +25,4 @@ Soup snakeS is a techno and experimental artist tracked on soundcheck, with 39 s
 
 Sriracha Czaddy, Club Mascot, Wanton Witch
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/soupsnakes/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/soupsnakes/)*

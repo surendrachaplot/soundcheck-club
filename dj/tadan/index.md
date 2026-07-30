@@ -1,6 +1,6 @@
 # Tadan
 
-Tadan is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at Kaņepes Kultūras Centrs, Riga on Fri, 31 Jul 2026.
+Tadan is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at Kaņepes Kultūras Centrs, Riga on Fri, 31 Jul 2026.
 
 Tadan is a techno and trance artist based in Lithuania, tracked on soundcheck, with 25 sets logged across Barcelona, Berlin, Brussels and Cologne and 15 more. Often billed alongside Jan Swam, Pyramid of Knowledge and Exuvie. Next up: Kaņepes Kultūras Centrs, Riga on Fri 31 Jul.
 
@@ -25,4 +25,4 @@ Tadan is a techno and trance artist based in Lithuania, tracked on soundcheck, w
 
 Jan Swam, Pyramid of Knowledge, Exuvie
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/tadan/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/tadan/)*

@@ -1,6 +1,6 @@
 # The Camden
 
-The Camden is a music venue in London with 7 upcoming nights listed on soundcheck as of Wed, 29 Jul 2026; the next is "AURA presents: BELGIAN LINK UP (DNB/JUMP-UP) [ 7 Headliners - FREE TICKETS ]" on Fri, 31 Jul 2026.
+The Camden is a music venue in London with 7 upcoming nights listed on soundcheck as of Thu, 30 Jul 2026; the next is "AURA presents: BELGIAN LINK UP (DNB/JUMP-UP) [ 7 Headliners - FREE TICKETS ]" on Fri, 31 Jul 2026.
 
 The Camden is a music venue in London listed on soundcheck. 7 upcoming nights. Browse upcoming dates, start times and who's playing. 65 Crowndale Road, Camden, London, NW1 1TN.
 
@@ -20,4 +20,4 @@ The Camden is a music venue in London listed on soundcheck. 7 upcoming nights. B
 
 65 Crowndale Road, Camden, London, NW1 1TN, London
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/london/club/the-camden/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/london/club/the-camden/)*

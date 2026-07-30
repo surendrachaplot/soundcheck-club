@@ -1,6 +1,6 @@
 # FOLD
 
-FOLD is a music venue in London with 30 upcoming nights listed on soundcheck as of Wed, 29 Jul 2026; the next is "somov x Origins: Ignez, STERAC, Wala & Desireè" on Fri, 31 Jul 2026.
+FOLD is a music venue in London with 30 upcoming nights listed on soundcheck as of Thu, 30 Jul 2026; the next is "somov x Origins: Ignez, STERAC, Wala & Desireè" on Fri, 31 Jul 2026.
 
 FOLD is a music venue in London listed on soundcheck. 30 upcoming nights, with line-ups including adobeprincess, Alarico, Alba Heidari and Alien Communications and 2 more. Browse upcoming dates, start times and who's playing. Gillian House, Stephenson St, London E16 4SA, UK.
 
@@ -23,4 +23,4 @@ FOLD is a music venue in London listed on soundcheck. 30 upcoming nights, with l
 
 Gillian House, Stephenson St, London E16 4SA, UK, London
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/london/club/fold/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/london/club/fold/)*

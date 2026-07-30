@@ -1,6 +1,6 @@
 # dj mico
 
-dj mico is a Club and Experimental artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at TBA - CDMX, Mexico City on Sat, 8 Aug 2026.
+dj mico is a Club and Experimental artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at TBA - CDMX, Mexico City on Sat, 8 Aug 2026.
 
 dj mico is a club and experimental artist based in Mexico, tracked on soundcheck, with 6 sets logged across Mexicocity. Often billed alongside Atosigado, cowntrydog and ADAKEO. Next up: TBA - CDMX, Mexicocity on Sat 8 Aug.
 
@@ -22,4 +22,4 @@ dj mico is a club and experimental artist based in Mexico, tracked on soundcheck
 
 Atosigado, cowntrydog, ADAKEO
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/djmico/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/djmico/)*

@@ -1,6 +1,6 @@
 # OneSixOne
 
-OneSixOne is a music venue in Melbourne with 4 upcoming nights listed on soundcheck as of Wed, 29 Jul 2026; the next is "Molly Roberts - onesixone Thursday's" on Thu, 30 Jul 2026.
+OneSixOne is a music venue in Melbourne with 4 upcoming nights listed on soundcheck as of Thu, 30 Jul 2026; the next is "Molly Roberts - onesixone Thursday's" on Thu, 30 Jul 2026.
 
 OneSixOne is a music venue in Melbourne listed on soundcheck. 4 upcoming nights, with line-ups including Agent 86, BoyBlewe, Cara Murphy and Colette and 2 more. Browse upcoming dates, start times and who's playing. 161 High St; Prahran, VIC 3181; Australia.
 
@@ -17,4 +17,4 @@ OneSixOne is a music venue in Melbourne listed on soundcheck. 4 upcoming nights,
 
 161 High St; Prahran, VIC 3181; Australia, Melbourne
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/melbourne/club/onesixone/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/melbourne/club/onesixone/)*

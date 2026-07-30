@@ -1,6 +1,6 @@
 # Lincoln Factory
 
-Lincoln Factory is a music venue in Detroit with 8 upcoming nights listed on soundcheck as of Wed, 29 Jul 2026; the next is "GROUNDED" on Fri, 31 Jul 2026.
+Lincoln Factory is a music venue in Detroit with 8 upcoming nights listed on soundcheck as of Thu, 30 Jul 2026; the next is "GROUNDED" on Fri, 31 Jul 2026.
 
 Lincoln Factory is a music venue in Detroit listed on soundcheck. 8 upcoming nights, with line-ups including AK (US), Arlo Parks, Augustus Williams and DJ Fingers and 2 more. Browse upcoming dates, start times and who's playing. 1331 Holden Street, Detroit, MI 48202, USA.
 
@@ -21,4 +21,4 @@ Lincoln Factory is a music venue in Detroit listed on soundcheck. 8 upcoming nig
 
 1331 Holden Street, Detroit, MI 48202, USA, Detroit
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/detroit/club/lincoln-factory/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/detroit/club/lincoln-factory/)*

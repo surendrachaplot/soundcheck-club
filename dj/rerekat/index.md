@@ -1,6 +1,6 @@
 # rerekat
 
-rerekat is a Techno and Electro artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at Shelter, Seoul on Sat, 1 Aug 2026.
+rerekat is a Techno and Electro artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at Shelter, Seoul on Sat, 1 Aug 2026.
 
 rerekat is a techno and electro artist based in South Korea, tracked on soundcheck, with 42 sets logged across Seoul and Tokyo. Often billed alongside Honn, X2C (1) and Yomi. Next up: Shelter, Seoul on Sat 1 Aug.
 
@@ -25,4 +25,4 @@ rerekat is a techno and electro artist based in South Korea, tracked on soundche
 
 Honn, X2C (1), Yomi
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/rerekat/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/rerekat/)*

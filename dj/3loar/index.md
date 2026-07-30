@@ -1,6 +1,6 @@
 # 3LOAR
 
-3LOAR is a Techno and Electro artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at Glamorama, Melbourne on Fri, 31 Jul 2026.
+3LOAR is a Techno and Electro artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at Glamorama, Melbourne on Fri, 31 Jul 2026.
 
 3LOAR is a techno and electro artist tracked on soundcheck, with 26 sets logged across Melbourne and Tokyo. Often billed alongside Telefixa, AKEYLAH and HAUSWiFE. Next up: Glamorama, Melbourne on Fri 31 Jul.
 
@@ -25,4 +25,4 @@
 
 Telefixa, AKEYLAH, HAUSWiFE
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/3loar/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/3loar/)*

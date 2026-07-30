@@ -1,13 +1,14 @@
 # LATEX GIRL
 
-LATEX GIRL is a Techno and Electro artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at Tangent Gallery, Detroit on Sat, 15 Aug 2026.
+LATEX GIRL is a Techno and Electro artist with 2 upcoming club dates listed on soundcheck as of Thu, 30 Jul 2026, next at The Eagle of Detroit, Detroit on Fri, 31 Jul 2026.
 
-LATEX GIRL is a techno and electro artist based in United States of America, tracked on soundcheck, with 173 sets logged across Amsterdam, Boston, Chicago and Detroit and 1 more. Often billed alongside Wax Assassin, Garrison XR and we1sman. Next up: Tangent Gallery, Detroit on Sat 15 Aug.
+LATEX GIRL is a techno and electro artist based in United States of America, tracked on soundcheck, with 174 sets logged across Amsterdam, Boston, Chicago and Detroit and 1 more. Often billed alongside Wax Assassin, Garrison XR and we1sman. Next up: The Eagle of Detroit, Detroit on Fri 31 Jul.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 31 Jul 2026 | The Eagle of Detroit | Detroit |
 | Sat, 15 Aug 2026 | Tangent Gallery | Detroit |
 
 ## Recently played
@@ -25,4 +26,4 @@ LATEX GIRL is a techno and electro artist based in United States of America, tra
 
 Wax Assassin, Garrison XR, we1sman
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/latexgirl/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/latexgirl/)*

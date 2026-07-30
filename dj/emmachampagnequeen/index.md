@@ -1,14 +1,13 @@
 # Emma Champagne Queen
 
-Emma Champagne Queen is a House and Disco artist with 7 upcoming club dates listed on soundcheck as of Wed, 29 Jul 2026, next at Club NYX, Amsterdam on Wed, 29 Jul 2026.
+Emma Champagne Queen is a House and Disco artist with 6 upcoming club dates listed on soundcheck as of Thu, 30 Jul 2026, next at TILLATEC, Amsterdam on Sat, 1 Aug 2026.
 
-Emma Champagne Queen is a house and disco artist based in Netherlands, tracked on soundcheck, with 32 sets logged across Amsterdam, Thehague and Utrecht. Often billed alongside Kirilski, Pura Pachanga and Benny Rodrigues. Next up: Club NYX, Amsterdam on Wed 29 Jul.
+Emma Champagne Queen is a house and disco artist based in Netherlands, tracked on soundcheck, with 32 sets logged across Amsterdam, Thehague and Utrecht. Often billed alongside Kirilski, Pura Pachanga and Benny Rodrigues. Next up: TILLATEC, Amsterdam on Sat 1 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Wed, 29 Jul 2026 | Club NYX | Amsterdam |
 | Sat, 1 Aug 2026 | TILLATEC | Amsterdam |
 | Sun, 2 Aug 2026 | Radio Radio | Amsterdam |
 | Fri, 7 Aug 2026 | Madam | Amsterdam |
@@ -18,6 +17,7 @@ Emma Champagne Queen is a house and disco artist based in Netherlands, tracked o
 
 ## Recently played
 
+- Club NYX, Amsterdam — Wed, 29 Jul 2026
 - TBA - DAM SQUARE / VONDELPARK after 14:00, Amsterdam — Sat, 25 Jul 2026
 - SISSI'S Amsterdam, Amsterdam — Fri, 24 Jul 2026
 - SISSI'S Amsterdam, Amsterdam — Fri, 19 Jun 2026
@@ -25,10 +25,9 @@ Emma Champagne Queen is a house and disco artist based in Netherlands, tracked o
 - TBA - Tonton Noord, Amsterdam — Sat, 30 May 2026
 - THE OTHER SIDE, Amsterdam — Fri, 22 May 2026
 - Art'otel Amsterdam, Amsterdam — Sun, 26 Apr 2026
-- Madam, Amsterdam — Fri, 3 Apr 2026
 
 ## Shares bills with
 
 Kirilski, Pura Pachanga, Benny Rodrigues
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/emmachampagnequeen/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/emmachampagnequeen/)*

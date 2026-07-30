@@ -1,6 +1,6 @@
 # Scott Bradford
 
-Scott Bradford is a electronic artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at World Headquarters, Newcastle on Sat, 1 Aug 2026.
+Scott Bradford is a electronic artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at World Headquarters, Newcastle on Sat, 1 Aug 2026.
 
 Scott Bradford is an electronic artist tracked on soundcheck, with 2 sets logged across Newcastle. Often billed alongside Neil Bainbridge, Deep Dish and Sasha. Next up: World Headquarters, Newcastle on Sat 1 Aug.
 
@@ -18,4 +18,4 @@ Scott Bradford is an electronic artist tracked on soundcheck, with 2 sets logged
 
 Neil Bainbridge, Deep Dish, Sasha
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/scottbradford/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/scottbradford/)*

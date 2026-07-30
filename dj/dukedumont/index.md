@@ -1,6 +1,6 @@
 # Duke Dumont
 
-Duke Dumont is a House and Tech House artist with 3 upcoming club dates listed on soundcheck as of Wed, 29 Jul 2026, next at Radius, Chicago on Sat, 1 Aug 2026.
+Duke Dumont is a House and Tech House artist with 3 upcoming club dates listed on soundcheck as of Thu, 30 Jul 2026, next at Radius, Chicago on Sat, 1 Aug 2026.
 
 Duke Dumont is a house and tech house artist based in United Kingdom, tracked on soundcheck, with 31 sets logged across Austin, Boston, Chicago and Denver and 15 more. Often billed alongside Eli & Fur, Wax Motif and ANNA. Next up: Radius, Chicago on Sat 1 Aug.
 
@@ -27,4 +27,4 @@ Duke Dumont is a house and tech house artist based in United Kingdom, tracked on
 
 Eli & Fur, Wax Motif, ANNA
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/dukedumont/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/dukedumont/)*

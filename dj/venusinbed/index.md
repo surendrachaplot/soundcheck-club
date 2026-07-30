@@ -1,6 +1,6 @@
 # venus in bed
 
-venus in bed is a House and Footwork artist with 3 upcoming club dates listed on soundcheck as of Wed, 29 Jul 2026, next at Société des arts technologiques, Montreal on Fri, 31 Jul 2026.
+venus in bed is a House and Footwork artist with 3 upcoming club dates listed on soundcheck as of Thu, 30 Jul 2026, next at Société des arts technologiques, Montreal on Fri, 31 Jul 2026.
 
 venus in bed is a house and footwork artist based in Canada, tracked on soundcheck, with 4 sets logged across Montreal. Often billed alongside San Farafina, DJ Spirit and Djeity. Next up: Société des arts technologiques, Montreal on Fri 31 Jul.
 
@@ -20,4 +20,4 @@ venus in bed is a house and footwork artist based in Canada, tracked on soundche
 
 San Farafina, DJ Spirit, Djeity
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/venusinbed/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/venusinbed/)*

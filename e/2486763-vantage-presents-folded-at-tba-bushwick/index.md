@@ -1,6 +1,6 @@
 # Vantage presents: FOLDED at TBA - Bushwick
 
-Vantage presents: FOLDED at TBA - Bushwick on Fri 31 Jul, Newyorkcity. 5 acts on the bill: Daybreak, Devoye, JULIEN (NYC) and Knostalgia and 1 more. Techno. Preview the line-up and save it on soundcheck.
+Vantage presents: FOLDED at TBA - Bushwick on Fri 31 Jul, Newyorkcity. 6 acts on the bill: 3JJJ, Daybreak, Devoye and JULIEN (NYC) and 2 more. Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,6 +10,7 @@ Vantage presents: FOLDED at TBA - Bushwick on Fri 31 Jul, Newyorkcity. 5 acts on
 
 ## Line-up
 
+- 3JJJ
 - Daybreak
 - Devoye
 - JULIEN (NYC)

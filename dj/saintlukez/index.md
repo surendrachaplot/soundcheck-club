@@ -1,6 +1,6 @@
 # Saint Lukez
 
-Saint Lukez is a Disco and House artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at UNO MALTA, Malta on Thu, 24 Sept 2026.
+Saint Lukez is a Disco and House artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at UNO MALTA, Malta on Thu, 24 Sept 2026.
 
 Saint Lukez is a disco and house artist based in United Kingdom, tracked on soundcheck, with 32 sets logged across Amsterdam, Edinburgh, Liverpool and London and 4 more. Often billed alongside Jade Edwards, Chris Wheatley and Davide Del Vecchio. Next up: UNO MALTA, Malta on Thu 24 Sept.
 
@@ -25,4 +25,4 @@ Saint Lukez is a disco and house artist based in United Kingdom, tracked on soun
 
 Jade Edwards, Chris Wheatley, Davide Del Vecchio
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/saintlukez/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/saintlukez/)*

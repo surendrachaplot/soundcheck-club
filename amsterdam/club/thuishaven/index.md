@@ -1,6 +1,6 @@
 # Thuishaven
 
-Thuishaven is a music venue in Amsterdam with 20 upcoming nights listed on soundcheck as of Wed, 29 Jul 2026; the next is "SOLD OUT Summer of Love Festival 2026" on Sat, 1 Aug 2026.
+Thuishaven is a music venue in Amsterdam with 20 upcoming nights listed on soundcheck as of Thu, 30 Jul 2026; the next is "SOLD OUT Summer of Love Festival 2026" on Sat, 1 Aug 2026.
 
 Thuishaven is a music venue in Amsterdam listed on soundcheck. 20 upcoming nights, with line-ups including AAT (NL), AJ Christou, Ale De Tuglie and Alexander Koning and 2 more. Browse upcoming dates, start times and who's playing. Contactweg 68, 1014BW, Amsterdam, Nederland.
 
@@ -23,4 +23,4 @@ Thuishaven is a music venue in Amsterdam listed on soundcheck. 20 upcoming night
 
 Contactweg 68, 1014BW, Amsterdam, Nederland, Amsterdam
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/thuishaven/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/thuishaven/)*

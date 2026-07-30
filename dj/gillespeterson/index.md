@@ -1,6 +1,6 @@
 # Gilles Peterson
 
-Gilles Peterson is a House and Jazz artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at Finsbury Park, London on Sat, 8 Aug 2026.
+Gilles Peterson is a House and Jazz artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at Finsbury Park, London on Sat, 8 Aug 2026.
 
 Gilles Peterson is a house and jazz artist tracked on soundcheck, with 74 sets logged across Amsterdam, Auckland, Bali and Barcelona and 23 more. Often billed alongside Patrick Forge, Jamz Supernova and MUSCLECARS. Next up: Finsbury Park, London on Sat 8 Aug.
 
@@ -25,4 +25,4 @@ Gilles Peterson is a house and jazz artist tracked on soundcheck, with 74 sets l
 
 Patrick Forge, Jamz Supernova, MUSCLECARS
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/gillespeterson/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/gillespeterson/)*

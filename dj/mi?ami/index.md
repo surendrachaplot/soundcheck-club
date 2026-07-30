@@ -1,6 +1,6 @@
 # MiИAMi
 
-MiИAMi is a Dub and House artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at West Harlem, Kyoto on Sat, 1 Aug 2026.
+MiИAMi is a Dub and House artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at West Harlem, Kyoto on Sat, 1 Aug 2026.
 
 MiИAMi is a dub and house artist based in Japan, tracked on soundcheck, with 6 sets logged across Kyoto and Tokyo. Often billed alongside bungo, Bushmind and FELINE (JP). Next up: West Harlem, Kyoto on Sat 1 Aug.
 
@@ -22,4 +22,4 @@ MiИAMi is a dub and house artist based in Japan, tracked on soundcheck, with 6 
 
 bungo, Bushmind, FELINE (JP)
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/mi?ami/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/mi?ami/)*

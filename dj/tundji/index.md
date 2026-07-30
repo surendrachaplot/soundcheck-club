@@ -1,6 +1,6 @@
 # Tundji
 
-Tundji is a electronic artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at Waterkant, Amsterdam on Sat, 1 Aug 2026.
+Tundji is a electronic artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at Waterkant, Amsterdam on Sat, 1 Aug 2026.
 
 Tundji is an electronic artist based in Netherlands, tracked on soundcheck, with 7 sets logged across Amsterdam, Berlin, Brussels and Rotterdam. Often billed alongside kimmah, ZOBAYDA and 36framez. Next up: Waterkant, Amsterdam on Sat 1 Aug.
 
@@ -23,4 +23,4 @@ Tundji is an electronic artist based in Netherlands, tracked on soundcheck, with
 
 kimmah, ZOBAYDA, 36framez
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/tundji/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/tundji/)*

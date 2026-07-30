@@ -1,6 +1,6 @@
 # Mosh Project
 
-Mosh Project is a House and Electro artist with 2 upcoming club dates listed on soundcheck as of Wed, 29 Jul 2026, next at ://about blank, Berlin on Thu, 30 Jul 2026.
+Mosh Project is a House and Electro artist with 2 upcoming club dates listed on soundcheck as of Thu, 30 Jul 2026, next at ://about blank, Berlin on Thu, 30 Jul 2026.
 
 Mosh Project is a house and electro artist based in Germany, tracked on soundcheck, with 16 sets logged across Berlin. Often billed alongside Cecilio, Laurine and Jorge Escribano. Next up: ://about blank, Berlin on Thu 30 Jul.
 
@@ -26,4 +26,4 @@ Mosh Project is a house and electro artist based in Germany, tracked on soundche
 
 Cecilio, Laurine, Jorge Escribano
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/moshproject-de/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/moshproject-de/)*

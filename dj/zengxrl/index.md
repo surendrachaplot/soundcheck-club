@@ -1,6 +1,6 @@
 # Zengxrl
 
-Zengxrl is a Techno and Electronica artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at Razzmatazz, Barcelona on Fri, 31 Jul 2026.
+Zengxrl is a Techno and Electronica artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at Razzmatazz, Barcelona on Fri, 31 Jul 2026.
 
 Zengxrl is a techno and electronica artist based in Portugal, tracked on soundcheck, with 23 sets logged across Barcelona, Berlin, Geneva and Lisbon and 3 more. Often billed alongside Branko, Meg10 and VIL (PT). Next up: Razzmatazz, Barcelona on Fri 31 Jul.
 
@@ -25,4 +25,4 @@ Zengxrl is a techno and electronica artist based in Portugal, tracked on soundch
 
 Branko, Meg10, VIL (PT)
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/zengxrl/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/zengxrl/)*

@@ -1,6 +1,6 @@
 # BiLatinBby
 
-BiLatinBby is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at Subterrannean, Chicago on Sat, 8 Aug 2026.
+BiLatinBby is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at Subterrannean, Chicago on Sat, 8 Aug 2026.
 
 BiLatinBby is a techno and house artist based in Brazil, tracked on soundcheck, with 8 sets logged across Chicago. Often billed alongside Juan aka grizzly, Mister Wallace and COBRA B. Next up: Subterrannean, Chicago on Sat 8 Aug.
 
@@ -24,4 +24,4 @@ BiLatinBby is a techno and house artist based in Brazil, tracked on soundcheck, 
 
 Juan aka grizzly, Mister Wallace, COBRA B
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/bilatinbby/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/bilatinbby/)*

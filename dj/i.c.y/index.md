@@ -1,6 +1,6 @@
 # I.C.Y
 
-I.C.Y is a Techno and Bass artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at TBA - Brumby Bar Jindabyne, Sydney on Fri, 31 Jul 2026.
+I.C.Y is a Techno and Bass artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at TBA - Brumby Bar Jindabyne, Sydney on Fri, 31 Jul 2026.
 
 I.C.Y is a techno and bass artist based in Australia, tracked on soundcheck, with 2 sets logged across Sydney. Often billed alongside Lopro, Quakes and Adarah. Next up: TBA - Brumby Bar Jindabyne, Sydney on Fri 31 Jul.
 
@@ -18,4 +18,4 @@ I.C.Y is a techno and bass artist based in Australia, tracked on soundcheck, wit
 
 Lopro, Quakes, Adarah
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/i.c.y/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/i.c.y/)*

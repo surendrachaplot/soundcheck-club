@@ -1,6 +1,6 @@
 # DJ Dommis
 
-DJ Dommis is a House and Funk / Soul artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at North Bowl, Philadelphia on Sun, 2 Aug 2026.
+DJ Dommis is a House and Funk / Soul artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at North Bowl, Philadelphia on Sun, 2 Aug 2026.
 
 DJ Dommis is a house and funk / soul artist based in United States of America, tracked on soundcheck, with 39 sets logged across Newyorkcity and Philadelphia. Often billed alongside DJ Delish, Rob Paine and DJ lil'dave. Next up: North Bowl, Philadelphia on Sun 2 Aug.
 
@@ -25,4 +25,4 @@ DJ Dommis is a house and funk / soul artist based in United States of America, t
 
 DJ Delish, Rob Paine, DJ lil'dave
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/djdommis/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/djdommis/)*

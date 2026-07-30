@@ -1,6 +1,6 @@
 # Dylan Dylan
 
-Dylan Dylan is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at La Cité Fertile, Paris on Fri, 31 Jul 2026.
+Dylan Dylan is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at La Cité Fertile, Paris on Fri, 31 Jul 2026.
 
 Dylan Dylan is a house and techno artist tracked on soundcheck, with 49 sets logged across Berlin, London, Lyon and Marseille and 4 more. Often billed alongside Marina Trench, Tatie Dee and Kx9000. Next up: La Cité Fertile, Paris on Fri 31 Jul.
 
@@ -25,4 +25,4 @@ Dylan Dylan is a house and techno artist tracked on soundcheck, with 49 sets log
 
 Marina Trench, Tatie Dee, Kx9000
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/dylandylan/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/dylandylan/)*

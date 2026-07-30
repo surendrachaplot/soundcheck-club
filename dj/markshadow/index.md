@@ -1,6 +1,6 @@
 # mark shadow
 
-mark shadow is a Electro and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at Gallery, London on Thu, 30 Jul 2026.
+mark shadow is a Electro and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at Gallery, London on Thu, 30 Jul 2026.
 
 mark shadow is an electro and techno artist tracked on soundcheck, with 26 sets logged across Brighton and London. Often billed alongside KAMEROL, IZZY (UK) and Cristian Sirica. Next up: Gallery, London on Thu 30 Jul.
 
@@ -25,4 +25,4 @@ mark shadow is an electro and techno artist tracked on soundcheck, with 26 sets 
 
 KAMEROL, IZZY (UK), Cristian Sirica
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/markshadow/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/markshadow/)*

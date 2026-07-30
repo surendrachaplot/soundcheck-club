@@ -1,6 +1,6 @@
 # himeee
 
-himeee is a electronic artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at Club der Visionaere, Berlin on Sun, 2 Aug 2026.
+himeee is a electronic artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at Club der Visionaere, Berlin on Sun, 2 Aug 2026.
 
 himeee is an electronic artist based in Germany, tracked on soundcheck, with 9 sets logged across Berlin. Often billed alongside Chica Paula, Ponura and Francesco Passantino. Next up: Club der Visionaere, Berlin on Sun 2 Aug.
 
@@ -25,4 +25,4 @@ himeee is an electronic artist based in Germany, tracked on soundcheck, with 9 s
 
 Chica Paula, Ponura, Francesco Passantino
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/himeee/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/himeee/)*

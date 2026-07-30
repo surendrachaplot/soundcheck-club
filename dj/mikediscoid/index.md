@@ -1,6 +1,6 @@
 # Mike Discoid
 
-Mike Discoid is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at Korpuss, Riga on Fri, 31 Jul 2026.
+Mike Discoid is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at Korpuss, Riga on Fri, 31 Jul 2026.
 
 Mike Discoid is a house and deep house artist tracked on soundcheck, with 22 sets logged across Riga. Often billed alongside Kapusta, Kelvin and Nicolas Barnes. Next up: Korpuss, Riga on Fri 31 Jul.
 
@@ -25,4 +25,4 @@ Mike Discoid is a house and deep house artist tracked on soundcheck, with 22 set
 
 Kapusta, Kelvin, Nicolas Barnes
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/mikediscoid/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/mikediscoid/)*

@@ -1,18 +1,18 @@
 # KarateKnur
 
-KarateKnur is a Reggaeton and Baile Funk artist with 2 upcoming club dates listed on soundcheck as of Wed, 29 Jul 2026, next at BarKa, Warsaw on Wed, 29 Jul 2026.
+KarateKnur is a Reggaeton and Baile Funk artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at Schodki Bar, Warsaw on Fri, 7 Aug 2026.
 
-KarateKnur is a reggaeton and baile funk artist based in Poland, tracked on soundcheck, with 53 sets logged across Berlin, Krakow and Warsaw. Often billed alongside Cosaco, Adobo (PL) and Fourth World Music. Next up: BarKa, Warsaw on Wed 29 Jul.
+KarateKnur is a reggaeton and baile funk artist based in Poland, tracked on soundcheck, with 53 sets logged across Berlin, Krakow and Warsaw. Often billed alongside Cosaco, Adobo (PL) and Fourth World Music. Next up: Schodki Bar, Warsaw on Fri 7 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Wed, 29 Jul 2026 | BarKa | Warsaw |
 | Fri, 7 Aug 2026 | Schodki Bar | Warsaw |
 
 ## Recently played
 
+- BarKa, Warsaw — Wed, 29 Jul 2026
 - barStudio, Warsaw — Fri, 24 Jul 2026
 - BarKa, Warsaw — Tue, 14 Jul 2026
 - DZiK, Warsaw — Fri, 10 Jul 2026
@@ -20,10 +20,9 @@ KarateKnur is a reggaeton and baile funk artist based in Poland, tracked on soun
 - Piękny Pies, Krakow — Fri, 22 May 2026
 - underiolo, Warsaw — Sat, 2 May 2026
 - Piękny Pies, Krakow — Fri, 24 Apr 2026
-- Luz Maria Bar, Warsaw — Fri, 17 Apr 2026
 
 ## Shares bills with
 
 Cosaco, Adobo (PL), Fourth World Music
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/karateknur/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/karateknur/)*

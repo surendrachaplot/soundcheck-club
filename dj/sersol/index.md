@@ -1,6 +1,6 @@
 # sersol
 
-sersol is a House and Bass artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at The Barbary, Philadelphia on Sat, 1 Aug 2026.
+sersol is a House and Bass artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at The Barbary, Philadelphia on Sat, 1 Aug 2026.
 
 sersol is a house and bass artist based in United States of America, tracked on soundcheck, with 9 sets logged across Newyorkcity and Philadelphia. Often billed alongside Sunday Double, hanzondeck and .breeze. Next up: The Barbary, Philadelphia on Sat 1 Aug.
 
@@ -25,4 +25,4 @@ sersol is a house and bass artist based in United States of America, tracked on 
 
 Sunday Double, hanzondeck, .breeze
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/sersol/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/sersol/)*

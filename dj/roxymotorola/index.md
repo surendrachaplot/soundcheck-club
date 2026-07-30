@@ -1,6 +1,6 @@
 # Roxy Motorola
 
-Roxy Motorola is a Disco and Italo Disco artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at The Lido, Vancouver on Fri, 31 Jul 2026.
+Roxy Motorola is a Disco and Italo Disco artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at The Lido, Vancouver on Fri, 31 Jul 2026.
 
 Roxy Motorola is a disco and italo disco artist based in Canada, tracked on soundcheck, with 21 sets logged across Vancouver. Often billed alongside Parmis and DJ D.Dee. Next up: The Lido, Vancouver on Fri 31 Jul.
 
@@ -25,4 +25,4 @@ Roxy Motorola is a disco and italo disco artist based in Canada, tracked on soun
 
 Parmis, DJ D.Dee
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/roxymotorola/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/roxymotorola/)*

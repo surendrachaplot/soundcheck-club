@@ -1,6 +1,6 @@
 # Baauer
 
-Baauer is a Bass and Electronica artist with 3 upcoming club dates listed on soundcheck as of Wed, 29 Jul 2026, next at SILO, New York City on Sat, 19 Sept 2026.
+Baauer is a Bass and Electronica artist with 3 upcoming club dates listed on soundcheck as of Thu, 30 Jul 2026, next at SILO, New York City on Sat, 19 Sept 2026.
 
 Baauer is a bass and electronica artist based in United States of America, tracked on soundcheck, with 16 sets logged across Boston, Houston, Losangeles and Mexicocity and 4 more. Often billed alongside A-Trak, Bianca Oblivion and Club Eat. Next up: SILO, Newyorkcity on Sat 19 Sept.
 
@@ -27,4 +27,4 @@ Baauer is a bass and electronica artist based in United States of America, track
 
 A-Trak, Bianca Oblivion, Club Eat
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/baauer/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/baauer/)*

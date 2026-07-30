@@ -1,14 +1,15 @@
 # Orson.NYC
 
-Orson.NYC is a House and Disco artist with 2 upcoming club dates listed on soundcheck as of Wed, 29 Jul 2026, next at Dead Letter No. 9, New York City on Fri, 7 Aug 2026.
+Orson.NYC is a House and Disco artist with 3 upcoming club dates listed on soundcheck as of Thu, 30 Jul 2026, next at Dead Letter No. 9, New York City on Fri, 7 Aug 2026.
 
-Orson.NYC is a house and disco artist based in France, tracked on soundcheck, with 47 sets logged across Newyorkcity. Often billed alongside Anna Poduchi, DJ Erewhon and Alan Braxe. Next up: Dead Letter No. 9, Newyorkcity on Fri 7 Aug.
+Orson.NYC is a house and disco artist based in France, tracked on soundcheck, with 48 sets logged across Newyorkcity. Often billed alongside Anna Poduchi, DJ Erewhon and Alan Braxe. Next up: Dead Letter No. 9, Newyorkcity on Fri 7 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 7 Aug 2026 | Dead Letter No. 9 | New York City |
+| Sat, 8 Aug 2026 | Le Bain | New York City |
 | Sat, 5 Sept 2026 | LoHi | New York City |
 
 ## Recently played
@@ -26,4 +27,4 @@ Orson.NYC is a house and disco artist based in France, tracked on soundcheck, wi
 
 Anna Poduchi, DJ Erewhon, Alan Braxe
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/orson.nyc/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/orson.nyc/)*

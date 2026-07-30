@@ -1,6 +1,6 @@
 # Doruksen
 
-Doruksen is a Techno and Hardcore artist with 4 upcoming club dates listed on soundcheck as of Wed, 29 Jul 2026, next at The Comfort Zone, Toronto on Fri, 7 Aug 2026.
+Doruksen is a Techno and Hardcore artist with 4 upcoming club dates listed on soundcheck as of Thu, 30 Jul 2026, next at The Comfort Zone, Toronto on Fri, 7 Aug 2026.
 
 Doruksen is a techno and hardcore artist tracked on soundcheck, with 105 sets logged across Amsterdam, Antwerp, Barcelona and Belfast and 37 more. Often billed alongside Raxeller, Cloudy and Jan Vercauteren. Next up: The Comfort Zone, Toronto on Fri 7 Aug.
 
@@ -10,8 +10,8 @@ Doruksen is a techno and hardcore artist tracked on soundcheck, with 105 sets lo
 | --- | --- | --- |
 | Fri, 7 Aug 2026 | The Comfort Zone | Toronto |
 | Sat, 8 Aug 2026 | Harbour Event Centre | Vancouver |
-| Fri, 14 Aug 2026 | E1 | London |
 | Sat, 22 Aug 2026 | Nidderbad | Frankfurt |
+| Fri, 16 Oct 2026 | E1 | London |
 
 ## Recently played
 
@@ -28,4 +28,4 @@ Doruksen is a techno and hardcore artist tracked on soundcheck, with 105 sets lo
 
 Raxeller, Cloudy, Jan Vercauteren
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/doruksen/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/doruksen/)*

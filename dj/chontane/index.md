@@ -1,14 +1,15 @@
 # Chontane
 
-Chontane is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Wed, 29 Jul 2026, next at RSO.BERLIN, Berlin on Fri, 7 Aug 2026.
+Chontane is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Thu, 30 Jul 2026, next at RSO.BERLIN, Berlin on Fri, 7 Aug 2026.
 
-Chontane is a techno and house artist tracked on soundcheck, with 76 sets logged across Amsterdam, Barcelona, Berlin and Brussels and 28 more. Often billed alongside SHDW, Lars Huismann and Regent. Next up: RSO.BERLIN, Berlin on Fri 7 Aug.
+Chontane is a techno and house artist tracked on soundcheck, with 77 sets logged across Amsterdam, Barcelona, Berlin and Brussels and 29 more. Often billed alongside SHDW, Lars Huismann and Regent. Next up: RSO.BERLIN, Berlin on Fri 7 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 7 Aug 2026 | RSO.BERLIN | Berlin |
+| Sat, 22 Aug 2026 | TBA | Toronto |
 | Sat, 5 Sept 2026 | Club Phoenix - Gianpula Village | Malta |
 
 ## Recently played
@@ -26,4 +27,4 @@ Chontane is a techno and house artist tracked on soundcheck, with 76 sets logged
 
 SHDW, Lars Huismann, Regent
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/chontane/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/chontane/)*

@@ -1,6 +1,6 @@
 # Uncle Steve
 
-Uncle Steve is a House and Minimal artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at The Bernard Shaw, Dublin on Sat, 5 Sept 2026.
+Uncle Steve is a House and Minimal artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at The Bernard Shaw, Dublin on Sat, 5 Sept 2026.
 
 Uncle Steve is a house and minimal artist based in Ireland, tracked on soundcheck, with 4 sets logged across Dublin. Often billed alongside AJ Christou, Accomplice and Alex Stein. Next up: The Bernard Shaw, Dublin on Sat 5 Sept.
 
@@ -20,4 +20,4 @@ Uncle Steve is a house and minimal artist based in Ireland, tracked on soundchec
 
 AJ Christou, Accomplice, Alex Stein
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/unclesteve/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/unclesteve/)*

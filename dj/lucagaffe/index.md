@@ -1,6 +1,6 @@
 # Luca Gaffe
 
-Luca Gaffe is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at Gaffe, London on Sat, 1 Aug 2026.
+Luca Gaffe is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at Gaffe, London on Sat, 1 Aug 2026.
 
 Luca Gaffe is a techno and house artist based in United Kingdom, tracked on soundcheck, with 19 sets logged across London and Manchester. Often billed alongside Leoplur, Aquamarine and London Hatred. Next up: Gaffe, London on Sat 1 Aug.
 
@@ -25,4 +25,4 @@ Luca Gaffe is a techno and house artist based in United Kingdom, tracked on soun
 
 Leoplur, Aquamarine, London Hatred
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/lucagaffe/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/lucagaffe/)*

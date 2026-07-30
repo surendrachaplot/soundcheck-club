@@ -1,6 +1,6 @@
 # Side Quest
 
-Side Quest is a House and Bass artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at The Concourse Project, Austin on Sat, 8 Aug 2026.
+Side Quest is a House and Bass artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at The Concourse Project, Austin on Sat, 8 Aug 2026.
 
 Side Quest is a house and bass artist tracked on soundcheck, with 23 sets logged across Austin, Boston, Copenhagen and Detroit and 3 more. Often billed alongside Lovin Duo, Lvca and Sunrush. Next up: The Concourse Project, Austin on Sat 8 Aug.
 
@@ -25,4 +25,4 @@ Side Quest is a house and bass artist tracked on soundcheck, with 23 sets logged
 
 Lovin Duo, Lvca, Sunrush
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/sidequest/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/sidequest/)*

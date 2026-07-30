@@ -1,6 +1,6 @@
 # La Cheetah Club
 
-La Cheetah Club is a music venue in Glasgow with 22 upcoming nights listed on soundcheck as of Wed, 29 Jul 2026; the next is "SEQUENCE x Repetitions: Chapter One" on Thu, 30 Jul 2026.
+La Cheetah Club is a music venue in Glasgow with 22 upcoming nights listed on soundcheck as of Thu, 30 Jul 2026; the next is "SEQUENCE x Repetitions: Chapter One" on Thu, 30 Jul 2026.
 
 La Cheetah Club is a music venue in Glasgow listed on soundcheck. 22 upcoming nights, with line-ups including Ali Watts, Boss Priester, Bristol Luke and Carmen Baía and 2 more. Browse upcoming dates, start times and who's playing. Basement, 73 Queen Street; Glasgow, G1 3BZ; Scotland; United Kingdom.
 
@@ -23,4 +23,4 @@ La Cheetah Club is a music venue in Glasgow listed on soundcheck. 22 upcoming ni
 
 Basement, 73 Queen Street; Glasgow, G1 3BZ; Scotland; United Kingdom, Glasgow
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/glasgow/club/la-cheetah-club/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/glasgow/club/la-cheetah-club/)*

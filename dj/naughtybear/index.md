@@ -1,6 +1,6 @@
 # Naughty Bear
 
-Naughty Bear is a Progressive House and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at TBA, Newcastle on Sat, 1 Aug 2026.
+Naughty Bear is a Progressive House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at TBA, Newcastle on Sat, 1 Aug 2026.
 
 Naughty Bear is a progressive house and techno artist tracked on soundcheck, with 8 sets logged across Newcastle. Often billed alongside Mark Bone, Alan Ruddick and Luke Coulson. Next up: TBA, Newcastle on Sat 1 Aug.
 
@@ -24,4 +24,4 @@ Naughty Bear is a progressive house and techno artist tracked on soundcheck, wit
 
 Mark Bone, Alan Ruddick, Luke Coulson
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/naughtybear/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/naughtybear/)*

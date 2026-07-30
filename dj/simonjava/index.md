@@ -1,6 +1,6 @@
 # Simón JaVa
 
-Simón JaVa is a Reggaeton and Neo Perreo artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at Panke, Berlin on Fri, 7 Aug 2026.
+Simón JaVa is a Reggaeton and Neo Perreo artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at Panke, Berlin on Fri, 7 Aug 2026.
 
 Simón JaVa is a reggaeton and neo perreo artist based in Colombia, tracked on soundcheck, with 15 sets logged across Berlin and Leipzig. Often billed alongside eÑe (1), PAULAH and DJ LOUI FROM JUPITER4. Next up: Panke, Berlin on Fri 7 Aug.
 
@@ -25,4 +25,4 @@ Simón JaVa is a reggaeton and neo perreo artist based in Colombia, tracked on s
 
 eÑe (1), PAULAH, DJ LOUI FROM JUPITER4
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/simonjava/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/simonjava/)*

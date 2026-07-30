@@ -1,6 +1,6 @@
 # Hardline
 
-Hardline is a Breakbeat and Jungle artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at BASIS, Utrecht on Fri, 11 Sept 2026.
+Hardline is a Breakbeat and Jungle artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at BASIS, Utrecht on Fri, 11 Sept 2026.
 
 Hardline is a breakbeat and jungle artist based in United States of America, tracked on soundcheck, with 2 sets logged across Tokyo and Utrecht. Often billed alongside Alarico, AnD and BU$$IN. Next up: BASIS, Utrecht on Fri 11 Sept.
 
@@ -18,4 +18,4 @@ Hardline is a breakbeat and jungle artist based in United States of America, tra
 
 Alarico, AnD, BU$$IN
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/hardline/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/hardline/)*

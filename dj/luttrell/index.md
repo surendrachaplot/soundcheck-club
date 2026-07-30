@@ -1,6 +1,6 @@
 # Luttrell
 
-Luttrell is a Deep House and House artist with 5 upcoming club dates listed on soundcheck as of Wed, 29 Jul 2026, next at ZeyZey, Miami on Fri, 14 Aug 2026.
+Luttrell is a Deep House and House artist with 5 upcoming club dates listed on soundcheck as of Thu, 30 Jul 2026, next at ZeyZey, Miami on Fri, 14 Aug 2026.
 
 Luttrell is a deep house and house artist tracked on soundcheck, with 45 sets logged across Auckland, Austin, Chicago and Denver and 15 more. Often billed alongside Hana, CRi and Jody Wisternoff. Next up: ZeyZey, Miami on Fri 14 Aug.
 
@@ -29,4 +29,4 @@ Luttrell is a deep house and house artist tracked on soundcheck, with 45 sets lo
 
 Hana, CRi, Jody Wisternoff
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/luttrell/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/luttrell/)*

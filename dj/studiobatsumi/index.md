@@ -1,6 +1,6 @@
 # Studio Batsumi
 
-Studio Batsumi is a House and Italo Disco artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at Crate Brewery, London on Sun, 2 Aug 2026.
+Studio Batsumi is a House and Italo Disco artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at Crate Brewery, London on Sun, 2 Aug 2026.
 
 Studio Batsumi is a house and italo disco artist based in Italy, tracked on soundcheck, with 14 sets logged across London, Nottingham and Tokyo. Often billed alongside Mr James, JOSH FB and Max Sinàl. Next up: Crate Brewery, London on Sun 2 Aug.
 
@@ -25,4 +25,4 @@ Studio Batsumi is a house and italo disco artist based in Italy, tracked on soun
 
 Mr James, JOSH FB, Max Sinàl
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/studiobatsumi/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/studiobatsumi/)*

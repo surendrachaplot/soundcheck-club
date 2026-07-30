@@ -1,6 +1,6 @@
 # baeker
 
-baeker is a House and Garage artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at Toldi Klub, Budapest on Sat, 1 Aug 2026.
+baeker is a House and Garage artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at Toldi Klub, Budapest on Sat, 1 Aug 2026.
 
 baeker is a house and garage artist tracked on soundcheck, with 76 sets logged across Budapest. Often billed alongside quera, Kiqo and Gemcamp. Next up: Toldi Klub, Budapest on Sat 1 Aug.
 
@@ -25,4 +25,4 @@ baeker is a house and garage artist tracked on soundcheck, with 76 sets logged a
 
 quera, Kiqo, Gemcamp
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/baeker/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/baeker/)*

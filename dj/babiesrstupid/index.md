@@ -1,6 +1,6 @@
 # Babies R Stupid
 
-Babies R Stupid is a Techno and Electro artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at Red Gate Arts Society, Vancouver on Sat, 1 Aug 2026.
+Babies R Stupid is a Techno and Electro artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at Red Gate Arts Society, Vancouver on Sat, 1 Aug 2026.
 
 Babies R Stupid is a techno and electro artist based in United States of America, tracked on soundcheck, with 24 sets logged across Amsterdam, Chicago, Detroit and Portland and 3 more. Often billed alongside OMO (US), Seanni B and YxFF. Next up: Red Gate Arts Society, Vancouver on Sat 1 Aug.
 
@@ -25,4 +25,4 @@ Babies R Stupid is a techno and electro artist based in United States of America
 
 OMO (US), Seanni B, YxFF
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/babiesrstupid/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/babiesrstupid/)*

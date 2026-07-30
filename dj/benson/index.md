@@ -1,6 +1,6 @@
 # Benson
 
-Benson is a House and Garage artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at Yamamori Tengu, Dublin on Fri, 25 Sept 2026.
+Benson is a House and Garage artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at Yamamori Tengu, Dublin on Fri, 25 Sept 2026.
 
 Benson is a house and garage artist based in Germany, tracked on soundcheck, with 5 sets logged across Dublin and Manchester. Often billed alongside DIEBYVEG, Prozak (IRL) and B-HIND. Next up: Yamamori Tengu, Dublin on Fri 25 Sept.
 
@@ -21,4 +21,4 @@ Benson is a house and garage artist based in Germany, tracked on soundcheck, wit
 
 DIEBYVEG, Prozak (IRL), B-HIND
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/benson/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/benson/)*

@@ -1,8 +1,8 @@
 # DJ Pippi
 
-DJ Pippi is a House and Balearic artist with 7 upcoming club dates listed on soundcheck as of Wed, 29 Jul 2026, next at Akasha Las Dalias Club - Ibiza, Ibiza on Mon, 3 Aug 2026.
+DJ Pippi is a Balearic and House artist with 7 upcoming club dates listed on soundcheck as of Thu, 30 Jul 2026, next at Akasha Las Dalias Club - Ibiza, Ibiza on Mon, 3 Aug 2026.
 
-DJ Pippi is a house and balearic artist tracked on soundcheck, with 47 sets logged across Athens, Ibiza, London and Madrid and 1 more. Often billed alongside Willie Graff, Joan Ribas and Aline Rocha. Next up: Akasha Las Dalias Club - Ibiza, Ibiza on Mon 3 Aug.
+DJ Pippi is a balearic and house artist tracked on soundcheck, with 47 sets logged across Athens, Ibiza, London and Madrid and 1 more. Often billed alongside Willie Graff, Joan Ribas and Aline Rocha. Next up: Akasha Las Dalias Club - Ibiza, Ibiza on Mon 3 Aug.
 
 ## Upcoming shows
 
@@ -31,4 +31,4 @@ DJ Pippi is a house and balearic artist tracked on soundcheck, with 47 sets logg
 
 Willie Graff, Joan Ribas, Aline Rocha
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/djpippi/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/djpippi/)*

@@ -1,6 +1,6 @@
 # Partridge
 
-Partridge is a House and Tech House artist with 2 upcoming club dates listed on soundcheck as of Wed, 29 Jul 2026, next at Distrikt, Leeds on Sat, 8 Aug 2026.
+Partridge is a House and Tech House artist with 2 upcoming club dates listed on soundcheck as of Thu, 30 Jul 2026, next at Distrikt, Leeds on Sat, 8 Aug 2026.
 
 Partridge is a house and tech house artist based in United Kingdom, tracked on soundcheck, with 23 sets logged across Berlin, Leeds and Manchester. Often billed alongside 3PM RECORDS, Fentonffp and Charlotte Ord. Next up: Distrikt, Leeds on Sat 8 Aug.
 
@@ -26,4 +26,4 @@ Partridge is a house and tech house artist based in United Kingdom, tracked on s
 
 3PM RECORDS, Fentonffp, Charlotte Ord
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/partridge/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/partridge/)*

@@ -1,6 +1,6 @@
 # alterum
 
-alterum is a Hardcore and Drum & Bass artist with 2 upcoming club dates listed on soundcheck as of Wed, 29 Jul 2026, next at Vauxhall Arches, London on Fri, 31 Jul 2026.
+alterum is a Hardcore and Drum & Bass artist with 2 upcoming club dates listed on soundcheck as of Thu, 30 Jul 2026, next at Vauxhall Arches, London on Fri, 31 Jul 2026.
 
 alterum is a hardcore and drum & bass artist tracked on soundcheck, with 59 sets logged across Berlin, Brighton, Bristol and Glasgow and 4 more. Often billed alongside 3DMA, pissxie and Holly Warcup. Next up: Vauxhall Arches, London on Fri 31 Jul.
 
@@ -26,4 +26,4 @@ alterum is a hardcore and drum & bass artist tracked on soundcheck, with 59 sets
 
 3DMA, pissxie, Holly Warcup
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/alterum/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/alterum/)*

@@ -1,6 +1,6 @@
 # N SO
 
-N SO is a Techno and Club artist with 4 upcoming club dates listed on soundcheck as of Wed, 29 Jul 2026, next at Process PDX, Portland on Thu, 30 Jul 2026.
+N SO is a Techno and Club artist with 4 upcoming club dates listed on soundcheck as of Thu, 30 Jul 2026, next at Process PDX, Portland on Thu, 30 Jul 2026.
 
 N SO is a techno and club artist based in United States of America, tracked on soundcheck, with 24 sets logged across Portland and Seattle. Often billed alongside ACHAMA, Jason Code and Ross Lowder. Next up: Process PDX, Portland on Thu 30 Jul.
 
@@ -28,4 +28,4 @@ N SO is a techno and club artist based in United States of America, tracked on s
 
 ACHAMA, Jason Code, Ross Lowder
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/nso-usa/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/nso-usa/)*

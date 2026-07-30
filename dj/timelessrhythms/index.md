@@ -1,6 +1,6 @@
 # Timeless Rhythms
 
-Timeless Rhythms is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at Karmen Camina, Strasbourg on Sat, 15 Aug 2026.
+Timeless Rhythms is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at Karmen Camina, Strasbourg on Sat, 15 Aug 2026.
 
 Timeless Rhythms is a techno and house artist based in France, tracked on soundcheck, with 14 sets logged across Strasbourg. Often billed alongside 1client, Itaho and Pacôme Orzi. Next up: Karmen Camina, Strasbourg on Sat 15 Aug.
 
@@ -25,4 +25,4 @@ Timeless Rhythms is a techno and house artist based in France, tracked on soundc
 
 1client, Itaho, Pacôme Orzi
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/timelessrhythms/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/timelessrhythms/)*

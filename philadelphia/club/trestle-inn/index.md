@@ -1,6 +1,6 @@
 # Trestle Inn
 
-Trestle Inn is a music venue in Philadelphia with 11 upcoming nights listed on soundcheck as of Wed, 29 Jul 2026; the next is "Electric Hotpot with Elevator Machine Room" on Thu, 30 Jul 2026.
+Trestle Inn is a music venue in Philadelphia with 11 upcoming nights listed on soundcheck as of Thu, 30 Jul 2026; the next is "Electric Hotpot with Elevator Machine Room" on Thu, 30 Jul 2026.
 
 Trestle Inn is a music venue in Philadelphia listed on soundcheck. 11 upcoming nights, with line-ups including Afrobeat and Particle Ray. Browse upcoming dates, start times and who's playing. 339 N. 11th St; Philadelphia; PA 19107.
 
@@ -23,4 +23,4 @@ Trestle Inn is a music venue in Philadelphia listed on soundcheck. 11 upcoming n
 
 339 N. 11th St; Philadelphia; PA 19107, Philadelphia
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/philadelphia/club/trestle-inn/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/philadelphia/club/trestle-inn/)*

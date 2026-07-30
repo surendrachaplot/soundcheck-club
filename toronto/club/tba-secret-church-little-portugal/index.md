@@ -1,6 +1,6 @@
 # TBA - Secret Church, Little Portugal
 
-TBA - Secret Church, Little Portugal is a music venue in Toronto with 1 upcoming night listed on soundcheck as of Wed, 29 Jul 2026; the next is "UNDERTONE: Church UKG Rave" on Sat, 15 Aug 2026.
+TBA - Secret Church, Little Portugal is a music venue in Toronto with 1 upcoming night listed on soundcheck as of Thu, 30 Jul 2026; the next is "UNDERTONE: Church UKG Rave" on Sat, 15 Aug 2026.
 
 TBA - Secret Church, Little Portugal is a music venue in Toronto listed on soundcheck. 1 upcoming night, with line-ups including CHNTEL., In Depth Subject, Nihility and NiUNiU and 1 more. Browse upcoming dates, start times and who's playing.
 
@@ -10,4 +10,4 @@ TBA - Secret Church, Little Portugal is a music venue in Toronto listed on sound
 | --- | --- | --- |
 | Sat, 15 Aug 2026 | UNDERTONE: Church UKG Rave | CHNTEL., In Depth Subject, NiUNiU, Nihility, Tomb Raver |
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/toronto/club/tba-secret-church-little-portugal/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/toronto/club/tba-secret-church-little-portugal/)*

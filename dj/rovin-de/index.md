@@ -1,6 +1,6 @@
 # Rovin
 
-Rovin is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at Sensorium, Berlin on Wed, 26 Aug 2026.
+Rovin is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at Sensorium, Berlin on Wed, 26 Aug 2026.
 
 Rovin is a techno and house artist based in Germany, tracked on soundcheck, with 23 sets logged across Berlin, Sheffield and Zurich. Often billed alongside pink-panther, UniKhatu and Ôneyra. Next up: Sensorium, Berlin on Wed 26 Aug.
 
@@ -25,4 +25,4 @@ Rovin is a techno and house artist based in Germany, tracked on soundcheck, with
 
 pink-panther, UniKhatu, Ôneyra
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/rovin-de/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/rovin-de/)*

@@ -1,6 +1,6 @@
 # Ape Drums
 
-Ape Drums is a Afro House and House artist with 2 upcoming club dates listed on soundcheck as of Wed, 29 Jul 2026, next at Kashmir, Chicago on Fri, 31 Jul 2026.
+Ape Drums is a Afro House and House artist with 2 upcoming club dates listed on soundcheck as of Thu, 30 Jul 2026, next at Kashmir, Chicago on Fri, 31 Jul 2026.
 
 Ape Drums is an afro house and house artist tracked on soundcheck, with 37 sets logged across Amsterdam, Austin, Chicago and Houston and 11 more. Often billed alongside Andrea Oliva, Diplo and Francis Mercier. Next up: Kashmir, Chicago on Fri 31 Jul.
 
@@ -26,4 +26,4 @@ Ape Drums is an afro house and house artist tracked on soundcheck, with 37 sets 
 
 Andrea Oliva, Diplo, Francis Mercier
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/apedrums/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/apedrums/)*

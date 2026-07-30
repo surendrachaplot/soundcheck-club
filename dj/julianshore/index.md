@@ -1,6 +1,6 @@
 # Julian Shore
 
-Julian Shore is a electronic artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at KitKatClub, Berlin on Fri, 31 Jul 2026.
+Julian Shore is a electronic artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at KitKatClub, Berlin on Fri, 31 Jul 2026.
 
 Julian Shore is an electronic artist based in Germany, tracked on soundcheck, with 6 sets logged across Berlin. Often billed alongside D.Sociation, Der Freak and maniaclina. Next up: KitKatClub, Berlin on Fri 31 Jul.
 
@@ -22,4 +22,4 @@ Julian Shore is an electronic artist based in Germany, tracked on soundcheck, wi
 
 D.Sociation, Der Freak, maniaclina
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/julianshore/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/julianshore/)*

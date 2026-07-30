@@ -1,6 +1,6 @@
 # moth.sanctuary
 
-moth.sanctuary is a Experimental and Hardcore artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at TBA - Secret Warehouse Location, Denver on Fri, 21 Aug 2026.
+moth.sanctuary is a Experimental and Hardcore artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at TBA - Secret Warehouse Location, Denver on Fri, 21 Aug 2026.
 
 moth.sanctuary is an experimental and hardcore artist based in United States of America, tracked on soundcheck, with 10 sets logged across Denver. Often billed alongside FITNESSS (2), Mithril and Cardopusher. Next up: TBA - Secret Warehouse Location, Denver on Fri 21 Aug.
 
@@ -25,4 +25,4 @@ moth.sanctuary is an experimental and hardcore artist based in United States of 
 
 FITNESSS (2), Mithril, Cardopusher
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/moth.sanctuary/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/moth.sanctuary/)*

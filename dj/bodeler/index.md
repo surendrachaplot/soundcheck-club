@@ -1,6 +1,6 @@
 # Bodeler
 
-Bodeler is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at TBA - Tokyo Club, Costanera, Buenos Aires on Thu, 30 Jul 2026.
+Bodeler is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at TBA - Tokyo Club, Costanera, Buenos Aires on Thu, 30 Jul 2026.
 
 Bodeler is a house and tech house artist based in Argentina, tracked on soundcheck, with 11 sets logged across Barcelona, Buenosaires, Miami and Newyorkcity. Often billed alongside Mai iachetti, Ariel Rodz and Federico Daiup. Next up: TBA - Tokyo Club, Costanera, Buenosaires on Thu 30 Jul.
 
@@ -25,4 +25,4 @@ Bodeler is a house and tech house artist based in Argentina, tracked on soundche
 
 Mai iachetti, Ariel Rodz, Federico Daiup
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/bodeler/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/bodeler/)*

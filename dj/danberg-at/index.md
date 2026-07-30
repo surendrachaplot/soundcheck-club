@@ -1,6 +1,6 @@
 # DANBERG
 
-DANBERG is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at Spezi Sportinsel, Vienna on Sat, 8 Aug 2026.
+DANBERG is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at Spezi Sportinsel, Vienna on Sat, 8 Aug 2026.
 
 DANBERG is a techno and house artist tracked on soundcheck, with 76 sets logged across Berlin and Vienna. Often billed alongside Relinquo, Travmkind and Patrik Pagan. Next up: Spezi Sportinsel, Vienna on Sat 8 Aug.
 
@@ -25,4 +25,4 @@ DANBERG is a techno and house artist tracked on soundcheck, with 76 sets logged 
 
 Relinquo, Travmkind, Patrik Pagan
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/danberg-at/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/danberg-at/)*

@@ -1,6 +1,6 @@
 # DOCTOR MÜCKE
 
-DOCTOR MÜCKE is a Trance and Techno artist with 2 upcoming club dates listed on soundcheck as of Wed, 29 Jul 2026, next at Liquid Club, Malta on Tue, 11 Aug 2026.
+DOCTOR MÜCKE is a Trance and Techno artist with 2 upcoming club dates listed on soundcheck as of Thu, 30 Jul 2026, next at Liquid Club, Malta on Tue, 11 Aug 2026.
 
 DOCTOR MÜCKE is a trance and techno artist tracked on soundcheck, with 39 sets logged across Barcelona, Berlin, Cologne and Dusseldorf and 9 more. Often billed alongside RESA UTOPICA, Amo (IT) and EGE363. Next up: Liquid Club, Malta on Tue 11 Aug.
 
@@ -26,4 +26,4 @@ DOCTOR MÜCKE is a trance and techno artist tracked on soundcheck, with 39 sets 
 
 RESA UTOPICA, Amo (IT), EGE363
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/doctormucke/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/doctormucke/)*

@@ -1,6 +1,6 @@
 # Aroop Roy
 
-Aroop Roy is a House and Disco artist with 5 upcoming club dates listed on soundcheck as of Wed, 29 Jul 2026, next at Finsbury Park, London on Sat, 1 Aug 2026.
+Aroop Roy is a House and Disco artist with 5 upcoming club dates listed on soundcheck as of Thu, 30 Jul 2026, next at Finsbury Park, London on Sat, 1 Aug 2026.
 
 Aroop Roy is a house and disco artist tracked on soundcheck, with 96 sets logged across Amsterdam, Bali, Bangkok and Barcelona and 25 more. Often billed alongside Mr Scruff, Melvo Baptiste and LEV (UK). Next up: Finsbury Park, London on Sat 1 Aug.
 
@@ -29,4 +29,4 @@ Aroop Roy is a house and disco artist tracked on soundcheck, with 96 sets logged
 
 Mr Scruff, Melvo Baptiste, LEV (UK)
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/arooproy/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/arooproy/)*

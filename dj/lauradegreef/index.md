@@ -1,14 +1,15 @@
 # Laura De Greef
 
-Laura De Greef is a House and Techno artist with 4 upcoming club dates listed on soundcheck as of Wed, 29 Jul 2026, next at Amnesia Ibiza, Ibiza on Thu, 30 Jul 2026.
+Laura De Greef is a House and Techno artist with 5 upcoming club dates listed on soundcheck as of Thu, 30 Jul 2026, next at Amnesia Ibiza, Ibiza on Thu, 30 Jul 2026.
 
-Laura De Greef is a house and techno artist tracked on soundcheck, with 26 sets logged across Amsterdam, Brussels, Ghent and Ibiza and 5 more. Often billed alongside Jamback, Marsolo and L.P. Rhythm. Next up: Amnesia Ibiza, Ibiza on Thu 30 Jul.
+Laura De Greef is a house and techno artist tracked on soundcheck, with 27 sets logged across Amsterdam, Brussels, Ghent and Ibiza and 5 more. Often billed alongside Jamback, Marsolo and L.P. Rhythm. Next up: Amnesia Ibiza, Ibiza on Thu 30 Jul.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Thu, 30 Jul 2026 | Amnesia Ibiza | Ibiza |
+| Sat, 8 Aug 2026 | Lofi | Amsterdam |
 | Sat, 29 Aug 2026 | Kelvedon Hall | London |
 | Sun, 30 Aug 2026 | fabric | London |
 | Sat, 3 Oct 2026 | Depot Mayfield | Manchester |
@@ -28,4 +29,4 @@ Laura De Greef is a house and techno artist tracked on soundcheck, with 26 sets 
 
 Jamback, Marsolo, L.P. Rhythm
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/lauradegreef/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/lauradegreef/)*

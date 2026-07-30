@@ -1,6 +1,6 @@
 # Ellam
 
-Ellam is a House and Minimal artist with 3 upcoming club dates listed on soundcheck as of Wed, 29 Jul 2026, next at Thuishaven, Amsterdam on Sun, 16 Aug 2026.
+Ellam is a House and Minimal artist with 3 upcoming club dates listed on soundcheck as of Thu, 30 Jul 2026, next at Thuishaven, Amsterdam on Sun, 16 Aug 2026.
 
 Ellam is a house and minimal artist tracked on soundcheck, with 37 sets logged across Amsterdam, Birmingham, Bristol and Cardiff and 8 more. Often billed alongside Gaskin, Ellia Jaya and L.P. Rhythm. Next up: Thuishaven, Amsterdam on Sun 16 Aug.
 
@@ -27,4 +27,4 @@ Ellam is a house and minimal artist tracked on soundcheck, with 37 sets logged a
 
 Gaskin, Ellia Jaya, L.P. Rhythm
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/ellam/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/ellam/)*

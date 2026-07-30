@@ -1,6 +1,6 @@
 # Yos.
 
-Yos. is a Minimal and House artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at Daikanyama ORD., Tokyo on Fri, 31 Jul 2026.
+Yos. is a Minimal and House artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at Daikanyama ORD., Tokyo on Fri, 31 Jul 2026.
 
 Yos. is a minimal and house artist based in Japan, tracked on soundcheck, with 46 sets logged across Tokyo. Often billed alongside DAIY, yyshuu and NABE. Next up: Daikanyama ORD., Tokyo on Fri 31 Jul.
 
@@ -25,4 +25,4 @@ Yos. is a minimal and house artist based in Japan, tracked on soundcheck, with 4
 
 DAIY, yyshuu, NABE
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/yos./)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/yos./)*

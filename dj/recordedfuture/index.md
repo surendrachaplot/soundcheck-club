@@ -1,6 +1,6 @@
 # Recorded Future
 
-Recorded Future is a Experimental and Electronica artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at TBA - Stave - Brynsveien 1, Oslo on Fri, 2 Oct 2026.
+Recorded Future is a Experimental and Electronica artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at TBA - Stave - Brynsveien 1, Oslo on Fri, 2 Oct 2026.
 
 Recorded Future is an experimental and electronica artist based in Germany, tracked on soundcheck, with 7 sets logged across Berlin, Hamburg and Oslo. Often billed alongside Crille & Tamalt, Josh Bobzin and Katiusha. Next up: TBA - Stave - Brynsveien 1, Oslo on Fri 2 Oct.
 
@@ -23,4 +23,4 @@ Recorded Future is an experimental and electronica artist based in Germany, trac
 
 Crille & Tamalt, Josh Bobzin, Katiusha
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/recordedfuture/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/recordedfuture/)*

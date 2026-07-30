@@ -1,6 +1,6 @@
 # Karmakoma
 
-Karmakoma is a music venue in Belgrade with 7 upcoming nights listed on soundcheck as of Wed, 29 Jul 2026; the next is "Guile, Marko Nastić" on Fri, 31 Jul 2026.
+Karmakoma is a music venue in Belgrade with 7 upcoming nights listed on soundcheck as of Thu, 30 Jul 2026; the next is "Guile, Marko Nastić" on Fri, 31 Jul 2026.
 
 Karmakoma is a music venue in Belgrade listed on soundcheck. 7 upcoming nights, with line-ups including ACOR, Ciel, Feloneezy and Gerd Janson and 2 more. Browse upcoming dates, start times and who's playing. Poenkareova 32, 11000 Belgrade.
 
@@ -20,4 +20,4 @@ Karmakoma is a music venue in Belgrade listed on soundcheck. 7 upcoming nights, 
 
 Poenkareova 32, 11000 Belgrade, Belgrade
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/belgrade/club/karmakoma/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/belgrade/club/karmakoma/)*

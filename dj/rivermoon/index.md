@@ -1,6 +1,6 @@
 # River Moon
 
-River Moon is a Techno and Club artist with 2 upcoming club dates listed on soundcheck as of Wed, 29 Jul 2026, next at Concord Music Hall, Chicago on Fri, 31 Jul 2026.
+River Moon is a Techno and Club artist with 2 upcoming club dates listed on soundcheck as of Thu, 30 Jul 2026, next at Concord Music Hall, Chicago on Fri, 31 Jul 2026.
 
 River Moon is a techno and club artist based in United States of America, tracked on soundcheck, with 89 sets logged across Amsterdam, Antwerp, Auckland and Barcelona and 19 more. Often billed alongside Only Fire, Goth Jafar and Memphy. Next up: Concord Music Hall, Chicago on Fri 31 Jul.
 
@@ -26,4 +26,4 @@ River Moon is a techno and club artist based in United States of America, tracke
 
 Only Fire, Goth Jafar, Memphy
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/rivermoon/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/rivermoon/)*

@@ -1,6 +1,6 @@
 # Ketarina
 
-Ketarina is a Techno and Hardcore artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at Kilomètre25, Paris on Thu, 6 Aug 2026.
+Ketarina is a Techno and Hardcore artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at Kilomètre25, Paris on Thu, 6 Aug 2026.
 
 Ketarina is a techno and hardcore artist tracked on soundcheck, with 103 sets logged across Barcelona, Basel, Berlin and Lisbon and 5 more. Often billed alongside Taxsh, Madson Carpenter and Schusta. Next up: Kilomètre25, Paris on Thu 6 Aug.
 
@@ -25,4 +25,4 @@ Ketarina is a techno and hardcore artist tracked on soundcheck, with 103 sets lo
 
 Taxsh, Madson Carpenter, Schusta
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/ketarina/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/ketarina/)*

@@ -1,8 +1,8 @@
 # Charleen Herzig
 
-Charleen Herzig is a Trance and Techno artist with 8 upcoming club dates listed on soundcheck as of Wed, 29 Jul 2026, next at TBA - Near Berlin (Secret Forest), Berlin on Thu, 6 Aug 2026.
+Charleen Herzig is a Techno and Trance artist with 9 upcoming club dates listed on soundcheck as of Thu, 30 Jul 2026, next at TBA - Near Berlin (Secret Forest), Berlin on Thu, 6 Aug 2026.
 
-Charleen Herzig is a trance and techno artist tracked on soundcheck, with 34 sets logged across Berlin, Cologne, Hamburg and Leipzig and 1 more. Often billed alongside Katy Rough, Limoncello and DETOXX. Next up: TBA - Near Berlin (Secret Forest), Berlin on Thu 6 Aug.
+Charleen Herzig is a techno and trance artist tracked on soundcheck, with 35 sets logged across Berlin, Cologne, Hamburg and Leipzig and 1 more. Often billed alongside Katy Rough, Limoncello and DETOXX. Next up: TBA - Near Berlin (Secret Forest), Berlin on Thu 6 Aug.
 
 ## Upcoming shows
 
@@ -15,6 +15,7 @@ Charleen Herzig is a trance and techno artist tracked on soundcheck, with 34 set
 | Sun, 30 Aug 2026 | Sommerbad Neuköln | Berlin |
 | Fri, 11 Sept 2026 | Uebel & Gefährlich | Hamburg |
 | Fri, 9 Oct 2026 | OST | Berlin |
+| Fri, 9 Oct 2026 | CLUB OST & RENATE BERLIN | Berlin |
 | Fri, 23 Oct 2026 | OST | Berlin |
 
 ## Recently played
@@ -32,4 +33,4 @@ Charleen Herzig is a trance and techno artist tracked on soundcheck, with 34 set
 
 Katy Rough, Limoncello, DETOXX
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/charleenherzig/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/charleenherzig/)*

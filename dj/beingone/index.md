@@ -1,6 +1,6 @@
 # Being One
 
-Being One is a Dub and Experimental artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at The Hifi Club, Leeds on Sat, 1 Aug 2026.
+Being One is a Dub and Experimental artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at The Hifi Club, Leeds on Sat, 1 Aug 2026.
 
 Being One is a dub and experimental artist based in United Kingdom, tracked on soundcheck, with 15 sets logged across Leeds and London. Often billed alongside Lioness Power, Anatta Sound and Biome. Next up: The Hifi Club, Leeds on Sat 1 Aug.
 
@@ -25,4 +25,4 @@ Being One is a dub and experimental artist based in United Kingdom, tracked on s
 
 Lioness Power, Anatta Sound, Biome
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/beingone/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/beingone/)*

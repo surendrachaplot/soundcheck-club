@@ -1,6 +1,6 @@
 # Phil Kieran
 
-Phil Kieran is a Techno and Electro artist with 2 upcoming club dates listed on soundcheck as of Wed, 29 Jul 2026, next at McChuills Music Bar, Glasgow on Sat, 1 Aug 2026.
+Phil Kieran is a Techno and Electro artist with 2 upcoming club dates listed on soundcheck as of Thu, 30 Jul 2026, next at McChuills Music Bar, Glasgow on Sat, 1 Aug 2026.
 
 Phil Kieran is a techno and electro artist based in United Kingdom, tracked on soundcheck, with 12 sets logged across Belfast, Dublin and Glasgow. Often billed alongside Angel Negrin, Christopher Coe and Conor Schmtz. Next up: McChuills Music Bar, Glasgow on Sat 1 Aug.
 
@@ -26,4 +26,4 @@ Phil Kieran is a techno and electro artist based in United Kingdom, tracked on s
 
 Angel Negrin, Christopher Coe, Conor Schmtz
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/philkieran/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/philkieran/)*

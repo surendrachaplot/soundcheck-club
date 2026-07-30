@@ -1,6 +1,6 @@
 # Kneaku
 
-Kneaku is a Club and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at Mood Ring, New York City on Thu, 6 Aug 2026.
+Kneaku is a Club and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at Mood Ring, New York City on Thu, 6 Aug 2026.
 
 Kneaku is a club and techno artist based in United States of America, tracked on soundcheck, with 5 sets logged across Newyorkcity. Often billed alongside DJ Shannon, Madre Guía and Bodegaparty. Next up: Mood Ring, Newyorkcity on Thu 6 Aug.
 
@@ -21,4 +21,4 @@ Kneaku is a club and techno artist based in United States of America, tracked on
 
 DJ Shannon, Madre Guía, Bodegaparty
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/kneaku/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/kneaku/)*

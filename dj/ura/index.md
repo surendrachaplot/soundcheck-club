@@ -1,6 +1,6 @@
 # URA
 
-URA is a Techno and Club artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at Village au Pied-du-Courant, Montreal on Sun, 2 Aug 2026.
+URA is a Techno and Club artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at Village au Pied-du-Courant, Montreal on Sun, 2 Aug 2026.
 
 URA is a techno and club artist based in Canada, tracked on soundcheck, with 37 sets logged across Kyoto, Montreal, Newyorkcity and Philadelphia and 2 more. Often billed alongside nastygloss, CIBER1A and Casa Kobrae. Next up: Village au Pied-du-Courant, Montreal on Sun 2 Aug.
 
@@ -25,4 +25,4 @@ URA is a techno and club artist based in Canada, tracked on soundcheck, with 37 
 
 nastygloss, CIBER1A, Casa Kobrae
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/ura/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/ura/)*

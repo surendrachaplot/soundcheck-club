@@ -1,6 +1,6 @@
 # BLAIZE
 
-BLAIZE is a Techno and Club artist with 3 upcoming club dates listed on soundcheck as of Wed, 29 Jul 2026, next at TBA - Bushwick, New York City on Fri, 31 Jul 2026.
+BLAIZE is a Techno and Club artist with 3 upcoming club dates listed on soundcheck as of Thu, 30 Jul 2026, next at TBA - Bushwick, New York City on Fri, 31 Jul 2026.
 
 BLAIZE is a techno and club artist tracked on soundcheck, with 51 sets logged across Amsterdam, Budapest, London and Newyorkcity and 4 more. Often billed alongside ARCHANGEL (US), Amarji King and Byrell The Great. Next up: TBA - Bushwick, Newyorkcity on Fri 31 Jul.
 
@@ -27,4 +27,4 @@ BLAIZE is a techno and club artist tracked on soundcheck, with 51 sets logged ac
 
 ARCHANGEL (US), Amarji King, Byrell The Great
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/blaize/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/blaize/)*

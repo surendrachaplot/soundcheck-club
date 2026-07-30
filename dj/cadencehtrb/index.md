@@ -1,6 +1,6 @@
 # Cadence [HTRB]
 
-Cadence [HTRB] is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at Zoo, Geneva on Sat, 5 Sept 2026.
+Cadence [HTRB] is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at Zoo, Geneva on Sat, 5 Sept 2026.
 
 Cadence [HTRB] is a techno and trance artist based in Switzerland, tracked on soundcheck, with 10 sets logged across Berlin and Geneva. Often billed alongside Alex Nantaya, .Cheka and ABEM. Next up: Zoo, Geneva on Sat 5 Sept.
 
@@ -25,4 +25,4 @@ Cadence [HTRB] is a techno and trance artist based in Switzerland, tracked on so
 
 Alex Nantaya, .Cheka, ABEM
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/cadencehtrb/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/cadencehtrb/)*

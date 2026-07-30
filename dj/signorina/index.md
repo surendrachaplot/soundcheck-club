@@ -1,6 +1,6 @@
 # Signorina
 
-Signorina is a Jazz and Hip-Hop artist with 2 upcoming club dates listed on soundcheck as of Wed, 29 Jul 2026, next at Spiritland, London on Fri, 31 Jul 2026.
+Signorina is a Jazz and Hip-Hop artist with 2 upcoming club dates listed on soundcheck as of Thu, 30 Jul 2026, next at Spiritland, London on Fri, 31 Jul 2026.
 
 Signorina is a jazz and hip-hop artist tracked on soundcheck, with 25 sets logged across London. Often billed alongside leverson, Sndyvibes and SHINZEE. Next up: Spiritland, London on Fri 31 Jul.
 
@@ -26,4 +26,4 @@ Signorina is a jazz and hip-hop artist tracked on soundcheck, with 25 sets logge
 
 leverson, Sndyvibes, SHINZEE
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/signorina/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/signorina/)*

@@ -1,6 +1,6 @@
 # The Dark Wasp
 
-The Dark Wasp is a Techno and Electro artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at TBA - LOVE LOFT Berlin, Berlin on Fri, 31 Jul 2026.
+The Dark Wasp is a Techno and Electro artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at TBA - LOVE LOFT Berlin, Berlin on Fri, 31 Jul 2026.
 
 The Dark Wasp is a techno and electro artist tracked on soundcheck, with 13 sets logged across Berlin and Lisbon. Often billed alongside Professor Dictabeat, Sholinger and Zee Mon. Next up: TBA - LOVE LOFT Berlin, Berlin on Fri 31 Jul.
 
@@ -25,4 +25,4 @@ The Dark Wasp is a techno and electro artist tracked on soundcheck, with 13 sets
 
 Professor Dictabeat, Sholinger, Zee Mon
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/thedarkwasp/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/thedarkwasp/)*

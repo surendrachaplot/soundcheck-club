@@ -1,6 +1,6 @@
 # Emby
 
-Emby is a Techno and Bass artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at Bahnwärter Thiel, Munich on Fri, 31 Jul 2026.
+Emby is a Techno and Bass artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at Bahnwärter Thiel, Munich on Fri, 31 Jul 2026.
 
 Emby is a techno and bass artist based in Ireland, tracked on soundcheck, with 34 sets logged across Belfast, Berlin, Dublin and London and 2 more. Often billed alongside Charlie Boy Manson, Kessler and EMA (1). Next up: Bahnwärter Thiel, Munich on Fri 31 Jul.
 
@@ -25,4 +25,4 @@ Emby is a techno and bass artist based in Ireland, tracked on soundcheck, with 3
 
 Charlie Boy Manson, Kessler, EMA (1)
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/emby/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/emby/)*

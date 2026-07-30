@@ -1,6 +1,6 @@
 # Guillermo Jamas
 
-Guillermo Jamas is a House and Club artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at TBA - ART CLUB Cabriès, Marseille on Sat, 1 Aug 2026.
+Guillermo Jamas is a House and Club artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at TBA - ART CLUB Cabriès, Marseille on Sat, 1 Aug 2026.
 
 Guillermo Jamas is a house and club artist based in France, tracked on soundcheck, with 23 sets logged across Barcelona, Budapest, Marseille and Newyorkcity and 1 more. Often billed alongside Jacan, Darween and Automatic Writing. Next up: TBA - ART CLUB Cabriès, Marseille on Sat 1 Aug.
 
@@ -25,4 +25,4 @@ Guillermo Jamas is a house and club artist based in France, tracked on soundchec
 
 Jacan, Darween, Automatic Writing
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/guillermojamas/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/guillermojamas/)*

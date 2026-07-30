@@ -1,6 +1,6 @@
 # Alisa Stovik
 
-Alisa Stovik is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at Westhafen, Leipzig on Sat, 19 Sept 2026.
+Alisa Stovik is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at Westhafen, Leipzig on Sat, 19 Sept 2026.
 
 Alisa Stovik is a techno and trance artist based in Germany, tracked on soundcheck, with 10 sets logged across Berlin and Leipzig. Often billed alongside VLUNA, BENITO (DE) and CAVVØ. Next up: Westhafen, Leipzig on Sat 19 Sept.
 
@@ -25,4 +25,4 @@ Alisa Stovik is a techno and trance artist based in Germany, tracked on soundche
 
 VLUNA, BENITO (DE), CAVVØ
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/alisastovik/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/alisastovik/)*

@@ -1,6 +1,6 @@
 # Diego A-K
 
-Diego A-K is a Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at Republik Club, Madrid on Sat, 1 Aug 2026.
+Diego A-K is a Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at Republik Club, Madrid on Sat, 1 Aug 2026.
 
 Diego A-K is a techno artist based in Spain, tracked on soundcheck, with 5 sets logged across Madrid. Often billed alongside Vulker, Gueparda and TEDDY JX. Next up: Republik Club, Madrid on Sat 1 Aug.
 
@@ -21,4 +21,4 @@ Diego A-K is a techno artist based in Spain, tracked on soundcheck, with 5 sets 
 
 Vulker, Gueparda, TEDDY JX
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/diegoa-k/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/diegoa-k/)*

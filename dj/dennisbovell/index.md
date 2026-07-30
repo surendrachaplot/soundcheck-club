@@ -1,6 +1,6 @@
 # Dennis Bovell
 
-Dennis Bovell is a House and Balearic artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at Soul Mama Islington, London on Sun, 23 Aug 2026.
+Dennis Bovell is a House and Balearic artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at Soul Mama Islington, London on Sun, 23 Aug 2026.
 
 Dennis Bovell is a house and balearic artist tracked on soundcheck, with 20 sets logged across Barcelona, Berlin, London and Melbourne and 2 more. Often billed alongside Alex Kassian, Elijah Minnelli and Emma-Jean Thackray. Next up: Soul Mama Islington, London on Sun 23 Aug.
 
@@ -25,4 +25,4 @@ Dennis Bovell is a house and balearic artist tracked on soundcheck, with 20 sets
 
 Alex Kassian, Elijah Minnelli, Emma-Jean Thackray
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/dennisbovell/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/dennisbovell/)*

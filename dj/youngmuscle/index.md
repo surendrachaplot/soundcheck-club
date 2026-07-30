@@ -1,6 +1,6 @@
 # Young Muscle
 
-Young Muscle is a Bass and Techno artist with 2 upcoming club dates listed on soundcheck as of Wed, 29 Jul 2026, next at Hizz Lounge, Detroit on Sat, 1 Aug 2026.
+Young Muscle is a Bass and Techno artist with 2 upcoming club dates listed on soundcheck as of Thu, 30 Jul 2026, next at Hizz Lounge, Detroit on Sat, 1 Aug 2026.
 
 Young Muscle is a bass and techno artist tracked on soundcheck, with 26 sets logged across Chicago, Detroit, Losangeles and Nashville and 1 more. Often billed alongside Nick Dagher, Duck Trash and Maheras. Next up: Hizz Lounge, Detroit on Sat 1 Aug.
 
@@ -26,4 +26,4 @@ Young Muscle is a bass and techno artist tracked on soundcheck, with 26 sets log
 
 Nick Dagher, Duck Trash, Maheras
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/youngmuscle/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/youngmuscle/)*

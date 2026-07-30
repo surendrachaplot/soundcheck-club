@@ -1,6 +1,6 @@
 # BOB1
 
-BOB1 is a Techno and Experimental artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at Newtown Radio, New York City on Fri, 21 Aug 2026.
+BOB1 is a Techno and Experimental artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at Newtown Radio, New York City on Fri, 21 Aug 2026.
 
 BOB1 is a techno and experimental artist based in United States of America, tracked on soundcheck, with 3 sets logged across Newyorkcity. Often billed alongside Aleska, Antide and Ariana Roseman. Next up: Newtown Radio, Newyorkcity on Fri 21 Aug.
 
@@ -19,4 +19,4 @@ BOB1 is a techno and experimental artist based in United States of America, trac
 
 Aleska, Antide, Ariana Roseman
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/bob1/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/bob1/)*

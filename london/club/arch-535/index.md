@@ -1,6 +1,6 @@
 # Arch 535
 
-Arch 535 is a music venue in London with 4 upcoming nights listed on soundcheck as of Wed, 29 Jul 2026; the next is "prospect: (A-Z) Alex Burton, D'Cruz, Frame, Leo Robin, Zac Dyer" on Fri, 31 Jul 2026.
+Arch 535 is a music venue in London with 4 upcoming nights listed on soundcheck as of Thu, 30 Jul 2026; the next is "prospect: (A-Z) Alex Burton, D'Cruz, Frame, Leo Robin, Zac Dyer" on Fri, 31 Jul 2026.
 
 Arch 535 is a music venue in London listed on soundcheck. 4 upcoming nights, with line-ups including Drew Karma, Jacob Trip, Jade Seatle and Junior Richards and 2 more. Browse upcoming dates, start times and who's playing. Arch 535, Orphans Yard, Brixton Station Rd, London SW9 8QB.
 
@@ -17,4 +17,4 @@ Arch 535 is a music venue in London listed on soundcheck. 4 upcoming nights, wit
 
 Arch 535, Orphans Yard, Brixton Station Rd, London SW9 8QB, London
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/london/club/arch-535/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/london/club/arch-535/)*

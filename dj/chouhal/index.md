@@ -1,6 +1,6 @@
 # chouhal
 
-chouhal is a Techno and Trance artist with 2 upcoming club dates listed on soundcheck as of Wed, 29 Jul 2026, next at Tigullio, Malta on Sat, 1 Aug 2026.
+chouhal is a Techno and Trance artist with 2 upcoming club dates listed on soundcheck as of Thu, 30 Jul 2026, next at Tigullio, Malta on Sat, 1 Aug 2026.
 
 chouhal is a techno and trance artist based in Malta, tracked on soundcheck, with 23 sets logged across Malta. Often billed alongside Damz, Dicentra and MILLØ. Next up: Tigullio, Malta on Sat 1 Aug.
 
@@ -26,4 +26,4 @@ chouhal is a techno and trance artist based in Malta, tracked on soundcheck, wit
 
 Damz, Dicentra, MILLØ
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/chouhal/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/chouhal/)*

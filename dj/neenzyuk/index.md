@@ -1,6 +1,6 @@
 # NEENZY (UK)
 
-NEENZY (UK) is a Bass and Garage artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at The Cause, London on Sun, 2 Aug 2026.
+NEENZY (UK) is a Bass and Garage artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at The Cause, London on Sun, 2 Aug 2026.
 
 NEENZY (UK) is a bass and garage artist tracked on soundcheck, with 26 sets logged across Leeds, London, Manchester and Newcastle. Often billed alongside DJ BootyShake, Amelia Leigh and PB (UK). Next up: The Cause, London on Sun 2 Aug.
 
@@ -25,4 +25,4 @@ NEENZY (UK) is a bass and garage artist tracked on soundcheck, with 26 sets logg
 
 DJ BootyShake, Amelia Leigh, PB (UK)
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/neenzyuk/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/neenzyuk/)*

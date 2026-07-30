@@ -1,11 +1,11 @@
-# Studio Stereo pres. Liquid Palms x Human Behaviour (until 3am) at TBA - Studio Stereo, close to pl. Catalunya, 08007, Barcelona
+# Studio Stereo pres. Liquid Palms x Human Behaviour (until 3am) at Studio Stereo
 
-Studio Stereo pres. Liquid Palms x Human Behaviour (until 3am) at TBA - Studio Stereo, close to pl. Catalunya, 08007, Barcelona on Thu 30 Jul, Barcelona. 4 acts on the bill: Breezy S, Mikaella, Nic David and NOBODYISALICE. House and Electro. Preview the line-up and save it on soundcheck.
+Studio Stereo pres. Liquid Palms x Human Behaviour (until 3am) on Thu 30 Jul, Barcelona. 4 acts on the bill: Breezy S, Mikaella, Nic David and NOBODYISALICE. House and Electro. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
 | Date | Thu, 30 Jul 2026 |
-| Venue | TBA - Studio Stereo, close to pl. Catalunya, 08007, Barcelona |
+| Venue | Studio Stereo |
 | City | Barcelona |
 
 ## Line-up

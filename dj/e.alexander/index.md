@@ -1,6 +1,6 @@
 # E. Alexander
 
-E. Alexander is a House and Tech House artist with 2 upcoming club dates listed on soundcheck as of Wed, 29 Jul 2026, next at Sketchy Beats Cafe, Edinburgh on Sat, 8 Aug 2026.
+E. Alexander is a House and Tech House artist with 2 upcoming club dates listed on soundcheck as of Thu, 30 Jul 2026, next at Sketchy Beats Cafe, Edinburgh on Sat, 8 Aug 2026.
 
 E. Alexander is a house and tech house artist tracked on soundcheck, with 53 sets logged across Brighton, Edinburgh, Hamburg and London. Often billed alongside Trixie (UK), Jake Hodgkinson and Alien Communications. Next up: Sketchy Beats Cafe, Edinburgh on Sat 8 Aug.
 
@@ -26,4 +26,4 @@ E. Alexander is a house and tech house artist tracked on soundcheck, with 53 set
 
 Trixie (UK), Jake Hodgkinson, Alien Communications
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/e.alexander/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/e.alexander/)*

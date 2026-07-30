@@ -1,6 +1,6 @@
 # SAFA
 
-SAFA is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at Kater, Berlin on Sun, 30 Aug 2026.
+SAFA is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at Kater, Berlin on Sun, 30 Aug 2026.
 
 SAFA is a house and techno artist based in Germany, tracked on soundcheck, with 32 sets logged across Berlin, Cologne, Denver and Frankfurt and 2 more. Often billed alongside Dawit Asfaha, Jenne and Lemac. Next up: Kater, Berlin on Sun 30 Aug.
 
@@ -25,4 +25,4 @@ SAFA is a house and techno artist based in Germany, tracked on soundcheck, with 
 
 Dawit Asfaha, Jenne, Lemac
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/safa/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/safa/)*

@@ -1,6 +1,6 @@
 # Baptist
 
-Baptist is a Techno and Acid artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at Club Church, Amsterdam on Sat, 15 Aug 2026.
+Baptist is a Techno and Acid artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at Club Church, Amsterdam on Sat, 15 Aug 2026.
 
 Baptist is a techno and acid artist tracked on soundcheck, with 36 sets logged across Amsterdam, London and Sanfrancisco. Often billed alongside Dexon, CTSD and Esther Dune. Next up: Club Church, Amsterdam on Sat 15 Aug.
 
@@ -25,4 +25,4 @@ Baptist is a techno and acid artist tracked on soundcheck, with 36 sets logged a
 
 Dexon, CTSD, Esther Dune
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/baptist/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/baptist/)*

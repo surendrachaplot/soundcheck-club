@@ -1,6 +1,6 @@
 # persiajoon
 
-persiajoon is a Techno and Club artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at Sneaky Pete's, Edinburgh on Sat, 1 Aug 2026.
+persiajoon is a Techno and Club artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at Sneaky Pete's, Edinburgh on Sat, 1 Aug 2026.
 
 persiajoon is a techno and club artist based in United Kingdom, tracked on soundcheck, with 12 sets logged across Brighton, Edinburgh, Glasgow and London and 1 more. Often billed alongside AYDJ, Princess Elf Bar and al gu. Next up: Sneaky Pete's, Edinburgh on Sat 1 Aug.
 
@@ -25,4 +25,4 @@ persiajoon is a techno and club artist based in United Kingdom, tracked on sound
 
 AYDJ, Princess Elf Bar, al gu
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/persiajoon/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/persiajoon/)*

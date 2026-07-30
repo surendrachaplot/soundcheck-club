@@ -1,6 +1,6 @@
 # Cable!
 
-Cable! is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at Colour Factory, London on Sat, 15 Aug 2026.
+Cable! is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at Colour Factory, London on Sat, 15 Aug 2026.
 
 Cable! is a house and disco artist tracked on soundcheck, with 19 sets logged across Bristol, London and Rotterdam. Often billed alongside Jamie Joy, Marla Kether and Mr. Moonshine. Next up: Colour Factory, London on Sat 15 Aug.
 
@@ -25,4 +25,4 @@ Cable! is a house and disco artist tracked on soundcheck, with 19 sets logged ac
 
 Jamie Joy, Marla Kether, Mr. Moonshine
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/cable-uk/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/cable-uk/)*

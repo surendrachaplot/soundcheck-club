@@ -1,6 +1,6 @@
 # Yokio
 
-Yokio is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at ÆDEN, Berlin on Sat, 8 Aug 2026.
+Yokio is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at ÆDEN, Berlin on Sat, 8 Aug 2026.
 
 Yokio is a techno and trance artist based in Germany, tracked on soundcheck, with 2 sets logged across Berlin. Often billed alongside BENDOM, FRËIHERR and Nilinski. Next up: ÆDEN, Berlin on Sat 8 Aug.
 
@@ -18,4 +18,4 @@ Yokio is a techno and trance artist based in Germany, tracked on soundcheck, wit
 
 BENDOM, FRËIHERR, Nilinski
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/yokio/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/yokio/)*

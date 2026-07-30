@@ -1,6 +1,6 @@
 # Ampe
 
-Ampe is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at Circle Park, Brussels on Sat, 29 Aug 2026.
+Ampe is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at Circle Park, Brussels on Sat, 29 Aug 2026.
 
 Ampe is a techno and trance artist tracked on soundcheck, with 67 sets logged across Antwerp, Brussels and Ghent. Often billed alongside Keyser, Corvus Ex and EMILIJA. Next up: Circle Park, Brussels on Sat 29 Aug.
 
@@ -25,4 +25,4 @@ Ampe is a techno and trance artist tracked on soundcheck, with 67 sets logged ac
 
 Keyser, Corvus Ex, EMILIJA
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/ampe/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/ampe/)*

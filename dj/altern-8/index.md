@@ -1,6 +1,6 @@
 # Altern-8
 
-Altern-8 is a Acid and House artist with 2 upcoming club dates listed on soundcheck as of Wed, 29 Jul 2026, next at Wigwam, Dublin on Thu, 20 Aug 2026.
+Altern-8 is a Acid and House artist with 2 upcoming club dates listed on soundcheck as of Thu, 30 Jul 2026, next at Wigwam, Dublin on Thu, 20 Aug 2026.
 
 Altern-8 is an acid and house artist tracked on soundcheck, with 30 sets logged across Belfast, Berlin, Birmingham and Brisbane and 10 more. Often billed alongside Slipmatt, 2 Bad Mice and Brandon Block. Next up: Wigwam, Dublin on Thu 20 Aug.
 
@@ -26,4 +26,4 @@ Altern-8 is an acid and house artist tracked on soundcheck, with 30 sets logged 
 
 Slipmatt, 2 Bad Mice, Brandon Block
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/altern-8/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/altern-8/)*

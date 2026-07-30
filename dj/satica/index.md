@@ -1,6 +1,6 @@
 # SATICA
 
-SATICA is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at Enter Shibuya, Tokyo on Sat, 1 Aug 2026.
+SATICA is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at Enter Shibuya, Tokyo on Sat, 1 Aug 2026.
 
 SATICA is a house and techno artist based in Japan, tracked on soundcheck, with 44 sets logged across Singapore and Tokyo. Often billed alongside Yo Nishijima, SAITO and Ground (1). Next up: Enter Shibuya, Tokyo on Sat 1 Aug.
 
@@ -25,4 +25,4 @@ SATICA is a house and techno artist based in Japan, tracked on soundcheck, with 
 
 Yo Nishijima, SAITO, Ground (1)
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/satica/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/satica/)*

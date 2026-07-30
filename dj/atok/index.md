@@ -1,6 +1,6 @@
 # a:tok
 
-a:tok is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at ://about blank, Berlin on Sun, 9 Aug 2026.
+a:tok is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at ://about blank, Berlin on Sun, 9 Aug 2026.
 
 a:tok is a house and techno artist tracked on soundcheck, with 30 sets logged across Berlin, Hamburg and Leipzig. Often billed alongside Kwaint, Barbara Hofmann and Hang Aoki. Next up: ://about blank, Berlin on Sun 9 Aug.
 
@@ -25,4 +25,4 @@ a:tok is a house and techno artist tracked on soundcheck, with 30 sets logged ac
 
 Kwaint, Barbara Hofmann, Hang Aoki
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/atok/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/atok/)*

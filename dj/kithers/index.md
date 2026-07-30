@@ -1,6 +1,6 @@
 # Kithers
 
-Kithers is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at TBA - North London, London on Sat, 22 Aug 2026.
+Kithers is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at TBA - North London, London on Sat, 22 Aug 2026.
 
 Kithers is a house and tech house artist tracked on soundcheck, with 25 sets logged across Amsterdam, Hobart, London and Melbourne. Often billed alongside Bex, Amphi and Mike Callander. Next up: TBA - North London, London on Sat 22 Aug.
 
@@ -25,4 +25,4 @@ Kithers is a house and tech house artist tracked on soundcheck, with 25 sets log
 
 Bex, Amphi, Mike Callander
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/kithers/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/kithers/)*

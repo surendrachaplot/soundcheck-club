@@ -1,6 +1,6 @@
 # export
 
-export is a music venue in Rotterdam with 7 upcoming nights listed on soundcheck as of Wed, 29 Jul 2026; the next is "Gabrielle Kwarteng, Sunnysoposted, 36framez" on Fri, 31 Jul 2026.
+export is a music venue in Rotterdam with 7 upcoming nights listed on soundcheck as of Thu, 30 Jul 2026; the next is "Gabrielle Kwarteng, Sunnysoposted, 36framez" on Fri, 31 Jul 2026.
 
 export is a music venue in Rotterdam listed on soundcheck. 7 upcoming nights, with line-ups including 36framez, Ben Diggins, BMG and DJ Shahmaran and 2 more. Browse upcoming dates, start times and who's playing. Keilestraat 7E, 3029 BP, Rotterdam.
 
@@ -20,4 +20,4 @@ export is a music venue in Rotterdam listed on soundcheck. 7 upcoming nights, wi
 
 Keilestraat 7E, 3029 BP, Rotterdam, Rotterdam
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/rotterdam/club/export/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/rotterdam/club/export/)*

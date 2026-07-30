@@ -1,6 +1,6 @@
 # Kate Moss
 
-Kate Moss is a Tech House and Deep House artist with 2 upcoming club dates listed on soundcheck as of Wed, 29 Jul 2026, next at Camden Lock Market, London on Fri, 31 Jul 2026.
+Kate Moss is a Tech House and Deep House artist with 2 upcoming club dates listed on soundcheck as of Thu, 30 Jul 2026, next at Camden Lock Market, London on Fri, 31 Jul 2026.
 
 Kate Moss is a tech house and deep house artist based in United Kingdom, tracked on soundcheck, with 21 sets logged across Athens and London. Often billed alongside CENKK, VENERE and Yashar (UK). Next up: Camden Lock Market, London on Fri 31 Jul.
 
@@ -26,4 +26,4 @@ Kate Moss is a tech house and deep house artist based in United Kingdom, tracked
 
 CENKK, VENERE, Yashar (UK)
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/katemoss/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/katemoss/)*

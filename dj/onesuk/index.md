@@ -1,6 +1,6 @@
 # ones (UK)
 
-ones (UK) is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at Miscellania, Melbourne on Sat, 15 Aug 2026.
+ones (UK) is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at Miscellania, Melbourne on Sat, 15 Aug 2026.
 
 ones (UK) is a house and techno artist based in United Kingdom, tracked on soundcheck, with 9 sets logged across Bali, London, Melbourne and Sydney. Often billed alongside Danny, K A I and Ross From Friends. Next up: Miscellania, Melbourne on Sat 15 Aug.
 
@@ -25,4 +25,4 @@ ones (UK) is a house and techno artist based in United Kingdom, tracked on sound
 
 Danny, K A I, Ross From Friends
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/onesuk/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/onesuk/)*

@@ -1,6 +1,6 @@
 # ShaunaDee
 
-ShaunaDee is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at Wigwam, Dublin on Sat, 8 Aug 2026.
+ShaunaDee is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at Wigwam, Dublin on Sat, 8 Aug 2026.
 
 ShaunaDee is a house and techno artist based in Ireland, tracked on soundcheck, with 15 sets logged across Dublin and Galway. Often billed alongside Bob Manzanilla, Kaycee and Nicole Spagnol. Next up: Wigwam, Dublin on Sat 8 Aug.
 
@@ -25,4 +25,4 @@ ShaunaDee is a house and techno artist based in Ireland, tracked on soundcheck, 
 
 Bob Manzanilla, Kaycee, Nicole Spagnol
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/shaunadee/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/shaunadee/)*

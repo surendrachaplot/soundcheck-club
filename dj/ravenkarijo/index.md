@@ -1,6 +1,6 @@
 # Raven Karijo
 
-Raven Karijo is a House and Baile Funk artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at Waterkant, Amsterdam on Fri, 31 Jul 2026.
+Raven Karijo is a House and Baile Funk artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at Waterkant, Amsterdam on Fri, 31 Jul 2026.
 
 Raven Karijo is a house and baile funk artist based in Netherlands, tracked on soundcheck, with 46 sets logged across Amsterdam, Stockholm, Thehague and Vienna. Often billed alongside Travis Allen, Rob Black and Floris Fahrenheit. Next up: Waterkant, Amsterdam on Fri 31 Jul.
 
@@ -25,4 +25,4 @@ Raven Karijo is a house and baile funk artist based in Netherlands, tracked on s
 
 Travis Allen, Rob Black, Floris Fahrenheit
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/ravenkarijo/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/ravenkarijo/)*

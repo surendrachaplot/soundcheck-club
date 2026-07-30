@@ -1,6 +1,6 @@
 # DEBBIE (IT)
 
-DEBBIE (IT) is a Techno and Industrial artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at M7 Club, Barcelona on Fri, 31 Jul 2026.
+DEBBIE (IT) is a Techno and Industrial artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at M7 Club, Barcelona on Fri, 31 Jul 2026.
 
 DEBBIE (IT) is a techno and industrial artist based in Italy, tracked on soundcheck, with 43 sets logged across Amsterdam, Barcelona, Berlin and Brussels and 10 more. Often billed alongside MARCO GINELLI, Vinka Wydro and Dstm. Next up: M7 Club, Barcelona on Fri 31 Jul.
 
@@ -25,4 +25,4 @@ DEBBIE (IT) is a techno and industrial artist based in Italy, tracked on soundch
 
 MARCO GINELLI, Vinka Wydro, Dstm
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/debbieit/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/debbieit/)*

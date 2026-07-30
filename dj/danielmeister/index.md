@@ -1,6 +1,6 @@
 # Daniel Meister
 
-Daniel Meister is a House and Minimal artist with 2 upcoming club dates listed on soundcheck as of Wed, 29 Jul 2026, next at Supermarket, Zurich on Fri, 28 Aug 2026.
+Daniel Meister is a House and Minimal artist with 2 upcoming club dates listed on soundcheck as of Thu, 30 Jul 2026, next at Supermarket, Zurich on Fri, 28 Aug 2026.
 
 Daniel Meister is a house and minimal artist tracked on soundcheck, with 18 sets logged across Berlin, Budapest, Geneva and Munich and 2 more. Often billed alongside Nicolas Duvoisin, Chris Llopis and Cora M.. Next up: Supermarket, Zurich on Fri 28 Aug.
 
@@ -26,4 +26,4 @@ Daniel Meister is a house and minimal artist tracked on soundcheck, with 18 sets
 
 Nicolas Duvoisin, Chris Llopis, Cora M.
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/danielmeister/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/danielmeister/)*

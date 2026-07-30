@@ -1,6 +1,6 @@
 # CaMi
 
-CaMi is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at Jonny Knüppel, Berlin on Fri, 31 Jul 2026.
+CaMi is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at Jonny Knüppel, Berlin on Fri, 31 Jul 2026.
 
 CaMi is a techno and house artist based in Italy, tracked on soundcheck, with 5 sets logged across Berlin, Hamburg, Munich and Utrecht. Often billed alongside loufo, 36framez and ATM. Next up: Jonny Knüppel, Berlin on Fri 31 Jul.
 
@@ -21,4 +21,4 @@ CaMi is a techno and house artist based in Italy, tracked on soundcheck, with 5 
 
 loufo, 36framez, ATM
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/cami/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/cami/)*

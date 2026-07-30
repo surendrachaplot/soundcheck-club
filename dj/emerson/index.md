@@ -1,6 +1,6 @@
 # Emerson
 
-Emerson is a Techno artist with 2 upcoming club dates listed on soundcheck as of Wed, 29 Jul 2026, next at ZUBAR, Tokyo on Sun, 2 Aug 2026.
+Emerson is a Techno artist with 2 upcoming club dates listed on soundcheck as of Thu, 30 Jul 2026, next at ZUBAR, Tokyo on Sun, 2 Aug 2026.
 
 Emerson is a techno artist based in Germany, tracked on soundcheck, with 6 sets logged across Barcelona, Berlin, Frankfurt and Tokyo. Often billed alongside Otis, Peter Eilmes and 2 Girls 1 Club. Next up: ZUBAR, Tokyo on Sun 2 Aug.
 
@@ -22,4 +22,4 @@ Emerson is a techno artist based in Germany, tracked on soundcheck, with 6 sets 
 
 Otis, Peter Eilmes, 2 Girls 1 Club
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/emerson/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/emerson/)*

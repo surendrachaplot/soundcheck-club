@@ -1,14 +1,13 @@
 # JakoJako
 
-JakoJako is a Techno and House artist with 12 upcoming club dates listed on soundcheck as of Wed, 29 Jul 2026, next at Amsterdamse Bos, Amsterdam on Wed, 29 Jul 2026.
+JakoJako is a Techno and House artist with 11 upcoming club dates listed on soundcheck as of Thu, 30 Jul 2026, next at Fvtvr, Paris on Fri, 31 Jul 2026.
 
-JakoJako is a techno and house artist tracked on soundcheck, with 155 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 35 more. Often billed alongside Barker, Rødhåd and Fadi Mohem. Next up: Amsterdamse Bos, Amsterdam on Wed 29 Jul.
+JakoJako is a techno and house artist tracked on soundcheck, with 155 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 35 more. Often billed alongside Barker, Rødhåd and Fadi Mohem. Next up: Fvtvr, Paris on Fri 31 Jul.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Wed, 29 Jul 2026 | Amsterdamse Bos | Amsterdam |
 | Fri, 31 Jul 2026 | Fvtvr | Paris |
 | Sat, 1 Aug 2026 | Amsterdamse Bos | Amsterdam |
 | Thu, 6 Aug 2026 | Klangtherapie | Nürnberg |
@@ -23,6 +22,7 @@ JakoJako is a techno and house artist tracked on soundcheck, with 155 sets logge
 
 ## Recently played
 
+- Amsterdamse Bos, Amsterdam — Wed, 29 Jul 2026
 - Amnesia Ibiza, Ibiza — Tue, 28 Jul 2026
 - RASA, Singapore — Fri, 24 Jul 2026
 - VENT, Tokyo — Fri, 10 Jul 2026
@@ -30,10 +30,9 @@ JakoJako is a techno and house artist tracked on soundcheck, with 155 sets logge
 - Zuiderpark, The Hague — Sat, 6 Jun 2026
 - Berghain | Panorama Bar | Säule, Berlin — Sat, 23 May 2026
 - TBA - Floraliënlaan 111, 2020 Antwerpen, België, Antwerp — Wed, 20 May 2026
-- Spaarnwoude (Deelplan Houtrak), Amsterdam — Sat, 16 May 2026
 
 ## Shares bills with
 
 Barker, Rødhåd, Fadi Mohem
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/jakojako/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/jakojako/)*

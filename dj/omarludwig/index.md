@@ -1,6 +1,6 @@
 # Omar Ludwig
 
-Omar Ludwig is a House and Minimal artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at MAD Radio NYC, New York City on Fri, 31 Jul 2026.
+Omar Ludwig is a House and Minimal artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at MAD Radio NYC, New York City on Fri, 31 Jul 2026.
 
 Omar Ludwig is a house and minimal artist based in United States of America, tracked on soundcheck, with 11 sets logged across Newyorkcity. Often billed alongside AG (NYC), Alex Raouf and Amba. Next up: MAD Radio NYC, Newyorkcity on Fri 31 Jul.
 
@@ -25,4 +25,4 @@ Omar Ludwig is a house and minimal artist based in United States of America, tra
 
 AG (NYC), Alex Raouf, Amba
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/omarludwig/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/omarludwig/)*

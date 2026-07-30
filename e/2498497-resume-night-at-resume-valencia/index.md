@@ -1,6 +1,6 @@
 # RESUME NIGHT at Resume Valencia
 
-RESUME NIGHT at Resume Valencia on Sat 15 Aug, Valencia. 1 act on the bill: Tommaso Pizzelli. Tech House and Deep House. Preview the line-up and save it on soundcheck.
+RESUME NIGHT at Resume Valencia on Sat 15 Aug, Valencia. 2 acts on the bill: Guile and Tommaso Pizzelli. Tech House and Deep House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,6 +10,7 @@ RESUME NIGHT at Resume Valencia on Sat 15 Aug, Valencia. 1 act on the bill: Tomm
 
 ## Line-up
 
+- Guile
 - Tommaso Pizzelli
 
 *Source: [soundcheck](https://soundcheck.club/e/2498497-resume-night-at-resume-valencia/)*

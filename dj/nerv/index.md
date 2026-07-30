@@ -1,6 +1,6 @@
 # Nerv
 
-Nerv is a Psytrance and Drum & Bass artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at Void Club, Berlin on Sat, 1 Aug 2026.
+Nerv is a Psytrance and Drum & Bass artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at Void Club, Berlin on Sat, 1 Aug 2026.
 
 Nerv is a psytrance and drum & bass artist based in Ireland, tracked on soundcheck, with 9 sets logged across Berlin. Often billed alongside Upzet, Shaded Lines and H.U.K. Next up: Void Club, Berlin on Sat 1 Aug.
 
@@ -25,4 +25,4 @@ Nerv is a psytrance and drum & bass artist based in Ireland, tracked on soundche
 
 Upzet, Shaded Lines, H.U.K
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/nerv/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/nerv/)*

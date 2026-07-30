@@ -1,6 +1,6 @@
 # Lentza
 
-Lentza is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at Jolene, Copenhagen on Fri, 31 Jul 2026.
+Lentza is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at Jolene, Copenhagen on Fri, 31 Jul 2026.
 
 Lentza is a house and techno artist based in Romania, tracked on soundcheck, with 9 sets logged across Copenhagen. Often billed alongside qosa, Alin and Ricq. Next up: Jolene, Copenhagen on Fri 31 Jul.
 
@@ -25,4 +25,4 @@ Lentza is a house and techno artist based in Romania, tracked on soundcheck, wit
 
 qosa, Alin, Ricq
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/lentza/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/lentza/)*

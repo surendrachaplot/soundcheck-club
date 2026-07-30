@@ -1,6 +1,6 @@
 # Duiji 13
 
-Duiji 13 is a House and Afrobeat artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at The International Bar, Philadelphia on Fri, 31 Jul 2026.
+Duiji 13 is a House and Afrobeat artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at The International Bar, Philadelphia on Fri, 31 Jul 2026.
 
 Duiji 13 is a house and afrobeat artist based in United States of America, tracked on soundcheck, with 6 sets logged across Philadelphia. Often billed alongside Courtnee Owens, 1CLUE. and Cameron Kelly. Next up: The International Bar, Philadelphia on Fri 31 Jul.
 
@@ -22,4 +22,4 @@ Duiji 13 is a house and afrobeat artist based in United States of America, track
 
 Courtnee Owens, 1CLUE., Cameron Kelly
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/duiji13/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/duiji13/)*

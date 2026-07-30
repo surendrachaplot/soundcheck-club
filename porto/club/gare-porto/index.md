@@ -1,6 +1,6 @@
 # Gare Porto
 
-Gare Porto is a music venue in Porto with 3 upcoming nights listed on soundcheck as of Wed, 29 Jul 2026; the next is "ACQUARIO with Münch, Outburst Knobs, Viels" on Fri, 31 Jul 2026.
+Gare Porto is a music venue in Porto with 3 upcoming nights listed on soundcheck as of Thu, 30 Jul 2026; the next is "ACQUARIO with Münch, Outburst Knobs, Viels" on Fri, 31 Jul 2026.
 
 Gare Porto is a music venue in Porto listed on soundcheck. 3 upcoming nights, with line-ups including Amulador, Ario, DjRUM and Münch and 2 more. Browse upcoming dates, start times and who's playing. Rua da Madeira 182, 4000 Porto, Portugal.
 
@@ -16,4 +16,4 @@ Gare Porto is a music venue in Porto listed on soundcheck. 3 upcoming nights, wi
 
 Rua da Madeira 182, 4000 Porto, Portugal, Porto
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/porto/club/gare-porto/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/porto/club/gare-porto/)*

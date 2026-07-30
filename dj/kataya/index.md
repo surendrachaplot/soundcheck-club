@@ -1,6 +1,6 @@
 # Kataya
 
-Kataya is a Downtempo and Techno artist with 2 upcoming club dates listed on soundcheck as of Wed, 29 Jul 2026, next at Jonny Knüppel, Berlin on Fri, 31 Jul 2026.
+Kataya is a Downtempo and Techno artist with 2 upcoming club dates listed on soundcheck as of Thu, 30 Jul 2026, next at Jonny Knüppel, Berlin on Fri, 31 Jul 2026.
 
 Kataya is a downtempo and techno artist based in Germany, tracked on soundcheck, with 15 sets logged across Berlin and Cologne. Often billed alongside Ciao 3lla, ANTYA and Acid.Foxy. Next up: Jonny Knüppel, Berlin on Fri 31 Jul.
 
@@ -26,4 +26,4 @@ Kataya is a downtempo and techno artist based in Germany, tracked on soundcheck,
 
 Ciao 3lla, ANTYA, Acid.Foxy
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/kataya/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/kataya/)*

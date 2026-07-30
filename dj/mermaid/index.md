@@ -1,6 +1,6 @@
 # Mermaid
 
-Mermaid is a Electronica and Experimental artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at Noon + Cafe, Osaka on Thu, 20 Aug 2026.
+Mermaid is a Electronica and Experimental artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at Noon + Cafe, Osaka on Thu, 20 Aug 2026.
 
 Mermaid is an electronica and experimental artist based in United States of America, tracked on soundcheck, with 5 sets logged across Osaka and Tokyo. Often billed alongside Glico, KA4U and Lemi. Next up: Noon + Cafe, Osaka on Thu 20 Aug.
 
@@ -21,4 +21,4 @@ Mermaid is an electronica and experimental artist based in United States of Amer
 
 Glico, KA4U, Lemi
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/mermaid/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/mermaid/)*

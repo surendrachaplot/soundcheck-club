@@ -1,6 +1,6 @@
 # Dream_E
 
-Dream_E is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at Renate, Berlin on Fri, 31 Jul 2026.
+Dream_E is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at Renate, Berlin on Fri, 31 Jul 2026.
 
 Dream_E is a techno and house artist based in United Kingdom, tracked on soundcheck, with 9 sets logged across Berlin, Budapest, Edinburgh and Manchester and 1 more. Often billed alongside The Burrell Connection, Craigie Knowes and DJ Life. Next up: Renate, Berlin on Fri 31 Jul.
 
@@ -25,4 +25,4 @@ Dream_E is a techno and house artist based in United Kingdom, tracked on soundch
 
 The Burrell Connection, Craigie Knowes, DJ Life
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/dream_e/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/dream_e/)*

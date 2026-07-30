@@ -1,6 +1,6 @@
 # Michelle Leshem
 
-Michelle Leshem is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at Bar Franca, Los Angeles on Thu, 30 Jul 2026.
+Michelle Leshem is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at Bar Franca, Los Angeles on Thu, 30 Jul 2026.
 
 Michelle Leshem is a house and disco artist based in United States of America, tracked on soundcheck, with 21 sets logged across Losangeles, Miami, Sandiego and Sanfrancisco. Often billed alongside Lubelski, Maddy Maia and Tottie. Next up: Bar Franca, Losangeles on Thu 30 Jul.
 
@@ -25,4 +25,4 @@ Michelle Leshem is a house and disco artist based in United States of America, t
 
 Lubelski, Maddy Maia, Tottie
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/michelleleshem/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/michelleleshem/)*

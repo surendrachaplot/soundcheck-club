@@ -1,6 +1,6 @@
 # Ed Warner
 
-Ed Warner is a Electro and Acid artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at Village Underground Barcelona, Barcelona on Fri, 31 Jul 2026.
+Ed Warner is a Electro and Acid artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at Village Underground Barcelona, Barcelona on Fri, 31 Jul 2026.
 
 Ed Warner is an electro and acid artist tracked on soundcheck, with 59 sets logged across Austin, Barcelona, Berlin and London and 3 more. Often billed alongside Kinetic (2), Oriana and Andi. Next up: Village Underground Barcelona, Barcelona on Fri 31 Jul.
 
@@ -25,4 +25,4 @@ Ed Warner is an electro and acid artist tracked on soundcheck, with 59 sets logg
 
 Kinetic (2), Oriana, Andi
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/edwarner/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/edwarner/)*

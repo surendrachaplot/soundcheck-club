@@ -1,6 +1,6 @@
 # The Lizard Queen
 
-The Lizard Queen is a Experimental and Electronica artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at A L P H A B E T, Brighton on Fri, 31 Jul 2026.
+The Lizard Queen is a Experimental and Electronica artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at A L P H A B E T, Brighton on Fri, 31 Jul 2026.
 
 The Lizard Queen is an experimental and electronica artist based in United Kingdom, tracked on soundcheck, with 9 sets logged across Bangkok, Brighton, London and Tokyo. Often billed alongside Boo, MileZ and Romy Mats. Next up: A L P H A B E T, Brighton on Fri 31 Jul.
 
@@ -25,4 +25,4 @@ The Lizard Queen is an experimental and electronica artist based in United Kingd
 
 Boo, MileZ, Romy Mats
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/thelizardqueen/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/thelizardqueen/)*

@@ -1,6 +1,6 @@
 # Marta Kulpa
 
-Marta Kulpa is a Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at Forum Horyzonty, Krakow on Sat, 19 Sept 2026.
+Marta Kulpa is a Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at Forum Horyzonty, Krakow on Sat, 19 Sept 2026.
 
 Marta Kulpa is a techno artist based in Poland, tracked on soundcheck, with 6 sets logged across Krakow and Warsaw. Often billed alongside 1 AM (1), Aetha and Ane. Next up: Forum Horyzonty, Krakow on Sat 19 Sept.
 
@@ -22,4 +22,4 @@ Marta Kulpa is a techno artist based in Poland, tracked on soundcheck, with 6 se
 
 1 AM (1), Aetha, Ane
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/martakulpa/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/martakulpa/)*

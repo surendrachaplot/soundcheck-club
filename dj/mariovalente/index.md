@@ -1,6 +1,6 @@
 # Mário Valente
 
-Mário Valente is a House and Italo Disco artist with 4 upcoming club dates listed on soundcheck as of Wed, 29 Jul 2026, next at Lux Fragil, Lisbon on Thu, 30 Jul 2026.
+Mário Valente is a House and Italo Disco artist with 4 upcoming club dates listed on soundcheck as of Thu, 30 Jul 2026, next at Lux Fragil, Lisbon on Thu, 30 Jul 2026.
 
 Mário Valente is a house and italo disco artist based in Portugal, tracked on soundcheck, with 31 sets logged across Lisbon. Often billed alongside Phoebe (1), Trol2000 and DJ Caring. Next up: Lux Fragil, Lisbon on Thu 30 Jul.
 
@@ -28,4 +28,4 @@ Mário Valente is a house and italo disco artist based in Portugal, tracked on s
 
 Phoebe (1), Trol2000, DJ Caring
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/mariovalente/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/mariovalente/)*

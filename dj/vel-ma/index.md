@@ -1,6 +1,6 @@
 # VEL (MA)
 
-VEL (MA) is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at Hausmania, Oslo on Thu, 13 Aug 2026.
+VEL (MA) is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at Hausmania, Oslo on Thu, 13 Aug 2026.
 
 VEL (MA) is a techno and trance artist tracked on soundcheck, with 138 sets logged across Amsterdam, Athens, Barcelona and Basel and 38 more. Often billed alongside Anetha, A Strange Wedding and Mac Declos. Next up: Hausmania, Oslo on Thu 13 Aug.
 
@@ -25,4 +25,4 @@ VEL (MA) is a techno and trance artist tracked on soundcheck, with 138 sets logg
 
 Anetha, A Strange Wedding, Mac Declos
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/vel-ma/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/vel-ma/)*

@@ -1,6 +1,6 @@
 # Fawks
 
-Fawks is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at Sexto Piso, Mexico City on Sat, 8 Aug 2026.
+Fawks is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at Sexto Piso, Mexico City on Sat, 8 Aug 2026.
 
 Fawks is a techno and house artist based in United States of America, tracked on soundcheck, with 72 sets logged across Berlin, Detroit, Leipzig and Losangeles and 4 more. Often billed alongside Jumpr, Kudeki and Sholim Eso. Next up: Sexto Piso, Mexicocity on Sat 8 Aug.
 
@@ -25,4 +25,4 @@ Fawks is a techno and house artist based in United States of America, tracked on
 
 Jumpr, Kudeki, Sholim Eso
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/fawks-us/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/fawks-us/)*

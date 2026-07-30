@@ -1,6 +1,6 @@
 # Baru
 
-Baru is a House and Garage artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at The Meadows, New York City on Sat, 1 Aug 2026.
+Baru is a House and Garage artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at The Meadows, New York City on Sat, 1 Aug 2026.
 
 Baru is a house and garage artist based in Panama, tracked on soundcheck, with 16 sets logged across Barcelona, Newyorkcity and Tokyo. Often billed alongside LeCamille, Kenjinho and tallbrowndude. Next up: The Meadows, Newyorkcity on Sat 1 Aug.
 
@@ -25,4 +25,4 @@ Baru is a house and garage artist based in Panama, tracked on soundcheck, with 1
 
 LeCamille, Kenjinho, tallbrowndude
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/baru/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/baru/)*

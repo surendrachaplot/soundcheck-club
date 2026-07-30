@@ -1,6 +1,6 @@
 # Brawther
 
-Brawther is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at Lofi, Amsterdam on Sat, 29 Aug 2026.
+Brawther is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at Lofi, Amsterdam on Sat, 29 Aug 2026.
 
 Brawther is a house and deep house artist tracked on soundcheck, with 68 sets logged across Amsterdam, Athens, Barcelona and Birmingham and 22 more. Often billed alongside Tristan da Cunha, Dungeon Meat and Doudou MD. Next up: Lofi, Amsterdam on Sat 29 Aug.
 
@@ -25,4 +25,4 @@ Brawther is a house and deep house artist tracked on soundcheck, with 68 sets lo
 
 Tristan da Cunha, Dungeon Meat, Doudou MD
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/brawther/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/brawther/)*

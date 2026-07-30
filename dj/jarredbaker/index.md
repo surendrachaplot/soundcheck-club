@@ -1,6 +1,6 @@
 # Jarred Baker
 
-Jarred Baker is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at Radio Radio, Amsterdam on Sun, 2 Aug 2026.
+Jarred Baker is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at Radio Radio, Amsterdam on Sun, 2 Aug 2026.
 
 Jarred Baker is a house and techno artist based in Australia, tracked on soundcheck, with 43 sets logged across Amsterdam, London, Melbourne and Sydney. Often billed alongside Mixed Methods, BAiiN TWINS and Bella Backe. Next up: Radio Radio, Amsterdam on Sun 2 Aug.
 
@@ -25,4 +25,4 @@ Jarred Baker is a house and techno artist based in Australia, tracked on soundch
 
 Mixed Methods, BAiiN TWINS, Bella Backe
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/jarredbaker/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/jarredbaker/)*

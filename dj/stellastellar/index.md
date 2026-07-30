@@ -1,13 +1,14 @@
 # Stella Stellar
 
-Stella Stellar is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at Kater, Berlin on Fri, 21 Aug 2026.
+Stella Stellar is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Thu, 30 Jul 2026, next at Südpol, Hamburg on Sat, 8 Aug 2026.
 
-Stella Stellar is a techno and house artist tracked on soundcheck, with 27 sets logged across Berlin and Hamburg. Often billed alongside Einfach Taffo, smeik and AHAB. Next up: Kater, Berlin on Fri 21 Aug.
+Stella Stellar is a techno and house artist tracked on soundcheck, with 28 sets logged across Berlin and Hamburg. Often billed alongside Einfach Taffo, smeik and AHAB. Next up: Südpol, Hamburg on Sat 8 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 8 Aug 2026 | Südpol | Hamburg |
 | Fri, 21 Aug 2026 | Kater | Berlin |
 
 ## Recently played
@@ -25,4 +26,4 @@ Stella Stellar is a techno and house artist tracked on soundcheck, with 27 sets 
 
 Einfach Taffo, smeik, AHAB
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/stellastellar/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/stellastellar/)*

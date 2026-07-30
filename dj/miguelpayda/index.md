@@ -1,6 +1,6 @@
 # Miguel Payda
 
-Miguel Payda is a Electronica and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at Studio Club Malaga, Malaga on Sat, 1 Aug 2026.
+Miguel Payda is a Electronica and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at Studio Club Malaga, Malaga on Sat, 1 Aug 2026.
 
 Miguel Payda is an electronica and techno artist tracked on soundcheck, with 43 sets logged across Barcelona, Berlin, Lisbon and Malaga and 1 more. Often billed alongside INTERVALO, Locati and Argia. Next up: Studio Club Malaga, Malaga on Sat 1 Aug.
 
@@ -25,4 +25,4 @@ Miguel Payda is an electronica and techno artist tracked on soundcheck, with 43 
 
 INTERVALO, Locati, Argia
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/miguelpayda/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/miguelpayda/)*

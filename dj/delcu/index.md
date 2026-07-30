@@ -1,6 +1,6 @@
 # Delcu
 
-Delcu is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at TBA - Rua Coronel Euclides Machado, 1066 - Limão, São Paulo - SP, 02713-000, Brasil, Sao Paulo on Sat, 1 Aug 2026.
+Delcu is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at TBA - Rua Coronel Euclides Machado, 1066 - Limão, São Paulo - SP, 02713-000, Brasil, Sao Paulo on Sat, 1 Aug 2026.
 
 Delcu is a house and techno artist tracked on soundcheck, with 43 sets logged across Berlin, Ibiza, Lisbon and Porto and 2 more. Often billed alongside Kontronatura, Milian Dolla and Suelen Mesmo. Next up: TBA - Rua Coronel Euclides Machado, 1066 - Limão, São Paulo - SP, 02713-000, Brasil, Saopaulo on Sat 1 Aug.
 
@@ -25,4 +25,4 @@ Delcu is a house and techno artist tracked on soundcheck, with 43 sets logged ac
 
 Kontronatura, Milian Dolla, Suelen Mesmo
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/delcu/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/delcu/)*

@@ -1,6 +1,6 @@
 # Ti Es
 
-Ti Es is a Techno and Tech House artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at Auditorium Parco della Musica, Rome on Sat, 12 Sept 2026.
+Ti Es is a Techno and Tech House artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at Auditorium Parco della Musica, Rome on Sat, 12 Sept 2026.
 
 Ti Es is a techno and tech house artist based in Italy, tracked on soundcheck, with 17 sets logged across Athens, Barcelona, Berlin and Detroit and 4 more. Often billed alongside Lele Sacchi, Richie Hawtin and Clara 3000. Next up: Auditorium Parco della Musica, Rome on Sat 12 Sept.
 
@@ -25,4 +25,4 @@ Ti Es is a techno and tech house artist based in Italy, tracked on soundcheck, w
 
 Lele Sacchi, Richie Hawtin, Clara 3000
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/ties/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/ties/)*

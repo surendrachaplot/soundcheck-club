@@ -1,6 +1,6 @@
 # NUMBER 90 LONDON
 
-NUMBER 90 LONDON is a music venue in London with 10 upcoming nights listed on soundcheck as of Wed, 29 Jul 2026; the next is "The Mixmag Lab London with La La, Papa Nugs & MADVILLA" on Thu, 30 Jul 2026.
+NUMBER 90 LONDON is a music venue in London with 10 upcoming nights listed on soundcheck as of Thu, 30 Jul 2026; the next is "The Mixmag Lab London with La La, Papa Nugs & MADVILLA" on Thu, 30 Jul 2026.
 
 NUMBER 90 LONDON is a music venue in London listed on soundcheck. 10 upcoming nights, with line-ups including 1BYAKKO, Justine Perry, A.Wild and Adam Curtain and 2 more. Browse upcoming dates, start times and who's playing. 90 Main Yard; Wallis Road; London E9 5LN; United Kingdom.
 
@@ -23,4 +23,4 @@ NUMBER 90 LONDON is a music venue in London listed on soundcheck. 10 upcoming ni
 
 90 Main Yard; Wallis Road; London E9 5LN; United Kingdom, London
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/london/club/number-90-london/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/london/club/number-90-london/)*

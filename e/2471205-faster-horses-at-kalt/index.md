@@ -1,6 +1,6 @@
 # Faster Horses at KALT
 
-Faster Horses at KALT on Sat 8 Aug, Strasbourg. 2 acts on the bill: Faster Horses and Tatlo. Preview the line-up and save it on soundcheck.
+Faster Horses at KALT on Sat 8 Aug, Strasbourg. 3 acts on the bill: Faster Horses, STU (FR) and Tatlo. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -11,6 +11,7 @@ Faster Horses at KALT on Sat 8 Aug, Strasbourg. 2 acts on the bill: Faster Horse
 ## Line-up
 
 - Faster Horses
+- STU (FR)
 - Tatlo
 
 *Source: [soundcheck](https://soundcheck.club/e/2471205-faster-horses-at-kalt/)*

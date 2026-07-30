@@ -1,6 +1,6 @@
 # Gregor AM
 
-Gregor AM is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at Sneaky Pete's, Edinburgh on Thu, 20 Aug 2026.
+Gregor AM is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at Sneaky Pete's, Edinburgh on Thu, 20 Aug 2026.
 
 Gregor AM is a techno and house artist based in United Kingdom, tracked on soundcheck, with 31 sets logged across Edinburgh, Glasgow and London. Often billed alongside LWS, DJ Bz and Doogi. Next up: Sneaky Pete's, Edinburgh on Thu 20 Aug.
 
@@ -25,4 +25,4 @@ Gregor AM is a techno and house artist based in United Kingdom, tracked on sound
 
 LWS, DJ Bz, Doogi
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/gregoram/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/gregoram/)*

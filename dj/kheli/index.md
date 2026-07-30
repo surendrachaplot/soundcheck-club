@@ -1,6 +1,6 @@
 # kheli
 
-kheli is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at Kilomètre25, Paris on Fri, 31 Jul 2026.
+kheli is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at Kilomètre25, Paris on Fri, 31 Jul 2026.
 
 kheli is a techno and house artist based in France, tracked on soundcheck, with 31 sets logged across Frankfurt, Marseille, Nantes and Paris. Often billed alongside Aérienne, Cera Khin and KALTBLUME. Next up: Kilomètre25, Paris on Fri 31 Jul.
 
@@ -25,4 +25,4 @@ kheli is a techno and house artist based in France, tracked on soundcheck, with 
 
 Aérienne, Cera Khin, KALTBLUME
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/kheli/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/kheli/)*

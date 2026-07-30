@@ -1,6 +1,6 @@
 # Outback
 
-Outback is a Hardcore and Gabber artist with 3 upcoming club dates listed on soundcheck as of Wed, 29 Jul 2026, next at Société des arts technologiques, Montreal on Sat, 1 Aug 2026.
+Outback is a Hardcore and Gabber artist with 3 upcoming club dates listed on soundcheck as of Thu, 30 Jul 2026, next at Société des arts technologiques, Montreal on Sat, 1 Aug 2026.
 
 Outback is a hardcore and gabber artist based in Canada, tracked on soundcheck, with 64 sets logged across Boston, Montreal, Newyorkcity and Toronto. Often billed alongside the bald girl, Beamskii and Technopagan. Next up: Société des arts technologiques, Montreal on Sat 1 Aug.
 
@@ -27,4 +27,4 @@ Outback is a hardcore and gabber artist based in Canada, tracked on soundcheck, 
 
 the bald girl, Beamskii, Technopagan
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/outback/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/outback/)*

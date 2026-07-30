@@ -1,6 +1,6 @@
 # Ryosuke
 
-Ryosuke is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at Mitsuki, Tokyo on Fri, 7 Aug 2026.
+Ryosuke is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at Mitsuki, Tokyo on Fri, 7 Aug 2026.
 
 Ryosuke is a house and techno artist based in Japan, tracked on soundcheck, with 39 sets logged across Osaka, Seoul and Tokyo. Often billed alongside Bushmind, Celter and Karuta. Next up: Mitsuki, Tokyo on Fri 7 Aug.
 
@@ -25,4 +25,4 @@ Ryosuke is a house and techno artist based in Japan, tracked on soundcheck, with
 
 Bushmind, Celter, Karuta
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/ryosuke/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/ryosuke/)*

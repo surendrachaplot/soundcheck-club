@@ -1,6 +1,6 @@
 # Finn Nelson
 
-Finn Nelson is a Electro and House artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at Secret Location, London on Sat, 1 Aug 2026.
+Finn Nelson is a Electro and House artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at Secret Location, London on Sat, 1 Aug 2026.
 
 Finn Nelson is an electro and house artist based in United Kingdom, tracked on soundcheck, with 9 sets logged across London and Manchester. Often billed alongside Earth2Sam, Alexandra and Andrew James Gustav. Next up: Secret Location, London on Sat 1 Aug.
 
@@ -25,4 +25,4 @@ Finn Nelson is an electro and house artist based in United Kingdom, tracked on s
 
 Earth2Sam, Alexandra, Andrew James Gustav
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/finnnelson/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/finnnelson/)*

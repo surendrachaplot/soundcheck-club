@@ -1,6 +1,6 @@
 # Jorge Escribano
 
-Jorge Escribano is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Wed, 29 Jul 2026, next at THE MAGICK BAR, Rome on Sat, 1 Aug 2026.
+Jorge Escribano is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Thu, 30 Jul 2026, next at THE MAGICK BAR, Rome on Sat, 1 Aug 2026.
 
 Jorge Escribano is a house and techno artist based in Spain, tracked on soundcheck, with 79 sets logged across Amsterdam, Barcelona, Berlin and Boston and 24 more. Often billed alongside Cecilio, Laurine and Avo (ES). Next up: THE MAGICK BAR, Rome on Sat 1 Aug.
 
@@ -9,7 +9,7 @@ Jorge Escribano is a house and techno artist based in Spain, tracked on soundche
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 1 Aug 2026 | THE MAGICK BAR | Rome |
-| Sun, 2 Aug 2026 | Secret Location | London |
+| Sun, 2 Aug 2026 | TBA - Secret Location | London |
 
 ## Recently played
 
@@ -26,4 +26,4 @@ Jorge Escribano is a house and techno artist based in Spain, tracked on soundche
 
 Cecilio, Laurine, Avo (ES)
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/jorgeescribano/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/jorgeescribano/)*

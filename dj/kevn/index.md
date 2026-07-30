@@ -1,6 +1,6 @@
 # KEVN
 
-KEVN is a Industrial and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at BASIS, Utrecht on Fri, 21 Aug 2026.
+KEVN is a Industrial and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at BASIS, Utrecht on Fri, 21 Aug 2026.
 
 KEVN is an industrial and techno artist based in Netherlands, tracked on soundcheck, with 3 sets logged across Amsterdam and Utrecht. Often billed alongside Atoll, JÆLBIRD and STN (2). Next up: BASIS, Utrecht on Fri 21 Aug.
 
@@ -19,4 +19,4 @@ KEVN is an industrial and techno artist based in Netherlands, tracked on soundch
 
 Atoll, JÆLBIRD, STN (2)
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/kevn/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/kevn/)*

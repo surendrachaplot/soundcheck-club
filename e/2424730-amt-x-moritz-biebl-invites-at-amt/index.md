@@ -1,6 +1,6 @@
 # AMT x Moritz Biebl invites: at AMT
 
-AMT x Moritz Biebl invites: on Sat 15 Aug, Berlin. 7 acts on the bill: ALVA (FR), BUTZ, Hontas and Jay Dee and 3 more. Techno and House. Preview the line-up and save it on soundcheck.
+AMT x Moritz Biebl invites: on Sat 15 Aug, Berlin. 8 acts on the bill: Alva, ALVA (FR), BUTZ and Hontas and 4 more. Techno and House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,6 +10,7 @@ AMT x Moritz Biebl invites: on Sat 15 Aug, Berlin. 7 acts on the bill: ALVA (FR)
 
 ## Line-up
 
+- Alva
 - ALVA (FR)
 - BUTZ
 - Hontas

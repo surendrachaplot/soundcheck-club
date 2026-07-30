@@ -1,6 +1,6 @@
 # Nightchou
 
-Nightchou is a House and Disco artist with 2 upcoming club dates listed on soundcheck as of Wed, 29 Jul 2026, next at Fvtvr, Paris on Sat, 1 Aug 2026.
+Nightchou is a House and Disco artist with 2 upcoming club dates listed on soundcheck as of Thu, 30 Jul 2026, next at Fvtvr, Paris on Sat, 1 Aug 2026.
 
 Nightchou is a house and disco artist based in France, tracked on soundcheck, with 45 sets logged across Milan, Nantes and Paris. Often billed alongside Romain Dafalgang, Adri and Arp Frique. Next up: Fvtvr, Paris on Sat 1 Aug.
 
@@ -26,4 +26,4 @@ Nightchou is a house and disco artist based in France, tracked on soundcheck, wi
 
 Romain Dafalgang, Adri, Arp Frique
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/nightchou/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/nightchou/)*

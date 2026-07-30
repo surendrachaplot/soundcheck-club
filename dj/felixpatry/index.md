@@ -1,6 +1,6 @@
 # Felix Patry
 
-Felix Patry is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at Société des arts technologiques, Montreal on Fri, 31 Jul 2026.
+Felix Patry is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at Société des arts technologiques, Montreal on Fri, 31 Jul 2026.
 
 Felix Patry is a techno and house artist tracked on soundcheck, with 28 sets logged across Montreal. Often billed alongside James Benjamin, Skin On Skin and Andrea de Tour. Next up: Société des arts technologiques, Montreal on Fri 31 Jul.
 
@@ -25,4 +25,4 @@ Felix Patry is a techno and house artist tracked on soundcheck, with 28 sets log
 
 James Benjamin, Skin On Skin, Andrea de Tour
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/felixpatry/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/felixpatry/)*

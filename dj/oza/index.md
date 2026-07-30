@@ -1,6 +1,6 @@
 # OZA
 
-OZA is a Techno and Trance artist with 3 upcoming club dates listed on soundcheck as of Wed, 29 Jul 2026, next at DNA Club, Munich on Fri, 31 Jul 2026.
+OZA is a Techno and Trance artist with 3 upcoming club dates listed on soundcheck as of Thu, 30 Jul 2026, next at DNA Club, Munich on Fri, 31 Jul 2026.
 
 OZA is a techno and trance artist based in United States of America, tracked on soundcheck, with 75 sets logged across Amsterdam, Berlin, Boston and Losangeles and 9 more. Often billed alongside DJ Gigola, MCR-T and PALMA (US). Next up: DNA Club, Munich on Fri 31 Jul.
 
@@ -27,4 +27,4 @@ OZA is a techno and trance artist based in United States of America, tracked on 
 
 DJ Gigola, MCR-T, PALMA (US)
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/oza/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/oza/)*

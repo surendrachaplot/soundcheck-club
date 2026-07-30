@@ -1,6 +1,6 @@
 # Michael C
 
-Michael C is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at Roxy, Prague on Fri, 31 Jul 2026.
+Michael C is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at Roxy, Prague on Fri, 31 Jul 2026.
 
 Michael C is a house and techno artist based in Portugal, tracked on soundcheck, with 9 sets logged across Porto and Prague. Often billed alongside Chris Sadler, Claptone and Hasky (SK). Next up: Roxy, Prague on Fri 31 Jul.
 
@@ -25,4 +25,4 @@ Michael C is a house and techno artist based in Portugal, tracked on soundcheck,
 
 Chris Sadler, Claptone, Hasky (SK)
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/michaelc/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/michaelc/)*

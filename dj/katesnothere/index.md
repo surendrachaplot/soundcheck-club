@@ -1,6 +1,6 @@
 # KatesNotHere
 
-KatesNotHere is a Techno and Acid artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at EQ San Diego, San Diego on Thu, 30 Jul 2026.
+KatesNotHere is a Techno and Acid artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at EQ San Diego, San Diego on Thu, 30 Jul 2026.
 
 KatesNotHere is a techno and acid artist based in United States of America, tracked on soundcheck, with 11 sets logged across Losangeles and Sandiego. Often billed alongside Alex Casillas, Barbosa and ElezD. Next up: EQ San Diego, Sandiego on Thu 30 Jul.
 
@@ -25,4 +25,4 @@ KatesNotHere is a techno and acid artist based in United States of America, trac
 
 Alex Casillas, Barbosa, ElezD
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/katesnothere/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/katesnothere/)*

@@ -1,6 +1,6 @@
 # Klefman
 
-Klefman is a Bass and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at Péniche Loupika, Lyon on Sun, 2 Aug 2026.
+Klefman is a Bass and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at Péniche Loupika, Lyon on Sun, 2 Aug 2026.
 
 Klefman is a bass and techno artist based in France, tracked on soundcheck, with 6 sets logged across Lyon. Often billed alongside Rivda, Fray (FR) and HBB (MA). Next up: Péniche Loupika, Lyon on Sun 2 Aug.
 
@@ -22,4 +22,4 @@ Klefman is a bass and techno artist based in France, tracked on soundcheck, with
 
 Rivda, Fray (FR), HBB (MA)
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/klefman/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/klefman/)*

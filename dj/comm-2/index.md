@@ -1,6 +1,6 @@
 # comm
 
-comm is a Techno and Bass artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at WOMB, Tokyo on Fri, 31 Jul 2026.
+comm is a Techno and Bass artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at WOMB, Tokyo on Fri, 31 Jul 2026.
 
 comm is a techno and bass artist based in Japan, tracked on soundcheck, with 46 sets logged across Barcelona, Hongkong, Madrid and Osaka and 1 more. Often billed alongside Herbalistek, LØST and GS Projekt. Next up: WOMB, Tokyo on Fri 31 Jul.
 
@@ -25,4 +25,4 @@ comm is a techno and bass artist based in Japan, tracked on soundcheck, with 46 
 
 Herbalistek, LØST, GS Projekt
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/comm-2/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/comm-2/)*

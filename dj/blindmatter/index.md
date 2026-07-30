@@ -1,6 +1,6 @@
 # Blind Matter
 
-Blind Matter is a Bass artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at TBA, Sydney on Sat, 1 Aug 2026.
+Blind Matter is a Bass artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at TBA, Sydney on Sat, 1 Aug 2026.
 
 Blind Matter is a bass artist based in Australia, tracked on soundcheck, with 1 set logged across Sydney. Often billed alongside Sanglien. Next up: TBA, Sydney on Sat 1 Aug.
 
@@ -14,4 +14,4 @@ Blind Matter is a bass artist based in Australia, tracked on soundcheck, with 1 
 
 Sanglien
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/blindmatter/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/blindmatter/)*

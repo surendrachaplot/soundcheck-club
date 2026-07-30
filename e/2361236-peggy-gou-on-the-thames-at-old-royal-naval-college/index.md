@@ -1,6 +1,6 @@
 # Peggy Gou on the Thames at Old Royal Naval College
 
-Peggy Gou on the Thames at Old Royal Naval College on Sun 2 Aug, London. 4 acts on the bill: Kelly Lee Owens, MPH (1), Peggy Gou and Prospa. Tech House and Electronica. Preview the line-up and save it on soundcheck.
+Peggy Gou on the Thames at Old Royal Naval College on Sun 2 Aug, London. 5 acts on the bill: Daisybelle, Kelly Lee Owens, MPH (1) and Peggy Gou and 1 more. Tech House and Electronica. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,6 +10,7 @@ Peggy Gou on the Thames at Old Royal Naval College on Sun 2 Aug, London. 4 acts 
 
 ## Line-up
 
+- Daisybelle
 - Kelly Lee Owens
 - MPH (1)
 - Peggy Gou

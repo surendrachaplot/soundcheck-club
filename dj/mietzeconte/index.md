@@ -1,8 +1,8 @@
 # Mietze Conte
 
-Mietze Conte is a House and Experimental artist with 5 upcoming club dates listed on soundcheck as of Wed, 29 Jul 2026, next at TBA - Paradies Garten Festival - Schloß Prugg 2, 2460 Gemeinde Bruck an der Leitha, Vienna on Fri, 31 Jul 2026.
+Mietze Conte is a House and Experimental artist with 8 upcoming club dates listed on soundcheck as of Thu, 30 Jul 2026, next at TBA - Paradies Garten Festival - Schloß Prugg 2, 2460 Gemeinde Bruck an der Leitha, Vienna on Fri, 31 Jul 2026.
 
-Mietze Conte is a house and experimental artist tracked on soundcheck, with 43 sets logged across Amsterdam, Barcelona, Berlin and Brisbane and 19 more. Often billed alongside 1tbsp, DJ Gigola and Baschoe. Next up: TBA - Paradies Garten Festival - Schloß Prugg 2, 2460 Gemeinde Bruck an der Leitha, Vienna on Fri 31 Jul.
+Mietze Conte is a house and experimental artist tracked on soundcheck, with 46 sets logged across Amsterdam, Barcelona, Berlin and Brisbane and 19 more. Often billed alongside 1tbsp, DJ Gigola and Baschoe. Next up: TBA - Paradies Garten Festival - Schloß Prugg 2, 2460 Gemeinde Bruck an der Leitha, Vienna on Fri 31 Jul.
 
 ## Upcoming shows
 
@@ -13,6 +13,9 @@ Mietze Conte is a house and experimental artist tracked on soundcheck, with 43 s
 | Sat, 8 Aug 2026 | RSO.BERLIN | Berlin |
 | Wed, 2 Sept 2026 | Bar Le Ritz PDB | Montreal |
 | Sat, 12 Sept 2026 | TBA | Washington DC |
+| Mon, 5 Oct 2026 | The Lansdowne | Sydney |
+| Thu, 8 Oct 2026 | Thornbury Theatre | Melbourne |
+| Sun, 11 Oct 2026 | Crowbar Brisbane | Brisbane |
 
 ## Recently played
 
@@ -29,4 +32,4 @@ Mietze Conte is a house and experimental artist tracked on soundcheck, with 43 s
 
 1tbsp, DJ Gigola, Baschoe
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/mietzeconte/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/mietzeconte/)*

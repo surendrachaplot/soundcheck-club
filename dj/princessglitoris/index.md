@@ -1,6 +1,6 @@
 # Princess Glitoris
 
-Princess Glitoris is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at Wigwam, Dublin on Sun, 2 Aug 2026.
+Princess Glitoris is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at Wigwam, Dublin on Sun, 2 Aug 2026.
 
 Princess Glitoris is a techno and house artist tracked on soundcheck, with 30 sets logged across Belfast and Dublin. Often billed alongside Divergence, HI-KRU and IndeniaL. Next up: Wigwam, Dublin on Sun 2 Aug.
 
@@ -25,4 +25,4 @@ Princess Glitoris is a techno and house artist tracked on soundcheck, with 30 se
 
 Divergence, HI-KRU, IndeniaL
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/princessglitoris/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/princessglitoris/)*

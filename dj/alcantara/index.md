@@ -1,14 +1,15 @@
 # Alcantara
 
-Alcantara is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at Jupiter Disco, New York City on Sat, 1 Aug 2026.
+Alcantara is a House and Disco artist with 2 upcoming club dates listed on soundcheck as of Thu, 30 Jul 2026, next at Jupiter Disco, New York City on Sat, 1 Aug 2026.
 
-Alcantara is a house and disco artist based in United States of America, tracked on soundcheck, with 22 sets logged across Detroit and Newyorkcity. Often billed alongside Jay Dalawa, LANSUH and Gabriel Etrata. Next up: Jupiter Disco, Newyorkcity on Sat 1 Aug.
+Alcantara is a house and disco artist based in United States of America, tracked on soundcheck, with 23 sets logged across Detroit and Newyorkcity. Often billed alongside Jay Dalawa, LANSUH and Gabriel Etrata. Next up: Jupiter Disco, Newyorkcity on Sat 1 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 1 Aug 2026 | Jupiter Disco | New York City |
+| Thu, 20 Aug 2026 | Dead Letter No. 9 | New York City |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ Alcantara is a house and disco artist based in United States of America, tracked
 
 Jay Dalawa, LANSUH, Gabriel Etrata
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/alcantara/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/alcantara/)*

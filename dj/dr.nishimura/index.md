@@ -1,6 +1,6 @@
 # Dr. Nishimura
 
-Dr. Nishimura is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at Mitsuki, Tokyo on Thu, 30 Jul 2026.
+Dr. Nishimura is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at Mitsuki, Tokyo on Thu, 30 Jul 2026.
 
 Dr. Nishimura is a techno and house artist based in Japan, tracked on soundcheck, with 33 sets logged across Kyoto, Osaka and Tokyo. Often billed alongside Compuma, Akie and Chanaz. Next up: Mitsuki, Tokyo on Thu 30 Jul.
 
@@ -25,4 +25,4 @@ Dr. Nishimura is a techno and house artist based in Japan, tracked on soundcheck
 
 Compuma, Akie, Chanaz
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/dr.nishimura/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/dr.nishimura/)*

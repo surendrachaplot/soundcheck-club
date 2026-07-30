@@ -1,8 +1,8 @@
 # RichBeat
 
-RichBeat is a Trance and Techno artist with 2 upcoming club dates listed on soundcheck as of Wed, 29 Jul 2026, next at Aahhh Rooftop, Munich on Sat, 15 Aug 2026.
+RichBeat is a Trance and Techno artist with 3 upcoming club dates listed on soundcheck as of Thu, 30 Jul 2026, next at Aahhh Rooftop, Munich on Sat, 15 Aug 2026.
 
-RichBeat is a trance and techno artist based in Germany, tracked on soundcheck, with 4 sets logged across Berlin and Munich. Often billed alongside Lisatrix, e.leptic and B.R.K.Ø.. Next up: Aahhh Rooftop, Munich on Sat 15 Aug.
+RichBeat is a trance and techno artist based in Germany, tracked on soundcheck, with 5 sets logged across Berlin and Munich. Often billed alongside Lisatrix, e.leptic and B.R.K.Ø.. Next up: Aahhh Rooftop, Munich on Sat 15 Aug.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ RichBeat is a trance and techno artist based in Germany, tracked on soundcheck, 
 | --- | --- | --- |
 | Sat, 15 Aug 2026 | Aahhh Rooftop | Munich |
 | Fri, 21 Aug 2026 | ://about blank | Berlin |
+| Tue, 25 Aug 2026 | Lokschuppen Berlin | Berlin |
 
 ## Recently played
 
@@ -20,4 +21,4 @@ RichBeat is a trance and techno artist based in Germany, tracked on soundcheck, 
 
 Lisatrix, e.leptic, B.R.K.Ø.
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/richbeat/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/richbeat/)*

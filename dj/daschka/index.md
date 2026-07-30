@@ -1,6 +1,6 @@
 # daschka
 
-daschka is a Gabber and Hardcore artist with 2 upcoming club dates listed on soundcheck as of Wed, 29 Jul 2026, next at Astra Kulturhaus, Berlin on Fri, 31 Jul 2026.
+daschka is a Gabber and Hardcore artist with 2 upcoming club dates listed on soundcheck as of Thu, 30 Jul 2026, next at Astra Kulturhaus, Berlin on Fri, 31 Jul 2026.
 
 daschka is a gabber and hardcore artist based in Germany, tracked on soundcheck, with 10 sets logged across Berlin. Often billed alongside Osiris (2), FLUCC and LØUS. Next up: Astra Kulturhaus, Berlin on Fri 31 Jul.
 
@@ -26,4 +26,4 @@ daschka is a gabber and hardcore artist based in Germany, tracked on soundcheck,
 
 Osiris (2), FLUCC, LØUS
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/daschka/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/daschka/)*

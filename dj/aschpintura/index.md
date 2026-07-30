@@ -1,6 +1,6 @@
 # Asch Pintura
 
-Asch Pintura is a House and Progressive House artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at HWK, London on Sat, 15 Aug 2026.
+Asch Pintura is a House and Progressive House artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at HWK, London on Sat, 15 Aug 2026.
 
 Asch Pintura is a house and progressive house artist based in United States of America, tracked on soundcheck, with 43 sets logged across Lisbon, London and Newyorkcity. Often billed alongside Carina Lawrence, Booka Shade and Guy J. Next up: HWK, London on Sat 15 Aug.
 
@@ -25,4 +25,4 @@ Asch Pintura is a house and progressive house artist based in United States of A
 
 Carina Lawrence, Booka Shade, Guy J
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/aschpintura/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/aschpintura/)*

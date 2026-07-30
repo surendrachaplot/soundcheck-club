@@ -1,13 +1,14 @@
 # JUSTDYL
 
-JUSTDYL is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at Wigwam, Dublin on Sat, 15 Aug 2026.
+JUSTDYL is a House and Tech House artist with 2 upcoming club dates listed on soundcheck as of Thu, 30 Jul 2026, next at Pawn Shop, Dublin on Thu, 30 Jul 2026.
 
-JUSTDYL is a house and tech house artist based in Ireland, tracked on soundcheck, with 31 sets logged across Dublin and Galway. Often billed alongside Oscide, Surka (1) and ACKERMAN. Next up: Wigwam, Dublin on Sat 15 Aug.
+JUSTDYL is a house and tech house artist based in Ireland, tracked on soundcheck, with 32 sets logged across Dublin and Galway. Often billed alongside Oscide, Surka (1) and ACKERMAN. Next up: Pawn Shop, Dublin on Thu 30 Jul.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Thu, 30 Jul 2026 | Pawn Shop | Dublin |
 | Sat, 15 Aug 2026 | Wigwam | Dublin |
 
 ## Recently played
@@ -25,4 +26,4 @@ JUSTDYL is a house and tech house artist based in Ireland, tracked on soundcheck
 
 Oscide, Surka (1), ACKERMAN
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/justdyl/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/justdyl/)*

@@ -1,6 +1,6 @@
 # Headrow
 
-Headrow is a House and Garage artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at Miloco Studios, London on Sat, 1 Aug 2026.
+Headrow is a House and Garage artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at Miloco Studios, London on Sat, 1 Aug 2026.
 
 Headrow is a house and garage artist based in United Kingdom, tracked on soundcheck, with 6 sets logged across Leeds and London. Often billed alongside Gem Precious, Jess Bays and Maur. Next up: Miloco Studios, London on Sat 1 Aug.
 
@@ -22,4 +22,4 @@ Headrow is a house and garage artist based in United Kingdom, tracked on soundch
 
 Gem Precious, Jess Bays, Maur
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/headrow/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/headrow/)*

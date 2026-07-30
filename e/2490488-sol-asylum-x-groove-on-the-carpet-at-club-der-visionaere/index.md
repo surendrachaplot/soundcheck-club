@@ -1,6 +1,6 @@
 # Sol Asylum X Groove On The Carpet at Club der Visionaere
 
-Sol Asylum X Groove On The Carpet at Club der Visionaere on Fri 7 Aug, Berlin. 7 acts on the bill: Jaggy, Josh Aaron, Julie Marghilano and rubi* and 3 more. House and Deep House. Preview the line-up and save it on soundcheck.
+Sol Asylum X Groove On The Carpet at Club der Visionaere on Fri 7 Aug, Berlin. 8 acts on the bill: Jaggy, Josh Aaron, Julie Marghilano and Karolina J and 4 more. House and Deep House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -13,6 +13,7 @@ Sol Asylum X Groove On The Carpet at Club der Visionaere on Fri 7 Aug, Berlin. 7
 - Jaggy
 - Josh Aaron
 - Julie Marghilano
+- Karolina J
 - rubi*
 - SID MEHANI
 - Titonton Duvanté

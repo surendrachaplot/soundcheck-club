@@ -1,6 +1,6 @@
 # Brent Tactic
 
-Brent Tactic is a Garage and Broken Beat artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at TBA - Location With Ticket, Denver on Sun, 2 Aug 2026.
+Brent Tactic is a Garage and Broken Beat artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at TBA - Location With Ticket, Denver on Sun, 2 Aug 2026.
 
 Brent Tactic is a garage and broken beat artist based in United States of America, tracked on soundcheck, with 8 sets logged across Denver and Newyorkcity. Often billed alongside Remniqe, Swami Sound and tallbrowndude. Next up: TBA - Location With Ticket, Denver on Sun 2 Aug.
 
@@ -24,4 +24,4 @@ Brent Tactic is a garage and broken beat artist based in United States of Americ
 
 Remniqe, Swami Sound, tallbrowndude
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/brenttactic/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/brenttactic/)*

@@ -1,6 +1,6 @@
 # Claudia León
 
-Claudia León is a House and Afro House artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at Lula Club, Madrid on Fri, 18 Sept 2026.
+Claudia León is a House and Afro House artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at Lula Club, Madrid on Fri, 18 Sept 2026.
 
 Claudia León is a house and afro house artist tracked on soundcheck, with 36 sets logged across Barcelona, Bucharest, Ibiza and Madrid and 1 more. Often billed alongside AARON SEVILLA, Pomboklap and DJ Holographic. Next up: Lula Club, Madrid on Fri 18 Sept.
 
@@ -25,4 +25,4 @@ Claudia León is a house and afro house artist tracked on soundcheck, with 36 se
 
 AARON SEVILLA, Pomboklap, DJ Holographic
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/claudialeon/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/claudialeon/)*

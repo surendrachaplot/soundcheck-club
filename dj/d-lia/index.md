@@ -1,6 +1,6 @@
 # D-LIA
 
-D-LIA is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at Redlight, Manchester on Thu, 30 Jul 2026.
+D-LIA is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at Redlight, Manchester on Thu, 30 Jul 2026.
 
 D-LIA is a house and disco artist based in United Kingdom, tracked on soundcheck, with 20 sets logged across Leeds and Manchester. Often billed alongside sez., HSTN and KABOCANA. Next up: Redlight, Manchester on Thu 30 Jul.
 
@@ -25,4 +25,4 @@ D-LIA is a house and disco artist based in United Kingdom, tracked on soundcheck
 
 sez., HSTN, KABOCANA
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/d-lia/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/d-lia/)*

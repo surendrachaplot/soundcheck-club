@@ -1,6 +1,6 @@
 # Dave75
 
-Dave75 is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at Hotel Europa, Cologne on Fri, 21 Aug 2026.
+Dave75 is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at Hotel Europa, Cologne on Fri, 21 Aug 2026.
 
 Dave75 is a techno and trance artist based in Germany, tracked on soundcheck, with 10 sets logged across Berlin, Cologne, Malta and Stuttgart. Often billed alongside ALIS., Alex Benz and BERLIN APPARELL. Next up: Hotel Europa, Cologne on Fri 21 Aug.
 
@@ -25,4 +25,4 @@ Dave75 is a techno and trance artist based in Germany, tracked on soundcheck, wi
 
 ALIS., Alex Benz, BERLIN APPARELL
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/dave75/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/dave75/)*

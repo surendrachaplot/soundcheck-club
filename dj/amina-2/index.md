@@ -1,6 +1,6 @@
 # amina (2)
 
-amina (2) is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at White Space Lab, Tokyo on Fri, 7 Aug 2026.
+amina (2) is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at White Space Lab, Tokyo on Fri, 7 Aug 2026.
 
 amina (2) is a house and disco artist based in Japan, tracked on soundcheck, with 6 sets logged across Tokyo. Often billed alongside DJ ISE, Fourth Precinct and Kobashi Mitsuki. Next up: White Space Lab, Tokyo on Fri 7 Aug.
 
@@ -22,4 +22,4 @@ amina (2) is a house and disco artist based in Japan, tracked on soundcheck, wit
 
 DJ ISE, Fourth Precinct, Kobashi Mitsuki
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/amina-2/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/amina-2/)*

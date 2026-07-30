@@ -1,6 +1,6 @@
 # STARCH
 
-STARCH is a Jungle and Drum & Bass artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at Dalston Den, London on Fri, 31 Jul 2026.
+STARCH is a Jungle and Drum & Bass artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at Dalston Den, London on Fri, 31 Jul 2026.
 
 STARCH is a jungle and drum & bass artist based in United Kingdom, tracked on soundcheck, with 7 sets logged across London. Often billed alongside A.N.T, DJ Chef and Abby Daze. Next up: Dalston Den, London on Fri 31 Jul.
 
@@ -23,4 +23,4 @@ STARCH is a jungle and drum & bass artist based in United Kingdom, tracked on so
 
 A.N.T, DJ Chef, Abby Daze
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/starch/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/starch/)*

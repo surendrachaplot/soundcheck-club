@@ -1,6 +1,6 @@
 # Capt'n
 
-Capt'n is a Downtempo and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at Supermarket, Zurich on Sat, 1 Aug 2026.
+Capt'n is a Downtempo and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at Supermarket, Zurich on Sat, 1 Aug 2026.
 
 Capt'n is a downtempo and techno artist based in Switzerland, tracked on soundcheck, with 12 sets logged across Berlin and Zurich. Often billed alongside And Hazel, De La Maso and ARWIN AZIZ. Next up: Supermarket, Zurich on Sat 1 Aug.
 
@@ -25,4 +25,4 @@ Capt'n is a downtempo and techno artist based in Switzerland, tracked on soundch
 
 And Hazel, De La Maso, ARWIN AZIZ
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/capt-n/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/capt-n/)*

@@ -1,6 +1,6 @@
 # Kontinum
 
-Kontinum is a Techno and Ambient artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at ://about blank, Berlin on Sat, 8 Aug 2026.
+Kontinum is a Techno and Ambient artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at ://about blank, Berlin on Sat, 8 Aug 2026.
 
 Kontinum is a techno and ambient artist based in Germany, tracked on soundcheck, with 21 sets logged across Barcelona, Berlin, Budapest and Leipzig and 3 more. Often billed alongside THNTS, Reka Zalan and V:SONNTAG. Next up: ://about blank, Berlin on Sat 8 Aug.
 
@@ -25,4 +25,4 @@ Kontinum is a techno and ambient artist based in Germany, tracked on soundcheck,
 
 THNTS, Reka Zalan, V:SONNTAG
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/kontinum/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/kontinum/)*

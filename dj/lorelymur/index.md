@@ -1,13 +1,14 @@
 # Lorely Mur
 
-Lorely Mur is a Techno and Industrial artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at TBA - Los Angeles, Los Angeles on Sun, 6 Sept 2026.
+Lorely Mur is a Techno and Industrial artist with 2 upcoming club dates listed on soundcheck as of Thu, 30 Jul 2026, next at TBA, Denver on Sat, 1 Aug 2026.
 
-Lorely Mur is a techno and industrial artist tracked on soundcheck, with 32 sets logged across Boston, Chicago, Denver and Detroit and 2 more. Often billed alongside Alex Casillas, Alex Wilcox and Annika Wolfe. Next up: TBA - Los Angeles, Losangeles on Sun 6 Sept.
+Lorely Mur is a techno and industrial artist tracked on soundcheck, with 33 sets logged across Boston, Chicago, Denver and Detroit and 2 more. Often billed alongside Alex Casillas, Alex Wilcox and Annika Wolfe. Next up: TBA, Denver on Sat 1 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 1 Aug 2026 | TBA | Denver |
 | Sun, 6 Sept 2026 | TBA - Los Angeles | Los Angeles |
 
 ## Recently played
@@ -25,4 +26,4 @@ Lorely Mur is a techno and industrial artist tracked on soundcheck, with 32 sets
 
 Alex Casillas, Alex Wilcox, Annika Wolfe
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/lorelymur/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/lorelymur/)*

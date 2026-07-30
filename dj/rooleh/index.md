@@ -1,6 +1,6 @@
 # Rooléh
 
-Rooléh is a House and Tech House artist with 4 upcoming club dates listed on soundcheck as of Wed, 29 Jul 2026, next at West Street, Glasgow on Sat, 15 Aug 2026.
+Rooléh is a House and Tech House artist with 4 upcoming club dates listed on soundcheck as of Thu, 30 Jul 2026, next at West Street, Glasgow on Sat, 15 Aug 2026.
 
 Rooléh is a house and tech house artist tracked on soundcheck, with 78 sets logged across Amsterdam, Barcelona, Berlin and Glasgow and 14 more. Often billed alongside Easttown, Benny Rodrigues and Joëlla Jackson. Next up: West Street, Glasgow on Sat 15 Aug.
 
@@ -28,4 +28,4 @@ Rooléh is a house and tech house artist tracked on soundcheck, with 78 sets log
 
 Easttown, Benny Rodrigues, Joëlla Jackson
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/rooleh/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/rooleh/)*

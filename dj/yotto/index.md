@@ -1,6 +1,6 @@
 # Yotto
 
-Yotto is a Progressive House and Techno artist with 6 upcoming club dates listed on soundcheck as of Wed, 29 Jul 2026, next at BK Backyard, New York City on Sat, 1 Aug 2026.
+Yotto is a Progressive House and Techno artist with 6 upcoming club dates listed on soundcheck as of Thu, 30 Jul 2026, next at BK Backyard, New York City on Sat, 1 Aug 2026.
 
 Yotto is a progressive house and techno artist tracked on soundcheck, with 99 sets logged across Amsterdam, Austin, Barcelona and Berlin and 32 more. Often billed alongside Nicky Elisabeth, Cristoph and Qrion. Next up: BK Backyard, Newyorkcity on Sat 1 Aug.
 
@@ -30,4 +30,4 @@ Yotto is a progressive house and techno artist tracked on soundcheck, with 99 se
 
 Nicky Elisabeth, Cristoph, Qrion
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/yotto/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/yotto/)*

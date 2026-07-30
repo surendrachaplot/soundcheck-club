@@ -1,13 +1,14 @@
 # dj s1s0
 
-dj s1s0 is a Drum & Bass and Hardcore artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at TBA - CENNET BAHÇESİ BURGAZADA, Istanbul on Thu, 6 Aug 2026.
+dj s1s0 is a Drum & Bass and Hardcore artist with 2 upcoming club dates listed on soundcheck as of Thu, 30 Jul 2026, next at Şahika, Istanbul on Thu, 30 Jul 2026.
 
-dj s1s0 is a drum & bass and hardcore artist based in Turkey, tracked on soundcheck, with 8 sets logged across Istanbul. Often billed alongside BERENALP, ALİN and Ezkiel. Next up: TBA - CENNET BAHÇESİ BURGAZADA, Istanbul on Thu 6 Aug.
+dj s1s0 is a drum & bass and hardcore artist based in Turkey, tracked on soundcheck, with 9 sets logged across Istanbul. Often billed alongside BERENALP, ALİN and Ezkiel. Next up: Şahika, Istanbul on Thu 30 Jul.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Thu, 30 Jul 2026 | Şahika | Istanbul |
 | Thu, 6 Aug 2026 | TBA - CENNET BAHÇESİ BURGAZADA | Istanbul |
 
 ## Recently played
@@ -24,4 +25,4 @@ dj s1s0 is a drum & bass and hardcore artist based in Turkey, tracked on soundch
 
 BERENALP, ALİN, Ezkiel
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/djs1s0/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/djs1s0/)*

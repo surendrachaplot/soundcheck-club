@@ -1,6 +1,6 @@
 # Subcultures
 
-Subcultures is a Electro and House artist with 2 upcoming club dates listed on soundcheck as of Wed, 29 Jul 2026, next at Jade, New York City on Thu, 30 Jul 2026.
+Subcultures is a Electro and House artist with 2 upcoming club dates listed on soundcheck as of Thu, 30 Jul 2026, next at Jade, New York City on Thu, 30 Jul 2026.
 
 Subcultures is an electro and house artist tracked on soundcheck, with 35 sets logged across Newyorkcity. Often billed alongside Brutal Twink, SWIMMIE and Melona. Next up: Jade, Newyorkcity on Thu 30 Jul.
 
@@ -26,4 +26,4 @@ Subcultures is an electro and house artist tracked on soundcheck, with 35 sets l
 
 Brutal Twink, SWIMMIE, Melona
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/subcultures/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/subcultures/)*

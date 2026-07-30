@@ -1,8 +1,8 @@
 # Kim Anh
 
-Kim Anh is a House and Disco artist with 3 upcoming club dates listed on soundcheck as of Wed, 29 Jul 2026, next at BASEMENT, New York City on Sat, 1 Aug 2026.
+Kim Anh is a House and Disco artist with 4 upcoming club dates listed on soundcheck as of Thu, 30 Jul 2026, next at BASEMENT, New York City on Sat, 1 Aug 2026.
 
-Kim Anh is a house and disco artist based in United States of America, tracked on soundcheck, with 114 sets logged across Barcelona, Berlin, Detroit and Losangeles and 6 more. Often billed alongside Eli Escobar, The Carry Nation and Michael Magnan. Next up: BASEMENT, Newyorkcity on Sat 1 Aug.
+Kim Anh is a house and disco artist based in United States of America, tracked on soundcheck, with 115 sets logged across Barcelona, Berlin, Detroit and Losangeles and 6 more. Often billed alongside Eli Escobar, The Carry Nation and Michael Magnan. Next up: BASEMENT, Newyorkcity on Sat 1 Aug.
 
 ## Upcoming shows
 
@@ -11,6 +11,7 @@ Kim Anh is a house and disco artist based in United States of America, tracked o
 | Sat, 1 Aug 2026 | BASEMENT | New York City |
 | Sat, 8 Aug 2026 | Le Bain | New York City |
 | Sun, 16 Aug 2026 | Signal | New York City |
+| Fri, 25 Sept 2026 | Knockdown Center | New York City |
 
 ## Recently played
 
@@ -27,4 +28,4 @@ Kim Anh is a house and disco artist based in United States of America, tracked o
 
 Eli Escobar, The Carry Nation, Michael Magnan
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/kimanh/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/kimanh/)*

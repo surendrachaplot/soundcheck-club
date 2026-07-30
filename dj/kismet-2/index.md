@@ -1,6 +1,6 @@
 # kismet
 
-kismet is a Afro House and Tech House artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at Ministry Of Sound, London on Sat, 15 Aug 2026.
+kismet is a Afro House and Tech House artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at Ministry Of Sound, London on Sat, 15 Aug 2026.
 
 kismet is an afro house and tech house artist tracked on soundcheck, with 6 sets logged across London, Mexicocity and Newyorkcity. Often billed alongside Beezo, DJ S (UK) and Pioneer. Next up: Ministry Of Sound, London on Sat 15 Aug.
 
@@ -22,4 +22,4 @@ kismet is an afro house and tech house artist tracked on soundcheck, with 6 sets
 
 Beezo, DJ S (UK), Pioneer
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/kismet-2/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/kismet-2/)*

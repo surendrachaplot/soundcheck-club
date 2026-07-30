@@ -1,6 +1,6 @@
 # Strategy
 
-Strategy is a Drum & Bass and Bass artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at The Prospect Building, Bristol on Sat, 8 Aug 2026.
+Strategy is a Drum & Bass and Bass artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at The Prospect Building, Bristol on Sat, 8 Aug 2026.
 
 Strategy is a drum & bass and bass artist tracked on soundcheck, with 48 sets logged across Bristol, Chicago, Leeds and London and 9 more. Often billed alongside Rich Reason, Chimpo and Cesco. Next up: The Prospect Building, Bristol on Sat 8 Aug.
 
@@ -25,4 +25,4 @@ Strategy is a drum & bass and bass artist tracked on soundcheck, with 48 sets lo
 
 Rich Reason, Chimpo, Cesco
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/strategy/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/strategy/)*

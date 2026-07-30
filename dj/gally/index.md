@@ -1,6 +1,6 @@
 # GALLY
 
-GALLY is a House and Tech House artist with 2 upcoming club dates listed on soundcheck as of Wed, 29 Jul 2026, next at Cabaret Voltaire, Edinburgh on Fri, 31 Jul 2026.
+GALLY is a House and Tech House artist with 2 upcoming club dates listed on soundcheck as of Thu, 30 Jul 2026, next at Cabaret Voltaire, Edinburgh on Fri, 31 Jul 2026.
 
 GALLY is a house and tech house artist based in United Kingdom, tracked on soundcheck, with 6 sets logged across Edinburgh and Leeds. Often billed alongside Cam Foster, Dean Campbell and EASTBOUND (2). Next up: Cabaret Voltaire, Edinburgh on Fri 31 Jul.
 
@@ -22,4 +22,4 @@ GALLY is a house and tech house artist based in United Kingdom, tracked on sound
 
 Cam Foster, Dean Campbell, EASTBOUND (2)
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/gally/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/gally/)*

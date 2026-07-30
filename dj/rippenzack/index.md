@@ -1,6 +1,6 @@
 # rippenzack
 
-rippenzack is a Techno and Club artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at Val’s Lesbian Bar, Philadelphia on Thu, 30 Jul 2026.
+rippenzack is a Techno and Club artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at Val’s Lesbian Bar, Philadelphia on Thu, 30 Jul 2026.
 
 rippenzack is a techno and club artist based in United States of America, tracked on soundcheck, with 21 sets logged across Philadelphia. Often billed alongside Sambee, human plushie and low iron. Next up: Val’s Lesbian Bar, Philadelphia on Thu 30 Jul.
 
@@ -25,4 +25,4 @@ rippenzack is a techno and club artist based in United States of America, tracke
 
 Sambee, human plushie, low iron
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/rippenzack/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/rippenzack/)*

@@ -1,6 +1,6 @@
 # slatergroves
 
-slatergroves is a Techno and Garage artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at Standard Time, Toronto on Thu, 30 Jul 2026.
+slatergroves is a Techno and Garage artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at Standard Time, Toronto on Thu, 30 Jul 2026.
 
 slatergroves is a techno and garage artist based in Canada, tracked on soundcheck, with 3 sets logged across Toronto. Often billed alongside 999ADJ, Chabalala and DANTE (CA). Next up: Standard Time, Toronto on Thu 30 Jul.
 
@@ -19,4 +19,4 @@ slatergroves is a techno and garage artist based in Canada, tracked on soundchec
 
 999ADJ, Chabalala, DANTE (CA)
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/slatergroves/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/slatergroves/)*

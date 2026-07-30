@@ -1,14 +1,15 @@
 # Hypnotic Black Magic
 
-Hypnotic Black Magic is a Techno and Ambient artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at Tresor / Globus, Berlin on Sat, 1 Aug 2026.
+Hypnotic Black Magic is a Techno and Ambient artist with 2 upcoming club dates listed on soundcheck as of Thu, 30 Jul 2026, next at Tresor / Globus, Berlin on Sat, 1 Aug 2026.
 
-Hypnotic Black Magic is a techno and ambient artist tracked on soundcheck, with 110 sets logged across Amsterdam, Athens, Bali and Bangkok and 20 more. Often billed alongside Luis FMR, Andrea Cossu and Lateral Movement. Next up: Tresor / Globus, Berlin on Sat 1 Aug.
+Hypnotic Black Magic is a techno and ambient artist tracked on soundcheck, with 111 sets logged across Amsterdam, Athens, Bali and Bangkok and 20 more. Often billed alongside Luis FMR, Andrea Cossu and Lateral Movement. Next up: Tresor / Globus, Berlin on Sat 1 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 1 Aug 2026 | Tresor / Globus | Berlin |
+| Fri, 14 Aug 2026 | 5A | Lisbon |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ Hypnotic Black Magic is a techno and ambient artist tracked on soundcheck, with 
 
 Luis FMR, Andrea Cossu, Lateral Movement
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/hypnoticblackmagic/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/hypnoticblackmagic/)*

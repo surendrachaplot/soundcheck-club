@@ -1,6 +1,6 @@
 # Esposito
 
-Esposito is a electronic artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at Berghain | Panorama Bar | Säule, Berlin on Fri, 21 Aug 2026.
+Esposito is a electronic artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at Berghain | Panorama Bar | Säule, Berlin on Fri, 21 Aug 2026.
 
 Esposito is an electronic artist based in Germany, tracked on soundcheck, with 19 sets logged across Berlin and Munich. Often billed alongside Darwin, Efdemin and Alinka. Next up: Berghain | Panorama Bar | Säule, Berlin on Fri 21 Aug.
 
@@ -25,4 +25,4 @@ Esposito is an electronic artist based in Germany, tracked on soundcheck, with 1
 
 Darwin, Efdemin, Alinka
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/esposito/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/esposito/)*

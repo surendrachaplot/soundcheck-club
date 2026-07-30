@@ -1,6 +1,6 @@
 # Alin
 
-Alin is a Minimal and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at Jolene, Copenhagen on Fri, 31 Jul 2026.
+Alin is a Minimal and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at Jolene, Copenhagen on Fri, 31 Jul 2026.
 
 Alin is a minimal and techno artist based in Denmark, tracked on soundcheck, with 9 sets logged across Copenhagen and Istanbul. Often billed alongside Ricq, Lentza and Thodén. Next up: Jolene, Copenhagen on Fri 31 Jul.
 
@@ -25,4 +25,4 @@ Alin is a minimal and techno artist based in Denmark, tracked on soundcheck, wit
 
 Ricq, Lentza, Thodén
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/alin/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/alin/)*

@@ -1,6 +1,6 @@
 # Paul Nickerson
 
-Paul Nickerson is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at Locust Grove, New York City on Fri, 31 Jul 2026.
+Paul Nickerson is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at Locust Grove, New York City on Fri, 31 Jul 2026.
 
 Paul Nickerson is a house and disco artist based in United States of America, tracked on soundcheck, with 23 sets logged across Newyorkcity and Philadelphia. Often billed alongside Slow To Speak, Jonny Romero and Francis Harris. Next up: Locust Grove, Newyorkcity on Fri 31 Jul.
 
@@ -25,4 +25,4 @@ Paul Nickerson is a house and disco artist based in United States of America, tr
 
 Slow To Speak, Jonny Romero, Francis Harris
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/paulnickerson/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/paulnickerson/)*

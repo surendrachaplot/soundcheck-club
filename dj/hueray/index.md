@@ -1,6 +1,6 @@
 # Hue Ray
 
-Hue Ray is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at Forestlimit, Tokyo on Fri, 31 Jul 2026.
+Hue Ray is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at Forestlimit, Tokyo on Fri, 31 Jul 2026.
 
 Hue Ray is a house and techno artist tracked on soundcheck, with 64 sets logged across Kyoto, Osaka and Tokyo. Often billed alongside Vís (1), arow and E.O.U. Next up: Forestlimit, Tokyo on Fri 31 Jul.
 
@@ -25,4 +25,4 @@ Hue Ray is a house and techno artist tracked on soundcheck, with 64 sets logged 
 
 Vís (1), arow, E.O.U
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/hueray/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/hueray/)*

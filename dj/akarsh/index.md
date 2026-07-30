@@ -1,6 +1,6 @@
 # Akarsh
 
-Akarsh is a House and Minimal artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at Paraiso Estereo, Miami on Sat, 8 Aug 2026.
+Akarsh is a House and Minimal artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at Paraiso Estereo, Miami on Sat, 8 Aug 2026.
 
 Akarsh is a house and minimal artist based in United States of America, tracked on soundcheck, with 7 sets logged across Miami, Newyorkcity and Tokyo. Often billed alongside AGELESS, Adrian Cardoso and Alex Pastor. Next up: Paraiso Estereo, Miami on Sat 8 Aug.
 
@@ -23,4 +23,4 @@ Akarsh is a house and minimal artist based in United States of America, tracked 
 
 AGELESS, Adrian Cardoso, Alex Pastor
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/akarsh/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/akarsh/)*

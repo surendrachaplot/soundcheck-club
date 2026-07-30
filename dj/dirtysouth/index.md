@@ -1,6 +1,6 @@
 # Dirty South
 
-Dirty South is a House and Progressive House artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at Revolver Upstairs, Melbourne on Fri, 31 Jul 2026.
+Dirty South is a House and Progressive House artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at Revolver Upstairs, Melbourne on Fri, 31 Jul 2026.
 
 Dirty South is a house and progressive house artist based in Australia, tracked on soundcheck, with 21 sets logged across Brisbane, Losangeles, Melbourne and Miami and 6 more. Often billed alongside Alan Braxe, DJ F16 Falcon and DJ HMC. Next up: Revolver Upstairs, Melbourne on Fri 31 Jul.
 
@@ -25,4 +25,4 @@ Dirty South is a house and progressive house artist based in Australia, tracked 
 
 Alan Braxe, DJ F16 Falcon, DJ HMC
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/dirtysouth/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/dirtysouth/)*

@@ -1,6 +1,6 @@
 # Amarji King
 
-Amarji King is a Club and Techno artist with 3 upcoming club dates listed on soundcheck as of Wed, 29 Jul 2026, next at The Bush Dyke Bar, New York City on Fri, 31 Jul 2026.
+Amarji King is a Club and Techno artist with 3 upcoming club dates listed on soundcheck as of Thu, 30 Jul 2026, next at The Bush Dyke Bar, New York City on Fri, 31 Jul 2026.
 
 Amarji King is a club and techno artist tracked on soundcheck, with 43 sets logged across Austin, Chicago, Detroit and Houston and 6 more. Often billed alongside HYPERFEMME, BLAIZE and IDKRYAN. Next up: The Bush Dyke Bar, Newyorkcity on Fri 31 Jul.
 
@@ -27,4 +27,4 @@ Amarji King is a club and techno artist tracked on soundcheck, with 43 sets logg
 
 HYPERFEMME, BLAIZE, IDKRYAN
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/amarjiking/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/amarjiking/)*

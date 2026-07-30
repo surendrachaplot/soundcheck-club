@@ -1,6 +1,6 @@
 # Eda
 
-Eda is a Experimental and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at ZUBAR, Tokyo on Fri, 7 Aug 2026.
+Eda is a Experimental and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at ZUBAR, Tokyo on Fri, 7 Aug 2026.
 
 Eda is an experimental and techno artist based in France, tracked on soundcheck, with 20 sets logged across Paris, Sandiego, Sanfrancisco and Tokyo. Often billed alongside TOSHIHISA HIRANO, ALKMST and Adam Rose. Next up: ZUBAR, Tokyo on Fri 7 Aug.
 
@@ -25,4 +25,4 @@ Eda is an experimental and techno artist based in France, tracked on soundcheck,
 
 TOSHIHISA HIRANO, ALKMST, Adam Rose
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/eda/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/eda/)*

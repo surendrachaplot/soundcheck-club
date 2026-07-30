@@ -1,6 +1,6 @@
 # Gee Moore
 
-Gee Moore is a Progressive House and Tech House artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at Patterns, Brighton on Sat, 8 Aug 2026.
+Gee Moore is a Progressive House and Tech House artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at Patterns, Brighton on Sat, 8 Aug 2026.
 
 Gee Moore is a progressive house and tech house artist based in United Kingdom, tracked on soundcheck, with 2 sets logged across Brighton and London. Often billed alongside Al Bradley, DJ Pippi and Dave Gallier. Next up: Patterns, Brighton on Sat 8 Aug.
 
@@ -18,4 +18,4 @@ Gee Moore is a progressive house and tech house artist based in United Kingdom, 
 
 Al Bradley, DJ Pippi, Dave Gallier
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/geemoore/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/geemoore/)*

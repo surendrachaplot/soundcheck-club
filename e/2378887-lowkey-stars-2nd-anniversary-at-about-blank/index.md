@@ -1,6 +1,6 @@
 # ★ LOWKEY STARS ☆ 2ND ANNIVERSARY at ://about blank
 
-★ LOWKEY STARS ☆ 2ND ANNIVERSARY at ://about blank on Fri 21 Aug, Berlin. 17 acts on the bill: Bélavie, BIJI ON DECKS, BOOTHBUNNY and Buday and 13 more. Trance and Techno. Preview the line-up and save it on soundcheck.
+★ LOWKEY STARS ☆ 2ND ANNIVERSARY at ://about blank on Fri 21 Aug, Berlin. 19 acts on the bill: Bélavie, BIJI ON DECKS, BOOTHBUNNY and Buday and 15 more. Trance and Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -19,12 +19,14 @@
 - fU.impact
 - Glumo
 - Karolanne
+- Kolja.Kebab
 - Levandream
 - Lisatrix
 - MARRED
 - Mindframe
 - multivitaminmarie
 - RichBeat
+- Røsenwasser
 - SOLID (2)
 - TONITON
 

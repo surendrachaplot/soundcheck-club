@@ -1,6 +1,6 @@
 # La Station - Gare des Mines
 
-La Station - Gare des Mines is a music venue in Paris with 12 upcoming nights listed on soundcheck as of Wed, 29 Jul 2026; the next is "Avant-Garce : Skyblog Legacy <2 edition RPZ" on Fri, 31 Jul 2026.
+La Station - Gare des Mines is a music venue in Paris with 12 upcoming nights listed on soundcheck as of Thu, 30 Jul 2026; the next is "Avant-Garce : Skyblog Legacy <2 edition RPZ" on Fri, 31 Jul 2026.
 
 La Station - Gare des Mines is a music venue in Paris listed on soundcheck. 12 upcoming nights, with line-ups including Andy4000, Camion Bazar, CEM and cfds and 2 more. Browse upcoming dates, start times and who's playing. 29 avenue de la Porte d’Aubervilliers Paris.
 
@@ -8,7 +8,7 @@ La Station - Gare des Mines is a music venue in Paris listed on soundcheck. 12 u
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Fri, 31 Jul 2026 | Avant-Garce : Skyblog Legacy <2 edition RPZ | Chinnamasta, Crustasex, Imsobaby |
+| Fri, 31 Jul 2026 | Avant-Garce : Skyblog Legacy <2 edition RPZ | Chinnamasta, Crustasex, Eze k, Imsobaby |
 | Sat, 1 Aug 2026 | OUTREBLEU  | Kohra, SOLARYTHM, Softi |
 | Fri, 7 Aug 2026 | Herrensauna × FIST | CEM, DJ Clone, MCMLXXXV, PEPIITA, Word of Command |
 | Sat, 8 Aug 2026 | DJAOULI ENT x NYEGE NYEGE A PARIS | Andy4000, Hibotep |
@@ -23,4 +23,4 @@ La Station - Gare des Mines is a music venue in Paris listed on soundcheck. 12 u
 
 29 avenue de la Porte d’Aubervilliers Paris, Paris
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/paris/club/la-station-gare-des-mines/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/paris/club/la-station-gare-des-mines/)*

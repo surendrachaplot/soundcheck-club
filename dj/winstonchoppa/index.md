@@ -1,6 +1,6 @@
 # Winston Choppa
 
-Winston Choppa is a Trance and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at Humboldthain Club, Berlin on Fri, 31 Jul 2026.
+Winston Choppa is a Trance and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at Humboldthain Club, Berlin on Fri, 31 Jul 2026.
 
 Winston Choppa is a trance and techno artist based in Germany, tracked on soundcheck, with 4 sets logged across Berlin. Often billed alongside elvito, KERT (DE) and Alex Friday. Next up: Humboldthain Club, Berlin on Fri 31 Jul.
 
@@ -20,4 +20,4 @@ Winston Choppa is a trance and techno artist based in Germany, tracked on soundc
 
 elvito, KERT (DE), Alex Friday
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/winstonchoppa/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/winstonchoppa/)*

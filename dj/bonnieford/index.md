@@ -1,6 +1,6 @@
 # Bonnie Ford
 
-Bonnie Ford is a Techno and Downtempo artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at Jonny Knüppel, Berlin on Fri, 31 Jul 2026.
+Bonnie Ford is a Techno and Downtempo artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at Jonny Knüppel, Berlin on Fri, 31 Jul 2026.
 
 Bonnie Ford is a techno and downtempo artist based in Germany, tracked on soundcheck, with 43 sets logged across Basel, Berlin, Cologne and Hamburg and 3 more. Often billed alongside Leon Licht, Sin:port and Maurice Mino. Next up: Jonny Knüppel, Berlin on Fri 31 Jul.
 
@@ -25,4 +25,4 @@ Bonnie Ford is a techno and downtempo artist based in Germany, tracked on soundc
 
 Leon Licht, Sin:port, Maurice Mino
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/bonnieford/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/bonnieford/)*

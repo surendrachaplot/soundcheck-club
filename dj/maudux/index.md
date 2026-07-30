@@ -1,14 +1,15 @@
 # Maudux
 
-Maudux is a Techno and Trance artist with 3 upcoming club dates listed on soundcheck as of Wed, 29 Jul 2026, next at OST, Berlin on Fri, 4 Sept 2026.
+Maudux is a Techno and Trance artist with 4 upcoming club dates listed on soundcheck as of Thu, 30 Jul 2026, next at OST, Berlin on Fri, 4 Sept 2026.
 
-Maudux is a techno and trance artist tracked on soundcheck, with 26 sets logged across Amsterdam, Berlin, Lyon and Nantes and 3 more. Often billed alongside 1luu, Bitschu Batschu and Lobsta B. Next up: OST, Berlin on Fri 4 Sept.
+Maudux is a techno and trance artist tracked on soundcheck, with 27 sets logged across Amsterdam, Berlin, Lyon and Nantes and 3 more. Often billed alongside 1luu, Bitschu Batschu and Blossmbae. Next up: OST, Berlin on Fri 4 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 4 Sept 2026 | OST | Berlin |
+| Fri, 9 Oct 2026 | CLUB OST & RENATE BERLIN | Berlin |
 | Sat, 10 Oct 2026 | OST | Berlin |
 | Thu, 22 Oct 2026 | GASHOUDER | Amsterdam |
 
@@ -25,6 +26,6 @@ Maudux is a techno and trance artist tracked on soundcheck, with 26 sets logged 
 
 ## Shares bills with
 
-1luu, Bitschu Batschu, Lobsta B
+1luu, Bitschu Batschu, Blossmbae
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/maudux/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/maudux/)*

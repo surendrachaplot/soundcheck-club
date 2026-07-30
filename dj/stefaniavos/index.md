@@ -1,6 +1,6 @@
 # Stefania Vos
 
-Stefania Vos is a Electronica and Experimental artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at TBA - Apiro, Marche IT, Milan on Thu, 30 Jul 2026.
+Stefania Vos is a Electronica and Experimental artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at TBA - Apiro, Marche IT, Milan on Thu, 30 Jul 2026.
 
 Stefania Vos is an electronica and experimental artist tracked on soundcheck, with 12 sets logged across Milan, Rome and Turin. Often billed alongside Francesco Skip, Sandra Mason and Al Paino. Next up: TBA - Apiro, Marche IT, Milan on Thu 30 Jul.
 
@@ -25,4 +25,4 @@ Stefania Vos is an electronica and experimental artist tracked on soundcheck, wi
 
 Francesco Skip, Sandra Mason, Al Paino
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/stefaniavos/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/stefaniavos/)*

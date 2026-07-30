@@ -1,6 +1,6 @@
 # Biondo
 
-Biondo is a Techno and Tech House artist with 2 upcoming club dates listed on soundcheck as of Wed, 29 Jul 2026, next at Spook Club, Valencia on Sat, 15 Aug 2026.
+Biondo is a Techno and Tech House artist with 2 upcoming club dates listed on soundcheck as of Thu, 30 Jul 2026, next at Spook Club, Valencia on Sat, 15 Aug 2026.
 
 Biondo is a techno and tech house artist tracked on soundcheck, with 15 sets logged across Ibiza and Valencia. Often billed alongside Dj badtrip, Lucía Gea and Ariezzz. Next up: Spook Club, Valencia on Sat 15 Aug.
 
@@ -26,4 +26,4 @@ Biondo is a techno and tech house artist tracked on soundcheck, with 15 sets log
 
 Dj badtrip, Lucía Gea, Ariezzz
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/biondo/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/biondo/)*

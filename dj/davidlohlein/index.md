@@ -1,6 +1,6 @@
 # David Löhlein
 
-David Löhlein is a Techno and Trance artist with 5 upcoming club dates listed on soundcheck as of Wed, 29 Jul 2026, next at Radius, Chicago on Thu, 30 Jul 2026.
+David Löhlein is a Techno and Trance artist with 5 upcoming club dates listed on soundcheck as of Thu, 30 Jul 2026, next at Radius, Chicago on Thu, 30 Jul 2026.
 
 David Löhlein is a techno and trance artist tracked on soundcheck, with 144 sets logged across Amsterdam, Antwerp, Barcelona and Basel and 44 more. Often billed alongside Raphael Dincsoy, Rove Ranger and AHURA. Next up: Radius, Chicago on Thu 30 Jul.
 
@@ -29,4 +29,4 @@ David Löhlein is a techno and trance artist tracked on soundcheck, with 144 set
 
 Raphael Dincsoy, Rove Ranger, AHURA
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/davidlohlein/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/davidlohlein/)*

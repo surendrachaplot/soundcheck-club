@@ -1,6 +1,6 @@
 # Pllek
 
-Pllek is a music venue in Amsterdam with 4 upcoming nights listed on soundcheck as of Wed, 29 Jul 2026; the next is "One Long Groove" on Thu, 22 Oct 2026.
+Pllek is a music venue in Amsterdam with 4 upcoming nights listed on soundcheck as of Thu, 30 Jul 2026; the next is "One Long Groove" on Thu, 22 Oct 2026.
 
 Pllek is a music venue in Amsterdam listed on soundcheck. 4 upcoming nights, with line-ups including AliA, CARISTA, CJ Bolland and Club Angel and 2 more. Browse upcoming dates, start times and who's playing. TT Neveritaweg 59.
 
@@ -17,4 +17,4 @@ Pllek is a music venue in Amsterdam listed on soundcheck. 4 upcoming nights, wit
 
 TT Neveritaweg 59, Amsterdam
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/pllek/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/pllek/)*

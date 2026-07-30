@@ -1,6 +1,6 @@
 # Klunkerkranich
 
-Klunkerkranich is a music venue in Berlin with 10 upcoming nights listed on soundcheck as of Wed, 29 Jul 2026; the next is "OKUJOU BEAT w. STEREOCITI, DJ ONIGIRI, OKUJOU BEAT*live" on Thu, 30 Jul 2026.
+Klunkerkranich is a music venue in Berlin with 10 upcoming nights listed on soundcheck as of Thu, 30 Jul 2026; the next is "OKUJOU BEAT w. STEREOCITI, DJ ONIGIRI, OKUJOU BEAT*live" on Thu, 30 Jul 2026.
 
 Klunkerkranich is a music venue in Berlin listed on soundcheck. 10 upcoming nights, with line-ups including ailin, Andeel, Ben Pavlidis and Cem Orlow and 2 more. Browse upcoming dates, start times and who's playing. Karl-Marx-Straße 66, 12043 Berlin.
 
@@ -23,4 +23,4 @@ Klunkerkranich is a music venue in Berlin listed on soundcheck. 10 upcoming nigh
 
 Karl-Marx-Straße 66, 12043 Berlin, Berlin
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/klunkerkranich/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/klunkerkranich/)*

@@ -1,6 +1,6 @@
 # DJ TRANCERIGHTS
 
-DJ TRANCERIGHTS is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at TBA - near Main St. Skytrain Station, Vancouver on Sun, 2 Aug 2026.
+DJ TRANCERIGHTS is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at TBA - near Main St. Skytrain Station, Vancouver on Sun, 2 Aug 2026.
 
 DJ TRANCERIGHTS is a techno and trance artist based in Zimbabwe, tracked on soundcheck, with 14 sets logged across Vancouver. Often billed alongside EtOH, GOTH-TROPIC and Bÿständer. Next up: TBA - near Main St. Skytrain Station, Vancouver on Sun 2 Aug.
 
@@ -25,4 +25,4 @@ DJ TRANCERIGHTS is a techno and trance artist based in Zimbabwe, tracked on soun
 
 EtOH, GOTH-TROPIC, Bÿständer
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/djtrancerights/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/djtrancerights/)*

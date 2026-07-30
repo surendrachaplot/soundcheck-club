@@ -1,6 +1,6 @@
 # El Cuervo Beach & Soul
 
-El Cuervo Beach & Soul is a music venue in Malaga with 1 upcoming night listed on soundcheck as of Wed, 29 Jul 2026; the next is "La Pachanga" on Sat, 1 Aug 2026.
+El Cuervo Beach & Soul is a music venue in Malaga with 1 upcoming night listed on soundcheck as of Thu, 30 Jul 2026; the next is "La Pachanga" on Sat, 1 Aug 2026.
 
 El Cuervo Beach & Soul is a music venue in Malaga listed on soundcheck. 1 upcoming night. Browse upcoming dates, start times and who's playing.
 
@@ -10,4 +10,4 @@ El Cuervo Beach & Soul is a music venue in Malaga listed on soundcheck. 1 upcomi
 | --- | --- | --- |
 | Sat, 1 Aug 2026 | La Pachanga |  |
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/malaga/club/el-cuervo-beach-soul/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/malaga/club/el-cuervo-beach-soul/)*

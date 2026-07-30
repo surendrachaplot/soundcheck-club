@@ -1,6 +1,6 @@
 # ki:ke
 
-ki:ke is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at TBA - Secret Open Air, Berlin on Sat, 1 Aug 2026.
+ki:ke is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at TBA - Secret Open Air, Berlin on Sat, 1 Aug 2026.
 
 ki:ke is a house and techno artist based in Spain, tracked on soundcheck, with 53 sets logged across Barcelona, Berlin, Ibiza and London. Often billed alongside GRETA (2), Demofather and Sergi (ES). Next up: TBA - Secret Open Air, Berlin on Sat 1 Aug.
 
@@ -25,4 +25,4 @@ ki:ke is a house and techno artist based in Spain, tracked on soundcheck, with 5
 
 GRETA (2), Demofather, Sergi (ES)
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/kike/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/kike/)*

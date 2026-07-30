@@ -1,6 +1,6 @@
 # AINES
 
-AINES is a Techno and Club artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at TBA - Rasquera, Terres de l'Ebre, provincia de Tarragona, Barcelona on Wed, 12 Aug 2026.
+AINES is a Techno and Club artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at TBA - Rasquera, Terres de l'Ebre, provincia de Tarragona, Barcelona on Wed, 12 Aug 2026.
 
 AINES is a techno and club artist based in Spain, tracked on soundcheck, with 26 sets logged across Barcelona, Glasgow and Madrid. Often billed alongside Lanav, Akazie and Baba Sy. Next up: TBA - Rasquera, Terres de l'Ebre, provincia de Tarragona, Barcelona on Wed 12 Aug.
 
@@ -25,4 +25,4 @@ AINES is a techno and club artist based in Spain, tracked on soundcheck, with 26
 
 Lanav, Akazie, Baba Sy
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/aines/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/aines/)*

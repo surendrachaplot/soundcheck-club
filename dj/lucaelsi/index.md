@@ -1,8 +1,8 @@
 # Luca Elsi
 
-Luca Elsi is a Italo Disco and Disco artist with 3 upcoming club dates listed on soundcheck as of Wed, 29 Jul 2026, next at Bike Jesus, Prague on Fri, 31 Jul 2026.
+Luca Elsi is a House and Techno artist with 4 upcoming club dates listed on soundcheck as of Thu, 30 Jul 2026, next at Bike Jesus, Prague on Fri, 31 Jul 2026.
 
-Luca Elsi is an italo disco and disco artist based in Italy, tracked on soundcheck, with 22 sets logged across Berlin, Milan and Prague. Often billed alongside ilbroccolovolante, Kidcat and Organza. Next up: Bike Jesus, Prague on Fri 31 Jul.
+Luca Elsi is a house and techno artist based in Italy, tracked on soundcheck, with 23 sets logged across Berlin, Milan and Prague. Often billed alongside Organza, ilbroccolovolante and Frinda di Lanco. Next up: Bike Jesus, Prague on Fri 31 Jul.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Luca Elsi is an italo disco and disco artist based in Italy, tracked on soundche
 | --- | --- | --- |
 | Fri, 31 Jul 2026 | Bike Jesus | Prague |
 | Sat, 22 Aug 2026 | OXI | Berlin |
+| Fri, 11 Sept 2026 | Renate | Berlin |
 | Fri, 9 Oct 2026 | OXI | Berlin |
 
 ## Recently played
@@ -25,6 +26,6 @@ Luca Elsi is an italo disco and disco artist based in Italy, tracked on soundche
 
 ## Shares bills with
 
-ilbroccolovolante, Kidcat, Organza
+Organza, ilbroccolovolante, Frinda di Lanco
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/lucaelsi/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/lucaelsi/)*

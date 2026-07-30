@@ -1,6 +1,6 @@
 # Stone Van Brooken
 
-Stone Van Brooken is a Techno and Progressive House artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at Village du Soir, Geneva on Fri, 31 Jul 2026.
+Stone Van Brooken is a Techno and Progressive House artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at Village du Soir, Geneva on Fri, 31 Jul 2026.
 
 Stone Van Brooken is a techno and progressive house artist based in France, tracked on soundcheck, with 29 sets logged across Amsterdam, Geneva, Ibiza and Istanbul and 7 more. Often billed alongside Black Box, Kristina Sky and Martin Mind. Next up: Village du Soir, Geneva on Fri 31 Jul.
 
@@ -25,4 +25,4 @@ Stone Van Brooken is a techno and progressive house artist based in France, trac
 
 Black Box, Kristina Sky, Martin Mind
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/stonevanbrooken/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/stonevanbrooken/)*

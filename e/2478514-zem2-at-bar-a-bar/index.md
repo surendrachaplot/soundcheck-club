@@ -1,6 +1,6 @@
 # ZEM2 at Bar A Bar
 
-ZEM2 at Bar A Bar on Fri 31 Jul, London. 3 acts on the bill: Luc *, OllyK and Tasman-UK. Techno. Preview the line-up and save it on soundcheck.
+ZEM2 at Bar A Bar on Fri 31 Jul, London. 5 acts on the bill: CAMIVINA, EVSKA, Luc * and OllyK and 1 more. Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,6 +10,8 @@ ZEM2 at Bar A Bar on Fri 31 Jul, London. 3 acts on the bill: Luc *, OllyK and Ta
 
 ## Line-up
 
+- CAMIVINA
+- EVSKA
 - Luc *
 - OllyK
 - Tasman-UK

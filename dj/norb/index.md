@@ -1,6 +1,6 @@
 # NorB
 
-NorB is a Progressive House and House artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at Very Small Club, Budapest on Thu, 30 Jul 2026.
+NorB is a Progressive House and House artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at Very Small Club, Budapest on Thu, 30 Jul 2026.
 
 NorB is a progressive house and house artist based in Argentina, tracked on soundcheck, with 4 sets logged across Budapest, London, Paris and Valencia. Often billed alongside Boytek, Bubble Radio and Daesmith. Next up: Very Small Club, Budapest on Thu 30 Jul.
 
@@ -20,4 +20,4 @@ NorB is a progressive house and house artist based in Argentina, tracked on soun
 
 Boytek, Bubble Radio, Daesmith
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/norb/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/norb/)*

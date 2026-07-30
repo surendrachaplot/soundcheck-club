@@ -1,13 +1,14 @@
 # jayjayGR
 
-jayjayGR is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at Athens Conservatoire - Ωδείον Αθηνών, Athens on Sun, 25 Oct 2026.
+jayjayGR is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Thu, 30 Jul 2026, next at Don't be a Dick, Athens on Sat, 1 Aug 2026.
 
-jayjayGR is a house and techno artist based in Greece, tracked on soundcheck, with 31 sets logged across Athens. Often billed alongside Stratos (2), Reign Of Time and SUNEATER.. Next up: Athens Conservatoire - Ωδείον Αθηνών, Athens on Sun 25 Oct.
+jayjayGR is a house and techno artist based in Greece, tracked on soundcheck, with 32 sets logged across Athens. Often billed alongside Stratos (2), Reign Of Time and SUNEATER.. Next up: Don't be a Dick, Athens on Sat 1 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 1 Aug 2026 | Don't be a Dick | Athens |
 | Sun, 25 Oct 2026 | Athens Conservatoire - Ωδείον Αθηνών | Athens |
 
 ## Recently played
@@ -25,4 +26,4 @@ jayjayGR is a house and techno artist based in Greece, tracked on soundcheck, wi
 
 Stratos (2), Reign Of Time, SUNEATER.
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/jayjaygr/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/jayjaygr/)*

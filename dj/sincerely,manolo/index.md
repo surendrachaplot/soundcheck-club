@@ -1,6 +1,6 @@
 # Sincerely, Manolo
 
-Sincerely, Manolo is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at Los Globos, Los Angeles on Sat, 1 Aug 2026.
+Sincerely, Manolo is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at Los Globos, Los Angeles on Sat, 1 Aug 2026.
 
 Sincerely, Manolo are a house and disco duo based in United States of America, tracked on soundcheck, with 9 sets logged across Losangeles. Often billed alongside Goddollars, Bianca Lexis and Discotheke DJs. Next up: Los Globos, Losangeles on Sat 1 Aug.
 
@@ -25,4 +25,4 @@ Sincerely, Manolo are a house and disco duo based in United States of America, t
 
 Goddollars, Bianca Lexis, Discotheke DJs
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/sincerely,manolo/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/sincerely,manolo/)*

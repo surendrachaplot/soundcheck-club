@@ -1,6 +1,6 @@
 # Danny P
 
-Danny P is a Electronica and Tech House artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at block., Dublin on Sat, 1 Aug 2026.
+Danny P is a Electronica and Tech House artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at block., Dublin on Sat, 1 Aug 2026.
 
 Danny P is an electronica and tech house artist based in United Kingdom, tracked on soundcheck, with 4 sets logged across Dublin, Ibiza, Liverpool and London. Often billed alongside Dennis Ferrer, Jayda G and Muzz Khan. Next up: block., Dublin on Sat 1 Aug.
 
@@ -20,4 +20,4 @@ Danny P is an electronica and tech house artist based in United Kingdom, tracked
 
 Dennis Ferrer, Jayda G, Muzz Khan
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/dannyp/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/dannyp/)*

@@ -1,6 +1,6 @@
 # Sean Dixon
 
-Sean Dixon is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at Golden Gate, Berlin on Fri, 31 Jul 2026.
+Sean Dixon is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at Golden Gate, Berlin on Fri, 31 Jul 2026.
 
 Sean Dixon is a house and techno artist based in Sweden, tracked on soundcheck, with 7 sets logged across Berlin and Stockholm. Often billed alongside Marten Attling, 31337 and DJ Alban. Next up: Golden Gate, Berlin on Fri 31 Jul.
 
@@ -23,4 +23,4 @@ Sean Dixon is a house and techno artist based in Sweden, tracked on soundcheck, 
 
 Marten Attling, 31337, DJ Alban
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/seandixon/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/seandixon/)*

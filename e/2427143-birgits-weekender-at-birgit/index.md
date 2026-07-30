@@ -1,6 +1,6 @@
 # Birgits WEEKENDER at Birgit
 
-Birgits WEEKENDER on Fri 31 Jul, Berlin. 6 acts on the bill: Agustina Aliaga, AWSM, MAMI (AU) and Omi on Acid and 2 more. Techno and House. Preview the line-up and save it on soundcheck.
+Birgits WEEKENDER on Fri 31 Jul, Berlin. 7 acts on the bill: Agustina Aliaga, Aivee, AWSM and MAMI (AU) and 3 more. Techno and House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -11,6 +11,7 @@ Birgits WEEKENDER on Fri 31 Jul, Berlin. 6 acts on the bill: Agustina Aliaga, AW
 ## Line-up
 
 - Agustina Aliaga
+- Aivee
 - AWSM
 - MAMI (AU)
 - Omi on Acid

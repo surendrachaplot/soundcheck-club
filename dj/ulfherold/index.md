@@ -1,6 +1,6 @@
 # Ulf Herold
 
-Ulf Herold is a Bass and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at Giri, Berlin on Thu, 6 Aug 2026.
+Ulf Herold is a Bass and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at Giri, Berlin on Thu, 6 Aug 2026.
 
 Ulf Herold is a bass and techno artist based in Germany, tracked on soundcheck, with 17 sets logged across Berlin and Nurnberg. Often billed alongside kawasaki2000, Anna Butter and Andriy K.. Next up: Giri, Berlin on Thu 6 Aug.
 
@@ -25,4 +25,4 @@ Ulf Herold is a bass and techno artist based in Germany, tracked on soundcheck, 
 
 kawasaki2000, Anna Butter, Andriy K.
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/ulfherold/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/ulfherold/)*

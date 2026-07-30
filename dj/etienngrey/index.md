@@ -1,6 +1,6 @@
 # Etienn Grey
 
-Etienn Grey is a Techno and EBM artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at Altenburg 1964, Prague on Fri, 14 Aug 2026.
+Etienn Grey is a Techno and EBM artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at Altenburg 1964, Prague on Fri, 14 Aug 2026.
 
 Etienn Grey is a techno and ebm artist based in Czech Republic, tracked on soundcheck, with 25 sets logged across Prague. Often billed alongside ishka machina, SJ Yellow and Takē. Next up: Altenburg 1964, Prague on Fri 14 Aug.
 
@@ -25,4 +25,4 @@ Etienn Grey is a techno and ebm artist based in Czech Republic, tracked on sound
 
 ishka machina, SJ Yellow, Takē
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/etienngrey/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/etienngrey/)*

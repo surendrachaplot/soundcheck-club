@@ -1,6 +1,6 @@
 # Malika
 
-Malika is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at Tresor / Globus, Berlin on Sat, 1 Aug 2026.
+Malika is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at Tresor / Globus, Berlin on Sat, 1 Aug 2026.
 
 Malika is a house and techno artist tracked on soundcheck, with 44 sets logged across Amsterdam, Barcelona, Berlin and Brussels and 12 more. Often billed alongside Hamish & Toby, Adi (CO) and Sibil (1). Next up: Tresor / Globus, Berlin on Sat 1 Aug.
 
@@ -25,4 +25,4 @@ Malika is a house and techno artist tracked on soundcheck, with 44 sets logged a
 
 Hamish & Toby, Adi (CO), Sibil (1)
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/malika/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/malika/)*

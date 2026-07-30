@@ -1,6 +1,6 @@
 # Michel Lauriola
 
-Michel Lauriola is a Techno and Hardcore artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at Under Club, Buenos Aires on Fri, 14 Aug 2026.
+Michel Lauriola is a Techno and Hardcore artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at Under Club, Buenos Aires on Fri, 14 Aug 2026.
 
 Michel Lauriola is a techno and hardcore artist based in Argentina, tracked on soundcheck, with 42 sets logged across Amsterdam, Barcelona, Bristol and Buenosaires and 3 more. Often billed alongside KØLPØS, Gonzalo Trejo and NANO (ARG). Next up: Under Club, Buenosaires on Fri 14 Aug.
 
@@ -25,4 +25,4 @@ Michel Lauriola is a techno and hardcore artist based in Argentina, tracked on s
 
 KØLPØS, Gonzalo Trejo, NANO (ARG)
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/michellauriola/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/michellauriola/)*

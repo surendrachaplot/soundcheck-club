@@ -1,6 +1,6 @@
 # EdiP
 
-EdiP is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at [UNVRS], Ibiza on Thu, 30 Jul 2026.
+EdiP is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at [UNVRS], Ibiza on Thu, 30 Jul 2026.
 
 EdiP is a house and tech house artist tracked on soundcheck, with 15 sets logged across Amsterdam, Athens, Bucharest and Ibiza and 2 more. Often billed alongside Mahony, Adam Sellouk and Bastian Bux. Next up: [UNVRS], Ibiza on Thu 30 Jul.
 
@@ -25,4 +25,4 @@ EdiP is a house and tech house artist tracked on soundcheck, with 15 sets logged
 
 Mahony, Adam Sellouk, Bastian Bux
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/edip/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/edip/)*

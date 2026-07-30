@@ -1,6 +1,6 @@
 # Jackies Lisboa House Music Festival 2026 - Chris Stussy & Desiree at Pavilhão Carlos Lopes
 
-Jackies Lisboa House Music Festival 2026 - Chris Stussy & Desiree at Pavilhão Carlos Lopes on Sat 17 Oct, Lisbon. 3 acts on the bill: Chris Stussy, DESIREE (RSA) and Piem. House. Preview the line-up and save it on soundcheck.
+Jackies Lisboa House Music Festival 2026 - Chris Stussy & Desiree at Pavilhão Carlos Lopes on Sat 17 Oct, Lisbon. 5 acts on the bill: Bridge (NY), Chris Stussy, Dan Shake and DESIREE (RSA) and 1 more. House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,7 +10,9 @@ Jackies Lisboa House Music Festival 2026 - Chris Stussy & Desiree at Pavilhão C
 
 ## Line-up
 
+- Bridge (NY)
 - Chris Stussy
+- Dan Shake
 - DESIREE (RSA)
 - Piem
 

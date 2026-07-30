@@ -1,6 +1,6 @@
 # Magda
 
-Magda is a Techno and House artist with 4 upcoming club dates listed on soundcheck as of Wed, 29 Jul 2026, next at Jolene Downtown Miami, Miami on Sat, 15 Aug 2026.
+Magda is a Techno and House artist with 4 upcoming club dates listed on soundcheck as of Thu, 30 Jul 2026, next at Jolene Downtown Miami, Miami on Sat, 15 Aug 2026.
 
 Magda is a techno and house artist tracked on soundcheck, with 155 sets logged across Amsterdam, Austin, Barcelona and Berlin and 46 more. Often billed alongside Mike Servito, Morgan and Tomas Station. Next up: Jolene Downtown Miami, Miami on Sat 15 Aug.
 
@@ -28,4 +28,4 @@ Magda is a techno and house artist tracked on soundcheck, with 155 sets logged a
 
 Mike Servito, Morgan, Tomas Station
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/magda/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/magda/)*

@@ -1,6 +1,6 @@
 # Barn Radio
 
-Barn Radio is a music venue in Portland with 1 upcoming night listed on soundcheck as of Wed, 29 Jul 2026; the next is "HYD" on Thu, 30 Jul 2026.
+Barn Radio is a music venue in Portland with 1 upcoming night listed on soundcheck as of Thu, 30 Jul 2026; the next is "HYD" on Thu, 30 Jul 2026.
 
 Barn Radio is a music venue in Portland listed on soundcheck. 1 upcoming night. Browse upcoming dates, start times and who's playing. 215 SW 1st Ave, Portland, OR 97204, United States.
 
@@ -14,4 +14,4 @@ Barn Radio is a music venue in Portland listed on soundcheck. 1 upcoming night. 
 
 215 SW 1st Ave, Portland, OR 97204, United States, Portland
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/portland/club/barn-radio/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/portland/club/barn-radio/)*

@@ -1,6 +1,6 @@
 # Avant-Garce : Skyblog Legacy <2 edition RPZ at La Station - Gare des Mines
 
-Avant-Garce : Skyblog Legacy <2 edition RPZ at La Station - Gare des Mines on Fri 31 Jul, Paris. 3 acts on the bill: Chinnamasta, Crustasex and Imsobaby. Preview the line-up and save it on soundcheck.
+Avant-Garce : Skyblog Legacy <2 edition RPZ at La Station - Gare des Mines on Fri 31 Jul, Paris. 4 acts on the bill: Chinnamasta, Crustasex, Eze k and Imsobaby. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -12,6 +12,7 @@ Avant-Garce : Skyblog Legacy <2 edition RPZ at La Station - Gare des Mines on Fr
 
 - Chinnamasta
 - Crustasex
+- Eze k
 - Imsobaby
 
 *Source: [soundcheck](https://soundcheck.club/e/2488707-avant-garce-skyblog-legacy-2-edition-rpz-at-la-station-gare/)*

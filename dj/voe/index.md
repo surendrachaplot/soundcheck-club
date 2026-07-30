@@ -1,6 +1,6 @@
 # VOE
 
-VOE is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at BLITZ, Munich on Fri, 31 Jul 2026.
+VOE is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at BLITZ, Munich on Fri, 31 Jul 2026.
 
 VOE is a house and tech house artist based in Germany, tracked on soundcheck, with 28 sets logged across Amsterdam, Leipzig and Munich. Often billed alongside DJoy, SOPHIE PSCHORR and CeeDeeGee. Next up: BLITZ, Munich on Fri 31 Jul.
 
@@ -25,4 +25,4 @@ VOE is a house and tech house artist based in Germany, tracked on soundcheck, wi
 
 DJoy, SOPHIE PSCHORR, CeeDeeGee
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/voe/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/voe/)*

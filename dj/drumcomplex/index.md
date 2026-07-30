@@ -1,6 +1,6 @@
 # Drumcomplex
 
-Drumcomplex is a Techno and Tech House artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at Odonien, Cologne on Fri, 25 Sept 2026.
+Drumcomplex is a Techno and Tech House artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at Odonien, Cologne on Fri, 25 Sept 2026.
 
 Drumcomplex is a techno and tech house artist based in Germany, tracked on soundcheck, with 18 sets logged across Amsterdam, Bangkok, Barcelona and Berlin and 4 more. Often billed alongside Frank Sonic, MILAN MILANO and Gregor Tresher. Next up: Odonien, Cologne on Fri 25 Sept.
 
@@ -25,4 +25,4 @@ Drumcomplex is a techno and tech house artist based in Germany, tracked on sound
 
 Frank Sonic, MILAN MILANO, Gregor Tresher
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/drumcomplex/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/drumcomplex/)*

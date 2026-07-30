@@ -1,13 +1,14 @@
 # LANSUH
 
-LANSUH is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at Jupiter Disco, New York City on Sat, 1 Aug 2026.
+LANSUH is a House and Disco artist with 2 upcoming club dates listed on soundcheck as of Thu, 30 Jul 2026, next at Danger Danger, New York City on Thu, 30 Jul 2026.
 
-LANSUH is a house and disco artist based in United States of America, tracked on soundcheck, with 47 sets logged across Detroit, Mexicocity and Newyorkcity. Often billed alongside Jay Dalawa, Alcantara and Gabriel Etrata. Next up: Jupiter Disco, Newyorkcity on Sat 1 Aug.
+LANSUH is a house and disco artist based in United States of America, tracked on soundcheck, with 48 sets logged across Detroit, Mexicocity and Newyorkcity. Often billed alongside Jay Dalawa, Alcantara and Gabriel Etrata. Next up: Danger Danger, Newyorkcity on Thu 30 Jul.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Thu, 30 Jul 2026 | Danger Danger | New York City |
 | Sat, 1 Aug 2026 | Jupiter Disco | New York City |
 
 ## Recently played
@@ -25,4 +26,4 @@ LANSUH is a house and disco artist based in United States of America, tracked on
 
 Jay Dalawa, Alcantara, Gabriel Etrata
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/lansuh/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/lansuh/)*

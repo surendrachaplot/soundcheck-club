@@ -1,6 +1,6 @@
 # Rub A Dub HiFi
 
-Rub A Dub HiFi is a Dub and Dubstep artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at Yamamori Tengu, Dublin on Sat, 22 Aug 2026.
+Rub A Dub HiFi is a Dub and Dubstep artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at Yamamori Tengu, Dublin on Sat, 22 Aug 2026.
 
 Rub A Dub HiFi is a dub and dubstep artist based in Ireland, tracked on soundcheck, with 12 sets logged across Dublin. Often billed alongside Ambit, Queen Beatz and Aba Shanti-I. Next up: Yamamori Tengu, Dublin on Sat 22 Aug.
 
@@ -25,4 +25,4 @@ Rub A Dub HiFi is a dub and dubstep artist based in Ireland, tracked on soundche
 
 Ambit, Queen Beatz, Aba Shanti-I
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/rubadubhifi/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/rubadubhifi/)*

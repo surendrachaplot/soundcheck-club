@@ -1,6 +1,6 @@
 # Milian Dolla
 
-Milian Dolla is a House and Baile Funk artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at Duro de Matar, Lisbon on Fri, 31 Jul 2026.
+Milian Dolla is a House and Baile Funk artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at Duro de Matar, Lisbon on Fri, 31 Jul 2026.
 
 Milian Dolla is a house and baile funk artist tracked on soundcheck, with 32 sets logged across Amsterdam, Berlin, Geneva and Leipzig and 7 more. Often billed alongside Delcu, Amowia and Andras_2020. Next up: Duro de Matar, Lisbon on Fri 31 Jul.
 
@@ -25,4 +25,4 @@ Milian Dolla is a house and baile funk artist tracked on soundcheck, with 32 set
 
 Delcu, Amowia, Andras_2020
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/miliandolla/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/miliandolla/)*

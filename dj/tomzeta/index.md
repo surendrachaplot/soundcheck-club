@@ -1,6 +1,6 @@
 # Tom Zeta
 
-Tom Zeta is a House and Deep House artist with 2 upcoming club dates listed on soundcheck as of Wed, 29 Jul 2026, next at Do Not Sit On The Furniture, Miami on Fri, 14 Aug 2026.
+Tom Zeta is a House and Deep House artist with 2 upcoming club dates listed on soundcheck as of Thu, 30 Jul 2026, next at Do Not Sit On The Furniture, Miami on Fri, 14 Aug 2026.
 
 Tom Zeta is a house and deep house artist tracked on soundcheck, with 26 sets logged across Amsterdam, Barcelona, Brussels and Hamburg and 7 more. Often billed alongside Adam Ten, Matthias Tanzmann and Rose Ringed. Next up: Do Not Sit On The Furniture, Miami on Fri 14 Aug.
 
@@ -26,4 +26,4 @@ Tom Zeta is a house and deep house artist tracked on soundcheck, with 26 sets lo
 
 Adam Ten, Matthias Tanzmann, Rose Ringed
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/tomzeta/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/tomzeta/)*

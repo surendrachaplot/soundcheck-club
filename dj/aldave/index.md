@@ -1,6 +1,6 @@
 # ALDAVE
 
-ALDAVE is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at Discoteca Paradiso, Naples on Thu, 30 Jul 2026.
+ALDAVE is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at Discoteca Paradiso, Naples on Thu, 30 Jul 2026.
 
 ALDAVE is a house and tech house artist tracked on soundcheck, with 61 sets logged across Amsterdam, Barcelona, Madrid and Milan and 3 more. Often billed alongside ETNA, Massi Rocket and SOLE DOSI. Next up: Discoteca Paradiso, Naples on Thu 30 Jul.
 
@@ -25,4 +25,4 @@ ALDAVE is a house and tech house artist tracked on soundcheck, with 61 sets logg
 
 ETNA, Massi Rocket, SOLE DOSI
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/aldave/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/aldave/)*

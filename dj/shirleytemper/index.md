@@ -1,6 +1,6 @@
 # Shirley Temper
 
-Shirley Temper is a Footwork and Jungle artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at The Cause, London on Sun, 2 Aug 2026.
+Shirley Temper is a Footwork and Jungle artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at The Cause, London on Sun, 2 Aug 2026.
 
 Shirley Temper is a footwork and jungle artist based in United Kingdom, tracked on soundcheck, with 71 sets logged across Berlin, Brighton, Bristol and Leeds and 5 more. Often billed alongside PEPPA (2), Sleazebag and ISORA. Next up: The Cause, London on Sun 2 Aug.
 
@@ -25,4 +25,4 @@ Shirley Temper is a footwork and jungle artist based in United Kingdom, tracked 
 
 PEPPA (2), Sleazebag, ISORA
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/shirleytemper/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/shirleytemper/)*

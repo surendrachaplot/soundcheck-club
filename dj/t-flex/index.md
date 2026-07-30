@@ -1,6 +1,6 @@
 # T-Flex
 
-T-Flex is a Bass and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at The Glove That Fits, London on Sat, 22 Aug 2026.
+T-Flex is a Bass and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at The Glove That Fits, London on Sat, 22 Aug 2026.
 
 T-Flex is a bass and techno artist tracked on soundcheck, with 7 sets logged across Ghent and London. Often billed alongside Datassette, Equinox (UK) and Forest Drive West. Next up: The Glove That Fits, London on Sat 22 Aug.
 
@@ -23,4 +23,4 @@ T-Flex is a bass and techno artist tracked on soundcheck, with 7 sets logged acr
 
 Datassette, Equinox (UK), Forest Drive West
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/t-flex/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/t-flex/)*

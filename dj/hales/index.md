@@ -1,6 +1,6 @@
 # Halès
 
-Halès is a Techno and EBM artist with 2 upcoming club dates listed on soundcheck as of Wed, 29 Jul 2026, next at KALT, Strasbourg on Sat, 5 Sept 2026.
+Halès is a Techno and EBM artist with 2 upcoming club dates listed on soundcheck as of Thu, 30 Jul 2026, next at KALT, Strasbourg on Sat, 5 Sept 2026.
 
 Halès is a techno and ebm artist based in France, tracked on soundcheck, with 34 sets logged across Lyon and Strasbourg. Often billed alongside STU (FR), Roan and Diliman. Next up: KALT, Strasbourg on Sat 5 Sept.
 
@@ -26,4 +26,4 @@ Halès is a techno and ebm artist based in France, tracked on soundcheck, with 3
 
 STU (FR), Roan, Diliman
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/hales/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/hales/)*

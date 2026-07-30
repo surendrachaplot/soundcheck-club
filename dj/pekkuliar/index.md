@@ -1,14 +1,14 @@
 # pekkuliar
 
-pekkuliar is a House and Acid artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at TBA - Studio Stereo, close to pl. Catalunya, 08007, Barcelona, Barcelona on Fri, 7 Aug 2026.
+pekkuliar is a House and Acid artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at Studio Stereo, Barcelona on Fri, 7 Aug 2026.
 
-pekkuliar is a house and acid artist tracked on soundcheck, with 51 sets logged across Barcelona, Berlin, Lisbon and Lyon. Often billed alongside CMYK, Adria (ES) and Heather (ES). Next up: TBA - Studio Stereo, close to pl. Catalunya, 08007, Barcelona, Barcelona on Fri 7 Aug.
+pekkuliar is a house and acid artist tracked on soundcheck, with 51 sets logged across Barcelona, Berlin, Lisbon and Lyon. Often billed alongside CMYK, Adria (ES) and Heather (ES). Next up: Studio Stereo, Barcelona on Fri 7 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 7 Aug 2026 | TBA - Studio Stereo, close to pl. Catalunya, 08007, Barcelona | Barcelona |
+| Fri, 7 Aug 2026 | Studio Stereo | Barcelona |
 
 ## Recently played
 
@@ -25,4 +25,4 @@ pekkuliar is a house and acid artist tracked on soundcheck, with 51 sets logged 
 
 CMYK, Adria (ES), Heather (ES)
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/pekkuliar/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/pekkuliar/)*

@@ -1,6 +1,6 @@
 # DE.fine
 
-DE.fine is a Techno and Drum & Bass artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at Void Club, Berlin on Fri, 14 Aug 2026.
+DE.fine is a Techno and Drum & Bass artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at Void Club, Berlin on Fri, 14 Aug 2026.
 
 DE.fine is a techno and drum & bass artist based in Germany, tracked on soundcheck, with 63 sets logged across Berlin. Often billed alongside Upzet, K.EULE and Ida Scheppert. Next up: Void Club, Berlin on Fri 14 Aug.
 
@@ -25,4 +25,4 @@ DE.fine is a techno and drum & bass artist based in Germany, tracked on soundche
 
 Upzet, K.EULE, Ida Scheppert
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/define/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/define/)*

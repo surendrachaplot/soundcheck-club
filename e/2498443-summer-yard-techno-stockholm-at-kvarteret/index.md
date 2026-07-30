@@ -1,6 +1,6 @@
 # SUMMER YARD — TECHNO STOCKHOLM at Kvarteret
 
-SUMMER YARD — TECHNO STOCKHOLM at Kvarteret on Fri 7 Aug, Stockholm. Preview the line-up and save it on soundcheck.
+SUMMER YARD — TECHNO STOCKHOLM at Kvarteret on Fri 7 Aug, Stockholm. Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

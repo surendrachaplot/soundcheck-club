@@ -1,6 +1,6 @@
 # Razzle Dazzler
 
-Razzle Dazzler is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at ÆDEN, Berlin on Sat, 1 Aug 2026.
+Razzle Dazzler is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at ÆDEN, Berlin on Sat, 1 Aug 2026.
 
 Razzle Dazzler is a techno and trance artist tracked on soundcheck, with 15 sets logged across Berlin and Lisbon. Often billed alongside ELOISA, ALIS. and Kander. Next up: ÆDEN, Berlin on Sat 1 Aug.
 
@@ -25,4 +25,4 @@ Razzle Dazzler is a techno and trance artist tracked on soundcheck, with 15 sets
 
 ELOISA, ALIS., Kander
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/razzledazzler/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/razzledazzler/)*

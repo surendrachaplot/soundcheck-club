@@ -1,6 +1,6 @@
 # Esk (UK)
 
-Esk (UK) is a House and Hip-Hop artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at Night Tales, London on Thu, 30 Jul 2026.
+Esk (UK) is a House and Hip-Hop artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at Night Tales, London on Thu, 30 Jul 2026.
 
 Esk (UK) is a house and hip-hop artist tracked on soundcheck, with 12 sets logged across Bristol, London and Tokyo. Often billed alongside Arthi, Geeneus and Kareem Ali. Next up: Night Tales, London on Thu 30 Jul.
 
@@ -25,4 +25,4 @@ Esk (UK) is a house and hip-hop artist tracked on soundcheck, with 12 sets logge
 
 Arthi, Geeneus, Kareem Ali
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/esk-1/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/esk-1/)*

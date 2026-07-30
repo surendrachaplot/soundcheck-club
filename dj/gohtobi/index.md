@@ -1,6 +1,6 @@
 # Gohtobi
 
-Gohtobi is a Techno and Reggaeton artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at Brutal Mx, Mexico City on Sat, 8 Aug 2026.
+Gohtobi is a Techno and Reggaeton artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at Brutal Mx, Mexico City on Sat, 8 Aug 2026.
 
 Gohtobi is a techno and reggaeton artist based in Mexico, tracked on soundcheck, with 11 sets logged across Mexicocity and Osaka. Often billed alongside Ramiel II, Cabe and Coca1ne Cowboy. Next up: Brutal Mx, Mexicocity on Sat 8 Aug.
 
@@ -25,4 +25,4 @@ Gohtobi is a techno and reggaeton artist based in Mexico, tracked on soundcheck,
 
 Ramiel II, Cabe, Coca1ne Cowboy
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/gohtobi/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/gohtobi/)*

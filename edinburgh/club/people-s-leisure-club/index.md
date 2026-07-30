@@ -1,6 +1,6 @@
 # People's Leisure Club
 
-People's Leisure Club is a music venue in Edinburgh with 18 upcoming nights listed on soundcheck as of Wed, 29 Jul 2026; the next is "NO FATE - Synthwave/EB(S)M/Cyberpunk" on Fri, 31 Jul 2026.
+People's Leisure Club is a music venue in Edinburgh with 18 upcoming nights listed on soundcheck as of Thu, 30 Jul 2026; the next is "NO FATE - Synthwave/EB(S)M/Cyberpunk" on Fri, 31 Jul 2026.
 
 People's Leisure Club is a music venue in Edinburgh listed on soundcheck. 18 upcoming nights, with line-ups including Ann Tweak, Big Dope P, Chris Astrojazz and ENAEN and 2 more. Browse upcoming dates, start times and who's playing. 45 Lothian Street, Edinburgh, EH1 1HB.
 
@@ -23,4 +23,4 @@ People's Leisure Club is a music venue in Edinburgh listed on soundcheck. 18 upc
 
 45 Lothian Street, Edinburgh, EH1 1HB, Edinburgh
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/edinburgh/club/people-s-leisure-club/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/edinburgh/club/people-s-leisure-club/)*

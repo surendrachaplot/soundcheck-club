@@ -1,6 +1,6 @@
 # Andeel
 
-Andeel is a Psytrance and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at Klunkerkranich, Berlin on Fri, 7 Aug 2026.
+Andeel is a Psytrance and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at Klunkerkranich, Berlin on Fri, 7 Aug 2026.
 
 Andeel is a psytrance and techno artist based in Germany, tracked on soundcheck, with 26 sets logged across Berlin. Often billed alongside Abdallah and I, Lara Elfara and Noor Sanchez. Next up: Klunkerkranich, Berlin on Fri 7 Aug.
 
@@ -25,4 +25,4 @@ Andeel is a psytrance and techno artist based in Germany, tracked on soundcheck,
 
 Abdallah and I, Lara Elfara, Noor Sanchez
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/andeel/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/andeel/)*

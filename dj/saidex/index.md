@@ -1,6 +1,6 @@
 # SAIDEX
 
-SAIDEX is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at Dot Club, Hamburg on Fri, 31 Jul 2026.
+SAIDEX is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at Dot Club, Hamburg on Fri, 31 Jul 2026.
 
 SAIDEX is a techno and house artist based in Germany, tracked on soundcheck, with 22 sets logged across Hamburg. Often billed alongside Timeless Moments, Chris Mantanz and High.Z. Next up: Dot Club, Hamburg on Fri 31 Jul.
 
@@ -25,4 +25,4 @@ SAIDEX is a techno and house artist based in Germany, tracked on soundcheck, wit
 
 Timeless Moments, Chris Mantanz, High.Z
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/saidex/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/saidex/)*

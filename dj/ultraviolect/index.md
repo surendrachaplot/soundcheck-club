@@ -1,6 +1,6 @@
 # Ultraviolect
 
-Ultraviolect is a Techno and Psytrance artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at M-BIA, Berlin on Sat, 1 Aug 2026.
+Ultraviolect is a Techno and Psytrance artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at M-BIA, Berlin on Sat, 1 Aug 2026.
 
 Ultraviolect is a techno and psytrance artist based in Germany, tracked on soundcheck, with 8 sets logged across Berlin. Often billed alongside L X S, SALCHIKILLER and mølly (on molly). Next up: M-BIA, Berlin on Sat 1 Aug.
 
@@ -24,4 +24,4 @@ Ultraviolect is a techno and psytrance artist based in Germany, tracked on sound
 
 L X S, SALCHIKILLER, mølly (on molly)
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/ultraviolect/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/ultraviolect/)*

@@ -1,13 +1,14 @@
 # Sama' Abdulhadi
 
-Sama' Abdulhadi is a Techno and House artist with 4 upcoming club dates listed on soundcheck as of Wed, 29 Jul 2026, next at Boston Manor Park, London on Sat, 1 Aug 2026.
+Sama' Abdulhadi is a Techno and House artist with 5 upcoming club dates listed on soundcheck as of Thu, 30 Jul 2026, next at Cavo Paradiso, Mykonos on Fri, 31 Jul 2026.
 
-Sama' Abdulhadi is a techno and house artist tracked on soundcheck, with 136 sets logged across Amsterdam, Athens, Barcelona and Belgrade and 46 more. Often billed alongside Richie Hawtin, Adam Beyer and Anfisa Letyago. Next up: Boston Manor Park, London on Sat 1 Aug.
+Sama' Abdulhadi is a techno and house artist tracked on soundcheck, with 137 sets logged across Amsterdam, Athens, Barcelona and Belgrade and 46 more. Often billed alongside Richie Hawtin, Adam Beyer and Anfisa Letyago. Next up: Cavo Paradiso, Mykonos on Fri 31 Jul.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 31 Jul 2026 | Cavo Paradiso | Mykonos |
 | Sat, 1 Aug 2026 | Boston Manor Park | London |
 | Fri, 21 Aug 2026 | Sub Club | Glasgow |
 | Sat, 29 Aug 2026 | Bolivar Beach Bar | Athens |
@@ -28,4 +29,4 @@ Sama' Abdulhadi is a techno and house artist tracked on soundcheck, with 136 set
 
 Richie Hawtin, Adam Beyer, Anfisa Letyago
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/samaabdulhadi/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/samaabdulhadi/)*

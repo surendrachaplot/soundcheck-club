@@ -1,6 +1,6 @@
 # XSB-R
 
-XSB-R is a Techno and EBM artist with 2 upcoming club dates listed on soundcheck as of Wed, 29 Jul 2026, next at Baker Falls, New York City on Thu, 30 Jul 2026.
+XSB-R is a Techno and EBM artist with 2 upcoming club dates listed on soundcheck as of Thu, 30 Jul 2026, next at Baker Falls, New York City on Thu, 30 Jul 2026.
 
 XSB-R is a techno and ebm artist based in United States of America, tracked on soundcheck, with 21 sets logged across Newyorkcity. Often billed alongside Charity Kill, DJ Flesh_Bot and Facets. Next up: Baker Falls, Newyorkcity on Thu 30 Jul.
 
@@ -26,4 +26,4 @@ XSB-R is a techno and ebm artist based in United States of America, tracked on s
 
 Charity Kill, DJ Flesh_Bot, Facets
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/xsb-r/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/xsb-r/)*

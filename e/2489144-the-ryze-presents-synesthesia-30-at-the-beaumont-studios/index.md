@@ -1,6 +1,6 @@
 # The Ryze presents Synesthesia #30 at The Beaumont Studios
 
-The Ryze presents Synesthesia #30 at The Beaumont Studios on Thu 30 Jul, Vancouver. 1 act on the bill: The Ryze. Breakbeat and Afro House. Preview the line-up and save it on soundcheck.
+The Ryze presents Synesthesia #30 at The Beaumont Studios on Thu 30 Jul, Vancouver. 1 act on the bill: The Ryze. Disco and Funk / Soul. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # nat the f*kn rat
 
-nat the f*kn rat is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at TBA - DTLA, Los Angeles on Sun, 2 Aug 2026.
+nat the f*kn rat is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at TBA - DTLA, Los Angeles on Sun, 2 Aug 2026.
 
 nat the f*kn rat is a techno and trance artist based in United States of America, tracked on soundcheck, with 5 sets logged across Losangeles. Often billed alongside SØMOS, Aleroj and DJ WIFI. Next up: TBA - DTLA, Losangeles on Sun 2 Aug.
 
@@ -21,4 +21,4 @@ nat the f*kn rat is a techno and trance artist based in United States of America
 
 SØMOS, Aleroj, DJ WIFI
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/natthefknrat/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/natthefknrat/)*

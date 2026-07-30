@@ -1,6 +1,6 @@
 # Merlina
 
-Merlina is a Techno and Electronica artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at Macarena Club, Barcelona on Thu, 6 Aug 2026.
+Merlina is a Techno and Electronica artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at Macarena Club, Barcelona on Thu, 6 Aug 2026.
 
 Merlina is a techno and electronica artist based in Argentina, tracked on soundcheck, with 25 sets logged across Barcelona, Buenosaires and Madrid. Often billed alongside Bruno Ledesma, Victoria Mussi and Autonoe. Next up: Macarena Club, Barcelona on Thu 6 Aug.
 
@@ -25,4 +25,4 @@ Merlina is a techno and electronica artist based in Argentina, tracked on soundc
 
 Bruno Ledesma, Victoria Mussi, Autonoe
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/merlina/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/merlina/)*

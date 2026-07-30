@@ -1,8 +1,8 @@
 # Concord Music Hall
 
-Concord Music Hall is a music venue in Chicago with 11 upcoming nights listed on soundcheck as of Wed, 29 Jul 2026; the next is "BOOTS OFFICIAL LOLLAPALOOZA AFTERSHOW - WITH 2charm, River Moon, Avalon Lurks, Kirk & MORE" on Fri, 31 Jul 2026.
+Concord Music Hall is a music venue in Chicago with 12 upcoming nights listed on soundcheck as of Thu, 30 Jul 2026; the next is "BOOTS OFFICIAL LOLLAPALOOZA AFTERSHOW - WITH 2charm, River Moon, Avalon Lurks, Kirk & MORE" on Fri, 31 Jul 2026.
 
-Concord Music Hall is a music venue in Chicago listed on soundcheck. 11 upcoming nights, with line-ups including Avalon Lurks, Kirk (US) and River Moon. Browse upcoming dates, start times and who's playing. 2047 N Milwaukee Ave,  Chicago, IL 60647.
+Concord Music Hall is a music venue in Chicago listed on soundcheck. 12 upcoming nights, with line-ups including Avalon Lurks, Kirk (US), River Moon and Truth. Browse upcoming dates, start times and who's playing. 2047 N Milwaukee Ave,  Chicago, IL 60647.
 
 ## What's on
 
@@ -23,4 +23,4 @@ Concord Music Hall is a music venue in Chicago listed on soundcheck. 11 upcoming
 
 2047 N Milwaukee Ave,  Chicago, IL 60647, Chicago
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/chicago/club/concord-music-hall/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/chicago/club/concord-music-hall/)*

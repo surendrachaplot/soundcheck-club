@@ -1,6 +1,6 @@
 # DIZI
 
-DIZI is a Jungle and IDM artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at The Love Song, Los Angeles on Thu, 30 Jul 2026.
+DIZI is a Jungle and IDM artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at The Love Song, Los Angeles on Thu, 30 Jul 2026.
 
 DIZI is a jungle and idm artist based in United States of America, tracked on soundcheck, with 6 sets logged across London, Losangeles and Newyorkcity. Often billed alongside Baby Uniq, Interpretive Sound and milliGraham. Next up: The Love Song, Losangeles on Thu 30 Jul.
 
@@ -22,4 +22,4 @@ DIZI is a jungle and idm artist based in United States of America, tracked on so
 
 Baby Uniq, Interpretive Sound, milliGraham
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/dizi/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/dizi/)*

@@ -1,6 +1,6 @@
 # dguru
 
-dguru is a House and Disco artist with 2 upcoming club dates listed on soundcheck as of Wed, 29 Jul 2026, next at 宀 Club, Hong Kong on Sat, 1 Aug 2026.
+dguru is a House and Disco artist with 2 upcoming club dates listed on soundcheck as of Thu, 30 Jul 2026, next at 宀 Club, Hong Kong on Sat, 1 Aug 2026.
 
 dguru is a house and disco artist based in South Korea, tracked on soundcheck, with 162 sets logged across Hongkong, Seoul and Tokyo. Often billed alongside RTRP, Conan and grid (KR). Next up: 宀 Club, Hongkong on Sat 1 Aug.
 
@@ -26,4 +26,4 @@ dguru is a house and disco artist based in South Korea, tracked on soundcheck, w
 
 RTRP, Conan, grid (KR)
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/dguru/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/dguru/)*

@@ -1,6 +1,6 @@
 # Anapol
 
-Anapol is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at Secret Venue in Minatoku-Nishiazabu, Tokyo on Sat, 1 Aug 2026.
+Anapol is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at Secret Venue in Minatoku-Nishiazabu, Tokyo on Sat, 1 Aug 2026.
 
 Anapol is a techno and house artist based in Japan, tracked on soundcheck, with 18 sets logged across Tokyo. Often billed alongside Drinkss, uuu7 and Takumi's Afterparty. Next up: Secret Venue in Minatoku-Nishiazabu, Tokyo on Sat 1 Aug.
 
@@ -25,4 +25,4 @@ Anapol is a techno and house artist based in Japan, tracked on soundcheck, with 
 
 Drinkss, uuu7, Takumi's Afterparty
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/anapol/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/anapol/)*

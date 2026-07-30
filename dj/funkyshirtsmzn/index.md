@@ -1,15 +1,15 @@
 # Funky Shirts MZN
 
-Funky Shirts MZN is a House and Electro artist with 2 upcoming club dates listed on soundcheck as of Wed, 29 Jul 2026, next at TBA - Studio Stereo, close to pl. Catalunya, 08007, Barcelona, Barcelona on Fri, 4 Sept 2026.
+Funky Shirts MZN is a House and Electro artist with 2 upcoming club dates listed on soundcheck as of Thu, 30 Jul 2026, next at Studio Stereo, Barcelona on Fri, 4 Sept 2026.
 
-Funky Shirts MZN is a house and electro artist based in Spain, tracked on soundcheck, with 28 sets logged across Barcelona and Madrid. Often billed alongside Kömm, NBU (1) and Crislor. Next up: TBA - Studio Stereo, close to pl. Catalunya, 08007, Barcelona, Barcelona on Fri 4 Sept.
+Funky Shirts MZN is a house and electro artist based in Spain, tracked on soundcheck, with 28 sets logged across Barcelona and Madrid. Often billed alongside Kömm, NBU (1) and Crislor. Next up: Studio Stereo, Barcelona on Fri 4 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 4 Sept 2026 | TBA - Studio Stereo, close to pl. Catalunya, 08007, Barcelona | Barcelona |
-| Sat, 5 Sept 2026 | TBA - Studio Stereo, close to pl. Catalunya, 08007, Barcelona | Barcelona |
+| Fri, 4 Sept 2026 | Studio Stereo | Barcelona |
+| Sat, 5 Sept 2026 | Studio Stereo | Barcelona |
 
 ## Recently played
 
@@ -26,4 +26,4 @@ Funky Shirts MZN is a house and electro artist based in Spain, tracked on soundc
 
 Kömm, NBU (1), Crislor
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/funkyshirtsmzn/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/funkyshirtsmzn/)*

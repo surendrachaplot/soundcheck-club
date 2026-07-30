@@ -1,13 +1,14 @@
 # NATSUMI
 
-NATSUMI is a Hardcore and Bass artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at Camelot, Tokyo on Sat, 29 Aug 2026.
+NATSUMI is a Hardcore and Bass artist with 2 upcoming club dates listed on soundcheck as of Thu, 30 Jul 2026, next at Cross Roppongi, Tokyo on Sat, 8 Aug 2026.
 
-NATSUMI is a hardcore and bass artist based in Japan, tracked on soundcheck, with 52 sets logged across Amsterdam, Osaka and Tokyo. Often billed alongside YOSHIMASA, DJ Shimamura and HiTOMi. Next up: Camelot, Tokyo on Sat 29 Aug.
+NATSUMI is a hardcore and bass artist based in Japan, tracked on soundcheck, with 53 sets logged across Amsterdam, Osaka and Tokyo. Often billed alongside YOSHIMASA, DJ Shimamura and HiTOMi. Next up: Cross Roppongi, Tokyo on Sat 8 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 8 Aug 2026 | Cross Roppongi | Tokyo |
 | Sat, 29 Aug 2026 | Camelot | Tokyo |
 
 ## Recently played
@@ -25,4 +26,4 @@ NATSUMI is a hardcore and bass artist based in Japan, tracked on soundcheck, wit
 
 YOSHIMASA, DJ Shimamura, HiTOMi
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/natsumi/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/natsumi/)*

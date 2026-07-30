@@ -1,6 +1,6 @@
 # Fuwatoro
 
-Fuwatoro is a Club and Drum & Bass artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at ZEROTOKYO, Tokyo on Thu, 13 Aug 2026.
+Fuwatoro is a Club and Drum & Bass artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at ZEROTOKYO, Tokyo on Thu, 13 Aug 2026.
 
 Fuwatoro is a club and drum & bass artist based in Japan, tracked on soundcheck, with 4 sets logged across Tokyo. Often billed alongside AIOT, ATMK and HEAVEN'S GATE CREW. Next up: ZEROTOKYO, Tokyo on Thu 13 Aug.
 
@@ -20,4 +20,4 @@ Fuwatoro is a club and drum & bass artist based in Japan, tracked on soundcheck,
 
 AIOT, ATMK, HEAVEN'S GATE CREW
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/fuwatoro/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/fuwatoro/)*

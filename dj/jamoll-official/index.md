@@ -1,6 +1,6 @@
 # JaMoll-official
 
-JaMoll-official is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at Bulbul Berlin, Berlin on Fri, 31 Jul 2026.
+JaMoll-official is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at Bulbul Berlin, Berlin on Fri, 31 Jul 2026.
 
 JaMoll-official is a house and techno artist based in Germany, tracked on soundcheck, with 19 sets logged across Berlin. Often billed alongside unDs, Leon Licht and Benjie Bäm. Next up: Bulbul Berlin, Berlin on Fri 31 Jul.
 
@@ -25,4 +25,4 @@ JaMoll-official is a house and techno artist based in Germany, tracked on soundc
 
 unDs, Leon Licht, Benjie Bäm
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/jamoll-official/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/jamoll-official/)*

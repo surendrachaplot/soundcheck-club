@@ -1,6 +1,6 @@
 # Adam Cooke
 
-Adam Cooke is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at Mena Berlin, Berlin on Fri, 31 Jul 2026.
+Adam Cooke is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at Mena Berlin, Berlin on Fri, 31 Jul 2026.
 
 Adam Cooke is a house and disco artist based in Ireland, tracked on soundcheck, with 23 sets logged across Amsterdam, Berlin and Dublin. Often billed alongside Meriem S, DJ Westfa and Flaaviø. Next up: Mena Berlin, Berlin on Fri 31 Jul.
 
@@ -25,4 +25,4 @@ Adam Cooke is a house and disco artist based in Ireland, tracked on soundcheck, 
 
 Meriem S, DJ Westfa, Flaaviø
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/adamcooke/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/adamcooke/)*

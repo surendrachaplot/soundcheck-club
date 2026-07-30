@@ -1,6 +1,6 @@
 # Adam Charaf
 
-Adam Charaf is a Techno and Downtempo artist with 2 upcoming club dates listed on soundcheck as of Wed, 29 Jul 2026, next at CUBE, Düsseldorf on Sat, 1 Aug 2026.
+Adam Charaf is a Techno and Downtempo artist with 2 upcoming club dates listed on soundcheck as of Thu, 30 Jul 2026, next at CUBE, Düsseldorf on Sat, 1 Aug 2026.
 
 Adam Charaf is a techno and downtempo artist based in Germany, tracked on soundcheck, with 5 sets logged across Cologne and Dusseldorf. Often billed alongside Falscher Hase, Kos:mo and Rafael Da Cruz. Next up: CUBE, Dusseldorf on Sat 1 Aug.
 
@@ -21,4 +21,4 @@ Adam Charaf is a techno and downtempo artist based in Germany, tracked on soundc
 
 Falscher Hase, Kos:mo, Rafael Da Cruz
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/adamcharaf/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/adamcharaf/)*

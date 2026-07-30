@@ -1,6 +1,6 @@
 # Upper90
 
-Upper90 is a Techno and Trance artist with 3 upcoming club dates listed on soundcheck as of Wed, 29 Jul 2026, next at RSO.BERLIN, Berlin on Fri, 31 Jul 2026.
+Upper90 is a Techno and Trance artist with 3 upcoming club dates listed on soundcheck as of Thu, 30 Jul 2026, next at RSO.BERLIN, Berlin on Fri, 31 Jul 2026.
 
 Upper90 is a techno and trance artist tracked on soundcheck, with 121 sets logged across Aberdeen, Amsterdam, Antwerp and Barcelona and 31 more. Often billed alongside Janis Zielinski, Butschi and Funk Tribu. Next up: RSO.BERLIN, Berlin on Fri 31 Jul.
 
@@ -27,4 +27,4 @@ Upper90 is a techno and trance artist tracked on soundcheck, with 121 sets logge
 
 Janis Zielinski, Butschi, Funk Tribu
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/upper90/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/upper90/)*

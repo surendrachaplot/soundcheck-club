@@ -1,14 +1,15 @@
 # BIDOIS
 
-BIDOIS is a Garage and Drum & Bass artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at Bricks, London on Fri, 7 Aug 2026.
+BIDOIS is a Drum & Bass and Tech House artist with 2 upcoming club dates listed on soundcheck as of Thu, 30 Jul 2026, next at Bricks, London on Fri, 7 Aug 2026.
 
-BIDOIS is a garage and drum & bass artist based in New Zealand, tracked on soundcheck, with 3 sets logged across London. Often billed alongside Margella, Noizfiend and tasha.mp4. Next up: Bricks, London on Fri 7 Aug.
+BIDOIS is a drum & bass and tech house artist based in New Zealand, tracked on soundcheck, with 4 sets logged across London. Often billed alongside Margella, Noizfiend and tasha.mp4. Next up: Bricks, London on Fri 7 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 7 Aug 2026 | Bricks | London |
+| Fri, 21 Aug 2026 | Club Makossa | London |
 
 ## Recently played
 
@@ -19,4 +20,4 @@ BIDOIS is a garage and drum & bass artist based in New Zealand, tracked on sound
 
 Margella, Noizfiend, tasha.mp4
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/bidois/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/bidois/)*

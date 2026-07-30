@@ -1,14 +1,13 @@
 # SOBs
 
-SOBs is a music venue in New York City with 10 upcoming nights listed on soundcheck as of Wed, 29 Jul 2026; the next is "On the Floor: intimate R&B sets by Avara, Akshara, Aashika Reddy" on Wed, 29 Jul 2026.
+SOBs is a music venue in New York City with 9 upcoming nights listed on soundcheck as of Thu, 30 Jul 2026; the next is "M.E - SOB's Top Pick for R&B Star of The Future" on Fri, 31 Jul 2026.
 
-SOBs is a music venue in Newyorkcity listed on soundcheck. 10 upcoming nights, with line-ups including DJ Vega and OatMilk. Browse upcoming dates, start times and who's playing. 204 Varick Street, New York, NY 10014-4810, USA.
+SOBs is a music venue in Newyorkcity listed on soundcheck. 9 upcoming nights, with line-ups including DJ Vega and OatMilk. Browse upcoming dates, start times and who's playing. 204 Varick Street, New York, NY 10014-4810, USA.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Wed, 29 Jul 2026 | On the Floor: intimate R&B sets by Avara, Akshara, Aashika Reddy |  |
 | Fri, 31 Jul 2026 | M.E - SOB's Top Pick for R&B Star of The Future |  |
 | Fri, 31 Jul 2026 | Sak Pasé: Haitian Fridays Debut |  |
 | Wed, 5 Aug 2026 | Blue Moon: Live Band + R&B Jam Session |  |
@@ -23,4 +22,4 @@ SOBs is a music venue in Newyorkcity listed on soundcheck. 10 upcoming nights, w
 
 204 Varick Street, New York, NY 10014-4810, USA, New York City
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/sobs/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/sobs/)*

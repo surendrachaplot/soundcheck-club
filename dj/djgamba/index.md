@@ -1,6 +1,6 @@
 # DJ Gamba
 
-DJ Gamba is a House and Electro artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at Almar Beach Club, Barcelona on Sat, 1 Aug 2026.
+DJ Gamba is a House and Electro artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at Almar Beach Club, Barcelona on Sat, 1 Aug 2026.
 
 DJ Gamba is a house and electro artist tracked on soundcheck, with 103 sets logged across Antwerp, Barcelona, Belfast and Copenhagen and 6 more. Often billed alongside mves, Sampol and CMYK. Next up: Almar Beach Club, Barcelona on Sat 1 Aug.
 
@@ -25,4 +25,4 @@ DJ Gamba is a house and electro artist tracked on soundcheck, with 103 sets logg
 
 mves, Sampol, CMYK
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/djgamba/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/djgamba/)*

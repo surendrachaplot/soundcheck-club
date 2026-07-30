@@ -1,6 +1,6 @@
 # Dharma Doom
 
-Dharma Doom is a Dub and Techno artist with 2 upcoming club dates listed on soundcheck as of Wed, 29 Jul 2026, next at HUNGR, Tallinn on Sat, 8 Aug 2026.
+Dharma Doom is a Dub and Techno artist with 2 upcoming club dates listed on soundcheck as of Thu, 30 Jul 2026, next at HUNGR, Tallinn on Sat, 8 Aug 2026.
 
 Dharma Doom is a dub and techno artist based in Estonia, tracked on soundcheck, with 16 sets logged across Berlin, Tallinn and Tbilisi. Often billed alongside Shah Rud, Nikolajev and MORA (FI). Next up: HUNGR, Tallinn on Sat 8 Aug.
 
@@ -26,4 +26,4 @@ Dharma Doom is a dub and techno artist based in Estonia, tracked on soundcheck, 
 
 Shah Rud, Nikolajev, MORA (FI)
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/dharmadoom/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/dharmadoom/)*

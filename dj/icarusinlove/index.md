@@ -1,6 +1,6 @@
 # Icarus in love
 
-Icarus in love is a Techno and Electro artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at Astron Club, Athens on Sat, 1 Aug 2026.
+Icarus in love is a Techno and Electro artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at Astron Club, Athens on Sat, 1 Aug 2026.
 
 Icarus in love is a techno and electro artist tracked on soundcheck, with 50 sets logged across Athens, Berlin, London and Tbilisi. Often billed alongside Rlct, Cirkle and 118119. Next up: Astron Club, Athens on Sat 1 Aug.
 
@@ -25,4 +25,4 @@ Icarus in love is a techno and electro artist tracked on soundcheck, with 50 set
 
 Rlct, Cirkle, 118119
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/icarusinlove/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/icarusinlove/)*

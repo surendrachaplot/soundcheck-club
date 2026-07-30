@@ -1,8 +1,8 @@
 # MASCHA
 
-MASCHA is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Wed, 29 Jul 2026, next at OYE Kreuzkoelln, Berlin on Thu, 6 Aug 2026.
+MASCHA is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Thu, 30 Jul 2026, next at OYE Kreuzkoelln, Berlin on Thu, 6 Aug 2026.
 
-MASCHA is a techno and house artist tracked on soundcheck, with 72 sets logged across Amsterdam, Berlin, Frankfurt and Hamburg and 7 more. Often billed alongside Black Mirror Park, Ursula Prawn and Kat Davids. Next up: OYE Kreuzkoelln, Berlin on Thu 6 Aug.
+MASCHA is a techno and house artist tracked on soundcheck, with 73 sets logged across Amsterdam, Berlin, Frankfurt and Hamburg and 7 more. Often billed alongside Black Mirror Park, Ursula Prawn and Kat Davids. Next up: OYE Kreuzkoelln, Berlin on Thu 6 Aug.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ MASCHA is a techno and house artist tracked on soundcheck, with 72 sets logged a
 | --- | --- | --- |
 | Thu, 6 Aug 2026 | OYE Kreuzkoelln | Berlin |
 | Sat, 8 Aug 2026 | Renate | Berlin |
+| Fri, 11 Sept 2026 | Renate | Berlin |
 
 ## Recently played
 
@@ -26,4 +27,4 @@ MASCHA is a techno and house artist tracked on soundcheck, with 72 sets logged a
 
 Black Mirror Park, Ursula Prawn, Kat Davids
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/mascha/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/mascha/)*

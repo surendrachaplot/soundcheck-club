@@ -1,6 +1,6 @@
 # Particle Ray
 
-Particle Ray is a Disco and Funk / Soul artist with 2 upcoming club dates listed on soundcheck as of Wed, 29 Jul 2026, next at Trestle Inn, Philadelphia on Sat, 1 Aug 2026.
+Particle Ray is a Disco and Funk / Soul artist with 2 upcoming club dates listed on soundcheck as of Thu, 30 Jul 2026, next at Trestle Inn, Philadelphia on Sat, 1 Aug 2026.
 
 Particle Ray is a disco and funk / soul artist based in United States of America, tracked on soundcheck, with 40 sets logged across Philadelphia. Often billed alongside Lady Prowl, Miss Maddie and Steve J. Next up: Trestle Inn, Philadelphia on Sat 1 Aug.
 
@@ -26,4 +26,4 @@ Particle Ray is a disco and funk / soul artist based in United States of America
 
 Lady Prowl, Miss Maddie, Steve J
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/particleray/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/particleray/)*

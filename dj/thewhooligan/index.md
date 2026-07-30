@@ -1,6 +1,6 @@
 # The Whooligan
 
-The Whooligan is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at Le Bain, New York City on Thu, 30 Jul 2026.
+The Whooligan is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at Le Bain, New York City on Thu, 30 Jul 2026.
 
 The Whooligan is a house and tech house artist based in United States of America, tracked on soundcheck, with 40 sets logged across Amsterdam, Barcelona, Kualalumpur and Losangeles and 6 more. Often billed alongside Joshua Lang, shekdash and JOAQU.N. Next up: Le Bain, Newyorkcity on Thu 30 Jul.
 
@@ -25,4 +25,4 @@ The Whooligan is a house and tech house artist based in United States of America
 
 Joshua Lang, shekdash, JOAQU.N
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/thewhooligan/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/thewhooligan/)*

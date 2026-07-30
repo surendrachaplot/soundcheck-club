@@ -1,6 +1,6 @@
 # Klaudia Gawlas
 
-Klaudia Gawlas is a Techno and Tech House artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at TBA - Robert-Lehr-Ufer 2, 40474 Düsseldorf, Düsseldorf on Sat, 19 Sept 2026.
+Klaudia Gawlas is a Techno and Tech House artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at TBA - Robert-Lehr-Ufer 2, 40474 Düsseldorf, Düsseldorf on Sat, 19 Sept 2026.
 
 Klaudia Gawlas is a techno and tech house artist tracked on soundcheck, with 74 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 23 more. Often billed alongside Spartaque, Joyhauser and Mark Reeve. Next up: TBA - Robert-Lehr-Ufer 2, 40474 Düsseldorf, Dusseldorf on Sat 19 Sept.
 
@@ -25,4 +25,4 @@ Klaudia Gawlas is a techno and tech house artist tracked on soundcheck, with 74 
 
 Spartaque, Joyhauser, Mark Reeve
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/klaudiagawlas/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/klaudiagawlas/)*

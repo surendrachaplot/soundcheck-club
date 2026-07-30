@@ -1,14 +1,13 @@
 # Jennifer Loveless
 
-Jennifer Loveless is a House and Techno artist with 11 upcoming club dates listed on soundcheck as of Wed, 29 Jul 2026, next at Amsterdamse Bos, Amsterdam on Wed, 29 Jul 2026.
+Jennifer Loveless is a House and Techno artist with 10 upcoming club dates listed on soundcheck as of Thu, 30 Jul 2026, next at Amsterdamse Bos, Amsterdam on Sat, 1 Aug 2026.
 
-Jennifer Loveless is a house and techno artist tracked on soundcheck, with 235 sets logged across Amsterdam, Austin, Bali and Barcelona and 52 more. Often billed alongside Fafi Abdel Nour, ISAbella and Shanti Celeste. Next up: Amsterdamse Bos, Amsterdam on Wed 29 Jul.
+Jennifer Loveless is a house and techno artist tracked on soundcheck, with 235 sets logged across Amsterdam, Austin, Bali and Barcelona and 52 more. Often billed alongside Fafi Abdel Nour, ISAbella and Shanti Celeste. Next up: Amsterdamse Bos, Amsterdam on Sat 1 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Wed, 29 Jul 2026 | Amsterdamse Bos | Amsterdam |
 | Sat, 1 Aug 2026 | Amsterdamse Bos | Amsterdam |
 | Sat, 8 Aug 2026 | Armazén Solon | Sao Paulo |
 | Sat, 8 Aug 2026 | TBA | Sao Paulo |
@@ -22,6 +21,7 @@ Jennifer Loveless is a house and techno artist tracked on soundcheck, with 235 s
 
 ## Recently played
 
+- Amsterdamse Bos, Amsterdam — Wed, 29 Jul 2026
 - OXI, Berlin — Fri, 24 Jul 2026
 - Else, Berlin — Sun, 19 Jul 2026
 - Parc Nou. El Prat de Llobregat, Barcelona — Fri, 17 Jul 2026
@@ -29,10 +29,9 @@ Jennifer Loveless is a house and techno artist tracked on soundcheck, with 235 s
 - M.O.T, London — Sat, 4 Jul 2026
 - Phonox, London — Sat, 4 Jul 2026
 - Micas Garten (Zurich), Zurich — Sat, 27 Jun 2026
-- OXI, Berlin — Sun, 21 Jun 2026
 
 ## Shares bills with
 
 Fafi Abdel Nour, ISAbella, Shanti Celeste
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/jenniferloveless/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/jenniferloveless/)*

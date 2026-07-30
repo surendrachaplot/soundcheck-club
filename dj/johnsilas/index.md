@@ -1,6 +1,6 @@
 # John Silas
 
-John Silas is a Downtempo and Electronica artist with 2 upcoming club dates listed on soundcheck as of Wed, 29 Jul 2026, next at Elsewhere, New York City on Fri, 7 Aug 2026.
+John Silas is a Downtempo and Electronica artist with 2 upcoming club dates listed on soundcheck as of Thu, 30 Jul 2026, next at Elsewhere, New York City on Fri, 7 Aug 2026.
 
 John Silas is a downtempo and electronica artist based in United States of America, tracked on soundcheck, with 17 sets logged across Newyorkcity. Often billed alongside Love Injection, Marco Weibel and Anish Kumar. Next up: Elsewhere, Newyorkcity on Fri 7 Aug.
 
@@ -26,4 +26,4 @@ John Silas is a downtempo and electronica artist based in United States of Ameri
 
 Love Injection, Marco Weibel, Anish Kumar
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/johnsilas/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/johnsilas/)*

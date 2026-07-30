@@ -1,6 +1,6 @@
 # Katzengold
 
-Katzengold is a Techno and Progressive House artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at Ritter Butzke, Berlin on Sat, 19 Sept 2026.
+Katzengold is a Techno and Progressive House artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at Ritter Butzke, Berlin on Sat, 19 Sept 2026.
 
 Katzengold is a techno and progressive house artist based in Germany, tracked on soundcheck, with 136 sets logged across Amsterdam, Berlin, Cologne and Copenhagen and 7 more. Often billed alongside justUS, Markus Klee and Mollono.Bass. Next up: Ritter Butzke, Berlin on Sat 19 Sept.
 
@@ -25,4 +25,4 @@ Katzengold is a techno and progressive house artist based in Germany, tracked on
 
 justUS, Markus Klee, Mollono.Bass
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/katzengold/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/katzengold/)*

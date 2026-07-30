@@ -1,6 +1,6 @@
 # VRTL
 
-VRTL is a Techno and Deep House artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at Kater, Berlin on Fri, 28 Aug 2026.
+VRTL is a Techno and Deep House artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at Kater, Berlin on Fri, 28 Aug 2026.
 
 VRTL is a techno and deep house artist based in Germany, tracked on soundcheck, with 32 sets logged across Berlin and Paris. Often billed alongside Lixi, materia hache and Aunty Nora. Next up: Kater, Berlin on Fri 28 Aug.
 
@@ -25,4 +25,4 @@ VRTL is a techno and deep house artist based in Germany, tracked on soundcheck, 
 
 Lixi, materia hache, Aunty Nora
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/vertel/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/vertel/)*

@@ -1,8 +1,8 @@
 # Fünk
 
-Fünk is a music venue in Mexico City with 9 upcoming nights listed on soundcheck as of Wed, 29 Jul 2026; the next is "Concilio x Fünk" on Thu, 30 Jul 2026.
+Fünk is a music venue in Mexico City with 14 upcoming nights listed on soundcheck as of Thu, 30 Jul 2026; the next is "Concilio x Fünk" on Thu, 30 Jul 2026.
 
-Fünk is a music venue in Mexicocity listed on soundcheck. 9 upcoming nights, with line-ups including Alena Vox, Alexis Yasky, Bluecommand and Daniel Bukara and 2 more. Browse upcoming dates, start times and who's playing. Av. Insurgentes Sur 377, Hipódromo, Cuauhtémoc, 06100 Ciudad de México, CDMX, Mexico.
+Fünk is a music venue in Mexicocity listed on soundcheck. 14 upcoming nights, with line-ups including Alejandro Veneno, Alena Vox, Alexis Yasky and Alonso Rivero and 2 more. Browse upcoming dates, start times and who's playing. Av. Insurgentes Sur 377, Hipódromo, Cuauhtémoc, 06100 Ciudad de México, CDMX, Mexico.
 
 ## What's on
 
@@ -13,13 +13,14 @@ Fünk is a music venue in Mexicocity listed on soundcheck. 9 upcoming nights, wi
 | Sat, 1 Aug 2026 | Egyptian Lover + Itzvan + Shisho | Egyptian Lover, Itzvan, Shisho |
 | Thu, 6 Aug 2026 | Disco Dust x Fünk | Alena Vox, Duke Skylocker (Disco Dust), Miss Voltaghe, Nico Jean |
 | Fri, 7 Aug 2026 | Kenny Larkin + Rubinskee + Mood | Kenny Larkin, MOOD HSM, Rubinskee |
+| Sat, 8 Aug 2026 | Fank: Oshana + Louie Fresco + Mejia | Louie Fresco, Mejia, Oshana |
+| Thu, 13 Aug 2026 | Wavawava x Fünk | Octoptic, Ranma Entero, Seli (2) |
 | Fri, 14 Aug 2026 | Boyanza: Factory Setup + Francia Oropeza + Boyanza Collectors | Factory Setup, Francia Oropeza, Rafatel, papa jazz |
 | Sat, 15 Aug 2026 | Dyed Soundorom + Soul Of Hex | Dyed Soundorom, Soul Of Hex |
-| Fri, 28 Aug 2026 | Pangaea + MNTY + Bluecommand | Bluecommand, MNTY, Pangaea |
-| Sat, 17 Oct 2026 | RA25: Mexico City |  |
+| Fri, 21 Aug 2026 | Fina b2b Young Drums (All Night Long) | Fina, Young Drums |
 
 ## Address
 
 Av. Insurgentes Sur 377, Hipódromo, Cuauhtémoc, 06100 Ciudad de México, CDMX, Mexico, Mexico City
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/mexicocity/club/f-nk/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/mexicocity/club/f-nk/)*

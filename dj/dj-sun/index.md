@@ -1,6 +1,6 @@
 # DJ-SUN
 
-DJ-SUN is a Club and House artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at TBA - SECRET DTLA LOCATION , Los Angeles on Sat, 1 Aug 2026.
+DJ-SUN is a Club and House artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at TBA - SECRET DTLA LOCATION , Los Angeles on Sat, 1 Aug 2026.
 
 DJ-SUN is a club and house artist tracked on soundcheck, with 35 sets logged across Losangeles, Newyorkcity, Philadelphia and Washingtondc. Often billed alongside Tromac, JEWELSSEA and flotussin. Next up: TBA - SECRET DTLA LOCATION , Losangeles on Sat 1 Aug.
 
@@ -25,4 +25,4 @@ DJ-SUN is a club and house artist tracked on soundcheck, with 35 sets logged acr
 
 Tromac, JEWELSSEA, flotussin
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/dj-sun/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/dj-sun/)*

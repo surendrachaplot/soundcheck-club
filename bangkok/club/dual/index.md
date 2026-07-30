@@ -1,6 +1,6 @@
 # Dual
 
-Dual is a music venue in Bangkok with 3 upcoming nights listed on soundcheck as of Wed, 29 Jul 2026; the next is "DUAL Creature" on Thu, 30 Jul 2026.
+Dual is a music venue in Bangkok with 3 upcoming nights listed on soundcheck as of Thu, 30 Jul 2026; the next is "DUAL Creature" on Thu, 30 Jul 2026.
 
 Dual is a music venue in Bangkok listed on soundcheck. 3 upcoming nights, with line-ups including DJ SHIKISAI, DukeDumb, Gishiyama and Hakim. and 2 more. Browse upcoming dates, start times and who's playing. Soi Naradhiwas Rajanagarindra 3, Si Lom, Bang Rak, Bangkok 10500.
 
@@ -16,4 +16,4 @@ Dual is a music venue in Bangkok listed on soundcheck. 3 upcoming nights, with l
 
 Soi Naradhiwas Rajanagarindra 3, Si Lom, Bang Rak, Bangkok 10500, Bangkok
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/bangkok/club/dual/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/bangkok/club/dual/)*

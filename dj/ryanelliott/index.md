@@ -1,14 +1,13 @@
 # Ryan Elliott
 
-Ryan Elliott is a House and Techno artist with 18 upcoming club dates listed on soundcheck as of Wed, 29 Jul 2026, next at Amsterdamse Bos, Amsterdam on Wed, 29 Jul 2026.
+Ryan Elliott is a House and Techno artist with 17 upcoming club dates listed on soundcheck as of Thu, 30 Jul 2026, next at TBA - Paradies Garten Festival - Schloß Prugg 2, 2460 Gemeinde Bruck an der Leitha, Vienna on Fri, 31 Jul 2026.
 
-Ryan Elliott is a house and techno artist tracked on soundcheck, with 238 sets logged across Amsterdam, Antwerp, Barcelona and Belfast and 56 more. Often billed alongside Ogazón, Christian AB and PARAMIDA. Next up: Amsterdamse Bos, Amsterdam on Wed 29 Jul.
+Ryan Elliott is a house and techno artist tracked on soundcheck, with 238 sets logged across Amsterdam, Antwerp, Barcelona and Belfast and 56 more. Often billed alongside Ogazón, Christian AB and PARAMIDA. Next up: TBA - Paradies Garten Festival - Schloß Prugg 2, 2460 Gemeinde Bruck an der Leitha, Vienna on Fri 31 Jul.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Wed, 29 Jul 2026 | Amsterdamse Bos | Amsterdam |
 | Fri, 31 Jul 2026 | TBA - Paradies Garten Festival - Schloß Prugg 2, 2460 Gemeinde Bruck an der Leitha | Vienna |
 | Fri, 31 Jul 2026 | BLITZ | Munich |
 | Fri, 31 Jul 2026 | Amsterdamse Bos | Amsterdam |
@@ -20,9 +19,11 @@ Ryan Elliott is a house and techno artist tracked on soundcheck, with 238 sets l
 | Mon, 24 Aug 2026 | DC-10 | Ibiza |
 | Fri, 4 Sept 2026 | Gewölbe | Cologne |
 | Sat, 5 Sept 2026 | Shelter Amsterdam | Amsterdam |
+| Tue, 8 Sept 2026 | Amnesia Ibiza | Ibiza |
 
 ## Recently played
 
+- Amsterdamse Bos, Amsterdam — Wed, 29 Jul 2026
 - Flevopark, Amsterdam — Sat, 25 Jul 2026
 - Fort Vechten, Utrecht — Sat, 25 Jul 2026
 - DC-10, Ibiza — Mon, 20 Jul 2026
@@ -30,10 +31,9 @@ Ryan Elliott is a house and techno artist tracked on soundcheck, with 238 sets l
 - Sophie Festival, Malaga — Sat, 11 Jul 2026
 - The Rooftop at Gianpula Village, Malta — Sun, 28 Jun 2026
 - Those Who Dance, Lisbon — Fri, 26 Jun 2026
-- BRET, Amsterdam — Fri, 19 Jun 2026
 
 ## Shares bills with
 
 Ogazón, Christian AB, PARAMIDA
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/ryanelliott/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/ryanelliott/)*

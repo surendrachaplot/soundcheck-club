@@ -1,6 +1,6 @@
 # EMBEE3
 
-EMBEE3 is a Drum & Bass and Dubstep artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at Wendel, Berlin on Sat, 26 Sept 2026.
+EMBEE3 is a Drum & Bass and Dubstep artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at Wendel, Berlin on Sat, 26 Sept 2026.
 
 EMBEE3 is a drum & bass and dubstep artist tracked on soundcheck, with 25 sets logged across Berlin. Often billed alongside Dj Quien, Felix Herrmann and Mogz. Next up: Wendel, Berlin on Sat 26 Sept.
 
@@ -25,4 +25,4 @@ EMBEE3 is a drum & bass and dubstep artist tracked on soundcheck, with 25 sets l
 
 Dj Quien, Felix Herrmann, Mogz
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/embee3/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/embee3/)*

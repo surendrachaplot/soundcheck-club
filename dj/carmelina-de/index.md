@@ -1,6 +1,6 @@
 # Carmelina
 
-Carmelina is a House and Minimal artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at Jardim do Èden, Lisbon on Fri, 31 Jul 2026.
+Carmelina is a House and Minimal artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at Jardim do Èden, Lisbon on Fri, 31 Jul 2026.
 
 Carmelina is a house and minimal artist tracked on soundcheck, with 10 sets logged across Berlin, Frankfurt and Lisbon. Often billed alongside Alexia (2), Elia Nafzger and Marc.. Next up: Jardim do Èden, Lisbon on Fri 31 Jul.
 
@@ -25,4 +25,4 @@ Carmelina is a house and minimal artist tracked on soundcheck, with 10 sets logg
 
 Alexia (2), Elia Nafzger, Marc.
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/carmelina-de/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/carmelina-de/)*

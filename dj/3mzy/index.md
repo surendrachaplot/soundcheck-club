@@ -1,6 +1,6 @@
 # 3MZY
 
-3MZY is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at Tuff Club, Singapore on Fri, 31 Jul 2026.
+3MZY is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at Tuff Club, Singapore on Fri, 31 Jul 2026.
 
 3MZY is a techno and house artist based in Singapore, tracked on soundcheck, with 35 sets logged across Singapore. Often billed alongside Halis, VAIBS and sho&tell. Next up: Tuff Club, Singapore on Fri 31 Jul.
 
@@ -25,4 +25,4 @@
 
 Halis, VAIBS, sho&tell
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/3mzy/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/3mzy/)*

@@ -1,6 +1,6 @@
 # fbw.archive
 
-fbw.archive is a Techno and Latin Bass artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at Angel Music Bar, Melbourne on Thu, 30 Jul 2026.
+fbw.archive is a Techno and Latin Bass artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at Angel Music Bar, Melbourne on Thu, 30 Jul 2026.
 
 fbw.archive is a techno and latin bass artist based in New Zealand, tracked on soundcheck, with 7 sets logged across Melbourne. Often billed alongside BIG SLIME, KALI (AU) and Brown Suga Princess. Next up: Angel Music Bar, Melbourne on Thu 30 Jul.
 
@@ -23,4 +23,4 @@ fbw.archive is a techno and latin bass artist based in New Zealand, tracked on s
 
 BIG SLIME, KALI (AU), Brown Suga Princess
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/fbw.archive/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/fbw.archive/)*

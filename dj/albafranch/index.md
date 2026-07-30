@@ -1,8 +1,8 @@
 # Alba Franch
 
-Alba Franch is a Techno and Trance artist with 5 upcoming club dates listed on soundcheck as of Wed, 29 Jul 2026, next at Bowlers Exhibition Centre, Manchester on Sat, 1 Aug 2026.
+Alba Franch is a Techno and Trance artist with 6 upcoming club dates listed on soundcheck as of Thu, 30 Jul 2026, next at Bowlers Exhibition Centre, Manchester on Sat, 1 Aug 2026.
 
-Alba Franch is a techno and trance artist tracked on soundcheck, with 138 sets logged across Amsterdam, Antwerp, Barcelona and Basel and 17 more. Often billed alongside davyboi, Gerardo Niva and Cleopard2000. Next up: Bowlers Exhibition Centre, Manchester on Sat 1 Aug.
+Alba Franch is a techno and trance artist tracked on soundcheck, with 139 sets logged across Amsterdam, Antwerp, Barcelona and Basel and 18 more. Often billed alongside davyboi, Gerardo Niva and Cleopard2000. Next up: Bowlers Exhibition Centre, Manchester on Sat 1 Aug.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Alba Franch is a techno and trance artist tracked on soundcheck, with 138 sets l
 | --- | --- | --- |
 | Sat, 1 Aug 2026 | Bowlers Exhibition Centre | Manchester |
 | Fri, 28 Aug 2026 | Dürener Badesee | Cologne |
+| Sat, 5 Sept 2026 | Grelle Forelle | Vienna |
 | Sat, 12 Sept 2026 | Mondo Open Air | Madrid |
 | Sat, 12 Sept 2026 | Mondo | Madrid |
 | Fri, 18 Sept 2026 | Bootshaus | Cologne |
@@ -29,4 +30,4 @@ Alba Franch is a techno and trance artist tracked on soundcheck, with 138 sets l
 
 davyboi, Gerardo Niva, Cleopard2000
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/albafranch/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/albafranch/)*

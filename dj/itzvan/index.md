@@ -1,6 +1,6 @@
 # Itzvan
 
-Itzvan is a House and Electronica artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at Fünk, Mexico City on Sat, 1 Aug 2026.
+Itzvan is a House and Electronica artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at Fünk, Mexico City on Sat, 1 Aug 2026.
 
 Itzvan is a house and electronica artist based in Mexico, tracked on soundcheck, with 38 sets logged across Losangeles and Mexicocity. Often billed alongside Itza Chacón, moog-lee and Ernest Duke. Next up: Fünk, Mexicocity on Sat 1 Aug.
 
@@ -25,4 +25,4 @@ Itzvan is a house and electronica artist based in Mexico, tracked on soundcheck,
 
 Itza Chacón, moog-lee, Ernest Duke
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/itzvan/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/itzvan/)*

@@ -1,6 +1,6 @@
 # Steph Tsunami
 
-Steph Tsunami is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at Gorg-O-Mish, Vancouver on Thu, 30 Jul 2026.
+Steph Tsunami is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at Gorg-O-Mish, Vancouver on Thu, 30 Jul 2026.
 
 Steph Tsunami is a house and techno artist based in Canada, tracked on soundcheck, with 12 sets logged across Vancouver. Often billed alongside Bÿständer, DJ Hockey and Kasey Riot. Next up: Gorg-O-Mish, Vancouver on Thu 30 Jul.
 
@@ -25,4 +25,4 @@ Steph Tsunami is a house and techno artist based in Canada, tracked on soundchec
 
 Bÿständer, DJ Hockey, Kasey Riot
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/stephtsunami/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/stephtsunami/)*

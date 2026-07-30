@@ -1,6 +1,6 @@
 # Xrysafeniax
 
-Xrysafeniax is a Electronica and Experimental artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at Gaswerksiedlung, Berlin on Sat, 1 Aug 2026.
+Xrysafeniax is a Electronica and Experimental artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at Gaswerksiedlung, Berlin on Sat, 1 Aug 2026.
 
 Xrysafeniax is an electronica and experimental artist based in Greece, tracked on soundcheck, with 2 sets logged across Athens and Berlin. Often billed alongside Burnt Friedman, Devika and Kenneth Scott. Next up: Gaswerksiedlung, Berlin on Sat 1 Aug.
 
@@ -18,4 +18,4 @@ Xrysafeniax is an electronica and experimental artist based in Greece, tracked o
 
 Burnt Friedman, Devika, Kenneth Scott
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/xrysafeniax/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/xrysafeniax/)*

@@ -1,18 +1,18 @@
 # Iris Leidenschaft
 
-Iris Leidenschaft is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Wed, 29 Jul 2026, next at Virage, Paris on Wed, 29 Jul 2026.
+Iris Leidenschaft is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at Renate, Berlin on Sat, 8 Aug 2026.
 
-Iris Leidenschaft is a techno and house artist tracked on soundcheck, with 12 sets logged across Berlin, Brussels, Madrid and Paris and 1 more. Often billed alongside Innexen, SAVBEA and VISNEACS. Next up: Virage, Paris on Wed 29 Jul.
+Iris Leidenschaft is a techno and house artist tracked on soundcheck, with 12 sets logged across Berlin, Brussels, Madrid and Paris and 1 more. Often billed alongside Innexen, SAVBEA and VISNEACS. Next up: Renate, Berlin on Sat 8 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Wed, 29 Jul 2026 | Virage | Paris |
 | Sat, 8 Aug 2026 | Renate | Berlin |
 
 ## Recently played
 
+- Virage, Paris — Wed, 29 Jul 2026
 - ÆDEN, Berlin — Thu, 23 Jul 2026
 - Cross Club, Prague — Sat, 27 Jun 2026
 - Cross Club, Prague — Sat, 27 Jun 2026
@@ -20,10 +20,9 @@ Iris Leidenschaft is a techno and house artist tracked on soundcheck, with 12 se
 - TBA - Powered by: Void Acoustics, Madrid — Sat, 20 Jun 2026
 - Jungle Bar, Brussels — Sat, 13 Jun 2026
 - Jonny Knüppel, Berlin — Fri, 12 Jun 2026
-- Jènemar Passéjure, Prague — Sat, 18 Oct 2025
 
 ## Shares bills with
 
 Innexen, SAVBEA, VISNEACS
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/irisleidenschaft/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/irisleidenschaft/)*

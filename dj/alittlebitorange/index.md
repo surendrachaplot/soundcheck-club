@@ -1,6 +1,6 @@
 # A Little Bit Orange
 
-A Little Bit Orange is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at Ramona, Manchester on Sat, 1 Aug 2026.
+A Little Bit Orange is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at Ramona, Manchester on Sat, 1 Aug 2026.
 
 A Little Bit Orange is a house and deep house artist based in United Kingdom, tracked on soundcheck, with 10 sets logged across Leeds and Manchester. Often billed alongside Sam Pratt, SAVANNAHH and KRÄFTY. Next up: Ramona, Manchester on Sat 1 Aug.
 
@@ -25,4 +25,4 @@ A Little Bit Orange is a house and deep house artist based in United Kingdom, tr
 
 Sam Pratt, SAVANNAHH, KRÄFTY
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/alittlebitorange/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/alittlebitorange/)*

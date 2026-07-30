@@ -1,6 +1,6 @@
 # O.B.F
 
-O.B.F is a Dub and Bass artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at TBA, Los Angeles on Sat, 15 Aug 2026.
+O.B.F is a Dub and Bass artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at TBA, Los Angeles on Sat, 15 Aug 2026.
 
 O.B.F is a dub and bass artist tracked on soundcheck, with 31 sets logged across Athens, Barcelona, Berlin and Bristol and 12 more. Often billed alongside Iration Steppas, Charlie P and Dubkasm. Next up: TBA, Losangeles on Sat 15 Aug.
 
@@ -25,4 +25,4 @@ O.B.F is a dub and bass artist tracked on soundcheck, with 31 sets logged across
 
 Iration Steppas, Charlie P, Dubkasm
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/obf/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/obf/)*

@@ -1,6 +1,6 @@
 # JULEEO
 
-JULEEO is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at Byhaven, Copenhagen on Sat, 15 Aug 2026.
+JULEEO is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at Byhaven, Copenhagen on Sat, 15 Aug 2026.
 
 JULEEO is a house and techno artist based in France, tracked on soundcheck, with 12 sets logged across Copenhagen and Paris. Often billed alongside NONSMASH, Cockwhore & Macho and Entree. Next up: Byhaven, Copenhagen on Sat 15 Aug.
 
@@ -25,4 +25,4 @@ JULEEO is a house and techno artist based in France, tracked on soundcheck, with
 
 NONSMASH, Cockwhore & Macho, Entree
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/juleeo/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/juleeo/)*

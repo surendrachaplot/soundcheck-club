@@ -1,6 +1,6 @@
 # Rob Cain
 
-Rob Cain is a Club and House artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at Adventure Coast, Southport, Liverpool on Sat, 1 Aug 2026.
+Rob Cain is a Club and House artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at Adventure Coast, Southport, Liverpool on Sat, 1 Aug 2026.
 
 Rob Cain is a club and house artist tracked on soundcheck, with 17 sets logged across Leeds and Liverpool. Often billed alongside Lee Butler, Paul Oh and Yannis G. Next up: Adventure Coast, Southport, Liverpool on Sat 1 Aug.
 
@@ -25,4 +25,4 @@ Rob Cain is a club and house artist tracked on soundcheck, with 17 sets logged a
 
 Lee Butler, Paul Oh, Yannis G
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/robcain/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/robcain/)*

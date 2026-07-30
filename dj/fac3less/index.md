@@ -1,6 +1,6 @@
 # Fac3less
 
-Fac3less is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at TBA - Berlin, Berlin on Thu, 13 Aug 2026.
+Fac3less is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at TBA - Berlin, Berlin on Thu, 13 Aug 2026.
 
 Fac3less is a techno and house artist based in Greece, tracked on soundcheck, with 18 sets logged across Athens, Berlin and Tokyo. Often billed alongside Squaric, Mr.M and Nikos Thanos. Next up: TBA - Berlin, Berlin on Thu 13 Aug.
 
@@ -25,4 +25,4 @@ Fac3less is a techno and house artist based in Greece, tracked on soundcheck, wi
 
 Squaric, Mr.M, Nikos Thanos
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/fac3less/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/fac3less/)*

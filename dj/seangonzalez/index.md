@@ -1,6 +1,6 @@
 # Sean Gonzalez
 
-Sean Gonzalez is a House and Dub Techno artist with 2 upcoming club dates listed on soundcheck as of Wed, 29 Jul 2026, next at arkaoda Berlin, Berlin on Thu, 27 Aug 2026.
+Sean Gonzalez is a House and Dub Techno artist with 2 upcoming club dates listed on soundcheck as of Thu, 30 Jul 2026, next at arkaoda Berlin, Berlin on Thu, 27 Aug 2026.
 
 Sean Gonzalez is a house and dub techno artist based in Bolivia, tracked on soundcheck, with 11 sets logged across Berlin and Newyorkcity. Often billed alongside Juan Diego Drouet, Baroma and Daniel Jaramillo. Next up: arkaoda Berlin, Berlin on Thu 27 Aug.
 
@@ -26,4 +26,4 @@ Sean Gonzalez is a house and dub techno artist based in Bolivia, tracked on soun
 
 Juan Diego Drouet, Baroma, Daniel Jaramillo
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/seangonzalez/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/seangonzalez/)*

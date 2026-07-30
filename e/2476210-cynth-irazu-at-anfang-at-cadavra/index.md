@@ -1,6 +1,6 @@
 # Cynth & Irazu at ANFANG at Cadavra
 
-Cynth & Irazu at ANFANG at Cadavra on Thu 30 Jul, Madrid. 3 acts on the bill: Cynth, Irazu and Safia (2). Techno. Preview the line-up and save it on soundcheck.
+Cynth & Irazu at ANFANG at Cadavra on Thu 30 Jul, Madrid. 4 acts on the bill: Cynth, Irazu, MYLAH and Safia (2). Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -12,6 +12,7 @@ Cynth & Irazu at ANFANG at Cadavra on Thu 30 Jul, Madrid. 3 acts on the bill: Cy
 
 - Cynth
 - Irazu
+- MYLAH
 - Safia (2)
 
 *Source: [soundcheck](https://soundcheck.club/e/2476210-cynth-irazu-at-anfang-at-cadavra/)*

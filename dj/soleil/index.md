@@ -1,6 +1,6 @@
 # SØLEIL
 
-SØLEIL is a Deep House and House artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at Gallery, London on Thu, 30 Jul 2026.
+SØLEIL is a Deep House and House artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at Gallery, London on Thu, 30 Jul 2026.
 
 SØLEIL is a deep house and house artist based in Sweden, tracked on soundcheck, with 5 sets logged across Amsterdam, Lisbon, London and Newyorkcity. Often billed alongside Dante, Andros and Antaares. Next up: Gallery, London on Thu 30 Jul.
 
@@ -21,4 +21,4 @@ SØLEIL is a deep house and house artist based in Sweden, tracked on soundcheck,
 
 Dante, Andros, Antaares
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/soleil/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/soleil/)*

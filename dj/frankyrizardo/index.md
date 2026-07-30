@@ -1,14 +1,13 @@
 # Franky Rizardo
 
-Franky Rizardo is a House and Tech House artist with 16 upcoming club dates listed on soundcheck as of Wed, 29 Jul 2026, next at Santanna Mykonos, Mykonos on Wed, 29 Jul 2026.
+Franky Rizardo is a House and Tech House artist with 15 upcoming club dates listed on soundcheck as of Thu, 30 Jul 2026, next at Malta Fairs & Conventions Centre, Malta on Sat, 1 Aug 2026.
 
-Franky Rizardo is a house and tech house artist tracked on soundcheck, with 231 sets logged across Amsterdam, Austin, Bali and Barcelona and 44 more. Often billed alongside Marco Carola, East End Dubs and Mason Collective. Next up: Santanna Mykonos, Mykonos on Wed 29 Jul.
+Franky Rizardo is a house and tech house artist tracked on soundcheck, with 231 sets logged across Amsterdam, Austin, Bali and Barcelona and 44 more. Often billed alongside Marco Carola, East End Dubs and Mason Collective. Next up: Malta Fairs & Conventions Centre, Malta on Sat 1 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Wed, 29 Jul 2026 | Santanna Mykonos | Mykonos |
 | Sat, 1 Aug 2026 | Malta Fairs & Conventions Centre | Malta |
 | Tue, 4 Aug 2026 | Hï Ibiza | Ibiza |
 | Sat, 8 Aug 2026 | Sloterpark | Amsterdam |
@@ -20,9 +19,11 @@ Franky Rizardo is a house and tech house artist tracked on soundcheck, with 231 
 | Sat, 5 Sept 2026 | Ushuaïa Ibiza | Ibiza |
 | Fri, 11 Sept 2026 | TBA | Brussels |
 | Wed, 23 Sept 2026 | [UNVRS] | Ibiza |
+| Fri, 25 Sept 2026 | Royale | Boston |
 
 ## Recently played
 
+- Santanna Mykonos, Mykonos — Wed, 29 Jul 2026
 - Pacha Ibiza, Ibiza — Fri, 24 Jul 2026
 - [UNVRS], Ibiza — Wed, 22 Jul 2026
 - Badewiese Naglikon, Zurich — Sat, 18 Jul 2026
@@ -30,10 +31,9 @@ Franky Rizardo is a house and tech house artist tracked on soundcheck, with 231 
 - Hembrugterrein, Amsterdam — Sat, 11 Jul 2026
 - Hï Ibiza, Ibiza — Tue, 7 Jul 2026
 - Son Fusteret, Mallorca — Sat, 4 Jul 2026
-- Maya Beach Experience, Naples — Fri, 3 Jul 2026
 
 ## Shares bills with
 
 Marco Carola, East End Dubs, Mason Collective
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/frankyrizardo/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/frankyrizardo/)*

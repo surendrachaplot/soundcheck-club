@@ -1,6 +1,6 @@
 # S Ruston
 
-S Ruston is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at Starlane Pizza Bar, London on Sun, 2 Aug 2026.
+S Ruston is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at Starlane Pizza Bar, London on Sun, 2 Aug 2026.
 
 S Ruston is a techno and house artist tracked on soundcheck, with 65 sets logged across Berlin, Copenhagen, Hongkong and Krakow and 6 more. Often billed alongside Ady Toledano, Frozilla and Vio PRG. Next up: Starlane Pizza Bar, London on Sun 2 Aug.
 
@@ -25,4 +25,4 @@ S Ruston is a techno and house artist tracked on soundcheck, with 65 sets logged
 
 Ady Toledano, Frozilla, Vio PRG
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/sruston/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/sruston/)*

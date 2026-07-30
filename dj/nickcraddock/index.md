@@ -1,6 +1,6 @@
 # Nick Craddock
 
-Nick Craddock is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at Jardim do Èden, Lisbon on Fri, 31 Jul 2026.
+Nick Craddock is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at Jardim do Èden, Lisbon on Fri, 31 Jul 2026.
 
 Nick Craddock is a house and techno artist tracked on soundcheck, with 21 sets logged across Lisbon. Often billed alongside Sibson, Ana Pacheco and Francisca Urbano. Next up: Jardim do Èden, Lisbon on Fri 31 Jul.
 
@@ -25,4 +25,4 @@ Nick Craddock is a house and techno artist tracked on soundcheck, with 21 sets l
 
 Sibson, Ana Pacheco, Francisca Urbano
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/nickcraddock/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/nickcraddock/)*

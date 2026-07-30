@@ -1,6 +1,6 @@
 # Stylus Rex
 
-Stylus Rex is a IDM and Electronica artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at Not For Sale Gallery, London on Fri, 14 Aug 2026.
+Stylus Rex is a IDM and Electronica artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at Not For Sale Gallery, London on Fri, 14 Aug 2026.
 
 Stylus Rex is an idm and electronica artist based in United Kingdom, tracked on soundcheck, with 5 sets logged across London. Often billed alongside 2 Bad Mice, ATOM UK and Alex Banks. Next up: Not For Sale Gallery, London on Fri 14 Aug.
 
@@ -21,4 +21,4 @@ Stylus Rex is an idm and electronica artist based in United Kingdom, tracked on 
 
 2 Bad Mice, ATOM UK, Alex Banks
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/stylusrex/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/stylusrex/)*

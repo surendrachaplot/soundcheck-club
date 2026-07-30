@@ -1,6 +1,6 @@
 # Tone Troy
 
-Tone Troy is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at House of Yes, New York City on Fri, 31 Jul 2026.
+Tone Troy is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at House of Yes, New York City on Fri, 31 Jul 2026.
 
 Tone Troy is a house and deep house artist based in United States of America, tracked on soundcheck, with 22 sets logged across Newyorkcity. Often billed alongside AG (NYC), Max Parkinson and Alex Raouf. Next up: House of Yes, Newyorkcity on Fri 31 Jul.
 
@@ -25,4 +25,4 @@ Tone Troy is a house and deep house artist based in United States of America, tr
 
 AG (NYC), Max Parkinson, Alex Raouf
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/tonetroy/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/tonetroy/)*

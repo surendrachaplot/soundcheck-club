@@ -1,6 +1,6 @@
 # Alen Aladin
 
-Alen Aladin is a House artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at 303 Audiophile Bar, Barcelona on Thu, 30 Jul 2026.
+Alen Aladin is a House artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at 303 Audiophile Bar, Barcelona on Thu, 30 Jul 2026.
 
 Alen Aladin is a house artist based in Spain, tracked on soundcheck, with 9 sets logged across Barcelona. Often billed alongside IVAN POSEIDON, LASK (2) and ACA (YU). Next up: 303 Audiophile Bar, Barcelona on Thu 30 Jul.
 
@@ -25,4 +25,4 @@ Alen Aladin is a house artist based in Spain, tracked on soundcheck, with 9 sets
 
 IVAN POSEIDON, LASK (2), ACA (YU)
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/alenaladin/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/alenaladin/)*

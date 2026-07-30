@@ -1,6 +1,6 @@
 # Rubén Seoane
 
-Rubén Seoane is a Techno and Industrial artist with 3 upcoming club dates listed on soundcheck as of Wed, 29 Jul 2026, next at Moog Club, Barcelona on Wed, 5 Aug 2026.
+Rubén Seoane is a Techno and Industrial artist with 3 upcoming club dates listed on soundcheck as of Thu, 30 Jul 2026, next at Moog Club, Barcelona on Wed, 5 Aug 2026.
 
 Rubén Seoane is a techno and industrial artist tracked on soundcheck, with 143 sets logged across Barcelona, Berlin, Madrid and Paris and 1 more. Often billed alongside uroz, Ancient Methods and DAVID LOST. Next up: Moog Club, Barcelona on Wed 5 Aug.
 
@@ -27,4 +27,4 @@ Rubén Seoane is a techno and industrial artist tracked on soundcheck, with 143 
 
 uroz, Ancient Methods, DAVID LOST
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/rubenseoane/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/rubenseoane/)*

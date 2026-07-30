@@ -1,6 +1,6 @@
 # Home Again x Rotkäppchen Picnic at Café am Neuen See at Café am Neuen See
 
-Home Again x Rotkäppchen Picnic at Café am Neuen See on Sat 1 Aug, Berlin. 5 acts on the bill: DJ Butterhands, Meggy, SALIMATA and Thabo and 1 more. House. Preview the line-up and save it on soundcheck.
+Home Again x Rotkäppchen Picnic at Café am Neuen See on Sat 1 Aug, Berlin. 5 acts on the bill: Butterhands, Meggy, SALIMATA and Thabo and 1 more. House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,7 +10,7 @@ Home Again x Rotkäppchen Picnic at Café am Neuen See on Sat 1 Aug, Berlin. 5 a
 
 ## Line-up
 
-- DJ Butterhands
+- Butterhands
 - Meggy
 - SALIMATA
 - Thabo

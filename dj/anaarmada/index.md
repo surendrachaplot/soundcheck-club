@@ -1,6 +1,6 @@
 # Ana Armada
 
-Ana Armada is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at YuYu Cine Club, Mexico City on Sat, 8 Aug 2026.
+Ana Armada is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at YuYu Cine Club, Mexico City on Sat, 8 Aug 2026.
 
 Ana Armada is a house and deep house artist based in Mexico, tracked on soundcheck, with 17 sets logged across Mexicocity. Often billed alongside Alejandro Veneno, Astroboii and Barreto. Next up: YuYu Cine Club, Mexicocity on Sat 8 Aug.
 
@@ -25,4 +25,4 @@ Ana Armada is a house and deep house artist based in Mexico, tracked on soundche
 
 Alejandro Veneno, Astroboii, Barreto
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/anaarmada/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/anaarmada/)*

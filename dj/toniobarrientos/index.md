@@ -1,6 +1,6 @@
 # Tonio Barrientos
 
-Tonio Barrientos is a Tech House and Electro artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at BLITZ, Munich on Fri, 31 Jul 2026.
+Tonio Barrientos is a Tech House and Electro artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at BLITZ, Munich on Fri, 31 Jul 2026.
 
 Tonio Barrientos is a tech house and electro artist based in Germany, tracked on soundcheck, with 14 sets logged across Berlin, Frankfurt and Munich. Often billed alongside Chris Di Perri, Alma Gold and Chicks Luv Us. Next up: BLITZ, Munich on Fri 31 Jul.
 
@@ -25,4 +25,4 @@ Tonio Barrientos is a tech house and electro artist based in Germany, tracked on
 
 Chris Di Perri, Alma Gold, Chicks Luv Us
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/toniobarrientos/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/toniobarrientos/)*

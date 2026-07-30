@@ -1,6 +1,6 @@
 # Robert Lippok
 
-Robert Lippok is a Experimental and Electronica artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at TBA - Rees/Haldern, Düsseldorf on Wed, 5 Aug 2026.
+Robert Lippok is a Experimental and Electronica artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at TBA - Rees/Haldern, Düsseldorf on Wed, 5 Aug 2026.
 
 Robert Lippok is an experimental and electronica artist based in Germany, tracked on soundcheck, with 8 sets logged across Berlin, Buenosaires, Dusseldorf and Leipzig and 2 more. Often billed alongside Ali M. Demirel, Alva Noto and Anushka Chkheidze. Next up: TBA - Rees/Haldern, Dusseldorf on Wed 5 Aug.
 
@@ -24,4 +24,4 @@ Robert Lippok is an experimental and electronica artist based in Germany, tracke
 
 Ali M. Demirel, Alva Noto, Anushka Chkheidze
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/robertlippok/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/robertlippok/)*

@@ -1,14 +1,15 @@
 # ngoma
 
-ngoma is a Techno and Bass artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at renae, Manchester on Thu, 13 Aug 2026.
+ngoma is a Minimal and Techno artist with 2 upcoming club dates listed on soundcheck as of Thu, 30 Jul 2026, next at renae, Manchester on Thu, 13 Aug 2026.
 
-ngoma is a techno and bass artist based in United Kingdom, tracked on soundcheck, with 19 sets logged across London, Manchester and Toronto. Often billed alongside Allius, Channell and Rhod Parry. Next up: renae, Manchester on Thu 13 Aug.
+ngoma is a minimal and techno artist based in United Kingdom, tracked on soundcheck, with 20 sets logged across London, Manchester and Toronto. Often billed alongside Allius, Cersy and Channell. Next up: renae, Manchester on Thu 13 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Thu, 13 Aug 2026 | renae | Manchester |
+| Sat, 19 Sept 2026 | Honey Street Studio | Manchester |
 
 ## Recently played
 
@@ -23,6 +24,6 @@ ngoma is a techno and bass artist based in United Kingdom, tracked on soundcheck
 
 ## Shares bills with
 
-Allius, Channell, Rhod Parry
+Allius, Cersy, Channell
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/ngoma/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/ngoma/)*

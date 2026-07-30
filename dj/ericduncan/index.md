@@ -1,6 +1,6 @@
 # Eric Duncan
 
-Eric Duncan is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at The Eagle, London on Sun, 2 Aug 2026.
+Eric Duncan is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at The Eagle, London on Sun, 2 Aug 2026.
 
 Eric Duncan is a house and disco artist tracked on soundcheck, with 48 sets logged across Athens, Bangkok, Belgrade and Berlin and 15 more. Often billed alongside FFAN, Future Feelings and Horse Meat Disco. Next up: The Eagle, London on Sun 2 Aug.
 
@@ -25,4 +25,4 @@ Eric Duncan is a house and disco artist tracked on soundcheck, with 48 sets logg
 
 FFAN, Future Feelings, Horse Meat Disco
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/ericduncan/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/ericduncan/)*

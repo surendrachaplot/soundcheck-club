@@ -1,13 +1,14 @@
 # Natx
 
-Natx is a Progressive House and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at Madam, Amsterdam on Fri, 21 Aug 2026.
+Natx is a Progressive House and Techno artist with 2 upcoming club dates listed on soundcheck as of Thu, 30 Jul 2026, next at John Doe, Amsterdam on Fri, 14 Aug 2026.
 
-Natx is a progressive house and techno artist based in Brazil, tracked on soundcheck, with 9 sets logged across Amsterdam. Often billed alongside Antonio Marki, COSMIC SAB and Usatov. Next up: Madam, Amsterdam on Fri 21 Aug.
+Natx is a progressive house and techno artist based in Brazil, tracked on soundcheck, with 10 sets logged across Amsterdam. Often billed alongside Antonio Marki, COSMIC SAB and Usatov. Next up: John Doe, Amsterdam on Fri 14 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 14 Aug 2026 | John Doe | Amsterdam |
 | Fri, 21 Aug 2026 | Madam | Amsterdam |
 
 ## Recently played
@@ -25,4 +26,4 @@ Natx is a progressive house and techno artist based in Brazil, tracked on soundc
 
 Antonio Marki, COSMIC SAB, Usatov
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/natx/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/natx/)*

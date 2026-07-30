@@ -1,6 +1,6 @@
 # ANĪC
 
-ANĪC is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at Bike Jesus, Prague on Sat, 1 Aug 2026.
+ANĪC is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at Bike Jesus, Prague on Sat, 1 Aug 2026.
 
 ANĪC is a house and techno artist based in Czech Republic, tracked on soundcheck, with 32 sets logged across Berlin and Prague. Often billed alongside Pete Walk, JB & FLESH and Pornbugs. Next up: Bike Jesus, Prague on Sat 1 Aug.
 
@@ -25,4 +25,4 @@ ANĪC is a house and techno artist based in Czech Republic, tracked on soundchec
 
 Pete Walk, JB & FLESH, Pornbugs
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/anic/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/anic/)*

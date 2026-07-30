@@ -1,6 +1,6 @@
 # Isaac Ferry
 
-Isaac Ferry is a Disco and House artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at Loft Studios, London on Sat, 19 Sept 2026.
+Isaac Ferry is a Disco and House artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at Loft Studios, London on Sat, 19 Sept 2026.
 
 Isaac Ferry is a disco and house artist based in United Kingdom, tracked on soundcheck, with 26 sets logged across Berlin, London, Mexicocity and Miami and 1 more. Often billed alongside Discolypso Crew, Dombrance and Rigopolar. Next up: Loft Studios, London on Sat 19 Sept.
 
@@ -25,4 +25,4 @@ Isaac Ferry is a disco and house artist based in United Kingdom, tracked on soun
 
 Discolypso Crew, Dombrance, Rigopolar
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/isaacferry/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/isaacferry/)*

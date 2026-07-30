@@ -1,6 +1,6 @@
 # Antares
 
-Antares is a House and Tech House artist with 2 upcoming club dates listed on soundcheck as of Wed, 29 Jul 2026, next at Maya Beach Experience, Naples on Sat, 1 Aug 2026.
+Antares is a House and Tech House artist with 2 upcoming club dates listed on soundcheck as of Thu, 30 Jul 2026, next at Maya Beach Experience, Naples on Sat, 1 Aug 2026.
 
 Antares is a house and tech house artist based in Italy, tracked on soundcheck, with 15 sets logged across Antwerp, Ibiza, London and Mexicocity and 2 more. Often billed alongside Balzar, Auric and WARRE. Next up: Maya Beach Experience, Naples on Sat 1 Aug.
 
@@ -26,4 +26,4 @@ Antares is a house and tech house artist based in Italy, tracked on soundcheck, 
 
 Balzar, Auric, WARRE
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/antares/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/antares/)*

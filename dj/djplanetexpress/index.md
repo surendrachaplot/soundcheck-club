@@ -1,6 +1,6 @@
 # DJ Planet Express
 
-DJ Planet Express is a House and Trance artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at Radius, Chicago on Thu, 30 Jul 2026.
+DJ Planet Express is a House and Trance artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at Radius, Chicago on Thu, 30 Jul 2026.
 
 DJ Planet Express is a house and trance artist tracked on soundcheck, with 18 sets logged across Barcelona, Belfast, Chicago and Glasgow and 7 more. Often billed alongside Choirboi, No_4mat and Paluma Sound. Next up: Radius, Chicago on Thu 30 Jul.
 
@@ -25,4 +25,4 @@ DJ Planet Express is a house and trance artist tracked on soundcheck, with 18 se
 
 Choirboi, No_4mat, Paluma Sound
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/djplanetexpress/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/djplanetexpress/)*

@@ -1,6 +1,6 @@
 # Eichenbaum
 
-Eichenbaum is a Progressive House and House artist with 4 upcoming club dates listed on soundcheck as of Wed, 29 Jul 2026, next at Het Sieraad, Amsterdam on Fri, 7 Aug 2026.
+Eichenbaum is a Progressive House and House artist with 4 upcoming club dates listed on soundcheck as of Thu, 30 Jul 2026, next at Het Sieraad, Amsterdam on Fri, 7 Aug 2026.
 
 Eichenbaum is a progressive house and house artist tracked on soundcheck, with 17 sets logged across Amsterdam, Antwerp, Auckland and Budapest and 2 more. Often billed alongside Guy J, Sasha and Franky Wah. Next up: Het Sieraad, Amsterdam on Fri 7 Aug.
 
@@ -28,4 +28,4 @@ Eichenbaum is a progressive house and house artist tracked on soundcheck, with 1
 
 Guy J, Sasha, Franky Wah
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/eichenbaum/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/eichenbaum/)*

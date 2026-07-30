@@ -1,6 +1,6 @@
 # Ari (AU)
 
-Ari (AU) is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at Solace, Melbourne on Fri, 31 Jul 2026.
+Ari (AU) is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at Solace, Melbourne on Fri, 31 Jul 2026.
 
 Ari (AU) is a techno and house artist based in Australia, tracked on soundcheck, with 6 sets logged across Melbourne. Often billed alongside Kait Xri, AMY. and BENZA. Next up: Solace, Melbourne on Fri 31 Jul.
 
@@ -22,4 +22,4 @@ Ari (AU) is a techno and house artist based in Australia, tracked on soundcheck,
 
 Kait Xri, AMY., BENZA
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/ariau/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/ariau/)*

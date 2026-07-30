@@ -1,6 +1,6 @@
 # Mel (FR)
 
-Mel (FR) is a Techno and Tech House artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at TBA - Paris, Paris on Fri, 18 Sept 2026.
+Mel (FR) is a Techno and Tech House artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at TBA - Paris, Paris on Fri, 18 Sept 2026.
 
 Mel (FR) is a techno and tech house artist tracked on soundcheck, with 10 sets logged across Paris and Strasbourg. Often billed alongside Mathiou, 1client and B. McQueen. Next up: TBA - Paris, Paris on Fri 18 Sept.
 
@@ -25,4 +25,4 @@ Mel (FR) is a techno and tech house artist tracked on soundcheck, with 10 sets l
 
 Mathiou, 1client, B. McQueen
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/mel-fr/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/mel-fr/)*

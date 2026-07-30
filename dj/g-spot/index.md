@@ -1,6 +1,6 @@
 # G-Spot
 
-G-Spot is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Wed, 29 Jul 2026, next at Signature Brew Blackhorse Road, London on Sat, 1 Aug 2026.
+G-Spot is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Thu, 30 Jul 2026, next at Signature Brew Blackhorse Road, London on Sat, 1 Aug 2026.
 
 G-Spot is a techno and house artist based in United Kingdom, tracked on soundcheck, with 4 sets logged across Leeds and London. Often billed alongside Benebe, Kafn and Drastic Shuffle. Next up: Signature Brew Blackhorse Road, London on Sat 1 Aug.
 
@@ -20,4 +20,4 @@ G-Spot is a techno and house artist based in United Kingdom, tracked on soundche
 
 Benebe, Kafn, Drastic Shuffle
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/g-spot/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/g-spot/)*

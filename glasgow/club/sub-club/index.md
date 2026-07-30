@@ -1,6 +1,6 @@
 # Sub Club
 
-Sub Club is a music venue in Glasgow with 21 upcoming nights listed on soundcheck as of Wed, 29 Jul 2026; the next is "Frazi.er Open To Close Returns" on Fri, 31 Jul 2026.
+Sub Club is a music venue in Glasgow with 21 upcoming nights listed on soundcheck as of Thu, 30 Jul 2026; the next is "Frazi.er Open To Close Returns" on Fri, 31 Jul 2026.
 
 Sub Club is a music venue in Glasgow listed on soundcheck. 21 upcoming nights, with line-ups including Acido Cielo, Breathe, Cinthie and Dean Turnley and 2 more. Browse upcoming dates, start times and who's playing. 22 Jamaica St; Glasgow, G1 4QD; Scotland; United Kingdom.
 
@@ -23,4 +23,4 @@ Sub Club is a music venue in Glasgow listed on soundcheck. 21 upcoming nights, w
 
 22 Jamaica St; Glasgow, G1 4QD; Scotland; United Kingdom, Glasgow
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/glasgow/club/sub-club/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/glasgow/club/sub-club/)*

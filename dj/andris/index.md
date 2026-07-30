@@ -1,6 +1,6 @@
 # andris
 
-andris is a Techno and Hardcore artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at Supermarket, Zurich on Fri, 31 Jul 2026.
+andris is a Techno and Hardcore artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at Supermarket, Zurich on Fri, 31 Jul 2026.
 
 andris is a techno and hardcore artist based in Switzerland, tracked on soundcheck, with 27 sets logged across Basel, Budapest, Krakow and Vienna and 1 more. Often billed alongside Galopp, yves and BRAINDAAMAGE. Next up: Supermarket, Zurich on Fri 31 Jul.
 
@@ -25,4 +25,4 @@ andris is a techno and hardcore artist based in Switzerland, tracked on soundche
 
 Galopp, yves, BRAINDAAMAGE
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/andris/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/andris/)*

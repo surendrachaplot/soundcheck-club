@@ -1,8 +1,8 @@
 # DJ Garth
 
-DJ Garth is a House and Disco artist with 4 upcoming club dates listed on soundcheck as of Wed, 29 Jul 2026, next at The Monkey Loft, Seattle on Thu, 6 Aug 2026.
+DJ Garth is a House and Disco artist with 5 upcoming club dates listed on soundcheck as of Thu, 30 Jul 2026, next at The Monkey Loft, Seattle on Thu, 6 Aug 2026.
 
-DJ Garth is a house and disco artist based in United States of America, tracked on soundcheck, with 23 sets logged across Losangeles, Osaka, Sandiego and Sanfrancisco and 3 more. Often billed alongside DJ M3, Galen and Aaron F. Next up: The Monkey Loft, Seattle on Thu 6 Aug.
+DJ Garth is a house and disco artist based in United States of America, tracked on soundcheck, with 24 sets logged across Losangeles, Osaka, Sandiego and Sanfrancisco and 3 more. Often billed alongside DJ M3, Galen and Aaron F. Next up: The Monkey Loft, Seattle on Thu 6 Aug.
 
 ## Upcoming shows
 
@@ -12,6 +12,7 @@ DJ Garth is a house and disco artist based in United States of America, tracked 
 | Sat, 8 Aug 2026 | Mitsuki | Tokyo |
 | Fri, 14 Aug 2026 | BAR Inc | Osaka |
 | Sat, 15 Aug 2026 | Nyapi | Seoul |
+| Fri, 21 Aug 2026 | The Great Northern | San Francisco/Oakland |
 
 ## Recently played
 
@@ -28,4 +29,4 @@ DJ Garth is a house and disco artist based in United States of America, tracked 
 
 DJ M3, Galen, Aaron F
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/djgarth/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/djgarth/)*

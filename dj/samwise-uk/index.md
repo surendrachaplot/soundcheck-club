@@ -1,6 +1,6 @@
 # Sam Wise
 
-Sam Wise is a Electronica and House artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at TBA - Hollywood Park adjacent to SoFi Stadium, Los Angeles on Sat, 1 Aug 2026.
+Sam Wise is a Electronica and House artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at TBA - Hollywood Park adjacent to SoFi Stadium, Los Angeles on Sat, 1 Aug 2026.
 
 Sam Wise is an electronica and house artist based in United Kingdom, tracked on soundcheck, with 3 sets logged across Austin, London and Losangeles. Often billed alongside 10cust, 1tbsp and ATRIP. Next up: TBA - Hollywood Park adjacent to SoFi Stadium, Losangeles on Sat 1 Aug.
 
@@ -19,4 +19,4 @@ Sam Wise is an electronica and house artist based in United Kingdom, tracked on 
 
 10cust, 1tbsp, ATRIP
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/samwise-uk/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/samwise-uk/)*

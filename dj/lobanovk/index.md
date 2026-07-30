@@ -1,6 +1,6 @@
 # Lobanov K.
 
-Lobanov K. is a Techno and Tech House artist with 2 upcoming club dates listed on soundcheck as of Wed, 29 Jul 2026, next at Club der Visionaere, Berlin on Fri, 31 Jul 2026.
+Lobanov K. is a Techno and Tech House artist with 2 upcoming club dates listed on soundcheck as of Thu, 30 Jul 2026, next at Club der Visionaere, Berlin on Fri, 31 Jul 2026.
 
 Lobanov K. is a techno and tech house artist based in Ukraine, tracked on soundcheck, with 6 sets logged across Berlin, Lisbon and Prague. Often billed alongside Timur Basha, Ponura and DMX Krew. Next up: Club der Visionaere, Berlin on Fri 31 Jul.
 
@@ -22,4 +22,4 @@ Lobanov K. is a techno and tech house artist based in Ukraine, tracked on soundc
 
 Timur Basha, Ponura, DMX Krew
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/lobanovk/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/lobanovk/)*

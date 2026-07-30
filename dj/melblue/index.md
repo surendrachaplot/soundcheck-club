@@ -1,6 +1,6 @@
 # Mel Blue
 
-Mel Blue is a Electronica and Garage artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at The Beresford Hotel, Sydney on Sat, 5 Sept 2026.
+Mel Blue is a Electronica and Garage artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at The Beresford Hotel, Sydney on Sat, 5 Sept 2026.
 
 Mel Blue is an electronica and garage artist based in Australia, tracked on soundcheck, with 3 sets logged across Melbourne and Sydney. Often billed alongside Kali, Loods and Reenie. Next up: The Beresford Hotel, Sydney on Sat 5 Sept.
 
@@ -19,4 +19,4 @@ Mel Blue is an electronica and garage artist based in Australia, tracked on soun
 
 Kali, Loods, Reenie
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/melblue/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/melblue/)*

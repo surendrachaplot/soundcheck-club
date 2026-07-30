@@ -1,6 +1,6 @@
 # Mr.Ciao
 
-Mr.Ciao is a Techno and Tech House artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at Hinterhof Mitte, Berlin on Fri, 31 Jul 2026.
+Mr.Ciao is a Techno and Tech House artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at Hinterhof Mitte, Berlin on Fri, 31 Jul 2026.
 
 Mr.Ciao is a techno and tech house artist based in Germany, tracked on soundcheck, with 9 sets logged across Berlin, Cologne, Hamburg and Munich and 1 more. Often billed alongside Konfusia, Aio and Krawalle und Liebe. Next up: Hinterhof Mitte, Berlin on Fri 31 Jul.
 
@@ -25,4 +25,4 @@ Mr.Ciao is a techno and tech house artist based in Germany, tracked on soundchec
 
 Konfusia, Aio, Krawalle und Liebe
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/mr.ciao/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/mr.ciao/)*

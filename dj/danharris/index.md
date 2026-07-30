@@ -1,13 +1,14 @@
 # Dan Harris
 
-Dan Harris is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at Renate, Berlin on Sat, 8 Aug 2026.
+Dan Harris is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Thu, 30 Jul 2026, next at Ikii, Berlin on Wed, 5 Aug 2026.
 
-Dan Harris is a house and techno artist based in United States of America, tracked on soundcheck, with 4 sets logged across Bali, Berlin and Sanfrancisco. Often billed alongside Aceedo, Adis Is OK and Bon Public. Next up: Renate, Berlin on Sat 8 Aug.
+Dan Harris is a house and techno artist based in United States of America, tracked on soundcheck, with 5 sets logged across Bali, Berlin and Sanfrancisco. Often billed alongside Vio PRG, Aceedo and Adis Is OK. Next up: Ikii, Berlin on Wed 5 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Wed, 5 Aug 2026 | Ikii | Berlin |
 | Sat, 8 Aug 2026 | Renate | Berlin |
 
 ## Recently played
@@ -18,6 +19,6 @@ Dan Harris is a house and techno artist based in United States of America, track
 
 ## Shares bills with
 
-Aceedo, Adis Is OK, Bon Public
+Vio PRG, Aceedo, Adis Is OK
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/danharris/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/danharris/)*

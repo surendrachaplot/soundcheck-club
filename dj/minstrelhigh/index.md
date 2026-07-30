@@ -1,6 +1,6 @@
 # Minstrel High
 
-Minstrel High is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at Ibiza Boat Party, Ibiza on Sat, 8 Aug 2026.
+Minstrel High is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at Ibiza Boat Party, Ibiza on Sat, 8 Aug 2026.
 
 Minstrel High is a house and tech house artist based in Netherlands, tracked on soundcheck, with 10 sets logged across Barcelona, Ibiza and Istanbul. Often billed alongside Yezz. Next up: Ibiza Boat Party, Ibiza on Sat 8 Aug.
 
@@ -25,4 +25,4 @@ Minstrel High is a house and tech house artist based in Netherlands, tracked on 
 
 Yezz
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/minstrelhigh/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/minstrelhigh/)*

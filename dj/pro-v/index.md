@@ -1,6 +1,6 @@
 # Pro-V
 
-Pro-V is a R&B and Hip-Hop artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at Vino Disco, Montreal on Thu, 30 Jul 2026.
+Pro-V is a R&B and Hip-Hop artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at Vino Disco, Montreal on Thu, 30 Jul 2026.
 
 Pro-V is a r&b and hip-hop artist based in Canada, tracked on soundcheck, with 30 sets logged across Montreal. Often billed alongside Andie, Alina (MTL) and Destiny (CA). Next up: Vino Disco, Montreal on Thu 30 Jul.
 
@@ -25,4 +25,4 @@ Pro-V is a r&b and hip-hop artist based in Canada, tracked on soundcheck, with 3
 
 Andie, Alina (MTL), Destiny (CA)
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/pro-v/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/pro-v/)*

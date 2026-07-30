@@ -1,6 +1,6 @@
 # Polar Inertia
 
-Polar Inertia is a Techno and Bass artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at Lofi, Amsterdam on Sat, 15 Aug 2026.
+Polar Inertia is a Techno and Bass artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at Lofi, Amsterdam on Sat, 15 Aug 2026.
 
 Polar Inertia is a techno and bass artist based in France, tracked on soundcheck, with 26 sets logged across Amsterdam, Athens, Barcelona and Belgrade and 11 more. Often billed alongside Priori, Anthony Linell and A Strange Wedding. Next up: Lofi, Amsterdam on Sat 15 Aug.
 
@@ -25,4 +25,4 @@ Polar Inertia is a techno and bass artist based in France, tracked on soundcheck
 
 Priori, Anthony Linell, A Strange Wedding
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/polarinertia/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/polarinertia/)*

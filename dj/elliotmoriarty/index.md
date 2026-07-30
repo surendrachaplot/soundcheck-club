@@ -1,6 +1,6 @@
 # Elliot Moriarty
 
-Elliot Moriarty is a Progressive House and House artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at E1, London on Sat, 15 Aug 2026.
+Elliot Moriarty is a Progressive House and House artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at E1, London on Sat, 15 Aug 2026.
 
 Elliot Moriarty is a progressive house and house artist tracked on soundcheck, with 17 sets logged across Amsterdam, Budapest, Chicago and Copenhagen and 4 more. Often billed alongside AKIVA, Andy Woldman and Around Us. Next up: E1, London on Sat 15 Aug.
 
@@ -25,4 +25,4 @@ Elliot Moriarty is a progressive house and house artist tracked on soundcheck, w
 
 AKIVA, Andy Woldman, Around Us
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/elliotmoriarty/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/elliotmoriarty/)*

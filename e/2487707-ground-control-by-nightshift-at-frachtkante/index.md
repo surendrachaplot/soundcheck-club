@@ -1,6 +1,6 @@
 # Ground Control by Nightshift at frachtkante
 
-Ground Control by Nightshift at frachtkante on Sat 1 Aug, Berlin. 5 acts on the bill: Berunth, Dyslexi, karete bu and Stoshka and 1 more. House. Preview the line-up and save it on soundcheck.
+Ground Control by Nightshift at frachtkante on Sat 1 Aug, Berlin. 6 acts on the bill: Berunth, Dyslexi, Hannie Phi and karete bu and 2 more. House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -12,6 +12,7 @@ Ground Control by Nightshift at frachtkante on Sat 1 Aug, Berlin. 5 acts on the 
 
 - Berunth
 - Dyslexi
+- Hannie Phi
 - karete bu
 - Stoshka
 - Yukon Nature

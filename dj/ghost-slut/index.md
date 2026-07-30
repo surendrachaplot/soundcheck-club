@@ -1,6 +1,6 @@
 # ghost.slut
 
-ghost.slut is a Techno and Club artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at Bastet, Philadelphia on Sat, 1 Aug 2026.
+ghost.slut is a Techno and Club artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at Bastet, Philadelphia on Sat, 1 Aug 2026.
 
 ghost.slut is a techno and club artist based in United States of America, tracked on soundcheck, with 17 sets logged across Philadelphia. Often billed alongside Phreakwency, low iron and Nail Salon (2). Next up: Bastet, Philadelphia on Sat 1 Aug.
 
@@ -25,4 +25,4 @@ ghost.slut is a techno and club artist based in United States of America, tracke
 
 Phreakwency, low iron, Nail Salon (2)
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/ghost-slut/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/ghost-slut/)*

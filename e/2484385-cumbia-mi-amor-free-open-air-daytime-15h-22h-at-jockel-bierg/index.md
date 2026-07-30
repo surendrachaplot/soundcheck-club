@@ -1,0 +1,15 @@
+# CUMBIA MI AMOR - FREE OPEN AIR DAYTIME 15h - 22h at Jockel Biergarten
+
+CUMBIA MI AMOR - FREE OPEN AIR DAYTIME 15h - 22h at Jockel Biergarten on Sat 1 Aug, Berlin. 1 act on the bill: ORIOL //. Disco and Reggaeton. Preview the line-up and save it on soundcheck.
+
+| Field | Value |
+| --- | --- |
+| Date | Sat, 1 Aug 2026 |
+| Venue | Jockel Biergarten |
+| City | Berlin |
+
+## Line-up
+
+- ORIOL //
+
+*Source: [soundcheck](https://soundcheck.club/e/2484385-cumbia-mi-amor-free-open-air-daytime-15h-22h-at-jockel-bierg/)*

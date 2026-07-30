@@ -1,6 +1,6 @@
 # Sunny K
 
-Sunny K is a Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at Tigullio, Malta on Thu, 30 Jul 2026.
+Sunny K is a Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at Tigullio, Malta on Thu, 30 Jul 2026.
 
 Sunny K is a techno artist based in Colombia, tracked on soundcheck, with 4 sets logged across Losangeles, Malta and Newyorkcity. Often billed alongside AISHA, Blakeys and Briela Veneno. Next up: Tigullio, Malta on Thu 30 Jul.
 
@@ -20,4 +20,4 @@ Sunny K is a techno artist based in Colombia, tracked on soundcheck, with 4 sets
 
 AISHA, Blakeys, Briela Veneno
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/sunnyk/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/sunnyk/)*

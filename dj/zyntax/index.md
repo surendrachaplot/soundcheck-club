@@ -1,6 +1,6 @@
 # ZYNTAX
 
-ZYNTAX is a Gabber and Hardcore artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at Astra Kulturhaus, Berlin on Fri, 31 Jul 2026.
+ZYNTAX is a Gabber and Hardcore artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at Astra Kulturhaus, Berlin on Fri, 31 Jul 2026.
 
 ZYNTAX is a gabber and hardcore artist based in Germany, tracked on soundcheck, with 29 sets logged across Berlin. Often billed alongside m4tsch1, Makinarium and XIMA. Next up: Astra Kulturhaus, Berlin on Fri 31 Jul.
 
@@ -25,4 +25,4 @@ ZYNTAX is a gabber and hardcore artist based in Germany, tracked on soundcheck, 
 
 m4tsch1, Makinarium, XIMA
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/zyntax/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/zyntax/)*

@@ -1,6 +1,6 @@
 # Màrelle
 
-Màrelle is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at Tiki Rock, Boston on Thu, 30 Jul 2026.
+Màrelle is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at Tiki Rock, Boston on Thu, 30 Jul 2026.
 
 Màrelle is a house and techno artist based in United States of America, tracked on soundcheck, with 24 sets logged across Boston and Lyon. Often billed alongside Alex Slater, Elizabëth and prekuro. Next up: Tiki Rock, Boston on Thu 30 Jul.
 
@@ -25,4 +25,4 @@ Màrelle is a house and techno artist based in United States of America, tracked
 
 Alex Slater, Elizabëth, prekuro
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/màrelle/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/màrelle/)*

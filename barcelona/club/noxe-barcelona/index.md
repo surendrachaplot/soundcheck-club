@@ -1,14 +1,13 @@
 # Noxe Barcelona
 
-Noxe Barcelona is a music venue in Barcelona with 7 upcoming nights listed on soundcheck as of Wed, 29 Jul 2026; the next is "Housy at Noxe (26th floor W Barcelona)" on Wed, 29 Jul 2026.
+Noxe Barcelona is a music venue in Barcelona with 6 upcoming nights listed on soundcheck as of Thu, 30 Jul 2026; the next is "HOPE at Noxe (26th floor W Barcelona)" on Thu, 30 Jul 2026.
 
-Noxe Barcelona is a music venue in Barcelona listed on soundcheck. 7 upcoming nights, with line-ups including Eric Yanguas, GIVIO, Nesi and Sarah Andersson. Browse upcoming dates, start times and who's playing. Plaça Rosa Del Vents 1, Final, Pg. de Joan de Borbó, 08039 Barcelona.
+Noxe Barcelona is a music venue in Barcelona listed on soundcheck. 6 upcoming nights, with line-ups including Eric Yanguas and Nesi. Browse upcoming dates, start times and who's playing. Plaça Rosa Del Vents 1, Final, Pg. de Joan de Borbó, 08039 Barcelona.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Wed, 29 Jul 2026 | Housy at Noxe (26th floor W Barcelona) | GIVIO, Sarah Andersson |
 | Thu, 30 Jul 2026 | HOPE at Noxe (26th floor W Barcelona) | Eric Yanguas, Nesi |
 | Mon, 3 Aug 2026 | Skylab at Noxe (26th floor W Barcelona) | Nesi |
 | Mon, 10 Aug 2026 | Skylab at Noxe (26th floor W Barcelona) | Nesi |
@@ -20,4 +19,4 @@ Noxe Barcelona is a music venue in Barcelona listed on soundcheck. 7 upcoming ni
 
 Plaça Rosa Del Vents 1, Final, Pg. de Joan de Borbó, 08039 Barcelona, Barcelona
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/noxe-barcelona/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/noxe-barcelona/)*

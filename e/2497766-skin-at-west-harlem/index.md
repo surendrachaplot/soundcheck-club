@@ -1,6 +1,6 @@
 # skin at West Harlem
 
-skin at West Harlem on Sat 1 Aug, Kyoto. 2 acts on the bill: MiИAMi and rimi. Dub and Afrobeat. Preview the line-up and save it on soundcheck.
+skin at West Harlem on Sat 1 Aug, Kyoto. 2 acts on the bill: MiИAMi and rimi. Afrobeat and Dub. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

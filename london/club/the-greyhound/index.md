@@ -1,8 +1,8 @@
 # The Greyhound
 
-The Greyhound is a music venue in London with 14 upcoming nights listed on soundcheck as of Wed, 29 Jul 2026; the next is "Jeshi + Fonzo + Just Lil + Crash Tracy" on Fri, 31 Jul 2026.
+The Greyhound is a music venue in London with 15 upcoming nights listed on soundcheck as of Thu, 30 Jul 2026; the next is "Jeshi + Fonzo + Just Lil + Crash Tracy" on Fri, 31 Jul 2026.
 
-The Greyhound is a music venue in London listed on soundcheck. 14 upcoming nights, with line-ups including ALNA, arawzi, BBBB (2) and Black Devil Disco Club and 2 more. Browse upcoming dates, start times and who's playing. 109 Peckham High St, London SE15 5SE.
+The Greyhound is a music venue in London listed on soundcheck. 15 upcoming nights, with line-ups including ALNA, arawzi, BBBB (2) and Black Devil Disco Club and 2 more. Browse upcoming dates, start times and who's playing. 109 Peckham High St, London SE15 5SE.
 
 ## What's on
 
@@ -23,4 +23,4 @@ The Greyhound is a music venue in London listed on soundcheck. 14 upcoming night
 
 109 Peckham High St, London SE15 5SE, London
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/london/club/the-greyhound/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/london/club/the-greyhound/)*

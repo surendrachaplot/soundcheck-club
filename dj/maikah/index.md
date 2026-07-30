@@ -1,6 +1,6 @@
 # Mai Kah
 
-Mai Kah is a Techno and Dub Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at Collingwood Basement, Melbourne on Fri, 31 Jul 2026.
+Mai Kah is a Techno and Dub Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at Collingwood Basement, Melbourne on Fri, 31 Jul 2026.
 
 Mai Kah is a techno and dub techno artist based in Australia, tracked on soundcheck, with 5 sets logged across Melbourne. Often billed alongside Pharis, Shani and Blană. Next up: Collingwood Basement, Melbourne on Fri 31 Jul.
 
@@ -21,4 +21,4 @@ Mai Kah is a techno and dub techno artist based in Australia, tracked on soundch
 
 Pharis, Shani, Blană
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/maikah/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/maikah/)*

@@ -1,6 +1,6 @@
 # JJ OKOCHA
 
-JJ OKOCHA is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at TBA - INNER WEST, Sydney on Sat, 1 Aug 2026.
+JJ OKOCHA is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at TBA - INNER WEST, Sydney on Sat, 1 Aug 2026.
 
 JJ OKOCHA is a techno and trance artist based in Australia, tracked on soundcheck, with 2 sets logged across Sydney. Often billed alongside Box Elder, Cloudy Ku and Willem (AU). Next up: TBA - INNER WEST, Sydney on Sat 1 Aug.
 
@@ -18,4 +18,4 @@ JJ OKOCHA is a techno and trance artist based in Australia, tracked on soundchec
 
 Box Elder, Cloudy Ku, Willem (AU)
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/jjokocha/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/jjokocha/)*

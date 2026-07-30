@@ -1,14 +1,15 @@
 # Pacific Coliseum
 
-Pacific Coliseum is a Balearic and House artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at Fortune Sound Club, Vancouver on Fri, 31 Jul 2026.
+Pacific Coliseum is a Balearic and House artist with 2 upcoming club dates listed on soundcheck as of Thu, 30 Jul 2026, next at Fortune Sound Club, Vancouver on Fri, 31 Jul 2026.
 
-Pacific Coliseum is a balearic and house artist based in Canada, tracked on soundcheck, with 19 sets logged across Losangeles, Toronto and Vancouver. Often billed alongside Teen Daze, DJ D.Dee and Dane. Next up: Fortune Sound Club, Vancouver on Fri 31 Jul.
+Pacific Coliseum is a balearic and house artist based in Canada, tracked on soundcheck, with 20 sets logged across Losangeles, Toronto and Vancouver. Often billed alongside Teen Daze, DJ D.Dee and Dane. Next up: Fortune Sound Club, Vancouver on Fri 31 Jul.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 31 Jul 2026 | Fortune Sound Club | Vancouver |
+| Thu, 6 Aug 2026 | Fortune Sound Club | Vancouver |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ Pacific Coliseum is a balearic and house artist based in Canada, tracked on soun
 
 Teen Daze, DJ D.Dee, Dane
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/pacificcoliseum/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/pacificcoliseum/)*

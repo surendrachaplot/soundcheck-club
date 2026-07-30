@@ -1,6 +1,6 @@
 # BOMBO
 
-BOMBO is a Footwork and Dancehall artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at M.O.T, London on Sun, 2 Aug 2026.
+BOMBO is a Footwork and Dancehall artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at M.O.T, London on Sun, 2 Aug 2026.
 
 BOMBO is a footwork and dancehall artist based in United Kingdom, tracked on soundcheck, with 9 sets logged across London and Mexicocity. Often billed alongside SANA, CRAIC DAVID and Lutsu. Next up: M.O.T, London on Sun 2 Aug.
 
@@ -25,4 +25,4 @@ BOMBO is a footwork and dancehall artist based in United Kingdom, tracked on sou
 
 SANA, CRAIC DAVID, Lutsu
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/bombo/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/bombo/)*

@@ -1,6 +1,6 @@
 # arnie
 
-arnie is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at Grow, London on Fri, 31 Jul 2026.
+arnie is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at Grow, London on Fri, 31 Jul 2026.
 
 arnie is a house and tech house artist based in United Kingdom, tracked on soundcheck, with 10 sets logged across Berlin, Bristol, Edinburgh and Glasgow and 2 more. Often billed alongside DJ Bz, Doogi and eosap. Next up: Grow, London on Fri 31 Jul.
 
@@ -25,4 +25,4 @@ arnie is a house and tech house artist based in United Kingdom, tracked on sound
 
 DJ Bz, Doogi, eosap
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/arnie/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/arnie/)*

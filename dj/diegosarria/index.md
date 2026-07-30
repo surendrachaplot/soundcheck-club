@@ -1,14 +1,14 @@
 # Diego Sarria
 
-Diego Sarria is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at TBA - Studio Stereo, close to pl. Catalunya, 08007, Barcelona, Barcelona on Fri, 14 Aug 2026.
+Diego Sarria is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at Studio Stereo, Barcelona on Fri, 14 Aug 2026.
 
-Diego Sarria is a house and techno artist tracked on soundcheck, with 21 sets logged across Barcelona. Often billed alongside Mr-Tugs, Danielsan (ES) and Ludik. Next up: TBA - Studio Stereo, close to pl. Catalunya, 08007, Barcelona, Barcelona on Fri 14 Aug.
+Diego Sarria is a house and techno artist tracked on soundcheck, with 21 sets logged across Barcelona. Often billed alongside Mr-Tugs, Danielsan (ES) and Ludik. Next up: Studio Stereo, Barcelona on Fri 14 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 14 Aug 2026 | TBA - Studio Stereo, close to pl. Catalunya, 08007, Barcelona | Barcelona |
+| Fri, 14 Aug 2026 | Studio Stereo | Barcelona |
 
 ## Recently played
 
@@ -25,4 +25,4 @@ Diego Sarria is a house and techno artist tracked on soundcheck, with 21 sets lo
 
 Mr-Tugs, Danielsan (ES), Ludik
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/diegosarria/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/diegosarria/)*

@@ -1,6 +1,6 @@
 # chris deeper
 
-chris deeper is a Electronica and Downtempo artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at Porto Pollo, Vienna on Sat, 15 Aug 2026.
+chris deeper is a Electronica and Downtempo artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at Porto Pollo, Vienna on Sat, 15 Aug 2026.
 
 chris deeper is an electronica and downtempo artist based in Austria, tracked on soundcheck, with 15 sets logged across Vienna. Often billed alongside pezel, Aronix and Farbod. Next up: Porto Pollo, Vienna on Sat 15 Aug.
 
@@ -25,4 +25,4 @@ chris deeper is an electronica and downtempo artist based in Austria, tracked on
 
 pezel, Aronix, Farbod
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/chrisdeeper/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/chrisdeeper/)*

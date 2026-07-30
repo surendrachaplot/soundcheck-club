@@ -1,6 +1,6 @@
 # Otorongo
 
-Otorongo is a Downtempo and Latin Bass artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at TBA, Barcelona on Sat, 1 Aug 2026.
+Otorongo is a Downtempo and Latin Bass artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at TBA, Barcelona on Sat, 1 Aug 2026.
 
 Otorongo is a downtempo and latin bass artist based in Chile, tracked on soundcheck, with 15 sets logged across Barcelona, Brisbane and Melbourne. Often billed alongside Cuerpo Negro, Martha van Straaten and Phil Smart. Next up: TBA, Barcelona on Sat 1 Aug.
 
@@ -25,4 +25,4 @@ Otorongo is a downtempo and latin bass artist based in Chile, tracked on soundch
 
 Cuerpo Negro, Martha van Straaten, Phil Smart
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/otorongo/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/otorongo/)*

@@ -1,6 +1,6 @@
 # LASK (2)
 
-LASK (2) is a House artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at TBA - Secret Audiophile c/ Badajoz 115, Barcelona on Sat, 1 Aug 2026.
+LASK (2) is a House artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at TBA - Secret Audiophile c/ Badajoz 115, Barcelona on Sat, 1 Aug 2026.
 
 LASK (2) is a house artist based in Greece, tracked on soundcheck, with 28 sets logged across Athens and Barcelona. Often billed alongside Alexxx, Rele and PAZ WAZ HERE. Next up: TBA - Secret Audiophile c/ Badajoz 115, Barcelona on Sat 1 Aug.
 
@@ -25,4 +25,4 @@ LASK (2) is a house artist based in Greece, tracked on soundcheck, with 28 sets 
 
 Alexxx, Rele, PAZ WAZ HERE
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/lask-2/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/lask-2/)*

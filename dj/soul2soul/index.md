@@ -1,6 +1,6 @@
 # Soul II Soul
 
-Soul II Soul is a Disco and House artist with 2 upcoming club dates listed on soundcheck as of Wed, 29 Jul 2026, next at Crystal Palace Park, London on Fri, 31 Jul 2026.
+Soul II Soul is a Disco and House artist with 2 upcoming club dates listed on soundcheck as of Thu, 30 Jul 2026, next at Crystal Palace Park, London on Fri, 31 Jul 2026.
 
 Soul II Soul is a disco and house artist tracked on soundcheck, with 8 sets logged across Birmingham, Glasgow, London and Manchester and 1 more. Often billed alongside Roger Sanchez, 808 State and Graeme Park. Next up: Crystal Palace Park, London on Fri 31 Jul.
 
@@ -24,4 +24,4 @@ Soul II Soul is a disco and house artist tracked on soundcheck, with 8 sets logg
 
 Roger Sanchez, 808 State, Graeme Park
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/soul2soul/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/soul2soul/)*

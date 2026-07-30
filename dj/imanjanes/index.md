@@ -1,19 +1,19 @@
 # Iman Janes
 
-Iman Janes is a Techno and Tech House artist with 3 upcoming club dates listed on soundcheck as of Wed, 29 Jul 2026, next at Tresor / Globus, Berlin on Wed, 29 Jul 2026.
+Iman Janes is a Techno and Tech House artist with 2 upcoming club dates listed on soundcheck as of Thu, 30 Jul 2026, next at Fvtvr, Paris on Sat, 22 Aug 2026.
 
-Iman Janes is a techno and tech house artist based in France, tracked on soundcheck, with 21 sets logged across Berlin, Brussels, Frankfurt and Ibiza and 4 more. Often billed alongside KALTBLUME, AEREA and ALI3N. Next up: Tresor / Globus, Berlin on Wed 29 Jul.
+Iman Janes is a techno and tech house artist based in France, tracked on soundcheck, with 21 sets logged across Berlin, Brussels, Frankfurt and Ibiza and 4 more. Often billed alongside KALTBLUME, AEREA and ALI3N. Next up: Fvtvr, Paris on Sat 22 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Wed, 29 Jul 2026 | Tresor / Globus | Berlin |
 | Sat, 22 Aug 2026 | Fvtvr | Paris |
 | Sat, 10 Oct 2026 | KALT | Strasbourg |
 
 ## Recently played
 
+- Tresor / Globus, Berlin — Wed, 29 Jul 2026
 - Liquid Club, Malta — Fri, 24 Jul 2026
 - Loone, Berlin — Wed, 15 Jul 2026
 - Es Paradis, Ibiza — Sun, 5 Jul 2026
@@ -21,10 +21,9 @@ Iman Janes is a techno and tech house artist based in France, tracked on soundch
 - Macadam, Nantes — Sat, 6 Jun 2026
 - Virage, Paris — Wed, 27 May 2026
 - Glazart, Paris — Sat, 18 Apr 2026
-- La Fabriek, Brussels — Fri, 30 Jan 2026
 
 ## Shares bills with
 
 KALTBLUME, AEREA, ALI3N
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/imanjanes/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/imanjanes/)*

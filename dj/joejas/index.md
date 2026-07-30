@@ -1,6 +1,6 @@
 # JoeJas
 
-JoeJas is a Hip-Hop and Experimental artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at Next Door Records Two, London on Thu, 30 Jul 2026.
+JoeJas is a Hip-Hop and Experimental artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at Next Door Records Two, London on Thu, 30 Jul 2026.
 
 JoeJas is a hip-hop and experimental artist tracked on soundcheck, with 36 sets logged across Amsterdam, Berlin, Brighton and Bristol and 5 more. Often billed alongside retropxssy, anti.Net and ACE C0NWAY. Next up: Next Door Records Two, London on Thu 30 Jul.
 
@@ -25,4 +25,4 @@ JoeJas is a hip-hop and experimental artist tracked on soundcheck, with 36 sets 
 
 retropxssy, anti.Net, ACE C0NWAY
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/joejas/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/joejas/)*

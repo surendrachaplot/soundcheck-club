@@ -1,6 +1,6 @@
 # tom2
 
-tom2 is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at R Lounge, Tokyo on Mon, 3 Aug 2026.
+tom2 is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at R Lounge, Tokyo on Mon, 3 Aug 2026.
 
 tom2 is a house and deep house artist based in Japan, tracked on soundcheck, with 70 sets logged across Kyoto, Osaka and Tokyo. Often billed alongside --- mr ---, Zeqoo and DJ ISE. Next up: R Lounge, Tokyo on Mon 3 Aug.
 
@@ -25,4 +25,4 @@ tom2 is a house and deep house artist based in Japan, tracked on soundcheck, wit
 
 --- mr ---, Zeqoo, DJ ISE
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/tom2/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/tom2/)*

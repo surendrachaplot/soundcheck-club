@@ -1,6 +1,6 @@
 # Circle Park
 
-Circle Park is a music venue in Brussels with 4 upcoming nights listed on soundcheck as of Wed, 29 Jul 2026; the next is "2Much: Circle Park x Fabriek [16 hours - Open Air + After]" on Sat, 1 Aug 2026.
+Circle Park is a music venue in Brussels with 4 upcoming nights listed on soundcheck as of Thu, 30 Jul 2026; the next is "2Much: Circle Park x Fabriek [16 hours - Open Air + After]" on Sat, 1 Aug 2026.
 
 Circle Park is a music venue in Brussels listed on soundcheck. 4 upcoming nights, with line-ups including Ampe, Antonym, ATARAXY and Audrey Danza and 2 more. Browse upcoming dates, start times and who's playing. Rue des Goujons 156, 1070 Anderlecht.
 
@@ -17,4 +17,4 @@ Circle Park is a music venue in Brussels listed on soundcheck. 4 upcoming nights
 
 Rue des Goujons 156, 1070 Anderlecht, Brussels
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/brussels/club/circle-park/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/brussels/club/circle-park/)*

@@ -1,6 +1,6 @@
 # Ghost in the Machine
 
-Ghost in the Machine is a Techno and Hardcore artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at Levenslang Amsterdam, Amsterdam on Sat, 1 Aug 2026.
+Ghost in the Machine is a Techno and Hardcore artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at Levenslang Amsterdam, Amsterdam on Sat, 1 Aug 2026.
 
 Ghost in the Machine is a techno and hardcore artist tracked on soundcheck, with 28 sets logged across Amsterdam, Antwerp, Belgrade and Berlin and 9 more. Often billed alongside Somniac One, Buket and DJ Mad Dog. Next up: Levenslang Amsterdam, Amsterdam on Sat 1 Aug.
 
@@ -25,4 +25,4 @@ Ghost in the Machine is a techno and hardcore artist tracked on soundcheck, with
 
 Somniac One, Buket, DJ Mad Dog
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/ghostinthemachine/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/ghostinthemachine/)*

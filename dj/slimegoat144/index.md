@@ -1,6 +1,6 @@
 # Slimegoat144
 
-Slimegoat144 is a Techno and Tech House artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at Sensorium, Berlin on Wed, 5 Aug 2026.
+Slimegoat144 is a Techno and Tech House artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at Sensorium, Berlin on Wed, 5 Aug 2026.
 
 Slimegoat144 is a techno and tech house artist based in Germany, tracked on soundcheck, with 8 sets logged across Berlin. Often billed alongside 4NOUK, Amo (IT) and Benua. Next up: Sensorium, Berlin on Wed 5 Aug.
 
@@ -24,4 +24,4 @@ Slimegoat144 is a techno and tech house artist based in Germany, tracked on soun
 
 4NOUK, Amo (IT), Benua
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/slimegoat144/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/slimegoat144/)*

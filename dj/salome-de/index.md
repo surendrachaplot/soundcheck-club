@@ -1,6 +1,6 @@
 # SALOME
 
-SALOME is a Techno and Electro artist with 6 upcoming club dates listed on soundcheck as of Wed, 29 Jul 2026, next at Spot X, Budapest on Fri, 31 Jul 2026.
+SALOME is a Techno and Electro artist with 6 upcoming club dates listed on soundcheck as of Thu, 30 Jul 2026, next at Spot X, Budapest on Fri, 31 Jul 2026.
 
 SALOME is a techno and electro artist tracked on soundcheck, with 202 sets logged across Amsterdam, Antwerp, Athens and Austin and 57 more. Often billed alongside MCMLXXXV, CEM and SPFDJ. Next up: Spot X, Budapest on Fri 31 Jul.
 
@@ -30,4 +30,4 @@ SALOME is a techno and electro artist tracked on soundcheck, with 202 sets logge
 
 MCMLXXXV, CEM, SPFDJ
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/salome-de/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/salome-de/)*

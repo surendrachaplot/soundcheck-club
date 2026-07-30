@@ -1,6 +1,6 @@
 # Dj Diass
 
-Dj Diass is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Wed, 29 Jul 2026, next at Kater, Berlin on Fri, 7 Aug 2026.
+Dj Diass is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Thu, 30 Jul 2026, next at Kater, Berlin on Fri, 7 Aug 2026.
 
 Dj Diass is a house and techno artist based in Bulgaria, tracked on soundcheck, with 11 sets logged across Barcelona, Berlin, Ibiza and Istanbul and 3 more. Often billed alongside Diass, MËSTIZA and DJ phellix. Next up: Kater, Berlin on Fri 7 Aug.
 
@@ -26,4 +26,4 @@ Dj Diass is a house and techno artist based in Bulgaria, tracked on soundcheck, 
 
 Diass, MËSTIZA, DJ phellix
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/djdiass/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/djdiass/)*

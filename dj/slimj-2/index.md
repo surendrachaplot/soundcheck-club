@@ -1,6 +1,6 @@
 # Slim J (2)
 
-Slim J (2) is a Tech House and Trance artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at TBA - Secret Location, Vancouver on Sat, 1 Aug 2026.
+Slim J (2) is a Tech House and Trance artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at TBA - Secret Location, Vancouver on Sat, 1 Aug 2026.
 
 Slim J (2) is a tech house and trance artist based in Canada, tracked on soundcheck, with 2 sets logged across Vancouver. Often billed alongside AVRY, Beiti and DJ dood. Next up: TBA - Secret Location, Vancouver on Sat 1 Aug.
 
@@ -18,4 +18,4 @@ Slim J (2) is a tech house and trance artist based in Canada, tracked on soundch
 
 AVRY, Beiti, DJ dood
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/slimj-2/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/slimj-2/)*

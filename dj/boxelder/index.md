@@ -1,6 +1,6 @@
 # Box Elder
 
-Box Elder is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at TBA - INNER WEST, Sydney on Sat, 1 Aug 2026.
+Box Elder is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at TBA - INNER WEST, Sydney on Sat, 1 Aug 2026.
 
 Box Elder is a techno and trance artist based in Australia, tracked on soundcheck, with 1 set logged across Sydney. Often billed alongside JJ OKOCHA and fuchsia. Next up: TBA - INNER WEST, Sydney on Sat 1 Aug.
 
@@ -14,4 +14,4 @@ Box Elder is a techno and trance artist based in Australia, tracked on soundchec
 
 JJ OKOCHA, fuchsia
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/boxelder/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/boxelder/)*

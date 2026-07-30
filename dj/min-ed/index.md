@@ -1,6 +1,6 @@
 # MIN-ED
 
-MIN-ED is a Techno and Electronica artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at Hotel Butterfly, Rome on Thu, 30 Jul 2026.
+MIN-ED is a Techno and Electronica artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at Hotel Butterfly, Rome on Thu, 30 Jul 2026.
 
 MIN-ED is a techno and electronica artist based in Italy, tracked on soundcheck, with 13 sets logged across Rome. Often billed alongside Daniele Pavoni, GNMR and Marc Anthony Bowen. Next up: Hotel Butterfly, Rome on Thu 30 Jul.
 
@@ -25,4 +25,4 @@ MIN-ED is a techno and electronica artist based in Italy, tracked on soundcheck,
 
 Daniele Pavoni, GNMR, Marc Anthony Bowen
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/min-ed/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/min-ed/)*

@@ -1,6 +1,6 @@
 # Ricardo F
 
-Ricardo F is a Electronica and Trance artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at Parc de la Serra de Mollerussa (Lérida), Barcelona on Sat, 5 Sept 2026.
+Ricardo F is a Electronica and Trance artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at Parc de la Serra de Mollerussa (Lérida), Barcelona on Sat, 5 Sept 2026.
 
 Ricardo F is an electronica and trance artist based in Spain, tracked on soundcheck, with 20 sets logged across Barcelona, Ibiza and Madrid. Often billed alongside Frank Trax, Marian Dacal and Ruben XXL. Next up: Parc de la Serra de Mollerussa (Lérida), Barcelona on Sat 5 Sept.
 
@@ -25,4 +25,4 @@ Ricardo F is an electronica and trance artist based in Spain, tracked on soundch
 
 Frank Trax, Marian Dacal, Ruben XXL
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/ricardof/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/ricardof/)*

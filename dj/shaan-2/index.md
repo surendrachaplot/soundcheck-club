@@ -1,6 +1,6 @@
 # Shaan (2)
 
-Shaan (2) is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at MODULE, Copenhagen on Fri, 31 Jul 2026.
+Shaan (2) is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at MODULE, Copenhagen on Fri, 31 Jul 2026.
 
 Shaan (2) is a techno and house artist based in Denmark, tracked on soundcheck, with 2 sets logged across Copenhagen. Often billed alongside Ada Dielman, Baime and EdOne. Next up: MODULE, Copenhagen on Fri 31 Jul.
 
@@ -18,4 +18,4 @@ Shaan (2) is a techno and house artist based in Denmark, tracked on soundcheck, 
 
 Ada Dielman, Baime, EdOne
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/shaan-2/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/shaan-2/)*

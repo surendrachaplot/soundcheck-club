@@ -1,6 +1,6 @@
 # Stereo (2)
 
-Stereo (2) is a Ambient and Experimental artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at ://about blank, Berlin on Thu, 30 Jul 2026.
+Stereo (2) is a Ambient and Experimental artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at ://about blank, Berlin on Thu, 30 Jul 2026.
 
 Stereo (2) is an ambient and experimental artist based in Germany, tracked on soundcheck, with 6 sets logged across Berlin and Tbilisi. Often billed alongside Schwarzmalerei, Marc Oller and Romi. Next up: ://about blank, Berlin on Thu 30 Jul.
 
@@ -22,4 +22,4 @@ Stereo (2) is an ambient and experimental artist based in Germany, tracked on so
 
 Schwarzmalerei, Marc Oller, Romi
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/stereo-2/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/stereo-2/)*

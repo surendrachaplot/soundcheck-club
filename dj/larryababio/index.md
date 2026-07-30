@@ -1,6 +1,6 @@
 # Larry Ababio
 
-Larry Ababio is a House artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at UNO MALTA, Malta on Thu, 24 Sept 2026.
+Larry Ababio is a House artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at UNO MALTA, Malta on Thu, 24 Sept 2026.
 
 Larry Ababio is a house artist based in United Kingdom, tracked on soundcheck, with 2 sets logged across Malta and Manchester. Often billed alongside Boon (UK), Jess Bays and Jimmy Switch. Next up: UNO MALTA, Malta on Thu 24 Sept.
 
@@ -18,4 +18,4 @@ Larry Ababio is a house artist based in United Kingdom, tracked on soundcheck, w
 
 Boon (UK), Jess Bays, Jimmy Switch
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/larryababio/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/larryababio/)*

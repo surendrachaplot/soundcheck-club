@@ -1,6 +1,6 @@
 # Beatrice (DE)
 
-Beatrice (DE) is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at Green Room NYC, New York City on Sat, 8 Aug 2026.
+Beatrice (DE) is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at Green Room NYC, New York City on Sat, 8 Aug 2026.
 
 Beatrice (DE) is a techno and house artist tracked on soundcheck, with 77 sets logged across Amsterdam, Barcelona, Berlin and Boston and 15 more. Often billed alongside Mathys Lenne, AOIFE and Mareena. Next up: Green Room NYC, Newyorkcity on Sat 8 Aug.
 
@@ -25,4 +25,4 @@ Beatrice (DE) is a techno and house artist tracked on soundcheck, with 77 sets l
 
 Mathys Lenne, AOIFE, Mareena
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/beatrice-de/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/beatrice-de/)*

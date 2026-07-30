@@ -1,6 +1,6 @@
 # KLOFAMA
 
-KLOFAMA is a Techno and Industrial artist with 9 upcoming club dates listed on soundcheck as of Wed, 29 Jul 2026, next at Bowlers Exhibition Centre, Manchester on Sat, 1 Aug 2026.
+KLOFAMA is a Techno and Industrial artist with 9 upcoming club dates listed on soundcheck as of Thu, 30 Jul 2026, next at Bowlers Exhibition Centre, Manchester on Sat, 1 Aug 2026.
 
 KLOFAMA is a techno and industrial artist tracked on soundcheck, with 94 sets logged across Amsterdam, Antwerp, Barcelona and Belfast and 36 more. Often billed alongside KARAH, SLVL and SANTØS. Next up: Bowlers Exhibition Centre, Manchester on Sat 1 Aug.
 
@@ -33,4 +33,4 @@ KLOFAMA is a techno and industrial artist tracked on soundcheck, with 94 sets lo
 
 KARAH, SLVL, SANTØS
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/klofama/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/klofama/)*

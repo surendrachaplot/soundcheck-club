@@ -1,6 +1,6 @@
 # L&F
 
-L&F is a House and Garage artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at Planet Wax, London on Sat, 8 Aug 2026.
+L&F is a House and Garage artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at Planet Wax, London on Sat, 8 Aug 2026.
 
 L&F is a house and garage artist based in United Kingdom, tracked on soundcheck, with 27 sets logged across Berlin, London, Prague and Sheffield. Often billed alongside Dana Ruh, Jon E Cash and Lavan. Next up: Planet Wax, London on Sat 8 Aug.
 
@@ -25,4 +25,4 @@ L&F is a house and garage artist based in United Kingdom, tracked on soundcheck,
 
 Dana Ruh, Jon E Cash, Lavan
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/l&f/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/l&f/)*

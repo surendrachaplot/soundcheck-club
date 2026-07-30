@@ -1,15 +1,13 @@
 # TBA
 
-TBA is a music venue in London with 267 upcoming nights listed on soundcheck as of Wed, 29 Jul 2026; the next is "Levi - Mykonos Residency 2026" on Wed, 29 Jul 2026.
+TBA is a music venue in London with 276 upcoming nights listed on soundcheck as of Thu, 30 Jul 2026; the next is "[CANCELLED]" on Thu, 30 Jul 2026.
 
-TBA is a music venue in London listed on soundcheck. 267 upcoming nights, with line-ups including 2M (CH), 619!, 666.pastel and 999999999 and 2 more. Browse upcoming dates, start times and who's playing.
+TBA is a music venue in London listed on soundcheck. 276 upcoming nights, with line-ups including 2M (CH), 619!, 666.pastel and 999999999 and 2 more. Browse upcoming dates, start times and who's playing.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Wed, 29 Jul 2026 | Levi - Mykonos Residency 2026 | Levi (AU) |
-| Wed, 29 Jul 2026 | LMCUK TEST EVENT 7 | LMCUK |
 | Thu, 30 Jul 2026 | [CANCELLED] |  |
 | Thu, 30 Jul 2026 | MRZ DJ: SOUTH KOREA | MRZ (1) |
 | Thu, 30 Jul 2026 | MRZ DJ SET: HEDON BAR SEOUL | MRZ (1) |
@@ -18,5 +16,7 @@ TBA is a music venue in London listed on soundcheck. 267 upcoming nights, with l
 | Fri, 31 Jul 2026 | Train, Barenaked Ladies & Matt Nathanson at Ascend Amphitheater | Train (UK) |
 | Fri, 31 Jul 2026 | Basement label night | DJ Bazeman |
 | Fri, 31 Jul 2026 | MRZ DJ SET: THE ROOF SEOUL | MRZ (1) |
+| Fri, 31 Jul 2026 | Sha Ru live in Hong Kong |  |
+| Fri, 31 Jul 2026 | ADUNANZA ~ |  |
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/london/club/tba/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/london/club/tba/)*

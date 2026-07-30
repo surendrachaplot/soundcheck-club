@@ -1,6 +1,6 @@
 # Materielle
 
-Materielle is a Techno and Electro artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at TBA - Los Angeles, Los Angeles on Sat, 22 Aug 2026.
+Materielle is a Techno and Electro artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at TBA - Los Angeles, Los Angeles on Sat, 22 Aug 2026.
 
 Materielle is a techno and electro artist based in United States of America, tracked on soundcheck, with 19 sets logged across Detroit and Losangeles. Often billed alongside Frida Henson, Marie Nyx and Andrew S.. Next up: TBA - Los Angeles, Losangeles on Sat 22 Aug.
 
@@ -25,4 +25,4 @@ Materielle is a techno and electro artist based in United States of America, tra
 
 Frida Henson, Marie Nyx, Andrew S.
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/materielle/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/materielle/)*

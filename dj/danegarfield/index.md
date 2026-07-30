@@ -1,6 +1,6 @@
 # Dane Garfield
 
-Dane Garfield is a House and Deep House artist with 2 upcoming club dates listed on soundcheck as of Wed, 29 Jul 2026, next at Myrtle Edwards Park, Seattle on Sun, 9 Aug 2026.
+Dane Garfield is a House and Deep House artist with 2 upcoming club dates listed on soundcheck as of Thu, 30 Jul 2026, next at Myrtle Edwards Park, Seattle on Sun, 9 Aug 2026.
 
 Dane Garfield is a house and deep house artist tracked on soundcheck, with 31 sets logged across Seattle. Often billed alongside Brian Lyons, Julie Herrera and Alfonso Tan. Next up: Myrtle Edwards Park, Seattle on Sun 9 Aug.
 
@@ -26,4 +26,4 @@ Dane Garfield is a house and deep house artist tracked on soundcheck, with 31 se
 
 Brian Lyons, Julie Herrera, Alfonso Tan
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/danegarfield/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/danegarfield/)*

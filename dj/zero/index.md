@@ -1,6 +1,6 @@
 # Zero
 
-Zero is a Garage and Drum & Bass artist with 2 upcoming club dates listed on soundcheck as of Wed, 29 Jul 2026, next at fabric, London on Fri, 4 Sept 2026.
+Zero is a Garage and Drum & Bass artist with 2 upcoming club dates listed on soundcheck as of Thu, 30 Jul 2026, next at fabric, London on Fri, 4 Sept 2026.
 
 Zero is a garage and drum & bass artist tracked on soundcheck, with 39 sets logged across Austin, Barcelona, Bristol and Dublin and 16 more. Often billed alongside Skepsis, Window Kid and Charlie Tee. Next up: fabric, London on Fri 4 Sept.
 
@@ -26,4 +26,4 @@ Zero is a garage and drum & bass artist tracked on soundcheck, with 39 sets logg
 
 Skepsis, Window Kid, Charlie Tee
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/zero/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/zero/)*

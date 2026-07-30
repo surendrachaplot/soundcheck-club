@@ -1,6 +1,6 @@
 # Milad Samara
 
-Milad Samara is a Club and Electro artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at arkaoda Berlin, Berlin on Fri, 31 Jul 2026.
+Milad Samara is a Club and Electro artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at arkaoda Berlin, Berlin on Fri, 31 Jul 2026.
 
 Milad Samara is a club and electro artist based in Germany, tracked on soundcheck, with 8 sets logged across Athens and Berlin. Often billed alongside ELAYN, Kasja and LOOPA (2). Next up: arkaoda Berlin, Berlin on Fri 31 Jul.
 
@@ -24,4 +24,4 @@ Milad Samara is a club and electro artist based in Germany, tracked on soundchec
 
 ELAYN, Kasja, LOOPA (2)
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/miladsamara/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/miladsamara/)*

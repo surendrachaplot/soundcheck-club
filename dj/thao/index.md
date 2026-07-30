@@ -1,6 +1,6 @@
 # Thao
 
-Thao is a Techno and Experimental artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at Tagada, Vienna on Sat, 15 Aug 2026.
+Thao is a Techno and Experimental artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at Tagada, Vienna on Sat, 15 Aug 2026.
 
 Thao is a techno and experimental artist tracked on soundcheck, with 26 sets logged across Lyon, Paris and Vienna. Often billed alongside anxxxious_t, AXT and AfroNinja. Next up: Tagada, Vienna on Sat 15 Aug.
 
@@ -25,4 +25,4 @@ Thao is a techno and experimental artist tracked on soundcheck, with 26 sets log
 
 anxxxious_t, AXT, AfroNinja
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/thao/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/thao/)*

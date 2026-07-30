@@ -1,6 +1,6 @@
 # Martin Lodge
 
-Martin Lodge is a House and Disco artist with 2 upcoming club dates listed on soundcheck as of Wed, 29 Jul 2026, next at The Elmhurst, London on Sat, 8 Aug 2026.
+Martin Lodge is a House and Disco artist with 2 upcoming club dates listed on soundcheck as of Thu, 30 Jul 2026, next at The Elmhurst, London on Sat, 8 Aug 2026.
 
 Martin Lodge is a house and disco artist tracked on soundcheck, with 11 sets logged across Leeds and London. Often billed alongside Neil Pierce, DJ Murrell and Mark Osborne. Next up: The Elmhurst, London on Sat 8 Aug.
 
@@ -26,4 +26,4 @@ Martin Lodge is a house and disco artist tracked on soundcheck, with 11 sets log
 
 Neil Pierce, DJ Murrell, Mark Osborne
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/martinlodge/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/martinlodge/)*

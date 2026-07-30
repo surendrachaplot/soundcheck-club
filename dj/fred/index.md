@@ -1,6 +1,6 @@
 # F Red
 
-F Red is a electronic artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at Bahnwärter Thiel, Munich on Sat, 1 Aug 2026.
+F Red is a electronic artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at Bahnwärter Thiel, Munich on Sat, 1 Aug 2026.
 
 F Red is an electronic artist based in Portugal, tracked on soundcheck, with 10 sets logged across Lisbon, Munich and Vienna. Often billed alongside Tellerboy, ANASTASÍA and Aldebaran. Next up: Bahnwärter Thiel, Munich on Sat 1 Aug.
 
@@ -25,4 +25,4 @@ F Red is an electronic artist based in Portugal, tracked on soundcheck, with 10 
 
 Tellerboy, ANASTASÍA, Aldebaran
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/fred/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/fred/)*

@@ -1,6 +1,6 @@
 # Gru.di
 
-Gru.di is a Deep House and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at Hawthorn, San Francisco/Oakland on Sat, 1 Aug 2026.
+Gru.di is a Deep House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at Hawthorn, San Francisco/Oakland on Sat, 1 Aug 2026.
 
 Gru.di is a deep house and techno artist based in Ukraine, tracked on soundcheck, with 33 sets logged across Losangeles and Sanfrancisco. Often billed alongside IZIK, Borak and MANTi. Next up: Hawthorn, Sanfrancisco on Sat 1 Aug.
 
@@ -25,4 +25,4 @@ Gru.di is a deep house and techno artist based in Ukraine, tracked on soundcheck
 
 IZIK, Borak, MANTi
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/grudi/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/grudi/)*

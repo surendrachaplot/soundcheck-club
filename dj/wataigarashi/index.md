@@ -1,14 +1,13 @@
 # Wata Igarashi
 
-Wata Igarashi is a Techno and House artist with 14 upcoming club dates listed on soundcheck as of Wed, 29 Jul 2026, next at Amsterdamse Bos, Amsterdam on Wed, 29 Jul 2026.
+Wata Igarashi is a Techno and House artist with 13 upcoming club dates listed on soundcheck as of Thu, 30 Jul 2026, next at Amsterdamse Bos, Amsterdam on Sat, 1 Aug 2026.
 
-Wata Igarashi is a techno and house artist tracked on soundcheck, with 200 sets logged across Amsterdam, Athens, Barcelona and Basel and 51 more. Often billed alongside DJ Nobu, CCL and Octo Octa. Next up: Amsterdamse Bos, Amsterdam on Wed 29 Jul.
+Wata Igarashi is a techno and house artist tracked on soundcheck, with 200 sets logged across Amsterdam, Athens, Barcelona and Basel and 51 more. Often billed alongside DJ Nobu, CCL and Octo Octa. Next up: Amsterdamse Bos, Amsterdam on Sat 1 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Wed, 29 Jul 2026 | Amsterdamse Bos | Amsterdam |
 | Sat, 1 Aug 2026 | Amsterdamse Bos | Amsterdam |
 | Sun, 2 Aug 2026 | Amsterdamse Bos | Amsterdam |
 | Wed, 12 Aug 2026 | Gianpula Village | Malta |
@@ -20,9 +19,11 @@ Wata Igarashi is a techno and house artist tracked on soundcheck, with 200 sets 
 | Thu, 24 Sept 2026 | TBA - Out ‘n’ About Treesort | Portland |
 | Fri, 25 Sept 2026 | TBA - Los Angeles | Los Angeles |
 | Thu, 15 Oct 2026 | TRANSMISSION DC | Washington DC |
+| Fri, 16 Oct 2026 | ZENNER | Berlin |
 
 ## Recently played
 
+- Amsterdamse Bos, Amsterdam — Wed, 29 Jul 2026
 - Para Klub Beograd, Belgrade — Sun, 19 Jul 2026
 - Jasna 1, Warsaw — Fri, 10 Jul 2026
 - RSO.BERLIN, Berlin — Fri, 3 Jul 2026
@@ -30,10 +31,9 @@ Wata Igarashi is a techno and house artist tracked on soundcheck, with 200 sets 
 - Fira Gran Via, Barcelona — Thu, 18 Jun 2026
 - Fira Gran Via, Barcelona — Mon, 15 Jun 2026
 - Karmen Camina, Strasbourg — Sat, 13 Jun 2026
-- BLITZ, Munich — Sat, 6 Jun 2026
 
 ## Shares bills with
 
 DJ Nobu, CCL, Octo Octa
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/wataigarashi/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/wataigarashi/)*

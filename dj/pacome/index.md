@@ -1,6 +1,6 @@
 # Pacome
 
-Pacome is a House and Minimal artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at Hola Club Sitges (Cala Vallcarca), Barcelona on Sun, 16 Aug 2026.
+Pacome is a House and Minimal artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at Hola Club Sitges (Cala Vallcarca), Barcelona on Sun, 16 Aug 2026.
 
 Pacome is a house and minimal artist tracked on soundcheck, with 42 sets logged across Amsterdam, Barcelona, Ibiza and London and 2 more. Often billed alongside Liana, Fer (ES) and bOIX. Next up: Hola Club Sitges (Cala Vallcarca), Barcelona on Sun 16 Aug.
 
@@ -25,4 +25,4 @@ Pacome is a house and minimal artist tracked on soundcheck, with 42 sets logged 
 
 Liana, Fer (ES), bOIX
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/pacome/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/pacome/)*

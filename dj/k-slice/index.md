@@ -1,6 +1,6 @@
 # K-SLICE
 
-K-SLICE is a Kuduro and Afrobeats artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at Kaiho, London on Sat, 1 Aug 2026.
+K-SLICE is a Kuduro and Afrobeats artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at Kaiho, London on Sat, 1 Aug 2026.
 
 K-SLICE is a kuduro and afrobeats artist tracked on soundcheck, with 18 sets logged across Lisbon and London. Often billed alongside Almass Badat, JAMESON JAMESON and Elsa Dove. Next up: Kaiho, London on Sat 1 Aug.
 
@@ -25,4 +25,4 @@ K-SLICE is a kuduro and afrobeats artist tracked on soundcheck, with 18 sets log
 
 Almass Badat, JAMESON JAMESON, Elsa Dove
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/k-slice/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/k-slice/)*

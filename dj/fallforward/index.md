@@ -1,6 +1,6 @@
 # Fall Forward
 
-Fall Forward is a House and Club artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at DRUMSHEDS, London on Sat, 10 Oct 2026.
+Fall Forward is a House and Club artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at DRUMSHEDS, London on Sat, 10 Oct 2026.
 
 Fall Forward is a house and club artist based in United Kingdom, tracked on soundcheck, with 16 sets logged across Athens, Bristol and London. Often billed alongside Erol Alkan, DJ Paulette and Special Request. Next up: DRUMSHEDS, London on Sat 10 Oct.
 
@@ -25,4 +25,4 @@ Fall Forward is a house and club artist based in United Kingdom, tracked on soun
 
 Erol Alkan, DJ Paulette, Special Request
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/fallforward/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/fallforward/)*

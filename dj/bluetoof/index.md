@@ -1,6 +1,6 @@
 # Bluetoof
 
-Bluetoof is a Bass and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at Club Cheek, London on Fri, 31 Jul 2026.
+Bluetoof is a Bass and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at Club Cheek, London on Fri, 31 Jul 2026.
 
 Bluetoof is a bass and techno artist based in United Kingdom, tracked on soundcheck, with 84 sets logged across Belfast, Berlin, Birmingham and Brighton and 20 more. Often billed alongside Jossy Mitsu, BLUMITSU and Oblig. Next up: Club Cheek, London on Fri 31 Jul.
 
@@ -25,4 +25,4 @@ Bluetoof is a bass and techno artist based in United Kingdom, tracked on soundch
 
 Jossy Mitsu, BLUMITSU, Oblig
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/bluetoof/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/bluetoof/)*

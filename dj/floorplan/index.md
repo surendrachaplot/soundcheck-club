@@ -1,6 +1,6 @@
 # Floorplan
 
-Floorplan is a House and Techno artist with 8 upcoming club dates listed on soundcheck as of Wed, 29 Jul 2026, next at Chinois Ibiza, Ibiza on Thu, 30 Jul 2026.
+Floorplan is a House and Techno artist with 8 upcoming club dates listed on soundcheck as of Thu, 30 Jul 2026, next at Chinois Ibiza, Ibiza on Thu, 30 Jul 2026.
 
 Floorplan is a house and techno artist based in United States of America, tracked on soundcheck, with 69 sets logged across Amsterdam, Barcelona, Belfast and Berlin and 20 more. Often billed alongside Melvo Baptiste, Robert Hood and DJ Holographic. Next up: Chinois Ibiza, Ibiza on Thu 30 Jul.
 
@@ -32,4 +32,4 @@ Floorplan is a house and techno artist based in United States of America, tracke
 
 Melvo Baptiste, Robert Hood, DJ Holographic
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/floorplan/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/floorplan/)*

@@ -1,6 +1,6 @@
 # Zły Pies
 
-Zły Pies is a Bass and Electro artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at BarKa, Warsaw on Thu, 6 Aug 2026.
+Zły Pies is a Bass and Electro artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at BarKa, Warsaw on Thu, 6 Aug 2026.
 
 Zły Pies is a bass and electro artist based in Poland, tracked on soundcheck, with 19 sets logged across Warsaw. Often billed alongside Some Guest, Lamimixa and iffi. Next up: BarKa, Warsaw on Thu 6 Aug.
 
@@ -25,4 +25,4 @@ Zły Pies is a bass and electro artist based in Poland, tracked on soundcheck, w
 
 Some Guest, Lamimixa, iffi
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/zlypies/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/zlypies/)*

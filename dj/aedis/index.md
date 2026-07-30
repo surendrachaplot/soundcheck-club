@@ -1,6 +1,6 @@
 # Aedis
 
-Aedis is a Electronica artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at Cadavra, Madrid on Sat, 1 Aug 2026.
+Aedis is a Electronica artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at Cadavra, Madrid on Sat, 1 Aug 2026.
 
 Aedis is an electronica artist based in Netherlands, tracked on soundcheck, with 13 sets logged across Amsterdam and Madrid. Often billed alongside Gala (ES), Hylke and Arnau. Next up: Cadavra, Madrid on Sat 1 Aug.
 
@@ -25,4 +25,4 @@ Aedis is an electronica artist based in Netherlands, tracked on soundcheck, with
 
 Gala (ES), Hylke, Arnau
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/aedis/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/aedis/)*

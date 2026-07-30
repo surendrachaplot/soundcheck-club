@@ -1,6 +1,6 @@
 # Yone-Ko
 
-Yone-Ko is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at Club der Visionaere, Berlin on Fri, 31 Jul 2026.
+Yone-Ko is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at Club der Visionaere, Berlin on Fri, 31 Jul 2026.
 
 Yone-Ko is a techno and house artist based in Germany, tracked on soundcheck, with 10 sets logged across Berlin, Bucharest and Warsaw. Often billed alongside Timur Basha, Shakolin and Karine. Next up: Club der Visionaere, Berlin on Fri 31 Jul.
 
@@ -25,4 +25,4 @@ Yone-Ko is a techno and house artist based in Germany, tracked on soundcheck, wi
 
 Timur Basha, Shakolin, Karine
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/yone-ko/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/yone-ko/)*

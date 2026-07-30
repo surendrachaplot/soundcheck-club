@@ -1,6 +1,6 @@
 # Nici Naiya
 
-Nici Naiya is a Tech House and House artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at Pracht, Frankfurt on Fri, 31 Jul 2026.
+Nici Naiya is a Tech House and House artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at Pracht, Frankfurt on Fri, 31 Jul 2026.
 
 Nici Naiya is a tech house and house artist based in Germany, tracked on soundcheck, with 8 sets logged across Frankfurt and Stuttgart. Often billed alongside Biagio Sibilla, BIANCA BLANCO and Benja Asima. Next up: Pracht, Frankfurt on Fri 31 Jul.
 
@@ -24,4 +24,4 @@ Nici Naiya is a tech house and house artist based in Germany, tracked on soundch
 
 Biagio Sibilla, BIANCA BLANCO, Benja Asima
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/nicinaiya/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/nicinaiya/)*

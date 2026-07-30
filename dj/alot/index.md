@@ -1,13 +1,14 @@
 # ALOT
 
-ALOT is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at LoHi, New York City on Sat, 5 Sept 2026.
+ALOT is a House and Disco artist with 2 upcoming club dates listed on soundcheck as of Thu, 30 Jul 2026, next at Studio Stereo, Barcelona on Fri, 28 Aug 2026.
 
-ALOT is a house and disco artist based in United States of America, tracked on soundcheck, with 27 sets logged across Barcelona, Berlin, Ibiza and Lisbon and 5 more. Often billed alongside Kapote, Arpy Brown and Gee Lane. Next up: LoHi, Newyorkcity on Sat 5 Sept.
+ALOT is a house and disco artist based in United States of America, tracked on soundcheck, with 28 sets logged across Barcelona, Berlin, Ibiza and Lisbon and 5 more. Often billed alongside Kapote, Arpy Brown and Gee Lane. Next up: Studio Stereo, Barcelona on Fri 28 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 28 Aug 2026 | Studio Stereo | Barcelona |
 | Sat, 5 Sept 2026 | LoHi | New York City |
 
 ## Recently played
@@ -25,4 +26,4 @@ ALOT is a house and disco artist based in United States of America, tracked on s
 
 Kapote, Arpy Brown, Gee Lane
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/alot/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/alot/)*

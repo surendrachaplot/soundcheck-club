@@ -1,6 +1,6 @@
 # Nhū
 
-Nhū is a Techno and Trance artist with 3 upcoming club dates listed on soundcheck as of Wed, 29 Jul 2026, next at Kunstraum Walcheturm, Zurich on Sat, 8 Aug 2026.
+Nhū is a Techno and Trance artist with 3 upcoming club dates listed on soundcheck as of Thu, 30 Jul 2026, next at Kunstraum Walcheturm, Zurich on Sat, 8 Aug 2026.
 
 Nhū is a techno and trance artist based in Switzerland, tracked on soundcheck, with 29 sets logged across Amsterdam, Berlin, Geneva and Istanbul and 7 more. Often billed alongside BRAINDAAMAGE, FALCO (2) and Galopp. Next up: Kunstraum Walcheturm, Zurich on Sat 8 Aug.
 
@@ -9,8 +9,8 @@ Nhū is a techno and trance artist based in Switzerland, tracked on soundcheck, 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 8 Aug 2026 | Kunstraum Walcheturm | Zurich |
-| Fri, 14 Aug 2026 | E1 | London |
 | Mon, 24 Aug 2026 | Tresor / Globus | Berlin |
+| Fri, 16 Oct 2026 | E1 | London |
 
 ## Recently played
 
@@ -27,4 +27,4 @@ Nhū is a techno and trance artist based in Switzerland, tracked on soundcheck, 
 
 BRAINDAAMAGE, FALCO (2), Galopp
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/nhu/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/nhu/)*

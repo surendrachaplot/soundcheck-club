@@ -1,6 +1,6 @@
 # Mina Galán
 
-Mina Galán is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Wed, 29 Jul 2026, next at TILLATEC, Amsterdam on Fri, 31 Jul 2026.
+Mina Galán is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Thu, 30 Jul 2026, next at TILLATEC, Amsterdam on Fri, 31 Jul 2026.
 
 Mina Galán is a techno and house artist tracked on soundcheck, with 23 sets logged across Amsterdam, Barcelona, Berlin and Copenhagen and 8 more. Often billed alongside Manuka Honey, TEDESCO and DIORA. Next up: TILLATEC, Amsterdam on Fri 31 Jul.
 
@@ -26,4 +26,4 @@ Mina Galán is a techno and house artist tracked on soundcheck, with 23 sets log
 
 Manuka Honey, TEDESCO, DIORA
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/minagalan/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/minagalan/)*

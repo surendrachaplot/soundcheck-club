@@ -1,8 +1,8 @@
 # sumi
 
-sumi is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Wed, 29 Jul 2026, next at TBA - Paradies Garten Festival - Schloß Prugg 2, 2460 Gemeinde Bruck an der Leitha, Vienna on Fri, 31 Jul 2026.
+sumi is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Thu, 30 Jul 2026, next at TBA - Paradies Garten Festival - Schloß Prugg 2, 2460 Gemeinde Bruck an der Leitha, Vienna on Fri, 31 Jul 2026.
 
-sumi is a techno and house artist tracked on soundcheck, with 31 sets logged across Amsterdam, Berlin, Bristol and Kyoto and 5 more. Often billed alongside AY (10), Felix Rupprecht and Ryan Elliott. Next up: TBA - Paradies Garten Festival - Schloß Prugg 2, 2460 Gemeinde Bruck an der Leitha, Vienna on Fri 31 Jul.
+sumi is a techno and house artist tracked on soundcheck, with 32 sets logged across Amsterdam, Berlin, Bristol and Kyoto and 5 more. Often billed alongside AY (10), Felix Rupprecht and Ryan Elliott. Next up: TBA - Paradies Garten Festival - Schloß Prugg 2, 2460 Gemeinde Bruck an der Leitha, Vienna on Fri 31 Jul.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ sumi is a techno and house artist tracked on soundcheck, with 31 sets logged acr
 | --- | --- | --- |
 | Fri, 31 Jul 2026 | TBA - Paradies Garten Festival - Schloß Prugg 2, 2460 Gemeinde Bruck an der Leitha | Vienna |
 | Fri, 31 Jul 2026 | BLITZ | Munich |
+| Sat, 15 Aug 2026 | Planet Wax | London |
 
 ## Recently played
 
@@ -26,4 +27,4 @@ sumi is a techno and house artist tracked on soundcheck, with 31 sets logged acr
 
 AY (10), Felix Rupprecht, Ryan Elliott
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/sumi-2/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/sumi-2/)*

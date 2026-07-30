@@ -1,6 +1,6 @@
-# Interstellar Audio: Transmissions - Keeno (Light / Dark DJ Set) at The Chapel Angel Microbrewery
+# Interstellar Audio: Transmissions - Keeno (LIGHT / DARK DJ SET) at The Chapel Angel Microbrewery
 
-Interstellar Audio: Transmissions - Keeno (Light / Dark DJ Set) at The Chapel Angel Microbrewery on Thu 20 Aug, Nottingham. 3 acts on the bill: alfs, Cellar (2) and Keeno. Drum & Bass and Jungle. Preview the line-up and save it on soundcheck.
+Interstellar Audio: Transmissions - Keeno (LIGHT / DARK DJ SET) at The Chapel Angel Microbrewery on Thu 20 Aug, Nottingham. 3 acts on the bill: alfs, Cellar (2) and Keeno. Drum & Bass and Jungle. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

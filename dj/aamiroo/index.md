@@ -1,6 +1,6 @@
 # AAMIROO
 
-AAMIROO is a Trance and Experimental artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at Jonny Knüppel, Berlin on Sat, 29 Aug 2026.
+AAMIROO is a Trance and Experimental artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at Jonny Knüppel, Berlin on Sat, 29 Aug 2026.
 
 AAMIROO is a trance and experimental artist based in Iran, tracked on soundcheck, with 21 sets logged across Berlin, Cologne and London. Often billed alongside Aalia Iraki, Bloomfield and Cassens. Next up: Jonny Knüppel, Berlin on Sat 29 Aug.
 
@@ -25,4 +25,4 @@ AAMIROO is a trance and experimental artist based in Iran, tracked on soundcheck
 
 Aalia Iraki, Bloomfield, Cassens
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/aamiroo/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/aamiroo/)*

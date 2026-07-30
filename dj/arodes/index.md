@@ -1,6 +1,6 @@
 # ARODES
 
-ARODES is a House and Afro House artist with 5 upcoming club dates listed on soundcheck as of Wed, 29 Jul 2026, next at Void Mykonos, Mykonos on Wed, 12 Aug 2026.
+ARODES is a House and Afro House artist with 5 upcoming club dates listed on soundcheck as of Thu, 30 Jul 2026, next at Void Mykonos, Mykonos on Wed, 12 Aug 2026.
 
 ARODES is a house and afro house artist tracked on soundcheck, with 116 sets logged across Amsterdam, Athens, Austin and Barcelona and 26 more. Often billed alongside Andrea Oliva, Shimza and Carlita. Next up: Void Mykonos, Mykonos on Wed 12 Aug.
 
@@ -29,4 +29,4 @@ ARODES is a house and afro house artist tracked on soundcheck, with 116 sets log
 
 Andrea Oliva, Shimza, Carlita
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/arodes/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/arodes/)*

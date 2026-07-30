@@ -1,6 +1,6 @@
 # Ac1d Vicious
 
-Ac1d Vicious is a Hardcore and Bass artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at Distillery N17, London on Fri, 14 Aug 2026.
+Ac1d Vicious is a Hardcore and Bass artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at Distillery N17, London on Fri, 14 Aug 2026.
 
 Ac1d Vicious is a hardcore and bass artist based in United Kingdom, tracked on soundcheck, with 9 sets logged across London. Often billed alongside Deep Practice, Medallion Man and 2CUTE2CUE. Next up: Distillery N17, London on Fri 14 Aug.
 
@@ -25,4 +25,4 @@ Ac1d Vicious is a hardcore and bass artist based in United Kingdom, tracked on s
 
 Deep Practice, Medallion Man, 2CUTE2CUE
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/ac1dvicious/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/ac1dvicious/)*

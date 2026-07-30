@@ -1,6 +1,6 @@
 # Bridget
 
-Bridget is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Wed, 29 Jul 2026, next at Revolver Upstairs, Melbourne on Sun, 2 Aug 2026.
+Bridget is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Thu, 30 Jul 2026, next at Revolver Upstairs, Melbourne on Sun, 2 Aug 2026.
 
 Bridget is a house and techno artist based in United States of America, tracked on soundcheck, with 34 sets logged across Detroit, Leeds, London and Melbourne and 3 more. Often billed alongside SPCL.K, STUKES and Beautiful Swimmers. Next up: Revolver Upstairs, Melbourne on Sun 2 Aug.
 
@@ -26,4 +26,4 @@ Bridget is a house and techno artist based in United States of America, tracked 
 
 SPCL.K, STUKES, Beautiful Swimmers
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/bridget/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/bridget/)*

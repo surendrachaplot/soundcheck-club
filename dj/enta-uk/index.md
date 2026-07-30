@@ -1,6 +1,6 @@
 # Enta
 
-Enta is a Drum & Bass and Jungle artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at Hackney Wick Multiple Venues, London on Sat, 1 Aug 2026.
+Enta is a Drum & Bass and Jungle artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at Hackney Wick Multiple Venues, London on Sat, 1 Aug 2026.
 
 Enta is a drum & bass and jungle artist based in United Kingdom, tracked on soundcheck, with 9 sets logged across Brighton, Bristol, London and Rotterdam. Often billed alongside Optical, Prolix and Black Sun Empire. Next up: Hackney Wick Multiple Venues, London on Sat 1 Aug.
 
@@ -25,4 +25,4 @@ Enta is a drum & bass and jungle artist based in United Kingdom, tracked on soun
 
 Optical, Prolix, Black Sun Empire
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/enta-uk/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/enta-uk/)*

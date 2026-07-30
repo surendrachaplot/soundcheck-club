@@ -1,6 +1,6 @@
 # Lady Deep
 
-Lady Deep is a Deep House and Afro House artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at Paradiso, Amsterdam on Thu, 6 Aug 2026.
+Lady Deep is a Deep House and Afro House artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at Paradiso, Amsterdam on Thu, 6 Aug 2026.
 
 Lady Deep is a deep house and afro house artist based in Netherlands, tracked on soundcheck, with 16 sets logged across Amsterdam, Mexicocity and Toronto. Often billed alongside Lola Rossa, NODUS and Neocraft. Next up: Paradiso, Amsterdam on Thu 6 Aug.
 
@@ -25,4 +25,4 @@ Lady Deep is a deep house and afro house artist based in Netherlands, tracked on
 
 Lola Rossa, NODUS, Neocraft
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/ladydeep/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/ladydeep/)*

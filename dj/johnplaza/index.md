@@ -1,6 +1,6 @@
 # John Plaza
 
-John Plaza is a Techno and Dub Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at DUNGEON akihabara, Tokyo on Sat, 5 Sept 2026.
+John Plaza is a Techno and Dub Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at DUNGEON akihabara, Tokyo on Sat, 5 Sept 2026.
 
 John Plaza is a techno and dub techno artist based in Chile, tracked on soundcheck, with 23 sets logged across Barcelona, Budapest, Buenosaires and London and 5 more. Often billed alongside Dhant, ABSIS and undetd.. Next up: DUNGEON akihabara, Tokyo on Sat 5 Sept.
 
@@ -25,4 +25,4 @@ John Plaza is a techno and dub techno artist based in Chile, tracked on soundche
 
 Dhant, ABSIS, undetd.
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/johnplaza/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/johnplaza/)*

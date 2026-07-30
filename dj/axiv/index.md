@@ -1,6 +1,6 @@
 # AXIV
 
-AXIV is a Techno and Electro artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at Shelter, Seoul on Sat, 1 Aug 2026.
+AXIV is a Techno and Electro artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at Shelter, Seoul on Sat, 1 Aug 2026.
 
 AXIV is a techno and electro artist based in Turkmenistan, tracked on soundcheck, with 14 sets logged across Seoul. Often billed alongside Honn, X2C (1) and SONGPANCAKE. Next up: Shelter, Seoul on Sat 1 Aug.
 
@@ -25,4 +25,4 @@ AXIV is a techno and electro artist based in Turkmenistan, tracked on soundcheck
 
 Honn, X2C (1), SONGPANCAKE
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/axiv/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/axiv/)*

@@ -1,6 +1,6 @@
 # Erikk Raphael
 
-Erikk Raphael is a House and Afro House artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at Spkrbox, Detroit on Sun, 2 Aug 2026.
+Erikk Raphael is a House and Afro House artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at Spkrbox, Detroit on Sun, 2 Aug 2026.
 
 Erikk Raphael is a house and afro house artist based in United States of America, tracked on soundcheck, with 7 sets logged across Detroit. Often billed alongside Adriel Fantastique!, JustinSublime and Loren. Next up: Spkrbox, Detroit on Sun 2 Aug.
 
@@ -23,4 +23,4 @@ Erikk Raphael is a house and afro house artist based in United States of America
 
 Adriel Fantastique!, JustinSublime, Loren
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/erikkraphael/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/erikkraphael/)*

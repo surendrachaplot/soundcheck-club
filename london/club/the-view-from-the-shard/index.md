@@ -1,6 +1,6 @@
 # The View From The Shard
 
-The View From The Shard is a music venue in London with 1 upcoming night listed on soundcheck as of Wed, 29 Jul 2026; the next is "fabric x Sennheiser: Sven Väth at The View From The Shard" on Fri, 21 Aug 2026.
+The View From The Shard is a music venue in London with 1 upcoming night listed on soundcheck as of Thu, 30 Jul 2026; the next is "fabric x Sennheiser: Sven Väth at The View From The Shard" on Fri, 21 Aug 2026.
 
 The View From The Shard is a music venue in London listed on soundcheck. 1 upcoming night, with line-ups including ELODIE, Sven Vath and Terry Francis. Browse upcoming dates, start times and who's playing. joiner street, se1 9QU.
 
@@ -14,4 +14,4 @@ The View From The Shard is a music venue in London listed on soundcheck. 1 upcom
 
 joiner street, se1 9QU, London
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/london/club/the-view-from-the-shard/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/london/club/the-view-from-the-shard/)*

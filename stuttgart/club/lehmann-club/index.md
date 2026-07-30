@@ -1,6 +1,6 @@
 # Lehmann Club
 
-Lehmann Club is a music venue in Stuttgart with 8 upcoming nights listed on soundcheck as of Wed, 29 Jul 2026; the next is "NAZZ-T 2 YEARS ANNIVERSARY x ATELIER UNDERGROUND" on Fri, 31 Jul 2026.
+Lehmann Club is a music venue in Stuttgart with 8 upcoming nights listed on soundcheck as of Thu, 30 Jul 2026; the next is "NAZZ-T 2 YEARS ANNIVERSARY x ATELIER UNDERGROUND" on Fri, 31 Jul 2026.
 
 Lehmann Club is a music venue in Stuttgart listed on soundcheck. 8 upcoming nights, with line-ups including Afem Syko, Bernd Affleck, Beste Hira and co:co and 2 more. Browse upcoming dates, start times and who's playing. Seidenstraße 20, 70174, Stuttgart.
 
@@ -21,4 +21,4 @@ Lehmann Club is a music venue in Stuttgart listed on soundcheck. 8 upcoming nigh
 
 Seidenstraße 20, 70174, Stuttgart, Stuttgart
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/stuttgart/club/lehmann-club/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/stuttgart/club/lehmann-club/)*

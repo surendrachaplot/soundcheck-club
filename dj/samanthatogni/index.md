@@ -1,6 +1,6 @@
 # Samantha Togni
 
-Samantha Togni is a Techno and House artist with 7 upcoming club dates listed on soundcheck as of Wed, 29 Jul 2026, next at Tide Nightclub, Brighton on Sat, 1 Aug 2026.
+Samantha Togni is a Techno and House artist with 7 upcoming club dates listed on soundcheck as of Thu, 30 Jul 2026, next at Tide Nightclub, Brighton on Sat, 1 Aug 2026.
 
 Samantha Togni is a techno and house artist based in United Kingdom, tracked on soundcheck, with 145 sets logged across Amsterdam, Athens, Bangkok and Barcelona and 36 more. Often billed alongside Mar/us, Lewis G. Burton and Nanzhen Yang. Next up: Tide Nightclub, Brighton on Sat 1 Aug.
 
@@ -31,4 +31,4 @@ Samantha Togni is a techno and house artist based in United Kingdom, tracked on 
 
 Mar/us, Lewis G. Burton, Nanzhen Yang
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/samanthatogni/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/samanthatogni/)*

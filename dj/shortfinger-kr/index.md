@@ -1,6 +1,6 @@
 # Short Finger
 
-Short Finger is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at Phantom Bar Berlin, Berlin on Thu, 30 Jul 2026.
+Short Finger is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at Phantom Bar Berlin, Berlin on Thu, 30 Jul 2026.
 
 Short Finger is a techno and house artist based in South Korea, tracked on soundcheck, with 104 sets logged across Berlin, Glasgow, Hongkong and Seoul. Often billed alongside DAMIE (KR), Stann Lumo and JAMIEST. Next up: Phantom Bar Berlin, Berlin on Thu 30 Jul.
 
@@ -25,4 +25,4 @@ Short Finger is a techno and house artist based in South Korea, tracked on sound
 
 DAMIE (KR), Stann Lumo, JAMIEST
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/shortfinger-kr/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/shortfinger-kr/)*

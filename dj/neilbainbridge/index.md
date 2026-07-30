@@ -1,6 +1,6 @@
 # Neil Bainbridge
 
-Neil Bainbridge is a Deep House and House artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at World Headquarters, Newcastle on Sat, 1 Aug 2026.
+Neil Bainbridge is a Deep House and House artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at World Headquarters, Newcastle on Sat, 1 Aug 2026.
 
 Neil Bainbridge is a deep house and house artist tracked on soundcheck, with 3 sets logged across Newcastle. Often billed alongside Scott Bradford, Deep Dish and Diz Jockey. Next up: World Headquarters, Newcastle on Sat 1 Aug.
 
@@ -19,4 +19,4 @@ Neil Bainbridge is a deep house and house artist tracked on soundcheck, with 3 s
 
 Scott Bradford, Deep Dish, Diz Jockey
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/neilbainbridge/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/neilbainbridge/)*

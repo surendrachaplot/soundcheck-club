@@ -1,6 +1,6 @@
 # Michael Rother
 
-Michael Rother is a Experimental and Krautrock artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at Neue Nationalgalerie, Berlin on Sat, 15 Aug 2026.
+Michael Rother is a Experimental and Krautrock artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at Neue Nationalgalerie, Berlin on Sat, 15 Aug 2026.
 
 Michael Rother is an experimental and krautrock artist based in Germany, tracked on soundcheck, with 2 sets logged across Berlin and Newyorkcity. Often billed alongside Eiko Ishibashi and HTRK. Next up: Neue Nationalgalerie, Berlin on Sat 15 Aug.
 
@@ -18,4 +18,4 @@ Michael Rother is an experimental and krautrock artist based in Germany, tracked
 
 Eiko Ishibashi, HTRK
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/michaelrother/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/michaelrother/)*

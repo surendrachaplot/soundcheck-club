@@ -1,6 +1,6 @@
 # Sholim Eso
 
-Sholim Eso is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at F8 1192 Folsom, San Francisco/Oakland on Fri, 7 Aug 2026.
+Sholim Eso is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at F8 1192 Folsom, San Francisco/Oakland on Fri, 7 Aug 2026.
 
 Sholim Eso is a techno and house artist tracked on soundcheck, with 28 sets logged across Mexicocity and Sanfrancisco. Often billed alongside Fawks, Jumpr and likeholywine. Next up: F8 1192 Folsom, Sanfrancisco on Fri 7 Aug.
 
@@ -25,4 +25,4 @@ Sholim Eso is a techno and house artist tracked on soundcheck, with 28 sets logg
 
 Fawks, Jumpr, likeholywine
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/sholimeso/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/sholimeso/)*

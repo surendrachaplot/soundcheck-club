@@ -1,6 +1,6 @@
 # Libro
 
-Libro is a Club artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at Shibuya Club Ball, Tokyo on Fri, 31 Jul 2026.
+Libro is a Club artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at Shibuya Club Ball, Tokyo on Fri, 31 Jul 2026.
 
 Libro is a club artist based in United Kingdom, tracked on soundcheck, with 2 sets logged across Manchester and Tokyo. Often billed alongside Body Snatchers, Charley Bolton and Charlie. Next up: Shibuya Club Ball, Tokyo on Fri 31 Jul.
 
@@ -18,4 +18,4 @@ Libro is a club artist based in United Kingdom, tracked on soundcheck, with 2 se
 
 Body Snatchers, Charley Bolton, Charlie
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/libro/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/libro/)*

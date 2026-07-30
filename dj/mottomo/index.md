@@ -1,6 +1,6 @@
 # Mottomo
 
-Mottomo is a Electro and Ambient artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at ÆDEN, Berlin on Sun, 23 Aug 2026.
+Mottomo is a Electro and Ambient artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at ÆDEN, Berlin on Sun, 23 Aug 2026.
 
 Mottomo is an electro and ambient artist tracked on soundcheck, with 9 sets logged across Berlin and Seoul. Often billed alongside Latnam, .2ndfloor and A.Attack. Next up: ÆDEN, Berlin on Sun 23 Aug.
 
@@ -25,4 +25,4 @@ Mottomo is an electro and ambient artist tracked on soundcheck, with 9 sets logg
 
 Latnam, .2ndfloor, A.Attack
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/mottomo/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/mottomo/)*

@@ -1,6 +1,6 @@
 # Oxy (Ro)
 
-Oxy (Ro) is a Minimal and House artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at Ibiza Jet, Ibiza on Thu, 30 Jul 2026.
+Oxy (Ro) is a Minimal and House artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at Ibiza Jet, Ibiza on Thu, 30 Jul 2026.
 
 Oxy (Ro) is a minimal and house artist based in Romania, tracked on soundcheck, with 8 sets logged across Bucharest, Geneva, Ibiza and London. Often billed alongside UNAI (ES), Cristian Ebasta and Enrico Chirchiello. Next up: Ibiza Jet, Ibiza on Thu 30 Jul.
 
@@ -24,4 +24,4 @@ Oxy (Ro) is a minimal and house artist based in Romania, tracked on soundcheck, 
 
 UNAI (ES), Cristian Ebasta, Enrico Chirchiello
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/oxyro/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/oxyro/)*

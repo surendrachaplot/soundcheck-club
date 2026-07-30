@@ -1,6 +1,6 @@
 # OST
 
-OST is a music venue in Berlin with 20 upcoming nights listed on soundcheck as of Wed, 29 Jul 2026; the next is "Savory - Techno Every Thursday" on Thu, 30 Jul 2026.
+OST is a music venue in Berlin with 20 upcoming nights listed on soundcheck as of Thu, 30 Jul 2026; the next is "Savory - Techno Every Thursday" on Thu, 30 Jul 2026.
 
 OST is a music venue in Berlin listed on soundcheck. 20 upcoming nights, with line-ups including 2HOT2PLAY, NYRA (DE), YOVA and Acid Asian and 2 more. Browse upcoming dates, start times and who's playing. Alt-Stralau, 1-2 Friedrichshain 10245.
 
@@ -12,8 +12,8 @@ OST is a music venue in Berlin listed on soundcheck. 20 upcoming nights, with li
 | Fri, 31 Jul 2026 | OST Klubnacht | M4RY, The Kiss, Viscerale |
 | Sat, 1 Aug 2026 | OST Klubnacht | FLACCO, ZELIA |
 | Fri, 7 Aug 2026 | Blasphemy w. Vieze Asbak, Neek, SaltySis, Elen Payne | DTEXX, Elen Payne, JUNO (3), SaltySis, Vieze Asbak |
-| Sat, 8 Aug 2026 | OST Klubnacht | Keyklau, WAN.1 |
-| Fri, 14 Aug 2026 | OST Klubnacht |  |
+| Sat, 8 Aug 2026 | OST Klubnacht | Keyklau, Melanchromie, WAN.1 |
+| Fri, 14 Aug 2026 | OST Klubnacht | BenzØ, Franeva, GM1 (IT), MAGDALENA MAY |
 | Sat, 15 Aug 2026 | Convent - Parade After Party | 2HOT2PLAY, Acid Asian, Amber Broos, DETOXX, Hannah Laing, Johannes Schuster, Nabor, Neon Graveyard, Phuture Traxx, SHU (2), TANJA MIJU, The Rocketman, Trancestrudel |
 | Sat, 22 Aug 2026 | EUPHORIK with BYORN, In Verruf & Alex Farell | Alex Farell, BENITO (DE), BYØRN, DTEXX, Death of Mars, Eurodance2000, Filialleiter, In Verruf, Louv, SIKXTO |
 | Fri, 28 Aug 2026 | ULTRA SOZIAL with Luciid, Obscure Shape, Tham  | An Chen, Luciid, Obscure Shape, Tham, Viscerale |
@@ -23,4 +23,4 @@ OST is a music venue in Berlin listed on soundcheck. 20 upcoming nights, with li
 
 Alt-Stralau, 1-2 Friedrichshain 10245, Berlin
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/ost/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/ost/)*

@@ -1,6 +1,6 @@
 # Hugo Martinez
 
-Hugo Martinez is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at Cadavra, Madrid on Fri, 31 Jul 2026.
+Hugo Martinez is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at Cadavra, Madrid on Fri, 31 Jul 2026.
 
 Hugo Martinez is a house and deep house artist tracked on soundcheck, with 75 sets logged across Amsterdam, Barcelona, Berlin and Ibiza and 10 more. Often billed alongside Pol K, Nuzzo and Carlos Vila. Next up: Cadavra, Madrid on Fri 31 Jul.
 
@@ -25,4 +25,4 @@ Hugo Martinez is a house and deep house artist tracked on soundcheck, with 75 se
 
 Pol K, Nuzzo, Carlos Vila
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/hugomartinez/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/hugomartinez/)*

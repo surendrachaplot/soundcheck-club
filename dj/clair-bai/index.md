@@ -1,6 +1,6 @@
 # CLAIR (BAI)
 
-CLAIR (BAI) is a Trance and Techno artist with 2 upcoming club dates listed on soundcheck as of Wed, 29 Jul 2026, next at Cakeshop, Seoul on Fri, 31 Jul 2026.
+CLAIR (BAI) is a Trance and Techno artist with 2 upcoming club dates listed on soundcheck as of Thu, 30 Jul 2026, next at Cakeshop, Seoul on Fri, 31 Jul 2026.
 
 CLAIR (BAI) is a trance and techno artist based in China, tracked on soundcheck, with 16 sets logged across Brisbane, Madrid, Melbourne and Seoul and 3 more. Often billed alongside zzm (2), Beibeilon and DJ ALI (AU). Next up: Cakeshop, Seoul on Fri 31 Jul.
 
@@ -26,4 +26,4 @@ CLAIR (BAI) is a trance and techno artist based in China, tracked on soundcheck,
 
 zzm (2), Beibeilon, DJ ALI (AU)
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/clair-bai/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/clair-bai/)*

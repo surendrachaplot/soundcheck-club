@@ -1,6 +1,6 @@
 # Wendy Bkz
 
-Wendy Bkz is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at Gaffe, London on Fri, 28 Aug 2026.
+Wendy Bkz is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at Gaffe, London on Fri, 28 Aug 2026.
 
 Wendy Bkz is a house and techno artist based in France, tracked on soundcheck, with 53 sets logged across Amsterdam, Antwerp, Barcelona and Berlin and 12 more. Often billed alongside Amau, Burchan Acar and Guillermo Jamas. Next up: Gaffe, London on Fri 28 Aug.
 
@@ -25,4 +25,4 @@ Wendy Bkz is a house and techno artist based in France, tracked on soundcheck, w
 
 Amau, Burchan Acar, Guillermo Jamas
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/wendybkz/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/wendybkz/)*

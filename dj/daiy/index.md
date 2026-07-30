@@ -1,14 +1,15 @@
 # DAIY
 
-DAIY is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at Daikanyama ORD., Tokyo on Fri, 31 Jul 2026.
+DAIY is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Thu, 30 Jul 2026, next at Daikanyama ORD., Tokyo on Fri, 31 Jul 2026.
 
-DAIY is a techno and house artist based in Japan, tracked on soundcheck, with 79 sets logged across Tokyo. Often billed alongside Tokukazu, Yos. and DJ Wada. Next up: Daikanyama ORD., Tokyo on Fri 31 Jul.
+DAIY is a techno and house artist based in Japan, tracked on soundcheck, with 80 sets logged across Tokyo. Often billed alongside Tokukazu, DJ Wada and Yos.. Next up: Daikanyama ORD., Tokyo on Fri 31 Jul.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 31 Jul 2026 | Daikanyama ORD. | Tokyo |
+| Mon, 10 Aug 2026 | UTOPIA / DYSTOPIA | Tokyo |
 
 ## Recently played
 
@@ -23,6 +24,6 @@ DAIY is a techno and house artist based in Japan, tracked on soundcheck, with 79
 
 ## Shares bills with
 
-Tokukazu, Yos., DJ Wada
+Tokukazu, DJ Wada, Yos.
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/daiy/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/daiy/)*

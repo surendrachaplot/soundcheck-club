@@ -1,14 +1,13 @@
 # Cat Club
 
-Cat Club is a music venue in San Francisco/Oakland with 6 upcoming nights listed on soundcheck as of Wed, 29 Jul 2026; the next is "Open Go Go Night!" on Wed, 29 Jul 2026.
+Cat Club is a music venue in San Francisco/Oakland with 5 upcoming nights listed on soundcheck as of Thu, 30 Jul 2026; the next is "1984" on Thu, 30 Jul 2026.
 
-Cat Club is a music venue in Sanfrancisco listed on soundcheck. 6 upcoming nights. Browse upcoming dates, start times and who's playing. 1190 Folsom St, San Francisco, CA 94103, United States.
+Cat Club is a music venue in Sanfrancisco listed on soundcheck. 5 upcoming nights. Browse upcoming dates, start times and who's playing. 1190 Folsom St, San Francisco, CA 94103, United States.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Wed, 29 Jul 2026 | Open Go Go Night! |  |
 | Thu, 30 Jul 2026 | 1984 |  |
 | Sat, 1 Aug 2026 | Hot Girl Summer: Bootie Mashup |  |
 | Fri, 7 Aug 2026 | Music For The Masses (Dark '80 New Wave) + MIDNITE CITY [INDIE DISCO] |  |
@@ -19,4 +18,4 @@ Cat Club is a music venue in Sanfrancisco listed on soundcheck. 6 upcoming night
 
 1190 Folsom St, San Francisco, CA 94103, United States, San Francisco/Oakland
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/sanfrancisco/club/cat-club/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/sanfrancisco/club/cat-club/)*

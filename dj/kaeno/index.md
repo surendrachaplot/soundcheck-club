@@ -1,6 +1,6 @@
 # Kaeno
 
-Kaeno is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at Ximxim Bar, Seoul on Sat, 8 Aug 2026.
+Kaeno is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at Ximxim Bar, Seoul on Sat, 8 Aug 2026.
 
 Kaeno is a techno and trance artist based in United States of America, tracked on soundcheck, with 8 sets logged across Amsterdam, Boston, London and Losangeles and 3 more. Often billed alongside Paul Oakenfold, AEMI and Aly & Fila. Next up: Ximxim Bar, Seoul on Sat 8 Aug.
 
@@ -24,4 +24,4 @@ Kaeno is a techno and trance artist based in United States of America, tracked o
 
 Paul Oakenfold, AEMI, Aly & Fila
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/kaeno/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/kaeno/)*

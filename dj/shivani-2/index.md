@@ -1,6 +1,6 @@
 # Shivani (2)
 
-Shivani (2) is a electronic artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at Sui Generis, London on Fri, 31 Jul 2026.
+Shivani (2) is a electronic artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at Sui Generis, London on Fri, 31 Jul 2026.
 
 Shivani (2) is an electronic artist based in United Kingdom, tracked on soundcheck, with 8 sets logged across London. Often billed alongside Dusty Dan, Sissy Fit and ATST. Next up: Sui Generis, London on Fri 31 Jul.
 
@@ -24,4 +24,4 @@ Shivani (2) is an electronic artist based in United Kingdom, tracked on soundche
 
 Dusty Dan, Sissy Fit, ATST
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/shivani-2/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/shivani-2/)*

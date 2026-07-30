@@ -1,6 +1,6 @@
 # Billy Idle
 
-Billy Idle is a Italo Disco and Disco artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at 7833 Soundlab, Barcelona on Thu, 30 Jul 2026.
+Billy Idle is a Italo Disco and Disco artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at 7833 Soundlab, Barcelona on Thu, 30 Jul 2026.
 
 Billy Idle is an italo disco and disco artist based in Germany, tracked on soundcheck, with 32 sets logged across Barcelona, Berlin, Leipzig and London and 2 more. Often billed alongside Shimanski, DJ Übergang and James Rod. Next up: 7833 Soundlab, Barcelona on Thu 30 Jul.
 
@@ -25,4 +25,4 @@ Billy Idle is an italo disco and disco artist based in Germany, tracked on sound
 
 Shimanski, DJ Übergang, James Rod
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/billyidle/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/billyidle/)*

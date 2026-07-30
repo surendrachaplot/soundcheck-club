@@ -1,6 +1,6 @@
 # MISS VEE
 
-MISS VEE is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Wed, 29 Jul 2026, next at Mehanata Bar, New York City on Thu, 30 Jul 2026.
+MISS VEE is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Thu, 30 Jul 2026, next at Mehanata Bar, New York City on Thu, 30 Jul 2026.
 
 MISS VEE is a house and techno artist based in United States of America, tracked on soundcheck, with 40 sets logged across Newyorkcity. Often billed alongside DJ Sauci Soni, shirlz and MAXWELL HöUSE. Next up: Mehanata Bar, Newyorkcity on Thu 30 Jul.
 
@@ -26,4 +26,4 @@ MISS VEE is a house and techno artist based in United States of America, tracked
 
 DJ Sauci Soni, shirlz, MAXWELL HöUSE
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/missvee/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/missvee/)*

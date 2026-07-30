@@ -1,6 +1,6 @@
 # VS.techno
 
-VS.techno is a Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at Tigullio, Malta on Thu, 13 Aug 2026.
+VS.techno is a Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at Tigullio, Malta on Thu, 13 Aug 2026.
 
 VS.techno is a techno artist based in France, tracked on soundcheck, with 2 sets logged across Malta. Often billed alongside Kingsmo, Naomi Baldacchino and ERØXX. Next up: Tigullio, Malta on Thu 13 Aug.
 
@@ -18,4 +18,4 @@ VS.techno is a techno artist based in France, tracked on soundcheck, with 2 sets
 
 Kingsmo, Naomi Baldacchino, ERØXX
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/vs.techno/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/vs.techno/)*

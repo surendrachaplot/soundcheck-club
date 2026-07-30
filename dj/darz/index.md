@@ -1,6 +1,6 @@
 # Darz
 
-Darz is a Garage and Bass artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at Hackney Downs Studios, London on Sat, 1 Aug 2026.
+Darz is a Garage and Bass artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at Hackney Downs Studios, London on Sat, 1 Aug 2026.
 
 Darz is a garage and bass artist tracked on soundcheck, with 8 sets logged across Bristol, London and Sheffield. Often billed alongside Knegativ, Benton (UK) and GEM (UK). Next up: Hackney Downs Studios, London on Sat 1 Aug.
 
@@ -24,4 +24,4 @@ Darz is a garage and bass artist tracked on soundcheck, with 8 sets logged acros
 
 Knegativ, Benton (UK), GEM (UK)
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/darz/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/darz/)*

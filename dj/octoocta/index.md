@@ -1,14 +1,13 @@
 # Octo Octa
 
-Octo Octa is a House and Techno artist with 12 upcoming club dates listed on soundcheck as of Wed, 29 Jul 2026, next at Amsterdamse Bos, Amsterdam on Wed, 29 Jul 2026.
+Octo Octa is a House and Techno artist with 11 upcoming club dates listed on soundcheck as of Thu, 30 Jul 2026, next at Amsterdamse Bos, Amsterdam on Sat, 1 Aug 2026.
 
-Octo Octa is a house and techno artist tracked on soundcheck, with 194 sets logged across Amsterdam, Antwerp, Bali and Barcelona and 55 more. Often billed alongside Eris Drew, CCL and Fafi Abdel Nour. Next up: Amsterdamse Bos, Amsterdam on Wed 29 Jul.
+Octo Octa is a house and techno artist tracked on soundcheck, with 194 sets logged across Amsterdam, Antwerp, Bali and Barcelona and 55 more. Often billed alongside Eris Drew, CCL and Fafi Abdel Nour. Next up: Amsterdamse Bos, Amsterdam on Sat 1 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Wed, 29 Jul 2026 | Amsterdamse Bos | Amsterdam |
 | Sat, 1 Aug 2026 | Amsterdamse Bos | Amsterdam |
 | Sun, 2 Aug 2026 | Amsterdamse Bos | Amsterdam |
 | Sun, 9 Aug 2026 | Haus der Visionäre | Berlin |
@@ -23,6 +22,7 @@ Octo Octa is a house and techno artist tracked on soundcheck, with 194 sets logg
 
 ## Recently played
 
+- Amsterdamse Bos, Amsterdam — Wed, 29 Jul 2026
 - The White Hotel, Manchester — Sun, 26 Jul 2026
 - Milandia, Zurich — Sat, 25 Jul 2026
 - Garchinger See, Munich — Sat, 18 Jul 2026
@@ -30,10 +30,9 @@ Octo Octa is a house and techno artist tracked on soundcheck, with 194 sets logg
 - Schönwalde-Glien, Grünefeld bei Berlin, Germany, Berlin — Thu, 16 Jul 2026
 - TBA - Paradise City Festival, Brussels — Fri, 26 Jun 2026
 - Zebbie's Garden, Washington DC — Sun, 21 Jun 2026
-- Sloterpark, Amsterdam — Sat, 20 Jun 2026
 
 ## Shares bills with
 
 Eris Drew, CCL, Fafi Abdel Nour
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/octoocta/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/octoocta/)*

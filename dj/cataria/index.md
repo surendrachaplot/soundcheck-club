@@ -1,6 +1,6 @@
 # Cataria
 
-Cataria is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at TBA - Secret Location, Vancouver on Sat, 1 Aug 2026.
+Cataria is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at TBA - Secret Location, Vancouver on Sat, 1 Aug 2026.
 
 Cataria is a techno and house artist tracked on soundcheck, with 46 sets logged across Vancouver. Often billed alongside C-Star, Behrad Tehrani and DK PAU. Next up: TBA - Secret Location, Vancouver on Sat 1 Aug.
 
@@ -25,4 +25,4 @@ Cataria is a techno and house artist tracked on soundcheck, with 46 sets logged 
 
 C-Star, Behrad Tehrani, DK PAU
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/cataria/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/cataria/)*

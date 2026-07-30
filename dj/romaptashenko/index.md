@@ -1,6 +1,6 @@
 # Roma Ptashenko
 
-Roma Ptashenko is a Techno and Acid artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at Mejan, Bali on Fri, 31 Jul 2026.
+Roma Ptashenko is a Techno and Acid artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at Mejan, Bali on Fri, 31 Jul 2026.
 
 Roma Ptashenko is a techno and acid artist based in Russia, tracked on soundcheck, with 2 sets logged across Bali and Belgrade. Often billed alongside Anelle, Domenico Crisci and Latex (1). Next up: Mejan, Bali on Fri 31 Jul.
 
@@ -18,4 +18,4 @@ Roma Ptashenko is a techno and acid artist based in Russia, tracked on soundchec
 
 Anelle, Domenico Crisci, Latex (1)
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/romaptashenko/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/romaptashenko/)*

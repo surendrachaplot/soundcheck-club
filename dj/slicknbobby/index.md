@@ -1,6 +1,6 @@
 # Slick N Bobby
 
-Slick N Bobby is a Jazz and Dub artist with 2 upcoming club dates listed on soundcheck as of Wed, 29 Jul 2026, next at Club Silly (Bosi), London on Thu, 6 Aug 2026.
+Slick N Bobby is a Jazz and Dub artist with 2 upcoming club dates listed on soundcheck as of Thu, 30 Jul 2026, next at Club Silly (Bosi), London on Thu, 6 Aug 2026.
 
 Slick N Bobby is a jazz and dub artist tracked on soundcheck, with 20 sets logged across London and Paris. Often billed alongside DJ Snuff, Errol and Sammseed. Next up: Club Silly (Bosi), London on Thu 6 Aug.
 
@@ -26,4 +26,4 @@ Slick N Bobby is a jazz and dub artist tracked on soundcheck, with 20 sets logge
 
 DJ Snuff, Errol, Sammseed
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/slicknbobby/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/slicknbobby/)*

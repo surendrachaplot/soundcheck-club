@@ -1,6 +1,6 @@
 # shaiwarrior
 
-shaiwarrior is a Experimental and Hardcore artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at Distillery N17, London on Fri, 7 Aug 2026.
+shaiwarrior is a Experimental and Hardcore artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at Distillery N17, London on Fri, 7 Aug 2026.
 
 shaiwarrior is an experimental and hardcore artist tracked on soundcheck, with 6 sets logged across Birmingham and London. Often billed alongside Lijan, Megsuperstarprincess and Oatmilkandcodeine. Next up: Distillery N17, London on Fri 7 Aug.
 
@@ -22,4 +22,4 @@ shaiwarrior is an experimental and hardcore artist tracked on soundcheck, with 6
 
 Lijan, Megsuperstarprincess, Oatmilkandcodeine
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/shaiwarrior/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/shaiwarrior/)*

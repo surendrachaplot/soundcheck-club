@@ -1,6 +1,6 @@
 # Dj incognito mode
 
-Dj incognito mode is a House and Disco artist with 2 upcoming club dates listed on soundcheck as of Wed, 29 Jul 2026, next at The Dolphin, Philadelphia on Fri, 7 Aug 2026.
+Dj incognito mode is a House and Disco artist with 2 upcoming club dates listed on soundcheck as of Thu, 30 Jul 2026, next at The Dolphin, Philadelphia on Fri, 7 Aug 2026.
 
 Dj incognito mode is a house and disco artist based in United States of America, tracked on soundcheck, with 119 sets logged across Detroit, Lisbon, Mexicocity and Miami and 6 more. Often billed alongside Peter Croce, Charles Trees and Eddie Logix. Next up: The Dolphin, Philadelphia on Fri 7 Aug.
 
@@ -26,4 +26,4 @@ Dj incognito mode is a house and disco artist based in United States of America,
 
 Peter Croce, Charles Trees, Eddie Logix
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/heidyp-us/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/heidyp-us/)*

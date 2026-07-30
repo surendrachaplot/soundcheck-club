@@ -1,14 +1,13 @@
 # Richard Akingbehin
 
-Richard Akingbehin is a Techno and Dub Techno artist with 9 upcoming club dates listed on soundcheck as of Wed, 29 Jul 2026, next at Amsterdamse Bos, Amsterdam on Wed, 29 Jul 2026.
+Richard Akingbehin is a Techno and Dub Techno artist with 8 upcoming club dates listed on soundcheck as of Thu, 30 Jul 2026, next at Amsterdamse Bos, Amsterdam on Sun, 2 Aug 2026.
 
-Richard Akingbehin is a techno and dub techno artist tracked on soundcheck, with 127 sets logged across Amsterdam, Barcelona, Berlin and Brussels and 27 more. Often billed alongside Tikiman, livwutang and BASHKKA. Next up: Amsterdamse Bos, Amsterdam on Wed 29 Jul.
+Richard Akingbehin is a techno and dub techno artist tracked on soundcheck, with 127 sets logged across Amsterdam, Barcelona, Berlin and Brussels and 27 more. Often billed alongside Tikiman, livwutang and BASHKKA. Next up: Amsterdamse Bos, Amsterdam on Sun 2 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Wed, 29 Jul 2026 | Amsterdamse Bos | Amsterdam |
 | Sun, 2 Aug 2026 | Amsterdamse Bos | Amsterdam |
 | Fri, 7 Aug 2026 | Berghain / Panorama Bar / Säule | Berlin |
 | Sat, 8 Aug 2026 | Palais | London |
@@ -20,6 +19,7 @@ Richard Akingbehin is a techno and dub techno artist tracked on soundcheck, with
 
 ## Recently played
 
+- Amsterdamse Bos, Amsterdam — Wed, 29 Jul 2026
 - BLITZ, Munich — Fri, 24 Jul 2026
 - Garchinger See, Munich — Sat, 18 Jul 2026
 - FOLD, London — Sat, 27 Jun 2026
@@ -27,10 +27,9 @@ Richard Akingbehin is a techno and dub techno artist tracked on soundcheck, with
 - Berghain | Panorama Bar | Säule, Berlin — Sat, 13 Jun 2026
 - La Péniche Cinéma, Paris — Fri, 29 May 2026
 - West Indian Centre, Leeds — Sun, 24 May 2026
-- Peckham Rye Park, London — Fri, 22 May 2026
 
 ## Shares bills with
 
 Tikiman, livwutang, BASHKKA
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/richardakingbehin/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/richardakingbehin/)*

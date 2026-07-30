@@ -1,6 +1,6 @@
 # Autumn Tree
 
-Autumn Tree is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at TBA, Tbilisi on Fri, 21 Aug 2026.
+Autumn Tree is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at TBA, Tbilisi on Fri, 21 Aug 2026.
 
 Autumn Tree is a techno and house artist based in Georgia, tracked on soundcheck, with 35 sets logged across Tbilisi. Often billed alongside Tomma, Ika (GE) and SUMO. Next up: TBA, Tbilisi on Fri 21 Aug.
 
@@ -25,4 +25,4 @@ Autumn Tree is a techno and house artist based in Georgia, tracked on soundcheck
 
 Tomma, Ika (GE), SUMO
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/autumntree/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/autumntree/)*

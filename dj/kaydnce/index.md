@@ -1,6 +1,6 @@
 # KAYDNCE
 
-KAYDNCE is a Minimal and Tech House artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at Last Arch, London on Fri, 14 Aug 2026.
+KAYDNCE is a Minimal and Tech House artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at Last Arch, London on Fri, 14 Aug 2026.
 
 KAYDNCE is a minimal and tech house artist based in United Kingdom, tracked on soundcheck, with 10 sets logged across London. Often billed alongside Jo Cruz, Jerome Awtem and AZZA. Next up: Last Arch, London on Fri 14 Aug.
 
@@ -25,4 +25,4 @@ KAYDNCE is a minimal and tech house artist based in United Kingdom, tracked on s
 
 Jo Cruz, Jerome Awtem, AZZA
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/kaydnce/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/kaydnce/)*

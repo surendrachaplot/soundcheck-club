@@ -1,6 +1,6 @@
 # Lale Hepborn
 
-Lale Hepborn is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Wed, 29 Jul 2026, next at TBA, Berlin on Sat, 15 Aug 2026.
+Lale Hepborn is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Thu, 30 Jul 2026, next at TBA, Berlin on Sat, 15 Aug 2026.
 
 Lale Hepborn is a techno and house artist based in Germany, tracked on soundcheck, with 26 sets logged across Berlin, Brussels, Munich and Nurnberg and 1 more. Often billed alongside KEN (DE), Tim Hagemann and DJ PayPaul. Next up: TBA, Berlin on Sat 15 Aug.
 
@@ -26,4 +26,4 @@ Lale Hepborn is a techno and house artist based in Germany, tracked on soundchec
 
 KEN (DE), Tim Hagemann, DJ PayPaul
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/lalehepborn/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/lalehepborn/)*

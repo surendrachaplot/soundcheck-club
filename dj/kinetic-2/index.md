@@ -1,6 +1,6 @@
 # Kinetic (2)
 
-Kinetic (2) is a Electro and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at Village Underground Barcelona, Barcelona on Fri, 31 Jul 2026.
+Kinetic (2) is a Electro and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at Village Underground Barcelona, Barcelona on Fri, 31 Jul 2026.
 
 Kinetic (2) is an electro and techno artist based in Spain, tracked on soundcheck, with 29 sets logged across Barcelona, Brussels, Madrid and Marseille. Often billed alongside Ed Warner, Deckard and Lyonel. Next up: Village Underground Barcelona, Barcelona on Fri 31 Jul.
 
@@ -25,4 +25,4 @@ Kinetic (2) is an electro and techno artist based in Spain, tracked on soundchec
 
 Ed Warner, Deckard, Lyonel
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/kinetic-2/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/kinetic-2/)*

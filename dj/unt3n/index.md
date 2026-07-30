@@ -1,6 +1,6 @@
 # UNT3N
 
-UNT3N is a Techno and Hardcore artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at ÆDEN, Berlin on Thu, 30 Jul 2026.
+UNT3N is a Techno and Hardcore artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at ÆDEN, Berlin on Thu, 30 Jul 2026.
 
 UNT3N is a techno and hardcore artist based in Germany, tracked on soundcheck, with 16 sets logged across Berlin. Often billed alongside K1KO, SPEEDFREAK and FLUCC. Next up: ÆDEN, Berlin on Thu 30 Jul.
 
@@ -25,4 +25,4 @@ UNT3N is a techno and hardcore artist based in Germany, tracked on soundcheck, w
 
 K1KO, SPEEDFREAK, FLUCC
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/unt3n/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/unt3n/)*

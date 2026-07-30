@@ -1,6 +1,6 @@
 # LizN
 
-LizN is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Wed, 29 Jul 2026, next at Porto Pollo, Vienna on Fri, 31 Jul 2026.
+LizN is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Thu, 30 Jul 2026, next at Porto Pollo, Vienna on Fri, 31 Jul 2026.
 
 LizN is a house and techno artist based in Germany, tracked on soundcheck, with 39 sets logged across Frankfurt, Hamburg and Vienna. Often billed alongside Anni Herzer, Albin Brezlan and Jobmann. Next up: Porto Pollo, Vienna on Fri 31 Jul.
 
@@ -26,4 +26,4 @@ LizN is a house and techno artist based in Germany, tracked on soundcheck, with 
 
 Anni Herzer, Albin Brezlan, Jobmann
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/lizn/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/lizn/)*

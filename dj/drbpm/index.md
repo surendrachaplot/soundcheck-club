@@ -1,6 +1,6 @@
 # DR BPM
 
-DR BPM is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at TBA, Vancouver on Sun, 2 Aug 2026.
+DR BPM is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at TBA, Vancouver on Sun, 2 Aug 2026.
 
 DR BPM is a techno and house artist tracked on soundcheck, with 23 sets logged across Vancouver. Often billed alongside Donna Dada, SUBDIDI and nalule. Next up: TBA, Vancouver on Sun 2 Aug.
 
@@ -25,4 +25,4 @@ DR BPM is a techno and house artist tracked on soundcheck, with 23 sets logged a
 
 Donna Dada, SUBDIDI, nalule
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/drbpm/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/drbpm/)*

@@ -1,6 +1,6 @@
 # Swam
 
-Swam is a House and Balearic artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at Caracol Bar, Sao Paulo on Sat, 1 Aug 2026.
+Swam is a House and Balearic artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at Caracol Bar, Sao Paulo on Sat, 1 Aug 2026.
 
 Swam is a house and balearic artist based in Brazil, tracked on soundcheck, with 22 sets logged across Saopaulo. Often billed alongside nat consentino, Renato Cohen and Vermelho. Next up: Caracol Bar, Saopaulo on Sat 1 Aug.
 
@@ -25,4 +25,4 @@ Swam is a house and balearic artist based in Brazil, tracked on soundcheck, with
 
 nat consentino, Renato Cohen, Vermelho
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/swam/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/swam/)*

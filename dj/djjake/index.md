@@ -1,6 +1,6 @@
 # DJ JAKE
 
-DJ JAKE is a Techno and Industrial artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at Z Maruyama, Tokyo on Thu, 30 Jul 2026.
+DJ JAKE is a Techno and Industrial artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at Z Maruyama, Tokyo on Thu, 30 Jul 2026.
 
 DJ JAKE is a techno and industrial artist based in Japan, tracked on soundcheck, with 13 sets logged across Tokyo. Often billed alongside NIKI (JP), YOXIKI and ATAMI. Next up: Z Maruyama, Tokyo on Thu 30 Jul.
 
@@ -25,4 +25,4 @@ DJ JAKE is a techno and industrial artist based in Japan, tracked on soundcheck,
 
 NIKI (JP), YOXIKI, ATAMI
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/djjake/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/djjake/)*

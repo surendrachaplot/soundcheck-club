@@ -1,6 +1,6 @@
 # Cannons
 
-Cannons is a music venue in Detroit with 2 upcoming nights listed on soundcheck as of Wed, 29 Jul 2026; the next is "FUSION" on Fri, 7 Aug 2026.
+Cannons is a music venue in Detroit with 2 upcoming nights listed on soundcheck as of Thu, 30 Jul 2026; the next is "FUSION" on Fri, 7 Aug 2026.
 
 Cannons is a music venue in Detroit listed on soundcheck. 2 upcoming nights, with line-ups including DUANE (US), Human Robot and RAY PRASAD. Browse upcoming dates, start times and who's playing. 15421 Mack Ave.
 
@@ -15,4 +15,4 @@ Cannons is a music venue in Detroit listed on soundcheck. 2 upcoming nights, wit
 
 15421 Mack Ave, Detroit
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/detroit/club/cannons/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/detroit/club/cannons/)*

@@ -1,6 +1,6 @@
 # Nico Moon
 
-Nico Moon is a House and Deep House artist with 2 upcoming club dates listed on soundcheck as of Wed, 29 Jul 2026, next at Motorworld, Palma de Mallorca, Mallorca on Sun, 2 Aug 2026.
+Nico Moon is a House and Deep House artist with 2 upcoming club dates listed on soundcheck as of Thu, 30 Jul 2026, next at Motorworld, Palma de Mallorca, Mallorca on Sun, 2 Aug 2026.
 
 Nico Moon is a house and deep house artist based in Argentina, tracked on soundcheck, with 61 sets logged across Ibiza, Losangeles, Mallorca and Miami and 2 more. Often billed alongside Kike Roldan, DIFFER and Mariano Mellino. Next up: Motorworld, Palma de Mallorca, Mallorca on Sun 2 Aug.
 
@@ -26,4 +26,4 @@ Nico Moon is a house and deep house artist based in Argentina, tracked on soundc
 
 Kike Roldan, DIFFER, Mariano Mellino
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/nicomoon/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/nicomoon/)*

@@ -1,6 +1,6 @@
 # Cave
 
-Cave is a music venue in Tokyo with 11 upcoming nights listed on soundcheck as of Wed, 29 Jul 2026; the next is "Koenji Cave presents - Curiosity - 012" on Fri, 31 Jul 2026.
+Cave is a music venue in Tokyo with 11 upcoming nights listed on soundcheck as of Thu, 30 Jul 2026; the next is "Koenji Cave presents - Curiosity - 012" on Fri, 31 Jul 2026.
 
 Cave is a music venue in Tokyo listed on soundcheck. 11 upcoming nights, with line-ups including araki, BERLINER KINDL, CATRONICA and CyberMoripy and 2 more. Browse upcoming dates, start times and who's playing. 4-23-5 Koenjiminami, Suginami-ku, Tokyo, 166-0003 Japan.
 
@@ -23,4 +23,4 @@ Cave is a music venue in Tokyo listed on soundcheck. 11 upcoming nights, with li
 
 4-23-5 Koenjiminami, Suginami-ku, Tokyo, 166-0003 Japan, Tokyo
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/cave/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/cave/)*

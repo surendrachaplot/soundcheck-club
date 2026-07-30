@@ -1,6 +1,6 @@
 # Hans Arsen
 
-Hans Arsen is a Experimental and Pop artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at TBA - Apiro, Marche IT, Milan on Thu, 30 Jul 2026.
+Hans Arsen is a Experimental and Pop artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at TBA - Apiro, Marche IT, Milan on Thu, 30 Jul 2026.
 
 Hans Arsen is an experimental and pop artist based in Republic of the Congo, tracked on soundcheck, with 19 sets logged across Amsterdam, Basel, Berlin and Brussels and 4 more. Often billed alongside Flux By Uchiha, Giesse and MBODJ. Next up: TBA - Apiro, Marche IT, Milan on Thu 30 Jul.
 
@@ -25,4 +25,4 @@ Hans Arsen is an experimental and pop artist based in Republic of the Congo, tra
 
 Flux By Uchiha, Giesse, MBODJ
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/hansarsen/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/hansarsen/)*

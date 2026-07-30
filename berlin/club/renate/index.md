@@ -1,8 +1,8 @@
 # Renate
 
-Renate is a music venue in Berlin with 16 upcoming nights listed on soundcheck as of Wed, 29 Jul 2026; the next is "Renate x Dollhaus x Don't Rush On A Wonk (Free Openair)" on Thu, 30 Jul 2026.
+Renate is a music venue in Berlin with 16 upcoming nights listed on soundcheck as of Thu, 30 Jul 2026; the next is "Renate x Dollhaus x Don't Rush On A Wonk (Free Openair)" on Thu, 30 Jul 2026.
 
-Renate is a music venue in Berlin listed on soundcheck. 16 upcoming nights, with line-ups including Aceedo, Adis Is OK, Aidan and Alison Swing and 2 more. Browse upcoming dates, start times and who's playing. Alt Stralau 70; Friedrichshain; 10245 Berlin; Germany.
+Renate is a music venue in Berlin listed on soundcheck. 16 upcoming nights, with line-ups including ābnamā, Aceedo, Adis Is OK and Aidan and 2 more. Browse upcoming dates, start times and who's playing. Alt Stralau 70; Friedrichshain; 10245 Berlin; Germany.
 
 ## What's on
 
@@ -17,10 +17,10 @@ Renate is a music venue in Berlin listed on soundcheck. 16 upcoming nights, with
 | Thu, 13 Aug 2026 | Renate Klubnacht + Open Air (Free Entry) |  |
 | Sat, 15 Aug 2026 | Renate Klubnacht + Open Air (Free Entry) w/ S3XI, DUAT & Antina Christ | Alison Swing, Amin Fallaha, Chris Ku, Cosmic Cherry, DJ ZBB, Disco Sour, Eluzid, Horkheimer, Karina Schneider, Tajik |
 | Thu, 20 Aug 2026 | Renate x Queer Vinyl Night (Klubnacht + Free Open Air) | Jimmie, Kidcat, SALAS, zikade |
-| Sat, 22 Aug 2026 | Renate Klubnacht + Open Air (Free Entry) with RDS, Eversines, Marie K, Iterations + Dub & Dal | DJ SKIN, Eversines, Frank Heise, Mademoisel, Marie K (1), Philipp Drube, Pieter Jansen, RDS |
+| Sat, 22 Aug 2026 | Renate Klubnacht + Open Air (Free Entry) with RDS, Eversines, Marie K, Iterations + Dub & Dal | Amy Kisnorbo, Bakläxa, DJ SKIN, Eversines, Frank Heise, Mademoisel, Marie K (1), O.M.Theorem, Philipp Drube, Pieter Jansen, RDS, Uta, mgt (DE) |
 
 ## Address
 
 Alt Stralau 70; Friedrichshain; 10245 Berlin; Germany, Berlin
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/renate/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/renate/)*

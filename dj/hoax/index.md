@@ -1,6 +1,6 @@
 # HOAX
 
-HOAX is a Drum & Bass and Techno artist with 2 upcoming club dates listed on soundcheck as of Wed, 29 Jul 2026, next at Colour Factory, London on Sat, 1 Aug 2026.
+HOAX is a Drum & Bass and Techno artist with 2 upcoming club dates listed on soundcheck as of Thu, 30 Jul 2026, next at Colour Factory, London on Sat, 1 Aug 2026.
 
 HOAX is a drum & bass and techno artist tracked on soundcheck, with 21 sets logged across Amsterdam, Berlin, Brighton and Bristol and 8 more. Often billed alongside Whiney, Fred V and Degs. Next up: Colour Factory, London on Sat 1 Aug.
 
@@ -26,4 +26,4 @@ HOAX is a drum & bass and techno artist tracked on soundcheck, with 21 sets logg
 
 Whiney, Fred V, Degs
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/hoax/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/hoax/)*

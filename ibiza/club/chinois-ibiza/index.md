@@ -1,14 +1,13 @@
 # Chinois Ibiza
 
-Chinois Ibiza is a music venue in Ibiza with 61 upcoming nights listed on soundcheck as of Wed, 29 Jul 2026; the next is "Mahmut Orhan: PEOPLE LIKE US, Peace Control, FOSTER THE PEOPLE (DJ SET), Mahmut Orhan" on Wed, 29 Jul 2026.
+Chinois Ibiza is a music venue in Ibiza with 60 upcoming nights listed on soundcheck as of Thu, 30 Jul 2026; the next is "Defected: Carl Craig, DJ Gregory, Floorplan, HoneyLuv, The Menendez Brothers" on Thu, 30 Jul 2026.
 
-Chinois Ibiza is a music venue in Ibiza listed on soundcheck. 61 upcoming nights, with line-ups including 2lovers, Acid Pauli, Alaia & Gallo and Alan Dixon and 2 more. Browse upcoming dates, start times and who's playing. Passeig Joan Carles I, 17, 07800 Eivissa, Illes Balears, Spain.
+Chinois Ibiza is a music venue in Ibiza listed on soundcheck. 60 upcoming nights, with line-ups including 2lovers, Acid Pauli, Alaia & Gallo and Alan Dixon and 2 more. Browse upcoming dates, start times and who's playing. Passeig Joan Carles I, 17, 07800 Eivissa, Illes Balears, Spain.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Wed, 29 Jul 2026 | Mahmut Orhan: PEOPLE LIKE US, Peace Control, FOSTER THE PEOPLE (DJ SET), Mahmut Orhan | Foster The People, Mahmut Orhan, Peace Control, People Like Us (3) |
 | Thu, 30 Jul 2026 | Defected: Carl Craig, DJ Gregory, Floorplan, HoneyLuv, The Menendez Brothers | Carl Craig, DJ Gregory, Floorplan, HoneyLuv, The Menendez Brothers |
 | Fri, 31 Jul 2026 | Major League Djz presents: Sona, Floyd Lavine, AMIYA | Floyd Lavine, Major League Djz, Sona |
 | Sat, 1 Aug 2026 | The Masquerade: Claptone, The Blessed Madonna, Andrea Lane, Billie Clements | Claptone, The Blessed Madonna |
@@ -18,9 +17,10 @@ Chinois Ibiza is a music venue in Ibiza listed on soundcheck. 61 upcoming nights
 | Thu, 6 Aug 2026 | Defected: Eats Everything, Hannah Wants, Low Steppa, Ellie Scougall, Todd Edwards | Eats Everything, Ellie Scougall, Hannah Wants, Lowsteppa, Todd Edwards |
 | Fri, 7 Aug 2026 | Major League Djz presents Echoes of Tomorrow | Major League Djz |
 | Sat, 8 Aug 2026 | The Masquerade: Claptone, Deep Dish, Juliet Sikora, Dom Townsend | Claptone, Deep Dish, Dom Townsend, Juliet Sikora |
+| Sun, 9 Aug 2026 | Bedouin presents SAGA: Bedouin, Avangart Tabldot, Robin M | Avangart Tabldot, Bedouin, Robin M |
 
 ## Address
 
 Passeig Joan Carles I, 17, 07800 Eivissa, Illes Balears, Spain, Ibiza
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/ibiza/club/chinois-ibiza/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/ibiza/club/chinois-ibiza/)*

@@ -1,6 +1,6 @@
 # Upsidedown
 
-Upsidedown is a music venue in Osaka with 1 upcoming night listed on soundcheck as of Wed, 29 Jul 2026; the next is "bond × ape" on Fri, 18 Sept 2026.
+Upsidedown is a music venue in Osaka with 1 upcoming night listed on soundcheck as of Thu, 30 Jul 2026; the next is "bond × ape" on Fri, 18 Sept 2026.
 
 Upsidedown is a music venue in Osaka listed on soundcheck. 1 upcoming night, with line-ups including Loe (JP), OSHALEY, SPINNUTS and TENO. Browse upcoming dates, start times and who's playing. 2-8-33 Nishishinsaibashi, Chuo-ku, Osaka-shi, Osaka, 542-0086 Japan.
 
@@ -14,4 +14,4 @@ Upsidedown is a music venue in Osaka listed on soundcheck. 1 upcoming night, wit
 
 2-8-33 Nishishinsaibashi, Chuo-ku, Osaka-shi, Osaka, 542-0086 Japan, Osaka
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/osaka/club/upsidedown/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/osaka/club/upsidedown/)*

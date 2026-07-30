@@ -1,6 +1,6 @@
 # La La
 
-La La is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Wed, 29 Jul 2026, next at NUMBER 90 LONDON, London on Thu, 30 Jul 2026.
+La La is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Thu, 30 Jul 2026, next at NUMBER 90 LONDON, London on Thu, 30 Jul 2026.
 
 La La is a house and techno artist tracked on soundcheck, with 139 sets logged across Aberdeen, Amsterdam, Bali and Barcelona and 38 more. Often billed alongside AIRKEY, Ben Hemsley and Ewan McVicar. Next up: NUMBER 90 LONDON, London on Thu 30 Jul.
 
@@ -27,4 +27,4 @@ La La is a house and techno artist tracked on soundcheck, with 139 sets logged a
 
 AIRKEY, Ben Hemsley, Ewan McVicar
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/lala/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/lala/)*

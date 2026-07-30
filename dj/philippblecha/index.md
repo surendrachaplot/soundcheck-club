@@ -1,6 +1,6 @@
 # Philipp Blecha
 
-Philipp Blecha is a House and Minimal artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at SASS Music Club, Vienna on Sat, 8 Aug 2026.
+Philipp Blecha is a House and Minimal artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at SASS Music Club, Vienna on Sat, 8 Aug 2026.
 
 Philipp Blecha is a house and minimal artist based in Austria, tracked on soundcheck, with 33 sets logged across Vienna. Often billed alongside Thomas Grün, Paul Panther and Robin Ma'Ar. Next up: SASS Music Club, Vienna on Sat 8 Aug.
 
@@ -25,4 +25,4 @@ Philipp Blecha is a house and minimal artist based in Austria, tracked on soundc
 
 Thomas Grün, Paul Panther, Robin Ma'Ar
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/philippblecha/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/philippblecha/)*

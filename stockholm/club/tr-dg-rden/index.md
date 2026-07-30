@@ -1,14 +1,13 @@
 # Trädgården
 
-Trädgården is a music venue in Stockholm with 14 upcoming nights listed on soundcheck as of Wed, 29 Jul 2026; the next is "PRIDE GARDEN: WEDNESDAY" on Wed, 29 Jul 2026.
+Trädgården is a music venue in Stockholm with 13 upcoming nights listed on soundcheck as of Thu, 30 Jul 2026; the next is "PRIDE GARDEN: THURSDAY" on Thu, 30 Jul 2026.
 
-Trädgården is a music venue in Stockholm listed on soundcheck. 14 upcoming nights, with line-ups including Amaliah, Anthony Linell, Behrang Mohammadi and Bella Sarris and 2 more. Browse upcoming dates, start times and who's playing. Hammarby Slussväg 2, 118 60 Stockholm, Sweden.
+Trädgården is a music venue in Stockholm listed on soundcheck. 13 upcoming nights, with line-ups including Amaliah, Anthony Linell, Behrang Mohammadi and Bella Sarris and 2 more. Browse upcoming dates, start times and who's playing. Hammarby Slussväg 2, 118 60 Stockholm, Sweden.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Wed, 29 Jul 2026 | PRIDE GARDEN: WEDNESDAY |  |
 | Thu, 30 Jul 2026 | PRIDE GARDEN: THURSDAY |  |
 | Fri, 31 Jul 2026 | PRIDE GARDEN: FRIDAY | Luigi Di Venere, Majdolen, Prosumer, Stathis (GR) |
 | Sat, 1 Aug 2026 | SMIILE :) STOCKHOLM | Chloé Caillet, Dee Diggs, Fafi Abdel Nour, ISAbella, Mattias El Mansouri, Ultra Naté |
@@ -18,9 +17,10 @@ Trädgården is a music venue in Stockholm listed on soundcheck. 14 upcoming nig
 | Thu, 13 Aug 2026 | Thursdays: Deckathon | Julian Artur, Malin Edvardsen |
 | Fri, 14 Aug 2026 | S-candalo, Bella Sarris | Bella Sarris, S-candalo |
 | Sat, 15 Aug 2026 | CRACKHOUSE with Niklopedia & Magnus Larsson | Magnus Larsson |
+| Fri, 21 Aug 2026 | Christian AB & Daniel Lien | Christian AB, Daniel Lien |
 
 ## Address
 
 Hammarby Slussväg 2, 118 60 Stockholm, Sweden, Stockholm
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/stockholm/club/tr-dg-rden/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/stockholm/club/tr-dg-rden/)*

@@ -1,6 +1,6 @@
 # DJ W!ld
 
-DJ W!ld is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at Flash, Washington DC on Fri, 7 Aug 2026.
+DJ W!ld is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at Flash, Washington DC on Fri, 7 Aug 2026.
 
 DJ W!ld is a house and tech house artist tracked on soundcheck, with 29 sets logged across Bali, Bangkok, Barcelona and Berlin and 13 more. Often billed alongside Inessa Raum, Gauthier DM and BeleeJean. Next up: Flash, Washingtondc on Fri 7 Aug.
 
@@ -25,4 +25,4 @@ DJ W!ld is a house and tech house artist tracked on soundcheck, with 29 sets log
 
 Inessa Raum, Gauthier DM, BeleeJean
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/djwild/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/djwild/)*

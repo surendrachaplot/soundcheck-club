@@ -1,6 +1,6 @@
 # COLLISION
 
-COLLISION is a Techno and Acid artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at Lula Club, Madrid on Sat, 29 Aug 2026.
+COLLISION is a Techno and Acid artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at Lula Club, Madrid on Sat, 29 Aug 2026.
 
 COLLISION is a techno and acid artist based in Italy, tracked on soundcheck, with 54 sets logged across Antwerp, Berlin, Ghent and Houston and 5 more. Often billed alongside Fortuno, Victor Carré and AMANN. Next up: Lula Club, Madrid on Sat 29 Aug.
 
@@ -25,4 +25,4 @@ COLLISION is a techno and acid artist based in Italy, tracked on soundcheck, wit
 
 Fortuno, Victor Carré, AMANN
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/collision/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/collision/)*

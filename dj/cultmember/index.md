@@ -1,6 +1,6 @@
 # Cult Member
 
-Cult Member is a Trance and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at Nitsa Club, Barcelona on Fri, 31 Jul 2026.
+Cult Member is a Trance and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at Nitsa Club, Barcelona on Fri, 31 Jul 2026.
 
 Cult Member is a trance and techno artist tracked on soundcheck, with 32 sets logged across Amsterdam, Barcelona, Berlin and London and 16 more. Often billed alongside TDJ, online threat and Torus. Next up: Nitsa Club, Barcelona on Fri 31 Jul.
 
@@ -25,4 +25,4 @@ Cult Member is a trance and techno artist tracked on soundcheck, with 32 sets lo
 
 TDJ, online threat, Torus
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/cultmember/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/cultmember/)*

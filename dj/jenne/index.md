@@ -1,6 +1,6 @@
 # Jenne
 
-Jenne is a House and New Wave artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at Kulturcampus Frankfurt, Frankfurt on Thu, 13 Aug 2026.
+Jenne is a House and New Wave artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at Kulturcampus Frankfurt, Frankfurt on Thu, 13 Aug 2026.
 
 Jenne is a house and new wave artist based in Germany, tracked on soundcheck, with 21 sets logged across Berlin and Frankfurt. Often billed alongside SAFA, Dawit Asfaha and Lukas Akata. Next up: Kulturcampus Frankfurt, Frankfurt on Thu 13 Aug.
 
@@ -25,4 +25,4 @@ Jenne is a house and new wave artist based in Germany, tracked on soundcheck, wi
 
 SAFA, Dawit Asfaha, Lukas Akata
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/jenne/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/jenne/)*

@@ -1,6 +1,6 @@
 # Franco Brida
 
-Franco Brida is a Techno and Tech House artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at TBA - Digital Village Paris, Paris on Thu, 30 Jul 2026.
+Franco Brida is a Techno and Tech House artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at TBA - Digital Village Paris, Paris on Thu, 30 Jul 2026.
 
 Franco Brida is a techno and tech house artist based in Argentina, tracked on soundcheck, with 17 sets logged across Barcelona and Paris. Often billed alongside Cucumelo, Jeremy Young and Julian Petru. Next up: TBA - Digital Village Paris, Paris on Thu 30 Jul.
 
@@ -25,4 +25,4 @@ Franco Brida is a techno and tech house artist based in Argentina, tracked on so
 
 Cucumelo, Jeremy Young, Julian Petru
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/francobrida/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/francobrida/)*

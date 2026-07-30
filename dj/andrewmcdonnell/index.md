@@ -1,6 +1,6 @@
 # Andrew McDonnell
 
-Andrew McDonnell is a Techno and Progressive House artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at Ozmozis, Toronto on Fri, 16 Oct 2026.
+Andrew McDonnell is a Techno and Progressive House artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at Ozmozis, Toronto on Fri, 16 Oct 2026.
 
 Andrew McDonnell is a techno and progressive house artist based in Canada, tracked on soundcheck, with 1 set logged across Toronto. Often billed alongside Khen. Next up: Ozmozis, Toronto on Fri 16 Oct.
 
@@ -14,4 +14,4 @@ Andrew McDonnell is a techno and progressive house artist based in Canada, track
 
 Khen
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/andrewmcdonnell/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/andrewmcdonnell/)*

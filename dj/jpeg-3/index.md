@@ -1,6 +1,6 @@
 # JPEG (3)
 
-JPEG (3) is a Acid and Breakbeat artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at Exchange, Bristol on Fri, 31 Jul 2026.
+JPEG (3) is a Acid and Breakbeat artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at Exchange, Bristol on Fri, 31 Jul 2026.
 
 JPEG (3) is an acid and breakbeat artist based in United Kingdom, tracked on soundcheck, with 14 sets logged across Barcelona, Bristol, London and Manchester. Often billed alongside A:sine, Aloka and Burland. Next up: Exchange, Bristol on Fri 31 Jul.
 
@@ -25,4 +25,4 @@ JPEG (3) is an acid and breakbeat artist based in United Kingdom, tracked on sou
 
 A:sine, Aloka, Burland
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/jpeg-3/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/jpeg-3/)*

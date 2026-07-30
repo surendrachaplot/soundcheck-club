@@ -1,6 +1,6 @@
 # Stev Zar
 
-Stev Zar is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at Chinese Laundry, Sydney on Fri, 31 Jul 2026.
+Stev Zar is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at Chinese Laundry, Sydney on Fri, 31 Jul 2026.
 
 Stev Zar is a house and techno artist tracked on soundcheck, with 59 sets logged across Melbourne and Sydney. Often billed alongside Caucasian Opportunities, DJ Luv You and MIRASIA. Next up: Chinese Laundry, Sydney on Fri 31 Jul.
 
@@ -25,4 +25,4 @@ Stev Zar is a house and techno artist tracked on soundcheck, with 59 sets logged
 
 Caucasian Opportunities, DJ Luv You, MIRASIA
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/stevzar/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/stevzar/)*

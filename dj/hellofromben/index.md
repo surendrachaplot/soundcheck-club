@@ -1,6 +1,6 @@
 # Hello From Ben
 
-Hello From Ben is a House and Disco artist with 2 upcoming club dates listed on soundcheck as of Wed, 29 Jul 2026, next at Redlight, Manchester on Thu, 30 Jul 2026.
+Hello From Ben is a House and Disco artist with 2 upcoming club dates listed on soundcheck as of Thu, 30 Jul 2026, next at Redlight, Manchester on Thu, 30 Jul 2026.
 
 Hello From Ben is a house and disco artist based in United Kingdom, tracked on soundcheck, with 5 sets logged across Manchester. Often billed alongside DJ Scissher, D-LIA and HSTN. Next up: Redlight, Manchester on Thu 30 Jul.
 
@@ -21,4 +21,4 @@ Hello From Ben is a house and disco artist based in United Kingdom, tracked on s
 
 DJ Scissher, D-LIA, HSTN
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/hellofromben/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/hellofromben/)*

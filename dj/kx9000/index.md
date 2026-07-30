@@ -1,6 +1,6 @@
 # Kx9000
 
-Kx9000 is a House and Electro artist with 2 upcoming club dates listed on soundcheck as of Wed, 29 Jul 2026, next at Badaboum, Paris on Fri, 31 Jul 2026.
+Kx9000 is a House and Electro artist with 2 upcoming club dates listed on soundcheck as of Thu, 30 Jul 2026, next at Badaboum, Paris on Fri, 31 Jul 2026.
 
 Kx9000 is a house and electro artist based in France, tracked on soundcheck, with 18 sets logged across Paris. Often billed alongside Tour-Maubourg, Mira Ló and Cosmonection. Next up: Badaboum, Paris on Fri 31 Jul.
 
@@ -26,4 +26,4 @@ Kx9000 is a house and electro artist based in France, tracked on soundcheck, wit
 
 Tour-Maubourg, Mira Ló, Cosmonection
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/kx9000/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/kx9000/)*

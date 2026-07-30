@@ -1,6 +1,6 @@
 # Schaed
 
-Schaed is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at KALT, Strasbourg on Sat, 22 Aug 2026.
+Schaed is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at KALT, Strasbourg on Sat, 22 Aug 2026.
 
 Schaed is a house and techno artist based in France, tracked on soundcheck, with 4 sets logged across Strasbourg. Often billed alongside Arkan, Ben Sims and Chill (FR). Next up: KALT, Strasbourg on Sat 22 Aug.
 
@@ -20,4 +20,4 @@ Schaed is a house and techno artist based in France, tracked on soundcheck, with
 
 Arkan, Ben Sims, Chill (FR)
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/schaed/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/schaed/)*

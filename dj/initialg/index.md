@@ -1,6 +1,6 @@
 # Initial G
 
-Initial G is a Footwork and House artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at Bourbon On Division, Chicago on Fri, 7 Aug 2026.
+Initial G is a Footwork and House artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at Bourbon On Division, Chicago on Fri, 7 Aug 2026.
 
 Initial G is a footwork and house artist tracked on soundcheck, with 47 sets logged across Chicago and Sydney. Often billed alongside DJ Acey, Steve Noah and Elock. Next up: Bourbon On Division, Chicago on Fri 7 Aug.
 
@@ -25,4 +25,4 @@ Initial G is a footwork and house artist tracked on soundcheck, with 47 sets log
 
 DJ Acey, Steve Noah, Elock
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/initialg/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/initialg/)*

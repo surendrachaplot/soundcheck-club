@@ -1,14 +1,13 @@
 # Lea Occhi
 
-Lea Occhi is a Techno and House artist with 7 upcoming club dates listed on soundcheck as of Wed, 29 Jul 2026, next at Amsterdamse Bos, Amsterdam on Wed, 29 Jul 2026.
+Lea Occhi is a Techno and House artist with 6 upcoming club dates listed on soundcheck as of Thu, 30 Jul 2026, next at Amsterdamse Bos, Amsterdam on Sun, 2 Aug 2026.
 
-Lea Occhi is a techno and house artist tracked on soundcheck, with 178 sets logged across Amsterdam, Athens, Barcelona and Basel and 38 more. Often billed alongside Toscan Haas, Amotik and Lobster (NL). Next up: Amsterdamse Bos, Amsterdam on Wed 29 Jul.
+Lea Occhi is a techno and house artist tracked on soundcheck, with 178 sets logged across Amsterdam, Athens, Barcelona and Basel and 38 more. Often billed alongside Toscan Haas, Amotik and Lobster (NL). Next up: Amsterdamse Bos, Amsterdam on Sun 2 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Wed, 29 Jul 2026 | Amsterdamse Bos | Amsterdam |
 | Sun, 2 Aug 2026 | Amsterdamse Bos | Amsterdam |
 | Sat, 8 Aug 2026 | TBA - Seebruck - Chiemsee | Munich |
 | Sat, 22 Aug 2026 | Phoxxi Green Area | Hamburg |
@@ -18,6 +17,7 @@ Lea Occhi is a techno and house artist tracked on soundcheck, with 178 sets logg
 
 ## Recently played
 
+- Amsterdamse Bos, Amsterdam — Wed, 29 Jul 2026
 - La Station - Gare des Mines, Paris — Sun, 26 Jul 2026
 - RSO.BERLIN, Berlin — Fri, 24 Jul 2026
 - Ferropolis, Leipzig — Fri, 17 Jul 2026
@@ -25,10 +25,9 @@ Lea Occhi is a techno and house artist tracked on soundcheck, with 178 sets logg
 - Boomerang Beach, The Hague — Sat, 4 Jul 2026
 - TBA - Los Angeles (Warehouse), Los Angeles — Sat, 27 Jun 2026
 - TBA - Brooklyn, New York City — Fri, 26 Jun 2026
-- Berghain | Panorama Bar | Säule, Berlin — Sat, 20 Jun 2026
 
 ## Shares bills with
 
 Toscan Haas, Amotik, Lobster (NL)
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/leaocchi/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/leaocchi/)*

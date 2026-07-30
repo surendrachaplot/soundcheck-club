@@ -1,6 +1,6 @@
 # Maurizio Schmitz
 
-Maurizio Schmitz is a Techno and House artist with 5 upcoming club dates listed on soundcheck as of Wed, 29 Jul 2026, next at Fridas Pier, Stuttgart on Sun, 2 Aug 2026.
+Maurizio Schmitz is a Techno and House artist with 5 upcoming club dates listed on soundcheck as of Thu, 30 Jul 2026, next at Fridas Pier, Stuttgart on Sun, 2 Aug 2026.
 
 Maurizio Schmitz is a techno and house artist tracked on soundcheck, with 75 sets logged across Amsterdam, Athens, Bali and Bangkok and 15 more. Often billed alongside Sven Vath, André Galluzzi and Tobi Neumann. Next up: Fridas Pier, Stuttgart on Sun 2 Aug.
 
@@ -29,4 +29,4 @@ Maurizio Schmitz is a techno and house artist tracked on soundcheck, with 75 set
 
 Sven Vath, André Galluzzi, Tobi Neumann
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/maurizioschmitz/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/maurizioschmitz/)*

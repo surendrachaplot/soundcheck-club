@@ -1,6 +1,6 @@
 # Seaseaclub Barcelona
 
-Seaseaclub Barcelona is a music venue in Barcelona with 16 upcoming nights listed on soundcheck as of Wed, 29 Jul 2026; the next is "NEO Party (Open Air) 4th Year Anniversary - Barcelona - July" on Fri, 31 Jul 2026.
+Seaseaclub Barcelona is a music venue in Barcelona with 16 upcoming nights listed on soundcheck as of Thu, 30 Jul 2026; the next is "NEO Party (Open Air) 4th Year Anniversary - Barcelona - July" on Fri, 31 Jul 2026.
 
 Seaseaclub Barcelona is a music venue in Barcelona listed on soundcheck. 16 upcoming nights, with line-ups including CEZAR, Abdon, Agatha Pher and AIIVIIK and 2 more. Browse upcoming dates, start times and who's playing. Carrer Port Esportiu, 14P, 08930 Barcelona.
 
@@ -23,4 +23,4 @@ Seaseaclub Barcelona is a music venue in Barcelona listed on soundcheck. 16 upco
 
 Carrer Port Esportiu, 14P, 08930 Barcelona, Barcelona
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/seaseaclub-barcelona/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/seaseaclub-barcelona/)*

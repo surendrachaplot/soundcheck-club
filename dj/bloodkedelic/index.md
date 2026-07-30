@@ -1,6 +1,6 @@
 # Bloodkedelic
 
-Bloodkedelic is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at TBA - Betroot, Skalitzer Str. 64, 10997 Berlin, Berlin on Fri, 31 Jul 2026.
+Bloodkedelic is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at TBA - Betroot, Skalitzer Str. 64, 10997 Berlin, Berlin on Fri, 31 Jul 2026.
 
 Bloodkedelic is a techno and house artist based in Germany, tracked on soundcheck, with 10 sets logged across Berlin. Often billed alongside DE.fine, A.I.F.O.S. and Ageved. Next up: TBA - Betroot, Skalitzer Str. 64, 10997 Berlin, Berlin on Fri 31 Jul.
 
@@ -25,4 +25,4 @@ Bloodkedelic is a techno and house artist based in Germany, tracked on soundchec
 
 DE.fine, A.I.F.O.S., Ageved
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/bloodkedelic/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/bloodkedelic/)*

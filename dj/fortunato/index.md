@@ -1,6 +1,6 @@
 # FORTUNATO
 
-FORTUNATO is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at Dr. Banana Club, Sao Paulo on Sat, 1 Aug 2026.
+FORTUNATO is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at Dr. Banana Club, Sao Paulo on Sat, 1 Aug 2026.
 
 FORTUNATO is a house and techno artist based in Brazil, tracked on soundcheck, with 9 sets logged across Saopaulo. Often billed alongside Alírio, Ananda (BR) and Paulete Lindacelva. Next up: Dr. Banana Club, Saopaulo on Sat 1 Aug.
 
@@ -25,4 +25,4 @@ FORTUNATO is a house and techno artist based in Brazil, tracked on soundcheck, w
 
 Alírio, Ananda (BR), Paulete Lindacelva
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/fortunato/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/fortunato/)*

@@ -1,6 +1,6 @@
 # Bronze Beach
 
-Bronze Beach is a music venue in Amsterdam with 2 upcoming nights listed on soundcheck as of Wed, 29 Jul 2026; the next is "PULSE x Diffrent All Day Long" on Sat, 15 Aug 2026.
+Bronze Beach is a music venue in Amsterdam with 2 upcoming nights listed on soundcheck as of Thu, 30 Jul 2026; the next is "PULSE x Diffrent All Day Long" on Sat, 15 Aug 2026.
 
 Bronze Beach is a music venue in Amsterdam listed on soundcheck. 2 upcoming nights. Browse upcoming dates, start times and who's playing. Zeeweg 86b, 2051 EC Overveen.
 
@@ -15,4 +15,4 @@ Bronze Beach is a music venue in Amsterdam listed on soundcheck. 2 upcoming nigh
 
 Zeeweg 86b, 2051 EC Overveen, Amsterdam
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/bronze-beach/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/bronze-beach/)*

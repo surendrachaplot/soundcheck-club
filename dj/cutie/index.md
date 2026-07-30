@@ -1,6 +1,6 @@
 # CUTIE
 
-CUTIE is a Hardcore and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at City Hall, Barcelona on Fri, 31 Jul 2026.
+CUTIE is a Hardcore and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at City Hall, Barcelona on Fri, 31 Jul 2026.
 
 CUTIE is a hardcore and techno artist based in Spain, tracked on soundcheck, with 11 sets logged across Barcelona. Often billed alongside MADDEKX, TOTTI and apeiron. Next up: City Hall, Barcelona on Fri 31 Jul.
 
@@ -25,4 +25,4 @@ CUTIE is a hardcore and techno artist based in Spain, tracked on soundcheck, wit
 
 MADDEKX, TOTTI, apeiron
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/cutie/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/cutie/)*

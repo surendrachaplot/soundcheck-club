@@ -1,6 +1,6 @@
 # The Robin Hood
 
-The Robin Hood is a music venue in Leeds with 1 upcoming night listed on soundcheck as of Wed, 29 Jul 2026; the next is "Palm Trees Over Pontefract" on Sat, 22 Aug 2026.
+The Robin Hood is a music venue in Leeds with 1 upcoming night listed on soundcheck as of Thu, 30 Jul 2026; the next is "Palm Trees Over Pontefract" on Sat, 22 Aug 2026.
 
 The Robin Hood is a music venue in Leeds listed on soundcheck. 1 upcoming night, with line-ups including Andy Pye and Baz and Nova. Browse upcoming dates, start times and who's playing. Robin Hood, 4 Wakefield Road, Pontefract, WF8 4HN.
 
@@ -14,4 +14,4 @@ The Robin Hood is a music venue in Leeds listed on soundcheck. 1 upcoming night,
 
 Robin Hood, 4 Wakefield Road, Pontefract, WF8 4HN, Leeds
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/leeds/club/the-robin-hood/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/leeds/club/the-robin-hood/)*

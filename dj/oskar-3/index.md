@@ -1,6 +1,6 @@
 # Oskar (3)
 
-Oskar (3) is a House and Garage artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at Sacré, Paris on Fri, 31 Jul 2026.
+Oskar (3) is a House and Garage artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at Sacré, Paris on Fri, 31 Jul 2026.
 
 Oskar (3) is a house and garage artist based in France, tracked on soundcheck, with 5 sets logged across Ibiza, Melbourne, Paris and Sheffield. Often billed alongside Carli Jayne, Finn Eden and Harry Hayes. Next up: Sacré, Paris on Fri 31 Jul.
 
@@ -21,4 +21,4 @@ Oskar (3) is a house and garage artist based in France, tracked on soundcheck, w
 
 Carli Jayne, Finn Eden, Harry Hayes
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/oskar-3/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/oskar-3/)*

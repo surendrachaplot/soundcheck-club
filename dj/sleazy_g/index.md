@@ -1,6 +1,6 @@
 # Sleazy_G
 
-Sleazy_G is a Breakbeat and House artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at All My Friends, London on Thu, 30 Jul 2026.
+Sleazy_G is a Breakbeat and House artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at All My Friends, London on Thu, 30 Jul 2026.
 
 Sleazy_G is a breakbeat and house artist based in United Kingdom, tracked on soundcheck, with 2 sets logged across London. Often billed alongside Samuel Richter, Elysium Waves and Thoma Bulwer. Next up: All My Friends, London on Thu 30 Jul.
 
@@ -18,4 +18,4 @@ Sleazy_G is a breakbeat and house artist based in United Kingdom, tracked on sou
 
 Samuel Richter, Elysium Waves, Thoma Bulwer
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/sleazy_g/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/sleazy_g/)*

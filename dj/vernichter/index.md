@@ -1,6 +1,6 @@
 # Vernichter
 
-Vernichter is a Industrial and EBM artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at Specka, Madrid on Fri, 31 Jul 2026.
+Vernichter is a Industrial and EBM artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at Specka, Madrid on Fri, 31 Jul 2026.
 
 Vernichter is an industrial and ebm artist based in Spain, tracked on soundcheck, with 7 sets logged across Madrid. Often billed alongside Kamboya, Reitze and Ruben Montesco. Next up: Specka, Madrid on Fri 31 Jul.
 
@@ -23,4 +23,4 @@ Vernichter is an industrial and ebm artist based in Spain, tracked on soundcheck
 
 Kamboya, Reitze, Ruben Montesco
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/vernichter/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/vernichter/)*

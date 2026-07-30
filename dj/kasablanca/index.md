@@ -1,6 +1,6 @@
 # Kasablanca
 
-Kasablanca is a Techno and Progressive House artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at Nitsa Club, Barcelona on Fri, 31 Jul 2026.
+Kasablanca is a Techno and Progressive House artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at Nitsa Club, Barcelona on Fri, 31 Jul 2026.
 
 Kasablanca is a techno and progressive house artist based in Canada, tracked on soundcheck, with 13 sets logged across Barcelona, Berlin, Chicago and Copenhagen and 8 more. Often billed alongside Lane 8, Marten Lou and ANNA. Next up: Nitsa Club, Barcelona on Fri 31 Jul.
 
@@ -25,4 +25,4 @@ Kasablanca is a techno and progressive house artist based in Canada, tracked on 
 
 Lane 8, Marten Lou, ANNA
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/kasablanca/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/kasablanca/)*

@@ -1,6 +1,6 @@
 # LB aka LABAT
 
-LB aka LABAT is a Techno and House artist with 6 upcoming club dates listed on soundcheck as of Wed, 29 Jul 2026, next at Lane 23, Kuala Lumpur on Sat, 8 Aug 2026.
+LB aka LABAT is a Techno and House artist with 6 upcoming club dates listed on soundcheck as of Thu, 30 Jul 2026, next at Lane 23, Kuala Lumpur on Sat, 8 Aug 2026.
 
 LB aka LABAT is a techno and house artist tracked on soundcheck, with 197 sets logged across Aberdeen, Amsterdam, Antwerp and Barcelona and 56 more. Often billed alongside DJ Gigola, Juicy Romance and Special Request. Next up: Lane 23, Kualalumpur on Sat 8 Aug.
 
@@ -30,4 +30,4 @@ LB aka LABAT is a techno and house artist tracked on soundcheck, with 197 sets l
 
 DJ Gigola, Juicy Romance, Special Request
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/lbakalabat/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/lbakalabat/)*

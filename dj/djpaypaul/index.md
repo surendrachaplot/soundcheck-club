@@ -1,14 +1,15 @@
 # DJ PayPaul
 
-DJ PayPaul is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Wed, 29 Jul 2026, next at Weekend, Berlin on Sat, 1 Aug 2026.
+DJ PayPaul is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Thu, 30 Jul 2026, next at Weekend, Berlin on Sat, 1 Aug 2026.
 
-DJ PayPaul is a techno and house artist tracked on soundcheck, with 39 sets logged across Berlin. Often billed alongside KEN (DE), PADERKID and Tim Hagemann. Next up: Weekend, Berlin on Sat 1 Aug.
+DJ PayPaul is a techno and house artist tracked on soundcheck, with 40 sets logged across Berlin. Often billed alongside KEN (DE), FLEXTASY and PADERKID. Next up: Weekend, Berlin on Sat 1 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 1 Aug 2026 | Weekend | Berlin |
+| Fri, 28 Aug 2026 | KitKatClub | Berlin |
 | Fri, 11 Sept 2026 | Weekend | Berlin |
 
 ## Recently played
@@ -24,6 +25,6 @@ DJ PayPaul is a techno and house artist tracked on soundcheck, with 39 sets logg
 
 ## Shares bills with
 
-KEN (DE), PADERKID, Tim Hagemann
+KEN (DE), FLEXTASY, PADERKID
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/djpaypaul/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/djpaypaul/)*

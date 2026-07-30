@@ -1,8 +1,8 @@
 # ābnamā
 
-ābnamā is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Wed, 29 Jul 2026, next at Kvarteret, Stockholm on Sat, 1 Aug 2026.
+ābnamā is a Techno and House artist with 4 upcoming club dates listed on soundcheck as of Thu, 30 Jul 2026, next at Kvarteret, Stockholm on Sat, 1 Aug 2026.
 
-ābnamā is a techno and house artist based in Germany, tracked on soundcheck, with 74 sets logged across Athens, Berlin, Copenhagen and Leipzig and 8 more. Often billed alongside Camilla Rae, 131bpm and Majdolen. Next up: Kvarteret, Stockholm on Sat 1 Aug.
+ābnamā is a techno and house artist based in Germany, tracked on soundcheck, with 75 sets logged across Athens, Berlin, Copenhagen and Leipzig and 8 more. Often billed alongside Camilla Rae, 131bpm and Majdolen. Next up: Kvarteret, Stockholm on Sat 1 Aug.
 
 ## Upcoming shows
 
@@ -11,6 +11,7 @@
 | Sat, 1 Aug 2026 | Kvarteret | Stockholm |
 | Sun, 9 Aug 2026 | Haus der Visionäre | Berlin |
 | Sat, 15 Aug 2026 | Den Anden Side | Copenhagen |
+| Fri, 11 Sept 2026 | Renate | Berlin |
 
 ## Recently played
 
@@ -27,4 +28,4 @@
 
 Camilla Rae, 131bpm, Majdolen
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/abnama/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/abnama/)*

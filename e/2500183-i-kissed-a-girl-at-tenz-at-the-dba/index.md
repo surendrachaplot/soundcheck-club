@@ -1,6 +1,6 @@
-# I KISSED A GIRL AT Tenz at The DBA
+# I KISSED A GIRL at Tenz at The DBA
 
-I KISSED A GIRL AT Tenz at The DBA on Fri 7 Aug, Manchester. Tech House. Preview the line-up and save it on soundcheck.
+I KISSED A GIRL at Tenz at The DBA on Fri 7 Aug, Manchester. Tech House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

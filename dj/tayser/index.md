@@ -1,6 +1,6 @@
 # Tayser
 
-Tayser is a House and Club artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at TBA - Berlin - Secret Location - Neukölln, Berlin on Fri, 7 Aug 2026.
+Tayser is a House and Club artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at TBA - Berlin - Secret Location - Neukölln, Berlin on Fri, 7 Aug 2026.
 
 Tayser is a house and club artist based in Germany, tracked on soundcheck, with 3 sets logged across Berlin. Often billed alongside Hypnoize, Bomchello and Bonjessu. Next up: TBA - Berlin - Secret Location - Neukölln, Berlin on Fri 7 Aug.
 
@@ -19,4 +19,4 @@ Tayser is a house and club artist based in Germany, tracked on soundcheck, with 
 
 Hypnoize, Bomchello, Bonjessu
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/tayser/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/tayser/)*

@@ -1,6 +1,6 @@
 # Conway
 
-Conway is a Hip-Hop artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at Pumpehuset, Copenhagen on Wed, 21 Oct 2026.
+Conway is a Hip-Hop artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at Pumpehuset, Copenhagen on Wed, 21 Oct 2026.
 
 Conway is a hip-hop artist based in United States of America, tracked on soundcheck, with 2 sets logged across Copenhagen and Leeds. Often billed alongside Nyboe. Next up: Pumpehuset, Copenhagen on Wed 21 Oct.
 
@@ -18,4 +18,4 @@ Conway is a hip-hop artist based in United States of America, tracked on soundch
 
 Nyboe
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/conway/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/conway/)*

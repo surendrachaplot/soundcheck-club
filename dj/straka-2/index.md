@@ -1,6 +1,6 @@
 # Straka (2)
 
-Straka (2) is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at Lorosae Bar, Lisbon on Sat, 1 Aug 2026.
+Straka (2) is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at Lorosae Bar, Lisbon on Sat, 1 Aug 2026.
 
 Straka (2) is a house and techno artist tracked on soundcheck, with 46 sets logged across Berlin, Brussels, Lisbon and London and 1 more. Often billed alongside LAAD, Kee_ko and La Gugga. Next up: Lorosae Bar, Lisbon on Sat 1 Aug.
 
@@ -25,4 +25,4 @@ Straka (2) is a house and techno artist tracked on soundcheck, with 46 sets logg
 
 LAAD, Kee_ko, La Gugga
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/straka-2/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/straka-2/)*

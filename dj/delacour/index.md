@@ -1,6 +1,6 @@
 # DELACOUR
 
-DELACOUR is a Minimal and House artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at Elsewhere, New York City on Fri, 31 Jul 2026.
+DELACOUR is a Minimal and House artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at Elsewhere, New York City on Fri, 31 Jul 2026.
 
 DELACOUR is a minimal and house artist based in Bhutan, tracked on soundcheck, with 12 sets logged across Austin, Berlin, Losangeles and Newyorkcity and 2 more. Often billed alongside Amy Jor, ANATTA and ANDI WALL. Next up: Elsewhere, Newyorkcity on Fri 31 Jul.
 
@@ -25,4 +25,4 @@ DELACOUR is a minimal and house artist based in Bhutan, tracked on soundcheck, w
 
 Amy Jor, ANATTA, ANDI WALL
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/delacour/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/delacour/)*

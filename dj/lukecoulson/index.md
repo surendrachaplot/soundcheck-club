@@ -1,6 +1,6 @@
 # Luke Coulson
 
-Luke Coulson is a Progressive House and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at TBA, Newcastle on Sat, 1 Aug 2026.
+Luke Coulson is a Progressive House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at TBA, Newcastle on Sat, 1 Aug 2026.
 
 Luke Coulson is a progressive house and techno artist tracked on soundcheck, with 2 sets logged across Newcastle. Often billed alongside Naughty Bear, Alan Ruddick and Baardman. Next up: TBA, Newcastle on Sat 1 Aug.
 
@@ -18,4 +18,4 @@ Luke Coulson is a progressive house and techno artist tracked on soundcheck, wit
 
 Naughty Bear, Alan Ruddick, Baardman
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/lukecoulson/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/lukecoulson/)*

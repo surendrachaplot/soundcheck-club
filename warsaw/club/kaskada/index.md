@@ -1,6 +1,6 @@
 # Kaskada
 
-Kaskada is a music venue in Warsaw with 2 upcoming nights listed on soundcheck as of Wed, 29 Jul 2026; the next is "4 Lata Błysku Nad Wisłą: DEELAN" on Sat, 1 Aug 2026.
+Kaskada is a music venue in Warsaw with 2 upcoming nights listed on soundcheck as of Thu, 30 Jul 2026; the next is "4 Lata Błysku Nad Wisłą: DEELAN" on Sat, 1 Aug 2026.
 
 Kaskada is a music venue in Warsaw listed on soundcheck. 2 upcoming nights, with line-ups including Angelo Mike, Doc Scott, dtekk and EXCE and 2 more. Browse upcoming dates, start times and who's playing. Wybrzeże Kościuszkowskie 2, 00-390 Warszawa.
 
@@ -15,4 +15,4 @@ Kaskada is a music venue in Warsaw listed on soundcheck. 2 upcoming nights, with
 
 Wybrzeże Kościuszkowskie 2, 00-390 Warszawa, Warsaw
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/warsaw/club/kaskada/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/warsaw/club/kaskada/)*

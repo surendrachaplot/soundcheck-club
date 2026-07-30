@@ -1,6 +1,6 @@
 # Gay Roberto
 
-Gay Roberto is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at Basement, Wheat, Wine & Whisky, Melbourne on Fri, 31 Jul 2026.
+Gay Roberto is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at Basement, Wheat, Wine & Whisky, Melbourne on Fri, 31 Jul 2026.
 
 Gay Roberto is a house and techno artist based in Australia, tracked on soundcheck, with 33 sets logged across Berlin and Melbourne. Often billed alongside 3rd Orbit, Lewis Cancut and Bertie. Next up: Basement, Wheat, Wine & Whisky, Melbourne on Fri 31 Jul.
 
@@ -25,4 +25,4 @@ Gay Roberto is a house and techno artist based in Australia, tracked on soundche
 
 3rd Orbit, Lewis Cancut, Bertie
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/gayroberto/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/gayroberto/)*

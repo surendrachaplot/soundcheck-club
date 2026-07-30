@@ -1,6 +1,6 @@
 # Elbstrõm
 
-Elbstrõm is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at Club Frau Holle, Hamburg on Fri, 31 Jul 2026.
+Elbstrõm is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at Club Frau Holle, Hamburg on Fri, 31 Jul 2026.
 
 Elbstrõm is a techno and house artist based in Germany, tracked on soundcheck, with 22 sets logged across Hamburg. Often billed alongside Invaria, Finona Rider and Robert Brescan. Next up: Club Frau Holle, Hamburg on Fri 31 Jul.
 
@@ -25,4 +25,4 @@ Elbstrõm is a techno and house artist based in Germany, tracked on soundcheck, 
 
 Invaria, Finona Rider, Robert Brescan
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/elbstrom/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/elbstrom/)*

@@ -1,6 +1,6 @@
 # Newman
 
-Newman is a Deep House and House artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at Akasha Las Dalias Club - Ibiza, Ibiza on Sun, 2 Aug 2026.
+Newman is a Deep House and House artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at Akasha Las Dalias Club - Ibiza, Ibiza on Sun, 2 Aug 2026.
 
 Newman is a deep house and house artist tracked on soundcheck, with 36 sets logged across Austin, Bali, Chicago and Denver and 8 more. Often billed alongside Tim Green, Lee Burridge and baez. Next up: Akasha Las Dalias Club - Ibiza, Ibiza on Sun 2 Aug.
 
@@ -25,4 +25,4 @@ Newman is a deep house and house artist tracked on soundcheck, with 36 sets logg
 
 Tim Green, Lee Burridge, baez
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/newman/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/newman/)*

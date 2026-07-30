@@ -1,6 +1,6 @@
 # Payam Parvizi
 
-Payam Parvizi is a Techno and Acid artist with 2 upcoming club dates listed on soundcheck as of Wed, 29 Jul 2026, next at Meteor Studio, Tbilisi on Thu, 30 Jul 2026.
+Payam Parvizi is a Techno and Acid artist with 2 upcoming club dates listed on soundcheck as of Thu, 30 Jul 2026, next at Meteor Studio, Tbilisi on Thu, 30 Jul 2026.
 
 Payam Parvizi is a techno and acid artist based in Iran, tracked on soundcheck, with 27 sets logged across Berlin, Budapest, Istanbul and Strasbourg and 1 more. Often billed alongside amiraLii, Borna Farshid and Kamyar Keramati. Next up: Meteor Studio, Tbilisi on Thu 30 Jul.
 
@@ -26,4 +26,4 @@ Payam Parvizi is a techno and acid artist based in Iran, tracked on soundcheck, 
 
 amiraLii, Borna Farshid, Kamyar Keramati
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/payamparvizi/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/payamparvizi/)*

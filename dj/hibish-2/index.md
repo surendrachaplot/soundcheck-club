@@ -1,6 +1,6 @@
 # Hibish (2)
 
-Hibish (2) is a House and Balearic artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at Aoyama Hachi, Tokyo on Sun, 2 Aug 2026.
+Hibish (2) is a House and Balearic artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at Aoyama Hachi, Tokyo on Sun, 2 Aug 2026.
 
 Hibish (2) is a house and balearic artist based in Japan, tracked on soundcheck, with 7 sets logged across Osaka and Tokyo. Often billed alongside BANANA-CHAN, Chihoshi and 7e. Next up: Aoyama Hachi, Tokyo on Sun 2 Aug.
 
@@ -23,4 +23,4 @@ Hibish (2) is a house and balearic artist based in Japan, tracked on soundcheck,
 
 BANANA-CHAN, Chihoshi, 7e
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/hibish-2/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/hibish-2/)*

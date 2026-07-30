@@ -1,6 +1,6 @@
 # 蘭華慈　-弌- at Forestlimit
 
-蘭華慈　-弌- at Forestlimit on Fri 21 Aug, Tokyo. 3 acts on the bill: Compuma, IRON and TEI TEI. Techno and Electronica. Preview the line-up and save it on soundcheck.
+蘭華慈　-弌- at Forestlimit on Fri 21 Aug, Tokyo. 5 acts on the bill: Chad, Compuma, IRON and Kyomi and 1 more. Techno and Electronica. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,8 +10,10 @@
 
 ## Line-up
 
+- Chad
 - Compuma
 - IRON
+- Kyomi
 - TEI TEI
 
 *Source: [soundcheck](https://soundcheck.club/e/2500739-at-forestlimit/)*

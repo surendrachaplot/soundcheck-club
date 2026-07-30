@@ -1,6 +1,6 @@
 # Cucumelo
 
-Cucumelo is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at TBA - Digital Village Paris, Paris on Thu, 30 Jul 2026.
+Cucumelo is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at TBA - Digital Village Paris, Paris on Thu, 30 Jul 2026.
 
 Cucumelo is a house and techno artist based in Spain, tracked on soundcheck, with 20 sets logged across Barcelona, Buenosaires and Paris. Often billed alongside Franco Brida, Lautaro Deem and Merlina P. Next up: TBA - Digital Village Paris, Paris on Thu 30 Jul.
 
@@ -25,4 +25,4 @@ Cucumelo is a house and techno artist based in Spain, tracked on soundcheck, wit
 
 Franco Brida, Lautaro Deem, Merlina P
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/cucumelo/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/cucumelo/)*

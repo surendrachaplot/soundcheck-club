@@ -1,6 +1,6 @@
 # La Grotta
 
-La Grotta is a music venue in Malta with 1 upcoming night listed on soundcheck as of Wed, 29 Jul 2026; the next is "FEVASI - THE WHITE PARTY - 2026" on Sat, 8 Aug 2026.
+La Grotta is a music venue in Malta with 1 upcoming night listed on soundcheck as of Thu, 30 Jul 2026; the next is "FEVASI - THE WHITE PARTY - 2026" on Sat, 8 Aug 2026.
 
 La Grotta is a music venue in Malta listed on soundcheck. 1 upcoming night. Browse upcoming dates, start times and who's playing. Triq ir-Rabat Xlendi Munxar, Malta.
 
@@ -14,4 +14,4 @@ La Grotta is a music venue in Malta listed on soundcheck. 1 upcoming night. Brow
 
 Triq ir-Rabat Xlendi Munxar, Malta, Malta
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/malta/club/la-grotta/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/malta/club/la-grotta/)*

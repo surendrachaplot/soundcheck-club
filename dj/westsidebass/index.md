@@ -1,6 +1,6 @@
 # Westside Bass
 
-Westside Bass is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at Golden Flamingo, Berlin on Fri, 21 Aug 2026.
+Westside Bass is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at Golden Flamingo, Berlin on Fri, 21 Aug 2026.
 
 Westside Bass is a techno and house artist based in Germany, tracked on soundcheck, with 19 sets logged across Berlin. Often billed alongside Error507, PyjamaMama and Ravejezuz. Next up: Golden Flamingo, Berlin on Fri 21 Aug.
 
@@ -25,4 +25,4 @@ Westside Bass is a techno and house artist based in Germany, tracked on soundche
 
 Error507, PyjamaMama, Ravejezuz
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/westsidebass/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/westsidebass/)*

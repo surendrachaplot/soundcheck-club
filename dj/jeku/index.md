@@ -1,6 +1,6 @@
 # Jeku
 
-Jeku is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at Hall, Tallinn on Fri, 14 Aug 2026.
+Jeku is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at Hall, Tallinn on Fri, 14 Aug 2026.
 
 Jeku is a techno and house artist based in Finland, tracked on soundcheck, with 22 sets logged across Berlin, Brussels, Copenhagen and Dublin and 8 more. Often billed alongside emkay (FI), Kia (AU) and Alfred Czital. Next up: Hall, Tallinn on Fri 14 Aug.
 
@@ -25,4 +25,4 @@ Jeku is a techno and house artist based in Finland, tracked on soundcheck, with 
 
 emkay (FI), Kia (AU), Alfred Czital
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/jeku/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/jeku/)*

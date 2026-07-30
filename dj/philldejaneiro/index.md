@@ -1,6 +1,6 @@
 # Phill de Janeiro
 
-Phill de Janeiro is a House and Tech House artist with 9 upcoming club dates listed on soundcheck as of Wed, 29 Jul 2026, next at Cova Santa, Ibiza on Tue, 4 Aug 2026.
+Phill de Janeiro is a House and Tech House artist with 9 upcoming club dates listed on soundcheck as of Thu, 30 Jul 2026, next at Cova Santa, Ibiza on Tue, 4 Aug 2026.
 
 Phill de Janeiro is a house and tech house artist tracked on soundcheck, with 95 sets logged across Amsterdam, Barcelona, Birmingham and Bristol and 9 more. Often billed alongside Benji King, Jude Lenihan and Truly Madly. Next up: Cova Santa, Ibiza on Tue 4 Aug.
 
@@ -33,4 +33,4 @@ Phill de Janeiro is a house and tech house artist tracked on soundcheck, with 95
 
 Benji King, Jude Lenihan, Truly Madly
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/philldejaneiro/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/philldejaneiro/)*

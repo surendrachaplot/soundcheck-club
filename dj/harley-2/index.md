@@ -1,6 +1,6 @@
 # Harley (US)
 
-Harley (US) is a House and Club artist with 2 upcoming club dates listed on soundcheck as of Wed, 29 Jul 2026, next at TRANSMISSION DC, Washington DC on Sat, 1 Aug 2026.
+Harley (US) is a House and Club artist with 2 upcoming club dates listed on soundcheck as of Thu, 30 Jul 2026, next at TRANSMISSION DC, Washington DC on Sat, 1 Aug 2026.
 
 Harley (US) is a house and club artist based in United States of America, tracked on soundcheck, with 20 sets logged across Washingtondc. Often billed alongside xXabiXx, Gabberbitch69 and Girlypop Princess. Next up: TRANSMISSION DC, Washingtondc on Sat 1 Aug.
 
@@ -26,4 +26,4 @@ Harley (US) is a house and club artist based in United States of America, tracke
 
 xXabiXx, Gabberbitch69, Girlypop Princess
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/harley-2/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/harley-2/)*

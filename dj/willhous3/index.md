@@ -1,6 +1,6 @@
 # WILLHOUS3
 
-WILLHOUS3 is a Hardcore and Breakcore artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at Bar Fader, Osaka on Sat, 1 Aug 2026.
+WILLHOUS3 is a Hardcore and Breakcore artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at Bar Fader, Osaka on Sat, 1 Aug 2026.
 
 WILLHOUS3 is a hardcore and breakcore artist based in Japan, tracked on soundcheck, with 3 sets logged across Kyoto and Osaka. Often billed alongside DJ Shimamura, Rëgret and U:4 (1). Next up: Bar Fader, Osaka on Sat 1 Aug.
 
@@ -19,4 +19,4 @@ WILLHOUS3 is a hardcore and breakcore artist based in Japan, tracked on soundche
 
 DJ Shimamura, Rëgret, U:4 (1)
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/willhous3/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/willhous3/)*

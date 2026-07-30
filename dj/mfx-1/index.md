@@ -1,6 +1,6 @@
 # MFX (1)
 
-MFX (1) is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Wed, 29 Jul 2026, next at TBA - Klingemühle, Berlin on Fri, 14 Aug 2026.
+MFX (1) is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Thu, 30 Jul 2026, next at TBA - Klingemühle, Berlin on Fri, 14 Aug 2026.
 
 MFX (1) is a house and techno artist based in Germany, tracked on soundcheck, with 22 sets logged across Berlin, Leipzig, Munich and Warsaw. Often billed alongside metaverde, theories and Menzel. Next up: TBA - Klingemühle, Berlin on Fri 14 Aug.
 
@@ -26,4 +26,4 @@ MFX (1) is a house and techno artist based in Germany, tracked on soundcheck, wi
 
 metaverde, theories, Menzel
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/mfx-1/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/mfx-1/)*

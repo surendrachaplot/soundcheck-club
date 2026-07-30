@@ -1,6 +1,6 @@
 # KETA PERRY
 
-KETA PERRY is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at Absturz, Leipzig on Fri, 31 Jul 2026.
+KETA PERRY is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at Absturz, Leipzig on Fri, 31 Jul 2026.
 
 KETA PERRY is a techno and trance artist tracked on soundcheck, with 39 sets logged across Berlin, Hamburg and Leipzig. Often billed alongside Plateau Bitch, Siggi Petrol and maniaclina. Next up: Absturz, Leipzig on Fri 31 Jul.
 
@@ -25,4 +25,4 @@ KETA PERRY is a techno and trance artist tracked on soundcheck, with 39 sets log
 
 Plateau Bitch, Siggi Petrol, maniaclina
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/ketaperry/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/ketaperry/)*

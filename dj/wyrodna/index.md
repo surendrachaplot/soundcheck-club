@@ -1,6 +1,6 @@
 # Wyrodna
 
-Wyrodna is a Techno and Bass artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at Klub SPATiF, Warsaw on Fri, 31 Jul 2026.
+Wyrodna is a Techno and Bass artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at Klub SPATiF, Warsaw on Fri, 31 Jul 2026.
 
 Wyrodna is a techno and bass artist based in Poland, tracked on soundcheck, with 10 sets logged across Warsaw. Often billed alongside C-Head, Alexis (PL) and Yaroslava. Next up: Klub SPATiF, Warsaw on Fri 31 Jul.
 
@@ -25,4 +25,4 @@ Wyrodna is a techno and bass artist based in Poland, tracked on soundcheck, with
 
 C-Head, Alexis (PL), Yaroslava
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/wyrodna/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/wyrodna/)*

@@ -1,14 +1,14 @@
 # SILVIä
 
-SILVIä is a House and Electro artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at TBA - Studio Stereo, close to pl. Catalunya, 08007, Barcelona, Barcelona on Thu, 13 Aug 2026.
+SILVIä is a House and Electro artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at Studio Stereo, Barcelona on Thu, 13 Aug 2026.
 
-SILVIä is a house and electro artist based in Spain, tracked on soundcheck, with 15 sets logged across Barcelona. Often billed alongside Guedes (ES), Kid Moss and Valerio Mazzoli. Next up: TBA - Studio Stereo, close to pl. Catalunya, 08007, Barcelona, Barcelona on Thu 13 Aug.
+SILVIä is a house and electro artist based in Spain, tracked on soundcheck, with 15 sets logged across Barcelona. Often billed alongside Guedes (ES), Kid Moss and Valerio Mazzoli. Next up: Studio Stereo, Barcelona on Thu 13 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Thu, 13 Aug 2026 | TBA - Studio Stereo, close to pl. Catalunya, 08007, Barcelona | Barcelona |
+| Thu, 13 Aug 2026 | Studio Stereo | Barcelona |
 
 ## Recently played
 
@@ -25,4 +25,4 @@ SILVIä is a house and electro artist based in Spain, tracked on soundcheck, wit
 
 Guedes (ES), Kid Moss, Valerio Mazzoli
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/silvia/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/silvia/)*

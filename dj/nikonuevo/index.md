@@ -1,6 +1,6 @@
 # Niko Nuevo
 
-Niko Nuevo is a Electronica and Club artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at Culture Box, Copenhagen on Sat, 8 Aug 2026.
+Niko Nuevo is a Electronica and Club artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at Culture Box, Copenhagen on Sat, 8 Aug 2026.
 
 Niko Nuevo is an electronica and club artist based in Denmark, tracked on soundcheck, with 14 sets logged across Copenhagen. Often billed alongside Nizzy, Samuel Rees and bon Ronny. Next up: Culture Box, Copenhagen on Sat 8 Aug.
 
@@ -25,4 +25,4 @@ Niko Nuevo is an electronica and club artist based in Denmark, tracked on soundc
 
 Nizzy, Samuel Rees, bon Ronny
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/nikonuevo/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/nikonuevo/)*

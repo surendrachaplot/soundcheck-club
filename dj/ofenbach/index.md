@@ -1,6 +1,6 @@
 # Ofenbach
 
-Ofenbach is a House and Electro artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at Cova Santa, Ibiza on Sat, 12 Sept 2026.
+Ofenbach is a House and Electro artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at Cova Santa, Ibiza on Sat, 12 Sept 2026.
 
 Ofenbach is a house and electro artist based in France, tracked on soundcheck, with 23 sets logged across Amsterdam, Barcelona, Berlin and Hamburg and 11 more. Often billed alongside Boris Brejcha, David Guetta and I Hate Models. Next up: Cova Santa, Ibiza on Sat 12 Sept.
 
@@ -25,4 +25,4 @@ Ofenbach is a house and electro artist based in France, tracked on soundcheck, w
 
 Boris Brejcha, David Guetta, I Hate Models
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/ofenbach/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/ofenbach/)*

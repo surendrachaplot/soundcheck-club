@@ -1,6 +1,6 @@
 # Cara Murphy
 
-Cara Murphy is a House and Deep House artist with 3 upcoming club dates listed on soundcheck as of Wed, 29 Jul 2026, next at OneSixOne, Melbourne on Thu, 30 Jul 2026.
+Cara Murphy is a House and Deep House artist with 3 upcoming club dates listed on soundcheck as of Thu, 30 Jul 2026, next at OneSixOne, Melbourne on Thu, 30 Jul 2026.
 
 Cara Murphy is a house and deep house artist tracked on soundcheck, with 186 sets logged across Amsterdam and Melbourne. Often billed alongside Agent 86, Jay Ramon and BoyBlewe. Next up: OneSixOne, Melbourne on Thu 30 Jul.
 
@@ -27,4 +27,4 @@ Cara Murphy is a house and deep house artist tracked on soundcheck, with 186 set
 
 Agent 86, Jay Ramon, BoyBlewe
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/caramurphy/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/caramurphy/)*

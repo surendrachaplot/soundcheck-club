@@ -1,6 +1,6 @@
 # SEV1
 
-SEV1 is a Techno and Experimental artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at The Gutter, New York City on Sat, 29 Aug 2026.
+SEV1 is a Techno and Experimental artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at The Gutter, New York City on Sat, 29 Aug 2026.
 
 SEV1 is a techno and experimental artist based in United States of America, tracked on soundcheck, with 6 sets logged across Newyorkcity. Often billed alongside DBL_BBL, KANZE and Rainbow Light Body. Next up: The Gutter, Newyorkcity on Sat 29 Aug.
 
@@ -22,4 +22,4 @@ SEV1 is a techno and experimental artist based in United States of America, trac
 
 DBL_BBL, KANZE, Rainbow Light Body
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/sev1/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/sev1/)*

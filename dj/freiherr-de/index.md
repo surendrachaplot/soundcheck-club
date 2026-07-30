@@ -1,6 +1,6 @@
 # FRËIHERR
 
-FRËIHERR is a Trance and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at ÆDEN, Berlin on Sat, 8 Aug 2026.
+FRËIHERR is a Trance and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at ÆDEN, Berlin on Sat, 8 Aug 2026.
 
 FRËIHERR is a trance and techno artist based in Germany, tracked on soundcheck, with 4 sets logged across Berlin. Often billed alongside BENDOM, Nilinski and Phil Biehler. Next up: ÆDEN, Berlin on Sat 8 Aug.
 
@@ -20,4 +20,4 @@ FRËIHERR is a trance and techno artist based in Germany, tracked on soundcheck,
 
 BENDOM, Nilinski, Phil Biehler
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/freiherr-de/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/freiherr-de/)*

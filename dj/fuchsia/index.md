@@ -1,6 +1,6 @@
 # fuchsia
 
-fuchsia is a Techno and Bass artist with 2 upcoming club dates listed on soundcheck as of Wed, 29 Jul 2026, next at TBA - INNER WEST, Sydney on Sat, 1 Aug 2026.
+fuchsia is a Techno and Bass artist with 2 upcoming club dates listed on soundcheck as of Thu, 30 Jul 2026, next at TBA - INNER WEST, Sydney on Sat, 1 Aug 2026.
 
 fuchsia is a techno and bass artist based in Australia, tracked on soundcheck, with 23 sets logged across Amsterdam, Melbourne and Sydney. Often billed alongside Alilia, Ben UFO and Bouki. Next up: TBA - INNER WEST, Sydney on Sat 1 Aug.
 
@@ -26,4 +26,4 @@ fuchsia is a techno and bass artist based in Australia, tracked on soundcheck, w
 
 Alilia, Ben UFO, Bouki
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/fuchsia/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/fuchsia/)*

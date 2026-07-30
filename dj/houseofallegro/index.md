@@ -1,6 +1,6 @@
 # House of Allegro
 
-House of Allegro is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at Basing House, London on Sun, 2 Aug 2026.
+House of Allegro is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at Basing House, London on Sun, 2 Aug 2026.
 
 House of Allegro is a house and tech house artist based in United Kingdom, tracked on soundcheck, with 16 sets logged across London. Often billed alongside Daniela Corvea, Niumigi and Sophia Nicole. Next up: Basing House, London on Sun 2 Aug.
 
@@ -25,4 +25,4 @@ House of Allegro is a house and tech house artist based in United Kingdom, track
 
 Daniela Corvea, Niumigi, Sophia Nicole
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/houseofallegro/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/houseofallegro/)*

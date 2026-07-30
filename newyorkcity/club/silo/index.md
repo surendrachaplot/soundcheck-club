@@ -1,14 +1,13 @@
 # SILO
 
-SILO is a music venue in New York City with 35 upcoming nights listed on soundcheck as of Wed, 29 Jul 2026; the next is "Open Decks with STEEN and Kush Jones [Full Venue Edition]" on Wed, 29 Jul 2026.
+SILO is a music venue in New York City with 34 upcoming nights listed on soundcheck as of Thu, 30 Jul 2026; the next is "Continuum (Main Room Event, Free with RSVP)" on Thu, 30 Jul 2026.
 
-SILO is a music venue in Newyorkcity listed on soundcheck. 35 upcoming nights, with line-ups including 2melo, AceMo, A DJ Named SNE and Alex Hell-n and 2 more. Browse upcoming dates, start times and who's playing. 90 Scott Ave, East Williamsburg, Brooklyn.
+SILO is a music venue in Newyorkcity listed on soundcheck. 34 upcoming nights, with line-ups including 2melo, AceMo, A DJ Named SNE and Alex Hell-n and 2 more. Browse upcoming dates, start times and who's playing. 90 Scott Ave, East Williamsburg, Brooklyn.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Wed, 29 Jul 2026 | Open Decks with STEEN and Kush Jones [Full Venue Edition] | Kush Jones, STEEN |
 | Thu, 30 Jul 2026 | Continuum (Main Room Event, Free with RSVP) | Alex Hell-n, Choo Choo, R-DNA, Touch Base, nextdimensional |
 | Fri, 31 Jul 2026 | Goldfish | Goldfish, branqueeno |
 | Sat, 1 Aug 2026 | Afro Carnival presents Riddim N' Bass with DJ Tunez & Ethan Tomas |  |
@@ -18,9 +17,10 @@ SILO is a music venue in Newyorkcity listed on soundcheck. 35 upcoming nights, w
 | Fri, 7 Aug 2026 | RayRay | RayRay |
 | Sat, 8 Aug 2026 | The Equation feat. AceMo b2b Swami Sound [Extended Live Hardware Set] / Gamma Vibes | AceMo, Gamma Vibes, Swami Sound |
 | Tue, 11 Aug 2026 | Open Decks with CitySoul Bus | STEEN |
+| Wed, 12 Aug 2026 | Open Decks with STEEN and Rhythm Rails | STEEN |
 
 ## Address
 
 90 Scott Ave, East Williamsburg, Brooklyn, New York City
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/silo/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/silo/)*

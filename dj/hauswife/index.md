@@ -1,6 +1,6 @@
 # HAUSWiFE
 
-HAUSWiFE is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at New Guernica, Melbourne on Thu, 30 Jul 2026.
+HAUSWiFE is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at New Guernica, Melbourne on Thu, 30 Jul 2026.
 
 HAUSWiFE is a house and techno artist tracked on soundcheck, with 114 sets logged across Bangkok, Bristol, Melbourne and Sanfrancisco and 1 more. Often billed alongside Mitch Tonta, JOVE and Joey Coco. Next up: New Guernica, Melbourne on Thu 30 Jul.
 
@@ -25,4 +25,4 @@ HAUSWiFE is a house and techno artist tracked on soundcheck, with 114 sets logge
 
 Mitch Tonta, JOVE, Joey Coco
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/hauswife/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/hauswife/)*

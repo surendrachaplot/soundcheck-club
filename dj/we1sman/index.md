@@ -1,6 +1,6 @@
 # we1sman
 
-we1sman is a Techno and Club artist with 6 upcoming club dates listed on soundcheck as of Wed, 29 Jul 2026, next at Lincoln Factory, Detroit on Fri, 31 Jul 2026.
+we1sman is a Techno and Club artist with 6 upcoming club dates listed on soundcheck as of Thu, 30 Jul 2026, next at Lincoln Factory, Detroit on Fri, 31 Jul 2026.
 
 we1sman is a techno and club artist tracked on soundcheck, with 129 sets logged across Denver, Detroit and Newyorkcity. Often billed alongside Wax Assassin, jamea. and LATEX GIRL. Next up: Lincoln Factory, Detroit on Fri 31 Jul.
 
@@ -30,4 +30,4 @@ we1sman is a techno and club artist tracked on soundcheck, with 129 sets logged 
 
 Wax Assassin, jamea., LATEX GIRL
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/we1sman/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/we1sman/)*

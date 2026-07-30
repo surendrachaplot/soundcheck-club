@@ -1,6 +1,6 @@
 # substitüt
 
-substitüt is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at KitKatClub, Berlin on Fri, 31 Jul 2026.
+substitüt is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at KitKatClub, Berlin on Fri, 31 Jul 2026.
 
 substitüt is a techno and trance artist based in Germany, tracked on soundcheck, with 6 sets logged across Berlin. Often billed alongside Dj Iryna, Pooja B and 7CIRCLE. Next up: KitKatClub, Berlin on Fri 31 Jul.
 
@@ -22,4 +22,4 @@ substitüt is a techno and trance artist based in Germany, tracked on soundcheck
 
 Dj Iryna, Pooja B, 7CIRCLE
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/substitut/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/substitut/)*

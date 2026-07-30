@@ -1,6 +1,6 @@
 # Ballroom at Palais
 
-Ballroom at Palais is a music venue in London with 2 upcoming nights listed on soundcheck as of Wed, 29 Jul 2026; the next is "Ballroom at Palais: BORN N BREAD presents sexy spice" on Thu, 30 Jul 2026.
+Ballroom at Palais is a music venue in London with 2 upcoming nights listed on soundcheck as of Thu, 30 Jul 2026; the next is "Ballroom at Palais: BORN N BREAD presents sexy spice" on Thu, 30 Jul 2026.
 
 Ballroom at Palais is a music venue in London listed on soundcheck. 2 upcoming nights, with line-ups including Glade Marie, Mahnoor, sif.b and Yasmine (UK). Browse upcoming dates, start times and who's playing. 1a Rye Ln, London SE15 5EW.
 
@@ -15,4 +15,4 @@ Ballroom at Palais is a music venue in London listed on soundcheck. 2 upcoming n
 
 1a Rye Ln, London SE15 5EW, London
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/london/club/ballroom-at-palais/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/london/club/ballroom-at-palais/)*

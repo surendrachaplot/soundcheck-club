@@ -1,8 +1,8 @@
 # Walji
 
-Walji is a House and Tech House artist with 2 upcoming club dates listed on soundcheck as of Wed, 29 Jul 2026, next at Le Red Room, Montreal on Fri, 31 Jul 2026.
+Walji is a House and Tech House artist with 3 upcoming club dates listed on soundcheck as of Thu, 30 Jul 2026, next at Le Red Room, Montreal on Fri, 31 Jul 2026.
 
-Walji is a house and tech house artist based in Canada, tracked on soundcheck, with 10 sets logged across Montreal. Often billed alongside AYMÉ, Harry Trancer and SAM CHEF. Next up: Le Red Room, Montreal on Fri 31 Jul.
+Walji is a house and tech house artist based in Canada, tracked on soundcheck, with 11 sets logged across Montreal. Often billed alongside AYMÉ, Harry Trancer and Anomia. Next up: Le Red Room, Montreal on Fri 31 Jul.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Walji is a house and tech house artist based in Canada, tracked on soundcheck, w
 | --- | --- | --- |
 | Fri, 31 Jul 2026 | Le Red Room | Montreal |
 | Sat, 8 Aug 2026 | Le Red Room | Montreal |
+| Sun, 23 Aug 2026 | Le Red Room | Montreal |
 
 ## Recently played
 
@@ -24,6 +25,6 @@ Walji is a house and tech house artist based in Canada, tracked on soundcheck, w
 
 ## Shares bills with
 
-AYMÉ, Harry Trancer, SAM CHEF
+AYMÉ, Harry Trancer, Anomia
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/walji/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/walji/)*

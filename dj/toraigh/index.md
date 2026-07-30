@@ -1,6 +1,6 @@
 # Toraigh
 
-Toraigh is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Wed, 29 Jul 2026, next at Tide Nightclub, Brighton on Sat, 1 Aug 2026.
+Toraigh is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Thu, 30 Jul 2026, next at Tide Nightclub, Brighton on Sat, 1 Aug 2026.
 
 Toraigh is a techno and house artist tracked on soundcheck, with 19 sets logged across Belfast, Brighton and London. Often billed alongside DJ-CK, HOLY C and Ross Harper. Next up: Tide Nightclub, Brighton on Sat 1 Aug.
 
@@ -26,4 +26,4 @@ Toraigh is a techno and house artist tracked on soundcheck, with 19 sets logged 
 
 DJ-CK, HOLY C, Ross Harper
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/toraigh/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/toraigh/)*

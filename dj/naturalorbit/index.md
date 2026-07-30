@@ -1,6 +1,6 @@
 # Natural Orbit
 
-Natural Orbit is a Disco and House artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at Arcana, San Francisco/Oakland on Fri, 21 Aug 2026.
+Natural Orbit is a Disco and House artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at Arcana, San Francisco/Oakland on Fri, 21 Aug 2026.
 
 Natural Orbit is a disco and house artist based in United States of America, tracked on soundcheck, with 3 sets logged across Sanfrancisco. Often billed alongside scummy rumi, Modyl and &ndmore. Next up: Arcana, Sanfrancisco on Fri 21 Aug.
 
@@ -19,4 +19,4 @@ Natural Orbit is a disco and house artist based in United States of America, tra
 
 scummy rumi, Modyl, &ndmore
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/naturalorbit/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/naturalorbit/)*

@@ -1,6 +1,6 @@
 # mundo
 
-mundo is a Deep House and Reggaeton artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at House of Yes, New York City on Sat, 8 Aug 2026.
+mundo is a Deep House and Reggaeton artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at House of Yes, New York City on Sat, 8 Aug 2026.
 
 mundo is a deep house and reggaeton artist based in United Kingdom, tracked on soundcheck, with 2 sets logged across Newyorkcity. Often billed alongside 444 (1), Brian Cid and DJ Ultra Violet. Next up: House of Yes, Newyorkcity on Sat 8 Aug.
 
@@ -18,4 +18,4 @@ mundo is a deep house and reggaeton artist based in United Kingdom, tracked on s
 
 444 (1), Brian Cid, DJ Ultra Violet
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/mundo/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/mundo/)*

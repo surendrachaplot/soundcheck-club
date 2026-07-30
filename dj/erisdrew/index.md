@@ -1,14 +1,13 @@
 # Eris Drew
 
-Eris Drew is a House and Techno artist with 14 upcoming club dates listed on soundcheck as of Wed, 29 Jul 2026, next at Amsterdamse Bos, Amsterdam on Wed, 29 Jul 2026.
+Eris Drew is a House and Techno artist with 13 upcoming club dates listed on soundcheck as of Thu, 30 Jul 2026, next at Amsterdamse Bos, Amsterdam on Sat, 1 Aug 2026.
 
-Eris Drew is a house and techno artist tracked on soundcheck, with 177 sets logged across Amsterdam, Antwerp, Bali and Barcelona and 49 more. Often billed alongside Octo Octa, CCL and Mike Servito. Next up: Amsterdamse Bos, Amsterdam on Wed 29 Jul.
+Eris Drew is a house and techno artist tracked on soundcheck, with 177 sets logged across Amsterdam, Antwerp, Bali and Barcelona and 49 more. Often billed alongside Octo Octa, CCL and Mike Servito. Next up: Amsterdamse Bos, Amsterdam on Sat 1 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Wed, 29 Jul 2026 | Amsterdamse Bos | Amsterdam |
 | Sat, 1 Aug 2026 | Amsterdamse Bos | Amsterdam |
 | Fri, 7 Aug 2026 | CLUB RAUM | Amsterdam |
 | Sat, 8 Aug 2026 | TBA - Seebruck - Chiemsee | Munich |
@@ -20,9 +19,11 @@ Eris Drew is a house and techno artist tracked on soundcheck, with 177 sets logg
 | Sat, 12 Sept 2026 | RSO.BERLIN | Berlin |
 | Fri, 18 Sept 2026 | Fort Mifflin | Philadelphia |
 | Sun, 4 Oct 2026 | Piknic Électronik / Parc Jean Drapeau | Montreal |
+| Fri, 23 Oct 2026 | Het Rijk van de Keizer | Amsterdam |
 
 ## Recently played
 
+- Amsterdamse Bos, Amsterdam — Wed, 29 Jul 2026
 - The White Hotel, Manchester — Sun, 26 Jul 2026
 - Milandia, Zurich — Sat, 25 Jul 2026
 - OLT Rivierenhof, Antwerp — Sat, 18 Jul 2026
@@ -30,10 +31,9 @@ Eris Drew is a house and techno artist tracked on soundcheck, with 177 sets logg
 - TBA, Copenhagen — Sat, 18 Jul 2026
 - M.O.T, London — Fri, 17 Jul 2026
 - essaim, Paris — Sat, 11 Jul 2026
-- Parque da Pasteleira, Porto — Fri, 3 Jul 2026
 
 ## Shares bills with
 
 Octo Octa, CCL, Mike Servito
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/erisdrew/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/erisdrew/)*

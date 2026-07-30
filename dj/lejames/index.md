@@ -1,6 +1,6 @@
 # Le James
 
-Le James is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at Elsewhere, Bangkok on Sat, 1 Aug 2026.
+Le James is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at Elsewhere, Bangkok on Sat, 1 Aug 2026.
 
 Le James is a techno and house artist based in Vietnam, tracked on soundcheck, with 8 sets logged across Bangkok, Seoul and Tokyo. Often billed alongside Jimin, Jirus (MELA) and DJ Bowlcut. Next up: Elsewhere, Bangkok on Sat 1 Aug.
 
@@ -24,4 +24,4 @@ Le James is a techno and house artist based in Vietnam, tracked on soundcheck, w
 
 Jimin, Jirus (MELA), DJ Bowlcut
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/lejames/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/lejames/)*

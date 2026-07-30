@@ -1,6 +1,6 @@
 # Diva International
 
-Diva International is a Club and House artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at Bulbul Berlin, Berlin on Thu, 30 Jul 2026.
+Diva International is a Club and House artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at Bulbul Berlin, Berlin on Thu, 30 Jul 2026.
 
 Diva International is a club and house artist based in Bulgaria, tracked on soundcheck, with 3 sets logged across Berlin. Often billed alongside 8-AN, BECKSHAM and DJ Aficionado. Next up: Bulbul Berlin, Berlin on Thu 30 Jul.
 
@@ -19,4 +19,4 @@ Diva International is a club and house artist based in Bulgaria, tracked on soun
 
 8-AN, BECKSHAM, DJ Aficionado
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/divainternational/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/divainternational/)*

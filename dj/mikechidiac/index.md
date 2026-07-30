@@ -1,6 +1,6 @@
 # Mike Chidiac
 
-Mike Chidiac is a Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at Stereo, Montreal on Sat, 15 Aug 2026.
+Mike Chidiac is a Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at Stereo, Montreal on Sat, 15 Aug 2026.
 
 Mike Chidiac is a techno artist based in Canada, tracked on soundcheck, with 11 sets logged across Montreal. Often billed alongside Aöcram, MPHS and Mike Larry. Next up: Stereo, Montreal on Sat 15 Aug.
 
@@ -25,4 +25,4 @@ Mike Chidiac is a techno artist based in Canada, tracked on soundcheck, with 11 
 
 Aöcram, MPHS, Mike Larry
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/mikechidiac/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/mikechidiac/)*

@@ -1,6 +1,6 @@
 # Burnt Friedman
 
-Burnt Friedman is a Electronica and Experimental artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at Gaswerksiedlung, Berlin on Sat, 1 Aug 2026.
+Burnt Friedman is a Electronica and Experimental artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at Gaswerksiedlung, Berlin on Sat, 1 Aug 2026.
 
 Burnt Friedman is an electronica and experimental artist based in Germany, tracked on soundcheck, with 4 sets logged across Amsterdam, Berlin and Paris. Often billed alongside Bryozone, Jo FLM and Kenneth Scott. Next up: Gaswerksiedlung, Berlin on Sat 1 Aug.
 
@@ -20,4 +20,4 @@ Burnt Friedman is an electronica and experimental artist based in Germany, track
 
 Bryozone, Jo FLM, Kenneth Scott
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/burntfriedman/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/burntfriedman/)*

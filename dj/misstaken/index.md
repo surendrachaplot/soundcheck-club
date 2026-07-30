@@ -1,6 +1,6 @@
 # MISSTAKEN
 
-MISSTAKEN is a Techno and Gabber artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at ÆDEN, Berlin on Thu, 6 Aug 2026.
+MISSTAKEN is a Techno and Gabber artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at ÆDEN, Berlin on Thu, 6 Aug 2026.
 
 MISSTAKEN is a techno and gabber artist tracked on soundcheck, with 4 sets logged across Berlin. Often billed alongside Kichta, SOHOE and Stinny Stone. Next up: ÆDEN, Berlin on Thu 6 Aug.
 
@@ -20,4 +20,4 @@ MISSTAKEN is a techno and gabber artist tracked on soundcheck, with 4 sets logge
 
 Kichta, SOHOE, Stinny Stone
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/misstaken/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/misstaken/)*

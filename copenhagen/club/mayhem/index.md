@@ -1,6 +1,6 @@
 # Mayhem
 
-Mayhem is a music venue in Copenhagen with 1 upcoming night listed on soundcheck as of Wed, 29 Jul 2026; the next is "CLUB DECONSTRUCT VOL.VI" on Fri, 14 Aug 2026.
+Mayhem is a music venue in Copenhagen with 1 upcoming night listed on soundcheck as of Thu, 30 Jul 2026; the next is "CLUB DECONSTRUCT VOL.VI" on Fri, 14 Aug 2026.
 
 Mayhem is a music venue in Copenhagen listed on soundcheck. 1 upcoming night, with line-ups including Henry Wilson. Browse upcoming dates, start times and who's playing. Ragnhildgade 1; 2100 Copenhagen.
 
@@ -14,4 +14,4 @@ Mayhem is a music venue in Copenhagen listed on soundcheck. 1 upcoming night, wi
 
 Ragnhildgade 1; 2100 Copenhagen, Copenhagen
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/copenhagen/club/mayhem/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/copenhagen/club/mayhem/)*

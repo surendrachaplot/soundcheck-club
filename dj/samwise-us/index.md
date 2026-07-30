@@ -1,6 +1,6 @@
 # Samwise (US)
 
-Samwise (US) is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at Better Tomorrow, Los Angeles on Thu, 30 Jul 2026.
+Samwise (US) is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at Better Tomorrow, Los Angeles on Thu, 30 Jul 2026.
 
 Samwise (US) is a techno and house artist based in United States of America, tracked on soundcheck, with 32 sets logged across London, Losangeles and Newyorkcity. Often billed alongside Carré, Seyer (UK) and Trax Unit. Next up: Better Tomorrow, Losangeles on Thu 30 Jul.
 
@@ -25,4 +25,4 @@ Samwise (US) is a techno and house artist based in United States of America, tra
 
 Carré, Seyer (UK), Trax Unit
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/samwise-us/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/samwise-us/)*

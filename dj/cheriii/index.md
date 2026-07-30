@@ -1,8 +1,8 @@
 # Cheriii
 
-Cheriii is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Wed, 29 Jul 2026, next at Tresor / Globus, Berlin on Fri, 31 Jul 2026.
+Cheriii is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Thu, 30 Jul 2026, next at Tresor / Globus, Berlin on Fri, 31 Jul 2026.
 
-Cheriii is a house and techno artist tracked on soundcheck, with 75 sets logged across Antwerp, Athens, Barcelona and Berlin and 14 more. Often billed alongside Kubin, Julie Desire and Dirty Daddy Don. Next up: Tresor / Globus, Berlin on Fri 31 Jul.
+Cheriii is a house and techno artist tracked on soundcheck, with 76 sets logged across Antwerp, Athens, Barcelona and Berlin and 14 more. Often billed alongside Kubin, Julie Desire and Dirty Daddy Don. Next up: Tresor / Globus, Berlin on Fri 31 Jul.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Cheriii is a house and techno artist tracked on soundcheck, with 75 sets logged 
 | --- | --- | --- |
 | Fri, 31 Jul 2026 | Tresor / Globus | Berlin |
 | Fri, 28 Aug 2026 | Oven Club | Valencia |
+| Fri, 11 Sept 2026 | Renate | Berlin |
 
 ## Recently played
 
@@ -26,4 +27,4 @@ Cheriii is a house and techno artist tracked on soundcheck, with 75 sets logged 
 
 Kubin, Julie Desire, Dirty Daddy Don
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/cheriii/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/cheriii/)*

@@ -1,6 +1,6 @@
 # o.utlier
 
-o.utlier is a Techno and Electronica artist with 1 upcoming club date listed on soundcheck as of Wed, 29 Jul 2026, next at Gare Porto, Porto on Sat, 1 Aug 2026.
+o.utlier is a Techno and Electronica artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at Gare Porto, Porto on Sat, 1 Aug 2026.
 
 o.utlier is a techno and electronica artist based in Ireland, tracked on soundcheck, with 15 sets logged across Barcelona, Belfast, Berlin and Cork and 4 more. Often billed alongside Ario, Anthony Linell and Jin (TW). Next up: Gare Porto, Porto on Sat 1 Aug.
 
@@ -25,4 +25,4 @@ o.utlier is a techno and electronica artist based in Ireland, tracked on soundch
 
 Ario, Anthony Linell, Jin (TW)
 
-*Updated Wed, 29 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/o.utlier/)*
+*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/o.utlier/)*
