@@ -3421,11 +3421,51 @@
     .dt:active, .fp-ab:active, .pf-btn:active, .go:active{ transform:scale(0.965); opacity:0.9; }
     .iconbtn:active, .heart:active, .seen-btn:active{ transform:scale(0.86); }
 
+    /* Overscroll hero. On the native detail screens the poster scales up when you
+       pull past the top and parallaxes away as you scroll down — it is the single
+       clearest signal that the hero is a surface and not a picture pasted at the
+       top. Driven from one passive scroll listener writing a CSS variable, so the
+       only thing that changes per frame is a compositor transform.
+       Mobile only: on desktop the poster sits in a two-column card, where moving
+       it would just look broken. */
+    @media (max-width:720px){
+      .fp-ev-poster, .fp-hero-img{
+        transform:translate3d(0, var(--heroY, 0px), 0) scale(var(--heroS, 1));
+        transform-origin:50% 0;
+        will-change:transform;
+      }
+    }
+
+    /* Sections below the fold arrive as you reach them, the same rise the native
+       screens use on mount. IntersectionObserver, one-shot: an element that
+       re-animates every time it re-enters reads as a page that can't settle. */
+    .sc-reveal{ opacity:0; transform:translateY(12px); }
+    .sc-reveal.in{ opacity:1; transform:none; transition:opacity 380ms var(--ease-standard), transform 380ms cubic-bezier(0.32,0.72,0,1); }
+
+    /* The log-a-night language, shared with the native screen: an outlined violet
+       action (an invitation, not a demand — it must not compete with Play, which
+       is the one gradient button on any view), and rating stars that are empty
+       until you actually have an opinion. */
+    .sc-cta-out{
+      display:flex; align-items:center; justify-content:center; gap:8px;
+      width:100%; min-height:48px; padding:0 16px;
+      background:none; border:1px solid var(--sel); border-radius:var(--radius-xl);
+      color:var(--sel-text); font:700 var(--fs-sm)/1 var(--head); cursor:pointer;
+      -webkit-tap-highlight-color:transparent; touch-action:manipulation;
+      transition:transform 180ms cubic-bezier(0.32,0.72,0,1), background 180ms ease;
+    }
+    .sc-cta-out:active{ transform:scale(0.975); background:var(--sel-weak); }
+    .sc-cta-out svg{ width:var(--icon-sm); height:var(--icon-sm); stroke:currentColor; fill:none; stroke-width:2.2; stroke-linecap:round; }
+
     /* Respect the OS setting. Motion is a preference, not a decoration. */
     @media (prefers-reduced-motion: reduce){
       .lvr, .gcard.evc, .dt, .fp-ab, .pf-btn, .go, .iconbtn, .heart, .seen-btn{ transition:none; }
       .lvr:active, .gcard.evc:active, .dt:active, .fp-ab:active,
       .pf-btn:active, .go:active, .iconbtn:active, .heart:active, .seen-btn:active{ transform:none; }
+      .fp-ev-poster, .fp-hero-img{ transform:none; }
+      .sc-reveal, .sc-reveal.in{ opacity:1; transform:none; transition:none; }
+      .sc-cta-out{ transition:none; }
+      .sc-cta-out:active{ transform:none; }
     }
 
     .lvr{ display:flex; flex-direction:row; align-items:center; gap:8px; background:var(--surface); border:1px solid var(--border); border-radius:var(--radius-lg); padding:9px 10px; }
@@ -3745,7 +3785,7 @@
   <!-- Umami analytics. defer so it never blocks first paint; the SPA rewrites
        history on navigation, which umami picks up automatically. -->
   <script defer src="https://cloud.umami.is/script.js" data-website-id="de210b6c-12e4-4819-95f6-f5120974855a"></script>
-<meta name="sc-build" content="1785534314254">
+<meta name="sc-build" content="1785538874428">
 </head>
 <body>
   <main class="wrap">
@@ -3794,7 +3834,7 @@
     <div class="grid" id="grid"></div>
     <!-- Per-city "what's on this week" date links, injected by build-club (canonical
          /<city>/<date>/ pages). Empty in the source; hidden on client-side city switch. -->
-    <section id="home-seo-more" class="home-seo-more" data-city="london"><h2>What&rsquo;s on in London this week</h2><ul class="home-seo-dates"><li><a href="/london/2026-07-31/">Fri 31 Jul <span class="c">101 events</span></a></li><li><a href="/london/2026-08-01/">Sat 1 Aug <span class="c">131 events</span></a></li><li><a href="/london/2026-08-02/">Sun 2 Aug <span class="c">40 events</span></a></li><li><a href="/london/2026-08-05/">Wed 5 Aug <span class="c">5 events</span></a></li><li><a href="/london/2026-08-06/">Thu 6 Aug <span class="c">29 events</span></a></li><li><a href="/london/2026-08-07/">Fri 7 Aug <span class="c">70 events</span></a></li><li><a href="/london/2026-08-08/">Sat 8 Aug <span class="c">102 events</span></a></li></ul><nav class="home-seo-nav" aria-label="More on soundcheck"><a href="/london/this-weekend/">This weekend in London</a> <a href="/london/scene/">London scene guide</a> <a href="/cities/">All 104 cities</a></nav></section>
+    <section id="home-seo-more" class="home-seo-more" data-city="london"><h2>What&rsquo;s on in London this week</h2><ul class="home-seo-dates"><li><a href="/london/2026-07-31/">Fri 31 Jul <span class="c">101 events</span></a></li><li><a href="/london/2026-08-01/">Sat 1 Aug <span class="c">132 events</span></a></li><li><a href="/london/2026-08-02/">Sun 2 Aug <span class="c">39 events</span></a></li><li><a href="/london/2026-08-05/">Wed 5 Aug <span class="c">5 events</span></a></li><li><a href="/london/2026-08-06/">Thu 6 Aug <span class="c">29 events</span></a></li><li><a href="/london/2026-08-07/">Fri 7 Aug <span class="c">70 events</span></a></li><li><a href="/london/2026-08-08/">Sat 8 Aug <span class="c">102 events</span></a></li></ul><nav class="home-seo-nav" aria-label="More on soundcheck"><a href="/london/this-weekend/">This weekend in London</a> <a href="/london/scene/">London scene guide</a> <a href="/cities/">All 104 cities</a></nav></section>
 
     <!-- Crawlable home content (H1 + intro) — moved to the bottom of the page. Still a real
          <h1> in the DOM so it's the page heading for SEO regardless of visual position.
@@ -6301,6 +6341,8 @@
       window.scrollTo(0,0);
       if(typeof syncTabs==='function') setTimeout(syncTabs,0); // hash settles after setRoute
       if(window.scFootHold) scFootHold();   // footer waits for this page's real content
+      // Re-arm the hero physics + reveal for the page that just replaced the DOM.
+      if(window.scAfterRender) scAfterRender();
     }
     // hidePage is pure UI — it just shows the home grid. History is driven by
     // setRoute (pushState) + goBack (history.back) + the popstate handler.
@@ -6311,6 +6353,7 @@
       resetSeo();
       if(typeof syncTabs==='function') setTimeout(syncTabs,0);
       if(window.scFootHold) scFootHold();   // re-evaluate for the home grid
+      if(window.scAfterRender) scAfterRender();
     }
     // ── Spotify-style sticky title bar. armSticky(name, playFn, sentinel): fills the bar,
     // un-sticks the global nav (body.has-psticky), and reveals the bar once `sentinel`
@@ -6498,6 +6541,77 @@
       // bar) can pin just beneath it, correct across mobile/desktop + safe-area inset.
       function setNavH(){ document.documentElement.style.setProperty('--navh', nav.offsetHeight+'px'); }
       setNavH(); window.addEventListener('resize', setNavH, {passive:true});
+    })();
+
+    // ── Native parity: the overscroll hero + scroll reveal ───────────────────
+    // Both live in ONE rAF-throttled passive listener. Two separate listeners on
+    // the same scroll event is how a smooth page becomes a janky one on a
+    // mid-range Android — the work per frame is what matters, not the elegance
+    // of the split.
+    (function(){
+      var reduce = matchMedia('(prefers-reduced-motion: reduce)');
+      var root = document.documentElement, ticking = false, hero = null;
+      function findHero(){
+        // Re-looked-up per navigation: the SPA replaces the page body wholesale.
+        hero = document.querySelector('.fp-ev-poster, .fp-hero-img');
+      }
+      function frame(){
+        ticking = false;
+        if(!hero || window.innerWidth > 720) return;
+        var y = window.scrollY || root.scrollTop || 0;
+        if(y < 0){
+          // Rubber-band: grow from the top edge, matching the native pull.
+          root.style.setProperty('--heroS', String(1 + Math.min(-y / 320, 0.35)));
+          root.style.setProperty('--heroY', '0px');
+        } else {
+          // Parallax at half speed, and only while the hero is still on screen —
+          // past that it is off-stage and every frame spent on it is wasted.
+          root.style.setProperty('--heroS', '1');
+          root.style.setProperty('--heroY', (y < hero.offsetHeight ? y * 0.5 : hero.offsetHeight * 0.5) + 'px');
+        }
+      }
+      function onScroll(){ if(!ticking){ ticking = true; requestAnimationFrame(frame); } }
+      if(!reduce.matches) window.addEventListener('scroll', onScroll, {passive:true});
+
+      // Reveal: one-shot, unobserved as soon as it fires. Elements are opted in by
+      // adding .sc-reveal at render time.
+      var io = 'IntersectionObserver' in window && !reduce.matches
+        ? new IntersectionObserver(function(entries){
+            entries.forEach(function(e){
+              if(!e.isIntersecting) return;
+              e.target.classList.add('in');
+              io.unobserve(e.target);
+            });
+          }, { rootMargin: '0px 0px -8% 0px', threshold: 0.01 })
+        : null;
+
+      // Called after every page render. Without IO support (or with reduced
+      // motion) everything is marked visible immediately — a page whose content
+      // never appears is a far worse failure than a page without an animation.
+      window.scAfterRender = function(){
+        findHero();
+        root.style.setProperty('--heroS', '1');
+        root.style.setProperty('--heroY', '0px');
+        // Opt sections in from here rather than from every template string —
+        // there are a dozen page renderers and this is one rule for all of them.
+        // Only elements that are actually laid out: tagging one inside a
+        // display:none tab panel would hide it, and the observer would never fire
+        // to bring it back.
+        var secs = document.querySelectorAll('#page-body .fp-sec, #page-body .pf-box');
+        for(var j=0;j<secs.length;j++){
+          if(secs[j].offsetParent !== null && !secs[j].classList.contains('in')) secs[j].classList.add('sc-reveal');
+        }
+        var els = document.querySelectorAll('.sc-reveal:not(.in)');
+        for(var i=0;i<els.length;i++){ if(io) io.observe(els[i]); else els[i].classList.add('in'); }
+        // Backstop. Whatever the reason an element never intersects — a container
+        // that scrolls on its own, a tab that opened after we looked — content
+        // that stays invisible is a far worse bug than a missing animation.
+        setTimeout(function(){
+          var stuck = document.querySelectorAll('.sc-reveal:not(.in)');
+          for(var k=0;k<stuck.length;k++) stuck[k].classList.add('in');
+        }, 1200);
+      };
+      window.scAfterRender();
     })();
     // Focus trap: keep Tab inside the active overlay (modal) so keyboard focus can't
     // leak to the page behind. Covers static (.show) + dynamically-built overlays.

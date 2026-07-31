@@ -1,14 +1,14 @@
 # Oliver Night
 
-Oliver Night is a House and Broken Beat artist with 2 upcoming club dates listed on soundcheck as of Fri, 31 Jul 2026, next at Secret Location, London on Sat, 1 Aug 2026.
+Oliver Night is a House and Broken Beat artist with 2 upcoming club dates listed on soundcheck as of Fri, 31 Jul 2026, next at Bellefields, London on Sat, 1 Aug 2026.
 
-Oliver Night is a house and broken beat artist based in United Kingdom, tracked on soundcheck, with 19 sets logged across Amsterdam and London. Often billed alongside Cengiz, Midnight Runner and Rohan Rakhit. Next up: Secret Location, London on Sat 1 Aug.
+Oliver Night is a house and broken beat artist based in United Kingdom, tracked on soundcheck, with 19 sets logged across Amsterdam and London. Often billed alongside Cengiz, Midnight Runner and Rohan Rakhit. Next up: Bellefields, London on Sat 1 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 1 Aug 2026 | Secret Location | London |
+| Sat, 1 Aug 2026 | Bellefields | London |
 | Sat, 29 Aug 2026 | Grow | London |
 
 ## Recently played

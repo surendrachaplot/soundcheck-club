@@ -8,7 +8,7 @@ Starlane Pizza Bar is a music venue in London listed on soundcheck. 31 upcoming 
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Fri, 31 Jul 2026 | JFF invites StandUP - Just For Fun 4 | Monterosso, Oren (IT), Oren., Save P, Ughe, Vlad Ioachimescu, Yuma (UK) |
+| Fri, 31 Jul 2026 | JFF invites StandUP - Just For Fun 4 | Monterosso, Oren (IT), Oren., Raphael Carrau, Save P, Ughe, Vlad Ioachimescu, Yuma (UK) |
 | Sat, 1 Aug 2026 | Nitty Gritty presents: Moon Till Noon |  |
 | Sat, 1 Aug 2026 | Brady and Friends | Brands, Diego Gee, K.Wilson, Matt Arnold, Olly Brady, SMOKEYY |
 | Sun, 2 Aug 2026 | Saints & Sinners with Jeneva b2b Vesolo, Noah Tauber, S Ruston, Ylia b2b Aniaef | Aniaef, Jeneva, Noah Tauber, S Ruston, Vesolo, Ylia (UK) |

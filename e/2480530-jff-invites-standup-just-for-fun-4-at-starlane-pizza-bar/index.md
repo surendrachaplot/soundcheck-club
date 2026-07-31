@@ -1,6 +1,6 @@
 # JFF invites StandUP - Just For Fun 4 at Starlane Pizza Bar
 
-JFF invites StandUP - Just For Fun 4 at Starlane Pizza Bar on Fri 31 Jul, London. 7 acts on the bill: Monterosso, Oren (IT), Oren. and Save P and 3 more. Electro and Minimal Techno. Preview the line-up and save it on soundcheck.
+JFF invites StandUP - Just For Fun 4 at Starlane Pizza Bar on Fri 31 Jul, London. 8 acts on the bill: Monterosso, Oren (IT), Oren. and Raphael Carrau and 4 more. Electro and Minimal Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -13,6 +13,7 @@ JFF invites StandUP - Just For Fun 4 at Starlane Pizza Bar on Fri 31 Jul, London
 - Monterosso
 - Oren (IT)
 - Oren.
+- Raphael Carrau
 - Save P
 - Ughe
 - Vlad Ioachimescu
