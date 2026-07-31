@@ -1,6 +1,6 @@
 # Ali Velmi
 
-Ali Velmi is a House and Garage artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at Club Cheek, London on Fri, 31 Jul 2026.
+Ali Velmi is a House and Garage artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at Club Cheek, London on Fri, 31 Jul 2026.
 
 Ali Velmi is a house and garage artist based in United Kingdom, tracked on soundcheck, with 5 sets logged across London. Often billed alongside BLUMITSU, Benton (UK) and Bluetoof. Next up: Club Cheek, London on Fri 31 Jul.
 
@@ -21,4 +21,4 @@ Ali Velmi is a house and garage artist based in United Kingdom, tracked on sound
 
 BLUMITSU, Benton (UK), Bluetoof
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/alivelmi/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/alivelmi/)*

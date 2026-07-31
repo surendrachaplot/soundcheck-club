@@ -1,6 +1,6 @@
 # Jacuzzi General
 
-Jacuzzi General is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at The Neighbourgood Market, Edinburgh on Fri, 31 Jul 2026.
+Jacuzzi General is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at The Neighbourgood Market, Edinburgh on Fri, 31 Jul 2026.
 
 Jacuzzi General is a house and disco artist tracked on soundcheck, with 99 sets logged across Berlin and Edinburgh. Often billed alongside Ann Tweak, Fierro Grande and Lara Sinclair. Next up: The Neighbourgood Market, Edinburgh on Fri 31 Jul.
 
@@ -25,4 +25,4 @@ Jacuzzi General is a house and disco artist tracked on soundcheck, with 99 sets 
 
 Ann Tweak, Fierro Grande, Lara Sinclair
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/jacuzzigeneral/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/jacuzzigeneral/)*

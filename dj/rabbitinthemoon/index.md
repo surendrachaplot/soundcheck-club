@@ -1,6 +1,6 @@
 # Rabbit In The Moon
 
-Rabbit In The Moon is a Trance and IDM artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at TBA - HUMV, Denver on Fri, 31 Jul 2026.
+Rabbit In The Moon is a Trance and IDM artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at TBA - HUMV, Denver on Fri, 31 Jul 2026.
 
 Rabbit In The Moon is a trance and idm artist based in United States of America, tracked on soundcheck, with 5 sets logged across Denver, Houston, Losangeles and Newyorkcity and 1 more. Often billed alongside Anton Tumas, DA NA and DJ Dan. Next up: TBA - HUMV, Denver on Fri 31 Jul.
 
@@ -21,4 +21,4 @@ Rabbit In The Moon is a trance and idm artist based in United States of America,
 
 Anton Tumas, DA NA, DJ Dan
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/rabbitinthemoon/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/rabbitinthemoon/)*

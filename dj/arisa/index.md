@@ -1,6 +1,6 @@
 # ARISA
 
-ARISA is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at Royal Lounge, Tokyo on Sat, 8 Aug 2026.
+ARISA is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at Royal Lounge, Tokyo on Sat, 8 Aug 2026.
 
 ARISA is a techno and house artist based in Japan, tracked on soundcheck, with 18 sets logged across Rome and Tokyo. Often billed alongside SIGNAL (JP), Gewnky and cosmolady. Next up: Royal Lounge, Tokyo on Sat 8 Aug.
 
@@ -25,4 +25,4 @@ ARISA is a techno and house artist based in Japan, tracked on soundcheck, with 1
 
 SIGNAL (JP), Gewnky, cosmolady
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/arisa/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/arisa/)*

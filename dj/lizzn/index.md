@@ -1,6 +1,6 @@
 # LIZZN
 
-LIZZN is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at KitKatClub, Berlin on Fri, 31 Jul 2026.
+LIZZN is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at KitKatClub, Berlin on Fri, 31 Jul 2026.
 
 LIZZN is a house and techno artist tracked on soundcheck, with 76 sets logged across Berlin, Brussels, Cologne and Copenhagen and 5 more. Often billed alongside Ana Cover, Ligal Tamir and justUS. Next up: KitKatClub, Berlin on Fri 31 Jul.
 
@@ -25,4 +25,4 @@ LIZZN is a house and techno artist tracked on soundcheck, with 76 sets logged ac
 
 Ana Cover, Ligal Tamir, justUS
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/lizzn/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/lizzn/)*

@@ -1,6 +1,6 @@
 # Blackout
 
-Blackout is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at Hackney Wick Multiple Venues, London on Sat, 1 Aug 2026.
+Blackout is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at Hackney Wick Multiple Venues, London on Sat, 1 Aug 2026.
 
 Blackout is a house and techno artist based in Israel, tracked on soundcheck, with 7 sets logged across Lisbon, London, Tbilisi and Zurich. Often billed alongside Ben UFO, Black Sun Empire and Adam Beyer. Next up: Hackney Wick Multiple Venues, London on Sat 1 Aug.
 
@@ -23,4 +23,4 @@ Blackout is a house and techno artist based in Israel, tracked on soundcheck, wi
 
 Ben UFO, Black Sun Empire, Adam Beyer
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/blackout/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/blackout/)*

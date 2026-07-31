@@ -1,6 +1,6 @@
 # Lithium (2)
 
-Lithium (2) is a Hardcore and Post-Punk artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at ://about blank, Berlin on Fri, 31 Jul 2026.
+Lithium (2) is a Hardcore and Post-Punk artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at ://about blank, Berlin on Fri, 31 Jul 2026.
 
 Lithium (2) is a hardcore and post-punk artist tracked on soundcheck, with 5 sets logged across Berlin. Often billed alongside DJ UMURIEL, Deltapeak and Domovnika. Next up: ://about blank, Berlin on Fri 31 Jul.
 
@@ -21,4 +21,4 @@ Lithium (2) is a hardcore and post-punk artist tracked on soundcheck, with 5 set
 
 DJ UMURIEL, Deltapeak, Domovnika
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/lithium-2/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/lithium-2/)*

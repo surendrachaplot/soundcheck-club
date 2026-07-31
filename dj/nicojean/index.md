@@ -1,6 +1,6 @@
 # Nico Jean
 
-Nico Jean is a House and Funk / Soul artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at Fünk, Mexico City on Thu, 6 Aug 2026.
+Nico Jean is a House and Funk / Soul artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at Fünk, Mexico City on Thu, 6 Aug 2026.
 
 Nico Jean is a house and funk / soul artist based in Mexico, tracked on soundcheck, with 25 sets logged across London, Mexicocity, Montreal and Saopaulo. Often billed alongside Dj Raw (MX), Duke Skylocker (Disco Dust) and Miss Voltaghe. Next up: Fünk, Mexicocity on Thu 6 Aug.
 
@@ -25,4 +25,4 @@ Nico Jean is a house and funk / soul artist based in Mexico, tracked on soundche
 
 Dj Raw (MX), Duke Skylocker (Disco Dust), Miss Voltaghe
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/nicojean/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/nicojean/)*

@@ -1,6 +1,6 @@
 # Delay Grounds
 
-Delay Grounds is a Experimental and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at M.O.T, London on Sat, 1 Aug 2026.
+Delay Grounds is a Experimental and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at M.O.T, London on Sat, 1 Aug 2026.
 
 Delay Grounds is an experimental and techno artist tracked on soundcheck, with 19 sets logged across Bristol, Leeds and London. Often billed alongside carmen (7), Paul McManamon and Djuar. Next up: M.O.T, London on Sat 1 Aug.
 
@@ -25,4 +25,4 @@ Delay Grounds is an experimental and techno artist tracked on soundcheck, with 1
 
 carmen (7), Paul McManamon, Djuar
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/delaygrounds/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/delaygrounds/)*

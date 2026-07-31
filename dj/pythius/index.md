@@ -1,6 +1,6 @@
 # Pythius
 
-Pythius is a Drum & Bass and Electro artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at Hackney Wick Multiple Venues, London on Sat, 1 Aug 2026.
+Pythius is a Drum & Bass and Electro artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at Hackney Wick Multiple Venues, London on Sat, 1 Aug 2026.
 
 Pythius is a drum & bass and electro artist based in Netherlands, tracked on soundcheck, with 32 sets logged across Amsterdam, Antwerp, Auckland and Budapest and 12 more. Often billed alongside Black Sun Empire, Audio and Merikan. Next up: Hackney Wick Multiple Venues, London on Sat 1 Aug.
 
@@ -25,4 +25,4 @@ Pythius is a drum & bass and electro artist based in Netherlands, tracked on sou
 
 Black Sun Empire, Audio, Merikan
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/pythius/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/pythius/)*

@@ -1,14 +1,15 @@
 # djfix
 
-djfix is a Techno and Tech House artist with 2 upcoming club dates listed on soundcheck as of Thu, 30 Jul 2026, next at F8 1192 Folsom, San Francisco/Oakland on Fri, 14 Aug 2026.
+djfix is a Techno and Tech House artist with 3 upcoming club dates listed on soundcheck as of Fri, 31 Jul 2026, next at F8 1192 Folsom, San Francisco/Oakland on Fri, 14 Aug 2026.
 
-djfix is a techno and tech house artist tracked on soundcheck, with 25 sets logged across Berlin, Copenhagen, Dublin and London and 7 more. Often billed alongside Jek (US), adobeprincess and Ekkel. Next up: F8 1192 Folsom, Sanfrancisco on Fri 14 Aug.
+djfix is a techno and tech house artist tracked on soundcheck, with 26 sets logged across Berlin, Copenhagen, Dublin and London and 8 more. Often billed alongside Jek (US), adobeprincess and Ekkel. Next up: F8 1192 Folsom, Sanfrancisco on Fri 14 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 14 Aug 2026 | F8 1192 Folsom | San Francisco/Oakland |
+| Sat, 15 Aug 2026 | TBA - Address sent to Ticketholders Day of  | Seattle |
 | Thu, 27 Aug 2026 | TBA - Schwing und Stampf Festival | Zurich |
 
 ## Recently played
@@ -26,4 +27,4 @@ djfix is a techno and tech house artist tracked on soundcheck, with 25 sets logg
 
 Jek (US), adobeprincess, Ekkel
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/djfix/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/djfix/)*

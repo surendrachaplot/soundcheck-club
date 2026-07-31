@@ -1,6 +1,6 @@
 # Mondo Nexus
 
-Mondo Nexus is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at Akbar, Los Angeles on Fri, 31 Jul 2026.
+Mondo Nexus is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at Akbar, Los Angeles on Fri, 31 Jul 2026.
 
 Mondo Nexus is a house and disco artist based in United States of America, tracked on soundcheck, with 20 sets logged across Losangeles, Newyorkcity and Sanfrancisco. Often billed alongside Jumpr, Booty Juice and Mouthfeel. Next up: Akbar, Losangeles on Fri 31 Jul.
 
@@ -25,4 +25,4 @@ Mondo Nexus is a house and disco artist based in United States of America, track
 
 Jumpr, Booty Juice, Mouthfeel
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/mondonexus/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/mondonexus/)*

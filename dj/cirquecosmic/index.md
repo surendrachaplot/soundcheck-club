@@ -1,6 +1,6 @@
 # Cirque Cosmic
 
-Cirque Cosmic is a House and Tech House artist with 3 upcoming club dates listed on soundcheck as of Thu, 30 Jul 2026, next at Mood Ring, New York City on Fri, 31 Jul 2026.
+Cirque Cosmic is a House and Tech House artist with 3 upcoming club dates listed on soundcheck as of Fri, 31 Jul 2026, next at Mood Ring, New York City on Fri, 31 Jul 2026.
 
 Cirque Cosmic is a house and tech house artist based in Canada, tracked on soundcheck, with 18 sets logged across Montreal and Newyorkcity. Often billed alongside Flleur, Bodegaparty and Corinita. Next up: Mood Ring, Newyorkcity on Fri 31 Jul.
 
@@ -27,4 +27,4 @@ Cirque Cosmic is a house and tech house artist based in Canada, tracked on sound
 
 Flleur, Bodegaparty, Corinita
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/cirquecosmic/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/cirquecosmic/)*

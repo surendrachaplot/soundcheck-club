@@ -1,6 +1,6 @@
 # The Ghost
 
-The Ghost is a House and Tech House artist with 6 upcoming club dates listed on soundcheck as of Thu, 30 Jul 2026, next at Jardim do Èden, Lisbon on Fri, 31 Jul 2026.
+The Ghost is a House and Tech House artist with 6 upcoming club dates listed on soundcheck as of Fri, 31 Jul 2026, next at Jardim do Èden, Lisbon on Fri, 31 Jul 2026.
 
 The Ghost is a house and tech house artist tracked on soundcheck, with 171 sets logged across Amsterdam, Barcelona, Berlin and Brighton and 37 more. Often billed alongside Gene On Earth, Coast 2 Coast and Dr Banana. Next up: Jardim do Èden, Lisbon on Fri 31 Jul.
 
@@ -30,4 +30,4 @@ The Ghost is a house and tech house artist tracked on soundcheck, with 171 sets 
 
 Gene On Earth, Coast 2 Coast, Dr Banana
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/theghost/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/theghost/)*

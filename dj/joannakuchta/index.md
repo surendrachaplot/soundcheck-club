@@ -1,6 +1,6 @@
 # Joanna Kuchta
 
-Joanna Kuchta is a Techno and Club artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at Paragon, New York City on Fri, 31 Jul 2026.
+Joanna Kuchta is a Techno and Club artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at Paragon, New York City on Fri, 31 Jul 2026.
 
 Joanna Kuchta is a techno and club artist based in Poland, tracked on soundcheck, with 13 sets logged across Denver, Losangeles, Miami and Newyorkcity. Often billed alongside OZA, DJ Gigola and DREAMINSLOW. Next up: Paragon, Newyorkcity on Fri 31 Jul.
 
@@ -25,4 +25,4 @@ Joanna Kuchta is a techno and club artist based in Poland, tracked on soundcheck
 
 OZA, DJ Gigola, DREAMINSLOW
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/joannakuchta/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/joannakuchta/)*

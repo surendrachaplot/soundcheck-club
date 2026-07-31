@@ -1,6 +1,6 @@
 # &LEZ
 
-&LEZ is a Tech House and Afro House artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at Hï Ibiza, Ibiza on Sat, 1 Aug 2026.
+&LEZ is a Tech House and Afro House artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at Hï Ibiza, Ibiza on Sat, 1 Aug 2026.
 
 &LEZ is a tech house and afro house artist based in Italy, tracked on soundcheck, with 4 sets logged across Ibiza and London. Often billed alongside L.A. Dave, Robin M and Black Coffee. Next up: Hï Ibiza, Ibiza on Sat 1 Aug.
 
@@ -20,4 +20,4 @@
 
 L.A. Dave, Robin M, Black Coffee
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/lez-it/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/lez-it/)*

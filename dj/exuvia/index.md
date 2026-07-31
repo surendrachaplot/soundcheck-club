@@ -1,6 +1,6 @@
 # exuvia
 
-exuvia is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at Heave Festival, Madrid on Fri, 25 Sept 2026.
+exuvia is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at Heave Festival, Madrid on Fri, 25 Sept 2026.
 
 exuvia is a techno and house artist based in Spain, tracked on soundcheck, with 9 sets logged across Amsterdam, Madrid, Mexicocity and Portland and 1 more. Often billed alongside NDSTPS, Yeiks and radd. Next up: Heave Festival, Madrid on Fri 25 Sept.
 
@@ -25,4 +25,4 @@ exuvia is a techno and house artist based in Spain, tracked on soundcheck, with 
 
 NDSTPS, Yeiks, radd
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/exuvia/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/exuvia/)*

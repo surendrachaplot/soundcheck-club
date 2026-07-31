@@ -1,6 +1,6 @@
 # SRI (1)
 
-SRI (1) is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Thu, 30 Jul 2026, next at Jupiter Disco, New York City on Fri, 31 Jul 2026.
+SRI (1) is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Fri, 31 Jul 2026, next at Jupiter Disco, New York City on Fri, 31 Jul 2026.
 
 SRI (1) is a house and techno artist based in United States of America, tracked on soundcheck, with 16 sets logged across Losangeles and Newyorkcity. Often billed alongside ARMANA KHAN, 444 (1) and ARINI. Next up: Jupiter Disco, Newyorkcity on Fri 31 Jul.
 
@@ -26,4 +26,4 @@ SRI (1) is a house and techno artist based in United States of America, tracked 
 
 ARMANA KHAN, 444 (1), ARINI
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/sri-1/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/sri-1/)*

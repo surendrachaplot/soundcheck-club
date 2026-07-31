@@ -1,6 +1,6 @@
 # HØLEIGH
 
-HØLEIGH is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at The White Hotel, Manchester on Fri, 21 Aug 2026.
+HØLEIGH is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at The White Hotel, Manchester on Fri, 21 Aug 2026.
 
 HØLEIGH is a techno and trance artist tracked on soundcheck, with 59 sets logged across Amsterdam, Antwerp, Berlin and Brighton and 15 more. Often billed alongside colell, AISHA and Azyr. Next up: The White Hotel, Manchester on Fri 21 Aug.
 
@@ -25,4 +25,4 @@ HØLEIGH is a techno and trance artist tracked on soundcheck, with 59 sets logge
 
 colell, AISHA, Azyr
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/holeigh/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/holeigh/)*

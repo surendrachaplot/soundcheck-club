@@ -1,6 +1,6 @@
 # Dollushka
 
-Dollushka is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at ÆDEN, Berlin on Fri, 31 Jul 2026.
+Dollushka is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at ÆDEN, Berlin on Fri, 31 Jul 2026.
 
 Dollushka is a techno and house artist tracked on soundcheck, with 18 sets logged across Berlin and Vienna. Often billed alongside GEN97, LARSUS and ZELIA. Next up: ÆDEN, Berlin on Fri 31 Jul.
 
@@ -25,4 +25,4 @@ Dollushka is a techno and house artist tracked on soundcheck, with 18 sets logge
 
 GEN97, LARSUS, ZELIA
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/dollushka/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/dollushka/)*

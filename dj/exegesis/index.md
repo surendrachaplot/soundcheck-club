@@ -1,6 +1,6 @@
 # exegesis
 
-exegesis is a Techno and Club artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at Bike Jesus, Prague on Fri, 7 Aug 2026.
+exegesis is a Techno and Club artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at Bike Jesus, Prague on Fri, 7 Aug 2026.
 
 exegesis is a techno and club artist based in Czech Republic, tracked on soundcheck, with 22 sets logged across Berlin and Prague. Often billed alongside Bugiebby, Lil Autotune and divinity statue. Next up: Bike Jesus, Prague on Fri 7 Aug.
 
@@ -25,4 +25,4 @@ exegesis is a techno and club artist based in Czech Republic, tracked on soundch
 
 Bugiebby, Lil Autotune, divinity statue
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/exegesis/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/exegesis/)*

@@ -1,6 +1,6 @@
 # Joaquín Texeira
 
-Joaquín Texeira is a Electro and Electronica artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at Lorosae Bar, Lisbon on Sat, 1 Aug 2026.
+Joaquín Texeira is a Electro and Electronica artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at Lorosae Bar, Lisbon on Sat, 1 Aug 2026.
 
 Joaquín Texeira is an electro and electronica artist tracked on soundcheck, with 7 sets logged across Dublin, Lisbon and Madrid. Often billed alongside Straka (2), Axel Amara and Billi. Next up: Lorosae Bar, Lisbon on Sat 1 Aug.
 
@@ -23,4 +23,4 @@ Joaquín Texeira is an electro and electronica artist tracked on soundcheck, wit
 
 Straka (2), Axel Amara, Billi
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/joaquíntexeira/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/joaquíntexeira/)*

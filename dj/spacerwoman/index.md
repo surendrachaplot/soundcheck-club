@@ -1,8 +1,8 @@
 # Spacer Woman
 
-Spacer Woman is a Techno and Trance artist with 2 upcoming club dates listed on soundcheck as of Thu, 30 Jul 2026, next at Colorado Charlie, The Hague on Sun, 16 Aug 2026.
+Spacer Woman is a Techno and Trance artist with 3 upcoming club dates listed on soundcheck as of Fri, 31 Jul 2026, next at Colorado Charlie, The Hague on Sun, 16 Aug 2026.
 
-Spacer Woman is a techno and trance artist tracked on soundcheck, with 129 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 25 more. Often billed alongside MALUGI, Justin Tinderdate and Marlon Hoffstadt. Next up: Colorado Charlie, Thehague on Sun 16 Aug.
+Spacer Woman is a techno and trance artist tracked on soundcheck, with 130 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 25 more. Often billed alongside MALUGI, Justin Tinderdate and Marlon Hoffstadt. Next up: Colorado Charlie, Thehague on Sun 16 Aug.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Spacer Woman is a techno and trance artist tracked on soundcheck, with 129 sets 
 | --- | --- | --- |
 | Sun, 16 Aug 2026 | Colorado Charlie | The Hague |
 | Sat, 22 Aug 2026 | Tempelhof Airport | Berlin |
+| Sun, 23 Aug 2026 | Maaya | Berlin |
 
 ## Recently played
 
@@ -26,4 +27,4 @@ Spacer Woman is a techno and trance artist tracked on soundcheck, with 129 sets 
 
 MALUGI, Justin Tinderdate, Marlon Hoffstadt
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/spacerwoman/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/spacerwoman/)*

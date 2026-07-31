@@ -1,6 +1,6 @@
 # Herrera (ES)
 
-Herrera (ES) is a Tech House and House artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at X Private Club, Madrid on Sat, 1 Aug 2026.
+Herrera (ES) is a Tech House and House artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at X Private Club, Madrid on Sat, 1 Aug 2026.
 
 Herrera (ES) is a tech house and house artist based in Spain, tracked on soundcheck, with 6 sets logged across Chicago and Madrid. Often billed alongside Linda Lenor, Seb Zito and Yas Cepeda. Next up: X Private Club, Madrid on Sat 1 Aug.
 
@@ -22,4 +22,4 @@ Herrera (ES) is a tech house and house artist based in Spain, tracked on soundch
 
 Linda Lenor, Seb Zito, Yas Cepeda
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/herreraes/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/herreraes/)*

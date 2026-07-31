@@ -1,6 +1,6 @@
 # Ladybird
 
-Ladybird is a Bass and Drum & Bass artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at Gretchen, Berlin on Sat, 19 Sept 2026.
+Ladybird is a Bass and Drum & Bass artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at Gretchen, Berlin on Sat, 19 Sept 2026.
 
 Ladybird is a bass and drum & bass artist based in France, tracked on soundcheck, with 9 sets logged across Berlin. Often billed alongside Mc Jamie White, Agem and DRS. Next up: Gretchen, Berlin on Sat 19 Sept.
 
@@ -25,4 +25,4 @@ Ladybird is a bass and drum & bass artist based in France, tracked on soundcheck
 
 Mc Jamie White, Agem, DRS
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/ladybird/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/ladybird/)*

@@ -1,6 +1,6 @@
 # Joe Rice
 
-Joe Rice is a Downtempo and Ambient artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at TBA - Laytonville, CA, San Francisco/Oakland on Fri, 11 Sept 2026.
+Joe Rice is a Downtempo and Ambient artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at TBA - Laytonville, CA, San Francisco/Oakland on Fri, 11 Sept 2026.
 
 Joe Rice is a downtempo and ambient artist based in United States of America, tracked on soundcheck, with 4 sets logged across Sanfrancisco. Often billed alongside David Siska, Bakh Inamov and DJ CZ. Next up: TBA - Laytonville, CA, Sanfrancisco on Fri 11 Sept.
 
@@ -20,4 +20,4 @@ Joe Rice is a downtempo and ambient artist based in United States of America, tr
 
 David Siska, Bakh Inamov, DJ CZ
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/joerice/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/joerice/)*

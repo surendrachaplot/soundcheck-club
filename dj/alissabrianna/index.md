@@ -1,6 +1,6 @@
 # Alissa Brianna
 
-Alissa Brianna is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at Club Rawhide, New York City on Sat, 1 Aug 2026.
+Alissa Brianna is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at Club Rawhide, New York City on Sat, 1 Aug 2026.
 
 Alissa Brianna is a house and techno artist based in United States of America, tracked on soundcheck, with 71 sets logged across Newyorkcity and Sanfrancisco. Often billed alongside S'aint Panic, Nita Aviance and The Carry Nation. Next up: Club Rawhide, Newyorkcity on Sat 1 Aug.
 
@@ -25,4 +25,4 @@ Alissa Brianna is a house and techno artist based in United States of America, t
 
 S'aint Panic, Nita Aviance, The Carry Nation
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/alissabrianna/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/alissabrianna/)*

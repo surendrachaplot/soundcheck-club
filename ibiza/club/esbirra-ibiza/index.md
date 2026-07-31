@@ -1,6 +1,6 @@
 # Esbirra Ibiza
 
-Esbirra Ibiza is a music venue in Ibiza with 6 upcoming nights listed on soundcheck as of Thu, 30 Jul 2026; the next is "RAW STATE" on Fri, 31 Jul 2026.
+Esbirra Ibiza is a music venue in Ibiza with 6 upcoming nights listed on soundcheck as of Fri, 31 Jul 2026; the next is "RAW STATE" on Fri, 31 Jul 2026.
 
 Esbirra Ibiza is a music venue in Ibiza listed on soundcheck. 6 upcoming nights, with line-ups including Chelu Garcia, Francesco Mami, John Acquaviva and Los Suruba and 2 more. Browse upcoming dates, start times and who's playing. Avinguda Punta Arabí, 228, 07849 es Canar, Illes Balears.
 
@@ -19,4 +19,4 @@ Esbirra Ibiza is a music venue in Ibiza listed on soundcheck. 6 upcoming nights,
 
 Avinguda Punta Arabí, 228, 07849 es Canar, Illes Balears, Ibiza
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/ibiza/club/esbirra-ibiza/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/ibiza/club/esbirra-ibiza/)*

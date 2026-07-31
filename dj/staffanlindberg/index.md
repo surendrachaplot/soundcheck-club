@@ -1,6 +1,6 @@
 # Staffan Lindberg
 
-Staffan Lindberg is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at Kvarteret, Stockholm on Sat, 1 Aug 2026.
+Staffan Lindberg is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at Kvarteret, Stockholm on Sat, 1 Aug 2026.
 
 Staffan Lindberg is a techno and house artist based in Sweden, tracked on soundcheck, with 21 sets logged across Copenhagen, Lisbon, London and Stockholm. Often billed alongside Joanna Party, Pjotr and Bella Sarris. Next up: Kvarteret, Stockholm on Sat 1 Aug.
 
@@ -25,4 +25,4 @@ Staffan Lindberg is a techno and house artist based in Sweden, tracked on soundc
 
 Joanna Party, Pjotr, Bella Sarris
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/staffanlindberg/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/staffanlindberg/)*

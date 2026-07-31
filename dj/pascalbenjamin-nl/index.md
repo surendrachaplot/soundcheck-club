@@ -1,6 +1,6 @@
 # Pascal Benjamin
 
-Pascal Benjamin is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at Shelter Amsterdam, Amsterdam on Sat, 1 Aug 2026.
+Pascal Benjamin is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at Shelter Amsterdam, Amsterdam on Sat, 1 Aug 2026.
 
 Pascal Benjamin is a house and techno artist tracked on soundcheck, with 54 sets logged across Amsterdam, Berlin, Bucharest and Ibiza and 3 more. Often billed alongside Mino Abadier, Job de Jong and Mathijs Smit. Next up: Shelter Amsterdam, Amsterdam on Sat 1 Aug.
 
@@ -25,4 +25,4 @@ Pascal Benjamin is a house and techno artist tracked on soundcheck, with 54 sets
 
 Mino Abadier, Job de Jong, Mathijs Smit
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/pascalbenjamin-nl/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/pascalbenjamin-nl/)*

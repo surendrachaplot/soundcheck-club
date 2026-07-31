@@ -1,6 +1,6 @@
 # Bunsen
 
-Bunsen is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at Phoxxi Green Area, Hamburg on Sat, 1 Aug 2026.
+Bunsen is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at Phoxxi Green Area, Hamburg on Sat, 1 Aug 2026.
 
 Bunsen is a techno and house artist based in Germany, tracked on soundcheck, with 41 sets logged across Amsterdam, Berlin, Cologne and Frankfurt and 3 more. Often billed alongside ENNIO, Haeder and Lenard Klein. Next up: Phoxxi Green Area, Hamburg on Sat 1 Aug.
 
@@ -25,4 +25,4 @@ Bunsen is a techno and house artist based in Germany, tracked on soundcheck, wit
 
 ENNIO, Haeder, Lenard Klein
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/bunsen/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/bunsen/)*

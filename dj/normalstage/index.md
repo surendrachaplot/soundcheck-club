@@ -1,6 +1,6 @@
 # Normal Stage
 
-Normal Stage is a Dub Techno and Deep House artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at got.Drip, Amsterdam on Fri, 21 Aug 2026.
+Normal Stage is a Dub Techno and Deep House artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at got.Drip, Amsterdam on Fri, 21 Aug 2026.
 
 Normal Stage is a dub techno and deep house artist based in Greece, tracked on soundcheck, with 9 sets logged across Amsterdam. Often billed alongside Julien Chaptal, The Silentist and Noumena. Next up: got.Drip, Amsterdam on Fri 21 Aug.
 
@@ -25,4 +25,4 @@ Normal Stage is a dub techno and deep house artist based in Greece, tracked on s
 
 Julien Chaptal, The Silentist, Noumena
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/normalstage/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/normalstage/)*

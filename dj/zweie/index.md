@@ -1,6 +1,6 @@
 # ZweiE
 
-ZweiE is a Techno and Tech House artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at Hinterhof Mitte, Berlin on Fri, 31 Jul 2026.
+ZweiE is a Techno and Tech House artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at Hinterhof Mitte, Berlin on Fri, 31 Jul 2026.
 
 ZweiE is a techno and tech house artist based in Germany, tracked on soundcheck, with 20 sets logged across Berlin and Warsaw. Often billed alongside Maurice Mino, Sin:port and CosmiKat. Next up: Hinterhof Mitte, Berlin on Fri 31 Jul.
 
@@ -25,4 +25,4 @@ ZweiE is a techno and tech house artist based in Germany, tracked on soundcheck,
 
 Maurice Mino, Sin:port, CosmiKat
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/zweie/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/zweie/)*

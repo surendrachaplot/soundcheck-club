@@ -1,6 +1,6 @@
 # Harto Falión
 
-Harto Falión is a Experimental and Hip-Hop artist with 2 upcoming club dates listed on soundcheck as of Thu, 30 Jul 2026, next at MAS - Museum aan de Stroom, Antwerp on Sat, 1 Aug 2026.
+Harto Falión is a Experimental and Hip-Hop artist with 2 upcoming club dates listed on soundcheck as of Fri, 31 Jul 2026, next at MAS - Museum aan de Stroom, Antwerp on Sat, 1 Aug 2026.
 
 Harto Falión is an experimental and hip-hop artist based in United States of America, tracked on soundcheck, with 16 sets logged across Antwerp, Copenhagen, Edinburgh and Glasgow and 4 more. Often billed alongside Heartcoregirl, Oatmilkandcodeine and Evanora Unlimited. Next up: MAS - Museum aan de Stroom, Antwerp on Sat 1 Aug.
 
@@ -26,4 +26,4 @@ Harto Falión is an experimental and hip-hop artist based in United States of Am
 
 Heartcoregirl, Oatmilkandcodeine, Evanora Unlimited
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/hartofalion/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/hartofalion/)*

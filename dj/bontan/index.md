@@ -1,6 +1,6 @@
 # Bontan
 
-Bontan is a House and Tech House artist with 4 upcoming club dates listed on soundcheck as of Thu, 30 Jul 2026, next at Chinois Ibiza, Ibiza on Sun, 6 Sept 2026.
+Bontan is a House and Tech House artist with 4 upcoming club dates listed on soundcheck as of Fri, 31 Jul 2026, next at Chinois Ibiza, Ibiza on Sun, 6 Sept 2026.
 
 Bontan is a house and tech house artist tracked on soundcheck, with 107 sets logged across Amsterdam, Austin, Barcelona and Boston and 26 more. Often billed alongside Jamie Jones, AMÉMÉ and Archie Hamilton. Next up: Chinois Ibiza, Ibiza on Sun 6 Sept.
 
@@ -28,4 +28,4 @@ Bontan is a house and tech house artist tracked on soundcheck, with 107 sets log
 
 Jamie Jones, AMÉMÉ, Archie Hamilton
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/bontan/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/bontan/)*

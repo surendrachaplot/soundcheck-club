@@ -1,18 +1,17 @@
 # The Lobby at Ace Hotel Toronto
 
-The Lobby at Ace Hotel Toronto is a music venue in Toronto with 2 upcoming nights listed on soundcheck as of Thu, 30 Jul 2026; the next is "Hedspin & Don Paolo" on Thu, 30 Jul 2026.
+The Lobby at Ace Hotel Toronto is a music venue in Toronto with 1 upcoming night listed on soundcheck as of Fri, 31 Jul 2026; the next is "Late Checkout" on Fri, 31 Jul 2026.
 
-The Lobby at Ace Hotel Toronto is a music venue in Toronto listed on soundcheck. 2 upcoming nights, with line-ups including Hedspin. Browse upcoming dates, start times and who's playing. 51 Camden St..
+The Lobby at Ace Hotel Toronto is a music venue in Toronto listed on soundcheck. 1 upcoming night. Browse upcoming dates, start times and who's playing. 51 Camden St..
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Thu, 30 Jul 2026 | Hedspin & Don Paolo | Hedspin |
 | Fri, 31 Jul 2026 | Late Checkout |  |
 
 ## Address
 
 51 Camden St., Toronto
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/toronto/club/the-lobby-at-ace-hotel-toronto/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/toronto/club/the-lobby-at-ace-hotel-toronto/)*

@@ -1,6 +1,6 @@
 # Nas Leber
 
-Nas Leber is a Techno and Reggaeton artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at Jupiter Disco, New York City on Sun, 16 Aug 2026.
+Nas Leber is a Techno and Reggaeton artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at Jupiter Disco, New York City on Sun, 16 Aug 2026.
 
 Nas Leber is a techno and reggaeton artist based in United States of America, tracked on soundcheck, with 3 sets logged across Newyorkcity. Often billed alongside DJ Ultra Violet, Hard Boiled Babe and Pauli Cakes. Next up: Jupiter Disco, Newyorkcity on Sun 16 Aug.
 
@@ -19,4 +19,4 @@ Nas Leber is a techno and reggaeton artist based in United States of America, tr
 
 DJ Ultra Violet, Hard Boiled Babe, Pauli Cakes
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/nasleber/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/nasleber/)*

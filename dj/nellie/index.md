@@ -1,6 +1,6 @@
 # NELLIE
 
-NELLIE is a Techno and Industrial artist with 2 upcoming club dates listed on soundcheck as of Thu, 30 Jul 2026, next at Spice 99, Stockholm on Sat, 1 Aug 2026.
+NELLIE is a Techno and Industrial artist with 2 upcoming club dates listed on soundcheck as of Fri, 31 Jul 2026, next at Spice 99, Stockholm on Sat, 1 Aug 2026.
 
 NELLIE is a techno and industrial artist based in Netherlands, tracked on soundcheck, with 8 sets logged across Amsterdam, Rotterdam and Stockholm. Often billed alongside Danay, Deuvren and JALO (NL). Next up: Spice 99, Stockholm on Sat 1 Aug.
 
@@ -24,4 +24,4 @@ NELLIE is a techno and industrial artist based in Netherlands, tracked on soundc
 
 Danay, Deuvren, JALO (NL)
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/nellie/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/nellie/)*

@@ -1,6 +1,6 @@
 # DJ JAFA
 
-DJ JAFA is a Electronica and Club artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at Lion's Den, Miami on Sat, 8 Aug 2026.
+DJ JAFA is a Electronica and Club artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at Lion's Den, Miami on Sat, 8 Aug 2026.
 
 DJ JAFA is an electronica and club artist based in United States of America, tracked on soundcheck, with 2 sets logged across Miami. Often billed alongside Atomyard, Cristobal ON and Konkret. Next up: Lion's Den, Miami on Sat 8 Aug.
 
@@ -18,4 +18,4 @@ DJ JAFA is an electronica and club artist based in United States of America, tra
 
 Atomyard, Cristobal ON, Konkret
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/djjafa/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/djjafa/)*

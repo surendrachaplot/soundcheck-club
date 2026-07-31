@@ -1,6 +1,6 @@
 # TBA - Inner West Warehouse
 
-TBA - Inner West Warehouse is a music venue in Sydney with 1 upcoming night listed on soundcheck as of Thu, 30 Jul 2026; the next is "HEADNOIZ ✧ WAREHOUSE [Label Showcase]" on Sat, 15 Aug 2026.
+TBA - Inner West Warehouse is a music venue in Sydney with 1 upcoming night listed on soundcheck as of Fri, 31 Jul 2026; the next is "HEADNOIZ ✧ WAREHOUSE [Label Showcase]" on Sat, 15 Aug 2026.
 
 TBA - Inner West Warehouse is a music venue in Sydney listed on soundcheck. 1 upcoming night. Browse upcoming dates, start times and who's playing.
 
@@ -10,4 +10,4 @@ TBA - Inner West Warehouse is a music venue in Sydney listed on soundcheck. 1 up
 | --- | --- | --- |
 | Sat, 15 Aug 2026 | HEADNOIZ ✧ WAREHOUSE [Label Showcase] |  |
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/sydney/club/tba-inner-west-warehouse/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/sydney/club/tba-inner-west-warehouse/)*

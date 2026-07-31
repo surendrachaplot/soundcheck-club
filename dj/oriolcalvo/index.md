@@ -1,6 +1,6 @@
 # Oriol Calvo
 
-Oriol Calvo is a House and Deep House artist with 2 upcoming club dates listed on soundcheck as of Thu, 30 Jul 2026, next at Sunseabar Beach Club, Barcelona on Sat, 1 Aug 2026.
+Oriol Calvo is a House and Deep House artist with 2 upcoming club dates listed on soundcheck as of Fri, 31 Jul 2026, next at Sunseabar Beach Club, Barcelona on Sat, 1 Aug 2026.
 
 Oriol Calvo is a house and deep house artist tracked on soundcheck, with 39 sets logged across Barcelona, Ibiza, Lisbon and Madrid and 4 more. Often billed alongside Viktor Olle, Igor Marijuan and Mike Gannu. Next up: Sunseabar Beach Club, Barcelona on Sat 1 Aug.
 
@@ -26,4 +26,4 @@ Oriol Calvo is a house and deep house artist tracked on soundcheck, with 39 sets
 
 Viktor Olle, Igor Marijuan, Mike Gannu
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/oriolcalvo/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/oriolcalvo/)*

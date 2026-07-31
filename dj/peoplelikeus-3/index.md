@@ -1,6 +1,6 @@
 # People Like Us (3)
 
-People Like Us (3) is a House and Afro House artist with 2 upcoming club dates listed on soundcheck as of Thu, 30 Jul 2026, next at Santanna Mykonos, Mykonos on Fri, 31 Jul 2026.
+People Like Us (3) is a House and Afro House artist with 2 upcoming club dates listed on soundcheck as of Fri, 31 Jul 2026, next at Santanna Mykonos, Mykonos on Fri, 31 Jul 2026.
 
 People Like Us (3) is a house and afro house artist tracked on soundcheck, with 18 sets logged across Amsterdam, Dusseldorf, Ibiza and Istanbul and 2 more. Often billed alongside Mahmut Orhan, 1TWO and AJNA. Next up: Santanna Mykonos, Mykonos on Fri 31 Jul.
 
@@ -26,4 +26,4 @@ People Like Us (3) is a house and afro house artist tracked on soundcheck, with 
 
 Mahmut Orhan, 1TWO, AJNA
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/peoplelikeus-3/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/peoplelikeus-3/)*

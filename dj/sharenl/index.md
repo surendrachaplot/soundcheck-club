@@ -1,6 +1,6 @@
 # SHARE (NL)
 
-SHARE (NL) is a House and Electronica artist with 3 upcoming club dates listed on soundcheck as of Thu, 30 Jul 2026, next at Cova Santa, Ibiza on Fri, 7 Aug 2026.
+SHARE (NL) is a House and Electronica artist with 3 upcoming club dates listed on soundcheck as of Fri, 31 Jul 2026, next at Cova Santa, Ibiza on Fri, 7 Aug 2026.
 
 SHARE (NL) is a house and electronica artist based in Netherlands, tracked on soundcheck, with 35 sets logged across Amsterdam, Basel, Berlin and Ibiza and 9 more. Often billed alongside BOHEM, KAHMEYA and Mira. Next up: Cova Santa, Ibiza on Fri 7 Aug.
 
@@ -27,4 +27,4 @@ SHARE (NL) is a house and electronica artist based in Netherlands, tracked on so
 
 BOHEM, KAHMEYA, Mira
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/sharenl/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/sharenl/)*

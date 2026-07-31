@@ -1,6 +1,6 @@
 # DJ Spun
 
-DJ Spun is a House and Acid artist with 3 upcoming club dates listed on soundcheck as of Thu, 30 Jul 2026, next at Underground SF, San Francisco/Oakland on Fri, 31 Jul 2026.
+DJ Spun is a House and Acid artist with 3 upcoming club dates listed on soundcheck as of Fri, 31 Jul 2026, next at Underground SF, San Francisco/Oakland on Fri, 31 Jul 2026.
 
 DJ Spun is a house and acid artist based in United States of America, tracked on soundcheck, with 21 sets logged across Denver, Losangeles, Newyorkcity and Portland and 2 more. Often billed alongside Jeno, Stacy Christine and Galen. Next up: Underground SF, Sanfrancisco on Fri 31 Jul.
 
@@ -27,4 +27,4 @@ DJ Spun is a house and acid artist based in United States of America, tracked on
 
 Jeno, Stacy Christine, Galen
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/djspun/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/djspun/)*

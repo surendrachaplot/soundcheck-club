@@ -1,6 +1,6 @@
 # PHJ.WAV
 
-PHJ.WAV is a Deep House and House artist with 3 upcoming club dates listed on soundcheck as of Thu, 30 Jul 2026, next at Ouseburn Garden, Newcastle on Sat, 1 Aug 2026.
+PHJ.WAV is a Deep House and House artist with 3 upcoming club dates listed on soundcheck as of Fri, 31 Jul 2026, next at Ouseburn Garden, Newcastle on Sat, 1 Aug 2026.
 
 PHJ.WAV is a deep house and house artist tracked on soundcheck, with 32 sets logged across Brighton, Edinburgh, London and Manchester and 2 more. Often billed alongside Josh Wuf, Gilez and Inspector Neptune. Next up: Ouseburn Garden, Newcastle on Sat 1 Aug.
 
@@ -27,4 +27,4 @@ PHJ.WAV is a deep house and house artist tracked on soundcheck, with 32 sets log
 
 Josh Wuf, Gilez, Inspector Neptune
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/phj.wav/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/phj.wav/)*

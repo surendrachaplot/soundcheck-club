@@ -1,6 +1,6 @@
 # Jugin
 
-Jugin is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at Crate Brewery, London on Sun, 2 Aug 2026.
+Jugin is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at Crate Brewery, London on Sun, 2 Aug 2026.
 
 Jugin is a techno and trance artist based in United Kingdom, tracked on soundcheck, with 9 sets logged across Berlin and London. Often billed alongside Pato, Alexander Arpeggio and Alicia Carrera. Next up: Crate Brewery, London on Sun 2 Aug.
 
@@ -25,4 +25,4 @@ Jugin is a techno and trance artist based in United Kingdom, tracked on soundche
 
 Pato, Alexander Arpeggio, Alicia Carrera
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/jugin/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/jugin/)*

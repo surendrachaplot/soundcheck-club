@@ -1,6 +1,6 @@
 # Afronaut UK
 
-Afronaut UK is a Broken Beat and Deep House artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at The BBE Store, London on Sun, 2 Aug 2026.
+Afronaut UK is a Broken Beat and Deep House artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at The BBE Store, London on Sun, 2 Aug 2026.
 
 Afronaut UK is a broken beat and deep house artist based in United Kingdom, tracked on soundcheck, with 5 sets logged across Amsterdam, Brighton and London. Often billed alongside Bugz in the Attic, Kid Fonque and Bembe Segue. Next up: The BBE Store, London on Sun 2 Aug.
 
@@ -21,4 +21,4 @@ Afronaut UK is a broken beat and deep house artist based in United Kingdom, trac
 
 Bugz in the Attic, Kid Fonque, Bembe Segue
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/afronautuk/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/afronautuk/)*

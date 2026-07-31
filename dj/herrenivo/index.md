@@ -1,6 +1,6 @@
 # Herren Ivo
 
-Herren Ivo is a Techno and EBM artist with 3 upcoming club dates listed on soundcheck as of Thu, 30 Jul 2026, next at Kaņepes Kultūras Centrs, Riga on Sat, 1 Aug 2026.
+Herren Ivo is a Techno and EBM artist with 3 upcoming club dates listed on soundcheck as of Fri, 31 Jul 2026, next at Kaņepes Kultūras Centrs, Riga on Sat, 1 Aug 2026.
 
 Herren Ivo is a techno and ebm artist tracked on soundcheck, with 62 sets logged across Riga. Often billed alongside mOZ (2), East Cho and Bogdan Taran. Next up: Kaņepes Kultūras Centrs, Riga on Sat 1 Aug.
 
@@ -27,4 +27,4 @@ Herren Ivo is a techno and ebm artist tracked on soundcheck, with 62 sets logged
 
 mOZ (2), East Cho, Bogdan Taran
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/herrenivo/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/herrenivo/)*

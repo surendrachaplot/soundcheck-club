@@ -1,6 +1,6 @@
 # R4VF
 
-R4VF is a Tech House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at TBA, Lisbon on Sat, 1 Aug 2026.
+R4VF is a Tech House and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at TBA, Lisbon on Sat, 1 Aug 2026.
 
 R4VF is a tech house and techno artist based in United Kingdom, tracked on soundcheck, with 7 sets logged across Antwerp, Bristol, Lisbon and London. Often billed alongside Duwat?, EARPRINT and Ebru Al. Next up: TBA, Lisbon on Sat 1 Aug.
 
@@ -23,4 +23,4 @@ R4VF is a tech house and techno artist based in United Kingdom, tracked on sound
 
 Duwat?, EARPRINT, Ebru Al
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/r4vf/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/r4vf/)*

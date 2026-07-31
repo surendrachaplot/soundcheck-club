@@ -1,6 +1,6 @@
 # KOAST
 
-KOAST is a Jungle and Drum & Bass artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at Sawmills, Bristol on Sat, 12 Sept 2026.
+KOAST is a Jungle and Drum & Bass artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at Sawmills, Bristol on Sat, 12 Sept 2026.
 
 KOAST is a jungle and drum & bass artist based in United Kingdom, tracked on soundcheck, with 10 sets logged across Bristol and London. Often billed alongside Elianne, Drastic Shuffle and MAÏS. Next up: Sawmills, Bristol on Sat 12 Sept.
 
@@ -25,4 +25,4 @@ KOAST is a jungle and drum & bass artist based in United Kingdom, tracked on sou
 
 Elianne, Drastic Shuffle, MAÏS
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/koast/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/koast/)*

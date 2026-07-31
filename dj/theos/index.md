@@ -1,6 +1,6 @@
 # THEOS (1)
 
-THEOS (1) is a House and Electro artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at La Cité Fertile, Paris on Fri, 31 Jul 2026.
+THEOS (1) is a House and Electro artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at La Cité Fertile, Paris on Fri, 31 Jul 2026.
 
 THEOS (1) is a house and electro artist tracked on soundcheck, with 58 sets logged across Amsterdam, Bangkok, Barcelona and Brussels and 12 more. Often billed alongside Vitess, Deborah Aime La Bagarre and Baccus. Next up: La Cité Fertile, Paris on Fri 31 Jul.
 
@@ -25,4 +25,4 @@ THEOS (1) is a house and electro artist tracked on soundcheck, with 58 sets logg
 
 Vitess, Deborah Aime La Bagarre, Baccus
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/theos/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/theos/)*

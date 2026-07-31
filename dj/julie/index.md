@@ -1,6 +1,6 @@
 # Julie
 
-Julie is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at TBA - Deventer Outdoor | Molbergsweg 3c , Amsterdam on Fri, 7 Aug 2026.
+Julie is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at TBA - Deventer Outdoor | Molbergsweg 3c , Amsterdam on Fri, 7 Aug 2026.
 
 Julie is a techno and house artist tracked on soundcheck, with 51 sets logged across Amsterdam, Berlin, Mexicocity and Miami and 6 more. Often billed alongside Delano Legito, Sandrien and Serti. Next up: TBA - Deventer Outdoor | Molbergsweg 3c , Amsterdam on Fri 7 Aug.
 
@@ -25,4 +25,4 @@ Julie is a techno and house artist tracked on soundcheck, with 51 sets logged ac
 
 Delano Legito, Sandrien, Serti
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/julie/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/julie/)*

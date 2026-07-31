@@ -1,6 +1,6 @@
 # MICKY XOV
 
-MICKY XOV is a Techno and Hardcore artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at M.O.T, London on Fri, 31 Jul 2026.
+MICKY XOV is a Techno and Hardcore artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at M.O.T, London on Fri, 31 Jul 2026.
 
 MICKY XOV is a techno and hardcore artist based in United Kingdom, tracked on soundcheck, with 15 sets logged across London. Often billed alongside ASHTREY, Ivicore and TEDESCO. Next up: M.O.T, London on Fri 31 Jul.
 
@@ -25,4 +25,4 @@ MICKY XOV is a techno and hardcore artist based in United Kingdom, tracked on so
 
 ASHTREY, Ivicore, TEDESCO
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/mickyxov/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/mickyxov/)*

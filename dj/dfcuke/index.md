@@ -1,6 +1,6 @@
 # DF Cuke
 
-DF Cuke is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at TBA - Private Location, Vancouver on Fri, 31 Jul 2026.
+DF Cuke is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at TBA - Private Location, Vancouver on Fri, 31 Jul 2026.
 
 DF Cuke is a techno and house artist based in Canada, tracked on soundcheck, with 10 sets logged across London, Toronto and Vancouver. Often billed alongside IHA (CA), Angel Science and BOTHEN. Next up: TBA - Private Location, Vancouver on Fri 31 Jul.
 
@@ -25,4 +25,4 @@ DF Cuke is a techno and house artist based in Canada, tracked on soundcheck, wit
 
 IHA (CA), Angel Science, BOTHEN
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/dfcuke/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/dfcuke/)*

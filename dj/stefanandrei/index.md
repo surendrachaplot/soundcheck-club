@@ -1,6 +1,6 @@
 # Stefan Andrei
 
-Stefan Andrei is a House and Minimal Techno artist with 2 upcoming club dates listed on soundcheck as of Thu, 30 Jul 2026, next at TBA, London on Sat, 1 Aug 2026.
+Stefan Andrei is a House and Minimal Techno artist with 2 upcoming club dates listed on soundcheck as of Fri, 31 Jul 2026, next at TBA, London on Sat, 1 Aug 2026.
 
 Stefan Andrei is a house and minimal techno artist tracked on soundcheck, with 26 sets logged across London. Often billed alongside Obreja., Zigy and Desuba. Next up: TBA, London on Sat 1 Aug.
 
@@ -26,4 +26,4 @@ Stefan Andrei is a house and minimal techno artist tracked on soundcheck, with 2
 
 Obreja., Zigy, Desuba
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/stefanandrei/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/stefanandrei/)*

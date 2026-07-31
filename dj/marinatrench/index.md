@@ -1,6 +1,6 @@
 # Marina Trench
 
-Marina Trench is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at La Cité Fertile, Paris on Fri, 31 Jul 2026.
+Marina Trench is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at La Cité Fertile, Paris on Fri, 31 Jul 2026.
 
 Marina Trench is a house and techno artist tracked on soundcheck, with 59 sets logged across Bangkok, Barcelona, Berlin and Brussels and 14 more. Often billed alongside Dylan Dylan, Kapote and DJ Gregory. Next up: La Cité Fertile, Paris on Fri 31 Jul.
 
@@ -25,4 +25,4 @@ Marina Trench is a house and techno artist tracked on soundcheck, with 59 sets l
 
 Dylan Dylan, Kapote, DJ Gregory
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/marinatrench/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/marinatrench/)*

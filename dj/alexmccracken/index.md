@@ -1,6 +1,6 @@
 # Alex McCracken
 
-Alex McCracken is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at Good Room, New York City on Fri, 28 Aug 2026.
+Alex McCracken is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at Good Room, New York City on Fri, 28 Aug 2026.
 
 Alex McCracken is a house and disco artist tracked on soundcheck, with 36 sets logged across Amsterdam, London, Losangeles and Newyorkcity. Often billed alongside Victor Florescu, For Future's Sake and Fundido. Next up: Good Room, Newyorkcity on Fri 28 Aug.
 
@@ -25,4 +25,4 @@ Alex McCracken is a house and disco artist tracked on soundcheck, with 36 sets l
 
 Victor Florescu, For Future's Sake, Fundido
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/alexmccracken/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/alexmccracken/)*

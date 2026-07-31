@@ -1,6 +1,6 @@
 # WEIKUM
 
-WEIKUM is a Tech House and Techno artist with 3 upcoming club dates listed on soundcheck as of Thu, 30 Jul 2026, next at Tunelowa, Warsaw on Sun, 2 Aug 2026.
+WEIKUM is a Tech House and Techno artist with 3 upcoming club dates listed on soundcheck as of Fri, 31 Jul 2026, next at Tunelowa, Warsaw on Sun, 2 Aug 2026.
 
 WEIKUM is a tech house and techno artist tracked on soundcheck, with 58 sets logged across Krakow and Warsaw. Often billed alongside Jerry M, GiGi (PL) and Sincz. Next up: Tunelowa, Warsaw on Sun 2 Aug.
 
@@ -27,4 +27,4 @@ WEIKUM is a tech house and techno artist tracked on soundcheck, with 58 sets log
 
 Jerry M, GiGi (PL), Sincz
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/weikum/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/weikum/)*

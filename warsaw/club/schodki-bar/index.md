@@ -1,6 +1,6 @@
 # Schodki Bar
 
-Schodki Bar is a music venue in Warsaw with 2 upcoming nights listed on soundcheck as of Thu, 30 Jul 2026; the next is "WISŁA5000 SUMMER BANGERS" on Fri, 31 Jul 2026.
+Schodki Bar is a music venue in Warsaw with 2 upcoming nights listed on soundcheck as of Fri, 31 Jul 2026; the next is "WISŁA5000 SUMMER BANGERS" on Fri, 31 Jul 2026.
 
 Schodki Bar is a music venue in Warsaw listed on soundcheck. 2 upcoming nights, with line-ups including Adobo (PL), Claude Degas, Cosaco and Fourth World Music and 1 more. Browse upcoming dates, start times and who's playing. Generała George’a Smitha Pattona, 05-077 Warszawa.
 
@@ -15,4 +15,4 @@ Schodki Bar is a music venue in Warsaw listed on soundcheck. 2 upcoming nights, 
 
 Generała George’a Smitha Pattona, 05-077 Warszawa, Warsaw
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/warsaw/club/schodki-bar/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/warsaw/club/schodki-bar/)*

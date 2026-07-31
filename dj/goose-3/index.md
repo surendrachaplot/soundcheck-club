@@ -1,6 +1,6 @@
 # Goose (3)
 
-Goose (3) is a House and Electro artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at Hare & Hounds, Birmingham on Fri, 31 Jul 2026.
+Goose (3) is a House and Electro artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at Hare & Hounds, Birmingham on Fri, 31 Jul 2026.
 
 Goose (3) is a house and electro artist based in United Kingdom, tracked on soundcheck, with 17 sets logged across Birmingham, London, Newcastle and Seoul. Often billed alongside FroD, Alisdair and Cardinal Sin. Next up: Hare & Hounds, Birmingham on Fri 31 Jul.
 
@@ -25,4 +25,4 @@ Goose (3) is a house and electro artist based in United Kingdom, tracked on soun
 
 FroD, Alisdair, Cardinal Sin
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/goose-3/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/goose-3/)*

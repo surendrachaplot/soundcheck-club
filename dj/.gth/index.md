@@ -1,6 +1,6 @@
 # .g (TH)
 
-.g (TH) is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at Siwilai Radical Club, Bangkok on Fri, 31 Jul 2026.
+.g (TH) is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at Siwilai Radical Club, Bangkok on Fri, 31 Jul 2026.
 
 .g (TH) is a house and techno artist based in Thailand, tracked on soundcheck, with 29 sets logged across Bangkok. Often billed alongside DMT Disco, JWP. and Genji. Next up: Siwilai Radical Club, Bangkok on Fri 31 Jul.
 
@@ -25,4 +25,4 @@
 
 DMT Disco, JWP., Genji
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/.gth/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/.gth/)*

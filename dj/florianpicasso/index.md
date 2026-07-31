@@ -1,6 +1,6 @@
 # Florian Picasso
 
-Florian Picasso is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at Virage, Paris on Sat, 8 Aug 2026.
+Florian Picasso is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at Virage, Paris on Sat, 8 Aug 2026.
 
 Florian Picasso is a techno and trance artist based in Vietnam, tracked on soundcheck, with 38 sets logged across Amsterdam, Antwerp, Berlin and Brussels and 7 more. Often billed alongside CAPTNNN', Two Dots and Bad Boombox. Next up: Virage, Paris on Sat 8 Aug.
 
@@ -25,4 +25,4 @@ Florian Picasso is a techno and trance artist based in Vietnam, tracked on sound
 
 CAPTNNN', Two Dots, Bad Boombox
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/florianpicasso/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/florianpicasso/)*

@@ -1,6 +1,6 @@
 # Rodo Garcia
 
-Rodo Garcia is a Ambient and Electronica artist with 2 upcoming club dates listed on soundcheck as of Thu, 30 Jul 2026, next at TBA - Follow @BerlinFloraFestival & @Ousiasound to know exact locations, Berlin on Sat, 8 Aug 2026.
+Rodo Garcia is a Ambient and Electronica artist with 2 upcoming club dates listed on soundcheck as of Fri, 31 Jul 2026, next at TBA - Follow @BerlinFloraFestival & @Ousiasound to know exact locations, Berlin on Sat, 8 Aug 2026.
 
 Rodo Garcia is an ambient and electronica artist tracked on soundcheck, with 4 sets logged across Barcelona and Berlin. Often billed alongside Olec Mün, Ousia Sound and Alexa Strange. Next up: TBA - Follow @BerlinFloraFestival & @Ousiasound to know exact locations, Berlin on Sat 8 Aug.
 
@@ -20,4 +20,4 @@ Rodo Garcia is an ambient and electronica artist tracked on soundcheck, with 4 s
 
 Olec Mün, Ousia Sound, Alexa Strange
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/rodogarcia/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/rodogarcia/)*

@@ -1,6 +1,6 @@
 # Lais Pattak
 
-Lais Pattak is a Techno and EBM artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at radial, London on Fri, 7 Aug 2026.
+Lais Pattak is a Techno and EBM artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at radial, London on Fri, 7 Aug 2026.
 
 Lais Pattak is a techno and ebm artist tracked on soundcheck, with 32 sets logged across Brussels and London. Often billed alongside METALLIC LOVER, Nanzhen Yang and Claudia Kane. Next up: radial, London on Fri 7 Aug.
 
@@ -25,4 +25,4 @@ Lais Pattak is a techno and ebm artist tracked on soundcheck, with 32 sets logge
 
 METALLIC LOVER, Nanzhen Yang, Claudia Kane
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/laispattak/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/laispattak/)*

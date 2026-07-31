@@ -1,6 +1,6 @@
 # SaltySis
 
-SaltySis is a Techno and Trance artist with 5 upcoming club dates listed on soundcheck as of Thu, 30 Jul 2026, next at Bowlers Exhibition Centre, Manchester on Sat, 1 Aug 2026.
+SaltySis is a Techno and Trance artist with 5 upcoming club dates listed on soundcheck as of Fri, 31 Jul 2026, next at Bowlers Exhibition Centre, Manchester on Sat, 1 Aug 2026.
 
 SaltySis is a techno and trance artist tracked on soundcheck, with 110 sets logged across Belgrade, Berlin, Brisbane and Budapest and 16 more. Often billed alongside A.N.I., Cara Elizabeth and Millie Forsberg. Next up: Bowlers Exhibition Centre, Manchester on Sat 1 Aug.
 
@@ -29,4 +29,4 @@ SaltySis is a techno and trance artist tracked on soundcheck, with 110 sets logg
 
 A.N.I., Cara Elizabeth, Millie Forsberg
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/saltysis/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/saltysis/)*

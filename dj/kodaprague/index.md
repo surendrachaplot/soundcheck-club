@@ -1,6 +1,6 @@
 # Koda Prague
 
-Koda Prague is a Afro House and House artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at Regatta Beach, Antwerp on Sat, 8 Aug 2026.
+Koda Prague is a Afro House and House artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at Regatta Beach, Antwerp on Sat, 8 Aug 2026.
 
 Koda Prague is an afro house and house artist based in Australia, tracked on soundcheck, with 6 sets logged across Antwerp, Bali and Sydney. Often billed alongside Selim Aksoz, Bastin. and Makasi. Next up: Regatta Beach, Antwerp on Sat 8 Aug.
 
@@ -22,4 +22,4 @@ Koda Prague is an afro house and house artist based in Australia, tracked on sou
 
 Selim Aksoz, Bastin., Makasi
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/kodaprague/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/kodaprague/)*

@@ -1,6 +1,6 @@
 # Chris Miranda
 
-Chris Miranda is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at Que Sera, Los Angeles on Sat, 8 Aug 2026.
+Chris Miranda is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at Que Sera, Los Angeles on Sat, 8 Aug 2026.
 
 Chris Miranda is a techno and house artist based in United States of America, tracked on soundcheck, with 3 sets logged across Losangeles. Often billed alongside Shay De Castro, DOOSTAH and GIGAMESH. Next up: Que Sera, Losangeles on Sat 8 Aug.
 
@@ -19,4 +19,4 @@ Chris Miranda is a techno and house artist based in United States of America, tr
 
 Shay De Castro, DOOSTAH, GIGAMESH
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/chrismiranda/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/chrismiranda/)*

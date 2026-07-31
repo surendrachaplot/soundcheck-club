@@ -1,6 +1,6 @@
 # Sofi.
 
-Sofi. is a Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at NUMBER 90 LONDON, London on Sun, 23 Aug 2026.
+Sofi. is a Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at NUMBER 90 LONDON, London on Sun, 23 Aug 2026.
 
 Sofi. is a techno artist tracked on soundcheck, with 14 sets logged across Leeds, London and Manchester. Often billed alongside Slumber, Livid (UK) and VENT (3). Next up: NUMBER 90 LONDON, London on Sun 23 Aug.
 
@@ -25,4 +25,4 @@ Sofi. is a techno artist tracked on soundcheck, with 14 sets logged across Leeds
 
 Slumber, Livid (UK), VENT (3)
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/sofi-uk/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/sofi-uk/)*

@@ -1,6 +1,6 @@
 # Yaya Flows
 
-Yaya Flows is a Techno and Ambient artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at Trans-Pecos, New York City on Tue, 4 Aug 2026.
+Yaya Flows is a Techno and Ambient artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at Trans-Pecos, New York City on Tue, 4 Aug 2026.
 
 Yaya Flows is a techno and ambient artist based in United States of America, tracked on soundcheck, with 25 sets logged across Newyorkcity. Often billed alongside T.Wan, Lychee and Sobolik. Next up: Trans-Pecos, Newyorkcity on Tue 4 Aug.
 
@@ -25,4 +25,4 @@ Yaya Flows is a techno and ambient artist based in United States of America, tra
 
 T.Wan, Lychee, Sobolik
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/yayaflows/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/yayaflows/)*

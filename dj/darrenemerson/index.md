@@ -1,6 +1,6 @@
 # Darren Emerson
 
-Darren Emerson is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at Spaarnwoude (Deelplan Houtrak), Amsterdam on Sat, 29 Aug 2026.
+Darren Emerson is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at Spaarnwoude (Deelplan Houtrak), Amsterdam on Sat, 29 Aug 2026.
 
 Darren Emerson is a house and techno artist tracked on soundcheck, with 29 sets logged across Amsterdam, Auckland, Berlin and Brighton and 18 more. Often billed alongside Brandon Block, Danny Tenaglia and John Course. Next up: Spaarnwoude (Deelplan Houtrak), Amsterdam on Sat 29 Aug.
 
@@ -25,4 +25,4 @@ Darren Emerson is a house and techno artist tracked on soundcheck, with 29 sets 
 
 Brandon Block, Danny Tenaglia, John Course
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/darrenemerson/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/darrenemerson/)*

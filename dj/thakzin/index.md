@@ -1,6 +1,6 @@
 # Thakzin
 
-Thakzin is a Amapiano and Afro House artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at Burgess Park, London on Fri, 31 Jul 2026.
+Thakzin is a Amapiano and Afro House artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at Burgess Park, London on Fri, 31 Jul 2026.
 
 Thakzin is an amapiano and afro house artist based in South Africa, tracked on soundcheck, with 20 sets logged across Amsterdam, Berlin, Cologne and London and 3 more. Often billed alongside Atmos Blaq, Da Capo and CLEIDO. Next up: Burgess Park, London on Fri 31 Jul.
 
@@ -25,4 +25,4 @@ Thakzin is an amapiano and afro house artist based in South Africa, tracked on s
 
 Atmos Blaq, Da Capo, CLEIDO
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/thakzin/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/thakzin/)*

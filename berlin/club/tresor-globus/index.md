@@ -1,6 +1,6 @@
 # Tresor / Globus
 
-Tresor / Globus is a music venue in Berlin with 25 upcoming nights listed on soundcheck as of Thu, 30 Jul 2026; the next is "Tresor meets Perc Trax" on Fri, 31 Jul 2026.
+Tresor / Globus is a music venue in Berlin with 25 upcoming nights listed on soundcheck as of Fri, 31 Jul 2026; the next is "Tresor meets Perc Trax" on Fri, 31 Jul 2026.
 
 Tresor / Globus is a music venue in Berlin listed on soundcheck. 25 upcoming nights, with line-ups including 7CIRCLE, ALIS., Anabel Arroyo and Arsenal Mikebe and 2 more. Browse upcoming dates, start times and who's playing. Köpenickerstrasse 70; Mitte; 10179 Berlin; Germany.
 
@@ -23,4 +23,4 @@ Tresor / Globus is a music venue in Berlin listed on soundcheck. 25 upcoming nig
 
 Köpenickerstrasse 70; Mitte; 10179 Berlin; Germany, Berlin
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/tresor-globus/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/tresor-globus/)*

@@ -1,6 +1,6 @@
 # NHYMPH
 
-NHYMPH is a Techno and Industrial artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at Parc del Fòrum, Barcelona on Fri, 7 Aug 2026.
+NHYMPH is a Techno and Industrial artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at Parc del Fòrum, Barcelona on Fri, 7 Aug 2026.
 
 NHYMPH is a techno and industrial artist based in Spain, tracked on soundcheck, with 50 sets logged across Barcelona, Berlin, Lisbon and Madrid. Often billed alongside KØDAK, JAKKÖ and LUNAR. Next up: Parc del Fòrum, Barcelona on Fri 7 Aug.
 
@@ -25,4 +25,4 @@ NHYMPH is a techno and industrial artist based in Spain, tracked on soundcheck, 
 
 KØDAK, JAKKÖ, LUNAR
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/nhymph/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/nhymph/)*

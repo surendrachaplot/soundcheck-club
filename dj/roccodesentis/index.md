@@ -1,6 +1,6 @@
 # ROCCO DESENTIS
 
-ROCCO DESENTIS is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at Bar Oriente, Mexico City on Fri, 7 Aug 2026.
+ROCCO DESENTIS is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at Bar Oriente, Mexico City on Fri, 7 Aug 2026.
 
 ROCCO DESENTIS is a house and techno artist based in Mexico, tracked on soundcheck, with 45 sets logged across Buenosaires, Mexicocity and Newyorkcity. Often billed alongside Andre VII, Chisko Disco and Mijo. Next up: Bar Oriente, Mexicocity on Fri 7 Aug.
 
@@ -25,4 +25,4 @@ ROCCO DESENTIS is a house and techno artist based in Mexico, tracked on soundche
 
 Andre VII, Chisko Disco, Mijo
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/roccodesentis/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/roccodesentis/)*

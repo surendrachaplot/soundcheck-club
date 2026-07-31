@@ -1,6 +1,6 @@
 # Michele Lopardo
 
-Michele Lopardo is a Tech House and House artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at Discoteca Paradiso, Naples on Fri, 31 Jul 2026.
+Michele Lopardo is a Tech House and House artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at Discoteca Paradiso, Naples on Fri, 31 Jul 2026.
 
 Michele Lopardo is a tech house and house artist based in Italy, tracked on soundcheck, with 7 sets logged across Naples. Often billed alongside EKSPO, Aga and Alex Bohemien. Next up: Discoteca Paradiso, Naples on Fri 31 Jul.
 
@@ -23,4 +23,4 @@ Michele Lopardo is a tech house and house artist based in Italy, tracked on soun
 
 EKSPO, Aga, Alex Bohemien
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/michelelopardo/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/michelelopardo/)*

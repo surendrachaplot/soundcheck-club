@@ -1,6 +1,6 @@
 # Fitz Mallorca
 
-Fitz Mallorca is a music venue in Mallorca with 3 upcoming nights listed on soundcheck as of Thu, 30 Jul 2026; the next is "Dennis Cruz x FITZ" on Sun, 2 Aug 2026.
+Fitz Mallorca is a music venue in Mallorca with 3 upcoming nights listed on soundcheck as of Fri, 31 Jul 2026; the next is "Dennis Cruz x FITZ" on Sun, 2 Aug 2026.
 
 Fitz Mallorca is a music venue in Mallorca listed on soundcheck. 3 upcoming nights, with line-ups including ANOTR, Dennis Cruz and Dixon. Browse upcoming dates, start times and who's playing. Avinguda de Gabriel Roca, 32,  Palma, Illes Balears.
 
@@ -16,4 +16,4 @@ Fitz Mallorca is a music venue in Mallorca listed on soundcheck. 3 upcoming nigh
 
 Avinguda de Gabriel Roca, 32,  Palma, Illes Balears, Mallorca
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/mallorca/club/fitz-mallorca/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/mallorca/club/fitz-mallorca/)*

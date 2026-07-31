@@ -1,6 +1,6 @@
 # Bluck
 
-Bluck is a Drum & Bass and Jungle artist with 2 upcoming club dates listed on soundcheck as of Thu, 30 Jul 2026, next at Hackney Wick Multiple Venues, London on Sat, 1 Aug 2026.
+Bluck is a Drum & Bass and Jungle artist with 2 upcoming club dates listed on soundcheck as of Fri, 31 Jul 2026, next at Hackney Wick Multiple Venues, London on Sat, 1 Aug 2026.
 
 Bluck is a drum & bass and jungle artist tracked on soundcheck, with 22 sets logged across Leeds and London. Often billed alongside Dove (UK), Randoma and TILDA (2). Next up: Hackney Wick Multiple Venues, London on Sat 1 Aug.
 
@@ -26,4 +26,4 @@ Bluck is a drum & bass and jungle artist tracked on soundcheck, with 22 sets log
 
 Dove (UK), Randoma, TILDA (2)
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/bluck/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/bluck/)*

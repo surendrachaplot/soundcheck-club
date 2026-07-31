@@ -1,6 +1,6 @@
 # Fabricio
 
-Fabricio is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at Spook Club, Valencia on Sat, 1 Aug 2026.
+Fabricio is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at Spook Club, Valencia on Sat, 1 Aug 2026.
 
 Fabricio is a techno and house artist tracked on soundcheck, with 5 sets logged across Buenosaires and Valencia. Often billed alongside May Mc Laren, Caballeri and Camiel Daamen. Next up: Spook Club, Valencia on Sat 1 Aug.
 
@@ -21,4 +21,4 @@ Fabricio is a techno and house artist tracked on soundcheck, with 5 sets logged 
 
 May Mc Laren, Caballeri, Camiel Daamen
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/fabriciouy/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/fabriciouy/)*

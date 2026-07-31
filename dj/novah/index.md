@@ -1,6 +1,6 @@
 # NOVAH
 
-NOVAH is a Techno and Trance artist with 8 upcoming club dates listed on soundcheck as of Thu, 30 Jul 2026, next at Burgess Park, London on Sat, 1 Aug 2026.
+NOVAH is a Techno and Trance artist with 8 upcoming club dates listed on soundcheck as of Fri, 31 Jul 2026, next at Burgess Park, London on Sat, 1 Aug 2026.
 
 NOVAH is a techno and trance artist tracked on soundcheck, with 162 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 44 more. Often billed alongside Cloudy, Nico Moreno and KUKO. Next up: Burgess Park, London on Sat 1 Aug.
 
@@ -32,4 +32,4 @@ NOVAH is a techno and trance artist tracked on soundcheck, with 162 sets logged 
 
 Cloudy, Nico Moreno, KUKO
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/novah/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/novah/)*

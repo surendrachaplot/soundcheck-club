@@ -1,6 +1,6 @@
 # Felix Lindner
 
-Felix Lindner is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at Fridas Pier, Stuttgart on Sat, 12 Sept 2026.
+Felix Lindner is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at Fridas Pier, Stuttgart on Sat, 12 Sept 2026.
 
 Felix Lindner is a techno and house artist based in Germany, tracked on soundcheck, with 18 sets logged across Berlin, Stuttgart and Tbilisi. Often billed alongside Roman Antonov, Mara Sander and Anodized. Next up: Fridas Pier, Stuttgart on Sat 12 Sept.
 
@@ -25,4 +25,4 @@ Felix Lindner is a techno and house artist based in Germany, tracked on soundche
 
 Roman Antonov, Mara Sander, Anodized
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/felixlindner/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/felixlindner/)*

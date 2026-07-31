@@ -1,6 +1,6 @@
 # Alexx Zander Johnson
 
-Alexx Zander Johnson is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at TBA - Rasquera, Terres de l'Ebre, provincia de Tarragona, Barcelona on Wed, 12 Aug 2026.
+Alexx Zander Johnson is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at TBA - Rasquera, Terres de l'Ebre, provincia de Tarragona, Barcelona on Wed, 12 Aug 2026.
 
 Alexx Zander Johnson is a house and techno artist based in Belgium, tracked on soundcheck, with 10 sets logged across Barcelona and Ghent. Often billed alongside /K/iara, shulliana.music and AINES. Next up: TBA - Rasquera, Terres de l'Ebre, provincia de Tarragona, Barcelona on Wed 12 Aug.
 
@@ -25,4 +25,4 @@ Alexx Zander Johnson is a house and techno artist based in Belgium, tracked on s
 
 /K/iara, shulliana.music, AINES
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/alexxzanderjohnson/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/alexxzanderjohnson/)*

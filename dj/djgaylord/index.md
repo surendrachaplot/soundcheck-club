@@ -1,6 +1,6 @@
 # DJ Gaylord
 
-DJ Gaylord is a Jungle and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at Volks, Brighton on Sat, 1 Aug 2026.
+DJ Gaylord is a Jungle and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at Volks, Brighton on Sat, 1 Aug 2026.
 
 DJ Gaylord is a jungle and techno artist based in United Kingdom, tracked on soundcheck, with 7 sets logged across Brighton, Leeds and London. Often billed alongside Spinks, AUDIO DUNE and Aisha Mirza. Next up: Volks, Brighton on Sat 1 Aug.
 
@@ -23,4 +23,4 @@ DJ Gaylord is a jungle and techno artist based in United Kingdom, tracked on sou
 
 Spinks, AUDIO DUNE, Aisha Mirza
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/djgaylord/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/djgaylord/)*

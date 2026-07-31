@@ -1,6 +1,6 @@
 # Baba T
 
-Baba T is a Afrobeats and Amapiano artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at Colour Factory, London on Sun, 2 Aug 2026.
+Baba T is a Afrobeats and Amapiano artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at Colour Factory, London on Sun, 2 Aug 2026.
 
 Baba T is an afrobeats and amapiano artist based in United Kingdom, tracked on soundcheck, with 26 sets logged across Amsterdam, Berlin, Leeds and London and 1 more. Often billed alongside Tolu, 2 Bad Mice and Aletha. Next up: Colour Factory, London on Sun 2 Aug.
 
@@ -25,4 +25,4 @@ Baba T is an afrobeats and amapiano artist based in United Kingdom, tracked on s
 
 Tolu, 2 Bad Mice, Aletha
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/babat/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/babat/)*

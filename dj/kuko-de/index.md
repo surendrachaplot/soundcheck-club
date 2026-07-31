@@ -1,6 +1,6 @@
 # KUKO
 
-KUKO is a Techno and Trance artist with 23 upcoming club dates listed on soundcheck as of Thu, 30 Jul 2026, next at Nescio - by Generator Amsterdam, Amsterdam on Sat, 1 Aug 2026.
+KUKO is a Techno and Trance artist with 23 upcoming club dates listed on soundcheck as of Fri, 31 Jul 2026, next at Nescio - by Generator Amsterdam, Amsterdam on Sat, 1 Aug 2026.
 
 KUKO is a techno and trance artist tracked on soundcheck, with 204 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 48 more. Often billed alongside Cloudy, Adrian Mills and Johannes Schuster. Next up: Nescio - by Generator Amsterdam, Amsterdam on Sat 1 Aug.
 
@@ -36,4 +36,4 @@ KUKO is a techno and trance artist tracked on soundcheck, with 204 sets logged a
 
 Cloudy, Adrian Mills, Johannes Schuster
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/kuko-de/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/kuko-de/)*

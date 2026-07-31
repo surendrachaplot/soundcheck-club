@@ -1,6 +1,6 @@
 # Amy  B
 
-Amy  B is a Drum & Bass and Jungle artist with 2 upcoming club dates listed on soundcheck as of Thu, 30 Jul 2026, next at Hackney Downs Studios, London on Sat, 1 Aug 2026.
+Amy  B is a Drum & Bass and Jungle artist with 2 upcoming club dates listed on soundcheck as of Fri, 31 Jul 2026, next at Hackney Downs Studios, London on Sat, 1 Aug 2026.
 
 Amy  B is a drum & bass and jungle artist tracked on soundcheck, with 4 sets logged across London. Often billed alongside DJ Brockie, Darz and Hickey. Next up: Hackney Downs Studios, London on Sat 1 Aug.
 
@@ -20,4 +20,4 @@ Amy  B is a drum & bass and jungle artist tracked on soundcheck, with 4 sets log
 
 DJ Brockie, Darz, Hickey
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/amyb/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/amyb/)*

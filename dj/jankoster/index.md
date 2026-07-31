@@ -1,6 +1,6 @@
 # Jan Koster
 
-Jan Koster is a House and Garage artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at Nine Lives Gallery, Rotterdam on Fri, 14 Aug 2026.
+Jan Koster is a House and Garage artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at Nine Lives Gallery, Rotterdam on Fri, 14 Aug 2026.
 
 Jan Koster is a house and garage artist based in Netherlands, tracked on soundcheck, with 51 sets logged across Amsterdam, Bangkok, Manchester and Rotterdam. Often billed alongside Benny2, Runningman and EYCEE. Next up: Nine Lives Gallery, Rotterdam on Fri 14 Aug.
 
@@ -25,4 +25,4 @@ Jan Koster is a house and garage artist based in Netherlands, tracked on soundch
 
 Benny2, Runningman, EYCEE
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/jankoster/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/jankoster/)*

@@ -1,6 +1,6 @@
 # Luke Mele
 
-Luke Mele is a Electronica and Techno artist with 2 upcoming club dates listed on soundcheck as of Thu, 30 Jul 2026, next at Homage Brewing, Los Angeles on Fri, 31 Jul 2026.
+Luke Mele is a Electronica and Techno artist with 2 upcoming club dates listed on soundcheck as of Fri, 31 Jul 2026, next at Homage Brewing, Los Angeles on Fri, 31 Jul 2026.
 
 Luke Mele is an electronica and techno artist tracked on soundcheck, with 14 sets logged across Losangeles and Philadelphia. Often billed alongside Kaleb Marshall, Max Ellington and J.dB. Next up: Homage Brewing, Losangeles on Fri 31 Jul.
 
@@ -26,4 +26,4 @@ Luke Mele is an electronica and techno artist tracked on soundcheck, with 14 set
 
 Kaleb Marshall, Max Ellington, J.dB
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/lukemele/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/lukemele/)*

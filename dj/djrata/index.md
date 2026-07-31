@@ -1,6 +1,6 @@
 # DJ RATA
 
-DJ RATA is a Techno and Club artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at Three Dollar Bill, Toronto on Sat, 1 Aug 2026.
+DJ RATA is a Techno and Club artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at Three Dollar Bill, Toronto on Sat, 1 Aug 2026.
 
 DJ RATA is a techno and club artist based in Canada, tracked on soundcheck, with 19 sets logged across Mexicocity, Montreal, Newyorkcity and Toronto. Often billed alongside Zellers, CalTrax and GRRLCRRSH. Next up: Three Dollar Bill, Toronto on Sat 1 Aug.
 
@@ -25,4 +25,4 @@ DJ RATA is a techno and club artist based in Canada, tracked on soundcheck, with
 
 Zellers, CalTrax, GRRLCRRSH
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/djrata/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/djrata/)*

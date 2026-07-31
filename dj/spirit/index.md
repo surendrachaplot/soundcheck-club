@@ -1,6 +1,6 @@
 # Spirit
 
-Spirit is a Techno and Electronica artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at Budapest Park, Budapest on Fri, 28 Aug 2026.
+Spirit is a Techno and Electronica artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at Budapest Park, Budapest on Fri, 28 Aug 2026.
 
 Spirit is a techno and electronica artist based in Hungary, tracked on soundcheck, with 6 sets logged across Budapest, Paris and Philadelphia. Often billed alongside Mateo & Spirit, Raul Young and Djé Djé from the block. Next up: Budapest Park, Budapest on Fri 28 Aug.
 
@@ -22,4 +22,4 @@ Spirit is a techno and electronica artist based in Hungary, tracked on soundchec
 
 Mateo & Spirit, Raul Young, Djé Djé from the block
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/spirit/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/spirit/)*

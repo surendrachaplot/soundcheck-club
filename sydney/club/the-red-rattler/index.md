@@ -1,6 +1,6 @@
 # The Red Rattler
 
-The Red Rattler is a music venue in Sydney with 5 upcoming nights listed on soundcheck as of Thu, 30 Jul 2026; the next is "RAW ⌖ Ft. BENZA [DE] ⌖ Warehouse Session" on Sat, 1 Aug 2026.
+The Red Rattler is a music venue in Sydney with 5 upcoming nights listed on soundcheck as of Fri, 31 Jul 2026; the next is "RAW ⌖ Ft. BENZA [DE] ⌖ Warehouse Session" on Sat, 1 Aug 2026.
 
 The Red Rattler is a music venue in Sydney listed on soundcheck. 5 upcoming nights, with line-ups including Arsonist, BENZA, Cristal No.5 and Grasps and 2 more. Browse upcoming dates, start times and who's playing. 6 Faversham St, Marrickville NSW 2204, Australia.
 
@@ -18,4 +18,4 @@ The Red Rattler is a music venue in Sydney listed on soundcheck. 5 upcoming nigh
 
 6 Faversham St, Marrickville NSW 2204, Australia, Sydney
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/sydney/club/the-red-rattler/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/sydney/club/the-red-rattler/)*

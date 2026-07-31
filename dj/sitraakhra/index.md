@@ -1,6 +1,6 @@
 # Sitra Akhra
 
-Sitra Akhra is a Techno and Industrial artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at Nether Club, Bucharest on Sat, 26 Sept 2026.
+Sitra Akhra is a Techno and Industrial artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at Nether Club, Bucharest on Sat, 26 Sept 2026.
 
 Sitra Akhra is a techno and industrial artist tracked on soundcheck, with 14 sets logged across Bucharest and Newyorkcity. Often billed alongside TRIXIÉ, Clast and GRVYWRLD. Next up: Nether Club, Bucharest on Sat 26 Sept.
 
@@ -25,4 +25,4 @@ Sitra Akhra is a techno and industrial artist tracked on soundcheck, with 14 set
 
 TRIXIÉ, Clast, GRVYWRLD
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/sitraakhra/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/sitraakhra/)*

@@ -1,6 +1,6 @@
 # Eleusinia Mysteria
 
-Eleusinia Mysteria is a electronic artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at Astron Club, Athens on Fri, 31 Jul 2026.
+Eleusinia Mysteria is a electronic artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at Astron Club, Athens on Fri, 31 Jul 2026.
 
 Eleusinia Mysteria is an electronic artist based in United Kingdom, tracked on soundcheck, with 5 sets logged across Athens. Often billed alongside .Fro., 118119 and Hezma. Next up: Astron Club, Athens on Fri 31 Jul.
 
@@ -21,4 +21,4 @@ Eleusinia Mysteria is an electronic artist based in United Kingdom, tracked on s
 
 .Fro., 118119, Hezma
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/eleusiniamysteria/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/eleusiniamysteria/)*

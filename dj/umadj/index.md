@@ -1,6 +1,6 @@
 # UMA DJ
 
-UMA DJ is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at Good Room, New York City on Fri, 28 Aug 2026.
+UMA DJ is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at Good Room, New York City on Fri, 28 Aug 2026.
 
 UMA DJ is a house and disco artist based in United States of America, tracked on soundcheck, with 29 sets logged across Losangeles, Melbourne, Newyorkcity and Sanfrancisco and 4 more. Often billed alongside Underwaterhasa, Arvin T and DJ M3. Next up: Good Room, Newyorkcity on Fri 28 Aug.
 
@@ -25,4 +25,4 @@ UMA DJ is a house and disco artist based in United States of America, tracked on
 
 Underwaterhasa, Arvin T, DJ M3
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/umadj/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/umadj/)*

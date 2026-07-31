@@ -1,6 +1,6 @@
 # groovyjuri
 
-groovyjuri is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at Crack Bellmer, Berlin on Sun, 23 Aug 2026.
+groovyjuri is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at Crack Bellmer, Berlin on Sun, 23 Aug 2026.
 
 groovyjuri is a house and techno artist based in Germany, tracked on soundcheck, with 33 sets logged across Berlin and Munich. Often billed alongside Almost Famous, Christa K and Smau. Next up: Crack Bellmer, Berlin on Sun 23 Aug.
 
@@ -25,4 +25,4 @@ groovyjuri is a house and techno artist based in Germany, tracked on soundcheck,
 
 Almost Famous, Christa K, Smau
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/groovyjuri/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/groovyjuri/)*

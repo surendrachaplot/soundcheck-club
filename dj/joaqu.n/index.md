@@ -1,6 +1,6 @@
 # JOAQU.N
 
-JOAQU.N is a Reggaeton and Dembow artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at El Cid, Los Angeles on Sat, 1 Aug 2026.
+JOAQU.N is a Reggaeton and Dembow artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at El Cid, Los Angeles on Sat, 1 Aug 2026.
 
 JOAQU.N is a reggaeton and dembow artist based in United States of America, tracked on soundcheck, with 69 sets logged across Austin, Chicago, Losangeles and Newyorkcity and 3 more. Often billed alongside Falcons, DINABN and SuperNova (US). Next up: El Cid, Losangeles on Sat 1 Aug.
 
@@ -25,4 +25,4 @@ JOAQU.N is a reggaeton and dembow artist based in United States of America, trac
 
 Falcons, DINABN, SuperNova (US)
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/joaqu.n/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/joaqu.n/)*

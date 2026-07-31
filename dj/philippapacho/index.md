@@ -1,6 +1,6 @@
 # Philippa Pacho
 
-Philippa Pacho is a Techno and House artist with 8 upcoming club dates listed on soundcheck as of Thu, 30 Jul 2026, next at Arzenal, Budapest on Fri, 31 Jul 2026.
+Philippa Pacho is a Techno and House artist with 8 upcoming club dates listed on soundcheck as of Fri, 31 Jul 2026, next at Arzenal, Budapest on Fri, 31 Jul 2026.
 
 Philippa Pacho is a techno and house artist tracked on soundcheck, with 211 sets logged across Amsterdam, Antwerp, Athens and Bangkok and 55 more. Often billed alongside Blue Hour, Fadi Mohem and Freddy K. Next up: Arzenal, Budapest on Fri 31 Jul.
 
@@ -32,4 +32,4 @@ Philippa Pacho is a techno and house artist tracked on soundcheck, with 211 sets
 
 Blue Hour, Fadi Mohem, Freddy K
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/philippapacho/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/philippapacho/)*

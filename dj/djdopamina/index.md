@@ -1,6 +1,6 @@
 # DJ Dopamina
 
-DJ Dopamina is a Techno and Ghetto Tech artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at Den Anden Side, Copenhagen on Fri, 31 Jul 2026.
+DJ Dopamina is a Techno and Ghetto Tech artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at Den Anden Side, Copenhagen on Fri, 31 Jul 2026.
 
 DJ Dopamina is a techno and ghetto tech artist based in Denmark, tracked on soundcheck, with 21 sets logged across Copenhagen. Often billed alongside Halfdan Sandquist, ASTA MARI and Anna Logic. Next up: Den Anden Side, Copenhagen on Fri 31 Jul.
 
@@ -25,4 +25,4 @@ DJ Dopamina is a techno and ghetto tech artist based in Denmark, tracked on soun
 
 Halfdan Sandquist, ASTA MARI, Anna Logic
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/djdopamina/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/djdopamina/)*

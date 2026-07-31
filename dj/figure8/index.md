@@ -1,6 +1,6 @@
 # Figure 8
 
-Figure 8 is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at TBA - DAWA HQ, Austin on Sat, 1 Aug 2026.
+Figure 8 is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at TBA - DAWA HQ, Austin on Sat, 1 Aug 2026.
 
 Figure 8 is a techno and house artist based in United States of America, tracked on soundcheck, with 5 sets logged across Austin. Often billed alongside Ak-4ya, DJ BAD APPLE and Dj Sliink. Next up: TBA - DAWA HQ, Austin on Sat 1 Aug.
 
@@ -21,4 +21,4 @@ Figure 8 is a techno and house artist based in United States of America, tracked
 
 Ak-4ya, DJ BAD APPLE, Dj Sliink
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/figure8/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/figure8/)*

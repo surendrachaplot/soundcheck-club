@@ -1,14 +1,13 @@
 # Tigullio
 
-Tigullio is a music venue in Malta with 8 upcoming nights listed on soundcheck as of Thu, 30 Jul 2026; the next is "The Holy Rave Malta - Week #6: XXL Edition" on Thu, 30 Jul 2026.
+Tigullio is a music venue in Malta with 7 upcoming nights listed on soundcheck as of Fri, 31 Jul 2026; the next is "Poxy presents: Cody Wong" on Sat, 1 Aug 2026.
 
-Tigullio is a music venue in Malta listed on soundcheck. 8 upcoming nights, with line-ups including Blakeys, chouhal, CMGA and Cody Wong and 2 more. Browse upcoming dates, start times and who's playing. Spinola Bay, Stj1161 San Giljan.
+Tigullio is a music venue in Malta listed on soundcheck. 7 upcoming nights, with line-ups including chouhal, CMGA, Cody Wong and ERØXX and 2 more. Browse upcoming dates, start times and who's playing. Spinola Bay, Stj1161 San Giljan.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Thu, 30 Jul 2026 | The Holy Rave Malta - Week #6: XXL Edition | Blakeys, FNRZ, Kingsmo, LWØ (1), Moupe, Naomi Baldacchino, Sunny K |
 | Sat, 1 Aug 2026 | Poxy presents: Cody Wong | Cody Wong, chouhal |
 | Thu, 6 Aug 2026 | The Holy Rave Malta - Week #7 | Kingsmo, Kuzio, Naomi Baldacchino, Zeyvers |
 | Tue, 11 Aug 2026 | POXY PRESENTS Cody Wong | Cody Wong, chouhal |
@@ -21,4 +20,4 @@ Tigullio is a music venue in Malta listed on soundcheck. 8 upcoming nights, with
 
 Spinola Bay, Stj1161 San Giljan, Malta
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/malta/club/tigullio/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/malta/club/tigullio/)*

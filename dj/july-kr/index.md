@@ -1,6 +1,6 @@
 # July.
 
-July. is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at Dual, Bangkok on Fri, 31 Jul 2026.
+July. is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at Dual, Bangkok on Fri, 31 Jul 2026.
 
 July. is a house and techno artist based in South Korea, tracked on soundcheck, with 32 sets logged across Bangkok, Seoul and Tokyo. Often billed alongside Bolm, Cosmo (KR) and Youknowsong. Next up: Dual, Bangkok on Fri 31 Jul.
 
@@ -25,4 +25,4 @@ July. is a house and techno artist based in South Korea, tracked on soundcheck, 
 
 Bolm, Cosmo (KR), Youknowsong
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/july-kr/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/july-kr/)*

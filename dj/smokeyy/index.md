@@ -1,6 +1,6 @@
 # SMOKEYY
 
-SMOKEYY is a Garage and House artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at Starlane Pizza Bar, London on Sat, 1 Aug 2026.
+SMOKEYY is a Garage and House artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at Starlane Pizza Bar, London on Sat, 1 Aug 2026.
 
 SMOKEYY is a garage and house artist based in United Kingdom, tracked on soundcheck, with 5 sets logged across London. Often billed alongside Josh E, Mals Verner and Olly Brady. Next up: Starlane Pizza Bar, London on Sat 1 Aug.
 
@@ -21,4 +21,4 @@ SMOKEYY is a garage and house artist based in United Kingdom, tracked on soundch
 
 Josh E, Mals Verner, Olly Brady
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/smokeyy/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/smokeyy/)*

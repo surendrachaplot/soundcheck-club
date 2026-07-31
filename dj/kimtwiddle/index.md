@@ -1,6 +1,6 @@
 # Kim_Twiddle
 
-Kim_Twiddle is a Techno and Electro artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at Unter Deck, Munich on Tue, 1 Sept 2026.
+Kim_Twiddle is a Techno and Electro artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at Unter Deck, Munich on Tue, 1 Sept 2026.
 
 Kim_Twiddle is a techno and electro artist based in Germany, tracked on soundcheck, with 15 sets logged across Munich. Often billed alongside DJ FM & DJ FREUND, Safahs and ANXA. Next up: Unter Deck, Munich on Tue 1 Sept.
 
@@ -25,4 +25,4 @@ Kim_Twiddle is a techno and electro artist based in Germany, tracked on soundche
 
 DJ FM & DJ FREUND, Safahs, ANXA
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/kimtwiddle/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/kimtwiddle/)*

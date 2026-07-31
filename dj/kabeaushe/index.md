@@ -1,6 +1,6 @@
 # Kabeaushé
 
-Kabeaushé is a Pop and Experimental artist with 3 upcoming club dates listed on soundcheck as of Thu, 30 Jul 2026, next at TBA - Rees/Haldern, Düsseldorf on Wed, 5 Aug 2026.
+Kabeaushé is a Pop and Experimental artist with 3 upcoming club dates listed on soundcheck as of Fri, 31 Jul 2026, next at TBA - Rees/Haldern, Düsseldorf on Wed, 5 Aug 2026.
 
 Kabeaushé is a pop and experimental artist based in Kenya, tracked on soundcheck, with 20 sets logged across Barcelona, Berlin, Brussels and Cologne and 14 more. Often billed alongside HAAi, TAAHLIAH and Adrian Sherwood. Next up: TBA - Rees/Haldern, Dusseldorf on Wed 5 Aug.
 
@@ -27,4 +27,4 @@ Kabeaushé is a pop and experimental artist based in Kenya, tracked on soundchec
 
 HAAi, TAAHLIAH, Adrian Sherwood
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/kabeaushe/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/kabeaushe/)*

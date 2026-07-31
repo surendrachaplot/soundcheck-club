@@ -1,6 +1,6 @@
 # Sammir
 
-Sammir is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at Apollo Studio, New York City on Sat, 1 Aug 2026.
+Sammir is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at Apollo Studio, New York City on Sat, 1 Aug 2026.
 
 Sammir is a house and techno artist based in Argentina, tracked on soundcheck, with 39 sets logged across Austin, Boston, Detroit and Ghent and 2 more. Often billed alongside Petar Marniku, Antiics and Bernat. Next up: Apollo Studio, Newyorkcity on Sat 1 Aug.
 
@@ -25,4 +25,4 @@ Sammir is a house and techno artist based in Argentina, tracked on soundcheck, w
 
 Petar Marniku, Antiics, Bernat
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/sammir/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/sammir/)*

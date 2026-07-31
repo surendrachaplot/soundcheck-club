@@ -1,6 +1,6 @@
 # The Talleyrand
 
-The Talleyrand is a music venue in Manchester with 3 upcoming nights listed on soundcheck as of Thu, 30 Jul 2026; the next is "SETS IN THE WEST" on Fri, 31 Jul 2026.
+The Talleyrand is a music venue in Manchester with 3 upcoming nights listed on soundcheck as of Fri, 31 Jul 2026; the next is "SETS IN THE WEST" on Fri, 31 Jul 2026.
 
 The Talleyrand is a music venue in Manchester listed on soundcheck. 3 upcoming nights. Browse upcoming dates, start times and who's playing. 1030 Stockport Rd, Manchester M19 3WX.
 
@@ -16,4 +16,4 @@ The Talleyrand is a music venue in Manchester listed on soundcheck. 3 upcoming n
 
 1030 Stockport Rd, Manchester M19 3WX, Manchester
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/manchester/club/the-talleyrand/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/manchester/club/the-talleyrand/)*

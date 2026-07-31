@@ -1,6 +1,6 @@
 # Yaz (AU)
 
-Yaz (AU) is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at My Aeon, Melbourne on Fri, 7 Aug 2026.
+Yaz (AU) is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at My Aeon, Melbourne on Fri, 7 Aug 2026.
 
 Yaz (AU) is a techno and house artist based in Australia, tracked on soundcheck, with 4 sets logged across Melbourne. Often billed alongside Charlotte Rooney, DJ Kiti and DJ Niamh. Next up: My Aeon, Melbourne on Fri 7 Aug.
 
@@ -20,4 +20,4 @@ Yaz (AU) is a techno and house artist based in Australia, tracked on soundcheck,
 
 Charlotte Rooney, DJ Kiti, DJ Niamh
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/yaz-au/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/yaz-au/)*

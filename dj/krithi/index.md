@@ -1,6 +1,6 @@
 # Krithi
 
-Krithi is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at Jupiter Disco, New York City on Fri, 31 Jul 2026.
+Krithi is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at Jupiter Disco, New York City on Fri, 31 Jul 2026.
 
 Krithi is a house and techno artist based in United States of America, tracked on soundcheck, with 33 sets logged across London, Newyorkcity and Toronto. Often billed alongside Sana (NYC), Baalti and A. Sarr. Next up: Jupiter Disco, Newyorkcity on Fri 31 Jul.
 
@@ -25,4 +25,4 @@ Krithi is a house and techno artist based in United States of America, tracked o
 
 Sana (NYC), Baalti, A. Sarr
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/krithi/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/krithi/)*

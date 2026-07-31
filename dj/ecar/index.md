@@ -1,6 +1,6 @@
 # Ecar
 
-Ecar is a Trance and Techno artist with 2 upcoming club dates listed on soundcheck as of Thu, 30 Jul 2026, next at TBA - Schwing und Stampf Festival, Zurich on Thu, 27 Aug 2026.
+Ecar is a Trance and Techno artist with 2 upcoming club dates listed on soundcheck as of Fri, 31 Jul 2026, next at TBA - Schwing und Stampf Festival, Zurich on Thu, 27 Aug 2026.
 
 Ecar is a trance and techno artist based in Switzerland, tracked on soundcheck, with 10 sets logged across Geneva and Zurich. Often billed alongside Bowmore, ADO (DE) and Add FM. Next up: TBA - Schwing und Stampf Festival, Zurich on Thu 27 Aug.
 
@@ -26,4 +26,4 @@ Ecar is a trance and techno artist based in Switzerland, tracked on soundcheck, 
 
 Bowmore, ADO (DE), Add FM
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/ecar/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/ecar/)*

@@ -1,6 +1,6 @@
 # Korpuss
 
-Korpuss is a music venue in Riga with 2 upcoming nights listed on soundcheck as of Thu, 30 Jul 2026; the next is "GARAGE - Korpuss Gallery Series #002" on Fri, 31 Jul 2026.
+Korpuss is a music venue in Riga with 2 upcoming nights listed on soundcheck as of Fri, 31 Jul 2026; the next is "GARAGE - Korpuss Gallery Series #002" on Fri, 31 Jul 2026.
 
 Korpuss is a music venue in Riga listed on soundcheck. 2 upcoming nights, with line-ups including Aniri Chan, DEP (LV), DV8 (LV) and Existal and 2 more. Browse upcoming dates, start times and who's playing. Viskaļu iela 36.
 
@@ -15,4 +15,4 @@ Korpuss is a music venue in Riga listed on soundcheck. 2 upcoming nights, with l
 
 Viskaļu iela 36, Riga
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/riga/club/korpuss/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/riga/club/korpuss/)*

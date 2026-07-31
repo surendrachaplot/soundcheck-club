@@ -1,6 +1,6 @@
 # Napakee
 
-Napakee is a Techno and Electro artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at TBA - Secret Location, Berlin on Fri, 7 Aug 2026.
+Napakee is a Techno and Electro artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at TBA - Secret Location, Berlin on Fri, 7 Aug 2026.
 
 Napakee is a techno and electro artist based in South Korea, tracked on soundcheck, with 11 sets logged across Berlin, Krakow and Seoul. Often billed alongside Mogano, Forest (PL) and Minho Lee. Next up: TBA - Secret Location, Berlin on Fri 7 Aug.
 
@@ -25,4 +25,4 @@ Napakee is a techno and electro artist based in South Korea, tracked on soundche
 
 Mogano, Forest (PL), Minho Lee
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/napakee/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/napakee/)*

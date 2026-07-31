@@ -1,6 +1,6 @@
 # ZELIA
 
-ZELIA is a Techno and Trance artist with 2 upcoming club dates listed on soundcheck as of Thu, 30 Jul 2026, next at Sensorium, Berlin on Fri, 31 Jul 2026.
+ZELIA is a Techno and Trance artist with 2 upcoming club dates listed on soundcheck as of Fri, 31 Jul 2026, next at Sensorium, Berlin on Fri, 31 Jul 2026.
 
 ZELIA is a techno and trance artist based in Germany, tracked on soundcheck, with 23 sets logged across Berlin, Leipzig, Rotterdam and Vienna. Often billed alongside GEN97, LARSUS and Dollushka. Next up: Sensorium, Berlin on Fri 31 Jul.
 
@@ -26,4 +26,4 @@ ZELIA is a techno and trance artist based in Germany, tracked on soundcheck, wit
 
 GEN97, LARSUS, Dollushka
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/zelia/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/zelia/)*

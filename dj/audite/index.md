@@ -1,6 +1,6 @@
 # audite
 
-audite is a Drum & Bass and Dubstep artist with 2 upcoming club dates listed on soundcheck as of Thu, 30 Jul 2026, next at Let it Roll Festival @Lake Most, Prague on Fri, 31 Jul 2026.
+audite is a Drum & Bass and Dubstep artist with 2 upcoming club dates listed on soundcheck as of Fri, 31 Jul 2026, next at Let it Roll Festival @Lake Most, Prague on Fri, 31 Jul 2026.
 
 audite is a drum & bass and dubstep artist based in Germany, tracked on soundcheck, with 15 sets logged across Berlin, Leipzig and Prague. Often billed alongside Upzet, Aynaet and Dubbalot. Next up: Let it Roll Festival @Lake Most, Prague on Fri 31 Jul.
 
@@ -26,4 +26,4 @@ audite is a drum & bass and dubstep artist based in Germany, tracked on soundche
 
 Upzet, Aynaet, Dubbalot
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/audite/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/audite/)*

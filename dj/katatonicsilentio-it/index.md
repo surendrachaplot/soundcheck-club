@@ -1,6 +1,6 @@
 # Katatonic Silentio
 
-Katatonic Silentio is a Techno and Bass artist with 5 upcoming club dates listed on soundcheck as of Thu, 30 Jul 2026, next at Amsterdamse Bos, Amsterdam on Fri, 31 Jul 2026.
+Katatonic Silentio is a Techno and Bass artist with 5 upcoming club dates listed on soundcheck as of Fri, 31 Jul 2026, next at Amsterdamse Bos, Amsterdam on Fri, 31 Jul 2026.
 
 Katatonic Silentio is a techno and bass artist tracked on soundcheck, with 79 sets logged across Amsterdam, Barcelona, Berlin and Bristol and 18 more. Often billed alongside Stenny, Skee Mask and Odd Shy Guy. Next up: Amsterdamse Bos, Amsterdam on Fri 31 Jul.
 
@@ -29,4 +29,4 @@ Katatonic Silentio is a techno and bass artist tracked on soundcheck, with 79 se
 
 Stenny, Skee Mask, Odd Shy Guy
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/katatonicsilentio-it/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/katatonicsilentio-it/)*

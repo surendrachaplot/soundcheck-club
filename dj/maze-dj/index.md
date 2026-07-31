@@ -1,6 +1,6 @@
 # Maze DJ
 
-Maze DJ is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Thu, 30 Jul 2026, next at TILLATEC, Amsterdam on Sun, 2 Aug 2026.
+Maze DJ is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Fri, 31 Jul 2026, next at TILLATEC, Amsterdam on Sun, 2 Aug 2026.
 
 Maze DJ is a house and techno artist based in United Kingdom, tracked on soundcheck, with 24 sets logged across Amsterdam, Berlin, Hamburg and Lisbon and 4 more. Often billed alongside Marie Malarie, Michelle Manetti and 131bpm. Next up: TILLATEC, Amsterdam on Sun 2 Aug.
 
@@ -26,4 +26,4 @@ Maze DJ is a house and techno artist based in United Kingdom, tracked on soundch
 
 Marie Malarie, Michelle Manetti, 131bpm
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/maze-dj/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/maze-dj/)*

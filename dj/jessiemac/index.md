@@ -1,6 +1,6 @@
 # Jessie Mac
 
-Jessie Mac is a House and Electronica artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at Signature Brew Blackhorse Road, London on Sat, 1 Aug 2026.
+Jessie Mac is a House and Electronica artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at Signature Brew Blackhorse Road, London on Sat, 1 Aug 2026.
 
 Jessie Mac is a house and electronica artist based in United Kingdom, tracked on soundcheck, with 11 sets logged across London. Often billed alongside Benebe, Kafn and Adela. Next up: Signature Brew Blackhorse Road, London on Sat 1 Aug.
 
@@ -25,4 +25,4 @@ Jessie Mac is a house and electronica artist based in United Kingdom, tracked on
 
 Benebe, Kafn, Adela
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/jessiemac/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/jessiemac/)*

@@ -1,6 +1,6 @@
 # JJJJJerome Ellis
 
-JJJJJerome Ellis is a Experimental and Downtempo artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at Fort Mifflin, Philadelphia on Fri, 18 Sept 2026.
+JJJJJerome Ellis is a Experimental and Downtempo artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at Fort Mifflin, Philadelphia on Fri, 18 Sept 2026.
 
 JJJJJerome Ellis is an experimental and downtempo artist based in United States of America, tracked on soundcheck, with 8 sets logged across Athens, Berlin, Frankfurt and Losangeles and 3 more. Often billed alongside Batu, JASSS and Smerz. Next up: Fort Mifflin, Philadelphia on Fri 18 Sept.
 
@@ -24,4 +24,4 @@ JJJJJerome Ellis is an experimental and downtempo artist based in United States 
 
 Batu, JASSS, Smerz
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/jjjjjeromeellis/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/jjjjjeromeellis/)*

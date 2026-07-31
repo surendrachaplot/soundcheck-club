@@ -1,6 +1,6 @@
 # Shawn Dub
 
-Shawn Dub is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Thu, 30 Jul 2026, next at Locust Grove, New York City on Fri, 31 Jul 2026.
+Shawn Dub is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Fri, 31 Jul 2026, next at Locust Grove, New York City on Fri, 31 Jul 2026.
 
 Shawn Dub is a house and techno artist tracked on soundcheck, with 96 sets logged across Detroit, Miami, Montreal and Newyorkcity and 1 more. Often billed alongside Kels (US), Kels and Korie Enyard. Next up: Locust Grove, Newyorkcity on Fri 31 Jul.
 
@@ -27,4 +27,4 @@ Shawn Dub is a house and techno artist tracked on soundcheck, with 96 sets logge
 
 Kels (US), Kels, Korie Enyard
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/shawndub/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/shawndub/)*

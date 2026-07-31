@@ -1,6 +1,6 @@
 # Rafael Khan
 
-Rafael Khan is a Techno and Electro artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at Rhythm, Toronto on Wed, 5 Aug 2026.
+Rafael Khan is a Techno and Electro artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at Rhythm, Toronto on Wed, 5 Aug 2026.
 
 Rafael Khan is a techno and electro artist based in Canada, tracked on soundcheck, with 27 sets logged across Toronto. Often billed alongside Hycastle, Angelphroot and MIASALAV. Next up: Rhythm, Toronto on Wed 5 Aug.
 
@@ -25,4 +25,4 @@ Rafael Khan is a techno and electro artist based in Canada, tracked on soundchec
 
 Hycastle, Angelphroot, MIASALAV
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/rafaelkhan/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/rafaelkhan/)*

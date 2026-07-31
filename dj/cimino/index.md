@@ -1,6 +1,6 @@
 # Cimino
 
-Cimino is a Techno and IDM artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at Paraiso Estereo, Miami on Fri, 31 Jul 2026.
+Cimino is a Techno and IDM artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at Paraiso Estereo, Miami on Fri, 31 Jul 2026.
 
 Cimino is a techno and idm artist based in United States of America, tracked on soundcheck, with 9 sets logged across Miami. Often billed alongside X13F, CÛLTÛS VÎS and Low Earth Orbit. Next up: Paraiso Estereo, Miami on Fri 31 Jul.
 
@@ -25,4 +25,4 @@ Cimino is a techno and idm artist based in United States of America, tracked on 
 
 X13F, CÛLTÛS VÎS, Low Earth Orbit
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/cimino/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/cimino/)*

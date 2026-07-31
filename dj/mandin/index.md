@@ -1,6 +1,6 @@
 # MANDIN
 
-MANDIN is a House and Hip-Hop artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at Budapest Park, Budapest on Fri, 7 Aug 2026.
+MANDIN is a House and Hip-Hop artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at Budapest Park, Budapest on Fri, 7 Aug 2026.
 
 MANDIN is a house and hip-hop artist based in Hungary, tracked on soundcheck, with 19 sets logged across Budapest. Often billed alongside Ratkay, Viktor Bondar and Abrish. Next up: Budapest Park, Budapest on Fri 7 Aug.
 
@@ -25,4 +25,4 @@ MANDIN is a house and hip-hop artist based in Hungary, tracked on soundcheck, wi
 
 Ratkay, Viktor Bondar, Abrish
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/mandin/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/mandin/)*

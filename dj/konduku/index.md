@@ -1,6 +1,6 @@
 # Konduku
 
-Konduku is a Techno and House artist with 6 upcoming club dates listed on soundcheck as of Thu, 30 Jul 2026, next at Concept Haus, Manchester on Fri, 31 Jul 2026.
+Konduku is a Techno and House artist with 6 upcoming club dates listed on soundcheck as of Fri, 31 Jul 2026, next at Concept Haus, Manchester on Fri, 31 Jul 2026.
 
 Konduku is a techno and house artist tracked on soundcheck, with 162 sets logged across Amsterdam, Antwerp, Athens and Bangkok and 37 more. Often billed alongside Kia (AU), Woody92 and DJ Nobu. Next up: Concept Haus, Manchester on Fri 31 Jul.
 
@@ -30,4 +30,4 @@ Konduku is a techno and house artist tracked on soundcheck, with 162 sets logged
 
 Kia (AU), Woody92, DJ Nobu
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/konduku/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/konduku/)*

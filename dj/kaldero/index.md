@@ -1,6 +1,6 @@
 # Kaldero
 
-Kaldero is a Techno and Tech House artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at TBA - Il Mercato Centrale, Melbourne on Sat, 1 Aug 2026.
+Kaldero is a Techno and Tech House artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at TBA - Il Mercato Centrale, Melbourne on Sat, 1 Aug 2026.
 
 Kaldero is a techno and tech house artist based in Australia, tracked on soundcheck, with 4 sets logged across Melbourne. Often billed alongside JEFFE, MAIYHAUS and Benka. Next up: TBA - Il Mercato Centrale, Melbourne on Sat 1 Aug.
 
@@ -20,4 +20,4 @@ Kaldero is a techno and tech house artist based in Australia, tracked on soundch
 
 JEFFE, MAIYHAUS, Benka
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/kaldero/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/kaldero/)*

@@ -1,14 +1,13 @@
 # INPUT High Fidelity Dance Club
 
-INPUT High Fidelity Dance Club is a music venue in Barcelona with 24 upcoming nights listed on soundcheck as of Thu, 30 Jul 2026; the next is "PRISM Hard pres Cristobal Pesce" on Thu, 30 Jul 2026.
+INPUT High Fidelity Dance Club is a music venue in Barcelona with 23 upcoming nights listed on soundcheck as of Fri, 31 Jul 2026; the next is "INPUT pres Mischluft & Janis Zielinski" on Fri, 31 Jul 2026.
 
-INPUT High Fidelity Dance Club is a music venue in Barcelona listed on soundcheck. 24 upcoming nights, with line-ups including 753, Abstract Division, Adiel and Aiden (DE) and 2 more. Browse upcoming dates, start times and who's playing. Avenida de Francesc Ferrer i Guàrdia, 13-27; 08038 Barcelona; Spain.
+INPUT High Fidelity Dance Club is a music venue in Barcelona listed on soundcheck. 23 upcoming nights, with line-ups including 753, Abstract Division, Adiel and Aiden (DE) and 2 more. Browse upcoming dates, start times and who's playing. Avenida de Francesc Ferrer i Guàrdia, 13-27; 08038 Barcelona; Spain.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Thu, 30 Jul 2026 | PRISM Hard pres Cristobal Pesce | Cristobal Pesce, Rowsi |
 | Fri, 31 Jul 2026 | INPUT pres Mischluft & Janis Zielinski | CRONEKIA, Janis Zielinski, Mischluft, Nita Key |
 | Thu, 6 Aug 2026 | PRISM Hard pres AIDEN | Aiden (DE) |
 | Fri, 7 Aug 2026 | Friday - INPUT High Fidelity Club - Official Afterparty Brunch Electronik Festival w/ Rene Wise | Chlär, Hitch, Rene Wise |
@@ -18,9 +17,10 @@ INPUT High Fidelity Dance Club is a music venue in Barcelona listed on soundchec
 | Sat, 15 Aug 2026 | PRISM pres Zisko & Mac Declos | Flug, Mac Declos, Zisko |
 | Thu, 20 Aug 2026 | PRISM Hard pres Ueberrest | Ueberrest |
 | Fri, 21 Aug 2026 | INPUT pres Part Time Killer & Trancemaster Krause | Keyklau, Part Time Killer, Trancemaster Krause |
+| Sat, 22 Aug 2026 | PRISM pres Daria Kolosova | Daria Kolosova |
 
 ## Address
 
 Avenida de Francesc Ferrer i Guàrdia, 13-27; 08038 Barcelona; Spain, Barcelona
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/input-high-fidelity-dance-club/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/input-high-fidelity-dance-club/)*

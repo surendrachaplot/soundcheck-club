@@ -1,6 +1,6 @@
 # El Extravagante
 
-El Extravagante is a Downtempo and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at TBA, Barcelona on Sat, 1 Aug 2026.
+El Extravagante is a Downtempo and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at TBA, Barcelona on Sat, 1 Aug 2026.
 
 El Extravagante is a downtempo and techno artist based in Chile, tracked on soundcheck, with 8 sets logged across Barcelona, Berlin, London and Montreal. Often billed alongside Don Mescal, Mutul and ANDI.ANDEAN. Next up: TBA, Barcelona on Sat 1 Aug.
 
@@ -24,4 +24,4 @@ El Extravagante is a downtempo and techno artist based in Chile, tracked on soun
 
 Don Mescal, Mutul, ANDI.ANDEAN
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/elextravagante/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/elextravagante/)*

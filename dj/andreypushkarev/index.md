@@ -1,6 +1,6 @@
 # Andrey Pushkarev
 
-Andrey Pushkarev is a House and Minimal artist with 5 upcoming club dates listed on soundcheck as of Thu, 30 Jul 2026, next at Refuge, New York City on Sat, 1 Aug 2026.
+Andrey Pushkarev is a House and Minimal artist with 5 upcoming club dates listed on soundcheck as of Fri, 31 Jul 2026, next at Refuge, New York City on Sat, 1 Aug 2026.
 
 Andrey Pushkarev is a house and minimal artist tracked on soundcheck, with 85 sets logged across Amsterdam, Austin, Bali and Barcelona and 31 more. Often billed alongside Lola Palmer, Eli Verveine and Mihai Popoviciu. Next up: Refuge, Newyorkcity on Sat 1 Aug.
 
@@ -29,4 +29,4 @@ Andrey Pushkarev is a house and minimal artist tracked on soundcheck, with 85 se
 
 Lola Palmer, Eli Verveine, Mihai Popoviciu
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/andreypushkarev/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/andreypushkarev/)*

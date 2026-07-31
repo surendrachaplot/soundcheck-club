@@ -1,6 +1,6 @@
 # Batu
 
-Batu is a Techno and Bass artist with 5 upcoming club dates listed on soundcheck as of Thu, 30 Jul 2026, next at Spazio Cavea, Rome on Fri, 31 Jul 2026.
+Batu is a Techno and Bass artist with 5 upcoming club dates listed on soundcheck as of Fri, 31 Jul 2026, next at Spazio Cavea, Rome on Fri, 31 Jul 2026.
 
 Batu is a techno and bass artist tracked on soundcheck, with 151 sets logged across Amsterdam, Austin, Bangkok and Barcelona and 37 more. Often billed alongside Ben UFO, Verraco and CCL. Next up: Spazio Cavea, Rome on Fri 31 Jul.
 
@@ -29,4 +29,4 @@ Batu is a techno and bass artist tracked on soundcheck, with 151 sets logged acr
 
 Ben UFO, Verraco, CCL
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/batu-uk/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/batu-uk/)*

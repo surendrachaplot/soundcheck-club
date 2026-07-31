@@ -1,6 +1,6 @@
 # Hazr
 
-Hazr is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at Jardim do Èden, Lisbon on Fri, 31 Jul 2026.
+Hazr is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at Jardim do Èden, Lisbon on Fri, 31 Jul 2026.
 
 Hazr is a house and deep house artist based in United Kingdom, tracked on soundcheck, with 39 sets logged across Bristol, Lisbon and London. Often billed alongside Apple B, Velvet Velour and Hamish & Toby. Next up: Jardim do Èden, Lisbon on Fri 31 Jul.
 
@@ -25,4 +25,4 @@ Hazr is a house and deep house artist based in United Kingdom, tracked on soundc
 
 Apple B, Velvet Velour, Hamish & Toby
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/hazr/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/hazr/)*

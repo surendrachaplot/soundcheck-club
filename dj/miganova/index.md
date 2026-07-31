@@ -1,6 +1,6 @@
 # MIGANOVA
 
-MIGANOVA is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at Ku Barcelona, Barcelona on Sun, 2 Aug 2026.
+MIGANOVA is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at Ku Barcelona, Barcelona on Sun, 2 Aug 2026.
 
 MIGANOVA is a techno and house artist tracked on soundcheck, with 14 sets logged across Amsterdam, Barcelona, Berlin and Buenosaires and 4 more. Often billed alongside VITE, Till Antonio and Black Box. Next up: Ku Barcelona, Barcelona on Sun 2 Aug.
 
@@ -25,4 +25,4 @@ MIGANOVA is a techno and house artist tracked on soundcheck, with 14 sets logged
 
 VITE, Till Antonio, Black Box
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/miganova/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/miganova/)*

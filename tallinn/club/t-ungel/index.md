@@ -1,6 +1,6 @@
 # Tšungel
 
-Tšungel is a music venue in Tallinn with 5 upcoming nights listed on soundcheck as of Thu, 30 Jul 2026; the next is "Vacation Club - Kaarel Sein" on Fri, 31 Jul 2026.
+Tšungel is a music venue in Tallinn with 5 upcoming nights listed on soundcheck as of Fri, 31 Jul 2026; the next is "Vacation Club - Kaarel Sein" on Fri, 31 Jul 2026.
 
 Tšungel is a music venue in Tallinn listed on soundcheck. 5 upcoming nights, with line-ups including Charch, Fedo (UA), Katja Adrikova and Squash. Browse upcoming dates, start times and who's playing. Kopli 1, Tallinn, 10412, Harjumaa, Estonia.
 
@@ -18,4 +18,4 @@ Tšungel is a music venue in Tallinn listed on soundcheck. 5 upcoming nights, wi
 
 Kopli 1, Tallinn, 10412, Harjumaa, Estonia, Tallinn
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/tallinn/club/t-ungel/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/tallinn/club/t-ungel/)*

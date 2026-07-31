@@ -1,6 +1,6 @@
 # Groove
 
-Groove is a Techno and Ghetto Tech artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at Sensorium, Berlin on Fri, 14 Aug 2026.
+Groove is a Techno and Ghetto Tech artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at Sensorium, Berlin on Fri, 14 Aug 2026.
 
 Groove is a techno and ghetto tech artist based in Bulgaria, tracked on soundcheck, with 21 sets logged across Athens, Bangkok, Berlin and Bristol and 9 more. Often billed alongside DANI8L, ANNA and Artwork. Next up: Sensorium, Berlin on Fri 14 Aug.
 
@@ -25,4 +25,4 @@ Groove is a techno and ghetto tech artist based in Bulgaria, tracked on soundche
 
 DANI8L, ANNA, Artwork
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/groove/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/groove/)*

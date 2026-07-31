@@ -1,6 +1,6 @@
 # FLATSKY
 
-FLATSKY is a House and Bass artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at ZEROTOKYO, Tokyo on Fri, 7 Aug 2026.
+FLATSKY is a House and Bass artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at ZEROTOKYO, Tokyo on Fri, 7 Aug 2026.
 
 FLATSKY is a house and bass artist based in Japan, tracked on soundcheck, with 5 sets logged across Osaka and Tokyo. Often billed alongside SAKO, RED-S and Rikk (2). Next up: ZEROTOKYO, Tokyo on Fri 7 Aug.
 
@@ -21,4 +21,4 @@ FLATSKY is a house and bass artist based in Japan, tracked on soundcheck, with 5
 
 SAKO, RED-S, Rikk (2)
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/flatsky/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/flatsky/)*

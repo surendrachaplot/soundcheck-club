@@ -1,14 +1,13 @@
 # Hadone
 
-Hadone is a Techno and House artist with 6 upcoming club dates listed on soundcheck as of Thu, 30 Jul 2026, next at Silence Please, New York City on Thu, 30 Jul 2026.
+Hadone is a Techno and House artist with 5 upcoming club dates listed on soundcheck as of Fri, 31 Jul 2026, next at TBA - Brooklyn, New York City on Fri, 31 Jul 2026.
 
-Hadone is a techno and house artist tracked on soundcheck, with 164 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 47 more. Often billed alongside UFO95, Chlär and DC Salas. Next up: Silence Please, Newyorkcity on Thu 30 Jul.
+Hadone is a techno and house artist tracked on soundcheck, with 164 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 47 more. Often billed alongside UFO95, Chlär and DC Salas. Next up: TBA - Brooklyn, Newyorkcity on Fri 31 Jul.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Thu, 30 Jul 2026 | Silence Please | New York City |
 | Fri, 31 Jul 2026 | TBA - Brooklyn | New York City |
 | Sat, 1 Aug 2026 | TBA - Los Angeles | Los Angeles |
 | Sat, 22 Aug 2026 | Tresor / Globus | Berlin |
@@ -17,6 +16,7 @@ Hadone is a techno and house artist tracked on soundcheck, with 164 sets logged 
 
 ## Recently played
 
+- Silence Please, New York City — Thu, 30 Jul 2026
 - Smoke & Mirrors, Chicago — Fri, 24 Jul 2026
 - Fabrik, Madrid — Sat, 11 Jul 2026
 - essaim, Paris — Fri, 10 Jul 2026
@@ -24,10 +24,9 @@ Hadone is a techno and house artist tracked on soundcheck, with 164 sets logged 
 - Bassiani, Tbilisi — Fri, 3 Jul 2026
 - Razzmatazz, Barcelona — Sat, 6 Jun 2026
 - Mia Mao, Paris — Fri, 5 Jun 2026
-- TRAUM, Antwerp — Sat, 30 May 2026
 
 ## Shares bills with
 
 UFO95, Chlär, DC Salas
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/hadone/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/hadone/)*

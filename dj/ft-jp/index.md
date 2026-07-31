@@ -1,14 +1,15 @@
 # FT (JP)
 
-FT (JP) is a Bass and Jungle artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at Violetta, Tokyo on Fri, 7 Aug 2026.
+FT (JP) is a Bass and Jungle artist with 2 upcoming club dates listed on soundcheck as of Fri, 31 Jul 2026, next at Violetta, Tokyo on Fri, 7 Aug 2026.
 
-FT (JP) is a bass and jungle artist tracked on soundcheck, with 59 sets logged across Osaka, Seoul and Tokyo. Often billed alongside Blue Flower, DJ MOCHIZUKI and Guchon. Next up: Violetta, Tokyo on Fri 7 Aug.
+FT (JP) is a bass and jungle artist tracked on soundcheck, with 60 sets logged across Osaka, Seoul and Tokyo. Often billed alongside Blue Flower, DJ MOCHIZUKI and Guchon. Next up: Violetta, Tokyo on Fri 7 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 7 Aug 2026 | Violetta | Tokyo |
+| Thu, 20 Aug 2026 | Numm | Tokyo |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ FT (JP) is a bass and jungle artist tracked on soundcheck, with 59 sets logged a
 
 Blue Flower, DJ MOCHIZUKI, Guchon
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/ft-jp/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/ft-jp/)*

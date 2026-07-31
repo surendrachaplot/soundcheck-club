@@ -1,6 +1,6 @@
 # 1ol1v1a
 
-1ol1v1a is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at Honey's, New York City on Sat, 8 Aug 2026.
+1ol1v1a is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at Honey's, New York City on Sat, 8 Aug 2026.
 
 1ol1v1a is a techno and house artist based in United States of America, tracked on soundcheck, with 13 sets logged across Newyorkcity. Often billed alongside R-DNA, SEDENTARY and masha latte. Next up: Honey's, Newyorkcity on Sat 8 Aug.
 
@@ -25,4 +25,4 @@
 
 R-DNA, SEDENTARY, masha latte
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/1ol1v1a/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/1ol1v1a/)*

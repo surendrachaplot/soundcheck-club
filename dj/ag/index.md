@@ -1,6 +1,6 @@
 # A:G
 
-A:G is a House and Electro artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at Sukkerbiten, Oslo on Sat, 8 Aug 2026.
+A:G is a House and Electro artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at Sukkerbiten, Oslo on Sat, 8 Aug 2026.
 
 A:G is a house and electro artist based in Norway, tracked on soundcheck, with 11 sets logged across Oslo and Stockholm. Often billed alongside G-HA, Olanskii and Ronny Rabalder. Next up: Sukkerbiten, Oslo on Sat 8 Aug.
 
@@ -25,4 +25,4 @@ A:G is a house and electro artist based in Norway, tracked on soundcheck, with 1
 
 G-HA, Olanskii, Ronny Rabalder
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/ag/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/ag/)*

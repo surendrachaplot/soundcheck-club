@@ -1,6 +1,6 @@
 # Underground SF
 
-Underground SF is a music venue in San Francisco/Oakland with 7 upcoming nights listed on soundcheck as of Thu, 30 Jul 2026; the next is "As You Like It Unedited: All Night Rong with DJ Spun" on Fri, 31 Jul 2026.
+Underground SF is a music venue in San Francisco/Oakland with 7 upcoming nights listed on soundcheck as of Fri, 31 Jul 2026; the next is "As You Like It Unedited: All Night Rong with DJ Spun" on Fri, 31 Jul 2026.
 
 Underground SF is a music venue in Sanfrancisco listed on soundcheck. 7 upcoming nights, with line-ups including dananas, Discnogirl, DJ Audit and DJ Spun and 2 more. Browse upcoming dates, start times and who's playing. 424 Haight St, San Francisco, CA 94117, United States.
 
@@ -20,4 +20,4 @@ Underground SF is a music venue in Sanfrancisco listed on soundcheck. 7 upcoming
 
 424 Haight St, San Francisco, CA 94117, United States, San Francisco/Oakland
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/sanfrancisco/club/underground-sf/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/sanfrancisco/club/underground-sf/)*

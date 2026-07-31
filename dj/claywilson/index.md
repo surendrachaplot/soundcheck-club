@@ -1,6 +1,6 @@
 # Clay Wilson
 
-Clay Wilson is a Techno and Acid artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at Process PDX, Portland on Sat, 8 Aug 2026.
+Clay Wilson is a Techno and Acid artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at Process PDX, Portland on Sat, 8 Aug 2026.
 
 Clay Wilson is a techno and acid artist based in United States of America, tracked on soundcheck, with 7 sets logged across Detroit, Losangeles, Newyorkcity and Portland. Often billed alongside Abby Echiverri, ADAB and Aaron Davis. Next up: Process PDX, Portland on Sat 8 Aug.
 
@@ -23,4 +23,4 @@ Clay Wilson is a techno and acid artist based in United States of America, track
 
 Abby Echiverri, ADAB, Aaron Davis
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/claywilson/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/claywilson/)*

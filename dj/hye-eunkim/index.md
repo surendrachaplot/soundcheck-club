@@ -1,6 +1,6 @@
 # Hye-Eun Kim
 
-Hye-Eun Kim is a Ambient and Experimental artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at Madame Claude, Berlin on Sat, 1 Aug 2026.
+Hye-Eun Kim is a Ambient and Experimental artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at Madame Claude, Berlin on Sat, 1 Aug 2026.
 
 Hye-Eun Kim is an ambient and experimental artist based in Germany, tracked on soundcheck, with 19 sets logged across Berlin, Hamburg and Leipzig. Often billed alongside Cosmo (KR), Margaux Gazur and OneTake. Next up: Madame Claude, Berlin on Sat 1 Aug.
 
@@ -25,4 +25,4 @@ Hye-Eun Kim is an ambient and experimental artist based in Germany, tracked on s
 
 Cosmo (KR), Margaux Gazur, OneTake
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/hye-eunkim/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/hye-eunkim/)*

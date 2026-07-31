@@ -1,6 +1,6 @@
 # The Left Bank
 
-The Left Bank is a music venue in Glasgow with 6 upcoming nights listed on soundcheck as of Thu, 30 Jul 2026; the next is "Mash" on Fri, 31 Jul 2026.
+The Left Bank is a music venue in Glasgow with 6 upcoming nights listed on soundcheck as of Fri, 31 Jul 2026; the next is "Mash" on Fri, 31 Jul 2026.
 
 The Left Bank is a music venue in Glasgow listed on soundcheck. 6 upcoming nights, with line-ups including Mash. Browse upcoming dates, start times and who's playing. 33-35 Gibson St, Glasgow G12 8NU.
 
@@ -19,4 +19,4 @@ The Left Bank is a music venue in Glasgow listed on soundcheck. 6 upcoming night
 
 33-35 Gibson St, Glasgow G12 8NU, Glasgow
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/glasgow/club/the-left-bank/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/glasgow/club/the-left-bank/)*

@@ -1,6 +1,6 @@
 # Tim Fields
 
-Tim Fields is a Club and Baile Funk artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at Jolene Sound Room Brooklyn, New York City on Fri, 31 Jul 2026.
+Tim Fields is a Club and Baile Funk artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at Jolene Sound Room Brooklyn, New York City on Fri, 31 Jul 2026.
 
 Tim Fields is a club and baile funk artist based in United States of America, tracked on soundcheck, with 37 sets logged across Chicago, Newyorkcity, Philadelphia and Washingtondc. Often billed alongside Spinrillo, Nanoos and Vonnie Mack. Next up: Jolene Sound Room Brooklyn, Newyorkcity on Fri 31 Jul.
 
@@ -25,4 +25,4 @@ Tim Fields is a club and baile funk artist based in United States of America, tr
 
 Spinrillo, Nanoos, Vonnie Mack
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/timfields/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/timfields/)*

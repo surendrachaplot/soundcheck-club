@@ -1,6 +1,6 @@
 # Yuzo
 
-Yuzo is a Bass and Club artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at La Cheetah Club, Glasgow on Fri, 7 Aug 2026.
+Yuzo is a Bass and Club artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at La Cheetah Club, Glasgow on Fri, 7 Aug 2026.
 
 Yuzo is a bass and club artist based in South Korea, tracked on soundcheck, with 48 sets logged across Copenhagen, Edinburgh, Glasgow and Hongkong and 1 more. Often billed alongside Zion, Xena (KR) and FAKEDEEPLEE. Next up: La Cheetah Club, Glasgow on Fri 7 Aug.
 
@@ -25,4 +25,4 @@ Yuzo is a bass and club artist based in South Korea, tracked on soundcheck, with
 
 Zion, Xena (KR), FAKEDEEPLEE
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/yuzo/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/yuzo/)*

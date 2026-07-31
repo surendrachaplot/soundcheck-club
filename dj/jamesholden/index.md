@@ -1,6 +1,6 @@
 # James Holden
 
-James Holden is a Experimental and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at Amsterdamse Bos, Amsterdam on Fri, 31 Jul 2026.
+James Holden is a Experimental and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at Amsterdamse Bos, Amsterdam on Fri, 31 Jul 2026.
 
 James Holden is an experimental and techno artist based in United Kingdom, tracked on soundcheck, with 41 sets logged across Amsterdam, Barcelona, Berlin and Birmingham and 16 more. Often billed alongside Waclaw Zimpel, Christian AB and Ogazón. Next up: Amsterdamse Bos, Amsterdam on Fri 31 Jul.
 
@@ -25,4 +25,4 @@ James Holden is an experimental and techno artist based in United Kingdom, track
 
 Waclaw Zimpel, Christian AB, Ogazón
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/jamesholden/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/jamesholden/)*

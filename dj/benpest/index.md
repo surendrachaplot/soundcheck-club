@@ -1,6 +1,6 @@
 # Ben Pest
 
-Ben Pest is a Techno and Electro artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at Moon Club, Bristol on Fri, 11 Sept 2026.
+Ben Pest is a Techno and Electro artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at Moon Club, Bristol on Fri, 11 Sept 2026.
 
 Ben Pest is a techno and electro artist tracked on soundcheck, with 38 sets logged across Athens, Barcelona, Berlin and Birmingham and 10 more. Often billed alongside Jerome Hill, ARA-U and Fear-E. Next up: Moon Club, Bristol on Fri 11 Sept.
 
@@ -25,4 +25,4 @@ Ben Pest is a techno and electro artist tracked on soundcheck, with 38 sets logg
 
 Jerome Hill, ARA-U, Fear-E
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/benpest/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/benpest/)*

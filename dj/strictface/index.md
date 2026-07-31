@@ -1,6 +1,6 @@
 # Strict Face
 
-Strict Face is a Bass and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at Milneys, Melbourne on Fri, 7 Aug 2026.
+Strict Face is a Bass and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at Milneys, Melbourne on Fri, 7 Aug 2026.
 
 Strict Face is a bass and techno artist based in Australia, tracked on soundcheck, with 10 sets logged across Brisbane, Melbourne, Seoul and Sydney. Often billed alongside FOURA, Swick and Alec Sander. Next up: Milneys, Melbourne on Fri 7 Aug.
 
@@ -25,4 +25,4 @@ Strict Face is a bass and techno artist based in Australia, tracked on soundchec
 
 FOURA, Swick, Alec Sander
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/strictface/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/strictface/)*

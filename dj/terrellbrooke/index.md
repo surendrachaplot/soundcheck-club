@@ -1,6 +1,6 @@
 # Terrell Brooke
 
-Terrell Brooke is a House and Club artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at The Broken Shaker Los Angeles, Los Angeles on Sun, 2 Aug 2026.
+Terrell Brooke is a House and Club artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at The Broken Shaker Los Angeles, Los Angeles on Sun, 2 Aug 2026.
 
 Terrell Brooke is a house and club artist based in United States of America, tracked on soundcheck, with 51 sets logged across Detroit, Losangeles and Newyorkcity. Often billed alongside BODII, NEPTUNEWAVEY and baby.com. Next up: The Broken Shaker Los Angeles, Losangeles on Sun 2 Aug.
 
@@ -25,4 +25,4 @@ Terrell Brooke is a house and club artist based in United States of America, tra
 
 BODII, NEPTUNEWAVEY, baby.com
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/terrellbrooke/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/terrellbrooke/)*

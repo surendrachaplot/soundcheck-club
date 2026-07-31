@@ -1,6 +1,6 @@
 # Mykey (2)
 
-Mykey (2) is a Bass and Techno artist with 3 upcoming club dates listed on soundcheck as of Thu, 30 Jul 2026, next at VENT, Tokyo on Sat, 1 Aug 2026.
+Mykey (2) is a Bass and Techno artist with 3 upcoming club dates listed on soundcheck as of Fri, 31 Jul 2026, next at VENT, Tokyo on Sat, 1 Aug 2026.
 
 Mykey (2) is a bass and techno artist based in Japan, tracked on soundcheck, with 27 sets logged across Berlin and Tokyo. Often billed alongside Leefia, Ozwick and Kodai. Next up: VENT, Tokyo on Sat 1 Aug.
 
@@ -27,4 +27,4 @@ Mykey (2) is a bass and techno artist based in Japan, tracked on soundcheck, wit
 
 Leefia, Ozwick, Kodai
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/mykey-2/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/mykey-2/)*

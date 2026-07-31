@@ -1,6 +1,6 @@
 # ELSA (UK)
 
-ELSA (UK) is a Breakbeat and R&B artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at Freight Brixton, London on Thu, 15 Oct 2026.
+ELSA (UK) is a Breakbeat and R&B artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at Freight Brixton, London on Thu, 15 Oct 2026.
 
 ELSA (UK) is a breakbeat and r&b artist tracked on soundcheck, with 7 sets logged across London and Manchester. Often billed alongside 96 Back, ASJ and Akiko Haruna. Next up: Freight Brixton, London on Thu 15 Oct.
 
@@ -23,4 +23,4 @@ ELSA (UK) is a breakbeat and r&b artist tracked on soundcheck, with 7 sets logge
 
 96 Back, ASJ, Akiko Haruna
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/elsa-uk/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/elsa-uk/)*

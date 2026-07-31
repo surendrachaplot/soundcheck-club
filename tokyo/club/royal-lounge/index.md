@@ -1,14 +1,13 @@
 # Royal Lounge
 
-Royal Lounge is a music venue in Tokyo with 4 upcoming nights listed on soundcheck as of Thu, 30 Jul 2026; the next is "BITE" on Thu, 30 Jul 2026.
+Royal Lounge is a music venue in Tokyo with 3 upcoming nights listed on soundcheck as of Fri, 31 Jul 2026; the next is "ROYAL FLYDAY" on Fri, 31 Jul 2026.
 
-Royal Lounge is a music venue in Tokyo listed on soundcheck. 4 upcoming nights, with line-ups including ARISA, AYNA, KAIKAI and Makito and 2 more. Browse upcoming dates, start times and who's playing. 10F QPRAZA HARAJUKU, 6-28-6, JINGUUMAE, SHIBUYA-KU, Tokyo, 150-0001.
+Royal Lounge is a music venue in Tokyo listed on soundcheck. 3 upcoming nights, with line-ups including ARISA, AYNA, KAIKAI and Makito and 2 more. Browse upcoming dates, start times and who's playing. 10F QPRAZA HARAJUKU, 6-28-6, JINGUUMAE, SHIBUYA-KU, Tokyo, 150-0001.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Thu, 30 Jul 2026 | BITE | Ruki, YAMAG |
 | Fri, 31 Jul 2026 | ROYAL FLYDAY | AYNA, Makito, YANA, Yuuki |
 | Mon, 3 Aug 2026 | Royal Lounge | KAIKAI, Nao.Ichikawa, SIGNAL (JP) |
 | Sat, 8 Aug 2026 | Dagens slut | ARISA, SIGNAL (JP), Torus, Yume (JP) |
@@ -17,4 +16,4 @@ Royal Lounge is a music venue in Tokyo listed on soundcheck. 4 upcoming nights, 
 
 10F QPRAZA HARAJUKU, 6-28-6, JINGUUMAE, SHIBUYA-KU, Tokyo, 150-0001, Tokyo
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/royal-lounge/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/royal-lounge/)*

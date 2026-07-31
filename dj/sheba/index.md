@@ -1,6 +1,6 @@
 # SHEBA
 
-SHEBA is a Techno and Hip-Hop artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at Whammy Bar, Auckland on Fri, 31 Jul 2026.
+SHEBA is a Techno and Hip-Hop artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at Whammy Bar, Auckland on Fri, 31 Jul 2026.
 
 SHEBA is a techno and hip-hop artist based in United States of America, tracked on soundcheck, with 3 sets logged across Auckland and Newyorkcity. Often billed alongside DJ Audit, Left Hand Loz and Lil Zé. Next up: Whammy Bar, Auckland on Fri 31 Jul.
 
@@ -19,4 +19,4 @@ SHEBA is a techno and hip-hop artist based in United States of America, tracked 
 
 DJ Audit, Left Hand Loz, Lil Zé
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/sheba/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/sheba/)*

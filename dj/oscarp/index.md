@@ -1,6 +1,6 @@
 # Oscar P
 
-Oscar P is a House and Afro House artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at The Ohana, San Diego on Sat, 1 Aug 2026.
+Oscar P is a House and Afro House artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at The Ohana, San Diego on Sat, 1 Aug 2026.
 
 Oscar P is a house and afro house artist based in United States of America, tracked on soundcheck, with 45 sets logged across Detroit, Losangeles, Miami and Newyorkcity and 4 more. Often billed alongside Terry Jasinto, Cris Herrera and Mr Wright. Next up: The Ohana, Sandiego on Sat 1 Aug.
 
@@ -25,4 +25,4 @@ Oscar P is a house and afro house artist based in United States of America, trac
 
 Terry Jasinto, Cris Herrera, Mr Wright
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/oscarp/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/oscarp/)*

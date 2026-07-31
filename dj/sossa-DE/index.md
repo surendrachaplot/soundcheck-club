@@ -1,6 +1,6 @@
 # søssa
 
-søssa is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at ÆDEN, Berlin on Sun, 23 Aug 2026.
+søssa is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at ÆDEN, Berlin on Sun, 23 Aug 2026.
 
 søssa is a techno and house artist based in Germany, tracked on soundcheck, with 7 sets logged across Berlin. Often billed alongside No Auer, arbër and Annyrock. Next up: ÆDEN, Berlin on Sun 23 Aug.
 
@@ -23,4 +23,4 @@ søssa is a techno and house artist based in Germany, tracked on soundcheck, wit
 
 No Auer, arbër, Annyrock
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/sossa-DE/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/sossa-DE/)*

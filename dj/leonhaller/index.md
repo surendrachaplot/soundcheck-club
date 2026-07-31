@@ -1,6 +1,6 @@
 # Leon Haller
 
-Leon Haller is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at Bahnwärter Thiel, Munich on Fri, 21 Aug 2026.
+Leon Haller is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at Bahnwärter Thiel, Munich on Fri, 21 Aug 2026.
 
 Leon Haller is a techno and house artist tracked on soundcheck, with 62 sets logged across Berlin, Munich, Stuttgart and Vienna. Often billed alongside Louis EMP, MRTI and Alicea. Next up: Bahnwärter Thiel, Munich on Fri 21 Aug.
 
@@ -25,4 +25,4 @@ Leon Haller is a techno and house artist tracked on soundcheck, with 62 sets log
 
 Louis EMP, MRTI, Alicea
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/leonhaller/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/leonhaller/)*

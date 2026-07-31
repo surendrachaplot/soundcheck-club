@@ -1,6 +1,6 @@
 # Echonomist
 
-Echonomist is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Thu, 30 Jul 2026, next at fabric, London on Sat, 1 Aug 2026.
+Echonomist is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Fri, 31 Jul 2026, next at fabric, London on Sat, 1 Aug 2026.
 
 Echonomist is a house and techno artist tracked on soundcheck, with 118 sets logged across Amsterdam, Antwerp, Athens and Bangkok and 34 more. Often billed alongside Jenia Tarsol, Avangart Tabldot and Hardt Antoine. Next up: fabric, London on Sat 1 Aug.
 
@@ -27,4 +27,4 @@ Echonomist is a house and techno artist tracked on soundcheck, with 118 sets log
 
 Jenia Tarsol, Avangart Tabldot, Hardt Antoine
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/echonomist/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/echonomist/)*

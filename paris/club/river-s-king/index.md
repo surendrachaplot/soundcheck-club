@@ -1,6 +1,6 @@
 # River's King
 
-River's King is a music venue in Paris with 6 upcoming nights listed on soundcheck as of Thu, 30 Jul 2026; the next is "DISCO DISCO CROISIÈRE: Maabdi, Radio Paradis" on Tue, 4 Aug 2026.
+River's King is a music venue in Paris with 6 upcoming nights listed on soundcheck as of Fri, 31 Jul 2026; the next is "DISCO DISCO CROISIÈRE: Maabdi, Radio Paradis" on Tue, 4 Aug 2026.
 
 River's King is a music venue in Paris listed on soundcheck. 6 upcoming nights, with line-ups including Donna Gibson, Dusty Fingers, Fip Squad and Young Pulse. Browse upcoming dates, start times and who's playing. 4 Quai Saint-Bernard, 75005 Paris, France.
 
@@ -19,4 +19,4 @@ River's King is a music venue in Paris listed on soundcheck. 6 upcoming nights, 
 
 4 Quai Saint-Bernard, 75005 Paris, France, Paris
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/paris/club/river-s-king/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/paris/club/river-s-king/)*

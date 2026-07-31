@@ -1,6 +1,6 @@
 # Galen Allan
 
-Galen Allan is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at Fortune Sound Club, Vancouver on Fri, 31 Jul 2026.
+Galen Allan is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at Fortune Sound Club, Vancouver on Fri, 31 Jul 2026.
 
 Galen Allan is a house and disco artist based in Canada, tracked on soundcheck, with 14 sets logged across Vancouver. Often billed alongside DJ Seinfeld, Donna Crooner and Donna Dada. Next up: Fortune Sound Club, Vancouver on Fri 31 Jul.
 
@@ -25,4 +25,4 @@ Galen Allan is a house and disco artist based in Canada, tracked on soundcheck, 
 
 DJ Seinfeld, Donna Crooner, Donna Dada
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/galenallan/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/galenallan/)*

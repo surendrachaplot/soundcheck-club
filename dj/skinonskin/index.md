@@ -1,8 +1,8 @@
 # Skin On Skin
 
-Skin On Skin is a Techno and House artist with 15 upcoming club dates listed on soundcheck as of Thu, 30 Jul 2026, next at Amsterdamse Bos, Amsterdam on Fri, 31 Jul 2026.
+Skin On Skin is a Techno and House artist with 16 upcoming club dates listed on soundcheck as of Fri, 31 Jul 2026, next at Amsterdamse Bos, Amsterdam on Fri, 31 Jul 2026.
 
-Skin On Skin is a techno and house artist tracked on soundcheck, with 128 sets logged across Aberdeen, Amsterdam, Antwerp and Auckland and 51 more. Often billed alongside KETTAMA, Mall Grab and CRUSH3d. Next up: Amsterdamse Bos, Amsterdam on Fri 31 Jul.
+Skin On Skin is a techno and house artist tracked on soundcheck, with 129 sets logged across Aberdeen, Amsterdam, Antwerp and Auckland and 51 more. Often billed alongside KETTAMA, Mall Grab and CRUSH3d. Next up: Amsterdamse Bos, Amsterdam on Fri 31 Jul.
 
 ## Upcoming shows
 
@@ -16,10 +16,10 @@ Skin On Skin is a techno and house artist tracked on soundcheck, with 128 sets l
 | Sat, 8 Aug 2026 | RSO.BERLIN | Berlin |
 | Wed, 12 Aug 2026 | Gianpula Village | Malta |
 | Fri, 4 Sept 2026 | Union Park | Chicago |
+| Sat, 5 Sept 2026 | TBA | Toronto |
 | Sat, 12 Sept 2026 | TBA | Washington DC |
 | Fri, 25 Sept 2026 | The Warehouse | Leeds |
 | Fri, 2 Oct 2026 | Cité du Cinéma | Paris |
-| Sat, 10 Oct 2026 | Depot Mayfield | Manchester |
 
 ## Recently played
 
@@ -36,4 +36,4 @@ Skin On Skin is a techno and house artist tracked on soundcheck, with 128 sets l
 
 KETTAMA, Mall Grab, CRUSH3d
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/skinonskin/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/skinonskin/)*

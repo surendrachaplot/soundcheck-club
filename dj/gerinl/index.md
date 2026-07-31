@@ -1,6 +1,6 @@
 # geri (NL)
 
-geri (NL) is a Bass and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at De Fik Garden, Amsterdam on Fri, 31 Jul 2026.
+geri (NL) is a Bass and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at De Fik Garden, Amsterdam on Fri, 31 Jul 2026.
 
 geri (NL) is a bass and techno artist based in Netherlands, tracked on soundcheck, with 10 sets logged across Amsterdam. Often billed alongside Hervé, Axefield and Crinkhoff. Next up: De Fik Garden, Amsterdam on Fri 31 Jul.
 
@@ -25,4 +25,4 @@ geri (NL) is a bass and techno artist based in Netherlands, tracked on soundchec
 
 Hervé, Axefield, Crinkhoff
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/gerinl/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/gerinl/)*

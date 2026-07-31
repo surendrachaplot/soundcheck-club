@@ -1,6 +1,6 @@
 # Rexton
 
-Rexton is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at B2 Rīga, Riga on Sat, 8 Aug 2026.
+Rexton is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at B2 Rīga, Riga on Sat, 8 Aug 2026.
 
 Rexton is a house and techno artist based in Latvia, tracked on soundcheck, with 16 sets logged across Riga. Often billed alongside Kapusta, Nicolas Barnes and Tony (LV). Next up: B2 Rīga, Riga on Sat 8 Aug.
 
@@ -25,4 +25,4 @@ Rexton is a house and techno artist based in Latvia, tracked on soundcheck, with
 
 Kapusta, Nicolas Barnes, Tony (LV)
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/rexton/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/rexton/)*

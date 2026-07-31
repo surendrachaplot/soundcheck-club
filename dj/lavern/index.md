@@ -1,6 +1,6 @@
 # LAVERN
 
-LAVERN is a House and Tech House artist with 3 upcoming club dates listed on soundcheck as of Thu, 30 Jul 2026, next at Westlight Rooftop at The William Vale, New York City on Fri, 21 Aug 2026.
+LAVERN is a House and Tech House artist with 3 upcoming club dates listed on soundcheck as of Fri, 31 Jul 2026, next at Westlight Rooftop at The William Vale, New York City on Fri, 21 Aug 2026.
 
 LAVERN is a house and tech house artist tracked on soundcheck, with 48 sets logged across Austin, Boston, Brisbane and Budapest and 21 more. Often billed alongside Martin Garrix, Black Tiger Sex Machine and Bou (UK). Next up: Westlight Rooftop at The William Vale, Newyorkcity on Fri 21 Aug.
 
@@ -27,4 +27,4 @@ LAVERN is a house and tech house artist tracked on soundcheck, with 48 sets logg
 
 Martin Garrix, Black Tiger Sex Machine, Bou (UK)
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/lavern/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/lavern/)*

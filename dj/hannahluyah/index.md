@@ -1,6 +1,6 @@
 # HannahLuyah
 
-HannahLuyah is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at Almar Beach Club, Barcelona on Sun, 2 Aug 2026.
+HannahLuyah is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at Almar Beach Club, Barcelona on Sun, 2 Aug 2026.
 
 HannahLuyah is a house and disco artist based in United States of America, tracked on soundcheck, with 52 sets logged across Barcelona and London. Often billed alongside Better Late, Hanakito and Simon Boulind. Next up: Almar Beach Club, Barcelona on Sun 2 Aug.
 
@@ -25,4 +25,4 @@ HannahLuyah is a house and disco artist based in United States of America, track
 
 Better Late, Hanakito, Simon Boulind
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/hannahluyah/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/hannahluyah/)*

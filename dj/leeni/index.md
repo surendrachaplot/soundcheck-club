@@ -1,6 +1,6 @@
 # LEENI
 
-LEENI is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Thu, 30 Jul 2026, next at Distillery, Leipzig on Sat, 22 Aug 2026.
+LEENI is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Fri, 31 Jul 2026, next at Distillery, Leipzig on Sat, 22 Aug 2026.
 
 LEENI is a techno and house artist tracked on soundcheck, with 79 sets logged across Berlin, Cologne, Frankfurt and Hamburg and 5 more. Often billed alongside Danilo Kupfernagel, Mollono.Bass and Falke. Next up: Distillery, Leipzig on Sat 22 Aug.
 
@@ -27,4 +27,4 @@ LEENI is a techno and house artist tracked on soundcheck, with 79 sets logged ac
 
 Danilo Kupfernagel, Mollono.Bass, Falke
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/leeni/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/leeni/)*

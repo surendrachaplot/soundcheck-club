@@ -1,6 +1,6 @@
 # Wasn & Wunderwaffel
 
-Wasn & Wunderwaffel is a Techno and Italo Disco artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at ://about blank, Berlin on Sat, 1 Aug 2026.
+Wasn & Wunderwaffel is a Techno and Italo Disco artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at ://about blank, Berlin on Sat, 1 Aug 2026.
 
 Wasn & Wunderwaffel are a techno and italo disco duo based in Germany, tracked on soundcheck, with 14 sets logged across Berlin. Often billed alongside Anja Zaube, Barbara Hofmann and Hang Aoki. Next up: ://about blank, Berlin on Sat 1 Aug.
 
@@ -25,4 +25,4 @@ Wasn & Wunderwaffel are a techno and italo disco duo based in Germany, tracked o
 
 Anja Zaube, Barbara Hofmann, Hang Aoki
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/wasnwunderwaffel/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/wasnwunderwaffel/)*

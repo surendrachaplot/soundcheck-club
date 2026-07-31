@@ -1,6 +1,6 @@
 # GIZZI
 
-GIZZI is a Techno artist with 2 upcoming club dates listed on soundcheck as of Thu, 30 Jul 2026, next at Gaffe, London on Sat, 8 Aug 2026.
+GIZZI is a Techno artist with 2 upcoming club dates listed on soundcheck as of Fri, 31 Jul 2026, next at Gaffe, London on Sat, 8 Aug 2026.
 
 GIZZI is a techno artist based in United Kingdom, tracked on soundcheck, with 19 sets logged across London. Often billed alongside James Harbrecht, Ylia (UK) and H Grade. Next up: Gaffe, London on Sat 8 Aug.
 
@@ -26,4 +26,4 @@ GIZZI is a techno artist based in United Kingdom, tracked on soundcheck, with 19
 
 James Harbrecht, Ylia (UK), H Grade
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/gizzi-uk/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/gizzi-uk/)*

@@ -1,6 +1,6 @@
 # Keykey
 
-Keykey is a Trance and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at Toffler, Rotterdam on Fri, 14 Aug 2026.
+Keykey is a Trance and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at Toffler, Rotterdam on Fri, 14 Aug 2026.
 
 Keykey is a trance and techno artist based in Netherlands, tracked on soundcheck, with 4 sets logged across Amsterdam, Rotterdam and Utrecht. Often billed alongside Azzurro, BISOUX and BLNK. Next up: Toffler, Rotterdam on Fri 14 Aug.
 
@@ -20,4 +20,4 @@ Keykey is a trance and techno artist based in Netherlands, tracked on soundcheck
 
 Azzurro, BISOUX, BLNK
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/keykey/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/keykey/)*

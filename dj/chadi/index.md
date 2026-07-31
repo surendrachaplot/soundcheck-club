@@ -1,6 +1,6 @@
 # Chadi
 
-Chadi is a House and Electro artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at Almar Beach Club, Barcelona on Sat, 1 Aug 2026.
+Chadi is a House and Electro artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at Almar Beach Club, Barcelona on Sat, 1 Aug 2026.
 
 Chadi is a house and electro artist based in France, tracked on soundcheck, with 8 sets logged across Barcelona. Often billed alongside Alex Garcia (2), Antoine Sy and Bassam. Next up: Almar Beach Club, Barcelona on Sat 1 Aug.
 
@@ -24,4 +24,4 @@ Chadi is a house and electro artist based in France, tracked on soundcheck, with
 
 Alex Garcia (2), Antoine Sy, Bassam
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/chadi/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/chadi/)*

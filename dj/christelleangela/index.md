@@ -1,6 +1,6 @@
 # Christelle Angela
 
-Christelle Angela is a Techno and Tech House artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at Village du Soir, Geneva on Fri, 31 Jul 2026.
+Christelle Angela is a Techno and Tech House artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at Village du Soir, Geneva on Fri, 31 Jul 2026.
 
 Christelle Angela is a techno and tech house artist based in Switzerland, tracked on soundcheck, with 2 sets logged across Geneva. Often billed alongside HUGOAT, Sad Paco and ANouch. Next up: Village du Soir, Geneva on Fri 31 Jul.
 
@@ -18,4 +18,4 @@ Christelle Angela is a techno and tech house artist based in Switzerland, tracke
 
 HUGOAT, Sad Paco, ANouch
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/christelleangela/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/christelleangela/)*

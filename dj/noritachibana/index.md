@@ -1,6 +1,6 @@
 # Noritachibana
 
-Noritachibana is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at Heavy Sick Zero, Tokyo on Fri, 31 Jul 2026.
+Noritachibana is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at Heavy Sick Zero, Tokyo on Fri, 31 Jul 2026.
 
 Noritachibana is a techno and house artist based in Japan, tracked on soundcheck, with 23 sets logged across Tokyo. Often billed alongside Gojitmal, Sojourna and Yokote Acid. Next up: Heavy Sick Zero, Tokyo on Fri 31 Jul.
 
@@ -25,4 +25,4 @@ Noritachibana is a techno and house artist based in Japan, tracked on soundcheck
 
 Gojitmal, Sojourna, Yokote Acid
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/noritachibana/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/noritachibana/)*

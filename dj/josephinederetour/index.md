@@ -1,6 +1,6 @@
 # Joséphine de Retour
 
-Joséphine de Retour is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at Kater, Berlin on Fri, 21 Aug 2026.
+Joséphine de Retour is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at Kater, Berlin on Fri, 21 Aug 2026.
 
 Joséphine de Retour is a techno and house artist tracked on soundcheck, with 25 sets logged across Barcelona, Basel, Berlin and Istanbul and 1 more. Often billed alongside Britta Arnold, Chris Schwarzwälder and Peter Schumann. Next up: Kater, Berlin on Fri 21 Aug.
 
@@ -25,4 +25,4 @@ Joséphine de Retour is a techno and house artist tracked on soundcheck, with 25
 
 Britta Arnold, Chris Schwarzwälder, Peter Schumann
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/josephinederetour/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/josephinederetour/)*

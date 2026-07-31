@@ -1,6 +1,6 @@
 # Jan Nedved
 
-Jan Nedved is a House artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at Pontoon Budapest, Budapest on Sun, 2 Aug 2026.
+Jan Nedved is a House artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at Pontoon Budapest, Budapest on Sun, 2 Aug 2026.
 
 Jan Nedved is a house artist based in Czech Republic, tracked on soundcheck, with 19 sets logged across Budapest and Prague. Often billed alongside ASCENDER, ANESI and Agettro. Next up: Pontoon Budapest, Budapest on Sun 2 Aug.
 
@@ -25,4 +25,4 @@ Jan Nedved is a house artist based in Czech Republic, tracked on soundcheck, wit
 
 ASCENDER, ANESI, Agettro
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/jannedved/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/jannedved/)*

@@ -1,6 +1,6 @@
 # Halo Y
 
-Halo Y is a Minimal and Tech House artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at Mastak, Warsaw on Sun, 9 Aug 2026.
+Halo Y is a Minimal and Tech House artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at Mastak, Warsaw on Sun, 9 Aug 2026.
 
 Halo Y is a minimal and tech house artist based in Germany, tracked on soundcheck, with 13 sets logged across Warsaw. Often billed alongside Inhaberin (2), Nana_k and Dzimir. Next up: Mastak, Warsaw on Sun 9 Aug.
 
@@ -25,4 +25,4 @@ Halo Y is a minimal and tech house artist based in Germany, tracked on soundchec
 
 Inhaberin (2), Nana_k, Dzimir
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/haloy/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/haloy/)*

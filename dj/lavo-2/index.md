@@ -1,6 +1,6 @@
 # LAVO (2)
 
-LAVO (2) is a Deep House and House artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at Prater Vienna, Vienna on Fri, 31 Jul 2026.
+LAVO (2) is a Deep House and House artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at Prater Vienna, Vienna on Fri, 31 Jul 2026.
 
 LAVO (2) is a deep house and house artist tracked on soundcheck, with 6 sets logged across Barcelona and Vienna. Often billed alongside Fede Frostl, Tash and ALOT. Next up: Prater Vienna, Vienna on Fri 31 Jul.
 
@@ -22,4 +22,4 @@ LAVO (2) is a deep house and house artist tracked on soundcheck, with 6 sets log
 
 Fede Frostl, Tash, ALOT
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/lavo-2/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/lavo-2/)*

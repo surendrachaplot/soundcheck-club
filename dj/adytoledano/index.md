@@ -1,6 +1,6 @@
 # Ady Toledano
 
-Ady Toledano is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at CLUB OST & RENATE BERLIN, Berlin on Fri, 21 Aug 2026.
+Ady Toledano is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at CLUB OST & RENATE BERLIN, Berlin on Fri, 21 Aug 2026.
 
 Ady Toledano is a house and techno artist tracked on soundcheck, with 58 sets logged across Berlin, Copenhagen, Newyorkcity and Paris. Often billed alongside Juan Ramos, Frozilla and Johannes Albert. Next up: CLUB OST & RENATE BERLIN, Berlin on Fri 21 Aug.
 
@@ -25,4 +25,4 @@ Ady Toledano is a house and techno artist tracked on soundcheck, with 58 sets lo
 
 Juan Ramos, Frozilla, Johannes Albert
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/adytoledano/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/adytoledano/)*

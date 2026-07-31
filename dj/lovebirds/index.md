@@ -1,6 +1,6 @@
 # Lovebirds
 
-Lovebirds is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at The Old Queens Head, London on Sun, 30 Aug 2026.
+Lovebirds is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at The Old Queens Head, London on Sun, 30 Aug 2026.
 
 Lovebirds is a house and disco artist based in Germany, tracked on soundcheck, with 33 sets logged across Bali, Berlin, Ibiza and Istanbul and 6 more. Often billed alongside Alexis Raphael, Carl Craig and DJ Holographic. Next up: The Old Queens Head, London on Sun 30 Aug.
 
@@ -25,4 +25,4 @@ Lovebirds is a house and disco artist based in Germany, tracked on soundcheck, w
 
 Alexis Raphael, Carl Craig, DJ Holographic
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/lovebirds/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/lovebirds/)*

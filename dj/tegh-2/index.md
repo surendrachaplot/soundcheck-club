@@ -1,6 +1,6 @@
 # TEGH (2)
 
-TEGH (2) is a Club and House artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at Arcana, San Francisco/Oakland on Fri, 7 Aug 2026.
+TEGH (2) is a Club and House artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at Arcana, San Francisco/Oakland on Fri, 7 Aug 2026.
 
 TEGH (2) is a club and house artist based in United States of America, tracked on soundcheck, with 16 sets logged across Sanfrancisco. Often billed alongside Profesito, QUEENIE (US) and Sánlo. Next up: Arcana, Sanfrancisco on Fri 7 Aug.
 
@@ -25,4 +25,4 @@ TEGH (2) is a club and house artist based in United States of America, tracked o
 
 Profesito, QUEENIE (US), Sánlo
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/tegh-2/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/tegh-2/)*

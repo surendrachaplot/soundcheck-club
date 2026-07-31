@@ -1,6 +1,6 @@
 # Jon E Cash
 
-Jon E Cash is a Afro House and Bass artist with 2 upcoming club dates listed on soundcheck as of Thu, 30 Jul 2026, next at Rolling Stock, London on Sat, 8 Aug 2026.
+Jon E Cash is a Afro House and Bass artist with 2 upcoming club dates listed on soundcheck as of Fri, 31 Jul 2026, next at Rolling Stock, London on Sat, 8 Aug 2026.
 
 Jon E Cash is an afro house and bass artist based in United Kingdom, tracked on soundcheck, with 11 sets logged across London. Often billed alongside L&F, Bobby Davis and Gavin Wilson. Next up: Rolling Stock, London on Sat 8 Aug.
 
@@ -26,4 +26,4 @@ Jon E Cash is an afro house and bass artist based in United Kingdom, tracked on 
 
 L&F, Bobby Davis, Gavin Wilson
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/jonecash/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/jonecash/)*

@@ -1,6 +1,6 @@
 # RUNDR
 
-RUNDR is a Jungle and Drum & Bass artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at Ormside Projects, London on Fri, 7 Aug 2026.
+RUNDR is a Jungle and Drum & Bass artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at Ormside Projects, London on Fri, 7 Aug 2026.
 
 RUNDR is a jungle and drum & bass artist tracked on soundcheck, with 18 sets logged across Brighton and London. Often billed alongside Decibella, Sicknote and Law (2). Next up: Ormside Projects, London on Fri 7 Aug.
 
@@ -25,4 +25,4 @@ RUNDR is a jungle and drum & bass artist tracked on soundcheck, with 18 sets log
 
 Decibella, Sicknote, Law (2)
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/rundr/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/rundr/)*

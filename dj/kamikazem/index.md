@@ -1,6 +1,6 @@
 # KAMIKAZEM
 
-KAMIKAZEM is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at Culture Box, Copenhagen on Sat, 1 Aug 2026.
+KAMIKAZEM is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at Culture Box, Copenhagen on Sat, 1 Aug 2026.
 
 KAMIKAZEM is a techno and house artist based in Denmark, tracked on soundcheck, with 6 sets logged across Copenhagen. Often billed alongside Thiim, Cakebutcher and Mëtro. Next up: Culture Box, Copenhagen on Sat 1 Aug.
 
@@ -22,4 +22,4 @@ KAMIKAZEM is a techno and house artist based in Denmark, tracked on soundcheck, 
 
 Thiim, Cakebutcher, Mëtro
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/kamikazem/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/kamikazem/)*

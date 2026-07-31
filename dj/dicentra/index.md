@@ -1,6 +1,6 @@
 # Dicentra
 
-Dicentra is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at Club Phoenix - Gianpula Village, Malta on Sat, 29 Aug 2026.
+Dicentra is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at Club Phoenix - Gianpula Village, Malta on Sat, 29 Aug 2026.
 
 Dicentra is a techno and trance artist based in Malta, tracked on soundcheck, with 12 sets logged across Malta. Often billed alongside NEVYALC, Scythe and VRDKT. Next up: Club Phoenix - Gianpula Village, Malta on Sat 29 Aug.
 
@@ -25,4 +25,4 @@ Dicentra is a techno and trance artist based in Malta, tracked on soundcheck, wi
 
 NEVYALC, Scythe, VRDKT
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/dicentra/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/dicentra/)*

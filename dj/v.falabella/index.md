@@ -1,6 +1,6 @@
 # V.Falabella
 
-V.Falabella is a Psytrance and Trance artist with 2 upcoming club dates listed on soundcheck as of Thu, 30 Jul 2026, next at SEL OCTAGON TOKYO, Tokyo on Fri, 31 Jul 2026.
+V.Falabella is a Psytrance and Trance artist with 2 upcoming club dates listed on soundcheck as of Fri, 31 Jul 2026, next at SEL OCTAGON TOKYO, Tokyo on Fri, 31 Jul 2026.
 
 V.Falabella is a psytrance and trance artist based in Brazil, tracked on soundcheck, with 4 sets logged across Osaka, Saopaulo and Tokyo. Often billed alongside MASOI and PiERO. Next up: SEL OCTAGON TOKYO, Tokyo on Fri 31 Jul.
 
@@ -20,4 +20,4 @@ V.Falabella is a psytrance and trance artist based in Brazil, tracked on soundch
 
 MASOI, PiERO
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/v.falabella/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/v.falabella/)*

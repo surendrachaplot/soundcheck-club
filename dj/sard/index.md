@@ -1,6 +1,6 @@
 # Sard
 
-Sard is a Techno and Acid artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at F8 1192 Folsom, San Francisco/Oakland on Sat, 1 Aug 2026.
+Sard is a Techno and Acid artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at F8 1192 Folsom, San Francisco/Oakland on Sat, 1 Aug 2026.
 
 Sard is a techno and acid artist tracked on soundcheck, with 41 sets logged across Chicago, Denver, Detroit and Montreal and 5 more. Often billed alongside Amino, Dretraxx and Miguel Cisne. Next up: F8 1192 Folsom, Sanfrancisco on Sat 1 Aug.
 
@@ -25,4 +25,4 @@ Sard is a techno and acid artist tracked on soundcheck, with 41 sets logged acro
 
 Amino, Dretraxx, Miguel Cisne
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/sard/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/sard/)*

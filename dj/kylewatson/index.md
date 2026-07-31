@@ -1,6 +1,6 @@
 # Kyle Watson
 
-Kyle Watson is a House and Tech House artist with 3 upcoming club dates listed on soundcheck as of Thu, 30 Jul 2026, next at Noto Philadelphia, Philadelphia on Thu, 24 Sept 2026.
+Kyle Watson is a House and Tech House artist with 3 upcoming club dates listed on soundcheck as of Fri, 31 Jul 2026, next at Noto Philadelphia, Philadelphia on Thu, 24 Sept 2026.
 
 Kyle Watson is a house and tech house artist based in South Africa, tracked on soundcheck, with 43 sets logged across Amsterdam, Austin, Boston and Brisbane and 13 more. Often billed alongside Walker & Royce, Vnssa and Wax Motif. Next up: Noto Philadelphia, Philadelphia on Thu 24 Sept.
 
@@ -27,4 +27,4 @@ Kyle Watson is a house and tech house artist based in South Africa, tracked on s
 
 Walker & Royce, Vnssa, Wax Motif
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/kylewatson/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/kylewatson/)*

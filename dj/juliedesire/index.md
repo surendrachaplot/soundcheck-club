@@ -1,6 +1,6 @@
 # Julie Desire
 
-Julie Desire is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at The White Hotel, Manchester on Sat, 29 Aug 2026.
+Julie Desire is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at The White Hotel, Manchester on Sat, 29 Aug 2026.
 
 Julie Desire is a techno and house artist tracked on soundcheck, with 105 sets logged across Amsterdam, Antwerp, Berlin and Brussels and 21 more. Often billed alongside Cheriii, Mars O10C and A-440. Next up: The White Hotel, Manchester on Sat 29 Aug.
 
@@ -25,4 +25,4 @@ Julie Desire is a techno and house artist tracked on soundcheck, with 105 sets l
 
 Cheriii, Mars O10C, A-440
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/juliedesire/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/juliedesire/)*

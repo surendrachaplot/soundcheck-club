@@ -1,6 +1,6 @@
 # Madhouse
 
-Madhouse is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at Playa Condesa, Mexico City on Sat, 1 Aug 2026.
+Madhouse is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at Playa Condesa, Mexico City on Sat, 1 Aug 2026.
 
 Madhouse is a house and techno artist based in Mexico, tracked on soundcheck, with 17 sets logged across Mexicocity. Often billed alongside Adrian Bluper, TAPIIA and TierradeOvnis. Next up: Playa Condesa, Mexicocity on Sat 1 Aug.
 
@@ -25,4 +25,4 @@ Madhouse is a house and techno artist based in Mexico, tracked on soundcheck, wi
 
 Adrian Bluper, TAPIIA, TierradeOvnis
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/madhouse/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/madhouse/)*

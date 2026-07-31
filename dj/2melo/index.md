@@ -1,6 +1,6 @@
 # 2melo
 
-2melo is a House and Afro House artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at SILO, New York City on Thu, 6 Aug 2026.
+2melo is a House and Afro House artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at SILO, New York City on Thu, 6 Aug 2026.
 
 2melo is a house and afro house artist based in United States of America, tracked on soundcheck, with 20 sets logged across Newyorkcity. Often billed alongside ORIJINS, Nickodemus and Hoss. Next up: SILO, Newyorkcity on Thu 6 Aug.
 
@@ -25,4 +25,4 @@
 
 ORIJINS, Nickodemus, Hoss
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/2melo/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/2melo/)*

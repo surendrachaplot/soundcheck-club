@@ -1,6 +1,6 @@
 # MssingNo
 
-MssingNo is a Pop and Trance artist with 2 upcoming club dates listed on soundcheck as of Thu, 30 Jul 2026, next at Strange Brew, Bristol on Fri, 31 Jul 2026.
+MssingNo is a Pop and Trance artist with 2 upcoming club dates listed on soundcheck as of Fri, 31 Jul 2026, next at Strange Brew, Bristol on Fri, 31 Jul 2026.
 
 MssingNo is a pop and trance artist based in United Kingdom, tracked on soundcheck, with 20 sets logged across Barcelona, Bristol, Brussels and London and 4 more. Often billed alongside Dark0, Evian Christ and Hannah (1). Next up: Strange Brew, Bristol on Fri 31 Jul.
 
@@ -26,4 +26,4 @@ MssingNo is a pop and trance artist based in United Kingdom, tracked on soundche
 
 Dark0, Evian Christ, Hannah (1)
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/mssingno/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/mssingno/)*

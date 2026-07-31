@@ -1,6 +1,6 @@
 # Adriatique
 
-Adriatique is a Techno and House artist with 11 upcoming club dates listed on soundcheck as of Thu, 30 Jul 2026, next at Old Royal Naval College, London on Sat, 8 Aug 2026.
+Adriatique is a Techno and House artist with 11 upcoming club dates listed on soundcheck as of Fri, 31 Jul 2026, next at Old Royal Naval College, London on Sat, 8 Aug 2026.
 
 Adriatique is a techno and house artist tracked on soundcheck, with 152 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 36 more. Often billed alongside Mind Against, Colyn and Âme. Next up: Old Royal Naval College, London on Sat 8 Aug.
 
@@ -35,4 +35,4 @@ Adriatique is a techno and house artist tracked on soundcheck, with 152 sets log
 
 Mind Against, Colyn, Âme
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/adriatique/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/adriatique/)*

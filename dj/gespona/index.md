@@ -1,13 +1,14 @@
 # Gespona
 
-Gespona is a Progressive House and House artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at Zürich - Various Venues, Zurich on Mon, 3 Aug 2026.
+Gespona is a Progressive House and House artist with 2 upcoming club dates listed on soundcheck as of Fri, 31 Jul 2026, next at Zürich - Various Venues, Zurich on Mon, 3 Aug 2026.
 
-Gespona is a progressive house and house artist tracked on soundcheck, with 101 sets logged across Amsterdam, Barcelona, Berlin and Buenosaires and 13 more. Often billed alongside Amadori, Djolee and Martin Cozar. Next up: Zürich - Various Venues, Zurich on Mon 3 Aug.
+Gespona is a progressive house and house artist tracked on soundcheck, with 102 sets logged across Amsterdam, Barcelona, Berlin and Buenosaires and 13 more. Often billed alongside Amadori, Djolee and Martin Cozar. Next up: Zürich - Various Venues, Zurich on Mon 3 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Mon, 3 Aug 2026 | Zürich - Various Venues | Zurich |
 | Mon, 3 Aug 2026 | Zürich - Various Venues | Zurich |
 
 ## Recently played
@@ -25,4 +26,4 @@ Gespona is a progressive house and house artist tracked on soundcheck, with 101 
 
 Amadori, Djolee, Martin Cozar
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/gespona/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/gespona/)*

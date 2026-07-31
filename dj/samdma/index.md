@@ -1,6 +1,6 @@
 # SAMDMA
 
-SAMDMA is a Techno and Tech House artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at O der Klub, Vienna on Sat, 1 Aug 2026.
+SAMDMA is a Techno and Tech House artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at O der Klub, Vienna on Sat, 1 Aug 2026.
 
 SAMDMA is a techno and tech house artist based in Austria, tracked on soundcheck, with 14 sets logged across Vienna. Often billed alongside Carl Haze, DANBERG and Frau Hofmann. Next up: O der Klub, Vienna on Sat 1 Aug.
 
@@ -25,4 +25,4 @@ SAMDMA is a techno and tech house artist based in Austria, tracked on soundcheck
 
 Carl Haze, DANBERG, Frau Hofmann
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/samdma/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/samdma/)*

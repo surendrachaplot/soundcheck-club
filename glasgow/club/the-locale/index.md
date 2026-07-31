@@ -1,6 +1,6 @@
 # The Locale
 
-The Locale is a music venue in Glasgow with 1 upcoming night listed on soundcheck as of Thu, 30 Jul 2026; the next is "Dance Locale: Big Miz & DD Watermelon" on Sun, 2 Aug 2026.
+The Locale is a music venue in Glasgow with 1 upcoming night listed on soundcheck as of Fri, 31 Jul 2026; the next is "Dance Locale: Big Miz & DD Watermelon" on Sun, 2 Aug 2026.
 
 The Locale is a music venue in Glasgow listed on soundcheck. 1 upcoming night, with line-ups including Big Miz. Browse upcoming dates, start times and who's playing. 241 North St, Glasgow G3 7DL, United Kingdom.
 
@@ -14,4 +14,4 @@ The Locale is a music venue in Glasgow listed on soundcheck. 1 upcoming night, w
 
 241 North St, Glasgow G3 7DL, United Kingdom, Glasgow
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/glasgow/club/the-locale/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/glasgow/club/the-locale/)*

@@ -1,6 +1,6 @@
 # Francis Harris
 
-Francis Harris is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at public records, New York City on Sat, 29 Aug 2026.
+Francis Harris is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at public records, New York City on Sat, 29 Aug 2026.
 
 Francis Harris is a house and deep house artist based in United States of America, tracked on soundcheck, with 23 sets logged across Newyorkcity. Often billed alongside Ali Berger, Jenifa Mayanja and Millie McKee. Next up: public records, Newyorkcity on Sat 29 Aug.
 
@@ -25,4 +25,4 @@ Francis Harris is a house and deep house artist based in United States of Americ
 
 Ali Berger, Jenifa Mayanja, Millie McKee
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/francisharris/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/francisharris/)*

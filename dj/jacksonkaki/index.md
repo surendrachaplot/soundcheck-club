@@ -1,6 +1,6 @@
 # JACKSON kaki
 
-JACKSON kaki is a Experimental and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at Forestlimit, Tokyo on Thu, 13 Aug 2026.
+JACKSON kaki is a Experimental and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at Forestlimit, Tokyo on Thu, 13 Aug 2026.
 
 JACKSON kaki is an experimental and techno artist based in Japan, tracked on soundcheck, with 47 sets logged across Denver, Kyoto and Tokyo. Often billed alongside arow, MUNÉO and Mars89. Next up: Forestlimit, Tokyo on Thu 13 Aug.
 
@@ -25,4 +25,4 @@ JACKSON kaki is an experimental and techno artist based in Japan, tracked on sou
 
 arow, MUNÉO, Mars89
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/jacksonkaki/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/jacksonkaki/)*

@@ -1,6 +1,6 @@
 # ADAB
 
-ADAB is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at The Sound Lounge at Percy, Philadelphia on Fri, 31 Jul 2026.
+ADAB is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at The Sound Lounge at Percy, Philadelphia on Fri, 31 Jul 2026.
 
 ADAB is a techno and house artist based in United States of America, tracked on soundcheck, with 58 sets logged across Amsterdam, Berlin, Detroit and London and 6 more. Often billed alongside Kiernan Laveaux, Russell E.L. Butler and Eris Drew. Next up: The Sound Lounge at Percy, Philadelphia on Fri 31 Jul.
 
@@ -25,4 +25,4 @@ ADAB is a techno and house artist based in United States of America, tracked on 
 
 Kiernan Laveaux, Russell E.L. Butler, Eris Drew
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/adab/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/adab/)*

@@ -1,6 +1,6 @@
 # DIEBYVEG
 
-DIEBYVEG is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Thu, 30 Jul 2026, next at Index, Dublin on Sat, 8 Aug 2026.
+DIEBYVEG is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Fri, 31 Jul 2026, next at Index, Dublin on Sat, 8 Aug 2026.
 
 DIEBYVEG is a house and techno artist tracked on soundcheck, with 41 sets logged across Belfast, Dublin and London. Often billed alongside Puzzy Wrangler, Surferboy and High Fidelity. Next up: Index, Dublin on Sat 8 Aug.
 
@@ -26,4 +26,4 @@ DIEBYVEG is a house and techno artist tracked on soundcheck, with 41 sets logged
 
 Puzzy Wrangler, Surferboy, High Fidelity
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/diebyveg/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/diebyveg/)*

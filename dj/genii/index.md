@@ -1,6 +1,6 @@
 # Genii
 
-Genii is a Deep House and House artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at Houtrijk, Amsterdam on Sat, 5 Sept 2026.
+Genii is a Deep House and House artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at Houtrijk, Amsterdam on Sat, 5 Sept 2026.
 
 Genii is a deep house and house artist based in Netherlands, tracked on soundcheck, with 13 sets logged across Amsterdam. Often billed alongside Arabella Memdouh, Noraj Cue and Trippin Jaguar. Next up: Houtrijk, Amsterdam on Sat 5 Sept.
 
@@ -25,4 +25,4 @@ Genii is a deep house and house artist based in Netherlands, tracked on soundche
 
 Arabella Memdouh, Noraj Cue, Trippin Jaguar
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/genii/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/genii/)*

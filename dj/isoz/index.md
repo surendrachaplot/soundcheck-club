@@ -1,6 +1,6 @@
 # Isoz
 
-Isoz is a House and Club artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at Evening, Seoul on Fri, 31 Jul 2026.
+Isoz is a House and Club artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at Evening, Seoul on Fri, 31 Jul 2026.
 
 Isoz is a house and club artist based in South Korea, tracked on soundcheck, with 28 sets logged across Seoul. Often billed alongside J.U.N.E, aso (1) and Shinyoung. Next up: Evening, Seoul on Fri 31 Jul.
 
@@ -25,4 +25,4 @@ Isoz is a house and club artist based in South Korea, tracked on soundcheck, wit
 
 J.U.N.E, aso (1), Shinyoung
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/isoz/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/isoz/)*

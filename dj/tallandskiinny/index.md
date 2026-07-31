@@ -1,6 +1,6 @@
 # Tallandskiinny
 
-Tallandskiinny is a Hip-Hop and R&B artist with 2 upcoming club dates listed on soundcheck as of Thu, 30 Jul 2026, next at TBA, Montreal on Fri, 31 Jul 2026.
+Tallandskiinny is a Hip-Hop and R&B artist with 2 upcoming club dates listed on soundcheck as of Fri, 31 Jul 2026, next at TBA, Montreal on Fri, 31 Jul 2026.
 
 Tallandskiinny is a hip-hop and r&b artist based in Canada, tracked on soundcheck, with 20 sets logged across Montreal. Often billed alongside Zack Fox, Andie and Aram. Next up: TBA, Montreal on Fri 31 Jul.
 
@@ -26,4 +26,4 @@ Tallandskiinny is a hip-hop and r&b artist based in Canada, tracked on soundchec
 
 Zack Fox, Andie, Aram
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/tallandskiinny/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/tallandskiinny/)*

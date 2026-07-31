@@ -1,6 +1,6 @@
 # Ninyo
 
-Ninyo is a Tech House and Drum & Bass artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at TBA - Brumby Bar Jindabyne, Sydney on Fri, 31 Jul 2026.
+Ninyo is a Tech House and Drum & Bass artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at TBA - Brumby Bar Jindabyne, Sydney on Fri, 31 Jul 2026.
 
 Ninyo is a tech house and drum & bass artist based in Spain, tracked on soundcheck, with 23 sets logged across Barcelona and Sydney. Often billed alongside Dani Corberó, Devicious and Klency. Next up: TBA - Brumby Bar Jindabyne, Sydney on Fri 31 Jul.
 
@@ -25,4 +25,4 @@ Ninyo is a tech house and drum & bass artist based in Spain, tracked on soundche
 
 Dani Corberó, Devicious, Klency
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/ninyo/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/ninyo/)*

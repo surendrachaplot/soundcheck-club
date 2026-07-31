@@ -1,6 +1,6 @@
 # Skellyoz
 
-Skellyoz is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Thu, 30 Jul 2026, next at The Marcus Ward, Belfast on Sat, 1 Aug 2026.
+Skellyoz is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Fri, 31 Jul 2026, next at The Marcus Ward, Belfast on Sat, 1 Aug 2026.
 
 Skellyoz is a techno and house artist tracked on soundcheck, with 3 sets logged across Belfast. Often billed alongside Casual, GUZZ. and CLERK.. Next up: The Marcus Ward, Belfast on Sat 1 Aug.
 
@@ -19,4 +19,4 @@ Skellyoz is a techno and house artist tracked on soundcheck, with 3 sets logged 
 
 Casual, GUZZ., CLERK.
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/skellyoz/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/skellyoz/)*

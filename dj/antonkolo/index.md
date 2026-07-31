@@ -1,6 +1,6 @@
 # Anton Kolo
 
-Anton Kolo is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at Tagada, Vienna on Fri, 31 Jul 2026.
+Anton Kolo is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at Tagada, Vienna on Fri, 31 Jul 2026.
 
 Anton Kolo is a house and tech house artist based in Ukraine, tracked on soundcheck, with 7 sets logged across Vienna. Often billed alongside Nepomuk (2), PJPJPJ and BBYG. Next up: Tagada, Vienna on Fri 31 Jul.
 
@@ -23,4 +23,4 @@ Anton Kolo is a house and tech house artist based in Ukraine, tracked on soundch
 
 Nepomuk (2), PJPJPJ, BBYG
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/antonkolo/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/antonkolo/)*

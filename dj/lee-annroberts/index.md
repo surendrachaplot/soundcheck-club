@@ -1,6 +1,6 @@
 # Lee Ann Roberts
 
-Lee Ann Roberts is a Techno and House artist with 6 upcoming club dates listed on soundcheck as of Thu, 30 Jul 2026, next at ZEROTOKYO, Tokyo on Fri, 31 Jul 2026.
+Lee Ann Roberts is a Techno and House artist with 6 upcoming club dates listed on soundcheck as of Fri, 31 Jul 2026, next at ZEROTOKYO, Tokyo on Fri, 31 Jul 2026.
 
 Lee Ann Roberts is a techno and house artist tracked on soundcheck, with 151 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 51 more. Often billed alongside Charlie Sparks, 999999999 and I Hate Models. Next up: ZEROTOKYO, Tokyo on Fri 31 Jul.
 
@@ -30,4 +30,4 @@ Lee Ann Roberts is a techno and house artist tracked on soundcheck, with 151 set
 
 Charlie Sparks, 999999999, I Hate Models
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/lee-annroberts/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/lee-annroberts/)*

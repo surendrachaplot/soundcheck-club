@@ -1,8 +1,8 @@
 # THELMA
 
-THELMA is a Techno and House artist with 6 upcoming club dates listed on soundcheck as of Thu, 30 Jul 2026, next at Palmerstown House Estate, Dublin on Sun, 2 Aug 2026.
+THELMA is a Techno and House artist with 7 upcoming club dates listed on soundcheck as of Fri, 31 Jul 2026, next at Palmerstown House Estate, Dublin on Sun, 2 Aug 2026.
 
-THELMA is a techno and house artist tracked on soundcheck, with 92 sets logged across Aberdeen, Amsterdam, Antwerp and Barcelona and 34 more. Often billed alongside Faster Horses, Helena Lauwaert and Pegassi. Next up: Palmerstown House Estate, Dublin on Sun 2 Aug.
+THELMA is a techno and house artist tracked on soundcheck, with 93 sets logged across Aberdeen, Amsterdam, Antwerp and Barcelona and 34 more. Often billed alongside Faster Horses, Helena Lauwaert and Pegassi. Next up: Palmerstown House Estate, Dublin on Sun 2 Aug.
 
 ## Upcoming shows
 
@@ -11,6 +11,7 @@ THELMA is a techno and house artist tracked on soundcheck, with 92 sets logged a
 | Sun, 2 Aug 2026 | Palmerstown House Estate | Dublin |
 | Sun, 2 Aug 2026 | Index | Dublin |
 | Wed, 12 Aug 2026 | Gianpula Village | Malta |
+| Fri, 4 Sept 2026 | Badaboum | Paris |
 | Fri, 11 Sept 2026 | TBA | Brussels |
 | Sat, 24 Oct 2026 | Lofi | Amsterdam |
 | Sat, 24 Oct 2026 | Levenslang Amsterdam | Amsterdam |
@@ -30,4 +31,4 @@ THELMA is a techno and house artist tracked on soundcheck, with 92 sets logged a
 
 Faster Horses, Helena Lauwaert, Pegassi
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/thelma/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/thelma/)*

@@ -1,6 +1,6 @@
 # Ondulada
 
-Ondulada is a Techno and Hardcore artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at Chinastraat, Ghent on Sat, 1 Aug 2026.
+Ondulada is a Techno and Hardcore artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at Chinastraat, Ghent on Sat, 1 Aug 2026.
 
 Ondulada is a techno and hardcore artist tracked on soundcheck, with 27 sets logged across Antwerp, Brussels and Ghent. Often billed alongside Lolalita, Vecna and Volunt Barbati. Next up: Chinastraat, Ghent on Sat 1 Aug.
 
@@ -25,4 +25,4 @@ Ondulada is a techno and hardcore artist tracked on soundcheck, with 27 sets log
 
 Lolalita, Vecna, Volunt Barbati
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/ondulada/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/ondulada/)*

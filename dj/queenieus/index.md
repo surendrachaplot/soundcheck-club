@@ -1,20 +1,20 @@
 # QUEENIE (US)
 
-QUEENIE (US) is a Club and Baile Funk artist with 4 upcoming club dates listed on soundcheck as of Thu, 30 Jul 2026, next at The Great Northern, San Francisco/Oakland on Thu, 30 Jul 2026.
+QUEENIE (US) is a Club and Baile Funk artist with 3 upcoming club dates listed on soundcheck as of Fri, 31 Jul 2026, next at Monarch, San Francisco/Oakland on Sat, 8 Aug 2026.
 
-QUEENIE (US) is a club and baile funk artist based in United States of America, tracked on soundcheck, with 48 sets logged across Losangeles and Sanfrancisco. Often billed alongside felipe d, KIMOSABE and Profesito. Next up: The Great Northern, Sanfrancisco on Thu 30 Jul.
+QUEENIE (US) is a club and baile funk artist based in United States of America, tracked on soundcheck, with 48 sets logged across Losangeles and Sanfrancisco. Often billed alongside felipe d, KIMOSABE and Profesito. Next up: Monarch, Sanfrancisco on Sat 8 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Thu, 30 Jul 2026 | The Great Northern | San Francisco/Oakland |
 | Sat, 8 Aug 2026 | Monarch | San Francisco/Oakland |
 | Sat, 15 Aug 2026 | The Great Northern | San Francisco/Oakland |
 | Sat, 5 Sept 2026 | F8 1192 Folsom | San Francisco/Oakland |
 
 ## Recently played
 
+- The Great Northern, San Francisco/Oakland — Thu, 30 Jul 2026
 - Monarch, San Francisco/Oakland — Sat, 25 Jul 2026
 - El Rio, San Francisco/Oakland — Sat, 18 Jul 2026
 - General Lee's Cocktail House, Los Angeles — Thu, 9 Jul 2026
@@ -22,10 +22,9 @@ QUEENIE (US) is a club and baile funk artist based in United States of America, 
 - The Great Northern, San Francisco/Oakland — Sat, 27 Jun 2026
 - Monarch, San Francisco/Oakland — Fri, 26 Jun 2026
 - The Foundry, San Francisco/Oakland — Fri, 19 Jun 2026
-- El Rio, San Francisco/Oakland — Sat, 30 May 2026
 
 ## Shares bills with
 
 felipe d, KIMOSABE, Profesito
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/queenieus/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/queenieus/)*

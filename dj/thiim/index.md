@@ -1,6 +1,6 @@
 # Thiim
 
-Thiim is a Techno and Deep House artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at Culture Box, Copenhagen on Sat, 1 Aug 2026.
+Thiim is a Techno and Deep House artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at Culture Box, Copenhagen on Sat, 1 Aug 2026.
 
 Thiim is a techno and deep house artist based in Denmark, tracked on soundcheck, with 12 sets logged across Copenhagen. Often billed alongside Tim Andresen, KAMIKAZEM and Fynutzu. Next up: Culture Box, Copenhagen on Sat 1 Aug.
 
@@ -25,4 +25,4 @@ Thiim is a techno and deep house artist based in Denmark, tracked on soundcheck,
 
 Tim Andresen, KAMIKAZEM, Fynutzu
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/thiim/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/thiim/)*

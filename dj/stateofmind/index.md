@@ -1,6 +1,6 @@
 # State of Mind
 
-State of Mind is a Drum & Bass and Bass artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at La Paloma, Barcelona on Fri, 31 Jul 2026.
+State of Mind is a Drum & Bass and Bass artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at La Paloma, Barcelona on Fri, 31 Jul 2026.
 
 State of Mind is a drum & bass and bass artist based in New Zealand, tracked on soundcheck, with 17 sets logged across Auckland, Barcelona, Berlin and Budapest and 6 more. Often billed alongside Black Sun Empire, Pythius and Ed Rush. Next up: La Paloma, Barcelona on Fri 31 Jul.
 
@@ -25,4 +25,4 @@ State of Mind is a drum & bass and bass artist based in New Zealand, tracked on 
 
 Black Sun Empire, Pythius, Ed Rush
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/stateofmind/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/stateofmind/)*

@@ -1,6 +1,6 @@
 # FROND
 
-FROND is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at Avalon Cafe Bermondsey, London on Fri, 31 Jul 2026.
+FROND is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at Avalon Cafe Bermondsey, London on Fri, 31 Jul 2026.
 
 FROND is a techno and trance artist tracked on soundcheck, with 53 sets logged across Bristol, Copenhagen, Leeds and London and 2 more. Often billed alongside Adam Pits, Yasmine (UK) and Lisene. Next up: Avalon Cafe Bermondsey, London on Fri 31 Jul.
 
@@ -25,4 +25,4 @@ FROND is a techno and trance artist tracked on soundcheck, with 53 sets logged a
 
 Adam Pits, Yasmine (UK), Lisene
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/frond/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/frond/)*

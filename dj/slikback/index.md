@@ -1,6 +1,6 @@
 # Slikback
 
-Slikback is a Experimental and Bass artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at Amsterdamse Bos, Amsterdam on Sat, 1 Aug 2026.
+Slikback is a Experimental and Bass artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at Amsterdamse Bos, Amsterdam on Sat, 1 Aug 2026.
 
 Slikback is an experimental and bass artist tracked on soundcheck, with 56 sets logged across Amsterdam, Barcelona, Belgrade and Berlin and 23 more. Often billed alongside ojoo, Brodinski and upsammy. Next up: Amsterdamse Bos, Amsterdam on Sat 1 Aug.
 
@@ -25,4 +25,4 @@ Slikback is an experimental and bass artist tracked on soundcheck, with 56 sets 
 
 ojoo, Brodinski, upsammy
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/slikback/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/slikback/)*

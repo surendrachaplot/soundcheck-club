@@ -1,6 +1,6 @@
 # Luca Maier
 
-Luca Maier is a Techno and Industrial artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at DETROIT CLUB, Barcelona on Fri, 31 Jul 2026.
+Luca Maier is a Techno and Industrial artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at DETROIT CLUB, Barcelona on Fri, 31 Jul 2026.
 
 Luca Maier is a techno and industrial artist based in Spain, tracked on soundcheck, with 44 sets logged across Barcelona, Berlin, Budapest and Dublin and 9 more. Often billed alongside Marco Leckbert, 753 and ERØXX. Next up: DETROIT CLUB, Barcelona on Fri 31 Jul.
 
@@ -25,4 +25,4 @@ Luca Maier is a techno and industrial artist based in Spain, tracked on soundche
 
 Marco Leckbert, 753, ERØXX
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/lucamaier/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/lucamaier/)*

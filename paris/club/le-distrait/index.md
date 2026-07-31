@@ -1,6 +1,6 @@
 # Le Distrait
 
-Le Distrait is a music venue in Paris with 1 upcoming night listed on soundcheck as of Thu, 30 Jul 2026; the next is "Serendipity #3" on Fri, 31 Jul 2026.
+Le Distrait is a music venue in Paris with 1 upcoming night listed on soundcheck as of Fri, 31 Jul 2026; the next is "Serendipity #3" on Fri, 31 Jul 2026.
 
 Le Distrait is a music venue in Paris listed on soundcheck. 1 upcoming night, with line-ups including Xavich. Browse upcoming dates, start times and who's playing. 26 rue de la Lune, 75002 Paris.
 
@@ -14,4 +14,4 @@ Le Distrait is a music venue in Paris listed on soundcheck. 1 upcoming night, wi
 
 26 rue de la Lune, 75002 Paris, Paris
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/paris/club/le-distrait/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/paris/club/le-distrait/)*

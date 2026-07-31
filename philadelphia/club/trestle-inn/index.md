@@ -1,14 +1,13 @@
 # Trestle Inn
 
-Trestle Inn is a music venue in Philadelphia with 11 upcoming nights listed on soundcheck as of Thu, 30 Jul 2026; the next is "Electric Hotpot with Elevator Machine Room" on Thu, 30 Jul 2026.
+Trestle Inn is a music venue in Philadelphia with 10 upcoming nights listed on soundcheck as of Fri, 31 Jul 2026; the next is "DnH - A Disco House Summer Dance Party" on Fri, 31 Jul 2026.
 
-Trestle Inn is a music venue in Philadelphia listed on soundcheck. 11 upcoming nights, with line-ups including Afrobeat and Particle Ray. Browse upcoming dates, start times and who's playing. 339 N. 11th St; Philadelphia; PA 19107.
+Trestle Inn is a music venue in Philadelphia listed on soundcheck. 10 upcoming nights, with line-ups including Afrobeat and Particle Ray. Browse upcoming dates, start times and who's playing. 339 N. 11th St; Philadelphia; PA 19107.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Thu, 30 Jul 2026 | Electric Hotpot with Elevator Machine Room |  |
 | Fri, 31 Jul 2026 | DnH - A Disco House Summer Dance Party |  |
 | Sat, 1 Aug 2026 | SATURNIA | Particle Ray |
 | Sat, 1 Aug 2026 | DnH - A Disco House Summer Dance Party |  |
@@ -18,9 +17,10 @@ Trestle Inn is a music venue in Philadelphia listed on soundcheck. 11 upcoming n
 | Thu, 13 Aug 2026 | Electric Hotpot with Guest DJ Brand the Builder |  |
 | Fri, 14 Aug 2026 | SOL - A Latin Soul, Salsa & Samba Happy Hour Dance Party |  |
 | Fri, 14 Aug 2026 | DnH - A Disco House Summer Dance Party | Particle Ray |
+| Sat, 15 Aug 2026 | SATURNIA |  |
 
 ## Address
 
 339 N. 11th St; Philadelphia; PA 19107, Philadelphia
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/philadelphia/club/trestle-inn/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/philadelphia/club/trestle-inn/)*

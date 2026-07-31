@@ -1,6 +1,6 @@
 # PETERBLUE
 
-PETERBLUE is a Techno and Trance artist with 8 upcoming club dates listed on soundcheck as of Thu, 30 Jul 2026, next at Lehmann Club, Stuttgart on Fri, 7 Aug 2026.
+PETERBLUE is a Techno and Trance artist with 8 upcoming club dates listed on soundcheck as of Fri, 31 Jul 2026, next at Lehmann Club, Stuttgart on Fri, 7 Aug 2026.
 
 PETERBLUE is a techno and trance artist tracked on soundcheck, with 56 sets logged across Amsterdam, Austin, Barcelona and Berlin and 27 more. Often billed alongside Adrian Mills, Noise Mafia and fumi (DE). Next up: Lehmann Club, Stuttgart on Fri 7 Aug.
 
@@ -32,4 +32,4 @@ PETERBLUE is a techno and trance artist tracked on soundcheck, with 56 sets logg
 
 Adrian Mills, Noise Mafia, fumi (DE)
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/peterblue/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/peterblue/)*

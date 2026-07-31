@@ -1,13 +1,14 @@
 # Kyle Bower
 
-Kyle Bower is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at Patterns, Brighton on Sun, 13 Sept 2026.
+Kyle Bower is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Fri, 31 Jul 2026, next at Ballroom at Palais, London on Fri, 21 Aug 2026.
 
-Kyle Bower is a techno and house artist tracked on soundcheck, with 11 sets logged across Brighton, London and Manchester. Often billed alongside TEDESCO, 131bpm and ADRIAN LECA. Next up: Patterns, Brighton on Sun 13 Sept.
+Kyle Bower is a techno and house artist tracked on soundcheck, with 12 sets logged across Brighton, London and Manchester. Often billed alongside TEDESCO, 131bpm and ADRIAN LECA. Next up: Ballroom at Palais, London on Fri 21 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 21 Aug 2026 | Ballroom at Palais | London |
 | Sun, 13 Sept 2026 | Patterns | Brighton |
 
 ## Recently played
@@ -25,4 +26,4 @@ Kyle Bower is a techno and house artist tracked on soundcheck, with 11 sets logg
 
 TEDESCO, 131bpm, ADRIAN LECA
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/kylebower/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/kylebower/)*

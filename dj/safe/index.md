@@ -1,6 +1,6 @@
 # Safe
 
-Safe is a Techno and Club artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at Revolver Upstairs, Melbourne on Fri, 7 Aug 2026.
+Safe is a Techno and Club artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at Revolver Upstairs, Melbourne on Fri, 7 Aug 2026.
 
 Safe is a techno and club artist based in Egypt, tracked on soundcheck, with 19 sets logged across Dublin and Melbourne. Often billed alongside Kiara Friend, Clancy (2) and Cosy (2). Next up: Revolver Upstairs, Melbourne on Fri 7 Aug.
 
@@ -25,4 +25,4 @@ Safe is a techno and club artist based in Egypt, tracked on soundcheck, with 19 
 
 Kiara Friend, Clancy (2), Cosy (2)
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/safe/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/safe/)*

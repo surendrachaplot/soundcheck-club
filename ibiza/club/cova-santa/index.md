@@ -1,14 +1,13 @@
 # Cova Santa
 
-Cova Santa is a music venue in Ibiza with 37 upcoming nights listed on soundcheck as of Thu, 30 Jul 2026; the next is "AMÉMÉ presents One Tribe" on Thu, 30 Jul 2026.
+Cova Santa is a music venue in Ibiza with 36 upcoming nights listed on soundcheck as of Fri, 31 Jul 2026; the next is "WooMooN" on Fri, 31 Jul 2026.
 
-Cova Santa is a music venue in Ibiza listed on soundcheck. 37 upcoming nights, with line-ups including Kepler, AAT (NL), Abdon and Aca [RO] and 2 more. Browse upcoming dates, start times and who's playing. Ctra. San Jose, km 7, 07817 Ibiza, Spain.
+Cova Santa is a music venue in Ibiza listed on soundcheck. 36 upcoming nights, with line-ups including Kepler, AAT (NL), Abdon and Aca [RO] and 2 more. Browse upcoming dates, start times and who's playing. Ctra. San Jose, km 7, 07817 Ibiza, Spain.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Thu, 30 Jul 2026 | AMÉMÉ presents One Tribe | AMÉMÉ, JAMIIE, KILIMANJARO, LP Giobbi, NenaHalena |
 | Fri, 31 Jul 2026 | WooMooN | Isadora, Landikhan, Laolu, RY X, meera |
 | Sun, 2 Aug 2026 | Cova Santa - Ibiza, Spain | Levi (AU) |
 | Tue, 4 Aug 2026 | PIV IBIZA TUESDAYS - August 4 | Chez Damier, DXNBY, Ozzie Guven, Phill de Janeiro, Rio Tashan, Saigön |
@@ -18,9 +17,10 @@ Cova Santa is a music venue in Ibiza listed on soundcheck. 37 upcoming nights, w
 | Sun, 9 Aug 2026 | Pantheøn | Matthias Tanzmann |
 | Tue, 11 Aug 2026 | PIV IBIZA TUESDAYS - August 11 | Emvae, Job de Jong, Kamma, Masalo, Moxes, Yass & Mali |
 | Wed, 12 Aug 2026 | WooMooN 10 Year Anniversary | André Hommen, BOHEM, Isadora, Sven Vath, Valentin Huedo |
+| Fri, 14 Aug 2026 | WooMooN | Bora Uzer, EMJIE, Malive, Samm |
 
 ## Address
 
 Ctra. San Jose, km 7, 07817 Ibiza, Spain, Ibiza
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/ibiza/club/cova-santa/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/ibiza/club/cova-santa/)*

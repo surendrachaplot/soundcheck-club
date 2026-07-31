@@ -1,6 +1,6 @@
 # ANNĒ
 
-ANNĒ is a Techno and House artist with 13 upcoming club dates listed on soundcheck as of Thu, 30 Jul 2026, next at Gianpula Village, Malta on Wed, 12 Aug 2026.
+ANNĒ is a Techno and House artist with 13 upcoming club dates listed on soundcheck as of Fri, 31 Jul 2026, next at Gianpula Village, Malta on Wed, 12 Aug 2026.
 
 ANNĒ is a techno and house artist tracked on soundcheck, with 176 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 55 more. Often billed alongside SHDW, Sol Ortega and Sera J. Next up: Gianpula Village, Malta on Wed 12 Aug.
 
@@ -36,4 +36,4 @@ ANNĒ is a techno and house artist tracked on soundcheck, with 176 sets logged a
 
 SHDW, Sol Ortega, Sera J
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/anne/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/anne/)*

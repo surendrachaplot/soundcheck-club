@@ -1,6 +1,6 @@
 # OPTIKZ
 
-OPTIKZ is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Thu, 30 Jul 2026, next at Dirty Rabbit Hidden Bar, Bangkok on Fri, 31 Jul 2026.
+OPTIKZ is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Fri, 31 Jul 2026, next at Dirty Rabbit Hidden Bar, Bangkok on Fri, 31 Jul 2026.
 
 OPTIKZ is a techno and house artist based in Thailand, tracked on soundcheck, with 29 sets logged across Amsterdam, Bangkok, Sanfrancisco and Tokyo. Often billed alongside Dj Hiro, 4STAR and Accidental District. Next up: Dirty Rabbit Hidden Bar, Bangkok on Fri 31 Jul.
 
@@ -26,4 +26,4 @@ OPTIKZ is a techno and house artist based in Thailand, tracked on soundcheck, wi
 
 Dj Hiro, 4STAR, Accidental District
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/optikz/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/optikz/)*

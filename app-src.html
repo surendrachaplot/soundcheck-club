@@ -3380,6 +3380,37 @@
     .evc-chip:hover{ border-color:var(--sel); }
     /* ── mobile LIST VIEW: home (#grid) + every mountEventCards grid (.grid) ── */
     @media (max-width:640px){ #grid, .grid{ grid-template-columns:1fr; gap:10px; } }
+    /* ── iOS design parity (2026-07-30) ────────────────────────────────────
+       Ported from the native app, deliberately limited to what renders
+       IDENTICALLY on mobile Safari and Android Chrome. Explicitly NOT ported:
+       the Skia shaders (a full-screen WebGL canvas is a battery and jank risk on
+       mid-range Android), haptics (navigator.vibrate does not exist on iOS, so it
+       would be Android-only), and backdrop-filter glass (still patchy on Android
+       Chrome, where it degrades to a flat fill — the exact one-platform breakage
+       we are avoiding). */
+
+    /* The line-up is the headline; the promoter's title is the footnote. */
+    .lvr .lv-foot{ color:var(--muted); font-weight:500; }
+
+    /* Press physics. A spring cannot be expressed as a CSS curve, but this
+       cubic-bezier has the same overshoot-free settle as the native `press`
+       spring, and :active fires on touchstart so it tracks the finger. Transform
+       and opacity only — both are compositor-only properties, so this stays on
+       the GPU and cannot cause layout thrash on a long list. */
+    .lvr, .gcard.evc, .dt, .fp-ab, .pf-btn, .go, .iconbtn, .heart, .seen-btn{
+      transition: transform 180ms cubic-bezier(0.32, 0.72, 0, 1), opacity 180ms ease;
+    }
+    .lvr:active, .gcard.evc:active{ transform:scale(0.985); opacity:0.88; }
+    .dt:active, .fp-ab:active, .pf-btn:active, .go:active{ transform:scale(0.965); opacity:0.9; }
+    .iconbtn:active, .heart:active, .seen-btn:active{ transform:scale(0.86); }
+
+    /* Respect the OS setting. Motion is a preference, not a decoration. */
+    @media (prefers-reduced-motion: reduce){
+      .lvr, .gcard.evc, .dt, .fp-ab, .pf-btn, .go, .iconbtn, .heart, .seen-btn{ transition:none; }
+      .lvr:active, .gcard.evc:active, .dt:active, .fp-ab:active,
+      .pf-btn:active, .go:active, .iconbtn:active, .heart:active, .seen-btn:active{ transform:none; }
+    }
+
     .lvr{ display:flex; flex-direction:row; align-items:center; gap:8px; background:var(--surface); border:1px solid var(--border); border-radius:var(--radius-lg); padding:9px 10px; }
     .lvr .lv-main{ position:static; inset:auto; width:auto; height:auto; display:flex; align-items:center; gap:12px; flex:1; min-width:0; background:none; border:0; padding:0; margin:0; text-align:left; color:inherit; cursor:pointer; font-family:inherit; -webkit-tap-highlight-color:transparent; }
     .lvr .lv-th{ position:relative; width:64px; height:64px; flex:none; border-radius:var(--radius); overflow:hidden; display:block; }
@@ -3697,7 +3728,7 @@
   <!-- Umami analytics. defer so it never blocks first paint; the SPA rewrites
        history on navigation, which umami picks up automatically. -->
   <script defer src="https://cloud.umami.is/script.js" data-website-id="de210b6c-12e4-4819-95f6-f5120974855a"></script>
-<meta name="sc-build" content="1785444201898">
+<meta name="sc-build" content="1785462157771">
 </head>
 <body>
   <main class="wrap">
@@ -3746,7 +3777,7 @@
     <div class="grid" id="grid"></div>
     <!-- Per-city "what's on this week" date links, injected by build-club (canonical
          /<city>/<date>/ pages). Empty in the source; hidden on client-side city switch. -->
-    <section id="home-seo-more" class="home-seo-more" data-city="london"><h2>What&rsquo;s on in London this week</h2><ul class="home-seo-dates"><li><a href="/london/2026-07-30/">Thu 30 Jul <span class="c">28 events</span></a></li><li><a href="/london/2026-07-31/">Fri 31 Jul <span class="c">97 events</span></a></li><li><a href="/london/2026-08-01/">Sat 1 Aug <span class="c">126 events</span></a></li><li><a href="/london/2026-08-02/">Sun 2 Aug <span class="c">39 events</span></a></li><li><a href="/london/2026-08-05/">Wed 5 Aug <span class="c">5 events</span></a></li><li><a href="/london/2026-08-06/">Thu 6 Aug <span class="c">28 events</span></a></li><li><a href="/london/2026-08-07/">Fri 7 Aug <span class="c">68 events</span></a></li></ul><nav class="home-seo-nav" aria-label="More on soundcheck"><a href="/london/this-weekend/">This weekend in London</a> <a href="/london/scene/">London scene guide</a> <a href="/cities/">All 104 cities</a></nav></section>
+    <section id="home-seo-more" class="home-seo-more" data-city="london"><h2>What&rsquo;s on in London this week</h2><ul class="home-seo-dates"><li><a href="/london/2026-07-31/">Fri 31 Jul <span class="c">97 events</span></a></li><li><a href="/london/2026-08-01/">Sat 1 Aug <span class="c">129 events</span></a></li><li><a href="/london/2026-08-02/">Sun 2 Aug <span class="c">39 events</span></a></li><li><a href="/london/2026-08-05/">Wed 5 Aug <span class="c">5 events</span></a></li><li><a href="/london/2026-08-06/">Thu 6 Aug <span class="c">29 events</span></a></li><li><a href="/london/2026-08-07/">Fri 7 Aug <span class="c">70 events</span></a></li><li><a href="/london/2026-08-08/">Sat 8 Aug <span class="c">98 events</span></a></li></ul><nav class="home-seo-nav" aria-label="More on soundcheck"><a href="/london/this-weekend/">This weekend in London</a> <a href="/london/scene/">London scene guide</a> <a href="/cities/">All 104 cities</a></nav></section>
 
     <!-- Crawlable home content (H1 + intro) — moved to the bottom of the page. Still a real
          <h1> in the DOM so it's the page heading for SEO regardless of visual position.
@@ -9841,13 +9872,20 @@
       var names=arts.slice(0,3).map(function(a){ return esc(a.name); }).join(', ')+(arts.length>3?' +'+(arts.length-3):'');
       var picked=eid && isEventPicked(eid)?' on':'';
       var eh=evHref(eid, arts[0]&&arts[0].name, ev.venue);   // real link → hover URL + right-click "open in new tab"
+      // HIERARCHY: the LINE-UP is the headline, the promoter's title is a footnote.
+      // Nobody at 11pm decides on "Paradox Nexus: Warehouse Sessions Pt 4" — they
+      // decide on who is playing. Slots adapt rather than rendering empty: with no
+      // resolved line-up the title is promoted into the headline instead of
+      // leaving a hole. Matches the native app exactly.
+      var head=names||esc(ev.title);
+      var foot=names?esc(ev.title):'';
       return '<article class="gcard evc lvr"'+(eid?' data-evt="'+esc(eid)+'"':'')+'>'
         +'<a class="evc-poster lv-main nav"'+(eh?' href="'+esc(eh)+'"':'')+' aria-label="View '+esc(ev.title)+'">'
           +'<span class="lv-th">'+posterHTML(ev)+'</span>'
           +'<span class="lv-bd">'
-            +'<span class="lv-tt">'+esc(ev.title)+'</span>'
+            +'<span class="lv-tt">'+head+'</span>'
             +'<span class="lv-m">'+(when?when+' &middot; ':'')+esc(ev.venue||'TBA')+(ev._city?' &middot; '+esc(ev._city):'')+'</span>'
-            +(names?'<span class="lv-a">'+names+'</span>':'')
+            +(foot?'<span class="lv-a lv-foot">'+foot+'</span>':'')
           +'</span>'
         +'</a>'
         +'<span class="lv-r">'

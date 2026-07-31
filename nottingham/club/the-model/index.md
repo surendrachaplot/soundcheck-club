@@ -1,6 +1,6 @@
 # The Model
 
-The Model is a music venue in Nottingham with 10 upcoming nights listed on soundcheck as of Thu, 30 Jul 2026; the next is "Cold Brewed presents Son of Philip b2b Croft, soapy b2b M75 & Jimmy Rocket" on Fri, 31 Jul 2026.
+The Model is a music venue in Nottingham with 10 upcoming nights listed on soundcheck as of Fri, 31 Jul 2026; the next is "Cold Brewed presents Son of Philip b2b Croft, soapy b2b M75 & Jimmy Rocket" on Fri, 31 Jul 2026.
 
 The Model is a music venue in Nottingham listed on soundcheck. 10 upcoming nights, with line-ups including Croft (UK), dj come, Dylan Whicher and Evil Woman and 2 more. Browse upcoming dates, start times and who's playing. 23 Goose Gate, Nottingham, NG1 3FE.
 
@@ -23,4 +23,4 @@ The Model is a music venue in Nottingham listed on soundcheck. 10 upcoming night
 
 23 Goose Gate, Nottingham, NG1 3FE, Nottingham
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/nottingham/club/the-model/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/nottingham/club/the-model/)*

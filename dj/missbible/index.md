@@ -1,6 +1,6 @@
 # Miss Bible
 
-Miss Bible is a Club and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at 131 Mccormack St, Toronto on Fri, 25 Sept 2026.
+Miss Bible is a Club and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at 131 Mccormack St, Toronto on Fri, 25 Sept 2026.
 
 Miss Bible is a club and techno artist based in Canada, tracked on soundcheck, with 19 sets logged across Toronto. Often billed alongside EMRYSLAZULI, Ard1n and LAZULI DOLL. Next up: 131 Mccormack St, Toronto on Fri 25 Sept.
 
@@ -25,4 +25,4 @@ Miss Bible is a club and techno artist based in Canada, tracked on soundcheck, w
 
 EMRYSLAZULI, Ard1n, LAZULI DOLL
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/missbible/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/missbible/)*

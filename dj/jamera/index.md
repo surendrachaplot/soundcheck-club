@@ -1,6 +1,6 @@
 # JAMera
 
-JAMera is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at Uebel & Gefährlich, Hamburg on Sat, 1 Aug 2026.
+JAMera is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at Uebel & Gefährlich, Hamburg on Sat, 1 Aug 2026.
 
 JAMera is a techno and house artist based in Germany, tracked on soundcheck, with 28 sets logged across Berlin, Hamburg, Leipzig and Nurnberg. Often billed alongside L.A.tifa, Bernossi and Gunilla. Next up: Uebel & Gefährlich, Hamburg on Sat 1 Aug.
 
@@ -25,4 +25,4 @@ JAMera is a techno and house artist based in Germany, tracked on soundcheck, wit
 
 L.A.tifa, Bernossi, Gunilla
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/jamera/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/jamera/)*

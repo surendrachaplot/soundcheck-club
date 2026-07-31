@@ -1,14 +1,13 @@
 # Eden
 
-Eden is a music venue in Ibiza with 50 upcoming nights listed on soundcheck as of Thu, 30 Jul 2026; the next is "LA DISTURBIA WEEK 5" on Thu, 30 Jul 2026.
+Eden is a music venue in Ibiza with 49 upcoming nights listed on soundcheck as of Fri, 31 Jul 2026; the next is "FIRE IN THE CLUB WEEK 9" on Fri, 31 Jul 2026.
 
-Eden is a music venue in Ibiza listed on soundcheck. 50 upcoming nights, with line-ups including 6EJOU, Alberto Costa, Alle Farben and Andres Campo and 2 more. Browse upcoming dates, start times and who's playing. Carrer Salvador Espriu,  07820 San Antonio, Ibiza, Spain.
+Eden is a music venue in Ibiza listed on soundcheck. 49 upcoming nights, with line-ups including 6EJOU, Alberto Costa, Alle Farben and Andres Campo and 2 more. Browse upcoming dates, start times and who's playing. Carrer Salvador Espriu,  07820 San Antonio, Ibiza, Spain.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Thu, 30 Jul 2026 | LA DISTURBIA WEEK 5 | Crusy, Loulou Players |
 | Fri, 31 Jul 2026 | FIRE IN THE CLUB WEEK 9 |  |
 | Sat, 1 Aug 2026 | FUEGO WEEK 10 | PALO MAIN, Sebastian Ledher |
 | Sun, 2 Aug 2026 | CUE IBIZA - WEEK 6 | Bonifacy, Cami Jones, Dennis Quin, Hidde van Wee, Lucas Alexander, Mad.Again (2) |
@@ -18,9 +17,10 @@ Eden is a music venue in Ibiza listed on soundcheck. 50 upcoming nights, with li
 | Thu, 6 Aug 2026 | LA DISTURBIA WEEK 6 | James Hurr |
 | Fri, 7 Aug 2026 | FIRE IN THE CLUB WEEK 10 |  |
 | Sat, 8 Aug 2026 | FUEGO WEEK 11 |  |
+| Mon, 10 Aug 2026 | ACTIN' BAD WEEK 6 (Presented by Holler At Me) | LUKAS & FRANK, Noel Holler |
 
 ## Address
 
 Carrer Salvador Espriu,  07820 San Antonio, Ibiza, Spain, Ibiza
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/ibiza/club/eden/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/ibiza/club/eden/)*

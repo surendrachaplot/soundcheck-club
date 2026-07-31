@@ -1,6 +1,6 @@
 # Human Experiments
 
-Human Experiments is a Techno and Ambient artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at ÆDEN, Berlin on Sat, 22 Aug 2026.
+Human Experiments is a Techno and Ambient artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at ÆDEN, Berlin on Sat, 22 Aug 2026.
 
 Human Experiments is a techno and ambient artist based in France, tracked on soundcheck, with 22 sets logged across Berlin, Istanbul and Paris. Often billed alongside Maris Shilton, Konapt and Under Black Helmet. Next up: ÆDEN, Berlin on Sat 22 Aug.
 
@@ -25,4 +25,4 @@ Human Experiments is a techno and ambient artist based in France, tracked on sou
 
 Maris Shilton, Konapt, Under Black Helmet
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/humanexperiments-1/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/humanexperiments-1/)*

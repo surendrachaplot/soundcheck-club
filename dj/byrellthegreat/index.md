@@ -1,6 +1,6 @@
 # Byrell The Great
 
-Byrell The Great is a Techno and Club artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at Société des arts technologiques, Montreal on Sat, 8 Aug 2026.
+Byrell The Great is a Techno and Club artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at Société des arts technologiques, Montreal on Sat, 8 Aug 2026.
 
 Byrell The Great is a techno and club artist based in United States of America, tracked on soundcheck, with 78 sets logged across Berlin, Chicago, Losangeles and Mexicocity and 6 more. Often billed alongside BEARCAT, Kenni Javon and Shyboi. Next up: Société des arts technologiques, Montreal on Sat 8 Aug.
 
@@ -25,4 +25,4 @@ Byrell The Great is a techno and club artist based in United States of America, 
 
 BEARCAT, Kenni Javon, Shyboi
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/byrellthegreat/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/byrellthegreat/)*

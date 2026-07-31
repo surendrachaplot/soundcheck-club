@@ -1,6 +1,6 @@
 # ShiftR
 
-ShiftR is a Techno and Bass artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at Sooki Lounge, Melbourne on Fri, 31 Jul 2026.
+ShiftR is a Techno and Bass artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at Sooki Lounge, Melbourne on Fri, 31 Jul 2026.
 
 ShiftR is a techno and bass artist based in United Kingdom, tracked on soundcheck, with 3 sets logged across Leeds and Melbourne. Often billed alongside JENKO, B-HIND and Davbanac. Next up: Sooki Lounge, Melbourne on Fri 31 Jul.
 
@@ -19,4 +19,4 @@ ShiftR is a techno and bass artist based in United Kingdom, tracked on soundchec
 
 JENKO, B-HIND, Davbanac
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/shiftr/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/shiftr/)*

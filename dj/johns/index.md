@@ -1,6 +1,6 @@
 # John's
 
-John's is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at Starlane Pizza Bar, London on Sun, 30 Aug 2026.
+John's is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at Starlane Pizza Bar, London on Sun, 30 Aug 2026.
 
 John's is a techno and house artist based in United Kingdom, tracked on soundcheck, with 3 sets logged across London. Often billed alongside Colaps, Cristian Sirica and Belmonte. Next up: Starlane Pizza Bar, London on Sun 30 Aug.
 
@@ -19,4 +19,4 @@ John's is a techno and house artist based in United Kingdom, tracked on soundche
 
 Colaps, Cristian Sirica, Belmonte
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/johns/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/johns/)*

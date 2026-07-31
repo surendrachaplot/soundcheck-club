@@ -1,6 +1,6 @@
 # Sirod
 
-Sirod is a Techno and Tech House artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at TBA - arxitektoniki , Athens on Sat, 1 Aug 2026.
+Sirod is a Techno and Tech House artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at TBA - arxitektoniki , Athens on Sat, 1 Aug 2026.
 
 Sirod is a techno and tech house artist tracked on soundcheck, with 32 sets logged across Athens. Often billed alongside Takis DK, Dom K and Vrede. Next up: TBA - arxitektoniki , Athens on Sat 1 Aug.
 
@@ -25,4 +25,4 @@ Sirod is a techno and tech house artist tracked on soundcheck, with 32 sets logg
 
 Takis DK, Dom K, Vrede
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/sirod/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/sirod/)*

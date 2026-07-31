@@ -1,6 +1,6 @@
 # Jimmy Valentine's Lonely Hearts Club
 
-Jimmy Valentine's Lonely Hearts Club is a music venue in Washington DC with 2 upcoming nights listed on soundcheck as of Thu, 30 Jul 2026; the next is "Hump Day House Party" on Wed, 5 Aug 2026.
+Jimmy Valentine's Lonely Hearts Club is a music venue in Washington DC with 2 upcoming nights listed on soundcheck as of Fri, 31 Jul 2026; the next is "Hump Day House Party" on Wed, 5 Aug 2026.
 
 Jimmy Valentine's Lonely Hearts Club is a music venue in Washingtondc listed on soundcheck. 2 upcoming nights, with line-ups including DJ Blasian, DJ DCM-9, DR MILLER and JFREE. Browse upcoming dates, start times and who's playing. 1103 Bladensburg Road; NE Washington, DC 20002; United States.
 
@@ -15,4 +15,4 @@ Jimmy Valentine's Lonely Hearts Club is a music venue in Washingtondc listed on 
 
 1103 Bladensburg Road; NE Washington, DC 20002; United States, Washington DC
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/washingtondc/club/jimmy-valentine-s-lonely-hearts-club/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/washingtondc/club/jimmy-valentine-s-lonely-hearts-club/)*

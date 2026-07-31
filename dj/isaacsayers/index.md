@@ -1,6 +1,6 @@
 # Isaac Sayers
 
-Isaac Sayers is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at The Safari Lounge, Edinburgh on Fri, 31 Jul 2026.
+Isaac Sayers is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at The Safari Lounge, Edinburgh on Fri, 31 Jul 2026.
 
 Isaac Sayers is a techno and house artist based in United Kingdom, tracked on soundcheck, with 27 sets logged across Edinburgh. Often billed alongside Jack Brown (2), KMD. and NØUR. Next up: The Safari Lounge, Edinburgh on Fri 31 Jul.
 
@@ -25,4 +25,4 @@ Isaac Sayers is a techno and house artist based in United Kingdom, tracked on so
 
 Jack Brown (2), KMD., NØUR
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/isaacsayers/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/isaacsayers/)*

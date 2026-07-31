@@ -1,6 +1,6 @@
 # senaitstar
 
-senaitstar is a Techno and Trance artist with 2 upcoming club dates listed on soundcheck as of Thu, 30 Jul 2026, next at M01, Berlin on Fri, 7 Aug 2026.
+senaitstar is a Techno and Trance artist with 2 upcoming club dates listed on soundcheck as of Fri, 31 Jul 2026, next at M01, Berlin on Fri, 7 Aug 2026.
 
 senaitstar is a techno and trance artist tracked on soundcheck, with 13 sets logged across Berlin. Often billed alongside MILANCHOLIE, Zukunftsfritze and DJ Jetset. Next up: M01, Berlin on Fri 7 Aug.
 
@@ -26,4 +26,4 @@ senaitstar is a techno and trance artist tracked on soundcheck, with 13 sets log
 
 MILANCHOLIE, Zukunftsfritze, DJ Jetset
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/senaitstar/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/senaitstar/)*

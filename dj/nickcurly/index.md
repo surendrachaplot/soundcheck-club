@@ -1,6 +1,6 @@
 # Nick Curly
 
-Nick Curly is a House and Tech House artist with 9 upcoming club dates listed on soundcheck as of Thu, 30 Jul 2026, next at Floyd, Miami on Fri, 31 Jul 2026.
+Nick Curly is a House and Tech House artist with 9 upcoming club dates listed on soundcheck as of Fri, 31 Jul 2026, next at Floyd, Miami on Fri, 31 Jul 2026.
 
 Nick Curly is a house and tech house artist tracked on soundcheck, with 107 sets logged across Amsterdam, Athens, Auckland and Bali and 37 more. Often billed alongside Andrew Azara, Easttown and Reboot. Next up: Floyd, Miami on Fri 31 Jul.
 
@@ -33,4 +33,4 @@ Nick Curly is a house and tech house artist tracked on soundcheck, with 107 sets
 
 Andrew Azara, Easttown, Reboot
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/nickcurly/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/nickcurly/)*

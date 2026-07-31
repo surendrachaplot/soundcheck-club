@@ -1,6 +1,6 @@
 # Congo Natty
 
-Congo Natty is a Jungle and Drum & Bass artist with 4 upcoming club dates listed on soundcheck as of Thu, 30 Jul 2026, next at The Clock Factory, Bristol on Fri, 31 Jul 2026.
+Congo Natty is a Jungle and Drum & Bass artist with 4 upcoming club dates listed on soundcheck as of Fri, 31 Jul 2026, next at The Clock Factory, Bristol on Fri, 31 Jul 2026.
 
 Congo Natty is a jungle and drum & bass artist tracked on soundcheck, with 38 sets logged across Birmingham, Brighton, Bristol and Leeds and 7 more. Often billed alongside DJ Snuff, Killa P and Sexy Lady Massive. Next up: The Clock Factory, Bristol on Fri 31 Jul.
 
@@ -28,4 +28,4 @@ Congo Natty is a jungle and drum & bass artist tracked on soundcheck, with 38 se
 
 DJ Snuff, Killa P, Sexy Lady Massive
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/congonatty/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/congonatty/)*

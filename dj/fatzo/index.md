@@ -1,14 +1,13 @@
 # Fatzo
 
-Fatzo is a House and Tech House artist with 5 upcoming club dates listed on soundcheck as of Thu, 30 Jul 2026, next at Ushuaïa Ibiza, Ibiza on Thu, 30 Jul 2026.
+Fatzo is a House and Tech House artist with 4 upcoming club dates listed on soundcheck as of Fri, 31 Jul 2026, next at [UNVRS], Ibiza on Sat, 22 Aug 2026.
 
-Fatzo is a house and tech house artist tracked on soundcheck, with 132 sets logged across Amsterdam, Antwerp, Austin and Bali and 37 more. Often billed alongside Oden, Armand Van Helden and Danny Howard. Next up: Ushuaïa Ibiza, Ibiza on Thu 30 Jul.
+Fatzo is a house and tech house artist tracked on soundcheck, with 132 sets logged across Amsterdam, Antwerp, Austin and Bali and 37 more. Often billed alongside Oden, Armand Van Helden and Danny Howard. Next up: [UNVRS], Ibiza on Sat 22 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Thu, 30 Jul 2026 | Ushuaïa Ibiza | Ibiza |
 | Sat, 22 Aug 2026 | [UNVRS] | Ibiza |
 | Tue, 29 Sept 2026 | Hï Ibiza | Ibiza |
 | Thu, 1 Oct 2026 | TBA - Various Venues | Malta |
@@ -16,6 +15,7 @@ Fatzo is a house and tech house artist tracked on soundcheck, with 132 sets logg
 
 ## Recently played
 
+- Ushuaïa Ibiza, Ibiza — Thu, 30 Jul 2026
 - Ku Barcelona, Barcelona — Sun, 26 Jul 2026
 - Chinois Ibiza, Ibiza — Thu, 23 Jul 2026
 - Silverworks Island, London — Sat, 11 Jul 2026
@@ -23,10 +23,9 @@ Fatzo is a house and tech house artist tracked on soundcheck, with 132 sets logg
 - Chinois Ibiza, Ibiza — Thu, 2 Jul 2026
 - TBA - Quinta Mira Rio, Lisbon — Sat, 13 Jun 2026
 - Chinois Ibiza, Ibiza — Thu, 4 Jun 2026
-- Chelmsford City Racecourse, London — Sat, 23 May 2026
 
 ## Shares bills with
 
 Oden, Armand Van Helden, Danny Howard
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/fatzo/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/fatzo/)*

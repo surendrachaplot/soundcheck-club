@@ -1,6 +1,6 @@
 # POLO JAFFA
 
-POLO JAFFA is a Garage and Bass artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at Phonox, London on Fri, 31 Jul 2026.
+POLO JAFFA is a Garage and Bass artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at Phonox, London on Fri, 31 Jul 2026.
 
 POLO JAFFA is a garage and bass artist based in United Kingdom, tracked on soundcheck, with 15 sets logged across Brighton, Leeds, London and Manchester. Often billed alongside whoswill, 1-800 GIRLS and After Hours. Next up: Phonox, London on Fri 31 Jul.
 
@@ -25,4 +25,4 @@ POLO JAFFA is a garage and bass artist based in United Kingdom, tracked on sound
 
 whoswill, 1-800 GIRLS, After Hours
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/polojaffa/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/polojaffa/)*

@@ -1,6 +1,6 @@
 # dicqbeats
 
-dicqbeats is a Hardcore and Breakcore artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at TBA - Secret Location, Washington DC on Fri, 7 Aug 2026.
+dicqbeats is a Hardcore and Breakcore artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at TBA - Secret Location, Washington DC on Fri, 7 Aug 2026.
 
 dicqbeats is a hardcore and breakcore artist based in United States of America, tracked on soundcheck, with 10 sets logged across Detroit, Newyorkcity, Philadelphia and Sanfrancisco and 1 more. Often billed alongside Hissyfit, BUBUCORE69 and CLAUDIX. Next up: TBA - Secret Location, Washingtondc on Fri 7 Aug.
 
@@ -25,4 +25,4 @@ dicqbeats is a hardcore and breakcore artist based in United States of America, 
 
 Hissyfit, BUBUCORE69, CLAUDIX
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/dicqbeats/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/dicqbeats/)*

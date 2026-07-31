@@ -1,6 +1,6 @@
 # Alva
 
-Alva is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at AMT, Berlin on Sat, 15 Aug 2026.
+Alva is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at AMT, Berlin on Sat, 15 Aug 2026.
 
 Alva is a techno and trance artist tracked on soundcheck, with 45 sets logged across Barcelona, Berlin, Cologne and Hamburg and 7 more. Often billed alongside AYLIN IDAH, Acierate and Parallx. Next up: AMT, Berlin on Sat 15 Aug.
 
@@ -25,4 +25,4 @@ Alva is a techno and trance artist tracked on soundcheck, with 45 sets logged ac
 
 AYLIN IDAH, Acierate, Parallx
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/alva-de/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/alva-de/)*

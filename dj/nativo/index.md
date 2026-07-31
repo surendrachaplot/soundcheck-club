@@ -1,6 +1,6 @@
 # nativo
 
-nativo is a House and Electro artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at Sunseabar Beach Club, Barcelona on Fri, 31 Jul 2026.
+nativo is a House and Electro artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at Sunseabar Beach Club, Barcelona on Fri, 31 Jul 2026.
 
 nativo is a house and electro artist based in Italy, tracked on soundcheck, with 33 sets logged across Amsterdam, Barcelona, Bucharest and Frankfurt and 8 more. Often billed alongside Brasi, ANDREA SALVAGGIO and Fabrizio Sala. Next up: Sunseabar Beach Club, Barcelona on Fri 31 Jul.
 
@@ -25,4 +25,4 @@ nativo is a house and electro artist based in Italy, tracked on soundcheck, with
 
 Brasi, ANDREA SALVAGGIO, Fabrizio Sala
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/nativo/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/nativo/)*

@@ -1,14 +1,13 @@
 # Sidney & Matilda
 
-Sidney & Matilda is a music venue in Sheffield with 8 upcoming nights listed on soundcheck as of Thu, 30 Jul 2026; the next is "Algorave Sheffield" on Thu, 30 Jul 2026.
+Sidney & Matilda is a music venue in Sheffield with 7 upcoming nights listed on soundcheck as of Fri, 31 Jul 2026; the next is "GLYPH - Summer Courtyard Session - Trance & Progressive: 1996-2026" on Sat, 15 Aug 2026.
 
-Sidney & Matilda is a music venue in Sheffield listed on soundcheck. 8 upcoming nights, with line-ups including Charla Green, Craig Cassiera, Damu and Dave Lazenby and 2 more. Browse upcoming dates, start times and who's playing. Rivelin Works, 46B Sidney St, Sheffield S1 4RH, United Kingdom.
+Sidney & Matilda is a music venue in Sheffield listed on soundcheck. 7 upcoming nights, with line-ups including Charla Green, Craig Cassiera, Dave Lazenby and Dead Man's Chest and 2 more. Browse upcoming dates, start times and who's playing. Rivelin Works, 46B Sidney St, Sheffield S1 4RH, United Kingdom.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Thu, 30 Jul 2026 | Algorave Sheffield | Damu, Eye Measure, Switch Angel, Tim Exile, Yaxu |
 | Sat, 15 Aug 2026 | GLYPH - Summer Courtyard Session - Trance & Progressive: 1996-2026 | Craig Cassiera, Dave Lazenby |
 | Fri, 21 Aug 2026 | S&M X Beat Bunker X Nowt Daft presents: DJ Paypal | DJ Paypal, Finn Eden, Livsey |
 | Fri, 11 Sept 2026 | BILL REAVER presents: Lady Passion | Lady Passion |
@@ -21,4 +20,4 @@ Sidney & Matilda is a music venue in Sheffield listed on soundcheck. 8 upcoming 
 
 Rivelin Works, 46B Sidney St, Sheffield S1 4RH, United Kingdom, Sheffield
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/sheffield/club/sidney-matilda/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/sheffield/club/sidney-matilda/)*

@@ -1,6 +1,6 @@
 # The Lord Gladstone
 
-The Lord Gladstone is a music venue in Sydney with 5 upcoming nights listed on soundcheck as of Thu, 30 Jul 2026; the next is "Fleeced presents: WOOL GATHERING 001" on Fri, 31 Jul 2026.
+The Lord Gladstone is a music venue in Sydney with 5 upcoming nights listed on soundcheck as of Fri, 31 Jul 2026; the next is "Fleeced presents: WOOL GATHERING 001" on Fri, 31 Jul 2026.
 
 The Lord Gladstone is a music venue in Sydney listed on soundcheck. 5 upcoming nights, with line-ups including Casual P, Deverence, Fashionably Late and Jane Decks and 2 more. Browse upcoming dates, start times and who's playing. 115 Regent St, Chippendale NSW 2008, Australia.
 
@@ -18,4 +18,4 @@ The Lord Gladstone is a music venue in Sydney listed on soundcheck. 5 upcoming n
 
 115 Regent St, Chippendale NSW 2008, Australia, Sydney
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/sydney/club/the-lord-gladstone/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/sydney/club/the-lord-gladstone/)*

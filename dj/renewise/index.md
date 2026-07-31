@@ -1,6 +1,6 @@
 # Rene Wise
 
-Rene Wise is a Techno and House artist with 14 upcoming club dates listed on soundcheck as of Thu, 30 Jul 2026, next at BLITZ, Munich on Fri, 31 Jul 2026.
+Rene Wise is a Techno and House artist with 14 upcoming club dates listed on soundcheck as of Fri, 31 Jul 2026, next at BLITZ, Munich on Fri, 31 Jul 2026.
 
 Rene Wise is a techno and house artist tracked on soundcheck, with 236 sets logged across Amsterdam, Athens, Austin and Barcelona and 68 more. Often billed alongside Blasha & Allatt, MARRØN and Ogazón. Next up: BLITZ, Munich on Fri 31 Jul.
 
@@ -36,4 +36,4 @@ Rene Wise is a techno and house artist tracked on soundcheck, with 236 sets logg
 
 Blasha & Allatt, MARRØN, Ogazón
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/renewise/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/renewise/)*

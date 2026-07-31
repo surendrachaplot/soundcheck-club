@@ -1,6 +1,6 @@
 # Ani con Gas
 
-Ani con Gas is a Trance and House artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at Südpol, Hamburg on Fri, 21 Aug 2026.
+Ani con Gas is a Trance and House artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at Südpol, Hamburg on Fri, 21 Aug 2026.
 
 Ani con Gas is a trance and house artist based in Germany, tracked on soundcheck, with 3 sets logged across Hamburg. Often billed alongside WAYRA, Alphabae and Arlo Bell. Next up: Südpol, Hamburg on Fri 21 Aug.
 
@@ -19,4 +19,4 @@ Ani con Gas is a trance and house artist based in Germany, tracked on soundcheck
 
 WAYRA, Alphabae, Arlo Bell
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/anicongas/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/anicongas/)*

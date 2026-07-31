@@ -1,6 +1,6 @@
 # Zoe Talley
 
-Zoe Talley is a House and Club artist with 2 upcoming club dates listed on soundcheck as of Thu, 30 Jul 2026, next at Lincoln Factory, Detroit on Fri, 31 Jul 2026.
+Zoe Talley is a House and Club artist with 2 upcoming club dates listed on soundcheck as of Fri, 31 Jul 2026, next at Lincoln Factory, Detroit on Fri, 31 Jul 2026.
 
 Zoe Talley is a house and club artist based in United States of America, tracked on soundcheck, with 24 sets logged across Detroit and Newyorkcity. Often billed alongside AK (US), Fullbodydurag and we1sman. Next up: Lincoln Factory, Detroit on Fri 31 Jul.
 
@@ -26,4 +26,4 @@ Zoe Talley is a house and club artist based in United States of America, tracked
 
 AK (US), Fullbodydurag, we1sman
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/zoetalley/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/zoetalley/)*

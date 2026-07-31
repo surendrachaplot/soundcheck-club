@@ -1,6 +1,6 @@
 # Winson
 
-Winson is a Techno and Deep House artist with 14 upcoming club dates listed on soundcheck as of Thu, 30 Jul 2026, next at UNO MALTA, Malta on Fri, 31 Jul 2026.
+Winson is a Techno and Deep House artist with 14 upcoming club dates listed on soundcheck as of Fri, 31 Jul 2026, next at UNO MALTA, Malta on Fri, 31 Jul 2026.
 
 Winson is a techno and deep house artist tracked on soundcheck, with 70 sets logged across Amsterdam, Barcelona, Basel and Brussels and 28 more. Often billed alongside KUKO, KLOFAMA and KARAH. Next up: UNO MALTA, Malta on Fri 31 Jul.
 
@@ -36,4 +36,4 @@ Winson is a techno and deep house artist tracked on soundcheck, with 70 sets log
 
 KUKO, KLOFAMA, KARAH
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/winson/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/winson/)*

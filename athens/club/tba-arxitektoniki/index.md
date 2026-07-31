@@ -1,6 +1,6 @@
 # TBA - arxitektoniki 
 
-TBA - arxitektoniki  is a music venue in Athens with 1 upcoming night listed on soundcheck as of Thu, 30 Jul 2026; the next is "Rage Rave x Architektoniki Club" on Sat, 1 Aug 2026.
+TBA - arxitektoniki  is a music venue in Athens with 1 upcoming night listed on soundcheck as of Fri, 31 Jul 2026; the next is "Rage Rave x Architektoniki Club" on Sat, 1 Aug 2026.
 
 TBA - arxitektoniki  is a music venue in Athens listed on soundcheck. 1 upcoming night, with line-ups including Judas, Sirod and Special Guest (US). Browse upcoming dates, start times and who's playing.
 
@@ -10,4 +10,4 @@ TBA - arxitektoniki  is a music venue in Athens listed on soundcheck. 1 upcoming
 | --- | --- | --- |
 | Sat, 1 Aug 2026 | Rage Rave x Architektoniki Club | Judas, Sirod, Special Guest (US) |
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/athens/club/tba-arxitektoniki/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/athens/club/tba-arxitektoniki/)*

@@ -1,6 +1,6 @@
 # rfta
 
-rfta is a Techno and Trance artist with 2 upcoming club dates listed on soundcheck as of Thu, 30 Jul 2026, next at Fuchs2, Prague on Fri, 31 Jul 2026.
+rfta is a Techno and Trance artist with 2 upcoming club dates listed on soundcheck as of Fri, 31 Jul 2026, next at Fuchs2, Prague on Fri, 31 Jul 2026.
 
 rfta is a techno and trance artist based in Germany, tracked on soundcheck, with 9 sets logged across Berlin, Cologne and Prague. Often billed alongside AMRTUM, CARAVEL and Cassie Raptor. Next up: Fuchs2, Prague on Fri 31 Jul.
 
@@ -25,4 +25,4 @@ rfta is a techno and trance artist based in Germany, tracked on soundcheck, with
 
 AMRTUM, CARAVEL, Cassie Raptor
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/rfta/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/rfta/)*

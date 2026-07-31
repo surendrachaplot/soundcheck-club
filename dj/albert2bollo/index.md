@@ -1,6 +1,6 @@
 # ALBERT2BOLLO
 
-ALBERT2BOLLO is a House and Afro House artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at Bella Veranda, Zurich on Sat, 22 Aug 2026.
+ALBERT2BOLLO is a House and Afro House artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at Bella Veranda, Zurich on Sat, 22 Aug 2026.
 
 ALBERT2BOLLO is a house and afro house artist based in Spain, tracked on soundcheck, with 7 sets logged across Barcelona and Zurich. Often billed alongside Alessio da Silva, Andri and DOBE. Next up: Bella Veranda, Zurich on Sat 22 Aug.
 
@@ -23,4 +23,4 @@ ALBERT2BOLLO is a house and afro house artist based in Spain, tracked on soundch
 
 Alessio da Silva, Andri, DOBE
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/albert2bollo/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/albert2bollo/)*

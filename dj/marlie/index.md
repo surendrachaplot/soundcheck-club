@@ -1,8 +1,8 @@
 # Marlie
 
-Marlie is a House and Tech House artist with 8 upcoming club dates listed on soundcheck as of Thu, 30 Jul 2026, next at Amnesia Ibiza, Ibiza on Thu, 6 Aug 2026.
+Marlie is a House and Tech House artist with 9 upcoming club dates listed on soundcheck as of Fri, 31 Jul 2026, next at Amnesia Ibiza, Ibiza on Thu, 6 Aug 2026.
 
-Marlie is a house and tech house artist tracked on soundcheck, with 119 sets logged across Amsterdam, Auckland, Bali and Barcelona and 22 more. Often billed alongside Enzo Siragusa, Traumer and PACH. Next up: Amnesia Ibiza, Ibiza on Thu 6 Aug.
+Marlie is a house and tech house artist tracked on soundcheck, with 120 sets logged across Amsterdam, Auckland, Bali and Barcelona and 22 more. Often billed alongside Enzo Siragusa, Traumer and PACH. Next up: Amnesia Ibiza, Ibiza on Thu 6 Aug.
 
 ## Upcoming shows
 
@@ -14,6 +14,7 @@ Marlie is a house and tech house artist tracked on soundcheck, with 119 sets log
 | Sat, 29 Aug 2026 | Supermarket | Zurich |
 | Sat, 5 Sept 2026 | Les Enfants Brillants | Barcelona |
 | Fri, 18 Sept 2026 | UNO MALTA | Malta |
+| Fri, 25 Sept 2026 | 303 Audiophile Bar | Barcelona |
 | Sat, 3 Oct 2026 | Depot Mayfield | Manchester |
 | Sat, 24 Oct 2026 | Thuishaven | Amsterdam |
 
@@ -32,4 +33,4 @@ Marlie is a house and tech house artist tracked on soundcheck, with 119 sets log
 
 Enzo Siragusa, Traumer, PACH
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/marlie/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/marlie/)*

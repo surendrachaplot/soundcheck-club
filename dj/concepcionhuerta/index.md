@@ -1,6 +1,6 @@
 # Concepción Huerta
 
-Concepción Huerta is a Experimental and Drone artist with 2 upcoming club dates listed on soundcheck as of Thu, 30 Jul 2026, next at YuYu Cine Club, Mexico City on Sat, 22 Aug 2026.
+Concepción Huerta is a Experimental and Drone artist with 2 upcoming club dates listed on soundcheck as of Fri, 31 Jul 2026, next at YuYu Cine Club, Mexico City on Sat, 22 Aug 2026.
 
 Concepción Huerta is an experimental and drone artist based in Mexico, tracked on soundcheck, with 23 sets logged across Barcelona, Berlin, London and Mexicocity and 3 more. Often billed alongside bela, Abul Mogard and Alex Zhang Hungtai. Next up: YuYu Cine Club, Mexicocity on Sat 22 Aug.
 
@@ -26,4 +26,4 @@ Concepción Huerta is an experimental and drone artist based in Mexico, tracked 
 
 bela, Abul Mogard, Alex Zhang Hungtai
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/concepcionhuerta/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/concepcionhuerta/)*

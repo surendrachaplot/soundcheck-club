@@ -1,6 +1,6 @@
 # VIVI (DE)
 
-VIVI (DE) is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at Fundbureau, Hamburg on Fri, 31 Jul 2026.
+VIVI (DE) is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at Fundbureau, Hamburg on Fri, 31 Jul 2026.
 
 VIVI (DE) is a techno and house artist based in Germany, tracked on soundcheck, with 15 sets logged across Berlin and Hamburg. Often billed alongside JUSTICE (DE), Baerbel and Ciao 3lla. Next up: Fundbureau, Hamburg on Fri 31 Jul.
 
@@ -25,4 +25,4 @@ VIVI (DE) is a techno and house artist based in Germany, tracked on soundcheck, 
 
 JUSTICE (DE), Baerbel, Ciao 3lla
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/vivide/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/vivide/)*

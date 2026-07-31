@@ -1,6 +1,6 @@
 # Jam-2
 
-Jam-2 is a Drum & Bass and Footwork artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at The Sinclair, Boston on Sat, 1 Aug 2026.
+Jam-2 is a Drum & Bass and Footwork artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at The Sinclair, Boston on Sat, 1 Aug 2026.
 
 Jam-2 is a drum & bass and footwork artist tracked on soundcheck, with 3 sets logged across Boston. Often billed alongside Glass Guts, Lenore and Sankta T. Next up: The Sinclair, Boston on Sat 1 Aug.
 
@@ -19,4 +19,4 @@ Jam-2 is a drum & bass and footwork artist tracked on soundcheck, with 3 sets lo
 
 Glass Guts, Lenore, Sankta T
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/jam-2/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/jam-2/)*

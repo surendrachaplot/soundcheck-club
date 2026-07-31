@@ -1,6 +1,6 @@
 # Janky
 
-Janky is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Thu, 30 Jul 2026, next at Club Rawhide, New York City on Sat, 1 Aug 2026.
+Janky is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Fri, 31 Jul 2026, next at Club Rawhide, New York City on Sat, 1 Aug 2026.
 
 Janky is a house and techno artist tracked on soundcheck, with 36 sets logged across Berlin, Chicago, Istanbul and London and 7 more. Often billed alongside Towicz, Derrick Carter and Dominique Lamee. Next up: Club Rawhide, Newyorkcity on Sat 1 Aug.
 
@@ -26,4 +26,4 @@ Janky is a house and techno artist tracked on soundcheck, with 36 sets logged ac
 
 Towicz, Derrick Carter, Dominique Lamee
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/janky/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/janky/)*

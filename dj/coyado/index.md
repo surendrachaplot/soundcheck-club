@@ -1,6 +1,6 @@
 # Coyado
 
-Coyado is a Techno and Club artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at Paragon, New York City on Fri, 14 Aug 2026.
+Coyado is a Techno and Club artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at Paragon, New York City on Fri, 14 Aug 2026.
 
 Coyado is a techno and club artist based in United States of America, tracked on soundcheck, with 34 sets logged across Newyorkcity, Philadelphia and Sydney. Often billed alongside Heartbreaker, ALEXIS DE LA ROSA and Battygyal. Next up: Paragon, Newyorkcity on Fri 14 Aug.
 
@@ -25,4 +25,4 @@ Coyado is a techno and club artist based in United States of America, tracked on
 
 Heartbreaker, ALEXIS DE LA ROSA, Battygyal
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/coyado/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/coyado/)*

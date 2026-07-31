@@ -1,6 +1,6 @@
 # Andrew Sharpe
 
-Andrew Sharpe is a Trance and Tech House artist with 2 upcoming club dates listed on soundcheck as of Thu, 30 Jul 2026, next at The Dutch Master, London on Sat, 1 Aug 2026.
+Andrew Sharpe is a Trance and Tech House artist with 2 upcoming club dates listed on soundcheck as of Fri, 31 Jul 2026, next at The Dutch Master, London on Sat, 1 Aug 2026.
 
 Andrew Sharpe is a trance and tech house artist tracked on soundcheck, with 5 sets logged across London. Often billed alongside C-systems, DJMrB and Sago. Next up: The Dutch Master, London on Sat 1 Aug.
 
@@ -21,4 +21,4 @@ Andrew Sharpe is a trance and tech house artist tracked on soundcheck, with 5 se
 
 C-systems, DJMrB, Sago
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/andrewsharpe/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/andrewsharpe/)*

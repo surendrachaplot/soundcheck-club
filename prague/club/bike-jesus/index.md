@@ -1,6 +1,6 @@
 # Bike Jesus
 
-Bike Jesus is a music venue in Prague with 5 upcoming nights listed on soundcheck as of Thu, 30 Jul 2026; the next is "Acide Technotheka (Berlin) goes Prague" on Fri, 31 Jul 2026.
+Bike Jesus is a music venue in Prague with 5 upcoming nights listed on soundcheck as of Fri, 31 Jul 2026; the next is "Acide Technotheka (Berlin) goes Prague" on Fri, 31 Jul 2026.
 
 Bike Jesus is a music venue in Prague listed on soundcheck. 5 upcoming nights, with line-ups including Alfred Czital, ANĪC, Axel Boman and Barbora and 2 more. Browse upcoming dates, start times and who's playing. ostrov Štvanice 1125, 170 00 Praha 7-Holešovice, Czechia.
 
@@ -18,4 +18,4 @@ Bike Jesus is a music venue in Prague listed on soundcheck. 5 upcoming nights, w
 
 ostrov Štvanice 1125, 170 00 Praha 7-Holešovice, Czechia, Prague
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/prague/club/bike-jesus/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/prague/club/bike-jesus/)*

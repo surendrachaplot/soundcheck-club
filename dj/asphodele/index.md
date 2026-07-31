@@ -1,6 +1,6 @@
 # Asphodèle
 
-Asphodèle is a Club and Bass artist with 4 upcoming club dates listed on soundcheck as of Thu, 30 Jul 2026, next at Vespers Club, London on Sat, 1 Aug 2026.
+Asphodèle is a Club and Bass artist with 4 upcoming club dates listed on soundcheck as of Fri, 31 Jul 2026, next at Vespers Club, London on Sat, 1 Aug 2026.
 
 Asphodèle is a club and bass artist based in United States of America, tracked on soundcheck, with 56 sets logged across Amsterdam, Berlin, Dublin and Frankfurt and 8 more. Often billed alongside Daddy Kev, BAE BAE and Izella. Next up: Vespers Club, London on Sat 1 Aug.
 
@@ -9,7 +9,7 @@ Asphodèle is a club and bass artist based in United States of America, tracked 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 1 Aug 2026 | Vespers Club | London |
-| Tue, 4 Aug 2026 | TBA - Tendermesh, Tetlestrasse 11-16 | Berlin |
+| Tue, 4 Aug 2026 | TBA - Tendermesh, Teilestraße 11-16 | Berlin |
 | Fri, 7 Aug 2026 | Melkweg | Amsterdam |
 | Sat, 8 Aug 2026 | Stereo | Glasgow |
 
@@ -28,4 +28,4 @@ Asphodèle is a club and bass artist based in United States of America, tracked 
 
 Daddy Kev, BAE BAE, Izella
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/asphodele/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/asphodele/)*

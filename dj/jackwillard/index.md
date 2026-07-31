@@ -1,6 +1,6 @@
 # Jack Willard
 
-Jack Willard is a Progressive House and Deep House artist with 2 upcoming club dates listed on soundcheck as of Thu, 30 Jul 2026, next at The Great Northern, San Francisco/Oakland on Fri, 31 Jul 2026.
+Jack Willard is a Progressive House and Deep House artist with 2 upcoming club dates listed on soundcheck as of Fri, 31 Jul 2026, next at The Great Northern, San Francisco/Oakland on Fri, 31 Jul 2026.
 
 Jack Willard is a progressive house and deep house artist based in United States of America, tracked on soundcheck, with 5 sets logged across Denver, Montreal, Newyorkcity and Sanfrancisco and 1 more. Often billed alongside Estiva, mölly and Braxton. Next up: The Great Northern, Sanfrancisco on Fri 31 Jul.
 
@@ -21,4 +21,4 @@ Jack Willard is a progressive house and deep house artist based in United States
 
 Estiva, mölly, Braxton
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/jackwillard/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/jackwillard/)*

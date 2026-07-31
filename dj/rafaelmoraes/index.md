@@ -1,6 +1,6 @@
 # Rafael Moraes
 
-Rafael Moraes is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at Major Bar & Pista, Sao Paulo on Fri, 31 Jul 2026.
+Rafael Moraes is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at Major Bar & Pista, Sao Paulo on Fri, 31 Jul 2026.
 
 Rafael Moraes is a house and deep house artist tracked on soundcheck, with 13 sets logged across Saopaulo. Often billed alongside Ney Faustini, Milton Chuquer and Roger Weekes. Next up: Major Bar & Pista, Saopaulo on Fri 31 Jul.
 
@@ -25,4 +25,4 @@ Rafael Moraes is a house and deep house artist tracked on soundcheck, with 13 se
 
 Ney Faustini, Milton Chuquer, Roger Weekes
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/rafaelmoraes/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/rafaelmoraes/)*

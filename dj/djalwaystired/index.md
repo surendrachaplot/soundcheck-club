@@ -1,6 +1,6 @@
 # dj always tired
 
-dj always tired is a electronic artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at TBA - Secret Open Air, Berlin on Sat, 1 Aug 2026.
+dj always tired is a electronic artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at TBA - Secret Open Air, Berlin on Sat, 1 Aug 2026.
 
 dj always tired is an electronic artist based in Greece, tracked on soundcheck, with 6 sets logged across Athens and Berlin. Often billed alongside AVEM, Anja Schneider and Carbon. Next up: TBA - Secret Open Air, Berlin on Sat 1 Aug.
 
@@ -22,4 +22,4 @@ dj always tired is an electronic artist based in Greece, tracked on soundcheck, 
 
 AVEM, Anja Schneider, Carbon
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/djalwaystired/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/djalwaystired/)*

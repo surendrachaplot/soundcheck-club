@@ -1,10 +1,10 @@
 # AUDIODISE x OpenLab pres. Edward (Giegling), E.LINA and Swann at Nocturna
 
-AUDIODISE x OpenLab pres. Edward (Giegling), E.LINA and Swann at Nocturna on Sat 1 Aug, Ibiza. 3 acts on the bill: E.LINA, Edward and Swann. House and Electro. Preview the line-up and save it on soundcheck.
+AUDIODISE x OpenLab pres. Edward (Giegling), E.LINA and Swann at Nocturna on Fri 21 Aug, Ibiza. 3 acts on the bill: E.LINA, Edward and Swann. House and Electro. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
-| Date | Sat, 1 Aug 2026 |
+| Date | Fri, 21 Aug 2026 |
 | Venue | Nocturna |
 | City | Ibiza |
 

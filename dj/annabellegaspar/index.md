@@ -1,6 +1,6 @@
 # Annabelle Gaspar
 
-Annabelle Gaspar is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at Berghain | Panorama Bar | Säule, Berlin on Sat, 15 Aug 2026.
+Annabelle Gaspar is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at Berghain | Panorama Bar | Säule, Berlin on Sat, 15 Aug 2026.
 
 Annabelle Gaspar is a house and techno artist based in Australia, tracked on soundcheck, with 25 sets logged across Berlin, Melbourne and Sydney. Often billed alongside Deepa, Simon Caldwell and AHJU. Next up: Berghain | Panorama Bar | Säule, Berlin on Sat 15 Aug.
 
@@ -25,4 +25,4 @@ Annabelle Gaspar is a house and techno artist based in Australia, tracked on sou
 
 Deepa, Simon Caldwell, AHJU
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/annabellegaspar/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/annabellegaspar/)*

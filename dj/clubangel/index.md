@@ -1,6 +1,6 @@
 # Club Angel
 
-Club Angel is a Garage and House artist with 10 upcoming club dates listed on soundcheck as of Thu, 30 Jul 2026, next at Club Vaag, Antwerp on Sat, 1 Aug 2026.
+Club Angel is a Garage and House artist with 10 upcoming club dates listed on soundcheck as of Fri, 31 Jul 2026, next at Club Vaag, Antwerp on Sat, 1 Aug 2026.
 
 Club Angel is a garage and house artist tracked on soundcheck, with 93 sets logged across Amsterdam, Antwerp, Austin and Barcelona and 32 more. Often billed alongside Sam Alfred, Interplanetary Criminal and salute. Next up: Club Vaag, Antwerp on Sat 1 Aug.
 
@@ -34,4 +34,4 @@ Club Angel is a garage and house artist tracked on soundcheck, with 93 sets logg
 
 Sam Alfred, Interplanetary Criminal, salute
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/clubangel/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/clubangel/)*

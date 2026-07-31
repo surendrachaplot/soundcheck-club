@@ -1,6 +1,6 @@
 # Sire Jonah
 
-Sire Jonah is a Trance and Techno artist with 2 upcoming club dates listed on soundcheck as of Thu, 30 Jul 2026, next at Lokschuppen Berlin, Berlin on Sat, 1 Aug 2026.
+Sire Jonah is a Trance and Techno artist with 2 upcoming club dates listed on soundcheck as of Fri, 31 Jul 2026, next at Lokschuppen Berlin, Berlin on Sat, 1 Aug 2026.
 
 Sire Jonah is a trance and techno artist based in Germany, tracked on soundcheck, with 11 sets logged across Berlin, Cologne and Hamburg. Often billed alongside XIMA, CIKO and DJ BRECHSTANGE. Next up: Lokschuppen Berlin, Berlin on Sat 1 Aug.
 
@@ -26,4 +26,4 @@ Sire Jonah is a trance and techno artist based in Germany, tracked on soundcheck
 
 XIMA, CIKO, DJ BRECHSTANGE
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/sirejonah/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/sirejonah/)*

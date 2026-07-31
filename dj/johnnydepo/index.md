@@ -1,6 +1,6 @@
 # Johnny Depo
 
-Johnny Depo is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Thu, 30 Jul 2026, next at B2 Rīga, Riga on Fri, 31 Jul 2026.
+Johnny Depo is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Fri, 31 Jul 2026, next at B2 Rīga, Riga on Fri, 31 Jul 2026.
 
 Johnny Depo is a techno and house artist tracked on soundcheck, with 24 sets logged across Riga. Often billed alongside Grisha Nirgov, Mikass and Recurrence. Next up: B2 Rīga, Riga on Fri 31 Jul.
 
@@ -26,4 +26,4 @@ Johnny Depo is a techno and house artist tracked on soundcheck, with 24 sets log
 
 Grisha Nirgov, Mikass, Recurrence
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/johnnydepo/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/johnnydepo/)*

@@ -1,6 +1,6 @@
 # Please (1)
 
-Please (1) is a Footwork and Club artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at Whistler, Chicago on Sun, 9 Aug 2026.
+Please (1) is a Footwork and Club artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at Whistler, Chicago on Sun, 9 Aug 2026.
 
 Please (1) is a footwork and club artist based in United States of America, tracked on soundcheck, with 7 sets logged across Chicago, Newyorkcity, Paris and Tallinn. Often billed alongside Composuresquad, Devin Hudson and Glitch. Next up: Whistler, Chicago on Sun 9 Aug.
 
@@ -23,4 +23,4 @@ Please (1) is a footwork and club artist based in United States of America, trac
 
 Composuresquad, Devin Hudson, Glitch
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/please-1/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/please-1/)*

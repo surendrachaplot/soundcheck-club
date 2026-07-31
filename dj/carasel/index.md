@@ -1,6 +1,6 @@
 # Carasel
 
-Carasel is a Drum & Bass and Jungle artist with 3 upcoming club dates listed on soundcheck as of Thu, 30 Jul 2026, next at Hackney Wick Multiple Venues, London on Sat, 1 Aug 2026.
+Carasel is a Drum & Bass and Jungle artist with 3 upcoming club dates listed on soundcheck as of Fri, 31 Jul 2026, next at Hackney Wick Multiple Venues, London on Sat, 1 Aug 2026.
 
 Carasel is a drum & bass and jungle artist tracked on soundcheck, with 69 sets logged across Amsterdam, Auckland, Birmingham and Brighton and 7 more. Often billed alongside Jakes, IC3 and Inja. Next up: Hackney Wick Multiple Venues, London on Sat 1 Aug.
 
@@ -27,4 +27,4 @@ Carasel is a drum & bass and jungle artist tracked on soundcheck, with 69 sets l
 
 Jakes, IC3, Inja
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/carasel/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/carasel/)*

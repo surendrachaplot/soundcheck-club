@@ -1,6 +1,6 @@
 # DJ Brian Halligan
 
-DJ Brian Halligan is a House and Disco artist with 2 upcoming club dates listed on soundcheck as of Thu, 30 Jul 2026, next at Spontaneous Celebrations, Boston on Sat, 1 Aug 2026.
+DJ Brian Halligan is a House and Disco artist with 2 upcoming club dates listed on soundcheck as of Fri, 31 Jul 2026, next at Spontaneous Celebrations, Boston on Sat, 1 Aug 2026.
 
 DJ Brian Halligan is a house and disco artist based in United States of America, tracked on soundcheck, with 4 sets logged across Boston and Newyorkcity. Often billed alongside Mx. Demeanor. Next up: Spontaneous Celebrations, Boston on Sat 1 Aug.
 
@@ -20,4 +20,4 @@ DJ Brian Halligan is a house and disco artist based in United States of America,
 
 Mx. Demeanor
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/djbrianhalligan/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/djbrianhalligan/)*

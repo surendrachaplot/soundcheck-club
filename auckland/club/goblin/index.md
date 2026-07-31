@@ -1,6 +1,6 @@
 # Goblin
 
-Goblin is a music venue in Auckland with 3 upcoming nights listed on soundcheck as of Thu, 30 Jul 2026; the next is "Joe Kaptein Quartet - Upside Down Lounge" on Wed, 5 Aug 2026.
+Goblin is a music venue in Auckland with 3 upcoming nights listed on soundcheck as of Fri, 31 Jul 2026; the next is "Joe Kaptein Quartet - Upside Down Lounge" on Wed, 5 Aug 2026.
 
 Goblin is a music venue in Auckland listed on soundcheck. 3 upcoming nights, with line-ups including Ryan Berkeley. Browse upcoming dates, start times and who's playing. 134 Ponsonby Road, Grey Lynn, Auckland 1011.
 
@@ -16,4 +16,4 @@ Goblin is a music venue in Auckland listed on soundcheck. 3 upcoming nights, wit
 
 134 Ponsonby Road, Grey Lynn, Auckland 1011, Auckland
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/auckland/club/goblin/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/auckland/club/goblin/)*

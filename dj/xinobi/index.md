@@ -1,6 +1,6 @@
 # Xinobi
 
-Xinobi is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at Culture Box, Copenhagen on Fri, 23 Oct 2026.
+Xinobi is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at Culture Box, Copenhagen on Fri, 23 Oct 2026.
 
 Xinobi is a house and techno artist based in Portugal, tracked on soundcheck, with 64 sets logged across Amsterdam, Bangkok, Barcelona and Brussels and 21 more. Often billed alongside Moullinex, Klin Klop and GPU Panic. Next up: Culture Box, Copenhagen on Fri 23 Oct.
 
@@ -25,4 +25,4 @@ Xinobi is a house and techno artist based in Portugal, tracked on soundcheck, wi
 
 Moullinex, Klin Klop, GPU Panic
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/xinobi/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/xinobi/)*

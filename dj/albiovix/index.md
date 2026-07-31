@@ -1,6 +1,6 @@
 # Albiovix
 
-Albiovix is a Acid and Hardcore artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at Chinastraat, Ghent on Sat, 1 Aug 2026.
+Albiovix is a Acid and Hardcore artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at Chinastraat, Ghent on Sat, 1 Aug 2026.
 
 Albiovix is an acid and hardcore artist tracked on soundcheck, with 4 sets logged across Ghent. Often billed alongside 23Shayatin, Jane Muss and Kalki. Next up: Chinastraat, Ghent on Sat 1 Aug.
 
@@ -20,4 +20,4 @@ Albiovix is an acid and hardcore artist tracked on soundcheck, with 4 sets logge
 
 23Shayatin, Jane Muss, Kalki
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/albiovix/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/albiovix/)*

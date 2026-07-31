@@ -1,6 +1,6 @@
 # Priku
 
-Priku is a Minimal and House artist with 8 upcoming club dates listed on soundcheck as of Thu, 30 Jul 2026, next at Europa Boat, Budapest on Sat, 1 Aug 2026.
+Priku is a Minimal and House artist with 8 upcoming club dates listed on soundcheck as of Fri, 31 Jul 2026, next at Europa Boat, Budapest on Sat, 1 Aug 2026.
 
 Priku is a minimal and house artist tracked on soundcheck, with 167 sets logged across Amsterdam, Antwerp, Athens and Bali and 39 more. Often billed alongside Arapu, Sossa and Seth Troxler. Next up: Europa Boat, Budapest on Sat 1 Aug.
 
@@ -32,4 +32,4 @@ Priku is a minimal and house artist tracked on soundcheck, with 167 sets logged 
 
 Arapu, Sossa, Seth Troxler
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/priku/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/priku/)*

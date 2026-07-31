@@ -1,6 +1,6 @@
 # Aivee
 
-Aivee is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Thu, 30 Jul 2026, next at Birgit, Berlin on Fri, 31 Jul 2026.
+Aivee is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Fri, 31 Jul 2026, next at Birgit, Berlin on Fri, 31 Jul 2026.
 
 Aivee is a techno and house artist tracked on soundcheck, with 23 sets logged across Berlin, Leipzig and Munich. Often billed alongside Nienein, clju_2k and ANKA (2). Next up: Birgit, Berlin on Fri 31 Jul.
 
@@ -26,4 +26,4 @@ Aivee is a techno and house artist tracked on soundcheck, with 23 sets logged ac
 
 Nienein, clju_2k, ANKA (2)
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/aivee/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/aivee/)*

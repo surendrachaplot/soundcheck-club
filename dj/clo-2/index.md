@@ -1,6 +1,6 @@
 # CLO (2)
 
-CLO (2) is a House and Baile Funk artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at Sneaky Pete's, Edinburgh on Sun, 23 Aug 2026.
+CLO (2) is a House and Baile Funk artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at Sneaky Pete's, Edinburgh on Sun, 23 Aug 2026.
 
 CLO (2) is a house and baile funk artist based in United Kingdom, tracked on soundcheck, with 28 sets logged across Edinburgh, Glasgow and Paris. Often billed alongside strawb.bby, Babyjaii and Casement. Next up: Sneaky Pete's, Edinburgh on Sun 23 Aug.
 
@@ -25,4 +25,4 @@ CLO (2) is a house and baile funk artist based in United Kingdom, tracked on sou
 
 strawb.bby, Babyjaii, Casement
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/clo-2/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/clo-2/)*

@@ -1,6 +1,6 @@
 # Yosh (UK)
 
-Yosh (UK) is a Garage and House artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at Planet Wax, London on Sat, 8 Aug 2026.
+Yosh (UK) is a Garage and House artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at Planet Wax, London on Sat, 8 Aug 2026.
 
 Yosh (UK) is a garage and house artist based in United Kingdom, tracked on soundcheck, with 6 sets logged across Berlin, London and Madrid. Often billed alongside Alexander Nut, Ariane V and BAY-BUSH-KA. Next up: Planet Wax, London on Sat 8 Aug.
 
@@ -22,4 +22,4 @@ Yosh (UK) is a garage and house artist based in United Kingdom, tracked on sound
 
 Alexander Nut, Ariane V, BAY-BUSH-KA
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/yoshuk/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/yoshuk/)*

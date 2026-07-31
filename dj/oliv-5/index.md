@@ -1,6 +1,6 @@
 # OLIV
 
-OLIV is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at Tresor / Globus, Berlin on Fri, 31 Jul 2026.
+OLIV is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at Tresor / Globus, Berlin on Fri, 31 Jul 2026.
 
 OLIV is a house and techno artist based in Germany, tracked on soundcheck, with 56 sets logged across Berlin, Cologne, Hamburg and Leipzig and 2 more. Often billed alongside SAM (9), jewelry and Gladee. Next up: Tresor / Globus, Berlin on Fri 31 Jul.
 
@@ -25,4 +25,4 @@ OLIV is a house and techno artist based in Germany, tracked on soundcheck, with 
 
 SAM (9), jewelry, Gladee
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/oliv-5/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/oliv-5/)*

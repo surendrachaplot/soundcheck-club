@@ -1,6 +1,6 @@
 # Quakes
 
-Quakes is a Bass and Drum & Bass artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at TBA - Brumby Bar Jindabyne, Sydney on Fri, 31 Jul 2026.
+Quakes is a Bass and Drum & Bass artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at TBA - Brumby Bar Jindabyne, Sydney on Fri, 31 Jul 2026.
 
 Quakes is a bass and drum & bass artist based in Australia, tracked on soundcheck, with 9 sets logged across Sydney. Often billed alongside Autogenesis, I.C.Y and Jungist. Next up: TBA - Brumby Bar Jindabyne, Sydney on Fri 31 Jul.
 
@@ -25,4 +25,4 @@ Quakes is a bass and drum & bass artist based in Australia, tracked on soundchec
 
 Autogenesis, I.C.Y, Jungist
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/quakes/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/quakes/)*

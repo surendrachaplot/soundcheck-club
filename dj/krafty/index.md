@@ -1,6 +1,6 @@
 # KRÄFTY
 
-KRÄFTY is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at Ramona, Manchester on Sat, 1 Aug 2026.
+KRÄFTY is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at Ramona, Manchester on Sat, 1 Aug 2026.
 
 KRÄFTY is a house and tech house artist based in United Kingdom, tracked on soundcheck, with 12 sets logged across Amsterdam and Manchester. Often billed alongside A Little Bit Orange, Aiden Francis and Milly on Air. Next up: Ramona, Manchester on Sat 1 Aug.
 
@@ -25,4 +25,4 @@ KRÄFTY is a house and tech house artist based in United Kingdom, tracked on sou
 
 A Little Bit Orange, Aiden Francis, Milly on Air
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/krafty/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/krafty/)*

@@ -1,6 +1,6 @@
 # Gingershot
 
-Gingershot is a Techno and Industrial artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at Aether Club Budapest, Budapest on Fri, 31 Jul 2026.
+Gingershot is a Techno and Industrial artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at Aether Club Budapest, Budapest on Fri, 31 Jul 2026.
 
 Gingershot is a techno and industrial artist tracked on soundcheck, with 67 sets logged across Berlin and Budapest. Often billed alongside Rozalina, Ben Dover and szoliver. Next up: Aether Club Budapest, Budapest on Fri 31 Jul.
 
@@ -25,4 +25,4 @@ Gingershot is a techno and industrial artist tracked on soundcheck, with 67 sets
 
 Rozalina, Ben Dover, szoliver
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/gingershot/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/gingershot/)*

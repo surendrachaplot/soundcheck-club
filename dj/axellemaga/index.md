@@ -1,6 +1,6 @@
 # Axelle Maga
 
-Axelle Maga is a House and Electro artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at Kilomètre25, Paris on Fri, 7 Aug 2026.
+Axelle Maga is a House and Electro artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at Kilomètre25, Paris on Fri, 7 Aug 2026.
 
 Axelle Maga is a house and electro artist based in France, tracked on soundcheck, with 11 sets logged across Newyorkcity and Paris. Often billed alongside Romeo Louisa, ZAV and Baka G. Next up: Kilomètre25, Paris on Fri 7 Aug.
 
@@ -25,4 +25,4 @@ Axelle Maga is a house and electro artist based in France, tracked on soundcheck
 
 Romeo Louisa, ZAV, Baka G
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/axellemaga/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/axellemaga/)*

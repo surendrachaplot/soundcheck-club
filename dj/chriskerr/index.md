@@ -1,6 +1,6 @@
 # Chris Kerr
 
-Chris Kerr is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at Club 69, Glasgow on Fri, 31 Jul 2026.
+Chris Kerr is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at Club 69, Glasgow on Fri, 31 Jul 2026.
 
 Chris Kerr is a techno and trance artist based in United Kingdom, tracked on soundcheck, with 8 sets logged across Glasgow. Often billed alongside GUBBY, Karson Ross and Stephen Taggart. Next up: Club 69, Glasgow on Fri 31 Jul.
 
@@ -24,4 +24,4 @@ Chris Kerr is a techno and trance artist based in United Kingdom, tracked on sou
 
 GUBBY, Karson Ross, Stephen Taggart
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/chriskerr/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/chriskerr/)*

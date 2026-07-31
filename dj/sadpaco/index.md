@@ -1,6 +1,6 @@
 # Sad Paco
 
-Sad Paco is a Techno and Industrial artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at Village du Soir, Geneva on Fri, 31 Jul 2026.
+Sad Paco is a Techno and Industrial artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at Village du Soir, Geneva on Fri, 31 Jul 2026.
 
 Sad Paco is a techno and industrial artist based in Switzerland, tracked on soundcheck, with 3 sets logged across Geneva. Often billed alongside Christelle Angela, HUGOAT and ANouch. Next up: Village du Soir, Geneva on Fri 31 Jul.
 
@@ -19,4 +19,4 @@ Sad Paco is a techno and industrial artist based in Switzerland, tracked on soun
 
 Christelle Angela, HUGOAT, ANouch
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/sadpaco/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/sadpaco/)*

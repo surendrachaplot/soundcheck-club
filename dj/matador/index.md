@@ -1,6 +1,6 @@
 # Matador
 
-Matador is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at Nowe Centrum Administracyjne (Kombinat) ul. Ujastek 1., Krakow on Sat, 5 Sept 2026.
+Matador is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at Nowe Centrum Administracyjne (Kombinat) ul. Ujastek 1., Krakow on Sat, 5 Sept 2026.
 
 Matador is a techno and house artist based in Ireland, tracked on soundcheck, with 42 sets logged across Amsterdam, Barcelona, Belgrade and Budapest and 15 more. Often billed alongside Anhauser, CamelPhat and Deep Dish. Next up: Nowe Centrum Administracyjne (Kombinat) ul. Ujastek 1., Krakow on Sat 5 Sept.
 
@@ -25,4 +25,4 @@ Matador is a techno and house artist based in Ireland, tracked on soundcheck, wi
 
 Anhauser, CamelPhat, Deep Dish
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/matador/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/matador/)*

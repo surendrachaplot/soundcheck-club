@@ -1,6 +1,6 @@
 # George T
 
-George T is a House and Electronica artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at The Doghouse, Edinburgh on Sat, 1 Aug 2026.
+George T is a House and Electronica artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at The Doghouse, Edinburgh on Sat, 1 Aug 2026.
 
 George T is a house and electronica artist based in United Kingdom, tracked on soundcheck, with 15 sets logged across Edinburgh. Often billed alongside Mairi 'b' Pots, Dani Sonder and Bikini Body. Next up: The Doghouse, Edinburgh on Sat 1 Aug.
 
@@ -25,4 +25,4 @@ George T is a house and electronica artist based in United Kingdom, tracked on s
 
 Mairi 'b' Pots, Dani Sonder, Bikini Body
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/georget/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/georget/)*

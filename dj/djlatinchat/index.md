@@ -1,6 +1,6 @@
 # dj latinchat
 
-dj latinchat is a Latin Bass and Gqom artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at Maaya, Berlin on Sun, 2 Aug 2026.
+dj latinchat is a Latin Bass and Gqom artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at Maaya, Berlin on Sun, 2 Aug 2026.
 
 dj latinchat is a latin bass and gqom artist based in Peru, tracked on soundcheck, with 22 sets logged across Berlin and Warsaw. Often billed alongside sin serif, KALI. and auto_timer. Next up: Maaya, Berlin on Sun 2 Aug.
 
@@ -25,4 +25,4 @@ dj latinchat is a latin bass and gqom artist based in Peru, tracked on soundchec
 
 sin serif, KALI., auto_timer
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/djlatinchat/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/djlatinchat/)*

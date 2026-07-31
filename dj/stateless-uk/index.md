@@ -1,6 +1,6 @@
 # Stateless (UK)
 
-Stateless (UK) is a Jungle and Drum & Bass artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at Basing House, London on Fri, 7 Aug 2026.
+Stateless (UK) is a Jungle and Drum & Bass artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at Basing House, London on Fri, 7 Aug 2026.
 
 Stateless (UK) is a jungle and drum & bass artist based in United Kingdom, tracked on soundcheck, with 10 sets logged across London. Often billed alongside Joe Le Groove, Subject 13 and Abby Daze. Next up: Basing House, London on Fri 7 Aug.
 
@@ -25,4 +25,4 @@ Stateless (UK) is a jungle and drum & bass artist based in United Kingdom, track
 
 Joe Le Groove, Subject 13, Abby Daze
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/stateless-uk/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/stateless-uk/)*

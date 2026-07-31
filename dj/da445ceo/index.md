@@ -1,6 +1,6 @@
 # da 445.ceo
 
-da 445.ceo is a Club and Trance artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at Bastet, Philadelphia on Sat, 1 Aug 2026.
+da 445.ceo is a Club and Trance artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at Bastet, Philadelphia on Sat, 1 Aug 2026.
 
 da 445.ceo is a club and trance artist based in United States of America, tracked on soundcheck, with 2 sets logged across Philadelphia. Often billed alongside No Author, ghost.slut and 9TAILSHADOWWOLF. Next up: Bastet, Philadelphia on Sat 1 Aug.
 
@@ -18,4 +18,4 @@ da 445.ceo is a club and trance artist based in United States of America, tracke
 
 No Author, ghost.slut, 9TAILSHADOWWOLF
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/da445ceo/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/da445ceo/)*

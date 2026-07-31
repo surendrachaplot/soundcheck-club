@@ -1,6 +1,6 @@
 # Sala El Sol
 
-Sala El Sol is a music venue in Madrid with 10 upcoming nights listed on soundcheck as of Thu, 30 Jul 2026; the next is "UNDERWATER with Natiivo b2b Valentinna, Animal Print, Demattei, Savanna, Fercho Salazar" on Fri, 31 Jul 2026.
+Sala El Sol is a music venue in Madrid with 10 upcoming nights listed on soundcheck as of Fri, 31 Jul 2026; the next is "UNDERWATER with Natiivo b2b Valentinna, Animal Print, Demattei, Savanna, Fercho Salazar" on Fri, 31 Jul 2026.
 
 Sala El Sol is a music venue in Madrid listed on soundcheck. 10 upcoming nights, with line-ups including Animal Print, Demattei, Fercho salazar and Irene Yago and 2 more. Browse upcoming dates, start times and who's playing. Calle Jardines 3, 28013 Madrid, Spain.
 
@@ -23,4 +23,4 @@ Sala El Sol is a music venue in Madrid listed on soundcheck. 10 upcoming nights,
 
 Calle Jardines 3, 28013 Madrid, Spain, Madrid
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/madrid/club/sala-el-sol/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/madrid/club/sala-el-sol/)*

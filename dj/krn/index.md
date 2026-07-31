@@ -1,6 +1,6 @@
 # KRN
 
-KRN is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at Crate Brewery, London on Sat, 1 Aug 2026.
+KRN is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at Crate Brewery, London on Sat, 1 Aug 2026.
 
 KRN is a house and tech house artist based in United Kingdom, tracked on soundcheck, with 53 sets logged across Amsterdam, Barcelona, Berlin and Birmingham and 15 more. Often billed alongside The Ghost, Sugar Free and DJ Pipe. Next up: Crate Brewery, London on Sat 1 Aug.
 
@@ -25,4 +25,4 @@ KRN is a house and tech house artist based in United Kingdom, tracked on soundch
 
 The Ghost, Sugar Free, DJ Pipe
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/krn/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/krn/)*

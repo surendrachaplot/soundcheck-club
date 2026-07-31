@@ -1,13 +1,14 @@
 # Kaldera
 
-Kaldera is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Thu, 30 Jul 2026, next at Klunkerkranich, Berlin on Sat, 8 Aug 2026.
+Kaldera is a House and Minimal artist with 3 upcoming club dates listed on soundcheck as of Fri, 31 Jul 2026, next at Klunkerkranich, Berlin on Sat, 8 Aug 2026.
 
-Kaldera is a house and techno artist based in Germany, tracked on soundcheck, with 15 sets logged across Berlin. Often billed alongside Jesper Aubin, Raj el Rey and Schlecksi. Next up: Klunkerkranich, Berlin on Sat 8 Aug.
+Kaldera is a house and minimal artist based in Germany, tracked on soundcheck, with 16 sets logged across Berlin. Often billed alongside Jesper Aubin, Raj el Rey and Lex Ludlow. Next up: Klunkerkranich, Berlin on Sat 8 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 8 Aug 2026 | Klunkerkranich | Berlin |
 | Sat, 8 Aug 2026 | Klunkerkranich | Berlin |
 | Sat, 15 Aug 2026 | TBA - telegram @klangsubstanz | Berlin |
 
@@ -24,6 +25,6 @@ Kaldera is a house and techno artist based in Germany, tracked on soundcheck, wi
 
 ## Shares bills with
 
-Jesper Aubin, Raj el Rey, Schlecksi
+Jesper Aubin, Raj el Rey, Lex Ludlow
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/kaldera/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/kaldera/)*

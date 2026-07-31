@@ -1,6 +1,6 @@
 # Veri Peri
 
-Veri Peri is a Techno and Club artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at Smoke & Mirrors, Chicago on Sat, 8 Aug 2026.
+Veri Peri is a Techno and Club artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at Smoke & Mirrors, Chicago on Sat, 8 Aug 2026.
 
 Veri Peri is a techno and club artist tracked on soundcheck, with 30 sets logged across Chicago. Often billed alongside Flores Negras, JULLS and Jon McCray. Next up: Smoke & Mirrors, Chicago on Sat 8 Aug.
 
@@ -25,4 +25,4 @@ Veri Peri is a techno and club artist tracked on soundcheck, with 30 sets logged
 
 Flores Negras, JULLS, Jon McCray
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/veriperi/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/veriperi/)*

@@ -1,8 +1,8 @@
-# TBA - Secret Location
+# TBA - secret location
 
-TBA - Secret Location is a music venue in London with 29 upcoming nights listed on soundcheck as of Thu, 30 Jul 2026; the next is "P/NK BARCELONA" on Fri, 31 Jul 2026.
+TBA - secret location is a music venue in London with 30 upcoming nights listed on soundcheck as of Fri, 31 Jul 2026; the next is "P/NK BARCELONA" on Fri, 31 Jul 2026.
 
-TBA - Secret Location is a music venue in London listed on soundcheck. 29 upcoming nights, with line-ups including 550am, AARON GEHRIG, adobeprincess and Alben and 2 more. Browse upcoming dates, start times and who's playing.
+TBA - secret location is a music venue in London listed on soundcheck. 30 upcoming nights, with line-ups including 550am, AARON GEHRIG, adobeprincess and Alben and 2 more. Browse upcoming dates, start times and who's playing.
 
 ## What's on
 
@@ -19,4 +19,4 @@ TBA - Secret Location is a music venue in London listed on soundcheck. 29 upcomi
 | Fri, 7 Aug 2026 | UNIO Music Festival | AARON GEHRIG, Alben, Bonjessu, Hen Greca, LAJE, MOOGLI (DE), Monika Ross, Robert Monarch, Simma (1), Superlounge, Vanni, Zohki |
 | Fri, 7 Aug 2026 | PRÆTER·NATURA - Renegade Master | CLAUDIX, dicqbeats |
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/london/club/tba-secret-location/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/london/club/tba-secret-location/)*

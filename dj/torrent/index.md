@@ -1,6 +1,6 @@
 # Torrent
 
-Torrent is a House and Electro artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at Studio Stereo, Barcelona on Fri, 31 Jul 2026.
+Torrent is a House and Electro artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at Studio Stereo, Barcelona on Fri, 31 Jul 2026.
 
 Torrent is a house and electro artist based in Spain, tracked on soundcheck, with 17 sets logged across Barcelona and Glasgow. Often billed alongside Adria (ES), Quim Clausell and Kinki. Next up: Studio Stereo, Barcelona on Fri 31 Jul.
 
@@ -25,4 +25,4 @@ Torrent is a house and electro artist based in Spain, tracked on soundcheck, wit
 
 Adria (ES), Quim Clausell, Kinki
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/torrent/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/torrent/)*

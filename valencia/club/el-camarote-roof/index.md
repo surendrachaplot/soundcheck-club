@@ -1,6 +1,6 @@
 # El Camarote Roof
 
-El Camarote Roof is a music venue in Valencia with 1 upcoming night listed on soundcheck as of Thu, 30 Jul 2026; the next is "Cuervo Cuervo x Tranquilo Collective" on Fri, 31 Jul 2026.
+El Camarote Roof is a music venue in Valencia with 1 upcoming night listed on soundcheck as of Fri, 31 Jul 2026; the next is "Cuervo Cuervo x Tranquilo Collective" on Fri, 31 Jul 2026.
 
 El Camarote Roof is a music venue in Valencia listed on soundcheck. 1 upcoming night. Browse upcoming dates, start times and who's playing.
 
@@ -10,4 +10,4 @@ El Camarote Roof is a music venue in Valencia listed on soundcheck. 1 upcoming n
 | --- | --- | --- |
 | Fri, 31 Jul 2026 | Cuervo Cuervo x Tranquilo Collective |  |
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/valencia/club/el-camarote-roof/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/valencia/club/el-camarote-roof/)*

@@ -1,6 +1,6 @@
 # Rhadoo
 
-Rhadoo is a Minimal and House artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at Supermarket, Zurich on Fri, 7 Aug 2026.
+Rhadoo is a Minimal and House artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at Supermarket, Zurich on Fri, 7 Aug 2026.
 
 Rhadoo is a minimal and house artist tracked on soundcheck, with 171 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 31 more. Often billed alongside Petre Inspirescu, Raresh and RPR Soundsystem. Next up: Supermarket, Zurich on Fri 7 Aug.
 
@@ -25,4 +25,4 @@ Rhadoo is a minimal and house artist tracked on soundcheck, with 171 sets logged
 
 Petre Inspirescu, Raresh, RPR Soundsystem
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/rhadoo/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/rhadoo/)*

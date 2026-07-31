@@ -1,6 +1,6 @@
 # RAMGON
 
-RAMGON is a Techno and Industrial artist with 2 upcoming club dates listed on soundcheck as of Thu, 30 Jul 2026, next at Vibehaus ATX, Austin on Fri, 21 Aug 2026.
+RAMGON is a Techno and Industrial artist with 2 upcoming club dates listed on soundcheck as of Fri, 31 Jul 2026, next at Vibehaus ATX, Austin on Fri, 21 Aug 2026.
 
 RAMGON is a techno and industrial artist based in United States of America, tracked on soundcheck, with 11 sets logged across Austin. Often billed alongside Natch Nadjafi, Hana Sabri and GODEMPEROR. Next up: Vibehaus ATX, Austin on Fri 21 Aug.
 
@@ -26,4 +26,4 @@ RAMGON is a techno and industrial artist based in United States of America, trac
 
 Natch Nadjafi, Hana Sabri, GODEMPEROR
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/ramgon/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/ramgon/)*

@@ -1,6 +1,6 @@
 # Sala Upload Barcelona
 
-Sala Upload Barcelona is a music venue in Barcelona with 4 upcoming nights listed on soundcheck as of Thu, 30 Jul 2026; the next is "Fervo Fluxo" on Sat, 1 Aug 2026.
+Sala Upload Barcelona is a music venue in Barcelona with 4 upcoming nights listed on soundcheck as of Fri, 31 Jul 2026; the next is "Fervo Fluxo" on Sat, 1 Aug 2026.
 
 Sala Upload Barcelona is a music venue in Barcelona listed on soundcheck. 4 upcoming nights, with line-ups including Avangart Tabldot, HeAndMe, Isa Rojas and MARA BRAVO and 1 more. Browse upcoming dates, start times and who's playing. Av. Francesc Ferrer i Guàrdia, 13, 08038 Barcelona.
 
@@ -17,4 +17,4 @@ Sala Upload Barcelona is a music venue in Barcelona listed on soundcheck. 4 upco
 
 Av. Francesc Ferrer i Guàrdia, 13, 08038 Barcelona, Barcelona
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/sala-upload-barcelona/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/sala-upload-barcelona/)*

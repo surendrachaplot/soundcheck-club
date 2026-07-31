@@ -1,14 +1,15 @@
 # Steve Noah
 
-Steve Noah is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at Guild Row, Chicago on Sun, 2 Aug 2026.
+Steve Noah is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Fri, 31 Jul 2026, next at Guild Row, Chicago on Sun, 2 Aug 2026.
 
-Steve Noah is a techno and house artist based in United States of America, tracked on soundcheck, with 51 sets logged across Chicago. Often billed alongside Jace Inman, Initial G and flower food. Next up: Guild Row, Chicago on Sun 2 Aug.
+Steve Noah is a techno and house artist based in United States of America, tracked on soundcheck, with 52 sets logged across Chicago. Often billed alongside Jace Inman, Initial G and Dj Scari. Next up: Guild Row, Chicago on Sun 2 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sun, 2 Aug 2026 | Guild Row | Chicago |
+| Sun, 2 Aug 2026 | Gracey’s | Chicago |
 
 ## Recently played
 
@@ -23,6 +24,6 @@ Steve Noah is a techno and house artist based in United States of America, track
 
 ## Shares bills with
 
-Jace Inman, Initial G, flower food
+Jace Inman, Initial G, Dj Scari
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/stevenoah/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/stevenoah/)*

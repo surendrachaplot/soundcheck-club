@@ -1,6 +1,6 @@
 # Sink Sync
 
-Sink Sync is a Techno and Experimental artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at Teritorija, Riga on Fri, 7 Aug 2026.
+Sink Sync is a Techno and Experimental artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at Teritorija, Riga on Fri, 7 Aug 2026.
 
 Sink Sync is a techno and experimental artist based in Spain, tracked on soundcheck, with 11 sets logged across Madrid, Prague, Riga and Tokyo. Often billed alongside Espen Lauritzen, KAGATE and Ksenia Kamikaza. Next up: Teritorija, Riga on Fri 7 Aug.
 
@@ -25,4 +25,4 @@ Sink Sync is a techno and experimental artist based in Spain, tracked on soundch
 
 Espen Lauritzen, KAGATE, Ksenia Kamikaza
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/sinksync/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/sinksync/)*

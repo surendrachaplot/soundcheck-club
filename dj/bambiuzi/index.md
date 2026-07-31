@@ -1,6 +1,6 @@
 # Bambi Uzi
 
-Bambi Uzi is a Drum & Bass and Bass artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at Jasna 1, Warsaw on Fri, 31 Jul 2026.
+Bambi Uzi is a Drum & Bass and Bass artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at Jasna 1, Warsaw on Fri, 31 Jul 2026.
 
 Bambi Uzi is a drum & bass and bass artist based in Poland, tracked on soundcheck, with 20 sets logged across Berlin, Brighton, Cork and Krakow and 3 more. Often billed alongside Alegria, Abuelita and 2K88. Next up: Jasna 1, Warsaw on Fri 31 Jul.
 
@@ -25,4 +25,4 @@ Bambi Uzi is a drum & bass and bass artist based in Poland, tracked on soundchec
 
 Alegria, Abuelita, 2K88
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/bambiuzi/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/bambiuzi/)*

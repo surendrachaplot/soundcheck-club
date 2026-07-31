@@ -1,6 +1,6 @@
 # shiritaki
 
-shiritaki is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at 303 Audiophile Bar, Barcelona on Fri, 31 Jul 2026.
+shiritaki is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at 303 Audiophile Bar, Barcelona on Fri, 31 Jul 2026.
 
 shiritaki is a house and techno artist tracked on soundcheck, with 31 sets logged across Barcelona. Often billed alongside DJ Gamba, PAZ WAZ HERE and Alexxx. Next up: 303 Audiophile Bar, Barcelona on Fri 31 Jul.
 
@@ -25,4 +25,4 @@ shiritaki is a house and techno artist tracked on soundcheck, with 31 sets logge
 
 DJ Gamba, PAZ WAZ HERE, Alexxx
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/shiritaki/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/shiritaki/)*

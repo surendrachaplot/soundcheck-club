@@ -1,6 +1,6 @@
 # Truly Madly
 
-Truly Madly is a House and Techno artist with 8 upcoming club dates listed on soundcheck as of Thu, 30 Jul 2026, next at Burgess Park, London on Sun, 9 Aug 2026.
+Truly Madly is a House and Techno artist with 8 upcoming club dates listed on soundcheck as of Fri, 31 Jul 2026, next at Burgess Park, London on Sun, 9 Aug 2026.
 
 Truly Madly is a house and techno artist tracked on soundcheck, with 142 sets logged across Amsterdam, Bali, Barcelona and Berlin and 35 more. Often billed alongside Phill de Janeiro, Benji King and Dr Banana. Next up: Burgess Park, London on Sun 9 Aug.
 
@@ -32,4 +32,4 @@ Truly Madly is a house and techno artist tracked on soundcheck, with 142 sets lo
 
 Phill de Janeiro, Benji King, Dr Banana
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/trulymadly/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/trulymadly/)*

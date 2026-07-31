@@ -1,6 +1,6 @@
 # ELIVVATE
 
-ELIVVATE is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at Bossa Nova Civic Club, New York City on Fri, 31 Jul 2026.
+ELIVVATE is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at Bossa Nova Civic Club, New York City on Fri, 31 Jul 2026.
 
 ELIVVATE is a techno and house artist based in United States of America, tracked on soundcheck, with 5 sets logged across Newyorkcity and Philadelphia. Often billed alongside Amado, DJ Kalin and De León. Next up: Bossa Nova Civic Club, Newyorkcity on Fri 31 Jul.
 
@@ -21,4 +21,4 @@ ELIVVATE is a techno and house artist based in United States of America, tracked
 
 Amado, DJ Kalin, De León
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/elivvate/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/elivvate/)*

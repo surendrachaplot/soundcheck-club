@@ -1,6 +1,6 @@
 # Dee Diggs
 
-Dee Diggs is a House and Techno artist with 7 upcoming club dates listed on soundcheck as of Thu, 30 Jul 2026, next at Radio Radio, Amsterdam on Fri, 31 Jul 2026.
+Dee Diggs is a House and Techno artist with 7 upcoming club dates listed on soundcheck as of Fri, 31 Jul 2026, next at Radio Radio, Amsterdam on Fri, 31 Jul 2026.
 
 Dee Diggs is a house and techno artist tracked on soundcheck, with 209 sets logged across Amsterdam, Bali, Barcelona and Berlin and 37 more. Often billed alongside Kilopatrah Jones, Avalon Emerson and Suze Ijó. Next up: Radio Radio, Amsterdam on Fri 31 Jul.
 
@@ -31,4 +31,4 @@ Dee Diggs is a house and techno artist tracked on soundcheck, with 209 sets logg
 
 Kilopatrah Jones, Avalon Emerson, Suze Ijó
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/deediggs/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/deediggs/)*

@@ -1,6 +1,6 @@
 # nat consentino
 
-nat consentino is a House and Balearic artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at Caracol Bar, Sao Paulo on Sat, 1 Aug 2026.
+nat consentino is a House and Balearic artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at Caracol Bar, Sao Paulo on Sat, 1 Aug 2026.
 
 nat consentino is a house and balearic artist based in Brazil, tracked on soundcheck, with 27 sets logged across Saopaulo. Often billed alongside Swam, Romina (BR) and Mary Roman. Next up: Caracol Bar, Saopaulo on Sat 1 Aug.
 
@@ -25,4 +25,4 @@ nat consentino is a house and balearic artist based in Brazil, tracked on soundc
 
 Swam, Romina (BR), Mary Roman
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/natconsentino/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/natconsentino/)*

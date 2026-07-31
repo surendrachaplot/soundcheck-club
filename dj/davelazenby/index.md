@@ -1,6 +1,6 @@
 # Dave Lazenby
 
-Dave Lazenby is a Progressive House and Breakbeat artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at Sidney & Matilda, Sheffield on Sat, 15 Aug 2026.
+Dave Lazenby is a Progressive House and Breakbeat artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at Sidney & Matilda, Sheffield on Sat, 15 Aug 2026.
 
 Dave Lazenby is a progressive house and breakbeat artist based in United Kingdom, tracked on soundcheck, with 7 sets logged across Liverpool, Manchester and Sheffield. Often billed alongside Daz Manchild Smith, Jon Towell and Anthony Pappa. Next up: Sidney & Matilda, Sheffield on Sat 15 Aug.
 
@@ -23,4 +23,4 @@ Dave Lazenby is a progressive house and breakbeat artist based in United Kingdom
 
 Daz Manchild Smith, Jon Towell, Anthony Pappa
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/davelazenby/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/davelazenby/)*

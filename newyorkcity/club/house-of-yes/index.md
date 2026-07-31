@@ -1,8 +1,8 @@
 # House of Yes
 
-House of Yes is a music venue in New York City with 15 upcoming nights listed on soundcheck as of Thu, 30 Jul 2026; the next is "Shore Thing: Spencer Brown, Saqib, Tone Troy" on Fri, 31 Jul 2026.
+House of Yes is a music venue in New York City with 16 upcoming nights listed on soundcheck as of Fri, 31 Jul 2026; the next is "Shore Thing: Spencer Brown, Saqib, Tone Troy" on Fri, 31 Jul 2026.
 
-House of Yes is a music venue in Newyorkcity listed on soundcheck. 15 upcoming nights, with line-ups including Aluna, Atish, Brian Cid and Bridge (NY) and 2 more. Browse upcoming dates, start times and who's playing. 2 Wyckoff Avenue; Brooklyn, NY 11237; USA.
+House of Yes is a music venue in Newyorkcity listed on soundcheck. 16 upcoming nights, with line-ups including Aluna, Atish, Brian Cid and Bridge (NY) and 2 more. Browse upcoming dates, start times and who's playing. 2 Wyckoff Avenue; Brooklyn, NY 11237; USA.
 
 ## What's on
 
@@ -15,7 +15,7 @@ House of Yes is a music venue in Newyorkcity listed on soundcheck. 15 upcoming n
 | Sat, 15 Aug 2026 | Heat Wave: Egyptian Lover, Stacey Hotwaxx Hale, BRIDGE | Bridge (NY), Egyptian Lover, Stacey Hotwaxx Hale |
 | Fri, 21 Aug 2026 | LEO RISING: Kyle Hall, Shaun J. Wright, TEE EM DEE | Kyle Hall, Shaun J. Wright, TEE EM DEE |
 | Sat, 22 Aug 2026 | Full Throttle: Township Rebellion | Township Rebellion |
-| Fri, 28 Aug 2026 | Slayyyland |  |
+| Fri, 28 Aug 2026 | Slayyyland: CAM GIRL, Vice, P_A_T | CAM GIRL, Vice |
 | Sat, 29 Aug 2026 | ABC Party: Sponges & N2N | N2N (US) |
 | Fri, 4 Sept 2026 | House of Grooves: Eli Escobar All Night + Sissies of Mercy | Eli Escobar, Sissies of Mercy |
 
@@ -23,4 +23,4 @@ House of Yes is a music venue in Newyorkcity listed on soundcheck. 15 upcoming n
 
 2 Wyckoff Avenue; Brooklyn, NY 11237; USA, New York City
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/house-of-yes/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/house-of-yes/)*

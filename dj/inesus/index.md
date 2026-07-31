@@ -1,6 +1,6 @@
 # Inés (US)
 
-Inés (US) is a Disco and Funk / Soul artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at Podlasie Club, Chicago on Sat, 1 Aug 2026.
+Inés (US) is a Disco and Funk / Soul artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at Podlasie Club, Chicago on Sat, 1 Aug 2026.
 
 Inés (US) is a disco and funk / soul artist based in United States of America, tracked on soundcheck, with 24 sets logged across Chicago, Detroit and Newyorkcity. Often billed alongside Yukiko, Leja Hazer and Marc Davis. Next up: Podlasie Club, Chicago on Sat 1 Aug.
 
@@ -25,4 +25,4 @@ Inés (US) is a disco and funk / soul artist based in United States of America, 
 
 Yukiko, Leja Hazer, Marc Davis
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/inesus/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/inesus/)*

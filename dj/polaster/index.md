@@ -1,6 +1,6 @@
 # Polaster
 
-Polaster is a Drum & Bass and Bass artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at Let it Roll Festival @Lake Most, Prague on Fri, 31 Jul 2026.
+Polaster is a Drum & Bass and Bass artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at Let it Roll Festival @Lake Most, Prague on Fri, 31 Jul 2026.
 
 Polaster is a drum & bass and bass artist based in Germany, tracked on soundcheck, with 24 sets logged across Leipzig, Munich and Prague. Often billed alongside Kamikatze, Tyra and Cosimoto. Next up: Let it Roll Festival @Lake Most, Prague on Fri 31 Jul.
 
@@ -25,4 +25,4 @@ Polaster is a drum & bass and bass artist based in Germany, tracked on soundchec
 
 Kamikatze, Tyra, Cosimoto
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/polaster/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/polaster/)*

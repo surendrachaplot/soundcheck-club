@@ -1,6 +1,6 @@
 # T. Raumschmiere
 
-T. Raumschmiere is a Techno and Noise artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at Worm, Rotterdam on Sat, 29 Aug 2026.
+T. Raumschmiere is a Techno and Noise artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at Worm, Rotterdam on Sat, 29 Aug 2026.
 
 T. Raumschmiere is a techno and noise artist based in Germany, tracked on soundcheck, with 5 sets logged across Berlin, Rotterdam and Tbilisi. Often billed alongside ALX-106, Alberta Balsam and Ani Kvirkvelia. Next up: Worm, Rotterdam on Sat 29 Aug.
 
@@ -21,4 +21,4 @@ T. Raumschmiere is a techno and noise artist based in Germany, tracked on soundc
 
 ALX-106, Alberta Balsam, Ani Kvirkvelia
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/traumschmiere/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/traumschmiere/)*

@@ -1,6 +1,6 @@
 # Latex (1)
 
-Latex (1) is a Tech House and Minimal Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at Mejan, Bali on Fri, 31 Jul 2026.
+Latex (1) is a Tech House and Minimal Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at Mejan, Bali on Fri, 31 Jul 2026.
 
 Latex (1) is a tech house and minimal techno artist based in Indonesia, tracked on soundcheck, with 36 sets logged across Bali, Berlin, Madrid and Prague. Often billed alongside Zoot, Karim T and Bagvs. Next up: Mejan, Bali on Fri 31 Jul.
 
@@ -25,4 +25,4 @@ Latex (1) is a tech house and minimal techno artist based in Indonesia, tracked 
 
 Zoot, Karim T, Bagvs
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/latex/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/latex/)*

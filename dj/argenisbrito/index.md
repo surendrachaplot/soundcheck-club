@@ -1,6 +1,6 @@
 # Argenis Brito
 
-Argenis Brito is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Thu, 30 Jul 2026, next at Studio Stereo, Barcelona on Sat, 22 Aug 2026.
+Argenis Brito is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Fri, 31 Jul 2026, next at Studio Stereo, Barcelona on Sat, 22 Aug 2026.
 
 Argenis Brito is a house and techno artist based in Venezuela, tracked on soundcheck, with 34 sets logged across Barcelona, Berlin, Ibiza and Mexicocity and 6 more. Often billed alongside Nils Ohrmann, Israel Sunshine and Bastard Love. Next up: Studio Stereo, Barcelona on Sat 22 Aug.
 
@@ -26,4 +26,4 @@ Argenis Brito is a house and techno artist based in Venezuela, tracked on soundc
 
 Nils Ohrmann, Israel Sunshine, Bastard Love
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/argenisbrito/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/argenisbrito/)*

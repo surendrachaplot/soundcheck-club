@@ -1,6 +1,6 @@
 # Svebbe
 
-Svebbe is a Bass and House artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at The Villa, Oslo on Fri, 7 Aug 2026.
+Svebbe is a Bass and House artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at The Villa, Oslo on Fri, 7 Aug 2026.
 
 Svebbe is a bass and house artist tracked on soundcheck, with 15 sets logged across Edinburgh and Oslo. Often billed alongside DJ Sprinter, LWS and Skatebård. Next up: The Villa, Oslo on Fri 7 Aug.
 
@@ -25,4 +25,4 @@ Svebbe is a bass and house artist tracked on soundcheck, with 15 sets logged acr
 
 DJ Sprinter, LWS, Skatebård
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/svebbe/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/svebbe/)*

@@ -1,6 +1,6 @@
 # TOT (BR)
 
-TOT (BR) is a House and Electro artist with 2 upcoming club dates listed on soundcheck as of Thu, 30 Jul 2026, next at Studio Stereo, Barcelona on Sat, 1 Aug 2026.
+TOT (BR) is a House and Electro artist with 2 upcoming club dates listed on soundcheck as of Fri, 31 Jul 2026, next at Studio Stereo, Barcelona on Sat, 1 Aug 2026.
 
 TOT (BR) is a house and electro artist based in Brazil, tracked on soundcheck, with 7 sets logged across Barcelona, Berlin, London and Saopaulo. Often billed alongside Gartzzea, Carlo Rewer and Constratti. Next up: Studio Stereo, Barcelona on Sat 1 Aug.
 
@@ -23,4 +23,4 @@ TOT (BR) is a house and electro artist based in Brazil, tracked on soundcheck, w
 
 Gartzzea, Carlo Rewer, Constratti
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/totbr/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/totbr/)*

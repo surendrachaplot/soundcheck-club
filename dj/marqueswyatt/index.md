@@ -1,13 +1,14 @@
 # Marques Wyatt
 
-Marques Wyatt is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at California Plaza, Los Angeles on Sat, 10 Oct 2026.
+Marques Wyatt is a House and Deep House artist with 2 upcoming club dates listed on soundcheck as of Fri, 31 Jul 2026, next at The Bridge, Los Angeles on Fri, 21 Aug 2026.
 
-Marques Wyatt is a house and deep house artist based in United States of America, tracked on soundcheck, with 58 sets logged across Denver, Losangeles, Miami and Newyorkcity and 4 more. Often billed alongside Ray Kash, Doc Martin and Zach Walker. Next up: California Plaza, Losangeles on Sat 10 Oct.
+Marques Wyatt is a house and deep house artist based in United States of America, tracked on soundcheck, with 59 sets logged across Denver, Losangeles, Miami and Newyorkcity and 4 more. Often billed alongside Ray Kash, Doc Martin and Zach Walker. Next up: The Bridge, Losangeles on Fri 21 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 21 Aug 2026 | The Bridge | Los Angeles |
 | Sat, 10 Oct 2026 | California Plaza | Los Angeles |
 
 ## Recently played
@@ -25,4 +26,4 @@ Marques Wyatt is a house and deep house artist based in United States of America
 
 Ray Kash, Doc Martin, Zach Walker
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/marqueswyatt/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/marqueswyatt/)*

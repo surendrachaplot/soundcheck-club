@@ -1,6 +1,6 @@
 # Ari Kiko
 
-Ari Kiko is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at Super5, Lyon on Sat, 1 Aug 2026.
+Ari Kiko is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at Super5, Lyon on Sat, 1 Aug 2026.
 
 Ari Kiko is a house and techno artist tracked on soundcheck, with 58 sets logged across Lyon, Melbourne and Sydney. Often billed alongside Mina Tonic, Postponez and Broccoli Effect. Next up: Super5, Lyon on Sat 1 Aug.
 
@@ -25,4 +25,4 @@ Ari Kiko is a house and techno artist tracked on soundcheck, with 58 sets logged
 
 Mina Tonic, Postponez, Broccoli Effect
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/arikiko/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/arikiko/)*

@@ -1,14 +1,15 @@
 # Seba
 
-Seba is a Drum & Bass and Jungle artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at TBA - Paradies Garten Festival - Schloß Prugg 2, 2460 Gemeinde Bruck an der Leitha, Vienna on Fri, 31 Jul 2026.
+Seba is a Drum & Bass and Jungle artist with 2 upcoming club dates listed on soundcheck as of Fri, 31 Jul 2026, next at TBA - Paradies Garten Festival - Schloß Prugg 2, 2460 Gemeinde Bruck an der Leitha, Vienna on Fri, 31 Jul 2026.
 
-Seba is a drum & bass and jungle artist based in Sweden, tracked on soundcheck, with 31 sets logged across Amsterdam, Austin, Berlin and Boston and 11 more. Often billed alongside rzt, Amit and BCee. Next up: TBA - Paradies Garten Festival - Schloß Prugg 2, 2460 Gemeinde Bruck an der Leitha, Vienna on Fri 31 Jul.
+Seba is a drum & bass and jungle artist based in Sweden, tracked on soundcheck, with 32 sets logged across Amsterdam, Austin, Berlin and Boston and 11 more. Often billed alongside rzt, Amit and BCee. Next up: TBA - Paradies Garten Festival - Schloß Prugg 2, 2460 Gemeinde Bruck an der Leitha, Vienna on Fri 31 Jul.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 31 Jul 2026 | TBA - Paradies Garten Festival - Schloß Prugg 2, 2460 Gemeinde Bruck an der Leitha | Vienna |
+| Sat, 12 Sept 2026 | Thuishaven | Amsterdam |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ Seba is a drum & bass and jungle artist based in Sweden, tracked on soundcheck, 
 
 rzt, Amit, BCee
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/seba/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/seba/)*

@@ -1,14 +1,15 @@
 # Elianne
 
-Elianne is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at Quarters, Brighton on Sat, 1 Aug 2026.
+Elianne is a House and Disco artist with 2 upcoming club dates listed on soundcheck as of Fri, 31 Jul 2026, next at Quarters, Brighton on Sat, 1 Aug 2026.
 
-Elianne is a house and disco artist tracked on soundcheck, with 31 sets logged across Berlin, Brighton, London and Manchester and 1 more. Often billed alongside BAY-BUSH-KA, Madelic and Bethan. Next up: Quarters, Brighton on Sat 1 Aug.
+Elianne is a house and disco artist tracked on soundcheck, with 32 sets logged across Berlin, Brighton, London and Manchester and 1 more. Often billed alongside BAY-BUSH-KA, Madelic and Bethan. Next up: Quarters, Brighton on Sat 1 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 1 Aug 2026 | Quarters | Brighton |
+| Sat, 22 Aug 2026 | Ballroom at Palais | London |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ Elianne is a house and disco artist tracked on soundcheck, with 31 sets logged a
 
 BAY-BUSH-KA, Madelic, Bethan
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/elianne/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/elianne/)*

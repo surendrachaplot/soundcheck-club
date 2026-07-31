@@ -1,6 +1,6 @@
 # Masarini
 
-Masarini is a Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at TBA - River Spree, Berlin, Berlin on Sat, 1 Aug 2026.
+Masarini is a Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at TBA - River Spree, Berlin, Berlin on Sat, 1 Aug 2026.
 
 Masarini is a techno artist based in Croatia, tracked on soundcheck, with 10 sets logged across Berlin. Often billed alongside Bokaric, EÒNAN and Jame Zname. Next up: TBA - River Spree, Berlin, Berlin on Sat 1 Aug.
 
@@ -25,4 +25,4 @@ Masarini is a techno artist based in Croatia, tracked on soundcheck, with 10 set
 
 Bokaric, EÒNAN, Jame Zname
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/masarini/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/masarini/)*

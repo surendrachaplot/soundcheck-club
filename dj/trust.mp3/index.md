@@ -1,6 +1,6 @@
 # Trust.mp3
 
-Trust.mp3 is a Electronica and House artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at Les Bêtises, Paris on Fri, 31 Jul 2026.
+Trust.mp3 is a Electronica and House artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at Les Bêtises, Paris on Fri, 31 Jul 2026.
 
 Trust.mp3 is an electronica and house artist based in Guatemala, tracked on soundcheck, with 3 sets logged across Mexicocity and Paris. Often billed alongside IRONBOARD, Charlie Niklaas and Femalien. Next up: Les Bêtises, Paris on Fri 31 Jul.
 
@@ -19,4 +19,4 @@ Trust.mp3 is an electronica and house artist based in Guatemala, tracked on soun
 
 IRONBOARD, Charlie Niklaas, Femalien
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/trust.mp3/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/trust.mp3/)*

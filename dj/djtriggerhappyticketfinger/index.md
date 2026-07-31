@@ -1,6 +1,6 @@
 # DJ Trigger Happy Ticket Finger
 
-DJ Trigger Happy Ticket Finger is a Club and Bass artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at Panke, Berlin on Fri, 31 Jul 2026.
+DJ Trigger Happy Ticket Finger is a Club and Bass artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at Panke, Berlin on Fri, 31 Jul 2026.
 
 DJ Trigger Happy Ticket Finger is a club and bass artist based in United Kingdom, tracked on soundcheck, with 15 sets logged across Berlin and London. Often billed alongside Sha3by Chic, Kabir and inda Flo. Next up: Panke, Berlin on Fri 31 Jul.
 
@@ -25,4 +25,4 @@ DJ Trigger Happy Ticket Finger is a club and bass artist based in United Kingdom
 
 Sha3by Chic, Kabir, inda Flo
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/djtriggerhappyticketfinger/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/djtriggerhappyticketfinger/)*

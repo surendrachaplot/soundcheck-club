@@ -1,6 +1,6 @@
 # 1000raks
 
-1000raks is a Techno and Ballroom artist with 2 upcoming club dates listed on soundcheck as of Thu, 30 Jul 2026, next at THE OTHER SIDE, Amsterdam on Fri, 31 Jul 2026.
+1000raks is a Techno and Ballroom artist with 2 upcoming club dates listed on soundcheck as of Fri, 31 Jul 2026, next at THE OTHER SIDE, Amsterdam on Fri, 31 Jul 2026.
 
 1000raks is a techno and ballroom artist based in United Kingdom, tracked on soundcheck, with 7 sets logged across Amsterdam and London. Often billed alongside LO-LOW, Manuka Honey and XS BULLY. Next up: THE OTHER SIDE, Amsterdam on Fri 31 Jul.
 
@@ -23,4 +23,4 @@
 
 LO-LOW, Manuka Honey, XS BULLY
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/1000raks/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/1000raks/)*

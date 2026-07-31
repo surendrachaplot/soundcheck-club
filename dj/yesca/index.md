@@ -1,6 +1,6 @@
 # Yesca
 
-Yesca is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at Den Anden Side, Copenhagen on Fri, 31 Jul 2026.
+Yesca is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at Den Anden Side, Copenhagen on Fri, 31 Jul 2026.
 
 Yesca is a house and deep house artist based in United Kingdom, tracked on soundcheck, with 20 sets logged across Copenhagen, Glasgow, London and Prague. Often billed alongside Dan be, McCart and FROSKI. Next up: Den Anden Side, Copenhagen on Fri 31 Jul.
 
@@ -25,4 +25,4 @@ Yesca is a house and deep house artist based in United Kingdom, tracked on sound
 
 Dan be, McCart, FROSKI
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/yesca/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/yesca/)*

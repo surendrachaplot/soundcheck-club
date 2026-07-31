@@ -1,14 +1,13 @@
 # DITA (ID)
 
-DITA (ID) is a House and Disco artist with 5 upcoming club dates listed on soundcheck as of Thu, 30 Jul 2026, next at San Francisco, Amsterdam on Thu, 30 Jul 2026.
+DITA (ID) is a House and Disco artist with 4 upcoming club dates listed on soundcheck as of Fri, 31 Jul 2026, next at Berghain | Panorama Bar | Säule, Berlin on Sat, 1 Aug 2026.
 
-DITA (ID) is a house and disco artist tracked on soundcheck, with 100 sets logged across Amsterdam, Bali, Bangkok and Berlin and 12 more. Often billed alongside Brent Burns, Cormac and Marcellus Pittman. Next up: San Francisco, Amsterdam on Thu 30 Jul.
+DITA (ID) is a house and disco artist tracked on soundcheck, with 100 sets logged across Amsterdam, Bali, Bangkok and Berlin and 12 more. Often billed alongside Brent Burns, Cormac and Marcellus Pittman. Next up: Berghain | Panorama Bar | Säule, Berlin on Sat 1 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Thu, 30 Jul 2026 | San Francisco | Amsterdam |
 | Sat, 1 Aug 2026 | Berghain / Panorama Bar / Säule | Berlin |
 | Thu, 13 Aug 2026 | Radio Radio | Amsterdam |
 | Fri, 21 Aug 2026 | Potato Head Beach Club | Bali |
@@ -16,6 +15,7 @@ DITA (ID) is a house and disco artist tracked on soundcheck, with 100 sets logge
 
 ## Recently played
 
+- San Francisco, Amsterdam — Thu, 30 Jul 2026
 - Schönwalde-Glien, Grünefeld bei Berlin, Germany, Berlin — Thu, 16 Jul 2026
 - Klymax Discotheque, Bali — Sat, 11 Jul 2026
 - Klymax Discotheque, Bali — Fri, 26 Jun 2026
@@ -23,10 +23,9 @@ DITA (ID) is a house and disco artist tracked on soundcheck, with 100 sets logge
 - Kemer Golf & Country Club, Istanbul — Sat, 16 May 2026
 - Klymax Discotheque, Bali — Fri, 8 May 2026
 - Azumaya, Tokyo — Mon, 27 Apr 2026
-- Patina Osaka, Osaka — Fri, 24 Apr 2026
 
 ## Shares bills with
 
 Brent Burns, Cormac, Marcellus Pittman
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/dita-id/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/dita-id/)*

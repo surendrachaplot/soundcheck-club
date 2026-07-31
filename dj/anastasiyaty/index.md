@@ -1,6 +1,6 @@
 # Anastasiya Ty
 
-Anastasiya Ty is a Techno and Industrial artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at Noct Club, Paris on Fri, 31 Jul 2026.
+Anastasiya Ty is a Techno and Industrial artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at Noct Club, Paris on Fri, 31 Jul 2026.
 
 Anastasiya Ty is a techno and industrial artist based in Ukraine, tracked on soundcheck, with 39 sets logged across Lisbon, Paris and Porto. Often billed alongside Ana Dimco, DIMENSION 9 and GAIVEU. Next up: Noct Club, Paris on Fri 31 Jul.
 
@@ -25,4 +25,4 @@ Anastasiya Ty is a techno and industrial artist based in Ukraine, tracked on sou
 
 Ana Dimco, DIMENSION 9, GAIVEU
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/anastasiyaty/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/anastasiyaty/)*

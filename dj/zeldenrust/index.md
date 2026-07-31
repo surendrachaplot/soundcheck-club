@@ -1,6 +1,6 @@
 # Zeldenrust
 
-Zeldenrust is a Deep House and House artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at Skatecafe, Amsterdam on Sat, 8 Aug 2026.
+Zeldenrust is a Deep House and House artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at Skatecafe, Amsterdam on Sat, 8 Aug 2026.
 
 Zeldenrust is a deep house and house artist based in Netherlands, tracked on soundcheck, with 18 sets logged across Amsterdam. Often billed alongside Neo (NL), Hannecart and Pablo (5). Next up: Skatecafe, Amsterdam on Sat 8 Aug.
 
@@ -25,4 +25,4 @@ Zeldenrust is a deep house and house artist based in Netherlands, tracked on sou
 
 Neo (NL), Hannecart, Pablo (5)
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/zeldenrust/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/zeldenrust/)*

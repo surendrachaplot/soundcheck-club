@@ -1,6 +1,6 @@
 # B I P
 
-B I P is a Techno and Electro artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at Three Dollar Bill, Toronto on Sat, 1 Aug 2026.
+B I P is a Techno and Electro artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at Three Dollar Bill, Toronto on Sat, 1 Aug 2026.
 
 B I P is a techno and electro artist based in Canada, tracked on soundcheck, with 6 sets logged across Newyorkcity and Toronto. Often billed alongside GRRLCRRSH, Sofia Fly and Zellers. Next up: Three Dollar Bill, Toronto on Sat 1 Aug.
 
@@ -22,4 +22,4 @@ B I P is a techno and electro artist based in Canada, tracked on soundcheck, wit
 
 GRRLCRRSH, Sofia Fly, Zellers
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/bip/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/bip/)*

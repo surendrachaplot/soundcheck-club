@@ -1,6 +1,6 @@
 # MA1
 
-MA1 is a House and Afro House artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at Secret Location, London on Sat, 1 Aug 2026.
+MA1 is a House and Afro House artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at Secret Location, London on Sat, 1 Aug 2026.
 
 MA1 is a house and afro house artist based in United Kingdom, tracked on soundcheck, with 14 sets logged across London. Often billed alongside Angela Rose, Pioneer and Tippa. Next up: Secret Location, London on Sat 1 Aug.
 
@@ -25,4 +25,4 @@ MA1 is a house and afro house artist based in United Kingdom, tracked on soundch
 
 Angela Rose, Pioneer, Tippa
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/ma1/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/ma1/)*

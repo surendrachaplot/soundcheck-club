@@ -1,6 +1,6 @@
 # Gorgon Sound
 
-Gorgon Sound is a Dub and Bass artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at The Canteen, Bristol on Sat, 1 Aug 2026.
+Gorgon Sound is a Dub and Bass artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at The Canteen, Bristol on Sat, 1 Aug 2026.
 
 Gorgon Sound is a dub and bass artist based in United Kingdom, tracked on soundcheck, with 17 sets logged across Amsterdam, Berlin, Bristol and Brussels and 7 more. Often billed alongside Pearson Sound, Sweely and Bored Lord. Next up: The Canteen, Bristol on Sat 1 Aug.
 
@@ -25,4 +25,4 @@ Gorgon Sound is a dub and bass artist based in United Kingdom, tracked on soundc
 
 Pearson Sound, Sweely, Bored Lord
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/gorgonsound/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/gorgonsound/)*

@@ -1,6 +1,6 @@
 # Saverio Celestri
 
-Saverio Celestri is a Techno and Electro artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at THE MAGICK BAR, Rome on Sun, 2 Aug 2026.
+Saverio Celestri is a Techno and Electro artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at THE MAGICK BAR, Rome on Sun, 2 Aug 2026.
 
 Saverio Celestri is a techno and electro artist based in Italy, tracked on soundcheck, with 30 sets logged across Barcelona, Berlin, Bucharest and Buenosaires and 5 more. Often billed alongside Enrico Vivaldi, Avo (ES) and Brasi. Next up: THE MAGICK BAR, Rome on Sun 2 Aug.
 
@@ -25,4 +25,4 @@ Saverio Celestri is a techno and electro artist based in Italy, tracked on sound
 
 Enrico Vivaldi, Avo (ES), Brasi
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/saveriocelestri/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/saveriocelestri/)*

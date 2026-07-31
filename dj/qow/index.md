@@ -1,6 +1,6 @@
 # Qow
 
-Qow is a Experimental and Classical artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at arkaoda Berlin, Berlin on Fri, 31 Jul 2026.
+Qow is a Experimental and Classical artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at arkaoda Berlin, Berlin on Fri, 31 Jul 2026.
 
 Qow is an experimental and classical artist based in Czech Republic, tracked on soundcheck, with 30 sets logged across Berlin, Budapest, London and Paris and 2 more. Often billed alongside lizwiz, Mor Wen and ionai. Next up: arkaoda Berlin, Berlin on Fri 31 Jul.
 
@@ -25,4 +25,4 @@ Qow is an experimental and classical artist based in Czech Republic, tracked on 
 
 lizwiz, Mor Wen, ionai
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/qow/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/qow/)*

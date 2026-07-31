@@ -1,6 +1,6 @@
 # Mario Niain
 
-Mario Niain is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at Macarena Club, Barcelona on Fri, 31 Jul 2026.
+Mario Niain is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at Macarena Club, Barcelona on Fri, 31 Jul 2026.
 
 Mario Niain is a house and tech house artist tracked on soundcheck, with 8 sets logged across Barcelona and Valencia. Often billed alongside F.R.E.D.Y., Angelo Cortines and Zedlav. Next up: Macarena Club, Barcelona on Fri 31 Jul.
 
@@ -24,4 +24,4 @@ Mario Niain is a house and tech house artist tracked on soundcheck, with 8 sets 
 
 F.R.E.D.Y., Angelo Cortines, Zedlav
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/marioniain/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/marioniain/)*

@@ -1,6 +1,6 @@
 # Mike D
 
-Mike D is a House and Minimal artist with 2 upcoming club dates listed on soundcheck as of Thu, 30 Jul 2026, next at BLITZ, Munich on Fri, 31 Jul 2026.
+Mike D is a House and Minimal artist with 2 upcoming club dates listed on soundcheck as of Fri, 31 Jul 2026, next at BLITZ, Munich on Fri, 31 Jul 2026.
 
 Mike D is a house and minimal artist based in United States of America, tracked on soundcheck, with 4 sets logged across Bangkok, Mexicocity, Munich and Sanfrancisco. Often billed alongside 600-cell, ALISHA and ANAHITA. Next up: BLITZ, Munich on Fri 31 Jul.
 
@@ -20,4 +20,4 @@ Mike D is a house and minimal artist based in United States of America, tracked 
 
 600-cell, ALISHA, ANAHITA
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/miked/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/miked/)*

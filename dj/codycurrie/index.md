@@ -1,8 +1,8 @@
 # Cody Currie
 
-Cody Currie is a House and Disco artist with 3 upcoming club dates listed on soundcheck as of Thu, 30 Jul 2026, next at Frankhan Selectist, Istanbul on Sat, 1 Aug 2026.
+Cody Currie is a House and Disco artist with 4 upcoming club dates listed on soundcheck as of Fri, 31 Jul 2026, next at Frankhan Selectist, Istanbul on Sat, 1 Aug 2026.
 
-Cody Currie is a house and disco artist tracked on soundcheck, with 121 sets logged across Amsterdam, Bangkok, Barcelona and Berlin and 40 more. Often billed alongside Kapote, Gee Lane and Sam Ruffillo. Next up: Frankhan Selectist, Istanbul on Sat 1 Aug.
+Cody Currie is a house and disco artist tracked on soundcheck, with 122 sets logged across Amsterdam, Bangkok, Barcelona and Berlin and 40 more. Often billed alongside Kapote, Gee Lane and Sam Ruffillo. Next up: Frankhan Selectist, Istanbul on Sat 1 Aug.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Cody Currie is a house and disco artist tracked on soundcheck, with 121 sets log
 | --- | --- | --- |
 | Sat, 1 Aug 2026 | Frankhan Selectist | Istanbul |
 | Fri, 7 Aug 2026 | fabric | London |
+| Sat, 29 Aug 2026 | Kelvedon Hall | London |
 | Fri, 11 Sept 2026 | Jaeger | Oslo |
 
 ## Recently played
@@ -27,4 +28,4 @@ Cody Currie is a house and disco artist tracked on soundcheck, with 121 sets log
 
 Kapote, Gee Lane, Sam Ruffillo
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/codycurrie/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/codycurrie/)*

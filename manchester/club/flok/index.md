@@ -1,6 +1,6 @@
 # Flok
 
-Flok is a music venue in Manchester with 1 upcoming night listed on soundcheck as of Thu, 30 Jul 2026; the next is "Flok x Jubel August Opener" on Sat, 1 Aug 2026.
+Flok is a music venue in Manchester with 1 upcoming night listed on soundcheck as of Fri, 31 Jul 2026; the next is "Flok x Jubel August Opener" on Sat, 1 Aug 2026.
 
 Flok is a music venue in Manchester listed on soundcheck. 1 upcoming night. Browse upcoming dates, start times and who's playing.
 
@@ -10,4 +10,4 @@ Flok is a music venue in Manchester listed on soundcheck. 1 upcoming night. Brow
 | --- | --- | --- |
 | Sat, 1 Aug 2026 | Flok x Jubel August Opener |  |
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/manchester/club/flok/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/manchester/club/flok/)*

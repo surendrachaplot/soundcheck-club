@@ -1,6 +1,6 @@
 # Miki (3)
 
-Miki (3) is a House and Tech House artist with 2 upcoming club dates listed on soundcheck as of Thu, 30 Jul 2026, next at Angel Music Bar, Melbourne on Fri, 31 Jul 2026.
+Miki (3) is a House and Tech House artist with 2 upcoming club dates listed on soundcheck as of Fri, 31 Jul 2026, next at Angel Music Bar, Melbourne on Fri, 31 Jul 2026.
 
 Miki (3) is a house and tech house artist based in Australia, tracked on soundcheck, with 32 sets logged across Melbourne, Newyorkcity and Sydney. Often billed alongside Hannah D, Activator (AU) and Ed Kent. Next up: Angel Music Bar, Melbourne on Fri 31 Jul.
 
@@ -26,4 +26,4 @@ Miki (3) is a house and tech house artist based in Australia, tracked on soundch
 
 Hannah D, Activator (AU), Ed Kent
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/miki-3/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/miki-3/)*

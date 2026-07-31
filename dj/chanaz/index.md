@@ -1,6 +1,6 @@
 # Chanaz
 
-Chanaz is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at West Harlem, Kyoto on Fri, 31 Jul 2026.
+Chanaz is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at West Harlem, Kyoto on Fri, 31 Jul 2026.
 
 Chanaz is a house and techno artist tracked on soundcheck, with 86 sets logged across Kyoto, Osaka, Seoul and Tokyo. Often billed alongside Vís (1), Ryogo and KOTSU. Next up: West Harlem, Kyoto on Fri 31 Jul.
 
@@ -25,4 +25,4 @@ Chanaz is a house and techno artist tracked on soundcheck, with 86 sets logged a
 
 Vís (1), Ryogo, KOTSU
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/chanaz/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/chanaz/)*

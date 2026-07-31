@@ -1,6 +1,6 @@
 # Disgrays
 
-Disgrays is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at TBA, Melbourne on Sat, 1 Aug 2026.
+Disgrays is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at TBA, Melbourne on Sat, 1 Aug 2026.
 
 Disgrays is a techno and trance artist based in Australia, tracked on soundcheck, with 11 sets logged across Berlin, Melbourne and Sydney. Often billed alongside Faeryn, Hasvat Informant and Shaven. Next up: TBA, Melbourne on Sat 1 Aug.
 
@@ -25,4 +25,4 @@ Disgrays is a techno and trance artist based in Australia, tracked on soundcheck
 
 Faeryn, Hasvat Informant, Shaven
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/disgrays/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/disgrays/)*

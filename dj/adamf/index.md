@@ -1,6 +1,6 @@
 # Adam F
 
-Adam F is a Minimal and Drum & Bass artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at The Jazz Cafe, London on Sat, 1 Aug 2026.
+Adam F is a Minimal and Drum & Bass artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at The Jazz Cafe, London on Sat, 1 Aug 2026.
 
 Adam F is a minimal and drum & bass artist based in United Kingdom, tracked on soundcheck, with 11 sets logged across Budapest, London, Naples and Seoul and 1 more. Often billed alongside Krust, 2Shy MC and Abby Daze. Next up: The Jazz Cafe, London on Sat 1 Aug.
 
@@ -25,4 +25,4 @@ Adam F is a minimal and drum & bass artist based in United Kingdom, tracked on s
 
 Krust, 2Shy MC, Abby Daze
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/adamf/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/adamf/)*

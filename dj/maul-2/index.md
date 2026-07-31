@@ -1,14 +1,15 @@
 # Maul (2)
 
-Maul (2) is a Techno and Hardcore artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at The Comfort Zone, Toronto on Fri, 31 Jul 2026.
+Maul (2) is a Techno and Hardcore artist with 2 upcoming club dates listed on soundcheck as of Fri, 31 Jul 2026, next at The Comfort Zone, Toronto on Fri, 31 Jul 2026.
 
-Maul (2) is a techno and hardcore artist based in Canada, tracked on soundcheck, with 8 sets logged across Toronto. Often billed alongside R4TS, KILL 9 1 and MVCHE. Next up: The Comfort Zone, Toronto on Fri 31 Jul.
+Maul (2) is a techno and hardcore artist based in Canada, tracked on soundcheck, with 9 sets logged across Toronto. Often billed alongside R4TS, KILL 9 1 and MVCHE. Next up: The Comfort Zone, Toronto on Fri 31 Jul.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 31 Jul 2026 | The Comfort Zone | Toronto |
+| Fri, 31 Jul 2026 | TBA | Toronto |
 
 ## Recently played
 
@@ -24,4 +25,4 @@ Maul (2) is a techno and hardcore artist based in Canada, tracked on soundcheck,
 
 R4TS, KILL 9 1, MVCHE
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/maul-2/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/maul-2/)*

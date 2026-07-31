@@ -1,6 +1,6 @@
 # fat hands
 
-fat hands is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at Kaiho, London on Sat, 1 Aug 2026.
+fat hands is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at Kaiho, London on Sat, 1 Aug 2026.
 
 fat hands is a house and disco artist based in United Kingdom, tracked on soundcheck, with 11 sets logged across London. Often billed alongside Mummy Long Legs, Low Bloc and JEEM. Next up: Kaiho, London on Sat 1 Aug.
 
@@ -25,4 +25,4 @@ fat hands is a house and disco artist based in United Kingdom, tracked on soundc
 
 Mummy Long Legs, Low Bloc, JEEM
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/fathands/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/fathands/)*

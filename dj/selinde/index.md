@@ -1,6 +1,6 @@
 # Selin (DE)
 
-Selin (DE) is a House and UK Funky artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at Œlgarten, Berlin on Sat, 5 Sept 2026.
+Selin (DE) is a House and UK Funky artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at Œlgarten, Berlin on Sat, 5 Sept 2026.
 
 Selin (DE) is a house and uk funky artist based in Germany, tracked on soundcheck, with 13 sets logged across Berlin and Hamburg. Often billed alongside Kat_Es, Bress Underground and Eva Crystaltips. Next up: Œlgarten, Berlin on Sat 5 Sept.
 
@@ -25,4 +25,4 @@ Selin (DE) is a house and uk funky artist based in Germany, tracked on soundchec
 
 Kat_Es, Bress Underground, Eva Crystaltips
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/selinde/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/selinde/)*

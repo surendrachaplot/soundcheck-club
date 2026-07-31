@@ -1,6 +1,6 @@
 # Two Dots
 
-Two Dots is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at OIL Club, Shenzhen on Fri, 14 Aug 2026.
+Two Dots is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at OIL Club, Shenzhen on Fri, 14 Aug 2026.
 
 Two Dots is a techno and trance artist based in United Kingdom, tracked on soundcheck, with 12 sets logged across Berlin, Geneva, Hongkong and Paris and 1 more. Often billed alongside Florian Picasso, Alex Nantaya and The Chronics. Next up: OIL Club, Shenzhen on Fri 14 Aug.
 
@@ -25,4 +25,4 @@ Two Dots is a techno and trance artist based in United Kingdom, tracked on sound
 
 Florian Picasso, Alex Nantaya, The Chronics
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/twodots/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/twodots/)*

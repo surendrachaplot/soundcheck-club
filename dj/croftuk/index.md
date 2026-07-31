@@ -1,6 +1,6 @@
 # Croft (UK)
 
-Croft (UK) is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at The Model, Nottingham on Fri, 31 Jul 2026.
+Croft (UK) is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at The Model, Nottingham on Fri, 31 Jul 2026.
 
 Croft (UK) is a techno and house artist based in United Kingdom, tracked on soundcheck, with 5 sets logged across Leeds, Manchester and Nottingham. Often billed alongside DR MYSTERY, Eve Lizard and Henzo. Next up: The Model, Nottingham on Fri 31 Jul.
 
@@ -21,4 +21,4 @@ Croft (UK) is a techno and house artist based in United Kingdom, tracked on soun
 
 DR MYSTERY, Eve Lizard, Henzo
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/croftuk/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/croftuk/)*

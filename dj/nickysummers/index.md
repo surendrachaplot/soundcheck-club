@@ -1,6 +1,6 @@
 # Nicky Summers
 
-Nicky Summers is a Afro House and Amapiano artist with 2 upcoming club dates listed on soundcheck as of Thu, 30 Jul 2026, next at Burgess Park, London on Fri, 31 Jul 2026.
+Nicky Summers is a Afro House and Amapiano artist with 2 upcoming club dates listed on soundcheck as of Fri, 31 Jul 2026, next at Burgess Park, London on Fri, 31 Jul 2026.
 
 Nicky Summers is an afro house and amapiano artist tracked on soundcheck, with 20 sets logged across London. Often billed alongside CLEIDO, Charisse C and Caiiro. Next up: Burgess Park, London on Fri 31 Jul.
 
@@ -26,4 +26,4 @@ Nicky Summers is an afro house and amapiano artist tracked on soundcheck, with 2
 
 CLEIDO, Charisse C, Caiiro
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/nickysummers/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/nickysummers/)*

@@ -1,6 +1,6 @@
 # Max Sinclair
 
-Max Sinclair is a Techno and Electro artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at Pontoon Budapest, Budapest on Thu, 6 Aug 2026.
+Max Sinclair is a Techno and Electro artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at Pontoon Budapest, Budapest on Thu, 6 Aug 2026.
 
 Max Sinclair is a techno and electro artist based in Hungary, tracked on soundcheck, with 51 sets logged across Athens, Budapest, Hamburg and Thehague and 1 more. Often billed alongside AGA2L, Filmmaker and LAU (6). Next up: Pontoon Budapest, Budapest on Thu 6 Aug.
 
@@ -25,4 +25,4 @@ Max Sinclair is a techno and electro artist based in Hungary, tracked on soundch
 
 AGA2L, Filmmaker, LAU (6)
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/maxsinclair/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/maxsinclair/)*

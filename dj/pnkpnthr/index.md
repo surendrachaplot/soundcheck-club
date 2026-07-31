@@ -1,6 +1,6 @@
 # pnk pnthr
 
-pnk pnthr is a Trance and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at Rote Sonne, Munich on Fri, 31 Jul 2026.
+pnk pnthr is a Trance and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at Rote Sonne, Munich on Fri, 31 Jul 2026.
 
 pnk pnthr is a trance and techno artist tracked on soundcheck, with 20 sets logged across Berlin, Budapest and Munich. Often billed alongside vSto, TOON WORLD and LUCKY4U. Next up: Rote Sonne, Munich on Fri 31 Jul.
 
@@ -25,4 +25,4 @@ pnk pnthr is a trance and techno artist tracked on soundcheck, with 20 sets logg
 
 vSto, TOON WORLD, LUCKY4U
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/pnkpnthr/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/pnkpnthr/)*

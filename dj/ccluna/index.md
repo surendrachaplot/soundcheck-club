@@ -1,6 +1,6 @@
 # CC Luna
 
-CC Luna is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at TBA, Stockholm on Sat, 1 Aug 2026.
+CC Luna is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at TBA, Stockholm on Sat, 1 Aug 2026.
 
 CC Luna is a techno and house artist based in Sweden, tracked on soundcheck, with 27 sets logged across Berlin and Stockholm. Often billed alongside MERILIN, Marten Attling and DJ Alban. Next up: TBA, Stockholm on Sat 1 Aug.
 
@@ -25,4 +25,4 @@ CC Luna is a techno and house artist based in Sweden, tracked on soundcheck, wit
 
 MERILIN, Marten Attling, DJ Alban
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/ccluna/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/ccluna/)*

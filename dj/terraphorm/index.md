@@ -1,6 +1,6 @@
 # Terraphorm
 
-Terraphorm is a Drum & Bass and Dubstep artist with 2 upcoming club dates listed on soundcheck as of Thu, 30 Jul 2026, next at Phoenix Landing, Boston on Thu, 6 Aug 2026.
+Terraphorm is a Drum & Bass and Dubstep artist with 2 upcoming club dates listed on soundcheck as of Fri, 31 Jul 2026, next at Phoenix Landing, Boston on Thu, 6 Aug 2026.
 
 Terraphorm is a drum & bass and dubstep artist based in United States of America, tracked on soundcheck, with 6 sets logged across Boston, Newyorkcity and Philadelphia. Often billed alongside Lenore, Amit and Mark McNulty. Next up: Phoenix Landing, Boston on Thu 6 Aug.
 
@@ -22,4 +22,4 @@ Terraphorm is a drum & bass and dubstep artist based in United States of America
 
 Lenore, Amit, Mark McNulty
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/terraphorm/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/terraphorm/)*

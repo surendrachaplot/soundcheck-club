@@ -1,6 +1,6 @@
 # Brieela
 
-Brieela is a House and Tech House artist with 2 upcoming club dates listed on soundcheck as of Thu, 30 Jul 2026, next at TBA - ART CLUB Cabriès, Marseille on Sat, 1 Aug 2026.
+Brieela is a House and Tech House artist with 2 upcoming club dates listed on soundcheck as of Fri, 31 Jul 2026, next at TBA - ART CLUB Cabriès, Marseille on Sat, 1 Aug 2026.
 
 Brieela is a house and tech house artist tracked on soundcheck, with 104 sets logged across Barcelona, Berlin, Brussels and Frankfurt and 3 more. Often billed alongside LM, ONA (SP) and HANIE. Next up: TBA - ART CLUB Cabriès, Marseille on Sat 1 Aug.
 
@@ -26,4 +26,4 @@ Brieela is a house and tech house artist tracked on soundcheck, with 104 sets lo
 
 LM, ONA (SP), HANIE
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/brieela/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/brieela/)*

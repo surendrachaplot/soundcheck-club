@@ -1,6 +1,6 @@
 # Acid Goldee
 
-Acid Goldee is a Trance and Psytrance artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at elipamanoke, Leipzig on Sat, 1 Aug 2026.
+Acid Goldee is a Trance and Psytrance artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at elipamanoke, Leipzig on Sat, 1 Aug 2026.
 
 Acid Goldee is a trance and psytrance artist tracked on soundcheck, with 15 sets logged across Leipzig. Often billed alongside GoaGraf, monotony and DJ STIMULA. Next up: elipamanoke, Leipzig on Sat 1 Aug.
 
@@ -25,4 +25,4 @@ Acid Goldee is a trance and psytrance artist tracked on soundcheck, with 15 sets
 
 GoaGraf, monotony, DJ STIMULA
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/acidgoldee/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/acidgoldee/)*

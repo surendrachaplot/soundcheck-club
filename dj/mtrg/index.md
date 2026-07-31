@@ -1,6 +1,6 @@
 # MTRG
 
-MTRG is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at Bricks, London on Fri, 31 Jul 2026.
+MTRG is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at Bricks, London on Fri, 31 Jul 2026.
 
 MTRG is a house and tech house artist tracked on soundcheck, with 8 sets logged across London. Often billed alongside Olly Brady, SAM PHONIC and BOA (1). Next up: Bricks, London on Fri 31 Jul.
 
@@ -24,4 +24,4 @@ MTRG is a house and tech house artist tracked on soundcheck, with 8 sets logged 
 
 Olly Brady, SAM PHONIC, BOA (1)
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/mtrg/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/mtrg/)*

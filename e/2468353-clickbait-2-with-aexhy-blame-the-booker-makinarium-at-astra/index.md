@@ -1,6 +1,6 @@
 # ClickBAIT #2 - with Aexhy, Blame the Booker, Makinarium at Astra Kulturhaus
 
-ClickBAIT #2 - with Aexhy, Blame the Booker, Makinarium at Astra Kulturhaus on Fri 31 Jul, Berlin. 11 acts on the bill: Aexhy, Baby Rocket, Blame the Booker and daschka and 7 more. Hardcore and Gabber. Preview the line-up and save it on soundcheck.
+ClickBAIT #2 - with Aexhy, Blame the Booker, Makinarium at Astra Kulturhaus on Fri 31 Jul, Berlin. 12 acts on the bill: Aexhy, Baby Rocket, Blame the Booker and daschka and 8 more. Hardcore and Gabber. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -18,6 +18,7 @@ ClickBAIT #2 - with Aexhy, Blame the Booker, Makinarium at Astra Kulturhaus on F
 - KLOSSY
 - Makinarium
 - Marcie (2)
+- Osiris (2)
 - sntxrrr
 - TTankengine
 - ZYNTAX

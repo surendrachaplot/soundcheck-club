@@ -1,6 +1,6 @@
 # ØSHUN
 
-ØSHUN is a Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at TBA, Stockholm on Sat, 1 Aug 2026.
+ØSHUN is a Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at TBA, Stockholm on Sat, 1 Aug 2026.
 
 ØSHUN is a techno artist based in France, tracked on soundcheck, with 4 sets logged across Berlin and Stockholm. Often billed alongside Alexi Delano, Andemon and BOYCA. Next up: TBA, Stockholm on Sat 1 Aug.
 
@@ -20,4 +20,4 @@
 
 Alexi Delano, Andemon, BOYCA
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/oshun/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/oshun/)*

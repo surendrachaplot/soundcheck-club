@@ -1,6 +1,6 @@
 # NEBULAE
 
-NEBULAE is a Techno and Electro artist with 2 upcoming club dates listed on soundcheck as of Thu, 30 Jul 2026, next at OIL Club, Shenzhen on Fri, 31 Jul 2026.
+NEBULAE is a Techno and Electro artist with 2 upcoming club dates listed on soundcheck as of Fri, 31 Jul 2026, next at OIL Club, Shenzhen on Fri, 31 Jul 2026.
 
 NEBULAE is a techno and electro artist tracked on soundcheck, with 25 sets logged across Hongkong and Shenzhen. Often billed alongside Nebulae, Sulk and Jascer. Next up: OIL Club, Shenzhen on Fri 31 Jul.
 
@@ -26,4 +26,4 @@ NEBULAE is a techno and electro artist tracked on soundcheck, with 25 sets logge
 
 Nebulae, Sulk, Jascer
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/nebulae/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/nebulae/)*

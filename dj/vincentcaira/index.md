@@ -1,6 +1,6 @@
 # Vincent Caira
 
-Vincent Caira is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at TBA - indoor / outdoor Toronto warehouse venue to be announced to ticket holders, Toronto on Sat, 1 Aug 2026.
+Vincent Caira is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at TBA - indoor / outdoor Toronto warehouse venue to be announced to ticket holders, Toronto on Sat, 1 Aug 2026.
 
 Vincent Caira is a house and deep house artist tracked on soundcheck, with 17 sets logged across Amsterdam, Miami and Toronto. Often billed alongside Hatiras, Angelo Ferreri and Cozmic Cat. Next up: TBA - indoor / outdoor Toronto warehouse venue to be announced to ticket holders, Toronto on Sat 1 Aug.
 
@@ -25,4 +25,4 @@ Vincent Caira is a house and deep house artist tracked on soundcheck, with 17 se
 
 Hatiras, Angelo Ferreri, Cozmic Cat
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/vincentcaira/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/vincentcaira/)*

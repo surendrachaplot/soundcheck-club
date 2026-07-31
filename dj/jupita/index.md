@@ -1,6 +1,6 @@
 # JUPiTA
 
-JUPiTA is a Bass and Reggaeton artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at Vespers Club, London on Sat, 1 Aug 2026.
+JUPiTA is a Bass and Reggaeton artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at Vespers Club, London on Sat, 1 Aug 2026.
 
 JUPiTA is a bass and reggaeton artist based in Australia, tracked on soundcheck, with 26 sets logged across London, Melbourne and Sydney. Often billed alongside Crybaby, Stev Zar and Savage The Girl. Next up: Vespers Club, London on Sat 1 Aug.
 
@@ -25,4 +25,4 @@ JUPiTA is a bass and reggaeton artist based in Australia, tracked on soundcheck,
 
 Crybaby, Stev Zar, Savage The Girl
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/jupita/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/jupita/)*

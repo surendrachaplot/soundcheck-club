@@ -1,6 +1,6 @@
 # Gargoyle Girlfriend
 
-Gargoyle Girlfriend is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Thu, 30 Jul 2026, next at Casa Dao, Hong Kong on Fri, 31 Jul 2026.
+Gargoyle Girlfriend is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Fri, 31 Jul 2026, next at Casa Dao, Hong Kong on Fri, 31 Jul 2026.
 
 Gargoyle Girlfriend is a techno and house artist based in China, tracked on soundcheck, with 38 sets logged across Hongkong and Shenzhen. Often billed alongside AngeliKa, Teng and Taste of Blue. Next up: Casa Dao, Hongkong on Fri 31 Jul.
 
@@ -26,4 +26,4 @@ Gargoyle Girlfriend is a techno and house artist based in China, tracked on soun
 
 AngeliKa, Teng, Taste of Blue
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/gargoylegirlfriend/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/gargoylegirlfriend/)*

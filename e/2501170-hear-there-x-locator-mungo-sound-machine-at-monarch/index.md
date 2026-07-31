@@ -1,6 +1,6 @@
-# hear + there x Locator: Mungo Sound Machine at Monarch
+# Hear + There x Locator: Mungo Sound Machine at Monarch
 
-hear + there x Locator: Mungo Sound Machine at Monarch on Fri 11 Sept, Sanfrancisco. 6 acts on the bill: Acid Boner, Jackson Walker, Mungo Sound Machine and natebytheway and 2 more. House and Acid. Preview the line-up and save it on soundcheck.
+Hear + There x Locator: Mungo Sound Machine at Monarch on Fri 11 Sept, Sanfrancisco. 7 acts on the bill: Acid Boner, Jackson Walker, Mungo Sound Machine and natebytheway and 3 more. House and Acid. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -16,5 +16,6 @@ hear + there x Locator: Mungo Sound Machine at Monarch on Fri 11 Sept, Sanfranci
 - natebytheway
 - playground tactics
 - PNG (US)
+- vin.
 
 *Source: [soundcheck](https://soundcheck.club/e/2501170-hear-there-x-locator-mungo-sound-machine-at-monarch/)*

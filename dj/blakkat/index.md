@@ -1,6 +1,6 @@
 # Blakkat
 
-Blakkat is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at Jungle Hollywood, Los Angeles on Sat, 1 Aug 2026.
+Blakkat is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at Jungle Hollywood, Los Angeles on Sat, 1 Aug 2026.
 
 Blakkat is a house and techno artist based in United States of America, tracked on soundcheck, with 4 sets logged across Losangeles. Often billed alongside Corey Sizemore, DJ Spun and Dj Kerry. Next up: Jungle Hollywood, Losangeles on Sat 1 Aug.
 
@@ -20,4 +20,4 @@ Blakkat is a house and techno artist based in United States of America, tracked 
 
 Corey Sizemore, DJ Spun, Dj Kerry
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/blakkat/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/blakkat/)*

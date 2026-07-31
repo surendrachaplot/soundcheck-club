@@ -1,6 +1,6 @@
 # Underground Resistance
 
-Underground Resistance is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at Amsterdamse Bos, Amsterdam on Fri, 31 Jul 2026.
+Underground Resistance is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at Amsterdamse Bos, Amsterdam on Fri, 31 Jul 2026.
 
 Underground Resistance is a techno and house artist based in United States of America, tracked on soundcheck, with 31 sets logged across Amsterdam, Antwerp, Barcelona and Berlin and 14 more. Often billed alongside Mark Flash, Huey Mnemonic and Christian AB. Next up: Amsterdamse Bos, Amsterdam on Fri 31 Jul.
 
@@ -25,4 +25,4 @@ Underground Resistance is a techno and house artist based in United States of Am
 
 Mark Flash, Huey Mnemonic, Christian AB
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/undergroundresistance/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/undergroundresistance/)*

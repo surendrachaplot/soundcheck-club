@@ -1,6 +1,6 @@
 # CRAZED (BR)
 
-CRAZED (BR) is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at TBA - Rua Coronel Euclides Machado, 1066 - Limão, São Paulo - SP, 02713-000, Brasil, Sao Paulo on Sat, 1 Aug 2026.
+CRAZED (BR) is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at TBA - Rua Coronel Euclides Machado, 1066 - Limão, São Paulo - SP, 02713-000, Brasil, Sao Paulo on Sat, 1 Aug 2026.
 
 CRAZED (BR) is a house and techno artist based in Brazil, tracked on soundcheck, with 19 sets logged across Saopaulo. Often billed alongside Ananda (BR), Kontronatura and Suelen Mesmo. Next up: TBA - Rua Coronel Euclides Machado, 1066 - Limão, São Paulo - SP, 02713-000, Brasil, Saopaulo on Sat 1 Aug.
 
@@ -25,4 +25,4 @@ CRAZED (BR) is a house and techno artist based in Brazil, tracked on soundcheck,
 
 Ananda (BR), Kontronatura, Suelen Mesmo
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/crazedbr/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/crazedbr/)*

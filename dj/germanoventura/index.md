@@ -1,6 +1,6 @@
 # Germano Ventura
 
-Germano Ventura is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at Amnesia Ibiza, Ibiza on Sun, 23 Aug 2026.
+Germano Ventura is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at Amnesia Ibiza, Ibiza on Sun, 23 Aug 2026.
 
 Germano Ventura is a house and tech house artist based in Italy, tracked on soundcheck, with 99 sets logged across Barcelona, Berlin, Ibiza and Naples and 3 more. Often billed alongside Ricardo Villalobos, SAWE and Alex Neri. Next up: Amnesia Ibiza, Ibiza on Sun 23 Aug.
 
@@ -25,4 +25,4 @@ Germano Ventura is a house and tech house artist based in Italy, tracked on soun
 
 Ricardo Villalobos, SAWE, Alex Neri
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/germanoventura/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/germanoventura/)*

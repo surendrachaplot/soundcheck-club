@@ -1,6 +1,6 @@
 # Moritz Simon Geist
 
-Moritz Simon Geist is a Techno and Experimental artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at Rote Fabrik, Zurich on Fri, 7 Aug 2026.
+Moritz Simon Geist is a Techno and Experimental artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at Rote Fabrik, Zurich on Fri, 7 Aug 2026.
 
 Moritz Simon Geist is a techno and experimental artist based in Germany, tracked on soundcheck, with 8 sets logged across Berlin, Copenhagen, Newyorkcity and Zurich. Often billed alongside JacqNoise, P.Bell and Styro 2000. Next up: Rote Fabrik, Zurich on Fri 7 Aug.
 
@@ -24,4 +24,4 @@ Moritz Simon Geist is a techno and experimental artist based in Germany, tracked
 
 JacqNoise, P.Bell, Styro 2000
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/moritzsimongeist/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/moritzsimongeist/)*

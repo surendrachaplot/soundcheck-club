@@ -1,6 +1,6 @@
 # Franky Rizardo
 
-Franky Rizardo is a House and Tech House artist with 15 upcoming club dates listed on soundcheck as of Thu, 30 Jul 2026, next at Malta Fairs & Conventions Centre, Malta on Sat, 1 Aug 2026.
+Franky Rizardo is a House and Tech House artist with 15 upcoming club dates listed on soundcheck as of Fri, 31 Jul 2026, next at Malta Fairs & Conventions Centre, Malta on Sat, 1 Aug 2026.
 
 Franky Rizardo is a house and tech house artist tracked on soundcheck, with 231 sets logged across Amsterdam, Austin, Bali and Barcelona and 44 more. Often billed alongside Marco Carola, East End Dubs and Mason Collective. Next up: Malta Fairs & Conventions Centre, Malta on Sat 1 Aug.
 
@@ -36,4 +36,4 @@ Franky Rizardo is a house and tech house artist tracked on soundcheck, with 231 
 
 Marco Carola, East End Dubs, Mason Collective
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/frankyrizardo/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/frankyrizardo/)*

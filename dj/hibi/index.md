@@ -1,6 +1,6 @@
 # HIBI
 
-HIBI is a Techno and Industrial artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at Wanderlust, Paris on Thu, 13 Aug 2026.
+HIBI is a Techno and Industrial artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at Wanderlust, Paris on Thu, 13 Aug 2026.
 
 HIBI is a techno and industrial artist tracked on soundcheck, with 13 sets logged across Marseille, Nantes and Paris. Often billed alongside 25EMEHEURE, LESSSS and ØBSTN. Next up: Wanderlust, Paris on Thu 13 Aug.
 
@@ -25,4 +25,4 @@ HIBI is a techno and industrial artist tracked on soundcheck, with 13 sets logge
 
 25EMEHEURE, LESSSS, ØBSTN
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/hibi/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/hibi/)*

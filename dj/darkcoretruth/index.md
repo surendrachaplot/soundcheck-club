@@ -1,6 +1,6 @@
 # Darkcore Truth
 
-Darkcore Truth is a Techno and Hardcore artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at Nice N Sleazy, Glasgow on Sun, 9 Aug 2026.
+Darkcore Truth is a Techno and Hardcore artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at Nice N Sleazy, Glasgow on Sun, 9 Aug 2026.
 
 Darkcore Truth is a techno and hardcore artist based in United States of America, tracked on soundcheck, with 9 sets logged across Berlin, Glasgow and Newyorkcity. Often billed alongside 4KitSake, L3W4H and eurokels. Next up: Nice N Sleazy, Glasgow on Sun 9 Aug.
 
@@ -25,4 +25,4 @@ Darkcore Truth is a techno and hardcore artist based in United States of America
 
 4KitSake, L3W4H, eurokels
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/darkcoretruth/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/darkcoretruth/)*

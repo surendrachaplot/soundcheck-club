@@ -1,6 +1,6 @@
 # Schlepp Geist
 
-Schlepp Geist is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at Climax-Institutes, Stuttgart on Sat, 8 Aug 2026.
+Schlepp Geist is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at Climax-Institutes, Stuttgart on Sat, 8 Aug 2026.
 
 Schlepp Geist is a techno and house artist based in Germany, tracked on soundcheck, with 48 sets logged across Amsterdam, Berlin, Cologne and Copenhagen and 6 more. Often billed alongside Calypsis, Britta Arnold and Lars Christian Müller. Next up: Climax-Institutes, Stuttgart on Sat 8 Aug.
 
@@ -25,4 +25,4 @@ Schlepp Geist is a techno and house artist based in Germany, tracked on soundche
 
 Calypsis, Britta Arnold, Lars Christian Müller
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/schleppgeist/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/schleppgeist/)*

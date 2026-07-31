@@ -1,6 +1,6 @@
 # Zenker Brothers
 
-Zenker Brothers is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Thu, 30 Jul 2026, next at BLITZ, Munich on Fri, 31 Jul 2026.
+Zenker Brothers is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Fri, 31 Jul 2026, next at BLITZ, Munich on Fri, 31 Jul 2026.
 
 Zenker Brothers is a techno and house artist tracked on soundcheck, with 140 sets logged across Amsterdam, Athens, Barcelona and Belfast and 38 more. Often billed alongside Stenny, Skee Mask and Fireground. Next up: BLITZ, Munich on Fri 31 Jul.
 
@@ -27,4 +27,4 @@ Zenker Brothers is a techno and house artist tracked on soundcheck, with 140 set
 
 Stenny, Skee Mask, Fireground
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/zenkerbrothers/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/zenkerbrothers/)*

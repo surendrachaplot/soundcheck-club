@@ -1,6 +1,6 @@
 # DJ NORDICTRÄK
 
-DJ NORDICTRÄK is a Club and Post-Punk artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at Trouble Bar, Portland on Fri, 31 Jul 2026.
+DJ NORDICTRÄK is a Club and Post-Punk artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at Trouble Bar, Portland on Fri, 31 Jul 2026.
 
 DJ NORDICTRÄK is a club and post-punk artist based in Norway, tracked on soundcheck, with 11 sets logged across Berlin and Portland. Next up: Trouble Bar, Portland on Fri 31 Jul.
 
@@ -21,4 +21,4 @@ DJ NORDICTRÄK is a club and post-punk artist based in Norway, tracked on soundc
 - Replicant BAR, Portland — Sat, 31 May 2025
 - Starday Tavern, Portland — Fri, 13 Dec 2024
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/djnordictrak/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/djnordictrak/)*

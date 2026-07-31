@@ -1,6 +1,6 @@
 # JXXXO
 
-JXXXO is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Thu, 30 Jul 2026, next at Crobar - Buenos Aires, Buenos Aires on Sat, 1 Aug 2026.
+JXXXO is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Fri, 31 Jul 2026, next at Crobar - Buenos Aires, Buenos Aires on Sat, 1 Aug 2026.
 
 JXXXO is a techno and house artist based in Argentina, tracked on soundcheck, with 36 sets logged across Amsterdam, Barcelona, Berlin and Buenosaires and 7 more. Often billed alongside HERS, Lucas Sosa (AR) and PERT. Next up: Crobar - Buenos Aires, Buenosaires on Sat 1 Aug.
 
@@ -26,4 +26,4 @@ JXXXO is a techno and house artist based in Argentina, tracked on soundcheck, wi
 
 HERS, Lucas Sosa (AR), PERT
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/jxxxo/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/jxxxo/)*

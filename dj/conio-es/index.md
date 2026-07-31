@@ -1,6 +1,6 @@
 # Conio
 
-Conio is a Electronica and Acid artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at Sala Siroco, Madrid on Fri, 7 Aug 2026.
+Conio is a Electronica and Acid artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at Sala Siroco, Madrid on Fri, 7 Aug 2026.
 
 Conio is an electronica and acid artist based in Spain, tracked on soundcheck, with 12 sets logged across Madrid. Often billed alongside Marina Antih, Fer Xplosion and Luska. Next up: Sala Siroco, Madrid on Fri 7 Aug.
 
@@ -25,4 +25,4 @@ Conio is an electronica and acid artist based in Spain, tracked on soundcheck, w
 
 Marina Antih, Fer Xplosion, Luska
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/conio-es/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/conio-es/)*

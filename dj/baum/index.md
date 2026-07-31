@@ -1,6 +1,6 @@
 # Baum
 
-Baum is a House and Tech House artist with 3 upcoming club dates listed on soundcheck as of Thu, 30 Jul 2026, next at Sunseabar Beach Club, Barcelona on Sat, 1 Aug 2026.
+Baum is a House and Tech House artist with 3 upcoming club dates listed on soundcheck as of Fri, 31 Jul 2026, next at Sunseabar Beach Club, Barcelona on Sat, 1 Aug 2026.
 
 Baum is a house and tech house artist based in Spain, tracked on soundcheck, with 24 sets logged across Barcelona, Berlin, Brussels and Ibiza and 3 more. Often billed alongside Bastian Bux, Andres Campo and De La Swing. Next up: Sunseabar Beach Club, Barcelona on Sat 1 Aug.
 
@@ -27,4 +27,4 @@ Baum is a house and tech house artist based in Spain, tracked on soundcheck, wit
 
 Bastian Bux, Andres Campo, De La Swing
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/baum/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/baum/)*

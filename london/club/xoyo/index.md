@@ -1,14 +1,13 @@
 # XOYO
 
-XOYO is a music venue in London with 39 upcoming nights listed on soundcheck as of Thu, 30 Jul 2026; the next is "Insomnia London: Rebekah Abdeen, DJelley, Goya b2b Half Cab" on Thu, 30 Jul 2026.
+XOYO is a music venue in London with 38 upcoming nights listed on soundcheck as of Fri, 31 Jul 2026; the next is "Ozzie Guven, Rich NXT, Boss Priester & Paisley Jensen" on Sat, 1 Aug 2026.
 
-XOYO is a music venue in London listed on soundcheck. 39 upcoming nights, with line-ups including Kepler, adamou, Adele Tondu and Aidyscape and 2 more. Browse upcoming dates, start times and who's playing. 32-37 Cowper Street; Shoreditch; London EC2A 4AP; United Kingdom.
+XOYO is a music venue in London listed on soundcheck. 38 upcoming nights, with line-ups including Kepler, adamou, Adele Tondu and Aidyscape and 2 more. Browse upcoming dates, start times and who's playing. 32-37 Cowper Street; Shoreditch; London EC2A 4AP; United Kingdom.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Thu, 30 Jul 2026 | Insomnia London: Rebekah Abdeen, DJelley, Goya b2b Half Cab | DJelley, Half Cab, Rebekah Abdeen |
 | Sat, 1 Aug 2026 | Ozzie Guven, Rich NXT, Boss Priester & Paisley Jensen | Boss Priester, Ozzie Guven, Paisley Jensen, Rich NXT |
 | Sun, 2 Aug 2026 | ANCESTORZ - XOYO  |  |
 | Mon, 3 Aug 2026 | MOTION Every Monday - [WHITE PARTY SPECIAL] |  |
@@ -18,9 +17,10 @@ XOYO is a music venue in London listed on soundcheck. 39 upcoming nights, with l
 | Mon, 10 Aug 2026 | MOTION Every Monday |  |
 | Wed, 12 Aug 2026 | PARADOX | Joe Baxter, Kate Moss, UMANE |
 | Thu, 13 Aug 2026 | Insomnia London: Cash Only, Génie, Tino, Corran, tasha.mp4 | Corran, Dj Cash Only, Génie, TINO (2), tasha.mp4 |
+| Sat, 15 Aug 2026 | Kepler B2B Job de Jong, Hidde van Wee & Kim April | Hidde van Wee, Job de Jong, Kepler, Kim April |
 
 ## Address
 
 32-37 Cowper Street; Shoreditch; London EC2A 4AP; United Kingdom, London
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/london/club/xoyo/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/london/club/xoyo/)*

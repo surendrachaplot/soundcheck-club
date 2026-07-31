@@ -1,6 +1,6 @@
 # Nilinski
 
-Nilinski is a Trance and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at ÆDEN, Berlin on Sat, 8 Aug 2026.
+Nilinski is a Trance and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at ÆDEN, Berlin on Sat, 8 Aug 2026.
 
 Nilinski is a trance and techno artist based in Germany, tracked on soundcheck, with 4 sets logged across Berlin. Often billed alongside BENDOM, FRËIHERR and Phil Biehler. Next up: ÆDEN, Berlin on Sat 8 Aug.
 
@@ -20,4 +20,4 @@ Nilinski is a trance and techno artist based in Germany, tracked on soundcheck, 
 
 BENDOM, FRËIHERR, Phil Biehler
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/nilinski/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/nilinski/)*

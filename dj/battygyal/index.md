@@ -1,6 +1,6 @@
 # Battygyal
 
-Battygyal is a Club and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at Bossa Nova Civic Club, New York City on Sun, 2 Aug 2026.
+Battygyal is a Club and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at Bossa Nova Civic Club, New York City on Sun, 2 Aug 2026.
 
 Battygyal is a club and techno artist based in United States of America, tracked on soundcheck, with 60 sets logged across Newyorkcity and Washingtondc. Often billed alongside znorthy, Heartbreaker and DILUVIA. Next up: Bossa Nova Civic Club, Newyorkcity on Sun 2 Aug.
 
@@ -25,4 +25,4 @@ Battygyal is a club and techno artist based in United States of America, tracked
 
 znorthy, Heartbreaker, DILUVIA
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/battygyal/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/battygyal/)*

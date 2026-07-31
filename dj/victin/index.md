@@ -1,6 +1,6 @@
 # Victin
 
-Victin is a Techno and Baile Funk artist with 2 upcoming club dates listed on soundcheck as of Thu, 30 Jul 2026, next at Unité.22, Marseille on Sat, 1 Aug 2026.
+Victin is a Techno and Baile Funk artist with 2 upcoming club dates listed on soundcheck as of Fri, 31 Jul 2026, next at Unité.22, Marseille on Sat, 1 Aug 2026.
 
 Victin is a techno and baile funk artist tracked on soundcheck, with 23 sets logged across Berlin, Istanbul, Lisbon and London and 3 more. Often billed alongside Ananda (BR), Kontronatura and BADSISTA. Next up: Unité.22, Marseille on Sat 1 Aug.
 
@@ -26,4 +26,4 @@ Victin is a techno and baile funk artist tracked on soundcheck, with 23 sets log
 
 Ananda (BR), Kontronatura, BADSISTA
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/victin/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/victin/)*

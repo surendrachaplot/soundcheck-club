@@ -1,6 +1,6 @@
 # Robot Girl
 
-Robot Girl is a Italo Disco and Disco artist with 3 upcoming club dates listed on soundcheck as of Thu, 30 Jul 2026, next at Mysliwska, Berlin on Sat, 1 Aug 2026.
+Robot Girl is a Italo Disco and Disco artist with 3 upcoming club dates listed on soundcheck as of Fri, 31 Jul 2026, next at Mysliwska, Berlin on Sat, 1 Aug 2026.
 
 Robot Girl is an italo disco and disco artist tracked on soundcheck, with 93 sets logged across Berlin and Leipzig. Often billed alongside Lancer (2), Marko König and Audio Vacanze. Next up: Mysliwska, Berlin on Sat 1 Aug.
 
@@ -27,4 +27,4 @@ Robot Girl is an italo disco and disco artist tracked on soundcheck, with 93 set
 
 Lancer (2), Marko König, Audio Vacanze
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/robotgirl/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/robotgirl/)*

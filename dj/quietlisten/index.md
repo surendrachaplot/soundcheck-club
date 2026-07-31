@@ -1,6 +1,6 @@
 # QUIET&LISTEN
 
-QUIET&LISTEN is a Electro and Tech House artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at Café Himmelsschreiber, Hamburg on Fri, 14 Aug 2026.
+QUIET&LISTEN is a Electro and Tech House artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at Café Himmelsschreiber, Hamburg on Fri, 14 Aug 2026.
 
 QUIET&LISTEN is an electro and tech house artist based in Germany, tracked on soundcheck, with 9 sets logged across Hamburg. Often billed alongside Iman Hanzo, Claptone and Fahlberg. Next up: Café Himmelsschreiber, Hamburg on Fri 14 Aug.
 
@@ -25,4 +25,4 @@ QUIET&LISTEN is an electro and tech house artist based in Germany, tracked on so
 
 Iman Hanzo, Claptone, Fahlberg
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/quietlisten/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/quietlisten/)*

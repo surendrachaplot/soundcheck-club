@@ -1,6 +1,6 @@
 # Tommy (2)
 
-Tommy (2) is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Thu, 30 Jul 2026, next at Forte Antenne, Rome on Fri, 31 Jul 2026.
+Tommy (2) is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Fri, 31 Jul 2026, next at Forte Antenne, Rome on Fri, 31 Jul 2026.
 
 Tommy (2) is a techno and house artist based in Japan, tracked on soundcheck, with 39 sets logged across Berlin, Copenhagen, Dublin and Ibiza and 4 more. Often billed alongside Yonenaga, Satoshi Matsui and Wataru Sakuraba. Next up: Forte Antenne, Rome on Fri 31 Jul.
 
@@ -26,4 +26,4 @@ Tommy (2) is a techno and house artist based in Japan, tracked on soundcheck, wi
 
 Yonenaga, Satoshi Matsui, Wataru Sakuraba
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/tommy-2/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/tommy-2/)*

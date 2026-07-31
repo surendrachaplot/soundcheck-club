@@ -1,6 +1,6 @@
 # Franco Dalmati
 
-Franco Dalmati is a Progressive House and Electronica artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at TBA - La Biblioteca, San Telmo, Buenos Aires on Fri, 21 Aug 2026.
+Franco Dalmati is a Progressive House and Electronica artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at TBA - La Biblioteca, San Telmo, Buenos Aires on Fri, 21 Aug 2026.
 
 Franco Dalmati is a progressive house and electronica artist based in Argentina, tracked on soundcheck, with 10 sets logged across Buenosaires and Miami. Often billed alongside Maxi Degrassi, Antrim and CCINNI. Next up: TBA - La Biblioteca, San Telmo, Buenosaires on Fri 21 Aug.
 
@@ -25,4 +25,4 @@ Franco Dalmati is a progressive house and electronica artist based in Argentina,
 
 Maxi Degrassi, Antrim, CCINNI
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/francodalmati/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/francodalmati/)*

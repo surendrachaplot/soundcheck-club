@@ -1,6 +1,6 @@
 # dust (Detroit)
 
-dust (Detroit) is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at Marble Bar, Detroit on Sat, 15 Aug 2026.
+dust (Detroit) is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at Marble Bar, Detroit on Sat, 15 Aug 2026.
 
 dust (Detroit) is a house and techno artist based in United States of America, tracked on soundcheck, with 10 sets logged across Detroit. Often billed alongside Alex Pan (Det), britty. and Loren. Next up: Marble Bar, Detroit on Sat 15 Aug.
 
@@ -25,4 +25,4 @@ dust (Detroit) is a house and techno artist based in United States of America, t
 
 Alex Pan (Det), britty., Loren
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/dustdetroit/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/dustdetroit/)*

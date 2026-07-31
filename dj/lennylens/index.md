@@ -1,6 +1,6 @@
 # Lenny Lens
 
-Lenny Lens is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at Joey Smalls, Melbourne on Fri, 7 Aug 2026.
+Lenny Lens is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at Joey Smalls, Melbourne on Fri, 7 Aug 2026.
 
 Lenny Lens is a techno and house artist based in Australia, tracked on soundcheck, with 25 sets logged across Melbourne. Often billed alongside Caleb Jay, MaK Swell and Alex White. Next up: Joey Smalls, Melbourne on Fri 7 Aug.
 
@@ -25,4 +25,4 @@ Lenny Lens is a techno and house artist based in Australia, tracked on soundchec
 
 Caleb Jay, MaK Swell, Alex White
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/lennylens/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/lennylens/)*

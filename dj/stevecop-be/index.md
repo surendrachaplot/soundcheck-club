@@ -1,6 +1,6 @@
 # Steve Cop
 
-Steve Cop is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at Thuishaven, Amsterdam on Sat, 1 Aug 2026.
+Steve Cop is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at Thuishaven, Amsterdam on Sat, 1 Aug 2026.
 
 Steve Cop is a house and techno artist tracked on soundcheck, with 15 sets logged across Amsterdam, Antwerp and Ghent. Often billed alongside Alexander Koning, DJ Prinz and Erick E. Next up: Thuishaven, Amsterdam on Sat 1 Aug.
 
@@ -25,4 +25,4 @@ Steve Cop is a house and techno artist tracked on soundcheck, with 15 sets logge
 
 Alexander Koning, DJ Prinz, Erick E
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/stevecop-be/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/stevecop-be/)*

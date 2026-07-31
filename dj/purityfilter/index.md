@@ -1,6 +1,6 @@
 # Purity Filter
 
-Purity Filter is a Trance and Hardcore artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at Decades, Washington DC on Fri, 31 Jul 2026.
+Purity Filter is a Trance and Hardcore artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at Decades, Washington DC on Fri, 31 Jul 2026.
 
 Purity Filter is a trance and hardcore artist based in United States of America, tracked on soundcheck, with 19 sets logged across Brighton, Chicago, Denver and London and 7 more. Often billed alongside LUNAx3, VAPERROR and Eden Alison. Next up: Decades, Washingtondc on Fri 31 Jul.
 
@@ -25,4 +25,4 @@ Purity Filter is a trance and hardcore artist based in United States of America,
 
 LUNAx3, VAPERROR, Eden Alison
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/purityfilter/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/purityfilter/)*

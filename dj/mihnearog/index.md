@@ -1,6 +1,6 @@
 # Mihnea Rog
 
-Mihnea Rog is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Thu, 30 Jul 2026, next at Platforma Wolff, Bucharest on Sat, 1 Aug 2026.
+Mihnea Rog is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Fri, 31 Jul 2026, next at Platforma Wolff, Bucharest on Sat, 1 Aug 2026.
 
 Mihnea Rog is a techno and house artist based in Romania, tracked on soundcheck, with 17 sets logged across Bucharest and London. Often billed alongside Cap, DumitrEscu and BILA. Next up: Platforma Wolff, Bucharest on Sat 1 Aug.
 
@@ -26,4 +26,4 @@ Mihnea Rog is a techno and house artist based in Romania, tracked on soundcheck,
 
 Cap, DumitrEscu, BILA
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/mihnearog/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/mihnearog/)*

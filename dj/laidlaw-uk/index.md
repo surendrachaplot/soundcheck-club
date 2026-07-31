@@ -1,6 +1,6 @@
 # Laidlaw
 
-Laidlaw is a House and Tech House artist with 19 upcoming club dates listed on soundcheck as of Thu, 30 Jul 2026, next at Jolene Downtown Miami, Miami on Fri, 7 Aug 2026.
+Laidlaw is a House and Tech House artist with 19 upcoming club dates listed on soundcheck as of Fri, 31 Jul 2026, next at Jolene Downtown Miami, Miami on Fri, 7 Aug 2026.
 
 Laidlaw is a house and tech house artist tracked on soundcheck, with 191 sets logged across Aberdeen, Amsterdam, Bali and Barcelona and 33 more. Often billed alongside Enzo Siragusa, Dr Banana and Julian Anthony. Next up: Jolene Downtown Miami, Miami on Fri 7 Aug.
 
@@ -36,4 +36,4 @@ Laidlaw is a house and tech house artist tracked on soundcheck, with 191 sets lo
 
 Enzo Siragusa, Dr Banana, Julian Anthony
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/laidlaw-uk/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/laidlaw-uk/)*

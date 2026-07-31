@@ -1,6 +1,6 @@
 # Indigo Eyes
 
-Indigo Eyes is a House artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at Next Door Records Two, London on Fri, 7 Aug 2026.
+Indigo Eyes is a House artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at Next Door Records Two, London on Fri, 7 Aug 2026.
 
 Indigo Eyes is a house artist based in United Kingdom, tracked on soundcheck, with 8 sets logged across London and Manchester. Often billed alongside Drinks On Me, Dylan Pasqua and Baby J (2). Next up: Next Door Records Two, London on Fri 7 Aug.
 
@@ -24,4 +24,4 @@ Indigo Eyes is a house artist based in United Kingdom, tracked on soundcheck, wi
 
 Drinks On Me, Dylan Pasqua, Baby J (2)
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/indigoeyes/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/indigoeyes/)*

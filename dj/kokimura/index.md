@@ -1,6 +1,6 @@
 # Ko Kimura
 
-Ko Kimura is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Thu, 30 Jul 2026, next at Yodo Groove (Yodobashi Ikebukuro), Tokyo on Sun, 9 Aug 2026.
+Ko Kimura is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Fri, 31 Jul 2026, next at Yodo Groove (Yodobashi Ikebukuro), Tokyo on Sun, 9 Aug 2026.
 
 Ko Kimura is a techno and house artist based in Japan, tracked on soundcheck, with 28 sets logged across Osaka and Tokyo. Often billed alongside KIMURA, Sugiurumn and AMG SAIMURA (TECHVANE). Next up: Yodo Groove (Yodobashi Ikebukuro), Tokyo on Sun 9 Aug.
 
@@ -26,4 +26,4 @@ Ko Kimura is a techno and house artist based in Japan, tracked on soundcheck, wi
 
 KIMURA, Sugiurumn, AMG SAIMURA (TECHVANE)
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/kokimura/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/kokimura/)*

@@ -1,14 +1,15 @@
 # Shades
 
-Shades is a Drum & Bass and Tech House artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at Toffler, Rotterdam on Sat, 12 Sept 2026.
+Shades is a Drum & Bass and Tech House artist with 2 upcoming club dates listed on soundcheck as of Fri, 31 Jul 2026, next at Toffler, Rotterdam on Sat, 12 Sept 2026.
 
-Shades is a drum & bass and tech house artist based in Belgium, tracked on soundcheck, with 8 sets logged across Losangeles, Miami, Portland and Rotterdam and 4 more. Often billed alongside Alix Perez, EPROM and ONHELL. Next up: Toffler, Rotterdam on Sat 12 Sept.
+Shades is a drum & bass and tech house artist based in Belgium, tracked on soundcheck, with 9 sets logged across Losangeles, Miami, Newyorkcity and Portland and 5 more. Often billed alongside Alix Perez, EPROM and ONHELL. Next up: Toffler, Rotterdam on Sat 12 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 12 Sept 2026 | Toffler | Rotterdam |
+| Thu, 29 Oct 2026 | SILO | New York City |
 
 ## Recently played
 
@@ -24,4 +25,4 @@ Shades is a drum & bass and tech house artist based in Belgium, tracked on sound
 
 Alix Perez, EPROM, ONHELL
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/shades/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/shades/)*

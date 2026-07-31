@@ -1,6 +1,6 @@
 # Sequent
 
-Sequent is a Drum & Bass and Techno artist with 2 upcoming club dates listed on soundcheck as of Thu, 30 Jul 2026, next at Let it Roll Festival @Lake Most, Prague on Fri, 31 Jul 2026.
+Sequent is a Drum & Bass and Techno artist with 2 upcoming club dates listed on soundcheck as of Fri, 31 Jul 2026, next at Let it Roll Festival @Lake Most, Prague on Fri, 31 Jul 2026.
 
 Sequent is a drum & bass and techno artist based in Austria, tracked on soundcheck, with 20 sets logged across London, Prague and Vienna. Often billed alongside Special Guest (US), VIBECHEN and Aras. Next up: Let it Roll Festival @Lake Most, Prague on Fri 31 Jul.
 
@@ -26,4 +26,4 @@ Sequent is a drum & bass and techno artist based in Austria, tracked on soundche
 
 Special Guest (US), VIBECHEN, Aras
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/sequent/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/sequent/)*

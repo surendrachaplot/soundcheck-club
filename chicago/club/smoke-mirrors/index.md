@@ -1,14 +1,13 @@
 # Smoke & Mirrors
 
-Smoke & Mirrors is a music venue in Chicago with 10 upcoming nights listed on soundcheck as of Thu, 30 Jul 2026; the next is "Official Lollapalooza Aftershow: MPH" on Thu, 30 Jul 2026.
+Smoke & Mirrors is a music venue in Chicago with 9 upcoming nights listed on soundcheck as of Fri, 31 Jul 2026; the next is "Official Lollapalooza Aftershow: MRD" on Fri, 31 Jul 2026.
 
-Smoke & Mirrors is a music venue in Chicago listed on soundcheck. 10 upcoming nights, with line-ups including Ciel, Club Drippy, dirtymoney and DJ Dextro and 2 more. Browse upcoming dates, start times and who's playing. 2045 N Milwaukee Ave, Chicago, IL 60647.
+Smoke & Mirrors is a music venue in Chicago listed on soundcheck. 9 upcoming nights, with line-ups including Ciel, Club Drippy, dirtymoney and DJ Dextro and 2 more. Browse upcoming dates, start times and who's playing. 2045 N Milwaukee Ave, Chicago, IL 60647.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Thu, 30 Jul 2026 | Official Lollapalooza Aftershow: MPH | Kirk (US), MPH (1) |
 | Fri, 31 Jul 2026 | Official Lollapalooza Aftershow: MRD | Eulalia, MRD (NO) |
 | Sat, 1 Aug 2026 | Official Lollapalooza Aftershow: DJ Dextro | DJ Dextro |
 | Sun, 2 Aug 2026 | Official Lollapalooza Afterparty: Dombresky | Dombresky |
@@ -23,4 +22,4 @@ Smoke & Mirrors is a music venue in Chicago listed on soundcheck. 10 upcoming ni
 
 2045 N Milwaukee Ave, Chicago, IL 60647, Chicago
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/chicago/club/smoke-mirrors/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/chicago/club/smoke-mirrors/)*

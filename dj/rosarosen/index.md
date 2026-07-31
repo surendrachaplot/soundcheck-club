@@ -1,6 +1,6 @@
 # Rosa Rosen
 
-Rosa Rosen is a Ghetto Tech and House artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at TBA - Paradies Garten Festival - Schloß Prugg 2, 2460 Gemeinde Bruck an der Leitha, Vienna on Fri, 31 Jul 2026.
+Rosa Rosen is a Ghetto Tech and House artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at TBA - Paradies Garten Festival - Schloß Prugg 2, 2460 Gemeinde Bruck an der Leitha, Vienna on Fri, 31 Jul 2026.
 
 Rosa Rosen is a ghetto tech and house artist based in Austria, tracked on soundcheck, with 16 sets logged across Vienna. Often billed alongside Max Wagner, Anna Ullrich and KRAWALLBARBIE. Next up: TBA - Paradies Garten Festival - Schloß Prugg 2, 2460 Gemeinde Bruck an der Leitha, Vienna on Fri 31 Jul.
 
@@ -25,4 +25,4 @@ Rosa Rosen is a ghetto tech and house artist based in Austria, tracked on soundc
 
 Max Wagner, Anna Ullrich, KRAWALLBARBIE
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/rosarosen/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/rosarosen/)*

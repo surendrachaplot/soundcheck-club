@@ -1,6 +1,6 @@
 # Dirac
 
-Dirac is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at Club der Visionaere, Berlin on Tue, 4 Aug 2026.
+Dirac is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at Club der Visionaere, Berlin on Tue, 4 Aug 2026.
 
 Dirac is a house and tech house artist based in Georgia, tracked on soundcheck, with 50 sets logged across Berlin, Paris, Sanfrancisco and Tbilisi and 1 more. Often billed alongside OLLY (2), Razhden and Routes Not Roots. Next up: Club der Visionaere, Berlin on Tue 4 Aug.
 
@@ -25,4 +25,4 @@ Dirac is a house and tech house artist based in Georgia, tracked on soundcheck, 
 
 OLLY (2), Razhden, Routes Not Roots
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/dirac/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/dirac/)*

@@ -1,6 +1,6 @@
 # Gigi Masin
 
-Gigi Masin is a Ambient and Experimental artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at Neue Nationalgalerie, Berlin on Wed, 12 Aug 2026.
+Gigi Masin is a Ambient and Experimental artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at Neue Nationalgalerie, Berlin on Wed, 12 Aug 2026.
 
 Gigi Masin is an ambient and experimental artist based in Italy, tracked on soundcheck, with 6 sets logged across Berlin, Dublin, Manchester and Milan and 1 more. Often billed alongside Born in 1986, Budino and Lipelis. Next up: Neue Nationalgalerie, Berlin on Wed 12 Aug.
 
@@ -22,4 +22,4 @@ Gigi Masin is an ambient and experimental artist based in Italy, tracked on soun
 
 Born in 1986, Budino, Lipelis
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/gigimasin/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/gigimasin/)*

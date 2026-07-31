@@ -1,6 +1,6 @@
 # 1 AM (1)
 
-1 AM (1) is a Tech House and House artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at Sekta Selekta, Krakow on Sat, 1 Aug 2026.
+1 AM (1) is a Tech House and House artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at Sekta Selekta, Krakow on Sat, 1 Aug 2026.
 
 1 AM (1) is a tech house and house artist tracked on soundcheck, with 40 sets logged across Detroit, Krakow, London and Sydney and 1 more. Often billed alongside Nadezh No, outta_8 and Aetha. Next up: Sekta Selekta, Krakow on Sat 1 Aug.
 
@@ -25,4 +25,4 @@
 
 Nadezh No, outta_8, Aetha
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/1am-1/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/1am-1/)*

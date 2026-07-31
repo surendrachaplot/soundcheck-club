@@ -1,6 +1,6 @@
 # Fovian
 
-Fovian is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at Golden Pudel Club, Hamburg on Sat, 1 Aug 2026.
+Fovian is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at Golden Pudel Club, Hamburg on Sat, 1 Aug 2026.
 
 Fovian is a techno and trance artist tracked on soundcheck, with 31 sets logged across Hamburg. Often billed alongside cmp (1), ONLYLU and Shimmy Robin. Next up: Golden Pudel Club, Hamburg on Sat 1 Aug.
 
@@ -25,4 +25,4 @@ Fovian is a techno and trance artist tracked on soundcheck, with 31 sets logged 
 
 cmp (1), ONLYLU, Shimmy Robin
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/fovian/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/fovian/)*

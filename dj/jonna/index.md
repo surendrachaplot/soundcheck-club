@@ -1,6 +1,6 @@
 # Jonna
 
-Jonna is a Deep House and House artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at Movers, Nottingham on Sun, 30 Aug 2026.
+Jonna is a Deep House and House artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at Movers, Nottingham on Sun, 30 Aug 2026.
 
 Jonna is a deep house and house artist based in United Kingdom, tracked on soundcheck, with 5 sets logged across Amsterdam, Bangkok, Lisbon and Manchester and 1 more. Often billed alongside Shez, Alci and Alex Traska. Next up: Movers, Nottingham on Sun 30 Aug.
 
@@ -21,4 +21,4 @@ Jonna is a deep house and house artist based in United Kingdom, tracked on sound
 
 Shez, Alci, Alex Traska
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/jonna/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/jonna/)*

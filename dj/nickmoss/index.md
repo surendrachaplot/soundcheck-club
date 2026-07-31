@@ -1,6 +1,6 @@
 # Nick Moss
 
-Nick Moss is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at TBA, San Francisco/Oakland on Fri, 18 Sept 2026.
+Nick Moss is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at TBA, San Francisco/Oakland on Fri, 18 Sept 2026.
 
 Nick Moss is a house and techno artist based in United States of America, tracked on soundcheck, with 23 sets logged across Glasgow, Newyorkcity, Sanfrancisco and Toronto. Often billed alongside Deezy (US), Matthew Paul and Carlos Souffront. Next up: TBA, Sanfrancisco on Fri 18 Sept.
 
@@ -25,4 +25,4 @@ Nick Moss is a house and techno artist based in United States of America, tracke
 
 Deezy (US), Matthew Paul, Carlos Souffront
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/nickmoss/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/nickmoss/)*

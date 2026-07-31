@@ -1,6 +1,6 @@
 # fAt-lÏP
 
-fAt-lÏP is a Electronica and Bass artist with 3 upcoming club dates listed on soundcheck as of Thu, 30 Jul 2026, next at The Social, London on Thu, 6 Aug 2026.
+fAt-lÏP is a Electronica and Bass artist with 3 upcoming club dates listed on soundcheck as of Fri, 31 Jul 2026, next at The Social, London on Thu, 6 Aug 2026.
 
 fAt-lÏP is an electronica and bass artist based in United Kingdom, tracked on soundcheck, with 26 sets logged across London. Often billed alongside DIGITALSAINT, GUREY and MA.MOYO. Next up: The Social, London on Thu 6 Aug.
 
@@ -27,4 +27,4 @@ fAt-lÏP is an electronica and bass artist based in United Kingdom, tracked on s
 
 DIGITALSAINT, GUREY, MA.MOYO
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/fat-lip/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/fat-lip/)*

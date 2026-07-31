@@ -1,6 +1,6 @@
 # fumi (DE)
 
-fumi (DE) is a Techno and Trance artist with 7 upcoming club dates listed on soundcheck as of Thu, 30 Jul 2026, next at Gianpula Village, Malta on Wed, 12 Aug 2026.
+fumi (DE) is a Techno and Trance artist with 7 upcoming club dates listed on soundcheck as of Fri, 31 Jul 2026, next at Gianpula Village, Malta on Wed, 12 Aug 2026.
 
 fumi (DE) is a techno and trance artist tracked on soundcheck, with 132 sets logged across Amsterdam, Antwerp, Barcelona and Berlin and 37 more. Often billed alongside Serafina, Adrian Mills and Cloudy. Next up: Gianpula Village, Malta on Wed 12 Aug.
 
@@ -31,4 +31,4 @@ fumi (DE) is a techno and trance artist tracked on soundcheck, with 132 sets log
 
 Serafina, Adrian Mills, Cloudy
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/fumi-de/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/fumi-de/)*

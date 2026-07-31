@@ -1,6 +1,6 @@
 # ALIVE999
 
-ALIVE999 is a Techno and Electro artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at Shelter, Seoul on Fri, 31 Jul 2026.
+ALIVE999 is a Techno and Electro artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at Shelter, Seoul on Fri, 31 Jul 2026.
 
 ALIVE999 is a techno and electro artist based in South Korea, tracked on soundcheck, with 34 sets logged across Seoul. Often billed alongside Honn, AVALON and MOVIN.KR. Next up: Shelter, Seoul on Fri 31 Jul.
 
@@ -25,4 +25,4 @@ ALIVE999 is a techno and electro artist based in South Korea, tracked on soundch
 
 Honn, AVALON, MOVIN.KR
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/alive999-kr/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/alive999-kr/)*

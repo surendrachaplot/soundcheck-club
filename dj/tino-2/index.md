@@ -1,6 +1,6 @@
 # TINO (2)
 
-TINO (2) is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Thu, 30 Jul 2026, next at XOYO, London on Thu, 13 Aug 2026.
+TINO (2) is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Fri, 31 Jul 2026, next at XOYO, London on Thu, 13 Aug 2026.
 
 TINO (2) is a techno and house artist based in United Kingdom, tracked on soundcheck, with 38 sets logged across Edinburgh, Glasgow and London. Often billed alongside Frankie Elyse, C Frame and DJelley. Next up: XOYO, London on Thu 13 Aug.
 
@@ -26,4 +26,4 @@ TINO (2) is a techno and house artist based in United Kingdom, tracked on soundc
 
 Frankie Elyse, C Frame, DJelley
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/tino-2/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/tino-2/)*

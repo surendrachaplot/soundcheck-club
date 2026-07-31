@@ -1,6 +1,6 @@
 # Dj badtrip
 
-Dj badtrip is a Techno and Tech House artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at Eden, Ibiza on Tue, 25 Aug 2026.
+Dj badtrip is a Techno and Tech House artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at Eden, Ibiza on Tue, 25 Aug 2026.
 
 Dj badtrip is a techno and tech house artist tracked on soundcheck, with 53 sets logged across Berlin, Ibiza, Madrid and Paris and 1 more. Often billed alongside Lucía Gea, Finalversion3 and Ariezzz. Next up: Eden, Ibiza on Tue 25 Aug.
 
@@ -25,4 +25,4 @@ Dj badtrip is a techno and tech house artist tracked on soundcheck, with 53 sets
 
 Lucía Gea, Finalversion3, Ariezzz
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/djbadtrip/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/djbadtrip/)*

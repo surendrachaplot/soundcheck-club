@@ -1,6 +1,6 @@
 # THALEIA
 
-THALEIA is a Club and Electro artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at Plex, Athens on Sat, 1 Aug 2026.
+THALEIA is a Club and Electro artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at Plex, Athens on Sat, 1 Aug 2026.
 
 THALEIA is a club and electro artist based in Greece, tracked on soundcheck, with 4 sets logged across Athens and Vienna. Often billed alongside Porschelane, BABYNYMPH777 and TERPSICHORREE. Next up: Plex, Athens on Sat 1 Aug.
 
@@ -20,4 +20,4 @@ THALEIA is a club and electro artist based in Greece, tracked on soundcheck, wit
 
 Porschelane, BABYNYMPH777, TERPSICHORREE
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/thaleia/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/thaleia/)*

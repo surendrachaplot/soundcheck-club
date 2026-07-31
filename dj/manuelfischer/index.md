@@ -1,6 +1,6 @@
 # Manuel Fischer
 
-Manuel Fischer is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at RSO.BERLIN, Berlin on Sat, 12 Sept 2026.
+Manuel Fischer is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at RSO.BERLIN, Berlin on Sat, 12 Sept 2026.
 
 Manuel Fischer is a house and techno artist tracked on soundcheck, with 41 sets logged across Bali, Bangkok, Berlin and Hongkong and 4 more. Often billed alongside Alex Dallas, Prioleau and Abdel Hady. Next up: RSO.BERLIN, Berlin on Sat 12 Sept.
 
@@ -25,4 +25,4 @@ Manuel Fischer is a house and techno artist tracked on soundcheck, with 41 sets 
 
 Alex Dallas, Prioleau, Abdel Hady
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/manuelfischer/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/manuelfischer/)*

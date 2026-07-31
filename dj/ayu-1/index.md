@@ -1,6 +1,6 @@
 # Ayū (1)
 
-Ayū (1) is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at Ankali & Planeta Za, Prague on Fri, 31 Jul 2026.
+Ayū (1) is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at Ankali & Planeta Za, Prague on Fri, 31 Jul 2026.
 
 Ayū (1) is a techno and house artist based in Germany, tracked on soundcheck, with 10 sets logged across Berlin, Hobart, Melbourne and Prague. Often billed alongside Alfred Czital, Georgia Bird and Mabel. Next up: Ankali & Planeta Za, Prague on Fri 31 Jul.
 
@@ -25,4 +25,4 @@ Ayū (1) is a techno and house artist based in Germany, tracked on soundcheck, w
 
 Alfred Czital, Georgia Bird, Mabel
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/ayu-1/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/ayu-1/)*

@@ -1,6 +1,6 @@
 # Lydiote
 
-Lydiote is a Techno and Dub Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at TBA, Montreal on Fri, 31 Jul 2026.
+Lydiote is a Techno and Dub Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at TBA, Montreal on Fri, 31 Jul 2026.
 
 Lydiote is a techno and dub techno artist based in Canada, tracked on soundcheck, with 7 sets logged across Montreal. Often billed alongside SHAME, Babaganouschka and Damacadam. Next up: TBA, Montreal on Fri 31 Jul.
 
@@ -23,4 +23,4 @@ Lydiote is a techno and dub techno artist based in Canada, tracked on soundcheck
 
 SHAME, Babaganouschka, Damacadam
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/lydiote/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/lydiote/)*

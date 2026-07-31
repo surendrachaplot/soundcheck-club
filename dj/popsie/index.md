@@ -1,6 +1,6 @@
 # Popsie
 
-Popsie is a Jungle and Drum & Bass artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at Kraftwerket, Copenhagen on Fri, 21 Aug 2026.
+Popsie is a Jungle and Drum & Bass artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at Kraftwerket, Copenhagen on Fri, 21 Aug 2026.
 
 Popsie is a jungle and drum & bass artist based in Denmark, tracked on soundcheck, with 6 sets logged across Berlin, Copenhagen and Sydney. Often billed alongside Dwonji, Arsom and Ave Maria. Next up: Kraftwerket, Copenhagen on Fri 21 Aug.
 
@@ -22,4 +22,4 @@ Popsie is a jungle and drum & bass artist based in Denmark, tracked on soundchec
 
 Dwonji, Arsom, Ave Maria
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/popsie/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/popsie/)*

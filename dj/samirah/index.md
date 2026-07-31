@@ -1,6 +1,6 @@
 # Samirah
 
-Samirah is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at The Purple Owl, London on Sun, 2 Aug 2026.
+Samirah is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at The Purple Owl, London on Sun, 2 Aug 2026.
 
 Samirah is a techno and house artist tracked on soundcheck, with 7 sets logged across London. Often billed alongside ElectroPleasure, Brian Andrade and COCOXØ. Next up: The Purple Owl, London on Sun 2 Aug.
 
@@ -23,4 +23,4 @@ Samirah is a techno and house artist tracked on soundcheck, with 7 sets logged a
 
 ElectroPleasure, Brian Andrade, COCOXØ
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/samirah/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/samirah/)*

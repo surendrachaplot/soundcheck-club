@@ -1,6 +1,6 @@
 # Mista Glitch
 
-Mista Glitch is a Afro Tech and Afro House artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at Groovetank Live, London on Fri, 21 Aug 2026.
+Mista Glitch is a Afro Tech and Afro House artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at Groovetank Live, London on Fri, 21 Aug 2026.
 
 Mista Glitch is an afro tech and afro house artist based in United Kingdom, tracked on soundcheck, with 5 sets logged across London. Often billed alongside Lady Roc, Kirk Paten and Nettle Dj. Next up: Groovetank Live, London on Fri 21 Aug.
 
@@ -21,4 +21,4 @@ Mista Glitch is an afro tech and afro house artist based in United Kingdom, trac
 
 Lady Roc, Kirk Paten, Nettle Dj
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/mistaglitch/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/mistaglitch/)*

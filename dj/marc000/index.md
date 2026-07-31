@@ -1,6 +1,6 @@
 # Marc000
 
-Marc000 is a Techno and Tech House artist with 2 upcoming club dates listed on soundcheck as of Thu, 30 Jul 2026, next at Altenburg 1964, Prague on Thu, 6 Aug 2026.
+Marc000 is a Techno and Tech House artist with 2 upcoming club dates listed on soundcheck as of Fri, 31 Jul 2026, next at Altenburg 1964, Prague on Thu, 6 Aug 2026.
 
 Marc000 is a techno and tech house artist based in Czech Republic, tracked on soundcheck, with 11 sets logged across Prague. Often billed alongside VNNUK, Atlaskin and DDK (1). Next up: Altenburg 1964, Prague on Thu 6 Aug.
 
@@ -26,4 +26,4 @@ Marc000 is a techno and tech house artist based in Czech Republic, tracked on so
 
 VNNUK, Atlaskin, DDK (1)
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/marc000/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/marc000/)*

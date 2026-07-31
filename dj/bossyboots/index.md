@@ -1,14 +1,15 @@
 # bossy boots
 
-bossy boots is a Techno and Club artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at Honey's, New York City on Wed, 5 Aug 2026.
+bossy boots is a Club and Techno artist with 2 upcoming club dates listed on soundcheck as of Fri, 31 Jul 2026, next at Honey's, New York City on Wed, 5 Aug 2026.
 
-bossy boots is a techno and club artist based in United States of America, tracked on soundcheck, with 79 sets logged across Losangeles and Newyorkcity. Often billed alongside Third Self, BASSBEAR!! and KOOXLA. Next up: Honey's, Newyorkcity on Wed 5 Aug.
+bossy boots is a club and techno artist based in United States of America, tracked on soundcheck, with 80 sets logged across Losangeles and Newyorkcity. Often billed alongside Third Self, BASSBEAR!! and KOOXLA. Next up: Honey's, Newyorkcity on Wed 5 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Wed, 5 Aug 2026 | Honey's | New York City |
+| Sat, 22 Aug 2026 | The Onyx Room at House of Yes | New York City |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ bossy boots is a techno and club artist based in United States of America, track
 
 Third Self, BASSBEAR!!, KOOXLA
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/bossyboots/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/bossyboots/)*

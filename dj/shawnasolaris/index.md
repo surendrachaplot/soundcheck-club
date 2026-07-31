@@ -1,14 +1,15 @@
 # Shawna Solaris
 
-Shawna Solaris is a House and Amapiano artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at Elsewhere, New York City on Sun, 9 Aug 2026.
+Shawna Solaris is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Fri, 31 Jul 2026, next at Elsewhere, New York City on Sun, 9 Aug 2026.
 
-Shawna Solaris is a house and amapiano artist based in United States of America, tracked on soundcheck, with 7 sets logged across Newyorkcity. Often billed alongside Ah Dek, DJ Sauci Soni and Jay Vic. Next up: Elsewhere, Newyorkcity on Sun 9 Aug.
+Shawna Solaris is a house and techno artist based in United States of America, tracked on soundcheck, with 8 sets logged across Newyorkcity. Often billed alongside shirlz, Ah Dek and DJ Sauci Soni. Next up: Elsewhere, Newyorkcity on Sun 9 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sun, 9 Aug 2026 | Elsewhere | New York City |
+| Sat, 15 Aug 2026 | Bossa Nova Civic Club | New York City |
 
 ## Recently played
 
@@ -21,6 +22,6 @@ Shawna Solaris is a house and amapiano artist based in United States of America,
 
 ## Shares bills with
 
-Ah Dek, DJ Sauci Soni, Jay Vic
+shirlz, Ah Dek, DJ Sauci Soni
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/shawnasolaris/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/shawnasolaris/)*

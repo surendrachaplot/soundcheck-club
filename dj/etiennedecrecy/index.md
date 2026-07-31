@@ -1,6 +1,6 @@
 # Etienne De Crecy
 
-Etienne De Crecy is a House and Electro artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at DRUMSHEDS, London on Sat, 10 Oct 2026.
+Etienne De Crecy is a House and Electro artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at DRUMSHEDS, London on Sat, 10 Oct 2026.
 
 Etienne De Crecy is a house and electro artist based in France, tracked on soundcheck, with 65 sets logged across Barcelona, Berlin, Birmingham and Brussels and 19 more. Often billed alongside Alan Braxe, Cassius and Emma B. Next up: DRUMSHEDS, London on Sat 10 Oct.
 
@@ -25,4 +25,4 @@ Etienne De Crecy is a house and electro artist based in France, tracked on sound
 
 Alan Braxe, Cassius, Emma B
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/etiennedecrecy/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/etiennedecrecy/)*

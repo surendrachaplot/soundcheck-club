@@ -1,8 +1,8 @@
 # Wax Material
 
-Wax Material is a House and Tech House artist with 3 upcoming club dates listed on soundcheck as of Thu, 30 Jul 2026, next at fabric, London on Sun, 16 Aug 2026.
+Wax Material is a House and Tech House artist with 4 upcoming club dates listed on soundcheck as of Fri, 31 Jul 2026, next at fabric, London on Sun, 16 Aug 2026.
 
-Wax Material is a house and tech house artist tracked on soundcheck, with 37 sets logged across Amsterdam, Berlin, Birmingham and Bristol and 5 more. Often billed alongside Jordan Masters, Just Jam and Laidlaw. Next up: fabric, London on Sun 16 Aug.
+Wax Material is a house and tech house artist tracked on soundcheck, with 38 sets logged across Amsterdam, Berlin, Birmingham and Bristol and 5 more. Often billed alongside Just Jam, Laidlaw and Jordan Masters. Next up: fabric, London on Sun 16 Aug.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Wax Material is a house and tech house artist tracked on soundcheck, with 37 set
 | --- | --- | --- |
 | Sun, 16 Aug 2026 | fabric | London |
 | Sun, 16 Aug 2026 | Crate Brewery | London |
+| Sat, 29 Aug 2026 | Kelvedon Hall | London |
 | Sun, 30 Aug 2026 | fabric | London |
 
 ## Recently played
@@ -25,6 +26,6 @@ Wax Material is a house and tech house artist tracked on soundcheck, with 37 set
 
 ## Shares bills with
 
-Jordan Masters, Just Jam, Laidlaw
+Just Jam, Laidlaw, Jordan Masters
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/waxmaterial/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/waxmaterial/)*

@@ -1,8 +1,8 @@
 # Paralich
 
-Paralich is a Techno and Trance artist with 5 upcoming club dates listed on soundcheck as of Thu, 30 Jul 2026, next at Budapest Park, Budapest on Fri, 31 Jul 2026.
+Paralich is a Techno and Trance artist with 6 upcoming club dates listed on soundcheck as of Fri, 31 Jul 2026, next at Budapest Park, Budapest on Fri, 31 Jul 2026.
 
-Paralich is a techno and trance artist tracked on soundcheck, with 153 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 25 more. Often billed alongside THIRD 2HIFT, Valenthin and RaverPik. Next up: Budapest Park, Budapest on Fri 31 Jul.
+Paralich is a techno and trance artist tracked on soundcheck, with 154 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 26 more. Often billed alongside THIRD 2HIFT, Valenthin and RaverPik. Next up: Budapest Park, Budapest on Fri 31 Jul.
 
 ## Upcoming shows
 
@@ -11,6 +11,7 @@ Paralich is a techno and trance artist tracked on soundcheck, with 153 sets logg
 | Fri, 31 Jul 2026 | Budapest Park | Budapest |
 | Sat, 8 Aug 2026 | Roel Langerakpark | Rotterdam |
 | Sat, 29 Aug 2026 | BASIS | Utrecht |
+| Sat, 5 Sept 2026 | Eventhuset | Stockholm |
 | Fri, 25 Sept 2026 | Friche Belle de Mai | Marseille |
 | Sat, 24 Oct 2026 | Universe Athens | Athens |
 
@@ -29,4 +30,4 @@ Paralich is a techno and trance artist tracked on soundcheck, with 153 sets logg
 
 THIRD 2HIFT, Valenthin, RaverPik
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/paralich/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/paralich/)*

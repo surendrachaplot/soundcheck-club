@@ -1,6 +1,6 @@
 # Bianca
 
-Bianca is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at McCarren Park, New York City on Sat, 1 Aug 2026.
+Bianca is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at McCarren Park, New York City on Sat, 1 Aug 2026.
 
 Bianca is a house and tech house artist based in Spain, tracked on soundcheck, with 9 sets logged across Ghent, Madrid, Newyorkcity and Sanfrancisco and 1 more. Often billed alongside David Carro, Súper Pä and Alejandro Fernandez. Next up: McCarren Park, Newyorkcity on Sat 1 Aug.
 
@@ -25,4 +25,4 @@ Bianca is a house and tech house artist based in Spain, tracked on soundcheck, w
 
 David Carro, Súper Pä, Alejandro Fernandez
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/bianca/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/bianca/)*

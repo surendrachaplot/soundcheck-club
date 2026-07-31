@@ -1,6 +1,6 @@
 # Loscil
 
-Loscil is a Ambient and Drone artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at Kaserne Basel, Basel on Thu, 17 Sept 2026.
+Loscil is a Ambient and Drone artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at Kaserne Basel, Basel on Thu, 17 Sept 2026.
 
 Loscil is an ambient and drone artist based in Canada, tracked on soundcheck, with 11 sets logged across Athens, Basel, Berlin and Brisbane and 5 more. Often billed alongside Lawrence English, Patricia Wolf and BLUME. Next up: Kaserne Basel, Basel on Thu 17 Sept.
 
@@ -25,4 +25,4 @@ Loscil is an ambient and drone artist based in Canada, tracked on soundcheck, wi
 
 Lawrence English, Patricia Wolf, BLUME
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/loscil/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/loscil/)*

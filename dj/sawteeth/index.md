@@ -1,6 +1,6 @@
 # Sawteeth
 
-Sawteeth is a Jungle and Garage artist with 2 upcoming club dates listed on soundcheck as of Thu, 30 Jul 2026, next at Paper, Seoul on Fri, 31 Jul 2026.
+Sawteeth is a Jungle and Garage artist with 2 upcoming club dates listed on soundcheck as of Fri, 31 Jul 2026, next at Paper, Seoul on Fri, 31 Jul 2026.
 
 Sawteeth is a jungle and garage artist based in South Korea, tracked on soundcheck, with 21 sets logged across Seoul. Often billed alongside Shins, DJ Funny and Pjeon. Next up: Paper, Seoul on Fri 31 Jul.
 
@@ -26,4 +26,4 @@ Sawteeth is a jungle and garage artist based in South Korea, tracked on soundche
 
 Shins, DJ Funny, Pjeon
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/sawteeth/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/sawteeth/)*

@@ -1,6 +1,6 @@
 # LJO HA
 
-LJO HA is a Electronica and Experimental artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at Teritorija, Riga on Fri, 14 Aug 2026.
+LJO HA is a Electronica and Experimental artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at Teritorija, Riga on Fri, 14 Aug 2026.
 
 LJO HA is an electronica and experimental artist based in Latvia, tracked on soundcheck, with 5 sets logged across Riga. Often billed alongside A$PHYXXXÏA, BOZE and Dafelz. Next up: Teritorija, Riga on Fri 14 Aug.
 
@@ -21,4 +21,4 @@ LJO HA is an electronica and experimental artist based in Latvia, tracked on sou
 
 A$PHYXXXÏA, BOZE, Dafelz
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/ljoha/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/ljoha/)*

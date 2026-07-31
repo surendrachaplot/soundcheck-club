@@ -1,6 +1,6 @@
 # Sasha Ko
 
-Sasha Ko is a electronic artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at 5A, Lisbon on Fri, 31 Jul 2026.
+Sasha Ko is a electronic artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at 5A, Lisbon on Fri, 31 Jul 2026.
 
 Sasha Ko is an electronic artist based in France, tracked on soundcheck, with 7 sets logged across Lisbon and Porto. Often billed alongside Amulador, Benoît and DJ Yok. Next up: 5A, Lisbon on Fri 31 Jul.
 
@@ -23,4 +23,4 @@ Sasha Ko is an electronic artist based in France, tracked on soundcheck, with 7 
 
 Amulador, Benoît, DJ Yok
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/sashako/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/sashako/)*

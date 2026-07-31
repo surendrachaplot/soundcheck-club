@@ -1,6 +1,6 @@
 # batgirl
 
-batgirl is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at Burgess Park, London on Fri, 31 Jul 2026.
+batgirl is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at Burgess Park, London on Fri, 31 Jul 2026.
 
 batgirl is a techno and house artist tracked on soundcheck, with 16 sets logged across Brighton and London. Often billed alongside Jacob Trip, Jiminy Watts and Ruby SD. Next up: Burgess Park, London on Fri 31 Jul.
 
@@ -25,4 +25,4 @@ batgirl is a techno and house artist tracked on soundcheck, with 16 sets logged 
 
 Jacob Trip, Jiminy Watts, Ruby SD
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/batgirl/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/batgirl/)*

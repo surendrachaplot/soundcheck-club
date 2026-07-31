@@ -1,6 +1,6 @@
 # grep
 
-grep is a Acid and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at F8 1192 Folsom, San Francisco/Oakland on Thu, 6 Aug 2026.
+grep is a Acid and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at F8 1192 Folsom, San Francisco/Oakland on Thu, 6 Aug 2026.
 
 grep is an acid and techno artist based in United States of America, tracked on soundcheck, with 7 sets logged across Sanfrancisco. Often billed alongside Nexus-6, Visible Spectrum and Airali. Next up: F8 1192 Folsom, Sanfrancisco on Thu 6 Aug.
 
@@ -23,4 +23,4 @@ grep is an acid and techno artist based in United States of America, tracked on 
 
 Nexus-6, Visible Spectrum, Airali
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/grep/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/grep/)*

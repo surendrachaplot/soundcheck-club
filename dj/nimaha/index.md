@@ -1,6 +1,6 @@
 # NIMAHA
 
-NIMAHA is a Techno and Hardcore artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at Harbour Event Centre, Vancouver on Sat, 8 Aug 2026.
+NIMAHA is a Techno and Hardcore artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at Harbour Event Centre, Vancouver on Sat, 8 Aug 2026.
 
 NIMAHA is a techno and hardcore artist tracked on soundcheck, with 24 sets logged across Vancouver. Often billed alongside The Nu Po, Behrad Tehrani and Marist. Next up: Harbour Event Centre, Vancouver on Sat 8 Aug.
 
@@ -25,4 +25,4 @@ NIMAHA is a techno and hardcore artist tracked on soundcheck, with 24 sets logge
 
 The Nu Po, Behrad Tehrani, Marist
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/nimaha/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/nimaha/)*

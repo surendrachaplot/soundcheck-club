@@ -1,6 +1,6 @@
 # Aki Dolanikov
 
-Aki Dolanikov is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at VENT, Tokyo on Sat, 1 Aug 2026.
+Aki Dolanikov is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at VENT, Tokyo on Sat, 1 Aug 2026.
 
 Aki Dolanikov is a house and techno artist tracked on soundcheck, with 68 sets logged across Tokyo. Often billed alongside arow, okadada and K8 (TYO GQOM). Next up: VENT, Tokyo on Sat 1 Aug.
 
@@ -25,4 +25,4 @@ Aki Dolanikov is a house and techno artist tracked on soundcheck, with 68 sets l
 
 arow, okadada, K8 (TYO GQOM)
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/akidolanikov/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/akidolanikov/)*

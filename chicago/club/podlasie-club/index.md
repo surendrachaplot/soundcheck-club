@@ -1,14 +1,13 @@
 # Podlasie Club
 
-Podlasie Club is a music venue in Chicago with 12 upcoming nights listed on soundcheck as of Thu, 30 Jul 2026; the next is "33 GIRI" on Thu, 30 Jul 2026.
+Podlasie Club is a music venue in Chicago with 11 upcoming nights listed on soundcheck as of Fri, 31 Jul 2026; the next is "Madam X, Merrick Brown, KEEFE" on Fri, 31 Jul 2026.
 
-Podlasie Club is a music venue in Chicago listed on soundcheck. 12 upcoming nights, with line-ups including Beau Wanzer, Conjunto Primitivo, DJ Aguara'i and dj flood and 2 more. Browse upcoming dates, start times and who's playing. 2918 N Central Park Ave, Avondale, Chicago, IL, 60618.
+Podlasie Club is a music venue in Chicago listed on soundcheck. 11 upcoming nights, with line-ups including Beau Wanzer, Conjunto Primitivo, DJ Aguara'i and dj flood and 2 more. Browse upcoming dates, start times and who's playing. 2918 N Central Park Ave, Avondale, Chicago, IL, 60618.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Thu, 30 Jul 2026 | 33 GIRI | Magnolia, Nolia, Pen Pals |
 | Fri, 31 Jul 2026 | Madam X, Merrick Brown, KEEFE | KEEFE, Madam X, Merrick Brown |
 | Sat, 1 Aug 2026 | JKriv, Inés, Yanna Lynette | Inés (US), JKriv |
 | Thu, 6 Aug 2026 | STRAPPED presents BUTCH BOX |  |
@@ -18,9 +17,10 @@ Podlasie Club is a music venue in Chicago listed on soundcheck. 12 upcoming nigh
 | Fri, 14 Aug 2026 | Agua de Rosas feat. Lechuga Zafiro - J. Córdova - Toyacoyah - DJ Aguara'i | DJ Aguara'i, J. Córdova, Lechuga Zafiro, Toyacoyah |
 | Sat, 15 Aug 2026 | Glenn Underground, Evan G, Avon | Glenn Underground |
 | Wed, 19 Aug 2026 | VARIOUS DISTRACTIONS | Beau Wanzer, Conjunto Primitivo |
+| Thu, 20 Aug 2026 | LAB | Mina Mills, R°sha, easygoingtech |
 
 ## Address
 
 2918 N Central Park Ave, Avondale, Chicago, IL, 60618, Chicago
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/chicago/club/podlasie-club/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/chicago/club/podlasie-club/)*

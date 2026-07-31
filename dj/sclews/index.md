@@ -1,6 +1,6 @@
 # sclews
 
-sclews is a Experimental and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at The DBA, Manchester on Thu, 20 Aug 2026.
+sclews is a Experimental and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at The DBA, Manchester on Thu, 20 Aug 2026.
 
 sclews is an experimental and techno artist based in United Kingdom, tracked on soundcheck, with 7 sets logged across Manchester and Sheffield. Often billed alongside Flames Disperse, Kop-Z and Lapalace. Next up: The DBA, Manchester on Thu 20 Aug.
 
@@ -23,4 +23,4 @@ sclews is an experimental and techno artist based in United Kingdom, tracked on 
 
 Flames Disperse, Kop-Z, Lapalace
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/sclews/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/sclews/)*

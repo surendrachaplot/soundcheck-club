@@ -1,6 +1,6 @@
 # ASIN
 
-ASIN is a Techno and Industrial artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at ZEROTOKYO, Tokyo on Fri, 31 Jul 2026.
+ASIN is a Techno and Industrial artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at ZEROTOKYO, Tokyo on Fri, 31 Jul 2026.
 
 ASIN is a techno and industrial artist based in Japan, tracked on soundcheck, with 7 sets logged across Tokyo. Often billed alongside YOXIKI, CHIKA and YURI VALEN. Next up: ZEROTOKYO, Tokyo on Fri 31 Jul.
 
@@ -23,4 +23,4 @@ ASIN is a techno and industrial artist based in Japan, tracked on soundcheck, wi
 
 YOXIKI, CHIKA, YURI VALEN
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/asin/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/asin/)*

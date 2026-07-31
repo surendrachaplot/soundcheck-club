@@ -1,6 +1,6 @@
 # aNNA (UK)
 
-aNNA (UK) is a Downtempo and Ambient artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at Impiety Hour, Manchester on Fri, 31 Jul 2026.
+aNNA (UK) is a Downtempo and Ambient artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at Impiety Hour, Manchester on Fri, 31 Jul 2026.
 
 aNNA (UK) is a downtempo and ambient artist based in United Kingdom, tracked on soundcheck, with 16 sets logged across Leeds, London and Manchester. Often billed alongside Nick Kagame, Simon Scott and Zuri. Next up: Impiety Hour, Manchester on Fri 31 Jul.
 
@@ -25,4 +25,4 @@ aNNA (UK) is a downtempo and ambient artist based in United Kingdom, tracked on 
 
 Nick Kagame, Simon Scott, Zuri
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/annauk/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/annauk/)*

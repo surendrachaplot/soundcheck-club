@@ -1,6 +1,6 @@
 # Summer Ghemati
 
-Summer Ghemati is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at Quarters, Brighton on Sat, 1 Aug 2026.
+Summer Ghemati is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at Quarters, Brighton on Sat, 1 Aug 2026.
 
 Summer Ghemati is a house and tech house artist based in United Kingdom, tracked on soundcheck, with 31 sets logged across Barcelona, Brighton, Ibiza and London and 2 more. Often billed alongside Max Dean, Archie Hamilton and Joss Dean. Next up: Quarters, Brighton on Sat 1 Aug.
 
@@ -25,4 +25,4 @@ Summer Ghemati is a house and tech house artist based in United Kingdom, tracked
 
 Max Dean, Archie Hamilton, Joss Dean
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/summerghemati/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/summerghemati/)*

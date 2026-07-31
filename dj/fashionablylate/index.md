@@ -1,6 +1,6 @@
 # Fashionably Late
 
-Fashionably Late is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at The Lord Gladstone, Sydney on Sat, 1 Aug 2026.
+Fashionably Late is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at The Lord Gladstone, Sydney on Sat, 1 Aug 2026.
 
 Fashionably Late is a house and techno artist based in Australia, tracked on soundcheck, with 27 sets logged across Sydney. Often billed alongside Deverence, Hotel 84 and PIX. Next up: The Lord Gladstone, Sydney on Sat 1 Aug.
 
@@ -25,4 +25,4 @@ Fashionably Late is a house and techno artist based in Australia, tracked on sou
 
 Deverence, Hotel 84, PIX
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/fashionablylate/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/fashionablylate/)*

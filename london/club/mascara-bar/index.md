@@ -1,6 +1,6 @@
 # Mascara Bar
 
-Mascara Bar is a music venue in London with 1 upcoming night listed on soundcheck as of Thu, 30 Jul 2026; the next is "DRIFT. album release party with Siren + DJ Sensitive" on Fri, 18 Sept 2026.
+Mascara Bar is a music venue in London with 1 upcoming night listed on soundcheck as of Fri, 31 Jul 2026; the next is "DRIFT. album release party with Siren + DJ Sensitive" on Fri, 18 Sept 2026.
 
 Mascara Bar is a music venue in London listed on soundcheck. 1 upcoming night. Browse upcoming dates, start times and who's playing. 72 Stamford Hill; Stoke Newington; London N16 6XS.
 
@@ -14,4 +14,4 @@ Mascara Bar is a music venue in London listed on soundcheck. 1 upcoming night. B
 
 72 Stamford Hill; Stoke Newington; London N16 6XS, London
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/london/club/mascara-bar/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/london/club/mascara-bar/)*

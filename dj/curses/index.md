@@ -1,13 +1,14 @@
 # Curses
 
-Curses is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at VENT, Tokyo on Sat, 5 Sept 2026.
+Curses is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Fri, 31 Jul 2026, next at Maaya, Berlin on Sun, 23 Aug 2026.
 
-Curses is a techno and house artist tracked on soundcheck, with 167 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 55 more. Often billed alongside Rakans, The Lady Machine and Cormac. Next up: VENT, Tokyo on Sat 5 Sept.
+Curses is a techno and house artist tracked on soundcheck, with 168 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 55 more. Often billed alongside Rakans, The Lady Machine and Cormac. Next up: Maaya, Berlin on Sun 23 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sun, 23 Aug 2026 | Maaya | Berlin |
 | Sat, 5 Sept 2026 | VENT | Tokyo |
 
 ## Recently played
@@ -25,4 +26,4 @@ Curses is a techno and house artist tracked on soundcheck, with 167 sets logged 
 
 Rakans, The Lady Machine, Cormac
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/curses/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/curses/)*

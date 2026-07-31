@@ -1,6 +1,6 @@
 # Sohtech
 
-Sohtech is a Hardcore and Industrial artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at E1, London on Fri, 31 Jul 2026.
+Sohtech is a Hardcore and Industrial artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at E1, London on Fri, 31 Jul 2026.
 
 Sohtech is a hardcore and industrial artist based in India, tracked on soundcheck, with 16 sets logged across London. Often billed alongside Erica (IT), Lau.tastic and Usernam3rror. Next up: E1, London on Fri 31 Jul.
 
@@ -25,4 +25,4 @@ Sohtech is a hardcore and industrial artist based in India, tracked on soundchec
 
 Erica (IT), Lau.tastic, Usernam3rror
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/sohtech/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/sohtech/)*

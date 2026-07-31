@@ -1,6 +1,6 @@
 # Natuta
 
-Natuta is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Thu, 30 Jul 2026, next at The Bridge, Los Angeles on Sat, 8 Aug 2026.
+Natuta is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Fri, 31 Jul 2026, next at The Bridge, Los Angeles on Sat, 8 Aug 2026.
 
 Natuta is a techno and house artist tracked on soundcheck, with 45 sets logged across Berlin, Leipzig, Losangeles and Newyorkcity and 2 more. Often billed alongside Citizens Union, Juliana Huxtable and Bekuchi. Next up: The Bridge, Losangeles on Sat 8 Aug.
 
@@ -26,4 +26,4 @@ Natuta is a techno and house artist tracked on soundcheck, with 45 sets logged a
 
 Citizens Union, Juliana Huxtable, Bekuchi
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/natuta/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/natuta/)*

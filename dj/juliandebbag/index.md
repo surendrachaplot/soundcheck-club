@@ -1,6 +1,6 @@
 # Julian Debbag
 
-Julian Debbag is a Italo Disco and Deep House artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at The Horse & Groom, London on Sat, 1 Aug 2026.
+Julian Debbag is a Italo Disco and Deep House artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at The Horse & Groom, London on Sat, 1 Aug 2026.
 
 Julian Debbag is an italo disco and deep house artist based in United Kingdom, tracked on soundcheck, with 12 sets logged across London. Often billed alongside Mir Kamas, DeMarco (IRL) and tchag. Next up: The Horse & Groom, London on Sat 1 Aug.
 
@@ -25,4 +25,4 @@ Julian Debbag is an italo disco and deep house artist based in United Kingdom, t
 
 Mir Kamas, DeMarco (IRL), tchag
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/juliandebbag/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/juliandebbag/)*

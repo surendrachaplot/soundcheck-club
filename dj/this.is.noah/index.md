@@ -1,6 +1,6 @@
 # this.is.noah
 
-this.is.noah is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at Bohnengold, Berlin on Fri, 31 Jul 2026.
+this.is.noah is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at Bohnengold, Berlin on Fri, 31 Jul 2026.
 
 this.is.noah is a house and techno artist based in Germany, tracked on soundcheck, with 5 sets logged across Berlin. Often billed alongside DJ Kodah, Alex Iso and Domovnika. Next up: Bohnengold, Berlin on Fri 31 Jul.
 
@@ -21,4 +21,4 @@ this.is.noah is a house and techno artist based in Germany, tracked on soundchec
 
 DJ Kodah, Alex Iso, Domovnika
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/this.is.noah/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/this.is.noah/)*

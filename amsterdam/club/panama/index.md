@@ -1,6 +1,6 @@
 # Panama
 
-Panama is a music venue in Amsterdam with 7 upcoming nights listed on soundcheck as of Thu, 30 Jul 2026; the next is "Xlsior Mykonos – Amsterdam World Pride" on Fri, 31 Jul 2026.
+Panama is a music venue in Amsterdam with 7 upcoming nights listed on soundcheck as of Fri, 31 Jul 2026; the next is "Xlsior Mykonos – Amsterdam World Pride" on Fri, 31 Jul 2026.
 
 Panama is a music venue in Amsterdam listed on soundcheck. 7 upcoming nights. Browse upcoming dates, start times and who's playing. Oostelijke Handelskade 4; 1019 Zeeburg; Amsterdam; Netherlands.
 
@@ -20,4 +20,4 @@ Panama is a music venue in Amsterdam listed on soundcheck. 7 upcoming nights. Br
 
 Oostelijke Handelskade 4; 1019 Zeeburg; Amsterdam; Netherlands, Amsterdam
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/panama/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/panama/)*

@@ -1,6 +1,6 @@
 # Wutu
 
-Wutu is a Electronica and Progressive House artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at OXI, Berlin on Fri, 9 Oct 2026.
+Wutu is a Electronica and Progressive House artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at OXI, Berlin on Fri, 9 Oct 2026.
 
 Wutu is an electronica and progressive house artist based in Italy, tracked on soundcheck, with 15 sets logged across Amsterdam, Berlin, Lisbon and Milan and 1 more. Often billed alongside Gropina, Alicia Carrera and Camille Maria. Next up: OXI, Berlin on Fri 9 Oct.
 
@@ -25,4 +25,4 @@ Wutu is an electronica and progressive house artist based in Italy, tracked on s
 
 Gropina, Alicia Carrera, Camille Maria
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/wutu/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/wutu/)*

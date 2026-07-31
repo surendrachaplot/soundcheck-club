@@ -1,6 +1,6 @@
 # Village Underground Lisboa
 
-Village Underground Lisboa is a music venue in Lisbon with 4 upcoming nights listed on soundcheck as of Thu, 30 Jul 2026; the next is "NOTMAINSTREAM by ELEVIN | Open-Air + Club | Live Sets Filmed" on Fri, 7 Aug 2026.
+Village Underground Lisboa is a music venue in Lisbon with 4 upcoming nights listed on soundcheck as of Fri, 31 Jul 2026; the next is "NOTMAINSTREAM by ELEVIN | Open-Air + Club | Live Sets Filmed" on Fri, 7 Aug 2026.
 
 Village Underground Lisboa is a music venue in Lisbon listed on soundcheck. 4 upcoming nights, with line-ups including Alberto Pizzarelli, Bryto, Chris Veron and DJ Disconnected and 2 more. Browse upcoming dates, start times and who's playing. Avenida da India 52, 1300-299 Lisboa.
 
@@ -17,4 +17,4 @@ Village Underground Lisboa is a music venue in Lisbon listed on soundcheck. 4 up
 
 Avenida da India 52, 1300-299 Lisboa, Lisbon
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/lisbon/club/village-underground-lisboa/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/lisbon/club/village-underground-lisboa/)*

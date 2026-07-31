@@ -1,6 +1,6 @@
 # GBRL
 
-GBRL is a Baile Funk and Electro artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at E1, London on Sat, 1 Aug 2026.
+GBRL is a Baile Funk and Electro artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at E1, London on Sat, 1 Aug 2026.
 
 GBRL is a baile funk and electro artist based in Austria, tracked on soundcheck, with 27 sets logged across London, Porto, Saopaulo and Utrecht and 1 more. Often billed alongside Reinhard Zach, Alice (AT) and Stipo. Next up: E1, London on Sat 1 Aug.
 
@@ -25,4 +25,4 @@ GBRL is a baile funk and electro artist based in Austria, tracked on soundcheck,
 
 Reinhard Zach, Alice (AT), Stipo
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/gbrl/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/gbrl/)*

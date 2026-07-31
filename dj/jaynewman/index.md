@@ -1,6 +1,6 @@
 # Jay Newman
 
-Jay Newman is a House artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at Circe’S Rooftop, London on Sat, 8 Aug 2026.
+Jay Newman is a House artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at Circe’S Rooftop, London on Sat, 8 Aug 2026.
 
 Jay Newman is a house artist based in United Kingdom, tracked on soundcheck, with 2 sets logged across London. Often billed alongside Boxer, CHARLIE POWELL and Danny Snowden. Next up: Circe’S Rooftop, London on Sat 8 Aug.
 
@@ -18,4 +18,4 @@ Jay Newman is a house artist based in United Kingdom, tracked on soundcheck, wit
 
 Boxer, CHARLIE POWELL, Danny Snowden
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/jaynewman/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/jaynewman/)*

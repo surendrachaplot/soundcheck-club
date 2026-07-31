@@ -1,6 +1,6 @@
 # EIGHT
 
-EIGHT is a Techno and Tech House artist with 2 upcoming club dates listed on soundcheck as of Thu, 30 Jul 2026, next at WOMB, Tokyo on Sat, 8 Aug 2026.
+EIGHT is a Techno and Tech House artist with 2 upcoming club dates listed on soundcheck as of Fri, 31 Jul 2026, next at WOMB, Tokyo on Sat, 8 Aug 2026.
 
 EIGHT is a techno and tech house artist tracked on soundcheck, with 87 sets logged across Osaka and Tokyo. Often billed alongside ALEXANDER M, GReY (1) and RYOHEI. Next up: WOMB, Tokyo on Sat 8 Aug.
 
@@ -26,4 +26,4 @@ EIGHT is a techno and tech house artist tracked on soundcheck, with 87 sets logg
 
 ALEXANDER M, GReY (1), RYOHEI
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/eight/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/eight/)*

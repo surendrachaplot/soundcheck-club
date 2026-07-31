@@ -1,6 +1,6 @@
 # Fred Everything
 
-Fred Everything is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at Village au Pied-du-Courant, Montreal on Fri, 31 Jul 2026.
+Fred Everything is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at Village au Pied-du-Courant, Montreal on Fri, 31 Jul 2026.
 
 Fred Everything is a house and deep house artist based in Canada, tracked on soundcheck, with 44 sets logged across Boston, London, Miami and Montreal and 6 more. Often billed alongside Lia Plutonic, Guthrie and Juju le Moko. Next up: Village au Pied-du-Courant, Montreal on Fri 31 Jul.
 
@@ -25,4 +25,4 @@ Fred Everything is a house and deep house artist based in Canada, tracked on sou
 
 Lia Plutonic, Guthrie, Juju le Moko
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/fredeverything/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/fredeverything/)*

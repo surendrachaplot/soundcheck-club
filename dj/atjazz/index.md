@@ -1,6 +1,6 @@
 # Atjazz
 
-Atjazz is a Deep House and House artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at Armazem 22, Porto on Sat, 26 Sept 2026.
+Atjazz is a Deep House and House artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at Armazem 22, Porto on Sat, 26 Sept 2026.
 
 Atjazz is a deep house and house artist tracked on soundcheck, with 35 sets logged across Amsterdam, Barcelona, Berlin and Birmingham and 12 more. Often billed alongside Kyri R2, Neil Pierce and Sy Sez. Next up: Armazem 22, Porto on Sat 26 Sept.
 
@@ -25,4 +25,4 @@ Atjazz is a deep house and house artist tracked on soundcheck, with 35 sets logg
 
 Kyri R2, Neil Pierce, Sy Sez
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/atjazz/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/atjazz/)*

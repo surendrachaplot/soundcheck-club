@@ -1,6 +1,6 @@
 # SHIRO
 
-SHIRO is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at M-BIA, Berlin on Fri, 31 Jul 2026.
+SHIRO is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at M-BIA, Berlin on Fri, 31 Jul 2026.
 
 SHIRO is a techno and house artist based in Germany, tracked on soundcheck, with 5 sets logged across Berlin, Tokyo and Valencia. Often billed alongside MØABEAT, Curl Ease and Di3GO. Next up: M-BIA, Berlin on Fri 31 Jul.
 
@@ -21,4 +21,4 @@ SHIRO is a techno and house artist based in Germany, tracked on soundcheck, with
 
 MØABEAT, Curl Ease, Di3GO
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/shiro-de/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/shiro-de/)*

@@ -1,6 +1,6 @@
 # Farr
 
-Farr is a Techno and Electro artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at TBA - Paradies Garten Festival - Schloß Prugg 2, 2460 Gemeinde Bruck an der Leitha, Vienna on Fri, 31 Jul 2026.
+Farr is a Techno and Electro artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at TBA - Paradies Garten Festival - Schloß Prugg 2, 2460 Gemeinde Bruck an der Leitha, Vienna on Fri, 31 Jul 2026.
 
 Farr is a techno and electro artist based in Austria, tracked on soundcheck, with 18 sets logged across Vienna. Often billed alongside BØRT, Rumi de Baires and sensual twerk. Next up: TBA - Paradies Garten Festival - Schloß Prugg 2, 2460 Gemeinde Bruck an der Leitha, Vienna on Fri 31 Jul.
 
@@ -25,4 +25,4 @@ Farr is a techno and electro artist based in Austria, tracked on soundcheck, wit
 
 BØRT, Rumi de Baires, sensual twerk
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/farr/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/farr/)*

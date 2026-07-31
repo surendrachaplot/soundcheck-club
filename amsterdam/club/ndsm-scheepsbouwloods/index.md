@@ -1,6 +1,6 @@
 # NDSM Scheepsbouwloods
 
-NDSM Scheepsbouwloods is a music venue in Amsterdam with 6 upcoming nights listed on soundcheck as of Thu, 30 Jul 2026; the next is "DGTL ADE Thursday" on Thu, 22 Oct 2026.
+NDSM Scheepsbouwloods is a music venue in Amsterdam with 6 upcoming nights listed on soundcheck as of Fri, 31 Jul 2026; the next is "DGTL ADE Thursday" on Thu, 22 Oct 2026.
 
 NDSM Scheepsbouwloods is a music venue in Amsterdam listed on soundcheck. 6 upcoming nights, with line-ups including Alex Wann, Âme, AMÉMÉ and ARODES and 2 more. Browse upcoming dates, start times and who's playing. TT. Neveritaweg 15 1033 WB Amsterdam.
 
@@ -19,4 +19,4 @@ NDSM Scheepsbouwloods is a music venue in Amsterdam listed on soundcheck. 6 upco
 
 TT. Neveritaweg 15 1033 WB Amsterdam, Amsterdam
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/ndsm-scheepsbouwloods/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/ndsm-scheepsbouwloods/)*

@@ -1,6 +1,6 @@
 # EUROPLUS
 
-EUROPLUS is a Techno and Trance artist with 2 upcoming club dates listed on soundcheck as of Thu, 30 Jul 2026, next at Astra Kulturhaus, Berlin on Fri, 31 Jul 2026.
+EUROPLUS is a Techno and Trance artist with 2 upcoming club dates listed on soundcheck as of Fri, 31 Jul 2026, next at Astra Kulturhaus, Berlin on Fri, 31 Jul 2026.
 
 EUROPLUS is a techno and trance artist based in Germany, tracked on soundcheck, with 21 sets logged across Berlin. Often billed alongside YËDM, DETOXX and Ivana Parti. Next up: Astra Kulturhaus, Berlin on Fri 31 Jul.
 
@@ -26,4 +26,4 @@ EUROPLUS is a techno and trance artist based in Germany, tracked on soundcheck, 
 
 YËDM, DETOXX, Ivana Parti
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/europlus/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/europlus/)*

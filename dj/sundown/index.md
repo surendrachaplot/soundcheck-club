@@ -1,6 +1,6 @@
 # Sundown
 
-Sundown is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Thu, 30 Jul 2026, next at The Meadows, New York City on Sat, 1 Aug 2026.
+Sundown is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Fri, 31 Jul 2026, next at The Meadows, New York City on Sat, 1 Aug 2026.
 
 Sundown is a techno and house artist based in Latvia, tracked on soundcheck, with 11 sets logged across Newyorkcity and Riga. Often billed alongside Ikss, HP-82 and Existal. Next up: The Meadows, Newyorkcity on Sat 1 Aug.
 
@@ -26,4 +26,4 @@ Sundown is a techno and house artist based in Latvia, tracked on soundcheck, wit
 
 Ikss, HP-82, Existal
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/sundown/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/sundown/)*

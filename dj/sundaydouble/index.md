@@ -1,6 +1,6 @@
 # Sunday Double
 
-Sunday Double is a House and Dancehall artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at The Barbary, Philadelphia on Sat, 1 Aug 2026.
+Sunday Double is a House and Dancehall artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at The Barbary, Philadelphia on Sat, 1 Aug 2026.
 
 Sunday Double is a house and dancehall artist based in United States of America, tracked on soundcheck, with 7 sets logged across Miami, Newyorkcity and Philadelphia. Often billed alongside sersol, .breeze and Big Queso. Next up: The Barbary, Philadelphia on Sat 1 Aug.
 
@@ -23,4 +23,4 @@ Sunday Double is a house and dancehall artist based in United States of America,
 
 sersol, .breeze, Big Queso
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/sundaydouble/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/sundaydouble/)*

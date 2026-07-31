@@ -1,6 +1,6 @@
 # DJ Girl
 
-DJ Girl is a Electro and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at TBA - Secret Location in Detroit, Detroit on Sat, 8 Aug 2026.
+DJ Girl is a Electro and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at TBA - Secret Location in Detroit, Detroit on Sat, 8 Aug 2026.
 
 DJ Girl is an electro and techno artist based in United States of America, tracked on soundcheck, with 9 sets logged across Detroit, Newyorkcity and Sanfrancisco. Often billed alongside LATEX GIRL, Seanni B and madeofants. Next up: TBA - Secret Location in Detroit, Detroit on Sat 8 Aug.
 
@@ -25,4 +25,4 @@ DJ Girl is an electro and techno artist based in United States of America, track
 
 LATEX GIRL, Seanni B, madeofants
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/djgirl/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/djgirl/)*

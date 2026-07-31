@@ -1,6 +1,6 @@
 # Charisse C
 
-Charisse C is a Amapiano and Afro House artist with 2 upcoming club dates listed on soundcheck as of Thu, 30 Jul 2026, next at Burgess Park, London on Fri, 31 Jul 2026.
+Charisse C is a Amapiano and Afro House artist with 2 upcoming club dates listed on soundcheck as of Fri, 31 Jul 2026, next at Burgess Park, London on Fri, 31 Jul 2026.
 
 Charisse C is an amapiano and afro house artist tracked on soundcheck, with 56 sets logged across Amsterdam, Birmingham, Brighton and Bristol and 10 more. Often billed alongside KILIMANJARO, Kitty Amor and Junior Simba. Next up: Burgess Park, London on Fri 31 Jul.
 
@@ -26,4 +26,4 @@ Charisse C is an amapiano and afro house artist tracked on soundcheck, with 56 s
 
 KILIMANJARO, Kitty Amor, Junior Simba
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/charissec/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/charissec/)*

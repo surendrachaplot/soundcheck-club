@@ -1,6 +1,6 @@
 # Jellybean Benitez
 
-Jellybean Benitez is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at Amnesia Ibiza, Ibiza on Fri, 31 Jul 2026.
+Jellybean Benitez is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at Amnesia Ibiza, Ibiza on Fri, 31 Jul 2026.
 
 Jellybean Benitez is a house and disco artist tracked on soundcheck, with 45 sets logged across Amsterdam, Ibiza, Leeds and London and 8 more. Often billed alongside Sophie Lloyd, Melvo Baptiste and Catz 'N Dogz. Next up: Amnesia Ibiza, Ibiza on Fri 31 Jul.
 
@@ -25,4 +25,4 @@ Jellybean Benitez is a house and disco artist tracked on soundcheck, with 45 set
 
 Sophie Lloyd, Melvo Baptiste, Catz 'N Dogz
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/jellybeanbenitez/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/jellybeanbenitez/)*

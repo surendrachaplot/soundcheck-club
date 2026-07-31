@@ -1,6 +1,6 @@
 # Nine Lives Gallery
 
-Nine Lives Gallery is a music venue in Rotterdam with 1 upcoming night listed on soundcheck as of Thu, 30 Jul 2026; the next is "RDBLCK x DWNTWN at Litterbox" on Fri, 14 Aug 2026.
+Nine Lives Gallery is a music venue in Rotterdam with 1 upcoming night listed on soundcheck as of Fri, 31 Jul 2026; the next is "RDBLCK x DWNTWN at Litterbox" on Fri, 14 Aug 2026.
 
 Nine Lives Gallery is a music venue in Rotterdam listed on soundcheck. 1 upcoming night, with line-ups including CHALÉ, Jan Koster, LE KACANG and ROMSY and 1 more. Browse upcoming dates, start times and who's playing.
 
@@ -10,4 +10,4 @@ Nine Lives Gallery is a music venue in Rotterdam listed on soundcheck. 1 upcomin
 | --- | --- | --- |
 | Fri, 14 Aug 2026 | RDBLCK x DWNTWN at Litterbox | CHALÉ, Jan Koster, LE KACANG, ROMSY, Yucky |
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/rotterdam/club/nine-lives-gallery/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/rotterdam/club/nine-lives-gallery/)*

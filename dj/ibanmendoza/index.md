@@ -1,6 +1,6 @@
 # IBÁN MENDOZA
 
-IBÁN MENDOZA is a House and Deep House artist with 2 upcoming club dates listed on soundcheck as of Thu, 30 Jul 2026, next at Akasha Las Dalias Club - Ibiza, Ibiza on Sat, 1 Aug 2026.
+IBÁN MENDOZA is a House and Deep House artist with 2 upcoming club dates listed on soundcheck as of Fri, 31 Jul 2026, next at Akasha Las Dalias Club - Ibiza, Ibiza on Sat, 1 Aug 2026.
 
 IBÁN MENDOZA is a house and deep house artist based in Spain, tracked on soundcheck, with 18 sets logged across Ibiza and Miami. Often billed alongside Audera, Bakean and Andy Bros. Next up: Akasha Las Dalias Club - Ibiza, Ibiza on Sat 1 Aug.
 
@@ -26,4 +26,4 @@ IBÁN MENDOZA is a house and deep house artist based in Spain, tracked on soundc
 
 Audera, Bakean, Andy Bros
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/ibanmendoza/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/ibanmendoza/)*

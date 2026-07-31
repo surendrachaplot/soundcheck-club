@@ -1,6 +1,6 @@
 # Kasama
 
-Kasama is a Tech House and House artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at Spin, San Diego on Fri, 31 Jul 2026.
+Kasama is a Tech House and House artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at Spin, San Diego on Fri, 31 Jul 2026.
 
 Kasama is a tech house and house artist based in United States of America, tracked on soundcheck, with 15 sets logged across Losangeles, Sandiego and Sanfrancisco. Often billed alongside JAQ.XS, Qolaj and ARP8. Next up: Spin, Sandiego on Fri 31 Jul.
 
@@ -25,4 +25,4 @@ Kasama is a tech house and house artist based in United States of America, track
 
 JAQ.XS, Qolaj, ARP8
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/kasama/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/kasama/)*

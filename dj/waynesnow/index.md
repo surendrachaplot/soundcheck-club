@@ -1,6 +1,6 @@
 # Wayne Snow
 
-Wayne Snow is a Electronica and House artist with 2 upcoming club dates listed on soundcheck as of Thu, 30 Jul 2026, next at Auditorium Parco della Musica, Rome on Sat, 12 Sept 2026.
+Wayne Snow is a Electronica and House artist with 2 upcoming club dates listed on soundcheck as of Fri, 31 Jul 2026, next at Auditorium Parco della Musica, Rome on Sat, 12 Sept 2026.
 
 Wayne Snow is an electronica and house artist based in Nigeria, tracked on soundcheck, with 14 sets logged across Berlin, London, Milan and Paris and 1 more. Often billed alongside Jazzanova, Alex Rita and Aline Umber. Next up: Auditorium Parco della Musica, Rome on Sat 12 Sept.
 
@@ -26,4 +26,4 @@ Wayne Snow is an electronica and house artist based in Nigeria, tracked on sound
 
 Jazzanova, Alex Rita, Aline Umber
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/waynesnow/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/waynesnow/)*

@@ -1,6 +1,6 @@
 # Yas
 
-Yas is a Club and Hip-Hop artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at Panke, Berlin on Fri, 31 Jul 2026.
+Yas is a Club and Hip-Hop artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at Panke, Berlin on Fri, 31 Jul 2026.
 
 Yas is a club and hip-hop artist based in Croatia, tracked on soundcheck, with 4 sets logged across Berlin, London, Osaka and Tokyo. Often billed alongside DJ HI-C, DJ Trigger Happy Ticket Finger and ERIMIYA. Next up: Panke, Berlin on Fri 31 Jul.
 
@@ -20,4 +20,4 @@ Yas is a club and hip-hop artist based in Croatia, tracked on soundcheck, with 4
 
 DJ HI-C, DJ Trigger Happy Ticket Finger, ERIMIYA
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/yas/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/yas/)*

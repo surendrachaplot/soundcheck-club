@@ -1,6 +1,6 @@
 # JAZZ (2)
 
-JAZZ (2) is a Techno and Progressive House artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at Concept Haus, Manchester on Fri, 31 Jul 2026.
+JAZZ (2) is a Techno and Progressive House artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at Concept Haus, Manchester on Fri, 31 Jul 2026.
 
 JAZZ (2) is a techno and progressive house artist based in Australia, tracked on soundcheck, with 11 sets logged across Berlin, London, Manchester and Melbourne and 1 more. Often billed alongside Sugar Free, Reptant and Accent'. Next up: Concept Haus, Manchester on Fri 31 Jul.
 
@@ -25,4 +25,4 @@ JAZZ (2) is a techno and progressive house artist based in Australia, tracked on
 
 Sugar Free, Reptant, Accent'
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/jazz-2/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/jazz-2/)*

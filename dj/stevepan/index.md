@@ -1,6 +1,6 @@
 # Steve Pan
 
-Steve Pan is a Techno and Bass artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at Collingwood Basement, Melbourne on Fri, 31 Jul 2026.
+Steve Pan is a Techno and Bass artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at Collingwood Basement, Melbourne on Fri, 31 Jul 2026.
 
 Steve Pan is a techno and bass artist tracked on soundcheck, with 61 sets logged across Hongkong, Melbourne, Shenzhen and Tokyo. Often billed alongside anormalturtle300, Sirens and Warmchainss. Next up: Collingwood Basement, Melbourne on Fri 31 Jul.
 
@@ -25,4 +25,4 @@ Steve Pan is a techno and bass artist tracked on soundcheck, with 61 sets logged
 
 anormalturtle300, Sirens, Warmchainss
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/stevepan/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/stevepan/)*

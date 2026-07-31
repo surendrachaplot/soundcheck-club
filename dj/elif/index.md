@@ -1,6 +1,6 @@
 # ELIF
 
-ELIF is a House and Techno artist with 10 upcoming club dates listed on soundcheck as of Thu, 30 Jul 2026, next at Napa Music Hall, San Francisco/Oakland on Fri, 31 Jul 2026.
+ELIF is a House and Techno artist with 10 upcoming club dates listed on soundcheck as of Fri, 31 Jul 2026, next at Napa Music Hall, San Francisco/Oakland on Fri, 31 Jul 2026.
 
 ELIF is a house and techno artist tracked on soundcheck, with 138 sets logged across Amsterdam, Bali, Barcelona and Basel and 31 more. Often billed alongside Mira, Britta Arnold and Chris Schwarzwälder. Next up: Napa Music Hall, Sanfrancisco on Fri 31 Jul.
 
@@ -34,4 +34,4 @@ ELIF is a house and techno artist tracked on soundcheck, with 138 sets logged ac
 
 Mira, Britta Arnold, Chris Schwarzwälder
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/elif/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/elif/)*

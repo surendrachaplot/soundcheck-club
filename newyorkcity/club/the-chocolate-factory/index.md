@@ -1,6 +1,6 @@
 # The Chocolate Factory
 
-The Chocolate Factory is a music venue in New York City with 8 upcoming nights listed on soundcheck as of Thu, 30 Jul 2026; the next is "cruush presents: Thotography 101 - warehouse rave for queer cruisers" on Fri, 31 Jul 2026.
+The Chocolate Factory is a music venue in New York City with 8 upcoming nights listed on soundcheck as of Fri, 31 Jul 2026; the next is "cruush presents: Thotography 101 - warehouse rave for queer cruisers" on Fri, 31 Jul 2026.
 
 The Chocolate Factory is a music venue in Newyorkcity listed on soundcheck. 8 upcoming nights, with line-ups including S7IK, BADSISTA, Cyborg Julien and Daybreak and 2 more. Browse upcoming dates, start times and who's playing. 70 Scott Ave Brooklyn, NY 11237.
 
@@ -21,4 +21,4 @@ The Chocolate Factory is a music venue in Newyorkcity listed on soundcheck. 8 up
 
 70 Scott Ave Brooklyn, NY 11237, New York City
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/the-chocolate-factory/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/the-chocolate-factory/)*

@@ -1,6 +1,6 @@
 # Anni Herzer
 
-Anni Herzer is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at Westhafen, Leipzig on Sat, 5 Sept 2026.
+Anni Herzer is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at Westhafen, Leipzig on Sat, 5 Sept 2026.
 
 Anni Herzer is a techno and house artist based in Austria, tracked on soundcheck, with 78 sets logged across Berlin, Frankfurt, Leipzig and Munich and 1 more. Often billed alongside Paul Mile, LizN and MIA MIA. Next up: Westhafen, Leipzig on Sat 5 Sept.
 
@@ -25,4 +25,4 @@ Anni Herzer is a techno and house artist based in Austria, tracked on soundcheck
 
 Paul Mile, LizN, MIA MIA
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/anniherzer/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/anniherzer/)*

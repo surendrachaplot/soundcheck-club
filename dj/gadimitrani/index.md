@@ -1,6 +1,6 @@
 # Gadi Mitrani
 
-Gadi Mitrani is a Deep House and House artist with 2 upcoming club dates listed on soundcheck as of Thu, 30 Jul 2026, next at Do Not Sit On The Furniture, Miami on Sat, 8 Aug 2026.
+Gadi Mitrani is a Deep House and House artist with 2 upcoming club dates listed on soundcheck as of Fri, 31 Jul 2026, next at Do Not Sit On The Furniture, Miami on Sat, 8 Aug 2026.
 
 Gadi Mitrani is a deep house and house artist based in Turkey, tracked on soundcheck, with 4 sets logged across Miami and Newyorkcity. Often billed alongside DAVI, Gavin Stephenson and Iman Rizky. Next up: Do Not Sit On The Furniture, Miami on Sat 8 Aug.
 
@@ -20,4 +20,4 @@ Gadi Mitrani is a deep house and house artist based in Turkey, tracked on soundc
 
 DAVI, Gavin Stephenson, Iman Rizky
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/gadimitrani/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/gadimitrani/)*

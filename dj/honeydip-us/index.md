@@ -1,6 +1,6 @@
 # Honey Dip
 
-Honey Dip is a Techno and Dembow artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at Paragon, New York City on Sun, 9 Aug 2026.
+Honey Dip is a Techno and Dembow artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at Paragon, New York City on Sun, 9 Aug 2026.
 
 Honey Dip is a techno and dembow artist based in United States of America, tracked on soundcheck, with 25 sets logged across Newyorkcity and Zurich. Often billed alongside DADA COZMIC, Donis and Shyboi. Next up: Paragon, Newyorkcity on Sun 9 Aug.
 
@@ -25,4 +25,4 @@ Honey Dip is a techno and dembow artist based in United States of America, track
 
 DADA COZMIC, Donis, Shyboi
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/honeydip-us/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/honeydip-us/)*

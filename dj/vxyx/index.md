@@ -1,6 +1,6 @@
 # VXYX
 
-VXYX is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at King Tut's Wah Wah Hut, Glasgow on Sun, 16 Aug 2026.
+VXYX is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at King Tut's Wah Wah Hut, Glasgow on Sun, 16 Aug 2026.
 
 VXYX is a techno and trance artist based in United Kingdom, tracked on soundcheck, with 42 sets logged across Aberdeen, Dundee, Edinburgh and Glasgow and 2 more. Often billed alongside Neoma, D4N (1) and LA MAISON. Next up: King Tut's Wah Wah Hut, Glasgow on Sun 16 Aug.
 
@@ -25,4 +25,4 @@ VXYX is a techno and trance artist based in United Kingdom, tracked on soundchec
 
 Neoma, D4N (1), LA MAISON
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/vxyx/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/vxyx/)*

@@ -1,6 +1,6 @@
 # THE GTW
 
-THE GTW is a Techno and Club artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at Whistler, Chicago on Sun, 9 Aug 2026.
+THE GTW is a Techno and Club artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at Whistler, Chicago on Sun, 9 Aug 2026.
 
 THE GTW is a techno and club artist based in United States of America, tracked on soundcheck, with 3 sets logged across Chicago. Often billed alongside CTRLZORA, Cid Ikarus and Devin Hudson. Next up: Whistler, Chicago on Sun 9 Aug.
 
@@ -19,4 +19,4 @@ THE GTW is a techno and club artist based in United States of America, tracked o
 
 CTRLZORA, Cid Ikarus, Devin Hudson
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/thegtw/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/thegtw/)*

@@ -1,6 +1,6 @@
 # oiko
 
-oiko is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at Südpol, Hamburg on Sat, 1 Aug 2026.
+oiko is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at Südpol, Hamburg on Sat, 1 Aug 2026.
 
 oiko is a techno and house artist based in Germany, tracked on soundcheck, with 16 sets logged across Berlin and Hamburg. Often billed alongside Coco Cobra, Khloe and DSGNRPSSY. Next up: Südpol, Hamburg on Sat 1 Aug.
 
@@ -25,4 +25,4 @@ oiko is a techno and house artist based in Germany, tracked on soundcheck, with 
 
 Coco Cobra, Khloe, DSGNRPSSY
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/oiko/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/oiko/)*

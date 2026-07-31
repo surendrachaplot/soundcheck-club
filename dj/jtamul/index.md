@@ -1,6 +1,6 @@
 # jtamul
 
-jtamul is a Techno and Club artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at Şahika, Istanbul on Sat, 8 Aug 2026.
+jtamul is a Techno and Club artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at Şahika, Istanbul on Sat, 8 Aug 2026.
 
 jtamul is a techno and club artist based in Turkey, tracked on soundcheck, with 39 sets logged across Berlin and Istanbul. Often billed alongside 4-i, Luna Fosepthicc and Mx. Sür. Next up: Şahika, Istanbul on Sat 8 Aug.
 
@@ -25,4 +25,4 @@ jtamul is a techno and club artist based in Turkey, tracked on soundcheck, with 
 
 4-i, Luna Fosepthicc, Mx. Sür
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/jtamul/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/jtamul/)*

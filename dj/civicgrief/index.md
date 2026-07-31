@@ -1,6 +1,6 @@
 # Civic Grief
 
-Civic Grief is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at Macarena Club, Barcelona on Sun, 2 Aug 2026.
+Civic Grief is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at Macarena Club, Barcelona on Sun, 2 Aug 2026.
 
 Civic Grief is a house and techno artist based in United Kingdom, tracked on soundcheck, with 45 sets logged across Barcelona, Berlin, Edinburgh and London. Often billed alongside caro.aki, K A I and Sloan (2). Next up: Macarena Club, Barcelona on Sun 2 Aug.
 
@@ -25,4 +25,4 @@ Civic Grief is a house and techno artist based in United Kingdom, tracked on sou
 
 caro.aki, K A I, Sloan (2)
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/civicgrief/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/civicgrief/)*

@@ -1,6 +1,6 @@
 # Evil B vs B Live
 
-Evil B vs B Live is a Drum & Bass and Jungle artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at Dunnings 2, London on Sat, 1 Aug 2026.
+Evil B vs B Live is a Drum & Bass and Jungle artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at Dunnings 2, London on Sat, 1 Aug 2026.
 
 Evil B vs B Live are a drum & bass and jungle duo based in United Kingdom, tracked on soundcheck, with 7 sets logged across Birmingham, London, Riga and Zurich. Often billed alongside Bou (UK), DJ Millz and Sub Zero. Next up: Dunnings 2, London on Sat 1 Aug.
 
@@ -23,4 +23,4 @@ Evil B vs B Live are a drum & bass and jungle duo based in United Kingdom, track
 
 Bou (UK), DJ Millz, Sub Zero
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/evilbvsblive/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/evilbvsblive/)*

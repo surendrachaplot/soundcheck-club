@@ -1,6 +1,6 @@
 # Any Mello
 
-Any Mello is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at RADION, Amsterdam on Sat, 24 Oct 2026.
+Any Mello is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at RADION, Amsterdam on Sat, 24 Oct 2026.
 
 Any Mello is a techno and house artist tracked on soundcheck, with 45 sets logged across Amsterdam, Basel, Berlin and Cologne and 7 more. Often billed alongside Eluzid, Toni Dextor and Alexander Kowalski. Next up: RADION, Amsterdam on Sat 24 Oct.
 
@@ -25,4 +25,4 @@ Any Mello is a techno and house artist tracked on soundcheck, with 45 sets logge
 
 Eluzid, Toni Dextor, Alexander Kowalski
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/anymello/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/anymello/)*

@@ -1,6 +1,6 @@
 # Yohan (1)
 
-Yohan (1) is a Drum & Bass and Trance artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at Lowkey Seoul, Seoul on Fri, 31 Jul 2026.
+Yohan (1) is a Drum & Bass and Trance artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at Lowkey Seoul, Seoul on Fri, 31 Jul 2026.
 
 Yohan (1) is a drum & bass and trance artist based in South Korea, tracked on soundcheck, with 6 sets logged across Manchester, Seoul, Tallinn and Valencia. Often billed alongside Atiké, Awesome Tapes From Africa and Cristian Varela. Next up: Lowkey Seoul, Seoul on Fri 31 Jul.
 
@@ -22,4 +22,4 @@ Yohan (1) is a drum & bass and trance artist based in South Korea, tracked on so
 
 Atiké, Awesome Tapes From Africa, Cristian Varela
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/yohan-1/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/yohan-1/)*

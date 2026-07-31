@@ -1,6 +1,6 @@
 # Pascal Hetzel
 
-Pascal Hetzel is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at Kater, Berlin on Fri, 21 Aug 2026.
+Pascal Hetzel is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at Kater, Berlin on Fri, 21 Aug 2026.
 
 Pascal Hetzel is a techno and house artist based in Germany, tracked on soundcheck, with 9 sets logged across Berlin. Often billed alongside Sierra Sam, BLACK ANTHEM RESTORE and Sabine Hoffmann. Next up: Kater, Berlin on Fri 21 Aug.
 
@@ -25,4 +25,4 @@ Pascal Hetzel is a techno and house artist based in Germany, tracked on soundche
 
 Sierra Sam, BLACK ANTHEM RESTORE, Sabine Hoffmann
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/pascalhetzel/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/pascalhetzel/)*

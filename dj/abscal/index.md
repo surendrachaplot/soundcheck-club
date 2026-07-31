@@ -1,6 +1,6 @@
 # Abscal
 
-Abscal is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at TBA, Mallorca on Sun, 2 Aug 2026.
+Abscal is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at TBA, Mallorca on Sun, 2 Aug 2026.
 
 Abscal is a house and techno artist tracked on soundcheck, with 16 sets logged across Barcelona, Berlin, Malaga and Mallorca and 1 more. Often billed alongside Dani Casarano, Felipe Valenzuela and Blanco. Next up: TBA, Mallorca on Sun 2 Aug.
 
@@ -25,4 +25,4 @@ Abscal is a house and techno artist tracked on soundcheck, with 16 sets logged a
 
 Dani Casarano, Felipe Valenzuela, Blanco
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/abscal/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/abscal/)*

@@ -1,8 +1,8 @@
 # The Jazz Cafe
 
-The Jazz Cafe is a music venue in London with 46 upcoming nights listed on soundcheck as of Thu, 30 Jul 2026; the next is "DJ Obi (Obi's House) - All Night Long" on Fri, 31 Jul 2026.
+The Jazz Cafe is a music venue in London with 47 upcoming nights listed on soundcheck as of Fri, 31 Jul 2026; the next is "DJ Obi (Obi's House) - All Night Long" on Fri, 31 Jul 2026.
 
-The Jazz Cafe is a music venue in London listed on soundcheck. 46 upcoming nights, with line-ups including Adam F, AMANDA SZE, AMARI and ASIAN BRAT and 2 more. Browse upcoming dates, start times and who's playing. 5 Parkway; Camden Town; London NW1 7PG; United Kingdom.
+The Jazz Cafe is a music venue in London listed on soundcheck. 47 upcoming nights, with line-ups including Adam F, AMANDA SZE, AMARI and ASIAN BRAT and 2 more. Browse upcoming dates, start times and who's playing. 5 Parkway; Camden Town; London NW1 7PG; United Kingdom.
 
 ## What's on
 
@@ -23,4 +23,4 @@ The Jazz Cafe is a music venue in London listed on soundcheck. 46 upcoming night
 
 5 Parkway; Camden Town; London NW1 7PG; United Kingdom, London
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/london/club/the-jazz-cafe/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/london/club/the-jazz-cafe/)*

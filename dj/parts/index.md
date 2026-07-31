@@ -1,6 +1,6 @@
 # PARTS
 
-PARTS is a Progressive House and Trance artist with 2 upcoming club dates listed on soundcheck as of Thu, 30 Jul 2026, next at The Dutch Master, London on Sat, 1 Aug 2026.
+PARTS is a Progressive House and Trance artist with 2 upcoming club dates listed on soundcheck as of Fri, 31 Jul 2026, next at The Dutch Master, London on Sat, 1 Aug 2026.
 
 PARTS is a progressive house and trance artist based in United Kingdom, tracked on soundcheck, with 12 sets logged across Lisbon and London. Often billed alongside MXV (UK), Amber Stomp and Amy Wiles. Next up: The Dutch Master, London on Sat 1 Aug.
 
@@ -26,4 +26,4 @@ PARTS is a progressive house and trance artist based in United Kingdom, tracked 
 
 MXV (UK), Amber Stomp, Amy Wiles
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/parts/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/parts/)*

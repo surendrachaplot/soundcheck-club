@@ -1,6 +1,6 @@
 # Eskha
 
-Eskha is a Techno and Trance artist with 3 upcoming club dates listed on soundcheck as of Thu, 30 Jul 2026, next at Lokschuppen Berlin, Berlin on Fri, 21 Aug 2026.
+Eskha is a Techno and Trance artist with 3 upcoming club dates listed on soundcheck as of Fri, 31 Jul 2026, next at Lokschuppen Berlin, Berlin on Fri, 21 Aug 2026.
 
 Eskha is a techno and trance artist tracked on soundcheck, with 46 sets logged across Amsterdam, Berlin, Brussels and Liverpool and 7 more. Often billed alongside 1luu, Aureb and CLTX. Next up: Lokschuppen Berlin, Berlin on Fri 21 Aug.
 
@@ -27,4 +27,4 @@ Eskha is a techno and trance artist tracked on soundcheck, with 46 sets logged a
 
 1luu, Aureb, CLTX
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/eskha/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/eskha/)*

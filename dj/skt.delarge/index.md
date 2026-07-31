@@ -1,6 +1,6 @@
 # Skt. DeLarge
 
-Skt. DeLarge is a electronic artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at Byhaven, Copenhagen on Sat, 22 Aug 2026.
+Skt. DeLarge is a electronic artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at Byhaven, Copenhagen on Sat, 22 Aug 2026.
 
 Skt. DeLarge is an electronic artist based in Denmark, tracked on soundcheck, with 3 sets logged across Copenhagen. Often billed alongside Fochs Koshka. Next up: Byhaven, Copenhagen on Sat 22 Aug.
 
@@ -19,4 +19,4 @@ Skt. DeLarge is an electronic artist based in Denmark, tracked on soundcheck, wi
 
 Fochs Koshka
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/skt.delarge/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/skt.delarge/)*

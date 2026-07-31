@@ -1,6 +1,6 @@
 # Toru Ikemoto
 
-Toru Ikemoto is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at The Rooftop at Gianpula Village, Malta on Sun, 2 Aug 2026.
+Toru Ikemoto is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at The Rooftop at Gianpula Village, Malta on Sun, 2 Aug 2026.
 
 Toru Ikemoto is a techno and house artist based in Japan, tracked on soundcheck, with 28 sets logged across Berlin, Brisbane, Kyoto and Malta and 6 more. Often billed alongside DJ HI-C, TENO and Goodrug. Next up: The Rooftop at Gianpula Village, Malta on Sun 2 Aug.
 
@@ -25,4 +25,4 @@ Toru Ikemoto is a techno and house artist based in Japan, tracked on soundcheck,
 
 DJ HI-C, TENO, Goodrug
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/toruikemoto/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/toruikemoto/)*

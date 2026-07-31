@@ -1,6 +1,6 @@
 # Vlad Ioachimescu
 
-Vlad Ioachimescu is a Minimal Techno and Minimal artist with 2 upcoming club dates listed on soundcheck as of Thu, 30 Jul 2026, next at Starlane Pizza Bar, London on Fri, 31 Jul 2026.
+Vlad Ioachimescu is a Minimal Techno and Minimal artist with 2 upcoming club dates listed on soundcheck as of Fri, 31 Jul 2026, next at Starlane Pizza Bar, London on Fri, 31 Jul 2026.
 
 Vlad Ioachimescu is a minimal techno and minimal artist tracked on soundcheck, with 45 sets logged across Berlin, Hongkong, London and Losangeles and 2 more. Often billed alongside Obreja., LUUD and Myriam. Next up: Starlane Pizza Bar, London on Fri 31 Jul.
 
@@ -26,4 +26,4 @@ Vlad Ioachimescu is a minimal techno and minimal artist tracked on soundcheck, w
 
 Obreja., LUUD, Myriam
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/vladioachimescu/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/vladioachimescu/)*

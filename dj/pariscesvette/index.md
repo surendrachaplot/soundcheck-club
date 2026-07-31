@@ -1,6 +1,6 @@
 # Paris Cesvette
 
-Paris Cesvette is a Disco and House artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at The BBE Store, London on Sun, 2 Aug 2026.
+Paris Cesvette is a Disco and House artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at The BBE Store, London on Sun, 2 Aug 2026.
 
 Paris Cesvette is a disco and house artist based in United Kingdom, tracked on soundcheck, with 18 sets logged across London, Mallorca and Paris. Often billed alongside Marcia Carr, LEV (UK) and Neil Pierce. Next up: The BBE Store, London on Sun 2 Aug.
 
@@ -25,4 +25,4 @@ Paris Cesvette is a disco and house artist based in United Kingdom, tracked on s
 
 Marcia Carr, LEV (UK), Neil Pierce
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/pariscesvette/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/pariscesvette/)*

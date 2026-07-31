@@ -1,6 +1,6 @@
 # Iona.Violet
 
-Iona.Violet is a Electro and Techno artist with 2 upcoming club dates listed on soundcheck as of Thu, 30 Jul 2026, next at The Liquid Room Warehouse, Edinburgh on Fri, 7 Aug 2026.
+Iona.Violet is a Electro and Techno artist with 2 upcoming club dates listed on soundcheck as of Fri, 31 Jul 2026, next at The Liquid Room Warehouse, Edinburgh on Fri, 7 Aug 2026.
 
 Iona.Violet is an electro and techno artist tracked on soundcheck, with 12 sets logged across Edinburgh, Glasgow and London. Often billed alongside ona:v, ENAEN and ROXAN (UK). Next up: The Liquid Room Warehouse, Edinburgh on Fri 7 Aug.
 
@@ -26,4 +26,4 @@ Iona.Violet is an electro and techno artist tracked on soundcheck, with 12 sets 
 
 ona:v, ENAEN, ROXAN (UK)
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/iona.violet/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/iona.violet/)*

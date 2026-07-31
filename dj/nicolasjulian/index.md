@@ -1,6 +1,6 @@
 # Nicolas Julian
 
-Nicolas Julian is a Techno and Trance artist with 7 upcoming club dates listed on soundcheck as of Thu, 30 Jul 2026, next at Supermarket, Zurich on Fri, 31 Jul 2026.
+Nicolas Julian is a Techno and Trance artist with 7 upcoming club dates listed on soundcheck as of Fri, 31 Jul 2026, next at Supermarket, Zurich on Fri, 31 Jul 2026.
 
 Nicolas Julian is a techno and trance artist tracked on soundcheck, with 93 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 35 more. Often billed alongside NOTMYTYPE (2), IGDA and A.N.I.. Next up: Supermarket, Zurich on Fri 31 Jul.
 
@@ -31,4 +31,4 @@ Nicolas Julian is a techno and trance artist tracked on soundcheck, with 93 sets
 
 NOTMYTYPE (2), IGDA, A.N.I.
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/nicolasjulian/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/nicolasjulian/)*

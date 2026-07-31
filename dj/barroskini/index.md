@@ -1,6 +1,6 @@
 # BARROSKINI
 
-BARROSKINI is a Reggaeton and Tech House artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at CLUB RAUM, Amsterdam on Fri, 31 Jul 2026.
+BARROSKINI is a Reggaeton and Tech House artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at CLUB RAUM, Amsterdam on Fri, 31 Jul 2026.
 
 BARROSKINI is a reggaeton and tech house artist tracked on soundcheck, with 21 sets logged across Amsterdam and Rotterdam. Often billed alongside DIORA, angelboy and Slimfit. Next up: CLUB RAUM, Amsterdam on Fri 31 Jul.
 
@@ -25,4 +25,4 @@ BARROSKINI is a reggaeton and tech house artist tracked on soundcheck, with 21 s
 
 DIORA, angelboy, Slimfit
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/barroskini/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/barroskini/)*

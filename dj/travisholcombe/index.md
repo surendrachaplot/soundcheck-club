@@ -1,6 +1,6 @@
 # Travis Holcombe
 
-Travis Holcombe is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at Club Tee Gee, Los Angeles on Sat, 1 Aug 2026.
+Travis Holcombe is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at Club Tee Gee, Los Angeles on Sat, 1 Aug 2026.
 
 Travis Holcombe is a house and disco artist based in United States of America, tracked on soundcheck, with 15 sets logged across Losangeles. Often billed alongside Alex Oxley, Roxanne Roll and Capes. Next up: Club Tee Gee, Losangeles on Sat 1 Aug.
 
@@ -25,4 +25,4 @@ Travis Holcombe is a house and disco artist based in United States of America, t
 
 Alex Oxley, Roxanne Roll, Capes
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/travisholcombe/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/travisholcombe/)*

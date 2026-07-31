@@ -1,6 +1,6 @@
 # No Fakin' DJs
 
-No Fakin' DJs is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at Kazimier Garden, Liverpool on Sat, 1 Aug 2026.
+No Fakin' DJs is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at Kazimier Garden, Liverpool on Sat, 1 Aug 2026.
 
 No Fakin' DJs is a house and disco artist based in United Kingdom, tracked on soundcheck, with 16 sets logged across Liverpool. Often billed alongside Beat Detective, Crazy P and Benno. Next up: Kazimier Garden, Liverpool on Sat 1 Aug.
 
@@ -25,4 +25,4 @@ No Fakin' DJs is a house and disco artist based in United Kingdom, tracked on so
 
 Beat Detective, Crazy P, Benno
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/nofakindjs/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/nofakindjs/)*

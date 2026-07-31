@@ -1,14 +1,15 @@
 # BEIGE
 
-BEIGE is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Thu, 30 Jul 2026, next at H0L0, New York City on Fri, 31 Jul 2026.
+BEIGE is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Fri, 31 Jul 2026, next at H0L0, New York City on Fri, 31 Jul 2026.
 
-BEIGE is a house and techno artist based in United States of America, tracked on soundcheck, with 111 sets logged across Amsterdam, Berlin, Chicago and Copenhagen and 12 more. Often billed alongside Octo Octa, Father Dukes and Ryan Spencer. Next up: H0L0, Newyorkcity on Fri 31 Jul.
+BEIGE is a house and techno artist based in United States of America, tracked on soundcheck, with 112 sets logged across Amsterdam, Berlin, Chicago and Copenhagen and 12 more. Often billed alongside Octo Octa, Father Dukes and Ryan Spencer. Next up: H0L0, Newyorkcity on Fri 31 Jul.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 31 Jul 2026 | H0L0 | New York City |
+| Sun, 9 Aug 2026 | Signal | New York City |
 | Sat, 15 Aug 2026 | Marble Bar | Detroit |
 
 ## Recently played
@@ -26,4 +27,4 @@ BEIGE is a house and techno artist based in United States of America, tracked on
 
 Octo Octa, Father Dukes, Ryan Spencer
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/beige/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/beige/)*

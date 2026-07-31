@@ -1,8 +1,8 @@
 # Jamie 3:26
 
-Jamie 3:26 is a House and Disco artist with 2 upcoming club dates listed on soundcheck as of Thu, 30 Jul 2026, next at smartbar, Chicago on Sat, 15 Aug 2026.
+Jamie 3:26 is a House and Disco artist with 3 upcoming club dates listed on soundcheck as of Fri, 31 Jul 2026, next at smartbar, Chicago on Sat, 15 Aug 2026.
 
-Jamie 3:26 is a house and disco artist tracked on soundcheck, with 103 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 27 more. Often billed alongside Dimitri From Paris, Melvo Baptiste and Young Pulse. Next up: smartbar, Chicago on Sat 15 Aug.
+Jamie 3:26 is a house and disco artist tracked on soundcheck, with 104 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 27 more. Often billed alongside Dimitri From Paris, Melvo Baptiste and Young Pulse. Next up: smartbar, Chicago on Sat 15 Aug.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Jamie 3:26 is a house and disco artist tracked on soundcheck, with 103 sets logg
 | --- | --- | --- |
 | Sat, 15 Aug 2026 | smartbar | Chicago |
 | Sun, 30 Aug 2026 | Flash | Washington DC |
+| Fri, 25 Sept 2026 | Night Tales Loft | London |
 
 ## Recently played
 
@@ -26,4 +27,4 @@ Jamie 3:26 is a house and disco artist tracked on soundcheck, with 103 sets logg
 
 Dimitri From Paris, Melvo Baptiste, Young Pulse
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/jamie326/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/jamie326/)*

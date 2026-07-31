@@ -1,6 +1,6 @@
 # Jason Hodges
 
-Jason Hodges is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at Wiggle Room, Toronto on Sat, 8 Aug 2026.
+Jason Hodges is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at Wiggle Room, Toronto on Sat, 8 Aug 2026.
 
 Jason Hodges is a house and disco artist based in Canada, tracked on soundcheck, with 28 sets logged across Amsterdam, Austin, Detroit and London and 5 more. Often billed alongside Mr. Haze, DJ Heather and DJ Colette. Next up: Wiggle Room, Toronto on Sat 8 Aug.
 
@@ -25,4 +25,4 @@ Jason Hodges is a house and disco artist based in Canada, tracked on soundcheck,
 
 Mr. Haze, DJ Heather, DJ Colette
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/jasonhodges/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/jasonhodges/)*

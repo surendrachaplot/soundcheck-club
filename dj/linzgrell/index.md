@@ -1,6 +1,6 @@
 # Linz (Grell)
 
-Linz (Grell) is a electronic artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at Bahnwärter Thiel, Munich on Fri, 31 Jul 2026.
+Linz (Grell) is a electronic artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at Bahnwärter Thiel, Munich on Fri, 31 Jul 2026.
 
 Linz (Grell) is an electronic artist based in Germany, tracked on soundcheck, with 9 sets logged across Munich. Often billed alongside Knallplatten, Dudelburschen and Akuma. Next up: Bahnwärter Thiel, Munich on Fri 31 Jul.
 
@@ -25,4 +25,4 @@ Linz (Grell) is an electronic artist based in Germany, tracked on soundcheck, wi
 
 Knallplatten, Dudelburschen, Akuma
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/linzgrell/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/linzgrell/)*

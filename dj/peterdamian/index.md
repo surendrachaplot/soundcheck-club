@@ -1,6 +1,6 @@
 # PETER DAMIAN
 
-PETER DAMIAN is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at Cappella, Montreal on Fri, 7 Aug 2026.
+PETER DAMIAN is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at Cappella, Montreal on Fri, 7 Aug 2026.
 
 PETER DAMIAN is a house and deep house artist based in Canada, tracked on soundcheck, with 45 sets logged across Montreal and Toronto. Often billed alongside Andy Reid, wazzo and Addy. Next up: Cappella, Montreal on Fri 7 Aug.
 
@@ -25,4 +25,4 @@ PETER DAMIAN is a house and deep house artist based in Canada, tracked on soundc
 
 Andy Reid, wazzo, Addy
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/peterdamian/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/peterdamian/)*

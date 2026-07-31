@@ -1,6 +1,6 @@
 # LoHi
 
-LoHi is a music venue in New York City with 5 upcoming nights listed on soundcheck as of Thu, 30 Jul 2026; the next is "Dee Diggs: LoHi Rooftop" on Fri, 14 Aug 2026.
+LoHi is a music venue in New York City with 5 upcoming nights listed on soundcheck as of Fri, 31 Jul 2026; the next is "Dee Diggs: LoHi Rooftop" on Fri, 14 Aug 2026.
 
 LoHi is a music venue in Newyorkcity listed on soundcheck. 5 upcoming nights, with line-ups including ALOT, Dee Diggs, DJ Pierre and Gene Farris and 2 more. Browse upcoming dates, start times and who's playing. 314 Scholes St, Brooklyn, NY 11206.
 
@@ -18,4 +18,4 @@ LoHi is a music venue in Newyorkcity listed on soundcheck. 5 upcoming nights, wi
 
 314 Scholes St, Brooklyn, NY 11206, New York City
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/lohi/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/lohi/)*

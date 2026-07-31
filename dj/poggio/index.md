@@ -1,6 +1,6 @@
 # Poggio
 
-Poggio is a House and Electro artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at BRET, Amsterdam on Sat, 1 Aug 2026.
+Poggio is a House and Electro artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at BRET, Amsterdam on Sat, 1 Aug 2026.
 
 Poggio is a house and electro artist tracked on soundcheck, with 86 sets logged across Amsterdam, Bangkok, Barcelona and Berlin and 16 more. Often billed alongside Gabriel Belabbas, Automatic Writing and E.LINA. Next up: BRET, Amsterdam on Sat 1 Aug.
 
@@ -25,4 +25,4 @@ Poggio is a house and electro artist tracked on soundcheck, with 86 sets logged 
 
 Gabriel Belabbas, Automatic Writing, E.LINA
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/poggio/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/poggio/)*

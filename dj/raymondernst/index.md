@@ -1,6 +1,6 @@
 # Raymond Ernst
 
-Raymond Ernst is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at Club der Visionaere, Berlin on Sat, 1 Aug 2026.
+Raymond Ernst is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at Club der Visionaere, Berlin on Sat, 1 Aug 2026.
 
 Raymond Ernst is a techno and house artist based in Germany, tracked on soundcheck, with 8 sets logged across Berlin and Strasbourg. Often billed alongside Jackbox, S-max and Gebrüder Teichmann. Next up: Club der Visionaere, Berlin on Sat 1 Aug.
 
@@ -24,4 +24,4 @@ Raymond Ernst is a techno and house artist based in Germany, tracked on soundche
 
 Jackbox, S-max, Gebrüder Teichmann
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/raymondernst/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/raymondernst/)*

@@ -1,6 +1,6 @@
 # Gemcamp
 
-Gemcamp is a Drum & Bass and Breakbeat artist with 4 upcoming club dates listed on soundcheck as of Thu, 30 Jul 2026, next at A38, Budapest on Fri, 31 Jul 2026.
+Gemcamp is a Drum & Bass and Breakbeat artist with 4 upcoming club dates listed on soundcheck as of Fri, 31 Jul 2026, next at A38, Budapest on Fri, 31 Jul 2026.
 
 Gemcamp is a drum & bass and breakbeat artist based in Hungary, tracked on soundcheck, with 22 sets logged across Budapest. Often billed alongside baeker, quera and Alix Perez. Next up: A38, Budapest on Fri 31 Jul.
 
@@ -28,4 +28,4 @@ Gemcamp is a drum & bass and breakbeat artist based in Hungary, tracked on sound
 
 baeker, quera, Alix Perez
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/gemcamp/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/gemcamp/)*

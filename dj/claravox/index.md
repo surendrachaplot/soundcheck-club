@@ -1,6 +1,6 @@
 # Clara Vox
 
-Clara Vox is a Progressive House and Deep House artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at Basing House, London on Fri, 11 Sept 2026.
+Clara Vox is a Progressive House and Deep House artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at Basing House, London on Fri, 11 Sept 2026.
 
 Clara Vox is a progressive house and deep house artist tracked on soundcheck, with 4 sets logged across London. Often billed alongside 10:35, AALEX and Adela. Next up: Basing House, London on Fri 11 Sept.
 
@@ -20,4 +20,4 @@ Clara Vox is a progressive house and deep house artist tracked on soundcheck, wi
 
 10:35, AALEX, Adela
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/claravox/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/claravox/)*

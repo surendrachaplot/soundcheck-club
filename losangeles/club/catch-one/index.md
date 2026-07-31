@@ -1,6 +1,6 @@
 # Catch One
 
-Catch One is a music venue in Los Angeles with 6 upcoming nights listed on soundcheck as of Thu, 30 Jul 2026; the next is "Das Bunker's Summer Massive" on Sat, 1 Aug 2026.
+Catch One is a music venue in Los Angeles with 6 upcoming nights listed on soundcheck as of Fri, 31 Jul 2026; the next is "Das Bunker's Summer Massive" on Sat, 1 Aug 2026.
 
 Catch One is a music venue in Losangeles listed on soundcheck. 6 upcoming nights, with line-ups including Club Drippy, Franz & Shape, mimi cry and Pixel Grip. Browse upcoming dates, start times and who's playing. 4067 W Pico Blvd, Los Angeles, CA 90019.
 
@@ -19,4 +19,4 @@ Catch One is a music venue in Losangeles listed on soundcheck. 6 upcoming nights
 
 4067 W Pico Blvd, Los Angeles, CA 90019, Los Angeles
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/losangeles/club/catch-one/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/losangeles/club/catch-one/)*

@@ -1,6 +1,6 @@
 # Freetech
 
-Freetech is a Techno and Psytrance artist with 2 upcoming club dates listed on soundcheck as of Thu, 30 Jul 2026, next at TBA, London on Sat, 1 Aug 2026.
+Freetech is a Techno and Psytrance artist with 2 upcoming club dates listed on soundcheck as of Fri, 31 Jul 2026, next at TBA, London on Sat, 1 Aug 2026.
 
 Freetech is a techno and psytrance artist tracked on soundcheck, with 15 sets logged across London, Manchester and Paris. Often billed alongside Wired, Kling and Micro Bites. Next up: TBA, London on Sat 1 Aug.
 
@@ -26,4 +26,4 @@ Freetech is a techno and psytrance artist tracked on soundcheck, with 15 sets lo
 
 Wired, Kling, Micro Bites
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/freetech/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/freetech/)*

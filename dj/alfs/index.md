@@ -1,6 +1,6 @@
 # alfs
 
-alfs is a Drum & Bass and Electronica artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at The Chapel Angel Microbrewery, Nottingham on Thu, 20 Aug 2026.
+alfs is a Drum & Bass and Electronica artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at The Chapel Angel Microbrewery, Nottingham on Thu, 20 Aug 2026.
 
 alfs is a drum & bass and electronica artist tracked on soundcheck, with 11 sets logged across Berlin, London, Manchester and Newcastle and 1 more. Often billed alongside Cellar (2), AFEX and Acolyte. Next up: The Chapel Angel Microbrewery, Nottingham on Thu 20 Aug.
 
@@ -25,4 +25,4 @@ alfs is a drum & bass and electronica artist tracked on soundcheck, with 11 sets
 
 Cellar (2), AFEX, Acolyte
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/alfs/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/alfs/)*

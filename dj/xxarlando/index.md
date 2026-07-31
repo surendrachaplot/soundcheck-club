@@ -1,13 +1,14 @@
 # xxarlando
 
-xxarlando is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at The Gutter, New York City on Sat, 29 Aug 2026.
+xxarlando is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Fri, 31 Jul 2026, next at Bossa Nova Civic Club, New York City on Sat, 1 Aug 2026.
 
-xxarlando is a techno and house artist based in United States of America, tracked on soundcheck, with 11 sets logged across Newyorkcity. Often billed alongside Ben Zo, cruz ctrl and STEEN. Next up: The Gutter, Newyorkcity on Sat 29 Aug.
+xxarlando is a techno and house artist based in United States of America, tracked on soundcheck, with 12 sets logged across Newyorkcity. Often billed alongside Ben Zo, cruz ctrl and STEEN. Next up: Bossa Nova Civic Club, Newyorkcity on Sat 1 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 1 Aug 2026 | Bossa Nova Civic Club | New York City |
 | Sat, 29 Aug 2026 | The Gutter | New York City |
 
 ## Recently played
@@ -25,4 +26,4 @@ xxarlando is a techno and house artist based in United States of America, tracke
 
 Ben Zo, cruz ctrl, STEEN
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/xxarlando/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/xxarlando/)*

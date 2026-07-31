@@ -1,6 +1,6 @@
 # DJ Flash
 
-DJ Flash is a Electronica artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at Golden Pudel Club, Hamburg on Sat, 1 Aug 2026.
+DJ Flash is a Electronica artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at Golden Pudel Club, Hamburg on Sat, 1 Aug 2026.
 
 DJ Flash is an electronica artist based in United Kingdom, tracked on soundcheck, with 8 sets logged across Hamburg and Mexicocity. Often billed alongside DJ SOURCE, Venen and Atomlui. Next up: Golden Pudel Club, Hamburg on Sat 1 Aug.
 
@@ -24,4 +24,4 @@ DJ Flash is an electronica artist based in United Kingdom, tracked on soundcheck
 
 DJ SOURCE, Venen, Atomlui
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/djflash/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/djflash/)*

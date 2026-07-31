@@ -1,6 +1,6 @@
 # Leonid K
 
-Leonid K is a Progressive House and Deep House artist with 2 upcoming club dates listed on soundcheck as of Thu, 30 Jul 2026, next at The Purple Owl, London on Sun, 2 Aug 2026.
+Leonid K is a Progressive House and Deep House artist with 2 upcoming club dates listed on soundcheck as of Fri, 31 Jul 2026, next at The Purple Owl, London on Sun, 2 Aug 2026.
 
 Leonid K is a progressive house and deep house artist tracked on soundcheck, with 6 sets logged across London. Often billed alongside Simon Shehata, Alythia Kwan and Arterapsy. Next up: The Purple Owl, London on Sun 2 Aug.
 
@@ -22,4 +22,4 @@ Leonid K is a progressive house and deep house artist tracked on soundcheck, wit
 
 Simon Shehata, Alythia Kwan, Arterapsy
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/leonidk/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/leonidk/)*

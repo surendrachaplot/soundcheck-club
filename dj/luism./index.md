@@ -1,6 +1,6 @@
 # Luis M.
 
-Luis M. is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at Tapada da Ajuda, Lisbon on Sat, 29 Aug 2026.
+Luis M. is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at Tapada da Ajuda, Lisbon on Sat, 29 Aug 2026.
 
 Luis M. is a house and techno artist based in United States of America, tracked on soundcheck, with 2 sets logged across Lisbon and Losangeles. Often billed alongside Ale De Tuglie, Analodjica and Booka Shade. Next up: Tapada da Ajuda, Lisbon on Sat 29 Aug.
 
@@ -18,4 +18,4 @@ Luis M. is a house and techno artist based in United States of America, tracked 
 
 Ale De Tuglie, Analodjica, Booka Shade
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/luism./)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/luism./)*

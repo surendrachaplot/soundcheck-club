@@ -1,6 +1,6 @@
 # Slam
 
-Slam is a Techno and Dub Techno artist with 7 upcoming club dates listed on soundcheck as of Thu, 30 Jul 2026, next at The Old Fruitmarket, Glasgow on Sat, 1 Aug 2026.
+Slam is a Techno and Dub Techno artist with 7 upcoming club dates listed on soundcheck as of Fri, 31 Jul 2026, next at The Old Fruitmarket, Glasgow on Sat, 1 Aug 2026.
 
 Slam is a techno and dub techno artist tracked on soundcheck, with 132 sets logged across Aberdeen, Barcelona, Belfast and Berlin and 28 more. Often billed alongside KAAI, Kairogen and Nightwave. Next up: The Old Fruitmarket, Glasgow on Sat 1 Aug.
 
@@ -31,4 +31,4 @@ Slam is a techno and dub techno artist tracked on soundcheck, with 132 sets logg
 
 KAAI, Kairogen, Nightwave
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/slam/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/slam/)*

@@ -1,8 +1,8 @@
 # JUNO (DE)
 
-JUNO (DE) is a Afro House and House artist with 3 upcoming club dates listed on soundcheck as of Thu, 30 Jul 2026, next at Museum Angewandte Kunst, Frankfurt on Sat, 1 Aug 2026.
+JUNO (DE) is a Afro House and House artist with 4 upcoming club dates listed on soundcheck as of Fri, 31 Jul 2026, next at Museum Angewandte Kunst, Frankfurt on Sat, 1 Aug 2026.
 
-JUNO (DE) is an afro house and house artist based in Germany, tracked on soundcheck, with 17 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 9 more. Often billed alongside AJNA, Nitefreak and Van Zand. Next up: Museum Angewandte Kunst, Frankfurt on Sat 1 Aug.
+JUNO (DE) is an afro house and house artist based in Germany, tracked on soundcheck, with 18 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 10 more. Often billed alongside AJNA, Nitefreak and Van Zand. Next up: Museum Angewandte Kunst, Frankfurt on Sat 1 Aug.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ JUNO (DE) is an afro house and house artist based in Germany, tracked on soundch
 | --- | --- | --- |
 | Sat, 1 Aug 2026 | Museum Angewandte Kunst | Frankfurt |
 | Sat, 29 Aug 2026 | DSTRKT Club Berlin | Berlin |
+| Fri, 9 Oct 2026 | 99 Scott Ave | New York City |
 | Sat, 24 Oct 2026 | Afas Live | Amsterdam |
 
 ## Recently played
@@ -27,4 +28,4 @@ JUNO (DE) is an afro house and house artist based in Germany, tracked on soundch
 
 AJNA, Nitefreak, Van Zand
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/junode/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/junode/)*

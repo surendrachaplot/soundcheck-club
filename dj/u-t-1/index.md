@@ -1,6 +1,6 @@
 # U-T
 
-U-T is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Thu, 30 Jul 2026, next at Modeci, Seoul on Fri, 31 Jul 2026.
+U-T is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Fri, 31 Jul 2026, next at Modeci, Seoul on Fri, 31 Jul 2026.
 
 U-T is a house and techno artist based in Japan, tracked on soundcheck, with 69 sets logged across Kyoto, Seoul and Tokyo. Often billed alongside AMANE, Gonno and Kenjamode. Next up: Modeci, Seoul on Fri 31 Jul.
 
@@ -26,4 +26,4 @@ U-T is a house and techno artist based in Japan, tracked on soundcheck, with 69 
 
 AMANE, Gonno, Kenjamode
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/u-t-1/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/u-t-1/)*

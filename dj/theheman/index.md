@@ -1,6 +1,6 @@
 # The Heman
 
-The Heman is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at 宀 Club, Hong Kong on Sat, 1 Aug 2026.
+The Heman is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at 宀 Club, Hong Kong on Sat, 1 Aug 2026.
 
 The Heman is a house and techno artist based in China, tracked on soundcheck, with 44 sets logged across Hongkong. Often billed alongside Andy-S, JayMe and AngeliKa. Next up: 宀 Club, Hongkong on Sat 1 Aug.
 
@@ -25,4 +25,4 @@ The Heman is a house and techno artist based in China, tracked on soundcheck, wi
 
 Andy-S, JayMe, AngeliKa
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/theheman/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/theheman/)*

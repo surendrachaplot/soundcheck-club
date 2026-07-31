@@ -1,6 +1,6 @@
 # TBA - Backstage - Carrer Casp, 33
 
-TBA - Backstage - Carrer Casp, 33 is a music venue in Barcelona with 6 upcoming nights listed on soundcheck as of Thu, 30 Jul 2026; the next is "Backstage with FEDO" on Fri, 31 Jul 2026.
+TBA - Backstage - Carrer Casp, 33 is a music venue in Barcelona with 6 upcoming nights listed on soundcheck as of Fri, 31 Jul 2026; the next is "Backstage with FEDO" on Fri, 31 Jul 2026.
 
 TBA - Backstage - Carrer Casp, 33 is a music venue in Barcelona listed on soundcheck. 6 upcoming nights, with line-ups including Fedo (UA), Freak The Disco, Lisandro Mustapic and Nemec and 2 more. Browse upcoming dates, start times and who's playing.
 
@@ -15,4 +15,4 @@ TBA - Backstage - Carrer Casp, 33 is a music venue in Barcelona listed on soundc
 | Fri, 7 Aug 2026 | Backstage pres. NOFEX | NOFEX |
 | Sat, 8 Aug 2026 | Backstage with Vennegur | Vennegur |
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/tba-backstage-carrer-casp-33/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/tba-backstage-carrer-casp-33/)*

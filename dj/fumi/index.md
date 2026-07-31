@@ -1,8 +1,8 @@
 # FUMI
 
-FUMI is a Techno and Industrial artist with 9 upcoming club dates listed on soundcheck as of Thu, 30 Jul 2026, next at TBA - Paradies Garten Festival - Schloß Prugg 2, 2460 Gemeinde Bruck an der Leitha, Vienna on Fri, 31 Jul 2026.
+FUMI is a Techno and Industrial artist with 10 upcoming club dates listed on soundcheck as of Fri, 31 Jul 2026, next at TBA - Paradies Garten Festival - Schloß Prugg 2, 2460 Gemeinde Bruck an der Leitha, Vienna on Fri, 31 Jul 2026.
 
-FUMI is a techno and industrial artist tracked on soundcheck, with 93 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 26 more. Often billed alongside EVE (1), Monk000 and Adrian Mills. Next up: TBA - Paradies Garten Festival - Schloß Prugg 2, 2460 Gemeinde Bruck an der Leitha, Vienna on Fri 31 Jul.
+FUMI is a techno and industrial artist tracked on soundcheck, with 94 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 26 more. Often billed alongside EVE (1), Monk000 and Adrian Mills. Next up: TBA - Paradies Garten Festival - Schloß Prugg 2, 2460 Gemeinde Bruck an der Leitha, Vienna on Fri 31 Jul.
 
 ## Upcoming shows
 
@@ -17,6 +17,7 @@ FUMI is a techno and industrial artist tracked on soundcheck, with 93 sets logge
 | Fri, 28 Aug 2026 | Dürener Badesee | Cologne |
 | Tue, 1 Sept 2026 | Eden | Ibiza |
 | Sat, 26 Sept 2026 | Theata | London |
+| Fri, 16 Oct 2026 | Arzenal | Budapest |
 
 ## Recently played
 
@@ -33,4 +34,4 @@ FUMI is a techno and industrial artist tracked on soundcheck, with 93 sets logge
 
 EVE (1), Monk000, Adrian Mills
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/fumi/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/fumi/)*

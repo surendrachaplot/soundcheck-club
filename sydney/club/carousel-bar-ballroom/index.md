@@ -1,6 +1,6 @@
 # Carousel Bar & Ballroom
 
-Carousel Bar & Ballroom is a music venue in Sydney with 10 upcoming nights listed on soundcheck as of Thu, 30 Jul 2026; the next is "★ S.A.S.H Sydney ★ Kerry Wallace ★ Saturday 1st August ★" on Sat, 1 Aug 2026.
+Carousel Bar & Ballroom is a music venue in Sydney with 10 upcoming nights listed on soundcheck as of Fri, 31 Jul 2026; the next is "★ S.A.S.H Sydney ★ Kerry Wallace ★ Saturday 1st August ★" on Sat, 1 Aug 2026.
 
 Carousel Bar & Ballroom is a music venue in Sydney listed on soundcheck. 10 upcoming nights, with line-ups including Kerry Wallace, KiNK and Pistaccio. Browse upcoming dates, start times and who's playing. Level 2, 169 Oxford Street, Darlinghurst, NSW, 2000.
 
@@ -23,4 +23,4 @@ Carousel Bar & Ballroom is a music venue in Sydney listed on soundcheck. 10 upco
 
 Level 2, 169 Oxford Street, Darlinghurst, NSW, 2000, Sydney
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/sydney/club/carousel-bar-ballroom/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/sydney/club/carousel-bar-ballroom/)*

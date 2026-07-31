@@ -1,6 +1,6 @@
 # Iori Wakasa
 
-Iori Wakasa is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at Kagurane, Tokyo on Sat, 1 Aug 2026.
+Iori Wakasa is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at Kagurane, Tokyo on Sat, 1 Aug 2026.
 
 Iori Wakasa is a house and techno artist based in Japan, tracked on soundcheck, with 41 sets logged across Seoul and Tokyo. Often billed alongside Sunga, Ko Umehara and Yo Nishijima. Next up: Kagurane, Tokyo on Sat 1 Aug.
 
@@ -25,4 +25,4 @@ Iori Wakasa is a house and techno artist based in Japan, tracked on soundcheck, 
 
 Sunga, Ko Umehara, Yo Nishijima
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/ioriwakasa/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/ioriwakasa/)*

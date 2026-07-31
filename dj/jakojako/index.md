@@ -1,8 +1,8 @@
 # JakoJako
 
-JakoJako is a Techno and House artist with 11 upcoming club dates listed on soundcheck as of Thu, 30 Jul 2026, next at Fvtvr, Paris on Fri, 31 Jul 2026.
+JakoJako is a Techno and House artist with 12 upcoming club dates listed on soundcheck as of Fri, 31 Jul 2026, next at Fvtvr, Paris on Fri, 31 Jul 2026.
 
-JakoJako is a techno and house artist tracked on soundcheck, with 155 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 35 more. Often billed alongside Barker, Rødhåd and Fadi Mohem. Next up: Fvtvr, Paris on Fri 31 Jul.
+JakoJako is a techno and house artist tracked on soundcheck, with 156 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 35 more. Often billed alongside Barker, Rødhåd and Fadi Mohem. Next up: Fvtvr, Paris on Fri 31 Jul.
 
 ## Upcoming shows
 
@@ -11,6 +11,7 @@ JakoJako is a techno and house artist tracked on soundcheck, with 155 sets logge
 | Fri, 31 Jul 2026 | Fvtvr | Paris |
 | Sat, 1 Aug 2026 | Amsterdamse Bos | Amsterdam |
 | Thu, 6 Aug 2026 | Klangtherapie | Nürnberg |
+| Thu, 6 Aug 2026 | Silent Green | Berlin |
 | Thu, 6 Aug 2026 | Silent Green | Berlin |
 | Sat, 8 Aug 2026 | Berghain / Panorama Bar / Säule | Berlin |
 | Sat, 15 Aug 2026 | Lofi | Amsterdam |
@@ -35,4 +36,4 @@ JakoJako is a techno and house artist tracked on soundcheck, with 155 sets logge
 
 Barker, Rødhåd, Fadi Mohem
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/jakojako/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/jakojako/)*

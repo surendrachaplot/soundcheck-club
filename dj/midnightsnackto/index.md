@@ -1,6 +1,6 @@
 # Midnight Snack (TO)
 
-Midnight Snack (TO) is a Techno and Hardcore artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at TBA - Toronto outdoor location- info sent via email, on the 1st after 4pm, Toronto on Sat, 1 Aug 2026.
+Midnight Snack (TO) is a Techno and Hardcore artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at TBA - Toronto outdoor location- info sent via email, on the 1st after 4pm, Toronto on Sat, 1 Aug 2026.
 
 Midnight Snack (TO) is a techno and hardcore artist based in Canada, tracked on soundcheck, with 8 sets logged across Toronto. Often billed alongside Audi Étoffe, Pauliexoxoxo and MOTH SHANNON. Next up: TBA - Toronto outdoor location- info sent via email, on the 1st after 4pm, Toronto on Sat 1 Aug.
 
@@ -24,4 +24,4 @@ Midnight Snack (TO) is a techno and hardcore artist based in Canada, tracked on 
 
 Audi Étoffe, Pauliexoxoxo, MOTH SHANNON
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/midnightsnackto/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/midnightsnackto/)*

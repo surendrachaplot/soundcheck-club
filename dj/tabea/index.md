@@ -1,6 +1,6 @@
 # tabea
 
-tabea is a Techno and Hardcore artist with 2 upcoming club dates listed on soundcheck as of Thu, 30 Jul 2026, next at Domicile, Miami on Fri, 7 Aug 2026.
+tabea is a Techno and Hardcore artist with 2 upcoming club dates listed on soundcheck as of Fri, 31 Jul 2026, next at Domicile, Miami on Fri, 7 Aug 2026.
 
 tabea is a techno and hardcore artist based in Germany, tracked on soundcheck, with 6 sets logged across Berlin, Hamburg and Miami. Often billed alongside Jay Toledo, MD Lovecraft and ANTICHRIS. Next up: Domicile, Miami on Fri 7 Aug.
 
@@ -22,4 +22,4 @@ tabea is a techno and hardcore artist based in Germany, tracked on soundcheck, w
 
 Jay Toledo, MD Lovecraft, ANTICHRIS
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/tabea/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/tabea/)*

@@ -1,6 +1,6 @@
 # Santa Cruz
 
-Santa Cruz is a House and Progressive House artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at Sigma, Ibiza on Fri, 31 Jul 2026.
+Santa Cruz is a House and Progressive House artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at Sigma, Ibiza on Fri, 31 Jul 2026.
 
 Santa Cruz is a house and progressive house artist based in Uruguay, tracked on soundcheck, with 8 sets logged across Ibiza, Madrid, Mexicocity and Miami. Often billed alongside Bryan Peroni, Anabel Arroyo and Enrico Vergo. Next up: Sigma, Ibiza on Fri 31 Jul.
 
@@ -24,4 +24,4 @@ Santa Cruz is a house and progressive house artist based in Uruguay, tracked on 
 
 Bryan Peroni, Anabel Arroyo, Enrico Vergo
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/santacruz/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/santacruz/)*

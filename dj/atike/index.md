@@ -1,6 +1,6 @@
 # Atiké
 
-Atiké is a Baile Funk and Reggaeton artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at Soup, Manchester on Fri, 28 Aug 2026.
+Atiké is a Baile Funk and Reggaeton artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at Soup, Manchester on Fri, 28 Aug 2026.
 
 Atiké is a baile funk and reggaeton artist tracked on soundcheck, with 65 sets logged across London, Manchester and Sheffield. Often billed alongside Obeka, Zuri and atalaya. Next up: Soup, Manchester on Fri 28 Aug.
 
@@ -25,4 +25,4 @@ Atiké is a baile funk and reggaeton artist tracked on soundcheck, with 65 sets 
 
 Obeka, Zuri, atalaya
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/atike/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/atike/)*

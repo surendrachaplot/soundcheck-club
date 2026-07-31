@@ -1,6 +1,6 @@
 # Gabriel Etrata
 
-Gabriel Etrata is a House and Hip-Hop artist with 2 upcoming club dates listed on soundcheck as of Thu, 30 Jul 2026, next at Jupiter Disco, New York City on Sat, 1 Aug 2026.
+Gabriel Etrata is a House and Hip-Hop artist with 2 upcoming club dates listed on soundcheck as of Fri, 31 Jul 2026, next at Jupiter Disco, New York City on Sat, 1 Aug 2026.
 
 Gabriel Etrata is a house and hip-hop artist based in United States of America, tracked on soundcheck, with 25 sets logged across Detroit and Newyorkcity. Often billed alongside LANSUH, Jay Dalawa and Alcantara. Next up: Jupiter Disco, Newyorkcity on Sat 1 Aug.
 
@@ -26,4 +26,4 @@ Gabriel Etrata is a house and hip-hop artist based in United States of America, 
 
 LANSUH, Jay Dalawa, Alcantara
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/gabrieletrata/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/gabrieletrata/)*

@@ -1,6 +1,6 @@
 # Hogi
 
-Hogi is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at Kockiri, Seoul on Sat, 1 Aug 2026.
+Hogi is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at Kockiri, Seoul on Sat, 1 Aug 2026.
 
 Hogi is a house and disco artist based in Indonesia, tracked on soundcheck, with 30 sets logged across Bali and Seoul. Often billed alongside Hender, Hyerang and Bolm. Next up: Kockiri, Seoul on Sat 1 Aug.
 
@@ -25,4 +25,4 @@ Hogi is a house and disco artist based in Indonesia, tracked on soundcheck, with
 
 Hender, Hyerang, Bolm
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/hogi/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/hogi/)*

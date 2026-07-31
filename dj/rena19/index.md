@@ -1,6 +1,6 @@
 # Rena19
 
-Rena19 is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at Cube, Tokyo on Fri, 31 Jul 2026.
+Rena19 is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at Cube, Tokyo on Fri, 31 Jul 2026.
 
 Rena19 is a house and techno artist based in Japan, tracked on soundcheck, with 73 sets logged across Tokyo. Often billed alongside Chrumi, Yoshiki Aoyama and Blue Flower. Next up: Cube, Tokyo on Fri 31 Jul.
 
@@ -25,4 +25,4 @@ Rena19 is a house and techno artist based in Japan, tracked on soundcheck, with 
 
 Chrumi, Yoshiki Aoyama, Blue Flower
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/rena19/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/rena19/)*

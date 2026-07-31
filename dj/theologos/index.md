@@ -1,13 +1,14 @@
 # Theologos
 
-Theologos is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at Zürich - Various Venues, Zurich on Mon, 3 Aug 2026.
+Theologos is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Fri, 31 Jul 2026, next at Zürich - Various Venues, Zurich on Mon, 3 Aug 2026.
 
-Theologos is a techno and house artist based in Germany, tracked on soundcheck, with 27 sets logged across Amsterdam, Barcelona, Berlin and Copenhagen and 3 more. Often billed alongside SKALA, Dirty Doering and ELIF. Next up: Zürich - Various Venues, Zurich on Mon 3 Aug.
+Theologos is a techno and house artist based in Germany, tracked on soundcheck, with 28 sets logged across Amsterdam, Barcelona, Berlin and Copenhagen and 3 more. Often billed alongside SKALA, Dirty Doering and ELIF. Next up: Zürich - Various Venues, Zurich on Mon 3 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Mon, 3 Aug 2026 | Zürich - Various Venues | Zurich |
 | Mon, 3 Aug 2026 | Zürich - Various Venues | Zurich |
 
 ## Recently played
@@ -25,4 +26,4 @@ Theologos is a techno and house artist based in Germany, tracked on soundcheck, 
 
 SKALA, Dirty Doering, ELIF
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/theologos/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/theologos/)*

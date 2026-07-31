@@ -1,6 +1,6 @@
 # Meduzah
 
-Meduzah is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at Aether Club Budapest, Budapest on Sat, 1 Aug 2026.
+Meduzah is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at Aether Club Budapest, Budapest on Sat, 1 Aug 2026.
 
 Meduzah is a techno and house artist based in Hungary, tracked on soundcheck, with 72 sets logged across Budapest. Often billed alongside Kiqo, klpflrtpr and Rozalina. Next up: Aether Club Budapest, Budapest on Sat 1 Aug.
 
@@ -25,4 +25,4 @@ Meduzah is a techno and house artist based in Hungary, tracked on soundcheck, wi
 
 Kiqo, klpflrtpr, Rozalina
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/meduzah/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/meduzah/)*

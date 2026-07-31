@@ -1,6 +1,6 @@
 # Mark Landragin
 
-Mark Landragin is a Trance and Progressive House artist with 2 upcoming club dates listed on soundcheck as of Thu, 30 Jul 2026, next at The Dutch Master, London on Sat, 1 Aug 2026.
+Mark Landragin is a Trance and Progressive House artist with 2 upcoming club dates listed on soundcheck as of Fri, 31 Jul 2026, next at The Dutch Master, London on Sat, 1 Aug 2026.
 
 Mark Landragin is a trance and progressive house artist based in United Kingdom, tracked on soundcheck, with 22 sets logged across London, Manchester and Sheffield. Often billed alongside Dave Pearce, Allen Watts and Andrew Sharpe. Next up: The Dutch Master, London on Sat 1 Aug.
 
@@ -26,4 +26,4 @@ Mark Landragin is a trance and progressive house artist based in United Kingdom,
 
 Dave Pearce, Allen Watts, Andrew Sharpe
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/marklandragin/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/marklandragin/)*

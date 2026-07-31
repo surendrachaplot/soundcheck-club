@@ -1,6 +1,6 @@
 # Henry Wilson
 
-Henry Wilson is a Experimental and Electro artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at Mayhem, Copenhagen on Fri, 14 Aug 2026.
+Henry Wilson is a Experimental and Electro artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at Mayhem, Copenhagen on Fri, 14 Aug 2026.
 
 Henry Wilson is an experimental and electro artist based in United Kingdom, tracked on soundcheck, with 4 sets logged across Copenhagen and Newcastle. Often billed alongside FroD and Neo (8). Next up: Mayhem, Copenhagen on Fri 14 Aug.
 
@@ -20,4 +20,4 @@ Henry Wilson is an experimental and electro artist based in United Kingdom, trac
 
 FroD, Neo (8)
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/henrywilson/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/henrywilson/)*

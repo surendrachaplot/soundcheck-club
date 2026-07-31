@@ -1,6 +1,6 @@
 # akii
 
-akii is a Bass and Dub artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at Azumaya, Tokyo on Sat, 1 Aug 2026.
+akii is a Bass and Dub artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at Azumaya, Tokyo on Sat, 1 Aug 2026.
 
 akii is a bass and dub artist tracked on soundcheck, with 49 sets logged across Berlin and Tokyo. Often billed alongside M.I.O, Aliceyuki and MUNÉO. Next up: Azumaya, Tokyo on Sat 1 Aug.
 
@@ -25,4 +25,4 @@ akii is a bass and dub artist tracked on soundcheck, with 49 sets logged across 
 
 M.I.O, Aliceyuki, MUNÉO
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/akii/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/akii/)*

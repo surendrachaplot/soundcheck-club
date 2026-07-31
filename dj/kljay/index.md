@@ -1,6 +1,6 @@
 # KL Jay
 
-KL Jay is a Hip-Hop and Afrobeat artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at TBA - Alameda Barros, 376 - Santa Cecilia, São Paulo - SP, 01232-000, Brasil, Sao Paulo on Fri, 31 Jul 2026.
+KL Jay is a Hip-Hop and Afrobeat artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at TBA - Alameda Barros, 376 - Santa Cecilia, São Paulo - SP, 01232-000, Brasil, Sao Paulo on Fri, 31 Jul 2026.
 
 KL Jay is a hip-hop and afrobeat artist based in Brazil, tracked on soundcheck, with 12 sets logged across Saopaulo. Often billed alongside DJ Nuts, Lys Ventura and Zegon. Next up: TBA - Alameda Barros, 376 - Santa Cecilia, São Paulo - SP, 01232-000, Brasil, Saopaulo on Fri 31 Jul.
 
@@ -25,4 +25,4 @@ KL Jay is a hip-hop and afrobeat artist based in Brazil, tracked on soundcheck, 
 
 DJ Nuts, Lys Ventura, Zegon
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/kljay/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/kljay/)*

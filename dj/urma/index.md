@@ -1,6 +1,6 @@
 # Urma
 
-Urma is a Garage and Jungle artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at Stage and Radio, Manchester on Sat, 1 Aug 2026.
+Urma is a Garage and Jungle artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at Stage and Radio, Manchester on Sat, 1 Aug 2026.
 
 Urma is a garage and jungle artist based in United Kingdom, tracked on soundcheck, with 32 sets logged across London, Manchester and Mexicocity. Often billed alongside BHV2099, J Bentley and Sam Jiro. Next up: Stage and Radio, Manchester on Sat 1 Aug.
 
@@ -25,4 +25,4 @@ Urma is a garage and jungle artist based in United Kingdom, tracked on soundchec
 
 BHV2099, J Bentley, Sam Jiro
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/urma/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/urma/)*

@@ -1,6 +1,6 @@
 # Arque
 
-Arque is a Electronica artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at Collect LX Factory, Lisbon on Thu, 6 Aug 2026.
+Arque is a Electronica artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at Collect LX Factory, Lisbon on Thu, 6 Aug 2026.
 
 Arque is an electronica artist based in Spain, tracked on soundcheck, with 11 sets logged across Barcelona, Lisbon and Madrid. Often billed alongside Certain People, Fuentes-Guerra and SYSTEMA. Next up: Collect LX Factory, Lisbon on Thu 6 Aug.
 
@@ -25,4 +25,4 @@ Arque is an electronica artist based in Spain, tracked on soundcheck, with 11 se
 
 Certain People, Fuentes-Guerra, SYSTEMA
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/arque/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/arque/)*

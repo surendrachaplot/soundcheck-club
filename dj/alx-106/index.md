@@ -1,6 +1,6 @@
 # ALX-106
 
-ALX-106 is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Thu, 30 Jul 2026, next at TBA - Denver, Denver on Fri, 31 Jul 2026.
+ALX-106 is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Fri, 31 Jul 2026, next at TBA - Denver, Denver on Fri, 31 Jul 2026.
 
 ALX-106 is a techno and house artist based in United States of America, tracked on soundcheck, with 21 sets logged across Amsterdam, Berlin, Bristol and Chicago and 5 more. Often billed alongside Trovarsi, SURCO and Cuckoo. Next up: TBA - Denver, Denver on Fri 31 Jul.
 
@@ -26,4 +26,4 @@ ALX-106 is a techno and house artist based in United States of America, tracked 
 
 Trovarsi, SURCO, Cuckoo
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/alx-106/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/alx-106/)*

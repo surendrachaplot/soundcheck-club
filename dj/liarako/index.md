@@ -1,6 +1,6 @@
 # LiaRako
 
-LiaRako is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at VENT, Tokyo on Fri, 7 Aug 2026.
+LiaRako is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at VENT, Tokyo on Fri, 7 Aug 2026.
 
 LiaRako is a techno and house artist tracked on soundcheck, with 102 sets logged across Tokyo. Often billed alongside WAKA XINXI, Hackmarkt and AiMii. Next up: VENT, Tokyo on Fri 7 Aug.
 
@@ -25,4 +25,4 @@ LiaRako is a techno and house artist tracked on soundcheck, with 102 sets logged
 
 WAKA XINXI, Hackmarkt, AiMii
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/liarako/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/liarako/)*

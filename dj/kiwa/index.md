@@ -1,6 +1,6 @@
 # Kiwa
 
-Kiwa is a House and Electro artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at TBA - Club V (Av.Corrientes 5008, Villa Crespo, CABA), Buenos Aires on Fri, 31 Jul 2026.
+Kiwa is a House and Electro artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at TBA - Club V (Av.Corrientes 5008, Villa Crespo, CABA), Buenos Aires on Fri, 31 Jul 2026.
 
 Kiwa is a house and electro artist based in Argentina, tracked on soundcheck, with 4 sets logged across Buenosaires and Saopaulo. Often billed alongside Berger Muzik, Dj Melted and Light Blue File. Next up: TBA - Club V (Av.Corrientes 5008, Villa Crespo, CABA), Buenosaires on Fri 31 Jul.
 
@@ -20,4 +20,4 @@ Kiwa is a house and electro artist based in Argentina, tracked on soundcheck, wi
 
 Berger Muzik, Dj Melted, Light Blue File
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/kiwa/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/kiwa/)*

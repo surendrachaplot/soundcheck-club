@@ -1,6 +1,6 @@
 # Zoe Azad
 
-Zoe Azad is a Techno and Trance artist with 2 upcoming club dates listed on soundcheck as of Thu, 30 Jul 2026, next at TBA, Manchester on Sat, 1 Aug 2026.
+Zoe Azad is a Techno and Trance artist with 2 upcoming club dates listed on soundcheck as of Fri, 31 Jul 2026, next at TBA, Manchester on Sat, 1 Aug 2026.
 
 Zoe Azad is a techno and trance artist based in United Kingdom, tracked on soundcheck, with 20 sets logged across London and Manchester. Often billed alongside CEEKAY, Incupa97 and This Guy. Next up: TBA, Manchester on Sat 1 Aug.
 
@@ -26,4 +26,4 @@ Zoe Azad is a techno and trance artist based in United Kingdom, tracked on sound
 
 CEEKAY, Incupa97, This Guy
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/zoeazad/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/zoeazad/)*

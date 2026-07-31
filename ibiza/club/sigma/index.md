@@ -1,6 +1,6 @@
 # Sigma
 
-Sigma is a music venue in Ibiza with 7 upcoming nights listed on soundcheck as of Thu, 30 Jul 2026; the next is "The Circle Episode 3 IBIZA" on Fri, 31 Jul 2026.
+Sigma is a music venue in Ibiza with 7 upcoming nights listed on soundcheck as of Fri, 31 Jul 2026; the next is "The Circle Episode 3 IBIZA" on Fri, 31 Jul 2026.
 
 Sigma is a music venue in Ibiza listed on soundcheck. 7 upcoming nights, with line-ups including Anabel Arroyo, DigitalKaos, KLOE and Ko Mu and 2 more. Browse upcoming dates, start times and who's playing. C/ de Carles V, nº 11, local 15, 07800 Ibiza.
 
@@ -20,4 +20,4 @@ Sigma is a music venue in Ibiza listed on soundcheck. 7 upcoming nights, with li
 
 C/ de Carles V, nº 11, local 15, 07800 Ibiza, Ibiza
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/ibiza/club/sigma/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/ibiza/club/sigma/)*

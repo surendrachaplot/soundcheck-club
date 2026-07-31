@@ -1,6 +1,6 @@
 # Zigy
 
-Zigy is a Minimal Techno and Minimal artist with 2 upcoming club dates listed on soundcheck as of Thu, 30 Jul 2026, next at TBA, London on Sat, 1 Aug 2026.
+Zigy is a Minimal Techno and Minimal artist with 2 upcoming club dates listed on soundcheck as of Fri, 31 Jul 2026, next at TBA, London on Sat, 1 Aug 2026.
 
 Zigy is a minimal techno and minimal artist tracked on soundcheck, with 21 sets logged across London and Vienna. Often billed alongside LUUD, Myriam and Stefan Andrei. Next up: TBA, London on Sat 1 Aug.
 
@@ -26,4 +26,4 @@ Zigy is a minimal techno and minimal artist tracked on soundcheck, with 21 sets 
 
 LUUD, Myriam, Stefan Andrei
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/zigy/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/zigy/)*

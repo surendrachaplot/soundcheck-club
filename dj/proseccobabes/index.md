@@ -1,6 +1,6 @@
 # Prosecco Babes
 
-Prosecco Babes is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Thu, 30 Jul 2026, next at Südpol, Hamburg on Sat, 1 Aug 2026.
+Prosecco Babes is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Fri, 31 Jul 2026, next at Südpol, Hamburg on Sat, 1 Aug 2026.
 
 Prosecco Babes is a techno and house artist based in Germany, tracked on soundcheck, with 2 sets logged across Berlin and Hamburg. Often billed alongside DSGNRPSSY, Adri Alibi and Ahni. Next up: Südpol, Hamburg on Sat 1 Aug.
 
@@ -15,4 +15,4 @@ Prosecco Babes is a techno and house artist based in Germany, tracked on soundch
 
 DSGNRPSSY, Adri Alibi, Ahni
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/proseccobabes/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/proseccobabes/)*

@@ -1,6 +1,6 @@
 # James Parker
 
-James Parker is a House and Garage artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at Cadman Cruises, Sydney on Sat, 15 Aug 2026.
+James Parker is a House and Garage artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at Cadman Cruises, Sydney on Sat, 15 Aug 2026.
 
 James Parker is a house and garage artist based in Australia, tracked on soundcheck, with 9 sets logged across Auckland, Brussels and Sydney. Often billed alongside Ozzie Guven, Adam Holt and Anil Aras. Next up: Cadman Cruises, Sydney on Sat 15 Aug.
 
@@ -25,4 +25,4 @@ James Parker is a house and garage artist based in Australia, tracked on soundch
 
 Ozzie Guven, Adam Holt, Anil Aras
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/jamesparker/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/jamesparker/)*

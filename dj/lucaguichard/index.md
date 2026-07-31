@@ -1,6 +1,6 @@
 # Luca Guichard
 
-Luca Guichard is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at Tapada da Ajuda, Lisbon on Sat, 29 Aug 2026.
+Luca Guichard is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at Tapada da Ajuda, Lisbon on Sat, 29 Aug 2026.
 
 Luca Guichard is a techno and house artist based in Portugal, tracked on soundcheck, with 9 sets logged across Lisbon. Often billed alongside Kee_ko, Nebulaee and Ale De Tuglie. Next up: Tapada da Ajuda, Lisbon on Sat 29 Aug.
 
@@ -25,4 +25,4 @@ Luca Guichard is a techno and house artist based in Portugal, tracked on soundch
 
 Kee_ko, Nebulaee, Ale De Tuglie
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/lucaguichard/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/lucaguichard/)*

@@ -1,6 +1,6 @@
 # Ben Vince
 
-Ben Vince is a Experimental and Electronica artist with 2 upcoming club dates listed on soundcheck as of Thu, 30 Jul 2026, next at Spanners, London on Fri, 31 Jul 2026.
+Ben Vince is a Experimental and Electronica artist with 2 upcoming club dates listed on soundcheck as of Fri, 31 Jul 2026, next at Spanners, London on Fri, 31 Jul 2026.
 
 Ben Vince is an experimental and electronica artist tracked on soundcheck, with 19 sets logged across Belgrade, Bristol, Glasgow and Liverpool and 6 more. Often billed alongside Coby Sey, Xterea and Aircode. Next up: Spanners, London on Fri 31 Jul.
 
@@ -26,4 +26,4 @@ Ben Vince is an experimental and electronica artist tracked on soundcheck, with 
 
 Coby Sey, Xterea, Aircode
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/benvince/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/benvince/)*

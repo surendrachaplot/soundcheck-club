@@ -1,6 +1,6 @@
 # Human Movement
 
-Human Movement is a House and Garage artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at Sui Generis, London on Fri, 31 Jul 2026.
+Human Movement is a House and Garage artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at Sui Generis, London on Fri, 31 Jul 2026.
 
 Human Movement is a house and garage artist based in Australia, tracked on soundcheck, with 28 sets logged across Auckland, Berlin, Brisbane and London and 3 more. Often billed alongside Mincy, AHJU and Ari Kiko. Next up: Sui Generis, London on Fri 31 Jul.
 
@@ -25,4 +25,4 @@ Human Movement is a house and garage artist based in Australia, tracked on sound
 
 Mincy, AHJU, Ari Kiko
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/humanmovement/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/humanmovement/)*

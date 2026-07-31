@@ -1,6 +1,6 @@
 # Vinka Wydro
 
-Vinka Wydro is a Techno and Industrial artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at Liquid Club, Malta on Sat, 22 Aug 2026.
+Vinka Wydro is a Techno and Industrial artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at Liquid Club, Malta on Sat, 22 Aug 2026.
 
 Vinka Wydro is a techno and industrial artist based in France, tracked on soundcheck, with 60 sets logged across Amsterdam, Barcelona, Basel and Berlin and 18 more. Often billed alongside Angel Karel, DEBBIE (IT) and LiXaa. Next up: Liquid Club, Malta on Sat 22 Aug.
 
@@ -25,4 +25,4 @@ Vinka Wydro is a techno and industrial artist based in France, tracked on soundc
 
 Angel Karel, DEBBIE (IT), LiXaa
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/vinkawydro/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/vinkawydro/)*

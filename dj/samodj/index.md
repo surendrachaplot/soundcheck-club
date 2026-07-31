@@ -1,6 +1,6 @@
 # Samo DJ
 
-Samo DJ is a Tech House and Deep House artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at TBA, Stockholm on Sat, 1 Aug 2026.
+Samo DJ is a Tech House and Deep House artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at TBA, Stockholm on Sat, 1 Aug 2026.
 
 Samo DJ is a tech house and deep house artist based in Sweden, tracked on soundcheck, with 10 sets logged across Bucharest, Stockholm and Tokyo. Often billed alongside 5ive, Acronym and Basement Space. Next up: TBA, Stockholm on Sat 1 Aug.
 
@@ -25,4 +25,4 @@ Samo DJ is a tech house and deep house artist based in Sweden, tracked on soundc
 
 5ive, Acronym, Basement Space
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/samodj/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/samodj/)*

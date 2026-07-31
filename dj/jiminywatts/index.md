@@ -1,6 +1,6 @@
 # Jiminy Watts
 
-Jiminy Watts is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at Vittoria Wharf Studio, London on Fri, 31 Jul 2026.
+Jiminy Watts is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at Vittoria Wharf Studio, London on Fri, 31 Jul 2026.
 
 Jiminy Watts is a house and techno artist tracked on soundcheck, with 43 sets logged across Brighton, Bristol, London and Manchester. Often billed alongside Jacob Trip, Rolo (2) and Elleinad. Next up: Vittoria Wharf Studio, London on Fri 31 Jul.
 
@@ -25,4 +25,4 @@ Jiminy Watts is a house and techno artist tracked on soundcheck, with 43 sets lo
 
 Jacob Trip, Rolo (2), Elleinad
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/jiminywatts/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/jiminywatts/)*

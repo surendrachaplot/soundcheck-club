@@ -1,6 +1,6 @@
 # Simon Heyliger
 
-Simon Heyliger is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at Apollo Studio, New York City on Sat, 1 Aug 2026.
+Simon Heyliger is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at Apollo Studio, New York City on Sat, 1 Aug 2026.
 
 Simon Heyliger is a house and techno artist tracked on soundcheck, with 62 sets logged across Miami, Newyorkcity and Philadelphia. Often billed alongside Morgan, Kiyoshi and Martín Y Corazón. Next up: Apollo Studio, Newyorkcity on Sat 1 Aug.
 
@@ -25,4 +25,4 @@ Simon Heyliger is a house and techno artist tracked on soundcheck, with 62 sets 
 
 Morgan, Kiyoshi, Martín Y Corazón
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/simonheyliger/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/simonheyliger/)*

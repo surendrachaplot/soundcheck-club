@@ -1,6 +1,6 @@
 # Timmerman
 
-Timmerman is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at TBA - Schwing und Stampf Festival, Zurich on Thu, 27 Aug 2026.
+Timmerman is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at TBA - Schwing und Stampf Festival, Zurich on Thu, 27 Aug 2026.
 
 Timmerman is a house and techno artist tracked on soundcheck, with 33 sets logged across Amsterdam, Antwerp, Brussels and Ghent and 1 more. Often billed alongside Fais Le Beau, Sixsixsixties and Uni Son. Next up: TBA - Schwing und Stampf Festival, Zurich on Thu 27 Aug.
 
@@ -25,4 +25,4 @@ Timmerman is a house and techno artist tracked on soundcheck, with 33 sets logge
 
 Fais Le Beau, Sixsixsixties, Uni Son
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/timmerman/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/timmerman/)*

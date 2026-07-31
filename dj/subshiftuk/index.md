@@ -1,6 +1,6 @@
 # SUBSHIFT (UK)
 
-SUBSHIFT (UK) is a Tech House and House artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at Tantra Bar Ibiza, Ibiza on Fri, 31 Jul 2026.
+SUBSHIFT (UK) is a Tech House and House artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at Tantra Bar Ibiza, Ibiza on Fri, 31 Jul 2026.
 
 SUBSHIFT (UK) is a tech house and house artist based in United Kingdom, tracked on soundcheck, with 5 sets logged across Chicago, Hobart, Ibiza and Losangeles and 1 more. Next up: Tantra Bar Ibiza, Ibiza on Fri 31 Jul.
 
@@ -17,4 +17,4 @@ SUBSHIFT (UK) is a tech house and house artist based in United Kingdom, tracked 
 - Sound-Bar, Chicago — Sat, 7 Mar 2026
 - Twisted Lime, Hobart — Fri, 31 Oct 2025
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/subshiftuk/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/subshiftuk/)*

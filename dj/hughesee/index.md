@@ -1,6 +1,6 @@
 # Hughesee
 
-Hughesee is a Jungle and Hardcore artist with 2 upcoming club dates listed on soundcheck as of Thu, 30 Jul 2026, next at Four Quarters, London on Fri, 14 Aug 2026.
+Hughesee is a Jungle and Hardcore artist with 2 upcoming club dates listed on soundcheck as of Fri, 31 Jul 2026, next at Four Quarters, London on Fri, 14 Aug 2026.
 
 Hughesee is a jungle and hardcore artist based in United Kingdom, tracked on soundcheck, with 104 sets logged across Amsterdam, Berlin, Bristol and Glasgow and 4 more. Often billed alongside Louise Plus One, Equinox (UK) and DJ Azure. Next up: Four Quarters, London on Fri 14 Aug.
 
@@ -26,4 +26,4 @@ Hughesee is a jungle and hardcore artist based in United Kingdom, tracked on sou
 
 Louise Plus One, Equinox (UK), DJ Azure
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/hughesee/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/hughesee/)*

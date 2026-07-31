@@ -1,6 +1,6 @@
 # GiGi FM
 
-GiGi FM is a Techno and House artist with 10 upcoming club dates listed on soundcheck as of Thu, 30 Jul 2026, next at Kilomètre25, Paris on Fri, 31 Jul 2026.
+GiGi FM is a Techno and House artist with 10 upcoming club dates listed on soundcheck as of Fri, 31 Jul 2026, next at Kilomètre25, Paris on Fri, 31 Jul 2026.
 
 GiGi FM is a techno and house artist tracked on soundcheck, with 159 sets logged across Amsterdam, Antwerp, Athens and Bangkok and 47 more. Often billed alongside Altinbas, Polygonia and DVS1. Next up: Kilomètre25, Paris on Fri 31 Jul.
 
@@ -34,4 +34,4 @@ GiGi FM is a techno and house artist tracked on soundcheck, with 159 sets logged
 
 Altinbas, Polygonia, DVS1
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/gigifm/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/gigifm/)*

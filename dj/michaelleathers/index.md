@@ -1,6 +1,6 @@
 # Michael Leathers
 
-Michael Leathers is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at Continental Club, San Francisco/Oakland on Fri, 31 Jul 2026.
+Michael Leathers is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at Continental Club, San Francisco/Oakland on Fri, 31 Jul 2026.
 
 Michael Leathers is a house and techno artist based in United States of America, tracked on soundcheck, with 7 sets logged across Sanfrancisco. Often billed alongside HIDRA, IZZY798 and Ly Pham. Next up: Continental Club, Sanfrancisco on Fri 31 Jul.
 
@@ -23,4 +23,4 @@ Michael Leathers is a house and techno artist based in United States of America,
 
 HIDRA, IZZY798, Ly Pham
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/michaelleathers/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/michaelleathers/)*

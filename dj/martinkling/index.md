@@ -1,6 +1,6 @@
 # Martin Kling
 
-Martin Kling is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at Spice 99, Stockholm on Sat, 1 Aug 2026.
+Martin Kling is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at Spice 99, Stockholm on Sat, 1 Aug 2026.
 
 Martin Kling is a techno and house artist based in Sweden, tracked on soundcheck, with 23 sets logged across Berlin, Copenhagen, Lisbon and Oslo and 1 more. Often billed alongside Majkel, Joel Mull and Maja Korpi. Next up: Spice 99, Stockholm on Sat 1 Aug.
 
@@ -25,4 +25,4 @@ Martin Kling is a techno and house artist based in Sweden, tracked on soundcheck
 
 Majkel, Joel Mull, Maja Korpi
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/martinkling/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/martinkling/)*

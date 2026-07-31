@@ -1,6 +1,6 @@
 # Marky Marbles
 
-Marky Marbles is a UK Funky and Drum & Bass artist with 2 upcoming club dates listed on soundcheck as of Thu, 30 Jul 2026, next at Hillhead Bookclub, Glasgow on Fri, 31 Jul 2026.
+Marky Marbles is a UK Funky and Drum & Bass artist with 2 upcoming club dates listed on soundcheck as of Fri, 31 Jul 2026, next at Hillhead Bookclub, Glasgow on Fri, 31 Jul 2026.
 
 Marky Marbles is an uk funky and drum & bass artist based in United Kingdom, tracked on soundcheck, with 23 sets logged across Edinburgh and Glasgow. Often billed alongside Corran, Temple Sniper and Akintore. Next up: Hillhead Bookclub, Glasgow on Fri 31 Jul.
 
@@ -26,4 +26,4 @@ Marky Marbles is an uk funky and drum & bass artist based in United Kingdom, tra
 
 Corran, Temple Sniper, Akintore
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/markymarbles/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/markymarbles/)*

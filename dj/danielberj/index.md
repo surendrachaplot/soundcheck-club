@@ -1,6 +1,6 @@
 # Daniel Berj
 
-Daniel Berj is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at Spice 99, Stockholm on Fri, 31 Jul 2026.
+Daniel Berj is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at Spice 99, Stockholm on Fri, 31 Jul 2026.
 
 Daniel Berj is a techno and house artist tracked on soundcheck, with 31 sets logged across Berlin, Brussels and Stockholm. Often billed alongside Dj handbag, DJ Hyaluron and Stina Francina. Next up: Spice 99, Stockholm on Fri 31 Jul.
 
@@ -25,4 +25,4 @@ Daniel Berj is a techno and house artist tracked on soundcheck, with 31 sets log
 
 Dj handbag, DJ Hyaluron, Stina Francina
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/danielberj/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/danielberj/)*

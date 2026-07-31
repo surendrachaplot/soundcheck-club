@@ -1,6 +1,6 @@
 # Brian Smith
 
-Brian Smith is a House and Tech House artist with 2 upcoming club dates listed on soundcheck as of Thu, 30 Jul 2026, next at 93 Feet East, London on Sat, 1 Aug 2026.
+Brian Smith is a House and Tech House artist with 2 upcoming club dates listed on soundcheck as of Fri, 31 Jul 2026, next at 93 Feet East, London on Sat, 1 Aug 2026.
 
 Brian Smith is a house and tech house artist based in United Kingdom, tracked on soundcheck, with 78 sets logged across Ibiza, London and Malta. Often billed alongside Jerome Six, JAYDAA and Steven Cee. Next up: 93 Feet East, London on Sat 1 Aug.
 
@@ -26,4 +26,4 @@ Brian Smith is a house and tech house artist based in United Kingdom, tracked on
 
 Jerome Six, JAYDAA, Steven Cee
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/briansmith/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/briansmith/)*

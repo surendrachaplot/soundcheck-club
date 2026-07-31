@@ -1,6 +1,6 @@
 # Emel
 
-Emel is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at TBA - Mantra Rooftop & Bar, Kuala Lumpur on Sat, 1 Aug 2026.
+Emel is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at TBA - Mantra Rooftop & Bar, Kuala Lumpur on Sat, 1 Aug 2026.
 
 Emel is a house and techno artist tracked on soundcheck, with 24 sets logged across Bangkok, Berlin, Budapest and Hongkong and 6 more. Often billed alongside Ouissam, Saint Guel and DOTT. Next up: TBA - Mantra Rooftop & Bar, Kualalumpur on Sat 1 Aug.
 
@@ -25,4 +25,4 @@ Emel is a house and techno artist tracked on soundcheck, with 24 sets logged acr
 
 Ouissam, Saint Guel, DOTT
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/emel-ph/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/emel-ph/)*

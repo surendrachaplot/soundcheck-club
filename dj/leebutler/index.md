@@ -1,6 +1,6 @@
 # Lee Butler
 
-Lee Butler is a House and Trance artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at Adventure Coast, Southport, Liverpool on Sat, 1 Aug 2026.
+Lee Butler is a House and Trance artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at Adventure Coast, Southport, Liverpool on Sat, 1 Aug 2026.
 
 Lee Butler is a house and trance artist tracked on soundcheck, with 21 sets logged across Liverpool. Often billed alongside Rob Cain, Ebo and Mark XTC. Next up: Adventure Coast, Southport, Liverpool on Sat 1 Aug.
 
@@ -25,4 +25,4 @@ Lee Butler is a house and trance artist tracked on soundcheck, with 21 sets logg
 
 Rob Cain, Ebo, Mark XTC
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/leebutler/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/leebutler/)*

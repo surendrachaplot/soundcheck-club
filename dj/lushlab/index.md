@@ -1,6 +1,6 @@
 # Lush Lab
 
-Lush Lab is a EBM and Italo Disco artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at Renate, Berlin on Sat, 1 Aug 2026.
+Lush Lab is a EBM and Italo Disco artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at Renate, Berlin on Sat, 1 Aug 2026.
 
 Lush Lab is an ebm and italo disco artist tracked on soundcheck, with 20 sets logged across Athens, Berlin and Tbilisi. Often billed alongside Desolate Discotheque, Charlie Vaux and Electric Visionary. Next up: Renate, Berlin on Sat 1 Aug.
 
@@ -25,4 +25,4 @@ Lush Lab is an ebm and italo disco artist tracked on soundcheck, with 20 sets lo
 
 Desolate Discotheque, Charlie Vaux, Electric Visionary
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/lushlab/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/lushlab/)*

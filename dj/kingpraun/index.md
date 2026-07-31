@@ -1,6 +1,6 @@
 # KingPraun
 
-KingPraun is a Club and Pop artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at Chalk, Brighton on Fri, 31 Jul 2026.
+KingPraun is a Club and Pop artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at Chalk, Brighton on Fri, 31 Jul 2026.
 
 KingPraun is a club and pop artist based in United Kingdom, tracked on soundcheck, with 13 sets logged across Brighton and London. Often billed alongside 1000raks, 10:35 and 131bpm. Next up: Chalk, Brighton on Fri 31 Jul.
 
@@ -25,4 +25,4 @@ KingPraun is a club and pop artist based in United Kingdom, tracked on soundchec
 
 1000raks, 10:35, 131bpm
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/kingpraun/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/kingpraun/)*

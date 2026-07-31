@@ -1,6 +1,6 @@
 # MAUSIO
 
-MAUSIO is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at TBA - Straße des 17. Juni & Großer Stern, Berlin on Sat, 15 Aug 2026.
+MAUSIO is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at TBA - Straße des 17. Juni & Großer Stern, Berlin on Sat, 15 Aug 2026.
 
 MAUSIO is a house and techno artist based in Germany, tracked on soundcheck, with 10 sets logged across Berlin, Cologne, Frankfurt and Nurnberg and 2 more. Often billed alongside Wankelmut, AVAION and Alfred Heinrichs. Next up: TBA - Straße des 17. Juni & Großer Stern, Berlin on Sat 15 Aug.
 
@@ -25,4 +25,4 @@ MAUSIO is a house and techno artist based in Germany, tracked on soundcheck, wit
 
 Wankelmut, AVAION, Alfred Heinrichs
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/mausio/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/mausio/)*

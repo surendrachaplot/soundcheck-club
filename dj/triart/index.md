@@ -1,6 +1,6 @@
 # Triart
 
-Triart is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at TBA - Istanbul ( KARAKOY,BEYOGLU ), Istanbul on Sun, 2 Aug 2026.
+Triart is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at TBA - Istanbul ( KARAKOY,BEYOGLU ), Istanbul on Sun, 2 Aug 2026.
 
 Triart is a techno and house artist based in Turkey, tracked on soundcheck, with 27 sets logged across Amsterdam, Athens, Berlin and Budapest and 7 more. Often billed alongside Hard Reset, BUSSI and OIBAF. Next up: TBA - Istanbul ( KARAKOY,BEYOGLU ), Istanbul on Sun 2 Aug.
 
@@ -25,4 +25,4 @@ Triart is a techno and house artist based in Turkey, tracked on soundcheck, with
 
 Hard Reset, BUSSI, OIBAF
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/triart/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/triart/)*

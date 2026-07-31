@@ -1,6 +1,6 @@
 # Hugokdc
 
-Hugokdc is a Hardcore and Industrial artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at HDX Circus Bar, Mexico City on Fri, 31 Jul 2026.
+Hugokdc is a Hardcore and Industrial artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at HDX Circus Bar, Mexico City on Fri, 31 Jul 2026.
 
 Hugokdc is a hardcore and industrial artist based in Mexico, tracked on soundcheck, with 2 sets logged across Mexicocity. Often billed alongside Axx (1). Next up: HDX Circus Bar, Mexicocity on Fri 31 Jul.
 
@@ -18,4 +18,4 @@ Hugokdc is a hardcore and industrial artist based in Mexico, tracked on soundche
 
 Axx (1)
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/hugokdc/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/hugokdc/)*

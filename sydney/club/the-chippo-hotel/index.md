@@ -1,6 +1,6 @@
 # The Chippo Hotel
 
-The Chippo Hotel is a music venue in Sydney with 2 upcoming nights listed on soundcheck as of Thu, 30 Jul 2026; the next is "Bassface Launch Party" on Fri, 31 Jul 2026.
+The Chippo Hotel is a music venue in Sydney with 2 upcoming nights listed on soundcheck as of Fri, 31 Jul 2026; the next is "Bassface Launch Party" on Fri, 31 Jul 2026.
 
 The Chippo Hotel is a music venue in Sydney listed on soundcheck. 2 upcoming nights, with line-ups including Mike Bee, Pash and Spindle. Browse upcoming dates, start times and who's playing. 87-91 Abercrombie Street, Chippendale NSW 2008, Australia.
 
@@ -15,4 +15,4 @@ The Chippo Hotel is a music venue in Sydney listed on soundcheck. 2 upcoming nig
 
 87-91 Abercrombie Street, Chippendale NSW 2008, Australia, Sydney
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/sydney/club/the-chippo-hotel/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/sydney/club/the-chippo-hotel/)*

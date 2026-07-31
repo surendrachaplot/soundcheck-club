@@ -1,6 +1,6 @@
 # Elpawel
 
-Elpawel is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Thu, 30 Jul 2026, next at BLITZ, Munich on Fri, 31 Jul 2026.
+Elpawel is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Fri, 31 Jul 2026, next at BLITZ, Munich on Fri, 31 Jul 2026.
 
 Elpawel is a house and techno artist based in Germany, tracked on soundcheck, with 15 sets logged across Munich and Vienna. Often billed alongside Inu G, Jeyrototo and Benjamin Roeder. Next up: BLITZ, Munich on Fri 31 Jul.
 
@@ -26,4 +26,4 @@ Elpawel is a house and techno artist based in Germany, tracked on soundcheck, wi
 
 Inu G, Jeyrototo, Benjamin Roeder
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/elpawel/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/elpawel/)*

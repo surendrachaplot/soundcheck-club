@@ -1,13 +1,14 @@
 # Nicolas Bougaïeff
 
-Nicolas Bougaïeff is a Electro and Experimental artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at Silent Green, Berlin on Thu, 6 Aug 2026.
+Nicolas Bougaïeff is a Electronica and Electro artist with 2 upcoming club dates listed on soundcheck as of Fri, 31 Jul 2026, next at Silent Green, Berlin on Thu, 6 Aug 2026.
 
-Nicolas Bougaïeff is an electro and experimental artist based in Germany, tracked on soundcheck, with 3 sets logged across Berlin. Often billed alongside Avi Caspi, Izumi Yamamoto and JakoJako. Next up: Silent Green, Berlin on Thu 6 Aug.
+Nicolas Bougaïeff is an electronica and electro artist based in Germany, tracked on soundcheck, with 4 sets logged across Berlin. Often billed alongside Avi Caspi, JakoJako and Pole. Next up: Silent Green, Berlin on Thu 6 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Thu, 6 Aug 2026 | Silent Green | Berlin |
 | Thu, 6 Aug 2026 | Silent Green | Berlin |
 
 ## Recently played
@@ -17,6 +18,6 @@ Nicolas Bougaïeff is an electro and experimental artist based in Germany, track
 
 ## Shares bills with
 
-Avi Caspi, Izumi Yamamoto, JakoJako
+Avi Caspi, JakoJako, Pole
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/nicolasbougaieff/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/nicolasbougaieff/)*

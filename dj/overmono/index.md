@@ -1,14 +1,13 @@
 # Overmono
 
-Overmono is a Techno and House artist with 8 upcoming club dates listed on soundcheck as of Thu, 30 Jul 2026, next at Sønder Hoved, Copenhagen on Thu, 30 Jul 2026.
+Overmono is a Techno and House artist with 7 upcoming club dates listed on soundcheck as of Fri, 31 Jul 2026, next at Old Royal Naval College, London on Fri, 7 Aug 2026.
 
-Overmono is a techno and house artist tracked on soundcheck, with 96 sets logged across Aberdeen, Amsterdam, Athens and Austin and 43 more. Often billed alongside DJ Heartstring, Interplanetary Criminal and Jyoty. Next up: Sønder Hoved, Copenhagen on Thu 30 Jul.
+Overmono is a techno and house artist tracked on soundcheck, with 96 sets logged across Aberdeen, Amsterdam, Athens and Austin and 43 more. Often billed alongside DJ Heartstring, Interplanetary Criminal and Jyoty. Next up: Old Royal Naval College, London on Fri 7 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Thu, 30 Jul 2026 | Sønder Hoved | Copenhagen |
 | Fri, 7 Aug 2026 | Old Royal Naval College | London |
 | Thu, 13 Aug 2026 | Jacaranda Baltic | Liverpool |
 | Fri, 25 Sept 2026 | Hollywood Palladium | Los Angeles |
@@ -19,6 +18,7 @@ Overmono is a techno and house artist tracked on soundcheck, with 96 sets logged
 
 ## Recently played
 
+- Sønder Hoved, Copenhagen — Thu, 30 Jul 2026
 - Colwick Country Park, Nottingham — Fri, 26 Jun 2026
 - Colwick Country Park, Nottingham — Fri, 26 Jun 2026
 - Bois de Vincennes, Paris — Fri, 5 Jun 2026
@@ -26,10 +26,9 @@ Overmono is a techno and house artist tracked on soundcheck, with 96 sets logged
 - Buena Vista Lake, Los Angeles — Wed, 20 May 2026
 - Port of Brussels, Brussels — Fri, 1 May 2026
 - Index, Dublin — Fri, 5 Dec 2025
-- Depot Mayfield, Manchester — Sat, 18 Oct 2025
 
 ## Shares bills with
 
 DJ Heartstring, Interplanetary Criminal, Jyoty
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/overmono/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/overmono/)*

@@ -1,6 +1,6 @@
 # styx
 
-styx is a Minimal and House artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at TBA - Allstate Arena Chicago, Chicago on Sat, 1 Aug 2026.
+styx is a Minimal and House artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at TBA - Allstate Arena Chicago, Chicago on Sat, 1 Aug 2026.
 
 styx is a minimal and house artist based in Romania, tracked on soundcheck, with 20 sets logged across Amsterdam, Antwerp, Berlin and Bucharest and 4 more. Often billed alongside Rares Gherman, Alex Sharp and Alma Linda. Next up: TBA - Allstate Arena Chicago, Chicago on Sat 1 Aug.
 
@@ -25,4 +25,4 @@ styx is a minimal and house artist based in Romania, tracked on soundcheck, with
 
 Rares Gherman, Alex Sharp, Alma Linda
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/styx/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/styx/)*

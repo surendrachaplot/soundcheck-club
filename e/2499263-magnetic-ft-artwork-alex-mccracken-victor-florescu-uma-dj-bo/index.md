@@ -1,6 +1,6 @@
-# Magnetic ft Artwork, Alex McCracken, Victor Florescu, UMA, DJ Boat Neck, Lee Cash, whydan at Good Room
+# Magnetic ft Artwork, Alex McCracken, Victor Florescu, UMA DJ, Boat Neck, Lee Cash, whydan at Good Room
 
-Magnetic ft Artwork, Alex McCracken, Victor Florescu, UMA, DJ Boat Neck, Lee Cash, whydan at Good Room on Fri 28 Aug, Newyorkcity. 7 acts on the bill: Alex McCracken, Artwork, Boat Neck and Lee Cash and 3 more. Preview the line-up and save it on soundcheck.
+Magnetic ft Artwork, Alex McCracken, Victor Florescu, UMA DJ, Boat Neck, Lee Cash, whydan at Good Room on Fri 28 Aug, Newyorkcity. 7 acts on the bill: Alex McCracken, Artwork, Boat Neck and Lee Cash and 3 more. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,14 +1,13 @@
 # Val’s Lesbian Bar
 
-Val’s Lesbian Bar is a music venue in Philadelphia with 3 upcoming nights listed on soundcheck as of Thu, 30 Jul 2026; the next is "Philadelphia Party Authority" on Thu, 30 Jul 2026.
+Val’s Lesbian Bar is a music venue in Philadelphia with 2 upcoming nights listed on soundcheck as of Fri, 31 Jul 2026; the next is "Melt" on Sat, 15 Aug 2026.
 
-Val’s Lesbian Bar is a music venue in Philadelphia listed on soundcheck. 3 upcoming nights, with line-ups including Callaia, castanea, hopifer and lorboo and 1 more. Browse upcoming dates, start times and who's playing. 605 S 3rd Street, Philadelphia, PA 19147, USA.
+Val’s Lesbian Bar is a music venue in Philadelphia listed on soundcheck. 2 upcoming nights, with line-ups including Callaia, castanea, hopifer and lorboo. Browse upcoming dates, start times and who's playing. 605 S 3rd Street, Philadelphia, PA 19147, USA.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Thu, 30 Jul 2026 | Philadelphia Party Authority | rippenzack |
 | Sat, 15 Aug 2026 | Melt | Callaia, hopifer, lorboo |
 | Sun, 23 Aug 2026 | SENSUOUS SPACE | castanea |
 
@@ -16,4 +15,4 @@ Val’s Lesbian Bar is a music venue in Philadelphia listed on soundcheck. 3 upc
 
 605 S 3rd Street, Philadelphia, PA 19147, USA, Philadelphia
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/philadelphia/club/val-s-lesbian-bar/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/philadelphia/club/val-s-lesbian-bar/)*

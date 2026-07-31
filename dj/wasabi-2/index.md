@@ -1,6 +1,6 @@
 # Wasabi (2)
 
-Wasabi (2) is a Afrobeats and Hip-Hop artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at Sigurd CPH, Copenhagen on Fri, 31 Jul 2026.
+Wasabi (2) is a Afrobeats and Hip-Hop artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at Sigurd CPH, Copenhagen on Fri, 31 Jul 2026.
 
 Wasabi (2) is an afrobeats and hip-hop artist based in Japan, tracked on soundcheck, with 4 sets logged across Copenhagen and Tokyo. Often billed alongside John Vincent and Sonia Sol. Next up: Sigurd CPH, Copenhagen on Fri 31 Jul.
 
@@ -20,4 +20,4 @@ Wasabi (2) is an afrobeats and hip-hop artist based in Japan, tracked on soundch
 
 John Vincent, Sonia Sol
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/wasabi-2/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/wasabi-2/)*

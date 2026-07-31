@@ -1,6 +1,6 @@
 # Bolm
 
-Bolm is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at Kockiri, Seoul on Fri, 31 Jul 2026.
+Bolm is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at Kockiri, Seoul on Fri, 31 Jul 2026.
 
 Bolm is a house and techno artist tracked on soundcheck, with 110 sets logged across Seoul and Taipei. Often billed alongside Uni (3), Ligrye and TYSN. Next up: Kockiri, Seoul on Fri 31 Jul.
 
@@ -25,4 +25,4 @@ Bolm is a house and techno artist tracked on soundcheck, with 110 sets logged ac
 
 Uni (3), Ligrye, TYSN
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/bolm/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/bolm/)*

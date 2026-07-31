@@ -1,6 +1,6 @@
 # Katzenohr
 
-Katzenohr is a House and Downtempo artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at Hinterhof Mitte, Berlin on Fri, 31 Jul 2026.
+Katzenohr is a House and Downtempo artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at Hinterhof Mitte, Berlin on Fri, 31 Jul 2026.
 
 Katzenohr is a house and downtempo artist based in Germany, tracked on soundcheck, with 41 sets logged across Berlin, Hamburg and Leipzig. Often billed alongside ELIZEN THE EMPEROR, WIEK and Benjie Bäm. Next up: Hinterhof Mitte, Berlin on Fri 31 Jul.
 
@@ -25,4 +25,4 @@ Katzenohr is a house and downtempo artist based in Germany, tracked on soundchec
 
 ELIZEN THE EMPEROR, WIEK, Benjie Bäm
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/katzenohr/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/katzenohr/)*

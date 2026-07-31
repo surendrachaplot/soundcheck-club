@@ -1,6 +1,6 @@
 # Doppelganger
 
-Doppelganger is a Techno and Deep House artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at Razzmatazz, Barcelona on Sat, 1 Aug 2026.
+Doppelganger is a Techno and Deep House artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at Razzmatazz, Barcelona on Sat, 1 Aug 2026.
 
 Doppelganger is a techno and deep house artist based in Spain, tracked on soundcheck, with 40 sets logged across Amsterdam, Barcelona, Berlin and Brussels and 3 more. Often billed alongside Drazzit, Fillo Deportaberta and SANTANA. Next up: Razzmatazz, Barcelona on Sat 1 Aug.
 
@@ -25,4 +25,4 @@ Doppelganger is a techno and deep house artist based in Spain, tracked on soundc
 
 Drazzit, Fillo Deportaberta, SANTANA
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/doppelganger-uk/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/doppelganger-uk/)*

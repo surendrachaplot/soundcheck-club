@@ -1,6 +1,6 @@
 # Arjxn
 
-Arjxn is a electronic artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at Elsewhere, New York City on Sat, 8 Aug 2026.
+Arjxn is a electronic artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at Elsewhere, New York City on Sat, 8 Aug 2026.
 
 Arjxn is an electronic artist based in United Kingdom, tracked on soundcheck, with 4 sets logged across Bristol, London and Newyorkcity. Often billed alongside D-Malice, Kaur and VNEE. Next up: Elsewhere, Newyorkcity on Sat 8 Aug.
 
@@ -20,4 +20,4 @@ Arjxn is an electronic artist based in United Kingdom, tracked on soundcheck, wi
 
 D-Malice, Kaur, VNEE
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/arjxn/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/arjxn/)*

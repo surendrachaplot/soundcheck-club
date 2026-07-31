@@ -1,6 +1,6 @@
 # AVION
 
-AVION is a Techno and Minimal artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at Azumaya, Tokyo on Wed, 12 Aug 2026.
+AVION is a Techno and Minimal artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at Azumaya, Tokyo on Wed, 12 Aug 2026.
 
 AVION is a techno and minimal artist based in Germany, tracked on soundcheck, with 11 sets logged across Tbilisi and Tokyo. Often billed alongside Drunken Kong, RINALUCKY and AHREUM. Next up: Azumaya, Tokyo on Wed 12 Aug.
 
@@ -25,4 +25,4 @@ AVION is a techno and minimal artist based in Germany, tracked on soundcheck, wi
 
 Drunken Kong, RINALUCKY, AHREUM
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/avion/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/avion/)*

@@ -1,6 +1,6 @@
 # Caro Vola
 
-Caro Vola is a Afro House and Italo Disco artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at Jonny Knüppel, Berlin on Fri, 31 Jul 2026.
+Caro Vola is a Afro House and Italo Disco artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at Jonny Knüppel, Berlin on Fri, 31 Jul 2026.
 
 Caro Vola is an afro house and italo disco artist based in Germany, tracked on soundcheck, with 30 sets logged across Berlin. Often billed alongside MARIE.MOON, Dorsch and Dela Nesto. Next up: Jonny Knüppel, Berlin on Fri 31 Jul.
 
@@ -25,4 +25,4 @@ Caro Vola is an afro house and italo disco artist based in Germany, tracked on s
 
 MARIE.MOON, Dorsch, Dela Nesto
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/carovola/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/carovola/)*

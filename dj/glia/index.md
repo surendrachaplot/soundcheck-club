@@ -1,6 +1,6 @@
 # GLIA
 
-GLIA is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Thu, 30 Jul 2026, next at Lokschuppen Berlin, Berlin on Sat, 8 Aug 2026.
+GLIA is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Fri, 31 Jul 2026, next at Lokschuppen Berlin, Berlin on Sat, 8 Aug 2026.
 
 GLIA is a techno and house artist based in Germany, tracked on soundcheck, with 42 sets logged across Belgrade, Berlin, Copenhagen and Madrid and 3 more. Often billed alongside Brtinzz, Pamela Svart and Squaric. Next up: Lokschuppen Berlin, Berlin on Sat 8 Aug.
 
@@ -26,4 +26,4 @@ GLIA is a techno and house artist based in Germany, tracked on soundcheck, with 
 
 Brtinzz, Pamela Svart, Squaric
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/glia/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/glia/)*

@@ -1,15 +1,13 @@
 # Le Bain
 
-Le Bain is a music venue in New York City with 17 upcoming nights listed on soundcheck as of Thu, 30 Jul 2026; the next is "ON TOP by Susanne Bartsch" on Thu, 30 Jul 2026.
+Le Bain is a music venue in New York City with 15 upcoming nights listed on soundcheck as of Fri, 31 Jul 2026; the next is "TARKA X Le Bain" on Fri, 31 Jul 2026.
 
-Le Bain is a music venue in Newyorkcity listed on soundcheck. 17 upcoming nights, with line-ups including DANILO BRACA, Amber Valentine, Bea Trinidad and boyyyish and 2 more. Browse upcoming dates, start times and who's playing. 444 W 13th Street, New York, NY 10014.
+Le Bain is a music venue in Newyorkcity listed on soundcheck. 15 upcoming nights, with line-ups including DANILO BRACA, Amber Valentine, Bea Trinidad and Dynoman and 2 more. Browse upcoming dates, start times and who's playing. 444 W 13th Street, New York, NY 10014.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Thu, 30 Jul 2026 | ON TOP by Susanne Bartsch | Kandylion, SPRFRK, Vibeiana, boyyyish |
-| Thu, 30 Jul 2026 | Sauced Radio X Sunset Le Bain | The Whooligan |
 | Fri, 31 Jul 2026 | TARKA X Le Bain | Bea Trinidad, Dynoman, Nabihah Iqbal, VARSHA, Zara Dekho |
 | Sat, 1 Aug 2026 | Tony Humphries' RESIDENCY | Tony Humphries |
 | Sun, 2 Aug 2026 | WORLD OF ECHOES presents Ian Friday | Francois K |
@@ -18,9 +16,11 @@ Le Bain is a music venue in Newyorkcity listed on soundcheck. 17 upcoming nights
 | Fri, 7 Aug 2026 | Rich Medina ALL NIGHT | Rich Medina |
 | Sat, 8 Aug 2026 | CELEBRATING REN | Hex Hector, Kim Anh, Occupy The Disco, The Carry Nation |
 | Sat, 8 Aug 2026 | CLUB CHLORINE X Le Bain | Orson.NYC |
+| Sun, 9 Aug 2026 | WORLD OF ECHOES by François K | Francois K |
+| Wed, 12 Aug 2026 | DANCE DANCE DANCE |  |
 
 ## Address
 
 444 W 13th Street, New York, NY 10014, New York City
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/le-bain/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/le-bain/)*

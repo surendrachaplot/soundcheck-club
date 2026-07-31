@@ -1,14 +1,13 @@
 # Bar Oriente
 
-Bar Oriente is a music venue in Mexico City with 10 upcoming nights listed on soundcheck as of Thu, 30 Jul 2026; the next is "Buru Club X Bar Oriente" on Thu, 30 Jul 2026.
+Bar Oriente is a music venue in Mexico City with 9 upcoming nights listed on soundcheck as of Fri, 31 Jul 2026; the next is "Sussie 4, Gil Cerezo, Eduardo Rossell" on Fri, 31 Jul 2026.
 
-Bar Oriente is a music venue in Mexicocity listed on soundcheck. 10 upcoming nights, with line-ups including Andre VII, Bobo, Cazador de Discos and Cinema Paradisco and 2 more. Browse upcoming dates, start times and who's playing. Calle de Durango 181, Roma Nte., 06700 Ciudad de MÃ©xico, CDMX.
+Bar Oriente is a music venue in Mexicocity listed on soundcheck. 9 upcoming nights, with line-ups including Andre VII, Cazador de Discos, Cinema Paradisco and Dimaio and 2 more. Browse upcoming dates, start times and who's playing. Calle de Durango 181, Roma Nte., 06700 Ciudad de MÃ©xico, CDMX.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Thu, 30 Jul 2026 | Buru Club X Bar Oriente | Bobo, Gamboa, MON (9), Misha (3), Mizuki |
 | Fri, 31 Jul 2026 | Sussie 4, Gil Cerezo, Eduardo Rossell | Sussie 4 |
 | Sat, 1 Aug 2026 | Boogie Room en Bar Oriente | Cazador de Discos, Cinema Paradisco, Dimaio, Sommer |
 | Fri, 7 Aug 2026 | Electrique Music: Andre VII, Moon Runner, ROCCO DESENTIS | Andre VII, ROCCO DESENTIS |
@@ -23,4 +22,4 @@ Bar Oriente is a music venue in Mexicocity listed on soundcheck. 10 upcoming nig
 
 Calle de Durango 181, Roma Nte., 06700 Ciudad de MÃ©xico, CDMX, Mexico City
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/mexicocity/club/bar-oriente/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/mexicocity/club/bar-oriente/)*

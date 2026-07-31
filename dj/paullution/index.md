@@ -1,6 +1,6 @@
 # Paul Lution
 
-Paul Lution is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at Sunseabar Beach Club, Barcelona on Sun, 9 Aug 2026.
+Paul Lution is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at Sunseabar Beach Club, Barcelona on Sun, 9 Aug 2026.
 
 Paul Lution is a techno and house artist tracked on soundcheck, with 38 sets logged across Amsterdam, Barcelona, Berlin and Madrid and 8 more. Often billed alongside Munir Nadir, OTIS (3) and Alex Dima. Next up: Sunseabar Beach Club, Barcelona on Sun 9 Aug.
 
@@ -25,4 +25,4 @@ Paul Lution is a techno and house artist tracked on soundcheck, with 38 sets log
 
 Munir Nadir, OTIS (3), Alex Dima
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/paullution/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/paullution/)*

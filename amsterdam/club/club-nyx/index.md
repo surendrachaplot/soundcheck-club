@@ -1,6 +1,6 @@
 # Club NYX
 
-Club NYX is a music venue in Amsterdam with 5 upcoming nights listed on soundcheck as of Thu, 30 Jul 2026; the next is "3xNYX: PRIDE" on Sat, 1 Aug 2026.
+Club NYX is a music venue in Amsterdam with 5 upcoming nights listed on soundcheck as of Fri, 31 Jul 2026; the next is "3xNYX: PRIDE" on Sat, 1 Aug 2026.
 
 Club NYX is a music venue in Amsterdam listed on soundcheck. 5 upcoming nights, with line-ups including Aiscream, Alma Negrot, Babs op de beat and Dangerous Rose and 2 more. Browse upcoming dates, start times and who's playing. Reguliersdwarsstraat 42, 1017BM Amsterdam.
 
@@ -18,4 +18,4 @@ Club NYX is a music venue in Amsterdam listed on soundcheck. 5 upcoming nights, 
 
 Reguliersdwarsstraat 42, 1017BM Amsterdam, Amsterdam
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/club-nyx/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/club-nyx/)*

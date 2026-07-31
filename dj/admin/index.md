@@ -1,6 +1,6 @@
 # Admin
 
-Admin is a Disco and Funk / Soul artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at Honey Street Studio, Manchester on Sat, 1 Aug 2026.
+Admin is a Disco and Funk / Soul artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at Honey Street Studio, Manchester on Sat, 1 Aug 2026.
 
 Admin is a disco and funk / soul artist based in United Kingdom, tracked on soundcheck, with 33 sets logged across Bristol, Cardiff, London and Manchester and 1 more. Often billed alongside Yadava, Mike Shawe and Raw Queen. Next up: Honey Street Studio, Manchester on Sat 1 Aug.
 
@@ -25,4 +25,4 @@ Admin is a disco and funk / soul artist based in United Kingdom, tracked on soun
 
 Yadava, Mike Shawe, Raw Queen
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/admin/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/admin/)*

@@ -1,6 +1,6 @@
 # Maya Beach Experience
 
-Maya Beach Experience is a music venue in Naples with 5 upcoming nights listed on soundcheck as of Thu, 30 Jul 2026; the next is "MAYA ELEMENTS x KONFLICT" on Sat, 1 Aug 2026.
+Maya Beach Experience is a music venue in Naples with 5 upcoming nights listed on soundcheck as of Fri, 31 Jul 2026; the next is "MAYA ELEMENTS x KONFLICT" on Sat, 1 Aug 2026.
 
 Maya Beach Experience is a music venue in Naples listed on soundcheck. 5 upcoming nights, with line-ups including Antares, Balzar, Cristian Volpe and La Hara and 2 more. Browse upcoming dates, start times and who's playing. Via villazzano, 3 - Massa Lubrense.
 
@@ -18,4 +18,4 @@ Maya Beach Experience is a music venue in Naples listed on soundcheck. 5 upcomin
 
 Via villazzano, 3 - Massa Lubrense, Naples
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/naples/club/maya-beach-experience/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/naples/club/maya-beach-experience/)*

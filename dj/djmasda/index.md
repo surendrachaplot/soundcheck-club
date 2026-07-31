@@ -1,6 +1,6 @@
 # DJ Masda
 
-DJ Masda is a Techno and House artist with 5 upcoming club dates listed on soundcheck as of Thu, 30 Jul 2026, next at ISOamsterdam, Amsterdam on Sun, 2 Aug 2026.
+DJ Masda is a Techno and House artist with 5 upcoming club dates listed on soundcheck as of Fri, 31 Jul 2026, next at ISOamsterdam, Amsterdam on Sun, 2 Aug 2026.
 
 DJ Masda is a techno and house artist tracked on soundcheck, with 197 sets logged across Amsterdam, Bali, Bangkok and Barcelona and 45 more. Often billed alongside Binh, Nicolas Lutz and Craig Richards. Next up: ISOamsterdam, Amsterdam on Sun 2 Aug.
 
@@ -29,4 +29,4 @@ DJ Masda is a techno and house artist tracked on soundcheck, with 197 sets logge
 
 Binh, Nicolas Lutz, Craig Richards
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/djmasda/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/djmasda/)*

@@ -1,6 +1,6 @@
 # 2HOT2PLAY
 
-2HOT2PLAY is a Techno and Trance artist with 8 upcoming club dates listed on soundcheck as of Thu, 30 Jul 2026, next at Donauinsel, Vienna on Sat, 1 Aug 2026.
+2HOT2PLAY is a Techno and Trance artist with 8 upcoming club dates listed on soundcheck as of Fri, 31 Jul 2026, next at Donauinsel, Vienna on Sat, 1 Aug 2026.
 
 2HOT2PLAY is a techno and trance artist tracked on soundcheck, with 94 sets logged across Amsterdam, Antwerp, Barcelona and Basel and 25 more. Often billed alongside Mika Heggemann, Cara Elizabeth and L.zwo. Next up: Donauinsel, Vienna on Sat 1 Aug.
 
@@ -32,4 +32,4 @@
 
 Mika Heggemann, Cara Elizabeth, L.zwo
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/2hot2play/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/2hot2play/)*

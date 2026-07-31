@@ -1,6 +1,6 @@
 # Boy Harsher
 
-Boy Harsher is a Techno and Industrial artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at MTELUS, Montreal on Tue, 29 Sept 2026.
+Boy Harsher is a Techno and Industrial artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at MTELUS, Montreal on Tue, 29 Sept 2026.
 
 Boy Harsher is a techno and industrial artist based in United States of America, tracked on soundcheck, with 31 sets logged across Auckland, Austin, Brisbane and Chicago and 14 more. Often billed alongside Augustus Muller, Andi and FCUKERS. Next up: MTELUS, Montreal on Tue 29 Sept.
 
@@ -25,4 +25,4 @@ Boy Harsher is a techno and industrial artist based in United States of America,
 
 Augustus Muller, Andi, FCUKERS
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/boyharsher/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/boyharsher/)*

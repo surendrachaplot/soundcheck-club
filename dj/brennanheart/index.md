@@ -1,6 +1,6 @@
 # Brennan Heart
 
-Brennan Heart is a Hardcore and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at Electrisize, Düsseldorf on Fri, 7 Aug 2026.
+Brennan Heart is a Hardcore and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at Electrisize, Düsseldorf on Fri, 7 Aug 2026.
 
 Brennan Heart is a hardcore and techno artist based in Netherlands, tracked on soundcheck, with 19 sets logged across Amsterdam, Cologne, Dusseldorf and Frankfurt and 8 more. Often billed alongside Coone, Paul Elstak and Dimitri K. Next up: Electrisize, Dusseldorf on Fri 7 Aug.
 
@@ -25,4 +25,4 @@ Brennan Heart is a hardcore and techno artist based in Netherlands, tracked on s
 
 Coone, Paul Elstak, Dimitri K
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/brennanheart/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/brennanheart/)*

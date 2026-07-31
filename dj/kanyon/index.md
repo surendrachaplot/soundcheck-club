@@ -1,6 +1,6 @@
 # Kanyon
 
-Kanyon is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at TBA - Call Infoline for Secret Location, Boston on Fri, 7 Aug 2026.
+Kanyon is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at TBA - Call Infoline for Secret Location, Boston on Fri, 7 Aug 2026.
 
 Kanyon is a techno and house artist based in United States of America, tracked on soundcheck, with 35 sets logged across Boston, Chicago, Detroit and Losangeles and 7 more. Often billed alongside Esse Ran, D. Strange and Mina Mills. Next up: TBA - Call Infoline for Secret Location, Boston on Fri 7 Aug.
 
@@ -25,4 +25,4 @@ Kanyon is a techno and house artist based in United States of America, tracked o
 
 Esse Ran, D. Strange, Mina Mills
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/kanyon/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/kanyon/)*

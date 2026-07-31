@@ -1,6 +1,6 @@
 # Farahdiba
 
-Farahdiba is a Garage and House artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at Bike Jesus, Prague on Fri, 31 Jul 2026.
+Farahdiba is a Garage and House artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at Bike Jesus, Prague on Fri, 31 Jul 2026.
 
 Farahdiba is a garage and house artist based in Germany, tracked on soundcheck, with 22 sets logged across Berlin and Prague. Often billed alongside Pink Concrete, jardabpm and AVHD. Next up: Bike Jesus, Prague on Fri 31 Jul.
 
@@ -25,4 +25,4 @@ Farahdiba is a garage and house artist based in Germany, tracked on soundcheck, 
 
 Pink Concrete, jardabpm, AVHD
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/farahdiba/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/farahdiba/)*

@@ -1,14 +1,15 @@
 # SOFIA PINEDA
 
-SOFIA PINEDA is a House and Afro House artist with 2 upcoming club dates listed on soundcheck as of Thu, 30 Jul 2026, next at La Paloma, Barcelona on Fri, 31 Jul 2026.
+SOFIA PINEDA is a House and Afro House artist with 3 upcoming club dates listed on soundcheck as of Fri, 31 Jul 2026, next at La Paloma, Barcelona on Fri, 31 Jul 2026.
 
-SOFIA PINEDA is a house and afro house artist tracked on soundcheck, with 8 sets logged across Barcelona. Often billed alongside &friends, Argia and Claudia León. Next up: La Paloma, Barcelona on Fri 31 Jul.
+SOFIA PINEDA is a house and afro house artist tracked on soundcheck, with 9 sets logged across Barcelona. Often billed alongside MARTISTA, Marcel BS and &friends. Next up: La Paloma, Barcelona on Fri 31 Jul.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 31 Jul 2026 | La Paloma | Barcelona |
+| Sun, 2 Aug 2026 | Seaseaclub Barcelona | Barcelona |
 | Sat, 15 Aug 2026 | Seaseaclub Barcelona | Barcelona |
 
 ## Recently played
@@ -22,6 +23,6 @@ SOFIA PINEDA is a house and afro house artist tracked on soundcheck, with 8 sets
 
 ## Shares bills with
 
-&friends, Argia, Claudia León
+MARTISTA, Marcel BS, &friends
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/sofiapineda/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/sofiapineda/)*

@@ -1,6 +1,6 @@
 # Pei Up
 
-Pei Up is a Club and House artist with 2 upcoming club dates listed on soundcheck as of Thu, 30 Jul 2026, next at Home Sweet Home, New York City on Fri, 31 Jul 2026.
+Pei Up is a Club and House artist with 2 upcoming club dates listed on soundcheck as of Fri, 31 Jul 2026, next at Home Sweet Home, New York City on Fri, 31 Jul 2026.
 
 Pei Up is a club and house artist based in United States of America, tracked on soundcheck, with 37 sets logged across Glasgow, Losangeles and Newyorkcity. Often billed alongside DJ Janky, TO:NY and nmaito. Next up: Home Sweet Home, Newyorkcity on Fri 31 Jul.
 
@@ -26,4 +26,4 @@ Pei Up is a club and house artist based in United States of America, tracked on 
 
 DJ Janky, TO:NY, nmaito
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/Pei-Up/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/Pei-Up/)*

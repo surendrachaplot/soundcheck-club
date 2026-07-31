@@ -1,6 +1,6 @@
 # Jasper Pol
 
-Jasper Pol is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at Already Made Studio's, Amsterdam on Sat, 29 Aug 2026.
+Jasper Pol is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at Already Made Studio's, Amsterdam on Sat, 29 Aug 2026.
 
 Jasper Pol is a house and tech house artist based in Netherlands, tracked on soundcheck, with 5 sets logged across Amsterdam. Often billed alongside AYIM, Analyze and Binary Digit. Next up: Already Made Studio's, Amsterdam on Sat 29 Aug.
 
@@ -21,4 +21,4 @@ Jasper Pol is a house and tech house artist based in Netherlands, tracked on sou
 
 AYIM, Analyze, Binary Digit
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/jasperpol/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/jasperpol/)*

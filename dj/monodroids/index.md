@@ -1,6 +1,6 @@
 # Monodroids
 
-Monodroids is a Techno and Electro artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at B side Athens, Athens on Fri, 31 Jul 2026.
+Monodroids is a Techno and Electro artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at B side Athens, Athens on Fri, 31 Jul 2026.
 
 Monodroids is a techno and electro artist based in Greece, tracked on soundcheck, with 18 sets logged across Athens. Often billed alongside Mr.M, Nikos Thanos and Yorz. Next up: B side Athens, Athens on Fri 31 Jul.
 
@@ -25,4 +25,4 @@ Monodroids is a techno and electro artist based in Greece, tracked on soundcheck
 
 Mr.M, Nikos Thanos, Yorz
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/monodroids/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/monodroids/)*

@@ -1,6 +1,6 @@
 # Fero Duman
 
-Fero Duman is a electronic artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at Gewölbe, Cologne on Sat, 15 Aug 2026.
+Fero Duman is a electronic artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at Gewölbe, Cologne on Sat, 15 Aug 2026.
 
 Fero Duman is an electronic artist based in Germany, tracked on soundcheck, with 3 sets logged across Cologne. Often billed alongside Nic Lorenz, SIMES and Joëlla Jackson. Next up: Gewölbe, Cologne on Sat 15 Aug.
 
@@ -19,4 +19,4 @@ Fero Duman is an electronic artist based in Germany, tracked on soundcheck, with
 
 Nic Lorenz, SIMES, Joëlla Jackson
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/feroduman/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/feroduman/)*

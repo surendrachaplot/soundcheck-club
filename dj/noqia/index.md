@@ -1,6 +1,6 @@
 # NOQIA
 
-NOQIA is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at Tartaruga Beach Bar, Lisbon on Sat, 1 Aug 2026.
+NOQIA is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at Tartaruga Beach Bar, Lisbon on Sat, 1 Aug 2026.
 
 NOQIA is a techno and trance artist based in Portugal, tracked on soundcheck, with 10 sets logged across Lisbon and Vienna. Often billed alongside GADDAM, GTH (FR) and Kafox. Next up: Tartaruga Beach Bar, Lisbon on Sat 1 Aug.
 
@@ -25,4 +25,4 @@ NOQIA is a techno and trance artist based in Portugal, tracked on soundcheck, wi
 
 GADDAM, GTH (FR), Kafox
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/noqia/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/noqia/)*

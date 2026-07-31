@@ -1,6 +1,6 @@
 # NASTYA NVRSLP
 
-NASTYA NVRSLP is a Techno and Trance artist with 2 upcoming club dates listed on soundcheck as of Thu, 30 Jul 2026, next at ÆDEN, Berlin on Sat, 1 Aug 2026.
+NASTYA NVRSLP is a Techno and Trance artist with 2 upcoming club dates listed on soundcheck as of Fri, 31 Jul 2026, next at ÆDEN, Berlin on Sat, 1 Aug 2026.
 
 NASTYA NVRSLP is a techno and trance artist tracked on soundcheck, with 51 sets logged across Berlin, Krakow, Montreal and Prague and 3 more. Often billed alongside Sept, Bianca Badita and CrisseMarqueur. Next up: ÆDEN, Berlin on Sat 1 Aug.
 
@@ -26,4 +26,4 @@ NASTYA NVRSLP is a techno and trance artist tracked on soundcheck, with 51 sets 
 
 Sept, Bianca Badita, CrisseMarqueur
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/nastyanvrslp/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/nastyanvrslp/)*

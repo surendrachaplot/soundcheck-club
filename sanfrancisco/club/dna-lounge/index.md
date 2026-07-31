@@ -1,6 +1,6 @@
 # DNA Lounge
 
-DNA Lounge is a music venue in San Francisco/Oakland with 4 upcoming nights listed on soundcheck as of Thu, 30 Jul 2026; the next is "San Frandisco" on Fri, 31 Jul 2026.
+DNA Lounge is a music venue in San Francisco/Oakland with 4 upcoming nights listed on soundcheck as of Fri, 31 Jul 2026; the next is "San Frandisco" on Fri, 31 Jul 2026.
 
 DNA Lounge is a music venue in Sanfrancisco listed on soundcheck. 4 upcoming nights, with line-ups including Mackswell, Miss Crafty, Saint Triste and XILENYIA and 1 more. Browse upcoming dates, start times and who's playing. 375 Eleventh Street, San Francisco, CA 94103, United States.
 
@@ -17,4 +17,4 @@ DNA Lounge is a music venue in Sanfrancisco listed on soundcheck. 4 upcoming nig
 
 375 Eleventh Street, San Francisco, CA 94103, United States, San Francisco/Oakland
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/sanfrancisco/club/dna-lounge/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/sanfrancisco/club/dna-lounge/)*

@@ -1,6 +1,6 @@
 # Gare Porto
 
-Gare Porto is a music venue in Porto with 10 upcoming nights listed on soundcheck as of Thu, 30 Jul 2026; the next is "ACQUARIO with Münch, Outburst Knobs, Viels" on Fri, 31 Jul 2026.
+Gare Porto is a music venue in Porto with 10 upcoming nights listed on soundcheck as of Fri, 31 Jul 2026; the next is "ACQUARIO with Münch, Outburst Knobs, Viels" on Fri, 31 Jul 2026.
 
 Gare Porto is a music venue in Porto listed on soundcheck. 10 upcoming nights, with line-ups including Alexa Strange, Amulador, Ario and Carrier and 2 more. Browse upcoming dates, start times and who's playing. Rua da Madeira 182, 4000 Porto, Portugal.
 
@@ -17,10 +17,10 @@ Gare Porto is a music venue in Porto listed on soundcheck. 10 upcoming nights, w
 | Fri, 21 Aug 2026 | THE RIPPED, Mark Flecher, Alexa Strange | Alexa Strange, Mark Flecher, TheRipped |
 | Sat, 22 Aug 2026 | Zemög, John Plaza, Mind Archives | John Plaza, Mind Archives, Zemög |
 | Fri, 28 Aug 2026 | CARRIER, Amulador | Amulador, Carrier |
-| Sat, 29 Aug 2026 | DjRUM | DjRUM |
+| Sat, 29 Aug 2026 | DjRUM, Luísa | DjRUM, Luisa |
 
 ## Address
 
 Rua da Madeira 182, 4000 Porto, Portugal, Porto
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/porto/club/gare-porto/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/porto/club/gare-porto/)*

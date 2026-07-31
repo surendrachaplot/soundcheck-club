@@ -1,6 +1,6 @@
 # Hermit
 
-Hermit is a House and Deep House artist with 2 upcoming club dates listed on soundcheck as of Thu, 30 Jul 2026, next at MV Pearl of London, London on Sat, 22 Aug 2026.
+Hermit is a House and Deep House artist with 2 upcoming club dates listed on soundcheck as of Fri, 31 Jul 2026, next at MV Pearl of London, London on Sat, 22 Aug 2026.
 
 Hermit is a house and deep house artist based in United Kingdom, tracked on soundcheck, with 12 sets logged across Barcelona, London and Montreal. Often billed alongside Daniel Ward, DJ Listener and BrassTooth. Next up: MV Pearl of London, London on Sat 22 Aug.
 
@@ -26,4 +26,4 @@ Hermit is a house and deep house artist based in United Kingdom, tracked on soun
 
 Daniel Ward, DJ Listener, BrassTooth
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/hermit/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/hermit/)*

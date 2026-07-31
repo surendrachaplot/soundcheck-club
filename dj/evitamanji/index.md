@@ -1,6 +1,6 @@
 # Evita Manji
 
-Evita Manji is a Experimental and Club artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at Plex, Athens on Sat, 1 Aug 2026.
+Evita Manji is a Experimental and Club artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at Plex, Athens on Sat, 1 Aug 2026.
 
 Evita Manji is an experimental and club artist based in Greece, tracked on soundcheck, with 48 sets logged across Athens, Bangkok, Barcelona and Basel and 20 more. Often billed alongside Ara XD, ENGALANAN and Grand River. Next up: Plex, Athens on Sat 1 Aug.
 
@@ -25,4 +25,4 @@ Evita Manji is an experimental and club artist based in Greece, tracked on sound
 
 Ara XD, ENGALANAN, Grand River
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/evitamanji/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/evitamanji/)*

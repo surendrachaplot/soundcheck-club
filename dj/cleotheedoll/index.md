@@ -1,6 +1,6 @@
 # CleoTheeDoll
 
-CleoTheeDoll is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at Paramita Sound, Detroit on Fri, 31 Jul 2026.
+CleoTheeDoll is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at Paramita Sound, Detroit on Fri, 31 Jul 2026.
 
 CleoTheeDoll is a techno and house artist based in United States of America, tracked on soundcheck, with 18 sets logged across Detroit. Often billed alongside Garrison XR, Tylr and Auntie Chanel. Next up: Paramita Sound, Detroit on Fri 31 Jul.
 
@@ -25,4 +25,4 @@ CleoTheeDoll is a techno and house artist based in United States of America, tra
 
 Garrison XR, Tylr, Auntie Chanel
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/cleotheedoll/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/cleotheedoll/)*

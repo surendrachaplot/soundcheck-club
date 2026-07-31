@@ -1,6 +1,6 @@
 # Terzenbreaker
 
-Terzenbreaker is a Trance and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at Bahnwärter Thiel, Munich on Fri, 31 Jul 2026.
+Terzenbreaker is a Trance and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at Bahnwärter Thiel, Munich on Fri, 31 Jul 2026.
 
 Terzenbreaker is a trance and techno artist based in Germany, tracked on soundcheck, with 20 sets logged across Munich. Often billed alongside antyo, LOOMINAS and danuschek. Next up: Bahnwärter Thiel, Munich on Fri 31 Jul.
 
@@ -25,4 +25,4 @@ Terzenbreaker is a trance and techno artist based in Germany, tracked on soundch
 
 antyo, LOOMINAS, danuschek
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/terzenbreaker/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/terzenbreaker/)*

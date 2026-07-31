@@ -1,14 +1,13 @@
 # AMÉMÉ
 
-AMÉMÉ is a Afro House and House artist with 8 upcoming club dates listed on soundcheck as of Thu, 30 Jul 2026, next at Cova Santa, Ibiza on Thu, 30 Jul 2026.
+AMÉMÉ is a Afro House and House artist with 7 upcoming club dates listed on soundcheck as of Fri, 31 Jul 2026, next at LA-YAM Rooftop, London on Sat, 1 Aug 2026.
 
-AMÉMÉ is an afro house and house artist tracked on soundcheck, with 139 sets logged across Amsterdam, Antwerp, Athens and Austin and 35 more. Often billed alongside Jamie Jones, Loco Dice and NenaHalena. Next up: Cova Santa, Ibiza on Thu 30 Jul.
+AMÉMÉ is an afro house and house artist tracked on soundcheck, with 139 sets logged across Amsterdam, Antwerp, Athens and Austin and 35 more. Often billed alongside Jamie Jones, Loco Dice and NenaHalena. Next up: LA-YAM Rooftop, London on Sat 1 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Thu, 30 Jul 2026 | Cova Santa | Ibiza |
 | Sat, 1 Aug 2026 | LA-YAM Rooftop | London |
 | Fri, 7 Aug 2026 | Parc del Fòrum | Barcelona |
 | Thu, 17 Sept 2026 | Hï Ibiza | Ibiza |
@@ -19,6 +18,7 @@ AMÉMÉ is an afro house and house artist tracked on soundcheck, with 139 sets l
 
 ## Recently played
 
+- Cova Santa, Ibiza — Thu, 30 Jul 2026
 - Jungle Island, Miami — Sat, 18 Jul 2026
 - Knockdown Center, New York City — Fri, 17 Jul 2026
 - Chinois Ibiza, Ibiza — Fri, 10 Jul 2026
@@ -26,10 +26,9 @@ AMÉMÉ is an afro house and house artist tracked on soundcheck, with 139 sets l
 - Moon Warsaw, Warsaw — Sat, 13 Jun 2026
 - Island Athens Riviera, Athens — Sun, 7 Jun 2026
 - Pacha Ibiza, Ibiza — Fri, 5 Jun 2026
-- Santa Monica Pier, Los Angeles — Sat, 30 May 2026
 
 ## Shares bills with
 
 Jamie Jones, Loco Dice, NenaHalena
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/ameme-us/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/ameme-us/)*

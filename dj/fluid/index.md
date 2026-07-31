@@ -1,6 +1,6 @@
 # Fluid
 
-Fluid is a Techno and Industrial artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at TBA - Secret Location, Berlin on Fri, 7 Aug 2026.
+Fluid is a Techno and Industrial artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at TBA - Secret Location, Berlin on Fri, 7 Aug 2026.
 
 Fluid is a techno and industrial artist based in Germany, tracked on soundcheck, with 27 sets logged across Barcelona, Berlin, London and Newyorkcity and 1 more. Often billed alongside hybral, Nicki Black and Nnamael. Next up: TBA - Secret Location, Berlin on Fri 7 Aug.
 
@@ -25,4 +25,4 @@ Fluid is a techno and industrial artist based in Germany, tracked on soundcheck,
 
 hybral, Nicki Black, Nnamael
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/fluid/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/fluid/)*

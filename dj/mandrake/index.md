@@ -1,6 +1,6 @@
 # Mandrake
 
-Mandrake is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at Do Not Sit On The Furniture, Miami on Sat, 8 Aug 2026.
+Mandrake is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at Do Not Sit On The Furniture, Miami on Sat, 8 Aug 2026.
 
 Mandrake is a house and deep house artist tracked on soundcheck, with 39 sets logged across Berlin, Istanbul, London and Losangeles and 9 more. Often billed alongside Chris Schwarzwälder, Mira and Britta Arnold. Next up: Do Not Sit On The Furniture, Miami on Sat 8 Aug.
 
@@ -25,4 +25,4 @@ Mandrake is a house and deep house artist tracked on soundcheck, with 39 sets lo
 
 Chris Schwarzwälder, Mira, Britta Arnold
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/mandrake/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/mandrake/)*

@@ -1,6 +1,6 @@
 # Martxas
 
-Martxas is a Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at ://about blank, Berlin on Thu, 6 Aug 2026.
+Martxas is a Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at ://about blank, Berlin on Thu, 6 Aug 2026.
 
 Martxas is a techno artist based in Spain, tracked on soundcheck, with 3 sets logged across Berlin. Often billed alongside GVMEDNA, SIUL (1) and BRT.C. Next up: ://about blank, Berlin on Thu 6 Aug.
 
@@ -19,4 +19,4 @@ Martxas is a techno artist based in Spain, tracked on soundcheck, with 3 sets lo
 
 GVMEDNA, SIUL (1), BRT.C
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/martxas/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/martxas/)*

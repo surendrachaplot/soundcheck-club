@@ -1,6 +1,6 @@
 # Malo Z
 
-Malo Z is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at Circle Park, Brussels on Sat, 8 Aug 2026.
+Malo Z is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at Circle Park, Brussels on Sat, 8 Aug 2026.
 
 Malo Z is a house and techno artist based in Belgium, tracked on soundcheck, with 31 sets logged across Antwerp, Athens, Brussels and Ghent. Often billed alongside Violently Happy, DJ Rino and Dana Montana. Next up: Circle Park, Brussels on Sat 8 Aug.
 
@@ -25,4 +25,4 @@ Malo Z is a house and techno artist based in Belgium, tracked on soundcheck, wit
 
 Violently Happy, DJ Rino, Dana Montana
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/maloz/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/maloz/)*

@@ -1,6 +1,6 @@
 # Gabbs
 
-Gabbs is a House and Techno artist with 4 upcoming club dates listed on soundcheck as of Thu, 30 Jul 2026, next at Flash, Washington DC on Fri, 7 Aug 2026.
+Gabbs is a House and Techno artist with 4 upcoming club dates listed on soundcheck as of Fri, 31 Jul 2026, next at Flash, Washington DC on Fri, 7 Aug 2026.
 
 Gabbs is a house and techno artist tracked on soundcheck, with 177 sets logged across Amsterdam, Antwerp, Austin and Barcelona and 37 more. Often billed alongside Alexia Glensy, Christian AB and DJ Senc. Next up: Flash, Washingtondc on Fri 7 Aug.
 
@@ -9,7 +9,7 @@ Gabbs is a house and techno artist tracked on soundcheck, with 177 sets logged a
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 7 Aug 2026 | Flash | Washington DC |
-| Sat, 8 Aug 2026 | TBA - Bushwick Rooftop | New York City |
+| Sat, 8 Aug 2026 | 314 Scholes | New York City |
 | Sat, 5 Sept 2026 | Seaseaclub Barcelona | Barcelona |
 | Sat, 12 Sept 2026 | Bunker | Turin |
 
@@ -28,4 +28,4 @@ Gabbs is a house and techno artist tracked on soundcheck, with 177 sets logged a
 
 Alexia Glensy, Christian AB, DJ Senc
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/gabbs/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/gabbs/)*

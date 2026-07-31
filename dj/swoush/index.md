@@ -1,6 +1,6 @@
 # Swoush
 
-Swoush is a Bass and Club artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at Virage, Paris on Sat, 1 Aug 2026.
+Swoush is a Bass and Club artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at Virage, Paris on Sat, 1 Aug 2026.
 
 Swoush is a bass and club artist based in France, tracked on soundcheck, with 10 sets logged across Berlin, Marseille and Paris. Often billed alongside Unsho, Halfpipe Records and Enflure. Next up: Virage, Paris on Sat 1 Aug.
 
@@ -25,4 +25,4 @@ Swoush is a bass and club artist based in France, tracked on soundcheck, with 10
 
 Unsho, Halfpipe Records, Enflure
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/swoush/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/swoush/)*

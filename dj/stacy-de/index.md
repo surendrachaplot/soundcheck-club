@@ -1,6 +1,6 @@
 # Stacy
 
-Stacy is a Trance and Techno artist with 3 upcoming club dates listed on soundcheck as of Thu, 30 Jul 2026, next at Lokschuppen Berlin, Berlin on Fri, 31 Jul 2026.
+Stacy is a Trance and Techno artist with 3 upcoming club dates listed on soundcheck as of Fri, 31 Jul 2026, next at Lokschuppen Berlin, Berlin on Fri, 31 Jul 2026.
 
 Stacy is a trance and techno artist based in Germany, tracked on soundcheck, with 33 sets logged across Berlin, Hamburg and Toronto. Often billed alongside alemiko, Balkhausen and DJ Henk. Next up: Lokschuppen Berlin, Berlin on Fri 31 Jul.
 
@@ -27,4 +27,4 @@ Stacy is a trance and techno artist based in Germany, tracked on soundcheck, wit
 
 alemiko, Balkhausen, DJ Henk
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/stacy-de/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/stacy-de/)*

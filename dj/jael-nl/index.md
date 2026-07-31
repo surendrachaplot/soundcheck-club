@@ -1,6 +1,6 @@
 # JAEL
 
-JAEL is a House and Bass artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at ZeyZey, Miami on Sat, 5 Sept 2026.
+JAEL is a House and Bass artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at ZeyZey, Miami on Sat, 5 Sept 2026.
 
 JAEL is a house and bass artist tracked on soundcheck, with 89 sets logged across Amsterdam, Auckland, Barcelona and Berlin and 34 more. Often billed alongside p-rallel, Fafi Abdel Nour and Jerrau. Next up: ZeyZey, Miami on Sat 5 Sept.
 
@@ -25,4 +25,4 @@ JAEL is a house and bass artist tracked on soundcheck, with 89 sets logged acros
 
 p-rallel, Fafi Abdel Nour, Jerrau
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/jael-nl/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/jael-nl/)*

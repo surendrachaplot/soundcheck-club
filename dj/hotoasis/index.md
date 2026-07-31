@@ -1,6 +1,6 @@
 # Hot Oasis
 
-Hot Oasis is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at Jonny Knüppel, Berlin on Fri, 31 Jul 2026.
+Hot Oasis is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at Jonny Knüppel, Berlin on Fri, 31 Jul 2026.
 
 Hot Oasis is a house and techno artist based in United Kingdom, tracked on soundcheck, with 12 sets logged across Amsterdam, Berlin and London. Often billed alongside Aidan Doherty, Jorge Martins and Saraabb. Next up: Jonny Knüppel, Berlin on Fri 31 Jul.
 
@@ -25,4 +25,4 @@ Hot Oasis is a house and techno artist based in United Kingdom, tracked on sound
 
 Aidan Doherty, Jorge Martins, Saraabb
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/hotoasis/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/hotoasis/)*

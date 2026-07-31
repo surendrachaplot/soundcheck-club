@@ -1,6 +1,6 @@
 # Bridontknow
 
-Bridontknow is a Breakbeat and House artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at TBA, Berlin on Sat, 1 Aug 2026.
+Bridontknow is a Breakbeat and House artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at TBA, Berlin on Sat, 1 Aug 2026.
 
 Bridontknow is a breakbeat and house artist based in Germany, tracked on soundcheck, with 5 sets logged across Berlin and Cologne. Often billed alongside AEKO, Anuli and Ban2. Next up: TBA, Berlin on Sat 1 Aug.
 
@@ -21,4 +21,4 @@ Bridontknow is a breakbeat and house artist based in Germany, tracked on soundch
 
 AEKO, Anuli, Ban2
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/bridontknow/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/bridontknow/)*

@@ -1,6 +1,6 @@
 # Plain Sailing DJs
 
-Plain Sailing DJs is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at The Ulster Sports Club, Belfast on Fri, 7 Aug 2026.
+Plain Sailing DJs is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at The Ulster Sports Club, Belfast on Fri, 7 Aug 2026.
 
 Plain Sailing DJs is a techno and house artist tracked on soundcheck, with 30 sets logged across Belfast. Often billed alongside Reger, Holly Lester and Optmst. Next up: The Ulster Sports Club, Belfast on Fri 7 Aug.
 
@@ -25,4 +25,4 @@ Plain Sailing DJs is a techno and house artist tracked on soundcheck, with 30 se
 
 Reger, Holly Lester, Optmst
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/plainsailingdjs/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/plainsailingdjs/)*

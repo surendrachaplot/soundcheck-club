@@ -1,6 +1,6 @@
 # SALD3E
 
-SALD3E is a Hip-Hop and Club artist with 2 upcoming club dates listed on soundcheck as of Thu, 30 Jul 2026, next at The Haggerston, London on Sat, 8 Aug 2026.
+SALD3E is a Hip-Hop and Club artist with 2 upcoming club dates listed on soundcheck as of Fri, 31 Jul 2026, next at The Haggerston, London on Sat, 8 Aug 2026.
 
 SALD3E is a hip-hop and club artist tracked on soundcheck, with 30 sets logged across London. Often billed alongside Kieran Dotwav, TEBI TV and DotTV. Next up: The Haggerston, London on Sat 8 Aug.
 
@@ -26,4 +26,4 @@ SALD3E is a hip-hop and club artist tracked on soundcheck, with 30 sets logged a
 
 Kieran Dotwav, TEBI TV, DotTV
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/sald3e/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/sald3e/)*

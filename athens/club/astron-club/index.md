@@ -1,6 +1,6 @@
 # Astron Club
 
-Astron Club is a music venue in Athens with 3 upcoming nights listed on soundcheck as of Thu, 30 Jul 2026; the next is "ACN with Hezma // ROENTGEN // Eleusinia Mysteria" on Fri, 31 Jul 2026.
+Astron Club is a music venue in Athens with 3 upcoming nights listed on soundcheck as of Fri, 31 Jul 2026; the next is "ACN with Hezma // ROENTGEN // Eleusinia Mysteria" on Fri, 31 Jul 2026.
 
 Astron Club is a music venue in Athens listed on soundcheck. 3 upcoming nights, with line-ups including BMSK, Eleusinia Mysteria, Hezma and Icarus in love and 2 more. Browse upcoming dates, start times and who's playing. 121 Konstantinoupoleos St., Athens 104 47, Greece.
 
@@ -16,4 +16,4 @@ Astron Club is a music venue in Athens listed on soundcheck. 3 upcoming nights, 
 
 121 Konstantinoupoleos St., Athens 104 47, Greece, Athens
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/athens/club/astron-club/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/athens/club/astron-club/)*

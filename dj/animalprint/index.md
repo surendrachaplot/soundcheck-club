@@ -1,6 +1,6 @@
 # Animal Print
 
-Animal Print is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Thu, 30 Jul 2026, next at Sala El Sol, Madrid on Fri, 31 Jul 2026.
+Animal Print is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Fri, 31 Jul 2026, next at Sala El Sol, Madrid on Fri, 31 Jul 2026.
 
 Animal Print is a house and techno artist based in Bolivia, tracked on soundcheck, with 9 sets logged across Barcelona, Copenhagen and Madrid. Often billed alongside Azpecialguest, AVI.avi and Adexia. Next up: Sala El Sol, Madrid on Fri 31 Jul.
 
@@ -25,4 +25,4 @@ Animal Print is a house and techno artist based in Bolivia, tracked on soundchec
 
 Azpecialguest, AVI.avi, Adexia
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/animalprint/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/animalprint/)*

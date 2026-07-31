@@ -1,6 +1,6 @@
 # Clit.hub
 
-Clit.hub is a Club and Experimental artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at Metropolitan Bar, New York City on Fri, 7 Aug 2026.
+Clit.hub is a Club and Experimental artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at Metropolitan Bar, New York City on Fri, 7 Aug 2026.
 
 Clit.hub is a club and experimental artist based in United States of America, tracked on soundcheck, with 12 sets logged across Newyorkcity. Often billed alongside LITA DA DOLL, Archangel and BLAIZE. Next up: Metropolitan Bar, Newyorkcity on Fri 7 Aug.
 
@@ -25,4 +25,4 @@ Clit.hub is a club and experimental artist based in United States of America, tr
 
 LITA DA DOLL, Archangel, BLAIZE
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/clit.hub/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/clit.hub/)*

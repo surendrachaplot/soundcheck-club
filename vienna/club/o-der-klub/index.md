@@ -1,6 +1,6 @@
 # O der Klub
 
-O der Klub is a music venue in Vienna with 5 upcoming nights listed on soundcheck as of Thu, 30 Jul 2026; the next is "Afterparty Isle of Summer Vienna" on Sat, 1 Aug 2026.
+O der Klub is a music venue in Vienna with 5 upcoming nights listed on soundcheck as of Fri, 31 Jul 2026; the next is "Afterparty Isle of Summer Vienna" on Sat, 1 Aug 2026.
 
 O der Klub is a music venue in Vienna listed on soundcheck. 5 upcoming nights, with line-ups including Albin Brezlan, Carl Haze, Chris Avantgarde and Denes Toth and 2 more. Browse upcoming dates, start times and who's playing. Opernring/Operngasse, 1010 Wien.
 
@@ -18,4 +18,4 @@ O der Klub is a music venue in Vienna listed on soundcheck. 5 upcoming nights, w
 
 Opernring/Operngasse, 1010 Wien, Vienna
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/vienna/club/o-der-klub/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/vienna/club/o-der-klub/)*

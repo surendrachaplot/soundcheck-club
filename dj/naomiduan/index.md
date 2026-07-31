@@ -1,6 +1,6 @@
 # Naomi Duan
 
-Naomi Duan is a Techno and Electronica artist with 2 upcoming club dates listed on soundcheck as of Thu, 30 Jul 2026, next at Refuge, New York City on Fri, 7 Aug 2026.
+Naomi Duan is a Techno and Electronica artist with 2 upcoming club dates listed on soundcheck as of Fri, 31 Jul 2026, next at Refuge, New York City on Fri, 7 Aug 2026.
 
 Naomi Duan is a techno and electronica artist based in United States of America, tracked on soundcheck, with 7 sets logged across Detroit, Miami and Newyorkcity. Often billed alongside 1morning, Alex Stein and Daybreak. Next up: Refuge, Newyorkcity on Fri 7 Aug.
 
@@ -23,4 +23,4 @@ Naomi Duan is a techno and electronica artist based in United States of America,
 
 1morning, Alex Stein, Daybreak
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/naomiduan/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/naomiduan/)*

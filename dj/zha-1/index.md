@@ -1,6 +1,6 @@
 # Zha (UK)
 
-Zha (UK) is a Dubstep and Vaporwave artist with 2 upcoming club dates listed on soundcheck as of Thu, 30 Jul 2026, next at TBA, Vancouver on Sat, 1 Aug 2026.
+Zha (UK) is a Dubstep and Vaporwave artist with 2 upcoming club dates listed on soundcheck as of Fri, 31 Jul 2026, next at TBA, Vancouver on Sat, 1 Aug 2026.
 
 Zha (UK) is a dubstep and vaporwave artist tracked on soundcheck, with 13 sets logged across Bristol, London, Manchester and Vancouver. Often billed alongside Ourman, Cimm and Mystic State. Next up: TBA, Vancouver on Sat 1 Aug.
 
@@ -26,4 +26,4 @@ Zha (UK) is a dubstep and vaporwave artist tracked on soundcheck, with 13 sets l
 
 Ourman, Cimm, Mystic State
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/zha-1/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/zha-1/)*

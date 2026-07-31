@@ -1,6 +1,6 @@
 # Ixpé
 
-Ixpé is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at Wanderlust, Paris on Thu, 13 Aug 2026.
+Ixpé is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at Wanderlust, Paris on Thu, 13 Aug 2026.
 
 Ixpé is a techno and house artist tracked on soundcheck, with 50 sets logged across Antwerp, Berlin, Lisbon and Madrid and 2 more. Often billed alongside A-440, Ba-Vic and Nannä Volta. Next up: Wanderlust, Paris on Thu 13 Aug.
 
@@ -25,4 +25,4 @@ Ixpé is a techno and house artist tracked on soundcheck, with 50 sets logged ac
 
 A-440, Ba-Vic, Nannä Volta
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/ixpe/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/ixpe/)*

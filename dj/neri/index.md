@@ -1,6 +1,6 @@
 # Neri
 
-Neri is a House and Disco artist with 2 upcoming club dates listed on soundcheck as of Thu, 30 Jul 2026, next at DeTour, Tokyo on Sun, 2 Aug 2026.
+Neri is a House and Disco artist with 2 upcoming club dates listed on soundcheck as of Fri, 31 Jul 2026, next at DeTour, Tokyo on Sun, 2 Aug 2026.
 
 Neri is a house and disco artist based in Japan, tracked on soundcheck, with 100 sets logged across Athens and Tokyo. Often billed alongside DJ Shu-ma, DJ ISE and Stev3NN. Next up: DeTour, Tokyo on Sun 2 Aug.
 
@@ -26,4 +26,4 @@ Neri is a house and disco artist based in Japan, tracked on soundcheck, with 100
 
 DJ Shu-ma, DJ ISE, Stev3NN
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/neri/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/neri/)*

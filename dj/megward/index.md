@@ -1,8 +1,8 @@
 # Meg Ward
 
-Meg Ward is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Thu, 30 Jul 2026, next at radial, London on Fri, 21 Aug 2026.
+Meg Ward is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Fri, 31 Jul 2026, next at radial, London on Fri, 21 Aug 2026.
 
-Meg Ward is a house and techno artist tracked on soundcheck, with 51 sets logged across Bristol, Edinburgh, Ibiza and Leeds and 4 more. Often billed alongside Harry Gay, Junior Simba and Jaguar. Next up: radial, London on Fri 21 Aug.
+Meg Ward is a house and techno artist tracked on soundcheck, with 52 sets logged across Bristol, Edinburgh, Ibiza and Leeds and 4 more. Often billed alongside Harry Gay, Junior Simba and Jaguar. Next up: radial, London on Fri 21 Aug.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Meg Ward is a house and techno artist tracked on soundcheck, with 51 sets logged
 | --- | --- | --- |
 | Fri, 21 Aug 2026 | radial | London |
 | Fri, 4 Sept 2026 | Lost Horizon | Bristol |
+| Fri, 11 Sept 2026 | The Glove That Fits | London |
 
 ## Recently played
 
@@ -26,4 +27,4 @@ Meg Ward is a house and techno artist tracked on soundcheck, with 51 sets logged
 
 Harry Gay, Junior Simba, Jaguar
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/megward/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/megward/)*

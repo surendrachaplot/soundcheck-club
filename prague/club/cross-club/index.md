@@ -1,6 +1,6 @@
 # Cross Club
 
-Cross Club is a music venue in Prague with 4 upcoming nights listed on soundcheck as of Thu, 30 Jul 2026; the next is "CROSS SQUARE with BUTY" on Fri, 31 Jul 2026.
+Cross Club is a music venue in Prague with 4 upcoming nights listed on soundcheck as of Fri, 31 Jul 2026; the next is "CROSS SQUARE with BUTY" on Fri, 31 Jul 2026.
 
 Cross Club is a music venue in Prague listed on soundcheck. 4 upcoming nights, with line-ups including fleika. Browse upcoming dates, start times and who's playing. Plynární 1096/23, Praha 7, Czech Republic.
 
@@ -17,4 +17,4 @@ Cross Club is a music venue in Prague listed on soundcheck. 4 upcoming nights, w
 
 Plynární 1096/23, Praha 7, Czech Republic, Prague
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/prague/club/cross-club/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/prague/club/cross-club/)*

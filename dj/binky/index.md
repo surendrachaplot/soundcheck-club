@@ -1,6 +1,6 @@
 # BINKY
 
-BINKY is a Club and Techno artist with 3 upcoming club dates listed on soundcheck as of Thu, 30 Jul 2026, next at Village Studios, Vancouver on Sun, 2 Aug 2026.
+BINKY is a Club and Techno artist with 3 upcoming club dates listed on soundcheck as of Fri, 31 Jul 2026, next at Village Studios, Vancouver on Sun, 2 Aug 2026.
 
 BINKY is a club and techno artist based in Canada, tracked on soundcheck, with 32 sets logged across London, Toronto and Vancouver. Often billed alongside Brendocha, EtOH and soratora. Next up: Village Studios, Vancouver on Sun 2 Aug.
 
@@ -27,4 +27,4 @@ BINKY is a club and techno artist based in Canada, tracked on soundcheck, with 3
 
 Brendocha, EtOH, soratora
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/binky/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/binky/)*

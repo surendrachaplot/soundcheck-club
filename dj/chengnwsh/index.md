@@ -1,6 +1,6 @@
 # cheng nwsh
 
-cheng nwsh is a Bass and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at Giri, Berlin on Fri, 31 Jul 2026.
+cheng nwsh is a Bass and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at Giri, Berlin on Fri, 31 Jul 2026.
 
 cheng nwsh is a bass and techno artist based in China, tracked on soundcheck, with 38 sets logged across Berlin, Copenhagen, Leipzig and Melbourne. Often billed alongside DJ Carlita, Ben Sleia and Low End Activist. Next up: Giri, Berlin on Fri 31 Jul.
 
@@ -25,4 +25,4 @@ cheng nwsh is a bass and techno artist based in China, tracked on soundcheck, wi
 
 DJ Carlita, Ben Sleia, Low End Activist
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/chengnwsh/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/chengnwsh/)*

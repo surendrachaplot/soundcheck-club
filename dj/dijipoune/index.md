@@ -1,6 +1,6 @@
 # Dijipoune
 
-Dijipoune is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Thu, 30 Jul 2026, next at Système, Montreal on Sat, 1 Aug 2026.
+Dijipoune is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Fri, 31 Jul 2026, next at Système, Montreal on Sat, 1 Aug 2026.
 
 Dijipoune is a techno and house artist based in Canada, tracked on soundcheck, with 24 sets logged across Montreal and Toronto. Often billed alongside Field Note, h1bou and zi!. Next up: Système, Montreal on Sat 1 Aug.
 
@@ -26,4 +26,4 @@ Dijipoune is a techno and house artist based in Canada, tracked on soundcheck, w
 
 Field Note, h1bou, zi!
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/dijipoune/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/dijipoune/)*

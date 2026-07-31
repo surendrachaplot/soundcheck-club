@@ -1,8 +1,8 @@
 # Gaskin
 
-Gaskin is a House and Tech House artist with 15 upcoming club dates listed on soundcheck as of Thu, 30 Jul 2026, next at Tiger Yard, Cardiff on Sat, 1 Aug 2026.
+Gaskin is a House and Tech House artist with 17 upcoming club dates listed on soundcheck as of Fri, 31 Jul 2026, next at Tiger Yard, Cardiff on Sat, 1 Aug 2026.
 
-Gaskin is a house and tech house artist tracked on soundcheck, with 176 sets logged across Aberdeen, Amsterdam, Antwerp and Austin and 32 more. Often billed alongside Ellia Jaya, L.P. Rhythm and Ellam. Next up: Tiger Yard, Cardiff on Sat 1 Aug.
+Gaskin is a house and tech house artist tracked on soundcheck, with 178 sets logged across Aberdeen, Amsterdam, Antwerp and Austin and 32 more. Often billed alongside Ellia Jaya, L.P. Rhythm and Ellam. Next up: Tiger Yard, Cardiff on Sat 1 Aug.
 
 ## Upcoming shows
 
@@ -17,9 +17,9 @@ Gaskin is a house and tech house artist tracked on soundcheck, with 176 sets log
 | Sun, 6 Sept 2026 | Los Angeles State Historic Park | Los Angeles |
 | Sun, 6 Sept 2026 | Los Angeles State Historic Park | Los Angeles |
 | Fri, 11 Sept 2026 | Palmerstown House Estate | Dublin |
+| Sun, 13 Sept 2026 | Colorado Charlie | The Hague |
 | Tue, 15 Sept 2026 | Hï Ibiza | Ibiza |
 | Thu, 17 Sept 2026 | UNO MALTA | Malta |
-| Fri, 18 Sept 2026 | UNO MALTA | Malta |
 
 ## Recently played
 
@@ -36,4 +36,4 @@ Gaskin is a house and tech house artist tracked on soundcheck, with 176 sets log
 
 Ellia Jaya, L.P. Rhythm, Ellam
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/gaskin/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/gaskin/)*

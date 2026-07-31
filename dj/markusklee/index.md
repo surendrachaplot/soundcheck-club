@@ -1,13 +1,14 @@
 # Markus Klee
 
-Markus Klee is a Techno and House artist with 5 upcoming club dates listed on soundcheck as of Thu, 30 Jul 2026, next at Ritter Butzke, Berlin on Sat, 15 Aug 2026.
+Markus Klee is a Techno and House artist with 6 upcoming club dates listed on soundcheck as of Fri, 31 Jul 2026, next at Ritter Butzke, Berlin on Sat, 8 Aug 2026.
 
-Markus Klee is a techno and house artist tracked on soundcheck, with 79 sets logged across Amsterdam, Berlin, Copenhagen and Frankfurt and 8 more. Often billed alongside Prismode, Solvane and Super Flu. Next up: Ritter Butzke, Berlin on Sat 15 Aug.
+Markus Klee is a techno and house artist tracked on soundcheck, with 80 sets logged across Amsterdam, Berlin, Copenhagen and Frankfurt and 8 more. Often billed alongside Prismode, Solvane and Malouna. Next up: Ritter Butzke, Berlin on Sat 8 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 8 Aug 2026 | Ritter Butzke | Berlin |
 | Sat, 15 Aug 2026 | Ritter Butzke | Berlin |
 | Sat, 29 Aug 2026 | Insomnia | Berlin |
 | Sat, 5 Sept 2026 | MTW | Frankfurt |
@@ -27,6 +28,6 @@ Markus Klee is a techno and house artist tracked on soundcheck, with 79 sets log
 
 ## Shares bills with
 
-Prismode, Solvane, Super Flu
+Prismode, Solvane, Malouna
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/markusklee/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/markusklee/)*

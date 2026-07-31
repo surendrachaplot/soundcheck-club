@@ -1,6 +1,6 @@
 # KATALYSSST
 
-KATALYSSST is a Hip-Hop and R&B artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at Jumbi, London on Fri, 31 Jul 2026.
+KATALYSSST is a Hip-Hop and R&B artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at Jumbi, London on Fri, 31 Jul 2026.
 
 KATALYSSST is a hip-hop and r&b artist based in United Kingdom, tracked on soundcheck, with 19 sets logged across London. Often billed alongside Kieran Dotwav, SALD3E and CHAOS. Next up: Jumbi, London on Fri 31 Jul.
 
@@ -25,4 +25,4 @@ KATALYSSST is a hip-hop and r&b artist based in United Kingdom, tracked on sound
 
 Kieran Dotwav, SALD3E, CHAOS
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/katalyssst/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/katalyssst/)*

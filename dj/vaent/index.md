@@ -1,6 +1,6 @@
 # VAENT
 
-VAENT is a Techno and Trance artist with 2 upcoming club dates listed on soundcheck as of Thu, 30 Jul 2026, next at Le point fort d'Aubervilliers, Paris on Sat, 1 Aug 2026.
+VAENT is a Techno and Trance artist with 2 upcoming club dates listed on soundcheck as of Fri, 31 Jul 2026, next at Le point fort d'Aubervilliers, Paris on Sat, 1 Aug 2026.
 
 VAENT is a techno and trance artist tracked on soundcheck, with 23 sets logged across Berlin, Cologne, Frankfurt and Glasgow and 3 more. Often billed alongside 3LEEZA, HANÀ and Niotech. Next up: Le point fort d'Aubervilliers, Paris on Sat 1 Aug.
 
@@ -26,4 +26,4 @@ VAENT is a techno and trance artist tracked on soundcheck, with 23 sets logged a
 
 3LEEZA, HANÀ, Niotech
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/vaent/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/vaent/)*

@@ -1,6 +1,6 @@
 # SENU
 
-SENU is a Bass and House artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at RSO.BERLIN, Berlin on Sat, 8 Aug 2026.
+SENU is a Bass and House artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at RSO.BERLIN, Berlin on Sat, 8 Aug 2026.
 
 SENU is a bass and house artist based in Germany, tracked on soundcheck, with 24 sets logged across Berlin, Brussels, Cologne and Hamburg and 2 more. Often billed alongside Sarah Farina, JAXX TMS and Slimgirl fat. Next up: RSO.BERLIN, Berlin on Sat 8 Aug.
 
@@ -25,4 +25,4 @@ SENU is a bass and house artist based in Germany, tracked on soundcheck, with 24
 
 Sarah Farina, JAXX TMS, Slimgirl fat
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/senu/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/senu/)*

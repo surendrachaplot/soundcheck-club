@@ -1,6 +1,6 @@
 # Faerber
 
-Faerber is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at RSO.BERLIN, Berlin on Thu, 13 Aug 2026.
+Faerber is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at RSO.BERLIN, Berlin on Thu, 13 Aug 2026.
 
 Faerber is a techno and house artist based in Germany, tracked on soundcheck, with 50 sets logged across Berlin, Cologne, Copenhagen and Frankfurt and 1 more. Often billed alongside N.R.M, ENNIO and Cryptofauna. Next up: RSO.BERLIN, Berlin on Thu 13 Aug.
 
@@ -25,4 +25,4 @@ Faerber is a techno and house artist based in Germany, tracked on soundcheck, wi
 
 N.R.M, ENNIO, Cryptofauna
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/faerber/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/faerber/)*

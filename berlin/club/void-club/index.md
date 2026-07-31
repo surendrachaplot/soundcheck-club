@@ -1,6 +1,6 @@
 # Void Club
 
-Void Club is a music venue in Berlin with 12 upcoming nights listed on soundcheck as of Thu, 30 Jul 2026; the next is "KollektivKlang - KlangKnospe - Candyflip - IloveModus - Abgedreht - Eternity - R3M - Lerm " on Fri, 31 Jul 2026.
+Void Club is a music venue in Berlin with 12 upcoming nights listed on soundcheck as of Fri, 31 Jul 2026; the next is "KollektivKlang - KlangKnospe - Candyflip - IloveModus - Abgedreht - Eternity - R3M - Lerm " on Fri, 31 Jul 2026.
 
 Void Club is a music venue in Berlin listed on soundcheck. 12 upcoming nights, with line-ups including ADOBE, Agem, Andi Beat and Andriiic and 2 more. Browse upcoming dates, start times and who's playing. Wiesenweg 5-9, 10365.
 
@@ -23,4 +23,4 @@ Void Club is a music venue in Berlin listed on soundcheck. 12 upcoming nights, w
 
 Wiesenweg 5-9, 10365, Berlin
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/void-club/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/void-club/)*

@@ -1,14 +1,15 @@
 # Radio Slave
 
-Radio Slave is a House and Techno artist with 5 upcoming club dates listed on soundcheck as of Thu, 30 Jul 2026, next at Playa Soleil Ibiza, Ibiza on Fri, 31 Jul 2026.
+Radio Slave is a House and Techno artist with 6 upcoming club dates listed on soundcheck as of Fri, 31 Jul 2026, next at Playa Soleil Ibiza, Ibiza on Fri, 31 Jul 2026.
 
-Radio Slave is a house and techno artist tracked on soundcheck, with 110 sets logged across Amsterdam, Antwerp, Athens and Bali and 40 more. Often billed alongside Tal Fussman, Anja Schneider and DJ Minx. Next up: Playa Soleil Ibiza, Ibiza on Fri 31 Jul.
+Radio Slave is a house and techno artist tracked on soundcheck, with 111 sets logged across Amsterdam, Antwerp, Athens and Bali and 40 more. Often billed alongside Anja Schneider, Tal Fussman and DJ Minx. Next up: Playa Soleil Ibiza, Ibiza on Fri 31 Jul.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 31 Jul 2026 | Playa Soleil Ibiza | Ibiza |
+| Mon, 3 Aug 2026 | Zürich - Various Venues | Zurich |
 | Mon, 3 Aug 2026 | Zürich - Various Venues | Zurich |
 | Mon, 3 Aug 2026 | Zürich - Various Venues | Zurich |
 | Sun, 16 Aug 2026 | Paal69 | Amsterdam |
@@ -27,6 +28,6 @@ Radio Slave is a house and techno artist tracked on soundcheck, with 110 sets lo
 
 ## Shares bills with
 
-Tal Fussman, Anja Schneider, DJ Minx
+Anja Schneider, Tal Fussman, DJ Minx
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/radioslave/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/radioslave/)*

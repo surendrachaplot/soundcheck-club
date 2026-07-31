@@ -1,6 +1,6 @@
 # Giorgio (BE)
 
-Giorgio (BE) is a House and Electro artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at Schans van Landmolen, Antwerp on Sat, 1 Aug 2026.
+Giorgio (BE) is a House and Electro artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at Schans van Landmolen, Antwerp on Sat, 1 Aug 2026.
 
 Giorgio (BE) is a house and electro artist based in Belgium, tracked on soundcheck, with 5 sets logged across Antwerp and Ghent. Often billed alongside Chipo Chipo, Malo Z and Oko Stellar. Next up: Schans van Landmolen, Antwerp on Sat 1 Aug.
 
@@ -21,4 +21,4 @@ Giorgio (BE) is a house and electro artist based in Belgium, tracked on soundche
 
 Chipo Chipo, Malo Z, Oko Stellar
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/giorgio-be/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/giorgio-be/)*

@@ -1,6 +1,6 @@
 # MAÏS
 
-MAÏS is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at Signature Brew Blackhorse Road, London on Sat, 1 Aug 2026.
+MAÏS is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at Signature Brew Blackhorse Road, London on Sat, 1 Aug 2026.
 
 MAÏS is a house and disco artist tracked on soundcheck, with 40 sets logged across Barcelona and London. Often billed alongside NOYB, Pableeto and Make Money Mafia. Next up: Signature Brew Blackhorse Road, London on Sat 1 Aug.
 
@@ -25,4 +25,4 @@ MAÏS is a house and disco artist tracked on soundcheck, with 40 sets logged acr
 
 NOYB, Pableeto, Make Money Mafia
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/maïs/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/maïs/)*

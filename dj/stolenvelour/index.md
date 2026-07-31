@@ -1,6 +1,6 @@
 # Stolen Velour
 
-Stolen Velour is a Club and Bass artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at Stereo, Glasgow on Sat, 1 Aug 2026.
+Stolen Velour is a Club and Bass artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at Stereo, Glasgow on Sat, 1 Aug 2026.
 
 Stolen Velour is a club and bass artist based in United Kingdom, tracked on soundcheck, with 44 sets logged across Berlin, Bristol, Brussels and Glasgow and 7 more. Often billed alongside Princess Elf Bar, Aria SL and AYDJ. Next up: Stereo, Glasgow on Sat 1 Aug.
 
@@ -25,4 +25,4 @@ Stolen Velour is a club and bass artist based in United Kingdom, tracked on soun
 
 Princess Elf Bar, Aria SL, AYDJ
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/stolenvelour/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/stolenvelour/)*

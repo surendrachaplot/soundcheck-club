@@ -1,6 +1,6 @@
 # Sweetyspot
 
-Sweetyspot is a Electro and Minimal artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at Sekta Selekta, Krakow on Sat, 1 Aug 2026.
+Sweetyspot is a Electro and Minimal artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at Sekta Selekta, Krakow on Sat, 1 Aug 2026.
 
 Sweetyspot is an electro and minimal artist tracked on soundcheck, with 12 sets logged across Krakow and Warsaw. Often billed alongside Nadezh No, zeroday and Badalian. Next up: Sekta Selekta, Krakow on Sat 1 Aug.
 
@@ -25,4 +25,4 @@ Sweetyspot is an electro and minimal artist tracked on soundcheck, with 12 sets 
 
 Nadezh No, zeroday, Badalian
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/sweetyspot/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/sweetyspot/)*

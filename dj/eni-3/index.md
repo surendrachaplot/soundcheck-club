@@ -1,6 +1,6 @@
 # Eni (3)
 
-Eni (3) is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at 45 London, London on Fri, 28 Aug 2026.
+Eni (3) is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at 45 London, London on Fri, 28 Aug 2026.
 
 Eni (3) is a house and deep house artist based in United Kingdom, tracked on soundcheck, with 16 sets logged across London. Often billed alongside LUUD, DeRizzio and Kesh (1). Next up: 45 London, London on Fri 28 Aug.
 
@@ -25,4 +25,4 @@ Eni (3) is a house and deep house artist based in United Kingdom, tracked on sou
 
 LUUD, DeRizzio, Kesh (1)
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/eni-3/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/eni-3/)*

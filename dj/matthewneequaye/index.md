@@ -1,6 +1,6 @@
 # Matthew Neequaye
 
-Matthew Neequaye is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Thu, 30 Jul 2026, next at Mastak, Warsaw on Sat, 1 Aug 2026.
+Matthew Neequaye is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Fri, 31 Jul 2026, next at Mastak, Warsaw on Sat, 1 Aug 2026.
 
 Matthew Neequaye is a house and techno artist tracked on soundcheck, with 51 sets logged across Amsterdam, Barcelona, Berlin and Ghent and 11 more. Often billed alongside Shanti Celeste, Children of Valis and Christian AB. Next up: Mastak, Warsaw on Sat 1 Aug.
 
@@ -27,4 +27,4 @@ Matthew Neequaye is a house and techno artist tracked on soundcheck, with 51 set
 
 Shanti Celeste, Children of Valis, Christian AB
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/matthewneequaye/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/matthewneequaye/)*

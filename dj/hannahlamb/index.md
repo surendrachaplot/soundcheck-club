@@ -1,6 +1,6 @@
 # Hannah Lamb
 
-Hannah Lamb is a House and Club artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at Cafe 1001, London on Sat, 29 Aug 2026.
+Hannah Lamb is a House and Club artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at Cafe 1001, London on Sat, 29 Aug 2026.
 
 Hannah Lamb is a house and club artist based in United Kingdom, tracked on soundcheck, with 13 sets logged across London. Often billed alongside Danny Vito, P-Man and Swoose. Next up: Cafe 1001, London on Sat 29 Aug.
 
@@ -25,4 +25,4 @@ Hannah Lamb is a house and club artist based in United Kingdom, tracked on sound
 
 Danny Vito, P-Man, Swoose
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/hannahlamb/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/hannahlamb/)*

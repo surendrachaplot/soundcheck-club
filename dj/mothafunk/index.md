@@ -1,6 +1,6 @@
 # Mothafunk
 
-Mothafunk is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at Apotheke, Los Angeles on Sat, 1 Aug 2026.
+Mothafunk is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at Apotheke, Los Angeles on Sat, 1 Aug 2026.
 
 Mothafunk is a house and disco artist based in United States of America, tracked on soundcheck, with 65 sets logged across Chicago, Losangeles, Melbourne and Newyorkcity. Often billed alongside Chris NG, Kgomotso and Sophie Forrest. Next up: Apotheke, Losangeles on Sat 1 Aug.
 
@@ -25,4 +25,4 @@ Mothafunk is a house and disco artist based in United States of America, tracked
 
 Chris NG, Kgomotso, Sophie Forrest
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/mothafunk/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/mothafunk/)*

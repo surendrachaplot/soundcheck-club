@@ -1,6 +1,6 @@
 # Sandra Mane
 
-Sandra Mane is a Techno and Tech House artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at Public Works, San Francisco/Oakland on Fri, 11 Sept 2026.
+Sandra Mane is a Techno and Tech House artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at Public Works, San Francisco/Oakland on Fri, 11 Sept 2026.
 
 Sandra Mane is a techno and tech house artist based in United States of America, tracked on soundcheck, with 27 sets logged across Newyorkcity and Sanfrancisco. Often billed alongside JustJovani, PAIJE and DJ Heartstring. Next up: Public Works, Sanfrancisco on Fri 11 Sept.
 
@@ -25,4 +25,4 @@ Sandra Mane is a techno and tech house artist based in United States of America,
 
 JustJovani, PAIJE, DJ Heartstring
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/sandramane/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/sandramane/)*

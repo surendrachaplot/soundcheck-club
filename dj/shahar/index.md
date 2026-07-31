@@ -1,6 +1,6 @@
 # Shahar
 
-Shahar is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at Ministry Of Sound, London on Sat, 1 Aug 2026.
+Shahar is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at Ministry Of Sound, London on Sat, 1 Aug 2026.
 
 Shahar is a house and tech house artist tracked on soundcheck, with 59 sets logged across Austin, Boston, London and Losangeles and 2 more. Often billed alongside Motum, Luquez and Jean-Paul. Next up: Ministry Of Sound, London on Sat 1 Aug.
 
@@ -25,4 +25,4 @@ Shahar is a house and tech house artist tracked on soundcheck, with 59 sets logg
 
 Motum, Luquez, Jean-Paul
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/shahar/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/shahar/)*

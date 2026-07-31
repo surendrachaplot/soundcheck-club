@@ -1,6 +1,6 @@
 # AMB (6)
 
-AMB (6) is a Techno and Club artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at Ankali & Planeta Za, Prague on Fri, 31 Jul 2026.
+AMB (6) is a Techno and Club artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at Ankali & Planeta Za, Prague on Fri, 31 Jul 2026.
 
 AMB (6) is a techno and club artist based in Czech Republic, tracked on soundcheck, with 24 sets logged across Prague. Often billed alongside Tasya, Alfred Czital and Mike.H. Next up: Ankali & Planeta Za, Prague on Fri 31 Jul.
 
@@ -25,4 +25,4 @@ AMB (6) is a techno and club artist based in Czech Republic, tracked on soundche
 
 Tasya, Alfred Czital, Mike.H
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/amb-6/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/amb-6/)*

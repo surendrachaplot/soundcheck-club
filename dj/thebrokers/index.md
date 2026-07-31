@@ -1,13 +1,14 @@
 # The Brokers
 
-The Brokers is a Italo Disco and Progressive House artist with 2 upcoming club dates listed on soundcheck as of Thu, 30 Jul 2026, next at Piccadilly Central, Manchester on Sat, 29 Aug 2026.
+The Brokers is a Progressive House and Italo Disco artist with 3 upcoming club dates listed on soundcheck as of Fri, 31 Jul 2026, next at TBA - Fountain Records | King Street, Stretford, Manchester on Sat, 15 Aug 2026.
 
-The Brokers is an italo disco and progressive house artist based in United Kingdom, tracked on soundcheck, with 21 sets logged across Manchester. Often billed alongside Aural-B, Róisín W and Demetae. Next up: Piccadilly Central, Manchester on Sat 29 Aug.
+The Brokers is a progressive house and italo disco artist based in United Kingdom, tracked on soundcheck, with 22 sets logged across Manchester. Often billed alongside Aural-B, Róisín W and Demetae. Next up: TBA - Fountain Records | King Street, Stretford, Manchester on Sat 15 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 15 Aug 2026 | TBA - Fountain Records / King Street, Stretford | Manchester |
 | Sat, 29 Aug 2026 | Piccadilly Central | Manchester |
 | Sat, 12 Sept 2026 | The Yard | Manchester |
 
@@ -26,4 +27,4 @@ The Brokers is an italo disco and progressive house artist based in United Kingd
 
 Aural-B, Róisín W, Demetae
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/thebrokers/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/thebrokers/)*

@@ -1,6 +1,6 @@
 # The Corner Bar @ Middle East
 
-The Corner Bar @ Middle East is a music venue in Boston with 1 upcoming night listed on soundcheck as of Thu, 30 Jul 2026; the next is "Dance Not Bombs: DJ Apparition, Itzybitzy, Sunrider, Junc-o" on Fri, 31 Jul 2026.
+The Corner Bar @ Middle East is a music venue in Boston with 1 upcoming night listed on soundcheck as of Fri, 31 Jul 2026; the next is "Dance Not Bombs: DJ Apparition, Itzybitzy, Sunrider, Junc-o" on Fri, 31 Jul 2026.
 
 The Corner Bar @ Middle East is a music venue in Boston listed on soundcheck. 1 upcoming night. Browse upcoming dates, start times and who's playing. 5 Brookline Ave, Cambridge, MA.
 
@@ -14,4 +14,4 @@ The Corner Bar @ Middle East is a music venue in Boston listed on soundcheck. 1 
 
 5 Brookline Ave, Cambridge, MA, Boston
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/boston/club/the-corner-bar-middle-east/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/boston/club/the-corner-bar-middle-east/)*

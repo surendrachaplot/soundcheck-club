@@ -1,6 +1,6 @@
 # Silence Groove
 
-Silence Groove is a Drum & Bass artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at Club Lucia, Vienna on Fri, 7 Aug 2026.
+Silence Groove is a Drum & Bass artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at Club Lucia, Vienna on Fri, 7 Aug 2026.
 
 Silence Groove is a drum & bass artist based in Poland, tracked on soundcheck, with 3 sets logged across Amsterdam, Bucharest and Vienna. Often billed alongside CHERCHES, Decaz and Doc Scott. Next up: Club Lucia, Vienna on Fri 7 Aug.
 
@@ -19,4 +19,4 @@ Silence Groove is a drum & bass artist based in Poland, tracked on soundcheck, w
 
 CHERCHES, Decaz, Doc Scott
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/silencegroove/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/silencegroove/)*

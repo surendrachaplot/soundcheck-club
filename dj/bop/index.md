@@ -1,6 +1,6 @@
 # Bop
 
-Bop is a Drum & Bass and Jungle artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at Hackney Wick Multiple Venues, London on Sat, 1 Aug 2026.
+Bop is a Drum & Bass and Jungle artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at Hackney Wick Multiple Venues, London on Sat, 1 Aug 2026.
 
 Bop is a drum & bass and jungle artist tracked on soundcheck, with 24 sets logged across Amsterdam, Berlin, Brighton and London and 1 more. Often billed alongside Synkro, London Elektricity and Nu:Tone. Next up: Hackney Wick Multiple Venues, London on Sat 1 Aug.
 
@@ -25,4 +25,4 @@ Bop is a drum & bass and jungle artist tracked on soundcheck, with 24 sets logge
 
 Synkro, London Elektricity, Nu:Tone
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/bop/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/bop/)*

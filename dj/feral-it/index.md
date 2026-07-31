@@ -1,6 +1,6 @@
 # Feral
 
-Feral is a Techno and Electronica artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at essaim, Paris on Sat, 12 Sept 2026.
+Feral is a Techno and Electronica artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at essaim, Paris on Sat, 12 Sept 2026.
 
 Feral is a techno and electronica artist tracked on soundcheck, with 65 sets logged across Amsterdam, Athens, Barcelona and Belgrade and 26 more. Often billed alongside Spekki Webu, Luigi Tozzi and Garçon. Next up: essaim, Paris on Sat 12 Sept.
 
@@ -25,4 +25,4 @@ Feral is a techno and electronica artist tracked on soundcheck, with 65 sets log
 
 Spekki Webu, Luigi Tozzi, Garçon
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/feral-it/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/feral-it/)*

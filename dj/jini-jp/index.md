@@ -1,6 +1,6 @@
 # JINI
 
-JINI is a Jazz and House artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at Unkompress, Berlin on Sat, 8 Aug 2026.
+JINI is a Jazz and House artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at Unkompress, Berlin on Sat, 8 Aug 2026.
 
 JINI is a jazz and house artist based in Japan, tracked on soundcheck, with 51 sets logged across Berlin and Tokyo. Often billed alongside Kurozumi, Leo Gabriel and Soul Matters. Next up: Unkompress, Berlin on Sat 8 Aug.
 
@@ -25,4 +25,4 @@ JINI is a jazz and house artist based in Japan, tracked on soundcheck, with 51 s
 
 Kurozumi, Leo Gabriel, Soul Matters
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/jini-jp/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/jini-jp/)*

@@ -1,6 +1,6 @@
 # Omnya
 
-Omnya is a Tech House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at Halcyon, San Francisco/Oakland on Fri, 31 Jul 2026.
+Omnya is a Tech House and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at Halcyon, San Francisco/Oakland on Fri, 31 Jul 2026.
 
 Omnya is a tech house and techno artist based in Israel, tracked on soundcheck, with 18 sets logged across Barcelona, Budapest, Frankfurt and Hongkong and 7 more. Often billed alongside TOBAK, Argy and Chris Avantgarde. Next up: Halcyon, Sanfrancisco on Fri 31 Jul.
 
@@ -25,4 +25,4 @@ Omnya is a tech house and techno artist based in Israel, tracked on soundcheck, 
 
 TOBAK, Argy, Chris Avantgarde
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/omnya/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/omnya/)*

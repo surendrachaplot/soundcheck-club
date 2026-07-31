@@ -1,6 +1,6 @@
 # Thodén
 
-Thodén is a Techno and Bass artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at Jolene, Copenhagen on Fri, 31 Jul 2026.
+Thodén is a Techno and Bass artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at Jolene, Copenhagen on Fri, 31 Jul 2026.
 
 Thodén is a techno and bass artist based in United Kingdom, tracked on soundcheck, with 27 sets logged across Berlin, Copenhagen, Manchester and Stockholm. Often billed alongside pai-lin, Alin and Ricq. Next up: Jolene, Copenhagen on Fri 31 Jul.
 
@@ -25,4 +25,4 @@ Thodén is a techno and bass artist based in United Kingdom, tracked on soundche
 
 pai-lin, Alin, Ricq
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/thoden/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/thoden/)*

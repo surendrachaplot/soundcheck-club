@@ -1,6 +1,6 @@
 # Rasaaq
 
-Rasaaq is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at UMI, Brussels on Sat, 29 Aug 2026.
+Rasaaq is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at UMI, Brussels on Sat, 29 Aug 2026.
 
 Rasaaq is a house and techno artist tracked on soundcheck, with 39 sets logged across Boston, Brussels, Denver and Lyon and 2 more. Often billed alongside CHAOUKI, Joe Rizk and Patchwork. Next up: UMI, Brussels on Sat 29 Aug.
 
@@ -25,4 +25,4 @@ Rasaaq is a house and techno artist tracked on soundcheck, with 39 sets logged a
 
 CHAOUKI, Joe Rizk, Patchwork
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/rasaaq/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/rasaaq/)*

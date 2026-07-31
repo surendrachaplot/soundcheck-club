@@ -1,6 +1,6 @@
 # Devoye
 
-Devoye is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at TBA - Bushwick, New York City on Fri, 31 Jul 2026.
+Devoye is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at TBA - Bushwick, New York City on Fri, 31 Jul 2026.
 
 Devoye is a techno and house artist based in United States of America, tracked on soundcheck, with 166 sets logged across Berlin, Boston, Detroit and Losangeles and 4 more. Often billed alongside Miss Parker, Rose Kourts and Shyboi. Next up: TBA - Bushwick, Newyorkcity on Fri 31 Jul.
 
@@ -25,4 +25,4 @@ Devoye is a techno and house artist based in United States of America, tracked o
 
 Miss Parker, Rose Kourts, Shyboi
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/devoye/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/devoye/)*

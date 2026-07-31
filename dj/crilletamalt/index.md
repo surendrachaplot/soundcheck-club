@@ -1,6 +1,6 @@
 # Crille & Tamalt
 
-Crille & Tamalt is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Thu, 30 Jul 2026, next at Distillery, Leipzig on Sat, 1 Aug 2026.
+Crille & Tamalt is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Fri, 31 Jul 2026, next at Distillery, Leipzig on Sat, 1 Aug 2026.
 
 Crille & Tamalt are a house and techno duo based in Germany, tracked on soundcheck, with 37 sets logged across Berlin, Hamburg and Leipzig. Often billed alongside Punani, Jaamann and Julio Paradise. Next up: Distillery, Leipzig on Sat 1 Aug.
 
@@ -26,4 +26,4 @@ Crille & Tamalt are a house and techno duo based in Germany, tracked on soundche
 
 Punani, Jaamann, Julio Paradise
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/crilletamalt/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/crilletamalt/)*

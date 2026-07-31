@@ -1,6 +1,6 @@
 # Dom Donnelly
 
-Dom Donnelly is a Experimental and Electronica artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at Life Park, Istanbul on Sat, 1 Aug 2026.
+Dom Donnelly is a Experimental and Electronica artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at Life Park, Istanbul on Sat, 1 Aug 2026.
 
 Dom Donnelly is an experimental and electronica artist based in United Kingdom, tracked on soundcheck, with 7 sets logged across Istanbul, London and Manchester. Often billed alongside Because of Art, Jody Wisternoff and Leaving Laurel. Next up: Life Park, Istanbul on Sat 1 Aug.
 
@@ -23,4 +23,4 @@ Dom Donnelly is an experimental and electronica artist based in United Kingdom, 
 
 Because of Art, Jody Wisternoff, Leaving Laurel
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/dom-donnelly/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/dom-donnelly/)*

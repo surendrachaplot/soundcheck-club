@@ -1,6 +1,6 @@
 # Markuss
 
-Markuss is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at La Paloma, Barcelona on Fri, 31 Jul 2026.
+Markuss is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at La Paloma, Barcelona on Fri, 31 Jul 2026.
 
 Markuss is a house and techno artist based in Spain, tracked on soundcheck, with 43 sets logged across Barcelona and Montreal. Often billed alongside CHRIS RAZZ, a$ia and Basement Scene. Next up: La Paloma, Barcelona on Fri 31 Jul.
 
@@ -25,4 +25,4 @@ Markuss is a house and techno artist based in Spain, tracked on soundcheck, with
 
 CHRIS RAZZ, a$ia, Basement Scene
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/markuss/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/markuss/)*

@@ -1,6 +1,6 @@
 # Artbat
 
-Artbat is a Techno and Progressive House artist with 8 upcoming club dates listed on soundcheck as of Thu, 30 Jul 2026, next at Downsview Park, Toronto on Fri, 31 Jul 2026.
+Artbat is a Techno and Progressive House artist with 8 upcoming club dates listed on soundcheck as of Fri, 31 Jul 2026, next at Downsview Park, Toronto on Fri, 31 Jul 2026.
 
 Artbat is a techno and progressive house artist tracked on soundcheck, with 117 sets logged across Amsterdam, Athens, Austin and Bali and 33 more. Often billed alongside Miss Monique, Adam Beyer and Argy. Next up: Downsview Park, Toronto on Fri 31 Jul.
 
@@ -32,4 +32,4 @@ Artbat is a techno and progressive house artist tracked on soundcheck, with 117 
 
 Miss Monique, Adam Beyer, Argy
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/Artbat/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/Artbat/)*

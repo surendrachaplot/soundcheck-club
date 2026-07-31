@@ -1,6 +1,6 @@
 # Anna Morgan
 
-Anna Morgan is a Jungle and Bass artist with 3 upcoming club dates listed on soundcheck as of Thu, 30 Jul 2026, next at SMS 514.613.5811 FOR LOCATION, Montreal on Sat, 1 Aug 2026.
+Anna Morgan is a Jungle and Bass artist with 3 upcoming club dates listed on soundcheck as of Fri, 31 Jul 2026, next at SMS 514.613.5811 FOR LOCATION, Montreal on Sat, 1 Aug 2026.
 
 Anna Morgan is a jungle and bass artist tracked on soundcheck, with 65 sets logged across Austin, Bangkok, Barcelona and Berlin and 18 more. Often billed alongside Bianca Oblivion, Daddy Kev and DJ Nope. Next up: SMS 514.613.5811 FOR LOCATION, Montreal on Sat 1 Aug.
 
@@ -27,4 +27,4 @@ Anna Morgan is a jungle and bass artist tracked on soundcheck, with 65 sets logg
 
 Bianca Oblivion, Daddy Kev, DJ Nope
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/annamorgan/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/annamorgan/)*

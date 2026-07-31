@@ -1,6 +1,6 @@
 # Miko Franconi
 
-Miko Franconi is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at TBA - HUMV, Denver on Fri, 31 Jul 2026.
+Miko Franconi is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at TBA - HUMV, Denver on Fri, 31 Jul 2026.
 
 Miko Franconi is a house and deep house artist based in United States of America, tracked on soundcheck, with 10 sets logged across Barcelona, Berlin, Denver and Losangeles and 3 more. Often billed alongside BABY CAKES, Blakkat and Iñigo Vontier. Next up: TBA - HUMV, Denver on Fri 31 Jul.
 
@@ -25,4 +25,4 @@ Miko Franconi is a house and deep house artist based in United States of America
 
 BABY CAKES, Blakkat, Iñigo Vontier
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/mikofranconi/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/mikofranconi/)*

@@ -1,6 +1,6 @@
 # Ricq
 
-Ricq is a House and Minimal artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at Jolene, Copenhagen on Fri, 31 Jul 2026.
+Ricq is a House and Minimal artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at Jolene, Copenhagen on Fri, 31 Jul 2026.
 
 Ricq is a house and minimal artist based in Denmark, tracked on soundcheck, with 6 sets logged across Copenhagen. Often billed alongside Alin, Lentza and Thodén. Next up: Jolene, Copenhagen on Fri 31 Jul.
 
@@ -22,4 +22,4 @@ Ricq is a house and minimal artist based in Denmark, tracked on soundcheck, with
 
 Alin, Lentza, Thodén
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/ricq/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/ricq/)*

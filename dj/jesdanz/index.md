@@ -1,6 +1,6 @@
 # Jes Danz
 
-Jes Danz is a Disco and Italo Disco artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at Apotheke, Los Angeles on Sat, 1 Aug 2026.
+Jes Danz is a Disco and Italo Disco artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at Apotheke, Los Angeles on Sat, 1 Aug 2026.
 
 Jes Danz is a disco and italo disco artist based in United States of America, tracked on soundcheck, with 3 sets logged across Losangeles. Often billed alongside Dirtie Blonde, Bianca Oblivion and Midnight Magic. Next up: Apotheke, Losangeles on Sat 1 Aug.
 
@@ -19,4 +19,4 @@ Jes Danz is a disco and italo disco artist based in United States of America, tr
 
 Dirtie Blonde, Bianca Oblivion, Midnight Magic
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/jesdanz/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/jesdanz/)*

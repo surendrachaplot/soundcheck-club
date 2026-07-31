@@ -1,6 +1,6 @@
 # A.tari
 
-A.tari is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at Lenbachhaus, Munich on Fri, 31 Jul 2026.
+A.tari is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at Lenbachhaus, Munich on Fri, 31 Jul 2026.
 
 A.tari is a house and disco artist tracked on soundcheck, with 26 sets logged across Berlin and Munich. Often billed alongside Kapote, Arpy Brown and Max NRG Supply. Next up: Lenbachhaus, Munich on Fri 31 Jul.
 
@@ -25,4 +25,4 @@ A.tari is a house and disco artist tracked on soundcheck, with 26 sets logged ac
 
 Kapote, Arpy Brown, Max NRG Supply
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/a.tari/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/a.tari/)*

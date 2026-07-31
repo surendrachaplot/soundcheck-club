@@ -1,6 +1,6 @@
 # CPR Annie
 
-CPR Annie is a Techno and Electro artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at StereoBar, Montreal on Sat, 15 Aug 2026.
+CPR Annie is a Techno and Electro artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at StereoBar, Montreal on Sat, 15 Aug 2026.
 
 CPR Annie is a techno and electro artist tracked on soundcheck, with 31 sets logged across Montreal and Newyorkcity. Often billed alongside Moaad BKR, Asha (4) and Badgalquirit. Next up: StereoBar, Montreal on Sat 15 Aug.
 
@@ -25,4 +25,4 @@ CPR Annie is a techno and electro artist tracked on soundcheck, with 31 sets log
 
 Moaad BKR, Asha (4), Badgalquirit
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/cprannie/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/cprannie/)*

@@ -1,6 +1,6 @@
 # Gabriele Russo
 
-Gabriele Russo is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at Rumore Nightclub Capri, Naples on Sat, 5 Sept 2026.
+Gabriele Russo is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at Rumore Nightclub Capri, Naples on Sat, 5 Sept 2026.
 
 Gabriele Russo is a house and tech house artist based in Italy, tracked on soundcheck, with 29 sets logged across London, Naples and Tokyo. Often billed alongside Carlo Martino, VNP and Enrico Maria. Next up: Rumore Nightclub Capri, Naples on Sat 5 Sept.
 
@@ -25,4 +25,4 @@ Gabriele Russo is a house and tech house artist based in Italy, tracked on sound
 
 Carlo Martino, VNP, Enrico Maria
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/gabrielerusso/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/gabrielerusso/)*

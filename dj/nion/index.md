@@ -1,6 +1,6 @@
 # NION
 
-NION is a Techno and Guaracha artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at Volks, Brighton on Sun, 2 Aug 2026.
+NION is a Techno and Guaracha artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at Volks, Brighton on Sun, 2 Aug 2026.
 
 NION is a techno and guaracha artist based in United Kingdom, tracked on soundcheck, with 11 sets logged across Brighton, Bristol and London. Often billed alongside Aly Berry, FERB and STYLI. Next up: Volks, Brighton on Sun 2 Aug.
 
@@ -25,4 +25,4 @@ NION is a techno and guaracha artist based in United Kingdom, tracked on soundch
 
 Aly Berry, FERB, STYLI
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/nion/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/nion/)*

@@ -1,6 +1,6 @@
 # Brant Wolff
 
-Brant Wolff is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at Mood Ring, New York City on Fri, 7 Aug 2026.
+Brant Wolff is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at Mood Ring, New York City on Fri, 7 Aug 2026.
 
 Brant Wolff is a house and tech house artist based in United States of America, tracked on soundcheck, with 24 sets logged across Denver, Miami and Newyorkcity. Often billed alongside DJ ing, To The End. and Mozn. Next up: Mood Ring, Newyorkcity on Fri 7 Aug.
 
@@ -25,4 +25,4 @@ Brant Wolff is a house and tech house artist based in United States of America, 
 
 DJ ing, To The End., Mozn
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/brantwolff/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/brantwolff/)*

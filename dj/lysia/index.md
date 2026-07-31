@@ -1,6 +1,6 @@
 # Lysia
 
-Lysia is a House and Balearic artist with 2 upcoming club dates listed on soundcheck as of Thu, 30 Jul 2026, next at Tagada, Vienna on Fri, 31 Jul 2026.
+Lysia is a House and Balearic artist with 2 upcoming club dates listed on soundcheck as of Fri, 31 Jul 2026, next at Tagada, Vienna on Fri, 31 Jul 2026.
 
 Lysia is a house and balearic artist based in Brazil, tracked on soundcheck, with 7 sets logged across Lisbon, Saopaulo and Vienna. Often billed alongside Gaspar Muniz, Kair and Anton Kolo. Next up: Tagada, Vienna on Fri 31 Jul.
 
@@ -23,4 +23,4 @@ Lysia is a house and balearic artist based in Brazil, tracked on soundcheck, wit
 
 Gaspar Muniz, Kair, Anton Kolo
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/lysia/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/lysia/)*

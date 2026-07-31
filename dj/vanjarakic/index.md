@@ -1,6 +1,6 @@
 # Vanja Rakic
 
-Vanja Rakic is a Downtempo and House artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at Tagada, Vienna on Fri, 31 Jul 2026.
+Vanja Rakic is a Downtempo and House artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at Tagada, Vienna on Fri, 31 Jul 2026.
 
 Vanja Rakic is a downtempo and house artist tracked on soundcheck, with 10 sets logged across Amsterdam, Berlin and Vienna. Often billed alongside Elina Tapio, 2K88 and André Pahl. Next up: Tagada, Vienna on Fri 31 Jul.
 
@@ -25,4 +25,4 @@ Vanja Rakic is a downtempo and house artist tracked on soundcheck, with 10 sets 
 
 Elina Tapio, 2K88, André Pahl
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/vanjarakic/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/vanjarakic/)*

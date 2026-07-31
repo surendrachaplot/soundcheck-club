@@ -1,6 +1,6 @@
 # N.E.GIRL
 
-N.E.GIRL is a Techno and Bass artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at Jolene, Copenhagen on Fri, 31 Jul 2026.
+N.E.GIRL is a Techno and Bass artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at Jolene, Copenhagen on Fri, 31 Jul 2026.
 
 N.E.GIRL is a techno and bass artist based in United Kingdom, tracked on soundcheck, with 78 sets logged across Amsterdam, Berlin, Copenhagen and Leipzig and 2 more. Often billed alongside Smokey, Cynnamon and Gavnlig. Next up: Jolene, Copenhagen on Fri 31 Jul.
 
@@ -25,4 +25,4 @@ N.E.GIRL is a techno and bass artist based in United Kingdom, tracked on soundch
 
 Smokey, Cynnamon, Gavnlig
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/negirl/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/negirl/)*

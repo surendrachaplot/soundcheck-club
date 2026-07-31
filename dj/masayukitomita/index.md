@@ -1,6 +1,6 @@
 # Masayuki Tomita
 
-Masayuki Tomita is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at Club der Visionaere, Berlin on Fri, 31 Jul 2026.
+Masayuki Tomita is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at Club der Visionaere, Berlin on Fri, 31 Jul 2026.
 
 Masayuki Tomita is a house and techno artist based in Japan, tracked on soundcheck, with 15 sets logged across Berlin, Montreal and Toronto. Often billed alongside Cosmic JD, Janina Marie and Matt Brancatella. Next up: Club der Visionaere, Berlin on Fri 31 Jul.
 
@@ -25,4 +25,4 @@ Masayuki Tomita is a house and techno artist based in Japan, tracked on soundche
 
 Cosmic JD, Janina Marie, Matt Brancatella
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/masayukitomita/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/masayukitomita/)*

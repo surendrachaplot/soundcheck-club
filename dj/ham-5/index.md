@@ -1,6 +1,6 @@
 # Ham (5)
 
-Ham (5) is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at Collingwood Basement, Melbourne on Sat, 1 Aug 2026.
+Ham (5) is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at Collingwood Basement, Melbourne on Sat, 1 Aug 2026.
 
 Ham (5) is a house and techno artist based in Australia, tracked on soundcheck, with 30 sets logged across Melbourne. Often billed alongside ADMINISTRATOR, Séarlait and Frankifettucini. Next up: Collingwood Basement, Melbourne on Sat 1 Aug.
 
@@ -25,4 +25,4 @@ Ham (5) is a house and techno artist based in Australia, tracked on soundcheck, 
 
 ADMINISTRATOR, Séarlait, Frankifettucini
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/ham-5/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/ham-5/)*

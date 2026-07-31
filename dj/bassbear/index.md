@@ -1,6 +1,6 @@
 # BASSBEAR!!
 
-BASSBEAR!! is a Club and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at TBA - Call Infoline for Secret Location, Boston on Fri, 7 Aug 2026.
+BASSBEAR!! is a Club and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at TBA - Call Infoline for Secret Location, Boston on Fri, 7 Aug 2026.
 
 BASSBEAR!! is a club and techno artist tracked on soundcheck, with 56 sets logged across Boston, Losangeles, Miami and Newyorkcity and 4 more. Often billed alongside bossy boots, DJ SWISHA and Syd (US). Next up: TBA - Call Infoline for Secret Location, Boston on Fri 7 Aug.
 
@@ -25,4 +25,4 @@ BASSBEAR!! is a club and techno artist tracked on soundcheck, with 56 sets logge
 
 bossy boots, DJ SWISHA, Syd (US)
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/bassbear/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/bassbear/)*

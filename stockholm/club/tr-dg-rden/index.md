@@ -1,14 +1,13 @@
 # Trädgården
 
-Trädgården is a music venue in Stockholm with 13 upcoming nights listed on soundcheck as of Thu, 30 Jul 2026; the next is "PRIDE GARDEN: THURSDAY" on Thu, 30 Jul 2026.
+Trädgården is a music venue in Stockholm with 12 upcoming nights listed on soundcheck as of Fri, 31 Jul 2026; the next is "PRIDE GARDEN: FRIDAY" on Fri, 31 Jul 2026.
 
-Trädgården is a music venue in Stockholm listed on soundcheck. 13 upcoming nights, with line-ups including Amaliah, Anthony Linell, Behrang Mohammadi and Bella Sarris and 2 more. Browse upcoming dates, start times and who's playing. Hammarby Slussväg 2, 118 60 Stockholm, Sweden.
+Trädgården is a music venue in Stockholm listed on soundcheck. 12 upcoming nights, with line-ups including Amaliah, Anthony Linell, Behrang Mohammadi and Bella Sarris and 2 more. Browse upcoming dates, start times and who's playing. Hammarby Slussväg 2, 118 60 Stockholm, Sweden.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Thu, 30 Jul 2026 | PRIDE GARDEN: THURSDAY |  |
 | Fri, 31 Jul 2026 | PRIDE GARDEN: FRIDAY | Luigi Di Venere, Majdolen, Prosumer, Stathis (GR) |
 | Sat, 1 Aug 2026 | SMIILE :) STOCKHOLM | Chloé Caillet, Dee Diggs, Fafi Abdel Nour, ISAbella, Mattias El Mansouri, Ultra Naté |
 | Thu, 6 Aug 2026 | Skin On Skin, Fatuma, L-Roy | Skin On Skin |
@@ -18,9 +17,10 @@ Trädgården is a music venue in Stockholm listed on soundcheck. 13 upcoming nig
 | Fri, 14 Aug 2026 | S-candalo, Bella Sarris | Bella Sarris, S-candalo |
 | Sat, 15 Aug 2026 | CRACKHOUSE with Niklopedia & Magnus Larsson | Magnus Larsson |
 | Fri, 21 Aug 2026 | Christian AB & Daniel Lien | Christian AB, Daniel Lien |
+| Fri, 28 Aug 2026 | Garcon, Dorisburg & Jessie Granqvist | Dorisburg, Garçon, Jessie Granqvist |
 
 ## Address
 
 Hammarby Slussväg 2, 118 60 Stockholm, Sweden, Stockholm
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/stockholm/club/tr-dg-rden/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/stockholm/club/tr-dg-rden/)*

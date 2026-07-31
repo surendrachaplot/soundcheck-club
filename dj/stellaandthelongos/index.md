@@ -1,6 +1,6 @@
 # Stella and The Longos
 
-Stella and The Longos is a Disco and House artist with 2 upcoming club dates listed on soundcheck as of Thu, 30 Jul 2026, next at BLITZ, Munich on Fri, 31 Jul 2026.
+Stella and The Longos is a Disco and House artist with 2 upcoming club dates listed on soundcheck as of Fri, 31 Jul 2026, next at BLITZ, Munich on Fri, 31 Jul 2026.
 
 Stella and The Longos are a disco and house duo tracked on soundcheck, with 13 sets logged across Berlin, Brussels, Geneva and Hamburg and 3 more. Often billed alongside Stella Zekri, Ays (NL) and BASHKKA. Next up: BLITZ, Munich on Fri 31 Jul.
 
@@ -26,4 +26,4 @@ Stella and The Longos are a disco and house duo tracked on soundcheck, with 13 s
 
 Stella Zekri, Ays (NL), BASHKKA
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/stellaandthelongos/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/stellaandthelongos/)*

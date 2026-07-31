@@ -1,6 +1,6 @@
 # NIKENINJA
 
-NIKENINJA is a Electro and Ghetto Tech artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at Monk Club, Rome on Fri, 31 Jul 2026.
+NIKENINJA is a Electro and Ghetto Tech artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at Monk Club, Rome on Fri, 31 Jul 2026.
 
 NIKENINJA is an electro and ghetto tech artist based in Italy, tracked on soundcheck, with 19 sets logged across Rome. Often billed alongside Lørenzø Cøluccia, Satoru and ANNYAH. Next up: Monk Club, Rome on Fri 31 Jul.
 
@@ -25,4 +25,4 @@ NIKENINJA is an electro and ghetto tech artist based in Italy, tracked on soundc
 
 Lørenzø Cøluccia, Satoru, ANNYAH
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/nikeninja/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/nikeninja/)*

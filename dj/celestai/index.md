@@ -1,6 +1,6 @@
 # CELESTAI
 
-CELESTAI is a Techno and Tech House artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at Geary Avenue Warehouse Project, Toronto on Sat, 8 Aug 2026.
+CELESTAI is a Techno and Tech House artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at Geary Avenue Warehouse Project, Toronto on Sat, 8 Aug 2026.
 
 CELESTAI is a techno and tech house artist based in Canada, tracked on soundcheck, with 7 sets logged across Toronto. Often billed alongside Chrissandro, DJ LÉA and Fido Dido. Next up: Geary Avenue Warehouse Project, Toronto on Sat 8 Aug.
 
@@ -23,4 +23,4 @@ CELESTAI is a techno and tech house artist based in Canada, tracked on soundchec
 
 Chrissandro, DJ LÉA, Fido Dido
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/celestai/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/celestai/)*

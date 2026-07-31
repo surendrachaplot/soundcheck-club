@@ -1,6 +1,6 @@
 # KRAWALLBARBIE
 
-KRAWALLBARBIE is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at TBA - Paradies Garten Festival - Schloß Prugg 2, 2460 Gemeinde Bruck an der Leitha, Vienna on Fri, 31 Jul 2026.
+KRAWALLBARBIE is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at TBA - Paradies Garten Festival - Schloß Prugg 2, 2460 Gemeinde Bruck an der Leitha, Vienna on Fri, 31 Jul 2026.
 
 KRAWALLBARBIE is a techno and trance artist based in Austria, tracked on soundcheck, with 37 sets logged across Berlin and Vienna. Often billed alongside Who is ela¿, KAROLINA and Paul Mile. Next up: TBA - Paradies Garten Festival - Schloß Prugg 2, 2460 Gemeinde Bruck an der Leitha, Vienna on Fri 31 Jul.
 
@@ -25,4 +25,4 @@ KRAWALLBARBIE is a techno and trance artist based in Austria, tracked on soundch
 
 Who is ela¿, KAROLINA, Paul Mile
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/krawallbarbie/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/krawallbarbie/)*

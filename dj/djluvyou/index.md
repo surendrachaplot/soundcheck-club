@@ -1,6 +1,6 @@
 # DJ Luv You
 
-DJ Luv You is a House and Progressive House artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at The TBA - Science Gallery Melbourne, Melbourne Connect University of Melbourne, 114 Grattan St, Parkville VIC 3052, Melbourne on Fri, 28 Aug 2026.
+DJ Luv You is a House and Progressive House artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at The TBA - Science Gallery Melbourne, Melbourne Connect University of Melbourne, 114 Grattan St, Parkville VIC 3052, Melbourne on Fri, 28 Aug 2026.
 
 DJ Luv You is a house and progressive house artist tracked on soundcheck, with 85 sets logged across Amsterdam, Antwerp, Auckland and Berlin and 13 more. Often billed alongside Hannah D, Tina Disco and Baby G. Next up: The TBA - Science Gallery Melbourne, Melbourne Connect University of Melbourne, 114 Grattan St, Parkville VIC 3052, Melbourne on Fri 28 Aug.
 
@@ -25,4 +25,4 @@ DJ Luv You is a house and progressive house artist tracked on soundcheck, with 8
 
 Hannah D, Tina Disco, Baby G
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/djluvyou/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/djluvyou/)*

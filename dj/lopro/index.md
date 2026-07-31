@@ -1,6 +1,6 @@
 # Lopro
 
-Lopro is a Techno and Bass artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at TBA - Brumby Bar Jindabyne, Sydney on Fri, 31 Jul 2026.
+Lopro is a Techno and Bass artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at TBA - Brumby Bar Jindabyne, Sydney on Fri, 31 Jul 2026.
 
 Lopro is a techno and bass artist based in Australia, tracked on soundcheck, with 3 sets logged across Sydney. Often billed alongside I.C.Y, Quakes and swisherman. Next up: TBA - Brumby Bar Jindabyne, Sydney on Fri 31 Jul.
 
@@ -19,4 +19,4 @@ Lopro is a techno and bass artist based in Australia, tracked on soundcheck, wit
 
 I.C.Y, Quakes, swisherman
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/lopro/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/lopro/)*

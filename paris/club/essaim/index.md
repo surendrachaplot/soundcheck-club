@@ -1,6 +1,6 @@
 # essaim
 
-essaim is a music venue in Paris with 16 upcoming nights listed on soundcheck as of Thu, 30 Jul 2026; the next is "tribalism - Askkin, Nastia" on Fri, 31 Jul 2026.
+essaim is a music venue in Paris with 16 upcoming nights listed on soundcheck as of Fri, 31 Jul 2026; the next is "tribalism - Askkin, Nastia" on Fri, 31 Jul 2026.
 
 essaim is a music venue in Paris listed on soundcheck. 16 upcoming nights, with line-ups including ANNĒ, Askkin, Audrey Danza and Ben Sims and 2 more. Browse upcoming dates, start times and who's playing. 14 Rue Philippe de Girard, 75010 Paris.
 
@@ -23,4 +23,4 @@ essaim is a music venue in Paris listed on soundcheck. 16 upcoming nights, with 
 
 14 Rue Philippe de Girard, 75010 Paris, Paris
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/paris/club/essaim/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/paris/club/essaim/)*

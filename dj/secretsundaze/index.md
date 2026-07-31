@@ -1,6 +1,6 @@
 # Secretsundaze
 
-Secretsundaze is a House and Techno artist with 4 upcoming club dates listed on soundcheck as of Thu, 30 Jul 2026, next at Somerset House, London on Thu, 6 Aug 2026.
+Secretsundaze is a House and Techno artist with 4 upcoming club dates listed on soundcheck as of Fri, 31 Jul 2026, next at Somerset House, London on Thu, 6 Aug 2026.
 
 Secretsundaze is a house and techno artist tracked on soundcheck, with 75 sets logged across Amsterdam, Bangkok, Barcelona and Berlin and 16 more. Often billed alongside Ariane V, Certain People and Manuel Darquart. Next up: Somerset House, London on Thu 6 Aug.
 
@@ -28,4 +28,4 @@ Secretsundaze is a house and techno artist tracked on soundcheck, with 75 sets l
 
 Ariane V, Certain People, Manuel Darquart
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/secretsundaze/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/secretsundaze/)*

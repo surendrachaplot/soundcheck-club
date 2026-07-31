@@ -1,8 +1,8 @@
 # PNG (US)
 
-PNG (US) is a House and Acid artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at Monarch, San Francisco/Oakland on Fri, 11 Sept 2026.
+PNG (US) is a House and Acid artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at Monarch, San Francisco/Oakland on Fri, 11 Sept 2026.
 
-PNG (US) is a house and acid artist tracked on soundcheck, with 4 sets logged across Chicago and Sanfrancisco. Often billed alongside Jackson Walker, Acid Boner and Discrete (3). Next up: Monarch, Sanfrancisco on Fri 11 Sept.
+PNG (US) is a house and acid artist tracked on soundcheck, with 4 sets logged across Chicago and Sanfrancisco. Often billed alongside Jackson Walker, vin. and Acid Boner. Next up: Monarch, Sanfrancisco on Fri 11 Sept.
 
 ## Upcoming shows
 
@@ -18,6 +18,6 @@ PNG (US) is a house and acid artist tracked on soundcheck, with 4 sets logged ac
 
 ## Shares bills with
 
-Jackson Walker, Acid Boner, Discrete (3)
+Jackson Walker, vin., Acid Boner
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/pngus/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/pngus/)*

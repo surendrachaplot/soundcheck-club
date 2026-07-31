@@ -1,6 +1,6 @@
 # Azucy
 
-Azucy is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at Paradiso, Amsterdam on Fri, 31 Jul 2026.
+Azucy is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at Paradiso, Amsterdam on Fri, 31 Jul 2026.
 
 Azucy is a techno and house artist based in Netherlands, tracked on soundcheck, with 19 sets logged across Amsterdam, Antwerp and Bali. Often billed alongside DJ Bone, Tälor and Jack Fresia. Next up: Paradiso, Amsterdam on Fri 31 Jul.
 
@@ -25,4 +25,4 @@ Azucy is a techno and house artist based in Netherlands, tracked on soundcheck, 
 
 DJ Bone, Tälor, Jack Fresia
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/azucy/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/azucy/)*

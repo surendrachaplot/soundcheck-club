@@ -1,6 +1,6 @@
 # Arkaik
 
-Arkaik is a Drum & Bass and Bass artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at Hackney Wick Multiple Venues, London on Sat, 1 Aug 2026.
+Arkaik is a Drum & Bass and Bass artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at Hackney Wick Multiple Venues, London on Sat, 1 Aug 2026.
 
 Arkaik is a drum & bass and bass artist based in United Kingdom, tracked on soundcheck, with 7 sets logged across Bristol, Cologne, London and Shenzhen. Often billed alongside Amoss, Fearful and KRÆK. Next up: Hackney Wick Multiple Venues, London on Sat 1 Aug.
 
@@ -23,4 +23,4 @@ Arkaik is a drum & bass and bass artist based in United Kingdom, tracked on soun
 
 Amoss, Fearful, KRÆK
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/arkaik/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/arkaik/)*

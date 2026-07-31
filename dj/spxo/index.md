@@ -1,6 +1,6 @@
 # spxo
 
-spxo is a Breakbeat and Electro artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at Stereo, Glasgow on Fri, 31 Jul 2026.
+spxo is a Breakbeat and Electro artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at Stereo, Glasgow on Fri, 31 Jul 2026.
 
 spxo is a breakbeat and electro artist based in United Kingdom, tracked on soundcheck, with 18 sets logged across Edinburgh and Glasgow. Often billed alongside zolf, saparilla and 3rdcrush. Next up: Stereo, Glasgow on Fri 31 Jul.
 
@@ -25,4 +25,4 @@ spxo is a breakbeat and electro artist based in United Kingdom, tracked on sound
 
 zolf, saparilla, 3rdcrush
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/spxo/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/spxo/)*

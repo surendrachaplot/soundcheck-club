@@ -1,6 +1,6 @@
 # Saint Guel
 
-Saint Guel is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at TBA - Mantra Rooftop & Bar, Kuala Lumpur on Sat, 1 Aug 2026.
+Saint Guel is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at TBA - Mantra Rooftop & Bar, Kuala Lumpur on Sat, 1 Aug 2026.
 
 Saint Guel is a house and techno artist based in Philippines, tracked on soundcheck, with 16 sets logged across Bali, Bangkok, Berlin and Hongkong and 4 more. Often billed alongside Emel, Ouissam and Di Linh. Next up: TBA - Mantra Rooftop & Bar, Kualalumpur on Sat 1 Aug.
 
@@ -25,4 +25,4 @@ Saint Guel is a house and techno artist based in Philippines, tracked on soundch
 
 Emel, Ouissam, Di Linh
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/saintguel/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/saintguel/)*

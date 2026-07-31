@@ -1,6 +1,6 @@
 # SKAIN
 
-SKAIN is a Breakbeat and House artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at TBA, Berlin on Sat, 1 Aug 2026.
+SKAIN is a Breakbeat and House artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at TBA, Berlin on Sat, 1 Aug 2026.
 
 SKAIN is a breakbeat and house artist based in Germany, tracked on soundcheck, with 9 sets logged across Berlin. Often billed alongside Moodrich, UrbnMowgli and Carl Hang. Next up: TBA, Berlin on Sat 1 Aug.
 
@@ -25,4 +25,4 @@ SKAIN is a breakbeat and house artist based in Germany, tracked on soundcheck, w
 
 Moodrich, UrbnMowgli, Carl Hang
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/skain/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/skain/)*

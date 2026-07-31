@@ -1,6 +1,6 @@
 # ksd6700
 
-ksd6700 is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at DeTour, Tokyo on Fri, 31 Jul 2026.
+ksd6700 is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at DeTour, Tokyo on Fri, 31 Jul 2026.
 
 ksd6700 is a techno and house artist based in Japan, tracked on soundcheck, with 21 sets logged across Tokyo. Often billed alongside Kamaida, Krankent and Homma Honganji. Next up: DeTour, Tokyo on Fri 31 Jul.
 
@@ -25,4 +25,4 @@ ksd6700 is a techno and house artist based in Japan, tracked on soundcheck, with
 
 Kamaida, Krankent, Homma Honganji
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/ksd6700/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/ksd6700/)*

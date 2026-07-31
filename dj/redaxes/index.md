@@ -1,6 +1,6 @@
 # Red Axes
 
-Red Axes is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Thu, 30 Jul 2026, next at Playa Soleil Ibiza, Ibiza on Fri, 31 Jul 2026.
+Red Axes is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Fri, 31 Jul 2026, next at Playa Soleil Ibiza, Ibiza on Fri, 31 Jul 2026.
 
 Red Axes is a techno and house artist tracked on soundcheck, with 72 sets logged across Amsterdam, Athens, Barcelona and Berlin and 26 more. Often billed alongside DJ Tennis, Luke Alessi and Sossa. Next up: Playa Soleil Ibiza, Ibiza on Fri 31 Jul.
 
@@ -26,4 +26,4 @@ Red Axes is a techno and house artist tracked on soundcheck, with 72 sets logged
 
 DJ Tennis, Luke Alessi, Sossa
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/redaxes/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/redaxes/)*

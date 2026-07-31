@@ -1,13 +1,14 @@
 # Osiris (2)
 
-Osiris (2) is a Techno and Trance artist with 2 upcoming club dates listed on soundcheck as of Thu, 30 Jul 2026, next at OXI, Berlin on Sat, 8 Aug 2026.
+Osiris (2) is a Techno and Gabber artist with 3 upcoming club dates listed on soundcheck as of Fri, 31 Jul 2026, next at Astra Kulturhaus, Berlin on Fri, 31 Jul 2026.
 
-Osiris (2) is a techno and trance artist based in Germany, tracked on soundcheck, with 29 sets logged across Basel, Berlin, Detroit and Stuttgart and 1 more. Often billed alongside Dagobird, LØUS and FLUCC. Next up: OXI, Berlin on Sat 8 Aug.
+Osiris (2) is a techno and gabber artist based in Germany, tracked on soundcheck, with 30 sets logged across Basel, Berlin, Detroit and Stuttgart and 1 more. Often billed alongside Dagobird, LØUS and FLUCC. Next up: Astra Kulturhaus, Berlin on Fri 31 Jul.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 31 Jul 2026 | Astra Kulturhaus | Berlin |
 | Sat, 8 Aug 2026 | OXI | Berlin |
 | Fri, 28 Aug 2026 | ://about blank | Berlin |
 
@@ -26,4 +27,4 @@ Osiris (2) is a techno and trance artist based in Germany, tracked on soundcheck
 
 Dagobird, LØUS, FLUCC
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/osiris-2/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/osiris-2/)*

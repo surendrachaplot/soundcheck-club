@@ -1,6 +1,6 @@
 # SLEEPY HEVD
 
-SLEEPY HEVD is a Bass and Electro artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at Circus Tokyo, Tokyo on Sat, 1 Aug 2026.
+SLEEPY HEVD is a Bass and Electro artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at Circus Tokyo, Tokyo on Sat, 1 Aug 2026.
 
 SLEEPY HEVD is a bass and electro artist based in Japan, tracked on soundcheck, with 23 sets logged across Osaka and Tokyo. Often billed alongside Project E.i.M, NO WAY and In-Character. Next up: Circus Tokyo, Tokyo on Sat 1 Aug.
 
@@ -25,4 +25,4 @@ SLEEPY HEVD is a bass and electro artist based in Japan, tracked on soundcheck, 
 
 Project E.i.M, NO WAY, In-Character
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/sleepyhevd/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/sleepyhevd/)*

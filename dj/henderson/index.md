@@ -1,6 +1,6 @@
 # HENDERSON
 
-HENDERSON is a Trance and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at The Horse & Groom, London on Sat, 22 Aug 2026.
+HENDERSON is a Trance and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at The Horse & Groom, London on Sat, 22 Aug 2026.
 
 HENDERSON is a trance and techno artist based in United Kingdom, tracked on soundcheck, with 29 sets logged across Bristol, Edinburgh, London and Nantes and 1 more. Often billed alongside Aquamarine, Angel D'lite and FAFF. Next up: The Horse & Groom, London on Sat 22 Aug.
 
@@ -25,4 +25,4 @@ HENDERSON is a trance and techno artist based in United Kingdom, tracked on soun
 
 Aquamarine, Angel D'lite, FAFF
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/henderson/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/henderson/)*

@@ -1,6 +1,6 @@
 # Inner Lakes
 
-Inner Lakes is a Techno and Electro artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at TBA - Secret Place, Marseille on Fri, 7 Aug 2026.
+Inner Lakes is a Techno and Electro artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at TBA - Secret Place, Marseille on Fri, 7 Aug 2026.
 
 Inner Lakes is a techno and electro artist tracked on soundcheck, with 86 sets logged across Amsterdam, Antwerp, Barcelona and Berlin and 18 more. Often billed alongside Enrico Vivaldi, GNMR and Pabie. Next up: TBA - Secret Place, Marseille on Fri 7 Aug.
 
@@ -25,4 +25,4 @@ Inner Lakes is a techno and electro artist tracked on soundcheck, with 86 sets l
 
 Enrico Vivaldi, GNMR, Pabie
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/innerlakes/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/innerlakes/)*

@@ -1,14 +1,15 @@
 # swesdo
 
-swesdo is a Bass and Jungle artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at Guild Row, Chicago on Sun, 2 Aug 2026.
+swesdo is a Bass and Jungle artist with 2 upcoming club dates listed on soundcheck as of Fri, 31 Jul 2026, next at Guild Row, Chicago on Sun, 2 Aug 2026.
 
-swesdo is a bass and jungle artist based in United States of America, tracked on soundcheck, with 8 sets logged across Chicago. Often billed alongside Dj Scari, Relativity Lounge and 2tipz. Next up: Guild Row, Chicago on Sun 2 Aug.
+swesdo is a bass and jungle artist based in United States of America, tracked on soundcheck, with 9 sets logged across Chicago. Often billed alongside Dj Scari, Relativity Lounge and Steve Noah. Next up: Guild Row, Chicago on Sun 2 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sun, 2 Aug 2026 | Guild Row | Chicago |
+| Sun, 2 Aug 2026 | Gracey’s | Chicago |
 
 ## Recently played
 
@@ -22,6 +23,6 @@ swesdo is a bass and jungle artist based in United States of America, tracked on
 
 ## Shares bills with
 
-Dj Scari, Relativity Lounge, 2tipz
+Dj Scari, Relativity Lounge, Steve Noah
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/swesdo/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/swesdo/)*

@@ -1,6 +1,6 @@
 # DJ Varius Trax
 
-DJ Varius Trax is a Trance and House artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at MONKEY LOVE, Warsaw on Sat, 1 Aug 2026.
+DJ Varius Trax is a Trance and House artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at MONKEY LOVE, Warsaw on Sat, 1 Aug 2026.
 
 DJ Varius Trax is a trance and house artist based in Poland, tracked on soundcheck, with 7 sets logged across Warsaw. Often billed alongside Pankoff, Acid Arab and Daniel Drumz. Next up: MONKEY LOVE, Warsaw on Sat 1 Aug.
 
@@ -23,4 +23,4 @@ DJ Varius Trax is a trance and house artist based in Poland, tracked on soundche
 
 Pankoff, Acid Arab, Daniel Drumz
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/djvariustrax/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/djvariustrax/)*

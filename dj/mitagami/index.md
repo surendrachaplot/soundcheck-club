@@ -1,6 +1,6 @@
 # Mita Gami
 
-Mita Gami is a House and Techno artist with 8 upcoming club dates listed on soundcheck as of Thu, 30 Jul 2026, next at TBA - YAANGA PARK, Los Angeles on Sat, 1 Aug 2026.
+Mita Gami is a House and Techno artist with 8 upcoming club dates listed on soundcheck as of Fri, 31 Jul 2026, next at TBA - YAANGA PARK, Los Angeles on Sat, 1 Aug 2026.
 
 Mita Gami is a house and techno artist tracked on soundcheck, with 135 sets logged across Amsterdam, Athens, Barcelona and Berlin and 29 more. Often billed alongside Adam Ten, Damian Lazarus and Black Coffee. Next up: TBA - YAANGA PARK, Losangeles on Sat 1 Aug.
 
@@ -32,4 +32,4 @@ Mita Gami is a house and techno artist tracked on soundcheck, with 135 sets logg
 
 Adam Ten, Damian Lazarus, Black Coffee
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/mitagami/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/mitagami/)*

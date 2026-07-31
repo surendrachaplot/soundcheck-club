@@ -1,6 +1,6 @@
 # Motel Paraiso
 
-Motel Paraiso is a House and Minimal artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at Teranoma Tidepool, Osaka on Sat, 1 Aug 2026.
+Motel Paraiso is a House and Minimal artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at Teranoma Tidepool, Osaka on Sat, 1 Aug 2026.
 
 Motel Paraiso is a house and minimal artist based in Japan, tracked on soundcheck, with 22 sets logged across Kyoto and Osaka. Often billed alongside Mercy., NAGATA and sumi’. Next up: Teranoma Tidepool, Osaka on Sat 1 Aug.
 
@@ -25,4 +25,4 @@ Motel Paraiso is a house and minimal artist based in Japan, tracked on soundchec
 
 Mercy., NAGATA, sumi’
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/motelparaiso/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/motelparaiso/)*

@@ -1,6 +1,6 @@
 # Bayetë
 
-Bayetë is a Disco and Balearic artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at OXI, Berlin on Sat, 22 Aug 2026.
+Bayetë is a Disco and Balearic artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at OXI, Berlin on Sat, 22 Aug 2026.
 
 Bayetë is a disco and balearic artist based in France, tracked on soundcheck, with 6 sets logged across Berlin, London, Newyorkcity and Sanfrancisco and 1 more. Often billed alongside Trujillo, Camilo Miranda and Delfonic. Next up: OXI, Berlin on Sat 22 Aug.
 
@@ -22,4 +22,4 @@ Bayetë is a disco and balearic artist based in France, tracked on soundcheck, w
 
 Trujillo, Camilo Miranda, Delfonic
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/bayete/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/bayete/)*

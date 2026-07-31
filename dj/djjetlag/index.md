@@ -1,6 +1,6 @@
 # DJ Jetlag
 
-DJ Jetlag is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at TBA - Secret lakeside location, Geneva, Geneva on Fri, 7 Aug 2026.
+DJ Jetlag is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at TBA - Secret lakeside location, Geneva, Geneva on Fri, 7 Aug 2026.
 
 DJ Jetlag is a house and tech house artist based in Switzerland, tracked on soundcheck, with 12 sets logged across Geneva and London. Often billed alongside Hector Moreno, Outhmax and ianavi. Next up: TBA - Secret lakeside location, Geneva, Geneva on Fri 7 Aug.
 
@@ -25,4 +25,4 @@ DJ Jetlag is a house and tech house artist based in Switzerland, tracked on soun
 
 Hector Moreno, Outhmax, ianavi
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/djjetlag/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/djjetlag/)*

@@ -1,14 +1,13 @@
 # Studio Club Malaga
 
-Studio Club Malaga is a music venue in Malaga with 14 upcoming nights listed on soundcheck as of Thu, 30 Jul 2026; the next is "Summer Thursday" on Thu, 30 Jul 2026.
+Studio Club Malaga is a music venue in Malaga with 13 upcoming nights listed on soundcheck as of Fri, 31 Jul 2026; the next is "Studio Club Invites: SHDW" on Fri, 31 Jul 2026.
 
-Studio Club Malaga is a music venue in Malaga listed on soundcheck. 14 upcoming nights, with line-ups including Alvaro Medina, Andrea Oliva, Bambi-S and Chlär and 2 more. Browse upcoming dates, start times and who's playing. Avenida Palma de Mallorca 36, Torremolinos, Málaga.
+Studio Club Malaga is a music venue in Malaga listed on soundcheck. 13 upcoming nights, with line-ups including Alvaro Medina, Andrea Oliva, Bambi-S and Chlär and 2 more. Browse upcoming dates, start times and who's playing. Avenida Palma de Mallorca 36, Torremolinos, Málaga.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Thu, 30 Jul 2026 | Summer Thursday |  |
 | Fri, 31 Jul 2026 | Studio Club Invites: SHDW | ORBE, SHDW, Supergloss |
 | Sat, 1 Aug 2026 | Studio Club Invites: Mano Le Tough | Mano Le Tough, Miguel Payda, Skatman, Thimble |
 | Sun, 2 Aug 2026 | Summer Sunday |  |
@@ -18,9 +17,10 @@ Studio Club Malaga is a music venue in Malaga listed on soundcheck. 14 upcoming 
 | Sun, 9 Aug 2026 | Summer Sunday |  |
 | Thu, 27 Aug 2026 | Summer Thursday |  |
 | Fri, 28 Aug 2026 | Studio Club Invites: Chlär | Chlär, Montero, Norman Nodge |
+| Sat, 29 Aug 2026 | Studio Club Invites: HoneyLuv | Alvaro Medina, Bambi-S, HoneyLuv |
 
 ## Address
 
 Avenida Palma de Mallorca 36, Torremolinos, Málaga, Malaga
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/malaga/club/studio-club-malaga/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/malaga/club/studio-club-malaga/)*

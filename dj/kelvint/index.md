@@ -1,6 +1,6 @@
 # Kelvin T
 
-Kelvin T is a Experimental and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at Casa Dao, Hong Kong on Fri, 31 Jul 2026.
+Kelvin T is a Experimental and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at Casa Dao, Hong Kong on Fri, 31 Jul 2026.
 
 Kelvin T is an experimental and techno artist based in China, tracked on soundcheck, with 8 sets logged across Hongkong, Singapore and Toronto. Often billed alongside Kelvin, 1908 and Andrew Juke. Next up: Casa Dao, Hongkong on Fri 31 Jul.
 
@@ -24,4 +24,4 @@ Kelvin T is an experimental and techno artist based in China, tracked on soundch
 
 Kelvin, 1908, Andrew Juke
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/kelvint/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/kelvint/)*

@@ -1,6 +1,6 @@
 # Alci
 
-Alci is a House and Minimal artist with 2 upcoming club dates listed on soundcheck as of Thu, 30 Jul 2026, next at Floyd, Miami on Sun, 30 Aug 2026.
+Alci is a House and Minimal artist with 2 upcoming club dates listed on soundcheck as of Fri, 31 Jul 2026, next at Floyd, Miami on Sun, 30 Aug 2026.
 
 Alci is a house and minimal artist tracked on soundcheck, with 105 sets logged across Amsterdam, Barcelona, Basel and Brussels and 24 more. Often billed alongside ANOTR, Danyelino and Flavio (CH). Next up: Floyd, Miami on Sun 30 Aug.
 
@@ -26,4 +26,4 @@ Alci is a house and minimal artist tracked on soundcheck, with 105 sets logged a
 
 ANOTR, Danyelino, Flavio (CH)
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/alci/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/alci/)*

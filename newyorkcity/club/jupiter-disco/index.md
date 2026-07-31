@@ -1,15 +1,13 @@
 # Jupiter Disco
 
-Jupiter Disco is a music venue in New York City with 25 upcoming nights listed on soundcheck as of Thu, 30 Jul 2026; the next is "Tromac, JaySwann, dj unt.il" on Thu, 30 Jul 2026.
+Jupiter Disco is a music venue in New York City with 23 upcoming nights listed on soundcheck as of Fri, 31 Jul 2026; the next is "DAYTIMERS NYC: SRI, mojamid, Prem, Swank, Krithi" on Fri, 31 Jul 2026.
 
-Jupiter Disco is a music venue in Newyorkcity listed on soundcheck. 25 upcoming nights, with line-ups including 5LAPHOUSE, Alcantara, CMD+JAZMINE and Cosmo and 2 more. Browse upcoming dates, start times and who's playing. 1237 Flushing Avenue, Brooklyn, NY 11237, USA.
+Jupiter Disco is a music venue in Newyorkcity listed on soundcheck. 23 upcoming nights, with line-ups including Alcantara, CMD+JAZMINE, Cosmo and Cosmo (NY) and 2 more. Browse upcoming dates, start times and who's playing. 1237 Flushing Avenue, Brooklyn, NY 11237, USA.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Thu, 30 Jul 2026 | Tromac, JaySwann, dj unt.il | JaySwann, Tromac, dj unt.il |
-| Thu, 30 Jul 2026 | Space Bunz, Pook, 5LAPHOUSE | 5LAPHOUSE |
 | Fri, 31 Jul 2026 | DAYTIMERS NYC: SRI, mojamid, Prem, Swank, Krithi | Krithi, SRI (1), Swank, Swank (NYC) |
 | Sat, 1 Aug 2026 | BARANGAY: Jay Dalawa, Alcantara, LANSUH, JAV/ , Gabriel Etrata | Alcantara, Gabriel Etrata, Jay Dalawa, LANSUH |
 | Sun, 2 Aug 2026 | Spatial Ability: DJ Alone Again, The Pintauro Brothers, GEOTHEORY | DJ Alone Again, GEOTHEORY, The Pintauro Brothers |
@@ -18,9 +16,11 @@ Jupiter Disco is a music venue in Newyorkcity listed on soundcheck. 25 upcoming 
 | Fri, 7 Aug 2026 | Top Secret Grand Prix Record Release Party: Spiñorita, DJ Shannon, Cosmo | Cosmo, Cosmo (NY), DJ Shannon, Spiñorita |
 | Sat, 8 Aug 2026 | HEADCRACK: C Powers, Fugitive Artifact | C Powers, Fugitive Artifact |
 | Sun, 9 Aug 2026 | DJ STEPDAD, Soler System, 3 People | DJ STEPDAD |
+| Wed, 12 Aug 2026 | Woke Brian & Friends: s.c.k, sanatswrld, Eddy K | Sanat, Woke Brian, sanatswrld |
+| Thu, 13 Aug 2026 | IBM Doily  The Grouch DJ | IBM Doily, The Grouch Dj |
 
 ## Address
 
 1237 Flushing Avenue, Brooklyn, NY 11237, USA, New York City
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/jupiter-disco/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/jupiter-disco/)*

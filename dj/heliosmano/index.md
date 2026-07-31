@@ -1,6 +1,6 @@
 # Helios Manoeuvres
 
-Helios Manoeuvres is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at Dullingham Polo Club, London on Sat, 22 Aug 2026.
+Helios Manoeuvres is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at Dullingham Polo Club, London on Sat, 22 Aug 2026.
 
 Helios Manoeuvres is a house and tech house artist tracked on soundcheck, with 16 sets logged across London. Often billed alongside A.L.F, biscous and DJ VALENTINE. Next up: Dullingham Polo Club, London on Sat 22 Aug.
 
@@ -25,4 +25,4 @@ Helios Manoeuvres is a house and tech house artist tracked on soundcheck, with 1
 
 A.L.F, biscous, DJ VALENTINE
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/heliosmano/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/heliosmano/)*

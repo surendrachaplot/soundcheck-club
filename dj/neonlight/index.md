@@ -1,6 +1,6 @@
 # Neonlight
 
-Neonlight is a Drum & Bass and Psytrance artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at Dürener Badesee, Cologne on Fri, 28 Aug 2026.
+Neonlight is a Drum & Bass and Psytrance artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at Dürener Badesee, Cologne on Fri, 28 Aug 2026.
 
 Neonlight is a drum & bass and psytrance artist based in Germany, tracked on soundcheck, with 17 sets logged across Berlin, Bristol, Budapest and Cologne and 7 more. Often billed alongside Black Sun Empire, Badlokk and Merikan. Next up: Dürener Badesee, Cologne on Fri 28 Aug.
 
@@ -25,4 +25,4 @@ Neonlight is a drum & bass and psytrance artist based in Germany, tracked on sou
 
 Black Sun Empire, Badlokk, Merikan
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/neonlight/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/neonlight/)*

@@ -1,6 +1,6 @@
 # Alex Quillard
 
-Alex Quillard is a Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at Glazart, Paris on Sun, 2 Aug 2026.
+Alex Quillard is a Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at Glazart, Paris on Sun, 2 Aug 2026.
 
 Alex Quillard is a techno artist based in France, tracked on soundcheck, with 3 sets logged across Montreal and Paris. Often billed alongside Ada Dielman, HUMMER and KTK (DE). Next up: Glazart, Paris on Sun 2 Aug.
 
@@ -19,4 +19,4 @@ Alex Quillard is a techno artist based in France, tracked on soundcheck, with 3 
 
 Ada Dielman, HUMMER, KTK (DE)
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/alexquillard/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/alexquillard/)*

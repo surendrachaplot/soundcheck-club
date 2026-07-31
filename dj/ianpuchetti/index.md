@@ -1,6 +1,6 @@
 # Ian Puchetti
 
-Ian Puchetti is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at Dune Park, Buenos Aires on Sat, 8 Aug 2026.
+Ian Puchetti is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at Dune Park, Buenos Aires on Sat, 8 Aug 2026.
 
 Ian Puchetti is a house and techno artist based in Argentina, tracked on soundcheck, with 23 sets logged across Buenosaires and Saopaulo. Often billed alongside Ana Hagen, Montei and Andrés Zacco. Next up: Dune Park, Buenosaires on Sat 8 Aug.
 
@@ -25,4 +25,4 @@ Ian Puchetti is a house and techno artist based in Argentina, tracked on soundch
 
 Ana Hagen, Montei, Andrés Zacco
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/ianpuchetti/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/ianpuchetti/)*

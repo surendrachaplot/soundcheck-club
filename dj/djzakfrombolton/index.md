@@ -1,6 +1,6 @@
 # DJ Zak from Bolton
 
-DJ Zak from Bolton is a Disco and House artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at The Doghouse, Edinburgh on Fri, 31 Jul 2026.
+DJ Zak from Bolton is a Disco and House artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at The Doghouse, Edinburgh on Fri, 31 Jul 2026.
 
 DJ Zak from Bolton is a disco and house artist based in United Kingdom, tracked on soundcheck, with 32 sets logged across Aberdeen and Edinburgh. Often billed alongside Trendy Wendy, Buckfast Barbie and Sea Urchin. Next up: The Doghouse, Edinburgh on Fri 31 Jul.
 
@@ -25,4 +25,4 @@ DJ Zak from Bolton is a disco and house artist based in United Kingdom, tracked 
 
 Trendy Wendy, Buckfast Barbie, Sea Urchin
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/djzakfrombolton/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/djzakfrombolton/)*

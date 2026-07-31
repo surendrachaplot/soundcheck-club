@@ -1,6 +1,6 @@
 # Margaux Gazur
 
-Margaux Gazur is a Ambient and Dub artist with 2 upcoming club dates listed on soundcheck as of Thu, 30 Jul 2026, next at TBA - Secret Place, Marseille on Fri, 7 Aug 2026.
+Margaux Gazur is a Ambient and Dub artist with 2 upcoming club dates listed on soundcheck as of Fri, 31 Jul 2026, next at TBA - Secret Place, Marseille on Fri, 7 Aug 2026.
 
 Margaux Gazur is an ambient and dub artist based in France, tracked on soundcheck, with 17 sets logged across Barcelona, Berlin, Hamburg and Leipzig and 4 more. Often billed alongside Edward, Lawrence and Cosmo (KR). Next up: TBA - Secret Place, Marseille on Fri 7 Aug.
 
@@ -26,4 +26,4 @@ Margaux Gazur is an ambient and dub artist based in France, tracked on soundchec
 
 Edward, Lawrence, Cosmo (KR)
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/margauxgazur/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/margauxgazur/)*

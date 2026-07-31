@@ -1,6 +1,6 @@
 # eva h.
 
-eva h. is a Electro and House artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at ://about blank, Berlin on Sat, 1 Aug 2026.
+eva h. is a Electro and House artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at ://about blank, Berlin on Sat, 1 Aug 2026.
 
 eva h. is an electro and house artist based in Germany, tracked on soundcheck, with 12 sets logged across Berlin. Often billed alongside Aber DJ, Alex.Do and Anja Schneider. Next up: ://about blank, Berlin on Sat 1 Aug.
 
@@ -25,4 +25,4 @@ eva h. is an electro and house artist based in Germany, tracked on soundcheck, w
 
 Aber DJ, Alex.Do, Anja Schneider
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/evah-de/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/evah-de/)*

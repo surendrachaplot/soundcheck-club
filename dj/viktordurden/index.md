@@ -1,6 +1,6 @@
 # VIKTOR DURDEN
 
-VIKTOR DURDEN is a Techno and Tech House artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at Garage 442, Barcelona on Fri, 31 Jul 2026.
+VIKTOR DURDEN is a Techno and Tech House artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at Garage 442, Barcelona on Fri, 31 Jul 2026.
 
 VIKTOR DURDEN is a techno and tech house artist based in Spain, tracked on soundcheck, with 24 sets logged across Barcelona. Often billed alongside Julian Nardi, Gato and VIINCE. Next up: Garage 442, Barcelona on Fri 31 Jul.
 
@@ -25,4 +25,4 @@ VIKTOR DURDEN is a techno and tech house artist based in Spain, tracked on sound
 
 Julian Nardi, Gato, VIINCE
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/viktordurden/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/viktordurden/)*

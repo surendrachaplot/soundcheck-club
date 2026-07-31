@@ -1,6 +1,6 @@
 # Karawane
 
-Karawane is a Afrobeat and Latin Bass artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at Tuin van Heden, Ghent on Sun, 16 Aug 2026.
+Karawane is a Afrobeat and Latin Bass artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at Tuin van Heden, Ghent on Sun, 16 Aug 2026.
 
 Karawane is an afrobeat and latin bass artist based in Belgium, tracked on soundcheck, with 5 sets logged across Barcelona, Dundee and Ghent. Often billed alongside Berthold (1). Next up: Tuin van Heden, Ghent on Sun 16 Aug.
 
@@ -21,4 +21,4 @@ Karawane is an afrobeat and latin bass artist based in Belgium, tracked on sound
 
 Berthold (1)
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/karawane/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/karawane/)*

@@ -1,6 +1,6 @@
 # mimi cry
 
-mimi cry is a EBM and Industrial artist with 2 upcoming club dates listed on soundcheck as of Thu, 30 Jul 2026, next at The Monty Bar, Los Angeles on Fri, 31 Jul 2026.
+mimi cry is a EBM and Industrial artist with 2 upcoming club dates listed on soundcheck as of Fri, 31 Jul 2026, next at The Monty Bar, Los Angeles on Fri, 31 Jul 2026.
 
 mimi cry is an ebm and industrial artist based in United States of America, tracked on soundcheck, with 6 sets logged across Chicago and Losangeles. Often billed alongside Aurat, Club Drippy and Dedicated Enemy. Next up: The Monty Bar, Losangeles on Fri 31 Jul.
 
@@ -22,4 +22,4 @@ mimi cry is an ebm and industrial artist based in United States of America, trac
 
 Aurat, Club Drippy, Dedicated Enemy
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/mimicry/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/mimicry/)*

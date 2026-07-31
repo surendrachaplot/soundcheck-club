@@ -1,6 +1,6 @@
 # MONOM
 
-MONOM is a music venue in Berlin with 1 upcoming night listed on soundcheck as of Thu, 30 Jul 2026; the next is "Nadia Struiwigh presents IAMBIENT" on Sat, 8 Aug 2026.
+MONOM is a music venue in Berlin with 1 upcoming night listed on soundcheck as of Fri, 31 Jul 2026; the next is "Nadia Struiwigh presents IAMBIENT" on Sat, 8 Aug 2026.
 
 MONOM is a music venue in Berlin listed on soundcheck. 1 upcoming night, with line-ups including Nadia Struiwigh. Browse upcoming dates, start times and who's playing. Nalepastraße 18, 12459 Berlin.
 
@@ -14,4 +14,4 @@ MONOM is a music venue in Berlin listed on soundcheck. 1 upcoming night, with li
 
 Nalepastraße 18, 12459 Berlin, Berlin
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/monom/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/monom/)*

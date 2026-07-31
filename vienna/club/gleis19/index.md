@@ -1,6 +1,6 @@
 # Gleis19
 
-Gleis19 is a music venue in Vienna with 4 upcoming nights listed on soundcheck as of Thu, 30 Jul 2026; the next is "Crossover OPEN AIR" on Fri, 31 Jul 2026.
+Gleis19 is a music venue in Vienna with 4 upcoming nights listed on soundcheck as of Fri, 31 Jul 2026; the next is "Crossover OPEN AIR" on Fri, 31 Jul 2026.
 
 Gleis19 is a music venue in Vienna listed on soundcheck. 4 upcoming nights, with line-ups including Chiara Allnutt, Dimitrios (2), DJ FERRARI and Frau Hofmann and 2 more. Browse upcoming dates, start times and who's playing. Gundoldstraße 12, 1190 Wien.
 
@@ -17,4 +17,4 @@ Gleis19 is a music venue in Vienna listed on soundcheck. 4 upcoming nights, with
 
 Gundoldstraße 12, 1190 Wien, Vienna
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/vienna/club/gleis19/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/vienna/club/gleis19/)*

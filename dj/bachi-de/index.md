@@ -1,6 +1,6 @@
 # Bachi
 
-Bachi is a Deep House and House artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at Chinois Ibiza, Ibiza on Mon, 14 Sept 2026.
+Bachi is a Deep House and House artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at Chinois Ibiza, Ibiza on Mon, 14 Sept 2026.
 
 Bachi is a deep house and house artist based in Germany, tracked on soundcheck, with 7 sets logged across Berlin, Frankfurt, Ibiza and Tbilisi. Often billed alongside Musti Nero, Abraham (GER) and Alex Schmoll. Next up: Chinois Ibiza, Ibiza on Mon 14 Sept.
 
@@ -23,4 +23,4 @@ Bachi is a deep house and house artist based in Germany, tracked on soundcheck, 
 
 Musti Nero, Abraham (GER), Alex Schmoll
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/bachi-de/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/bachi-de/)*

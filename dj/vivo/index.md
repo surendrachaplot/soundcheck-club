@@ -1,14 +1,15 @@
 # VIVØ
 
-VIVØ is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at Smolna, Warsaw on Fri, 31 Jul 2026.
+VIVØ is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Fri, 31 Jul 2026, next at Smolna, Warsaw on Fri, 31 Jul 2026.
 
-VIVØ is a techno and house artist based in Poland, tracked on soundcheck, with 12 sets logged across Krakow, London, Madrid and Warsaw. Often billed alongside WRK (PL), vitcat (3) and A.C.. Next up: Smolna, Warsaw on Fri 31 Jul.
+VIVØ is a house and techno artist based in Poland, tracked on soundcheck, with 13 sets logged across Krakow, London, Madrid and Warsaw. Often billed alongside WRK (PL), vitcat (3) and A.C.. Next up: Smolna, Warsaw on Fri 31 Jul.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 31 Jul 2026 | Smolna | Warsaw |
+| Wed, 26 Aug 2026 | Smolna | Warsaw |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ VIVØ is a techno and house artist based in Poland, tracked on soundcheck, with 
 
 WRK (PL), vitcat (3), A.C.
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/vivo/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/vivo/)*

@@ -1,6 +1,6 @@
 # Anushka Chkheidze
 
-Anushka Chkheidze is a Experimental and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at TBA - Rees/Haldern, Düsseldorf on Wed, 5 Aug 2026.
+Anushka Chkheidze is a Experimental and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at TBA - Rees/Haldern, Düsseldorf on Wed, 5 Aug 2026.
 
 Anushka Chkheidze is an experimental and techno artist tracked on soundcheck, with 18 sets logged across Amsterdam, Berlin, Dusseldorf and Leipzig and 3 more. Often billed alongside Natalie Beridze, Robert Lippok and Aho Ssan. Next up: TBA - Rees/Haldern, Dusseldorf on Wed 5 Aug.
 
@@ -25,4 +25,4 @@ Anushka Chkheidze is an experimental and techno artist tracked on soundcheck, wi
 
 Natalie Beridze, Robert Lippok, Aho Ssan
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/anushkachkheidze/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/anushkachkheidze/)*

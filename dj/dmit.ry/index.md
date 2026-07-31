@@ -1,6 +1,6 @@
 # dMIT.RY
 
-dMIT.RY is a House and Club artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at Groove Bar, Prague on Fri, 31 Jul 2026.
+dMIT.RY is a House and Club artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at Groove Bar, Prague on Fri, 31 Jul 2026.
 
 dMIT.RY is a house and club artist tracked on soundcheck, with 102 sets logged across Prague. Often billed alongside Kredenc, Chep and Olinstvi. Next up: Groove Bar, Prague on Fri 31 Jul.
 
@@ -25,4 +25,4 @@ dMIT.RY is a house and club artist tracked on soundcheck, with 102 sets logged a
 
 Kredenc, Chep, Olinstvi
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/dmit.ry/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/dmit.ry/)*

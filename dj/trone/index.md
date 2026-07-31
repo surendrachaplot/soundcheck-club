@@ -1,8 +1,8 @@
 # Tr One
 
-Tr One is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Thu, 30 Jul 2026, next at Pawn Shop, Dublin on Fri, 14 Aug 2026.
+Tr One is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Fri, 31 Jul 2026, next at Pawn Shop, Dublin on Fri, 14 Aug 2026.
 
-Tr One is a house and techno artist tracked on soundcheck, with 54 sets logged across Berlin, Chicago, Cork and Dublin and 3 more. Often billed alongside Jack Devine, Doiléir and Hooligan. Next up: Pawn Shop, Dublin on Fri 14 Aug.
+Tr One is a house and techno artist tracked on soundcheck, with 55 sets logged across Berlin, Chicago, Cork and Dublin and 3 more. Often billed alongside Jack Devine, Doiléir and Hooligan. Next up: Pawn Shop, Dublin on Fri 14 Aug.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Tr One is a house and techno artist tracked on soundcheck, with 54 sets logged a
 | --- | --- | --- |
 | Fri, 14 Aug 2026 | Pawn Shop | Dublin |
 | Sat, 15 Aug 2026 | Absturz | Leipzig |
+| Sat, 22 Aug 2026 | The Bernard Shaw | Dublin |
 
 ## Recently played
 
@@ -26,4 +27,4 @@ Tr One is a house and techno artist tracked on soundcheck, with 54 sets logged a
 
 Jack Devine, Doiléir, Hooligan
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/trone/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/trone/)*

@@ -1,6 +1,6 @@
 # Ken P Arty
 
-Ken P Arty is a Bass and House artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at Slot, Hamburg on Sat, 1 Aug 2026.
+Ken P Arty is a Bass and House artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at Slot, Hamburg on Sat, 1 Aug 2026.
 
 Ken P Arty is a bass and house artist based in Australia, tracked on soundcheck, with 2 sets logged across Hamburg and Melbourne. Often billed alongside Adam Saykan, Monika Ross and safire. Next up: Slot, Hamburg on Sat 1 Aug.
 
@@ -18,4 +18,4 @@ Ken P Arty is a bass and house artist based in Australia, tracked on soundcheck,
 
 Adam Saykan, Monika Ross, safire
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/kenparty/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/kenparty/)*

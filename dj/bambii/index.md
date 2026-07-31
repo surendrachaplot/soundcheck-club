@@ -1,19 +1,19 @@
 # Bambii
 
-Bambii is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Thu, 30 Jul 2026, next at Sønder Hoved, Copenhagen on Thu, 30 Jul 2026.
+Bambii is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Fri, 31 Jul 2026, next at Parc Jean-Drapeau, Montreal on Fri, 31 Jul 2026.
 
-Bambii is a techno and house artist tracked on soundcheck, with 97 sets logged across Amsterdam, Athens, Austin and Barcelona and 25 more. Often billed alongside Young Teesh, Nino Brown (2) and Chase & Status. Next up: Sønder Hoved, Copenhagen on Thu 30 Jul.
+Bambii is a techno and house artist tracked on soundcheck, with 97 sets logged across Amsterdam, Athens, Austin and Barcelona and 25 more. Often billed alongside Young Teesh, Nino Brown (2) and Chase & Status. Next up: Parc Jean-Drapeau, Montreal on Fri 31 Jul.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Thu, 30 Jul 2026 | Sønder Hoved | Copenhagen |
 | Fri, 31 Jul 2026 | Parc Jean-Drapeau | Montreal |
 | Fri, 25 Sept 2026 | 131 Mccormack St | Toronto |
 
 ## Recently played
 
+- Sønder Hoved, Copenhagen — Thu, 30 Jul 2026
 - Big Pink, Detroit — Fri, 10 Jul 2026
 - Holland Park, Vancouver — Fri, 3 Jul 2026
 - Holland Park, Vancouver — Thu, 2 Jul 2026
@@ -21,10 +21,9 @@ Bambii is a techno and house artist tracked on soundcheck, with 97 sets logged a
 - TBA - DTLA, Los Angeles — Fri, 26 Jun 2026
 - Sunset Park Rooftop, New York City — Sat, 20 Jun 2026
 - Cervantes' Masterpiece Ballroom, Denver — Sat, 13 Jun 2026
-- Kingdom Nightclub, Austin — Fri, 12 Jun 2026
 
 ## Shares bills with
 
 Young Teesh, Nino Brown (2), Chase & Status
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/bambii/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/bambii/)*

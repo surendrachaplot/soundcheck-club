@@ -1,6 +1,6 @@
 # Chris Mindel
 
-Chris Mindel is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at TBA - Outdoor South LA, Los Angeles on Sat, 15 Aug 2026.
+Chris Mindel is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at TBA - Outdoor South LA, Los Angeles on Sat, 15 Aug 2026.
 
 Chris Mindel is a house and techno artist based in United States of America, tracked on soundcheck, with 6 sets logged across Losangeles. Often billed alongside Josh Kwon, Deep Tribe and Jaime Narvaez. Next up: TBA - Outdoor South LA, Losangeles on Sat 15 Aug.
 
@@ -22,4 +22,4 @@ Chris Mindel is a house and techno artist based in United States of America, tra
 
 Josh Kwon, Deep Tribe, Jaime Narvaez
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/chrismindel/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/chrismindel/)*

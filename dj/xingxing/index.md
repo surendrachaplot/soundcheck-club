@@ -1,6 +1,6 @@
 # Xing Xing
 
-Xing Xing is a Bass and Club artist with 2 upcoming club dates listed on soundcheck as of Thu, 30 Jul 2026, next at Dual, Bangkok on Fri, 31 Jul 2026.
+Xing Xing is a Bass and Club artist with 2 upcoming club dates listed on soundcheck as of Fri, 31 Jul 2026, next at Dual, Bangkok on Fri, 31 Jul 2026.
 
 Xing Xing is a bass and club artist based in South Korea, tracked on soundcheck, with 52 sets logged across Bali, Bangkok, Melbourne and Seoul and 1 more. Often billed alongside Ligrye, DJ Co.kr and KISEWA. Next up: Dual, Bangkok on Fri 31 Jul.
 
@@ -26,4 +26,4 @@ Xing Xing is a bass and club artist based in South Korea, tracked on soundcheck,
 
 Ligrye, DJ Co.kr, KISEWA
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/xingxing/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/xingxing/)*

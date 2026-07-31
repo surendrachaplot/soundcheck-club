@@ -1,6 +1,6 @@
 # clara luise
 
-clara luise is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at fi, Cologne on Sat, 8 Aug 2026.
+clara luise is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at fi, Cologne on Sat, 8 Aug 2026.
 
 clara luise is a techno and house artist based in Germany, tracked on soundcheck, with 11 sets logged across Berlin, Cologne and Dusseldorf. Often billed alongside Tava Oro, Miles Pinkert and ADRI (LV). Next up: fi, Cologne on Sat 8 Aug.
 
@@ -25,4 +25,4 @@ clara luise is a techno and house artist based in Germany, tracked on soundcheck
 
 Tava Oro, Miles Pinkert, ADRI (LV)
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/claraluise/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/claraluise/)*

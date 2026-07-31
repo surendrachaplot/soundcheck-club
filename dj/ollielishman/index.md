@@ -1,6 +1,6 @@
 # Ollie Lishman
 
-Ollie Lishman is a Techno and Trance artist with 7 upcoming club dates listed on soundcheck as of Thu, 30 Jul 2026, next at Hangaren, Copenhagen on Fri, 31 Jul 2026.
+Ollie Lishman is a Techno and Trance artist with 7 upcoming club dates listed on soundcheck as of Fri, 31 Jul 2026, next at Hangaren, Copenhagen on Fri, 31 Jul 2026.
 
 Ollie Lishman is a techno and trance artist tracked on soundcheck, with 125 sets logged across Amsterdam, Antwerp, Barcelona and Basel and 35 more. Often billed alongside Bad Boombox, Janis Zielinski and Mischluft. Next up: Hangaren, Copenhagen on Fri 31 Jul.
 
@@ -13,7 +13,7 @@ Ollie Lishman is a techno and trance artist tracked on soundcheck, with 125 sets
 | Wed, 12 Aug 2026 | Gianpula Village | Malta |
 | Sun, 30 Aug 2026 | Else | Berlin |
 | Sat, 5 Sept 2026 | Industry City | New York City |
-| Sun, 13 Sept 2026 | The Midway | San Francisco/Oakland |
+| Sun, 13 Sept 2026 | 888 Garage | San Francisco/Oakland |
 | Thu, 22 Oct 2026 | Lofi | Amsterdam |
 
 ## Recently played
@@ -31,4 +31,4 @@ Ollie Lishman is a techno and trance artist tracked on soundcheck, with 125 sets
 
 Bad Boombox, Janis Zielinski, Mischluft
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/ollielishman/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/ollielishman/)*

@@ -1,6 +1,6 @@
 # Amedeo Picone
 
-Amedeo Picone is a Tech House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at Amnesia Ibiza, Ibiza on Tue, 18 Aug 2026.
+Amedeo Picone is a Tech House and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at Amnesia Ibiza, Ibiza on Tue, 18 Aug 2026.
 
 Amedeo Picone is a tech house and techno artist based in Italy, tracked on soundcheck, with 10 sets logged across Amsterdam, Budapest, Ibiza and Naples. Often billed alongside Joseph Capriati, Antique (HU) and Cordeiro. Next up: Amnesia Ibiza, Ibiza on Tue 18 Aug.
 
@@ -25,4 +25,4 @@ Amedeo Picone is a tech house and techno artist based in Italy, tracked on sound
 
 Joseph Capriati, Antique (HU), Cordeiro
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/amedeopicone/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/amedeopicone/)*

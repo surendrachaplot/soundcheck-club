@@ -1,6 +1,6 @@
 # Shady Lady
 
-Shady Lady is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at Doka, Amsterdam on Fri, 31 Jul 2026.
+Shady Lady is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at Doka, Amsterdam on Fri, 31 Jul 2026.
 
 Shady Lady is a house and disco artist tracked on soundcheck, with 60 sets logged across Amsterdam, Antwerp, Auckland and Berlin and 5 more. Often billed alongside DJ Tracksuit, MMIV and Huck Finn. Next up: Doka, Amsterdam on Fri 31 Jul.
 
@@ -25,4 +25,4 @@ Shady Lady is a house and disco artist tracked on soundcheck, with 60 sets logge
 
 DJ Tracksuit, MMIV, Huck Finn
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/shadylady/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/shadylady/)*

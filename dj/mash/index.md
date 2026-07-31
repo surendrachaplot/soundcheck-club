@@ -1,6 +1,6 @@
 # Mash
 
-Mash is a House and Hip-Hop artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at The Left Bank, Glasgow on Fri, 31 Jul 2026.
+Mash is a House and Hip-Hop artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at The Left Bank, Glasgow on Fri, 31 Jul 2026.
 
 Mash is a house and hip-hop artist based in Germany, tracked on soundcheck, with 36 sets logged across Barcelona, Berlin, Glasgow and Osaka and 2 more. Often billed alongside Bouki, Sim Select and Cousin. Next up: The Left Bank, Glasgow on Fri 31 Jul.
 
@@ -25,4 +25,4 @@ Mash is a house and hip-hop artist based in Germany, tracked on soundcheck, with
 
 Bouki, Sim Select, Cousin
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/mash/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/mash/)*

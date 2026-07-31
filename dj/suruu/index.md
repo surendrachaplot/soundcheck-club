@@ -1,6 +1,6 @@
 # SURUU
 
-SURUU is a House and Jazz artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at TBA - Mansion Near Plaza Catalunya, Barcelona on Sun, 9 Aug 2026.
+SURUU is a House and Jazz artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at TBA - Mansion Near Plaza Catalunya, Barcelona on Sun, 9 Aug 2026.
 
 SURUU is a house and jazz artist based in Spain, tracked on soundcheck, with 25 sets logged across Barcelona and Paris. Often billed alongside Beniso, Better Late and Hanakito. Next up: TBA - Mansion Near Plaza Catalunya, Barcelona on Sun 9 Aug.
 
@@ -25,4 +25,4 @@ SURUU is a house and jazz artist based in Spain, tracked on soundcheck, with 25 
 
 Beniso, Better Late, Hanakito
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/suruu/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/suruu/)*

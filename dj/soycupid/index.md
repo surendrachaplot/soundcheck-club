@@ -1,6 +1,6 @@
 # soycupid
 
-soycupid is a Techno and Deep House artist with 2 upcoming club dates listed on soundcheck as of Thu, 30 Jul 2026, next at TBA, Philadelphia on Fri, 31 Jul 2026.
+soycupid is a Techno and Deep House artist with 2 upcoming club dates listed on soundcheck as of Fri, 31 Jul 2026, next at TBA, Philadelphia on Fri, 31 Jul 2026.
 
 soycupid is a techno and deep house artist based in United States of America, tracked on soundcheck, with 2 sets logged across Philadelphia. Often billed alongside Self Talk and diy.ffs. Next up: TBA, Philadelphia on Fri 31 Jul.
 
@@ -15,4 +15,4 @@ soycupid is a techno and deep house artist based in United States of America, tr
 
 Self Talk, diy.ffs
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/soycupid/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/soycupid/)*

@@ -1,6 +1,6 @@
 # call me daddy
 
-call me daddy is a electronic artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at Praterbrücke, Vienna on Fri, 31 Jul 2026.
+call me daddy is a electronic artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at Praterbrücke, Vienna on Fri, 31 Jul 2026.
 
 call me daddy is an electronic artist tracked on soundcheck, with 8 sets logged across Vienna. Often billed alongside মm., Qamareen and saschka. Next up: Praterbrücke, Vienna on Fri 31 Jul.
 
@@ -24,4 +24,4 @@ call me daddy is an electronic artist tracked on soundcheck, with 8 sets logged 
 
 মm., Qamareen, saschka
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/callmedaddy/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/callmedaddy/)*

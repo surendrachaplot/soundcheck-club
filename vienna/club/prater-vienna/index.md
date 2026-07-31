@@ -1,6 +1,6 @@
 # Prater Vienna
 
-Prater Vienna is a music venue in Vienna with 1 upcoming night listed on soundcheck as of Thu, 30 Jul 2026; the next is "Volumenrad" on Fri, 31 Jul 2026.
+Prater Vienna is a music venue in Vienna with 1 upcoming night listed on soundcheck as of Fri, 31 Jul 2026; the next is "Volumenrad" on Fri, 31 Jul 2026.
 
 Prater Vienna is a music venue in Vienna listed on soundcheck. 1 upcoming night, with line-ups including Fede Frostl, LAVO (2) and LAYA. Browse upcoming dates, start times and who's playing. Vienna, Prater, Maibaumwiese.
 
@@ -14,4 +14,4 @@ Prater Vienna is a music venue in Vienna listed on soundcheck. 1 upcoming night,
 
 Vienna, Prater, Maibaumwiese, Vienna
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/vienna/club/prater-vienna/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/vienna/club/prater-vienna/)*

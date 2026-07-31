@@ -1,6 +1,6 @@
 # Jorgge Decar
 
-Jorgge Decar is a Electro and Electronica artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at Doggy Klœb, Malaga on Sat, 8 Aug 2026.
+Jorgge Decar is a Electro and Electronica artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at Doggy Klœb, Malaga on Sat, 8 Aug 2026.
 
 Jorgge Decar is an electro and electronica artist based in Colombia, tracked on soundcheck, with 28 sets logged across Malaga. Often billed alongside Unreal Vibes, Excenital and Radikal. Next up: Doggy Klœb, Malaga on Sat 8 Aug.
 
@@ -25,4 +25,4 @@ Jorgge Decar is an electro and electronica artist based in Colombia, tracked on 
 
 Unreal Vibes, Excenital, Radikal
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/jorggedecar/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/jorggedecar/)*

@@ -1,6 +1,6 @@
 # Sad Boy Solutions
 
-Sad Boy Solutions is a Disco and House artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at Brouwerij Troost Westergas, Amsterdam on Sat, 15 Aug 2026.
+Sad Boy Solutions is a Disco and House artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at Brouwerij Troost Westergas, Amsterdam on Sat, 15 Aug 2026.
 
 Sad Boy Solutions is a disco and house artist based in Netherlands, tracked on soundcheck, with 15 sets logged across Amsterdam. Often billed alongside Taco, Anil Aras and Artmann. Next up: Brouwerij Troost Westergas, Amsterdam on Sat 15 Aug.
 
@@ -25,4 +25,4 @@ Sad Boy Solutions is a disco and house artist based in Netherlands, tracked on s
 
 Taco, Anil Aras, Artmann
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/sadboysolutions/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/sadboysolutions/)*

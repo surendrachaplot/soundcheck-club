@@ -1,6 +1,6 @@
 # KEi
 
-KEi is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at Socore Factory, Osaka on Sat, 15 Aug 2026.
+KEi is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at Socore Factory, Osaka on Sat, 15 Aug 2026.
 
 KEi is a house and techno artist based in Bulgaria, tracked on soundcheck, with 19 sets logged across Osaka, Seoul and Tokyo. Often billed alongside Gumbo, NOËL and SAKO. Next up: Socore Factory, Osaka on Sat 15 Aug.
 
@@ -25,4 +25,4 @@ KEi is a house and techno artist based in Bulgaria, tracked on soundcheck, with 
 
 Gumbo, NOËL, SAKO
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/kei/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/kei/)*

@@ -1,6 +1,6 @@
 # Ms. K
 
-Ms. K is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at Kvarteret, Stockholm on Sat, 1 Aug 2026.
+Ms. K is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at Kvarteret, Stockholm on Sat, 1 Aug 2026.
 
 Ms. K is a techno and house artist based in Sweden, tracked on soundcheck, with 31 sets logged across Stockholm. Often billed alongside Billie Jo, Emin G and Harami. Next up: Kvarteret, Stockholm on Sat 1 Aug.
 
@@ -25,4 +25,4 @@ Ms. K is a techno and house artist based in Sweden, tracked on soundcheck, with 
 
 Billie Jo, Emin G, Harami
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/msk/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/msk/)*

@@ -1,6 +1,6 @@
 # Marcelo Cura
 
-Marcelo Cura is a House and Minimal artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at Almar Beach Club, Barcelona on Sun, 9 Aug 2026.
+Marcelo Cura is a House and Minimal artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at Almar Beach Club, Barcelona on Sun, 9 Aug 2026.
 
 Marcelo Cura is a house and minimal artist tracked on soundcheck, with 44 sets logged across Barcelona and Mexicocity. Often billed alongside Alexxx, IVAN POSEIDON and Rele. Next up: Almar Beach Club, Barcelona on Sun 9 Aug.
 
@@ -25,4 +25,4 @@ Marcelo Cura is a house and minimal artist tracked on soundcheck, with 44 sets l
 
 Alexxx, IVAN POSEIDON, Rele
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/marcelocura-fr/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/marcelocura-fr/)*

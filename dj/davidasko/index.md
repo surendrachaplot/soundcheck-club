@@ -1,6 +1,6 @@
 # David Asko
 
-David Asko is a Techno and Industrial artist with 2 upcoming club dates listed on soundcheck as of Thu, 30 Jul 2026, next at Fvtvr, Paris on Fri, 21 Aug 2026.
+David Asko is a Techno and Industrial artist with 2 upcoming club dates listed on soundcheck as of Fri, 31 Jul 2026, next at Fvtvr, Paris on Fri, 21 Aug 2026.
 
 David Asko is a techno and industrial artist based in France, tracked on soundcheck, with 36 sets logged across Barcelona, Basel, Berlin and Hamburg and 6 more. Often billed alongside Samantha Togni, Somniac One and Rebekah. Next up: Fvtvr, Paris on Fri 21 Aug.
 
@@ -26,4 +26,4 @@ David Asko is a techno and industrial artist based in France, tracked on soundch
 
 Samantha Togni, Somniac One, Rebekah
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/davidasko/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/davidasko/)*

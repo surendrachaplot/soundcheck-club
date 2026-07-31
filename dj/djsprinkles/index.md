@@ -1,6 +1,6 @@
 # DJ Sprinkles
 
-DJ Sprinkles is a Deep House and House artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at Amsterdamse Bos, Amsterdam on Fri, 31 Jul 2026.
+DJ Sprinkles is a Deep House and House artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at Amsterdamse Bos, Amsterdam on Fri, 31 Jul 2026.
 
 DJ Sprinkles is a deep house and house artist tracked on soundcheck, with 21 sets logged across Amsterdam, Berlin, Bristol and London and 5 more. Often billed alongside Christian AB, Jyoty and Ryan Elliott. Next up: Amsterdamse Bos, Amsterdam on Fri 31 Jul.
 
@@ -25,4 +25,4 @@ DJ Sprinkles is a deep house and house artist tracked on soundcheck, with 21 set
 
 Christian AB, Jyoty, Ryan Elliott
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/djsprinkles/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/djsprinkles/)*

@@ -1,13 +1,14 @@
 # SHO
 
-SHO is a Drum & Bass and Jungle artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at The Racket Space, Dublin on Fri, 4 Sept 2026.
+SHO is a Drum & Bass and Jungle artist with 2 upcoming club dates listed on soundcheck as of Fri, 31 Jul 2026, next at The Bernard Shaw, Dublin on Sat, 22 Aug 2026.
 
-SHO is a drum & bass and jungle artist based in Ireland, tracked on soundcheck, with 47 sets logged across Amsterdam, Brighton, Dublin and Mexicocity and 1 more. Often billed alongside Steak, Fran Ortu and angel tabris. Next up: The Racket Space, Dublin on Fri 4 Sept.
+SHO is a drum & bass and jungle artist based in Ireland, tracked on soundcheck, with 48 sets logged across Amsterdam, Brighton, Dublin and Mexicocity and 1 more. Often billed alongside Steak, Fran Ortu and angel tabris. Next up: The Bernard Shaw, Dublin on Sat 22 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 22 Aug 2026 | The Bernard Shaw | Dublin |
 | Fri, 4 Sept 2026 | The Racket Space | Dublin |
 
 ## Recently played
@@ -25,4 +26,4 @@ SHO is a drum & bass and jungle artist based in Ireland, tracked on soundcheck, 
 
 Steak, Fran Ortu, angel tabris
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/sho/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/sho/)*

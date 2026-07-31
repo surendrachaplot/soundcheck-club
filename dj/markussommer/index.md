@@ -1,6 +1,6 @@
 # Markus Sommer
 
-Markus Sommer is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Thu, 30 Jul 2026, next at Tokonoma Club, Frankfurt on Sat, 15 Aug 2026.
+Markus Sommer is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Fri, 31 Jul 2026, next at Tokonoma Club, Frankfurt on Sat, 15 Aug 2026.
 
 Markus Sommer is a house and techno artist based in Germany, tracked on soundcheck, with 68 sets logged across Amsterdam, Antwerp, Barcelona and Berlin and 17 more. Often billed alongside Tom Ries, Tzena and Phil Evans. Next up: Tokonoma Club, Frankfurt on Sat 15 Aug.
 
@@ -26,4 +26,4 @@ Markus Sommer is a house and techno artist based in Germany, tracked on soundche
 
 Tom Ries, Tzena, Phil Evans
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/markussommer/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/markussommer/)*

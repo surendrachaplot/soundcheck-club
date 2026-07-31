@@ -1,6 +1,6 @@
 # Okarim
 
-Okarim is a electronic artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at Bahnwärter Thiel, Munich on Fri, 7 Aug 2026.
+Okarim is a electronic artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at Bahnwärter Thiel, Munich on Fri, 7 Aug 2026.
 
 Okarim is an electronic artist based in Germany, tracked on soundcheck, with 3 sets logged across Munich. Often billed alongside Cody Currie, Danca and Haze (GER). Next up: Bahnwärter Thiel, Munich on Fri 7 Aug.
 
@@ -19,4 +19,4 @@ Okarim is an electronic artist based in Germany, tracked on soundcheck, with 3 s
 
 Cody Currie, Danca, Haze (GER)
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/okarim/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/okarim/)*

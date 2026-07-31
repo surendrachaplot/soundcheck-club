@@ -1,6 +1,6 @@
 # kitsch & SASH
 
-kitsch & SASH is a New Wave and Deep House artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at TBA, Frankfurt on Sun, 20 Sept 2026.
+kitsch & SASH is a New Wave and Deep House artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at TBA, Frankfurt on Sun, 20 Sept 2026.
 
 kitsch & SASH are a new wave and deep house duo based in Germany, tracked on soundcheck, with 2 sets logged across Frankfurt and Istanbul. Often billed alongside BECKSHAM, Daria Zadekova and Monolink. Next up: TBA, Frankfurt on Sun 20 Sept.
 
@@ -18,4 +18,4 @@ kitsch & SASH are a new wave and deep house duo based in Germany, tracked on sou
 
 BECKSHAM, Daria Zadekova, Monolink
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/kitschandsash/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/kitschandsash/)*

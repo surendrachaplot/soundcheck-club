@@ -1,6 +1,6 @@
 # Mozhgan
 
-Mozhgan is a Techno and Acid artist with 4 upcoming club dates listed on soundcheck as of Thu, 30 Jul 2026, next at TBA - Laytonville, CA, San Francisco/Oakland on Fri, 11 Sept 2026.
+Mozhgan is a Techno and Acid artist with 4 upcoming club dates listed on soundcheck as of Fri, 31 Jul 2026, next at TBA - Laytonville, CA, San Francisco/Oakland on Fri, 11 Sept 2026.
 
 Mozhgan is a techno and acid artist tracked on soundcheck, with 88 sets logged across Amsterdam, Austin, Bali and Berlin and 20 more. Often billed alongside Solar, Carlos Souffront and BMG. Next up: TBA - Laytonville, CA, Sanfrancisco on Fri 11 Sept.
 
@@ -28,4 +28,4 @@ Mozhgan is a techno and acid artist tracked on soundcheck, with 88 sets logged a
 
 Solar, Carlos Souffront, BMG
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/mozhgan-us/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/mozhgan-us/)*

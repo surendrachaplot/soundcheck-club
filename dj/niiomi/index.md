@@ -1,6 +1,6 @@
 # Niiomi
 
-Niiomi is a Afro House and House artist with 4 upcoming club dates listed on soundcheck as of Thu, 30 Jul 2026, next at Sloterpark, Amsterdam on Sat, 8 Aug 2026.
+Niiomi is a Afro House and House artist with 4 upcoming club dates listed on soundcheck as of Fri, 31 Jul 2026, next at Sloterpark, Amsterdam on Sat, 8 Aug 2026.
 
 Niiomi is an afro house and house artist based in Netherlands, tracked on soundcheck, with 20 sets logged across Amsterdam, Brussels, Ibiza and London and 3 more. Often billed alongside AMÉMÉ, Ammé and Cincity. Next up: Sloterpark, Amsterdam on Sat 8 Aug.
 
@@ -28,4 +28,4 @@ Niiomi is an afro house and house artist based in Netherlands, tracked on soundc
 
 AMÉMÉ, Ammé, Cincity
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/niiomi/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/niiomi/)*

@@ -1,6 +1,6 @@
 # u z z v
 
-u z z v is a Minimal and House artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at Z Maruyama, Tokyo on Fri, 21 Aug 2026.
+u z z v is a Minimal and House artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at Z Maruyama, Tokyo on Fri, 21 Aug 2026.
 
 u z z v is a minimal and house artist based in Spain, tracked on soundcheck, with 6 sets logged across London, Miami, Newyorkcity and Tokyo and 1 more. Often billed alongside Adam Braiman, Ray Mono and Adam Robbo. Next up: Z Maruyama, Tokyo on Fri 21 Aug.
 
@@ -22,4 +22,4 @@ u z z v is a minimal and house artist based in Spain, tracked on soundcheck, wit
 
 Adam Braiman, Ray Mono, Adam Robbo
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/uzzv/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/uzzv/)*

@@ -1,6 +1,6 @@
 # C.ru.z
 
-C.ru.z is a Electro and House artist with 2 upcoming club dates listed on soundcheck as of Thu, 30 Jul 2026, next at Razzmatazz, Barcelona on Sat, 8 Aug 2026.
+C.ru.z is a Electro and House artist with 2 upcoming club dates listed on soundcheck as of Fri, 31 Jul 2026, next at Razzmatazz, Barcelona on Sat, 8 Aug 2026.
 
 C.ru.z is an electro and house artist based in Argentina, tracked on soundcheck, with 20 sets logged across Barcelona, Berlin, Bucharest and Lisbon and 5 more. Often billed alongside Niff, Curses and DJ Tree. Next up: Razzmatazz, Barcelona on Sat 8 Aug.
 
@@ -26,4 +26,4 @@ C.ru.z is an electro and house artist based in Argentina, tracked on soundcheck,
 
 Niff, Curses, DJ Tree
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/c.ru.z/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/c.ru.z/)*

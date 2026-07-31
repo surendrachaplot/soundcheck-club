@@ -1,8 +1,8 @@
 # Fonda Theatre
 
-Fonda Theatre is a music venue in Los Angeles with 5 upcoming nights listed on soundcheck as of Thu, 30 Jul 2026; the next is "Hayla" on Fri, 4 Sept 2026.
+Fonda Theatre is a music venue in Los Angeles with 6 upcoming nights listed on soundcheck as of Fri, 31 Jul 2026; the next is "Hayla" on Fri, 4 Sept 2026.
 
-Fonda Theatre is a music venue in Losangeles listed on soundcheck. 5 upcoming nights, with line-ups including oskar med k, Smerz and Soulwax. Browse upcoming dates, start times and who's playing. 6126 Hollywood Blvd, Hollywood, CA 90028.
+Fonda Theatre is a music venue in Losangeles listed on soundcheck. 6 upcoming nights, with line-ups including oskar med k, Smerz and Soulwax. Browse upcoming dates, start times and who's playing. 6126 Hollywood Blvd, Hollywood, CA 90028.
 
 ## What's on
 
@@ -11,6 +11,7 @@ Fonda Theatre is a music venue in Losangeles listed on soundcheck. 5 upcoming ni
 | Fri, 4 Sept 2026 | Hayla |  |
 | Sun, 6 Sept 2026 | Cancelled - Smerz | Smerz |
 | Thu, 17 Sept 2026 | Soulwax at The Fonda Theatre | Soulwax |
+| Thu, 17 Sept 2026 | KCRW presents Soulwax |  |
 | Fri, 25 Sept 2026 | Jigitz |  |
 | Wed, 7 Oct 2026 | oskar med k | oskar med k |
 
@@ -18,4 +19,4 @@ Fonda Theatre is a music venue in Losangeles listed on soundcheck. 5 upcoming ni
 
 6126 Hollywood Blvd, Hollywood, CA 90028, Los Angeles
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/losangeles/club/fonda-theatre/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/losangeles/club/fonda-theatre/)*

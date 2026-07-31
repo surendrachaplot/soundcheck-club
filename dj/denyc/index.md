@@ -1,6 +1,6 @@
 # DENYC
 
-DENYC is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at Utopia, Los Angeles on Sun, 2 Aug 2026.
+DENYC is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at Utopia, Los Angeles on Sun, 2 Aug 2026.
 
 DENYC is a techno and house artist based in United States of America, tracked on soundcheck, with 18 sets logged across Losangeles. Often billed alongside RCKSLVR, Trou and DJ Alden. Next up: Utopia, Losangeles on Sun 2 Aug.
 
@@ -25,4 +25,4 @@ DENYC is a techno and house artist based in United States of America, tracked on
 
 RCKSLVR, Trou, DJ Alden
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/denyc/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/denyc/)*

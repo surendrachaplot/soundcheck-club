@@ -1,6 +1,6 @@
 # Cari Lekebusch
 
-Cari Lekebusch is a Techno and Electronica artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at Amsterdamse Bos, Amsterdam on Fri, 31 Jul 2026.
+Cari Lekebusch is a Techno and Electronica artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at Amsterdamse Bos, Amsterdam on Fri, 31 Jul 2026.
 
 Cari Lekebusch is a techno and electronica artist tracked on soundcheck, with 11 sets logged across Amsterdam, Barcelona, Berlin and Copenhagen and 2 more. Often billed alongside Christian AB, Olof Dreijer and Polygonia. Next up: Amsterdamse Bos, Amsterdam on Fri 31 Jul.
 
@@ -25,4 +25,4 @@ Cari Lekebusch is a techno and electronica artist tracked on soundcheck, with 11
 
 Christian AB, Olof Dreijer, Polygonia
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/carilekebusch/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/carilekebusch/)*

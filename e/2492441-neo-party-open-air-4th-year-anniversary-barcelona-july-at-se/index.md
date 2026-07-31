@@ -1,6 +1,6 @@
 # NEO Party (Open Air) 4th Year Anniversary - Barcelona - July at Seaseaclub Barcelona
 
-NEO Party (Open Air) 4th Year Anniversary - Barcelona - July at Seaseaclub Barcelona on Fri 31 Jul, Barcelona. Hip-Hop and Afrobeat. Preview the line-up and save it on soundcheck.
+NEO Party (Open Air) 4th Year Anniversary - Barcelona - July at Seaseaclub Barcelona on Fri 31 Jul, Barcelona. Afrobeat and Hip-Hop. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

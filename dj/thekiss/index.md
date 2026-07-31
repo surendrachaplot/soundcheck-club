@@ -1,6 +1,6 @@
 # The Kiss
 
-The Kiss is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Thu, 30 Jul 2026, next at OST, Berlin on Fri, 31 Jul 2026.
+The Kiss is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Fri, 31 Jul 2026, next at OST, Berlin on Fri, 31 Jul 2026.
 
 The Kiss is a techno and house artist tracked on soundcheck, with 25 sets logged across Berlin and Chicago. Often billed alongside Benua, Blck-Swan and H7 (3). Next up: OST, Berlin on Fri 31 Jul.
 
@@ -26,4 +26,4 @@ The Kiss is a techno and house artist tracked on soundcheck, with 25 sets logged
 
 Benua, Blck-Swan, H7 (3)
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/thekiss/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/thekiss/)*

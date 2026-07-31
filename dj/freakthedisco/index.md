@@ -1,6 +1,6 @@
 # Freak The Disco
 
-Freak The Disco is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at TBA - Backstage - Carrer Casp, 33, Barcelona on Sat, 1 Aug 2026.
+Freak The Disco is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at TBA - Backstage - Carrer Casp, 33, Barcelona on Sat, 1 Aug 2026.
 
 Freak The Disco is a house and deep house artist based in United States of America, tracked on soundcheck, with 16 sets logged across Barcelona, Ibiza, Miami and Newyorkcity and 2 more. Often billed alongside Alex Cecil, DJ Fitness and Dude Skywalker. Next up: TBA - Backstage - Carrer Casp, 33, Barcelona on Sat 1 Aug.
 
@@ -25,4 +25,4 @@ Freak The Disco is a house and deep house artist based in United States of Ameri
 
 Alex Cecil, DJ Fitness, Dude Skywalker
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/freakthedisco/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/freakthedisco/)*

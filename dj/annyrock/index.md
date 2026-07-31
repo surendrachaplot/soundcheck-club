@@ -1,6 +1,6 @@
 # Annyrock
 
-Annyrock is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Thu, 30 Jul 2026, next at Macadam, Nantes on Fri, 31 Jul 2026.
+Annyrock is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Fri, 31 Jul 2026, next at Macadam, Nantes on Fri, 31 Jul 2026.
 
 Annyrock is a house and techno artist based in Ukraine, tracked on soundcheck, with 71 sets logged across Amsterdam, Barcelona, Berlin and Copenhagen and 9 more. Often billed alongside E.LINA, slin and Ancut. Next up: Macadam, Nantes on Fri 31 Jul.
 
@@ -26,4 +26,4 @@ Annyrock is a house and techno artist based in Ukraine, tracked on soundcheck, w
 
 E.LINA, slin, Ancut
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/annyrock/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/annyrock/)*

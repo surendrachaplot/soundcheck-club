@@ -1,6 +1,6 @@
 # Gorilla
 
-Gorilla is a music venue in Manchester with 4 upcoming nights listed on soundcheck as of Thu, 30 Jul 2026; the next is "Bass Face // MCR // DNB . 360° SUMMER SPECIAL! LAST FREE TICKETS" on Fri, 7 Aug 2026.
+Gorilla is a music venue in Manchester with 4 upcoming nights listed on soundcheck as of Fri, 31 Jul 2026; the next is "Bass Face // MCR // DNB . 360° SUMMER SPECIAL! LAST FREE TICKETS" on Fri, 7 Aug 2026.
 
 Gorilla is a music venue in Manchester listed on soundcheck. 4 upcoming nights. Browse upcoming dates, start times and who's playing. 54-56 Whitworth St West, Manchester, M1 5WW, United Kingdom.
 
@@ -17,4 +17,4 @@ Gorilla is a music venue in Manchester listed on soundcheck. 4 upcoming nights. 
 
 54-56 Whitworth St West, Manchester, M1 5WW, United Kingdom, Manchester
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/manchester/club/gorilla/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/manchester/club/gorilla/)*

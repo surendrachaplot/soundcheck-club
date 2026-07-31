@@ -1,6 +1,6 @@
 # ACA (YU)
 
-ACA (YU) is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at E1, London on Fri, 21 Aug 2026.
+ACA (YU) is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at E1, London on Fri, 21 Aug 2026.
 
 ACA (YU) is a house and tech house artist based in Spain, tracked on soundcheck, with 67 sets logged across Amsterdam, Barcelona, Cologne and Dublin and 6 more. Often billed alongside Ryan Connolly, HARRIE SUMMERS and Darius Syrossian. Next up: E1, London on Fri 21 Aug.
 
@@ -25,4 +25,4 @@ ACA (YU) is a house and tech house artist based in Spain, tracked on soundcheck,
 
 Ryan Connolly, HARRIE SUMMERS, Darius Syrossian
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/acayu/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/acayu/)*

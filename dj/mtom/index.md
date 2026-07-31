@@ -1,6 +1,6 @@
 # MTOM
 
-MTOM is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at Moon Club, Bristol on Thu, 17 Sept 2026.
+MTOM is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at Moon Club, Bristol on Thu, 17 Sept 2026.
 
 MTOM is a techno and trance artist based in United Kingdom, tracked on soundcheck, with 8 sets logged across Bristol. Often billed alongside STYLI, Aly Berry and Neil And I. Next up: Moon Club, Bristol on Thu 17 Sept.
 
@@ -24,4 +24,4 @@ MTOM is a techno and trance artist based in United Kingdom, tracked on soundchec
 
 STYLI, Aly Berry, Neil And I
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/mtom/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/mtom/)*

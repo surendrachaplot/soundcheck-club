@@ -1,6 +1,6 @@
 # DJ TEETH
 
-DJ TEETH is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at Cadavra, Madrid on Sat, 12 Sept 2026.
+DJ TEETH is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at Cadavra, Madrid on Sat, 12 Sept 2026.
 
 DJ TEETH is a techno and trance artist tracked on soundcheck, with 44 sets logged across Berlin, Bristol, London and Madrid and 6 more. Often billed alongside TPR (DE), E-Talking and Carl H. Next up: Cadavra, Madrid on Sat 12 Sept.
 
@@ -25,4 +25,4 @@ DJ TEETH is a techno and trance artist tracked on soundcheck, with 44 sets logge
 
 TPR (DE), E-Talking, Carl H
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/djteeth/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/djteeth/)*

@@ -1,6 +1,6 @@
 # Olefonken
 
-Olefonken is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Thu, 30 Jul 2026, next at Gehør, Oslo on Fri, 31 Jul 2026.
+Olefonken is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Fri, 31 Jul 2026, next at Gehør, Oslo on Fri, 31 Jul 2026.
 
 Olefonken is a house and techno artist tracked on soundcheck, with 74 sets logged across Oslo. Often billed alongside Øyvind Morken, G-HA and Olanskii. Next up: Gehør, Oslo on Fri 31 Jul.
 
@@ -27,4 +27,4 @@ Olefonken is a house and techno artist tracked on soundcheck, with 74 sets logge
 
 Øyvind Morken, G-HA, Olanskii
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/olefonken/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/olefonken/)*

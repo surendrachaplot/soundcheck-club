@@ -1,6 +1,6 @@
 # Ava Eva
 
-Ava Eva is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at Schans van Landmolen, Antwerp on Sat, 1 Aug 2026.
+Ava Eva is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at Schans van Landmolen, Antwerp on Sat, 1 Aug 2026.
 
 Ava Eva is a house and techno artist based in Belgium, tracked on soundcheck, with 52 sets logged across Amsterdam, Antwerp, Brussels and Ghent. Often billed alongside John Noseda, Bibi Seck and Poppy (BE). Next up: Schans van Landmolen, Antwerp on Sat 1 Aug.
 
@@ -25,4 +25,4 @@ Ava Eva is a house and techno artist based in Belgium, tracked on soundcheck, wi
 
 John Noseda, Bibi Seck, Poppy (BE)
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/avaeva/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/avaeva/)*

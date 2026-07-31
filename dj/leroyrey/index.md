@@ -1,14 +1,15 @@
 # Leroy Rey
 
-Leroy Rey is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at Strijkviertel, Utrecht on Sat, 5 Sept 2026.
+Leroy Rey is a House and Disco artist with 2 upcoming club dates listed on soundcheck as of Fri, 31 Jul 2026, next at Strijkviertel, Utrecht on Sat, 5 Sept 2026.
 
-Leroy Rey is a house and disco artist tracked on soundcheck, with 79 sets logged across Amsterdam, Antwerp, Berlin and London and 6 more. Often billed alongside Tonno Disko, Eileen (NL) and Laura Meester. Next up: Strijkviertel, Utrecht on Sat 5 Sept.
+Leroy Rey is a house and disco artist tracked on soundcheck, with 80 sets logged across Amsterdam, Antwerp, Berlin and London and 6 more. Often billed alongside Tonno Disko, Eileen (NL) and Laura Meester. Next up: Strijkviertel, Utrecht on Sat 5 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 5 Sept 2026 | Strijkviertel | Utrecht |
+| Fri, 25 Sept 2026 | Night Tales Loft | London |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ Leroy Rey is a house and disco artist tracked on soundcheck, with 79 sets logged
 
 Tonno Disko, Eileen (NL), Laura Meester
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/leroyrey/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/leroyrey/)*

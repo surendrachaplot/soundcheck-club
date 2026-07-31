@@ -1,6 +1,6 @@
 # ROYA
 
-ROYA is a Club and Ghetto Tech artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at Waterfront Park in San Diego, San Diego on Sat, 26 Sept 2026.
+ROYA is a Club and Ghetto Tech artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at Waterfront Park in San Diego, San Diego on Sat, 26 Sept 2026.
 
 ROYA is a club and ghetto tech artist based in United States of America, tracked on soundcheck, with 4 sets logged across Brussels, Sandiego and Washingtondc. Often billed alongside 999999999, ARODES and Ben UFO. Next up: Waterfront Park in San Diego, Sandiego on Sat 26 Sept.
 
@@ -20,4 +20,4 @@ ROYA is a club and ghetto tech artist based in United States of America, tracked
 
 999999999, ARODES, Ben UFO
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/roya/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/roya/)*

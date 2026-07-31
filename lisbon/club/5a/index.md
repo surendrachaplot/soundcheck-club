@@ -1,6 +1,6 @@
 # 5A
 
-5A is a music venue in Lisbon with 10 upcoming nights listed on soundcheck as of Thu, 30 Jul 2026; the next is "Sasha Ko" on Fri, 31 Jul 2026.
+5A is a music venue in Lisbon with 10 upcoming nights listed on soundcheck as of Fri, 31 Jul 2026; the next is "Sasha Ko" on Fri, 31 Jul 2026.
 
 5A is a music venue in Lisbon listed on soundcheck. 10 upcoming nights, with line-ups including Brusca, Cruz (PT), DJ Ferro and Hypnotic Black Magic and 2 more. Browse upcoming dates, start times and who's playing. Rua Noronha, 5A 1250-168 Lisbon, Portugal.
 
@@ -23,4 +23,4 @@
 
 Rua Noronha, 5A 1250-168 Lisbon, Portugal, Lisbon
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/lisbon/club/5a/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/lisbon/club/5a/)*

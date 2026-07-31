@@ -1,6 +1,6 @@
 # Oppidan
 
-Oppidan is a Garage and House artist with 9 upcoming club dates listed on soundcheck as of Thu, 30 Jul 2026, next at Art Club, Houston on Fri, 31 Jul 2026.
+Oppidan is a Garage and House artist with 9 upcoming club dates listed on soundcheck as of Fri, 31 Jul 2026, next at Art Club, Houston on Fri, 31 Jul 2026.
 
 Oppidan is a garage and house artist tracked on soundcheck, with 141 sets logged across Amsterdam, Antwerp, Austin and Barcelona and 44 more. Often billed alongside Sammy Virji, MPH (1) and Notion. Next up: Art Club, Houston on Fri 31 Jul.
 
@@ -33,4 +33,4 @@ Oppidan is a garage and house artist tracked on soundcheck, with 141 sets logged
 
 Sammy Virji, MPH (1), Notion
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/oppidan/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/oppidan/)*

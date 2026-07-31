@@ -1,6 +1,6 @@
 # Barbora
 
-Barbora is a Techno and Electro artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at Bike Jesus, Prague on Fri, 31 Jul 2026.
+Barbora is a Techno and Electro artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at Bike Jesus, Prague on Fri, 31 Jul 2026.
 
 Barbora is a techno and electro artist based in Czech Republic, tracked on soundcheck, with 22 sets logged across Prague. Often billed alongside Obštrukcia, Demonika and Martyyna. Next up: Bike Jesus, Prague on Fri 31 Jul.
 
@@ -25,4 +25,4 @@ Barbora is a techno and electro artist based in Czech Republic, tracked on sound
 
 Obštrukcia, Demonika, Martyyna
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/barbora/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/barbora/)*

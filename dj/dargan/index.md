@@ -1,6 +1,6 @@
 # Dargan
 
-Dargan is a House and Drum & Bass artist with 4 upcoming club dates listed on soundcheck as of Thu, 30 Jul 2026, next at The Ballroom Bowl (John Street) - Rooftop, Toronto on Sun, 2 Aug 2026.
+Dargan is a House and Drum & Bass artist with 4 upcoming club dates listed on soundcheck as of Fri, 31 Jul 2026, next at The Ballroom Bowl (John Street) - Rooftop, Toronto on Sun, 2 Aug 2026.
 
 Dargan is a house and drum & bass artist based in Canada, tracked on soundcheck, with 4 sets logged across Montreal and Toronto. Often billed alongside KUN (3), Art Behaviour and CZYN. Next up: The Ballroom Bowl (John Street) - Rooftop, Toronto on Sun 2 Aug.
 
@@ -17,4 +17,4 @@ Dargan is a house and drum & bass artist based in Canada, tracked on soundcheck,
 
 KUN (3), Art Behaviour, CZYN
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/dargan/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/dargan/)*

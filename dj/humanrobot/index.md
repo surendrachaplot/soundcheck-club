@@ -1,6 +1,6 @@
 # Human Robot
 
-Human Robot is a Techno and Electronica artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at Cannons, Detroit on Fri, 7 Aug 2026.
+Human Robot is a Techno and Electronica artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at Cannons, Detroit on Fri, 7 Aug 2026.
 
 Human Robot is a techno and electronica artist based in Brazil, tracked on soundcheck, with 106 sets logged across Detroit. Often billed alongside Gary Martin, Body Mechanic and DJ Krazy. Next up: Cannons, Detroit on Fri 7 Aug.
 
@@ -25,4 +25,4 @@ Human Robot is a techno and electronica artist based in Brazil, tracked on sound
 
 Gary Martin, Body Mechanic, DJ Krazy
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/humanrobot/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/humanrobot/)*

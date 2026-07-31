@@ -1,6 +1,6 @@
 # Efdemin
 
-Efdemin is a Techno and House artist with 7 upcoming club dates listed on soundcheck as of Thu, 30 Jul 2026, next at BLITZ, Munich on Fri, 31 Jul 2026.
+Efdemin is a Techno and House artist with 7 upcoming club dates listed on soundcheck as of Fri, 31 Jul 2026, next at BLITZ, Munich on Fri, 31 Jul 2026.
 
 Efdemin is a techno and house artist tracked on soundcheck, with 114 sets logged across Amsterdam, Athens, Barcelona and Berlin and 28 more. Often billed alongside Polygonia, Steffi and Virginia. Next up: BLITZ, Munich on Fri 31 Jul.
 
@@ -31,4 +31,4 @@ Efdemin is a techno and house artist tracked on soundcheck, with 114 sets logged
 
 Polygonia, Steffi, Virginia
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/efdemin/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/efdemin/)*

@@ -1,6 +1,6 @@
 # Hoax (BE)
 
-Hoax (BE) is a House and Drum & Bass artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at Bazart, Montreal on Fri, 7 Aug 2026.
+Hoax (BE) is a House and Drum & Bass artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at Bazart, Montreal on Fri, 7 Aug 2026.
 
 Hoax (BE) is a house and drum & bass artist tracked on soundcheck, with 8 sets logged across Brighton, Ibiza, London and Montreal and 2 more. Often billed alongside Oscar Colorado, AMD and Admiral. Next up: Bazart, Montreal on Fri 7 Aug.
 
@@ -24,4 +24,4 @@ Hoax (BE) is a house and drum & bass artist tracked on soundcheck, with 8 sets l
 
 Oscar Colorado, AMD, Admiral
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/hoaxbe/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/hoaxbe/)*

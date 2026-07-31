@@ -1,6 +1,6 @@
 # 1NSONGE
 
-1NSONGE is a electronic artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at Wanderlust, Paris on Thu, 6 Aug 2026.
+1NSONGE is a electronic artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at Wanderlust, Paris on Thu, 6 Aug 2026.
 
 1NSONGE is an electronic artist based in France, tracked on soundcheck, with 5 sets logged across Paris. Often billed alongside Dj Schnake, XTRATAKI and stargurl. Next up: Wanderlust, Paris on Thu 6 Aug.
 
@@ -21,4 +21,4 @@
 
 Dj Schnake, XTRATAKI, stargurl
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/1nsonge/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/1nsonge/)*

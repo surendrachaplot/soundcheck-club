@@ -1,6 +1,6 @@
 # Ű999
 
-Ű999 is a Techno and Tech House artist with 2 upcoming club dates listed on soundcheck as of Thu, 30 Jul 2026, next at Budapest Park, Budapest on Sat, 1 Aug 2026.
+Ű999 is a Techno and Tech House artist with 2 upcoming club dates listed on soundcheck as of Fri, 31 Jul 2026, next at Budapest Park, Budapest on Sat, 1 Aug 2026.
 
 Ű999 is a techno and tech house artist tracked on soundcheck, with 8 sets logged across Berlin and Budapest. Often billed alongside Daddy D, Kamafaka and 3LEEZA. Next up: Budapest Park, Budapest on Sat 1 Aug.
 
@@ -24,4 +24,4 @@
 
 Daddy D, Kamafaka, 3LEEZA
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/u999/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/u999/)*

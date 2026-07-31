@@ -1,6 +1,6 @@
 # Gaswrx Birmingham
 
-Gaswrx Birmingham is a music venue in London with 1 upcoming night listed on soundcheck as of Thu, 30 Jul 2026; the next is "GASWRX Opening-Armand Van Helden / Danny Howard / Low Steppa / Prunk / Ozzie Guven / Ellia Jaya" on Sat, 12 Sept 2026.
+Gaswrx Birmingham is a music venue in London with 1 upcoming night listed on soundcheck as of Fri, 31 Jul 2026; the next is "GASWRX Opening-Armand Van Helden / Danny Howard / Low Steppa / Prunk / Ozzie Guven / Ellia Jaya" on Sat, 12 Sept 2026.
 
 Gaswrx Birmingham is a music venue in London listed on soundcheck. 1 upcoming night, with line-ups including Armand Van Helden, Danny Howard, Ellia Jaya and Low Steppa and 2 more. Browse upcoming dates, start times and who's playing. 50 Adderley Street, Digbeth, Birmingham, B9 4ED.
 
@@ -14,4 +14,4 @@ Gaswrx Birmingham is a music venue in London listed on soundcheck. 1 upcoming ni
 
 50 Adderley Street, Digbeth, Birmingham, B9 4ED, London
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/london/club/gaswrx-birmingham/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/london/club/gaswrx-birmingham/)*

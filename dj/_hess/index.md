@@ -1,6 +1,6 @@
 # _Hess
 
-_Hess is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at Invisible Wind Factory, Liverpool on Sat, 1 Aug 2026.
+_Hess is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at Invisible Wind Factory, Liverpool on Sat, 1 Aug 2026.
 
 _Hess is a house and techno artist tracked on soundcheck, with 4 sets logged across Liverpool. Often billed alongside Haygs, 4D (UK) and Aerofunk. Next up: Invisible Wind Factory, Liverpool on Sat 1 Aug.
 
@@ -20,4 +20,4 @@ _Hess is a house and techno artist tracked on soundcheck, with 4 sets logged acr
 
 Haygs, 4D (UK), Aerofunk
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/_hess/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/_hess/)*

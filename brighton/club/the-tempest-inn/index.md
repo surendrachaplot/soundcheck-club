@@ -1,6 +1,6 @@
 # The Tempest Inn
 
-The Tempest Inn is a music venue in Brighton with 3 upcoming nights listed on soundcheck as of Thu, 30 Jul 2026; the next is "Dykes On Decks Pre-Pride Party" on Fri, 31 Jul 2026.
+The Tempest Inn is a music venue in Brighton with 3 upcoming nights listed on soundcheck as of Fri, 31 Jul 2026; the next is "Dykes On Decks Pre-Pride Party" on Fri, 31 Jul 2026.
 
 The Tempest Inn is a music venue in Brighton listed on soundcheck. 3 upcoming nights, with line-ups including Bifa and The Juice and Oh See. Browse upcoming dates, start times and who's playing. 159-161 Kings Road Arches, Brighton BN1 1NB.
 
@@ -16,4 +16,4 @@ The Tempest Inn is a music venue in Brighton listed on soundcheck. 3 upcoming ni
 
 159-161 Kings Road Arches, Brighton BN1 1NB, Brighton
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/brighton/club/the-tempest-inn/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/brighton/club/the-tempest-inn/)*

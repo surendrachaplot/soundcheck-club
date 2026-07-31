@@ -1,6 +1,6 @@
 # Mike Anderson
 
-Mike Anderson is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at NUMBER 90 LONDON, London on Sat, 26 Sept 2026.
+Mike Anderson is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at NUMBER 90 LONDON, London on Sat, 26 Sept 2026.
 
 Mike Anderson is a house and techno artist based in Italy, tracked on soundcheck, with 3 sets logged across Amsterdam and London. Often billed alongside Joe Smooth, Adonis Wolf and Alex Pi. Next up: NUMBER 90 LONDON, London on Sat 26 Sept.
 
@@ -19,4 +19,4 @@ Mike Anderson is a house and techno artist based in Italy, tracked on soundcheck
 
 Joe Smooth, Adonis Wolf, Alex Pi
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/mikeanderson/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/mikeanderson/)*

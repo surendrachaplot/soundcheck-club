@@ -1,6 +1,6 @@
 # Naiva
 
-Naiva is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at Culture Box, Copenhagen on Fri, 14 Aug 2026.
+Naiva is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at Culture Box, Copenhagen on Fri, 14 Aug 2026.
 
 Naiva is a techno and house artist based in Denmark, tracked on soundcheck, with 20 sets logged across Copenhagen and Hamburg. Often billed alongside Sheik (AR), AELVA K and Bestrawa. Next up: Culture Box, Copenhagen on Fri 14 Aug.
 
@@ -25,4 +25,4 @@ Naiva is a techno and house artist based in Denmark, tracked on soundcheck, with
 
 Sheik (AR), AELVA K, Bestrawa
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/naiva/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/naiva/)*

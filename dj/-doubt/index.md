@@ -1,6 +1,6 @@
 # -Doubt
 
--Doubt is a Experimental and Club artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at Stereo, Glasgow on Sat, 1 Aug 2026.
+-Doubt is a Experimental and Club artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at Stereo, Glasgow on Sat, 1 Aug 2026.
 
 -Doubt is an experimental and club artist based in Ireland, tracked on soundcheck, with 21 sets logged across Cork, Dublin, Edinburgh and Galway and 2 more. Often billed alongside dijaka, polyp and AKUMU. Next up: Stereo, Glasgow on Sat 1 Aug.
 
@@ -25,4 +25,4 @@
 
 dijaka, polyp, AKUMU
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/-doubt/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/-doubt/)*

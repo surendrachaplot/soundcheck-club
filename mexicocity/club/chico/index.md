@@ -1,14 +1,13 @@
 # CHICO
 
-CHICO is a music venue in Mexico City with 4 upcoming nights listed on soundcheck as of Thu, 30 Jul 2026; the next is "Lapi presenta: Arca 'XXXXX' Listening Party" on Thu, 30 Jul 2026.
+CHICO is a music venue in Mexico City with 3 upcoming nights listed on soundcheck as of Fri, 31 Jul 2026; the next is "Selección Mejicana de Djismo" on Thu, 13 Aug 2026.
 
-CHICO is a music venue in Mexicocity listed on soundcheck. 4 upcoming nights, with line-ups including Arca, Ezya, KEBRA and Mensik and 1 more. Browse upcoming dates, start times and who's playing. Colima 367 Roma Nte., Cuauhtemoc, 06700 Ciudad de MÃ©xico, CDMX.
+CHICO is a music venue in Mexicocity listed on soundcheck. 3 upcoming nights. Browse upcoming dates, start times and who's playing. Colima 367 Roma Nte., Cuauhtemoc, 06700 Ciudad de MÃ©xico, CDMX.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Thu, 30 Jul 2026 | Lapi presenta: Arca 'XXXXX' Listening Party | Arca, Ezya, KEBRA, Mensik, NEGRACONDA |
 | Thu, 13 Aug 2026 | Selección Mejicana de Djismo |  |
 | Sat, 15 Aug 2026 | Deseo en CHICO CDMX ✮⋆˙ |  |
 | Fri, 21 Aug 2026 | Karate Audio Takeover |  |
@@ -17,4 +16,4 @@ CHICO is a music venue in Mexicocity listed on soundcheck. 4 upcoming nights, wi
 
 Colima 367 Roma Nte., Cuauhtemoc, 06700 Ciudad de MÃ©xico, CDMX, Mexico City
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/mexicocity/club/chico/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/mexicocity/club/chico/)*

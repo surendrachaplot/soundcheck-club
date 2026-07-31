@@ -1,6 +1,6 @@
 # Legit Trip
 
-Legit Trip is a House and Minimal artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at Bálna Budapest, Budapest on Fri, 31 Jul 2026.
+Legit Trip is a House and Minimal artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at Bálna Budapest, Budapest on Fri, 31 Jul 2026.
 
 Legit Trip is a house and minimal artist tracked on soundcheck, with 8 sets logged across Amsterdam, Budapest and Oslo. Often billed alongside Blatti, Kernel and Biagio Ess. Next up: Bálna Budapest, Budapest on Fri 31 Jul.
 
@@ -24,4 +24,4 @@ Legit Trip is a house and minimal artist tracked on soundcheck, with 8 sets logg
 
 Blatti, Kernel, Biagio Ess
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/legittrip/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/legittrip/)*

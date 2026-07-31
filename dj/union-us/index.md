@@ -1,6 +1,6 @@
 # Union (US)
 
-Union (US) is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at Honey's, New York City on Sat, 1 Aug 2026.
+Union (US) is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at Honey's, New York City on Sat, 1 Aug 2026.
 
 Union (US) is a house and techno artist based in United States of America, tracked on soundcheck, with 22 sets logged across Berlin and Newyorkcity. Often billed alongside Shameless Deejay, Shameless and Suasimodo. Next up: Honey's, Newyorkcity on Sat 1 Aug.
 
@@ -25,4 +25,4 @@ Union (US) is a house and techno artist based in United States of America, track
 
 Shameless Deejay, Shameless, Suasimodo
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/union-us/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/union-us/)*

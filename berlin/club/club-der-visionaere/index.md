@@ -1,6 +1,6 @@
 # Club der Visionaere
 
-Club der Visionaere is a music venue in Berlin with 17 upcoming nights listed on soundcheck as of Thu, 30 Jul 2026; the next is "Electric Marmalade Shake" on Thu, 30 Jul 2026.
+Club der Visionaere is a music venue in Berlin with 17 upcoming nights listed on soundcheck as of Fri, 31 Jul 2026; the next is "Wordless" on Fri, 31 Jul 2026.
 
 Club der Visionaere is a music venue in Berlin listed on soundcheck. 17 upcoming nights, with line-ups including Pakkadej, Alex Picone, Alien Communications and Ancut and 2 more. Browse upcoming dates, start times and who's playing. Am Flutgraben 1, 12435 Berlin, Germany.
 
@@ -8,7 +8,6 @@ Club der Visionaere is a music venue in Berlin listed on soundcheck. 17 upcoming
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Thu, 30 Jul 2026 | Electric Marmalade Shake | Andrea Fiorito, Daraio, Hreno, J Gabriel, Mike Shannon, Ohm Hourani |
 | Fri, 31 Jul 2026 | Wordless | Lobanov K., Masayuki Tomita, Serenne, Timur Basha, Yone-Ko, Yuzo Iwata |
 | Sat, 1 Aug 2026 | Dropout | Gebrüder Teichmann, Jackbox, Raymond Ernst, S-max |
 | Sun, 2 Aug 2026 | Disco Sour Machine | Chica Paula, Dimitrios (3), James Dean Brown, Pakkadej, Ponura, Tau Car, Yapacc, himeee |
@@ -16,6 +15,7 @@ Club der Visionaere is a music venue in Berlin listed on soundcheck. 17 upcoming
 | Tue, 4 Aug 2026 | Tentacles | Dirac, Modex |
 | Wed, 5 Aug 2026 | Novaturient | Alex Picone, Ancut, Andrew James Gustav, Ranerro |
 | Fri, 7 Aug 2026 | Sol Asylum X Groove On The Carpet | Jaggy, Josh Aaron, Julie Marghilano, Karolina J, SID MEHANI, Titonton Duvanté, Wave Particle Singularity, rubi* |
+| Sun, 9 Aug 2026 | Perfect Sundays:: | Cesar Merveille, Lorenzo Chiabotti, Luc Ringeisen, Que Sakamoto |
 | Tue, 11 Aug 2026 | Outer Place | Dean Denali, Ma.to, Naima (2), Robin Ordell, Stephanie Sykes |
 | Wed, 12 Aug 2026 | Zukunft | Claudio PRC, Costanza, GNMR, Lea Occhi |
 
@@ -23,4 +23,4 @@ Club der Visionaere is a music venue in Berlin listed on soundcheck. 17 upcoming
 
 Am Flutgraben 1, 12435 Berlin, Germany, Berlin
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/club-der-visionaere/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/club-der-visionaere/)*

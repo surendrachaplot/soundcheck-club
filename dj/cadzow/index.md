@@ -1,6 +1,6 @@
 # CADZOW
 
-CADZOW is a Techno and Industrial artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at World Headquarters, Newcastle on Fri, 31 Jul 2026.
+CADZOW is a Techno and Industrial artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at World Headquarters, Newcastle on Fri, 31 Jul 2026.
 
 CADZOW is a techno and industrial artist based in United Kingdom, tracked on soundcheck, with 56 sets logged across Aberdeen, Amsterdam, Belfast and Brisbane and 14 more. Often billed alongside Alex Farell, Jezza & Jod and Black Traffic. Next up: World Headquarters, Newcastle on Fri 31 Jul.
 
@@ -25,4 +25,4 @@ CADZOW is a techno and industrial artist based in United Kingdom, tracked on sou
 
 Alex Farell, Jezza & Jod, Black Traffic
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/cadzow/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/cadzow/)*

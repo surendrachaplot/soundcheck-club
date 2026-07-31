@@ -1,6 +1,6 @@
 # Jeshi
 
-Jeshi is a House and Pop artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at The Greyhound, London on Fri, 31 Jul 2026.
+Jeshi is a House and Pop artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at The Greyhound, London on Fri, 31 Jul 2026.
 
 Jeshi is a house and pop artist tracked on soundcheck, with 18 sets logged across Amsterdam, Bristol, Hamburg and Leeds and 5 more. Often billed alongside Jasper Tygner, Anish Kumar and Eliza Rose. Next up: The Greyhound, London on Fri 31 Jul.
 
@@ -25,4 +25,4 @@ Jeshi is a house and pop artist tracked on soundcheck, with 18 sets logged acros
 
 Jasper Tygner, Anish Kumar, Eliza Rose
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/jeshi/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/jeshi/)*

@@ -1,6 +1,6 @@
 # Samuel Moriero (2)
 
-Samuel Moriero (2) is a Techno and Industrial artist with 3 upcoming club dates listed on soundcheck as of Thu, 30 Jul 2026, next at The Classic Grand, Glasgow on Fri, 31 Jul 2026.
+Samuel Moriero (2) is a Techno and Industrial artist with 3 upcoming club dates listed on soundcheck as of Fri, 31 Jul 2026, next at The Classic Grand, Glasgow on Fri, 31 Jul 2026.
 
 Samuel Moriero (2) is a techno and industrial artist tracked on soundcheck, with 12 sets logged across Amsterdam, Antwerp, Berlin and Brussels and 6 more. Often billed alongside 999999999, BØĘRY and Daisy-it. Next up: The Classic Grand, Glasgow on Fri 31 Jul.
 
@@ -27,4 +27,4 @@ Samuel Moriero (2) is a techno and industrial artist tracked on soundcheck, with
 
 999999999, BØĘRY, Daisy-it
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/samuelmoriero-2/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/samuelmoriero-2/)*

@@ -1,6 +1,6 @@
 # Bad Boombox
 
-Bad Boombox is a Techno and Trance artist with 12 upcoming club dates listed on soundcheck as of Thu, 30 Jul 2026, next at TBA - Paradies Garten Festival - Schloß Prugg 2, 2460 Gemeinde Bruck an der Leitha, Vienna on Fri, 31 Jul 2026.
+Bad Boombox is a Techno and Trance artist with 12 upcoming club dates listed on soundcheck as of Fri, 31 Jul 2026, next at TBA - Paradies Garten Festival - Schloß Prugg 2, 2460 Gemeinde Bruck an der Leitha, Vienna on Fri, 31 Jul 2026.
 
 Bad Boombox is a techno and trance artist tracked on soundcheck, with 201 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 54 more. Often billed alongside Mischluft, Janis Zielinski and Ollie Lishman. Next up: TBA - Paradies Garten Festival - Schloß Prugg 2, 2460 Gemeinde Bruck an der Leitha, Vienna on Fri 31 Jul.
 
@@ -16,7 +16,7 @@ Bad Boombox is a techno and trance artist tracked on soundcheck, with 201 sets l
 | Fri, 4 Sept 2026 | Union Park | Chicago |
 | Sat, 5 Sept 2026 | Industry City | New York City |
 | Fri, 11 Sept 2026 | Echostage | Washington DC |
-| Sun, 13 Sept 2026 | The Midway | San Francisco/Oakland |
+| Sun, 13 Sept 2026 | 888 Garage | San Francisco/Oakland |
 | Sun, 11 Oct 2026 | Mondo Open Air | Madrid |
 | Sun, 11 Oct 2026 | Mondo | Madrid |
 | Thu, 22 Oct 2026 | Lofi | Amsterdam |
@@ -36,4 +36,4 @@ Bad Boombox is a techno and trance artist tracked on soundcheck, with 201 sets l
 
 Mischluft, Janis Zielinski, Ollie Lishman
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/badboombox/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/badboombox/)*

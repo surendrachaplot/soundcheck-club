@@ -1,6 +1,6 @@
 # EVSKA
 
-EVSKA is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at Bar A Bar, London on Fri, 31 Jul 2026.
+EVSKA is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at Bar A Bar, London on Fri, 31 Jul 2026.
 
 EVSKA is a techno and house artist based in Poland, tracked on soundcheck, with 30 sets logged across Edinburgh, London and Warsaw. Often billed alongside ROXAN (UK), SADOVSKI and Katelate. Next up: Bar A Bar, London on Fri 31 Jul.
 
@@ -25,4 +25,4 @@ EVSKA is a techno and house artist based in Poland, tracked on soundcheck, with 
 
 ROXAN (UK), SADOVSKI, Katelate
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/evska/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/evska/)*

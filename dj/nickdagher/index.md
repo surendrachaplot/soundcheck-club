@@ -1,6 +1,6 @@
 # Nick Dagher
 
-Nick Dagher is a Techno and Bass artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at Hizz Lounge, Detroit on Sat, 1 Aug 2026.
+Nick Dagher is a Techno and Bass artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at Hizz Lounge, Detroit on Sat, 1 Aug 2026.
 
 Nick Dagher is a techno and bass artist based in United States of America, tracked on soundcheck, with 36 sets logged across Chicago, Detroit, Losangeles and Tbilisi. Often billed alongside Young Muscle, Charles Trees and Ashton Swinton. Next up: Hizz Lounge, Detroit on Sat 1 Aug.
 
@@ -25,4 +25,4 @@ Nick Dagher is a techno and bass artist based in United States of America, track
 
 Young Muscle, Charles Trees, Ashton Swinton
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/nickdagher/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/nickdagher/)*

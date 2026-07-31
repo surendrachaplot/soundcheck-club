@@ -1,6 +1,6 @@
 # Swaya
 
-Swaya is a Club and Ambient artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at Silence Please, New York City on Sat, 8 Aug 2026.
+Swaya is a Club and Ambient artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at Silence Please, New York City on Sat, 8 Aug 2026.
 
 Swaya is a club and ambient artist based in United States of America, tracked on soundcheck, with 38 sets logged across Montreal and Newyorkcity. Often billed alongside cry$cross, Lil Zé and Battygyal. Next up: Silence Please, Newyorkcity on Sat 8 Aug.
 
@@ -25,4 +25,4 @@ Swaya is a club and ambient artist based in United States of America, tracked on
 
 cry$cross, Lil Zé, Battygyal
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/swaya/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/swaya/)*

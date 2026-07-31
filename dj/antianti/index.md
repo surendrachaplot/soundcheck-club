@@ -1,6 +1,6 @@
 # ANTI ANTI
 
-ANTI ANTI is a Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at Romantica, Stuttgart on Sat, 1 Aug 2026.
+ANTI ANTI is a Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at Romantica, Stuttgart on Sat, 1 Aug 2026.
 
 ANTI ANTI is a techno artist based in Germany, tracked on soundcheck, with 4 sets logged across Munich, Stuttgart and Zurich. Often billed alongside ATNIL, Boris and DJ Hysteria. Next up: Romantica, Stuttgart on Sat 1 Aug.
 
@@ -20,4 +20,4 @@ ANTI ANTI is a techno artist based in Germany, tracked on soundcheck, with 4 set
 
 ATNIL, Boris, DJ Hysteria
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/antianti/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/antianti/)*

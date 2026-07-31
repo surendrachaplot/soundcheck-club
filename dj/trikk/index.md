@@ -1,14 +1,13 @@
 # Trikk
 
-Trikk is a House and Techno artist with 6 upcoming club dates listed on soundcheck as of Thu, 30 Jul 2026, next at Scorpios, Mykonos on Thu, 30 Jul 2026.
+Trikk is a House and Techno artist with 5 upcoming club dates listed on soundcheck as of Fri, 31 Jul 2026, next at Boston Manor Park, London on Sat, 1 Aug 2026.
 
-Trikk is a house and techno artist tracked on soundcheck, with 152 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 43 more. Often billed alongside Âme, Jimi Jules and Dixon. Next up: Scorpios, Mykonos on Thu 30 Jul.
+Trikk is a house and techno artist tracked on soundcheck, with 152 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 43 more. Often billed alongside Âme, Jimi Jules and Dixon. Next up: Boston Manor Park, London on Sat 1 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Thu, 30 Jul 2026 | Scorpios | Mykonos |
 | Sat, 1 Aug 2026 | Boston Manor Park | London |
 | Fri, 7 Aug 2026 | Parc del Fòrum | Barcelona |
 | Fri, 4 Sept 2026 | Hï Ibiza | Ibiza |
@@ -17,6 +16,7 @@ Trikk is a house and techno artist tracked on soundcheck, with 152 sets logged a
 
 ## Recently played
 
+- Scorpios, Mykonos — Thu, 30 Jul 2026
 - Knockdown Center, New York City — Sat, 18 Jul 2026
 - Union Park, Chicago — Fri, 17 Jul 2026
 - Airport Düsseldorf, Düsseldorf — Sun, 5 Jul 2026
@@ -24,10 +24,9 @@ Trikk is a house and techno artist tracked on soundcheck, with 152 sets logged a
 - Klein Phönix, Istanbul — Sat, 27 Jun 2026
 - Chinois Ibiza, Ibiza — Sun, 21 Jun 2026
 - Studio Club Malaga, Malaga — Sat, 30 May 2026
-- Lux Fragil, Lisbon — Sat, 23 May 2026
 
 ## Shares bills with
 
 Âme, Jimi Jules, Dixon
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/trikk/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/trikk/)*

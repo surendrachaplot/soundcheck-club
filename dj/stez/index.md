@@ -1,6 +1,6 @@
 # STEZ
 
-STEZ is a Tech House and Drum & Bass artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at Egg London, London on Sat, 1 Aug 2026.
+STEZ is a Tech House and Drum & Bass artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at Egg London, London on Sat, 1 Aug 2026.
 
 STEZ is a tech house and drum & bass artist based in United Kingdom, tracked on soundcheck, with 15 sets logged across Bristol and London. Often billed alongside Dorpy, ACID HARRY and Demetria. Next up: Egg London, London on Sat 1 Aug.
 
@@ -25,4 +25,4 @@ STEZ is a tech house and drum & bass artist based in United Kingdom, tracked on 
 
 Dorpy, ACID HARRY, Demetria
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/stez/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/stez/)*

@@ -1,6 +1,6 @@
 # Punktmidi
 
-Punktmidi is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at Lokschuppen Berlin, Berlin on Wed, 5 Aug 2026.
+Punktmidi is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at Lokschuppen Berlin, Berlin on Wed, 5 Aug 2026.
 
 Punktmidi is a techno and trance artist tracked on soundcheck, with 74 sets logged across Berlin, Budapest, Cologne and Frankfurt and 8 more. Often billed alongside Bollmann, Omon Breaker and Kamafaka. Next up: Lokschuppen Berlin, Berlin on Wed 5 Aug.
 
@@ -25,4 +25,4 @@ Punktmidi is a techno and trance artist tracked on soundcheck, with 74 sets logg
 
 Bollmann, Omon Breaker, Kamafaka
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/punktmidi/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/punktmidi/)*

@@ -1,6 +1,6 @@
 # Guile
 
-Guile is a House and Electro artist with 4 upcoming club dates listed on soundcheck as of Thu, 30 Jul 2026, next at Karmakoma, Belgrade on Fri, 31 Jul 2026.
+Guile is a House and Electro artist with 4 upcoming club dates listed on soundcheck as of Fri, 31 Jul 2026, next at Karmakoma, Belgrade on Fri, 31 Jul 2026.
 
 Guile is a house and electro artist tracked on soundcheck, with 29 sets logged across Amsterdam, Barcelona, Belgrade and Berlin and 3 more. Often billed alongside Manu Oubiña, LUKAS (4) and Edu C. Next up: Karmakoma, Belgrade on Fri 31 Jul.
 
@@ -28,4 +28,4 @@ Guile is a house and electro artist tracked on soundcheck, with 29 sets logged a
 
 Manu Oubiña, LUKAS (4), Edu C
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/guile/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/guile/)*

@@ -1,6 +1,6 @@
 # Kim Ann Foxman
 
-Kim Ann Foxman is a House and Techno artist with 5 upcoming club dates listed on soundcheck as of Thu, 30 Jul 2026, next at La Terrrazza, Barcelona on Fri, 31 Jul 2026.
+Kim Ann Foxman is a House and Techno artist with 5 upcoming club dates listed on soundcheck as of Fri, 31 Jul 2026, next at La Terrrazza, Barcelona on Fri, 31 Jul 2026.
 
 Kim Ann Foxman is a house and techno artist tracked on soundcheck, with 131 sets logged across Amsterdam, Auckland, Bali and Bangkok and 32 more. Often billed alongside Cora (CN), DJ TOOL and Jen Cardini. Next up: La Terrrazza, Barcelona on Fri 31 Jul.
 
@@ -29,4 +29,4 @@ Kim Ann Foxman is a house and techno artist tracked on soundcheck, with 131 sets
 
 Cora (CN), DJ TOOL, Jen Cardini
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/kimannfoxman/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/kimannfoxman/)*

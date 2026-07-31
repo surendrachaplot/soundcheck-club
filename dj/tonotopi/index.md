@@ -1,6 +1,6 @@
 # TONOTOPI
 
-TONOTOPI is a Electro and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at Spice 99, Stockholm on Fri, 31 Jul 2026.
+TONOTOPI is a Electro and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at Spice 99, Stockholm on Fri, 31 Jul 2026.
 
 TONOTOPI is an electro and techno artist based in Sweden, tracked on soundcheck, with 16 sets logged across Stockholm. Often billed alongside Jo Bubbles, Mattias El Mansouri and Afonso (PT). Next up: Spice 99, Stockholm on Fri 31 Jul.
 
@@ -25,4 +25,4 @@ TONOTOPI is an electro and techno artist based in Sweden, tracked on soundcheck,
 
 Jo Bubbles, Mattias El Mansouri, Afonso (PT)
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/tonotopi/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/tonotopi/)*

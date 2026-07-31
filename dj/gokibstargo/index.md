@@ -1,6 +1,6 @@
 # GOkibstarGO
 
-GOkibstarGO is a Hardcore and Club artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at TRANSMISSION DC, Washington DC on Thu, 6 Aug 2026.
+GOkibstarGO is a Hardcore and Club artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at TRANSMISSION DC, Washington DC on Thu, 6 Aug 2026.
 
 GOkibstarGO is a hardcore and club artist based in United States of America, tracked on soundcheck, with 15 sets logged across Nashville and Washingtondc. Often billed alongside Gabberbitch69, Ether Pleaser and Hissyfit. Next up: TRANSMISSION DC, Washingtondc on Thu 6 Aug.
 
@@ -25,4 +25,4 @@ GOkibstarGO is a hardcore and club artist based in United States of America, tra
 
 Gabberbitch69, Ether Pleaser, Hissyfit
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/gokibstargo/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/gokibstargo/)*

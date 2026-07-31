@@ -1,14 +1,15 @@
 # Grant Nelson
 
-Grant Nelson is a House and Garage artist with 3 upcoming club dates listed on soundcheck as of Thu, 30 Jul 2026, next at Cova Santa, Ibiza on Tue, 18 Aug 2026.
+Grant Nelson is a House and Garage artist with 4 upcoming club dates listed on soundcheck as of Fri, 31 Jul 2026, next at Cova Santa, Ibiza on Tue, 18 Aug 2026.
 
-Grant Nelson is a house and garage artist tracked on soundcheck, with 32 sets logged across Amsterdam, Barcelona, Brighton and Dublin and 10 more. Often billed alongside Matt Jam Lamont, Steve Taylor and Trimtone. Next up: Cova Santa, Ibiza on Tue 18 Aug.
+Grant Nelson is a house and garage artist tracked on soundcheck, with 33 sets logged across Amsterdam, Barcelona, Brighton and Dublin and 10 more. Often billed alongside Matt Jam Lamont, Steve Taylor and Trimtone. Next up: Cova Santa, Ibiza on Tue 18 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Tue, 18 Aug 2026 | Cova Santa | Ibiza |
+| Sat, 29 Aug 2026 | Kelvedon Hall | London |
 | Sat, 5 Sept 2026 | TBA - THE STRAY, HARROGATE | Leeds |
 | Sat, 26 Sept 2026 | Studio 338 | London |
 
@@ -27,4 +28,4 @@ Grant Nelson is a house and garage artist tracked on soundcheck, with 32 sets lo
 
 Matt Jam Lamont, Steve Taylor, Trimtone
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/grantnelson/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/grantnelson/)*

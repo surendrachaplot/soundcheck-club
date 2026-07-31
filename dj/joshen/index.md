@@ -1,6 +1,6 @@
 # Joshen
 
-Joshen is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at Tuff Club, Singapore on Fri, 31 Jul 2026.
+Joshen is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at Tuff Club, Singapore on Fri, 31 Jul 2026.
 
 Joshen is a techno and trance artist based in Singapore, tracked on soundcheck, with 9 sets logged across Hongkong and Singapore. Often billed alongside Cosmo Carbon, Pengsoo and Alex Cancino. Next up: Tuff Club, Singapore on Fri 31 Jul.
 
@@ -25,4 +25,4 @@ Joshen is a techno and trance artist based in Singapore, tracked on soundcheck, 
 
 Cosmo Carbon, Pengsoo, Alex Cancino
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/joshen/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/joshen/)*

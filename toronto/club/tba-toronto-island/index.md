@@ -1,6 +1,6 @@
 # TBA - Toronto Island
 
-TBA - Toronto Island is a music venue in Toronto with 1 upcoming night listed on soundcheck as of Thu, 30 Jul 2026; the next is "Island Magique - Free Open Air" on Sat, 1 Aug 2026.
+TBA - Toronto Island is a music venue in Toronto with 1 upcoming night listed on soundcheck as of Fri, 31 Jul 2026; the next is "Island Magique - Free Open Air" on Sat, 1 Aug 2026.
 
 TBA - Toronto Island is a music venue in Toronto listed on soundcheck. 1 upcoming night, with line-ups including maiiii. Browse upcoming dates, start times and who's playing.
 
@@ -10,4 +10,4 @@ TBA - Toronto Island is a music venue in Toronto listed on soundcheck. 1 upcomin
 | --- | --- | --- |
 | Sat, 1 Aug 2026 | Island Magique - Free Open Air | maiiii |
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/toronto/club/tba-toronto-island/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/toronto/club/tba-toronto-island/)*

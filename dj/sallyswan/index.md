@@ -1,6 +1,6 @@
 # Sally Swan
 
-Sally Swan is a House and Garage artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at Ratpack Piano Bar, Edinburgh on Sat, 29 Aug 2026.
+Sally Swan is a House and Garage artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at Ratpack Piano Bar, Edinburgh on Sat, 29 Aug 2026.
 
 Sally Swan is a house and garage artist based in United Kingdom, tracked on soundcheck, with 11 sets logged across Edinburgh and Glasgow. Often billed alongside Sweeney, CIem and Hayley Zalassi. Next up: Ratpack Piano Bar, Edinburgh on Sat 29 Aug.
 
@@ -25,4 +25,4 @@ Sally Swan is a house and garage artist based in United Kingdom, tracked on soun
 
 Sweeney, CIem, Hayley Zalassi
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/sallyswan/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/sallyswan/)*

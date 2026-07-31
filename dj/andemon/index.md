@@ -1,6 +1,6 @@
 # Andemon
 
-Andemon is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at Kvarteret, Stockholm on Sat, 1 Aug 2026.
+Andemon is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at Kvarteret, Stockholm on Sat, 1 Aug 2026.
 
 Andemon is a house and techno artist based in Sweden, tracked on soundcheck, with 17 sets logged across Berlin and Stockholm. Often billed alongside Harami, BOYCA and Bella Sarris. Next up: Kvarteret, Stockholm on Sat 1 Aug.
 
@@ -25,4 +25,4 @@ Andemon is a house and techno artist based in Sweden, tracked on soundcheck, wit
 
 Harami, BOYCA, Bella Sarris
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/andemon/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/andemon/)*

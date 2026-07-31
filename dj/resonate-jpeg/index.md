@@ -1,6 +1,6 @@
 # RESONATE.JPEG
 
-RESONATE.JPEG is a Techno and Experimental artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at Red Gate Arts Society, Vancouver on Sat, 1 Aug 2026.
+RESONATE.JPEG is a Techno and Experimental artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at Red Gate Arts Society, Vancouver on Sat, 1 Aug 2026.
 
 RESONATE.JPEG is a techno and experimental artist based in United States of America, tracked on soundcheck, with 6 sets logged across Philadelphia and Vancouver. Often billed alongside Obreezy Beats, Speed.FM and E.LEE. Next up: Red Gate Arts Society, Vancouver on Sat 1 Aug.
 
@@ -22,4 +22,4 @@ RESONATE.JPEG is a techno and experimental artist based in United States of Amer
 
 Obreezy Beats, Speed.FM, E.LEE
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/resonate-jpeg/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/resonate-jpeg/)*

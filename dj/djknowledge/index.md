@@ -1,6 +1,6 @@
 # DJ Knowledge
 
-DJ Knowledge is a Deep House and Amapiano artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at Secret Location, London on Sat, 1 Aug 2026.
+DJ Knowledge is a Deep House and Amapiano artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at Secret Location, London on Sat, 1 Aug 2026.
 
 DJ Knowledge is a deep house and amapiano artist based in United States of America, tracked on soundcheck, with 5 sets logged across London and Saopaulo. Often billed alongside DJ IC, Shenin Amara and Supa D. Next up: Secret Location, London on Sat 1 Aug.
 
@@ -21,4 +21,4 @@ DJ Knowledge is a deep house and amapiano artist based in United States of Ameri
 
 DJ IC, Shenin Amara, Supa D
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/djknowledge/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/djknowledge/)*

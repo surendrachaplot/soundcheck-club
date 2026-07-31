@@ -1,6 +1,6 @@
 # WARRECORDS
 
-WARRECORDS is a music venue in Antwerp with 1 upcoming night listed on soundcheck as of Thu, 30 Jul 2026; the next is "Warrecords Windows Sessions - BDAY GORGO & WARRE" on Sat, 8 Aug 2026.
+WARRECORDS is a music venue in Antwerp with 1 upcoming night listed on soundcheck as of Fri, 31 Jul 2026; the next is "Warrecords Windows Sessions - BDAY GORGO & WARRE" on Sat, 8 Aug 2026.
 
 WARRECORDS is a music venue in Antwerp listed on soundcheck. 1 upcoming night, with line-ups including WARRE. Browse upcoming dates, start times and who's playing. Sint-Katelijnevest 42, 2000 Antwerp, Belgium.
 
@@ -14,4 +14,4 @@ WARRECORDS is a music venue in Antwerp listed on soundcheck. 1 upcoming night, w
 
 Sint-Katelijnevest 42, 2000 Antwerp, Belgium, Antwerp
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/antwerp/club/warrecords/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/antwerp/club/warrecords/)*

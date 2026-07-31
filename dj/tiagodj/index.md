@@ -1,6 +1,6 @@
 # Tiago DJ
 
-Tiago DJ is a electronic artist with 3 upcoming club dates listed on soundcheck as of Thu, 30 Jul 2026, next at Good Room, New York City on Fri, 7 Aug 2026.
+Tiago DJ is a electronic artist with 3 upcoming club dates listed on soundcheck as of Fri, 31 Jul 2026, next at Good Room, New York City on Fri, 7 Aug 2026.
 
 Tiago DJ is an electronic artist based in Portugal, tracked on soundcheck, with 26 sets logged across Lisbon and Newyorkcity. Often billed alongside HNRQ (2), Inês Duarte and Rui Vargas. Next up: Good Room, Newyorkcity on Fri 7 Aug.
 
@@ -27,4 +27,4 @@ Tiago DJ is an electronic artist based in Portugal, tracked on soundcheck, with 
 
 HNRQ (2), Inês Duarte, Rui Vargas
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/tiagodj/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/tiagodj/)*

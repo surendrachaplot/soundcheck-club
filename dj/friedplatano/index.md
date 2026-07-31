@@ -1,6 +1,6 @@
 # friedplatano
 
-friedplatano is a Reggaeton and Club artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at Paragon, New York City on Sun, 9 Aug 2026.
+friedplatano is a Reggaeton and Club artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at Paragon, New York City on Sun, 9 Aug 2026.
 
 friedplatano is a reggaeton and club artist based in United States of America, tracked on soundcheck, with 33 sets logged across Losangeles and Newyorkcity. Often billed alongside JOSELO, Total XTC and ALEXIS DE LA ROSA. Next up: Paragon, Newyorkcity on Sun 9 Aug.
 
@@ -25,4 +25,4 @@ friedplatano is a reggaeton and club artist based in United States of America, t
 
 JOSELO, Total XTC, ALEXIS DE LA ROSA
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/friedplatano/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/friedplatano/)*

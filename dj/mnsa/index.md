@@ -1,6 +1,6 @@
 # MNSA
 
-MNSA is a Electro and Pop artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at Village au Pied-du-Courant, Montreal on Fri, 21 Aug 2026.
+MNSA is a Electro and Pop artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at Village au Pied-du-Courant, Montreal on Fri, 21 Aug 2026.
 
 MNSA is an electro and pop artist based in Canada, tracked on soundcheck, with 52 sets logged across Chicago, Detroit, London and Montreal and 3 more. Often billed alongside Nadim Maghzal, Saphe and Arianna Danae. Next up: Village au Pied-du-Courant, Montreal on Fri 21 Aug.
 
@@ -25,4 +25,4 @@ MNSA is an electro and pop artist based in Canada, tracked on soundcheck, with 5
 
 Nadim Maghzal, Saphe, Arianna Danae
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/mnsa/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/mnsa/)*

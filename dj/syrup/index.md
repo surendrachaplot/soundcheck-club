@@ -1,6 +1,6 @@
 # Syrup
 
-Syrup is a House and Garage artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at Revolver Upstairs, Melbourne on Fri, 7 Aug 2026.
+Syrup is a House and Garage artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at Revolver Upstairs, Melbourne on Fri, 7 Aug 2026.
 
 Syrup is a house and garage artist based in Australia, tracked on soundcheck, with 3 sets logged across Melbourne. Often billed alongside Acid Safari, BETHANY (1) and Bby Cass. Next up: Revolver Upstairs, Melbourne on Fri 7 Aug.
 
@@ -19,4 +19,4 @@ Syrup is a house and garage artist based in Australia, tracked on soundcheck, wi
 
 Acid Safari, BETHANY (1), Bby Cass
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/syrup/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/syrup/)*

@@ -1,6 +1,6 @@
 # Nablijven Soundsystem
 
-Nablijven Soundsystem is a Funk / Soul and Disco artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at Madam, Amsterdam on Sat, 19 Sept 2026.
+Nablijven Soundsystem is a Funk / Soul and Disco artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at Madam, Amsterdam on Sat, 19 Sept 2026.
 
 Nablijven Soundsystem is a funk / soul and disco artist based in Netherlands, tracked on soundcheck, with 7 sets logged across Amsterdam. Often billed alongside Crystal Touch, Jacob Manu and Professor Bass. Next up: Madam, Amsterdam on Sat 19 Sept.
 
@@ -23,4 +23,4 @@ Nablijven Soundsystem is a funk / soul and disco artist based in Netherlands, tr
 
 Crystal Touch, Jacob Manu, Professor Bass
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/nablijvensoundsystem/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/nablijvensoundsystem/)*

@@ -1,6 +1,6 @@
 # doppeltes lottchen
 
-doppeltes lottchen is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at TBA - Anleger 13, Köln, Cologne on Sun, 23 Aug 2026.
+doppeltes lottchen is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at TBA - Anleger 13, Köln, Cologne on Sun, 23 Aug 2026.
 
 doppeltes lottchen is a techno and trance artist tracked on soundcheck, with 9 sets logged across Berlin, Cologne, Dusseldorf and Frankfurt and 1 more. Often billed alongside Atzendent, CRITICAL ERROR 404 and A2XBY. Next up: TBA - Anleger 13, Köln, Cologne on Sun 23 Aug.
 
@@ -25,4 +25,4 @@ doppeltes lottchen is a techno and trance artist tracked on soundcheck, with 9 s
 
 Atzendent, CRITICAL ERROR 404, A2XBY
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/doppelteslottchen/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/doppelteslottchen/)*

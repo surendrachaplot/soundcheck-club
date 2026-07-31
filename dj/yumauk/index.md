@@ -1,6 +1,6 @@
 # Yuma (UK)
 
-Yuma (UK) is a Electro and House artist with 2 upcoming club dates listed on soundcheck as of Thu, 30 Jul 2026, next at Starlane Pizza Bar, London on Fri, 31 Jul 2026.
+Yuma (UK) is a Electro and House artist with 2 upcoming club dates listed on soundcheck as of Fri, 31 Jul 2026, next at Starlane Pizza Bar, London on Fri, 31 Jul 2026.
 
 Yuma (UK) is an electro and house artist based in United Kingdom, tracked on soundcheck, with 19 sets logged across Brighton, London and Malaga. Often billed alongside Oren (IT), Peter Grand and Oren.. Next up: Starlane Pizza Bar, London on Fri 31 Jul.
 
@@ -26,4 +26,4 @@ Yuma (UK) is an electro and house artist based in United Kingdom, tracked on sou
 
 Oren (IT), Peter Grand, Oren.
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/yumauk/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/yumauk/)*

@@ -1,6 +1,6 @@
 # Koki
 
-Koki is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at R Lounge, Tokyo on Fri, 4 Sept 2026.
+Koki is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at R Lounge, Tokyo on Fri, 4 Sept 2026.
 
 Koki is a house and techno artist based in Japan, tracked on soundcheck, with 47 sets logged across Montreal, Osaka, Seoul and Tokyo and 1 more. Often billed alongside FLEDtokyo, Revoxx and SIGNAL (JP). Next up: R Lounge, Tokyo on Fri 4 Sept.
 
@@ -25,4 +25,4 @@ Koki is a house and techno artist based in Japan, tracked on soundcheck, with 47
 
 FLEDtokyo, Revoxx, SIGNAL (JP)
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/koki/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/koki/)*

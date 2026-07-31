@@ -1,6 +1,6 @@
 # Noncitizens
 
-Noncitizens is a House and Progressive House artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at Motorworld, Palma de Mallorca, Mallorca on Sun, 2 Aug 2026.
+Noncitizens is a House and Progressive House artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at Motorworld, Palma de Mallorca, Mallorca on Sun, 2 Aug 2026.
 
 Noncitizens is a house and progressive house artist tracked on soundcheck, with 33 sets logged across Barcelona, Buenosaires, Ibiza and Madrid and 3 more. Often billed alongside Guy Gerber, Facundo Mohrr and Colyn. Next up: Motorworld, Palma de Mallorca, Mallorca on Sun 2 Aug.
 
@@ -25,4 +25,4 @@ Noncitizens is a house and progressive house artist tracked on soundcheck, with 
 
 Guy Gerber, Facundo Mohrr, Colyn
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/noncitizens/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/noncitizens/)*

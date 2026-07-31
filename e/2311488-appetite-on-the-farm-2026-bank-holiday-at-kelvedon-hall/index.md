@@ -1,6 +1,6 @@
 # Appetite On The Farm 2026 - Bank Holiday at Kelvedon Hall
 
-Appetite On The Farm 2026 - Bank Holiday at Kelvedon Hall on Sat 29 Aug, London. 61 acts on the bill: ADMNTi, Alexandria, ALISHA and Crazy P and 57 more. House and Disco. Preview the line-up and save it on soundcheck.
+Appetite On The Farm 2026 - Bank Holiday at Kelvedon Hall on Sat 29 Aug, London. 72 acts on the bill: ADMNTi, Alexandria, ALISHA and Andy Manston and 68 more. House and Disco. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -13,9 +13,13 @@ Appetite On The Farm 2026 - Bank Holiday at Kelvedon Hall on Sat 29 Aug, London.
 - ADMNTi
 - Alexandria
 - ALISHA
+- Andy Manston
+- Cody Currie
 - Crazy P
 - D Stone
+- Dafs
 - Dale Mussington
+- Danny Clockwork
 - Dr Banana
 - Dyed Soundorom
 - Eliza Rose
@@ -23,6 +27,7 @@ Appetite On The Farm 2026 - Bank Holiday at Kelvedon Hall on Sat 29 Aug, London.
 - Elliot Schooling
 - FLETCH
 - Frenchhh
+- Grant Nelson
 - HALFPINT
 - Harry McCanna
 - Isaac Carter
@@ -49,12 +54,15 @@ Appetite On The Farm 2026 - Bank Holiday at Kelvedon Hall on Sat 29 Aug, London.
 - Max Sinàl
 - MiNNA
 - MJ Cole
+- Nafe Smallz
 - NorthSouth
 - Obskur
 - Omar+
 - p-rallel
 - Phill de Janeiro
+- Price
 - Rio Tashan
+- RTK Tarantino
 - Sam Bangura
 - Saoirse
 - Scarlett O'Malley
@@ -63,6 +71,7 @@ Appetite On The Farm 2026 - Bank Holiday at Kelvedon Hall on Sat 29 Aug, London.
 - Sidney Charles
 - Silva Bumpa
 - Skream
+- Soul Avengerz
 - Storm Mollison
 - The Trip
 - Todd Edwards
@@ -70,6 +79,8 @@ Appetite On The Farm 2026 - Bank Holiday at Kelvedon Hall on Sat 29 Aug, London.
 - Tommy Gold
 - Tommy Phillips
 - Traumer
+- Us Two
+- Wax Material
 - Wilfy D
 
 *Source: [soundcheck](https://soundcheck.club/e/2311488-appetite-on-the-farm-2026-bank-holiday-at-kelvedon-hall/)*

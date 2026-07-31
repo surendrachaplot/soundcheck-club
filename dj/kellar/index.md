@@ -1,6 +1,6 @@
 # KELLAR
 
-KELLAR is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at Laagravense Plas, Utrecht on Sat, 12 Sept 2026.
+KELLAR is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at Laagravense Plas, Utrecht on Sat, 12 Sept 2026.
 
 KELLAR is a techno and house artist based in Netherlands, tracked on soundcheck, with 16 sets logged across Amsterdam, Copenhagen, Madrid and Paris and 3 more. Often billed alongside Eva Vrijdag, Freddi and Lisa Korver. Next up: Laagravense Plas, Utrecht on Sat 12 Sept.
 
@@ -25,4 +25,4 @@ KELLAR is a techno and house artist based in Netherlands, tracked on soundcheck,
 
 Eva Vrijdag, Freddi, Lisa Korver
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/kellar/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/kellar/)*

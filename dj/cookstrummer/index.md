@@ -1,6 +1,6 @@
 # Cook Strummer
 
-Cook Strummer is a House and Minimal artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at CLUB OST & RENATE BERLIN, Berlin on Fri, 21 Aug 2026.
+Cook Strummer is a House and Minimal artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at CLUB OST & RENATE BERLIN, Berlin on Fri, 21 Aug 2026.
 
 Cook Strummer is a house and minimal artist based in Germany, tracked on soundcheck, with 17 sets logged across Berlin, Istanbul, Riga and Vienna. Often billed alongside Peter Schumann, Scoopsi and Stan Starry. Next up: CLUB OST & RENATE BERLIN, Berlin on Fri 21 Aug.
 
@@ -25,4 +25,4 @@ Cook Strummer is a house and minimal artist based in Germany, tracked on soundch
 
 Peter Schumann, Scoopsi, Stan Starry
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/cookstrummer/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/cookstrummer/)*

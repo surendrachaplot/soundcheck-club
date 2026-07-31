@@ -1,6 +1,6 @@
 # Veebo
 
-Veebo is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at Shelter Antwerp, Antwerp on Sat, 1 Aug 2026.
+Veebo is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at Shelter Antwerp, Antwerp on Sat, 1 Aug 2026.
 
 Veebo is a house and techno artist based in Belgium, tracked on soundcheck, with 11 sets logged across Antwerp, Brussels and Ghent. Often billed alongside Detash, Tomhas and Boatman. Next up: Shelter Antwerp, Antwerp on Sat 1 Aug.
 
@@ -25,4 +25,4 @@ Veebo is a house and techno artist based in Belgium, tracked on soundcheck, with
 
 Detash, Tomhas, Boatman
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/veebo/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/veebo/)*

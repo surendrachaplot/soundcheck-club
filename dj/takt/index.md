@@ -1,6 +1,6 @@
 # Takt
 
-Takt is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at Jaeger, Oslo on Fri, 14 Aug 2026.
+Takt is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at Jaeger, Oslo on Fri, 14 Aug 2026.
 
 Takt is a house and techno artist based in Norway, tracked on soundcheck, with 20 sets logged across Amsterdam, Berlin, Copenhagen and Kyoto and 3 more. Often billed alongside G-HA, Olanskii and Deril. Next up: Jaeger, Oslo on Fri 14 Aug.
 
@@ -25,4 +25,4 @@ Takt is a house and techno artist based in Norway, tracked on soundcheck, with 2
 
 G-HA, Olanskii, Deril
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/takt/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/takt/)*

@@ -1,6 +1,6 @@
 # Grace Jones
 
-Grace Jones is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at Crystal Palace Park, London on Fri, 31 Jul 2026.
+Grace Jones is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at Crystal Palace Park, London on Fri, 31 Jul 2026.
 
 Grace Jones is a house and disco artist based in United Kingdom, tracked on soundcheck, with 6 sets logged across Chicago, Ibiza, London and Manchester. Often billed alongside Horse Meat Disco, Róisín Murphy and Aline Rocha. Next up: Crystal Palace Park, London on Fri 31 Jul.
 
@@ -22,4 +22,4 @@ Grace Jones is a house and disco artist based in United Kingdom, tracked on soun
 
 Horse Meat Disco, Róisín Murphy, Aline Rocha
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/gracejones/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/gracejones/)*

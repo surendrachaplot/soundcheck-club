@@ -1,6 +1,6 @@
 # Bohnengold
 
-Bohnengold is a music venue in Berlin with 4 upcoming nights listed on soundcheck as of Thu, 30 Jul 2026; the next is "ALLES ODER NICHTS - Aggy Lou & this.is.noah" on Fri, 31 Jul 2026.
+Bohnengold is a music venue in Berlin with 4 upcoming nights listed on soundcheck as of Fri, 31 Jul 2026; the next is "ALLES ODER NICHTS - Aggy Lou & this.is.noah" on Fri, 31 Jul 2026.
 
 Bohnengold is a music venue in Berlin listed on soundcheck. 4 upcoming nights, with line-ups including anna G, Brian Ring, DAAS (1) and Danny Russell and 2 more. Browse upcoming dates, start times and who's playing. Reichenberger Str. 153, 10999 Berlin.
 
@@ -17,4 +17,4 @@ Bohnengold is a music venue in Berlin listed on soundcheck. 4 upcoming nights, w
 
 Reichenberger Str. 153, 10999 Berlin, Berlin
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/bohnengold/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/bohnengold/)*

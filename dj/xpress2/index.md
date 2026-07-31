@@ -1,6 +1,6 @@
 # X-Press 2
 
-X-Press 2 is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at Off The Square, Manchester on Sat, 8 Aug 2026.
+X-Press 2 is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at Off The Square, Manchester on Sat, 8 Aug 2026.
 
 X-Press 2 is a house and tech house artist based in United Kingdom, tracked on soundcheck, with 18 sets logged across Brighton, Dublin, Leeds and London and 3 more. Often billed alongside Sarahtonin, Stuart Patterson and Dirty South. Next up: Off The Square, Manchester on Sat 8 Aug.
 
@@ -25,4 +25,4 @@ X-Press 2 is a house and tech house artist based in United Kingdom, tracked on s
 
 Sarahtonin, Stuart Patterson, Dirty South
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/xpress2/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/xpress2/)*

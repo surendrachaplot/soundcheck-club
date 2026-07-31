@@ -1,6 +1,6 @@
 # Sebas FX
 
-Sebas FX is a Techno and Drum & Bass artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at TBA, Boston on Sat, 1 Aug 2026.
+Sebas FX is a Techno and Drum & Bass artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at TBA, Boston on Sat, 1 Aug 2026.
 
 Sebas FX is a techno and drum & bass artist based in Colombia, tracked on soundcheck, with 16 sets logged across Boston. Often billed alongside Niqi, subdefense and 2004. Next up: TBA, Boston on Sat 1 Aug.
 
@@ -25,4 +25,4 @@ Sebas FX is a techno and drum & bass artist based in Colombia, tracked on soundc
 
 Niqi, subdefense, 2004
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/sebasfx/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/sebasfx/)*

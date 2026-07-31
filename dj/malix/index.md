@@ -1,6 +1,6 @@
 # malix
 
-malix is a Afro House and House artist with 2 upcoming club dates listed on soundcheck as of Thu, 30 Jul 2026, next at fabric, London on Fri, 7 Aug 2026.
+malix is a Afro House and House artist with 2 upcoming club dates listed on soundcheck as of Fri, 31 Jul 2026, next at fabric, London on Fri, 7 Aug 2026.
 
 malix is an afro house and house artist based in United Kingdom, tracked on soundcheck, with 35 sets logged across Amsterdam, Ibiza, Lisbon and London and 1 more. Often billed alongside Kojay, Arthi and FS Green. Next up: fabric, London on Fri 7 Aug.
 
@@ -26,4 +26,4 @@ malix is an afro house and house artist based in United Kingdom, tracked on soun
 
 Kojay, Arthi, FS Green
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/malix/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/malix/)*

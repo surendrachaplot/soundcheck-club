@@ -1,6 +1,6 @@
 # Afroasis
 
-Afroasis is a R&B and Afrobeats artist with 2 upcoming club dates listed on soundcheck as of Thu, 30 Jul 2026, next at Orange Room, London on Sat, 1 Aug 2026.
+Afroasis is a R&B and Afrobeats artist with 2 upcoming club dates listed on soundcheck as of Fri, 31 Jul 2026, next at Orange Room, London on Sat, 1 Aug 2026.
 
 Afroasis is a r&b and afrobeats artist based in Germany, tracked on soundcheck, with 7 sets logged across London. Often billed alongside BABY JACKZ, ABIMBOLA and AKAYCANTDJAY. Next up: Orange Room, London on Sat 1 Aug.
 
@@ -23,4 +23,4 @@ Afroasis is a r&b and afrobeats artist based in Germany, tracked on soundcheck, 
 
 BABY JACKZ, ABIMBOLA, AKAYCANTDJAY
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/afroasis/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/afroasis/)*

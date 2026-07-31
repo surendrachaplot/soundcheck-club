@@ -1,6 +1,6 @@
 # MF BUTCH
 
-MF BUTCH is a Drum & Bass and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at Boyfriend co-op, New York City on Thu, 6 Aug 2026.
+MF BUTCH is a Drum & Bass and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at Boyfriend co-op, New York City on Thu, 6 Aug 2026.
 
 MF BUTCH is a drum & bass and techno artist based in United States of America, tracked on soundcheck, with 24 sets logged across Newyorkcity. Often billed alongside Anito Soul, Alex Viper and Cherry Orchard. Next up: Boyfriend co-op, Newyorkcity on Thu 6 Aug.
 
@@ -25,4 +25,4 @@ MF BUTCH is a drum & bass and techno artist based in United States of America, t
 
 Anito Soul, Alex Viper, Cherry Orchard
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/mfbutch/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/mfbutch/)*

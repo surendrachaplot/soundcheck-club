@@ -1,6 +1,6 @@
 # Never
 
-Never is a music venue in Barcelona with 1 upcoming night listed on soundcheck as of Thu, 30 Jul 2026; the next is "God Is An Ass presents: Pray For Us 004" on Fri, 31 Jul 2026.
+Never is a music venue in Barcelona with 1 upcoming night listed on soundcheck as of Fri, 31 Jul 2026; the next is "God Is An Ass presents: Pray For Us 004" on Fri, 31 Jul 2026.
 
 Never is a music venue in Barcelona listed on soundcheck. 1 upcoming night, with line-ups including Soul Experience. Browse upcoming dates, start times and who's playing. Carrer de la Cera, 17, Ciutat Vella, 08001 Barcelona.
 
@@ -14,4 +14,4 @@ Never is a music venue in Barcelona listed on soundcheck. 1 upcoming night, with
 
 Carrer de la Cera, 17, Ciutat Vella, 08001 Barcelona, Barcelona
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/never/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/never/)*

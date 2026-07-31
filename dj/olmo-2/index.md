@@ -1,6 +1,6 @@
 # ØLMØ
 
-ØLMØ is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at Starlane Pizza Bar, London on Sun, 16 Aug 2026.
+ØLMØ is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at Starlane Pizza Bar, London on Sun, 16 Aug 2026.
 
 ØLMØ is a techno and trance artist based in United Kingdom, tracked on soundcheck, with 12 sets logged across London and Manchester. Often billed alongside Juan San Lucas, Lenny (UK) and Lockhart. Next up: Starlane Pizza Bar, London on Sun 16 Aug.
 
@@ -25,4 +25,4 @@
 
 Juan San Lucas, Lenny (UK), Lockhart
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/olmo-2/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/olmo-2/)*

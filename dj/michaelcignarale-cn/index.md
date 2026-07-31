@@ -1,6 +1,6 @@
 # Michael Cignarale
 
-Michael Cignarale is a House and Disco artist with 3 upcoming club dates listed on soundcheck as of Thu, 30 Jul 2026, next at Public Works, San Francisco/Oakland on Fri, 31 Jul 2026.
+Michael Cignarale is a House and Disco artist with 3 upcoming club dates listed on soundcheck as of Fri, 31 Jul 2026, next at Public Works, San Francisco/Oakland on Fri, 31 Jul 2026.
 
 Michael Cignarale is a house and disco artist based in United States of America, tracked on soundcheck, with 21 sets logged across Berlin, Chicago, Hamburg and London and 5 more. Often billed alongside Dee Diggs, Function and Jen Cardini. Next up: Public Works, Sanfrancisco on Fri 31 Jul.
 
@@ -27,4 +27,4 @@ Michael Cignarale is a house and disco artist based in United States of America,
 
 Dee Diggs, Function, Jen Cardini
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/michaelcignarale-cn/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/michaelcignarale-cn/)*

@@ -1,6 +1,6 @@
 # LOVE
 
-LOVE is a Reggaeton and Neo Perreo artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at Que Sera, Los Angeles on Fri, 31 Jul 2026.
+LOVE is a Reggaeton and Neo Perreo artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at Que Sera, Los Angeles on Fri, 31 Jul 2026.
 
 LOVE is a reggaeton and neo perreo artist based in Panama, tracked on soundcheck, with 28 sets logged across Amsterdam, Berlin, Brisbane and London and 3 more. Often billed alongside DINABN, Cquestt and Giselle Peppers. Next up: Que Sera, Losangeles on Fri 31 Jul.
 
@@ -25,4 +25,4 @@ LOVE is a reggaeton and neo perreo artist based in Panama, tracked on soundcheck
 
 DINABN, Cquestt, Giselle Peppers
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/love/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/love/)*

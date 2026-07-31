@@ -1,6 +1,6 @@
 # TBA - La Biblioteca, San Telmo
 
-TBA - La Biblioteca, San Telmo is a music venue in Buenos Aires with 10 upcoming nights listed on soundcheck as of Thu, 30 Jul 2026; the next is "BEICO & MORE ARTISTS – by KARMIC, LA BIBLIOTECA" on Fri, 31 Jul 2026.
+TBA - La Biblioteca, San Telmo is a music venue in Buenos Aires with 10 upcoming nights listed on soundcheck as of Fri, 31 Jul 2026; the next is "BEICO & MORE ARTISTS – by KARMIC, LA BIBLIOTECA" on Fri, 31 Jul 2026.
 
 TBA - La Biblioteca, San Telmo is a music venue in Buenosaires listed on soundcheck. 10 upcoming nights, with line-ups including Durante, Franco Dalmati, Jody Wisternoff and Jonas Saalbach and 2 more. Browse upcoming dates, start times and who's playing.
 
@@ -19,4 +19,4 @@ TBA - La Biblioteca, San Telmo is a music venue in Buenosaires listed on soundch
 | Sat, 29 Aug 2026 | Maze 28 + Ricky Ryan x Somos Produce, La Biblioteca, San Telmo Buenos Aires | Ricky Ryan |
 | Sat, 5 Sept 2026 | Victoria Engel x Somos Produce, La Biblioteca, San Telmo Buenos Aires | Victoria Engel |
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/buenosaires/club/tba-la-biblioteca-san-telmo/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/buenosaires/club/tba-la-biblioteca-san-telmo/)*

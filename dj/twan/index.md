@@ -1,6 +1,6 @@
 # TWAN
 
-TWAN is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at Système, Montreal on Sat, 1 Aug 2026.
+TWAN is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at Système, Montreal on Sat, 1 Aug 2026.
 
 TWAN is a house and deep house artist based in Belgium, tracked on soundcheck, with 19 sets logged across Chicago, Ghent and Montreal. Often billed alongside Helena Lauwaert, Lena De Roose and Odymel. Next up: Système, Montreal on Sat 1 Aug.
 
@@ -25,4 +25,4 @@ TWAN is a house and deep house artist based in Belgium, tracked on soundcheck, w
 
 Helena Lauwaert, Lena De Roose, Odymel
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/twan/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/twan/)*

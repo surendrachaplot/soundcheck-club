@@ -1,6 +1,6 @@
 # Evil Grimace
 
-Evil Grimace is a Techno and Hardcore artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at Warehouse, Nantes on Fri, 7 Aug 2026.
+Evil Grimace is a Techno and Hardcore artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at Warehouse, Nantes on Fri, 7 Aug 2026.
 
 Evil Grimace is a techno and hardcore artist based in France, tracked on soundcheck, with 22 sets logged across Antwerp, Basel, Berlin and Brisbane and 8 more. Often billed alongside Casual Gabberz, Paul Seul and CLTX. Next up: Warehouse, Nantes on Fri 7 Aug.
 
@@ -25,4 +25,4 @@ Evil Grimace is a techno and hardcore artist based in France, tracked on soundch
 
 Casual Gabberz, Paul Seul, CLTX
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/evilgrimace/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/evilgrimace/)*

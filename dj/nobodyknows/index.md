@@ -1,6 +1,6 @@
 # Nobody Knows
 
-Nobody Knows is a Progressive House and Club artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at Terraza Catedral, Mexico City on Fri, 31 Jul 2026.
+Nobody Knows is a Progressive House and Club artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at Terraza Catedral, Mexico City on Fri, 31 Jul 2026.
 
 Nobody Knows is a progressive house and club artist based in Mexico, tracked on soundcheck, with 6 sets logged across Mexicocity. Often billed alongside Dimaio, Ramez and Andy Moya. Next up: Terraza Catedral, Mexicocity on Fri 31 Jul.
 
@@ -22,4 +22,4 @@ Nobody Knows is a progressive house and club artist based in Mexico, tracked on 
 
 Dimaio, Ramez, Andy Moya
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/nobodyknows/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/nobodyknows/)*

@@ -1,6 +1,6 @@
 # Club Drippy
 
-Club Drippy is a Techno and Industrial artist with 3 upcoming club dates listed on soundcheck as of Thu, 30 Jul 2026, next at Catch One, Los Angeles on Sat, 1 Aug 2026.
+Club Drippy is a Techno and Industrial artist with 3 upcoming club dates listed on soundcheck as of Fri, 31 Jul 2026, next at Catch One, Los Angeles on Sat, 1 Aug 2026.
 
 Club Drippy is a techno and industrial artist based in United States of America, tracked on soundcheck, with 22 sets logged across Chicago, Detroit, Losangeles and Newyorkcity and 2 more. Often billed alongside JS Alvarez, Jumpr and Nolia. Next up: Catch One, Losangeles on Sat 1 Aug.
 
@@ -27,4 +27,4 @@ Club Drippy is a techno and industrial artist based in United States of America,
 
 JS Alvarez, Jumpr, Nolia
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/clubdrippy/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/clubdrippy/)*

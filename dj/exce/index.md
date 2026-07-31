@@ -1,6 +1,6 @@
 # EXCE
 
-EXCE is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at Kaskada, Warsaw on Sat, 1 Aug 2026.
+EXCE is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at Kaskada, Warsaw on Sat, 1 Aug 2026.
 
 EXCE is a techno and house artist based in Poland, tracked on soundcheck, with 12 sets logged across Warsaw. Often billed alongside Kuvau, Konca and Angelo Mike. Next up: Kaskada, Warsaw on Sat 1 Aug.
 
@@ -25,4 +25,4 @@ EXCE is a techno and house artist based in Poland, tracked on soundcheck, with 1
 
 Kuvau, Konca, Angelo Mike
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/exce/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/exce/)*

@@ -1,6 +1,6 @@
 # Vecna
 
-Vecna is a Techno and Hardcore artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at Le point fort d'Aubervilliers, Paris on Sat, 1 Aug 2026.
+Vecna is a Techno and Hardcore artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at Le point fort d'Aubervilliers, Paris on Sat, 1 Aug 2026.
 
 Vecna is a techno and hardcore artist tracked on soundcheck, with 34 sets logged across Antwerp, Brussels, Ghent and Paris. Often billed alongside Low E (2), Lena De Roose and Helena Lauwaert. Next up: Le point fort d'Aubervilliers, Paris on Sat 1 Aug.
 
@@ -25,4 +25,4 @@ Vecna is a techno and hardcore artist tracked on soundcheck, with 34 sets logged
 
 Low E (2), Lena De Roose, Helena Lauwaert
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/vecna/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/vecna/)*

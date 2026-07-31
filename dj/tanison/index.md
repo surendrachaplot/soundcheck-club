@@ -1,6 +1,6 @@
 # Tanison
 
-Tanison is a Techno and Psytrance artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at Gazi View, Athens on Sat, 1 Aug 2026.
+Tanison is a Techno and Psytrance artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at Gazi View, Athens on Sat, 1 Aug 2026.
 
 Tanison is a techno and psytrance artist tracked on soundcheck, with 50 sets logged across Athens. Often billed alongside Deherian, SCTR (2) and Christian Cambas. Next up: Gazi View, Athens on Sat 1 Aug.
 
@@ -25,4 +25,4 @@ Tanison is a techno and psytrance artist tracked on soundcheck, with 50 sets log
 
 Deherian, SCTR (2), Christian Cambas
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/tanison/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/tanison/)*

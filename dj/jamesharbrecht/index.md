@@ -1,6 +1,6 @@
 # James Harbrecht
 
-James Harbrecht is a Techno artist with 4 upcoming club dates listed on soundcheck as of Thu, 30 Jul 2026, next at Gaffe, London on Sat, 8 Aug 2026.
+James Harbrecht is a Techno artist with 4 upcoming club dates listed on soundcheck as of Fri, 31 Jul 2026, next at Gaffe, London on Sat, 8 Aug 2026.
 
 James Harbrecht is a techno artist based in United Kingdom, tracked on soundcheck, with 24 sets logged across Amsterdam, Barcelona, London and Mexicocity and 2 more. Often billed alongside H Grade, Ylia (UK) and GIZZI. Next up: Gaffe, London on Sat 8 Aug.
 
@@ -28,4 +28,4 @@ James Harbrecht is a techno artist based in United Kingdom, tracked on soundchec
 
 H Grade, Ylia (UK), GIZZI
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/jamesharbrecht/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/jamesharbrecht/)*

@@ -1,6 +1,6 @@
 # Quinta do Miratejo
 
-Quinta do Miratejo is a music venue in Lisbon with 4 upcoming nights listed on soundcheck as of Thu, 30 Jul 2026; the next is "SPASM x Mira Rio with Dan Ghenacia, Aline Umber" on Sun, 9 Aug 2026.
+Quinta do Miratejo is a music venue in Lisbon with 4 upcoming nights listed on soundcheck as of Fri, 31 Jul 2026; the next is "SPASM x Mira Rio with Dan Ghenacia, Aline Umber" on Sun, 9 Aug 2026.
 
 Quinta do Miratejo is a music venue in Lisbon listed on soundcheck. 4 upcoming nights, with line-ups including Aline Umber, Antal, C4STRO and Capablanca and 2 more. Browse upcoming dates, start times and who's playing. R. do Joinal 2825, Caparica, Portugal.
 
@@ -17,4 +17,4 @@ Quinta do Miratejo is a music venue in Lisbon listed on soundcheck. 4 upcoming n
 
 R. do Joinal 2825, Caparica, Portugal, Lisbon
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/lisbon/club/quinta-do-miratejo/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/lisbon/club/quinta-do-miratejo/)*

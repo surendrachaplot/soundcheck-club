@@ -1,6 +1,6 @@
 # Passion Club
 
-Passion Club is a music venue in Malta with 1 upcoming night listed on soundcheck as of Thu, 30 Jul 2026; the next is "Vortech Techno Saturdays" on Sat, 1 Aug 2026.
+Passion Club is a music venue in Malta with 1 upcoming night listed on soundcheck as of Fri, 31 Jul 2026; the next is "Vortech Techno Saturdays" on Sat, 1 Aug 2026.
 
 Passion Club is a music venue in Malta listed on soundcheck. 1 upcoming night, with line-ups including Thibo Verbeke. Browse upcoming dates, start times and who's playing. St'George's Road Paceville, Saint Julian's, Malta.
 
@@ -14,4 +14,4 @@ Passion Club is a music venue in Malta listed on soundcheck. 1 upcoming night, w
 
 St'George's Road Paceville, Saint Julian's, Malta, Malta
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/malta/club/passion-club/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/malta/club/passion-club/)*

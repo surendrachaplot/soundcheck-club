@@ -1,6 +1,6 @@
 # Coda
 
-Coda is a music venue in Toronto with 13 upcoming nights listed on soundcheck as of Thu, 30 Jul 2026; the next is "Rafael" on Fri, 31 Jul 2026.
+Coda is a music venue in Toronto with 13 upcoming nights listed on soundcheck as of Fri, 31 Jul 2026; the next is "Rafael" on Fri, 31 Jul 2026.
 
 Coda is a music venue in Toronto listed on soundcheck. 13 upcoming nights, with line-ups including Bastian Bux, Caspa, Colyn and Crusy and 2 more. Browse upcoming dates, start times and who's playing. 794 Bathurst St.
 
@@ -23,4 +23,4 @@ Coda is a music venue in Toronto listed on soundcheck. 13 upcoming nights, with 
 
 794 Bathurst St, Toronto
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/toronto/club/coda/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/toronto/club/coda/)*

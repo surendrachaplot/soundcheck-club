@@ -1,14 +1,13 @@
 # Club Frau Holle
 
-Club Frau Holle is a music venue in Hamburg with 11 upcoming nights listed on soundcheck as of Thu, 30 Jul 2026; the next is "RELAX or ROLEX - Free Entry For Students" on Thu, 30 Jul 2026.
+Club Frau Holle is a music venue in Hamburg with 10 upcoming nights listed on soundcheck as of Fri, 31 Jul 2026; the next is "TIMELESS RAVE with PALULI, SPAM, Elbstrõm, SELINA, ELÓRA LUMÉ, Timeless Moments" on Fri, 31 Jul 2026.
 
-Club Frau Holle is a music venue in Hamburg listed on soundcheck. 11 upcoming nights, with line-ups including Elbstrõm, Frank Leder, lexpon and Robert Brescan and 2 more. Browse upcoming dates, start times and who's playing. Friedrichsstrasse 9, 20359 Hamburg.
+Club Frau Holle is a music venue in Hamburg listed on soundcheck. 10 upcoming nights, with line-ups including Elbstrõm, Frank Leder, lexpon and Robert Brescan and 2 more. Browse upcoming dates, start times and who's playing. Friedrichsstrasse 9, 20359 Hamburg.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Thu, 30 Jul 2026 | RELAX or ROLEX - Free Entry For Students |  |
 | Fri, 31 Jul 2026 | TIMELESS RAVE with PALULI, SPAM, Elbstrõm, SELINA, ELÓRA LUMÉ, Timeless Moments | Elbstrõm, Selina (DE), Timeless Moments |
 | Sat, 1 Aug 2026 | BEHAVE |  |
 | Sat, 1 Aug 2026 | behave x Frau Holle | Robert Brescan, VIĆERO |
@@ -18,9 +17,10 @@ Club Frau Holle is a music venue in Hamburg listed on soundcheck. 11 upcoming ni
 | Fri, 14 Aug 2026 | INVITED with LUCAS DARIO, MALEKIT, SIN, COSMOKAT |  |
 | Fri, 21 Aug 2026 | HYPER HOLLE with VABU, NIKIIJA |  |
 | Sat, 5 Sept 2026 | Electronic Redlight 'Clubnight' |  |
+| Fri, 18 Sept 2026 | BROKEN FORMS with MATHIAS KADEN (Rekids, Diynamic, Heideton, Poker Flat), VABU, DELLOSEN, DAVIDE |  |
 
 ## Address
 
 Friedrichsstrasse 9, 20359 Hamburg, Hamburg
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/hamburg/club/club-frau-holle/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/hamburg/club/club-frau-holle/)*

@@ -1,6 +1,6 @@
 # Shawn O'Sullivan
 
-Shawn O'Sullivan is a Techno and Experimental artist with 2 upcoming club dates listed on soundcheck as of Thu, 30 Jul 2026, next at Reforesters Laboratory, New York City on Fri, 31 Jul 2026.
+Shawn O'Sullivan is a Techno and Experimental artist with 2 upcoming club dates listed on soundcheck as of Fri, 31 Jul 2026, next at Reforesters Laboratory, New York City on Fri, 31 Jul 2026.
 
 Shawn O'Sullivan is a techno and experimental artist based in United States of America, tracked on soundcheck, with 10 sets logged across Chicago and Newyorkcity. Often billed alongside Amourette, L.Sangre and Sweater On Polo. Next up: Reforesters Laboratory, Newyorkcity on Fri 31 Jul.
 
@@ -26,4 +26,4 @@ Shawn O'Sullivan is a techno and experimental artist based in United States of A
 
 Amourette, L.Sangre, Sweater On Polo
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/shawnosullivan/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/shawnosullivan/)*

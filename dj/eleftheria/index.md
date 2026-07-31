@@ -1,14 +1,15 @@
 # Eleftheria
 
-Eleftheria is a Experimental and Ambient artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at Plattenvereinigung, Berlin on Sun, 16 Aug 2026.
+Eleftheria is a Experimental and Club artist with 2 upcoming club dates listed on soundcheck as of Fri, 31 Jul 2026, next at Plattenvereinigung, Berlin on Sun, 16 Aug 2026.
 
-Eleftheria is an experimental and ambient artist based in Germany, tracked on soundcheck, with 29 sets logged across Amsterdam, Berlin, Hamburg and Lisbon and 2 more. Often billed alongside Significant Other, blastah and Hermeneia. Next up: Plattenvereinigung, Berlin on Sun 16 Aug.
+Eleftheria is an experimental and club artist based in Germany, tracked on soundcheck, with 30 sets logged across Amsterdam, Berlin, Hamburg and Lisbon and 2 more. Often billed alongside Significant Other, blastah and Hermeneia. Next up: Plattenvereinigung, Berlin on Sun 16 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sun, 16 Aug 2026 | Plattenvereinigung | Berlin |
+| Fri, 21 Aug 2026 | Haus der Visionäre | Berlin |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ Eleftheria is an experimental and ambient artist based in Germany, tracked on so
 
 Significant Other, blastah, Hermeneia
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/eleftheria/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/eleftheria/)*

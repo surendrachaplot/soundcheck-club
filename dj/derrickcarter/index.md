@@ -1,14 +1,13 @@
 # Derrick Carter
 
-Derrick Carter is a House and Disco artist with 14 upcoming club dates listed on soundcheck as of Thu, 30 Jul 2026, next at 528 Ibiza, Ibiza on Thu, 30 Jul 2026.
+Derrick Carter is a House and Disco artist with 13 upcoming club dates listed on soundcheck as of Fri, 31 Jul 2026, next at Paradiso, Amsterdam on Fri, 31 Jul 2026.
 
-Derrick Carter is a house and disco artist tracked on soundcheck, with 305 sets logged across Amsterdam, Antwerp, Austin and Barcelona and 25 more. Often billed alongside Michael Serafini, Shaun J. Wright and Garrett David. Next up: 528 Ibiza, Ibiza on Thu 30 Jul.
+Derrick Carter is a house and disco artist tracked on soundcheck, with 305 sets logged across Amsterdam, Antwerp, Austin and Barcelona and 25 more. Often billed alongside Michael Serafini, Shaun J. Wright and Garrett David. Next up: Paradiso, Amsterdam on Fri 31 Jul.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Thu, 30 Jul 2026 | 528 Ibiza | Ibiza |
 | Fri, 31 Jul 2026 | Paradiso | Amsterdam |
 | Sun, 2 Aug 2026 | smartbar | Chicago |
 | Fri, 7 Aug 2026 | Amnesia Ibiza | Ibiza |
@@ -20,9 +19,11 @@ Derrick Carter is a house and disco artist tracked on soundcheck, with 305 sets 
 | Sun, 16 Aug 2026 | smartbar | Chicago |
 | Sun, 23 Aug 2026 | smartbar | Chicago |
 | Fri, 4 Sept 2026 | Union Park | Chicago |
+| Sat, 19 Sept 2026 | TBA | Los Angeles |
 
 ## Recently played
 
+- 528 Ibiza, Ibiza — Thu, 30 Jul 2026
 - smartbar, Chicago — Sun, 26 Jul 2026
 - smartbar, Chicago — Sun, 19 Jul 2026
 - TBA - West Town, Chicago — Fri, 17 Jul 2026
@@ -30,10 +31,9 @@ Derrick Carter is a house and disco artist tracked on soundcheck, with 305 sets 
 - smartbar, Chicago — Sun, 5 Jul 2026
 - The Monkey Loft, Seattle — Sat, 4 Jul 2026
 - smartbar, Chicago — Sun, 28 Jun 2026
-- Salon Daomé, Montreal — Fri, 26 Jun 2026
 
 ## Shares bills with
 
 Michael Serafini, Shaun J. Wright, Garrett David
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/derrickcarter/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/derrickcarter/)*

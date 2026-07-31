@@ -1,6 +1,6 @@
 # Trigger T
 
-Trigger T is a Club and Electro artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at OXI, Berlin on Fri, 31 Jul 2026.
+Trigger T is a Club and Electro artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at OXI, Berlin on Fri, 31 Jul 2026.
 
 Trigger T is a club and electro artist tracked on soundcheck, with 7 sets logged across Berlin and Cologne. Often billed alongside Haus of Ralph, Acid.Foxy and Anita B Queen. Next up: OXI, Berlin on Fri 31 Jul.
 
@@ -23,4 +23,4 @@ Trigger T is a club and electro artist tracked on soundcheck, with 7 sets logged
 
 Haus of Ralph, Acid.Foxy, Anita B Queen
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/triggert/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/triggert/)*

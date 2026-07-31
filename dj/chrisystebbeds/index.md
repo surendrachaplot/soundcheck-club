@@ -1,6 +1,6 @@
 # Chrisy Stebbeds
 
-Chrisy Stebbeds is a House and Garage artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at Sundara Club, Ibiza on Sat, 15 Aug 2026.
+Chrisy Stebbeds is a House and Garage artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at Sundara Club, Ibiza on Sat, 15 Aug 2026.
 
 Chrisy Stebbeds is a house and garage artist based in United Kingdom, tracked on soundcheck, with 8 sets logged across Brighton, Ibiza and London. Often billed alongside Jake Power, AnDD and Carly Wilford. Next up: Sundara Club, Ibiza on Sat 15 Aug.
 
@@ -24,4 +24,4 @@ Chrisy Stebbeds is a house and garage artist based in United Kingdom, tracked on
 
 Jake Power, AnDD, Carly Wilford
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/chrisystebbeds/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/chrisystebbeds/)*

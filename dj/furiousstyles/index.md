@@ -1,6 +1,6 @@
 # FURIOUS STYLES
 
-FURIOUS STYLES is a Bass and Experimental artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at The White Hotel, Manchester on Sat, 1 Aug 2026.
+FURIOUS STYLES is a Bass and Experimental artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at The White Hotel, Manchester on Sat, 1 Aug 2026.
 
 FURIOUS STYLES is a bass and experimental artist based in United Kingdom, tracked on soundcheck, with 17 sets logged across Brighton, Bristol, London and Manchester. Often billed alongside Genzun, M.I.C (The Master of Inane Conversation) and Nio-B. Next up: The White Hotel, Manchester on Sat 1 Aug.
 
@@ -25,4 +25,4 @@ FURIOUS STYLES is a bass and experimental artist based in United Kingdom, tracke
 
 Genzun, M.I.C (The Master of Inane Conversation), Nio-B
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/furiousstyles/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/furiousstyles/)*

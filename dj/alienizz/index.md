@@ -1,6 +1,6 @@
 # Alien Izz
 
-Alien Izz is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at Dream Bags Jaguar Shoes, London on Fri, 31 Jul 2026.
+Alien Izz is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at Dream Bags Jaguar Shoes, London on Fri, 31 Jul 2026.
 
 Alien Izz is a techno and house artist tracked on soundcheck, with 43 sets logged across Liverpool, London and Manchester. Often billed alongside Miggs, Luna Thee Frenchie and Jacinta. Next up: Dream Bags Jaguar Shoes, London on Fri 31 Jul.
 
@@ -25,4 +25,4 @@ Alien Izz is a techno and house artist tracked on soundcheck, with 43 sets logge
 
 Miggs, Luna Thee Frenchie, Jacinta
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/alienizz/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/alienizz/)*

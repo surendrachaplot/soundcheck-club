@@ -1,6 +1,6 @@
 # Wasie
 
-Wasie is a Techno and Breakbeat artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at Salon Daomé, Montreal on Sat, 15 Aug 2026.
+Wasie is a Techno and Breakbeat artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at Salon Daomé, Montreal on Sat, 15 Aug 2026.
 
 Wasie is a techno and breakbeat artist based in Canada, tracked on soundcheck, with 21 sets logged across Montreal and Toronto. Often billed alongside Claireyy, ElForever and urmumsfavdj. Next up: Salon Daomé, Montreal on Sat 15 Aug.
 
@@ -25,4 +25,4 @@ Wasie is a techno and breakbeat artist based in Canada, tracked on soundcheck, w
 
 Claireyy, ElForever, urmumsfavdj
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/wasie/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/wasie/)*

@@ -1,6 +1,6 @@
 # Christine Benz
 
-Christine Benz is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Thu, 30 Jul 2026, next at Club der Visionaere, Berlin on Mon, 3 Aug 2026.
+Christine Benz is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Fri, 31 Jul 2026, next at Club der Visionaere, Berlin on Mon, 3 Aug 2026.
 
 Christine Benz is a house and techno artist based in Switzerland, tracked on soundcheck, with 23 sets logged across Bangkok, Basel, Berlin and Thehague and 1 more. Often billed alongside Lb Honne, Ben Kaczor and Edgar Peng. Next up: Club der Visionaere, Berlin on Mon 3 Aug.
 
@@ -26,4 +26,4 @@ Christine Benz is a house and techno artist based in Switzerland, tracked on sou
 
 Lb Honne, Ben Kaczor, Edgar Peng
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/christinebenz/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/christinebenz/)*

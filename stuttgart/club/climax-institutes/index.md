@@ -1,14 +1,13 @@
 # Climax-Institutes
 
-Climax-Institutes is a music venue in Stuttgart with 9 upcoming nights listed on soundcheck as of Thu, 30 Jul 2026; the next is "APPETIZER - 11 YEARS ANNIVERSARY (PART2)" on Thu, 30 Jul 2026.
+Climax-Institutes is a music venue in Stuttgart with 8 upcoming nights listed on soundcheck as of Fri, 31 Jul 2026; the next is "Different Reality 'TERMINAL X' at Climax Institutes" on Fri, 31 Jul 2026.
 
-Climax-Institutes is a music venue in Stuttgart listed on soundcheck. 9 upcoming nights, with line-ups including Adi Dassler, Aniza (DE), CALiACRA and Chamelio 3000 and 2 more. Browse upcoming dates, start times and who's playing. Calwer Str. 25, 70173 Stuttgart.
+Climax-Institutes is a music venue in Stuttgart listed on soundcheck. 8 upcoming nights, with line-ups including Aniza (DE), CALiACRA, Chamelio 3000 and crystal crimez (2) and 2 more. Browse upcoming dates, start times and who's playing. Calwer Str. 25, 70173 Stuttgart.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Thu, 30 Jul 2026 | APPETIZER - 11 YEARS ANNIVERSARY (PART2) | Adi Dassler, Pysh |
 | Fri, 31 Jul 2026 | Different Reality 'TERMINAL X' at Climax Institutes |  |
 | Sat, 1 Aug 2026 | GROOVE SENSATION w/Niko Herz & MCG | Michael Clash Gottschalk |
 | Fri, 7 Aug 2026 | Bei zuurii schepperts |  |
@@ -22,4 +21,4 @@ Climax-Institutes is a music venue in Stuttgart listed on soundcheck. 9 upcoming
 
 Calwer Str. 25, 70173 Stuttgart, Stuttgart
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/stuttgart/club/climax-institutes/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/stuttgart/club/climax-institutes/)*

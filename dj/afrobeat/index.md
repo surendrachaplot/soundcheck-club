@@ -1,6 +1,6 @@
 # Afrobeat
 
-Afrobeat is a Amapiano and Deep House artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at Trestle Inn, Philadelphia on Thu, 6 Aug 2026.
+Afrobeat is a Amapiano and Deep House artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at Trestle Inn, Philadelphia on Thu, 6 Aug 2026.
 
 Afrobeat is an amapiano and deep house artist based in Spain, tracked on soundcheck, with 15 sets logged across Bangkok, Barcelona, London and Madrid and 6 more. Often billed alongside Jungle (UK), ANTiCLiMAX and Andrea Zarco. Next up: Trestle Inn, Philadelphia on Thu 6 Aug.
 
@@ -25,4 +25,4 @@ Afrobeat is an amapiano and deep house artist based in Spain, tracked on soundch
 
 Jungle (UK), ANTiCLiMAX, Andrea Zarco
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/afrobeat/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/afrobeat/)*

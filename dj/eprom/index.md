@@ -1,6 +1,6 @@
 # EPROM
 
-EPROM is a Bass and Dubstep artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at Q Nightclub, Seattle on Sat, 8 Aug 2026.
+EPROM is a Bass and Dubstep artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at Q Nightclub, Seattle on Sat, 8 Aug 2026.
 
 EPROM is a bass and dubstep artist based in United States of America, tracked on soundcheck, with 42 sets logged across Amsterdam, Auckland, Austin and Berlin and 21 more. Often billed alongside G Jones, Alix Perez and Shades. Next up: Q Nightclub, Seattle on Sat 8 Aug.
 
@@ -25,4 +25,4 @@ EPROM is a bass and dubstep artist based in United States of America, tracked on
 
 G Jones, Alix Perez, Shades
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/eprom/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/eprom/)*

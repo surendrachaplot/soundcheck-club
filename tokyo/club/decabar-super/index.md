@@ -1,6 +1,6 @@
 # Decabar Super
 
-Decabar Super is a music venue in Tokyo with 3 upcoming nights listed on soundcheck as of Thu, 30 Jul 2026; the next is "FOAM PARTY SHINJUKU 泡パーティ 新宿" on Fri, 31 Jul 2026.
+Decabar Super is a music venue in Tokyo with 3 upcoming nights listed on soundcheck as of Fri, 31 Jul 2026; the next is "FOAM PARTY SHINJUKU 泡パーティ 新宿" on Fri, 31 Jul 2026.
 
 Decabar Super is a music venue in Tokyo listed on soundcheck. 3 upcoming nights, with line-ups including CELESTE, Mayeul, Shun and WAKA XINXI. Browse upcoming dates, start times and who's playing. Tokyo, Shinjuku City, Kabukicho, 1 Chome−9−8 ASAHI Blg. B1.
 
@@ -16,4 +16,4 @@ Decabar Super is a music venue in Tokyo listed on soundcheck. 3 upcoming nights,
 
 Tokyo, Shinjuku City, Kabukicho, 1 Chome−9−8 ASAHI Blg. B1, Tokyo
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/decabar-super/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/decabar-super/)*

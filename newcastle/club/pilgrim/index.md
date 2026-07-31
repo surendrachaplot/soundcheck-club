@@ -1,6 +1,6 @@
 # Pilgrim
 
-Pilgrim is a music venue in Newcastle with 28 upcoming nights listed on soundcheck as of Thu, 30 Jul 2026; the next is "Almost Heaven" on Sat, 1 Aug 2026.
+Pilgrim is a music venue in Newcastle with 28 upcoming nights listed on soundcheck as of Fri, 31 Jul 2026; the next is "Almost Heaven" on Sat, 1 Aug 2026.
 
 Pilgrim is a music venue in Newcastle listed on soundcheck. 28 upcoming nights, with line-ups including Michael Gray, Peverell and Sean Donnelly. Browse upcoming dates, start times and who's playing. 54 Pilgrim Street, Newcastle upon Tyne, NE1 6SF.
 
@@ -23,4 +23,4 @@ Pilgrim is a music venue in Newcastle listed on soundcheck. 28 upcoming nights, 
 
 54 Pilgrim Street, Newcastle upon Tyne, NE1 6SF, Newcastle
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/newcastle/club/pilgrim/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/newcastle/club/pilgrim/)*

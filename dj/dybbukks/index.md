@@ -1,6 +1,6 @@
 # Dybbukks
 
-Dybbukks is a Latin Bass and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at El Pumarejo Barcelona, Barcelona on Sat, 1 Aug 2026.
+Dybbukks is a Latin Bass and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at El Pumarejo Barcelona, Barcelona on Sat, 1 Aug 2026.
 
 Dybbukks is a latin bass and techno artist based in Colombia, tracked on soundcheck, with 7 sets logged across Barcelona, Ibiza, Madrid and Valencia. Often billed alongside Ariezzz, CRRDR and 3DMA. Next up: El Pumarejo Barcelona, Barcelona on Sat 1 Aug.
 
@@ -23,4 +23,4 @@ Dybbukks is a latin bass and techno artist based in Colombia, tracked on soundch
 
 Ariezzz, CRRDR, 3DMA
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/dybbukks/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/dybbukks/)*

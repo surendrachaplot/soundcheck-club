@@ -1,6 +1,6 @@
 # Gustin
 
-Gustin is a Electronica and Progressive House artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at Palm House, Liverpool on Sat, 3 Oct 2026.
+Gustin is a Electronica and Progressive House artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at Palm House, Liverpool on Sat, 3 Oct 2026.
 
 Gustin is an electronica and progressive house artist based in Ireland, tracked on soundcheck, with 16 sets logged across Amsterdam, Buenosaires, Dublin and Ibiza and 2 more. Often billed alongside Callecat, Alain Pauwels and Around Us. Next up: Palm House, Liverpool on Sat 3 Oct.
 
@@ -25,4 +25,4 @@ Gustin is an electronica and progressive house artist based in Ireland, tracked 
 
 Callecat, Alain Pauwels, Around Us
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/gustin/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/gustin/)*

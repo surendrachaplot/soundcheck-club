@@ -1,14 +1,13 @@
 # The Fox and Firkin
 
-The Fox and Firkin is a music venue in London with 20 upcoming nights listed on soundcheck as of Thu, 30 Jul 2026; the next is "Benin International Musical" on Thu, 30 Jul 2026.
+The Fox and Firkin is a music venue in London with 19 upcoming nights listed on soundcheck as of Fri, 31 Jul 2026; the next is "Mega Mega" on Fri, 31 Jul 2026.
 
-The Fox and Firkin is a music venue in London listed on soundcheck. 20 upcoming nights, with line-ups including 3 Minds, a life in space, ARLYSS and Aroop Roy and 2 more. Browse upcoming dates, start times and who's playing. 316 Lewisham High Street London SE136JZ.
+The Fox and Firkin is a music venue in London listed on soundcheck. 19 upcoming nights, with line-ups including 3 Minds, a life in space, ARLYSS and Aroop Roy and 2 more. Browse upcoming dates, start times and who's playing. 316 Lewisham High Street London SE136JZ.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Thu, 30 Jul 2026 | Benin International Musical |  |
 | Fri, 31 Jul 2026 | Mega Mega | Moina Moin, Phoebe Massey, Tekhole, veryt |
 | Sat, 1 Aug 2026 | Bizarre Trax Open Air | 3 Minds, B.Love, Ethel, Jhobei, Melody RA+RE, Oliver.r, Sam Bangura, ZEUS |
 | Thu, 6 Aug 2026 | Jamaican Independence Day Celebration with Rum 'N' Bass & DJ Croc |  |
@@ -18,9 +17,10 @@ The Fox and Firkin is a music venue in London listed on soundcheck. 20 upcoming 
 | Sat, 15 Aug 2026 | red room & No Brakes: Shifa Ligero, JVINCENT, ZEE-2, Sampii | JVINCENT, Shifa Ligero, ZEE-2 |
 | Mon, 17 Aug 2026 | Eek-A-Mouse |  |
 | Fri, 21 Aug 2026 | Havana Meets Kingston Sound System |  |
+| Sat, 22 Aug 2026 | Dubtendo Day Party |  |
 
 ## Address
 
 316 Lewisham High Street London SE136JZ, London
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/london/club/the-fox-and-firkin/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/london/club/the-fox-and-firkin/)*

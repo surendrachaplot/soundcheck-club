@@ -1,6 +1,6 @@
 # Harrison (2)
 
-Harrison (2) is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at Renate, Berlin on Sat, 1 Aug 2026.
+Harrison (2) is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at Renate, Berlin on Sat, 1 Aug 2026.
 
 Harrison (2) is a techno and house artist based in Ireland, tracked on soundcheck, with 9 sets logged across Berlin, London and Sheffield. Often billed alongside Harrison (UK), John Harrison (2) and Hendrix. Next up: Renate, Berlin on Sat 1 Aug.
 
@@ -25,4 +25,4 @@ Harrison (2) is a techno and house artist based in Ireland, tracked on soundchec
 
 Harrison (UK), John Harrison (2), Hendrix
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/harrison-2/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/harrison-2/)*

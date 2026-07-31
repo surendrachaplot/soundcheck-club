@@ -1,6 +1,6 @@
 # Shapednoise
 
-Shapednoise is a Experimental and Electronica artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at Blå, Oslo on Sat, 1 Aug 2026.
+Shapednoise is a Experimental and Electronica artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at Blå, Oslo on Sat, 1 Aug 2026.
 
 Shapednoise is an experimental and electronica artist based in Italy, tracked on soundcheck, with 28 sets logged across Berlin, Glasgow, Krakow and London and 10 more. Often billed alongside Blawan, Assyouti and Caterina Barbieri. Next up: Blå, Oslo on Sat 1 Aug.
 
@@ -25,4 +25,4 @@ Shapednoise is an experimental and electronica artist based in Italy, tracked on
 
 Blawan, Assyouti, Caterina Barbieri
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/shapednoise/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/shapednoise/)*

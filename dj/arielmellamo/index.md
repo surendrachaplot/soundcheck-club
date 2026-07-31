@@ -1,6 +1,6 @@
 # Ariel me Llamo
 
-Ariel me Llamo is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at Apollo Studio, New York City on Sat, 1 Aug 2026.
+Ariel me Llamo is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at Apollo Studio, New York City on Sat, 1 Aug 2026.
 
 Ariel me Llamo is a techno and house artist based in Paraguay, tracked on soundcheck, with 20 sets logged across Barcelona, Berlin, Buenosaires and London and 4 more. Often billed alongside Martino Boga, ADREE and Ed Warner. Next up: Apollo Studio, Newyorkcity on Sat 1 Aug.
 
@@ -25,4 +25,4 @@ Ariel me Llamo is a techno and house artist based in Paraguay, tracked on soundc
 
 Martino Boga, ADREE, Ed Warner
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/arielmellamo/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/arielmellamo/)*

@@ -1,6 +1,6 @@
 # John Gilliot
 
-John Gilliot is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at Circle Park, Brussels on Sat, 1 Aug 2026.
+John Gilliot is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at Circle Park, Brussels on Sat, 1 Aug 2026.
 
 John Gilliot is a techno and trance artist based in Belgium, tracked on soundcheck, with 21 sets logged across Berlin, Brussels, Ghent and Paris. Often billed alongside VICKEY, Ce$ar and Odymel. Next up: Circle Park, Brussels on Sat 1 Aug.
 
@@ -25,4 +25,4 @@ John Gilliot is a techno and trance artist based in Belgium, tracked on soundche
 
 VICKEY, Ce$ar, Odymel
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/johngilliot/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/johngilliot/)*

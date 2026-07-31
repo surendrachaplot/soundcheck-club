@@ -1,6 +1,6 @@
 # PERT
 
-PERT is a Techno and Electronica artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at Crobar - Buenos Aires, Buenos Aires on Sat, 1 Aug 2026.
+PERT is a Techno and Electronica artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at Crobar - Buenos Aires, Buenos Aires on Sat, 1 Aug 2026.
 
 PERT is a techno and electronica artist based in Argentina, tracked on soundcheck, with 31 sets logged across Barcelona, Berlin and Buenosaires. Often billed alongside JXXXO, Beau Didier and Forello. Next up: Crobar - Buenos Aires, Buenosaires on Sat 1 Aug.
 
@@ -25,4 +25,4 @@ PERT is a techno and electronica artist based in Argentina, tracked on soundchec
 
 JXXXO, Beau Didier, Forello
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/pert/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/pert/)*

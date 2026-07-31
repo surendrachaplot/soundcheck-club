@@ -1,6 +1,6 @@
 # Vision:Express
 
-Vision:Express is a Trance and Electronica artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at The Glove That Fits, London on Thu, 13 Aug 2026.
+Vision:Express is a Trance and Electronica artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at The Glove That Fits, London on Thu, 13 Aug 2026.
 
 Vision:Express is a trance and electronica artist based in United Kingdom, tracked on soundcheck, with 13 sets logged across Leeds, London and Manchester. Often billed alongside Princess Elf Bar, AYDJ and Stolen Velour. Next up: The Glove That Fits, London on Thu 13 Aug.
 
@@ -25,4 +25,4 @@ Vision:Express is a trance and electronica artist based in United Kingdom, track
 
 Princess Elf Bar, AYDJ, Stolen Velour
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/vision-express/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/vision-express/)*

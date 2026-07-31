@@ -1,6 +1,6 @@
 # Sherryaeri
 
-Sherryaeri is a Club and Baile Funk artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at Samis Bar, Athens on Fri, 31 Jul 2026.
+Sherryaeri is a Club and Baile Funk artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at Samis Bar, Athens on Fri, 31 Jul 2026.
 
 Sherryaeri is a club and baile funk artist based in Germany, tracked on soundcheck, with 18 sets logged across Athens, Berlin, Frankfurt and Hamburg and 1 more. Often billed alongside ADIRA, AGILY and ARMANA KHAN. Next up: Samis Bar, Athens on Fri 31 Jul.
 
@@ -25,4 +25,4 @@ Sherryaeri is a club and baile funk artist based in Germany, tracked on soundche
 
 ADIRA, AGILY, ARMANA KHAN
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/sherryaeri/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/sherryaeri/)*

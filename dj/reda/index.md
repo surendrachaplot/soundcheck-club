@@ -1,6 +1,6 @@
 # REDA
 
-REDA is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at Sekta Selekta, Krakow on Sat, 1 Aug 2026.
+REDA is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at Sekta Selekta, Krakow on Sat, 1 Aug 2026.
 
 REDA is a house and tech house artist based in Algeria, tracked on soundcheck, with 31 sets logged across Barcelona, Krakow, London and Paris. Often billed alongside Nadezh No, nuarrrrr and Badalian. Next up: Sekta Selekta, Krakow on Sat 1 Aug.
 
@@ -25,4 +25,4 @@ REDA is a house and tech house artist based in Algeria, tracked on soundcheck, w
 
 Nadezh No, nuarrrrr, Badalian
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/reda/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/reda/)*

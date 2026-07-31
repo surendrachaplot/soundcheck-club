@@ -1,6 +1,6 @@
 # The Cube Guys
 
-The Cube Guys is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at Eden, Ibiza on Thu, 13 Aug 2026.
+The Cube Guys is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at Eden, Ibiza on Thu, 13 Aug 2026.
 
 The Cube Guys is a house and tech house artist based in Italy, tracked on soundcheck, with 13 sets logged across Ibiza, Losangeles, Mexicocity and Miami and 3 more. Often billed alongside Nelson Reis, David Penn and Double B. Next up: Eden, Ibiza on Thu 13 Aug.
 
@@ -25,4 +25,4 @@ The Cube Guys is a house and tech house artist based in Italy, tracked on soundc
 
 Nelson Reis, David Penn, Double B
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/thecubeguys/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/thecubeguys/)*

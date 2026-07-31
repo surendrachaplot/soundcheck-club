@@ -1,6 +1,6 @@
 # Merimell
 
-Merimell is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at E1, London on Sat, 8 Aug 2026.
+Merimell is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at E1, London on Sat, 8 Aug 2026.
 
 Merimell is a techno and house artist based in Estonia, tracked on soundcheck, with 38 sets logged across Barcelona, Berlin, Copenhagen and London and 5 more. Often billed alongside Cly/Suva, Fok Yee and Suva. Next up: E1, London on Sat 8 Aug.
 
@@ -25,4 +25,4 @@ Merimell is a techno and house artist based in Estonia, tracked on soundcheck, w
 
 Cly/Suva, Fok Yee, Suva
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/merimell/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/merimell/)*

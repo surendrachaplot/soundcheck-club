@@ -1,6 +1,6 @@
 # Tom Stephan
 
-Tom Stephan is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at Paradiso, Amsterdam on Sun, 2 Aug 2026.
+Tom Stephan is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at Paradiso, Amsterdam on Sun, 2 Aug 2026.
 
 Tom Stephan is a techno and house artist tracked on soundcheck, with 10 sets logged across Amsterdam, London, Milan and Tokyo. Often billed alongside Harry Gay, Tafkanik and AIN'T GEORGE. Next up: Paradiso, Amsterdam on Sun 2 Aug.
 
@@ -25,4 +25,4 @@ Tom Stephan is a techno and house artist tracked on soundcheck, with 10 sets log
 
 Harry Gay, Tafkanik, AIN'T GEORGE
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/tomstephan/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/tomstephan/)*

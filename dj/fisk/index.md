@@ -1,6 +1,6 @@
 # FISK
 
-FISK is a Club and Experimental artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at Panke, Berlin on Fri, 31 Jul 2026.
+FISK is a Club and Experimental artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at Panke, Berlin on Fri, 31 Jul 2026.
 
 FISK is a club and experimental artist tracked on soundcheck, with 32 sets logged across Berlin. Often billed alongside PAULAH, Tempestfeather and schulze. Next up: Panke, Berlin on Fri 31 Jul.
 
@@ -25,4 +25,4 @@ FISK is a club and experimental artist tracked on soundcheck, with 32 sets logge
 
 PAULAH, Tempestfeather, schulze
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/fisk/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/fisk/)*

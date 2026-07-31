@@ -1,6 +1,6 @@
 # Teddy Beer
 
-Teddy Beer is a music venue in Toronto with 1 upcoming night listed on soundcheck as of Thu, 30 Jul 2026; the next is "FUN EXTENSION PRESENTS: WESLEY OU - WES SEASON RELEASE PARTY" on Fri, 31 Jul 2026.
+Teddy Beer is a music venue in Toronto with 1 upcoming night listed on soundcheck as of Fri, 31 Jul 2026; the next is "FUN EXTENSION PRESENTS: WESLEY OU - WES SEASON RELEASE PARTY" on Fri, 31 Jul 2026.
 
 Teddy Beer is a music venue in Toronto listed on soundcheck. 1 upcoming night. Browse upcoming dates, start times and who's playing.
 
@@ -10,4 +10,4 @@ Teddy Beer is a music venue in Toronto listed on soundcheck. 1 upcoming night. B
 | --- | --- | --- |
 | Fri, 31 Jul 2026 | FUN EXTENSION PRESENTS: WESLEY OU - WES SEASON RELEASE PARTY |  |
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/toronto/club/teddy-beer/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/toronto/club/teddy-beer/)*

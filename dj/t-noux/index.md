@@ -1,6 +1,6 @@
 # T-noux
 
-T-noux is a House and Dembow artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at Les Bêtises, Paris on Fri, 31 Jul 2026.
+T-noux is a House and Dembow artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at Les Bêtises, Paris on Fri, 31 Jul 2026.
 
 T-noux is a house and dembow artist based in Chile, tracked on soundcheck, with 13 sets logged across Paris. Often billed alongside Alea Cosme, Nomade 130 and Charlie Niklaas. Next up: Les Bêtises, Paris on Fri 31 Jul.
 
@@ -25,4 +25,4 @@ T-noux is a house and dembow artist based in Chile, tracked on soundcheck, with 
 
 Alea Cosme, Nomade 130, Charlie Niklaas
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/t-noux/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/t-noux/)*

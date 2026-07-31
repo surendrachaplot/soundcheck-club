@@ -1,6 +1,6 @@
 # Tumzz
 
-Tumzz is a Progressive House and Trance artist with 2 upcoming club dates listed on soundcheck as of Thu, 30 Jul 2026, next at Supperclub Cruise, Amsterdam on Sat, 1 Aug 2026.
+Tumzz is a Progressive House and Trance artist with 2 upcoming club dates listed on soundcheck as of Fri, 31 Jul 2026, next at Supperclub Cruise, Amsterdam on Sat, 1 Aug 2026.
 
 Tumzz is a progressive house and trance artist based in Belgium, tracked on soundcheck, with 2 sets logged across Amsterdam. Often billed alongside Cris-H, KARINSMATIC and Almost Human (DJ). Next up: Supperclub Cruise, Amsterdam on Sat 1 Aug.
 
@@ -15,4 +15,4 @@ Tumzz is a progressive house and trance artist based in Belgium, tracked on soun
 
 Cris-H, KARINSMATIC, Almost Human (DJ)
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/tumzz/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/tumzz/)*

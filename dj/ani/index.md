@@ -1,6 +1,6 @@
 # A.N.I.
 
-A.N.I. is a Techno and Trance artist with 8 upcoming club dates listed on soundcheck as of Thu, 30 Jul 2026, next at Bowlers Exhibition Centre, Manchester on Sat, 1 Aug 2026.
+A.N.I. is a Techno and Trance artist with 8 upcoming club dates listed on soundcheck as of Fri, 31 Jul 2026, next at Bowlers Exhibition Centre, Manchester on Sat, 1 Aug 2026.
 
 A.N.I. is a techno and trance artist tracked on soundcheck, with 180 sets logged across Amsterdam, Antwerp, Barcelona and Basel and 34 more. Often billed alongside SaltySis, DJ Jordan and IGDA. Next up: Bowlers Exhibition Centre, Manchester on Sat 1 Aug.
 
@@ -32,4 +32,4 @@ A.N.I. is a techno and trance artist tracked on soundcheck, with 180 sets logged
 
 SaltySis, DJ Jordan, IGDA
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/ani/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/ani/)*

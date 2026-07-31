@@ -1,6 +1,6 @@
 # ZIGNNAL
 
-ZIGNNAL is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at Rumores Speakeasy Cdmx, Mexico City on Sat, 15 Aug 2026.
+ZIGNNAL is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at Rumores Speakeasy Cdmx, Mexico City on Sat, 15 Aug 2026.
 
 ZIGNNAL is a techno and house artist based in Mexico, tracked on soundcheck, with 8 sets logged across Mexicocity. Often billed alongside NAHAN, Cabe and Ramiel II. Next up: Rumores Speakeasy Cdmx, Mexicocity on Sat 15 Aug.
 
@@ -24,4 +24,4 @@ ZIGNNAL is a techno and house artist based in Mexico, tracked on soundcheck, wit
 
 NAHAN, Cabe, Ramiel II
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/zignnal/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/zignnal/)*

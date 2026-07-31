@@ -1,6 +1,6 @@
 # Seizmic (UK)
 
-Seizmic (UK) is a Progressive House and House artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at TBA, Newcastle on Sat, 1 Aug 2026.
+Seizmic (UK) is a Progressive House and House artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at TBA, Newcastle on Sat, 1 Aug 2026.
 
 Seizmic (UK) is a progressive house and house artist tracked on soundcheck, with 3 sets logged across Newcastle. Often billed alongside Naughty Bear, DJ Ruby and Gav Easby. Next up: TBA, Newcastle on Sat 1 Aug.
 
@@ -19,4 +19,4 @@ Seizmic (UK) is a progressive house and house artist tracked on soundcheck, with
 
 Naughty Bear, DJ Ruby, Gav Easby
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/seizmicuk/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/seizmicuk/)*

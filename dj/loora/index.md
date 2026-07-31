@@ -1,6 +1,6 @@
 # Loora
 
-Loora is a Techno and Tech House artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at E1, London on Sat, 1 Aug 2026.
+Loora is a Techno and Tech House artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at E1, London on Sat, 1 Aug 2026.
 
 Loora is a techno and tech house artist tracked on soundcheck, with 22 sets logged across London. Often billed alongside Thomas Galbardi, Dhez and Diana Loredana. Next up: E1, London on Sat 1 Aug.
 
@@ -25,4 +25,4 @@ Loora is a techno and tech house artist tracked on soundcheck, with 22 sets logg
 
 Thomas Galbardi, Dhez, Diana Loredana
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/loora/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/loora/)*

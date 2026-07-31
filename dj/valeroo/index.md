@@ -1,6 +1,6 @@
 # Valeroo
 
-Valeroo is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at Cherry Beach, Toronto on Mon, 7 Sept 2026.
+Valeroo is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at Cherry Beach, Toronto on Mon, 7 Sept 2026.
 
 Valeroo is a house and techno artist tracked on soundcheck, with 22 sets logged across Toronto. Often billed alongside OMG.BLOG, Kai (TO) and Karim Olen Ash. Next up: Cherry Beach, Toronto on Mon 7 Sept.
 
@@ -25,4 +25,4 @@ Valeroo is a house and techno artist tracked on soundcheck, with 22 sets logged 
 
 OMG.BLOG, Kai (TO), Karim Olen Ash
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/valeroo/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/valeroo/)*

@@ -1,6 +1,6 @@
 # Alex Stein
 
-Alex Stein is a Techno and Tech House artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at Culture Box, Copenhagen on Sat, 26 Sept 2026.
+Alex Stein is a Techno and Tech House artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at Culture Box, Copenhagen on Sat, 26 Sept 2026.
 
 Alex Stein is a techno and tech house artist tracked on soundcheck, with 61 sets logged across Amsterdam, Antwerp, Barcelona and Berlin and 26 more. Often billed alongside Victor Ruiz, AM.I and Maurice Mino. Next up: Culture Box, Copenhagen on Sat 26 Sept.
 
@@ -25,4 +25,4 @@ Alex Stein is a techno and tech house artist tracked on soundcheck, with 61 sets
 
 Victor Ruiz, AM.I, Maurice Mino
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/alexstein/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/alexstein/)*

@@ -1,6 +1,6 @@
 # Samis Bar
 
-Samis Bar is a music venue in Athens with 1 upcoming night listed on soundcheck as of Thu, 30 Jul 2026; the next is "Sherryaeri" on Fri, 31 Jul 2026.
+Samis Bar is a music venue in Athens with 1 upcoming night listed on soundcheck as of Fri, 31 Jul 2026; the next is "Sherryaeri" on Fri, 31 Jul 2026.
 
 Samis Bar is a music venue in Athens listed on soundcheck. 1 upcoming night, with line-ups including Sherryaeri. Browse upcoming dates, start times and who's playing. Filis 34, 10433, Athens, Greece.
 
@@ -14,4 +14,4 @@ Samis Bar is a music venue in Athens listed on soundcheck. 1 upcoming night, wit
 
 Filis 34, 10433, Athens, Greece, Athens
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/athens/club/samis-bar/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/athens/club/samis-bar/)*

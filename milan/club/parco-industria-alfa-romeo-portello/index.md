@@ -1,6 +1,6 @@
 # Parco Industria Alfa Romeo - Portello
 
-Parco Industria Alfa Romeo - Portello is a music venue in Milan with 1 upcoming night listed on soundcheck as of Thu, 30 Jul 2026; the next is "Beat in the Park - Free Open-Air + with International Guest TBA" on Sat, 19 Sept 2026.
+Parco Industria Alfa Romeo - Portello is a music venue in Milan with 1 upcoming night listed on soundcheck as of Fri, 31 Jul 2026; the next is "Beat in the Park - Free Open-Air + with International Guest TBA" on Sat, 19 Sept 2026.
 
 Parco Industria Alfa Romeo - Portello is a music venue in Milan listed on soundcheck. 1 upcoming night. Browse upcoming dates, start times and who's playing. Viale Renato Serra, 31, 20149 Milano MI.
 
@@ -14,4 +14,4 @@ Parco Industria Alfa Romeo - Portello is a music venue in Milan listed on soundc
 
 Viale Renato Serra, 31, 20149 Milano MI, Milan
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/milan/club/parco-industria-alfa-romeo-portello/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/milan/club/parco-industria-alfa-romeo-portello/)*

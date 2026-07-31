@@ -1,6 +1,6 @@
 # Abuelita
 
-Abuelita is a Grime and Drum & Bass artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at Jasna 1, Warsaw on Fri, 31 Jul 2026.
+Abuelita is a Grime and Drum & Bass artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at Jasna 1, Warsaw on Fri, 31 Jul 2026.
 
 Abuelita is a grime and drum & bass artist based in Poland, tracked on soundcheck, with 25 sets logged across Krakow and Warsaw. Often billed alongside Adobo (PL), KarateKnur and eylau. Next up: Jasna 1, Warsaw on Fri 31 Jul.
 
@@ -25,4 +25,4 @@ Abuelita is a grime and drum & bass artist based in Poland, tracked on soundchec
 
 Adobo (PL), KarateKnur, eylau
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/abuelita/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/abuelita/)*

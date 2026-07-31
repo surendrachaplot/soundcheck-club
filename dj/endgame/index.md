@@ -1,6 +1,6 @@
 # Endgame
 
-Endgame is a Experimental and Club artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at Bastet, Philadelphia on Sat, 1 Aug 2026.
+Endgame is a Experimental and Club artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at Bastet, Philadelphia on Sat, 1 Aug 2026.
 
 Endgame is an experimental and club artist based in United Kingdom, tracked on soundcheck, with 20 sets logged across Bangkok, Barcelona, Berlin and Brussels and 8 more. Often billed alongside x/o, DJ Narciso and Cheb Runner. Next up: Bastet, Philadelphia on Sat 1 Aug.
 
@@ -25,4 +25,4 @@ Endgame is an experimental and club artist based in United Kingdom, tracked on s
 
 x/o, DJ Narciso, Cheb Runner
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/endgame/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/endgame/)*

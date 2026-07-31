@@ -1,6 +1,6 @@
 # NJ Strange
 
-NJ Strange is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at TBA - The North Star Pub, 2-3 Pavillion Buildings, Brighton, Brighton on Sat, 1 Aug 2026.
+NJ Strange is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at TBA - The North Star Pub, 2-3 Pavillion Buildings, Brighton, Brighton on Sat, 1 Aug 2026.
 
 NJ Strange is a house and disco artist tracked on soundcheck, with 24 sets logged across Berlin and Brighton. Often billed alongside Ellie Talebian, Wildblood and Queenie and Barney Osborn. Next up: TBA - The North Star Pub, 2-3 Pavillion Buildings, Brighton, Brighton on Sat 1 Aug.
 
@@ -25,4 +25,4 @@ NJ Strange is a house and disco artist tracked on soundcheck, with 24 sets logge
 
 Ellie Talebian, Wildblood and Queenie, Barney Osborn
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/njstrange/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/njstrange/)*

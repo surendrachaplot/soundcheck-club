@@ -1,6 +1,6 @@
 # joey manzi
 
-joey manzi is a Funk / Soul and House artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at Vittoria Wharf Studio, London on Sat, 8 Aug 2026.
+joey manzi is a Funk / Soul and House artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at Vittoria Wharf Studio, London on Sat, 8 Aug 2026.
 
 joey manzi is a funk / soul and house artist tracked on soundcheck, with 38 sets logged across Barcelona, Berlin, Bristol and London. Often billed alongside nath eps, Saige Sounds and Alexander Nut. Next up: Vittoria Wharf Studio, London on Sat 8 Aug.
 
@@ -25,4 +25,4 @@ joey manzi is a funk / soul and house artist tracked on soundcheck, with 38 sets
 
 nath eps, Saige Sounds, Alexander Nut
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/joeymanzi/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/joeymanzi/)*

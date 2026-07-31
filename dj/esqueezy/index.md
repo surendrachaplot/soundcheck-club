@@ -1,6 +1,6 @@
 # Esqueezy
 
-Esqueezy is a House and Garage artist with 2 upcoming club dates listed on soundcheck as of Thu, 30 Jul 2026, next at Gut Level, Sheffield on Fri, 31 Jul 2026.
+Esqueezy is a House and Garage artist with 2 upcoming club dates listed on soundcheck as of Fri, 31 Jul 2026, next at Gut Level, Sheffield on Fri, 31 Jul 2026.
 
 Esqueezy is a house and garage artist tracked on soundcheck, with 13 sets logged across London, Manchester and Sheffield. Often billed alongside Finn, BFTT and DJ Q. Next up: Gut Level, Sheffield on Fri 31 Jul.
 
@@ -26,4 +26,4 @@ Esqueezy is a house and garage artist tracked on soundcheck, with 13 sets logged
 
 Finn, BFTT, DJ Q
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/esqueezy/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/esqueezy/)*

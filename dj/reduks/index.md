@@ -1,6 +1,6 @@
 # Reduks
 
-Reduks is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at BLITZ, Munich on Fri, 31 Jul 2026.
+Reduks is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at BLITZ, Munich on Fri, 31 Jul 2026.
 
 Reduks is a techno and house artist based in Germany, tracked on soundcheck, with 33 sets logged across Munich, Nurnberg, Stuttgart and Tbilisi. Often billed alongside VSSL, Kareem El Morr and Muallem. Next up: BLITZ, Munich on Fri 31 Jul.
 
@@ -25,4 +25,4 @@ Reduks is a techno and house artist based in Germany, tracked on soundcheck, wit
 
 VSSL, Kareem El Morr, Muallem
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/reduks/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/reduks/)*

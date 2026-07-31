@@ -1,6 +1,6 @@
 # 10cust
 
-10cust is a Club and Techno artist with 2 upcoming club dates listed on soundcheck as of Thu, 30 Jul 2026, next at TBA - Hollywood Park adjacent to SoFi Stadium, Los Angeles on Sat, 1 Aug 2026.
+10cust is a Club and Techno artist with 2 upcoming club dates listed on soundcheck as of Fri, 31 Jul 2026, next at TBA - Hollywood Park adjacent to SoFi Stadium, Los Angeles on Sat, 1 Aug 2026.
 
 10cust is a club and techno artist tracked on soundcheck, with 24 sets logged across Barcelona, Berlin, Boston and London and 7 more. Often billed alongside Ali RQ, Frost Children and MCR-T. Next up: TBA - Hollywood Park adjacent to SoFi Stadium, Losangeles on Sat 1 Aug.
 
@@ -26,4 +26,4 @@
 
 Ali RQ, Frost Children, MCR-T
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/10cust/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/10cust/)*

@@ -1,6 +1,6 @@
 # Distriktfem
 
-Distriktfem is a music venue in Stockholm with 1 upcoming night listed on soundcheck as of Thu, 30 Jul 2026; the next is "Stryv" on Fri, 7 Aug 2026.
+Distriktfem is a music venue in Stockholm with 1 upcoming night listed on soundcheck as of Fri, 31 Jul 2026; the next is "Stryv" on Fri, 7 Aug 2026.
 
 Distriktfem is a music venue in Stockholm listed on soundcheck. 1 upcoming night, with line-ups including EmblaEliza. Browse upcoming dates, start times and who's playing. Hallgränd 19, 121 62 Johanneshov.
 
@@ -14,4 +14,4 @@ Distriktfem is a music venue in Stockholm listed on soundcheck. 1 upcoming night
 
 Hallgränd 19, 121 62 Johanneshov, Stockholm
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/stockholm/club/distriktfem/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/stockholm/club/distriktfem/)*

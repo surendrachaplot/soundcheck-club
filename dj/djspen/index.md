@@ -1,6 +1,6 @@
 # DJ Spen
 
-DJ Spen is a House and Deep House artist with 6 upcoming club dates listed on soundcheck as of Thu, 30 Jul 2026, next at The BBE Store, London on Sun, 2 Aug 2026.
+DJ Spen is a House and Deep House artist with 6 upcoming club dates listed on soundcheck as of Fri, 31 Jul 2026, next at The BBE Store, London on Sun, 2 Aug 2026.
 
 DJ Spen is a house and deep house artist tracked on soundcheck, with 81 sets logged across Amsterdam, Chicago, Detroit and Edinburgh and 24 more. Often billed alongside Micfreak, Neil Pierce and sillygirlcarmen. Next up: The BBE Store, London on Sun 2 Aug.
 
@@ -30,4 +30,4 @@ DJ Spen is a house and deep house artist tracked on soundcheck, with 81 sets log
 
 Micfreak, Neil Pierce, sillygirlcarmen
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/djspen/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/djspen/)*

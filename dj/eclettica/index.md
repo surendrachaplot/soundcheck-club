@@ -1,6 +1,6 @@
 # eclettica
 
-eclettica is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at Jolene, Copenhagen on Fri, 31 Jul 2026.
+eclettica is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at Jolene, Copenhagen on Fri, 31 Jul 2026.
 
 eclettica is a techno and house artist based in Italy, tracked on soundcheck, with 7 sets logged across Copenhagen and London. Often billed alongside Eucana, MAR1_WAV and sea elegans. Next up: Jolene, Copenhagen on Fri 31 Jul.
 
@@ -23,4 +23,4 @@ eclettica is a techno and house artist based in Italy, tracked on soundcheck, wi
 
 Eucana, MAR1_WAV, sea elegans
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/eclettica/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/eclettica/)*

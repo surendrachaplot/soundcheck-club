@@ -1,8 +1,8 @@
 # The Sultan Room
 
-The Sultan Room is a music venue in New York City with 10 upcoming nights listed on soundcheck as of Thu, 30 Jul 2026; the next is "Afrobeat Nights NYC" on Fri, 31 Jul 2026.
+The Sultan Room is a music venue in New York City with 12 upcoming nights listed on soundcheck as of Fri, 31 Jul 2026; the next is "Afrobeat Nights NYC" on Fri, 31 Jul 2026.
 
-The Sultan Room is a music venue in Newyorkcity listed on soundcheck. 10 upcoming nights, with line-ups including Aleska, Destro187, elle xxo and Hard Boiled Babe and 2 more. Browse upcoming dates, start times and who's playing. 234 Starr St. Brooklyn, NY 11237.
+The Sultan Room is a music venue in Newyorkcity listed on soundcheck. 12 upcoming nights, with line-ups including Aleska, Bandolover, Destro187 and elle xxo and 2 more. Browse upcoming dates, start times and who's playing. 234 Starr St. Brooklyn, NY 11237.
 
 ## What's on
 
@@ -17,10 +17,10 @@ The Sultan Room is a music venue in Newyorkcity listed on soundcheck. 10 upcomin
 | Tue, 18 Aug 2026 | Makeout City, Dead Love Triangle, Dayfiction, Artschool |  |
 | Fri, 21 Aug 2026 | CASA TULUM - A Tulum Inspired House Music Party |  |
 | Fri, 21 Aug 2026 | CASA TULUM - A Tulum Inspired House Music Party |  |
-| Fri, 28 Aug 2026 | Afro Carnival Riddim N Bass |  |
+| Sun, 23 Aug 2026 | Putiverso Rooftop | Bandolover, grunge mum |
 
 ## Address
 
 234 Starr St. Brooklyn, NY 11237, New York City
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/the-sultan-room/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/the-sultan-room/)*

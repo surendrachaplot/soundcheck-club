@@ -1,6 +1,6 @@
 # MoMA PS1
 
-MoMA PS1 is a music venue in New York City with 5 upcoming nights listed on soundcheck as of Thu, 30 Jul 2026; the next is "Warm Up: BAE BAE b2b Crystallmess/ Gabber Eleganza/ Cortisa Star/SCRAAATCH" on Fri, 31 Jul 2026.
+MoMA PS1 is a music venue in New York City with 5 upcoming nights listed on soundcheck as of Fri, 31 Jul 2026; the next is "Warm Up: BAE BAE b2b Crystallmess/ Gabber Eleganza/ Cortisa Star/SCRAAATCH" on Fri, 31 Jul 2026.
 
 MoMA PS1 is a music venue in Newyorkcity listed on soundcheck. 5 upcoming nights, with line-ups including BADSISTA, BAE BAE, Crystallmess and De Schuurman and 2 more. Browse upcoming dates, start times and who's playing. 22-25 Jackson Avenue; Long Island City, NY 11101; United States.
 
@@ -18,4 +18,4 @@ MoMA PS1 is a music venue in Newyorkcity listed on soundcheck. 5 upcoming nights
 
 22-25 Jackson Avenue; Long Island City, NY 11101; United States, New York City
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/moma-ps1/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/moma-ps1/)*

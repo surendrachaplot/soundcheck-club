@@ -1,6 +1,6 @@
 # KACHU2K
 
-KACHU2K is a Trance and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at R25 Kulturschlachthof, Düsseldorf on Fri, 31 Jul 2026.
+KACHU2K is a Trance and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at R25 Kulturschlachthof, Düsseldorf on Fri, 31 Jul 2026.
 
 KACHU2K is a trance and techno artist based in Germany, tracked on soundcheck, with 10 sets logged across Berlin, Cologne, Copenhagen and Dusseldorf. Often billed alongside Demontime, ZOMBIE1000 and EGE363. Next up: R25 Kulturschlachthof, Dusseldorf on Fri 31 Jul.
 
@@ -25,4 +25,4 @@ KACHU2K is a trance and techno artist based in Germany, tracked on soundcheck, w
 
 Demontime, ZOMBIE1000, EGE363
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/kachu2k/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/kachu2k/)*

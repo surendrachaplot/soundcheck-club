@@ -1,6 +1,6 @@
 # Butwho
 
-Butwho is a Techno and Hard Drum artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at Mastak, Warsaw on Fri, 7 Aug 2026.
+Butwho is a Techno and Hard Drum artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at Mastak, Warsaw on Fri, 7 Aug 2026.
 
 Butwho is a techno and hard drum artist based in Poland, tracked on soundcheck, with 11 sets logged across Warsaw. Often billed alongside Lyor Kalt, Francesca (PL) and SYS.END. Next up: Mastak, Warsaw on Fri 7 Aug.
 
@@ -25,4 +25,4 @@ Butwho is a techno and hard drum artist based in Poland, tracked on soundcheck, 
 
 Lyor Kalt, Francesca (PL), SYS.END
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/butwho/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/butwho/)*

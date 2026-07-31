@@ -1,6 +1,6 @@
 # Mr. Twista
 
-Mr. Twista is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Thu, 30 Jul 2026, next at Temple Bar, Detroit on Sat, 1 Aug 2026.
+Mr. Twista is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Fri, 31 Jul 2026, next at Temple Bar, Detroit on Sat, 1 Aug 2026.
 
 Mr. Twista is a house and techno artist based in United States of America, tracked on soundcheck, with 13 sets logged across Detroit. Often billed alongside Lo Dazz, Chelita and Dru Ruiz. Next up: Temple Bar, Detroit on Sat 1 Aug.
 
@@ -26,4 +26,4 @@ Mr. Twista is a house and techno artist based in United States of America, track
 
 Lo Dazz, Chelita, Dru Ruiz
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/mr.twista/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/mr.twista/)*

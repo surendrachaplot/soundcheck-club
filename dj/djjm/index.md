@@ -1,6 +1,6 @@
 # DJ JM
 
-DJ JM is a Techno and Bass artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at Baggen, Copenhagen on Fri, 31 Jul 2026.
+DJ JM is a Techno and Bass artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at Baggen, Copenhagen on Fri, 31 Jul 2026.
 
 DJ JM is a techno and bass artist tracked on soundcheck, with 51 sets logged across Athens, Berlin, Bristol and Brussels and 12 more. Often billed alongside TS Kahuna, Amiraku and A.dixen. Next up: Baggen, Copenhagen on Fri 31 Jul.
 
@@ -25,4 +25,4 @@ DJ JM is a techno and bass artist tracked on soundcheck, with 51 sets logged acr
 
 TS Kahuna, Amiraku, A.dixen
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/djjm/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/djjm/)*

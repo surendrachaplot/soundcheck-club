@@ -1,6 +1,6 @@
 # Sandar Sánchez
 
-Sandar Sánchez is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Thu, 30 Jul 2026, next at Wolkezwei, Leipzig on Sat, 1 Aug 2026.
+Sandar Sánchez is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Fri, 31 Jul 2026, next at Wolkezwei, Leipzig on Sat, 1 Aug 2026.
 
 Sandar Sánchez is a techno and house artist based in Germany, tracked on soundcheck, with 21 sets logged across Berlin, Budapest, Frankfurt and Hamburg and 5 more. Often billed alongside Alay, BOHO and Bonnie Ford. Next up: Wolkezwei, Leipzig on Sat 1 Aug.
 
@@ -27,4 +27,4 @@ Sandar Sánchez is a techno and house artist based in Germany, tracked on soundc
 
 Alay, BOHO, Bonnie Ford
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/sandarsanchez/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/sandarsanchez/)*

@@ -1,6 +1,6 @@
 # Forester
 
-Forester is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at Loo Loo, Mexico City on Sat, 15 Aug 2026.
+Forester is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at Loo Loo, Mexico City on Sat, 15 Aug 2026.
 
 Forester is a house and deep house artist based in United States of America, tracked on soundcheck, with 10 sets logged across Boston, Denver, Ibiza and Mexicocity and 3 more. Often billed alongside 3LAU, Adventure Club and Andrew Rayel. Next up: Loo Loo, Mexicocity on Sat 15 Aug.
 
@@ -25,4 +25,4 @@ Forester is a house and deep house artist based in United States of America, tra
 
 3LAU, Adventure Club, Andrew Rayel
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/forester/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/forester/)*

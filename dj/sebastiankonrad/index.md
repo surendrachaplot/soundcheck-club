@@ -1,14 +1,15 @@
 # Sebastian Konrad
 
-Sebastian Konrad is a House and Techno artist with 4 upcoming club dates listed on soundcheck as of Thu, 30 Jul 2026, next at Kiesgrube, Düsseldorf on Sat, 1 Aug 2026.
+Sebastian Konrad is a House and Techno artist with 5 upcoming club dates listed on soundcheck as of Fri, 31 Jul 2026, next at Kiesgrube, Düsseldorf on Sat, 1 Aug 2026.
 
-Sebastian Konrad is a house and techno artist tracked on soundcheck, with 52 sets logged across Basel, Berlin, Dusseldorf and Ibiza and 7 more. Often billed alongside Michel Sacher, Read the News and Ronny Grauer. Next up: Kiesgrube, Dusseldorf on Sat 1 Aug.
+Sebastian Konrad is a house and techno artist tracked on soundcheck, with 53 sets logged across Basel, Berlin, Dusseldorf and Ibiza and 7 more. Often billed alongside Michel Sacher, Read the News and Ronny Grauer. Next up: Kiesgrube, Dusseldorf on Sat 1 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 1 Aug 2026 | Kiesgrube | Düsseldorf |
+| Mon, 3 Aug 2026 | Zürich - Various Venues | Zurich |
 | Mon, 3 Aug 2026 | Zürich - Various Venues | Zurich |
 | Sat, 8 Aug 2026 | Hive Club | Zurich |
 | Sat, 22 Aug 2026 | Nordstern | Basel |
@@ -28,4 +29,4 @@ Sebastian Konrad is a house and techno artist tracked on soundcheck, with 52 set
 
 Michel Sacher, Read the News, Ronny Grauer
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/sebastiankonrad/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/sebastiankonrad/)*

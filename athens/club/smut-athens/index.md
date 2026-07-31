@@ -1,6 +1,6 @@
 # SMUT Athens
 
-SMUT Athens is a music venue in Athens with 11 upcoming nights listed on soundcheck as of Thu, 30 Jul 2026; the next is "SMUT x ClubKid x Dora Mask x Pètal" on Sat, 1 Aug 2026.
+SMUT Athens is a music venue in Athens with 11 upcoming nights listed on soundcheck as of Fri, 31 Jul 2026; the next is "SMUT x ClubKid x Dora Mask x Pètal" on Sat, 1 Aug 2026.
 
 SMUT Athens is a music venue in Athens listed on soundcheck. 11 upcoming nights, with line-ups including AgainstMe, Alírio, BIDOBEN and Cherry Distress and 2 more. Browse upcoming dates, start times and who's playing. Vatsaxi 4, Athina 104 38, Greece.
 
@@ -23,4 +23,4 @@ SMUT Athens is a music venue in Athens listed on soundcheck. 11 upcoming nights,
 
 Vatsaxi 4, Athina 104 38, Greece, Athens
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/athens/club/smut-athens/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/athens/club/smut-athens/)*

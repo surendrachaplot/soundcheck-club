@@ -1,6 +1,6 @@
 # CVNSUMED
 
-CVNSUMED is a Techno and Hardcore artist with 2 upcoming club dates listed on soundcheck as of Thu, 30 Jul 2026, next at Virage, Paris on Fri, 14 Aug 2026.
+CVNSUMED is a Techno and Hardcore artist with 2 upcoming club dates listed on soundcheck as of Fri, 31 Jul 2026, next at Virage, Paris on Fri, 14 Aug 2026.
 
 CVNSUMED is a techno and hardcore artist based in France, tracked on soundcheck, with 14 sets logged across Barcelona, Berlin, Brussels and Ghent and 5 more. Often billed alongside Öspiel, Ey.rah and Znzl. Next up: Virage, Paris on Fri 14 Aug.
 
@@ -26,4 +26,4 @@ CVNSUMED is a techno and hardcore artist based in France, tracked on soundcheck,
 
 Öspiel, Ey.rah, Znzl
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/cvnsumed/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/cvnsumed/)*

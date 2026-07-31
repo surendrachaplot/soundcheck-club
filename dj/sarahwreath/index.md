@@ -1,6 +1,6 @@
 # Sarah Wreath
 
-Sarah Wreath is a Techno and Ambient artist with 2 upcoming club dates listed on soundcheck as of Thu, 30 Jul 2026, next at public records, New York City on Fri, 21 Aug 2026.
+Sarah Wreath is a Techno and Ambient artist with 2 upcoming club dates listed on soundcheck as of Fri, 31 Jul 2026, next at public records, New York City on Fri, 21 Aug 2026.
 
 Sarah Wreath is a techno and ambient artist based in Germany, tracked on soundcheck, with 44 sets logged across Amsterdam, Berlin, Brussels and London and 7 more. Often billed alongside Function, Eli Verveine and Gwenan. Next up: public records, Newyorkcity on Fri 21 Aug.
 
@@ -26,4 +26,4 @@ Sarah Wreath is a techno and ambient artist based in Germany, tracked on soundch
 
 Function, Eli Verveine, Gwenan
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/sarahwreath/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/sarahwreath/)*

@@ -1,6 +1,6 @@
 # LISAS
 
-LISAS is a Techno and Acid artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at Signal, New York City on Fri, 31 Jul 2026.
+LISAS is a Techno and Acid artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at Signal, New York City on Fri, 31 Jul 2026.
 
 LISAS is a techno and acid artist based in Belgium, tracked on soundcheck, with 52 sets logged across Boston, Detroit, Miami and Newyorkcity and 2 more. Often billed alongside DJ Sharf, Katie Rex and Junkfile. Next up: Signal, Newyorkcity on Fri 31 Jul.
 
@@ -25,4 +25,4 @@ LISAS is a techno and acid artist based in Belgium, tracked on soundcheck, with 
 
 DJ Sharf, Katie Rex, Junkfile
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/lisas/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/lisas/)*

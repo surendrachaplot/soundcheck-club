@@ -1,6 +1,6 @@
 # Patrick Rowe
 
-Patrick Rowe is a electronic artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at Gaffe, London on Sun, 30 Aug 2026.
+Patrick Rowe is a electronic artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at Gaffe, London on Sun, 30 Aug 2026.
 
 Patrick Rowe is an electronic artist based in United Kingdom, tracked on soundcheck, with 10 sets logged across London. Often billed alongside Craig Richards, Gabriel Rai and Ruby SD. Next up: Gaffe, London on Sun 30 Aug.
 
@@ -25,4 +25,4 @@ Patrick Rowe is an electronic artist based in United Kingdom, tracked on soundch
 
 Craig Richards, Gabriel Rai, Ruby SD
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/patrickrowe/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/patrickrowe/)*

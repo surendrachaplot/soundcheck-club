@@ -1,6 +1,6 @@
 # Joseph Mouzakitis
 
-Joseph Mouzakitis is a Electro and Club artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at Plex, Athens on Sat, 1 Aug 2026.
+Joseph Mouzakitis is a Electro and Club artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at Plex, Athens on Sat, 1 Aug 2026.
 
 Joseph Mouzakitis is an electro and club artist based in Greece, tracked on soundcheck, with 7 sets logged across Athens and London. Often billed alongside Porschelane, Figlio Böler and Kairo 7000. Next up: Plex, Athens on Sat 1 Aug.
 
@@ -23,4 +23,4 @@ Joseph Mouzakitis is an electro and club artist based in Greece, tracked on soun
 
 Porschelane, Figlio Böler, Kairo 7000
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/josephmouzakitis/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/josephmouzakitis/)*

@@ -1,6 +1,6 @@
 # CZ Wang
 
-CZ Wang is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at TBA - 264 Himrod St 11237, New York City on Sun, 2 Aug 2026.
+CZ Wang is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at TBA - 264 Himrod St 11237, New York City on Sun, 2 Aug 2026.
 
 CZ Wang is a house and techno artist based in Canada, tracked on soundcheck, with 41 sets logged across Berlin, Hongkong, Losangeles and Melbourne and 7 more. Often billed alongside Will DiMaggio, 5ive and DJ Possum. Next up: TBA - 264 Himrod St 11237, Newyorkcity on Sun 2 Aug.
 
@@ -25,4 +25,4 @@ CZ Wang is a house and techno artist based in Canada, tracked on soundcheck, wit
 
 Will DiMaggio, 5ive, DJ Possum
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/czwang/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/czwang/)*

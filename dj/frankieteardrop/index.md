@@ -1,6 +1,6 @@
 # Frankie Teardrop
 
-Frankie Teardrop is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Thu, 30 Jul 2026, next at Salon Daomé, Montreal on Fri, 31 Jul 2026.
+Frankie Teardrop is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Fri, 31 Jul 2026, next at Salon Daomé, Montreal on Fri, 31 Jul 2026.
 
 Frankie Teardrop is a techno and house artist based in Canada, tracked on soundcheck, with 54 sets logged across Losangeles, Montreal, Newyorkcity and Toronto and 1 more. Often billed alongside Badgalquirit, Fisher Bryce and Kasey Riot. Next up: Salon Daomé, Montreal on Fri 31 Jul.
 
@@ -26,4 +26,4 @@ Frankie Teardrop is a techno and house artist based in Canada, tracked on soundc
 
 Badgalquirit, Fisher Bryce, Kasey Riot
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/frankieteardrop/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/frankieteardrop/)*

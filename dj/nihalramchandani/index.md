@@ -1,6 +1,6 @@
 # Nihal Ramchandani
 
-Nihal Ramchandani is a Experimental and Ambient artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at Reforesters Laboratory, New York City on Fri, 31 Jul 2026.
+Nihal Ramchandani is a Experimental and Ambient artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at Reforesters Laboratory, New York City on Fri, 31 Jul 2026.
 
 Nihal Ramchandani is an experimental and ambient artist based in United States of America, tracked on soundcheck, with 4 sets logged across Newyorkcity. Often billed alongside Anthony Naples, Ayesha and CCL. Next up: Reforesters Laboratory, Newyorkcity on Fri 31 Jul.
 
@@ -20,4 +20,4 @@ Nihal Ramchandani is an experimental and ambient artist based in United States o
 
 Anthony Naples, Ayesha, CCL
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/nihalramchandani/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/nihalramchandani/)*

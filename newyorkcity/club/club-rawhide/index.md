@@ -1,20 +1,18 @@
 # Club Rawhide
 
-Club Rawhide is a music venue in New York City with 4 upcoming nights listed on soundcheck as of Thu, 30 Jul 2026; the next is "CODED Thursdays with Will Jack, Boomer Banks" on Thu, 30 Jul 2026.
+Club Rawhide is a music venue in New York City with 2 upcoming nights listed on soundcheck as of Fri, 31 Jul 2026; the next is "Club Rawhide FRIDAY NIGHT with Mike Servito, Manu Miran, Jonah Almost" on Fri, 31 Jul 2026.
 
-Club Rawhide is a music venue in Newyorkcity listed on soundcheck. 4 upcoming nights, with line-ups including Alissa Brianna, Boomer Banks, Janky and Josh Steers and 2 more. Browse upcoming dates, start times and who's playing. 250 W 26TH ST.
+Club Rawhide is a music venue in Newyorkcity listed on soundcheck. 2 upcoming nights, with line-ups including Alissa Brianna, Janky, Josh Steers and Manu Miran and 1 more. Browse upcoming dates, start times and who's playing. 250 W 26TH ST.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Thu, 30 Jul 2026 | CODED Thursdays with Will Jack, Boomer Banks | Boomer Banks, Will Jack |
 | Fri, 31 Jul 2026 | Club Rawhide FRIDAY NIGHT with Mike Servito, Manu Miran, Jonah Almost | Manu Miran, Mike Servito |
 | Sat, 1 Aug 2026 | Club Rawhide SATURDAY NIGHT with Josh Steers, Janky, Alissa Brianna | Alissa Brianna, Janky, Josh Steers |
-| Thu, 6 Aug 2026 | Bear Happy Hour at Rawhide |  |
 
 ## Address
 
 250 W 26TH ST, New York City
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/club-rawhide/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/club-rawhide/)*

@@ -1,6 +1,6 @@
 # KOIA (2)
 
-KOIA (2) is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at Sensorium, Berlin on Fri, 31 Jul 2026.
+KOIA (2) is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at Sensorium, Berlin on Fri, 31 Jul 2026.
 
 KOIA (2) is a techno and house artist based in Bolivia, tracked on soundcheck, with 16 sets logged across Berlin and Leipzig. Often billed alongside SSXXCH, Louchi and sterni (DE). Next up: Sensorium, Berlin on Fri 31 Jul.
 
@@ -25,4 +25,4 @@ KOIA (2) is a techno and house artist based in Bolivia, tracked on soundcheck, w
 
 SSXXCH, Louchi, sterni (DE)
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/koia-2/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/koia-2/)*

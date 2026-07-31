@@ -1,14 +1,13 @@
 # DeTour
 
-DeTour is a music venue in Tokyo with 11 upcoming nights listed on soundcheck as of Thu, 30 Jul 2026; the next is "Record Maria" on Thu, 30 Jul 2026.
+DeTour is a music venue in Tokyo with 10 upcoming nights listed on soundcheck as of Fri, 31 Jul 2026; the next is "TECHTRAIN" on Fri, 31 Jul 2026.
 
-DeTour is a music venue in Tokyo listed on soundcheck. 11 upcoming nights, with line-ups including 204 (1), BEPPU, DJ Kita and hidemi and 2 more. Browse upcoming dates, start times and who's playing. B1 8-8 Uguisudani-Chu, Shibuya-Ku, Tokyo, 150-0032.
+DeTour is a music venue in Tokyo listed on soundcheck. 10 upcoming nights, with line-ups including 204 (1), BEPPU, DJ Kita and hidemi and 2 more. Browse upcoming dates, start times and who's playing. B1 8-8 Uguisudani-Chu, Shibuya-Ku, Tokyo, 150-0032.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Thu, 30 Jul 2026 | Record Maria | ultramantra |
 | Fri, 31 Jul 2026 | TECHTRAIN | BEPPU, Kamaida, ksd6700 |
 | Sat, 1 Aug 2026 | J-NATION | BEPPU |
 | Sun, 2 Aug 2026 | DT HOUSE SESSION | BEPPU, KENJI FURUYA, Neri |
@@ -18,9 +17,10 @@ DeTour is a music venue in Tokyo listed on soundcheck. 11 upcoming nights, with 
 | Sat, 8 Aug 2026 | TECHNOID | hidemi |
 | Sun, 9 Aug 2026 | DEEP VOID | BEPPU, YU-S-KE |
 | Tue, 11 Aug 2026 | Paradise Lost Vol.4 ODA 60th Birthday Bash | Junya |
+| Sun, 23 Aug 2026 | DJ Kita 30th Anniversary | 204 (1), BEPPU, DJ Kita |
 
 ## Address
 
 B1 8-8 Uguisudani-Chu, Shibuya-Ku, Tokyo, 150-0032, Tokyo
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/detour/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/detour/)*

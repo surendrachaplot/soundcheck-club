@@ -1,6 +1,6 @@
 # GAYANCE
 
-GAYANCE is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at Lux Fragil, Lisbon on Fri, 14 Aug 2026.
+GAYANCE is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at Lux Fragil, Lisbon on Fri, 14 Aug 2026.
 
 GAYANCE is a house and techno artist based in Canada, tracked on soundcheck, with 64 sets logged across Amsterdam, Berlin, Brussels and Leeds and 10 more. Often billed alongside Chima Isaaro, Deez and Passion DEEZ. Next up: Lux Fragil, Lisbon on Fri 14 Aug.
 
@@ -25,4 +25,4 @@ GAYANCE is a house and techno artist based in Canada, tracked on soundcheck, wit
 
 Chima Isaaro, Deez, Passion DEEZ
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/gayance/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/gayance/)*

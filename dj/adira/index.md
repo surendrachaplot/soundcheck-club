@@ -1,6 +1,6 @@
 # ADIRA
 
-ADIRA is a Latin Bass and Pop artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at FLUCC, Vienna on Sun, 2 Aug 2026.
+ADIRA is a Latin Bass and Pop artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at FLUCC, Vienna on Sun, 2 Aug 2026.
 
 ADIRA is a latin bass and pop artist based in Germany, tracked on soundcheck, with 11 sets logged across Antwerp, Berlin, Brussels and Vienna. Often billed alongside Hassandra, T4NIT and ARMANA KHAN. Next up: FLUCC, Vienna on Sun 2 Aug.
 
@@ -25,4 +25,4 @@ ADIRA is a latin bass and pop artist based in Germany, tracked on soundcheck, wi
 
 Hassandra, T4NIT, ARMANA KHAN
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/adira/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/adira/)*

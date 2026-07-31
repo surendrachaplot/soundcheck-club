@@ -1,14 +1,13 @@
 # Union Club, Vauxhall
 
-Union Club, Vauxhall is a music venue in London with 15 upcoming nights listed on soundcheck as of Thu, 30 Jul 2026; the next is "DESIRE - Weekly Thursday After Party - 8108STN" on Thu, 30 Jul 2026.
+Union Club, Vauxhall is a music venue in London with 14 upcoming nights listed on soundcheck as of Fri, 31 Jul 2026; the next is "AFTERPARTY at FOX IN THE BOX (Open until 10am)" on Fri, 31 Jul 2026.
 
-Union Club, Vauxhall is a music venue in London listed on soundcheck. 15 upcoming nights, with line-ups including 8108STN, Cristian Ebasta, Dhez and Duwat? and 2 more. Browse upcoming dates, start times and who's playing. 66 Albert Embankment, Lambeth, London SE1 7TW.
+Union Club, Vauxhall is a music venue in London listed on soundcheck. 14 upcoming nights, with line-ups including Cristian Ebasta, Dhez, Duwat? and Enrico Chirchiello and 2 more. Browse upcoming dates, start times and who's playing. 66 Albert Embankment, Lambeth, London SE1 7TW.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Thu, 30 Jul 2026 | DESIRE - Weekly Thursday After Party - 8108STN | 8108STN, Dhez, Duwat?, Simone Sim |
 | Fri, 31 Jul 2026 | AFTERPARTY at FOX IN THE BOX (Open until 10am) | Cristian Ebasta |
 | Sat, 1 Aug 2026 | TROUGH LONDON |  |
 | Sun, 2 Aug 2026 | Orbit Sunday night / Monday morning after party | Dhez, Thomas Galbardi |
@@ -18,9 +17,10 @@ Union Club, Vauxhall is a music venue in London listed on soundcheck. 15 upcomin
 | Thu, 13 Aug 2026 | DESIRE - Weekly Thursday After Party - SPECIAL GUEST | Dhez, Duwat?, Simone Sim |
 | Sun, 16 Aug 2026 | Orbit Sunday night / Monday morning after party | Thomas Galbardi |
 | Thu, 20 Aug 2026 | DESIRE - Weekly Thursday After Party - DUWAT | Dhez, Duwat?, Simone Sim |
+| Sun, 23 Aug 2026 | Orbit Sunday night / Monday morning after party | Thomas Galbardi |
 
 ## Address
 
 66 Albert Embankment, Lambeth, London SE1 7TW, London
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/london/club/union-club-vauxhall/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/london/club/union-club-vauxhall/)*

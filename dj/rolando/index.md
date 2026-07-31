@@ -1,6 +1,6 @@
 # DJ Rolando
 
-DJ Rolando is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at Titanic Distillers, Belfast on Fri, 31 Jul 2026.
+DJ Rolando is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at Titanic Distillers, Belfast on Fri, 31 Jul 2026.
 
 DJ Rolando is a techno and house artist tracked on soundcheck, with 30 sets logged across Amsterdam, Belfast, Berlin and Cologne and 11 more. Often billed alongside Gerd Janson, Lakuti and Tama Sumo. Next up: Titanic Distillers, Belfast on Fri 31 Jul.
 
@@ -25,4 +25,4 @@ DJ Rolando is a techno and house artist tracked on soundcheck, with 30 sets logg
 
 Gerd Janson, Lakuti, Tama Sumo
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/rolando/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/rolando/)*

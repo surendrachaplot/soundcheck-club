@@ -1,6 +1,6 @@
 # Jana
 
-Jana is a Baile Funk and Dembow artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at Ijland, Amsterdam on Sat, 8 Aug 2026.
+Jana is a Baile Funk and Dembow artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at Ijland, Amsterdam on Sat, 8 Aug 2026.
 
 Jana is a baile funk and dembow artist based in Egypt, tracked on soundcheck, with 5 sets logged across Amsterdam and Berlin. Often billed alongside C.FRIM, CANDIE (2) and Cheyanne Hudson. Next up: Ijland, Amsterdam on Sat 8 Aug.
 
@@ -21,4 +21,4 @@ Jana is a baile funk and dembow artist based in Egypt, tracked on soundcheck, wi
 
 C.FRIM, CANDIE (2), Cheyanne Hudson
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/jana/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/jana/)*

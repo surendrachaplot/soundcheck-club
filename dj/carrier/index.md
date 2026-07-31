@@ -1,14 +1,15 @@
 # Carrier
 
-Carrier is a Techno and Experimental artist with 4 upcoming club dates listed on soundcheck as of Thu, 30 Jul 2026, next at Nowadays, New York City on Sat, 1 Aug 2026.
+Carrier is a Techno and Experimental artist with 5 upcoming club dates listed on soundcheck as of Fri, 31 Jul 2026, next at Nowadays, New York City on Sat, 1 Aug 2026.
 
-Carrier is a techno and experimental artist tracked on soundcheck, with 71 sets logged across Amsterdam, Antwerp, Barcelona and Berlin and 25 more. Often billed alongside Emily Jeanne, Patrick Russell and Zohar. Next up: Nowadays, Newyorkcity on Sat 1 Aug.
+Carrier is a techno and experimental artist tracked on soundcheck, with 72 sets logged across Amsterdam, Antwerp, Barcelona and Berlin and 25 more. Often billed alongside Emily Jeanne, Patrick Russell and Zohar. Next up: Nowadays, Newyorkcity on Sat 1 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 1 Aug 2026 | Nowadays | New York City |
+| Fri, 21 Aug 2026 | Haus der Visionäre | Berlin |
 | Fri, 28 Aug 2026 | Gare Porto | Porto |
 | Fri, 18 Sept 2026 | Fort Mifflin | Philadelphia |
 | Sat, 26 Sept 2026 | Knockdown Center | New York City |
@@ -28,4 +29,4 @@ Carrier is a techno and experimental artist tracked on soundcheck, with 71 sets 
 
 Emily Jeanne, Patrick Russell, Zohar
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/carrier/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/carrier/)*

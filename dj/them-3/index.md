@@ -1,6 +1,6 @@
 # The M (3)
 
-The M (3) is a Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at Spice 99, Stockholm on Fri, 31 Jul 2026.
+The M (3) is a Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at Spice 99, Stockholm on Fri, 31 Jul 2026.
 
 The M (3) is a techno artist tracked on soundcheck, with 3 sets logged across Madrid and Stockholm. Often billed alongside Daniel Berj, Dyans and Hd Substance. Next up: Spice 99, Stockholm on Fri 31 Jul.
 
@@ -19,4 +19,4 @@ The M (3) is a techno artist tracked on soundcheck, with 3 sets logged across Ma
 
 Daniel Berj, Dyans, Hd Substance
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/them-3/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/them-3/)*

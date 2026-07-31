@@ -1,6 +1,6 @@
 # Aarv
 
-Aarv is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at Bourke Street Courtyard, Melbourne on Sat, 19 Sept 2026.
+Aarv is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at Bourke Street Courtyard, Melbourne on Sat, 19 Sept 2026.
 
 Aarv is a house and techno artist based in Australia, tracked on soundcheck, with 3 sets logged across Melbourne. Often billed alongside 2Peas, Jakespeare and Mandragora. Next up: Bourke Street Courtyard, Melbourne on Sat 19 Sept.
 
@@ -19,4 +19,4 @@ Aarv is a house and techno artist based in Australia, tracked on soundcheck, wit
 
 2Peas, Jakespeare, Mandragora
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/aarv/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/aarv/)*

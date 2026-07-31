@@ -1,6 +1,6 @@
 # Michael Fam
 
-Michael Fam is a House and Minimal artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at Apotheke, Los Angeles on Fri, 31 Jul 2026.
+Michael Fam is a House and Minimal artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at Apotheke, Los Angeles on Fri, 31 Jul 2026.
 
 Michael Fam is a house and minimal artist based in United States of America, tracked on soundcheck, with 28 sets logged across Losangeles. Often billed alongside Ray Kash, Enzo Muro and Artur (US). Next up: Apotheke, Losangeles on Fri 31 Jul.
 
@@ -25,4 +25,4 @@ Michael Fam is a house and minimal artist based in United States of America, tra
 
 Ray Kash, Enzo Muro, Artur (US)
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/michaelfam-us/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/michaelfam-us/)*

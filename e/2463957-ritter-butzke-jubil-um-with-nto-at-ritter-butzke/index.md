@@ -1,6 +1,6 @@
 # Ritter Butzke Jubiläum with NTO at Ritter Butzke
 
-Ritter Butzke Jubiläum with NTO on Sat 10 Oct, Berlin. 1 act on the bill: NTO. Techno. Preview the line-up and save it on soundcheck.
+Ritter Butzke Jubiläum with NTO on Sat 10 Oct, Berlin. 4 acts on the bill: Joyhauser, NTO, Prismode and Solvane. Techno and Electro. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,6 +10,9 @@ Ritter Butzke Jubiläum with NTO on Sat 10 Oct, Berlin. 1 act on the bill: NTO. 
 
 ## Line-up
 
+- Joyhauser
 - NTO
+- Prismode
+- Solvane
 
 *Source: [soundcheck](https://soundcheck.club/e/2463957-ritter-butzke-jubil-um-with-nto-at-ritter-butzke/)*

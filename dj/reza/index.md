@@ -1,6 +1,6 @@
 # Reza
 
-Reza is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at Budapest Park, Budapest on Sat, 1 Aug 2026.
+Reza is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at Budapest Park, Budapest on Sat, 1 Aug 2026.
 
 Reza is a house and techno artist tracked on soundcheck, with 13 sets logged across Berlin, Budapest, Leipzig and Losangeles and 2 more. Often billed alongside Markov, Aidin (KR) and Annika Wolfe. Next up: Budapest Park, Budapest on Sat 1 Aug.
 
@@ -25,4 +25,4 @@ Reza is a house and techno artist tracked on soundcheck, with 13 sets logged acr
 
 Markov, Aidin (KR), Annika Wolfe
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/reza/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/reza/)*

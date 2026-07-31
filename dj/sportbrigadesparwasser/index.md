@@ -1,6 +1,6 @@
 # Sportbrigade Sparwasser
 
-Sportbrigade Sparwasser is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Thu, 30 Jul 2026, next at ://about blank, Berlin on Sat, 1 Aug 2026.
+Sportbrigade Sparwasser is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Fri, 31 Jul 2026, next at ://about blank, Berlin on Sat, 1 Aug 2026.
 
 Sportbrigade Sparwasser is a techno and house artist based in Germany, tracked on soundcheck, with 16 sets logged across Berlin and Hamburg. Often billed alongside Sven Dohse, 2 Girls 1 Club and Anja Zaube. Next up: ://about blank, Berlin on Sat 1 Aug.
 
@@ -26,4 +26,4 @@ Sportbrigade Sparwasser is a techno and house artist based in Germany, tracked o
 
 Sven Dohse, 2 Girls 1 Club, Anja Zaube
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/sportbrigadesparwasser/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/sportbrigadesparwasser/)*

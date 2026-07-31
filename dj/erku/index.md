@@ -1,6 +1,6 @@
 # ERKU
 
-ERKU is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at Weekend, Berlin on Sat, 1 Aug 2026.
+ERKU is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at Weekend, Berlin on Sat, 1 Aug 2026.
 
 ERKU is a house and techno artist based in Germany, tracked on soundcheck, with 4 sets logged across Berlin and Hamburg. Often billed alongside DJ PayPaul, Adriana A and Chris Fuego. Next up: Weekend, Berlin on Sat 1 Aug.
 
@@ -20,4 +20,4 @@ ERKU is a house and techno artist based in Germany, tracked on soundcheck, with 
 
 DJ PayPaul, Adriana A, Chris Fuego
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/erku/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/erku/)*

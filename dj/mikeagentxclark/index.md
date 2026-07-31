@@ -1,6 +1,6 @@
 # Mike Agent X Clark
 
-Mike Agent X Clark is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at Spkrbox, Detroit on Wed, 5 Aug 2026.
+Mike Agent X Clark is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at Spkrbox, Detroit on Wed, 5 Aug 2026.
 
 Mike Agent X Clark are a house and techno duo based in United States of America, tracked on soundcheck, with 92 sets logged across Detroit, Newyorkcity, Paris and Seattle and 2 more. Often billed alongside Delano Smith, Jesse Cory and Andrés. Next up: Spkrbox, Detroit on Wed 5 Aug.
 
@@ -25,4 +25,4 @@ Mike Agent X Clark are a house and techno duo based in United States of America,
 
 Delano Smith, Jesse Cory, Andrés
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/mikeagentxclark/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/mikeagentxclark/)*

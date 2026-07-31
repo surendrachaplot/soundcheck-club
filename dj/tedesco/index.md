@@ -1,6 +1,6 @@
 # TEDESCO
 
-TEDESCO is a Techno and Club artist with 3 upcoming club dates listed on soundcheck as of Thu, 30 Jul 2026, next at The White Hotel, Manchester on Sat, 1 Aug 2026.
+TEDESCO is a Techno and Club artist with 3 upcoming club dates listed on soundcheck as of Fri, 31 Jul 2026, next at The White Hotel, Manchester on Sat, 1 Aug 2026.
 
 TEDESCO is a techno and club artist tracked on soundcheck, with 119 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 12 more. Often billed alongside JONE OF ARX, Ivicore and Manuka Honey. Next up: The White Hotel, Manchester on Sat 1 Aug.
 
@@ -27,4 +27,4 @@ TEDESCO is a techno and club artist tracked on soundcheck, with 119 sets logged 
 
 JONE OF ARX, Ivicore, Manuka Honey
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/tedesco/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/tedesco/)*

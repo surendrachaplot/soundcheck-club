@@ -1,6 +1,6 @@
 # MPeach
 
-MPeach is a Techno and Neo Perreo artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at Good Room, New York City on Thu, 6 Aug 2026.
+MPeach is a Techno and Neo Perreo artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at Good Room, New York City on Thu, 6 Aug 2026.
 
 MPeach is a techno and neo perreo artist tracked on soundcheck, with 32 sets logged across Barcelona, Berlin, London and Madrid and 5 more. Often billed alongside zorenLo, 8888 and JOSELO. Next up: Good Room, Newyorkcity on Thu 6 Aug.
 
@@ -25,4 +25,4 @@ MPeach is a techno and neo perreo artist tracked on soundcheck, with 32 sets log
 
 zorenLo, 8888, JOSELO
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/mpeach/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/mpeach/)*

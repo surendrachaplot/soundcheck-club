@@ -1,6 +1,6 @@
 # Kleo
 
-Kleo is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at John Doe, Amsterdam on Tue, 25 Aug 2026.
+Kleo is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at John Doe, Amsterdam on Tue, 25 Aug 2026.
 
 Kleo is a house and techno artist based in Spain, tracked on soundcheck, with 8 sets logged across Amsterdam, Geneva and Sydney. Often billed alongside Mehmet Alpdogan, Dave Stuart and Apontow Akyi. Next up: John Doe, Amsterdam on Tue 25 Aug.
 
@@ -24,4 +24,4 @@ Kleo is a house and techno artist based in Spain, tracked on soundcheck, with 8 
 
 Mehmet Alpdogan, Dave Stuart, Apontow Akyi
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/kleo-2/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/kleo-2/)*

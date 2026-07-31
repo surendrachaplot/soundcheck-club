@@ -1,6 +1,6 @@
 # nycp
 
-nycp is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at Honey's, New York City on Sun, 2 Aug 2026.
+nycp is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at Honey's, New York City on Sun, 2 Aug 2026.
 
 nycp is a house and deep house artist based in United States of America, tracked on soundcheck, with 15 sets logged across London and Newyorkcity. Often billed alongside The Hefker Girl, Loomer and G-STAR. Next up: Honey's, Newyorkcity on Sun 2 Aug.
 
@@ -25,4 +25,4 @@ nycp is a house and deep house artist based in United States of America, tracked
 
 The Hefker Girl, Loomer, G-STAR
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/nycp/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/nycp/)*

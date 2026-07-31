@@ -1,6 +1,6 @@
 # Spencer Brown
 
-Spencer Brown is a Progressive House and House artist with 3 upcoming club dates listed on soundcheck as of Thu, 30 Jul 2026, next at House of Yes, New York City on Fri, 31 Jul 2026.
+Spencer Brown is a Progressive House and House artist with 3 upcoming club dates listed on soundcheck as of Fri, 31 Jul 2026, next at House of Yes, New York City on Fri, 31 Jul 2026.
 
 Spencer Brown is a progressive house and house artist tracked on soundcheck, with 82 sets logged across Austin, Berlin, Boston and Brighton and 24 more. Often billed alongside Qrion, John Digweed and Late Night Shri. Next up: House of Yes, Newyorkcity on Fri 31 Jul.
 
@@ -27,4 +27,4 @@ Spencer Brown is a progressive house and house artist tracked on soundcheck, wit
 
 Qrion, John Digweed, Late Night Shri
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/spencerbrown/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/spencerbrown/)*

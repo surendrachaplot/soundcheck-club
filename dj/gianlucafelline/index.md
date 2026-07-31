@@ -1,6 +1,6 @@
 # Gianluca Felline
 
-Gianluca Felline is a Minimal and House artist with 2 upcoming club dates listed on soundcheck as of Thu, 30 Jul 2026, next at Zürich - Various Venues, Zurich on Mon, 3 Aug 2026.
+Gianluca Felline is a Minimal and House artist with 2 upcoming club dates listed on soundcheck as of Fri, 31 Jul 2026, next at Zürich - Various Venues, Zurich on Mon, 3 Aug 2026.
 
 Gianluca Felline is a minimal and house artist based in Switzerland, tracked on soundcheck, with 10 sets logged across Hamburg, Riga and Zurich. Often billed alongside Oscar Jones, Ted Amber and AYMÉ. Next up: Zürich - Various Venues, Zurich on Mon 3 Aug.
 
@@ -26,4 +26,4 @@ Gianluca Felline is a minimal and house artist based in Switzerland, tracked on 
 
 Oscar Jones, Ted Amber, AYMÉ
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/gianlucafelline/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/gianlucafelline/)*

@@ -1,6 +1,6 @@
 # Dean Turnley
 
-Dean Turnley is a House and Tech House artist with 12 upcoming club dates listed on soundcheck as of Thu, 30 Jul 2026, next at Burgess Park, London on Sun, 9 Aug 2026.
+Dean Turnley is a House and Tech House artist with 12 upcoming club dates listed on soundcheck as of Fri, 31 Jul 2026, next at Burgess Park, London on Sun, 9 Aug 2026.
 
 Dean Turnley is a house and tech house artist tracked on soundcheck, with 18 sets logged across Adelaide, Amsterdam, Belfast and Berlin and 13 more. Often billed alongside Prospa, Groove Armada and Jamback. Next up: Burgess Park, London on Sun 9 Aug.
 
@@ -34,4 +34,4 @@ Dean Turnley is a house and tech house artist tracked on soundcheck, with 18 set
 
 Prospa, Groove Armada, Jamback
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/deanturnley/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/deanturnley/)*

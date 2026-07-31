@@ -1,6 +1,6 @@
 # Zara
 
-Zara is a Techno and Experimental artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at WOMB, Tokyo on Fri, 31 Jul 2026.
+Zara is a Techno and Experimental artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at WOMB, Tokyo on Fri, 31 Jul 2026.
 
 Zara is a techno and experimental artist tracked on soundcheck, with 76 sets logged across Amsterdam, Athens, Barcelona and Basel and 21 more. Often billed alongside Andy Garvey, Tangerine and Agonis. Next up: WOMB, Tokyo on Fri 31 Jul.
 
@@ -25,4 +25,4 @@ Zara is a techno and experimental artist tracked on soundcheck, with 76 sets log
 
 Andy Garvey, Tangerine, Agonis
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/zara/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/zara/)*

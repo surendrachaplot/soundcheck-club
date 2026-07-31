@@ -1,6 +1,6 @@
 # Avalon Emerson
 
-Avalon Emerson is a Techno and House artist with 5 upcoming club dates listed on soundcheck as of Thu, 30 Jul 2026, next at Fortune Sound Club, Vancouver on Thu, 6 Aug 2026.
+Avalon Emerson is a Techno and House artist with 5 upcoming club dates listed on soundcheck as of Fri, 31 Jul 2026, next at Fortune Sound Club, Vancouver on Thu, 6 Aug 2026.
 
 Avalon Emerson is a techno and house artist tracked on soundcheck, with 172 sets logged across Amsterdam, Antwerp, Athens and Austin and 46 more. Often billed alongside BASHKKA, Sedef Adasï and Roi Perez. Next up: Fortune Sound Club, Vancouver on Thu 6 Aug.
 
@@ -29,4 +29,4 @@ Avalon Emerson is a techno and house artist tracked on soundcheck, with 172 sets
 
 BASHKKA, Sedef Adasï, Roi Perez
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/avalonemerson/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/avalonemerson/)*

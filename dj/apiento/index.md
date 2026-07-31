@@ -1,6 +1,6 @@
 # Apiento
 
-Apiento is a House and Balearic artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at Grow, London on Fri, 31 Jul 2026.
+Apiento is a House and Balearic artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at Grow, London on Fri, 31 Jul 2026.
 
 Apiento is a house and balearic artist tracked on soundcheck, with 37 sets logged across Athens, Belfast, Berlin and Liverpool and 7 more. Often billed alongside Alex Kassian, Sofie K and Fantastic Man. Next up: Grow, London on Fri 31 Jul.
 
@@ -25,4 +25,4 @@ Apiento is a house and balearic artist tracked on soundcheck, with 37 sets logge
 
 Alex Kassian, Sofie K, Fantastic Man
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/apiento/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/apiento/)*

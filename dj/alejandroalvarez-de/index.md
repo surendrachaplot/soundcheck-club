@@ -1,6 +1,6 @@
 # Alejandro Alvarez
 
-Alejandro Alvarez is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at WestWeelde, Amsterdam on Sat, 1 Aug 2026.
+Alejandro Alvarez is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at WestWeelde, Amsterdam on Sat, 1 Aug 2026.
 
 Alejandro Alvarez is a techno and house artist based in Portugal, tracked on soundcheck, with 19 sets logged across Amsterdam, Antwerp, Berlin and Cologne and 1 more. Often billed alongside DJ MANU (MUNICH), Alalkih and HGR. Next up: WestWeelde, Amsterdam on Sat 1 Aug.
 
@@ -25,4 +25,4 @@ Alejandro Alvarez is a techno and house artist based in Portugal, tracked on sou
 
 DJ MANU (MUNICH), Alalkih, HGR
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/alejandroalvarez-de/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/alejandroalvarez-de/)*

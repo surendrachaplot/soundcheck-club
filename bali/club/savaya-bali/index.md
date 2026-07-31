@@ -1,6 +1,6 @@
 # Savaya Bali
 
-Savaya Bali is a music venue in Bali with 27 upcoming nights listed on soundcheck as of Thu, 30 Jul 2026; the next is "Peking Duk" on Fri, 31 Jul 2026.
+Savaya Bali is a music venue in Bali with 27 upcoming nights listed on soundcheck as of Fri, 31 Jul 2026; the next is "Peking Duk" on Fri, 31 Jul 2026.
 
 Savaya Bali is a music venue in Bali listed on soundcheck. 27 upcoming nights, with line-ups including AARON SEVILLA, Alex Wann, AWEN and Cristoph and 2 more. Browse upcoming dates, start times and who's playing. Jl. Belimbing Sari, Banjar Tambiyak, Pecatu, Uluwatu, Kabupaten Badung, Bali 80364, Indonesia.
 
@@ -23,4 +23,4 @@ Savaya Bali is a music venue in Bali listed on soundcheck. 27 upcoming nights, w
 
 Jl. Belimbing Sari, Banjar Tambiyak, Pecatu, Uluwatu, Kabupaten Badung, Bali 80364, Indonesia, Bali
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/bali/club/savaya-bali/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/bali/club/savaya-bali/)*

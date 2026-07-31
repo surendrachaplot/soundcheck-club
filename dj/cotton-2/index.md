@@ -1,14 +1,14 @@
 # cotton
 
-cotton is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at TBA - Tendermesh, Tetlestrasse 11-16, Berlin on Tue, 4 Aug 2026.
+cotton is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at TBA - Tendermesh, Teilestraße 11-16, Berlin on Tue, 4 Aug 2026.
 
-cotton is a techno and house artist based in United States of America, tracked on soundcheck, with 41 sets logged across Athens, Berlin, Chicago and Istanbul and 2 more. Often billed alongside Juliana Huxtable, Kilopatrah Jones and Quelza. Next up: TBA - Tendermesh, Tetlestrasse 11-16, Berlin on Tue 4 Aug.
+cotton is a techno and house artist based in United States of America, tracked on soundcheck, with 41 sets logged across Athens, Berlin, Chicago and Istanbul and 2 more. Often billed alongside Juliana Huxtable, Kilopatrah Jones and Quelza. Next up: TBA - Tendermesh, Teilestraße 11-16, Berlin on Tue 4 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Tue, 4 Aug 2026 | TBA - Tendermesh, Tetlestrasse 11-16 | Berlin |
+| Tue, 4 Aug 2026 | TBA - Tendermesh, Teilestraße 11-16 | Berlin |
 
 ## Recently played
 
@@ -25,4 +25,4 @@ cotton is a techno and house artist based in United States of America, tracked o
 
 Juliana Huxtable, Kilopatrah Jones, Quelza
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/cotton-2/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/cotton-2/)*

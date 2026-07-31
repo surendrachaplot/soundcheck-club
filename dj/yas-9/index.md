@@ -1,6 +1,6 @@
 # YAS (9)
 
-YAS (9) is a Baile Funk and Club artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at Colour Factory, London on Sat, 8 Aug 2026.
+YAS (9) is a Baile Funk and Club artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at Colour Factory, London on Sat, 8 Aug 2026.
 
 YAS (9) is a baile funk and club artist tracked on soundcheck, with 5 sets logged across Birmingham, Dublin and London. Often billed alongside Caio Prince, SZAL and DAZLBØY. Next up: Colour Factory, London on Sat 8 Aug.
 
@@ -21,4 +21,4 @@ YAS (9) is a baile funk and club artist tracked on soundcheck, with 5 sets logge
 
 Caio Prince, SZAL, DAZLBØY
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/yas-9/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/yas-9/)*

@@ -1,6 +1,6 @@
 # Ashkan Dian
 
-Ashkan Dian is a Techno and Progressive House artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at Future Nightlife, Toronto on Fri, 7 Aug 2026.
+Ashkan Dian is a Techno and Progressive House artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at Future Nightlife, Toronto on Fri, 7 Aug 2026.
 
 Ashkan Dian is a techno and progressive house artist based in Canada, tracked on soundcheck, with 23 sets logged across Toronto. Often billed alongside Rafael Cerato, Argy and Mikey & The Wolf. Next up: Future Nightlife, Toronto on Fri 7 Aug.
 
@@ -25,4 +25,4 @@ Ashkan Dian is a techno and progressive house artist based in Canada, tracked on
 
 Rafael Cerato, Argy, Mikey & The Wolf
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/ashkandian/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/ashkandian/)*

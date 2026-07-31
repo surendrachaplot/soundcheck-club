@@ -1,6 +1,6 @@
 # Monsieur Mikey
 
-Monsieur Mikey is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Thu, 30 Jul 2026, next at Nine Lives, Malta on Wed, 30 Sept 2026.
+Monsieur Mikey is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Fri, 31 Jul 2026, next at Nine Lives, Malta on Wed, 30 Sept 2026.
 
 Monsieur Mikey is a house and techno artist tracked on soundcheck, with 8 sets logged across Edinburgh, London, Malta and Nantes. Often billed alongside JOHNJAYDEE, She is Spinderella and AnDD. Next up: Nine Lives, Malta on Wed 30 Sept.
 
@@ -24,4 +24,4 @@ Monsieur Mikey is a house and techno artist tracked on soundcheck, with 8 sets l
 
 JOHNJAYDEE, She is Spinderella, AnDD
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/monsieurmikey/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/monsieurmikey/)*

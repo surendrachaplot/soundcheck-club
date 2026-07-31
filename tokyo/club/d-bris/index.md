@@ -1,6 +1,6 @@
 # Débris
 
-Débris is a music venue in Tokyo with 3 upcoming nights listed on soundcheck as of Thu, 30 Jul 2026; the next is "BC" on Fri, 31 Jul 2026.
+Débris is a music venue in Tokyo with 3 upcoming nights listed on soundcheck as of Fri, 31 Jul 2026; the next is "BC" on Fri, 31 Jul 2026.
 
 Débris is a music venue in Tokyo listed on soundcheck. 3 upcoming nights, with line-ups including DJ B2B, Go Kitahara, LogicBeat and nataria and 2 more. Browse upcoming dates, start times and who's playing. Daikanyamacho 11-12, Shibuya-ku, Tokyo, 150-0034 Japan.
 
@@ -16,4 +16,4 @@ Débris is a music venue in Tokyo listed on soundcheck. 3 upcoming nights, with 
 
 Daikanyamacho 11-12, Shibuya-ku, Tokyo, 150-0034 Japan, Tokyo
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/d-bris/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/d-bris/)*

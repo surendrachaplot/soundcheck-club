@@ -1,6 +1,6 @@
 # Unjack
 
-Unjack is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at Holešovická Tržnice, Prague on Sat, 1 Aug 2026.
+Unjack is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at Holešovická Tržnice, Prague on Sat, 1 Aug 2026.
 
 Unjack is a techno and house artist based in United Kingdom, tracked on soundcheck, with 20 sets logged across Berlin and Prague. Often billed alongside Alex Neivel, Pink Concrete and Alfred Czital. Next up: Holešovická Tržnice, Prague on Sat 1 Aug.
 
@@ -25,4 +25,4 @@ Unjack is a techno and house artist based in United Kingdom, tracked on soundche
 
 Alex Neivel, Pink Concrete, Alfred Czital
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/unjack/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/unjack/)*

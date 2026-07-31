@@ -1,6 +1,6 @@
 # Styro 2000
 
-Styro 2000 is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at Rote Fabrik, Zurich on Fri, 7 Aug 2026.
+Styro 2000 is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at Rote Fabrik, Zurich on Fri, 7 Aug 2026.
 
 Styro 2000 is a techno and house artist based in Switzerland, tracked on soundcheck, with 25 sets logged across Berlin, Munich, Stuttgart and Zurich. Often billed alongside Playlove, fabulus and Juli Lee. Next up: Rote Fabrik, Zurich on Fri 7 Aug.
 
@@ -25,4 +25,4 @@ Styro 2000 is a techno and house artist based in Switzerland, tracked on soundch
 
 Playlove, fabulus, Juli Lee
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/styro2000/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/styro2000/)*

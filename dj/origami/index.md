@@ -1,6 +1,6 @@
 # Origami
 
-Origami is a Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at TBA - Berlin, Berlin on Thu, 13 Aug 2026.
+Origami is a Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at TBA - Berlin, Berlin on Thu, 13 Aug 2026.
 
 Origami is a techno artist based in Germany, tracked on soundcheck, with 9 sets logged across Berlin, London and Madrid. Often billed alongside Squaric, Denise Rabe and Fac3less. Next up: TBA - Berlin, Berlin on Thu 13 Aug.
 
@@ -25,4 +25,4 @@ Origami is a techno artist based in Germany, tracked on soundcheck, with 9 sets 
 
 Squaric, Denise Rabe, Fac3less
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/origami/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/origami/)*

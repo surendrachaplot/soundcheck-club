@@ -1,6 +1,6 @@
 # DJ Chris (CA)
 
-DJ Chris (CA) is a Minimal Techno and House artist with 2 upcoming club dates listed on soundcheck as of Thu, 30 Jul 2026, next at The Jama, Toronto on Fri, 31 Jul 2026.
+DJ Chris (CA) is a Minimal Techno and House artist with 2 upcoming club dates listed on soundcheck as of Fri, 31 Jul 2026, next at The Jama, Toronto on Fri, 31 Jul 2026.
 
 DJ Chris (CA) is a minimal techno and house artist based in Canada, tracked on soundcheck, with 37 sets logged across Bangkok, Madrid, Mexicocity and Toronto. Often billed alongside International Habibi, Vladislove and Blkvirgo. Next up: The Jama, Toronto on Fri 31 Jul.
 
@@ -26,4 +26,4 @@ DJ Chris (CA) is a minimal techno and house artist based in Canada, tracked on s
 
 International Habibi, Vladislove, Blkvirgo
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/djchrisca/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/djchrisca/)*

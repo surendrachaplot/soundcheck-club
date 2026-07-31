@@ -1,20 +1,20 @@
 # Sons Of Hidden
 
-Sons Of Hidden is a Techno and Experimental artist with 4 upcoming club dates listed on soundcheck as of Thu, 30 Jul 2026, next at John Doe, Amsterdam on Thu, 30 Jul 2026.
+Sons Of Hidden is a Techno and Experimental artist with 3 upcoming club dates listed on soundcheck as of Fri, 31 Jul 2026, next at Else, Berlin on Sat, 1 Aug 2026.
 
-Sons Of Hidden is a techno and experimental artist tracked on soundcheck, with 16 sets logged across Amsterdam, Barcelona, Berlin and Buenosaires and 6 more. Often billed alongside Marco Ramos, Freddy K and Julieta Kopp. Next up: John Doe, Amsterdam on Thu 30 Jul.
+Sons Of Hidden is a techno and experimental artist tracked on soundcheck, with 16 sets logged across Amsterdam, Barcelona, Berlin and Buenosaires and 6 more. Often billed alongside Marco Ramos, Freddy K and Julieta Kopp. Next up: Else, Berlin on Sat 1 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Thu, 30 Jul 2026 | John Doe | Amsterdam |
 | Sat, 1 Aug 2026 | Else | Berlin |
 | Fri, 7 Aug 2026 | FOLD | London |
 | Sat, 8 Aug 2026 | BASIS | Utrecht |
 
 ## Recently played
 
+- John Doe, Amsterdam — Thu, 30 Jul 2026
 - RADION, Amsterdam — Sat, 25 Jul 2026
 - Motolinia 33, Mexico City — Sat, 6 Dec 2025
 - Dune Park, Buenos Aires — Sat, 30 Aug 2025
@@ -22,10 +22,9 @@ Sons Of Hidden is a techno and experimental artist tracked on soundcheck, with 1
 - John Doe, Amsterdam — Sat, 11 May 2024
 - TBA - Powered by: Void Acoustics , Madrid — Wed, 1 May 2024
 - TBA - MICROCENTRO., Buenos Aires — Sat, 6 Apr 2024
-- TBA - secret location, Barcelona — Fri, 3 Nov 2023
 
 ## Shares bills with
 
 Marco Ramos, Freddy K, Julieta Kopp
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/sonsofhidden/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/sonsofhidden/)*

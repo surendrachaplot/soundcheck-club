@@ -1,6 +1,6 @@
 # imad:re
 
-imad:re is a Bass and Grime artist with 4 upcoming club dates listed on soundcheck as of Thu, 30 Jul 2026, next at Cupra City Garage Manchester, Manchester on Fri, 21 Aug 2026.
+imad:re is a Bass and Grime artist with 4 upcoming club dates listed on soundcheck as of Fri, 31 Jul 2026, next at Cupra City Garage Manchester, Manchester on Fri, 21 Aug 2026.
 
 imad:re is a bass and grime artist based in United Kingdom, tracked on soundcheck, with 49 sets logged across Ibiza, Leeds, London and Manchester and 1 more. Often billed alongside Ginster, Amelia Leigh and Macy Lancaster. Next up: Cupra City Garage Manchester, Manchester on Fri 21 Aug.
 
@@ -28,4 +28,4 @@ imad:re is a bass and grime artist based in United Kingdom, tracked on soundchec
 
 Ginster, Amelia Leigh, Macy Lancaster
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/imadre/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/imadre/)*

@@ -1,6 +1,6 @@
 # Aaron Suiss
 
-Aaron Suiss is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at Ritter Butzke, Berlin on Sat, 1 Aug 2026.
+Aaron Suiss is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at Ritter Butzke, Berlin on Sat, 1 Aug 2026.
 
 Aaron Suiss is a techno and house artist based in United States of America, tracked on soundcheck, with 23 sets logged across Bangkok, Berlin, Frankfurt and Ibiza and 5 more. Often billed alongside Rafa Silva, DJ Lion and Darin Epsilon. Next up: Ritter Butzke, Berlin on Sat 1 Aug.
 
@@ -25,4 +25,4 @@ Aaron Suiss is a techno and house artist based in United States of America, trac
 
 Rafa Silva, DJ Lion, Darin Epsilon
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/aaronsuiss/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/aaronsuiss/)*

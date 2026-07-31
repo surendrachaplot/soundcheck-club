@@ -1,6 +1,6 @@
 # Ryan Croft
 
-Ryan Croft is a Minimal Techno and Deep House artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at Stage and Radio, Manchester on Fri, 31 Jul 2026.
+Ryan Croft is a Minimal Techno and Deep House artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at Stage and Radio, Manchester on Fri, 31 Jul 2026.
 
 Ryan Croft is a minimal techno and deep house artist based in United Kingdom, tracked on soundcheck, with 9 sets logged across Manchester. Often billed alongside Ande Rich, Sam Pills and Mai Tai. Next up: Stage and Radio, Manchester on Fri 31 Jul.
 
@@ -25,4 +25,4 @@ Ryan Croft is a minimal techno and deep house artist based in United Kingdom, tr
 
 Ande Rich, Sam Pills, Mai Tai
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/ryancroft/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/ryancroft/)*

@@ -1,6 +1,6 @@
 # Steve Taylor
 
-Steve Taylor is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at Purobeach Barcelona, Barcelona on Sat, 1 Aug 2026.
+Steve Taylor is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at Purobeach Barcelona, Barcelona on Sat, 1 Aug 2026.
 
 Steve Taylor is a house and disco artist tracked on soundcheck, with 29 sets logged across Amsterdam, Barcelona, London and Losangeles and 1 more. Often billed alongside Richard Earnshaw, Bongo Ben and Todd Terry. Next up: Purobeach Barcelona, Barcelona on Sat 1 Aug.
 
@@ -25,4 +25,4 @@ Steve Taylor is a house and disco artist tracked on soundcheck, with 29 sets log
 
 Richard Earnshaw, Bongo Ben, Todd Terry
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/stevetaylor/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/stevetaylor/)*

@@ -1,6 +1,6 @@
 # U YO
 
-U YO is a Techno and Deep House artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at Modeci, Seoul on Fri, 31 Jul 2026.
+U YO is a Techno and Deep House artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at Modeci, Seoul on Fri, 31 Jul 2026.
 
 U YO is a techno and deep house artist based in South Korea, tracked on soundcheck, with 7 sets logged across Seoul. Often billed alongside GLOW (KR), Gong and Lonho. Next up: Modeci, Seoul on Fri 31 Jul.
 
@@ -23,4 +23,4 @@ U YO is a techno and deep house artist based in South Korea, tracked on soundche
 
 GLOW (KR), Gong, Lonho
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/uyo/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/uyo/)*

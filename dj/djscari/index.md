@@ -1,14 +1,15 @@
 # Dj Scari
 
-Dj Scari is a Bass and House artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at Guild Row, Chicago on Sun, 2 Aug 2026.
+Dj Scari is a Bass and House artist with 2 upcoming club dates listed on soundcheck as of Fri, 31 Jul 2026, next at Guild Row, Chicago on Sun, 2 Aug 2026.
 
-Dj Scari is a bass and house artist tracked on soundcheck, with 22 sets logged across Chicago. Often billed alongside Relativity Lounge, 2tipz and swesdo. Next up: Guild Row, Chicago on Sun 2 Aug.
+Dj Scari is a bass and house artist tracked on soundcheck, with 23 sets logged across Chicago. Often billed alongside Relativity Lounge, 2tipz and swesdo. Next up: Guild Row, Chicago on Sun 2 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sun, 2 Aug 2026 | Guild Row | Chicago |
+| Sun, 2 Aug 2026 | Gracey’s | Chicago |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ Dj Scari is a bass and house artist tracked on soundcheck, with 22 sets logged a
 
 Relativity Lounge, 2tipz, swesdo
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/djscari/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/djscari/)*

@@ -1,6 +1,6 @@
 # kimmy6.6.6
 
-kimmy6.6.6 is a Techno and Acid artist with 3 upcoming club dates listed on soundcheck as of Thu, 30 Jul 2026, next at Casa Dao, Hong Kong on Fri, 31 Jul 2026.
+kimmy6.6.6 is a Techno and Acid artist with 3 upcoming club dates listed on soundcheck as of Fri, 31 Jul 2026, next at Casa Dao, Hong Kong on Fri, 31 Jul 2026.
 
 kimmy6.6.6 is a techno and acid artist based in China, tracked on soundcheck, with 28 sets logged across Hongkong. Often billed alongside Fischmonger, Kelvin T and Shawn (2). Next up: Casa Dao, Hongkong on Fri 31 Jul.
 
@@ -27,4 +27,4 @@ kimmy6.6.6 is a techno and acid artist based in China, tracked on soundcheck, wi
 
 Fischmonger, Kelvin T, Shawn (2)
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/kimmy6.6.6/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/kimmy6.6.6/)*

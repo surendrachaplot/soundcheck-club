@@ -1,6 +1,6 @@
 # Rabih Beaini
 
-Rabih Beaini is a Experimental and Electronica artist with 2 upcoming club dates listed on soundcheck as of Thu, 30 Jul 2026, next at Gaswerksiedlung, Berlin on Sat, 1 Aug 2026.
+Rabih Beaini is a Experimental and Electronica artist with 2 upcoming club dates listed on soundcheck as of Fri, 31 Jul 2026, next at Gaswerksiedlung, Berlin on Sat, 1 Aug 2026.
 
 Rabih Beaini is an experimental and electronica artist based in Germany, tracked on soundcheck, with 27 sets logged across Amsterdam, Berlin, Cork and Krakow and 3 more. Often billed alongside Mieko Suzuki, Assyouti and Deadbeat. Next up: Gaswerksiedlung, Berlin on Sat 1 Aug.
 
@@ -26,4 +26,4 @@ Rabih Beaini is an experimental and electronica artist based in Germany, tracked
 
 Mieko Suzuki, Assyouti, Deadbeat
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/rabihbeaini/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/rabihbeaini/)*

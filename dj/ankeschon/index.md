@@ -1,6 +1,6 @@
 # anke schön
 
-anke schön is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at Mastak, Warsaw on Fri, 31 Jul 2026.
+anke schön is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at Mastak, Warsaw on Fri, 31 Jul 2026.
 
 anke schön is a house and tech house artist tracked on soundcheck, with 23 sets logged across Warsaw. Often billed alongside zenwerk, aist (LT) and uiava. Next up: Mastak, Warsaw on Fri 31 Jul.
 
@@ -25,4 +25,4 @@ anke schön is a house and tech house artist tracked on soundcheck, with 23 sets
 
 zenwerk, aist (LT), uiava
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/ankeschon/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/ankeschon/)*

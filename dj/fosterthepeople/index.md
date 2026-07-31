@@ -1,6 +1,6 @@
 # Foster The People
 
-Foster The People is a House and Tech House artist with 2 upcoming club dates listed on soundcheck as of Thu, 30 Jul 2026, next at Village Underground, London on Fri, 31 Jul 2026.
+Foster The People is a House and Tech House artist with 2 upcoming club dates listed on soundcheck as of Fri, 31 Jul 2026, next at Village Underground, London on Fri, 31 Jul 2026.
 
 Foster The People is a house and tech house artist based in United States of America, tracked on soundcheck, with 7 sets logged across Barcelona, Berlin, Ibiza and Lisbon and 2 more. Often billed alongside Ale Hope, Flavio Folco and Mahmut Orhan. Next up: Village Underground, London on Fri 31 Jul.
 
@@ -23,4 +23,4 @@ Foster The People is a house and tech house artist based in United States of Ame
 
 Ale Hope, Flavio Folco, Mahmut Orhan
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/fosterthepeople/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/fosterthepeople/)*

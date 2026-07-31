@@ -1,6 +1,6 @@
 # Rap Saunders
 
-Rap Saunders is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at radial, London on Sat, 15 Aug 2026.
+Rap Saunders is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at radial, London on Sat, 15 Aug 2026.
 
 Rap Saunders is a house and deep house artist based in United Kingdom, tracked on soundcheck, with 19 sets logged across London and Stockholm. Often billed alongside Kojay, Will B and A Guy Called Gerald. Next up: radial, London on Sat 15 Aug.
 
@@ -25,4 +25,4 @@ Rap Saunders is a house and deep house artist based in United Kingdom, tracked o
 
 Kojay, Will B, A Guy Called Gerald
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/rapsaunders/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/rapsaunders/)*

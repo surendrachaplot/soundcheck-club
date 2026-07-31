@@ -1,6 +1,6 @@
 # JULIEN (NYC)
 
-JULIEN (NYC) is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at TBA - Bushwick, New York City on Fri, 31 Jul 2026.
+JULIEN (NYC) is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at TBA - Bushwick, New York City on Fri, 31 Jul 2026.
 
 JULIEN (NYC) is a techno and house artist based in United States of America, tracked on soundcheck, with 5 sets logged across Newyorkcity and Tbilisi. Often billed alongside Knostalgia, 3JJJ and Analog Soul. Next up: TBA - Bushwick, Newyorkcity on Fri 31 Jul.
 
@@ -21,4 +21,4 @@ JULIEN (NYC) is a techno and house artist based in United States of America, tra
 
 Knostalgia, 3JJJ, Analog Soul
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/juliennyc/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/juliennyc/)*

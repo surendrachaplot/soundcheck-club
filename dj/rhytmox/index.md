@@ -1,6 +1,6 @@
 # RHYTMOX
 
-RHYTMOX is a Psytrance and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at Dürener Badesee, Cologne on Fri, 28 Aug 2026.
+RHYTMOX is a Psytrance and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at Dürener Badesee, Cologne on Fri, 28 Aug 2026.
 
 RHYTMOX is a psytrance and techno artist based in Germany, tracked on soundcheck, with 58 sets logged across Berlin and Cologne. Often billed alongside Texo, monervo and Momentune. Next up: Dürener Badesee, Cologne on Fri 28 Aug.
 
@@ -25,4 +25,4 @@ RHYTMOX is a psytrance and techno artist based in Germany, tracked on soundcheck
 
 Texo, monervo, Momentune
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/rhytmox/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/rhytmox/)*

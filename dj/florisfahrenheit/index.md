@@ -1,6 +1,6 @@
 # Floris Fahrenheit
 
-Floris Fahrenheit is a House and Club artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at SISSI'S Amsterdam, Amsterdam on Fri, 31 Jul 2026.
+Floris Fahrenheit is a House and Club artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at SISSI'S Amsterdam, Amsterdam on Fri, 31 Jul 2026.
 
 Floris Fahrenheit is a house and club artist based in Netherlands, tracked on soundcheck, with 38 sets logged across Amsterdam, Istanbul, Milan and Rotterdam and 1 more. Often billed alongside Raven Karijo, AUTOFLOWER and Beste Hira. Next up: SISSI'S Amsterdam, Amsterdam on Fri 31 Jul.
 
@@ -25,4 +25,4 @@ Floris Fahrenheit is a house and club artist based in Netherlands, tracked on so
 
 Raven Karijo, AUTOFLOWER, Beste Hira
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/florisfahrenheit/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/florisfahrenheit/)*

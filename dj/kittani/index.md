@@ -1,6 +1,6 @@
 # Kittani
 
-Kittani is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at Aaja Basement, London on Fri, 31 Jul 2026.
+Kittani is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at Aaja Basement, London on Fri, 31 Jul 2026.
 
 Kittani is a techno and trance artist tracked on soundcheck, with 9 sets logged across London. Often billed alongside Sophia Nicole, DJ VALENTINE and MUSICKLUNATIC. Next up: Aaja Basement, London on Fri 31 Jul.
 
@@ -25,4 +25,4 @@ Kittani is a techno and trance artist tracked on soundcheck, with 9 sets logged 
 
 Sophia Nicole, DJ VALENTINE, MUSICKLUNATIC
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/kittani/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/kittani/)*

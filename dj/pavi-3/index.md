@@ -1,6 +1,6 @@
 # PAVI (3)
 
-PAVI (3) is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at Poolen, Copenhagen on Sat, 8 Aug 2026.
+PAVI (3) is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at Poolen, Copenhagen on Sat, 8 Aug 2026.
 
 PAVI (3) is a techno and house artist tracked on soundcheck, with 9 sets logged across Copenhagen. Often billed alongside Johannes Astrup, Elliott Taguchi and Milo Makua. Next up: Poolen, Copenhagen on Sat 8 Aug.
 
@@ -25,4 +25,4 @@ PAVI (3) is a techno and house artist tracked on soundcheck, with 9 sets logged 
 
 Johannes Astrup, Elliott Taguchi, Milo Makua
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/pavi-3/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/pavi-3/)*

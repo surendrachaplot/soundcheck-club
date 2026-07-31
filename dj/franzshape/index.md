@@ -1,6 +1,6 @@
 # Franz & Shape
 
-Franz & Shape is a Techno and Industrial artist with 2 upcoming club dates listed on soundcheck as of Thu, 30 Jul 2026, next at Catch One, Los Angeles on Sat, 1 Aug 2026.
+Franz & Shape is a Techno and Industrial artist with 2 upcoming club dates listed on soundcheck as of Fri, 31 Jul 2026, next at Catch One, Los Angeles on Sat, 1 Aug 2026.
 
 Franz & Shape are a techno and industrial duo based in Italy, tracked on soundcheck, with 7 sets logged across Berlin, Losangeles, Rome and Sanfrancisco and 1 more. Often billed alongside Amatric, Berlin Bunny and Club Drippy. Next up: Catch One, Losangeles on Sat 1 Aug.
 
@@ -23,4 +23,4 @@ Franz & Shape are a techno and industrial duo based in Italy, tracked on soundch
 
 Amatric, Berlin Bunny, Club Drippy
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/franzshape/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/franzshape/)*

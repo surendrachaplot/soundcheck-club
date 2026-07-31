@@ -1,6 +1,6 @@
 # Darryn Jones
 
-Darryn Jones is a Disco and House artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at smartbar, Chicago on Sat, 15 Aug 2026.
+Darryn Jones is a Disco and House artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at smartbar, Chicago on Sat, 15 Aug 2026.
 
 Darryn Jones is a disco and house artist tracked on soundcheck, with 42 sets logged across Antwerp, Auckland, Barcelona and Berlin and 13 more. Often billed alongside Material (1), Ge-ology and Rich Medina. Next up: smartbar, Chicago on Sat 15 Aug.
 
@@ -25,4 +25,4 @@ Darryn Jones is a disco and house artist tracked on soundcheck, with 42 sets log
 
 Material (1), Ge-ology, Rich Medina
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/darrynjones/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/darrynjones/)*

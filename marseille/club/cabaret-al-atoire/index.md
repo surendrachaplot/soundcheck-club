@@ -1,6 +1,6 @@
 # Cabaret  Aléatoire
 
-Cabaret  Aléatoire is a music venue in Marseille with 2 upcoming nights listed on soundcheck as of Thu, 30 Jul 2026; the next is "ORIGINS CABARET RISE MARSEILLE" on Sat, 5 Sept 2026.
+Cabaret  Aléatoire is a music venue in Marseille with 2 upcoming nights listed on soundcheck as of Fri, 31 Jul 2026; the next is "ORIGINS CABARET RISE MARSEILLE" on Sat, 5 Sept 2026.
 
 Cabaret  Aléatoire is a music venue in Marseille listed on soundcheck. 2 upcoming nights, with line-ups including Angel Karel and Autechre. Browse upcoming dates, start times and who's playing. 41 Rue Jobin, 13003, Marseille.
 
@@ -15,4 +15,4 @@ Cabaret  Aléatoire is a music venue in Marseille listed on soundcheck. 2 upcomi
 
 41 Rue Jobin, 13003, Marseille, Marseille
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/marseille/club/cabaret-al-atoire/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/marseille/club/cabaret-al-atoire/)*

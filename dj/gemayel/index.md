@@ -1,6 +1,6 @@
 # Gemayel
 
-Gemayel is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at Kaņepes Kultūras Centrs, Riga on Fri, 31 Jul 2026.
+Gemayel is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at Kaņepes Kultūras Centrs, Riga on Fri, 31 Jul 2026.
 
 Gemayel is a techno and house artist based in Lithuania, tracked on soundcheck, with 5 sets logged across Berlin, Madrid and Riga. Often billed alongside ANGEDONIYA, Audino and Basso Mata. Next up: Kaņepes Kultūras Centrs, Riga on Fri 31 Jul.
 
@@ -21,4 +21,4 @@ Gemayel is a techno and house artist based in Lithuania, tracked on soundcheck, 
 
 ANGEDONIYA, Audino, Basso Mata
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/gemayel/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/gemayel/)*

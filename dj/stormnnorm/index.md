@@ -1,6 +1,6 @@
 # Stormn Norm
 
-Stormn Norm is a Dubstep and Bass artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at Collingwood Basement, Melbourne on Sat, 1 Aug 2026.
+Stormn Norm is a Dubstep and Bass artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at Collingwood Basement, Melbourne on Sat, 1 Aug 2026.
 
 Stormn Norm is a dubstep and bass artist based in New Zealand, tracked on soundcheck, with 23 sets logged across Melbourne. Often billed alongside Emelyne, Pugilist and Sistym. Next up: Collingwood Basement, Melbourne on Sat 1 Aug.
 
@@ -25,4 +25,4 @@ Stormn Norm is a dubstep and bass artist based in New Zealand, tracked on soundc
 
 Emelyne, Pugilist, Sistym
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/stormnnorm/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/stormnnorm/)*

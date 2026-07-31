@@ -1,6 +1,6 @@
 # Plein Publiek
 
-Plein Publiek is a music venue in Antwerp with 3 upcoming nights listed on soundcheck as of Thu, 30 Jul 2026; the next is "High Rollerz: Drum&Bass Rooftop Edition" on Fri, 31 Jul 2026.
+Plein Publiek is a music venue in Antwerp with 3 upcoming nights listed on soundcheck as of Fri, 31 Jul 2026; the next is "High Rollerz: Drum&Bass Rooftop Edition" on Fri, 31 Jul 2026.
 
 Plein Publiek is a music venue in Antwerp listed on soundcheck. 3 upcoming nights, with line-ups including Expensive KVR, Hiraeth, Mutex and Synoxis. Browse upcoming dates, start times and who's playing. Zonnestroomstraat 2A, 2020 Antwerpen, België.
 
@@ -16,4 +16,4 @@ Plein Publiek is a music venue in Antwerp listed on soundcheck. 3 upcoming night
 
 Zonnestroomstraat 2A, 2020 Antwerpen, België, Antwerp
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/antwerp/club/plein-publiek/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/antwerp/club/plein-publiek/)*

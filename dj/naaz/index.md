@@ -1,6 +1,6 @@
 # NAAZ
 
-NAAZ is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at Skatecafe, Amsterdam on Fri, 31 Jul 2026.
+NAAZ is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at Skatecafe, Amsterdam on Fri, 31 Jul 2026.
 
 NAAZ is a techno and house artist based in Estonia, tracked on soundcheck, with 13 sets logged across Amsterdam, Manchester and Rotterdam. Often billed alongside Thoms Traxx, Beste Hira and Jaipa. Next up: Skatecafe, Amsterdam on Fri 31 Jul.
 
@@ -25,4 +25,4 @@ NAAZ is a techno and house artist based in Estonia, tracked on soundcheck, with 
 
 Thoms Traxx, Beste Hira, Jaipa
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/naaz/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/naaz/)*

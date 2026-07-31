@@ -1,6 +1,6 @@
 # RHYTHMICK
 
-RHYTHMICK is a Progressive House and Tech House artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at Electric Garden, Dublin on Sat, 8 Aug 2026.
+RHYTHMICK is a Progressive House and Tech House artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at Electric Garden, Dublin on Sat, 8 Aug 2026.
 
 RHYTHMICK is a progressive house and tech house artist based in Ireland, tracked on soundcheck, with 12 sets logged across Dublin. Often billed alongside Surka (1), Collie (1) and Fio Fa. Next up: Electric Garden, Dublin on Sat 8 Aug.
 
@@ -25,4 +25,4 @@ RHYTHMICK is a progressive house and tech house artist based in Ireland, tracked
 
 Surka (1), Collie (1), Fio Fa
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/rhythmick/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/rhythmick/)*

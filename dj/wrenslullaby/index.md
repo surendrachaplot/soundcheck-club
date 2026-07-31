@@ -1,6 +1,6 @@
 # Wren's Lullaby
 
-Wren's Lullaby is a Techno and Hardcore artist with 2 upcoming club dates listed on soundcheck as of Thu, 30 Jul 2026, next at The Chocolate Factory, New York City on Fri, 31 Jul 2026.
+Wren's Lullaby is a Techno and Hardcore artist with 2 upcoming club dates listed on soundcheck as of Fri, 31 Jul 2026, next at The Chocolate Factory, New York City on Fri, 31 Jul 2026.
 
 Wren's Lullaby is a techno and hardcore artist based in United States of America, tracked on soundcheck, with 23 sets logged across Berlin and Newyorkcity. Often billed alongside TS Julien, Megan Rosengarten and SENGA. Next up: The Chocolate Factory, Newyorkcity on Fri 31 Jul.
 
@@ -26,4 +26,4 @@ Wren's Lullaby is a techno and hardcore artist based in United States of America
 
 TS Julien, Megan Rosengarten, SENGA
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/wrenslullaby/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/wrenslullaby/)*

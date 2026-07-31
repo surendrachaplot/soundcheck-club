@@ -1,6 +1,6 @@
 # Karamustan
 
-Karamustan is a Techno and Trance artist with 4 upcoming club dates listed on soundcheck as of Thu, 30 Jul 2026, next at Eden, Ibiza on Tue, 4 Aug 2026.
+Karamustan is a Techno and Trance artist with 4 upcoming club dates listed on soundcheck as of Fri, 31 Jul 2026, next at Eden, Ibiza on Tue, 4 Aug 2026.
 
 Karamustan is a techno and trance artist based in Germany, tracked on soundcheck, with 34 sets logged across Barcelona, Berlin, Cologne and Dusseldorf and 7 more. Often billed alongside Isabelle Beaucamp, EDNA and Holy Priest. Next up: Eden, Ibiza on Tue 4 Aug.
 
@@ -28,4 +28,4 @@ Karamustan is a techno and trance artist based in Germany, tracked on soundcheck
 
 Isabelle Beaucamp, EDNA, Holy Priest
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/karamustan/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/karamustan/)*

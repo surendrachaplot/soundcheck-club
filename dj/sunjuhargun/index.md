@@ -1,6 +1,6 @@
 # Sunju Hargun
 
-Sunju Hargun is a Techno and House artist with 4 upcoming club dates listed on soundcheck as of Thu, 30 Jul 2026, next at Gaffe, London on Sat, 1 Aug 2026.
+Sunju Hargun is a Techno and House artist with 4 upcoming club dates listed on soundcheck as of Fri, 31 Jul 2026, next at Gaffe, London on Sat, 1 Aug 2026.
 
 Sunju Hargun is a techno and house artist tracked on soundcheck, with 86 sets logged across Amsterdam, Bali, Bangkok and Barcelona and 24 more. Often billed alongside Kia (AU), Woody92 and DJ MARIA.. Next up: Gaffe, London on Sat 1 Aug.
 
@@ -28,4 +28,4 @@ Sunju Hargun is a techno and house artist tracked on soundcheck, with 86 sets lo
 
 Kia (AU), Woody92, DJ MARIA.
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/sunjuhargun/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/sunjuhargun/)*

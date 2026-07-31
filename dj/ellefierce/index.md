@@ -1,6 +1,6 @@
 # ELLE FIERCE
 
-ELLE FIERCE is a Techno and Bass artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at Den Anden Side, Copenhagen on Fri, 7 Aug 2026.
+ELLE FIERCE is a Techno and Bass artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at Den Anden Side, Copenhagen on Fri, 7 Aug 2026.
 
 ELLE FIERCE is a techno and bass artist tracked on soundcheck, with 18 sets logged across Amsterdam, Berlin, Cologne and Copenhagen and 3 more. Often billed alongside Suzie The Cockroach, dj g2g and 3DMA. Next up: Den Anden Side, Copenhagen on Fri 7 Aug.
 
@@ -25,4 +25,4 @@ ELLE FIERCE is a techno and bass artist tracked on soundcheck, with 18 sets logg
 
 Suzie The Cockroach, dj g2g, 3DMA
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/ellefierce/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/ellefierce/)*

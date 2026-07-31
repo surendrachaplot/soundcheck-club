@@ -1,18 +1,18 @@
 # NOBODYISALICE
 
-NOBODYISALICE is a House and Electro artist with 2 upcoming club dates listed on soundcheck as of Thu, 30 Jul 2026, next at Studio Stereo, Barcelona on Thu, 30 Jul 2026.
+NOBODYISALICE is a House and Electro artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at Switch Bar, Barcelona on Wed, 5 Aug 2026.
 
-NOBODYISALICE is a house and electro artist based in Spain, tracked on soundcheck, with 26 sets logged across Barcelona. Often billed alongside Lauriee, PAZ WAZ HERE and XipNoize. Next up: Studio Stereo, Barcelona on Thu 30 Jul.
+NOBODYISALICE is a house and electro artist based in Spain, tracked on soundcheck, with 26 sets logged across Barcelona. Often billed alongside Lauriee, PAZ WAZ HERE and XipNoize. Next up: Switch Bar, Barcelona on Wed 5 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Thu, 30 Jul 2026 | Studio Stereo | Barcelona |
 | Wed, 5 Aug 2026 | Switch Bar | Barcelona |
 
 ## Recently played
 
+- Studio Stereo, Barcelona — Thu, 30 Jul 2026
 - TBA - private rooftop (marina metro station), Barcelona — Sun, 21 Jun 2026
 - Forum Station, Barcelona — Fri, 1 May 2026
 - 7833 Soundlab, Barcelona — Sat, 18 Apr 2026
@@ -20,10 +20,9 @@ NOBODYISALICE is a house and electro artist based in Spain, tracked on soundchec
 - 7833 Soundlab, Barcelona — Sat, 21 Feb 2026
 - PNC Radio, Barcelona — Fri, 16 Jan 2026
 - TBA - CALLE BADAJOZ 115, 08018 BARCELONA, Barcelona — Wed, 31 Dec 2025
-- Dr. Dou Social Club, Barcelona — Wed, 3 Dec 2025
 
 ## Shares bills with
 
 Lauriee, PAZ WAZ HERE, XipNoize
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/nobodyisalice/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/nobodyisalice/)*

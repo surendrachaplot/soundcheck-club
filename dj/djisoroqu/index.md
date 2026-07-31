@@ -1,6 +1,6 @@
 # Isoroqu
 
-Isoroqu is a House and Deep House artist with 2 upcoming club dates listed on soundcheck as of Thu, 30 Jul 2026, next at Shibuya Club Ball, Tokyo on Fri, 31 Jul 2026.
+Isoroqu is a House and Deep House artist with 2 upcoming club dates listed on soundcheck as of Fri, 31 Jul 2026, next at Shibuya Club Ball, Tokyo on Fri, 31 Jul 2026.
 
 Isoroqu is a house and deep house artist based in Japan, tracked on soundcheck, with 18 sets logged across Tokyo. Often billed alongside Manami T.B, Gara and Charlie. Next up: Shibuya Club Ball, Tokyo on Fri 31 Jul.
 
@@ -26,4 +26,4 @@ Isoroqu is a house and deep house artist based in Japan, tracked on soundcheck, 
 
 Manami T.B, Gara, Charlie
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/djisoroqu/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/djisoroqu/)*

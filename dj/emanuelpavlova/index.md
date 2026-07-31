@@ -1,6 +1,6 @@
 # Emanuel Pavlova
 
-Emanuel Pavlova is a House and Electronica artist with 2 upcoming club dates listed on soundcheck as of Thu, 30 Jul 2026, next at Cellar, London on Sat, 15 Aug 2026.
+Emanuel Pavlova is a House and Electronica artist with 2 upcoming club dates listed on soundcheck as of Fri, 31 Jul 2026, next at Cellar, London on Sat, 15 Aug 2026.
 
 Emanuel Pavlova is a house and electronica artist based in United Kingdom, tracked on soundcheck, with 6 sets logged across London. Often billed alongside Bena, Chameleonas and Gaby D'Annunzio. Next up: Cellar, London on Sat 15 Aug.
 
@@ -22,4 +22,4 @@ Emanuel Pavlova is a house and electronica artist based in United Kingdom, track
 
 Bena, Chameleonas, Gaby D'Annunzio
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/emanuelpavlova/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/emanuelpavlova/)*

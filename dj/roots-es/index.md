@@ -1,6 +1,6 @@
 # Roots (ES)
 
-Roots (ES) is a House and Dub artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at ÆDEN, Berlin on Fri, 31 Jul 2026.
+Roots (ES) is a House and Dub artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at ÆDEN, Berlin on Fri, 31 Jul 2026.
 
 Roots (ES) is a house and dub artist based in Spain, tracked on soundcheck, with 13 sets logged across Bangkok, Berlin, Bristol and Hamburg and 5 more. Often billed alongside DJ Q, 1 AM (1) and Al Ex. Next up: ÆDEN, Berlin on Fri 31 Jul.
 
@@ -25,4 +25,4 @@ Roots (ES) is a house and dub artist based in Spain, tracked on soundcheck, with
 
 DJ Q, 1 AM (1), Al Ex
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/roots-es/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/roots-es/)*

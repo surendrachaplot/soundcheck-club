@@ -1,6 +1,6 @@
 # Front De Cadeaux
 
-Front De Cadeaux is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at Beursschouwburg, Brussels on Fri, 16 Oct 2026.
+Front De Cadeaux is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at Beursschouwburg, Brussels on Fri, 16 Oct 2026.
 
 Front De Cadeaux is a techno and house artist based in Belgium, tracked on soundcheck, with 11 sets logged across Barcelona, Berlin, Brussels and Milan and 2 more. Often billed alongside Altinbas, Alessandro Adriani and DTM Funk. Next up: Beursschouwburg, Brussels on Fri 16 Oct.
 
@@ -25,4 +25,4 @@ Front De Cadeaux is a techno and house artist based in Belgium, tracked on sound
 
 Altinbas, Alessandro Adriani, DTM Funk
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/frontdecadeaux/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/frontdecadeaux/)*

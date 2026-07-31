@@ -1,8 +1,8 @@
 # Humboldthain Club
 
-Humboldthain Club is a music venue in Berlin with 23 upcoming nights listed on soundcheck as of Thu, 30 Jul 2026; the next is "TRIEBWERK Community Party / Live Acts + Art Exhibition" on Fri, 31 Jul 2026.
+Humboldthain Club is a music venue in Berlin with 24 upcoming nights listed on soundcheck as of Fri, 31 Jul 2026; the next is "TRIEBWERK Community Party / Live Acts + Art Exhibition" on Fri, 31 Jul 2026.
 
-Humboldthain Club is a music venue in Berlin listed on soundcheck. 23 upcoming nights, with line-ups including Athina, bump.FX, cun_t and DJ Buona Sara and 2 more. Browse upcoming dates, start times and who's playing. Hochstraße 46; 13357 Berlin; Germany.
+Humboldthain Club is a music venue in Berlin listed on soundcheck. 24 upcoming nights, with line-ups including Athina, bump.FX, cun_t and DJ Buona Sara and 2 more. Browse upcoming dates, start times and who's playing. Hochstraße 46; 13357 Berlin; Germany.
 
 ## What's on
 
@@ -23,4 +23,4 @@ Humboldthain Club is a music venue in Berlin listed on soundcheck. 23 upcoming n
 
 Hochstraße 46; 13357 Berlin; Germany, Berlin
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/humboldthain-club/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/humboldthain-club/)*

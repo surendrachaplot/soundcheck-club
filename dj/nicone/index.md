@@ -1,6 +1,6 @@
 # Niconé
 
-Niconé is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at Phoxxi Green Area, Hamburg on Sat, 8 Aug 2026.
+Niconé is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at Phoxxi Green Area, Hamburg on Sat, 8 Aug 2026.
 
 Niconé is a techno and house artist based in Germany, tracked on soundcheck, with 60 sets logged across Amsterdam, Barcelona, Basel and Berlin and 10 more. Often billed alongside Dirty Doering, Solvane and Prismode. Next up: Phoxxi Green Area, Hamburg on Sat 8 Aug.
 
@@ -25,4 +25,4 @@ Niconé is a techno and house artist based in Germany, tracked on soundcheck, wi
 
 Dirty Doering, Solvane, Prismode
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/nicone/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/nicone/)*

@@ -1,6 +1,6 @@
 # 160dl Studios
 
-160dl Studios is a music venue in London with 1 upcoming night listed on soundcheck as of Thu, 30 Jul 2026; the next is "ILĀ Live + DJs Bimini & ABSOLUTE. Closing residency night at STANDALONE" on Fri, 31 Jul 2026.
+160dl Studios is a music venue in London with 1 upcoming night listed on soundcheck as of Fri, 31 Jul 2026; the next is "ILĀ Live + DJs Bimini & ABSOLUTE. Closing residency night at STANDALONE" on Fri, 31 Jul 2026.
 
 160dl Studios is a music venue in London listed on soundcheck. 1 upcoming night, with line-ups including ABSOLUTE. and Bimini. Browse upcoming dates, start times and who's playing. 160DL studios, 160 Dalston Ln, London E8 1NG.
 
@@ -14,4 +14,4 @@
 
 160DL studios, 160 Dalston Ln, London E8 1NG, London
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/london/club/160dl-studios/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/london/club/160dl-studios/)*

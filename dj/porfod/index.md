@@ -1,6 +1,6 @@
 # porfod
 
-porfod is a Hardcore and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at Teritorija, Riga on Fri, 31 Jul 2026.
+porfod is a Hardcore and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at Teritorija, Riga on Fri, 31 Jul 2026.
 
 porfod is a hardcore and techno artist tracked on soundcheck, with 40 sets logged across Riga and Tallinn. Often billed alongside hitomori, maniken05 and PERCOSET. Next up: Teritorija, Riga on Fri 31 Jul.
 
@@ -25,4 +25,4 @@ porfod is a hardcore and techno artist tracked on soundcheck, with 40 sets logge
 
 hitomori, maniken05, PERCOSET
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/porfod/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/porfod/)*

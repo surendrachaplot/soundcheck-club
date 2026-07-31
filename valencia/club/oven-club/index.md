@@ -1,14 +1,13 @@
 # Oven Club
 
-Oven Club is a music venue in Valencia with 19 upcoming nights listed on soundcheck as of Thu, 30 Jul 2026; the next is "Set Point: Marc Strap + Juanjo Tur + Sara Freckled" on Thu, 30 Jul 2026.
+Oven Club is a music venue in Valencia with 18 upcoming nights listed on soundcheck as of Fri, 31 Jul 2026; the next is "Pizzicatto + Briella / Bar: Lazy Step Collective" on Fri, 31 Jul 2026.
 
-Oven Club is a music venue in Valencia listed on soundcheck. 19 upcoming nights, with line-ups including Aguirre, Ariezzz, Baloo and BAR (DE) and 2 more. Browse upcoming dates, start times and who's playing. Gran Vía Germanías 31 Valencia.
+Oven Club is a music venue in Valencia listed on soundcheck. 18 upcoming nights, with line-ups including Aguirre, Ariezzz, Baloo and BAR (DE) and 2 more. Browse upcoming dates, start times and who's playing. Gran Vía Germanías 31 Valencia.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Thu, 30 Jul 2026 | Set Point: Marc Strap + Juanjo Tur + Sara Freckled | Juanjo Tur |
 | Fri, 31 Jul 2026 | Pizzicatto + Briella / Bar: Lazy Step Collective | Pizzicatto |
 | Sat, 1 Aug 2026 | Whitenoise / Bar: Nate Cabrera & Domscott | Whitenoise (PT) |
 | Wed, 5 Aug 2026 | Volte b2b Giorgio Bonetti |  |
@@ -18,9 +17,10 @@ Oven Club is a music venue in Valencia listed on soundcheck. 19 upcoming nights,
 | Wed, 12 Aug 2026 | SOULEAST b2b Gregori | Gregori |
 | Thu, 13 Aug 2026 | ERA: F-Kid + Tatiana Roddrigo + Fran.Cis | Fran.cis |
 | Fri, 14 Aug 2026 | Total: Hello Sasy + Ariezzz + Achav3 / Bar: VELMOJAH (Bcn) & Nomart | Ariezzz, Dystorizon, Hello Sasy |
+| Sat, 15 Aug 2026 | Pau Pérez + Kamiel + Melo + Santiago Guilá / Bar: Dalsy & Nomart | Melo (ES), Pau Pérez |
 
 ## Address
 
 Gran Vía Germanías 31 Valencia, Valencia
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/valencia/club/oven-club/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/valencia/club/oven-club/)*

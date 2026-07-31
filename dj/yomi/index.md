@@ -1,6 +1,6 @@
 # Yomi
 
-Yomi is a Techno and Electro artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at Shelter, Seoul on Fri, 31 Jul 2026.
+Yomi is a Techno and Electro artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at Shelter, Seoul on Fri, 31 Jul 2026.
 
 Yomi is a techno and electro artist tracked on soundcheck, with 70 sets logged across Mexicocity, Paris, Seoul and Tokyo and 1 more. Often billed alongside Honn, MOVIN.KR and rerekat. Next up: Shelter, Seoul on Fri 31 Jul.
 
@@ -25,4 +25,4 @@ Yomi is a techno and electro artist tracked on soundcheck, with 70 sets logged a
 
 Honn, MOVIN.KR, rerekat
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/yomi/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/yomi/)*

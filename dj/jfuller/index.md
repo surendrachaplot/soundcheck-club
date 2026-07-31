@@ -1,6 +1,6 @@
 # JFULLER
 
-JFULLER is a House artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at Starlane Pizza Bar, London on Fri, 7 Aug 2026.
+JFULLER is a House artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at Starlane Pizza Bar, London on Fri, 7 Aug 2026.
 
 JFULLER is a house artist based in United Kingdom, tracked on soundcheck, with 3 sets logged across London. Often billed alongside Robbie Cullen, Dance With Sakura and DeMarco (IRL). Next up: Starlane Pizza Bar, London on Fri 7 Aug.
 
@@ -19,4 +19,4 @@ JFULLER is a house artist based in United Kingdom, tracked on soundcheck, with 3
 
 Robbie Cullen, Dance With Sakura, DeMarco (IRL)
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/jfuller/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/jfuller/)*

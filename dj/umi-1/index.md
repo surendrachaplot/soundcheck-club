@@ -1,6 +1,6 @@
 # UMÎ
 
-UMÎ is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at Valerie Toronto, Toronto on Sat, 15 Aug 2026.
+UMÎ is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at Valerie Toronto, Toronto on Sat, 15 Aug 2026.
 
 UMÎ is a house and tech house artist tracked on soundcheck, with 14 sets logged across Toronto. Often billed alongside Jonathan Rosa, Pasha and Adrian Salcedo. Next up: Valerie Toronto, Toronto on Sat 15 Aug.
 
@@ -25,4 +25,4 @@ UMÎ is a house and tech house artist tracked on soundcheck, with 14 sets logged
 
 Jonathan Rosa, Pasha, Adrian Salcedo
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/umi-1/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/umi-1/)*

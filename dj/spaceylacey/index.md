@@ -1,6 +1,6 @@
 # Spacey Lacey
 
-Spacey Lacey is a Techno and Breakbeat artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at Podlasie Club, Chicago on Sat, 8 Aug 2026.
+Spacey Lacey is a Techno and Breakbeat artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at Podlasie Club, Chicago on Sat, 8 Aug 2026.
 
 Spacey Lacey is a techno and breakbeat artist based in United States of America, tracked on soundcheck, with 16 sets logged across Chicago, Detroit, Newyorkcity and Sanfrancisco. Often billed alongside Chachi Guerrero, Clarisa Kimskii and CQQCHiFRUIT. Next up: Podlasie Club, Chicago on Sat 8 Aug.
 
@@ -25,4 +25,4 @@ Spacey Lacey is a techno and breakbeat artist based in United States of America,
 
 Chachi Guerrero, Clarisa Kimskii, CQQCHiFRUIT
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/spaceylacey/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/spaceylacey/)*

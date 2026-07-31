@@ -1,6 +1,6 @@
 # Fluffi
 
-Fluffi is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at Kater, Berlin on Fri, 28 Aug 2026.
+Fluffi is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at Kater, Berlin on Fri, 28 Aug 2026.
 
 Fluffi is a house and techno artist based in United States of America, tracked on soundcheck, with 24 sets logged across Berlin, Hamburg, Mexicocity and Newyorkcity. Often billed alongside materia hache, Jimmie and Kidcat. Next up: Kater, Berlin on Fri 28 Aug.
 
@@ -25,4 +25,4 @@ Fluffi is a house and techno artist based in United States of America, tracked o
 
 materia hache, Jimmie, Kidcat
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/fluffi/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/fluffi/)*

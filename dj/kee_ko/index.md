@@ -1,6 +1,6 @@
 # Kee_ko
 
-Kee_ko is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at Carmo Rooftop, Lisbon on Sat, 1 Aug 2026.
+Kee_ko is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at Carmo Rooftop, Lisbon on Sat, 1 Aug 2026.
 
 Kee_ko is a house and techno artist tracked on soundcheck, with 176 sets logged across Lisbon, London and Porto. Often billed alongside Jorge Caiado, John-E and Gear. Next up: Carmo Rooftop, Lisbon on Sat 1 Aug.
 
@@ -25,4 +25,4 @@ Kee_ko is a house and techno artist tracked on soundcheck, with 176 sets logged 
 
 Jorge Caiado, John-E, Gear
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/kee_ko/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/kee_ko/)*

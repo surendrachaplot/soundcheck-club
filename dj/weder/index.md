@@ -1,6 +1,6 @@
 # WEDER
 
-WEDER is a House and Progressive House artist with 2 upcoming club dates listed on soundcheck as of Thu, 30 Jul 2026, next at Süss War Gestern, Berlin on Sat, 1 Aug 2026.
+WEDER is a House and Progressive House artist with 2 upcoming club dates listed on soundcheck as of Fri, 31 Jul 2026, next at Süss War Gestern, Berlin on Sat, 1 Aug 2026.
 
 WEDER is a house and progressive house artist based in Germany, tracked on soundcheck, with 13 sets logged across Berlin, Buenosaires and Hamburg. Often billed alongside DAAS (1), Better Call Paul and David Hohme. Next up: Süss War Gestern, Berlin on Sat 1 Aug.
 
@@ -26,4 +26,4 @@ WEDER is a house and progressive house artist based in Germany, tracked on sound
 
 DAAS (1), Better Call Paul, David Hohme
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/weder/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/weder/)*

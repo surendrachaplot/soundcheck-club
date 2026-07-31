@@ -1,6 +1,6 @@
 # Omari
 
-Omari is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at Redlight, Manchester on Sat, 1 Aug 2026.
+Omari is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at Redlight, Manchester on Sat, 1 Aug 2026.
 
 Omari is a techno and house artist tracked on soundcheck, with 102 sets logged across Amsterdam, Barcelona, Bristol and Brussels and 13 more. Often billed alongside Omari King, sqip and Omari Jazz. Next up: Redlight, Manchester on Sat 1 Aug.
 
@@ -25,4 +25,4 @@ Omari is a techno and house artist tracked on soundcheck, with 102 sets logged a
 
 Omari King, sqip, Omari Jazz
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/omari/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/omari/)*

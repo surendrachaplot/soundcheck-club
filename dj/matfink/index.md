@@ -1,6 +1,6 @@
 # Mat Fink
 
-Mat Fink is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at Kaos Berlin, Berlin on Sun, 9 Aug 2026.
+Mat Fink is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at Kaos Berlin, Berlin on Sun, 9 Aug 2026.
 
 Mat Fink is a house and disco artist based in United States of America, tracked on soundcheck, with 55 sets logged across Berlin. Often billed alongside Mini Nik, Dominik Szczepaniak and Balthazar Martinez. Next up: Kaos Berlin, Berlin on Sun 9 Aug.
 
@@ -25,4 +25,4 @@ Mat Fink is a house and disco artist based in United States of America, tracked 
 
 Mini Nik, Dominik Szczepaniak, Balthazar Martinez
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/matfink/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/matfink/)*

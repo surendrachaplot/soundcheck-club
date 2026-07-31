@@ -1,6 +1,6 @@
 # RATONC1T0
 
-RATONC1T0 is a Techno and Electro artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at Sinners and Saints, Washington DC on Fri, 31 Jul 2026.
+RATONC1T0 is a Techno and Electro artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at Sinners and Saints, Washington DC on Fri, 31 Jul 2026.
 
 RATONC1T0 is a techno and electro artist based in Puerto Rico, tracked on soundcheck, with 17 sets logged across Newyorkcity and Washingtondc. Often billed alongside Ether Pleaser, DAIYAH and KYRUH. Next up: Sinners and Saints, Washingtondc on Fri 31 Jul.
 
@@ -25,4 +25,4 @@ RATONC1T0 is a techno and electro artist based in Puerto Rico, tracked on soundc
 
 Ether Pleaser, DAIYAH, KYRUH
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/ratonc1t0/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/ratonc1t0/)*

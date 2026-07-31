@@ -1,14 +1,13 @@
 # Fede Frostl
 
-Fede Frostl is a Progressive House and Electronica artist with 8 upcoming club dates listed on soundcheck as of Thu, 30 Jul 2026, next at Jaz in the City, Vienna on Thu, 30 Jul 2026.
+Fede Frostl is a Progressive House and Electronica artist with 7 upcoming club dates listed on soundcheck as of Fri, 31 Jul 2026, next at Prater Vienna, Vienna on Fri, 31 Jul 2026.
 
-Fede Frostl is a progressive house and electronica artist tracked on soundcheck, with 90 sets logged across Amsterdam, Barcelona, Buenosaires and Leipzig and 2 more. Often billed alongside Noe Bortolussi, Edictum and Daniel Darkhofer. Next up: Jaz in the City, Vienna on Thu 30 Jul.
+Fede Frostl is a progressive house and electronica artist tracked on soundcheck, with 90 sets logged across Amsterdam, Barcelona, Buenosaires and Leipzig and 2 more. Often billed alongside Noe Bortolussi, Edictum and Daniel Darkhofer. Next up: Prater Vienna, Vienna on Fri 31 Jul.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Thu, 30 Jul 2026 | Jaz in the City | Vienna |
 | Fri, 31 Jul 2026 | Prater Vienna | Vienna |
 | Wed, 5 Aug 2026 | Zoku Hotel Vienna | Vienna |
 | Thu, 20 Aug 2026 | Jaz in the City | Vienna |
@@ -19,6 +18,7 @@ Fede Frostl is a progressive house and electronica artist tracked on soundcheck,
 
 ## Recently played
 
+- Jaz in the City, Vienna — Thu, 30 Jul 2026
 - Born 2B Music Bar, Barcelona — Fri, 24 Jul 2026
 - Jaz in the City, Vienna — Thu, 23 Jul 2026
 - Jaz in the City, Vienna — Fri, 17 Jul 2026
@@ -26,10 +26,9 @@ Fede Frostl is a progressive house and electronica artist tracked on soundcheck,
 - Jaz in the City, Vienna — Sat, 11 Jul 2026
 - RAFAS Burggasse 81, Vienna — Sat, 27 Jun 2026
 - Wiener Würstelstand - Spittelau, Vienna — Fri, 26 Jun 2026
-- Prater Vienna, Vienna — Fri, 26 Jun 2026
 
 ## Shares bills with
 
 Noe Bortolussi, Edictum, Daniel Darkhofer
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/fedefrostl/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/fedefrostl/)*

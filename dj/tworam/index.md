@@ -1,13 +1,14 @@
 # tworam
 
-tworam is a Electronica and House artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at Soup, Manchester on Sat, 15 Aug 2026.
+tworam is a House and Electronica artist with 2 upcoming club dates listed on soundcheck as of Fri, 31 Jul 2026, next at Ramona, Manchester on Sat, 8 Aug 2026.
 
-tworam is an electronica and house artist based in United Kingdom, tracked on soundcheck, with 9 sets logged across London and Manchester. Often billed alongside Killamanjaro, imad:re and April (UK). Next up: Soup, Manchester on Sat 15 Aug.
+tworam is a house and electronica artist based in United Kingdom, tracked on soundcheck, with 10 sets logged across London and Manchester. Often billed alongside Killamanjaro, imad:re and April (UK). Next up: Ramona, Manchester on Sat 8 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 8 Aug 2026 | Ramona | Manchester |
 | Sat, 15 Aug 2026 | Soup | Manchester |
 
 ## Recently played
@@ -25,4 +26,4 @@ tworam is an electronica and house artist based in United Kingdom, tracked on so
 
 Killamanjaro, imad:re, April (UK)
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/tworam/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/tworam/)*

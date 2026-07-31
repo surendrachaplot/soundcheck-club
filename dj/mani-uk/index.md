@@ -1,6 +1,6 @@
 # mani (UK)
 
-mani (UK) is a Drum & Bass and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at TBA - CENNET BAHÇESİ BURGAZADA, Istanbul on Thu, 6 Aug 2026.
+mani (UK) is a Drum & Bass and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at TBA - CENNET BAHÇESİ BURGAZADA, Istanbul on Thu, 6 Aug 2026.
 
 mani (UK) is a drum & bass and techno artist based in China, tracked on soundcheck, with 7 sets logged across Istanbul, London and Stockholm. Often billed alongside Michael Diamond, att0sec and sea elegans. Next up: TBA - CENNET BAHÇESİ BURGAZADA, Istanbul on Thu 6 Aug.
 
@@ -23,4 +23,4 @@ mani (UK) is a drum & bass and techno artist based in China, tracked on soundche
 
 Michael Diamond, att0sec, sea elegans
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/mani-uk/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/mani-uk/)*

@@ -1,6 +1,6 @@
 # deBasement
 
-deBasement is a Techno and House artist with 5 upcoming club dates listed on soundcheck as of Thu, 30 Jul 2026, next at TBA - Mission Four (Ace*Mission Studios) 560 S Mission Rd, Los Angeles, CA 90033, Los Angeles on Fri, 31 Jul 2026.
+deBasement is a Techno and House artist with 5 upcoming club dates listed on soundcheck as of Fri, 31 Jul 2026, next at TBA - Mission Four (Ace*Mission Studios) 560 S Mission Rd, Los Angeles, CA 90033, Los Angeles on Fri, 31 Jul 2026.
 
 deBasement is a techno and house artist tracked on soundcheck, with 34 sets logged across Amsterdam, Antwerp, Barcelona and Berlin and 14 more. Often billed alongside Marie Davidson, ARMANA KHAN and BASHKKA. Next up: TBA - Mission Four (Ace*Mission Studios) 560 S Mission Rd, Los Angeles, CA 90033, Losangeles on Fri 31 Jul.
 
@@ -29,4 +29,4 @@ deBasement is a techno and house artist tracked on soundcheck, with 34 sets logg
 
 Marie Davidson, ARMANA KHAN, BASHKKA
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/debasement/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/debasement/)*

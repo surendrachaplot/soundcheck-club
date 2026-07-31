@@ -1,6 +1,6 @@
 # mionn
 
-mionn is a Amapiano and Bass artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at Forestlimit, Tokyo on Sat, 1 Aug 2026.
+mionn is a Amapiano and Bass artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at Forestlimit, Tokyo on Sat, 1 Aug 2026.
 
 mionn is an amapiano and bass artist tracked on soundcheck, with 46 sets logged across Kyoto, Osaka and Tokyo. Often billed alongside mitokon, 35DH-1 and pìccolo. Next up: Forestlimit, Tokyo on Sat 1 Aug.
 
@@ -25,4 +25,4 @@ mionn is an amapiano and bass artist tracked on soundcheck, with 46 sets logged 
 
 mitokon, 35DH-1, pìccolo
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/mionn/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/mionn/)*

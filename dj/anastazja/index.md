@@ -1,6 +1,6 @@
 # Anastazja
 
-Anastazja is a House and Baile Funk artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at Badaboum, Paris on Fri, 31 Jul 2026.
+Anastazja is a House and Baile Funk artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at Badaboum, Paris on Fri, 31 Jul 2026.
 
 Anastazja is a house and baile funk artist based in United States of America, tracked on soundcheck, with 29 sets logged across Chicago, Istanbul, Lisbon and London and 10 more. Often billed alongside Ayanna Heaven, CTRLZORA and Dennis Free. Next up: Badaboum, Paris on Fri 31 Jul.
 
@@ -25,4 +25,4 @@ Anastazja is a house and baile funk artist based in United States of America, tr
 
 Ayanna Heaven, CTRLZORA, Dennis Free
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/anastazja/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/anastazja/)*

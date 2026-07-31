@@ -1,14 +1,15 @@
 # Sayuri (GER)
 
-Sayuri (GER) is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at Birgit, Berlin on Fri, 14 Aug 2026.
+Sayuri (GER) is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Fri, 31 Jul 2026, next at Birgit, Berlin on Fri, 14 Aug 2026.
 
-Sayuri (GER) is a techno and house artist based in Germany, tracked on soundcheck, with 7 sets logged across Berlin and Stuttgart. Often billed alongside Chamelio 3000, Adi Dassler and Alex Narrow. Next up: Birgit, Berlin on Fri 14 Aug.
+Sayuri (GER) is a house and techno artist based in Germany, tracked on soundcheck, with 8 sets logged across Berlin and Stuttgart. Often billed alongside Chamelio 3000, Adi Dassler and Alex Narrow. Next up: Birgit, Berlin on Fri 14 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 14 Aug 2026 | Birgit | Berlin |
+| Sun, 16 Aug 2026 | Kowalski | Stuttgart |
 
 ## Recently played
 
@@ -23,4 +24,4 @@ Sayuri (GER) is a techno and house artist based in Germany, tracked on soundchec
 
 Chamelio 3000, Adi Dassler, Alex Narrow
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/sayuri-ger/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/sayuri-ger/)*

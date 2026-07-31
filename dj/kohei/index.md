@@ -1,6 +1,6 @@
 # Kohei
 
-Kohei is a Minimal and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at Circus Osaka, Osaka on Sat, 1 Aug 2026.
+Kohei is a Minimal and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at Circus Osaka, Osaka on Sat, 1 Aug 2026.
 
 Kohei is a minimal and techno artist tracked on soundcheck, with 74 sets logged across Kyoto, Osaka and Tokyo. Often billed alongside AOKI takamasa, Shingo and ONO (3). Next up: Circus Osaka, Osaka on Sat 1 Aug.
 
@@ -25,4 +25,4 @@ Kohei is a minimal and techno artist tracked on soundcheck, with 74 sets logged 
 
 AOKI takamasa, Shingo, ONO (3)
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/kohei/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/kohei/)*

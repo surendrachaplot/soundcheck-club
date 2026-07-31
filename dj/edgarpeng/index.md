@@ -1,6 +1,6 @@
 # Edgar Peng
 
-Edgar Peng is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Thu, 30 Jul 2026, next at Renate, Berlin on Sat, 1 Aug 2026.
+Edgar Peng is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Fri, 31 Jul 2026, next at Renate, Berlin on Sat, 1 Aug 2026.
 
 Edgar Peng is a house and techno artist tracked on soundcheck, with 85 sets logged across Amsterdam, Barcelona, Berlin and Cologne and 8 more. Often billed alongside Nils Ohrmann, Koljah and Empro. Next up: Renate, Berlin on Sat 1 Aug.
 
@@ -26,4 +26,4 @@ Edgar Peng is a house and techno artist tracked on soundcheck, with 85 sets logg
 
 Nils Ohrmann, Koljah, Empro
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/edgarpeng/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/edgarpeng/)*

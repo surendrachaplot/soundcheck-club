@@ -1,6 +1,6 @@
 # Werkout Plan
 
-Werkout Plan is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at Elektricity, Detroit on Fri, 31 Jul 2026.
+Werkout Plan is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at Elektricity, Detroit on Fri, 31 Jul 2026.
 
 Werkout Plan is a house and techno artist based in United States of America, tracked on soundcheck, with 11 sets logged across Detroit. Often billed alongside DISCOBOT, DJ SYNC and DJ Spen. Next up: Elektricity, Detroit on Fri 31 Jul.
 
@@ -25,4 +25,4 @@ Werkout Plan is a house and techno artist based in United States of America, tra
 
 DISCOBOT, DJ SYNC, DJ Spen
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/werkoutplan/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/werkoutplan/)*

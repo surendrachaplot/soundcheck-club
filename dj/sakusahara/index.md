@@ -1,6 +1,6 @@
 # Saku Sahara
 
-Saku Sahara is a Techno and Jungle artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at Le Sucre, Lyon on Sun, 2 Aug 2026.
+Saku Sahara is a Techno and Jungle artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at Le Sucre, Lyon on Sun, 2 Aug 2026.
 
 Saku Sahara is a techno and jungle artist based in France, tracked on soundcheck, with 32 sets logged across Brussels, Geneva, Lyon and Marseille and 1 more. Often billed alongside LB aka LABAT, Laze and Racing Nokia. Next up: Le Sucre, Lyon on Sun 2 Aug.
 
@@ -25,4 +25,4 @@ Saku Sahara is a techno and jungle artist based in France, tracked on soundcheck
 
 LB aka LABAT, Laze, Racing Nokia
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/sakusahara/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/sakusahara/)*

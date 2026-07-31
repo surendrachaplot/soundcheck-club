@@ -1,6 +1,6 @@
 # Space Afrika
 
-Space Afrika is a Experimental and Ambient artist with 2 upcoming club dates listed on soundcheck as of Thu, 30 Jul 2026, next at Neue Nationalgalerie, Berlin on Thu, 13 Aug 2026.
+Space Afrika is a Experimental and Ambient artist with 2 upcoming club dates listed on soundcheck as of Fri, 31 Jul 2026, next at Neue Nationalgalerie, Berlin on Thu, 13 Aug 2026.
 
 Space Afrika is an experimental and ambient artist based in United Kingdom, tracked on soundcheck, with 53 sets logged across Amsterdam, Barcelona, Basel and Berlin and 17 more. Often billed alongside Loraine James, Actress and Caterina Barbieri. Next up: Neue Nationalgalerie, Berlin on Thu 13 Aug.
 
@@ -26,4 +26,4 @@ Space Afrika is an experimental and ambient artist based in United Kingdom, trac
 
 Loraine James, Actress, Caterina Barbieri
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/spaceafrika/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/spaceafrika/)*

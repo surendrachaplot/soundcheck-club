@@ -1,6 +1,6 @@
 # Mario Piu
 
-Mario Piu is a Trance and Club artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at Zinkbad Eventhalle, Zurich on Sat, 8 Aug 2026.
+Mario Piu is a Trance and Club artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at Zinkbad Eventhalle, Zurich on Sat, 8 Aug 2026.
 
 Mario Piu is a trance and club artist based in Italy, tracked on soundcheck, with 5 sets logged across Leeds, Turin and Zurich. Often billed alongside Luca Pechino, 00Zicky and Anne Savage. Next up: Zinkbad Eventhalle, Zurich on Sat 8 Aug.
 
@@ -21,4 +21,4 @@ Mario Piu is a trance and club artist based in Italy, tracked on soundcheck, wit
 
 Luca Pechino, 00Zicky, Anne Savage
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/mariopiu/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/mariopiu/)*

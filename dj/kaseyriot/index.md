@@ -1,6 +1,6 @@
 # Kasey Riot
 
-Kasey Riot is a Techno and Industrial artist with 3 upcoming club dates listed on soundcheck as of Thu, 30 Jul 2026, next at Gorg-O-Mish, Vancouver on Fri, 31 Jul 2026.
+Kasey Riot is a Techno and Industrial artist with 3 upcoming club dates listed on soundcheck as of Fri, 31 Jul 2026, next at Gorg-O-Mish, Vancouver on Fri, 31 Jul 2026.
 
 Kasey Riot is a techno and industrial artist tracked on soundcheck, with 53 sets logged across Montreal, Toronto and Vancouver. Often billed alongside DJ Hockey, Fisher Bryce and Sam Steele. Next up: Gorg-O-Mish, Vancouver on Fri 31 Jul.
 
@@ -27,4 +27,4 @@ Kasey Riot is a techno and industrial artist tracked on soundcheck, with 53 sets
 
 DJ Hockey, Fisher Bryce, Sam Steele
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/kaseyriot/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/kaseyriot/)*

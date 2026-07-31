@@ -1,6 +1,6 @@
 # Max Menaged
 
-Max Menaged is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at Chinois Ibiza, Ibiza on Fri, 14 Aug 2026.
+Max Menaged is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at Chinois Ibiza, Ibiza on Fri, 14 Aug 2026.
 
 Max Menaged is a house and tech house artist based in United Kingdom, tracked on soundcheck, with 41 sets logged across Amsterdam, Copenhagen, Ibiza and London and 2 more. Often billed alongside Marten Lou, Emir Sagiroglu and Sam Karam. Next up: Chinois Ibiza, Ibiza on Fri 14 Aug.
 
@@ -25,4 +25,4 @@ Max Menaged is a house and tech house artist based in United Kingdom, tracked on
 
 Marten Lou, Emir Sagiroglu, Sam Karam
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/maxmenaged/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/maxmenaged/)*

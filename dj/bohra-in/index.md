@@ -1,6 +1,6 @@
 # BOHRA
 
-BOHRA is a Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at Dirty Rabbit Hidden Bar, Bangkok on Sat, 1 Aug 2026.
+BOHRA is a Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at Dirty Rabbit Hidden Bar, Bangkok on Sat, 1 Aug 2026.
 
 BOHRA is a techno artist tracked on soundcheck, with 2 sets logged across Amsterdam and Bangkok. Often billed alongside Navar, Not Demure and OPTIKZ. Next up: Dirty Rabbit Hidden Bar, Bangkok on Sat 1 Aug.
 
@@ -18,4 +18,4 @@ BOHRA is a techno artist tracked on soundcheck, with 2 sets logged across Amster
 
 Navar, Not Demure, OPTIKZ
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/bohra-in/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/bohra-in/)*

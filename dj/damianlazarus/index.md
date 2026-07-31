@@ -1,6 +1,6 @@
 # Damian Lazarus
 
-Damian Lazarus is a House and Techno artist with 6 upcoming club dates listed on soundcheck as of Thu, 30 Jul 2026, next at Airport Düsseldorf, Düsseldorf on Sat, 1 Aug 2026.
+Damian Lazarus is a House and Techno artist with 6 upcoming club dates listed on soundcheck as of Fri, 31 Jul 2026, next at Airport Düsseldorf, Düsseldorf on Sat, 1 Aug 2026.
 
 Damian Lazarus is a house and techno artist tracked on soundcheck, with 201 sets logged across Amsterdam, Antwerp, Athens and Bali and 33 more. Often billed alongside Black Coffee, Paul Reynolds and Cameron Jack. Next up: Airport Düsseldorf, Dusseldorf on Sat 1 Aug.
 
@@ -30,4 +30,4 @@ Damian Lazarus is a house and techno artist tracked on soundcheck, with 201 sets
 
 Black Coffee, Paul Reynolds, Cameron Jack
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/damianlazarus/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/damianlazarus/)*

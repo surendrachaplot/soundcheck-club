@@ -1,6 +1,6 @@
 # The Monty Bar
 
-The Monty Bar is a music venue in Los Angeles with 2 upcoming nights listed on soundcheck as of Thu, 30 Jul 2026; the next is "aurat zine release" on Fri, 31 Jul 2026.
+The Monty Bar is a music venue in Los Angeles with 2 upcoming nights listed on soundcheck as of Fri, 31 Jul 2026; the next is "aurat zine release" on Fri, 31 Jul 2026.
 
 The Monty Bar is a music venue in Losangeles listed on soundcheck. 2 upcoming nights, with line-ups including Aurat, DJ Dazy, Hector Moralez and J-Dub and 2 more. Browse upcoming dates, start times and who's playing. 1222 W 7th St, Los Angeles, CA 90017, USA.
 
@@ -15,4 +15,4 @@ The Monty Bar is a music venue in Losangeles listed on soundcheck. 2 upcoming ni
 
 1222 W 7th St, Los Angeles, CA 90017, USA, Los Angeles
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/losangeles/club/the-monty-bar/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/losangeles/club/the-monty-bar/)*

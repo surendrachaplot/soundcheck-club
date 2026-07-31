@@ -1,6 +1,6 @@
 # Oscillate Outdoor Summer Gathering at TBA
 
-Oscillate Outdoor Summer Gathering at TBA on Sat 1 Aug, London. 6 acts on the bill: Azire, Kesh (1), Obreja. and Stefan Andrei and 2 more. House and Minimal Techno. Preview the line-up and save it on soundcheck.
+Oscillate Outdoor Summer Gathering at TBA on Sat 1 Aug, London. 8 acts on the bill: Azire, Daisybelle, Kesh (1) and Obreja. and 4 more. House and Minimal Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -11,8 +11,10 @@ Oscillate Outdoor Summer Gathering at TBA on Sat 1 Aug, London. 6 acts on the bi
 ## Line-up
 
 - Azire
+- Daisybelle
 - Kesh (1)
 - Obreja.
+- Ollie Drummond
 - Stefan Andrei
 - Vlad Ioachimescu
 - Zigy

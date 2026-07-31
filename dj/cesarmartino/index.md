@@ -1,13 +1,14 @@
 # Cesar Martino
 
-Cesar Martino is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at La Terrrazza, Barcelona on Thu, 10 Sept 2026.
+Cesar Martino is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Fri, 31 Jul 2026, next at Sunseabar Beach Club, Barcelona on Fri, 7 Aug 2026.
 
-Cesar Martino is a house and techno artist tracked on soundcheck, with 51 sets logged across Amsterdam, Barcelona, Berlin and Mexicocity. Often billed alongside ATMEN, Scippo and Cipy. Next up: La Terrrazza, Barcelona on Thu 10 Sept.
+Cesar Martino is a house and techno artist tracked on soundcheck, with 52 sets logged across Amsterdam, Barcelona, Berlin and Mexicocity. Often billed alongside ATMEN, Scippo and Cipy. Next up: Sunseabar Beach Club, Barcelona on Fri 7 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 7 Aug 2026 | Sunseabar Beach Club | Barcelona |
 | Thu, 10 Sept 2026 | La Terrrazza | Barcelona |
 
 ## Recently played
@@ -25,4 +26,4 @@ Cesar Martino is a house and techno artist tracked on soundcheck, with 51 sets l
 
 ATMEN, Scippo, Cipy
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/cesarmartino/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/cesarmartino/)*

@@ -1,6 +1,6 @@
 # Romantony
 
-Romantony is a Tech House and Deep House artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at Palais, Munich on Fri, 31 Jul 2026.
+Romantony is a Tech House and Deep House artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at Palais, Munich on Fri, 31 Jul 2026.
 
 Romantony is a tech house and deep house artist based in Germany, tracked on soundcheck, with 5 sets logged across Munich and Vienna. Often billed alongside Ferdinand Kremer, Alex Volta and DJLolo. Next up: Palais, Munich on Fri 31 Jul.
 
@@ -21,4 +21,4 @@ Romantony is a tech house and deep house artist based in Germany, tracked on sou
 
 Ferdinand Kremer, Alex Volta, DJLolo
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/romantony/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/romantony/)*

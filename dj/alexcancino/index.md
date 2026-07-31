@@ -1,6 +1,6 @@
 # Alex Cancino
 
-Alex Cancino is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at Tuff Club, Singapore on Fri, 31 Jul 2026.
+Alex Cancino is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at Tuff Club, Singapore on Fri, 31 Jul 2026.
 
 Alex Cancino is a techno and house artist based in Mexico, tracked on soundcheck, with 16 sets logged across Singapore. Often billed alongside Cosmo Carbon, James Selva and Joshen. Next up: Tuff Club, Singapore on Fri 31 Jul.
 
@@ -25,4 +25,4 @@ Alex Cancino is a techno and house artist based in Mexico, tracked on soundcheck
 
 Cosmo Carbon, James Selva, Joshen
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/alexcancino/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/alexcancino/)*

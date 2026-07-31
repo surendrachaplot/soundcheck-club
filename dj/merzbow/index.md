@@ -1,6 +1,6 @@
 # Merzbow
 
-Merzbow is a Noise and Experimental artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at TBA - Rotterdam Various Locations, Rotterdam on Thu, 24 Sept 2026.
+Merzbow is a Noise and Experimental artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at TBA - Rotterdam Various Locations, Rotterdam on Thu, 24 Sept 2026.
 
 Merzbow is a noise and experimental artist based in Japan, tracked on soundcheck, with 12 sets logged across Belgrade, Berlin, Brisbane and Brussels and 4 more. Often billed alongside Lawrence English, 69DB and 7e. Next up: TBA - Rotterdam Various Locations, Rotterdam on Thu 24 Sept.
 
@@ -25,4 +25,4 @@ Merzbow is a noise and experimental artist based in Japan, tracked on soundcheck
 
 Lawrence English, 69DB, 7e
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/merzbow/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/merzbow/)*

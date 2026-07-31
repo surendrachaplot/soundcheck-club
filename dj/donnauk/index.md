@@ -1,6 +1,6 @@
 # Donna (UK)
 
-Donna (UK) is a Techno and Industrial artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at Distillery N17, London on Fri, 31 Jul 2026.
+Donna (UK) is a Techno and Industrial artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at Distillery N17, London on Fri, 31 Jul 2026.
 
 Donna (UK) is a techno and industrial artist based in United Kingdom, tracked on soundcheck, with 20 sets logged across Bristol, Leeds, London and Manchester. Often billed alongside Debbie., Blasha & Allatt and Dj Saliva. Next up: Distillery N17, London on Fri 31 Jul.
 
@@ -25,4 +25,4 @@ Donna (UK) is a techno and industrial artist based in United Kingdom, tracked on
 
 Debbie., Blasha & Allatt, Dj Saliva
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/donnauk/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/donnauk/)*

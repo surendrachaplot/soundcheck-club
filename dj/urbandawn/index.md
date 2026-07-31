@@ -1,6 +1,6 @@
 # Urbandawn
 
-Urbandawn is a Drum & Bass and Jungle artist with 2 upcoming club dates listed on soundcheck as of Thu, 30 Jul 2026, next at Hackney Wick Multiple Venues, London on Sat, 1 Aug 2026.
+Urbandawn is a Drum & Bass and Jungle artist with 2 upcoming club dates listed on soundcheck as of Fri, 31 Jul 2026, next at Hackney Wick Multiple Venues, London on Sat, 1 Aug 2026.
 
 Urbandawn is a drum & bass and jungle artist based in Brazil, tracked on soundcheck, with 3 sets logged across London, Paris and Prague. Often billed alongside Black Sun Empire, Degs and Flava D. Next up: Hackney Wick Multiple Venues, London on Sat 1 Aug.
 
@@ -19,4 +19,4 @@ Urbandawn is a drum & bass and jungle artist based in Brazil, tracked on soundch
 
 Black Sun Empire, Degs, Flava D
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/urbandawn/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/urbandawn/)*

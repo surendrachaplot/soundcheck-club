@@ -1,6 +1,6 @@
 # Mr. Belt & Wezol
 
-Mr. Belt & Wezol is a House and Disco artist with 4 upcoming club dates listed on soundcheck as of Thu, 30 Jul 2026, next at UNO MALTA, Malta on Sat, 8 Aug 2026.
+Mr. Belt & Wezol is a House and Disco artist with 4 upcoming club dates listed on soundcheck as of Fri, 31 Jul 2026, next at UNO MALTA, Malta on Sat, 8 Aug 2026.
 
 Mr. Belt & Wezol are a house and disco duo tracked on soundcheck, with 44 sets logged across Amsterdam, Barcelona, Bucharest and Ibiza and 14 more. Often billed alongside Karim Soliman, RUZE and Ammé. Next up: UNO MALTA, Malta on Sat 8 Aug.
 
@@ -28,4 +28,4 @@ Mr. Belt & Wezol are a house and disco duo tracked on soundcheck, with 44 sets l
 
 Karim Soliman, RUZE, Ammé
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/mr.beltwezol/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/mr.beltwezol/)*

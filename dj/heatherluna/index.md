@@ -1,6 +1,6 @@
 # Heather Luna
 
-Heather Luna is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at El Secreto De Rosita, Washington DC on Fri, 7 Aug 2026.
+Heather Luna is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at El Secreto De Rosita, Washington DC on Fri, 7 Aug 2026.
 
 Heather Luna is a house and deep house artist based in United States of America, tracked on soundcheck, with 30 sets logged across Berlin and Washingtondc. Often billed alongside BehTarin, shilimili and Bamba. Next up: El Secreto De Rosita, Washingtondc on Fri 7 Aug.
 
@@ -25,4 +25,4 @@ Heather Luna is a house and deep house artist based in United States of America,
 
 BehTarin, shilimili, Bamba
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/heatherluna/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/heatherluna/)*

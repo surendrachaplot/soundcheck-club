@@ -1,6 +1,6 @@
 # Lee Foss
 
-Lee Foss is a House and Tech House artist with 2 upcoming club dates listed on soundcheck as of Thu, 30 Jul 2026, next at Bar Oriente, Mexico City on Sat, 8 Aug 2026.
+Lee Foss is a House and Tech House artist with 2 upcoming club dates listed on soundcheck as of Fri, 31 Jul 2026, next at Bar Oriente, Mexico City on Sat, 8 Aug 2026.
 
 Lee Foss is a house and tech house artist based in United States of America, tracked on soundcheck, with 75 sets logged across Austin, Barcelona, Boston and Brisbane and 21 more. Often billed alongside Deeper Purpose, Sonny Fodera and ALISHA. Next up: Bar Oriente, Mexicocity on Sat 8 Aug.
 
@@ -26,4 +26,4 @@ Lee Foss is a house and tech house artist based in United States of America, tra
 
 Deeper Purpose, Sonny Fodera, ALISHA
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/leefoss/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/leefoss/)*

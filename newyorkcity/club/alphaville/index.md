@@ -1,6 +1,6 @@
 # Alphaville
 
-Alphaville is a music venue in New York City with 2 upcoming nights listed on soundcheck as of Thu, 30 Jul 2026; the next is "Hand to Phone" on Fri, 31 Jul 2026.
+Alphaville is a music venue in New York City with 2 upcoming nights listed on soundcheck as of Fri, 31 Jul 2026; the next is "Hand to Phone" on Fri, 31 Jul 2026.
 
 Alphaville is a music venue in Newyorkcity listed on soundcheck. 2 upcoming nights, with line-ups including ALEX PAN, Boydell and Ivy Oh. Browse upcoming dates, start times and who's playing. 140 Wilson Ave, Brooklyn, NY 11237.
 
@@ -15,4 +15,4 @@ Alphaville is a music venue in Newyorkcity listed on soundcheck. 2 upcoming nigh
 
 140 Wilson Ave, Brooklyn, NY 11237, New York City
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/alphaville/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/alphaville/)*

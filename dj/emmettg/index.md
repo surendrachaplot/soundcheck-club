@@ -1,6 +1,6 @@
 # Emmett G
 
-Emmett G is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at Kazimier Garden, Liverpool on Fri, 31 Jul 2026.
+Emmett G is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at Kazimier Garden, Liverpool on Fri, 31 Jul 2026.
 
 Emmett G is a techno and house artist based in Ireland, tracked on soundcheck, with 13 sets logged across Liverpool and Manchester. Often billed alongside DJ FABRICATION, djcd and Love Machine. Next up: Kazimier Garden, Liverpool on Fri 31 Jul.
 
@@ -25,4 +25,4 @@ Emmett G is a techno and house artist based in Ireland, tracked on soundcheck, w
 
 DJ FABRICATION, djcd, Love Machine
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/emmettg/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/emmettg/)*

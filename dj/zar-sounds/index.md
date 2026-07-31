@@ -1,6 +1,6 @@
 # Zar.
 
-Zar. is a Drum & Bass and Jungle artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at Freight Island, Manchester on Sun, 2 Aug 2026.
+Zar. is a Drum & Bass and Jungle artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at Freight Island, Manchester on Sun, 2 Aug 2026.
 
 Zar. is a drum & bass and jungle artist tracked on soundcheck, with 56 sets logged across Berlin, Birmingham, Brighton and Bristol and 10 more. Often billed alongside Verbz, Channell and EVABEE. Next up: Freight Island, Manchester on Sun 2 Aug.
 
@@ -25,4 +25,4 @@ Zar. is a drum & bass and jungle artist tracked on soundcheck, with 56 sets logg
 
 Verbz, Channell, EVABEE
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/zar-sounds/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/zar-sounds/)*

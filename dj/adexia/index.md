@@ -1,6 +1,6 @@
 # Adexia
 
-Adexia is a Techno and Pop artist with 2 upcoming club dates listed on soundcheck as of Thu, 30 Jul 2026, next at Poolen, Copenhagen on Fri, 31 Jul 2026.
+Adexia is a Techno and Pop artist with 2 upcoming club dates listed on soundcheck as of Fri, 31 Jul 2026, next at Poolen, Copenhagen on Fri, 31 Jul 2026.
 
 Adexia is a techno and pop artist based in Denmark, tracked on soundcheck, with 35 sets logged across Copenhagen. Often billed alongside HEX ELECTRONIX, Anna Logic and DJ 2LATE. Next up: Poolen, Copenhagen on Fri 31 Jul.
 
@@ -26,4 +26,4 @@ Adexia is a techno and pop artist based in Denmark, tracked on soundcheck, with 
 
 HEX ELECTRONIX, Anna Logic, DJ 2LATE
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/adexia/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/adexia/)*

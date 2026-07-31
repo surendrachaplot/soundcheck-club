@@ -1,6 +1,6 @@
 # 1morning
 
-1morning is a Techno and House artist with 6 upcoming club dates listed on soundcheck as of Thu, 30 Jul 2026, next at Refuge, New York City on Fri, 7 Aug 2026.
+1morning is a Techno and House artist with 6 upcoming club dates listed on soundcheck as of Fri, 31 Jul 2026, next at Refuge, New York City on Fri, 7 Aug 2026.
 
 1morning is a techno and house artist tracked on soundcheck, with 121 sets logged across Amsterdam, Austin, Barcelona and Berlin and 26 more. Often billed alongside Akua, DJ Stingray 313 and Regal86. Next up: Refuge, Newyorkcity on Fri 7 Aug.
 
@@ -30,4 +30,4 @@
 
 Akua, DJ Stingray 313, Regal86
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/1morning/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/1morning/)*

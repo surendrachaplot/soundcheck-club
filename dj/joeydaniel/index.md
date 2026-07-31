@@ -1,6 +1,6 @@
 # Joey Daniel
 
-Joey Daniel is a Tech House and House artist with 4 upcoming club dates listed on soundcheck as of Thu, 30 Jul 2026, next at Malta Fairs & Conventions Centre, Malta on Sat, 1 Aug 2026.
+Joey Daniel is a Tech House and House artist with 4 upcoming club dates listed on soundcheck as of Fri, 31 Jul 2026, next at Malta Fairs & Conventions Centre, Malta on Sat, 1 Aug 2026.
 
 Joey Daniel is a tech house and house artist based in Netherlands, tracked on soundcheck, with 125 sets logged across Amsterdam, Barcelona, Budapest and Buenosaires and 17 more. Often billed alongside Marco Carola, Franky Rizardo and Ale De Tuglie. Next up: Malta Fairs & Conventions Centre, Malta on Sat 1 Aug.
 
@@ -28,4 +28,4 @@ Joey Daniel is a tech house and house artist based in Netherlands, tracked on so
 
 Marco Carola, Franky Rizardo, Ale De Tuglie
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/joeydaniel/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/joeydaniel/)*

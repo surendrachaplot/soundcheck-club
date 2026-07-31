@@ -1,6 +1,6 @@
 # Coke Cortés
 
-Coke Cortés is a Techno and Hardcore artist with 2 upcoming club dates listed on soundcheck as of Thu, 30 Jul 2026, next at E1, London on Fri, 4 Sept 2026.
+Coke Cortés is a Techno and Hardcore artist with 2 upcoming club dates listed on soundcheck as of Fri, 31 Jul 2026, next at E1, London on Fri, 4 Sept 2026.
 
 Coke Cortés is a techno and hardcore artist based in Spain, tracked on soundcheck, with 3 sets logged across Barcelona and London. Often billed alongside Dres Codex, KARAH and KASTILO. Next up: E1, London on Fri 4 Sept.
 
@@ -19,4 +19,4 @@ Coke Cortés is a techno and hardcore artist based in Spain, tracked on soundche
 
 Dres Codex, KARAH, KASTILO
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/cokecortes/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/cokecortes/)*

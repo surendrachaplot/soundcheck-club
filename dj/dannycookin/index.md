@@ -1,6 +1,6 @@
 # dannycookin
 
-dannycookin is a Techno and Trance artist with 3 upcoming club dates listed on soundcheck as of Thu, 30 Jul 2026, next at Baalsaal, Hamburg on Sat, 1 Aug 2026.
+dannycookin is a Techno and Trance artist with 3 upcoming club dates listed on soundcheck as of Fri, 31 Jul 2026, next at Baalsaal, Hamburg on Sat, 1 Aug 2026.
 
 dannycookin is a techno and trance artist based in Germany, tracked on soundcheck, with 6 sets logged across Hamburg. Often billed alongside djcob, Alibi (5) and JulesBo. Next up: Baalsaal, Hamburg on Sat 1 Aug.
 
@@ -22,4 +22,4 @@ dannycookin is a techno and trance artist based in Germany, tracked on soundchec
 
 djcob, Alibi (5), JulesBo
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/dannycookin/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/dannycookin/)*

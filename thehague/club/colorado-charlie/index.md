@@ -1,8 +1,8 @@
 # Colorado Charlie
 
-Colorado Charlie is a music venue in The Hague with 16 upcoming nights listed on soundcheck as of Thu, 30 Jul 2026; the next is "Colorado Charlie with Bart Skils (5hrs), Luis Ripa" on Sat, 1 Aug 2026.
+Colorado Charlie is a music venue in The Hague with 17 upcoming nights listed on soundcheck as of Fri, 31 Jul 2026; the next is "Colorado Charlie with Bart Skils (5hrs), Luis Ripa" on Sat, 1 Aug 2026.
 
-Colorado Charlie is a music venue in Thehague listed on soundcheck. 16 upcoming nights, with line-ups including 22 Interns, AAT (NL), Bart Skils and Benny Rodrigues and 2 more. Browse upcoming dates, start times and who's playing. Zwarte Pad 64, Scheveningen, Zuid Holland, Netherlands.
+Colorado Charlie is a music venue in Thehague listed on soundcheck. 17 upcoming nights, with line-ups including 22 Interns, AAT (NL), Bart Skils and Benny Rodrigues and 2 more. Browse upcoming dates, start times and who's playing. Zwarte Pad 64, Scheveningen, Zuid Holland, Netherlands.
 
 ## What's on
 
@@ -23,4 +23,4 @@ Colorado Charlie is a music venue in Thehague listed on soundcheck. 16 upcoming 
 
 Zwarte Pad 64, Scheveningen, Zuid Holland, Netherlands, The Hague
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/thehague/club/colorado-charlie/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/thehague/club/colorado-charlie/)*

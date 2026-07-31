@@ -1,6 +1,6 @@
 # Gwenan
 
-Gwenan is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at Club der Visionaere, Berlin on Sun, 16 Aug 2026.
+Gwenan is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at Club der Visionaere, Berlin on Sun, 16 Aug 2026.
 
 Gwenan is a house and techno artist based in United Kingdom, tracked on soundcheck, with 87 sets logged across Amsterdam, Barcelona, Berlin and Brussels and 15 more. Often billed alongside Eli Verveine, Joe Delon and Vera. Next up: Club der Visionaere, Berlin on Sun 16 Aug.
 
@@ -25,4 +25,4 @@ Gwenan is a house and techno artist based in United Kingdom, tracked on soundche
 
 Eli Verveine, Joe Delon, Vera
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/gwenan/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/gwenan/)*

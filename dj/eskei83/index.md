@@ -1,6 +1,6 @@
 # ESKEI83
 
-ESKEI83 is a Drum & Bass and Bass artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at Club Exil, Vienna on Sat, 3 Oct 2026.
+ESKEI83 is a Drum & Bass and Bass artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at Club Exil, Vienna on Sat, 3 Oct 2026.
 
 ESKEI83 is a drum & bass and bass artist based in Germany, tracked on soundcheck, with 20 sets logged across Barcelona, Berlin, Bristol and Cologne and 9 more. Often billed alongside ASK:ME, Alan Fitzpatrick and Anaïs. Next up: Club Exil, Vienna on Sat 3 Oct.
 
@@ -25,4 +25,4 @@ ESKEI83 is a drum & bass and bass artist based in Germany, tracked on soundcheck
 
 ASK:ME, Alan Fitzpatrick, Anaïs
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/eskei83/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/eskei83/)*

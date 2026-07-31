@@ -1,6 +1,6 @@
 # In-Character
 
-In-Character is a Bass and Electro artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at Circus Tokyo, Tokyo on Sat, 1 Aug 2026.
+In-Character is a Bass and Electro artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at Circus Tokyo, Tokyo on Sat, 1 Aug 2026.
 
 In-Character is a bass and electro artist based in Japan, tracked on soundcheck, with 15 sets logged across Osaka and Tokyo. Often billed alongside NO WAY, Project E.i.M and SLEEPY HEVD. Next up: Circus Tokyo, Tokyo on Sat 1 Aug.
 
@@ -25,4 +25,4 @@ In-Character is a bass and electro artist based in Japan, tracked on soundcheck,
 
 NO WAY, Project E.i.M, SLEEPY HEVD
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/in-character/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/in-character/)*

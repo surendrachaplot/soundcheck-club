@@ -1,6 +1,6 @@
 # Bernd Affleck
 
-Bernd Affleck is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at Lehmann Club, Stuttgart on Fri, 31 Jul 2026.
+Bernd Affleck is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at Lehmann Club, Stuttgart on Fri, 31 Jul 2026.
 
 Bernd Affleck is a techno and house artist tracked on soundcheck, with 31 sets logged across Berlin, Dusseldorf, Munich and Stuttgart. Often billed alongside Jannis Maxim, Chet Rubbs and Goiaba. Next up: Lehmann Club, Stuttgart on Fri 31 Jul.
 
@@ -25,4 +25,4 @@ Bernd Affleck is a techno and house artist tracked on soundcheck, with 31 sets l
 
 Jannis Maxim, Chet Rubbs, Goiaba
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/berndaffleck/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/berndaffleck/)*

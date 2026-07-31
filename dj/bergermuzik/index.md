@@ -1,6 +1,6 @@
 # Berger Muzik
 
-Berger Muzik is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at TBA - Club V (Av.Corrientes 5008, Villa Crespo, CABA), Buenos Aires on Fri, 31 Jul 2026.
+Berger Muzik is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at TBA - Club V (Av.Corrientes 5008, Villa Crespo, CABA), Buenos Aires on Fri, 31 Jul 2026.
 
 Berger Muzik is a techno and house artist tracked on soundcheck, with 196 sets logged across Buenosaires. Often billed alongside Ella Anzoise, May Mc Laren and Julian Viegas. Next up: TBA - Club V (Av.Corrientes 5008, Villa Crespo, CABA), Buenosaires on Fri 31 Jul.
 
@@ -25,4 +25,4 @@ Berger Muzik is a techno and house artist tracked on soundcheck, with 196 sets l
 
 Ella Anzoise, May Mc Laren, Julian Viegas
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/bergermuzik/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/bergermuzik/)*

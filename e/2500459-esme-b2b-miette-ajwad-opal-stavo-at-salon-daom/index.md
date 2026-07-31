@@ -1,6 +1,6 @@
-# Esme b2b Miette / Ajwad / Opal Stavo' at Salon Daomé
+# Esme b2b Miette / Ajwad / Opal Stavo at Salon Daomé
 
-Esme b2b Miette / Ajwad / Opal Stavo' at Salon Daomé on Sat 15 Aug, Montreal. 2 acts on the bill: Miette and Wasie. Techno. Preview the line-up and save it on soundcheck.
+Esme b2b Miette / Ajwad / Opal Stavo at Salon Daomé on Sat 15 Aug, Montreal. 2 acts on the bill: Miette and Wasie. Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

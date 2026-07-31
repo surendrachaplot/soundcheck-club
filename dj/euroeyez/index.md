@@ -1,6 +1,6 @@
 # EuroEyez
 
-EuroEyez is a Experimental and Pop artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at Uebel & Gefährlich, Hamburg on Fri, 14 Aug 2026.
+EuroEyez is a Experimental and Pop artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at Uebel & Gefährlich, Hamburg on Fri, 14 Aug 2026.
 
 EuroEyez is an experimental and pop artist tracked on soundcheck, with 26 sets logged across Berlin, Cologne, Copenhagen and Hamburg. Often billed alongside Freestyler (2), NAS TEA and Brodinski. Next up: Uebel & Gefährlich, Hamburg on Fri 14 Aug.
 
@@ -25,4 +25,4 @@ EuroEyez is an experimental and pop artist tracked on soundcheck, with 26 sets l
 
 Freestyler (2), NAS TEA, Brodinski
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/euroeyez/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/euroeyez/)*

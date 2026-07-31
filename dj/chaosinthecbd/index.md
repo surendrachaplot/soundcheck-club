@@ -1,6 +1,6 @@
 # Chaos In The CBD
 
-Chaos In The CBD is a House and Techno artist with 7 upcoming club dates listed on soundcheck as of Thu, 30 Jul 2026, next at Queen's Park Arena, Glasgow on Sat, 1 Aug 2026.
+Chaos In The CBD is a House and Techno artist with 7 upcoming club dates listed on soundcheck as of Fri, 31 Jul 2026, next at Queen's Park Arena, Glasgow on Sat, 1 Aug 2026.
 
 Chaos In The CBD is a house and techno artist tracked on soundcheck, with 205 sets logged across Amsterdam, Antwerp, Auckland and Bali and 55 more. Often billed alongside Sally C, Seth Troxler and Ben UFO. Next up: Queen's Park Arena, Glasgow on Sat 1 Aug.
 
@@ -31,4 +31,4 @@ Chaos In The CBD is a house and techno artist tracked on soundcheck, with 205 se
 
 Sally C, Seth Troxler, Ben UFO
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/chaosinthecbd/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/chaosinthecbd/)*

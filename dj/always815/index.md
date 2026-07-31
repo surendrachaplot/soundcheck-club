@@ -1,6 +1,6 @@
 # ALWAYS 8:15
 
-ALWAYS 8:15 is a Trance and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at The Berkeley Suite, Glasgow on Fri, 31 Jul 2026.
+ALWAYS 8:15 is a Trance and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at The Berkeley Suite, Glasgow on Fri, 31 Jul 2026.
 
 ALWAYS 8:15 is a trance and techno artist based in United Kingdom, tracked on soundcheck, with 18 sets logged across Aberdeen, Berlin, Edinburgh and Glasgow. Often billed alongside Céleste, ELANDA and D4N (1). Next up: The Berkeley Suite, Glasgow on Fri 31 Jul.
 
@@ -25,4 +25,4 @@ ALWAYS 8:15 is a trance and techno artist based in United Kingdom, tracked on so
 
 Céleste, ELANDA, D4N (1)
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/always815/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/always815/)*

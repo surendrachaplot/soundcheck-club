@@ -1,6 +1,6 @@
 # Ten Years Lost (2)
 
-Ten Years Lost (2) is a Club and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at The Rum Shack, Glasgow on Fri, 31 Jul 2026.
+Ten Years Lost (2) is a Club and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at The Rum Shack, Glasgow on Fri, 31 Jul 2026.
 
 Ten Years Lost (2) is a club and techno artist based in United Kingdom, tracked on soundcheck, with 14 sets logged across Berlin, Edinburgh and Glasgow. Often billed alongside Big Miz, Jurnalist and Quaid. Next up: The Rum Shack, Glasgow on Fri 31 Jul.
 
@@ -25,4 +25,4 @@ Ten Years Lost (2) is a club and techno artist based in United Kingdom, tracked 
 
 Big Miz, Jurnalist, Quaid
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/tenyearslost-2/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/tenyearslost-2/)*

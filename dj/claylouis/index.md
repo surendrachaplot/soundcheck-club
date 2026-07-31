@@ -1,6 +1,6 @@
 # Clay Louis
 
-Clay Louis is a Techno and Electro artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at Whammy Bar, Auckland on Sat, 8 Aug 2026.
+Clay Louis is a Techno and Electro artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at Whammy Bar, Auckland on Sat, 8 Aug 2026.
 
 Clay Louis is a techno and electro artist based in New Zealand, tracked on soundcheck, with 7 sets logged across Auckland. Often billed alongside Peach Milk, Foxtrot (2) and Andwahn. Next up: Whammy Bar, Auckland on Sat 8 Aug.
 
@@ -23,4 +23,4 @@ Clay Louis is a techno and electro artist based in New Zealand, tracked on sound
 
 Peach Milk, Foxtrot (2), Andwahn
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/claylouis/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/claylouis/)*

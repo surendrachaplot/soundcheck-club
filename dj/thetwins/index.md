@@ -1,6 +1,6 @@
 # The Twins
 
-The Twins is a Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at M.O.T, London on Sat, 8 Aug 2026.
+The Twins is a Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at M.O.T, London on Sat, 8 Aug 2026.
 
 The Twins is a techno artist based in France, tracked on soundcheck, with 4 sets logged across Bristol and London. Often billed alongside 10cust, ALCATRAZ and Ali RQ. Next up: M.O.T, London on Sat 8 Aug.
 
@@ -20,4 +20,4 @@ The Twins is a techno artist based in France, tracked on soundcheck, with 4 sets
 
 10cust, ALCATRAZ, Ali RQ
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/thetwins/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/thetwins/)*

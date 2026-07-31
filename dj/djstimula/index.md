@@ -1,6 +1,6 @@
 # DJ STIMULA
 
-DJ STIMULA is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at Wilhelm-Külz Park, Leipzig on Sat, 1 Aug 2026.
+DJ STIMULA is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at Wilhelm-Külz Park, Leipzig on Sat, 1 Aug 2026.
 
 DJ STIMULA is a techno and trance artist tracked on soundcheck, with 50 sets logged across Leipzig. Often billed alongside LUZI (2), Nienein and R-SOHR. Next up: Wilhelm-Külz Park, Leipzig on Sat 1 Aug.
 
@@ -25,4 +25,4 @@ DJ STIMULA is a techno and trance artist tracked on soundcheck, with 50 sets log
 
 LUZI (2), Nienein, R-SOHR
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/djstimula/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/djstimula/)*

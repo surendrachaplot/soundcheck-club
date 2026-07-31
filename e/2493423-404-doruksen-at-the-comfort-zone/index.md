@@ -1,6 +1,6 @@
 # 404: Doruksen at The Comfort Zone
 
-404: Doruksen at The Comfort Zone on Fri 7 Aug, Toronto. 6 acts on the bill: A_C_E., Axel Esphinoza, Doruksen and KILL 9 1 and 2 more. Techno. Preview the line-up and save it on soundcheck.
+404: Doruksen at The Comfort Zone on Fri 7 Aug, Toronto. 7 acts on the bill: A_C_E., Axel Esphinoza, Doruksen and KILL 9 1 and 3 more. Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -16,5 +16,6 @@
 - KILL 9 1
 - MENACE (CA)
 - V (Toronto)
+- WENG (2)
 
 *Source: [soundcheck](https://soundcheck.club/e/2493423-404-doruksen-at-the-comfort-zone/)*

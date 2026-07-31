@@ -1,6 +1,6 @@
 # Bootshaus
 
-Bootshaus is a music venue in Cologne with 15 upcoming nights listed on soundcheck as of Thu, 30 Jul 2026; the next is "PLAY Open Air / Bootshaus" on Sat, 1 Aug 2026.
+Bootshaus is a music venue in Cologne with 15 upcoming nights listed on soundcheck as of Fri, 31 Jul 2026; the next is "PLAY Open Air / Bootshaus" on Sat, 1 Aug 2026.
 
 Bootshaus is a music venue in Cologne listed on soundcheck. 15 upcoming nights, with line-ups including Afem Syko, Alba Franch, Badlokk and BIIANCO and 2 more. Browse upcoming dates, start times and who's playing. Auenweg 173; 51063 Cologne; Germany.
 
@@ -23,4 +23,4 @@ Bootshaus is a music venue in Cologne listed on soundcheck. 15 upcoming nights, 
 
 Auenweg 173; 51063 Cologne; Germany, Cologne
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/cologne/club/bootshaus/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/cologne/club/bootshaus/)*

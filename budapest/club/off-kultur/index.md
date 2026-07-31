@@ -1,6 +1,6 @@
 # OFF Kultur
 
-OFF Kultur is a music venue in Budapest with 1 upcoming night listed on soundcheck as of Thu, 30 Jul 2026; the next is "Rave Angels x Nachtwerk PRES. INDUSTRIAL TAKEOVER III" on Sat, 8 Aug 2026.
+OFF Kultur is a music venue in Budapest with 1 upcoming night listed on soundcheck as of Fri, 31 Jul 2026; the next is "Rave Angels x Nachtwerk PRES. INDUSTRIAL TAKEOVER III" on Sat, 8 Aug 2026.
 
 OFF Kultur is a music venue in Budapest listed on soundcheck. 1 upcoming night. Browse upcoming dates, start times and who's playing. 1045 Budapest, Berni utca 1..
 
@@ -14,4 +14,4 @@ OFF Kultur is a music venue in Budapest listed on soundcheck. 1 upcoming night. 
 
 1045 Budapest, Berni utca 1., Budapest
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/budapest/club/off-kultur/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/budapest/club/off-kultur/)*

@@ -1,6 +1,6 @@
 # Dinamo Azari
 
-Dinamo Azari is a Disco and House artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at 915 Dupont, Toronto on Fri, 31 Jul 2026.
+Dinamo Azari is a Disco and House artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at 915 Dupont, Toronto on Fri, 31 Jul 2026.
 
 Dinamo Azari is a disco and house artist based in Canada, tracked on soundcheck, with 3 sets logged across Toronto. Often billed alongside Alister Johnson and Mike Medow. Next up: 915 Dupont, Toronto on Fri 31 Jul.
 
@@ -19,4 +19,4 @@ Dinamo Azari is a disco and house artist based in Canada, tracked on soundcheck,
 
 Alister Johnson, Mike Medow
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/dinamoazari/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/dinamoazari/)*

@@ -1,6 +1,6 @@
 # Theon Bower
 
-Theon Bower is a Disco and House artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at Burgess Park, London on Sun, 9 Aug 2026.
+Theon Bower is a Disco and House artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at Burgess Park, London on Sun, 9 Aug 2026.
 
 Theon Bower is a disco and house artist tracked on soundcheck, with 42 sets logged across Berlin, Leeds, London and Manchester. Often billed alongside Madeline (UK), Fred Mann and Jamie Joy. Next up: Burgess Park, London on Sun 9 Aug.
 
@@ -25,4 +25,4 @@ Theon Bower is a disco and house artist tracked on soundcheck, with 42 sets logg
 
 Madeline (UK), Fred Mann, Jamie Joy
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/theonbower/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/theonbower/)*

@@ -1,6 +1,6 @@
 # Club 69
 
-Club 69 is a music venue in Glasgow with 5 upcoming nights listed on soundcheck as of Thu, 30 Jul 2026; the next is "Move Vol. 3: Franck" on Fri, 31 Jul 2026.
+Club 69 is a music venue in Glasgow with 5 upcoming nights listed on soundcheck as of Fri, 31 Jul 2026; the next is "Move Vol. 3: Franck" on Fri, 31 Jul 2026.
 
 Club 69 is a music venue in Glasgow listed on soundcheck. 5 upcoming nights, with line-ups including Chris Kerr, DJ John Paul, franck and Karson Ross and 2 more. Browse upcoming dates, start times and who's playing. 40 New Sneddon St; Paisley, PA3 2AZ.
 
@@ -18,4 +18,4 @@ Club 69 is a music venue in Glasgow listed on soundcheck. 5 upcoming nights, wit
 
 40 New Sneddon St; Paisley, PA3 2AZ, Glasgow
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/glasgow/club/club-69/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/glasgow/club/club-69/)*

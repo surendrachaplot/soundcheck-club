@@ -1,6 +1,6 @@
 # Baltra
 
-Baltra is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at Good Room, New York City on Sat, 1 Aug 2026.
+Baltra is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at Good Room, New York City on Sat, 1 Aug 2026.
 
 Baltra is a house and techno artist tracked on soundcheck, with 84 sets logged across Amsterdam, Austin, Barcelona and Berlin and 29 more. Often billed alongside dj poolboi, DJ Cinéma Quartier Latin and Shaolin Cowboy. Next up: Good Room, Newyorkcity on Sat 1 Aug.
 
@@ -25,4 +25,4 @@ Baltra is a house and techno artist tracked on soundcheck, with 84 sets logged a
 
 dj poolboi, DJ Cinéma Quartier Latin, Shaolin Cowboy
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/baltra-us/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/baltra-us/)*

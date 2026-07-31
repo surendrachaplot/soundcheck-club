@@ -1,6 +1,6 @@
 # Hårt
 
-Hårt is a Hardcore and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at Museumspark Rüdersdorf, Berlin on Sat, 1 Aug 2026.
+Hårt is a Hardcore and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at Museumspark Rüdersdorf, Berlin on Sat, 1 Aug 2026.
 
 Hårt is a hardcore and techno artist based in France, tracked on soundcheck, with 2 sets logged across Berlin. Often billed alongside Bass, Techno Frühstück and Tekk. Next up: Museumspark Rüdersdorf, Berlin on Sat 1 Aug.
 
@@ -18,4 +18,4 @@ Hårt is a hardcore and techno artist based in France, tracked on soundcheck, wi
 
 Bass, Techno Frühstück, Tekk
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/hart/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/hart/)*

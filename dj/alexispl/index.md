@@ -1,6 +1,6 @@
 # Alexis (PL)
 
-Alexis (PL) is a Techno and Latin Bass artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at Klub SPATiF, Warsaw on Fri, 31 Jul 2026.
+Alexis (PL) is a Techno and Latin Bass artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at Klub SPATiF, Warsaw on Fri, 31 Jul 2026.
 
 Alexis (PL) is a techno and latin bass artist based in Poland, tracked on soundcheck, with 17 sets logged across Krakow and Warsaw. Often billed alongside Wyrodna, C-Head and Yaroslava. Next up: Klub SPATiF, Warsaw on Fri 31 Jul.
 
@@ -25,4 +25,4 @@ Alexis (PL) is a techno and latin bass artist based in Poland, tracked on soundc
 
 Wyrodna, C-Head, Yaroslava
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/alexispl/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/alexispl/)*

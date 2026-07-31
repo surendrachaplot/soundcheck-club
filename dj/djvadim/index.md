@@ -1,6 +1,6 @@
 # DJ Vadim
 
-DJ Vadim is a Bass and Hip-Hop artist with 2 upcoming club dates listed on soundcheck as of Thu, 30 Jul 2026, next at Matakana Country Park, Auckland on Fri, 31 Jul 2026.
+DJ Vadim is a Bass and Hip-Hop artist with 2 upcoming club dates listed on soundcheck as of Fri, 31 Jul 2026, next at Matakana Country Park, Auckland on Fri, 31 Jul 2026.
 
 DJ Vadim is a bass and hip-hop artist based in Russia, tracked on soundcheck, with 10 sets logged across Auckland, Bangkok, Berlin and London and 4 more. Often billed alongside Big Red, Chris Munky and Congo Natty. Next up: Matakana Country Park, Auckland on Fri 31 Jul.
 
@@ -26,4 +26,4 @@ DJ Vadim is a bass and hip-hop artist based in Russia, tracked on soundcheck, wi
 
 Big Red, Chris Munky, Congo Natty
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/djvadim/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/djvadim/)*

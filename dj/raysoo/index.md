@@ -1,6 +1,6 @@
 # Raysoo
 
-Raysoo is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at TBA - Neo Bar KL - Jalan Binjai 8, Ilham Tower Level 37 ,KLCC, 50450, Kuala Lumpur on Fri, 31 Jul 2026.
+Raysoo is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at TBA - Neo Bar KL - Jalan Binjai 8, Ilham Tower Level 37 ,KLCC, 50450, Kuala Lumpur on Fri, 31 Jul 2026.
 
 Raysoo is a house and techno artist tracked on soundcheck, with 62 sets logged across Bali, Bangkok, Berlin and Ibiza and 2 more. Often billed alongside Biscuit (MY), Meliha and Obadius. Next up: TBA - Neo Bar KL - Jalan Binjai 8, Ilham Tower Level 37 ,KLCC, 50450, Kualalumpur on Fri 31 Jul.
 
@@ -25,4 +25,4 @@ Raysoo is a house and techno artist tracked on soundcheck, with 62 sets logged a
 
 Biscuit (MY), Meliha, Obadius
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/raysoo/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/raysoo/)*

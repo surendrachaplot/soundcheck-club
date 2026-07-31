@@ -1,6 +1,6 @@
 # Jacan
 
-Jacan is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at TBA - ART CLUB Cabriès, Marseille on Sat, 1 Aug 2026.
+Jacan is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at TBA - ART CLUB Cabriès, Marseille on Sat, 1 Aug 2026.
 
 Jacan is a house and techno artist based in France, tracked on soundcheck, with 19 sets logged across Barcelona, Marseille and Paris. Often billed alongside Guillermo Jamas, Darween and Automatic Writing. Next up: TBA - ART CLUB Cabriès, Marseille on Sat 1 Aug.
 
@@ -25,4 +25,4 @@ Jacan is a house and techno artist based in France, tracked on soundcheck, with 
 
 Guillermo Jamas, Darween, Automatic Writing
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/jacan/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/jacan/)*

@@ -1,6 +1,6 @@
 # Trailcam
 
-Trailcam is a Techno and Dub Techno artist with 2 upcoming club dates listed on soundcheck as of Thu, 30 Jul 2026, next at The Jama, Toronto on Fri, 31 Jul 2026.
+Trailcam is a Techno and Dub Techno artist with 2 upcoming club dates listed on soundcheck as of Fri, 31 Jul 2026, next at The Jama, Toronto on Fri, 31 Jul 2026.
 
 Trailcam is a techno and dub techno artist based in Canada, tracked on soundcheck, with 16 sets logged across Berlin, Detroit, London and Melbourne and 4 more. Often billed alongside Anthony Linell, Evigt Mörker and Jessie Granqvist. Next up: The Jama, Toronto on Fri 31 Jul.
 
@@ -26,4 +26,4 @@ Trailcam is a techno and dub techno artist based in Canada, tracked on soundchec
 
 Anthony Linell, Evigt Mörker, Jessie Granqvist
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/trailcam/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/trailcam/)*

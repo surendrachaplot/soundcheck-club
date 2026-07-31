@@ -1,6 +1,6 @@
 # BTAY
 
-BTAY is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at XOYO, London on Sat, 19 Sept 2026.
+BTAY is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at XOYO, London on Sat, 19 Sept 2026.
 
 BTAY is a house and tech house artist based in United Kingdom, tracked on soundcheck, with 5 sets logged across Leeds and London. Often billed alongside Another George, Calvin Clarke and Dennis Quin. Next up: XOYO, London on Sat 19 Sept.
 
@@ -21,4 +21,4 @@ BTAY is a house and tech house artist based in United Kingdom, tracked on soundc
 
 Another George, Calvin Clarke, Dennis Quin
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/btay/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/btay/)*

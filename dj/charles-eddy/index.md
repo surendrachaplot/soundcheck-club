@@ -1,6 +1,6 @@
 # CHARLES-EDDY
 
-CHARLES-EDDY is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at Section 8, Melbourne on Fri, 31 Jul 2026.
+CHARLES-EDDY is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at Section 8, Melbourne on Fri, 31 Jul 2026.
 
 CHARLES-EDDY is a house and deep house artist based in France, tracked on soundcheck, with 21 sets logged across Barcelona, Berlin, Melbourne and Sydney and 1 more. Often billed alongside DJ JNETT, Oscar de Lima and Ed Kent. Next up: Section 8, Melbourne on Fri 31 Jul.
 
@@ -25,4 +25,4 @@ CHARLES-EDDY is a house and deep house artist based in France, tracked on soundc
 
 DJ JNETT, Oscar de Lima, Ed Kent
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/charles-eddy/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/charles-eddy/)*

@@ -1,8 +1,8 @@
 # Sina XX
 
-Sina XX is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Thu, 30 Jul 2026, next at Macadam, Nantes on Sat, 1 Aug 2026.
+Sina XX is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Fri, 31 Jul 2026, next at Macadam, Nantes on Sat, 1 Aug 2026.
 
-Sina XX is a techno and house artist based in France, tracked on soundcheck, with 74 sets logged across Amsterdam, Barcelona, Berlin and Brussels and 20 more. Often billed alongside Nesa Azadikhah, Egna and A.mo. Next up: Macadam, Nantes on Sat 1 Aug.
+Sina XX is a techno and house artist based in France, tracked on soundcheck, with 75 sets logged across Amsterdam, Barcelona, Berlin and Brussels and 20 more. Often billed alongside Nesa Azadikhah, Egna and A.mo. Next up: Macadam, Nantes on Sat 1 Aug.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Sina XX is a techno and house artist based in France, tracked on soundcheck, wit
 | --- | --- | --- |
 | Sat, 1 Aug 2026 | Macadam | Nantes |
 | Sat, 15 Aug 2026 | La Station - Gare des Mines | Paris |
+| Fri, 11 Sept 2026 | Badaboum | Paris |
 
 ## Recently played
 
@@ -26,4 +27,4 @@ Sina XX is a techno and house artist based in France, tracked on soundcheck, wit
 
 Nesa Azadikhah, Egna, A.mo
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/sinaxx/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/sinaxx/)*

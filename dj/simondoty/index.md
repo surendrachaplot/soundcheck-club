@@ -1,6 +1,6 @@
 # Simon Doty
 
-Simon Doty is a Progressive House and House artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at ZeyZey, Miami on Fri, 31 Jul 2026.
+Simon Doty is a Progressive House and House artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at ZeyZey, Miami on Fri, 31 Jul 2026.
 
 Simon Doty is a progressive house and house artist tracked on soundcheck, with 98 sets logged across Austin, Boston, Brighton and Bristol and 30 more. Often billed alongside Marsh, Braxton and Dosem. Next up: ZeyZey, Miami on Fri 31 Jul.
 
@@ -25,4 +25,4 @@ Simon Doty is a progressive house and house artist tracked on soundcheck, with 9
 
 Marsh, Braxton, Dosem
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/simondoty/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/simondoty/)*

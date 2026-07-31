@@ -1,6 +1,6 @@
 # Aveen
 
-Aveen is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at TBA - Warschauer Pl. 18, 10245 Berlin, Berlin on Sat, 1 Aug 2026.
+Aveen is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at TBA - Warschauer Pl. 18, 10245 Berlin, Berlin on Sat, 1 Aug 2026.
 
 Aveen is a techno and trance artist based in United Kingdom, tracked on soundcheck, with 11 sets logged across Berlin, Glasgow and Madrid. Often billed alongside CUNT REMEMBER, PAX (2) and Shaven. Next up: TBA - Warschauer Pl. 18, 10245 Berlin, Berlin on Sat 1 Aug.
 
@@ -25,4 +25,4 @@ Aveen is a techno and trance artist based in United Kingdom, tracked on soundche
 
 CUNT REMEMBER, PAX (2), Shaven
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/djaveen/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/djaveen/)*

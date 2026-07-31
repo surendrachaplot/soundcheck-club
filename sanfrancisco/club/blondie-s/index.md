@@ -1,6 +1,6 @@
 # Blondie's
 
-Blondie's is a music venue in San Francisco/Oakland with 1 upcoming night listed on soundcheck as of Thu, 30 Jul 2026; the next is "Cy Grooves at Blondies" on Fri, 31 Jul 2026.
+Blondie's is a music venue in San Francisco/Oakland with 1 upcoming night listed on soundcheck as of Fri, 31 Jul 2026; the next is "Cy Grooves at Blondies" on Fri, 31 Jul 2026.
 
 Blondie's is a music venue in Sanfrancisco listed on soundcheck. 1 upcoming night, with line-ups including YANNI. Browse upcoming dates, start times and who's playing. 540 Valencia, San Francisco, CA 94110, USA.
 
@@ -14,4 +14,4 @@ Blondie's is a music venue in Sanfrancisco listed on soundcheck. 1 upcoming nigh
 
 540 Valencia, San Francisco, CA 94110, USA, San Francisco/Oakland
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/sanfrancisco/club/blondie-s/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/sanfrancisco/club/blondie-s/)*

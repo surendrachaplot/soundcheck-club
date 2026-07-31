@@ -1,6 +1,6 @@
 # Markem
 
-Markem is a House and Afro House artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at Lion's Den, Miami on Sat, 8 Aug 2026.
+Markem is a House and Afro House artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at Lion's Den, Miami on Sat, 8 Aug 2026.
 
 Markem is a house and afro house artist based in United States of America, tracked on soundcheck, with 14 sets logged across Barcelona, Istanbul, Losangeles and Miami. Often billed alongside ANDREATENS, Atomyard and Cristobal ON. Next up: Lion's Den, Miami on Sat 8 Aug.
 
@@ -25,4 +25,4 @@ Markem is a house and afro house artist based in United States of America, track
 
 ANDREATENS, Atomyard, Cristobal ON
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/markem-us/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/markem-us/)*

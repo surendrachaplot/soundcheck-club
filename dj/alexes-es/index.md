@@ -1,6 +1,6 @@
 # Alex (ES)
 
-Alex (ES) is a Minimal and House artist with 4 upcoming club dates listed on soundcheck as of Thu, 30 Jul 2026, next at Hola Club Sitges (Cala Vallcarca), Barcelona on Sat, 1 Aug 2026.
+Alex (ES) is a Minimal and House artist with 4 upcoming club dates listed on soundcheck as of Fri, 31 Jul 2026, next at Hola Club Sitges (Cala Vallcarca), Barcelona on Sat, 1 Aug 2026.
 
 Alex (ES) is a minimal and house artist tracked on soundcheck, with 94 sets logged across Amsterdam, Barcelona, Berlin and Bucharest and 3 more. Often billed alongside Hitch, Sampol and De La Swing. Next up: Hola Club Sitges (Cala Vallcarca), Barcelona on Sat 1 Aug.
 
@@ -28,4 +28,4 @@ Alex (ES) is a minimal and house artist tracked on soundcheck, with 94 sets logg
 
 Hitch, Sampol, De La Swing
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/alexes-es/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/alexes-es/)*

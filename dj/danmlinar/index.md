@@ -1,6 +1,6 @@
 # Dan Mlinar
 
-Dan Mlinar is a Techno and Tech House artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at Palais, Munich on Fri, 31 Jul 2026.
+Dan Mlinar is a Techno and Tech House artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at Palais, Munich on Fri, 31 Jul 2026.
 
 Dan Mlinar is a techno and tech house artist based in Germany, tracked on soundcheck, with 35 sets logged across Berlin, Copenhagen, Munich and Nurnberg. Often billed alongside VALOUR, CHOOSE WHITE and Modul Kollektiv. Next up: Palais, Munich on Fri 31 Jul.
 
@@ -25,4 +25,4 @@ Dan Mlinar is a techno and tech house artist based in Germany, tracked on soundc
 
 VALOUR, CHOOSE WHITE, Modul Kollektiv
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/danmlinar/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/danmlinar/)*

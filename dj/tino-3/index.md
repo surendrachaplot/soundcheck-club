@@ -1,6 +1,6 @@
 # Tino (3)
 
-Tino (3) is a Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at Poolen, Copenhagen on Sat, 8 Aug 2026.
+Tino (3) is a Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at Poolen, Copenhagen on Sat, 8 Aug 2026.
 
 Tino (3) is a techno artist based in Denmark, tracked on soundcheck, with 8 sets logged across Copenhagen. Often billed alongside Elliott Taguchi, Johannes Astrup and Milo Makua. Next up: Poolen, Copenhagen on Sat 8 Aug.
 
@@ -24,4 +24,4 @@ Tino (3) is a techno artist based in Denmark, tracked on soundcheck, with 8 sets
 
 Elliott Taguchi, Johannes Astrup, Milo Makua
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/tino-3/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/tino-3/)*

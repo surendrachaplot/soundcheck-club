@@ -1,6 +1,6 @@
 # Ari Cherry
 
-Ari Cherry is a Techno and Ghetto Tech artist with 2 upcoming club dates listed on soundcheck as of Thu, 30 Jul 2026, next at ESC, Montreal on Fri, 31 Jul 2026.
+Ari Cherry is a Techno and Ghetto Tech artist with 2 upcoming club dates listed on soundcheck as of Fri, 31 Jul 2026, next at ESC, Montreal on Fri, 31 Jul 2026.
 
 Ari Cherry is a techno and ghetto tech artist based in Canada, tracked on soundcheck, with 13 sets logged across Montreal. Often billed alongside nastygloss, Casa Kobrae and Billy Bondage. Next up: ESC, Montreal on Fri 31 Jul.
 
@@ -26,4 +26,4 @@ Ari Cherry is a techno and ghetto tech artist based in Canada, tracked on soundc
 
 nastygloss, Casa Kobrae, Billy Bondage
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/aricherry/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/aricherry/)*

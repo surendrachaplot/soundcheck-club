@@ -1,6 +1,6 @@
 # Arts Club
 
-Arts Club is a music venue in Liverpool with 8 upcoming nights listed on soundcheck as of Thu, 30 Jul 2026; the next is "Bass Face // LIVERPOOL // DNB . 360° SUMMER SPECIAL w.*VERY SPECIAL GUESTS*! LAST FREE TICKETS" on Fri, 31 Jul 2026.
+Arts Club is a music venue in Liverpool with 8 upcoming nights listed on soundcheck as of Fri, 31 Jul 2026; the next is "Bass Face // LIVERPOOL // DNB . 360° SUMMER SPECIAL w.*VERY SPECIAL GUESTS*! LAST FREE TICKETS" on Fri, 31 Jul 2026.
 
 Arts Club is a music venue in Liverpool listed on soundcheck. 8 upcoming nights, with line-ups including 1-800 GIRLS, Beaux, Dom Townsend and Jade Edwards and 2 more. Browse upcoming dates, start times and who's playing. 90 Seel Street; Liverpool; L1 4BH; United Kingdom.
 
@@ -21,4 +21,4 @@ Arts Club is a music venue in Liverpool listed on soundcheck. 8 upcoming nights,
 
 90 Seel Street; Liverpool; L1 4BH; United Kingdom, Liverpool
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/liverpool/club/arts-club/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/liverpool/club/arts-club/)*

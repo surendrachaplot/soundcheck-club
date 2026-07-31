@@ -1,6 +1,6 @@
 # David Cabrera
 
-David Cabrera is a House and Electronica artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at TBA, Barcelona on Sat, 1 Aug 2026.
+David Cabrera is a House and Electronica artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at TBA, Barcelona on Sat, 1 Aug 2026.
 
 David Cabrera is a house and electronica artist based in Spain, tracked on soundcheck, with 3 sets logged across Barcelona and Madrid. Often billed alongside Dj Homie, Ninalash! and Borch. Next up: TBA, Barcelona on Sat 1 Aug.
 
@@ -19,4 +19,4 @@ David Cabrera is a house and electronica artist based in Spain, tracked on sound
 
 Dj Homie, Ninalash!, Borch
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/davidcabrera/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/davidcabrera/)*

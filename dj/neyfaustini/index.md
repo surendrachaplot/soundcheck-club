@@ -1,6 +1,6 @@
 # Ney Faustini
 
-Ney Faustini is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at Major Bar & Pista, Sao Paulo on Fri, 31 Jul 2026.
+Ney Faustini is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at Major Bar & Pista, Sao Paulo on Fri, 31 Jul 2026.
 
 Ney Faustini is a house and techno artist tracked on soundcheck, with 32 sets logged across Boston, Miami and Saopaulo. Often billed alongside Rafael Moraes, Adnan Sharif and Renato Ratier. Next up: Major Bar & Pista, Saopaulo on Fri 31 Jul.
 
@@ -25,4 +25,4 @@ Ney Faustini is a house and techno artist tracked on soundcheck, with 32 sets lo
 
 Rafael Moraes, Adnan Sharif, Renato Ratier
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/neyfaustini/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/neyfaustini/)*

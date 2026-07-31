@@ -1,6 +1,6 @@
 # GM1 (IT)
 
-GM1 (IT) is a Techno and Trance artist with 2 upcoming club dates listed on soundcheck as of Thu, 30 Jul 2026, next at ÆDEN, Berlin on Thu, 6 Aug 2026.
+GM1 (IT) is a Techno and Trance artist with 2 upcoming club dates listed on soundcheck as of Fri, 31 Jul 2026, next at ÆDEN, Berlin on Thu, 6 Aug 2026.
 
 GM1 (IT) is a techno and trance artist based in Germany, tracked on soundcheck, with 26 sets logged across Berlin. Often billed alongside Hanne B, Amo (IT) and 4NOUK. Next up: ÆDEN, Berlin on Thu 6 Aug.
 
@@ -26,4 +26,4 @@ GM1 (IT) is a techno and trance artist based in Germany, tracked on soundcheck, 
 
 Hanne B, Amo (IT), 4NOUK
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/gm1it/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/gm1it/)*

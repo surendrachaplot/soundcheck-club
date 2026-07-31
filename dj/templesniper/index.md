@@ -1,6 +1,6 @@
 # Temple Sniper
 
-Temple Sniper is a Garage and Disco artist with 2 upcoming club dates listed on soundcheck as of Thu, 30 Jul 2026, next at Hillhead Bookclub, Glasgow on Fri, 31 Jul 2026.
+Temple Sniper is a Garage and Disco artist with 2 upcoming club dates listed on soundcheck as of Fri, 31 Jul 2026, next at Hillhead Bookclub, Glasgow on Fri, 31 Jul 2026.
 
 Temple Sniper is a garage and disco artist based in United Kingdom, tracked on soundcheck, with 28 sets logged across Edinburgh, Glasgow and London. Often billed alongside Marky Marbles, Corran and Daniel Hive. Next up: Hillhead Bookclub, Glasgow on Fri 31 Jul.
 
@@ -26,4 +26,4 @@ Temple Sniper is a garage and disco artist based in United Kingdom, tracked on s
 
 Marky Marbles, Corran, Daniel Hive
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/templesniper/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/templesniper/)*

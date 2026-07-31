@@ -1,6 +1,6 @@
 # KVALI
 
-KVALI is a electronic artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at Meteor Studio, Tbilisi on Fri, 31 Jul 2026.
+KVALI is a electronic artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at Meteor Studio, Tbilisi on Fri, 31 Jul 2026.
 
 KVALI is an electronic artist based in Georgia, tracked on soundcheck, with 8 sets logged across Tbilisi. Often billed alongside SUMO, 3AM (GE) and 9EYE. Next up: Meteor Studio, Tbilisi on Fri 31 Jul.
 
@@ -24,4 +24,4 @@ KVALI is an electronic artist based in Georgia, tracked on soundcheck, with 8 se
 
 SUMO, 3AM (GE), 9EYE
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/kvali/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/kvali/)*

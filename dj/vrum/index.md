@@ -1,6 +1,6 @@
 # VRUM
 
-VRUM is a Drum & Bass and Dubstep artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at Distillery, Leipzig on Fri, 14 Aug 2026.
+VRUM is a Drum & Bass and Dubstep artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at Distillery, Leipzig on Fri, 14 Aug 2026.
 
 VRUM is a drum & bass and dubstep artist based in Germany, tracked on soundcheck, with 5 sets logged across Leipzig. Often billed alongside Dubbalot, Relict and audite. Next up: Distillery, Leipzig on Fri 14 Aug.
 
@@ -21,4 +21,4 @@ VRUM is a drum & bass and dubstep artist based in Germany, tracked on soundcheck
 
 Dubbalot, Relict, audite
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/vrum/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/vrum/)*

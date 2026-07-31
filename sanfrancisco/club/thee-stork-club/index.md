@@ -1,6 +1,6 @@
 # Thee Stork Club
 
-Thee Stork Club is a music venue in San Francisco/Oakland with 2 upcoming nights listed on soundcheck as of Thu, 30 Jul 2026; the next is "Club Giovani presents: summer Edition" on Sat, 1 Aug 2026.
+Thee Stork Club is a music venue in San Francisco/Oakland with 2 upcoming nights listed on soundcheck as of Fri, 31 Jul 2026; the next is "Club Giovani presents: summer Edition" on Sat, 1 Aug 2026.
 
 Thee Stork Club is a music venue in Sanfrancisco listed on soundcheck. 2 upcoming nights, with line-ups including Femmelectric and Jaage. Browse upcoming dates, start times and who's playing. 2330 Telegraph Ave, Oakland, CA 94612.
 
@@ -15,4 +15,4 @@ Thee Stork Club is a music venue in Sanfrancisco listed on soundcheck. 2 upcomin
 
 2330 Telegraph Ave, Oakland, CA 94612, San Francisco/Oakland
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/sanfrancisco/club/thee-stork-club/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/sanfrancisco/club/thee-stork-club/)*

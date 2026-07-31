@@ -1,6 +1,6 @@
 # Jiggy Crack
 
-Jiggy Crack is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at Bossa Nova Civic Club, New York City on Sun, 23 Aug 2026.
+Jiggy Crack is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at Bossa Nova Civic Club, New York City on Sun, 23 Aug 2026.
 
 Jiggy Crack is a techno and house artist based in United States of America, tracked on soundcheck, with 2 sets logged across Newyorkcity. Often billed alongside Berrakka, DJ Freedem and HYPERFEMME. Next up: Bossa Nova Civic Club, Newyorkcity on Sun 23 Aug.
 
@@ -18,4 +18,4 @@ Jiggy Crack is a techno and house artist based in United States of America, trac
 
 Berrakka, DJ Freedem, HYPERFEMME
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/jiggycrack/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/jiggycrack/)*

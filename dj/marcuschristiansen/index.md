@@ -1,6 +1,6 @@
 # Marcus Christiansen
 
-Marcus Christiansen is a Italo Disco and EBM artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at Slakthuset, Stockholm on Fri, 31 Jul 2026.
+Marcus Christiansen is a Italo Disco and EBM artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at Slakthuset, Stockholm on Fri, 31 Jul 2026.
 
 Marcus Christiansen is an italo disco and ebm artist based in Sweden, tracked on soundcheck, with 21 sets logged across Berlin and Stockholm. Often billed alongside Shimanski, My Secret Playground and saeuer. Next up: Slakthuset, Stockholm on Fri 31 Jul.
 
@@ -25,4 +25,4 @@ Marcus Christiansen is an italo disco and ebm artist based in Sweden, tracked on
 
 Shimanski, My Secret Playground, saeuer
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/marcuschristiansen/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/marcuschristiansen/)*

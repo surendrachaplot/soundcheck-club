@@ -1,6 +1,6 @@
 # Neil And I
 
-Neil And I is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at Moon Club, Bristol on Thu, 17 Sept 2026.
+Neil And I is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at Moon Club, Bristol on Thu, 17 Sept 2026.
 
 Neil And I are a techno and trance duo based in United Kingdom, tracked on soundcheck, with 15 sets logged across Bristol and Dublin. Often billed alongside Loli, ROWANA and Sharpson. Next up: Moon Club, Bristol on Thu 17 Sept.
 
@@ -25,4 +25,4 @@ Neil And I are a techno and trance duo based in United Kingdom, tracked on sound
 
 Loli, ROWANA, Sharpson
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/neilandi/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/neilandi/)*

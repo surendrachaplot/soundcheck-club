@@ -1,6 +1,6 @@
 # Diskay
 
-Diskay is a House and Electro artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at La Maroquinerie, Paris on Thu, 8 Oct 2026.
+Diskay is a House and Electro artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at La Maroquinerie, Paris on Thu, 8 Oct 2026.
 
 Diskay is a house and electro artist based in France, tracked on soundcheck, with 61 sets logged across Paris. Often billed alongside Tiki Taka, Nhyx and Nils Hoffmann. Next up: La Maroquinerie, Paris on Thu 8 Oct.
 
@@ -25,4 +25,4 @@ Diskay is a house and electro artist based in France, tracked on soundcheck, wit
 
 Tiki Taka, Nhyx, Nils Hoffmann
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/diskay/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/diskay/)*

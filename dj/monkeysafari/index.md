@@ -1,14 +1,15 @@
 # Monkey Safari
 
-Monkey Safari is a House and Techno artist with 5 upcoming club dates listed on soundcheck as of Thu, 30 Jul 2026, next at Phoxxi Green Area, Hamburg on Sat, 8 Aug 2026.
+Monkey Safari is a House and Techno artist with 6 upcoming club dates listed on soundcheck as of Fri, 31 Jul 2026, next at Phoxxi Green Area, Hamburg on Sat, 8 Aug 2026.
 
-Monkey Safari is a house and techno artist tracked on soundcheck, with 103 sets logged across Amsterdam, Barcelona, Berlin and Cologne and 30 more. Often billed alongside Einmusik, Surreal Flight and ELIF. Next up: Phoxxi Green Area, Hamburg on Sat 8 Aug.
+Monkey Safari is a house and techno artist tracked on soundcheck, with 104 sets logged across Amsterdam, Barcelona, Berlin and Cologne and 30 more. Often billed alongside Einmusik, Surreal Flight and ELIF. Next up: Phoxxi Green Area, Hamburg on Sat 8 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 8 Aug 2026 | Phoxxi Green Area | Hamburg |
+| Fri, 21 Aug 2026 | The Bridge | Los Angeles |
 | Fri, 25 Sept 2026 | TBA - Newcastle Australia | Newcastle |
 | Fri, 25 Sept 2026 | Maitland Showground | Sydney |
 | Sun, 27 Sept 2026 | Revolver Upstairs | Melbourne |
@@ -29,4 +30,4 @@ Monkey Safari is a house and techno artist tracked on soundcheck, with 103 sets 
 
 Einmusik, Surreal Flight, ELIF
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/monkeysafari/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/monkeysafari/)*

@@ -1,6 +1,6 @@
 # Mi.ON
 
-Mi.ON is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at Smolna, Warsaw on Fri, 31 Jul 2026.
+Mi.ON is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at Smolna, Warsaw on Fri, 31 Jul 2026.
 
 Mi.ON is a house and techno artist tracked on soundcheck, with 10 sets logged across Warsaw. Often billed alongside VIGILANT, KÆS and BEXA. Next up: Smolna, Warsaw on Fri 31 Jul.
 
@@ -25,4 +25,4 @@ Mi.ON is a house and techno artist tracked on soundcheck, with 10 sets logged ac
 
 VIGILANT, KÆS, BEXA
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/mi.on/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/mi.on/)*

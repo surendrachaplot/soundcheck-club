@@ -1,6 +1,6 @@
 # LAYA
 
-LAYA is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at Prater Vienna, Vienna on Fri, 31 Jul 2026.
+LAYA is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at Prater Vienna, Vienna on Fri, 31 Jul 2026.
 
 LAYA is a techno and house artist based in South Korea, tracked on soundcheck, with 13 sets logged across Mexicocity, Seoul and Vienna. Often billed alongside Deekay, Dimaio and Dwight Evan. Next up: Prater Vienna, Vienna on Fri 31 Jul.
 
@@ -25,4 +25,4 @@ LAYA is a techno and house artist based in South Korea, tracked on soundcheck, w
 
 Deekay, Dimaio, Dwight Evan
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/laya/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/laya/)*

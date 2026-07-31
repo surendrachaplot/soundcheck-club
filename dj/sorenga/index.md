@@ -1,6 +1,6 @@
 # Sørenga
 
-Sørenga is a Techno and Hardcore artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at Ministerium Club, Lisbon on Thu, 6 Aug 2026.
+Sørenga is a Techno and Hardcore artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at Ministerium Club, Lisbon on Thu, 6 Aug 2026.
 
 Sørenga is a techno and hardcore artist based in Ukraine, tracked on soundcheck, with 16 sets logged across Amsterdam, Antwerp, Budapest and Istanbul and 3 more. Often billed alongside PARAPHER, VRODAK and D|K|OXY. Next up: Ministerium Club, Lisbon on Thu 6 Aug.
 
@@ -25,4 +25,4 @@ Sørenga is a techno and hardcore artist based in Ukraine, tracked on soundcheck
 
 PARAPHER, VRODAK, D|K|OXY
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/sorenga/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/sorenga/)*

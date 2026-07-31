@@ -1,6 +1,6 @@
 # Haylo
 
-Haylo is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at Revolver Upstairs, Melbourne on Sun, 2 Aug 2026.
+Haylo is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at Revolver Upstairs, Melbourne on Sun, 2 Aug 2026.
 
 Haylo is a house and disco artist based in United Kingdom, tracked on soundcheck, with 5 sets logged across London and Melbourne. Often billed alongside Arnie Wrong, Bear Winder and Bec Grenfell. Next up: Revolver Upstairs, Melbourne on Sun 2 Aug.
 
@@ -21,4 +21,4 @@ Haylo is a house and disco artist based in United Kingdom, tracked on soundcheck
 
 Arnie Wrong, Bear Winder, Bec Grenfell
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/haylo/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/haylo/)*

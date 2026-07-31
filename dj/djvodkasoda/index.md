@@ -1,6 +1,6 @@
 # DJVODKASODA
 
-DJVODKASODA is a Techno and Club artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at The Eagle of Detroit, Detroit on Fri, 31 Jul 2026.
+DJVODKASODA is a Techno and Club artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at The Eagle of Detroit, Detroit on Fri, 31 Jul 2026.
 
 DJVODKASODA is a techno and club artist based in Canada, tracked on soundcheck, with 12 sets logged across Detroit. Often billed alongside Wax Assassin, LATEX GIRL and DJ DARIA. Next up: The Eagle of Detroit, Detroit on Fri 31 Jul.
 
@@ -25,4 +25,4 @@ DJVODKASODA is a techno and club artist based in Canada, tracked on soundcheck, 
 
 Wax Assassin, LATEX GIRL, DJ DARIA
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/djvodkasoda/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/djvodkasoda/)*

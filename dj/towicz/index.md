@@ -1,6 +1,6 @@
 # Towicz
 
-Towicz is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at TBA - Near Berlin (Secret Forest), Berlin on Thu, 6 Aug 2026.
+Towicz is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at TBA - Near Berlin (Secret Forest), Berlin on Thu, 6 Aug 2026.
 
 Towicz is a techno and trance artist tracked on soundcheck, with 24 sets logged across Berlin, Munich and Nurnberg. Often billed alongside Dominique Lamee, HNAS and Janky. Next up: TBA - Near Berlin (Secret Forest), Berlin on Thu 6 Aug.
 
@@ -25,4 +25,4 @@ Towicz is a techno and trance artist tracked on soundcheck, with 24 sets logged 
 
 Dominique Lamee, HNAS, Janky
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/towicz/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/towicz/)*

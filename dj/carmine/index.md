@@ -1,6 +1,6 @@
 # Carmine
 
-Carmine is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at Zürich - Various Venues, Zurich on Mon, 3 Aug 2026.
+Carmine is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at Zürich - Various Venues, Zurich on Mon, 3 Aug 2026.
 
 Carmine is a techno and house artist based in United States of America, tracked on soundcheck, with 10 sets logged across Austin, Losangeles, Sanfrancisco and Zurich. Often billed alongside Brick (US), dogtooth and FAUNA (2). Next up: Zürich - Various Venues, Zurich on Mon 3 Aug.
 
@@ -25,4 +25,4 @@ Carmine is a techno and house artist based in United States of America, tracked 
 
 Brick (US), dogtooth, FAUNA (2)
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/carmine/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/carmine/)*

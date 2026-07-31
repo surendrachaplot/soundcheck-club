@@ -1,6 +1,6 @@
 # DJ Flexure
 
-DJ Flexure is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at White Space Lab, Tokyo on Sat, 1 Aug 2026.
+DJ Flexure is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at White Space Lab, Tokyo on Sat, 1 Aug 2026.
 
 DJ Flexure is a techno and house artist based in Japan, tracked on soundcheck, with 11 sets logged across Tokyo. Often billed alongside Tommy House, cirra and CJ (Plus Ones). Next up: White Space Lab, Tokyo on Sat 1 Aug.
 
@@ -25,4 +25,4 @@ DJ Flexure is a techno and house artist based in Japan, tracked on soundcheck, w
 
 Tommy House, cirra, CJ (Plus Ones)
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/djflexure/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/djflexure/)*

@@ -1,8 +1,8 @@
 # Starlane Pizza Bar
 
-Starlane Pizza Bar is a music venue in London with 30 upcoming nights listed on soundcheck as of Thu, 30 Jul 2026; the next is "JFF invites StandUP - Just For Fun 4" on Fri, 31 Jul 2026.
+Starlane Pizza Bar is a music venue in London with 31 upcoming nights listed on soundcheck as of Fri, 31 Jul 2026; the next is "JFF invites StandUP - Just For Fun 4" on Fri, 31 Jul 2026.
 
-Starlane Pizza Bar is a music venue in London listed on soundcheck. 30 upcoming nights, with line-ups including TommyGDJ, ad*n, Aerofunk and Aniaef and 2 more. Browse upcoming dates, start times and who's playing. 12 Cody Road, E16 4SR London, United Kingdom.
+Starlane Pizza Bar is a music venue in London listed on soundcheck. 31 upcoming nights, with line-ups including TommyGDJ, ad*n, Aerofunk and Aniaef and 2 more. Browse upcoming dates, start times and who's playing. 12 Cody Road, E16 4SR London, United Kingdom.
 
 ## What's on
 
@@ -23,4 +23,4 @@ Starlane Pizza Bar is a music venue in London listed on soundcheck. 30 upcoming 
 
 12 Cody Road, E16 4SR London, United Kingdom, London
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/london/club/starlane-pizza-bar/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/london/club/starlane-pizza-bar/)*

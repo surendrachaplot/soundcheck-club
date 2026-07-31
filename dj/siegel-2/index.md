@@ -1,6 +1,6 @@
 # SIEGEL (2)
 
-SIEGEL (2) is a House and Tech House artist with 3 upcoming club dates listed on soundcheck as of Thu, 30 Jul 2026, next at Floyd, Miami on Sat, 1 Aug 2026.
+SIEGEL (2) is a House and Tech House artist with 3 upcoming club dates listed on soundcheck as of Fri, 31 Jul 2026, next at Floyd, Miami on Sat, 1 Aug 2026.
 
 SIEGEL (2) is a house and tech house artist based in United States of America, tracked on soundcheck, with 30 sets logged across Losangeles, Miami, Montreal and Newyorkcity. Often billed alongside Cami di Marzo, DIFFER and JOVIGIBS. Next up: Floyd, Miami on Sat 1 Aug.
 
@@ -27,4 +27,4 @@ SIEGEL (2) is a house and tech house artist based in United States of America, t
 
 Cami di Marzo, DIFFER, JOVIGIBS
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/siegel-2/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/siegel-2/)*

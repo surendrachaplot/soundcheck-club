@@ -1,6 +1,6 @@
 # Benski
 
-Benski is a Drum & Bass and Jungle artist with 2 upcoming club dates listed on soundcheck as of Thu, 30 Jul 2026, next at Let it Roll Festival @Lake Most, Prague on Fri, 31 Jul 2026.
+Benski is a Drum & Bass and Jungle artist with 2 upcoming club dates listed on soundcheck as of Fri, 31 Jul 2026, next at Let it Roll Festival @Lake Most, Prague on Fri, 31 Jul 2026.
 
 Benski is a drum & bass and jungle artist based in Germany, tracked on soundcheck, with 8 sets logged across Berlin, Hamburg, Lisbon and Prague and 1 more. Often billed alongside Upzet, Eightball and Sindicate. Next up: Let it Roll Festival @Lake Most, Prague on Fri 31 Jul.
 
@@ -24,4 +24,4 @@ Benski is a drum & bass and jungle artist based in Germany, tracked on soundchec
 
 Upzet, Eightball, Sindicate
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/benski/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/benski/)*

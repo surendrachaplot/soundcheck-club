@@ -1,6 +1,6 @@
 # ucanquit
 
-ucanquit is a Techno and Industrial artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at Le Red Room, Montreal on Sun, 16 Aug 2026.
+ucanquit is a Techno and Industrial artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at Le Red Room, Montreal on Sun, 16 Aug 2026.
 
 ucanquit is a techno and industrial artist based in Ukraine, tracked on soundcheck, with 22 sets logged across Montreal and Toronto. Often billed alongside BUYMEFLOVVERS, Karscher and Bianca Badita. Next up: Le Red Room, Montreal on Sun 16 Aug.
 
@@ -25,4 +25,4 @@ ucanquit is a techno and industrial artist based in Ukraine, tracked on soundche
 
 BUYMEFLOVVERS, Karscher, Bianca Badita
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/ucanquit/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/ucanquit/)*

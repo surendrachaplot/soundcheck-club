@@ -1,6 +1,6 @@
 # Petar Tverkal
 
-Petar Tverkal is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at Mastak, Warsaw on Fri, 31 Jul 2026.
+Petar Tverkal is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at Mastak, Warsaw on Fri, 31 Jul 2026.
 
 Petar Tverkal is a techno and trance artist tracked on soundcheck, with 33 sets logged across Krakow and Warsaw. Often billed alongside Helga, 1 AM (1) and Eren Ömür Cihangir. Next up: Mastak, Warsaw on Fri 31 Jul.
 
@@ -25,4 +25,4 @@ Petar Tverkal is a techno and trance artist tracked on soundcheck, with 33 sets 
 
 Helga, 1 AM (1), Eren Ömür Cihangir
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/petartverkal/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/petartverkal/)*

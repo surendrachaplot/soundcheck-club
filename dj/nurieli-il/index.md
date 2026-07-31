@@ -1,6 +1,6 @@
 # Nurieli
 
-Nurieli is a electronic artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at Akasha Las Dalias Club - Ibiza, Ibiza on Wed, 5 Aug 2026.
+Nurieli is a electronic artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at Akasha Las Dalias Club - Ibiza, Ibiza on Wed, 5 Aug 2026.
 
 Nurieli is an electronic artist based in Israel, tracked on soundcheck, with 5 sets logged across Ibiza. Often billed alongside Amu (1), Alok and Bruz. Next up: Akasha Las Dalias Club - Ibiza, Ibiza on Wed 5 Aug.
 
@@ -21,4 +21,4 @@ Nurieli is an electronic artist based in Israel, tracked on soundcheck, with 5 s
 
 Amu (1), Alok, Bruz
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/nurieli-il/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/nurieli-il/)*

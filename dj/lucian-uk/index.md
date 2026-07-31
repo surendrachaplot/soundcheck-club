@@ -1,6 +1,6 @@
 # Lucian (UK)
 
-Lucian (UK) is a Techno and Club artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at DETROIT CLUB, Barcelona on Fri, 31 Jul 2026.
+Lucian (UK) is a Techno and Club artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at DETROIT CLUB, Barcelona on Fri, 31 Jul 2026.
 
 Lucian (UK) is a techno and club artist tracked on soundcheck, with 27 sets logged across Amsterdam, Barcelona, Leeds and London and 2 more. Often billed alongside CONE (2), MBB_ and INH3LL. Next up: DETROIT CLUB, Barcelona on Fri 31 Jul.
 
@@ -25,4 +25,4 @@ Lucian (UK) is a techno and club artist tracked on soundcheck, with 27 sets logg
 
 CONE (2), MBB_, INH3LL
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/lucian-uk/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/lucian-uk/)*

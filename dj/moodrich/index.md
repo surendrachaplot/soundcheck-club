@@ -1,6 +1,6 @@
 # Moodrich
 
-Moodrich is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at TBA, Berlin on Sat, 1 Aug 2026.
+Moodrich is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at TBA, Berlin on Sat, 1 Aug 2026.
 
 Moodrich is a techno and house artist based in Germany, tracked on soundcheck, with 18 sets logged across Berlin, Brussels, London and Paris and 2 more. Often billed alongside UrbnMowgli, SKAIN and Carl Hang. Next up: TBA, Berlin on Sat 1 Aug.
 
@@ -25,4 +25,4 @@ Moodrich is a techno and house artist based in Germany, tracked on soundcheck, w
 
 UrbnMowgli, SKAIN, Carl Hang
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/moodrich/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/moodrich/)*

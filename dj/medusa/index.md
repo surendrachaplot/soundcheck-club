@@ -1,6 +1,6 @@
 # Medusa
 
-Medusa is a Gabber and Hardcore artist with 3 upcoming club dates listed on soundcheck as of Thu, 30 Jul 2026, next at Le point fort d'Aubervilliers, Paris on Sat, 1 Aug 2026.
+Medusa is a Gabber and Hardcore artist with 3 upcoming club dates listed on soundcheck as of Fri, 31 Jul 2026, next at Le point fort d'Aubervilliers, Paris on Sat, 1 Aug 2026.
 
 Medusa is a gabber and hardcore artist based in Germany, tracked on soundcheck, with 23 sets logged across Basel, Bristol, Detroit and Leeds and 6 more. Often billed alongside Edgerunner, Pada and cyaabottom. Next up: Le point fort d'Aubervilliers, Paris on Sat 1 Aug.
 
@@ -27,4 +27,4 @@ Medusa is a gabber and hardcore artist based in Germany, tracked on soundcheck, 
 
 Edgerunner, Pada, cyaabottom
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/medusa/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/medusa/)*

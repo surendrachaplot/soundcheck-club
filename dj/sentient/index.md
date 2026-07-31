@@ -1,6 +1,6 @@
 # Sentient
 
-Sentient is a Techno and Dubstep artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at Loo Loo, Mexico City on Fri, 31 Jul 2026.
+Sentient is a Techno and Dubstep artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at Loo Loo, Mexico City on Fri, 31 Jul 2026.
 
 Sentient is a techno and dubstep artist based in United States of America, tracked on soundcheck, with 13 sets logged across Bristol, Brussels, London and Mexicocity and 1 more. Often billed alongside Kudeki, monosym and .VRIL. Next up: Loo Loo, Mexicocity on Fri 31 Jul.
 
@@ -25,4 +25,4 @@ Sentient is a techno and dubstep artist based in United States of America, track
 
 Kudeki, monosym, .VRIL
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/sentient/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/sentient/)*

@@ -1,6 +1,6 @@
 # Isaac Elejalde
 
-Isaac Elejalde is a House and Minimal artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at TBA - Berlin - Secret Location - Neukölln, Berlin on Fri, 7 Aug 2026.
+Isaac Elejalde is a House and Minimal artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at TBA - Berlin - Secret Location - Neukölln, Berlin on Fri, 7 Aug 2026.
 
 Isaac Elejalde is a house and minimal artist based in Venezuela, tracked on soundcheck, with 57 sets logged across Barcelona, Berlin, Bucharest and Budapest and 2 more. Often billed alongside Hypnoize, vault. and Aggy. Next up: TBA - Berlin - Secret Location - Neukölln, Berlin on Fri 7 Aug.
 
@@ -25,4 +25,4 @@ Isaac Elejalde is a house and minimal artist based in Venezuela, tracked on soun
 
 Hypnoize, vault., Aggy
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/isaacelejalde/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/isaacelejalde/)*

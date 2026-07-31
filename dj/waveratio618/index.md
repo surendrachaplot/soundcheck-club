@@ -1,6 +1,6 @@
 # Waveratio 618
 
-Waveratio 618 is a electronic artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at Switch Bar, Barcelona on Fri, 31 Jul 2026.
+Waveratio 618 is a electronic artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at Switch Bar, Barcelona on Fri, 31 Jul 2026.
 
 Waveratio 618 is an electronic artist based in Spain, tracked on soundcheck, with 9 sets logged across Barcelona. Often billed alongside Nico Etorena, Dani Lewis and Intruso. Next up: Switch Bar, Barcelona on Fri 31 Jul.
 
@@ -25,4 +25,4 @@ Waveratio 618 is an electronic artist based in Spain, tracked on soundcheck, wit
 
 Nico Etorena, Dani Lewis, Intruso
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/waveratio618/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/waveratio618/)*

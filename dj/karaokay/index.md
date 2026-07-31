@@ -1,6 +1,6 @@
 # Kara Okay
 
-Kara Okay is a House and Techno artist with 6 upcoming club dates listed on soundcheck as of Thu, 30 Jul 2026, next at Prozak 2.0, Krakow on Sat, 15 Aug 2026.
+Kara Okay is a House and Techno artist with 6 upcoming club dates listed on soundcheck as of Fri, 31 Jul 2026, next at Prozak 2.0, Krakow on Sat, 15 Aug 2026.
 
 Kara Okay is a house and techno artist tracked on soundcheck, with 64 sets logged across Amsterdam, Antwerp, Bali and Cologne and 13 more. Often billed alongside DART, Gerardo Niva and Bella Claxton. Next up: Prozak 2.0, Krakow on Sat 15 Aug.
 
@@ -30,4 +30,4 @@ Kara Okay is a house and techno artist tracked on soundcheck, with 64 sets logge
 
 DART, Gerardo Niva, Bella Claxton
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/karaokay/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/karaokay/)*

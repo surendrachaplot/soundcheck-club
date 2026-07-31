@@ -1,6 +1,6 @@
 # Bladerunner
 
-Bladerunner is a Drum & Bass and Jungle artist with 4 upcoming club dates listed on soundcheck as of Thu, 30 Jul 2026, next at The Clock Factory, Bristol on Fri, 7 Aug 2026.
+Bladerunner is a Drum & Bass and Jungle artist with 4 upcoming club dates listed on soundcheck as of Fri, 31 Jul 2026, next at The Clock Factory, Bristol on Fri, 7 Aug 2026.
 
 Bladerunner is a drum & bass and jungle artist tracked on soundcheck, with 75 sets logged across Amsterdam, Antwerp, Birmingham and Boston and 19 more. Often billed alongside Inja, DJ SS and Benny L. Next up: The Clock Factory, Bristol on Fri 7 Aug.
 
@@ -28,4 +28,4 @@ Bladerunner is a drum & bass and jungle artist tracked on soundcheck, with 75 se
 
 Inja, DJ SS, Benny L
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/bladerunner-de/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/bladerunner-de/)*

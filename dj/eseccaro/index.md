@@ -1,6 +1,6 @@
 # Eseccaro
 
-Eseccaro is a Techno and Drum & Bass artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at Camden Lock Market, London on Fri, 31 Jul 2026.
+Eseccaro is a Techno and Drum & Bass artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at Camden Lock Market, London on Fri, 31 Jul 2026.
 
 Eseccaro is a techno and drum & bass artist based in United Kingdom, tracked on soundcheck, with 30 sets logged across London. Often billed alongside DJ LIL-E, Goddess II and 10:35. Next up: Camden Lock Market, London on Fri 31 Jul.
 
@@ -25,4 +25,4 @@ Eseccaro is a techno and drum & bass artist based in United Kingdom, tracked on 
 
 DJ LIL-E, Goddess II, 10:35
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/eseccaro/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/eseccaro/)*

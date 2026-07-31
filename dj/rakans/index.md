@@ -1,14 +1,15 @@
 # Rakans
 
-Rakans is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Thu, 30 Jul 2026, next at OXI, Berlin on Tue, 11 Aug 2026.
+Rakans is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Fri, 31 Jul 2026, next at OXI, Berlin on Tue, 11 Aug 2026.
 
-Rakans is a techno and house artist tracked on soundcheck, with 100 sets logged across Amsterdam, Athens, Barcelona and Berlin and 16 more. Often billed alongside VINVAR, Deepneue and Rachel Noon. Next up: OXI, Berlin on Tue 11 Aug.
+Rakans is a techno and house artist tracked on soundcheck, with 101 sets logged across Amsterdam, Athens, Barcelona and Berlin and 16 more. Often billed alongside VINVAR, Deepneue and The Lady Machine. Next up: OXI, Berlin on Tue 11 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Tue, 11 Aug 2026 | OXI | Berlin |
+| Sun, 23 Aug 2026 | Maaya | Berlin |
 | Sun, 30 Aug 2026 | Southwark Park | London |
 
 ## Recently played
@@ -24,6 +25,6 @@ Rakans is a techno and house artist tracked on soundcheck, with 100 sets logged 
 
 ## Shares bills with
 
-VINVAR, Deepneue, Rachel Noon
+VINVAR, Deepneue, The Lady Machine
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/rakans/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/rakans/)*

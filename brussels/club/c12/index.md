@@ -1,6 +1,6 @@
 # C12
 
-C12 is a music venue in Brussels with 10 upcoming nights listed on soundcheck as of Thu, 30 Jul 2026; the next is "C12 with RHR, NVST, Donia" on Sat, 1 Aug 2026.
+C12 is a music venue in Brussels with 10 upcoming nights listed on soundcheck as of Fri, 31 Jul 2026; the next is "C12 with RHR, NVST, Donia" on Sat, 1 Aug 2026.
 
 C12 is a music venue in Brussels listed on soundcheck. 10 upcoming nights, with line-ups including AAguilAA, Afonso Peixoto, Alma Negrot and Amalie and 2 more. Browse upcoming dates, start times and who's playing. 116 rue Marché aux Herbes 1000 Brussels.
 
@@ -23,4 +23,4 @@ C12 is a music venue in Brussels listed on soundcheck. 10 upcoming nights, with 
 
 116 rue Marché aux Herbes 1000 Brussels, Brussels
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/brussels/club/c12/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/brussels/club/c12/)*

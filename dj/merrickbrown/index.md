@@ -1,6 +1,6 @@
 # Merrick Brown
 
-Merrick Brown is a House and Acid artist with 2 upcoming club dates listed on soundcheck as of Thu, 30 Jul 2026, next at Podlasie Club, Chicago on Fri, 31 Jul 2026.
+Merrick Brown is a House and Acid artist with 2 upcoming club dates listed on soundcheck as of Fri, 31 Jul 2026, next at Podlasie Club, Chicago on Fri, 31 Jul 2026.
 
 Merrick Brown is a house and acid artist based in United States of America, tracked on soundcheck, with 42 sets logged across Austin, Chicago and Detroit. Often billed alongside Duke Shin, Sorrbet and Toyacoyah. Next up: Podlasie Club, Chicago on Fri 31 Jul.
 
@@ -26,4 +26,4 @@ Merrick Brown is a house and acid artist based in United States of America, trac
 
 Duke Shin, Sorrbet, Toyacoyah
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/merrickbrown/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/merrickbrown/)*

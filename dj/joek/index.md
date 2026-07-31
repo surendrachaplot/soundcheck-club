@@ -1,6 +1,6 @@
 # JöëK
 
-JöëK is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at Fuchs2, Prague on Sat, 8 Aug 2026.
+JöëK is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at Fuchs2, Prague on Sat, 8 Aug 2026.
 
 JöëK is a techno and trance artist tracked on soundcheck, with 7 sets logged across Prague. Often billed alongside frujty, CEREAL and Dash (CZ). Next up: Fuchs2, Prague on Sat 8 Aug.
 
@@ -23,4 +23,4 @@ JöëK is a techno and trance artist tracked on soundcheck, with 7 sets logged a
 
 frujty, CEREAL, Dash (CZ)
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/joek/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/joek/)*

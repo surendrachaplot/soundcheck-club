@@ -1,11 +1,11 @@
-# Sunday Sessions LA: Krane All Night Long (Vinyl Only) Open air at The Bridge
+# Sunday Sessions LA: Krane All Night Long (Vinyl Only) Open air at Apotheke
 
-Sunday Sessions LA: Krane All Night Long (Vinyl Only) Open air at The Bridge on Sun 2 Aug, Losangeles. 1 act on the bill: Krane. House and Deep House. Preview the line-up and save it on soundcheck.
+Sunday Sessions LA: Krane All Night Long (Vinyl Only) Open air at Apotheke on Sun 2 Aug, Losangeles. 1 act on the bill: Krane. House and Deep House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
 | Date | Sun, 2 Aug 2026 |
-| Venue | The Bridge |
+| Venue | Apotheke |
 | City | Los Angeles |
 
 ## Line-up

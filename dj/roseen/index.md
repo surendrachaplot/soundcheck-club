@@ -1,6 +1,6 @@
 # Roseen
 
-Roseen is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at Berghain | Panorama Bar | Säule, Berlin on Sat, 1 Aug 2026.
+Roseen is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at Berghain | Panorama Bar | Säule, Berlin on Sat, 1 Aug 2026.
 
 Roseen is a techno and house artist based in Germany, tracked on soundcheck, with 8 sets logged across Berlin and Stuttgart. Often billed alongside Decka, Adlas and Aiken. Next up: Berghain | Panorama Bar | Säule, Berlin on Sat 1 Aug.
 
@@ -24,4 +24,4 @@ Roseen is a techno and house artist based in Germany, tracked on soundcheck, wit
 
 Decka, Adlas, Aiken
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/roseen/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/roseen/)*

@@ -1,6 +1,6 @@
 # krawallin
 
-krawallin is a Techno and Trance artist with 2 upcoming club dates listed on soundcheck as of Thu, 30 Jul 2026, next at ÆDEN, Berlin on Fri, 31 Jul 2026.
+krawallin is a Techno and Trance artist with 2 upcoming club dates listed on soundcheck as of Fri, 31 Jul 2026, next at ÆDEN, Berlin on Fri, 31 Jul 2026.
 
 krawallin is a techno and trance artist based in Austria, tracked on soundcheck, with 3 sets logged across Berlin. Often billed alongside Roots., ALLES ATZIG and AR Keetman. Next up: ÆDEN, Berlin on Fri 31 Jul.
 
@@ -19,4 +19,4 @@ krawallin is a techno and trance artist based in Austria, tracked on soundcheck,
 
 Roots., ALLES ATZIG, AR Keetman
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/krawallin/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/krawallin/)*

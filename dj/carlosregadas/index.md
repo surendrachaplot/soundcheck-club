@@ -1,6 +1,6 @@
 # Carlos Regadas
 
-Carlos Regadas is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at Tapada da Ajuda, Lisbon on Sat, 29 Aug 2026.
+Carlos Regadas is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at Tapada da Ajuda, Lisbon on Sat, 29 Aug 2026.
 
 Carlos Regadas is a house and tech house artist based in Portugal, tracked on soundcheck, with 36 sets logged across Barcelona, Lisbon and Porto. Often billed alongside Pedro Tabuada, 9T2 and Bikas. Next up: Tapada da Ajuda, Lisbon on Sat 29 Aug.
 
@@ -25,4 +25,4 @@ Carlos Regadas is a house and tech house artist based in Portugal, tracked on so
 
 Pedro Tabuada, 9T2, Bikas
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/carlosregadas/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/carlosregadas/)*

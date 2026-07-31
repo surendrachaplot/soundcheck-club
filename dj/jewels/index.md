@@ -1,6 +1,6 @@
 # Jewels
 
-Jewels is a House and Acid artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at Pier 78 at Hudson River Park, New York City on Fri, 31 Jul 2026.
+Jewels is a House and Acid artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at Pier 78 at Hudson River Park, New York City on Fri, 31 Jul 2026.
 
 Jewels is a house and acid artist based in United States of America, tracked on soundcheck, with 9 sets logged across Berlin, London, Newyorkcity and Sanfrancisco. Often billed alongside LE YORA, SOMMA and YUMA. Next up: Pier 78 at Hudson River Park, Newyorkcity on Fri 31 Jul.
 
@@ -25,4 +25,4 @@ Jewels is a house and acid artist based in United States of America, tracked on 
 
 LE YORA, SOMMA, YUMA
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/jewels/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/jewels/)*

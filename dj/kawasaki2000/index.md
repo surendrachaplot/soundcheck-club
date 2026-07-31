@@ -1,6 +1,6 @@
 # kawasaki2000
 
-kawasaki2000 is a Bass and Dubstep artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at Giri, Berlin on Thu, 6 Aug 2026.
+kawasaki2000 is a Bass and Dubstep artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at Giri, Berlin on Thu, 6 Aug 2026.
 
 kawasaki2000 is a bass and dubstep artist based in Germany, tracked on soundcheck, with 15 sets logged across Berlin and Nurnberg. Often billed alongside Ulf Herold, Ben Sleia and iarna. Next up: Giri, Berlin on Thu 6 Aug.
 
@@ -25,4 +25,4 @@ kawasaki2000 is a bass and dubstep artist based in Germany, tracked on soundchec
 
 Ulf Herold, Ben Sleia, iarna
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/kawasaki2000/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/kawasaki2000/)*

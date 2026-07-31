@@ -1,6 +1,6 @@
 # DAZLBØY
 
-DAZLBØY is a Club and Baile Funk artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at Colour Factory, London on Sat, 8 Aug 2026.
+DAZLBØY is a Club and Baile Funk artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at Colour Factory, London on Sat, 8 Aug 2026.
 
 DAZLBØY is a club and baile funk artist based in United Kingdom, tracked on soundcheck, with 17 sets logged across Amsterdam, Bristol, Brussels and London and 4 more. Often billed alongside GUS (4), Carlos do Complexo and DJ RaMeMes. Next up: Colour Factory, London on Sat 8 Aug.
 
@@ -25,4 +25,4 @@ DAZLBØY is a club and baile funk artist based in United Kingdom, tracked on sou
 
 GUS (4), Carlos do Complexo, DJ RaMeMes
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/dazlboy/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/dazlboy/)*

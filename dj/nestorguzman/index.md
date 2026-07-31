@@ -1,6 +1,6 @@
 # Nestor Guzman
 
-Nestor Guzman is a Techno and Drum & Bass artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at Liquid Club, Malta on Sat, 1 Aug 2026.
+Nestor Guzman is a Techno and Drum & Bass artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at Liquid Club, Malta on Sat, 1 Aug 2026.
 
 Nestor Guzman is a techno and drum & bass artist based in Colombia, tracked on soundcheck, with 3 sets logged across Malta. Often billed alongside Ilixan Iris, JAKKAR and Kingsmo. Next up: Liquid Club, Malta on Sat 1 Aug.
 
@@ -19,4 +19,4 @@ Nestor Guzman is a techno and drum & bass artist based in Colombia, tracked on s
 
 Ilixan Iris, JAKKAR, Kingsmo
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/nestorguzman/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/nestorguzman/)*

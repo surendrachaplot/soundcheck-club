@@ -1,6 +1,6 @@
 # Yuuki
 
-Yuuki is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Thu, 30 Jul 2026, next at Royal Lounge, Tokyo on Fri, 31 Jul 2026.
+Yuuki is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Fri, 31 Jul 2026, next at Royal Lounge, Tokyo on Fri, 31 Jul 2026.
 
 Yuuki is a house and techno artist tracked on soundcheck, with 22 sets logged across London, Osaka, Seoul and Tokyo. Often billed alongside Saumac, DJ AKi and Darley. Next up: Royal Lounge, Tokyo on Fri 31 Jul.
 
@@ -26,4 +26,4 @@ Yuuki is a house and techno artist tracked on soundcheck, with 22 sets logged ac
 
 Saumac, DJ AKi, Darley
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/yuuki/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/yuuki/)*

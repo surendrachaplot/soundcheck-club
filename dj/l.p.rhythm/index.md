@@ -1,14 +1,13 @@
 # L.P. Rhythm
 
-L.P. Rhythm is a House and Tech House artist with 9 upcoming club dates listed on soundcheck as of Thu, 30 Jul 2026, next at Amnesia Ibiza, Ibiza on Thu, 30 Jul 2026.
+L.P. Rhythm is a House and Tech House artist with 8 upcoming club dates listed on soundcheck as of Fri, 31 Jul 2026, next at Dullingham Polo Club, London on Sat, 22 Aug 2026.
 
-L.P. Rhythm is a house and tech house artist tracked on soundcheck, with 170 sets logged across Aberdeen, Amsterdam, Antwerp and Bali and 29 more. Often billed alongside Gaskin, Luuk van Dijk and Josh Baker. Next up: Amnesia Ibiza, Ibiza on Thu 30 Jul.
+L.P. Rhythm is a house and tech house artist tracked on soundcheck, with 170 sets logged across Aberdeen, Amsterdam, Antwerp and Bali and 29 more. Often billed alongside Gaskin, Luuk van Dijk and Josh Baker. Next up: Dullingham Polo Club, London on Sat 22 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Thu, 30 Jul 2026 | Amnesia Ibiza | Ibiza |
 | Sat, 22 Aug 2026 | Dullingham Polo Club | London |
 | Sat, 29 Aug 2026 | Kelvedon Hall | London |
 | Fri, 11 Sept 2026 | Palmerstown House Estate | Dublin |
@@ -20,6 +19,7 @@ L.P. Rhythm is a house and tech house artist tracked on soundcheck, with 170 set
 
 ## Recently played
 
+- Amnesia Ibiza, Ibiza — Thu, 30 Jul 2026
 - 528 Ibiza, Ibiza — Sun, 12 Jul 2026
 - Hembrugterrein, Amsterdam — Sat, 11 Jul 2026
 - Stadshaven Brouwerij, Rotterdam — Sun, 5 Jul 2026
@@ -27,10 +27,9 @@ L.P. Rhythm is a house and tech house artist tracked on soundcheck, with 170 set
 - Heaton Park, Manchester — Sat, 20 Jun 2026
 - Fvtvr, Paris — Sat, 20 Jun 2026
 - Esferic Bcn, Barcelona — Fri, 19 Jun 2026
-- Hola Club Sitges (Cala Vallcarca), Barcelona — Thu, 18 Jun 2026
 
 ## Shares bills with
 
 Gaskin, Luuk van Dijk, Josh Baker
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/l.p.rhythm/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/l.p.rhythm/)*

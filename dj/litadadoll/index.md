@@ -1,6 +1,6 @@
 # LITA DA DOLL
 
-LITA DA DOLL is a Club and Techno artist with 2 upcoming club dates listed on soundcheck as of Thu, 30 Jul 2026, next at The Bush Dyke Bar, New York City on Fri, 31 Jul 2026.
+LITA DA DOLL is a Club and Techno artist with 2 upcoming club dates listed on soundcheck as of Fri, 31 Jul 2026, next at The Bush Dyke Bar, New York City on Fri, 31 Jul 2026.
 
 LITA DA DOLL is a club and techno artist based in United States of America, tracked on soundcheck, with 42 sets logged across Chicago, Newyorkcity and Washingtondc. Often billed alongside allducksrock, BLAIZE and CMD+JAZMINE. Next up: The Bush Dyke Bar, Newyorkcity on Fri 31 Jul.
 
@@ -26,4 +26,4 @@ LITA DA DOLL is a club and techno artist based in United States of America, trac
 
 allducksrock, BLAIZE, CMD+JAZMINE
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/litadadoll/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/litadadoll/)*

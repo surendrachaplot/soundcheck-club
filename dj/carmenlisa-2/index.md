@@ -1,6 +1,6 @@
 # Carmen Lisa (2)
 
-Carmen Lisa (2) is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at Sloterpark, Amsterdam on Sat, 8 Aug 2026.
+Carmen Lisa (2) is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at Sloterpark, Amsterdam on Sat, 8 Aug 2026.
 
 Carmen Lisa (2) is a techno and house artist tracked on soundcheck, with 30 sets logged across Amsterdam, Berlin, Buenosaires and Marseille and 5 more. Often billed alongside MYRA (NL), SOLE DOSI and Secret Cinema. Next up: Sloterpark, Amsterdam on Sat 8 Aug.
 
@@ -25,4 +25,4 @@ Carmen Lisa (2) is a techno and house artist tracked on soundcheck, with 30 sets
 
 MYRA (NL), SOLE DOSI, Secret Cinema
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/carmenlisa-2/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/carmenlisa-2/)*

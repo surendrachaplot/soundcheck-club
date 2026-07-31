@@ -1,6 +1,6 @@
 # Alain Pauwels
 
-Alain Pauwels is a Progressive House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at Joyt, Antwerp on Sun, 30 Aug 2026.
+Alain Pauwels is a Progressive House and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at Joyt, Antwerp on Sun, 30 Aug 2026.
 
 Alain Pauwels is a progressive house and techno artist based in Belgium, tracked on soundcheck, with 14 sets logged across Amsterdam and Antwerp. Often billed alongside Alex O'Rion, Around Us and Callecat. Next up: Joyt, Antwerp on Sun 30 Aug.
 
@@ -25,4 +25,4 @@ Alain Pauwels is a progressive house and techno artist based in Belgium, tracked
 
 Alex O'Rion, Around Us, Callecat
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/alainpauwels/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/alainpauwels/)*

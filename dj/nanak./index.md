@@ -1,6 +1,6 @@
 # Nana K.
 
-Nana K. is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at TBA - MS Enstaal, Hamburg on Sat, 8 Aug 2026.
+Nana K. is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at TBA - MS Enstaal, Hamburg on Sat, 8 Aug 2026.
 
 Nana K. is a house and techno artist based in Germany, tracked on soundcheck, with 4 sets logged across Dusseldorf, Hamburg and Leipzig. Often billed alongside Ben Champell, Anna Tur and DIESEN. Next up: TBA - MS Enstaal, Hamburg on Sat 8 Aug.
 
@@ -20,4 +20,4 @@ Nana K. is a house and techno artist based in Germany, tracked on soundcheck, wi
 
 Ben Champell, Anna Tur, DIESEN
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/nanak./)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/nanak./)*

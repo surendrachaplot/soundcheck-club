@@ -1,6 +1,6 @@
 # SYREETA
 
-SYREETA is a House and Tech House artist with 7 upcoming club dates listed on soundcheck as of Thu, 30 Jul 2026, next at Paradiso, Amsterdam on Fri, 31 Jul 2026.
+SYREETA is a House and Tech House artist with 7 upcoming club dates listed on soundcheck as of Fri, 31 Jul 2026, next at Paradiso, Amsterdam on Fri, 31 Jul 2026.
 
 SYREETA is a house and tech house artist tracked on soundcheck, with 130 sets logged across Amsterdam, Bali, Barcelona and Berlin and 31 more. Often billed alongside Andrea Oliva, Loco Dice and Eats Everything. Next up: Paradiso, Amsterdam on Fri 31 Jul.
 
@@ -31,4 +31,4 @@ SYREETA is a house and tech house artist tracked on soundcheck, with 130 sets lo
 
 Andrea Oliva, Loco Dice, Eats Everything
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/syreeta-uk/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/syreeta-uk/)*

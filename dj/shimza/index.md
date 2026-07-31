@@ -1,6 +1,6 @@
 # Shimza
 
-Shimza is a Afro House and House artist with 6 upcoming club dates listed on soundcheck as of Thu, 30 Jul 2026, next at Millennium Háza, Budapest on Fri, 7 Aug 2026.
+Shimza is a Afro House and House artist with 6 upcoming club dates listed on soundcheck as of Fri, 31 Jul 2026, next at Millennium Háza, Budapest on Fri, 7 Aug 2026.
 
 Shimza is an afro house and house artist tracked on soundcheck, with 142 sets logged across Amsterdam, Athens, Barcelona and Basel and 36 more. Often billed alongside ARODES, Andrea Oliva and Mahmut Orhan. Next up: Millennium Háza, Budapest on Fri 7 Aug.
 
@@ -30,4 +30,4 @@ Shimza is an afro house and house artist tracked on soundcheck, with 142 sets lo
 
 ARODES, Andrea Oliva, Mahmut Orhan
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/shimza/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/shimza/)*

@@ -1,6 +1,6 @@
 # KRÆK
 
-KRÆK is a Drum & Bass and Bass artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at Gretchen, Berlin on Sat, 8 Aug 2026.
+KRÆK is a Drum & Bass and Bass artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at Gretchen, Berlin on Sat, 8 Aug 2026.
 
 KRÆK is a drum & bass and bass artist based in Germany, tracked on soundcheck, with 11 sets logged across Berlin, Bristol, Cologne and London and 2 more. Often billed alongside Sydney Bryce, Amoss and Objectiv. Next up: Gretchen, Berlin on Sat 8 Aug.
 
@@ -25,4 +25,4 @@ KRÆK is a drum & bass and bass artist based in Germany, tracked on soundcheck, 
 
 Sydney Bryce, Amoss, Objectiv
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/kraek/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/kraek/)*

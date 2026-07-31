@@ -1,6 +1,6 @@
 # JENKO
 
-JENKO is a Club and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at Sooki Lounge, Melbourne on Fri, 31 Jul 2026.
+JENKO is a Club and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at Sooki Lounge, Melbourne on Fri, 31 Jul 2026.
 
 JENKO is a club and techno artist based in Australia, tracked on soundcheck, with 12 sets logged across Melbourne. Often billed alongside Connor Graham, HAUSWiFE and Rue (2). Next up: Sooki Lounge, Melbourne on Fri 31 Jul.
 
@@ -25,4 +25,4 @@ JENKO is a club and techno artist based in Australia, tracked on soundcheck, wit
 
 Connor Graham, HAUSWiFE, Rue (2)
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/jenko/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/jenko/)*

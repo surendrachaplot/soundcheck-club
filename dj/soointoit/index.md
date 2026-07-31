@@ -1,6 +1,6 @@
 # Soo Intoit
 
-Soo Intoit is a Techno and Club artist with 3 upcoming club dates listed on soundcheck as of Thu, 30 Jul 2026, next at The Chocolate Factory, New York City on Fri, 31 Jul 2026.
+Soo Intoit is a Techno and Club artist with 3 upcoming club dates listed on soundcheck as of Fri, 31 Jul 2026, next at The Chocolate Factory, New York City on Fri, 31 Jul 2026.
 
 Soo Intoit is a techno and club artist based in United States of America, tracked on soundcheck, with 107 sets logged across Boston, Chicago, Newyorkcity and Philadelphia and 2 more. Often billed alongside Xana 101, Sailor Malice and Sp3cial K. Next up: The Chocolate Factory, Newyorkcity on Fri 31 Jul.
 
@@ -27,4 +27,4 @@ Soo Intoit is a techno and club artist based in United States of America, tracke
 
 Xana 101, Sailor Malice, Sp3cial K
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/soointoit/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/soointoit/)*

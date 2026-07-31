@@ -1,8 +1,8 @@
 # RAW SILK
 
-RAW SILK is a House and Disco artist with 2 upcoming club dates listed on soundcheck as of Thu, 30 Jul 2026, next at Hackney Bridge, London on Fri, 31 Jul 2026.
+RAW SILK is a House and Disco artist with 3 upcoming club dates listed on soundcheck as of Fri, 31 Jul 2026, next at Hackney Bridge, London on Fri, 31 Jul 2026.
 
-RAW SILK is a house and disco artist tracked on soundcheck, with 43 sets logged across Berlin, Edinburgh, Ibiza and London and 2 more. Often billed alongside Jaye Ward, Michelle Manetti and Lulah Francs. Next up: Hackney Bridge, London on Fri 31 Jul.
+RAW SILK is a house and disco artist tracked on soundcheck, with 44 sets logged across Berlin, Edinburgh, Ibiza and London and 2 more. Often billed alongside Jaye Ward, Michelle Manetti and Lulah Francs. Next up: Hackney Bridge, London on Fri 31 Jul.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ RAW SILK is a house and disco artist tracked on soundcheck, with 43 sets logged 
 | --- | --- | --- |
 | Fri, 31 Jul 2026 | Hackney Bridge | London |
 | Sat, 15 Aug 2026 | Gloves Off | London |
+| Thu, 20 Aug 2026 | Ballroom at Palais | London |
 
 ## Recently played
 
@@ -26,4 +27,4 @@ RAW SILK is a house and disco artist tracked on soundcheck, with 43 sets logged 
 
 Jaye Ward, Michelle Manetti, Lulah Francs
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/rawsilk/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/rawsilk/)*

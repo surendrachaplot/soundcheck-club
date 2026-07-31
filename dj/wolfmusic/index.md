@@ -1,6 +1,6 @@
 # Wolf Music
 
-Wolf Music is a House and Balearic artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at Colour Factory, London on Sat, 1 Aug 2026.
+Wolf Music is a House and Balearic artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at Colour Factory, London on Sat, 1 Aug 2026.
 
 Wolf Music is a house and balearic artist tracked on soundcheck, with 19 sets logged across Berlin, Bristol, Hongkong and Ibiza and 3 more. Often billed alongside Manuel Darquart, Frederika and Frits Wentink. Next up: Colour Factory, London on Sat 1 Aug.
 
@@ -25,4 +25,4 @@ Wolf Music is a house and balearic artist tracked on soundcheck, with 19 sets lo
 
 Manuel Darquart, Frederika, Frits Wentink
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/wolfmusic/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/wolfmusic/)*

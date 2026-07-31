@@ -1,6 +1,6 @@
 # Sattam
 
-Sattam is a Bass and Trance artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at Dream Bags Jaguar Shoes, London on Fri, 31 Jul 2026.
+Sattam is a Bass and Trance artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at Dream Bags Jaguar Shoes, London on Fri, 31 Jul 2026.
 
 Sattam is a bass and trance artist based in United Kingdom, tracked on soundcheck, with 3 sets logged across London. Often billed alongside Cortese, Alien Izz and Giulia Tess. Next up: Dream Bags Jaguar Shoes, London on Fri 31 Jul.
 
@@ -19,4 +19,4 @@ Sattam is a bass and trance artist based in United Kingdom, tracked on soundchec
 
 Cortese, Alien Izz, Giulia Tess
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/sattam/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/sattam/)*

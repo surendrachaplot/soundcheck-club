@@ -1,6 +1,6 @@
 # Joseph Clarke
 
-Joseph Clarke is a Tech House and Electronica artist with 2 upcoming club dates listed on soundcheck as of Thu, 30 Jul 2026, next at Mastak, Warsaw on Sat, 1 Aug 2026.
+Joseph Clarke is a Tech House and Electronica artist with 2 upcoming club dates listed on soundcheck as of Fri, 31 Jul 2026, next at Mastak, Warsaw on Sat, 1 Aug 2026.
 
 Joseph Clarke is a tech house and electronica artist based in United Kingdom, tracked on soundcheck, with 12 sets logged across Berlin, Brussels, London and Warsaw. Often billed alongside Gwenan, ALIX (UK) and Dana Kuehr. Next up: Mastak, Warsaw on Sat 1 Aug.
 
@@ -26,4 +26,4 @@ Joseph Clarke is a tech house and electronica artist based in United Kingdom, tr
 
 Gwenan, ALIX (UK), Dana Kuehr
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/josephclarke/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/josephclarke/)*

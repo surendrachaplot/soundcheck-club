@@ -1,6 +1,6 @@
 # dj textme
 
-dj textme is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at Golden Pudel Club, Hamburg on Sat, 1 Aug 2026.
+dj textme is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at Golden Pudel Club, Hamburg on Sat, 1 Aug 2026.
 
 dj textme is a house and disco artist tracked on soundcheck, with 23 sets logged across Berlin and Hamburg. Often billed alongside Finona Rider, Shimmy Robin and A.B.U.. Next up: Golden Pudel Club, Hamburg on Sat 1 Aug.
 
@@ -25,4 +25,4 @@ dj textme is a house and disco artist tracked on soundcheck, with 23 sets logged
 
 Finona Rider, Shimmy Robin, A.B.U.
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/djtextme/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/djtextme/)*

@@ -1,16 +1,17 @@
 # Ssensorial x Fünk at Fünk
 
-Ssensorial x Fünk on Sun 20 Sept, Mexicocity. 3 acts on the bill: Erika Mena, Niño Arbol and Vargas. House and Dub Techno. Preview the line-up and save it on soundcheck.
+Ssensorial x Fünk on Thu 20 Aug, Mexicocity. 4 acts on the bill: Erika Mena, Gohtobi, Niño Arbol and Vargas. House and Dub Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
-| Date | Sun, 20 Sept 2026 |
+| Date | Thu, 20 Aug 2026 |
 | Venue | Fünk |
 | City | Mexico City |
 
 ## Line-up
 
 - Erika Mena
+- Gohtobi
 - Niño Arbol
 - Vargas
 

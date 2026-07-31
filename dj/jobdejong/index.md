@@ -1,14 +1,13 @@
 # Job de Jong
 
-Job de Jong is a House and Tech House artist with 14 upcoming club dates listed on soundcheck as of Thu, 30 Jul 2026, next at Amnesia Ibiza, Ibiza on Thu, 30 Jul 2026.
+Job de Jong is a House and Tech House artist with 13 upcoming club dates listed on soundcheck as of Fri, 31 Jul 2026, next at SISSI'S Amsterdam, Amsterdam on Fri, 7 Aug 2026.
 
-Job de Jong is a house and tech house artist tracked on soundcheck, with 156 sets logged across Aberdeen, Amsterdam, Antwerp and Barcelona and 22 more. Often billed alongside Prunk, M-High and Dennis Quin. Next up: Amnesia Ibiza, Ibiza on Thu 30 Jul.
+Job de Jong is a house and tech house artist tracked on soundcheck, with 156 sets logged across Aberdeen, Amsterdam, Antwerp and Barcelona and 22 more. Often billed alongside Prunk, M-High and Dennis Quin. Next up: SISSI'S Amsterdam, Amsterdam on Fri 7 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Thu, 30 Jul 2026 | Amnesia Ibiza | Ibiza |
 | Fri, 7 Aug 2026 | SISSI'S Amsterdam | Amsterdam |
 | Tue, 11 Aug 2026 | Cova Santa | Ibiza |
 | Sat, 15 Aug 2026 | XOYO | London |
@@ -20,9 +19,11 @@ Job de Jong is a house and tech house artist tracked on soundcheck, with 156 set
 | Tue, 22 Sept 2026 | Cova Santa | Ibiza |
 | Sat, 3 Oct 2026 | Depot Mayfield | Manchester |
 | Sun, 4 Oct 2026 | 528 Ibiza | Ibiza |
+| Wed, 21 Oct 2026 | A'DAM Toren | Amsterdam |
 
 ## Recently played
 
+- Amnesia Ibiza, Ibiza — Thu, 30 Jul 2026
 - Boomerang Beach, The Hague — Fri, 24 Jul 2026
 - [UNVRS], Ibiza — Wed, 22 Jul 2026
 - Lab11, Birmingham — Fri, 10 Jul 2026
@@ -30,10 +31,9 @@ Job de Jong is a house and tech house artist tracked on soundcheck, with 156 set
 - Amnesia Ibiza, Ibiza — Thu, 2 Jul 2026
 - Shelter Amsterdam, Amsterdam — Sat, 27 Jun 2026
 - Hazlehead Park Aberdeen, Aberdeen — Fri, 26 Jun 2026
-- Amnesia Ibiza, Ibiza — Tue, 23 Jun 2026
 
 ## Shares bills with
 
 Prunk, M-High, Dennis Quin
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/jobdejong/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/jobdejong/)*

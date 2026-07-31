@@ -1,6 +1,6 @@
 # Jordan Tilstone
 
-Jordan Tilstone is a Trance and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at The Temple, Belfast on Sat, 19 Sept 2026.
+Jordan Tilstone is a Trance and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at The Temple, Belfast on Sat, 19 Sept 2026.
 
 Jordan Tilstone is a trance and techno artist based in United Kingdom, tracked on soundcheck, with 5 sets logged across Belfast, Birmingham, Leeds and Liverpool and 1 more. Often billed alongside LOOKY, NGL (NL) and OUTRAGE.. Next up: The Temple, Belfast on Sat 19 Sept.
 
@@ -21,4 +21,4 @@ Jordan Tilstone is a trance and techno artist based in United Kingdom, tracked o
 
 LOOKY, NGL (NL), OUTRAGE.
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/jordantilstone/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/jordantilstone/)*

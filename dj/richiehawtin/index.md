@@ -1,6 +1,6 @@
 # Richie Hawtin
 
-Richie Hawtin is a Techno and House artist with 8 upcoming club dates listed on soundcheck as of Thu, 30 Jul 2026, next at Cavo Paradiso, Mykonos on Fri, 31 Jul 2026.
+Richie Hawtin is a Techno and House artist with 8 upcoming club dates listed on soundcheck as of Fri, 31 Jul 2026, next at Cavo Paradiso, Mykonos on Fri, 31 Jul 2026.
 
 Richie Hawtin is a techno and house artist tracked on soundcheck, with 177 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 54 more. Often billed alongside Héctor Oaks, Adiel and KI/KI. Next up: Cavo Paradiso, Mykonos on Fri 31 Jul.
 
@@ -32,4 +32,4 @@ Richie Hawtin is a techno and house artist tracked on soundcheck, with 177 sets 
 
 Héctor Oaks, Adiel, KI/KI
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/richiehawtin/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/richiehawtin/)*

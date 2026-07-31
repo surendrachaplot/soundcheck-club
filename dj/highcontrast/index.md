@@ -1,6 +1,6 @@
 # High Contrast
 
-High Contrast is a Drum & Bass and Jungle artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at Hackney Wick Multiple Venues, London on Sat, 1 Aug 2026.
+High Contrast is a Drum & Bass and Jungle artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at Hackney Wick Multiple Venues, London on Sat, 1 Aug 2026.
 
 High Contrast is a drum & bass and jungle artist based in United Kingdom, tracked on soundcheck, with 6 sets logged across Brighton, Bristol and London. Often billed alongside Flava D, Carasel and Fred V. Next up: Hackney Wick Multiple Venues, London on Sat 1 Aug.
 
@@ -22,4 +22,4 @@ High Contrast is a drum & bass and jungle artist based in United Kingdom, tracke
 
 Flava D, Carasel, Fred V
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/highcontrast/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/highcontrast/)*

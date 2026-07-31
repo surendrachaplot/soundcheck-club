@@ -1,6 +1,6 @@
 # Simo Cell
 
-Simo Cell is a Techno and Bass artist with 2 upcoming club dates listed on soundcheck as of Thu, 30 Jul 2026, next at Berghain | Panorama Bar | Säule, Berlin on Fri, 31 Jul 2026.
+Simo Cell is a Techno and Bass artist with 2 upcoming club dates listed on soundcheck as of Fri, 31 Jul 2026, next at Berghain | Panorama Bar | Säule, Berlin on Fri, 31 Jul 2026.
 
 Simo Cell is a techno and bass artist tracked on soundcheck, with 108 sets logged across Amsterdam, Barcelona, Basel and Belgrade and 42 more. Often billed alongside CCL, DjRUM and Ehua. Next up: Berghain | Panorama Bar | Säule, Berlin on Fri 31 Jul.
 
@@ -26,4 +26,4 @@ Simo Cell is a techno and bass artist tracked on soundcheck, with 108 sets logge
 
 CCL, DjRUM, Ehua
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/simocell/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/simocell/)*

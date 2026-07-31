@@ -1,6 +1,6 @@
 # Kirwan
 
-Kirwan is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Thu, 30 Jul 2026, next at Invisible Wind Factory, Liverpool on Sat, 1 Aug 2026.
+Kirwan is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Fri, 31 Jul 2026, next at Invisible Wind Factory, Liverpool on Sat, 1 Aug 2026.
 
 Kirwan is a house and techno artist tracked on soundcheck, with 14 sets logged across Liverpool and Manchester. Often billed alongside 4D (UK), Allmark and Aly P. Next up: Invisible Wind Factory, Liverpool on Sat 1 Aug.
 
@@ -26,4 +26,4 @@ Kirwan is a house and techno artist tracked on soundcheck, with 14 sets logged a
 
 4D (UK), Allmark, Aly P
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/kirwan/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/kirwan/)*

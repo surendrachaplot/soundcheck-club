@@ -1,6 +1,6 @@
 # dj lomalinda
 
-dj lomalinda is a Guaracha and Latin Bass artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at Berghain | Panorama Bar | Säule, Berlin on Fri, 31 Jul 2026.
+dj lomalinda is a Guaracha and Latin Bass artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at Berghain | Panorama Bar | Säule, Berlin on Fri, 31 Jul 2026.
 
 dj lomalinda is a guaracha and latin bass artist based in Colombia, tracked on soundcheck, with 7 sets logged across Barcelona, Berlin, Lisbon and London and 2 more. Often billed alongside Bitter Babe, Lechuga Zafiro and Verraco. Next up: Berghain | Panorama Bar | Säule, Berlin on Fri 31 Jul.
 
@@ -23,4 +23,4 @@ dj lomalinda is a guaracha and latin bass artist based in Colombia, tracked on s
 
 Bitter Babe, Lechuga Zafiro, Verraco
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/djlomalinda/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/djlomalinda/)*

@@ -1,6 +1,6 @@
 # Jack Jeffrey
 
-Jack Jeffrey is a Techno and Hardcore artist with 2 upcoming club dates listed on soundcheck as of Thu, 30 Jul 2026, next at Tide Nightclub, Brighton on Sat, 1 Aug 2026.
+Jack Jeffrey is a Techno and Hardcore artist with 2 upcoming club dates listed on soundcheck as of Fri, 31 Jul 2026, next at Tide Nightclub, Brighton on Sat, 1 Aug 2026.
 
 Jack Jeffrey is a techno and hardcore artist based in United Kingdom, tracked on soundcheck, with 38 sets logged across Brighton, London and Tbilisi. Often billed alongside Acid Carbon, DSD uk and Døra. Next up: Tide Nightclub, Brighton on Sat 1 Aug.
 
@@ -26,4 +26,4 @@ Jack Jeffrey is a techno and hardcore artist based in United Kingdom, tracked on
 
 Acid Carbon, DSD uk, Døra
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/jackjeffrey/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/jackjeffrey/)*

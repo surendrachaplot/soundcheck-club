@@ -1,6 +1,6 @@
 # Jurnalist
 
-Jurnalist is a Jungle and Drum & Bass artist with 2 upcoming club dates listed on soundcheck as of Thu, 30 Jul 2026, next at The Rum Shack, Glasgow on Fri, 31 Jul 2026.
+Jurnalist is a Jungle and Drum & Bass artist with 2 upcoming club dates listed on soundcheck as of Fri, 31 Jul 2026, next at The Rum Shack, Glasgow on Fri, 31 Jul 2026.
 
 Jurnalist is a jungle and drum & bass artist based in United Kingdom, tracked on soundcheck, with 16 sets logged across Edinburgh and Glasgow. Often billed alongside Divergence, Bristol Luke and Bellarosa. Next up: The Rum Shack, Glasgow on Fri 31 Jul.
 
@@ -26,4 +26,4 @@ Jurnalist is a jungle and drum & bass artist based in United Kingdom, tracked on
 
 Divergence, Bristol Luke, Bellarosa
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/jurnalist/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/jurnalist/)*

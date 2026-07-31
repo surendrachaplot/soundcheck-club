@@ -1,6 +1,6 @@
 # Itou
 
-Itou is a House and Minimal artist with 2 upcoming club dates listed on soundcheck as of Thu, 30 Jul 2026, next at Mitsuki, Tokyo on Fri, 31 Jul 2026.
+Itou is a House and Minimal artist with 2 upcoming club dates listed on soundcheck as of Fri, 31 Jul 2026, next at Mitsuki, Tokyo on Fri, 31 Jul 2026.
 
 Itou is a house and minimal artist based in Japan, tracked on soundcheck, with 3 sets logged across Osaka and Tokyo. Often billed alongside IKUZO, Nari (2) and ONO (3). Next up: Mitsuki, Tokyo on Fri 31 Jul.
 
@@ -19,4 +19,4 @@ Itou is a house and minimal artist based in Japan, tracked on soundcheck, with 3
 
 IKUZO, Nari (2), ONO (3)
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/itou/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/itou/)*

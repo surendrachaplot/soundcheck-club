@@ -1,6 +1,6 @@
 # Softi
 
-Softi is a Techno and Bass artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at La Station - Gare des Mines, Paris on Sat, 1 Aug 2026.
+Softi is a Techno and Bass artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at La Station - Gare des Mines, Paris on Sat, 1 Aug 2026.
 
 Softi is a techno and bass artist tracked on soundcheck, with 80 sets logged across Amsterdam, Barcelona, Berlin and Bristol and 17 more. Often billed alongside Alicia (UK), Dj wiggles and Sybil. Next up: La Station - Gare des Mines, Paris on Sat 1 Aug.
 
@@ -25,4 +25,4 @@ Softi is a techno and bass artist tracked on soundcheck, with 80 sets logged acr
 
 Alicia (UK), Dj wiggles, Sybil
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/jazz/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/jazz/)*

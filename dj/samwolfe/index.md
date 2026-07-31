@@ -1,6 +1,6 @@
 # Sam Wolfe
 
-Sam Wolfe is a Techno and Tech House artist with 1 upcoming club date listed on soundcheck as of Thu, 30 Jul 2026, next at Bauhaus, Houston on Sat, 1 Aug 2026.
+Sam Wolfe is a Techno and Tech House artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at Bauhaus, Houston on Sat, 1 Aug 2026.
 
 Sam Wolfe is a techno and tech house artist based in United States of America, tracked on soundcheck, with 35 sets logged across Auckland, Austin, Berlin and Boston and 13 more. Often billed alongside Umek, Alex Stein and ArioVistus. Next up: Bauhaus, Houston on Sat 1 Aug.
 
@@ -25,4 +25,4 @@ Sam Wolfe is a techno and tech house artist based in United States of America, t
 
 Umek, Alex Stein, ArioVistus
 
-*Updated Thu, 30 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/samwolfe/)*
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/samwolfe/)*
