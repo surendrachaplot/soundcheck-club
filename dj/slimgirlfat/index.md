@@ -1,13 +1,14 @@
 # Slimgirl fat
 
-Slimgirl fat is a Bass and Club artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at Else, Berlin on Sat, 22 Aug 2026.
+Slimgirl fat is a Bass and Club artist with 2 upcoming club dates listed on soundcheck as of Fri, 31 Jul 2026, next at Sonnenraum, Berlin on Sun, 16 Aug 2026.
 
-Slimgirl fat is a bass and club artist based in Germany, tracked on soundcheck, with 33 sets logged across Berlin, Cologne, Frankfurt and Hamburg and 4 more. Often billed alongside yung_womb, SLIC Unit and JAXX TMS. Next up: Else, Berlin on Sat 22 Aug.
+Slimgirl fat is a bass and club artist based in Germany, tracked on soundcheck, with 34 sets logged across Berlin, Cologne, Frankfurt and Hamburg and 4 more. Often billed alongside yung_womb, SLIC Unit and Nissa Carrington. Next up: Sonnenraum, Berlin on Sun 16 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sun, 16 Aug 2026 | Sonnenraum | Berlin |
 | Sat, 22 Aug 2026 | Else | Berlin |
 
 ## Recently played
@@ -23,6 +24,6 @@ Slimgirl fat is a bass and club artist based in Germany, tracked on soundcheck, 
 
 ## Shares bills with
 
-yung_womb, SLIC Unit, JAXX TMS
+yung_womb, SLIC Unit, Nissa Carrington
 
 *Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/slimgirlfat/)*

@@ -1,14 +1,16 @@
 # Ambient Pino
 
-Ambient Pino is a Techno and Afro House artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at Kunstraum Walcheturm, Zurich on Sat, 8 Aug 2026.
+Ambient Pino is a Psytrance and Techno artist with 3 upcoming club dates listed on soundcheck as of Fri, 31 Jul 2026, next at Kunstraum Walcheturm, Zurich on Sat, 8 Aug 2026.
 
-Ambient Pino is a techno and afro house artist based in Switzerland, tracked on soundcheck, with 30 sets logged across Zurich. Often billed alongside Beat Herren, Liquid Soul and Alay. Next up: Kunstraum Walcheturm, Zurich on Sat 8 Aug.
+Ambient Pino is a psytrance and techno artist based in Switzerland, tracked on soundcheck, with 32 sets logged across Zurich. Often billed alongside Beat Herren, Liquid Soul and Alay. Next up: Kunstraum Walcheturm, Zurich on Sat 8 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 8 Aug 2026 | Kunstraum Walcheturm | Zurich |
+| Sat, 29 Aug 2026 | Alte Kaserne | Zurich |
+| Sat, 19 Sept 2026 | Alte Kaserne | Zurich |
 
 ## Recently played
 

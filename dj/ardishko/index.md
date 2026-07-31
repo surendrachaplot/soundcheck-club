@@ -1,14 +1,15 @@
 # Ardishko
 
-Ardishko is a House and Acid artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at Two Tribes CAMPFIRE, London on Fri, 21 Aug 2026.
+Ardishko is a House and Acid artist with 2 upcoming club dates listed on soundcheck as of Fri, 31 Jul 2026, next at Two Tribes CAMPFIRE, London on Fri, 21 Aug 2026.
 
-Ardishko is a house and acid artist tracked on soundcheck, with 26 sets logged across London. Often billed alongside Revlow, LuSay and B-LOW. Next up: Two Tribes CAMPFIRE, London on Fri 21 Aug.
+Ardishko is a house and acid artist tracked on soundcheck, with 27 sets logged across London. Often billed alongside Revlow, LuSay and B-LOW. Next up: Two Tribes CAMPFIRE, London on Fri 21 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 21 Aug 2026 | Two Tribes CAMPFIRE | London |
+| Sat, 22 Aug 2026 | Bricks | London |
 
 ## Recently played
 

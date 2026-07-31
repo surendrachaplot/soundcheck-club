@@ -1,6 +1,6 @@
 # H0NEYM00N at H0L0
 
-H0NEYM00N at H0L0 on Thu 6 Aug, Newyorkcity. 2 acts on the bill: BABEITSPURR and Petal. House and Ghetto Tech. Preview the line-up and save it on soundcheck.
+H0NEYM00N at H0L0 on Thu 6 Aug, Newyorkcity. 2 acts on the bill: BABEITSPURR and Pètal. House and Ghetto Tech. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -11,6 +11,6 @@ H0NEYM00N at H0L0 on Thu 6 Aug, Newyorkcity. 2 acts on the bill: BABEITSPURR and
 ## Line-up
 
 - BABEITSPURR
-- Petal
+- Pètal
 
 *Source: [soundcheck](https://soundcheck.club/e/2485652-h0neym00n-at-h0l0/)*

@@ -1,6 +1,6 @@
 # La Rotonde Stalingrad
 
-La Rotonde Stalingrad is a music venue in Paris with 2 upcoming nights listed on soundcheck as of Fri, 31 Jul 2026; the next is "LA ROTONDE XXL - 3 FLOORS & 12H OF TECHNO IN PARIS" on Fri, 31 Jul 2026.
+La Rotonde Stalingrad is a music venue in Paris with 2 upcoming nights listed on soundcheck as of Fri, 31 Jul 2026; the next is "LA ROTONDE XXL - 3 FLOORS & 12H OF TECHNO (Ticket at the door)" on Fri, 31 Jul 2026.
 
 La Rotonde Stalingrad is a music venue in Paris listed on soundcheck. 2 upcoming nights, with line-ups including ALYOSHA, Bady (FR), E.T. and egoh and 2 more. Browse upcoming dates, start times and who's playing. 6-8 Place de la Bataille de Stalingrad - 75019 Paris.
 
@@ -8,7 +8,7 @@ La Rotonde Stalingrad is a music venue in Paris listed on soundcheck. 2 upcoming
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Fri, 31 Jul 2026 | LA ROTONDE XXL - 3 FLOORS & 12H OF TECHNO IN PARIS | ALYOSHA, Bady (FR), E.T., PEAKSOU, Westfall, Yous, egoh |
+| Fri, 31 Jul 2026 | LA ROTONDE XXL - 3 FLOORS & 12H OF TECHNO (Ticket at the door) | ALYOSHA, Bady (FR), E.T., PEAKSOU, Westfall, Yous, egoh |
 | Sat, 5 Sept 2026 | La rentrée Nowadays Open Air & Club XXL |  |
 
 ## Address

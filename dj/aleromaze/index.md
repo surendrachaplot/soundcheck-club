@@ -1,14 +1,14 @@
 # Aleromaze
 
-Aleromaze is a Techno and Trance artist with 3 upcoming club dates listed on soundcheck as of Fri, 31 Jul 2026, next at Tide Nightclub, Brighton on Sat, 1 Aug 2026.
+Aleromaze is a Techno and Trance artist with 3 upcoming club dates listed on soundcheck as of Fri, 31 Jul 2026, next at TBA - Various Venues, Brighton on Sat, 1 Aug 2026.
 
-Aleromaze is a techno and trance artist based in United Kingdom, tracked on soundcheck, with 7 sets logged across Brighton and London. Often billed alongside Cage (1), Jack Jeffrey and Lola (UK). Next up: Tide Nightclub, Brighton on Sat 1 Aug.
+Aleromaze is a techno and trance artist based in United Kingdom, tracked on soundcheck, with 7 sets logged across Brighton and London. Often billed alongside Cage (1), Jack Jeffrey and Lola (UK). Next up: TBA - Various Venues, Brighton on Sat 1 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 1 Aug 2026 | Tide Nightclub | Brighton |
+| Sat, 1 Aug 2026 | TBA - Various Venues | Brighton |
 | Sat, 1 Aug 2026 | Hare & Hounds | Brighton |
 | Fri, 21 Aug 2026 | Gaffe | London |
 

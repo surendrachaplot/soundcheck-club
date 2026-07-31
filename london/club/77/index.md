@@ -12,7 +12,7 @@
 | Sat, 1 Aug 2026 | 77: Guti [LIVE] | Djebali, Guti |
 | Fri, 7 Aug 2026 | FullHouse: Arielle Free | Arielle Free, Bear Winder, Will Watt |
 | Sat, 8 Aug 2026 | 77: Art Department | Art Department, JAYDAA |
-| Fri, 14 Aug 2026 | FullHouse |  |
+| Fri, 14 Aug 2026 | FullHouse: deb fa, kotto, Kidflo | Kidflo |
 | Fri, 21 Aug 2026 | FullHouse |  |
 | Fri, 28 Aug 2026 | FullHouse |  |
 | Sat, 5 Sept 2026 | 77: Darius Syrossian | Darius Syrossian |

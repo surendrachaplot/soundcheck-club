@@ -1,8 +1,8 @@
 # Partiboi69
 
-Partiboi69 is a Techno and House artist with 5 upcoming club dates listed on soundcheck as of Fri, 31 Jul 2026, next at Spot X, Budapest on Fri, 31 Jul 2026.
+Partiboi69 is a Techno and House artist with 6 upcoming club dates listed on soundcheck as of Fri, 31 Jul 2026, next at Spot X, Budapest on Fri, 31 Jul 2026.
 
-Partiboi69 is a techno and house artist based in Australia, tracked on soundcheck, with 185 sets logged across Aberdeen, Amsterdam, Antwerp and Austin and 64 more. Often billed alongside KETTAMA, Juicy Romance and DJ Heartstring. Next up: Spot X, Budapest on Fri 31 Jul.
+Partiboi69 is a techno and house artist based in Australia, tracked on soundcheck, with 186 sets logged across Aberdeen, Amsterdam, Antwerp and Austin and 64 more. Often billed alongside KETTAMA, Juicy Romance and DJ Heartstring. Next up: Spot X, Budapest on Fri 31 Jul.
 
 ## Upcoming shows
 
@@ -13,6 +13,7 @@ Partiboi69 is a techno and house artist based in Australia, tracked on soundchec
 | Sat, 5 Sept 2026 | Public Works | San Francisco/Oakland |
 | Sat, 19 Sept 2026 | Randall's Island | New York City |
 | Sat, 10 Oct 2026 | Escala25 | Lisbon |
+| Fri, 23 Oct 2026 | RAWFACTORY | Amsterdam |
 
 ## Recently played
 

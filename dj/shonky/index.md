@@ -1,14 +1,15 @@
 # Shonky
 
-Shonky is a House and Tech House artist with 10 upcoming club dates listed on soundcheck as of Fri, 31 Jul 2026, next at Tokonoma Club, Frankfurt on Sat, 1 Aug 2026.
+Shonky is a House and Tech House artist with 11 upcoming club dates listed on soundcheck as of Fri, 31 Jul 2026, next at Tokonoma Club, Frankfurt on Sat, 1 Aug 2026.
 
-Shonky is a house and tech house artist tracked on soundcheck, with 215 sets logged across Amsterdam, Antwerp, Athens and Austin and 57 more. Often billed alongside Dyed Soundorom, Dan Ghenacia and Apollonia. Next up: Tokonoma Club, Frankfurt on Sat 1 Aug.
+Shonky is a house and tech house artist tracked on soundcheck, with 216 sets logged across Amsterdam, Antwerp, Athens and Austin and 57 more. Often billed alongside Dyed Soundorom, Dan Ghenacia and Apollonia. Next up: Tokonoma Club, Frankfurt on Sat 1 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 1 Aug 2026 | Tokonoma Club | Frankfurt |
+| Wed, 5 Aug 2026 | Playa Soleil Ibiza | Ibiza |
 | Thu, 6 Aug 2026 | Outer Heaven | New York City |
 | Fri, 7 Aug 2026 | Rhythm | Toronto |
 | Sat, 8 Aug 2026 | 314 Scholes | New York City |

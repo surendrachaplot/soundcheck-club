@@ -2,7 +2,7 @@
 
 Joan Cute Sack is a Pop and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at Club NYX, Amsterdam on Sat, 1 Aug 2026.
 
-Joan Cute Sack is a pop and techno artist based in Australia, tracked on soundcheck, with 5 sets logged across Amsterdam and Rotterdam. Often billed alongside Kaikaina, DAMN DANIEL and DEY.REY. Next up: Club NYX, Amsterdam on Sat 1 Aug.
+Joan Cute Sack is a pop and techno artist based in Australia, tracked on soundcheck, with 5 sets logged across Amsterdam and Rotterdam. Often billed alongside Kaikaina, Beks and DAMN DANIEL. Next up: Club NYX, Amsterdam on Sat 1 Aug.
 
 ## Upcoming shows
 
@@ -19,6 +19,6 @@ Joan Cute Sack is a pop and techno artist based in Australia, tracked on soundch
 
 ## Shares bills with
 
-Kaikaina, DAMN DANIEL, DEY.REY
+Kaikaina, Beks, DAMN DANIEL
 
 *Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/joancutesack/)*

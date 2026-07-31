@@ -1,8 +1,8 @@
 # Ellen Allien
 
-Ellen Allien is a Techno and House artist with 12 upcoming club dates listed on soundcheck as of Fri, 31 Jul 2026, next at Amsterdamse Bos, Amsterdam on Fri, 31 Jul 2026.
+Ellen Allien is a Techno and House artist with 13 upcoming club dates listed on soundcheck as of Fri, 31 Jul 2026, next at Amsterdamse Bos, Amsterdam on Fri, 31 Jul 2026.
 
-Ellen Allien is a techno and house artist tracked on soundcheck, with 242 sets logged across Amsterdam, Athens, Barcelona and Belgrade and 53 more. Often billed alongside Dr. Rubinstein, Shaleen and Metaraph. Next up: Amsterdamse Bos, Amsterdam on Fri 31 Jul.
+Ellen Allien is a techno and house artist tracked on soundcheck, with 243 sets logged across Amsterdam, Athens, Barcelona and Belgrade and 53 more. Often billed alongside Dr. Rubinstein, Shaleen and Metaraph. Next up: Amsterdamse Bos, Amsterdam on Fri 31 Jul.
 
 ## Upcoming shows
 
@@ -13,13 +13,13 @@ Ellen Allien is a techno and house artist tracked on soundcheck, with 242 sets l
 | Sat, 1 Aug 2026 | Budapest Park | Budapest |
 | Tue, 4 Aug 2026 | Amnesia Ibiza | Ibiza |
 | Sat, 8 Aug 2026 | Zürichsee | Zurich |
+| Sat, 8 Aug 2026 | Palais Mascotte | Zurich |
 | Mon, 10 Aug 2026 | La Pinilla Ski Resort | Madrid |
 | Thu, 13 Aug 2026 | RSO.BERLIN | Berlin |
 | Sat, 22 Aug 2026 | Tempelhof Airport | Berlin |
 | Thu, 27 Aug 2026 | Hangaren | Copenhagen |
 | Sat, 12 Sept 2026 | Fvtvr | Paris |
 | Sat, 19 Sept 2026 | Spook Club | Valencia |
-| Fri, 25 Sept 2026 | 131 Mccormack St | Toronto |
 
 ## Recently played
 

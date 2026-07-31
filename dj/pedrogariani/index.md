@@ -1,13 +1,14 @@
 # Pedro Gariani
 
-Pedro Gariani is a House and Disco artist with 2 upcoming club dates listed on soundcheck as of Fri, 31 Jul 2026, next at Armazén Solon, Sao Paulo on Sat, 8 Aug 2026.
+Pedro Gariani is a House and Disco artist with 3 upcoming club dates listed on soundcheck as of Fri, 31 Jul 2026, next at TILLATEC, Amsterdam on Sun, 2 Aug 2026.
 
-Pedro Gariani is a house and disco artist based in Brazil, tracked on soundcheck, with 44 sets logged across Saopaulo. Often billed alongside Dioun, Etcetera and Paulete Lindacelva. Next up: Armazén Solon, Saopaulo on Sat 8 Aug.
+Pedro Gariani is a house and disco artist based in Brazil, tracked on soundcheck, with 45 sets logged across Amsterdam and Saopaulo. Often billed alongside Dioun, Etcetera and Paulete Lindacelva. Next up: TILLATEC, Amsterdam on Sun 2 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sun, 2 Aug 2026 | TILLATEC | Amsterdam |
 | Sat, 8 Aug 2026 | Armazén Solon | Sao Paulo |
 | Sat, 8 Aug 2026 | TBA | Sao Paulo |
 

@@ -1,13 +1,14 @@
 # nicole.AIFF
 
-nicole.AIFF is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at Guíxols Arena, Barcelona on Sat, 22 Aug 2026.
+nicole.AIFF is a House and Disco artist with 2 upcoming club dates listed on soundcheck as of Fri, 31 Jul 2026, next at Nitsa Club, Barcelona on Sat, 1 Aug 2026.
 
-nicole.AIFF is a house and disco artist based in Spain, tracked on soundcheck, with 18 sets logged across Barcelona and Berlin. Often billed alongside Hanakito, Opoku and Piem. Next up: Guíxols Arena, Barcelona on Sat 22 Aug.
+nicole.AIFF is a house and disco artist based in Spain, tracked on soundcheck, with 19 sets logged across Barcelona and Berlin. Often billed alongside Hanakito, Opoku and Piem. Next up: Nitsa Club, Barcelona on Sat 1 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 1 Aug 2026 | Nitsa Club | Barcelona |
 | Sat, 22 Aug 2026 | Guíxols Arena | Barcelona |
 
 ## Recently played

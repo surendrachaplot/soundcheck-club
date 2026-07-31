@@ -1,6 +1,6 @@
 # fi Garten x Langer Tag x Cologne Is For Lovers & Das Zündet at fi
 
-fi Garten x Langer Tag x Cologne Is For Lovers & Das Zündet on Sat 1 Aug, Cologne. 6 acts on the bill: Diskohengst, Isabel del Valle, Kai Alce and Merlin Monroe and 2 more. House and Disco. Preview the line-up and save it on soundcheck.
+fi Garten x Langer Tag x Cologne Is For Lovers & Das Zündet on Sat 1 Aug, Cologne. 7 acts on the bill: Diskohengst, DJ Funky Fresh Mike, Isabel del Valle and Kai Alce and 3 more. House and Disco. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -11,6 +11,7 @@ fi Garten x Langer Tag x Cologne Is For Lovers & Das Zündet on Sat 1 Aug, Colog
 ## Line-up
 
 - Diskohengst
+- DJ Funky Fresh Mike
 - Isabel del Valle
 - Kai Alce
 - Merlin Monroe

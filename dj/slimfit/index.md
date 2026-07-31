@@ -1,8 +1,8 @@
 # Slimfit
 
-Slimfit is a Techno and House artist with 6 upcoming club dates listed on soundcheck as of Fri, 31 Jul 2026, next at Skatecafe, Amsterdam on Fri, 31 Jul 2026.
+Slimfit is a Techno and House artist with 7 upcoming club dates listed on soundcheck as of Fri, 31 Jul 2026, next at Skatecafe, Amsterdam on Fri, 31 Jul 2026.
 
-Slimfit is a techno and house artist tracked on soundcheck, with 119 sets logged across Amsterdam, Berlin, Lisbon and London and 4 more. Often billed alongside angelboy, DIORA and YoungWoman. Next up: Skatecafe, Amsterdam on Fri 31 Jul.
+Slimfit is a techno and house artist tracked on soundcheck, with 120 sets logged across Amsterdam, Berlin, Lisbon and London and 4 more. Often billed alongside angelboy, DIORA and YoungWoman. Next up: Skatecafe, Amsterdam on Fri 31 Jul.
 
 ## Upcoming shows
 
@@ -14,6 +14,7 @@ Slimfit is a techno and house artist tracked on soundcheck, with 119 sets logged
 | Sat, 1 Aug 2026 | BASIS | Utrecht |
 | Fri, 7 Aug 2026 | Lofi | Amsterdam |
 | Sat, 22 Aug 2026 | export | Rotterdam |
+| Fri, 4 Sept 2026 | Paradiso | Amsterdam |
 
 ## Recently played
 

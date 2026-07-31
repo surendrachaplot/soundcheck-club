@@ -1,8 +1,8 @@
 # Obskur
 
-Obskur is a House and Tech House artist with 13 upcoming club dates listed on soundcheck as of Fri, 31 Jul 2026, next at Binks Yard, Nottingham on Sat, 1 Aug 2026.
+Obskur is a House and Tech House artist with 14 upcoming club dates listed on soundcheck as of Fri, 31 Jul 2026, next at Binks Yard, Nottingham on Sat, 1 Aug 2026.
 
-Obskur is a house and tech house artist tracked on soundcheck, with 148 sets logged across Aberdeen, Amsterdam, Austin and Barcelona and 37 more. Often billed alongside East End Dubs, Max Dean and ALISHA. Next up: Binks Yard, Nottingham on Sat 1 Aug.
+Obskur is a house and tech house artist tracked on soundcheck, with 149 sets logged across Aberdeen, Amsterdam, Austin and Barcelona and 37 more. Often billed alongside East End Dubs, Max Dean and ALISHA. Next up: Binks Yard, Nottingham on Sat 1 Aug.
 
 ## Upcoming shows
 
@@ -12,6 +12,7 @@ Obskur is a house and tech house artist tracked on soundcheck, with 148 sets log
 | Sat, 1 Aug 2026 | Steelyard Kelham | Sheffield |
 | Tue, 4 Aug 2026 | Hï Ibiza | Ibiza |
 | Sun, 9 Aug 2026 | Burgess Park | London |
+| Sun, 9 Aug 2026 | Burgess Park | London |
 | Fri, 28 Aug 2026 | Pacha Ibiza | Ibiza |
 | Sat, 29 Aug 2026 | Kelvedon Hall | London |
 | Sat, 29 Aug 2026 | Van Nelle Fabriek | Rotterdam |
@@ -19,7 +20,6 @@ Obskur is a house and tech house artist tracked on soundcheck, with 148 sets log
 | Tue, 22 Sept 2026 | Amnesia Ibiza | Ibiza |
 | Sun, 27 Sept 2026 | Amnesia Ibiza | Ibiza |
 | Wed, 21 Oct 2026 | A'DAM Toren | Amsterdam |
-| Fri, 23 Oct 2026 | Ndsm Wharf | Amsterdam |
 
 ## Recently played
 

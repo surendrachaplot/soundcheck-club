@@ -1,0 +1,17 @@
+# Hotel Butterfly
+
+Hotel Butterfly is a music venue in Rome with 1 upcoming night listed on soundcheck as of Fri, 31 Jul 2026; the next is "GoaUltrabeat - Hotel Butterfly" on Thu, 6 Aug 2026.
+
+Hotel Butterfly is a music venue in Rome listed on soundcheck. 1 upcoming night, with line-ups including Daniele Pavoni and Marcolino. Browse upcoming dates, start times and who's playing. Viale dei Gladiatori, 68, 00135 Roma RM, Italia.
+
+## What's on
+
+| Date | Night | Line-up |
+| --- | --- | --- |
+| Thu, 6 Aug 2026 | GoaUltrabeat - Hotel Butterfly | Daniele Pavoni, Marcolino |
+
+## Address
+
+Viale dei Gladiatori, 68, 00135 Roma RM, Italia, Rome
+
+*Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/rome/club/hotel-butterfly/)*

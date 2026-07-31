@@ -1,17 +1,23 @@
 # Prisma
 
-Prisma is a music venue in Berlin with 4 upcoming nights listed on soundcheck as of Fri, 31 Jul 2026; the next is "Sssmile Afterhour" on Thu, 6 Aug 2026.
+Prisma is a music venue in Berlin with 13 upcoming nights listed on soundcheck as of Fri, 31 Jul 2026; the next is "Klubkneipe x Tuesday Ritual - Embodied Playground Workshop" on Sat, 1 Aug 2026.
 
-Prisma is a music venue in Berlin listed on soundcheck. 4 upcoming nights, with line-ups including Andi Beat, Benua, JAVI VENERO and Najka and 2 more. Browse upcoming dates, start times and who's playing. Brückenstraße 1, 10179 Berlin.
+Prisma is a music venue in Berlin listed on soundcheck. 13 upcoming nights, with line-ups including Andi Beat, Benua, Brakata and NAIR (IN) and 2 more. Browse upcoming dates, start times and who's playing. Brückenstraße 1, 10179 Berlin.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
+| Sat, 1 Aug 2026 | Klubkneipe x Tuesday Ritual - Embodied Playground Workshop | Fo Ewa, Gabricoti, Repo |
+| Sun, 2 Aug 2026 | Klubkneipe x Sunset Grooves | NAIR (IN) |
+| Tue, 4 Aug 2026 | Klubkneipe x Tuesday Ritual - Female Empowerment Workshop | Brakata, Kazuki Takahashi, Prometheus |
 | Thu, 6 Aug 2026 | Sssmile Afterhour | Roberto Corrales, The Shredder |
+| Sun, 9 Aug 2026 | Klubkneipe x House Cats | Domovnika, KÜRÜF |
+| Tue, 11 Aug 2026 | Klubkneipe x Tuesday Ritual - Yoga Twerkshop | DJoy, KÜRÜF |
 | Thu, 13 Aug 2026 | Sssmile Afterhour | Andi Beat, JAVI VENERO |
+| Sun, 16 Aug 2026 | Klubkneipe x House Cats |  |
+| Tue, 18 Aug 2026 | Klubkneipe x Tuesday Ritual - Shibari Workshop | Domovnika |
 | Thu, 20 Aug 2026 | Sssmile Afterhour | Benua, The Kiss |
-| Thu, 27 Aug 2026 | Sssmile Afterhour | Najka |
 
 ## Address
 

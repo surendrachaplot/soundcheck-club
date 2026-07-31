@@ -1,14 +1,15 @@
 # DREY (UK)
 
-DREY (UK) is a House and Funk / Soul artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at Vittoria Wharf Studio, London on Sat, 8 Aug 2026.
+DREY (UK) is a House and Funk / Soul artist with 2 upcoming club dates listed on soundcheck as of Fri, 31 Jul 2026, next at Vittoria Wharf Studio, London on Sat, 8 Aug 2026.
 
-DREY (UK) is a house and funk / soul artist based in United Kingdom, tracked on soundcheck, with 9 sets logged across Brighton and London. Often billed alongside Donut, blissy e and Alexander Nut. Next up: Vittoria Wharf Studio, London on Sat 8 Aug.
+DREY (UK) is a house and funk / soul artist based in United Kingdom, tracked on soundcheck, with 10 sets logged across Brighton and London. Often billed alongside Donut, blissy e and Alexander Nut. Next up: Vittoria Wharf Studio, London on Sat 8 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 8 Aug 2026 | Vittoria Wharf Studio | London |
+| Fri, 23 Oct 2026 | The Jazz Cafe | London |
 
 ## Recently played
 

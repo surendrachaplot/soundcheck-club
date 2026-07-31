@@ -1,6 +1,6 @@
 # Entity + Herbivox presents OVERGROW at Waterhouse Studios
 
-Entity + Herbivox presents OVERGROW at Waterhouse Studios on Sat 29 Aug, Amsterdam. 4 acts on the bill: mckelv, SAAB (2), Sheps and Taylor Taylor. Preview the line-up and save it on soundcheck.
+Entity + Herbivox presents OVERGROW at Waterhouse Studios on Sat 29 Aug, Amsterdam. 5 acts on the bill: KateGia (2), mckelv, SAAB (2) and Sheps and 1 more. Techno and Bass. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,6 +10,7 @@ Entity + Herbivox presents OVERGROW at Waterhouse Studios on Sat 29 Aug, Amsterd
 
 ## Line-up
 
+- KateGia (2)
 - mckelv
 - SAAB (2)
 - Sheps

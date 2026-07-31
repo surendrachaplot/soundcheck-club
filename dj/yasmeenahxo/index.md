@@ -1,14 +1,15 @@
 # YASMEENAH (2)
 
-YASMEENAH (2) is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at Nowadays, New York City on Fri, 14 Aug 2026.
+YASMEENAH (2) is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Fri, 31 Jul 2026, next at Nowadays, New York City on Fri, 14 Aug 2026.
 
-YASMEENAH (2) is a techno and house artist based in United States of America, tracked on soundcheck, with 18 sets logged across Berlin, Chicago, Detroit and London and 1 more. Often billed alongside Blackmoonchild, DJ Etta (US) and A K. Next up: Nowadays, Newyorkcity on Fri 14 Aug.
+YASMEENAH (2) is a techno and house artist based in United States of America, tracked on soundcheck, with 19 sets logged across Berlin, Chicago, Detroit and London and 1 more. Often billed alongside Blackmoonchild, DJ Etta (US) and A K. Next up: Nowadays, Newyorkcity on Fri 14 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 14 Aug 2026 | Nowadays | New York City |
+| Fri, 4 Sept 2026 | Tresor / Globus | Berlin |
 
 ## Recently played
 

@@ -1,6 +1,6 @@
 # [OPEN AIR] TAPE pres. SHANIXX, FC KABAGAR + MORE at Lokschuppen Berlin
 
-[OPEN AIR] TAPE pres. SHANIXX, FC KABAGAR + MORE at Lokschuppen Berlin on Sun 23 Aug, Berlin. 2 acts on the bill: FC Kabagar and Shanixx. Trance and Techno. Preview the line-up and save it on soundcheck.
+[OPEN AIR] TAPE pres. SHANIXX, FC KABAGAR + MORE at Lokschuppen Berlin on Sun 23 Aug, Berlin. 3 acts on the bill: FC Kabagar, KLÖSS and Shanixx. Trance and Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -11,6 +11,7 @@
 ## Line-up
 
 - FC Kabagar
+- KLÖSS
 - Shanixx
 
 *Source: [soundcheck](https://soundcheck.club/e/2490481-open-air-tape-pres-shanixx-fc-kabagar-more-at-lokschuppen-be/)*

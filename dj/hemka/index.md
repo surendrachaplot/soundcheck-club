@@ -1,14 +1,15 @@
 # Hemka
 
-Hemka is a Techno and Minimal Techno artist with 2 upcoming club dates listed on soundcheck as of Fri, 31 Jul 2026, next at Gianpula Village, Malta on Wed, 12 Aug 2026.
+Hemka is a Techno and Minimal Techno artist with 3 upcoming club dates listed on soundcheck as of Fri, 31 Jul 2026, next at Gianpula Village, Malta on Wed, 12 Aug 2026.
 
-Hemka is a techno and minimal techno artist tracked on soundcheck, with 42 sets logged across Amsterdam, Berlin, Budapest and Copenhagen and 12 more. Often billed alongside SHDW, Stef Mendesidis and DJ Nobu. Next up: Gianpula Village, Malta on Wed 12 Aug.
+Hemka is a techno and minimal techno artist tracked on soundcheck, with 43 sets logged across Amsterdam, Berlin, Budapest and Copenhagen and 12 more. Often billed alongside SHDW, Stef Mendesidis and DJ Nobu. Next up: Gianpula Village, Malta on Wed 12 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Wed, 12 Aug 2026 | Gianpula Village | Malta |
+| Fri, 4 Sept 2026 | Tresor / Globus | Berlin |
 | Thu, 22 Oct 2026 | TILLATEC | Amsterdam |
 
 ## Recently played

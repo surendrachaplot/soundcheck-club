@@ -1,6 +1,6 @@
 # Le Jardin Surrealiste #2 at Rachdingue
 
-Le Jardin Surrealiste #2 at Rachdingue on Sat 8 Aug, Barcelona. 1 act on the bill: Nusha. Techno and House. Preview the line-up and save it on soundcheck.
+Le Jardin Surrealiste #2 at Rachdingue on Sat 8 Aug, Barcelona. 3 acts on the bill: Doug Bass, FreeAs and Nusha. Techno and House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,6 +10,8 @@ Le Jardin Surrealiste #2 at Rachdingue on Sat 8 Aug, Barcelona. 1 act on the bil
 
 ## Line-up
 
+- Doug Bass
+- FreeAs
 - Nusha
 
 *Source: [soundcheck](https://soundcheck.club/e/2494588-le-jardin-surrealiste-2-at-rachdingue/)*

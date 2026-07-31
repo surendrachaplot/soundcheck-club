@@ -10,7 +10,7 @@ TILLATEC is a music venue in Amsterdam listed on soundcheck. 16 upcoming nights,
 | --- | --- | --- |
 | Fri, 31 Jul 2026 | Planet Angels | ARCHANGEL (US), Clementaum, DIORA, Mina Galán, Miss Jay (RO), NMSS, YoungWoman, angelboy, lis (5), smother |
 | Sat, 1 Aug 2026 | TILLATEC invites: Herrensauna + KNIT | CARISTA, CEM, Cormac, Emma Champagne Queen, Gian Battista, HAAi, Lara Renner, MCMLXXXV, Narciss, Slim Soledad, Tommy Hart, fka.m4a |
-| Sun, 2 Aug 2026 | TILLATEC invites: KNIT + VESELKA | Bjarki, Cybersex, Djooke, ISAbella, Jaspol, Kilopatrah Jones, Marie Malarie, Maze DJ, Moody Mehran, Pablo Bozzi, Tweeman |
+| Sun, 2 Aug 2026 | TILLATEC invites: KNIT + VESELKA | Bjarki, Byron Yeates, Cybersex, Di After, Djooke, ISAbella, Jaspol, Kilopatrah Jones, Mama Snake, Marie Malarie, Maze DJ, Moody Mehran, Nastya Muravyova, Pablo Bozzi, Pedro Gariani, Tweeman, Vani Vachi |
 | Fri, 7 Aug 2026 | WorldPride: Horse Meat Disco | Horse Meat Disco, Robin Flux |
 | Sat, 8 Aug 2026 | WorldPride TILLATEC Invites: Boudica, Howl & Pervert | ASHTREY, Faustin, MarcelDune, Ms.G, RayRay, Samantha Togni, Schacke |
 | Sat, 15 Aug 2026 | Discos Movimiento x Pintai | ATEQ, Bluecommand, Gizem, Hafa, Hame (1), MNTY, Martinou, Move D, Telfort, Vera Logdanidi, nthng |

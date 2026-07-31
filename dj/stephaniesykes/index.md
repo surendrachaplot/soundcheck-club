@@ -1,8 +1,8 @@
 # Stephanie Sykes
 
-Stephanie Sykes is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Fri, 31 Jul 2026, next at Macadam, Nantes on Sat, 1 Aug 2026.
+Stephanie Sykes is a Techno and House artist with 4 upcoming club dates listed on soundcheck as of Fri, 31 Jul 2026, next at Macadam, Nantes on Sat, 1 Aug 2026.
 
-Stephanie Sykes is a techno and house artist tracked on soundcheck, with 129 sets logged across Amsterdam, Athens, Barcelona and Berlin and 38 more. Often billed alongside Remco Beekwilder, Beau Didier and Grace Dahl. Next up: Macadam, Nantes on Sat 1 Aug.
+Stephanie Sykes is a techno and house artist tracked on soundcheck, with 130 sets logged across Amsterdam, Athens, Barcelona and Berlin and 38 more. Often billed alongside Remco Beekwilder, Beau Didier and Grace Dahl. Next up: Macadam, Nantes on Sat 1 Aug.
 
 ## Upcoming shows
 
@@ -11,6 +11,7 @@ Stephanie Sykes is a techno and house artist tracked on soundcheck, with 129 set
 | Sat, 1 Aug 2026 | Macadam | Nantes |
 | Sat, 8 Aug 2026 | Else | Berlin |
 | Tue, 11 Aug 2026 | Club der Visionaere | Berlin |
+| Sat, 19 Sept 2026 | Tresor / Globus | Berlin |
 
 ## Recently played
 

@@ -2,7 +2,7 @@
 
 HANNAHHANSEN is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at TBA - telegram @klangsubstanz, Berlin on Sat, 15 Aug 2026.
 
-HANNAHHANSEN is a techno and house artist based in Germany, tracked on soundcheck, with 19 sets logged across Berlin. Often billed alongside Max Muth, Marc Eisenberg and V (NYC). Next up: TBA - telegram @klangsubstanz, Berlin on Sat 15 Aug.
+HANNAHHANSEN is a techno and house artist based in Germany, tracked on soundcheck, with 19 sets logged across Berlin. Often billed alongside Max Muth, V (NYC) and Marc Eisenberg. Next up: TBA - telegram @klangsubstanz, Berlin on Sat 15 Aug.
 
 ## Upcoming shows
 
@@ -23,6 +23,6 @@ HANNAHHANSEN is a techno and house artist based in Germany, tracked on soundchec
 
 ## Shares bills with
 
-Max Muth, Marc Eisenberg, V (NYC)
+Max Muth, V (NYC), Marc Eisenberg
 
 *Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/hannahhansen/)*

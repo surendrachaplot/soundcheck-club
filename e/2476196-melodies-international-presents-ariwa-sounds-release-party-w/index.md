@@ -1,6 +1,6 @@
 # Melodies International presents Ariwa Sounds release party with Mad Professor & special guests at Colour Factory
 
-Melodies International presents Ariwa Sounds release party with Mad Professor & special guests at Colour Factory on Sat 8 Aug, London. 1 act on the bill: Mad Professor. Disco and Dub. Preview the line-up and save it on soundcheck.
+Melodies International presents Ariwa Sounds release party with Mad Professor & special guests at Colour Factory on Sat 8 Aug, London. 3 acts on the bill: Mad Professor, Mafalda and Seiji Ono. Disco and Dub. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -11,5 +11,7 @@ Melodies International presents Ariwa Sounds release party with Mad Professor & 
 ## Line-up
 
 - Mad Professor
+- Mafalda
+- Seiji Ono
 
 *Source: [soundcheck](https://soundcheck.club/e/2476196-melodies-international-presents-ariwa-sounds-release-party-w/)*

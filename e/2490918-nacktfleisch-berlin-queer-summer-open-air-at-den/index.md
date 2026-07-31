@@ -1,6 +1,6 @@
 # Nacktfleisch - Berlin Queer Summer Open Air at ÆDEN
 
-Nacktfleisch - Berlin Queer Summer Open Air at ÆDEN on Sat 29 Aug, Berlin. 2 acts on the bill: Andrew Moore and Cristian Marras. Techno and Tech House. Preview the line-up and save it on soundcheck.
+Nacktfleisch - Berlin Queer Summer Open Air at ÆDEN on Sat 29 Aug, Berlin. 3 acts on the bill: Andrew Moore, Cristian Marras and DJ PERIODT. Techno and Tech House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -12,5 +12,6 @@ Nacktfleisch - Berlin Queer Summer Open Air at ÆDEN on Sat 29 Aug, Berlin. 2 ac
 
 - Andrew Moore
 - Cristian Marras
+- DJ PERIODT
 
 *Source: [soundcheck](https://soundcheck.club/e/2490918-nacktfleisch-berlin-queer-summer-open-air-at-den/)*

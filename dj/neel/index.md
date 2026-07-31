@@ -1,8 +1,8 @@
 # Neel
 
-Neel is a Techno and Ambient artist with 2 upcoming club dates listed on soundcheck as of Fri, 31 Jul 2026, next at Maison Symphonique de Montréal, Montreal on Fri, 28 Aug 2026.
+Neel is a Techno and Ambient artist with 3 upcoming club dates listed on soundcheck as of Fri, 31 Jul 2026, next at Maison Symphonique de Montréal, Montreal on Fri, 28 Aug 2026.
 
-Neel is a techno and ambient artist tracked on soundcheck, with 93 sets logged across Amsterdam, Athens, Bali and Barcelona and 28 more. Often billed alongside Anthony Linell, Donato Dozzy and Kudeki. Next up: Maison Symphonique de Montréal, Montreal on Fri 28 Aug.
+Neel is a techno and ambient artist tracked on soundcheck, with 94 sets logged across Amsterdam, Athens, Bali and Barcelona and 28 more. Often billed alongside Anthony Linell, Donato Dozzy and Kudeki. Next up: Maison Symphonique de Montréal, Montreal on Fri 28 Aug.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Neel is a techno and ambient artist tracked on soundcheck, with 93 sets logged a
 | --- | --- | --- |
 | Fri, 28 Aug 2026 | Maison Symphonique de Montréal | Montreal |
 | Sat, 12 Sept 2026 | THE MAGICK BAR | Rome |
+| Fri, 25 Sept 2026 | Tresor / Globus | Berlin |
 
 ## Recently played
 

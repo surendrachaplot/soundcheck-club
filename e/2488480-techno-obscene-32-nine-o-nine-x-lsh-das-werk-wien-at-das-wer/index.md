@@ -1,6 +1,6 @@
 # TECHNO OBSCENE #32 - NINE O NINE x LSH - Das Werk Wien at Das Werk
 
-TECHNO OBSCENE #32 - NINE O NINE x LSH - Das Werk Wien on Sat 1 Aug, Vienna. 2 acts on the bill: Albin Brezlan and Huebl. Techno. Preview the line-up and save it on soundcheck.
+TECHNO OBSCENE #32 - NINE O NINE x LSH - Das Werk Wien on Sat 1 Aug, Vienna. 3 acts on the bill: Albin Brezlan, Huebl and Paul Boese. Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -12,5 +12,6 @@ TECHNO OBSCENE #32 - NINE O NINE x LSH - Das Werk Wien on Sat 1 Aug, Vienna. 2 a
 
 - Albin Brezlan
 - Huebl
+- Paul Boese
 
 *Source: [soundcheck](https://soundcheck.club/e/2488480-techno-obscene-32-nine-o-nine-x-lsh-das-werk-wien-at-das-wer/)*

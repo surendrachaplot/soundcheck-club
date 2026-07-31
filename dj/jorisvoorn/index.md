@@ -1,8 +1,8 @@
 # Joris Voorn
 
-Joris Voorn is a Techno and House artist with 10 upcoming club dates listed on soundcheck as of Fri, 31 Jul 2026, next at Sloterpark, Amsterdam on Sat, 8 Aug 2026.
+Joris Voorn is a Techno and House artist with 11 upcoming club dates listed on soundcheck as of Fri, 31 Jul 2026, next at Sloterpark, Amsterdam on Sat, 8 Aug 2026.
 
-Joris Voorn is a techno and house artist tracked on soundcheck, with 184 sets logged across Amsterdam, Antwerp, Athens and Bangkok and 48 more. Often billed alongside Adam Beyer, Kevin de Vries and Artbat. Next up: Sloterpark, Amsterdam on Sat 8 Aug.
+Joris Voorn is a techno and house artist tracked on soundcheck, with 185 sets logged across Amsterdam, Antwerp, Athens and Bangkok and 48 more. Often billed alongside Adam Beyer, Kevin de Vries and Artbat. Next up: Sloterpark, Amsterdam on Sat 8 Aug.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Joris Voorn is a techno and house artist tracked on soundcheck, with 184 sets lo
 | --- | --- | --- |
 | Sat, 8 Aug 2026 | Sloterpark | Amsterdam |
 | Tue, 11 Aug 2026 | Obudai Island | Budapest |
+| Thu, 13 Aug 2026 | Zsiráf | Budapest |
 | Sat, 22 Aug 2026 | TBA - Los Angeles | Los Angeles |
 | Sat, 29 Aug 2026 | TBA - AMK Club, Almagro | Buenos Aires |
 | Sat, 29 Aug 2026 | AMK Club | Buenos Aires |

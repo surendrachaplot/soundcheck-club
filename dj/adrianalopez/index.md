@@ -1,8 +1,8 @@
 # Adriana Lopez
 
-Adriana Lopez is a Techno and House artist with 5 upcoming club dates listed on soundcheck as of Fri, 31 Jul 2026, next at Fvtvr, Paris on Fri, 31 Jul 2026.
+Adriana Lopez is a Techno and House artist with 6 upcoming club dates listed on soundcheck as of Fri, 31 Jul 2026, next at Fvtvr, Paris on Fri, 31 Jul 2026.
 
-Adriana Lopez is a techno and house artist tracked on soundcheck, with 138 sets logged across Amsterdam, Athens, Barcelona and Basel and 39 more. Often billed alongside Oscar Mulero, Dasha Rush and UFO95. Next up: Fvtvr, Paris on Fri 31 Jul.
+Adriana Lopez is a techno and house artist tracked on soundcheck, with 139 sets logged across Amsterdam, Athens, Barcelona and Basel and 39 more. Often billed alongside Oscar Mulero, Dasha Rush and UFO95. Next up: Fvtvr, Paris on Fri 31 Jul.
 
 ## Upcoming shows
 
@@ -11,6 +11,7 @@ Adriana Lopez is a techno and house artist tracked on soundcheck, with 138 sets 
 | Fri, 31 Jul 2026 | Fvtvr | Paris |
 | Sat, 1 Aug 2026 | Spook Club | Valencia |
 | Sat, 8 Aug 2026 | Flux | Istanbul |
+| Wed, 2 Sept 2026 | Moog Club | Barcelona |
 | Sat, 5 Sept 2026 | Europa Boat | Budapest |
 | Fri, 23 Oct 2026 | Levenslang Amsterdam | Amsterdam |
 

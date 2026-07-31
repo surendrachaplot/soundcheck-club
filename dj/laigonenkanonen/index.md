@@ -2,7 +2,7 @@
 
 Laigonen Kanonen is a Tech House and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at TBA - telegram @klangsubstanz, Berlin on Sat, 15 Aug 2026.
 
-Laigonen Kanonen is a tech house and techno artist tracked on soundcheck, with 10 sets logged across Berlin. Often billed alongside BERLIN, V (NYC) and Einfach Taffo. Next up: TBA - telegram @klangsubstanz, Berlin on Sat 15 Aug.
+Laigonen Kanonen is a tech house and techno artist tracked on soundcheck, with 10 sets logged across Berlin. Often billed alongside V (NYC), BERLIN and Einfach Taffo. Next up: TBA - telegram @klangsubstanz, Berlin on Sat 15 Aug.
 
 ## Upcoming shows
 
@@ -23,6 +23,6 @@ Laigonen Kanonen is a tech house and techno artist tracked on soundcheck, with 1
 
 ## Shares bills with
 
-BERLIN, V (NYC), Einfach Taffo
+V (NYC), BERLIN, Einfach Taffo
 
 *Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/laigonenkanonen/)*

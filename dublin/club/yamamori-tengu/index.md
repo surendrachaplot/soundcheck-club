@@ -13,7 +13,7 @@ Yamamori Tengu is a music venue in Dublin listed on soundcheck. 13 upcoming nigh
 | Fri, 14 Aug 2026 | Equinox presents: Pancratio | Pancratio, Síofra |
 | Sat, 15 Aug 2026 | Giovanni Grooves | DJ Get Luc(y) |
 | Fri, 21 Aug 2026 | Research x Hidden Love: ANNĒ | ANNĒ, Posterboy |
-| Sat, 22 Aug 2026 | A Night Of Soundsystem Culture II | Rub A Dub HiFi |
+| Sat, 22 Aug 2026 | A Night Of Soundsystem Culture II | Jacky Murda, Rub A Dub HiFi |
 | Fri, 28 Aug 2026 | Four Four presents: Future Éire at Tengu |  |
 | Sat, 29 Aug 2026 | Tengu x Supper presents: Magda | Magda, Mercorn, Nev Jio, Royce Larøca |
 | Sat, 5 Sept 2026 | Tengu presents: Sunil Sharpe All Night Long | Sunil Sharpe |

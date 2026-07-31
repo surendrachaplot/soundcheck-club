@@ -1,13 +1,14 @@
 # Mothership
 
-Mothership is a music venue in San Francisco/Oakland with 3 upcoming nights listed on soundcheck as of Fri, 31 Jul 2026; the next is "oksional First Thursdays: D!SHA" on Thu, 6 Aug 2026.
+Mothership is a music venue in San Francisco/Oakland with 4 upcoming nights listed on soundcheck as of Fri, 31 Jul 2026; the next is "DJGuan & Friends" on Sat, 1 Aug 2026.
 
-Mothership is a music venue in Sanfrancisco listed on soundcheck. 3 upcoming nights, with line-ups including D!SHA, ECTO (3) and Justyn Myers. Browse upcoming dates, start times and who's playing. 3152 Mission Street San Francisco, CA 94110.
+Mothership is a music venue in Sanfrancisco listed on soundcheck. 4 upcoming nights, with line-ups including Cy Da Kid, D!SHA, ECTO (3) and Justyn Myers. Browse upcoming dates, start times and who's playing. 3152 Mission Street San Francisco, CA 94110.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
+| Sat, 1 Aug 2026 | DJGuan & Friends | Cy Da Kid |
 | Thu, 6 Aug 2026 | oksional First Thursdays: D!SHA | D!SHA, Justyn Myers |
 | Sat, 8 Aug 2026 | ASL - All System Live | ECTO (3) |
 | Sun, 4 Oct 2026 | Tromac |  |

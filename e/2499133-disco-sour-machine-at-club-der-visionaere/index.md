@@ -1,6 +1,6 @@
 # Disco Sour Machine at Club der Visionaere
 
-Disco Sour Machine at Club der Visionaere on Sun 2 Aug, Berlin. 8 acts on the bill: Chica Paula, Dimitrios (3), himeee and James Dean Brown and 4 more. Preview the line-up and save it on soundcheck.
+Disco Sour Machine at Club der Visionaere on Sun 2 Aug, Berlin. 10 acts on the bill: Argenis Brito, Chica Paula, Dandy Jack and Dimitrios (3) and 6 more. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,7 +10,9 @@ Disco Sour Machine at Club der Visionaere on Sun 2 Aug, Berlin. 8 acts on the bi
 
 ## Line-up
 
+- Argenis Brito
 - Chica Paula
+- Dandy Jack
 - Dimitrios (3)
 - himeee
 - James Dean Brown

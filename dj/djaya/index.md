@@ -1,8 +1,8 @@
 # DJ AYA
 
-DJ AYA is a Techno and House artist with 6 upcoming club dates listed on soundcheck as of Fri, 31 Jul 2026, next at Waterkant, Amsterdam on Fri, 31 Jul 2026.
+DJ AYA is a Techno and House artist with 7 upcoming club dates listed on soundcheck as of Fri, 31 Jul 2026, next at Waterkant, Amsterdam on Fri, 31 Jul 2026.
 
-DJ AYA is a techno and house artist tracked on soundcheck, with 166 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 37 more. Often billed alongside DJ Fuckoff, Aaron Blau and DJ Gigola. Next up: Waterkant, Amsterdam on Fri 31 Jul.
+DJ AYA is a techno and house artist tracked on soundcheck, with 167 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 37 more. Often billed alongside DJ Fuckoff, Aaron Blau and DJ Gigola. Next up: Waterkant, Amsterdam on Fri 31 Jul.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ DJ AYA is a techno and house artist tracked on soundcheck, with 166 sets logged 
 | --- | --- | --- |
 | Fri, 31 Jul 2026 | Waterkant | Amsterdam |
 | Sat, 8 Aug 2026 | Club Vaag | Antwerp |
+| Thu, 13 Aug 2026 | arkaoda Berlin | Berlin |
 | Sat, 22 Aug 2026 | Phoxxi Green Area | Hamburg |
 | Sun, 23 Aug 2026 | Maaya | Berlin |
 | Fri, 28 Aug 2026 | Dürener Badesee | Cologne |

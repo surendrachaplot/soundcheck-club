@@ -1,13 +1,14 @@
 # La La
 
-La La is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Fri, 31 Jul 2026, next at Burgess Park, London on Sun, 9 Aug 2026.
+La La is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Fri, 31 Jul 2026, next at Burgess Park, London on Sun, 9 Aug 2026.
 
-La La is a house and techno artist tracked on soundcheck, with 139 sets logged across Aberdeen, Amsterdam, Bali and Barcelona and 38 more. Often billed alongside AIRKEY, Ben Hemsley and Ewan McVicar. Next up: Burgess Park, London on Sun 9 Aug.
+La La is a house and techno artist tracked on soundcheck, with 140 sets logged across Aberdeen, Amsterdam, Bali and Barcelona and 38 more. Often billed alongside AIRKEY, Ben Hemsley and Ewan McVicar. Next up: Burgess Park, London on Sun 9 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sun, 9 Aug 2026 | Burgess Park | London |
 | Sun, 9 Aug 2026 | Burgess Park | London |
 | Sat, 10 Oct 2026 | Depot Mayfield | Manchester |
 

@@ -1,6 +1,6 @@
 # Shangri-La with Malive (BRA), support: Sviatko, MANDIN ⏾ Nights of Budapest Park at Budapest Park
 
-Shangri-La with Malive (BRA), support: Sviatko, MANDIN ⏾ Nights of Budapest Park on Fri 7 Aug, Budapest. 2 acts on the bill: Malive and MANDIN. House and Hip-Hop. Preview the line-up and save it on soundcheck.
+Shangri-La with Malive (BRA), support: Sviatko, MANDIN ⏾ Nights of Budapest Park on Fri 7 Aug, Budapest. 2 acts on the bill: Malive and MANDIN. Tech House and Deep House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

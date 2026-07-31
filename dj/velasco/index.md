@@ -1,8 +1,8 @@
 # Velasco
 
-Velasco is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Fri, 31 Jul 2026, next at TBA - ART CLUB Cabriès, Marseille on Sat, 1 Aug 2026.
+Velasco is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Fri, 31 Jul 2026, next at TBA - ART CLUB Cabriès, Marseille on Sat, 1 Aug 2026.
 
-Velasco is a house and techno artist tracked on soundcheck, with 97 sets logged across Amsterdam, Austin, Barcelona and Berlin and 27 more. Often billed alongside DJ Tjizza, Anthea and Samuel Deep. Next up: TBA - ART CLUB Cabriès, Marseille on Sat 1 Aug.
+Velasco is a house and techno artist tracked on soundcheck, with 98 sets logged across Amsterdam, Austin, Barcelona and Berlin and 27 more. Often billed alongside DJ Tjizza, Anthea and Samuel Deep. Next up: TBA - ART CLUB Cabriès, Marseille on Sat 1 Aug.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Velasco is a house and techno artist tracked on soundcheck, with 97 sets logged 
 | --- | --- | --- |
 | Sat, 1 Aug 2026 | TBA - ART CLUB Cabriès | Marseille |
 | Fri, 7 Aug 2026 | Oven Club | Valencia |
+| Thu, 27 Aug 2026 | arkaoda Berlin | Berlin |
 
 ## Recently played
 

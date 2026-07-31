@@ -1,14 +1,15 @@
 # Moto Moto
 
-Moto Moto is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at Südpol, Hamburg on Fri, 14 Aug 2026.
+Moto Moto is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Fri, 31 Jul 2026, next at Südpol, Hamburg on Fri, 14 Aug 2026.
 
-Moto Moto is a techno and house artist based in Germany, tracked on soundcheck, with 39 sets logged across Berlin, Hamburg, Leipzig and Munich and 1 more. Often billed alongside Fennek, Langnikel and nyn lou. Next up: Südpol, Hamburg on Fri 14 Aug.
+Moto Moto is a techno and house artist based in Germany, tracked on soundcheck, with 40 sets logged across Berlin, Hamburg, Leipzig and Munich and 1 more. Often billed alongside Fennek, Langnikel and nyn lou. Next up: Südpol, Hamburg on Fri 14 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 14 Aug 2026 | Südpol | Hamburg |
+| Sat, 15 Aug 2026 | DNA. Art Club | Berlin |
 
 ## Recently played
 

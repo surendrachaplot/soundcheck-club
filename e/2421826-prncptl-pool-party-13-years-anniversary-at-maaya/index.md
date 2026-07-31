@@ -1,6 +1,6 @@
 # PRNCPTL POOL PARTY - 13 Years Anniversary at Maaya
 
-PRNCPTL POOL PARTY - 13 Years Anniversary at Maaya on Sun 23 Aug, Berlin. 10 acts on the bill: CRYME, Curses, Dirty Daddy Don and DJ AYA and 6 more. Techno and House. Preview the line-up and save it on soundcheck.
+PRNCPTL POOL PARTY - 13 Years Anniversary at Maaya on Sun 23 Aug, Berlin. 11 acts on the bill: CRYME, Curses, Dirty Daddy Don and DJ AYA and 7 more. Techno and House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -20,5 +20,6 @@ PRNCPTL POOL PARTY - 13 Years Anniversary at Maaya on Sun 23 Aug, Berlin. 10 act
 - Spacer Woman
 - The Lady Machine
 - TOCCORORO
+- VINVAR
 
 *Source: [soundcheck](https://soundcheck.club/e/2421826-prncptl-pool-party-13-years-anniversary-at-maaya/)*

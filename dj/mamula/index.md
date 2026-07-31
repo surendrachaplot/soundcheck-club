@@ -1,14 +1,15 @@
 # Mamula
 
-Mamula is a Acid and Club artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at Aaja Basement, London on Fri, 7 Aug 2026.
+Mamula is a Acid and House artist with 2 upcoming club dates listed on soundcheck as of Fri, 31 Jul 2026, next at Aaja Basement, London on Fri, 7 Aug 2026.
 
-Mamula is an acid and club artist based in Georgia, tracked on soundcheck, with 6 sets logged across London and Tbilisi. Often billed alongside JACK OF HEARTS, BEQA and DungeonMaster. Next up: Aaja Basement, London on Fri 7 Aug.
+Mamula is an acid and house artist based in Georgia, tracked on soundcheck, with 7 sets logged across London and Tbilisi. Often billed alongside JACK OF HEARTS, BEQA and DungeonMaster. Next up: Aaja Basement, London on Fri 7 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 7 Aug 2026 | Aaja Basement | London |
+| Sat, 8 Aug 2026 | TBA - East London Location TBA | London |
 
 ## Recently played
 

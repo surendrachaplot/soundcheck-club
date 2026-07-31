@@ -1,14 +1,15 @@
 # Mike Shannon
 
-Mike Shannon is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at Collect LX Factory, Lisbon on Fri, 21 Aug 2026.
+Mike Shannon is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Fri, 31 Jul 2026, next at Collect LX Factory, Lisbon on Fri, 21 Aug 2026.
 
-Mike Shannon is a house and techno artist based in Canada, tracked on soundcheck, with 57 sets logged across Amsterdam, Auckland, Berlin and Buenosaires and 14 more. Often billed alongside Stipé, DeWalta and Mathew Jonson. Next up: Collect LX Factory, Lisbon on Fri 21 Aug.
+Mike Shannon is a house and techno artist based in Canada, tracked on soundcheck, with 58 sets logged across Amsterdam, Auckland, Berlin and Buenosaires and 14 more. Often billed alongside Stipé, DeWalta and Mathew Jonson. Next up: Collect LX Factory, Lisbon on Fri 21 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 21 Aug 2026 | Collect LX Factory | Lisbon |
+| Wed, 9 Sept 2026 | Club der Visionaere | Berlin |
 
 ## Recently played
 

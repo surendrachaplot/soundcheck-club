@@ -9,7 +9,7 @@ Lux Fragil is a music venue in Lisbon listed on soundcheck. 14 upcoming nights, 
 | Date | Night | Line-up |
 | --- | --- | --- |
 | Fri, 31 Jul 2026 | Vlada, Worm Class, Thiago Guiselini, Mário Valente | Mário Valente, Thiago Guiselini, Vlada, Worm Class |
-| Sat, 1 Aug 2026 | Midland, Kampire, Rui Vargas, Varela, Rita Maia | Kampire, Midland, Rita Maia, Rui Vargas, Varela |
+| Sat, 1 Aug 2026 | Midland, Kampire, Inês Duarte, Varela, Rita Maia | Kampire, Midland, Rita Maia, Rui Vargas, Varela |
 | Thu, 6 Aug 2026 | EXOTIKA: Juliana Huxtable, Meibi, Dexter, Taxsh, KAPP | Dexter Lux, Juliana Huxtable, KAPP, Meibi, Taxsh |
 | Fri, 7 Aug 2026 | Kia, Diogo Lacerda, HNRQ & Jepe | Diogo Lacerda, HNRQ (2), Jepe, Kia (AU), Rui Trintaeum |
 | Sat, 8 Aug 2026 | Marie Davidson, Madd Rod, NVNO, Varela, Mickey Richards | Kokeshi, Madd Rod, Marie Davidson, Varela |

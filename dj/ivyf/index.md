@@ -1,14 +1,15 @@
 # Ivy F
 
-Ivy F is a House and Electronica artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at The Queen Adelaide, London on Fri, 14 Aug 2026.
+Ivy F is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Fri, 31 Jul 2026, next at The Queen Adelaide, London on Fri, 14 Aug 2026.
 
-Ivy F is a house and electronica artist tracked on soundcheck, with 6 sets logged across Amsterdam and London. Often billed alongside ASHTREY, Aiden Francis and DJ Shahmaran. Next up: The Queen Adelaide, London on Fri 14 Aug.
+Ivy F is a house and techno artist tracked on soundcheck, with 7 sets logged across Amsterdam and London. Often billed alongside teleopath, ASHTREY and Aiden Francis. Next up: The Queen Adelaide, London on Fri 14 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 14 Aug 2026 | The Queen Adelaide | London |
+| Sun, 30 Aug 2026 | radial | London |
 
 ## Recently played
 
@@ -20,6 +21,6 @@ Ivy F is a house and electronica artist tracked on soundcheck, with 6 sets logge
 
 ## Shares bills with
 
-ASHTREY, Aiden Francis, DJ Shahmaran
+teleopath, ASHTREY, Aiden Francis
 
 *Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/ivyf/)*

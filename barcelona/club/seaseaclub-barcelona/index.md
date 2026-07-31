@@ -11,7 +11,7 @@ Seaseaclub Barcelona is a music venue in Barcelona listed on soundcheck. 17 upco
 | Fri, 31 Jul 2026 | NEO Party (Open Air) 4th Year Anniversary - Barcelona - July |  |
 | Sat, 1 Aug 2026 | LOAD pres. Kidoo + Abdon , Marian & Pau Guilera (the gallery) | AIIVIIK, Abdon, Jorgesyn, Kidoo, Marian BR, Pau Guilera, THINKPINK |
 | Sun, 2 Aug 2026 | LA GUASA pres. GUSTAVO DOMÍNGUEZ (OPEN AIR + afterparty) |  |
-| Sun, 2 Aug 2026 | RITO at MuaMua (SeaSea Club) | MARTISTA, Marcel BS, SOFIA PINEDA |
+| Sun, 2 Aug 2026 | RITO at MuaMua (SEASEA Club) | MARTISTA, Marcel BS, SOFIA PINEDA |
 | Sat, 8 Aug 2026 | TSOA: Peces Raros by Night (Open Air) | Agatha Pher, Lupe Republic, Martin Cozar |
 | Sun, 9 Aug 2026 | Club Hacienda with Robbie Doherty & Anil Aras (the gallery-indoor) | Anil Aras, Boyos (1), INDRA TRAFERRI, Robbie Doherty |
 | Fri, 14 Aug 2026 | OMNIA & TSOA: Guy J + Henry Saiz(Open Air) | Agatha Pher, Guy J, Henry Saiz, Luciano Lozz |

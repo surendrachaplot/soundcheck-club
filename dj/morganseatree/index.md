@@ -1,8 +1,8 @@
 # Morgan Seatree
 
-Morgan Seatree is a House and Tech House artist with 8 upcoming club dates listed on soundcheck as of Fri, 31 Jul 2026, next at Amnesia Ibiza, Ibiza on Mon, 3 Aug 2026.
+Morgan Seatree is a House and Tech House artist with 9 upcoming club dates listed on soundcheck as of Fri, 31 Jul 2026, next at Amnesia Ibiza, Ibiza on Mon, 3 Aug 2026.
 
-Morgan Seatree is a house and tech house artist tracked on soundcheck, with 80 sets logged across Amsterdam, Antwerp, Belfast and Boston and 21 more. Often billed alongside Kyle Starkey, Diffrent and DART. Next up: Amnesia Ibiza, Ibiza on Mon 3 Aug.
+Morgan Seatree is a house and tech house artist tracked on soundcheck, with 81 sets logged across Amsterdam, Antwerp, Belfast and Boston and 21 more. Often billed alongside Kyle Starkey, Diffrent and DART. Next up: Amnesia Ibiza, Ibiza on Mon 3 Aug.
 
 ## Upcoming shows
 
@@ -11,6 +11,7 @@ Morgan Seatree is a house and tech house artist tracked on soundcheck, with 80 s
 | Mon, 3 Aug 2026 | Amnesia Ibiza | Ibiza |
 | Tue, 4 Aug 2026 | BCM | Mallorca |
 | Fri, 7 Aug 2026 | Palmerstown House Estate | Dublin |
+| Sun, 9 Aug 2026 | Burgess Park | London |
 | Sun, 9 Aug 2026 | Burgess Park | London |
 | Sat, 15 Aug 2026 | Mondo | Madrid |
 | Mon, 17 Aug 2026 | Amnesia Ibiza | Ibiza |

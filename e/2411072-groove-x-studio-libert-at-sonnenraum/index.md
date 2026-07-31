@@ -1,6 +1,6 @@
 # GROOVE x Studio Liberté at Sonnenraum
 
-GROOVE x Studio Liberté at Sonnenraum on Sun 16 Aug, Berlin. 8 acts on the bill: Danny Daze, Detroit In Effect, DJ Assault and DJ Godfather and 4 more. Bass and Electro. Preview the line-up and save it on soundcheck.
+GROOVE x Studio Liberté at Sonnenraum on Sun 16 Aug, Berlin. 10 acts on the bill: Danny Daze, Detroit In Effect, DJ Assault and DJ Godfather and 6 more. Bass and Electro. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -15,8 +15,10 @@ GROOVE x Studio Liberté at Sonnenraum on Sun 16 Aug, Berlin. 8 acts on the bill
 - DJ Assault
 - DJ Godfather
 - Modeselektor
+- Nissa Carrington
 - SALOME
 - SLIC Unit
+- Slimgirl fat
 - Viikatory
 
 *Source: [soundcheck](https://soundcheck.club/e/2411072-groove-x-studio-libert-at-sonnenraum/)*

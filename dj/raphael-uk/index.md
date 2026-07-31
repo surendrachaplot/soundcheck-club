@@ -9,6 +9,7 @@ Raphael Carrau is a house and techno artist tracked on soundcheck, with 132 sets
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 31 Jul 2026 | Night Tales | London |
+| Fri, 31 Jul 2026 | Starlane Pizza Bar | London |
 | Sat, 1 Aug 2026 | TBA - Comporta | Lisbon |
 | Sun, 9 Aug 2026 | Sunseabar Beach Club | Barcelona |
 | Sat, 24 Oct 2026 | Les Enfants Brillants | Barcelona |

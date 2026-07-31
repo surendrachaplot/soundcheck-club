@@ -1,13 +1,14 @@
 # Unknown Horizon
 
-Unknown Horizon is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at Hall, Tallinn on Fri, 4 Sept 2026.
+Unknown Horizon is a House and Electronica artist with 2 upcoming club dates listed on soundcheck as of Fri, 31 Jul 2026, next at Tallinn Town Hall Square, Tallinn on Wed, 19 Aug 2026.
 
-Unknown Horizon is a house and techno artist tracked on soundcheck, with 11 sets logged across Copenhagen and Tallinn. Often billed alongside KARINSMATIC, Ken Dark and ARYA (DK). Next up: Hall, Tallinn on Fri 4 Sept.
+Unknown Horizon is a house and electronica artist tracked on soundcheck, with 12 sets logged across Copenhagen and Tallinn. Often billed alongside KARINSMATIC, Ken Dark and ARYA (DK). Next up: Tallinn Town Hall Square, Tallinn on Wed 19 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Wed, 19 Aug 2026 | Tallinn Town Hall Square | Tallinn |
 | Fri, 4 Sept 2026 | Hall | Tallinn |
 
 ## Recently played

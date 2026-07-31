@@ -1,6 +1,6 @@
 # Electric Romance at Slakthuset
 
-Electric Romance at Slakthuset on Fri 31 Jul, Stockholm. 1 act on the bill: Marcus Christiansen. Trance and Italo Disco. Preview the line-up and save it on soundcheck.
+Electric Romance at Slakthuset on Fri 31 Jul, Stockholm. 2 acts on the bill: Marcus Christiansen and Ozgur Can. Trance and Italo Disco. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -11,5 +11,6 @@ Electric Romance at Slakthuset on Fri 31 Jul, Stockholm. 1 act on the bill: Marc
 ## Line-up
 
 - Marcus Christiansen
+- Ozgur Can
 
 *Source: [soundcheck](https://soundcheck.club/e/2501724-electric-romance-at-slakthuset/)*

@@ -1,8 +1,8 @@
 # ANNX
 
-ANNX is a Techno and Trance artist with 3 upcoming club dates listed on soundcheck as of Fri, 31 Jul 2026, next at FOLD, London on Sat, 8 Aug 2026.
+ANNX is a Techno and House artist with 4 upcoming club dates listed on soundcheck as of Fri, 31 Jul 2026, next at FOLD, London on Sat, 8 Aug 2026.
 
-ANNX is a techno and trance artist based in United Kingdom, tracked on soundcheck, with 40 sets logged across Bangkok, Berlin, Bristol and Brussels and 10 more. Often billed alongside Lora Mipsum, noodle and Anna Wall. Next up: FOLD, London on Sat 8 Aug.
+ANNX is a techno and house artist based in United Kingdom, tracked on soundcheck, with 41 sets logged across Bangkok, Berlin, Bristol and Brussels and 10 more. Often billed alongside Lora Mipsum, noodle and Anna Wall. Next up: FOLD, London on Sat 8 Aug.
 
 ## Upcoming shows
 
@@ -11,6 +11,7 @@ ANNX is a techno and trance artist based in United Kingdom, tracked on soundchec
 | Sat, 8 Aug 2026 | FOLD | London |
 | Sat, 15 Aug 2026 | Sneaky Pete's | Edinburgh |
 | Sat, 22 Aug 2026 | Macadam | Nantes |
+| Sun, 20 Sept 2026 | Gaffe | London |
 
 ## Recently played
 

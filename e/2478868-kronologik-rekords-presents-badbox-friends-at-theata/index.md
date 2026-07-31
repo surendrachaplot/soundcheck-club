@@ -1,6 +1,6 @@
 # Kronologik Rekords presents: BADBOX & Friends at Theata
 
-Kronologik Rekords presents: BADBOX & Friends at Theata on Sat 29 Aug, London. 3 acts on the bill: BADBOX, Mr Silk and Rancido. Afro House and Afro Tech. Preview the line-up and save it on soundcheck.
+Kronologik Rekords presents: BADBOX & Friends at Theata on Sat 29 Aug, London. 5 acts on the bill: BADBOX, European 305, Mr Silk and Nathan Adams and 1 more. Afro House and Afro Tech. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -11,7 +11,9 @@ Kronologik Rekords presents: BADBOX & Friends at Theata on Sat 29 Aug, London. 3
 ## Line-up
 
 - BADBOX
+- European 305
 - Mr Silk
+- Nathan Adams
 - Rancido
 
 *Source: [soundcheck](https://soundcheck.club/e/2478868-kronologik-rekords-presents-badbox-friends-at-theata/)*

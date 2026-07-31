@@ -12,7 +12,7 @@ Colour Factory is a music venue in London listed on soundcheck. 17 upcoming nigh
 | Sat, 1 Aug 2026 | Hospital30 Block Party - Official Afterparty | DJ Marky, Dynamite MC, GQ, HOAX, Makoto, Sabrina |
 | Sun, 2 Aug 2026 | Don't Touch My Fro! (Daytime Session) | Baba T, DTM Funk, Ellaweeez, Tolu |
 | Fri, 7 Aug 2026 | Club Voices Radio x Colour Factory: A Club Friendly Free Party (Femme Special) | CITYTRONIX, the butcher bird |
-| Sat, 8 Aug 2026 | Melodies International presents Ariwa Sounds release party with Mad Professor & special guests | Mad Professor |
+| Sat, 8 Aug 2026 | Melodies International presents Ariwa Sounds release party with Mad Professor & special guests | Mad Professor, Mafalda, Seiji Ono |
 | Sat, 8 Aug 2026 | BAILE TRAMA w/ CIANA, MANUKA HONEY, DAZLBOY, YAS, JCVS ˚ˋঌ˖ | DAZLBØY, JCVS, Manuka Honey, YAS (9) |
 | Fri, 14 Aug 2026 | Playlist LDN - FREE ENTRY |  |
 | Fri, 14 Aug 2026 | Nitecawr: Cortisa Star, Dazegxd   | Dazegxd, Soma (2), Soulgem (1) |

@@ -1,13 +1,14 @@
 # long w
 
-long w is a Bass and Techno artist with 2 upcoming club dates listed on soundcheck as of Fri, 31 Jul 2026, next at Jasna 1, Warsaw on Fri, 28 Aug 2026.
+long w is a Bass and Techno artist with 3 upcoming club dates listed on soundcheck as of Fri, 31 Jul 2026, next at BarKa, Warsaw on Sun, 9 Aug 2026.
 
-long w is a bass and techno artist based in Poland, tracked on soundcheck, with 23 sets logged across Warsaw. Often billed alongside SHHME, Some Guest and Muzaman. Next up: Jasna 1, Warsaw on Fri 28 Aug.
+long w is a bass and techno artist based in Poland, tracked on soundcheck, with 24 sets logged across Warsaw. Often billed alongside SHHME, Some Guest and Muzaman. Next up: BarKa, Warsaw on Sun 9 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sun, 9 Aug 2026 | BarKa | Warsaw |
 | Fri, 28 Aug 2026 | Jasna 1 | Warsaw |
 | Fri, 4 Sept 2026 | Smolna | Warsaw |
 

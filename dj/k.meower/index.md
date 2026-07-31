@@ -2,7 +2,7 @@
 
 k.meower is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at Sensorium, Berlin on Fri, 14 Aug 2026.
 
-k.meower is a techno and trance artist based in Germany, tracked on soundcheck, with 3 sets logged across Berlin. Often billed alongside Baumeister (2), DaSoMaZo and Erøx. Next up: Sensorium, Berlin on Fri 14 Aug.
+k.meower is a techno and trance artist based in Germany, tracked on soundcheck, with 3 sets logged across Berlin. Often billed alongside peak2soon, Baumeister (2) and DaSoMaZo. Next up: Sensorium, Berlin on Fri 14 Aug.
 
 ## Upcoming shows
 
@@ -17,6 +17,6 @@ k.meower is a techno and trance artist based in Germany, tracked on soundcheck, 
 
 ## Shares bills with
 
-Baumeister (2), DaSoMaZo, Erøx
+peak2soon, Baumeister (2), DaSoMaZo
 
 *Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/k.meower/)*

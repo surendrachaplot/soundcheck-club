@@ -1,6 +1,6 @@
-# WIDE AWAKE - JUNGLE + DNB at Bread and Butter
+# WIDE AWAKE - JUNGLE // DNB at Bread and Butter
 
-WIDE AWAKE - JUNGLE + DNB at Bread and Butter on Sat 1 Aug, London. 1 act on the bill: KIVI. Preview the line-up and save it on soundcheck.
+WIDE AWAKE - JUNGLE // DNB at Bread and Butter on Sat 1 Aug, London. 1 act on the bill: KIVI. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

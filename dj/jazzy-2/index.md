@@ -1,14 +1,15 @@
 # JAZZY (2)
 
-JAZZY (2) is a Techno and House artist with 7 upcoming club dates listed on soundcheck as of Fri, 31 Jul 2026, next at Pacha Ibiza, Ibiza on Mon, 3 Aug 2026.
+JAZZY (2) is a Techno and House artist with 8 upcoming club dates listed on soundcheck as of Fri, 31 Jul 2026, next at Pacha Ibiza, Ibiza on Mon, 3 Aug 2026.
 
-JAZZY (2) is a techno and house artist tracked on soundcheck, with 82 sets logged across Amsterdam, Antwerp, Barcelona and Belfast and 31 more. Often billed alongside Holy Priest, Sonny Fodera and Azyr. Next up: Pacha Ibiza, Ibiza on Mon 3 Aug.
+JAZZY (2) is a techno and house artist tracked on soundcheck, with 83 sets logged across Amsterdam, Antwerp, Barcelona and Belfast and 31 more. Often billed alongside Holy Priest, Sonny Fodera and Azyr. Next up: Pacha Ibiza, Ibiza on Mon 3 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Mon, 3 Aug 2026 | Pacha Ibiza | Ibiza |
+| Sun, 9 Aug 2026 | Burgess Park | London |
 | Tue, 11 Aug 2026 | Obudai Island | Budapest |
 | Sat, 22 Aug 2026 | Nidderbad | Frankfurt |
 | Fri, 4 Sept 2026 | Pacha Ibiza | Ibiza |

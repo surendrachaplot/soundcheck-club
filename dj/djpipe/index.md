@@ -1,8 +1,8 @@
 # DJ Pipe
 
-DJ Pipe is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Fri, 31 Jul 2026, next at RSO.BERLIN, Berlin on Sat, 8 Aug 2026.
+DJ Pipe is a House and Techno artist with 4 upcoming club dates listed on soundcheck as of Fri, 31 Jul 2026, next at RSO.BERLIN, Berlin on Sat, 8 Aug 2026.
 
-DJ Pipe is a house and techno artist based in United Kingdom, tracked on soundcheck, with 82 sets logged across Amsterdam, Barcelona, Berlin and Brussels and 25 more. Often billed alongside Taslo, Huerta and The Ghost. Next up: RSO.BERLIN, Berlin on Sat 8 Aug.
+DJ Pipe is a house and techno artist based in United Kingdom, tracked on soundcheck, with 83 sets logged across Amsterdam, Barcelona, Berlin and Brussels and 25 more. Often billed alongside Huerta, Taslo and The Ghost. Next up: RSO.BERLIN, Berlin on Sat 8 Aug.
 
 ## Upcoming shows
 
@@ -11,6 +11,7 @@ DJ Pipe is a house and techno artist based in United Kingdom, tracked on soundch
 | Sat, 8 Aug 2026 | RSO.BERLIN | Berlin |
 | Sat, 8 Aug 2026 | RSO.BERLIN | Berlin |
 | Sat, 5 Sept 2026 | Distillery | Leipzig |
+| Sat, 26 Sept 2026 | Tresor / Globus | Berlin |
 
 ## Recently played
 
@@ -25,6 +26,6 @@ DJ Pipe is a house and techno artist based in United Kingdom, tracked on soundch
 
 ## Shares bills with
 
-Taslo, Huerta, The Ghost
+Huerta, Taslo, The Ghost
 
 *Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/djpipe/)*

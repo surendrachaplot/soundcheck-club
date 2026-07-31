@@ -1,8 +1,8 @@
 # Rosa Red
 
-Rosa Red is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Fri, 31 Jul 2026, next at BLITZ, Munich on Fri, 31 Jul 2026.
+Rosa Red is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Fri, 31 Jul 2026, next at BLITZ, Munich on Fri, 31 Jul 2026.
 
-Rosa Red is a house and techno artist based in Germany, tracked on soundcheck, with 72 sets logged across Amsterdam, Barcelona, Berlin and Cologne and 8 more. Often billed alongside Benjamin Fröhlich, Sara Miller and Sam Goku. Next up: BLITZ, Munich on Fri 31 Jul.
+Rosa Red is a house and techno artist based in Germany, tracked on soundcheck, with 73 sets logged across Amsterdam, Barcelona, Berlin and Cologne and 8 more. Often billed alongside Benjamin Fröhlich, Sara Miller and Sam Goku. Next up: BLITZ, Munich on Fri 31 Jul.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Rosa Red is a house and techno artist based in Germany, tracked on soundcheck, w
 | --- | --- | --- |
 | Fri, 31 Jul 2026 | BLITZ | Munich |
 | Sat, 12 Sept 2026 | RSO.BERLIN | Berlin |
+| Fri, 25 Sept 2026 | Tresor / Globus | Berlin |
 
 ## Recently played
 

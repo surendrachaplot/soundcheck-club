@@ -1,14 +1,15 @@
 # Lixi
 
-Lixi is a Techno and Tech House artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at Ankali & Planeta Za, Prague on Sat, 8 Aug 2026.
+Lixi is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Fri, 31 Jul 2026, next at Ankali & Planeta Za, Prague on Sat, 8 Aug 2026.
 
-Lixi is a techno and tech house artist based in Germany, tracked on soundcheck, with 15 sets logged across Berlin and Prague. Often billed alongside VRTL, Aunty Nora and Sub Sahara. Next up: Ankali & Planeta Za, Prague on Sat 8 Aug.
+Lixi is a techno and house artist based in Germany, tracked on soundcheck, with 16 sets logged across Berlin and Prague. Often billed alongside VRTL, Aunty Nora and Sub Sahara. Next up: Ankali & Planeta Za, Prague on Sat 8 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 8 Aug 2026 | Ankali & Planeta Za | Prague |
+| Fri, 11 Sept 2026 | AMT | Berlin |
 
 ## Recently played
 

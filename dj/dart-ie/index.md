@@ -1,8 +1,8 @@
 # DART
 
-DART is a Techno and House artist with 13 upcoming club dates listed on soundcheck as of Fri, 31 Jul 2026, next at Hï Ibiza, Ibiza on Fri, 31 Jul 2026.
+DART is a Techno and House artist with 14 upcoming club dates listed on soundcheck as of Fri, 31 Jul 2026, next at Hï Ibiza, Ibiza on Fri, 31 Jul 2026.
 
-DART is a techno and house artist tracked on soundcheck, with 106 sets logged across Amsterdam, Antwerp, Barcelona and Belfast and 23 more. Often billed alongside Kyle Starkey, Ben Hemsley and Kara Okay. Next up: Hï Ibiza, Ibiza on Fri 31 Jul.
+DART is a techno and house artist tracked on soundcheck, with 107 sets logged across Amsterdam, Antwerp, Barcelona and Belfast and 23 more. Often billed alongside Kyle Starkey, Ben Hemsley and Kara Okay. Next up: Hï Ibiza, Ibiza on Fri 31 Jul.
 
 ## Upcoming shows
 

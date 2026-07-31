@@ -1,8 +1,8 @@
 # Oliver Scala
 
-Oliver Scala is a Techno and Tech House artist with 2 upcoming club dates listed on soundcheck as of Fri, 31 Jul 2026, next at Algha's Plantroom, London on Sat, 15 Aug 2026.
+Oliver Scala is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Fri, 31 Jul 2026, next at Algha's Plantroom, London on Sat, 15 Aug 2026.
 
-Oliver Scala is a techno and tech house artist tracked on soundcheck, with 20 sets logged across Berlin, London, Manchester and Tokyo and 1 more. Often billed alongside TEDESCO, Gloria Rose and Sob Story. Next up: Algha's Plantroom, London on Sat 15 Aug.
+Oliver Scala is a techno and house artist tracked on soundcheck, with 21 sets logged across Berlin, London, Manchester and Tokyo and 1 more. Often billed alongside TEDESCO, Gloria Rose and Sob Story. Next up: Algha's Plantroom, London on Sat 15 Aug.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Oliver Scala is a techno and tech house artist tracked on soundcheck, with 20 se
 | --- | --- | --- |
 | Sat, 15 Aug 2026 | Algha's Plantroom | London |
 | Fri, 4 Sept 2026 | The Steel Yard | London |
+| Sun, 20 Sept 2026 | Gaffe | London |
 
 ## Recently played
 

@@ -1,13 +1,14 @@
 # Daniel Ward
 
-Daniel Ward is a House and Deep House artist with 2 upcoming club dates listed on soundcheck as of Fri, 31 Jul 2026, next at MV Pearl of London, London on Sat, 22 Aug 2026.
+Daniel Ward is a House and Garage artist with 3 upcoming club dates listed on soundcheck as of Fri, 31 Jul 2026, next at Basing House, London on Sat, 15 Aug 2026.
 
-Daniel Ward is a house and deep house artist based in United Kingdom, tracked on soundcheck, with 10 sets logged across London. Often billed alongside Hermit, DJ Listener and Mike ruff cut Lloyd. Next up: MV Pearl of London, London on Sat 22 Aug.
+Daniel Ward is a house and garage artist based in United Kingdom, tracked on soundcheck, with 11 sets logged across London. Often billed alongside Hermit, DJ Listener and Mike ruff cut Lloyd. Next up: Basing House, London on Sat 15 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 15 Aug 2026 | Basing House | London |
 | Sat, 22 Aug 2026 | MV Pearl of London | London |
 | Sat, 12 Sept 2026 | Upper East | London |
 

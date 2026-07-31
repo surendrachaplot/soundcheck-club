@@ -1,14 +1,15 @@
 # Victoria Arena
 
-Victoria Arena is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at Artlab, Buenos Aires on Fri, 31 Jul 2026.
+Victoria Arena is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Fri, 31 Jul 2026, next at Artlab, Buenos Aires on Fri, 31 Jul 2026.
 
-Victoria Arena is a techno and house artist tracked on soundcheck, with 22 sets logged across Buenosaires. Often billed alongside Devil Rays, HIHATDANCER and Camila Isabel. Next up: Artlab, Buenosaires on Fri 31 Jul.
+Victoria Arena is a techno and house artist tracked on soundcheck, with 23 sets logged across Berlin and Buenosaires. Often billed alongside Devil Rays, HIHATDANCER and Camila Isabel. Next up: Artlab, Buenosaires on Fri 31 Jul.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 31 Jul 2026 | Artlab | Buenos Aires |
+| Wed, 9 Sept 2026 | Tresor / Globus | Berlin |
 
 ## Recently played
 

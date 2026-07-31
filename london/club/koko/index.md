@@ -11,7 +11,7 @@ KOKO is a music venue in London listed on soundcheck. 23 upcoming nights, with l
 | Fri, 31 Jul 2026 | 15 Years of Rhythm Section: Bradley Zero (All Night Long) | Bradley Zero |
 | Sat, 1 Aug 2026 | Good Fortune presents: Dom Dolla & Friends (London Afterparty)  | Carla Martinez, DJ BORING, Dom Dolla, Jordan Brando |
 | Fri, 7 Aug 2026 | KOKO Electronic: Krankbrother - After Dark pt.1 |  |
-| Sat, 8 Aug 2026 | KOKO Electronic: Krankbrother - After Dark pt.2 |  |
+| Sat, 8 Aug 2026 | KOKO Electronic: Krankbrother - After Dark pt.2 | Krankbrother, Sofia Kourtesis |
 | Fri, 14 Aug 2026 | KOKO Electronic: Neil Frances | Lulah Francs, Masha Mar, Neil Frances |
 | Sat, 15 Aug 2026 | KOKO Electronic: Ewan McVicar | Ewan McVicar |
 | Fri, 21 Aug 2026 | KOKO Electronic: Summer Closing - House & Disco |  |

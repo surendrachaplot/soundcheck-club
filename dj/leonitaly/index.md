@@ -1,8 +1,8 @@
 # Leon
 
-Leon is a Tech House and Techno artist with 4 upcoming club dates listed on soundcheck as of Fri, 31 Jul 2026, next at Oculist, Brighton on Sat, 1 Aug 2026.
+Leon is a Tech House and Techno artist with 5 upcoming club dates listed on soundcheck as of Fri, 31 Jul 2026, next at Oculist, Brighton on Sat, 1 Aug 2026.
 
-Leon is a tech house and techno artist tracked on soundcheck, with 60 sets logged across Amsterdam, Athens, Barcelona and Basel and 20 more. Often billed alongside Marco Carola, Kulage and Pirate Copy. Next up: Oculist, Brighton on Sat 1 Aug.
+Leon is a tech house and techno artist tracked on soundcheck, with 61 sets logged across Amsterdam, Athens, Barcelona and Basel and 20 more. Often billed alongside Marco Carola, Kulage and Pirate Copy. Next up: Oculist, Brighton on Sat 1 Aug.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Leon is a tech house and techno artist tracked on soundcheck, with 60 sets logge
 | --- | --- | --- |
 | Sat, 1 Aug 2026 | Oculist | Brighton |
 | Sat, 1 Aug 2026 | Yodo Groove (Yodobashi Ikebukuro) | Tokyo |
+| Wed, 5 Aug 2026 | Playa Soleil Ibiza | Ibiza |
 | Wed, 26 Aug 2026 | [UNVRS] | Ibiza |
 | Fri, 25 Sept 2026 | Pacha Ibiza | Ibiza |
 

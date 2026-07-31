@@ -1,6 +1,6 @@
 # Justin Strauss // ALL NIGHT LONG at Gabriela
 
-Justin Strauss // ALL NIGHT LONG at Gabriela on Fri 31 Jul, Newyorkcity. 1 act on the bill: Justin Strauss. Electro and Acid. Preview the line-up and save it on soundcheck.
+Justin Strauss // ALL NIGHT LONG at Gabriela on Fri 31 Jul, Newyorkcity. 1 act on the bill: Justin Strauss. Acid and Electro. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # Intercell Budapest at Spot X
 
-Intercell Budapest at Spot X on Fri 31 Jul, Budapest. 6 acts on the bill: Bad Boombox, Maron, Partiboi69 and SALOME and 2 more. Preview the line-up and save it on soundcheck.
+Intercell Budapest at Spot X on Fri 31 Jul, Budapest. 6 acts on the bill: Bad Boombox, Maron, Partiboi69 and SALOME and 2 more. Techno and House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,8 +1,8 @@
 # Mike Servito
 
-Mike Servito is a House and Techno artist with 4 upcoming club dates listed on soundcheck as of Fri, 31 Jul 2026, next at Club Rawhide, New York City on Fri, 31 Jul 2026.
+Mike Servito is a House and Techno artist with 5 upcoming club dates listed on soundcheck as of Fri, 31 Jul 2026, next at Club Rawhide, New York City on Fri, 31 Jul 2026.
 
-Mike Servito is a house and techno artist tracked on soundcheck, with 273 sets logged across Amsterdam, Austin, Berlin and Boston and 25 more. Often billed alongside Shaun J. Wright, Erika and Bryan Kasenic. Next up: Club Rawhide, Newyorkcity on Fri 31 Jul.
+Mike Servito is a house and techno artist tracked on soundcheck, with 274 sets logged across Amsterdam, Austin, Berlin and Boston and 25 more. Often billed alongside Shaun J. Wright, Erika and Bryan Kasenic. Next up: Club Rawhide, Newyorkcity on Fri 31 Jul.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Mike Servito is a house and techno artist tracked on soundcheck, with 273 sets l
 | --- | --- | --- |
 | Fri, 31 Jul 2026 | Club Rawhide | New York City |
 | Sat, 1 Aug 2026 | Paragon | New York City |
+| Fri, 21 Aug 2026 | KREUZWERK | Berlin |
 | Sun, 6 Sept 2026 | Good Room | New York City |
 | Sat, 26 Sept 2026 | H0L0 | New York City |
 

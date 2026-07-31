@@ -9,7 +9,7 @@ Waterhouse Studios is a music venue in Amsterdam listed on soundcheck. 4 upcomin
 | Date | Night | Line-up |
 | --- | --- | --- |
 | Fri, 14 Aug 2026 | Liquid Air | Crinkhoff, DJ DSA, MøR. |
-| Sat, 29 Aug 2026 | Entity + Herbivox presents OVERGROW | SAAB (2), Sheps, Taylor Taylor, mckelv |
+| Sat, 29 Aug 2026 | Entity + Herbivox presents OVERGROW | KateGia (2), SAAB (2), Sheps, Taylor Taylor, mckelv |
 | Sat, 5 Sept 2026 | Discosabotage & 2lovers afterparty | Alex Pastor, Matteo Racheli, Truman |
 | Sat, 19 Sept 2026 | For The Rhythm presents: Fort Riddim Vol. 1 | Gibbo, Manscream |
 

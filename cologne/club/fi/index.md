@@ -8,7 +8,7 @@ fi is a music venue in Cologne listed on soundcheck. 7 upcoming nights, with lin
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Sat, 1 Aug 2026 | fi Garten x Langer Tag x Cologne Is For Lovers & Das Zündet | Diskohengst, Isabel del Valle, Kai Alce, Merlin Monroe, Tom Kutsche, Willy Soul |
+| Sat, 1 Aug 2026 | fi Garten x Langer Tag x Cologne Is For Lovers & Das Zündet | DJ Funky Fresh Mike, Diskohengst, Isabel del Valle, Kai Alce, Merlin Monroe, Tom Kutsche, Willy Soul |
 | Sat, 8 Aug 2026 | fi Garten x Langer Tag x Krystal Klear & avontuur | HADE (1), Krystal Klear, Lingy, Soft Force, Tava Oro, clara luise |
 | Sat, 15 Aug 2026 | fi Garten x Langer Tag x Supergloss & WETDREAMS & akt | DJ Palga, Leenberger, Supergloss, paaradoxx |
 | Sat, 22 Aug 2026 | fi Garten x Langer Tag x SPFDJ & Parakeet & Plasma | Aino DJ, Cecilia Tosh, DJ ASS TITS, Elisen, SPFDJ, Separat |

@@ -1,6 +1,6 @@
 # TECHNO AUF DER INSEL - Free Open Air Rave - Round 3 at Himmel und Wasser
 
-TECHNO AUF DER INSEL - Free Open Air Rave - Round 3 at Himmel und Wasser on Sat 22 Aug, Vienna. 3 acts on the bill: Albin Brezlan, Dana Melissa and Huebl. Techno and House. Preview the line-up and save it on soundcheck.
+TECHNO AUF DER INSEL - Free Open Air Rave - Round 3 at Himmel und Wasser on Sat 22 Aug, Vienna. 4 acts on the bill: Albin Brezlan, Dana Melissa, ESH and Huebl. Techno and House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -12,6 +12,7 @@ TECHNO AUF DER INSEL - Free Open Air Rave - Round 3 at Himmel und Wasser on Sat 
 
 - Albin Brezlan
 - Dana Melissa
+- ESH
 - Huebl
 
 *Source: [soundcheck](https://soundcheck.club/e/2499679-techno-auf-der-insel-free-open-air-rave-round-3-at-himmel-un/)*

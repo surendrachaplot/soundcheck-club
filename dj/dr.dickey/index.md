@@ -1,13 +1,14 @@
 # Dr. Dickey
 
-Dr. Dickey is a electronic artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at Les Grands Carmes, Brussels on Sat, 15 Aug 2026.
+Dr. Dickey is a Hardcore artist with 2 upcoming club dates listed on soundcheck as of Fri, 31 Jul 2026, next at Blue Velvet, Berlin on Sun, 2 Aug 2026.
 
-Dr. Dickey is an electronic artist based in Belgium, tracked on soundcheck, with 7 sets logged across Amsterdam, Berlin and Brussels. Often billed alongside Gabybaby, PIPA DE MA$$A and Da Gremlin. Next up: Les Grands Carmes, Brussels on Sat 15 Aug.
+Dr. Dickey is a hardcore artist based in Belgium, tracked on soundcheck, with 8 sets logged across Amsterdam, Berlin and Brussels. Often billed alongside Gabybaby, PIPA DE MA$$A and Da Gremlin. Next up: Blue Velvet, Berlin on Sun 2 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sun, 2 Aug 2026 | Blue Velvet | Berlin |
 | Sat, 15 Aug 2026 | Les Grands Carmes | Brussels |
 
 ## Recently played

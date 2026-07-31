@@ -1,6 +1,6 @@
-# RITO at MuaMua (SeaSea Club) at Seaseaclub Barcelona
+# RITO at MuaMua (SEASEA Club) at Seaseaclub Barcelona
 
-RITO at MuaMua (SeaSea Club) at Seaseaclub Barcelona on Sun 2 Aug, Barcelona. 3 acts on the bill: Marcel BS, MARTISTA and SOFIA PINEDA. Afro House. Preview the line-up and save it on soundcheck.
+RITO at MuaMua (SEASEA Club) at Seaseaclub Barcelona on Sun 2 Aug, Barcelona. 3 acts on the bill: Marcel BS, MARTISTA and SOFIA PINEDA. Afro House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

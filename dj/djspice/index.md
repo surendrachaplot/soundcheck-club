@@ -1,14 +1,15 @@
 # DJ Spice
 
-DJ Spice is a House and Trance artist with 2 upcoming club dates listed on soundcheck as of Fri, 31 Jul 2026, next at Hangaren, Copenhagen on Fri, 31 Jul 2026.
+DJ Spice is a House and Trance artist with 3 upcoming club dates listed on soundcheck as of Fri, 31 Jul 2026, next at Hangaren, Copenhagen on Fri, 31 Jul 2026.
 
-DJ Spice is a house and trance artist based in Denmark, tracked on soundcheck, with 28 sets logged across Copenhagen and Oslo. Often billed alongside DRABER666, Ryan Dank (2) and Anna Logic. Next up: Hangaren, Copenhagen on Fri 31 Jul.
+DJ Spice is a house and trance artist based in Denmark, tracked on soundcheck, with 29 sets logged across Copenhagen and Oslo. Often billed alongside DRABER666, Ryan Dank (2) and Anna Logic. Next up: Hangaren, Copenhagen on Fri 31 Jul.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 31 Jul 2026 | Hangaren | Copenhagen |
+| Sat, 15 Aug 2026 | MODULE | Copenhagen |
 | Thu, 27 Aug 2026 | Hangaren | Copenhagen |
 
 ## Recently played

@@ -1,8 +1,8 @@
 # Sara Delirio
 
-Sara Delirio is a Techno and Electro artist with 2 upcoming club dates listed on soundcheck as of Fri, 31 Jul 2026, next at Paradise Palms, Edinburgh on Tue, 4 Aug 2026.
+Sara Delirio is a Techno and Electro artist with 3 upcoming club dates listed on soundcheck as of Fri, 31 Jul 2026, next at Paradise Palms, Edinburgh on Tue, 4 Aug 2026.
 
-Sara Delirio is a techno and electro artist based in Colombia, tracked on soundcheck, with 5 sets logged across Berlin, Buenosaires, Edinburgh and Hamburg. Often billed alongside Arieshandmodel, Chalita Claudine and Dave Mech. Next up: Paradise Palms, Edinburgh on Tue 4 Aug.
+Sara Delirio is a techno and electro artist based in Colombia, tracked on soundcheck, with 6 sets logged across Berlin, Buenosaires, Edinburgh and Hamburg and 1 more. Often billed alongside Arieshandmodel, Chalita Claudine and Dave Mech. Next up: Paradise Palms, Edinburgh on Tue 4 Aug.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Sara Delirio is a techno and electro artist based in Colombia, tracked on soundc
 | --- | --- | --- |
 | Tue, 4 Aug 2026 | Paradise Palms | Edinburgh |
 | Fri, 7 Aug 2026 | The Liquid Room Warehouse | Edinburgh |
+| Sun, 16 Aug 2026 | Kømplex Lisbon | Lisbon |
 
 ## Recently played
 

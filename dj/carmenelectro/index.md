@@ -1,8 +1,8 @@
 # Carmen Electro
 
-Carmen Electro is a Techno and House artist with 5 upcoming club dates listed on soundcheck as of Fri, 31 Jul 2026, next at La Gravière, Geneva on Fri, 31 Jul 2026.
+Carmen Electro is a Techno and House artist with 6 upcoming club dates listed on soundcheck as of Fri, 31 Jul 2026, next at La Gravière, Geneva on Fri, 31 Jul 2026.
 
-Carmen Electro is a techno and house artist tracked on soundcheck, with 152 sets logged across Amsterdam, Athens, Barcelona and Basel and 35 more. Often billed alongside slin, Frederic. and Laure Croft. Next up: La Gravière, Geneva on Fri 31 Jul.
+Carmen Electro is a techno and house artist tracked on soundcheck, with 153 sets logged across Amsterdam, Athens, Barcelona and Basel and 35 more. Often billed alongside slin, Frederic. and Laure Croft. Next up: La Gravière, Geneva on Fri 31 Jul.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Carmen Electro is a techno and house artist tracked on soundcheck, with 152 sets
 | --- | --- | --- |
 | Fri, 31 Jul 2026 | La Gravière | Geneva |
 | Thu, 13 Aug 2026 | RSO.BERLIN | Berlin |
+| Wed, 2 Sept 2026 | Tresor / Globus | Berlin |
 | Fri, 4 Sept 2026 | Grelle Forelle | Vienna |
 | Sat, 19 Sept 2026 | RSO.BERLIN | Berlin |
 | Fri, 9 Oct 2026 | KREUZWERK | Berlin |

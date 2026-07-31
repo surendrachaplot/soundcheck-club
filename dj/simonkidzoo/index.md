@@ -1,14 +1,15 @@
 # Simon Kidzoo
 
-Simon Kidzoo is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at Madam, Amsterdam on Fri, 28 Aug 2026.
+Simon Kidzoo is a House and Tech House artist with 2 upcoming club dates listed on soundcheck as of Fri, 31 Jul 2026, next at Madam, Amsterdam on Fri, 28 Aug 2026.
 
-Simon Kidzoo is a house and tech house artist based in Netherlands, tracked on soundcheck, with 22 sets logged across Amsterdam, Dublin, Rotterdam and Thehague and 3 more. Often billed alongside AAT (NL), Ammé and Easttown. Next up: Madam, Amsterdam on Fri 28 Aug.
+Simon Kidzoo is a house and tech house artist based in Netherlands, tracked on soundcheck, with 23 sets logged across Amsterdam, Dublin, Rotterdam and Thehague and 3 more. Often billed alongside AAT (NL), Ammé and Easttown. Next up: Madam, Amsterdam on Fri 28 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 28 Aug 2026 | Madam | Amsterdam |
+| Sat, 10 Oct 2026 | Paradiso | Amsterdam |
 
 ## Recently played
 

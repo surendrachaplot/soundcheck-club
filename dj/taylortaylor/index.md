@@ -1,13 +1,14 @@
 # Taylor Taylor
 
-Taylor Taylor is a House and Acid artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at Waterhouse Studios, Amsterdam on Sat, 29 Aug 2026.
+Taylor Taylor is a House and Acid artist with 2 upcoming club dates listed on soundcheck as of Fri, 31 Jul 2026, next at Zwart Goud Record Store, Amsterdam on Sat, 1 Aug 2026.
 
-Taylor Taylor is a house and acid artist tracked on soundcheck, with 24 sets logged across Amsterdam and Liverpool. Often billed alongside RoomToo, Sheps and mckelv. Next up: Waterhouse Studios, Amsterdam on Sat 29 Aug.
+Taylor Taylor is a house and acid artist tracked on soundcheck, with 25 sets logged across Amsterdam and Liverpool. Often billed alongside RoomToo, Sheps and mckelv. Next up: Zwart Goud Record Store, Amsterdam on Sat 1 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 1 Aug 2026 | Zwart Goud Record Store | Amsterdam |
 | Sat, 29 Aug 2026 | Waterhouse Studios | Amsterdam |
 
 ## Recently played

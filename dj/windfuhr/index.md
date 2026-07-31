@@ -1,8 +1,8 @@
 # WINDFUHR
 
-WINDFUHR is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Fri, 31 Jul 2026, next at Gaffe, London on Sat, 8 Aug 2026.
+WINDFUHR is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Fri, 31 Jul 2026, next at Gaffe, London on Sat, 8 Aug 2026.
 
-WINDFUHR is a techno and house artist tracked on soundcheck, with 53 sets logged across Amsterdam, Athens, Berlin and Hamburg and 13 more. Often billed alongside Hitam, Angioma and Uväll. Next up: Gaffe, London on Sat 8 Aug.
+WINDFUHR is a techno and house artist tracked on soundcheck, with 54 sets logged across Amsterdam, Athens, Berlin and Hamburg and 13 more. Often billed alongside Hitam, Angioma and Uväll. Next up: Gaffe, London on Sat 8 Aug.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ WINDFUHR is a techno and house artist tracked on soundcheck, with 53 sets logged
 | --- | --- | --- |
 | Sat, 8 Aug 2026 | Gaffe | London |
 | Sun, 9 Aug 2026 | NUMBER 90 LONDON | London |
+| Sat, 5 Sept 2026 | Tresor / Globus | Berlin |
 
 ## Recently played
 

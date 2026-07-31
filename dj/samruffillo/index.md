@@ -1,13 +1,14 @@
 # Sam Ruffillo
 
-Sam Ruffillo is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at Amber's, Manchester on Sat, 3 Oct 2026.
+Sam Ruffillo is a House and Disco artist with 2 upcoming club dates listed on soundcheck as of Fri, 31 Jul 2026, next at Palais Mascotte, Zurich on Fri, 18 Sept 2026.
 
-Sam Ruffillo is a house and disco artist tracked on soundcheck, with 108 sets logged across Amsterdam, Auckland, Bali and Barcelona and 32 more. Often billed alongside Kapote, Gee Lane and Stump Valley. Next up: Amber's, Manchester on Sat 3 Oct.
+Sam Ruffillo is a house and disco artist tracked on soundcheck, with 109 sets logged across Amsterdam, Auckland, Bali and Barcelona and 33 more. Often billed alongside Kapote, Gee Lane and Stump Valley. Next up: Palais Mascotte, Zurich on Fri 18 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 18 Sept 2026 | Palais Mascotte | Zurich |
 | Sat, 3 Oct 2026 | Amber's | Manchester |
 
 ## Recently played

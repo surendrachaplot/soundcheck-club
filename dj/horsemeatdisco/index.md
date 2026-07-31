@@ -1,8 +1,8 @@
 # Horse Meat Disco
 
-Horse Meat Disco is a House and Disco artist with 15 upcoming club dates listed on soundcheck as of Fri, 31 Jul 2026, next at Patterns, Brighton on Sat, 1 Aug 2026.
+Horse Meat Disco is a House and Disco artist with 16 upcoming club dates listed on soundcheck as of Fri, 31 Jul 2026, next at Patterns, Brighton on Sat, 1 Aug 2026.
 
-Horse Meat Disco is a house and disco artist tracked on soundcheck, with 377 sets logged across Amsterdam, Antwerp, Athens and Austin and 53 more. Often billed alongside Luke Howard, James Hillard and Severino. Next up: Patterns, Brighton on Sat 1 Aug.
+Horse Meat Disco is a house and disco artist tracked on soundcheck, with 378 sets logged across Amsterdam, Antwerp, Athens and Austin and 53 more. Often billed alongside Luke Howard, James Hillard and Severino. Next up: Patterns, Brighton on Sat 1 Aug.
 
 ## Upcoming shows
 

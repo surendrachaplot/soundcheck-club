@@ -1,13 +1,14 @@
 # Yamagucci (2)
 
-Yamagucci (2) is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at Het Sieraad, Amsterdam on Thu, 22 Oct 2026.
+Yamagucci (2) is a House and Deep House artist with 2 upcoming club dates listed on soundcheck as of Fri, 31 Jul 2026, next at TBA - Aeródromo Vilar de Luz - LPVL, 4425 Folgosa, Portugal, Porto on Fri, 18 Sept 2026.
 
-Yamagucci (2) is a house and deep house artist based in United States of America, tracked on soundcheck, with 5 sets logged across Amsterdam, Losangeles, Newyorkcity and Sandiego and 1 more. Often billed alongside Adam Ten, Bontan and IZIK. Next up: Het Sieraad, Amsterdam on Thu 22 Oct.
+Yamagucci (2) is a house and deep house artist based in United States of America, tracked on soundcheck, with 6 sets logged across Amsterdam, Losangeles, Newyorkcity and Porto and 2 more. Often billed alongside Adam Ten, Bedouin and Bontan. Next up: TBA - Aeródromo Vilar de Luz - LPVL, 4425 Folgosa, Portugal, Porto on Fri 18 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 18 Sept 2026 | TBA - Aeródromo Vilar de Luz - LPVL, 4425 Folgosa, Portugal | Porto |
 | Thu, 22 Oct 2026 | Het Sieraad | Amsterdam |
 
 ## Recently played
@@ -19,6 +20,6 @@ Yamagucci (2) is a house and deep house artist based in United States of America
 
 ## Shares bills with
 
-Adam Ten, Bontan, IZIK
+Adam Ten, Bedouin, Bontan
 
 *Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/yamagucci-2/)*

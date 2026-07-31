@@ -1,6 +1,6 @@
 # Lokschuppen Berlin
 
-Lokschuppen Berlin is a music venue in Berlin with 77 upcoming nights listed on soundcheck as of Fri, 31 Jul 2026; the next is "CUTE with SPEEDBOYS LIVE, Arman John, DJ WASSERFALL" on Fri, 31 Jul 2026.
+Lokschuppen Berlin is a music venue in Berlin with 77 upcoming nights listed on soundcheck as of Fri, 31 Jul 2026; the next is "CUTE OPEN AIR & INDOOR with SPEEDBOYS LIVE, Arman John, DJ WASSERFALL" on Fri, 31 Jul 2026.
 
 Lokschuppen Berlin is a music venue in Berlin listed on soundcheck. 77 upcoming nights, with line-ups including 1luu, 3LEEZA, 4NOUK and NYRA (DE) and 2 more. Browse upcoming dates, start times and who's playing. Warschauer Brücke, Revaler Straße 99 Zugang über, 10245 Berlin, Germany.
 
@@ -8,7 +8,7 @@ Lokschuppen Berlin is a music venue in Berlin listed on soundcheck. 77 upcoming 
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Fri, 31 Jul 2026 | CUTE with SPEEDBOYS LIVE, Arman John, DJ WASSERFALL | Arman John, DJ Flink, DJ Primitivo, DJ WASSERFALL, Jacky Ickx, Jambu, Limoncello, SACID, SPEEDBOYS, Stacy, XIMA, jeanska |
+| Fri, 31 Jul 2026 | CUTE OPEN AIR & INDOOR with SPEEDBOYS LIVE, Arman John, DJ WASSERFALL | Arman John, DJ Flink, DJ Primitivo, DJ WASSERFALL, Jacky Ickx, Jambu, Limoncello, SACID, SPEEDBOYS, Stacy, XIMA, jeanska |
 | Sat, 1 Aug 2026 | FLOORWÄRTS w/ DJ Tallboy, S.3000 (LIVE), DJ Mischkonsum and many more // OPEN AIR & INDOOR | Athina, Carotin, DJ HÖRDE, DJ Mischkonsum, DJ TIPSTER, DJ Tallboy, HØLLE (2), Krash Cora, S.3000, Sire Jonah, Trashabelle, XIMA |
 | Sat, 1 Aug 2026 | Feiern wie früher - nur früher |  |
 | Sun, 2 Aug 2026 | KDW X TRANCECORE - FREE OPEN AIR + MARKET + EXHIBITION |  |

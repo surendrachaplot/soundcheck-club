@@ -1,13 +1,14 @@
 # P1P3
 
-P1P3 is a Trance and Techno artist with 2 upcoming club dates listed on soundcheck as of Fri, 31 Jul 2026, next at Sala Pirandelo, Madrid on Sat, 22 Aug 2026.
+P1P3 is a Trance and Techno artist with 3 upcoming club dates listed on soundcheck as of Fri, 31 Jul 2026, next at Café Berlín, Madrid on Thu, 6 Aug 2026.
 
-P1P3 is a trance and techno artist tracked on soundcheck, with 20 sets logged across Madrid. Often billed alongside Miguel Rivas, M3LO and NVMB. Next up: Sala Pirandelo, Madrid on Sat 22 Aug.
+P1P3 is a trance and techno artist tracked on soundcheck, with 21 sets logged across Madrid. Often billed alongside Miguel Rivas, M3LO and NVMB. Next up: Café Berlín, Madrid on Thu 6 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Thu, 6 Aug 2026 | Café Berlín | Madrid |
 | Sat, 22 Aug 2026 | Sala Pirandelo | Madrid |
 | Sat, 5 Sept 2026 | Sala Pirandelo | Madrid |
 

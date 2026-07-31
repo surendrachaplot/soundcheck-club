@@ -1,6 +1,6 @@
 # EMPORIUM NRG - LIVE WRESTLING + RAVE at Unit 58
 
-EMPORIUM NRG - LIVE WRESTLING + RAVE at Unit 58 on Fri 14 Aug, London. 1 act on the bill: DJ Love UK. Techno and Tech House. Preview the line-up and save it on soundcheck.
+EMPORIUM NRG - LIVE WRESTLING + RAVE at Unit 58 on Fri 14 Aug, London. 1 act on the bill: DJ Love UK. Techno and Deep House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

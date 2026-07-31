@@ -1,13 +1,16 @@
 # GIVIO
 
-GIVIO is a House and Tech House artist with 2 upcoming club dates listed on soundcheck as of Fri, 31 Jul 2026, next at Else, Berlin on Fri, 21 Aug 2026.
+GIVIO is a House and Tech House artist with 5 upcoming club dates listed on soundcheck as of Fri, 31 Jul 2026, next at Noxe Barcelona, Barcelona on Wed, 5 Aug 2026.
 
-GIVIO is a house and tech house artist tracked on soundcheck, with 81 sets logged across Barcelona, Berlin, Ibiza and Madrid and 2 more. Often billed alongside Sarah Andersson, Nesi and Alex Silva. Next up: Else, Berlin on Fri 21 Aug.
+GIVIO is a house and tech house artist tracked on soundcheck, with 84 sets logged across Barcelona, Berlin, Ibiza and Madrid and 2 more. Often billed alongside Sarah Andersson, Nesi and Alex Silva. Next up: Noxe Barcelona, Barcelona on Wed 5 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Wed, 5 Aug 2026 | Noxe Barcelona | Barcelona |
+| Thu, 13 Aug 2026 | Noxe Barcelona | Barcelona |
+| Wed, 19 Aug 2026 | Noxe Barcelona | Barcelona |
 | Fri, 21 Aug 2026 | Else | Berlin |
 | Sat, 3 Oct 2026 | La Terrrazza | Barcelona |
 

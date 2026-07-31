@@ -1,6 +1,6 @@
 # POUFFE #1 at radial
 
-POUFFE #1 at radial on Sun 30 Aug, London. 3 acts on the bill: Daskaran, LO-LOW and teleopath. Techno and Club. Preview the line-up and save it on soundcheck.
+POUFFE #1 at radial on Sun 30 Aug, London. 4 acts on the bill: Daskaran, Ivy F, LO-LOW and teleopath. Techno and Club. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -11,6 +11,7 @@ POUFFE #1 at radial on Sun 30 Aug, London. 3 acts on the bill: Daskaran, LO-LOW 
 ## Line-up
 
 - Daskaran
+- Ivy F
 - LO-LOW
 - teleopath
 

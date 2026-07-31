@@ -1,14 +1,15 @@
 # Stump Valley
 
-Stump Valley is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at Else, Berlin on Sat, 15 Aug 2026.
+Stump Valley is a House and Disco artist with 2 upcoming club dates listed on soundcheck as of Fri, 31 Jul 2026, next at Else, Berlin on Sat, 15 Aug 2026.
 
-Stump Valley is a house and disco artist tracked on soundcheck, with 68 sets logged across Amsterdam, Barcelona, Berlin and Brussels and 14 more. Often billed alongside Kapote, Sam Ruffillo and Max NRG Supply. Next up: Else, Berlin on Sat 15 Aug.
+Stump Valley is a house and disco artist tracked on soundcheck, with 69 sets logged across Amsterdam, Barcelona, Berlin and Brussels and 15 more. Often billed alongside Kapote, Sam Ruffillo and Max NRG Supply. Next up: Else, Berlin on Sat 15 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 15 Aug 2026 | Else | Berlin |
+| Sat, 29 Aug 2026 | Palais Mascotte | Zurich |
 
 ## Recently played
 

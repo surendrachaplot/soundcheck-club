@@ -1,14 +1,15 @@
 # BILA
 
-BILA is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at Platforma Wolff, Bucharest on Sat, 1 Aug 2026.
+BILA is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Fri, 31 Jul 2026, next at Platforma Wolff, Bucharest on Sat, 1 Aug 2026.
 
-BILA is a house and techno artist based in Romania, tracked on soundcheck, with 20 sets logged across Brussels, Bucharest, Istanbul and London. Often billed alongside Gescu, Dan Andrei and caLLy. Next up: Platforma Wolff, Bucharest on Sat 1 Aug.
+BILA is a house and techno artist based in Romania, tracked on soundcheck, with 21 sets logged across Brussels, Bucharest, Ibiza and Istanbul and 1 more. Often billed alongside Gescu, Dan Andrei and caLLy. Next up: Platforma Wolff, Bucharest on Sat 1 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 1 Aug 2026 | Platforma Wolff | Bucharest |
+| Wed, 5 Aug 2026 | Playa Soleil Ibiza | Ibiza |
 
 ## Recently played
 

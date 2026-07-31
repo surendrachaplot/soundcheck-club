@@ -9,7 +9,7 @@ Sonnenraum is a music venue in Berlin listed on soundcheck. 4 upcoming nights, w
 | Date | Night | Line-up |
 | --- | --- | --- |
 | Sat, 15 Aug 2026 | Bonobo (DJ-Set) | Aroma Pitch, Bonobo, Naomi (Berlin) |
-| Sun, 16 Aug 2026 | GROOVE x Studio Liberté | DJ Assault, DJ Godfather, Danny Daze, Detroit In Effect, Modeselektor, SALOME, SLIC Unit, Viikatory |
+| Sun, 16 Aug 2026 | GROOVE x Studio Liberté | DJ Assault, DJ Godfather, Danny Daze, Detroit In Effect, Modeselektor, Nissa Carrington, SALOME, SLIC Unit, Slimgirl fat, Viikatory |
 | Sat, 29 Aug 2026 | Superluminal X Closer | Ancut, Annyrock, Cleymoore, DMX Krew, Elena Colombi, Higher Intelligence Agency, Ivan Smagghe, Lobanov K., Matthias (1), SI Process, Shjva, So-Fi, Timur Basha, Trippsy, rubi* |
 | Sun, 30 Aug 2026 | Sound Metaphors x Pleasure Patterns - PART III w/ Objekt, Vlada, Nicolas Lutz, CCL, Lee Gamble… | CCL, Carmilla Sioux, David Fogarty, Jessica Bellomo, Jimmie, KINGA, Kidcat, Lee Gamble, Leona Jacewska, Nicolas Lutz, Objekt, Russell Haswell, Samara, Sound Metaphors Djs, Vlada, ilbroccolovolante |
 

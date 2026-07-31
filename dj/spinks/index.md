@@ -9,7 +9,7 @@ Spinks is a techno and house artist tracked on soundcheck, with 53 sets logged a
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 31 Jul 2026 | A L P H A B E T | Brighton |
-| Sat, 1 Aug 2026 | Tide Nightclub | Brighton |
+| Sat, 1 Aug 2026 | TBA - Various Venues | Brighton |
 | Sat, 1 Aug 2026 | Tide Nightclub | Brighton |
 | Sun, 2 Aug 2026 | Volks | Brighton |
 | Thu, 10 Sept 2026 | M.O.T | London |

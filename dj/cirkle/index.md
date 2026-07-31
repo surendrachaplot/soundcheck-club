@@ -1,14 +1,15 @@
 # Cirkle
 
-Cirkle is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Fri, 31 Jul 2026, next at Fridas Pier, Stuttgart on Fri, 21 Aug 2026.
+Cirkle is a Techno and House artist with 4 upcoming club dates listed on soundcheck as of Fri, 31 Jul 2026, next at Fridas Pier, Stuttgart on Fri, 21 Aug 2026.
 
-Cirkle is a techno and house artist tracked on soundcheck, with 116 sets logged across Amsterdam, Athens, Berlin and Brussels and 8 more. Often billed alongside a.metz, Até. and SALIN. Next up: Fridas Pier, Stuttgart on Fri 21 Aug.
+Cirkle is a techno and house artist tracked on soundcheck, with 117 sets logged across Amsterdam, Athens, Berlin and Brussels and 8 more. Often billed alongside a.metz, Até. and SALIN. Next up: Fridas Pier, Stuttgart on Fri 21 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 21 Aug 2026 | Fridas Pier | Stuttgart |
+| Fri, 25 Sept 2026 | AUX Club | Athens |
 | Fri, 2 Oct 2026 | AUX Club | Athens |
 | Tue, 27 Oct 2026 | AUX Club | Athens |
 

@@ -1,14 +1,14 @@
 # Just Her
 
-Just Her is a Deep House and Techno artist with 2 upcoming club dates listed on soundcheck as of Fri, 31 Jul 2026, next at Tide Nightclub, Brighton on Sat, 1 Aug 2026.
+Just Her is a Deep House and Techno artist with 2 upcoming club dates listed on soundcheck as of Fri, 31 Jul 2026, next at TBA - Various Venues, Brighton on Sat, 1 Aug 2026.
 
-Just Her is a deep house and techno artist tracked on soundcheck, with 47 sets logged across Amsterdam, Barcelona, Berlin and Brighton and 12 more. Often billed alongside Braxton, Steve Parry and Dave Seaman. Next up: Tide Nightclub, Brighton on Sat 1 Aug.
+Just Her is a deep house and techno artist tracked on soundcheck, with 47 sets logged across Amsterdam, Barcelona, Berlin and Brighton and 12 more. Often billed alongside Braxton, Steve Parry and Dave Seaman. Next up: TBA - Various Venues, Brighton on Sat 1 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 1 Aug 2026 | Tide Nightclub | Brighton |
+| Sat, 1 Aug 2026 | TBA - Various Venues | Brighton |
 | Sat, 1 Aug 2026 | Tide Nightclub | Brighton |
 
 ## Recently played

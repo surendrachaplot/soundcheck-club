@@ -8,6 +8,6 @@ TBA - telegram @klangsubstanz is a music venue in Berlin listed on soundcheck. 1
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Sat, 15 Aug 2026 | BERLIN WAREHOUSE RAVE - KlangSubsTanz | BERLIN, Clarissa Gnade, HANNAHHANSEN, Kaldera, LUFTDICHTSICHER, Laigonen Kanonen, MARIE CLAIRE, Max Muth |
+| Sat, 15 Aug 2026 | BERLIN WAREHOUSE RAVE - KlangSubsTanz | BERLIN, Clarissa Gnade, HANNAHHANSEN, Kaldera, LUFTDICHTSICHER, Laigonen Kanonen, MARIE CLAIRE, Max Muth, V (NYC) |
 
 *Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/tba-telegram-klangsubstanz/)*

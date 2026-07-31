@@ -1,13 +1,14 @@
 # DJoy
 
-DJoy is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Fri, 31 Jul 2026, next at De Vierde Zaal, Ghent on Sat, 26 Sept 2026.
+DJoy is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Fri, 31 Jul 2026, next at Prisma, Berlin on Tue, 11 Aug 2026.
 
-DJoy is a house and techno artist tracked on soundcheck, with 56 sets logged across Athens, Berlin, Cologne and Frankfurt and 6 more. Often billed alongside Bogus Trumper, VOE and sianza. Next up: De Vierde Zaal, Ghent on Sat 26 Sept.
+DJoy is a house and techno artist tracked on soundcheck, with 57 sets logged across Athens, Berlin, Cologne and Frankfurt and 6 more. Often billed alongside Bogus Trumper, VOE and sianza. Next up: Prisma, Berlin on Tue 11 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Tue, 11 Aug 2026 | Prisma | Berlin |
 | Sat, 26 Sept 2026 | De Vierde Zaal | Ghent |
 | Sat, 26 Sept 2026 | TBA - Herr Kauzig | Leipzig |
 

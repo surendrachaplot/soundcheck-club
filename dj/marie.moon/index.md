@@ -1,14 +1,15 @@
 # MARIE.MOON
 
-MARIE.MOON is a House and Deep House artist with 2 upcoming club dates listed on soundcheck as of Fri, 31 Jul 2026, next at Crack Bellmer, Berlin on Fri, 14 Aug 2026.
+MARIE.MOON is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Fri, 31 Jul 2026, next at Crack Bellmer, Berlin on Fri, 14 Aug 2026.
 
-MARIE.MOON is a house and deep house artist tracked on soundcheck, with 77 sets logged across Berlin. Often billed alongside No Silver Bullet, Upzet and Caro Vola. Next up: Crack Bellmer, Berlin on Fri 14 Aug.
+MARIE.MOON is a house and techno artist tracked on soundcheck, with 78 sets logged across Berlin. Often billed alongside Upzet, No Silver Bullet and Caro Vola. Next up: Crack Bellmer, Berlin on Fri 14 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 14 Aug 2026 | Crack Bellmer | Berlin |
+| Fri, 21 Aug 2026 | Void Club | Berlin |
 | Fri, 11 Sept 2026 | Bohnengold | Berlin |
 
 ## Recently played
@@ -24,6 +25,6 @@ MARIE.MOON is a house and deep house artist tracked on soundcheck, with 77 sets 
 
 ## Shares bills with
 
-No Silver Bullet, Upzet, Caro Vola
+Upzet, No Silver Bullet, Caro Vola
 
 *Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/marie.moon/)*

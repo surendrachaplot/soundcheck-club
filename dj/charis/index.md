@@ -1,14 +1,15 @@
 # charis
 
-charis is a Drum & Bass and House artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at TBA - Berlin, Berlin on Sat, 29 Aug 2026.
+charis is a Drum & Bass and House artist with 2 upcoming club dates listed on soundcheck as of Fri, 31 Jul 2026, next at TBA - Berlin, Berlin on Sat, 29 Aug 2026.
 
-charis is a drum & bass and house artist based in Germany, tracked on soundcheck, with 12 sets logged across Berlin, Leipzig and London. Often billed alongside Sparkly Pony, 000vda and ANTHRAZIT. Next up: TBA - Berlin, Berlin on Sat 29 Aug.
+charis is a drum & bass and house artist based in Germany, tracked on soundcheck, with 13 sets logged across Berlin, Leipzig and London. Often billed alongside Sparkly Pony, 000vda and ANTHRAZIT. Next up: TBA - Berlin, Berlin on Sat 29 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 29 Aug 2026 | TBA - Berlin | Berlin |
+| Wed, 23 Sept 2026 | Tresor / Globus | Berlin |
 
 ## Recently played
 

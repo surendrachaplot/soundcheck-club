@@ -1,13 +1,14 @@
 # Seiji Ono
 
-Seiji Ono is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at Grow, London on Fri, 28 Aug 2026.
+Seiji Ono is a House and Disco artist with 2 upcoming club dates listed on soundcheck as of Fri, 31 Jul 2026, next at Colour Factory, London on Sat, 8 Aug 2026.
 
-Seiji Ono is a house and disco artist based in France, tracked on soundcheck, with 29 sets logged across Barcelona, Bristol, Kyoto and Leeds and 6 more. Often billed alongside Theo Terev, Mafalda and Red Greg. Next up: Grow, London on Fri 28 Aug.
+Seiji Ono is a house and disco artist based in France, tracked on soundcheck, with 30 sets logged across Barcelona, Bristol, Kyoto and Leeds and 6 more. Often billed alongside Theo Terev, Mafalda and Red Greg. Next up: Colour Factory, London on Sat 8 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 8 Aug 2026 | Colour Factory | London |
 | Fri, 28 Aug 2026 | Grow | London |
 
 ## Recently played

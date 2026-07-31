@@ -17,7 +17,7 @@ Maaya is a music venue in Berlin listed on soundcheck. 11 upcoming nights, with 
 | Sun, 9 Aug 2026 | MAAYA X FADE. - POOL PARTY | Karani |
 | Sat, 15 Aug 2026 | ONE TRIBE × MAAYA - PARADE AFTERPARTY |  |
 | Sun, 16 Aug 2026 | RISE - 16.08. Zakes Bantwini & Awen |  |
-| Sun, 23 Aug 2026 | PRNCPTL POOL PARTY - 13 Years Anniversary | CRYME, Curses, DJ AYA, Dirty Daddy Don, KBRAL, Rafa Balera, Rakans, Spacer Woman, TOCCORORO, The Lady Machine |
+| Sun, 23 Aug 2026 | PRNCPTL POOL PARTY - 13 Years Anniversary | CRYME, Curses, DJ AYA, Dirty Daddy Don, KBRAL, Rafa Balera, Rakans, Spacer Woman, TOCCORORO, The Lady Machine, VINVAR |
 
 ## Address
 

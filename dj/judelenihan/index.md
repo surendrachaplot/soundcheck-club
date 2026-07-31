@@ -1,13 +1,14 @@
 # Jude Lenihan
 
-Jude Lenihan is a House and Tech House artist with 4 upcoming club dates listed on soundcheck as of Fri, 31 Jul 2026, next at Burgess Park, London on Sun, 9 Aug 2026.
+Jude Lenihan is a House and Tech House artist with 5 upcoming club dates listed on soundcheck as of Fri, 31 Jul 2026, next at Burgess Park, London on Sun, 9 Aug 2026.
 
-Jude Lenihan is a house and tech house artist tracked on soundcheck, with 46 sets logged across Amsterdam, Barcelona, Ibiza and London and 1 more. Often billed alongside Benji King, Phill de Janeiro and j:me. Next up: Burgess Park, London on Sun 9 Aug.
+Jude Lenihan is a house and tech house artist tracked on soundcheck, with 47 sets logged across Amsterdam, Barcelona, Ibiza and London and 1 more. Often billed alongside Benji King, Phill de Janeiro and j:me. Next up: Burgess Park, London on Sun 9 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sun, 9 Aug 2026 | Burgess Park | London |
 | Sun, 9 Aug 2026 | Burgess Park | London |
 | Fri, 21 Aug 2026 | Starlane Pizza Bar | London |
 | Sat, 22 Aug 2026 | 45 London | London |

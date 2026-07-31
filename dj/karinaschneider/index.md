@@ -1,8 +1,8 @@
 # Karina Schneider
 
-Karina Schneider is a Techno and House artist with 6 upcoming club dates listed on soundcheck as of Fri, 31 Jul 2026, next at Garage Noord, Amsterdam on Sun, 9 Aug 2026.
+Karina Schneider is a Techno and House artist with 7 upcoming club dates listed on soundcheck as of Fri, 31 Jul 2026, next at Garage Noord, Amsterdam on Sun, 9 Aug 2026.
 
-Karina Schneider is a techno and house artist tracked on soundcheck, with 68 sets logged across Amsterdam, Berlin, Hamburg and Munich and 2 more. Often billed alongside Beau Didier, Marc Schneider and Flits. Next up: Garage Noord, Amsterdam on Sun 9 Aug.
+Karina Schneider is a techno and house artist tracked on soundcheck, with 69 sets logged across Amsterdam, Berlin, Hamburg and Munich and 2 more. Often billed alongside Beau Didier, Marc Schneider and Flits. Next up: Garage Noord, Amsterdam on Sun 9 Aug.
 
 ## Upcoming shows
 
@@ -14,6 +14,7 @@ Karina Schneider is a techno and house artist tracked on soundcheck, with 68 set
 | Sat, 15 Aug 2026 | Renate | Berlin |
 | Fri, 21 Aug 2026 | Kater | Berlin |
 | Fri, 28 Aug 2026 | Rote Sonne | Munich |
+| Sat, 26 Sept 2026 | Tresor / Globus | Berlin |
 
 ## Recently played
 

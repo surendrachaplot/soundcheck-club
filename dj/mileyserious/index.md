@@ -1,8 +1,8 @@
 # Miley Serious
 
-Miley Serious is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Fri, 31 Jul 2026, next at Cova Santa, Ibiza on Sat, 8 Aug 2026.
+Miley Serious is a Techno and House artist with 4 upcoming club dates listed on soundcheck as of Fri, 31 Jul 2026, next at Cova Santa, Ibiza on Sat, 8 Aug 2026.
 
-Miley Serious is a techno and house artist tracked on soundcheck, with 161 sets logged across Amsterdam, Antwerp, Austin and Barcelona and 50 more. Often billed alongside Lu2k, Dr Dubplate and Shampain. Next up: Cova Santa, Ibiza on Sat 8 Aug.
+Miley Serious is a techno and house artist tracked on soundcheck, with 162 sets logged across Amsterdam, Antwerp, Austin and Barcelona and 50 more. Often billed alongside Lu2k, Dr Dubplate and Shampain. Next up: Cova Santa, Ibiza on Sat 8 Aug.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Miley Serious is a techno and house artist tracked on soundcheck, with 161 sets 
 | --- | --- | --- |
 | Sat, 8 Aug 2026 | Cova Santa | Ibiza |
 | Fri, 21 Aug 2026 | The Prince Consort | Brisbane |
+| Sat, 5 Sept 2026 | Rex Club | Paris |
 | Sat, 26 Sept 2026 | Paragon | New York City |
 
 ## Recently played

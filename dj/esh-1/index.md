@@ -1,13 +1,14 @@
 # ESH
 
-ESH is a Tech House and Drum & Bass artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at O der Klub, Vienna on Fri, 25 Sept 2026.
+ESH is a House and Tech House artist with 2 upcoming club dates listed on soundcheck as of Fri, 31 Jul 2026, next at Himmel und Wasser, Vienna on Sat, 22 Aug 2026.
 
-ESH is a tech house and drum & bass artist based in Austria, tracked on soundcheck, with 20 sets logged across Vienna. Often billed alongside Mark Michael, Albin Brezlan and Manuel Petrik. Next up: O der Klub, Vienna on Fri 25 Sept.
+ESH is a house and tech house artist based in Austria, tracked on soundcheck, with 21 sets logged across Vienna. Often billed alongside Albin Brezlan, Mark Michael and Manuel Petrik. Next up: Himmel und Wasser, Vienna on Sat 22 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 22 Aug 2026 | Himmel und Wasser | Vienna |
 | Fri, 25 Sept 2026 | O der Klub | Vienna |
 
 ## Recently played
@@ -23,6 +24,6 @@ ESH is a tech house and drum & bass artist based in Austria, tracked on soundche
 
 ## Shares bills with
 
-Mark Michael, Albin Brezlan, Manuel Petrik
+Albin Brezlan, Mark Michael, Manuel Petrik
 
 *Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/esh-1/)*

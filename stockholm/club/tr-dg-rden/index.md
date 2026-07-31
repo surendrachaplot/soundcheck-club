@@ -14,7 +14,7 @@ Trädgården is a music venue in Stockholm listed on soundcheck. 12 upcoming nig
 | Fri, 7 Aug 2026 | Behrang Mohammadi, Nila Roe | Behrang Mohammadi |
 | Sat, 8 Aug 2026 | Amaliah & Mental DJs | Amaliah, Prescott, dj døden |
 | Thu, 13 Aug 2026 | Thursdays: Deckathon | Julian Artur, Malin Edvardsen |
-| Fri, 14 Aug 2026 | S-candalo, Bella Sarris | Bella Sarris, S-candalo |
+| Fri, 14 Aug 2026 | S-candalo, Bella Sarris | Bella Sarris, Disk Cartel, S-candalo, THC |
 | Sat, 15 Aug 2026 | CRACKHOUSE with Niklopedia & Magnus Larsson | Magnus Larsson |
 | Fri, 21 Aug 2026 | Christian AB & Daniel Lien | Christian AB, Daniel Lien |
 | Fri, 28 Aug 2026 | Garcon, Dorisburg & Jessie Granqvist | Dorisburg, Garçon, Jessie Granqvist |

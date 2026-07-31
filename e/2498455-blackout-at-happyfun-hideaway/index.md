@@ -1,6 +1,6 @@
 # BLACKOUT at Happyfun Hideaway
 
-BLACKOUT at Happyfun Hideaway on Sat 1 Aug, Newyorkcity. 4 acts on the bill: EEVEE (3), LTE (1), Petal and SilkyBlack. Club and Ghetto Tech. Preview the line-up and save it on soundcheck.
+BLACKOUT at Happyfun Hideaway on Sat 1 Aug, Newyorkcity. 4 acts on the bill: EEVEE (3), LTE (1), Pètal and SilkyBlack. Club and Ghetto Tech. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -12,7 +12,7 @@ BLACKOUT at Happyfun Hideaway on Sat 1 Aug, Newyorkcity. 4 acts on the bill: EEV
 
 - EEVEE (3)
 - LTE (1)
-- Petal
+- Pètal
 - SilkyBlack
 
 *Source: [soundcheck](https://soundcheck.club/e/2498455-blackout-at-happyfun-hideaway/)*

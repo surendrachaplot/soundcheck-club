@@ -1,8 +1,8 @@
 # Marie Davidson
 
-Marie Davidson is a Techno and Electro artist with 6 upcoming club dates listed on soundcheck as of Fri, 31 Jul 2026, next at Lux Fragil, Lisbon on Sat, 8 Aug 2026.
+Marie Davidson is a Techno and Electro artist with 7 upcoming club dates listed on soundcheck as of Fri, 31 Jul 2026, next at Lux Fragil, Lisbon on Sat, 8 Aug 2026.
 
-Marie Davidson is a techno and electro artist tracked on soundcheck, with 147 sets logged across Amsterdam, Athens, Austin and Bangkok and 48 more. Often billed alongside Laurel Halo, TAYHANA and deBasement. Next up: Lux Fragil, Lisbon on Sat 8 Aug.
+Marie Davidson is a techno and electro artist tracked on soundcheck, with 148 sets logged across Amsterdam, Athens, Austin and Bangkok and 49 more. Often billed alongside Laurel Halo, TAYHANA and deBasement. Next up: Lux Fragil, Lisbon on Sat 8 Aug.
 
 ## Upcoming shows
 
@@ -14,6 +14,7 @@ Marie Davidson is a techno and electro artist tracked on soundcheck, with 147 se
 | Sat, 22 Aug 2026 | The Pitt Market | Edinburgh |
 | Sun, 23 Aug 2026 | Signal | New York City |
 | Fri, 28 Aug 2026 | La Récré | Montreal |
+| Tue, 1 Sept 2026 | Whelans | Dublin |
 
 ## Recently played
 

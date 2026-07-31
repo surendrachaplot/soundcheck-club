@@ -1,8 +1,8 @@
 # East End Dubs
 
-East End Dubs is a House and Tech House artist with 19 upcoming club dates listed on soundcheck as of Fri, 31 Jul 2026, next at Malta Fairs & Conventions Centre, Malta on Sat, 1 Aug 2026.
+East End Dubs is a House and Tech House artist with 20 upcoming club dates listed on soundcheck as of Fri, 31 Jul 2026, next at Malta Fairs & Conventions Centre, Malta on Sat, 1 Aug 2026.
 
-East End Dubs is a house and tech house artist tracked on soundcheck, with 270 sets logged across Amsterdam, Antwerp, Austin and Barcelona and 47 more. Often billed alongside ALISHA, Jamback and Max Dean. Next up: Malta Fairs & Conventions Centre, Malta on Sat 1 Aug.
+East End Dubs is a house and tech house artist tracked on soundcheck, with 271 sets logged across Amsterdam, Antwerp, Austin and Barcelona and 47 more. Often billed alongside ALISHA, Jamback and Max Dean. Next up: Malta Fairs & Conventions Centre, Malta on Sat 1 Aug.
 
 ## Upcoming shows
 
@@ -13,13 +13,13 @@ East End Dubs is a house and tech house artist tracked on soundcheck, with 270 s
 | Tue, 4 Aug 2026 | Hï Ibiza | Ibiza |
 | Sat, 8 Aug 2026 | Sloterpark | Amsterdam |
 | Sun, 9 Aug 2026 | Burgess Park | London |
+| Sun, 9 Aug 2026 | Burgess Park | London |
 | Tue, 11 Aug 2026 | Hï Ibiza | Ibiza |
 | Fri, 14 Aug 2026 | Pacha Ibiza | Ibiza |
 | Tue, 18 Aug 2026 | Hï Ibiza | Ibiza |
 | Tue, 25 Aug 2026 | Hï Ibiza | Ibiza |
 | Sun, 30 Aug 2026 | Jardins de Joan Brossa | Barcelona |
 | Tue, 1 Sept 2026 | Hï Ibiza | Ibiza |
-| Thu, 3 Sept 2026 | BCM | Mallorca |
 
 ## Recently played
 

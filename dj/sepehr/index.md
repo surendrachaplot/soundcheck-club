@@ -1,14 +1,15 @@
 # Sepehr
 
-Sepehr is a Techno and House artist with 4 upcoming club dates listed on soundcheck as of Fri, 31 Jul 2026, next at Circle Park, Brussels on Sat, 8 Aug 2026.
+Sepehr is a Techno and House artist with 5 upcoming club dates listed on soundcheck as of Fri, 31 Jul 2026, next at Circle Park, Brussels on Sat, 8 Aug 2026.
 
-Sepehr is a techno and house artist tracked on soundcheck, with 123 sets logged across Amsterdam, Barcelona, Berlin and Bristol and 29 more. Often billed alongside Elena Colombi, Kia (AU) and Amelia Holt. Next up: Circle Park, Brussels on Sat 8 Aug.
+Sepehr is a techno and house artist tracked on soundcheck, with 124 sets logged across Amsterdam, Barcelona, Berlin and Bristol and 29 more. Often billed alongside Elena Colombi, Kia (AU) and Amelia Holt. Next up: Circle Park, Brussels on Sat 8 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 8 Aug 2026 | Circle Park | Brussels |
+| Fri, 4 Sept 2026 | Tresor / Globus | Berlin |
 | Sat, 5 Sept 2026 | TBA | Philadelphia |
 | Sat, 12 Sept 2026 | Club Six | San Francisco/Oakland |
 | Sat, 19 Sept 2026 | The Ground at Club Space | Miami |

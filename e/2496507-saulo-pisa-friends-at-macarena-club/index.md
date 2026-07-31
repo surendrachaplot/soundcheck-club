@@ -1,6 +1,6 @@
 # Saulo Pisa & Friends at Macarena Club
 
-Saulo Pisa & Friends at Macarena Club on Wed 19 Aug, Barcelona. 3 acts on the bill: Ivo Villalobos, Roberto Corrales and Saulo Pisa. Preview the line-up and save it on soundcheck.
+Saulo Pisa & Friends at Macarena Club on Wed 19 Aug, Barcelona. 3 acts on the bill: Ivo Villalobos, Roberto Corrales and Saulo Pisa. Techno and House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

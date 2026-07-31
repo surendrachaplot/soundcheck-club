@@ -1,14 +1,14 @@
 # Roo (1)
 
-Roo (1) is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Fri, 31 Jul 2026, next at Tide Nightclub, Brighton on Sat, 1 Aug 2026.
+Roo (1) is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Fri, 31 Jul 2026, next at TBA - Various Venues, Brighton on Sat, 1 Aug 2026.
 
-Roo (1) is a techno and house artist based in United Kingdom, tracked on soundcheck, with 15 sets logged across Birmingham, Brighton, Bristol and London and 1 more. Often billed alongside Døra, Just Her and Koipinoxia. Next up: Tide Nightclub, Brighton on Sat 1 Aug.
+Roo (1) is a techno and house artist based in United Kingdom, tracked on soundcheck, with 15 sets logged across Birmingham, Brighton, Bristol and London and 1 more. Often billed alongside Døra, Just Her and Koipinoxia. Next up: TBA - Various Venues, Brighton on Sat 1 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 1 Aug 2026 | Tide Nightclub | Brighton |
+| Sat, 1 Aug 2026 | TBA - Various Venues | Brighton |
 | Sat, 1 Aug 2026 | Tide Nightclub | Brighton |
 
 ## Recently played

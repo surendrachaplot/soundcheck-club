@@ -1,8 +1,8 @@
 # Ben Sims
 
-Ben Sims is a Techno and House artist with 10 upcoming club dates listed on soundcheck as of Fri, 31 Jul 2026, next at Sloterpark, Amsterdam on Sat, 8 Aug 2026.
+Ben Sims is a Techno and House artist with 11 upcoming club dates listed on soundcheck as of Fri, 31 Jul 2026, next at Sloterpark, Amsterdam on Sat, 8 Aug 2026.
 
-Ben Sims is a techno and house artist tracked on soundcheck, with 182 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 52 more. Often billed alongside Oscar Mulero, Rødhåd and Blasha & Allatt. Next up: Sloterpark, Amsterdam on Sat 8 Aug.
+Ben Sims is a techno and house artist tracked on soundcheck, with 183 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 52 more. Often billed alongside Oscar Mulero, Rødhåd and Blasha & Allatt. Next up: Sloterpark, Amsterdam on Sat 8 Aug.
 
 ## Upcoming shows
 
@@ -17,6 +17,7 @@ Ben Sims is a techno and house artist tracked on soundcheck, with 182 sets logge
 | Fri, 18 Sept 2026 | IFEMA | Madrid |
 | Fri, 18 Sept 2026 | IFEMA | Madrid |
 | Fri, 18 Sept 2026 | The Bassement | Madrid |
+| Sat, 19 Sept 2026 | Tresor / Globus | Berlin |
 | Fri, 25 Sept 2026 | Hive Club | Zurich |
 
 ## Recently played

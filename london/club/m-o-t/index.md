@@ -1,8 +1,8 @@
 # M.O.T
 
-M.O.T is a music venue in London with 28 upcoming nights listed on soundcheck as of Fri, 31 Jul 2026; the next is "guEst. invites 07050, SP:MC, Coza B2B Pent1, Raina + more" on Fri, 31 Jul 2026.
+M.O.T is a music venue in London with 29 upcoming nights listed on soundcheck as of Fri, 31 Jul 2026; the next is "guEst. invites 07050, SP:MC, Coza B2B Pent1, Raina + more" on Fri, 31 Jul 2026.
 
-M.O.T is a music venue in London listed on soundcheck. 28 upcoming nights, with line-ups including Abby Daze, Achiya, Akanbi and ALCATRAZ and 2 more. Browse upcoming dates, start times and who's playing. Orion Business Centre, Surrey Canal Rd SE14 5RT.
+M.O.T is a music venue in London listed on soundcheck. 29 upcoming nights, with line-ups including Abby Daze, Achiya, Akanbi and ALCATRAZ and 2 more. Browse upcoming dates, start times and who's playing. Orion Business Centre, Surrey Canal Rd SE14 5RT.
 
 ## What's on
 

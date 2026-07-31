@@ -1,14 +1,15 @@
 # DJ B2B
 
-DJ B2B is a Hip-Hop and Techno artist with 3 upcoming club dates listed on soundcheck as of Fri, 31 Jul 2026, next at 88block, Tokyo on Fri, 31 Jul 2026.
+DJ B2B is a Hip-Hop and Techno artist with 4 upcoming club dates listed on soundcheck as of Fri, 31 Jul 2026, next at 88block, Tokyo on Fri, 31 Jul 2026.
 
-DJ B2B is a hip-hop and techno artist tracked on soundcheck, with 198 sets logged across Amsterdam, Athens, Bangkok and Barcelona and 22 more. Often billed alongside Mori, ATAMI and Fig (DYN). Next up: 88block, Tokyo on Fri 31 Jul.
+DJ B2B is a hip-hop and techno artist tracked on soundcheck, with 199 sets logged across Amsterdam, Athens, Bangkok and Barcelona and 22 more. Often billed alongside Mori, ATAMI and Fig (DYN). Next up: 88block, Tokyo on Fri 31 Jul.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 31 Jul 2026 | 88block | Tokyo |
+| Fri, 31 Jul 2026 | Radlicka Kulturni Sportovna | Prague |
 | Fri, 7 Aug 2026 | Débris | Tokyo |
 | Mon, 10 Aug 2026 | Acud Macht NEU | Berlin |
 

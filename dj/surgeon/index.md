@@ -1,8 +1,8 @@
 # Surgeon
 
-Surgeon is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Fri, 31 Jul 2026, next at Amsterdamse Bos, Amsterdam on Fri, 31 Jul 2026.
+Surgeon is a Techno and House artist with 4 upcoming club dates listed on soundcheck as of Fri, 31 Jul 2026, next at Amsterdamse Bos, Amsterdam on Fri, 31 Jul 2026.
 
-Surgeon is a techno and house artist tracked on soundcheck, with 122 sets logged across Amsterdam, Athens, Barcelona and Berlin and 36 more. Often billed alongside Speedy J, DJ Pete and Eris Drew. Next up: Amsterdamse Bos, Amsterdam on Fri 31 Jul.
+Surgeon is a techno and house artist tracked on soundcheck, with 123 sets logged across Amsterdam, Athens, Barcelona and Berlin and 36 more. Often billed alongside Speedy J, DJ Pete and Eris Drew. Next up: Amsterdamse Bos, Amsterdam on Fri 31 Jul.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Surgeon is a techno and house artist tracked on soundcheck, with 122 sets logged
 | --- | --- | --- |
 | Fri, 31 Jul 2026 | Amsterdamse Bos | Amsterdam |
 | Sat, 5 Sept 2026 | The Bongo Club | Edinburgh |
+| Sat, 12 Sept 2026 | Tresor / Globus | Berlin |
 | Sat, 3 Oct 2026 | The Bassement | Madrid |
 
 ## Recently played

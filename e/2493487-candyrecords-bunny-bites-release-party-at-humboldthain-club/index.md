@@ -1,6 +1,6 @@
-# Candyrecords Bunny Bites Release Party at Humboldthain Club
+# Candyrecords - Bunny Bites Release Party at Humboldthain Club
 
-Candyrecords Bunny Bites Release Party at Humboldthain Club on Sat 15 Aug, Berlin. 8 acts on the bill: DOCTOR MÜCKE, Flex on Trax, Florelle and jeanska and 4 more. Trance and Hardcore. Preview the line-up and save it on soundcheck.
+Candyrecords - Bunny Bites Release Party at Humboldthain Club on Sat 15 Aug, Berlin. 10 acts on the bill: DOCTOR MÜCKE, Flex on Trax, Florelle and jeanska and 6 more. Trance and Hardcore. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -14,6 +14,8 @@ Candyrecords Bunny Bites Release Party at Humboldthain Club on Sat 15 Aug, Berli
 - Flex on Trax
 - Florelle
 - jeanska
+- KANIKA
+- kichererbsenstampf
 - Rabe Rax
 - subga
 - TIZIANO

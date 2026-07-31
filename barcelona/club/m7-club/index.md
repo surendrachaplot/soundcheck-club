@@ -17,7 +17,7 @@ M7 Club is a music venue in Barcelona listed on soundcheck. 11 upcoming nights, 
 | Thu, 13 Aug 2026 | HARD BOUNCE [Xexo & Nmb2000] |  |
 | Fri, 14 Aug 2026 | Lady Dammage, SuttleK, Hysteria, Sonorellas, Robert Lenders, Dora Jeen, Beto Delgado & DIDIXX | Beto Delgado, DIDIXX, Dora Jeen, Hysteria, Lady Dammage, SuttleK |
 | Sat, 15 Aug 2026 | M7 presenta [Up Room] Khali & Ana Sclifos [Main Room] ArceX, Rowsi & Adviro | Adviro, Ana Sclifos, ArceX, Rowsi |
-| Fri, 28 Aug 2026 | Sociedad Groove [H-R-Z BDAY & SEASON OPENING] | H-R-Z, HERS, PILIGN, SYM |
+| Fri, 28 Aug 2026 | Sociedad Groove [H-R-Z BDAY & SEASON OPENING] | H-R-Z, HERS, PILIGN, RŌ (FLX4), SYM |
 
 ## Address
 

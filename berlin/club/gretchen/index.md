@@ -12,7 +12,7 @@ Gretchen is a music venue in Berlin listed on soundcheck. 28 upcoming nights, wi
 | Tue, 4 Aug 2026 | SYSTEMA SOLAR *live |  |
 | Thu, 6 Aug 2026 | EV |  |
 | Sat, 8 Aug 2026 | Recycle: 15 Years FLEXOUT AUDIO | Genoe, Jubei, KRÆK, Mc Jamie White, Nassstya, Survey, Sydney Bryce, Teebee |
-| Thu, 20 Aug 2026 | G SESSIONS - 360 ° (Live) Show feat. KOOB & MAURA | Allynx |
+| Thu, 20 Aug 2026 | G SESSIONS - 360 ° (Live) Show feat. KOOB, MAURA + KING OWUSU | Allynx |
 | Wed, 26 Aug 2026 | MOCKY and friends - LA meets BERLIN JAM with MAYLEE TODD *live |  |
 | Sat, 29 Aug 2026 | BFF Summer Festival | Monkyman |
 | Sat, 12 Sept 2026 | BALKANBEATS - Robert Soko DJ-Set |  |

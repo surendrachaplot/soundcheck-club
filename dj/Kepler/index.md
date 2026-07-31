@@ -1,8 +1,8 @@
 # Kepler
 
-Kepler is a House and Tech House artist with 15 upcoming club dates listed on soundcheck as of Fri, 31 Jul 2026, next at Palmerstown House Estate, Dublin on Sat, 8 Aug 2026.
+Kepler is a House and Tech House artist with 16 upcoming club dates listed on soundcheck as of Fri, 31 Jul 2026, next at Palmerstown House Estate, Dublin on Sat, 8 Aug 2026.
 
-Kepler is a house and tech house artist tracked on soundcheck, with 149 sets logged across Amsterdam, Auckland, Barcelona and Berlin and 32 more. Often billed alongside Burnski, L.P. Rhythm and Enzo Siragusa. Next up: Palmerstown House Estate, Dublin on Sat 8 Aug.
+Kepler is a house and tech house artist tracked on soundcheck, with 150 sets logged across Amsterdam, Auckland, Barcelona and Berlin and 32 more. Often billed alongside Burnski, L.P. Rhythm and Enzo Siragusa. Next up: Palmerstown House Estate, Dublin on Sat 8 Aug.
 
 ## Upcoming shows
 
@@ -17,9 +17,9 @@ Kepler is a house and tech house artist tracked on soundcheck, with 149 sets log
 | Sun, 30 Aug 2026 | The Swan | Nottingham |
 | Thu, 10 Sept 2026 | Amnesia Ibiza | Ibiza |
 | Fri, 18 Sept 2026 | UNO MALTA | Malta |
+| Fri, 18 Sept 2026 | 528 Ibiza | Ibiza |
 | Fri, 25 Sept 2026 | Document | Bristol |
 | Sun, 27 Sept 2026 | Amnesia Ibiza | Ibiza |
-| Sat, 3 Oct 2026 | Depot Mayfield | Manchester |
 
 ## Recently played
 

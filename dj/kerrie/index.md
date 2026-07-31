@@ -1,14 +1,15 @@
 # Kerrie
 
-Kerrie is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at Ormside Projects, London on Fri, 31 Jul 2026.
+Kerrie is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Fri, 31 Jul 2026, next at Ormside Projects, London on Fri, 31 Jul 2026.
 
-Kerrie is a techno and house artist tracked on soundcheck, with 122 sets logged across Amsterdam, Athens, Barcelona and Basel and 35 more. Often billed alongside Mareena, Sunil Sharpe and DJ Bone. Next up: Ormside Projects, London on Fri 31 Jul.
+Kerrie is a techno and house artist tracked on soundcheck, with 123 sets logged across Amsterdam, Athens, Barcelona and Basel and 35 more. Often billed alongside Mareena, Sunil Sharpe and DJ Bone. Next up: Ormside Projects, London on Fri 31 Jul.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 31 Jul 2026 | Ormside Projects | London |
+| Sat, 26 Sept 2026 | Tresor / Globus | Berlin |
 
 ## Recently played
 

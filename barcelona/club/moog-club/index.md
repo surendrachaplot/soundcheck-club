@@ -1,8 +1,8 @@
 # Moog Club
 
-Moog Club is a music venue in Barcelona with 32 upcoming nights listed on soundcheck as of Fri, 31 Jul 2026; the next is "Men (L-Men-T)" on Fri, 31 Jul 2026.
+Moog Club is a music venue in Barcelona with 36 upcoming nights listed on soundcheck as of Fri, 31 Jul 2026; the next is "Men (L-Men-T)" on Fri, 31 Jul 2026.
 
-Moog Club is a music venue in Barcelona listed on soundcheck. 32 upcoming nights, with line-ups including Andres Campo, BAMBI (BE), carlota. and Cora Novoa and 2 more. Browse upcoming dates, start times and who's playing. Arc del Teatre, 3; 08001 Barcelona; Spain.
+Moog Club is a music venue in Barcelona listed on soundcheck. 36 upcoming nights, with line-ups including Adriana Lopez, Andres Campo, BAMBI (BE) and carlota. and 2 more. Browse upcoming dates, start times and who's playing. Arc del Teatre, 3; 08001 Barcelona; Spain.
 
 ## What's on
 
