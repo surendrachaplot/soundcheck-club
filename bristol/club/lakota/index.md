@@ -1,8 +1,8 @@
 # Lakota
 
-Lakota is a music venue in Bristol with 14 upcoming nights listed on soundcheck as of Fri, 31 Jul 2026; the next is "Best Weekend Ever" on Fri, 31 Jul 2026.
+Lakota is a music venue in Bristol with 15 upcoming nights listed on soundcheck as of Fri, 31 Jul 2026; the next is "Best Weekend Ever" on Fri, 31 Jul 2026.
 
-Lakota is a music venue in Bristol listed on soundcheck. 14 upcoming nights, with line-ups including Akira (Buntai), Amoss, Betsy Mae and camukg and 2 more. Browse upcoming dates, start times and who's playing. 6 Upper York Street; Bristol, BS2 8QN, United Kingdom.
+Lakota is a music venue in Bristol listed on soundcheck. 15 upcoming nights, with line-ups including Akira (Buntai), Amoss, Betsy Mae and camukg and 2 more. Browse upcoming dates, start times and who's playing. 6 Upper York Street; Bristol, BS2 8QN, United Kingdom.
 
 ## What's on
 

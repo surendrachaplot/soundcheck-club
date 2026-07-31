@@ -1,14 +1,15 @@
 # VIBRAN
 
-VIBRAN is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at NWHR, Montreal on Sat, 1 Aug 2026.
+VIBRAN is a House and Disco artist with 2 upcoming club dates listed on soundcheck as of Fri, 31 Jul 2026, next at NWHR, Montreal on Sat, 1 Aug 2026.
 
-VIBRAN is a house and deep house artist tracked on soundcheck, with 24 sets logged across Montreal. Often billed alongside Deneb, Jino K and MilSif. Next up: NWHR, Montreal on Sat 1 Aug.
+VIBRAN is a house and disco artist tracked on soundcheck, with 25 sets logged across Montreal. Often billed alongside Deneb, Jino K and MilSif. Next up: NWHR, Montreal on Sat 1 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 1 Aug 2026 | NWHR | Montreal |
+| Sat, 15 Aug 2026 | Vino Disco | Montreal |
 
 ## Recently played
 

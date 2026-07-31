@@ -1,8 +1,8 @@
 # 1tbsp
 
-1tbsp is a House and Electronica artist with 5 upcoming club dates listed on soundcheck as of Fri, 31 Jul 2026, next at TBA - Nova Pdx, Portland on Fri, 31 Jul 2026.
+1tbsp is a House and Electronica artist with 6 upcoming club dates listed on soundcheck as of Fri, 31 Jul 2026, next at TBA - Nova Pdx, Portland on Fri, 31 Jul 2026.
 
-1tbsp is a house and electronica artist tracked on soundcheck, with 112 sets logged across Auckland, Barcelona, Belfast and Berlin and 31 more. Often billed alongside Mietze Conte, SOLTERA and Killian. Next up: TBA - Nova Pdx, Portland on Fri 31 Jul.
+1tbsp is a house and electronica artist tracked on soundcheck, with 113 sets logged across Auckland, Barcelona, Belfast and Berlin and 31 more. Often billed alongside Mietze Conte, SOLTERA and Killian. Next up: TBA - Nova Pdx, Portland on Fri 31 Jul.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@
 | --- | --- | --- |
 | Fri, 31 Jul 2026 | TBA - Nova Pdx | Portland |
 | Sat, 1 Aug 2026 | TBA - Hollywood Park adjacent to SoFi Stadium | Los Angeles |
+| Sun, 2 Aug 2026 | Avalon Hollywood | Los Angeles |
 | Fri, 7 Aug 2026 | Princess Theatre | Brisbane |
 | Fri, 14 Aug 2026 | Liberty Hall | Sydney |
 | Sat, 15 Aug 2026 | Northcote Theatre | Melbourne |

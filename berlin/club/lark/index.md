@@ -1,14 +1,15 @@
 # Lark
 
-Lark is a music venue in Berlin with 1 upcoming night listed on soundcheck as of Fri, 31 Jul 2026; the next is "FEUCHT" on Fri, 23 Oct 2026.
+Lark is a music venue in Berlin with 2 upcoming nights listed on soundcheck as of Fri, 31 Jul 2026; the next is "FEUCHT" on Fri, 23 Oct 2026.
 
-Lark is a music venue in Berlin listed on soundcheck. 1 upcoming night. Browse upcoming dates, start times and who's playing. Holzmarktstrasse 15-18, 10179.
+Lark is a music venue in Berlin listed on soundcheck. 2 upcoming nights, with line-ups including Loukeman. Browse upcoming dates, start times and who's playing. Holzmarktstrasse 15-18, 10179.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
 | Fri, 23 Oct 2026 | FEUCHT |  |
+| Thu, 29 Oct 2026 | Loukeman | Loukeman |
 
 ## Address
 

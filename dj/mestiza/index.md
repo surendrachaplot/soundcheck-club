@@ -1,8 +1,8 @@
 # MËSTIZA
 
-MËSTIZA is a Afro House and Techno artist with 6 upcoming club dates listed on soundcheck as of Fri, 31 Jul 2026, next at Hï Ibiza, Ibiza on Sun, 6 Sept 2026.
+MËSTIZA is a Afro House and House artist with 6 upcoming club dates listed on soundcheck as of Fri, 31 Jul 2026, next at Hï Ibiza, Ibiza on Sun, 6 Sept 2026.
 
-MËSTIZA is an afro house and techno artist tracked on soundcheck, with 110 sets logged across Amsterdam, Athens, Bali and Barcelona and 19 more. Often billed alongside Pomboklap, Indira Paganotto and Mrgoodalf. Next up: Hï Ibiza, Ibiza on Sun 6 Sept.
+MËSTIZA is an afro house and house artist tracked on soundcheck, with 110 sets logged across Amsterdam, Athens, Bali and Barcelona and 19 more. Often billed alongside Pomboklap, Indira Paganotto and Mrgoodalf. Next up: Hï Ibiza, Ibiza on Sun 6 Sept.
 
 ## Upcoming shows
 

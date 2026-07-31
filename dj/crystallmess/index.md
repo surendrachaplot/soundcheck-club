@@ -1,8 +1,8 @@
 # Crystallmess
 
-Crystallmess is a Techno and Club artist with 2 upcoming club dates listed on soundcheck as of Fri, 31 Jul 2026, next at MoMA PS1, New York City on Fri, 31 Jul 2026.
+Crystallmess is a Techno and Club artist with 3 upcoming club dates listed on soundcheck as of Fri, 31 Jul 2026, next at MoMA PS1, New York City on Fri, 31 Jul 2026.
 
-Crystallmess is a techno and club artist based in France, tracked on soundcheck, with 107 sets logged across Amsterdam, Athens, Barcelona and Berlin and 26 more. Often billed alongside ojoo, Bill Kouligas and Blawan. Next up: MoMA PS1, Newyorkcity on Fri 31 Jul.
+Crystallmess is a techno and club artist based in France, tracked on soundcheck, with 108 sets logged across Amsterdam, Athens, Barcelona and Berlin and 27 more. Often billed alongside ojoo, Bill Kouligas and Blawan. Next up: MoMA PS1, Newyorkcity on Fri 31 Jul.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Crystallmess is a techno and club artist based in France, tracked on soundcheck,
 | --- | --- | --- |
 | Fri, 31 Jul 2026 | MoMA PS1 | New York City |
 | Sat, 1 Aug 2026 | Société des arts technologiques | Montreal |
+| Thu, 29 Oct 2026 | Lingotto Fiere | Turin |
 
 ## Recently played
 

@@ -1,6 +1,6 @@
-# Barangay presents: Jay Dalawa, Alcantara, Gabriel Etrata, DJ Houseplants, Florence Cecile at Dead Letter No. 9
+# Barangay presents: Jay Dalawa, Alcantara, Gabriel Etrata, DJ Houseplants, Florence Cecile, Vans at Dead Letter No. 9
 
-Barangay presents: Jay Dalawa, Alcantara, Gabriel Etrata, DJ Houseplants, Florence Cecile at Dead Letter No. 9 on Thu 20 Aug, Newyorkcity. 5 acts on the bill: Alcantara, DJ Houseplants, Florence Cecile and Gabriel Etrata and 1 more. House and Electro. Preview the line-up and save it on soundcheck.
+Barangay presents: Jay Dalawa, Alcantara, Gabriel Etrata, DJ Houseplants, Florence Cecile, Vans at Dead Letter No. 9 on Thu 20 Aug, Newyorkcity. 6 acts on the bill: Alcantara, DJ Houseplants, Florence Cecile and Gabriel Etrata and 2 more. House and Electro. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -15,5 +15,6 @@ Barangay presents: Jay Dalawa, Alcantara, Gabriel Etrata, DJ Houseplants, Floren
 - Florence Cecile
 - Gabriel Etrata
 - Jay Dalawa
+- Vans
 
 *Source: [soundcheck](https://soundcheck.club/e/2501203-barangay-presents-jay-dalawa-alcantara-gabriel-etrata-dj-hou/)*

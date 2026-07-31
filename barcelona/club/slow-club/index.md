@@ -1,8 +1,8 @@
 # Slow Club
 
-Slow Club is a music venue in Barcelona with 25 upcoming nights listed on soundcheck as of Fri, 31 Jul 2026; the next is "Glamour Freaks: Navider" on Fri, 31 Jul 2026.
+Slow Club is a music venue in Barcelona with 26 upcoming nights listed on soundcheck as of Fri, 31 Jul 2026; the next is "Glamour Freaks: Navider" on Fri, 31 Jul 2026.
 
-Slow Club is a music venue in Barcelona listed on soundcheck. 25 upcoming nights, with line-ups including Frankie G, Hermes Disco Eterno, Ismael Rivas and JAXX NOVEIRA and 2 more. Browse upcoming dates, start times and who's playing. Carrer de París, 186, 08036 Barcelona.
+Slow Club is a music venue in Barcelona listed on soundcheck. 26 upcoming nights, with line-ups including Frankie G, Hermes Disco Eterno, Ismael Rivas and JAXX NOVEIRA and 2 more. Browse upcoming dates, start times and who's playing. Carrer de París, 186, 08036 Barcelona.
 
 ## What's on
 

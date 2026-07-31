@@ -1,13 +1,14 @@
 # TASHASAN
 
-TASHASAN is a Bass and House artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at SISSI'S Amsterdam, Amsterdam on Fri, 28 Aug 2026.
+TASHASAN is a Bass and House artist with 2 upcoming club dates listed on soundcheck as of Fri, 31 Jul 2026, next at RASA, Singapore on Sat, 22 Aug 2026.
 
-TASHASAN is a bass and house artist tracked on soundcheck, with 32 sets logged across Amsterdam, Bali, Kualalumpur and Melbourne and 2 more. Often billed alongside Dexter Colt, MIA (MY) and Helios XL. Next up: SISSI'S Amsterdam, Amsterdam on Fri 28 Aug.
+TASHASAN is a bass and house artist tracked on soundcheck, with 33 sets logged across Amsterdam, Bali, Kualalumpur and Melbourne and 2 more. Often billed alongside Dexter Colt, MIA (MY) and Helios XL. Next up: RASA, Singapore on Sat 22 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 22 Aug 2026 | RASA | Singapore |
 | Fri, 28 Aug 2026 | SISSI'S Amsterdam | Amsterdam |
 
 ## Recently played

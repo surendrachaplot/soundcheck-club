@@ -12,7 +12,7 @@ The Greyhound is a music venue in London listed on soundcheck. 15 upcoming night
 | Sat, 1 Aug 2026 | Mezze presents: Echo Juliet & Lebo | Echo Juliet |
 | Sun, 2 Aug 2026 | Community Service Records London Takeover | Hyan (2) |
 | Thu, 6 Aug 2026 | Start Here (Free Entry) | MF Ceól, OS:MAN, Who Is TeeKay?, the butcher bird |
-| Fri, 7 Aug 2026 | MUSAR presents Blurs with Black Devil Disco Club (live) | Black Devil Disco Club, Dweedo, Tania Atyabi |
+| Fri, 7 Aug 2026 | MUSAR pres Blurs with Black Devil Disco Club (live), Tania Atyabi, Dweedo & Charlie Levan | Black Devil Disco Club, Dweedo, Tania Atyabi |
 | Sat, 8 Aug 2026 | Rave, Rebels | ALNA, Franzine, Sandy Beach, arawzi |
 | Fri, 14 Aug 2026 | fête accomplie presents: Sub Basics | DJ Tutorial, FRNTLEFT, Sub Basics, flxclxc, sports |
 | Sat, 15 Aug 2026 | Glitched 007 - Sarra Wild | BBBB (2), Daniel Julian, Sarra Wild |

@@ -1,6 +1,6 @@
 # THE WIRE: SECRET EAST LONDON PRIVATE CLUB SESSION at TBA - EAST LONDON - Announced to ticket holders on the day
 
-THE WIRE: SECRET EAST LONDON PRIVATE CLUB SESSION at TBA - EAST LONDON - Announced to ticket holders on the day on Fri 7 Aug, London. 7 acts on the bill: Fvck Totvm, Jahmed, KTB DJž and Moonz and 3 more. Techno and Electro. Preview the line-up and save it on soundcheck.
+THE WIRE: SECRET EAST LONDON PRIVATE CLUB SESSION at TBA - EAST LONDON - Announced to ticket holders on the day on Fri 7 Aug, London. 8 acts on the bill: Fvck Totvm, Jahmed, KTB DJž and Moonz and 4 more. Techno and Electro. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -16,6 +16,7 @@ THE WIRE: SECRET EAST LONDON PRIVATE CLUB SESSION at TBA - EAST LONDON - Announc
 - Moonz
 - Phåro (2)
 - Reeno
+- Varanasi
 - William Quintero (2)
 
 *Source: [soundcheck](https://soundcheck.club/e/2500025-the-wire-secret-east-london-private-club-session-at-tba-east/)*

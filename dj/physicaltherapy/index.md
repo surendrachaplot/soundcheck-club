@@ -1,14 +1,15 @@
 # Physical Therapy
 
-Physical Therapy is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Fri, 31 Jul 2026, next at Green Room NYC, New York City on Sat, 1 Aug 2026.
+Physical Therapy is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Fri, 31 Jul 2026, next at Green Room NYC, New York City on Sat, 1 Aug 2026.
 
-Physical Therapy is a techno and house artist based in United States of America, tracked on soundcheck, with 133 sets logged across Amsterdam, Berlin, Boston and Brussels and 24 more. Often billed alongside Michael Magnan, Fatherhood and Lauren Flax. Next up: Green Room NYC, Newyorkcity on Sat 1 Aug.
+Physical Therapy is a techno and house artist based in United States of America, tracked on soundcheck, with 134 sets logged across Amsterdam, Berlin, Boston and Brussels and 24 more. Often billed alongside Michael Magnan, Fatherhood and Lauren Flax. Next up: Green Room NYC, Newyorkcity on Sat 1 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 1 Aug 2026 | Green Room NYC | New York City |
+| Sat, 15 Aug 2026 | TBA | Los Angeles |
 | Sat, 22 Aug 2026 | public records | New York City |
 
 ## Recently played

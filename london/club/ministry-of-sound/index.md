@@ -1,8 +1,8 @@
 # Ministry Of Sound
 
-Ministry Of Sound is a music venue in London with 31 upcoming nights listed on soundcheck as of Fri, 31 Jul 2026; the next is "BLINK: MARLO, P.O.U, MIKE BOND, KARLIE CHUI" on Fri, 31 Jul 2026.
+Ministry Of Sound is a music venue in London with 32 upcoming nights listed on soundcheck as of Fri, 31 Jul 2026; the next is "BLINK: MARLO, P.O.U, MIKE BOND, KARLIE CHUI" on Fri, 31 Jul 2026.
 
-Ministry Of Sound is a music venue in London listed on soundcheck. 31 upcoming nights, with line-ups including Ale De Tuglie, Amtrac, Andy C and Ayce and 2 more. Browse upcoming dates, start times and who's playing. 103 Gaunt St, London SE1 6DP.
+Ministry Of Sound is a music venue in London listed on soundcheck. 32 upcoming nights, with line-ups including Ale De Tuglie, Amtrac, Andy C and Ayce and 2 more. Browse upcoming dates, start times and who's playing. 103 Gaunt St, London SE1 6DP.
 
 ## What's on
 

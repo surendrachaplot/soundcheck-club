@@ -11,7 +11,7 @@ Bricks is a music venue in London listed on soundcheck. 7 upcoming nights, with 
 | Fri, 31 Jul 2026 | SYCAMORE.club | Alfaz, Henson, Ize (1), MTRG |
 | Fri, 7 Aug 2026 | Anything But House (Brixton) | BIDOIS, DJ Leeloo, Jawrs, Margella, Noizfiend, Positive_Con, tasha.mp4 |
 | Sat, 8 Aug 2026 | Papaya After-party: 2nd Edition |  |
-| Sat, 15 Aug 2026 | SHINDIG NIGHTS - fancy dress |  |
+| Sat, 15 Aug 2026 | SHINDIG NIGHTS - The Emo Dance |  |
 | Sat, 22 Aug 2026 | Hannon & Friends |  |
 | Fri, 25 Sept 2026 | Timeout Motion : Afro House, Afro Tech, 3 Step & Gqom |  |
 | Fri, 2 Oct 2026 | DIRECCIÓN: Maxinne | Maxinne |

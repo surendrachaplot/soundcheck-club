@@ -1,8 +1,8 @@
 # ÆDEN
 
-ÆDEN is a music venue in Berlin with 25 upcoming nights listed on soundcheck as of Fri, 31 Jul 2026; the next is "♢ GROOVE STREET ♢" on Fri, 31 Jul 2026.
+ÆDEN is a music venue in Berlin with 26 upcoming nights listed on soundcheck as of Fri, 31 Jul 2026; the next is "♢ GROOVE STREET ♢" on Fri, 31 Jul 2026.
 
-ÆDEN is a music venue in Berlin listed on soundcheck. 25 upcoming nights, with line-ups including 7CIRCLE, KIV., Acierate and Alexa Fluor and 2 more. Browse upcoming dates, start times and who's playing. Schleusenufer 2, 10997 Berlin.
+ÆDEN is a music venue in Berlin listed on soundcheck. 26 upcoming nights, with line-ups including 7CIRCLE, KIV., Acierate and Alexa Fluor and 2 more. Browse upcoming dates, start times and who's playing. Schleusenufer 2, 10997 Berlin.
 
 ## What's on
 

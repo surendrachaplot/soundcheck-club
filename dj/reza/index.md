@@ -1,13 +1,14 @@
 # Reza
 
-Reza is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at Budapest Park, Budapest on Sat, 1 Aug 2026.
+Reza is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Fri, 31 Jul 2026, next at Bajo Mundo, Mexico City on Fri, 31 Jul 2026.
 
-Reza is a house and techno artist tracked on soundcheck, with 13 sets logged across Berlin, Budapest, Leipzig and Losangeles and 2 more. Often billed alongside Markov, Aidin (KR) and Annika Wolfe. Next up: Budapest Park, Budapest on Sat 1 Aug.
+Reza is a house and techno artist tracked on soundcheck, with 14 sets logged across Berlin, Budapest, Leipzig and Losangeles and 3 more. Often billed alongside Markov, Aidin (KR) and Annika Wolfe. Next up: Bajo Mundo, Mexicocity on Fri 31 Jul.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 31 Jul 2026 | Bajo Mundo | Mexico City |
 | Sat, 1 Aug 2026 | Budapest Park | Budapest |
 
 ## Recently played

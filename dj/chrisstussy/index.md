@@ -1,8 +1,8 @@
 # Chris Stussy
 
-Chris Stussy is a House and Techno artist with 19 upcoming club dates listed on soundcheck as of Fri, 31 Jul 2026, next at Burgess Park, London on Fri, 31 Jul 2026.
+Chris Stussy is a House and Techno artist with 20 upcoming club dates listed on soundcheck as of Fri, 31 Jul 2026, next at Burgess Park, London on Fri, 31 Jul 2026.
 
-Chris Stussy is a house and techno artist tracked on soundcheck, with 270 sets logged across Amsterdam, Antwerp, Austin and Barcelona and 59 more. Often billed alongside Jamie Jones, Marco Carola and Seth Troxler. Next up: Burgess Park, London on Fri 31 Jul.
+Chris Stussy is a house and techno artist tracked on soundcheck, with 271 sets logged across Amsterdam, Antwerp, Austin and Barcelona and 59 more. Often billed alongside Jamie Jones, Marco Carola and Seth Troxler. Next up: Burgess Park, London on Fri 31 Jul.
 
 ## Upcoming shows
 

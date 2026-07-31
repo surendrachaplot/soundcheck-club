@@ -1,13 +1,14 @@
 # Freya Algiz
 
-Freya Algiz is a Techno and Electro artist with 2 upcoming club dates listed on soundcheck as of Fri, 31 Jul 2026, next at Kukumu, Berlin on Sat, 1 Aug 2026.
+Freya Algiz is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Fri, 31 Jul 2026, next at TBA - Betroot, Skalitzer Str. 64, 10997 Berlin, Berlin on Fri, 31 Jul 2026.
 
-Freya Algiz is a techno and electro artist based in Estonia, tracked on soundcheck, with 20 sets logged across Berlin. Often billed alongside Kat Kat Tat, FridaY (DE) and Monknash. Next up: Kukumu, Berlin on Sat 1 Aug.
+Freya Algiz is a techno and house artist based in Estonia, tracked on soundcheck, with 21 sets logged across Berlin. Often billed alongside Kat Kat Tat, FridaY (DE) and Monknash. Next up: TBA - Betroot, Skalitzer Str. 64, 10997 Berlin, Berlin on Fri 31 Jul.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 31 Jul 2026 | TBA - Betroot, Skalitzer Str. 64, 10997 Berlin | Berlin |
 | Sat, 1 Aug 2026 | Kukumu | Berlin |
 | Tue, 22 Sept 2026 | Minimal Bar | Berlin |
 

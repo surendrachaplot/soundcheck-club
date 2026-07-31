@@ -2,7 +2,7 @@
 
 Kodemul is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Fri, 31 Jul 2026, next at YuYu Cine Club, Mexico City on Fri, 21 Aug 2026.
 
-Kodemul is a techno and house artist tracked on soundcheck, with 129 sets logged across Barcelona, Berlin, Bristol and Buenosaires and 8 more. Often billed alongside Eliel Capa, PAURRO and Perfect Lovers. Next up: YuYu Cine Club, Mexicocity on Fri 21 Aug.
+Kodemul is a techno and house artist tracked on soundcheck, with 130 sets logged across Barcelona, Berlin, Bristol and Buenosaires and 8 more. Often billed alongside Eliel Capa, PAURRO and Villaseñor. Next up: YuYu Cine Club, Mexicocity on Fri 21 Aug.
 
 ## Upcoming shows
 
@@ -13,6 +13,7 @@ Kodemul is a techno and house artist tracked on soundcheck, with 129 sets logged
 
 ## Recently played
 
+- Drama Radio Bar, Mexico City — Tue, 28 Jul 2026
 - Versalles 64, Mexico City — Sat, 25 Jul 2026
 - Versalles 64, Mexico City — Sat, 25 Jul 2026
 - Drama Radio Bar, Mexico City — Tue, 21 Jul 2026
@@ -20,10 +21,9 @@ Kodemul is a techno and house artist tracked on soundcheck, with 129 sets logged
 - Sunday Sunday, Mexico City — Sun, 28 Jun 2026
 - TBA, Mexico City — Sat, 27 Jun 2026
 - Fünk, Mexico City — Thu, 25 Jun 2026
-- TBA - La dirección de la fiesta será enviada el 30/05 a las 8 horas a los correos asociados a la compra. +Info en pervert.mx , Madrid — Sat, 30 May 2026
 
 ## Shares bills with
 
-Eliel Capa, PAURRO, Perfect Lovers
+Eliel Capa, PAURRO, Villaseñor
 
 *Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/kodemul/)*

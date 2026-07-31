@@ -1,14 +1,15 @@
 # Jares
 
-Jares is a Progressive House and Techno artist with 2 upcoming club dates listed on soundcheck as of Fri, 31 Jul 2026, next at Stereo, Montreal on Fri, 7 Aug 2026.
+Jares is a Progressive House and House artist with 3 upcoming club dates listed on soundcheck as of Fri, 31 Jul 2026, next at Stereo, Montreal on Fri, 7 Aug 2026.
 
-Jares is a progressive house and techno artist tracked on soundcheck, with 28 sets logged across Amsterdam, Berlin, Montreal and Toronto. Often billed alongside Alex Generis, Simon Sizer and Soul Of Zoo. Next up: Stereo, Montreal on Fri 7 Aug.
+Jares is a progressive house and house artist tracked on soundcheck, with 29 sets logged across Amsterdam, Berlin, Montreal and Toronto. Often billed alongside Alex Generis, Simon Sizer and Soul Of Zoo. Next up: Stereo, Montreal on Fri 7 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 7 Aug 2026 | Stereo | Montreal |
+| Sat, 15 Aug 2026 | Vino Disco | Montreal |
 | Sun, 23 Aug 2026 | Piknic Électronik / Parc Jean Drapeau | Montreal |
 
 ## Recently played

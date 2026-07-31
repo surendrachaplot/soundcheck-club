@@ -8,6 +8,6 @@ TBA - EAST LONDON - Announced to ticket holders on the day is a music venue in L
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Fri, 7 Aug 2026 | THE WIRE: SECRET EAST LONDON PRIVATE CLUB SESSION  | Fvck Totvm, Jahmed, KTB DJž, Moonz, Phåro (2), Reeno, William Quintero (2) |
+| Fri, 7 Aug 2026 | THE WIRE: SECRET EAST LONDON PRIVATE CLUB SESSION  | Fvck Totvm, Jahmed, KTB DJž, Moonz, Phåro (2), Reeno, Varanasi, William Quintero (2) |
 
 *Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/london/club/tba-east-london-announced-to-ticket-holders-on-the-day/)*

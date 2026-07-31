@@ -1,8 +1,8 @@
 # Fritz Kalkbrenner
 
-Fritz Kalkbrenner is a House and Deep House artist with 8 upcoming club dates listed on soundcheck as of Fri, 31 Jul 2026, next at TBA - Paradies Garten Festival - Schloß Prugg 2, 2460 Gemeinde Bruck an der Leitha, Vienna on Fri, 31 Jul 2026.
+Fritz Kalkbrenner is a House and Electronica artist with 8 upcoming club dates listed on soundcheck as of Fri, 31 Jul 2026, next at TBA - Paradies Garten Festival - Schloß Prugg 2, 2460 Gemeinde Bruck an der Leitha, Vienna on Fri, 31 Jul 2026.
 
-Fritz Kalkbrenner is a house and deep house artist tracked on soundcheck, with 41 sets logged across Amsterdam, Barcelona, Basel and Berlin and 13 more. Often billed alongside Agatha Pher, Einmusik and Floyd Lavine. Next up: TBA - Paradies Garten Festival - Schloß Prugg 2, 2460 Gemeinde Bruck an der Leitha, Vienna on Fri 31 Jul.
+Fritz Kalkbrenner is a house and electronica artist tracked on soundcheck, with 41 sets logged across Amsterdam, Barcelona, Basel and Berlin and 13 more. Often billed alongside Agatha Pher, Einmusik and Floyd Lavine. Next up: TBA - Paradies Garten Festival - Schloß Prugg 2, 2460 Gemeinde Bruck an der Leitha, Vienna on Fri 31 Jul.
 
 ## Upcoming shows
 

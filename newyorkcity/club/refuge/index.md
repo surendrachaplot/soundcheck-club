@@ -12,7 +12,7 @@ Refuge is a music venue in Newyorkcity listed on soundcheck. 7 upcoming nights, 
 | Sat, 1 Aug 2026 | Refuge Saturday with Adam Collins, Andrey Pushkarev, Connie, Stavi | Adam Collins, Andrey Pushkarev, Connie |
 | Fri, 7 Aug 2026 | Refuge Fridays with Kr!z, 1morning, Elle Dee, Naomi Duan & Henry Chow | 1morning, Elle Dee, Henry Chow, Kr!z, Naomi Duan |
 | Sat, 5 Sept 2026 | David Morales | David Morales |
-| Sat, 5 Sept 2026 | Gabriel & Dresden NYC Weekender - Refuge & Boat Party |  |
+| Sat, 5 Sept 2026 | Gabriel & Dresden NYC Weekender - Refuge & Boat Party 2-Day Pass |  |
 | Sun, 6 Sept 2026 | David Morales | David Morales |
 | Sun, 11 Oct 2026 | David Morales | David Morales |
 

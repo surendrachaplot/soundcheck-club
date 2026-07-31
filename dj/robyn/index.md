@@ -1,14 +1,15 @@
 # Robyn
 
-Robyn is a Electro and House artist with 1 upcoming club date listed on soundcheck as of Fri, 31 Jul 2026, next at TBA - Pier 80, San Francisco/Oakland on Sat, 26 Sept 2026.
+Robyn is a Electro and House artist with 2 upcoming club dates listed on soundcheck as of Fri, 31 Jul 2026, next at TBA - Pier 80, San Francisco/Oakland on Sat, 26 Sept 2026.
 
-Robyn is an electro and house artist based in Sweden, tracked on soundcheck, with 4 sets logged across Berlin, London, Paris and Sanfrancisco. Often billed alongside ALISHA, Airwolf Paradise and Azzecca. Next up: TBA - Pier 80, Sanfrancisco on Sat 26 Sept.
+Robyn is an electro and house artist based in Sweden, tracked on soundcheck, with 5 sets logged across Berlin, London, Paris and Sanfrancisco and 1 more. Often billed alongside Kelela, ALISHA and Airwolf Paradise. Next up: TBA - Pier 80, Sanfrancisco on Sat 26 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 26 Sept 2026 | TBA - Pier 80 | San Francisco/Oakland |
+| Thu, 29 Oct 2026 | Lingotto Fiere | Turin |
 
 ## Recently played
 
@@ -18,6 +19,6 @@ Robyn is an electro and house artist based in Sweden, tracked on soundcheck, wit
 
 ## Shares bills with
 
-ALISHA, Airwolf Paradise, Azzecca
+Kelela, ALISHA, Airwolf Paradise
 
 *Updated Fri, 31 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/robyn/)*

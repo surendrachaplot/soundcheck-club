@@ -1,8 +1,8 @@
 # Oklou
 
-Oklou is a Experimental and Techno artist with 2 upcoming club dates listed on soundcheck as of Fri, 31 Jul 2026, next at Victoria Park, London on Sat, 22 Aug 2026.
+Oklou is a Experimental and Pop artist with 3 upcoming club dates listed on soundcheck as of Fri, 31 Jul 2026, next at Victoria Park, London on Sat, 22 Aug 2026.
 
-Oklou is an experimental and techno artist based in France, tracked on soundcheck, with 30 sets logged across Amsterdam, Brussels, Chicago and Copenhagen and 13 more. Often billed alongside Erika de Casier, Nick León and james K. Next up: Victoria Park, London on Sat 22 Aug.
+Oklou is an experimental and pop artist based in France, tracked on soundcheck, with 31 sets logged across Amsterdam, Brussels, Chicago and Copenhagen and 14 more. Often billed alongside Erika de Casier, Nick León and james K. Next up: Victoria Park, London on Sat 22 Aug.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Oklou is an experimental and techno artist based in France, tracked on soundchec
 | --- | --- | --- |
 | Sat, 22 Aug 2026 | Victoria Park | London |
 | Thu, 24 Sept 2026 | Various Venues | London |
+| Thu, 29 Oct 2026 | Lingotto Fiere | Turin |
 
 ## Recently played
 

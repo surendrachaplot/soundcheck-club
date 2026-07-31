@@ -1,8 +1,8 @@
 # KitKatClub
 
-KitKatClub is a music venue in Berlin with 32 upcoming nights listed on soundcheck as of Fri, 31 Jul 2026; the next is "Red Light Tisco" on Fri, 31 Jul 2026.
+KitKatClub is a music venue in Berlin with 34 upcoming nights listed on soundcheck as of Fri, 31 Jul 2026; the next is "Red Light Tisco" on Fri, 31 Jul 2026.
 
-KitKatClub is a music venue in Berlin listed on soundcheck. 32 upcoming nights, with line-ups including Acid Foxy, Albin Brezlan, alemiko and Alexander Paulski and 2 more. Browse upcoming dates, start times and who's playing. Köpenicker Strasse 76; Mitte; 10179 Berlin; Germany.
+KitKatClub is a music venue in Berlin listed on soundcheck. 34 upcoming nights, with line-ups including Acid Foxy, Albin Brezlan, alemiko and Alexander Paulski and 2 more. Browse upcoming dates, start times and who's playing. Köpenicker Strasse 76; Mitte; 10179 Berlin; Germany.
 
 ## What's on
 
